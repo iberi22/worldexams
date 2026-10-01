@@ -132,7 +132,7 @@ En un microcuento, el efecto de la elipsis narrativa se logra al:
 - [ ] A) Explicarlo todo sin dejar espacio al lector.
   <!-- feedback: Es lo contrario. -->
 - [ ] B) Extender la acción innecesariamente.
-  <!-- feedback: Condensa. -->
+  <!-- feedback: Alargar la acción sin información nueva es justamente lo contrario de la elipsis: la elipsis narrativa comprime, concentrando la información y dejando que el lector la complete. -->
 - [ ] D) Evitar todo conflicto.
   <!-- feedback: Lo concentra. -->
 
@@ -180,7 +180,7 @@ En un texto expositivo, el uso predominante de oraciones declarativas, tercera p
 - [ ] B) El ánimo de entretener con humor.
   <!-- feedback: Predomina información. -->
 - [ ] C) La ausencia de intención comunicativa.
-  <!-- feedback: Comunica. -->
+  <!-- feedback: Un texto expositivo existe para informar, y el uso de la tercera persona y del léxico técnico es precisamente el recurso que le permite hacerlo de forma objetiva y verificable. -->
 
 ### Explicacion Pedagogica
 El registro expositivo privilegia la claridad, la neutralidad y la precisión.
@@ -291,7 +291,7 @@ Al analizar una infografía sobre migración en Colombia, se debe atender princi
 - [x] A) La relación entre texto, imagen y datos cuantitativos para construir sentido.
   <!-- feedback: Es lectura multimodal. -->
 - [ ] B) La marca de la imprenta.
-  <!-- feedback: Irrelevante. -->
+  <!-- feedback: La marca de la imprenta identifica al editor, no al migrante ni a los flujos de población. Los datos, los porcentajes y las categorías de la infografía son los que permiten analizar el fenómeno. -->
 - [ ] C) El número de colores usados.
   <!-- feedback: Es dato formal. -->
 - [ ] D) El tipo de papel.

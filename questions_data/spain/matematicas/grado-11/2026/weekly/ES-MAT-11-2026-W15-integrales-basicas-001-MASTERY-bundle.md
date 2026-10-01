@@ -344,9 +344,9 @@ El ajuste de constantes es una técnica vital: "lo que falta multiplicando dentr
 ¿Cuál de las siguientes afirmaciones sobre la integración es FALSA?
 
 ### Opciones
-- [ ] A) La integral de una suma de funciones es la suma de sus integrales. <!-- feedback: Propiedad verdadera de linealidad. -->
+- [ ] A) La integral de una suma de funciones es la suma de sus integrales. <!-- feedback: Sí es verdadera: la integral de una suma es la suma de las integrales, es la propiedad de linealidad, que por eso no es la afirmación falsa. -->
 - [x] B) La integral de un producto de funciones es el producto de sus integrales. <!-- feedback: Correcto, esta es la afirmación FALSA. El producto requiere técnicas como la integración por partes. -->
-- [ ] C) Las constantes multiplicativas pueden salir fuera del símbolo de la integral. <!-- feedback: Propiedad verdadera de linealidad. -->
+- [ ] C) Las constantes multiplicativas pueden salir fuera del símbolo de la integral. <!-- feedback: Sí es verdadera: si c es una constante, ∫c·f = c·∫f. Es la propiedad de constante multiplicativa, no la afirmación falsa. -->
 - [ ] D) Una función puede tener infinitas primitivas distintas. <!-- feedback: Verdadero, debido a la constante C. -->
 
 ### Explicacion Pedagogica

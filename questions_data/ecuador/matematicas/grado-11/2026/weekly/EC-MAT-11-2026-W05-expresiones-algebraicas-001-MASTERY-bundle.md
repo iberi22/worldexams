@@ -31,13 +31,13 @@ En la Colegio Nacional Manta se modela el área de un terreno en Ambato con la e
 
 ### Opciones
 - [ ] A) 44
-  <!-- feedback: Incorrecto. Por favor, revisa el procedimiento paso a paso. -->
+  <!-- feedback: Cambiaste el signo del término independiente: $27 + 15 + 2 = 44$, pero el término es $-2$, así que se resta. -->
 - [ ] B) 25
-  <!-- feedback: Incorrecto. Por favor, revisa el procedimiento paso a paso. -->
+  <!-- feedback: Te faltó el término $5x$. Sin él, $3(3)^2 - 2 = 27 - 2 = 25$; la expresión tiene tres términos y todos se sustituyen. -->
 - [ ] C) 32
-  <!-- feedback: Incorrecto. Por favor, revisa el procedimiento paso a paso. -->
+  <!-- feedback: Multiplicaste el coeficiente 5 directamente: $3(9) + 5 = 32$. El $5$ también se multiplica por $x = 3$, y da $15$, no $5$. -->
 - [x] D) 40
-  <!-- feedback: Correcto. ¡Excelente análisis! -->
+  <!-- feedback: Correcto. Sustituyendo $x = 3$: $3(3)^2 + 5(3) - 2 = 27 + 15 - 2 = 40$. -->
 
 ### Explicacion Pedagogica
 Sustituyendo $x = 3$: $3(3)^2 + 5(3) - 2 = 3(9) + 15 - 2 = 27 + 15 - 2 = 40$.
@@ -55,13 +55,13 @@ En la Unidad Educativa Santo Domingo se modela el área de un terreno en Ibarra 
 
 ### Opciones
 - [ ] A) 44
-  <!-- feedback: Incorrecto. Por favor, revisa el procedimiento paso a paso. -->
+  <!-- feedback: Cambiaste el signo del término independiente: $27 + 15 + 2 = 44$, pero el término es $-2$, así que se resta. -->
 - [ ] B) 32
-  <!-- feedback: Incorrecto. Por favor, revisa el procedimiento paso a paso. -->
+  <!-- feedback: Multiplicaste el coeficiente 5 directamente: $3(9) + 5 = 32$. El $5$ también se multiplica por $x = 3$, y da $15$, no $5$. -->
 - [ ] C) 25
-  <!-- feedback: Incorrecto. Por favor, revisa el procedimiento paso a paso. -->
+  <!-- feedback: Te faltó el término $5x$. Sin él, $3(3)^2 - 2 = 27 - 2 = 25$; la expresión tiene tres términos y todos se sustituyen. -->
 - [x] D) 40
-  <!-- feedback: Correcto. ¡Excelente análisis! -->
+  <!-- feedback: Correcto. Sustituyendo $x = 3$: $3(3)^2 + 5(3) - 2 = 27 + 15 - 2 = 40$. -->
 
 ### Explicacion Pedagogica
 Sustituyendo $x = 3$: $3(3)^2 + 5(3) - 2 = 3(9) + 15 - 2 = 27 + 15 - 2 = 40$.
@@ -79,13 +79,13 @@ En la Unidad Educativa Bolívar se modela el área de un terreno en Loja con la 
 
 ### Opciones
 - [ ] A) 32
-  <!-- feedback: Incorrecto. Por favor, revisa el procedimiento paso a paso. -->
+  <!-- feedback: Multiplicaste el coeficiente 5 directamente: $3(9) + 5 = 32$. El $5$ también se multiplica por $x = 3$, y da $15$, no $5$. -->
 - [x] B) 40
-  <!-- feedback: Correcto. ¡Excelente análisis! -->
+  <!-- feedback: Correcto. Sustituyendo $x = 3$: $3(3)^2 + 5(3) - 2 = 27 + 15 - 2 = 40$. -->
 - [ ] C) 25
-  <!-- feedback: Incorrecto. Por favor, revisa el procedimiento paso a paso. -->
+  <!-- feedback: Te faltó el término $5x$. Sin él, $3(3)^2 - 2 = 27 - 2 = 25$; la expresión tiene tres términos y todos se sustituyen. -->
 - [ ] D) 44
-  <!-- feedback: Incorrecto. Por favor, revisa el procedimiento paso a paso. -->
+  <!-- feedback: Cambiaste el signo del término independiente: $27 + 15 + 2 = 44$, pero el término es $-2$, así que se resta. -->
 
 ### Explicacion Pedagogica
 Sustituyendo $x = 3$: $3(3)^2 + 5(3) - 2 = 3(9) + 15 - 2 = 27 + 15 - 2 = 40$.
@@ -103,13 +103,13 @@ En la Colegio Nacional Mejía se modela el área de un terreno en Loja con la ex
 
 ### Opciones
 - [ ] A) 32
-  <!-- feedback: Incorrecto. Por favor, revisa el procedimiento paso a paso. -->
+  <!-- feedback: Multiplicaste el coeficiente 5 directamente: $3(9) + 5 = 32$. El $5$ también se multiplica por $x = 3$, y da $15$, no $5$. -->
 - [x] B) 40
-  <!-- feedback: Correcto. ¡Excelente análisis! -->
+  <!-- feedback: Correcto. Sustituyendo $x = 3$: $3(3)^2 + 5(3) - 2 = 27 + 15 - 2 = 40$. -->
 - [ ] C) 25
-  <!-- feedback: Incorrecto. Por favor, revisa el procedimiento paso a paso. -->
+  <!-- feedback: Te faltó el término $5x$. Sin él, $3(3)^2 - 2 = 27 - 2 = 25$; la expresión tiene tres términos y todos se sustituyen. -->
 - [ ] D) 44
-  <!-- feedback: Incorrecto. Por favor, revisa el procedimiento paso a paso. -->
+  <!-- feedback: Cambiaste el signo del término independiente: $27 + 15 + 2 = 44$, pero el término es $-2$, así que se resta. -->
 
 ### Explicacion Pedagogica
 Sustituyendo $x = 3$: $3(3)^2 + 5(3) - 2 = 3(9) + 15 - 2 = 27 + 15 - 2 = 40$.
@@ -127,13 +127,13 @@ Simplifique sumando los términos semejantes de la expresión: $4x^2y - 3xy^2 + 
 
 ### Opciones
 - [ ] A) $8x^4y^2 + 2x^2y^4$
-  <!-- feedback: Incorrecto. Por favor, revisa el procedimiento paso a paso. -->
+  <!-- feedback: Multiplicaste los exponentes, como si hubieras hecho un producto: al sumar términos semejantes los exponentes se conservan y solo se suman los coeficientes. -->
 - [ ] B) $8x^2y - xy^2$
-  <!-- feedback: Incorrecto. Por favor, revisa el procedimiento paso a paso. -->
+  <!-- feedback: Sumaste los coeficientes en vez de agrupar por partes: $4 + 2 = 6$ y $-3 + 5 = 2$, de modo que los signos no se cancelan y el total es $6x^2y + 2xy^2$. -->
 - [x] C) $6x^2y + 2xy^2$
-  <!-- feedback: Correcto. ¡Excelente análisis! -->
+  <!-- feedback: Correcto. Agrupando términos semejantes: $4x^2y + 2x^2y = 6x^2y$ y $-3xy^2 + 5xy^2 = 2xy^2$. -->
 - [ ] D) $6x^2y - 2xy^2$
-  <!-- feedback: Incorrecto. Por favor, revisa el procedimiento paso a paso. -->
+  <!-- feedback: El primer grupo está bien, $4 + 2 = 6$, pero en el segundo cambiaste el signo: $-3 + 5 = +2$, no $-2$. -->
 
 ### Explicacion Pedagogica
 Agrupando términos semejantes: $(4x^2y + 2x^2y) + (-3xy^2 + 5xy^2) = 6x^2y + 2xy^2$.
@@ -151,13 +151,13 @@ Simplifique sumando los términos semejantes de la expresión: $4x^2y - 3xy^2 + 
 
 ### Opciones
 - [x] A) $6x^2y + 2xy^2$
-  <!-- feedback: Correcto. ¡Excelente análisis! -->
+  <!-- feedback: Correcto. Agrupando términos semejantes: $4x^2y + 2x^2y = 6x^2y$ y $-3xy^2 + 5xy^2 = 2xy^2$. -->
 - [ ] B) $6x^2y - 2xy^2$
-  <!-- feedback: Incorrecto. Por favor, revisa el procedimiento paso a paso. -->
+  <!-- feedback: El primer grupo está bien, $4 + 2 = 6$, pero en el segundo cambiaste el signo: $-3 + 5 = +2$, no $-2$. -->
 - [ ] C) $8x^2y - xy^2$
-  <!-- feedback: Incorrecto. Por favor, revisa el procedimiento paso a paso. -->
+  <!-- feedback: Sumaste los coeficientes en vez de agrupar por partes: $4 + 2 = 6$ y $-3 + 5 = 2$, de modo que los signos no se cancelan y el total es $6x^2y + 2xy^2$. -->
 - [ ] D) $8x^4y^2 + 2x^2y^4$
-  <!-- feedback: Incorrecto. Por favor, revisa el procedimiento paso a paso. -->
+  <!-- feedback: Multiplicaste los exponentes, como si hubieras hecho un producto: al sumar términos semejantes los exponentes se conservan y solo se suman los coeficientes. -->
 
 ### Explicacion Pedagogica
 Agrupando términos semejantes: $(4x^2y + 2x^2y) + (-3xy^2 + 5xy^2) = 6x^2y + 2xy^2$.
@@ -175,13 +175,13 @@ Simplifique sumando los términos semejantes de la expresión: $4x^2y - 3xy^2 + 
 
 ### Opciones
 - [ ] A) $8x^4y^2 + 2x^2y^4$
-  <!-- feedback: Incorrecto. Por favor, revisa el procedimiento paso a paso. -->
+  <!-- feedback: Multiplicaste los exponentes, como si hubieras hecho un producto: al sumar términos semejantes los exponentes se conservan y solo se suman los coeficientes. -->
 - [ ] B) $8x^2y - xy^2$
-  <!-- feedback: Incorrecto. Por favor, revisa el procedimiento paso a paso. -->
+  <!-- feedback: Sumaste los coeficientes en vez de agrupar por partes: $4 + 2 = 6$ y $-3 + 5 = 2$, de modo que los signos no se cancelan y el total es $6x^2y + 2xy^2$. -->
 - [ ] C) $6x^2y - 2xy^2$
-  <!-- feedback: Incorrecto. Por favor, revisa el procedimiento paso a paso. -->
+  <!-- feedback: El primer grupo está bien, $4 + 2 = 6$, pero en el segundo cambiaste el signo: $-3 + 5 = +2$, no $-2$. -->
 - [x] D) $6x^2y + 2xy^2$
-  <!-- feedback: Correcto. ¡Excelente análisis! -->
+  <!-- feedback: Correcto. Agrupando términos semejantes: $4x^2y + 2x^2y = 6x^2y$ y $-3xy^2 + 5xy^2 = 2xy^2$. -->
 
 ### Explicacion Pedagogica
 Agrupando términos semejantes: $(4x^2y + 2x^2y) + (-3xy^2 + 5xy^2) = 6x^2y + 2xy^2$.
@@ -199,13 +199,13 @@ Simplifique sumando los términos semejantes de la expresión: $4x^2y - 3xy^2 + 
 
 ### Opciones
 - [x] A) $6x^2y + 2xy^2$
-  <!-- feedback: Correcto. ¡Excelente análisis! -->
+  <!-- feedback: Correcto. Agrupando términos semejantes: $4x^2y + 2x^2y = 6x^2y$ y $-3xy^2 + 5xy^2 = 2xy^2$. -->
 - [ ] B) $8x^2y - xy^2$
-  <!-- feedback: Incorrecto. Por favor, revisa el procedimiento paso a paso. -->
+  <!-- feedback: Sumaste los coeficientes en vez de agrupar por partes: $4 + 2 = 6$ y $-3 + 5 = 2$, de modo que los signos no se cancelan y el total es $6x^2y + 2xy^2$. -->
 - [ ] C) $6x^2y - 2xy^2$
-  <!-- feedback: Incorrecto. Por favor, revisa el procedimiento paso a paso. -->
+  <!-- feedback: El primer grupo está bien, $4 + 2 = 6$, pero en el segundo cambiaste el signo: $-3 + 5 = +2$, no $-2$. -->
 - [ ] D) $8x^4y^2 + 2x^2y^4$
-  <!-- feedback: Incorrecto. Por favor, revisa el procedimiento paso a paso. -->
+  <!-- feedback: Multiplicaste los exponentes, como si hubieras hecho un producto: al sumar términos semejantes los exponentes se conservan y solo se suman los coeficientes. -->
 
 ### Explicacion Pedagogica
 Agrupando términos semejantes: $(4x^2y + 2x^2y) + (-3xy^2 + 5xy^2) = 6x^2y + 2xy^2$.
@@ -223,13 +223,13 @@ Simplifique sumando los términos semejantes de la expresión: $4x^2y - 3xy^2 + 
 
 ### Opciones
 - [ ] A) $8x^4y^2 + 2x^2y^4$
-  <!-- feedback: Incorrecto. Por favor, revisa el procedimiento paso a paso. -->
+  <!-- feedback: Multiplicaste los exponentes, como si hubieras hecho un producto: al sumar términos semejantes los exponentes se conservan y solo se suman los coeficientes. -->
 - [x] B) $6x^2y + 2xy^2$
-  <!-- feedback: Correcto. ¡Excelente análisis! -->
+  <!-- feedback: Correcto. Agrupando términos semejantes: $4x^2y + 2x^2y = 6x^2y$ y $-3xy^2 + 5xy^2 = 2xy^2$. -->
 - [ ] C) $6x^2y - 2xy^2$
-  <!-- feedback: Incorrecto. Por favor, revisa el procedimiento paso a paso. -->
+  <!-- feedback: El primer grupo está bien, $4 + 2 = 6$, pero en el segundo cambiaste el signo: $-3 + 5 = +2$, no $-2$. -->
 - [ ] D) $8x^2y - xy^2$
-  <!-- feedback: Incorrecto. Por favor, revisa el procedimiento paso a paso. -->
+  <!-- feedback: Sumaste los coeficientes en vez de agrupar por partes: $4 + 2 = 6$ y $-3 + 5 = 2$, de modo que los signos no se cancelan y el total es $6x^2y + 2xy^2$. -->
 
 ### Explicacion Pedagogica
 Agrupando términos semejantes: $(4x^2y + 2x^2y) + (-3xy^2 + 5xy^2) = 6x^2y + 2xy^2$.
@@ -247,13 +247,13 @@ Simplifique sumando los términos semejantes de la expresión: $4x^2y - 3xy^2 + 
 
 ### Opciones
 - [ ] A) $8x^2y - xy^2$
-  <!-- feedback: Incorrecto. Por favor, revisa el procedimiento paso a paso. -->
+  <!-- feedback: Sumaste los coeficientes en vez de agrupar por partes: $4 + 2 = 6$ y $-3 + 5 = 2$, de modo que los signos no se cancelan y el total es $6x^2y + 2xy^2$. -->
 - [ ] B) $6x^2y - 2xy^2$
-  <!-- feedback: Incorrecto. Por favor, revisa el procedimiento paso a paso. -->
+  <!-- feedback: El primer grupo está bien, $4 + 2 = 6$, pero en el segundo cambiaste el signo: $-3 + 5 = +2$, no $-2$. -->
 - [x] C) $6x^2y + 2xy^2$
-  <!-- feedback: Correcto. ¡Excelente análisis! -->
+  <!-- feedback: Correcto. Agrupando términos semejantes: $4x^2y + 2x^2y = 6x^2y$ y $-3xy^2 + 5xy^2 = 2xy^2$. -->
 - [ ] D) $8x^4y^2 + 2x^2y^4$
-  <!-- feedback: Incorrecto. Por favor, revisa el procedimiento paso a paso. -->
+  <!-- feedback: Multiplicaste los exponentes, como si hubieras hecho un producto: al sumar términos semejantes los exponentes se conservan y solo se suman los coeficientes. -->
 
 ### Explicacion Pedagogica
 Agrupando términos semejantes: $(4x^2y + 2x^2y) + (-3xy^2 + 5xy^2) = 6x^2y + 2xy^2$.
@@ -271,13 +271,13 @@ Calcule el producto de los polinomios $(2x - 3)(x + 4)$ para determinar el costo
 
 ### Opciones
 - [ ] A) $2x^2 + 5x + 12$
-  <!-- feedback: Incorrecto. Por favor, revisa el procedimiento paso a paso. -->
+  <!-- feedback: El término independiente tiene mal el signo: $(-3)(4) = -12$, no $+12$. El producto de dos números negativos no puede ser positivo aquí. -->
 - [ ] B) $2x^2 + 11x - 12$
-  <!-- feedback: Incorrecto. Por favor, revisa el procedimiento paso a paso. -->
+  <!-- feedback: El término lineal está mal calculado: en realidad es $8x - 3x = 5x$. El 11 sale de sumar $8 + 3$ en vez de restarlos, y el signo de $x$ también cambia al restar. -->
 - [x] C) $2x^2 + 5x - 12$
-  <!-- feedback: Correcto. ¡Excelente análisis! -->
+  <!-- feedback: Correcto. Multiplicando término a término, $2x\cdot x = 2x^2$, $2x\cdot 4 = 8x$, $(-3)\cdot x = -3x$ y $(-3)(4) = -12$; al reducir, $8x - 3x = 5x$, y el resultado es $2x^2 + 5x - 12$. -->
 - [ ] D) $2x^2 - 5x - 12$
-  <!-- feedback: Incorrecto. Por favor, revisa el procedimiento paso a paso. -->
+  <!-- feedback: El término lineal no puede ser negativo: $2x\cdot 4 = 8x$ y $(-3)\cdot x = -3x$, y $8 + (-3) = 5$. Poner $-5x$ equivale a sumar los coeficientes donde corresponde restarlos. -->
 
 ### Explicacion Pedagogica
 Multiplicando término a término: $2x(x) + 2x(4) - 3(x) - 3(4) = 2x^2 + 8x - 3x - 12 = 2x^2 + 5x - 12$.
@@ -295,13 +295,13 @@ Calcule el producto de los polinomios $(2x - 3)(x + 4)$ para determinar el costo
 
 ### Opciones
 - [x] A) $2x^2 + 5x - 12$
-  <!-- feedback: Correcto. ¡Excelente análisis! -->
+  <!-- feedback: Correcto. Multiplicando término a término, $2x\cdot x = 2x^2$, $2x\cdot 4 = 8x$, $(-3)\cdot x = -3x$ y $(-3)(4) = -12$; al reducir, $8x - 3x = 5x$, y el resultado es $2x^2 + 5x - 12$. -->
 - [ ] B) $2x^2 + 11x - 12$
-  <!-- feedback: Incorrecto. Por favor, revisa el procedimiento paso a paso. -->
+  <!-- feedback: El término lineal está mal calculado: en realidad es $8x - 3x = 5x$. El 11 sale de sumar $8 + 3$ en vez de restarlos, y el signo de $x$ también cambia al restar. -->
 - [ ] C) $2x^2 + 5x + 12$
-  <!-- feedback: Incorrecto. Por favor, revisa el procedimiento paso a paso. -->
+  <!-- feedback: El término independiente tiene mal el signo: $(-3)(4) = -12$, no $+12$. El producto de dos números negativos no puede ser positivo aquí. -->
 - [ ] D) $2x^2 - 5x - 12$
-  <!-- feedback: Incorrecto. Por favor, revisa el procedimiento paso a paso. -->
+  <!-- feedback: El término lineal no puede ser negativo: $2x\cdot 4 = 8x$ y $(-3)\cdot x = -3x$, y $8 + (-3) = 5$. Poner $-5x$ equivale a sumar los coeficientes donde corresponde restarlos. -->
 
 ### Explicacion Pedagogica
 Multiplicando término a término: $2x(x) + 2x(4) - 3(x) - 3(4) = 2x^2 + 8x - 3x - 12 = 2x^2 + 5x - 12$.
@@ -319,13 +319,13 @@ Calcule el producto de los polinomios $(2x - 3)(x + 4)$ para determinar el costo
 
 ### Opciones
 - [x] A) $2x^2 + 5x - 12$
-  <!-- feedback: Correcto. ¡Excelente análisis! -->
+  <!-- feedback: Correcto. Multiplicando término a término, $2x\cdot x = 2x^2$, $2x\cdot 4 = 8x$, $(-3)\cdot x = -3x$ y $(-3)(4) = -12$; al reducir, $8x - 3x = 5x$, y el resultado es $2x^2 + 5x - 12$. -->
 - [ ] B) $2x^2 + 11x - 12$
-  <!-- feedback: Incorrecto. Por favor, revisa el procedimiento paso a paso. -->
+  <!-- feedback: El término lineal está mal calculado: en realidad es $8x - 3x = 5x$. El 11 sale de sumar $8 + 3$ en vez de restarlos, y el signo de $x$ también cambia al restar. -->
 - [ ] C) $2x^2 - 5x - 12$
-  <!-- feedback: Incorrecto. Por favor, revisa el procedimiento paso a paso. -->
+  <!-- feedback: El término lineal no puede ser negativo: $2x\cdot 4 = 8x$ y $(-3)\cdot x = -3x$, y $8 + (-3) = 5$. Poner $-5x$ equivale a sumar los coeficientes donde corresponde restarlos. -->
 - [ ] D) $2x^2 + 5x + 12$
-  <!-- feedback: Incorrecto. Por favor, revisa el procedimiento paso a paso. -->
+  <!-- feedback: El término independiente tiene mal el signo: $(-3)(4) = -12$, no $+12$. El producto de dos números negativos no puede ser positivo aquí. -->
 
 ### Explicacion Pedagogica
 Multiplicando término a término: $2x(x) + 2x(4) - 3(x) - 3(4) = 2x^2 + 8x - 3x - 12 = 2x^2 + 5x - 12$.
@@ -343,13 +343,13 @@ Calcule el producto de los polinomios $(2x - 3)(x + 4)$ para determinar el costo
 
 ### Opciones
 - [ ] A) $2x^2 - 5x - 12$
-  <!-- feedback: Incorrecto. Por favor, revisa el procedimiento paso a paso. -->
+  <!-- feedback: El término lineal no puede ser negativo: $2x\cdot 4 = 8x$ y $(-3)\cdot x = -3x$, y $8 + (-3) = 5$. Poner $-5x$ equivale a sumar los coeficientes donde corresponde restarlos. -->
 - [ ] B) $2x^2 + 11x - 12$
-  <!-- feedback: Incorrecto. Por favor, revisa el procedimiento paso a paso. -->
+  <!-- feedback: El término lineal está mal calculado: en realidad es $8x - 3x = 5x$. El 11 sale de sumar $8 + 3$ en vez de restarlos, y el signo de $x$ también cambia al restar. -->
 - [x] C) $2x^2 + 5x - 12$
-  <!-- feedback: Correcto. ¡Excelente análisis! -->
+  <!-- feedback: Correcto. Multiplicando término a término, $2x\cdot x = 2x^2$, $2x\cdot 4 = 8x$, $(-3)\cdot x = -3x$ y $(-3)(4) = -12$; al reducir, $8x - 3x = 5x$, y el resultado es $2x^2 + 5x - 12$. -->
 - [ ] D) $2x^2 + 5x + 12$
-  <!-- feedback: Incorrecto. Por favor, revisa el procedimiento paso a paso. -->
+  <!-- feedback: El término independiente tiene mal el signo: $(-3)(4) = -12$, no $+12$. El producto de dos números negativos no puede ser positivo aquí. -->
 
 ### Explicacion Pedagogica
 Multiplicando término a término: $2x(x) + 2x(4) - 3(x) - 3(4) = 2x^2 + 8x - 3x - 12 = 2x^2 + 5x - 12$.
@@ -367,13 +367,13 @@ Calcule el producto de los polinomios $(2x - 3)(x + 4)$ para determinar el costo
 
 ### Opciones
 - [ ] A) $2x^2 + 11x - 12$
-  <!-- feedback: Incorrecto. Por favor, revisa el procedimiento paso a paso. -->
+  <!-- feedback: El término lineal está mal calculado: en realidad es $8x - 3x = 5x$. El 11 sale de sumar $8 + 3$ en vez de restarlos, y el signo de $x$ también cambia al restar. -->
 - [ ] B) $2x^2 - 5x - 12$
-  <!-- feedback: Incorrecto. Por favor, revisa el procedimiento paso a paso. -->
+  <!-- feedback: El término lineal no puede ser negativo: $2x\cdot 4 = 8x$ y $(-3)\cdot x = -3x$, y $8 + (-3) = 5$. Poner $-5x$ equivale a sumar los coeficientes donde corresponde restarlos. -->
 - [x] C) $2x^2 + 5x - 12$
-  <!-- feedback: Correcto. ¡Excelente análisis! -->
+  <!-- feedback: Correcto. Multiplicando término a término, $2x\cdot x = 2x^2$, $2x\cdot 4 = 8x$, $(-3)\cdot x = -3x$ y $(-3)(4) = -12$; al reducir, $8x - 3x = 5x$, y el resultado es $2x^2 + 5x - 12$. -->
 - [ ] D) $2x^2 + 5x + 12$
-  <!-- feedback: Incorrecto. Por favor, revisa el procedimiento paso a paso. -->
+  <!-- feedback: El término independiente tiene mal el signo: $(-3)(4) = -12$, no $+12$. El producto de dos números negativos no puede ser positivo aquí. -->
 
 ### Explicacion Pedagogica
 Multiplicando término a término: $2x(x) + 2x(4) - 3(x) - 3(4) = 2x^2 + 8x - 3x - 12 = 2x^2 + 5x - 12$.
@@ -391,13 +391,13 @@ Calcule el producto de los polinomios $(2x - 3)(x + 4)$ para determinar el costo
 
 ### Opciones
 - [ ] A) $2x^2 + 5x + 12$
-  <!-- feedback: Incorrecto. Por favor, revisa el procedimiento paso a paso. -->
+  <!-- feedback: El término independiente tiene mal el signo: $(-3)(4) = -12$, no $+12$. El producto de dos números negativos no puede ser positivo aquí. -->
 - [x] B) $2x^2 + 5x - 12$
-  <!-- feedback: Correcto. ¡Excelente análisis! -->
+  <!-- feedback: Correcto. Multiplicando término a término, $2x\cdot x = 2x^2$, $2x\cdot 4 = 8x$, $(-3)\cdot x = -3x$ y $(-3)(4) = -12$; al reducir, $8x - 3x = 5x$, y el resultado es $2x^2 + 5x - 12$. -->
 - [ ] C) $2x^2 + 11x - 12$
-  <!-- feedback: Incorrecto. Por favor, revisa el procedimiento paso a paso. -->
+  <!-- feedback: El término lineal está mal calculado: en realidad es $8x - 3x = 5x$. El 11 sale de sumar $8 + 3$ en vez de restarlos, y el signo de $x$ también cambia al restar. -->
 - [ ] D) $2x^2 - 5x - 12$
-  <!-- feedback: Incorrecto. Por favor, revisa el procedimiento paso a paso. -->
+  <!-- feedback: El término lineal no puede ser negativo: $2x\cdot 4 = 8x$ y $(-3)\cdot x = -3x$, y $8 + (-3) = 5$. Poner $-5x$ equivale a sumar los coeficientes donde corresponde restarlos. -->
 
 ### Explicacion Pedagogica
 Multiplicando término a término: $2x(x) + 2x(4) - 3(x) - 3(4) = 2x^2 + 8x - 3x - 12 = 2x^2 + 5x - 12$.
@@ -415,13 +415,13 @@ Divida el polinomio $2x^3 - 3x^2 + x - 5$ para el binomio $x - 2$ usando el mét
 
 ### Opciones
 - [ ] A) -1
-  <!-- feedback: Incorrecto. Por favor, revisa el procedimiento paso a paso. -->
+  <!-- feedback: El residuo es $1$, no $-1$: al evaluar $P(2)$ sale positivo. Si te da negativo, has cambiado el signo al copiar el coeficiente del término independiente, que es $-5$. -->
 - [x] B) 1
-  <!-- feedback: Correcto. ¡Excelente análisis! -->
+  <!-- feedback: Correcto. El residuo es el valor del polinomio en $x = 2$: $2(8) - 3(4) + 2 - 5 = 16 - 12 + 2 - 5 = 1$. -->
 - [ ] C) -5
-  <!-- feedback: Incorrecto. Por favor, revisa el procedimiento paso a paso. -->
+  <!-- feedback: El $-5$ es el término independiente del polinomio, no el residuo. El residuo se obtiene evaluando todo el polinomio en $x = 2$, y ahí el resultado es $1$. -->
 - [ ] D) 3
-  <!-- feedback: Incorrecto. Por favor, revisa el procedimiento paso a paso. -->
+  <!-- feedback: Ese valor no corresponde a $P(2)$. Al sustituir $x = 2$ en los cuatro términos se obtiene $16 - 12 + 2 - 5$, que suma $1$, no $3$. -->
 
 ### Explicacion Pedagogica
 Evaluando por teorema del residuo en $x=2$: $2(2)^3 - 3(2)^2 + 2 - 5 = 2(8) - 3(4) + 2 - 5 = 16 - 12 + 2 - 5 = 1$.
@@ -439,13 +439,13 @@ Divida el polinomio $2x^3 - 3x^2 + x - 5$ para el binomio $x - 2$ usando el mét
 
 ### Opciones
 - [x] A) 1
-  <!-- feedback: Correcto. ¡Excelente análisis! -->
+  <!-- feedback: Correcto. El residuo es el valor del polinomio en $x = 2$: $2(8) - 3(4) + 2 - 5 = 16 - 12 + 2 - 5 = 1$. -->
 - [ ] B) -5
-  <!-- feedback: Incorrecto. Por favor, revisa el procedimiento paso a paso. -->
+  <!-- feedback: El $-5$ es el término independiente del polinomio, no el residuo. El residuo se obtiene evaluando todo el polinomio en $x = 2$, y ahí el resultado es $1$. -->
 - [ ] C) -1
-  <!-- feedback: Incorrecto. Por favor, revisa el procedimiento paso a paso. -->
+  <!-- feedback: El residuo es $1$, no $-1$: al evaluar $P(2)$ sale positivo. Si te da negativo, has cambiado el signo al copiar el coeficiente del término independiente, que es $-5$. -->
 - [ ] D) 3
-  <!-- feedback: Incorrecto. Por favor, revisa el procedimiento paso a paso. -->
+  <!-- feedback: Ese valor no corresponde a $P(2)$. Al sustituir $x = 2$ en los cuatro términos se obtiene $16 - 12 + 2 - 5$, que suma $1$, no $3$. -->
 
 ### Explicacion Pedagogica
 Evaluando por teorema del residuo en $x=2$: $2(2)^3 - 3(2)^2 + 2 - 5 = 2(8) - 3(4) + 2 - 5 = 16 - 12 + 2 - 5 = 1$.
@@ -463,13 +463,13 @@ Divida el polinomio $2x^3 - 3x^2 + x - 5$ para el binomio $x - 2$ usando el mét
 
 ### Opciones
 - [x] A) 1
-  <!-- feedback: Correcto. ¡Excelente análisis! -->
+  <!-- feedback: Correcto. El residuo es el valor del polinomio en $x = 2$: $2(8) - 3(4) + 2 - 5 = 16 - 12 + 2 - 5 = 1$. -->
 - [ ] B) 3
-  <!-- feedback: Incorrecto. Por favor, revisa el procedimiento paso a paso. -->
+  <!-- feedback: Ese valor no corresponde a $P(2)$. Al sustituir $x = 2$ en los cuatro términos se obtiene $16 - 12 + 2 - 5$, que suma $1$, no $3$. -->
 - [ ] C) -1
-  <!-- feedback: Incorrecto. Por favor, revisa el procedimiento paso a paso. -->
+  <!-- feedback: El residuo es $1$, no $-1$: al evaluar $P(2)$ sale positivo. Si te da negativo, has cambiado el signo al copiar el coeficiente del término independiente, que es $-5$. -->
 - [ ] D) -5
-  <!-- feedback: Incorrecto. Por favor, revisa el procedimiento paso a paso. -->
+  <!-- feedback: El $-5$ es el término independiente del polinomio, no el residuo. El residuo se obtiene evaluando todo el polinomio en $x = 2$, y ahí el resultado es $1$. -->
 
 ### Explicacion Pedagogica
 Evaluando por teorema del residuo en $x=2$: $2(2)^3 - 3(2)^2 + 2 - 5 = 2(8) - 3(4) + 2 - 5 = 16 - 12 + 2 - 5 = 1$.
@@ -487,13 +487,13 @@ Divida el polinomio $2x^3 - 3x^2 + x - 5$ para el binomio $x - 2$ usando el mét
 
 ### Opciones
 - [ ] A) -5
-  <!-- feedback: Incorrecto. Por favor, revisa el procedimiento paso a paso. -->
+  <!-- feedback: El $-5$ es el término independiente del polinomio, no el residuo. El residuo se obtiene evaluando todo el polinomio en $x = 2$, y ahí el resultado es $1$. -->
 - [ ] B) 3
-  <!-- feedback: Incorrecto. Por favor, revisa el procedimiento paso a paso. -->
+  <!-- feedback: Ese valor no corresponde a $P(2)$. Al sustituir $x = 2$ en los cuatro términos se obtiene $16 - 12 + 2 - 5$, que suma $1$, no $3$. -->
 - [x] C) 1
-  <!-- feedback: Correcto. ¡Excelente análisis! -->
+  <!-- feedback: Correcto. El residuo es el valor del polinomio en $x = 2$: $2(8) - 3(4) + 2 - 5 = 16 - 12 + 2 - 5 = 1$. -->
 - [ ] D) -1
-  <!-- feedback: Incorrecto. Por favor, revisa el procedimiento paso a paso. -->
+  <!-- feedback: El residuo es $1$, no $-1$: al evaluar $P(2)$ sale positivo. Si te da negativo, has cambiado el signo al copiar el coeficiente del término independiente, que es $-5$. -->
 
 ### Explicacion Pedagogica
 Evaluando por teorema del residuo en $x=2$: $2(2)^3 - 3(2)^2 + 2 - 5 = 2(8) - 3(4) + 2 - 5 = 16 - 12 + 2 - 5 = 1$.

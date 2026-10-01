@@ -31,13 +31,13 @@ Desarrolle el binomio al cuadrado $(2x + 3)^2$ para un diseño arquitectónico e
 
 ### Opciones
 - [x] A) $4x^2 + 12x + 9$
-  <!-- feedback: Correcto. ¡Excelente análisis! -->
+  <!-- feedback: Es el cuadrado del binomio: $(2x)^2 + 2(2x)(3) + 3^2 = 4x^2 + 12x + 9$. -->
 - [ ] B) $4x^2 + 6x + 9$
-  <!-- feedback: Incorrecto. Por favor, revisa el procedimiento paso a paso. -->
+  <!-- feedback: El término medio debe ser $2(2x)(3)=12x$, no $6x$; se olvidó el factor 2 de la fórmula del cuadrado del binomio. -->
 - [ ] C) $2x^2 + 12x + 9$
-  <!-- feedback: Incorrecto. Por favor, revisa el procedimiento paso a paso. -->
+  <!-- feedback: Al elevar $(2x)^2$ el exponente 2 se aplica al coeficiente, y $(2x)^2 = 4x^2$, no $2x^2$. -->
 - [ ] D) $4x^2 + 9$
-  <!-- feedback: Incorrecto. Por favor, revisa el procedimiento paso a paso. -->
+  <!-- feedback: Falta el término lineal $2(2x)(3)=12x$; solo se desarrollan los dos cuadrados extremos. -->
 
 ### Explicacion Pedagogica
 Aplicando $(a+b)^2 = a^2 + 2ab + b^2$: $(2x)^2 + 2(2x)(3) + 3^2 = 4x^2 + 12x + 9$.
@@ -55,13 +55,13 @@ Desarrolle el binomio al cuadrado $(2x + 3)^2$ para un diseño arquitectónico e
 
 ### Opciones
 - [ ] A) $4x^2 + 9$
-  <!-- feedback: Incorrecto. Por favor, revisa el procedimiento paso a paso. -->
+  <!-- feedback: Falta el término lineal $2(2x)(3)=12x$; solo se desarrollan los dos cuadrados extremos. -->
 - [x] B) $4x^2 + 12x + 9$
-  <!-- feedback: Correcto. ¡Excelente análisis! -->
+  <!-- feedback: Es el cuadrado del binomio: $(2x)^2 + 2(2x)(3) + 3^2 = 4x^2 + 12x + 9$. -->
 - [ ] C) $4x^2 + 6x + 9$
-  <!-- feedback: Incorrecto. Por favor, revisa el procedimiento paso a paso. -->
+  <!-- feedback: El término medio debe ser $2(2x)(3)=12x$, no $6x$; se olvidó el factor 2 de la fórmula del cuadrado del binomio. -->
 - [ ] D) $2x^2 + 12x + 9$
-  <!-- feedback: Incorrecto. Por favor, revisa el procedimiento paso a paso. -->
+  <!-- feedback: Al elevar $(2x)^2$ el exponente 2 se aplica al coeficiente, y $(2x)^2 = 4x^2$, no $2x^2$. -->
 
 ### Explicacion Pedagogica
 Aplicando $(a+b)^2 = a^2 + 2ab + b^2$: $(2x)^2 + 2(2x)(3) + 3^2 = 4x^2 + 12x + 9$.
@@ -79,13 +79,13 @@ Desarrolle el binomio al cuadrado $(2x + 3)^2$ para un diseño arquitectónico e
 
 ### Opciones
 - [ ] A) $2x^2 + 12x + 9$
-  <!-- feedback: Incorrecto. Por favor, revisa el procedimiento paso a paso. -->
+  <!-- feedback: Al elevar $(2x)^2$ el exponente 2 se aplica al coeficiente, y $(2x)^2 = 4x^2$, no $2x^2$. -->
 - [x] B) $4x^2 + 12x + 9$
-  <!-- feedback: Correcto. ¡Excelente análisis! -->
+  <!-- feedback: Es el cuadrado del binomio: $(2x)^2 + 2(2x)(3) + 3^2 = 4x^2 + 12x + 9$. -->
 - [ ] C) $4x^2 + 6x + 9$
-  <!-- feedback: Incorrecto. Por favor, revisa el procedimiento paso a paso. -->
+  <!-- feedback: El término medio debe ser $2(2x)(3)=12x$, no $6x$; se olvidó el factor 2 de la fórmula del cuadrado del binomio. -->
 - [ ] D) $4x^2 + 9$
-  <!-- feedback: Incorrecto. Por favor, revisa el procedimiento paso a paso. -->
+  <!-- feedback: Falta el término lineal $2(2x)(3)=12x$; solo se desarrollan los dos cuadrados extremos. -->
 
 ### Explicacion Pedagogica
 Aplicando $(a+b)^2 = a^2 + 2ab + b^2$: $(2x)^2 + 2(2x)(3) + 3^2 = 4x^2 + 12x + 9$.
@@ -103,13 +103,13 @@ Desarrolle el binomio al cuadrado $(2x + 3)^2$ para un diseño arquitectónico e
 
 ### Opciones
 - [ ] A) $2x^2 + 12x + 9$
-  <!-- feedback: Incorrecto. Por favor, revisa el procedimiento paso a paso. -->
+  <!-- feedback: Al elevar $(2x)^2$ el exponente 2 se aplica al coeficiente, y $(2x)^2 = 4x^2$, no $2x^2$. -->
 - [ ] B) $4x^2 + 6x + 9$
-  <!-- feedback: Incorrecto. Por favor, revisa el procedimiento paso a paso. -->
+  <!-- feedback: El término medio debe ser $2(2x)(3)=12x$, no $6x$; se olvidó el factor 2 de la fórmula del cuadrado del binomio. -->
 - [ ] C) $4x^2 + 9$
-  <!-- feedback: Incorrecto. Por favor, revisa el procedimiento paso a paso. -->
+  <!-- feedback: Falta el término lineal $2(2x)(3)=12x$; solo se desarrollan los dos cuadrados extremos. -->
 - [x] D) $4x^2 + 12x + 9$
-  <!-- feedback: Correcto. ¡Excelente análisis! -->
+  <!-- feedback: Es el cuadrado del binomio: $(2x)^2 + 2(2x)(3) + 3^2 = 4x^2 + 12x + 9$. -->
 
 ### Explicacion Pedagogica
 Aplicando $(a+b)^2 = a^2 + 2ab + b^2$: $(2x)^2 + 2(2x)(3) + 3^2 = 4x^2 + 12x + 9$.
@@ -127,13 +127,13 @@ Aplicando $(a+b)^2 = a^2 + 2ab + b^2$: $(2x)^2 + 2(2x)(3) + 3^2 = 4x^2 + 12x + 9
 
 ### Opciones
 - [ ] A) $9a^2 - 24ab - 16b^2$
-  <!-- feedback: Incorrecto. Por favor, revisa el procedimiento paso a paso. -->
+  <!-- feedback: Al desarrollar se restan los términos cruzados $2(3a)(4b)=24ab$, pero en una diferencia de cuadrados esos términos se cancelan. -->
 - [ ] B) $9a^2 + 16b^2$
-  <!-- feedback: Incorrecto. Por favor, revisa el procedimiento paso a paso. -->
+  <!-- feedback: Falta el signo menos: la diferencia de cuadrados resta, y el producto $(3a-4b)(3a+4b)$ no puede dar dos cuadrados positivos. -->
 - [x] C) $9a^2 - 16b^2$
-  <!-- feedback: Correcto. ¡Excelente análisis! -->
+  <!-- feedback: Es una diferencia de cuadrados: $(3a)^2 - (4b)^2 = 9a^2 - 16b^2$. -->
 - [ ] D) $6a^2 - 8b^2$
-  <!-- feedback: Incorrecto. Por favor, revisa el procedimiento paso a paso. -->
+  <!-- feedback: Los coeficientes salen de elevar 3 y 4 al cuadrado, es decir 9 y 16, no de multiplicarlos por 2. -->
 
 ### Explicacion Pedagogica
 Corresponde a un producto de una suma por su diferencia, que da una diferencia de cuadrados: $(3a)^2 - (4b)^2 = 9a^2 - 16b^2$.
@@ -151,13 +151,13 @@ Corresponde a un producto de una suma por su diferencia, que da una diferencia d
 
 ### Opciones
 - [ ] A) $9a^2 - 24ab - 16b^2$
-  <!-- feedback: Incorrecto. Por favor, revisa el procedimiento paso a paso. -->
+  <!-- feedback: Al desarrollar se restan los términos cruzados $2(3a)(4b)=24ab$, pero en una diferencia de cuadrados esos términos se cancelan. -->
 - [x] B) $9a^2 - 16b^2$
-  <!-- feedback: Correcto. ¡Excelente análisis! -->
+  <!-- feedback: Es una diferencia de cuadrados: $(3a)^2 - (4b)^2 = 9a^2 - 16b^2$. -->
 - [ ] C) $6a^2 - 8b^2$
-  <!-- feedback: Incorrecto. Por favor, revisa el procedimiento paso a paso. -->
+  <!-- feedback: Los coeficientes salen de elevar 3 y 4 al cuadrado, es decir 9 y 16, no de multiplicarlos por 2. -->
 - [ ] D) $9a^2 + 16b^2$
-  <!-- feedback: Incorrecto. Por favor, revisa el procedimiento paso a paso. -->
+  <!-- feedback: Falta el signo menos: la diferencia de cuadrados resta, y el producto $(3a-4b)(3a+4b)$ no puede dar dos cuadrados positivos. -->
 
 ### Explicacion Pedagogica
 Corresponde a un producto de una suma por su diferencia, que da una diferencia de cuadrados: $(3a)^2 - (4b)^2 = 9a^2 - 16b^2$.
@@ -175,13 +175,13 @@ Corresponde a un producto de una suma por su diferencia, que da una diferencia d
 
 ### Opciones
 - [ ] A) $6a^2 - 8b^2$
-  <!-- feedback: Incorrecto. Por favor, revisa el procedimiento paso a paso. -->
+  <!-- feedback: Los coeficientes salen de elevar 3 y 4 al cuadrado, es decir 9 y 16, no de multiplicarlos por 2. -->
 - [ ] B) $9a^2 - 24ab - 16b^2$
-  <!-- feedback: Incorrecto. Por favor, revisa el procedimiento paso a paso. -->
+  <!-- feedback: Al desarrollar se restan los términos cruzados $2(3a)(4b)=24ab$, pero en una diferencia de cuadrados esos términos se cancelan. -->
 - [ ] C) $9a^2 + 16b^2$
-  <!-- feedback: Incorrecto. Por favor, revisa el procedimiento paso a paso. -->
+  <!-- feedback: Falta el signo menos: la diferencia de cuadrados resta, y el producto $(3a-4b)(3a+4b)$ no puede dar dos cuadrados positivos. -->
 - [x] D) $9a^2 - 16b^2$
-  <!-- feedback: Correcto. ¡Excelente análisis! -->
+  <!-- feedback: Es una diferencia de cuadrados: $(3a)^2 - (4b)^2 = 9a^2 - 16b^2$. -->
 
 ### Explicacion Pedagogica
 Corresponde a un producto de una suma por su diferencia, que da una diferencia de cuadrados: $(3a)^2 - (4b)^2 = 9a^2 - 16b^2$.
@@ -199,13 +199,13 @@ Corresponde a un producto de una suma por su diferencia, que da una diferencia d
 
 ### Opciones
 - [x] A) $9a^2 - 16b^2$
-  <!-- feedback: Correcto. ¡Excelente análisis! -->
+  <!-- feedback: Es una diferencia de cuadrados: $(3a)^2 - (4b)^2 = 9a^2 - 16b^2$. -->
 - [ ] B) $9a^2 + 16b^2$
-  <!-- feedback: Incorrecto. Por favor, revisa el procedimiento paso a paso. -->
+  <!-- feedback: Falta el signo menos: la diferencia de cuadrados resta, y el producto $(3a-4b)(3a+4b)$ no puede dar dos cuadrados positivos. -->
 - [ ] C) $6a^2 - 8b^2$
-  <!-- feedback: Incorrecto. Por favor, revisa el procedimiento paso a paso. -->
+  <!-- feedback: Los coeficientes salen de elevar 3 y 4 al cuadrado, es decir 9 y 16, no de multiplicarlos por 2. -->
 - [ ] D) $9a^2 - 24ab - 16b^2$
-  <!-- feedback: Incorrecto. Por favor, revisa el procedimiento paso a paso. -->
+  <!-- feedback: Al desarrollar se restan los términos cruzados $2(3a)(4b)=24ab$, pero en una diferencia de cuadrados esos términos se cancelan. -->
 
 ### Explicacion Pedagogica
 Corresponde a un producto de una suma por su diferencia, que da una diferencia de cuadrados: $(3a)^2 - (4b)^2 = 9a^2 - 16b^2$.
@@ -223,13 +223,13 @@ Corresponde a un producto de una suma por su diferencia, que da una diferencia d
 
 ### Opciones
 - [ ] A) $6a^2 - 8b^2$
-  <!-- feedback: Incorrecto. Por favor, revisa el procedimiento paso a paso. -->
+  <!-- feedback: Los coeficientes salen de elevar 3 y 4 al cuadrado, es decir 9 y 16, no de multiplicarlos por 2. -->
 - [ ] B) $9a^2 - 24ab - 16b^2$
-  <!-- feedback: Incorrecto. Por favor, revisa el procedimiento paso a paso. -->
+  <!-- feedback: Al desarrollar se restan los términos cruzados $2(3a)(4b)=24ab$, pero en una diferencia de cuadrados esos términos se cancelan. -->
 - [ ] C) $9a^2 + 16b^2$
-  <!-- feedback: Incorrecto. Por favor, revisa el procedimiento paso a paso. -->
+  <!-- feedback: Falta el signo menos: la diferencia de cuadrados resta, y el producto $(3a-4b)(3a+4b)$ no puede dar dos cuadrados positivos. -->
 - [x] D) $9a^2 - 16b^2$
-  <!-- feedback: Correcto. ¡Excelente análisis! -->
+  <!-- feedback: Es una diferencia de cuadrados: $(3a)^2 - (4b)^2 = 9a^2 - 16b^2$. -->
 
 ### Explicacion Pedagogica
 Corresponde a un producto de una suma por su diferencia, que da una diferencia de cuadrados: $(3a)^2 - (4b)^2 = 9a^2 - 16b^2$.
@@ -247,13 +247,13 @@ Corresponde a un producto de una suma por su diferencia, que da una diferencia d
 
 ### Opciones
 - [ ] A) $9a^2 - 24ab - 16b^2$
-  <!-- feedback: Incorrecto. Por favor, revisa el procedimiento paso a paso. -->
+  <!-- feedback: Al desarrollar se restan los términos cruzados $2(3a)(4b)=24ab$, pero en una diferencia de cuadrados esos términos se cancelan. -->
 - [x] B) $9a^2 - 16b^2$
-  <!-- feedback: Correcto. ¡Excelente análisis! -->
+  <!-- feedback: Es una diferencia de cuadrados: $(3a)^2 - (4b)^2 = 9a^2 - 16b^2$. -->
 - [ ] C) $9a^2 + 16b^2$
-  <!-- feedback: Incorrecto. Por favor, revisa el procedimiento paso a paso. -->
+  <!-- feedback: Falta el signo menos: la diferencia de cuadrados resta, y el producto $(3a-4b)(3a+4b)$ no puede dar dos cuadrados positivos. -->
 - [ ] D) $6a^2 - 8b^2$
-  <!-- feedback: Incorrecto. Por favor, revisa el procedimiento paso a paso. -->
+  <!-- feedback: Los coeficientes salen de elevar 3 y 4 al cuadrado, es decir 9 y 16, no de multiplicarlos por 2. -->
 
 ### Explicacion Pedagogica
 Corresponde a un producto de una suma por su diferencia, que da una diferencia de cuadrados: $(3a)^2 - (4b)^2 = 9a^2 - 16b^2$.
@@ -271,13 +271,13 @@ Desarrolle el binomio al cubo $(x - 2)^3$ para modelar el volumen de un estanque
 
 ### Opciones
 - [ ] A) $x^3 - 2x^2 + 4x - 8$
-  <!-- feedback: Incorrecto. Por favor, revisa el procedimiento paso a paso. -->
+  <!-- feedback: Los coeficientes del cubo son 3, no 1: el término en $x^2$ vale $-3x^2\cdot 2 = -6x^2$ y el término en $x$ vale $3x\cdot 4 = 12x$. -->
 - [ ] B) $x^3 - 6x^2 - 12x - 8$
-  <!-- feedback: Incorrecto. Por favor, revisa el procedimiento paso a paso. -->
+  <!-- feedback: El término en $x$ cambia de signo: como el binomio es $(x-2)$ el signo del término lineal sigue el alterno y es $+12x$. -->
 - [ ] C) $x^3 - 8$
-  <!-- feedback: Incorrecto. Por favor, revisa el procedimiento paso a paso. -->
+  <!-- feedback: Se omitieron los términos intermedios; $(x-2)^3$ no es una diferencia de cubos sino un cubo completo con cuatro términos. -->
 - [x] D) $x^3 - 6x^2 + 12x - 8$
-  <!-- feedback: Correcto. ¡Excelente análisis! -->
+  <!-- feedback: Es el cubo del binomio: $x^3 - 3x^2(2) + 3x(2^2) - 2^3 = x^3 - 6x^2 + 12x - 8$. -->
 
 ### Explicacion Pedagogica
 Aplicando $(a-b)^3 = a^3 - 3a^2b + 3ab^2 - b^3$: $x^3 - 3(x^2)(2) + 3(x)(2^2) - 2^3 = x^3 - 6x^2 + 12x - 8$.
@@ -295,13 +295,13 @@ Desarrolle el binomio al cubo $(x - 2)^3$ para modelar el volumen de un estanque
 
 ### Opciones
 - [ ] A) $x^3 - 6x^2 - 12x - 8$
-  <!-- feedback: Incorrecto. Por favor, revisa el procedimiento paso a paso. -->
+  <!-- feedback: El término en $x$ cambia de signo: como el binomio es $(x-2)$ el signo del término lineal sigue el alterno y es $+12x$. -->
 - [ ] B) $x^3 - 8$
-  <!-- feedback: Incorrecto. Por favor, revisa el procedimiento paso a paso. -->
+  <!-- feedback: Se omitieron los términos intermedios; $(x-2)^3$ no es una diferencia de cubos sino un cubo completo con cuatro términos. -->
 - [x] C) $x^3 - 6x^2 + 12x - 8$
-  <!-- feedback: Correcto. ¡Excelente análisis! -->
+  <!-- feedback: Es el cubo del binomio: $x^3 - 3x^2(2) + 3x(2^2) - 2^3 = x^3 - 6x^2 + 12x - 8$. -->
 - [ ] D) $x^3 - 2x^2 + 4x - 8$
-  <!-- feedback: Incorrecto. Por favor, revisa el procedimiento paso a paso. -->
+  <!-- feedback: Los coeficientes del cubo son 3, no 1: el término en $x^2$ vale $-3x^2\cdot 2 = -6x^2$ y el término en $x$ vale $3x\cdot 4 = 12x$. -->
 
 ### Explicacion Pedagogica
 Aplicando $(a-b)^3 = a^3 - 3a^2b + 3ab^2 - b^3$: $x^3 - 3(x^2)(2) + 3(x)(2^2) - 2^3 = x^3 - 6x^2 + 12x - 8$.
@@ -319,13 +319,13 @@ Desarrolle el binomio al cubo $(x - 2)^3$ para modelar el volumen de un estanque
 
 ### Opciones
 - [x] A) $x^3 - 6x^2 + 12x - 8$
-  <!-- feedback: Correcto. ¡Excelente análisis! -->
+  <!-- feedback: Es el cubo del binomio: $x^3 - 3x^2(2) + 3x(2^2) - 2^3 = x^3 - 6x^2 + 12x - 8$. -->
 - [ ] B) $x^3 - 6x^2 - 12x - 8$
-  <!-- feedback: Incorrecto. Por favor, revisa el procedimiento paso a paso. -->
+  <!-- feedback: El término en $x$ cambia de signo: como el binomio es $(x-2)$ el signo del término lineal sigue el alterno y es $+12x$. -->
 - [ ] C) $x^3 - 8$
-  <!-- feedback: Incorrecto. Por favor, revisa el procedimiento paso a paso. -->
+  <!-- feedback: Se omitieron los términos intermedios; $(x-2)^3$ no es una diferencia de cubos sino un cubo completo con cuatro términos. -->
 - [ ] D) $x^3 - 2x^2 + 4x - 8$
-  <!-- feedback: Incorrecto. Por favor, revisa el procedimiento paso a paso. -->
+  <!-- feedback: Los coeficientes del cubo son 3, no 1: el término en $x^2$ vale $-3x^2\cdot 2 = -6x^2$ y el término en $x$ vale $3x\cdot 4 = 12x$. -->
 
 ### Explicacion Pedagogica
 Aplicando $(a-b)^3 = a^3 - 3a^2b + 3ab^2 - b^3$: $x^3 - 3(x^2)(2) + 3(x)(2^2) - 2^3 = x^3 - 6x^2 + 12x - 8$.
@@ -343,13 +343,13 @@ Desarrolle el binomio al cubo $(x - 2)^3$ para modelar el volumen de un estanque
 
 ### Opciones
 - [ ] A) $x^3 - 8$
-  <!-- feedback: Incorrecto. Por favor, revisa el procedimiento paso a paso. -->
+  <!-- feedback: Se omitieron los términos intermedios; $(x-2)^3$ no es una diferencia de cubos sino un cubo completo con cuatro términos. -->
 - [ ] B) $x^3 - 6x^2 - 12x - 8$
-  <!-- feedback: Incorrecto. Por favor, revisa el procedimiento paso a paso. -->
+  <!-- feedback: El término en $x$ cambia de signo: como el binomio es $(x-2)$ el signo del término lineal sigue el alterno y es $+12x$. -->
 - [x] C) $x^3 - 6x^2 + 12x - 8$
-  <!-- feedback: Correcto. ¡Excelente análisis! -->
+  <!-- feedback: Es el cubo del binomio: $x^3 - 3x^2(2) + 3x(2^2) - 2^3 = x^3 - 6x^2 + 12x - 8$. -->
 - [ ] D) $x^3 - 2x^2 + 4x - 8$
-  <!-- feedback: Incorrecto. Por favor, revisa el procedimiento paso a paso. -->
+  <!-- feedback: Los coeficientes del cubo son 3, no 1: el término en $x^2$ vale $-3x^2\cdot 2 = -6x^2$ y el término en $x$ vale $3x\cdot 4 = 12x$. -->
 
 ### Explicacion Pedagogica
 Aplicando $(a-b)^3 = a^3 - 3a^2b + 3ab^2 - b^3$: $x^3 - 3(x^2)(2) + 3(x)(2^2) - 2^3 = x^3 - 6x^2 + 12x - 8$.
@@ -367,13 +367,13 @@ Desarrolle el binomio al cubo $(x - 2)^3$ para modelar el volumen de un estanque
 
 ### Opciones
 - [ ] A) $x^3 - 2x^2 + 4x - 8$
-  <!-- feedback: Incorrecto. Por favor, revisa el procedimiento paso a paso. -->
+  <!-- feedback: Los coeficientes del cubo son 3, no 1: el término en $x^2$ vale $-3x^2\cdot 2 = -6x^2$ y el término en $x$ vale $3x\cdot 4 = 12x$. -->
 - [ ] B) $x^3 - 6x^2 - 12x - 8$
-  <!-- feedback: Incorrecto. Por favor, revisa el procedimiento paso a paso. -->
+  <!-- feedback: El término en $x$ cambia de signo: como el binomio es $(x-2)$ el signo del término lineal sigue el alterno y es $+12x$. -->
 - [x] C) $x^3 - 6x^2 + 12x - 8$
-  <!-- feedback: Correcto. ¡Excelente análisis! -->
+  <!-- feedback: Es el cubo del binomio: $x^3 - 3x^2(2) + 3x(2^2) - 2^3 = x^3 - 6x^2 + 12x - 8$. -->
 - [ ] D) $x^3 - 8$
-  <!-- feedback: Incorrecto. Por favor, revisa el procedimiento paso a paso. -->
+  <!-- feedback: Se omitieron los términos intermedios; $(x-2)^3$ no es una diferencia de cubos sino un cubo completo con cuatro términos. -->
 
 ### Explicacion Pedagogica
 Aplicando $(a-b)^3 = a^3 - 3a^2b + 3ab^2 - b^3$: $x^3 - 3(x^2)(2) + 3(x)(2^2) - 2^3 = x^3 - 6x^2 + 12x - 8$.
@@ -391,13 +391,13 @@ Desarrolle el binomio al cubo $(x - 2)^3$ para modelar el volumen de un estanque
 
 ### Opciones
 - [ ] A) $x^3 - 8$
-  <!-- feedback: Incorrecto. Por favor, revisa el procedimiento paso a paso. -->
+  <!-- feedback: Se omitieron los términos intermedios; $(x-2)^3$ no es una diferencia de cubos sino un cubo completo con cuatro términos. -->
 - [ ] B) $x^3 - 2x^2 + 4x - 8$
-  <!-- feedback: Incorrecto. Por favor, revisa el procedimiento paso a paso. -->
+  <!-- feedback: Los coeficientes del cubo son 3, no 1: el término en $x^2$ vale $-3x^2\cdot 2 = -6x^2$ y el término en $x$ vale $3x\cdot 4 = 12x$. -->
 - [ ] C) $x^3 - 6x^2 - 12x - 8$
-  <!-- feedback: Incorrecto. Por favor, revisa el procedimiento paso a paso. -->
+  <!-- feedback: El término en $x$ cambia de signo: como el binomio es $(x-2)$ el signo del término lineal sigue el alterno y es $+12x$. -->
 - [x] D) $x^3 - 6x^2 + 12x - 8$
-  <!-- feedback: Correcto. ¡Excelente análisis! -->
+  <!-- feedback: Es el cubo del binomio: $x^3 - 3x^2(2) + 3x(2^2) - 2^3 = x^3 - 6x^2 + 12x - 8$. -->
 
 ### Explicacion Pedagogica
 Aplicando $(a-b)^3 = a^3 - 3a^2b + 3ab^2 - b^3$: $x^3 - 3(x^2)(2) + 3(x)(2^2) - 2^3 = x^3 - 6x^2 + 12x - 8$.
@@ -415,13 +415,13 @@ Simplifique la expresión $(x + 1)(x^2 - x + 1)$ obtenida en el estudio de trans
 
 ### Opciones
 - [ ] A) $x^3 - x + 1$
-  <!-- feedback: Incorrecto. Por favor, revisa el procedimiento paso a paso. -->
+  <!-- feedback: Al multiplicar término a término los términos en $x^2$ y en $x$ se cancelan, de modo que no pueden quedar restos como $-x$. -->
 - [ ] B) $x^3 + 2x^2 + 1$
-  <!-- feedback: Incorrecto. Por favor, revisa el procedimiento paso a paso. -->
+  <!-- feedback: El término en $x^2$ es $x^2 - x^2 = 0$, no $2x^2$; se descuidó la cancelación de los términos intermedios. -->
 - [ ] C) $x^3 - 1$
-  <!-- feedback: Incorrecto. Por favor, revisa el procedimiento paso a paso. -->
+  <!-- feedback: La diferencia de cubos sería $(x-1)(x^2 + x + 1)$; aquí el segundo factor es $x^2 - x + 1$, de modo que el resultado es $x^3 + 1$. -->
 - [x] D) $x^3 + 1$
-  <!-- feedback: Correcto. ¡Excelente análisis! -->
+  <!-- feedback: Es la suma de cubos $(x+1)(x^2 - x + 1) = x^3 + 1$, que coincide con el producto de binomio y trinomio dados. -->
 
 ### Explicacion Pedagogica
 Es el producto notable que da como resultado una suma de cubos: $(x+1)(x^2-x+1) = x^3 + 1^3 = x^3 + 1$.
@@ -439,13 +439,13 @@ Simplifique la expresión $(x + 1)(x^2 - x + 1)$ obtenida en el estudio de trans
 
 ### Opciones
 - [ ] A) $x^3 - 1$
-  <!-- feedback: Incorrecto. Por favor, revisa el procedimiento paso a paso. -->
+  <!-- feedback: La diferencia de cubos sería $(x-1)(x^2 + x + 1)$; aquí el segundo factor es $x^2 - x + 1$, de modo que el resultado es $x^3 + 1$. -->
 - [ ] B) $x^3 + 2x^2 + 1$
-  <!-- feedback: Incorrecto. Por favor, revisa el procedimiento paso a paso. -->
+  <!-- feedback: El término en $x^2$ es $x^2 - x^2 = 0$, no $2x^2$; se descuidó la cancelación de los términos intermedios. -->
 - [ ] C) $x^3 - x + 1$
-  <!-- feedback: Incorrecto. Por favor, revisa el procedimiento paso a paso. -->
+  <!-- feedback: Al multiplicar término a término los términos en $x^2$ y en $x$ se cancelan, de modo que no pueden quedar restos como $-x$. -->
 - [x] D) $x^3 + 1$
-  <!-- feedback: Correcto. ¡Excelente análisis! -->
+  <!-- feedback: Es la suma de cubos $(x+1)(x^2 - x + 1) = x^3 + 1$, que coincide con el producto de binomio y trinomio dados. -->
 
 ### Explicacion Pedagogica
 Es el producto notable que da como resultado una suma de cubos: $(x+1)(x^2-x+1) = x^3 + 1^3 = x^3 + 1$.
@@ -463,13 +463,13 @@ Simplifique la expresión $(x + 1)(x^2 - x + 1)$ obtenida en el estudio de trans
 
 ### Opciones
 - [ ] A) $x^3 - x + 1$
-  <!-- feedback: Incorrecto. Por favor, revisa el procedimiento paso a paso. -->
+  <!-- feedback: Al multiplicar término a término los términos en $x^2$ y en $x$ se cancelan, de modo que no pueden quedar restos como $-x$. -->
 - [ ] B) $x^3 - 1$
-  <!-- feedback: Incorrecto. Por favor, revisa el procedimiento paso a paso. -->
+  <!-- feedback: La diferencia de cubos sería $(x-1)(x^2 + x + 1)$; aquí el segundo factor es $x^2 - x + 1$, de modo que el resultado es $x^3 + 1$. -->
 - [ ] C) $x^3 + 2x^2 + 1$
-  <!-- feedback: Incorrecto. Por favor, revisa el procedimiento paso a paso. -->
+  <!-- feedback: El término en $x^2$ es $x^2 - x^2 = 0$, no $2x^2$; se descuidó la cancelación de los términos intermedios. -->
 - [x] D) $x^3 + 1$
-  <!-- feedback: Correcto. ¡Excelente análisis! -->
+  <!-- feedback: Es la suma de cubos $(x+1)(x^2 - x + 1) = x^3 + 1$, que coincide con el producto de binomio y trinomio dados. -->
 
 ### Explicacion Pedagogica
 Es el producto notable que da como resultado una suma de cubos: $(x+1)(x^2-x+1) = x^3 + 1^3 = x^3 + 1$.
@@ -487,13 +487,13 @@ Simplifique la expresión $(x + 1)(x^2 - x + 1)$ obtenida en el estudio de trans
 
 ### Opciones
 - [ ] A) $x^3 - 1$
-  <!-- feedback: Incorrecto. Por favor, revisa el procedimiento paso a paso. -->
+  <!-- feedback: La diferencia de cubos sería $(x-1)(x^2 + x + 1)$; aquí el segundo factor es $x^2 - x + 1$, de modo que el resultado es $x^3 + 1$. -->
 - [x] B) $x^3 + 1$
-  <!-- feedback: Correcto. ¡Excelente análisis! -->
+  <!-- feedback: Es la suma de cubos $(x+1)(x^2 - x + 1) = x^3 + 1$, que coincide con el producto de binomio y trinomio dados. -->
 - [ ] C) $x^3 - x + 1$
-  <!-- feedback: Incorrecto. Por favor, revisa el procedimiento paso a paso. -->
+  <!-- feedback: Al multiplicar término a término los términos en $x^2$ y en $x$ se cancelan, de modo que no pueden quedar restos como $-x$. -->
 - [ ] D) $x^3 + 2x^2 + 1$
-  <!-- feedback: Incorrecto. Por favor, revisa el procedimiento paso a paso. -->
+  <!-- feedback: El término en $x^2$ es $x^2 - x^2 = 0$, no $2x^2$; se descuidó la cancelación de los términos intermedios. -->
 
 ### Explicacion Pedagogica
 Es el producto notable que da como resultado una suma de cubos: $(x+1)(x^2-x+1) = x^3 + 1^3 = x^3 + 1$.

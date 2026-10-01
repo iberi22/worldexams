@@ -33,13 +33,13 @@ What is the English word for: "A place where you live or stay on holiday."
 
 ### Opciones
 - [x] A) accommodation
-  <!-- feedback: Correct! 'accommodation' matches the definition. -->
+  <!-- feedback: Correct! 'accommodation' is the place where you live or stay, especially on holiday, and it is the word the definition asks for. -->
 - [ ] B) transportation
-  <!-- feedback: Incorrect. Try again. -->
+  <!-- feedback: 'transportation' is the system that moves people or goods (buses, trains, taxis), not a place where you live or stay. -->
 - [ ] C) entertainment
-  <!-- feedback: Incorrect. Try again. -->
+  <!-- feedback: 'entertainment' means the shows, music and activities that amuse you, so it names an experience rather than a place. -->
 - [ ] D) currency
-  <!-- feedback: Incorrect. Try again. -->
+  <!-- feedback: 'currency' is the money system of a country, such as the dollar or the colon, so it has nothing to do with a place to stay. -->
 
 ### Explicacion Pedagogica
 The word 'accommodation' is used to describe a place where you live or stay on holiday. This is an important vocabulary word in English.
@@ -56,13 +56,13 @@ What is the English word for: "A detailed plan or route of a journey."
 
 ### Opciones
 - [x] A) itinerary
-  <!-- feedback: Correct! 'itinerary' matches the definition. -->
+  <!-- feedback: Correct! An 'itinerary' is the detailed plan or route of a journey: it lists the places, stops and times in order. -->
 - [ ] B) baggage
-  <!-- feedback: Incorrect. Try again. -->
+  <!-- feedback: 'baggage' means the suitcases and bags you travel with, not the plan that organises the trip. -->
 - [ ] C) destination
-  <!-- feedback: Incorrect. Try again. -->
+  <!-- feedback: 'destination' is the place you are travelling to, one single stop of the plan rather than the plan itself. -->
 - [ ] D) passport
-  <!-- feedback: Incorrect. Try again. -->
+  <!-- feedback: 'passport' is the official travel document you show at the border, not a description of the journey route. -->
 
 ### Explicacion Pedagogica
 The word 'itinerary' is used to describe a detailed plan or route of a journey. This is an important vocabulary word in English.
@@ -79,13 +79,13 @@ What is the English word for: "The place to which someone or something is going 
 
 ### Opciones
 - [x] C) destination
-  <!-- feedback: Correct! 'destination' matches the definition. -->
+  <!-- feedback: Correct! A 'destination' is the place to which someone or something is going or being sent. -->
 - [ ] A) departure
-  <!-- feedback: Incorrect. Try again. -->
+  <!-- feedback: 'departure' is the act of leaving, the opposite side of the trip; the definition asks for the place, not the action. -->
 - [ ] B) arrival
-  <!-- feedback: Incorrect. Try again. -->
+  <!-- feedback: 'arrival' is the event of getting there, but a definition needs the place itself, not the moment of reaching it. -->
 - [ ] D) journey
-  <!-- feedback: Incorrect. Try again. -->
+  <!-- feedback: 'journey' is the whole trip from one place to another, whereas the definition names only where it ends. -->
 
 ### Explicacion Pedagogica
 The word 'destination' is used to describe the place to which someone or something is going or being sent. This is an important vocabulary word in English.
@@ -102,13 +102,13 @@ What is the English word for: "Suitcases or other bags in which to pack personal
 
 ### Opciones
 - [x] D) luggage
-  <!-- feedback: Correct! 'luggage' matches the definition. -->
+  <!-- feedback: Correct! 'luggage' is the collective word for the suitcases and bags in which personal belongings are packed for travelling. -->
 - [ ] A) ticket
-  <!-- feedback: Incorrect. Try again. -->
+  <!-- feedback: a 'ticket' is the document that gives you the right to travel; it carries nothing at all. -->
 - [ ] B) flight
-  <!-- feedback: Incorrect. Try again. -->
+  <!-- feedback: a 'flight' is the trip itself by plane, not the bags you pack for it. -->
 - [ ] C) reservation
-  <!-- feedback: Incorrect. Try again. -->
+  <!-- feedback: a 'reservation' is the booking held for a seat or a room, not the container where clothes go. -->
 
 ### Explicacion Pedagogica
 The word 'luggage' is used to describe suitcases or other bags in which to pack personal belongings for traveling. This is an important vocabulary word in English.
@@ -125,13 +125,13 @@ What is the English word for: "A traveler on a public or private conveyance othe
 
 ### Opciones
 - [x] A) passenger
-  <!-- feedback: Correct! 'passenger' matches the definition. -->
+  <!-- feedback: Correct! A 'passenger' is a traveller on a public or private conveyance who is neither the driver, the pilot nor the crew. -->
 - [ ] B) pedestrian
-  <!-- feedback: Incorrect. Try again. -->
+  <!-- feedback: a 'pedestrian' travels on foot, so there is no driver, pilot or crew in the vehicle at all. -->
 - [ ] C) commuter
-  <!-- feedback: Incorrect. Try again. -->
+  <!-- feedback: a 'commuter' is defined by the regular trip to work or study, not by riding any conveyance. -->
 - [ ] D) tourist
-  <!-- feedback: Incorrect. Try again. -->
+  <!-- feedback: a 'tourist' travels for pleasure and visits places of interest; the definition here is about the role on the vehicle. -->
 
 ### Explicacion Pedagogica
 The word 'passenger' is used to describe a traveler on a public or private conveyance other than the driver, pilot, or crew. This is an important vocabulary word in English.
@@ -148,13 +148,13 @@ What is the English word for: "The place at a port, airport, or frontier where o
 
 ### Opciones
 - [x] C) customs
-  <!-- feedback: Correct! 'customs' matches the definition. -->
+  <!-- feedback: Correct! 'customs' is the place at a port, airport or frontier where officials check incoming goods, travellers and luggage. -->
 - [ ] A) security
-  <!-- feedback: Incorrect. Try again. -->
+  <!-- feedback: 'security' staff prevent accidents and crime inside the building; the officials who check goods and travellers are customs. -->
 - [ ] B) terminal
-  <!-- feedback: Incorrect. Try again. -->
+  <!-- feedback: a 'terminal' is the building where passengers wait for a departure, not the office where the checks are done. -->
 - [ ] D) gate
-  <!-- feedback: Incorrect. Try again. -->
+  <!-- feedback: a 'gate' is the door or boarding point on the aircraft, not the place where officials inspect your belongings. -->
 
 ### Explicacion Pedagogica
 The word 'customs' is used to describe the place at a port, airport, or frontier where officials check incoming goods, travelers, or luggage. This is an important vocabulary word in English.
@@ -171,13 +171,13 @@ What is the English word for: "A document provided by an airline during check-in
 
 ### Opciones
 - [x] A) boarding pass
-  <!-- feedback: Correct! 'boarding pass' matches the definition. -->
+  <!-- feedback: Correct! A 'boarding pass' is the document the airline issues at check-in that gives the passenger permission to board. -->
 - [ ] B) visa
-  <!-- feedback: Incorrect. Try again. -->
+  <!-- feedback: a 'visa' is the permission to enter a country, obtained before the trip and not from the airline. -->
 - [ ] C) receipt
-  <!-- feedback: Incorrect. Try again. -->
+  <!-- feedback: a 'receipt' only proves that you paid; it does not let you board the plane. -->
 - [ ] D) brochure
-  <!-- feedback: Incorrect. Try again. -->
+  <!-- feedback: a 'brochure' is printed information about the airline or the destination, not a travel document. -->
 
 ### Explicacion Pedagogica
 The word 'boarding pass' is used to describe a document provided by an airline during check-in, giving a passenger permission to board the airplane. This is an important vocabulary word in English.
@@ -194,13 +194,13 @@ What is the English word for: "The activity of visiting places of interest in a 
 
 ### Opciones
 - [x] D) sightseeing
-  <!-- feedback: Correct! 'sightseeing' matches the definition. -->
+  <!-- feedback: Correct! 'sightseeing' is the activity of visiting the places of interest of a location. -->
 - [ ] A) shopping
-  <!-- feedback: Incorrect. Try again. -->
+  <!-- feedback: 'shopping' is buying things in stores, not the general activity of visiting a place's sights. -->
 - [ ] B) hiking
-  <!-- feedback: Incorrect. Try again. -->
+  <!-- feedback: 'hiking' is one specific outdoor walk in nature, only one kind of activity out of many. -->
 - [ ] C) camping
-  <!-- feedback: Incorrect. Try again. -->
+  <!-- feedback: 'camping' means staying outdoors in a tent, which is not what a visitor does in a city or landmark. -->
 
 ### Explicacion Pedagogica
 The word 'sightseeing' is used to describe the activity of visiting places of interest in a particular location. This is an important vocabulary word in English.
@@ -217,13 +217,13 @@ What is the English word for: "A thing that is kept as a reminder of a person, p
 
 ### Opciones
 - [x] D) souvenir
-  <!-- feedback: Correct! 'souvenir' matches the definition. -->
+  <!-- feedback: Correct! A 'souvenir' is the object that is kept as a reminder of a person, place or event. -->
 - [ ] A) gift
-  <!-- feedback: Incorrect. Try again. -->
+  <!-- feedback: a 'gift' is something given to someone, but it is not necessarily kept as a reminder of a place or an event. -->
 - [ ] B) award
-  <!-- feedback: Incorrect. Try again. -->
+  <!-- feedback: an 'award' is an honour granted by an institution for merit, not a keepsake. -->
 - [ ] C) prize
-  <!-- feedback: Incorrect. Try again. -->
+  <!-- feedback: a 'prize' is the reward of a competition; the definition describes an object kept as a memento. -->
 
 ### Explicacion Pedagogica
 The word 'souvenir' is used to describe a thing that is kept as a reminder of a person, place, or event. This is an important vocabulary word in English.
@@ -240,13 +240,13 @@ What is the English word for: "A period of time by which something is late or po
 
 ### Opciones
 - [x] D) delay
-  <!-- feedback: Correct! 'delay' matches the definition. -->
+  <!-- feedback: Correct! A 'delay' is the extra period of time by which something ends up late or postponed. -->
 - [ ] A) cancellation
-  <!-- feedback: Incorrect. Try again. -->
+  <!-- feedback: a 'cancellation' means the trip or event will not happen at all, not that it happens later. -->
 - [ ] B) departure
-  <!-- feedback: Incorrect. Try again. -->
+  <!-- feedback: 'departure' is simply the moment of leaving, which can be perfectly punctual. -->
 - [ ] C) arrival
-  <!-- feedback: Incorrect. Try again. -->
+  <!-- feedback: 'arrival' is the moment of reaching the place, and it says nothing about being late. -->
 
 ### Explicacion Pedagogica
 The word 'delay' is used to describe a period of time by which something is late or postponed. This is an important vocabulary word in English.
@@ -263,13 +263,13 @@ What is the English word for: "The act of reporting one's presence and registeri
 
 ### Opciones
 - [x] C) check-in
-  <!-- feedback: Correct! 'check-in' matches the definition. -->
+  <!-- feedback: Correct! 'Check-in' is the act of reporting your presence and registering at an airport or hotel counter. -->
 - [ ] A) check-out
-  <!-- feedback: Incorrect. Try again. -->
+  <!-- feedback: 'check-out' is the opposite moment, when you pay and hand the room key back before leaving. -->
 - [ ] B) booking
-  <!-- feedback: Incorrect. Try again. -->
+  <!-- feedback: 'booking' is the reservation made beforehand; check-in is what you do on arrival. -->
 - [ ] D) reservation
-  <!-- feedback: Incorrect. Try again. -->
+  <!-- feedback: a 'reservation' is the earlier record of your booking, not the act of registering your presence. -->
 
 ### Explicacion Pedagogica
 The word 'check-in' is used to describe the act of reporting one's presence and registering, typically at an airport or hotel. This is an important vocabulary word in English.
@@ -286,13 +286,13 @@ What is the English word for: "A period of rest or waiting before a further stag
 
 ### Opciones
 - [x] C) layover
-  <!-- feedback: Correct! 'layover' matches the definition. -->
+  <!-- feedback: Correct! A 'layover' is a period of rest or waiting between two further stages of a journey. -->
 - [ ] A) stopover
-  <!-- feedback: Incorrect. Try again. -->
+  <!-- feedback: 'stopover' is used mainly for trains and usually for a longer, often overnight, break on a rail journey. -->
 - [ ] B) transfer
-  <!-- feedback: Incorrect. Try again. -->
+  <!-- feedback: a 'transfer' is the change from one vehicle or flight to another, not the pause itself. -->
 - [ ] D) transit
-  <!-- feedback: Incorrect. Try again. -->
+  <!-- feedback: 'transit' means the action of passing through a place, with no idea of resting between stages. -->
 
 ### Explicacion Pedagogica
 The word 'layover' is used to describe a period of rest or waiting before a further stage in a journey. This is an important vocabulary word in English.
@@ -309,13 +309,13 @@ What is the English word for: "A system of money in general use in a particular 
 
 ### Opciones
 - [x] C) currency
-  <!-- feedback: Correct! 'currency' matches the definition. -->
+  <!-- feedback: Correct! 'Currency' is the money system in general use in a particular country. -->
 - [ ] A) coin
-  <!-- feedback: Incorrect. Try again. -->
+  <!-- feedback: a 'coin' is one single piece of money, not the whole system used in the country. -->
 - [ ] B) banknote
-  <!-- feedback: Incorrect. Try again. -->
+  <!-- feedback: a 'banknote' is one single paper note of that system, not the system itself. -->
 - [ ] D) cash
-  <!-- feedback: Incorrect. Try again. -->
+  <!-- feedback: 'cash' means money in coins and notes in general, not the specific monetary system of a country. -->
 
 ### Explicacion Pedagogica
 The word 'currency' is used to describe a system of money in general use in a particular country. This is an important vocabulary word in English.
@@ -332,13 +332,13 @@ What is the English word for: "A book of information about a place designed for 
 
 ### Opciones
 - [x] A) guidebook
-  <!-- feedback: Correct! 'guidebook' matches the definition. -->
+  <!-- feedback: Correct! A 'guidebook' is a book of information about a place written for the use of visitors and tourists. -->
 - [ ] B) map
-  <!-- feedback: Incorrect. Try again. -->
+  <!-- feedback: a 'map' shows the layout of streets and places, but it is a drawing rather than a book of information. -->
 - [ ] C) dictionary
-  <!-- feedback: Incorrect. Try again. -->
+  <!-- feedback: a 'dictionary' gives the meaning of words, not details about a destination for travellers. -->
 - [ ] D) encyclopedia
-  <!-- feedback: Incorrect. Try again. -->
+  <!-- feedback: an encyclopedia covers all branches of knowledge rather than one particular place for visitors. -->
 
 ### Explicacion Pedagogica
 The word 'guidebook' is used to describe a book of information about a place designed for the use of visitors or tourists. This is an important vocabulary word in English.
@@ -355,13 +355,13 @@ What is the English word for: "A bag with shoulder straps that allow it to be ca
 
 ### Opciones
 - [x] D) backpack
-  <!-- feedback: Correct! 'backpack' matches the definition. -->
+  <!-- feedback: Correct! A 'backpack' has shoulder straps and is designed to be carried on one's back. -->
 - [ ] A) suitcase
-  <!-- feedback: Incorrect. Try again. -->
+  <!-- feedback: a 'suitcase' is dragged by a handle beside the body; it has no shoulder straps. -->
 - [ ] B) briefcase
-  <!-- feedback: Incorrect. Try again. -->
+  <!-- feedback: a 'briefcase' is a case for documents and a laptop that is carried in the hand. -->
 - [ ] C) handbag
-  <!-- feedback: Incorrect. Try again. -->
+  <!-- feedback: a 'handbag' is a small bag held in the hand, not carried on the back. -->
 
 ### Explicacion Pedagogica
 The word 'backpack' is used to describe a bag with shoulder straps that allow it to be carried on one's back. This is an important vocabulary word in English.
@@ -378,13 +378,13 @@ What is the English word for: "In or to a foreign country, especially one across
 
 ### Opciones
 - [x] B) overseas
-  <!-- feedback: Correct! 'overseas' matches the definition. -->
+  <!-- feedback: Correct! 'Overseas' means in or to a foreign country, especially one reached across the sea. -->
 - [ ] A) domestic
-  <!-- feedback: Incorrect. Try again. -->
+  <!-- feedback: 'domestic' means inside the same country, which is the opposite of overseas. -->
 - [ ] C) local
-  <!-- feedback: Incorrect. Try again. -->
+  <!-- feedback: 'local' means belonging to the area where you already are, again the opposite meaning. -->
 - [ ] D) national
-  <!-- feedback: Incorrect. Try again. -->
+  <!-- feedback: 'national' refers to the nation as a whole, but it does not mean being abroad. -->
 
 ### Explicacion Pedagogica
 The word 'overseas' is used to describe in or to a foreign country, especially one across the sea. This is an important vocabulary word in English.
@@ -401,13 +401,13 @@ What is the English word for: "An estimate of income and expenditure for a set p
 
 ### Opciones
 - [x] C) budget
-  <!-- feedback: Correct! 'budget' matches the definition. -->
+  <!-- feedback: Correct! A 'budget' is an estimate of income and expenditure planned for a set period of time. -->
 - [ ] A) expense
-  <!-- feedback: Incorrect. Try again. -->
+  <!-- feedback: an 'expense' is a single cost; a budget gathers all income and spending over a period. -->
 - [ ] B) cost
-  <!-- feedback: Incorrect. Try again. -->
+  <!-- feedback: 'cost' is the amount paid for one thing, not an estimate for a whole period. -->
 - [ ] D) price
-  <!-- feedback: Incorrect. Try again. -->
+  <!-- feedback: 'price' is the figure written on a product, not a plan of income and expenditure. -->
 
 ### Explicacion Pedagogica
 The word 'budget' is used to describe an estimate of income and expenditure for a set period of time. This is an important vocabulary word in English.
@@ -424,13 +424,13 @@ What is the English word for: "A practice or arrangement by which a company or g
 
 ### Opciones
 - [x] A) insurance
-  <!-- feedback: Correct! 'insurance' matches the definition. -->
+  <!-- feedback: Correct! 'Insurance' is the arrangement by which a company or agency guarantees compensation for specified loss, damage, illness or death in return for a premium. -->
 - [ ] B) warranty
-  <!-- feedback: Incorrect. Try again. -->
+  <!-- feedback: a 'warranty' is the maker's guarantee of a product, normally for a short period and against defects only. -->
 - [ ] C) guarantee
-  <!-- feedback: Incorrect. Try again. -->
+  <!-- feedback: a 'guarantee' is the promise itself, without the payment of a premium that defines an insurance arrangement. -->
 - [ ] D) policy
-  <!-- feedback: Incorrect. Try again. -->
+  <!-- feedback: a 'policy' is the written document of the contract, not the practice of insuring itself. -->
 
 ### Explicacion Pedagogica
 The word 'insurance' is used to describe a practice or arrangement by which a company or government agency provides a guarantee of compensation for specified loss, damage, illness, or death in return for payment of a premium. This is an important vocabulary word in English.
@@ -447,13 +447,13 @@ What is the English word for: "Treatment with a vaccine to produce immunity agai
 
 ### Opciones
 - [x] B) vaccination
-  <!-- feedback: Correct! 'vaccination' matches the definition. -->
+  <!-- feedback: Correct! 'Vaccination' is the treatment with a vaccine that produces immunity against a disease. -->
 - [ ] A) medication
-  <!-- feedback: Incorrect. Try again. -->
+  <!-- feedback: 'medication' treats the symptoms of a disease; it does not create immunity against it. -->
 - [ ] C) prescription
-  <!-- feedback: Incorrect. Try again. -->
+  <!-- feedback: a 'prescription' is the doctor's written order for a medicine, not the vaccine treatment itself. -->
 - [ ] D) infection
-  <!-- feedback: Incorrect. Try again. -->
+  <!-- feedback: an 'infection' is the invasion of the body by a pathogen, the opposite of being protected against disease. -->
 
 ### Explicacion Pedagogica
 The word 'vaccination' is used to describe treatment with a vaccine to produce immunity against a disease. This is an important vocabulary word in English.
@@ -470,13 +470,13 @@ What is the English word for: "Extreme tiredness and other physical effects felt
 
 ### Opciones
 - [x] D) jet lag
-  <!-- feedback: Correct! 'jet lag' matches the definition. -->
+  <!-- feedback: Correct! 'Jet lag' is the extreme tiredness and other physical effects felt after a long flight across several time zones. -->
 - [ ] A) fatigue
-  <!-- feedback: Incorrect. Try again. -->
+  <!-- feedback: 'fatigue' is tiredness from any cause, such as a lack of sleep or effort, not specifically from time zones. -->
 - [ ] B) exhaustion
-  <!-- feedback: Incorrect. Try again. -->
+  <!-- feedback: 'exhaustion' is a total lack of energy from any cause, more general and more severe than the effect of crossing time zones. -->
 - [ ] C) insomnia
-  <!-- feedback: Incorrect. Try again. -->
+  <!-- feedback: 'insomnia' is the difficulty of falling or staying asleep, only one symptom and not the whole set of effects after a long flight. -->
 
 ### Explicacion Pedagogica
 The word 'jet lag' is used to describe extreme tiredness and other physical effects felt by a person after a long flight across several time zones. This is an important vocabulary word in English.

@@ -31,13 +31,13 @@ Calcule el valor de $\log_2(32)$ en un cálculo de almacenamiento de datos digit
 
 ### Opciones
 - [ ] A) 6
-  <!-- feedback: Incorrecto. Por favor, revisa el procedimiento paso a paso. -->
+  <!-- feedback: 6 corresponde a $2^6 = 64$, no a 32; el exponente buscado es el que reproduce exactamente 32. -->
 - [ ] B) 4
-  <!-- feedback: Incorrecto. Por favor, revisa el procedimiento paso a paso. -->
+  <!-- feedback: 4 corresponde a $2^4 = 16$, de modo que ese es el resultado de $\log_2(16)$, no el de $\log_2(32)$. -->
 - [x] C) 5
-  <!-- feedback: Correcto. ¡Excelente análisis! -->
+  <!-- feedback: Correcto. Como $2^5 = 32$, por definición de logaritmo el resultado es 5. -->
 - [ ] D) 16
-  <!-- feedback: Incorrecto. Por favor, revisa el procedimiento paso a paso. -->
+  <!-- feedback: 16 es el valor del argumento, no el exponente: se busca el exponente $x$ tal que $2^x = 32$. -->
 
 ### Explicacion Pedagogica
 Dado que $2^5 = 32$, por definición de logaritmo, el logaritmo en base 2 de 32 es igual a 5.
@@ -55,13 +55,13 @@ Calcule el valor de $\log_2(32)$ en un cálculo de almacenamiento de datos digit
 
 ### Opciones
 - [ ] A) 4
-  <!-- feedback: Incorrecto. Por favor, revisa el procedimiento paso a paso. -->
+  <!-- feedback: 4 corresponde a $2^4 = 16$, de modo que ese es el resultado de $\log_2(16)$, no el de $\log_2(32)$. -->
 - [ ] B) 6
-  <!-- feedback: Incorrecto. Por favor, revisa el procedimiento paso a paso. -->
+  <!-- feedback: 6 corresponde a $2^6 = 64$, no a 32; el exponente buscado es el que reproduce exactamente 32. -->
 - [x] C) 5
-  <!-- feedback: Correcto. ¡Excelente análisis! -->
+  <!-- feedback: Correcto. Como $2^5 = 32$, por definición de logaritmo el resultado es 5. -->
 - [ ] D) 16
-  <!-- feedback: Incorrecto. Por favor, revisa el procedimiento paso a paso. -->
+  <!-- feedback: 16 es el valor del argumento, no el exponente: se busca el exponente $x$ tal que $2^x = 32$. -->
 
 ### Explicacion Pedagogica
 Dado que $2^5 = 32$, por definición de logaritmo, el logaritmo en base 2 de 32 es igual a 5.
@@ -79,13 +79,13 @@ Calcule el valor de $\log_2(32)$ en un cálculo de almacenamiento de datos digit
 
 ### Opciones
 - [ ] A) 4
-  <!-- feedback: Incorrecto. Por favor, revisa el procedimiento paso a paso. -->
+  <!-- feedback: 4 corresponde a $2^4 = 16$, de modo que ese es el resultado de $\log_2(16)$, no el de $\log_2(32)$. -->
 - [ ] B) 16
-  <!-- feedback: Incorrecto. Por favor, revisa el procedimiento paso a paso. -->
+  <!-- feedback: 16 es el valor del argumento, no el exponente: se busca el exponente $x$ tal que $2^x = 32$. -->
 - [x] C) 5
-  <!-- feedback: Correcto. ¡Excelente análisis! -->
+  <!-- feedback: Correcto. Como $2^5 = 32$, por definición de logaritmo el resultado es 5. -->
 - [ ] D) 6
-  <!-- feedback: Incorrecto. Por favor, revisa el procedimiento paso a paso. -->
+  <!-- feedback: 6 corresponde a $2^6 = 64$, no a 32; el exponente buscado es el que reproduce exactamente 32. -->
 
 ### Explicacion Pedagogica
 Dado que $2^5 = 32$, por definición de logaritmo, el logaritmo en base 2 de 32 es igual a 5.
@@ -103,13 +103,13 @@ Calcule el valor de $\log_2(32)$ en un cálculo de almacenamiento de datos digit
 
 ### Opciones
 - [ ] A) 4
-  <!-- feedback: Incorrecto. Por favor, revisa el procedimiento paso a paso. -->
+  <!-- feedback: 4 corresponde a $2^4 = 16$, de modo que ese es el resultado de $\log_2(16)$, no el de $\log_2(32)$. -->
 - [x] B) 5
-  <!-- feedback: Correcto. ¡Excelente análisis! -->
+  <!-- feedback: Correcto. Como $2^5 = 32$, por definición de logaritmo el resultado es 5. -->
 - [ ] C) 16
-  <!-- feedback: Incorrecto. Por favor, revisa el procedimiento paso a paso. -->
+  <!-- feedback: 16 es el valor del argumento, no el exponente: se busca el exponente $x$ tal que $2^x = 32$. -->
 - [ ] D) 6
-  <!-- feedback: Incorrecto. Por favor, revisa el procedimiento paso a paso. -->
+  <!-- feedback: 6 corresponde a $2^6 = 64$, no a 32; el exponente buscado es el que reproduce exactamente 32. -->
 
 ### Explicacion Pedagogica
 Dado que $2^5 = 32$, por definición de logaritmo, el logaritmo en base 2 de 32 es igual a 5.
@@ -127,13 +127,13 @@ Utilizando las propiedades de los logaritmos, exprese $\log(x) + \log(y) - \log(
 
 ### Opciones
 - [ ] A) $\log\left(\frac{x \cdot z}{y}\right)$
-  <!-- feedback: Incorrecto. Por favor, revisa el procedimiento paso a paso. -->
+  <!-- feedback: Aquí el signo está invertido: el término que se resta es el de $z$, así que $z$ va en el denominador y no en el numerador. -->
 - [x] B) $\log\left(\frac{x \cdot y}{z}\right)$
-  <!-- feedback: Correcto. ¡Excelente análisis! -->
+  <!-- feedback: Correcto. Al sumar logaritmos se multiplican los argumentos y al restar se divide, por eso queda $\log\left(\frac{x \cdot y}{z}\right)$. -->
 - [ ] C) $\log\left(\frac{x + y}{z}\right)$
-  <!-- feedback: Incorrecto. Por favor, revisa el procedimiento paso a paso. -->
+  <!-- feedback: La suma de logaritmos multiplica los argumentos; $x + y$ solo valdría si antes se calculara esa suma, y eso no se pide. -->
 - [ ] D) $\log(x + y - z)$
-  <!-- feedback: Incorrecto. Por favor, revisa el procedimiento paso a paso. -->
+  <!-- feedback: Aquí se suman y restan los argumentos, lo cual no es una propiedad de los logaritmos; solo se suman y restan los propios logaritmos. -->
 
 ### Explicacion Pedagogica
 La suma de logaritmos de igual base equivale al logaritmo del producto, y la resta equivale al logaritmo del cociente.
@@ -151,13 +151,13 @@ Utilizando las propiedades de los logaritmos, exprese $\log(x) + \log(y) - \log(
 
 ### Opciones
 - [ ] A) $\log\left(\frac{x \cdot z}{y}\right)$
-  <!-- feedback: Incorrecto. Por favor, revisa el procedimiento paso a paso. -->
+  <!-- feedback: Aquí el signo está invertido: el término que se resta es el de $z$, así que $z$ va en el denominador y no en el numerador. -->
 - [x] B) $\log\left(\frac{x \cdot y}{z}\right)$
-  <!-- feedback: Correcto. ¡Excelente análisis! -->
+  <!-- feedback: Correcto. Al sumar logaritmos se multiplican los argumentos y al restar se divide, por eso queda $\log\left(\frac{x \cdot y}{z}\right)$. -->
 - [ ] C) $\log(x + y - z)$
-  <!-- feedback: Incorrecto. Por favor, revisa el procedimiento paso a paso. -->
+  <!-- feedback: Aquí se suman y restan los argumentos, lo cual no es una propiedad de los logaritmos; solo se suman y restan los propios logaritmos. -->
 - [ ] D) $\log\left(\frac{x + y}{z}\right)$
-  <!-- feedback: Incorrecto. Por favor, revisa el procedimiento paso a paso. -->
+  <!-- feedback: La suma de logaritmos multiplica los argumentos; $x + y$ solo valdría si antes se calculara esa suma, y eso no se pide. -->
 
 ### Explicacion Pedagogica
 La suma de logaritmos de igual base equivale al logaritmo del producto, y la resta equivale al logaritmo del cociente.
@@ -175,13 +175,13 @@ Utilizando las propiedades de los logaritmos, exprese $\log(x) + \log(y) - \log(
 
 ### Opciones
 - [x] A) $\log\left(\frac{x \cdot y}{z}\right)$
-  <!-- feedback: Correcto. ¡Excelente análisis! -->
+  <!-- feedback: Correcto. Al sumar logaritmos se multiplican los argumentos y al restar se divide, por eso queda $\log\left(\frac{x \cdot y}{z}\right)$. -->
 - [ ] B) $\log(x + y - z)$
-  <!-- feedback: Incorrecto. Por favor, revisa el procedimiento paso a paso. -->
+  <!-- feedback: Aquí se suman y restan los argumentos, lo cual no es una propiedad de los logaritmos; solo se suman y restan los propios logaritmos. -->
 - [ ] C) $\log\left(\frac{x \cdot z}{y}\right)$
-  <!-- feedback: Incorrecto. Por favor, revisa el procedimiento paso a paso. -->
+  <!-- feedback: Aquí el signo está invertido: el término que se resta es el de $z$, así que $z$ va en el denominador y no en el numerador. -->
 - [ ] D) $\log\left(\frac{x + y}{z}\right)$
-  <!-- feedback: Incorrecto. Por favor, revisa el procedimiento paso a paso. -->
+  <!-- feedback: La suma de logaritmos multiplica los argumentos; $x + y$ solo valdría si antes se calculara esa suma, y eso no se pide. -->
 
 ### Explicacion Pedagogica
 La suma de logaritmos de igual base equivale al logaritmo del producto, y la resta equivale al logaritmo del cociente.
@@ -199,13 +199,13 @@ Utilizando las propiedades de los logaritmos, exprese $\log(x) + \log(y) - \log(
 
 ### Opciones
 - [ ] A) $\log\left(\frac{x \cdot z}{y}\right)$
-  <!-- feedback: Incorrecto. Por favor, revisa el procedimiento paso a paso. -->
+  <!-- feedback: Aquí el signo está invertido: el término que se resta es el de $z$, así que $z$ va en el denominador y no en el numerador. -->
 - [ ] B) $\log(x + y - z)$
-  <!-- feedback: Incorrecto. Por favor, revisa el procedimiento paso a paso. -->
+  <!-- feedback: Aquí se suman y restan los argumentos, lo cual no es una propiedad de los logaritmos; solo se suman y restan los propios logaritmos. -->
 - [ ] C) $\log\left(\frac{x + y}{z}\right)$
-  <!-- feedback: Incorrecto. Por favor, revisa el procedimiento paso a paso. -->
+  <!-- feedback: La suma de logaritmos multiplica los argumentos; $x + y$ solo valdría si antes se calculara esa suma, y eso no se pide. -->
 - [x] D) $\log\left(\frac{x \cdot y}{z}\right)$
-  <!-- feedback: Correcto. ¡Excelente análisis! -->
+  <!-- feedback: Correcto. Al sumar logaritmos se multiplican los argumentos y al restar se divide, por eso queda $\log\left(\frac{x \cdot y}{z}\right)$. -->
 
 ### Explicacion Pedagogica
 La suma de logaritmos de igual base equivale al logaritmo del producto, y la resta equivale al logaritmo del cociente.
@@ -223,13 +223,13 @@ Utilizando las propiedades de los logaritmos, exprese $\log(x) + \log(y) - \log(
 
 ### Opciones
 - [ ] A) $\log\left(\frac{x + y}{z}\right)$
-  <!-- feedback: Incorrecto. Por favor, revisa el procedimiento paso a paso. -->
+  <!-- feedback: La suma de logaritmos multiplica los argumentos; $x + y$ solo valdría si antes se calculara esa suma, y eso no se pide. -->
 - [ ] B) $\log(x + y - z)$
-  <!-- feedback: Incorrecto. Por favor, revisa el procedimiento paso a paso. -->
+  <!-- feedback: Aquí se suman y restan los argumentos, lo cual no es una propiedad de los logaritmos; solo se suman y restan los propios logaritmos. -->
 - [ ] C) $\log\left(\frac{x \cdot z}{y}\right)$
-  <!-- feedback: Incorrecto. Por favor, revisa el procedimiento paso a paso. -->
+  <!-- feedback: Aquí el signo está invertido: el término que se resta es el de $z$, así que $z$ va en el denominador y no en el numerador. -->
 - [x] D) $\log\left(\frac{x \cdot y}{z}\right)$
-  <!-- feedback: Correcto. ¡Excelente análisis! -->
+  <!-- feedback: Correcto. Al sumar logaritmos se multiplican los argumentos y al restar se divide, por eso queda $\log\left(\frac{x \cdot y}{z}\right)$. -->
 
 ### Explicacion Pedagogica
 La suma de logaritmos de igual base equivale al logaritmo del producto, y la resta equivale al logaritmo del cociente.
@@ -247,13 +247,13 @@ Utilizando las propiedades de los logaritmos, exprese $\log(x) + \log(y) - \log(
 
 ### Opciones
 - [ ] A) $\log(x + y - z)$
-  <!-- feedback: Incorrecto. Por favor, revisa el procedimiento paso a paso. -->
+  <!-- feedback: Aquí se suman y restan los argumentos, lo cual no es una propiedad de los logaritmos; solo se suman y restan los propios logaritmos. -->
 - [ ] B) $\log\left(\frac{x \cdot z}{y}\right)$
-  <!-- feedback: Incorrecto. Por favor, revisa el procedimiento paso a paso. -->
+  <!-- feedback: Aquí el signo está invertido: el término que se resta es el de $z$, así que $z$ va en el denominador y no en el numerador. -->
 - [ ] C) $\log\left(\frac{x + y}{z}\right)$
-  <!-- feedback: Incorrecto. Por favor, revisa el procedimiento paso a paso. -->
+  <!-- feedback: La suma de logaritmos multiplica los argumentos; $x + y$ solo valdría si antes se calculara esa suma, y eso no se pide. -->
 - [x] D) $\log\left(\frac{x \cdot y}{z}\right)$
-  <!-- feedback: Correcto. ¡Excelente análisis! -->
+  <!-- feedback: Correcto. Al sumar logaritmos se multiplican los argumentos y al restar se divide, por eso queda $\log\left(\frac{x \cdot y}{z}\right)$. -->
 
 ### Explicacion Pedagogica
 La suma de logaritmos de igual base equivale al logaritmo del producto, y la resta equivale al logaritmo del cociente.
@@ -271,13 +271,13 @@ Resuelva la ecuación logarítmica para $x$ en un modelo de escala sísmica en l
 
 ### Opciones
 - [ ] A) 8
-  <!-- feedback: Incorrecto. Por favor, revisa el procedimiento paso a paso. -->
+  <!-- feedback: 8 saldría de restar 1 en lugar de 2, o de no descontar bien el 2 del resultado; el despeje da $x = 9 - 2$. -->
 - [x] B) 7
-  <!-- feedback: Correcto. ¡Excelente análisis! -->
+  <!-- feedback: Correcto. $\log_3(x+2)=2$ implica $x+2 = 3^2 = 9$, de donde $x = 9 - 2 = 7$. -->
 - [ ] C) 4
-  <!-- feedback: Incorrecto. Por favor, revisa el procedimiento paso a paso. -->
+  <!-- feedback: 4 corresponde a $3^4 = 81$, un exponente equivocado, porque la ecuación pide el exponente 2. -->
 - [ ] D) 9
-  <!-- feedback: Incorrecto. Por favor, revisa el procedimiento paso a paso. -->
+  <!-- feedback: 9 es el valor de $x+2$ todavía sin despejar; hay que restar 2 para obtener $x = 7$. -->
 
 ### Explicacion Pedagogica
 Aplicando la definición de logaritmo: $x + 2 = 3^2 \Rightarrow x + 2 = 9 \Rightarrow x = 7$.
@@ -295,13 +295,13 @@ Resuelva la ecuación logarítmica para $x$ en un modelo de escala sísmica en l
 
 ### Opciones
 - [ ] A) 8
-  <!-- feedback: Incorrecto. Por favor, revisa el procedimiento paso a paso. -->
+  <!-- feedback: 8 saldría de restar 1 en lugar de 2, o de no descontar bien el 2 del resultado; el despeje da $x = 9 - 2$. -->
 - [ ] B) 4
-  <!-- feedback: Incorrecto. Por favor, revisa el procedimiento paso a paso. -->
+  <!-- feedback: 4 corresponde a $3^4 = 81$, un exponente equivocado, porque la ecuación pide el exponente 2. -->
 - [ ] C) 9
-  <!-- feedback: Incorrecto. Por favor, revisa el procedimiento paso a paso. -->
+  <!-- feedback: 9 es el valor de $x+2$ todavía sin despejar; hay que restar 2 para obtener $x = 7$. -->
 - [x] D) 7
-  <!-- feedback: Correcto. ¡Excelente análisis! -->
+  <!-- feedback: Correcto. $\log_3(x+2)=2$ implica $x+2 = 3^2 = 9$, de donde $x = 9 - 2 = 7$. -->
 
 ### Explicacion Pedagogica
 Aplicando la definición de logaritmo: $x + 2 = 3^2 \Rightarrow x + 2 = 9 \Rightarrow x = 7$.
@@ -319,13 +319,13 @@ Resuelva la ecuación logarítmica para $x$ en un modelo de escala sísmica en l
 
 ### Opciones
 - [ ] A) 9
-  <!-- feedback: Incorrecto. Por favor, revisa el procedimiento paso a paso. -->
+  <!-- feedback: 9 es el valor de $x+2$ todavía sin despejar; hay que restar 2 para obtener $x = 7$. -->
 - [x] B) 7
-  <!-- feedback: Correcto. ¡Excelente análisis! -->
+  <!-- feedback: Correcto. $\log_3(x+2)=2$ implica $x+2 = 3^2 = 9$, de donde $x = 9 - 2 = 7$. -->
 - [ ] C) 8
-  <!-- feedback: Incorrecto. Por favor, revisa el procedimiento paso a paso. -->
+  <!-- feedback: 8 saldría de restar 1 en lugar de 2, o de no descontar bien el 2 del resultado; el despeje da $x = 9 - 2$. -->
 - [ ] D) 4
-  <!-- feedback: Incorrecto. Por favor, revisa el procedimiento paso a paso. -->
+  <!-- feedback: 4 corresponde a $3^4 = 81$, un exponente equivocado, porque la ecuación pide el exponente 2. -->
 
 ### Explicacion Pedagogica
 Aplicando la definición de logaritmo: $x + 2 = 3^2 \Rightarrow x + 2 = 9 \Rightarrow x = 7$.
@@ -343,13 +343,13 @@ Resuelva la ecuación logarítmica para $x$ en un modelo de escala sísmica en l
 
 ### Opciones
 - [x] A) 7
-  <!-- feedback: Correcto. ¡Excelente análisis! -->
+  <!-- feedback: Correcto. $\log_3(x+2)=2$ implica $x+2 = 3^2 = 9$, de donde $x = 9 - 2 = 7$. -->
 - [ ] B) 4
-  <!-- feedback: Incorrecto. Por favor, revisa el procedimiento paso a paso. -->
+  <!-- feedback: 4 corresponde a $3^4 = 81$, un exponente equivocado, porque la ecuación pide el exponente 2. -->
 - [ ] C) 8
-  <!-- feedback: Incorrecto. Por favor, revisa el procedimiento paso a paso. -->
+  <!-- feedback: 8 saldría de restar 1 en lugar de 2, o de no descontar bien el 2 del resultado; el despeje da $x = 9 - 2$. -->
 - [ ] D) 9
-  <!-- feedback: Incorrecto. Por favor, revisa el procedimiento paso a paso. -->
+  <!-- feedback: 9 es el valor de $x+2$ todavía sin despejar; hay que restar 2 para obtener $x = 7$. -->
 
 ### Explicacion Pedagogica
 Aplicando la definición de logaritmo: $x + 2 = 3^2 \Rightarrow x + 2 = 9 \Rightarrow x = 7$.
@@ -367,13 +367,13 @@ Resuelva la ecuación logarítmica para $x$ en un modelo de escala sísmica en l
 
 ### Opciones
 - [ ] A) 8
-  <!-- feedback: Incorrecto. Por favor, revisa el procedimiento paso a paso. -->
+  <!-- feedback: 8 saldría de restar 1 en lugar de 2, o de no descontar bien el 2 del resultado; el despeje da $x = 9 - 2$. -->
 - [ ] B) 4
-  <!-- feedback: Incorrecto. Por favor, revisa el procedimiento paso a paso. -->
+  <!-- feedback: 4 corresponde a $3^4 = 81$, un exponente equivocado, porque la ecuación pide el exponente 2. -->
 - [ ] C) 9
-  <!-- feedback: Incorrecto. Por favor, revisa el procedimiento paso a paso. -->
+  <!-- feedback: 9 es el valor de $x+2$ todavía sin despejar; hay que restar 2 para obtener $x = 7$. -->
 - [x] D) 7
-  <!-- feedback: Correcto. ¡Excelente análisis! -->
+  <!-- feedback: Correcto. $\log_3(x+2)=2$ implica $x+2 = 3^2 = 9$, de donde $x = 9 - 2 = 7$. -->
 
 ### Explicacion Pedagogica
 Aplicando la definición de logaritmo: $x + 2 = 3^2 \Rightarrow x + 2 = 9 \Rightarrow x = 7$.
@@ -391,13 +391,13 @@ Resuelva la ecuación logarítmica para $x$ en un modelo de escala sísmica en l
 
 ### Opciones
 - [x] A) 7
-  <!-- feedback: Correcto. ¡Excelente análisis! -->
+  <!-- feedback: Correcto. $\log_3(x+2)=2$ implica $x+2 = 3^2 = 9$, de donde $x = 9 - 2 = 7$. -->
 - [ ] B) 9
-  <!-- feedback: Incorrecto. Por favor, revisa el procedimiento paso a paso. -->
+  <!-- feedback: 9 es el valor de $x+2$ todavía sin despejar; hay que restar 2 para obtener $x = 7$. -->
 - [ ] C) 4
-  <!-- feedback: Incorrecto. Por favor, revisa el procedimiento paso a paso. -->
+  <!-- feedback: 4 corresponde a $3^4 = 81$, un exponente equivocado, porque la ecuación pide el exponente 2. -->
 - [ ] D) 8
-  <!-- feedback: Incorrecto. Por favor, revisa el procedimiento paso a paso. -->
+  <!-- feedback: 8 saldría de restar 1 en lugar de 2, o de no descontar bien el 2 del resultado; el despeje da $x = 9 - 2$. -->
 
 ### Explicacion Pedagogica
 Aplicando la definición de logaritmo: $x + 2 = 3^2 \Rightarrow x + 2 = 9 \Rightarrow x = 7$.
@@ -415,13 +415,13 @@ Si $\log_b(2) = 0.3$ y $\log_b(3) = 0.48$, calcule el valor de $\log_b(12)$ para
 
 ### Opciones
 - [ ] A) 0.96
-  <!-- feedback: Incorrecto. Por favor, revisa el procedimiento paso a paso. -->
+  <!-- feedback: 0.96 es $2 \times 0.48$, como si 12 fuera $3^2$; en realidad $12 = 2^2 \cdot 3$ y el 2 aporta $0.3$ dos veces. -->
 - [ ] B) 1.20
-  <!-- feedback: Incorrecto. Por favor, revisa el procedimiento paso a paso. -->
+  <!-- feedback: 1.20 sería $4 \times 0.3$, como si 12 fuera $2^4$; el exponente de 2 en 12 es 2 y no 4. -->
 - [x] C) 1.08
-  <!-- feedback: Correcto. ¡Excelente análisis! -->
+  <!-- feedback: Correcto. Como $12 = 2^2 \cdot 3$, se aplica la propiedad del producto: $2(0.3) + 0.48 = 1.08$. -->
 - [ ] D) 0.78
-  <!-- feedback: Incorrecto. Por favor, revisa el procedimiento paso a paso. -->
+  <!-- feedback: 0.78 sale de sumar $0.3 + 0.48$, como si 12 fuera $2 \cdot 3$; pero 12 es $2^2 \cdot 3$, de modo que el 2 se cuenta dos veces. -->
 
 ### Explicacion Pedagogica
 Como $12 = 2^2 \cdot 3$, entonces $\log_b(12) = \log_b(2^2 \cdot 3) = 2\log_b(2) + \log_b(3) = 2(0.3) + 0.48 = 0.6 + 0.48 = 1.08$.
@@ -439,13 +439,13 @@ Si $\log_b(2) = 0.3$ y $\log_b(3) = 0.48$, calcule el valor de $\log_b(12)$ para
 
 ### Opciones
 - [ ] A) 0.78
-  <!-- feedback: Incorrecto. Por favor, revisa el procedimiento paso a paso. -->
+  <!-- feedback: 0.78 sale de sumar $0.3 + 0.48$, como si 12 fuera $2 \cdot 3$; pero 12 es $2^2 \cdot 3$, de modo que el 2 se cuenta dos veces. -->
 - [ ] B) 0.96
-  <!-- feedback: Incorrecto. Por favor, revisa el procedimiento paso a paso. -->
+  <!-- feedback: 0.96 es $2 \times 0.48$, como si 12 fuera $3^2$; en realidad $12 = 2^2 \cdot 3$ y el 2 aporta $0.3$ dos veces. -->
 - [x] C) 1.08
-  <!-- feedback: Correcto. ¡Excelente análisis! -->
+  <!-- feedback: Correcto. Como $12 = 2^2 \cdot 3$, se aplica la propiedad del producto: $2(0.3) + 0.48 = 1.08$. -->
 - [ ] D) 1.20
-  <!-- feedback: Incorrecto. Por favor, revisa el procedimiento paso a paso. -->
+  <!-- feedback: 1.20 sería $4 \times 0.3$, como si 12 fuera $2^4$; el exponente de 2 en 12 es 2 y no 4. -->
 
 ### Explicacion Pedagogica
 Como $12 = 2^2 \cdot 3$, entonces $\log_b(12) = \log_b(2^2 \cdot 3) = 2\log_b(2) + \log_b(3) = 2(0.3) + 0.48 = 0.6 + 0.48 = 1.08$.
@@ -463,13 +463,13 @@ Si $\log_b(2) = 0.3$ y $\log_b(3) = 0.48$, calcule el valor de $\log_b(12)$ para
 
 ### Opciones
 - [ ] A) 1.20
-  <!-- feedback: Incorrecto. Por favor, revisa el procedimiento paso a paso. -->
+  <!-- feedback: 1.20 sería $4 \times 0.3$, como si 12 fuera $2^4$; el exponente de 2 en 12 es 2 y no 4. -->
 - [x] B) 1.08
-  <!-- feedback: Correcto. ¡Excelente análisis! -->
+  <!-- feedback: Correcto. Como $12 = 2^2 \cdot 3$, se aplica la propiedad del producto: $2(0.3) + 0.48 = 1.08$. -->
 - [ ] C) 0.78
-  <!-- feedback: Incorrecto. Por favor, revisa el procedimiento paso a paso. -->
+  <!-- feedback: 0.78 sale de sumar $0.3 + 0.48$, como si 12 fuera $2 \cdot 3$; pero 12 es $2^2 \cdot 3$, de modo que el 2 se cuenta dos veces. -->
 - [ ] D) 0.96
-  <!-- feedback: Incorrecto. Por favor, revisa el procedimiento paso a paso. -->
+  <!-- feedback: 0.96 es $2 \times 0.48$, como si 12 fuera $3^2$; en realidad $12 = 2^2 \cdot 3$ y el 2 aporta $0.3$ dos veces. -->
 
 ### Explicacion Pedagogica
 Como $12 = 2^2 \cdot 3$, entonces $\log_b(12) = \log_b(2^2 \cdot 3) = 2\log_b(2) + \log_b(3) = 2(0.3) + 0.48 = 0.6 + 0.48 = 1.08$.
@@ -487,13 +487,13 @@ Si $\log_b(2) = 0.3$ y $\log_b(3) = 0.48$, calcule el valor de $\log_b(12)$ para
 
 ### Opciones
 - [x] A) 1.08
-  <!-- feedback: Correcto. ¡Excelente análisis! -->
+  <!-- feedback: Correcto. Como $12 = 2^2 \cdot 3$, se aplica la propiedad del producto: $2(0.3) + 0.48 = 1.08$. -->
 - [ ] B) 1.20
-  <!-- feedback: Incorrecto. Por favor, revisa el procedimiento paso a paso. -->
+  <!-- feedback: 1.20 sería $4 \times 0.3$, como si 12 fuera $2^4$; el exponente de 2 en 12 es 2 y no 4. -->
 - [ ] C) 0.96
-  <!-- feedback: Incorrecto. Por favor, revisa el procedimiento paso a paso. -->
+  <!-- feedback: 0.96 es $2 \times 0.48$, como si 12 fuera $3^2$; en realidad $12 = 2^2 \cdot 3$ y el 2 aporta $0.3$ dos veces. -->
 - [ ] D) 0.78
-  <!-- feedback: Incorrecto. Por favor, revisa el procedimiento paso a paso. -->
+  <!-- feedback: 0.78 sale de sumar $0.3 + 0.48$, como si 12 fuera $2 \cdot 3$; pero 12 es $2^2 \cdot 3$, de modo que el 2 se cuenta dos veces. -->
 
 ### Explicacion Pedagogica
 Como $12 = 2^2 \cdot 3$, entonces $\log_b(12) = \log_b(2^2 \cdot 3) = 2\log_b(2) + \log_b(3) = 2(0.3) + 0.48 = 0.6 + 0.48 = 1.08$.

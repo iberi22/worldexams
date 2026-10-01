@@ -164,7 +164,7 @@ Utilizando as propriedades dos logaritmos, simplifique a expressão $\log_2(8^5)
 
 ### Opciones
 - [ ] A) 5 <!-- feedback: Este é apenas o expoente do logaritmando. -->
-- [ ] B) 8 <!-- feedback: Incorreto. -->
+- [ ] B) 8 <!-- feedback: 8 é o logaritmando. Depois de aplicar a propriedade da potência, o que se multiplica por 5 é log_2(8) = 3, e não o próprio 8. -->
 - [x] C) 15 <!-- feedback: log_2(8⁵) = 5 * log_2(8) = 5 * 3 = 15. -->
 - [ ] D) 40 <!-- feedback: Erro ao multiplicar 8 por 5. -->
 
@@ -261,7 +261,7 @@ Os gráficos das funções $f(x) = 10^x$ e $g(x) = \log x$ são simétricos em r
 - [ ] A) Eixo $x$ <!-- feedback: Simetria em relação ao eixo x ocorre quando trocamos f(x) por -f(x). -->
 - [ ] B) Eixo $y$ <!-- feedback: Simetria em relação ao eixo y ocorre quando trocamos x por -x. -->
 - [x] C) Reta $y = x$ <!-- feedback: Correto. Gráficos de funções inversas são sempre simétricos em relação à bissetriz dos quadrantes ímpares. -->
-- [ ] D) Reta $y = -x$ <!-- feedback: Incorreto. -->
+- [ ] D) Reta $y = -x$ <!-- feedback: A reta y = -x é a simetria de funções uma da outra, como f(x) = -f(-x), e não a de duas funções inversas entre si. -->
 
 ### Explicacion Pedagogica
 Como a função logarítmica é a inversa da exponencial, seus pares ordenados $(x, y)$ são trocados por $(y, x)$. Geometricamente, essa inversão de coordenadas corresponde a uma reflexão em relação à reta $y = x$.
@@ -335,9 +335,9 @@ Simplifique a expressão: $e^{2 \ln x} + 10^{\log x}$.
 
 ### Opciones
 - [ ] A) $2x + x = 3x$ <!-- feedback: Erro ao aplicar a propriedade da potência no primeiro termo. -->
-- [ ] B) $e^{x^2} + 10^x$ <!-- feedback: Incorreto. -->
+- [ ] B) $e^{x^2} + 10^x$ <!-- feedback: Como 2 ln x = ln(x^2), o primeiro termo simplifica para e^(ln(x^2)) = x^2, e não para e^(x^2), que é outra expressão. -->
 - [x] C) $x^2 + x$ <!-- feedback: e^(ln x²) = x² e 10^(log x) = x. Logo, x² + x. -->
-- [ ] D) $x^2 + \log x$ <!-- feedback: Incorreto. -->
+- [ ] D) $x^2 + \log x$ <!-- feedback: No segundo termo vale a identidade a^(log_a b) = b, então 10^(log x) é o próprio x. Sobrar log x indica que a identidade não foi aplicada. -->
 
 ### Explicacion Pedagogica
 Usamos as identidades fundamentais: $a^{\log_a b} = b$. No primeiro termo, $2 \ln x = \ln x^2$, então $e^{\ln x^2} = x^2$. No segundo termo, $10^{\log x} = x$. A soma resulta em $x^2 + x$.
@@ -374,10 +374,10 @@ Determine o conjunto solução da inequação: $\log_2(x - 3) + \log_2(x - 1) \l
 Qual é o valor da soma $S = \log_2(3) \cdot \log_3(4) \cdot \log_4(5) \cdot ... \cdot \log_{31}(32)$?
 
 ### Opciones
-- [ ] A) 32 <!-- feedback: Incorreto. -->
+- [ ] A) 32 <!-- feedback: A mudança de base para uma base comum faz o produto se cancelar em telescopia até log 32 / log 2 = log_2(32), e não até 32. -->
 - [x] B) 5 <!-- feedback: Mudança de base: (log 3 / log 2) * (log 4 / log 3) * ... * (log 32 / log 31) = log 32 / log 2 = log_2(32) = 5. -->
 - [ ] C) $\log 32$ <!-- feedback: O logaritmo resultante está na base 2. -->
-- [ ] D) 1 <!-- feedback: Incorreto. -->
+- [ ] D) 1 <!-- feedback: Os fatores não se cancelam por completo: sobram log 32 e log 2, cuja razão é log_2(32) = 5. Um produto de fatores encadeados nunca dá 1 aqui. -->
 
 ### Explicacion Pedagogica
 Aplicamos a mudança de base em cada termo para uma base comum $k$: $\frac{\log_k 3}{\log_k 2} \cdot \frac{\log_k 4}{\log_k 3} \cdot \frac{\log_k 5}{\log_k 4} \cdot ... \cdot \frac{\log_k 32}{\log_k 31}$. Observamos um cancelamento telescópico, sobrando apenas $\frac{\log_k 32}{\log_k 2}$, que é igual a $\log_2(32) = 5$.

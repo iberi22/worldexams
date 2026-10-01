@@ -50,9 +50,9 @@ Definición estructural de la ecuación de la forma $ax + b = 0$.
 Si un término suma, ¿cómo pasa al otro lado de la igualdad?
 
 ### Opciones
-- [ ] B) Dividiendo. <!-- feedback: Incorrecto. Operación no correspondiente. -->
+- [ ] B) Dividiendo. <!-- feedback: Dividir no deshace una suma. El término que suma pasa al otro lado restándolo, porque sumar y restar son operaciones inversas. -->
 - [x] A) Restando. <!-- feedback: Correcto. Aplicación de la operación inversa. -->
-- [ ] C) Multiplicando. <!-- feedback: Incorrecto. Operación no correspondiente. -->
+- [ ] C) Multiplicando. <!-- feedback: Multiplicar cambiaría la igualdad en lugar de despejarla. La operación inversa de sumar es restar en el lado contrario. -->
 - [ ] D) Con igual signo. <!-- feedback: Incorrecto. Rompe la igualdad. -->
 
 ### Explicacion Pedagogica
@@ -367,8 +367,8 @@ Despeje correcto de x.
 ### Opciones
 - [ ] A) $(c + b) / a$ <!-- feedback: Incorrecto. b debe restar. -->
 - [x] B) $(c - b) / a$ <!-- feedback: Correcto. Pasos inversos estándar. -->
-- [ ] C) $c - b - a$ <!-- feedback: Incorrecto. a divide. -->
-- [ ] D) $a(c - b)$ <!-- feedback: Incorrecto. a divide. -->
+- [ ] C) $c - b - a$ <!-- feedback: En c - b - a el a se resta en vez de dividir: despejar ax + b = c exige restar b y después dividir entre a. -->
+- [ ] D) $a(c - b)$ <!-- feedback: Aquí a multiplica a (c - b) cuando lo que corresponde es dividir entre a, porque a es el coeficiente de x. -->
 
 ### Explicacion Pedagogica
 Generalización del despeje para fórmulas con parámetros variables.
@@ -389,7 +389,7 @@ Generalización del despeje para fórmulas con parámetros variables.
 - [ ] A) RD\$ 400 <!-- feedback: Incorrecto. Suma menor a 3000. -->
 - [x] D) RD\$ 500 <!-- feedback: Correcto. $5x + 500 = 3000 \implies x=500$. -->
 - [ ] B) RD\$ 600 <!-- feedback: Incorrecto. Excede total. -->
-- [ ] C) RD\$ 250 <!-- feedback: Incorrecto. Insuficiente. -->
+- [ ] C) RD\$ 250 <!-- feedback: Con x = 250 los tres amigos tendrían 250, 500 y 1000, que suman 1750 y no los 3000 del total. El sistema $5x + 500 = 3000$ exige $x = 500$. -->
 
 ### Explicacion Pedagogica
 Modelación de problemas de reparto con múltiples condiciones vinculadas.
