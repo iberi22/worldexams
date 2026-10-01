@@ -17,3 +17,27 @@ if [ -f "$GATE" ] && command -v node >/dev/null 2>&1; then
 fi
 
 node scripts/husky-guard.mjs --staged
+
+# Third gate: the 23 scripts under scripts/gen_*.py can write bundles, and 16 of
+# them cannot produce output that passes the quality gate — they hard-code the
+# rejected feedback next to a hard-coded stem, which is how 412 cloned bundles
+# were created in the first place. A change to one of them while the repair is
+# running has to be deliberate, so it needs a reason in the commit message.
+# Override with WE_ALLOW_UNSAFE_GENERATOR=1 once the generator can pass the gate.
+if [ -z "$WE_ALLOW_UNSAFE_GENERATOR" ] && command -v node >/dev/null 2>&1; then
+  if git diff --cached --name-only | grep -qE '^scripts/gen_.*\.py$'; then
+    if ! node scripts/check-generators.mjs >/dev/null 2>&1; then
+      if ! git log -1 --pretty=%B | grep -qiE 'generator|generador|rewrite|reescribe|deprecat|deprecad'; then
+        echo ""
+        echo "BLOCKED: a bundle generator changed, and the unsafe ones are still unsafe."
+        echo ""
+        node scripts/check-generators.mjs || true
+        echo ""
+        echo "Either fix the generator so it passes the gate, or set"
+        echo "  WE_ALLOW_UNSAFE_GENERATOR=1"
+        echo "and say in the commit message why the unsafe generator changed."
+        exit 1
+      fi
+    fi
+  fi
+fi
