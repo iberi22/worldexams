@@ -307,13 +307,25 @@ export function validateFile(file, opts = { strictQuality: false }) {
 
   const correctAnswers = [];
   const allExplanations = [];
+  const seenIds = new Set();
 
   questions.forEach((q, index) => {
     const prefix = `Question ${index + 1}`;
     if (q.label !== 'Question') errors.push(`${prefix}: heading must use "Question"`);
     if (q.number !== index + 1) errors.push(`${prefix}: question numbering is not sequential`);
     if (!/^D\d+(?:-D?\d+)?$/.test(q.difficulty)) errors.push(`${prefix}: invalid difficulty label`);
-    if (!/\*\*ID:\*\*\s*\S/.test(q.text)) errors.push(`${prefix}: missing ID`);
+
+    const idMatch = q.text.match(/\*\*ID:\*\*\s*`?([^\n`\r]+)`?/);
+    if (!idMatch || !idMatch[1].trim()) {
+      errors.push(`${prefix}: missing ID`);
+    } else {
+      const qId = idMatch[1].trim();
+      if (seenIds.has(qId)) {
+        errors.push(`${prefix}: duplicate ID "${qId}"`);
+      } else {
+        seenIds.add(qId);
+      }
+    }
     if (!/\*\*Bloom:\*\*\s*(Remember|Understand|Apply|Analyze|Evaluate)/.test(q.text)) errors.push(`${prefix}: invalid Bloom`);
     if (isCO) {
       if (!/\*\*ICFES:\*\*\s*\S/.test(q.text)) errors.push(`${prefix}: missing ICFES field (Colombia exam axis)`);

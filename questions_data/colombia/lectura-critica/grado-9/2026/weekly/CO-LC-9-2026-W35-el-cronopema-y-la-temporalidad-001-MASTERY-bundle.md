@@ -55,7 +55,7 @@ Esta semana estudiamos cómo el tiempo organiza una narración: qué es el crono
 El enunciado pide identificar un dato explícito del texto, no interpretarlo. La respuesta se localiza leyendo de nuevo la transcripción descrita en el Texto 1. Este tipo de pregunta de reconocimiento entrena la atención al detalle como base para después analizar los saltos temporales del relato.
 
 ## Question 2 [D3-D4]
-**ID:** CO-LC-9-2026-W35-el-cronopema-y-la-temporalidad-001-MASTERY-bundle-v1
+**ID:** CO-LC-9-2026-W35-el-cronopema-y-la-temporalidad-001-MASTERY-bundle-v2
 **Bloom:** Understand
 **ICFES:** Semántico
 **Expected_Success:** 0.88
@@ -78,7 +78,7 @@ Según el contenido de la semana, ¿qué es un cronopema?
 La pregunta evalúa comprensión de un término del contenido de la semana. El cronopema funciona como una señal dentro del texto que le indica al lector si el hecho ocurre ahora, antes o después de otro momento. Reconocer su función es indispensable para analizar después cómo se organizan los retrocesos del relato.
 
 ## Question 3 [D3-D4]
-**ID:** CO-LC-9-2026-W35-el-cronopema-y-la-temporalidad-001-MASTERY-bundle-v1
+**ID:** CO-LC-9-2026-W35-el-cronopema-y-la-temporalidad-001-MASTERY-bundle-v3
 **Bloom:** Understand
 **ICFES:** Textual
 **Expected_Success:** 0.86
@@ -101,7 +101,7 @@ La pregunta evalúa comprensión de un término del contenido de la semana. El c
 Aquí se pide reconocer el valor temporal de una expresión concreta. Las palabras "un día después" funcionan como puente lógico entre dos acontecimientos. Detectar este tipo de marcas temporales es lo que permite reconstruir la línea de tiempo correcta del relato.
 
 ## Question 4 [D5-D6]
-**ID:** CO-LC-9-2026-W35-el-cronopema-y-la-temporalidad-001-MASTERY-bundle-v1
+**ID:** CO-LC-9-2026-W35-el-cronopema-y-la-temporalidad-001-MASTERY-bundle-v4
 **Bloom:** Apply
 **ICFES:** Semántico
 **Expected_Success:** 0.84
@@ -124,7 +124,7 @@ Si Camila debe construir la línea de tiempo con los hechos en el orden en que o
 Aplicar consiste en usar las marcas temporales para ordenar información dispersa. El estudiante debe apoyarse en el Texto 2 y reconstruir la secuencia de los acontecimientos, no simplemente copiar el orden en que se narran. Esta habilidad es el insumo directo para distinguir un retroceso del relato de una secuencia lineal.
 
 ## Question 5 [D5-D6]
-**ID:** CO-LC-9-2026-W35-el-cronopema-y-la-temporalidad-001-MASTERY-bundle-v1
+**ID:** CO-LC-9-2026-W35-el-cronopema-y-la-temporalidad-001-MASTERY-bundle-v5
 **Bloom:** Apply
 **ICFES:** Discursivo
 **Expected_Success:** 0.82
@@ -147,7 +147,7 @@ Si Camila quiere iniciar su exposición con la escena más vívida que recuerda,
 La aplicación del retroceso narrativo se evalúa por la capacidad de elegir el orden más eficaz. Un buen inicio con una escena concreta invita al lector a seguir, mientras que el salto hacia atrás explica el origen. Elegir el hecho adecuado es tan importante como la técnica en sí.
 
 ## Question 6 [D5-D6]
-**ID:** CO-LC-9-2026-W35-el-cronopema-y-la-temporalidad-001-MASTERY-bundle-v1
+**ID:** CO-LC-9-2026-W35-el-cronopema-y-la-temporalidad-001-MASTERY-bundle-v6
 **Bloom:** Apply
 **ICFES:** Pragmático
 **Expected_Success:** 0.80
@@ -170,7 +170,7 @@ Un compañero quiere conservar los mismos hechos pero hacer la narración más l
 La pregunta pide aplicar el concepto de ritmo a una transformación del texto. El ritmo depende de cuánto se detiene el narrador en cada momento, no solamente del orden de los hechos. Comprender esta relación ayuda a controlar deliberadamente la experiencia de lectura.
 
 ## Question 7 [D7-D8]
-**ID:** CO-LC-9-2026-W35-el-cronopema-y-la-temporalidad-001-MASTERY-bundle-v1
+**ID:** CO-LC-9-2026-W35-el-cronopema-y-la-temporalidad-001-MASTERY-bundle-v7
 **Bloom:** Analyze
 **ICFES:** Discursivo
 **Expected_Success:** 0.78
@@ -193,7 +193,7 @@ La pregunta pide aplicar el concepto de ritmo a una transformación del texto. E
 Analizar exige separar dos ideas que suelen confundirse: la fecha de los hechos y la estructura de la narración. Un retroceso depende de la secuencia del discurso, es decir, del orden en que el narrador presenta los hechos. Reconocer esta diferencia es fundamental para leer textos con líneas narrativas no lineales.
 
 ## Question 8 [D7-D8]
-**ID:** CO-LC-9-2026-W35-el-cronopema-y-la-temporalidad-001-MASTERY-bundle-v1
+**ID:** CO-LC-9-2026-W35-el-cronopema-y-la-temporalidad-001-MASTERY-bundle-v8
 **Bloom:** Analyze
 **ICFES:** Semántico
 **Expected_Success:** 0.76
@@ -216,7 +216,7 @@ Analizar exige separar dos ideas que suelen confundirse: la fecha de los hechos 
 La comparación de las dos filas permite aislar la variable central del ejercicio: el orden. Los contenidos son idénticos y lo que cambia es la secuencia del discurso. Analizar esta diferencia prepara al estudiante para distinguir la estructura del relato de los datos del mundo narrado.
 
 ## Question 9 [D7-D8]
-**ID:** CO-LC-9-2026-W35-el-cronopema-y-la-temporalidad-001-MASTERY-bundle-v1
+**ID:** CO-LC-9-2026-W35-el-cronopema-y-la-temporalidad-001-MASTERY-bundle-v9
 **Bloom:** Analyze
 **ICFES:** Crítico-Intertextual
 **Expected_Success:** 0.75
@@ -239,7 +239,7 @@ La comparación de las dos filas permite aislar la variable central del ejercici
 Analizar el efecto de un recurso narrativo exige anticipar la reacción del receptor. El retroceso narrativo crea una tensión cognitiva que se resuelve cuando el narrador vuelve al presente y explica el origen. Evaluar este efecto ayuda a justificar decisiones de escritura con argumentos y no por gusto.
 
 ## Question 10 [D9-D10]
-**ID:** CO-LC-9-2026-W35-el-cronopema-y-la-temporalidad-001-MASTERY-bundle-v1
+**ID:** CO-LC-9-2026-W35-el-cronopema-y-la-temporalidad-001-MASTERY-bundle-v10
 **Bloom:** Evaluate
 **ICFES:** Evaluativo
 **Expected_Success:** 0.74
@@ -262,7 +262,7 @@ Entre las dos versiones del Texto 2, ¿cuál resulta más adecuada para explicar
 Evaluar supone justificar una elección narrativa con criterios explícitos. La decisión depende del propósito y del público al que se dirige el texto. Este tipo de razonamiento enseña que no hay un orden mejor en abstracto, sino uno más adecuado para cada situación comunicativa.
 
 ## Question 11 [D9-D10]
-**ID:** CO-LC-9-2026-W35-el-cronopema-y-la-temporalidad-001-MASTERY-bundle-v1
+**ID:** CO-LC-9-2026-W35-el-cronopema-y-la-temporalidad-001-MASTERY-bundle-v11
 **Bloom:** Evaluate
 **ICFES:** Crítico-Intertextual
 **Expected_Success:** 0.72
@@ -285,7 +285,7 @@ Califique la afirmación: "El abuelo narra los hechos sin ningún orden, por eso
 El ejercicio pide juzgar con fundamento una afirmación fuerte y se apoya en la comparación con la ficha. La narración del abuelo es personal, memorizada y está claramente ordenada desde su experiencia. Criticar el orden del relato como si fuera desorden equivale a confundir una decisión narrativa con un defecto del texto.
 
 ## Question 12 [D9-D10]
-**ID:** CO-LC-9-2026-W35-el-cronopema-y-la-temporalidad-001-MASTERY-bundle-v1
+**ID:** CO-LC-9-2026-W35-el-cronopema-y-la-temporalidad-001-MASTERY-bundle-v12
 **Bloom:** Evaluate
 **ICFES:** Evaluativo
 **Expected_Success:** 0.70

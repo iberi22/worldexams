@@ -47,7 +47,7 @@ Bundle de 20 preguntas para grado 11 sobre organizaciones regionales, sistema in
 La OEA es la organización política regional más antigua del mundo: su carta se firmó en Bogotá en abril de 1948, días antes del asesinato de Jorge Eliécer Gaitán, acontecimiento que detonó el Bogotazo. Reúne a los Estados del hemisferio en torno a democracia, seguridad y derechos humanos, y su sede permanece en Washington, cerca de los organismos financieros interamericanos.
 
 ## Question 2 [D3-D4]
-**ID:** CO-SOC-11-2026-W17-geopolitica-latinoamericana-001-MASTERY-bundle-v1
+**ID:** CO-SOC-11-2026-W17-geopolitica-latinoamericana-001-MASTERY-bundle-v2
 **Bloom:** Remember
 **ICFES:** Globalización y comercio
 **Expected_Success:** 0.85
@@ -70,7 +70,7 @@ La OEA es la organización política regional más antigua del mundo: su carta s
 El Mercosur nació en 1991 con el Tratado de Asunción suscrito por Argentina, Brasil, Paraguay y Uruguay, y busca la libre circulación de bienes, servicios y factores productivos. Colombia no es miembro pleno, sino Estado asociado, una condición que le permite negociar preferencias arancelarias sin asumir totalmente el arancel externo común.
 
 ## Question 3 [D3-D4]
-**ID:** CO-SOC-11-2026-W17-geopolitica-latinoamericana-001-MASTERY-bundle-v1
+**ID:** CO-SOC-11-2026-W17-geopolitica-latinoamericana-001-MASTERY-bundle-v3
 **Bloom:** Understand
 **ICFES:** Globalización y comercio
 **Expected_Success:** 0.80
@@ -93,7 +93,7 @@ El Mercosur nació en 1991 con el Tratado de Asunción suscrito por Argentina, B
 La Alianza del Pacífico se perfila como un bloque de integración regional abierta al comercio mundial: libera aranceles, coordina agencias de promoción de inversiones y busca convergencia con los mercados asiáticos. Para Colombia representa su vocación pacifista y exportadora, complementaria —y a veces rival— de los mecanismos atlánticos como el Mercosur.
 
 ## Question 4 [D3-D4]
-**ID:** CO-SOC-11-2026-W17-geopolitica-latinoamericana-001-MASTERY-bundle-v1
+**ID:** CO-SOC-11-2026-W17-geopolitica-latinoamericana-001-MASTERY-bundle-v4
 **Bloom:** Understand
 **ICFES:** Convivencia y paz
 **Expected_Success:** 0.80
@@ -116,7 +116,7 @@ La Alianza del Pacífico se perfila como un bloque de integración regional abie
 El sistema interamericano de derechos humanos tiene dos órganos: la Comisión Interamericana, con sede en Washington, que recibe peticiones y elabora informes; y la Corte Interamericana, con sede en San José de Costa Rica, que emite sentencias vinculantes para los Estados que reconocen su competencia. Colombia ha sido condenado en numerosos casos por la Corte IDH, lo que ha impulsado reformas internas como leyes de víctimas y mecanismos de búsqueda.
 
 ## Question 5 [D5-D6]
-**ID:** CO-SOC-11-2026-W17-geopolitica-latinoamericana-001-MASTERY-bundle-v1
+**ID:** CO-SOC-11-2026-W17-geopolitica-latinoamericana-001-MASTERY-bundle-v5
 **Bloom:** Apply
 **ICFES:** Convivencia y paz
 **Expected_Success:** 0.75
@@ -139,7 +139,7 @@ En 2012, la Corte Internacional de Justicia de La Haya emitió un fallo sobre la
 El fallo de 19 de noviembre de 2012 en el caso Disputa territorial y marítima (Nicaragua c. Colombia) consolidó la titularidad colombiana sobre las islas del San Andrés, pero trazó una nueva frontera marítima que redujo las áreas de proyección al este del archipiélago. El caso es paradigmático para entender cómo los tribunales internacionales resuelven litigios entre Estados y cómo sus decisiones generan efectos políticos profundos.
 
 ## Question 6 [D5-D6]
-**ID:** CO-SOC-11-2026-W17-geopolitica-latinoamericana-001-MASTERY-bundle-v1
+**ID:** CO-SOC-11-2026-W17-geopolitica-latinoamericana-001-MASTERY-bundle-v6
 **Bloom:** Apply
 **ICFES:** Sistema político y democracia
 **Expected_Success:** 0.75
@@ -162,7 +162,7 @@ El fallo de 19 de noviembre de 2012 en el caso Disputa territorial y marítima (
 La jurisdicción de la CIJ es voluntaria: se funda en el consentimiento de los Estados, por ejemplo mediante el Pacto de Bogotá de 1948, que incluye el mecanismo de solución pacífica de controversias. Al retirarse en 2012, Colombia buscó blindarse ante nuevos litigios marítimos futuros, aunque quedó sujeto al fallo ya ejecutoriado. Este episodio muestra la tensión entre justicia internacional y soberanía estatal.
 
 ## Question 7 [D5-D6]
-**ID:** CO-SOC-11-2026-W17-geopolitica-latinoamericana-001-MASTERY-bundle-v1
+**ID:** CO-SOC-11-2026-W17-geopolitica-latinoamericana-001-MASTERY-bundle-v7
 **Bloom:** Apply
 **ICFES:** Globalización y comercio
 **Expected_Success:** 0.75
@@ -185,7 +185,7 @@ La Comunidad de Estados Latinoamericanos y Caribeños, CELAC, se distingue de la
 La CELAC emergió como mecanismo de autonomía regional: un foro sin Washington ni Ottawa, donde los latinoamericanos dialogan como pares. Su debilidad es operativa —no tiene secretariado permanente robusto ni capacidad sancionatoria—, pero expresa la voluntad de una arquitectura propia frente al sistema interamericano liderado por la OEA.
 
 ## Question 8 [D5-D6]
-**ID:** CO-SOC-11-2026-W17-geopolitica-latinoamericana-001-MASTERY-bundle-v1
+**ID:** CO-SOC-11-2026-W17-geopolitica-latinoamericana-001-MASTERY-bundle-v8
 **Bloom:** Apply
 **ICFES:** Ciudadano
 **Expected_Success:** 0.70
@@ -208,7 +208,7 @@ El Pacto de Leticia, suscrito en 2019 en el marco de la Organización del Tratad
 Tras los devastadores incendios de 2019 en la Amazonía, los presidentes reunidos en Leticia firmaron un pacto de cooperación operativa: brigadas conjuntas, intercambio de información científica y acciones contra la deforestación, en el marco del OTCA con sede en Manaus. El evento mostró cómo un desastre ambiental puede activar diplomacia regional y cómo Colombia, desde su Amazonía en Putumayo, Vaupés, Amazonas y Guainía, tiene voz propia en la gobernanza selvática.
 
 ## Question 9 [D5-D6]
-**ID:** CO-SOC-11-2026-W17-geopolitica-latinoamericana-001-MASTERY-bundle-v1
+**ID:** CO-SOC-11-2026-W17-geopolitica-latinoamericana-001-MASTERY-bundle-v9
 **Bloom:** Apply
 **ICFES:** Pluralidad, identidad y desigualdad
 **Expected_Success:** 0.70
@@ -231,7 +231,7 @@ Tras los devastadores incendios de 2019 en la Amazonía, los presidentes reunido
 El Estatuto Temporal de Protección de 2021 implementó un registro único y un Permiso por Proteger que otorga permanencia regular temporal a venezolanos en condición irregular, con acceso a trabajo, salud y educación. Se considera un referente regional en gestión migratoria basada en derechos, pues integra a la población vulnerable al sistema formal en lugar de excluirla.
 
 ## Question 10 [D5-D6]
-**ID:** CO-SOC-11-2026-W17-geopolitica-latinoamericana-001-MASTERY-bundle-v1
+**ID:** CO-SOC-11-2026-W17-geopolitica-latinoamericana-001-MASTERY-bundle-v10
 **Bloom:** Apply
 **ICFES:** Globalización y comercio
 **Expected_Success:** 0.70
@@ -254,7 +254,7 @@ El Estatuto Temporal de Protección de 2021 implementó un registro único y un 
 El Acuerdo de Cartagena de 1969 creó el Pacto Andino, renegociado como Comunidad Andina en 1996, con libre comercio subregional, arancel externo común y normas de transporte, propiedad intelectual y migración —de hecho, su mecanismo de tarjetas andinas de migración fue pionero. Venezuela fue miembro y se retiró en 2006; Chile participó y se salió en 1976. Para Colombia, la CAN es su anclaje subregional más antiguo junto con la proyección pacífica de la Alianza del Pacífico.
 
 ## Question 11 [D7-D8]
-**ID:** CO-SOC-11-2026-W17-geopolitica-latinoamericana-001-MASTERY-bundle-v1
+**ID:** CO-SOC-11-2026-W17-geopolitica-latinoamericana-001-MASTERY-bundle-v11
 **Bloom:** Analyze
 **ICFES:** Globalización y comercio
 **Expected_Success:** 0.65
@@ -277,7 +277,7 @@ El Acuerdo de Cartagena de 1969 creó el Pacto Andino, renegociado como Comunida
 La arquitectura regional latinoamericana es diversa: organizaciones políticas amplias como la OEA, con mecanismos de defensa de la democracia; bloques comerciales profundos como la Alianza del Pacífico, basada en la libre circulación; y foros de conversación como la CELAC. Analizar geopolítica regional implica leer qué problema —político, comercial o social— convoca a qué organización y con qué herramientas.
 
 ## Question 12 [D7-D8]
-**ID:** CO-SOC-11-2026-W17-geopolitica-latinoamericana-001-MASTERY-bundle-v1
+**ID:** CO-SOC-11-2026-W17-geopolitica-latinoamericana-001-MASTERY-bundle-v12
 **Bloom:** Analyze
 **ICFES:** Pluralidad, identidad y desigualdad
 **Expected_Success:** 0.65
@@ -300,7 +300,7 @@ La llegada de más de 2,8 millones de migrantes venezolanos a Colombia genera m�
 Colombia recibió la mayor parte del éxodo venezolano de más de siete millones de personas, con más de 2,8 millones en su territorio según los registros del RUMV. El análisis estructural debe evitar el alarmismo y la idealización: la presión sobre salud y educación en ciudades frontera como Cúcuta es real, pero la integración —como buscó el Estatuto Temporal— convierte el desafío demográfico en oportunidad productiva, mientras la xenofobia y la informalidad lo agravan.
 
 ## Question 13 [D7-D8]
-**ID:** CO-SOC-11-2026-W17-geopolitica-latinoamericana-001-MASTERY-bundle-v1
+**ID:** CO-SOC-11-2026-W17-geopolitica-latinoamericana-001-MASTERY-bundle-v13
 **Bloom:** Analyze
 **ICFES:** Convivencia y paz
 **Expected_Success:** 0.65
@@ -323,7 +323,7 @@ Sabiendo que la jurisdicción de la CIJ se funda en el consentimiento de los Est
 Este caso permite analizar la lógica del consentimiento en derecho internacional: los tribunales no tienen jurisdicción compulsoria universal. Al denunciar, un Estado gestiona su riesgo litigioso futuro, pero no borra sentencias pasadas. La geopolítica jurídica caribeña de Colombia muestra cómo los fallos internacionales reconfiguran relaciones bilaterales durante décadas, incluidas las rutas de pesca y los límites de plataformas marítimas.
 
 ## Question 14 [D7-D8]
-**ID:** CO-SOC-11-2026-W17-geopolitica-latinoamericana-001-MASTERY-bundle-v1
+**ID:** CO-SOC-11-2026-W17-geopolitica-latinoamericana-001-MASTERY-bundle-v14
 **Bloom:** Analyze
 **ICFES:** Convivencia y paz
 **Expected_Success:** 0.65
@@ -346,7 +346,7 @@ El cierre intermitente de la frontera colombo-venezolana entre 2015 y su reapert
 La frontera común de más de 2.200 kilómetros entre Cúcuta y San Antonio del Táchira es una de las más dinámicas de Suramérica: el puente Simón Bolívar concentra comercio y vida cotidiana que los cierres de 2015 y posteriores interrumpieron. Geopolíticamente, demuestra que la integración depende de instituciones binacionales, conectividad y reglas estables; la infraestructura sin acuerdo político se convierte en cuello de botella humanitario.
 
 ## Question 15 [D7-D8]
-**ID:** CO-SOC-11-2026-W17-geopolitica-latinoamericana-001-MASTERY-bundle-v1
+**ID:** CO-SOC-11-2026-W17-geopolitica-latinoamericana-001-MASTERY-bundle-v15
 **Bloom:** Analyze
 **ICFES:** Globalización y comercio
 **Expected_Success:** 0.65
@@ -369,7 +369,7 @@ La frontera común de más de 2.200 kilómetros entre Cúcuta y San Antonio del 
 América Latina construyó durante décadas organismos superpuestos: la «sopa de letras» regional refleja proyectos políticos distintos y a veces rivales. Para un Estado como Colombia, la lectura estratégica es que cada foro tiene costos y réditos: la OEA vincula con Washington, la CELAC y UNASUR ofrecen autonomía sur-sur, y la Alianza y el CAN canalizan comercio. La geopolítica de la región se lee, entonces, en qué mesa se sienta cada país según el asunto.
 
 ## Question 16 [D7-D8]
-**ID:** CO-SOC-11-2026-W17-geopolitica-latinoamericana-001-MASTERY-bundle-v1
+**ID:** CO-SOC-11-2026-W17-geopolitica-latinoamericana-001-MASTERY-bundle-v16
 **Bloom:** Analyze
 **ICFES:** Convivencia y paz
 **Expected_Success:** 0.65
@@ -392,7 +392,7 @@ América Latina construyó durante décadas organismos superpuestos: la «sopa d
 El sistema interamericano funciona como una cascada: primero la Comisión en Washington, que admite, informa y puede someter el caso a la Corte IDH en San José, cuyas sentencias son vinculantes para los Estados que aceptaron su jurisdicción. Esta arquitectura dual —órgano político-cuasi-judicial y tribunal— define la protección supranacional de derechos en el hemisferio y explica por qué decisiones sobre Colombia se litigan en esas dos sedes.
 
 ## Question 17 [D9-D10]
-**ID:** CO-SOC-11-2026-W17-geopolitica-latinoamericana-001-MASTERY-bundle-v1
+**ID:** CO-SOC-11-2026-W17-geopolitica-latinoamericana-001-MASTERY-bundle-v17
 **Bloom:** Evaluate
 **ICFES:** Sistema político y democracia
 **Expected_Success:** 0.60
@@ -415,7 +415,7 @@ Frente al dilema soberanía versus integración tras el fallo de la CIJ de 2012,
 El caso Colombia-Nicaragua es un laboratorio para evaluar la tensión soberanía-integración: aceptar la jurisdicción de la CIJ fue históricamente una decisión de política exterior que compraba previsibilidad hemisférica. Tras el fallo, Colombia combinó acatamiento formal con denuncia prospectiva del pacto y reforzó su presencia institucional en el archipiélago. La evaluación madura huye tanto del soberanismo maximalista como del subordinacionismo acrítico.
 
 ## Question 18 [D9-D10]
-**ID:** CO-SOC-11-2026-W17-geopolitica-latinoamericana-001-MASTERY-bundle-v1
+**ID:** CO-SOC-11-2026-W17-geopolitica-latinoamericana-001-MASTERY-bundle-v18
 **Bloom:** Evaluate
 **ICFES:** Convivencia y paz
 **Expected_Success:** 0.60
@@ -438,7 +438,7 @@ El caso Colombia-Nicaragua es un laboratorio para evaluar la tensión soberanía
 La Carta Democrática Interamericana de 2001 permite convocar consejos y suspender a miembros, como ocurrió con Cuba en 1962 y con Honduras tras el golpe de 2009. La evaluación equilibrada considera que la OEA ofreció mesas de negociación y misiones, pero que sus votaciones geopolíticas alimentaron denuncias de doble vara. Ningún foro regional sustituye la voluntad interna de los actores de cada país.
 
 ## Question 19 [D9-D10]
-**ID:** CO-SOC-11-2026-W17-geopolitica-latinoamericana-001-MASTERY-bundle-v1
+**ID:** CO-SOC-11-2026-W17-geopolitica-latinoamericana-001-MASTERY-bundle-v19
 **Bloom:** Evaluate
 **ICFES:** Pluralidad, identidad y desigualdad
 **Expected_Success:** 0.55
@@ -461,7 +461,7 @@ La Carta Democrática Interamericana de 2001 permite convocar consejos y suspend
 Evaluar el Estatuto exige mirar tres planos: el normativo —un diseño pionero de regularización masiva por vía administrativa—, el financiero —municipios sin capacidad para absorber demanda de salud y educación— y el regional —la cooperación internacional prometió fondos que llegaron parcialmente. La política fue un hito de derechos humanos en la región, pero su sostenibilidad depende de corresponsabilidad, un principio que Colombia reclamó sistemáticamente ante los organismos multilaterales.
 
 ## Question 20 [D9-D10]
-**ID:** CO-SOC-11-2026-W17-geopolitica-latinoamericana-001-MASTERY-bundle-v1
+**ID:** CO-SOC-11-2026-W17-geopolitica-latinoamericana-001-MASTERY-bundle-v20
 **Bloom:** Evaluate
 **ICFES:** Ciudadano
 **Expected_Success:** 0.55

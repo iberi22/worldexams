@@ -325,7 +325,7 @@ While tourism can bring economic benefits, it can also lead to the commodificati
 
 ---
 ## Question 16 [D7-D8]
-**ID:** `CL-ING-11-2026-W08-travel-tourism-001-MASTERY-v11`
+**ID:** `CL-ING-11-2026-W08-travel-tourism-001-MASTERY-v16`
 **Bloom:** Remember
 **EJE:** Vocabulary
 **Expected_Success:** 0.85
