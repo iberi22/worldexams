@@ -408,22 +408,22 @@ export function validateFile(file, opts = { strictQuality: false }) {
     if (options.some((option) => !option.feedback)) errors.push(`${prefix}: every option needs feedback`);
     if (new Set(options.map((option) => option.text)).size !== options.length) errors.push(`${prefix}: duplicate option text`);
 
-    // Two wrong options that carry the same feedback teach the student one thing
-    // about two options, and the reason for rejecting one is missing from the
-    // other. In CO-ING-4 W04 the option Purple was told "Blue is not a color of
-    // apples", so the letter was explained and the content was not.
-    // Case-insensitive: only a change of capitalisation is not a difference.
-    // The correct option is excluded: its feedback legitimately repeats nothing,
-    // but a wrong option may quote it, and only two wrong ones sharing a string
-    // means the student is not told why that option is wrong.
+        // Two wrong options sharing a feedback teach one thing about two options, and
+    // leave one of them with no reason at all: CO-ING-4 W04 told the option Purple
+    // that "Blue is not a color of apples", so the letter was explained and the
+    // content was not. feedbackProblem cannot see it, because each string alone is a
+    // sound explanation. It takes two options to see the defect.
+    // The correct option is excluded: a distractor may legitimately be told it
+    // matches the right answer, which is why the student picked it.
+    // Compared case-insensitively, since a capitalisation difference explains nothing.
     const correctLetter = correct === 1 ? correctMatches[0][1] : null;
     const wrongFeedback = correctLetter
-      ? options.filter((o) => o.letter !== correctLetter).map((o) => (o.feedback || '').trim().toLowerCase()).filter(Boolean)
+      ? options.filter((o) => o.letter !== correctLetter).map((o) => o.feedback.trim().toLowerCase()).filter(Boolean)
       : [];
-    if (wrongFeedback.length && new Set(wrongFeedback).size !== wrongFeedback.length) {
-      const seen = new Set();
-      const repeated = wrongFeedback.filter((fb) => (seen.has(fb) ? true : (seen.add(fb), false)));
-      errors.push(`${prefix}: ${repeated.length} wrong option(s) share the same feedback: "${repeated[0].slice(0, 60)}"`);
+    const distinctWrong = new Set(wrongFeedback);
+    if (wrongFeedback.length > distinctWrong.size) {
+      const dup = wrongFeedback.find((fb, i) => wrongFeedback.indexOf(fb) !== i);
+      errors.push(`${prefix}: ${wrongFeedback.length - distinctWrong.size} wrong option(s) share the same feedback: "${dup.slice(0, 60)}"`);
     }
 
     options.forEach(opt => {
