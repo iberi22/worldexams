@@ -172,7 +172,7 @@
           "letter": "D",
           "text": "any",
           "is_correct": false,
-          "feedback": "Incorrect. Not used with \"How\" for questions."
+          "feedback": "Incorrect. \"Any\" asks about a countable quantity in yes/no or negative contexts, not an amount with \"How\"."
         }
       ],
       "correct_answer": "B",
@@ -206,7 +206,7 @@
           "letter": "C",
           "text": "a few",
           "is_correct": false,
-          "feedback": "Incorrect. Salt is uncountable."
+          "feedback": "Incorrect. \"A few\" is reserved for countable nouns, and you cannot count grains of salt."
         },
         {
           "letter": "A",
