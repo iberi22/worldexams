@@ -1,0 +1,471 @@
+{
+  "metadata": {
+    "grade": 6,
+    "subject": "sociales-ciudadanas",
+    "country": "co",
+    "pack_id": "co-week-13-grade-6-subject-sociales_ciudadanas",
+    "generated_at": "2026-10-01T19:00:21.506Z"
+  },
+  "questions": [
+    {
+      "id": "CO-SOC-6-2026-W13-seguridad-ciudadana-y-prevencion-001-MASTERY-bundle-v1",
+      "statement": "¿Cual de las siguientes acciones es una medida de prevencion de la violencia en el barrio?",
+      "context": "En el barrio La Esperanza de Medellín, los vecinos se reunen en la junta de accion comunal para hablar sobre la seguridad de los niños que caminan solos al colegio.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Ignorar las situaciones de riesgo porque no afectan directamente a la familia",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ignorar el riesgo aumenta la vulnerabilidad de todos los residentes del barrio, incluyendo los niños que van al colegio."
+        },
+        {
+          "letter": "B",
+          "text": "Organizar rondas de vigilancia entre vecinos para acompañar a los estudiantes al colegio",
+          "is_correct": true,
+          "feedback": "Correcto. Las rondas de vigilancia entre vecinos son una medida preventiva que protege a los estudiantes y reduce oportunidades de violencia."
+        },
+        {
+          "letter": "C",
+          "text": "Esperar a que ocurra un incidente para despues denunciarlo a las autoridades",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esperar a que ocurra el incidente es una accion reactiva, no preventiva; la prevencion busca evitar que el hecho violento suceda."
+        },
+        {
+          "letter": "D",
+          "text": "Prohibir que los niños salgan de sus casas bajo cualquier circunstancia",
+          "is_correct": false,
+          "feedback": "Incorrecto. Aislar a los niños no es una estrategia de prevencion realista ni saludable; la seguridad se logra con acompañamiento, no con encierro."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La prevencion de la violencia son las acciones que se toman ANTES de que ocurra un hecho violento para evitar que suceda. En el contexto del barrio, la organizacion comunitaria como las rondas de vigilancia entre vecinos es una estrategia preventiva reconocida porque disuade a posibles agresores y protege a las personas mas vulnerables, como los estudiantes.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Ciudadano",
+      "expected_success": 0.9,
+      "bundle_id": "CO-SOC-6-2026-W13-seguridad-ciudadana-y-prevencion-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-6-2026-W13-seguridad-ciudadana-y-prevencion-001-MASTERY-bundle-v2",
+      "statement": "¿Cual es la diferencia principal entre resolver un conflicto con dialogo y resolverlo con violencia?",
+      "context": "En un colegio de Cali, dos estudiantes de grado 6 discuten porque uno le quito el balon al otro durante el recreo. La profesora interviene para mediar.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El dialogo siempre termina con un ganador y un perdedor, igual que la violencia",
+          "is_correct": false,
+          "feedback": "Incorrecto. El dialogo busca acuerdos donde ambas partes ceden algo; la violencia impone un ganador por la fuerza sin consenso."
+        },
+        {
+          "letter": "B",
+          "text": "La violencia es mas rapida que el dialogo, por eso es mejor para resolver conflictos",
+          "is_correct": false,
+          "feedback": "Incorrecto. La rapidez no determina si una solucion es justa; la violencia puede ser rapida pero destruye relaciones y no resuelve las causas del conflicto."
+        },
+        {
+          "letter": "C",
+          "text": "El dialogo busca entender ambas partes y llegar a un acuerdo, mientras que la violencia impone una solucion por la fuerza",
+          "is_correct": true,
+          "feedback": "Correcto. El dialogo permite expresar los puntos de vista de ambas partes y construir acuerdos; la violencia solo genera mas daño y no resuelve el problema de fondo."
+        },
+        {
+          "letter": "D",
+          "text": "El dialogo solo funciona entre adultos, nunca entre niños o jovenes",
+          "is_correct": false,
+          "feedback": "Incorrecto. El dialogo es una herramienta valida para personas de cualquier edad; los niños y jovenes pueden aprender a resolver conflictos hablando."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El dialogo es un mecanismo de resolucion pacifica de conflictos donde las partes expresan sus puntos de vista, escuchan al otro y buscan un acuerdo mutuo. La violencia, en cambio, impone una solucion por la fuerza, genera mas daño y no ataca las causas del conflicto. La Constitucion colombiana y los derechos humanos establecen que las personas deben resolver sus diferencias por medios pacificos.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Reflexión ética y política",
+      "expected_success": 0.88,
+      "bundle_id": "CO-SOC-6-2026-W13-seguridad-ciudadana-y-prevencion-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-6-2026-W13-seguridad-ciudadana-y-prevencion-001-MASTERY-bundle-v3",
+      "statement": "¿Como contribuye el programa de \"Jornadas de Paz\" a la prevencion de la violencia entre jovenes?",
+      "context": "En Bogotá, la alcaldia local del barrio Chapinero implementa un programa de \"Jornadas de Paz\" donde los jóvenes pueden hacer deporte y actividades culturales en horarios nocturnos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Castiga a los jovenes que participan en actividades delictivas",
+          "is_correct": false,
+          "feedback": "Incorrecto. El programa no es punitivo; es una estrategia preventiva que ofrece oportunidades, no castigos."
+        },
+        {
+          "letter": "B",
+          "text": "Reemplaza la necesidad de que la policia patrullere el barrio",
+          "is_correct": false,
+          "feedback": "Incorrecto. El programa complementa la labor de las autoridades, no la reemplaza; la seguridad ciudadana requiere multiples estrategias coordinadas."
+        },
+        {
+          "letter": "C",
+          "text": "Obliga a los jovenes a quedarse en sus casas despues de las 6 de la tarde",
+          "is_correct": false,
+          "feedback": "Incorrecto. El programa es voluntario y ofrece actividades en espacios publicos seguros, no un toque de queda obligatorio."
+        },
+        {
+          "letter": "D",
+          "text": "Ofrece alternativas de uso del tiempo libre que reducen la exposicion a situaciones de riesgo",
+          "is_correct": true,
+          "feedback": "Correcto. Las actividades deportivas y culturales en horarios nocturnos ocupan a los jovenes en entornos seguros, reduciendo las oportunidades de involucrarse en hechos violentos."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Las estrategias de prevencion de la violencia juvenil se basan en ofrecer oportunidades positivas de uso del tiempo libre. Cuando los jovenes tienen acceso a deporte, cultura y espacios seguros, se reducen los factores de riesgo como el ocio en calles con presencia de delincuencia o el consumo de sustancias. Este enfoque es preventivo porque actua sobre las causas, no solo sobre los sintomas.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Ciudadano",
+      "expected_success": 0.85,
+      "bundle_id": "CO-SOC-6-2026-W13-seguridad-ciudadana-y-prevencion-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-6-2026-W13-seguridad-ciudadana-y-prevencion-001-MASTERY-bundle-v4",
+      "statement": "¿Cual es la accion mas responsable que pueden tomar los estudiantes ante esta situacion?",
+      "context": "En Barranquilla, un grupo de estudiantes de grado 6 nota que en la entrada del colegio hay un grupo de personas mayores que ofrecen dulces a los niños para que vayan con ellos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Informar inmediatamente a un adulto de confianza, como un profesor o un familiar, sobre lo que observaron",
+          "is_correct": true,
+          "feedback": "Correcto. Informar a un adulto de confianza es la accion responsable porque permite que las autoridades investiguen y protejan a los niños sin exponerse a riesgos."
+        },
+        {
+          "letter": "B",
+          "text": "Acercarse a las personas mayores para pedirles mas informacion sobre los dulces",
+          "is_correct": false,
+          "feedback": "Incorrecto. Acercarse a personas desconocidas que ofrecen dulces es peligroso; los niños no deben interactuar con adultos que les ofrecen cosas sin permiso de sus padres."
+        },
+        {
+          "letter": "C",
+          "text": "Ignorar la situacion porque no les afecta directamente a ellos",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ignorar una situacion de posible riesgo para otros niños es una omision que puede permitir que ocurra un daño; la solidaridad exige alertar."
+        },
+        {
+          "letter": "D",
+          "text": "Contarlo solo a sus amigos del colegio para que ellos también se cuiden",
+          "is_correct": false,
+          "feedback": "Incorrecto. Contarlo solo a amigos no garantiza que las autoridades actuen; es necesario informar a un adulto que pueda tomar medidas de proteccion."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Ante situaciones de posible riesgo para la seguridad de los niños, la responsabilidad ciudadana exige informar a adultos de confianza que puedan evaluar la situacion y tomar medidas. Los niños y jovenes no deben intentar resolver solos situaciones que pueden ser peligrosas; la proteccion de la infancia es una responsabilidad compartida entre la familia, la escuela y las autoridades.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Reflexión ética y política",
+      "expected_success": 0.82,
+      "bundle_id": "CO-SOC-6-2026-W13-seguridad-ciudadana-y-prevencion-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-6-2026-W13-seguridad-ciudadana-y-prevencion-001-MASTERY-bundle-v5",
+      "statement": "¿Que principio de la seguridad ciudadana se refleja en el \"Banco de Tiempo\" del barrio Cuba?",
+      "context": "En Pereira, la junta de accion comunal del barrio Cuba decide crear un \"Banco de Tiempo\" donde los vecinos se ayudan mutuamente con tareas como acompañar a los niños al colegio o cuidar a los ancianos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La corresponsabilidad, porque todos los vecinos comparten la tarea de cuidar la seguridad del barrio",
+          "is_correct": true,
+          "feedback": "Correcto. La corresponsabilidad significa que la seguridad no es solo tarea de la policia, sino un compromiso de toda la comunidad organizada."
+        },
+        {
+          "letter": "B",
+          "text": "La vigilancia privada, porque los vecinos reemplazan a la policia en el control del barrio",
+          "is_correct": false,
+          "feedback": "Incorrecto. El Banco de Tiempo no reemplaza a las autoridades; es una iniciativa comunitaria que complementa la seguridad publica, no la sustituye."
+        },
+        {
+          "letter": "C",
+          "text": "La exclusion social, porque solo algunos vecinos pueden participar en el programa",
+          "is_correct": false,
+          "feedback": "Incorrecto. El Banco de Tiempo es inclusivo y busca la participacion de todos los vecinos, no la exclusion de algunos."
+        },
+        {
+          "letter": "D",
+          "text": "La delegacion total, porque los vecinos transfieren su responsabilidad al Estado",
+          "is_correct": false,
+          "feedback": "Incorrecto. El programa no delega la responsabilidad al Estado; al contrario, asume un papel activo en la seguridad del barrio."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La seguridad ciudadana es corresponsabilidad de todos: el Estado, las autoridades y la comunidad. Cuando los vecinos se organizan para cuidarse mutuamente, se fortalece el tejido social y se reducen las oportunidades para la delincuencia. Este principio esta reconocido en la Constitucion colombiana, que establece que la paz es un derecho y un deber de todos.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Ciudadano",
+      "expected_success": 0.8,
+      "bundle_id": "CO-SOC-6-2026-W13-seguridad-ciudadana-y-prevencion-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-6-2026-W13-seguridad-ciudadana-y-prevencion-001-MASTERY-bundle-v6",
+      "statement": "¿Cual es la relacion entre el abandono de espacios publicos y la inseguridad en un barrio?",
+      "context": "En Bucaramanga, un estudio revela que los barrios con mayor presencia de espacios publicos abandonados tienen mas indices de delincuencia. La alcaldia decide intervenir estos espacios.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Los espacios abandonados atraen a mas familias, lo que aumenta la delincuencia",
+          "is_correct": false,
+          "feedback": "Incorrecto. La presencia de familias y vida comunitaria reduce la delincuencia; es la ausencia de personas la que facilita las actividades ilicitas."
+        },
+        {
+          "letter": "B",
+          "text": "Los espacios abandonados no tienen ninguna relacion con la seguridad del barrio",
+          "is_correct": false,
+          "feedback": "Incorrecto. Existe una relacion directa: el deterioro urbano senala falta de control y cuidado, lo que atrae actividades ilicitas."
+        },
+        {
+          "letter": "C",
+          "text": "Los espacios abandonados solo afectan la estética del barrio, no la seguridad",
+          "is_correct": false,
+          "feedback": "Incorrecto. El deterioro urbano no es solo un problema estetico; senala ausencia de control social y facilita la delincuencia."
+        },
+        {
+          "letter": "D",
+          "text": "Los espacios abandonados ofrecen oportunidades para actividades ilicitas porque no hay presencia de la comunidad ni de las autoridades",
+          "is_correct": true,
+          "feedback": "Correcto. Los espacios abandonados se convierten en zonas de nadie donde la delincuencia puede actuar sin ser vista; la presencia comunitaria y el mantenimiento disuaden el delito."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "La teoria de las ventanas rotas sugiere que el deterioro visible en un espacio publico (grafitis, basura, edificios abandonados) senala que nadie cuida ese lugar, lo que atrae mas desorden y delincuencia. Cuando la comunidad y las autoridades mantienen los espacios publicos en buen estado, se envia un mensaje de control y cuidado que disuade a los delincuentes.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Reflexión ética y política",
+      "expected_success": 0.78,
+      "bundle_id": "CO-SOC-6-2026-W13-seguridad-ciudadana-y-prevencion-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-6-2026-W13-seguridad-ciudadana-y-prevencion-001-MASTERY-bundle-v7",
+      "statement": "¿Por que la mediacion entre pares es una estrategia efectiva para prevenir la violencia escolar?",
+      "context": "En Manizales, un colegio implementa un programa de \"Mediacion Escolar\" donde estudiantes capacitados ayudan a resolver conflictos entre compañeros antes de que escalen a violencia.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Los estudiantes mediadores tienen autoridad para castigar a los agresores",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los mediadores no tienen poder punitivo; su rol es facilitar el dialogo, no imponer sanciones."
+        },
+        {
+          "letter": "B",
+          "text": "La mediacion entre pares reemplaza la necesidad de profesores y directivos en el colegio",
+          "is_correct": false,
+          "feedback": "Incorrecto. La mediacion complementa la labor de los adultos, no la reemplaza; los profesores y directivos siguen siendo responsables de la disciplina escolar."
+        },
+        {
+          "letter": "C",
+          "text": "Los estudiantes mediadores entienden el lenguaje y la cultura de sus compañeros, lo que facilita la comunicacion y la resolucion del conflicto",
+          "is_correct": true,
+          "feedback": "Correcto. La mediacion entre pares funciona porque los estudiantes comparten códigos y experiencias, lo que genera confianza y permite abordar el conflicto antes que escale."
+        },
+        {
+          "letter": "D",
+          "text": "Los estudiantes mediadores pueden resolver cualquier conflicto sin ayuda de adultos",
+          "is_correct": false,
+          "feedback": "Incorrecto. Algunos conflictos requieren la intervencion de adultos o autoridades; los mediadores saben cuando es necesario pedir ayuda."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La mediacion entre pares es una estrategia de resolucion de conflictos donde estudiantes capacitados ayudan a sus compañeros a dialogar y encontrar soluciones. Es efectiva porque reduce la asimetria de poder (frente a un adulto), utiliza el lenguaje juvenil y promueve la autonomia de los estudiantes en la gestion de sus conflictos. Sin embargo, no sustituye la autoridad adulta en casos graves.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Ciudadano",
+      "expected_success": 0.75,
+      "bundle_id": "CO-SOC-6-2026-W13-seguridad-ciudadana-y-prevencion-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-6-2026-W13-seguridad-ciudadana-y-prevencion-001-MASTERY-bundle-v8",
+      "statement": "¿Que valor democratico se expresa en el sistema de justicia propia de las comunidades indigenas?",
+      "context": "En Pasto, una comunidad indigena del pueblo Pasto mantiene su sistema de \"Justicia Propia\" donde los conflictos se resuelven en asamblea comunitaria con el apoyo de los mayores.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La exclusion del Estado en todos los asuntos de la comunidad",
+          "is_correct": false,
+          "feedback": "Incorrecto. La justicia propia no excluye al Estado; opera dentro del marco juridico colombiano y respeta los derechos fundamentales reconocidos en la Constitucion."
+        },
+        {
+          "letter": "B",
+          "text": "La participacion directa de la comunidad en la resolucion de sus conflictos, respetando sus tradiciones y autoridades",
+          "is_correct": true,
+          "feedback": "Correcto. La justicia propia indigena reconoce el derecho de las comunidades a resolver sus conflictos segun sus propias normas y procedimientos, siempre que no violen los derechos humanos."
+        },
+        {
+          "letter": "C",
+          "text": "La imposicion de un unico sistema de justicia para todas las comunidades",
+          "is_correct": false,
+          "feedback": "Incorrecto. La Constitucion colombiana reconoce la diversidad cultural y el derecho de las comunidades indigenas a sus propios sistemas de justicia."
+        },
+        {
+          "letter": "D",
+          "text": "La negacion de los derechos humanos en nombre de la tradicion",
+          "is_correct": false,
+          "feedback": "Incorrecto. La justicia propia debe respetar los derechos humanos; ninguna tradicion puede justificar la violacion de la dignidad de las personas."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La Constitucion colombiana de 1991 reconoce la diversidad etnica y cultural del país, y con ella el derecho de las comunidades indigenas a administrar justicia segun sus propias normas y procedimientos, siempre que no contradigan la Constitucion y los derechos humanos. Este reconocimiento es un avance democratico que valora la pluralidad y la autonomia de los pueblos.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Reflexión ética y política",
+      "expected_success": 0.72,
+      "bundle_id": "CO-SOC-6-2026-W13-seguridad-ciudadana-y-prevencion-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-6-2026-W13-seguridad-ciudadana-y-prevencion-001-MASTERY-bundle-v9",
+      "statement": "¿Cual es el dilema etico que plantea la instalacion de camaras de seguridad en espacios publicos?",
+      "context": "En Valledupar, la alcaldia propone instalar camaras de seguridad en todos los espacios publicos del centro de la ciudad para reducir la delincuencia. Algunos ciudadanos se preocupan por la privacidad.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La eleccion entre tener camaras o no tener ningun tipo de seguridad en la ciudad",
+          "is_correct": false,
+          "feedback": "Incorrecto. El dilema no es camaras versus nada; existen otras estrategias de seguridad como mas policia, iluminacion o programas comunitarios."
+        },
+        {
+          "letter": "B",
+          "text": "El equilibrio entre el derecho a la seguridad y el derecho a la privacidad de las personas",
+          "is_correct": true,
+          "feedback": "Correcto. Las camaras pueden reducir la delincuencia, pero también vigilan a los ciudadanos; el dilema esta en encontrar un equilibrio entre seguridad y privacidad."
+        },
+        {
+          "letter": "C",
+          "text": "La decision de si los delincuentes merecen derechos o no",
+          "is_correct": false,
+          "feedback": "Incorrecto. Todas las personas, incluso los delincuentes, tienen derechos; el dilema no es sobre los derechos de los delincuentes sino sobre la privacidad de todos."
+        },
+        {
+          "letter": "D",
+          "text": "La eleccion entre la seguridad de los ricos y la seguridad de los pobres",
+          "is_correct": false,
+          "feedback": "Incorrecto. El dilema etico no es economico; es un conflicto entre dos derechos fundamentales: seguridad y privacidad, que afectan a todos los ciudadanos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La instalacion de camaras de seguridad en espacios publicos plantea un dilema etico entre dos derechos fundamentales: el derecho a la seguridad (que protege a las personas de la delincuencia) y el derecho a la privacidad (que protege a las personas de la vigilancia excesiva). Una sociedad democratica debe encontrar un equilibrio donde las medidas de seguridad sean proporcionales, transparentes y respetuosas de los derechos humanos.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Ciudadano",
+      "expected_success": 0.7,
+      "bundle_id": "CO-SOC-6-2026-W13-seguridad-ciudadana-y-prevencion-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-6-2026-W13-seguridad-ciudadana-y-prevencion-001-MASTERY-bundle-v10",
+      "statement": "¿Por que es importante que los estudiantes participen en la creacion de las normas de convivencia del colegio?",
+      "context": "En Cartagena, un grupo de estudiantes de grado 6 propone que el colegio tenga un \"Codigo de Convivencia\" creado por los propios estudiantes, con normas y sanciones acordadas democraticamente.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque los estudiantes conocen mejor que los profesores cuales son las faltas mas comunes",
+          "is_correct": false,
+          "feedback": "Incorrecto. Aunque los estudiantes conocen las faltas, la razon principal de su participacion es formativa: aprender a construir acuerdos democraticos."
+        },
+        {
+          "letter": "B",
+          "text": "Porque asi los profesores pueden delegar su responsabilidad de mantener la disciplina",
+          "is_correct": false,
+          "feedback": "Incorrecto. La participacion estudiantil no delega la responsabilidad de los adultos; la disciplina sigue siendo una responsabilidad compartida."
+        },
+        {
+          "letter": "C",
+          "text": "Porque la participacion democratica en la creacion de normas fomenta el sentido de pertenencia y el compromiso con su cumplimiento",
+          "is_correct": true,
+          "feedback": "Correcto. Cuando los estudiantes participan en la creacion de las normas, las sienten propias y se comprometen a cumplirlas; la democracia se aprende practicandola."
+        },
+        {
+          "letter": "D",
+          "text": "Porque las normas creadas por estudiantes son siempre mas justas que las creadas por adultos",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las normas creadas por estudiantes no son automaticamente mas justas; la justicia de una norma depende de su contenido, no de quien la propone."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La participacion de los estudiantes en la creacion de normas de convivencia es un ejercicio de ciudadania democratica. Cuando las personas participan en las decisiones que las afectan, desarrollan sentido de pertenencia, responsabilidad y compromiso con la comunidad. Este principio esta en el corazon de la democracia participativa que consagra la Constitucion colombiana, donde la soberania reside en el pueblo.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Reflexión ética y política",
+      "expected_success": 0.68,
+      "bundle_id": "CO-SOC-6-2026-W13-seguridad-ciudadana-y-prevencion-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 6,
+      "country": "co"
+    }
+  ]
+}

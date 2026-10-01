@@ -1,0 +1,471 @@
+{
+  "metadata": {
+    "grade": 6,
+    "subject": "sociales-ciudadanas",
+    "country": "co",
+    "pack_id": "co-week-17-grade-6-subject-sociales_ciudadanas",
+    "generated_at": "2026-10-01T19:00:21.509Z"
+  },
+  "questions": [
+    {
+      "id": "CO-SOC-6-2026-W17-ambiente-y-desarrollo-sostenible-001-MASTERY-bundle-v1",
+      "statement": "¿Cual de los siguientes es un recurso natural renovable?",
+      "context": "En un colegio de Bogotá, la profesora de ciencias explica que Colombia es uno de los paises con mayor biodiversidad del mundo, con miles de especies de plantas y animales.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El petroleo, que tarda millones de años en formarse",
+          "is_correct": false,
+          "feedback": "Incorrecto. El petroleo es un recurso no renovable porque su formacion tarda millones de años y no se renueva a escala humana."
+        },
+        {
+          "letter": "B",
+          "text": "El agua, que se renueva naturalmente a traves del ciclo hidrologico",
+          "is_correct": true,
+          "feedback": "Correcto. El agua es un recurso renovable porque se renueva naturalmente a traves de la evaporacion, la condensacion y la lluvia."
+        },
+        {
+          "letter": "C",
+          "text": "El carbon, que es un combustible fosil",
+          "is_correct": false,
+          "feedback": "Incorrecto. El carbon es un recurso no renovable porque es un combustible fosil que no se renueva a escala humana."
+        },
+        {
+          "letter": "D",
+          "text": "El oro, que es un mineral que se extrae de la tierra",
+          "is_correct": false,
+          "feedback": "Incorrecto. El oro es un recurso no renovable porque es un mineral finito que no se renueva naturalmente."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Los recursos naturales se clasifican en renovables y no renovables. Los recursos renovables son aquellos que se regeneran naturalmente en un periodo corto de tiempo, como el agua, el aire, la luz solar y la biomasa. Los recursos no renovables son aquellos que existen en cantidades limitadas y no se regeneran a escala humana, como el petroleo, el carbon, el gas natural y los minerales. La gestion sostenible de los recursos es esencial para garantizar que las generaciones futuras también puedan disfrutarlos.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Economía y recursos naturales",
+      "expected_success": 0.9,
+      "bundle_id": "CO-SOC-6-2026-W17-ambiente-y-desarrollo-sostenible-001-MASTERY-bundle",
+      "periodo": 17,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-6-2026-W17-ambiente-y-desarrollo-sostenible-001-MASTERY-bundle-v2",
+      "statement": "¿Cual de las siguientes funciones cumplen los bosques en el ecosistema?",
+      "context": "En Medellín, un grupo de estudiantes de grado 6 visita el Parque Arvi y aprende sobre la importancia de los bosques para la regulacion del clima y la conservacion del agua.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Los bosques solo sirven para producir madera",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los bosques tienen muchas funciones ecologicas mas alla de la produccion de madera; son esenciales para el equilibrio del planeta."
+        },
+        {
+          "letter": "B",
+          "text": "Los bosques son solo un paisaje bonito para los turistas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Aunque los bosques son atractivos turisticos, su valor principal es ecologico: regulan el clima, protegen el agua y albergan la biodiversidad."
+        },
+        {
+          "letter": "C",
+          "text": "Los bosques no tienen ninguna funcion importante para los seres humanos",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los bosques son vitales para la vida humana: producen el oxigeno que respiramos, regulan el clima y protegen las fuentes de agua."
+        },
+        {
+          "letter": "D",
+          "text": "Los bosques producen oxigeno, regulan el clima, protegen los suelos y son el habitat de muchas especies",
+          "is_correct": true,
+          "feedback": "Correcto. Los bosques son esenciales para la vida en la Tierra: producen oxigeno, absorben dioxido de carbono, regulan el clima y albergan la mayor parte de la biodiversidad terrestre."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Los bosques son los ecosistemas mas importantes del planeta. Producen oxigeno a traves de la fotosintesis, absorben dioxido de carbono (un gas de efecto invernadero), regulan el clima, protegen los suelos de la erosion, recargan los acuiferos y son el habitat de millones de especies. La deforestacion es una de las principales amenazas ambientales porque destruye estos servicios ecologicos esenciales. Colombia, con sus bosques tropicales, tiene una responsabilidad especial en la conservacion de estos ecosistemas.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Economía y recursos naturales",
+      "expected_success": 0.88,
+      "bundle_id": "CO-SOC-6-2026-W17-ambiente-y-desarrollo-sostenible-001-MASTERY-bundle",
+      "periodo": 17,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-6-2026-W17-ambiente-y-desarrollo-sostenible-001-MASTERY-bundle-v3",
+      "statement": "¿Cual de las siguientes ventajas tiene la energia solar frente a los combustibles fosiles?",
+      "context": "En Cali, un grupo de estudiantes de grado 6 propone que el colegio instale paneles solares para generar energia limpia y reducir el consumo de energia electrica.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La energia solar es mas barata que los combustibles fosiles en todos los casos",
+          "is_correct": false,
+          "feedback": "Incorrecto. Aunque la energia solar se ha vuelto mas economica, no siempre es mas barata que los combustibles fosiles; el costo depende de la ubicacion y la infraestructura."
+        },
+        {
+          "letter": "B",
+          "text": "La energia solar funciona igual de noche que de dia",
+          "is_correct": false,
+          "feedback": "Incorrecto. La energia solar depende de la luz del sol; de noche no genera electricidad, a menos que se almacene en baterias."
+        },
+        {
+          "letter": "C",
+          "text": "La energia solar es limpia, renovable y no produce gases de efecto invernadero",
+          "is_correct": true,
+          "feedback": "Correcto. La energia solar es una fuente limpia y renovable que no emite gases contaminantes, a diferencia de los combustibles fosiles que contribuyen al cambio climatico."
+        },
+        {
+          "letter": "D",
+          "text": "La energia solar no requiere ningun tipo de mantenimiento",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los paneles solares requieren mantenimiento regular para funcionar eficientemente; aunque es poco, no es cero."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La energia solar es una fuente de energia renovable que aprovecha la luz del sol para generar electricidad o calor. Sus principales ventajas son: es limpia (no produce contaminacion), es renovable (el sol es una fuente inagotable a escala humana) y reduce la dependencia de los combustibles fosiles. Sin embargo, también tiene limitaciones: depende de las condiciones climaticas, requiere una inversion inicial y necesita espacio para instalar los paneles. A pesar de estas limitaciones, la energia solar es una de las alternativas mas prometedoras para combatir el cambio climatico.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Economía y recursos naturales",
+      "expected_success": 0.85,
+      "bundle_id": "CO-SOC-6-2026-W17-ambiente-y-desarrollo-sostenible-001-MASTERY-bundle",
+      "periodo": 17,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-6-2026-W17-ambiente-y-desarrollo-sostenible-001-MASTERY-bundle-v4",
+      "statement": "¿Cual es el principal beneficio del reciclaje para el medio ambiente?",
+      "context": "En Barranquilla, una comunidad del barrio La Playa implementa un programa de reciclaje donde los residentes separan el plastico, el papel y el vidrio para que sean reutilizados.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El reciclaje reduce la cantidad de residuos que van a los vertederos y disminuye la extraccion de recursos naturales",
+          "is_correct": true,
+          "feedback": "Correcto. El reciclaje permite reutilizar materiales, reduciendo la cantidad de basura y la necesidad de extraer nuevos recursos naturales como arboles, petroleo y minerales."
+        },
+        {
+          "letter": "B",
+          "text": "El reciclaje elimina toda la basura del planeta",
+          "is_correct": false,
+          "feedback": "Incorrecto. El reciclaje reduce la basura, pero no la elimina; algunos materiales no son reciclables y otros se degradan con el tiempo."
+        },
+        {
+          "letter": "C",
+          "text": "El reciclaje es solo una forma de ahorrar dinero, no tiene beneficios ambientales",
+          "is_correct": false,
+          "feedback": "Incorrecto. Aunque el reciclaje puede generar ahorros economicos, su principal beneficio es ambiental: reduce la contaminacion y la extraccion de recursos."
+        },
+        {
+          "letter": "D",
+          "text": "El reciclaje solo sirve para el plastico, no para otros materiales",
+          "is_correct": false,
+          "feedback": "Incorrecto. El reciclaje aplica a muchos materiales: papel, vidrio, metal, plastico, electronicos y organicos (a traves del compostaje)."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El reciclaje es un proceso mediante el cual los materiales desechados se transforman en nuevos productos. Sus beneficios ambientales son multiples: reduce la cantidad de residuos que van a los vertederos (evitando la contaminacion del suelo y el agua), disminuye la extraccion de recursos naturales (como arboles, petroleo y minerales), ahorra energia (producir con materiales reciclados requiere menos energia que con materiales nuevos) y reduce la emision de gases de efecto invernadero. El reciclaje es una de las estrategias mas efectivas para reducir el impacto ambiental de los seres humanos.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Economía y recursos naturales",
+      "expected_success": 0.82,
+      "bundle_id": "CO-SOC-6-2026-W17-ambiente-y-desarrollo-sostenible-001-MASTERY-bundle",
+      "periodo": 17,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-6-2026-W17-ambiente-y-desarrollo-sostenible-001-MASTERY-bundle-v5",
+      "statement": "¿Cual de las siguientes acciones reduce la huella de carbono de una persona?",
+      "context": "En Pereira, un grupo de estudiantes de grado 6 investiga sobre la huella de carbono: la cantidad de gases de efecto invernadero que produce una persona, una empresa o un producto.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Comprar ropa nueva cada semana",
+          "is_correct": false,
+          "feedback": "Incorrecto. La industria textil es una de las mas contaminantes; comprar ropa con frecuencia aumenta la huella de carbono."
+        },
+        {
+          "letter": "B",
+          "text": "Usar la bicicleta o caminar en lugar de usar el carro para desplazarse",
+          "is_correct": true,
+          "feedback": "Correcto. El transporte es una de las principales fuentes de emisiones de carbono; usar la bicicleta o caminar reduce significativamente la huella de carbono."
+        },
+        {
+          "letter": "C",
+          "text": "Dejar los aparatos electronicos encendidos cuando no se usan",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los aparatos electronicos consumen energia incluso en modo espera; dejarlos encendidos aumenta el consumo electrico y la huella de carbono."
+        },
+        {
+          "letter": "D",
+          "text": "Tirar la basura sin separar para reciclaje",
+          "is_correct": false,
+          "feedback": "Incorrecto. No separar la basura impide el reciclaje y aumenta la cantidad de residuos en los vertederos, lo que genera mas emisiones de gases."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La huella de carbono es un indicador que mide la cantidad de gases de efecto invernadero (principalmente dioxido de carbono) que produce una persona, una empresa o un producto. Para reducir la huella de carbono, es necesario adoptar habitos sostenibles: usar transporte publico, bicicleta o caminar; reducir el consumo de energia electrica; consumir productos locales y de temporada; reducir el consumo de carne; reciclar y reutilizar; y plantar arboles. Cada accion cuenta en la lucha contra el cambio climatico.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Economía y recursos naturales",
+      "expected_success": 0.8,
+      "bundle_id": "CO-SOC-6-2026-W17-ambiente-y-desarrollo-sostenible-001-MASTERY-bundle",
+      "periodo": 17,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-6-2026-W17-ambiente-y-desarrollo-sostenible-001-MASTERY-bundle-v6",
+      "statement": "¿Cual es el problema etico de una empresa que ofrece productos baratos a costa de contaminar el medio ambiente y explotar a sus trabajadores?",
+      "context": "En Bucaramanga, un grupo de estudiantes de grado 6 analiza el caso de una empresa que ofrece productos a precios muy bajos, pero que para lograrlo contamina el rio y paga salarios muy bajos a sus trabajadores.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La empresa esta haciendo un bien al ofrecer productos baratos a la gente",
+          "is_correct": false,
+          "feedback": "Incorrecto. Aunque los productos baratos benefician a los consumidores a corto plazo, los costos ambientales y sociales a largo plazo son mucho mayores."
+        },
+        {
+          "letter": "B",
+          "text": "La empresa no tiene ninguna responsabilidad porque solo busca ganar dinero",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las empresas tienen responsabilidades sociales y ambientales; el lucro no justifica la contaminacion ni la explotacion laboral."
+        },
+        {
+          "letter": "C",
+          "text": "La empresa esta obligada a contaminar para poder competir en el mercado",
+          "is_correct": false,
+          "feedback": "Incorrecto. No existe ninguna obligacion de contaminar; las empresas pueden ser rentables y responsables con el medio ambiente y los trabajadores."
+        },
+        {
+          "letter": "D",
+          "text": "La empresa traslada los costos sociales y ambientales a la sociedad, mientras ella obtiene ganancias",
+          "is_correct": true,
+          "feedback": "Correcto. Cuando una empresa contamina o explota a sus trabajadores, los costos (enfermedades, degradacion ambiental, pobreza) los paga la sociedad, no la empresa; esto es injusto e insostenible."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "El concepto de \"costos externalizados\" se refiere a cuando una empresa traslada los costos de su produccion a la sociedad en lugar de asumirlos. Por ejemplo, cuando una empresa contamina un rio, el costo de la contaminacion (enfermedades, perdida de biodiversidad, agua no potable) lo pagan las comunidades y el Estado, no la empresa. Esto es injusto porque la empresa obtiene ganancias privadas mientras los costos son publicos. El desarrollo sostenible exige que las empresas internalicen estos costos y operen de forma responsable.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Economía y recursos naturales",
+      "expected_success": 0.78,
+      "bundle_id": "CO-SOC-6-2026-W17-ambiente-y-desarrollo-sostenible-001-MASTERY-bundle",
+      "periodo": 17,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-6-2026-W17-ambiente-y-desarrollo-sostenible-001-MASTERY-bundle-v7",
+      "statement": "¿Cual de las siguientes opciones describe mejor el desarrollo sostenible?",
+      "context": "En Manizales, un grupo de estudiantes de grado 6 investiga sobre el concepto de \"desarrollo sostenible\", que se define como el desarrollo que satisface las necesidades del presente sin comprometer la capacidad de las generaciones futuras.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El desarrollo que equilibra el crecimiento economico, la proteccion del medio ambiente y el bienestar social",
+          "is_correct": true,
+          "feedback": "Correcto. El desarrollo sostenible busca un equilibrio entre tres dimensiones: economica (crecimiento), ambiental (proteccion) y social (bienestar)."
+        },
+        {
+          "letter": "B",
+          "text": "El desarrollo que prioriza el crecimiento economico por encima de todo",
+          "is_correct": false,
+          "feedback": "Incorrecto. El desarrollo sostenible no prioriza la economia sobre el ambiente y la sociedad; busca un equilibrio entre las tres dimensiones."
+        },
+        {
+          "letter": "C",
+          "text": "El desarrollo que prohibe toda actividad economica para proteger el medio ambiente",
+          "is_correct": false,
+          "feedback": "Incorrecto. El desarrollo sostenible no prohibe la actividad economica; busca que sea responsable y compatible con la proteccion ambiental."
+        },
+        {
+          "letter": "D",
+          "text": "El desarrollo que solo se preocupa por las generaciones futuras, no por las actuales",
+          "is_correct": false,
+          "feedback": "Incorrecto. El desarrollo sostenible satisface las necesidades del presente sin comprometer el futuro; no sacrifica a las generaciones actuales."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El desarrollo sostenible es un concepto que surgio en 1987 con el informe \"Nuestro Futuro Común\" de las Naciones Unidas. Se define como el desarrollo que satisface las necesidades del presente sin comprometer la capacidad de las generaciones futuras para satisfacer sus propias necesidades. Tiene tres dimensiones: economica (crecimiento inclusivo), ambiental (proteccion de los recursos) y social (equidad y bienestar). El desarrollo sostenible no es un lujo, sino una necesidad: si no protegemos el medio ambiente y no reducimos la desigualdad, el crecimiento economico no sera sostenible a largo plazo.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Economía y recursos naturales",
+      "expected_success": 0.75,
+      "bundle_id": "CO-SOC-6-2026-W17-ambiente-y-desarrollo-sostenible-001-MASTERY-bundle",
+      "periodo": 17,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-6-2026-W17-ambiente-y-desarrollo-sostenible-001-MASTERY-bundle-v8",
+      "statement": "¿Cual es el conflicto de valores que se presenta entre la mineria y las comunidades indigenas?",
+      "context": "En Pasto, un grupo de estudiantes de grado 6 analiza el caso de una comunidad indigena que protege su territorio de la mineria porque consideran que la tierra es sagrada y que la mineria destruiria su forma de vida.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El valor de la educacion versus el valor de la salud",
+          "is_correct": false,
+          "feedback": "Incorrecto. El conflicto no es entre educacion y salud; es entre el valor economico de la mineria y el valor cultural del territorio indigena."
+        },
+        {
+          "letter": "B",
+          "text": "El valor de la tecnologia versus el valor de la tradicion",
+          "is_correct": false,
+          "feedback": "Incorrecto. Aunque la mineria usa tecnologia, el conflicto principal es entre el valor economico y el valor cultural del territorio, no entre tecnologia y tradicion."
+        },
+        {
+          "letter": "C",
+          "text": "El valor economico de la mineria versus el valor cultural y espiritual del territorio para las comunidades indigenas",
+          "is_correct": true,
+          "feedback": "Correcto. La mineria ofrece beneficios economicos, pero para las comunidades indigenas el territorio tiene un valor cultural, espiritual y de supervivencia que va mas alla de lo economico."
+        },
+        {
+          "letter": "D",
+          "text": "El valor de la ciudad versus el valor del campo",
+          "is_correct": false,
+          "feedback": "Incorrecto. El conflicto no es entre ciudad y campo; es entre el modelo economico extractivista y la cosmovision indigena del territorio."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El conflicto entre la mineria y las comunidades indigenas es un ejemplo de como diferentes valores pueden entrar en tension. Para la economia de mercado, el territorio tiene un valor economico (recursos minerales, madera, agua). Para las comunidades indigenas, el territorio tiene un valor cultural, espiritual y de supervivencia: es el espacio donde viven, donde estan sus ancestros, donde practican su cultura y donde obtienen su alimento. La Constitucion colombiana reconoce el derecho de las comunidades indigenas a ser consultadas antes de proyectos que afecten sus territorios (consulta previa), pero en la practica este derecho no siempre se respeta.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Economía y recursos naturales",
+      "expected_success": 0.72,
+      "bundle_id": "CO-SOC-6-2026-W17-ambiente-y-desarrollo-sostenible-001-MASTERY-bundle",
+      "periodo": 17,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-6-2026-W17-ambiente-y-desarrollo-sostenible-001-MASTERY-bundle-v9",
+      "statement": "¿Cual es la posicion mas coherente con el desarrollo sostenible?",
+      "context": "En Valledupar, un grupo de estudiantes de grado 6 debate sobre si el gobierno debe subsidiar los combustibles fosiles para mantener los precios bajos o eliminar los subsidios para promover energias limpias.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Mantener los subsidios a los combustibles fosiles porque son necesarios para los pobres",
+          "is_correct": false,
+          "feedback": "Incorrecto. Aunque los subsidios benefician a los pobres a corto plazo, a largo plazo la contaminacion y el cambio climatico afectan mas a los mas vulnerables."
+        },
+        {
+          "letter": "B",
+          "text": "Eliminar gradualmente los subsidios a los combustibles fosiles y redirigir esos recursos hacia energias limpias y transporte publico",
+          "is_correct": true,
+          "feedback": "Correcto. Subsidiar combustibles fosiles fomenta el consumo excesivo y la contaminacion; redirigir esos recursos hacia energias limpias promueve la sostenibilidad."
+        },
+        {
+          "letter": "C",
+          "text": "Eliminar todos los subsidios de golpe, sin importar el impacto en la poblacion",
+          "is_correct": false,
+          "feedback": "Incorrecto. Eliminar los subsidios sin un plan de transicion afectaria a las personas mas vulnerables; la transicion debe ser gradual y justa."
+        },
+        {
+          "letter": "D",
+          "text": "Aumentar los subsidios a los combustibles fosiles para que la gente gaste menos en transporte",
+          "is_correct": false,
+          "feedback": "Incorrecto. Aumentar los subsidios a los combustibles fosiles es insostenible; fomenta la contaminacion y retrasa la transicion hacia energias limpias."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Los subsidios a los combustibles fosiles son un tema complejo. Por un lado, mantienen los precios bajos, lo que beneficia a las personas de menores recursos. Por otro lado, fomentan el consumo excesivo de combustibles contaminantes, retrasan la transicion hacia energias limpias y representan un costo fiscal enorme. La posicion mas coherente con el desarrollo sostenible es eliminar gradualmente los subsidios y redirigir esos recursos hacia energias limpias, transporte publico eficiente y programas de proteccion para las personas mas vulnerables. La transicion debe ser justa y planificada.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Economía y recursos naturales",
+      "expected_success": 0.7,
+      "bundle_id": "CO-SOC-6-2026-W17-ambiente-y-desarrollo-sostenible-001-MASTERY-bundle",
+      "periodo": 17,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-6-2026-W17-ambiente-y-desarrollo-sostenible-001-MASTERY-bundle-v10",
+      "statement": "¿Por que es importante que el colegio tenga un \"Presupuesto Ambiental\"?",
+      "context": "En Cartagena, un grupo de estudiantes de grado 6 propone que el colegio tenga un \"Presupuesto Ambiental\" donde se destine una parte de los recursos a proyectos de conservacion, como la siembra de arboles y la instalacion de paneles solares.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque permite que el colegio gane dinero con los proyectos ambientales",
+          "is_correct": false,
+          "feedback": "Incorrecto. El objetivo del presupuesto ambiental no es ganar dinero; es invertir en la sostenibilidad y la educacion ambiental."
+        },
+        {
+          "letter": "B",
+          "text": "Porque ayuda a los estudiantes a evitar las clases de matematicas y ciencias",
+          "is_correct": false,
+          "feedback": "Incorrecto. El presupuesto ambiental no reemplaza las clases; las complementa con practicas concretas de sostenibilidad."
+        },
+        {
+          "letter": "C",
+          "text": "Porque permite que el colegio compita con otras instituciones por premios ambientales",
+          "is_correct": false,
+          "feedback": "Incorrecto. El objetivo no es competir por premios; es comprometerse con la sostenibilidad y formar estudiantes conscientes del cuidado del ambiente."
+        },
+        {
+          "letter": "D",
+          "text": "Porque demuestra un compromiso institucional con la sostenibilidad y educa a los estudiantes en la gestion responsable de los recursos",
+          "is_correct": true,
+          "feedback": "Correcto. Un presupuesto ambiental compromete al colegio con la sostenibilidad y enseña a los estudiantes que el cuidado del ambiente requiere inversion y planificacion."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Un \"Presupuesto Ambiental\" en el colegio es una herramienta de educacion y gestion sostenible. Al destinar recursos a proyectos ambientales (siembra de arboles, paneles solares, reciclaje, huertas escolares), el colegio demuestra que la sostenibilidad no es solo un discurso, sino un compromiso que requiere inversion y planificacion. Ademas, estos proyectos son oportunidades de aprendizaje: los estudiantes pueden participar en la gestion, medir los resultados y desarrollar habilidades de liderazgo ambiental. La educacion ambiental es esencial para formar ciudadanos comprometidos con el futuro del planeta.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Economía y recursos naturales",
+      "expected_success": 0.68,
+      "bundle_id": "CO-SOC-6-2026-W17-ambiente-y-desarrollo-sostenible-001-MASTERY-bundle",
+      "periodo": 17,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 6,
+      "country": "co"
+    }
+  ]
+}
