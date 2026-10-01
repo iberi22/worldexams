@@ -312,16 +312,29 @@ export function rel(file) {
   return path.relative(ROOT, file).replace(/\\/g, '/');
 }
 
+function normalizeForHash(text) {
+  return String(text).toLowerCase().replace(/\s+/g, ' ').trim();
+}
+
 export function extractStem(qText) {
   const matchEnunciado = qText.match(/###\s+Enunciado\s*([\s\S]*?)(?=###\s+Opciones|###\s+Explicaci[oó]n|$)/i);
   const stemRaw = matchEnunciado ? matchEnunciado[1].trim() : '';
-  return stemRaw.toLowerCase().replace(/\s+/g, ' ');
+  return normalizeForHash(stemRaw);
+}
+
+// The contexto can carry the data the question asks about, so two questions
+// with the same stem and options may still be different questions. It is part
+// of the identity.
+export function extractContexto(qText) {
+  const m = qText.match(/\*\*Contexto:\*\*\s*([\s\S]*?)(?=\n\s*\n|\n\*\*|\n###|$)/i);
+  return normalizeForHash(m ? m[1] : '');
 }
 
 export function calculateQuestionHash(qText) {
-  const stem = extractStem(qText);
-  const options = optionRows(qText).map((o) => o.text);
-  const key = [stem, ...options].join('|');
+  const components = [extractContexto(qText), extractStem(qText), ...optionRows(qText).map((o) => o.text)];
+  // JSON.stringify keeps the component boundaries, so a literal pipe inside a
+  // stem or an option cannot be confused with the separator.
+  const key = JSON.stringify(components);
   return crypto.createHash('sha256').update(key).digest('hex').slice(0, 16);
 }
 
