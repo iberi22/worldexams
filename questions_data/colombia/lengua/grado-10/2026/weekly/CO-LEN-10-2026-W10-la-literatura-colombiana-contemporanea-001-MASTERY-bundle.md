@@ -118,23 +118,23 @@ El realismo mágico es un recurso literario que presenta eventos fantásticos, m
 **Bloom:** Apply
 **ICFES:** Critico-Intertextual
 **Expected_Success:** 0.80
-**Contexto:** En un análisis literario en Manizales, el profesor compara "Cien años de soledad" con la Biblia.
+**Contexto:** En un análisis literario en Manizales, una estudiante sostiene que Gabriel García Márquez escribe como si viviéramos en Macondo dos veces.
 
 ### Enunciado
-¿Qué tipo de relación intertextual se está estableciendo entre estas dos obras?
+Según la comparación de la estudiante, ¿qué rasgo de la obra permite esa afirmación?
 
 ### Opciones
-- [x] A)  Alusión
-  <!-- feedback: Correcto. La alusión es una referencia indirecta a otra obra; el profesor establece un paralelismo entre las dos obras, lo que es una alusión. -->
-- [ ] B)  Parodia
-  <!-- feedback: Incorrecto. La parodia imita una obra con intención crítica o humorística; aquí no hay imitación ni crítica, hay un paralelismo temático. -->
-- [ ] C)  Cita textual
-  <!-- feedback: Incorrecto. La cita textual reproduce las palabras exactas de otra obra; aquí no hay reproducción de palabras, hay un paralelismo temático. -->
-- [ ] D)  Plagio
-  <!-- feedback: Incorrecto. El plagio copia una obra ajena y la presenta como propia; aquí no hay copia, hay un análisis comparativo. -->
+- [x] A)  La repetición cíclica del espacio y del tiempo, que hace volver siempre a los mismos hechos
+  <!-- feedback: Correcto. La imagen de vivir dos veces la misma historia alude a la estructura cíclica de Macondo, donde los hechos se repiten y los personajes vuelven a las mismas calles. -->
+- [ ] B)  El cambio de protagonista en cada capítulo, que impide seguir a una misma familia
+  <!-- feedback: Incorrecto. García Márquez mantiene a los Buendía como familia central a lo largo de varias generaciones, no cambia el protagonista en cada capítulo. -->
+- [ ] C)  La narración en primera persona de un personaje con nombre propio
+  <!-- feedback: Incorrecto. El narrador no es un personaje con nombre que narre en primera persona, es una voz omnisciente que cuenta la saga de los Buendía. -->
+- [ ] D)  El uso exclusivo de diálogos, sin ninguna descripción de los lugares
+  <!-- feedback: Incorrecto. La novela describe con detalle Macondo, sus objetos y el calor del pueblo; los diálogos se alternan con esas descripciones. -->
 
 ### Explicacion Pedagogica
-La alusión es una referencia indirecta a otra obra, autor o situación. En el análisis literario, las alusiones permiten establecer paralelismos, contrastes y conexiones entre obras de diferentes épocas y culturas. En este caso, el profesor alude a la Biblia para enriquecer la comprensión de "Cien años de soledad" a través del paralelismo temático.
+La ciclicidad es el rasgo estructural más renovador de Cien años de soledad: el tiempo no avanza de forma lineal sino que se cierra sobre sí mismo, y los nombres se repiten generación tras generación. Esa estructura explica la imagen de la estudiante, porque los hechos se repiten aunque los personajes no tengan memoria de ellos.
 
 ## Question 6 [D5-D6]
 **ID:** CO-LEN-10-2026-W10-la-literatura-colombiana-contemporanea-001-MASTERY-bundle-v6
