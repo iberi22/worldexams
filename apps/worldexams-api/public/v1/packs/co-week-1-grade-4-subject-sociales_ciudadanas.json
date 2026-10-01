@@ -13,31 +13,31 @@
       "context": "En la casa de la familia Ramírez, en el barrio La Estrada de Bogotá, viven doña Marta, don Jorge y sus dos hijos, Camila y Juan.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "Doña Marta, don Jorge y sus dos hijos, Camila y Juan",
           "is_correct": true,
           "feedback": "Correcto. La familia está formada por las personas unidas por un lazo de sangre, un matrimonio o una adopción, y entre estos cuatro sí existe ese vínculo."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Solo don Jorge, porque es el único que trabaja fuera de la casa",
           "is_correct": false,
           "feedback": "Incorrecto. Confundiste trabajar afuera con ser parte de la familia: quien trabaja fuera sigue siendo miembro del hogar, y además los otros tres también lo son."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Los vecinos de la cuadra, porque comparten el mismo barrio",
           "is_correct": false,
           "feedback": "Incorrecto. Compartir el barrio es vecindad, no familia: los vecinos viven cerca, pero entre ellos no hay lazo de sangre, matrimonio ni adopción."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Los amigos del colegio de Juan, porque estudian en la misma aula",
           "is_correct": false,
           "feedback": "Incorrecto. Estudiar juntos crea amistad, no familia: la amistad se elige y se puede cambiar, mientras que el lazo de familia se hereda o se construye con un compromiso."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "La familia es el grupo de personas unidas por un lazo de sangre, un matrimonio o una adopción. Esas personas se ayudan entre sí, aunque no vivan bajo el mismo techo. Que una persona trabaje fuera de la casa no la saca de la familia, porque el trabajo está fuera y el hogar está adentro. Los vecinos y los amigos del colegio son otra cosa: son vecinos y amigos, y a ellos también se les respeta, pero no son familia.",
       "difficulty": "4",
       "images": [],
@@ -105,19 +105,19 @@
       "context": "El domingo en Bucaramanga, la familia Hernández quiere decidir qué hacer. La mamá propone ir al parque, el papá también, y la abuela prefiere quedarse en la casa descansando.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "Escuchar la idea de cada persona y buscar un acuerdo que tenga en cuenta a todas",
           "is_correct": true,
           "feedback": "Correcto. Un acuerdo se construye escuchando a todos: si la opinión de la abuela se tiene en cuenta, ella no queda afuera y la decisión se sostiene mejor."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Decidir solo lo que propone la mamá, porque ella organiza la casa",
           "is_correct": false,
           "feedback": "Incorrecto. Organizar el hogar no da permiso para decidir sola: un acuerdo pierde legitimidad cuando solo cuenta la opinión de una persona."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Votar y aceptar el resultado, aunque la abuela haya quedado molesta",
           "is_correct": false,
           "feedback": "Incorrecto. Votar no equivale a escuchar: contar manos sirve, pero si alguien queda molesto sin ser escuchado, el acuerdo no trae paz a la casa."
@@ -129,7 +129,7 @@
           "feedback": "Incorrecto. Esperar a que alguien se canse equivale a dejar su voz por fuera, y así el acuerdo se toma sin respetar a quien también vive ahí."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "En una familia los acuerdos se toman hablando y escuchando, no imponiendo. Cuando todas las personas que viven en el hogar pueden decir lo que quieren, el resultado se vuelve más fácil de cumplir y hay menos reclamos. Votar puede ayudar, pero no reemplaza la conversación: lo que se busca no es solo ganar, sino que nadie se sienta ignorado.",
       "difficulty": "6",
       "images": [],
@@ -197,31 +197,31 @@
       "context": "En Pereira, Andrés le pidió a su hermana mayor el control del televisor todas las noches. Ella le dijo que no. Andrés le contestó: \"si no me lo das, no te hablo\".",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "Pedir un favor propone y respeta la respuesta; la amenaza usa el miedo para imponer la voluntad",
           "is_correct": true,
           "feedback": "Correcto. Un favor se pide con respeto y acepta un sí o un no, mientras la amenaza usa el miedo para que la persona ceda y así le quita la libertad de elegir."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "No hay ninguna diferencia, porque en los dos casos Andrés quiere ver televisión",
           "is_correct": false,
           "feedback": "Incorrecto. Querer lo mismo no define el tipo de acción: lo que cambia es si se respeta la respuesta del otro o se le presiona con una amenaza."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Amenazar funciona mejor, porque así la hermana entiende que Andrés tiene razón",
           "is_correct": false,
           "feedback": "Incorrecto. El miedo no equivale a tener razón: obligar con una amenaza da la sensación de ganar, pero rompe la confianza y daña la convivencia en la casa."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Solo hay diferencia si la hermana es de la familia, porque con los desconocidos no se pide",
           "is_correct": false,
           "feedback": "Incorrecto. Pedir con respeto es una forma de convivencia y se usa con cualquiera: no depende de que la otra persona sea de la familia ni del barrio."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Pedir significa proponer y dejar que la otra persona decida. Exigir con una amenaza significa imponer la voluntad usando el miedo, y eso le quita a la otra persona la posibilidad de elegir libremente. Las dos acciones se parecen solo por fuera; por dentro una respeta y la otra daña la confianza que sostiene a una familia.",
       "difficulty": "8",
       "images": [],
@@ -289,13 +289,13 @@
       "context": "En Barranquilla, la familia Betancur escribió un acuerdo: en casa nadie grita y todos se escuchan. Un martes, Luis llegó enojado porque perdió un partido y le gritó a su hermana.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Luis reconoce que gritó, pide disculpas y luego conversan tranquilos",
           "is_correct": true,
           "feedback": "Correcto. Reconocer el error y pedir disculpas cumple el acuerdo, porque un acuerdo también obliga al que se equivocó a reparar el daño causado."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Luis responde que el acuerdo no vale cuando está enojado",
           "is_correct": false,
           "feedback": "Incorrecto. Si el acuerdo solo sirve cuando uno está tranquilo, deja de ser un acuerdo: su valor está justamente en respetarlo en los momentos difíciles."
@@ -313,7 +313,7 @@
           "feedback": "Incorrecto. Gritar más fuerte no resuelve el desacuerdo: termina con la escucha, que era justo lo que el acuerdo de la familia pedía proteger dentro de la casa."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Un acuerdo de convivencia vale sobre todo cuando hay conflicto, porque ahí es cuando más cuesta cumplirlo. Las familias que escriben sus acuerdos en la casa los entienden como un compromiso de todos, no como una regla para castigar a alguien. Pedir disculpas y conversar repara el daño y le devuelve a la otra persona el derecho a ser escuchada.",
       "difficulty": "10",
       "images": [],
@@ -335,19 +335,19 @@
       "context": "En el barrio Ciudad Bolívar de Cartagena, unos niños tiran la basura a la calle y el parque se ensucia. Las familias del barrio quieren recuperar ese espacio común.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "Organizan una jornada de reciclaje y ayudan a cuidar los espacios comunes del barrio",
           "is_correct": true,
           "feedback": "Correcto. Un ciudadano no solo recibe de su comunidad: también participa y cuida, y recoger la basura es una acción que mejora el bien de todos los vecinos."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Esperan a que un adulto recoja toda la basura sin participar",
           "is_correct": false,
           "feedback": "Incorrecto. Esperar sin hacer nada deja el parque igual de sucio: ser ciudadano significa que cada persona asume una parte de la tarea común."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Tiran la basura en otro barrio para que allá la recojan",
           "is_correct": false,
           "feedback": "Incorrecto. Botar la basura en otro barrio no resuelve nada: el problema se traslada y ese barrio también pierde, aunque sea el de al lado."
@@ -359,7 +359,7 @@
           "feedback": "Incorrecto. Dejarle el problema a un solo vecino no es participar: el cuidado de la comunidad se comparte entre todos, no se delega a uno."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Ser ciudadano va más allá de vivir en un lugar: significa que ese lugar también es responsabilidad nuestra. Los niños pueden hacer mucho por su barrio, por ejemplo recogiendo la basura, plantando árboles o cuidando el parque. Cuando esa ayuda es compartida, el espacio común mejora para todo el barrio y no solo para una familia.",
       "difficulty": "10",
       "images": [],

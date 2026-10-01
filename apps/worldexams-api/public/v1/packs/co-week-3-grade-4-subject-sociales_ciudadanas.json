@@ -105,13 +105,13 @@
       "context": "En el recreo de Cartagena, un grupo de niños quiere jugar fútbol en la cancha, pero otros la están usando para un juego de rondas.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Acordar entre ellos un tiempo para cada juego y anotarlo para que todos lo cumplan",
           "is_correct": true,
           "feedback": "Correcto. Un acuerdo anotado que divide el tiempo de uso sirve a los dos grupos: cada uno sabe cuándo juega y así se evita el conflicto."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Quedarse con la cancha, porque llegaron primero",
           "is_correct": false,
           "feedback": "Incorrecto. Llegar primero no da derecho exclusivo sobre un espacio común: la cancha es de todos los niños del colegio y se comparte."
@@ -129,7 +129,7 @@
           "feedback": "Incorrecto. Evitar la conversación no evita el choque: si nadie acuerda nada, los dos grupos terminan discutiendo y alguien sale herido."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Los espacios comunes, como una cancha o un patio, se necesitan entre varias personas. Para compartirlos sin problemas la mejor herramienta es el acuerdo: hablar, decidir y dejar claro lo que se va a hacer. El acuerdo también debe quedar anotado o dicho en voz alta ante todos, porque lo que no se acuerda de manera explícita se olvida rápido.",
       "difficulty": "6",
       "images": [],
@@ -197,13 +197,13 @@
       "context": "En una cuadra de Bogotá el camión de la basura pasa los martes, pero una familia saca la bolsa los lunes y la deja en la esquina durante todo el día.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Porque ocupa la acera y la basura queda un día entero en un espacio que usan todos los vecinos",
           "is_correct": true,
           "feedback": "Correcto. Dejar la bolsa un día antes bloquea la acera y ensucia el espacio común, y eso afecta por igual a todos los que pasan por ahí."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Porque la basura de una casa es un asunto estrictamente privado",
           "is_correct": false,
           "feedback": "Incorrecto. La bolsa que sale a la calle deja de ser privada: en ese punto ocupa un bien común que es la acera y molesta a los demás."
@@ -221,7 +221,7 @@
           "feedback": "Incorrecto. La edad del camión no tiene nada que ver: lo que causa el problema es la hora en que se saca la bolsa, no el vehículo que la recoge."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Las normas de convivencia también se aplican en la calle y en la cuadra. Recoger la basura el día que pasa el camión es una norma básica porque mantiene la acera libre y limpia para todos. Cuando alguien incumple esa norma, el costo no lo paga solo esa familia: lo pagan también los niños que pasan por ahí y los vecinos que tienen que esquivar la bolsa.",
       "difficulty": "8",
       "images": [],
@@ -243,19 +243,19 @@
       "context": "En una escuela de Pereira hay estudiantes que hablan español en casa, otros hablan wayuuna, otros inglés y otros usan lengua de signos.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "Que la norma protege el mismo derecho de todos: ser respetado y participar, sin importar cómo se comuniquen",
           "is_correct": true,
           "feedback": "Correcto. La norma existe para proteger un derecho igual para cada persona, y ese derecho no cambia según la lengua que hable cada estudiante."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Que las lenguas que se usan menos son menos importantes que el español",
           "is_correct": false,
           "feedback": "Incorrecto. Poner en orden las lenguas crea desigualdad: todas las lenguas de Colombia valen igual y ninguna debe quedar por debajo de otra."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Que solo los que hablan español deben cumplir las normas del aula",
           "is_correct": false,
           "feedback": "Incorrecto. Dejar fuera a quien habla otra lengua viola su derecho a participar, y además les deja a ellos sin reglas claras que seguir."
@@ -267,7 +267,7 @@
           "feedback": "Incorrecto. La variedad de lenguas no vuelve incorrectas las normas: lo que las vuelve injustas es que se apliquen a unos sí y a otros no."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Colombia es un país donde se hablan muchas lenguas: el español, las lenguas indígenas como el wayuuna y las señas. Cada estudiante llega a la escuela con una manera propia de comunicarse, y todas merecen respeto. Las normas del aula funcionan mejor cuando se aplican igual a todos, porque así cada persona sabe exactamente qué se espera de ella.",
       "difficulty": "8",
       "images": [],
@@ -289,19 +289,19 @@
       "context": "En el parque de Medellín no hay ningún aviso donde se diga que hay que recoger los excrementos de los perros. Mientras tanto, una parte de la zona de estar siempre queda sucia.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "Poner un aviso visible que explique la norma y entregar bolsas para recoger",
           "is_correct": true,
           "feedback": "Correcto. Un aviso claro explica la regla a todos por igual y las bolsas hacen posible cumplirla, porque informar y ayudar van de la mano."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Decirle a cada persona que recoja, una por una, cuando se le vea hacerlo",
           "is_correct": false,
           "feedback": "Incorrecto. Regañar a uno por uno funciona solo con los que están ahí ese día, y la mayoría de los usuarios del parque nunca se entera de la norma."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Esperar a que otra persona se encargue de limpiar el parque",
           "is_correct": false,
           "feedback": "Incorrecto. Esperar equivale a dejar el trabajo en manos de otro: si todos esperan, la plaza termina igual de sucia y nadie se hace cargo."
@@ -313,7 +313,7 @@
           "feedback": "Incorrecto. Hacerlo a escondidas daña a quien llegue después, porque no evita el problema: solo esconde la acción, no sus consecuencias."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Una norma se vuelve efectiva cuando la gente la conoce y tiene cómo cumplirla. Por eso un aviso visible y las bolsas para recoger funcionan mejor que los regaños: el aviso da información y las bolsas dan la herramienta para actuar. Cuidar los espacios que todos comparten es una forma de ciudadanía, porque reconoce que el parque es de todas las personas que lo usan.",
       "difficulty": "10",
       "images": [],
@@ -335,31 +335,31 @@
       "context": "En cuarto grado de Cúcuta, la clase debe elegir quién va a representar al grupo en un evento de la universidad. Hay cuatro estudiantes que quieren ser los representantes.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "Proponer candidatos, dar tiempo para que los demás los conozcan y votar a la vista de todos",
           "is_correct": true,
           "feedback": "Correcto. Un proceso justo ofrece candidatos y tiempo para conocerlos, y se vota a la vista: así todos participan y confían en el resultado."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Dejar que el jefe del grupo decida sin preguntar a los demás",
           "is_correct": false,
           "feedback": "Incorrecto. Decidir sin consultar quita la participación a los demás: aunque el jefe tenga la mejor intención, así nadie siente que la elección fue justa."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Elegir al que llegue primero al salón",
           "is_correct": false,
           "feedback": "Incorrecto. La rapidez de llegada no dice nada sobre la capacidad de representar bien: elegir por casualidad no corresponde con un proceso justo."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Cambiar de representante cada semana para que todos pasen alguna vez",
           "is_correct": false,
           "feedback": "Incorrecto. Rotar el cargo por obligación no es elegir: puede dejar a quien menos sabe en el evento, y eso perjudica a todo el grupo."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Elegir a alguien dentro de un grupo es un ejercicio de democracia y se hace mejor con reglas claras. Presentar candidatos, dar tiempo para conocerlos y votar a la vista de todos hace que el proceso sea transparente y que cualquiera pueda preguntarse por qué se eligió a esa persona. Cuando la elección se hace así, el grupo respeta más el resultado porque fue parte de la decisión.",
       "difficulty": "10",
       "images": [],
