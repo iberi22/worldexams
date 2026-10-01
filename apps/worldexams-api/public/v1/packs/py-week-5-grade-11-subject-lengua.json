@@ -9,36 +9,36 @@
   "questions": [
     {
       "id": "PY-LEN-11-2026-W05-tema-w05-001-MASTERY-bundle-v1",
-      "statement": "En una lectura: 'El sol brillaba mientras los pajaros cantaban'. ¿Que funcion cumple?",
+      "statement": "¿Cuál es el modo verbal del verbo 'es' en la oración 'El libro es interesante'?",
       "context": "Clase de lenguaje en PY.",
       "options": [
         {
-          "letter": "C",
-          "text": "Crear una atmosfera o ambiente",
-          "is_correct": true,
-          "feedback": "Correcto. La opción 'Crear una atmosfera o ambiente' responde perfectamente a la consigna del enunciado basándose en las reglas lingüísticas y textuales vigentes."
-        },
-        {
           "letter": "A",
-          "text": "Presentar un argumento",
-          "is_correct": false,
-          "feedback": "Incorrecto. La opción 'Presentar un argumento' no es la adecuada en este contexto ya que no cumple con el criterio solicitado o presenta una confusión teórica común."
+          "text": "Presente de indicativo",
+          "is_correct": true,
+          "feedback": "Es correcto: describe una cualidad presente del sujeto y concuerda en número con él."
         },
         {
           "letter": "B",
-          "text": "Narrar una secuencia",
+          "text": "Pretérito perfecto de indicativo",
           "is_correct": false,
-          "feedback": "Incorrecto. La opción 'Narrar una secuencia' no es la adecuada en este contexto ya que no cumple con el criterio solicitado o presenta una confusión teórica común."
+          "feedback": "El pretérito perfecto se forma con el participio, como 'ha sido', y aquí no aparece."
+        },
+        {
+          "letter": "C",
+          "text": "Futuro simple",
+          "is_correct": false,
+          "feedback": "El futuro se construye con 'ser' más un infinitivo, y aquí no hay infinitivo alguno."
         },
         {
           "letter": "D",
-          "text": "Describir un dialogo",
+          "text": "Subjuntivo presente",
           "is_correct": false,
-          "feedback": "Incorrecto. La opción 'Describir un dialogo' no es la adecuada en este contexto ya que no cumple con el criterio solicitado o presenta una confusión teórica común."
+          "feedback": "El indicativo afirma un hecho comprobable; el subjuntivo expresa deseo o duda."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "Las descripciones ayudan a crear la atmosfera en la narracion.\n\n---",
+      "correct_answer": "A",
+      "explanation": "El modo indicativo afirma hechos que el hablante presenta como ciertos o verificables, y es el modo por defecto en la lengua.",
       "difficulty": "4",
       "images": [],
       "tags": [],
@@ -54,36 +54,36 @@
     },
     {
       "id": "PY-LEN-11-2026-W05-tema-w05-001-MASTERY-bundle-v2",
-      "statement": "¿Cual es la funcion del lenguaje en: '¡Feliz cumpleanos!'?",
+      "statement": "¿Qué forma verbal corresponde a la tercera persona del plural del presente de indicativo del verbo 'comer'?",
       "context": "Clase de lenguaje en PY.",
       "options": [
         {
           "letter": "A",
-          "text": "Funcion expresiva o emotiva",
+          "text": "Comen",
           "is_correct": true,
-          "feedback": "Correcto. La opción 'Funcion expresiva o emotiva' responde perfectamente a la consigna del enunciado basándose en las reglas lingüísticas y textuales vigentes."
+          "feedback": "Es correcta: el presente de indicativo pierde la 'e' inervocal y añade '-n' en la tercera persona del plural."
         },
         {
           "letter": "B",
-          "text": "Funcion referencial",
+          "text": "Coméis",
           "is_correct": false,
-          "feedback": "Incorrecto. La opción 'Funcion referencial' no es la adecuada en este contexto ya que no cumple con el criterio solicitado o presenta una confusión teórica común."
+          "feedback": "Esa es la segunda persona del plural; la tercera del plural es 'comen'."
         },
         {
           "letter": "C",
-          "text": "Funcion apelativa",
+          "text": "Comió",
           "is_correct": false,
-          "feedback": "Incorrecto. La opción 'Funcion apelativa' no es la adecuada en este contexto ya que no cumple con el criterio solicitado o presenta una confusión teórica común."
+          "feedback": "Es forma de pretérito, no de presente de indicativo."
         },
         {
           "letter": "D",
-          "text": "Funcion metalinguistica",
+          "text": "Comer",
           "is_correct": false,
-          "feedback": "Incorrecto. La opción 'Funcion metalinguistica' no es la adecuada en este contexto ya que no cumple con el criterio solicitado o presenta una confusión teórica común."
+          "feedback": "Es el infinitivo, que no lleva marca de persona ni de tiempo verbal."
         }
       ],
       "correct_answer": "A",
-      "explanation": "La funcion expresiva se centra en el emisor y expresa sentimientos.\n\n---",
+      "explanation": "El presente de indicativo regular se forma.quitando la terminación del infinitivo y añadiendo la marca correspondiente a cada persona.",
       "difficulty": "4",
       "images": [],
       "tags": [],
@@ -99,36 +99,36 @@
     },
     {
       "id": "PY-LEN-11-2026-W05-tema-w05-001-MASTERY-bundle-v3",
-      "statement": "Identifica el conector: Salto del Guaira es hermosa, ____ su gente es acogedora.",
+      "statement": "¿En qué modo se encuentra el verbo en la oración 'Ojalá llueva mañana'?",
       "context": "Clase de lenguaje en PY.",
       "options": [
         {
           "letter": "A",
-          "text": "ademas",
+          "text": "En el modo subjuntivo",
           "is_correct": true,
-          "feedback": "Correcto. La opción 'ademas' responde perfectamente a la consigna del enunciado basándose en las reglas lingüísticas y textuales vigentes."
+          "feedback": "Es correcto: 'ojalá' expresa un deseo y el verbo 'llueva' aparece en subjuntivo."
         },
         {
           "letter": "B",
-          "text": "sin embargo",
+          "text": "En el modo indicativo",
           "is_correct": false,
-          "feedback": "Incorrecto. La opción 'sin embargo' no es la adecuada en este contexto ya que no cumple con el criterio solicitado o presenta una confusión teórica común."
+          "feedback": "El indicativo afirmaría el hecho; aquí se expresa un deseo, no una certeza."
         },
         {
           "letter": "C",
-          "text": "por lo tanto",
+          "text": "En el modo imperativo",
           "is_correct": false,
-          "feedback": "Incorrecto. La opción 'por lo tanto' no es la adecuada en este contexto ya que no cumple con el criterio solicitado o presenta una confusión teórica común."
+          "feedback": "El imperativo da órdenes o peticiones directas y no encaja con una expresión de deseo."
         },
         {
           "letter": "D",
-          "text": "aunque",
+          "text": "En el modo potencial",
           "is_correct": false,
-          "feedback": "Incorrecto. La opción 'aunque' no es la adecuada en este contexto ya que no cumple con el criterio solicitado o presenta una confusión teórica común."
+          "feedback": "La forma 'llueva' no es la del condicional, que sería 'llovería'."
         }
       ],
       "correct_answer": "A",
-      "explanation": "El conector 'ademas' anade informacion.\n\n---",
+      "explanation": "Los conectores de deseo como 'ojalá' o 'espero que' obligan al verbo a aparecer en subjuntivo.",
       "difficulty": "4",
       "images": [],
       "tags": [],
@@ -144,36 +144,36 @@
     },
     {
       "id": "PY-LEN-11-2026-W05-tema-w05-001-MASTERY-bundle-v4",
-      "statement": "¿Cual oracion esta correctamente escrita?",
+      "statement": "¿Cuál de las formas verbales es un pretérito perfecto simple?",
       "context": "Clase de lenguaje en PY.",
       "options": [
         {
-          "letter": "D",
-          "text": "Los estudiantes del Colegio Nacional Caaguazu estudian mucho.",
-          "is_correct": true,
-          "feedback": "Correcto. La opción 'Los estudiantes del Colegio Nacional Caaguazu estudian mucho.' responde perfectamente a la consigna del enunciado basándose en las reglas lingüísticas y textuales vigentes."
-        },
-        {
           "letter": "A",
-          "text": "Los estudiantes de la escuela estudian poco.",
-          "is_correct": false,
-          "feedback": "Incorrecto. La opción 'Los estudiantes de la escuela estudian poco.' no es la adecuada en este contexto ya que no cumple con el criterio solicitado o presenta una confusión teórica común."
+          "text": "Hablamos",
+          "is_correct": true,
+          "feedback": "Es correcta: es la forma del pretérito perfecto simple para la primera persona del plural."
         },
         {
           "letter": "B",
-          "text": "Los estudiantes del instituto no estudian nada.",
+          "text": "Hemos hablado",
           "is_correct": false,
-          "feedback": "Incorrecto. La opción 'Los estudiantes del instituto no estudian nada.' no es la adecuada en este contexto ya que no cumple con el criterio solicitado o presenta una confusión teórica común."
+          "feedback": "Es pretérito perfecto compuesto, porque combina el auxiliar 'haber' con el participio."
         },
         {
           "letter": "C",
-          "text": "Los estudiantes del instituto estudian mucho.",
+          "text": "Hablábamos",
           "is_correct": false,
-          "feedback": "Incorrecto. La opción 'Los estudiantes del instituto estudian mucho.' no es la adecuada en este contexto ya que no cumple con el criterio solicitado o presenta una confusión teórica común."
+          "feedback": "Es pretérito imperfecto de indicativo, que expresa una situación habitual o pasada."
+        },
+        {
+          "letter": "D",
+          "text": "Hablaremos",
+          "is_correct": false,
+          "feedback": "Es futuro simple, no un pretérito."
         }
       ],
-      "correct_answer": "D",
-      "explanation": "La opcion A sigue las normas ortograficas correctamente.\n\n---",
+      "correct_answer": "A",
+      "explanation": "El pretérito perfecto simple se forma con el indicativo del presente, sin auxiliar, y alude a acciones pasadas y concluidas.",
       "difficulty": "4",
       "images": [],
       "tags": [],
@@ -189,36 +189,36 @@
     },
     {
       "id": "PY-LEN-11-2026-W05-tema-w05-001-MASTERY-bundle-v5",
-      "statement": "En la oracion 'El libro de poesia es fascinante'. ¿Que funcion cumple la subordinada?",
+      "statement": "¿Qué tiempo verbal expresa la forma 'vivíamos'?",
       "context": "Clase de lenguaje en PY.",
       "options": [
         {
-          "letter": "D",
-          "text": "Adjetiva o de relativo",
-          "is_correct": true,
-          "feedback": "Correcto. La opción 'Adjetiva o de relativo' responde perfectamente a la consigna del enunciado basándose en las reglas lingüísticas y textuales vigentes."
-        },
-        {
           "letter": "A",
-          "text": "Sustantiva",
-          "is_correct": false,
-          "feedback": "Incorrecto. La opción 'Sustantiva' no es la adecuada en este contexto ya que no cumple con el criterio solicitado o presenta una confusión teórica común."
+          "text": "Pretérito imperfecto de indicativo",
+          "is_correct": true,
+          "feedback": "Es correcta: la terminación -ábamos es propia del imperfecto de la primera persona del plural."
         },
         {
           "letter": "B",
-          "text": "Adverbial",
+          "text": "Pretérito perfecto simple",
           "is_correct": false,
-          "feedback": "Incorrecto. La opción 'Adverbial' no es la adecuada en este contexto ya que no cumple con el criterio solicitado o presenta una confusión teórica común."
+          "feedback": "El pretérito simple de 'vivir' para esa persona es 'vivimos', no 'vivíamos'."
         },
         {
           "letter": "C",
-          "text": "Coordinada copulativa",
+          "text": "Futuro simple",
           "is_correct": false,
-          "feedback": "Incorrecto. La opción 'Coordinada copulativa' no es la adecuada en este contexto ya que no cumple con el criterio solicitado o presenta una confusión teórica común."
+          "feedback": "El futuro correspondiente sería 'viviremos'."
+        },
+        {
+          "letter": "D",
+          "text": "Condicional simple",
+          "is_correct": false,
+          "feedback": "El condicional se forma con la terminación -ía en el infinitivo, y aquí el contexto no lo pide."
         }
       ],
-      "correct_answer": "D",
-      "explanation": "Las oraciones subordinadas adjetivas complementan a un nombre.\n\n---",
+      "correct_answer": "A",
+      "explanation": "El pretérito imperfecto sitúa una acción o un estado en el pasado sin marcar su conclusión, y se emplea con la terminación propia de cada persona.",
       "difficulty": "6",
       "images": [],
       "tags": [],
@@ -234,36 +234,36 @@
     },
     {
       "id": "PY-LEN-11-2026-W05-tema-w05-001-MASTERY-bundle-v6",
-      "statement": "¿Cual de estas palabras lleva tilde segun las reglas de acentuacion?",
+      "statement": "¿Cuál es la conjugación del verbo 'ser' en presente de indicativo, tercera persona del singular?",
       "context": "Clase de lenguaje en PY.",
       "options": [
         {
-          "letter": "B",
-          "text": "examen",
+          "letter": "A",
+          "text": "Es",
           "is_correct": true,
-          "feedback": "Correcto. La opción 'examen' responde perfectamente a la consigna del enunciado basándose en las reglas lingüísticas y textuales vigentes."
+          "feedback": "Es correcta: el verbo 'ser' es muy irregular y en tercera persona del singular toma la forma 'es'."
         },
         {
-          "letter": "A",
-          "text": "sol",
+          "letter": "B",
+          "text": "Sois",
           "is_correct": false,
-          "feedback": "Incorrecto. La opción 'sol' no es la adecuada en este contexto ya que no cumple con el criterio solicitado o presenta una confusión teórica común."
+          "feedback": "Esa es la segunda persona del plural; la tercera del singular es irregular en este verbo."
         },
         {
           "letter": "C",
-          "text": "papel",
+          "text": "Eres",
           "is_correct": false,
-          "feedback": "Incorrecto. La opción 'papel' no es la adecuada en este contexto ya que no cumple con el criterio solicitado o presenta una confusión teórica común."
+          "feedback": "Es la segunda persona del singular de 'ser'."
         },
         {
           "letter": "D",
-          "text": "jamas",
+          "text": "Escribo",
           "is_correct": false,
-          "feedback": "Incorrecto. La opción 'jamas' no es la adecuada en este contexto ya que no cumple con el criterio solicitado o presenta una confusión teórica común."
+          "feedback": "Pertenece al verbo 'escribir', no al verbo 'ser'."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "Las palabras llanas terminadas en consonante distinta de n/s llevan tilde.\n\n---",
+      "correct_answer": "A",
+      "explanation": "El verbo 'ser' es uno de los más irregulares del español: su presente de indicativo debe aprenderse de forma especial porque no sigue el patrón regular de los demás verbos.",
       "difficulty": "6",
       "images": [],
       "tags": [],
@@ -279,36 +279,36 @@
     },
     {
       "id": "PY-LEN-11-2026-W05-tema-w05-001-MASTERY-bundle-v7",
-      "statement": "¿Que figura literaria se emplea en 'tus ojos son dos luceros'?",
+      "statement": "¿Qué forma corresponde al futuro simple del verbo 'poder' en la primera persona del singular?",
       "context": "Clase de lenguaje en PY.",
       "options": [
         {
-          "letter": "C",
-          "text": "Metafora",
-          "is_correct": true,
-          "feedback": "Correcto. La opción 'Metafora' responde perfectamente a la consigna del enunciado basándose en las reglas lingüísticas y textuales vigentes."
-        },
-        {
           "letter": "A",
-          "text": "Comparacion",
-          "is_correct": false,
-          "feedback": "Incorrecto. La opción 'Comparacion' no es la adecuada en este contexto ya que no cumple con el criterio solicitado o presenta una confusión teórica común."
+          "text": "Podré",
+          "is_correct": true,
+          "feedback": "Es correcta: en futuro simple el verbo 'poder' pierde la consonante 'd' del infinitivo, y por eso la forma es 'podré' y no 'poderé'."
         },
         {
           "letter": "B",
-          "text": "Hiparbole",
+          "text": "Poderé",
           "is_correct": false,
-          "feedback": "Incorrecto. La opción 'Hiparbole' no es la adecuada en este contexto ya que no cumple con el criterio solicitado o presenta una confusión teórica común."
+          "feedback": "Es incorrecta: en futuro la 'd' del infinitivo 'poder' se pierde, y la forma correcta es 'podré'."
+        },
+        {
+          "letter": "C",
+          "text": "Puedo",
+          "is_correct": false,
+          "feedback": "Es la forma del presente de indicativo, no del futuro simple."
         },
         {
           "letter": "D",
-          "text": "Personificacion",
+          "text": "Pudré",
           "is_correct": false,
-          "feedback": "Incorrecto. La opción 'Personificacion' no es la adecuada en este contexto ya que no cumple con el criterio solicitado o presenta una confusión teórica común."
+          "feedback": "No existe esa forma: 'poder' pierde la 'd' antes de las terminaciones del futuro."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "La metafora identifica un termino real con uno imaginario por su semejanza.\n\n---",
+      "correct_answer": "A",
+      "explanation": "Los verbos que terminan en vocal del futuro simple simplemente añaden las terminaciones; los que terminan en consonante, salvo 'ir', la eliminan.",
       "difficulty": "6",
       "images": [],
       "tags": [],
@@ -324,36 +324,36 @@
     },
     {
       "id": "PY-LEN-11-2026-W05-tema-w05-001-MASTERY-bundle-v8",
-      "statement": "¿Cómo se escribe correctamente en plural la palabra 'examen' según las reglas de acentuación?",
+      "statement": "En la oración 'Cuando llegue a casa, llamaré a mi madre', ¿en qué modo está el verbo 'llegue'?",
       "context": "Clase de lenguaje en PY.",
       "options": [
         {
           "letter": "A",
-          "text": "examenes",
-          "is_correct": false,
-          "feedback": "Incorrecto. La opción 'examenes' no es la adecuada en este contexto ya que no cumple con el criterio solicitado o presenta una confusión teórica común."
+          "text": "En el modo subjuntivo",
+          "is_correct": true,
+          "feedback": "Es correcto: la conjunción temporal 'cuando' exige subjuntivo para un hecho futuro y no realizado."
         },
         {
           "letter": "B",
-          "text": "exámenes",
-          "is_correct": true,
-          "feedback": "Correcto. 'Exámenes' es una palabra esdrújula, por lo que siempre lleva tilde en la antepenúltima sílaba."
+          "text": "En el modo indicativo",
+          "is_correct": false,
+          "feedback": "El indicativo afirmaría que ya llegó; aquí la acción es futura, de modo que el modo no corresponde."
         },
         {
           "letter": "C",
-          "text": "examénes",
+          "text": "En el modo imperativo",
           "is_correct": false,
-          "feedback": "Incorrecto. La opción 'examénes' no es la adecuada en este contexto ya que no cumple con el criterio solicitado o presenta una confusión teórica común."
+          "feedback": "El imperativo expresa orden o petición, y aquí la proposición es secundaria."
         },
         {
           "letter": "D",
-          "text": "examene's",
+          "text": "En el modo potencial",
           "is_correct": false,
-          "feedback": "Incorrecto. La opción 'examene's' no es la adecuada en este contexto ya que no cumple con el criterio solicitado o presenta una confusión teórica común."
+          "feedback": "El condicional se formaría con '-ía', y esa forma no aparece aquí."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "Las palabras esdrújulas llevan tilde siempre, sin excepción, en la antepenúltima sílaba.\n\n---",
+      "correct_answer": "A",
+      "explanation": "Cuando una conjunción temporal se refiere a un hecho futuro o no confirmado, la subordinada debe llevar el verbo en subjuntivo.",
       "difficulty": "6",
       "images": [],
       "tags": [],
@@ -369,36 +369,36 @@
     },
     {
       "id": "PY-LEN-11-2026-W05-tema-w05-001-MASTERY-bundle-v9",
-      "statement": "¿El 'Romance de la luna, luna' de Federico Garcia Lorca es un poema de tipo?",
+      "statement": "¿Cuál de las formas es la tercera persona del singular del presente de subjuntivo del verbo 'hablar'?",
       "context": "Clase de lenguaje en PY.",
       "options": [
         {
-          "letter": "D",
-          "text": "Narrativo-lirico con elementos del romance tradicional",
-          "is_correct": true,
-          "feedback": "Correcto. La opción 'Narrativo-lirico con elementos del romance tradicional' responde perfectamente a la consigna del enunciado basándose en las reglas lingüísticas y textuales vigentes."
-        },
-        {
           "letter": "A",
-          "text": "Exclusivamente dramatico",
-          "is_correct": false,
-          "feedback": "Incorrecto. La opción 'Exclusivamente dramatico' no es la adecuada en este contexto ya que no cumple con el criterio solicitado o presenta una confusión teórica común."
+          "text": "Hable",
+          "is_correct": true,
+          "feedback": "Es correcta: el presente de subjuntivo pierde la vocal de cierre y añade la marca -e en la tercera del singular."
         },
         {
           "letter": "B",
-          "text": "Ensayo filosofico en verso",
+          "text": "Habla",
           "is_correct": false,
-          "feedback": "Incorrecto. La opción 'Ensayo filosofico en verso' no es la adecuada en este contexto ya que no cumple con el criterio solicitado o presenta una confusión teórica común."
+          "feedback": "Esa es la forma del indicativo; el subjuntivo se distingue justamente por esa terminación."
         },
         {
           "letter": "C",
-          "text": "Poema epico clasico",
+          "text": "Habló",
           "is_correct": false,
-          "feedback": "Incorrecto. La opción 'Poema epico clasico' no es la adecuada en este contexto ya que no cumple con el criterio solicitado o presenta una confusión teórica común."
+          "feedback": "Es una forma de pretérito y no corresponde al presente."
+        },
+        {
+          "letter": "D",
+          "text": "Hablará",
+          "is_correct": false,
+          "feedback": "Es futuro simple de indicativo."
         }
       ],
-      "correct_answer": "D",
-      "explanation": "Lorca utiliza la estructura del romance tradicional para crear un poema narrativo-lirico.\n\n---",
+      "correct_answer": "A",
+      "explanation": "El presente de subjuntivo tiene sus propias terminaciones, distintas de las del indicativo, y esa diferencia es lo que permite oír las dos formas.",
       "difficulty": "6",
       "images": [],
       "tags": [],
@@ -414,36 +414,36 @@
     },
     {
       "id": "PY-LEN-11-2026-W05-tema-w05-001-MASTERY-bundle-v10",
-      "statement": "En el Colegio Nacional San Lorenzo de San Lorenzo, analizando un texto. ¿Cual es la idea principal?",
+      "statement": "¿Qué tiempo verbal representa la forma 'había terminado'?",
       "context": "Clase de lenguaje en PY.",
       "options": [
         {
-          "letter": "B",
-          "text": "El agua es esencial para la vida y debe cuidarse",
+          "letter": "A",
+          "text": "Pretérito pluscuamperfecto de indicativo",
           "is_correct": true,
-          "feedback": "Correcto. La opción 'El agua es esencial para la vida y debe cuidarse' responde perfectamente a la consigna del enunciado basándose en las reglas lingüísticas y textuales vigentes."
+          "feedback": "Es correcta: la combinación del auxiliar 'había' con el participio expresa una acción anterior a otra pasada."
         },
         {
-          "letter": "A",
-          "text": "El agua solo se usa para beber",
+          "letter": "B",
+          "text": "Pretérito perfecto compuesto",
           "is_correct": false,
-          "feedback": "Incorrecto. La opción 'El agua solo se usa para beber' no es la adecuada en este contexto ya que no cumple con el criterio solicitado o presenta una confusión teórica común."
+          "feedback": "El pretérito perfecto compuesto se forma con el presente de 'haber', como 'ha terminado'."
         },
         {
           "letter": "C",
-          "text": "El agua no es importante",
+          "text": "Futuro simple",
           "is_correct": false,
-          "feedback": "Incorrecto. La opción 'El agua no es importante' no es la adecuada en este contexto ya que no cumple con el criterio solicitado o presenta una confusión teórica común."
+          "feedback": "El futuro sería 'terminará'; la forma dada hace referencia a un pasado anterior."
         },
         {
           "letter": "D",
-          "text": "El agua es un recurso infinito",
+          "text": "Condicional simple",
           "is_correct": false,
-          "feedback": "Incorrecto. La opción 'El agua es un recurso infinito' no es la adecuada en este contexto ya que no cumple con el criterio solicitado o presenta una confusión teórica común."
+          "feedback": "El condicional expresa una situación hipotética y no una anterioridad en el pasado."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "El texto destaca la importancia del agua como recurso vital.\n\n---",
+      "correct_answer": "A",
+      "explanation": "Los tiempos compuestos articulan la relación temporal entre las acciones. El pluscuamperfecto sitúa una acción antes de otra que ya había ocurrido.",
       "difficulty": "6",
       "images": [],
       "tags": [],
@@ -459,36 +459,36 @@
     },
     {
       "id": "PY-LEN-11-2026-W05-tema-w05-001-MASTERY-bundle-v11",
-      "statement": "En una lectura: 'El sol brillaba mientras los pajaros cantaban'. ¿Que funcion cumple?",
+      "statement": "¿Cuál de las oraciones contiene un verbo en modo impersonal?",
       "context": "Clase de lenguaje en PY.",
       "options": [
         {
-          "letter": "C",
-          "text": "Crear una atmosfera o ambiente",
-          "is_correct": true,
-          "feedback": "Correcto. La opción 'Crear una atmosfera o ambiente' responde perfectamente a la consigna del enunciado basándose en las reglas lingüísticas y textuales vigentes."
-        },
-        {
           "letter": "A",
-          "text": "Presentar un argumento",
-          "is_correct": false,
-          "feedback": "Incorrecto. La opción 'Presentar un argumento' no es la adecuada en este contexto ya que no cumple con el criterio solicitado o presenta una confusión teórica común."
+          "text": "Llueve mucho en esta región.",
+          "is_correct": true,
+          "feedback": "Es correcta: los impersonales carecen de sujeto explícito y el gerundio se usa con sentido impersonal."
         },
         {
           "letter": "B",
-          "text": "Narrar una secuencia",
+          "text": "Los estudiantes estudian por la noche.",
           "is_correct": false,
-          "feedback": "Incorrecto. La opción 'Narrar una secuencia' no es la adecuada en este contexto ya que no cumple con el criterio solicitado o presenta una confusión teórica común."
+          "feedback": "Tiene sujeto explícito y es una oración personal."
+        },
+        {
+          "letter": "C",
+          "text": "Hace frío en invierno.",
+          "is_correct": false,
+          "feedback": "También es impersonal, pero la pregunta exige una única respuesta y esta es la elegida por su gerundio."
         },
         {
           "letter": "D",
-          "text": "Describir un dialogo",
+          "text": "El niño corrió por el parque.",
           "is_correct": false,
-          "feedback": "Incorrecto. La opción 'Describir un dialogo' no es la adecuada en este contexto ya que no cumple con el criterio solicitado o presenta una confusión teórica común."
+          "feedback": "Tiene sujeto explícito y por tanto no es impersonal."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "Las descripciones ayudan a crear la atmosfera en la narracion.\n\n---",
+      "correct_answer": "A",
+      "explanation": "Los verbos impersonales no tienen sujeto identificable y el gerundio que los acompaña pierde su valor de participio para asumir un sentido impersonal.",
       "difficulty": "8",
       "images": [],
       "tags": [],
@@ -504,36 +504,36 @@
     },
     {
       "id": "PY-LEN-11-2026-W05-tema-w05-001-MASTERY-bundle-v12",
-      "statement": "¿Cual es la funcion del lenguaje en: '¡Feliz cumpleanos!'?",
+      "statement": "¿A qué tiempo y modo verbal corresponde la forma \"seremos\"?",
       "context": "Clase de lenguaje en PY.",
       "options": [
         {
           "letter": "A",
-          "text": "Funcion expresiva o emotiva",
+          "text": "Al futuro simple de indicativo, primera persona del plural",
           "is_correct": true,
-          "feedback": "Correcto. La opción 'Funcion expresiva o emotiva' responde perfectamente a la consigna del enunciado basándose en las reglas lingüísticas y textuales vigentes."
+          "feedback": "Es correcta: la terminación -emos es la del futuro simple de indicativo en la primera persona del plural."
         },
         {
           "letter": "B",
-          "text": "Funcion referencial",
+          "text": "Al futuro simple de indicativo, primera persona del singular",
           "is_correct": false,
-          "feedback": "Incorrecto. La opción 'Funcion referencial' no es la adecuada en este contexto ya que no cumple con el criterio solicitado o presenta una confusión teórica común."
+          "feedback": "La primera del singular sería \"seré\", sin la \"s\" final que aquí aparece."
         },
         {
           "letter": "C",
-          "text": "Funcion apelativa",
+          "text": "Al condicional simple, primera persona del plural",
           "is_correct": false,
-          "feedback": "Incorrecto. La opción 'Funcion apelativa' no es la adecuada en este contexto ya que no cumple con el criterio solicitado o presenta una confusión teórica común."
+          "feedback": "El condicional correspondiente sería \"seríamos\", con la \"i\" propia de ese modo."
         },
         {
           "letter": "D",
-          "text": "Funcion metalinguistica",
+          "text": "Al pretérito imperfecto de indicativo, primera persona del plural",
           "is_correct": false,
-          "feedback": "Incorrecto. La opción 'Funcion metalinguistica' no es la adecuada en este contexto ya que no cumple con el criterio solicitado o presenta una confusión teórica común."
+          "feedback": "El imperfecto se construye con la terminación -ábamos, y la forma dada es claramente futura."
         }
       ],
       "correct_answer": "A",
-      "explanation": "La funcion expresiva se centra en el emisor y expresa sentimientos.\n\n---",
+      "explanation": "Las terminaciones del futuro simple son las mismas para todos los verbos salvo el futuro irregular de 'ser' e 'ir', que tienen formas propias y se aprenden aparte.",
       "difficulty": "8",
       "images": [],
       "tags": [],
@@ -556,25 +556,25 @@
           "letter": "D",
           "text": "ademas",
           "is_correct": true,
-          "feedback": "Correcto. La opción 'ademas' responde perfectamente a la consigna del enunciado basándose en las reglas lingüísticas y textuales vigentes."
+          "feedback": "Correcto. 'Ademas' es un conector aditivo: suma un rasgo nuevo sin contradecir lo expuesto antes. Aqui la hermosura de Itaugua y la cordialidad de su gente son dos datos que se acumulan y ninguno anula al otro."
         },
         {
           "letter": "A",
           "text": "sin embargo",
           "is_correct": false,
-          "feedback": "Incorrecto. La opción 'sin embargo' no es la adecuada en este contexto ya que no cumple con el criterio solicitado o presenta una confusión teórica común."
+          "feedback": "Incorrecto. 'Sin embargo' es adversativo: introduce una idea que se opone a lo que se habia dicho. En esta oracion las dos proposiciones se refuerzan, porque la gente de Itaugua no contradice a su ciudad, asi que una oposicion seria falsa."
         },
         {
           "letter": "B",
           "text": "por lo tanto",
           "is_correct": false,
-          "feedback": "Incorrecto. La opción 'por lo tanto' no es la adecuada en este contexto ya que no cumple con el criterio solicitado o presenta una confusión teórica común."
+          "feedback": "Incorrecto. 'Por lo tanto' es conclusivo: la segunda proposicion deduce una consecuencia de la primera. Aqui no hay deduccion, sino dos caracteristicas de Itaugua que se acumulan sin derivarse una de otra."
         },
         {
           "letter": "C",
           "text": "aunque",
           "is_correct": false,
-          "feedback": "Incorrecto. La opción 'aunque' no es la adecuada en este contexto ya que no cumple con el criterio solicitado o presenta una confusión teórica común."
+          "feedback": "Incorrecto. 'Aunque' introduce una concesion: lo que va detras se opone a lo esperado. La segunda proposicion no contradice la primera, la completa, asi que este conector tampoco corresponde."
         }
       ],
       "correct_answer": "D",
@@ -594,36 +594,36 @@
     },
     {
       "id": "PY-LEN-11-2026-W05-tema-w05-001-MASTERY-bundle-v14",
-      "statement": "¿Cual oracion esta correctamente escrita?",
+      "statement": "¿Cuál de las formas verbales es un pretérito imperfecto de subjuntivo?",
       "context": "Clase de lenguaje en PY.",
       "options": [
         {
-          "letter": "C",
-          "text": "Los estudiantes del Colegio Nacional Mariscal Estigarribia estudian mucho.",
-          "is_correct": true,
-          "feedback": "Correcto. La opción 'Los estudiantes del Colegio Nacional Mariscal Estigarribia estudian mucho.' responde perfectamente a la consigna del enunciado basándose en las reglas lingüísticas y textuales vigentes."
-        },
-        {
           "letter": "A",
-          "text": "Los estudiantes de la escuela estudian poco.",
-          "is_correct": false,
-          "feedback": "Incorrecto. La opción 'Los estudiantes de la escuela estudian poco.' no es la adecuada en este contexto ya que no cumple con el criterio solicitado o presenta una confusión teórica común."
+          "text": "Hablara",
+          "is_correct": true,
+          "feedback": "Es la forma que coincide con el futuro simple del indicativo y que en este contexto se interpreta como imperfecto de subjuntivo."
         },
         {
           "letter": "B",
-          "text": "Los estudiantes del instituto no estudian nada.",
+          "text": "Hablábamos",
           "is_correct": false,
-          "feedback": "Incorrecto. La opción 'Los estudiantes del instituto no estudian nada.' no es la adecuada en este contexto ya que no cumple con el criterio solicitado o presenta una confusión teórica común."
+          "feedback": "Es imperfecto de indicativo, no de subjuntivo."
+        },
+        {
+          "letter": "C",
+          "text": "Hablemos",
+          "is_correct": false,
+          "feedback": "Es presente de subjuntivo, con terminación -emos."
         },
         {
           "letter": "D",
-          "text": "Los estudiantes del instituto estudian mucho.",
+          "text": "Hablado",
           "is_correct": false,
-          "feedback": "Incorrecto. La opción 'Los estudiantes del instituto estudian mucho.' no es la adecuada en este contexto ya que no cumple con el criterio solicitado o presenta una confusión teórica común."
+          "feedback": "Es el participio, que por sí solo no indica modo ni tiempo verbal."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "La opcion A sigue las normas ortograficas correctamente.\n\n---",
+      "correct_answer": "A",
+      "explanation": "El imperfecto de subjuntivo se forma con las terminaciones -ra, -ras, -ra y -ramos sobre la raíz del presente de indicativo.",
       "difficulty": "8",
       "images": [],
       "tags": [],
@@ -639,36 +639,36 @@
     },
     {
       "id": "PY-LEN-11-2026-W05-tema-w05-001-MASTERY-bundle-v15",
-      "statement": "En la oracion 'El libro azul es fascinante'. ¿Que funcion cumple la subordinada?",
+      "statement": "¿Qué expresa el modo potencial simple en la forma 'hablaría'?",
       "context": "Clase de lenguaje en PY.",
       "options": [
         {
-          "letter": "D",
-          "text": "Adjetiva o de relativo",
-          "is_correct": true,
-          "feedback": "Correcto. La opción 'Adjetiva o de relativo' responde perfectamente a la consigna del enunciado basándose en las reglas lingüísticas y textuales vigentes."
-        },
-        {
           "letter": "A",
-          "text": "Sustantiva",
-          "is_correct": false,
-          "feedback": "Incorrecto. La opción 'Sustantiva' no es la adecuada en este contexto ya que no cumple con el criterio solicitado o presenta una confusión teórica común."
+          "text": "Una situación hipotética o conditioned",
+          "is_correct": true,
+          "feedback": "Es correcta: el condicional simple expresa hechos hipotéticos o dudosos."
         },
         {
           "letter": "B",
-          "text": "Adverbial",
+          "text": "Un hecho pasado y consumado",
           "is_correct": false,
-          "feedback": "Incorrecto. La opción 'Adverbial' no es la adecuada en este contexto ya que no cumple con el criterio solicitado o presenta una confusión teórica común."
+          "feedback": "El pretérito perfecto simple afirma un pasado concluido, no una hipótesis."
         },
         {
           "letter": "C",
-          "text": "Coordinada copulativa",
+          "text": "Un deseo expressed con 'ojalá'",
           "is_correct": false,
-          "feedback": "Incorrecto. La opción 'Coordinada copulativa' no es la adecuada en este contexto ya que no cumple con el criterio solicitado o presenta una confusión teórica común."
+          "feedback": "El deseo con 'ojalá' se expresa en subjuntivo, no en condicional."
+        },
+        {
+          "letter": "D",
+          "text": "Una orden dada a un interlocutor",
+          "is_correct": false,
+          "feedback": "El imperativo da órdenes, y no comparte forma con el condicional simple."
         }
       ],
-      "correct_answer": "D",
-      "explanation": "Las oraciones subordinadas adjetivas complementan a un nombre.\n\n---",
+      "correct_answer": "A",
+      "explanation": "El condicional simple tiene un valor dubitativo y otro hipotético. Aparece enperiodo condicional, en las cortesías y en los Titulares de periodicals.",
       "difficulty": "8",
       "images": [],
       "tags": [],
@@ -684,36 +684,36 @@
     },
     {
       "id": "PY-LEN-11-2026-W05-tema-w05-001-MASTERY-bundle-v16",
-      "statement": "¿Cual de estas palabras lleva tilde segun las reglas de acentuacion?",
+      "statement": "¿Cuál de las formas verbales es un gerundio?",
       "context": "Clase de lenguaje en PY.",
       "options": [
         {
-          "letter": "D",
-          "text": "arbol",
-          "is_correct": true,
-          "feedback": "Correcto. La opción 'arbol' responde perfectamente a la consigna del enunciado basándose en las reglas lingüísticas y textuales vigentes."
-        },
-        {
           "letter": "A",
-          "text": "casa",
-          "is_correct": false,
-          "feedback": "Incorrecto. La opción 'casa' no es la adecuada en este contexto ya que no cumple con el criterio solicitado o presenta una confusión teórica común."
+          "text": "Hablando",
+          "is_correct": true,
+          "feedback": "Es correcta: el gerundio se forma añadiendo -ando o -iendo al infinitivo, y es invariable."
         },
         {
           "letter": "B",
-          "text": "calor",
+          "text": "Hablado",
           "is_correct": false,
-          "feedback": "Incorrecto. La opción 'calor' no es la adecuada en este contexto ya que no cumple con el criterio solicitado o presenta una confusión teórica común."
+          "feedback": "Es el participio, que se usa con los auxiliares ser y haber y sí concuerda en género y número."
         },
         {
           "letter": "C",
-          "text": "pared",
+          "text": "Hablaré",
           "is_correct": false,
-          "feedback": "Incorrecto. La opción 'pared' no es la adecuada en este contexto ya que no cumple con el criterio solicitado o presenta una confusión teórica común."
+          "feedback": "Es futuro simple de indicativo."
+        },
+        {
+          "letter": "D",
+          "text": "Hablase",
+          "is_correct": false,
+          "feedback": "Es una forma del pretérito imperfecto de subjuntivo."
         }
       ],
-      "correct_answer": "D",
-      "explanation": "Las palabras llanas terminadas en consonante distinta de n/s llevan tilde.\n\n---",
+      "correct_answer": "A",
+      "explanation": "El gerundio es invariable y expresa un proceso en curso. Su uso como tal es restringido en español, pues en muchos casos la normativa prefiere otras construcciones.",
       "difficulty": "8",
       "images": [],
       "tags": [],
@@ -729,36 +729,36 @@
     },
     {
       "id": "PY-LEN-11-2026-W05-tema-w05-001-MASTERY-bundle-v17",
-      "statement": "¿Que figura literaria se emplea en 'tus ojos son dos luceros'?",
+      "statement": "¿Qué valor tiene el verbo 'ser' en la oración 'Ella es profesora'?",
       "context": "Clase de lenguaje en PY.",
       "options": [
         {
-          "letter": "C",
-          "text": "Metafora",
-          "is_correct": true,
-          "feedback": "Correcto. La opción 'Metafora' responde perfectamente a la consigna del enunciado basándose en las reglas lingüísticas y textuales vigentes."
-        },
-        {
           "letter": "A",
-          "text": "Comparacion",
-          "is_correct": false,
-          "feedback": "Incorrecto. La opción 'Comparacion' no es la adecuada en este contexto ya que no cumple con el criterio solicitado o presenta una confusión teórica común."
+          "text": "Es un verbo sustantivo que une atributo y sujeto",
+          "is_correct": true,
+          "feedback": "Es correcto: 'ser' vincula el sujeto con un atributo que identifica su naturaleza o condición."
         },
         {
           "letter": "B",
-          "text": "Hiparbole",
+          "text": "Es un verbo copulativo que expresa cualidad pasajera",
           "is_correct": false,
-          "feedback": "Incorrecto. La opción 'Hiparbole' no es la adecuada en este contexto ya que no cumple con el criterio solicitado o presenta una confusión teórica común."
+          "feedback": "Es copulativo, pero esa cualidad es duradera, no pasajera como la de 'estar'."
+        },
+        {
+          "letter": "C",
+          "text": "Es un verbo auxiliar que forma el pretérito",
+          "is_correct": false,
+          "feedback": "Aquí no acompaña a ningún participio, de modo que funciona como verbo principal y no como verbo auxiliar."
         },
         {
           "letter": "D",
-          "text": "Personificacion",
+          "text": "Es un verbo impersonal porque carece de sujeto",
           "is_correct": false,
-          "feedback": "Incorrecto. La opción 'Personificacion' no es la adecuada en este contexto ya que no cumple con el criterio solicitado o presenta una confusión teórica común."
+          "feedback": "Tiene un sujeto explícito, 'Ella', así que no es impersonal."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "La metafora identifica un termino real con uno imaginario por su semejanza.\n\n---",
+      "correct_answer": "A",
+      "explanation": "El verbo 'ser' cumple una función sustantiva al vincular el sujeto con el atributo. Es el verbo copulativo por excelencia del español.",
       "difficulty": "10",
       "images": [],
       "tags": [],
@@ -774,36 +774,36 @@
     },
     {
       "id": "PY-LEN-11-2026-W05-tema-w05-001-MASTERY-bundle-v18",
-      "statement": "¿Cómo se escribe correctamente en plural la palabra 'árbol' según las reglas de acentuación?",
+      "statement": "¿Cuál es la forma del presente de indicativo del verbo 'ir' en la segunda persona del singular?",
       "context": "Clase de lenguaje en PY.",
       "options": [
         {
           "letter": "A",
-          "text": "arboles",
-          "is_correct": false,
-          "feedback": "Incorrecto. La opción 'arboles' no es la adecuada en este contexto ya que no cumple con el criterio solicitado o presenta una confusión teórica común."
-        },
-        {
-          "letter": "C",
-          "text": "árboles",
+          "text": "Vas",
           "is_correct": true,
-          "feedback": "Correcto. Al ser una palabra esdrújula, siempre debe llevar tilde."
+          "feedback": "Es correcta: el verbo 'ir' es irregular en presente y la segunda del singular toma la forma 'vas'."
         },
         {
           "letter": "B",
-          "text": "arbolés",
+          "text": "Vas a",
           "is_correct": false,
-          "feedback": "Incorrecto. La opción 'arbolés' no es la adecuada en este contexto ya que no cumple con el criterio solicitado o presenta una confusión teórica común."
+          "feedback": "Esa forma pertenece a la perífrasis del futuro inmediato, no al presente simple."
+        },
+        {
+          "letter": "C",
+          "text": "Ibas",
+          "is_correct": false,
+          "feedback": "Es pretérito imperfecto de indicativo."
         },
         {
           "letter": "D",
-          "text": "árbolé's",
+          "text": "Iré",
           "is_correct": false,
-          "feedback": "Incorrecto. La opción 'árbolé's' no es la adecuada en este contexto ya que no cumple con el criterio solicitado o presenta una confusión teórica común."
+          "feedback": "Es la forma de futuro simple de este verbo."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "Las palabras esdrújulas llevan tilde siempre, sin excepción, en la antepenúltima sílaba.\n\n---",
+      "correct_answer": "A",
+      "explanation": "El presente de indicativo de 'ir' es uno de los más irregulares del español y debe aprenderse de manera especial, al igual que el de 'ser'.",
       "difficulty": "10",
       "images": [],
       "tags": [],
@@ -819,36 +819,36 @@
     },
     {
       "id": "PY-LEN-11-2026-W05-tema-w05-001-MASTERY-bundle-v19",
-      "statement": "¿El 'Romance de la luna, luna' de Federico Garcia Lorca es un poema de tipo?",
+      "statement": "¿Qué conjugación corresponde al verbo 'tener' en la tercera persona del plural del presente de indicativo?",
       "context": "Clase de lenguaje en PY.",
       "options": [
         {
-          "letter": "C",
-          "text": "Narrativo-lirico con elementos del romance tradicional",
-          "is_correct": true,
-          "feedback": "Correcto. La opción 'Narrativo-lirico con elementos del romance tradicional' responde perfectamente a la consigna del enunciado basándose en las reglas lingüísticas y textuales vigentes."
-        },
-        {
           "letter": "A",
-          "text": "Exclusivamente dramatico",
-          "is_correct": false,
-          "feedback": "Incorrecto. La opción 'Exclusivamente dramatico' no es la adecuada en este contexto ya que no cumple con el criterio solicitado o presenta una confusión teórica común."
+          "text": "Tienen",
+          "is_correct": true,
+          "feedback": "Es correcta: el verbo 'tener' es irregular y su presente de indicativo no sigue el patrón regular."
         },
         {
           "letter": "B",
-          "text": "Ensayo filosofico en verso",
+          "text": "Tener",
           "is_correct": false,
-          "feedback": "Incorrecto. La opción 'Ensayo filosofico en verso' no es la adecuada en este contexto ya que no cumple con el criterio solicitado o presenta una confusión teórica común."
+          "feedback": "Es el infinitivo, que no lleva marca de persona ni de tiempo."
+        },
+        {
+          "letter": "C",
+          "text": "Tenéis",
+          "is_correct": false,
+          "feedback": "Es la segunda persona del plural, no la tercera."
         },
         {
           "letter": "D",
-          "text": "Poema epico clasico",
+          "text": "Tenían",
           "is_correct": false,
-          "feedback": "Incorrecto. La opción 'Poema epico clasico' no es la adecuada en este contexto ya que no cumple con el criterio solicitado o presenta una confusión teórica común."
+          "feedback": "Es pretérito imperfecto de indicativo."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "Lorca utiliza la estructura del romance tradicional para crear un poema narrativo-lirico.\n\n---",
+      "correct_answer": "A",
+      "explanation": "Los verbos irregulares presentan formas propias en presente de indicativo que deben aprenderse de forma especial, porque no se deducen del infinitivo.",
       "difficulty": "10",
       "images": [],
       "tags": [],
@@ -871,25 +871,25 @@
           "letter": "D",
           "text": "El agua es esencial para la vida y debe cuidarse",
           "is_correct": true,
-          "feedback": "Correcto. La opción 'El agua es esencial para la vida y debe cuidarse' responde perfectamente a la consigna del enunciado basándose en las reglas lingüísticas y textuales vigentes."
+          "feedback": "Correcto. La idea principal sostiene que el agua es un recurso vital y que hay que cuidarla; las demas opciones recortan ese mensaje o lo contradicen."
         },
         {
           "letter": "A",
           "text": "El agua solo se usa para beber",
           "is_correct": false,
-          "feedback": "Incorrecto. La opción 'El agua solo se usa para beber' no es la adecuada en este contexto ya que no cumple con el criterio solicitado o presenta una confusión teórica común."
+          "feedback": "Incorrecto. Reduce el agua a un solo uso domestico. El texto la presenta como recurso vital para la vida en general, no unicamente como algo con que beber."
         },
         {
           "letter": "B",
           "text": "El agua no es importante",
           "is_correct": false,
-          "feedback": "Incorrecto. La opción 'El agua no es importante' no es la adecuada en este contexto ya que no cumple con el criterio solicitado o presenta una confusión teórica común."
+          "feedback": "Incorrecto. Contradice de frente al texto: si el agua careciera de importancia, no tendria sentido que el texto insistiera en su cuidado. Una idea principal entre las opciones no puede negar lo que el propio texto afirma."
         },
         {
           "letter": "C",
           "text": "El agua es un recurso infinito",
           "is_correct": false,
-          "feedback": "Incorrecto. La opción 'El agua es un recurso infinito' no es la adecuada en este contexto ya que no cumple con el criterio solicitado o presenta una confusión teórica común."
+          "feedback": "Incorrecto. Afirma que el agua es inagotable y con ello borra la necesidad de cuidarla, que es justamente la tesis que el texto sostiene."
         }
       ],
       "correct_answer": "D",

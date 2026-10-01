@@ -549,36 +549,36 @@
     },
     {
       "id": "CR-MAT-11-2026-W03-tema-w03-001-MASTERY-bundle-v13",
-      "statement": "Sea la función exponencial $f(x) = 3^x$. ¿Cuál es el punto de intersección de la gráfica de $f$ con el eje de las ordenadas (eje $y$)?",
+      "statement": "Sea la función exponencial $f(x) = 5^x$. ¿Cuál es el límite de $f(x)$ cuando $x$ tiende a menos infinito?",
       "context": "En Limón, Ana está investigando un problema matemático aplicado al contexto costarricense.",
       "options": [
         {
           "letter": "A",
-          "text": "(0, 1)",
+          "text": "$\\lim_{x \\to -\\infty} 5^x = 0$",
           "is_correct": true,
-          "feedback": "Explicación detallada: Es correcto ya que se aplica la ley exponencial de crecimiento o las características formales de la función exponencial."
+          "feedback": "Correcto. Como la base es mayor que 1, al tomar exponentes cada vez más negativos el valor se acerca a cero sin llegar nunca a alcanzarlo."
         },
         {
           "letter": "B",
-          "text": "(1, 0)",
+          "text": "$\\lim_{x \\to -\\infty} 5^x = 1$",
           "is_correct": false,
-          "feedback": "Explicación de distractor: Se asume erróneamente un crecimiento lineal multiplicando directamente el exponente por la base."
+          "feedback": "Ese es el valor de $f(0) = 5^0 = 1$, es decir el punto donde la curva corta el eje $y$, no el límite en el infinito negativo."
         },
         {
           "letter": "C",
-          "text": "(0, 3)",
+          "text": "$\\lim_{x \\to -\\infty} 5^x = -\\infty$",
           "is_correct": false,
-          "feedback": "Explicación de distractor: Se confunde la intersección con el eje y con la intersección con el eje x o con valores de la base."
+          "feedback": "Una potencia de base positiva nunca da valores negativos, así que el resultado no puede ser $-\\infty$."
         },
         {
           "letter": "D",
-          "text": "(0, 0)",
+          "text": "$\\lim_{x \\to -\\infty} 5^x = 5$",
           "is_correct": false,
-          "feedback": "Explicación de distractor: Se aplica incorrectamente la definición de monotonía para bases menores que 1."
+          "feedback": "El 5 es la base; el límite se obtiene de los exponentes, no del valor de la base en sí."
         }
       ],
       "correct_answer": "A",
-      "explanation": "Para encontrar el punto de intersección con el eje $y$, se debe evaluar la función exponencial en el punto de abscisa $x = 0$: $f(0) = 3^0 = 1$. Por lo tanto, la gráfica de la función exponencial interseca al eje $y$ en el punto $(0, 1)$, independientemente del valor concreto de la base $b > 0$.\n\n---",
+      "explanation": "Para $x$ muy negativo, escribir $5^x = \\dfrac{1}{5^{-x}}$ muestra que el denominador crece sin cota y el cociente se acerca a $0^+$. La asíntota horizontal de toda función exponencial de base mayor que $1$ es la recta $y = 0$, y por eso el límite en $-\\infty$ vale $0$.\n\n---",
       "difficulty": "7",
       "images": [],
       "tags": [],
@@ -594,36 +594,36 @@
     },
     {
       "id": "CR-MAT-11-2026-W03-tema-w03-001-MASTERY-bundle-v14",
-      "statement": "Considere la función exponencial con criterio $f(x) = \\left(\\frac{1}{3}\\right)^x$. ¿Cuál de las siguientes afirmaciones describe correctamente su comportamiento?",
+      "statement": "Considere la función exponencial $f(x) = 3^x$. ¿Cuál es la asíntota horizontal de su gráfica?",
       "context": "En San Carlos, Sofía está investigando un problema matemático aplicado al contexto costarricense.",
       "options": [
         {
           "letter": "A",
-          "text": "Es estrictamente creciente en todo su dominio",
-          "is_correct": false,
-          "feedback": "Explicación de distractor: Se asume erróneamente un crecimiento lineal multiplicando directamente el exponente por la base."
+          "text": "$y = 0$",
+          "is_correct": true,
+          "feedback": "Correcto. La curva se acerca al eje $x$ por arriba tanto por la derecha como por la izquierda, sin tocarlo jamás."
         },
         {
           "letter": "B",
-          "text": "Es estrictamente decreciente en todo su dominio",
-          "is_correct": true,
-          "feedback": "Explicación detallada: Es correcto ya que se aplica la ley exponencial de crecimiento o las características formales de la función exponencial."
+          "text": "$y = 1$",
+          "is_correct": false,
+          "feedback": "$y = 1$ no es una asíntota porque la función la alcanza exactamente en $x = 0$, donde $f(0) = 3^0 = 1$."
         },
         {
           "letter": "C",
-          "text": "Tiene una asíntota vertical en el eje y",
+          "text": "$y = 3$",
           "is_correct": false,
-          "feedback": "Explicación de distractor: Se confunde la intersección con el eje y con la intersección con el eje x o con valores de la base."
+          "feedback": "El 3 es la base de la función, no una recta a la que la curva se acerque asintóticamente."
         },
         {
           "letter": "D",
-          "text": "Interseca al eje x en el punto (1, 0)",
+          "text": "$y = x$",
           "is_correct": false,
-          "feedback": "Explicación de distractor: Se aplica incorrectamente la definición de monotonía para bases menores que 1."
+          "feedback": "Una asíntota horizontal debe ser una recta con ecuación $y = c$; la recta $y = x$ es oblicua y además no se verifica."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "La base de la función exponencial $f(x) = \\left(\\frac{1}{3}\\right)^x$ es $\\frac{1}{3}$. Como $3 > 1$, se cumple rigurosamente que $0 < \\frac{1}{3} < 1$. De acuerdo con las propiedades de la función exponencial, cuando la base $a$ cumple la relación $0 < a < 1$, la función es estrictamente decreciente en todo su dominio real $\\mathbb{R}$.\n\n---",
+      "correct_answer": "A",
+      "explanation": "La asíntota horizontal de $f(x) = b^x$ con $b > 1$ se localiza mirando los dos extremos: cuando $x \\to +\\infty$ la función crece sin límite, y cuando $x \\to -\\infty$ se acerca a $0$. La única recta horizontal a la que se aproxima la gráfica sin alcanzarla es, por tanto, $y = 0$.\n\n---",
       "difficulty": "8",
       "images": [],
       "tags": [],
@@ -684,36 +684,36 @@
     },
     {
       "id": "CR-MAT-11-2026-W03-tema-w03-001-MASTERY-bundle-v16",
-      "statement": "Sea la función exponencial $f(x) = 3^x$. ¿Cuál es el punto de intersección de la gráfica de $f$ con el eje de las ordenadas (eje $y$)?",
+      "statement": "Sea la función exponencial $f(x) = 7^x$. ¿Cuál es el valor exacto de $f(-2)$?",
       "context": "En Escazú, Elena está investigando un problema matemático aplicado al contexto costarricense.",
       "options": [
         {
           "letter": "A",
-          "text": "(1, 0)",
-          "is_correct": false,
-          "feedback": "Explicación de distractor: Se asume erróneamente un crecimiento lineal multiplicando directamente el exponente por la base."
+          "text": "$\\dfrac{1}{49}$",
+          "is_correct": true,
+          "feedback": "Correcto. Como $7^{-2} = \\dfrac{1}{7^2} = \\dfrac{1}{49}$, el exponente negativo equivale a dividir."
         },
         {
           "letter": "B",
-          "text": "(0, 3)",
+          "text": "$49$",
           "is_correct": false,
-          "feedback": "Explicación de distractor: Se confunde la intersección con el eje y con la intersección con el eje x o con valores de la base."
+          "feedback": "$49 = 7^2$ corresponde al exponente positivo; el signo negativo del exponente obliga a invertir."
         },
         {
           "letter": "C",
-          "text": "(0, 0)",
+          "text": "$-14$",
           "is_correct": false,
-          "feedback": "Explicación de distractor: Se aplica incorrectamente la definición de monotonía para bases menores que 1."
+          "feedback": "Elevar la base al cuadrado no produce un resultado negativo, y menos aún multiplicándola por el exponente."
         },
         {
           "letter": "D",
-          "text": "(0, 1)",
-          "is_correct": true,
-          "feedback": "Explicación detallada: Es correcto ya que se aplica la ley exponencial de crecimiento o las características formales de la función exponencial."
+          "text": "$\\dfrac{1}{7}$",
+          "is_correct": false,
+          "feedback": "$\\dfrac{1}{7} = 7^{-1}$ corresponde a un exponente de $-1$, y el enunciado pide el de $-2$."
         }
       ],
-      "correct_answer": "D",
-      "explanation": "Para encontrar el punto de intersección con el eje $y$, se debe evaluar la función exponencial en el punto de abscisa $x = 0$: $f(0) = 3^0 = 1$. Por lo tanto, la gráfica de la función exponencial interseca al eje $y$ en el punto $(0, 1)$, independientemente del valor concreto de la base $b > 0$.\n\n---",
+      "correct_answer": "A",
+      "explanation": "Un exponente negativo se interpreta como el recíproco de la potencia de valor absoluto: $7^{-2} = \\dfrac{1}{7^{2}} = \\dfrac{1}{49}$. La regla general es $b^{-n} = \\dfrac{1}{b^{n}}$, de modo que el resultado siempre es positivo y menor que $1$ cuando la base es mayor que $1$.\n\n---",
       "difficulty": "8",
       "images": [],
       "tags": [],
@@ -729,36 +729,36 @@
     },
     {
       "id": "CR-MAT-11-2026-W03-tema-w03-001-MASTERY-bundle-v17",
-      "statement": "Considere la función exponencial con criterio $f(x) = \\left(\\frac{1}{3}\\right)^x$. ¿Cuál de las siguientes afirmaciones describe correctamente su comportamiento?",
+      "statement": "Considere la función exponencial $f(x) = \\left(\\dfrac{1}{5}\\right)^x$. ¿Cuál es el valor exacto de $f(2)$?",
       "context": "En San José, Javier está investigando un problema matemático aplicado al contexto costarricense.",
       "options": [
         {
           "letter": "A",
-          "text": "Es estrictamente decreciente en todo su dominio",
+          "text": "$\\dfrac{1}{25}$",
           "is_correct": true,
-          "feedback": "Explicación detallada: Es correcto ya que se aplica la ley exponencial de crecimiento o las características formales de la función exponencial."
+          "feedback": "Correcto. Como $\\left(\\dfrac{1}{5}\\right)^{2} = \\dfrac{1^{2}}{5^{2}} = \\dfrac{1}{25}$, el cuadrado de una fracción es el cuadrado del numerador sobre el del denominador."
         },
         {
           "letter": "B",
-          "text": "Es estrictamente creciente en todo su dominio",
+          "text": "$25$",
           "is_correct": false,
-          "feedback": "Explicación de distractor: Se asume erróneamente un crecimiento lineal multiplicando directamente el exponente por la base."
+          "feedback": "$25 = 5^2$ es el inverso del resultado; al elevar una fracción menor que uno al cuadrado el resultado también es menor que uno."
         },
         {
           "letter": "C",
-          "text": "Tiene una asíntota vertical en el eje y",
+          "text": "$\\dfrac{2}{5}$",
           "is_correct": false,
-          "feedback": "Explicación de distractor: Se confunde la intersección con el eje y con la intersección con el eje x o con valores de la base."
+          "feedback": "Se ha tratado el exponente como si multiplicara al numerador y al denominador por separado, en lugar de elevar ambos al cuadrado."
         },
         {
           "letter": "D",
-          "text": "Interseca al eje x en el punto (1, 0)",
+          "text": "$\\dfrac{5}{2}$",
           "is_correct": false,
-          "feedback": "Explicación de distractor: Se aplica incorrectamente la definición de monotonía para bases menores que 1."
+          "feedback": "$\\dfrac{5}{2}$ es solo el recíproco de $\\dfrac{2}{5}$ y no tiene relación con el exponente pedido."
         }
       ],
       "correct_answer": "A",
-      "explanation": "La base de la función exponencial $f(x) = \\left(\\frac{1}{3}\\right)^x$ es $\\frac{1}{3}$. Como $3 > 1$, se cumple rigurosamente que $0 < \\frac{1}{3} < 1$. De acuerdo con las propiedades de la función exponencial, cuando la base $a$ cumple la relación $0 < a < 1$, la función es estrictamente decreciente en todo su dominio real $\\mathbb{R}$.\n\n---",
+      "explanation": "Para elevar una fracción a un exponente entero se elevan por separado el numerador y el denominador: $\\left(\\dfrac{1}{5}\\right)^{2} = \\dfrac{1^{2}}{5^{2}} = \\dfrac{1}{25}$. Como la base es una fracción menor que uno, cualquier exponente positivo produce un resultado entre $0$ y $1$, y aquí el resultado es $\\dfrac{1}{25}$.\n\n---",
       "difficulty": "9",
       "images": [],
       "tags": [],
@@ -819,36 +819,36 @@
     },
     {
       "id": "CR-MAT-11-2026-W03-tema-w03-001-MASTERY-bundle-v19",
-      "statement": "Sea la función exponencial $f(x) = 3^x$. ¿Cuál es el punto de intersección de la gráfica de $f$ con el eje de las ordenadas (eje $y$)?",
+      "statement": "Sea la función exponencial $f(x) = 10^x$. ¿Cuál de las siguientes igualdades es verdadera?",
       "context": "En Cartago, Esteban está investigando un problema matemático aplicado al contexto costarricense.",
       "options": [
         {
           "letter": "A",
-          "text": "(1, 0)",
-          "is_correct": false,
-          "feedback": "Explicación de distractor: Se asume erróneamente un crecimiento lineal multiplicando directamente el exponente por la base."
+          "text": "$f(3) = 1000$",
+          "is_correct": true,
+          "feedback": "Correcto. Con $x = 3$ se tiene $10^3 = 1000$, que es un uno seguido de tres ceros."
         },
         {
           "letter": "B",
-          "text": "(0, 3)",
+          "text": "$f(3) = 300$",
           "is_correct": false,
-          "feedback": "Explicación de distractor: Se confunde la intersección con el eje y con la intersección con el eje x o con valores de la base."
+          "feedback": "Multiplicar la base por el exponente no es una operación válida: los exponentes no se suman ni se multiplican así."
         },
         {
           "letter": "C",
-          "text": "(0, 1)",
-          "is_correct": true,
-          "feedback": "Explicación detallada: Es correcto ya que se aplica la ley exponencial de crecimiento o las características formales de la función exponencial."
+          "text": "$f(3) = 3$",
+          "is_correct": false,
+          "feedback": "Ese es el exponente, es decir la entrada de la función, no el valor de salida."
         },
         {
           "letter": "D",
-          "text": "(0, 0)",
+          "text": "$f(3) = 0{,}001$",
           "is_correct": false,
-          "feedback": "Explicación de distractor: Se aplica incorrectamente la definición de monotonía para bases menores que 1."
+          "feedback": "$0{,}001 = 10^{-3}$ corresponde a evaluar la función en $x = -3$, no en $x = 3$."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "Para encontrar el punto de intersección con el eje $y$, se debe evaluar la función exponencial en el punto de abscisa $x = 0$: $f(0) = 3^0 = 1$. Por lo tanto, la gráfica de la función exponencial interseca al eje $y$ en el punto $(0, 1)$, independientemente del valor concreto de la base $b > 0$.\n\n---",
+      "correct_answer": "A",
+      "explanation": "La notación $10^3$ es una potenciación: la base $10$ se multiplica por sí misma tres veces y da $1000$. Conviene no confundir $10^3$ con el producto $10 \\cdot 3 = 30$ ni con el mismo exponente $3$, porque en una potencia el exponente indica cuántas veces se repite la multiplicación.\n\n---",
       "difficulty": "10",
       "images": [],
       "tags": [],
@@ -864,36 +864,36 @@
     },
     {
       "id": "CR-MAT-11-2026-W03-tema-w03-001-MASTERY-bundle-v20",
-      "statement": "Considere la función exponencial con criterio $f(x) = \\left(\\frac{1}{3}\\right)^x$. ¿Cuál de las siguientes afirmaciones describe correctamente su comportamiento?",
+      "statement": "Considere la función exponencial $f(x) = \\left(\\dfrac{1}{4}\\right)^x$. ¿Cuál es el valor exacto de $f(-1)$?",
       "context": "En Heredia, Gabriel está investigando un problema matemático aplicado al contexto costarricense.",
       "options": [
         {
           "letter": "A",
-          "text": "Es estrictamente creciente en todo su dominio",
-          "is_correct": false,
-          "feedback": "Explicación de distractor: Se asume erróneamente un crecimiento lineal multiplicando directamente el exponente por la base."
+          "text": "$4$",
+          "is_correct": true,
+          "feedback": "Correcto. Un exponente negativo invierte el sentido: $\\left(\\dfrac{1}{4}\\right)^{-1}$ es el recíproco de $\\dfrac{1}{4}$, y ese recíproco es $4$."
         },
         {
           "letter": "B",
-          "text": "Tiene una asíntota vertical en el eje y",
+          "text": "$\\dfrac{1}{4}$",
           "is_correct": false,
-          "feedback": "Explicación de distractor: Se confunde la intersección con el eje y con la intersección con el eje x o con valores de la base."
+          "feedback": "Ese es $f(1)$ con exponente positivo; el signo negativo del exponente es justamente lo que invierte el resultado."
         },
         {
           "letter": "C",
-          "text": "Interseca al eje x en el punto (1, 0)",
+          "text": "$-\\dfrac{1}{4}$",
           "is_correct": false,
-          "feedback": "Explicación de distractor: Se aplica incorrectamente la definición de monotonía para bases menores que 1."
+          "feedback": "La base es positiva, así que ninguna potencia de ella puede dar un valor negativo."
         },
         {
           "letter": "D",
-          "text": "Es estrictamente decreciente en todo su dominio",
-          "is_correct": true,
-          "feedback": "Explicación detallada: Es correcto ya que se aplica la ley exponencial de crecimiento o las características formales de la función exponencial."
+          "text": "$16$",
+          "is_correct": false,
+          "feedback": "$16 = 4^2$ corresponde a elevar $4$ al cuadrado, y no a tomar el recíproco de $\\dfrac{1}{4}$."
         }
       ],
-      "correct_answer": "D",
-      "explanation": "La base de la función exponencial $f(x) = \\left(\\frac{1}{3}\\right)^x$ es $\\frac{1}{3}$. Como $3 > 1$, se cumple rigurosamente que $0 < \\frac{1}{3} < 1$. De acuerdo con las propiedades de la función exponencial, cuando la base $a$ cumple la relación $0 < a < 1$, la función es estrictamente decreciente en todo su dominio real $\\mathbb{R}$.\n\n---",
+      "correct_answer": "A",
+      "explanation": "Como $\\left(\\dfrac{1}{4}\\right)^{-1} = \\dfrac{1}{\\left(\\dfrac{1}{4}\\right)^{1}} = \\dfrac{1}{\\frac{1}{4}} = 4$, el exponente negativo equivale a dividir por la base en lugar de multiplicar. Por eso $f(-1)$ da $4$, que es justamente el valor recíproco del de $f(1)$.\n\n---",
       "difficulty": "10",
       "images": [],
       "tags": [],

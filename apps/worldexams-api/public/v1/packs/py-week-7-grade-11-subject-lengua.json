@@ -9,36 +9,36 @@
   "questions": [
     {
       "id": "PY-LEN-11-2026-W07-tema-w07-001-MASTERY-bundle-v1",
-      "statement": "En una lectura: 'El sol brillaba mientras los pajaros cantaban'. ¿Que funcion cumple?",
+      "statement": "¿Qué tipo de palabra es 'rápidamente'?",
       "context": "Clase de lenguaje en PY.",
       "options": [
         {
           "letter": "A",
-          "text": "Crear una atmosfera o ambiente",
+          "text": "Un adverbio de manera",
           "is_correct": true,
-          "feedback": "Correcto. La opción 'Crear una atmosfera o ambiente' responde perfectamente a la consigna del enunciado basándose en las reglas lingüísticas y textuales vigentes."
+          "feedback": "Es correcto: el sufijo '-mente' transforma el adjetivo 'rápido' en un adverbio que indica cómo se realiza la acción."
         },
         {
           "letter": "B",
-          "text": "Presentar un argumento",
+          "text": "Un adjetivo de género femenino",
           "is_correct": false,
-          "feedback": "Incorrecto. La opción 'Presentar un argumento' no es la adecuada en este contexto ya que no cumple con el criterio solicitado o presenta una confusión teórica común."
+          "feedback": "Si fuera adjetivo tendría que ir delante del sustantivo y concordar con él; los adverbios son invariables."
         },
         {
           "letter": "C",
-          "text": "Narrar una secuencia",
+          "text": "Un sustantivo que nombra una calidad",
           "is_correct": false,
-          "feedback": "Incorrecto. La opción 'Narrar una secuencia' no es la adecuada en este contexto ya que no cumple con el criterio solicitado o presenta una confusión teórica común."
+          "feedback": "Los sustantivos nombran, y aquí la palabra indica una circunstancia, no una entidad."
         },
         {
           "letter": "D",
-          "text": "Describir un dialogo",
+          "text": "Un verbo en presente de indicativo",
           "is_correct": false,
-          "feedback": "Incorrecto. La opción 'Describir un dialogo' no es la adecuada en este contexto ya que no cumple con el criterio solicitado o presenta una confusión teórica común."
+          "feedback": "No expresa ninguna acción y carece de marcas de persona y de tiempo verbal."
         }
       ],
       "correct_answer": "A",
-      "explanation": "Las descripciones ayudan a crear la atmosfera en la narracion.\n\n---",
+      "explanation": "Los adverbios de manera responden a la pregunta sobre cómo se realiza una acción, y el sufijo '-mente' los vincula con el adjetivo del que proceden.",
       "difficulty": "4",
       "images": [],
       "tags": [],
@@ -54,36 +54,36 @@
     },
     {
       "id": "PY-LEN-11-2026-W07-tema-w07-001-MASTERY-bundle-v2",
-      "statement": "¿Cual es la funcion del lenguaje en: '¡Feliz cumpleanos!'?",
+      "statement": "¿Cuál es la diferencia entre el gerundio y el participio en español?",
       "context": "Clase de lenguaje en PY.",
       "options": [
         {
-          "letter": "D",
-          "text": "Funcion expresiva o emotiva",
-          "is_correct": true,
-          "feedback": "Correcto. La opción 'Funcion expresiva o emotiva' responde perfectamente a la consigna del enunciado basándose en las reglas lingüísticas y textuales vigentes."
-        },
-        {
           "letter": "A",
-          "text": "Funcion referencial",
-          "is_correct": false,
-          "feedback": "Incorrecto. La opción 'Funcion referencial' no es la adecuada en este contexto ya que no cumple con el criterio solicitado o presenta una confusión teórica común."
+          "text": "El gerundio es invariable y expresa proceso, y el participio concuerda y se usa con los auxiliares ser y haber",
+          "is_correct": true,
+          "feedback": "Es correcto: esa diferencia de comportamiento y de uso distingue claramente ambas formas."
         },
         {
           "letter": "B",
-          "text": "Funcion apelativa",
+          "text": "Ambas formas son invariables y tienen el mismo uso",
           "is_correct": false,
-          "feedback": "Incorrecto. La opción 'Funcion apelativa' no es la adecuada en este contexto ya que no cumple con el criterio solicitado o presenta una confusión teórica común."
+          "feedback": "El participio sí concuerda en género y número, por lo que no son equivalentes."
         },
         {
           "letter": "C",
-          "text": "Funcion metalinguistica",
+          "text": "El gerundio se usa con los auxiliares y el participio es independiente",
           "is_correct": false,
-          "feedback": "Incorrecto. La opción 'Funcion metalinguistica' no es la adecuada en este contexto ya que no cumple con el criterio solicitado o presenta una confusión teórica común."
+          "feedback": "Está invertido: el participio es el que acompaña a los auxiliares ser y haber."
+        },
+        {
+          "letter": "D",
+          "text": "Son dos nombres distintos para la misma categoría gramatical",
+          "is_correct": false,
+          "feedback": "Pertenecen a categorías distintas y no pueden intercambiarse sin cambiar el sentido."
         }
       ],
-      "correct_answer": "D",
-      "explanation": "La funcion expresiva se centra en el emisor y expresa sentimientos.\n\n---",
+      "correct_answer": "A",
+      "explanation": "El gerundio expresa un proceso en curso y es invariable, mientras que el participio puede functioning como adjetivo y debe concordar con el sujeto.",
       "difficulty": "4",
       "images": [],
       "tags": [],
@@ -106,25 +106,25 @@
           "letter": "C",
           "text": "ademas",
           "is_correct": true,
-          "feedback": "Correcto. La opción 'ademas' responde perfectamente a la consigna del enunciado basándose en las reglas lingüísticas y textuales vigentes."
+          "feedback": "Correcto. 'Ademas' es un conector aditivo: suma un rasgo nuevo sin contradecir lo expuesto antes. Aqui la hermosura de Pedro Juan Caballero y la cordialidad de su gente son dos datos que se acumulan y ninguno anula al otro."
         },
         {
           "letter": "A",
           "text": "sin embargo",
           "is_correct": false,
-          "feedback": "Incorrecto. La opción 'sin embargo' no es la adecuada en este contexto ya que no cumple con el criterio solicitado o presenta una confusión teórica común."
+          "feedback": "Incorrecto. 'Sin embargo' es adversativo: introduce una idea que se opone a lo que se habia dicho. En esta oracion las dos proposiciones se refuerzan, porque la gente de Pedro Juan Caballero no contradice a su ciudad, asi que una oposicion seria falsa."
         },
         {
           "letter": "B",
           "text": "por lo tanto",
           "is_correct": false,
-          "feedback": "Incorrecto. La opción 'por lo tanto' no es la adecuada en este contexto ya que no cumple con el criterio solicitado o presenta una confusión teórica común."
+          "feedback": "Incorrecto. 'Por lo tanto' es conclusivo: la segunda proposicion deduce una consecuencia de la primera. Aqui no hay deduccion, sino dos caracteristicas de Pedro Juan Caballero que se acumulan sin derivarse una de otra."
         },
         {
           "letter": "D",
           "text": "aunque",
           "is_correct": false,
-          "feedback": "Incorrecto. La opción 'aunque' no es la adecuada en este contexto ya que no cumple con el criterio solicitado o presenta una confusión teórica común."
+          "feedback": "Incorrecto. 'Aunque' introduce una concesion: lo que va detras se opone a lo esperado. La segunda proposicion no contradice la primera, la completa, asi que este conector tampoco corresponde."
         }
       ],
       "correct_answer": "C",
@@ -151,25 +151,25 @@
           "letter": "B",
           "text": "Los estudiantes del Colegio Nacional Pilar estudian mucho.",
           "is_correct": true,
-          "feedback": "Correcto. La opción 'Los estudiantes del Colegio Nacional Pilar estudian mucho.' responde perfectamente a la consigna del enunciado basándose en las reglas lingüísticas y textuales vigentes."
+          "feedback": "Correcto. Los nombres propios se escriben con mayuscula en cada componente y con la acentuacion que les corresponde: los topicos de Paraguay van con mayuscula y sin tilde, porque son llanas terminadas en 'a', 'o' e 'i'."
         },
         {
           "letter": "A",
           "text": "Los estudiantes de la escuela estudian poco.",
           "is_correct": false,
-          "feedback": "Incorrecto. La opción 'Los estudiantes de la escuela estudian poco.' no es la adecuada en este contexto ya que no cumple con el criterio solicitado o presenta una confusión teórica común."
+          "feedback": "Incorrecto. La oracion esta bien redactada y con buena concordancia, pero 'la escuela' es un nombre comun que puede designar cualquier centro; el enunciado pide el nombre propio completo de la institucion, y aqui no aparece."
         },
         {
           "letter": "C",
           "text": "Los estudiantes del instituto no estudian nada.",
           "is_correct": false,
-          "feedback": "Incorrecto. La opción 'Los estudiantes del instituto no estudian nada.' no es la adecuada en este contexto ya que no cumple con el criterio solicitado o presenta una confusión teórica común."
+          "feedback": "Incorrecto. 'El instituto' vuelve a sustituir el nombre propio por una denominacion generica. La negacion 'no estudian nada' es correcta, pero no aporta el dato que el enunciado evalua."
         },
         {
           "letter": "D",
           "text": "Los estudiantes del instituto estudian mucho.",
           "is_correct": false,
-          "feedback": "Incorrecto. La opción 'Los estudiantes del instituto estudian mucho.' no es la adecuada en este contexto ya que no cumple con el criterio solicitado o presenta una confusión teórica común."
+          "feedback": "Incorrecto. Comparte con la correcta la concordancia y el verbo 'estudian mucho', y se diferencia en un solo punto decisivo: emplea 'el instituto', un nombre comun, en lugar del nombre oficial completo."
         }
       ],
       "correct_answer": "B",
@@ -189,36 +189,36 @@
     },
     {
       "id": "PY-LEN-11-2026-W07-tema-w07-001-MASTERY-bundle-v5",
-      "statement": "En la oracion 'El libro de poesia es fascinante'. ¿Que funcion cumple la subordinada?",
+      "statement": "¿Cuál de las oraciones contiene un error en el uso del gerundio?",
       "context": "Clase de lenguaje en PY.",
       "options": [
         {
-          "letter": "B",
-          "text": "Adjetiva o de relativo",
-          "is_correct": true,
-          "feedback": "Correcto. La opción 'Adjetiva o de relativo' responde perfectamente a la consigna del enunciado basándose en las reglas lingüísticas y textuales vigentes."
+          "letter": "A",
+          "text": "Entrando temprano, took el primer tren.",
+          "is_correct": false,
+          "feedback": "Es correcta: el gerundio expresa una acción simultánea al hecho principal y ese uso está admitido."
         },
         {
-          "letter": "A",
-          "text": "Sustantiva",
+          "letter": "B",
+          "text": "Esperando el resultado, calculo tu nota.",
           "is_correct": false,
-          "feedback": "Incorrecto. La opción 'Sustantiva' no es la adecuada en este contexto ya que no cumple con el criterio solicitado o presenta una confusión teórica común."
+          "feedback": "Es correcta: también indica simultaneidad y tiene sentido pleno dentro de la oración."
         },
         {
           "letter": "C",
-          "text": "Adverbial",
-          "is_correct": false,
-          "feedback": "Incorrecto. La opción 'Adverbial' no es la adecuada en este contexto ya que no cumple con el criterio solicitado o presenta una confusión teórica común."
+          "text": "Leyendo el informe, entregué el trabajo.",
+          "is_correct": true,
+          "feedback": "Es la respuesta: el gerundio no debe modificar directamente a un sustantivo; corresponde un adjetivo o el infinitivo."
         },
         {
           "letter": "D",
-          "text": "Coordinada copulativa",
+          "text": "Corriendo el niño, se cayó.",
           "is_correct": false,
-          "feedback": "Incorrecto. La opción 'Coordinada copulativa' no es la adecuada en este contexto ya que no cumple con el criterio solicitado o presenta una confusión teórica común."
+          "feedback": "Es correcta: describe la simultaneidad entre las dos acciones con sentido pleno."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "Las oraciones subordinadas adjetivas complementan a un nombre.\n\n---",
+      "correct_answer": "C",
+      "explanation": "El gerundio puede expresar simultaneidad, causa o modo, pero no debe cumplir la función de un adjetivo que califique directamente a un sustantivo.",
       "difficulty": "6",
       "images": [],
       "tags": [],
@@ -234,36 +234,36 @@
     },
     {
       "id": "PY-LEN-11-2026-W07-tema-w07-001-MASTERY-bundle-v6",
-      "statement": "¿Cual de estas palabras lleva tilde segun las reglas de acentuacion?",
+      "statement": "¿Cuál es la función del artículo 'lo' en la expresión 'lo importante'?",
       "context": "Clase de lenguaje en PY.",
       "options": [
         {
-          "letter": "B",
-          "text": "examen",
+          "letter": "A",
+          "text": "Sustantiva un adjetivo para convertirlo en un sustantivo abstracto",
           "is_correct": true,
-          "feedback": "Correcto. La opción 'examen' responde perfectamente a la consigna del enunciado basándose en las reglas lingüísticas y textuales vigentes."
+          "feedback": "Es correcto: la fórmula article lo delante de un adjetivo forma un sustantivo abstracto de género masculino."
         },
         {
-          "letter": "A",
-          "text": "sol",
+          "letter": "B",
+          "text": "Señala un referente ya conocido por el interlocutor",
           "is_correct": false,
-          "feedback": "Incorrecto. La opción 'sol' no es la adecuada en este contexto ya que no cumple con el criterio solicitado o presenta una confusión teórica común."
+          "feedback": "Esa es la función del artículo determinado, no del artículo lo seguido de adjetivo."
         },
         {
           "letter": "C",
-          "text": "papel",
+          "text": "Introduce una oración completiva sustantiva",
           "is_correct": false,
-          "feedback": "Incorrecto. La opción 'papel' no es la adecuada en este contexto ya que no cumple con el criterio solicitado o presenta una confusión teórica común."
+          "feedback": "No hay proposición alguna detrás de lo; lo afecta directamente al adjetivo."
         },
         {
           "letter": "D",
-          "text": "jamas",
+          "text": "Cumple la función de determinante numeral",
           "is_correct": false,
-          "feedback": "Incorrecto. La opción 'jamas' no es la adecuada en este contexto ya que no cumple con el criterio solicitado o presenta una confusión teórica común."
+          "feedback": "Los determinantes numerales indican cantidad, lo que no ocurre aquí."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "Las palabras llanas terminadas en consonante distinta de n/s llevan tilde.\n\n---",
+      "correct_answer": "A",
+      "explanation": "El artículo lo es la única forma del español que se antepone a un adjetivo y lo sustantiviza, permitiendo usarlo como sustantivo abstracto.",
       "difficulty": "6",
       "images": [],
       "tags": [],
@@ -279,36 +279,36 @@
     },
     {
       "id": "PY-LEN-11-2026-W07-tema-w07-001-MASTERY-bundle-v7",
-      "statement": "¿Que figura literaria se emplea en 'tus ojos son dos luceros'?",
+      "statement": "¿Cuál de las funciones no corresponde al gerundio en español?",
       "context": "Clase de lenguaje en PY.",
       "options": [
         {
           "letter": "A",
-          "text": "Metafora",
+          "text": "Adjetivar un sustantivo, como en 'un hombre trabajando'",
           "is_correct": true,
-          "feedback": "Correcto. La opción 'Metafora' responde perfectamente a la consigna del enunciado basándose en las reglas lingüísticas y textuales vigentes."
+          "feedback": "Es la respuesta: esa construcción es un error y lo correcto sería un gerundio de otra categoría o un adjetivo."
         },
         {
           "letter": "B",
-          "text": "Comparacion",
+          "text": "Expresar simultaneidad con el verbo principal",
           "is_correct": false,
-          "feedback": "Incorrecto. La opción 'Comparacion' no es la adecuada en este contexto ya que no cumple con el criterio solicitado o presenta una confusión teórica común."
+          "feedback": "Es uno de sus usos más frecuentes y está plenamente admitido."
         },
         {
           "letter": "C",
-          "text": "Hiparbole",
+          "text": "Indicar la causa de una acción, como en 'estudiar Approved mejoras'",
           "is_correct": false,
-          "feedback": "Incorrecto. La opción 'Hiparbole' no es la adecuada en este contexto ya que no cumple con el criterio solicitado o presenta una confusión teórica común."
+          "feedback": "La relación causal es uno de los valores admitidos del gerundio en español."
         },
         {
           "letter": "D",
-          "text": "Personificacion",
+          "text": "Formar la voz pasiva con el verbo ser",
           "is_correct": false,
-          "feedback": "Incorrecto. La opción 'Personificacion' no es la adecuada en este contexto ya que no cumple con el criterio solicitado o presenta una confusión teórica común."
+          "feedback": "Es la construcción pasiva: la voz pasiva se forma con ser más el gerundio."
         }
       ],
       "correct_answer": "A",
-      "explanation": "La metafora identifica un termino real con uno imaginario por su semejanza.\n\n---",
+      "explanation": "El gerundio puede expresar simultaneidad, causa o modo, y forma la voz pasiva, pero no debe cumplir la función de un adjetivo que califique directamente a un sustantivo.",
       "difficulty": "6",
       "images": [],
       "tags": [],
@@ -324,36 +324,36 @@
     },
     {
       "id": "PY-LEN-11-2026-W07-tema-w07-001-MASTERY-bundle-v8",
-      "statement": "¿Cómo se escribe correctamente en plural la palabra 'examen' según las reglas de acentuación?",
+      "statement": "¿Qué forma verbal es 'escribiendo'?",
       "context": "Clase de lenguaje en PY.",
       "options": [
         {
           "letter": "A",
-          "text": "examenes",
-          "is_correct": false,
-          "feedback": "Incorrecto. La opción 'examenes' no es la adecuada en este contexto ya que no cumple con el criterio solicitado o presenta una confusión teórica común."
-        },
-        {
-          "letter": "C",
-          "text": "exámenes",
+          "text": "Un gerundio irregular del verbo 'escribir'",
           "is_correct": true,
-          "feedback": "Correcto. 'Exámenes' es una palabra esdrújula, por lo que siempre lleva tilde en la antepenúltima sílaba."
+          "feedback": "Es correcto: el gerundio irregular de este verbo es 'escribiendo', y no sigue el patrón regular de perder la 'e'."
         },
         {
           "letter": "B",
-          "text": "examénes",
+          "text": "Un participio irregular del verbo 'escribir'",
           "is_correct": false,
-          "feedback": "Incorrecto. La opción 'examénes' no es la adecuada en este contexto ya que no cumple con el criterio solicitado o presenta una confusión teórica común."
+          "feedback": "El participio de este verbo es 'escrito'; 'escribiendo' corresponde al gerundio."
+        },
+        {
+          "letter": "C",
+          "text": "Un futuro simple del verbo 'escribir'",
+          "is_correct": false,
+          "feedback": "El futuro simple sería 'escribirá', que no coincide con esta forma."
         },
         {
           "letter": "D",
-          "text": "examene's",
+          "text": "Una forma del pretérito imperfecto",
           "is_correct": false,
-          "feedback": "Incorrecto. La opción 'examene's' no es la adecuada en este contexto ya que no cumple con el criterio solicitado o presenta una confusión teórica común."
+          "feedback": "El imperfecto sería 'escribía'; la terminación -iendo es propia del gerundio."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "Las palabras esdrújulas llevan tilde siempre, sin excepción, en la antepenúltima sílaba.\n\n---",
+      "correct_answer": "A",
+      "explanation": "Los gerundios irregulares cambian la vocal del infinitivo en lugar de perderla: escribir pasa a 'escribiendo' en lugar de 'escriviendo'.",
       "difficulty": "6",
       "images": [],
       "tags": [],
@@ -369,36 +369,36 @@
     },
     {
       "id": "PY-LEN-11-2026-W07-tema-w07-001-MASTERY-bundle-v9",
-      "statement": "¿El 'Romance de la luna, luna' de Federico Garcia Lorca es un poema de tipo?",
+      "statement": "¿Cuál es la estructura correcta para formar la voz pasiva?",
       "context": "Clase de lenguaje en PY.",
       "options": [
         {
-          "letter": "D",
-          "text": "Narrativo-lirico con elementos del romance tradicional",
-          "is_correct": true,
-          "feedback": "Correcto. La opción 'Narrativo-lirico con elementos del romance tradicional' responde perfectamente a la consigna del enunciado basándose en las reglas lingüísticas y textuales vigentes."
-        },
-        {
           "letter": "A",
-          "text": "Exclusivamente dramatico",
-          "is_correct": false,
-          "feedback": "Incorrecto. La opción 'Exclusivamente dramatico' no es la adecuada en este contexto ya que no cumple con el criterio solicitado o presenta una confusión teórica común."
+          "text": "El verbo ser seguido del gerundio",
+          "is_correct": true,
+          "feedback": "Es correcta: la construcción pasiva se forma con el auxiliar ser más el gerundio del verbo principal."
         },
         {
           "letter": "B",
-          "text": "Ensayo filosofico en verso",
+          "text": "El verbo haber seguido del gerundio",
           "is_correct": false,
-          "feedback": "Incorrecto. La opción 'Ensayo filosofico en verso' no es la adecuada en este contexto ya que no cumple con el criterio solicitado o presenta una confusión teórica común."
+          "feedback": "Esa construcción forma la voz pasiva refleja y también la pasiva copia, no la pasiva simple."
         },
         {
           "letter": "C",
-          "text": "Poema epico clasico",
+          "text": "El verbo ser seguido del infinitivo",
           "is_correct": false,
-          "feedback": "Incorrecto. La opción 'Poema epico clasico' no es la adecuada en este contexto ya que no cumple con el criterio solicitado o presenta una confusión teórica común."
+          "feedback": "Esa combinación es la perífrasis de obligation, no la voz pasiva."
+        },
+        {
+          "letter": "D",
+          "text": "El verbo estar seguido del gerundio",
+          "is_correct": false,
+          "feedback": "El verbo estar followed de gerundio.Builds una perífrasis aspectual, no la pasiva."
         }
       ],
-      "correct_answer": "D",
-      "explanation": "Lorca utiliza la estructura del romance tradicional para crear un poema narrativo-lirico.\n\n---",
+      "correct_answer": "A",
+      "explanation": "La voz pasiva combina el auxiliar ser con un tiempo no personal del verbo principal, y en español ese tiempo personal no es el gerundio sino el participio.",
       "difficulty": "6",
       "images": [],
       "tags": [],
@@ -414,36 +414,36 @@
     },
     {
       "id": "PY-LEN-11-2026-W07-tema-w07-001-MASTERY-bundle-v10",
-      "statement": "En el Colegio Nacional Caaguazu de Caaguazu, analizando un texto. ¿Cual es la idea principal?",
+      "statement": "En el Colegio Nacional Caaguazu, un texto argumenta sobre el cuidado de un recurso natural. ¿Cuál es la idea principal?",
       "context": "Clase de lenguaje en PY.",
       "options": [
         {
-          "letter": "D",
-          "text": "El agua es esencial para la vida y debe cuidarse",
-          "is_correct": true,
-          "feedback": "Correcto. La opción 'El agua es esencial para la vida y debe cuidarse' responde perfectamente a la consigna del enunciado basándose en las reglas lingüísticas y textuales vigentes."
-        },
-        {
           "letter": "A",
-          "text": "El agua solo se usa para beber",
-          "is_correct": false,
-          "feedback": "Incorrecto. La opción 'El agua solo se usa para beber' no es la adecuada en este contexto ya que no cumple con el criterio solicitado o presenta una confusión teórica común."
+          "text": "Ese recurso debe usarse con cuidado porque es limitado",
+          "is_correct": true,
+          "feedback": "La idea central es que el recurso es escaso y por eso conviene cuidarlo, sin consumirlo sin control."
         },
         {
           "letter": "B",
-          "text": "El agua no es importante",
+          "text": "Ese recurso puede consumirse sin límite",
           "is_correct": false,
-          "feedback": "Incorrecto. La opción 'El agua no es importante' no es la adecuada en este contexto ya que no cumple con el criterio solicitado o presenta una confusión teórica común."
+          "feedback": "Afirmar lo contrario contradice el sentido del texto, que propone un uso responsable."
         },
         {
           "letter": "C",
-          "text": "El agua es un recurso infinito",
+          "text": "Ese recurso solo sirve para la industria",
           "is_correct": false,
-          "feedback": "Incorrecto. La opción 'El agua es un recurso infinito' no es la adecuada en este contexto ya que no cumple con el criterio solicitado o presenta una confusión teórica común."
+          "feedback": "El texto no reduce el recurso a un solo sector: su valor es más amplio que eso."
+        },
+        {
+          "letter": "D",
+          "text": "Ese recurso puede desaparecer sin consecuencias",
+          "is_correct": false,
+          "feedback": "Un recurso que puede desaparecer sin más no requeriría ninguna recomendación de cuidado."
         }
       ],
-      "correct_answer": "D",
-      "explanation": "El texto destaca la importancia del agua como recurso vital.\n\n---",
+      "correct_answer": "A",
+      "explanation": "Identificar la idea principal exige separar el mensaje general del texto de sus ejemplos concretos.\n\n---",
       "difficulty": "6",
       "images": [],
       "tags": [],
@@ -459,36 +459,36 @@
     },
     {
       "id": "PY-LEN-11-2026-W07-tema-w07-001-MASTERY-bundle-v11",
-      "statement": "En una lectura: 'El sol brillaba mientras los pajaros cantaban'. ¿Que funcion cumple?",
+      "statement": "¿Cuál de las oraciones presenta una relación dePurpose correctamente construida?",
       "context": "Clase de lenguaje en PY.",
       "options": [
         {
-          "letter": "B",
-          "text": "Crear una atmosfera o ambiente",
+          "letter": "A",
+          "text": "Estudio para aprobar el examen.",
           "is_correct": true,
-          "feedback": "Correcto. La opción 'Crear una atmosfera o ambiente' responde perfectamente a la consigna del enunciado basándose en las reglas lingüísticas y textuales vigentes."
+          "feedback": "Es correcta: la preposición 'para' introduce la finalidad de la acción principal."
         },
         {
-          "letter": "A",
-          "text": "Presentar un argumento",
+          "letter": "B",
+          "text": "Estudio para que apruebes el examen.",
           "is_correct": false,
-          "feedback": "Incorrecto. La opción 'Presentar un argumento' no es la adecuada en este contexto ya que no cumple con el criterio solicitado o presenta una confusión teórica común."
+          "feedback": "Esta construcción es incorrecta con este sentido: la finalidad con un mismo sujeto se expresa con 'para', no con 'para que'."
         },
         {
           "letter": "C",
-          "text": "Narrar una secuencia",
+          "text": "Estudio con el fin de que apruebes el examen.",
           "is_correct": false,
-          "feedback": "Incorrecto. La opción 'Narrar una secuencia' no es la adecuada en este contexto ya que no cumple con el criterio solicitado o presenta una confusión teórica común."
+          "feedback": "Con esta estructura la finalidad corresponde a otra persona; aquí no concuerda con la intención del hablante."
         },
         {
           "letter": "D",
-          "text": "Describir un dialogo",
+          "text": "Estudio por aprobar el examen.",
           "is_correct": false,
-          "feedback": "Incorrecto. La opción 'Describir un dialogo' no es la adecuada en este contexto ya que no cumple con el criterio solicitado o presenta una confusión teórica común."
+          "feedback": "La preposición 'por' no expresa finalidad, sino causa o medio."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "Las descripciones ayudan a crear la atmosfera en la narracion.\n\n---",
+      "correct_answer": "A",
+      "explanation": "La finalidad se expresa con 'para' cuando el sujeto es el mismo, y con 'para que' cuando la acción obviamente corresponde a otra persona.",
       "difficulty": "8",
       "images": [],
       "tags": [],
@@ -504,36 +504,36 @@
     },
     {
       "id": "PY-LEN-11-2026-W07-tema-w07-001-MASTERY-bundle-v12",
-      "statement": "¿Cual es la funcion del lenguaje en: '¡Feliz cumpleanos!'?",
+      "statement": "¿Qué artículo se emplea ante un sustantivo femenino singular que empieza por vocal?",
       "context": "Clase de lenguaje en PY.",
       "options": [
         {
-          "letter": "D",
-          "text": "Funcion expresiva o emotiva",
-          "is_correct": true,
-          "feedback": "Correcto. La opción 'Funcion expresiva o emotiva' responde perfectamente a la consigna del enunciado basándose en las reglas lingüísticas y textuales vigentes."
-        },
-        {
           "letter": "A",
-          "text": "Funcion referencial",
-          "is_correct": false,
-          "feedback": "Incorrecto. La opción 'Funcion referencial' no es la adecuada en este contexto ya que no cumple con el criterio solicitado o presenta una confusión teórica común."
+          "text": "La",
+          "is_correct": true,
+          "feedback": "Es correcta: ante femenino singular se usa 'la', tanto si la palabra empieza por vocal como por consonante."
         },
         {
           "letter": "B",
-          "text": "Funcion apelativa",
+          "text": "Laa",
           "is_correct": false,
-          "feedback": "Incorrecto. La opción 'Funcion apelativa' no es la adecuada en este contexto ya que no cumple con el criterio solicitado o presenta una confusión teórica común."
+          "feedback": "No existe esa forma: el artículo femenino singular es 'la', sin duplicación."
         },
         {
           "letter": "C",
-          "text": "Funcion metalinguistica",
+          "text": "Loa",
           "is_correct": false,
-          "feedback": "Incorrecto. La opción 'Funcion metalinguistica' no es la adecuada en este contexto ya que no cumple con el criterio solicitado o presenta una confusión teórica común."
+          "feedback": "Esa forma no existe; lo que se usa es 'lo' ante sustantivos, pero no como artículo femenino."
+        },
+        {
+          "letter": "D",
+          "text": "Losa",
+          "is_correct": false,
+          "feedback": "El plural femenino es 'las'; no hay una forma 'losa' en español."
         }
       ],
-      "correct_answer": "D",
-      "explanation": "La funcion expresiva se centra en el emisor y expresa sentimientos.\n\n---",
+      "correct_answer": "A",
+      "explanation": "En español el artículo no vary con el sonido inicial de la palabra que acompaña: el femenino singular es siempre 'la', aunque la palabra empiece por 'a' o 'h' muda.",
       "difficulty": "8",
       "images": [],
       "tags": [],
@@ -549,36 +549,36 @@
     },
     {
       "id": "PY-LEN-11-2026-W07-tema-w07-001-MASTERY-bundle-v13",
-      "statement": "Identifica el conector: Asuncion es hermosa, ____ su gente es acogedora.",
+      "statement": "Une con la relación lógica correcta. ¿Qué conector introduce una idea opuesta a la anterior?",
       "context": "Clase de lenguaje en PY.",
       "options": [
         {
           "letter": "A",
-          "text": "ademas",
+          "text": "Sin embargo",
           "is_correct": true,
-          "feedback": "Correcto. La opción 'ademas' responde perfectamente a la consigna del enunciado basándose en las reglas lingüísticas y textuales vigentes."
+          "feedback": "El conector 'sin embargo' marca contraste, por eso se opone a lo dicho antes."
         },
         {
           "letter": "B",
-          "text": "sin embargo",
+          "text": "Además",
           "is_correct": false,
-          "feedback": "Incorrecto. La opción 'sin embargo' no es la adecuada en este contexto ya que no cumple con el criterio solicitado o presenta una confusión teórica común."
+          "feedback": "Esta palabra concatena ideas de acuerdo, de modo que no se opone a la anterior."
         },
         {
           "letter": "C",
-          "text": "por lo tanto",
+          "text": "Por eso",
           "is_correct": false,
-          "feedback": "Incorrecto. La opción 'por lo tanto' no es la adecuada en este contexto ya que no cumple con el criterio solicitado o presenta una confusión teórica común."
+          "feedback": "Esta expresión expresa una consecuencia, no una contradicción del planteamiento previo."
         },
         {
           "letter": "D",
-          "text": "aunque",
+          "text": "Por lo tanto",
           "is_correct": false,
-          "feedback": "Incorrecto. La opción 'aunque' no es la adecuada en este contexto ya que no cumple con el criterio solicitado o presenta una confusión teórica común."
+          "feedback": "Esta fórmula introduce una conclusión, y no una idea que contradiga a la anterior."
         }
       ],
       "correct_answer": "A",
-      "explanation": "El conector 'ademas' anade informacion.\n\n---",
+      "explanation": "Los conectores de contraste permiten defender una postura que se opone a la expresión previa.\n\n---",
       "difficulty": "8",
       "images": [],
       "tags": [],
@@ -601,25 +601,25 @@
           "letter": "A",
           "text": "Los estudiantes del Colegio Nacional Concepcion estudian mucho.",
           "is_correct": true,
-          "feedback": "Correcto. La opción 'Los estudiantes del Colegio Nacional Concepcion estudian mucho.' responde perfectamente a la consigna del enunciado basándose en las reglas lingüísticas y textuales vigentes."
+          "feedback": "Correcto. Los nombres propios se escriben con mayuscula en cada componente y con la acentuacion que les corresponde: los topicos de Paraguay van con mayuscula y sin tilde, porque son llanas terminadas en 'a', 'o' e 'i'."
         },
         {
           "letter": "B",
           "text": "Los estudiantes de la escuela estudian poco.",
           "is_correct": false,
-          "feedback": "Incorrecto. La opción 'Los estudiantes de la escuela estudian poco.' no es la adecuada en este contexto ya que no cumple con el criterio solicitado o presenta una confusión teórica común."
+          "feedback": "Incorrecto. La oracion esta bien redactada y con buena concordancia, pero 'la escuela' es un nombre comun que puede designar cualquier centro; el enunciado pide el nombre propio completo de la institucion, y aqui no aparece."
         },
         {
           "letter": "C",
           "text": "Los estudiantes del instituto no estudian nada.",
           "is_correct": false,
-          "feedback": "Incorrecto. La opción 'Los estudiantes del instituto no estudian nada.' no es la adecuada en este contexto ya que no cumple con el criterio solicitado o presenta una confusión teórica común."
+          "feedback": "Incorrecto. 'El instituto' vuelve a sustituir el nombre propio por una denominacion generica. La negacion 'no estudian nada' es correcta, pero no aporta el dato que el enunciado evalua."
         },
         {
           "letter": "D",
           "text": "Los estudiantes del instituto estudian mucho.",
           "is_correct": false,
-          "feedback": "Incorrecto. La opción 'Los estudiantes del instituto estudian mucho.' no es la adecuada en este contexto ya que no cumple con el criterio solicitado o presenta una confusión teórica común."
+          "feedback": "Incorrecto. Comparte con la correcta la concordancia y el verbo 'estudian mucho', y se diferencia en un solo punto decisivo: emplea 'el instituto', un nombre comun, en lugar del nombre oficial completo."
         }
       ],
       "correct_answer": "A",
@@ -639,36 +639,36 @@
     },
     {
       "id": "PY-LEN-11-2026-W07-tema-w07-001-MASTERY-bundle-v15",
-      "statement": "En la oracion 'El libro azul es fascinante'. ¿Que funcion cumple la subordinada?",
+      "statement": "¿Qué función sintáctica tiene el infinitivo en la oración 'Deseo aprenderGerman'?",
       "context": "Clase de lenguaje en PY.",
       "options": [
         {
-          "letter": "B",
-          "text": "Adjetiva o de relativo",
+          "letter": "A",
+          "text": "Funciona como objeto directo del verbo 'deseo'",
           "is_correct": true,
-          "feedback": "Correcto. La opción 'Adjetiva o de relativo' responde perfectamente a la consigna del enunciado basándose en las reglas lingüísticas y textuales vigentes."
+          "feedback": "Es correcto: el infinitivo completa directamente al verbo principal y ocupa la posición de objeto directo."
         },
         {
-          "letter": "A",
-          "text": "Sustantiva",
+          "letter": "B",
+          "text": "Funciona como sujeto de la oración",
           "is_correct": false,
-          "feedback": "Incorrecto. La opción 'Sustantiva' no es la adecuada en este contexto ya que no cumple con el criterio solicitado o presenta una confusión teórica común."
+          "feedback": "El sujeto es gramaticalmente el núcleo de la frase; aquí el infinitivo aparece en posición de objeto."
         },
         {
           "letter": "C",
-          "text": "Adverbial",
+          "text": "Funciona como complemento del nombre que lo precede",
           "is_correct": false,
-          "feedback": "Incorrecto. La opción 'Adverbial' no es la adecuada en este contexto ya que no cumple con el criterio solicitado o presenta una confusión teórica común."
+          "feedback": "No hay ningún nombre al que el infinitivo pueda calificar dentro de esta estructura."
         },
         {
           "letter": "D",
-          "text": "Coordinada copulativa",
+          "text": "Funciona como atenuante de la afirmación",
           "is_correct": false,
-          "feedback": "Incorrecto. La opción 'Coordinada copulativa' no es la adecuada en este contexto ya que no cumple con el criterio solicitado o presenta una confusión teórica común."
+          "feedback": "El atenuante aparecería con 'quizá' o 'tal vez', y aquí esa función no aparece."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "Las oraciones subordinadas adjetivas complementan a un nombre.\n\n---",
+      "correct_answer": "A",
+      "explanation": "El infinitivo puede ocupar la posición de objeto directo, de sujeto o de complemento del nombre según el elemento del que dependa, y esa dependencia determina su función.",
       "difficulty": "8",
       "images": [],
       "tags": [],
@@ -684,36 +684,36 @@
     },
     {
       "id": "PY-LEN-11-2026-W07-tema-w07-001-MASTERY-bundle-v16",
-      "statement": "¿Cual de estas palabras lleva tilde segun las reglas de acentuacion?",
+      "statement": "¿Qué género y número tienen los adjetivos que concuerdan con 'manzanas'?",
       "context": "Clase de lenguaje en PY.",
       "options": [
         {
-          "letter": "C",
-          "text": "arbol",
-          "is_correct": true,
-          "feedback": "Correcto. La opción 'arbol' responde perfectamente a la consigna del enunciado basándose en las reglas lingüísticas y textuales vigentes."
-        },
-        {
           "letter": "A",
-          "text": "casa",
-          "is_correct": false,
-          "feedback": "Incorrecto. La opción 'casa' no es la adecuada en este contexto ya que no cumple con el criterio solicitado o presenta una confusión teórica común."
+          "text": "Femenino plural",
+          "is_correct": true,
+          "feedback": "Es correcto: 'manzanas' es femenino plural, de modo que los adjetivos que lo modifican deben compartir esa forma."
         },
         {
           "letter": "B",
-          "text": "calor",
+          "text": "Masculino plural",
           "is_correct": false,
-          "feedback": "Incorrecto. La opción 'calor' no es la adecuada en este contexto ya que no cumple con el criterio solicitado o presenta una confusión teórica común."
+          "feedback": "El género lo determina el sustantivo, que aquí es femenino y no masculino."
+        },
+        {
+          "letter": "C",
+          "text": "Femenino singular",
+          "is_correct": false,
+          "feedback": "El plural del sustantivo se transmite obligatoriamente a los modificadores."
         },
         {
           "letter": "D",
-          "text": "pared",
+          "text": "Neutro plural",
           "is_correct": false,
-          "feedback": "Incorrecto. La opción 'pared' no es la adecuada en este contexto ya que no cumple con el criterio solicitado o presenta una confusión teórica común."
+          "feedback": "El español no tiene género neutro, y el sustantivo determina el género de sus adjetivos."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "Las palabras llanas terminadas en consonante distinta de n/s llevan tilde.\n\n---",
+      "correct_answer": "A",
+      "explanation": "La concordancia adjetival es obligatoria en género y número: los adjetivos que acompañan a un sustantivo toman la forma de ese sustantivo.",
       "difficulty": "8",
       "images": [],
       "tags": [],
@@ -729,36 +729,36 @@
     },
     {
       "id": "PY-LEN-11-2026-W07-tema-w07-001-MASTERY-bundle-v17",
-      "statement": "¿Que figura literaria se emplea en 'tus ojos son dos luceros'?",
+      "statement": "¿Cuál de las oraciones presenta una concordancia correcta con el artículo?",
       "context": "Clase de lenguaje en PY.",
       "options": [
         {
-          "letter": "D",
-          "text": "Metafora",
-          "is_correct": true,
-          "feedback": "Correcto. La opción 'Metafora' responde perfectamente a la consigna del enunciado basándose en las reglas lingüísticas y textuales vigentes."
-        },
-        {
           "letter": "A",
-          "text": "Comparacion",
-          "is_correct": false,
-          "feedback": "Incorrecto. La opción 'Comparacion' no es la adecuada en este contexto ya que no cumple con el criterio solicitado o presenta una confusión teórica común."
+          "text": "Las casas blancas tienen patios amplios.",
+          "is_correct": true,
+          "feedback": "Es correcta: tanto el artículo como el sustantivo, el adjetivo y el verbo concuerdan en femenino plural."
         },
         {
           "letter": "B",
-          "text": "Hiparbole",
+          "text": "La casas blancas tienen patios amplios.",
           "is_correct": false,
-          "feedback": "Incorrecto. La opción 'Hiparbole' no es la adecuada en este contexto ya que no cumple con el criterio solicitado o presenta una confusión teórica común."
+          "feedback": "El artículo y el sustantivo no concuerdan en número: el plural exige 'las'."
         },
         {
           "letter": "C",
-          "text": "Personificacion",
+          "text": "Las casas blanca tienen patios amplios.",
           "is_correct": false,
-          "feedback": "Incorrecto. La opción 'Personificacion' no es la adecuada en este contexto ya que no cumple con el criterio solicitado o presenta una confusión teórica común."
+          "feedback": "El adjetivo está en singular y debe concordar con el sustantivo plural."
+        },
+        {
+          "letter": "D",
+          "text": "Los casa blancas tienen patios amplios.",
+          "is_correct": false,
+          "feedback": "El artículo y el sustantivo no concuerdan en género: 'casa' es femenino y pide 'las'."
         }
       ],
-      "correct_answer": "D",
-      "explanation": "La metafora identifica un termino real con uno imaginario por su semejanza.\n\n---",
+      "correct_answer": "A",
+      "explanation": "La concordancia de artículo y sustantivo es uno de los errores más frecuentes, y afecta a ambos elementos a la vez: si uno cambia, el otro debe cambiar con él.",
       "difficulty": "10",
       "images": [],
       "tags": [],
@@ -774,36 +774,36 @@
     },
     {
       "id": "PY-LEN-11-2026-W07-tema-w07-001-MASTERY-bundle-v18",
-      "statement": "¿Cómo se escribe correctamente en plural la palabra 'árbol' según las reglas de acentuación?",
+      "statement": "¿Qué elemento debe llevar tilde en la palabra 'árbol'?",
       "context": "Clase de lenguaje en PY.",
       "options": [
         {
           "letter": "A",
-          "text": "arboles",
-          "is_correct": false,
-          "feedback": "Incorrecto. La opción 'arboles' no es la adecuada en este contexto ya que no cumple con el criterio solicitado o presenta una confusión teórica común."
-        },
-        {
-          "letter": "D",
-          "text": "árboles",
+          "text": "La 'a'",
           "is_correct": true,
-          "feedback": "Correcto. Al ser una palabra esdrújula, siempre debe llevar tilde."
+          "feedback": "Es correcto: en las palabras agudas terminadas en consonante se acentúa la última vocal, que es la 'a' de este ejemplo."
         },
         {
           "letter": "B",
-          "text": "arbolés",
+          "text": "Ninguna vocal, porque es llana",
           "is_correct": false,
-          "feedback": "Incorrecto. La opción 'arbolés' no es la adecuada en este contexto ya que no cumple con el criterio solicitado o presenta una confusión teórica común."
+          "feedback": "Es aguda terminada en consonante, de modo que la regla de las llanas no se aplica."
         },
         {
           "letter": "C",
-          "text": "árbolé's",
+          "text": "La 'o', porque es la sílaba más abierta",
           "is_correct": false,
-          "feedback": "Incorrecto. La opción 'árbolé's' no es la adecuada en este contexto ya que no cumple con el criterio solicitado o presenta una confusión teórica común."
+          "feedback": "La sílaba tónica es la última, la que contiene la 'a', y no la que contiene la 'o'."
+        },
+        {
+          "letter": "D",
+          "text": "La tilde sobre la consonante final",
+          "is_correct": false,
+          "feedback": "Las tildes se colocan sobre vocales, nunca sobre consonantes."
         }
       ],
-      "correct_answer": "D",
-      "explanation": "Las palabras esdrújulas llevan tilde siempre, sin excepción, en la antepenúltima sílaba.\n\n---",
+      "correct_answer": "A",
+      "explanation": "En las palabras agudas terminadas en consonante la tilde se coloca sobre la última vocal, precisamente para señalar cuál es la sílaba tónica.",
       "difficulty": "10",
       "images": [],
       "tags": [],
@@ -819,36 +819,36 @@
     },
     {
       "id": "PY-LEN-11-2026-W07-tema-w07-001-MASTERY-bundle-v19",
-      "statement": "¿El 'Romance de la luna, luna' de Federico Garcia Lorca es un poema de tipo?",
+      "statement": "¿Cuál es el artículo adecuado ante el sustantivo 'agua'?",
       "context": "Clase de lenguaje en PY.",
       "options": [
         {
           "letter": "A",
-          "text": "Narrativo-lirico con elementos del romance tradicional",
+          "text": "El agua",
           "is_correct": true,
-          "feedback": "Correcto. La opción 'Narrativo-lirico con elementos del romance tradicional' responde perfectamente a la consigna del enunciado basándose en las reglas lingüísticas y textuales vigentes."
+          "feedback": "Es correcta: 'el agua' es una excepción, porque el artículo sigue al género del sustantivo, que es femenino."
         },
         {
           "letter": "B",
-          "text": "Exclusivamente dramatico",
+          "text": "La agua",
           "is_correct": false,
-          "feedback": "Incorrecto. La opción 'Exclusivamente dramatico' no es la adecuada en este contexto ya que no cumple con el criterio solicitado o presenta una confusión teórica común."
+          "feedback": "Es el error más frecuente: el género del agua es femenino, de modo que el artículo correcto es 'el'."
         },
         {
           "letter": "C",
-          "text": "Ensayo filosofico en verso",
+          "text": "Los agua",
           "is_correct": false,
-          "feedback": "Incorrecto. La opción 'Ensayo filosofico en verso' no es la adecuada en este contexto ya que no cumple con el criterio solicitado o presenta una confusión teórica común."
+          "feedback": "El plural sería 'las aguas'; en singular el artículo es 'el'."
         },
         {
           "letter": "D",
-          "text": "Poema epico clasico",
+          "text": "Un agua",
           "is_correct": false,
-          "feedback": "Incorrecto. La opción 'Poema epico clasico' no es la adecuada en este contexto ya que no cumple con el criterio solicitado o presenta una confusión teórica común."
+          "feedback": "El artículo indeterminado solo acompaña a sustantivos masculino singular, y el sustantivo 'agua' es femenino."
         }
       ],
       "correct_answer": "A",
-      "explanation": "Lorca utiliza la estructura del romance tradicional para crear un poema narrativo-lirico.\n\n---",
+      "explanation": "Las palabras que empiezan por 'a' o 'h' muda siguen el género del sustantivo y no el sonido. 'El agua' y 'el área' conservan el artículo masculino.",
       "difficulty": "10",
       "images": [],
       "tags": [],
@@ -871,25 +871,25 @@
           "letter": "B",
           "text": "El agua es esencial para la vida y debe cuidarse",
           "is_correct": true,
-          "feedback": "Correcto. La opción 'El agua es esencial para la vida y debe cuidarse' responde perfectamente a la consigna del enunciado basándose en las reglas lingüísticas y textuales vigentes."
+          "feedback": "Correcto. La idea principal sostiene que el agua es un recurso vital y que hay que cuidarla; las demas opciones recortan ese mensaje o lo contradicen."
         },
         {
           "letter": "A",
           "text": "El agua solo se usa para beber",
           "is_correct": false,
-          "feedback": "Incorrecto. La opción 'El agua solo se usa para beber' no es la adecuada en este contexto ya que no cumple con el criterio solicitado o presenta una confusión teórica común."
+          "feedback": "Incorrecto. Reduce el agua a un solo uso domestico. El texto la presenta como recurso vital para la vida en general, no unicamente como algo con que beber."
         },
         {
           "letter": "C",
           "text": "El agua no es importante",
           "is_correct": false,
-          "feedback": "Incorrecto. La opción 'El agua no es importante' no es la adecuada en este contexto ya que no cumple con el criterio solicitado o presenta una confusión teórica común."
+          "feedback": "Incorrecto. Contradice de frente al texto: si el agua careciera de importancia, no tendria sentido que el texto insistiera en su cuidado. Una idea principal entre las opciones no puede negar lo que el propio texto afirma."
         },
         {
           "letter": "D",
           "text": "El agua es un recurso infinito",
           "is_correct": false,
-          "feedback": "Incorrecto. La opción 'El agua es un recurso infinito' no es la adecuada en este contexto ya que no cumple con el criterio solicitado o presenta una confusión teórica común."
+          "feedback": "Incorrecto. Afirma que el agua es inagotable y con ello borra la necesidad de cuidarla, que es justamente la tesis que el texto sostiene."
         }
       ],
       "correct_answer": "B",

@@ -369,36 +369,36 @@
     },
     {
       "id": "EC-MAT-11-2026-W06-productos-notables-001-MASTERY-bundle-v9",
-      "statement": "¿Cuál es el resultado de multiplicar $(3a - 4b)(3a + 4b)$?",
+      "statement": "¿Cuál es el resultado de multiplicar $(5x + 3)(5x - 3)$?",
       "context": "En la ciudad de Cuenca, un grupo de estudiantes de la Unidad Educativa Bolívar analizan un problema práctico de matemáticas.",
       "options": [
         {
           "letter": "A",
-          "text": "$6a^2 - 8b^2$",
+          "text": "$25x^2 + 9$",
           "is_correct": false,
-          "feedback": "Los coeficientes salen de elevar 3 y 4 al cuadrado, es decir 9 y 16, no de multiplicarlos por 2."
+          "feedback": "La diferencia de cuadrados resta, así que el término de $3$ no puede quedar con signo más."
         },
         {
           "letter": "B",
-          "text": "$9a^2 - 24ab - 16b^2$",
+          "text": "$10x^2 - 18$",
           "is_correct": false,
-          "feedback": "Al desarrollar se restan los términos cruzados $2(3a)(4b)=24ab$, pero en una diferencia de cuadrados esos términos se cancelan."
+          "feedback": "Los coeficientes salen de elevar 5 y 3 al cuadrado, es decir 25 y 9, no de multiplicarlos entre sí."
         },
         {
           "letter": "C",
-          "text": "$9a^2 + 16b^2$",
+          "text": "$25x^2 - 18x + 9$",
           "is_correct": false,
-          "feedback": "Falta el signo menos: la diferencia de cuadrados resta, y el producto $(3a-4b)(3a+4b)$ no puede dar dos cuadrados positivos."
+          "feedback": "Parece un desarrollo completo, pero los términos cruzados $2(5x)(3) = 30x$ se cancelan entre sí y no quedan."
         },
         {
           "letter": "D",
-          "text": "$9a^2 - 16b^2$",
+          "text": "$25x^2 - 9$",
           "is_correct": true,
-          "feedback": "Es una diferencia de cuadrados: $(3a)^2 - (4b)^2 = 9a^2 - 16b^2$."
+          "feedback": "Correcto. Es una diferencia de cuadrados: $(5x)^2 - (3)^2 = 25x^2 - 9$."
         }
       ],
       "correct_answer": "D",
-      "explanation": "Corresponde a un producto de una suma por su diferencia, que da una diferencia de cuadrados: $(3a)^2 - (4b)^2 = 9a^2 - 16b^2$.\n\n---",
+      "explanation": "El producto de una suma por su diferencia es una diferencia de cuadrados. Agrupando, $(5x + 3)(5x - 3) = (5x)^2 - (3)^2 = 25x^2 - 9$. Los términos cruzados se anulan entre sí, y por eso no aparece ningún término con $x$ en el resultado.\n\n---",
       "difficulty": "6",
       "images": [],
       "tags": [],
