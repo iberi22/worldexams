@@ -13,12 +13,6 @@
       "context": "Clase de ciencias sociales en San Salvador estudiando desarrollo sostenible.",
       "options": [
         {
-          "letter": "D",
-          "text": "La Constitución",
-          "is_correct": true,
-          "feedback": "Correcto: la Constitución es la norma suprema que establece la organización del Estado y los derechos de los ciudadanos."
-        },
-        {
           "letter": "A",
           "text": "Una ley ordinaria",
           "is_correct": false,
@@ -35,6 +29,12 @@
           "text": "Un tratado internacional",
           "is_correct": false,
           "feedback": "un tratado obliga a dos o más países entre sí y no se ocupa de la organización interna de un Estado."
+        },
+        {
+          "letter": "D",
+          "text": "La Constitución",
+          "is_correct": true,
+          "feedback": "Correcto: la Constitución es la norma suprema que establece la organización del Estado y los derechos de los ciudadanos."
         }
       ],
       "correct_answer": "D",
@@ -58,16 +58,16 @@
       "context": "Clase de ciencias sociales en Santa Ana estudiando desarrollo sostenible.",
       "options": [
         {
-          "letter": "B",
-          "text": "Urbanización masiva y nuevas clases sociales",
-          "is_correct": true,
-          "feedback": "Correcto: las fábricas concentraron el trabajo en las ciudades, lo que provocó una urbanización masiva y el surgimiento de nuevas clases sociales, como la burguesía industrial y el proletariado."
-        },
-        {
           "letter": "A",
           "text": "Retorno a la vida agrícola",
           "is_correct": false,
           "feedback": "ocurrió justo lo contrario: los trabajadores pasaron de los campos a las fábricas y la sociedad se hizo más urbana."
+        },
+        {
+          "letter": "B",
+          "text": "Urbanización masiva y nuevas clases sociales",
+          "is_correct": true,
+          "feedback": "Correcto: las fábricas concentraron el trabajo en las ciudades, lo que provocó una urbanización masiva y el surgimiento de nuevas clases sociales, como la burguesía industrial y el proletariado."
         },
         {
           "letter": "C",
@@ -103,16 +103,16 @@
       "context": "Clase de ciencias sociales en San Miguel estudiando desarrollo sostenible.",
       "options": [
         {
-          "letter": "B",
-          "text": "Derechos humanos fundamentales",
-          "is_correct": true,
-          "feedback": "Correcto: la Constitución reconoce los derechos humanos fundamentales de todas las personas, como la vida, la igualdad y la libertad."
-        },
-        {
           "letter": "A",
           "text": "Solo derechos de propiedad",
           "is_correct": false,
           "feedback": "la propiedad es uno de los derechos, pero una Constitución democrática no se limita a protegerla."
+        },
+        {
+          "letter": "B",
+          "text": "Derechos humanos fundamentales",
+          "is_correct": true,
+          "feedback": "Correcto: la Constitución reconoce los derechos humanos fundamentales de todas las personas, como la vida, la igualdad y la libertad."
         },
         {
           "letter": "C",
@@ -234,36 +234,36 @@
     },
     {
       "id": "SV-SOC-11-2026-W35-desarrollo-sostenible-001-MASTERY-bundle-v6",
-      "statement": "¿Qué documento establece la organización del Estado?",
+      "statement": "¿Cuál de los Objetivos de Desarrollo Sostenible se ocupa de poner fin a la pobreza en todas sus formas?",
       "context": "Clase de ciencias sociales en Mejicanos estudiando desarrollo sostenible.",
       "options": [
         {
           "letter": "A",
-          "text": "La Constitución",
+          "text": "ODS 1",
           "is_correct": true,
-          "feedback": "Correcto: la Constitución es la norma suprema que establece la organización del Estado y los derechos de los ciudadanos."
+          "feedback": "Correcto: el ODS 1 se llama fin de la pobreza y ordena eliminar la pobreza en todas sus formas y en todo el mundo."
         },
         {
           "letter": "B",
-          "text": "Una ley ordinaria",
+          "text": "ODS 2",
           "is_correct": false,
-          "feedback": "una ley ordinaria regula un aspecto concreto, pero no es la norma que estructura los poderes del Estado."
+          "feedback": "El ODS 2 se llama hambre cero y se ocupa de la seguridad alimentaria, no de la pobreza."
         },
         {
           "letter": "C",
-          "text": "Un decreto presidencial",
+          "text": "ODS 8",
           "is_correct": false,
-          "feedback": "un decreto es la orden del presidente que aplica una ley; por sí solo no organiza al Estado."
+          "feedback": "El ODS 8 trata del trabajo decente y del crecimiento económico, un objetivo distinto del fin de la pobreza."
         },
         {
           "letter": "D",
-          "text": "Un tratado internacional",
+          "text": "ODS 13",
           "is_correct": false,
-          "feedback": "un tratado obliga a dos o más países entre sí y no se ocupa de la organización interna de un Estado."
+          "feedback": "El ODS 13 es acción por el clima y se ocupa de las emisiones y de la adaptación, no de la pobreza."
         }
       ],
       "correct_answer": "A",
-      "explanation": "La Constitución es la norma suprema que organiza el Estado y garantiza derechos.",
+      "explanation": "El primer objetivo de la Agenda 2030 se titula fin de la pobreza: busca reducir a cero la pobreza en todas sus formas, incluida la pobreza extrema, y abordarla en sus distintas dimensiones.",
       "difficulty": "6",
       "images": [],
       "tags": [],
@@ -279,36 +279,36 @@
     },
     {
       "id": "SV-SOC-11-2026-W35-desarrollo-sostenible-001-MASTERY-bundle-v7",
-      "statement": "¿Cómo cambió la Revolución Industrial la sociedad del siglo XIX?",
+      "statement": "¿Qué mide la huella de carbono de una actividad económica?",
       "context": "Clase de ciencias sociales en Soyapango estudiando desarrollo sostenible.",
       "options": [
         {
-          "letter": "D",
-          "text": "Urbanización masiva y nuevas clases sociales",
-          "is_correct": true,
-          "feedback": "Correcto: las fábricas concentraron el trabajo en las ciudades, lo que provocó una urbanización masiva y el surgimiento de nuevas clases sociales, como la burguesía industrial y el proletariado."
-        },
-        {
           "letter": "A",
-          "text": "Retorno a la vida agrícola",
-          "is_correct": false,
-          "feedback": "ocurrió justo lo contrario: los trabajadores pasaron de los campos a las fábricas y la sociedad se hizo más urbana."
+          "text": "Gases de efecto invernadero",
+          "is_correct": true,
+          "feedback": "Correcto: la huella de carbono mide la cantidad de gases de efecto invernadero que una actividad libera a la atmosfera."
         },
         {
           "letter": "B",
-          "text": "Disminución del comercio global",
+          "text": "Residuos solidos",
           "is_correct": false,
-          "feedback": "ocurrió lo contrario: el comercio mundial creció con las materias primas y los productos industriales."
+          "feedback": "Los residuos solidos se miden con el indicador de generación de basura, que es otra cosa distinta."
         },
         {
           "letter": "C",
-          "text": "Eliminación del trabajo manual",
+          "text": "Consumo de agua",
           "is_correct": false,
-          "feedback": "el trabajo manual aumentó con las fábricas, las vías y las ciudades; no llegó a eliminarse."
+          "feedback": "El consumo de agua se mide en litros por habitante, no en emisiones de carbono."
+        },
+        {
+          "letter": "D",
+          "text": "Deforestacion",
+          "is_correct": false,
+          "feedback": "La deforestacion se mide en hectareas de bosque perdidas; forma parte del impacto ambiental, pero no de la huella de carbono."
         }
       ],
-      "correct_answer": "D",
-      "explanation": "La Revolución Industrial causó migración a ciudades y creó nuevas clases sociales.",
+      "correct_answer": "A",
+      "explanation": "La huella de carbono expresa la cantidad de gases de efecto invernadero, sobre todo dioxido de carbono, que se liberan al producir, transportar o usar un bien o servicio. Es la base de la contribucion de un pais al calentamiento global.",
       "difficulty": "6",
       "images": [],
       "tags": [],
@@ -324,36 +324,36 @@
     },
     {
       "id": "SV-SOC-11-2026-W35-desarrollo-sostenible-001-MASTERY-bundle-v8",
-      "statement": "¿Qué derechos protegen la Constitución de un país democrático?",
+      "statement": "¿Cual de estas fuentes de energia se considera renovable porque se repone de manera natural?",
       "context": "Clase de ciencias sociales en San Salvador estudiando desarrollo sostenible.",
       "options": [
         {
-          "letter": "B",
-          "text": "Derechos humanos fundamentales",
-          "is_correct": true,
-          "feedback": "Correcto: la Constitución reconoce los derechos humanos fundamentales de todas las personas, como la vida, la igualdad y la libertad."
+          "letter": "A",
+          "text": "Petroleo",
+          "is_correct": false,
+          "feedback": "El petroleo es un combustible fosil: se forma en millones de anos y no se repone a escala humana."
         },
         {
-          "letter": "A",
-          "text": "Solo derechos de propiedad",
+          "letter": "B",
+          "text": "Carbon",
           "is_correct": false,
-          "feedback": "la propiedad es uno de los derechos, pero una Constitución democrática no se limita a protegerla."
+          "feedback": "El carbon es un recurso fosil agotable, formado en el Carbonifero, y no se renueva."
         },
         {
           "letter": "C",
-          "text": "Únicamente derechos políticos",
-          "is_correct": false,
-          "feedback": "los derechos políticos son solo una parte; también existen derechos civiles, sociales y económicos."
+          "text": "Solar",
+          "is_correct": true,
+          "feedback": "Correcto: la radiacion solar llega de forma continua a la superficie terrestre, de modo que la energia solar es renovable."
         },
         {
           "letter": "D",
-          "text": "Derechos exclusivos del gobierno",
+          "text": "Gas natural",
           "is_correct": false,
-          "feedback": "los derechos son de las personas y limitan al poder, no son privilegio exclusivo del gobierno."
+          "feedback": "El gas natural procede de yacimientos de gas formed en el subsuelo y es un recurso no renovable."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "Las constituciones democráticas protegen derechos humanos fundamentales.",
+      "correct_answer": "C",
+      "explanation": "Una fuente es renovable cuando el recurso se regenera en un plazo corto frente a su consumo. La solar y la eolica cumplen esa condicion; el carbon, el petroleo y el gas natural son combustibles fosiles que tardan millones de anos en formarse.",
       "difficulty": "6",
       "images": [],
       "tags": [],
@@ -369,36 +369,36 @@
     },
     {
       "id": "SV-SOC-11-2026-W35-desarrollo-sostenible-001-MASTERY-bundle-v9",
-      "statement": "Si un país exporta más de lo que importa, ¿qué tiene?",
+      "statement": "En una vivienda, ¿cual de estas practicas reduce el consumo domestico de agua?",
       "context": "Clase de ciencias sociales en Soyapango estudiando desarrollo sostenible.",
       "options": [
         {
-          "letter": "D",
-          "text": "Superávit comercial",
-          "is_correct": true,
-          "feedback": "Correcto: si un país exporta más de lo que importa, la diferencia entre ambas cifras es un superávit comercial."
-        },
-        {
           "letter": "A",
-          "text": "Déficit comercial",
+          "text": "Dejar el grifo abierto",
           "is_correct": false,
-          "feedback": "el déficit aparece cuando las importaciones superan a las exportaciones, que es el caso contrario al del enunciado."
+          "feedback": "Un grifo abierto de forma continua multiplica el consumo de agua sin aportar ningun uso util."
         },
         {
           "letter": "B",
-          "text": "Balanza equilibrada",
+          "text": "Lavar el coche con manguera",
           "is_correct": false,
-          "feedback": "la balanza solo está equilibrada cuando las exportaciones y las importaciones son iguales."
+          "feedback": "La manguera abierta desperdicia galones de agua por minuto frente a un lavado con cubo y esponja."
         },
         {
           "letter": "C",
-          "text": "Crisis económica",
+          "text": "Cerrar el grifo al cepillarse",
+          "is_correct": true,
+          "feedback": "Correcto: cerrar el grifo mientras se cepillan los dientes evita que el agua corra sin necesidad durante dos o tres minutos."
+        },
+        {
+          "letter": "D",
+          "text": "Regar al mediodía",
           "is_correct": false,
-          "feedback": "un superávit describe un resultado favorable del comercio exterior, no una crisis."
+          "feedback": "Regar a plena luz del sol aumenta la evaporacion y reduce la cantidad de agua que llega a las raices."
         }
       ],
-      "correct_answer": "D",
-      "explanation": "Exportar más que importar genera superávit comercial favorable.",
+      "correct_answer": "C",
+      "explanation": "El uso domestico del agua puede reducirse con habitos sencillos: cerrar el grifo, arreglar fugas, lavar el vehiculo con cubo y esponja, y reutilizar el agua de la regadera para limpiar. El objetivo 6 de la Agenda 2030 pide el uso eficiente de los recursos hidricos y el saneamiento seguro para toda la poblacion.",
       "difficulty": "6",
       "images": [],
       "tags": [],
@@ -414,36 +414,36 @@
     },
     {
       "id": "SV-SOC-11-2026-W35-desarrollo-sostenible-001-MASTERY-bundle-v10",
-      "statement": "¿Cuál fue una causa importante de la Primera Guerra Mundial?",
+      "statement": "En el ambito del consumo responsable, ¿cual de estas acciones reduce la cantidad de residuos solidos?",
       "context": "Clase de ciencias sociales en Soyapango estudiando desarrollo sostenible.",
       "options": [
         {
-          "letter": "B",
-          "text": "El asesinato del Archiduque Francisco Fernando",
-          "is_correct": true,
-          "feedback": "Correcto: el asesinato del Archiduque en Sarajevo en 1914 fue la chispa que inició la Primera Guerra Mundial."
+          "letter": "A",
+          "text": "Quemar a cielo abierto",
+          "is_correct": false,
+          "feedback": "Quemar basura a cielo abierto libera humos toxicos y no evita la generacion de residuos."
         },
         {
-          "letter": "A",
-          "text": "El Tratado de Versalles",
+          "letter": "B",
+          "text": "Usar bolsa de plastico",
           "is_correct": false,
-          "feedback": "se firmó en 1919 para cerrar la guerra, de modo que fue una consecuencia y no una causa del conflicto."
+          "feedback": "La bolsa de plastico de un solo uso dura minutos y aumenta el volumen de residuo que llega al relleno sanitario."
         },
         {
           "letter": "C",
-          "text": "La Revolución Rusa",
+          "text": "Comprar sin lista",
           "is_correct": false,
-          "feedback": "se produjo en 1917, cuando la guerra ya había empezado, así que no pudo causarla."
+          "feedback": "Comprar sin planificacion favorece productos innecesarios y, con ellos, mas envase y mas residuo."
         },
         {
           "letter": "D",
-          "text": "La invención del avión",
-          "is_correct": false,
-          "feedback": "el avión fue un avance técnico de la época, no una causa política que provocara el conflicto armado."
+          "text": "Reciclar",
+          "is_correct": true,
+          "feedback": "Correcto: reciclar devuelve materiales como el papel, el vidrio o el metal al ciclo de produccion y evita que lleguen al relleno sanitario."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "El asesinato en Sarajevo (1914) desencadenó el sistema de alianzas que llevó a la guerra.",
+      "correct_answer": "D",
+      "explanation": "El objetivo 12 de la Agenda 2030 pide una produccion y un consumo responsables. Medidas como reciclar, reducir el envase, reparar en lugar de reemplazar y compostar los residuos organicos cortan la cadena de residuos antes de que se conviertan en contaminacion.",
       "difficulty": "6",
       "images": [],
       "tags": [],
@@ -459,36 +459,36 @@
     },
     {
       "id": "SV-SOC-11-2026-W35-desarrollo-sostenible-001-MASTERY-bundle-v11",
-      "statement": "¿Qué documento establece la organización del Estado?",
+      "statement": "Segun la Agenda 2030, ¿cuales son las tres dimensiones del desarrollo sostenible?",
       "context": "Clase de ciencias sociales en Santa Ana estudiando desarrollo sostenible.",
       "options": [
         {
           "letter": "A",
-          "text": "La Constitución",
+          "text": "Economica, social y ambiental",
           "is_correct": true,
-          "feedback": "Correcto: la Constitución es la norma suprema que establece la organización del Estado y los derechos de los ciudadanos."
+          "feedback": "Correcto: el desarrollo sostenible equilibra la riqueza economica, la justicia social y el cuidado del ambiente."
         },
         {
           "letter": "B",
-          "text": "Una ley ordinaria",
+          "text": "Militar, politica y religiosa",
           "is_correct": false,
-          "feedback": "una ley ordinaria regula un aspecto concreto, pero no es la norma que estructura los poderes del Estado."
+          "feedback": "Ninguna de esas tres dimensiones pertenece a la definicion de desarrollo sostenible."
         },
         {
           "letter": "C",
-          "text": "Un decreto presidencial",
+          "text": "Urbana, agricola e industrial",
           "is_correct": false,
-          "feedback": "un decreto es la orden del presidente que aplica una ley; por sí solo no organiza al Estado."
+          "feedback": "Esas son formas de actividad economica, no las dimensiones del desarrollo sostenible."
         },
         {
           "letter": "D",
-          "text": "Un tratado internacional",
+          "text": "Juridica, sanitaria y educativa",
           "is_correct": false,
-          "feedback": "un tratado obliga a dos o más países entre sí y no se ocupa de la organización interna de un Estado."
+          "feedback": "Son areas sectoriales del Estado, no las tres dimensiones que definen el desarrollo sostenible."
         }
       ],
       "correct_answer": "A",
-      "explanation": "La Constitución es la norma suprema que organiza el Estado y garantiza derechos.",
+      "explanation": "El desarrollo sostenible se sostiene en tres dimensiones que se refuerzan entre si: la economica, que genera medios de vida; la social, que garantiza acceso a salud, educacion e igualdad; y la ambiental, que conserva los recursos naturales. Ninguna puede crecer a costa de las otras.",
       "difficulty": "8",
       "images": [],
       "tags": [],
@@ -504,36 +504,36 @@
     },
     {
       "id": "SV-SOC-11-2026-W35-desarrollo-sostenible-001-MASTERY-bundle-v12",
-      "statement": "¿Cómo cambió la Revolución Industrial la sociedad del siglo XIX?",
+      "statement": "Un municipio recupera un rio urbano. ¿Que resultado muestra mejor que el proyecto fue sostenible?",
       "context": "Clase de ciencias sociales en Mejicanos estudiando desarrollo sostenible.",
       "options": [
         {
-          "letter": "C",
-          "text": "Urbanización masiva y nuevas clases sociales",
-          "is_correct": true,
-          "feedback": "Correcto: las fábricas concentraron el trabajo en las ciudades, lo que provocó una urbanización masiva y el surgimiento de nuevas clases sociales, como la burguesía industrial y el proletariado."
-        },
-        {
           "letter": "A",
-          "text": "Retorno a la vida agrícola",
+          "text": "Que aumento el costo de la obra",
           "is_correct": false,
-          "feedback": "ocurrió justo lo contrario: los trabajadores pasaron de los campos a las fábricas y la sociedad se hizo más urbana."
+          "feedback": "El costo es un dato financiero, no una medida de sostenibilidad del proyecto ambiental."
         },
         {
           "letter": "B",
-          "text": "Disminución del comercio global",
+          "text": "Mejoria del agua y participacion ciudadana",
+          "is_correct": true,
+          "feedback": "Correcto: el proyecto combina la recuperacion del ecosistema con la participacion de la comunidad, que es la dimension social de la sostenibilidad."
+        },
+        {
+          "letter": "C",
+          "text": "Que la obra termino antes de lo previsto",
           "is_correct": false,
-          "feedback": "ocurrió lo contrario: el comercio mundial creció con las materias primas y los productos industriales."
+          "feedback": "Adelantar el plazo dice algo de la gestion, pero no de la sostenibilidad del rio recuperado."
         },
         {
           "letter": "D",
-          "text": "Eliminación del trabajo manual",
+          "text": "Que el rio quedo mas recto",
           "is_correct": false,
-          "feedback": "el trabajo manual aumentó con las fábricas, las vías y las ciudades; no llegó a eliminarse."
+          "feedback": "La forma del cauce es un criterio de obra, no un indicador de sostenibilidad social y ambiental."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "La Revolución Industrial causó migración a ciudades y creó nuevas clases sociales.",
+      "correct_answer": "B",
+      "explanation": "Un proyecto es sostenible cuando mejora el ambiente sin perjudicar la vida de las personas y con la comunidad informada en la toma de decisiones. Recuperar un rio que ademas genera participacion ciudadana cumple las dimensiones ambiental y social a la vez.",
       "difficulty": "8",
       "images": [],
       "tags": [],
@@ -549,36 +549,36 @@
     },
     {
       "id": "SV-SOC-11-2026-W35-desarrollo-sostenible-001-MASTERY-bundle-v13",
-      "statement": "¿Qué derechos protegen la Constitución de un país democrático?",
+      "statement": "¿Cual de los siguientes es un recurso natural no renovable?",
       "context": "Clase de ciencias sociales en Soyapango estudiando desarrollo sostenible.",
       "options": [
         {
-          "letter": "B",
-          "text": "Derechos humanos fundamentales",
-          "is_correct": true,
-          "feedback": "Correcto: la Constitución reconoce los derechos humanos fundamentales de todas las personas, como la vida, la igualdad y la libertad."
+          "letter": "A",
+          "text": "Bosque",
+          "is_correct": false,
+          "feedback": "El bosque se repone con el crecimiento de los arboles, de modo que es un recurso renovable."
         },
         {
-          "letter": "A",
-          "text": "Solo derechos de propiedad",
-          "is_correct": false,
-          "feedback": "la propiedad es uno de los derechos, pero una Constitución democrática no se limita a protegerla."
+          "letter": "B",
+          "text": "Petroleo",
+          "is_correct": true,
+          "feedback": "Correcto: el petroleo se forma en millones de anos bajo tierra y, al extraerse, no se repone en la escala de una vida humana."
         },
         {
           "letter": "C",
-          "text": "Únicamente derechos políticos",
+          "text": "Agua de lluvia",
           "is_correct": false,
-          "feedback": "los derechos políticos son solo una parte; también existen derechos civiles, sociales y económicos."
+          "feedback": "El ciclo del agua repone continuamente los mantos freaticos y las fuentes de agua dulce."
         },
         {
           "letter": "D",
-          "text": "Derechos exclusivos del gobierno",
+          "text": "Viento",
           "is_correct": false,
-          "feedback": "los derechos son de las personas y limitan al poder, no son privilegio exclusivo del gobierno."
+          "feedback": "El viento se renueva de manera continua por el movimiento del aire, asi que es una fuente renovable."
         }
       ],
       "correct_answer": "B",
-      "explanation": "Las constituciones democráticas protegen derechos humanos fundamentales.",
+      "explanation": "Un recurso es no renovable cuando su formacion geologica requiere periodos mucho mas largos que los de su uso. El petroleo, el carbon y el gas natural son los tres casos clasicos. Los bosques, el agua y el viento se regeneran a escala humana y se consideran renovables.",
       "difficulty": "8",
       "images": [],
       "tags": [],
@@ -594,36 +594,36 @@
     },
     {
       "id": "SV-SOC-11-2026-W35-desarrollo-sostenible-001-MASTERY-bundle-v14",
-      "statement": "Si un país exporta más de lo que importa, ¿qué tiene?",
+      "statement": "En una comunidad, ¿por que es importante fortalecer el consumo local de alimentos?",
       "context": "Clase de ciencias sociales en San Miguel estudiando desarrollo sostenible.",
       "options": [
         {
-          "letter": "C",
-          "text": "Superávit comercial",
-          "is_correct": true,
-          "feedback": "Correcto: si un país exporta más de lo que importa, la diferencia entre ambas cifras es un superávit comercial."
-        },
-        {
           "letter": "A",
-          "text": "Déficit comercial",
+          "text": "Porque siempre es mas barato",
           "is_correct": false,
-          "feedback": "el déficit aparece cuando las importaciones superan a las exportaciones, que es el caso contrario al del enunciado."
+          "feedback": "Los productos locales no son siempre mas baratos: pueden costar mas por su menor escala de produccion."
         },
         {
           "letter": "B",
-          "text": "Balanza equilibrada",
+          "text": "Porque elimina toda la contaminacion",
           "is_correct": false,
-          "feedback": "la balanza solo está equilibrada cuando las exportaciones y las importaciones son iguales."
+          "feedback": "El consumo local reduce recorridos, pero no elimina la contaminacion que produce la propia produccion."
+        },
+        {
+          "letter": "C",
+          "text": "Porque apoya a productores y reduce emisiones",
+          "is_correct": true,
+          "feedback": "Correcto: comprar a productores de la zona deja el valor en la comunidad y acorta el transporte de los alimentos."
         },
         {
           "letter": "D",
-          "text": "Crisis económica",
+          "text": "Porque sustituye las normas sanitarias",
           "is_correct": false,
-          "feedback": "un superávit describe un resultado favorable del comercio exterior, no una crisis."
+          "feedback": "El consumo local no reemplaza los controles sanitarios, que siguen siendo obligatorios para todos."
         }
       ],
       "correct_answer": "C",
-      "explanation": "Exportar más que importar genera superávit comercial favorable.",
+      "explanation": "Cuando una comunidad compra alimentos de sus propios productores, el dinero circula dentro de la economia local y se reducen las distancias de transporte y las emisiones asociadas. Es una de las medidas que el objetivo 12 vincula con la produccion y el consumo responsables.",
       "difficulty": "8",
       "images": [],
       "tags": [],
@@ -639,36 +639,36 @@
     },
     {
       "id": "SV-SOC-11-2026-W35-desarrollo-sostenible-001-MASTERY-bundle-v15",
-      "statement": "¿Cuál fue una causa importante de la Primera Guerra Mundial?",
+      "statement": "¿Que acuerdo internacional marco la ruta de la accion por el clima?",
       "context": "Clase de ciencias sociales en Santa Ana estudiando desarrollo sostenible.",
       "options": [
         {
-          "letter": "C",
-          "text": "El asesinato del Archiduque Francisco Fernando",
-          "is_correct": true,
-          "feedback": "Correcto: el asesinato del Archiduque en Sarajevo en 1914 fue la chispa que inició la Primera Guerra Mundial."
-        },
-        {
           "letter": "A",
-          "text": "El Tratado de Versalles",
-          "is_correct": false,
-          "feedback": "se firmó en 1919 para cerrar la guerra, de modo que fue una consecuencia y no una causa del conflicto."
+          "text": "Acuerdo de Paris",
+          "is_correct": true,
+          "feedback": "Correcto: el Acuerdo de Paris, adoptado en 2015, fijo el objetivo de limitar el calentamiento global muy por debajo de dos grados."
         },
         {
           "letter": "B",
-          "text": "La Revolución Rusa",
+          "text": "Carta de la Tierra",
           "is_correct": false,
-          "feedback": "se produjo en 1917, cuando la guerra ya había empezado, así que no pudo causarla."
+          "feedback": "La Carta de la Tierra es un documento de principios ambientales de 1987, no un tratado climatico."
+        },
+        {
+          "letter": "C",
+          "text": "Tratado de Versalles",
+          "is_correct": false,
+          "feedback": "El Tratado de Versalles cerraba la Primera Guerra Mundial en 1919 y no tiene relacion con el clima."
         },
         {
           "letter": "D",
-          "text": "La invención del avión",
+          "text": "Pacto de San Jose",
           "is_correct": false,
-          "feedback": "el avión fue un avance técnico de la época, no una causa política que provocara el conflicto armado."
+          "feedback": "El Pacto de San Jose se firmo en 1948 para la cooperacion militar regional, no para el clima."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "El asesinato en Sarajevo (1914) desencadenó el sistema de alianzas que llevó a la guerra.",
+      "correct_answer": "A",
+      "explanation": "El Acuerdo de Paris, firmado en 2015 por casi todos los paises, es el marco internacional que coordina la accion frente al cambio climatico. Cada pais presenta sus propias contribuciones voluntarias para reducir emisiones y adaptarse a los efectos ya inevitables.",
       "difficulty": "8",
       "images": [],
       "tags": [],
@@ -684,36 +684,36 @@
     },
     {
       "id": "SV-SOC-11-2026-W35-desarrollo-sostenible-001-MASTERY-bundle-v16",
-      "statement": "¿Qué documento establece la organización del Estado?",
+      "statement": "¿Que significa que una politica de desarrollo sea sostenible en el tiempo?",
       "context": "Clase de ciencias sociales en San Miguel estudiando desarrollo sostenible.",
       "options": [
         {
-          "letter": "D",
-          "text": "La Constitución",
-          "is_correct": true,
-          "feedback": "Correcto: la Constitución es la norma suprema que establece la organización del Estado y los derechos de los ciudadanos."
-        },
-        {
           "letter": "A",
-          "text": "Una ley ordinaria",
+          "text": "Que se aplica en un solo periodo electoral",
           "is_correct": false,
-          "feedback": "una ley ordinaria regula un aspecto concreto, pero no es la norma que estructura los poderes del Estado."
+          "feedback": "Una politica de un solo periodo puede agotar los recursos que la siguiente administracion necesitara."
         },
         {
           "letter": "B",
-          "text": "Un decreto presidencial",
+          "text": "Que aumenta la deuda sin limite",
           "is_correct": false,
-          "feedback": "un decreto es la orden del presidente que aplica una ley; por sí solo no organiza al Estado."
+          "feedback": "Una deuda que crece sin control hipotecca la capacidad de las generaciones futuras, no la asegura."
         },
         {
           "letter": "C",
-          "text": "Un tratado internacional",
+          "text": "Que no agota los recursos de las futuras generaciones",
+          "is_correct": true,
+          "feedback": "Correcto: una politica es sostenible en el tiempo cuando las decisiones de hoy dejan a las siguientes generaciones al menos los mismos recursos."
+        },
+        {
+          "letter": "D",
+          "text": "Que solo mide el beneficio inmediato",
           "is_correct": false,
-          "feedback": "un tratado obliga a dos o más países entre sí y no se ocupa de la organización interna de un Estado."
+          "feedback": "Medir solo el beneficio inmediato es justamente lo contrario de mirar el largo plazo."
         }
       ],
-      "correct_answer": "D",
-      "explanation": "La Constitución es la norma suprema que organiza el Estado y garantiza derechos.",
+      "correct_answer": "C",
+      "explanation": "La idea de sostenibilidad temporal es que una decision no debe consumir recursos mas rapido de lo que pueden regenerarse. Si una politica deja a las siguientes generaciones menos agua, suelo o capital que antes, no es sostenible aunque hoy parezca rentable.",
       "difficulty": "8",
       "images": [],
       "tags": [],
@@ -729,36 +729,36 @@
     },
     {
       "id": "SV-SOC-11-2026-W35-desarrollo-sostenible-001-MASTERY-bundle-v17",
-      "statement": "¿Cómo cambió la Revolución Industrial la sociedad del siglo XIX?",
+      "statement": "En el ambito de la economia circular, ¿cual es la diferencia central frente a la economia lineal?",
       "context": "Clase de ciencias sociales en San Salvador estudiando desarrollo sostenible.",
       "options": [
         {
           "letter": "A",
-          "text": "Urbanización masiva y nuevas clases sociales",
+          "text": "Reutiliza los materiales",
           "is_correct": true,
-          "feedback": "Correcto: las fábricas concentraron el trabajo en las ciudades, lo que provocó una urbanización masiva y el surgimiento de nuevas clases sociales, como la burguesía industrial y el proletariado."
+          "feedback": "Correcto: la economia circular mantiene los materiales en uso el mayor tiempo posible, en vez de desecharlos tras un solo uso."
         },
         {
           "letter": "B",
-          "text": "Retorno a la vida agrícola",
+          "text": "Vende productos mas caros",
           "is_correct": false,
-          "feedback": "ocurrió justo lo contrario: los trabajadores pasaron de los campos a las fábricas y la sociedad se hizo más urbana."
+          "feedback": "El precio no define el modelo: la economia circular se caracteriza por el uso prolongado de los materiales."
         },
         {
           "letter": "C",
-          "text": "Disminución del comercio global",
+          "text": "Usa mas energia",
           "is_correct": false,
-          "feedback": "ocurrió lo contrario: el comercio mundial creció con las materias primas y los productos industriales."
+          "feedback": "La economia circular suele reducir el consumo de energia que exige producir materiales nuevos desde cero."
         },
         {
           "letter": "D",
-          "text": "Eliminación del trabajo manual",
+          "text": "Depende solo del Estado",
           "is_correct": false,
-          "feedback": "el trabajo manual aumentó con las fábricas, las vías y las ciudades; no llegó a eliminarse."
+          "feedback": "La circularidad es un modelo de produccion y consumo: involucra empresas, consumidores y normas, no solo al gobierno."
         }
       ],
       "correct_answer": "A",
-      "explanation": "La Revolución Industrial causó migración a ciudades y creó nuevas clases sociales.",
+      "explanation": "La economia lineal extrae, produce, consume y descarta. La circular rompe ese ciclo con el reciclaje, la reparacion, la reutilizacion y el rediseño de productos. De ahi viene el lema de reparar, reusar y reciclar, en ese orden de preferencia.",
       "difficulty": "10",
       "images": [],
       "tags": [],
@@ -774,36 +774,36 @@
     },
     {
       "id": "SV-SOC-11-2026-W35-desarrollo-sostenible-001-MASTERY-bundle-v18",
-      "statement": "¿Qué derechos protegen la Constitución de un país democrático?",
+      "statement": "¿Que cambio introduce el objetivo 6 de la Agenda 2030 sobre el agua?",
       "context": "Clase de ciencias sociales en Mejicanos estudiando desarrollo sostenible.",
       "options": [
         {
-          "letter": "C",
-          "text": "Derechos humanos fundamentales",
-          "is_correct": true,
-          "feedback": "Correcto: la Constitución reconoce los derechos humanos fundamentales de todas las personas, como la vida, la igualdad y la libertad."
-        },
-        {
           "letter": "A",
-          "text": "Solo derechos de propiedad",
+          "text": "Privatizar el agua",
           "is_correct": false,
-          "feedback": "la propiedad es uno de los derechos, pero una Constitución democrática no se limita a protegerla."
+          "feedback": "El objetivo 6 busca el acceso universal al agua limpia, no su privatizacion."
         },
         {
           "letter": "B",
-          "text": "Únicamente derechos políticos",
+          "text": "Construir mas presas",
           "is_correct": false,
-          "feedback": "los derechos políticos son solo una parte; también existen derechos civiles, sociales y económicos."
+          "feedback": "Construir mas presas no es el objetivo: la meta es el uso eficiente del agua y el saneamiento seguro."
+        },
+        {
+          "letter": "C",
+          "text": "Agua limpia y saneamiento seguro",
+          "is_correct": true,
+          "feedback": "Correcto: el objetivo 6 garantiza el acceso universal y equitativo al agua potable y a servicios de saneamiento con higiene adecuada."
         },
         {
           "letter": "D",
-          "text": "Derechos exclusivos del gobierno",
+          "text": "Mas hidroeléctricas",
           "is_correct": false,
-          "feedback": "los derechos son de las personas y limitan al poder, no son privilegio exclusivo del gobierno."
+          "feedback": "Las hidroeléctricas son una fuente concreta de energia, no el contenido del objetivo sobre agua."
         }
       ],
       "correct_answer": "C",
-      "explanation": "Las constituciones democráticas protegen derechos humanos fundamentales.",
+      "explanation": "El sexto objetivo de la Agenda 2030 pide agua limpia y saneamiento seguro para todos. Incluye acceso universal a agua potable, gestion eficiente de los recursos hidricos, proteccion de los acuiferos y eliminacion de la contaminacion.",
       "difficulty": "10",
       "images": [],
       "tags": [],
@@ -819,36 +819,36 @@
     },
     {
       "id": "SV-SOC-11-2026-W35-desarrollo-sostenible-001-MASTERY-bundle-v19",
-      "statement": "Si un país exporta más de lo que importa, ¿qué tiene?",
+      "statement": "Un pais quiere reducir su dependencia del carbon. ¿Cual es la consecuencia economica mas directa de usar mas energia renovable?",
       "context": "Clase de ciencias sociales en San Salvador estudiando desarrollo sostenible.",
       "options": [
         {
-          "letter": "B",
-          "text": "Superávit comercial",
-          "is_correct": true,
-          "feedback": "Correcto: si un país exporta más de lo que importa, la diferencia entre ambas cifras es un superávit comercial."
+          "letter": "A",
+          "text": "Mas inversion inicial en equipos",
+          "is_correct": false,
+          "feedback": "Es cierto que la instalacion solar o eolica exige inversion inicial, pero no es el efecto mas directo buscado."
         },
         {
-          "letter": "A",
-          "text": "Déficit comercial",
-          "is_correct": false,
-          "feedback": "el déficit aparece cuando las importaciones superan a las exportaciones, que es el caso contrario al del enunciado."
+          "letter": "B",
+          "text": "Menor gasto en combustibles importados",
+          "is_correct": true,
+          "feedback": "Correcto: al no comprar petroleo ni gas del exterior, el pais destina menos moneda extranjera a importarlos."
         },
         {
           "letter": "C",
-          "text": "Balanza equilibrada",
+          "text": "Aumento de las exportaciones de carbon",
           "is_correct": false,
-          "feedback": "la balanza solo está equilibrada cuando las exportaciones y las importaciones son iguales."
+          "feedback": "Reducir el uso del carbon no aumenta sus exportaciones: la tendencia es justamente la contraria."
         },
         {
           "letter": "D",
-          "text": "Crisis económica",
+          "text": "Mas dependencia del gas importado",
           "is_correct": false,
-          "feedback": "un superávit describe un resultado favorable del comercio exterior, no una crisis."
+          "feedback": "Cambiar carbon por gas natural sigue siendo dependencia de un combustible importado, no la reduccion buscada."
         }
       ],
       "correct_answer": "B",
-      "explanation": "Exportar más que importar genera superávit comercial favorable.",
+      "explanation": "Cuando la energia renovable es de produccion local, el pais deja de importar parte del combustible y conserva esa moneda dentro de la economia nacional. Ese efecto se suma a la reduccion de emisiones y a la diversificacion de la matriz energetica.",
       "difficulty": "10",
       "images": [],
       "tags": [],
@@ -864,36 +864,36 @@
     },
     {
       "id": "SV-SOC-11-2026-W35-desarrollo-sostenible-001-MASTERY-bundle-v20",
-      "statement": "¿Cuál fue una causa importante de la Primera Guerra Mundial?",
+      "statement": "¿Que sector se vio afectado de forma mas fuerte por la pandemia de COVID-19 en El Salvador?",
       "context": "Clase de ciencias sociales en San Miguel estudiando desarrollo sostenible.",
       "options": [
         {
-          "letter": "B",
-          "text": "El asesinato del Archiduque Francisco Fernando",
-          "is_correct": true,
-          "feedback": "Correcto: el asesinato del Archiduque en Sarajevo en 1914 fue la chispa que inició la Primera Guerra Mundial."
+          "letter": "A",
+          "text": "Sector turistico",
+          "is_correct": false,
+          "feedback": "El turismo sufrio una caida fuerte por el cierre de fronteras, aunque no fue el sector mas afectado en el pais."
         },
         {
-          "letter": "A",
-          "text": "El Tratado de Versalles",
-          "is_correct": false,
-          "feedback": "se firmó en 1919 para cerrar la guerra, de modo que fue una consecuencia y no una causa del conflicto."
+          "letter": "B",
+          "text": "Sector informal",
+          "is_correct": true,
+          "feedback": "Correcto: buena parte de la poblacion trabajaba por su cuenta, sin red de seguridad social, y la pandemia elimino esos ingresos de golpe."
         },
         {
           "letter": "C",
-          "text": "La Revolución Rusa",
+          "text": "Sector textil",
           "is_correct": false,
-          "feedback": "se produjo en 1917, cuando la guerra ya había empezado, así que no pudo causarla."
+          "feedback": "La industria textil sufrio la caida de la demanda mundial, pero no fue el sector con mayor impacto directo en El Salvador."
         },
         {
           "letter": "D",
-          "text": "La invención del avión",
+          "text": "Sector exportador",
           "is_correct": false,
-          "feedback": "el avión fue un avance técnico de la época, no una causa política que provocara el conflicto armado."
+          "feedback": "El sector exportador sufrio la caida del comercio mundial, pero no fue el mas afectado en El Salvador."
         }
       ],
       "correct_answer": "B",
-      "explanation": "El asesinato en Sarajevo (1914) desencadenó el sistema de alianzas que llevó a la guerra.",
+      "explanation": "La pandemia de COVID-19 golpeo con mayor fuerza al sector informal salvadoreño, compuesto por comerciantes, transportistas y trabajadores por cuenta propia. Al no tener acceso a una red de seguridad, las medidas de restriccion se convirtieron en perdida inmediata de ingreso.",
       "difficulty": "10",
       "images": [],
       "tags": [],

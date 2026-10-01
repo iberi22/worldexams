@@ -9,36 +9,36 @@
   "questions": [
     {
       "id": "SV-ING-11-2026-W16-countable-uncountable-001-MASTERY-bundle-v1",
-      "statement": "Choose the correct option: 'I ___ reading a book right now.'",
+      "statement": "",
       "context": "English class in San Miguel, SV.",
       "options": [
         {
-          "letter": "C",
-          "text": "am",
-          "is_correct": true,
-          "feedback": "Correct! With 'I' the present continuous needs the auxiliary 'am', and 'reading' is the -ing form: I am reading."
-        },
-        {
           "letter": "A",
-          "text": "is",
+          "text": "breads",
           "is_correct": false,
-          "feedback": "'Is' goes with he, she, it and singular nouns, not with 'I'. The subject here is 'I', so the auxiliary must be 'am'."
+          "feedback": "'Breads' cannot be counted here; bread is a mass noun that takes 'a loaf' or 'some', not a bare plural."
         },
         {
           "letter": "B",
-          "text": "are",
+          "text": "flour",
+          "is_correct": true,
+          "feedback": "'Flour' is an uncountable mass noun measured with words such as 'some', 'a little' or 'half a kilo', never with a plural."
+        },
+        {
+          "letter": "C",
+          "text": "loaves",
           "is_correct": false,
-          "feedback": "'Are' goes with you, we, they and plural nouns. With 'I' the only correct auxiliary in this tense is 'am'."
+          "feedback": "'Loaves' is countable, and it would need a determiner such as 'two', so it does not fit the uncountable pattern."
         },
         {
           "letter": "D",
-          "text": "be",
+          "text": "sugars",
           "is_correct": false,
-          "feedback": "'Be' on its own is the bare infinitive; the present continuous is formed with a conjugated auxiliary plus the -ing form, and 'I' takes 'am'."
+          "feedback": "'Sugars' is not the form used to talk about the ingredient; the uncountable noun 'sugar' is the correct choice."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "Present continuous: I am + verb-ing.",
+      "correct_answer": "B",
+      "explanation": "Flour is an uncountable mass noun: it is measured or quantified with 'some', 'a little' or a weight, never with a plural ending.",
       "difficulty": "4",
       "images": [],
       "tags": [],
@@ -54,36 +54,36 @@
     },
     {
       "id": "SV-ING-11-2026-W16-countable-uncountable-001-MASTERY-bundle-v2",
-      "statement": "What does 'benevolent' mean?",
+      "statement": "",
       "context": "English class in Santa Ana, SV.",
       "options": [
         {
           "letter": "A",
-          "text": "Kind and generous",
-          "is_correct": true,
-          "feedback": "Correct! 'Benevolent' means showing kindness and generosity towards other people."
+          "text": "many",
+          "is_correct": false,
+          "feedback": "'Many' only accepts plural countable nouns, and 'milk' is uncountable, so the combination is impossible."
         },
         {
           "letter": "B",
-          "text": "Mean and cruel",
+          "text": "few",
           "is_correct": false,
-          "feedback": "That is the opposite of 'benevolent', which describes someone who is kind and generous, not unkind."
+          "feedback": "'Few' quantifies plural countable nouns as well, so it cannot be used with the mass noun 'milk'."
         },
         {
           "letter": "C",
-          "text": "Quick and fast",
-          "is_correct": false,
-          "feedback": "'Benevolent' does not describe speed; it describes character. Words like 'quick' or 'fast' belong to how fast somebody acts, not to how kind they are."
+          "text": "much",
+          "is_correct": true,
+          "feedback": "'Much' is the quantifier reserved for uncountable nouns, and 'milk' is one, so it fits the question exactly."
         },
         {
           "letter": "D",
-          "text": "Slow and lazy",
+          "text": "little of many",
           "is_correct": false,
-          "feedback": "'Benevolent' describes kindness, not speed or effort. It has nothing to do with being slow or lazy."
+          "feedback": "Combining 'little of many' mixes two different quantifiers and produces an expression that does not exist in English."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "'Benevolent' means kind, generous, or charitable.",
+      "correct_answer": "C",
+      "explanation": "Uncountable nouns such as 'milk' are quantified with 'much', 'some' or 'a lot of', never with 'many' or 'a few'.",
       "difficulty": "4",
       "images": [],
       "tags": [],
@@ -99,36 +99,36 @@
     },
     {
       "id": "SV-ING-11-2026-W16-countable-uncountable-001-MASTERY-bundle-v3",
-      "statement": "Identify the main idea: 'The text describes how bees help pollinate flowers and produce honey.'",
+      "statement": "",
       "context": "English class in San Miguel, SV.",
       "options": [
         {
-          "letter": "D",
-          "text": "Bees are important for pollination and honey",
-          "is_correct": true,
-          "feedback": "Correct! The text covers both jobs of bees: they carry pollen from flower to flower and they make honey."
-        },
-        {
           "letter": "A",
-          "text": "Bees are dangerous insects",
+          "text": "furniture",
           "is_correct": false,
-          "feedback": "The text says nothing about bees being dangerous; it presents them as useful, because of pollination and honey production."
+          "feedback": "'Furniture' is uncountable, so it would need 'pieces of furniture' rather than the plural 'five furniture'."
         },
         {
           "letter": "B",
-          "text": "Honey is the only product bees make",
+          "text": "bread",
           "is_correct": false,
-          "feedback": "The text names two things bees do, pollination and honey, so honey is not the only product mentioned."
+          "feedback": "'Bread' is a mass noun; you count loaves, not breads, which is why this plural form is not acceptable."
         },
         {
           "letter": "C",
-          "text": "Flowers don't need bees",
+          "text": "apples",
+          "is_correct": true,
+          "feedback": "'Apples' is a countable plural, and a count needs exactly this form after the numeral 'five'."
+        },
+        {
+          "letter": "D",
+          "text": "luggage",
           "is_correct": false,
-          "feedback": "That contradicts the text: pollination by bees is exactly what the passage describes as one of their contributions."
+          "feedback": "'Luggage' has no plural in standard English; the count is expressed as 'two pieces of luggage'."
         }
       ],
-      "correct_answer": "D",
-      "explanation": "The main idea summarizes the key points about bees: pollination and honey.",
+      "correct_answer": "C",
+      "explanation": "Countable nouns take a numeral and a plural, as in 'five apples'; mass nouns such as furniture, bread and luggage cannot be counted directly.",
       "difficulty": "4",
       "images": [],
       "tags": [],
@@ -144,36 +144,36 @@
     },
     {
       "id": "SV-ING-11-2026-W16-countable-uncountable-001-MASTERY-bundle-v4",
-      "statement": "Which is the correct past form of 'go'?",
+      "statement": "",
       "context": "English class in San Miguel, SV.",
       "options": [
         {
           "letter": "A",
-          "text": "went",
-          "is_correct": true,
-          "feedback": "Correct! 'Go' is irregular, so its past simple is 'went' and it does not take the -ed ending."
+          "text": "few",
+          "is_correct": false,
+          "feedback": "'Few' requires a plural countable noun, and 'traffic' is a mass noun with no plural form in English."
         },
         {
           "letter": "B",
-          "text": "goed",
+          "text": "many",
           "is_correct": false,
-          "feedback": "'Goed' is not an English word. The verb 'go' is irregular, so its past simple is 'went'."
+          "feedback": "'Many' also needs a plural countable noun, so it cannot quantify the uncountable 'traffic'."
         },
         {
           "letter": "C",
-          "text": "gone",
-          "is_correct": false,
-          "feedback": "'Gone' is the past participle, used with 'have' (I have gone), not the past simple form the question asks for."
+          "text": "little",
+          "is_correct": true,
+          "feedback": "'Little' is the quantifier for uncountable nouns, and 'traffic' is uncountable, so the pairing is correct."
         },
         {
           "letter": "D",
-          "text": "going",
+          "text": "a few",
           "is_correct": false,
-          "feedback": "'Going' is the -ing form, used with 'am/is/are' (I am going), not the past simple."
+          "feedback": "'A few' introduces a countable plural as well, which makes it incompatible with the noun 'traffic'."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "'Go' is an irregular verb: go → went (past simple).",
+      "correct_answer": "C",
+      "explanation": "Uncountable nouns are measured with 'little' or 'a little'; the countables 'few' and 'a few' need a plural noun such as 'cars'.",
       "difficulty": "4",
       "images": [],
       "tags": [],
@@ -189,36 +189,36 @@
     },
     {
       "id": "SV-ING-11-2026-W16-countable-uncountable-001-MASTERY-bundle-v5",
-      "statement": "Which sentence uses the present simple correctly?",
+      "statement": "",
       "context": "English class in San Salvador, SV.",
       "options": [
         {
           "letter": "A",
-          "text": "She goes to school every day.",
-          "is_correct": true,
-          "feedback": "Correct! In the present simple, 'she' takes the verb with -s: she goes."
+          "text": "papers",
+          "is_correct": false,
+          "feedback": "'Papers' is a countable plural; the material used to write is the uncountable noun 'paper'."
         },
         {
           "letter": "B",
-          "text": "She go to school every day.",
-          "is_correct": false,
-          "feedback": "The third person singular in the present simple adds -s, so it must be 'she goes', not 'she go'."
+          "text": "paper",
+          "is_correct": true,
+          "feedback": "'Paper' as a material is uncountable, so it appears with 'some' or 'a piece of' and never with a plural."
         },
         {
           "letter": "C",
-          "text": "She going to school every day.",
+          "text": "papery",
           "is_correct": false,
-          "feedback": "This is missing the auxiliary. With 'going' you need 'is': she is going to school every day."
+          "feedback": "'Papery' is an adjective meaning like paper; the noun needed to refer to the material is 'paper'."
         },
         {
           "letter": "D",
-          "text": "She gone to school every day.",
+          "text": "a paper",
           "is_correct": false,
-          "feedback": "'Gone' is a past participle and needs 'has' (she has gone); the present simple is 'she goes'."
+          "feedback": "'A paper' means an article or a sheet, neither of which fits the general sense of writing material in this sentence."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "Present simple: subject + verb(-s for he/she/it).",
+      "correct_answer": "B",
+      "explanation": "Some nouns have both a countable and an uncountable sense; 'paper' means the material uncountably and a document or article when countable.",
       "difficulty": "6",
       "images": [],
       "tags": [],
@@ -234,36 +234,36 @@
     },
     {
       "id": "SV-ING-11-2026-W16-countable-uncountable-001-MASTERY-bundle-v6",
-      "statement": "Choose the correct option: 'I ___ reading a book right now.'",
+      "statement": "",
       "context": "English class in San Salvador, SV.",
       "options": [
         {
           "letter": "A",
-          "text": "am",
-          "is_correct": true,
-          "feedback": "Correct! With 'I' the present continuous needs the auxiliary 'am', and 'reading' is the -ing form: I am reading."
+          "text": "few",
+          "is_correct": false,
+          "feedback": "'Few' requires a plural countable noun, and 'honey' is a mass noun with no plural form in English."
         },
         {
           "letter": "B",
-          "text": "is",
+          "text": "a few",
           "is_correct": false,
-          "feedback": "'Is' goes with he, she, it and singular nouns, not with 'I'. The subject here is 'I', so the auxiliary must be 'am'."
+          "feedback": "'A few' introduces countable plural items, so it cannot quantify the uncountable noun 'honey'."
         },
         {
           "letter": "C",
-          "text": "are",
-          "is_correct": false,
-          "feedback": "'Are' goes with you, we, they and plural nouns. With 'I' the only correct auxiliary in this tense is 'am'."
+          "text": "a little",
+          "is_correct": true,
+          "feedback": "'A little' is the natural quantifier for an uncountable noun such as honey, and it fits the singular verb 'there is'."
         },
         {
           "letter": "D",
-          "text": "be",
+          "text": "many",
           "is_correct": false,
-          "feedback": "'Be' on its own is the bare infinitive; the present continuous is formed with a conjugated auxiliary plus the -ing form, and 'I' takes 'am'."
+          "feedback": "'Many' is reserved for plural countables, which rules it out with 'honey' in this sentence."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "Present continuous: I am + verb-ing.",
+      "correct_answer": "C",
+      "explanation": "Uncountable nouns are quantified with 'much', 'a little' or 'a lot of', and the noun that follows always keeps the singular form.",
       "difficulty": "6",
       "images": [],
       "tags": [],
@@ -279,36 +279,36 @@
     },
     {
       "id": "SV-ING-11-2026-W16-countable-uncountable-001-MASTERY-bundle-v7",
-      "statement": "What does 'benevolent' mean?",
+      "statement": "",
       "context": "English class in Soyapango, SV.",
       "options": [
         {
-          "letter": "B",
-          "text": "Kind and generous",
-          "is_correct": true,
-          "feedback": "Correct! 'Benevolent' means showing kindness and generosity towards other people."
+          "letter": "A",
+          "text": "breads",
+          "is_correct": false,
+          "feedback": "You count loaves of bread, not 'breads', so this plural does not exist in standard English."
         },
         {
-          "letter": "A",
-          "text": "Mean and cruel",
+          "letter": "B",
+          "text": "chairs",
           "is_correct": false,
-          "feedback": "That is the opposite of 'benevolent', which describes someone who is kind and generous, not unkind."
+          "feedback": "'Chairs' is a countable plural, which is exactly why it cannot be the uncountable answer the question asks for."
         },
         {
           "letter": "C",
-          "text": "Quick and fast",
-          "is_correct": false,
-          "feedback": "'Benevolent' does not describe speed; it describes character. Words like 'quick' or 'fast' belong to how fast somebody acts, not to how kind they are."
+          "text": "bread",
+          "is_correct": true,
+          "feedback": "'Bread' is a mass noun that takes 'some' or 'a loaf', never a bare plural, so it is the uncountable option."
         },
         {
           "letter": "D",
-          "text": "Slow and lazy",
+          "text": "knifes",
           "is_correct": false,
-          "feedback": "'Benevolent' describes kindness, not speed or effort. It has nothing to do with being slow or lazy."
+          "feedback": "'Knifes' is a misspelling of the countable plural 'knives', and it refers to objects, not a material."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "'Benevolent' means kind, generous, or charitable.",
+      "correct_answer": "C",
+      "explanation": "Mass nouns such as bread cannot take a plural: the amount is expressed with 'some', 'much' or a unit like 'loaf'.",
       "difficulty": "6",
       "images": [],
       "tags": [],
@@ -324,36 +324,36 @@
     },
     {
       "id": "SV-ING-11-2026-W16-countable-uncountable-001-MASTERY-bundle-v8",
-      "statement": "Identify the main idea: 'The text describes how bees help pollinate flowers and produce honey.'",
+      "statement": "Complete the question: 'How much ______ do we need for the recipe?'",
       "context": "English class in San Miguel, SV.",
       "options": [
         {
-          "letter": "A",
-          "text": "Bees are important for pollination and honey",
+          "letter": "B",
+          "text": "sugar",
           "is_correct": true,
-          "feedback": "Correct! The text covers both jobs of bees: they carry pollen from flower to flower and they make honey."
+          "feedback": "Sugar is an uncountable noun, so the quantity is asked with 'how much' and never with a plural form."
         },
         {
-          "letter": "B",
-          "text": "Bees are dangerous insects",
+          "letter": "A",
+          "text": "sugars",
           "is_correct": false,
-          "feedback": "The text says nothing about bees being dangerous; it presents them as useful, because of pollination and honey production."
+          "feedback": "The plural cannot be used with an uncountable noun, and this item cannot be counted as separate pieces."
         },
         {
           "letter": "C",
-          "text": "Honey is the only product bees make",
+          "text": "sugar are",
           "is_correct": false,
-          "feedback": "The text names two things bees do, pollination and honey, so honey is not the only product mentioned."
+          "feedback": "Even where the verb agrees, the noun 'sugar' is uncountable, so this combination is not possible."
         },
         {
           "letter": "D",
-          "text": "Flowers don't need bees",
+          "text": "many sugar",
           "is_correct": false,
-          "feedback": "That contradicts the text: pollination by bees is exactly what the passage describes as one of their contributions."
+          "feedback": "'Many' only accepts plural countable nouns, which is not the case with 'sugar'."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The main idea summarizes the key points about bees: pollination and honey.",
+      "correct_answer": "B",
+      "explanation": "Uncountable nouns are quantified with 'much', 'some' or 'a lot of', never with 'many' or 'a few'.",
       "difficulty": "6",
       "images": [],
       "tags": [],
@@ -369,36 +369,36 @@
     },
     {
       "id": "SV-ING-11-2026-W16-countable-uncountable-001-MASTERY-bundle-v9",
-      "statement": "Which is the correct past form of 'go'?",
+      "statement": "",
       "context": "English class in Soyapango, SV.",
       "options": [
         {
-          "letter": "C",
-          "text": "went",
-          "is_correct": true,
-          "feedback": "Correct! 'Go' is irregular, so its past simple is 'went' and it does not take the -ed ending."
-        },
-        {
           "letter": "A",
-          "text": "goed",
+          "text": "equipment",
           "is_correct": false,
-          "feedback": "'Goed' is not an English word. The verb 'go' is irregular, so its past simple is 'went'."
+          "feedback": "'Equipment' is uncountable, so it would need 'a piece of equipment' rather than a bare plural."
         },
         {
           "letter": "B",
-          "text": "gone",
+          "text": "research",
           "is_correct": false,
-          "feedback": "'Gone' is the past participle, used with 'have' (I have gone), not the past simple form the question asks for."
+          "feedback": "'Research' is a mass noun counted as 'a piece of research', never with the plural 'researches'."
+        },
+        {
+          "letter": "C",
+          "text": "scissors",
+          "is_correct": true,
+          "feedback": "'Scissors' is a plural noun in form and takes a number, as in 'two scissors', so it belongs to the countable group."
         },
         {
           "letter": "D",
-          "text": "going",
+          "text": "knowledge",
           "is_correct": false,
-          "feedback": "'Going' is the -ing form, used with 'am/is/are' (I am going), not the past simple."
+          "feedback": "'Knowledge' is uncountable and describes an abstract mass, so it cannot be counted with a numeral."
         }
       ],
       "correct_answer": "C",
-      "explanation": "'Go' is an irregular verb: go → went (past simple).",
+      "explanation": "Some nouns are plurals in form but countable, such as scissors, trousers and glasses; equipment, research and knowledge are uncountable.",
       "difficulty": "6",
       "images": [],
       "tags": [],
@@ -414,36 +414,36 @@
     },
     {
       "id": "SV-ING-11-2026-W16-countable-uncountable-001-MASTERY-bundle-v10",
-      "statement": "Which sentence uses the present simple correctly?",
+      "statement": "Complete the question: 'How many ______ do you have in your backpack?'",
       "context": "English class in San Salvador, SV.",
       "options": [
         {
-          "letter": "D",
-          "text": "She goes to school every day.",
-          "is_correct": true,
-          "feedback": "Correct! In the present simple, 'she' takes the verb with -s: she goes."
-        },
-        {
           "letter": "A",
-          "text": "She go to school every day.",
-          "is_correct": false,
-          "feedback": "The third person singular in the present simple adds -s, so it must be 'she goes', not 'she go'."
+          "text": "books",
+          "is_correct": true,
+          "feedback": "Books are a countable plural, so 'how many' is the natural question and a plural verb is expected."
         },
         {
           "letter": "B",
-          "text": "She going to school every day.",
+          "text": "water",
           "is_correct": false,
-          "feedback": "This is missing the auxiliary. With 'going' you need 'is': she is going to school every day."
+          "feedback": "Water is uncountable, so it takes 'how much' and would never appear after 'how many'."
         },
         {
           "letter": "C",
-          "text": "She gone to school every day.",
+          "text": "advice",
           "is_correct": false,
-          "feedback": "'Gone' is a past participle and needs 'has' (she has gone); the present simple is 'she goes'."
+          "feedback": "Advice is uncountable even though it ends in a consonant, so 'how many' is not possible here."
+        },
+        {
+          "letter": "D",
+          "text": "furniture",
+          "is_correct": false,
+          "feedback": "Furniture is a mass noun for counting purposes: one says 'a piece of furniture', not 'how many furniture'."
         }
       ],
-      "correct_answer": "D",
-      "explanation": "Present simple: subject + verb(-s for he/she/it).",
+      "correct_answer": "A",
+      "explanation": "Countable plurals answer 'how many'; uncountable nouns answer 'how much'.",
       "difficulty": "6",
       "images": [],
       "tags": [],
@@ -459,36 +459,36 @@
     },
     {
       "id": "SV-ING-11-2026-W16-countable-uncountable-001-MASTERY-bundle-v11",
-      "statement": "Choose the correct option: 'I ___ reading a book right now.'",
+      "statement": "Which of these nouns is uncountable even though it ends in the letter s?",
       "context": "English class in San Salvador, SV.",
       "options": [
         {
-          "letter": "D",
-          "text": "am",
+          "letter": "C",
+          "text": "News",
           "is_correct": true,
-          "feedback": "Correct! With 'I' the present continuous needs the auxiliary 'am', and 'reading' is the -ing form: I am reading."
+          "feedback": "'News' is a mass noun used in the singular, which is why it does not take a plural form in everyday English."
         },
         {
           "letter": "A",
-          "text": "is",
+          "text": "Houses",
           "is_correct": false,
-          "feedback": "'Is' goes with he, she, it and singular nouns, not with 'I'. The subject here is 'I', so the auxiliary must be 'am'."
+          "feedback": "Houses are separate objects that can be counted one by one, so the plural ending is regular."
         },
         {
           "letter": "B",
-          "text": "are",
+          "text": "Windows",
           "is_correct": false,
-          "feedback": "'Are' goes with you, we, they and plural nouns. With 'I' the only correct auxiliary in this tense is 'am'."
+          "feedback": "Windows can be counted individually in a building, so the plural form is perfectly normal."
         },
         {
-          "letter": "C",
-          "text": "be",
+          "letter": "D",
+          "text": "Pencils",
           "is_correct": false,
-          "feedback": "'Be' on its own is the bare infinitive; the present continuous is formed with a conjugated auxiliary plus the -ing form, and 'I' takes 'am'."
+          "feedback": "Pencils are discrete objects and each one counts as a unit, so they take a plural without restriction."
         }
       ],
-      "correct_answer": "D",
-      "explanation": "Present continuous: I am + verb-ing.",
+      "correct_answer": "C",
+      "explanation": "A few nouns ending in -s, such as news, are treated as uncountable and stay in the singular.",
       "difficulty": "8",
       "images": [],
       "tags": [],
@@ -504,36 +504,36 @@
     },
     {
       "id": "SV-ING-11-2026-W16-countable-uncountable-001-MASTERY-bundle-v12",
-      "statement": "What does 'benevolent' mean?",
+      "statement": "",
       "context": "English class in San Salvador, SV.",
       "options": [
         {
-          "letter": "C",
-          "text": "Kind and generous",
-          "is_correct": true,
-          "feedback": "Correct! 'Benevolent' means showing kindness and generosity towards other people."
-        },
-        {
           "letter": "A",
-          "text": "Mean and cruel",
+          "text": "waters",
           "is_correct": false,
-          "feedback": "That is the opposite of 'benevolent', which describes someone who is kind and generous, not unkind."
+          "feedback": "'Waters' does not function as a plural mass here; the uncountable noun is 'water', used with 'some'."
         },
         {
           "letter": "B",
-          "text": "Quick and fast",
+          "text": "salts",
           "is_correct": false,
-          "feedback": "'Benevolent' does not describe speed; it describes character. Words like 'quick' or 'fast' belong to how fast somebody acts, not to how kind they are."
+          "feedback": "Salt as a substance is uncountable; the plural 'salts' refers to chemical salts, not the table seasoning."
+        },
+        {
+          "letter": "C",
+          "text": "salt",
+          "is_correct": true,
+          "feedback": "'Salt' is a mass noun quantified by 'some', so it takes no plural ending and fits the sentence."
         },
         {
           "letter": "D",
-          "text": "Slow and lazy",
+          "text": "sugars",
           "is_correct": false,
-          "feedback": "'Benevolent' describes kindness, not speed or effort. It has nothing to do with being slow or lazy."
+          "feedback": "'Sugars' is not the form used for the ingredient; the uncountable 'sugar' is the right noun here."
         }
       ],
       "correct_answer": "C",
-      "explanation": "'Benevolent' means kind, generous, or charitable.",
+      "explanation": "Substances such as salt, sugar and water are uncountable and are quantified with 'some', 'a little' or a weight, not with a plural.",
       "difficulty": "8",
       "images": [],
       "tags": [],
@@ -549,36 +549,36 @@
     },
     {
       "id": "SV-ING-11-2026-W16-countable-uncountable-001-MASTERY-bundle-v13",
-      "statement": "Identify the main idea: 'The text describes how bees help pollinate flowers and produce honey.'",
+      "statement": "",
       "context": "English class in Santa Ana, SV.",
       "options": [
         {
-          "letter": "C",
-          "text": "Bees are important for pollination and honey",
-          "is_correct": true,
-          "feedback": "Correct! The text covers both jobs of bees: they carry pollen from flower to flower and they make honey."
-        },
-        {
           "letter": "A",
-          "text": "Bees are dangerous insects",
+          "text": "homework",
           "is_correct": false,
-          "feedback": "The text says nothing about bees being dangerous; it presents them as useful, because of pollination and honey production."
+          "feedback": "'Homework' is uncountable, so the count would be expressed as 'four pieces of homework'."
         },
         {
           "letter": "B",
-          "text": "Honey is the only product bees make",
+          "text": "worksheets",
+          "is_correct": true,
+          "feedback": "'Worksheets' is a countable plural of separate documents, and a numeral plus plural is exactly the countable pattern."
+        },
+        {
+          "letter": "C",
+          "text": "advices",
           "is_correct": false,
-          "feedback": "The text names two things bees do, pollination and honey, so honey is not the only product mentioned."
+          "feedback": "'Advice' has no plural in English; the count is 'a piece of advice', so this form does not exist."
         },
         {
           "letter": "D",
-          "text": "Flowers don't need bees",
+          "text": "knowledges",
           "is_correct": false,
-          "feedback": "That contradicts the text: pollination by bees is exactly what the passage describes as one of their contributions."
+          "feedback": "'Knowledge' is a mass noun and cannot take the plural ending used here."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "The main idea summarizes the key points about bees: pollination and honey.",
+      "correct_answer": "B",
+      "explanation": "A numeral plus plural marks a countable noun, as in 'four worksheets'; uncountable nouns like homework and advice need 'a piece of'.",
       "difficulty": "8",
       "images": [],
       "tags": [],
@@ -594,36 +594,36 @@
     },
     {
       "id": "SV-ING-11-2026-W16-countable-uncountable-001-MASTERY-bundle-v14",
-      "statement": "Which is the correct past form of 'go'?",
+      "statement": "",
       "context": "English class in San Salvador, SV.",
       "options": [
         {
-          "letter": "C",
-          "text": "went",
-          "is_correct": true,
-          "feedback": "Correct! 'Go' is irregular, so its past simple is 'went' and it does not take the -ed ending."
-        },
-        {
           "letter": "A",
-          "text": "goed",
+          "text": "tickets",
           "is_correct": false,
-          "feedback": "'Goed' is not an English word. The verb 'go' is irregular, so its past simple is 'went'."
+          "feedback": "'Tickets' is a countable plural, so it can be counted individually and cannot be the uncountable answer."
         },
         {
           "letter": "B",
-          "text": "gone",
+          "text": "time",
+          "is_correct": true,
+          "feedback": "'Time' is a mass noun here, quantified with 'some' or 'much' and never with a plural or a bare numeral."
+        },
+        {
+          "letter": "C",
+          "text": "minutes",
           "is_correct": false,
-          "feedback": "'Gone' is the past participle, used with 'have' (I have gone), not the past simple form the question asks for."
+          "feedback": "'Minutes' is a countable plural that takes a numeral, as in 'ten minutes', which is the opposite of uncountable."
         },
         {
           "letter": "D",
-          "text": "going",
+          "text": "seats",
           "is_correct": false,
-          "feedback": "'Going' is the -ing form, used with 'am/is/are' (I am going), not the past simple."
+          "feedback": "'Seats' counts individual places one by one, so it belongs to the countable group, not the mass nouns."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "'Go' is an irregular verb: go → went (past simple).",
+      "correct_answer": "B",
+      "explanation": "Some nouns shift sense with the context: 'time' is uncountable when it means a general duration, while countable when it means a specific appointment.",
       "difficulty": "8",
       "images": [],
       "tags": [],
@@ -639,36 +639,36 @@
     },
     {
       "id": "SV-ING-11-2026-W16-countable-uncountable-001-MASTERY-bundle-v15",
-      "statement": "Which sentence uses the present simple correctly?",
+      "statement": "",
       "context": "English class in San Miguel, SV.",
       "options": [
         {
-          "letter": "B",
-          "text": "She goes to school every day.",
-          "is_correct": true,
-          "feedback": "Correct! In the present simple, 'she' takes the verb with -s: she goes."
+          "letter": "A",
+          "text": "We bought many furnitures for the flat.",
+          "is_correct": false,
+          "feedback": "'Furniture' is a mass noun, so 'many furnitures' is wrong; the count would be 'many pieces of furniture'."
         },
         {
-          "letter": "A",
-          "text": "She go to school every day.",
-          "is_correct": false,
-          "feedback": "The third person singular in the present simple adds -s, so it must be 'she goes', not 'she go'."
+          "letter": "B",
+          "text": "There is a lot of luggage in the hallway.",
+          "is_correct": true,
+          "feedback": "'Luggage' is uncountable and 'a lot of' is one of its natural quantifiers, so this sentence is correct."
         },
         {
           "letter": "C",
-          "text": "She going to school every day.",
+          "text": "She gave me three advices about the exam.",
           "is_correct": false,
-          "feedback": "This is missing the auxiliary. With 'going' you need 'is': she is going to school every day."
+          "feedback": "'Advice' never takes a plural in English, so 'three advices' is an error; it is 'three pieces of advice'."
         },
         {
           "letter": "D",
-          "text": "She gone to school every day.",
+          "text": "How much breads did you buy?",
           "is_correct": false,
-          "feedback": "'Gone' is a past participle and needs 'has' (she has gone); the present simple is 'she goes'."
+          "feedback": "'Bread' is uncountable, so 'how much breads' is doubly wrong: it needs 'much' and the singular 'bread'."
         }
       ],
       "correct_answer": "B",
-      "explanation": "Present simple: subject + verb(-s for he/she/it).",
+      "explanation": "Mass nouns such as luggage, furniture and advice take quantifiers like 'a lot of' and 'much', and they never take a plural ending.",
       "difficulty": "8",
       "images": [],
       "tags": [],
@@ -684,36 +684,36 @@
     },
     {
       "id": "SV-ING-11-2026-W16-countable-uncountable-001-MASTERY-bundle-v16",
-      "statement": "Choose the correct option: 'I ___ reading a book right now.'",
+      "statement": "Complete the sentence: 'There is ______ water left in the bottle, but it is enough for one cup.'",
       "context": "English class in San Salvador, SV.",
       "options": [
         {
-          "letter": "C",
-          "text": "am",
+          "letter": "D",
+          "text": "a little",
           "is_correct": true,
-          "feedback": "Correct! With 'I' the present continuous needs the auxiliary 'am', and 'reading' is the -ing form: I am reading."
+          "feedback": "'A little' quantifies an uncountable noun and fits a small but sufficient amount, which matches the second part of the sentence."
         },
         {
           "letter": "A",
-          "text": "is",
+          "text": "a few",
           "is_correct": false,
-          "feedback": "'Is' goes with he, she, it and singular nouns, not with 'I'. The subject here is 'I', so the auxiliary must be 'am'."
+          "feedback": "'A few' only works with plural countable nouns, so it cannot modify the uncountable 'water'."
         },
         {
           "letter": "B",
-          "text": "are",
+          "text": "many",
           "is_correct": false,
-          "feedback": "'Are' goes with you, we, they and plural nouns. With 'I' the only correct auxiliary in this tense is 'am'."
+          "feedback": "'Many' is reserved for countable plurals and therefore cannot quantify 'water'."
         },
         {
-          "letter": "D",
-          "text": "be",
+          "letter": "C",
+          "text": "several",
           "is_correct": false,
-          "feedback": "'Be' on its own is the bare infinitive; the present continuous is formed with a conjugated auxiliary plus the -ing form, and 'I' takes 'am'."
+          "feedback": "'Several' likewise needs a plural countable noun and is incompatible with a mass noun such as 'water'."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "Present continuous: I am + verb-ing.",
+      "correct_answer": "D",
+      "explanation": "'A little' plus an uncountable noun expresses a small quantity; 'a few', 'many' and 'several' need plural countables.",
       "difficulty": "8",
       "images": [],
       "tags": [],
@@ -729,36 +729,36 @@
     },
     {
       "id": "SV-ING-11-2026-W16-countable-uncountable-001-MASTERY-bundle-v17",
-      "statement": "What does 'benevolent' mean?",
+      "statement": "Which sentence contains a countable/uncountable error?",
       "context": "English class in San Salvador, SV.",
       "options": [
         {
           "letter": "B",
-          "text": "Kind and generous",
+          "text": "I have many informations about the trip.",
           "is_correct": true,
-          "feedback": "Correct! 'Benevolent' means showing kindness and generosity towards other people."
+          "feedback": "'Informations' is not a valid English plural: the correct form is the uncountable 'information'."
         },
         {
           "letter": "A",
-          "text": "Mean and cruel",
+          "text": "There is very little traffic on the road today.",
           "is_correct": false,
-          "feedback": "That is the opposite of 'benevolent', which describes someone who is kind and generous, not unkind."
+          "feedback": "'Traffic' is uncountable and 'little' is its normal partner, so the sentence is correct."
         },
         {
           "letter": "C",
-          "text": "Quick and fast",
+          "text": "She bought three chairs for the new room.",
           "is_correct": false,
-          "feedback": "'Benevolent' does not describe speed; it describes character. Words like 'quick' or 'fast' belong to how fast somebody acts, not to how kind they are."
+          "feedback": "Chairs are countable objects, so the plural and the number 'three' are both appropriate."
         },
         {
           "letter": "D",
-          "text": "Slow and lazy",
+          "text": "We need some advice about the exam.",
           "is_correct": false,
-          "feedback": "'Benevolent' describes kindness, not speed or effort. It has nothing to do with being slow or lazy."
+          "feedback": "'Advice' is uncountable and 'some' works with it, so the sentence has no error."
         }
       ],
       "correct_answer": "B",
-      "explanation": "'Benevolent' means kind, generous, or charitable.",
+      "explanation": "'Information' never takes a plural 's'; the error comes from treating a mass noun as a countable one.",
       "difficulty": "10",
       "images": [],
       "tags": [],
@@ -774,36 +774,36 @@
     },
     {
       "id": "SV-ING-11-2026-W16-countable-uncountable-001-MASTERY-bundle-v18",
-      "statement": "Identify the main idea: 'The text describes how bees help pollinate flowers and produce honey.'",
+      "statement": "",
       "context": "English class in Mejicanos, SV.",
       "options": [
         {
-          "letter": "D",
-          "text": "Bees are important for pollination and honey",
-          "is_correct": true,
-          "feedback": "Correct! The text covers both jobs of bees: they carry pollen from flower to flower and they make honey."
-        },
-        {
           "letter": "A",
-          "text": "Bees are dangerous insects",
+          "text": "She gave me many useful informations.",
           "is_correct": false,
-          "feedback": "The text says nothing about bees being dangerous; it presents them as useful, because of pollination and honey production."
+          "feedback": "'Information' is uncountable and has no plural, so the count must be 'a lot of information' or 'three pieces of information'."
         },
         {
           "letter": "B",
-          "text": "Honey is the only product bees make",
-          "is_correct": false,
-          "feedback": "The text names two things bees do, pollination and honey, so honey is not the only product mentioned."
+          "text": "She gave me three useful pieces of information.",
+          "is_correct": true,
+          "feedback": "'Pieces of information' is the standard countable expression for separate facts, so this sentence is correct."
         },
         {
           "letter": "C",
-          "text": "Flowers don't need bees",
+          "text": "She gave me several advices about the project.",
           "is_correct": false,
-          "feedback": "That contradicts the text: pollination by bees is exactly what the passage describes as one of their contributions."
+          "feedback": "'Advice' is uncountable, so 'advices' does not exist; you say 'a piece of advice' or 'some advice'."
+        },
+        {
+          "letter": "D",
+          "text": "She gave me a few researches on the topic.",
+          "is_correct": false,
+          "feedback": "'Research' is a mass noun counted as 'a piece of research', so the plural 'researches' is not acceptable."
         }
       ],
-      "correct_answer": "D",
-      "explanation": "The main idea summarizes the key points about bees: pollination and honey.",
+      "correct_answer": "B",
+      "explanation": "Uncountable nouns are made countable with a unit expression such as 'a piece of', as in 'three pieces of information'.",
       "difficulty": "10",
       "images": [],
       "tags": [],
@@ -819,36 +819,36 @@
     },
     {
       "id": "SV-ING-11-2026-W16-countable-uncountable-001-MASTERY-bundle-v19",
-      "statement": "Which is the correct past form of 'go'?",
+      "statement": "",
       "context": "English class in Mejicanos, SV.",
       "options": [
         {
           "letter": "A",
-          "text": "went",
-          "is_correct": true,
-          "feedback": "Correct! 'Go' is irregular, so its past simple is 'went' and it does not take the -ed ending."
+          "text": "sugars",
+          "is_correct": false,
+          "feedback": "'Sugars' is not the form used for the sweetener; the uncountable 'sugar' is the correct noun in this offer."
         },
         {
           "letter": "B",
-          "text": "goed",
+          "text": "spoons",
           "is_correct": false,
-          "feedback": "'Goed' is not an English word. The verb 'go' is irregular, so its past simple is 'went'."
+          "feedback": "'Spoons' counts individual objects, so it takes a numeral and cannot be the uncountable answer."
         },
         {
           "letter": "C",
-          "text": "gone",
-          "is_correct": false,
-          "feedback": "'Gone' is the past participle, used with 'have' (I have gone), not the past simple form the question asks for."
+          "text": "milk",
+          "is_correct": true,
+          "feedback": "'Milk' is a mass liquid quantified with 'some' or 'a little', never with a plural, so it is the uncountable option."
         },
         {
           "letter": "D",
-          "text": "going",
+          "text": "cups",
           "is_correct": false,
-          "feedback": "'Going' is the -ing form, used with 'am/is/are' (I am going), not the past simple."
+          "feedback": "'Cups' is a countable plural of containers, and counting them is the opposite of measuring an uncountable substance."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "'Go' is an irregular verb: go → went (past simple).",
+      "correct_answer": "C",
+      "explanation": "Liquids such as milk and water are uncountable and are measured with containers or with units like 'a litre', never counted directly.",
       "difficulty": "10",
       "images": [],
       "tags": [],
@@ -864,36 +864,36 @@
     },
     {
       "id": "SV-ING-11-2026-W16-countable-uncountable-001-MASTERY-bundle-v20",
-      "statement": "Which sentence uses the present simple correctly?",
+      "statement": "Which option uses the measuring and counting system correctly?",
       "context": "English class in San Miguel, SV.",
       "options": [
         {
           "letter": "C",
-          "text": "She goes to school every day.",
+          "text": "Two kilos of rice and three apples",
           "is_correct": true,
-          "feedback": "Correct! In the present simple, 'she' takes the verb with -s: she goes."
+          "feedback": "Bulk goods are measured by weight with units such as 'kilo', while countable items take a number and the plural."
         },
         {
           "letter": "A",
-          "text": "She go to school every day.",
+          "text": "Two kilo of rice and three apple",
           "is_correct": false,
-          "feedback": "The third person singular in the present simple adds -s, so it must be 'she goes', not 'she go'."
+          "feedback": "Both nouns are wrong here: the unit needs the plural 'kilos' and the countable item needs 'apples'."
         },
         {
           "letter": "B",
-          "text": "She going to school every day.",
+          "text": "Two apples of rice and three kilos",
           "is_correct": false,
-          "feedback": "This is missing the auxiliary. With 'going' you need 'is': she is going to school every day."
+          "feedback": "The units are attached to the wrong objects, since rice is measured by weight and apples are counted."
         },
         {
           "letter": "D",
-          "text": "She gone to school every day.",
+          "text": "Many kilo and few apples",
           "is_correct": false,
-          "feedback": "'Gone' is a past participle and needs 'has' (she has gone); the present simple is 'she goes'."
+          "feedback": "'Many' and 'few' cannot be used with the unit 'kilo', which is already a quantity in itself."
         }
       ],
       "correct_answer": "C",
-      "explanation": "Present simple: subject + verb(-s for he/she/it).",
+      "explanation": "Measurable masses take units of weight; countable objects take a plain number and the plural.",
       "difficulty": "10",
       "images": [],
       "tags": [],
