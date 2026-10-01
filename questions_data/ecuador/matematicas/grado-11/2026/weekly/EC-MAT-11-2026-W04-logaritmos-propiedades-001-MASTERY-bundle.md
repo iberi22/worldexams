@@ -363,20 +363,20 @@ Aplicando la definición de logaritmo: $x + 2 = 3^2 \Rightarrow x + 2 = 9 \Right
 **Expected_Success:** 0.42
 **Contexto:** En la ciudad de Ibarra, un grupo de estudiantes de la Colegio Nacional Mejía analizan un problema práctico de matemáticas.
 ### Enunciado
-Resuelva la ecuación logarítmica para $x$ en un modelo de escala sísmica en la provincia de Manabí: $\log_3(x + 2) = 2$.
+Resuelva la ecuación logarítmica para $x$ en un modelo de magnitud sísmica en la provincia de Manabí: $\log_5(x - 4) = 3$.
 
 ### Opciones
-- [ ] A) 8
-  <!-- feedback: 8 saldría de restar 1 en lugar de 2, o de no descontar bien el 2 del resultado; el despeje da $x = 9 - 2$. -->
-- [ ] B) 4
-  <!-- feedback: 4 corresponde a $3^4 = 81$, un exponente equivocado, porque la ecuación pide el exponente 2. -->
-- [ ] C) 9
-  <!-- feedback: 9 es el valor de $x+2$ todavía sin despejar; hay que restar 2 para obtener $x = 7$. -->
-- [x] D) 7
-  <!-- feedback: Correcto. $\log_3(x+2)=2$ implica $x+2 = 3^2 = 9$, de donde $x = 9 - 2 = 7$. -->
+- [ ] A) 128
+  <!-- feedback: 128 es el valor de $x - 4$ antes de despejar, pero $5^3 = 125$ y no $128$, así que ese valor no proviene del exponente pedido. -->
+- [x] B) 129
+  <!-- feedback: Correcto. $\log_5(x-4)=3$ implica $x - 4 = 5^3 = 125$, de donde $x = 125 + 4 = 129$. -->
+- [ ] C) 121
+  <!-- feedback: 121 corresponde a restar 4 en lugar de sumarlo: el despeje es $x = 125 + 4$, porque el 4 ya estaba restándose. -->
+- [ ] D) 29
+  <!-- feedback: 29 saldría de usar $5^2 = 25$ como exponente, cuando el enunciado pide llegar hasta el exponente 3. -->
 
 ### Explicacion Pedagogica
-Aplicando la definición de logaritmo: $x + 2 = 3^2 \Rightarrow x + 2 = 9 \Rightarrow x = 7$.
+Aplicando la definición de logaritmo en base 5, el argumento de la derecha es $5^3 = 125$: $x - 4 = 125 \Rightarrow x = 125 + 4 = 129$. El signo del 4 determina la operación final, y como en el enunciado aparece restado, el despeje suma.
 
 ---
 
