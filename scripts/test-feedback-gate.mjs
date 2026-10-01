@@ -286,5 +286,99 @@ for (const c of dupCases) grade(c, /share the same feedback/i);
   }
 }
 
+const LABEL_FM = `---
+id: "${ID}"
+country: "colombia"
+grado: 6
+asignatura: "matematicas"
+tema: "potencias-numericas"
+periodo: "weekly"
+week: "W01"
+year: 2026
+bundle_type: "weekly"
+protocol_version: "5.2"
+total_questions: 10
+bundle_size: 10
+alignment: "DBA MEN Colombia"
+bundle_index: 1
+calibration: {difficulty_band: "D3-D4", expected_success: 0.8}
+license: "FREE"
+tier: "legacy"
+creador: "Jules-Agent"
+---`;
+
+// buildLabel reuses the fixture's frontmatter verbatim and only swaps the four
+// option lines, so a rejection can only come from the option text itself.
+const buildLabel = (opts) => {
+  const lines = opts
+    .map((o, i) => {
+      const mark = /\(Correct\)/.test(o) ? 'x' : ' ';
+      const text = o.replace(/\s*\(Correct\)\s*$/, '').trim();
+      return `- [${mark}] ${'ABCD'[i]}) ${text} <!-- feedback: ${
+        mark === 'x'
+          ? 'Correcto. La clave selecciona esta opcion del grupo.'
+          : `Incorrecto. La clave no selecciona ${text}, que nombra una ranura y no un valor.`
+      } -->`;
+    })
+    .join('\n');
+  return `${LABEL_FM}
+
+## Question 1 [D3-D4]
+**ID:** ${ID}-v1
+**Bloom:** Remember
+**ICFES:** Numerico
+**Expected_Success:** 0.90
+**Contexto:** Contexto de prueba en Bogota.
+
+### Enunciado
+Elija la opcion correcta.
+
+### Opciones
+${lines}
+
+### Explicacion Pedagogica
+(1) Se aplica potenciacion. (2) El resultado correcta se verifica sustituyendo.
+
+### Evidencia
+Fuente: prueba unitaria del gate.
+${Array.from({ length: 9 }, (_, k) => fillerQuestion(k + 2)).join('\n')}`;
+};
+
+const labelCases = [
+  { name: 'labels: Option A / Option C', opts: ['Option A (Correct)', 'Option C', 'Option B', 'Option D'], expect: 'reject' },
+  { name: 'labels: Word N', opts: ['Word 2', 'Word 3', 'Word 4', 'Word 1 (Correct)'], expect: 'reject' },
+  { name: 'labels: error pointers', opts: ['Different error', 'Wrong error', 'Word 1 (Correct)', 'The error is here'], expect: 'reject' },
+  { name: 'labels: Structure N', opts: ['Structure 1 (Correct)', 'Structure 2', 'Structure 3', 'Structure 4'], expect: 'reject' },
+  { name: 'real: grammatical categories', opts: ['Noun (Correct)', 'Verb', 'Adjective', 'Adverb'], expect: 'accept' },
+  { name: 'real: verb forms', opts: ['Past participle (Correct)', 'Gerund', 'Infinitive', 'Present simple'], expect: 'accept' },
+  { name: 'real: bare numbers are values, not slots', opts: ['2 (Correct)', '4', '6', '8'], expect: 'accept' },
+];
+
+try {
+  for (const c of labelCases) {
+    fs.writeFileSync(FILE, buildLabel(c.opts), 'utf8');
+    let verdict = 'accept';
+    let msg = '';
+    try {
+      execFileSync('node', [VALIDATOR, FILE], { cwd: REPO, stdio: 'pipe' });
+    } catch (e) {
+      verdict = 'reject';
+      msg = String(e.stderr || '');
+    }
+    // The first block of these can pass for other reasons (filler questions),
+    // so require the placeholder error specifically when one is expected.
+    const hit = /placeholder/i.test(msg);
+    const ok = verdict === c.expect && (c.expect === 'accept' || hit);
+    console.log(`${ok ? 'PASS' : 'FAIL'}  ${c.name.padEnd(52)} validator=${verdict} (want ${c.expect})`);
+    if (ok) pass += 1;
+    else {
+      fail += 1;
+      console.log(`      msg: ${msg.slice(0, 300).replace(/\n/g, ' | ')}`);
+    }
+  }
+} finally {
+  fs.rmSync(FILE, { force: true });
+}
+
 console.log(`\n${pass} passed, ${fail} failed`);
 process.exit(fail ? 1 : 0);

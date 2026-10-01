@@ -49,7 +49,32 @@ export function detectPlaceholder(content, fm, base) {
   if (/Pregunta de prueba \d+|Explicaci[oó]n detallada de la pregunta|Pregunta sobre\s+[\w\s-]+- Grado/i.test(content)) return true;
   // Option-text placeholders only when the WHOLE option text is the placeholder
   // (real feedback often says "la opción correcta es..." or "la opción B...").
-  if (/^- \[[ xX]\]\s*[A-D]\)\s*(Opci[oó]n correcta|Opci[oó]n [A-D]|Distractor \d)\s*$/im.test(content)) return true;
+  if (/^- \[[ xX]\]\s*[A-D]\)\s*(Opci[oó]n correcta|Opci[oó]n [A-D]|Distractor \d|Word \d|Different error|Wrong error|The error is here|The correct word|Your answer|Answer \d)\s*$/im.test(content)) return true;
+  // A bundle whose options are labels pointing at a key ("Word 1", "The error is
+  // here") is not a question. 54 such questions survived the gate for the whole
+  // campaign because every feedback string explained the placeholder perfectly and
+  // nothing looked at the option TEXT.  Two or more label-shaped options in one
+  // question is enough: a real option can be one word ("Past participle").
+  // Cut the feedback comment off FIRST: (.*?)$ is lazy but $ does not know where
+  // the option text ends, so without this the whole feedback lands in the label.
+  const optionLines = [...content.matchAll(/^- \[[ xX]\]\s*[A-D]\)\s*(.*?)(?:<!--|$)/gim)]
+    .map((m) => m[1].trim())
+    .filter(Boolean);
+  // Self-referential labels come in many shapes: "Option A", "Word 2",
+  // "Structure 3", "Sample text", "My version". They name a slot, never an
+  // answer. Strip a trailing "(Correct)" and test what is left.
+  const strip = (o) => o.replace(/\s*\((correct|correcta|right)\)\s*$/i, '').trim();
+  // A bare number is a legitimate option ("2", "4", "6", "8" is a real maths
+  // question), so the numeric branch REQUIRES the noun: "Word 2" is a slot,
+  // "2" is a value. The empty-word branch is dropped for the same reason.
+  const LABEL = /^(Word|Option|Structure|Sample|Answer|Version|Text|Sentence|Item|Response|Paragraph|Line|Question)\s*\d+$|^(Different error|Wrong error|The error is here|The correct word|Your answer|Your version|My version|Sample text|Correct answer|Placeholder|Answer here)$/i;
+  const selfRef = optionLines.filter((o) => {
+    const t = strip(o);
+    if (LABEL.test(t)) return true;
+    // "Option A", "Opción B" — names a letter, not a value.
+    return /^(Opci[oó]n|Option)\s+[A-D]$/i.test(t);
+  });
+  if (selfRef.length >= 2) return true;
   // Exact "test" topic only — real topics like "textos-testimoniales" must not match.
   if (fm && typeof fm.tema === 'string' && /^(test|prueba)$/i.test(fm.tema.trim())) return true;
   if (base && base.toLowerCase().includes('-test-')) return true;
