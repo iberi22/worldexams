@@ -1,0 +1,379 @@
+{
+  "metadata": {
+    "grade": 4,
+    "subject": "matematicas",
+    "country": "co",
+    "pack_id": "co-week-12-grade-4-subject-matematicas",
+    "generated_at": "2026-10-01T17:18:36.146Z"
+  },
+  "questions": [
+    {
+      "id": "CO-MAT-4-2026-W12-fracciones-equivalentes-001-MASTERY-bundle-v1",
+      "statement": "Dos fracciones son equivalentes cuando:",
+      "context": "En una clase de Bogotá la profesora reparte tiras de papel a los estudiantes de cuarto y las dobla a la mitad.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Representan la misma parte de un todo, aunque se escriban distinto",
+          "is_correct": true,
+          "feedback": "Correcto. 1/2 y 2/4 valen lo mismo porque 1 ÷ 2 = 0,5 y 2 ÷ 4 = 0,5, o sea que representan la misma parte."
+        },
+        {
+          "letter": "B",
+          "text": "Tienen el mismo numerador",
+          "is_correct": false,
+          "feedback": "Incorrecto. Con solo el numerador no basta, porque 1/2 y 1/4 tienen el mismo numerador y no son equivalentes."
+        },
+        {
+          "letter": "C",
+          "text": "Tienen el mismo denominador",
+          "is_correct": false,
+          "feedback": "Incorrecto. Con solo el denominador no alcanza, porque 1/4 y 2/4 comparten denominador y son fracciones distintas."
+        },
+        {
+          "letter": "D",
+          "text": "El numerador es igual al denominador",
+          "is_correct": false,
+          "feedback": "Incorrecto. Eso describe las fracciones que valen uno, como 3/3, y no la relación entre dos fracciones equivalentes."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Dos fracciones son equivalentes cuando indican la misma cantidad, aunque se escriban de manera diferente. La forma segura de comprobarlo es dividir el numerador entre el denominador en cada una: si los dos cocientes coinciden, las fracciones son equivalentes, como en 1/2 y 2/4.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Numerico",
+      "expected_success": 0.85,
+      "bundle_id": "CO-MAT-4-2026-W12-fracciones-equivalentes-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-4-2026-W12-fracciones-equivalentes-001-MASTERY-bundle-v2",
+      "statement": "1/2 de hostia es equivalente a:",
+      "context": "En una panadería de Medellín doña Rosa corta las hostias en partes iguales para dos clientes distintos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "1/4",
+          "is_correct": false,
+          "feedback": "Incorrecto. 1/4 es la mitad de 1/2, porque dividir el denominador entre 2 hace la fracción más pequeña."
+        },
+        {
+          "letter": "B",
+          "text": "2/4",
+          "is_correct": true,
+          "feedback": "Correcto. 1 ÷ 2 = 0,5 y 2 ÷ 4 = 0,5, porque al multiplicar numerador y denominador por 2 la fracción no cambia."
+        },
+        {
+          "letter": "C",
+          "text": "2/2",
+          "is_correct": false,
+          "feedback": "Incorrecto. 2/2 vale 1 porque el numerador y el denominador son iguales, y eso representa el todo y no la mitad."
+        },
+        {
+          "letter": "D",
+          "text": "3/4",
+          "is_correct": false,
+          "feedback": "Incorrecto. 3/4 es más grande que 1/2 porque 0,75 es mayor que 0,5, y una fracción no puede crecer sin cambiar."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Para hallar una fracción equivalente se pueden multiplicar o dividir el numerador y el denominador por el mismo número. Partiendo de 1/2 y multiplicando los dos números por 2 se obtiene 2/4, y las dos siguen valiendo 0,5. Por eso 1/2 y 2/4 son la misma parte del todo.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Numerico",
+      "expected_success": 0.83,
+      "bundle_id": "CO-MAT-4-2026-W12-fracciones-equivalentes-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-4-2026-W12-fracciones-equivalentes-001-MASTERY-bundle-v3",
+      "statement": "2/5 de la cosecha se usa para jugo. ¿Qué fracción de la cosecha se usa para guardar en la nevera?",
+      "context": "En una huerta de Bucaramanga los niños reparten la cosecha de frutas en canastas iguales.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "3/7",
+          "is_correct": false,
+          "feedback": "Incorrecto. Cambiaste también el denominador a 7, porque el todo sigue dividido en 5 partes y solo el numerador baja a 3."
+        },
+        {
+          "letter": "B",
+          "text": "2/3",
+          "is_correct": false,
+          "feedback": "Incorrecto. Redujiste el denominador sin motivo, y 5 partes del todo no se convierten en 3 partes nuevas."
+        },
+        {
+          "letter": "C",
+          "text": "3/5",
+          "is_correct": true,
+          "feedback": "Correcto. Lo que queda es 5 - 2 = 3 partes sobre el mismo total de 5, así que la fracción que falta es 3/5."
+        },
+        {
+          "letter": "D",
+          "text": "5/2",
+          "is_correct": false,
+          "feedback": "Incorrecto. Invertiste numerador y denominador, y 5/2 vale 2,5 mientras que la parte que queda está entre 0 y 1."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Como el todo sigue siendo el mismo, el denominador se mantiene en 5. Se usó 2 de las 5 partes, así que quedan 5 - 2 = 3 partes de las mismas 5. Por eso la fracción que se guarda en la nevera es 3/5, que junto con 2/5 suma 5/5 y completa el todo.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Numerico",
+      "expected_success": 0.78,
+      "bundle_id": "CO-MAT-4-2026-W12-fracciones-equivalentes-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-4-2026-W12-fracciones-equivalentes-001-MASTERY-bundle-v4",
+      "statement": "Si 1/4 de la torta es una porción pequeña, ¿qué fracción es equivalente a 3/4 de la torta?",
+      "context": "En una tortillería de Pereira los niños reparten la arepa y comparan las porciones.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "6/8",
+          "is_correct": true,
+          "feedback": "Correcto. 3 x 2 = 6 y 4 x 2 = 8, porque al multiplicar los dos números por 2 la fracción sigue valiendo 0,75."
+        },
+        {
+          "letter": "B",
+          "text": "3/8",
+          "is_correct": false,
+          "feedback": "Incorrecto. Solo duplicaste el denominador, y cambiar solo una de las dos partes rompe la equivalencia de la fracción."
+        },
+        {
+          "letter": "C",
+          "text": "6/4",
+          "is_correct": false,
+          "feedback": "Incorrecto. Duplicaste el numerador y no el denominador, y 6/4 vale 1,5 que es más que la fracción original."
+        },
+        {
+          "letter": "D",
+          "text": "2/8",
+          "is_correct": false,
+          "feedback": "Incorrecto. Dividiste entre 2 solo el numerador, y la equivalencia exige tocar ambos números con la misma operación."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Una fracción equivalente se obtiene multiplicando el numerador y el denominador por el mismo número, sin excepción. Al partir de 3/4 y multiplicar los dos por 2 se llega a 6/8, y las dos siguen valiendo 0,75. Si se cambia solo uno de los números, la fracción deja de ser equivalente.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Numerico",
+      "expected_success": 0.76,
+      "bundle_id": "CO-MAT-4-2026-W12-fracciones-equivalentes-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-4-2026-W12-fracciones-equivalentes-001-MASTERY-bundle-v5",
+      "statement": "En una hoja de 24 líneas se leyeron 3/4. ¿Cuántas líneas equivalen a 3/8 de la hoja?",
+      "context": "En una biblioteca escolar de Cali los niños marcan con una regla la parte de una hoja que ya leyeron.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "6 líneas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Calculaste la mitad de 3/4 en lugar de la mitad de la hoja, porque 3/8 es la mitad de todo y no la mitad de lo leído."
+        },
+        {
+          "letter": "B",
+          "text": "18 líneas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Multiplicaste 24 por 3 y dividiste entre 4 sin tener en cuenta el 8 del denominador de la pregunta."
+        },
+        {
+          "letter": "C",
+          "text": "9 líneas",
+          "is_correct": true,
+          "feedback": "Correcto. 24 ÷ 8 = 3 y 3 x 3 = 9, porque una octava parte de la hoja tiene 3 líneas y tres octavas son 9."
+        },
+        {
+          "letter": "D",
+          "text": "16 líneas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Calculaste dos tercios de la hoja en lugar de tres octavos, y el denominador 8 pide dividir entre 8."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Primero se calcula una octava parte de la hoja dividiendo 24 entre 8: eso da 3 líneas por cada octava parte. Como 3/8 son tres de esas octavas partes, se multiplica 3 x 3 = 9 líneas. Ese resultado coincide con que 3/8 es la mitad de 3/4 y la mitad de 18 es 9.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Resolucion",
+      "expected_success": 0.74,
+      "bundle_id": "CO-MAT-4-2026-W12-fracciones-equivalentes-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-4-2026-W12-fracciones-equivalentes-001-MASTERY-bundle-v6",
+      "statement": "¿Por qué 3/4, 6/8 y 9/12 son fracciones equivalentes?",
+      "context": "En un parque de Manizales la profesora escribe en el tablero varias fracciones y pide a los niños agruparlas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque si se dividen las tres entre 1, 2 y 3 respectivamente todas dan 0,75",
+          "is_correct": true,
+          "feedback": "Correcto. 3 ÷ 4 = 0,75, 6 ÷ 8 = 0,75 y 9 ÷ 12 = 0,75, y por eso las tres valen lo mismo."
+        },
+        {
+          "letter": "B",
+          "text": "Porque todas tienen el mismo número de cifras",
+          "is_correct": false,
+          "feedback": "Incorrecto. La cantidad de cifras no interviene, y por ejemplo 1/2 y 3/4 tienen igual número de cifras y no son equivalentes."
+        },
+        {
+          "letter": "C",
+          "text": "Porque sus numeradores son 3, 6 y 9, que son múltiplos entre sí",
+          "is_correct": false,
+          "feedback": "Incorrecto. Solo el numerador no alcanza, porque 1/2 y 1/4 no son equivalentes aunque el numerador sea el mismo."
+        },
+        {
+          "letter": "D",
+          "text": "Porque el denominador siempre es el doble del numerador",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa regla solo se cumple en 6/12, porque en 3/4 el denominador no es el doble del numerador."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La forma segura de comprobar la equivalencia es dividir. Si en las tres fracciones el cociente entre numerador y denominador da lo mismo, entonces representan la misma cantidad. Aquí 3 ÷ 4, 6 ÷ 8 y 9 ÷ 12 dan todos 0,75, así que las tres son equivalentes y valen tres cuartas partes del mismo todo.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Razonamiento",
+      "expected_success": 0.66,
+      "bundle_id": "CO-MAT-4-2026-W12-fracciones-equivalentes-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-4-2026-W12-fracciones-equivalentes-001-MASTERY-bundle-v7",
+      "statement": "Una señora vende 3/4 de libra de tela y otra dice que vende 9/12 de libra. ¿Tienen razón las dos?",
+      "context": "En una tienda de telas de Bogotá dos señoras comparan dos formas de escribir la misma cantidad de tela.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Solo la primera, porque 3/4 tiene el denominador más pequeño",
+          "is_correct": false,
+          "feedback": "Incorrecto. El denominador más pequeño no demuestra nada, y las dos fracciones valen 0,75 porque 9 ÷ 12 = 0,75."
+        },
+        {
+          "letter": "B",
+          "text": "Las dos, porque 9/12 es equivalente a 3/4 y representa la misma cantidad",
+          "is_correct": true,
+          "feedback": "Correcto. 3 x 3 = 9 y 4 x 3 = 12, porque multiplicar ambos números por 3 mantiene el valor de la fracción."
+        },
+        {
+          "letter": "C",
+          "text": "Solo la segunda, porque 9/12 tiene numerador más grande",
+          "is_correct": false,
+          "feedback": "Incorrecto. Un numerador más grande no significa más cantidad, porque el denominador también creció en la misma proporción."
+        },
+        {
+          "letter": "D",
+          "text": "Ninguna, porque la libra no se puede dividir así",
+          "is_correct": false,
+          "feedback": "Incorrecto. La libra sí se puede dividir, y el enunciado solo pide comparar si las dos fraciones dicen lo mismo."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Para saber si las dos señoras dicen lo mismo se comparan los valores. Como 3 ÷ 4 = 0,75 y 9 ÷ 12 = 0,75, las dos fracciones equivalen a tres cuartas partes de libra. Eso pasa porque 9 es 3 por 3 y 12 es 4 por 3, así que multiplicar numerador y denominador por el mismo número no cambia la fracción.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Razonamiento",
+      "expected_success": 0.64,
+      "bundle_id": "CO-MAT-4-2026-W12-fracciones-equivalentes-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-4-2026-W12-fracciones-equivalentes-001-MASTERY-bundle-v8",
+      "statement": "Una tarea del pizarrón dice que 5/10 es equivalente a 1/2. ¿Qué afirmaciones son verdaderas?",
+      "context": "En una cartelera de Medellín un maestro escribe en el pizarrón tres respuestas para la misma pregunta.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Solo la primera: 5/10 es equivalente a 1/2",
+          "is_correct": false,
+          "feedback": "Incorrecto. La primera parte es cierta, pero decir \"solo\" descarta una segunda afirmación que también es verdadera."
+        },
+        {
+          "letter": "B",
+          "text": "Solo la segunda: se simplifica dividiendo ambos números entre 5",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa parte también es verdadera, pero la respuesta deja fuera que 5/10 sí equivale a 1/2."
+        },
+        {
+          "letter": "C",
+          "text": "Las dos: 5/10 equivale a 1/2 y esa equivalencia se obtiene al dividir ambos números entre 5",
+          "is_correct": true,
+          "feedback": "Correcto. 5 ÷ 5 = 1 y 10 ÷ 5 = 2, y ese procedimiento es exactamente el de simplificar la fracción."
+        },
+        {
+          "letter": "D",
+          "text": "Ninguna, porque 5/10 tiene dos cifras y 1/2 solo una",
+          "is_correct": false,
+          "feedback": "Incorrecto. La cantidad de cifras no importa, y lo que importa es que ambas valen 0,5."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La tarea del pizarrón tiene dos afirmaciones que se pueden comprobar por separado. La primera es que 5/10 equivale a 1/2, y se confirma porque 5 ÷ 10 = 0,5 y 1 ÷ 2 = 0,5. La segunda es que esa equivalencia se logra dividiendo ambos números entre 5, y también es cierta: 5 ÷ 5 = 1 y 10 ÷ 5 = 2. Como las dos son verdaderas, la respuesta correcta es la tercera.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Variacional",
+      "expected_success": 0.6,
+      "bundle_id": "CO-MAT-4-2026-W12-fracciones-equivalentes-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 4,
+      "country": "co"
+    }
+  ]
+}

@@ -1,0 +1,379 @@
+{
+  "metadata": {
+    "grade": 4,
+    "subject": "matematicas",
+    "country": "co",
+    "pack_id": "co-week-13-grade-4-subject-matematicas",
+    "generated_at": "2026-10-01T17:18:36.147Z"
+  },
+  "questions": [
+    {
+      "id": "CO-MAT-4-2026-W13-adicion-y-resta-de-fraccionarios-001-MASTERY-bundle-v1",
+      "statement": "Al sumar fracciones que tienen el mismo denominador, ¿qué se debe hacer?",
+      "context": "En una clase de Bogotá la profesora reparte fichas de colores y los niños anotan las partes que toman.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Sumar los numeradores y dejar el mismo denominador",
+          "is_correct": true,
+          "feedback": "Correcto. Como las partes son del mismo tamaño, solo se suman los numeradores: 2/5 + 3/5 = 5/5 porque el denominador no cambia."
+        },
+        {
+          "letter": "B",
+          "text": "Sumar los numeradores y también los denominadores",
+          "is_correct": false,
+          "feedback": "Incorrecto. Al sumar los denominadores, 2/5 + 3/5 daría 5/10, y esa fracción vale la mitad de la respuesta correcta."
+        },
+        {
+          "letter": "C",
+          "text": "Restar el numerador del denominador",
+          "is_correct": false,
+          "feedback": "Incorrecto. Eso es una resta y no una suma, porque el procedimiento de la adición es juntar las dos partes del mismo todo."
+        },
+        {
+          "letter": "D",
+          "text": "Dividir el denominador entre los dos numeradores",
+          "is_correct": false,
+          "feedback": "Incorrecto. No hay ninguna división en la suma de fracciones de igual denominador, porque las partes ya son del mismo tamaño."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Cuando el denominador es el mismo, las dos fracciones ya están expresadas en partes del mismo tamaño. Por eso basta con sumar los numeradores y conservar el denominador: 2/5 + 3/5 = (2 + 3)/5 = 5/5. Sumar también los denominadores cambiaría el tamaño de la parte y daría un resultado falso.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Numerico",
+      "expected_success": 0.85,
+      "bundle_id": "CO-MAT-4-2026-W13-adicion-y-resta-de-fraccionarios-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-4-2026-W13-adicion-y-resta-de-fraccionarios-001-MASTERY-bundle-v2",
+      "statement": "Un niño bebió 1/4 de litro y luego otro cuarto de litro. ¿Qué fracción de litro bebió en total?",
+      "context": "En una merienda escolar de Bucaramanga doña Rosa reparte jugo entre los niños y mide todo en vasos iguales.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "2/4",
+          "is_correct": true,
+          "feedback": "Correcto. 1/4 + 1/4 = 2/4 porque los denominadores son iguales y solo se suman los numeradores."
+        },
+        {
+          "letter": "B",
+          "text": "2/8",
+          "is_correct": false,
+          "feedback": "Incorrecto. Multiplicaste también el denominador, y como el tamaño de la parte no cambió el denominador debe seguir en 4."
+        },
+        {
+          "letter": "C",
+          "text": "1/8",
+          "is_correct": false,
+          "feedback": "Incorrecto. Dividiste entre 2 en vez de sumar, porque el segundo cuarto de litro se agrega y no se quita."
+        },
+        {
+          "letter": "D",
+          "text": "4/2",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sumaste los denominadores, y 4/2 vale 2 litros cuando lo que el niño bebió fue medio litro."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Las dos cantidades están medidas en cuartos de litro, así que el denominador 4 se conserva. Se suman solamente los numeradores: 1 + 1 = 2, y el resultado es 2/4 de litro. Esa fracción se puede simplificar a 1/2, pero las dos formas dicen la misma cantidad bebida.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Numerico",
+      "expected_success": 0.83,
+      "bundle_id": "CO-MAT-4-2026-W13-adicion-y-resta-de-fraccionarios-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-4-2026-W13-adicion-y-resta-de-fraccionarios-001-MASTERY-bundle-v3",
+      "statement": "Calcule 3/8 + 2/8.",
+      "context": "En una cartilla escolar de Medellín los niños pintan fracciones de una cinta de papel con colores distintos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "5/16",
+          "is_correct": false,
+          "feedback": "Incorrecto. Multiplicaste por 2 el denominador además de sumar, y 5/16 vale la mitad de lo que corresponde."
+        },
+        {
+          "letter": "B",
+          "text": "5/8",
+          "is_correct": true,
+          "feedback": "Correcto. 3 + 2 = 5 y el denominador 8 no cambia, porque las dos fracciones tienen partes del mismo tamaño."
+        },
+        {
+          "letter": "C",
+          "text": "5/10",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sumaste los denominadores, 8 + 2 = 10, y al hacer eso cambiaste el tamaño de cada parte."
+        },
+        {
+          "letter": "D",
+          "text": "1/8",
+          "is_correct": false,
+          "feedback": "Incorrecto. Restaste los numeradores, 3 - 2 = 1, cuando el enunciado pide una suma y no una resta."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El procedimiento en una suma de fracciones de igual denominador es sumar los numeradores y dejar el denominador. En este caso 3/8 + 2/8 = (3 + 2)/8 = 5/8. El resultado representa cinco octavos del total, y se puede comprobar contando cinco partes de las ocho pintadas en la cinta.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Numerico",
+      "expected_success": 0.78,
+      "bundle_id": "CO-MAT-4-2026-W13-adicion-y-resta-de-fraccionarios-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-4-2026-W13-adicion-y-resta-de-fraccionarios-001-MASTERY-bundle-v4",
+      "statement": "Un niño comió 2/6 de su almuerzo y su hermana comió 1/6. ¿Qué fracción comieron los dos juntos?",
+      "context": "En una visita a una granja de Pereira los niños reciben tarjetas con fracciones para comparar lo que comieron.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "3/12",
+          "is_correct": false,
+          "feedback": "Incorrecto. Multiplicaste por 2 el denominador, y como las dos partes eran del mismo tamaño el denominador 6 debe quedarse."
+        },
+        {
+          "letter": "B",
+          "text": "2/12",
+          "is_correct": false,
+          "feedback": "Incorrecto. Multiplicaste los dos denominadores entre sí, 6 x 6 = 36, y esa cuenta no corresponde a una suma."
+        },
+        {
+          "letter": "C",
+          "text": "3/6",
+          "is_correct": true,
+          "feedback": "Correcto. 2 + 1 = 3 y el denominador sigue en 6, porque las dos fracciones hablan de partes iguales del mismo almuerzo."
+        },
+        {
+          "letter": "D",
+          "text": "1/3",
+          "is_correct": false,
+          "feedback": "Incorrecto. Simplificaste mal el resultado, porque 3/6 equivale a 1/2 y no a 1/3."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Los dos niños comieron partes del mismo almuerzo y por eso el denominador 6 sirve para las dos fracciones. La suma se hace solo en los numeradores: 2 + 1 = 3, así que comieron 3/6 del almuerzo. Esa fracción se puede simplificar a 1/2, que significa que entre los dos comieron la mitad del almuerzo.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Resolucion",
+      "expected_success": 0.76,
+      "bundle_id": "CO-MAT-4-2026-W13-adicion-y-resta-de-fraccionarios-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-4-2026-W13-adicion-y-resta-de-fraccionarios-001-MASTERY-bundle-v5",
+      "statement": "Un recipiente tiene 3/4 de litro de jugo y se le agregan 2/8 de litro. ¿Qué fracción de litro queda al terminar la mezcla?",
+      "context": "En un taller de cocina de Manizales las estudiantes preparan una mezcla y anotan las medidas en la libreta.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "5/12",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sumaste 3 + 2 y también 4 + 8, cuando lo correcto es convertir primero 2/8 a 4/16 para tener denominador igual."
+        },
+        {
+          "letter": "B",
+          "text": "1/1",
+          "is_correct": true,
+          "feedback": "Correcto. 2/8 equivale a 1/4 y 3/4 + 1/4 = 4/4 = 1, porque las dos partes unidas completan un litro entero."
+        },
+        {
+          "letter": "C",
+          "text": "1/12",
+          "is_correct": false,
+          "feedback": "Incorrecto. Restaste 3 - 2 sin convertir los denominadores, y la pregunta es qué queda después de agregar."
+        },
+        {
+          "letter": "D",
+          "text": "1/4",
+          "is_correct": false,
+          "feedback": "Incorrecto. Confundiste la fracción que se agregó con el resultado, porque 2/8 es la porción nueva y no la mezcla completa."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Como los denominadores son distintos, primero se busca un denominador común. El mínimo común múltiplo de 4 y 8 es 8, y 3/4 se convierte en 6/8. Con los dos términos en octavos la suma es directa: 6/8 + 2/8 = 8/8, que equivale a un litro entero, es decir 1/1.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Resolucion",
+      "expected_success": 0.74,
+      "bundle_id": "CO-MAT-4-2026-W13-adicion-y-resta-de-fraccionarios-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-4-2026-W13-adicion-y-resta-de-fraccionarios-001-MASTERY-bundle-v6",
+      "statement": "¿Cuál es el error al querer sumar 1/2 y 1/3 con solo sumar los numeradores y los denominadores?",
+      "context": "En una salida de campo a Bogotá la profesora explica por qué no se pueden sumar fracciones con denominadores distintos así sin más.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que el resultado debe ser siempre mayor que 1",
+          "is_correct": false,
+          "feedback": "Incorrecto. El error no está en el tamaño del resultado, porque 1/2 + 1/3 vale menos de 1 y eso es posible."
+        },
+        {
+          "letter": "B",
+          "text": "Que se están mezclando partes de tamaños diferentes, porque el medio y el tercio no miden igual",
+          "is_correct": true,
+          "feedback": "Correcto. Un medio y un tercio son tamaños distintos, así que hay que convertirlos a sextos antes de sumarlos."
+        },
+        {
+          "letter": "C",
+          "text": "Que los numeradores deben multiplicarse en vez de sumarse",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los numeradores sí se suman al final, y el problema real es que los denominadores no son iguales."
+        },
+        {
+          "letter": "D",
+          "text": "Que las fracciones deben llevar siempre punto y coma",
+          "is_correct": false,
+          "feedback": "Incorrecto. La notación no es el problema, porque las fracciones se pueden escribir con guion o con barra sin cambiar su valor."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Sumar fracciones exige que las dos partes midan lo mismo. Como un medio y un tercio tienen tamaños diferentes, no se pueden sumar de inmediato. El camino correcto es convertirlas a sextos: 1/2 = 3/6 y 1/3 = 2/6, y luego sumar 3 + 2 = 5, lo que da 5/6.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Razonamiento",
+      "expected_success": 0.66,
+      "bundle_id": "CO-MAT-4-2026-W13-adicion-y-resta-de-fraccionarios-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-4-2026-W13-adicion-y-resta-de-fraccionarios-001-MASTERY-bundle-v7",
+      "statement": "Un niño se tomó 5/6 de su medicina en la mañana y se tomó 1/6 más en la tarde. ¿Cuánta medicina tomó en total?",
+      "context": "En un consultorio de Cartagena un niño recibe tratamiento y la mamá lleva el registro de las tomas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "5/6",
+          "is_correct": false,
+          "feedback": "Incorrecto. Copiaste la cantidad de la mañana, pero el enunciado también dice que tomó una parte más en la tarde."
+        },
+        {
+          "letter": "B",
+          "text": "4/6",
+          "is_correct": false,
+          "feedback": "Incorrecto. Restaste 5 - 1 = 4, cuando el 1/6 es lo que se tomó después y por eso se agrega y no se quita."
+        },
+        {
+          "letter": "C",
+          "text": "6/6",
+          "is_correct": true,
+          "feedback": "Correcto. 5/6 + 1/6 = 6/6 porque los denominadores son iguales y los numeradores suman 6, y eso equivale a toda la medicina."
+        },
+        {
+          "letter": "D",
+          "text": "11/6",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sumaste también los denominadores, y eso da un valor mayor que 1 cuando la medicina total es una sola dosis."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Las dos cantidades están en sextos, así que el denominador se conserva y se suman los numeradores: 5 + 1 = 6. El resultado es 6/6, que equivale a 1 y representa toda la medicina del día. Si se sumaran también los denominadores se obtendría un número mayor que 1, lo cual es imposible porque no hay más medicina que la del envase.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Razonamiento",
+      "expected_success": 0.64,
+      "bundle_id": "CO-MAT-4-2026-W13-adicion-y-resta-de-fraccionarios-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-4-2026-W13-adicion-y-resta-de-fraccionarios-001-MASTERY-bundle-v8",
+      "statement": "Un niño dice que 2/3 + 1/3 = 3/6. ¿Qué se puede afirmar de esa respuesta?",
+      "context": "En una pastelería de Medellín dos estudiantes discuten cómo se puede saber si un resultado de fracción es razonable.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es correcta, porque se sumaron numeradores y denominadores",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sumar también los denominadores cambia el tamaño de la parte, y por eso 3/6 no representa la suma real."
+        },
+        {
+          "letter": "B",
+          "text": "Es incorrecta, y la suma correcta es 3/3",
+          "is_correct": false,
+          "feedback": "Incorrecto. Concluir que está mal sí es cierto, pero esa respuesta descarta la conclusión correcta porque la suma es 1 y no 3/3."
+        },
+        {
+          "letter": "C",
+          "text": "Es incorrecta, y la suma correcta es 3/3 porque los denominadores ya eran iguales",
+          "is_correct": true,
+          "feedback": "Correcto. 2/3 + 1/3 = (2 + 1)/3 = 3/3 = 1, porque al tener igual denominador solo se suman los numeradores."
+        },
+        {
+          "letter": "D",
+          "text": "Es correcta, porque 3/6 y 3/3 son la misma fracción",
+          "is_correct": false,
+          "feedback": "Incorrecto. 3/6 vale 0,5 y 3/3 vale 1, y por eso no son la misma fracción y la conclusión falla."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El error del niño está en tocar el denominador, porque al cambiarlo cambia el tamaño de cada parte. Como 2/3 y 1/3 ya están en tercios, el denominador 3 se conserva y solo se suman los numeradores: 2 + 1 = 3, dando 3/3. Ese resultado vale 1, mientras que 3/6 vale solo la mitad, así que la respuesta del niño no puede ser correcta.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Variacional",
+      "expected_success": 0.6,
+      "bundle_id": "CO-MAT-4-2026-W13-adicion-y-resta-de-fraccionarios-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 4,
+      "country": "co"
+    }
+  ]
+}

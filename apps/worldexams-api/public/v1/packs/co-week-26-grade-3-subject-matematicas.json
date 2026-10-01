@@ -1,0 +1,379 @@
+{
+  "metadata": {
+    "grade": 3,
+    "subject": "matematicas",
+    "country": "co",
+    "pack_id": "co-week-26-grade-3-subject-matematicas",
+    "generated_at": "2026-10-01T17:18:36.143Z"
+  },
+  "questions": [
+    {
+      "id": "CO-MAT-3-2026-W26-patrones-multiplicativos-001-MASTERY-bundle-v1",
+      "statement": "En el patrón 3, 6, 12, 24, ¿qué operación se repite para pasar de un número al siguiente?",
+      "context": "En la clase de tercero en Bogotá la profesora escribe una secuencia de números en el tablero para que los niños descubran la regla.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Restar 3",
+          "is_correct": false,
+          "feedback": "Incorrecto. Si se restara 3 la serie bajaría de 24 a 21, y aquí los números van de 3 a 6, o sea que crecen."
+        },
+        {
+          "letter": "B",
+          "text": "Sumar 1",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sumar 1 daría 3, 4, 5 y 6, pero la serie avanza de tres en tres porque de 3 a 6 el salto es de 3."
+        },
+        {
+          "letter": "C",
+          "text": "Multiplicar por 2",
+          "is_correct": true,
+          "feedback": "Correcto. La serie dobla cada vez porque 3 x 2 = 6 y 6 x 2 = 12, así que el siguiente término es 12 x 2 = 24."
+        },
+        {
+          "letter": "D",
+          "text": "Dividir entre 2",
+          "is_correct": false,
+          "feedback": "Incorrecto. Dividir entre 2 haría la serie más pequeña, y lo que se observa es que cada número es el doble del anterior."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Un patrón multiplicativo se reconoce cuando cada término se obtiene multiplicando el anterior por un número fijo. En la serie 3, 6, 12, 24 cada término es el doble del anterior, porque 3 x 2 = 6 y 6 x 2 = 12, así que la regla que se repite es multiplicar por 2.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Razonamiento",
+      "expected_success": 0.84,
+      "bundle_id": "CO-MAT-3-2026-W26-patrones-multiplicativos-001-MASTERY-bundle",
+      "periodo": 26,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-3-2026-W26-patrones-multiplicativos-001-MASTERY-bundle-v2",
+      "statement": "Si cada empanada cuesta $2.000, ¿qué patrón forma la serie de precios 6.000, 12.000 y 24.000?",
+      "context": "En un puesto de empanadas de Medellín doña Rosa vende empanadas y el precio de cada empanada es siempre el mismo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Un patrón que suma 2.000 a cada paso",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sumar 2.000 daría 6.000, 8.000 y 10.000, pero los precios de la serie se duplican en cada paso."
+        },
+        {
+          "letter": "B",
+          "text": "Un patrón que multiplica por 2 el valor de cada empanada agrupada",
+          "is_correct": true,
+          "feedback": "Correcto. Cada valor es el doble del anterior porque 6.000 x 2 = 12.000 y 12.000 x 2 = 24.000, así que el factor es 2."
+        },
+        {
+          "letter": "C",
+          "text": "Un patrón que suma 6.000 a cada paso",
+          "is_correct": false,
+          "feedback": "Incorrecto. Si sumara 6.000 la serie sería 6.000, 12.000 y 18.000, y el último valor de la serie es 24.000."
+        },
+        {
+          "letter": "D",
+          "text": "Un patrón que multiplica por 3 el valor de cada empanada agrupada",
+          "is_correct": false,
+          "feedback": "Incorrecto. Multiplicar por 3 daría 6.000, 18.000 y 54.000, y el valor que sigue en la serie después de 12.000 es 24.000."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Para reconocer el patrón se compara cada término con el anterior. Como 6.000 x 2 = 12.000 y 12.000 x 2 = 24.000, cada valor se obtiene multiplicando el anterior por 2. Por eso la serie es un patrón multiplicativo de factor 2, no de factor 3 ni de suma.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Numerico",
+      "expected_success": 0.82,
+      "bundle_id": "CO-MAT-3-2026-W26-patrones-multiplicativos-001-MASTERY-bundle",
+      "periodo": 26,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-3-2026-W26-patrones-multiplicativos-001-MASTERY-bundle-v3",
+      "statement": "Si el patrón es 5, 10, 20, 40, ¿cuál es el siguiente número?",
+      "context": "En una salida escolar de Bucaramanga los alumnos llegan a la sala de clase de 5 en 5 y la profesora los va anotando.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "80",
+          "is_correct": true,
+          "feedback": "Correcto. 40 x 2 = 80 porque cada número de la serie es el doble del anterior en este patrón multiplicativo."
+        },
+        {
+          "letter": "B",
+          "text": "45",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sumaste 5 al final, 40 + 5 = 45, y en un patrón multiplicativo el salto es x 2 y no + 5."
+        },
+        {
+          "letter": "C",
+          "text": "200",
+          "is_correct": false,
+          "feedback": "Incorrecto. Multiplicaste 40 por 5, y en esta serie el factor es 2 porque 5 x 2 = 10 y no 5 x 5 = 25."
+        },
+        {
+          "letter": "D",
+          "text": "42",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sumaste 2 al final, 40 + 2 = 42, pero la regla del patrón es multiplicar el término y no sumarle 2."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Para hallar el siguiente número se aplica la regla que une los términos: 5 x 2 = 10, 10 x 2 = 20 y 20 x 2 = 40. Como el patrón multiplica por 2, el término que sigue a 40 se obtiene con 40 x 2 = 80.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Numerico",
+      "expected_success": 0.78,
+      "bundle_id": "CO-MAT-3-2026-W26-patrones-multiplicativos-001-MASTERY-bundle",
+      "periodo": 26,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-3-2026-W26-patrones-multiplicativos-001-MASTERY-bundle-v4",
+      "statement": "Si las fichas se duplican en cada ronda, ¿cuántas fichas habrá después de 3 rondas?",
+      "context": "En un juego de mesa de Pereira cada ronda los jugadores duplican las fichas que tienen y todos empiezan con 4 fichas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "12 fichas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sumaste 4 tres veces, 4 + 4 + 4 = 12, pero duplicar significa multiplicar por 2 y no sumar el valor inicial."
+        },
+        {
+          "letter": "B",
+          "text": "32 fichas",
+          "is_correct": true,
+          "feedback": "Correcto. Se duplica tres veces: 4 x 2 = 8, 8 x 2 = 16 y 16 x 2 = 32, así que quedan 32 fichas."
+        },
+        {
+          "letter": "C",
+          "text": "24 fichas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Multiplicaste 4 por 6, y cada ronda solo aplica un factor de 2 porque duplicar es una sola operación."
+        },
+        {
+          "letter": "D",
+          "text": "16 fichas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese 16 corresponde a la segunda ronda, y la pregunta pide el total después de completar 3 rondas."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Duplicar significa multiplicar por 2. Empezando con 4 fichas: en la ronda 1 hay 4 x 2 = 8; en la ronda 2, 8 x 2 = 16; y en la ronda 3, 16 x 2 = 32. El resultado son 32 fichas porque el patrón multiplicativo actúa tres veces seguidas.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Resolucion",
+      "expected_success": 0.76,
+      "bundle_id": "CO-MAT-3-2026-W26-patrones-multiplicativos-001-MASTERY-bundle",
+      "periodo": 26,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-3-2026-W26-patrones-multiplicativos-001-MASTERY-bundle-v5",
+      "statement": "La primera jaula tiene 3 pollitos, la segunda 6 y la tercera 12. ¿Cuántos pollitos tiene la quinta jaula?",
+      "context": "En un criadero de Manizales el dueño cuenta los pollitos por jaulas y cada jaula tiene el doble de pollitos que la jaula anterior.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "27 pollitos",
+          "is_correct": false,
+          "feedback": "Incorrecto. Multiplicaste por 3, y en esta serie cada jaula tiene el doble de la anterior porque 3 x 2 = 6."
+        },
+        {
+          "letter": "B",
+          "text": "15 pollitos",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sumaste 3 en cada paso, 12 + 3 = 15, cuando el enunciado dice que cada jaula duplica la cantidad anterior."
+        },
+        {
+          "letter": "C",
+          "text": "24 pollitos",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese 24 corresponde a la cuarta jaula, y la pregunta pide el número de pollitos de la quinta jaula."
+        },
+        {
+          "letter": "D",
+          "text": "48 pollitos",
+          "is_correct": true,
+          "feedback": "Correcto. La cuarta jaula tiene 12 x 2 = 24 y la quinta 24 x 2 = 48, porque el patrón multiplica por 2."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "La serie de pollitos por jaula es 3, 6, 12, y cada término se obtiene multiplicando el anterior por 2. Siguiendo esa regla, la cuarta jaula tiene 12 x 2 = 24 pollitos y la quinta tiene 24 x 2 = 48 pollitos.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Resolucion",
+      "expected_success": 0.74,
+      "bundle_id": "CO-MAT-3-2026-W26-patrones-multiplicativos-001-MASTERY-bundle",
+      "periodo": 26,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-3-2026-W26-patrones-multiplicativos-001-MASTERY-bundle-v6",
+      "statement": "Dos patrones son 2, 4, 8, 16 y 3, 6, 12, 24. ¿Qué tienen en común y en qué se diferencian?",
+      "context": "En un taller de pintura de Cartagena dos estudiantes hacen cuadernos y cada cuaderno usa el doble de pinceles que el cuaderno anterior.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Los dos multiplican por 2, pero parten de números distintos: uno de 2 y otro de 3",
+          "is_correct": true,
+          "feedback": "Correcto. Las dos series multiplican por 2, pero la primera arranca en 2 y la segunda en 3, así que sus términos no coinciden."
+        },
+        {
+          "letter": "B",
+          "text": "Los dos son idénticos, porque multiplicar por 2 siempre da el mismo resultado",
+          "is_correct": false,
+          "feedback": "Incorrecto. El factor es el mismo pero el punto de partida cambia, y por eso 2 x 2 = 4 no es igual que 3 x 2 = 6."
+        },
+        {
+          "letter": "C",
+          "text": "El primero multiplica por 2 y el segundo suma 3",
+          "is_correct": false,
+          "feedback": "Incorrecto. El segundo patrón también multiplica, porque 3 x 2 = 6 y 6 x 2 = 12, y no está sumando 3 cada vez."
+        },
+        {
+          "letter": "D",
+          "text": "El primero es multiplicativo y el segundo es aditivo",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los dos son multiplicativos, ya que en cada serie el término siguiente es el doble del anterior."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Las dos series avanzan multiplicando por 2: en la primera 2 x 2 = 4 y 4 x 2 = 8, y en la segunda 3 x 2 = 6 y 6 x 2 = 12. Lo que cambia es el punto de partida, porque la primera arranca en 2 y la segunda en 3, así que sus términos son distintos entre sí.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Razonamiento",
+      "expected_success": 0.66,
+      "bundle_id": "CO-MAT-3-2026-W26-patrones-multiplicativos-001-MASTERY-bundle",
+      "periodo": 26,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-3-2026-W26-patrones-multiplicativos-001-MASTERY-bundle-v7",
+      "statement": "En la semana 1 la máquina hizo 50 piezas y en la semana 2 hizo 200 piezas. Si cada semana se cuadruplica la producción, ¿cuántas piezas habrá en la semana 5?",
+      "context": "En una fábrica de Bogotá una máquina produce piezas de plástico y el gerente compara el patrón de producción de dos semanas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "300 piezas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sumaste 50 y 200 y repetiste la operación, pero si la producción se cuadruplica el salto es x 4 y no una adición."
+        },
+        {
+          "letter": "B",
+          "text": "12.800 piezas",
+          "is_correct": true,
+          "feedback": "Correcto. Se cuadruplica cada semana: 200 x 4 = 800, 800 x 4 = 3.200 y 3.200 x 4 = 12.800 piezas en la semana 5."
+        },
+        {
+          "letter": "C",
+          "text": "250 piezas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Promediaste las dos semanas, y el enunciado pide seguir el patrón multiplicativo que cuadruplica la producción."
+        },
+        {
+          "letter": "D",
+          "text": "800 piezas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese 800 corresponde a la semana 3, y la pregunta pide cuántas piezas habrá en la semana 5."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La producción se cuadruplica, o sea que se multiplica por 4. Como la semana 2 tiene 200 piezas, la semana 3 tiene 200 x 4 = 800, la semana 4 tiene 800 x 4 = 3.200 y la semana 5 tiene 3.200 x 4 = 12.800 piezas.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Razonamiento",
+      "expected_success": 0.64,
+      "bundle_id": "CO-MAT-3-2026-W26-patrones-multiplicativos-001-MASTERY-bundle",
+      "periodo": 26,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-3-2026-W26-patrones-multiplicativos-001-MASTERY-bundle-v8",
+      "statement": "Un hilo mide 3 centímetros y la regla dice que cada día se duplica. ¿Cuál serie describe mejor la longitud del hilo en los primeros cuatro días?",
+      "context": "En un taller de textiles de Medellín una tejedora mide un hilo y propone una regla para su longitud día a día.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "3, 6, 9, 12",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa serie suma 3 cada día, y la regla del enunciado dice que la longitud se duplica y no que sume 3."
+        },
+        {
+          "letter": "B",
+          "text": "3, 6, 12, 24",
+          "is_correct": true,
+          "feedback": "Correcto. Aplicando la regla del enunciado, 3 x 2 = 6, 6 x 2 = 12 y 12 x 2 = 24, que es un patrón multiplicativo."
+        },
+        {
+          "letter": "C",
+          "text": "3, 9, 27, 81",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa serie multiplica por 3, pero el enunciado dice que el hilo se duplica, o sea que el factor es 2 y no 3."
+        },
+        {
+          "letter": "D",
+          "text": "3, 5, 7, 9",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sumaste 2 cada día, y duplicar significa multiplicar por 2 porque 3 x 2 = 6 y no 3 + 2 = 5."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La regla propuesta es multiplicar por 2 cada día. Como el hilo mide 3 centímetros, el primer día mide 3 x 2 = 6, el segundo 6 x 2 = 12 y el tercero 12 x 2 = 24. La serie correcta es 3, 6, 12, 24, que corresponde a un patrón multiplicativo de factor 2.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Variacional",
+      "expected_success": 0.6,
+      "bundle_id": "CO-MAT-3-2026-W26-patrones-multiplicativos-001-MASTERY-bundle",
+      "periodo": 26,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 3,
+      "country": "co"
+    }
+  ]
+}

@@ -1,0 +1,379 @@
+{
+  "metadata": {
+    "grade": 3,
+    "subject": "matematicas",
+    "country": "co",
+    "pack_id": "co-week-27-grade-3-subject-matematicas",
+    "generated_at": "2026-10-01T17:18:36.143Z"
+  },
+  "questions": [
+    {
+      "id": "CO-MAT-3-2026-W27-medicion-longitud-masa-y-capacidad-001-MASTERY-bundle-v1",
+      "statement": "¿Cuál de las siguientes medidas corresponde a una masa?",
+      "context": "En el laboratorio de Bogotá los niños de tercero observan cómo se miden las cosas en su salón de clases.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "3 kilogramos",
+          "is_correct": true,
+          "feedback": "Correcto. El kilogramo es una unidad de masa porque sirve para medir cuánto pesa un cuerpo."
+        },
+        {
+          "letter": "B",
+          "text": "5 metros",
+          "is_correct": false,
+          "feedback": "Incorrecto. El metro es una unidad de longitud, porque mide la distancia entre dos puntos y no el peso."
+        },
+        {
+          "letter": "C",
+          "text": "2 litros",
+          "is_correct": false,
+          "feedback": "Incorrecto. El litro es una unidad de capacidad o volumen, porque mide cuánto líquido cabe en un recipiente."
+        },
+        {
+          "letter": "D",
+          "text": "7 centímetros",
+          "is_correct": false,
+          "feedback": "Incorrecto. El centímetro es una unidad de longitud, porque mide tamaños pequeños y no el peso de un cuerpo."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Las magnitudes se miden con unidades distintas. La longitud se mide en centímetros o metros, la masa en gramos o kilogramos, y la capacidad en litros o mililitros. Como el kilogramo mide cuánto pesa un cuerpo, la medida 3 kilogramos corresponde a una masa.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Numerico",
+      "expected_success": 0.85,
+      "bundle_id": "CO-MAT-3-2026-W27-medicion-longitud-masa-y-capacidad-001-MASTERY-bundle",
+      "periodo": 27,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-3-2026-W27-medicion-longitud-masa-y-capacidad-001-MASTERY-bundle-v2",
+      "statement": "Si la botella de leche tiene 1 litro, ¿cuántos mililitros tiene?",
+      "context": "En una cocina de Medellín doña Rosa guarda la leche en la nevera en una botella y mide el arroz con una taza.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "1 mililitro",
+          "is_correct": false,
+          "feedback": "Incorrecto. Confundiste el litro con su parte más pequeña, porque 1 litro es la unidad mayor y no la menor."
+        },
+        {
+          "letter": "B",
+          "text": "1.000 mililitros",
+          "is_correct": true,
+          "feedback": "Correcto. 1 x 1.000 = 1.000 mililitros porque el mililitro es la milésima parte del litro."
+        },
+        {
+          "letter": "C",
+          "text": "100 mililitros",
+          "is_correct": false,
+          "feedback": "Incorrecto. Te faltaron dos ceros en la cuenta, porque para convertir litros en mililitros se multiplica por 1.000."
+        },
+        {
+          "letter": "D",
+          "text": "10.000 mililitros",
+          "is_correct": false,
+          "feedback": "Incorrecto. Multiplicaste por 10.000 en lugar de por 1.000, y esa conversión corresponde a otra magnitud y no al litro."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Un litro es igual a 1.000 mililitros porque el mililitro es la milésima parte del litro. Para convertir se multiplica la cantidad de litros por 1.000: 1 x 1.000 = 1.000 mililitros. Por eso la botella de un litro de leche contiene 1.000 mililitros.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Numerico",
+      "expected_success": 0.83,
+      "bundle_id": "CO-MAT-3-2026-W27-medicion-longitud-masa-y-capacidad-001-MASTERY-bundle",
+      "periodo": 27,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-3-2026-W27-medicion-longitud-masa-y-capacidad-001-MASTERY-bundle-v3",
+      "statement": "Un paquete de carne pesa 2 kilogramos. ¿Cuántos gramos pesa ese paquete?",
+      "context": "En una tienda de Bucaramanga el carnicero pesa un paquete de carne y anota su masa en la báscula.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "2.000 gramos",
+          "is_correct": true,
+          "feedback": "Correcto. 2 x 1.000 = 2.000 gramos porque 1 kilogramo equivale a 1.000 gramos."
+        },
+        {
+          "letter": "B",
+          "text": "20 gramos",
+          "is_correct": false,
+          "feedback": "Incorrecto. Multiplicaste por 10 en lugar de por 1.000, porque el gramo es la milésima parte del kilogramo."
+        },
+        {
+          "letter": "C",
+          "text": "2.000.000 gramos",
+          "is_correct": false,
+          "feedback": "Incorrecto. Multiplicaste por un millón de veces, y la conversión del kilogramo al gramo es solo de factor 1.000."
+        },
+        {
+          "letter": "D",
+          "text": "200 gramos",
+          "is_correct": false,
+          "feedback": "Incorrecto. Dividiste entre 10 en vez de multiplicar por 1.000, y para pasar de kilogramos a gramos siempre se multiplica."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Para convertir la masa de kilogramos a gramos se multiplica por 1.000, porque en un kilogramo hay 1.000 gramos. Así, 2 kilogramos equivalen a 2 x 1.000 = 2.000 gramos. Ese es el peso del paquete que se registró en la báscula.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Resolucion",
+      "expected_success": 0.78,
+      "bundle_id": "CO-MAT-3-2026-W27-medicion-longitud-masa-y-capacidad-001-MASTERY-bundle",
+      "periodo": 27,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-3-2026-W27-medicion-longitud-masa-y-capacidad-001-MASTERY-bundle-v4",
+      "statement": "La cinta mide 2 metros. ¿Cuántos centímetros tiene esa misma cinta?",
+      "context": "En un taller de manualidades de Pereira los niños miden una cinta de papel para un trabajo de clase.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "20 centímetros",
+          "is_correct": false,
+          "feedback": "Incorrecto. Multiplicaste por 10, y en un metro hay 100 centímetros, o sea que el factor de conversión es 100."
+        },
+        {
+          "letter": "B",
+          "text": "20.000 centímetros",
+          "is_correct": false,
+          "feedback": "Incorrecto. Multiplicaste por 10.000, pero la relación entre metro y centímetro es de 100 y no de 10.000."
+        },
+        {
+          "letter": "C",
+          "text": "200 centímetros",
+          "is_correct": true,
+          "feedback": "Correcto. 2 x 100 = 200 centímetros porque 1 metro equivale exactamente a 100 centímetros."
+        },
+        {
+          "letter": "D",
+          "text": "2 centímetros",
+          "is_correct": false,
+          "feedback": "Incorrecto. Dividiste 2 entre 100, y para convertir metros a centímetros se multiplica porque el centímetro es más pequeño."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El centímetro es una unidad de longitud más pequeña que el metro, y un metro mide 100 centímetros. Para pasar de metros a centímetros se multiplica por 100: 2 x 100 = 200 centímetros. Así se sabe cuántos centímetros tiene la cinta sin tener que medirla otra vez.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Resolucion",
+      "expected_success": 0.76,
+      "bundle_id": "CO-MAT-3-2026-W27-medicion-longitud-masa-y-capacidad-001-MASTERY-bundle",
+      "periodo": 27,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-3-2026-W27-medicion-longitud-masa-y-capacidad-001-MASTERY-bundle-v5",
+      "statement": "Una jarra tiene 2 litros de leche y un vaso pequeño tiene 500 mililitros. ¿Cuántos vasos pequeños se llenan con los 2 litros?",
+      "context": "En una cafetería de Manizales la cafeteriera guarda la leche en dos envases y los niños observan sus capacidades.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "2 vasos",
+          "is_correct": false,
+          "feedback": "Incorrecto. Confundiste el número de litros con el de vasos, porque primero hay que convertir los 2 litros a mililitros."
+        },
+        {
+          "letter": "B",
+          "text": "4 vasos",
+          "is_correct": true,
+          "feedback": "Correcto. 2 x 1.000 = 2.000 mililitros y 2.000 ÷ 500 = 4, porque cada vaso pequeño tiene 500 mililitros."
+        },
+        {
+          "letter": "C",
+          "text": "400 vasos",
+          "is_correct": false,
+          "feedback": "Incorrecto. Multiplicaste 2 por 500, y eso mezcla litros con mililitros porque las dos medidas no tienen la misma unidad."
+        },
+        {
+          "letter": "D",
+          "text": "5 vasos",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sumaste 2 y 500, pero primero hay que convertir los 2 litros a 2.000 mililitros y luego dividir entre 500."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El problema tiene dos pasos. Primero se convierte la cantidad grande a la unidad del vaso pequeño: 2 litros son 2.000 mililitros. Después se divide esa cantidad entre lo que cabe en cada vaso: 2.000 ÷ 500 = 4 vasos. Así se llena la jarra con 4 vasos pequeños de leche.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Resolucion",
+      "expected_success": 0.74,
+      "bundle_id": "CO-MAT-3-2026-W27-medicion-longitud-masa-y-capacidad-001-MASTERY-bundle",
+      "periodo": 27,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-3-2026-W27-medicion-longitud-masa-y-capacidad-001-MASTERY-bundle-v6",
+      "statement": "Una mesa mide 90 centímetros y una puerta mide 2 metros. ¿Cuál de las dos medidas es mayor?",
+      "context": "En una biblioteca de Cartagena un niño compara dos objetos del salón de lectura.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La puerta, porque 2 metros equivalen a 200 centímetros y 200 es mayor que 90",
+          "is_correct": true,
+          "feedback": "Correcto. Al convertir a la misma unidad, 2 metros son 200 centímetros, y 200 centímetros es mayor que 90 centímetros."
+        },
+        {
+          "letter": "B",
+          "text": "La mesa, porque 90 tiene más cifras que 2",
+          "is_correct": false,
+          "feedback": "Incorrecto. La cantidad de cifras no mide nada, porque lo que decide es el valor real de cada longitud una vez comparada."
+        },
+        {
+          "letter": "C",
+          "text": "La puerta, porque el metro siempre es la unidad más grande",
+          "is_correct": false,
+          "feedback": "Incorrecto. La puerta sí es más larga, pero la comparación no se gana por el nombre de la unidad sino porque 2 metros son 200 centímetros."
+        },
+        {
+          "letter": "D",
+          "text": "Las dos medidas son iguales, porque las dos hablan de longitud",
+          "is_correct": false,
+          "feedback": "Incorrecto. Que las dos sean longitudes no las hace iguales, porque 90 centímetros y 200 centímetros son valores distintos."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Para comparar dos longitudes hay que llevarlas a la misma unidad. La puerta mide 2 metros, y como 1 metro tiene 100 centímetros, 2 metros son 200 centímetros. Al comparar 200 con 90, la puerta resulta ser la medida mayor porque 200 centímetros superan los 90 centímetros de la mesa.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Razonamiento",
+      "expected_success": 0.66,
+      "bundle_id": "CO-MAT-3-2026-W27-medicion-longitud-masa-y-capacidad-001-MASTERY-bundle",
+      "periodo": 27,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-3-2026-W27-medicion-longitud-masa-y-capacidad-001-MASTERY-bundle-v7",
+      "statement": "Una bolsa de pan pesa 500 gramos y un bloque de queso pesa 1 kilogramo. ¿Cuál pesa más y cuánto más?",
+      "context": "En una panadería de Bogotá la señora lleva a la escuela un pedido de pan y los niños pesan las bolsas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El pan, porque 500 es más grande que 1",
+          "is_correct": false,
+          "feedback": "Incorrecto. Comparaste el 500 con el 1 sin convertir, y las dos masas están en unidades distintas: gramos y kilogramos."
+        },
+        {
+          "letter": "B",
+          "text": "El queso, porque 1 kilogramo son 1.000 gramos y pesa 500 gramos más",
+          "is_correct": true,
+          "feedback": "Correcto. 1 x 1.000 = 1.000 gramos y 1.000 - 500 = 500, así que el queso pesa 500 gramos más que el pan."
+        },
+        {
+          "letter": "C",
+          "text": "El queso, porque pesa 999 gramos más que el pan",
+          "is_correct": false,
+          "feedback": "Incorrecto. Restaste mal la diferencia, porque 1.000 - 500 = 500 gramos y no 999 gramos."
+        },
+        {
+          "letter": "D",
+          "text": "Pesan igual, porque las dos bolsas son del mismo tamaño",
+          "is_correct": false,
+          "feedback": "Incorrecto. El tamaño de la bolsa no define la masa, porque la masa se mide con el gramo y el kilogramo y no con el volumen."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Hay que comparar en la misma unidad, así que el kilogramo se convierte a gramos: 1 x 1.000 = 1.000 gramos. Ahora se restan las dos masas: 1.000 - 500 = 500 gramos. Por eso el bloque de queso pesa más y la diferencia exacta es de 500 gramos.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Razonamiento",
+      "expected_success": 0.64,
+      "bundle_id": "CO-MAT-3-2026-W27-medicion-longitud-masa-y-capacidad-001-MASTERY-bundle",
+      "periodo": 27,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-3-2026-W27-medicion-longitud-masa-y-capacidad-001-MASTERY-bundle-v8",
+      "statement": "El arroz cuesta $4.000 por kilogramo. ¿Cuál es el precio que paga quien lleva 6 kilogramos de arroz?",
+      "context": "En un mercado de Medellín un vendedor ofrece el mismo tipo de arroz en tres presentaciones y los estudiantes comparan las etiquetas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$4.000",
+          "is_correct": false,
+          "feedback": "Incorrecto. Multiplicaste por un solo kilogramo, cuando la pregunta pide el precio de los 6 kilogramos completos."
+        },
+        {
+          "letter": "B",
+          "text": "$400.000",
+          "is_correct": false,
+          "feedback": "Incorrecto. Multiplicaste por 100 en lugar de por 6, y el precio está dado por cada kilogramo, no por cada gramo."
+        },
+        {
+          "letter": "C",
+          "text": "$24.000",
+          "is_correct": true,
+          "feedback": "Correcto. 6 x $4.000 = $24.000 porque 6 kilogramos a $4.000 cada uno dan ese total, y ese es el pago."
+        },
+        {
+          "letter": "D",
+          "text": "$10.000",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sumaste dos veces el precio del kilogramo en vez de multiplicar por 6, y 4.000 + 4.000 = 8.000 no es el total."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El precio está dado por kilogramo, así que para saber cuánto se paga por 6 kilogramos se multiplica: 6 x $4.000 = $24.000. Como todas las presentaciones entregan la misma cantidad de arroz, la cuenta es la misma y el total que se paga por los 6 kilogramos es de $24.000.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Variacional",
+      "expected_success": 0.6,
+      "bundle_id": "CO-MAT-3-2026-W27-medicion-longitud-masa-y-capacidad-001-MASTERY-bundle",
+      "periodo": 27,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 3,
+      "country": "co"
+    }
+  ]
+}
