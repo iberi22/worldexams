@@ -14,7 +14,7 @@ cd "$(dirname "$0")/.."
 # Known-bad, pre-existing, unreachable from any entry point. Reported, not
 # enforced: a broken legacy generator should not turn every commit red, but it
 # should not be invisible either. Delete the file or fix it, then drop this line.
-KNOWN_BAD=(scripts/generate_g6_w16_w40.py)
+KNOWN_BAD=()
 stale=0
 
 fail=0
