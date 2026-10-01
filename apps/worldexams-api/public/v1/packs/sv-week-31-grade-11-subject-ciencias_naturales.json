@@ -9,41 +9,41 @@
   "questions": [
     {
       "id": "SV-CIE-11-2026-W31-magnetismo-001-MASTERY-bundle-v1",
-      "statement": "¿Qué proceso conviierte luz solar en energía química en las plantas?",
-      "context": "Clase de ciencias en Soyapango estudiando magnetismo.",
+      "statement": "¿Qué propiedad de un imán determina la orientación de esas agujas?",
+      "context": "En la clase de segundo grado cuelgan agujas imantadas de un hilo y observan que se orientan en la misma dirección.",
       "options": [
         {
-          "letter": "C",
-          "text": "Fotosíntesis",
-          "is_correct": true,
-          "feedback": "¡Correcto!"
-        },
-        {
           "letter": "A",
-          "text": "Respiración celular",
+          "text": "La masa del imán, que hace que las agujas se coloquen debajo",
           "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "feedback": "Incorrecto. La masa no determina la orientación; lo hacen los polos magnéticos del imán."
         },
         {
           "letter": "B",
-          "text": "Fermentación",
+          "text": "La longitud del imán, que empuja a las agujas hacia un extremo",
           "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "feedback": "Incorrecto. La longitud solo influye en la cantidad de campo magnético, no en la orientación de las agujas."
+        },
+        {
+          "letter": "C",
+          "text": "El color del imán, que cambia según la temperatura",
+          "is_correct": false,
+          "feedback": "Incorrecto. El color no es una propiedad magnética y tampoco orienta una aguja imantada."
         },
         {
           "letter": "D",
-          "text": "Digestión",
-          "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "text": "La polaridad, con un polo norte y un polo sur",
+          "is_correct": true,
+          "feedback": "Correcto. Cada imán tiene dos polos y las agujas se alinean siguiendo esa polaridad."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "La fotosíntesis usa luz, agua y CO₂ para producir glucosa y oxígeno.",
+      "correct_answer": "D",
+      "explanation": "Todo imán tiene dos polos opuestos: en el polo norte y en el polo sur se concentran las líneas de campo magnético.",
       "difficulty": "4",
       "images": [],
       "tags": [],
-      "bloom": "Understand",
-      "expected_success": 0.8,
+      "bloom": "Remember",
+      "expected_success": 0.85,
       "bundle_id": "SV-CIE-11-2026-W31-magnetismo-001-MASTERY-bundle",
       "periodo": 31,
       "protocol_version": "5.2",
@@ -54,40 +54,40 @@
     },
     {
       "id": "SV-CIE-11-2026-W31-magnetismo-001-MASTERY-bundle-v2",
-      "statement": "Objeto de 6 kg acelera a 4 m/s². ¿Fuerza aplicada? (F=ma)",
-      "context": "Clase de ciencias en Soyapango estudiando magnetismo.",
+      "statement": "¿Qué objetos son atraídos por la barra imantada?",
+      "context": "El profesor coloca una barra imantada cerca de una mesa con objetos de metal, hierro, madera y plástico.",
       "options": [
         {
-          "letter": "B",
-          "text": "24 N",
+          "letter": "A",
+          "text": "Solo el hierro y el clavo, por ser metales ferromagnéticos",
           "is_correct": true,
-          "feedback": "¡Correcto!"
+          "feedback": "Correcto. El hierro y el clavo son ferromagnéticos y responden al campo magnético de la barra."
         },
         {
-          "letter": "A",
-          "text": "18 N",
+          "letter": "B",
+          "text": "Todos los objetos de metal y madera, porque todos los materiales reaccionan igual",
           "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "feedback": "Incorrecto. No todos los materiales responden al magnetismo: la madera y el plástico no son ferromagnéticos."
         },
         {
           "letter": "C",
-          "text": "28 N",
+          "text": "Solo los objetos metálicos, porque el metal siempre es ferromagnético",
           "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "feedback": "Incorrecto. Existe un metal que el imán no atrae con fuerza, y por eso no basta con decir que es metálico."
         },
         {
           "letter": "D",
-          "text": "6 N",
+          "text": "Ninguno, porque un imán solo atrae a otros imanes",
           "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "feedback": "Incorrecto. Un imán atrae también piezas de hierro sin magnetizar, como un clavo o una aguja."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "F = ma = 6×4 = 24 N.",
+      "correct_answer": "A",
+      "explanation": "El hierro, el cobalto y el níquel son ferromagnéticos: sus dominios magnéticos se alinean y el material responde al campo de la barra imantada.",
       "difficulty": "4",
       "images": [],
       "tags": [],
-      "bloom": "Apply",
+      "bloom": "Understand",
       "expected_success": 0.8,
       "bundle_id": "SV-CIE-11-2026-W31-magnetismo-001-MASTERY-bundle",
       "periodo": 31,
@@ -99,41 +99,41 @@
     },
     {
       "id": "SV-CIE-11-2026-W31-magnetismo-001-MASTERY-bundle-v3",
-      "statement": "¿Cuál es el órgano más grande del cuerpo humano?",
-      "context": "Clase de ciencias en Santa Ana estudiando magnetismo.",
+      "statement": "¿Qué representan esas líneas de viruta de hierro?",
+      "context": "En el laboratorio unco de papel con viruta de hierro y colocan debajo una barra imantada; la viruta se ordena formando líneas.",
       "options": [
         {
           "letter": "A",
-          "text": "La piel",
-          "is_correct": true,
-          "feedback": "¡Correcto!"
+          "text": "El contorno de la forma de la barra, que se repite en la viruta",
+          "is_correct": false,
+          "feedback": "Incorrecto. El patrón de la viruta no copia el contorno de la barra, sino la dirección del campo en cada punto."
         },
         {
           "letter": "B",
-          "text": "El hígado",
-          "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "text": "Las líneas de campo magnético, que muestran la dirección de la fuerza magnética en el espacio",
+          "is_correct": true,
+          "feedback": "Correcto. La viruta se alinea a lo largo de las líneas de campo, por eso dibujan la trayectoria de la fuerza magnética."
         },
         {
           "letter": "C",
-          "text": "El corazón",
+          "text": "La temperatura del imán medida por el papel",
           "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "feedback": "Incorrecto. La viruta es un indicador de campo magnético y no mide temperatura alguna."
         },
         {
           "letter": "D",
-          "text": "Los pulmones",
+          "text": "La dirección de la gravedad en ese punto del laboratorio",
           "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "feedback": "Incorrecto. La gravedad no se representa con viruta de hierro; el patrón visible es el del campo magnético."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "La piel es el órgano más grande, cubriendo y protegiendo todo el cuerpo.",
-      "difficulty": "4",
+      "correct_answer": "B",
+      "explanation": "Las líneas de campo magnético son una representación de la dirección en que una aguja magnética se orientaría en cada punto del espacio.",
+      "difficulty": "5",
       "images": [],
       "tags": [],
-      "bloom": "Remember",
-      "expected_success": 0.85,
+      "bloom": "Analyze",
+      "expected_success": 0.7,
       "bundle_id": "SV-CIE-11-2026-W31-magnetismo-001-MASTERY-bundle",
       "periodo": 31,
       "protocol_version": "5.2",
@@ -144,41 +144,41 @@
     },
     {
       "id": "SV-CIE-11-2026-W31-magnetismo-001-MASTERY-bundle-v4",
-      "statement": "En un experimento, plantas con luz crecen más que sin luz. ¿Variable independiente?",
-      "context": "Clase de ciencias en San Miguel estudiando magnetismo.",
+      "statement": "¿Qué explica mejor esa desviación de la brújula?",
+      "context": "Un estudiante sostiene una brújula cerca de un cable por el que circula corriente eléctrica y nota que la aguja se desvía.",
       "options": [
         {
           "letter": "A",
-          "text": "La exposición a la luz",
-          "is_correct": true,
-          "feedback": "¡Correcto!"
+          "text": "Que el cable está caliente y el calor hace girar la aguja",
+          "is_correct": false,
+          "feedback": "Incorrecto. El calor no genera la desviación; el efecto desaparece al cortar la corriente."
         },
         {
           "letter": "B",
-          "text": "El crecimiento de las plantas",
-          "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "text": "Que la corriente eléctrica genera un campo magnético alrededor del cable",
+          "is_correct": true,
+          "feedback": "Correcto. Un conductor con corriente crea un campo magnético circular alrededor de sí mismo."
         },
         {
           "letter": "C",
-          "text": "La temperatura ambiente",
+          "text": "Que la brújula detecta el campo eléctrico y no el magnético",
           "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "feedback": "Incorrecto. La aguja de la brújula responde al campo magnético, que aquí existe por la corriente."
         },
         {
           "letter": "D",
-          "text": "El tipo de planta",
+          "text": "Que el cable es de material ferromagnético y atrae la aguja",
           "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "feedback": "Incorrecto. Si el cable fuera de hierro, la aguja se desviaría por el magnetismo del material y no por la corriente."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "La variable independiente es la que manipula el investigador: la luz.",
-      "difficulty": "4",
+      "correct_answer": "B",
+      "explanation": "El experimento de Oersted mostró que una corriente eléctrica produce un efecto magnético: por eso un cable con corriente desvía la aguja de una brújula cercana.",
+      "difficulty": "5",
       "images": [],
       "tags": [],
-      "bloom": "Analyze",
-      "expected_success": 0.7,
+      "bloom": "Apply",
+      "expected_success": 0.75,
       "bundle_id": "SV-CIE-11-2026-W31-magnetismo-001-MASTERY-bundle",
       "periodo": 31,
       "protocol_version": "5.2",
@@ -189,41 +189,41 @@
     },
     {
       "id": "SV-CIE-11-2026-W31-magnetismo-001-MASTERY-bundle-v5",
-      "statement": "¿Cuál es la unidad básica de la vida?",
-      "context": "Clase de ciencias en Santa Ana estudiando magnetismo.",
+      "statement": "¿Qué diferencia explica que solo una bobina pueda generar una corriente farádica?",
+      "context": "En un taller de San Salvador comparan dos bobinas idénticas, una conectada a una pila y otra a un generador que gira.",
       "options": [
         {
           "letter": "A",
-          "text": "La célula",
-          "is_correct": true,
-          "feedback": "¡Correcto!"
+          "text": "La primera bobina tiene más vueltas de alambre que la segunda",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ambas bobinas son idénticas en número de vueltas, así que ese factor no explica la diferencia."
         },
         {
           "letter": "B",
-          "text": "El átomo",
+          "text": "La segunda bobina está made de un material magnético y la primera de uno aislante",
           "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "feedback": "Incorrecto. El material del alambre es el mismo; lo que cambia es si el campo magnético varía."
         },
         {
           "letter": "C",
-          "text": "La molécula",
-          "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "text": "La segunda tiene una variación en el flujo magnético, mientras la primera mantiene el campo constante",
+          "is_correct": true,
+          "feedback": "Correcto. La inducción requiere que el campo magnético cambie con el tiempo; una corriente constante no la produce."
         },
         {
           "letter": "D",
-          "text": "El tejido",
+          "text": "La segunda bobina está conectada a una fuente de voltaje más alto y por eso genera más corriente",
           "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "feedback": "Incorrecto. Ambas tienen la misma fuente; la corriente se debe al cambio de flujo y no a un voltaje mayor."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "La célula es la unidad estructural y funcional básica de los seres vivos.",
-      "difficulty": "6",
+      "correct_answer": "C",
+      "explanation": "La ley de inducción de Faraday establece que una corriente aparece en un circuito cuando el flujo magnético que lo atraviesa cambia en el tiempo.",
+      "difficulty": "5",
       "images": [],
       "tags": [],
-      "bloom": "Remember",
-      "expected_success": 0.85,
+      "bloom": "Analyze",
+      "expected_success": 0.7,
       "bundle_id": "SV-CIE-11-2026-W31-magnetismo-001-MASTERY-bundle",
       "periodo": 31,
       "protocol_version": "5.2",
@@ -234,41 +234,41 @@
     },
     {
       "id": "SV-CIE-11-2026-W31-magnetismo-001-MASTERY-bundle-v6",
-      "statement": "¿Qué proceso conviierte luz solar en energía química en las plantas?",
-      "context": "Clase de ciencias en San Salvador estudiando magnetismo.",
+      "statement": "¿Qué ocurre con las piezas de metal que llegan a esa zona?",
+      "context": "En la planta de clasificación de metal de Santa Ana hay una cinta transportadora con un imán potente al final de la banda.",
       "options": [
         {
-          "letter": "B",
-          "text": "Fotosíntesis",
-          "is_correct": true,
-          "feedback": "¡Correcto!"
+          "letter": "A",
+          "text": "Todas las piezas se quedan pegadas, porque un imán fuerte atrae cualquier objeto",
+          "is_correct": false,
+          "feedback": "Incorrecto. Un imán no atrae cualquier objeto: solo los materiales ferromagnéticos responden a su campo."
         },
         {
-          "letter": "A",
-          "text": "Respiración celular",
+          "letter": "B",
+          "text": "Las piezas de metal se convierten en imanes permanentes y siguen imantadas para siempre",
           "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "feedback": "Incorrecto. Esa imantación es inducida y desaparece al retirar el imán de la zona."
         },
         {
           "letter": "C",
-          "text": "Fermentación",
-          "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "text": "Las piezas ferromagnéticas quedan imantadas y se adhieren al imán, y las demás siguen de largo",
+          "is_correct": true,
+          "feedback": "Correcto. Solo el material ferromagnético se magnetiza y queda atrapado en el imán; el resto continúa su camino."
         },
         {
           "letter": "D",
-          "text": "Digestión",
+          "text": "Las piezas rebotan contra el imán y vuelven por la cinta",
           "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "feedback": "Incorrecto. Las piezas atraídas quedan pegadas al imán, no desviadas ni repelidas por él."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "La fotosíntesis usa luz, agua y CO₂ para producir glucosa y oxígeno.",
-      "difficulty": "6",
+      "correct_answer": "C",
+      "explanation": "La separación magnética aprovecha que solo ciertos metales se magnetizan por inducción y quedan adheridos al imán mientras el resto de materiales no responde.",
+      "difficulty": "5",
       "images": [],
       "tags": [],
-      "bloom": "Understand",
-      "expected_success": 0.8,
+      "bloom": "Apply",
+      "expected_success": 0.75,
       "bundle_id": "SV-CIE-11-2026-W31-magnetismo-001-MASTERY-bundle",
       "periodo": 31,
       "protocol_version": "5.2",
@@ -279,41 +279,41 @@
     },
     {
       "id": "SV-CIE-11-2026-W31-magnetismo-001-MASTERY-bundle-v7",
-      "statement": "Objeto de 5 kg acelera a 4 m/s². ¿Fuerza aplicada? (F=ma)",
-      "context": "Clase de ciencias en Mejicanos estudiando magnetismo.",
+      "statement": "¿Qué explica mejor ese fenómeno?",
+      "context": "Un imán de neodimio puede sostener en el aire el mango liviano de una cucharilla de metal.",
       "options": [
         {
           "letter": "A",
-          "text": "20 N",
-          "is_correct": true,
-          "feedback": "¡Correcto!"
+          "text": "Que la gravedad no actúa sobre los objetos imantados",
+          "is_correct": false,
+          "feedback": "Incorrecto. La gravedad sigue actuando sobre toda la materia con masa; el imán solo compensa parte de ella."
         },
         {
           "letter": "B",
-          "text": "15 N",
+          "text": "Que el metal pierde su masa cuando entra en un campo magnético",
           "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "feedback": "Incorrecto. La masa del metal no cambia por estar en un campo magnético."
         },
         {
           "letter": "C",
-          "text": "24 N",
+          "text": "Que el aire sostiene el metal por su propia imantación",
           "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "feedback": "Incorrecto. El aire no es ferromagnético y no sostiene el metal; quien lo sostiene es la atracción del imán."
         },
         {
           "letter": "D",
-          "text": "5 N",
-          "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "text": "Que el campo magnético de un imán fuerte vence a la fuerza de gravedad sobre el material ferromagnético",
+          "is_correct": true,
+          "feedback": "Correcto. La atracción magnética de un imán potente supera el peso del metal, y por eso queda suspendido."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "F = ma = 5×4 = 20 N.",
-      "difficulty": "6",
+      "correct_answer": "D",
+      "explanation": "La fuerza magnética de un imán de neodimio es muy superior a la de un imán común, por eso puede sostener objetos pesados contra la gravedad.",
+      "difficulty": "5",
       "images": [],
       "tags": [],
-      "bloom": "Apply",
-      "expected_success": 0.8,
+      "bloom": "Analyze",
+      "expected_success": 0.7,
       "bundle_id": "SV-CIE-11-2026-W31-magnetismo-001-MASTERY-bundle",
       "periodo": 31,
       "protocol_version": "5.2",
@@ -324,41 +324,41 @@
     },
     {
       "id": "SV-CIE-11-2026-W31-magnetismo-001-MASTERY-bundle-v8",
-      "statement": "¿Cuál es el órgano más grande del cuerpo humano?",
-      "context": "Clase de ciencias en Mejicanos estudiando magnetismo.",
+      "statement": "¿Qué respuesta desmiente con fundamento la idea de que las estrellas giran alrededor de la Tierra?",
+      "context": "Dos estudiantes discuten si las estrellas del cielo giraron toda la noche porque están fijas al cielo. Ana dice que sí y Beto que no.",
       "options": [
         {
-          "letter": "B",
-          "text": "La piel",
-          "is_correct": true,
-          "feedback": "¡Correcto!"
+          "letter": "A",
+          "text": "Ana tiene razón: las estrellas giran en círculo alrededor de la Tierra cada veinticuatro horas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las estrellas están muy lejos y no orbitan la Tierra en un día; ese movimiento es aparente."
         },
         {
-          "letter": "A",
-          "text": "El hígado",
+          "letter": "B",
+          "text": "Ambas tienen razón: las estrellas giran y además la Tierra gira",
           "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "feedback": "Incorrecto. Las estrellas no describen una órbita diaria alrededor de la Tierra; la única causa del movimiento es la rotación terrestre."
         },
         {
           "letter": "C",
-          "text": "El corazón",
-          "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "text": "Beto tiene razón: la Tierra gira sobre su eje y por eso las estrellas parecen moverse en el cielo",
+          "is_correct": true,
+          "feedback": "Correcto. Es el giro terrestre lo que produce ese movimiento aparente del cielo nocturno."
         },
         {
           "letter": "D",
-          "text": "Los pulmones",
+          "text": "Ninguna tiene razón: el cielo nocturno permanece completamente quieto",
           "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "feedback": "Incorrecto. El cielo nocturno sí muestra un movimiento aparente diario por la rotación de la Tierra."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "La piel es el órgano más grande, cubriendo y protegiendo todo el cuerpo.",
+      "correct_answer": "C",
+      "explanation": "La rotación terrestre dura veinticuatro horas y hace que el cielo parezca girar; ese movimiento se llama movimiento diario de los cuerpos celestes.",
       "difficulty": "6",
       "images": [],
       "tags": [],
-      "bloom": "Remember",
-      "expected_success": 0.85,
+      "bloom": "Evaluate",
+      "expected_success": 0.65,
       "bundle_id": "SV-CIE-11-2026-W31-magnetismo-001-MASTERY-bundle",
       "periodo": 31,
       "protocol_version": "5.2",
@@ -369,41 +369,41 @@
     },
     {
       "id": "SV-CIE-11-2026-W31-magnetismo-001-MASTERY-bundle-v9",
-      "statement": "En un experimento, plantas con luz crecen más que sin luz. ¿Variable independiente?",
-      "context": "Clase de ciencias en Mejicanos estudiando magnetismo.",
+      "statement": "¿Qué propiedad comparten ambos imanes en su funcionamiento?",
+      "context": "En la clase de tercero comparan el imán de un altavoz con el de un imán de refrigerador.",
       "options": [
         {
-          "letter": "D",
-          "text": "La exposición a la luz",
-          "is_correct": true,
-          "feedback": "¡Correcto!"
-        },
-        {
           "letter": "A",
-          "text": "El crecimiento de las plantas",
+          "text": "Ambos son imanes de la misma intensidad y por eso suenan igual",
           "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "feedback": "Incorrecto. La intensidad de un altavoz no es la misma que la de un imán de refrigerador."
         },
         {
           "letter": "B",
-          "text": "La temperatura ambiente",
+          "text": "Ambos atrae únicamente a otros imanes y nunca al hierro suelto",
           "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "feedback": "Incorrecto. Un altavoz también atrae piezas de hierro, porque todo imán responde al hierro sin magnetizar."
         },
         {
           "letter": "C",
-          "text": "El tipo de planta",
+          "text": "Ambos se magnetizan para siempre y nunca pierden su magnetismo",
           "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "feedback": "Incorrecto. La magnetización de un altavoz desaparece al apagar el equipo, porque sus imanes son electroimanes."
+        },
+        {
+          "letter": "D",
+          "text": "Ambos tienen dos polos y pueden atraer o repeler según la orientación",
+          "is_correct": true,
+          "feedback": "Correcto. Los dos cumplen las propiedades de un imán: dos polos, atracción y repulsión entre polos iguales."
         }
       ],
       "correct_answer": "D",
-      "explanation": "La variable independiente es la que manipula el investigador: la luz.",
-      "difficulty": "6",
+      "explanation": "Los dos cumplen la definición de imán: poseen dos polos, atraen hierro y se repelen entre sí cuando se enfrentan polos iguales.",
+      "difficulty": "5",
       "images": [],
       "tags": [],
-      "bloom": "Analyze",
-      "expected_success": 0.7,
+      "bloom": "Remember",
+      "expected_success": 0.85,
       "bundle_id": "SV-CIE-11-2026-W31-magnetismo-001-MASTERY-bundle",
       "periodo": 31,
       "protocol_version": "5.2",
@@ -414,41 +414,41 @@
     },
     {
       "id": "SV-CIE-11-2026-W31-magnetismo-001-MASTERY-bundle-v10",
-      "statement": "¿Cuál es la unidad básica de la vida?",
-      "context": "Clase de ciencias en San Salvador estudiando magnetismo.",
+      "statement": "¿Qué principio hace posible el funcionamiento de ese detector?",
+      "context": "Un electricista de Usulután quiere comprobar si un cable está energizado sin tocarlo y cuenta con un detector de tensión sin contacto.",
       "options": [
         {
-          "letter": "B",
-          "text": "La célula",
+          "letter": "A",
+          "text": "El campo magnético que produce la corriente eléctrica en el conductor",
           "is_correct": true,
-          "feedback": "¡Correcto!"
+          "feedback": "Correcto. La corriente genera un campo magnético alrededor del cable y ese campo es lo que detecta el instrumento."
         },
         {
-          "letter": "A",
-          "text": "El átomo",
+          "letter": "B",
+          "text": "El campo eléctrico estático de la superficie del cable",
           "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "feedback": "Incorrecto. Un detector de tensión sin contacto capta el campo magnético de la corriente y no un campo eléctrico externo."
         },
         {
           "letter": "C",
-          "text": "La molécula",
+          "text": "La resistencia del aislamiento del cable",
           "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "feedback": "Incorrecto. La resistencia del aislamiento es un concepto de circuito y no explica la detección magnética."
         },
         {
           "letter": "D",
-          "text": "El tejido",
+          "text": "La atracción entre el cable y el detector por magnetismo permanente",
           "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "feedback": "Incorrecto. El detector responde a la corriente que fluye, no al magnetismo permanente del cable metálico."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "La célula es la unidad estructural y funcional básica de los seres vivos.",
-      "difficulty": "6",
+      "correct_answer": "A",
+      "explanation": "Un conductor con corriente genera un campo magnético a su alrededor, y ese campo es la base de detectores como el detector de tensión sin contacto.",
+      "difficulty": "5",
       "images": [],
       "tags": [],
-      "bloom": "Remember",
-      "expected_success": 0.85,
+      "bloom": "Apply",
+      "expected_success": 0.75,
       "bundle_id": "SV-CIE-11-2026-W31-magnetismo-001-MASTERY-bundle",
       "periodo": 31,
       "protocol_version": "5.2",
@@ -459,172 +459,37 @@
     },
     {
       "id": "SV-CIE-11-2026-W31-magnetismo-001-MASTERY-bundle-v11",
-      "statement": "¿Qué proceso conviierte luz solar en energía química en las plantas?",
-      "context": "Clase de ciencias en Santa Ana estudiando magnetismo.",
-      "options": [
-        {
-          "letter": "C",
-          "text": "Fotosíntesis",
-          "is_correct": true,
-          "feedback": "¡Correcto!"
-        },
-        {
-          "letter": "A",
-          "text": "Respiración celular",
-          "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
-        },
-        {
-          "letter": "B",
-          "text": "Fermentación",
-          "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
-        },
-        {
-          "letter": "D",
-          "text": "Digestión",
-          "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
-        }
-      ],
-      "correct_answer": "C",
-      "explanation": "La fotosíntesis usa luz, agua y CO₂ para producir glucosa y oxígeno.",
-      "difficulty": "8",
-      "images": [],
-      "tags": [],
-      "bloom": "Understand",
-      "expected_success": 0.8,
-      "bundle_id": "SV-CIE-11-2026-W31-magnetismo-001-MASTERY-bundle",
-      "periodo": 31,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ciencias-naturales",
-      "grade": 11,
-      "country": "sv"
-    },
-    {
-      "id": "SV-CIE-11-2026-W31-magnetismo-001-MASTERY-bundle-v12",
-      "statement": "Objeto de 3 kg acelera a 3 m/s². ¿Fuerza aplicada? (F=ma)",
-      "context": "Clase de ciencias en Santa Ana estudiando magnetismo.",
-      "options": [
-        {
-          "letter": "C",
-          "text": "9 N",
-          "is_correct": true,
-          "feedback": "¡Correcto!"
-        },
-        {
-          "letter": "A",
-          "text": "6 N",
-          "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
-        },
-        {
-          "letter": "B",
-          "text": "12 N",
-          "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
-        },
-        {
-          "letter": "D",
-          "text": "3 N",
-          "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
-        }
-      ],
-      "correct_answer": "C",
-      "explanation": "F = ma = 3×3 = 9 N.",
-      "difficulty": "8",
-      "images": [],
-      "tags": [],
-      "bloom": "Apply",
-      "expected_success": 0.8,
-      "bundle_id": "SV-CIE-11-2026-W31-magnetismo-001-MASTERY-bundle",
-      "periodo": 31,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ciencias-naturales",
-      "grade": 11,
-      "country": "sv"
-    },
-    {
-      "id": "SV-CIE-11-2026-W31-magnetismo-001-MASTERY-bundle-v13",
-      "statement": "¿Cuál es el órgano más grande del cuerpo humano?",
-      "context": "Clase de ciencias en Santa Ana estudiando magnetismo.",
+      "statement": "¿Qué ventaja tiene la forma de herradura frente a la de barra?",
+      "context": "En la clase de segundo grado comparan un imán de barra con un imán de herradura usado para levantar la carrocería de los autos.",
       "options": [
         {
           "letter": "A",
-          "text": "La piel",
+          "text": "Que los dos polos quedan cercanos y en el mismo punto de trabajo, lo que aumenta la fuerza",
           "is_correct": true,
-          "feedback": "¡Correcto!"
+          "feedback": "Correcto. Al acercar los polos, la herradura concentra el campo en la zona de trabajo y aumenta la fuerza."
         },
         {
           "letter": "B",
-          "text": "El hígado",
+          "text": "Que la herradura pesa menos y por eso atrae con más fuerza",
           "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "feedback": "Incorrecto. La forma no disminuye el peso ni determina por sí sola la fuerza de atracción."
         },
         {
           "letter": "C",
-          "text": "El corazón",
+          "text": "Que la herradura tiene un solo polo y por eso no se anula a sí misma",
           "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "feedback": "Incorrecto. La herradura también tiene dos polos, solo que están juntos."
         },
         {
           "letter": "D",
-          "text": "Los pulmones",
+          "text": "Que la herradura crea su propio campo magnético sin necesidad de imantación",
           "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "feedback": "Incorrecto. La herradura sigue necesitando estar imantada para atraer piezas de hierro."
         }
       ],
       "correct_answer": "A",
-      "explanation": "La piel es el órgano más grande, cubriendo y protegiendo todo el cuerpo.",
-      "difficulty": "8",
-      "images": [],
-      "tags": [],
-      "bloom": "Remember",
-      "expected_success": 0.85,
-      "bundle_id": "SV-CIE-11-2026-W31-magnetismo-001-MASTERY-bundle",
-      "periodo": 31,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ciencias-naturales",
-      "grade": 11,
-      "country": "sv"
-    },
-    {
-      "id": "SV-CIE-11-2026-W31-magnetismo-001-MASTERY-bundle-v14",
-      "statement": "En un experimento, plantas con luz crecen más que sin luz. ¿Variable independiente?",
-      "context": "Clase de ciencias en San Salvador estudiando magnetismo.",
-      "options": [
-        {
-          "letter": "C",
-          "text": "La exposición a la luz",
-          "is_correct": true,
-          "feedback": "¡Correcto!"
-        },
-        {
-          "letter": "A",
-          "text": "El crecimiento de las plantas",
-          "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
-        },
-        {
-          "letter": "B",
-          "text": "La temperatura ambiente",
-          "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
-        },
-        {
-          "letter": "D",
-          "text": "El tipo de planta",
-          "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
-        }
-      ],
-      "correct_answer": "C",
-      "explanation": "La variable independiente es la que manipula el investigador: la luz.",
-      "difficulty": "8",
+      "explanation": "En la herradura los polos opuestos quedan enfrentados, de modo que el campo magnético se concentra en el espacio interior y la atracción es mayor.",
+      "difficulty": "5",
       "images": [],
       "tags": [],
       "bloom": "Analyze",
@@ -638,38 +503,128 @@
       "country": "sv"
     },
     {
-      "id": "SV-CIE-11-2026-W31-magnetismo-001-MASTERY-bundle-v15",
-      "statement": "¿Cuál es la unidad básica de la vida?",
-      "context": "Clase de ciencias en Santa Ana estudiando magnetismo.",
+      "id": "SV-CIE-11-2026-W31-magnetismo-001-MASTERY-bundle-v12",
+      "statement": "¿Qué resultado esperaba si el material fuera realmente acero ferromagnético?",
+      "context": "Un laboratorio metalúrgico recibe una muestra de acero y la somete a la prueba con un imán.",
       "options": [
         {
           "letter": "A",
-          "text": "La célula",
-          "is_correct": true,
-          "feedback": "¡Correcto!"
+          "text": "Que no reaccionara, porque el acero no es un material magnético",
+          "is_correct": false,
+          "feedback": "Incorrecto. El acero sí es ferromagnético, y por eso responde con fuerza al imán."
         },
         {
           "letter": "B",
-          "text": "El átomo",
-          "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "text": "Que quedara fuertemente adherido al imán de prueba",
+          "is_correct": true,
+          "feedback": "Correcto. El acero ferromagnético se magnetiza por inducción y queda fuertemente adherido al imán."
         },
         {
           "letter": "C",
-          "text": "La molécula",
+          "text": "Que se calentara y quemara al contacto con el imán",
           "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "feedback": "Incorrecto. Un imán no produce calor en el acero; el único efecto es la magnetización por inducción."
         },
         {
           "letter": "D",
-          "text": "El tejido",
+          "text": "Que el acero cambiara de color al colocarse junto al imán",
           "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "feedback": "Incorrecto. El campo magnético no altera el color del acero; el cambio visible es la adhesión."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "La célula es la unidad estructural y funcional básica de los seres vivos.",
-      "difficulty": "8",
+      "correct_answer": "B",
+      "explanation": "La prueba de ferromagnetismo consiste en comprobar que el material queda retenido por un imán, algo que el acero cumple con claridad.",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.7,
+      "bundle_id": "SV-CIE-11-2026-W31-magnetismo-001-MASTERY-bundle",
+      "periodo": 31,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "sv"
+    },
+    {
+      "id": "SV-CIE-11-2026-W31-magnetismo-001-MASTERY-bundle-v13",
+      "statement": "¿Qué principio físico sostiene el funcionamiento de ese motor?",
+      "context": "El profesor propone un proyecto donde los estudiantes construyen un motor eléctrico simple usando imanes, alambre y una batería.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que los imanes generan calor y el calor mueve las piezas del rotor",
+          "is_correct": false,
+          "feedback": "Incorrecto. Un motor eléctrico no funciona por calor sino por la fuerza magnética sobre la corriente."
+        },
+        {
+          "letter": "B",
+          "text": "Que la batería genera un campo magnético por sí sola",
+          "is_correct": false,
+          "feedback": "Incorrecto. La batería aporta la corriente que crea el campo magnético, y no el campo magnético por sí mismo."
+        },
+        {
+          "letter": "C",
+          "text": "Que un conductor con corriente en un campo magnético ejerce una fuerza",
+          "is_correct": true,
+          "feedback": "Correcto. La fuerza magnética sobre el conductor produce el movimiento que gira al rotor."
+        },
+        {
+          "letter": "D",
+          "text": "Que el alambre se alarga y se acorta en cada vuelta del rotor",
+          "is_correct": false,
+          "feedback": "Incorrecto. El alambre no cambia de longitud; el movimiento del rotor proviene de la fuerza magnética."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Es la idea central del motor eléctrico: una corriente que circula por un conductor dentro de un campo magnético genera una fuerza que se traduce en rotación.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.65,
+      "bundle_id": "SV-CIE-11-2026-W31-magnetismo-001-MASTERY-bundle",
+      "periodo": 31,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "sv"
+    },
+    {
+      "id": "SV-CIE-11-2026-W31-magnetismo-001-MASTERY-bundle-v14",
+      "statement": "¿Qué relación tiene el polo norte de la brújula con el norte geográfico de la Tierra?",
+      "context": "En la clase de cuarto grado observan la brújula y notan que la aguja señala aproximadamente el norte geográfico.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Son el mismo punto exacto, sin ninguna diferencia entre ellos",
+          "is_correct": false,
+          "feedback": "Incorrecto. El norte magnético y el geográfico están cerca pero no coinciden exactamente, y esa diferencia se llama declinación."
+        },
+        {
+          "letter": "B",
+          "text": "El polo norte de la brújula apunta al sur geográfico del planeta",
+          "is_correct": false,
+          "feedback": "Incorrecto. La brújula apunta aproximadamente al norte geográfico, no al sur."
+        },
+        {
+          "letter": "C",
+          "text": "La brújula no se relaciona con el magnetismo terrestre sino con la gravedad",
+          "is_correct": false,
+          "feedback": "Incorrecto. La orientación de la aguja depende del campo magnético terrestre y no de la gravedad."
+        },
+        {
+          "letter": "D",
+          "text": "Se approaches aproximadamente, porque la Tierra se comporta como un gran imán con su polo norte magnético cerca del norte geográfico",
+          "is_correct": true,
+          "feedback": "Correcto. El norte magnético de la Tierra se sitúa cerca del norte geográfico, y por eso la brújula orienta hacia allí."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "La Tierra se comporta como un imán gigantesco con un polo magnético cercano al norte geográfico; esa casi coincidencia es lo que hace útil a la brújula.",
+      "difficulty": "5",
       "images": [],
       "tags": [],
       "bloom": "Remember",
@@ -683,42 +638,87 @@
       "country": "sv"
     },
     {
-      "id": "SV-CIE-11-2026-W31-magnetismo-001-MASTERY-bundle-v16",
-      "statement": "¿Qué proceso conviierte luz solar en energía química en las plantas?",
-      "context": "Clase de ciencias en Soyapango estudiando magnetismo.",
+      "id": "SV-CIE-11-2026-W31-magnetismo-001-MASTERY-bundle-v15",
+      "statement": "¿Qué relación explica mejor la chispa entre relámpago y rayo?",
+      "context": "En casa de estudiante de Usulután el guardaparque avisa que al caer un rayo sobre el árbol seco hubo un chispazo visible.",
       "options": [
         {
-          "letter": "C",
-          "text": "Fotosíntesis",
-          "is_correct": true,
-          "feedback": "¡Correcto!"
-        },
-        {
           "letter": "A",
-          "text": "Respiración celular",
+          "text": "El calor del sol provoca la chispa en el árbol seco",
           "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "feedback": "Incorrecto. El sol no participa en la descarga eléctrica de una tormenta."
         },
         {
           "letter": "B",
-          "text": "Fermentación",
+          "text": "La descarga eléctrica rompe el aire y produce luz y calor",
+          "is_correct": true,
+          "feedback": "Correcto. La chispa luminosa es el relámpago, que es la descarga de la tormenta; el rayo es el rayo."
+        },
+        {
+          "letter": "C",
+          "text": "La savia del árbol se enciende al contacto con el aire",
           "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "feedback": "Incorrecto. La chispa se produce por la descarga eléctrica y no por lacombustión de la savia."
         },
         {
           "letter": "D",
-          "text": "Digestión",
+          "text": "El viento seco del verano hace fricción en el árbol y genera la luz",
           "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "feedback": "Incorrecto. La fricción del viento no produce un relámpago; lo que se descarga es la electricidad acumulada en la nube."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "La fotosíntesis usa luz, agua y CO₂ para producir glucosa y oxígeno.",
-      "difficulty": "8",
+      "correct_answer": "B",
+      "explanation": "El relámpago es la luz que emite la descarga eléctrica entre la nube y el suelo, y el calor de esa descarga es lo que puede quemar el árbol.",
+      "difficulty": "5",
       "images": [],
       "tags": [],
-      "bloom": "Understand",
-      "expected_success": 0.8,
+      "bloom": "Apply",
+      "expected_success": 0.75,
+      "bundle_id": "SV-CIE-11-2026-W31-magnetismo-001-MASTERY-bundle",
+      "periodo": 31,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "sv"
+    },
+    {
+      "id": "SV-CIE-11-2026-W31-magnetismo-001-MASTERY-bundle-v16",
+      "statement": "¿Qué ocurre con ese electroimán cuando se abre el circuito?",
+      "context": "En la clase de Usulután conectan un electroimán a una batería y, al cerrar el circuito, notan que una grapa de hierro queda pegada al núcleo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El imán sigue atrayendo la grapa, porque el magnetismo queda almacenado en el hierro",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa retención corresponde a un imán permanente; en un electroimán el magnetismo desaparece al cortar la corriente."
+        },
+        {
+          "letter": "B",
+          "text": "La corriente se corta y el campo magnético desaparece, por eso la grapa se suelta",
+          "is_correct": true,
+          "feedback": "Correcto. Al abrirse el circuito deja de circular corriente y con ella desaparece el campo magnético del núcleo."
+        },
+        {
+          "letter": "C",
+          "text": "La grapa se calienta y se despega por la repulsión de dos polos iguales",
+          "is_correct": false,
+          "feedback": "Incorrecto. La grapa se pega por atracción entre polos opuestos y no se calienta al abrir el circuito."
+        },
+        {
+          "letter": "D",
+          "text": "El campo magnético aumenta, porque la batería sigue conectada a la red",
+          "is_correct": false,
+          "feedback": "Incorrecto. Al abrir el circuito no hay corriente y por tanto no hay campo magnético que pueda aumentar."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Un electroimán es un imán cuyo magnetismo es temporal: existe solo mientras fluye corriente por su bobina.",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.7,
       "bundle_id": "SV-CIE-11-2026-W31-magnetismo-001-MASTERY-bundle",
       "periodo": 31,
       "protocol_version": "5.2",
@@ -729,41 +729,41 @@
     },
     {
       "id": "SV-CIE-11-2026-W31-magnetismo-001-MASTERY-bundle-v17",
-      "statement": "Objeto de 3 kg acelera a 4 m/s². ¿Fuerza aplicada? (F=ma)",
-      "context": "Clase de ciencias en Soyapango estudiando magnetismo.",
+      "statement": "¿Qué función cumplen los dos imanes dentro de ese motor?",
+      "context": "En el taller de Soyapango arman un motor eléctrico pequeño y colocan un rotor de cobre entre dos imanes enfrentados.",
       "options": [
         {
-          "letter": "C",
-          "text": "12 N",
-          "is_correct": true,
-          "feedback": "¡Correcto!"
-        },
-        {
           "letter": "A",
-          "text": "9 N",
+          "text": "Transmitir la energía eléctrica de la batería al rotor",
           "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "feedback": "Incorrecto. La corriente llega por los cables y los colectores; los imanes no conducen la energía."
         },
         {
           "letter": "B",
-          "text": "16 N",
+          "text": "Calentar el rotor hasta que se ponga en movimiento",
           "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "feedback": "Incorrecto. Los imanes no calientan el motor; el movimiento se debe a la fuerza magnética sobre la corriente."
+        },
+        {
+          "letter": "C",
+          "text": "Crear el campo magnético en cuyo interior circula la corriente por el rotor",
+          "is_correct": true,
+          "feedback": "Correcto. Los imanes aportan el campo en el que la corriente del rotor genera la fuerza que lo hace girar."
         },
         {
           "letter": "D",
-          "text": "3 N",
+          "text": "Mantener el rotor en su posición para que no se mueva",
           "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "feedback": "Incorrecto. Si los imanes limitaran el movimiento, el motor no podría funcionar."
         }
       ],
       "correct_answer": "C",
-      "explanation": "F = ma = 3×4 = 12 N.",
-      "difficulty": "10",
+      "explanation": "Un motor eléctrico combina los dos principios: un campo magnético intense y una corriente que circula en un conductor, y de la interacción surge la rotación.",
+      "difficulty": "5",
       "images": [],
       "tags": [],
       "bloom": "Apply",
-      "expected_success": 0.8,
+      "expected_success": 0.75,
       "bundle_id": "SV-CIE-11-2026-W31-magnetismo-001-MASTERY-bundle",
       "periodo": 31,
       "protocol_version": "5.2",
@@ -774,37 +774,37 @@
     },
     {
       "id": "SV-CIE-11-2026-W31-magnetismo-001-MASTERY-bundle-v18",
-      "statement": "¿Cuál es el órgano más grande del cuerpo humano?",
-      "context": "Clase de ciencias en Mejicanos estudiando magnetismo.",
+      "statement": "¿Qué ocurriría si se acercaran dos imanes de barra con sus polos norte enfrentados?",
+      "context": "En el museo de San Miguel hay una maqueta con dos imanes de barra y una pieza de hierro.",
       "options": [
         {
-          "letter": "B",
-          "text": "La piel",
+          "letter": "A",
+          "text": "Se repelen, porque dos polos iguales del mismo tipo se rechazan",
           "is_correct": true,
-          "feedback": "¡Correcto!"
+          "feedback": "Correcto. Los polos del mismo nombre se repelen, mientras que los de nombre distinto se atraen."
         },
         {
-          "letter": "A",
-          "text": "El hígado",
+          "letter": "B",
+          "text": "Se atraen, porque cualquier combinación de polos produce atracción",
           "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "feedback": "Incorrecto. La atracción se da entre polos opuestos: norte con sur, y no entre dos nortes."
         },
         {
           "letter": "C",
-          "text": "El corazón",
+          "text": "No ocurre nada, porque los imanes solo actúan a distancia",
           "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "feedback": "Incorrecto. Los imanes interactúan tanto a distancia como en contacto directo."
         },
         {
           "letter": "D",
-          "text": "Los pulmones",
+          "text": "Se atraen solo si están a la misma altura",
           "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "feedback": "Incorrecto. La orientación de los polos es lo que decide si se atraen o se repelen, no la altura."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "La piel es el órgano más grande, cubriendo y protegiendo todo el cuerpo.",
-      "difficulty": "10",
+      "correct_answer": "A",
+      "explanation": "La regla es simple: polo norte con polo sur se atraen, y dos nortes o dos sures se repelen.",
+      "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Remember",
@@ -819,41 +819,41 @@
     },
     {
       "id": "SV-CIE-11-2026-W31-magnetismo-001-MASTERY-bundle-v19",
-      "statement": "En un experimento, plantas con luz crecen más que sin luz. ¿Variable independiente?",
-      "context": "Clase de ciencias en Soyapango estudiando magnetismo.",
+      "statement": "¿Qué ventaja de los frenos magnéticos justifica esa propuesta?",
+      "context": "La empresa de transporte que opera en San Miguel propone instalar un freno magnético en los vagones de carga.",
       "options": [
         {
-          "letter": "C",
-          "text": "La exposición a la luz",
-          "is_correct": true,
-          "feedback": "¡Correcto!"
-        },
-        {
           "letter": "A",
-          "text": "El crecimiento de las plantas",
-          "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "text": "Actúan sin contacto físico, por lo que no se desgastan y no requieren Lubricación",
+          "is_correct": true,
+          "feedback": "Correcto. La fuerza magnética frena sin frotar dos superficies, así que el desgaste es casi nulo."
         },
         {
           "letter": "B",
-          "text": "La temperatura ambiente",
+          "text": "Permiten detener el vagón en un instante sin consumir energía eléctrica",
           "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "feedback": "Incorrecto. El electroimán del freno necesita corriente para mantener su campo magnético."
+        },
+        {
+          "letter": "C",
+          "text": "Aumentan la velocidad máxima que puede alcanzar el vagón",
+          "is_correct": false,
+          "feedback": "Incorrecto. Un freno magnético reduce la velocidad del vehículo y no la aumenta."
         },
         {
           "letter": "D",
-          "text": "El tipo de planta",
+          "text": "Evitan por completo el desgaste de las ruedas en todo el sistema de frenado",
           "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "feedback": "Incorrecto. El freno magnético no desgasta sus propios componentes, pero el vagón sigue frenando con evidencia normal en otros sistemas."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "La variable independiente es la que manipula el investigador: la luz.",
-      "difficulty": "10",
+      "correct_answer": "A",
+      "explanation": "Los frenos electromagnéticos se usan en tren yTTC montacargas porque la fuerza magnética no depende de la fricción y por eso sus piezas duran mucho más.",
+      "difficulty": "6",
       "images": [],
       "tags": [],
-      "bloom": "Analyze",
-      "expected_success": 0.7,
+      "bloom": "Evaluate",
+      "expected_success": 0.65,
       "bundle_id": "SV-CIE-11-2026-W31-magnetismo-001-MASTERY-bundle",
       "periodo": 31,
       "protocol_version": "5.2",
@@ -864,41 +864,41 @@
     },
     {
       "id": "SV-CIE-11-2026-W31-magnetismo-001-MASTERY-bundle-v20",
-      "statement": "¿Cuál es la unidad básica de la vida?",
-      "context": "Clase de ciencias en Mejicanos estudiando magnetismo.",
+      "statement": "¿Qué propiedad magnética del grano permite que ese sensor lo separe?",
+      "context": "En una estación de Usulután calibran un sensor de una máquina agrícola que se activa por la presencia de metal en el grano.",
       "options": [
         {
           "letter": "A",
-          "text": "La célula",
-          "is_correct": true,
-          "feedback": "¡Correcto!"
+          "text": "Todos los granos son atraídos por igual porque todos tienen hierro en su composición",
+          "is_correct": false,
+          "feedback": "Incorrecto. Solo una fracción del grano tiene hierro y responde al imán; el resto sigue su curso normal."
         },
         {
           "letter": "B",
-          "text": "El átomo",
+          "text": "El sensor funciona por el calor que el imán produce en el grano",
           "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "feedback": "Incorrecto. Un imán no calienta el grano; la separación es una atracción magnética."
         },
         {
           "letter": "C",
-          "text": "La molécula",
+          "text": "El imán cambia el peso de los granos y por eso los separa",
           "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "feedback": "Incorrecto. El campo magnético no altera el peso del grano, solo su trayectoria."
         },
         {
           "letter": "D",
-          "text": "El tejido",
-          "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "text": "Solo los granos con ferromagneticidad son desviados hacia el imán y se separan del resto",
+          "is_correct": true,
+          "feedback": "Correcto. La separación depende de que el material tenga respuesta ferromagnética ante el campo del imán."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "La célula es la unidad estructural y funcional básica de los seres vivos.",
-      "difficulty": "10",
+      "correct_answer": "D",
+      "explanation": "La selección magnética de granos se apoya en la respuesta ferromagnética de unos pocos minerales frente a la mayoría de la carga, que es inerte al imán.",
+      "difficulty": "5",
       "images": [],
       "tags": [],
-      "bloom": "Remember",
-      "expected_success": 0.85,
+      "bloom": "Apply",
+      "expected_success": 0.75,
       "bundle_id": "SV-CIE-11-2026-W31-magnetismo-001-MASTERY-bundle",
       "periodo": 31,
       "protocol_version": "5.2",

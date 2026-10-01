@@ -9,41 +9,41 @@
   "questions": [
     {
       "id": "SV-CIE-11-2026-W15-biodiversidad-sv-001-MASTERY-bundle-v1",
-      "statement": "¿Qué proceso conviierte luz solar en energía química en las plantas?",
-      "context": "Clase de ciencias en San Salvador estudiando biodiversidad sv.",
+      "statement": "¿Qué término designa una especie que se encuentra únicamente en una región geográfica determinada?",
+      "context": "El equipo de biológos de La Libertad recorre el cerro El Boquerón y registra especies de plantas y de aves que no viven en otras zonas del país.",
       "options": [
         {
-          "letter": "D",
-          "text": "Fotosíntesis",
-          "is_correct": true,
-          "feedback": "¡Correcto!"
-        },
-        {
           "letter": "A",
-          "text": "Respiración celular",
+          "text": "Es una especie introducida",
           "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "feedback": "Incorrecto. Una especie introducida es la que se trae de forma artificial a una zona donde antes no vivía."
         },
         {
           "letter": "B",
-          "text": "Fermentación",
+          "text": "Es una especie invasora",
           "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "feedback": "Incorrecto. Una especie invasora es la introducida que además se reproduce con éxito y desplaza a las especies nativas."
         },
         {
           "letter": "C",
-          "text": "Digestión",
+          "text": "Es una especie extinguida",
           "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "feedback": "Incorrecto. Una especie extinguida ya no existe en ningún lugar; la endémica sí existe, pero solo dentro de su región."
+        },
+        {
+          "letter": "D",
+          "text": "Es una especie endémica",
+          "is_correct": true,
+          "feedback": "Correcto. Una especie endémica tiene un área de distribución restringida a esa región y no aparece en ningún otro lugar."
         }
       ],
       "correct_answer": "D",
-      "explanation": "La fotosíntesis usa luz, agua y CO₂ para producir glucosa y oxígeno.",
+      "explanation": "Los cerros de El Salvador funcionan como islas biológicas: si una especie endémica se extingue en ese cerro, desaparece del planeta entero.",
       "difficulty": "4",
       "images": [],
       "tags": [],
-      "bloom": "Understand",
-      "expected_success": 0.8,
+      "bloom": "Remember",
+      "expected_success": 0.85,
       "bundle_id": "SV-CIE-11-2026-W15-biodiversidad-sv-001-MASTERY-bundle",
       "periodo": 15,
       "protocol_version": "5.2",
@@ -54,40 +54,40 @@
     },
     {
       "id": "SV-CIE-11-2026-W15-biodiversidad-sv-001-MASTERY-bundle-v2",
-      "statement": "Objeto de 3 kg acelera a 3 m/s². ¿Fuerza aplicada? (F=ma)",
-      "context": "Clase de ciencias en Soyapango estudiando biodiversidad sv.",
+      "statement": "¿Qué ejemplo representa mejor la biodiversidad genética?",
+      "context": "En la clase de segundo grado comparan dos plantas de la misma especie de buganvilla con flores de distinto color.",
       "options": [
         {
-          "letter": "B",
-          "text": "9 N",
+          "letter": "A",
+          "text": "Las variaciones en el color y la forma de las flores dentro de esa misma especie de buganvilla",
           "is_correct": true,
-          "feedback": "¡Correcto!"
+          "feedback": "Correcto. Son variaciones entre individuos de una misma especie, que es exactamente lo que mide la diversidad genética."
         },
         {
-          "letter": "A",
-          "text": "6 N",
+          "letter": "B",
+          "text": "La coexistencia de árboles, arbustos y hierbas en un mismo bosque",
           "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "feedback": "Incorrecto. La mezcla de árboles, arbustos y hierbas es diversidad de especies y no genética."
         },
         {
           "letter": "C",
-          "text": "12 N",
+          "text": "La presencia de tres especies diferentes de aves en un mismo árbol",
           "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "feedback": "Incorrecto. Tres especies de aves son tres especies distintas, y eso es diversidad de especies."
         },
         {
           "letter": "D",
-          "text": "3 N",
+          "text": "La separación del país en regiones con climas distintos",
           "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "feedback": "Incorrecto. La división en regiones con climas diferentes es diversidad de ecosistemas."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "F = ma = 3×3 = 9 N.",
+      "correct_answer": "A",
+      "explanation": "Los tres niveles se distinguen por su escala: el genético está dentro de una especie, el de especies agrupa organismos de una misma zona y el de ecosistemas se refiere a los hábitats.",
       "difficulty": "4",
       "images": [],
       "tags": [],
-      "bloom": "Apply",
+      "bloom": "Understand",
       "expected_success": 0.8,
       "bundle_id": "SV-CIE-11-2026-W15-biodiversidad-sv-001-MASTERY-bundle",
       "periodo": 15,
@@ -99,41 +99,41 @@
     },
     {
       "id": "SV-CIE-11-2026-W15-biodiversidad-sv-001-MASTERY-bundle-v3",
-      "statement": "¿Cuál es el órgano más grande del cuerpo humano?",
-      "context": "Clase de ciencias en Mejicanos estudiando biodiversidad sv.",
+      "statement": "¿Qué amenaza principal para la biodiversidad representa esa tala?",
+      "context": "El guardaparque observa que al talar un tramo de bosque desaparecen varias especies de aves que nidifican en los árboles altos.",
       "options": [
         {
-          "letter": "B",
-          "text": "La piel",
-          "is_correct": true,
-          "feedback": "¡Correcto!"
+          "letter": "A",
+          "text": "La sobreexplotación de la miel, que agota la fuente de alimento de las aves",
+          "is_correct": false,
+          "feedback": "Incorrecto. La tala no afecta la disponibilidad de miel; la sobreexplotación mide el uso excesivo de un recurso."
         },
         {
-          "letter": "A",
-          "text": "El hígado",
-          "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "letter": "B",
+          "text": "La pérdida de hábitat, que elimina el espacio donde esas especies se alimentan y se reproducen",
+          "is_correct": true,
+          "feedback": "Correcto. Al desaparecer el bosque se pierde el hábitat completo, y con él todas las especies que dependían de él."
         },
         {
           "letter": "C",
-          "text": "El corazón",
+          "text": "La contaminación genética por el uso de pesticidas en el suelo",
           "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "feedback": "Incorrecto. La contaminación genética no se produce por talar árboles sino por el cruce entre especies distintas."
         },
         {
           "letter": "D",
-          "text": "Los pulmones",
+          "text": "El aumento de la temperatura de las aguas subterráneas",
           "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "feedback": "Incorrecto. La temperatura del agua subterránea no explica la desaparición de aves que nidifican en el bosque."
         }
       ],
       "correct_answer": "B",
-      "explanation": "La piel es el órgano más grande, cubriendo y protegiendo todo el cuerpo.",
-      "difficulty": "4",
+      "explanation": "La pérdida de hábitat es la amenaza más grave: cuando un área entera desaparece no se pierde una sola especie sino la comunidad completa que dependía de ella.",
+      "difficulty": "5",
       "images": [],
       "tags": [],
-      "bloom": "Remember",
-      "expected_success": 0.85,
+      "bloom": "Analyze",
+      "expected_success": 0.7,
       "bundle_id": "SV-CIE-11-2026-W15-biodiversidad-sv-001-MASTERY-bundle",
       "periodo": 15,
       "protocol_version": "5.2",
@@ -144,41 +144,41 @@
     },
     {
       "id": "SV-CIE-11-2026-W15-biodiversidad-sv-001-MASTERY-bundle-v4",
-      "statement": "En un experimento, plantas con luz crecen más que sin luz. ¿Variable independiente?",
-      "context": "Clase de ciencias en San Salvador estudiando biodiversidad sv.",
+      "statement": "¿Qué medida protege mejor la biodiversidad del cafetal?",
+      "context": "Un cafetalero consulta cómo reducir el impacto de su cultivo sobre el bosque cercano.",
       "options": [
         {
           "letter": "A",
-          "text": "La exposición a la luz",
-          "is_correct": true,
-          "feedback": "¡Correcto!"
+          "text": "Aumentar la cantidad de fertilizante para que las plantas resistan mejor las plagas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Más fertilizante no aumenta la biodiversidad: altera el suelo y termina contaminando el agua."
         },
         {
           "letter": "B",
-          "text": "El crecimiento de las plantas",
-          "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "text": "Mantener franjas de bosque nativo entre los cafetales y usar menos agroquímicos",
+          "is_correct": true,
+          "feedback": "Correcto. Las franjas de bosque nativo sirven de corredor para la fauna y reducen el uso de productos químicos."
         },
         {
           "letter": "C",
-          "text": "La temperatura ambiente",
+          "text": "Eliminar los árboles que dan sombra al cafetal para facilitar la cosecha",
           "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "feedback": "Incorrecto. Los árboles de sombra dan refugio a las aves y regulan el clima del cafetal, así que eliminarlos la reduce."
         },
         {
           "letter": "D",
-          "text": "El tipo de planta",
+          "text": "Ampliar el cafetal hasta ocupar toda la ladera y facilitar el acceso a maquinaria",
           "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "feedback": "Incorrecto. Ampliar el cultivo hasta la ladera entera significa perder el bosque que queda, es decir, un daño directo."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "La variable independiente es la que manipula el investigador: la luz.",
-      "difficulty": "4",
+      "correct_answer": "B",
+      "explanation": "Los cafetales agroforestales que conservan la sombra arbórea y el bosque circundante mantienen más especies de aves e insectos que el monocultivo clásico.",
+      "difficulty": "5",
       "images": [],
       "tags": [],
-      "bloom": "Analyze",
-      "expected_success": 0.7,
+      "bloom": "Apply",
+      "expected_success": 0.75,
       "bundle_id": "SV-CIE-11-2026-W15-biodiversidad-sv-001-MASTERY-bundle",
       "periodo": 15,
       "protocol_version": "5.2",
@@ -189,41 +189,41 @@
     },
     {
       "id": "SV-CIE-11-2026-W15-biodiversidad-sv-001-MASTERY-bundle-v5",
-      "statement": "¿Cuál es la unidad básica de la vida?",
-      "context": "Clase de ciencias en San Salvador estudiando biodiversidad sv.",
+      "statement": "¿Qué lectura correcta hace ese gráfico sobre la pérdida de especies?",
+      "context": "El profesor presenta un gráfico donde el número de especies cae a la mitad cuando una mancha de bosque se convierte en un campo de cultivo.",
       "options": [
         {
-          "letter": "B",
-          "text": "La célula",
-          "is_correct": true,
-          "feedback": "¡Correcto!"
+          "letter": "A",
+          "text": "El número de especies se mantiene igual aunque se transforme todo el bosque",
+          "is_correct": false,
+          "feedback": "Incorrecto. El gráfico muestra justamente una caída del número de especies y no un mantenimiento."
         },
         {
-          "letter": "A",
-          "text": "El átomo",
+          "letter": "B",
+          "text": "Las especies se recuperan solas en cuanto el terreno vuelve a ser cultivado",
           "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "feedback": "Incorrecto. Los datos no indican recuperación alguna después de transformar el terreno."
         },
         {
           "letter": "C",
-          "text": "La molécula",
-          "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "text": "A mayor transformación del paisaje, menor cantidad de especies sobrevive en él",
+          "is_correct": true,
+          "feedback": "Correcto. El gráfico muestra una respuesta sostenida: el cambio del uso del suelo reduce la riqueza de especies."
         },
         {
           "letter": "D",
-          "text": "El tejido",
+          "text": "Una sola transformación del bosque basta para eliminar todas las especies",
           "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "feedback": "Incorrecto. El gráfico muestra una caída de la mitad y no la desaparición total de todas las especies."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "La célula es la unidad estructural y funcional básica de los seres vivos.",
-      "difficulty": "6",
+      "correct_answer": "C",
+      "explanation": "Los datos describen una respuesta medible: la riqueza de especies disminuye de manera sostenida a medida que aumenta la transformación del hábitat.",
+      "difficulty": "5",
       "images": [],
       "tags": [],
-      "bloom": "Remember",
-      "expected_success": 0.85,
+      "bloom": "Analyze",
+      "expected_success": 0.7,
       "bundle_id": "SV-CIE-11-2026-W15-biodiversidad-sv-001-MASTERY-bundle",
       "periodo": 15,
       "protocol_version": "5.2",
@@ -234,41 +234,41 @@
     },
     {
       "id": "SV-CIE-11-2026-W15-biodiversidad-sv-001-MASTERY-bundle-v6",
-      "statement": "¿Qué proceso conviierte luz solar en energía química en las plantas?",
-      "context": "Clase de ciencias en Santa Ana estudiando biodiversidad sv.",
+      "statement": "¿Qué argumento sostiene mejor la protección de toda la biodiversidad?",
+      "context": "Dos estudiantes discuten si tiene sentido proteger solo las especies que a ellos les parecen más bonitas.",
       "options": [
         {
-          "letter": "C",
-          "text": "Fotosíntesis",
-          "is_correct": true,
-          "feedback": "¡Correcto!"
-        },
-        {
           "letter": "A",
-          "text": "Respiración celular",
+          "text": "Todas las especies cumplen la misma función y se pueden sustituir unas por otras",
           "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "feedback": "Incorrecto. Las especies cumplen funciones distintas: un insecto polinizador no reemplaza a un hongo descomponedor."
         },
         {
           "letter": "B",
-          "text": "Fermentación",
+          "text": "La biodiversidad solo tiene valor estético para el turismo",
           "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "feedback": "Incorrecto. La biodiversidad tiene valor ecológico, económico y científico además del estético."
+        },
+        {
+          "letter": "C",
+          "text": "Los insectos y los hongos que parecen poco importantes también sostienen los cultivos y limpian el suelo",
+          "is_correct": true,
+          "feedback": "Correcto. Los insectos polinizadores y los hongos descomponedores sostienen la producción de alimentos y el ciclo de nutrientes."
         },
         {
           "letter": "D",
-          "text": "Digestión",
+          "text": "Proteger una sola especie garantiza proteger todo el ecosistema sin más acciones",
           "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "feedback": "Incorrecto. Proteger una especie no basta: el ecosistema requiere la red completa de interacciones."
         }
       ],
       "correct_answer": "C",
-      "explanation": "La fotosíntesis usa luz, agua y CO₂ para producir glucosa y oxígeno.",
+      "explanation": "Un ecosistema es una red y cada especie ocupa un lugar. Si se pierde una pieza, aunque no sea la más llamativa, la red se debilita y el conjunto resulta menos estable.",
       "difficulty": "6",
       "images": [],
       "tags": [],
-      "bloom": "Understand",
-      "expected_success": 0.8,
+      "bloom": "Evaluate",
+      "expected_success": 0.65,
       "bundle_id": "SV-CIE-11-2026-W15-biodiversidad-sv-001-MASTERY-bundle",
       "periodo": 15,
       "protocol_version": "5.2",
@@ -279,41 +279,41 @@
     },
     {
       "id": "SV-CIE-11-2026-W15-biodiversidad-sv-001-MASTERY-bundle-v7",
-      "statement": "Objeto de 8 kg acelera a 4 m/s². ¿Fuerza aplicada? (F=ma)",
-      "context": "Clase de ciencias en Santa Ana estudiando biodiversidad sv.",
+      "statement": "¿Qué conclusión sobre la salud del río permite esa observación?",
+      "context": "El laboratorio analiza una muestra de agua de río y encuentra macroinvertebrados sensibles a la contaminación.",
       "options": [
         {
-          "letter": "C",
-          "text": "32 N",
-          "is_correct": true,
-          "feedback": "¡Correcto!"
-        },
-        {
           "letter": "A",
-          "text": "24 N",
+          "text": "El río está contaminado, porque esos organismos no aguantan los contaminantes",
           "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "feedback": "Incorrecto. Si estuvieran presentes es porque el agua les resulta habitable, es decir, poco contaminada."
         },
         {
           "letter": "B",
-          "text": "36 N",
+          "text": "El río está seco, porque los macroinvertebrados no viven en el agua",
           "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "feedback": "Incorrecto. Los macroinvertebrados acuáticos viven precisamente en el agua de los ríos."
+        },
+        {
+          "letter": "C",
+          "text": "El río es salado, porque la sal evita la contaminación",
+          "is_correct": false,
+          "feedback": "Incorrecto. La salinidad es una característica distinta; aquí el indicador usado es la sensibilidad a los contaminantes."
         },
         {
           "letter": "D",
-          "text": "8 N",
-          "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "text": "El río tiene buena calidad, porque viven organismos que solo toleran aguas limpias",
+          "is_correct": true,
+          "feedback": "Correcto. Los macroinvertebrados sensibles son bioindicadores y su presencia indica agua limpia."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "F = ma = 8×4 = 32 N.",
-      "difficulty": "6",
+      "correct_answer": "D",
+      "explanation": "Los macroinvertebrados acuáticos son bioindicadores: como toleran o no toleran los contaminantes, permiten calificar un río sin necesidad de análisis químicos.",
+      "difficulty": "5",
       "images": [],
       "tags": [],
       "bloom": "Apply",
-      "expected_success": 0.8,
+      "expected_success": 0.75,
       "bundle_id": "SV-CIE-11-2026-W15-biodiversidad-sv-001-MASTERY-bundle",
       "periodo": 15,
       "protocol_version": "5.2",
@@ -324,41 +324,41 @@
     },
     {
       "id": "SV-CIE-11-2026-W15-biodiversidad-sv-001-MASTERY-bundle-v8",
-      "statement": "¿Cuál es el órgano más grande del cuerpo humano?",
-      "context": "Clase de ciencias en Santa Ana estudiando biodiversidad sv.",
+      "statement": "¿Cuál es el objetivo principal de construir un corredor biológico?",
+      "context": "La asociación de ambientalistas de Usulután propone un corredor biológico entre dos fragmentos de bosque separados por una carretera.",
       "options": [
         {
           "letter": "A",
-          "text": "La piel",
-          "is_correct": true,
-          "feedback": "¡Correcto!"
+          "text": "Impedir que los animales crucen la carretera y se causen accidentes",
+          "is_correct": false,
+          "feedback": "Incorrecto. El corredor se construye para facilitar el paso de los animales y no para bloquearlo."
         },
         {
           "letter": "B",
-          "text": "El hígado",
+          "text": "Reducir el costo de construcción de carreteras en la zona",
           "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "feedback": "Incorrecto. Su finalidad es biológica y no guarda relación con el presupuesto de una obra pública."
         },
         {
           "letter": "C",
-          "text": "El corazón",
-          "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "text": "Permitir que las especies se desplacen entre los fragmentos y mantengan flujo genético",
+          "is_correct": true,
+          "feedback": "Correcto. Al conectar los fragmentos, el corredor permite el movimiento de organismos y el intercambio de genes entre poblaciones."
         },
         {
           "letter": "D",
-          "text": "Los pulmones",
+          "text": "Sustituir la protección de los bosques por el mantenimiento del corredor",
           "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "feedback": "Incorrecto. El corredor complementa la protección de los bosques y no la sustituye."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "La piel es el órgano más grande, cubriendo y protegiendo todo el cuerpo.",
-      "difficulty": "6",
+      "correct_answer": "C",
+      "explanation": "Los fragmentos aislados separan poblaciones que acaban quedándose pequeñas y con menos diversidad genética; el corredor reconstruye esa continuidad.",
+      "difficulty": "5",
       "images": [],
       "tags": [],
-      "bloom": "Remember",
-      "expected_success": 0.85,
+      "bloom": "Analyze",
+      "expected_success": 0.7,
       "bundle_id": "SV-CIE-11-2026-W15-biodiversidad-sv-001-MASTERY-bundle",
       "periodo": 15,
       "protocol_version": "5.2",
@@ -369,41 +369,41 @@
     },
     {
       "id": "SV-CIE-11-2026-W15-biodiversidad-sv-001-MASTERY-bundle-v9",
-      "statement": "En un experimento, plantas con luz crecen más que sin luz. ¿Variable independiente?",
-      "context": "Clase de ciencias en San Miguel estudiando biodiversidad sv.",
+      "statement": "¿Qué nivel de biodiversidad corresponde al conocimiento tradicional sobre las semillas y sus nombres?",
+      "context": "La clase de tercero recorre el mercado de San Miguel y observa frutas identificadas con nombres locales.",
       "options": [
         {
-          "letter": "C",
-          "text": "La exposición a la luz",
-          "is_correct": true,
-          "feedback": "¡Correcto!"
-        },
-        {
           "letter": "A",
-          "text": "El crecimiento de las plantas",
+          "text": "La biodiversidad genética",
           "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "feedback": "Incorrecto. La diversidad genética se refiere a las variaciones que existen dentro de una misma especie."
         },
         {
           "letter": "B",
-          "text": "La temperatura ambiente",
+          "text": "La biodiversidad de otros organismos vivos",
           "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "feedback": "Incorrecto. La biodiversidad de otros organismos vivos abarca los microorganismos y no los nombres de las frutas."
+        },
+        {
+          "letter": "C",
+          "text": "La biodiversidad de ecosistemas",
+          "is_correct": false,
+          "feedback": "Incorrecto. La diversidad de ecosistemas trata de los hábitats de la región y no del saber sobre las semillas."
         },
         {
           "letter": "D",
-          "text": "El tipo de planta",
-          "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "text": "La biodiversidad del conocimiento tradicional",
+          "is_correct": true,
+          "feedback": "Correcto. El conocimiento tradicional sobre semillas, nombres y usos de cultivo es una forma de biodiversidad reconocida."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "La variable independiente es la que manipula el investigador: la luz.",
-      "difficulty": "6",
+      "correct_answer": "D",
+      "explanation": "Sin ese conocimiento tradicional muchas semillas locales dejarían de cultivarse, y con ellas se perdería parte de la biodiversidad genética de los cultivos.",
+      "difficulty": "4",
       "images": [],
       "tags": [],
-      "bloom": "Analyze",
-      "expected_success": 0.7,
+      "bloom": "Remember",
+      "expected_success": 0.85,
       "bundle_id": "SV-CIE-11-2026-W15-biodiversidad-sv-001-MASTERY-bundle",
       "periodo": 15,
       "protocol_version": "5.2",
@@ -414,41 +414,41 @@
     },
     {
       "id": "SV-CIE-11-2026-W15-biodiversidad-sv-001-MASTERY-bundle-v10",
-      "statement": "¿Cuál es la unidad básica de la vida?",
-      "context": "Clase de ciencias en Santa Ana estudiando biodiversidad sv.",
+      "statement": "¿Qué concepto de la biodiversidad explica esa ventaja de la semilla criolla?",
+      "context": "Un estudiante de San Vicente planta semillas de maíz criollo y observa que la planta resiste mejor la sequía que una variedad comercial.",
       "options": [
         {
-          "letter": "D",
-          "text": "La célula",
-          "is_correct": true,
-          "feedback": "¡Correcto!"
-        },
-        {
           "letter": "A",
-          "text": "El átomo",
-          "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "text": "La biodiversidad genética, porque las variaciones de la semilla incluyen rasgos de resistencia a la sequía",
+          "is_correct": true,
+          "feedback": "Correcto. La variación genética dentro de la especie hace posible que algunas plantas tengan rasgos de resistencia a la sequía."
         },
         {
           "letter": "B",
-          "text": "La molécula",
+          "text": "La biodiversidad de especies, porque el maíz criollo es una especie distinta de la comercial",
           "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "feedback": "Incorrecto. Ambas son la misma especie, Zea mays; lo que cambia es la diversidad de sus variantes genéticas."
         },
         {
           "letter": "C",
-          "text": "El tejido",
+          "text": "La biodiversidad de ecosistemas, porque la parcela está cerca de un bosque",
           "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "feedback": "Incorrecto. La cercanía al bosque no explica la resistencia a la sequía de esa semilla concreta."
+        },
+        {
+          "letter": "D",
+          "text": "La biodiversidad de otros organismos, porque los hongos del suelo ayudan a la planta",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los hongos del suelo son otro organismo, pero la ventaja descrita viene de la variación genética de la semilla."
         }
       ],
-      "correct_answer": "D",
-      "explanation": "La célula es la unidad estructural y funcional básica de los seres vivos.",
-      "difficulty": "6",
+      "correct_answer": "A",
+      "explanation": "Las semillas criollas conservan una mezcla de variantes que las variedades comerciales perdieron al seleccionarse para alto rendimiento, y por eso resultan más resilientes.",
+      "difficulty": "5",
       "images": [],
       "tags": [],
-      "bloom": "Remember",
-      "expected_success": 0.85,
+      "bloom": "Apply",
+      "expected_success": 0.75,
       "bundle_id": "SV-CIE-11-2026-W15-biodiversidad-sv-001-MASTERY-bundle",
       "periodo": 15,
       "protocol_version": "5.2",
@@ -459,172 +459,37 @@
     },
     {
       "id": "SV-CIE-11-2026-W15-biodiversidad-sv-001-MASTERY-bundle-v11",
-      "statement": "¿Qué proceso conviierte luz solar en energía química en las plantas?",
-      "context": "Clase de ciencias en Soyapango estudiando biodiversidad sv.",
+      "statement": "¿Qué proceso ecológico se está produciendo en ese terreno?",
+      "context": "Tras un incendio, un terreno baldío poco a poco es ocupado por pastos, luego por arbustos y más tarde por un bosque nuevo.",
       "options": [
         {
           "letter": "A",
-          "text": "Fotosíntesis",
+          "text": "La sucesión ecológica, que organiza el poblamiento del suelo en etapas cada vez más complejas",
           "is_correct": true,
-          "feedback": "¡Correcto!"
+          "feedback": "Correcto. Es la sucesión: una comunidad reemplaza a otra de forma progresiva hasta alcanzar un estado más estable."
         },
         {
           "letter": "B",
-          "text": "Respiración celular",
+          "text": "La evolución química, que transforma el suelo en materia orgánica",
           "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "feedback": "Incorrecto. La evolución química no describe la colonización de un terreno por seres vivos."
         },
         {
           "letter": "C",
-          "text": "Fermentación",
+          "text": "La migración animal, que desplaza especies de un bosque a otro",
           "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "feedback": "Incorrecto. La migración es el desplazamiento de animales; aquí lo que cambia es la comunidad que se instala en un mismo suelo."
         },
         {
           "letter": "D",
-          "text": "Digestión",
+          "text": "La selección natural, que elimina a los organismos menos fuertes",
           "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "feedback": "Incorrecto. La selección natural actúa sobre variaciones heredables dentro de una población y no sobre el poblamiento de un terreno."
         }
       ],
       "correct_answer": "A",
-      "explanation": "La fotosíntesis usa luz, agua y CO₂ para producir glucosa y oxígeno.",
-      "difficulty": "8",
-      "images": [],
-      "tags": [],
-      "bloom": "Understand",
-      "expected_success": 0.8,
-      "bundle_id": "SV-CIE-11-2026-W15-biodiversidad-sv-001-MASTERY-bundle",
-      "periodo": 15,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ciencias-naturales",
-      "grade": 11,
-      "country": "sv"
-    },
-    {
-      "id": "SV-CIE-11-2026-W15-biodiversidad-sv-001-MASTERY-bundle-v12",
-      "statement": "Objeto de 6 kg acelera a 3 m/s². ¿Fuerza aplicada? (F=ma)",
-      "context": "Clase de ciencias en Mejicanos estudiando biodiversidad sv.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "18 N",
-          "is_correct": true,
-          "feedback": "¡Correcto!"
-        },
-        {
-          "letter": "B",
-          "text": "12 N",
-          "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
-        },
-        {
-          "letter": "C",
-          "text": "21 N",
-          "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
-        },
-        {
-          "letter": "D",
-          "text": "6 N",
-          "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "F = ma = 6×3 = 18 N.",
-      "difficulty": "8",
-      "images": [],
-      "tags": [],
-      "bloom": "Apply",
-      "expected_success": 0.8,
-      "bundle_id": "SV-CIE-11-2026-W15-biodiversidad-sv-001-MASTERY-bundle",
-      "periodo": 15,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ciencias-naturales",
-      "grade": 11,
-      "country": "sv"
-    },
-    {
-      "id": "SV-CIE-11-2026-W15-biodiversidad-sv-001-MASTERY-bundle-v13",
-      "statement": "¿Cuál es el órgano más grande del cuerpo humano?",
-      "context": "Clase de ciencias en San Miguel estudiando biodiversidad sv.",
-      "options": [
-        {
-          "letter": "D",
-          "text": "La piel",
-          "is_correct": true,
-          "feedback": "¡Correcto!"
-        },
-        {
-          "letter": "A",
-          "text": "El hígado",
-          "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
-        },
-        {
-          "letter": "B",
-          "text": "El corazón",
-          "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
-        },
-        {
-          "letter": "C",
-          "text": "Los pulmones",
-          "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
-        }
-      ],
-      "correct_answer": "D",
-      "explanation": "La piel es el órgano más grande, cubriendo y protegiendo todo el cuerpo.",
-      "difficulty": "8",
-      "images": [],
-      "tags": [],
-      "bloom": "Remember",
-      "expected_success": 0.85,
-      "bundle_id": "SV-CIE-11-2026-W15-biodiversidad-sv-001-MASTERY-bundle",
-      "periodo": 15,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ciencias-naturales",
-      "grade": 11,
-      "country": "sv"
-    },
-    {
-      "id": "SV-CIE-11-2026-W15-biodiversidad-sv-001-MASTERY-bundle-v14",
-      "statement": "En un experimento, plantas con luz crecen más que sin luz. ¿Variable independiente?",
-      "context": "Clase de ciencias en Soyapango estudiando biodiversidad sv.",
-      "options": [
-        {
-          "letter": "B",
-          "text": "La exposición a la luz",
-          "is_correct": true,
-          "feedback": "¡Correcto!"
-        },
-        {
-          "letter": "A",
-          "text": "El crecimiento de las plantas",
-          "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
-        },
-        {
-          "letter": "C",
-          "text": "La temperatura ambiente",
-          "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
-        },
-        {
-          "letter": "D",
-          "text": "El tipo de planta",
-          "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
-        }
-      ],
-      "correct_answer": "B",
-      "explanation": "La variable independiente es la que manipula el investigador: la luz.",
-      "difficulty": "8",
+      "explanation": "En la sucesión las primeras especies modifican el suelo y el microclima, permitiendo que se instalen después otras más exigentes; por eso las etapas finales son más complejas.",
+      "difficulty": "5",
       "images": [],
       "tags": [],
       "bloom": "Analyze",
@@ -638,42 +503,177 @@
       "country": "sv"
     },
     {
-      "id": "SV-CIE-11-2026-W15-biodiversidad-sv-001-MASTERY-bundle-v15",
-      "statement": "¿Cuál es la unidad básica de la vida?",
-      "context": "Clase de ciencias en Santa Ana estudiando biodiversidad sv.",
+      "id": "SV-CIE-11-2026-W15-biodiversidad-sv-001-MASTERY-bundle-v12",
+      "statement": "¿Cuál es la diferencia más importante que puede aparecer entre esas dos poblaciones aisladas?",
+      "context": "En La Libertad se encuentran dos poblaciones del mismo género de escarabajo, una en cada uno de dos cerros sin camino que los conecte.",
       "options": [
         {
-          "letter": "C",
-          "text": "La célula",
-          "is_correct": true,
-          "feedback": "¡Correcto!"
-        },
-        {
           "letter": "A",
-          "text": "El átomo",
+          "text": "El mismo material genético, porque pertenecer al mismo género lo garantiza",
           "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "feedback": "Incorrecto. Pertenecer al mismo género solo indica un antepasado común lejano y no un material genético idéntico."
         },
         {
           "letter": "B",
-          "text": "La molécula",
+          "text": "Variaciones genéticas distintas, porque sin contacto entre ellas se acumulan cambios diferentes",
+          "is_correct": true,
+          "feedback": "Correcto. El aislamiento geográfico detiene el flujo genético y cada población acumula variaciones propias."
+        },
+        {
+          "letter": "C",
+          "text": "Ninguna diferencia, porque comparten la misma cordillera y el mismo clima",
           "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "feedback": "Incorrecto. Compartir clima y cordillera no implica identidad genética; el aislamiento es precisamente geográfico."
         },
         {
           "letter": "D",
-          "text": "El tejido",
+          "text": "El mismo número de cromosomas y la misma dieta, porque así se mantienen emparentadas",
           "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "feedback": "Incorrecto. El mismo número de cromosomas es lo esperable entre especies emparentadas, pero no define esa relación."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Sin flujo genético entre poblaciones, la deriva génica y la selección local producen diferencias que con el tiempo pueden dar lugar a especies distintas.",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.7,
+      "bundle_id": "SV-CIE-11-2026-W15-biodiversidad-sv-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "sv"
+    },
+    {
+      "id": "SV-CIE-11-2026-W15-biodiversidad-sv-001-MASTERY-bundle-v13",
+      "statement": "¿Cuál es el principal riesgo de esa propuesta para la biodiversidad?",
+      "context": "La dirección de un parque nacional propone aumentar el número de visitantes para conseguir fondos y sostiene que no tendrá efectos negativos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Los visitantes en aumento siempre reducen el número de especies por la contaminación del aire",
+          "is_correct": false,
+          "feedback": "Incorrecto. El efecto principal es el pisoteo y la dispersión de semillas y no una contaminación del aire automática."
+        },
+        {
+          "letter": "B",
+          "text": "El dinero obtenido financia directamente la tala de bosque para construir hoteles",
+          "is_correct": false,
+          "feedback": "Incorrecto. La ganancia no implica talar bosque: el riesgo está en el uso insostenible del área protegida."
+        },
+        {
+          "letter": "C",
+          "text": "El aumento del tránsito de personas puede degradar el hábitat y dispersar semillas invasoras",
+          "is_correct": true,
+          "feedback": "Correcto. Más visitantes significan más desgaste del suelo y mayor riesgo de que entren especies invasoras."
+        },
+        {
+          "letter": "D",
+          "text": "Con más visitantes desaparece la biodiversidad genética de las especies locales",
+          "is_correct": false,
+          "feedback": "Incorrecto. El número de visitantes no elimina por sí solo el acervo genético de las especies locales."
         }
       ],
       "correct_answer": "C",
-      "explanation": "La célula es la unidad estructural y funcional básica de los seres vivos.",
-      "difficulty": "8",
+      "explanation": "Las áreas protegidas necesitan controlar el acceso: un uso excesivo del sitio degrada el suelo, aumenta la erosión y facilita la entrada de especies invasoras.",
+      "difficulty": "6",
       "images": [],
       "tags": [],
-      "bloom": "Remember",
-      "expected_success": 0.85,
+      "bloom": "Evaluate",
+      "expected_success": 0.65,
+      "bundle_id": "SV-CIE-11-2026-W15-biodiversidad-sv-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "sv"
+    },
+    {
+      "id": "SV-CIE-11-2026-W15-biodiversidad-sv-001-MASTERY-bundle-v14",
+      "statement": "¿Qué debería hacer de inmediato para proteger esa especie?",
+      "context": "Un cafetalero de Trinidad encuentra en una finca un nido con dos huevos de una especie protegida.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Llevar los huevos a casa para protegerlos de los depredadores del cafetal",
+          "is_correct": false,
+          "feedback": "Incorrecto. Mover los huevos de lugar reduce las posibilidades de eclosión e interfiere con la incubación."
+        },
+        {
+          "letter": "B",
+          "text": "Sacudir el cafetal cerca del nido para que la madre note que hay actividad humana",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sacudir el cafetal molesta a la madre en lugar de proteger a la especie; lo adecuado es evitar los disturbios."
+        },
+        {
+          "letter": "C",
+          "text": "Matar a los depredadores del cafetal para proteger los huevos y la cosecha",
+          "is_correct": false,
+          "feedback": "Incorrecto. Matar depredadores altera la cadena alimentaria y puede hacer aumentar la plaga que se pretendía controlar."
+        },
+        {
+          "letter": "D",
+          "text": "Reportar el hallazgo a las autoridades del parque y dejar el nido intacto en su sitio",
+          "is_correct": true,
+          "feedback": "Correcto. Reportar el hallazgo y no intervenir permite a las autoridades proteger el nido sin romper el ciclo de la especie."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "La forma correcta de proteger un nido es reducir la intervención humana y avisar a quien administra el área protegida, para que tome las medidas que correspondan.",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.75,
+      "bundle_id": "SV-CIE-11-2026-W15-biodiversidad-sv-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "sv"
+    },
+    {
+      "id": "SV-CIE-11-2026-W15-biodiversidad-sv-001-MASTERY-bundle-v15",
+      "statement": "¿Qué medida reduce mejor la erosión del causes del cauce?",
+      "context": "El municipio de San Francisco Gotero observa que el causes del río se está erosionando en los tramos sin vegetación en las orillas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Endurecer el cauce con concreto para que el agua no toque el suelo",
+          "is_correct": false,
+          "feedback": "Incorrecto. El concreto evita la erosión local, pero rompe el hábitat acuático y traslada el daño aguas abajo."
+        },
+        {
+          "letter": "B",
+          "text": "Repoblar las orillas con vegetación nativa que sostenga el suelo con sus raíces",
+          "is_correct": true,
+          "feedback": "Correcto. Las raíces de la vegetación nativa fijan el suelo y reducen el golpe del agua sobre el causes del cauce."
+        },
+        {
+          "letter": "C",
+          "text": "Despejar la vegetación de la orilla para que el agua circule más rápido",
+          "is_correct": false,
+          "feedback": "Incorrecto. Quitar la vegetación deja el suelo expuesto y acelera la erosión en lugar de reducirla."
+        },
+        {
+          "letter": "D",
+          "text": "Aumentar el caudal del río con una represa que inunde los terrenos vecinos",
+          "is_correct": false,
+          "feedback": "Incorrecto. Un caudal mayor aumenta la velocidad del agua y con ella la erosión del causes del cauce."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La vegetación de ribera funciona como amortiguador natural: frena la corriente y sus raíces sujetan el suelo, mientras el concreto solo traslada el problema de unas zonas a otras.",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.75,
       "bundle_id": "SV-CIE-11-2026-W15-biodiversidad-sv-001-MASTERY-bundle",
       "periodo": 15,
       "protocol_version": "5.2",
@@ -684,41 +684,41 @@
     },
     {
       "id": "SV-CIE-11-2026-W15-biodiversidad-sv-001-MASTERY-bundle-v16",
-      "statement": "¿Qué proceso conviierte luz solar en energía química en las plantas?",
-      "context": "Clase de ciencias en Soyapango estudiando biodiversidad sv.",
+      "statement": "¿Qué relación directa existe entre ese hongo y el árbol?",
+      "context": "En el Valle de San Francisco, un hongo de color naranja cubre el tronco de un árbol que empieza a secarse.",
       "options": [
         {
-          "letter": "D",
-          "text": "Fotosíntesis",
-          "is_correct": true,
-          "feedback": "¡Correcto!"
-        },
-        {
           "letter": "A",
-          "text": "Respiración celular",
+          "text": "El hongo absorbe el agua del árbol sin aportar ningún beneficio al ecosistema",
           "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "feedback": "Incorrecto. Los hongos saprofitos no se alimentan de savia: se alimentan de materia orgánica muerta."
         },
         {
           "letter": "B",
-          "text": "Fermentación",
-          "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "text": "El hongo descompone la madera y deja nutrientes en el suelo, aunque en sus hospederos puede debilitar el árbol",
+          "is_correct": true,
+          "feedback": "Correcto. Los hongos descomponedores reciclan la madera y devuelven nutrientes al suelo."
         },
         {
           "letter": "C",
-          "text": "Digestión",
+          "text": "El hongo es un parásito que mata al árbol siempre, sin ningún efecto positivo",
           "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "feedback": "Incorrecto. Algunos hongos son patógenos, pero los descomponedores son benéficos y no matan al árbol del que obtienen su alimento."
+        },
+        {
+          "letter": "D",
+          "text": "El hongo produce oxígeno y por eso reemplaza a las hojas del árbol en la fotosíntesis",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los hongos no fotosintetizan: no producen oxígeno ni reemplazan a las hojas."
         }
       ],
-      "correct_answer": "D",
-      "explanation": "La fotosíntesis usa luz, agua y CO₂ para producir glucosa y oxígeno.",
-      "difficulty": "8",
+      "correct_answer": "B",
+      "explanation": "Los hongos de la madera forman parte del ciclo de la materia: junto con las bacterias, convierten los restos en nutrientes y son descomponedores del ecosistema.",
+      "difficulty": "5",
       "images": [],
       "tags": [],
-      "bloom": "Understand",
-      "expected_success": 0.8,
+      "bloom": "Analyze",
+      "expected_success": 0.7,
       "bundle_id": "SV-CIE-11-2026-W15-biodiversidad-sv-001-MASTERY-bundle",
       "periodo": 15,
       "protocol_version": "5.2",
@@ -729,41 +729,41 @@
     },
     {
       "id": "SV-CIE-11-2026-W15-biodiversidad-sv-001-MASTERY-bundle-v17",
-      "statement": "Objeto de 4 kg acelera a 3 m/s². ¿Fuerza aplicada? (F=ma)",
-      "context": "Clase de ciencias en Mejicanos estudiando biodiversidad sv.",
+      "statement": "¿Qué resultado esperaría en la parcela con árboles de sombra?",
+      "context": "Un investigador compara el número de especies de dos parcelas de café: una de monocultivo y otra con árboles de sombra.",
       "options": [
         {
-          "letter": "D",
-          "text": "12 N",
-          "is_correct": true,
-          "feedback": "¡Correcto!"
-        },
-        {
           "letter": "A",
-          "text": "8 N",
+          "text": "Menos especies, porque los árboles de sombra ocupan el espacio del cafeto",
           "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "feedback": "Incorrecto. Los árboles de sombra ocupan suelo, pero la estructura del cafetal diversificado atrae más fauna y no menos."
         },
         {
           "letter": "B",
-          "text": "15 N",
+          "text": "El mismo número de especies, porque la parcela sigue siendo un cafetal en los dos casos",
           "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "feedback": "Incorrecto. La presencia de árboles de sombra cambia el microclima y el alimento disponible, así que el número de especies sí varía."
         },
         {
           "letter": "C",
-          "text": "4 N",
+          "text": "Más especies de aves e insectos, porque los árboles de sombra ofrecen alimento y refugio",
+          "is_correct": true,
+          "feedback": "Correcto. El follaje de sombra da alimento, sombra y refugio, y con él llegan más aves e insectos."
+        },
+        {
+          "letter": "D",
+          "text": "Solo más especies de plantas de café, porque la sombra no afecta a la fauna",
           "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "feedback": "Incorrecto. El efecto de la sombra alcanza a toda la comunidad animal y no solo a las plantas de café."
         }
       ],
-      "correct_answer": "D",
-      "explanation": "F = ma = 4×3 = 12 N.",
-      "difficulty": "10",
+      "correct_answer": "C",
+      "explanation": "Un cafetal con sombra es un mosaico de microhábitats: cada estrato ofrece alimento o refugio distinto, y esa variedad de recursos sostiene más especies.",
+      "difficulty": "5",
       "images": [],
       "tags": [],
       "bloom": "Apply",
-      "expected_success": 0.8,
+      "expected_success": 0.75,
       "bundle_id": "SV-CIE-11-2026-W15-biodiversidad-sv-001-MASTERY-bundle",
       "periodo": 15,
       "protocol_version": "5.2",
@@ -774,41 +774,41 @@
     },
     {
       "id": "SV-CIE-11-2026-W15-biodiversidad-sv-001-MASTERY-bundle-v18",
-      "statement": "¿Cuál es el órgano más grande del cuerpo humano?",
-      "context": "Clase de ciencias en Santa Ana estudiando biodiversidad sv.",
+      "statement": "¿Cuál es la diferencia más importante que se observará después de la lluvia?",
+      "context": "Dos parcelas de café, una con suelo desnudo y otra cubierta de vegetación, reciben las mismas lluvias durante una semana.",
       "options": [
         {
-          "letter": "B",
-          "text": "La piel",
+          "letter": "A",
+          "text": "La parcela cubierta retiene el agua y evita que arrastre el suelo, mientras el suelo desnudo se erosiona",
           "is_correct": true,
-          "feedback": "¡Correcto!"
+          "feedback": "Correcto. Las raíces y la cubierta vegetal frenan el agua, así que se infiltra en vez de arrastrar el suelo."
         },
         {
-          "letter": "A",
-          "text": "El hígado",
+          "letter": "B",
+          "text": "Ambas parcelas retienen igual el agua, porque la lluvia se comporta igual en las dos",
           "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "feedback": "Incorrecto. La cubierta vegetal cambia la velocidad con la que el agua golpea el suelo, y por eso el resultado difiere."
         },
         {
           "letter": "C",
-          "text": "El corazón",
+          "text": "La parcela con suelo desnudo conserva más nutrientes, porque el agua arrastra los minerales hacia abajo",
           "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "feedback": "Incorrecto. Si el agua arrastra nutrientes hacia abajo, el suelo desnudo los pierde y no los conserva."
         },
         {
           "letter": "D",
-          "text": "Los pulmones",
+          "text": "El agua de lluvia desaparece por igual en las dos parcelas, sin ningún efecto sobre el suelo",
           "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "feedback": "Incorrecto. El agua de lluvia no desaparece: se infiltra o fluye, y su camino depende de la cubierta del suelo."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "La piel es el órgano más grande, cubriendo y protegiendo todo el cuerpo.",
-      "difficulty": "10",
+      "correct_answer": "A",
+      "explanation": "La cubierta vegetal funciona como filtro: el agua pasa más despacio, penetra en el suelo y se lleva menos partículas, lo que reduce la erosión y la pérdida de nutrientes.",
+      "difficulty": "5",
       "images": [],
       "tags": [],
-      "bloom": "Remember",
-      "expected_success": 0.85,
+      "bloom": "Analyze",
+      "expected_success": 0.7,
       "bundle_id": "SV-CIE-11-2026-W15-biodiversidad-sv-001-MASTERY-bundle",
       "periodo": 15,
       "protocol_version": "5.2",
@@ -819,37 +819,37 @@
     },
     {
       "id": "SV-CIE-11-2026-W15-biodiversidad-sv-001-MASTERY-bundle-v19",
-      "statement": "En un experimento, plantas con luz crecen más que sin luz. ¿Variable independiente?",
-      "context": "Clase de ciencias en Soyapango estudiando biodiversidad sv.",
+      "statement": "¿Qué nivel trófico ocupa ese insecto en la red alimentaria?",
+      "context": "En Santo Tomás un entomólogo encuentra un insecto de dos milímetros que se alimenta de savia y desplaza a otros insectos.",
       "options": [
         {
-          "letter": "C",
-          "text": "La exposición a la luz",
-          "is_correct": true,
-          "feedback": "¡Correcto!"
-        },
-        {
           "letter": "A",
-          "text": "El crecimiento de las plantas",
-          "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "text": "Consumidor primario, porque se alimenta directamente de la savia de las plantas",
+          "is_correct": true,
+          "feedback": "Correcto. La savia es material vegetal, así que este insecto es herbívoro y por tanto consumidor primario."
         },
         {
           "letter": "B",
-          "text": "La temperatura ambiente",
+          "text": "Productor, porque fabrica su propio alimento con luz solar",
           "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "feedback": "Incorrecto. Los productores son organismos fotosintéticos como las plantas; este insecto no capta luz."
+        },
+        {
+          "letter": "C",
+          "text": "Consumidor secundario, porque come otros insectos y no plantas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Aunque desplace a otros insectos, su alimento real es la savia de las plantas y no otros animales."
         },
         {
           "letter": "D",
-          "text": "El tipo de planta",
+          "text": "Descomponedor, porque transforma restos orgánicos en sales minerales",
           "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "feedback": "Incorrecto. Los descomponedores actúan sobre restos muertos; este insecto se alimenta de un líquido vivo de la planta."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "La variable independiente es la que manipula el investigador: la luz.",
-      "difficulty": "10",
+      "correct_answer": "A",
+      "explanation": "El nivel trófico se define por el origen del alimento: quien se alimenta del productor es consumidor primario, aunque también pueda desplazar a otros organismos.",
+      "difficulty": "5",
       "images": [],
       "tags": [],
       "bloom": "Analyze",
@@ -864,41 +864,41 @@
     },
     {
       "id": "SV-CIE-11-2026-W15-biodiversidad-sv-001-MASTERY-bundle-v20",
-      "statement": "¿Cuál es la unidad básica de la vida?",
-      "context": "Clase de ciencias en Soyapango estudiando biodiversidad sv.",
+      "statement": "¿Cuál es el argumento más sólido a favor de esa medida?",
+      "context": "Una organización propone declarar un bosque de cuarenta hectáreas como área protegida de uso estricto, sin acceso al público.",
       "options": [
         {
-          "letter": "C",
-          "text": "La célula",
-          "is_correct": true,
-          "feedback": "¡Correcto!"
-        },
-        {
           "letter": "A",
-          "text": "El átomo",
+          "text": "Porque un bosque sin visitantes no produce ningún efecto sobre el clima de la región",
           "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "feedback": "Incorrecto. Un bosque sigue intercambiando gases y agua con su entorno aunque no lo visite nadie."
         },
         {
           "letter": "B",
-          "text": "La molécula",
+          "text": "Porque todas las especies del bosque necesitan vivir aisladas del resto de la biosfera",
           "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "feedback": "Incorrecto. Las especies necesitan intercambios con otras comunidades y no aislamiento del resto de la biosfera."
+        },
+        {
+          "letter": "C",
+          "text": "Porque el acceso humano siempre lleva la biodiversidad a cero en pocos años",
+          "is_correct": false,
+          "feedback": "Incorrecto. El acceso humano bien regulado no lleva la biodiversidad a cero; la medida se justifica por evitar la destrucción."
         },
         {
           "letter": "D",
-          "text": "El tejido",
-          "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "text": "Al restringir el acceso se evitan la tala, la caza y las invasiones que destruyen el hábitat y las poblaciones",
+          "is_correct": true,
+          "feedback": "Correcto. Restringir el acceso protege contra la tala, la caza y las invasiones que degradan el bosque."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "La célula es la unidad estructural y funcional básica de los seres vivos.",
-      "difficulty": "10",
+      "correct_answer": "D",
+      "explanation": "En las áreas de conservación estricta el objetivo es evitar la extracción y la perturbación, permitiendo que las poblaciones se recuperen sin intervención directa.",
+      "difficulty": "6",
       "images": [],
       "tags": [],
-      "bloom": "Remember",
-      "expected_success": 0.85,
+      "bloom": "Evaluate",
+      "expected_success": 0.65,
       "bundle_id": "SV-CIE-11-2026-W15-biodiversidad-sv-001-MASTERY-bundle",
       "periodo": 15,
       "protocol_version": "5.2",
