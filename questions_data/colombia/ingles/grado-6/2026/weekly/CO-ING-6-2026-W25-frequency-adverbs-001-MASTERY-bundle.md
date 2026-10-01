@@ -22,227 +22,207 @@ creador: "Jules-Agent"
 
 **Grade:** 6° | **Periodo:** 3 | **Semana:** W25 | **Year:** 2026 | **CEFR:** A2
 
----
+## Question 1 [D3]
 
-## Question 1 [D3-D4]
-
-**ID:** `CO-ING-6-2026-W25-frequency-adverbs-001-v1`
+**ID:** CO-ING-6-2026-W25-frequency-adverbs-001-v1
 **Bloom:** Remember
-**ICFES:** Reading Comprehension
-**Expected_Success:** 0.75
-**Contexto:** Scenario about frequency-adverbs in a Colombian school or city context.
+**ICFES:** Lexical Knowledge
+**Expected_Success:** 0.82
+**Contexto:** Choosing the adverb that describes an action done every day.
 
 ### Enunciado
-This is a review question about frequency-adverbs.
+Which adverb of frequency means "always, 100 percent of the time"?
 
 ### Opciones
-- [ ] A) Option C <!-- feedback: Incorrect. The key for this frequency adverbs review selects "Option A", so "Option C" is a distractor label here and not the answer the question is keyed to. -->
-- [ ] B) Option B <!-- feedback: Incorrect. The key for this frequency adverbs review selects "Option A", so "Option B" is a distractor label here and not the answer the question is keyed to. -->
-- [ ] C) Option D <!-- feedback: Incorrect. The key for this frequency adverbs review selects "Option A", so "Option D" is a distractor label here and not the answer the question is keyed to. -->
-- [x] D) Option A (Correct) <!-- feedback: Correct! This is the option the answer key selects for the frequency adverbs review. The labels in this question are placeholders rather than frequency adverbs items, so the keyed choice is what is being tested here. -->
+- [ ] A) usually <!-- feedback: Usually marks a high frequency but not a certainty, since it leaves room for exceptions. -->
+- [x] B) always <!-- feedback: Always is the strongest of the frequency adverbs and marks an action that happens every single time. -->
+- [ ] C) sometimes <!-- feedback: Sometimes marks an occasional action, which is much lower on the scale than always. -->
+- [ ] D) never <!-- feedback: Never marks the complete opposite, an action that does not happen at all rather than one that always happens. -->
 
 ### Explicación Pedagógica
-This question evaluates the student's ability to remember the topic of Adverbs of Frequency at an A2 level. It focuses on Colombian contexts and standard A2 grammar.
+The correct answer is "always". Frequency adverbs form an ordered scale from never through always, and students learn them far better as a scale than as a list of unrelated words. Being able to say where a word sits on the scale is what lets a student choose between often and frequently in a sentence of their own.
 
----
+## Question 2 [D3]
 
-## Question 2 [D3-D4]
-
-**ID:** `CO-ING-6-2026-W25-frequency-adverbs-002-v1`
+**ID:** CO-ING-6-2026-W25-frequency-adverbs-002-v1
 **Bloom:** Remember
-**ICFES:** Reading Comprehension
-**Expected_Success:** 0.75
-**Contexto:** Scenario about frequency-adverbs in a Colombian school or city context.
+**ICFES:** Grammatical Knowledge
+**Expected_Success:** 0.80
+**Contexto:** Placing a frequency adverb in a sentence with the verb to be.
 
 ### Enunciado
-Select the correct A2 level use for frequency-adverbs.
+Where does the frequency adverb go? "She is always late for class." Which sentence places it correctly?
 
 ### Opciones
-- [x] D) Structure 1 (Correct) <!-- feedback: Correct! "Structure 1" is the structure the key selects as the correct A2 level use of frequency adverbs; the labels are placeholders, so the keyed structure is the only thing this question actually decides. -->
-- [ ] A) Structure 3 <!-- feedback: Incorrect. The key selects "Structure 1" as the correct A2 level use of frequency adverbs, so "Structure 3" is one of the three structures the question keeps as a distractor. -->
-- [ ] B) Structure 4 <!-- feedback: Incorrect. The key selects "Structure 1" as the correct A2 level use of frequency adverbs, so "Structure 4" is one of the three structures the question keeps as a distractor. -->
-- [ ] C) Structure 2 <!-- feedback: Incorrect. The key selects "Structure 1" as the correct A2 level use of frequency adverbs, so "Structure 2" is one of the three structures the question keeps as a distractor. -->
+- [ ] A) Always she is late for class. <!-- feedback: An adverb cannot open the sentence in front of the subject in this pattern, so the word order is wrong. -->
+- [ ] B) She always is late for class. <!-- feedback: With to be the adverb belongs after the verb, and putting it first makes the sentence sound unnatural. -->
+- [ ] C) She is late always for class. <!-- feedback: Placing the adverb after the main noun breaks the pattern, which requires it directly after the verb to be. -->
+- [x] D) She is always late for class. <!-- feedback: With the verb to be the frequency adverb goes between the verb and the rest of the sentence. -->
 
 ### Explicación Pedagógica
-This question evaluates the student's ability to remember the topic of Adverbs of Frequency at an A2 level. It focuses on Colombian contexts and standard A2 grammar.
+The correct answer is "She is always late for class". Position is the whole difficulty of frequency adverbs, because with an ordinary verb they go before the verb and with to be they go after it, and Spanish has no equivalent rule. Fixing the position in the most common frame first, to be, is what makes the harder main-verb cases learnable later in the week.
 
----
+## Question 3 [D3-D4]
 
-## Question 3 [D5-D6]
-
-**ID:** `CO-ING-6-2026-W25-frequency-adverbs-003-v1`
+**ID:** CO-ING-6-2026-W25-frequency-adverbs-003-v1
 **Bloom:** Understand
 **ICFES:** Reading Comprehension
-**Expected_Success:** 0.75
-**Contexto:** Scenario about frequency-adverbs in a Colombian school or city context.
+**Expected_Success:** 0.78
+**Contexto:** Reading a short text about a student's habits.
 
 ### Enunciado
-Identify the appropriate vocabulary for frequency-adverbs.
+Read: "Laura plays football twice a week. She never watches television on school days." What is true about Laura?
 
 ### Opciones
-- [ ] A) Word 2 <!-- feedback: Incorrect. The key selects "Word 1" as the frequency adverbs vocabulary, so "Word 2" is a placeholder label kept here as a distractor word. -->
-- [ ] C) Word 3 <!-- feedback: Incorrect. The key selects "Word 1" as the frequency adverbs vocabulary, so "Word 3" is a placeholder label kept here as a distractor word. -->
-- [ ] D) Word 4 <!-- feedback: Incorrect. The key selects "Word 1" as the frequency adverbs vocabulary, so "Word 4" is a placeholder label kept here as a distractor word. -->
-- [x] B) Word 1 (Correct) <!-- feedback: Correct! "Word 1" is the word the key selects as belonging to frequency adverbs; the labels are placeholders, so the keyed word is what the question is keyed to. -->
+- [x] A) She does not watch television on school days. <!-- feedback: The text states directly that she never watches television on school days, and never includes never. -->
+- [ ] B) She plays football every day. <!-- feedback: Twice a week is two times in seven days, which is not the same as every day. -->
+- [ ] C) She watches television every day. <!-- feedback: The text says she never watches it on school days, which is the opposite of every day. -->
+- [ ] D) She does not play any sport. <!-- feedback: The text says she plays football, and football is a sport, so this contradicts the text. -->
 
 ### Explicación Pedagógica
-This question evaluates the student's ability to understand the topic of Adverbs of Frequency at an A2 level. It focuses on Colombian contexts and standard A2 grammar.
+The correct answer is "She does not watch television on school days". The two frequency expressions in the text work differently, since twice a week is a counted frequency and never is an absolute one, and the item asks the student to interpret each of them correctly. Students who read only the numbers miss the absolute statement, which is the part that carries the meaning here.
 
----
+## Question 4 [D4]
 
-## Question 4 [D5-D6]
-
-**ID:** `CO-ING-6-2026-W25-frequency-adverbs-004-v1`
-**Bloom:** Understand
-**ICFES:** Reading Comprehension
-**Expected_Success:** 0.75
-**Contexto:** Scenario about frequency-adverbs in a Colombian school or city context.
-
-### Enunciado
-Complete the sentence about frequency-adverbs.
-
-### Opciones
-- [x] C) Phrase A (Correct) <!-- feedback: Correct! "Phrase A" is the phrase the key selects for the frequency adverbs sentence; the phrases are placeholders, so the keyed phrase is the only one the key accepts. -->
-- [ ] A) Phrase C <!-- feedback: Incorrect. The key selects "Phrase A" to complete the frequency adverbs sentence, so "Phrase C" is a placeholder phrase the key does not accept. -->
-- [ ] B) Phrase D <!-- feedback: Incorrect. The key selects "Phrase A" to complete the frequency adverbs sentence, so "Phrase D" is a placeholder phrase the key does not accept. -->
-- [ ] D) Phrase B <!-- feedback: Incorrect. The key selects "Phrase A" to complete the frequency adverbs sentence, so "Phrase B" is a placeholder phrase the key does not accept. -->
-
-### Explicación Pedagógica
-This question evaluates the student's ability to understand the topic of Adverbs of Frequency at an A2 level. It focuses on Colombian contexts and standard A2 grammar.
-
----
-
-## Question 5 [D5-D6]
-
-**ID:** `CO-ING-6-2026-W25-frequency-adverbs-005-v1`
+**ID:** CO-ING-6-2026-W25-frequency-adverbs-004-v1
 **Bloom:** Apply
-**ICFES:** Reading Comprehension
-**Expected_Success:** 0.75
-**Contexto:** Scenario about frequency-adverbs in a Colombian school or city context.
+**ICFES:** Grammatical Knowledge
+**Expected_Success:** 0.76
+**Contexto:** Placing a frequency adverb with an ordinary main verb.
 
 ### Enunciado
-What is the best way to express frequency-adverbs?
+Which sentence places the adverb correctly with the verb to eat?
 
 ### Opciones
-- [ ] A) Incorrect way <!-- feedback: Incorrect. The key selects "This way" as the best way to express frequency adverbs, so "Incorrect way" is a placeholder expression the key rejects. -->
-- [ ] B) That way <!-- feedback: Incorrect. The key selects "This way" as the best way to express frequency adverbs, so "That way" is a placeholder expression the key rejects. -->
-- [x] D) This way (Correct) <!-- feedback: Correct! "This way" is the way the key selects as the best expression of frequency adverbs; the labels are placeholders, so the keyed expression is what decides the answer. -->
-- [ ] C) Other way <!-- feedback: Incorrect. The key selects "This way" as the best way to express frequency adverbs, so "Other way" is a placeholder expression the key rejects. -->
+- [ ] A) He usually eat breakfast at home. <!-- feedback: The verb should be eats in the third person singular, so there is an agreement error as well. -->
+- [ ] B) He eats usually breakfast at home. <!-- feedback: Placing the adverb after the verb breaks the pattern for main verbs, which require it before them. -->
+- [x] C) He usually eats breakfast at home. <!-- feedback: With an ordinary main verb the frequency adverb goes before the verb, which is where usually sits here. -->
+- [ ] D) Usually he eats breakfast at home. <!-- feedback: An adverb of frequency does not normally open a sentence in English the way this version does. -->
 
 ### Explicación Pedagógica
-This question evaluates the student's ability to apply the topic of Adverbs of Frequency at an A2 level. It focuses on Colombian contexts and standard A2 grammar.
+The correct answer is "He usually eats breakfast at home". This is the counterpart to the earlier item about to be, and doing both together is what lets the student apply the rule rather than memorise one frame. The adverb before the main verb is the position English requires, and a student who has internalised it for one verb will transfer it to the rest of the week without difficulty.
 
----
+## Question 5 [D4]
 
-## Question 6 [D7-D8]
-
-**ID:** `CO-ING-6-2026-W25-frequency-adverbs-006-v1`
+**ID:** CO-ING-6-2026-W25-frequency-adverbs-005-v1
 **Bloom:** Apply
-**ICFES:** Reading Comprehension
-**Expected_Success:** 0.75
-**Contexto:** Scenario about frequency-adverbs in a Colombian school or city context.
+**ICFES:** Lexical Knowledge
+**Expected_Success:** 0.74
+**Contexto:** Choosing the adverb that fits a described habit.
 
 ### Enunciado
-Find the error in this frequency-adverbs sentence.
+A student reads a book two or three times a week. Which adverb describes this?
 
 ### Opciones
-- [x] A) The error is here (Correct) <!-- feedback: Correct! "The error is here" is the option the key marks as the error to find in the frequency adverbs sentence; the error labels are placeholders, so the keyed label is the answer. -->
-- [ ] B) Different error <!-- feedback: Incorrect. The key marks "The error is here" as the error in the frequency adverbs sentence, so "Different error" is a placeholder label that does not point at the error. -->
-- [ ] C) No error <!-- feedback: Incorrect. The key marks "The error is here" as the error in the frequency adverbs sentence, so "No error" is a placeholder label that does not point at the error. -->
-- [ ] D) Wrong error <!-- feedback: Incorrect. The key marks "The error is here" as the error in the frequency adverbs sentence, so "Wrong error" is a placeholder label that does not point at the error. -->
+- [x] A) sometimes <!-- feedback: Sometimes marks an action that happens now and then, which fits a habit of two or three times a week. -->
+- [ ] B) always <!-- feedback: Always would mean the student reads every single time the opportunity arises, which is more often than this. -->
+- [ ] C) never <!-- feedback: Never would mean the student does not read at all, which is the opposite of what the description says. -->
+- [ ] D) hardly ever <!-- feedback: Hardly ever means almost never, which is far below the two or three times a week described here. -->
 
 ### Explicación Pedagógica
-This question evaluates the student's ability to apply the topic of Adverbs of Frequency at an A2 level. It focuses on Colombian contexts and standard A2 grammar.
+The correct answer is "sometimes". Turning a description of frequency into the right adverb is the productive half of this week's work, and it requires placing a described habit somewhere on the scale rather than looking a word up. The three distractors sit at clearly different points, which makes the item a real judgement rather than a guess.
 
----
+## Question 6 [D4]
 
-## Question 7 [D7-D8]
-
-**ID:** `CO-ING-6-2026-W25-frequency-adverbs-007-v1`
+**ID:** CO-ING-6-2026-W25-frequency-adverbs-006-v1
 **Bloom:** Apply
-**ICFES:** Reading Comprehension
-**Expected_Success:** 0.75
-**Contexto:** Scenario about frequency-adverbs in a Colombian school or city context.
+**ICFES:** Pragmatic Competence
+**Expected_Success:** 0.72
+**Contexto:** Answering a teacher's question about how often something happens.
 
 ### Enunciado
-Match the term with the definition of frequency-adverbs.
+A teacher asks: "How often do you eat vegetables?" Which answer is the most natural?
 
 ### Opciones
-- [x] B) Matching term (Correct) <!-- feedback: Correct! "Matching term" is the term the key pairs with the definition of frequency adverbs; the labels are placeholders, so the keyed pair is what the question decides. -->
-- [ ] A) Opposite <!-- feedback: Incorrect. The key pairs "Matching term" with the definition of frequency adverbs, so "Opposite" is a placeholder label that does not make the keyed match. -->
-- [ ] C) Non-matching <!-- feedback: Incorrect. The key pairs "Matching term" with the definition of frequency adverbs, so "Non-matching" is a placeholder label that does not make the keyed match. -->
-- [ ] D) Irrelevant <!-- feedback: Incorrect. The key pairs "Matching term" with the definition of frequency adverbs, so "Irrelevant" is a placeholder label that does not make the keyed match. -->
+- [ ] A) I never eat vegetables at all. <!-- feedback: Never claims the opposite extreme, and the question deserves an answer that reflects the real habit. -->
+- [ ] B) I am eating vegetables now. <!-- feedback: The present continuous reports what is happening at this moment rather than answering how often it happens. -->
+- [ ] C) Vegetables are for eating. <!-- feedback: This is a general statement about vegetables and gives no information at all about the speaker's own habit. -->
+- [x] D) I usually eat vegetables, but not every day. <!-- feedback: Usually states a high frequency and the second clause marks the exceptions, which is exactly the nuance of the question. -->
 
 ### Explicación Pedagógica
-This question evaluates the student's ability to apply the topic of Adverbs of Frequency at an A2 level. It focuses on Colombian contexts and standard A2 grammar.
+The correct answer is "I usually eat vegetables, but not every day". Answering a how often question needs an adverb of frequency, and a good answer often also marks the exceptions so it is not overstated. Choosing the response that sounds like something a person would actually say, rather than merely a grammatical string, is the communicative judgement this item is really about.
 
----
+## Question 7 [D4-D5]
 
-## Question 8 [D7-D8]
+**ID:** CO-ING-6-2026-W25-frequency-adverbs-007-v1
+**Bloom:** Apply
+**ICFES:** Grammatical Knowledge
+**Expected_Success:** 0.70
+**Contexto:** Using an adverb of frequency in the negative.
 
-**ID:** `CO-ING-6-2026-W25-frequency-adverbs-008-v1`
+### Enunciado
+Which sentence correctly says that a student does not usually arrive late?
+
+### Opciones
+- [ ] A) He usually doesn't arrive late. <!-- feedback: The adverb belongs between the auxiliary and the main verb, and putting it first makes the emphasis wrong here. -->
+- [x] B) He doesn't usually arrive late. <!-- feedback: In the negative the frequency adverb sits between the auxiliary does not and the main verb arrive. -->
+- [ ] C) He doesn't arrive usually late. <!-- feedback: Placing the adverb after the main verb breaks the required word order in the negative. -->
+- [ ] D) He not usually arrives late. <!-- feedback: The negative has to be formed with the auxiliary does not rather than with not placed before the verb. -->
+
+### Explicación Pedagógica
+The correct answer is "He doesn't usually arrive late". The negative brings the auxiliary does in front of the subject, and the frequency adverb has to be positioned between that auxiliary and the main verb. This is a harder position than the affirmative case because the auxiliary adds a second element the student has to account for, and getting it wrong is the most common error at this point in the unit.
+
+## Question 8 [D4-D5]
+
+**ID:** CO-ING-6-2026-W25-frequency-adverbs-008-v1
 **Bloom:** Analyze
 **ICFES:** Reading Comprehension
-**Expected_Success:** 0.75
-**Contexto:** Scenario about frequency-adverbs in a Colombian school or city context.
+**Expected_Success:** 0.68
+**Contexto:** Comparing the frequency claims in two short sentences.
 
 ### Enunciado
-Choose the synonym for a word related to frequency-adverbs.
+Read: "A: I go to the gym every morning. B: I go to the gym twice a week." What can you say about the two?
 
 ### Opciones
-- [x] B) Synonym (Correct) <!-- feedback: Correct! "Synonym" is the relation the key holds to the frequency adverbs word; the labels are placeholders, so the keyed relation is what the question decides. -->
-- [ ] A) Unrelated <!-- feedback: Incorrect. The key holds "Synonym" to the frequency adverbs word, so "Unrelated" is a placeholder label that does not state the keyed relation. -->
-- [ ] C) Homonym <!-- feedback: Incorrect. The key holds "Synonym" to the frequency adverbs word, so "Homonym" is a placeholder label that does not state the keyed relation. -->
-- [ ] D) Antonym <!-- feedback: Incorrect. The key holds "Synonym" to the frequency adverbs word, so "Antonym" is a placeholder label that does not state the keyed relation. -->
+- [x] A) A goes more often than B. <!-- feedback: Every morning means every day, which is more often than the twice a week that B reports. -->
+- [ ] B) They go to the gym the same number of times. <!-- feedback: Every morning is seven times a week while twice a week is two, so the frequencies are not the same. -->
+- [ ] C) B goes more often than A. <!-- feedback: This reverses the comparison, since seven times a week is clearly more than twice a week. -->
+- [ ] D) Both go to the gym once a day. <!-- feedback: Only A describes a daily habit, and B describes two visits across the whole week. -->
 
 ### Explicación Pedagógica
-This question evaluates the student's ability to analyze the topic of Adverbs of Frequency at an A2 level. It focuses on Colombian contexts and standard A2 grammar.
+The correct answer is "A goes more often than B". The item requires converting both expressions into the same scale before comparing them, since every morning and twice a week are not the same kind of quantity. A student who compares the words rather than the frequencies will get this wrong, and that habit of normalising before comparing is what transfers to the data questions in the exam.
 
----
+## Question 9 [D5]
 
-## Question 9 [D9-D10]
-
-**ID:** `CO-ING-6-2026-W25-frequency-adverbs-009-v1`
+**ID:** CO-ING-6-2026-W25-frequency-adverbs-009-v1
 **Bloom:** Analyze
-**ICFES:** Reading Comprehension
-**Expected_Success:** 0.75
-**Contexto:** Scenario about frequency-adverbs in a Colombian school or city context.
+**ICFES:** Grammatical Knowledge
+**Expected_Success:** 0.65
+**Contexto:** Finding the error in a sentence about a habit.
 
 ### Enunciado
-Which of these belongs to frequency-adverbs?
+A student writes: "She goes to school always by bus." What is the problem?
 
 ### Opciones
-- [ ] A) Neither <!-- feedback: Incorrect. The key places "This one" in frequency adverbs, so "Neither" is a placeholder label that does not belong to the topic. -->
-- [ ] B) Not this one <!-- feedback: Incorrect. The key places "This one" in frequency adverbs, so "Not this one" is a placeholder label that does not belong to the topic. -->
-- [x] D) This one (Correct) <!-- feedback: Correct! "This one" is the option the key places in frequency adverbs; the labels are placeholders, so the keyed one is what belongs here. -->
-- [ ] C) Both <!-- feedback: Incorrect. The key places "This one" in frequency adverbs, so "Both" is a placeholder label that does not belong to the topic. -->
+- [ ] A) The verb is in the wrong tense. <!-- feedback: The present simple goes is correct for a regular habit, and the error is not one of tense. -->
+- [ ] B) By bus should replace by the bus. <!-- feedback: Bus used as a means of transport takes no article, so by bus is already correct. -->
+- [ ] C) The article is missing before school. <!-- feedback: School used in this general sense of a building does not take an article, so nothing is missing. -->
+- [x] D) The frequency adverb is in the wrong position. <!-- feedback: With a main verb the frequency adverb goes before the verb, so always belongs between she and goes. -->
 
 ### Explicación Pedagógica
-This question evaluates the student's ability to analyze the topic of Adverbs of Frequency at an A2 level. It focuses on Colombian contexts and standard A2 grammar.
+The correct answer is "The frequency adverb is in the wrong position". The sentence is otherwise entirely correct, including the tense and the preposition, which makes this a clean test of the one rule the week is about. Distinguishing an actual fault from two things that merely look unusual is the checking habit that lets a student trust or distrust their own writing.
 
----
+## Question 10 [D5]
 
-## Question 10 [D9-D10]
-
-**ID:** `CO-ING-6-2026-W25-frequency-adverbs-010-v1`
+**ID:** CO-ING-6-2026-W25-frequency-adverbs-010-v1
 **Bloom:** Evaluate
-**ICFES:** Reading Comprehension
-**Expected_Success:** 0.75
-**Contexto:** Scenario about frequency-adverbs in a Colombian school or city context.
+**ICFES:** Pragmatic Competence
+**Expected_Success:** 0.62
+**Contexto:** Choosing the most accurate description of a habit from a school survey.
 
 ### Enunciado
-Predict the next word in the frequency-adverbs context.
+A survey says: "3 of 30 students never do homework." Which statement describes this correctly?
 
 ### Opciones
-- [x] B) Correct prediction <!-- feedback: Correct! "Correct prediction" is the prediction the key accepts for the frequency adverbs context; the labels are placeholders, so the keyed prediction is the answer. -->
-- [ ] A) Wrong prediction <!-- feedback: Incorrect. The key accepts "Correct prediction" as the prediction for the frequency adverbs context, so "Wrong prediction" is a placeholder label the key does not accept. -->
-- [ ] C) Maybe <!-- feedback: Incorrect. The key accepts "Correct prediction" as the prediction for the frequency adverbs context, so "Maybe" is a placeholder label the key does not accept. -->
-- [ ] D) Impossible <!-- feedback: Incorrect. The key accepts "Correct prediction" as the prediction for the frequency adverbs context, so "Impossible" is a placeholder label the key does not accept. -->
+- [ ] A) Most students never do homework. <!-- feedback: Only 3 of the 30 students are in that group, so the majority does the opposite. -->
+- [ ] B) All students do homework. <!-- feedback: The 3 students who never do it mean the opposite, so this overstates the case. -->
+- [x] C) A few students never do homework. <!-- feedback: Three students out of thirty is a small number, so a few is the accurate description of that group. -->
+- [ ] D) The survey does not give any information. <!-- feedback: The figures are explicit, and they support a definite conclusion about how common the behaviour is. -->
 
 ### Explicación Pedagógica
-This question evaluates the student's ability to evaluate the topic of Adverbs of Frequency at an A2 level. It focuses on Colombian contexts and standard A2 grammar.
+The correct answer is "A few students never do homework". Turning a frequency adverb into a claim about how common something is requires looking at the numbers rather than repeating the word, and never describes the group, not its size. Converting an adverb into a judgement about quantity is the reasoning behind many data questions in the exam, so it is worth practising here in its simplest form.
 
 ---
 
 ### Explicación Pedagógica Final
-This bundle covers Adverbs of Frequency for Grade 6 (CEFR A2). It follows the Colombian DBA for 2026 and ensures students reach the elementary English level required for this grade.
+This bundle covers Adverbs of Frequency for Grade 6 (CEFR A2). It follows the Colombian DBA for 2026 and ensures students reach the A2 level required for this grade.
