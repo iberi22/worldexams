@@ -9,36 +9,36 @@
   "questions": [
     {
       "id": "SV-ING-11-2026-W18-prepositions-time-001-MASTERY-bundle-v1",
-      "statement": "Choose the correct option: 'I ___ reading a book right now.'",
+      "statement": "Complete the schedule entry: 'The English exam starts ___ 9:00 ___ Thursday morning.'",
       "context": "English class in Soyapango, SV.",
       "options": [
         {
-          "letter": "B",
-          "text": "am",
-          "is_correct": true,
-          "feedback": "'I' always takes the verb 'am' in the present continuous, so the sentence needs 'am reading'."
+          "letter": "A",
+          "text": "on / at",
+          "is_correct": false,
+          "feedback": "That pair swaps the two functions: 'on' goes with days and 'at' belongs with clock times, so it reverses the correct order."
         },
         {
-          "letter": "A",
-          "text": "is",
-          "is_correct": false,
-          "feedback": "'is' goes with a third-person singular subject such as 'he' or 'she'; the subject here is 'I'."
+          "letter": "B",
+          "text": "at / on",
+          "is_correct": true,
+          "feedback": "Use 'at' with a precise clock time and 'on' with a named day, so the exam starts at 9:00 on Thursday."
         },
         {
           "letter": "C",
-          "text": "are",
+          "text": "in / on",
           "is_correct": false,
-          "feedback": "'are' is used with 'you', 'we' and 'they', never with the singular 'I'."
+          "feedback": "'In' introduces longer periods such as months and years, so it cannot mark the exact hour 9:00."
         },
         {
           "letter": "D",
-          "text": "be",
+          "text": "at / in",
           "is_correct": false,
-          "feedback": "After the pronoun 'I' the verb is already conjugated, so the bare infinitive 'be' does not fit."
+          "feedback": "'At' fits the hour, but a named day such as Thursday needs 'on' rather than 'in'."
         }
       ],
       "correct_answer": "B",
-      "explanation": "Present continuous: I am + verb-ing.",
+      "explanation": "English pairs 'at' with clock times and 'on' with named days, so a schedule entry reads at 9:00 on Thursday morning and neither slot takes the other preposition.",
       "difficulty": "4",
       "images": [],
       "tags": [],
@@ -54,36 +54,36 @@
     },
     {
       "id": "SV-ING-11-2026-W18-prepositions-time-001-MASTERY-bundle-v2",
-      "statement": "What does 'benevolent' mean?",
+      "statement": "Ana joined the school photography club in 2021 and is still a member today. Which preposition marks that starting point?",
       "context": "English class in San Salvador, SV.",
       "options": [
         {
-          "letter": "B",
-          "text": "Kind and generous",
-          "is_correct": true,
-          "feedback": "'Benevolent' describes a person who is kind and ready to give help to others."
+          "letter": "A",
+          "text": "for",
+          "is_correct": false,
+          "feedback": "'For' introduces a length of time, such as five years, and not the year in which an activity began."
         },
         {
-          "letter": "A",
-          "text": "Mean and cruel",
-          "is_correct": false,
-          "feedback": "That is the opposite of benevolent, whose root means well-wishing."
+          "letter": "B",
+          "text": "since",
+          "is_correct": true,
+          "feedback": "'Since' links a past starting point with a situation that is still true in the present, which is exactly Ana's case."
         },
         {
           "letter": "C",
-          "text": "Quick and fast",
+          "text": "during",
           "is_correct": false,
-          "feedback": "Those describe speed; benevolent refers to character and generosity."
+          "feedback": "'During 2021' places the membership inside that year without saying anything about the present."
         },
         {
           "letter": "D",
-          "text": "Slow and lazy",
+          "text": "until",
           "is_correct": false,
-          "feedback": "Those describe laziness, the opposite of a generous attitude towards others."
+          "feedback": "'Until' marks an endpoint in time, the opposite role from the beginning the sentence describes."
         }
       ],
       "correct_answer": "B",
-      "explanation": "'Benevolent' means kind, generous, or charitable.",
+      "explanation": "'Since' introduces the point where an action began when that action reaches into the present, usually with the present perfect, as in 'she has been a member since 2021'.",
       "difficulty": "4",
       "images": [],
       "tags": [],
@@ -99,36 +99,36 @@
     },
     {
       "id": "SV-ING-11-2026-W18-prepositions-time-001-MASTERY-bundle-v3",
-      "statement": "Identify the main idea: 'The text describes how bees help pollinate flowers and produce honey.'",
+      "statement": "A student writes: 'I have lived in this city in 2019.' Which correction does the sentence need?",
       "context": "English class in San Miguel, SV.",
       "options": [
         {
-          "letter": "C",
-          "text": "Bees are important for pollination and honey",
-          "is_correct": true,
-          "feedback": "The text names exactly two things bees do: pollinating flowers and making honey."
-        },
-        {
           "letter": "A",
-          "text": "Bees are dangerous insects",
+          "text": "until",
           "is_correct": false,
-          "feedback": "Nothing in the text says bees are dangerous; it describes useful work they do."
+          "feedback": "'Until 2019' would mark an endpoint, but the student is still living in the city now."
         },
         {
           "letter": "B",
-          "text": "Honey is the only product bees make",
+          "text": "during",
           "is_correct": false,
-          "feedback": "The text gives pollination as another thing bees do, so honey is not the only product."
+          "feedback": "'During 2019' confines the action to that year and says nothing about the present."
+        },
+        {
+          "letter": "C",
+          "text": "since",
+          "is_correct": true,
+          "feedback": "'Since 2019' states the starting point of a situation that continues to the present, which fits an ongoing residence."
         },
         {
           "letter": "D",
-          "text": "Flowers don't need bees",
+          "text": "for",
           "is_correct": false,
-          "feedback": "The text says bees help pollinate flowers, so flowers do rely on them."
+          "feedback": "'For 2019' would need a duration, and a single year that opens an ongoing action is expressed with 'since'."
         }
       ],
       "correct_answer": "C",
-      "explanation": "The main idea summarizes the key points about bees: pollination and honey.",
+      "explanation": "With the present perfect the starting point of an ongoing situation takes 'since'; 'in 2019' would place the whole life inside a closed year.",
       "difficulty": "4",
       "images": [],
       "tags": [],
@@ -144,36 +144,36 @@
     },
     {
       "id": "SV-ING-11-2026-W18-prepositions-time-001-MASTERY-bundle-v4",
-      "statement": "Which is the correct past form of 'go'?",
+      "statement": "Which phrase places an event correctly inside a calendar year?",
       "context": "English class in San Miguel, SV.",
       "options": [
         {
-          "letter": "C",
-          "text": "went",
-          "is_correct": true,
-          "feedback": "'Went' is the irregular past simple of 'go'."
-        },
-        {
           "letter": "A",
-          "text": "goed",
+          "text": "on 2024",
           "is_correct": false,
-          "feedback": "English does not add -ed to spell the past of 'go'; the past form is irregular."
+          "feedback": "'On' goes with days and dates, and not with a year taken as a whole period of time."
         },
         {
           "letter": "B",
-          "text": "gone",
+          "text": "at 2024",
           "is_correct": false,
-          "feedback": "'Gone' is the past participle used after 'have', not the past simple."
+          "feedback": "'At' is reserved for precise clock times, and a year is a span rather than an instant of the day."
+        },
+        {
+          "letter": "C",
+          "text": "in 2024",
+          "is_correct": true,
+          "feedback": "Years and months are introduced by 'in', so 'in 2024' is the correct frame for an event inside that year."
         },
         {
           "letter": "D",
-          "text": "going",
+          "text": "for 2024",
           "is_correct": false,
-          "feedback": "'Going' is the -ing form, used with 'is' or 'are', not the past simple."
+          "feedback": "'For' expresses a duration the speaker measures, and not the calendar slot where an event sits."
         }
       ],
       "correct_answer": "C",
-      "explanation": "'Go' is an irregular verb: go → went (past simple).",
+      "explanation": "English uses 'in' for months and years, 'on' for days and dates, and 'at' for clock times, so an event placed inside a year takes 'in'.",
       "difficulty": "4",
       "images": [],
       "tags": [],
@@ -189,36 +189,36 @@
     },
     {
       "id": "SV-ING-11-2026-W18-prepositions-time-001-MASTERY-bundle-v5",
-      "statement": "Which sentence uses the present simple correctly?",
+      "statement": "We waited ___ the bus for forty minutes. Which preposition completes the sentence?",
       "context": "English class in San Miguel, SV.",
       "options": [
         {
           "letter": "A",
-          "text": "She goes to school every day.",
+          "text": "for",
           "is_correct": true,
-          "feedback": "The third person singular of 'go' takes -s, and 'every day' asks for the present simple."
+          "feedback": "'For' expresses the duration of a period, and forty minutes is a length of time rather than a point."
         },
         {
           "letter": "B",
-          "text": "She go to school every day.",
+          "text": "since",
           "is_correct": false,
-          "feedback": "After 'she' the verb needs the -s form; writing 'go' is the classic subject-verb agreement error."
+          "feedback": "'Since' would mark the moment the waiting began, and the sentence measures how long the wait lasted."
         },
         {
           "letter": "C",
-          "text": "She going to school every day.",
+          "text": "during",
           "is_correct": false,
-          "feedback": "That is the -ing form, which needs 'is' or 'are' before it; the sentence shown is missing that auxiliary."
+          "feedback": "'During' needs the name of a period or event, such as 'during the delay' or 'during the storm'."
         },
         {
           "letter": "D",
-          "text": "She gone to school every day.",
+          "text": "at",
           "is_correct": false,
-          "feedback": "'Gone' is a participle and needs 'has' or 'have'; it cannot stand alone after the subject."
+          "feedback": "'At' introduces a point in time, so it would fit 'at six o'clock' and not a span of forty minutes."
         }
       ],
       "correct_answer": "A",
-      "explanation": "Present simple: subject + verb(-s for he/she/it).",
+      "explanation": "'For' reports how long something lasts, so a wait of forty minutes takes 'for' rather than a point such as 'at' or a named period such as 'during'.",
       "difficulty": "6",
       "images": [],
       "tags": [],
@@ -234,36 +234,36 @@
     },
     {
       "id": "SV-ING-11-2026-W18-prepositions-time-001-MASTERY-bundle-v6",
-      "statement": "Choose the correct option: 'I ___ reading a book right now.'",
+      "statement": "The workshop ends at 4 p.m. Complete the sentence: 'It finishes ___ 4 p.m. ___ the main hall.'",
       "context": "English class in San Salvador, SV.",
       "options": [
         {
-          "letter": "C",
-          "text": "am",
-          "is_correct": true,
-          "feedback": "'I' always takes the verb 'am' in the present continuous, so the sentence needs 'am reading'."
-        },
-        {
           "letter": "A",
-          "text": "is",
+          "text": "in / at",
           "is_correct": false,
-          "feedback": "'is' goes with a third-person singular subject such as 'he' or 'she'; the subject here is 'I'."
+          "feedback": "The pair is reversed: the clock time takes 'at' and the enclosed place takes 'in'."
         },
         {
           "letter": "B",
-          "text": "are",
+          "text": "on / at",
           "is_correct": false,
-          "feedback": "'are' is used with 'you', 'we' and 'they', never with the singular 'I'."
+          "feedback": "'On' would go with a surface such as 'on the stage', and 'at' cannot introduce the main hall."
+        },
+        {
+          "letter": "C",
+          "text": "at / in",
+          "is_correct": true,
+          "feedback": "'At' fits the hour, and an enclosed room or building is introduced by 'in', so this pair works."
         },
         {
           "letter": "D",
-          "text": "be",
+          "text": "by / in",
           "is_correct": false,
-          "feedback": "After the pronoun 'I' the verb is already conjugated, so the bare infinitive 'be' does not fit."
+          "feedback": "'By' marks a deadline rather than the moment an event takes place, so it does not fit the schedule."
         }
       ],
       "correct_answer": "C",
-      "explanation": "Present continuous: I am + verb-ing.",
+      "explanation": "Clock times take 'at' and enclosed places take 'in', which is why the workshop finishes at 4 p.m. in the main hall instead of on it or by it.",
       "difficulty": "6",
       "images": [],
       "tags": [],
@@ -279,36 +279,36 @@
     },
     {
       "id": "SV-ING-11-2026-W18-prepositions-time-001-MASTERY-bundle-v7",
-      "statement": "What does 'benevolent' mean?",
+      "statement": "The train leaves ___ 6:15 ___ platform three. Which pair of prepositions is correct?",
       "context": "English class in San Miguel, SV.",
       "options": [
         {
-          "letter": "C",
-          "text": "Kind and generous",
-          "is_correct": true,
-          "feedback": "'Benevolent' describes a person who is kind and ready to give help to others."
-        },
-        {
           "letter": "A",
-          "text": "Mean and cruel",
+          "text": "on / at",
           "is_correct": false,
-          "feedback": "That is the opposite of benevolent, whose root means well-wishing."
+          "feedback": "That reverses both roles: the hour is not introduced by 'on' and the platform is not introduced by 'at'."
         },
         {
           "letter": "B",
-          "text": "Quick and fast",
+          "text": "for / on",
           "is_correct": false,
-          "feedback": "Those describe speed; benevolent refers to character and generosity."
+          "feedback": "'For' measures a length of time, and 6:15 is a point in the day rather than a duration."
+        },
+        {
+          "letter": "C",
+          "text": "at / on",
+          "is_correct": true,
+          "feedback": "A departure hour takes 'at' and a numbered platform behaves like a surface, so 'on' is the right preposition."
         },
         {
           "letter": "D",
-          "text": "Slow and lazy",
+          "text": "in / in",
           "is_correct": false,
-          "feedback": "Those describe laziness, the opposite of a generous attitude towards others."
+          "feedback": "'In' introduces longer periods and enclosed spaces, so it fits neither a precise hour nor a platform."
         }
       ],
       "correct_answer": "C",
-      "explanation": "'Benevolent' means kind, generous, or charitable.",
+      "explanation": "Precise hours take 'at' and platforms behave like surfaces that take 'on', which is why the train leaves at 6:15 on platform three.",
       "difficulty": "6",
       "images": [],
       "tags": [],
@@ -324,36 +324,36 @@
     },
     {
       "id": "SV-ING-11-2026-W18-prepositions-time-001-MASTERY-bundle-v8",
-      "statement": "Identify the main idea: 'The text describes how bees help pollinate flowers and produce honey.'",
+      "statement": "Which sentence places the sports day correctly in time?",
       "context": "English class in Soyapango, SV.",
       "options": [
         {
-          "letter": "D",
-          "text": "Bees are important for pollination and honey",
-          "is_correct": true,
-          "feedback": "The text names exactly two things bees do: pollinating flowers and making honey."
-        },
-        {
           "letter": "A",
-          "text": "Bees are dangerous insects",
+          "text": "The sports day is on next Friday.",
           "is_correct": false,
-          "feedback": "Nothing in the text says bees are dangerous; it describes useful work they do."
+          "feedback": "Time expressions built with 'next' normally stand without a preposition, so 'on' is extra here."
         },
         {
           "letter": "B",
-          "text": "Honey is the only product bees make",
+          "text": "The sports day is in next Friday.",
           "is_correct": false,
-          "feedback": "The text gives pollination as another thing bees do, so honey is not the only product."
+          "feedback": "'In' introduces months and years, and it cannot go with a day such as Friday."
         },
         {
           "letter": "C",
-          "text": "Flowers don't need bees",
+          "text": "The sports day is at next Friday.",
           "is_correct": false,
-          "feedback": "The text says bees help pollinate flowers, so flowers do rely on them."
+          "feedback": "'At' belongs with clock times, not with a named weekday such as Friday."
+        },
+        {
+          "letter": "D",
+          "text": "The sports day is next Friday.",
+          "is_correct": true,
+          "feedback": "Time expressions such as 'next Friday' normally appear with no time preposition at all."
         }
       ],
       "correct_answer": "D",
-      "explanation": "The main idea summarizes the key points about bees: pollination and honey.",
+      "explanation": "Expressions such as 'next Friday', 'last month' and 'every day' normally appear without a preposition, so adding 'on', 'in' or 'at' is a common error.",
       "difficulty": "6",
       "images": [],
       "tags": [],
@@ -369,36 +369,36 @@
     },
     {
       "id": "SV-ING-11-2026-W18-prepositions-time-001-MASTERY-bundle-v9",
-      "statement": "Which is the correct past form of 'go'?",
+      "statement": "A shop opens ___ 8 a.m. ___ weekdays. Which pair of prepositions is correct?",
       "context": "English class in San Miguel, SV.",
       "options": [
         {
           "letter": "A",
-          "text": "went",
-          "is_correct": true,
-          "feedback": "'Went' is the irregular past simple of 'go'."
+          "text": "at / in",
+          "is_correct": false,
+          "feedback": "'At' marks a single instant, and 'in' takes months, so neither slot fits here."
         },
         {
           "letter": "B",
-          "text": "goed",
+          "text": "for / on",
           "is_correct": false,
-          "feedback": "English does not add -ed to spell the past of 'go'; the past form is irregular."
+          "feedback": "'For' would need a measured duration, and 'on' cannot introduce a plural such as 'weekdays'."
         },
         {
           "letter": "C",
-          "text": "gone",
+          "text": "in / at",
           "is_correct": false,
-          "feedback": "'Gone' is the past participle used after 'have', not the past simple."
+          "feedback": "'In' introduces a month or a year, and 'at' cannot introduce the plural 'weekdays'."
         },
         {
           "letter": "D",
-          "text": "going",
-          "is_correct": false,
-          "feedback": "'Going' is the -ing form, used with 'is' or 'are', not the past simple."
+          "text": "at / on",
+          "is_correct": true,
+          "feedback": "A repeated daily time takes 'at' and 'weekdays' behaves as a named day, so 'on' is right."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "'Go' is an irregular verb: go → went (past simple).",
+      "correct_answer": "D",
+      "explanation": "A daily opening hour takes 'at', and 'weekdays' functions as a named day, so the shop opens at 8 a.m. on weekdays rather than in or for them.",
       "difficulty": "6",
       "images": [],
       "tags": [],
@@ -414,36 +414,36 @@
     },
     {
       "id": "SV-ING-11-2026-W18-prepositions-time-001-MASTERY-bundle-v10",
-      "statement": "Which sentence uses the present simple correctly?",
+      "statement": "The notice says: 'The library is open ___ 8 a.m. ___ Saturdays only.' Which preposition pair fits?",
       "context": "English class in Mejicanos, SV.",
       "options": [
         {
-          "letter": "B",
-          "text": "She goes to school every day.",
-          "is_correct": true,
-          "feedback": "The third person singular of 'go' takes -s, and 'every day' asks for the present simple."
+          "letter": "A",
+          "text": "at / in",
+          "is_correct": false,
+          "feedback": "'At' marks a single instant and 'in' takes months, so neither slot fits an opening hour and a weekday."
         },
         {
-          "letter": "A",
-          "text": "She go to school every day.",
-          "is_correct": false,
-          "feedback": "After 'she' the verb needs the -s form; writing 'go' is the classic subject-verb agreement error."
+          "letter": "B",
+          "text": "from / on",
+          "is_correct": true,
+          "feedback": "'From' opens an interval of time and 'on' introduces a named day, which is exactly what the notice states."
         },
         {
           "letter": "C",
-          "text": "She going to school every day.",
+          "text": "for / in",
           "is_correct": false,
-          "feedback": "That is the -ing form, which needs 'is' or 'are' before it; the sentence shown is missing that auxiliary."
+          "feedback": "'For' would need a duration and 'in' belongs with a month, so the pair fails on both counts."
         },
         {
           "letter": "D",
-          "text": "She gone to school every day.",
+          "text": "since / at",
           "is_correct": false,
-          "feedback": "'Gone' is a participle and needs 'has' or 'have'; it cannot stand alone after the subject."
+          "feedback": "'Since' marks a starting point in an ongoing situation and 'at' cannot introduce a named day."
         }
       ],
       "correct_answer": "B",
-      "explanation": "Present simple: subject + verb(-s for he/she/it).",
+      "explanation": "'From' introduces the beginning of a time interval and 'on' introduces named days, so the notice reads from 8 a.m. on Saturdays only.",
       "difficulty": "6",
       "images": [],
       "tags": [],
@@ -459,36 +459,36 @@
     },
     {
       "id": "SV-ING-11-2026-W18-prepositions-time-001-MASTERY-bundle-v11",
-      "statement": "Choose the correct option: 'I ___ reading a book right now.'",
+      "statement": "The report is due ___ Friday evening. Which preposition marks the deadline?",
       "context": "English class in San Salvador, SV.",
       "options": [
         {
-          "letter": "C",
-          "text": "am",
-          "is_correct": true,
-          "feedback": "'I' always takes the verb 'am' in the present continuous, so the sentence needs 'am reading'."
-        },
-        {
           "letter": "A",
-          "text": "is",
+          "text": "until",
           "is_correct": false,
-          "feedback": "'is' goes with a third-person singular subject such as 'he' or 'she'; the subject here is 'I'."
+          "feedback": "'Until' marks the endpoint of a continuing activity, and here the point is when the report must arrive."
         },
         {
           "letter": "B",
-          "text": "are",
+          "text": "since",
           "is_correct": false,
-          "feedback": "'are' is used with 'you', 'we' and 'they', never with the singular 'I'."
+          "feedback": "'Since' links a past starting point to a situation that still holds, which a deadline does not do."
+        },
+        {
+          "letter": "C",
+          "text": "by",
+          "is_correct": true,
+          "feedback": "'By' names the latest moment by which the action must be completed, which is what a due date sets."
         },
         {
           "letter": "D",
-          "text": "be",
+          "text": "for",
           "is_correct": false,
-          "feedback": "After the pronoun 'I' the verb is already conjugated, so the bare infinitive 'be' does not fit."
+          "feedback": "'For' reports a length of time the speaker measures, and Friday evening is a point rather than a length."
         }
       ],
       "correct_answer": "C",
-      "explanation": "Present continuous: I am + verb-ing.",
+      "explanation": "'By' states a deadline, the latest acceptable moment, so a report due Friday evening is submitted by then; 'at' would only locate the submission in time.",
       "difficulty": "8",
       "images": [],
       "tags": [],
@@ -504,36 +504,36 @@
     },
     {
       "id": "SV-ING-11-2026-W18-prepositions-time-001-MASTERY-bundle-v12",
-      "statement": "What does 'benevolent' mean?",
+      "statement": "Which sentence uses 'in' correctly with a period of time?",
       "context": "English class in Mejicanos, SV.",
       "options": [
         {
-          "letter": "D",
-          "text": "Kind and generous",
-          "is_correct": true,
-          "feedback": "'Benevolent' describes a person who is kind and ready to give help to others."
-        },
-        {
           "letter": "A",
-          "text": "Mean and cruel",
+          "text": "The course runs on July.",
           "is_correct": false,
-          "feedback": "That is the opposite of benevolent, whose root means well-wishing."
+          "feedback": "A named month is a period of time, and periods take 'in' rather than 'on'."
         },
         {
           "letter": "B",
-          "text": "Quick and fast",
+          "text": "The course runs at July.",
           "is_correct": false,
-          "feedback": "Those describe speed; benevolent refers to character and generosity."
+          "feedback": "'At' belongs with clock times, and July names a month rather than an instant."
         },
         {
           "letter": "C",
-          "text": "Slow and lazy",
+          "text": "The course runs for July.",
           "is_correct": false,
-          "feedback": "Those describe laziness, the opposite of a generous attitude towards others."
+          "feedback": "'For' measures a length of time, so it would need 'for two weeks' rather than a month."
+        },
+        {
+          "letter": "D",
+          "text": "The course runs in July.",
+          "is_correct": true,
+          "feedback": "Months are introduced by 'in', so this sentence places the course correctly in time."
         }
       ],
       "correct_answer": "D",
-      "explanation": "'Benevolent' means kind, generous, or charitable.",
+      "explanation": "'In' introduces months, years and other closed periods, so a course that runs in July is placed correctly, unlike the same sentence with 'on' or 'at'.",
       "difficulty": "8",
       "images": [],
       "tags": [],
@@ -549,36 +549,36 @@
     },
     {
       "id": "SV-ING-11-2026-W18-prepositions-time-001-MASTERY-bundle-v13",
-      "statement": "Identify the main idea: 'The text describes how bees help pollinate flowers and produce honey.'",
+      "statement": "A shop assistant says: 'This discount ends ___ Sunday, so buy it before then.' Which preposition is correct?",
       "context": "English class in San Miguel, SV.",
       "options": [
         {
-          "letter": "B",
-          "text": "Bees are important for pollination and honey",
+          "letter": "A",
+          "text": "on",
           "is_correct": true,
-          "feedback": "The text names exactly two things bees do: pollinating flowers and making honey."
+          "feedback": "A named day is introduced by 'on', and Sunday is the day on which the discount ends."
         },
         {
-          "letter": "A",
-          "text": "Bees are dangerous insects",
+          "letter": "B",
+          "text": "in",
           "is_correct": false,
-          "feedback": "Nothing in the text says bees are dangerous; it describes useful work they do."
+          "feedback": "'In' introduces months and years, so it cannot go with a single day such as Sunday."
         },
         {
           "letter": "C",
-          "text": "Honey is the only product bees make",
+          "text": "at",
           "is_correct": false,
-          "feedback": "The text gives pollination as another thing bees do, so honey is not the only product."
+          "feedback": "'At' belongs with precise clock times, and Sunday is a calendar day rather than an instant."
         },
         {
           "letter": "D",
-          "text": "Flowers don't need bees",
+          "text": "during",
           "is_correct": false,
-          "feedback": "The text says bees help pollinate flowers, so flowers do rely on them."
+          "feedback": "'During' needs a period or an event, and 'Sunday' names a single day rather than a span."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "The main idea summarizes the key points about bees: pollination and honey.",
+      "correct_answer": "A",
+      "explanation": "Named days take 'on', so an offer that finishes on Sunday is introduced by 'on', while 'in' takes months and 'at' takes clock times.",
       "difficulty": "8",
       "images": [],
       "tags": [],
@@ -594,36 +594,36 @@
     },
     {
       "id": "SV-ING-11-2026-W18-prepositions-time-001-MASTERY-bundle-v14",
-      "statement": "Which is the correct past form of 'go'?",
+      "statement": "Which sentence uses a time preposition correctly?",
       "context": "English class in Santa Ana, SV.",
       "options": [
         {
-          "letter": "B",
-          "text": "went",
-          "is_correct": true,
-          "feedback": "'Went' is the irregular past simple of 'go'."
+          "letter": "A",
+          "text": "The exam is in 10 May.",
+          "is_correct": false,
+          "feedback": "A precise calendar date is introduced by 'on' in standard use, so 'in' is the wrong choice here."
         },
         {
-          "letter": "A",
-          "text": "goed",
-          "is_correct": false,
-          "feedback": "English does not add -ed to spell the past of 'go'; the past form is irregular."
+          "letter": "B",
+          "text": "The exam is on 10 May.",
+          "is_correct": true,
+          "feedback": "A precise calendar date is introduced by 'on', so this sentence places the exam correctly."
         },
         {
           "letter": "C",
-          "text": "gone",
+          "text": "The exam is at 10 May.",
           "is_correct": false,
-          "feedback": "'Gone' is the past participle used after 'have', not the past simple."
+          "feedback": "'At' is reserved for clock times, and a calendar date is not an instant of the day."
         },
         {
           "letter": "D",
-          "text": "going",
+          "text": "The exam is for 10 May.",
           "is_correct": false,
-          "feedback": "'Going' is the -ing form, used with 'is' or 'are', not the past simple."
+          "feedback": "'For' reports a duration the speaker measures, and not the day on which an event takes place."
         }
       ],
       "correct_answer": "B",
-      "explanation": "'Go' is an irregular verb: go → went (past simple).",
+      "explanation": "Clock times take 'at', days and dates take 'on', and months or years take 'in', so a precise date such as 10 May is introduced by 'on'.",
       "difficulty": "8",
       "images": [],
       "tags": [],
@@ -639,36 +639,36 @@
     },
     {
       "id": "SV-ING-11-2026-W18-prepositions-time-001-MASTERY-bundle-v15",
-      "statement": "Which sentence uses the present simple correctly?",
+      "statement": "Which sentence places the holiday correctly in time?",
       "context": "English class in Mejicanos, SV.",
       "options": [
         {
-          "letter": "C",
-          "text": "She goes to school every day.",
-          "is_correct": true,
-          "feedback": "The third person singular of 'go' takes -s, and 'every day' asks for the present simple."
-        },
-        {
           "letter": "A",
-          "text": "She go to school every day.",
+          "text": "Our holiday starts in next July.",
           "is_correct": false,
-          "feedback": "After 'she' the verb needs the -s form; writing 'go' is the classic subject-verb agreement error."
+          "feedback": "Time expressions built with 'next' normally stand alone, so a preposition here is unnecessary."
         },
         {
           "letter": "B",
-          "text": "She going to school every day.",
+          "text": "Our holiday starts next July.",
+          "is_correct": true,
+          "feedback": "An expression such as 'next July' normally appears with no preposition, so this is the correct form."
+        },
+        {
+          "letter": "C",
+          "text": "Our holiday starts on next July.",
           "is_correct": false,
-          "feedback": "That is the -ing form, which needs 'is' or 'are' before it; the sentence shown is missing that auxiliary."
+          "feedback": "'On' goes with a day or a date, and July is a month, so the pair does not match."
         },
         {
           "letter": "D",
-          "text": "She gone to school every day.",
+          "text": "Our holiday starts at next July.",
           "is_correct": false,
-          "feedback": "'Gone' is a participle and needs 'has' or 'have'; it cannot stand alone after the subject."
+          "feedback": "'At' is reserved for precise clock times, and it cannot introduce a month such as July."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "Present simple: subject + verb(-s for he/she/it).",
+      "correct_answer": "B",
+      "explanation": "Expressions such as 'next July', 'last Friday' and 'every Monday' normally take no time preposition, so any preposition here is an error.",
       "difficulty": "8",
       "images": [],
       "tags": [],
@@ -684,36 +684,36 @@
     },
     {
       "id": "SV-ING-11-2026-W18-prepositions-time-001-MASTERY-bundle-v16",
-      "statement": "Choose the correct option: 'I ___ reading a book right now.'",
+      "statement": "The class runs ___ 7 a.m. ___ 8 a.m. How should the interval be expressed?",
       "context": "English class in San Salvador, SV.",
       "options": [
         {
           "letter": "A",
-          "text": "am",
+          "text": "from ... to",
           "is_correct": true,
-          "feedback": "'I' always takes the verb 'am' in the present continuous, so the sentence needs 'am reading'."
+          "feedback": "'From' opens the interval and 'to' gives its endpoint, so the two halves of the class are placed correctly."
         },
         {
           "letter": "B",
-          "text": "is",
+          "text": "at ... in",
           "is_correct": false,
-          "feedback": "'is' goes with a third-person singular subject such as 'he' or 'she'; the subject here is 'I'."
+          "feedback": "'At' marks a single instant and 'in' takes months or years, so the pair cannot name the two ends of one interval."
         },
         {
           "letter": "C",
-          "text": "are",
+          "text": "since ... until",
           "is_correct": false,
-          "feedback": "'are' is used with 'you', 'we' and 'they', never with the singular 'I'."
+          "feedback": "Both prepositions describe an ongoing situation, and neither one opens a scheduled interval that ends at 8 a.m."
         },
         {
           "letter": "D",
-          "text": "be",
+          "text": "for ... to",
           "is_correct": false,
-          "feedback": "After the pronoun 'I' the verb is already conjugated, so the bare infinitive 'be' does not fit."
+          "feedback": "'For' would need a measured length of time, and it cannot be followed by 'to' to close the interval."
         }
       ],
       "correct_answer": "A",
-      "explanation": "Present continuous: I am + verb-ing.",
+      "explanation": "'From ... to ...' is the standard frame for an interval with a clear beginning and endpoint, so a class from 7 a.m. to 8 a.m. is expressed that way.",
       "difficulty": "8",
       "images": [],
       "tags": [],
@@ -729,36 +729,36 @@
     },
     {
       "id": "SV-ING-11-2026-W18-prepositions-time-001-MASTERY-bundle-v17",
-      "statement": "What does 'benevolent' mean?",
+      "statement": "A poster announces: 'Concert ___ Saturday 15 March, at 8 p.m.' Which preposition introduces the date?",
       "context": "English class in San Salvador, SV.",
       "options": [
         {
-          "letter": "D",
-          "text": "Kind and generous",
-          "is_correct": true,
-          "feedback": "'Benevolent' describes a person who is kind and ready to give help to others."
-        },
-        {
           "letter": "A",
-          "text": "Mean and cruel",
+          "text": "in",
           "is_correct": false,
-          "feedback": "That is the opposite of benevolent, whose root means well-wishing."
+          "feedback": "'In' introduces a month or a year on its own, so it cannot carry the full day, month and year of a date."
         },
         {
           "letter": "B",
-          "text": "Quick and fast",
-          "is_correct": false,
-          "feedback": "Those describe speed; benevolent refers to character and generosity."
+          "text": "on",
+          "is_correct": true,
+          "feedback": "A calendar date is introduced by 'on', which is why the poster reads 'on Saturday 15 March'."
         },
         {
           "letter": "C",
-          "text": "Slow and lazy",
+          "text": "at",
           "is_correct": false,
-          "feedback": "Those describe laziness, the opposite of a generous attitude towards others."
+          "feedback": "'At' introduces a clock time such as 8 p.m., and the poster already uses it for the hour."
+        },
+        {
+          "letter": "D",
+          "text": "for",
+          "is_correct": false,
+          "feedback": "'For' reports a measured duration, and a concert date is not a length of time."
         }
       ],
-      "correct_answer": "D",
-      "explanation": "'Benevolent' means kind, generous, or charitable.",
+      "correct_answer": "B",
+      "explanation": "Clock times take 'at', full calendar dates take 'on', and a month or a year alone takes 'in', as in 'concert on Saturday 15 March at 8 p.m.'",
       "difficulty": "10",
       "images": [],
       "tags": [],
@@ -774,36 +774,36 @@
     },
     {
       "id": "SV-ING-11-2026-W18-prepositions-time-001-MASTERY-bundle-v18",
-      "statement": "Identify the main idea: 'The text describes how bees help pollinate flowers and produce honey.'",
+      "statement": "The school concert was moved from 6 p.m. ___ 8 p.m. Which preposition marks the new time?",
       "context": "English class in Santa Ana, SV.",
       "options": [
         {
-          "letter": "B",
-          "text": "Bees are important for pollination and honey",
-          "is_correct": true,
-          "feedback": "The text names exactly two things bees do: pollinating flowers and making honey."
+          "letter": "A",
+          "text": "in",
+          "is_correct": false,
+          "feedback": "'In' introduces a span such as a month or a year, and it cannot mark a new clock time."
         },
         {
-          "letter": "A",
-          "text": "Bees are dangerous insects",
-          "is_correct": false,
-          "feedback": "Nothing in the text says bees are dangerous; it describes useful work they do."
+          "letter": "B",
+          "text": "at",
+          "is_correct": true,
+          "feedback": "A replacement clock time is introduced by 'at', so the concert now takes place at 8 p.m."
         },
         {
           "letter": "C",
-          "text": "Honey is the only product bees make",
+          "text": "on",
           "is_correct": false,
-          "feedback": "The text gives pollination as another thing bees do, so honey is not the only product."
+          "feedback": "'On' goes with days and dates, and the new time here is an hour rather than a calendar day."
         },
         {
           "letter": "D",
-          "text": "Flowers don't need bees",
+          "text": "until",
           "is_correct": false,
-          "feedback": "The text says bees help pollinate flowers, so flowers do rely on them."
+          "feedback": "'Until' marks the endpoint of a continuing activity, and it does not assign a new starting time."
         }
       ],
       "correct_answer": "B",
-      "explanation": "The main idea summarizes the key points about bees: pollination and honey.",
+      "explanation": "When an event is rescheduled to a new clock time, English uses 'at' as in 'moved to 8 p.m.', while 'on' would name a day and 'in' a month or a year.",
       "difficulty": "10",
       "images": [],
       "tags": [],
@@ -819,36 +819,36 @@
     },
     {
       "id": "SV-ING-11-2026-W18-prepositions-time-001-MASTERY-bundle-v19",
-      "statement": "Which is the correct past form of 'go'?",
+      "statement": "Which sentence reports a duration correctly?",
       "context": "English class in Mejicanos, SV.",
       "options": [
         {
           "letter": "A",
-          "text": "went",
+          "text": "She has studied English for three years.",
           "is_correct": true,
-          "feedback": "'Went' is the irregular past simple of 'go'."
+          "feedback": "'For' states how long the activity has lasted, and three years is a length of time."
         },
         {
           "letter": "B",
-          "text": "goed",
+          "text": "She has studied English since three years.",
           "is_correct": false,
-          "feedback": "English does not add -ed to spell the past of 'go'; the past form is irregular."
+          "feedback": "'Since' takes a starting point such as a year or a month, and it cannot be combined with a length."
         },
         {
           "letter": "C",
-          "text": "gone",
+          "text": "She has studied English in three years.",
           "is_correct": false,
-          "feedback": "'Gone' is the past participle used after 'have', not the past simple."
+          "feedback": "'In' would place the whole activity inside a closed span and would leave the present situation unstated."
         },
         {
           "letter": "D",
-          "text": "going",
+          "text": "She has studied English at three years.",
           "is_correct": false,
-          "feedback": "'Going' is the -ing form, used with 'is' or 'are', not the past simple."
+          "feedback": "'At' introduces precise clock times, and a length of three years is not an instant of the day."
         }
       ],
       "correct_answer": "A",
-      "explanation": "'Go' is an irregular verb: go → went (past simple).",
+      "explanation": "'For' reports a length of time such as three years, while 'since' would name the point where the activity began, and those two prepositions are not interchangeable.",
       "difficulty": "10",
       "images": [],
       "tags": [],
@@ -864,36 +864,36 @@
     },
     {
       "id": "SV-ING-11-2026-W18-prepositions-time-001-MASTERY-bundle-v20",
-      "statement": "Which sentence uses the present simple correctly?",
+      "statement": "Choose the preposition that completes the sentence: 'The final exam takes place ___ the last week of June.'",
       "context": "English class in San Salvador, SV.",
       "options": [
         {
           "letter": "A",
-          "text": "She goes to school every day.",
+          "text": "in",
           "is_correct": true,
-          "feedback": "The third person singular of 'go' takes -s, and 'every day' asks for the present simple."
+          "feedback": "'In' introduces a span of time such as a week, and the last week of June is such a span."
         },
         {
           "letter": "B",
-          "text": "She go to school every day.",
+          "text": "at",
           "is_correct": false,
-          "feedback": "After 'she' the verb needs the -s form; writing 'go' is the classic subject-verb agreement error."
+          "feedback": "'At' marks a precise instant such as a clock time, and a whole week is not an instant."
         },
         {
           "letter": "C",
-          "text": "She going to school every day.",
+          "text": "on",
           "is_correct": false,
-          "feedback": "That is the -ing form, which needs 'is' or 'are' before it; the sentence shown is missing that auxiliary."
+          "feedback": "'On' goes with a single day or a date, and it does not normally introduce a week."
         },
         {
           "letter": "D",
-          "text": "She gone to school every day.",
+          "text": "for",
           "is_correct": false,
-          "feedback": "'Gone' is a participle and needs 'has' or 'have'; it cannot stand alone after the subject."
+          "feedback": "'For' measures a length the speaker reports, and here the phrase already names the span with 'the last week'."
         }
       ],
       "correct_answer": "A",
-      "explanation": "Present simple: subject + verb(-s for he/she/it).",
+      "explanation": "A period of time measured in weeks or months takes 'in', so an event placed inside 'the last week of June' is introduced by 'in'.",
       "difficulty": "10",
       "images": [],
       "tags": [],

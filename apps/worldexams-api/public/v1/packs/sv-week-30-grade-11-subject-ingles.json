@@ -9,40 +9,40 @@
   "questions": [
     {
       "id": "SV-ING-11-2026-W30-reading-inference-001-MASTERY-bundle-v1",
-      "statement": "Choose the correct option: 'I ___ reading a book right now.'",
-      "context": "English class in Mejicanos, SV.",
+      "statement": "Read: 'A coastal town says it has protected the mangrove belt, yet last year satellite images showed the belt was smaller than the year before.' What can you reasonably infer?",
+      "context": "English class in Antiguo Cuscatlan, SV.",
       "options": [
         {
           "letter": "A",
-          "text": "am",
+          "text": "studies fewer than it claims",
           "is_correct": true,
-          "feedback": "Correct! The subject of the sentence is 'I', and in the continuous form 'I' is always followed by 'am'."
+          "feedback": "Smaller belts in the images do not support the claim of protection, so the two statements do not agree."
         },
         {
           "letter": "B",
-          "text": "is",
+          "text": "will soon reach its goal",
           "is_correct": false,
-          "feedback": "'is' goes with he, she, it and singular nouns, as in 'he is reading', so it does not fit 'I'."
+          "feedback": "Shrinking cover moves the town away from its goal rather than towards it."
         },
         {
           "letter": "C",
-          "text": "are",
+          "text": "has already reached its goal",
           "is_correct": false,
-          "feedback": "'are' goes with you, we, they and plural nouns, so 'I are reading' is not grammatical."
+          "feedback": "The images show the opposite of reaching a goal, since the belt became smaller."
         },
         {
           "letter": "D",
-          "text": "be",
+          "text": "was never properly designed",
           "is_correct": false,
-          "feedback": "'be' is the base form used after modals and in the infinitive; the continuous here needs the finite 'am'."
+          "feedback": "Nothing in the passage says the plan was badly designed, only that it did not work."
         }
       ],
       "correct_answer": "A",
-      "explanation": "Present continuous: I am + verb-ing.",
+      "explanation": "A claim of protection alongside a smaller belt in the images points to a gap between what is said and what the evidence shows.",
       "difficulty": "4",
       "images": [],
       "tags": [],
-      "bloom": "Apply",
+      "bloom": "Understand",
       "expected_success": 0.8,
       "bundle_id": "SV-ING-11-2026-W30-reading-inference-001-MASTERY-bundle",
       "periodo": 30,
@@ -54,36 +54,36 @@
     },
     {
       "id": "SV-ING-11-2026-W30-reading-inference-001-MASTERY-bundle-v2",
-      "statement": "What does 'benevolent' mean?",
-      "context": "English class in Soyapango, SV.",
+      "statement": "Read: 'Several students stood at the shelf for a long time, checked the labels, and then left without taking anything.' What does this behaviour most likely show?",
+      "context": "English class in Mejicanos, SV.",
       "options": [
         {
           "letter": "A",
-          "text": "Kind and generous",
-          "is_correct": true,
-          "feedback": "Correct! 'Benevolent' means well-meaning, kindly and generous towards other people."
+          "text": "they prefer reading quietly",
+          "is_correct": false,
+          "feedback": "Nothing in the passage mentions reading quietly, so that preference is not shown."
         },
         {
           "letter": "B",
-          "text": "Mean and cruel",
+          "text": "they were told to leave",
           "is_correct": false,
-          "feedback": "that is the exact opposite of benevolent, which is a quality of kindness."
+          "feedback": "Nobody told the students to leave, and they chose to go on their own."
         },
         {
           "letter": "C",
-          "text": "Quick and fast",
-          "is_correct": false,
-          "feedback": "that describes speed, while 'benevolent' refers to the kind of treatment a person gives to others."
+          "text": "they could not find what they needed",
+          "is_correct": true,
+          "feedback": "Leaving empty-handed after checking labels suggests the shelf did not hold what they needed."
         },
         {
           "letter": "D",
-          "text": "Slow and lazy",
+          "text": "they arrived too late",
           "is_correct": false,
-          "feedback": "that describes laziness and slowness; 'benevolent' means kindly and generous, not idle."
+          "feedback": "The passage gives no opening hour or deadline that would make them late."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "'Benevolent' means kind, generous, or charitable.",
+      "correct_answer": "C",
+      "explanation": "Picking up items, checking the labels and leaving empty-handed is the pattern of a search that did not produce a usable answer.",
       "difficulty": "4",
       "images": [],
       "tags": [],
@@ -99,36 +99,36 @@
     },
     {
       "id": "SV-ING-11-2026-W30-reading-inference-001-MASTERY-bundle-v3",
-      "statement": "Identify the main idea: 'The text describes how bees help pollinate flowers and produce honey.'",
-      "context": "English class in Soyapango, SV.",
+      "statement": "Read: 'The school promised to read one book per term, and the final report shows the average was just over half of one.' What does the report allow you to conclude?",
+      "context": "English class in Quezaltepeque, SV.",
       "options": [
         {
-          "letter": "C",
-          "text": "Bees are important for pollination and honey",
-          "is_correct": true,
-          "feedback": "Correct! The text names the two useful jobs of bees, pollinating flowers and producing honey, so that is its main idea."
-        },
-        {
           "letter": "A",
-          "text": "Bees are dangerous insects",
+          "text": "the school should charge a fee",
           "is_correct": false,
-          "feedback": "the text never says that bees are dangerous; it describes the useful work they do for flowers."
+          "feedback": "No mention is made of charging money, so a fee is not part of the passage."
         },
         {
           "letter": "B",
-          "text": "Honey is the only product bees make",
+          "text": "the goal is being missed",
+          "is_correct": true,
+          "feedback": "Half of the promised figure is a shortfall, so the target was not reached."
+        },
+        {
+          "letter": "C",
+          "text": "the goal is fully met",
           "is_correct": false,
-          "feedback": "the text also mentions pollination, so honey is not presented as the only product."
+          "feedback": "An average near half a book is far below the promise, so the goal was not met."
         },
         {
           "letter": "D",
-          "text": "Flowers don't need bees",
+          "text": "the programme has ended",
           "is_correct": false,
-          "feedback": "pollination depends on bees, so the text implies that flowers do need them."
+          "feedback": "The report gives figures for a term rather than announcing the end of the programme."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "The main idea summarizes the key points about bees: pollination and honey.",
+      "correct_answer": "B",
+      "explanation": "A promise of one book per term against an average of about half shows the target was not reached.",
       "difficulty": "4",
       "images": [],
       "tags": [],
@@ -144,36 +144,36 @@
     },
     {
       "id": "SV-ING-11-2026-W30-reading-inference-001-MASTERY-bundle-v4",
-      "statement": "Which is the correct past form of 'go'?",
+      "statement": "Choose the correct form: 'The survey has a large ______ in the outcome, because most families were asked which bin they actually use.'",
       "context": "English class in Soyapango, SV.",
       "options": [
         {
-          "letter": "D",
-          "text": "went",
-          "is_correct": true,
-          "feedback": "Correct! 'Went' is the irregular past simple form of the verb 'go'."
-        },
-        {
           "letter": "A",
-          "text": "goed",
-          "is_correct": false,
-          "feedback": "'goed' is not an English word; a past form is either regular or an irregular form already known."
+          "text": "stake",
+          "is_correct": true,
+          "feedback": "'A stake' is the singular form, and the article 'a' requires a singular noun."
         },
         {
           "letter": "B",
-          "text": "gone",
+          "text": "stakes",
           "is_correct": false,
-          "feedback": "'gone' is the past participle used after 'have' or 'has', not the past simple form."
+          "feedback": "'Stakes' is plural and cannot follow the singular article 'a'."
         },
         {
           "letter": "C",
-          "text": "going",
+          "text": "staked",
           "is_correct": false,
-          "feedback": "'going' is the -ing form used in the continuous, not a past form at all."
+          "feedback": "'Staked' is the past form of the verb, and the sentence needs a noun."
+        },
+        {
+          "letter": "D",
+          "text": "staking",
+          "is_correct": false,
+          "feedback": "'Staking' is the -ing form, and the sentence needs a noun after 'a'."
         }
       ],
-      "correct_answer": "D",
-      "explanation": "'Go' is an irregular verb: go → went (past simple).",
+      "correct_answer": "A",
+      "explanation": "'Stake' is the singular noun that follows the singular article 'a', and the sentence needs that count.",
       "difficulty": "4",
       "images": [],
       "tags": [],
@@ -189,36 +189,36 @@
     },
     {
       "id": "SV-ING-11-2026-W30-reading-inference-001-MASTERY-bundle-v5",
-      "statement": "Which sentence uses the present simple correctly?",
-      "context": "English class in San Salvador, SV.",
+      "statement": "Choose the correct past form: 'The driver ______ fuel across the road near the depot, and the smell reached the classroom windows.'",
+      "context": "English class in Santa Tecla, SV.",
       "options": [
         {
-          "letter": "C",
-          "text": "She goes to school every day.",
-          "is_correct": true,
-          "feedback": "Correct! In the present simple the third person singular of 'go' takes -es, so 'she goes' is the correct form."
-        },
-        {
           "letter": "A",
-          "text": "She go to school every day.",
+          "text": "spilled",
           "is_correct": false,
-          "feedback": "after 'she' the verb needs the -s form, so this sentence is missing that ending."
+          "feedback": "'Spilled' takes a double l in American usage, and the sentence uses the British form."
         },
         {
           "letter": "B",
-          "text": "She going to school every day.",
+          "text": "spills",
           "is_correct": false,
-          "feedback": "'going' belongs to the continuous form, but 'every day' requires the simple present."
+          "feedback": "'Spills' is the third person present simple, and the spill is already finished."
+        },
+        {
+          "letter": "C",
+          "text": "spilt",
+          "is_correct": true,
+          "feedback": "'Spilt' is the past simple of 'spill' and fits the completed event."
         },
         {
           "letter": "D",
-          "text": "She gone to school every day.",
+          "text": "spill",
           "is_correct": false,
-          "feedback": "'gone' is a past participle, and the sentence describes a habit, so the simple present is needed."
+          "feedback": "'Spill' is the base form, and a base form cannot fill the past slot after the subject."
         }
       ],
       "correct_answer": "C",
-      "explanation": "Present simple: subject + verb(-s for he/she/it).",
+      "explanation": "'Spilt' is the past simple of 'spill' and matches the completed event described in the past.",
       "difficulty": "6",
       "images": [],
       "tags": [],
@@ -234,36 +234,36 @@
     },
     {
       "id": "SV-ING-11-2026-W30-reading-inference-001-MASTERY-bundle-v6",
-      "statement": "Choose the correct option: 'I ___ reading a book right now.'",
+      "statement": "Read: 'At a school in Santa Ana, students placed buckets under three classroom leaks and moved their notebooks away from the windows.' What can you reasonably infer?",
       "context": "English class in Mejicanos, SV.",
       "options": [
         {
-          "letter": "B",
-          "text": "am",
-          "is_correct": true,
-          "feedback": "Correct! The subject of the sentence is 'I', and in the continuous form 'I' is always followed by 'am'."
+          "letter": "A",
+          "text": "The students were preparing a swimming lesson.",
+          "is_correct": false,
+          "feedback": "Buckets under leaks and protected notebooks indicate a water problem, not preparation for swimming."
         },
         {
-          "letter": "A",
-          "text": "is",
+          "letter": "B",
+          "text": "The classroom had permanently closed.",
           "is_correct": false,
-          "feedback": "'is' goes with he, she, it and singular nouns, as in 'he is reading', so it does not fit 'I'."
+          "feedback": "The students' immediate protective actions do not establish a permanent closure."
         },
         {
           "letter": "C",
-          "text": "are",
+          "text": "Every notebook had already been destroyed.",
           "is_correct": false,
-          "feedback": "'are' goes with you, we, they and plural nouns, so 'I are reading' is not grammatical."
+          "feedback": "Moving notebooks suggests an effort to protect them; the passage does not report their destruction."
         },
         {
           "letter": "D",
-          "text": "be",
-          "is_correct": false,
-          "feedback": "'be' is the base form used after modals and in the infinitive; the continuous here needs the finite 'am'."
+          "text": "Water was entering the classroom and could damage school materials.",
+          "is_correct": true,
+          "feedback": "Collecting leaks and moving notebooks away from exposed areas suggest a risk of water damage."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "Present continuous: I am + verb-ing.",
+      "correct_answer": "D",
+      "explanation": "An inference connects textual clues with a reasonable conclusion. The buckets and relocated notebooks support the presence of unwanted water and a risk to materials.",
       "difficulty": "6",
       "images": [],
       "tags": [],
@@ -279,36 +279,36 @@
     },
     {
       "id": "SV-ING-11-2026-W30-reading-inference-001-MASTERY-bundle-v7",
-      "statement": "What does 'benevolent' mean?",
-      "context": "English class in San Miguel, SV.",
+      "statement": "Read: 'The same classroom now hosts a morning group and an evening group, so the room must be cleared and reset between the two sessions.' What does this arrangement suggest?",
+      "context": "English class in San Salvador, SV.",
       "options": [
         {
           "letter": "A",
-          "text": "Kind and generous",
-          "is_correct": true,
-          "feedback": "Correct! 'Benevolent' means well-meaning, kindly and generous towards other people."
+          "text": "students stopped arriving",
+          "is_correct": false,
+          "feedback": "Both the morning and the evening groups attend, so attendance did not fall."
         },
         {
           "letter": "B",
-          "text": "Mean and cruel",
-          "is_correct": false,
-          "feedback": "that is the exact opposite of benevolent, which is a quality of kindness."
+          "text": "the two needs compete",
+          "is_correct": true,
+          "feedback": "One room serving two groups at different hours shows both needs competing for the same space."
         },
         {
           "letter": "C",
-          "text": "Quick and fast",
+          "text": "the school has enough seats",
           "is_correct": false,
-          "feedback": "that describes speed, while 'benevolent' refers to the kind of treatment a person gives to others."
+          "feedback": "Reusing the room implies a shortage, not that there are spare seats."
         },
         {
           "letter": "D",
-          "text": "Slow and lazy",
+          "text": "the rooms are too small",
           "is_correct": false,
-          "feedback": "that describes laziness and slowness; 'benevolent' means kindly and generous, not idle."
+          "feedback": "Nothing in the passage says the room is too small, only that it is shared."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "'Benevolent' means kind, generous, or charitable.",
+      "correct_answer": "B",
+      "explanation": "Sharing one room between a morning and an evening group means both groups need it, so the schedule is driven by demand rather than by space.",
       "difficulty": "6",
       "images": [],
       "tags": [],
@@ -324,36 +324,36 @@
     },
     {
       "id": "SV-ING-11-2026-W30-reading-inference-001-MASTERY-bundle-v8",
-      "statement": "Identify the main idea: 'The text describes how bees help pollinate flowers and produce honey.'",
+      "statement": "Read: 'The community library extended its opening hours during exam week. Every evening, all study tables were occupied, although the children's storytelling room remained empty.' Which inference best accounts for both details?",
       "context": "English class in Soyapango, SV.",
       "options": [
         {
-          "letter": "B",
-          "text": "Bees are important for pollination and honey",
-          "is_correct": true,
-          "feedback": "Correct! The text names the two useful jobs of bees, pollinating flowers and producing honey, so that is its main idea."
+          "letter": "A",
+          "text": "Children's stories had been removed from the library.",
+          "is_correct": false,
+          "feedback": "An empty storytelling room does not show that its books or stories were removed."
         },
         {
-          "letter": "A",
-          "text": "Bees are dangerous insects",
+          "letter": "B",
+          "text": "All library visitors preferred storytelling to studying.",
           "is_correct": false,
-          "feedback": "the text never says that bees are dangerous; it describes the useful work they do for flowers."
+          "feedback": "Occupied study tables and an empty storytelling room contradict this preference."
         },
         {
           "letter": "C",
-          "text": "Honey is the only product bees make",
-          "is_correct": false,
-          "feedback": "the text also mentions pollination, so honey is not presented as the only product."
+          "text": "The longer evening hours were being used mainly for studying.",
+          "is_correct": true,
+          "feedback": "The full study area during exam week, contrasted with the empty storytelling room, supports this purpose."
         },
         {
           "letter": "D",
-          "text": "Flowers don't need bees",
+          "text": "The library had fewer evening visitors than usual.",
           "is_correct": false,
-          "feedback": "pollination depends on bees, so the text implies that flowers do need them."
+          "feedback": "The passage gives no usual attendance figures, so a decrease cannot be inferred."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "The main idea summarizes the key points about bees: pollination and honey.",
+      "correct_answer": "C",
+      "explanation": "The contrast between the two rooms identifies the activity attracting evening users. Exam week provides additional support for the studying inference.",
       "difficulty": "6",
       "images": [],
       "tags": [],
@@ -369,36 +369,36 @@
     },
     {
       "id": "SV-ING-11-2026-W30-reading-inference-001-MASTERY-bundle-v9",
-      "statement": "Which is the correct past form of 'go'?",
-      "context": "English class in San Miguel, SV.",
+      "statement": "Choose the correct past form: 'The council ______ three months to repair the footbridge, and the detour affected the morning traffic.'",
+      "context": "English class in Chalatenango, SV.",
       "options": [
         {
-          "letter": "B",
-          "text": "went",
+          "letter": "A",
+          "text": "took",
           "is_correct": true,
-          "feedback": "Correct! 'Went' is the irregular past simple form of the verb 'go'."
+          "feedback": "'Took' is the irregular past simple of 'take' and fits the completed repair period."
         },
         {
-          "letter": "A",
-          "text": "goed",
+          "letter": "B",
+          "text": "tk",
           "is_correct": false,
-          "feedback": "'goed' is not an English word; a past form is either regular or an irregular form already known."
+          "feedback": "'Tk' is not an English word at all."
         },
         {
           "letter": "C",
-          "text": "gone",
+          "text": "taked",
           "is_correct": false,
-          "feedback": "'gone' is the past participle used after 'have' or 'has', not the past simple form."
+          "feedback": "Adding -ed to this verb does not produce its past simple, because the verb is irregular."
         },
         {
           "letter": "D",
-          "text": "going",
+          "text": "taking",
           "is_correct": false,
-          "feedback": "'going' is the -ing form used in the continuous, not a past form at all."
+          "feedback": "'Taking' is the -ing form and would need an auxiliary such as 'was' before it."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "'Go' is an irregular verb: go → went (past simple).",
+      "correct_answer": "A",
+      "explanation": "'Took' is the irregular past simple of 'take', and it matches the completed period of work described in the past.",
       "difficulty": "6",
       "images": [],
       "tags": [],
@@ -414,36 +414,36 @@
     },
     {
       "id": "SV-ING-11-2026-W30-reading-inference-001-MASTERY-bundle-v10",
-      "statement": "Which sentence uses the present simple correctly?",
+      "statement": "Which statement correctly describes a reading inference?",
       "context": "English class in San Salvador, SV.",
       "options": [
         {
-          "letter": "D",
-          "text": "She goes to school every day.",
-          "is_correct": true,
-          "feedback": "Correct! In the present simple the third person singular of 'go' takes -es, so 'she goes' is the correct form."
-        },
-        {
           "letter": "A",
-          "text": "She go to school every day.",
+          "text": "It is any prediction a reader makes, even without textual support.",
           "is_correct": false,
-          "feedback": "after 'she' the verb needs the -s form, so this sentence is missing that ending."
+          "feedback": "An unsupported prediction is a guess; an inference must be grounded in textual clues."
         },
         {
           "letter": "B",
-          "text": "She going to school every day.",
+          "text": "It is an exact quotation copied from the passage.",
           "is_correct": false,
-          "feedback": "'going' belongs to the continuous form, but 'every day' requires the simple present."
+          "feedback": "A quotation reproduces explicit wording rather than drawing a conclusion from it."
         },
         {
           "letter": "C",
-          "text": "She gone to school every day.",
+          "text": "It is a personal opinion that overrides evidence in the passage.",
           "is_correct": false,
-          "feedback": "'gone' is a past participle, and the sentence describes a habit, so the simple present is needed."
+          "feedback": "A valid inference must fit the passage's evidence rather than override it."
+        },
+        {
+          "letter": "D",
+          "text": "It is a conclusion supported by clues in the text, even when not directly stated.",
+          "is_correct": true,
+          "feedback": "An inference combines textual evidence with reasoning to identify meaning the writer leaves implicit."
         }
       ],
       "correct_answer": "D",
-      "explanation": "Present simple: subject + verb(-s for he/she/it).",
+      "explanation": "An inference is evidence-based understanding of something not explicitly stated. Its defining feature is support from the text.",
       "difficulty": "6",
       "images": [],
       "tags": [],
@@ -459,36 +459,36 @@
     },
     {
       "id": "SV-ING-11-2026-W30-reading-inference-001-MASTERY-bundle-v11",
-      "statement": "Choose the correct option: 'I ___ reading a book right now.'",
-      "context": "English class in Soyapango, SV.",
+      "statement": "Choose the option that best completes the sentence: 'The new evidence is important, but the researchers published the summary ______, so nobody outside the team could use it first.'",
+      "context": "English class in Apopa, SV.",
       "options": [
         {
           "letter": "A",
-          "text": "am",
-          "is_correct": true,
-          "feedback": "Correct! The subject of the sentence is 'I', and in the continuous form 'I' is always followed by 'am'."
+          "text": "as quickly as possible",
+          "is_correct": false,
+          "feedback": "'As quickly as possible' claims speed, but the passage emphasises secrecy rather than haste."
         },
         {
           "letter": "B",
-          "text": "is",
+          "text": "in the shortest possible time",
           "is_correct": false,
-          "feedback": "'is' goes with he, she, it and singular nouns, as in 'he is reading', so it does not fit 'I'."
+          "feedback": "'In the shortest possible time' is a near repeat of the speed claim and also misses the secrecy."
         },
         {
           "letter": "C",
-          "text": "are",
-          "is_correct": false,
-          "feedback": "'are' goes with you, we, they and plural nouns, so 'I are reading' is not grammatical."
+          "text": "without anyone noticing",
+          "is_correct": true,
+          "feedback": "'Without anyone noticing' is the only phrase that explains why nobody outside the team could use the summary first."
         },
         {
           "letter": "D",
-          "text": "be",
+          "text": "by any means at all",
           "is_correct": false,
-          "feedback": "'be' is the base form used after modals and in the infinitive; the continuous here needs the finite 'am'."
+          "feedback": "'By any means at all' allows any method, so it cannot express a careful decision to keep the summary secret."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "Present continuous: I am + verb-ing.",
+      "correct_answer": "C",
+      "explanation": "'By any means at all' would claim any method, and 'as quickly as possible' claims speed; only 'without anyone noticing' matches the secrecy described.",
       "difficulty": "8",
       "images": [],
       "tags": [],
@@ -504,36 +504,36 @@
     },
     {
       "id": "SV-ING-11-2026-W30-reading-inference-001-MASTERY-bundle-v12",
-      "statement": "What does 'benevolent' mean?",
-      "context": "English class in Mejicanos, SV.",
+      "statement": "Read: 'A school installed a water filter and asked the canteen to record how many bottles were used each week. The total fell from 180 to 60.' What can you reasonably infer?",
+      "context": "English class in Ilopango, SV.",
       "options": [
         {
           "letter": "A",
-          "text": "Kind and generous",
-          "is_correct": true,
-          "feedback": "Correct! 'Benevolent' means well-meaning, kindly and generous towards other people."
+          "text": "were a poor investment",
+          "is_correct": false,
+          "feedback": "A large fall in bottles is the opposite of a poor result, so that reading does not fit."
         },
         {
           "letter": "B",
-          "text": "Mean and cruel",
+          "text": "were not needed at all",
           "is_correct": false,
-          "feedback": "that is the exact opposite of benevolent, which is a quality of kindness."
+          "feedback": "The canteen kept buying far fewer bottles, so the measure clearly was not pointless."
         },
         {
           "letter": "C",
-          "text": "Quick and fast",
+          "text": "were costly to install",
           "is_correct": false,
-          "feedback": "that describes speed, while 'benevolent' refers to the kind of treatment a person gives to others."
+          "feedback": "No cost figure appears in the passage, so installation cost cannot be judged from it."
         },
         {
           "letter": "D",
-          "text": "Slow and lazy",
-          "is_correct": false,
-          "feedback": "that describes laziness and slowness; 'benevolent' means kindly and generous, not idle."
+          "text": "changed bottle use",
+          "is_correct": true,
+          "feedback": "The recorded drop from 180 to 60 shows the filter changed how many bottles the canteen uses."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "'Benevolent' means kind, generous, or charitable.",
+      "correct_answer": "D",
+      "explanation": "Weekly counts were kept and the total dropped sharply, so the passage points to a real change in how many bottles the canteen needs.",
       "difficulty": "8",
       "images": [],
       "tags": [],
@@ -549,36 +549,36 @@
     },
     {
       "id": "SV-ING-11-2026-W30-reading-inference-001-MASTERY-bundle-v13",
-      "statement": "Identify the main idea: 'The text describes how bees help pollinate flowers and produce honey.'",
-      "context": "English class in Mejicanos, SV.",
+      "statement": "Read: 'The new bins are cleaner and easier to use, but two of the five routes still missed collections for three months.' What is the effect of the phrase 'but' in this sentence?",
+      "context": "English class in Cojutepeque, SV.",
       "options": [
         {
-          "letter": "B",
-          "text": "Bees are important for pollination and honey",
+          "letter": "A",
+          "text": "the writer admits a limitation",
           "is_correct": true,
-          "feedback": "Correct! The text names the two useful jobs of bees, pollinating flowers and producing honey, so that is its main idea."
+          "feedback": "Conceding missed collections after praising the bins is exactly what 'but' does here."
         },
         {
-          "letter": "A",
-          "text": "Bees are dangerous insects",
+          "letter": "B",
+          "text": "the writer rejects all evidence",
           "is_correct": false,
-          "feedback": "the text never says that bees are dangerous; it describes the useful work they do for flowers."
+          "feedback": "The writer still praises the bins, so nothing in the sentence rejects the evidence."
         },
         {
           "letter": "C",
-          "text": "Honey is the only product bees make",
+          "text": "the writer changes the subject",
           "is_correct": false,
-          "feedback": "the text also mentions pollination, so honey is not presented as the only product."
+          "feedback": "The sentence stays on the subject of the bins, so the topic does not change."
         },
         {
           "letter": "D",
-          "text": "Flowers don't need bees",
+          "text": "the writer recommends a different plan",
           "is_correct": false,
-          "feedback": "pollination depends on bees, so the text implies that flowers do need them."
+          "feedback": "No other plan is named, so the writer is not redirecting the reader elsewhere."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "The main idea summarizes the key points about bees: pollination and honey.",
+      "correct_answer": "A",
+      "explanation": "'But' introduces the drawback that follows a strength, so the writer concedes a real problem with the new bins.",
       "difficulty": "8",
       "images": [],
       "tags": [],
@@ -594,36 +594,36 @@
     },
     {
       "id": "SV-ING-11-2026-W30-reading-inference-001-MASTERY-bundle-v14",
-      "statement": "Which is the correct past form of 'go'?",
-      "context": "English class in Santa Ana, SV.",
+      "statement": "Choose the correct form: 'Every label in the exhibit was ______ by hand, so the two signs at the entrance do not match.'",
+      "context": "English class in Cizatlan, SV.",
       "options": [
         {
-          "letter": "B",
-          "text": "went",
+          "letter": "A",
+          "text": "written",
           "is_correct": true,
-          "feedback": "Correct! 'Went' is the irregular past simple form of the verb 'go'."
+          "feedback": "'Written' is the past participle of 'write', and 'was written' forms the passive here."
         },
         {
-          "letter": "A",
-          "text": "goed",
+          "letter": "B",
+          "text": "writed",
           "is_correct": false,
-          "feedback": "'goed' is not an English word; a past form is either regular or an irregular form already known."
+          "feedback": "Adding -ed to this verb does not produce an English word, so 'writed' does not exist."
         },
         {
           "letter": "C",
-          "text": "gone",
+          "text": "writting",
           "is_correct": false,
-          "feedback": "'gone' is the past participle used after 'have' or 'has', not the past simple form."
+          "feedback": "'Writting' is not a correct spelling of the -ing form, which is 'writing'."
         },
         {
           "letter": "D",
-          "text": "going",
+          "text": "wrote",
           "is_correct": false,
-          "feedback": "'going' is the -ing form used in the continuous, not a past form at all."
+          "feedback": "'Wrote' is the past simple, and it cannot follow the passive auxiliary 'was'."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "'Go' is an irregular verb: go → went (past simple).",
+      "correct_answer": "A",
+      "explanation": "'Written' is the past participle of 'write', and 'was written' is the passive form the sentence requires.",
       "difficulty": "8",
       "images": [],
       "tags": [],
@@ -639,36 +639,36 @@
     },
     {
       "id": "SV-ING-11-2026-W30-reading-inference-001-MASTERY-bundle-v15",
-      "statement": "Which sentence uses the present simple correctly?",
-      "context": "English class in Soyapango, SV.",
+      "statement": "Choose the correct form: 'The reading room ______ three hundred books last term, and the shelves are now full.'",
+      "context": "English class in Acasco, SV.",
       "options": [
         {
-          "letter": "C",
-          "text": "She goes to school every day.",
-          "is_correct": true,
-          "feedback": "Correct! In the present simple the third person singular of 'go' takes -es, so 'she goes' is the correct form."
-        },
-        {
           "letter": "A",
-          "text": "She go to school every day.",
+          "text": "borrows",
           "is_correct": false,
-          "feedback": "after 'she' the verb needs the -s form, so this sentence is missing that ending."
+          "feedback": "'Borrows' is the third person present simple, and the term described is finished."
         },
         {
           "letter": "B",
-          "text": "She going to school every day.",
+          "text": "borrowed",
+          "is_correct": true,
+          "feedback": "'Borrowed' is the past simple of 'borrow' and fits the completed term."
+        },
+        {
+          "letter": "C",
+          "text": "borrowing",
           "is_correct": false,
-          "feedback": "'going' belongs to the continuous form, but 'every day' requires the simple present."
+          "feedback": "'Borrowing' is the -ing form and would need an auxiliary such as 'has' before it."
         },
         {
           "letter": "D",
-          "text": "She gone to school every day.",
+          "text": "borrow",
           "is_correct": false,
-          "feedback": "'gone' is a past participle, and the sentence describes a habit, so the simple present is needed."
+          "feedback": "'Borrow' is the base form, and a base form cannot fill the past slot after the subject."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "Present simple: subject + verb(-s for he/she/it).",
+      "correct_answer": "B",
+      "explanation": "'Borrowed' is the past simple of 'borrow' and matches the completed term described in the past.",
       "difficulty": "8",
       "images": [],
       "tags": [],
@@ -684,36 +684,36 @@
     },
     {
       "id": "SV-ING-11-2026-W30-reading-inference-001-MASTERY-bundle-v16",
-      "statement": "Choose the correct option: 'I ___ reading a book right now.'",
-      "context": "English class in San Miguel, SV.",
+      "statement": "Choose the correct form: 'The guide ______ each group a map at the entrance, and she still carries a spare stack.'",
+      "context": "English class in Juayua, SV.",
       "options": [
         {
-          "letter": "B",
-          "text": "am",
-          "is_correct": true,
-          "feedback": "Correct! The subject of the sentence is 'I', and in the continuous form 'I' is always followed by 'am'."
+          "letter": "A",
+          "text": "gave",
+          "is_correct": false,
+          "feedback": "'Gave' is the past simple, and the guide hands out maps every week as a routine."
         },
         {
-          "letter": "A",
-          "text": "is",
+          "letter": "B",
+          "text": "given",
           "is_correct": false,
-          "feedback": "'is' goes with he, she, it and singular nouns, as in 'he is reading', so it does not fit 'I'."
+          "feedback": "'Given' is the past participle and would need an auxiliary such as 'has' before it."
         },
         {
           "letter": "C",
-          "text": "are",
+          "text": "giving",
           "is_correct": false,
-          "feedback": "'are' goes with you, we, they and plural nouns, so 'I are reading' is not grammatical."
+          "feedback": "'Giving' is the -ing form and would need an auxiliary such as 'is' before it."
         },
         {
           "letter": "D",
-          "text": "be",
-          "is_correct": false,
-          "feedback": "'be' is the base form used after modals and in the infinitive; the continuous here needs the finite 'am'."
+          "text": "gives",
+          "is_correct": true,
+          "feedback": "'Gives' is the third person singular form that the subject 'the guide' takes."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "Present continuous: I am + verb-ing.",
+      "correct_answer": "D",
+      "explanation": "'Gives' is the third person singular present simple, which matches the subject 'the guide' and a repeated weekly action.",
       "difficulty": "8",
       "images": [],
       "tags": [],
@@ -729,36 +729,36 @@
     },
     {
       "id": "SV-ING-11-2026-W30-reading-inference-001-MASTERY-bundle-v17",
-      "statement": "What does 'benevolent' mean?",
+      "statement": "Read: 'The school celebrated its new computer room. However, teachers still printed every online assignment because most students could not connect from home.' What does the contrast imply about the school's achievement?",
       "context": "English class in San Miguel, SV.",
       "options": [
         {
-          "letter": "B",
-          "text": "Kind and generous",
-          "is_correct": true,
-          "feedback": "Correct! 'Benevolent' means well-meaning, kindly and generous towards other people."
+          "letter": "A",
+          "text": "The computer room eliminated the need for printed materials.",
+          "is_correct": false,
+          "feedback": "Teachers continued printing every online assignment, which contradicts the elimination of printed materials."
         },
         {
-          "letter": "A",
-          "text": "Mean and cruel",
+          "letter": "B",
+          "text": "The teachers rejected computers because they disliked technology.",
           "is_correct": false,
-          "feedback": "that is the exact opposite of benevolent, which is a quality of kindness."
+          "feedback": "The stated reason for printing was limited home connectivity, not teachers' preferences."
         },
         {
           "letter": "C",
-          "text": "Quick and fast",
+          "text": "All students had reliable internet access outside school.",
           "is_correct": false,
-          "feedback": "that describes speed, while 'benevolent' refers to the kind of treatment a person gives to others."
+          "feedback": "The passage explicitly says most students could not connect from home."
         },
         {
           "letter": "D",
-          "text": "Slow and lazy",
-          "is_correct": false,
-          "feedback": "that describes laziness and slowness; 'benevolent' means kindly and generous, not idle."
+          "text": "Better technology at school had not resolved students' access difficulties at home.",
+          "is_correct": true,
+          "feedback": "The new room improved school resources, but continued printing reveals a separate barrier to home access."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "'Benevolent' means kind, generous, or charitable.",
+      "correct_answer": "D",
+      "explanation": "'However' introduces a limitation to the celebrated improvement. Access within the school does not automatically provide access at home.",
       "difficulty": "10",
       "images": [],
       "tags": [],
@@ -774,36 +774,36 @@
     },
     {
       "id": "SV-ING-11-2026-W30-reading-inference-001-MASTERY-bundle-v18",
-      "statement": "Identify the main idea: 'The text describes how bees help pollinate flowers and produce honey.'",
-      "context": "English class in San Salvador, SV.",
+      "statement": "Read: 'Two schools were asked to test the new timetable. One reported that punctuality improved; the other gave no figures at all.' What is the main effect of giving both reports side by side?",
+      "context": "English class in Metapan, SV.",
       "options": [
         {
           "letter": "A",
-          "text": "Bees are important for pollination and honey",
+          "text": "no firm conclusion is reached",
           "is_correct": true,
-          "feedback": "Correct! The text names the two useful jobs of bees, pollinating flowers and producing honey, so that is its main idea."
+          "feedback": "One report with figures beside one without leaves the reader without a basis for a verdict."
         },
         {
           "letter": "B",
-          "text": "Bees are dangerous insects",
+          "text": "the writer blames the students",
           "is_correct": false,
-          "feedback": "the text never says that bees are dangerous; it describes the useful work they do for flowers."
+          "feedback": "The passage reports outcomes and does not accuse the students of anything."
         },
         {
           "letter": "C",
-          "text": "Honey is the only product bees make",
+          "text": "the writer demands money",
           "is_correct": false,
-          "feedback": "the text also mentions pollination, so honey is not presented as the only product."
+          "feedback": "No funding request appears in the passage, so money is not the subject."
         },
         {
           "letter": "D",
-          "text": "Flowers don't need bees",
+          "text": "the writer praises the school",
           "is_correct": false,
-          "feedback": "pollination depends on bees, so the text implies that flowers do need them."
+          "feedback": "The passage is balanced and careful, and it offers no praise for either school."
         }
       ],
       "correct_answer": "A",
-      "explanation": "The main idea summarizes the key points about bees: pollination and honey.",
+      "explanation": "One school supplies figures and the other supplies none, so the reader is left unable to judge whether the timetable worked.",
       "difficulty": "10",
       "images": [],
       "tags": [],
@@ -819,36 +819,36 @@
     },
     {
       "id": "SV-ING-11-2026-W30-reading-inference-001-MASTERY-bundle-v19",
-      "statement": "Which is the correct past form of 'go'?",
+      "statement": "A passage says that a tutoring pilot attracted many participants, but its final exam results have not yet been collected. Which principle should guide an inference about the pilot's academic effectiveness?",
       "context": "English class in Soyapango, SV.",
       "options": [
         {
           "letter": "A",
-          "text": "went",
-          "is_correct": true,
-          "feedback": "Correct! 'Went' is the irregular past simple form of the verb 'go'."
+          "text": "Treat high participation as proof that exam scores improved.",
+          "is_correct": false,
+          "feedback": "Participation measures attendance or interest, not changes in academic performance."
         },
         {
           "letter": "B",
-          "text": "goed",
-          "is_correct": false,
-          "feedback": "'goed' is not an English word; a past form is either regular or an irregular form already known."
+          "text": "Distinguish evidence of participation from evidence of improved learning.",
+          "is_correct": true,
+          "feedback": "An effectiveness claim requires learning evidence; participation alone cannot establish an academic improvement."
         },
         {
           "letter": "C",
-          "text": "gone",
+          "text": "Assume the absence of collected results proves the pilot failed.",
           "is_correct": false,
-          "feedback": "'gone' is the past participle used after 'have' or 'has', not the past simple form."
+          "feedback": "Missing results leave effectiveness uncertain; they do not demonstrate failure."
         },
         {
           "letter": "D",
-          "text": "going",
+          "text": "Use the reader's enthusiasm as a substitute for outcome data.",
           "is_correct": false,
-          "feedback": "'going' is the -ing form used in the continuous, not a past form at all."
+          "feedback": "Enthusiasm is a personal reaction and cannot supply the missing evidence about exam performance."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "'Go' is an irregular verb: go → went (past simple).",
+      "correct_answer": "B",
+      "explanation": "A justified inference must match the kind of evidence available. Participation supports a claim about uptake, while academic effectiveness requires evidence about learning outcomes.",
       "difficulty": "10",
       "images": [],
       "tags": [],
@@ -864,36 +864,36 @@
     },
     {
       "id": "SV-ING-11-2026-W30-reading-inference-001-MASTERY-bundle-v20",
-      "statement": "Which sentence uses the present simple correctly?",
-      "context": "English class in Santa Ana, SV.",
+      "statement": "Choose the correct past form: 'The volunteers ______ two hundred children to read during the summer course at the beach town.'",
+      "context": "English class in San Luis, SV.",
       "options": [
         {
           "letter": "A",
-          "text": "She goes to school every day.",
-          "is_correct": true,
-          "feedback": "Correct! In the present simple the third person singular of 'go' takes -es, so 'she goes' is the correct form."
+          "text": "teach",
+          "is_correct": false,
+          "feedback": "'Teach' is the base form, and a base form cannot fill the past slot after the subject."
         },
         {
           "letter": "B",
-          "text": "She go to school every day.",
+          "text": "teached",
           "is_correct": false,
-          "feedback": "after 'she' the verb needs the -s form, so this sentence is missing that ending."
+          "feedback": "Adding -ed to this verb does not give its past simple, because the verb is irregular."
         },
         {
           "letter": "C",
-          "text": "She going to school every day.",
-          "is_correct": false,
-          "feedback": "'going' belongs to the continuous form, but 'every day' requires the simple present."
+          "text": "taught",
+          "is_correct": true,
+          "feedback": "'Taught' is the irregular past simple of 'teach' and fits the completed course."
         },
         {
           "letter": "D",
-          "text": "She gone to school every day.",
+          "text": "teaching",
           "is_correct": false,
-          "feedback": "'gone' is a past participle, and the sentence describes a habit, so the simple present is needed."
+          "feedback": "'Teaching' is the -ing form and would need an auxiliary such as 'were' before it."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "Present simple: subject + verb(-s for he/she/it).",
+      "correct_answer": "C",
+      "explanation": "'Taught' is the irregular past simple of 'teach' and matches the completed summer course described in the past.",
       "difficulty": "10",
       "images": [],
       "tags": [],

@@ -9,36 +9,36 @@
   "questions": [
     {
       "id": "SV-ING-11-2026-W20-phrasal-verbs-001-MASTERY-bundle-v1",
-      "statement": "Choose the correct option: 'I ___ reading a book right now.'",
+      "statement": "Complete the sentence: 'Please turn ___ the lights; the film has already started.'",
       "context": "English class in Mejicanos, SV.",
       "options": [
         {
-          "letter": "D",
-          "text": "am",
-          "is_correct": true,
-          "feedback": "Correct! With the subject 'I', the present continuous is built with 'am' followed by the -ing form."
-        },
-        {
           "letter": "A",
-          "text": "is",
+          "text": "on",
           "is_correct": false,
-          "feedback": "'is' goes with he, she, it and singular nouns, but the subject here is 'I', which takes 'am'."
+          "feedback": "'Turn on' switches a light to the on state, which is the opposite of what the speaker asks."
         },
         {
           "letter": "B",
-          "text": "are",
+          "text": "up",
           "is_correct": false,
-          "feedback": "'are' goes with you, we and they, while 'I' is the first person singular and takes 'am'."
+          "feedback": "'Turn up' raises a volume or a heat setting, and it does not switch a light off."
         },
         {
           "letter": "C",
-          "text": "be",
+          "text": "over",
           "is_correct": false,
-          "feedback": "'be' is the bare infinitive used in the dictionary form; the present continuous needs the auxiliary 'am' before 'reading'."
+          "feedback": "'Turn over' means to rotate something or hand it to someone else, and it does not fit a light."
+        },
+        {
+          "letter": "D",
+          "text": "off",
+          "is_correct": true,
+          "feedback": "'Turn off' is the phrasal verb that switches a light to the off state, which is what the film requires."
         }
       ],
       "correct_answer": "D",
-      "explanation": "Present continuous: I am + verb-ing.",
+      "explanation": "'Turn off' is the phrasal verb for switching a light or appliance to the off state, and it is separable when the object is a pronoun such as 'it'.",
       "difficulty": "4",
       "images": [],
       "tags": [],
@@ -54,36 +54,36 @@
     },
     {
       "id": "SV-ING-11-2026-W20-phrasal-verbs-001-MASTERY-bundle-v2",
-      "statement": "What does 'benevolent' mean?",
+      "statement": "What does the phrasal verb 'put off' mean?",
       "context": "English class in San Salvador, SV.",
       "options": [
         {
-          "letter": "D",
-          "text": "Kind and generous",
-          "is_correct": true,
-          "feedback": "Correct! 'Benevolent' means kind, charitable and willing to give help to others."
-        },
-        {
           "letter": "A",
-          "text": "Mean and cruel",
+          "text": "to dress",
           "is_correct": false,
-          "feedback": "'Mean and cruel' is the opposite of benevolent, a word built from bene- for well and volens for wishing."
+          "feedback": "Dressing is expressed with 'put on', a different phrasal verb that adds clothing to the body."
         },
         {
           "letter": "B",
-          "text": "Quick and fast",
+          "text": "to accept",
           "is_correct": false,
-          "feedback": "'Quick and fast' describes speed, which says nothing about kindness or giving."
+          "feedback": "Accepting something uses 'take on' or 'accept', and 'put' here points to a physical action or a delay."
         },
         {
           "letter": "C",
-          "text": "Slow and lazy",
+          "text": "to pretend",
           "is_correct": false,
-          "feedback": "'Slow and lazy' describes someone's effort or pace, not their generosity towards other people."
+          "feedback": "Pretending to be something is 'put on', so that sense belongs to a different particle of the same verb."
+        },
+        {
+          "letter": "D",
+          "text": "to postpone",
+          "is_correct": true,
+          "feedback": "'Put off' is the phrasal verb that means to postpone, so an event moves to a later time."
         }
       ],
       "correct_answer": "D",
-      "explanation": "'Benevolent' means kind, generous, or charitable.",
+      "explanation": "'Put off' means to postpone, so an event moves to a later time; 'put on' instead means to dress or to begin pretending to be something.",
       "difficulty": "4",
       "images": [],
       "tags": [],
@@ -99,36 +99,36 @@
     },
     {
       "id": "SV-ING-11-2026-W20-phrasal-verbs-001-MASTERY-bundle-v3",
-      "statement": "Identify the main idea: 'The text describes how bees help pollinate flowers and produce honey.'",
+      "statement": "Which sentence uses the phrasal verb 'look up' correctly?",
       "context": "English class in Mejicanos, SV.",
       "options": [
         {
-          "letter": "C",
-          "text": "Bees are important for pollination and honey",
-          "is_correct": true,
-          "feedback": "Correct! The text links bees to two jobs, pollinating flowers and producing honey, and that is its central idea."
-        },
-        {
           "letter": "A",
-          "text": "Bees are dangerous insects",
+          "text": "She looked the ladder up and climbed.",
           "is_correct": false,
-          "feedback": "The text never claims that bees are dangerous; it focuses on the useful work they do for flowering plants."
+          "feedback": "'Up' is a preposition of direction with the verb 'look', so it cannot take 'ladder' as an object."
         },
         {
           "letter": "B",
-          "text": "Honey is the only product bees make",
+          "text": "She looked up after the number in the directory.",
           "is_correct": false,
-          "feedback": "The word 'only' overstates the text, which mentions pollination as well as honey, so bees do more than make honey."
+          "feedback": "'Look after' means to take care of somebody, and it cannot carry the sense of searching for information."
+        },
+        {
+          "letter": "C",
+          "text": "She looked up the number in the directory.",
+          "is_correct": true,
+          "feedback": "'Look up' with a noun object means to search for that information, and a phone number fits that sense."
         },
         {
           "letter": "D",
-          "text": "Flowers don't need bees",
+          "text": "She looked the number after in the directory.",
           "is_correct": false,
-          "feedback": "The text says that bees pollinate flowers, so it presents flowering plants as depending on them."
+          "feedback": "'After' belongs to 'look after', and with 'look' it would mean to watch somebody, not to search."
         }
       ],
       "correct_answer": "C",
-      "explanation": "The main idea summarizes the key points about bees: pollination and honey.",
+      "explanation": "'Look up' means to search for information in a source, and the particle separates when the object is a pronoun, as in 'look it up'.",
       "difficulty": "4",
       "images": [],
       "tags": [],
@@ -144,36 +144,36 @@
     },
     {
       "id": "SV-ING-11-2026-W20-phrasal-verbs-001-MASTERY-bundle-v4",
-      "statement": "Which is the correct past form of 'go'?",
+      "statement": "What does the phrasal verb 'get on' mean in 'We get on the bus at seven'?",
       "context": "English class in Mejicanos, SV.",
       "options": [
         {
           "letter": "A",
-          "text": "went",
+          "text": "to board",
           "is_correct": true,
-          "feedback": "Correct! 'Go' is an irregular verb, so its simple past is 'went' and not 'goed'."
+          "feedback": "'Get on' means to board or mount a vehicle, and a bus is exactly that kind of vehicle."
         },
         {
           "letter": "B",
-          "text": "goed",
+          "text": "to continue",
           "is_correct": false,
-          "feedback": "'goed' only looks like the past of 'go' because of the German spelling; no English verb takes that form."
+          "feedback": "Continuing is 'carry on' or 'keep on', and neither verb describes mounting a bus."
         },
         {
           "letter": "C",
-          "text": "gone",
+          "text": "to agree",
           "is_correct": false,
-          "feedback": "'gone' is the past participle used after 'have', as in 'has gone', and not the simple past."
+          "feedback": "Agreement is 'agree with' or 'get on with', and a bus cannot be agreed with in this sentence."
         },
         {
           "letter": "D",
-          "text": "going",
+          "text": "to hurry",
           "is_correct": false,
-          "feedback": "'going' is the -ing form, which builds the present continuous rather than the simple past."
+          "feedback": "Hurrying is 'hurry up' or 'get a move on', so this reading does not match the sentence."
         }
       ],
       "correct_answer": "A",
-      "explanation": "'Go' is an irregular verb: go → went (past simple).",
+      "explanation": "'Get on' is the phrasal verb for boarding a vehicle; agreement is 'get on with' and continuing is 'carry on', which are three different verbs.",
       "difficulty": "4",
       "images": [],
       "tags": [],
@@ -189,36 +189,36 @@
     },
     {
       "id": "SV-ING-11-2026-W20-phrasal-verbs-001-MASTERY-bundle-v5",
-      "statement": "Which sentence uses the present simple correctly?",
+      "statement": "A classmate says: 'I need to ___ my little brother; he is only six.' Which phrasal verb completes the sentence?",
       "context": "English class in Soyapango, SV.",
       "options": [
         {
-          "letter": "C",
-          "text": "She goes to school every day.",
-          "is_correct": true,
-          "feedback": "Correct! In the present simple with 'she' the verb takes the -s ending, so 'goes' is the right form here."
-        },
-        {
           "letter": "A",
-          "text": "She go to school every day.",
+          "text": "look out",
           "is_correct": false,
-          "feedback": "With 'she' in the present simple the verb must carry the -s ending, so 'go' is not correct in this sentence."
+          "feedback": "'Look out' is a warning about danger, and it would not fit a child who needs care."
         },
         {
           "letter": "B",
-          "text": "She going to school every day.",
+          "text": "look for",
           "is_correct": false,
-          "feedback": "This follows the present continuous pattern, which needs 'is' before 'going' rather than the present simple."
+          "feedback": "'Look for' means to search for something, and the sentence is about looking after a person."
+        },
+        {
+          "letter": "C",
+          "text": "look after",
+          "is_correct": true,
+          "feedback": "'Look after' means to take care of someone, and a six-year-old brother is the exact case."
         },
         {
           "letter": "D",
-          "text": "She gone to school every day.",
+          "text": "look up",
           "is_correct": false,
-          "feedback": "This mixes two forms, because 'gone' is a past participle and does not fit the present simple sentence."
+          "feedback": "'Look up' means to search for information or to raise the eyes, and neither sense fits caring for a child."
         }
       ],
       "correct_answer": "C",
-      "explanation": "Present simple: subject + verb(-s for he/she/it).",
+      "explanation": "'Look after' covers care and supervision of a person, while 'look for' is about searching and 'look up' about finding information.",
       "difficulty": "6",
       "images": [],
       "tags": [],
@@ -234,36 +234,36 @@
     },
     {
       "id": "SV-ING-11-2026-W20-phrasal-verbs-001-MASTERY-bundle-v6",
-      "statement": "Choose the correct option: 'I ___ reading a book right now.'",
+      "statement": "Complete the sentence: 'Remember to ___ your shoes at the entrance; the floor is wet.'",
       "context": "English class in San Miguel, SV.",
       "options": [
         {
           "letter": "A",
-          "text": "am",
+          "text": "take off",
           "is_correct": true,
-          "feedback": "Correct! With the subject 'I', the present continuous is built with 'am' followed by the -ing form."
+          "feedback": "'Take off' is the phrasal verb for removing something worn, and shoes are worn, so it fits the notice."
         },
         {
           "letter": "B",
-          "text": "is",
+          "text": "take down",
           "is_correct": false,
-          "feedback": "'is' goes with he, she, it and singular nouns, but the subject here is 'I', which takes 'am'."
+          "feedback": "'Take down' means to remove a notice or a curtain from a high place, and it does not apply to footwear."
         },
         {
           "letter": "C",
-          "text": "are",
+          "text": "take out",
           "is_correct": false,
-          "feedback": "'are' goes with you, we and they, while 'I' is the first person singular and takes 'am'."
+          "feedback": "'Take out' means to extract something from a container or a place, and it does not describe removing a shoe."
         },
         {
           "letter": "D",
-          "text": "be",
+          "text": "take over",
           "is_correct": false,
-          "feedback": "'be' is the bare infinitive used in the dictionary form; the present continuous needs the auxiliary 'am' before 'reading'."
+          "feedback": "'Take over' means to take control of a situation, and it says nothing about shoes."
         }
       ],
       "correct_answer": "A",
-      "explanation": "Present continuous: I am + verb-ing.",
+      "explanation": "'Take off' is the phrasal verb for removing something worn, while 'take on' means to put on or to accept, and 'take over' means to gain control.",
       "difficulty": "6",
       "images": [],
       "tags": [],
@@ -279,36 +279,36 @@
     },
     {
       "id": "SV-ING-11-2026-W20-phrasal-verbs-001-MASTERY-bundle-v7",
-      "statement": "What does 'benevolent' mean?",
+      "statement": "Which sentence uses 'put off' correctly?",
       "context": "English class in Santa Ana, SV.",
       "options": [
         {
           "letter": "A",
-          "text": "Kind and generous",
+          "text": "We put off the meeting until Friday.",
           "is_correct": true,
-          "feedback": "Correct! 'Benevolent' means kind, charitable and willing to give help to others."
+          "feedback": "'Put off' means to postpone, so delaying the meeting until Friday is the correct use."
         },
         {
           "letter": "B",
-          "text": "Mean and cruel",
+          "text": "We put on the meeting until Friday.",
           "is_correct": false,
-          "feedback": "'Mean and cruel' is the opposite of benevolent, a word built from bene- for well and volens for wishing."
+          "feedback": "'Put on' means to dress or to present something, and it cannot postpone an event."
         },
         {
           "letter": "C",
-          "text": "Quick and fast",
+          "text": "We put out the meeting until Friday.",
           "is_correct": false,
-          "feedback": "'Quick and fast' describes speed, which says nothing about kindness or giving."
+          "feedback": "'Put out' means to extinguish something or to publish text, and it does not mean to postpone."
         },
         {
           "letter": "D",
-          "text": "Slow and lazy",
+          "text": "We put up the meeting until Friday.",
           "is_correct": false,
-          "feedback": "'Slow and lazy' describes someone's effort or pace, not their generosity towards other people."
+          "feedback": "'Put up' means to raise something or to display a notice, and it does not express a delay."
         }
       ],
       "correct_answer": "A",
-      "explanation": "'Benevolent' means kind, generous, or charitable.",
+      "explanation": "'Put off' is the phrasal verb for postponing, so a meeting delayed until Friday uses it; 'put on' and 'put up' carry other senses entirely.",
       "difficulty": "6",
       "images": [],
       "tags": [],
@@ -324,36 +324,36 @@
     },
     {
       "id": "SV-ING-11-2026-W20-phrasal-verbs-001-MASTERY-bundle-v8",
-      "statement": "Identify the main idea: 'The text describes how bees help pollinate flowers and produce honey.'",
+      "statement": "What does the phrasal verb 'run into' mean in the sentence 'I ran into an old friend at the market'?",
       "context": "English class in Santa Ana, SV.",
       "options": [
         {
-          "letter": "D",
-          "text": "Bees are important for pollination and honey",
-          "is_correct": true,
-          "feedback": "Correct! The text links bees to two jobs, pollinating flowers and producing honey, and that is its central idea."
-        },
-        {
           "letter": "A",
-          "text": "Bees are dangerous insects",
+          "text": "to collide",
           "is_correct": false,
-          "feedback": "The text never claims that bees are dangerous; it focuses on the useful work they do for flowering plants."
+          "feedback": "A collision is also possible with 'run into', but the object here is a person, so the sense is an encounter."
         },
         {
           "letter": "B",
-          "text": "Honey is the only product bees make",
+          "text": "to escape",
           "is_correct": false,
-          "feedback": "The word 'only' overstates the text, which mentions pollination as well as honey, so bees do more than make honey."
+          "feedback": "Escaping is 'get out of' or 'escape from', and neither verb is used with 'run'."
         },
         {
           "letter": "C",
-          "text": "Flowers don't need bees",
+          "text": "to depart",
           "is_correct": false,
-          "feedback": "The text says that bees pollinate flowers, so it presents flowering plants as depending on them."
+          "feedback": "Departing is 'run away from' or 'set off', and the sentence describes a meeting rather than a leaving."
+        },
+        {
+          "letter": "D",
+          "text": "to meet",
+          "is_correct": true,
+          "feedback": "'Run into' informally means to meet someone by chance, which is what happened at the market."
         }
       ],
       "correct_answer": "D",
-      "explanation": "The main idea summarizes the key points about bees: pollination and honey.",
+      "explanation": "'Run into' has two senses: a literal impact and, informally, an unexpected meeting with a person, as in the sentence about the market.",
       "difficulty": "6",
       "images": [],
       "tags": [],
@@ -369,36 +369,36 @@
     },
     {
       "id": "SV-ING-11-2026-W20-phrasal-verbs-001-MASTERY-bundle-v9",
-      "statement": "Which is the correct past form of 'go'?",
+      "statement": "What does the phrasal verb 'turn down' mean?",
       "context": "English class in San Salvador, SV.",
       "options": [
         {
-          "letter": "D",
-          "text": "went",
-          "is_correct": true,
-          "feedback": "Correct! 'Go' is an irregular verb, so its simple past is 'went' and not 'goed'."
-        },
-        {
           "letter": "A",
-          "text": "goed",
+          "text": "to reject",
           "is_correct": false,
-          "feedback": "'goed' only looks like the past of 'go' because of the German spelling; no English verb takes that form."
+          "feedback": "Rejecting is 'turn down' as well, but with a device object the verb means to reduce a level, not to refuse."
         },
         {
           "letter": "B",
-          "text": "gone",
+          "text": "to accept",
           "is_correct": false,
-          "feedback": "'gone' is the past participle used after 'have', as in 'has gone', and not the simple past."
+          "feedback": "Accepting is 'accept' or 'take on', and it is the opposite of the refusal sense of this verb."
         },
         {
           "letter": "C",
-          "text": "going",
+          "text": "to rotate",
           "is_correct": false,
-          "feedback": "'going' is the -ing form, which builds the present continuous rather than the simple past."
+          "feedback": "Rotating is 'turn over' or 'rotate', and it says nothing about reducing a level."
+        },
+        {
+          "letter": "D",
+          "text": "to reduce",
+          "is_correct": true,
+          "feedback": "'Turn down' reduces volume, heat or brightness, which is the sense used with a device."
         }
       ],
       "correct_answer": "D",
-      "explanation": "'Go' is an irregular verb: go → went (past simple).",
+      "explanation": "'Turn down' reduces a level such as volume, heat or brightness, while 'turn off' shuts the device down entirely and 'turn up' raises the level.",
       "difficulty": "6",
       "images": [],
       "tags": [],
@@ -414,36 +414,36 @@
     },
     {
       "id": "SV-ING-11-2026-W20-phrasal-verbs-001-MASTERY-bundle-v10",
-      "statement": "Which sentence uses the present simple correctly?",
+      "statement": "Complete the sentence: 'We had to ___ the meeting because the director was ill.'",
       "context": "English class in San Salvador, SV.",
       "options": [
         {
-          "letter": "D",
-          "text": "She goes to school every day.",
-          "is_correct": true,
-          "feedback": "Correct! In the present simple with 'she' the verb takes the -s ending, so 'goes' is the right form here."
-        },
-        {
           "letter": "A",
-          "text": "She go to school every day.",
+          "text": "call on",
           "is_correct": false,
-          "feedback": "With 'she' in the present simple the verb must carry the -s ending, so 'go' is not correct in this sentence."
+          "feedback": "'Call on' means to visit somebody briefly or to ask them to contribute, and it does not cancel a meeting."
         },
         {
           "letter": "B",
-          "text": "She going to school every day.",
+          "text": "call out",
           "is_correct": false,
-          "feedback": "This follows the present continuous pattern, which needs 'is' before 'going' rather than the present simple."
+          "feedback": "'Call out' means to shout or to summon somebody loudly, and it would not fit a cancellation."
         },
         {
           "letter": "C",
-          "text": "She gone to school every day.",
+          "text": "call in",
           "is_correct": false,
-          "feedback": "This mixes two forms, because 'gone' is a past participle and does not fit the present simple sentence."
+          "feedback": "'Call in' means to telephone the place where one works, and it says nothing about cancelling a meeting."
+        },
+        {
+          "letter": "D",
+          "text": "call off",
+          "is_correct": true,
+          "feedback": "'Call off' means to cancel a planned event, and an illness is a typical reason for cancelling a meeting."
         }
       ],
       "correct_answer": "D",
-      "explanation": "Present simple: subject + verb(-s for he/she/it).",
+      "explanation": "'Call off' is the phrasal verb that cancels a planned event, whereas 'call on' visits a person and 'call in' telephones one's workplace.",
       "difficulty": "6",
       "images": [],
       "tags": [],
@@ -459,36 +459,36 @@
     },
     {
       "id": "SV-ING-11-2026-W20-phrasal-verbs-001-MASTERY-bundle-v11",
-      "statement": "Choose the correct option: 'I ___ reading a book right now.'",
+      "statement": "A classmate says: 'I need to ___ my homework; the teacher wants it tomorrow.' Which phrasal verb completes the sentence?",
       "context": "English class in San Miguel, SV.",
       "options": [
         {
-          "letter": "C",
-          "text": "am",
-          "is_correct": true,
-          "feedback": "Correct! With the subject 'I', the present continuous is built with 'am' followed by the -ing form."
-        },
-        {
           "letter": "A",
-          "text": "is",
+          "text": "hand out",
           "is_correct": false,
-          "feedback": "'is' goes with he, she, it and singular nouns, but the subject here is 'I', which takes 'am'."
+          "feedback": "'Hand out' means to distribute something to others, and it reverses the direction of the action."
         },
         {
           "letter": "B",
-          "text": "are",
+          "text": "hand over",
           "is_correct": false,
-          "feedback": "'are' goes with you, we and they, while 'I' is the first person singular and takes 'am'."
+          "feedback": "'Hand over' means to transfer control or possession, which is not what a student does with an essay."
+        },
+        {
+          "letter": "C",
+          "text": "hand in",
+          "is_correct": true,
+          "feedback": "'Hand in' is the phrasal verb for submitting work, and the teacher's request gives the deadline."
         },
         {
           "letter": "D",
-          "text": "be",
+          "text": "hand back",
           "is_correct": false,
-          "feedback": "'be' is the bare infinitive used in the dictionary form; the present continuous needs the auxiliary 'am' before 'reading'."
+          "feedback": "'Hand back' means to return something that was borrowed, and the teacher wants new work rather than a return."
         }
       ],
       "correct_answer": "C",
-      "explanation": "Present continuous: I am + verb-ing.",
+      "explanation": "'Hand in' means to submit an assignment, while 'hand out' distributes something to others, 'hand over' transfers control, and 'hand back' returns a borrowed item.",
       "difficulty": "8",
       "images": [],
       "tags": [],
@@ -504,36 +504,36 @@
     },
     {
       "id": "SV-ING-11-2026-W20-phrasal-verbs-001-MASTERY-bundle-v12",
-      "statement": "What does 'benevolent' mean?",
+      "statement": "What does the phrasal verb 'give up' mean?",
       "context": "English class in Mejicanos, SV.",
       "options": [
         {
-          "letter": "B",
-          "text": "Kind and generous",
-          "is_correct": true,
-          "feedback": "Correct! 'Benevolent' means kind, charitable and willing to give help to others."
+          "letter": "A",
+          "text": "to hand over",
+          "is_correct": false,
+          "feedback": "Handing something over is 'give' on its own or 'hand over', and it does not mean to stop trying."
         },
         {
-          "letter": "A",
-          "text": "Mean and cruel",
-          "is_correct": false,
-          "feedback": "'Mean and cruel' is the opposite of benevolent, a word built from bene- for well and volens for wishing."
+          "letter": "B",
+          "text": "to stop trying",
+          "is_correct": true,
+          "feedback": "'Give up' means to abandon an attempt, which is the sense of stopping before finishing."
         },
         {
           "letter": "C",
-          "text": "Quick and fast",
+          "text": "to explain",
           "is_correct": false,
-          "feedback": "'Quick and fast' describes speed, which says nothing about kindness or giving."
+          "feedback": "Explaining is 'give an account of' or 'explain', and it is not the meaning of this verb."
         },
         {
           "letter": "D",
-          "text": "Slow and lazy",
+          "text": "to repeat",
           "is_correct": false,
-          "feedback": "'Slow and lazy' describes someone's effort or pace, not their generosity towards other people."
+          "feedback": "Repeating is 'say again' or 'repeat', and it does not express abandoning an effort."
         }
       ],
       "correct_answer": "B",
-      "explanation": "'Benevolent' means kind, generous, or charitable.",
+      "explanation": "'Give up' means to abandon an activity or an attempt; the verb 'give' alone transfers something to somebody else, which is a different sense.",
       "difficulty": "8",
       "images": [],
       "tags": [],
@@ -549,36 +549,36 @@
     },
     {
       "id": "SV-ING-11-2026-W20-phrasal-verbs-001-MASTERY-bundle-v13",
-      "statement": "Identify the main idea: 'The text describes how bees help pollinate flowers and produce honey.'",
+      "statement": "A student writes: 'I always look forward ___ the summer holidays.' Which preposition is correct?",
       "context": "English class in Soyapango, SV.",
       "options": [
         {
-          "letter": "B",
-          "text": "Bees are important for pollination and honey",
-          "is_correct": true,
-          "feedback": "Correct! The text links bees to two jobs, pollinating flowers and producing honey, and that is its central idea."
+          "letter": "A",
+          "text": "at",
+          "is_correct": false,
+          "feedback": "'Look forward' is followed by the preposition 'to', and 'at' belongs to the separate phrase 'look at'."
         },
         {
-          "letter": "A",
-          "text": "Bees are dangerous insects",
-          "is_correct": false,
-          "feedback": "The text never claims that bees are dangerous; it focuses on the useful work they do for flowering plants."
+          "letter": "B",
+          "text": "to",
+          "is_correct": true,
+          "feedback": "The expression 'look forward' takes the preposition 'to' before its noun, so 'to the summer holidays' is the standard form."
         },
         {
           "letter": "C",
-          "text": "Honey is the only product bees make",
+          "text": "for",
           "is_correct": false,
-          "feedback": "The word 'only' overstates the text, which mentions pollination as well as honey, so bees do more than make honey."
+          "feedback": "'For' introduces a duration or a reason, and the fixed expression 'look forward' does not take it."
         },
         {
           "letter": "D",
-          "text": "Flowers don't need bees",
+          "text": "on",
           "is_correct": false,
-          "feedback": "The text says that bees pollinate flowers, so it presents flowering plants as depending on them."
+          "feedback": "'On' marks a surface or a day, and it cannot follow 'look forward' in this expression."
         }
       ],
       "correct_answer": "B",
-      "explanation": "The main idea summarizes the key points about bees: pollination and honey.",
+      "explanation": "The expression 'look forward to' is followed by the preposition 'to' plus a noun or a gerund, as in 'I look forward to meeting you'.",
       "difficulty": "8",
       "images": [],
       "tags": [],
@@ -594,36 +594,36 @@
     },
     {
       "id": "SV-ING-11-2026-W20-phrasal-verbs-001-MASTERY-bundle-v14",
-      "statement": "Which is the correct past form of 'go'?",
+      "statement": "Which phrasal verb means to move a meeting to a later time?",
       "context": "English class in Soyapango, SV.",
       "options": [
         {
-          "letter": "D",
-          "text": "went",
-          "is_correct": true,
-          "feedback": "Correct! 'Go' is an irregular verb, so its simple past is 'went' and not 'goed'."
-        },
-        {
           "letter": "A",
-          "text": "goed",
+          "text": "put up",
           "is_correct": false,
-          "feedback": "'goed' only looks like the past of 'go' because of the German spelling; no English verb takes that form."
+          "feedback": "'Put up' means to raise something or to display a notice, and it does not postpone an event."
         },
         {
           "letter": "B",
-          "text": "gone",
+          "text": "put out",
           "is_correct": false,
-          "feedback": "'gone' is the past participle used after 'have', as in 'has gone', and not the simple past."
+          "feedback": "'Put out' means to extinguish a fire or to publish text, and it is not about delaying a meeting."
         },
         {
           "letter": "C",
-          "text": "going",
+          "text": "put through",
           "is_correct": false,
-          "feedback": "'going' is the -ing form, which builds the present continuous rather than the simple past."
+          "feedback": "'Put through' means to connect a call or to make someone endure something, and it does not move a meeting."
+        },
+        {
+          "letter": "D",
+          "text": "put off",
+          "is_correct": true,
+          "feedback": "'Put off' means to postpone, so it is the verb that moves a meeting to a later time."
         }
       ],
       "correct_answer": "D",
-      "explanation": "'Go' is an irregular verb: go → went (past simple).",
+      "explanation": "'Put off' means to postpone, while 'put up' raises something, 'put out' extinguishes or publishes, and 'put through' connects a call or tests somebody's patience.",
       "difficulty": "8",
       "images": [],
       "tags": [],
@@ -639,36 +639,36 @@
     },
     {
       "id": "SV-ING-11-2026-W20-phrasal-verbs-001-MASTERY-bundle-v15",
-      "statement": "Which sentence uses the present simple correctly?",
+      "statement": "Complete the sentence: 'The battery died, so I could not ___ the call to my mother.'",
       "context": "English class in San Miguel, SV.",
       "options": [
         {
-          "letter": "D",
-          "text": "She goes to school every day.",
-          "is_correct": true,
-          "feedback": "Correct! In the present simple with 'she' the verb takes the -s ending, so 'goes' is the right form here."
-        },
-        {
           "letter": "A",
-          "text": "She go to school every day.",
+          "text": "carry on",
           "is_correct": false,
-          "feedback": "With 'she' in the present simple the verb must carry the -s ending, so 'go' is not correct in this sentence."
+          "feedback": "'Carry on' means to continue, and there was no ongoing call to continue in this situation."
         },
         {
           "letter": "B",
-          "text": "She going to school every day.",
+          "text": "hold on",
           "is_correct": false,
-          "feedback": "This follows the present continuous pattern, which needs 'is' before 'going' rather than the present simple."
+          "feedback": "'Hold on' means to wait, and the problem here is a call that could not be made."
         },
         {
           "letter": "C",
-          "text": "She gone to school every day.",
+          "text": "get on",
           "is_correct": false,
-          "feedback": "This mixes two forms, because 'gone' is a past participle and does not fit the present simple sentence."
+          "feedback": "'Get on' means to board or to manage, and it does not describe making a telephone call."
+        },
+        {
+          "letter": "D",
+          "text": "get through",
+          "is_correct": true,
+          "feedback": "'Get through' means to complete a call or reach a destination, and a dead battery prevents it."
         }
       ],
       "correct_answer": "D",
-      "explanation": "Present simple: subject + verb(-s for he/she/it).",
+      "explanation": "'Get through' means to finish a call or to reach a place, so a dead battery stops the call; 'hold on' only means to wait.",
       "difficulty": "8",
       "images": [],
       "tags": [],
@@ -684,36 +684,36 @@
     },
     {
       "id": "SV-ING-11-2026-W20-phrasal-verbs-001-MASTERY-bundle-v16",
-      "statement": "Choose the correct option: 'I ___ reading a book right now.'",
+      "statement": "Which sentence uses 'look after' correctly?",
       "context": "English class in San Miguel, SV.",
       "options": [
         {
           "letter": "A",
-          "text": "am",
+          "text": "My aunt looks after my cat while we travel.",
           "is_correct": true,
-          "feedback": "Correct! With the subject 'I', the present continuous is built with 'am' followed by the -ing form."
+          "feedback": "'Look after' means to take care of somebody or something, and a pet is exactly what is being cared for."
         },
         {
           "letter": "B",
-          "text": "is",
+          "text": "My aunt looks for my cat while we travel.",
           "is_correct": false,
-          "feedback": "'is' goes with he, she, it and singular nouns, but the subject here is 'I', which takes 'am'."
+          "feedback": "'Look for' means to search for something, and a neighbour caring for a pet does not search for it."
         },
         {
           "letter": "C",
-          "text": "are",
+          "text": "My aunt looks up my cat while we travel.",
           "is_correct": false,
-          "feedback": "'are' goes with you, we and they, while 'I' is the first person singular and takes 'am'."
+          "feedback": "'Look up' means to search for information, and it does not describe looking after a living animal."
         },
         {
           "letter": "D",
-          "text": "be",
+          "text": "My aunt looks into my cat while we travel.",
           "is_correct": false,
-          "feedback": "'be' is the bare infinitive used in the dictionary form; the present continuous needs the auxiliary 'am' before 'reading'."
+          "feedback": "'Look into' means to investigate a matter, and that sense does not apply to caring for a pet."
         }
       ],
       "correct_answer": "A",
-      "explanation": "Present continuous: I am + verb-ing.",
+      "explanation": "'Look after' covers care and supervision, so a neighbour caring for a pet uses it, whereas 'look for' searches, 'look up' finds information, and 'look into' investigates.",
       "difficulty": "8",
       "images": [],
       "tags": [],
@@ -729,36 +729,36 @@
     },
     {
       "id": "SV-ING-11-2026-W20-phrasal-verbs-001-MASTERY-bundle-v17",
-      "statement": "What does 'benevolent' mean?",
+      "statement": "A classmate says: 'Could you ___ my request to the director? She needs to know about it.' Which phrasal verb completes the sentence?",
       "context": "English class in Santa Ana, SV.",
       "options": [
         {
-          "letter": "D",
-          "text": "Kind and generous",
-          "is_correct": true,
-          "feedback": "Correct! 'Benevolent' means kind, charitable and willing to give help to others."
-        },
-        {
           "letter": "A",
-          "text": "Mean and cruel",
-          "is_correct": false,
-          "feedback": "'Mean and cruel' is the opposite of benevolent, a word built from bene- for well and volens for wishing."
+          "text": "pass on",
+          "is_correct": true,
+          "feedback": "'Pass on' means to give a message to somebody else, which is what relaying a request requires."
         },
         {
           "letter": "B",
-          "text": "Quick and fast",
+          "text": "pass away",
           "is_correct": false,
-          "feedback": "'Quick and fast' describes speed, which says nothing about kindness or giving."
+          "feedback": "'Pass away' is the polite verb used when somebody dies, and it has nothing to do with a request."
         },
         {
           "letter": "C",
-          "text": "Slow and lazy",
+          "text": "pass out",
           "is_correct": false,
-          "feedback": "'Slow and lazy' describes someone's effort or pace, not their generosity towards other people."
+          "feedback": "'Pass out' means to lose consciousness or to distribute something, and neither sense relays a message."
+        },
+        {
+          "letter": "D",
+          "text": "pass by",
+          "is_correct": false,
+          "feedback": "'Pass by' means to go past a place, and it does not mean to deliver a message to a person."
         }
       ],
-      "correct_answer": "D",
-      "explanation": "'Benevolent' means kind, generous, or charitable.",
+      "correct_answer": "A",
+      "explanation": "'Pass on' means to relay a message to somebody else, while 'pass by' goes past, 'pass out' loses consciousness, and 'pass away' is the polite verb for dying.",
       "difficulty": "10",
       "images": [],
       "tags": [],
@@ -774,36 +774,36 @@
     },
     {
       "id": "SV-ING-11-2026-W20-phrasal-verbs-001-MASTERY-bundle-v18",
-      "statement": "Identify the main idea: 'The text describes how bees help pollinate flowers and produce honey.'",
+      "statement": "A student writes: 'I ___ a good book about volcanoes in the library today.' What does the phrasal verb mean here?",
       "context": "English class in Mejicanos, SV.",
       "options": [
         {
-          "letter": "C",
-          "text": "Bees are important for pollination and honey",
-          "is_correct": true,
-          "feedback": "Correct! The text links bees to two jobs, pollinating flowers and producing honey, and that is its central idea."
-        },
-        {
           "letter": "A",
-          "text": "Bees are dangerous insects",
+          "text": "to cross",
           "is_correct": false,
-          "feedback": "The text never claims that bees are dangerous; it focuses on the useful work they do for flowering plants."
+          "feedback": "Crossing is 'cross' on its own or 'walk across', and it does not describe finding a book by chance."
         },
         {
           "letter": "B",
-          "text": "Honey is the only product bees make",
+          "text": "to climb",
           "is_correct": false,
-          "feedback": "The word 'only' overstates the text, which mentions pollination as well as honey, so bees do more than make honey."
+          "feedback": "Climbing is 'climb up' or 'climb over', and the sentence is about discovering a book, not scaling anything."
+        },
+        {
+          "letter": "C",
+          "text": "to find by chance",
+          "is_correct": true,
+          "feedback": "'Come across' informally means to find something by chance, which is how the book was discovered."
         },
         {
           "letter": "D",
-          "text": "Flowers don't need bees",
+          "text": "to avoid",
           "is_correct": false,
-          "feedback": "The text says that bees pollinate flowers, so it presents flowering plants as depending on them."
+          "feedback": "Avoiding is 'stay away from' or 'avoid', and the student found the book rather than dodging it."
         }
       ],
       "correct_answer": "C",
-      "explanation": "The main idea summarizes the key points about bees: pollination and honey.",
+      "explanation": "'Come across' is the phrasal verb for finding something by chance, while 'come up with' means to invent an idea and 'come into' describes meeting or inheriting.",
       "difficulty": "10",
       "images": [],
       "tags": [],
@@ -819,36 +819,36 @@
     },
     {
       "id": "SV-ING-11-2026-W20-phrasal-verbs-001-MASTERY-bundle-v19",
-      "statement": "Which is the correct past form of 'go'?",
+      "statement": "A classmate says: 'Could you ___ the music a little? It is too loud.' Which phrasal verb completes the request?",
       "context": "English class in San Salvador, SV.",
       "options": [
         {
-          "letter": "D",
-          "text": "went",
-          "is_correct": true,
-          "feedback": "Correct! 'Go' is an irregular verb, so its simple past is 'went' and not 'goed'."
-        },
-        {
           "letter": "A",
-          "text": "goed",
+          "text": "turn up",
           "is_correct": false,
-          "feedback": "'goed' only looks like the past of 'go' because of the German spelling; no English verb takes that form."
+          "feedback": "'Turn up' raises a volume, and the classmate wants the opposite effect because the music is too loud."
         },
         {
           "letter": "B",
-          "text": "gone",
-          "is_correct": false,
-          "feedback": "'gone' is the past participle used after 'have', as in 'has gone', and not the simple past."
+          "text": "turn down",
+          "is_correct": true,
+          "feedback": "'Turn down' reduces a level such as volume, which is exactly what a too-loud song requires."
         },
         {
           "letter": "C",
-          "text": "going",
+          "text": "turn off",
           "is_correct": false,
-          "feedback": "'going' is the -ing form, which builds the present continuous rather than the simple past."
+          "feedback": "'Turn off' switches the device off entirely, and the request is only to lower the level, not to silence it."
+        },
+        {
+          "letter": "D",
+          "text": "turn in",
+          "is_correct": false,
+          "feedback": "'Turn in' means to hand something in, and it says nothing about the volume of a device."
         }
       ],
-      "correct_answer": "D",
-      "explanation": "'Go' is an irregular verb: go → went (past simple).",
+      "correct_answer": "B",
+      "explanation": "'Turn down' reduces volume, heat or brightness, while 'turn up' raises the level and 'turn off' shuts the device down entirely.",
       "difficulty": "10",
       "images": [],
       "tags": [],
@@ -864,36 +864,36 @@
     },
     {
       "id": "SV-ING-11-2026-W20-phrasal-verbs-001-MASTERY-bundle-v20",
-      "statement": "Which sentence uses the present simple correctly?",
+      "statement": "A classmate says: 'We ___ milk, so I went to the corner shop.' Which phrasal verb completes the sentence?",
       "context": "English class in Santa Ana, SV.",
       "options": [
         {
-          "letter": "C",
-          "text": "She goes to school every day.",
-          "is_correct": true,
-          "feedback": "Correct! In the present simple with 'she' the verb takes the -s ending, so 'goes' is the right form here."
-        },
-        {
           "letter": "A",
-          "text": "She go to school every day.",
+          "text": "ran away",
           "is_correct": false,
-          "feedback": "With 'she' in the present simple the verb must carry the -s ending, so 'go' is not correct in this sentence."
+          "feedback": "'Run away' means to escape or to leave quickly, and it says nothing about a supply being used up."
         },
         {
           "letter": "B",
-          "text": "She going to school every day.",
+          "text": "ran over",
           "is_correct": false,
-          "feedback": "This follows the present continuous pattern, which needs 'is' before 'going' rather than the present simple."
+          "feedback": "'Run over' means to drive across something or to strike it with a vehicle, and it does not fit a shopping sentence."
+        },
+        {
+          "letter": "C",
+          "text": "ran out of",
+          "is_correct": true,
+          "feedback": "'Run out of' means to use up a supply completely, and buying milk shows the supply is finished."
         },
         {
           "letter": "D",
-          "text": "She gone to school every day.",
+          "text": "ran into",
           "is_correct": false,
-          "feedback": "This mixes two forms, because 'gone' is a past participle and does not fit the present simple sentence."
+          "feedback": "'Run into' means to meet somebody by chance or to collide, and neither sense explains going to buy milk."
         }
       ],
       "correct_answer": "C",
-      "explanation": "Present simple: subject + verb(-s for he/she/it).",
+      "explanation": "'Run out of' means to use up a supply, so the shopper goes for more; 'run into' means to meet somebody and 'run away' means to flee.",
       "difficulty": "10",
       "images": [],
       "tags": [],

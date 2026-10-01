@@ -1,0 +1,563 @@
+{
+  "metadata": {
+    "grade": 9,
+    "subject": "sociales_ciudadanas",
+    "country": "co",
+    "pack_id": "co-week-14-grade-9-subject-sociales_ciudadanas",
+    "generated_at": "2026-10-01T22:21:46.601Z"
+  },
+  "questions": [
+    {
+      "id": "CO-SOC-9-2026-W14-tribunales-ordinarios-y-justicia-001-MASTERY-bundle-v1",
+      "statement": "Que son los tribunales ordinarios?",
+      "context": "En un colegio de Neiva, el profesor de Sociales Ciudadanas explica que la justicia en Colombia la aplican varios tipos de juez según el asunto.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Son los organismos que imponen multas a loshogares que incumplen la ley, como las autoridades ambientales.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las autoridades ambientales pueden imponer multas, pero los tribunales ordinarios resuelven controversias y aplican pruebas."
+        },
+        {
+          "letter": "B",
+          "text": "Son los organismos del ramo judicial que resuelven controversias entre partes y juzgan conductas que la ley tipifica como infracciones o delitos.",
+          "is_correct": true,
+          "feedback": "Correcto. Los tribunales ordinarios administran justicia: investigan hechos, valoran pruebas y dictan sentencias conforme a la ley."
+        },
+        {
+          "letter": "C",
+          "text": "Son las asambleas distritales que expiden normas sobre la convivencia en los barrios.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Expedir normas corresponde al Congreso o a la asamblea distrital, y no a los tribunales."
+        },
+        {
+          "letter": "D",
+          "text": "Son los comites de conciliacion que median conflictos entre vecinos sin llegar a sentencia.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los comites de conciliacion resuelven por acuerdo, pero no son tribunales y no dictan sentencias."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Los tribunales ordinarios son la via institucional para resolver conflictos y aplicar la ley. Administrar justicia significa que el Estado ofrece una respuesta formal a partir de normas, pruebas y debido proceso, y no de la fuerza. Entender que la justicia es una funcion pública y no un castigo permite explicar con precision la diferencia entre una infraccion administrativa y un delito. Es el punto de partida para comprender la estructura de la rama judicial en Colombia.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Ciudadano",
+      "expected_success": 0.9,
+      "bundle_id": "CO-SOC-9-2026-W14-tribunales-ordinarios-y-justicia-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales_ciudadanas",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-9-2026-W14-tribunales-ordinarios-y-justicia-001-MASTERY-bundle-v2",
+      "statement": "Que garantiza el principio de contradiccion en un proceso judicial?",
+      "context": "Una abogada que asesora a estudiantes de Villavicencio explica por que un caso no puede resolverse si no se respeta la contradiccion.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que el proceso se resuelva en el menor tiempo posible, aunque con información incompleta.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La rapidez no es el objetivo de la contradiccion: lo que se protege es que las partes puedan responder a lo que se les imputa."
+        },
+        {
+          "letter": "B",
+          "text": "Que el juez tenga la facultad de decidir sin consultar documentos, para mantener la celeridad del expediente.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El juez dirige el proceso, pero decide con base en lo que las partes aportan y demuestran."
+        },
+        {
+          "letter": "C",
+          "text": "Que las partes puedan conocer y refutar lo que la otra parte afirma, y que la decision no se tomara a sus espaldas.",
+          "is_correct": true,
+          "feedback": "Correcto. La contradiccion exige que nadie sea condenado sin derecho a saber lo que se le imputa y a responder por ello."
+        },
+        {
+          "letter": "D",
+          "text": "Que el proceso se adelante en privado, de modo que la opinion pública no interfiera con la decision.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La publicidad del proceso es otro principio; la contradiccion protege a las partes, no el secreto."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El debido proceso se sostiene en principios que tienen rango constitucional. La contradiccion exige que la persona sepa lo que se le atribuye y pueda responder con pruebas y argumentos. Sin ella, la sentencia seria arbitraria porque nadie habria podido defenderse. Comprender estos principios permite seguir con rigor cualquier expediente judicial y detectar cuando se vulnera el acceso a la justicia.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Ciudadano",
+      "expected_success": 0.88,
+      "bundle_id": "CO-SOC-9-2026-W14-tribunales-ordinarios-y-justicia-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales_ciudadanas",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-9-2026-W14-tribunales-ordinarios-y-justicia-001-MASTERY-bundle-v3",
+      "statement": "Ante que instancia judicial puede acudir para exigir la prestacion del servicio de salud que le fue negada?",
+      "context": "Un estudiante de noveno grado de Cartagena lleva tres meses sin que la entidad prestadora de salud entregue los examenes que le ordenaron para continuar su tratamiento.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Ante un juez civil comercial, porque todo reclamo ante una entidad prestadora es de naturaleza patrimonial.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El juez civil comercial resuelve disputas economicas, mientras que aqui se discute el acceso al servicio de salud."
+        },
+        {
+          "letter": "B",
+          "text": "Ante un juez de familia, porque la salud del estudiante depende de su nucleus familiar.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El juez de familia conoce de procesos de familia y de menores, y no de la prestacion de servicios de salud."
+        },
+        {
+          "letter": "C",
+          "text": "Ante un juez mixto de pequeno fuero, porque los claims de salud son de menor cuantia.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El juez mixto de pequeno fuero tiene competencias propias y distintas, y no resuelve el acceso a la salud."
+        },
+        {
+          "letter": "D",
+          "text": "Ante un juez de conocimiento, que es la primera instancia y aplica la norma al caso con base en pruebas.",
+          "is_correct": true,
+          "feedback": "Correcto. El juez de primera instancia, llamado juez de conocimiento, es la puerta de entrada del proceso y aplica la ley a los hechos."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Saber a que instancia corresponde un caso es la aplicacion más basica de la organización judicial. El juez de primera instancia o de conocimiento es la puerta de entrada del proceso. El juez civil comercial maneja disputas patrimoniales, y el juez de familia, procesos de familia y menores. Identificar la instancia correcta evita que un caso se presente ante la autoridad incompetente.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Ciudadano",
+      "expected_success": 0.85,
+      "bundle_id": "CO-SOC-9-2026-W14-tribunales-ordinarios-y-justicia-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales_ciudadanas",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-9-2026-W14-tribunales-ordinarios-y-justicia-001-MASTERY-bundle-v4",
+      "statement": "Que institución aplica la ley en un proceso como el descrito?",
+      "context": "En un municipio de Boyaca, un menor de 17 anos fue notificado de un proceso en el que se le atribuye no cumplir una medida de protección impuesta por un juez de familia.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Un juez civil comercial, porque el proceso se origina en una relacion economica previa.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El juez civil comercial resuelve disputas economicas, y no aplica la ley a un menor en un proceso de familia."
+        },
+        {
+          "letter": "B",
+          "text": "Un juez de familia, porque el proceso se refiere a la situacion de un menor de edad.",
+          "is_correct": true,
+          "feedback": "Correcto. El juez de familia es el competente en procesos que involucran a menores, y aplica la ley de menores y de familia."
+        },
+        {
+          "letter": "C",
+          "text": "Un juez laboral, porque la medida de proteccion se dicto dentro de una relacion de trabajo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Un juez laboral conoce de controversias entre empleador y trabajador, y no de menores en procesos de familia."
+        },
+        {
+          "letter": "D",
+          "text": "Un juez mixto de pequeno fuero, porque el proceso es de un municipio pequeno.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El tamano del municipio no define la competencia del juez, y el juez mixto tiene competencias propias."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La competencia del juez se define por la materia del asunto y por las personas involucradas, no por el lugar ni por el tamano del municipio. Cuando el proceso corresponde a un menor de edad, la via institucional es el juez de familia. Conocer esta distribucion evita presentar un caso ante la autoridad que no tiene competencia. Es la diferencia entre un proceso que involucra a menores y los que tratan solo relaciones economicas o laborales.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Ciudadano",
+      "expected_success": 0.82,
+      "bundle_id": "CO-SOC-9-2026-W14-tribunales-ordinarios-y-justicia-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales_ciudadanas",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-9-2026-W14-tribunales-ordinarios-y-justicia-001-MASTERY-bundle-v5",
+      "statement": "Que caracteristica essencial tiene la sentencia que dicta un juez de primera instancia en un juicio penal ordinario?",
+      "context": "Un abogado penalista de Pereira explica a la familia de un procesado las etapas que se adelantan antes de dictar sentencia.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que el juez tenga la facultad de decidir sin pruebas, porque su criterio basta para resolver el caso.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El juez dirige el proceso y aplica la ley, pero su decisión siempre debe basarse en pruebas traidas al expediente."
+        },
+        {
+          "letter": "B",
+          "text": "Que la sentencia se dicte sin audiencia, para proteger la vida privada del acusado.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La audiencia es una garantia del debido proceso, y omitirla vulnera el derecho a defenderse."
+        },
+        {
+          "letter": "C",
+          "text": "Que condene solo cuando las pruebas superen toda duda razonable, porque se aplica la presuncion de inocencia.",
+          "is_correct": true,
+          "feedback": "Correcto. La presuncion de inocencia exige que la culpa se demuestre, y no basta la sospecha ni los simples indicios."
+        },
+        {
+          "letter": "D",
+          "text": "Que se dicte en un termino fijo marcado por la ley, sin importar si las partes presentaron pruebas suficientes.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los terminos organizan el proceso, pero la sentencia no puede emitirse sin pruebas que sostengan la decisión."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La presuncion de inocencia es uno de los pilares del debido proceso penal. Significa que toda persona se considera inocente hasta que un juez, con pruebas que superen toda duda razonable, la declara responsable. Ningun termino, presion social ni atajo probatorio puede sustituir ese analisis. Conocer esta garantia permite evaluar criticamente cualquier caso en que se condene sin pruebas suficientes.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Ciudadano",
+      "expected_success": 0.8,
+      "bundle_id": "CO-SOC-9-2026-W14-tribunales-ordinarios-y-justicia-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales_ciudadanas",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-9-2026-W14-tribunales-ordinarios-y-justicia-001-MASTERY-bundle-v6",
+      "statement": "Cual es la razon principal de la segunda instancia en el proceso judicial?",
+      "context": "Un juez explica a un auxiliar por que la sentencia de primera instancia puede ser revisada por un tribunal superior.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Simplificar el expediente y evitar la participacion de los abogados de las partes.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La segunda instancia no elimina profesionales, y por el contrario suele requerir la apelacion de las partes."
+        },
+        {
+          "letter": "B",
+          "text": "Corregir los errores de hecho o de derecho en que pudo haber recaido la sentencia de primera instancia.",
+          "is_correct": true,
+          "feedback": "Correcto. El recurso de apelacion permite revisar la sentencia y corregir errores de hecho o de derecho."
+        },
+        {
+          "letter": "C",
+          "text": "Reducir el tiempo de la investigacion penal que se adelanta antes del juicio.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La apelacion es posterior a la sentencia de primera instancia, y no tiene como objeto la investigacion inicial."
+        },
+        {
+          "letter": "D",
+          "text": "Aplicar criterios economicos nuevos a cualquier caso similar que llegue despues.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La segunda instancia revisa el mismo proceso yaFallido, y no genera criterios economicos nuevos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La segunda instancia es un mecanismo de control entre jueces dentro del mismo poder judicial. Permite que una sentencia de primera instancia sea revisada por un tribunal superior, lo que reduce el riesgo de errores graves. El recurso de apelacion puede atacar hechos mal probados o normas mal aplicadas. Comprender este mecanismo explica por que un proceso no queda necesariamente definitivo con la primera sentencia.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Ciudadano",
+      "expected_success": 0.75,
+      "bundle_id": "CO-SOC-9-2026-W14-tribunales-ordinarios-y-justicia-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales_ciudadanas",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-9-2026-W14-tribunales-ordinarios-y-justicia-001-MASTERY-bundle-v7",
+      "statement": "Por que la conciliacion previa es obligatoria en muchos asuntos laborales antes de demandar?",
+      "context": "Un abogado laboral de Medellin explica que la conciliacion previa evito que muchas disputas llegaran a los tribunales.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque la ley obliga a intentar un acuerdo directo entre las partes, y solo si fracasa se puede acudir al juez.",
+          "is_correct": true,
+          "feedback": "Correcto. La conciliacion previa es un requisito de procedibilidad, y su fracaso habilita la demanda judicial."
+        },
+        {
+          "letter": "B",
+          "text": "Porque el proceso judicial se vuelve imposible si no hubo conciliacion previa, y la ley prohibe esa via.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La conciliacion previa es un requisito, pero su ausencia no vuelve imposible el proceso, sino que habilita una excepcion."
+        },
+        {
+          "letter": "C",
+          "text": "Porque en la conciliacion el juez ya dicta la sentencia, y el juicio posterior solo ratifica.",
+          "is_correct": false,
+          "feedback": "Incorrecto. En la conciliacion las partes acuerdan, pero no hay sentencia: el juez no dicta fallo en ese escenario."
+        },
+        {
+          "letter": "D",
+          "text": "Porque las sentencias de los tribunales laborales no son validas si no hubo conciliacion previa.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Una sentencia sigue siendo valida despues de un acuerdo, porque la conciliacion busca evitar la sentencia."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La conciliacion previa es un mecanismo de acceso a la justicia que busca acuerdo en lugar de sentencia. La ley exige intentar ese acuerdo antes de demandar, y su fracaso abre la puerta al proceso. Favorece la conciliacion entre las partes y la rapidez de las respuestas judiciales. Comprender su lógica ayuda a entender por que muchos conflictos laborales se resuelven sin llegar al archivo.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Trabajo y economía",
+      "expected_success": 0.72,
+      "bundle_id": "CO-SOC-9-2026-W14-tribunales-ordinarios-y-justicia-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales_ciudadanas",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-9-2026-W14-tribunales-ordinarios-y-justicia-001-MASTERY-bundle-v8",
+      "statement": "Por que no basta con que la sentencia parezca justa si se emite despues de un proceso viciado?",
+      "context": "Una testigo observa que un tribunal dicto sentencia sin permitir a una de las partes conocer los documentos del otro.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque un proceso viciado produce siempre una sentencia injusta, y por eso el contenido no importa.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Un proceso viciado compromete la legitimidad del resultado, con independencia de que el contenido parezca justo."
+        },
+        {
+          "letter": "B",
+          "text": "Porque la sentencia solo vale cuando se dicta en un juicio oral, y el proceso escrito no tiene validez.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Colombia adopto la oralidad en el proceso penal, pero la segunda instancia y muchas materias siguen siendo escritas."
+        },
+        {
+          "letter": "C",
+          "text": "Porque la legitimidad de la decision depende de que el procedimiento haya respetado los derechos de las partes.",
+          "is_correct": true,
+          "feedback": "Correcto. Una sentencia legitima se apoya en un procedimiento justo, y el vicio de forma compromete cada paso posterior."
+        },
+        {
+          "letter": "D",
+          "text": "Porque el vicio de forma siempre obliga a repetir el expediente completo desde el principio.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Dependiendo del vicio, puede bastar con repetir una actuacion, y no necesariamente todo el expediente."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La justicia no se mide solo por el resultado, sino por el camino que lleva a el. Si el procedimiento vicio un derecho de las partes, la sentencia pierde legitimidad aunque su contenido parezca correcto. La seguridad jurídica exige que el proceso sea limpio y que los vicios se corrijan. Es la misma lógica que sustenta la regla de exclusion de pruebas obtenidas de forma ilegal.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Reflexión ética y política",
+      "expected_success": 0.7,
+      "bundle_id": "CO-SOC-9-2026-W14-tribunales-ordinarios-y-justicia-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales_ciudadanas",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-9-2026-W14-tribunales-ordinarios-y-justicia-001-MASTERY-bundle-v9",
+      "statement": "Cual es la diferencia esencial entre un juez y un sistema de inteligencia artificial aplicado a la justicia?",
+      "context": "Una discusion de grado noveno en Cartagena compara el papel de un juez con el de un sistema de inteligencia artificial que ordena expedientes.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El juez imparte justicia y el sistema aplica mecanicamente las normas sin intervencion humana.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Un sistema computacional ordena y clasifica información, pero no imparte justicia ni evalua responsabilidades."
+        },
+        {
+          "letter": "B",
+          "text": "El juez aplica la ley a un caso concreto con pruebas y responde por su decision, y el sistema solo ordena información.",
+          "is_correct": true,
+          "feedback": "Correcto. La diferencia es esencial: uno resuelve un caso individual con pruebas, y el otro organiza datos sin decidir sobre personas."
+        },
+        {
+          "letter": "C",
+          "text": "El juez decide con base en tecnica, y el sistema informatico decide con base en derecho.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es exactamente al reves: el juez decide con base en pruebas y derecho, y el sistema funciona con tecnica."
+        },
+        {
+          "letter": "D",
+          "text": "Ambos resuelven casos individuales, y solo se diferencian en la rapidez con que lo hacen.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No es una diferencia de velocidad, sino de naturaleza: uno imparte justicia, y el otro ordena expedientes."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Esta pregunta exige distinguir las herramientas tecnologicas de las instituciones que imparten justicia. Un juez aplica la ley a un caso concreto, valora pruebas y responde por su decisión. Un sistema de inteligencia artificial ordena, clasifica y busca información, pero no juzga a personas. Entender esta frontera es clave en un debate actual, donde se discute que esos sistemas pueden apoyar al juez, pero no reemplazarlo en decisiones que afectan derechos.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Reflexión ética y política",
+      "expected_success": 0.68,
+      "bundle_id": "CO-SOC-9-2026-W14-tribunales-ordinarios-y-justicia-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales_ciudadanas",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-9-2026-W14-tribunales-ordinarios-y-justicia-001-MASTERY-bundle-v10",
+      "statement": "Esta bien justificada esa medida desde el punto de vista de la transparencia?",
+      "context": "Un proyecto de ley departamental propone que todos los expedientes judiciales se publiquen en linea de forma integra y sin filtros.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Si, porque la transparencia es un bien absoluto que no admite ningun limite.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La transparencia es importante, pero puede entrar en conflicto con la privacidad y con la reserva legal."
+        },
+        {
+          "letter": "B",
+          "text": "Si, porque los expedientes judiciales son documentos publicos desde el momento en que se Createan.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La publicidad de un expediente no es automatica, y la reserva protege datos personales y pruebas protegidas."
+        },
+        {
+          "letter": "C",
+          "text": "Si, pero solo es aceptable si se protege la información sensible: datos de menores, victimas y datos personales de las partes.",
+          "is_correct": true,
+          "feedback": "Correcto. La transparencia judicial es legitima cuando respeta los derechos de las partes y protege la información sensible."
+        },
+        {
+          "letter": "D",
+          "text": "No, porque la transparencia no es un valor de la Constitucion y no puede sostenerse ningun argumento a su favor.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La transparencia es un principio constitucional, y su limite esta en los otros derechos, no en su negacion."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La transparencia judicial es un principio constitucional que obliga al Estado a informar sobre su gestion. Pero esa transparencia tiene limites: la reserva protege la privacidad de los ciudadanos, la identidad de las victimas y la seguridad de las investigaciones. Publicar expedientes sin ningun filtro vulneraria derechos de victimas y menores. Un estudiante de grado noveno puede evaluar la medida entendiendo que los derechos se balancean entre si.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Reflexión ética y política",
+      "expected_success": 0.65,
+      "bundle_id": "CO-SOC-9-2026-W14-tribunales-ordinarios-y-justicia-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales_ciudadanas",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-9-2026-W14-tribunales-ordinarios-y-justicia-001-MASTERY-bundle-v11",
+      "statement": "Cual es la via procesal adecuada para impugnar esa sentencia?",
+      "context": "Una organización de defensa de derechos en Tunja presenta recurso frente a una sentencia de primera instancia que la organización considera equivocada.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Presentar una accion de tutela.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La tutela protege derechos fundamentales vulnerados, pero no es la via para impugnar cualquier sentencia civil."
+        },
+        {
+          "letter": "B",
+          "text": "Presentar un recurso de apelacion ante el juez superior.",
+          "is_correct": true,
+          "feedback": "Correcto. Contra una sentencia de primera instancia procede el recurso de apelacion, que permite la revision por el juez superior."
+        },
+        {
+          "letter": "C",
+          "text": "Presentar una denuncia ante la Policia Nacional.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La denuncia penal es para conocimiento de un delito, y no un mecanismo de impugnacion de sentencias."
+        },
+        {
+          "letter": "D",
+          "text": "Presentar un reclamatorio administrativo ante la entidad demandada.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El reclamatorio administrativo se dirige contra la entidad, y no contra una sentencia judicial."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Cada via procesal responde a un problema distinto. La tutela protege derechos fundamentales, la apelacion revisa sentencias de primera instancia, la denuncia penal Knowledge de delitos y el reclamatorio administrativo ataca actos de entidades. Confundir estas vias lleva a presentar el recurso equivocado y perder el termino. Reconocer las cuatro ayuda a cualquier ciudadano a elegir la ruta correcta.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Ciudadano",
+      "expected_success": 0.62,
+      "bundle_id": "CO-SOC-9-2026-W14-tribunales-ordinarios-y-justicia-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales_ciudadanas",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-9-2026-W14-tribunales-ordinarios-y-justicia-001-MASTERY-bundle-v12",
+      "statement": "Que evaluacion de ese proyecto es más responsable?",
+      "context": "Un tribunal de Cartagena evalua un proyecto que combina tecnología digital, mediadores comunitarios y puertas de atencion más cercanas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es pertinente, siempre que la tecnología no se convierta en la unica via, los mediadores no reemplacen la atencion personalizada.",
+          "is_correct": true,
+          "feedback": "Correcto. La tecnología y los mediadores son utiles si se combinan con atencion personalizada para quien la necesita."
+        },
+        {
+          "letter": "B",
+          "text": "Es innecesario, porque la justicia ya tiene suficientes recursos y no necesita modernizarse.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El acceso a la justicia tiene problemas reales de cobertura, y negar la necesidad de modernizacion Ignora la evidencia."
+        },
+        {
+          "letter": "C",
+          "text": "Es suficiente por si solo, porque la tecnología por si sola garantiza el acceso universal a la justicia.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La tecnología sola no garantiza acceso universal: hay personas sin conectividad y sin alfabetizacion digital."
+        },
+        {
+          "letter": "D",
+          "text": "Es inaceptable, porque los mediadores comunitarios no pueden participar en la administracion de justicia.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los mecanismos consensuales como la conciliacion son vias previstas por la propia ley, y si son legitimas."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Un proyecto público de acceso a la justicia debe evaluarse por sus efectos reales, no por su tecnología. La digitalizacion mejora la cobertura, pero deja fuera a quien no tiene conectividad ni alfabetizacion digital. Los mediadores comunitarios ayudan, pero deben articularse con la via judicial y no sustituirla. La respuesta responsable combina innovacion con inclusion y con respeto por la dignidad de las personas.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Reflexión ética y política",
+      "expected_success": 0.6,
+      "bundle_id": "CO-SOC-9-2026-W14-tribunales-ordinarios-y-justicia-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales_ciudadanas",
+      "grade": 9,
+      "country": "co"
+    }
+  ]
+}

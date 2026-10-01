@@ -9,36 +9,36 @@
   "questions": [
     {
       "id": "SV-ING-11-2026-W08-future-perfect-001-MASTERY-bundle-v1",
-      "statement": "Choose the correct option: 'I ___ reading a book right now.'",
+      "statement": "Complete the sentence: 'By next July, the new hospital ___ twenty years of service.'",
       "context": "English class in Mejicanos, SV.",
       "options": [
         {
-          "letter": "C",
-          "text": "am",
-          "is_correct": true,
-          "feedback": "'I' always takes the verb 'am' in the present continuous, so the sentence needs 'am reading'."
-        },
-        {
           "letter": "A",
-          "text": "is",
-          "is_correct": false,
-          "feedback": "'is' goes with a third-person singular subject such as 'he' or 'she'; the subject here is 'I'."
+          "text": "will have been in service",
+          "is_correct": true,
+          "feedback": "'Will have been' is the future perfect, and it treats the twenty years as finished by the future deadline."
         },
         {
           "letter": "B",
-          "text": "are",
+          "text": "is serving",
           "is_correct": false,
-          "feedback": "'are' is used with 'you', 'we' and 'they', never with the singular 'I'."
+          "feedback": "'Is serving' is the present continuous, so it describes service that is still going on today."
+        },
+        {
+          "letter": "C",
+          "text": "served",
+          "is_correct": false,
+          "feedback": "'Served' is the simple past, which places the service entirely before the moment of speaking."
         },
         {
           "letter": "D",
-          "text": "be",
+          "text": "has been serving",
           "is_correct": false,
-          "feedback": "After the pronoun 'I' the verb is already conjugated, so the bare infinitive 'be' does not fit."
+          "feedback": "'Has been serving' is the present perfect continuous and looks forward from now, not from next July."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "Present continuous: I am + verb-ing.",
+      "correct_answer": "A",
+      "explanation": "The future perfect is 'will have' plus a past participle, and it presents an activity as complete before a stated future moment. The hospital will have completed twenty years of service by next July, so this is the structure the sentence needs.",
       "difficulty": "4",
       "images": [],
       "tags": [],
@@ -54,36 +54,36 @@
     },
     {
       "id": "SV-ING-11-2026-W08-future-perfect-001-MASTERY-bundle-v2",
-      "statement": "What does 'benevolent' mean?",
+      "statement": "Which sentence reports that the bridge will already be finished before the road opens?",
       "context": "English class in Santa Ana, SV.",
       "options": [
         {
-          "letter": "B",
-          "text": "Kind and generous",
-          "is_correct": true,
-          "feedback": "'Benevolent' describes a person who is kind and ready to give help to others."
+          "letter": "A",
+          "text": "The road will open when the bridge is finished.",
+          "is_correct": false,
+          "feedback": "'When' with a future form marks the two events as coinciding, so neither one comes first."
         },
         {
-          "letter": "A",
-          "text": "Mean and cruel",
-          "is_correct": false,
-          "feedback": "That is the opposite of benevolent, whose root means well-wishing."
+          "letter": "B",
+          "text": "By the time the road opens, the bridge will have been finished.",
+          "is_correct": true,
+          "feedback": "'Will have been finished' places the completed bridge before the future moment the road opens."
         },
         {
           "letter": "C",
-          "text": "Quick and fast",
+          "text": "The bridge has already been finished before the road opens.",
           "is_correct": false,
-          "feedback": "Those describe speed; benevolent refers to character and generosity."
+          "feedback": "'Has been finished' is the present perfect, and it never projects onto a future reference point."
         },
         {
           "letter": "D",
-          "text": "Slow and lazy",
+          "text": "The bridge will be finished while the road is opening.",
           "is_correct": false,
-          "feedback": "Those describe laziness, the opposite of a generous attitude towards others."
+          "feedback": "'While' makes the two actions overlap, and an overlapping action cannot precede the other."
         }
       ],
       "correct_answer": "B",
-      "explanation": "'Benevolent' means kind, generous, or charitable.",
+      "explanation": "'By the time' plus a future clause calls for the future perfect. The future perfect, 'will have' plus a past participle, presents the bridge as complete before the road opens, which is precisely the relationship this sentence reports.",
       "difficulty": "4",
       "images": [],
       "tags": [],
@@ -99,36 +99,36 @@
     },
     {
       "id": "SV-ING-11-2026-W08-future-perfect-001-MASTERY-bundle-v3",
-      "statement": "Identify the main idea: 'The text describes how bees help pollinate flowers and produce honey.'",
+      "statement": "Read: 'When she looks at the photos, she will remember how quiet the valley was.' What does the sentence predict?",
       "context": "English class in Santa Ana, SV.",
       "options": [
         {
           "letter": "A",
-          "text": "Bees are important for pollination and honey",
-          "is_correct": true,
-          "feedback": "The text names exactly two things bees do: pollinating flowers and making honey."
+          "text": "The valley will be noisy by the time she sees the photos.",
+          "is_correct": false,
+          "feedback": "The sentence calls the valley quiet, so the opposite adjective contradicts the text."
         },
         {
           "letter": "B",
-          "text": "Bees are dangerous insects",
+          "text": "She has already forgotten the valley completely.",
           "is_correct": false,
-          "feedback": "Nothing in the text says bees are dangerous; it describes useful work they do."
+          "feedback": "'Will remember' points at the future, so the memory is still available to her afterwards."
         },
         {
           "letter": "C",
-          "text": "Honey is the only product bees make",
-          "is_correct": false,
-          "feedback": "The text gives pollination as another thing bees do, so honey is not the only product."
+          "text": "She will recall the valley's quiet once she sees the photos.",
+          "is_correct": true,
+          "feedback": "'Will remember' links a future reaction to a later event, and the valley is described as quiet."
         },
         {
           "letter": "D",
-          "text": "Flowers don't need bees",
+          "text": "She never visited the valley at all.",
           "is_correct": false,
-          "feedback": "The text says bees help pollinate flowers, so flowers do rely on them."
+          "feedback": "The sentence recalls the valley from personal experience, which a visit is implied to have supplied."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The main idea summarizes the key points about bees: pollination and honey.",
+      "correct_answer": "C",
+      "explanation": "'Will remember' states a future reaction, so the text predicts what she will think later rather than what she thinks now. The photos trigger the memory, and the quality she recalls is the quiet of the valley, so option C is the supported reading.",
       "difficulty": "4",
       "images": [],
       "tags": [],
@@ -144,36 +144,36 @@
     },
     {
       "id": "SV-ING-11-2026-W08-future-perfect-001-MASTERY-bundle-v4",
-      "statement": "Which is the correct past form of 'go'?",
+      "statement": "Which time expression signals that an action is presented as complete before a future point?",
       "context": "English class in San Salvador, SV.",
       "options": [
         {
-          "letter": "C",
-          "text": "went",
-          "is_correct": true,
-          "feedback": "'Went' is the irregular past simple of 'go'."
-        },
-        {
           "letter": "A",
-          "text": "goed",
+          "text": "At the end of the concert",
           "is_correct": false,
-          "feedback": "English does not add -ed to spell the past of 'go'; the past form is irregular."
+          "feedback": "'At the end of' marks a moment, not a completed stretch of time measured up to that moment."
         },
         {
           "letter": "B",
-          "text": "gone",
+          "text": "Every Tuesday afternoon",
           "is_correct": false,
-          "feedback": "'Gone' is the past participle used after 'have', not the past simple."
+          "feedback": "A habitual schedule like this one is expressed with the simple present or the simple future."
+        },
+        {
+          "letter": "C",
+          "text": "Just yesterday evening",
+          "is_correct": false,
+          "feedback": "That expression points at the past, where the future perfect cannot be used at all."
         },
         {
           "letter": "D",
-          "text": "going",
-          "is_correct": false,
-          "feedback": "'Going' is the -ing form, used with 'is' or 'are', not the past simple."
+          "text": "By the end of next season",
+          "is_correct": true,
+          "feedback": "'By' plus a future deadline measures completion up to that point, which is the future perfect's trigger."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "'Go' is an irregular verb: go → went (past simple).",
+      "correct_answer": "D",
+      "explanation": "The future perfect needs a reference point in the future, and 'by' with a deadline supplies exactly that. Completion is measured up to the endpoint, so 'By the end of next season' is the expression that pairs with the structure.",
       "difficulty": "4",
       "images": [],
       "tags": [],
@@ -189,36 +189,36 @@
     },
     {
       "id": "SV-ING-11-2026-W08-future-perfect-001-MASTERY-bundle-v5",
-      "statement": "Which sentence uses the present simple correctly?",
+      "statement": "Complete the sentence: 'By the time we reach the coast, the storm ___ our plans.'",
       "context": "English class in Mejicanos, SV.",
       "options": [
         {
-          "letter": "D",
-          "text": "She goes to school every day.",
-          "is_correct": true,
-          "feedback": "The third person singular of 'go' takes -s, and 'every day' asks for the present simple."
-        },
-        {
           "letter": "A",
-          "text": "She go to school every day.",
-          "is_correct": false,
-          "feedback": "After 'she' the verb needs the -s form; writing 'go' is the classic subject-verb agreement error."
+          "text": "will have ruined",
+          "is_correct": true,
+          "feedback": "'Will have ruined' is the future perfect, so the damage is treated as finished by the time of arrival."
         },
         {
           "letter": "B",
-          "text": "She going to school every day.",
+          "text": "ruins",
           "is_correct": false,
-          "feedback": "That is the -ing form, which needs 'is' or 'are' before it; the sentence shown is missing that auxiliary."
+          "feedback": "'Ruins' is the simple future and says the damage happens at some point, not before a deadline."
         },
         {
           "letter": "C",
-          "text": "She gone to school every day.",
+          "text": "ruined",
           "is_correct": false,
-          "feedback": "'Gone' is a participle and needs 'has' or 'have'; it cannot stand alone after the subject."
+          "feedback": "'Ruined' is the simple past, which places the damage entirely before the moment of speaking."
+        },
+        {
+          "letter": "D",
+          "text": "is ruining",
+          "is_correct": false,
+          "feedback": "'Is ruining' is the present continuous, so the damage is still in progress at the present time."
         }
       ],
-      "correct_answer": "D",
-      "explanation": "Present simple: subject + verb(-s for he/she/it).",
+      "correct_answer": "A",
+      "explanation": "The future perfect, 'will have' plus a past participle, presents an action as complete before a stated future moment. The storm will have finished the damage before the travellers arrive, so the damage is measured up to that deadline.",
       "difficulty": "6",
       "images": [],
       "tags": [],
@@ -234,36 +234,36 @@
     },
     {
       "id": "SV-ING-11-2026-W08-future-perfect-001-MASTERY-bundle-v6",
-      "statement": "Choose the correct option: 'I ___ reading a book right now.'",
+      "statement": "Which sentence uses the future perfect correctly?",
       "context": "English class in San Salvador, SV.",
       "options": [
         {
-          "letter": "D",
-          "text": "am",
-          "is_correct": true,
-          "feedback": "'I' always takes the verb 'am' in the present continuous, so the sentence needs 'am reading'."
-        },
-        {
           "letter": "A",
-          "text": "is",
+          "text": "By the time we arrive, the bus will already leave.",
           "is_correct": false,
-          "feedback": "'is' goes with a third-person singular subject such as 'he' or 'she'; the subject here is 'I'."
+          "feedback": "'Will already leave' projects the departure onto a future moment instead of presenting it as finished before the arrival."
         },
         {
           "letter": "B",
-          "text": "are",
-          "is_correct": false,
-          "feedback": "'are' is used with 'you', 'we' and 'they', never with the singular 'I'."
+          "text": "By the time we arrive, the bus will already have left.",
+          "is_correct": true,
+          "feedback": "'Will already have left' presents the departure as complete before the future moment of arrival."
         },
         {
           "letter": "C",
-          "text": "be",
+          "text": "By the time we arrived, the bus will already have left.",
           "is_correct": false,
-          "feedback": "After the pronoun 'I' the verb is already conjugated, so the bare infinitive 'be' does not fit."
+          "feedback": "'Arrived' is the simple past, and a future perfect cannot look back from a past reference point."
+        },
+        {
+          "letter": "D",
+          "text": "By the time we will arrive, the bus had already left.",
+          "is_correct": false,
+          "feedback": "'Had' is the past perfect, which expects a past reference point rather than the future 'will arrive'."
         }
       ],
-      "correct_answer": "D",
-      "explanation": "Present continuous: I am + verb-ing.",
+      "correct_answer": "B",
+      "explanation": "The future perfect is 'will have' plus a past participle, and it needs a future reference point. 'By the time we arrive' supplies that future moment, so the completed departure must be 'will already have left'.",
       "difficulty": "6",
       "images": [],
       "tags": [],
@@ -279,36 +279,36 @@
     },
     {
       "id": "SV-ING-11-2026-W08-future-perfect-001-MASTERY-bundle-v7",
-      "statement": "What does 'benevolent' mean?",
+      "statement": "Read: 'When the technician opens the panel, he will find that the filter had already blocked the airflow.' What does the sentence predict about the filter?",
       "context": "English class in Mejicanos, SV.",
       "options": [
         {
           "letter": "A",
-          "text": "Kind and generous",
-          "is_correct": true,
-          "feedback": "'Benevolent' describes a person who is kind and ready to give help to others."
+          "text": "The filter will still be clear when the panel is opened.",
+          "is_correct": false,
+          "feedback": "The clause says the filter had already blocked the airflow, so the opposite condition is excluded."
         },
         {
           "letter": "B",
-          "text": "Mean and cruel",
+          "text": "The filter will only block the airflow after the panel is opened.",
           "is_correct": false,
-          "feedback": "That is the opposite of benevolent, whose root means well-wishing."
+          "feedback": "'After' reverses the order, because the blockage is placed earlier than the inspection of the panel."
         },
         {
           "letter": "C",
-          "text": "Quick and fast",
-          "is_correct": false,
-          "feedback": "Those describe speed; benevolent refers to character and generosity."
+          "text": "The filter will be blocked by the time the technician checks it.",
+          "is_correct": true,
+          "feedback": "'Had already blocked' presents the blockage as finished before the future moment of the check."
         },
         {
           "letter": "D",
-          "text": "Slow and lazy",
+          "text": "The technician will never open the panel at all.",
           "is_correct": false,
-          "feedback": "Those describe laziness, the opposite of a generous attitude towards others."
+          "feedback": "The sentence explicitly opens the panel, so refusing to inspect it is not what the text says."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "'Benevolent' means kind, generous, or charitable.",
+      "correct_answer": "C",
+      "explanation": "The past perfect inside the 'will find that' clause places the blockage before a moment that is itself in the future. The filter will therefore already be blocked when the technician performs his inspection, which is the prediction option C states.",
       "difficulty": "6",
       "images": [],
       "tags": [],
@@ -324,36 +324,36 @@
     },
     {
       "id": "SV-ING-11-2026-W08-future-perfect-001-MASTERY-bundle-v8",
-      "statement": "Identify the main idea: 'The text describes how bees help pollinate flowers and produce honey.'",
+      "statement": "Which option completes the sentence: 'By the time the exhibition closes, the artist ___ over two hundred paintings.'",
       "context": "English class in San Miguel, SV.",
       "options": [
         {
-          "letter": "B",
-          "text": "Bees are important for pollination and honey",
-          "is_correct": true,
-          "feedback": "The text names exactly two things bees do: pollinating flowers and making honey."
+          "letter": "A",
+          "text": "sells",
+          "is_correct": false,
+          "feedback": "'Sells' is the simple present, which states a general fact and marks no completion at any deadline."
         },
         {
-          "letter": "A",
-          "text": "Bees are dangerous insects",
+          "letter": "B",
+          "text": "sold",
           "is_correct": false,
-          "feedback": "Nothing in the text says bees are dangerous; it describes useful work they do."
+          "feedback": "'Sold' is the simple past and places the sales before now, not before a future closing date."
         },
         {
           "letter": "C",
-          "text": "Honey is the only product bees make",
+          "text": "is selling",
           "is_correct": false,
-          "feedback": "The text gives pollination as another thing bees do, so honey is not the only product."
+          "feedback": "'Is selling' is the present continuous, so the sales are still in progress at the present moment."
         },
         {
           "letter": "D",
-          "text": "Flowers don't need bees",
-          "is_correct": false,
-          "feedback": "The text says bees help pollinate flowers, so flowers do rely on them."
+          "text": "will have sold",
+          "is_correct": true,
+          "feedback": "'Will have sold' is the future perfect and treats the sales as complete before the future closing."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "The main idea summarizes the key points about bees: pollination and honey.",
+      "correct_answer": "D",
+      "explanation": "The future perfect is 'will have' plus a past participle, and it presents an activity as finished before a stated future moment. The sales reach their total before the exhibition closes, so 'will have sold' is the structure this sentence needs.",
       "difficulty": "6",
       "images": [],
       "tags": [],
@@ -369,36 +369,36 @@
     },
     {
       "id": "SV-ING-11-2026-W08-future-perfect-001-MASTERY-bundle-v9",
-      "statement": "Which is the correct past form of 'go'?",
+      "statement": "Complete the sentence: 'When she receives the news, she ___ the extra year of training.'",
       "context": "English class in San Miguel, SV.",
       "options": [
         {
           "letter": "A",
-          "text": "went",
+          "text": "will already have finished",
           "is_correct": true,
-          "feedback": "'Went' is the irregular past simple of 'go'."
+          "feedback": "'Will already have finished' presents the training as complete before the future moment she hears the news."
         },
         {
           "letter": "B",
-          "text": "goed",
+          "text": "has already finished",
           "is_correct": false,
-          "feedback": "English does not add -ed to spell the past of 'go'; the past form is irregular."
+          "feedback": "'Has already finished' is the present perfect, which links the training to the present rather than to a later moment."
         },
         {
           "letter": "C",
-          "text": "gone",
+          "text": "had already finished",
           "is_correct": false,
-          "feedback": "'Gone' is the past participle used after 'have', not the past simple."
+          "feedback": "'Had' is the past perfect, and it needs a past reference point that the future 'receives' cannot supply."
         },
         {
           "letter": "D",
-          "text": "going",
+          "text": "will already finish",
           "is_correct": false,
-          "feedback": "'Going' is the -ing form, used with 'is' or 'are', not the past simple."
+          "feedback": "'Will already finish' projects the end of the training onto a future moment instead of presenting it as completed."
         }
       ],
       "correct_answer": "A",
-      "explanation": "'Go' is an irregular verb: go → went (past simple).",
+      "explanation": "The future perfect looks forward from now to a later moment and presents an action as complete by then. She will already have finished the training when she receives the news, so the correct form is 'will already have finished'.",
       "difficulty": "6",
       "images": [],
       "tags": [],
@@ -414,36 +414,36 @@
     },
     {
       "id": "SV-ING-11-2026-W08-future-perfect-001-MASTERY-bundle-v10",
-      "statement": "Which sentence uses the present simple correctly?",
+      "statement": "Which sentence correctly reports that the repairs will be finished before the deadline?",
       "context": "English class in Santa Ana, SV.",
       "options": [
         {
           "letter": "A",
-          "text": "She goes to school every day.",
-          "is_correct": true,
-          "feedback": "The third person singular of 'go' takes -s, and 'every day' asks for the present simple."
+          "text": "The repairs are finishing by the deadline next month.",
+          "is_correct": false,
+          "feedback": "'Are finishing' is the present continuous and leaves the completion uncertain at the deadline."
         },
         {
           "letter": "B",
-          "text": "She go to school every day.",
-          "is_correct": false,
-          "feedback": "After 'she' the verb needs the -s form; writing 'go' is the classic subject-verb agreement error."
+          "text": "By the deadline next month, the repairs will have been finished.",
+          "is_correct": true,
+          "feedback": "'Will have been finished' presents the repairs as complete before the future deadline."
         },
         {
           "letter": "C",
-          "text": "She going to school every day.",
+          "text": "The repairs were finished by the deadline last month.",
           "is_correct": false,
-          "feedback": "That is the -ing form, which needs 'is' or 'are' before it; the sentence shown is missing that auxiliary."
+          "feedback": "'Were finished' is the past passive and refers to a deadline that has already passed."
         },
         {
           "letter": "D",
-          "text": "She gone to school every day.",
+          "text": "The repairs will be finishing before the deadline next month.",
           "is_correct": false,
-          "feedback": "'Gone' is a participle and needs 'has' or 'have'; it cannot stand alone after the subject."
+          "feedback": "'Will be finishing' is the future continuous, which describes progress rather than completion."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "Present simple: subject + verb(-s for he/she/it).",
+      "correct_answer": "B",
+      "explanation": "A future deadline introduced by 'by' calls for the future perfect. The form 'will have been finished' is the future perfect passive, and it states that the repairs are complete before the deadline rather than still under way.",
       "difficulty": "6",
       "images": [],
       "tags": [],
@@ -459,36 +459,36 @@
     },
     {
       "id": "SV-ING-11-2026-W08-future-perfect-001-MASTERY-bundle-v11",
-      "statement": "Choose the correct option: 'I ___ reading a book right now.'",
+      "statement": "Complete the sentence: 'By next June, she ______ her degree in engineering.'",
       "context": "English class in San Salvador, SV.",
       "options": [
         {
-          "letter": "B",
-          "text": "am",
+          "letter": "C",
+          "text": "will have graduated",
           "is_correct": true,
-          "feedback": "'I' always takes the verb 'am' in the present continuous, so the sentence needs 'am reading'."
+          "feedback": "The future perfect presents an action as completed before a stated future deadline, which is exactly what 'by next June' requires."
         },
         {
           "letter": "A",
-          "text": "is",
+          "text": "graduates",
           "is_correct": false,
-          "feedback": "'is' goes with a third-person singular subject such as 'he' or 'she'; the subject here is 'I'."
+          "feedback": "The simple future says the action will happen at some point; it does not state that it is finished before the deadline."
         },
         {
-          "letter": "C",
-          "text": "are",
+          "letter": "B",
+          "text": "has graduated",
           "is_correct": false,
-          "feedback": "'are' is used with 'you', 'we' and 'they', never with the singular 'I'."
+          "feedback": "The present perfect places the completed action in the past with present relevance, but it does not project it onto a future point."
         },
         {
           "letter": "D",
-          "text": "be",
+          "text": "would have graduated",
           "is_correct": false,
-          "feedback": "After the pronoun 'I' the verb is already conjugated, so the bare infinitive 'be' does not fit."
+          "feedback": "That structure belongs to the third conditional and requires an unreal past condition, which is absent here."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "Present continuous: I am + verb-ing.",
+      "correct_answer": "C",
+      "explanation": "The future perfect expresses completion before a future reference point, and 'by' is that signal.",
       "difficulty": "8",
       "images": [],
       "tags": [],
@@ -504,36 +504,36 @@
     },
     {
       "id": "SV-ING-11-2026-W08-future-perfect-001-MASTERY-bundle-v12",
-      "statement": "What does 'benevolent' mean?",
+      "statement": "Read: 'When my sister opens the results, she will discover that the scholarship had already been awarded.' What does the sentence predict?",
       "context": "English class in San Miguel, SV.",
       "options": [
         {
-          "letter": "B",
-          "text": "Kind and generous",
-          "is_correct": true,
-          "feedback": "'Benevolent' describes a person who is kind and ready to give help to others."
+          "letter": "A",
+          "text": "The scholarship will still be undecided when the results are opened.",
+          "is_correct": false,
+          "feedback": "The clause says the scholarship had already been awarded, so the pending condition is ruled out."
         },
         {
-          "letter": "A",
-          "text": "Mean and cruel",
+          "letter": "B",
+          "text": "The scholarship will be awarded only after the results are opened.",
           "is_correct": false,
-          "feedback": "That is the opposite of benevolent, whose root means well-wishing."
+          "feedback": "'After' reverses the order, because the award is placed earlier than the opening of the results."
         },
         {
           "letter": "C",
-          "text": "Quick and fast",
-          "is_correct": false,
-          "feedback": "Those describe speed; benevolent refers to character and generosity."
+          "text": "The scholarship will already be awarded by the time she reads the results.",
+          "is_correct": true,
+          "feedback": "'Had already been awarded' presents the award as finished before the future moment she reads the results."
         },
         {
           "letter": "D",
-          "text": "Slow and lazy",
+          "text": "My sister will never open the results at all.",
           "is_correct": false,
-          "feedback": "Those describe laziness, the opposite of a generous attitude towards others."
+          "feedback": "The sentence says she opens the results, so refusing to look is not what the text predicts."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "'Benevolent' means kind, generous, or charitable.",
+      "correct_answer": "C",
+      "explanation": "The past perfect passive inside the 'will discover that' clause places the award before a moment that is itself in the future. The scholarship is therefore already awarded by the time she reads the results, which is what option C states.",
       "difficulty": "8",
       "images": [],
       "tags": [],
@@ -549,36 +549,36 @@
     },
     {
       "id": "SV-ING-11-2026-W08-future-perfect-001-MASTERY-bundle-v13",
-      "statement": "Identify the main idea: 'The text describes how bees help pollinate flowers and produce honey.'",
+      "statement": "Complete the sentence: 'By the time the marathon begins, the runners ___ for over an hour.'",
       "context": "English class in Mejicanos, SV.",
       "options": [
         {
-          "letter": "B",
-          "text": "Bees are important for pollination and honey",
-          "is_correct": true,
-          "feedback": "The text names exactly two things bees do: pollinating flowers and making honey."
+          "letter": "A",
+          "text": "will warm up",
+          "is_correct": false,
+          "feedback": "'Will warm up' schedules the warm-up for a future moment without stating that it is already complete."
         },
         {
-          "letter": "A",
-          "text": "Bees are dangerous insects",
+          "letter": "B",
+          "text": "have warmed up",
           "is_correct": false,
-          "feedback": "Nothing in the text says bees are dangerous; it describes useful work they do."
+          "feedback": "'Have warmed up' is the present perfect and looks back from now rather than forward to the start of the race."
         },
         {
           "letter": "C",
-          "text": "Honey is the only product bees make",
+          "text": "are warming up",
           "is_correct": false,
-          "feedback": "The text gives pollination as another thing bees do, so honey is not the only product."
+          "feedback": "'Are warming up' is the present continuous, so the warm-up is treated as happening right now."
         },
         {
           "letter": "D",
-          "text": "Flowers don't need bees",
-          "is_correct": false,
-          "feedback": "The text says bees help pollinate flowers, so flowers do rely on them."
+          "text": "will have warmed up",
+          "is_correct": true,
+          "feedback": "'Will have warmed up' presents the warm-up as finished before the future start of the marathon."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "The main idea summarizes the key points about bees: pollination and honey.",
+      "correct_answer": "D",
+      "explanation": "The future perfect presents an action as complete before a stated future moment. The runners will have finished warming up by the time the marathon begins, so 'will have warmed up' is the structure this sentence requires.",
       "difficulty": "8",
       "images": [],
       "tags": [],
@@ -594,36 +594,36 @@
     },
     {
       "id": "SV-ING-11-2026-W08-future-perfect-001-MASTERY-bundle-v14",
-      "statement": "Which is the correct past form of 'go'?",
+      "statement": "Which option correctly completes: 'When the shipment reaches the port, the customs officer ___ the paperwork.'",
       "context": "English class in Mejicanos, SV.",
       "options": [
         {
-          "letter": "B",
-          "text": "went",
+          "letter": "A",
+          "text": "will already have checked",
           "is_correct": true,
-          "feedback": "'Went' is the irregular past simple of 'go'."
+          "feedback": "'Will already have checked' presents the paperwork review as complete before the shipment arrives."
         },
         {
-          "letter": "A",
-          "text": "goed",
+          "letter": "B",
+          "text": "has already checked",
           "is_correct": false,
-          "feedback": "English does not add -ed to spell the past of 'go'; the past form is irregular."
+          "feedback": "'Has already checked' is the present perfect, which ties the review to the present instead of a later moment."
         },
         {
           "letter": "C",
-          "text": "gone",
+          "text": "had already checked",
           "is_correct": false,
-          "feedback": "'Gone' is the past participle used after 'have', not the past simple."
+          "feedback": "'Had' is the past perfect, and it expects a past reference point rather than the future 'reaches'."
         },
         {
           "letter": "D",
-          "text": "going",
+          "text": "will already check",
           "is_correct": false,
-          "feedback": "'Going' is the -ing form, used with 'is' or 'are', not the past simple."
+          "feedback": "'Will already check' projects the review onto a future moment instead of stating that it is finished by then."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "'Go' is an irregular verb: go → went (past simple).",
+      "correct_answer": "A",
+      "explanation": "The future perfect looks forward to a later moment and presents an earlier action as already complete. The paperwork will already have been checked when the shipment reaches the port, which is what option A states.",
       "difficulty": "8",
       "images": [],
       "tags": [],
@@ -639,36 +639,36 @@
     },
     {
       "id": "SV-ING-11-2026-W08-future-perfect-001-MASTERY-bundle-v15",
-      "statement": "Which sentence uses the present simple correctly?",
+      "statement": "Which sentence reports that the harvest will be complete before the rains arrive?",
       "context": "English class in Soyapango, SV.",
       "options": [
         {
-          "letter": "D",
-          "text": "She goes to school every day.",
-          "is_correct": true,
-          "feedback": "The third person singular of 'go' takes -s, and 'every day' asks for the present simple."
-        },
-        {
           "letter": "A",
-          "text": "She go to school every day.",
+          "text": "The rains arrive when the farmers have finished the harvest.",
           "is_correct": false,
-          "feedback": "After 'she' the verb needs the -s form; writing 'go' is the classic subject-verb agreement error."
+          "feedback": "'When' with a present perfect makes the arrival coincide with the end of the harvest, so neither comes first."
         },
         {
           "letter": "B",
-          "text": "She going to school every day.",
-          "is_correct": false,
-          "feedback": "That is the -ing form, which needs 'is' or 'are' before it; the sentence shown is missing that auxiliary."
+          "text": "By the time the rains arrive, the farmers will have finished the harvest.",
+          "is_correct": true,
+          "feedback": "'Will have finished' presents the harvest as complete before the future arrival of the rains."
         },
         {
           "letter": "C",
-          "text": "She gone to school every day.",
+          "text": "The farmers finished the harvest before the rains arrived.",
           "is_correct": false,
-          "feedback": "'Gone' is a participle and needs 'has' or 'have'; it cannot stand alone after the subject."
+          "feedback": "Both verbs are in the past, so the sentence reports a past event instead of a future one."
+        },
+        {
+          "letter": "D",
+          "text": "The farmers will finish the harvest while the rains are arriving.",
+          "is_correct": false,
+          "feedback": "'While' makes the two actions overlap, and an overlapping action cannot precede the other."
         }
       ],
-      "correct_answer": "D",
-      "explanation": "Present simple: subject + verb(-s for he/she/it).",
+      "correct_answer": "B",
+      "explanation": "The future perfect, 'will have' plus a past participle, presents an action as complete before a stated future moment. 'By the time the rains arrive' supplies that future deadline, so the harvest must be 'will have finished'.",
       "difficulty": "8",
       "images": [],
       "tags": [],
@@ -684,36 +684,36 @@
     },
     {
       "id": "SV-ING-11-2026-W08-future-perfect-001-MASTERY-bundle-v16",
-      "statement": "Choose the correct option: 'I ___ reading a book right now.'",
+      "statement": "Read: 'When the judge announces the verdict, the defendant will have already served three years.' What does the sentence state?",
       "context": "English class in Santa Ana, SV.",
       "options": [
         {
-          "letter": "B",
-          "text": "am",
-          "is_correct": true,
-          "feedback": "'I' always takes the verb 'am' in the present continuous, so the sentence needs 'am reading'."
+          "letter": "A",
+          "text": "The defendant will serve three years after the verdict is announced.",
+          "is_correct": false,
+          "feedback": "'After' reverses the order, because the sentence places the years served before the announcement."
         },
         {
-          "letter": "A",
-          "text": "is",
+          "letter": "B",
+          "text": "The defendant has not served any time before the verdict.",
           "is_correct": false,
-          "feedback": "'is' goes with a third-person singular subject such as 'he' or 'she'; the subject here is 'I'."
+          "feedback": "The clause says three years were already served, so the absence of prior service is contradicted."
         },
         {
           "letter": "C",
-          "text": "are",
-          "is_correct": false,
-          "feedback": "'are' is used with 'you', 'we' and 'they', never with the singular 'I'."
+          "text": "Three years of service will be complete by the time the verdict is announced.",
+          "is_correct": true,
+          "feedback": "'Will have already served' presents the three years as finished before the future announcement."
         },
         {
           "letter": "D",
-          "text": "be",
+          "text": "The judge will never announce a verdict at all.",
           "is_correct": false,
-          "feedback": "After the pronoun 'I' the verb is already conjugated, so the bare infinitive 'be' does not fit."
+          "feedback": "The sentence explicitly announces a verdict, so option D contradicts what the text states."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "Present continuous: I am + verb-ing.",
+      "correct_answer": "C",
+      "explanation": "The future perfect 'will have already served' measures a completed stretch of time up to a future moment. The defendant will therefore have completed three years of service by the time the verdict is announced, which is option C.",
       "difficulty": "8",
       "images": [],
       "tags": [],
@@ -729,36 +729,36 @@
     },
     {
       "id": "SV-ING-11-2026-W08-future-perfect-001-MASTERY-bundle-v17",
-      "statement": "What does 'benevolent' mean?",
+      "statement": "Complete the sentence: 'By the time we arrived at the cinema, the film ______.'",
       "context": "English class in Mejicanos, SV.",
       "options": [
         {
-          "letter": "C",
-          "text": "Kind and generous",
-          "is_correct": true,
-          "feedback": "'Benevolent' describes a person who is kind and ready to give help to others."
-        },
-        {
           "letter": "A",
-          "text": "Mean and cruel",
-          "is_correct": false,
-          "feedback": "That is the opposite of benevolent, whose root means well-wishing."
+          "text": "had already started",
+          "is_correct": true,
+          "feedback": "The future reference 'arrived' plus 'by the time' requires the past perfect to show the film was finished starting earlier."
         },
         {
           "letter": "B",
-          "text": "Quick and fast",
+          "text": "has already started",
           "is_correct": false,
-          "feedback": "Those describe speed; benevolent refers to character and generosity."
+          "feedback": "The present perfect would anchor the starting point to now rather than to a past moment in the past."
+        },
+        {
+          "letter": "C",
+          "text": "was already starting",
+          "is_correct": false,
+          "feedback": "This mixes a past continuous with an adverb that points to an earlier completed stage, so the time relationship breaks."
         },
         {
           "letter": "D",
-          "text": "Slow and lazy",
+          "text": "was going to start",
           "is_correct": false,
-          "feedback": "Those describe laziness, the opposite of a generous attitude towards others."
+          "feedback": "The structure 'was going to' announces a plan in the past and says nothing about an action already completed."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "'Benevolent' means kind, generous, or charitable.",
+      "correct_answer": "A",
+      "explanation": "'By the time' plus a past clause demands the past perfect for the earlier completed action.",
       "difficulty": "10",
       "images": [],
       "tags": [],
@@ -774,36 +774,36 @@
     },
     {
       "id": "SV-ING-11-2026-W08-future-perfect-001-MASTERY-bundle-v18",
-      "statement": "Identify the main idea: 'The text describes how bees help pollinate flowers and produce honey.'",
+      "statement": "Which sentence reports an action that will be complete before a future moment?",
       "context": "English class in Santa Ana, SV.",
       "options": [
         {
           "letter": "D",
-          "text": "Bees are important for pollination and honey",
+          "text": "By the end of the trip, they will have visited six countries.",
           "is_correct": true,
-          "feedback": "The text names exactly two things bees do: pollinating flowers and making honey."
+          "feedback": "The future perfect presents the visiting as complete with reference to the future endpoint of the trip."
         },
         {
           "letter": "A",
-          "text": "Bees are dangerous insects",
+          "text": "By the end of the trip, they visit six countries.",
           "is_correct": false,
-          "feedback": "Nothing in the text says bees are dangerous; it describes useful work they do."
+          "feedback": "The simple future only schedules the visits; it makes no claim about how many are finished by then."
         },
         {
           "letter": "B",
-          "text": "Honey is the only product bees make",
+          "text": "At the end of the trip, they visited six countries.",
           "is_correct": false,
-          "feedback": "The text gives pollination as another thing bees do, so honey is not the only product."
+          "feedback": "The simple past places the visits before the moment of speaking, not before a future reference point."
         },
         {
           "letter": "C",
-          "text": "Flowers don't need bees",
+          "text": "Before the trip, they will visit six countries.",
           "is_correct": false,
-          "feedback": "The text says bees help pollinate flowers, so flowers do rely on them."
+          "feedback": "Here the future completes the visits before the trip starts, so the completion point falls in the present, not the future."
         }
       ],
       "correct_answer": "D",
-      "explanation": "The main idea summarizes the key points about bees: pollination and honey.",
+      "explanation": "Only 'will have' plus a future endpoint states that the action is finished before that point.",
       "difficulty": "10",
       "images": [],
       "tags": [],
@@ -819,36 +819,36 @@
     },
     {
       "id": "SV-ING-11-2026-W08-future-perfect-001-MASTERY-bundle-v19",
-      "statement": "Which is the correct past form of 'go'?",
+      "statement": "Which sentence uses the future perfect correctly?",
       "context": "English class in Soyapango, SV.",
       "options": [
         {
           "letter": "A",
-          "text": "went",
-          "is_correct": true,
-          "feedback": "'Went' is the irregular past simple of 'go'."
+          "text": "By the time the bell rings tomorrow, the class had finished the quiz.",
+          "is_correct": false,
+          "feedback": "'Had finished' is the past perfect, and a past tense cannot look forward to a moment in the future."
         },
         {
           "letter": "B",
-          "text": "goed",
+          "text": "By the time the bell rings tomorrow, the class is finishing the quiz.",
           "is_correct": false,
-          "feedback": "English does not add -ed to spell the past of 'go'; the past form is irregular."
+          "feedback": "'Is finishing' is the present continuous and leaves the work unfinished at the moment the bell rings."
         },
         {
           "letter": "C",
-          "text": "gone",
+          "text": "By the time the bell rings tomorrow, the class has finished the quiz.",
           "is_correct": false,
-          "feedback": "'Gone' is the past participle used after 'have', not the past simple."
+          "feedback": "'Has finished' is the present perfect, which links the quiz to the present and not to a future moment."
         },
         {
           "letter": "D",
-          "text": "going",
-          "is_correct": false,
-          "feedback": "'Going' is the -ing form, used with 'is' or 'are', not the past simple."
+          "text": "By the time the bell rings tomorrow, the class will have finished the quiz.",
+          "is_correct": true,
+          "feedback": "'Will have finished' presents the quiz as complete before the future moment the bell rings."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "'Go' is an irregular verb: go → went (past simple).",
+      "correct_answer": "D",
+      "explanation": "The future perfect is 'will have' plus a past participle, and it needs a future reference point. 'By the time the bell rings tomorrow' supplies that moment, so the completed quiz must be 'will have finished'.",
       "difficulty": "10",
       "images": [],
       "tags": [],
@@ -864,36 +864,36 @@
     },
     {
       "id": "SV-ING-11-2026-W08-future-perfect-001-MASTERY-bundle-v20",
-      "statement": "Which sentence uses the present simple correctly?",
+      "statement": "Which time expression typically goes with the future perfect?",
       "context": "English class in Mejicanos, SV.",
       "options": [
         {
-          "letter": "C",
-          "text": "She goes to school every day.",
+          "letter": "B",
+          "text": "By the end of next month",
           "is_correct": true,
-          "feedback": "The third person singular of 'go' takes -s, and 'every day' asks for the present simple."
+          "feedback": "A deadline introduced by 'by' is the standard trigger for the future perfect, because it measures completion up to that point."
         },
         {
           "letter": "A",
-          "text": "She go to school every day.",
+          "text": "Every Sunday evening",
           "is_correct": false,
-          "feedback": "After 'she' the verb needs the -s form; writing 'go' is the classic subject-verb agreement error."
+          "feedback": "A habitual schedule is expressed with the simple present or the past simple, depending on the time reference."
         },
         {
-          "letter": "B",
-          "text": "She going to school every day.",
+          "letter": "C",
+          "text": "Right now, at this very moment",
           "is_correct": false,
-          "feedback": "That is the -ing form, which needs 'is' or 'are' before it; the sentence shown is missing that auxiliary."
+          "feedback": "That refers to the present, where the present continuous or the present perfect would be used instead."
         },
         {
           "letter": "D",
-          "text": "She gone to school every day.",
+          "text": "Yesterday, during the storm",
           "is_correct": false,
-          "feedback": "'Gone' is a participle and needs 'has' or 'have'; it cannot stand alone after the subject."
+          "feedback": "That refers to the past, so a past form is required and the future perfect would be impossible there."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "Present simple: subject + verb(-s for he/she/it).",
+      "correct_answer": "B",
+      "explanation": "The future perfect is tied to a future deadline, and 'by' marks the completion point.",
       "difficulty": "10",
       "images": [],
       "tags": [],

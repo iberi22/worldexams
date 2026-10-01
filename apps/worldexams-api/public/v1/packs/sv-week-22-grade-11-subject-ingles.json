@@ -9,36 +9,36 @@
   "questions": [
     {
       "id": "SV-ING-11-2026-W22-vocabulary-daily-001-MASTERY-bundle-v1",
-      "statement": "Choose the correct option: 'I ___ reading a book right now.'",
-      "context": "English class in San Miguel, SV.",
+      "statement": "Complete the sentence with the correct phrasal verb: 'My little brother is always ______ energy after school, so he asks for a snack at four o'clock.'",
+      "context": "English class in Chalatenango, SV.",
       "options": [
         {
           "letter": "A",
-          "text": "am",
+          "text": "running out of",
           "is_correct": true,
-          "feedback": "Correct! With 'I' the present continuous needs the auxiliary 'am', and 'reading' is the -ing form: I am reading."
+          "feedback": "'Run out of' means to use up your supply completely, so the boy is left without energy."
         },
         {
           "letter": "B",
-          "text": "is",
+          "text": "running into",
           "is_correct": false,
-          "feedback": "'Is' goes with he, she, it and singular nouns, not with 'I'. The subject here is 'I', so the auxiliary must be 'am'."
+          "feedback": "'Run into' means to meet someone by chance, and it takes a person rather than energy."
         },
         {
           "letter": "C",
-          "text": "are",
+          "text": "running over",
           "is_correct": false,
-          "feedback": "'Are' goes with you, we, they and plural nouns. With 'I' the only correct auxiliary in this tense is 'am'."
+          "feedback": "'Run over' means to hit something with a vehicle, or to read something quickly."
         },
         {
           "letter": "D",
-          "text": "be",
+          "text": "running away from",
           "is_correct": false,
-          "feedback": "'Be' on its own is the bare infinitive; the present continuous is formed with a conjugated auxiliary plus the -ing form, and 'I' takes 'am'."
+          "feedback": "'Run away from' means to move away from someone or something, not to use up a supply."
         }
       ],
       "correct_answer": "A",
-      "explanation": "Present continuous: I am + verb-ing.",
+      "explanation": "'Run out of' means to use up a supply completely, so the boy is left without energy until he eats.",
       "difficulty": "4",
       "images": [],
       "tags": [],
@@ -54,36 +54,36 @@
     },
     {
       "id": "SV-ING-11-2026-W22-vocabulary-daily-001-MASTERY-bundle-v2",
-      "statement": "What does 'benevolent' mean?",
-      "context": "English class in Santa Ana, SV.",
+      "statement": "A neighbour says: 'Could you keep an eye on my dog while I am in Managua for the weekend?' What does 'keep an eye on' mean here?",
+      "context": "English class in Usulutan, SV.",
       "options": [
         {
-          "letter": "D",
-          "text": "Kind and generous",
-          "is_correct": true,
-          "feedback": "Correct! 'Benevolent' means showing kindness and generosity towards other people."
-        },
-        {
           "letter": "A",
-          "text": "Mean and cruel",
+          "text": "borrow money from",
           "is_correct": false,
-          "feedback": "That is the opposite of 'benevolent', which describes someone who is kind and generous, not unkind."
+          "feedback": "Borrowing money is a different favour, and the request mentions a dog rather than any payment."
         },
         {
           "letter": "B",
-          "text": "Quick and fast",
-          "is_correct": false,
-          "feedback": "'Benevolent' does not describe speed; it describes character. Words like 'quick' or 'fast' belong to how fast somebody acts, not to how kind they are."
+          "text": "watch over briefly",
+          "is_correct": true,
+          "feedback": "'Keep an eye on' is a common way to ask someone to watch a pet while you are away."
         },
         {
           "letter": "C",
-          "text": "Slow and lazy",
+          "text": "lend clothes to",
           "is_correct": false,
-          "feedback": "'Benevolent' describes kindness, not speed or effort. It has nothing to do with being slow or lazy."
+          "feedback": "Lending clothes is not implied, and no clothing appears anywhere in the request."
+        },
+        {
+          "letter": "D",
+          "text": "argue loudly with",
+          "is_correct": false,
+          "feedback": "There is no disagreement in the situation, so the favour is not about arguing."
         }
       ],
-      "correct_answer": "D",
-      "explanation": "'Benevolent' means kind, generous, or charitable.",
+      "correct_answer": "B",
+      "explanation": "'Keep an eye on' means to watch over something or someone for a time, which is the favour the neighbour is requesting.",
       "difficulty": "4",
       "images": [],
       "tags": [],
@@ -99,36 +99,36 @@
     },
     {
       "id": "SV-ING-11-2026-W22-vocabulary-daily-001-MASTERY-bundle-v3",
-      "statement": "Identify the main idea: 'The text describes how bees help pollinate flowers and produce honey.'",
-      "context": "English class in San Miguel, SV.",
+      "statement": "Two classmates taste the same soup. One says: 'This is really bland.' What does 'bland' tell you about the soup?",
+      "context": "English class in Ahuachapan, SV.",
       "options": [
         {
-          "letter": "B",
-          "text": "Bees are important for pollination and honey",
-          "is_correct": true,
-          "feedback": "Correct! The text covers both jobs of bees: they carry pollen from flower to flower and they make honey."
+          "letter": "A",
+          "text": "too hot to touch",
+          "is_correct": false,
+          "feedback": "'Bland' describes taste, not temperature, so it says nothing about how hot the soup is."
         },
         {
-          "letter": "A",
-          "text": "Bees are dangerous insects",
+          "letter": "B",
+          "text": "very filling",
           "is_correct": false,
-          "feedback": "The text says nothing about bees being dangerous; it presents them as useful, because of pollination and honey production."
+          "feedback": "'Filling' describes how long food keeps you full, which is a different quality from flavour."
         },
         {
           "letter": "C",
-          "text": "Honey is the only product bees make",
-          "is_correct": false,
-          "feedback": "The text names two things bees do, pollination and honey, so honey is not the only product mentioned."
+          "text": "lacking in flavour",
+          "is_correct": true,
+          "feedback": "'Bland' is the standard English word for food with little or no flavour."
         },
         {
           "letter": "D",
-          "text": "Flowers don't need bees",
+          "text": "served cold",
           "is_correct": false,
-          "feedback": "That contradicts the text: pollination by bees is exactly what the passage describes as one of their contributions."
+          "feedback": "'Bland' says nothing about the temperature at which the soup is served."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "The main idea summarizes the key points about bees: pollination and honey.",
+      "correct_answer": "C",
+      "explanation": "'Bland' is the English word for food with very little taste, so the soup is missing flavour rather than heat or quantity.",
       "difficulty": "4",
       "images": [],
       "tags": [],
@@ -144,36 +144,36 @@
     },
     {
       "id": "SV-ING-11-2026-W22-vocabulary-daily-001-MASTERY-bundle-v4",
-      "statement": "Which is the correct past form of 'go'?",
-      "context": "English class in San Miguel, SV.",
+      "statement": "Choose the correct past participle: 'By the time the bus reached Apaneca, she had already ______ through the mountain road.'",
+      "context": "English class in La Union, SV.",
       "options": [
         {
           "letter": "A",
-          "text": "went",
-          "is_correct": true,
-          "feedback": "Correct! 'Go' is irregular, so its past simple is 'went' and it does not take the -ed ending."
+          "text": "flown",
+          "is_correct": false,
+          "feedback": "'Flown' is the participle of 'fly', and nobody flies in this situation."
         },
         {
           "letter": "B",
-          "text": "goed",
+          "text": "thrown",
           "is_correct": false,
-          "feedback": "'Goed' is not an English word. The verb 'go' is irregular, so its past simple is 'went'."
+          "feedback": "'Thrown' is the participle of 'throw', which does not match a bus journey."
         },
         {
           "letter": "C",
-          "text": "gone",
+          "text": "risen",
           "is_correct": false,
-          "feedback": "'Gone' is the past participle, used with 'have' (I have gone), not the past simple form the question asks for."
+          "feedback": "'Risen' is the participle of 'rise', and a bus does not rise."
         },
         {
           "letter": "D",
-          "text": "going",
-          "is_correct": false,
-          "feedback": "'Going' is the -ing form, used with 'am/is/are' (I am going), not the past simple."
+          "text": "driven",
+          "is_correct": true,
+          "feedback": "'Driven' is the correct participle of 'drive', and 'had driven' forms the past perfect here."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "'Go' is an irregular verb: go → went (past simple).",
+      "correct_answer": "D",
+      "explanation": "'Driven' is the past participle of 'drive', and the sentence needs 'had driven' as the past perfect.",
       "difficulty": "4",
       "images": [],
       "tags": [],
@@ -189,36 +189,36 @@
     },
     {
       "id": "SV-ING-11-2026-W22-vocabulary-daily-001-MASTERY-bundle-v5",
-      "statement": "Which sentence uses the present simple correctly?",
-      "context": "English class in Soyapango, SV.",
+      "statement": "Choose the word that best completes the sentence: 'The bus from Metapan ______ late, so the students reached the school after the bell.'",
+      "context": "English class in Sonsonate, SV.",
       "options": [
         {
-          "letter": "D",
-          "text": "She goes to school every day.",
-          "is_correct": true,
-          "feedback": "Correct! In the present simple, 'she' takes the verb with -s: she goes."
-        },
-        {
           "letter": "A",
-          "text": "She go to school every day.",
+          "text": "arrive",
           "is_correct": false,
-          "feedback": "The third person singular in the present simple adds -s, so it must be 'she goes', not 'she go'."
+          "feedback": "'Arrive' is a verb, but it would need a past form such as 'arrived' after the subject."
         },
         {
           "letter": "B",
-          "text": "She going to school every day.",
-          "is_correct": false,
-          "feedback": "This is missing the auxiliary. With 'going' you need 'is': she is going to school every day."
+          "text": "returned",
+          "is_correct": true,
+          "feedback": "'Returned' is the past simple of 'return' and fits the past event in the sentence."
         },
         {
           "letter": "C",
-          "text": "She gone to school every day.",
+          "text": "orders",
           "is_correct": false,
-          "feedback": "'Gone' is a past participle and needs 'has' (she has gone); the present simple is 'she goes'."
+          "feedback": "'Orders' is a noun or a third person verb, and neither role fits this gap."
+        },
+        {
+          "letter": "D",
+          "text": "ever",
+          "is_correct": false,
+          "feedback": "'Ever' is an adverb, and an adverb cannot complete this verb slot after the subject."
         }
       ],
-      "correct_answer": "D",
-      "explanation": "Present simple: subject + verb(-s for he/she/it).",
+      "correct_answer": "B",
+      "explanation": "'Returned' is the past simple of 'return', which matches the past event described by the rest of the sentence.",
       "difficulty": "6",
       "images": [],
       "tags": [],
@@ -234,36 +234,36 @@
     },
     {
       "id": "SV-ING-11-2026-W22-vocabulary-daily-001-MASTERY-bundle-v6",
-      "statement": "Choose the correct option: 'I ___ reading a book right now.'",
-      "context": "English class in Soyapango, SV.",
+      "statement": "Choose the option that continues the sentence correctly: 'The bakery in Santa Tecla has been open ______, and it now employs three more people.'",
+      "context": "English class in San Vicente, SV.",
       "options": [
         {
-          "letter": "C",
-          "text": "am",
-          "is_correct": true,
-          "feedback": "Correct! With 'I' the present continuous needs the auxiliary 'am', and 'reading' is the -ing form: I am reading."
-        },
-        {
           "letter": "A",
-          "text": "is",
+          "text": "since last Tuesday",
           "is_correct": false,
-          "feedback": "'Is' goes with he, she, it and singular nouns, not with 'I'. The subject here is 'I', so the auxiliary must be 'am'."
+          "feedback": "'Since' names a starting point rather than a length of time, and it does not fit 'has been open' here."
         },
         {
           "letter": "B",
-          "text": "are",
+          "text": "for a week",
+          "is_correct": true,
+          "feedback": "'For' is the preposition used with a period of time, which explains the growth in staff."
+        },
+        {
+          "letter": "C",
+          "text": "during last Tuesday",
           "is_correct": false,
-          "feedback": "'Are' goes with you, we, they and plural nouns. With 'I' the only correct auxiliary in this tense is 'am'."
+          "feedback": "'During' marks a finished time span and cannot follow the present perfect continuous."
         },
         {
           "letter": "D",
-          "text": "be",
+          "text": "from last Tuesday",
           "is_correct": false,
-          "feedback": "'Be' on its own is the bare infinitive; the present continuous is formed with a conjugated auxiliary plus the -ing form, and 'I' takes 'am'."
+          "feedback": "'From' with a finished past point would point to a closing date, not to an ongoing period."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "Present continuous: I am + verb-ing.",
+      "correct_answer": "B",
+      "explanation": "'For' expresses a duration that continues up to the present, which is what 'has been open' requires with the new employees.",
       "difficulty": "6",
       "images": [],
       "tags": [],
@@ -279,36 +279,36 @@
     },
     {
       "id": "SV-ING-11-2026-W22-vocabulary-daily-001-MASTERY-bundle-v7",
-      "statement": "What does 'benevolent' mean?",
-      "context": "English class in Mejicanos, SV.",
+      "statement": "A student says: 'My bedroom is in a mess, but I still found my history book in ten seconds.' What does 'in a mess' describe?",
+      "context": "English class in Cabecas, SV.",
       "options": [
         {
-          "letter": "C",
-          "text": "Kind and generous",
-          "is_correct": true,
-          "feedback": "Correct! 'Benevolent' means showing kindness and generosity towards other people."
-        },
-        {
           "letter": "A",
-          "text": "Mean and cruel",
-          "is_correct": false,
-          "feedback": "That is the opposite of 'benevolent', which describes someone who is kind and generous, not unkind."
+          "text": "in a mess",
+          "is_correct": true,
+          "feedback": "'In a mess' is the idiom for a place that is untidy and disorganised."
         },
         {
           "letter": "B",
-          "text": "Quick and fast",
+          "text": "on purpose",
           "is_correct": false,
-          "feedback": "'Benevolent' does not describe speed; it describes character. Words like 'quick' or 'fast' belong to how fast somebody acts, not to how kind they are."
+          "feedback": "'On purpose' describes an action done deliberately, and a room cannot be untidy on purpose."
+        },
+        {
+          "letter": "C",
+          "text": "by accident",
+          "is_correct": false,
+          "feedback": "'By accident' describes an unintended result, which is not what the student says about the room."
         },
         {
           "letter": "D",
-          "text": "Slow and lazy",
+          "text": "at once",
           "is_correct": false,
-          "feedback": "'Benevolent' describes kindness, not speed or effort. It has nothing to do with being slow or lazy."
+          "feedback": "'At once' describes timing, and the sentence is about the condition of the bedroom."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "'Benevolent' means kind, generous, or charitable.",
+      "correct_answer": "A",
+      "explanation": "'In a mess' means untidy and disorganised, which fits a room that is hard to search but where one book was easy to find.",
       "difficulty": "6",
       "images": [],
       "tags": [],
@@ -324,36 +324,36 @@
     },
     {
       "id": "SV-ING-11-2026-W22-vocabulary-daily-001-MASTERY-bundle-v8",
-      "statement": "Identify the main idea: 'The text describes how bees help pollinate flowers and produce honey.'",
-      "context": "English class in Soyapango, SV.",
+      "statement": "In a school report a student writes: 'The new library is the best building in the whole town, and it opened last March.' What is the main weakness of this paragraph?",
+      "context": "English class in Jucuapa, SV.",
       "options": [
         {
-          "letter": "D",
-          "text": "Bees are important for pollination and honey",
-          "is_correct": true,
-          "feedback": "Correct! The text covers both jobs of bees: they carry pollen from flower to flower and they make honey."
-        },
-        {
           "letter": "A",
-          "text": "Bees are dangerous insects",
+          "text": "too technical",
           "is_correct": false,
-          "feedback": "The text says nothing about bees being dangerous; it presents them as useful, because of pollination and honey production."
+          "feedback": "The vocabulary is simple and direct, so technical difficulty is not the problem here."
         },
         {
           "letter": "B",
-          "text": "Honey is the only product bees make",
+          "text": "far too long",
           "is_correct": false,
-          "feedback": "The text names two things bees do, pollination and honey, so honey is not the only product mentioned."
+          "feedback": "The paragraph is two sentences long, so its length cannot be the weakness."
         },
         {
           "letter": "C",
-          "text": "Flowers don't need bees",
+          "text": "not addressing the question",
+          "is_correct": true,
+          "feedback": "The paragraph never gives the evidence a report needs, so it fails to address its stated purpose."
+        },
+        {
+          "letter": "D",
+          "text": "written in the past tense",
           "is_correct": false,
-          "feedback": "That contradicts the text: pollination by bees is exactly what the passage describes as one of their contributions."
+          "feedback": "A past tense opening date is normal in a report about a building that already exists."
         }
       ],
-      "correct_answer": "D",
-      "explanation": "The main idea summarizes the key points about bees: pollination and honey.",
+      "correct_answer": "C",
+      "explanation": "The first sentence gives an opinion where evidence is needed, and the second adds a date that no reader asked for, so the paragraph misses its purpose.",
       "difficulty": "6",
       "images": [],
       "tags": [],
@@ -369,36 +369,36 @@
     },
     {
       "id": "SV-ING-11-2026-W22-vocabulary-daily-001-MASTERY-bundle-v9",
-      "statement": "Which is the correct past form of 'go'?",
-      "context": "English class in Mejicanos, SV.",
+      "statement": "Choose the correct past participle: 'Maria had already ______ her cousin from the station before the rain started.'",
+      "context": "English class in Perquin, SV.",
       "options": [
         {
           "letter": "A",
-          "text": "went",
-          "is_correct": true,
-          "feedback": "Correct! 'Go' is irregular, so its past simple is 'went' and it does not take the -ed ending."
+          "text": "teach",
+          "is_correct": false,
+          "feedback": "'Taught' is the participle of 'teach', and nobody teaches a person from a station."
         },
         {
           "letter": "B",
-          "text": "goed",
+          "text": "leave",
           "is_correct": false,
-          "feedback": "'Goed' is not an English word. The verb 'go' is irregular, so its past simple is 'went'."
+          "feedback": "'Left' is the participle of 'leave', which would work from a place rather than with a person."
         },
         {
           "letter": "C",
-          "text": "gone",
+          "text": "build",
           "is_correct": false,
-          "feedback": "'Gone' is the past participle, used with 'have' (I have gone), not the past simple form the question asks for."
+          "feedback": "'Built' is the participle of 'build', and no building is mentioned in the sentence."
         },
         {
           "letter": "D",
-          "text": "going",
-          "is_correct": false,
-          "feedback": "'Going' is the -ing form, used with 'am/is/are' (I am going), not the past simple."
+          "text": "bring",
+          "is_correct": true,
+          "feedback": "'Brought' is the correct participle of 'bring', and 'had brought' forms the past perfect here."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "'Go' is an irregular verb: go → went (past simple).",
+      "correct_answer": "D",
+      "explanation": "'Brought' is the past participle of 'bring', and 'had brought' forms the past perfect the sentence requires.",
       "difficulty": "6",
       "images": [],
       "tags": [],
@@ -414,36 +414,36 @@
     },
     {
       "id": "SV-ING-11-2026-W22-vocabulary-daily-001-MASTERY-bundle-v10",
-      "statement": "Which sentence uses the present simple correctly?",
-      "context": "English class in San Miguel, SV.",
+      "statement": "Choose the correct past participle: 'By the time the storm reached Ilopango, the wind had already ______ the plastic covers on the market stalls.'",
+      "context": "English class in Sensuntepeque, SV.",
       "options": [
         {
-          "letter": "C",
-          "text": "She goes to school every day.",
-          "is_correct": true,
-          "feedback": "Correct! In the present simple, 'she' takes the verb with -s: she goes."
-        },
-        {
           "letter": "A",
-          "text": "She go to school every day.",
+          "text": "hanged",
           "is_correct": false,
-          "feedback": "The third person singular in the present simple adds -s, so it must be 'she goes', not 'she go'."
+          "feedback": "'Hung' is the participle of 'hang', which would describe an object on a hook rather than a cover taken away by wind."
         },
         {
           "letter": "B",
-          "text": "She going to school every day.",
+          "text": "hidden",
+          "is_correct": true,
+          "feedback": "'Hidden' is the correct participle of 'hide', and 'had hidden' forms the past perfect here."
+        },
+        {
+          "letter": "C",
+          "text": "stealed",
           "is_correct": false,
-          "feedback": "This is missing the auxiliary. With 'going' you need 'is': she is going to school every day."
+          "feedback": "'Stole' is the participle of 'steal', and the wind does not steal anything."
         },
         {
           "letter": "D",
-          "text": "She gone to school every day.",
+          "text": "shaked",
           "is_correct": false,
-          "feedback": "'Gone' is a past participle and needs 'has' (she has gone); the present simple is 'she goes'."
+          "feedback": "'Shaken' would need a final n after the -en ending, and the wind does not shake covers off."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "Present simple: subject + verb(-s for he/she/it).",
+      "correct_answer": "B",
+      "explanation": "'Hidden' is the past participle of 'hide', and 'had hidden' forms the past perfect the sentence requires.",
       "difficulty": "6",
       "images": [],
       "tags": [],
@@ -459,36 +459,36 @@
     },
     {
       "id": "SV-ING-11-2026-W22-vocabulary-daily-001-MASTERY-bundle-v11",
-      "statement": "Choose the correct option: 'I ___ reading a book right now.'",
-      "context": "English class in Santa Ana, SV.",
+      "statement": "Complete the sentence with the correct phrase: 'The school bus leaves ______, so the students who arrive at seven must wait by the gate.'",
+      "context": "English class in Nueva San Salvador, SV.",
       "options": [
         {
-          "letter": "D",
-          "text": "am",
-          "is_correct": true,
-          "feedback": "Correct! With 'I' the present continuous needs the auxiliary 'am', and 'reading' is the -ing form: I am reading."
-        },
-        {
           "letter": "A",
-          "text": "is",
-          "is_correct": false,
-          "feedback": "'Is' goes with he, she, it and singular nouns, not with 'I'. The subject here is 'I', so the auxiliary must be 'am'."
+          "text": "on time",
+          "is_correct": true,
+          "feedback": "'On time' means at the expected hour, which is why the early students must wait for the bus."
         },
         {
           "letter": "B",
-          "text": "are",
+          "text": "out of order",
           "is_correct": false,
-          "feedback": "'Are' goes with you, we, they and plural nouns. With 'I' the only correct auxiliary in this tense is 'am'."
+          "feedback": "'Out of order' describes things arranged wrongly, and it does not describe a departure time."
         },
         {
           "letter": "C",
-          "text": "be",
+          "text": "in advance",
           "is_correct": false,
-          "feedback": "'Be' on its own is the bare infinitive; the present continuous is formed with a conjugated auxiliary plus the -ing form, and 'I' takes 'am'."
+          "feedback": "'In advance' means before the usual time of an event, and here the bus arrives later than the early students."
+        },
+        {
+          "letter": "D",
+          "text": "up to date",
+          "is_correct": false,
+          "feedback": "'Up to date' describes information that is current, and it does not fit a bus schedule."
         }
       ],
-      "correct_answer": "D",
-      "explanation": "Present continuous: I am + verb-ing.",
+      "correct_answer": "A",
+      "explanation": "'On time' means at the hour that was arranged, and it explains why early students have to wait for the bus.",
       "difficulty": "8",
       "images": [],
       "tags": [],
@@ -504,36 +504,36 @@
     },
     {
       "id": "SV-ING-11-2026-W22-vocabulary-daily-001-MASTERY-bundle-v12",
-      "statement": "What does 'benevolent' mean?",
+      "statement": "A shop assistant in San Salvador says, 'Keep your receipt in case you need to return the headphones.' What does 'receipt' mean here?",
       "context": "English class in Santa Ana, SV.",
       "options": [
         {
-          "letter": "C",
-          "text": "Kind and generous",
-          "is_correct": true,
-          "feedback": "Correct! 'Benevolent' means showing kindness and generosity towards other people."
-        },
-        {
           "letter": "A",
-          "text": "Mean and cruel",
+          "text": "A document explaining how to operate the headphones.",
           "is_correct": false,
-          "feedback": "That is the opposite of 'benevolent', which describes someone who is kind and generous, not unkind."
+          "feedback": "Operating instructions belong in a manual; a receipt records the purchase rather than explaining use."
         },
         {
           "letter": "B",
-          "text": "Quick and fast",
+          "text": "A document showing that the customer paid for the headphones.",
+          "is_correct": true,
+          "feedback": "A receipt records payment and can provide proof of purchase when an item is returned."
+        },
+        {
+          "letter": "C",
+          "text": "A list of items the customer plans to buy.",
           "is_correct": false,
-          "feedback": "'Benevolent' does not describe speed; it describes character. Words like 'quick' or 'fast' belong to how fast somebody acts, not to how kind they are."
+          "feedback": "A shopping list records intended purchases, whereas a receipt provides evidence of a completed transaction."
         },
         {
           "letter": "D",
-          "text": "Slow and lazy",
+          "text": "A notice advertising a discount on headphones.",
           "is_correct": false,
-          "feedback": "'Benevolent' describes kindness, not speed or effort. It has nothing to do with being slow or lazy."
+          "feedback": "A discount notice advertises an offer; it does not show that this customer bought the item."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "'Benevolent' means kind, generous, or charitable.",
+      "correct_answer": "B",
+      "explanation": "A receipt is a record of a purchase and payment. The possibility of returning the headphones explains why the customer should keep it.",
       "difficulty": "8",
       "images": [],
       "tags": [],
@@ -549,36 +549,36 @@
     },
     {
       "id": "SV-ING-11-2026-W22-vocabulary-daily-001-MASTERY-bundle-v13",
-      "statement": "Identify the main idea: 'The text describes how bees help pollinate flowers and produce honey.'",
+      "statement": "An appointment message says, 'Your dental appointment has been postponed from Tuesday to Friday; the time remains 10 a.m.' Which interpretation correctly distinguishes the changed detail from the unchanged one?",
       "context": "English class in Soyapango, SV.",
       "options": [
         {
           "letter": "A",
-          "text": "Bees are important for pollination and honey",
-          "is_correct": true,
-          "feedback": "Correct! The text covers both jobs of bees: they carry pollen from flower to flower and they make honey."
+          "text": "The appointment has been cancelled, so no visit is scheduled.",
+          "is_correct": false,
+          "feedback": "'Postponed' indicates rescheduling, not cancellation; the message provides a new date."
         },
         {
           "letter": "B",
-          "text": "Bees are dangerous insects",
-          "is_correct": false,
-          "feedback": "The text says nothing about bees being dangerous; it presents them as useful, because of pollination and honey production."
+          "text": "The appointment will happen later in the week, at the same time of day.",
+          "is_correct": true,
+          "feedback": "'Postponed' means moved to a later time or date; Friday replaces Tuesday, while 10 a.m. remains unchanged."
         },
         {
           "letter": "C",
-          "text": "Honey is the only product bees make",
+          "text": "The appointment will happen earlier in the week, at the same time of day.",
           "is_correct": false,
-          "feedback": "The text names two things bees do, pollination and honey, so honey is not the only product mentioned."
+          "feedback": "Friday is later than Tuesday in the same week, so this interpretation reverses the change."
         },
         {
           "letter": "D",
-          "text": "Flowers don't need bees",
+          "text": "The appointment is still on Tuesday, but its time has changed.",
           "is_correct": false,
-          "feedback": "That contradicts the text: pollination by bees is exactly what the passage describes as one of their contributions."
+          "feedback": "The message changes the day to Friday and explicitly says the time remains 10 a.m."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The main idea summarizes the key points about bees: pollination and honey.",
+      "correct_answer": "B",
+      "explanation": "'Postponed' means moved to a later date or time. Here only the day changes; the appointment time stays the same.",
       "difficulty": "8",
       "images": [],
       "tags": [],
@@ -594,36 +594,36 @@
     },
     {
       "id": "SV-ING-11-2026-W22-vocabulary-daily-001-MASTERY-bundle-v14",
-      "statement": "Which is the correct past form of 'go'?",
-      "context": "English class in Santa Ana, SV.",
+      "statement": "Choose the correct form: 'The instructions were ______ on a sheet of paper and pinned to the door.'",
+      "context": "English class in Alegría, SV.",
       "options": [
         {
-          "letter": "C",
-          "text": "went",
-          "is_correct": true,
-          "feedback": "Correct! 'Go' is irregular, so its past simple is 'went' and it does not take the -ed ending."
-        },
-        {
           "letter": "A",
-          "text": "goed",
+          "text": "wrote",
           "is_correct": false,
-          "feedback": "'Goed' is not an English word. The verb 'go' is irregular, so its past simple is 'went'."
+          "feedback": "'Wrote' is the past simple, and it cannot follow the auxiliary 'were' in a passive sentence."
         },
         {
           "letter": "B",
-          "text": "gone",
+          "text": "writed",
           "is_correct": false,
-          "feedback": "'Gone' is the past participle, used with 'have' (I have gone), not the past simple form the question asks for."
+          "feedback": "Adding -ed to this verb does not produce an English word, so 'writed' does not exist."
+        },
+        {
+          "letter": "C",
+          "text": "writting",
+          "is_correct": false,
+          "feedback": "'Writing' is the -ing form, and a passive sentence needs the past participle after 'were'."
         },
         {
           "letter": "D",
-          "text": "going",
-          "is_correct": false,
-          "feedback": "'Going' is the -ing form, used with 'am/is/are' (I am going), not the past simple."
+          "text": "written",
+          "is_correct": true,
+          "feedback": "'Written' is the past participle of 'write', and 'were written' forms the passive here."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "'Go' is an irregular verb: go → went (past simple).",
+      "correct_answer": "D",
+      "explanation": "'Written' is the past participle of 'write', and 'were written' is the passive form the sentence requires.",
       "difficulty": "8",
       "images": [],
       "tags": [],
@@ -639,36 +639,36 @@
     },
     {
       "id": "SV-ING-11-2026-W22-vocabulary-daily-001-MASTERY-bundle-v15",
-      "statement": "Which sentence uses the present simple correctly?",
+      "statement": "Which everyday expression means to collect someone in a vehicle and take them somewhere?",
       "context": "English class in Soyapango, SV.",
       "options": [
         {
           "letter": "A",
-          "text": "She goes to school every day.",
+          "text": "Pick someone up.",
           "is_correct": true,
-          "feedback": "Correct! In the present simple, 'she' takes the verb with -s: she goes."
+          "feedback": "'Pick someone up' means collect them, commonly by car or another vehicle, to give them a ride."
         },
         {
           "letter": "B",
-          "text": "She go to school every day.",
+          "text": "Drop someone off.",
           "is_correct": false,
-          "feedback": "The third person singular in the present simple adds -s, so it must be 'she goes', not 'she go'."
+          "feedback": "'Drop someone off' means leave them at a destination after transporting them, rather than collect them."
         },
         {
           "letter": "C",
-          "text": "She going to school every day.",
+          "text": "Run into someone.",
           "is_correct": false,
-          "feedback": "This is missing the auxiliary. With 'going' you need 'is': she is going to school every day."
+          "feedback": "'Run into someone' means meet them unexpectedly; it does not describe collecting them in a vehicle."
         },
         {
           "letter": "D",
-          "text": "She gone to school every day.",
+          "text": "Look after someone.",
           "is_correct": false,
-          "feedback": "'Gone' is a past participle and needs 'has' (she has gone); the present simple is 'she goes'."
+          "feedback": "'Look after someone' means care for them, not specifically collect and transport them."
         }
       ],
       "correct_answer": "A",
-      "explanation": "Present simple: subject + verb(-s for he/she/it).",
+      "explanation": "'Pick someone up' describes collecting a person to transport them. 'Drop someone off' describes the later action of leaving them at their destination.",
       "difficulty": "8",
       "images": [],
       "tags": [],
@@ -684,36 +684,36 @@
     },
     {
       "id": "SV-ING-11-2026-W22-vocabulary-daily-001-MASTERY-bundle-v16",
-      "statement": "Choose the correct option: 'I ___ reading a book right now.'",
-      "context": "English class in San Salvador, SV.",
+      "statement": "Complete the sentence with the correct particle: 'The mechanic turned the engine ______ before driving the truck down to the port.'",
+      "context": "English class in San Rafael, SV.",
       "options": [
         {
-          "letter": "C",
-          "text": "am",
-          "is_correct": true,
-          "feedback": "Correct! With 'I' the present continuous needs the auxiliary 'am', and 'reading' is the -ing form: I am reading."
-        },
-        {
           "letter": "A",
-          "text": "is",
+          "text": "off",
           "is_correct": false,
-          "feedback": "'Is' goes with he, she, it and singular nouns, not with 'I'. The subject here is 'I', so the auxiliary must be 'am'."
+          "feedback": "'Turn off' means to stop or deactivate, which is the opposite of what the mechanic does first."
         },
         {
           "letter": "B",
-          "text": "are",
+          "text": "up",
           "is_correct": false,
-          "feedback": "'Are' goes with you, we, they and plural nouns. With 'I' the only correct auxiliary in this tense is 'am'."
+          "feedback": "'Turn up' normally means to increase a volume or heat setting, and it does not start an engine."
+        },
+        {
+          "letter": "C",
+          "text": "on",
+          "is_correct": true,
+          "feedback": "'Turn on' means to start or activate a machine, so it fits the engine before the journey."
         },
         {
           "letter": "D",
-          "text": "be",
+          "text": "out",
           "is_correct": false,
-          "feedback": "'Be' on its own is the bare infinitive; the present continuous is formed with a conjugated auxiliary plus the -ing form, and 'I' takes 'am'."
+          "feedback": "'Turn out' describes a result, such as turning out well, and it cannot start an engine."
         }
       ],
       "correct_answer": "C",
-      "explanation": "Present continuous: I am + verb-ing.",
+      "explanation": "'Turn on' means to start or activate a machine, which is what the mechanic does with the engine before driving.",
       "difficulty": "8",
       "images": [],
       "tags": [],
@@ -729,36 +729,36 @@
     },
     {
       "id": "SV-ING-11-2026-W22-vocabulary-daily-001-MASTERY-bundle-v17",
-      "statement": "What does 'benevolent' mean?",
-      "context": "English class in San Miguel, SV.",
+      "statement": "A speaker says: 'The rain is not expected to hold off much longer.' What does this sentence suggest about the weather?",
+      "context": "English class in Sesori, SV.",
       "options": [
         {
-          "letter": "D",
-          "text": "Kind and generous",
-          "is_correct": true,
-          "feedback": "Correct! 'Benevolent' means showing kindness and generosity towards other people."
-        },
-        {
           "letter": "A",
-          "text": "Mean and cruel",
-          "is_correct": false,
-          "feedback": "That is the opposite of 'benevolent', which describes someone who is kind and generous, not unkind."
+          "text": "will not last",
+          "is_correct": true,
+          "feedback": "'Hold off' means to last longer than expected, so the sentence predicts that the dry spell is ending."
         },
         {
           "letter": "B",
-          "text": "Quick and fast",
+          "text": "will grow faster",
           "is_correct": false,
-          "feedback": "'Benevolent' does not describe speed; it describes character. Words like 'quick' or 'fast' belong to how fast somebody acts, not to how kind they are."
+          "feedback": "Growing faster is a change in intensity, which the phrase 'hold off' does not express."
         },
         {
           "letter": "C",
-          "text": "Slow and lazy",
+          "text": "are not related",
           "is_correct": false,
-          "feedback": "'Benevolent' describes kindness, not speed or effort. It has nothing to do with being slow or lazy."
+          "feedback": "The sentence clearly connects the weather to a prediction, so the two ideas are related."
+        },
+        {
+          "letter": "D",
+          "text": "has already ended",
+          "is_correct": false,
+          "feedback": "The speaker says the rain is about to start, not that an event has already finished."
         }
       ],
-      "correct_answer": "D",
-      "explanation": "'Benevolent' means kind, generous, or charitable.",
+      "correct_answer": "A",
+      "explanation": "'Hold off' means to continue for longer than expected, so saying the rain will not hold off means the dry spell is nearly over.",
       "difficulty": "10",
       "images": [],
       "tags": [],
@@ -774,36 +774,36 @@
     },
     {
       "id": "SV-ING-11-2026-W22-vocabulary-daily-001-MASTERY-bundle-v18",
-      "statement": "Identify the main idea: 'The text describes how bees help pollinate flowers and produce honey.'",
-      "context": "English class in Mejicanos, SV.",
+      "statement": "A student reports: 'Our project was a big success and everyone was really happy, and the school was proud of it.' What is the main weakness of this report?",
+      "context": "English class in La Libertad, SV.",
       "options": [
         {
-          "letter": "B",
-          "text": "Bees are important for pollination and honey",
-          "is_correct": true,
-          "feedback": "Correct! The text covers both jobs of bees: they carry pollen from flower to flower and they make honey."
+          "letter": "A",
+          "text": "too many long words",
+          "is_correct": false,
+          "feedback": "The report uses short, ordinary words, so the problem is not the length of the vocabulary."
         },
         {
-          "letter": "A",
-          "text": "Bees are dangerous insects",
-          "is_correct": false,
-          "feedback": "The text says nothing about bees being dangerous; it presents them as useful, because of pollination and honey production."
+          "letter": "B",
+          "text": "too many vague claims",
+          "is_correct": true,
+          "feedback": "The three key claims are opinions, and none of them is supported by a fact a reader can check."
         },
         {
           "letter": "C",
-          "text": "Honey is the only product bees make",
+          "text": "an unclear title",
           "is_correct": false,
-          "feedback": "The text names two things bees do, pollination and honey, so honey is not the only product mentioned."
+          "feedback": "No title appears in the report, so an unclear title cannot be the weakness."
         },
         {
           "letter": "D",
-          "text": "Flowers don't need bees",
+          "text": "the wrong tense",
           "is_correct": false,
-          "feedback": "That contradicts the text: pollination by bees is exactly what the passage describes as one of their contributions."
+          "feedback": "The past tense is used correctly throughout, so tense is not the issue here."
         }
       ],
       "correct_answer": "B",
-      "explanation": "The main idea summarizes the key points about bees: pollination and honey.",
+      "explanation": "'Big success', 'really happy' and 'proud' are all opinions with no evidence, so a reader cannot judge whether the claim is true.",
       "difficulty": "10",
       "images": [],
       "tags": [],
@@ -819,36 +819,36 @@
     },
     {
       "id": "SV-ING-11-2026-W22-vocabulary-daily-001-MASTERY-bundle-v19",
-      "statement": "Which is the correct past form of 'go'?",
-      "context": "English class in Soyapango, SV.",
+      "statement": "Choose the correct past form: 'The family ______ a used bicycle last weekend, and the children ride it to school every day.'",
+      "context": "English class in Santa Maria, SV.",
       "options": [
         {
-          "letter": "D",
-          "text": "went",
-          "is_correct": true,
-          "feedback": "Correct! 'Go' is irregular, so its past simple is 'went' and it does not take the -ed ending."
-        },
-        {
           "letter": "A",
-          "text": "goed",
+          "text": "buyed",
           "is_correct": false,
-          "feedback": "'Goed' is not an English word. The verb 'go' is irregular, so its past simple is 'went'."
+          "feedback": "Adding -ed to 'buy' does not give the past simple, because this verb is irregular."
         },
         {
           "letter": "B",
-          "text": "gone",
+          "text": "buyd",
           "is_correct": false,
-          "feedback": "'Gone' is the past participle, used with 'have' (I have gone), not the past simple form the question asks for."
+          "feedback": "'Buyd' is not an English form of this verb at all."
         },
         {
           "letter": "C",
-          "text": "going",
+          "text": "bought",
+          "is_correct": true,
+          "feedback": "'Bought' is the irregular past simple of 'buy' and fits the completed weekend action."
+        },
+        {
+          "letter": "D",
+          "text": "buy",
           "is_correct": false,
-          "feedback": "'Going' is the -ing form, used with 'am/is/are' (I am going), not the past simple."
+          "feedback": "'Buy' is the base form, and a base form cannot follow the subject for a finished past action."
         }
       ],
-      "correct_answer": "D",
-      "explanation": "'Go' is an irregular verb: go → went (past simple).",
+      "correct_answer": "C",
+      "explanation": "'Bought' is the past simple of 'buy', and it matches the finished action marked by 'last weekend'.",
       "difficulty": "10",
       "images": [],
       "tags": [],
@@ -864,36 +864,36 @@
     },
     {
       "id": "SV-ING-11-2026-W22-vocabulary-daily-001-MASTERY-bundle-v20",
-      "statement": "Which sentence uses the present simple correctly?",
-      "context": "English class in San Salvador, SV.",
+      "statement": "Choose the correct past simple: 'The guide ______ us about the coffee farms near the volcano, and we took many photographs.'",
+      "context": "English class in Panchimalco, SV.",
       "options": [
         {
-          "letter": "C",
-          "text": "She goes to school every day.",
-          "is_correct": true,
-          "feedback": "Correct! In the present simple, 'she' takes the verb with -s: she goes."
-        },
-        {
           "letter": "A",
-          "text": "She go to school every day.",
+          "text": "telling",
           "is_correct": false,
-          "feedback": "The third person singular in the present simple adds -s, so it must be 'she goes', not 'she go'."
+          "feedback": "'Telling' is the -ing form and would need an auxiliary such as 'was' before it."
         },
         {
           "letter": "B",
-          "text": "She going to school every day.",
+          "text": "told",
+          "is_correct": true,
+          "feedback": "'Told' is the irregular past simple of 'tell' and fits the completed act of explaining."
+        },
+        {
+          "letter": "C",
+          "text": "tell",
           "is_correct": false,
-          "feedback": "This is missing the auxiliary. With 'going' you need 'is': she is going to school every day."
+          "feedback": "'Tell' is the base form, and a base form cannot fill the past slot after the subject."
         },
         {
           "letter": "D",
-          "text": "She gone to school every day.",
+          "text": "tellled",
           "is_correct": false,
-          "feedback": "'Gone' is a past participle and needs 'has' (she has gone); the present simple is 'she goes'."
+          "feedback": "Doubling the final letter does not produce a real form, because 'tell' is irregular."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "Present simple: subject + verb(-s for he/she/it).",
+      "correct_answer": "B",
+      "explanation": "'Told' is the irregular past simple of 'tell' and matches the completed narration by the guide.",
       "difficulty": "10",
       "images": [],
       "tags": [],
