@@ -1,0 +1,290 @@
+---
+id: "CO-LEN-10-2026-W25-el-periodo-de-la-narracion-001-MASTERY-bundle"
+country: "colombia"
+grado: 10
+asignatura: "lengua"
+tema: "el-periodo-de-la-narracion"
+periodo: "weekly"
+week: "W25"
+year: 2026
+bundle_type: "weekly"
+protocol_version: "5.2"
+total_questions: 12
+bundle_size: 12
+alignment: "DBA MEN Colombia"
+bundle_index: 25
+calibration: {difficulty_band: "D3-D4", expected_success: 0.8}
+license: "FREE"
+tier: "legacy"
+creador: "Jules-Agent"
+---
+
+# Bundle MASTERY: El periodo de la narración - Grado 10 (W25)
+
+## Semana W25
+
+Durante la semana 25 los estudiantes de décimo grado estudian el periodo de la narración, es decir, la manera en que un relato administra su propio tiempo. Se trabaja la diferencia entre el tiempo del relato y el tiempo del discurso, junto con los recursos que alteran la línea recta: la anacronía o salto atrás, la prolepsis o salto adelante, la frecuencia narrativa y la duración narrativa. A partir de fragmentos de ficción colombiana y de testimonios familiares en Tunja y Cali, los estudiantes identifican esos recursos, explican su efecto en el lector y valoran cuándo una ruptura del orden temporal es un recurso elaborado y cuándo es un defecto de construcción. El DBA del MEN Colombia y las pruebas Saber 11 piden justificar decisiones temporales del narrador, no solo nombrarlas.
+
+## Question 1 [D3-D4]
+**ID:** CO-LEN-10-2026-W25-el-periodo-de-la-narracion-001-MASTERY-bundle-v1
+**Bloom:** Remember
+**ICFES:** Textual
+**Expected_Success:** 0.90
+**Contexto:** En el aula de Bogotá la profesora escribe en el tablero dos columnas, «tiempo del relato» y «tiempo del discurso», y pide a los alumnos de décimo que no las confundan.
+### Enunciado
+¿Cuál es la diferencia entre el tiempo del relato y el tiempo del discurso en un texto narrativo?
+
+### Opciones
+- [ ] A) Son dos expresiones que nombran la misma línea de tiempo.
+  <!-- feedback: Incorrecto. Si las dos expresiones nombraran lo mismo no habría nada que distinguir; el discurso es el orden en que se cuentan los hechos y el relato es la sucesión real. -->
+- [x] B) El tiempo del relato es la sucesión real de los hechos y el tiempo del discurso es el orden en que el narrador los presenta.
+  <!-- feedback: Correcto. Genette distingue la historia, que es cuándo ocurrieron los hechos, del discurso, que es la manera en que el texto los presenta y puede alterar ese orden. -->
+- [ ] C) El tiempo del relato es el tiempo que tarda el lector en terminar el texto y el tiempo del discurso es la época en que viven los personajes.
+  <!-- feedback: Incorrecto. Esa opción confunde la duración de la lectura con el orden narrativo; lo pertinente es la relación entre la cronología de los hechos y el orden en que se narra. -->
+- [ ] D) El tiempo del relato existe solo en las novelas y el tiempo del discurso solo en los cuentos.
+  <!-- feedback: Incorrecto. La oposición funciona en cualquier narración, larga o breve; limitar un plano a la novela y el otro al cuento no corresponde a ninguna teoría narrativa. -->
+
+### Explicacion Pedagogica
+El estudio del periodo narrativo separa dos planos: la historia o tiempo del relato, que es la sucesión cronológica de los acontecimientos tal como ocurrieron, y el discurso o tiempo de la narración, que es el orden, la velocidad y la extensión con que el texto los presenta. Un narrador puede contar el final, luego el origen del conflicto y después el presente de los personajes: la historia sigue siendo una sola, pero el discurso la recorre en sentido inverso. Reconocer que hay dos planos es la base para analizar después los saltos, la frecuencia y la duración.
+
+## Question 2 [D3-D4]
+**ID:** CO-LEN-10-2026-W25-el-periodo-de-la-narracion-001-MASTERY-bundle-v2
+**Bloom:** Understand
+**ICFES:** Semantico
+**Expected_Success:** 0.88
+**Contexto:** Un grupo de estudiantes de Medellín escribe un relato sobre el río que se desborda cada mayo; de pronto dejan el presente y muestran una escena fechada en 2029, y luego regresan a mayo.
+### Enunciado
+Cuando el narrador interrumpe el presente de la historia para mostrar un hecho que ocurrirá después y luego vuelve al presente, ¿qué recurso temporal está usando?
+
+### Opciones
+- [ ] A) Anacronía, porque interrumpe la secuencia para recordar el pasado.
+  <!-- feedback: Incorrecto. El salto hacia atrás es la anacronía; cuando el narrador se adelanta a un hecho posterior y regresa, el recurso se llama prolepsis o flashforward. -->
+- [ ] B) Pausa, porque detiene la acción sin avanzar en el tiempo de la historia.
+  <!-- feedback: Incorrecto. Una pausa suspende la acción sin modificar la posición temporal; aquí el narrador se desplaza a una fecha futura, lo cual es un anticipo y no una suspensión. -->
+- [x] C) Prolepsis o salto adelante, porque anticipa un hecho futuro y luego regresa al presente.
+  <!-- feedback: Correcto. La prolepsis adelanta un acontecimiento posterior a la escena en curso: el discurso se desplaza al futuro y después vuelve al presente, como un adelanto de lo que vendrá. -->
+- [ ] D) Escena con elongación, porque amplía un momento para describirlo con detalle.
+  <!-- feedback: Incorrecto. Una elongación amplía la duración del discurso sobre un instante ya situado, es decir, ralentiza el avance; lo contrario es el resumen. -->
+
+### Explicacion Pedagogica
+La prolepsis, también llamada salto adelante o flashforward, es la anticipación de un hecho que todavía no ocurre en el tiempo de la historia. El narrador se adelanta y luego regresa, de modo que el lector sabe por un instante más que los personajes, y esa asimetría genera expectativa. Conviene diferenciarla de la anacronía, que transporta al pasado, y de la elongación, que no cambia de fecha sino que amplía un momento ya ubicado.
+
+## Question 3 [D3-D4]
+**ID:** CO-LEN-10-2026-W25-el-periodo-de-la-narracion-001-MASTERY-bundle-v3
+**Bloom:** Understand
+**ICFES:** Competencia Lectora (Literal)
+**Expected_Success:** 0.88
+**Contexto:** En una tarea de casa de Cali una narradora recuerda la tarde en que su abuelo le regaló un violín y, en mitad del recuerdo, el relato se desplaza a la llegada de 1998.
+### Enunciado
+¿A qué recurso temporal corresponde ese desplazamiento a 1998 dentro del recuerdo?
+
+### Opciones
+- [x] A) A una anacronía o salto atrás, porque el narrador vuelve a un momento anterior al que está contando.
+  <!-- feedback: Correcto. Desde el presente del recuerdo, ir a la llegada de 1998 es moverse hacia un instante anterior: ese retroceso dentro de la narración es la anacronía o salto atrás. -->
+- [ ] B) A una prolepsis, porque el narrador se adelanta a un momento que todavía no ha ocurrido.
+  <!-- feedback: Incorrecto. La prolepsis lleva el discurso a una fecha posterior a la escena en curso; como 1998 es anterior al presente del recuerdo, aquí no hay adelanto sino retroceso. -->
+- [ ] C) A una frecuencia iterativa, porque el narrador repite una misma escena varias veces.
+  <!-- feedback: Incorrecto. La frecuencia iterativa narraría una vez lo que ocurrió muchas veces; lo que hay en el fragmento es un desplazamiento de fecha hacia el pasado, no una repetición. -->
+- [ ] D) A un resumen, porque el narrador condensa varios años en una sola frase.
+  <!-- feedback: Incorrecto. Un resumen comprime la duración de los hechos en pocas líneas; el fragmento abre una escena de 1998 con detalles, en vez de condensar un periodo largo. -->
+
+### Explicacion Pedagogica
+La anacronía, o salto atrás y flashback, es la ruptura de la línea cronológica mediante la cual el narrador abandona el momento en que se encuentra y lleva al lector a un instante anterior, para explicar una causa, mostrar un origen o iluminar un personaje. Al regresar luego al presente de la narración, el discurso queda marcado por ese corte. El recurso sirve para enredar la intriga, justificar un comportamiento que parecía inexplicable o contrastar dos etapas de la vida de alguien.
+
+## Question 4 [D5-D6]
+**ID:** CO-LEN-10-2026-W25-el-periodo-de-la-narracion-001-MASTERY-bundle-v4
+**Bloom:** Apply
+**ICFES:** Pragmatico
+**Expected_Success:** 0.85
+**Contexto:** En el taller de Tunja un concurso narrativo abierto a estudiantes de décimo presenta tres versiones de una escena de mercado: una con un recuerdo de la infancia del vendedor, otra con un adelanto sobre su puesto en 2030 y una que resume quince años en un párrafo.
+### Enunciado
+Un compañero pide clasificar los tres fragmentos según el recurso temporal que usa cada uno. ¿Cuál clasificación es correcta?
+
+### Opciones
+- [ ] A) Recuerdo de la infancia: prolepsis. Adelanto a 2030: anacronía. Resumen de quince años: pausa.
+  <!-- feedback: Incorrecto. Esa opción intercambia los nombres: el recuerdo hacia la infancia es anacronía, el adelanto a 2030 es prolepsis y el resumen de quince años es duración, no pausa. -->
+- [ ] B) Recuerdo de la infancia: pausa. Adelanto a 2030: resumen. Resumen de quince años: anacronía.
+  <!-- feedback: Incorrecto. Ninguna etiqueta corresponde al movimiento descrito: una ida al pasado o un adelanto al futuro no son pausas, y comprimir un periodo no es retroceder en la línea temporal. -->
+- [ ] C) Recuerdo de la infancia: resumen. Adelanto a 2030: pausa. Resumen de quince años: elongación.
+  <!-- feedback: Incorrecto. La primera escena no comprime varios años en pocas líneas sino que abre una escena pasada, por lo que corresponde a un salto atrás y no a un resumen. -->
+- [x] D) Recuerdo de la infancia: anacronía. Adelanto a 2030: prolepsis. Resumen de quince años: resumen o compresión temporal.
+  <!-- feedback: Correcto. La primera escena vuelve al pasado, la segunda se adelanta al futuro y la tercera comprime quince años en un solo párrafo, que es un recurso de duración. -->
+
+### Explicacion Pedagogica
+Clasificar bien exige separar dos familias de recursos. Los saltos anacrónicos y prolépticos alteran la posición del narrador en la línea temporal: uno lleva al pasado y el otro al futuro. Los recursos de duración no cambian de fecha, sino cuánto ocupa cada hecho dentro del texto: el resumen comprime, la elongación amplía, la pausa detiene y la escena desarrolla. Reconocer en qué familia está cada fragmento evita el error más común, que consiste en llamar resumen a un salto atrás o pausa a un adelanto al futuro.
+
+## Question 5 [D5-D6]
+**ID:** CO-LEN-10-2026-W25-el-periodo-de-la-narracion-001-MASTERY-bundle-v5
+**Bloom:** Apply
+**ICFES:** Discursivo
+**Expected_Success:** 0.85
+**Contexto:** En una novela que sitúa a Cali en los años ochenta, el narrador escribe: «Durante diez años doña Rosalba tejió cada tarde en el mismo balcón», y luego dedica dos páginas a una sola de esas tardes.
+### Enunciado
+Según la duración narrativa, ¿qué dos operaciones está usando el narrador?
+
+### Opciones
+- [x] A) Un resumen de diez años seguido de una elongación de una tarde concreta.
+  <!-- feedback: Correcto. La primera frase comprime diez años en una línea, que es un resumen, y las dos páginas expanden un solo instante, que es una elongación. -->
+- [ ] B) Una pausa seguida de una escena, porque el narrador detiene el tiempo y luego lo reanuda.
+  <!-- feedback: Incorrecto. Una pausa suspende la acción sin avanzar ni retroceder en el tiempo, y una escena desarrolla con acciones y diálogos; aquí lo que hay es compresión y ampliación. -->
+- [ ] C) Una anacronía seguida de una prolepsis, porque el narrador recorre fechas distintas.
+  <!-- feedback: Incorrecto. Los dos fragmentos están situados en el mismo tramo de la historia, los años ochenta; lo que cambia es la cantidad de texto que ocupa cada hecho. -->
+- [ ] D) Una frecuencia iterativa seguida de una frecuencia singular, porque los hechos se narran varias veces y una vez.
+  <!-- feedback: Incorrecto. La frecuencia tiene que ver con cuántas veces se cuenta un suceso, y aquí ninguno se cuenta dos veces; lo que cambia es cuánto se extiende cada uno. -->
+
+### Explicacion Pedagogica
+La duración narrativa regula el tiempo que el discurso dedica a cada hecho de la historia, sin mover la línea temporal. El resumen comprime un periodo largo en pocas líneas; la elongación expande un momento en varias páginas; la pausa detiene la acción mientras se describe un ambiente o una reflexión; la escena desarrolla una secuencia con acciones y diálogos. Dominar las cuatro permite leer un fragmento no solo por lo que narra, sino por el ritmo que impone y por la importancia que le concede a cada episodio.
+
+## Question 6 [D5-D6]
+**ID:** CO-LEN-10-2026-W25-el-periodo-de-la-narracion-001-MASTERY-bundle-v6
+**Bloom:** Apply
+**ICFES:** Semantico
+**Expected_Success:** 0.85
+**Contexto:** En una crónica de Tunja el narrador cuenta una única vez la llegada del tren a la estación, con sus tres horas de espera en el andén, tal como ocurrió esa tarde.
+### Enunciado
+¿Qué valor tiene la frecuencia narrativa de ese fragmento?
+
+### Opciones
+- [ ] A) Es repetida, porque el narrador insiste en el mismo asunto en dos párrafos.
+  <!-- feedback: Incorrecto. Insistir en un asunto con varias formulaciones no equivale a narrar varias veces el mismo suceso; en este pasaje el suceso ocurrió una vez y se cuenta una vez. -->
+- [x] B) Es singular, porque un suceso que ocurrió una sola vez se narra una sola vez.
+  <!-- feedback: Correcto. La frecuencia singular corresponde a los hechos que ocurren una vez y se cuentan una vez, y en el fragmento además la duración es larga porque las tres horas se detallan. -->
+- [ ] C) Es iterativa, porque el narrador dice que esa espera se repitió durante años.
+  <!-- feedback: Incorrecto. Si el narrador hubiera dicho que la espera se repitió durante años, eso sería frecuencia iterativa; pero el fragmento narra una sola llegada. -->
+- [ ] D) Es resumida, porque el narrador no dedica espacio suficiente al episodio.
+  <!-- feedback: Incorrecto. El resumen pertenece a la duración, no a la frecuencia; narrar despacio un suceso único es frecuencia singular con duración larga. -->
+
+### Explicacion Pedagogica
+La frecuencia narrativa indica cuántas veces se cuenta un suceso, independientemente de cuánto texto ocupe. La frecuencia singular narra una vez lo que ocurrió una vez, la repetida narra varias veces el mismo episodio y la iterativa resume en una sola narración una serie de apariciones. En el fragmento del andén, un hecho único se cuenta una vez y además se desarrolla con detalle, de modo que combina frecuencia singular con duración larga, y esos dos ejes se analizan por separado.
+
+## Question 7 [D7-D8]
+**ID:** CO-LEN-10-2026-W25-el-periodo-de-la-narracion-001-MASTERY-bundle-v7
+**Bloom:** Analyze
+**ICFES:** Competencia Lectora (Inferencial)
+**Expected_Success:** 0.82
+**Contexto:** En un relato de Barranquilla el narrador anuncia que el puente del barrio viejo caerá en 2029 y, cinco páginas después, muestra a los mismos personajes viviendo esa caída.
+### Enunciado
+¿Qué efecto produce en el lector ese anuncio, si se tiene en cuenta que la anticipación guía la lectura de todo lo que viene después?
+
+### Opciones
+- [ ] A) Desorienta, porque el lector pierde la noción de qué está contando el relato.
+  <!-- feedback: Incorrecto. El anuncio no genera desorientación, porque activa la expectativa y organiza la lectura: el lector revisa las escenas posteriores buscando señales del desenlace. -->
+- [ ] B) Aburre, porque repetir un mismo acontecimiento en dos momentos vacía el relato de tensión.
+  <!-- feedback: Incorrecto. La anticipación no aburre; el anuncio y su cumplimiento posterior funcionan como tensión y luego como confirmación, que es lo que sostiene la atención. -->
+- [x] C) Crea expectativa, porque el lector sabe el desenlace y busca las pistas que lo anuncian.
+  <!-- feedback: Correcto. La prolepsis entrega al lector una información privilegiada que los personajes no tienen, y esa asimetría genera expectativa hacia las escenas que enlazan el anuncio con su cumplimiento. -->
+- [ ] D) Confunde, porque el narrador presenta dos cronologías distintas sin explicarlas.
+  <!-- feedback: Incorrecto. El anuncio queda retomado cinco páginas después y por tanto está enlazado; no hay dos cronologías sin relación, hay un anuncio y su cumplimiento. -->
+
+### Explicacion Pedagogica
+Cuando el narrador anticipa un hecho futuro, el lector queda en una posición ventajosa frente a los personajes: sabe algo que ellos ignoran. Esa asimetría de información genera expectativa, y cada escena posterior se lee como una pista que conduce al desenlace anunciado o como una posible contradicción que aumenta la tensión. Por eso la prolepsis es un recurso de intriga. Su efecto depende de que el anuncio se resuelva o se reutilice: un adelanto que nunca vuelve a aparecer se vuelve ruido y rompe el pacto con el lector.
+
+## Question 8 [D7-D8]
+**ID:** CO-LEN-10-2026-W25-el-periodo-de-la-narracion-001-MASTERY-bundle-v8
+**Bloom:** Analyze
+**ICFES:** Discursivo
+**Expected_Success:** 0.82
+**Contexto:** En un texto de grado décimo el narrador cuenta cinco veces la misma discusión entre dos hermanos: la primera ante un juez, la segunda en la sala de espera, la tercera en la boda, y así hasta terminar en el ruido de la reconciliación.
+### Enunciado
+¿Qué característica permite leer este fragmento como una frecuencia repetida y no como una frecuencia iterativa?
+
+### Opciones
+- [ ] A) Porque cada versión ocurre en un lugar y un momento distintos, de modo que se narran cinco sucesos diferentes.
+  <!-- feedback: Incorrecto. Cambiar de escenario no convierte una repetición en varios sucesos: la pelea entre los dos hermanos es el mismo hecho en cinco circunstancias, y de modo que la razón propuesta no se sostiene. -->
+- [ ] B) Porque el narrador cuenta la discusión una sola vez y agrupa en ella las cinco apariciones.
+  <!-- feedback: Incorrecto. Esa descripción corresponde a la frecuencia iterativa, que narra una sola vez lo que ocurrió muchas veces; aquí el suceso se relata cinco veces por separado, con escenas distintas. -->
+- [ ] C) Porque las cinco versiones dicen exactamente lo mismo, sin aportar ninguna información nueva.
+  <!-- feedback: Incorrecto. El fragmento cambia el lugar y el punto de vista en cada vuelta, del juez a la sala de espera y a la boda, de modo que cada versión aporta un ángulo; si nada cambiara, sería redundancia y no un recurso. -->
+- [x] D) Porque el mismo suceso se narra cinco veces y cada versión añade un ángulo nuevo, que es lo que distingue a la repetida de la iterativa.
+  <!-- feedback: Correcto. La frecuencia repetida vuelve varias veces sobre un mismo episodio y cada vuelta ilumina un matiz, un punto de vista o una ironía, mientras que la iterativa lo cuenta una sola vez de manera agrupada. -->
+
+### Explicacion Pedagogica
+La diferencia entre frecuencia repetida e iterativa es de fondo, no de forma. La repetida narra un mismo suceso varias veces y cada versión aporta algo: un nuevo ángulo, una ironía, una distancia entre lo que se dice y lo que se piensa. La iterativa cuenta una sola vez, de manera agrupada, una serie de ocurrencias. Aplicar el criterio del efecto es lo que permite distinguir un recurso deliberado de una falla: repetir sin añadir nada es redundancia y desobedece al principio de economía narrativa.
+
+## Question 9 [D7-D8]
+**ID:** CO-LEN-10-2026-W25-el-periodo-de-la-narracion-001-MASTERY-bundle-v9
+**Bloom:** Analyze
+**ICFES:** Pragmatico
+**Expected_Success:** 0.82
+**Contexto:** En un cuento colombiano el narrador abre con un hombre que golpea a su hermano y, ocho páginas después, recuerda la infancia en que ese hermano lo salvó de una inundación en el río.
+### Enunciado
+¿Qué función narrativa cumple en este caso el salto atrás?
+
+### Opciones
+- [ ] A) Anticipar el desenlace, porque el narrador muestra lo que ocurrirá después de la pelea.
+  <!-- feedback: Incorrecto. Mostrar el desenlace antes de llegar a él es prolepsis; en este caso el narrador vuelve a una escena de la infancia que explica lo ocurrido. -->
+- [x] B) Explicar la causa de la conducta presente, porque el recuerdo revela el origen del odio entre los dos hermanos.
+  <!-- feedback: Correcto. El flashback convierte un gesto aislado y aparentemente gratuito en una reacción con origen, y esa información reinterpreta la escena de la pelea cuando el lector vuelve a ella. -->
+- [ ] C) Alargar la duración de la pelea, porque el narrador describe el mismo hecho con más detalle.
+  <!-- feedback: Incorrecto. La pelea se describe en el mismo pasaje y con la misma extensión; lo que se añade es material nuevo situado en otro momento, no más detalle sobre ese momento. -->
+- [ ] D) Romper la lectura, porque el narrador interrumpe el relato sin avisar al lector.
+  <!-- feedback: Incorrecto. La ruptura sería un defecto, pero el fragmento marca el cambio de tiempo y lo resuelve volviendo al presente, de modo que el recurso está construido. -->
+
+### Explicacion Pedagogica
+La función más productiva del salto atrás es explicativa: el narrador regresa a un instante anterior para que el lector comprenda por qué los personajes actúan como actúan en el presente del relato. Ese material retrospectivo no solo agrega información, porque además obliga a releer mentalmente las escenas anteriores con una clave nueva. Cuando el recuerdo no aclara nada y únicamente interrumpe, el recurso se vuelve un obstáculo y conviene eliminarlo o señalarlo con más claridad.
+
+## Question 10 [D9-D10]
+**ID:** CO-LEN-10-2026-W25-el-periodo-de-la-narracion-001-MASTERY-bundle-v10
+**Bloom:** Evaluate
+**ICFES:** Evaluativo
+**Expected_Success:** 0.78
+**Contexto:** Un competidor de Cartagena entrega una versión de su relato donde los saltos de fecha aparecen sin ninguna marca, sin frases de enlace y sin volver nunca al hilo principal, y el final ocurre antes que el principio.
+### Enunciado
+¿Qué juicio sobre la coherencia temporal de este texto es más preciso?
+
+### Opciones
+- [x] A) Es un defecto de construcción, porque sin señales ni regreso al hilo el lector pierde la línea temporal.
+  <!-- feedback: Correcto. Un salto temporal solo funciona si está marcado y el hilo se recupera; sin esos dos elementos la ruptura no es recurso sino falla de continuidad y el relato se vuelve incomprensible. -->
+- [ ] B) Es un recurso válido, porque toda ruptura del orden cronológico es una decisión deliberada del narrador.
+  <!-- feedback: Incorrecto. No toda ruptura es un recurso: la anacronía y la prolepsis exigen una marca y un retorno al hilo, y en este texto no hay ninguno de los dos. -->
+- [ ] C) Es un problema de duración, porque el narrador usa demasiadas escenas y pocos resúmenes.
+  <!-- feedback: Incorrecto. La duración se refiere al espacio que ocupa cada hecho, no a la falta de continuidad temporal; el defecto descrito es de orden y de señalización. -->
+- [ ] D) Es un problema de frecuencia, porque el narrador narra varias veces el mismo episodio.
+  <!-- feedback: Incorrecto. En el texto descrito no hay un suceso que se cuente varias veces, por lo que la dificultad no corresponde a la frecuencia sino a la señalización del tiempo. -->
+
+### Explicacion Pedagogica
+Un recurso temporal solo es aceptable cuando cumple dos condiciones: que esté marcado para que el lector sepa que el tiempo cambió y que el hilo del relato se recupere después del desvío. Sin señales de enlace ni regreso al eje narrativo, el desorden temporal deja de ser una elección estética y se convierte en un defecto que impide comprender la historia. Esta distinción es central en las pruebas Saber, donde se evalúa si el estudiante justifica una ruptura temporal o la identifica como falla.
+
+## Question 11 [D9-D10]
+**ID:** CO-LEN-10-2026-W25-el-periodo-de-la-narracion-001-MASTERY-bundle-v11
+**Bloom:** Evaluate
+**ICFES:** Competencia Lectora (Crítica)
+**Expected_Success:** 0.78
+**Contexto:** En una novela de Bogotá el narrador alterna dos líneas: los días de 1994 en el taller del padre y los días de 2024 en el taller del hijo, y ambos capítulos terminan con la misma frase.
+### Enunciado
+¿Qué lectura crítica sostiene mejor la valoración de esa estructura?
+
+### Opciones
+- [ ] A) La alternancia es un defecto, porque el lector no puede sostener dos líneas cronológicas simultáneas.
+  <!-- feedback: Incorrecto. La alternancia está marcada por los capítulos y por la repetición de la frase final, de modo que el lector sí puede sostener las dos líneas y no hay confusión estructural. -->
+- [ ] B) La alternancia es un recurso de prolepsis, porque cada capítulo del hijo anticipa el del padre.
+  <!-- feedback: Incorrecto. Los capítulos no anticipan unos a otros: son dos líneas paralelas que se corresponden, lo cual corresponde a una alternancia de tramos y no a un salto adelante. -->
+- [x] C) La estructura equivale a una frecuencia iterativa de la época repetida, y la frase final conecta ambos tiempos.
+  <!-- feedback: Correcto. El narrador agrupa en cada capítulo lo que ocurrió durante años en una etapa y lo hace con la otra; por eso funciona como iteración y la frase repetida es el ancla que une los dos tramos. -->
+- [ ] D) La estructura equivale a una escena, porque el narrador desarrolla en presente los recuerdos de los dos personajes.
+  <!-- feedback: Incorrecto. Una escena se refiere a la duración de un momento concreto; aquí lo que se agrupa son tramos completos de una y otra época, que es una operación de frecuencia. -->
+
+### Explicacion Pedagogica
+Cuando un narrador presenta en capítulos paralelos lo ocurrido durante años en dos épocas distintas y los cierra con un mismo enunciado, opera una frecuencia iterativa: agrupa en una narración resumida una serie de apariciones. La frase repetida al final de cada capítulo funciona como ancla y hace visible la correspondencia entre el padre y el hijo. Una lectura crítica valorada reconoce entonces qué recurso se está usando, en lugar de reducir todo a un desorden confuso de fechas.
+
+## Question 12 [D9-D10]
+**ID:** CO-LEN-10-2026-W25-el-periodo-de-la-narracion-001-MASTERY-bundle-v12
+**Bloom:** Evaluate
+**ICFES:** Evaluativo
+**Expected_Success:** 0.78
+**Contexto:** En un grupo de grado décimo de Medellín se discute un comentario de un texto que empieza con una escena de 1975, presenta el desenlace de 2001 y cierra regresando a 1975.
+### Enunciado
+¿Qué respuesta justifica mejor la decisión temporal del narrador?
+
+### Opciones
+- [ ] A) El narrador rompe la cronología porque en 1975 no había cámaras que registraran esa escena.
+  <!-- feedback: Incorrecto. El motivo que se propone es técnico y no narrativo, y el texto no menciona cámaras ni fotografías; además el problema no es de registro sino de orden. -->
+- [ ] B) El narrador rompe la cronología porque el orden alfabético de los nombres exige ese desorden.
+  <!-- feedback: Incorrecto. El orden alfabético no explica ninguna decisión temporal y el fragmento no presenta listas de nombres; la causa que se inventa no se deduce del texto. -->
+- [ ] C) El narrador rompe la cronología porque los hechos tienen un orden natural que no se puede alterar.
+  <!-- feedback: Incorrecto. Precisamente el narrador altera ese orden natural, y esa libertad es lo que le permite abrir con una escena que solo se explica al final del relato. -->
+- [x] D) El narrador rompe la cronología porque abre con una escena que cobra sentido cuando el lector conoce el desenlace de 2001.
+  <!-- feedback: Correcto. El narrador altera el orden a propósito: mostrar el desenlace antes de su causa genera expectativa y hace que la escena inicial se relea con el significado que el final le confiere. -->
+
+### Explicacion Pedagogica
+Alterar la cronología es una decisión deliberada cuando el narrador coloca un elemento antes del momento en que el lector puede comprenderlo. Al abrir con la escena de 1975 y cerrar con el desenlace de 2001, el relato se lee dos veces: la primera por la intriga y la segunda por la comprensión, porque el final reescribe el sentido de lo contado. Justificar esa decisión exige explicar el efecto sobre el lector y no suponer motivos técnicos ni reglas externas, porque la crítica narrativa se sostiene sobre lo que el relato hace y no sobre lo que el crítico supone.
