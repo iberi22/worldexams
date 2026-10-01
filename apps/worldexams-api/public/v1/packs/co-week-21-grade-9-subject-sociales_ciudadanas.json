@@ -1,0 +1,563 @@
+{
+  "metadata": {
+    "grade": 9,
+    "subject": "sociales_ciudadanas",
+    "country": "co",
+    "pack_id": "co-week-21-grade-9-subject-sociales_ciudadanas",
+    "generated_at": "2026-10-01T22:21:46.606Z"
+  },
+  "questions": [
+    {
+      "id": "CO-SOC-9-2026-W21-la-constitucionalidad-de-los-derechos-001-MASTERY-bundle-v1",
+      "statement": "Que son los derechos fundamentales en la constitución colombiana?",
+      "context": "En Pereira, un profesor de Sociales Ciudadanas explica a sus estudiantes de noveno grado por que la constitución recoge el derecho a la salud y a la educación.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Son los privilegios que solo corresponde a los ciudadanos mayores de edad que pagan impuestos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los derechos fundamentales no dependen de la edad ni del pago de impuestos, porque la constitución los reconoce a todas las personas."
+        },
+        {
+          "letter": "B",
+          "text": "Son los derechos que la Constitucion reconoce a todas las personas y que el Estado debe proteger y garantizar.",
+          "is_correct": true,
+          "feedback": "Correcto. Los derechos fundamentales son los que la constitución reconoce a todas las personas sin distincion, y obligan al Estado a protegerlos y garantizarlos."
+        },
+        {
+          "letter": "C",
+          "text": "Son las normas que el Congreso puede modificar en cualquier momento sin un procedimiento especial.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La mayoria de los derechos fundamentales solo se reforman mediante un procedimiento especial, con la mayoria calificada del Congreso."
+        },
+        {
+          "letter": "D",
+          "text": "Son acuerdos entre particulares que se firman ante notario y no tienen relacion con el Estado.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Un acuerdo privado ante notario es un negocio juridico, y no un derecho fundamental, que es una garantia de rango constitucional."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Los derechos fundamentales son los derechos que la constitución reconoce a todas las personas. Son de rango superior en el ordenamiento juridico, por eso obligan al Estado y ninguna persona particular puede quitarlos. Se apoyan en principios como la igualdad, la dignidad humana y la libertad. Reconocer que un derecho es también un deber ayuda a entenderlo como una garantia y no como un premio. Esta comprension es la base de toda la formacion ciudadana de un estudiante de noveno grado.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Ciudadano",
+      "expected_success": 0.9,
+      "bundle_id": "CO-SOC-9-2026-W21-la-constitucionalidad-de-los-derechos-001-MASTERY-bundle",
+      "periodo": 21,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales_ciudadanas",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-9-2026-W21-la-constitucionalidad-de-los-derechos-001-MASTERY-bundle-v2",
+      "statement": "Por que la constitución garantiza el derecho a la paz, a la convivencia y a no ser victima de la violencia?",
+      "context": "En Villavicencio, las estudiantes de noveno grado observan que en su colegio existe un comite de convivencia que mediola los conflictos entre companeros.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque la Constitucion considera que todos los conflictos entre estudiantes deben resolverse con la fuerza policial.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El derecho a la paz no obliga a resolver los conflictos con la fuerza, porque la constitución prefiere las vias pacificas y la mediacion."
+        },
+        {
+          "letter": "B",
+          "text": "Porque el derecho a la paz solo protege a los ciudadanos que votan en las elecciones.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El derecho a la paz protege a todas las personas sin importar si votan, porque es un derecho reconocido a toda la población."
+        },
+        {
+          "letter": "C",
+          "text": "Porque la guerra es la unica forma valida de resolver las diferencias entre grupos sociales.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La constitución rechaza la guerra como mecanismo de resolucion de conflictos, porque se busca el dialogo y la negociacion pacifica."
+        },
+        {
+          "letter": "D",
+          "text": "Porque la paz es una condicion necesaria para ejercer los derechos y para que la democracia funcione.",
+          "is_correct": true,
+          "feedback": "Correcto. La constitución declara la paz como derecho y deber, porque sin ella no se pueden ejercer los demas derechos ni participar en una democracia."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "La constitución de 1991 declara la paz como un derecho y un deber, porque es un criterio de convivencia aceptable. Este derecho protege a todas las personas frente a la violencia y obliga al Estado a garantizar la seguridad. Ademas la paz es una condicion previa para los demas derechos, porque sin seguridad no hay libertad ni participación. Por eso resolver los conflictos por la via pacifica es una exigencia constitucional y no solo una costumbre escolar. El comite de convivencia del colegio aplica ese mismo principio.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Convivencia y paz",
+      "expected_success": 0.88,
+      "bundle_id": "CO-SOC-9-2026-W21-la-constitucionalidad-de-los-derechos-001-MASTERY-bundle",
+      "periodo": 21,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales_ciudadanas",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-9-2026-W21-la-constitucionalidad-de-los-derechos-001-MASTERY-bundle-v3",
+      "statement": "Que principio constitucional se aplica cuando una institucion educativa pregunta la etnia y la condicion economica de un estudiante para decidir su admision?",
+      "context": "En Bogota, un estudiante de noveno grado observa que en una institucion educativa se pregunta la condicion economica y la etnia para llenar un formulario de admision.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El principio de no discriminacion, porque ningun criterio personal puede ser la razon para negar un derecho.",
+          "is_correct": true,
+          "feedback": "Correcto. La etnia y la condicion economica son criterios personales, y usarlos como base para decidir un derecho vulnera el principio de no discriminacion."
+        },
+        {
+          "letter": "B",
+          "text": "El principio de libertad economica, porque el colegio puede elegir a quien desea sin dar explicaciones.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La libertad economica admite otras finalidades, pero el ingreso a la educación publica no puede convertirse en una decisión discrecional de la institucion."
+        },
+        {
+          "letter": "C",
+          "text": "El principio de soberania popular, porque la institucion puede pedir datos para organizar la comunidad educativa.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La soberania popular se refiere a la participación en el poder politico, y no autoriza a preguntar por datos personales de los estudiantes."
+        },
+        {
+          "letter": "D",
+          "text": "El principio de eficacia administrativa, porque conocer al estudiante acelera los tramites internos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La eficacia administrativa no habilita pedir información sensible sin relacion con el fin, porque también opera la protección de datos personales."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Aplicar un principio constitucional significa reconocer cuando una situacion lo vulnera. Preguntar por la etnia o por la condicion economica para decidir un ingreso introduce criterios personales en una decisión sobre derechos. Eso contradice el principio de no discriminacion, según el cual todas las personas son iguales ante la ley. La Defensoria del Pueblo ha reportado casos similares de discriminacion racial en admisiones escolares. Reconocer estas situaciones forma parte de la educación ciudadana del estudiante de noveno grado.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Ciudadano",
+      "expected_success": 0.84,
+      "bundle_id": "CO-SOC-9-2026-W21-la-constitucionalidad-de-los-derechos-001-MASTERY-bundle",
+      "periodo": 21,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales_ciudadanas",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-9-2026-W21-la-constitucionalidad-de-los-derechos-001-MASTERY-bundle-v4",
+      "statement": "Una comunidad que se reune para discutir los problemas de su barrio y presentar solicitudes al municipio esta ejerciendo que tipo de participación?",
+      "context": "En Cartagena, las estudiantes de noveno grado observan a un grupo de vecinos que se reune cada mes para comentar los problemas del barrio.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Participacion electoral, porque sus opiniones se convierten en votos el dia de las elecciones.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La participación electoral ocurre cuando la persona elige representantes mediante el voto, y no cuando un grupo comenta problemas del barrio."
+        },
+        {
+          "letter": "B",
+          "text": "Una crisis institucional, porque las reuniones ciudadanas no estan previstas en el ordenamiento juridico.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las reuniones vecinales y las organizaciones ciudadanas estan previstas y protegidas por la constitución como mecanismos de participación."
+        },
+        {
+          "letter": "C",
+          "text": "Participacion ciudadana en sentido amplio, porque la comunidad interviene en los asuntos publicos que la afectan.",
+          "is_correct": true,
+          "feedback": "Correcto. La participación ciudadana consiste en intervenir en los asuntos publicos, y esa forma organizada de dialogo vecinal cumple con esa definicion."
+        },
+        {
+          "letter": "D",
+          "text": "Una obligacioninnecesaria, porque el municipio decide si las puede tener en cuenta.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La participación ciudadana no es una opcion del municipio, porque es un derecho reconocido por la constitución y por la ley 1755 de 2015."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La participación tiene varias formas y conviene distinguirlas. Una de ellas es la participación ciudadana, que ocurre cuando la gente interviene en los asuntos publicos que la afectan. Reunirse para discutir problemas del barrio y presentar solicitudes al municipio es un ejemplo claro. Se diferencia de la votacion, porque ocurre de forma permanente y no solo cada cuatro anos. La constitución garantiza estos espacios, y su ejercicio forma a los ciudadanos desde temprano.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Sistema político y democracia",
+      "expected_success": 0.82,
+      "bundle_id": "CO-SOC-9-2026-W21-la-constitucionalidad-de-los-derechos-001-MASTERY-bundle",
+      "periodo": 21,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales_ciudadanas",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-9-2026-W21-la-constitucionalidad-de-los-derechos-001-MASTERY-bundle-v5",
+      "statement": "Que reconoce la constitución al proteger la identidad cultural y los derechos de los grupos etnicos del país?",
+      "context": "En Tumaco, un estudiante de noveno grado ve que un colegio de la ciudad recibe a estudiantes de diferentes grupos etnicos y respeta sus formas de vida.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que esos grupos deben abandonar sus costumbres y adoptar una sola cultura nacional unificada.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La constitución no obliga a abandonar las costumbres, porque protege la identidad cultural y la diversidad etnica como patrimonio del país."
+        },
+        {
+          "letter": "B",
+          "text": "Que la identidad cultural no tiene valor juridico mientras no este respaldada por una votacion popular.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los derechos a la identidad y a la diversidad etnica estan protegidos en la constitución porque seinkerza a personas y no aResultados electorales."
+        },
+        {
+          "letter": "C",
+          "text": "Que esos grupos tienen derecho a un trato diferente por el origen de sus miembros.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La diferencia etnica protegida en la constitución sirve para Blindar derechos, y no para justificar un trato desigual o discriminatorio."
+        },
+        {
+          "letter": "D",
+          "text": "Que el pais es diverso y que el Estado debe proteger esa diversidad sin autorizar la discriminacion.",
+          "is_correct": true,
+          "feedback": "Correcto. La constitución reconoce la diversidad etnica y cultural y obliga al Estado a protegerla, manteniendo al mismo tiempo la igualdad de todas las personas."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Los derechos a la identidad y a la diversidad etnica hacen parte de los derechos constitucionales de Colombia. Reconocen que el país esta formado por pueblos y grupos con historias y tradiciones propias. Proteger esa diversidad significa respetar sus lenguas, costumbres y formas de organizacion, siempre dentro del respeto a los demas. Este equilibrio entre diferencia e igualdad es una leccion central de ciudadanía. Evita dos errores opuestos: imponer una sola cultura o usar la diferencia como pretexto para discriminar.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Pluralidad, identidad y desigualdad",
+      "expected_success": 0.8,
+      "bundle_id": "CO-SOC-9-2026-W21-la-constitucionalidad-de-los-derechos-001-MASTERY-bundle",
+      "periodo": 21,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales_ciudadanas",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-9-2026-W21-la-constitucionalidad-de-los-derechos-001-MASTERY-bundle-v6",
+      "statement": "Una autoridad publica restringe el acceso de una persona a un archivo que contiene información sobre ella. Que razonamiento es juridicamente correcto para evaluar esa medida?",
+      "context": "En Cucuta, un profesor pide a sus estudiantes que analicen una medida que restringe el acceso de una persona a un archivo publico con datos personales.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La medida es valida en todo caso, porque los archivos publicos pertenecen al Estado y no a los ciudadanos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los archivos publicos siguen siendo un bien de uso publico, y su consulta se guia por el principio de publicidad y por la protección de datos personales."
+        },
+        {
+          "letter": "B",
+          "text": "La medida es valida porque la informacion es privada y por eso el Estado puede negarla cuando quiera.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Precisamente porque la información es privada, la constitución protege al titular frente a la afectacion, y no autoriza entregarla."
+        },
+        {
+          "letter": "C",
+          "text": "La medida siempre es invalida, porque ningun dato personal puede difundirse por ninguna autoridad.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La protección de datos personales admite excepciones en contextos como la justicia o la investigacion penal, de modo que no es absoluta."
+        },
+        {
+          "letter": "D",
+          "text": "La medida requiere una justificacion valida y proporcional, y debe respetar la proteccion de los datos personales.",
+          "is_correct": true,
+          "feedback": "Correcto. Un derecho no es absoluto, así que la restriccion necesita una razon valida y proporcional, y ademas debe respetar la protección de datos personales."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Analizar un caso juridico exige saber cuando un derecho puede limitarse. Los derechos fundamentales no son absolutos, y pueden limitarse por una ley cuando la medida es necesaria, proporcional y respetuosa del nucleo esencial del derecho. Ese criterio también se aplica a la protección de los datos personales. Un ejemplo cotidiano es el secreto profesional o el acceso restringido a ciertos expedientes. Conocerlo evita tanto la absolutizacion del derecho como la desconfianza sin fundamento.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Reflexión ética y política",
+      "expected_success": 0.76,
+      "bundle_id": "CO-SOC-9-2026-W21-la-constitucionalidad-de-los-derechos-001-MASTERY-bundle",
+      "periodo": 21,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales_ciudadanas",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-9-2026-W21-la-constitucionalidad-de-los-derechos-001-MASTERY-bundle-v7",
+      "statement": "Por que en un regimen democratico la constitución protege la libertad de expresion incluso cuando las opiniones expresadas no son compartidas por la mayoria?",
+      "context": "En Quibdo, las estudiantes de noveno grado discuten por que la constitución protege la libertad de expresion aunque existan opiniones que no comparten.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque proteger el derecho a expresar cualquier idea es una garantia del debate publico, no un reconocimiento de que todas sean ciertas.",
+          "is_correct": true,
+          "feedback": "Correcto. La constitución no declara que toda opinion sea verdadera, sino que protege la expresion de cualquier idea dentro del marco legal, y ese matiz es clave."
+        },
+        {
+          "letter": "B",
+          "text": "Porque sin libertad de expresion no habria forma de elegir candidatos en las elecciones.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Aunque la libertad de expresion es importante en una campana, su justificacion constitucional es más amplia y no se limita a la votacion."
+        },
+        {
+          "letter": "C",
+          "text": "Porque el Estado no tiene autoridad para limitar lo que las personas dicen, en ningun caso.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La constitución permite limitar la expresion para proteger los derechos de los demas y el orden publico, de modo que no es libertad sin limites."
+        },
+        {
+          "letter": "D",
+          "text": "Porque cualquier opinion permitida puede llevar al pais a un gobierno totalitario si se extiende mucho.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese argumento invierte el sentido del derecho, porque la protección de la expresion impide que un solo sector imponga su opinion sin discusion."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La libertad de expresion es central en los regimenes democraticos porque permite la discusion publica y la vigilancia del poder. Protegerla no significa que toda opinion sea verdadera, sino que cualquier persona pueda expresar lo que piensa dentro del marco legal. La constitución admite restricciones, siempre con el fin de proteger los derechos de los demas o el orden publico. Entender que la libertad y sus limites van juntos evita confundir libertad con arbitrariedad.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Sistema político y democracia",
+      "expected_success": 0.74,
+      "bundle_id": "CO-SOC-9-2026-W21-la-constitucionalidad-de-los-derechos-001-MASTERY-bundle",
+      "periodo": 21,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales_ciudadanas",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-9-2026-W21-la-constitucionalidad-de-los-derechos-001-MASTERY-bundle-v8",
+      "statement": "Una persona no puede leer la comunicacion oficial que le llega del municipio. Que relacion tiene ese hecho con el derecho a la información?",
+      "context": "En Santa Marta, un estudiante de noveno grado observa que una persona mayor de edad no puede leer la carta que le llega del municipio.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "No tiene relacion con los derechos, porque leer es una habilidad tecnica que se aprende en la escuela.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Aunque aprender a leer es importante, el derecho a la información trasciende la habilidad, porque todos deben conocer las decisiones que los afectan."
+        },
+        {
+          "letter": "B",
+          "text": "Es un asunto de educacion elemental que el Estado solo debe resolver despues de los diez anos de edad.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El Estado tiene el deber de garantizar información accesible para todas las edades, y esa obligacion no se aplaza hasta la mayoria de edad."
+        },
+        {
+          "letter": "C",
+          "text": "Se relaciona con el derecho a la informacion y a la participacion, porque no comprender el contenido impide ejercer los demas derechos.",
+          "is_correct": true,
+          "feedback": "Correcto. Si la persona no comprende la decisión, no puede ejercer su derecho a la información, a pedir explicaciones ni a impugnar lo que le afecta."
+        },
+        {
+          "letter": "D",
+          "text": "Se relaciona con el deber de pagar impuestos, porque solo quien paga puede recibir comunicaciones oficiales.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El derecho a la información no es un servicio reservado a quienes pagan impuestos, porque es un derecho de todas las personas."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Comprender la información oficial es un requisito para ejercer derechos, y no un trámite administrativo. Si una persona no entiende el contenido de una decisión, no puede opinar, impugnar ni vigilar. Por eso el Estado debe entregar la información en formatos comprensibles, y el derecho no se limita a la entrega del documento. Este caso muestra como la comunicacion inclusiva se conecta con el respeto a la dignidad y con la democracia. Es una leccion que aplica tanto en el colegio como en la vida adulta.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Ciudadano",
+      "expected_success": 0.72,
+      "bundle_id": "CO-SOC-9-2026-W21-la-constitucionalidad-de-los-derechos-001-MASTERY-bundle",
+      "periodo": 21,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales_ciudadanas",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-9-2026-W21-la-constitucionalidad-de-los-derechos-001-MASTERY-bundle-v9",
+      "statement": "Que razon constitucional sustenta que un trabajador por aplicacion cotice para tener acceso al sistema de salud?",
+      "context": "En Ibague, un experto invita a un trabajador independiente a afiliarse al regimen de salud y a cotizar cada mes.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que la Constitucion obliga a todos los ciudadanos a pertenecer a un partido politico.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La constitución reconoce el derecho a la participación política, pero en ningun caso obliga a afiliarse a un partido para tener salud."
+        },
+        {
+          "letter": "B",
+          "text": "Que la Constitucion establecio que solo los empleados de planta pueden afiliarse al regimen contributivo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La constitución garantiza el acceso a la salud de todas las personas, y el regimen contributivo admite a quien cotiza sin importar su forma de trabajo."
+        },
+        {
+          "letter": "C",
+          "text": "Que afiliarse al regimen de salud es un requisito para obtener la cedula de ciudadania.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La cedula se obtiene al cumplir la mayoria de edad, y no exige estar afiliado al sistema de salud ni cotizar a el."
+        },
+        {
+          "letter": "D",
+          "text": "Que la salud es un derecho fundamental y el Estado debe garantizarlo, incluido quien trabaja por cuenta propia.",
+          "is_correct": true,
+          "feedback": "Correcto. Como la salud es un derecho fundamental, el sistema contributivo incluye a los independientes que cotizan para garantizar su atencion."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "La constitución garantiza el acceso al sistema de salud de todas las personas, y ese derecho no se suspende por la forma de trabajo. El regimen contributivo incluye a los trabajadores independientes que cotizan, como los que trabajan por aplicacion. Ese es el fundamento de una afiliacion que hoy protege a personas que antes quedaban por fuera. Analizar este caso permite entender que la seguridad social se ha ampliado a lo largo del tiempo. Muestra como las normas cambian para incluir a los ciudadanos que estaban excluidos.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Trabajo y economía",
+      "expected_success": 0.7,
+      "bundle_id": "CO-SOC-9-2026-W21-la-constitucionalidad-de-los-derechos-001-MASTERY-bundle",
+      "periodo": 21,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales_ciudadanas",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-9-2026-W21-la-constitucionalidad-de-los-derechos-001-MASTERY-bundle-v10",
+      "statement": "Una propuesta entregaria a una entidad privada el control de los datos personales de los ciudadanos. Que valoracion es la más solida para juzgarla?",
+      "context": "En Ibague, un grupo de estudiantes de noveno grado discute una propuesta que entregaria el control de los datos personales de los ciudadanos a una entidad privada.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es aceptable, porque los datos personales son un bien economico que el Estado puede commercializar.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los datos personales no son un bien que se pueda commercializar sin consentimiento, porque pertenecen a las personas y estan protegidos por la constitución."
+        },
+        {
+          "letter": "B",
+          "text": "Es aceptable, porque en economia de mercado el derecho a la privacidad puede negociarse economicamente.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los derechos fundamentales no son objeto de negociacion economica, porque su protección es una garantia del Estado y no un bien de cambio."
+        },
+        {
+          "letter": "C",
+          "text": "Es inaceptable, porque en una constitucion democratica la privacidad se resuelve con tecnologia y no con normas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La tecnologia puede ayudar a proteger datos, pero sin una norma clara y aplicacion efectiva el derecho queda en el vacio."
+        },
+        {
+          "letter": "D",
+          "text": "Es inaceptable, porque el dato personal corresponde a su titular y su uso exige consentimiento y proteccion por ley.",
+          "is_correct": true,
+          "feedback": "Correcto. La protección de datos personales parte del respeto a la titularidad de la información, y por eso su uso requiere consentimiento y una norma que lo regule."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Evaluar una propuesta sobre datos personales exige partir de quien es el dueño del dato. La información personal pertenece a la persona y su uso requiere consentimiento, con las excepciones previstas en la ley. Entregar ese control a una entidad privada sin reglas claras vulnera un derecho constitucional. Es el tipo de debate que la formacion ciudadana debe promover, que no desconfiar de la tecnologia por principio. El principio guia es que la persona es titular de su propia información y no un recurso de terceros.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Reflexión ética y política",
+      "expected_success": 0.68,
+      "bundle_id": "CO-SOC-9-2026-W21-la-constitucionalidad-de-los-derechos-001-MASTERY-bundle",
+      "periodo": 21,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales_ciudadanas",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-9-2026-W21-la-constitucionalidad-de-los-derechos-001-MASTERY-bundle-v11",
+      "statement": "Un colegio prohibe que los estudiantes usen dispositivos moviles durante la clase. Que razonamiento equilibra mejor el caracter restrictivo de la medida con el derecho a la educación?",
+      "context": "En Villavicencio, un comite escolar evalua una medida que prohibe que los estudiantes usen telefonos moviles en clase.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La medida es valida si cumple una finalidad educativa legitima y si la restriccion es necesaria y proporcional, no arbitraria.",
+          "is_correct": true,
+          "feedback": "Correcto. Una restriccion de derechos no es invalida por el solo hecho de existir, cuando persigue una finalidad legitima y es necesaria y proporcional."
+        },
+        {
+          "letter": "B",
+          "text": "La medida es valida porque el derecho al uso de dispositivos no esta protegido por la Constitucion.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La constitución protege derechos generales como la libertad y la educación, y el uso de dispositivos queda dentro de areas que si pueden regularse."
+        },
+        {
+          "letter": "C",
+          "text": "La medida es invalida siempre, porque ninguna autoridad educativa puede limitar el uso de tecnologia en el aula.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La constitución admite restricciones validas a los derechos, de modo que una medida educativa proporcional no es automaticamente invalida."
+        },
+        {
+          "letter": "D",
+          "text": "La medida es valida porque la prohibicion aplica a todos por igual, sin importar el motivo por el que se adopta.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Que una medida aplique a todos no la hace valida por si sola, porque también debe perseguir una finalidad legitima y respetar la proporcionalidad."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Evaluar una restriccion exige verificar que sea valida en derecho y legitima en su proposito. Una medida escolar que limita el uso de dispositivos puede ser constitucional si persigue una finalidad educativa legitima y resulta necesaria y proporcional. La proporcionalidad exige que no exista una alternativa menos restrictiva que cumpla el mismo fin. Aplicar este criterio permite exigir la explicacion de la medida a quien la adopta. Sin justificacion, la restriccion se convierte en arbitraria.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Convivencia y paz",
+      "expected_success": 0.66,
+      "bundle_id": "CO-SOC-9-2026-W21-la-constitucionalidad-de-los-derechos-001-MASTERY-bundle",
+      "periodo": 21,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales_ciudadanas",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-9-2026-W21-la-constitucionalidad-de-los-derechos-001-MASTERY-bundle-v12",
+      "statement": "Una entidad oficial no responde a un derecho de peticion presentado por un ciudadano. Que juicio es más coherente con la constitución y con la democracia?",
+      "context": "En Pereira, las estudiantes de noveno grado discuten una situacion en la que un derecho de peticion presentado por un ciudadano nunca fue respondido.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El derecho de peticion se pierde si la entidad no contesta, porque solo vale la respuesta que llega.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El derecho de peticion no se pierde por la falta de respuesta, porque el silencio de la entidad es justamente lo que ese derecho busca evitar."
+        },
+        {
+          "letter": "B",
+          "text": "El ciudadano solo puede reclamar en los periodicos, porque en las instituciones no tiene otro medio.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El derecho de peticion se ejerce ante autoridades del Estado, y no solo ante medios de comunicacion como los periodicos o las redes sociales."
+        },
+        {
+          "letter": "C",
+          "text": "Que no hay nada que hacer, porque la Constitucion reconoce el derecho pero no obliga a responder.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La constitución reconoce el derecho de peticion y obliga a las autoridades a responder, de modo que el silencio es una falla constitucional."
+        },
+        {
+          "letter": "D",
+          "text": "Que el silencio vulnera el derecho de peticion y habilita al ciudadano a exigir respuesta e impugnar la decision.",
+          "is_correct": true,
+          "feedback": "Correcto. Si la entidad no responde, el ciudadano puede exigir el cumplimiento del deber de responder y usar las vias legales de impugnacion."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Evaluar el cumplimiento de un derecho exige saber que ese derecho existe y que es exigible. El derecho de peticion obliga a las autoridades a responder a los ciudadanos, y esa exigencia es una garantia constitucional de la democracia. Cuando no hay respuesta, el ciudadano puede exigirla e utilizar las vias de impugnacion previstas en la ley. Conocer este mecanismo convierte al estudiante de noveno grado en un ciudadano activo y no en un simple observador. Es la diferencia entre conocer los derechos y saber usarlos.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Sistema político y democracia",
+      "expected_success": 0.64,
+      "bundle_id": "CO-SOC-9-2026-W21-la-constitucionalidad-de-los-derechos-001-MASTERY-bundle",
+      "periodo": 21,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales_ciudadanas",
+      "grade": 9,
+      "country": "co"
+    }
+  ]
+}

@@ -1,0 +1,563 @@
+{
+  "metadata": {
+    "grade": 9,
+    "subject": "sociales_ciudadanas",
+    "country": "co",
+    "pack_id": "co-week-15-grade-9-subject-sociales_ciudadanas",
+    "generated_at": "2026-10-01T22:21:46.602Z"
+  },
+  "questions": [
+    {
+      "id": "CO-SOC-9-2026-W15-la-carta-internacional-de-derechos-humanos-001-MASTERY-bundle-v1",
+      "statement": "Que documento es la Declaracion Universal de los Derechos Humanos y cuando fue adoptada?",
+      "context": "En un colegio de Pasto, el profesor de Sociales Ciudadanas presenta el documento que se considera el punto de partida de los derechos humanos en el mundo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es un tratado de comercio internacional, adoptado en 1995 en la Organizacion Mundial del Comercio.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La Organizacion Mundial del Comercio regula el comercio, y no es el organismo que aprobo la Declaracion de 1948."
+        },
+        {
+          "letter": "B",
+          "text": "Es un codigo de procedimiento penal, adoptado por la Camara de Representantes en 1950.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La Declaracion Universal no es una norma procesal ni proviene del Congreso colombiano."
+        },
+        {
+          "letter": "C",
+          "text": "Es el documento aprobado en 1948 por la Asamblea General de las Naciones Unidas, que enuncia derechos comunes a toda la humanidad.",
+          "is_correct": true,
+          "feedback": "Correcto. La Declaracion Universal de los Derechos Humanos fue aprobada en Paris en 1948 por la Asamblea General de la ONU."
+        },
+        {
+          "letter": "D",
+          "text": "Es un acuerdo comercial regional, adoptado en 1969 por la Comunidad Andina para el comercio de la region.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La Comunidad Andina aprobo un acuerdo de comercio, y la Declaracion de Derechos es de alcance universal."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La Declaracion Universal de los Derechos Humanos es el texto fundacional de la protección internacional de los derechos. Fue aprobada en 1948 por la Asamblea General de las Naciones Unidas, despues de la Segunda Guerra Mundial. Enuncia derechos que pertenecen a toda persona por el solo hecho de ser humana, sin distincion. Reconocer su origen historico ayuda a entender por que los derechos se enuncian como universales y no como privilegios.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Pluralidad, identidad y desigualdad",
+      "expected_success": 0.9,
+      "bundle_id": "CO-SOC-9-2026-W15-la-carta-internacional-de-derechos-humanos-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales_ciudadanas",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-9-2026-W15-la-carta-internacional-de-derechos-humanos-001-MASTERY-bundle-v2",
+      "statement": "Que significa que los derechos humanos sean universales?",
+      "context": "Una Gore de las Naciones Unidas explica en un colegio de Ibague por que la palabra universal no significa que todos los paises apliquen la misma norma sin matices.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que los derechos se aplican igual en todos los paises, sin ninguna consideracion nacional.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La universalidad se refiere a que los derechos pertenecen a todas las personas, y no a que su aplicacion sea identica."
+        },
+        {
+          "letter": "B",
+          "text": "Que solo los Estados que los han ratificado estan obligados a respetarlos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La universalidad es el principio más amplio: ningun Estado puede aducir que un derecho no corresponde a ciertas personas."
+        },
+        {
+          "letter": "C",
+          "text": "Que los derechos corresponden a todas las personas por el hecho de ser humanas, sin distincion de origen, raza o condicion.",
+          "is_correct": true,
+          "feedback": "Correcto. La universalidad afirma que ningun ser humano queda por fuera de la protección de sus derechos."
+        },
+        {
+          "letter": "D",
+          "text": "Que los derechos se enuncian igual pero solo se aplican en los paises que los han ratificado.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Reducir la universalidad a la aplicacion nacional contradice el caracter universal de la protección."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Universal significa que los derechos no se conceden a ciertos grupos ni se retiran a otros: pertenecen a toda persona. Esa afirmacion es etica y jurídica a la vez, y es la que impide argumentar que un derecho se aplica solo a algunos sectores. Reconocer el principio permite identificar como universales los fundamentos que hacen legitima cualquier demanda de igualdad y dignidad.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Pluralidad, identidad y desigualdad",
+      "expected_success": 0.88,
+      "bundle_id": "CO-SOC-9-2026-W15-la-carta-internacional-de-derechos-humanos-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales_ciudadanas",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-9-2026-W15-la-carta-internacional-de-derechos-humanos-001-MASTERY-bundle-v3",
+      "statement": "Que efecto tiene, en el ordenamiento interno colombiano, la ratificacion de un tratado de derechos humanos?",
+      "context": "Una entidad de defensa de derechos presenta un caso ante un organismo internacional alleging una violacion a derechos fundamentales en Colombia.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El tratado es solo un documento de intencion political, sin efecto juridico interno.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Un tratado ratificado tiene fuerza de ley interna y puede invocarse ante un juez."
+        },
+        {
+          "letter": "B",
+          "text": "El tratado se aplica solo cuando existe una sentencia foreign que lo invoque.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El tratado tiene aplicacion directa por su incorporacion al bloque de derechos, sin esperar una sentencia."
+        },
+        {
+          "letter": "C",
+          "text": "El tratado se incorpora al ordenamiento interno y sus normas pueden invocarse para proteger derechos fundamentales.",
+          "is_correct": true,
+          "feedback": "Correcto. En Colombia los tratados de derechos humanos ratificados forman parte del ordenamiento y tienen jerarquia constitucional."
+        },
+        {
+          "letter": "D",
+          "text": "El tratado reemplaza la Constitucion nacional en todo lo que no se oponga a el.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ningun tratado puede desplazar la constitución; las normas internacionales se interpretan de armonia con ella."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "En Colombia la constitución reconoce los tratados de derechos humanos y les da una jerarquia especial dentro del bloque de derechos. Eso significa que un tratado ratificado puede invocarse ante un juez para proteger un derecho. No se trata de una superioridad del tratado sobre la constitución, sino de una armonia que obliga a leer las normas internas de conformidad con el compromiso internacional. Es la base de la recepcion de la Carta Internacional en Colombia.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Ciudadano",
+      "expected_success": 0.85,
+      "bundle_id": "CO-SOC-9-2026-W15-la-carta-internacional-de-derechos-humanos-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales_ciudadanas",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-9-2026-W15-la-carta-internacional-de-derechos-humanos-001-MASTERY-bundle-v4",
+      "statement": "Que derecho de la Carta Internacional se esta vulnerando en esta situacion?",
+      "context": "Una adolescente de 15 anos de Cartagena denuncia en su colegio que sus companeros la excluyen de un grupo de estudio por su origen familiar.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El derecho a la propiedad, porque se le impide usar un salon de estudio.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No se trata de propiedad, sino de la igualdad y la no discriminacion."
+        },
+        {
+          "letter": "B",
+          "text": "El derecho a la igualdad y a la no discriminacion, porque se le trata distinto por su origen familiar.",
+          "is_correct": true,
+          "feedback": "Correcto. La no discriminacion prohibe cualquier trato desigual por motivos como el origen, la raza o la condicion social."
+        },
+        {
+          "letter": "C",
+          "text": "El derecho a la libertad de expresion, porque no puede hablar cuando quiere.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La exclusion no le impide expresarse en general, sino que vulnera la igualdad y la no discriminacion."
+        },
+        {
+          "letter": "D",
+          "text": "El derecho a la educación, porque el Estado le impidio matricularse en la institution.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La exclusion viene de companeros, y no de una decisión del Estado, aunque vulnere la igualdad."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La no discriminacion es un principio transversal de toda la Carta Internacional. Se vulnera cuando alguien recibe un trato peor que otro por motivos como su origen, su raza, su sexo o su condicion social, y no por sus decisiones. Por eso puede ocurrir en una relacion entre estudiantes, y no solo en una relacion con el Estado. Reconocerlo permite nombrar lo que ocurre y tomar medidas.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Ciudadano",
+      "expected_success": 0.82,
+      "bundle_id": "CO-SOC-9-2026-W15-la-carta-internacional-de-derechos-humanos-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales_ciudadanas",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-9-2026-W15-la-carta-internacional-de-derechos-humanos-001-MASTERY-bundle-v5",
+      "statement": "Que instrumento de la Carta Internacional resulta pertinente en esta situacion y por que?",
+      "context": "En una escuela de Sincelejo, un estudiante de 16 anos es amenazado por un companero dentro de las instalaciones de la institución.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El derecho a la libertad de circulacion, porque el estudiante puede salir del colegio cuando quiera.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La libertad de circulacion no es el instrumento pertinente, porque el problema es la amenaza de un companero."
+        },
+        {
+          "letter": "B",
+          "text": "El derecho a la propiedad, porque el estudiante debe recuperar sus objetos personales.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El asunto no es la propiedad de objetos, sino la seguridad y la no violencia."
+        },
+        {
+          "letter": "C",
+          "text": "El derecho a la vida y a la integridad personal, porque una amenaza constituye una vulneracion grave.",
+          "is_correct": true,
+          "feedback": "Correcto. La Carta protege la vida y la integridad de toda persona, y una amenaza vulnera ese derecho."
+        },
+        {
+          "letter": "D",
+          "text": "El derecho a la educación, porque el estudiante podria dejar de asistir a clases.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La educación esta relacionada, pero el instrumento que protege frente a una amenaza directa es la integridad personal."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La Carta Internacional protege a la persona frente a distintas formas de violencia. Una amenaza dentro de un centro educativo vulnera el derecho a la vida y a la integridad personal, y activa la obligacion del Estado de proteger. Reconocer que la amenaza es una violacion y no un simple conflicto de convivencia permite activar los canales correctos. Es la base para entender la relacion entre derechos humanos y seguridad escolar.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Convivencia y paz",
+      "expected_success": 0.8,
+      "bundle_id": "CO-SOC-9-2026-W15-la-carta-internacional-de-derechos-humanos-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales_ciudadanas",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-9-2026-W15-la-carta-internacional-de-derechos-humanos-001-MASTERY-bundle-v6",
+      "statement": "Que diferencia existe entre la Comision Interamericana de Derechos Humanos y la Corte Interamericana de Derechos Humanos?",
+      "context": "Un organizado de la sociedad civil explica por que la Comision Interamericana de Derechos Humanos puede recibir una queja individual.",
+      "options": [
+        {
+          "letter": "B",
+          "text": "No existe diferencia: son dos nombres para el mismo organismo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Son organismos distintos con competencias distintas dentro del sistema interamericano."
+        },
+        {
+          "letter": "C",
+          "text": "La Comision solo conoce de casos entre Estados, y la Corte solo de casos individuales.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es exactamente al reves: la Comision conoce de peticiones individuales, y la Corte de casos contra Estados."
+        },
+        {
+          "letter": "A",
+          "text": "La Comision examina peticiones y evacua recomendaciones, mientras que la Corte dicta sentencias vinculantes en casos contra Estados.",
+          "is_correct": true,
+          "feedback": "Correcto. La Comision es un organo de supervision, y la Corte es un organo jurisdiccional con sentencia."
+        },
+        {
+          "letter": "D",
+          "text": "La Corte es un organismo consultivo de la ONU, y la Comision es un tribunal penal internacional.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ninguno de los dos es un tribunal penal: la Comision es de supervision, y la Corte es jurisdiccional."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El sistema interamericano de derechos tiene varios organismos con roles distintos. La Comision Interamericana de Derechos Humanos recibe peticiones individuales y evacua recomendaciones, y la Corte Interamericana de Derechos Humanos resuelve controversias entre el Estado y las personas. El primero supervisa, y el segundo juzga. Entender la diferencia permite escoger la via correcta según lo que se busca obtener.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Ciudadano",
+      "expected_success": 0.75,
+      "bundle_id": "CO-SOC-9-2026-W15-la-carta-internacional-de-derechos-humanos-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales_ciudadanas",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-9-2026-W15-la-carta-internacional-de-derechos-humanos-001-MASTERY-bundle-v7",
+      "statement": "Por que es insuficiente una charla sobre derechos humanos sin un ejercicio de aplicacion?",
+      "context": "Un profesor de Cundinamarca proyecta una campana de sensibilidad en la escuela y pide a los estudiantes que discutan los derechos humanos.",
+      "options": [
+        {
+          "letter": "C",
+          "text": "Porque las leyes internacionales no permiten hablar de derechos humanos en las escuelas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No existe tal prohibicion, y la educación en derechos es recomendada por las propias normas."
+        },
+        {
+          "letter": "B",
+          "text": "Porque los estudiantes no pueden aprender teorias sin verlas en la practica.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La critica es legitima, pero el problema central es otro: la charla no produce por si sola ningun cambio en la conducta."
+        },
+        {
+          "letter": "A",
+          "text": "Porque conocer un derecho no garantiza respetarlo: sin aplicacion, la charla no cambia conductas ni detecta vulneraciones reales.",
+          "is_correct": true,
+          "feedback": "Correcto. La educación en derechos es efectiva cuando incluye analisis de casos y practica, no solo exposicion teorica."
+        },
+        {
+          "letter": "D",
+          "text": "Porque las autoridades educativas miden el aprendizaje en derechos solo con actividades practicas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El criterio de la autoridad educativa no determina por si sola la eficacia pedagogica de una estrategia."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La educación en derechos humanos cumple dos funciones: informar y formar. Una charla solo informa, y no forma. Para que el aprendizaje tenga efecto se necesitan casos que obliguen a analizar, decidir y justificar. Esa practica es la que convierte un conocimiento declarativo en una conducta responsable. Es el criterio con que un docente puede evaluar cualquier estrategia pedagogica en esta area.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Reflexión ética y política",
+      "expected_success": 0.72,
+      "bundle_id": "CO-SOC-9-2026-W15-la-carta-internacional-de-derechos-humanos-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales_ciudadanas",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-9-2026-W15-la-carta-internacional-de-derechos-humanos-001-MASTERY-bundle-v8",
+      "statement": "Cual es la diferencia entre la Declaracion Universal de los Derechos Humanos y los Pactos internacionales?",
+      "context": "Un investigador compara los alcances de la Declaracion Universal y de los Pactos internacionales de derechos humanos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La Declaracion es un texto sin ningun contenido, y los Pactos son los unicos con contenido juridico.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La Declaracion tiene un valor normativo importante, aunque no sea un tratado vinculante en si mismo."
+        },
+        {
+          "letter": "B",
+          "text": "La Declaracion obliga solo a los paises que la firman, y los Pactos no obligan a nadie.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es la relacion inversa: los Pactos son vinculantes para quien los ratifica."
+        },
+        {
+          "letter": "C",
+          "text": "La Declaracion enuncia principios de forma general y no es un tratado; los Pactos los convierten en obligaciones juridicas vinculantes.",
+          "is_correct": true,
+          "feedback": "Correcto. La diferencia es de naturaleza jurídica: la Declaracion orienta, y los Pactos obligan a los Estados que los ratifican."
+        },
+        {
+          "letter": "D",
+          "text": "No hay diferencia alguna, porque ambos textos tienen exactamente la misma fuerza legal.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La diferencia de naturaleza jurídica es precisamente lo que permite distinguir los dos instrumentos."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La Declaracion Universal y los Pactos internacionales cumplen funciones distintas pero complementarias. La Declaracion fija los principios, y los Pactos los convierten en obligaciones exigibles a los Estados que los ratifican. Colombia ha ratificado los dos Pactos principales, y por eso puede invocar sus normas. Entender la diferencia evita confundir una aspiracion universal con un deber juridico exigible.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Ciudadano",
+      "expected_success": 0.7,
+      "bundle_id": "CO-SOC-9-2026-W15-la-carta-internacional-de-derechos-humanos-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales_ciudadanas",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-9-2026-W15-la-carta-internacional-de-derechos-humanos-001-MASTERY-bundle-v9",
+      "statement": "Por que la constitución colombiana da jerarquia constitucional a los tratados de derechos humanos?",
+      "context": "Un abonnement de la Universidad de Cartagena explica que la constitución reconoce los tratados de derechos humanos dentro del bloque de derechos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque un tratado internacional siempre tiene mas valor que la propia Constitucion del pais.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ningun tratado puede desplazar a la constitución: la jerarquia protege, y no supremacy."
+        },
+        {
+          "letter": "B",
+          "text": "Porque la Constitucion delega en la ONU la facultad de reescribir las normas internas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La ONU no tiene facultad de reescribir la constitución de un Estado miembro."
+        },
+        {
+          "letter": "C",
+          "text": "Porque su incorporacion garantiza que esos derechos no puedan ser ignorados por la legislacion ordinaria.",
+          "is_correct": true,
+          "feedback": "Correcto. La jerarquia constitucional impide que una ley ordinaria vacie de contenido un derecho reconocido en un tratado."
+        },
+        {
+          "letter": "D",
+          "text": "Porque esa jerarquia permite a los ciudadanos demandar en el extranjero cualquier asunto interno.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La jerarquia es interna: ordena la relacion entre normas, y no habilita demandas en el extranjero."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La constitución de 1991 dio un tratamiento especial a los tratados de derechos humanos por la gravedad de los conflictos que se TarragonaAvoid en la segunda guerra mundial. Al reconocerlos dentro del bloque de derechos, impide que el Congreso vacie de contenido un derecho internacional reconocido. Esa jerarquia es la garantia de que la protección internacional tenga efecto practico en Colombia. Entenderla explica por que un juez puede invocar un tratado para proteger un derecho.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Pluralidad, identidad y desigualdad",
+      "expected_success": 0.68,
+      "bundle_id": "CO-SOC-9-2026-W15-la-carta-internacional-de-derechos-humanos-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales_ciudadanas",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-9-2026-W15-la-carta-internacional-de-derechos-humanos-001-MASTERY-bundle-v10",
+      "statement": "Esta bien justificada esa medida frente a la Carta Internacional de Derechos Humanos?",
+      "context": "Un gobierno departamental propone restringir la manifestacion en redes sociales por considerar que deteriora la convivencia.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Si, porque la convivencia es un valor que puede anteponerse a cualquier libertad individual.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La convivencia es un bien, pero no autoriza anular un derecho fundamental: la restriccion seria desproporcionada."
+        },
+        {
+          "letter": "B",
+          "text": "Si, porque la libertad de expresion es un derecho de los adultos, y la propuesta solo afecta a menores de edad.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La libertad de expresion protege también a los menores de edad, y la propuesta no distingue por edad."
+        },
+        {
+          "letter": "C",
+          "text": "No, porque ninguna restriccion a la libertad de expresion puede justificarse bajo ningun supuesto.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La Carta admite restricciones legitimas, siempre que sean necesarias y proporcionales."
+        },
+        {
+          "letter": "D",
+          "text": "No, porque esa restriccion es general y preventiva, y no esta justificada por una prueba concreta del daño.",
+          "is_correct": true,
+          "feedback": "Correcto. Una restriccion de ese tipo debe ser legal, temporal y demostrada; sin daño probado, resulta desproporcionada."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "La Carta admite que algunos derechos se limiten, pero exige que la limitacion sea legal, necesaria y proporcional. Una restriccion general y preventiva, aplicada sin saber que daño concreto evita, incumple esos tres requisitos. Evaluar una medida restrictiva exige preguntar si responde a un daño concreto y si dura lo indispensable. Es un criterio de evaluacion que sirve para cualquier propuesta de limitacion de derechos.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Reflexión ética y política",
+      "expected_success": 0.65,
+      "bundle_id": "CO-SOC-9-2026-W15-la-carta-internacional-de-derechos-humanos-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales_ciudadanas",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-9-2026-W15-la-carta-internacional-de-derechos-humanos-001-MASTERY-bundle-v11",
+      "statement": "Que valoracion es más adecuada de esa decisión de admision?",
+      "context": "Un.selectiva admission de una universidad en Medellin rechaza a una postulante por no tener una certificacion de restringido identidad que exigianLocale a todos los#",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es adil discriminatoria si esa certificacion no guarda relacion con las competencias exigidas por el cargo.",
+          "is_correct": true,
+          "feedback": "Correcto. Poner una condicion que no se relaciona con el cargo convierte una selección en una practica discriminatoria."
+        },
+        {
+          "letter": "B",
+          "text": "Es licita, porque la universidad puede definir freely los requisitos de admision de sus programas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La autonomia universitaria permite definir criterios, pero no admite condiciones arbitrarias o ajenas al cargo."
+        },
+        {
+          "letter": "C",
+          "text": "Es licita, porque la identidad de la persona es relevante en todo proceso de selección.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La identidad es relevante solo cuando tiene relacion directa con el cargo, y nunca de forma abusiva."
+        },
+        {
+          "letter": "D",
+          "text": "Es indiferente, porque la postulante no ha alcanzado todavia la mayoria de edad.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La igualdad y la no discriminacion no dependen de la edad: se aplican a todas las personas."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El principio de no discriminacion exige que los criterios de selección se relacionen con el cargo y no con condiciones personales ajenas a el. Exigir una certificacion sin relacion con las competencias exigidas transforma una selección en una practica excluyente. Por eso la evaluacion responsable distingue entre requisitos pertinentes y condiciones abusivas. Es el criterio con que se evalua cualquier política de admision o de empleo.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Pluralidad, identidad y desigualdad",
+      "expected_success": 0.62,
+      "bundle_id": "CO-SOC-9-2026-W15-la-carta-internacional-de-derechos-humanos-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales_ciudadanas",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-9-2026-W15-la-carta-internacional-de-derechos-humanos-001-MASTERY-bundle-v12",
+      "statement": "Que evaluacion es más responsable de esa propuesta?",
+      "context": "Un estudiante de noveno grado presenta una propuesta de proyecto sobre los derechos de los migrantes en una ciudad fronteriza.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es pertinente, siempre que se base en fuentes verificables, incluya la voz de los migrantes y respete su dignidad.",
+          "is_correct": true,
+          "feedback": "Correcto. Una buena propuesta combina evidencia, participación de los afectados y respeto por las personas."
+        },
+        {
+          "letter": "B",
+          "text": "Es pertinente, porque cualquier denuncia sobre situaciones vulnerables autoriza represalias.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La denuncia no autoriza represalias, y el principio de no represalia protege a quienes participan."
+        },
+        {
+          "letter": "C",
+          "text": "Es insuficiente, porque la problemática de los migrantes exige soluciones de nivel nacional, y no puede estudiarse desde la escuela.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La escuela puede y debe estudiar estas problematicas, y esa es precisamente la funcion de la educación en derechos."
+        },
+        {
+          "letter": "D",
+          "text": "Es insuficiente, porque las personas migrantes no son ciudadanas colombianas y sus derechos no se discuten en clase.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los derechos humanos son universales y no dependen de la ciudadanía: se discuten justamente por eso."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Un proyecto escolar sobre derechos debe ser riguroso y etico a la vez. Eso significa trabajar con fuentes verificables, incluir la voz de las personas afectadas y evitar exponerlas a riesgos innecesarios. La participación de los migrantes en el diagnostico no es un adorno, es un requisito de legitimidad. Evaluar con estos tres criterios permite distinguir una propuesta solida de una que solo busca_llamar la atencion.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Reflexión ética y política",
+      "expected_success": 0.6,
+      "bundle_id": "CO-SOC-9-2026-W15-la-carta-internacional-de-derechos-humanos-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales_ciudadanas",
+      "grade": 9,
+      "country": "co"
+    }
+  ]
+}
