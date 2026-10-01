@@ -65,19 +65,16 @@ let checkedFeedbacks = 0;
 
 for (const abs of walk(root)) {
   const rel = path.relative(ROOT, abs);
-  const segments = rel.split('/');
-  // questions_data/<country>/<subject>/<grade>/<year>/<period>/<file>, so the
-  // subject sits at index 2. Locating it by position breaks as soon as the
-  // caller passes a directory other than questions_data, which the tests do,
-  // so it is found by name anywhere in the path instead.
-  const subject = segments.find((s) => ENGLISH_DIRS.has(s));
-  if (!subject) continue;
+  // questions_data/<country>/<subject>/<grade>/<year>/<period>/<file>. The
+  // subject is found by name, not by index, so the check also works when the
+  // caller passes a directory other than questions_data.
+  if (!rel.split('/').some((s) => ENGLISH_DIRS.has(s))) continue;
   const text = fs.readFileSync(abs, 'utf8');
   const feedbacks = [...text.matchAll(/<!--\s*feedback:\s*([\s\S]*?)\s*-->/g)].map((m) => m[1]);
   if (!feedbacks.length) continue;
   checkedFiles += 1;
   checkedFeedbacks += feedbacks.length;
-  const spanish = feedbacks.filter((f) => looksSpanish(f));
+  const spanish = feedbacks.filter(looksSpanish);
   if (spanish.length > feedbacks.length * 0.5) {
     offenders.push({
       file: rel,

@@ -53,14 +53,14 @@ const ENGLISH_FEEDBACK = [
   'Gerund.',
 ];
 
-function makeBundle(dir, stem, feedbacks) {
+function makeBundle(dir, stem, feedbacks, subject = 'ingles', option = 'The books are on the desk.') {
   // The script locates the language by the path shape
   // questions_data/<country>/<subject>/<grade>/..., so the fixture has to have
   // that shape or the subject is never recognised.
-  const weekly = path.join(dir, 'questions_data', 'co', 'ingles', 'grado-3', '2026', 'weekly');
+  const weekly = path.join(dir, 'questions_data', 'co', subject, 'grado-3', '2026', 'weekly');
   fs.mkdirSync(weekly, { recursive: true });
   const options = feedbacks
-    .map((f, i) => `- [${i === 0 ? 'x' : ' '}] ${'ABCD'[i]}) The books are on the desk.\n  <!-- feedback: ${f} -->`)
+    .map((f, i) => `- [${i === 0 ? 'x' : ' '}] ${'ABCD'[i]}) ${option}\n  <!-- feedback: ${f} -->`)
     .join('\n');
   const file = path.join(weekly, `T-ING-3-2026-W01-${stem}-001-MASTERY-bundle.md`);
   fs.writeFileSync(
@@ -104,18 +104,8 @@ try {
   });
 
   test('ignores a spanish-language bundle, where spanish feedback is correct', () => {
-    const d = path.join(tmp, 'd');
-    const weekly = path.join(d, 'questions_data', 'co', 'matematicas', 'grado-3', '2026', 'weekly');
-    fs.mkdirSync(weekly, { recursive: true });
-    const options = SPANISH_FEEDBACK.map(
-      (f, i) => `- [${i === 0 ? 'x' : ' '}] ${'ABCD'[i]}) 3 + 4 = 7\n  <!-- feedback: ${f} -->`
-    ).join('\n');
-    fs.writeFileSync(
-      path.join(weekly, 'T-MAT-3-2026-W01-x-001-MASTERY-bundle.md'),
-      `---\nid: "T-MAT-3-2026-W01-x-001-MASTERY-bundle"\ncountry: "co"\ngrado: 3\n---\n\n## Question 1 [D3-D4]\n**ID:** q1\n\n### Enunciado\n¿Cuánto es 3 + 4?\n\n### Opciones\n${options}\n`,
-      'utf8'
-    );
-    const r = run(d);
+    makeBundle(path.join(tmp, 'd'), 'x', SPANISH_FEEDBACK, 'matematicas', '3 + 4 = 7');
+    const r = run(path.join(tmp, 'd'));
     assert.equal(r.checkedFiles, 0);
     assert.equal(r.offenders.length, 0);
   });
