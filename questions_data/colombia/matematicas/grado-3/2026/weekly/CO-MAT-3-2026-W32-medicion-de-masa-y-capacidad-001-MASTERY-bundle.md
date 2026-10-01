@@ -159,7 +159,7 @@ Comparar masas exige llevar ambas a la misma unidad antes de restar o comparar. 
 - [ ] B) 8 frascos y 0 mL
   <!-- feedback: Incorrecto. Subiste un frasco de más, porque 8 × 250 = 2.000 mL y eso supera los 1.900 mL que hay. -->
 - [x] C) 7 frascos y 150 mL
-  <!-- feedback: Correcto. 1.900 ÷ 250 = 7 frascos con residuo 200, y sobran 1.900 − 1.750 = 150 mL que no completan otro frasco. -->
+  <!-- feedback: Correcto. 1.900 ÷ 250 = 7 frascos con residuo 150, y sobran 1.900 − 1.750 = 150 mL que no completan otro frasco. -->
 - [ ] D) 7 frascos y 250 mL
   <!-- feedback: Incorrecto. El número de frascos sí es 7, pero diste como sobrante el tamaño de un frasco en vez de restar 1.750 de 1.900. -->
 
