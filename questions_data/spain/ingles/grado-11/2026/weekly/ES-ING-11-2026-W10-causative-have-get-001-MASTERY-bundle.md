@@ -24,459 +24,460 @@ bundle_index: 1
 ## Question 1 [D3]
 **ID:** ES-ING-11-2026-W10-causative-have-get-001-MASTERY-bundle-v1
 **Bloom:** Remember
-**EJE:** Lexico
+**EJE:** Morfosintaxis
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** A student is explaining what happened to her car last week.
 
 ### Enunciado
-What is the English word for: "A place where you live or stay on holiday."
+What does the causative sentence I had my car repaired mean?
 
 ### Opciones
-- [x] A) accommodation
-  <!-- feedback: Correct! 'accommodation' is the place where you live or stay, especially on holiday, and it is the word the definition asks for. -->
-- [ ] B) transportation
-  <!-- feedback: 'transportation' is the system that moves people or goods (buses, trains, taxis), not a place where you live or stay. -->
-- [ ] C) entertainment
-  <!-- feedback: 'entertainment' means the shows, music and activities that amuse you, so it names an experience rather than a place. -->
-- [ ] D) currency
-  <!-- feedback: 'currency' is the money system of a country, such as the dollar or the colon, so it has nothing to do with a place to stay. -->
+- [x] A) Another person repaired my car for me.
+  <!-- feedback: This is right: had plus object plus past participle means that someone else did the repair on my behalf. -->
+- [ ] B) I repaired my car with my own hands.
+  <!-- feedback: This would be the active sentence I repaired my car, where I am the one doing the work, not the causative. -->
+- [ ] C) My car has never needed any repair.
+  <!-- feedback: The sentence describes a completed repair, so it says nothing about the car never needing one. -->
+- [ ] D) I was repairing my car at that moment.
+  <!-- feedback: The progressive was repairing describes my own action in progress, not work arranged for me. -->
 
 ### Explicacion Pedagogica
-The word 'accommodation' is used to describe a place where you live or stay on holiday. This is an important vocabulary word in English.
+In have plus object plus past participle the subject arranges the action but does not perform it, so I had my car repaired means a garage did the work.
 ---
-## Question 2 [D4]
+## Question 2 [D3]
 **ID:** ES-ING-11-2026-W10-causative-have-get-001-MASTERY-bundle-v2
 **Bloom:** Remember
-**EJE:** Lexico
+**EJE:** Morfosintaxis
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** A teacher writes two causative patterns on the board for the class.
 
 ### Enunciado
-What is the English word for: "A detailed plan or route of a journey."
+Which sentence uses the pattern get plus person plus to infinitive correctly?
 
 ### Opciones
-- [x] B) itinerary
-  <!-- feedback: Correct! An 'itinerary' is the detailed plan or route of a journey: it lists the places, stops and times in order. -->
-- [ ] A) baggage
-  <!-- feedback: 'baggage' means the suitcases and bags you travel with, not the plan that organises the trip. -->
-- [ ] C) destination
-  <!-- feedback: 'destination' is the place you are travelling to, one single stop of the plan rather than the plan itself. -->
-- [ ] D) passport
-  <!-- feedback: 'passport' is the official travel document you show at the border, not a description of the journey route. -->
+- [ ] A) She got her brother carry the boxes.
+  <!-- feedback: The bare infinitive carry is used after have plus a person, not after get plus a person. -->
+- [x] B) She got her brother to carry the boxes.
+  <!-- feedback: This is right: after get plus a person the verb needs the to infinitive, so to carry is the correct form. -->
+- [ ] C) She got her brother carried the boxes.
+  <!-- feedback: The past participle carried belongs to get plus object plus participle, where the object is a thing rather than a person who acts. -->
+- [ ] D) She got her brother carrying the boxes.
+  <!-- feedback: The ing form carrying cannot follow get plus a person in this causative pattern. -->
 
 ### Explicacion Pedagogica
-The word 'itinerary' is used to describe a detailed plan or route of a journey. This is an important vocabulary word in English.
+The pattern get someone to do something always keeps the to before the verb: she got her brother to carry the boxes.
 ---
-## Question 3 [D3]
+## Question 3 [D4]
 **ID:** ES-ING-11-2026-W10-causative-have-get-001-MASTERY-bundle-v3
 **Bloom:** Understand
-**EJE:** Lexico
+**EJE:** Morfosintaxis
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Two students compare how formal the two causative verbs sound.
 
 ### Enunciado
-What is the English word for: "The place to which someone or something is going or being sent."
+Which statement about have and get in the causative is correct?
 
 ### Opciones
-- [x] B) destination
-  <!-- feedback: Correct! A 'destination' is the place to which someone or something is going or being sent. -->
-- [ ] A) departure
-  <!-- feedback: 'departure' is the act of leaving, the opposite side of the trip; the definition asks for the place, not the action. -->
-- [ ] C) arrival
-  <!-- feedback: 'arrival' is the event of getting there, but a definition needs the place itself, not the moment of reaching it. -->
-- [ ] D) journey
-  <!-- feedback: 'journey' is the whole trip from one place to another, whereas the definition names only where it ends. -->
+- [ ] A) Get can only take a past participle.
+  <!-- feedback: Get also takes a person with a to infinitive, as in get someone to help, so the claim is too narrow. -->
+- [ ] B) Have can never take a past participle.
+  <!-- feedback: Have takes a past participle in have something done, so this claim is false. -->
+- [x] C) Have sounds more formal than get in the causative.
+  <!-- feedback: This is right: have is the neutral or formal choice, while get is common in informal speech. -->
+- [ ] D) Get is always more formal than have.
+  <!-- feedback: Get is the informal option, not the more formal one, so the sentence reverses the register. -->
 
 ### Explicacion Pedagogica
-The word 'destination' is used to describe the place to which someone or something is going or being sent. This is an important vocabulary word in English.
+Both verbs build the causative, but have fits formal writing while get is typical of everyday conversation.
 ---
 ## Question 4 [D4]
 **ID:** ES-ING-11-2026-W10-causative-have-get-001-MASTERY-bundle-v4
 **Bloom:** Understand
-**EJE:** Lexico
+**EJE:** Morfosintaxis
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** A student proofreads a paragraph about home repairs.
 
 ### Enunciado
-What is the English word for: "Suitcases or other bags in which to pack personal belongings for traveling."
+Which sentence uses the causative have with a past participle correctly?
 
 ### Opciones
-- [x] A) luggage
-  <!-- feedback: Correct! 'luggage' is the collective word for the suitcases and bags in which personal belongings are packed for travelling. -->
-- [ ] B) ticket
-  <!-- feedback: a 'ticket' is the document that gives you the right to travel; it carries nothing at all. -->
-- [ ] C) flight
-  <!-- feedback: a 'flight' is the trip itself by plane, not the bags you pack for it. -->
-- [ ] D) reservation
-  <!-- feedback: a 'reservation' is the booking held for a seat or a room, not the container where clothes go. -->
+- [ ] A) We had the windows clean last week.
+  <!-- feedback: The bare adjective clean cannot serve as the past participle in this causative pattern. -->
+- [ ] B) We had cleaned the windows last week.
+  <!-- feedback: Had cleaned is the past perfect active, which says we cleaned them ourselves, not the causative. -->
+- [ ] C) We had the windows cleaning last week.
+  <!-- feedback: The ing form cleaning is not the participle this pattern requires. -->
+- [x] D) We had the windows cleaned last week.
+  <!-- feedback: This is right: the pattern is have plus object plus past participle, so cleaned is the correct form. -->
 
 ### Explicacion Pedagogica
-The word 'luggage' is used to describe suitcases or other bags in which to pack personal belongings for traveling. This is an important vocabulary word in English.
+The causative have takes an object and a past participle, so the windows were cleaned by someone we arranged.
 ---
 ## Question 5 [D5]
 **ID:** ES-ING-11-2026-W10-causative-have-get-001-MASTERY-bundle-v5
-**Bloom:** Understand
-**EJE:** Lexico
+**Bloom:** Apply
+**EJE:** Morfosintaxis
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** A girl tells her friend about her appointment at a new salon.
 
 ### Enunciado
-What is the English word for: "A traveler on a public or private conveyance other than the driver, pilot, or crew."
+I had my hair ___ at the new salon yesterday. Choose the correct form.
 
 ### Opciones
-- [x] B) passenger
-  <!-- feedback: Correct! A 'passenger' is a traveller on a public or private conveyance who is neither the driver, the pilot nor the crew. -->
-- [ ] A) pedestrian
-  <!-- feedback: a 'pedestrian' travels on foot, so there is no driver, pilot or crew in the vehicle at all. -->
-- [ ] C) commuter
-  <!-- feedback: a 'commuter' is defined by the regular trip to work or study, not by riding any conveyance. -->
-- [ ] D) tourist
-  <!-- feedback: a 'tourist' travels for pleasure and visits places of interest; the definition here is about the role on the vehicle. -->
+- [x] A) cut
+  <!-- feedback: This is right: cut is the past participle of this irregular verb, and it fits have plus object plus participle. -->
+- [ ] B) cutted
+  <!-- feedback: Cutted is not a real form; the verb cut keeps the same form in the past and the participle. -->
+- [ ] C) cutting
+  <!-- feedback: Cutting is the ing form and cannot fill the participle slot in have something done. -->
+- [ ] D) to cut
+  <!-- feedback: The to infinitive to cut does not follow the object in this causative pattern. -->
 
 ### Explicacion Pedagogica
-The word 'passenger' is used to describe a traveler on a public or private conveyance other than the driver, pilot, or crew. This is an important vocabulary word in English.
+After have plus object the verb appears as a past participle, and cut is unchanged because it is irregular.
 ---
-## Question 6 [D6]
+## Question 6 [D5]
 **ID:** ES-ING-11-2026-W10-causative-have-get-001-MASTERY-bundle-v6
-**Bloom:** Understand
-**EJE:** Lexico
+**Bloom:** Apply
+**EJE:** Morfosintaxis
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** A student describes how she moved to a new flat last month.
 
 ### Enunciado
-What is the English word for: "The place at a port, airport, or frontier where officials check incoming goods, travelers, or luggage."
+Maria got her brother ___ her with the move. Choose the correct form.
 
 ### Opciones
-- [x] A) customs
-  <!-- feedback: Correct! 'customs' is the place at a port, airport or frontier where officials check incoming goods, travellers and luggage. -->
-- [ ] B) security
-  <!-- feedback: 'security' staff prevent accidents and crime inside the building; the officials who check goods and travellers are customs. -->
-- [ ] C) terminal
-  <!-- feedback: a 'terminal' is the building where passengers wait for a departure, not the office where the checks are done. -->
-- [ ] D) gate
-  <!-- feedback: a 'gate' is the door or boarding point on the aircraft, not the place where officials inspect your belongings. -->
+- [ ] A) help
+  <!-- feedback: The bare infinitive help follows have plus person, not get plus person. -->
+- [x] B) to help
+  <!-- feedback: This is right: get plus a person takes the to infinitive, so to help is the correct form. -->
+- [ ] C) helped
+  <!-- feedback: The past participle helped would belong to get plus a thing plus participle, not to a person who acts. -->
+- [ ] D) helping
+  <!-- feedback: The ing form helping is not allowed after get plus person in this pattern. -->
 
 ### Explicacion Pedagogica
-The word 'customs' is used to describe the place at a port, airport, or frontier where officials check incoming goods, travelers, or luggage. This is an important vocabulary word in English.
+The pattern get someone to do something keeps the to before the verb: Maria got her brother to help her.
 ---
-## Question 7 [D5]
+## Question 7 [D6]
 **ID:** ES-ING-11-2026-W10-causative-have-get-001-MASTERY-bundle-v7
 **Bloom:** Apply
-**EJE:** Lexico
+**EJE:** Morfosintaxis
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** A family talks about the damage caused by a storm.
 
 ### Enunciado
-What is the English word for: "A document provided by an airline during check-in, giving a passenger permission to board the airplane."
+Which sentence means that a professional did the work for the family?
 
 ### Opciones
-- [x] D) boarding pass
-  <!-- feedback: Correct! A 'boarding pass' is the document the airline issues at check-in that gives the passenger permission to board. -->
-- [ ] A) visa
-  <!-- feedback: a 'visa' is the permission to enter a country, obtained before the trip and not from the airline. -->
-- [ ] B) receipt
-  <!-- feedback: a 'receipt' only proves that you paid; it does not let you board the plane. -->
-- [ ] C) brochure
-  <!-- feedback: a 'brochure' is printed information about the airline or the destination, not a travel document. -->
+- [ ] A) We repaired our roof after the storm.
+  <!-- feedback: The active repaired says that we did the work ourselves, which is the opposite meaning. -->
+- [ ] B) We were repairing our roof after the storm.
+  <!-- feedback: The progressive were repairing also shows us doing the work, not a professional. -->
+- [x] C) We had our roof repaired after the storm.
+  <!-- feedback: This is right: the causative had plus object plus participle shows that someone else did the repair. -->
+- [ ] D) Our roof repairs after the storm.
+  <!-- feedback: This word order is not a grammatical English sentence at all. -->
 
 ### Explicacion Pedagogica
-The word 'boarding pass' is used to describe a document provided by an airline during check-in, giving a passenger permission to board the airplane. This is an important vocabulary word in English.
+The causative had our roof repaired places the action in someone else's hands, so a professional did the job.
 ---
 ## Question 8 [D6]
 **ID:** ES-ING-11-2026-W10-causative-have-get-001-MASTERY-bundle-v8
 **Bloom:** Apply
-**EJE:** Lexico
+**EJE:** Morfosintaxis
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** A driver explains what he did not arrange before a long trip.
 
 ### Enunciado
-What is the English word for: "The activity of visiting places of interest in a particular location."
+I did not have my car ___ before the trip. Choose the correct form.
 
 ### Opciones
-- [x] A) sightseeing
-  <!-- feedback: Correct! 'sightseeing' is the activity of visiting the places of interest of a location. -->
-- [ ] B) shopping
-  <!-- feedback: 'shopping' is buying things in stores, not the general activity of visiting a place's sights. -->
-- [ ] C) hiking
-  <!-- feedback: 'hiking' is one specific outdoor walk in nature, only one kind of activity out of many. -->
-- [ ] D) camping
-  <!-- feedback: 'camping' means staying outdoors in a tent, which is not what a visitor does in a city or landmark. -->
+- [ ] A) service
+  <!-- feedback: The bare verb service cannot follow the object in have something done. -->
+- [ ] B) servicing
+  <!-- feedback: The ing form servicing is not the participle this pattern needs. -->
+- [ ] C) to service
+  <!-- feedback: The to infinitive to service does not fit after the object here. -->
+- [x] D) serviced
+  <!-- feedback: This is right: the negative causative keeps the past participle serviced after the object. -->
 
 ### Explicacion Pedagogica
-The word 'sightseeing' is used to describe the activity of visiting places of interest in a particular location. This is an important vocabulary word in English.
+Negation does not change the pattern, so did not have my car serviced keeps object plus past participle.
 ---
-## Question 9 [D5]
+## Question 9 [D6]
 **ID:** ES-ING-11-2026-W10-causative-have-get-001-MASTERY-bundle-v9
 **Bloom:** Apply
-**EJE:** Lexico
+**EJE:** Morfosintaxis
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** An office worker reports a problem with a machine.
 
 ### Enunciado
-What is the English word for: "A thing that is kept as a reminder of a person, place, or event."
+The printer is broken, but I will get it ___ tomorrow. Choose the correct form.
 
 ### Opciones
-- [x] B) souvenir
-  <!-- feedback: Correct! A 'souvenir' is the object that is kept as a reminder of a person, place or event. -->
-- [ ] A) gift
-  <!-- feedback: a 'gift' is something given to someone, but it is not necessarily kept as a reminder of a place or an event. -->
-- [ ] C) award
-  <!-- feedback: an 'award' is an honour granted by an institution for merit, not a keepsake. -->
-- [ ] D) prize
-  <!-- feedback: a 'prize' is the reward of a competition; the definition describes an object kept as a memento. -->
+- [x] A) fixed
+  <!-- feedback: This is right: get plus object plus past participle uses fixed for a machine that someone will repair. -->
+- [ ] B) fix
+  <!-- feedback: The bare verb fix is used with get plus a person, not with a thing such as it. -->
+- [ ] C) fixing
+  <!-- feedback: The ing form fixing does not fill the participle slot in get something done. -->
+- [ ] D) to fix
+  <!-- feedback: The to infinitive to fix follows get plus a person, not get plus a thing. -->
 
 ### Explicacion Pedagogica
-The word 'souvenir' is used to describe a thing that is kept as a reminder of a person, place, or event. This is an important vocabulary word in English.
+With a thing as the object, get takes a past participle, so the printer will be fixed by someone.
 ---
-## Question 10 [D6]
+## Question 10 [D7]
 **ID:** ES-ING-11-2026-W10-causative-have-get-001-MASTERY-bundle-v10
-**Bloom:** Apply
-**EJE:** Lexico
+**Bloom:** Analyze
+**EJE:** Morfosintaxis
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** A teacher marks a student's sentence about a garage visit.
 
 ### Enunciado
-What is the English word for: "A period of time by which something is late or postponed."
+Which sentence places the time expression correctly in a causative sentence?
 
 ### Opciones
-- [x] B) delay
-  <!-- feedback: Correct! A 'delay' is the extra period of time by which something ends up late or postponed. -->
-- [ ] A) cancellation
-  <!-- feedback: a 'cancellation' means the trip or event will not happen at all, not that it happens later. -->
-- [ ] C) departure
-  <!-- feedback: 'departure' is simply the moment of leaving, which can be perfectly punctual. -->
-- [ ] D) arrival
-  <!-- feedback: 'arrival' is the moment of reaching the place, and it says nothing about being late. -->
+- [ ] A) She had yesterday her car repaired.
+  <!-- feedback: The adverb yesterday cannot sit between had and its object, so the order is wrong. -->
+- [x] B) She had her car repaired yesterday.
+  <!-- feedback: This is right: the time expression comes after the whole causative phrase at the end of the sentence. -->
+- [ ] C) She had her car yesterday repaired.
+  <!-- feedback: The adverb cannot split the object her car from the participle repaired. -->
+- [ ] D) Yesterday she had repaired her car.
+  <!-- feedback: Had repaired is the past perfect active, so this is not the causative at all. -->
 
 ### Explicacion Pedagogica
-The word 'delay' is used to describe a period of time by which something is late or postponed. This is an important vocabulary word in English.
+The causative block have plus object plus participle stays together, and the time expression follows it.
 ---
 ## Question 11 [D7]
 **ID:** ES-ING-11-2026-W10-causative-have-get-001-MASTERY-bundle-v11
-**Bloom:** Apply
-**EJE:** Lexico
+**Bloom:** Analyze
+**EJE:** Morfosintaxis
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** A homeowner describes how the wiring was checked.
 
 ### Enunciado
-What is the English word for: "The act of reporting one's presence and registering, typically at an airport or hotel."
+Which sentence uses have plus a person plus the bare infinitive?
 
 ### Opciones
-- [x] B) check-in
-  <!-- feedback: Correct! 'Check-in' is the act of reporting your presence and registering at an airport or hotel counter. -->
-- [ ] A) check-out
-  <!-- feedback: 'check-out' is the opposite moment, when you pay and hand the room key back before leaving. -->
-- [ ] C) booking
-  <!-- feedback: 'booking' is the reservation made beforehand; check-in is what you do on arrival. -->
-- [ ] D) reservation
-  <!-- feedback: a 'reservation' is the earlier record of your booking, not the act of registering your presence. -->
+- [ ] A) I had the wiring checked by the electrician.
+  <!-- feedback: This is the other causative pattern, have plus object plus past participle, not have plus person. -->
+- [ ] B) I had the electrician to check the wiring.
+  <!-- feedback: After have plus a person the verb must be bare, so to check is wrong. -->
+- [x] C) I had the electrician check the wiring.
+  <!-- feedback: This is right: have plus a person takes the bare infinitive check, with no to. -->
+- [ ] D) I had checked the wiring by the electrician.
+  <!-- feedback: Had checked is the past perfect active and does not fit the causative meaning. -->
 
 ### Explicacion Pedagogica
-The word 'check-in' is used to describe the act of reporting one's presence and registering, typically at an airport or hotel. This is an important vocabulary word in English.
+When a person follows have, the verb is a bare infinitive: I had the electrician check the wiring.
 ---
-## Question 12 [D8]
+## Question 12 [D7]
 **ID:** ES-ING-11-2026-W10-causative-have-get-001-MASTERY-bundle-v12
-**Bloom:** Apply
-**EJE:** Lexico
+**Bloom:** Analyze
+**EJE:** Morfosintaxis
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** A driver tells a friend how she persuaded a mechanic to help.
 
 ### Enunciado
-What is the English word for: "A period of rest or waiting before a further stage in a journey."
+Which sentence means that I persuaded the mechanic to look at the engine?
 
 ### Opciones
-- [x] B) layover
-  <!-- feedback: Correct! A 'layover' is a period of rest or waiting between two further stages of a journey. -->
-- [ ] A) stopover
-  <!-- feedback: 'stopover' is used mainly for trains and usually for a longer, often overnight, break on a rail journey. -->
-- [ ] C) transfer
-  <!-- feedback: a 'transfer' is the change from one vehicle or flight to another, not the pause itself. -->
-- [ ] D) transit
-  <!-- feedback: 'transit' means the action of passing through a place, with no idea of resting between stages. -->
+- [ ] A) I got the engine to look at the mechanic.
+  <!-- feedback: This reverses the roles, because an engine cannot look at a mechanic. -->
+- [ ] B) I got the engine looked at the mechanic.
+  <!-- feedback: The order is jumbled and the participle looked does not fit the person as agent. -->
+- [ ] C) I got looking at the engine the mechanic.
+  <!-- feedback: This word order is not grammatical and the ing form is out of place. -->
+- [x] D) I got the mechanic to look at the engine.
+  <!-- feedback: This is right: get plus a person takes the to infinitive, and the person is the one who looks. -->
 
 ### Explicacion Pedagogica
-The word 'layover' is used to describe a period of rest or waiting before a further stage in a journey. This is an important vocabulary word in English.
+With get, the person who acts comes right after the verb and takes the to infinitive: got the mechanic to look.
 ---
 ## Question 13 [D7]
 **ID:** ES-ING-11-2026-W10-causative-have-get-001-MASTERY-bundle-v13
 **Bloom:** Analyze
-**EJE:** Lexico
+**EJE:** Morfosintaxis
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** A clinic receptionist asks a patient about a past eye test.
 
 ### Enunciado
-What is the English word for: "A system of money in general use in a particular country."
+Which question asks correctly about a service someone arranged in the past?
 
 ### Opciones
-- [x] A) currency
-  <!-- feedback: Correct! 'Currency' is the money system in general use in a particular country. -->
-- [ ] B) coin
-  <!-- feedback: a 'coin' is one single piece of money, not the whole system used in the country. -->
-- [ ] C) banknote
-  <!-- feedback: a 'banknote' is one single paper note of that system, not the system itself. -->
-- [ ] D) cash
-  <!-- feedback: 'cash' means money in coins and notes in general, not the specific monetary system of a country. -->
+- [x] A) Did you have your eyes tested last year?
+  <!-- feedback: This is right: after did the verb is the base have, followed by object and past participle. -->
+- [ ] B) Did you had your eyes tested last year?
+  <!-- feedback: The auxiliary did already marks the past, so the main verb cannot also be had. -->
+- [ ] C) Did you have tested your eyes last year?
+  <!-- feedback: Have tested your eyes is the present perfect active, not the causative pattern. -->
+- [ ] D) Do you had your eyes tested last year?
+  <!-- feedback: Do does not combine with had, and the tense does not match the past question. -->
 
 ### Explicacion Pedagogica
-The word 'currency' is used to describe a system of money in general use in a particular country. This is an important vocabulary word in English.
+In questions the auxiliary did carries the tense, so the causative keeps have plus object plus participle.
 ---
 ## Question 14 [D8]
 **ID:** ES-ING-11-2026-W10-causative-have-get-001-MASTERY-bundle-v14
 **Bloom:** Analyze
-**EJE:** Lexico
+**EJE:** Morfosintaxis
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** A journalist writes a formal report for a company newsletter.
 
 ### Enunciado
-What is the English word for: "A book of information about a place designed for the use of visitors or tourists."
+Which sentence is the best formal causative choice for a written report?
 
 ### Opciones
-- [x] D) guidebook
-  <!-- feedback: Correct! A 'guidebook' is a book of information about a place written for the use of visitors and tourists. -->
-- [ ] A) map
-  <!-- feedback: a 'map' shows the layout of streets and places, but it is a drawing rather than a book of information. -->
-- [ ] B) dictionary
-  <!-- feedback: a 'dictionary' gives the meaning of words, not details about a destination for travellers. -->
-- [ ] C) encyclopedia
-  <!-- feedback: an encyclopedia covers all branches of knowledge rather than one particular place for visitors. -->
+- [ ] A) The company got the report translated into Spanish.
+  <!-- feedback: This is grammatical but get is informal and better suited to speech than to a report. -->
+- [x] B) The company had the report translated into Spanish.
+  <!-- feedback: This is right: have plus object plus past participle is the neutral and formal causative. -->
+- [ ] C) The company got translate the report into Spanish.
+  <!-- feedback: Get cannot take the bare verb translate directly after the object. -->
+- [ ] D) The company had translate the report into Spanish.
+  <!-- feedback: Have cannot take the bare verb translate directly after the object either. -->
 
 ### Explicacion Pedagogica
-The word 'guidebook' is used to describe a book of information about a place designed for the use of visitors or tourists. This is an important vocabulary word in English.
+Formal writing prefers have in the causative, so had the report translated suits the newsletter.
 ---
-## Question 15 [D7]
+## Question 15 [D8]
 **ID:** ES-ING-11-2026-W10-causative-have-get-001-MASTERY-bundle-v15
 **Bloom:** Analyze
-**EJE:** Lexico
+**EJE:** Morfosintaxis
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** A student studies two causative sentences with the same meaning.
 
 ### Enunciado
-What is the English word for: "A bag with shoulder straps that allow it to be carried on one's back."
+Which pair of sentences has the same meaning?
 
 ### Opciones
-- [x] C) backpack
-  <!-- feedback: Correct! A 'backpack' has shoulder straps and is designed to be carried on one's back. -->
-- [ ] A) suitcase
-  <!-- feedback: a 'suitcase' is dragged by a handle beside the body; it has no shoulder straps. -->
-- [ ] B) briefcase
-  <!-- feedback: a 'briefcase' is a case for documents and a laptop that is carried in the hand. -->
-- [ ] D) handbag
-  <!-- feedback: a 'handbag' is a small bag held in the hand, not carried on the back. -->
+- [ ] A) I will get the plumber to fix it. = I will fix it myself.
+  <!-- feedback: In the first sentence the plumber does the work, not the speaker, so the meanings differ. -->
+- [ ] B) I will have the plumber fix it. = The plumber will have me fix it.
+  <!-- feedback: The second sentence reverses who gives the order, so the two meanings are opposite. -->
+- [x] C) I will get the plumber to fix it. = I will have the plumber fix it.
+  <!-- feedback: This is right: get plus person plus to infinitive and have plus person plus bare infinitive describe the same arrangement. -->
+- [ ] D) I will get the plumber to fix it. = The plumber will get me to fix it.
+  <!-- feedback: Here the plumber becomes the one who arranges, so the meaning changes completely. -->
 
 ### Explicacion Pedagogica
-The word 'backpack' is used to describe a bag with shoulder straps that allow it to be carried on one's back. This is an important vocabulary word in English.
+The patterns get someone to do and have someone do express the same idea with a different causative verb.
 ---
 ## Question 16 [D8]
 **ID:** ES-ING-11-2026-W10-causative-have-get-001-MASTERY-bundle-v16
 **Bloom:** Analyze
-**EJE:** Lexico
+**EJE:** Morfosintaxis
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** A man prepares for a job interview and thinks about his clothes.
 
 ### Enunciado
-What is the English word for: "In or to a foreign country, especially one across the sea."
+Which sentence uses get plus object plus past participle correctly?
 
 ### Opciones
-- [x] A) overseas
-  <!-- feedback: Correct! 'Overseas' means in or to a foreign country, especially one reached across the sea. -->
-- [ ] B) domestic
-  <!-- feedback: 'domestic' means inside the same country, which is the opposite of overseas. -->
-- [ ] C) local
-  <!-- feedback: 'local' means belonging to the area where you already are, again the opposite meaning. -->
-- [ ] D) national
-  <!-- feedback: 'national' refers to the nation as a whole, but it does not mean being abroad. -->
+- [ ] A) He got cleaned his jacket before the interview.
+  <!-- feedback: The participle cleaned cannot come before the object in this pattern. -->
+- [ ] B) He got his jacket clean it before the interview.
+  <!-- feedback: The pronoun it has no place here and makes the sentence ungrammatical. -->
+- [ ] C) He got his jacket to clean before the interview.
+  <!-- feedback: The to infinitive to clean follows get plus a person, not get plus a thing. -->
+- [x] D) He got his jacket cleaned before the interview.
+  <!-- feedback: This is right: get plus object plus past participle orders the words as got his jacket cleaned. -->
 
 ### Explicacion Pedagogica
-The word 'overseas' is used to describe in or to a foreign country, especially one across the sea. This is an important vocabulary word in English.
+When the object is a thing, get takes a past participle, so he arranged for his jacket to be cleaned.
 ---
 ## Question 17 [D9]
 **ID:** ES-ING-11-2026-W10-causative-have-get-001-MASTERY-bundle-v17
 **Bloom:** Evaluate
-**EJE:** Lexico
+**EJE:** Morfosintaxis
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** A student rewrites a sentence about a car service for homework.
 
 ### Enunciado
-What is the English word for: "An estimate of income and expenditure for a set period of time."
+Which sentence best paraphrases A mechanic will service my car tomorrow?
 
 ### Opciones
-- [x] C) budget
-  <!-- feedback: Correct! A 'budget' is an estimate of income and expenditure planned for a set period of time. -->
-- [ ] A) expense
-  <!-- feedback: an 'expense' is a single cost; a budget gathers all income and spending over a period. -->
-- [ ] B) cost
-  <!-- feedback: 'cost' is the amount paid for one thing, not an estimate for a whole period. -->
-- [ ] D) price
-  <!-- feedback: 'price' is the figure written on a product, not a plan of income and expenditure. -->
+- [x] A) I will have my car serviced tomorrow.
+  <!-- feedback: This is right: the causative have plus object plus participle keeps the mechanic as the one who works. -->
+- [ ] B) I will service my car tomorrow.
+  <!-- feedback: The active service says that I do the work myself, which changes the meaning. -->
+- [ ] C) My car will service me tomorrow.
+  <!-- feedback: This reverses the roles and makes the car the one that acts. -->
+- [ ] D) I will be serviced my car tomorrow.
+  <!-- feedback: The passive be serviced cannot be combined with my car as object this way. -->
 
 ### Explicacion Pedagogica
-The word 'budget' is used to describe an estimate of income and expenditure for a set period of time. This is an important vocabulary word in English.
+The paraphrase keeps the same worker and the same action, so the causative have my car serviced is the match.
 ---
-## Question 18 [D10]
+## Question 18 [D9]
 **ID:** ES-ING-11-2026-W10-causative-have-get-001-MASTERY-bundle-v18
 **Bloom:** Evaluate
-**EJE:** Lexico
+**EJE:** Morfosintaxis
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** A student checks four sentences before handing in an essay.
 
 ### Enunciado
-What is the English word for: "A practice or arrangement by which a company or government agency provides a guarantee of compensation for specified loss, damage, illness, or death in return for payment of a premium."
+Which sentence is grammatically correct?
 
 ### Opciones
-- [x] A) insurance
-  <!-- feedback: Correct! 'Insurance' is the arrangement by which a company or agency guarantees compensation for specified loss, damage, illness or death in return for a premium. -->
-- [ ] B) warranty
-  <!-- feedback: a 'warranty' is the maker's guarantee of a product, normally for a short period and against defects only. -->
-- [ ] C) guarantee
-  <!-- feedback: a 'guarantee' is the promise itself, without the payment of a premium that defines an insurance arrangement. -->
-- [ ] D) policy
-  <!-- feedback: a 'policy' is the written document of the contract, not the practice of insuring itself. -->
+- [ ] A) She had her assistant booked the tickets.
+  <!-- feedback: The past participle booked cannot follow a person in the have causative. -->
+- [x] B) She had her assistant book the tickets.
+  <!-- feedback: This is right: have plus a person takes the bare infinitive book, with no to and no past form. -->
+- [ ] C) She had her assistant to book the tickets.
+  <!-- feedback: The to infinitive to book is wrong after have plus a person. -->
+- [ ] D) She had booked her assistant the tickets.
+  <!-- feedback: This order and meaning are jumbled and do not form the causative. -->
 
 ### Explicacion Pedagogica
-The word 'insurance' is used to describe a practice or arrangement by which a company or government agency provides a guarantee of compensation for specified loss, damage, illness, or death in return for payment of a premium. This is an important vocabulary word in English.
+The pattern have someone do something uses the bare infinitive, so had her assistant book is correct.
 ---
-## Question 19 [D9]
+## Question 19 [D10]
 **ID:** ES-ING-11-2026-W10-causative-have-get-001-MASTERY-bundle-v19
 **Bloom:** Evaluate
-**EJE:** Lexico
+**EJE:** Morfosintaxis
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** A lawyer explains how a translation was arranged.
 
 ### Enunciado
-What is the English word for: "Treatment with a vaccine to produce immunity against a disease."
+Which causative sentence matches The documents were translated by a specialist?
 
 ### Opciones
-- [x] A) vaccination
-  <!-- feedback: Correct! 'Vaccination' is the treatment with a vaccine that produces immunity against a disease. -->
-- [ ] B) medication
-  <!-- feedback: 'medication' treats the symptoms of a disease; it does not create immunity against it. -->
-- [ ] C) prescription
-  <!-- feedback: a 'prescription' is the doctor's written order for a medicine, not the vaccine treatment itself. -->
-- [ ] D) infection
-  <!-- feedback: an 'infection' is the invasion of the body by a pathogen, the opposite of being protected against disease. -->
+- [ ] A) We had translated the documents by a specialist.
+  <!-- feedback: Had translated is the past perfect active and does not carry the causative meaning. -->
+- [ ] B) We had the specialist translated the documents.
+  <!-- feedback: The pattern needs the specialist to be followed by a bare infinitive, not by the documents. -->
+- [x] C) We had the documents translated by a specialist.
+  <!-- feedback: This is right: have plus object plus past participle keeps the specialist as the doer. -->
+- [ ] D) We were had the documents translated.
+  <!-- feedback: The auxiliary were cannot precede had in this way, so the sentence is ungrammatical. -->
 
 ### Explicacion Pedagogica
-The word 'vaccination' is used to describe treatment with a vaccine to produce immunity against a disease. This is an important vocabulary word in English.
+The passive can be recast as a causative by naming the arranger as subject: we had the documents translated.
 ---
 ## Question 20 [D10]
 **ID:** ES-ING-11-2026-W10-causative-have-get-001-MASTERY-bundle-v20
 **Bloom:** Evaluate
-**EJE:** Lexico
+**EJE:** Morfosintaxis
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** A traveler talks about a document she arranged some time ago.
 
 ### Enunciado
-What is the English word for: "Extreme tiredness and other physical effects felt by a person after a long flight across several time zones."
+Which sentence describes arranging for work that is already completed before now?
 
 ### Opciones
-- [x] C) jet lag
-  <!-- feedback: Correct! 'Jet lag' is the extreme tiredness and other physical effects felt after a long flight across several time zones. -->
-- [ ] A) fatigue
-  <!-- feedback: 'fatigue' is tiredness from any cause, such as a lack of sleep or effort, not specifically from time zones. -->
-- [ ] B) exhaustion
-  <!-- feedback: 'exhaustion' is a total lack of energy from any cause, more general and more severe than the effect of crossing time zones. -->
-- [ ] D) insomnia
-  <!-- feedback: 'insomnia' is the difficulty of falling or staying asleep, only one symptom and not the whole set of effects after a long flight. -->
+- [ ] A) I have my passport renewed.
+  <!-- feedback: The present simple have my passport renewed usually describes a habit, not a finished result. -->
+- [ ] B) I had my passport renew.
+  <!-- feedback: The bare verb renew cannot follow the object in the causative. -->
+- [ ] C) I have renewed my passport.
+  <!-- feedback: Have renewed is the present perfect active, which says I renewed it myself. -->
+- [x] D) I have had my passport renewed.
+  <!-- feedback: This is right: have had plus object plus participle is the present perfect causative, so the work is done. -->
 
 ### Explicacion Pedagogica
-The word 'jet lag' is used to describe extreme tiredness and other physical effects felt by a person after a long flight across several time zones. This is an important vocabulary word in English.
+The present perfect causative have had something done shows an arrangement completed before the present moment.
+---

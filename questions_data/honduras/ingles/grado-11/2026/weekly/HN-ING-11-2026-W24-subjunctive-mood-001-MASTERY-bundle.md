@@ -21,462 +21,464 @@ bundle_index: 1
 **20 preguntas | Ingles | Curriculo de Ingles**
 
 ---
-## Question 1 [D3]
+
+## Question 1 [D4]
 **ID:** HN-ING-11-2026-W24-subjunctive-mood-001-MASTERY-bundle-v1
-**Bloom:** Remember
-**EJE:** Lexico
+**Bloom:** Analyze
+**EJE:** Gramatica
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** A school handbook lists the certificates required of every student.
 
 ### Enunciado
-What is the English word for: "A place where you live or stay on holiday."
+The school requires that every student ____ a first aid certificate.
 
 ### Opciones
-- [x] B) accommodation
-  <!-- feedback: Correct! 'Accommodation' is the word for a place where you live or stay temporarily while you are away from home. -->
-- [ ] A) transportation
-  <!-- feedback: Wrong. 'Transportation' names the way you travel, such as buses, trains or planes, not the place where you stay. -->
-- [ ] C) entertainment
-  <!-- feedback: Wrong. 'Entertainment' is the activity of enjoying shows, films or games, not a place where you sleep. -->
-- [ ] D) currency
-  <!-- feedback: Wrong. 'Currency' is the money used in a country, which has nothing to do with lodging. -->
+- [x] A) have
+  <!-- feedback: Correct! After 'requires that' with a third person subject, the subjunctive keeps the base form 'have'. -->
+- [ ] B) has
+  <!-- feedback: 'Has' is the indicative form, which is used when the subject agrees with the verb. -->
+- [ ] C) had
+  <!-- feedback: 'Had' is the past, and the requirement applies to the present. -->
+- [ ] D) having
+  <!-- feedback: 'Having' is a participle and cannot follow a verb of demand in the subjunctive. -->
 
 ### Explicacion Pedagogica
-The word 'accommodation' is used to describe a place where you live or stay on holiday. This is an important vocabulary word in English.
+The subjunctive is identical to the base form of the verb. It never changes for person, unlike the indicative.
 ---
 ## Question 2 [D4]
 **ID:** HN-ING-11-2026-W24-subjunctive-mood-001-MASTERY-bundle-v2
-**Bloom:** Remember
-**EJE:** Lexico
+**Bloom:** Apply
+**EJE:** Gramatica
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** A medical consultation ends with a recommendation about daily habits.
 
 ### Enunciado
-What is the English word for: "A detailed plan or route of a journey."
+The doctor recommended that she ____ eight glasses of water a day.
 
 ### Opciones
-- [x] C) itinerary
-  <!-- feedback: Correct! An 'itinerary' is the planned route of a journey together with the places and times along the way. -->
-- [ ] A) baggage
-  <!-- feedback: Wrong. 'Baggage' is the suitcases and bags themselves, not the plan of the trip. -->
-- [ ] B) destination
-  <!-- feedback: Wrong. A 'destination' is only the place where the journey ends, while an itinerary lists the whole route. -->
-- [ ] D) passport
-  <!-- feedback: Wrong. A 'passport' is the travel document that proves who you are, not the plan of the journey. -->
+- [ ] A) drinks
+  <!-- feedback: 'Drinks' is the indicative, which would be used with a clause of its own. -->
+- [x] B) drink
+  <!-- feedback: Correct! 'Drink' is the base form required by the subjunctive after a verb of recommendation. -->
+- [ ] C) drank
+  <!-- feedback: 'Drank' is the past simple, and the advice concerns a present habit. -->
+- [ ] D) drinking
+  <!-- feedback: 'Drinking' is a participle and cannot complete a subjunctive clause. -->
 
 ### Explicacion Pedagogica
-The word 'itinerary' is used to describe a detailed plan or route of a journey. This is an important vocabulary word in English.
+Verbs of suggestion such as 'recommend', 'suggest', 'advise' and 'propose' take a 'that' clause in the subjunctive.
 ---
-## Question 3 [D3]
+## Question 3 [D4]
 **ID:** HN-ING-11-2026-W24-subjunctive-mood-001-MASTERY-bundle-v3
-**Bloom:** Understand
-**EJE:** Lexico
+**Bloom:** Apply
+**EJE:** Gramatica
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** A teacher states a general condition for participation in a practical session.
 
 ### Enunciado
-What is the English word for: "The place to which someone or something is going or being sent."
+It is important that every student ____ the safety rules during the laboratory practice.
 
 ### Opciones
-- [x] A) destination
-  <!-- feedback: Correct! A 'destination' is the place someone or something is going to or being sent to. -->
-- [ ] B) departure
-  <!-- feedback: Wrong. A 'departure' is the act of leaving and the place you leave from, the opposite end of the trip. -->
-- [ ] C) arrival
-  <!-- feedback: Wrong. An 'arrival' is the event of getting there, not the place that is being travelled to. -->
-- [ ] D) journey
-  <!-- feedback: Wrong. A 'journey' is the whole trip from start to finish, not the place at the end of it. -->
+- [ ] A) follows
+  <!-- feedback: 'Follows' is the indicative, which would be correct without the subjunctive trigger. -->
+- [ ] B) followed
+  <!-- feedback: 'Followed' is the past simple and does not fit a general requirement. -->
+- [x] C) follow
+  <!-- feedback: Correct! 'Follow' is the base form that the subjunctive requires in a that clause after 'it is important'. -->
+- [ ] D) will follow
+  <!-- feedback: 'Will follow' is a future form and would be an indicative prediction. -->
 
 ### Explicacion Pedagogica
-The word 'destination' is used to describe the place to which someone or something is going or being sent. This is an important vocabulary word in English.
+'It is important that' belongs to the family of expressions that impose a value, and they all select the subjunctive.
 ---
-## Question 4 [D4]
+## Question 4 [D5]
 **ID:** HN-ING-11-2026-W24-subjunctive-mood-001-MASTERY-bundle-v4
-**Bloom:** Understand
-**EJE:** Lexico
+**Bloom:** Analyze
+**EJE:** Gramatica
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** A supervisor reacts to a delay in a written deliverable.
 
 ### Enunciado
-What is the English word for: "Suitcases or other bags in which to pack personal belongings for traveling."
+The manager insisted that the report ____ before the end of the week.
 
 ### Opciones
-- [x] A) luggage
-  <!-- feedback: Correct! 'Luggage' is the collective word for the suitcases and bags you pack your belongings in. -->
-- [ ] B) ticket
-  <!-- feedback: Wrong. A 'ticket' is the document that pays for and authorises a journey, not the bag you pack. -->
-- [ ] C) flight
-  <!-- feedback: Wrong. A 'flight' is the journey by plane itself, not the bags carried on it. -->
-- [ ] D) reservation
-  <!-- feedback: Wrong. A 'reservation' is the booking you make for a seat or a room, not the baggage itself. -->
+- [ ] A) is
+  <!-- feedback: 'Is' is the indicative, which the insistence in the sentence rules out. -->
+- [ ] B) was
+  <!-- feedback: 'Was' is the past and the insistence concerns a future deadline. -->
+- [ ] C) will be
+  <!-- feedback: 'Will be' is a future indicative and would remove the pressure of the demand. -->
+- [x] D) be
+  <!-- feedback: Correct! 'Be' is the base form used in the subjunctive, not 'is'. -->
 
 ### Explicacion Pedagogica
-The word 'luggage' is used to describe suitcases or other bags in which to pack personal belongings for traveling. This is an important vocabulary word in English.
+Verbs of insistence are the strongest triggers of the subjunctive, and the verb 'be' is irregular, so only the base form works.
 ---
-## Question 5 [D5]
+## Question 5 [D4]
 **ID:** HN-ING-11-2026-W24-subjunctive-mood-001-MASTERY-bundle-v5
-**Bloom:** Understand
-**EJE:** Lexico
+**Bloom:** Apply
+**EJE:** Gramatica
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** A legal consultation reviews a document that two parties intend to sign.
 
 ### Enunciado
-What is the English word for: "A traveler on a public or private conveyance other than the driver, pilot, or crew."
+The lawyer suggested that he ____ a written contract before signing anything.
 
 ### Opciones
-- [x] A) passenger
-  <!-- feedback: Correct! A 'passenger' is anyone travelling in a vehicle who is not the one driving or piloting it. -->
-- [ ] B) pedestrian
-  <!-- feedback: Wrong. A 'pedestrian' travels on foot, so they are not aboard any conveyance at all. -->
-- [ ] C) commuter
-  <!-- feedback: Wrong. A 'commuter' is defined by making the same trip regularly to work or school, not by being a passenger in general. -->
-- [ ] D) tourist
-  <!-- feedback: Wrong. A 'tourist' is defined by travelling for pleasure, not simply by riding in a vehicle. -->
+- [x] A) sign
+  <!-- feedback: Correct! 'Sign' is the base form required after a verb of suggestion in a that clause. -->
+- [ ] B) signs
+  <!-- feedback: 'Signs' is the indicative form, used when the clause stands on its own. -->
+- [ ] C) signed
+  <!-- feedback: 'Signed' is the past simple, and the signing has not happened yet. -->
+- [ ] D) signing
+  <!-- feedback: 'Signing' is a participle and cannot fill the verb slot of the clause. -->
 
 ### Explicacion Pedagogica
-The word 'passenger' is used to describe a traveler on a public or private conveyance other than the driver, pilot, or crew. This is an important vocabulary word in English.
+The subjunctive removes all tense marking. What the reader infers about time comes from the surrounding sentence.
 ---
-## Question 6 [D6]
+## Question 6 [D4]
 **ID:** HN-ING-11-2026-W24-subjunctive-mood-001-MASTERY-bundle-v6
-**Bloom:** Understand
-**EJE:** Lexico
+**Bloom:** Apply
+**EJE:** Gramatica
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** A school publishes the rules that candidates must follow in an exam hall.
 
 ### Enunciado
-What is the English word for: "The place at a port, airport, or frontier where officials check incoming goods, travelers, or luggage."
+The regulation demands that no student ____ a mobile phone into the examination room.
 
 ### Opciones
-- [x] B) customs
-  <!-- feedback: Correct! 'Customs' is the office where officials check the goods and the people coming in from abroad. -->
-- [ ] A) security
-  <!-- feedback: Wrong. 'Security' is the police or staff who keep order, while customs staff collect duties on goods. -->
-- [ ] C) terminal
-  <!-- feedback: Wrong. A 'terminal' is the building where you arrive or depart, not the office that checks imports. -->
-- [ ] D) gate
-  <!-- feedback: Wrong. A 'gate' is the door you pass through to reach the plane; customs is the check itself. -->
+- [ ] A) brings
+  <!-- feedback: 'Brings' is the indicative, which would contradict the demand for the subjunctive. -->
+- [x] B) bring
+  <!-- feedback: Correct! 'Bring' is the base form of the verb in a negated subjunctive clause. -->
+- [ ] C) brought
+  <!-- feedback: 'Brought' is the past simple and the rule applies to every session. -->
+- [ ] D) bringing
+  <!-- feedback: 'Bringing' is a participle and cannot serve as the verb of the clause. -->
 
 ### Explicacion Pedagogica
-The word 'customs' is used to describe the place at a port, airport, or frontier where officials check incoming goods, travelers, or luggage. This is an important vocabulary word in English.
+A 'no' inside a 'that' clause after a verb of demand still produces the subjunctive with the base form.
 ---
-## Question 7 [D5]
+## Question 7 [D3]
 **ID:** HN-ING-11-2026-W24-subjunctive-mood-001-MASTERY-bundle-v7
 **Bloom:** Apply
-**EJE:** Lexico
+**EJE:** Gramatica
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** A working group debates the date of its next session.
 
 ### Enunciado
-What is the English word for: "A document provided by an airline during check-in, giving a passenger permission to board the airplane."
+I suggest that we ____ the meeting until the weather improves.
 
 ### Opciones
-- [x] D) boarding pass
-  <!-- feedback: Correct! A 'boarding pass' is the document the airline hands you at check-in that lets you board the plane. -->
-- [ ] A) visa
-  <!-- feedback: Wrong. A 'visa' is the official permission a government gives to enter a country, granted before you travel. -->
-- [ ] B) receipt
-  <!-- feedback: Wrong. A 'receipt' only proves that you paid for something; it does not admit you to the aircraft. -->
-- [ ] C) brochure
-  <!-- feedback: Wrong. A 'brochure' is advertising material about destinations, not a travel document for boarding. -->
+- [ ] A) postpones
+  <!-- feedback: 'Postpones' is the indicative, and the subject here is 'we' in any case. -->
+- [ ] B) postponed
+  <!-- feedback: 'Postponed' is the past simple, and the action is still proposed for the future. -->
+- [x] C) postpone
+  <!-- feedback: Correct! 'Postpone' is the base form the subjunctive requires after 'suggest that we'. -->
+- [ ] D) postponing
+  <!-- feedback: 'Postponing' is a participle and cannot be the verb of a that clause. -->
 
 ### Explicacion Pedagogica
-The word 'boarding pass' is used to describe a document provided by an airline during check-in, giving a passenger permission to board the airplane. This is an important vocabulary word in English.
+With any subject at all, the subjunctive verb is the bare infinitive. Agreement with the subject belongs to the indicative only.
 ---
-## Question 8 [D6]
+## Question 8 [D4]
 **ID:** HN-ING-11-2026-W24-subjunctive-mood-001-MASTERY-bundle-v8
 **Bloom:** Apply
-**EJE:** Lexico
+**EJE:** Gramatica
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** A family discussion concerns a year of study in another country.
 
 ### Enunciado
-What is the English word for: "The activity of visiting places of interest in a particular location."
+Her parents insisted that she ____ abroad for the whole year.
 
 ### Opciones
-- [x] C) sightseeing
-  <!-- feedback: Correct! 'Sightseeing' means going round and looking at the famous sights of a place as a visitor. -->
-- [ ] A) shopping
-  <!-- feedback: Wrong. 'Shopping' is buying things in a city, a different activity from visiting its places of interest. -->
-- [ ] B) hiking
-  <!-- feedback: Wrong. 'Hiking' is walking long distances in the countryside on marked trails, not touring the sights of a location. -->
-- [ ] D) camping
-  <!-- feedback: Wrong. 'Camping' means staying the night outdoors in a tent, not a day of visiting places of interest. -->
+- [ ] A) studies
+  <!-- feedback: 'Studies' is the indicative form, which matches the subject but not the mood. -->
+- [ ] B) studied
+  <!-- feedback: 'Studied' is the past simple, and the sentence concerns an ongoing arrangement. -->
+- [ ] C) studying
+  <!-- feedback: 'Studying' is a participle and cannot complete the clause. -->
+- [x] D) study
+  <!-- feedback: Correct! 'Study' is the base form used in a subjunctive clause after a verb of insistence. -->
 
 ### Explicacion Pedagogica
-The word 'sightseeing' is used to describe the activity of visiting places of interest in a particular location. This is an important vocabulary word in English.
+The subjunctive signals the speaker's distance from the demand, and the base form is the visible mark of that mood.
 ---
 ## Question 9 [D5]
 **ID:** HN-ING-11-2026-W24-subjunctive-mood-001-MASTERY-bundle-v9
-**Bloom:** Apply
-**EJE:** Lexico
+**Bloom:** Analyze
+**EJE:** Gramatica
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** A teacher sets conditions for the acceptance of a written piece.
 
 ### Enunciado
-What is the English word for: "A thing that is kept as a reminder of a person, place, or event."
+The teacher demanded that the essay ____ in the student's own handwriting.
 
 ### Opciones
-- [x] C) souvenir
-  <!-- feedback: Correct! A 'souvenir' is an object kept afterwards as a reminder of the trip and of the people or places on it. -->
-- [ ] A) gift
-  <!-- feedback: Wrong. A 'gift' is chosen to be given to somebody else, while a souvenir is kept by the traveller. -->
-- [ ] B) award
-  <!-- feedback: Wrong. An 'award' is a distinction given for an achievement, not a keepsake bought on a trip. -->
-- [ ] D) prize
-  <!-- feedback: Wrong. A 'prize' is what a competitor wins in a contest; it says nothing about remembering a journey. -->
+- [x] A) be
+  <!-- feedback: Correct! 'Be' is the base form of the verb 'be' in the subjunctive. -->
+- [ ] B) is
+  <!-- feedback: 'Is' is the indicative, and a demand does not use it. -->
+- [ ] C) was
+  <!-- feedback: 'Was' is the past, and the essay has not been written yet. -->
+- [ ] D) will be
+  <!-- feedback: 'Will be' is a future indicative and states a prediction instead of a condition. -->
 
 ### Explicacion Pedagogica
-The word 'souvenir' is used to describe a thing that is kept as a reminder of a person, place, or event. This is an important vocabulary word in English.
+Because 'be' is irregular, the subjunctive form and the present indicative form are different words. That difference is the clearest illustration of the mood.
 ---
-## Question 10 [D6]
+## Question 10 [D4]
 **ID:** HN-ING-11-2026-W24-subjunctive-mood-001-MASTERY-bundle-v10
 **Bloom:** Apply
-**EJE:** Lexico
+**EJE:** Gramatica
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** An employer lists the conditions of access to a workplace.
 
 ### Enunciado
-What is the English word for: "A period of time by which something is late or postponed."
+The company requires that every employee ____ a safety briefing before starting work.
 
 ### Opciones
-- [x] A) delay
-  <!-- feedback: Correct! A 'delay' is the extra period of time by which a departure or arrival is postponed. -->
-- [ ] B) cancellation
-  <!-- feedback: Wrong. A 'cancellation' calls the plan off entirely, whereas a delay only postpones it by some hours. -->
-- [ ] C) departure
-  <!-- feedback: Wrong. 'Departure' is simply the moment of leaving; the lateness is measured separately from it. -->
-- [ ] D) arrival
-  <!-- feedback: Wrong. An 'arrival' is the moment of getting there, not the amount of time a plan runs late. -->
+- [ ] A) receives
+  <!-- feedback: 'Receives' is the indicative, which agrees with the subject but not with the mood. -->
+- [x] B) receive
+  <!-- feedback: Correct! 'Receive' is the base form the subjunctive demands after a third person subject. -->
+- [ ] C) received
+  <!-- feedback: 'Received' is the past simple and the briefing is still ahead. -->
+- [ ] D) receiving
+  <!-- feedback: 'Receiving' is a participle and cannot be the verb of the clause. -->
 
 ### Explicacion Pedagogica
-The word 'delay' is used to describe a period of time by which something is late or postponed. This is an important vocabulary word in English.
+The subjunctive is the mood of requirements, so the base form appears even when the subject is a third person singular noun.
 ---
-## Question 11 [D7]
+## Question 11 [D4]
 **ID:** HN-ING-11-2026-W24-subjunctive-mood-001-MASTERY-bundle-v11
 **Bloom:** Apply
-**EJE:** Lexico
+**EJE:** Gramatica
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** A flatmate gives an instruction about leaving a ventilated room.
 
 ### Enunciado
-What is the English word for: "The act of reporting one's presence and registering, typically at an airport or hotel."
+I would rather you ____ the window before you leave the room.
 
 ### Opciones
-- [x] C) check-in
-  <!-- feedback: Correct! 'Check-in' is when you arrive and register, and the desk records your presence and gives you your pass. -->
-- [ ] A) check-out
-  <!-- feedback: Wrong. 'Check-out' is the opposite moment, when you pay and hand back the room key before leaving. -->
-- [ ] B) booking
-  <!-- feedback: Wrong. A 'booking' is the reservation made earlier, while check-in is the reporting of your arrival. -->
-- [ ] D) reservation
-  <!-- feedback: Wrong. A 'reservation' holds a room or a seat for you in advance, not the act of registering on arrival. -->
+- [ ] A) closes
+  <!-- feedback: 'Closes' is the indicative, and 'would rather' does not use it. -->
+- [ ] B) closed
+  <!-- feedback: 'Closed' is the past simple, and the window is still open. -->
+- [x] C) close
+  <!-- feedback: Correct! 'Close' is the base form the subjunctive takes after 'would rather'. -->
+- [ ] D) closing
+  <!-- feedback: 'Closing' is a participle and cannot complete a that clause. -->
 
 ### Explicacion Pedagogica
-The word 'check-in' is used to describe the act of reporting one's presence and registering, typically at an airport or hotel. This is an important vocabulary word in English.
+'Would rather' is one of the classic subjunctive triggers in modern English, alongside 'suggest' and 'insist'.
 ---
-## Question 12 [D8]
+## Question 12 [D5]
 **ID:** HN-ING-11-2026-W24-subjunctive-mood-001-MASTERY-bundle-v12
-**Bloom:** Apply
-**EJE:** Lexico
+**Bloom:** Analyze
+**EJE:** Gramatica
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** A court session proceeds after a formal instruction to the people present.
 
 ### Enunciado
-What is the English word for: "A period of rest or waiting before a further stage in a journey."
+The judge ruled that the witness ____ tell the truth for the rest of the session.
 
 ### Opciones
-- [x] B) layover
-  <!-- feedback: Correct! A 'layover' is the wait between two flights, usually at the connecting airport, before you continue. -->
-- [ ] A) stopover
-  <!-- feedback: Wrong. A 'stopover' is a deliberate break in a long journey to spend extra time at a place, not a wait between flights. -->
-- [ ] C) transfer
-  <!-- feedback: Wrong. A 'transfer' is the flight or vehicle that moves you from one place to another, not the waiting itself. -->
-- [ ] D) transit
-  <!-- feedback: Wrong. 'Transit' names the general passing through an area or a country, not a specific rest between stages. -->
+- [ ] A) musts
+  <!-- feedback: 'Musts' does not exist as a verb form; modal verbs never take an -s ending. -->
+- [ ] B) musted
+  <!-- feedback: 'Musted' is not a form of a modal verb. -->
+- [ ] C) musting
+  <!-- feedback: 'Musting' is not a form of a modal verb either. -->
+- [x] D) must
+  <!-- feedback: Correct! The modal 'must' is already in its base form, so it stays unchanged in the subjunctive. -->
 
 ### Explicacion Pedagogica
-The word 'layover' is used to describe a period of rest or waiting before a further stage in a journey. This is an important vocabulary word in English.
+Modals have no inflection, so the subjunctive and the indicative forms coincide. Only main verbs show the difference.
 ---
-## Question 13 [D7]
+## Question 13 [D4]
 **ID:** HN-ING-11-2026-W24-subjunctive-mood-001-MASTERY-bundle-v13
-**Bloom:** Analyze
-**EJE:** Lexico
+**Bloom:** Apply
+**EJE:** Gramatica
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** An organisation's governing body discusses a financial plan at a formal meeting.
 
 ### Enunciado
-What is the English word for: "A system of money in general use in a particular country."
+The board demanded that the budget ____ before the end of the fiscal year.
 
 ### Opciones
-- [x] B) currency
-  <!-- feedback: Correct! 'Currency' is the whole monetary system a country uses, not any single object. -->
-- [ ] A) coin
-  <!-- feedback: Wrong. A 'coin' is one round metal piece of money, while the definition covers the entire money system. -->
-- [ ] C) banknote
-  <!-- feedback: Wrong. A 'banknote' is a single paper note, while the definition is about the money system of a whole country. -->
-- [ ] D) cash
-  <!-- feedback: Wrong. 'Cash' is the money in coins and notes that you are holding, regardless of any country's system. -->
+- [x] A) approve
+  <!-- feedback: Correct! 'Approve' is the base form required in a subjunctive that clause. -->
+- [ ] B) approves
+  <!-- feedback: 'Approves' is the indicative and would be used only without the demand. -->
+- [ ] C) approved
+  <!-- feedback: 'Approved' is the past simple, and the approval is still pending. -->
+- [ ] D) approving
+  <!-- feedback: 'Approving' is a participle and cannot act as the verb of the clause. -->
 
 ### Explicacion Pedagogica
-The word 'currency' is used to describe a system of money in general use in a particular country. This is an important vocabulary word in English.
+The demand makes the clause non-asserted, which is precisely the context in which English uses the subjunctive base form.
 ---
-## Question 14 [D8]
+## Question 14 [D4]
 **ID:** HN-ING-11-2026-W24-subjunctive-mood-001-MASTERY-bundle-v14
-**Bloom:** Analyze
-**EJE:** Lexico
+**Bloom:** Apply
+**EJE:** Gramatica
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** A hospital ward states a condition attached to a patient's care.
 
 ### Enunciado
-What is the English word for: "A book of information about a place designed for the use of visitors or tourists."
+It is vital that the nurse ____ the patient's temperature every hour.
 
 ### Opciones
-- [x] B) guidebook
-  <!-- feedback: Correct! A 'guidebook' is a book written about a place to help visitors find their way around it. -->
-- [ ] A) map
-  <!-- feedback: Wrong. A 'map' is a single drawing of an area, not the book of practical information about the place. -->
-- [ ] C) dictionary
-  <!-- feedback: Wrong. A 'dictionary' lists words and their meanings, not practical details about a destination. -->
-- [ ] D) encyclopedia
-  <!-- feedback: Wrong. An 'encyclopedia' covers all knowledge on a subject, while a guidebook is written about one specific place. -->
+- [ ] A) checks
+  <!-- feedback: 'Checks' is the indicative, which ignores the evaluative expression that triggers the subjunctive. -->
+- [x] B) check
+  <!-- feedback: Correct! 'Check' is the base form used in a subjunctive clause after 'it is vital'. -->
+- [ ] C) checked
+  <!-- feedback: 'Checked' is the past simple, and the checks are still going on. -->
+- [ ] D) checking
+  <!-- feedback: 'Checking' is a participle and cannot serve as the verb. -->
 
 ### Explicacion Pedagogica
-The word 'guidebook' is used to describe a book of information about a place designed for the use of visitors or tourists. This is an important vocabulary word in English.
+Expressions of necessity or importance with 'it' as the subject select the subjunctive in the following that clause.
 ---
-## Question 15 [D7]
+## Question 15 [D4]
 **ID:** HN-ING-11-2026-W24-subjunctive-mood-001-MASTERY-bundle-v15
-**Bloom:** Analyze
-**EJE:** Lexico
+**Bloom:** Apply
+**EJE:** Gramatica
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Two travellers ask an agent for advice before booking a stay.
 
 ### Enunciado
-What is the English word for: "A bag with shoulder straps that allow it to be carried on one's back."
+The travel agent recommended that we ____ the cheaper hotel in the centre.
 
 ### Opciones
-- [x] C) backpack
-  <!-- feedback: Correct! A 'backpack' has two shoulder straps and is designed to be carried on your back. -->
-- [ ] A) suitcase
-  <!-- feedback: Wrong. A 'suitcase' is a flat box with a handle that you pull along beside you. -->
-- [ ] B) briefcase
-  <!-- feedback: Wrong. A 'briefcase' is a stiff case for papers that you carry in your hand at work. -->
-- [ ] D) handbag
-  <!-- feedback: Wrong. A 'handbag' is held in the hand and has no straps at all. -->
+- [ ] A) books
+  <!-- feedback: 'Books' is the indicative form of a third person verb, and the subject is 'we'. -->
+- [ ] B) booked
+  <!-- feedback: 'Booked' is the past simple, and no reservation has been made yet. -->
+- [x] C) book
+  <!-- feedback: Correct! 'Book' is the base form the subjunctive requires after a verb of recommendation. -->
+- [ ] D) booking
+  <!-- feedback: 'Booking' is a participle and cannot complete a that clause. -->
 
 ### Explicacion Pedagogica
-The word 'backpack' is used to describe a bag with shoulder straps that allow it to be carried on one's back. This is an important vocabulary word in English.
+A verb of suggestion with a 'that' clause and a plural subject still takes the bare infinitive, which is the whole point of the subjunctive.
 ---
-## Question 16 [D8]
+## Question 16 [D5]
 **ID:** HN-ING-11-2026-W24-subjunctive-mood-001-MASTERY-bundle-v16
 **Bloom:** Analyze
-**EJE:** Lexico
+**EJE:** Gramatica
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** A school announces the arrangements agreed for an academic competition.
 
 ### Enunciado
-What is the English word for: "In or to a foreign country, especially one across the sea."
+Everyone agreed that the first round of the competition ____ take place in the main hall.
 
 ### Opciones
-- [x] D) overseas
-  <!-- feedback: Correct! 'Overseas' means to or in another country reached by crossing the sea. -->
-- [ ] A) domestic
-  <!-- feedback: Wrong. 'Domestic' means inside the borders of your own country, which is the opposite of overseas. -->
-- [ ] B) local
-  <!-- feedback: Wrong. 'Local' means in a particular small area or town, which may well be inside your own country. -->
-- [ ] C) national
-  <!-- feedback: Wrong. 'National' means concerning the nation as a whole, not travelling away from it across the sea. -->
+- [ ] A) wills
+  <!-- feedback: 'Wills' is not a verb form; a modal never takes an -s ending. -->
+- [ ] B) willed
+  <!-- feedback: 'Willed' is a rare past form of a full verb, not of the modal. -->
+- [ ] C) willing
+  <!-- feedback: 'Willing' is an adjective, and it cannot serve as the verb of the clause. -->
+- [x] D) will
+  <!-- feedback: Correct! The modal 'will' has no inflection, so it is already the form the subjunctive requires. -->
 
 ### Explicacion Pedagogica
-The word 'overseas' is used to describe in or to a foreign country, especially one across the sea. This is an important vocabulary word in English.
+With modal verbs the subjunctive is invisible, which is why 'will' works in the same slot where a main verb would need its base form.
 ---
-## Question 17 [D9]
+## Question 17 [D4]
 **ID:** HN-ING-11-2026-W24-subjunctive-mood-001-MASTERY-bundle-v17
-**Bloom:** Evaluate
-**EJE:** Lexico
+**Bloom:** Apply
+**EJE:** Gramatica
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** A school leadership communicates a decision to parents at a meeting.
 
 ### Enunciado
-What is the English word for: "An estimate of income and expenditure for a set period of time."
+The principal insisted that every family ____ the new uniform policy before the term begins.
 
 ### Opciones
-- [x] D) budget
-  <!-- feedback: Correct! A 'budget' estimates planned income and spending over a set period such as a month or a year. -->
-- [ ] A) expense
-  <!-- feedback: Wrong. An 'expense' is a single outgoing payment, not a plan covering a whole period. -->
-- [ ] B) cost
-  <!-- feedback: Wrong. The 'cost' is the price of one thing or service, with no timeframe attached to it. -->
-- [ ] C) price
-  <!-- feedback: Wrong. A 'price' is the amount a single item sells for, not an estimate of a period's finances. -->
+- [x] A) accept
+  <!-- feedback: Correct! 'Accept' is the base form required after a verb of insistence in a that clause. -->
+- [ ] B) accepts
+  <!-- feedback: 'Accepts' is the indicative, which would not record the pressure of the demand. -->
+- [ ] C) accepted
+  <!-- feedback: 'Accepted' is the past simple, and the term has not begun. -->
+- [ ] D) accepting
+  <!-- feedback: 'Accepting' is a participle and cannot be the verb of the clause. -->
 
 ### Explicacion Pedagogica
-The word 'budget' is used to describe an estimate of income and expenditure for a set period of time. This is an important vocabulary word in English.
+The subjunctive also marks the speaker's distance from a decision that is presented as an external requirement rather than a personal claim.
 ---
-## Question 18 [D10]
+## Question 18 [D5]
 **ID:** HN-ING-11-2026-W24-subjunctive-mood-001-MASTERY-bundle-v18
-**Bloom:** Evaluate
-**EJE:** Lexico
+**Bloom:** Analyze
+**EJE:** Gramatica
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** A client contacts a service company about repeated visits to the same machine.
 
 ### Enunciado
-What is the English word for: "A practice or arrangement by which a company or government agency provides a guarantee of compensation for specified loss, damage, illness, or death in return for payment of a premium."
+The customer complained that the technician ____ repair the same fault twice.
 
 ### Opciones
-- [x] B) insurance
-  <!-- feedback: Correct! 'Insurance' is the arrangement where a company pays compensation for a specified loss in exchange for a premium. -->
-- [ ] A) warranty
-  <!-- feedback: Wrong. A 'warranty' covers a defective product for a limited time and is given by the maker, not for illness or death. -->
-- [ ] C) guarantee
-  <!-- feedback: Wrong. A 'guarantee' is a promise about the quality of a product or service, with no payment of a premium. -->
-- [ ] D) policy
-  <!-- feedback: Wrong. A 'policy' is the written document that records an insurance contract, not the practice of compensation itself. -->
+- [ ] A) has not
+  <!-- feedback: 'Has not' is the indicative form, used when the clause is asserted as true. -->
+- [x] B) have not
+  <!-- feedback: Correct! 'Have not' is the form the subjunctive takes with the auxiliary 'have' in a negative clause. -->
+- [ ] C) had not
+  <!-- feedback: 'Had not' is the past, and the complaint concerns the recent service visits. -->
+- [ ] D) will not
+  <!-- feedback: 'Will not' is a future form, and the events reported are already finished. -->
 
 ### Explicacion Pedagogica
-The word 'insurance' is used to describe a practice or arrangement by which a company or government agency provides a guarantee of compensation for specified loss, damage, illness, or death in return for payment of a premium. This is an important vocabulary word in English.
+With auxiliary 'have' the subjunctive uses 'have' and not 'has', and the negative form is 'have not'.
 ---
-## Question 19 [D9]
+## Question 19 [D4]
 **ID:** HN-ING-11-2026-W24-subjunctive-mood-001-MASTERY-bundle-v19
-**Bloom:** Evaluate
-**EJE:** Lexico
+**Bloom:** Apply
+**EJE:** Gramatica
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** A publishing team reviews a draft before it is sent to print.
 
 ### Enunciado
-What is the English word for: "Treatment with a vaccine to produce immunity against a disease."
+The editor demanded that the article ____ a conclusion written in one sentence.
 
 ### Opciones
-- [x] D) vaccination
-  <!-- feedback: Correct! 'Vaccination' is the administration of a vaccine that makes the immune system ready against a disease. -->
-- [ ] A) medication
-  <!-- feedback: Wrong. 'Medication' treats the symptoms of an illness you already have; it does not create immunity beforehand. -->
-- [ ] B) prescription
-  <!-- feedback: Wrong. A 'prescription' is the doctor's written order for a medicine, not the vaccine itself. -->
-- [ ] C) infection
-  <!-- feedback: Wrong. An 'infection' is the invasion of the body by a pathogen, which is the opposite of preventing it. -->
+- [ ] A) includes
+  <!-- feedback: 'Includes' is the indicative and would treat the demand as a plain statement. -->
+- [ ] B) included
+  <!-- feedback: 'Included' is the past simple, and the article is still being edited. -->
+- [x] C) include
+  <!-- feedback: Correct! 'Include' is the base form the subjunctive requires after 'demanded that'. -->
+- [ ] D) including
+  <!-- feedback: 'Including' is a participle and cannot be the verb of the clause. -->
 
 ### Explicacion Pedagogica
-The word 'vaccination' is used to describe treatment with a vaccine to produce immunity against a disease. This is an important vocabulary word in English.
+A demand frames the requirement as external, and the subjunctive is the grammatical way of showing that the speaker is reporting it rather than asserting it.
 ---
-## Question 20 [D10]
+## Question 20 [D4]
 **ID:** HN-ING-11-2026-W24-subjunctive-mood-001-MASTERY-bundle-v20
-**Bloom:** Evaluate
-**EJE:** Lexico
+**Bloom:** Apply
+**EJE:** Gramatica
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** An examination centre publishes its rules before a session begins.
 
 ### Enunciado
-What is the English word for: "Extreme tiredness and other physical effects felt by a person after a long flight across several time zones."
+The exam instructions warned that candidates ____ their identity cards to the invigilator.
 
 ### Opciones
-- [x] C) jet lag
-  <!-- feedback: Correct! 'Jet lag' is the tiredness and disturbed body clock caused by crossing several time zones in a flight. -->
-- [ ] A) fatigue
-  <!-- feedback: Wrong. 'Fatigue' is general tiredness from any cause, such as hard work, not specifically from time zones. -->
-- [ ] B) exhaustion
-  <!-- feedback: Wrong. 'Exhaustion' is extreme tiredness from physical effort or illness, not from a change of time zone. -->
-- [ ] D) insomnia
-  <!-- feedback: Wrong. 'Insomnia' is simply difficulty sleeping, which can come from many causes unrelated to flying. -->
+- [ ] A) hands
+  <!-- feedback: 'Hands' is the indicative, which would not record a warning as a condition. -->
+- [ ] B) handed
+  <!-- feedback: 'Handed' is the past simple, and the instruction is about what is still to be done. -->
+- [ ] C) handing
+  <!-- feedback: 'Handing' is a participle and cannot complete the clause. -->
+- [x] D) hand
+  <!-- feedback: Correct! 'Hand' is the base form the subjunctive takes in a that clause after a verb of warning. -->
 
 ### Explicacion Pedagogica
-The word 'jet lag' is used to describe extreme tiredness and other physical effects felt by a person after a long flight across several time zones. This is an important vocabulary word in English.
+Verbs such as 'warn', 'insist', 'demand', 'recommend' and 'suggest' all place the following clause in the subjunctive.
+---

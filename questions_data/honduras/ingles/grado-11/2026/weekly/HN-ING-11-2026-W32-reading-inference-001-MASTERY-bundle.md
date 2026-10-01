@@ -21,462 +21,464 @@ bundle_index: 1
 **20 preguntas | Ingles | Curriculo de Ingles**
 
 ---
-## Question 1 [D3]
+
+## Question 1 [D4]
 **ID:** HN-ING-11-2026-W32-reading-inference-001-MASTERY-bundle-v1
-**Bloom:** Remember
-**EJE:** Lexico
+**Bloom:** Analyze
+**EJE:** Comprension lectora
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** A text reports that families built water tanks on their roofs years before the official programme was announced.
 
 ### Enunciado
-What is the English word for: "A place where you live or stay on holiday."
+The text says families began storing rainwater 'before anyone suggested it'. What can be inferred?
 
 ### Opciones
-- [x] A) accommodation
-  <!-- feedback: Correct! 'accommodation' is the place where you live or stay, especially on holiday, and it is the word the definition asks for. -->
-- [ ] B) transportation
-  <!-- feedback: 'transportation' is the system that moves people or goods (buses, trains, taxis), not a place where you live or stay. -->
-- [ ] C) entertainment
-  <!-- feedback: 'entertainment' means the shows, music and activities that amuse you, so it names an experience rather than a place. -->
-- [ ] D) currency
-  <!-- feedback: 'currency' is the money system of a country, such as the dollar or the colon, so it has nothing to do with a place to stay. -->
+- [x] A) The need was obvious to the residents before the official programme existed.
+  <!-- feedback: Correct! The timing of the tanks shows the residents recognised the problem on their own. -->
+- [ ] B) The residents had been told what to do by the committee.
+  <!-- feedback: The phrase says the opposite: nobody had suggested it at the time. -->
+- [ ] C) The programme failed because nobody used the tanks.
+  <!-- feedback: The text says the practice spread, which contradicts a failure. -->
+- [ ] D) The committee was created after the tanks were bought.
+  <!-- feedback: The tanks predate the committee, which the wording makes explicit. -->
 
 ### Explicacion Pedagogica
-The word 'accommodation' is used to describe a place where you live or stay on holiday. This is an important vocabulary word in English.
+An inference combines what the text states with a reasonable conclusion. The timing shows the problem was perceived before any official action.
 ---
-## Question 2 [D4]
+## Question 2 [D5]
 **ID:** HN-ING-11-2026-W32-reading-inference-001-MASTERY-bundle-v2
-**Bloom:** Remember
-**EJE:** Lexico
+**Bloom:** Evaluate
+**EJE:** Comprension lectora
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** A text describes ancient wells as 'the bones of the valley' in a passage about the region's water history.
 
 ### Enunciado
-What is the English word for: "A detailed plan or route of a journey."
+The writer calls the old wells 'the bones of the valley'. This phrase suggests that the wells are:
 
 ### Opciones
-- [x] B) itinerary
-  <!-- feedback: Correct! An 'itinerary' is the detailed plan or route of a journey: it lists the places, stops and times in order. -->
-- [ ] A) baggage
-  <!-- feedback: 'baggage' means the suitcases and bags you travel with, not the plan that organises the trip. -->
-- [ ] C) destination
-  <!-- feedback: 'destination' is the place you are travelling to, one single stop of the plan rather than the plan itself. -->
-- [ ] D) passport
-  <!-- feedback: 'passport' is the official travel document you show at the border, not a description of the journey route. -->
+- [ ] A) dangerous and should be closed immediately.
+  <!-- feedback: The image does not convey danger; the wells are described as essential. -->
+- [x] B) old and fundamental to the life of the place.
+  <!-- feedback: Correct! The image of bones conveys age and a supporting role, which is exactly the suggestion. -->
+- [ ] C) recently built by the committee.
+  <!-- feedback: The wells are ancient, so the image contradicts the idea that they are recent. -->
+- [ ] D) the only source of income in the valley.
+  <!-- feedback: The image suggests importance for survival, not for income. -->
 
 ### Explicacion Pedagogica
-The word 'itinerary' is used to describe a detailed plan or route of a journey. This is an important vocabulary word in English.
+A metaphor expresses an idea rather than a fact. This image compares something hidden and essential to the structure that supports a body.
 ---
-## Question 3 [D3]
+## Question 3 [D5]
 **ID:** HN-ING-11-2026-W32-reading-inference-001-MASTERY-bundle-v3
-**Bloom:** Understand
-**EJE:** Lexico
+**Bloom:** Evaluate
+**EJE:** Comprension lectora
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** A text describes how a local water committee reached its decisions during the dry months.
 
 ### Enunciado
-What is the English word for: "The place to which someone or something is going or being sent."
+The text says the water committee 'wrote down the figures before deciding anything'. What does this show about the group?
 
 ### Opciones
-- [x] B) destination
-  <!-- feedback: Correct! A 'destination' is the place to which someone or something is going or being sent. -->
-- [ ] A) departure
-  <!-- feedback: 'departure' is the act of leaving, the opposite side of the trip; the definition asks for the place, not the action. -->
-- [ ] C) arrival
-  <!-- feedback: 'arrival' is the event of getting there, but a definition needs the place itself, not the moment of reaching it. -->
-- [ ] D) journey
-  <!-- feedback: 'journey' is the whole trip from one place to another, whereas the definition names only where it ends. -->
+- [ ] A) It ignored the opinions of the residents.
+  <!-- feedback: The text describes the opposite, since the rules were agreed with the residents. -->
+- [ ] B) It changed the figures whenever it was convenient.
+  <!-- feedback: Nothing in the text suggests that any figure was altered. -->
+- [x] C) It based its decisions on evidence.
+  <!-- feedback: Correct! Recording the figures first shows that the decisions rested on evidence rather than on preference. -->
+- [ ] D) It preferred intuition to measurement.
+  <!-- feedback: The practice described is measurement, not intuition. -->
 
 ### Explicacion Pedagogica
-The word 'destination' is used to describe the place to which someone or something is going or being sent. This is an important vocabulary word in English.
+Recording the figures before deciding shows a deliberate method. The order of the two actions is what carries the meaning, and that is what the reader has to infer.
 ---
-## Question 4 [D4]
+## Question 4 [D5]
 **ID:** HN-ING-11-2026-W32-reading-inference-001-MASTERY-bundle-v4
-**Bloom:** Understand
-**EJE:** Lexico
+**Bloom:** Evaluate
+**EJE:** Comprension lectora
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** A text describes poor families in a water-short town hiding their water containers inside the house.
 
 ### Enunciado
-What is the English word for: "Suitcases or other bags in which to pack personal belongings for traveling."
+The author writes that the youngest families 'kept the buckets under the beds'. What is the likely reason?
 
 ### Opciones
-- [x] B) luggage
-  <!-- feedback: Correct! 'luggage' is the collective word for the suitcases and bags in which personal belongings are packed for travelling. -->
-- [ ] A) ticket
-  <!-- feedback: a 'ticket' is the document that gives you the right to travel; it carries nothing at all. -->
-- [ ] C) flight
-  <!-- feedback: a 'flight' is the trip itself by plane, not the bags you pack for it. -->
-- [ ] D) reservation
-  <!-- feedback: a 'reservation' is the booking held for a seat or a room, not the container where clothes go. -->
+- [ ] A) To decorate the room for visitors.
+  <!-- feedback: The text describes a problem of supply, not decoration. -->
+- [ ] B) To keep the buckets out of reach of children at play.
+  <!-- feedback: Keeping buckets out of reach would be about safety, and the text stresses the shortage. -->
+- [ ] C) To store the buckets during a flood in the street.
+  <!-- feedback: No flood is mentioned anywhere in the account. -->
+- [x] D) To protect a small supply from evaporation or theft.
+  <!-- feedback: Correct! In a shortage, hiding the stored water protects it, which is the most likely reason. -->
 
 ### Explicacion Pedagogica
-The word 'luggage' is used to describe suitcases or other bags in which to pack personal belongings for traveling. This is an important vocabulary word in English.
+Purpose has to be inferred from context. A text that presents a shortage makes the reason for hiding water understandable to the reader.
 ---
-## Question 5 [D5]
+## Question 5 [D4]
 **ID:** HN-ING-11-2026-W32-reading-inference-001-MASTERY-bundle-v5
-**Bloom:** Understand
-**EJE:** Lexico
+**Bloom:** Evaluate
+**EJE:** Comprension lectora
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** A text describes a local committee of residents that meets regularly to review water agreements.
 
 ### Enunciado
-What is the English word for: "A traveler on a public or private conveyance other than the driver, pilot, or crew."
+Which inference is NOT supported by the text about the committee?
 
 ### Opciones
-- [x] C) passenger
-  <!-- feedback: Correct! A 'passenger' is a traveller on a public or private conveyance who is neither the driver, the pilot nor the crew. -->
-- [ ] A) pedestrian
-  <!-- feedback: a 'pedestrian' travels on foot, so there is no driver, pilot or crew in the vehicle at all. -->
-- [ ] B) commuter
-  <!-- feedback: a 'commuter' is defined by the regular trip to work or study, not by riding any conveyance. -->
-- [ ] D) tourist
-  <!-- feedback: a 'tourist' travels for pleasure and visits places of interest; the definition here is about the role on the vehicle. -->
+- [x] A) It was created by the national government.
+  <!-- feedback: Correct! The text presents the committee as a local body and never attributes its creation to the national government. -->
+- [ ] B) It meets on a fixed schedule.
+  <!-- feedback: The fixed schedule is stated in the text. -->
+- [ ] C) It reviews the agreements with the community.
+  <!-- feedback: The reviews of agreements are exactly what the meetings are for. -->
+- [ ] D) It is made up of residents of the town.
+  <!-- feedback: Membership by residents is described when the committee is introduced. -->
 
 ### Explicacion Pedagogica
-The word 'passenger' is used to describe a traveler on a public or private conveyance other than the driver, pilot, or crew. This is an important vocabulary word in English.
+An unsupported inference is one the text never licenses. Local origin, a fixed schedule and community membership are all stated, while national creation is not.
 ---
-## Question 6 [D6]
+## Question 6 [D5]
 **ID:** HN-ING-11-2026-W32-reading-inference-001-MASTERY-bundle-v6
-**Bloom:** Understand
-**EJE:** Lexico
+**Bloom:** Analyze
+**EJE:** Comprension lectora
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** A text compares villages that installed storage tanks with villages that did not, and reports different results.
 
 ### Enunciado
-What is the English word for: "The place at a port, airport, or frontier where officials check incoming goods, travelers, or luggage."
+The text says the programme 'failed in the villages without tanks'. What can be inferred?
 
 ### Opciones
-- [x] C) customs
-  <!-- feedback: Correct! 'customs' is the place at a port, airport or frontier where officials check incoming goods, travellers and luggage. -->
-- [ ] A) security
-  <!-- feedback: 'security' staff prevent accidents and crime inside the building; the officials who check goods and travellers are customs. -->
-- [ ] B) terminal
-  <!-- feedback: a 'terminal' is the building where passengers wait for a departure, not the office where the checks are done. -->
-- [ ] D) gate
-  <!-- feedback: a 'gate' is the door or boarding point on the aircraft, not the place where officials inspect your belongings. -->
+- [ ] A) The residents of those villages did not want to save water.
+  <!-- feedback: The text does not blame the residents; it names the absence of tanks as the difference. -->
+- [x] B) The infrastructure, not the people, was the decisive factor.
+  <!-- feedback: Correct! The contrast shows that the physical installations, not the attitudes of the people, decided the outcome. -->
+- [ ] C) Those villages had more water than the others.
+  <!-- feedback: The text implies those villages suffered more, so they did not have more water. -->
+- [ ] D) The committee refused to help the villages without tanks.
+  <!-- feedback: The text describes a technical limitation, not a refusal to help. -->
 
 ### Explicacion Pedagogica
-The word 'customs' is used to describe the place at a port, airport, or frontier where officials check incoming goods, travelers, or luggage. This is an important vocabulary word in English.
+The contrast between the two groups isolates the variable. When only the infrastructure differs, the conclusion points to the infrastructure.
 ---
 ## Question 7 [D5]
 **ID:** HN-ING-11-2026-W32-reading-inference-001-MASTERY-bundle-v7
-**Bloom:** Apply
-**EJE:** Lexico
+**Bloom:** Evaluate
+**EJE:** Comprension lectora
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** A text uses a sensory image of the pump at dawn in a passage about daily life in a dry region.
 
 ### Enunciado
-What is the English word for: "A document provided by an airline during check-in, giving a passenger permission to board the airplane."
+The writer mentions 'the sound of the pump at dawn'. Why include this detail?
 
 ### Opciones
-- [x] D) boarding pass
-  <!-- feedback: Correct! A 'boarding pass' is the document the airline issues at check-in that gives the passenger permission to board. -->
-- [ ] A) visa
-  <!-- feedback: a 'visa' is the permission to enter a country, obtained before the trip and not from the airline. -->
-- [ ] B) receipt
-  <!-- feedback: a 'receipt' only proves that you paid; it does not let you board the plane. -->
-- [ ] C) brochure
-  <!-- feedback: a 'brochure' is printed information about the airline or the destination, not a travel document. -->
+- [ ] A) To prove that the pump was broken that morning.
+  <!-- feedback: A sound at dawn shows activity, not a breakdown. -->
+- [ ] B) To show that the villagers worked in a factory.
+  <!-- feedback: A village pump is part of daily life and has nothing to do with a factory. -->
+- [x] C) To make the routine and the value of the water vivid.
+  <!-- feedback: Correct! The image gives the reader a concrete sense of the routine and of what the water means to the people. -->
+- [ ] D) To indicate that the village had too much water.
+  <!-- feedback: The whole text is about scarcity, so the detail cannot signal abundance. -->
 
 ### Explicacion Pedagogica
-The word 'boarding pass' is used to describe a document provided by an airline during check-in, giving a passenger permission to board the airplane. This is an important vocabulary word in English.
+Sensory details make a routine concrete for the reader. The detail is chosen because it carries the meaning of the passage.
 ---
-## Question 8 [D6]
+## Question 8 [D4]
 **ID:** HN-ING-11-2026-W32-reading-inference-001-MASTERY-bundle-v8
-**Bloom:** Apply
-**EJE:** Lexico
+**Bloom:** Analyze
+**EJE:** Comprension lectora
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** A text describes an economic consequence of a water shortage affecting ordinary households.
 
 ### Enunciado
-What is the English word for: "The activity of visiting places of interest in a particular location."
+The text states that prices of bottled water rose sharply. What can be inferred?
 
 ### Opciones
-- [x] B) sightseeing
-  <!-- feedback: Correct! 'sightseeing' is the activity of visiting the places of interest of a location. -->
-- [ ] A) shopping
-  <!-- feedback: 'shopping' is buying things in stores, not the general activity of visiting a place's sights. -->
-- [ ] C) hiking
-  <!-- feedback: 'hiking' is one specific outdoor walk in nature, only one kind of activity out of many. -->
-- [ ] D) camping
-  <!-- feedback: 'camping' means staying outdoors in a tent, which is not what a visitor does in a city or landmark. -->
+- [ ] A) The government stopped the sale of bottled water.
+  <!-- feedback: The text says nothing about a prohibition on bottled water. -->
+- [ ] B) Everyone in the region bought a pump.
+  <!-- feedback: Buying a pump is mentioned as an option, not as something everyone did. -->
+- [ ] C) The wells recovered during that year.
+  <!-- feedback: The wells yielded less water during that period, so they did not recover. -->
+- [x] D) Households felt the shortage in their budgets as well.
+  <!-- feedback: Correct! The price rise shows that the shortage also reached the economy of the households. -->
 
 ### Explicacion Pedagogica
-The word 'sightseeing' is used to describe the activity of visiting places of interest in a particular location. This is an important vocabulary word in English.
+A rise in prices is presented as a consequence of the shortage, and it affects the households the text is describing.
 ---
 ## Question 9 [D5]
 **ID:** HN-ING-11-2026-W32-reading-inference-001-MASTERY-bundle-v9
-**Bloom:** Apply
-**EJE:** Lexico
+**Bloom:** Evaluate
+**EJE:** Comprension lectora
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** A text evaluates a set of community agreements and explains why they were designed in that particular way.
 
 ### Enunciado
-What is the English word for: "A thing that is kept as a reminder of a person, place, or event."
+The author says the rules were 'simple enough to be remembered and strict enough to be respected'. This shows that the rules were:
 
 ### Opciones
-- [x] C) souvenir
-  <!-- feedback: Correct! A 'souvenir' is the object that is kept as a reminder of a person, place or event. -->
-- [ ] A) gift
-  <!-- feedback: a 'gift' is something given to someone, but it is not necessarily kept as a reminder of a place or an event. -->
-- [ ] B) award
-  <!-- feedback: an 'award' is an honour granted by an institution for merit, not a keepsake. -->
-- [ ] D) prize
-  <!-- feedback: a 'prize' is the reward of a competition; the definition describes an object kept as a memento. -->
+- [x] A) Well designed for the community that has to follow them.
+  <!-- feedback: Correct! The two qualities described, easy to remember and strict enough to be obeyed, show careful design. -->
+- [ ] B) Too complicated for the people who wrote them.
+  <!-- feedback: The text says the rules were simple, not complicated. -->
+- [ ] C) Ignored by everyone after the first month.
+  <!-- feedback: The text says they were respected, which is the opposite of being ignored. -->
+- [ ] D) Imposed without the agreement of the residents.
+  <!-- feedback: The rules were agreed in a public meeting, so they were not imposed without consent. -->
 
 ### Explicacion Pedagogica
-The word 'souvenir' is used to describe a thing that is kept as a reminder of a person, place, or event. This is an important vocabulary word in English.
+A writer's own comment about a solution is the strongest evidence of how effective it considered that solution to be.
 ---
-## Question 10 [D6]
+## Question 10 [D4]
 **ID:** HN-ING-11-2026-W32-reading-inference-001-MASTERY-bundle-v10
-**Bloom:** Apply
-**EJE:** Lexico
+**Bloom:** Analyze
+**EJE:** Comprension lectora
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** A text notes that several families of a dry village left the area during the worst years of the shortage.
 
 ### Enunciado
-What is the English word for: "A period of time by which something is late or postponed."
+Which inference can be drawn about the people who left the region?
 
 ### Opciones
-- [x] B) delay
-  <!-- feedback: Correct! A 'delay' is the extra period of time by which something ends up late or postponed. -->
-- [ ] A) cancellation
-  <!-- feedback: a 'cancellation' means the trip or event will not happen at all, not that it happens later. -->
-- [ ] C) departure
-  <!-- feedback: 'departure' is simply the moment of leaving, which can be perfectly punctual. -->
-- [ ] D) arrival
-  <!-- feedback: 'arrival' is the moment of reaching the place, and it says nothing about being late. -->
+- [ ] A) They moved away to find better schools.
+  <!-- feedback: The text says nothing about schools as a motive. -->
+- [x] B) The lack of water was one of the reasons they moved away.
+  <!-- feedback: Correct! The departures coincide with the worst years of the shortage, so the water is a reasonable cause. -->
+- [ ] C) They were forced to leave by the national government.
+  <!-- feedback: No government action is mentioned, and the text presents the shortage as the cause. -->
+- [ ] D) They left because the wells produced too much water.
+  <!-- feedback: The wells produced less water, not more. -->
 
 ### Explicacion Pedagogica
-The word 'delay' is used to describe a period of time by which something is late or postponed. This is an important vocabulary word in English.
+The timing of the migration coincides with the shortage, so the shortage is a reasonable explanation the text licenses.
 ---
-## Question 11 [D7]
+## Question 11 [D5]
 **ID:** HN-ING-11-2026-W32-reading-inference-001-MASTERY-bundle-v11
-**Bloom:** Apply
-**EJE:** Lexico
+**Bloom:** Evaluate
+**EJE:** Comprension lectora
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** A text reports the time a technician needed to restore a water pump in a village.
 
 ### Enunciado
-What is the English word for: "The act of reporting one's presence and registering, typically at an airport or hotel."
+The text says a technician 'spent a whole day on the pump'. What does this suggest?
 
 ### Opciones
-- [x] D) check-in
-  <!-- feedback: Correct! 'Check-in' is the act of reporting your presence and registering at an airport or hotel counter. -->
-- [ ] A) check-out
-  <!-- feedback: 'check-out' is the opposite moment, when you pay and hand the room key back before leaving. -->
-- [ ] B) booking
-  <!-- feedback: 'booking' is the reservation made beforehand; check-in is what you do on arrival. -->
-- [ ] C) reservation
-  <!-- feedback: a 'reservation' is the earlier record of your booking, not the act of registering your presence. -->
+- [ ] A) The technician was careless with his time.
+  <!-- feedback: The text reports a fact about the job, not an attitude of the technician. -->
+- [ ] B) The pump was working perfectly well.
+  <!-- feedback: A working pump would not need a day of attention. -->
+- [x] C) The repair was slow and the water system fragile.
+  <!-- feedback: Correct! A whole day on one repair suggests a fragile system and a slow recovery. -->
+- [ ] D) The village had more than one pump.
+  <!-- feedback: The text mentions a single pump, so there is no evidence of others. -->
 
 ### Explicacion Pedagogica
-The word 'check-in' is used to describe the act of reporting one's presence and registering, typically at an airport or hotel. This is an important vocabulary word in English.
+A long task signals difficulty. The reader is expected to connect the hours spent with a system that is old and easily breaks down.
 ---
-## Question 12 [D8]
+## Question 12 [D4]
 **ID:** HN-ING-11-2026-W32-reading-inference-001-MASTERY-bundle-v12
-**Bloom:** Apply
-**EJE:** Lexico
+**Bloom:** Analyze
+**EJE:** Comprension lectora
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** A text compares rainfall records across several decades in a dry region.
 
 ### Enunciado
-What is the English word for: "A period of rest or waiting before a further stage in a journey."
+Which inference about rainfall is best supported by the text?
 
 ### Opciones
-- [x] C) layover
-  <!-- feedback: Correct! A 'layover' is a period of rest or waiting between two further stages of a journey. -->
-- [ ] A) stopover
-  <!-- feedback: 'stopover' is used mainly for trains and usually for a longer, often overnight, break on a rail journey. -->
-- [ ] B) transfer
-  <!-- feedback: a 'transfer' is the change from one vehicle or flight to another, not the pause itself. -->
-- [ ] D) transit
-  <!-- feedback: 'transit' means the action of passing through a place, with no idea of resting between stages. -->
+- [ ] A) It increased steadily during the period described.
+  <!-- feedback: A decline, not an increase, is what the records show. -->
+- [ ] B) It never changed at all in the region.
+  <!-- feedback: The text is concerned precisely with a change over the years. -->
+- [ ] C) It is measured only in the capital city.
+  <!-- feedback: The measurements concern the region, not one city. -->
+- [x] D) It became less reliable over the recorded years.
+  <!-- feedback: Correct! The comparison across decades shows that rainfall became less dependable. -->
 
 ### Explicacion Pedagogica
-The word 'layover' is used to describe a period of rest or waiting before a further stage in a journey. This is an important vocabulary word in English.
+A pattern reported over many years is the evidence from which a trend can be inferred. The text points to a decline in reliability.
 ---
-## Question 13 [D7]
+## Question 13 [D5]
 **ID:** HN-ING-11-2026-W32-reading-inference-001-MASTERY-bundle-v13
-**Bloom:** Analyze
-**EJE:** Lexico
+**Bloom:** Evaluate
+**EJE:** Comprension lectora
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** A text describes a water tank installed on a roof in a village.
 
 ### Enunciado
-What is the English word for: "A system of money in general use in a particular country."
+The writer says the tank 'looks like a small house on the roof'. This comparison is meant to:
 
 ### Opciones
-- [x] B) currency
-  <!-- feedback: Correct! 'Currency' is the money system in general use in a particular country. -->
-- [ ] A) coin
-  <!-- feedback: a 'coin' is one single piece of money, not the whole system used in the country. -->
-- [ ] C) banknote
-  <!-- feedback: a 'banknote' is one single paper note of that system, not the system itself. -->
-- [ ] D) cash
-  <!-- feedback: 'cash' means money in coins and notes in general, not the specific monetary system of a country. -->
+- [x] A) Help the reader picture a structure much bigger than expected.
+  <!-- feedback: Correct! The comparison with a building gives a sense of size, which a measurement would not convey as quickly. -->
+- [ ] B) Show that tanks are made of wood.
+  <!-- feedback: The material of the tank is not what the comparison conveys. -->
+- [ ] C) Warn that roofs are dangerous to build on.
+  <!-- feedback: The text warns about the shortage, not about the safety of roofs. -->
+- [ ] D) Compare the tank with a school building.
+  <!-- feedback: The comparison is with a house, not with a school. -->
 
 ### Explicacion Pedagogica
-The word 'currency' is used to describe a system of money in general use in a particular country. This is an important vocabulary word in English.
+A simile gives the reader a mental image. The comparison with a small house shows the size of the object without giving measurements.
 ---
-## Question 14 [D8]
+## Question 14 [D5]
 **ID:** HN-ING-11-2026-W32-reading-inference-001-MASTERY-bundle-v14
-**Bloom:** Analyze
-**EJE:** Lexico
+**Bloom:** Evaluate
+**EJE:** Comprension lectora
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** A text describes the sacrifices a household made to obtain a water storage tank.
 
 ### Enunciado
-What is the English word for: "A book of information about a place designed for the use of visitors or tourists."
+The text says a family 'sold a goat to buy a tank'. What can be inferred?
 
 ### Opciones
-- [x] B) guidebook
-  <!-- feedback: Correct! A 'guidebook' is a book of information about a place written for the use of visitors and tourists. -->
-- [ ] A) map
-  <!-- feedback: a 'map' shows the layout of streets and places, but it is a drawing rather than a book of information. -->
-- [ ] C) dictionary
-  <!-- feedback: a 'dictionary' gives the meaning of words, not details about a destination for travellers. -->
-- [ ] D) encyclopedia
-  <!-- feedback: an encyclopedia covers all branches of knowledge rather than one particular place for visitors. -->
+- [ ] A) The family had plenty of money to spare.
+  <!-- feedback: The sale of an animal is the opposite of having money to spare. -->
+- [x] B) The tank was a serious financial sacrifice for them.
+  <!-- feedback: Correct! Selling livestock to buy a tank shows a real sacrifice, not spare money. -->
+- [ ] C) The tank was given away by the committee.
+  <!-- feedback: The text says the family bought the tank, not that it was given away. -->
+- [ ] D) The family had no livestock after that year.
+  <!-- feedback: The text does not say they lost every animal, only the one they sold. -->
 
 ### Explicacion Pedagogica
-The word 'guidebook' is used to describe a book of information about a place designed for the use of visitors or tourists. This is an important vocabulary word in English.
+Selling a productive animal is presented as a cost. That detail lets the reader judge how much the solution mattered to the family.
 ---
-## Question 15 [D7]
+## Question 15 [D4]
 **ID:** HN-ING-11-2026-W32-reading-inference-001-MASTERY-bundle-v15
 **Bloom:** Analyze
-**EJE:** Lexico
+**EJE:** Comprension lectora
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** A text reports that long walks to fetch water reduced the time children could spend in class.
 
 ### Enunciado
-What is the English word for: "A bag with shoulder straps that allow it to be carried on one's back."
+Which inference about education is best supported by the text?
 
 ### Opciones
-- [x] D) backpack
-  <!-- feedback: Correct! A 'backpack' has shoulder straps and is designed to be carried on one's back. -->
-- [ ] A) suitcase
-  <!-- feedback: a 'suitcase' is dragged by a handle beside the body; it has no shoulder straps. -->
-- [ ] B) briefcase
-  <!-- feedback: a 'briefcase' is a case for documents and a laptop that is carried in the hand. -->
-- [ ] C) handbag
-  <!-- feedback: a 'handbag' is a small bag held in the hand, not carried on the back. -->
+- [ ] A) The schools were better funded than before.
+  <!-- feedback: The text says nothing about school funding. -->
+- [ ] B) The region stopped teaching children altogether.
+  <!-- feedback: Children kept attending, but less often, so schooling was not stopped. -->
+- [x] C) The shortage interrupted the schooling of many children.
+  <!-- feedback: Correct! Fewer hours at school because of the walk to fetch water is a direct consequence described in the text. -->
+- [ ] D) Attendance improved with the arrival of the tanks.
+  <!-- feedback: The text presents the shortage as a barrier to schooling, not as an improvement. -->
 
 ### Explicacion Pedagogica
-The word 'backpack' is used to describe a bag with shoulder straps that allow it to be carried on one's back. This is an important vocabulary word in English.
+A consequence described in the text is an inference the reader can draw without leaving the information given.
 ---
-## Question 16 [D8]
+## Question 16 [D5]
 **ID:** HN-ING-11-2026-W32-reading-inference-001-MASTERY-bundle-v16
-**Bloom:** Analyze
-**EJE:** Lexico
+**Bloom:** Evaluate
+**EJE:** Comprension lectora
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** A text reports that a town adopted agreements that another community had already been using.
 
 ### Enunciado
-What is the English word for: "In or to a foreign country, especially one across the sea."
+The author says the new rules were 'copied from an older village'. This implies:
 
 ### Opciones
-- [x] B) overseas
-  <!-- feedback: Correct! 'Overseas' means in or to a foreign country, especially one reached across the sea. -->
-- [ ] A) domestic
-  <!-- feedback: 'domestic' means inside the same country, which is the opposite of overseas. -->
-- [ ] C) local
-  <!-- feedback: 'local' means belonging to the area where you already are, again the opposite meaning. -->
-- [ ] D) national
-  <!-- feedback: 'national' refers to the nation as a whole, but it does not mean being abroad. -->
+- [ ] A) The older village had solved the same problem successfully.
+  <!-- feedback: Adopting proven rules is a deliberate choice, not an inability to design any. -->
+- [ ] B) The older village had no water at all.
+  <!-- feedback: The older village used the rules precisely because it had water to manage. -->
+- [ ] C) The new rules were written by a foreign organisation.
+  <!-- feedback: The origin given is another village, not a foreign body. -->
+- [x] D) The community could not design its own arrangements.
+  <!-- feedback: Correct! A set of rules that another village kept successfully was worth copying, which the wording implies. -->
 
 ### Explicacion Pedagogica
-The word 'overseas' is used to describe in or to a foreign country, especially one across the sea. This is an important vocabulary word in English.
+Copying a workable solution is evidence that it worked. The reader is invited to treat the older village as a successful precedent.
 ---
-## Question 17 [D9]
+## Question 17 [D4]
 **ID:** HN-ING-11-2026-W32-reading-inference-001-MASTERY-bundle-v17
 **Bloom:** Evaluate
-**EJE:** Lexico
+**EJE:** Comprension lectora
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** A text about local water management names several of the people who served on the committee.
 
 ### Enunciado
-What is the English word for: "An estimate of income and expenditure for a set period of time."
+What can be inferred from the fact that the text lists the names of several committee members?
 
 ### Opciones
-- [x] C) budget
-  <!-- feedback: Correct! A 'budget' is an estimate of income and expenditure planned for a set period of time. -->
-- [ ] A) expense
-  <!-- feedback: an 'expense' is a single cost; a budget gathers all income and spending over a period. -->
-- [ ] B) cost
-  <!-- feedback: 'cost' is the amount paid for one thing, not an estimate for a whole period. -->
-- [ ] D) price
-  <!-- feedback: 'price' is the figure written on a product, not a plan of income and expenditure. -->
+- [x] A) The committee was a real group of identifiable residents.
+  <!-- feedback: Correct! Naming real residents shows that the committee existed as a group of people. -->
+- [ ] B) The committee met only once in fifty years.
+  <!-- feedback: Nothing in the sentence suggests that the committee met only once. -->
+- [ ] C) The members were appointed without election.
+  <!-- feedback: The text does not say how the members were chosen. -->
+- [ ] D) The text is a fictional story about imaginary people.
+  <!-- feedback: The specific names indicate a documented account, not a fictional one. -->
 
 ### Explicacion Pedagogica
-The word 'budget' is used to describe an estimate of income and expenditure for a set period of time. This is an important vocabulary word in English.
+Named individuals in an informational text indicate that the account is documented rather than invented. The detail anchors the story in reality.
 ---
-## Question 18 [D10]
+## Question 18 [D5]
 **ID:** HN-ING-11-2026-W32-reading-inference-001-MASTERY-bundle-v18
 **Bloom:** Evaluate
-**EJE:** Lexico
+**EJE:** Comprension lectora
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** A text argues in favour of a low-cost local water programme by comparing its price to a single structure elsewhere.
 
 ### Enunciado
-What is the English word for: "A practice or arrangement by which a company or government agency provides a guarantee of compensation for specified loss, damage, illness, or death in return for payment of a premium."
+The text says the programme cost 'less than one tank in the capital'. This comparison is used to:
 
 ### Opciones
-- [x] B) insurance
-  <!-- feedback: Correct! 'Insurance' is the arrangement by which a company or agency guarantees compensation for specified loss, damage, illness or death in return for a premium. -->
-- [ ] A) warranty
-  <!-- feedback: a 'warranty' is the maker's guarantee of a product, normally for a short period and against defects only. -->
-- [ ] C) guarantee
-  <!-- feedback: a 'guarantee' is the promise itself, without the payment of a premium that defines an insurance arrangement. -->
-- [ ] D) policy
-  <!-- feedback: a 'policy' is the written document of the contract, not the practice of insuring itself. -->
+- [ ] A) Show that the capital ignored the problem.
+  <!-- feedback: The text is not criticising the capital; the comparison is only about scale. -->
+- [x] B) Show that the measures were cheap and affordable.
+  <!-- feedback: Correct! Comparing the cost to a familiar item shows the programme is cheap enough to be affordable. -->
+- [ ] C) Show that the programme failed for lack of money.
+  <!-- feedback: A low cost is presented as an advantage, not as the cause of failure. -->
+- [ ] D) Show that the committee was dishonest.
+  <!-- feedback: No dishonesty is suggested anywhere in the text. -->
 
 ### Explicacion Pedagogica
-The word 'insurance' is used to describe a practice or arrangement by which a company or government agency provides a guarantee of compensation for specified loss, damage, illness, or death in return for payment of a premium. This is an important vocabulary word in English.
+A comparison with something familiar makes an abstract figure understandable. Here the effect is to show that the programme is affordable.
 ---
-## Question 19 [D9]
+## Question 19 [D4]
 **ID:** HN-ING-11-2026-W32-reading-inference-001-MASTERY-bundle-v19
 **Bloom:** Evaluate
-**EJE:** Lexico
+**EJE:** Comprension lectora
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** A text describes a water programme that succeeded in a village and states the condition for its continuation.
 
 ### Enunciado
-What is the English word for: "Treatment with a vaccine to produce immunity against a disease."
+Which inference about the future is best supported by the text?
 
 ### Opciones
-- [x] A) vaccination
-  <!-- feedback: Correct! 'Vaccination' is the treatment with a vaccine that produces immunity against a disease. -->
-- [ ] B) medication
-  <!-- feedback: 'medication' treats the symptoms of a disease; it does not create immunity against it. -->
-- [ ] C) prescription
-  <!-- feedback: a 'prescription' is the doctor's written order for a medicine, not the vaccine treatment itself. -->
-- [ ] D) infection
-  <!-- feedback: an 'infection' is the invasion of the body by a pathogen, the opposite of being protected against disease. -->
+- [ ] A) The region will never face another shortage.
+  <!-- feedback: The text presents a risk, so it cannot promise that no shortage will return. -->
+- [ ] B) The wells will be replaced by new ones next year.
+  <!-- feedback: No replacement of the wells is announced in the text. -->
+- [x] C) The measures can work if the community keeps following them.
+  <!-- feedback: Correct! The text ties the success of the measures to the community's continued cooperation. -->
+- [ ] D) The committee will be dissolved once the tanks are full.
+  <!-- feedback: The text presents the committee as permanent while the rules are in force. -->
 
 ### Explicacion Pedagogica
-The word 'vaccination' is used to describe treatment with a vaccine to produce immunity against a disease. This is an important vocabulary word in English.
+A text that states a condition for success licenses an inference about the future that keeps that condition, and no more.
 ---
-## Question 20 [D10]
+## Question 20 [D5]
 **ID:** HN-ING-11-2026-W32-reading-inference-001-MASTERY-bundle-v20
 **Bloom:** Evaluate
-**EJE:** Lexico
+**EJE:** Comprension lectora
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** A text about a water programme ends with a brief recollection of a well that has been in use for generations.
 
 ### Enunciado
-What is the English word for: "Extreme tiredness and other physical effects felt by a person after a long flight across several time zones."
+The writer places the story of the old well at the end of the text. This choice suggests the author wants to:
 
 ### Opciones
-- [x] C) jet lag
-  <!-- feedback: Correct! 'Jet lag' is the extreme tiredness and other physical effects felt after a long flight across several time zones. -->
-- [ ] A) fatigue
-  <!-- feedback: 'fatigue' is tiredness from any cause, such as a lack of sleep or effort, not specifically from time zones. -->
-- [ ] B) exhaustion
-  <!-- feedback: 'exhaustion' is a total lack of energy from any cause, more general and more severe than the effect of crossing time zones. -->
-- [ ] D) insomnia
-  <!-- feedback: 'insomnia' is the difficulty of falling or staying asleep, only one symptom and not the whole set of effects after a long flight. -->
+- [ ] A) Introduce the topic of the text for the first time.
+  <!-- feedback: A closing paragraph cannot introduce a topic for the first time. -->
+- [ ] B) Present evidence that the programme failed.
+  <!-- feedback: The closing image is positive, so it does not present failure. -->
+- [ ] C) Add a completely unrelated anecdote.
+  <!-- feedback: The well is directly related to the water supply, so the anecdote is not unrelated. -->
+- [x] D) Close with an image that links the past to the present.
+  <!-- feedback: Correct! Ending with an old well links the historical depth of the practice to the present programme. -->
 
 ### Explicacion Pedagogica
-The word 'jet lag' is used to describe extreme tiredness and other physical effects felt by a person after a long flight across several time zones. This is an important vocabulary word in English.
+Position is part of the message. A closing image that returns to the past pulls the argument together and gives it a lasting tone.
+---

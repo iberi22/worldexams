@@ -23,460 +23,460 @@ bundle_index: 1
 ---
 ## Question 1 [D3]
 **ID:** HN-ING-11-2026-W17-participle-clauses-001-MASTERY-bundle-v1
-**Bloom:** Remember
-**EJE:** Lexico
+**Bloom:** Apply
+**EJE:** Grammatical Knowledge
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** A present participle phrase at the start of a sentence.
 
 ### Enunciado
-What is the English word for: "A place where you live or stay on holiday."
+___ the tickets online, you avoid the long queue at the counter.
 
 ### Opciones
-- [x] B) accommodation
-  <!-- feedback: Correct! 'Accommodation' is the word for a place where you live or stay when you are on holiday. -->
-- [ ] A) transportation
-  <!-- feedback: 'Transportation' is the way you move from one place to another (buses, trains, planes), not the place where you sleep. -->
-- [ ] C) entertainment
-  <!-- feedback: 'Entertainment' is the fun or activities you enjoy, not the building or room where you stay. -->
-- [ ] D) currency
-  <!-- feedback: 'Currency' is the money of a country, which has nothing to do with where you sleep. -->
+- [x] A) Booking
+  <!-- feedback: Correct! An active action happening at the same time as the main verb takes the present participle. -->
+- [ ] B) Booked
+  <!-- feedback: A past participle would show the booking as complete before the main verb, and both actions are simultaneous. -->
+- [ ] C) To book
+  <!-- feedback: An infinitive would express purpose, and the sentence is describing two simultaneous actions. -->
+- [ ] D) Having booked
+  <!-- feedback: A perfect participle would put the booking first, which reverses the order of the two events. -->
 
 ### Explicacion Pedagogica
-The word 'accommodation' is used to describe a place where you live or stay on holiday. This is an important vocabulary word in English.
+A present participle phrase shows an action happening at the same time as the main verb. Having plus a past participle is the form for an earlier action.
 ---
-## Question 2 [D4]
+## Question 2 [D3]
 **ID:** HN-ING-11-2026-W17-participle-clauses-001-MASTERY-bundle-v2
-**Bloom:** Remember
-**EJE:** Lexico
+**Bloom:** Apply
+**EJE:** Grammatical Knowledge
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** A perfect participle phrase, where the first action is earlier.
 
 ### Enunciado
-What is the English word for: "A detailed plan or route of a journey."
+___ the report, she went home early.
 
 ### Opciones
-- [x] C) itinerary
-  <!-- feedback: Correct! An 'itinerary' is a detailed plan of a journey, listing the places and times along the route. -->
-- [ ] A) baggage
-  <!-- feedback: 'Baggage' is the suitcases and bags you travel with, not the written plan of the trip. -->
-- [ ] B) destination
-  <!-- feedback: 'Destination' is the place you are going to, a single place, while an itinerary is the whole route plan. -->
-- [ ] D) passport
-  <!-- feedback: 'Passport' is the travel document that lets you cross a border, not the schedule of your trip. -->
+- [x] B) Having finished
+  <!-- feedback: Correct! Having plus a past participle shows that finishing came before going home. -->
+- [ ] A) Finishing
+  <!-- feedback: The present participle would place the two actions at the same time, and going home clearly came second. -->
+- [ ] C) Finished
+  <!-- feedback: A past participle without having would be a reduced passive relative clause, which is a different structure. -->
+- [ ] D) To finish
+  <!-- feedback: An infinitive expresses purpose and would need a subject of its own to work here. -->
 
 ### Explicacion Pedagogica
-The word 'itinerary' is used to describe a detailed plan or route of a journey. This is an important vocabulary word in English.
+The order of the two events decides the participle. Simultaneous actions take the present participle, and an action completed first takes having plus the past participle.
 ---
 ## Question 3 [D3]
 **ID:** HN-ING-11-2026-W17-participle-clauses-001-MASTERY-bundle-v3
-**Bloom:** Understand
-**EJE:** Lexico
+**Bloom:** Apply
+**EJE:** Grammatical Knowledge
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** A passive participle phrase, where the subject receives the action.
 
 ### Enunciado
-What is the English word for: "The place to which someone or something is going or being sent."
+___ by the storm, the old tree fell across the road.
 
 ### Opciones
-- [x] A) destination
-  <!-- feedback: Correct! A 'destination' is the place someone or something is going or being sent to. -->
-- [ ] B) departure
-  <!-- feedback: 'Departure' is the action of leaving, the opposite end of the journey from the destination. -->
-- [ ] C) arrival
-  <!-- feedback: 'Arrival' is the act of getting there; the place you arrive at is the destination. -->
-- [ ] D) journey
-  <!-- feedback: 'Journey' is the whole trip from start to finish, not the place you are heading to. -->
+- [x] C) Damaged
+  <!-- feedback: Correct! A past participle with by forms a reduced passive relative clause describing the tree. -->
+- [ ] A) Damaging
+  <!-- feedback: The -ing form would make the tree the agent of the damaging, which is not the meaning. -->
+- [ ] B) Having damaged
+  <!-- feedback: A perfect participle would make the tree the agent of the action rather than the patient. -->
+- [ ] D) To damage
+  <!-- feedback: An infinitive cannot begin a participle phrase in this position. -->
 
 ### Explicacion Pedagogica
-The word 'destination' is used to describe the place to which someone or something is going or being sent. This is an important vocabulary word in English.
+A past participle with a by phrase reduces a passive relative clause. Damaged by the storm tells us what happened to the tree without repeating the relative pronoun.
 ---
 ## Question 4 [D4]
 **ID:** HN-ING-11-2026-W17-participle-clauses-001-MASTERY-bundle-v4
-**Bloom:** Understand
-**EJE:** Lexico
+**Bloom:** Apply
+**EJE:** Grammatical Knowledge
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** The two participles of the verb break, which are both irregular.
 
 ### Enunciado
-What is the English word for: "Suitcases or other bags in which to pack personal belongings for traveling."
+He was ___ in the middle of the sentence when the phone rang.
 
 ### Opciones
-- [x] B) luggage
-  <!-- feedback: Correct! 'Luggage' means suitcases and bags in which you pack your belongings for a trip. -->
-- [ ] A) ticket
-  <!-- feedback: 'Ticket' is the paper that gives you the right to travel on a bus, train or plane, not the bag itself. -->
-- [ ] C) flight
-  <!-- feedback: 'Flight' is the journey by plane, or the plane itself; the bags are called luggage. -->
-- [ ] D) reservation
-  <!-- feedback: 'Reservation' is the booking you make for a seat or a room, not the bags you pack. -->
+- [x] D) breaking
+  <!-- feedback: Correct! The present participle of break is breaking, with the internal e preserved. -->
+- [ ] A) breakinged
+  <!-- feedback: Break is irregular and has no -ed form in the present participle. -->
+- [ ] B) broke
+  <!-- feedback: Broke is the past simple and cannot follow the auxiliary was as a participle. -->
+- [ ] C) broken
+  <!-- feedback: Broken is the past participle and would need have or been rather than was. -->
 
 ### Explicacion Pedagogica
-The word 'luggage' is used to describe suitcases or other bags in which to pack personal belongings for traveling. This is an important vocabulary word in English.
+Break keeps the e in the present participle, as do write, take, drive and come. The internal vowel rule is the reason those participles look irregular.
 ---
-## Question 5 [D5]
+## Question 5 [D3]
 **ID:** HN-ING-11-2026-W17-participle-clauses-001-MASTERY-bundle-v5
-**Bloom:** Understand
-**EJE:** Lexico
+**Bloom:** Apply
+**EJE:** Grammatical Knowledge
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** A participle phrase that follows the subject, which changes the emphasis.
 
 ### Enunciado
-What is the English word for: "A traveler on a public or private conveyance other than the driver, pilot, or crew."
+The train, ___ at 6 a.m., arrives before noon.
 
 ### Opciones
-- [x] B) passenger
-  <!-- feedback: Correct! A 'passenger' is a person who travels on a vehicle without being the driver, pilot or crew. -->
-- [ ] A) pedestrian
-  <!-- feedback: 'Pedestrian' is someone who travels on foot, so they are not on a conveyance at all. -->
-- [ ] C) commuter
-  <!-- feedback: 'Commuter' is someone who travels regularly between home and work; the definition here is any traveller on board, not only that daily case. -->
-- [ ] D) tourist
-  <!-- feedback: 'Tourist' is someone visiting for pleasure or sightseeing, but the definition covers every traveller on board, including commuters and residents. -->
+- [x] A) leaving
+  <!-- feedback: Correct! A present participle after the subject adds descriptive information about the train's schedule. -->
+- [ ] B) left
+  <!-- feedback: A past participle would describe the train as the one that left, and it has not left yet. -->
+- [ ] C) having left
+  <!-- feedback: A perfect participle would place the departure before the arrival, which is not the schedule. -->
+- [ ] D) to leave
+  <!-- feedback: An infinitive after the subject would make the sentence ungrammatical in this position. -->
 
 ### Explicacion Pedagogica
-The word 'passenger' is used to describe a traveler on a public or private conveyance other than the driver, pilot, or crew. This is an important vocabulary word in English.
+A participle phrase can stand after the subject as well as before it. Placing it after the subject keeps the main subject nearer the beginning of the sentence.
 ---
-## Question 6 [D6]
+## Question 6 [D3]
 **ID:** HN-ING-11-2026-W17-participle-clauses-001-MASTERY-bundle-v6
-**Bloom:** Understand
-**EJE:** Lexico
+**Bloom:** Apply
+**EJE:** Grammatical Knowledge
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** A participle phrase in a passive sentence, reduced.
 
 ### Enunciado
-What is the English word for: "The place at a port, airport, or frontier where officials check incoming goods, travelers, or luggage."
+The results ___ by the committee at three o'clock will be posted online.
 
 ### Opciones
-- [x] A) customs
-  <!-- feedback: Correct! 'Customs' is the office at a port, airport or border where officials check goods, travellers and luggage. -->
-- [ ] B) security
-  <!-- feedback: 'Security' is the staff who control safety and boarding inside the airport; it does not check the goods you bring in. -->
-- [ ] C) terminal
-  <!-- feedback: 'Terminal' is the whole building where passengers wait, eat and catch their flights. -->
-- [ ] D) gate
-  <!-- feedback: 'Gate' is the particular door you board through, not the place where officials inspect your luggage. -->
+- [x] B) approved
+  <!-- feedback: Correct! A past participle reduces a passive relative clause, so the results are what was approved. -->
+- [ ] A) that approved
+  <!-- feedback: A reduced clause drops the relative pronoun, and the full form would be results that were approved. -->
+- [ ] C) are approved
+  <!-- feedback: A reduced clause has no auxiliary, because the main verb will be posted already carries the tense. -->
+- [ ] D) approving
+  <!-- feedback: The -ing form would make the results the agent of the approving, which is not what happens. -->
 
 ### Explicacion Pedagogica
-The word 'customs' is used to describe the place at a port, airport, or frontier where officials check incoming goods, travelers, or luggage. This is an important vocabulary word in English.
+The results approved is a reduced relative clause. The committee did the approving, and the results received it, so the passive participle is required.
 ---
-## Question 7 [D5]
+## Question 7 [D3]
 **ID:** HN-ING-11-2026-W17-participle-clauses-001-MASTERY-bundle-v7
 **Bloom:** Apply
-**EJE:** Lexico
+**EJE:** Grammatical Knowledge
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Two participles with different auxiliaries in the same sentence.
 
 ### Enunciado
-What is the English word for: "A document provided by an airline during check-in, giving a passenger permission to board the airplane."
+The letter ___ by the secretary and ___ by the director yesterday.
 
 ### Opciones
-- [x] B) boarding pass
-  <!-- feedback: Correct! The 'boarding pass' is the document the airline gives you at check-in that authorises you to board. -->
-- [ ] A) visa
-  <!-- feedback: 'Visa' is the official permission to enter and stay in a country, requested before the trip, not the document that lets you board a plane. -->
-- [ ] C) receipt
-  <!-- feedback: 'Receipt' is the proof of payment for a purchase, not the travel document for boarding. -->
-- [ ] D) brochure
-  <!-- feedback: 'Brochure' is a small booklet of tourist information, not the document that lets you board. -->
+- [x] C) was ... was
+  <!-- feedback: Correct! Two past passive actions need the auxiliary was twice, and yesterday makes the past tense certain. -->
+- [ ] A) is ... is
+  <!-- feedback: A present passive would place both actions now, and yesterday is in the past. -->
+- [ ] B) has ... has
+  <!-- feedback: A present perfect would leave the actions inside the present period, and yesterday closes them. -->
+- [ ] D) being ... being
+  <!-- feedback: Being belongs to continuous passives, and the actions are not described as running in parallel. -->
 
 ### Explicacion Pedagogica
-The word 'boarding pass' is used to describe a document provided by an airline during check-in, giving a passenger permission to board the airplane. This is an important vocabulary word in English.
+Each participle phrase carries its own auxiliary. When two of them share the same tense, the auxiliary has to be written out for each one.
 ---
-## Question 8 [D6]
+## Question 8 [D4]
 **ID:** HN-ING-11-2026-W17-participle-clauses-001-MASTERY-bundle-v8
 **Bloom:** Apply
-**EJE:** Lexico
+**EJE:** Grammatical Knowledge
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** A present participle used for an action happening over a long period.
 
 ### Enunciado
-What is the English word for: "The activity of visiting places of interest in a particular location."
+He has been ___ in the same job for fifteen years.
 
 ### Opciones
-- [x] A) sightseeing
-  <!-- feedback: Correct! 'Sightseeing' is the activity of visiting the places of interest in a location. -->
-- [ ] B) shopping
-  <!-- feedback: 'Shopping' is buying things in stores, which is not the same as visiting the sights of a place. -->
-- [ ] C) hiking
-  <!-- feedback: 'Hiking' is walking in the countryside on trails, not the general activity of visiting a location's attractions. -->
-- [ ] D) camping
-  <!-- feedback: 'Camping' is staying outdoors in a tent, not visiting the sights of a location. -->
+- [x] D) working
+  <!-- feedback: Correct! The present perfect continuous uses have plus been plus the present participle. -->
+- [ ] A) worked
+  <!-- feedback: A past participle with have been is not a valid form, because been already carries the auxiliary. -->
+- [ ] B) to work
+  <!-- feedback: An infinitive cannot follow the auxiliary been in a continuous structure. -->
+- [ ] C) working in
+  <!-- feedback: The in belongs with the preposition in the following clause, not with the participle itself. -->
 
 ### Explicacion Pedagogica
-The word 'sightseeing' is used to describe the activity of visiting places of interest in a particular location. This is an important vocabulary word in English.
+The present perfect continuous is have plus been plus -ing. The past participle has no place in that structure because the auxiliary is already there.
 ---
-## Question 9 [D5]
+## Question 9 [D3]
 **ID:** HN-ING-11-2026-W17-participle-clauses-001-MASTERY-bundle-v9
 **Bloom:** Apply
-**EJE:** Lexico
+**EJE:** Grammatical Knowledge
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** A participle phrase expressing the reason for an action.
 
 ### Enunciado
-What is the English word for: "A thing that is kept as a reminder of a person, place, or event."
+___ in the rain, we had to stop the match.
 
 ### Opciones
-- [x] C) souvenir
-  <!-- feedback: Correct! A 'souvenir' is the object you keep afterwards as a reminder of a person, place or event you visited. -->
-- [ ] A) gift
-  <!-- feedback: 'Gift' is something you give to another person; a souvenir is kept by the person who took the trip. -->
-- [ ] B) award
-  <!-- feedback: 'Award' is a prize given for an achievement, not an object bought or kept as a memory. -->
-- [ ] D) prize
-  <!-- feedback: 'Prize' is the reward you win in a competition, so it comes from winning rather than from a journey. -->
+- [x] A) Getting
+  <!-- feedback: Correct! A present participle phrase at the start of a sentence can express the cause of the main clause. -->
+- [ ] B) Got
+  <!-- feedback: A past participle would describe the match as the one getting wet, but the players are in the rain. -->
+- [ ] C) To get
+  <!-- feedback: An infinitive phrase cannot begin a sentence as a participle clause. -->
+- [ ] D) Having got
+  <!-- feedback: A perfect participle would suggest the two are in a fixed order, and here they happen together. -->
 
 ### Explicacion Pedagogica
-The word 'souvenir' is used to describe a thing that is kept as a reminder of a person, place, or event. This is an important vocabulary word in English.
+A participle phrase at the start of a sentence can supply the reason, the condition or the time. Its logical relationship to the main clause comes from the situation, not from a conjunction.
 ---
-## Question 10 [D6]
+## Question 10 [D3]
 **ID:** HN-ING-11-2026-W17-participle-clauses-001-MASTERY-bundle-v10
 **Bloom:** Apply
-**EJE:** Lexico
+**EJE:** Grammatical Knowledge
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** A participle of a verb that ends in an e.
 
 ### Enunciado
-What is the English word for: "A period of time by which something is late or postponed."
+She is ___ a cup of tea and reading the newspaper.
 
 ### Opciones
-- [x] A) delay
-  <!-- feedback: Correct! A 'delay' is the extra time by which something ends up late or gets postponed. -->
-- [ ] B) cancellation
-  <!-- feedback: 'Cancellation' means the event does not happen at all, not that it happens later than planned. -->
-- [ ] C) departure
-  <!-- feedback: 'Departure' is the scheduled time or the act of leaving; the definition is about the extra time lost. -->
-- [ ] D) arrival
-  <!-- feedback: 'Arrival' is getting there, the opposite moment. Here we want the time lost, not the time you reach the destination. -->
+- [x] B) drinking
+  <!-- feedback: Correct! Drink keeps the e in the present participle, so the form is drinking. -->
+- [ ] A) drinked
+  <!-- feedback: Drink is irregular and has no -ed form in the present participle. -->
+- [ ] C) drank
+  <!-- feedback: Drank is the past simple and cannot follow the auxiliary is as a participle. -->
+- [ ] D) drunk
+  <!-- feedback: Drunk is the past participle and would need have or been rather than is. -->
 
 ### Explicacion Pedagogica
-The word 'delay' is used to describe a period of time by which something is late or postponed. This is an important vocabulary word in English.
+Verbs ending in a silent e keep that e before -ing. Drink becomes drinking, and the same rule applies to write, take, make and come.
 ---
-## Question 11 [D7]
+## Question 11 [D3]
 **ID:** HN-ING-11-2026-W17-participle-clauses-001-MASTERY-bundle-v11
 **Bloom:** Apply
-**EJE:** Lexico
+**EJE:** Grammatical Knowledge
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** A participle phrase describing a person, in a reduced relative clause.
 
 ### Enunciado
-What is the English word for: "The act of reporting one's presence and registering, typically at an airport or hotel."
+The woman ___ at the desk is the new principal.
 
 ### Opciones
-- [x] B) check-in
-  <!-- feedback: Correct! 'Check-in' is the act of reporting your arrival and registering at the airport or hotel counter. -->
-- [ ] A) check-out
-  <!-- feedback: 'Check-out' is the opposite moment, when you leave the hotel or hand back the room. -->
-- [ ] C) booking
-  <!-- feedback: 'Booking' is the reservation you made earlier; the act of registering your presence on arrival is check-in. -->
-- [ ] D) reservation
-  <!-- feedback: 'Reservation' is the booking document, not the act of reporting your presence at the desk. -->
+- [x] C) working
+  <!-- feedback: Correct! An active reduced relative clause takes the present participle, and the woman is the one working. -->
+- [ ] A) was working
+  <!-- feedback: A reduced clause has no auxiliary, because the main verb of the sentence already carries the tense. -->
+- [ ] B) worked
+  <!-- feedback: A past participle would describe a passive clause, and the woman is working rather than being worked. -->
+- [ ] D) that working
+  <!-- feedback: A reduced clause drops the relative pronoun, so that cannot stay in front of the participle. -->
 
 ### Explicacion Pedagogica
-The word 'check-in' is used to describe the act of reporting one's presence and registering, typically at an airport or hotel. This is an important vocabulary word in English.
+An active reduced clause uses the -ing form and a passive one uses the past participle. Neither keeps the relative pronoun or the auxiliary.
 ---
-## Question 12 [D8]
+## Question 12 [D3]
 **ID:** HN-ING-11-2026-W17-participle-clauses-001-MASTERY-bundle-v12
 **Bloom:** Apply
-**EJE:** Lexico
+**EJE:** Grammatical Knowledge
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** A participle in a sentence about a duration.
 
 ### Enunciado
-What is the English word for: "A period of rest or waiting before a further stage in a journey."
+She has been ___ in the hospital for a week.
 
 ### Opciones
-- [x] B) layover
-  <!-- feedback: Correct! A 'layover' is a period of rest or waiting between two stages of a journey. -->
-- [ ] A) stopover
-  <!-- feedback: 'Stopover' usually means a deliberate visit in the middle of a trip, not just the wait between flights. -->
-- [ ] C) transfer
-  <!-- feedback: 'Transfer' is the change of vehicle itself, the movement; the definition is about the time of waiting. -->
-- [ ] D) transit
-  <!-- feedback: 'Transit' is a system of moving people and goods through a city, not a break between two flights. -->
+- [x] D) recovering
+  <!-- feedback: Correct! The present perfect continuous is have plus been plus the present participle. -->
+- [ ] A) recover
+  <!-- feedback: A base form cannot follow the auxiliary been in a continuous structure. -->
+- [ ] B) recovered
+  <!-- feedback: A past participle would give have been recovered, which describes something done to her. -->
+- [ ] C) to recover
+  <!-- feedback: An infinitive has no place between been and the main verb of the sentence. -->
 
 ### Explicacion Pedagogica
-The word 'layover' is used to describe a period of rest or waiting before a further stage in a journey. This is an important vocabulary word in English.
+For plus a duration with have been plus -ing is the present perfect continuous. The -ing form is compulsory in that structure.
 ---
-## Question 13 [D7]
+## Question 13 [D4]
 **ID:** HN-ING-11-2026-W17-participle-clauses-001-MASTERY-bundle-v13
-**Bloom:** Analyze
-**EJE:** Lexico
+**Bloom:** Apply
+**EJE:** Grammatical Knowledge
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** The past participle of a verb ending in a consonant plus y.
 
 ### Enunciado
-What is the English word for: "A system of money in general use in a particular country."
+The film ___ by a small studio was a surprise success.
 
 ### Opciones
-- [x] D) currency
-  <!-- feedback: Correct! 'Currency' is the money system in general use in a particular country. -->
-- [ ] A) coin
-  <!-- feedback: 'Coin' is a single metal piece of money, one item within the currency, not the whole system. -->
-- [ ] B) banknote
-  <!-- feedback: 'Banknote' is a paper bill, one item of the currency rather than the system of money itself. -->
-- [ ] C) cash
-  <!-- feedback: 'Cash' means money in the physical form you hold, not the money system of a country. -->
+- [x] A) made
+  <!-- feedback: Correct! Make is irregular and its past participle is made, with no change to the stem. -->
+- [ ] B) maked
+  <!-- feedback: Maked is not a form of make, which is irregular in the past. -->
+- [ ] C) making
+  <!-- feedback: The -ing form would reduce an active clause, and the film was the thing produced rather than the producer. -->
+- [ ] D) did made
+  <!-- feedback: Did cannot precede a past participle, because the auxiliary and the participle are alternatives. -->
 
 ### Explicacion Pedagogica
-The word 'currency' is used to describe a system of money in general use in a particular country. This is an important vocabulary word in English.
+Irregular participles must be learned rather than worked out. Make, wrote and done are the ones most often confused with a regular -ed form.
 ---
-## Question 14 [D8]
+## Question 14 [D3]
 **ID:** HN-ING-11-2026-W17-participle-clauses-001-MASTERY-bundle-v14
-**Bloom:** Analyze
-**EJE:** Lexico
+**Bloom:** Apply
+**EJE:** Grammatical Knowledge
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** A participle phrase in a sentence with two past actions.
 
 ### Enunciado
-What is the English word for: "A book of information about a place designed for the use of visitors or tourists."
+___ the interview, the candidate left the building.
 
 ### Opciones
-- [x] C) guidebook
-  <!-- feedback: Correct! A 'guidebook' is a book of information about a place written for visitors and tourists. -->
-- [ ] A) map
-  <!-- feedback: 'Map' is a single sheet or screen showing the layout of a place, not a book of information. -->
-- [ ] B) dictionary
-  <!-- feedback: 'Dictionary' is a book of word definitions of a language, not information about a place for visitors. -->
-- [ ] D) encyclopedia
-  <!-- feedback: 'Encyclopedia' is a general reference work with entries on every topic, not a guide written for tourists about one place. -->
+- [x] B) After having
+  <!-- feedback: Correct! Having plus a past participle shows the interview finished before the leaving. -->
+- [ ] A) After taking
+  <!-- feedback: A present participle after after would show the two actions at the same time, which is not what happened. -->
+- [ ] C) Being taken
+  <!-- feedback: Being would make the candidate the agent of the taking, and after being taken is not a natural sequence here. -->
+- [ ] D) To have
+  <!-- feedback: An infinitive cannot open a participle clause after a preposition in this structure. -->
 
 ### Explicacion Pedagogica
-The word 'guidebook' is used to describe a book of information about a place designed for the use of visitors or tourists. This is an important vocabulary word in English.
+After having plus a past participle is a common way of showing sequence. After plus a present participle would suggest the two actions overlap instead.
 ---
-## Question 15 [D7]
+## Question 15 [D3]
 **ID:** HN-ING-11-2026-W17-participle-clauses-001-MASTERY-bundle-v15
-**Bloom:** Analyze
-**EJE:** Lexico
+**Bloom:** Apply
+**EJE:** Grammatical Knowledge
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** A passive participle with a by phrase in the middle of a sentence.
 
 ### Enunciado
-What is the English word for: "A bag with shoulder straps that allow it to be carried on one's back."
+The bridge, ___ in 1960, is still in daily use.
 
 ### Opciones
-- [x] C) backpack
-  <!-- feedback: Correct! A 'backpack' is the bag with shoulder straps that you carry on your back. -->
-- [ ] A) suitcase
-  <!-- feedback: 'Suitcase' is a case with a handle that you pull along, not a bag worn on the back. -->
-- [ ] B) briefcase
-  <!-- feedback: 'Briefcase' is a case for documents and a laptop, carried in the hand for work. -->
-- [ ] D) handbag
-  <!-- feedback: 'Handbag' is a bag for personal items carried on the arm or in the hand, with no back straps. -->
+- [x] C) built
+  <!-- feedback: Correct! A past participle with a by phrase reduces a passive relative clause. -->
+- [ ] A) building
+  <!-- feedback: The -ing form would make the bridge the agent of the building, which is not the case. -->
+- [ ] B) was built
+  <!-- feedback: A reduced clause has no auxiliary, because the main verb of the sentence already carries the tense. -->
+- [ ] D) that built
+  <!-- feedback: A reduced clause drops the relative pronoun, and the full form would be which was built. -->
 
 ### Explicacion Pedagogica
-The word 'backpack' is used to describe a bag with shoulder straps that allow it to be carried on one's back. This is an important vocabulary word in English.
+A reduced passive clause is a past participle plus an optional by phrase. It compresses a whole relative clause into a single phrase.
 ---
-## Question 16 [D8]
+## Question 16 [D3]
 **ID:** HN-ING-11-2026-W17-participle-clauses-001-MASTERY-bundle-v16
-**Bloom:** Analyze
-**EJE:** Lexico
+**Bloom:** Apply
+**EJE:** Grammatical Knowledge
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** A participle phrase in a future sentence.
 
 ### Enunciado
-What is the English word for: "In or to a foreign country, especially one across the sea."
+___ tomorrow morning, the new bus service will begin operating.
 
 ### Opciones
-- [x] B) overseas
-  <!-- feedback: Correct! 'Overseas' means in or to a foreign country, especially one across the sea. -->
-- [ ] A) domestic
-  <!-- feedback: 'Domestic' means inside your own country, the opposite of overseas. -->
-- [ ] C) local
-  <!-- feedback: 'Local' means in the area where you are, even more restricted than domestic; it never crosses a border. -->
-- [ ] D) national
-  <!-- feedback: 'National' refers to a whole country without saying it is foreign, so it does not imply going abroad. -->
+- [x] D) Starting
+  <!-- feedback: Correct! A present participle can be used with a future reference, and the two actions are simultaneous in the future. -->
+- [ ] A) Started
+  <!-- feedback: A past participle would suggest the start is already complete, and the service has not begun. -->
+- [ ] B) Having started
+  <!-- feedback: A perfect participle would place the start before the service begins, and the moment the question refers to has not arrived. -->
+- [ ] C) To start
+  <!-- feedback: An infinitive phrase cannot open a participle clause in this position. -->
 
 ### Explicacion Pedagogica
-The word 'overseas' is used to describe in or to a foreign country, especially one across the sea. This is an important vocabulary word in English.
+Participle phrases are not tied to the present tense. A present participle can describe an action that is simultaneous with a future main verb.
 ---
-## Question 17 [D9]
+## Question 17 [D4]
 **ID:** HN-ING-11-2026-W17-participle-clauses-001-MASTERY-bundle-v17
-**Bloom:** Evaluate
-**EJE:** Lexico
+**Bloom:** Apply
+**EJE:** Grammatical Knowledge
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** A participle phrase where the action is clearly earlier than the main verb.
 
 ### Enunciado
-What is the English word for: "An estimate of income and expenditure for a set period of time."
+___ from the airport, they went straight to the hotel.
 
 ### Opciones
-- [x] B) budget
-  <!-- feedback: Correct! A 'budget' is the estimate of income and expenditure planned for a set period. -->
-- [ ] A) expense
-  <!-- feedback: 'Expense' is a single cost already paid; the definition is the estimate for the whole period. -->
-- [ ] C) cost
-  <!-- feedback: 'Cost' is the price of one thing, whereas a budget covers all income and all spending. -->
-- [ ] D) price
-  <!-- feedback: 'Price' is the amount a single item costs, not a plan of income and expenditure over time. -->
+- [x] A) Arriving
+  <!-- feedback: Correct! The present participle works here because both actions belong to the same moment of the story. -->
+- [ ] B) Having arrived
+  <!-- feedback: A perfect participle would emphasise the order strictly, and here the two actions are reported together. -->
+- [ ] C) Arrived
+  <!-- feedback: A bare past participle would be a reduced passive clause, and they are the ones arriving rather than being arrived. -->
+- [ ] D) To arrive
+  <!-- feedback: An infinitive cannot open a participle clause. -->
 
 ### Explicacion Pedagogica
-The word 'budget' is used to describe an estimate of income and expenditure for a set period of time. This is an important vocabulary word in English.
+Arriving and having arriving are both possible, and the choice depends on how strictly the order is being emphasised. With a short clause like this, the present participle reads more naturally.
 ---
-## Question 18 [D10]
+## Question 18 [D3]
 **ID:** HN-ING-11-2026-W17-participle-clauses-001-MASTERY-bundle-v18
-**Bloom:** Evaluate
-**EJE:** Lexico
+**Bloom:** Apply
+**EJE:** Grammatical Knowledge
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** A participle phrase in a negative sentence.
 
 ### Enunciado
-What is the English word for: "A practice or arrangement by which a company or government agency provides a guarantee of compensation for specified loss, damage, illness, or death in return for payment of a premium."
+Not ___ the tickets in advance, they had to queue for hours.
 
 ### Opciones
-- [x] B) insurance
-  <!-- feedback: Correct! 'Insurance' is the arrangement by which an insurer promises compensation for loss, damage, illness or death in exchange for a premium. -->
-- [ ] A) warranty
-  <!-- feedback: 'Warranty' covers a product against defects for a limited period and is free of charge, not a premium-based contract. -->
-- [ ] C) guarantee
-  <!-- feedback: 'Guarantee' is the promise itself; 'insurance' is the whole contract arranged with an insurer for a premium. -->
-- [ ] D) policy
-  <!-- feedback: 'Policy' is the document that proves the insurance contract; the arrangement itself is the insurance. -->
+- [x] B) having bought
+  <!-- feedback: Correct! Not plus having plus a past participle gives a negative perfect participle phrase. -->
+- [ ] A) buy
+  <!-- feedback: A base form cannot follow not in a participle phrase. -->
+- [ ] C) bought
+  <!-- feedback: A past participle after not would need having in front of it to form a perfect participle. -->
+- [ ] D) to buy
+  <!-- feedback: An infinitive has no place in a negative participle phrase. -->
 
 ### Explicacion Pedagogica
-The word 'insurance' is used to describe a practice or arrangement by which a company or government agency provides a guarantee of compensation for specified loss, damage, illness, or death in return for payment of a premium. This is an important vocabulary word in English.
+A negative participle phrase is formed by putting not in front of the whole phrase. Not having bought and not buying are both available, with different shades of meaning.
 ---
-## Question 19 [D9]
+## Question 19 [D3]
 **ID:** HN-ING-11-2026-W17-participle-clauses-001-MASTERY-bundle-v19
-**Bloom:** Evaluate
-**EJE:** Lexico
+**Bloom:** Apply
+**EJE:** Grammatical Knowledge
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** A participle phrase in a question.
 
 ### Enunciado
-What is the English word for: "Treatment with a vaccine to produce immunity against a disease."
+___ the results, will the team travel to the final?
 
 ### Opciones
-- [x] A) vaccination
-  <!-- feedback: Correct! A 'vaccination' is the application of a vaccine that makes the body produce immunity against a disease. -->
-- [ ] B) medication
-  <!-- feedback: 'Medication' is a medicine you take to treat an illness, not the vaccine that prevents one. -->
-- [ ] C) prescription
-  <!-- feedback: 'Prescription' is the written order a doctor gives for a medicine, not the vaccine itself. -->
-- [ ] D) infection
-  <!-- feedback: 'Infection' is the state of having the disease; vaccination is what protects you before you get it. -->
+- [x] C) Having seen
+  <!-- feedback: Correct! A perfect participle phrase can open a question and shows the results were examined first. -->
+- [ ] A) Having saw
+  <!-- feedback: See is irregular and its past participle is seen, not saw. -->
+- [ ] B) Seeing
+  <!-- feedback: A present participle would place the two actions at the same moment, and the results come first. -->
+- [ ] D) Seen
+  <!-- feedback: A bare past participle would be a reduced passive clause, and the team is the one seeing the results. -->
 
 ### Explicacion Pedagogica
-The word 'vaccination' is used to describe treatment with a vaccine to produce immunity against a disease. This is an important vocabulary word in English.
+Participle phrases are not restricted to declarative sentences. They can open questions as well, and the -ing or having choice follows the same order rule.
 ---
-## Question 20 [D10]
+## Question 20 [D4]
 **ID:** HN-ING-11-2026-W17-participle-clauses-001-MASTERY-bundle-v20
-**Bloom:** Evaluate
-**EJE:** Lexico
+**Bloom:** Apply
+**EJE:** Grammatical Knowledge
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** A participle phrase in a sentence with a past perfect.
 
 ### Enunciado
-What is the English word for: "Extreme tiredness and other physical effects felt by a person after a long flight across several time zones."
+___ the deadline, she submitted the work just in time.
 
 ### Opciones
-- [x] C) jet lag
-  <!-- feedback: Correct! 'Jet lag' is the tiredness and disturbed body clock you feel after a flight across several time zones. -->
-- [ ] A) fatigue
-  <!-- feedback: 'Fatigue' is tiredness after effort or a long day, not specifically caused by crossing time zones. -->
-- [ ] B) exhaustion
-  <!-- feedback: 'Exhaustion' is extreme tiredness from overwork or lack of sleep, which is not the same as the time zone effect. -->
-- [ ] D) insomnia
-  <!-- feedback: 'Insomnia' is the inability to sleep, whereas jet lag comes with tiredness during the day and a shifted body clock. -->
+- [x] D) Meeting
+  <!-- feedback: Correct! A present participle phrase can accompany a past perfect main clause without any conflict of tense. -->
+- [ ] A) Met
+  <!-- feedback: A past participle after a past perfect would describe her as being met, and she is the one meeting the deadline. -->
+- [ ] B) Having met
+  <!-- feedback: A perfect participle would add a third layer of past reference, and the sentence does not need it. -->
+- [ ] C) To meet
+  <!-- feedback: An infinitive cannot open a participle clause. -->
 
 ### Explicacion Pedagogica
-The word 'jet lag' is used to describe extreme tiredness and other physical effects felt by a person after a long flight across several time zones. This is an important vocabulary word in English.
+A participle phrase is independent of the main clause tense. A present participle can sit in front of a past perfect just as easily as in front of a present simple.

@@ -24,459 +24,460 @@ bundle_index: 1
 ## Question 1 [D3]
 **ID:** ES-ING-11-2026-W16-prepositions-time-place-001-MASTERY-bundle-v1
 **Bloom:** Remember
-**EJE:** Lexico
+**EJE:** Morfosintaxis
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Maria is planning her exam calendar for the spring term in Valencia.
 
 ### Enunciado
-What is the English word for: "A place where you live or stay on holiday."
+Complete the sentence: My birthday is ... March.
 
 ### Opciones
-- [x] B) accommodation
-  <!-- feedback: Correct! 'Accommodation' is the word for a place where you live or stay when you are on holiday. -->
-- [ ] A) transportation
-  <!-- feedback: 'Transportation' is the way you move from one place to another (buses, trains, planes), not the place where you sleep. -->
-- [ ] C) entertainment
-  <!-- feedback: 'Entertainment' is the fun or activities you enjoy, not the building or room where you stay. -->
-- [ ] D) currency
-  <!-- feedback: 'Currency' is the money of a country, which has nothing to do with where you sleep. -->
+- [x] A) in
+  <!-- feedback: In is correct because English uses in with months, seasons and years, so in March names the month of the birthday. -->
+- [ ] B) on
+  <!-- feedback: On is wrong here because on is reserved for days and full dates, like on Monday or on 5 May. -->
+- [ ] C) at
+  <!-- feedback: At is wrong because at works with clock times and fixed points, such as at noon, not with whole months. -->
+- [ ] D) by
+  <!-- feedback: By is wrong because by expresses a deadline, meaning not later than a moment, and the sentence needs the month itself. -->
 
 ### Explicacion Pedagogica
-The word 'accommodation' is used to describe a place where you live or stay on holiday. This is an important vocabulary word in English.
+Months always take the preposition in. English also uses in with years and seasons, while on goes with days and at with clock times.
 ---
-## Question 2 [D4]
+## Question 2 [D3]
 **ID:** ES-ING-11-2026-W16-prepositions-time-place-001-MASTERY-bundle-v2
 **Bloom:** Remember
-**EJE:** Lexico
+**EJE:** Morfosintaxis
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** The exchange students from Seville settle into their new school timetable.
 
 ### Enunciado
-What is the English word for: "A detailed plan or route of a journey."
+Complete the sentence: The English exam is ... Monday.
 
 ### Opciones
-- [x] A) itinerary
-  <!-- feedback: Correct! An 'itinerary' is a detailed plan of a journey, listing the places and times along the route. -->
-- [ ] B) baggage
-  <!-- feedback: 'Baggage' is the suitcases and bags you travel with, not the written plan of the trip. -->
-- [ ] C) destination
-  <!-- feedback: 'Destination' is the place you are going to, a single place, while an itinerary is the whole route plan. -->
-- [ ] D) passport
-  <!-- feedback: 'Passport' is the travel document that lets you cross a border, not the schedule of your trip. -->
+- [ ] A) in
+  <!-- feedback: In is wrong because in covers months, years and seasons, never a named day of the week. -->
+- [x] B) on
+  <!-- feedback: On is correct because days of the week and dates take on, and Monday morning is still a day expression. -->
+- [ ] C) at
+  <!-- feedback: At is wrong because at points to exact clock times like at eight, so it cannot introduce a weekday. -->
+- [ ] D) since
+  <!-- feedback: Since is wrong because since marks a starting point in the past, as in since 2020, not a future day. -->
 
 ### Explicacion Pedagogica
-The word 'itinerary' is used to describe a detailed plan or route of a journey. This is an important vocabulary word in English.
+We say on Monday, on Friday morning and on 3 May. In would fit a month or a year, and at fits a clock time.
 ---
 ## Question 3 [D3]
 **ID:** ES-ING-11-2026-W16-prepositions-time-place-001-MASTERY-bundle-v3
-**Bloom:** Understand
-**EJE:** Lexico
+**Bloom:** Remember
+**EJE:** Morfosintaxis
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** The school day in Madrid starts earlier than many visitors expect.
 
 ### Enunciado
-What is the English word for: "The place to which someone or something is going or being sent."
+Complete the sentence: Classes begin ... half past eight.
 
 ### Opciones
-- [x] C) destination
-  <!-- feedback: Correct! A 'destination' is the place someone or something is going or being sent to. -->
-- [ ] A) departure
-  <!-- feedback: 'Departure' is the action of leaving, the opposite end of the journey from the destination. -->
-- [ ] B) arrival
-  <!-- feedback: 'Arrival' is the act of getting there; the place you arrive at is the destination. -->
-- [ ] D) journey
-  <!-- feedback: 'Journey' is the whole trip from start to finish, not the place you are heading to. -->
+- [ ] A) on
+  <!-- feedback: On is wrong because on goes with days and dates, and half past eight is a time of day, not a date. -->
+- [ ] B) in
+  <!-- feedback: In is wrong because in suits longer periods such as months or the morning, not one exact clock reading. -->
+- [x] C) at
+  <!-- feedback: At is correct because exact clock times always take at, so at half past eight is the natural form. -->
+- [ ] D) for
+  <!-- feedback: For is wrong because for measures duration, as in for two hours, and cannot place a single moment. -->
 
 ### Explicacion Pedagogica
-The word 'destination' is used to describe the place to which someone or something is going or being sent. This is an important vocabulary word in English.
+Clock times take at: at three, at noon, at half past eight. Days take on and longer periods take in.
 ---
-## Question 4 [D4]
+## Question 4 [D3]
 **ID:** ES-ING-11-2026-W16-prepositions-time-place-001-MASTERY-bundle-v4
 **Bloom:** Understand
-**EJE:** Lexico
+**EJE:** Morfosintaxis
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** A bilingual school in Zaragoza celebrates the anniversary of its debate contest.
 
 ### Enunciado
-What is the English word for: "Suitcases or other bags in which to pack personal belongings for traveling."
+Complete the sentence: The first contest took place ... 2021.
 
 ### Opciones
-- [x] A) luggage
-  <!-- feedback: Correct! 'Luggage' means suitcases and bags in which you pack your belongings for a trip. -->
-- [ ] B) ticket
-  <!-- feedback: 'Ticket' is the paper that gives you the right to travel on a bus, train or plane, not the bag itself. -->
-- [ ] C) flight
-  <!-- feedback: 'Flight' is the journey by plane, or the plane itself; the bags are called luggage. -->
-- [ ] D) reservation
-  <!-- feedback: 'Reservation' is the booking you make for a seat or a room, not the bags you pack. -->
+- [ ] A) on
+  <!-- feedback: On is wrong because on needs a day or a full date, and a year on its own never takes it. -->
+- [ ] B) at
+  <!-- feedback: At is wrong because at attaches to clock times and points like at Christmas, not to a whole year. -->
+- [ ] C) from
+  <!-- feedback: From is wrong because from states a starting point and needs its partner to, as in from 2021 to 2025. -->
+- [x] D) in
+  <!-- feedback: In is correct because bare years take in, so in 2021 is the standard way to place an event in a year. -->
 
 ### Explicacion Pedagogica
-The word 'luggage' is used to describe suitcases or other bags in which to pack personal belongings for traveling. This is an important vocabulary word in English.
+Years, months and seasons form the group that takes in. On needs a day, and at needs a clock time or point.
 ---
-## Question 5 [D5]
+## Question 5 [D4]
 **ID:** ES-ING-11-2026-W16-prepositions-time-place-001-MASTERY-bundle-v5
-**Bloom:** Understand
-**EJE:** Lexico
+**Bloom:** Apply
+**EJE:** Morfosintaxis
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** A student copies the exam timetable from the noticeboard for her classmates.
 
 ### Enunciado
-What is the English word for: "A traveler on a public or private conveyance other than the driver, pilot, or crew."
+Complete the sentence: The final exam is ... 12 June.
 
 ### Opciones
-- [x] C) passenger
-  <!-- feedback: Correct! A 'passenger' is a person who travels on a vehicle without being the driver, pilot or crew. -->
-- [ ] A) pedestrian
-  <!-- feedback: 'Pedestrian' is someone who travels on foot, so they are not on a conveyance at all. -->
-- [ ] B) commuter
-  <!-- feedback: 'Commuter' is someone who travels regularly between home and work; the definition here is any traveller on board, not only that daily case. -->
-- [ ] D) tourist
-  <!-- feedback: 'Tourist' is someone visiting for pleasure or sightseeing, but the definition covers every traveller on board, including commuters and residents. -->
+- [x] A) on
+  <!-- feedback: On is correct because a full date with a day number always takes on, so on 12 June is right. -->
+- [ ] B) in
+  <!-- feedback: In is wrong because in fits the month alone, as in in June, but the sentence names one exact day. -->
+- [ ] C) at
+  <!-- feedback: At is wrong because at belongs to clock times, and 12 June is a calendar date, not a time. -->
+- [ ] D) during
+  <!-- feedback: During is wrong because during means inside a period, as in during June, without fixing one day. -->
 
 ### Explicacion Pedagogica
-The word 'passenger' is used to describe a traveler on a public or private conveyance other than the driver, pilot, or crew. This is an important vocabulary word in English.
+Specific dates take on: on 12 June, on 1 May. The preposition in appears only with the month or year alone.
 ---
-## Question 6 [D6]
+## Question 6 [D4]
 **ID:** ES-ING-11-2026-W16-prepositions-time-place-001-MASTERY-bundle-v6
-**Bloom:** Understand
-**EJE:** Lexico
+**Bloom:** Apply
+**EJE:** Morfosintaxis
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Two friends agree where to meet before the library opens.
 
 ### Enunciado
-What is the English word for: "The place at a port, airport, or frontier where officials check incoming goods, travelers, or luggage."
+Complete the sentence: I will wait for you ... the bus stop.
 
 ### Opciones
-- [x] A) customs
-  <!-- feedback: Correct! 'Customs' is the office at a port, airport or border where officials check goods, travellers and luggage. -->
-- [ ] B) security
-  <!-- feedback: 'Security' is the staff who control safety and boarding inside the airport; it does not check the goods you bring in. -->
-- [ ] C) terminal
-  <!-- feedback: 'Terminal' is the whole building where passengers wait, eat and catch their flights. -->
-- [ ] D) gate
-  <!-- feedback: 'Gate' is the particular door you board through, not the place where officials inspect your luggage. -->
+- [ ] A) in
+  <!-- feedback: In is wrong because in would mean inside a larger space, like in the station, and a bus stop is a point. -->
+- [x] B) at
+  <!-- feedback: At is correct because at marks an exact meeting point, and a bus stop is precisely that kind of place. -->
+- [ ] C) on
+  <!-- feedback: On is wrong because on needs a surface or a line, as in on the corner, and the stop itself is a point. -->
+- [ ] D) to
+  <!-- feedback: To is wrong because to shows direction of movement, as in go to, but nobody is moving in this sentence. -->
 
 ### Explicacion Pedagogica
-The word 'customs' is used to describe the place at a port, airport, or frontier where officials check incoming goods, travelers, or luggage. This is an important vocabulary word in English.
+Use at for a specific point: at the bus stop, at the door, at the crossroads. In suggests inside a space.
 ---
-## Question 7 [D5]
+## Question 7 [D4]
 **ID:** ES-ING-11-2026-W16-prepositions-time-place-001-MASTERY-bundle-v7
 **Bloom:** Apply
-**EJE:** Lexico
+**EJE:** Morfosintaxis
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** The class visits the science museum in Bilbao on a rainy morning.
 
 ### Enunciado
-What is the English word for: "A document provided by an airline during check-in, giving a passenger permission to board the airplane."
+Complete the sentence: The dinosaur skeletons are ... the main hall.
 
 ### Opciones
-- [x] A) boarding pass
-  <!-- feedback: Correct! The 'boarding pass' is the document the airline gives you at check-in that authorises you to board. -->
-- [ ] B) visa
-  <!-- feedback: 'Visa' is the official permission to enter and stay in a country, requested before the trip, not the document that lets you board a plane. -->
-- [ ] C) receipt
-  <!-- feedback: 'Receipt' is the proof of payment for a purchase, not the travel document for boarding. -->
-- [ ] D) brochure
-  <!-- feedback: 'Brochure' is a small booklet of tourist information, not the document that lets you board. -->
+- [ ] A) at
+  <!-- feedback: At is wrong because at treats the hall as a bare location point and loses the inside meaning. -->
+- [ ] B) on
+  <!-- feedback: On is wrong because on demands contact with a surface, like on the floor, and this is about the room. -->
+- [x] C) in
+  <!-- feedback: In is correct because the skeletons stand inside the hall, and in expresses that enclosed position. -->
+- [ ] D) over
+  <!-- feedback: Over is wrong because over means above without touching, as in over the table, not inside a space. -->
 
 ### Explicacion Pedagogica
-The word 'boarding pass' is used to describe a document provided by an airline during check-in, giving a passenger permission to board the airplane. This is an important vocabulary word in English.
+Enclosed spaces take in: in the hall, in the box, in the room. At only points to the place as a dot on a map.
 ---
-## Question 8 [D6]
+## Question 8 [D4]
 **ID:** ES-ING-11-2026-W16-prepositions-time-place-001-MASTERY-bundle-v8
 **Bloom:** Apply
-**EJE:** Lexico
+**EJE:** Morfosintaxis
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** A tidy student keeps her study notes where she can see them at home.
 
 ### Enunciado
-What is the English word for: "The activity of visiting places of interest in a particular location."
+Complete the sentence: Your notebook is ... the desk.
 
 ### Opciones
-- [x] C) sightseeing
-  <!-- feedback: Correct! 'Sightseeing' is the activity of visiting the places of interest in a location. -->
-- [ ] A) shopping
-  <!-- feedback: 'Shopping' is buying things in stores, which is not the same as visiting the sights of a place. -->
-- [ ] B) hiking
-  <!-- feedback: 'Hiking' is walking in the countryside on trails, not the general activity of visiting a location's attractions. -->
-- [ ] D) camping
-  <!-- feedback: 'Camping' is staying outdoors in a tent, not visiting the sights of a location. -->
+- [ ] A) in
+  <!-- feedback: In is wrong because in means inside something, like in the drawer, and that is a different place. -->
+- [ ] B) at
+  <!-- feedback: At is wrong because at gives a general location, as in at the desk, without the contact with the surface. -->
+- [ ] C) under
+  <!-- feedback: Under is wrong because under means directly below, so the notebook would be hidden from sight. -->
+- [x] D) on
+  <!-- feedback: On is correct because the notebook rests in contact with the surface of the desk, which is what on means. -->
 
 ### Explicacion Pedagogica
-The word 'sightseeing' is used to describe the activity of visiting places of interest in a particular location. This is an important vocabulary word in English.
+Surfaces take on: on the desk, on the wall, on the shelf. In means inside, and under means below something.
 ---
-## Question 9 [D5]
+## Question 9 [D4]
 **ID:** ES-ING-11-2026-W16-prepositions-time-place-001-MASTERY-bundle-v9
 **Bloom:** Apply
-**EJE:** Lexico
+**EJE:** Morfosintaxis
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** A weekend plan described to a friend who asks for the exact hour.
 
 ### Enunciado
-What is the English word for: "A thing that is kept as a reminder of a person, place, or event."
+Complete the sentence: The train leaves ... 7.45 in the morning.
 
 ### Opciones
-- [x] B) souvenir
-  <!-- feedback: Correct! A 'souvenir' is the object you keep afterwards as a reminder of a person, place or event you visited. -->
-- [ ] A) gift
-  <!-- feedback: 'Gift' is something you give to another person; a souvenir is kept by the person who took the trip. -->
-- [ ] C) award
-  <!-- feedback: 'Award' is a prize given for an achievement, not an object bought or kept as a memory. -->
-- [ ] D) prize
-  <!-- feedback: 'Prize' is the reward you win in a competition, so it comes from winning rather than from a journey. -->
+- [x] A) at
+  <!-- feedback: At is correct because at introduces a precise clock time, and 7.45 is an exact hour. -->
+- [ ] B) in
+  <!-- feedback: In is wrong because in belongs to parts of the day such as in the morning, not to a number. -->
+- [ ] C) on
+  <!-- feedback: On is wrong because on marks days and dates, as in on Monday, and no day appears here. -->
+- [ ] D) by
+  <!-- feedback: By is wrong because by means no later than, which states a deadline instead of a departure time. -->
 
 ### Explicacion Pedagogica
-The word 'souvenir' is used to describe a thing that is kept as a reminder of a person, place, or event. This is an important vocabulary word in English.
+Clock times always take at: at 7.45, at midnight. Use in with parts of the day and on with days and dates.
 ---
-## Question 10 [D6]
+## Question 10 [D4]
 **ID:** ES-ING-11-2026-W16-prepositions-time-place-001-MASTERY-bundle-v10
 **Bloom:** Apply
-**EJE:** Lexico
+**EJE:** Morfosintaxis
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** A student describing a holiday that began in the past and is still going on.
 
 ### Enunciado
-What is the English word for: "A period of time by which something is late or postponed."
+Complete the sentence: They have been in Seville ... August.
 
 ### Opciones
-- [x] C) delay
-  <!-- feedback: Correct! A 'delay' is the extra time by which something ends up late or gets postponed. -->
-- [ ] A) cancellation
-  <!-- feedback: 'Cancellation' means the event does not happen at all, not that it happens later than planned. -->
-- [ ] B) departure
-  <!-- feedback: 'Departure' is the scheduled time or the act of leaving; the definition is about the extra time lost. -->
-- [ ] D) arrival
-  <!-- feedback: 'Arrival' is getting there, the opposite moment. Here we want the time lost, not the time you reach the destination. -->
+- [ ] A) for
+  <!-- feedback: For is wrong because for measures the length of the stay, and the sentence names the starting month. -->
+- [x] B) since
+  <!-- feedback: Since is correct because since names the starting point of a period that continues now. -->
+- [ ] C) during
+  <!-- feedback: During is wrong because during introduces a finished interval, while the stay has not ended. -->
+- [ ] D) at
+  <!-- feedback: At is wrong because at marks points and clock times, never the beginning of a lasting situation. -->
 
 ### Explicacion Pedagogica
-The word 'delay' is used to describe a period of time by which something is late or postponed. This is an important vocabulary word in English.
+Since names the origin of an unfinished period, so they have been in Seville since August. For would give the duration instead.
 ---
-## Question 11 [D7]
+## Question 11 [D3]
 **ID:** ES-ING-11-2026-W16-prepositions-time-place-001-MASTERY-bundle-v11
-**Bloom:** Apply
-**EJE:** Lexico
+**Bloom:** Understand
+**EJE:** Morfosintaxis
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** A map exercise about where a famous museum stands in relation to a park.
 
 ### Enunciado
-What is the English word for: "The act of reporting one's presence and registering, typically at an airport or hotel."
+Complete the sentence: The Prado museum is ... the Retiro park.
 
 ### Opciones
-- [x] C) check-in
-  <!-- feedback: Correct! 'Check-in' is the act of reporting your arrival and registering at the airport or hotel counter. -->
-- [ ] A) check-out
-  <!-- feedback: 'Check-out' is the opposite moment, when you leave the hotel or hand back the room. -->
-- [ ] B) booking
-  <!-- feedback: 'Booking' is the reservation you made earlier; the act of registering your presence on arrival is check-in. -->
-- [ ] D) reservation
-  <!-- feedback: 'Reservation' is the booking document, not the act of reporting your presence at the desk. -->
+- [ ] A) between
+  <!-- feedback: Between needs three referents, as in between A and B, so it needs another landmark in this sentence. -->
+- [ ] B) above
+  <!-- feedback: Above describes a vertical position and says nothing about being close on the same level. -->
+- [x] C) next to
+  <!-- feedback: Next to is correct because next to expresses adjacency between two neighbouring places. -->
+- [ ] D) during
+  <!-- feedback: During belongs to time and cannot describe the position of a building on a map. -->
 
 ### Explicacion Pedagogica
-The word 'check-in' is used to describe the act of reporting one's presence and registering, typically at an airport or hotel. This is an important vocabulary word in English.
+Next to states that two places touch. Between always requires two names around the preposition, so it does not fit here.
 ---
-## Question 12 [D8]
+## Question 12 [D4]
 **ID:** ES-ING-11-2026-W16-prepositions-time-place-001-MASTERY-bundle-v12
-**Bloom:** Apply
-**EJE:** Lexico
+**Bloom:** Evaluate
+**EJE:** Morfosintaxis
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** A sentence to be repaired because the preposition does not fit the meaning.
 
 ### Enunciado
-What is the English word for: "A period of rest or waiting before a further stage in a journey."
+Choose the sentence where every preposition is correct.
 
 ### Opciones
-- [x] C) layover
-  <!-- feedback: Correct! A 'layover' is a period of rest or waiting between two stages of a journey. -->
-- [ ] A) stopover
-  <!-- feedback: 'Stopover' usually means a deliberate visit in the middle of a trip, not just the wait between flights. -->
-- [ ] B) transfer
-  <!-- feedback: 'Transfer' is the change of vehicle itself, the movement; the definition is about the time of waiting. -->
-- [ ] D) transit
-  <!-- feedback: 'Transit' is a system of moving people and goods through a city, not a break between two flights. -->
+- [ ] A) The shop opens in nine and closes on seven in the evening.
+  <!-- feedback: In does not combine with a number such as nine when naming an opening hour. -->
+- [ ] B) The shop opens on nine and closes at seven in the evening.
+  <!-- feedback: On marks days and dates, so it cannot introduce the hour at which the shop opens. -->
+- [ ] C) The shop opens on nine and closes on seven in the evening.
+  <!-- feedback: Using on for both hours gives the sentence two prepositions that belong to a different category. -->
+- [x] D) The shop opens at nine and closes at seven in the evening.
+  <!-- feedback: Both times take at, which is the preposition English reserves for clock times. -->
 
 ### Explicacion Pedagogica
-The word 'layover' is used to describe a period of rest or waiting before a further stage in a journey. This is an important vocabulary word in English.
+The hour of opening and closing is a clock time in both halves of the sentence, and clock times always take at.
 ---
-## Question 13 [D7]
+## Question 13 [D4]
 **ID:** ES-ING-11-2026-W16-prepositions-time-place-001-MASTERY-bundle-v13
-**Bloom:** Analyze
-**EJE:** Lexico
+**Bloom:** Apply
+**EJE:** Morfosintaxis
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** A child asking a teacher for permission during a school trip.
 
 ### Enunciado
-What is the English word for: "A system of money in general use in a particular country."
+Complete the sentence: She put her coat ... the empty chair beside her.
 
 ### Opciones
-- [x] B) currency
-  <!-- feedback: Correct! 'Currency' is the money system in general use in a particular country. -->
-- [ ] A) coin
-  <!-- feedback: 'Coin' is a single metal piece of money, one item within the currency, not the whole system. -->
-- [ ] C) banknote
-  <!-- feedback: 'Banknote' is a paper bill, one item of the currency rather than the system of money itself. -->
-- [ ] D) cash
-  <!-- feedback: 'Cash' means money in the physical form you hold, not the money system of a country. -->
+- [x] A) on
+  <!-- feedback: On is correct because the coat rests on a surface, and the chair seat provides that surface. -->
+- [ ] B) in
+  <!-- feedback: In needs a container or an enclosed space, and a chair is neither of them. -->
+- [ ] C) at
+  <!-- feedback: At would give a general location without the contact that a coat on a chair implies. -->
+- [ ] D) between
+  <!-- feedback: Between needs two objects with the preposition in the middle, and only one object is named here. -->
 
 ### Explicacion Pedagogica
-The word 'currency' is used to describe a system of money in general use in a particular country. This is an important vocabulary word in English.
+Clothes placed on furniture take on: on the chair, on the bed, on the sofa. In would require a bag or a wardrobe.
 ---
-## Question 14 [D8]
+## Question 14 [D3]
 **ID:** ES-ING-11-2026-W16-prepositions-time-place-001-MASTERY-bundle-v14
-**Bloom:** Analyze
-**EJE:** Lexico
+**Bloom:** Understand
+**EJE:** Morfosintaxis
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** A teenager talking about an event that happens once every year.
 
 ### Enunciado
-What is the English word for: "A book of information about a place designed for the use of visitors or tourists."
+Complete the sentence: The school trip to the science museum takes place ... May.
 
 ### Opciones
-- [x] D) guidebook
-  <!-- feedback: Correct! A 'guidebook' is a book of information about a place written for visitors and tourists. -->
-- [ ] A) map
-  <!-- feedback: 'Map' is a single sheet or screen showing the layout of a place, not a book of information. -->
-- [ ] B) dictionary
-  <!-- feedback: 'Dictionary' is a book of word definitions of a language, not information about a place for visitors. -->
-- [ ] C) encyclopedia
-  <!-- feedback: 'Encyclopedia' is a general reference work with entries on every topic, not a guide written for tourists about one place. -->
+- [ ] A) at
+  <!-- feedback: At belongs to points and clock times and cannot introduce a month. -->
+- [x] B) in
+  <!-- feedback: In is correct because in introduces a month, and May appears without a day number. -->
+- [ ] C) on
+  <!-- feedback: On would need a full date, as in on 5 May, but no day is given in the sentence. -->
+- [ ] D) to
+  <!-- feedback: To indicates direction or a recipient and does not place an event inside a month. -->
 
 ### Explicacion Pedagogica
-The word 'guidebook' is used to describe a book of information about a place designed for the use of visitors or tourists. This is an important vocabulary word in English.
+A month on its own takes in: in May, in winter. On appears only when a specific day is attached, as in on 5 May.
 ---
-## Question 15 [D7]
+## Question 15 [D4]
 **ID:** ES-ING-11-2026-W16-prepositions-time-place-001-MASTERY-bundle-v15
-**Bloom:** Analyze
-**EJE:** Lexico
+**Bloom:** Apply
+**EJE:** Morfosintaxis
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** A worker describing where the keys ended up in an unfamiliar flat.
 
 ### Enunciado
-What is the English word for: "A bag with shoulder straps that allow it to be carried on one's back."
+Complete the sentence: I left the keys ... the small table near the door.
 
 ### Opciones
-- [x] C) backpack
-  <!-- feedback: Correct! A 'backpack' is the bag with shoulder straps that you carry on your back. -->
-- [ ] A) suitcase
-  <!-- feedback: 'Suitcase' is a case with a handle that you pull along, not a bag worn on the back. -->
-- [ ] B) briefcase
-  <!-- feedback: 'Briefcase' is a case for documents and a laptop, carried in the hand for work. -->
-- [ ] D) handbag
-  <!-- feedback: 'Handbag' is a bag for personal items carried on the arm or in the hand, with no back straps. -->
+- [ ] A) in
+  <!-- feedback: In needs a container, and a bare table holds nothing inside it. -->
+- [ ] B) under
+  <!-- feedback: Under would mean below the table, which is a different position and would be visible only later. -->
+- [x] C) on
+  <!-- feedback: On is correct because leaving an object on a table means resting it on the surface of the table. -->
+- [ ] D) during
+  <!-- feedback: During belongs to time and cannot answer where an object was placed. -->
 
 ### Explicacion Pedagogica
-The word 'backpack' is used to describe a bag with shoulder straps that allow it to be carried on one's back. This is an important vocabulary word in English.
+Leaving a small object on a piece of furniture uses on, because the contact with the surface is what matters: on the table.
 ---
-## Question 16 [D8]
+## Question 16 [D4]
 **ID:** ES-ING-11-2026-W16-prepositions-time-place-001-MASTERY-bundle-v16
 **Bloom:** Analyze
-**EJE:** Lexico
+**EJE:** Morfosintaxis
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** A short report about a neighbourhood and its landmarks.
 
 ### Enunciado
-What is the English word for: "In or to a foreign country, especially one across the sea."
+Choose the sentence with the correct preposition in every gap.
 
 ### Opciones
-- [x] C) overseas
-  <!-- feedback: Correct! 'Overseas' means in or to a foreign country, especially one across the sea. -->
-- [ ] A) domestic
-  <!-- feedback: 'Domestic' means inside your own country, the opposite of overseas. -->
-- [ ] B) local
-  <!-- feedback: 'Local' means in the area where you are, even more restricted than domestic; it never crosses a border. -->
-- [ ] D) national
-  <!-- feedback: 'National' refers to a whole country without saying it is foreign, so it does not imply going abroad. -->
+- [ ] A) We arrived on Toledo and stayed in Friday near the cathedral.
+  <!-- feedback: On cannot introduce a city name, and in cannot introduce a weekday. -->
+- [ ] B) We arrived at Toledo and stayed on a hotel near the cathedral.
+  <!-- feedback: At can introduce a city for some speakers, but a hotel as an enclosed building takes in, not at. -->
+- [ ] C) We arrived in Toledo and stayed at Friday near the cathedral.
+  <!-- feedback: In Toledo is right, but a weekday never takes at in this pattern. -->
+- [x] D) We arrived in Toledo on Friday and stayed in a hotel near the cathedral.
+  <!-- feedback: In Toledo for the city, on Friday for the day and in a hotel for an enclosed building are all correct. -->
 
 ### Explicacion Pedagogica
-The word 'overseas' is used to describe in or to a foreign country, especially one across the sea. This is an important vocabulary word in English.
+Cities, hotels and countries take in, while days and dates take on. Each preposition in the correct option matches its own category.
 ---
-## Question 17 [D9]
+## Question 17 [D3]
 **ID:** ES-ING-11-2026-W16-prepositions-time-place-001-MASTERY-bundle-v17
-**Bloom:** Evaluate
-**EJE:** Lexico
+**Bloom:** Remember
+**EJE:** Morfosintaxis
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** A worker explaining where the toolbox belongs in a garage.
 
 ### Enunciado
-What is the English word for: "An estimate of income and expenditure for a set period of time."
+Complete the sentence: He keeps the toolbox ... the bottom shelf.
 
 ### Opciones
-- [x] D) budget
-  <!-- feedback: Correct! A 'budget' is the estimate of income and expenditure planned for a set period. -->
-- [ ] A) expense
-  <!-- feedback: 'Expense' is a single cost already paid; the definition is the estimate for the whole period. -->
-- [ ] B) cost
-  <!-- feedback: 'Cost' is the price of one thing, whereas a budget covers all income and all spending. -->
-- [ ] C) price
-  <!-- feedback: 'Price' is the amount a single item costs, not a plan of income and expenditure over time. -->
+- [x] A) on
+  <!-- feedback: On is correct because a shelf is a surface, and the toolbox rests on that surface. -->
+- [ ] B) at
+  <!-- feedback: At would give a vague location without the contact that a shelf provides. -->
+- [ ] C) during
+  <!-- feedback: During belongs to a period of time and has no meaning for a physical position. -->
+- [ ] D) to
+  <!-- feedback: To marks a destination of movement, while the sentence only states where the toolbox stays. -->
 
 ### Explicacion Pedagogica
-The word 'budget' is used to describe an estimate of income and expenditure for a set period of time. This is an important vocabulary word in English.
+Shelves are surfaces, so objects placed on them take on: on the bottom shelf, on the top of the cupboard.
 ---
-## Question 18 [D10]
+## Question 18 [D4]
 **ID:** ES-ING-11-2026-W16-prepositions-time-place-001-MASTERY-bundle-v18
-**Bloom:** Evaluate
-**EJE:** Lexico
+**Bloom:** Apply
+**EJE:** Morfosintaxis
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** A teenager apologising for arriving late to a formal appointment.
 
 ### Enunciado
-What is the English word for: "A practice or arrangement by which a company or government agency provides a guarantee of compensation for specified loss, damage, illness, or death in return for payment of a premium."
+Complete the sentence: The interview is ... 3 o'clock in the afternoon.
 
 ### Opciones
-- [x] A) insurance
-  <!-- feedback: Correct! 'Insurance' is the arrangement by which an insurer promises compensation for loss, damage, illness or death in exchange for a premium. -->
-- [ ] B) warranty
-  <!-- feedback: 'Warranty' covers a product against defects for a limited period and is free of charge, not a premium-based contract. -->
-- [ ] C) guarantee
-  <!-- feedback: 'Guarantee' is the promise itself; 'insurance' is the whole contract arranged with an insurer for a premium. -->
-- [ ] D) policy
-  <!-- feedback: 'Policy' is the document that proves the insurance contract; the arrangement itself is the insurance. -->
+- [ ] A) in
+  <!-- feedback: In appears with parts of the day such as in the afternoon, but 3 o'clock is a precise moment. -->
+- [x] B) at
+  <!-- feedback: At is correct because an exact hour on the clock is introduced by at. -->
+- [ ] C) on
+  <!-- feedback: On marks days and dates, and no day is named in the sentence. -->
+- [ ] D) for
+  <!-- feedback: For expresses duration, and the sentence states a moment rather than a length of time. -->
 
 ### Explicacion Pedagogica
-The word 'insurance' is used to describe a practice or arrangement by which a company or government agency provides a guarantee of compensation for specified loss, damage, illness, or death in return for payment of a premium. This is an important vocabulary word in English.
+A meeting fixed to an exact hour takes at: at 3 o'clock, at noon. The phrase in the afternoon names a period, not a point.
 ---
-## Question 19 [D9]
+## Question 19 [D3]
 **ID:** ES-ING-11-2026-W16-prepositions-time-place-001-MASTERY-bundle-v19
-**Bloom:** Evaluate
-**EJE:** Lexico
+**Bloom:** Understand
+**EJE:** Morfosintaxis
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** A librarian telling a student where the shelves of a section are.
 
 ### Enunciado
-What is the English word for: "Treatment with a vaccine to produce immunity against a disease."
+Complete the sentence: The history books are ... the first corridor, ... the tall shelf.
 
 ### Opciones
-- [x] A) vaccination
-  <!-- feedback: Correct! A 'vaccination' is the application of a vaccine that makes the body produce immunity against a disease. -->
-- [ ] B) medication
-  <!-- feedback: 'Medication' is a medicine you take to treat an illness, not the vaccine that prevents one. -->
-- [ ] C) prescription
-  <!-- feedback: 'Prescription' is the written order a doctor gives for a medicine, not the vaccine itself. -->
-- [ ] D) infection
-  <!-- feedback: 'Infection' is the state of having the disease; vaccination is what protects you before you get it. -->
+- [ ] A) in the middle of
+  <!-- feedback: In the middle of suggests the centre of the space, which the sentence does not state. -->
+- [ ] B) on top of
+  <!-- feedback: On top of needs a surface above something, and no such surface appears in the context. -->
+- [x] C) at the end of
+  <!-- feedback: At the end of the corridor is correct because the end of a corridor is a precise point. -->
+- [ ] D) out of
+  <!-- feedback: Out of expresses movement from a closed space, which is not what the librarian describes. -->
 
 ### Explicacion Pedagogica
-The word 'vaccination' is used to describe treatment with a vaccine to produce immunity against a disease. This is an important vocabulary word in English.
+At the end of marks the limit of a linear space such as a corridor, a queue or a page, and that is where the tall shelf stands.
 ---
-## Question 20 [D10]
+## Question 20 [D4]
 **ID:** ES-ING-11-2026-W16-prepositions-time-place-001-MASTERY-bundle-v20
 **Bloom:** Evaluate
-**EJE:** Lexico
+**EJE:** Morfosintaxis
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** A correction of a sentence whose prepositions are all wrong.
 
 ### Enunciado
-What is the English word for: "Extreme tiredness and other physical effects felt by a person after a long flight across several time zones."
+Choose the sentence where each time and place preposition is used correctly.
 
 ### Opciones
-- [x] C) jet lag
-  <!-- feedback: Correct! 'Jet lag' is the tiredness and disturbed body clock you feel after a flight across several time zones. -->
-- [ ] A) fatigue
-  <!-- feedback: 'Fatigue' is tiredness after effort or a long day, not specifically caused by crossing time zones. -->
-- [ ] B) exhaustion
-  <!-- feedback: 'Exhaustion' is extreme tiredness from overwork or lack of sleep, which is not the same as the time zone effect. -->
-- [ ] D) insomnia
-  <!-- feedback: 'Insomnia' is the inability to sleep, whereas jet lag comes with tiredness during the day and a shifted body clock. -->
+- [ ] A) We stayed in home during the storm and went out in Sunday morning.
+  <!-- feedback: Home is a building word that normally takes at, and Sunday morning takes on, not in. -->
+- [ ] B) We stayed during home the storm and went out on Sunday morning.
+  <!-- feedback: During cannot precede home, because home names a place rather than a period. -->
+- [ ] C) We stayed home during the storm and went out at Sunday morning.
+  <!-- feedback: At does not introduce a weekday in this pattern, so the last clause fails. -->
+- [x] D) We stayed at home during the storm and went out on Sunday morning.
+  <!-- feedback: At home and during the storm and on Sunday morning each match their own category perfectly. -->
 
 ### Explicacion Pedagogica
-The word 'jet lag' is used to describe extreme tiredness and other physical effects felt by a person after a long flight across several time zones. This is an important vocabulary word in English.
+Each preposition belongs to one category: at for points and home, during for a period, on for days. The correct option respects all three.
+---

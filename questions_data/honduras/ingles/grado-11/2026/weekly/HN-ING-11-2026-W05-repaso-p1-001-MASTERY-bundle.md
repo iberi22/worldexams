@@ -21,462 +21,462 @@ bundle_index: 1
 **20 preguntas | Ingles | Curriculo de Ingles**
 
 ---
-## Question 1 [D3]
+## Question 1 [D2]
 **ID:** HN-ING-11-2026-W05-repaso-p1-001-MASTERY-bundle-v1
-**Bloom:** Remember
-**EJE:** Lexico
+**Bloom:** Apply
+**EJE:** Grammatical Knowledge
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Choose the form that matches a daily routine with a third person subject.
 
 ### Enunciado
-What is the English word for: "A place where you live or stay on holiday."
+My father ___ coffee before he goes to work.
 
 ### Opciones
-- [x] D) accommodation
-  <!-- feedback: Correct! 'Accommodation' is the word for a place where you live or stay when you are on holiday. -->
-- [ ] A) transportation
-  <!-- feedback: 'Transportation' is the way you move from one place to another (buses, trains, planes), not the place where you sleep. -->
-- [ ] B) entertainment
-  <!-- feedback: 'Entertainment' is the fun or activities you enjoy, not the building or room where you stay. -->
-- [ ] C) currency
-  <!-- feedback: 'Currency' is the money of a country, which has nothing to do with where you sleep. -->
+- [x] A) drinks
+  <!-- feedback: Correct! A daily routine with a third person singular subject takes the present simple with -s. -->
+- [ ] B) is drinking
+  <!-- feedback: The present continuous describes an action happening now, not a repeated morning habit. -->
+- [ ] C) drink
+  <!-- feedback: The base form lacks the -s that the third person singular requires. -->
+- [ ] D) has drunk
+  <!-- feedback: The present perfect would link the drinking to the present moment, which a routine does not need. -->
 
 ### Explicacion Pedagogica
-The word 'accommodation' is used to describe a place where you live or stay on holiday. This is an important vocabulary word in English.
+The present simple covers habits and routines. The subject is third person singular, so the verb form must agree: drink becomes drinks.
 ---
-## Question 2 [D4]
+## Question 2 [D2]
 **ID:** HN-ING-11-2026-W05-repaso-p1-001-MASTERY-bundle-v2
-**Bloom:** Remember
-**EJE:** Lexico
+**Bloom:** Apply
+**EJE:** Grammatical Knowledge
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Complete the past simple of a regular verb.
 
 ### Enunciado
-What is the English word for: "A detailed plan or route of a journey."
+Last week the students ___ a short report about the local river.
 
 ### Opciones
-- [x] B) itinerary
-  <!-- feedback: Correct! An 'itinerary' is a detailed plan of a journey, listing the places and times along the route. -->
-- [ ] A) baggage
-  <!-- feedback: 'Baggage' is the suitcases and bags you travel with, not the written plan of the trip. -->
-- [ ] C) destination
-  <!-- feedback: 'Destination' is the place you are going to, a single place, while an itinerary is the whole route plan. -->
-- [ ] D) passport
-  <!-- feedback: 'Passport' is the travel document that lets you cross a border, not the schedule of your trip. -->
+- [x] B) wrote
+  <!-- feedback: Correct! Write is irregular, and its past simple is wrote. -->
+- [ ] A) writed
+  <!-- feedback: English does not add -ed to irregular verbs, and writed is not a form of write. -->
+- [ ] C) written
+  <!-- feedback: Written is the past participle, used after have or was, not the simple past on its own. -->
+- [ ] D) has wrote
+  <!-- feedback: A past simple cannot be built on the auxiliary has, and wrote is already a past form. -->
 
 ### Explicacion Pedagogica
-The word 'itinerary' is used to describe a detailed plan or route of a journey. This is an important vocabulary word in English.
+Regular verbs take -ed in the past simple, but write is irregular. Its three forms are write, wrote, written, and only wrote serves as the simple past.
 ---
 ## Question 3 [D3]
 **ID:** HN-ING-11-2026-W05-repaso-p1-001-MASTERY-bundle-v3
-**Bloom:** Understand
-**EJE:** Lexico
+**Bloom:** Apply
+**EJE:** Grammatical Knowledge
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** The action started in the past and is still not finished.
 
 ### Enunciado
-What is the English word for: "The place to which someone or something is going or being sent."
+They ___ on the project since March and there is still a lot to do.
 
 ### Opciones
-- [x] B) destination
-  <!-- feedback: Correct! A 'destination' is the place someone or something is going or being sent to. -->
-- [ ] A) departure
-  <!-- feedback: 'Departure' is the action of leaving, the opposite end of the journey from the destination. -->
-- [ ] C) arrival
-  <!-- feedback: 'Arrival' is the act of getting there; the place you arrive at is the destination. -->
-- [ ] D) journey
-  <!-- feedback: 'Journey' is the whole trip from start to finish, not the place you are heading to. -->
+- [x] C) have been working
+  <!-- feedback: Correct! Since March with an activity still running takes the present perfect continuous. -->
+- [ ] A) are working
+  <!-- feedback: A present continuous would lose the link with the starting time given by since March. -->
+- [ ] B) work
+  <!-- feedback: The bare present simple would treat the work as a general habit rather than a continuous effort since a date. -->
+- [ ] D) had been working
+  <!-- feedback: The past perfect continuous would need a past reference point, and since March is still part of the present period. -->
 
 ### Explicacion Pedagogica
-The word 'destination' is used to describe the place to which someone or something is going or being sent. This is an important vocabulary word in English.
+Since plus a month names the start of an open period. An activity that has not stopped within that period takes the present perfect continuous.
 ---
-## Question 4 [D4]
+## Question 4 [D3]
 **ID:** HN-ING-11-2026-W05-repaso-p1-001-MASTERY-bundle-v4
-**Bloom:** Understand
-**EJE:** Lexico
+**Bloom:** Apply
+**EJE:** Grammatical Knowledge
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** One action was under way when another interrupted it.
 
 ### Enunciado
-What is the English word for: "Suitcases or other bags in which to pack personal belongings for traveling."
+While the children ___ their homework, the lights went out.
 
 ### Opciones
-- [x] D) luggage
-  <!-- feedback: Correct! 'Luggage' means suitcases and bags in which you pack your belongings for a trip. -->
-- [ ] A) ticket
-  <!-- feedback: 'Ticket' is the paper that gives you the right to travel on a bus, train or plane, not the bag itself. -->
-- [ ] B) flight
-  <!-- feedback: 'Flight' is the journey by plane, or the plane itself; the bags are called luggage. -->
-- [ ] C) reservation
-  <!-- feedback: 'Reservation' is the booking you make for a seat or a room, not the bags you pack. -->
+- [x] D) were doing
+  <!-- feedback: Correct! The longer action already in progress takes the past continuous. -->
+- [ ] A) did
+  <!-- feedback: The past simple would make both actions short and separate, losing the sense of interruption. -->
+- [ ] B) are doing
+  <!-- feedback: A present continuous would place the homework in the present, which the scene in the past denies. -->
+- [ ] C) had done
+  <!-- feedback: The past perfect would place the homework completely before the blackout, removing the overlap. -->
 
 ### Explicacion Pedagogica
-The word 'luggage' is used to describe suitcases or other bags in which to pack personal belongings for traveling. This is an important vocabulary word in English.
+While introduces the background action and when usually introduces the interruption. The background is past continuous, the interruption is past simple.
 ---
-## Question 5 [D5]
+## Question 5 [D3]
 **ID:** HN-ING-11-2026-W05-repaso-p1-001-MASTERY-bundle-v5
-**Bloom:** Understand
-**EJE:** Lexico
+**Bloom:** Apply
+**EJE:** Grammatical Knowledge
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** The earlier event is complete before a past reference point.
 
 ### Enunciado
-What is the English word for: "A traveler on a public or private conveyance other than the driver, pilot, or crew."
+By the time the ambulance arrived, the driver ___ already called for help.
 
 ### Opciones
-- [x] A) passenger
-  <!-- feedback: Correct! A 'passenger' is a person who travels on a vehicle without being the driver, pilot or crew. -->
-- [ ] B) pedestrian
-  <!-- feedback: 'Pedestrian' is someone who travels on foot, so they are not on a conveyance at all. -->
-- [ ] C) commuter
-  <!-- feedback: 'Commuter' is someone who travels regularly between home and work; the definition here is any traveller on board, not only that daily case. -->
-- [ ] D) tourist
-  <!-- feedback: 'Tourist' is someone visiting for pleasure or sightseeing, but the definition covers every traveller on board, including commuters and residents. -->
+- [x] A) had
+  <!-- feedback: Correct! The call happened before the ambulance arrived, so had plus participle is required. -->
+- [ ] B) has
+  <!-- feedback: The present perfect would connect the call to now, but the reference point is the arrival, which is in the past. -->
+- [ ] C) was
+  <!-- feedback: A past continuous would suggest the call was still in progress, and already signals a completed action. -->
+- [ ] D) will
+  <!-- feedback: A future form is impossible in a sequence of events the sentence presents as finished. -->
 
 ### Explicacion Pedagogica
-The word 'passenger' is used to describe a traveler on a public or private conveyance other than the driver, pilot, or crew. This is an important vocabulary word in English.
+By the time is a past boundary, and already confirms the action finished before it. Together they point firmly at the past perfect.
 ---
-## Question 6 [D6]
+## Question 6 [D2]
 **ID:** HN-ING-11-2026-W05-repaso-p1-001-MASTERY-bundle-v6
-**Bloom:** Understand
-**EJE:** Lexico
+**Bloom:** Apply
+**EJE:** Grammatical Knowledge
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** A prediction made at the moment of speaking.
 
 ### Enunciado
-What is the English word for: "The place at a port, airport, or frontier where officials check incoming goods, travelers, or luggage."
+I am soaked. I ___ need a towel.
 
 ### Opciones
-- [x] A) customs
-  <!-- feedback: Correct! 'Customs' is the office at a port, airport or border where officials check goods, travellers and luggage. -->
-- [ ] B) security
-  <!-- feedback: 'Security' is the staff who control safety and boarding inside the airport; it does not check the goods you bring in. -->
-- [ ] C) terminal
-  <!-- feedback: 'Terminal' is the whole building where passengers wait, eat and catch their flights. -->
-- [ ] D) gate
-  <!-- feedback: 'Gate' is the particular door you board through, not the place where officials inspect your luggage. -->
+- [x] B) will
+  <!-- feedback: Correct! A prediction or statement made now is expressed with will. -->
+- [ ] A) am going to
+  <!-- feedback: Be going to points to an intention or to evidence from before this moment, and this is an instant assessment. -->
+- [ ] C) have
+  <!-- feedback: A present perfect would report a completed need, but the sentence is about a demand for the coming minutes. -->
+- [ ] D) was
+  <!-- feedback: A past continuous belongs to a past scene, and there is no past reference in the situation. -->
 
 ### Explicacion Pedagogica
-The word 'customs' is used to describe the place at a port, airport, or frontier where officials check incoming goods, travelers, or luggage. This is an important vocabulary word in English.
+Will carries decisions, promises, refusals and predictions made at the moment of speaking. The soaked clothes are the immediate evidence behind the statement.
 ---
-## Question 7 [D5]
+## Question 7 [D3]
 **ID:** HN-ING-11-2026-W05-repaso-p1-001-MASTERY-bundle-v7
 **Bloom:** Apply
-**EJE:** Lexico
+**EJE:** Grammatical Knowledge
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Complete the question with the correct auxiliary.
 
 ### Enunciado
-What is the English word for: "A document provided by an airline during check-in, giving a passenger permission to board the airplane."
+___ you ever ___ to the archaeological site?
 
 ### Opciones
-- [x] A) boarding pass
-  <!-- feedback: Correct! The 'boarding pass' is the document the airline gives you at check-in that authorises you to board. -->
-- [ ] B) visa
-  <!-- feedback: 'Visa' is the official permission to enter and stay in a country, requested before the trip, not the document that lets you board a plane. -->
-- [ ] C) receipt
-  <!-- feedback: 'Receipt' is the proof of payment for a purchase, not the travel document for boarding. -->
-- [ ] D) brochure
-  <!-- feedback: 'Brochure' is a small booklet of tourist information, not the document that lets you board. -->
+- [x] C) Have ... been
+  <!-- feedback: Correct! Ever in an experience question takes the present perfect, and been is the participle of be. -->
+- [ ] A) Did ... be
+  <!-- feedback: Did with ever is not used, and the base form be cannot follow an auxiliary that already carries the tense. -->
+- [ ] B) Have ... being
+  <!-- feedback: Being is the -ing form and belongs to continuous tenses, not to the present perfect. -->
+- [ ] D) Are ... being
+  <!-- feedback: A present continuous would ask about the moment of speaking, not about life experience. -->
 
 ### Explicacion Pedagogica
-The word 'boarding pass' is used to describe a document provided by an airline during check-in, giving a passenger permission to board the airplane. This is an important vocabulary word in English.
+Experience questions use the present perfect, and the form of be in that structure is have been. The negative form is have never been.
 ---
-## Question 8 [D6]
+## Question 8 [D3]
 **ID:** HN-ING-11-2026-W05-repaso-p1-001-MASTERY-bundle-v8
 **Bloom:** Apply
-**EJE:** Lexico
+**EJE:** Grammatical Knowledge
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Choose the form required after 'by' plus a past year.
 
 ### Enunciado
-What is the English word for: "The activity of visiting places of interest in a particular location."
+By 2018 the city ___ a completely new bus network.
 
 ### Opciones
-- [x] A) sightseeing
-  <!-- feedback: Correct! 'Sightseeing' is the activity of visiting the places of interest in a location. -->
-- [ ] B) shopping
-  <!-- feedback: 'Shopping' is buying things in stores, which is not the same as visiting the sights of a place. -->
-- [ ] C) hiking
-  <!-- feedback: 'Hiking' is walking in the countryside on trails, not the general activity of visiting a location's attractions. -->
-- [ ] D) camping
-  <!-- feedback: 'Camping' is staying outdoors in a tent, not visiting the sights of a location. -->
+- [x] D) had introduced
+  <!-- feedback: Correct! The network was in place before the deadline year, so the past perfect is correct. -->
+- [ ] A) has introduced
+  <!-- feedback: The present perfect would mean the network was introduced at any time up to now, ignoring the 2018 deadline. -->
+- [ ] B) introduce
+  <!-- feedback: A bare base form after by would carry no tense marking at all. -->
+- [ ] C) will have introduced
+  <!-- feedback: The future perfect looks forward from a future point, and 2018 is already in the past. -->
 
 ### Explicacion Pedagogica
-The word 'sightseeing' is used to describe the activity of visiting places of interest in a particular location. This is an important vocabulary word in English.
+By plus a past year looks back from that year. Anything completed before that point belongs to the past perfect, and anything later is irrelevant to the sentence.
 ---
-## Question 9 [D5]
+## Question 9 [D3]
 **ID:** HN-ING-11-2026-W05-repaso-p1-001-MASTERY-bundle-v9
 **Bloom:** Apply
-**EJE:** Lexico
+**EJE:** Grammatical Knowledge
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** A stative verb that has no continuous form.
 
 ### Enunciado
-What is the English word for: "A thing that is kept as a reminder of a person, place, or event."
+These shoes ___ no size eleven.
 
 ### Opciones
-- [x] C) souvenir
-  <!-- feedback: Correct! A 'souvenir' is the object you keep afterwards as a reminder of a person, place or event you visited. -->
-- [ ] A) gift
-  <!-- feedback: 'Gift' is something you give to another person; a souvenir is kept by the person who took the trip. -->
-- [ ] B) award
-  <!-- feedback: 'Award' is a prize given for an achievement, not an object bought or kept as a memory. -->
-- [ ] D) prize
-  <!-- feedback: 'Prize' is the reward you win in a competition, so it comes from winning rather than from a journey. -->
+- [x] A) have
+  <!-- feedback: Correct! Have used as possession or absence does not take the continuous in this meaning. -->
+- [ ] B) are having
+  <!-- feedback: Stative verbs such as have, know and believe do not normally form a continuous here. -->
+- [ ] C) has
+  <!-- feedback: Has is the third person singular form, and the subject these shoes is plural. -->
+- [ ] D) had
+  <!-- feedback: The past simple would place the absence of size eleven in the past, and nothing in the sentence requires that. -->
 
 ### Explicacion Pedagogica
-The word 'souvenir' is used to describe a thing that is kept as a reminder of a person, place, or event. This is an important vocabulary word in English.
+Stative verbs describe a state rather than an action. Used for possession they take the simple form, and the plural subject here is followed by have.
 ---
-## Question 10 [D6]
+## Question 10 [D4]
 **ID:** HN-ING-11-2026-W05-repaso-p1-001-MASTERY-bundle-v10
 **Bloom:** Apply
-**EJE:** Lexico
+**EJE:** Grammatical Knowledge
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** A plan and an intention that already existed.
 
 ### Enunciado
-What is the English word for: "A period of time by which something is late or postponed."
+After the exam we ___ to visit the museum, and we already bought the tickets.
 
 ### Opciones
-- [x] C) delay
-  <!-- feedback: Correct! A 'delay' is the extra time by which something ends up late or gets postponed. -->
-- [ ] A) cancellation
-  <!-- feedback: 'Cancellation' means the event does not happen at all, not that it happens later than planned. -->
-- [ ] B) departure
-  <!-- feedback: 'Departure' is the scheduled time or the act of leaving; the definition is about the extra time lost. -->
-- [ ] D) arrival
-  <!-- feedback: 'Arrival' is getting there, the opposite moment. Here we want the time lost, not the time you reach the destination. -->
+- [x] B) are going
+  <!-- feedback: Correct! Tickets already bought prove the plan existed before this moment, so be going to is right. -->
+- [ ] A) will
+  <!-- feedback: Will would suggest the decision is being taken now, but the purchase shows it was taken earlier. -->
+- [ ] C) have gone
+  <!-- feedback: The present perfect would report a completed visit, and the tickets show the visit is still ahead. -->
+- [ ] D) were going
+  <!-- feedback: A past continuous would place the intention in a past scene, but the exam is still ahead. -->
 
 ### Explicacion Pedagogica
-The word 'delay' is used to describe a period of time by which something is late or postponed. This is an important vocabulary word in English.
+Evidence that a decision predates the moment of speaking selects be going to over will. Buying the tickets is that evidence.
 ---
-## Question 11 [D7]
+## Question 11 [D3]
 **ID:** HN-ING-11-2026-W05-repaso-p1-001-MASTERY-bundle-v11
 **Bloom:** Apply
-**EJE:** Lexico
+**EJE:** Grammatical Knowledge
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** The signal 'just' places the action in the present period.
 
 ### Enunciado
-What is the English word for: "The act of reporting one's presence and registering, typically at an airport or hotel."
+I ___ the door. It was open when I passed.
 
 ### Opciones
-- [x] C) check-in
-  <!-- feedback: Correct! 'Check-in' is the act of reporting your arrival and registering at the airport or hotel counter. -->
-- [ ] A) check-out
-  <!-- feedback: 'Check-out' is the opposite moment, when you leave the hotel or hand back the room. -->
-- [ ] B) booking
-  <!-- feedback: 'Booking' is the reservation you made earlier; the act of registering your presence on arrival is check-in. -->
-- [ ] D) reservation
-  <!-- feedback: 'Reservation' is the booking document, not the act of reporting your presence at the desk. -->
+- [x] C) have just closed
+  <!-- feedback: Correct! Just is a present perfect marker and the door state shows the action has just happened. -->
+- [ ] A) just closed
+  <!-- feedback: A past simple with just is not used; just belongs to the present perfect in this function. -->
+- [ ] B) am closing
+  <!-- feedback: A present continuous would suggest the action is still under way, but the state of the door shows it finished. -->
+- [ ] D) had closed
+  <!-- feedback: The past perfect would need a past reference point later than the closing, and there is none. -->
 
 ### Explicacion Pedagogica
-The word 'check-in' is used to describe the act of reporting one's presence and registering, typically at an airport or hotel. This is an important vocabulary word in English.
+Just, already, yet and never are present perfect markers. Together with the present result they make the present perfect the only coherent reading.
 ---
-## Question 12 [D8]
+## Question 12 [D3]
 **ID:** HN-ING-11-2026-W05-repaso-p1-001-MASTERY-bundle-v12
 **Bloom:** Apply
-**EJE:** Lexico
+**EJE:** Grammatical Knowledge
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** A real condition with a probable future result.
 
 ### Enunciado
-What is the English word for: "A period of rest or waiting before a further stage in a journey."
+If it rains tomorrow, the match ___.
 
 ### Opciones
-- [x] D) layover
-  <!-- feedback: Correct! A 'layover' is a period of rest or waiting between two stages of a journey. -->
-- [ ] A) stopover
-  <!-- feedback: 'Stopover' usually means a deliberate visit in the middle of a trip, not just the wait between flights. -->
-- [ ] B) transfer
-  <!-- feedback: 'Transfer' is the change of vehicle itself, the movement; the definition is about the time of waiting. -->
-- [ ] C) transit
-  <!-- feedback: 'Transit' is a system of moving people and goods through a city, not a break between two flights. -->
+- [x] D) will be cancelled
+  <!-- feedback: Correct! The first conditional pairs a present condition with a likely future result. -->
+- [ ] A) would be cancelled
+  <!-- feedback: 'Would' belongs to the second conditional, which describes an unreal or doubtful situation. -->
+- [ ] B) is cancelled
+  <!-- feedback: A present simple after if could be a zero conditional about a rule, not a prediction about tomorrow. -->
+- [ ] C) has been cancelled
+  <!-- feedback: The present perfect would place the cancellation in a completed period before now. -->
 
 ### Explicacion Pedagogica
-The word 'layover' is used to describe a period of rest or waiting before a further stage in a journey. This is an important vocabulary word in English.
+The first conditional is the open and likely case: if plus present, will plus base verb. Tomorrow makes the condition a real future possibility.
 ---
-## Question 13 [D7]
+## Question 13 [D3]
 **ID:** HN-ING-11-2026-W05-repaso-p1-001-MASTERY-bundle-v13
-**Bloom:** Analyze
-**EJE:** Lexico
+**Bloom:** Apply
+**EJE:** Grammatical Knowledge
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** A general truth expressed in a conditional clause.
 
 ### Enunciado
-What is the English word for: "A system of money in general use in a particular country."
+If you heat ice, it ___.
 
 ### Opciones
-- [x] D) currency
-  <!-- feedback: Correct! 'Currency' is the money system in general use in a particular country. -->
-- [ ] A) coin
-  <!-- feedback: 'Coin' is a single metal piece of money, one item within the currency, not the whole system. -->
-- [ ] B) banknote
-  <!-- feedback: 'Banknote' is a paper bill, one item of the currency rather than the system of money itself. -->
-- [ ] C) cash
-  <!-- feedback: 'Cash' means money in the physical form you hold, not the money system of a country. -->
+- [x] A) melts
+  <!-- feedback: Correct! A zero conditional states a general truth with present simple in both clauses. -->
+- [ ] B) will melt
+  <!-- feedback: The future simple in both clauses would turn a general truth into a single future prediction. -->
+- [ ] C) would melt
+  <!-- feedback: 'Would' describes an unreal condition, and heating ice certainly is not unreal. -->
+- [ ] D) has melted
+  <!-- feedback: The present perfect would place the melting in a completed period, which a general truth does not have. -->
 
 ### Explicacion Pedagogica
-The word 'currency' is used to describe a system of money in general use in a particular country. This is an important vocabulary word in English.
+The zero conditional expresses facts that are always true. Both clauses take the present simple, and no future or past tense appears anywhere in the structure.
 ---
-## Question 14 [D8]
+## Question 14 [D3]
 **ID:** HN-ING-11-2026-W05-repaso-p1-001-MASTERY-bundle-v14
-**Bloom:** Analyze
-**EJE:** Lexico
+**Bloom:** Apply
+**EJE:** Grammatical Knowledge
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** The action began in the past and continued up to a past deadline.
 
 ### Enunciado
-What is the English word for: "A book of information about a place designed for the use of visitors or tourists."
+They ___ for six hours before the storm reached the coast.
 
 ### Opciones
-- [x] C) guidebook
-  <!-- feedback: Correct! A 'guidebook' is a book of information about a place written for visitors and tourists. -->
-- [ ] A) map
-  <!-- feedback: 'Map' is a single sheet or screen showing the layout of a place, not a book of information. -->
-- [ ] B) dictionary
-  <!-- feedback: 'Dictionary' is a book of word definitions of a language, not information about a place for visitors. -->
-- [ ] D) encyclopedia
-  <!-- feedback: 'Encyclopedia' is a general reference work with entries on every topic, not a guide written for tourists about one place. -->
+- [x] B) had been driving
+  <!-- feedback: Correct! A duration that ended at a past reference point takes the past perfect continuous. -->
+- [ ] A) have been driving
+  <!-- feedback: The present perfect continuous would measure the driving up to now, but the storm is in the past. -->
+- [ ] C) were driving
+  <!-- feedback: A past continuous would describe the drive as ongoing without fixing its duration as completed. -->
+- [ ] D) will have been driving
+  <!-- feedback: The future perfect would measure forward from a future point, and the storm has already passed. -->
 
 ### Explicacion Pedagogica
-The word 'guidebook' is used to describe a book of information about a place designed for the use of visitors or tourists. This is an important vocabulary word in English.
+The past perfect continuous measures a closed duration. Before the storm reached the coast supplies the past moment at which the six hours came to an end.
 ---
-## Question 15 [D7]
+## Question 15 [D3]
 **ID:** HN-ING-11-2026-W05-repaso-p1-001-MASTERY-bundle-v15
-**Bloom:** Analyze
-**EJE:** Lexico
+**Bloom:** Apply
+**EJE:** Grammatical Knowledge
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** A negative statement covering all time up to now.
 
 ### Enunciado
-What is the English word for: "A bag with shoulder straps that allow it to be carried on one's back."
+He ___ never ___ sushi, but he loves fried food.
 
 ### Opciones
-- [x] C) backpack
-  <!-- feedback: Correct! A 'backpack' is the bag with shoulder straps that you carry on your back. -->
-- [ ] A) suitcase
-  <!-- feedback: 'Suitcase' is a case with a handle that you pull along, not a bag worn on the back. -->
-- [ ] B) briefcase
-  <!-- feedback: 'Briefcase' is a case for documents and a laptop, carried in the hand for work. -->
-- [ ] D) handbag
-  <!-- feedback: 'Handbag' is a bag for personal items carried on the arm or in the hand, with no back straps. -->
+- [x] C) has ... eaten
+  <!-- feedback: Correct! Never with no past time point covers the whole life up to now, so the present perfect negative fits. -->
+- [ ] A) did ... eat
+  <!-- feedback: Did refers to a definite past occasion, and the sentence deliberately gives no time. -->
+- [ ] B) have ... ate
+  <!-- feedback: After have the verb must be a participle, and ate is the past simple form. -->
+- [ ] D) was ... eating
+  <!-- feedback: A past continuous would place the eating in a past scene, which the life-long scope excludes. -->
 
 ### Explicacion Pedagogica
-The word 'backpack' is used to describe a bag with shoulder straps that allow it to be carried on one's back. This is an important vocabulary word in English.
+Never plus no time expression is a strong present perfect pattern. The participle form of eat is eaten, and it follows has without any further marking.
 ---
-## Question 16 [D8]
+## Question 16 [D4]
 **ID:** HN-ING-11-2026-W05-repaso-p1-001-MASTERY-bundle-v16
 **Bloom:** Analyze
-**EJE:** Lexico
+**EJE:** Grammatical Knowledge
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** The reference point decides between two perfect tenses.
 
 ### Enunciado
-What is the English word for: "In or to a foreign country, especially one across the sea."
+By June last year the builders ___ the whole first floor ___; today they are working on the second.
 
 ### Opciones
-- [x] A) overseas
-  <!-- feedback: Correct! 'Overseas' means in or to a foreign country, especially one across the sea. -->
-- [ ] B) domestic
-  <!-- feedback: 'Domestic' means inside your own country, the opposite of overseas. -->
-- [ ] C) local
-  <!-- feedback: 'Local' means in the area where you are, even more restricted than domestic; it never crosses a border. -->
-- [ ] D) national
-  <!-- feedback: 'National' refers to a whole country without saying it is foreign, so it does not imply going abroad. -->
+- [x] D) had finished ... but
+  <!-- feedback: Correct! The first floor was complete by the past deadline, and but contrasts that with the work going on now. -->
+- [ ] A) have finished ... so
+  <!-- feedback: The present perfect would place the finishing in the present period, ignoring the closed June deadline, and so gives a result rather than a contrast. -->
+- [ ] B) had finished ... because
+  <!-- feedback: Because gives a reason, but today's work is a contrast to the completed floor, not the cause of it. -->
+- [ ] C) will have finished ... but
+  <!-- feedback: The future perfect would project from a future point, and June last year is already closed. -->
 
 ### Explicacion Pedagogica
-The word 'overseas' is used to describe in or to a foreign country, especially one across the sea. This is an important vocabulary word in English.
+Two reference points appear in the sentence: the past deadline in the first clause and the present moment in the second. Each clause takes the tense that matches its own reference point.
 ---
-## Question 17 [D9]
+## Question 17 [D3]
 **ID:** HN-ING-11-2026-W05-repaso-p1-001-MASTERY-bundle-v17
-**Bloom:** Evaluate
-**EJE:** Lexico
+**Bloom:** Apply
+**EJE:** Grammatical Knowledge
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** The negative form of a modal in a past situation.
 
 ### Enunciado
-What is the English word for: "An estimate of income and expenditure for a set period of time."
+He ___ not come to the party last week; he was ill.
 
 ### Opciones
-- [x] B) budget
-  <!-- feedback: Correct! A 'budget' is the estimate of income and expenditure planned for a set period. -->
-- [ ] A) expense
-  <!-- feedback: 'Expense' is a single cost already paid; the definition is the estimate for the whole period. -->
-- [ ] C) cost
-  <!-- feedback: 'Cost' is the price of one thing, whereas a budget covers all income and all spending. -->
-- [ ] D) price
-  <!-- feedback: 'Price' is the amount a single item costs, not a plan of income and expenditure over time. -->
+- [x] A) could
+  <!-- feedback: Correct! Could not expresses the past inability that explains his absence. -->
+- [ ] B) must
+  <!-- feedback: Must not expresses a prohibition or a deduction, not an inability to attend. -->
+- [ ] C) would
+  <!-- feedback: Would not is used for refusals and for unreal past situations, not for a simple past inability. -->
+- [ ] D) should
+  <!-- feedback: Should not expresses advice or an expectation that was not followed, which is a different claim. -->
 
 ### Explicacion Pedagogica
-The word 'budget' is used to describe an estimate of income and expenditure for a set period of time. This is an important vocabulary word in English.
+Modal ability and permission have a past form: could and might. The reason given for the absence is illness, which is exactly what could not reports.
 ---
-## Question 18 [D10]
+## Question 18 [D3]
 **ID:** HN-ING-11-2026-W05-repaso-p1-001-MASTERY-bundle-v18
-**Bloom:** Evaluate
-**EJE:** Lexico
+**Bloom:** Apply
+**EJE:** Grammatical Knowledge
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Two overlapping past actions, one much longer than the other.
 
 ### Enunciado
-What is the English word for: "A practice or arrangement by which a company or government agency provides a guarantee of compensation for specified loss, damage, illness, or death in return for payment of a premium."
+While the guide ___ about the castle, a visitor asked a question.
 
 ### Opciones
-- [x] C) insurance
-  <!-- feedback: Correct! 'Insurance' is the arrangement by which an insurer promises compensation for loss, damage, illness or death in exchange for a premium. -->
-- [ ] A) warranty
-  <!-- feedback: 'Warranty' covers a product against defects for a limited period and is free of charge, not a premium-based contract. -->
-- [ ] B) guarantee
-  <!-- feedback: 'Guarantee' is the promise itself; 'insurance' is the whole contract arranged with an insurer for a premium. -->
-- [ ] D) policy
-  <!-- feedback: 'Policy' is the document that proves the insurance contract; the arrangement itself is the insurance. -->
+- [x] B) was talking
+  <!-- feedback: Correct! The background speech is the past continuous and the question is the interruption. -->
+- [ ] A) talked
+  <!-- feedback: The past simple would reduce the speech to one finished act with no overlap. -->
+- [ ] C) is talking
+  <!-- feedback: A present continuous would place the speech now, and the visit to the castle is already over. -->
+- [ ] D) has talked
+  <!-- feedback: The present perfect would connect the speech to now, which the past setting denies. -->
 
 ### Explicacion Pedagogica
-The word 'insurance' is used to describe a practice or arrangement by which a company or government agency provides a guarantee of compensation for specified loss, damage, illness, or death in return for payment of a premium. This is an important vocabulary word in English.
+When two past actions overlap, the longer one takes the past continuous and the shorter one the past simple. While normally introduces the longer action.
 ---
-## Question 19 [D9]
+## Question 19 [D3]
 **ID:** HN-ING-11-2026-W05-repaso-p1-001-MASTERY-bundle-v19
-**Bloom:** Evaluate
-**EJE:** Lexico
+**Bloom:** Apply
+**EJE:** Grammatical Knowledge
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** A completed action with no reference to the present.
 
 ### Enunciado
-What is the English word for: "Treatment with a vaccine to produce immunity against a disease."
+The government ___ a new law in March and it came into force in June.
 
 ### Opciones
-- [x] A) vaccination
-  <!-- feedback: Correct! A 'vaccination' is the application of a vaccine that makes the body produce immunity against a disease. -->
-- [ ] B) medication
-  <!-- feedback: 'Medication' is a medicine you take to treat an illness, not the vaccine that prevents one. -->
-- [ ] C) prescription
-  <!-- feedback: 'Prescription' is the written order a doctor gives for a medicine, not the vaccine itself. -->
-- [ ] D) infection
-  <!-- feedback: 'Infection' is the state of having the disease; vaccination is what protects you before you get it. -->
+- [x] C) passed
+  <!-- feedback: Correct! A finished past time such as in March requires the past simple. -->
+- [ ] A) has passed
+  <!-- feedback: The present perfect cannot stand with in March, because that time closes the action off from the present. -->
+- [ ] B) passes
+  <!-- feedback: The present simple would place the passing now, which the month denies. -->
+- [ ] D) had passed
+  <!-- feedback: The past perfect would need a past point later than March, and the law came into force rather than being needed earlier. -->
 
 ### Explicacion Pedagogica
-The word 'vaccination' is used to describe treatment with a vaccine to produce immunity against a disease. This is an important vocabulary word in English.
+A precise past date is a finished time and takes the past simple. The present perfect is reserved for actions whose present relevance is being reported.
 ---
-## Question 20 [D10]
+## Question 20 [D3]
 **ID:** HN-ING-11-2026-W05-repaso-p1-001-MASTERY-bundle-v20
-**Bloom:** Evaluate
-**EJE:** Lexico
+**Bloom:** Apply
+**EJE:** Grammatical Knowledge
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** The correct form of a frequently used irregular verb.
 
 ### Enunciado
-What is the English word for: "Extreme tiredness and other physical effects felt by a person after a long flight across several time zones."
+She ___ down the stairs and fell.
 
 ### Opciones
-- [x] B) jet lag
-  <!-- feedback: Correct! 'Jet lag' is the tiredness and disturbed body clock you feel after a flight across several time zones. -->
-- [ ] A) fatigue
-  <!-- feedback: 'Fatigue' is tiredness after effort or a long day, not specifically caused by crossing time zones. -->
-- [ ] C) exhaustion
-  <!-- feedback: 'Exhaustion' is extreme tiredness from overwork or lack of sleep, which is not the same as the time zone effect. -->
-- [ ] D) insomnia
-  <!-- feedback: 'Insomnia' is the inability to sleep, whereas jet lag comes with tiredness during the day and a shifted body clock. -->
+- [x] D) ran
+  <!-- feedback: Correct! Run is irregular and its past simple is ran. -->
+- [ ] A) runned
+  <!-- feedback: The -ed ending is for regular verbs, and runned is not a form of run. -->
+- [ ] B) run
+  <!-- feedback: The base form cannot serve as the past simple after a subject and before another past verb. -->
+- [ ] C) has ran
+  <!-- feedback: The past participle of run is run, and the auxiliary has requires the participle form. -->
 
 ### Explicacion Pedagogica
-The word 'jet lag' is used to describe extreme tiredness and other physical effects felt by a person after a long flight across several time zones. This is an important vocabulary word in English.
+Irregular verbs must be learned in all three forms. Run, ran, run is one of the irregular patterns where the participle looks like the base form.
