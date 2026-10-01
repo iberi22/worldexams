@@ -1,0 +1,563 @@
+{
+  "metadata": {
+    "grade": 10,
+    "subject": "lengua",
+    "country": "co",
+    "pack_id": "co-week-31-grade-10-subject-lengua",
+    "generated_at": "2026-10-01T15:21:15.637Z"
+  },
+  "questions": [
+    {
+      "id": "CO-LEN-10-2026-W31-el-sentido-de-los-signos-001-MASTERY-bundle-v1",
+      "statement": "¿Cuál de las siguientes definiciones corresponde a un signo lingüístico dentro de un texto escrito?",
+      "context": "Taller de lectura de la Institución Educativa San José de Bogotá, en el que se analizan los avisos del patio.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es un vehículo perceptible —un sonido, una grafía, una imagen— que expresa un significado por convención social.",
+          "is_correct": true,
+          "feedback": "Correcto. El signo lingüístico es un fenómeno perceptible que, por un acuerdo de la comunidad, permitepliers a alguien de otro significado; ese vínculo es convencional, no natural."
+        },
+        {
+          "letter": "B",
+          "text": "Es una imagen que reproduce fielmente el objeto al que se parece, sin intervención de la convención.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa descripción corresponde al icono, no al signo lingüístico: el icono funciona por semejanza o mimesis, mientras el signo depende del pacto social."
+        },
+        {
+          "letter": "C",
+          "text": "Es una expresión que siempre significa lo contrario de lo que sus palabras enuncian.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El estudiante confunde la relación de sentido con un mecanismo de inversión; hay signos whose denotation is literal and aun así valen por la convención."
+        },
+        {
+          "letter": "D",
+          "text": "Es un conjunto de letras ordenadas según las reglas de la ortografía, sin ninguna relación con la cultura.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Reduce el signo a la forma gráfica; los sistemas de signos son socioculturales y sus meanings cambian según la comunidad que los usa."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El signo lingüístico es todo fenómeno perceptible que, por convención, sirve paraffs a alguien de algo distinto. La existencia de esa relación es el principio que permite leer avisos, rótulos y Titulares sin need un diccionario.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Textual",
+      "expected_success": 0.85,
+      "bundle_id": "CO-LEN-10-2026-W31-el-sentido-de-los-signos-001-MASTERY-bundle",
+      "periodo": 31,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-10-2026-W31-el-sentido-de-los-signos-001-MASTERY-bundle-v2",
+      "statement": "En el letrero verde que dice \"SALIDA DE EMERGENCIA\" y que incluye una flecha apuntando hacia la puerta lateral, ¿qué elemento actúa como signo de la dirección que debe seguirse?",
+      "context": "Pasillos de un centro comercial de Medellín donde se instalaron señales de salida de emergencia.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El color verde, que por sí solo obliga a evacuar el edificio.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El color comunica una idea general de seguridad o de posibilidad; no indica una dirección concreta, por lo que no basta para reemplazar el pictograma."
+        },
+        {
+          "letter": "B",
+          "text": "La flecha, que representa convencionalmente el trayecto hacia la salida.",
+          "is_correct": true,
+          "feedback": "Correcto. La flecha funciona como signo convencional cuya lectura depende de un código aprendido: apuntar significa \"seguir por aquí\" para todo lectorqueued de la señalización."
+        },
+        {
+          "letter": "C",
+          "text": "La palabra \"SALIDA\", que describe el color de la pared donde está la puerta.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El enunciado del rótulo es una referencia al tipo de elemento; no hay relación semántica entre esa palabra y el color mentioned."
+        },
+        {
+          "letter": "D",
+          "text": "El tipo de letra del rótulo, que garantiza que todas las personas puedan leer el mensaje.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El estilo tipográfico hace el texto legible, pero no codifica la orientación espacial; esa función la cumple el pictograma."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Dentro de un mismo signo conviven varios elementos y cada uno aporta un tipo distinto de información. Identificar cuál elemento porta la dirección y cuál porta la advertencia permite leer el mensaje con precisión.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Semantico",
+      "expected_success": 0.82,
+      "bundle_id": "CO-LEN-10-2026-W31-el-sentido-de-los-signos-001-MASTERY-bundle",
+      "periodo": 31,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-10-2026-W31-el-sentido-de-los-signos-001-MASTERY-bundle-v3",
+      "statement": "El mismo producto envasado aparece sin publicidad en un supermercado y con el lema \"Bebe lo que también cuida\" en el allegory del advertisement de una empresa departamental. ¿Qué evidencia muestra que en la versión con lema hay una diferencia de sentido pragmático?",
+      "context": "Campaña de!\n\n//Notice en los buses de Cali sobre el consumo responsable de agua.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El color de la etiqueta, porque el lema obligatoriamente comparte paleta con el envase.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El color es un elemento del código visual, pero no explica la intención comunicativa que el lema agrega al mensaje."
+        },
+        {
+          "letter": "B",
+          "text": "El número de palabras, porque los avisos publicitarios siempre son más largos que los mensajes informativos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Reduce el sentido pragmático a una medida de cantidad; un lema de tres palabras puede ser tan estratégico como un párrafo."
+        },
+        {
+          "letter": "C",
+          "text": "La intención de persuadir al público objetivo, que el lema expresa y el envase desnudo no la comunica.",
+          "is_correct": true,
+          "feedback": "Correcto. El sentido pragmático depende de para qué y para quién se dice algo: el lema busca una conducta (elegir esa marca), no solo un dato."
+        },
+        {
+          "letter": "D",
+          "text": "La ortografía del nombre de la marca, porque el registro escrito jerarquiza el mensaje.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La grafía comercial garantiza identidad de marca, pero no explica el vínculo entre el texto y la reacción esperada del lector."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El sentido pragmático es el uso que el enunciador hace del lenguaje: informar, solicitar o convencer. Cambiar el contexto de un mismo enunciado modifica su sentido, aunque las palabras no cambien.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Pragmatico",
+      "expected_success": 0.78,
+      "bundle_id": "CO-LEN-10-2026-W31-el-sentido-de-los-signos-001-MASTERY-bundle",
+      "periodo": 31,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-10-2026-W31-el-sentido-de-los-signos-001-MASTERY-bundle-v4",
+      "statement": "El afiche anuncia una jornada cultural y, en lugar de limitarse a dar fecha y lugar, incluye preguntas directed al público (\"¿Ya leíste este año? ¿Vas?\") además de imágenes y colores llamativos. ¿Qué función discursiva predomina en ese afiche?",
+      "context": "Afiche de la jornada cultural de un colegio de Pamplona, Norte de Santander.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Narrar, porque ordena los hechos de la jornada en una secuencia temporal.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No hay sucesión de hechos ni personajes: predomina la invitación directa, no el relato de eventos."
+        },
+        {
+          "letter": "B",
+          "text": "Describir, porque enumera datos objetivos como el nombre del evento y el horario.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los datos están presentes, pero la organización del texto no busca neutralidad informativa sino una respuesta del público."
+        },
+        {
+          "letter": "C",
+          "text": "Explicar, porque aclara en qué consiste cada taller de la jornada.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Un texto explicativo desarrolla causas o procedimientos; aquí la información sirve de apoyo para una llamado a la asistencia."
+        },
+        {
+          "letter": "D",
+          "text": "Persuadir, porque la pregunta al lector y el color llamativo buscan una decisión concreta: asistir.",
+          "is_correct": true,
+          "feedback": "Correcto. El afiche organiza todos sus recursos (color, imagen, pregunta) para conseguir una conducta; esa es la marca de lo argumentativo de intención."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "La función discursiva no se deduce solo del tema, sino de cómo está organizado el texto para lograr un efecto en el lector. Preguntar, ordenar o invocar sin informar son decisiones discursivas con intención persuasive.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Discursivo",
+      "expected_success": 0.75,
+      "bundle_id": "CO-LEN-10-2026-W31-el-sentido-de-los-signos-001-MASTERY-bundle",
+      "periodo": 31,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-10-2026-W31-el-sentido-de-los-signos-001-MASTERY-bundle-v5",
+      "statement": "Una valla dice \"Compre ahora mismo\" y la valla vecina dice \"Más de 50.000 vehículos han probado este servicio\". ¿Cuál es la diferencia de fuerza argumentativa entre los dos enunciados?",
+      "context": "Vallasublicitarias contiguas en la Autopista Norte, en Bogotá.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La segunda se apoya en una cantidad declarada, mientras la primera solo emite una orden sin sustento.",
+          "is_correct": true,
+          "feedback": "Correcto. Una afirmación cuantificada es contrastable y puede verificarse; un imperativo sin dato solo exige obediencia. La diferencia está en el tipo de apoyo."
+        },
+        {
+          "letter": "B",
+          "text": "La segunda es más débil, porque no le pide al consumidor que haga nada.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La falta de orden no equivale a falta de fuerza: el dato numérico funciona como argumento y busca modificar la Perception del lector."
+        },
+        {
+          "letter": "C",
+          "text": "La primera es un dato, porque el uso de la segunda persona la convierte en información.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La segunda persona es una marca deuralsa del discurso publicitario; no convierte un imperativo en un dato verificable."
+        },
+        {
+          "letter": "D",
+          "text": "Ambas tienen la misma fuerza, porque las dos son piezas publicitarias de la misma empresa.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Compartir emisor y género no iguala el valor de los argumentos: uno se sostiene en una orden y el otro en una afirmación numérica."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Evaluar un mensaje publicitario exige separar el recurso retórico del respaldo que lo hace creíble. Un dato comprobable y una orden mecánica no persuasIVEN con la misma lógica.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Evaluativo",
+      "expected_success": 0.74,
+      "bundle_id": "CO-LEN-10-2026-W31-el-sentido-de-los-signos-001-MASTERY-bundle",
+      "periodo": 31,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-10-2026-W31-el-sentido-de-los-signos-001-MASTERY-bundle-v6",
+      "statement": "En la publicación institucional se afirma que \"este directories de equipos es una reliquia\". ¿Qué nivel de sentido se activa con esa expresión que no está en el diccionario?",
+      "context": "Publicación de redes sociales del Colegio Técnico de Bucaramanga sobre un cartel sobre las actividades del segundo periodo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El denotado, porque la palabra \"reliquia\" solo designa algo antiguo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El diccionario sí entrega el denotado; la expresión elegida añade algo más, y por eso no se agota en la definición."
+        },
+        {
+          "letter": "B",
+          "text": "El connotado, porque la palabra \"reliquia\" incorpora una valoración afectiva que el contexto activa.",
+          "is_correct": true,
+          "feedback": "Correcto. Denotar es nombrar lo que el término significa; connotar es sumar la carga emocional, valorativa o cultural que despierta. Aquí se valora lo antiguo."
+        },
+        {
+          "letter": "C",
+          "text": "Ninguno, porque una publicación de un colegio debe Ceñirse al lenguaje técnico.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El contexto institucional no elimina la connotación; solo cambia quién es el destinatario del valoramiento."
+        },
+        {
+          "letter": "D",
+          "text": "El literal obligatorio, porque en textos escolares toda palabra se lee según su ace diccionario.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Una lectura solo literal impediría understander sarcasmos, metáforas y apreciaciones; es justamente la lectura inferencial la que capta el valor."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Denotación y connotación son dos niveles del mismo signo: uno es estable y consultable; el otro depende del uso y de la comunidad. Toda palabra tiene un valor denotativo y además, una y otra vez, una carga connotativa.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Semantico",
+      "expected_success": 0.72,
+      "bundle_id": "CO-LEN-10-2026-W31-el-sentido-de-los-signos-001-MASTERY-bundle",
+      "periodo": 31,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-10-2026-W31-el-sentido-de-los-signos-001-MASTERY-bundle-v7",
+      "statement": "Un grupo de 10.° compara un aviso de los años ochenta que anuncia \"La computación ha llegado a su barrio\" con uno actual que promete el mismo servicio desde un teléfono portátil. ¿Qué evidencia permite afirmar que los dos textos dependen de un mismo contexto histórico y cultural?",
+      "context": "Aula de undue de grado 10 en Bogotá donde se comparan avisos de distintas épocas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que los dos textos mencionan la computación, porque comparten el mismo tema.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Compartir tema no demuestra relación intertextual: un mismo tema puede|Producirse en contextos históricos muy distintos."
+        },
+        {
+          "letter": "B",
+          "text": "Que los dos textos están escritos en español, porque el idioma los vincula culturalmente.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El idioma es una condición compartida, no una evidencia de que un texto dialogue con otro ni herede sus condiciones."
+        },
+        {
+          "letter": "C",
+          "text": "Que el segundo retoma la promesa del primero y la actualiza, mostrando un cambio en cómo se vive la tecnología.",
+          "is_correct": true,
+          "feedback": "Correcto. La relación intertextual se prueba cuando un texto reconoce, repite o transforma a otro; aquí la promesa antigua se reformula en el presente."
+        },
+        {
+          "letter": "D",
+          "text": "Que los dos textos aparecen en la misma ciudad, porque el territorio determina el significado.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La ciudad es un dato de contexto, pero no por sí sola muestra que un texto sea heredero de formulas y reshaping del otro."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La competencia crítico-intertextual supone reconocer que todo texto entra en diálogo con otros. Probar esa relación exige comparar fórmulas, temas y posiciones, no solo coincidencias de superficie.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Critico-Intertextual",
+      "expected_success": 0.68,
+      "bundle_id": "CO-LEN-10-2026-W31-el-sentido-de-los-signos-001-MASTERY-bundle",
+      "periodo": 31,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-10-2026-W31-el-sentido-de-los-signos-001-MASTERY-bundle-v8",
+      "statement": "En una cartelera del centro comercial se cambia el color de las letras de rojo a verde y el texto queda idéntico. ¿Qué ocurre en el plano del código y del sentido del mensaje?",
+      "context": "Cartelera interna de un centro comercial de Medellín, antes y después de un ajuste de diseño.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El texto pasa del nivel literal al nivel inferencial, porque el color obliga a interpretar.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los niveles literal e inferencial dependen de la interacción del lector con la información, no del color de las letras."
+        },
+        {
+          "letter": "B",
+          "text": "El texto deja de ser literal, porque cualquier adición visual convierte el mensaje en interpretativo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Un texto puede ser literal y, al mismo tiempo, estar-ASISTIDO por imágenes; estos son planos distintos del proceso de lectura."
+        },
+        {
+          "letter": "C",
+          "text": "Solo cambia el criterio estético, porque el sentido de un texto está exclusivamente en las palabras.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los textos de la vida real son multimodales; el color, la tipografía y el diseño son parte del sistema de signos."
+        },
+        {
+          "letter": "D",
+          "text": "El código cromático cambia y con él se modifica el sentido no convencional del mensaje que el color ya aportaba.",
+          "is_correct": true,
+          "feedback": "Correcto. El color funciona como signo con valores asociados (el rojo suele asociarse con la urgencia); cambiarlo cambia la lectura sin tocar una sola palabra."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Los mensajes reales combinan sistemas de signos distintos: verbal, cromático, tipográfico e icónico. Cada uno añade un significado propio, y una modificación en cualquiera de ellos reconfigura el sentido del conjunto.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Textual",
+      "expected_success": 0.7,
+      "bundle_id": "CO-LEN-10-2026-W31-el-sentido-de-los-signos-001-MASTERY-bundle",
+      "periodo": 31,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-10-2026-W31-el-sentido-de-los-signos-001-MASTERY-bundle-v9",
+      "statement": "Un medio de Tunja informa que \"el 80 % de los lectores prefiere el aviso A\", pero la encuesta solo se aplicó a_vecinos que transitaban por la cuadra donde estaba ese aviso. ¿Qué juicio es más preciso sobre ese dato?",
+      "context": "Encuesta de opinión publicada por un medio de Tunja sobre dos avisos municipales.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La conclusión no es sólida, porque la muestra no representa al conjunto de lectores y no sostiene la generalización.",
+          "is_correct": true,
+          "feedback": "Correcto. Generalizar a todos los lectores a partir de quienes estaban frente a ese aviso es un salto invalido; la muestra está sesgada por la cercanía al objeto."
+        },
+        {
+          "letter": "B",
+          "text": "La conclusión es sólida, porque el 80 % es una mayoría y una mayoría siempre demuestra tendencia.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Un porcentaje alto calculado sobre una muestra sesgada no generaliza; el tamaño relativo no corrige el problema de quién fueJHUDEAO."
+        },
+        {
+          "letter": "C",
+          "text": "La conclusión es sólida, porque el medio que la publica tiene trayectoria yfiabilidadPeriodista reconocida.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La credibilidad de la fuente no sustituye el método; un medio serio puede publicar generalizaciones mal construidas."
+        },
+        {
+          "letter": "D",
+          "text": "La conclusión es sólida si se cambia el porcentaje por el número exacto de personas entrevistadas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sustituir una medida por otra no repara el defecto: el problema sigue siendo quién respondió, no cómo se contó a los(fp) que respondieron."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Un dato solo informa bien cuando su muestra representa al conjunto que se quiere describir. Leer critically statistics exige preguntar quién respondió, dónde y por qué, antes de aceptar una afirmación general.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Discursivo",
+      "expected_success": 0.65,
+      "bundle_id": "CO-LEN-10-2026-W31-el-sentido-de-los-signos-001-MASTERY-bundle",
+      "periodo": 31,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-10-2026-W31-el-sentido-de-los-signos-001-MASTERY-bundle-v10",
+      "statement": "La secretaría pasa de \"Prohibido parquear en este tramo\" a \"Gracias por no parquear: entre todos cuidamos la ciudad\". ¿Qué se infiere del cambio de acto de habla?",
+      "context": "Avisos de la Secretaría de Movilidad de Cali en la versión antigua y en la reimpresión reciente.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que la secretaría ya no tiene autoridad para sancionar a quienes incumplan la norma.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Un cambio de estilo no elimina la norma ni su capacidad sancionadora; el aviso sigue cumpliendo una función regulatoria."
+        },
+        {
+          "letter": "B",
+          "text": "Que la institución busca mejorar su imagen institucional apelando a la cuentas del ciudadano.",
+          "is_correct": true,
+          "feedback": "Correcto. El enunciado cooperativo usa una estrategia de alineamiento; el fin pragmático sigue siendo el de alinear la conducta, pero el camino es la persuasión amable."
+        },
+        {
+          "letter": "C",
+          "text": "Que el aviso deja de ser normativo y pasa a ser únicamente informativo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El nuevo texto sigue pidiendo una conducta concreta; cambió la forma de pedirla, no su carácter normativo."
+        },
+        {
+          "letter": "D",
+          "text": "Que la suavización del tono elimina por completo el poder disuasivo del mensaje.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La cortesía puede aumentar o disminuir la eficacia; no es válido suponer que un tono amable produce siempre un cambio neutro."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Elegir entre ordenar, informar y agradecer es una decisión del discurso que modifica la relación con el lector. Analizarla exige separar el contenido de la norma de la estrategia de Relationships usada para cumplirla.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Pragmatico",
+      "expected_success": 0.63,
+      "bundle_id": "CO-LEN-10-2026-W31-el-sentido-de-los-signos-001-MASTERY-bundle",
+      "periodo": 31,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-10-2026-W31-el-sentido-de-los-signos-001-MASTERY-bundle-v11",
+      "statement": "El informativo titula \"Cae el precio de la gasolina\", pero el cuerpo del texto aclara que el descenso fue de apenas el 1 % y que rigió un mes. ¿Cuál es el juicio más preciso?",
+      "context": "Televisivo local de Bogotá que publica una noticia sobre el precio de los combustibles.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El título es falso, por lo tanto la fuente no debe considerarse confiable en ningún dato.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Concluye a partir de un solo rasgo y aplica una sanción absoluta; el problema del título no anula toda la información del texto."
+        },
+        {
+          "letter": "B",
+          "text": "El título es aceptable, porque la caída del precio sí ocurrió y por eso no hay problema informativo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La existen cia del hecho no absuelve la omisión de datos que cambian la Perception del lector sobre su magnitud y duración."
+        },
+        {
+          "letter": "C",
+          "text": "El título omite datos esenciales y puede inducir a error, aunque el hecho de fondo sea verificable.",
+          "is_correct": true,
+          "feedback": "Correcto. Un titular es responsable cuando respeta la proporción y el tiempo del dato; aquí la magnitud del descenso queda hidden por la formulación."
+        },
+        {
+          "letter": "D",
+          "text": "El único defecto es gramatical, porque debería haberse escrito \"Cayó el precio de la gasolina\".",
+          "is_correct": false,
+          "feedback": "Incorrecto. Cambiar el verbo no resuelve la omisión: el problema es de proporción informativa, no de Concordancia verbal."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Evaluar un titular exige contrastar el enunciado destacado con el cuerpo del texto. La diferencia entre el dato destacado y el dato real mide la responsabilidad informativa del medio.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Evaluativo",
+      "expected_success": 0.62,
+      "bundle_id": "CO-LEN-10-2026-W31-el-sentido-de-los-signos-001-MASTERY-bundle",
+      "periodo": 31,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-10-2026-W31-el-sentido-de-los-signos-001-MASTERY-bundle-v12",
+      "statement": "Los estudiantes notan que el himno nacional y una canción del género que escuchan en sus casas construyen a la misma comunidad (nación, territorio, memoria) con recursos de genres distintos. ¿Qué inferenciacritical la sostiene mejor?",
+      "context": "Taller de lectura de 10.° en Envigado, donde el grupo analiza el himno nacional y una canción de rock de su contexto local.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El himno nacional pertenece al género del rock, porque comparte la estructura de \"canto a\".",
+          "is_correct": false,
+          "feedback": "Incorrecto. Compartir una fórmula sintáctica no hace que un texto pertenezca a otro género; la diferencia de género está en quién enuncia y con qué intención."
+        },
+        {
+          "letter": "B",
+          "text": "La canción es himno nacional, porque repite el procedimiento de enlistar lugares y fechas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El procedimiento es un rasgo de estilo y puede estar al servicio de headphone o de un texto patrio; no borra la función de cada uno."
+        },
+        {
+          "letter": "C",
+          "text": "Ambos textos carecen de sentido social, porque solo uno de los dos fue producido por el Estado.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La uncontestación oficial no elimina el sentido social de un texto; los dos construyen Imagined communities con recursos propios."
+        },
+        {
+          "letter": "D",
+          "text": "Los dos textos se apropian de recursos del otro género para construir una comunidad, y por eso la relación entre ellos es intertextual.",
+          "is_correct": true,
+          "feedback": "Correcto. La competencia crítico-intertextual reconoce que un texto puede tomar formas de otro y transformarlas; ahí está la relación profunda y no la simple coincidencia de tema."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "La lectura intertextual permite ver cómo un texto se apoya, copia o transforma a otro para decir algo propio. Reconocer esos puentes habilita explicaciones más profundas de dos textos a la vez.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Critico-Intertextual",
+      "expected_success": 0.6,
+      "bundle_id": "CO-LEN-10-2026-W31-el-sentido-de-los-signos-001-MASTERY-bundle",
+      "periodo": 31,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 10,
+      "country": "co"
+    }
+  ]
+}
