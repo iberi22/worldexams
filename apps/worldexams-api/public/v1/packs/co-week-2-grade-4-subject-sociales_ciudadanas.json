@@ -1,0 +1,379 @@
+{
+  "metadata": {
+    "grade": 4,
+    "subject": "sociales_ciudadanas",
+    "country": "co",
+    "pack_id": "co-week-2-grade-4-subject-sociales_ciudadanas",
+    "generated_at": "2026-09-30T23:53:03.767Z"
+  },
+  "questions": [
+    {
+      "id": "CO-SOC-4-2026-W02-el-barrio-y-la-comunidad-001-MASTERY-bundle-v1",
+      "statement": "Según la descripción, ¿dónde está la panadería respecto de la casa de la señora Olga?",
+      "context": "La señora Olga vive en el barrio La Esmeralda de Barranquilla. Su casa queda al lado de la panadería y a dos cuadras del parque.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Al lado de la casa de la señora Olga",
+          "is_correct": true,
+          "feedback": "Correcto. La palabra al lado indica que la panadería queda justo al costado de la casa, es decir, en la misma cuadra y muy cerca."
+        },
+        {
+          "letter": "B",
+          "text": "En otra ciudad",
+          "is_correct": false,
+          "feedback": "Incorrecto. Toda la descripción habla de un solo lugar, el barrio La Esmeralda: si la panadería estuviera en otra ciudad, la señora Olga no podría ir caminando hasta allá."
+        },
+        {
+          "letter": "C",
+          "text": "Dentro del parque",
+          "is_correct": false,
+          "feedback": "Incorrecto. El parque está a dos cuadras de la casa: es un lugar aparte y cercano, pero no es el mismo lugar que la panadería."
+        },
+        {
+          "letter": "D",
+          "text": "Lejos del barrio, en otro municipio",
+          "is_correct": false,
+          "feedback": "Incorrecto. Lejos y en otro municipio se contradice con la descripción, porque la panadería aparece como un sitio del propio barrio al que se llega caminando."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Cuando contamos dónde está algo usamos referencias espaciales: al lado, cerca, a dos cuadras, frente o detrás. Entenderlas ayuda a moverse por la ciudad sin perderse y también a explicarles a otros el camino. En el caso de la señora Olga, la panadería comparte pared con su casa, por eso se dice que está al lado.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Interpretación de relaciones espaciales",
+      "expected_success": 0.9,
+      "bundle_id": "CO-SOC-4-2026-W02-el-barrio-y-la-comunidad-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales_ciudadanas",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-4-2026-W02-el-barrio-y-la-comunidad-001-MASTERY-bundle-v2",
+      "statement": "¿Qué es la comunidad de un barrio?",
+      "context": "En el barrio La Esmeralda hay una asociación de vecinos que se reúne una vez al mes para hablar de los problemas del barrio.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El grupo de personas que viven cerca y se ayudan para resolver los asuntos del barrio",
+          "is_correct": true,
+          "feedback": "Correcto. La comunidad son las personas que viven cerca y se apoyan, y por eso pueden organizarse para tener un parque limpio o una escuela segura."
+        },
+        {
+          "letter": "B",
+          "text": "Los carros que pasan por la calle",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los carros son objetos que transitan, no personas: la comunidad está formada por gente que vive, conversa y se organiza en el barrio."
+        },
+        {
+          "letter": "C",
+          "text": "Los árboles del parque",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los árboles son parte del paisaje y son valiosos, pero una comunidad necesita personas que decidan qué se hace, porque son ellas las que resuelven los problemas."
+        },
+        {
+          "letter": "D",
+          "text": "Solamente los edificios del centro del barrio",
+          "is_correct": false,
+          "feedback": "Incorrecto. Limitar la comunidad a los edificios deja afuera a las familias que viven en casas y apartamentos: la comunidad incluye a todos los que viven allí."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La comunidad es el conjunto de personas que viven en un mismo lugar y comparten tareas, problemas y normas del barrio. En Colombia las comunidades son muy organizadas: hay juntas de vecinos, comités de barrio y asociaciones que limpian las calles, cuidan los parques y hablan con la alcaldía. Pertenecer a una comunidad significa tener voz y también responsabilidades.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Ciudadano",
+      "expected_success": 0.9,
+      "bundle_id": "CO-SOC-4-2026-W02-el-barrio-y-la-comunidad-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales_ciudadanas",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-4-2026-W02-el-barrio-y-la-comunidad-001-MASTERY-bundle-v3",
+      "statement": "Si la señora Olga va caminando al colegio, ¿qué ruta debe seguir?",
+      "context": "En el barrio La Esmeralda, la panadería queda al lado de la casa de la señora Olga, el parque está a dos cuadras y el colegio, a cuatro cuadras siguiendo la misma calle.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Salir de su casa, pasar por la panadería, pasar por el parque y llegar al colegio",
+          "is_correct": true,
+          "feedback": "Correcto. La ruta respeta el orden de los lugares del enunciado: primero la panadería, después el parque y al final el colegio, que queda más lejos."
+        },
+        {
+          "letter": "B",
+          "text": "Salir de su casa y caminar cuatro cuadras sin pasar por ningún lugar",
+          "is_correct": false,
+          "feedback": "Incorrecto. Contaste bien las cuatro cuadras, pero el enunciado ubica otros dos lugares en el camino: ignorarlos te hace perder las referencias de la ruta."
+        },
+        {
+          "letter": "C",
+          "text": "Pasar por la panadería, saltarse el parque y llegar directo al colegio",
+          "is_correct": false,
+          "feedback": "Incorrecto. El parque está a dos cuadras y no hay ninguna razón para saltárselo: dejarlo de lado significa no respetar la descripción del recorrido."
+        },
+        {
+          "letter": "D",
+          "text": "El colegio está al lado de la casa, como la panadería",
+          "is_correct": false,
+          "feedback": "Incorrecto. Confundiste dos distancias: la panadería está al lado, o sea muy cerca, mientras que el colegio está a cuatro cuadras, mucho más lejos."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Para describir un recorrido hay que ordenar los lugares según lo cerca que están del punto de partida. La panadería comparte cuadra con la casa, el parque está a dos cuadras y el colegio a cuatro. Con esas referencias cualquier persona del barrio puede repetir el camino y llegar sin equivocarse.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Interpretación de relaciones espaciales",
+      "expected_success": 0.8,
+      "bundle_id": "CO-SOC-4-2026-W02-el-barrio-y-la-comunidad-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales_ciudadanas",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-4-2026-W02-el-barrio-y-la-comunidad-001-MASTERY-bundle-v4",
+      "statement": "¿Cuánto dinero falta para completar la meta de los $30.000?",
+      "context": "En Pereira, los vecinos del barrio La Julita quieren pintar el mural de la entrada y fijaron una meta de $30.000. La señora Marta puso $8.000, don Emilio $7.000 y el resto de los vecinos $10.000.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$5.000, porque $30.000 - $25.000 = $5.000",
+          "is_correct": true,
+          "feedback": "Correcto. Primero se suman los aportes: $8.000 + $7.000 + $10.000 = $25.000, y luego a la meta se le resta: $30.000 - $25.000 = $5.000."
+        },
+        {
+          "letter": "B",
+          "text": "$15.000, porque $8.000 + $7.000 = $15.000 y ese es el total reunido",
+          "is_correct": false,
+          "feedback": "Incorrecto. Solo sumaste dos aportes: también está el aporte de $10.000, así que el total real es $25.000 y lo que falta son $5.000."
+        },
+        {
+          "letter": "C",
+          "text": "$12.000, porque $30.000 - $18.000 = $12.000",
+          "is_correct": false,
+          "feedback": "Incorrecto. Dejaste por fuera el aporte de $7.000 de don Emilio: por eso tu cuenta queda $7.000 más alta de lo que es en realidad."
+        },
+        {
+          "letter": "D",
+          "text": "Cero pesos, porque $25.000 ya cumple la meta de $30.000",
+          "is_correct": false,
+          "feedback": "Incorrecto. $25.000 no completa una meta de $30.000: todavía falta reunir $5.000 entre los vecinos para poder pintar el mural."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Cuando una comunidad reúne dinero, primero suma lo que aporta cada persona y después compara ese total con la meta que se fijó. En este caso los aportes dan $25.000 y la meta era de $30.000, así que falta una cantidad definida y fácil de calcular. Saber hacer esta cuenta ayuda a organizar rifas, cuotas y demás tareas de los barrios.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Economía y recursos naturales",
+      "expected_success": 0.8,
+      "bundle_id": "CO-SOC-4-2026-W02-el-barrio-y-la-comunidad-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales_ciudadanas",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-4-2026-W02-el-barrio-y-la-comunidad-001-MASTERY-bundle-v5",
+      "statement": "¿Qué pueden hacer los dos grupos para resolver bien este desacuerdo?",
+      "context": "En el barrio La Macarena de Barranquilla, unos vecinos quieren poner un parqueadero frente a sus casas. Otros se oponen porque en ese espacio los niños del barrio juegan al final de la tarde.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Reunirse a escuchar los argumentos de cada grupo y buscar un lugar para el parqueadero que no afecte el juego",
+          "is_correct": true,
+          "feedback": "Correcto. Un desacuerdo se resuelve con diálogo: escuchar a los dos lados y buscar una ubicación que sirva a ambos es la vía de la convivencia pacífica."
+        },
+        {
+          "letter": "B",
+          "text": "Los vecinos que están en contra deben ganar por mayoría, porque su opinión cuenta más",
+          "is_correct": false,
+          "feedback": "Incorrecto. No hay opiniones que valgan más que otras: ganar por mayoría deja fuera a los niños, y la convivencia exige que todos los grupos participen."
+        },
+        {
+          "letter": "C",
+          "text": "Mejor no hablar del tema hasta que una de las dos partes se canse de insistir",
+          "is_correct": false,
+          "feedback": "Incorrecto. Guardarse el tema no resuelve nada: mientras nadie habla, el desacuerdo sigue creciendo y el espacio sigue en disputa."
+        },
+        {
+          "letter": "D",
+          "text": "Que la administración del barrio decida por fuera, sin consultar a los vecinos",
+          "is_correct": false,
+          "feedback": "Incorrecto. Decidir sin consultar quita la participación: la comunidad pierde la oportunidad de construir la solución que puede cumplir."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Cuando dos grupos quieren cosas diferentes, la convivencia pacífica pide buscar una solución que respete a las dos partes. Escuchar los argumentos de cada uno es el primer paso, porque casi siempre existe un lugar o un horario donde las dos necesidades caben. La paz no es que nadie pida nada, sino que todos puedan expresar lo que necesitan.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Convivencia y paz",
+      "expected_success": 0.7,
+      "bundle_id": "CO-SOC-4-2026-W02-el-barrio-y-la-comunidad-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales_ciudadanas",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-4-2026-W02-el-barrio-y-la-comunidad-001-MASTERY-bundle-v6",
+      "statement": "¿Qué muestra mejor por qué ese barrio es una comunidad fuerte?",
+      "context": "En el barrio Las Delicias de Barranquilla hay personas que llegaron de muchas partes de Colombia: de Bogotá, de Pasto, de Barranquilla y de municipios pequeños.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que las diferencias se usan para aprender unos de otros y no para excluir a nadie",
+          "is_correct": true,
+          "feedback": "Correcto. Las diferencias enriquecen la comunidad: cuando se aprende de las culturas que llegan, el barrio se vuelve más rico en vez de dividido."
+        },
+        {
+          "letter": "B",
+          "text": "Que todos deben pensar igual para que la comunidad pueda funcionar bien",
+          "is_correct": false,
+          "feedback": "Incorrecto. Una comunidad no exige pensar igual: acepta la diversidad porque justamente las diferencias aportan ideas nuevas y formas distintas de ver las cosas."
+        },
+        {
+          "letter": "C",
+          "text": "Que las diferencias producen problemas y por eso conviene esconderlas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esconder a quien es diferente aumenta la desigualdad: lo que divide no es la diferencia en sí, sino el rechazo hacia quien la tiene."
+        },
+        {
+          "letter": "D",
+          "text": "Que solo importa el lugar donde nació cada persona",
+          "is_correct": false,
+          "feedback": "Incorrecto. El origen no define el valor de nadie: en el barrio todos son vecinos con los mismos derechos y las mismas responsabilidades."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Colombia es un país muy diverso y los barrios reciben gente de todas las regiones con sus comidas, festividades y formas de hablar. Esa riqueza cultural hace más fuerte a una comunidad porque trae nuevas ideas y tradiciones. Lo que daña esa convivencia no es la diferencia entre las personas, sino dejar de reconocerlas como parte del mismo conjunto.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Pluralidad, identidad y desigualdad",
+      "expected_success": 0.7,
+      "bundle_id": "CO-SOC-4-2026-W02-el-barrio-y-la-comunidad-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales_ciudadanas",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-4-2026-W02-el-barrio-y-la-comunidad-001-MASTERY-bundle-v7",
+      "statement": "¿Qué acción es la más cívica para resolver esa situación?",
+      "context": "En el barrio San Javier de Medellín, un almacén puso una caneca grande en la acera para cargar la mercadería. Los estudiantes del colegio tienen que pasar por debajo para no chocar.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Los vecinos hablan con el dueño del almacén, le explican el problema y le proponen una solución que deje libre la acera",
+          "is_correct": true,
+          "feedback": "Correcto. Un ciudadano conversa con quien ocupa el espacio común y propone salidas, porque así resuelve el problema respetando a todos los vecinos."
+        },
+        {
+          "letter": "B",
+          "text": "Los vecinos escriben una queja en una hoja de papel y no se la entregan a nadie",
+          "is_correct": false,
+          "feedback": "Incorrecto. Escribir una queja sin entregarla equivale a no actuar: si nadie la recibe, la acera sigue tapada y el peligro queda igual."
+        },
+        {
+          "letter": "C",
+          "text": "Los estudiantes saltan la caneca todos los días hasta que se acostumbren",
+          "is_correct": false,
+          "feedback": "Incorrecto. Saltar la caneca quita el estorbo por un momento, pero no explica el problema ni cambia la situación para el resto del barrio."
+        },
+        {
+          "letter": "D",
+          "text": "Los vecinos quitan la caneca de noche sin hablar con el dueño del almacén",
+          "is_correct": false,
+          "feedback": "Incorrecto. Quitar el objeto sin avisar resuelve un día, pero deja un reclamo: después nadie se atreve a proponer acuerdos en esa calle."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Participar como ciudadano no es solo marchar ni votar una vez: también es dialogar con los demás para cuidar los espacios que todos usamos. La acera es un bien común, así que el problema se resuelve hablando con quien la ocupa, no escondiendo acciones. Un buen vecino propone y explica en vez de proponer y actuar a escondidas.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Ciudadano",
+      "expected_success": 0.6,
+      "bundle_id": "CO-SOC-4-2026-W02-el-barrio-y-la-comunidad-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales_ciudadanas",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-4-2026-W02-el-barrio-y-la-comunidad-001-MASTERY-bundle-v8",
+      "statement": "¿Cuál de estas formas de actuar respeta mejor a los dos grupos y construye una convivencia pacífica?",
+      "context": "En el barrio La Estrella de Cúcuta, unos jóvenes quieren recuperar una cancha que lleva años abandonada. Los vecinos de la cuadra de al lado quieren que allí se construya una biblioteca.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Reunir a los dos grupos, escuchar qué necesita cada uno y buscar un acuerdo que sirva para ambos",
+          "is_correct": true,
+          "feedback": "Correcto. Escuchar y negociar un acuerdo cumple con el principio de que toda decisión que afecta a la comunidad debe consultarla."
+        },
+        {
+          "letter": "B",
+          "text": "Construir la cancha primero y después, si sobra espacio, poner la biblioteca",
+          "is_correct": false,
+          "feedback": "Incorrecto. Decidir primero y consultar después cambia el orden justo: la comunidad debe participar antes de que la obra se empiece."
+        },
+        {
+          "letter": "C",
+          "text": "Que los jóvenes cedan sin preguntar, porque son menos organizados que los vecinos",
+          "is_correct": false,
+          "feedback": "Incorrecto. Cedir sin preguntar tampoco es un acuerdo: en ese caso se está quitando la voz a un grupo de la comunidad de la manera más fácil."
+        },
+        {
+          "letter": "D",
+          "text": "Dejar la cancha y la biblioteca sin construir hasta que el conflicto se olvide",
+          "is_correct": false,
+          "feedback": "Incorrecto. Dejar todo sin hacer mantiene el abandono del espacio y agrava la convivencia, porque no resuelve el problema de fondo."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "En los barrios hay decisiones que afectan a varias cuadras, y por eso la comunidad tiene derecho a opinar sobre ellas. Una decisión pacífica es la que reconoce a los afectados y se toma escuchando, no imponiendo. Cuando las dos partes participan en buscar la solución, el resultado además es más fácil de sostener en el tiempo porque todos se sienten parte.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Reflexión ética y política",
+      "expected_success": 0.6,
+      "bundle_id": "CO-SOC-4-2026-W02-el-barrio-y-la-comunidad-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales_ciudadanas",
+      "grade": 4,
+      "country": "co"
+    }
+  ]
+}

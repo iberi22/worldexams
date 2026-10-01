@@ -1,0 +1,379 @@
+{
+  "metadata": {
+    "grade": 4,
+    "subject": "sociales_ciudadanas",
+    "country": "co",
+    "pack_id": "co-week-5-grade-4-subject-sociales_ciudadanas",
+    "generated_at": "2026-09-30T23:53:03.769Z"
+  },
+  "questions": [
+    {
+      "id": "CO-SOC-4-2026-W05-el-cuidado-del-entorno-001-MASTERY-bundle-v1",
+      "statement": "¿Qué son los recursos naturales?",
+      "context": "En el barrio Los Alpes de Medellín hay un parque con árboles, un río cerca y muchas casas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Son las partes de la naturaleza que nos sirven, como el agua, el aire, los árboles y el suelo",
+          "is_correct": true,
+          "feedback": "Correcto. Los recursos naturales son los elementos de la naturaleza que usamos para vivir, y por eso tenemos la obligación de cuidarlos."
+        },
+        {
+          "letter": "B",
+          "text": "Son solamente los árboles del parque",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los árboles son un recurso natural, pero hay muchos más: el agua, el aire, el suelo y los animales también lo son."
+        },
+        {
+          "letter": "C",
+          "text": "Son las casas que hay en el barrio",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las casas las construyen las personas, así que no son recursos naturales: un recurso natural viene de la naturaleza."
+        },
+        {
+          "letter": "D",
+          "text": "Son los carros que pasan por la calle",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los carros son objetos fabricados por el hombre: los recursos naturales son solo los que vienen de la naturaleza."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Los recursos naturales son los elementos de la naturaleza que los seres humanos usamos para vivir y para producir. Entre ellos están el agua, el aire, el suelo, los árboles, las rocas y los animales. Como no se fabrican en una fábrica, hay que aprovecharlos con cuidado: cuando se terminan o se dañan, tarda mucho en recuperarse.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Economía y recursos naturales",
+      "expected_success": 0.9,
+      "bundle_id": "CO-SOC-4-2026-W05-el-cuidado-del-entorno-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales_ciudadanas",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-4-2026-W05-el-cuidado-del-entorno-001-MASTERY-bundle-v2",
+      "statement": "¿Qué pasa si en una región se gasta más agua de la que puede llegar?",
+      "context": "En Cúcuta hace mucho calor y en los ríos de la región llega poca agua durante varios meses.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que los ríos quedan con menos agua y eso afecta a las personas, los animales y las plantas",
+          "is_correct": true,
+          "feedback": "Correcto. Cuando se gasta más agua de la que entra, los ríos bajan de nivel, y eso afecta a todos los seres vivos que dependen de ese agua."
+        },
+        {
+          "letter": "B",
+          "text": "Que el agua se repone sola muy rápido",
+          "is_correct": false,
+          "feedback": "Incorrecto. El agua no se repone al instante: los ríos se llenan con la lluvia, y por eso usar más de lo que llega agota esa reserva."
+        },
+        {
+          "letter": "C",
+          "text": "Que solo se ven afectadas las plantas",
+          "is_correct": false,
+          "feedback": "Incorrecto. No afecta solo a las plantas: las personas y los animales también necesitan agua, así que la escasez los perjudica a todos por igual."
+        },
+        {
+          "letter": "D",
+          "text": "Que no cambia nada, porque el agua nunca se acaba",
+          "is_correct": false,
+          "feedback": "Incorrecto. El agua sí se acaba si se usa más de la que hay: por eso existen turnos y recomendaciones para cuidar lo que queda."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El agua es un recurso que puede volver a su origen con la lluvia, pero no se repone tan rápido como la usamos. En zonas secas como Cúcuta, si se gasta más de lo que llega, el nivel de los ríos baja y se seca. Cuando eso ocurre no solo se resiente en el verano: los animales pierden su fuente de vida y las familias tienen menos agua para beber, para regar y para limpiar.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Economía y recursos naturales",
+      "expected_success": 0.9,
+      "bundle_id": "CO-SOC-4-2026-W05-el-cuidado-del-entorno-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales_ciudadanas",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-4-2026-W05-el-cuidado-del-entorno-001-MASTERY-bundle-v3",
+      "statement": "¿Qué de estas acciones cuida mejor el entorno de esa cuadra?",
+      "context": "En Cartagena una lluvia fuerte dejó los canales de la calle llenos de basura y derribó un árbol de la acera.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Recoger la basura, sembrar otro árbol y avisar al municipio para que corte el árbol con seguridad",
+          "is_correct": true,
+          "feedback": "Correcto. Las tres acciones juntas resuelven el problema: limpiar, replantar y pedir ayuda oficial evita que alguien se lastime."
+        },
+        {
+          "letter": "B",
+          "text": "Quemar la basura ahí mismo",
+          "is_correct": false,
+          "feedback": "Incorrecto. Quemar la basura daña lo que respira el aire de la cuadra, y además produce humo peligroso para la salud."
+        },
+        {
+          "letter": "C",
+          "text": "Dejar la basura ahí, porque la lluvia se la va a llevar",
+          "is_correct": false,
+          "feedback": "Incorrecto. La basura no se desaparece sola: el agua la mueve y la lleva al río, donde termina contaminando más lugares."
+        },
+        {
+          "letter": "D",
+          "text": "Jalar el árbol hacia la acera con las manos de los niños",
+          "is_correct": false,
+          "feedback": "Incorrecto. Jalar un árbol sin herramientas puede lastimar a los niños y daña las raíces, por eso esa tarea la hacen personas capacitadas."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Cuando una lluvia deja un desastre en una calle, hay tareas para todos: los vecinos pueden recoger la basura y los niños pueden sembrar un árbol nuevo. Lo peligroso, como cortar un árbol caído, corresponde a las entidades del municipio que tienen las herramientas y el conocimiento. Cuidar el entorno es hacer la parte que le toca a cada uno sin poner en riesgo la vida de nadie.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Economía y recursos naturales",
+      "expected_success": 0.8,
+      "bundle_id": "CO-SOC-4-2026-W05-el-cuidado-del-entorno-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales_ciudadanas",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-4-2026-W05-el-cuidado-del-entorno-001-MASTERY-bundle-v4",
+      "statement": "Si los 120 estudiantes llevan al colegio una botella reutilizable y la usan todos los días, ¿qué resultado se espera?",
+      "context": "En un colegio de Bogotá hay 120 estudiantes de cuarto grado. El colegio gasta cerca de 1.000 botellas de plástico al año para el agua de los niños.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que se usen menos botellas de plástico, porque cada botella reutilizable evita gastar una de plástico",
+          "is_correct": true,
+          "feedback": "Correcto. Cada botella reutilizable que se usa es una botella de plástico que no se gasta, y por eso baja la basura que va al relleno sanitario."
+        },
+        {
+          "letter": "B",
+          "text": "Que se usen igual las 1.000 botellas, pero de otro color",
+          "is_correct": false,
+          "feedback": "Incorrecto. Cambiar el color no ahorra nada: lo que reduce la basura es justamente no gastar la botella de plástico de un solo uso."
+        },
+        {
+          "letter": "C",
+          "text": "Que el colegio gaste menos en otras cosas",
+          "is_correct": false,
+          "feedback": "Incorrecto. La pregunta es sobre las botellas: si se usan las reutilizables, dejan de gastarse las de plástico, no otras cosas del presupuesto."
+        },
+        {
+          "letter": "D",
+          "text": "Que las botellas desaparecen",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las botellas no desaparecen: se dejan de gastar. Lo que baja es la cantidad de basura que llega al relleno sanitario."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Usar una botella reutilizable es una forma sencilla de cuidar el entorno. Cada botella de plástico que no se gasta es una botella que no llega al relleno sanitario ni termina en un río. En los colegios esta práctica rinde mucho porque son muchas las personas que beben agua todos los días, así que un pequeño cambio se convierte en una cantidad grande de basura evitada.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Ciudadano",
+      "expected_success": 0.8,
+      "bundle_id": "CO-SOC-4-2026-W05-el-cuidado-del-entorno-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales_ciudadanas",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-4-2026-W05-el-cuidado-del-entorno-001-MASTERY-bundle-v5",
+      "statement": "¿Qué muestra mejor por qué ese río es un bien común?",
+      "context": "Por el barrio Comuna 13 de Medellín pasa un río que usan los vecinos y que llega hasta otras ciudades más abajo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que no pertenece a una sola persona, así que cuidarlo es responsabilidad de todos los que lo usan",
+          "is_correct": true,
+          "feedback": "Correcto. Un bien común pertenece a toda la comunidad, por eso el cuidado del río se reparte entre todos y no puede quedar en unas pocas manos."
+        },
+        {
+          "letter": "B",
+          "text": "Que pertenece a la persona que tiene la casa más grande de la cuadra",
+          "is_correct": false,
+          "feedback": "Incorrecto. El tamaño de una casa no da derechos sobre un río: el agua pertenece a todos los que viven en la cuenca, no a un dueño único."
+        },
+        {
+          "letter": "C",
+          "text": "Que solo lo usa la familia que vive más cerca del río",
+          "is_correct": false,
+          "feedback": "Incorrecto. La cercanía no convierte a nadie en dueño: el río sirve a muchas familias y por eso todos lo necesitan en buen estado."
+        },
+        {
+          "letter": "D",
+          "text": "Que no le importa a nadie lo que pase con él",
+          "is_correct": false,
+          "feedback": "Incorrecto. Que nadie se preocupe es justamente el problema: si el río se daña, pierden agua y aire limpio todas las familias de abajo."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Un bien común es algo que pertenece a la comunidad y que se usa entre todos, como un parque, la plaza o un río. Por esa razón el cuidado también se comparte: si una familia tira basura al río, la contaminación aparece más abajo y la paga otra familia. Reconocer que algo es común es entender que cuidarlo le conviene a todos, no solo a quien lo tiene cerca.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Convivencia y paz",
+      "expected_success": 0.7,
+      "bundle_id": "CO-SOC-4-2026-W05-el-cuidado-del-entorno-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales_ciudadanas",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-4-2026-W05-el-cuidado-del-entorno-001-MASTERY-bundle-v6",
+      "statement": "¿Por qué es un error dejar la bolsa en la calle si \"total la recoge alguien\"?",
+      "context": "En el barrio San Javier de Medellín, algunas familias dejan la bolsa de basura tirada en la calle, en un rincón que no está autorizado y días antes de que pase el camión de la basura.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque pasar la basura a otro es traspasar el problema, y al final termina en el río o en el relleno sanitario",
+          "is_correct": true,
+          "feedback": "Correcto. Cambiar de lugar la basura no la desaparece: la basura siempre acaba en algún sitio, y ese lugar le paga el costo a toda la ciudad."
+        },
+        {
+          "letter": "B",
+          "text": "Porque la basura no existe",
+          "is_correct": false,
+          "feedback": "Incorrecto. La basura sí existe y se produce todos los días: lo que se puede cambiar es si se recoge bien o si se deja tirada en la calle."
+        },
+        {
+          "letter": "C",
+          "text": "Porque el concepto de basurero no es real",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los contenedores y los camiones de la basura sí existen y funcionan: lo que falla es que las familias dejen la bolsa donde no se recoge, no que el relleno sanitario reciba la basura."
+        },
+        {
+          "letter": "D",
+          "text": "Porque el camión de la basura es muy viejo",
+          "is_correct": false,
+          "feedback": "Incorrecto. La edad del vehículo no tiene nada que ver: el problema real es dejar la basura en la acera en un día que no pasa el camión."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Decir \"total la recoge alguien\" describe una forma de pensar que deja el problema en manos de otros. El problema es que la basura siempre termina en algún lugar: si se deja en la calle, la lluvia la lleva al río, y si se lleva al relleno sanitario, ocupa espacio que sirve para todo. Cuidar el entorno empieza por reconocer cada uno lo que le toca, en vez de esperar que otro resuelva.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Reflexión ética y política",
+      "expected_success": 0.7,
+      "bundle_id": "CO-SOC-4-2026-W05-el-cuidado-del-entorno-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales_ciudadanas",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-4-2026-W05-el-cuidado-del-entorno-001-MASTERY-bundle-v7",
+      "statement": "¿Qué respuesta muestra mejor el cuidado del entorno?",
+      "context": "En una escuela de Pereira hay una campaña para ahorrar agua, pero algunos compañeros dicen que de nada sirve porque el agua es de todos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Cada familia hace un cambio pequeño pero constante, porque muchos cambios juntos sí cambian el consumo",
+          "is_correct": true,
+          "feedback": "Correcto. No hay un cambio solo que salve el agua, pero sí el ahorro de muchas familias: por eso cada acción pequeña cuenta y se vuelve grande."
+        },
+        {
+          "letter": "B",
+          "text": "Nada se puede hacer, porque el agua es un recurso de todos",
+          "is_correct": false,
+          "feedback": "Incorrecto. Que el agua sea de todos significa que todos pueden cuidarla: ese mismo argumento justifica el ahorro y no la indiferencia."
+        },
+        {
+          "letter": "C",
+          "text": "Solo el gobierno puede cambiar la situación con el agua",
+          "is_correct": false,
+          "feedback": "Incorrecto. El gobierno ayuda con obras grandes, pero el ahorro diario depende de cada casa: dejar de hacer algo en casa no resuelve el problema."
+        },
+        {
+          "letter": "D",
+          "text": "Esperar a que otras familias cambien primero",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esperar a que otros cambien no sirve porque nadie empieza: el ahorro empieza con la familia que decide hacerlo en su propia casa."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El cuidado del entorno se construye con muchas acciones pequeñas hechas todos los días. Si cada familia en Pereira cierra el grifo al cepillarse los dientes, el total de agua que se ahorra en la ciudad es enorme. Nadie recupera un río entero con un solo acto, pero muchas familias que ahorran agua sí ayudan a que esos ríos se conserven.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Ciudadano",
+      "expected_success": 0.6,
+      "bundle_id": "CO-SOC-4-2026-W05-el-cuidado-del-entorno-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales_ciudadanas",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-4-2026-W05-el-cuidado-del-entorno-001-MASTERY-bundle-v8",
+      "statement": "¿Qué solución cuida mejor el agua de esa región?",
+      "context": "En una vereda de Boyacá el agua llega a las fincas por acequias abiertas y mucha se evapora antes de llegar a los cultivos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Llevar el agua por tubería hasta los cultivos, porque así se pierde menos por calor y por filtraciones",
+          "is_correct": true,
+          "feedback": "Correcto. La tubería reduce las dos pérdidas principales, el calor y la filtración, así que el mismo recurso llega a más familias."
+        },
+        {
+          "letter": "B",
+          "text": "Dejar las acequias como están, porque el agua se evapora de todas formas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Dejar la pérdida tal como está desperdicia el recurso: cambiar a tubería recupera parte de esa agua y ayuda a los cultivos en época seca."
+        },
+        {
+          "letter": "C",
+          "text": "Gastar más agua de la que llega para compensar",
+          "is_correct": false,
+          "feedback": "Incorrecto. Gastar más agrava el problema: si la pérdida por evaporación es alta, gastar más solo hace que falte agua para los demás usos."
+        },
+        {
+          "letter": "D",
+          "text": "Cambiar el nombre de la vereda para que el agua llegue mejor",
+          "is_correct": false,
+          "feedback": "Incorrecto. El nombre de un lugar no cambia la física del agua: lo que decide si el agua llega es cómo se construye el canal que la conduce."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "En zonas rurales como las veredas de Boyacá, parte del agua se pierde antes de llegar a los cultivos porque va por acequias abiertas. Llevarla por tubería es una solución de bajo costo que funciona bien y que reduce casi toda esa pérdida. Elegir cómo usar y cómo conducir el agua es una decisión económica: el recurso perdido es dinero y comida que no llegan a las familias.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Economía y recursos naturales",
+      "expected_success": 0.6,
+      "bundle_id": "CO-SOC-4-2026-W05-el-cuidado-del-entorno-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales_ciudadanas",
+      "grade": 4,
+      "country": "co"
+    }
+  ]
+}
