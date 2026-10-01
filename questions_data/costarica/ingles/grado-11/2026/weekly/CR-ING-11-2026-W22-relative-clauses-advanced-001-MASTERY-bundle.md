@@ -17,466 +17,509 @@ tier: "legacy"
 creador: "Jules-Agent"
 bundle_index: 1
 ---
-# MASTERY Bundle - Ingles: Relative Clauses Advanced (W22)
-**20 preguntas | Ingles | Curriculo de Ingles**
+# Bundle MASTERY: Relative Clauses Advanced - Grado 11
+
+Este bundle contiene 20 preguntas sobre **relative-clauses-advanced** para grado 11,
+alineadas con el programa de estudios del MEP Costa Rica para Bachillerato 2026.
 
 ---
+
 ## Question 1 [D3]
 **ID:** CR-ING-11-2026-W22-relative-clauses-advanced-001-MASTERY-bundle-v1
 **Bloom:** Remember
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**EJE:** Linguistic Competence
+**Expected_Success:** 0.85
+**Contexto:** A tour guide in San Jose shows tourists the central market.
 
 ### Enunciado
-What is the English word for: "A place where you live or stay on holiday."
+Which word completes: "The guide ___ knows every vendor in the market"?
 
 ### Opciones
-- [x] C) accommodation
-  <!-- feedback: Correct! 'Accommodation' is the word for a place where you live or stay when you are on holiday. -->
-- [ ] A) transportation
-  <!-- feedback: 'Transportation' is the way you move from one place to another (buses, trains, planes), not the place where you sleep. -->
-- [ ] B) entertainment
-  <!-- feedback: 'Entertainment' is the fun or activities you enjoy, not the building or room where you stay. -->
-- [ ] D) currency
-  <!-- feedback: 'Currency' is the money of a country, which has nothing to do with where you sleep. -->
+- [x] A) who
+  <!-- feedback: who is correct because it introduces a defining relative clause about a person, and the guide is the subject of knows. -->
+- [ ] B) which
+  <!-- feedback: which introduces defining clauses about things, not people, so it cannot refer to the guide here. -->
+- [ ] C) where
+  <!-- feedback: where introduces a relative clause of place, such as the market where they sell fruit, not a person. -->
+- [ ] D) whose
+  <!-- feedback: whose introduces possession, like the student whose father is a doctor, so it does not fit with knows. -->
 
 ### Explicacion Pedagogica
-The word 'accommodation' is used to describe a place where you live or stay on holiday. This is an important vocabulary word in English.
+A defining relative clause uses who for people, which for things, where for places and whose for possession. Here the antecedent is a person.
+
 ---
-## Question 2 [D4]
+
+## Question 2 [D3]
 **ID:** CR-ING-11-2026-W22-relative-clauses-advanced-001-MASTERY-bundle-v2
-**Bloom:** Remember
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
-
-### Enunciado
-What is the English word for: "A detailed plan or route of a journey."
-
-### Opciones
-- [x] C) itinerary
-  <!-- feedback: Correct! An 'itinerary' is a detailed plan of a journey, listing the places and times along the route. -->
-- [ ] A) baggage
-  <!-- feedback: 'Baggage' is the suitcases and bags you travel with, not the written plan of the trip. -->
-- [ ] B) destination
-  <!-- feedback: 'Destination' is the place you are going to, a single place, while an itinerary is the whole route plan. -->
-- [ ] D) passport
-  <!-- feedback: 'Passport' is the travel document that lets you cross a border, not the schedule of your trip. -->
-
-### Explicacion Pedagogica
-The word 'itinerary' is used to describe a detailed plan or route of a journey. This is an important vocabulary word in English.
----
-## Question 3 [D3]
-**ID:** CR-ING-11-2026-W22-relative-clauses-advanced-001-MASTERY-bundle-v3
 **Bloom:** Understand
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**EJE:** Linguistic Competence
+**Expected_Success:** 0.85
+**Contexto:** The resplendent quetzal is a national symbol of Costa Rica.
 
 ### Enunciado
-What is the English word for: "The place to which someone or something is going or being sent."
+Which sentence adds extra information about the quetzal with correct commas?
 
 ### Opciones
-- [x] B) destination
-  <!-- feedback: Correct! A 'destination' is the place someone or something is going or being sent to. -->
-- [ ] A) departure
-  <!-- feedback: 'Departure' is the action of leaving, the opposite end of the journey from the destination. -->
-- [ ] C) arrival
-  <!-- feedback: 'Arrival' is the act of getting there; the place you arrive at is the destination. -->
-- [ ] D) journey
-  <!-- feedback: 'Journey' is the whole trip from start to finish, not the place you are heading to. -->
+- [ ] A) The quetzal, which lives in Monteverde is easy to spot.
+  <!-- feedback: A non-defining clause needs a comma after which and before the main verb, so this version closes the clause wrongly. -->
+- [ ] B) The quetzal which lives in Monteverde, is easy to spot.
+  <!-- feedback: Without an opening comma this reads as a defining clause about the bird, and the extra comma after it is misplaced. -->
+- [x] C) The quetzal, which lives in Monteverde, is easy to spot.
+  <!-- feedback: This works because a non-defining clause about the bird is set off by a pair of commas around the whole clause. -->
+- [ ] D) The quetzal lives in Monteverde, which is easy to spot.
+  <!-- feedback: Here which has no clear antecedent, so the sentence wrongly suggests that spotting the bird is the easy part. -->
 
 ### Explicacion Pedagogica
-The word 'destination' is used to describe the place to which someone or something is going or being sent. This is an important vocabulary word in English.
+A non-defining clause adds extra facts about a noun the reader already knows and is separated from the main clause by two commas.
+
 ---
+
+## Question 3 [D4]
+**ID:** CR-ING-11-2026-W22-relative-clauses-advanced-001-MASTERY-bundle-v3
+**Bloom:** Apply
+**EJE:** Linguistic Competence
+**Expected_Success:** 0.85
+**Contexto:** At a high school in Heredia a science teacher retired after coaching the robotics team.
+
+### Enunciado
+Which option uses a relative pronoun correctly for the teacher in Heredia?
+
+### Opciones
+- [ ] A) The teacher, which explained the volcano project, retired in June.
+  <!-- feedback: which with paired commas would make the clause non-defining and also refers to a person, so it is wrong here. -->
+- [x] B) The teacher who explained the volcano project retired in June.
+  <!-- feedback: who is correct because it is the subject of explained in this defining clause about the teacher. -->
+- [ ] C) The teacher whom explained the volcano project retired in June.
+  <!-- feedback: whom is the object form and cannot act as the subject of explained, so this clause has no subject. -->
+- [ ] D) The teacher explained the volcano project retired in June.
+  <!-- feedback: Dropping the pronoun leaves no verb slot for explained, so the sentence breaks into two unlinked parts. -->
+
+### Explicacion Pedagogica
+Use who as the subject of a defining clause about a person. whom only works as an object, and which is reserved for things.
+
+---
+
 ## Question 4 [D4]
 **ID:** CR-ING-11-2026-W22-relative-clauses-advanced-001-MASTERY-bundle-v4
-**Bloom:** Understand
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Bloom:** Analyze
+**EJE:** Linguistic Competence
+**Expected_Success:** 0.85
+**Contexto:** Cartago students planted native trees along the Reventazon riverbank last spring.
 
 ### Enunciado
-What is the English word for: "Suitcases or other bags in which to pack personal belongings for traveling."
+In "The trees which line the riverbank were planted by students", what is the clause for?
 
 ### Opciones
-- [x] B) luggage
-  <!-- feedback: Correct! 'Luggage' means suitcases and bags in which you pack your belongings for a trip. -->
-- [ ] A) ticket
-  <!-- feedback: 'Ticket' is the paper that gives you the right to travel on a bus, train or plane, not the bag itself. -->
-- [ ] C) flight
-  <!-- feedback: 'Flight' is the journey by plane, or the plane itself; the bags are called luggage. -->
-- [ ] D) reservation
-  <!-- feedback: 'Reservation' is the booking you make for a seat or a room, not the bags you pack. -->
+- [ ] A) It names the kind of tree that was planted.
+  <!-- feedback: Naming the kind would need a noun such as native after trees, not a verb clause with its own object. -->
+- [ ] B) It explains why the students decided to plant more trees.
+  <!-- feedback: A reason clause would use because, while this clause has a subject and a verb, so it identifies instead of explaining. -->
+- [ ] C) It identifies the students who did the planting.
+  <!-- feedback: Students is the agent of were planted, but this clause describes the trees, not the people who planted them. -->
+- [x] D) It identifies which of the trees were planted.
+  <!-- feedback: This works because which restricts the noun trees to a specific subset: the ones standing on the riverbank. -->
 
 ### Explicacion Pedagogica
-The word 'luggage' is used to describe suitcases or other bags in which to pack personal belongings for traveling. This is an important vocabulary word in English.
+A defining relative clause narrows the noun that comes before it. Here the trees are limited to those standing on the riverbank.
+
 ---
+
 ## Question 5 [D5]
 **ID:** CR-ING-11-2026-W22-relative-clauses-advanced-001-MASTERY-bundle-v5
-**Bloom:** Understand
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Bloom:** Evaluate
+**EJE:** Linguistic Competence
+**Expected_Success:** 0.85
+**Contexto:** Professor Ramirez teaches geology at the University of Costa Rica.
 
 ### Enunciado
-What is the English word for: "A traveler on a public or private conveyance other than the driver, pilot, or crew."
+His office is on the third floor. Which option combines both facts correctly?
 
 ### Opciones
-- [x] C) passenger
-  <!-- feedback: Correct! A 'passenger' is a person who travels on a vehicle without being the driver, pilot or crew. -->
-- [ ] A) pedestrian
-  <!-- feedback: 'Pedestrian' is someone who travels on foot, so they are not on a conveyance at all. -->
-- [ ] B) commuter
-  <!-- feedback: 'Commuter' is someone who travels regularly between home and work; the definition here is any traveller on board, not only that daily case. -->
-- [ ] D) tourist
-  <!-- feedback: 'Tourist' is someone visiting for pleasure or sightseeing, but the definition covers every traveller on board, including commuters and residents. -->
+- [x] A) Professor Ramirez, whose office is on the third floor, teaches geology.
+  <!-- feedback: whose introduces possession inside a non-defining clause set off by two commas, which suits this extra detail. -->
+- [ ] B) Professor Ramirez teaches geology, who his office is on the third floor.
+  <!-- feedback: who his office has no verb after the pronoun, so the relative clause is broken and the information is misplaced. -->
+- [ ] C) Professor Ramirez, who his office is on the third floor, teaches geology.
+  <!-- feedback: A clause with who needs a subject and a verb, but who his office is not a full clause, so it cannot work. -->
+- [ ] D) Professor Ramirez, whom his office is on the third floor, teaches geology.
+  <!-- feedback: whom is the object form and would need an object after it, so it cannot stand in this subject position. -->
 
 ### Explicacion Pedagogica
-The word 'passenger' is used to describe a traveler on a public or private conveyance other than the driver, pilot, or crew. This is an important vocabulary word in English.
+To join two facts about a person, make the second fact a non-defining clause with whose followed by the possessed noun.
+
 ---
-## Question 6 [D6]
+
+## Question 6 [D5]
 **ID:** CR-ING-11-2026-W22-relative-clauses-advanced-001-MASTERY-bundle-v6
-**Bloom:** Understand
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
-
-### Enunciado
-What is the English word for: "The place at a port, airport, or frontier where officials check incoming goods, travelers, or luggage."
-
-### Opciones
-- [x] A) customs
-  <!-- feedback: Correct! 'Customs' is the office at a port, airport or border where officials check goods, travellers and luggage. -->
-- [ ] B) security
-  <!-- feedback: 'Security' is the staff who control safety and boarding inside the airport; it does not check the goods you bring in. -->
-- [ ] C) terminal
-  <!-- feedback: 'Terminal' is the whole building where passengers wait, eat and catch their flights. -->
-- [ ] D) gate
-  <!-- feedback: 'Gate' is the particular door you board through, not the place where officials inspect your luggage. -->
-
-### Explicacion Pedagogica
-The word 'customs' is used to describe the place at a port, airport, or frontier where officials check incoming goods, travelers, or luggage. This is an important vocabulary word in English.
----
-## Question 7 [D5]
-**ID:** CR-ING-11-2026-W22-relative-clauses-advanced-001-MASTERY-bundle-v7
 **Bloom:** Apply
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**EJE:** Linguistic Competence
+**Expected_Success:** 0.85
+**Contexto:** A new gym is being built next to the soccer field in Heredia.
 
 ### Enunciado
-What is the English word for: "A document provided by an airline during check-in, giving a passenger permission to board the airplane."
+Which sentence uses whose correctly for the new gym?
 
 ### Opciones
-- [x] B) boarding pass
-  <!-- feedback: Correct! The 'boarding pass' is the document the airline gives you at check-in that authorises you to board. -->
-- [ ] A) visa
-  <!-- feedback: 'Visa' is the official permission to enter and stay in a country, requested before the trip, not the document that lets you board a plane. -->
-- [ ] C) receipt
-  <!-- feedback: 'Receipt' is the proof of payment for a purchase, not the travel document for boarding. -->
-- [ ] D) brochure
-  <!-- feedback: 'Brochure' is a small booklet of tourist information, not the document that lets you board. -->
+- [ ] A) The gym whose is next to the field will open in June.
+  <!-- feedback: whose must be followed by the noun that is owned, such as roof, so leaving it with only a verb breaks the clause. -->
+- [x] B) The gym whose roof is still green will open in June.
+  <!-- feedback: whose is correct here because roof is the possessed noun and is still green describes that roof. -->
+- [ ] C) The gym who roof is still green will open in June.
+  <!-- feedback: who introduces a clause about a person, and this gym is a building, so who cannot show possession. -->
+- [ ] D) The gym where the roof is still green will open in June.
+  <!-- feedback: where introduces a clause of place, such as where the children train, not possession of a roof. -->
 
 ### Explicacion Pedagogica
-The word 'boarding pass' is used to describe a document provided by an airline during check-in, giving a passenger permission to board the airplane. This is an important vocabulary word in English.
+Whose shows possession and must be followed by a noun: the gym whose roof is green. Who and where cannot show possession.
+
 ---
+
+## Question 7 [D6]
+**ID:** CR-ING-11-2026-W22-relative-clauses-advanced-001-MASTERY-bundle-v7
+**Bloom:** Analyze
+**EJE:** Linguistic Competence
+**Expected_Success:** 0.85
+**Contexto:** The teacher who wrote the exam is from Puntarenas and will move to Alajuela.
+
+### Enunciado
+Which analysis of that clause is correct?
+
+### Opciones
+- [ ] A) It is a non-defining clause, because it can be removed without changing the meaning.
+  <!-- feedback: Removing the clause would leave an unidentified teacher, so the information is essential and the clause is defining. -->
+- [ ] B) It is an object clause, because who receives the action of wrote.
+  <!-- feedback: who is the subject of wrote, not its object, and a relative clause is not called an object clause here. -->
+- [ ] C) It is a defining clause that needs commas on both sides to be complete.
+  <!-- feedback: Defining clauses about people take no commas, and adding commas here would wrongly add extra information. -->
+- [x] D) It is a defining clause that identifies which teacher wrote the exam and takes no commas.
+  <!-- feedback: This is correct because the clause restricts the noun to one specific teacher and carries no comma at all. -->
+
+### Explicacion Pedagogica
+A defining clause identifies which person or thing you mean, so it takes no commas. Removing it would change the meaning.
+
+---
+
 ## Question 8 [D6]
 **ID:** CR-ING-11-2026-W22-relative-clauses-advanced-001-MASTERY-bundle-v8
-**Bloom:** Apply
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Bloom:** Evaluate
+**EJE:** Linguistic Competence
+**Expected_Success:** 0.85
+**Contexto:** Monteverde keeps its rainy weather, which surprises many visitors from San Jose.
 
 ### Enunciado
-What is the English word for: "The activity of visiting places of interest in a particular location."
+Which option is the best reason to keep the commas in that sentence?
 
 ### Opciones
-- [x] A) sightseeing
-  <!-- feedback: Correct! 'Sightseeing' is the activity of visiting the places of interest in a location. -->
-- [ ] B) shopping
-  <!-- feedback: 'Shopping' is buying things in stores, which is not the same as visiting the sights of a place. -->
-- [ ] C) hiking
-  <!-- feedback: 'Hiking' is walking in the countryside on trails, not the general activity of visiting a location's attractions. -->
-- [ ] D) camping
-  <!-- feedback: 'Camping' is staying outdoors in a tent, not visiting the sights of a location. -->
+- [x] A) They mark the clause as extra comment, not part of the core fact about the weather.
+  <!-- feedback: This is the right reason: paired commas turn the clause into a non-defining comment about an already named place. -->
+- [ ] B) They show that Monteverde is the place where the visitors come from.
+  <!-- feedback: where would describe a place inside the clause, but this clause talks about visitors and surprise, not location. -->
+- [ ] C) They are needed because the clause describes a person rather than a thing.
+  <!-- feedback: The clause describes the weather, not a person, so the commas are not marking a shift to human reference. -->
+- [ ] D) They can be removed without changing which place the sentence is about.
+  <!-- feedback: Removing the commas would not remove the comment, it would only force the clause to become a defining one. -->
 
 ### Explicacion Pedagogica
-The word 'sightseeing' is used to describe the activity of visiting places of interest in a particular location. This is an important vocabulary word in English.
+Commas signal a non-defining clause: the reader already knows which Monteverde, so the comment can be set aside.
+
 ---
-## Question 9 [D5]
+
+## Question 9 [D7]
 **ID:** CR-ING-11-2026-W22-relative-clauses-advanced-001-MASTERY-bundle-v9
-**Bloom:** Apply
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Bloom:** Analyze
+**EJE:** Linguistic Competence
+**Expected_Success:** 0.85
+**Contexto:** The bus that leaves Cartago at five arrives in Nicoya before dark.
 
 ### Enunciado
-What is the English word for: "A thing that is kept as a reminder of a person, place, or event."
+What does the clause in that sentence add to the word bus?
 
 ### Opciones
-- [x] C) souvenir
-  <!-- feedback: Correct! A 'souvenir' is the object you keep afterwards as a reminder of a person, place or event you visited. -->
-- [ ] A) gift
-  <!-- feedback: 'Gift' is something you give to another person; a souvenir is kept by the person who took the trip. -->
-- [ ] B) award
-  <!-- feedback: 'Award' is a prize given for an achievement, not an object bought or kept as a memory. -->
-- [ ] D) prize
-  <!-- feedback: 'Prize' is the reward you win in a competition, so it comes from winning rather than from a journey. -->
+- [ ] A) It adds a comment that could be deleted with no loss of meaning.
+  <!-- feedback: A deletable comment would need paired commas, and without them the clause here is part of the core meaning. -->
+- [ ] B) It tells us where the bus is at the moment of speaking.
+  <!-- feedback: Place would need where, for example the bus that waits near the terminal, so this is not about location. -->
+- [x] C) It restricts the noun, telling us which bus among many is meant.
+  <!-- feedback: This is correct because the clause selects one bus out of many, which is exactly what a defining clause does. -->
+- [ ] D) It explains why the bus takes that particular route.
+  <!-- feedback: A reason would need because or so, and this clause has its own subject and verb with no link word. -->
 
 ### Explicacion Pedagogica
-The word 'souvenir' is used to describe a thing that is kept as a reminder of a person, place, or event. This is an important vocabulary word in English.
+A defining clause without commas narrows the noun. The reader needs that detail to know exactly which bus is meant.
+
 ---
-## Question 10 [D6]
+
+## Question 10 [D7]
 **ID:** CR-ING-11-2026-W22-relative-clauses-advanced-001-MASTERY-bundle-v10
-**Bloom:** Apply
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Bloom:** Evaluate
+**EJE:** Linguistic Competence
+**Expected_Success:** 0.85
+**Contexto:** The two students who won the national science fair did it in Cartago last month.
 
 ### Enunciado
-What is the English word for: "A period of time by which something is late or postponed."
+Which option rewrites this sentence cleanly without changing the meaning?
 
 ### Opciones
-- [x] A) delay
-  <!-- feedback: Correct! A 'delay' is the extra time by which something ends up late or gets postponed. -->
-- [ ] B) cancellation
-  <!-- feedback: 'Cancellation' means the event does not happen at all, not that it happens later than planned. -->
-- [ ] C) departure
-  <!-- feedback: 'Departure' is the scheduled time or the act of leaving; the definition is about the extra time lost. -->
-- [ ] D) arrival
-  <!-- feedback: 'Arrival' is getting there, the opposite moment. Here we want the time lost, not the time you reach the destination. -->
+- [ ] A) The two students which won the national science fair, they won it in Cartago.
+  <!-- feedback: which never refers to people, and the extra subject they turns one relative clause into two broken parts. -->
+- [x] B) The two students who won the national science fair did so in Cartago last month.
+  <!-- feedback: This works because who stays as the subject of won, and did so avoids repeating the verb in a long sentence. -->
+- [ ] C) The two students, that won the national science fair, won it in Cartago.
+  <!-- feedback: that cannot be used between commas in a non-defining clause, and this clause needs no commas at all. -->
+- [ ] D) The two students whom won the national science fair won it in Cartago.
+  <!-- feedback: whom is an object pronoun, so it cannot be the subject of won in this defining clause about students. -->
 
 ### Explicacion Pedagogica
-The word 'delay' is used to describe a period of time by which something is late or postponed. This is an important vocabulary word in English.
+Keep who as the subject, avoid commas around a defining clause, and use did so when repeating the verb would sound heavy.
+
 ---
-## Question 11 [D7]
+
+## Question 11 [D8]
 **ID:** CR-ING-11-2026-W22-relative-clauses-advanced-001-MASTERY-bundle-v11
-**Bloom:** Apply
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Bloom:** Analyze
+**EJE:** Linguistic Competence
+**Expected_Success:** 0.85
+**Contexto:** The cooperative in Guatacaste sells coffee that customers order online.
 
 ### Enunciado
-What is the English word for: "The act of reporting one's presence and registering, typically at an airport or hotel."
+Why is that the wrong pronoun before the clause about customers?
 
 ### Opciones
-- [x] A) check-in
-  <!-- feedback: Correct! 'Check-in' is the act of reporting your arrival and registering at the airport or hotel counter. -->
-- [ ] B) check-out
-  <!-- feedback: 'Check-out' is the opposite moment, when you leave the hotel or hand back the room. -->
-- [ ] C) booking
-  <!-- feedback: 'Booking' is the reservation you made earlier; the act of registering your presence on arrival is check-in. -->
-- [ ] D) reservation
-  <!-- feedback: 'Reservation' is the booking document, not the act of reporting your presence at the desk. -->
+- [ ] A) which is wrong because the clause describes a place rather than an object.
+  <!-- feedback: The clause refers to customers, who are people, so where is wrong here and which is not being judged on place. -->
+- [ ] B) which is wrong because the clause must have no subject of its own.
+  <!-- feedback: A relative clause normally has its own subject and verb, so refusing one subject would rule out almost every clause. -->
+- [x] C) which is wrong because the antecedent is a thing but the clause refers to people.
+  <!-- feedback: This is the right reading: which refers to things, and here the customers inside the clause are people. -->
+- [ ] D) which is wrong because a relative clause can never follow the noun it describes.
+  <!-- feedback: Relative clauses follow the noun they describe all the time, so the position is standard and not the problem. -->
 
 ### Explicacion Pedagogica
-The word 'check-in' is used to describe the act of reporting one's presence and registering, typically at an airport or hotel. This is an important vocabulary word in English.
+Pronoun choice follows the antecedent: who for people, which for things. The noun inside the clause does not change that rule.
+
 ---
+
 ## Question 12 [D8]
 **ID:** CR-ING-11-2026-W22-relative-clauses-advanced-001-MASTERY-bundle-v12
-**Bloom:** Apply
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Bloom:** Evaluate
+**EJE:** Linguistic Competence
+**Expected_Success:** 0.85
+**Contexto:** The public library in Heredia lends laptops that students use for research.
 
 ### Enunciado
-What is the English word for: "A period of rest or waiting before a further stage in a journey."
+Which option rewrites the library sentence so the clause becomes non-defining?
 
 ### Opciones
-- [x] B) layover
-  <!-- feedback: Correct! A 'layover' is a period of rest or waiting between two stages of a journey. -->
-- [ ] A) stopover
-  <!-- feedback: 'Stopover' usually means a deliberate visit in the middle of a trip, not just the wait between flights. -->
-- [ ] C) transfer
-  <!-- feedback: 'Transfer' is the change of vehicle itself, the movement; the definition is about the time of waiting. -->
-- [ ] D) transit
-  <!-- feedback: 'Transit' is a system of moving people and goods through a city, not a break between two flights. -->
+- [x] A) The library, which lends laptops, is open until nine.
+  <!-- feedback: This works because a comma before and after which turns the clause into an extra comment about a known library. -->
+- [ ] B) The library lends laptops, and students use them for research.
+  <!-- feedback: Two joined clauses with and is a good rewrite of the meaning, but the question asks for a non-defining relative clause. -->
+- [ ] C) The library that lends laptops is open until nine.
+  <!-- feedback: that without commas keeps the clause defining, so this version still restricts which library is meant. -->
+- [ ] D) The library where students study lends laptops until nine.
+  <!-- feedback: where would describe a place inside the library, but here the clause describes an action, not a location. -->
 
 ### Explicacion Pedagogica
-The word 'layover' is used to describe a period of rest or waiting before a further stage in a journey. This is an important vocabulary word in English.
+To make a clause non-defining, wrap it in a pair of commas and use which. Then the information reads as an optional comment.
+
 ---
-## Question 13 [D7]
+
+## Question 13 [D9]
 **ID:** CR-ING-11-2026-W22-relative-clauses-advanced-001-MASTERY-bundle-v13
 **Bloom:** Analyze
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**EJE:** Linguistic Competence
+**Expected_Success:** 0.85
+**Contexto:** My aunt in Liberia runs a shop that sells handmade bags.
 
 ### Enunciado
-What is the English word for: "A system of money in general use in a particular country."
+In "The shop that sells handmade bags", why is that clause left without commas?
 
 ### Opciones
-- [x] D) currency
-  <!-- feedback: Correct! 'Currency' is the money system in general use in a particular country. -->
-- [ ] A) coin
-  <!-- feedback: 'Coin' is a single metal piece of money, one item within the currency, not the whole system. -->
-- [ ] B) banknote
-  <!-- feedback: 'Banknote' is a paper bill, one item of the currency rather than the system of money itself. -->
-- [ ] C) cash
-  <!-- feedback: 'Cash' means money in the physical form you hold, not the money system of a country. -->
+- [ ] A) Without commas the clause identifies one specific shop, not every shop in Liberia.
+  <!-- feedback: This is correct: the shop is narrowed to one particular shop, and removing the clause would change what is meant. -->
+- [ ] B) Without commas the clause adds background news that the reader may ignore.
+  <!-- feedback: Background news belongs in a non-defining clause between commas, so that reading contradicts the missing commas. -->
+- [ ] C) Without commas the clause explains the reason my aunt left the capital.
+  <!-- feedback: A reason would need because or so, and this clause has its own subject and verb with no link word. -->
+- [x] D) Without commas the clause would be grammatically complete but logically empty.
+  <!-- feedback: The clause is not empty, it names the bags, so treating it as logically empty ignores real information. -->
 
 ### Explicacion Pedagogica
-The word 'currency' is used to describe a system of money in general use in a particular country. This is an important vocabulary word in English.
+A comma-free clause is defining: it tells the reader which shop is meant. That is why it cannot be treated as optional.
+
 ---
-## Question 14 [D8]
+
+## Question 14 [D9]
 **ID:** CR-ING-11-2026-W22-relative-clauses-advanced-001-MASTERY-bundle-v14
-**Bloom:** Analyze
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Bloom:** Evaluate
+**EJE:** Linguistic Competence
+**Expected_Success:** 0.85
+**Contexto:** The road that crosses the Braulio Carrillo hills is closed on Sundays.
 
 ### Enunciado
-What is the English word for: "A book of information about a place designed for the use of visitors or tourists."
+Which option best avoids repeating the noun after the clause?
 
 ### Opciones
-- [x] C) guidebook
-  <!-- feedback: Correct! A 'guidebook' is a book of information about a place written for visitors and tourists. -->
-- [ ] A) map
-  <!-- feedback: 'Map' is a single sheet or screen showing the layout of a place, not a book of information. -->
-- [ ] B) dictionary
-  <!-- feedback: 'Dictionary' is a book of word definitions of a language, not information about a place for visitors. -->
-- [ ] D) encyclopedia
-  <!-- feedback: 'Encyclopedia' is a general reference work with entries on every topic, not a guide written for tourists about one place. -->
+- [ ] A) The road crosses the hills, and the road is closed on Sundays.
+  <!-- feedback: This repeats road twice in a short sentence, which is clumsy when a single relative clause can do the job. -->
+- [x] B) The road, which crosses the hills, is closed on Sundays.
+  <!-- feedback: This works because the comma-free clause is defining and the subject appears only once at the start of the sentence. -->
+- [ ] C) The road that the hills it crosses is closed on Sundays.
+  <!-- feedback: A contact clause cannot add a second subject like it, so the clause ends up with two subjects and no verb. -->
+- [ ] D) The road is closed on Sundays, which the hills are steep that day.
+  <!-- feedback: Here which has no clear antecedent and the clause trails off, so the reader cannot tell what is being described. -->
 
 ### Explicacion Pedagogica
-The word 'guidebook' is used to describe a book of information about a place designed for the use of visitors or tourists. This is an important vocabulary word in English.
+A relative clause lets you avoid naming the noun twice: the road that crosses the hills is closed. One subject is enough.
+
 ---
-## Question 15 [D7]
+
+## Question 15 [D10]
 **ID:** CR-ING-11-2026-W22-relative-clauses-advanced-001-MASTERY-bundle-v15
-**Bloom:** Analyze
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Bloom:** Evaluate
+**EJE:** Linguistic Competence
+**Expected_Success:** 0.85
+**Contexto:** The mural that covers the wall in Barrio Amon was painted by local artists.
 
 ### Enunciado
-What is the English word for: "A bag with shoulder straps that allow it to be carried on one's back."
+Which version of the mural sentence in the context is fully correct?
 
 ### Opciones
-- [x] D) backpack
-  <!-- feedback: Correct! A 'backpack' is the bag with shoulder straps that you carry on your back. -->
-- [ ] A) suitcase
-  <!-- feedback: 'Suitcase' is a case with a handle that you pull along, not a bag worn on the back. -->
-- [ ] B) briefcase
-  <!-- feedback: 'Briefcase' is a case for documents and a laptop, carried in the hand for work. -->
-- [ ] C) handbag
-  <!-- feedback: 'Handbag' is a bag for personal items carried on the arm or in the hand, with no back straps. -->
+- [ ] A) The mural, who covers the wall, was painted by local artists.
+  <!-- feedback: who introduces a clause about a person, but a mural is a painting, so the pronoun does not match the antecedent. -->
+- [ ] B) The mural where covers the wall was painted by local artists.
+  <!-- feedback: where introduces a clause of place, but this clause has a verb and describes what the mural does, not where it is. -->
+- [x] C) The mural that covers the wall was painted by local artists.
+  <!-- feedback: This works because that is correct for a defining clause about a thing and it carries no commas in this version. -->
+- [ ] D) The mural whose covers the wall was painted by local artists.
+  <!-- feedback: whose needs a possessed noun after it, so leaving the pronoun with only a verb makes the clause incomplete. -->
 
 ### Explicacion Pedagogica
-The word 'backpack' is used to describe a bag with shoulder straps that allow it to be carried on one's back. This is an important vocabulary word in English.
+For a defining clause about a thing, that is the safe choice. who and whose do not fit things, and where asks about place.
+
 ---
+
 ## Question 16 [D8]
 **ID:** CR-ING-11-2026-W22-relative-clauses-advanced-001-MASTERY-bundle-v16
 **Bloom:** Analyze
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**EJE:** Linguistic Competence
+**Expected_Success:** 0.85
+**Contexto:** A nurse at the clinic in Quesada cares for patients who cannot walk.
 
 ### Enunciado
-What is the English word for: "In or to a foreign country, especially one across the sea."
+What is wrong with this sentence: "A nurse who cares for patients lives in Quesada"?
 
 ### Opciones
-- [x] C) overseas
-  <!-- feedback: Correct! 'Overseas' means in or to a foreign country, especially one across the sea. -->
-- [ ] A) domestic
-  <!-- feedback: 'Domestic' means inside your own country, the opposite of overseas. -->
-- [ ] B) local
-  <!-- feedback: 'Local' means in the area where you are, even more restricted than domestic; it never crosses a border. -->
-- [ ] D) national
-  <!-- feedback: 'National' refers to a whole country without saying it is foreign, so it does not imply going abroad. -->
+- [ ] A) Nothing is wrong, because who correctly introduces the clause about caring.
+  <!-- feedback: who is already the correct pronoun here, and this version ignores the real ambiguity between the two verbs. -->
+- [ ] B) The problem is that who should be replaced by whom because lives follows it.
+  <!-- feedback: whom would be the object form and would need a noun after it, so swapping it in would not fix the reading. -->
+- [ ] C) The problem is only that the sentence needs commas around the clause.
+  <!-- feedback: The clause is defining, so it needs no commas. Adding them would only turn it into an optional comment. -->
+- [x] D) The problem is that who reads as the subject of the main clause instead of the subject of the clause.
+  <!-- feedback: This is the right reading: who can belong to lives or to cares, so the clause should be reworded to remove the doubt. -->
 
 ### Explicacion Pedagogica
-The word 'overseas' is used to describe in or to a foreign country, especially one across the sea. This is an important vocabulary word in English.
+A pronoun that repeats a subject creates ambiguity, as in who lives or who cares. Rewording with other or who is on duty fixes it.
+
 ---
-## Question 17 [D9]
+
+## Question 17 [D8]
 **ID:** CR-ING-11-2026-W22-relative-clauses-advanced-001-MASTERY-bundle-v17
 **Bloom:** Evaluate
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**EJE:** Linguistic Competence
+**Expected_Success:** 0.85
+**Contexto:** The team from Puntarenas trained hard, which paid off in the final match.
 
 ### Enunciado
-What is the English word for: "An estimate of income and expenditure for a set period of time."
+Which option reports the same meaning without a relative clause at all?
 
 ### Opciones
-- [x] B) budget
-  <!-- feedback: Correct! A 'budget' is the estimate of income and expenditure planned for a set period. -->
-- [ ] A) expense
-  <!-- feedback: 'Expense' is a single cost already paid; the definition is the estimate for the whole period. -->
-- [ ] C) cost
-  <!-- feedback: 'Cost' is the price of one thing, whereas a budget covers all income and all spending. -->
-- [ ] D) price
-  <!-- feedback: 'Price' is the amount a single item costs, not a plan of income and expenditure over time. -->
+- [ ] A) The team from Puntarenas trained hard because the final match paid off.
+  <!-- feedback: because would claim that the final match caused the training, which reverses the meaning of the original sentence. -->
+- [x] B) The team from Puntarenas trained hard, and that effort paid off in the final match.
+  <!-- feedback: This works because that effort carries the second idea, so no relative pronoun is needed at all. -->
+- [ ] C) The team from Puntarenas trained hard while the final match paid off for nobody.
+  <!-- feedback: while would suggest the two events ran in parallel, and adding for nobody changes the result entirely. -->
+- [ ] D) The team from Puntarenas trained hard, and the final match paid off instead of them.
+  <!-- feedback: instead of them would mean the match replaced the team, which is not what the original comment says. -->
 
 ### Explicacion Pedagogica
-The word 'budget' is used to describe an estimate of income and expenditure for a set period of time. This is an important vocabulary word in English.
+A non-defining clause can often be replaced by and plus a short noun phrase such as that effort, keeping the same meaning.
+
 ---
-## Question 18 [D10]
+
+## Question 18 [D9]
 **ID:** CR-ING-11-2026-W22-relative-clauses-advanced-001-MASTERY-bundle-v18
-**Bloom:** Evaluate
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Bloom:** Analyze
+**EJE:** Linguistic Competence
+**Expected_Success:** 0.85
+**Contexto:** A student from Grecia asked whether the workshop that starts at eight has space.
 
 ### Enunciado
-What is the English word for: "A practice or arrangement by which a company or government agency provides a guarantee of compensation for specified loss, damage, illness, or death in return for payment of a premium."
+Which option correctly joins both of those facts about the workshop?
 
 ### Opciones
-- [x] D) insurance
-  <!-- feedback: Correct! 'Insurance' is the arrangement by which an insurer promises compensation for loss, damage, illness or death in exchange for a premium. -->
-- [ ] A) warranty
-  <!-- feedback: 'Warranty' covers a product against defects for a limited period and is free of charge, not a premium-based contract. -->
-- [ ] B) guarantee
-  <!-- feedback: 'Guarantee' is the promise itself; 'insurance' is the whole contract arranged with an insurer for a premium. -->
-- [ ] C) policy
-  <!-- feedback: 'Policy' is the document that proves the insurance contract; the arrangement itself is the insurance. -->
+- [ ] A) The workshop starts at eight, that has space, so the student should ask early.
+  <!-- feedback: Two commas do not create a clause here, and that cannot open a second clause after a comma in standard English. -->
+- [ ] B) The workshop starts at eight and whether it has space, which the student still needs to ask.
+  <!-- feedback: whether introduces a yes or no question as a clause, and this version leaves the sentence without a main verb. -->
+- [x] C) The workshop, which starts at eight, may still have space, so the student should ask early.
+  <!-- feedback: This works because which plus commas makes a clean non-defining clause and the main verb is the finite may have. -->
+- [ ] D) Whether the workshop that starts at eight has space, the student asked in Grecia.
+  <!-- feedback: Fronting whether leaves no main verb at the end, so the question clause cannot replace the sentence on its own. -->
 
 ### Explicacion Pedagogica
-The word 'insurance' is used to describe a practice or arrangement by which a company or government agency provides a guarantee of compensation for specified loss, damage, illness, or death in return for payment of a premium. This is an important vocabulary word in English.
+Join only clauses that match in tense and voice. A non-defining which clause keeps the main clause independent and complete.
+
 ---
+
 ## Question 19 [D9]
 **ID:** CR-ING-11-2026-W22-relative-clauses-advanced-001-MASTERY-bundle-v19
 **Bloom:** Evaluate
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**EJE:** Linguistic Competence
+**Expected_Success:** 0.85
+**Contexto:** The house that overlooks the bay in Puntarenas has a large solar roof.
 
 ### Enunciado
-What is the English word for: "Treatment with a vaccine to produce immunity against a disease."
+Which option compresses the sentence best while keeping the meaning exact?
 
 ### Opciones
-- [x] A) vaccination
-  <!-- feedback: Correct! A 'vaccination' is the application of a vaccine that makes the body produce immunity against a disease. -->
-- [ ] B) medication
-  <!-- feedback: 'Medication' is a medicine you take to treat an illness, not the vaccine that prevents one. -->
-- [ ] C) prescription
-  <!-- feedback: 'Prescription' is the written order a doctor gives for a medicine, not the vaccine itself. -->
-- [ ] D) infection
-  <!-- feedback: 'Infection' is the state of having the disease; vaccination is what protects you before you get it. -->
+- [x] A) The house overlooking the bay has a large solar roof.
+  <!-- feedback: This works because a reduced relative clause keeps the active participle overlooking and the subject appears only once. -->
+- [ ] B) The house overlooks the bay, and it has a large solar roof.
+  <!-- feedback: This is grammatically fine, but it repeats the subject twice, which is exactly what the clause is meant to avoid. -->
+- [ ] C) The house is overlooking the bay, having a large solar roof.
+  <!-- feedback: A passive -ing form after is is not standard English, and having after it would be a second dangling participle. -->
+- [ ] D) The house that the bay it overlooks has a large solar roof.
+  <!-- feedback: A contact clause cannot take a second subject like it, so the clause ends up with two subjects and no verb. -->
 
 ### Explicacion Pedagogica
-The word 'vaccination' is used to describe treatment with a vaccine to produce immunity against a disease. This is an important vocabulary word in English.
+After a form of be, an active present participle can replace a defining clause: the house overlooking the bay has a roof.
+
 ---
+
 ## Question 20 [D10]
 **ID:** CR-ING-11-2026-W22-relative-clauses-advanced-001-MASTERY-bundle-v20
 **Bloom:** Evaluate
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**EJE:** Linguistic Competence
+**Expected_Success:** 0.85
+**Contexto:** The engineer who designed the bridge in Rio Claro left the country last week.
 
 ### Enunciado
-What is the English word for: "Extreme tiredness and other physical effects felt by a person after a long flight across several time zones."
+Which sentence keeps the relative clause and is fully grammatical?
 
 ### Opciones
-- [x] D) jet lag
-  <!-- feedback: Correct! 'Jet lag' is the tiredness and disturbed body clock you feel after a flight across several time zones. -->
-- [ ] A) fatigue
-  <!-- feedback: 'Fatigue' is tiredness after effort or a long day, not specifically caused by crossing time zones. -->
-- [ ] B) exhaustion
-  <!-- feedback: 'Exhaustion' is extreme tiredness from overwork or lack of sleep, which is not the same as the time zone effect. -->
-- [ ] C) insomnia
-  <!-- feedback: 'Insomnia' is the inability to sleep, whereas jet lag comes with tiredness during the day and a shifted body clock. -->
+- [ ] A) The engineer, which designed the bridge, left the country last week.
+  <!-- feedback: which is reserved for things, and the paired commas would wrongly present the detail as an optional comment. -->
+- [ ] B) The engineer whom designed the bridge left the country last week.
+  <!-- feedback: whom is the object form and needs an object after it, so this version has a clause without a subject. -->
+- [ ] C) The engineer whose designed the bridge left the country last week.
+  <!-- feedback: whose needs a possessed noun after it, so leaving it directly before a verb leaves the clause unfinished. -->
+- [x] D) The engineer who designed the bridge left the country last week.
+  <!-- feedback: This works because who is the subject of designed and no commas are needed for a defining clause about a person. -->
 
 ### Explicacion Pedagogica
-The word 'jet lag' is used to describe extreme tiredness and other physical effects felt by a person after a long flight across several time zones. This is an important vocabulary word in English.
+Check three things at once: pronoun for the antecedent, its job inside the clause, and commas only for non-defining information.
+
+---

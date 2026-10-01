@@ -17,466 +17,509 @@ tier: "legacy"
 creador: "Jules-Agent"
 bundle_index: 1
 ---
-# MASTERY Bundle - Ingles: Reported Speech Advanced (W21)
-**20 preguntas | Ingles | Curriculo de Ingles**
+# Bundle MASTERY: Reported Speech Advanced - Grado 11
+
+Este bundle contiene 20 preguntas sobre **reported-speech-advanced** para grado 11,
+alineadas con el programa de estudios del MEP Costa Rica para Bachillerato 2026.
 
 ---
+
 ## Question 1 [D3]
 **ID:** CR-ING-11-2026-W21-reported-speech-advanced-001-MASTERY-bundle-v1
-**Bloom:** Remember
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Bloom:** Apply
+**EJE:** Linguistic Competence
+**Expected_Success:** 0.85
+**Contexto:** Lucia tells her classmates about a flight she took last month.
 
 ### Enunciado
-What is the English word for: "A place where you live or stay on holiday."
+Lucia said, "I am flying to SJO tonight." What did she report?
 
 ### Opciones
-- [x] B) accommodation
-  <!-- feedback: Correct! 'Accommodation' is the word for a place where you live or stay temporarily while you are away from home. -->
-- [ ] A) transportation
-  <!-- feedback: Wrong. 'Transportation' names the way you travel, such as buses, trains or planes, not the place where you stay. -->
-- [ ] C) entertainment
-  <!-- feedback: Wrong. 'Entertainment' is the activity of enjoying shows, films or games, not a place where you sleep. -->
-- [ ] D) currency
-  <!-- feedback: Wrong. 'Currency' is the money used in a country, which has nothing to do with lodging. -->
+- [x] A) Lucia said she was flying to SJO that night.
+  <!-- feedback: Correct! A present continuous reporting a future arrangement backs shifts to the past continuous, and 'tonight' becomes 'that night'. -->
+- [ ] B) Lucia said she is flying to SJO that night.
+  <!-- feedback: The present simple would describe a habit, but the original spoke of one arranged future trip, so the tense must move back. -->
+- [ ] C) Lucia said she will fly to SJO that night.
+  <!-- feedback: 'Will' belongs to the original future; after a past reporting verb the future is expressed with 'was going to' or 'would'. -->
+- [ ] D) Lucia said she flies to SJO tonight.
+  <!-- feedback: 'Tonight' must be deictic-adjusted to the moment of reporting, so keeping the time word unchanged breaks the rule. -->
 
 ### Explicacion Pedagogica
-The word 'accommodation' is used to describe a place where you live or stay on holiday. This is an important vocabulary word in English.
+When the reporting verb is in the past, the tense of the reported clause moves one step back and the time and place words are adjusted to the new point of reference: 'tonight' becomes 'that night'. This is why a reported arrangement appears as the past continuous.
+
 ---
-## Question 2 [D4]
+
+## Question 2 [D3]
 **ID:** CR-ING-11-2026-W21-reported-speech-advanced-001-MASTERY-bundle-v2
-**Bloom:** Remember
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
-
-### Enunciado
-What is the English word for: "A detailed plan or route of a journey."
-
-### Opciones
-- [x] A) itinerary
-  <!-- feedback: Correct! An 'itinerary' is the planned route of a journey together with the places and times along the way. -->
-- [ ] B) baggage
-  <!-- feedback: Wrong. 'Baggage' is the suitcases and bags themselves, not the plan of the trip. -->
-- [ ] C) destination
-  <!-- feedback: Wrong. A 'destination' is only the place where the journey ends, while an itinerary lists the whole route. -->
-- [ ] D) passport
-  <!-- feedback: Wrong. A 'passport' is the travel document that proves who you are, not the plan of the journey. -->
-
-### Explicacion Pedagogica
-The word 'itinerary' is used to describe a detailed plan or route of a journey. This is an important vocabulary word in English.
----
-## Question 3 [D3]
-**ID:** CR-ING-11-2026-W21-reported-speech-advanced-001-MASTERY-bundle-v3
 **Bloom:** Understand
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**EJE:** Linguistic Competence
+**Expected_Success:** 0.85
+**Contexto:** A radio host interviews a surfer from Santa Cruz.
 
 ### Enunciado
-What is the English word for: "The place to which someone or something is going or being sent."
+The host said, "Where do you surf most often?" How is it correctly reported?
 
 ### Opciones
-- [x] C) destination
-  <!-- feedback: Correct! A 'destination' is the place someone or something is going to or being sent to. -->
-- [ ] A) departure
-  <!-- feedback: Wrong. A 'departure' is the act of leaving and the place you leave from, the opposite end of the trip. -->
-- [ ] B) arrival
-  <!-- feedback: Wrong. An 'arrival' is the event of getting there, not the place that is being travelled to. -->
-- [ ] D) journey
-  <!-- feedback: Wrong. A 'journey' is the whole trip from start to finish, not the place at the end of it. -->
+- [ ] A) The host asked where she surfed most often.
+  <!-- feedback: The auxiliary 'do' is used in questions, not in reported questions; the reported clause takes the plain present 'surfed'. -->
+- [x] B) The host asked where she did surf most often.
+  <!-- feedback: Correct! A yes-no question reports with 'asked' plus an embedded question word order and no auxiliary 'do'. -->
+- [ ] C) The host told where she surfed most often.
+  <!-- feedback: 'Tell' never introduces a question, because 'tell somebody something' needs a person as its object, not a clause. -->
+- [ ] D) The host asked that where she surfed most often.
+  <!-- feedback: A reported question is an embedded clause, so it is not introduced by 'that' as a full declarative would be. -->
 
 ### Explicacion Pedagogica
-The word 'destination' is used to describe the place to which someone or something is going or being sent. This is an important vocabulary word in English.
+Direct questions split into two kinds. Yes-no questions become reported questions with 'asked if' or 'asked whether' and normal word order, while questions with a question word use 'asked' plus that same question word. Either way the auxiliary 'do', 'does' and 'did' disappears.
+
 ---
+
+## Question 3 [D4]
+**ID:** CR-ING-11-2026-W21-reported-speech-advanced-001-MASTERY-bundle-v3
+**Bloom:** Apply
+**EJE:** Linguistic Competence
+**Expected_Success:** 0.85
+**Contexto:** Don Miguel warns his neighbors about a planned road project in Escazu.
+
+### Enunciado
+Don Miguel said, "We will have to close the road tomorrow." Choose the correct report.
+
+### Opciones
+- [ ] A) Don Miguel said we will have to close the road tomorrow.
+  <!-- feedback: 'Will' cannot survive a past reporting verb unchanged, and 'tomorrow' is relative to the moment of speaking. -->
+- [ ] B) Don Miguel said we would have to close the road the next day.
+  <!-- feedback: The tense shift and the time word are right, but 'said' does not take an indirect object, so the addressee is missing. -->
+- [x] C) Don Miguel told us we would have to close the road the following day.
+  <!-- feedback: Correct! 'Said' reports a statement, 'told' plus the person reports it with its receiver, 'will' becomes 'would' and 'tomorrow' becomes the following day. -->
+- [ ] D) Don Miguel said we would closing the road the following day.
+  <!-- feedback: 'Would closing' mixes the auxiliary with a bare gerund; the modal 'would' must be followed by the infinitive 'to close'. -->
+
+### Explicacion Pedagogica
+The verb pair 'say' and 'tell' differ in reported speech: 'say' works with a bare clause and 'tell' needs the listener as an object. Modal 'will' becomes 'would', and 'tomorrow' becomes 'the following day' so the time reference stays clear.
+
+---
+
 ## Question 4 [D4]
 **ID:** CR-ING-11-2026-W21-reported-speech-advanced-001-MASTERY-bundle-v4
-**Bloom:** Understand
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Bloom:** Analyze
+**EJE:** Linguistic Competence
+**Expected_Success:** 0.85
+**Contexto:** A student summarizes what her grandmother told her about her childhood in Cartago.
 
 ### Enunciado
-What is the English word for: "Suitcases or other bags in which to pack personal belongings for traveling."
+Which sentence correctly reports the direct speech "I didn't have a telephone at home"?
 
 ### Opciones
-- [x] C) luggage
-  <!-- feedback: Correct! 'Luggage' is the collective word for the suitcases and bags you pack your belongings in. -->
-- [ ] A) ticket
-  <!-- feedback: Wrong. A 'ticket' is the document that pays for and authorises a journey, not the bag you pack. -->
-- [ ] B) flight
-  <!-- feedback: Wrong. A 'flight' is the journey by plane itself, not the bags carried on it. -->
-- [ ] D) reservation
-  <!-- feedback: Wrong. A 'reservation' is the booking you make for a seat or a room, not the baggage itself. -->
+- [ ] A) She said she doesn't have a telephone at home.
+  <!-- feedback: The present simple keeps the negative in the present, which contradicts the past reporting verb 'said'. -->
+- [ ] B) She said she hadn't a telephone at home.
+  <!-- feedback: After a past reporting verb the negative auxiliary itself becomes past: 'didn't' turns into 'hadn't', not 'hadn't' plus the bare verb. -->
+- [ ] C) She said she didn't had a telephone at home.
+  <!-- feedback: 'Didn't' is already negative, so adding 'had' double-negates and distorts the original meaning. -->
+- [x] D) She said she didn't have a telephone at home.
+  <!-- feedback: Correct! Past simple negative with 'did' keeps its shape when there is no future or modal shift to apply, because 'did' already marks the past. -->
 
 ### Explicacion Pedagogica
-The word 'luggage' is used to describe suitcases or other bags in which to pack personal belongings for traveling. This is an important vocabulary word in English.
+Not every tense moves back. Simple past forms are normally kept, because they are already past, so 'didn't have' remains 'didn't have'. Only tenses that point forward, or modal and present forms, have to be converted when the reporting verb is past.
+
 ---
+
 ## Question 5 [D5]
 **ID:** CR-ING-11-2026-W21-reported-speech-advanced-001-MASTERY-bundle-v5
-**Bloom:** Understand
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Bloom:** Analyze
+**EJE:** Linguistic Competence
+**Expected_Success:** 0.85
+**Contexto:** A guide reports what a visitor asked at the entrance of Manuel Antonio.
 
 ### Enunciado
-What is the English word for: "A traveler on a public or private conveyance other than the driver, pilot, or crew."
+"What time does the boat leave?" The guide reported that the boat ______ at nine.
 
 ### Opciones
-- [x] D) passenger
-  <!-- feedback: Correct! A 'passenger' is anyone travelling in a vehicle who is not the one driving or piloting it. -->
-- [ ] A) pedestrian
-  <!-- feedback: Wrong. A 'pedestrian' travels on foot, so they are not aboard any conveyance at all. -->
-- [ ] B) commuter
-  <!-- feedback: Wrong. A 'commuter' is defined by making the same trip regularly to work or school, not by being a passenger in general. -->
-- [ ] C) tourist
-  <!-- feedback: Wrong. A 'tourist' is defined by travelling for pleasure, not simply by riding in a vehicle. -->
+- [ ] A) will leave
+  <!-- feedback: 'Will leave' keeps the original future, which is only correct when the reporting verb is present, not past. -->
+- [x] B) would leave
+  <!-- feedback: Correct! A present simple in the direct question reports as 'would', because the simple future refers to a future moment seen from the past. -->
+- [ ] C) left
+  <!-- feedback: 'Left' changes the meaning into a completed past action, which the original schedule does not state. -->
+- [ ] D) leaves
+  <!-- feedback: 'Leaves' leaves the present simple untouched, so the reported question would still refer to a repeated present habit. -->
 
 ### Explicacion Pedagogica
-The word 'passenger' is used to describe a traveler on a public or private conveyance other than the driver, pilot, or crew. This is an important vocabulary word in English.
+The present simple reports as 'would' when it describes a future arrangement, because English has no single word for that future simple. Reporting with 'left' would assert that the departure already happened, which changes the schedule into an event.
+
 ---
-## Question 6 [D6]
+
+## Question 6 [D5]
 **ID:** CR-ING-11-2026-W21-reported-speech-advanced-001-MASTERY-bundle-v6
-**Bloom:** Understand
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Bloom:** Analyze
+**EJE:** Linguistic Competence
+**Expected_Success:** 0.85
+**Contexto:** A librarian reports what a student asked about the study hours.
 
 ### Enunciado
-What is the English word for: "The place at a port, airport, or frontier where officials check incoming goods, travelers, or luggage."
+"How long can I borrow the book?" The librarian reported that I ______ the book for two weeks.
 
 ### Opciones
-- [x] B) customs
-  <!-- feedback: Correct! 'Customs' is the office where officials check the goods and the people coming in from abroad. -->
-- [ ] A) security
-  <!-- feedback: Wrong. 'Security' is the police or staff who keep order, while customs staff collect duties on goods. -->
-- [ ] C) terminal
-  <!-- feedback: Wrong. A 'terminal' is the building where you arrive or depart, not the office that checks imports. -->
-- [ ] D) gate
-  <!-- feedback: Wrong. A 'gate' is the door you pass through to reach the plane; customs is the check itself. -->
+- [x] A) could borrow
+  <!-- feedback: Correct! A direct question about ability reports as 'could', since the modal carries the politeness of the original request. -->
+- [ ] B) can borrow
+  <!-- feedback: 'Can' reports a present ability; only when the reporting verb is past does it become 'could'. -->
+- [ ] C) could to borrow
+  <!-- feedback: A modal is always followed by the bare infinitive, so 'could to borrow' has an extra 'to'. -->
+- [ ] D) borrowed can
+  <!-- feedback: 'Borrowed can' reverses the order and turns the modal into the main verb of the clause. -->
 
 ### Explicacion Pedagogica
-The word 'customs' is used to describe the place at a port, airport, or frontier where officials check incoming goods, travelers, or luggage. This is an important vocabulary word in English.
+Modal verbs move back one step when reported from a past verb: can becomes could, may becomes might, will becomes would. The infinitive that follows stays unchanged, so the modal carries the whole shift.
+
 ---
+
 ## Question 7 [D5]
 **ID:** CR-ING-11-2026-W21-reported-speech-advanced-001-MASTERY-bundle-v7
 **Bloom:** Apply
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**EJE:** Linguistic Competence
+**Expected_Success:** 0.85
+**Contexto:** A manager reports to the staff what the client requested.
 
 ### Enunciado
-What is the English word for: "A document provided by an airline during check-in, giving a passenger permission to board the airplane."
+The client said, "Please send me the report by Friday." How is the request reported?
 
 ### Opciones
-- [x] B) boarding pass
-  <!-- feedback: Correct! A 'boarding pass' is the document the airline hands you at check-in that lets you board the plane. -->
-- [ ] A) visa
-  <!-- feedback: Wrong. A 'visa' is the official permission a government gives to enter a country, granted before you travel. -->
-- [ ] C) receipt
-  <!-- feedback: Wrong. A 'receipt' only proves that you paid for something; it does not admit you to the aircraft. -->
-- [ ] D) brochure
-  <!-- feedback: Wrong. A 'brochure' is advertising material about destinations, not a travel document for boarding. -->
+- [ ] A) The client said me to send the report by Friday.
+  <!-- feedback: 'Said' does not take an indirect object, so 'said me' cannot report a request addressed to someone. -->
+- [ ] B) The client requested sending me the report by Friday.
+  <!-- feedback: 'Requested' reports an order but never accepts a person as its object, so the addressee disappears. -->
+- [x] C) The client asked me to send the report by that Friday.
+  <!-- feedback: Correct! 'Asked somebody to do something' is the reported form of a polite request, and 'by Friday' shifts to 'by that Friday'. -->
+- [ ] D) The client asked me sending the report by that Friday.
+  <!-- feedback: The structure 'ask somebody doing something' does not exist; after 'to' the verb needs the bare infinitive 'send'. -->
 
 ### Explicacion Pedagogica
-The word 'boarding pass' is used to describe a document provided by an airline during check-in, giving a passenger permission to board the airplane. This is an important vocabulary word in English.
+Requests and offers follow a fixed pattern in reported speech: 'ask somebody to do something', 'tell somebody to do something' and 'offer to do something'. The infinitive replaces the bare imperative of the direct speech.
+
 ---
+
 ## Question 8 [D6]
 **ID:** CR-ING-11-2026-W21-reported-speech-advanced-001-MASTERY-bundle-v8
-**Bloom:** Apply
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Bloom:** Analyze
+**EJE:** Linguistic Competence
+**Expected_Success:** 0.85
+**Contexto:** A nurse reports what a patient told her about his symptoms.
 
 ### Enunciado
-What is the English word for: "The activity of visiting places of interest in a particular location."
+Which report of "I must rest for a week" is correct?
 
 ### Opciones
-- [x] B) sightseeing
-  <!-- feedback: Correct! 'Sightseeing' means going round and looking at the famous sights of a place as a visitor. -->
-- [ ] A) shopping
-  <!-- feedback: Wrong. 'Shopping' is buying things in a city, a different activity from visiting its places of interest. -->
-- [ ] C) hiking
-  <!-- feedback: Wrong. 'Hiking' is walking long distances in the countryside on marked trails, not touring the sights of a location. -->
-- [ ] D) camping
-  <!-- feedback: Wrong. 'Camping' means staying the night outdoors in a tent, not a day of visiting places of interest. -->
+- [ ] A) He said he must rest for a week.
+  <!-- feedback: 'Must' here expresses the patient's own obligation, which becomes 'had to' once the reporting verb is past. -->
+- [x] B) He said he had to rest for a week.
+  <!-- feedback: Correct! Reported obligation shifts from 'must' to 'had to', and the time expression stays intact. -->
+- [ ] C) He said he must to rest for a week.
+  <!-- feedback: 'Must' takes the bare infinitive, so an extra 'to' makes the clause ungrammatical. -->
+- [ ] D) He said he rested for a week.
+  <!-- feedback: 'Rested' reports a completed action instead of an obligation, which loses the meaning of the original sentence. -->
 
 ### Explicacion Pedagogica
-The word 'sightseeing' is used to describe the activity of visiting places of interest in a particular location. This is an important vocabulary word in English.
+'Must' has two English values, and the shift depends on which one is meant. An external rule becomes 'had to', while an internal duty reported with 'must' stays 'must', as in 'He said he must finish the report'.
+
 ---
-## Question 9 [D5]
+
+## Question 9 [D6]
 **ID:** CR-ING-11-2026-W21-reported-speech-advanced-001-MASTERY-bundle-v9
-**Bloom:** Apply
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Bloom:** Analyze
+**EJE:** Linguistic Competence
+**Expected_Success:** 0.85
+**Contexto:** A journalist writes what a witness said during the trial.
 
 ### Enunciado
-What is the English word for: "A thing that is kept as a reminder of a person, place, or event."
+Choose the correct report of the direct speech "We were told to wait outside."
 
 ### Opciones
-- [x] D) souvenir
-  <!-- feedback: Correct! A 'souvenir' is an object kept afterwards as a reminder of the trip and of the people or places on it. -->
-- [ ] A) gift
-  <!-- feedback: Wrong. A 'gift' is chosen to be given to somebody else, while a souvenir is kept by the traveller. -->
-- [ ] B) award
-  <!-- feedback: Wrong. An 'award' is a distinction given for an achievement, not a keepsake bought on a trip. -->
-- [ ] C) prize
-  <!-- feedback: Wrong. A 'prize' is what a competitor wins in a contest; it says nothing about remembering a journey. -->
+- [ ] A) The witness said us to wait outside.
+  <!-- feedback: 'Said us' is not possible, because 'say' never takes an indirect object in English. -->
+- [ ] B) The witness said we were told to wait outside yesterday.
+  <!-- feedback: Adding 'yesterday' invents a time reference that the direct speech never contained. -->
+- [ ] C) The witness told we were told to wait outside.
+  <!-- feedback: 'Told' needs a person before the clause, and a bare 'we' is not an acceptable receiver for it. -->
+- [x] D) The witness said we had been told to wait outside.
+  <!-- feedback: Correct! The past perfect is required because the instruction was received before the moment of reporting. -->
 
 ### Explicacion Pedagogica
-The word 'souvenir' is used to describe a thing that is kept as a reminder of a person, place, or event. This is an important vocabulary word in English.
+A past perfect passive appears when the event reported is earlier than the reporting moment itself: 'We were told' is already past, and reported from a past verb it becomes 'had been told'. This is the past perfect shift of the passive.
+
 ---
+
 ## Question 10 [D6]
 **ID:** CR-ING-11-2026-W21-reported-speech-advanced-001-MASTERY-bundle-v10
 **Bloom:** Apply
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**EJE:** Linguistic Competence
+**Expected_Success:** 0.85
+**Contexto:** Two tourists compare what they heard about the volcano tour.
 
 ### Enunciado
-What is the English word for: "A period of time by which something is late or postponed."
+"We have already visited the crater," Ana said. Choose the correct report.
 
 ### Opciones
-- [x] D) delay
-  <!-- feedback: Correct! A 'delay' is the extra period of time by which a departure or arrival is postponed. -->
-- [ ] A) cancellation
-  <!-- feedback: Wrong. A 'cancellation' calls the plan off entirely, whereas a delay only postpones it by some hours. -->
-- [ ] B) departure
-  <!-- feedback: Wrong. 'Departure' is simply the moment of leaving; the lateness is measured separately from it. -->
-- [ ] C) arrival
-  <!-- feedback: Wrong. An 'arrival' is the moment of getting there, not the amount of time a plan runs late. -->
+- [x] A) Ana said they had already visited the crater.
+  <!-- feedback: Correct! The present perfect reports as the past perfect, the adverb 'already' stays, and 'we' becomes 'they' when the pronoun is changed. -->
+- [ ] B) Ana said they have already visited the crater.
+  <!-- feedback: 'Have visited' would report a present fact, which cannot be true while the reporting verb is past. -->
+- [ ] C) Ana said they already visited the crater.
+  <!-- feedback: 'Already visited' without any auxiliary leaves the clause unfinished and loses the perfect aspect. -->
+- [ ] D) Ana said they would already visit the crater.
+  <!-- feedback: 'Would visit' reports an intention that the original sentence never expressed. -->
 
 ### Explicacion Pedagogica
-The word 'delay' is used to describe a period of time by which something is late or postponed. This is an important vocabulary word in English.
+The present perfect has no direct past equivalent, so it reports as the past perfect. Position of adverbs such as 'already' is not affected by the shift, and pronouns change according to the reported speaker.
+
 ---
-## Question 11 [D7]
+
+## Question 11 [D6]
 **ID:** CR-ING-11-2026-W21-reported-speech-advanced-001-MASTERY-bundle-v11
 **Bloom:** Apply
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**EJE:** Linguistic Competence
+**Expected_Success:** 0.85
+**Contexto:** A teacher reports a student's excuse in a staff meeting.
 
 ### Enunciado
-What is the English word for: "The act of reporting one's presence and registering, typically at an airport or hotel."
+"I have been waiting for the bus for an hour," said Diego. What is the correct report?
 
 ### Opciones
-- [x] D) check-in
-  <!-- feedback: Correct! 'Check-in' is when you arrive and register, and the desk records your presence and gives you your pass. -->
-- [ ] A) check-out
-  <!-- feedback: Wrong. 'Check-out' is the opposite moment, when you pay and hand back the room key before leaving. -->
-- [ ] B) booking
-  <!-- feedback: Wrong. A 'booking' is the reservation made earlier, while check-in is the reporting of your arrival. -->
-- [ ] C) reservation
-  <!-- feedback: Wrong. A 'reservation' holds a room or a seat for you in advance, not the act of registering on arrival. -->
+- [ ] A) Diego said he has been waiting for the bus for an hour.
+  <!-- feedback: The present perfect continuous cannot stay in the present once the reporting verb is past. -->
+- [x] B) Diego said he had been waiting for the bus for an hour.
+  <!-- feedback: Correct! The present perfect continuous reports as the past perfect continuous, with the duration phrase unchanged. -->
+- [ ] C) Diego said he would waiting for the bus for an hour.
+  <!-- feedback: 'Would waiting' mixes a modal with a gerund instead of the infinitive the modal requires. -->
+- [ ] D) Diego said he is waiting for the bus for that hour.
+  <!-- feedback: 'Is waiting' keeps the original tense and also changes the duration into a single marked hour. -->
 
 ### Explicacion Pedagogica
-The word 'check-in' is used to describe the act of reporting one's presence and registering, typically at an airport or hotel. This is an important vocabulary word in English.
+Progressive forms shift the same way as their simple counterparts, so the present perfect continuous becomes the past perfect continuous. The duration expression such as 'for an hour' is normally left untouched because the length of the wait does not change.
+
 ---
-## Question 12 [D8]
+
+## Question 12 [D7]
 **ID:** CR-ING-11-2026-W21-reported-speech-advanced-001-MASTERY-bundle-v12
-**Bloom:** Apply
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Bloom:** Analyze
+**EJE:** Linguistic Competence
+**Expected_Success:** 0.85
+**Contexto:** A reporter checks a detail about the order of two past events.
 
 ### Enunciado
-What is the English word for: "A period of rest or waiting before a further stage in a journey."
+The witness said, "I finished my homework after my sister arrived home." Which report keeps the correct order?
 
 ### Opciones
-- [x] A) layover
-  <!-- feedback: Correct! A 'layover' is the wait between two flights, usually at the connecting airport, before you continue. -->
-- [ ] B) stopover
-  <!-- feedback: Wrong. A 'stopover' is a deliberate break in a long journey to spend extra time at a place, not a wait between flights. -->
-- [ ] C) transfer
-  <!-- feedback: Wrong. A 'transfer' is the flight or vehicle that moves you from one place to another, not the waiting itself. -->
-- [ ] D) transit
-  <!-- feedback: Wrong. 'Transit' names the general passing through an area or a country, not a specific rest between stages. -->
+- [ ] A) The witness said she finished her homework after her sister arrived home.
+  <!-- feedback: This keeps the present simple, which loses the past sequence the original sentence establishes. -->
+- [ ] B) The witness said she finishes her homework after her sister arrived home.
+  <!-- feedback: 'Finishes' turns a completed past action into a repeated present one, so the chronology disappears. -->
+- [x] C) The witness said she had finished her homework before her sister arrived home.
+  <!-- feedback: Correct! 'After' in the past triggers the past perfect for the earlier action, and 'after' becomes 'before'. -->
+- [ ] D) The witness said she would finish her homework after her sister arrived home.
+  <!-- feedback: 'Would finish' projects the action into the future and breaks the past chronology entirely. -->
 
 ### Explicacion Pedagogica
-The word 'layover' is used to describe a period of rest or waiting before a further stage in a journey. This is an important vocabulary word in English.
+The past perfect marks the action that is earlier in a past narrative. Reported from a past verb, an 'after' or 'before' relationship is inverted: the later event keeps the past simple and the earlier one takes 'had', with the conjunction flipped.
+
 ---
+
 ## Question 13 [D7]
 **ID:** CR-ING-11-2026-W21-reported-speech-advanced-001-MASTERY-bundle-v13
 **Bloom:** Analyze
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**EJE:** Linguistic Competence
+**Expected_Success:** 0.85
+**Contexto:** A witness describes what she heard from a driver who was stopped by police.
 
 ### Enunciado
-What is the English word for: "A system of money in general use in a particular country."
+"I was driving when the officer stopped me." Which report is most accurate?
 
 ### Opciones
-- [x] C) currency
-  <!-- feedback: Correct! 'Currency' is the whole monetary system a country uses, not any single object. -->
-- [ ] A) coin
-  <!-- feedback: Wrong. A 'coin' is one round metal piece of money, while the definition covers the entire money system. -->
-- [ ] B) banknote
-  <!-- feedback: Wrong. A 'banknote' is a single paper note, while the definition is about the money system of a whole country. -->
-- [ ] D) cash
-  <!-- feedback: Wrong. 'Cash' is the money in coins and notes that you are holding, regardless of any country's system. -->
+- [ ] A) She said she would be driving when the officer stopped her.
+  <!-- feedback: 'Would be driving' is the report of a future in progress, not of a past situation interrupted. -->
+- [ ] B) She said she drove when the officer was stopping her.
+  <!-- feedback: 'Drove' loses the continuous aspect, so the sentence no longer shows the action interrupted at that moment. -->
+- [ ] C) She said she has been driving when the officer stopped her.
+  <!-- feedback: The present perfect has no use in a past narrative where two interrupted actions meet. -->
+- [x] D) She said she was driving when the officer stopped her.
+  <!-- feedback: Correct! Both clauses are already past continuous, so the narration of a past interruption keeps them unchanged. -->
 
 ### Explicacion Pedagogica
-The word 'currency' is used to describe a system of money in general use in a particular country. This is an important vocabulary word in English.
+Not everything shifts. When both the reported clause and the frame are already past and the aspect is what carries the meaning, the past continuous is kept, because shifting it would destroy the picture of the interrupted action.
+
 ---
+
 ## Question 14 [D8]
 **ID:** CR-ING-11-2026-W21-reported-speech-advanced-001-MASTERY-bundle-v14
-**Bloom:** Analyze
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Bloom:** Evaluate
+**EJE:** Linguistic Competence
+**Expected_Success:** 0.85
+**Contexto:** An editor checks the accuracy of a reported interview in a Costa Rican newspaper.
 
 ### Enunciado
-What is the English word for: "A book of information about a place designed for the use of visitors or tourists."
+The sentence "She said she hasn't met the mayor yet" is grammatically inconsistent. Why?
 
 ### Opciones
-- [x] C) guidebook
-  <!-- feedback: Correct! A 'guidebook' is a book written about a place to help visitors find their way around it. -->
-- [ ] A) map
-  <!-- feedback: Wrong. A 'map' is a single drawing of an area, not the book of practical information about the place. -->
-- [ ] B) dictionary
-  <!-- feedback: Wrong. A 'dictionary' lists words and their meanings, not practical details about a destination. -->
-- [ ] D) encyclopedia
-  <!-- feedback: Wrong. An 'encyclopedia' covers all knowledge on a subject, while a guidebook is written about one specific place. -->
+- [ ] A) Because a reported clause can never follow the verb 'say'.
+  <!-- feedback: 'Say' is one of the standard reporting verbs, so the construction is perfectly normal. -->
+- [x] B) Because the present perfect has to become the past perfect after a past reporting verb.
+  <!-- feedback: Correct! 'Has met' points to a period reaching the present, which must move to 'had met' once the reporting verb is past. -->
+- [ ] C) Because the word 'yet' cannot appear in reported speech.
+  <!-- feedback: Time adverbs such as 'yet', 'already' and 'ever' are carried into reported speech without restriction. -->
+- [ ] D) Because the subject pronoun 'she' must become 'he' when the speaker changes.
+  <!-- feedback: Pronouns change only when the reference changes; a first-person statement reported as 'she' keeps the third person. -->
 
 ### Explicacion Pedagogica
-The word 'guidebook' is used to describe a book of information about a place designed for the use of visitors or tourists. This is an important vocabulary word in English.
+Tense shift is not decoration but meaning. A present perfect connects the event to the present moment, so if the reporting verb sits in the past the connection must be redrawn to that past moment, which is exactly what the past perfect does.
+
 ---
-## Question 15 [D7]
+
+## Question 15 [D8]
 **ID:** CR-ING-11-2026-W21-reported-speech-advanced-001-MASTERY-bundle-v15
-**Bloom:** Analyze
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Bloom:** Evaluate
+**EJE:** Linguistic Competence
+**Expected_Success:** 0.85
+**Contexto:** A student is taught how to avoid a common error in her exam writing.
 
 ### Enunciado
-What is the English word for: "A bag with shoulder straps that allow it to be carried on one's back."
+Which practice is most reliable when backshifting reported speech?
 
 ### Opciones
-- [x] B) backpack
-  <!-- feedback: Correct! A 'backpack' has two shoulder straps and is designed to be carried on your back. -->
-- [ ] A) suitcase
-  <!-- feedback: Wrong. A 'suitcase' is a flat box with a handle that you pull along beside you. -->
-- [ ] C) briefcase
-  <!-- feedback: Wrong. A 'briefcase' is a stiff case for papers that you carry in your hand at work. -->
-- [ ] D) handbag
-  <!-- feedback: Wrong. A 'handbag' is held in the hand and has no straps at all. -->
+- [x] A) Move each tense one step back and adjust the time and place words to the new reference point.
+  <!-- feedback: Correct! That is the two-part procedure of the rule: a backshift for tense and a realignment of deictic expressions. -->
+- [ ] B) Keep every tense exactly as it was written and change nothing else.
+  <!-- feedback: Tenses that are already past are normally kept, and time words always need adjusting, so freezing the clause is always wrong. -->
+- [ ] C) Replace the reporting verb with 'tells' to keep the original present moment.
+  <!-- feedback: Changing the reporting verb to a present form removes the need for any shift, but it also changes when the reporting happened. -->
+- [ ] D) Move every tense to the past simple, whatever the original form was.
+  <!-- feedback: Collapsing every form into the past simple destroys the difference between a habit, a completed event and a state in progress. -->
 
 ### Explicacion Pedagogica
-The word 'backpack' is used to describe a bag with shoulder straps that allow it to be carried on one's back. This is an important vocabulary word in English.
+Mastery of reported speech is the ability to apply two procedures in order. First the tense moves back when required, and second the demonstratives and time expressions are re-pointed at the moment of reporting. Doing only the first produces sentences the reader cannot place in time.
+
 ---
+
 ## Question 16 [D8]
 **ID:** CR-ING-11-2026-W21-reported-speech-advanced-001-MASTERY-bundle-v16
-**Bloom:** Analyze
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Bloom:** Evaluate
+**EJE:** Linguistic Competence
+**Expected_Success:** 0.85
+**Contexto:** A student evaluates a summary of a short story.
 
 ### Enunciado
-What is the English word for: "In or to a foreign country, especially one across the sea."
+Which option reports "He gave me the letter yesterday" correctly?
 
 ### Opciones
-- [x] A) overseas
-  <!-- feedback: Correct! 'Overseas' means to or in another country reached by crossing the sea. -->
-- [ ] B) domestic
-  <!-- feedback: Wrong. 'Domestic' means inside the borders of your own country, which is the opposite of overseas. -->
-- [ ] C) local
-  <!-- feedback: Wrong. 'Local' means in a particular small area or town, which may well be inside your own country. -->
-- [ ] D) national
-  <!-- feedback: Wrong. 'National' means concerning the nation as a whole, not travelling away from it across the sea. -->
+- [ ] A) He said he gives me the letter the day before.
+  <!-- feedback: Gave reports as 'gave' when the reporting verb is itself the reporting word, so 'says he gives' mixes two frames. -->
+- [ ] B) He said he had given me the letter the previous day.
+  <!-- feedback: The tense shift and the time word are correct, but 'gave' does not take the person as its object, so the receiver is lost. -->
+- [x] C) He told me he had given the letter to me the day before.
+  <!-- feedback: Correct! 'Told' receives the person, 'gave' shifts to the past perfect, and 'yesterday' becomes the day before. -->
+- [ ] D) He gave told me the letter the previous day.
+  <!-- feedback: 'Gave told' is not an English construction; a reporting verb cannot be inserted inside another verb. -->
 
 ### Explicacion Pedagogica
-The word 'overseas' is used to describe in or to a foreign country, especially one across the sea. This is an important vocabulary word in English.
+This sentence packs three separate operations: the verb of giving takes an indirect object, the past simple becomes the past perfect, and the time word moves back one day. Handling all three is what distinguishes a controlled rewrite from a mechanical one.
+
 ---
+
 ## Question 17 [D9]
 **ID:** CR-ING-11-2026-W21-reported-speech-advanced-001-MASTERY-bundle-v17
 **Bloom:** Evaluate
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**EJE:** Linguistic Competence
+**Expected_Success:** 0.85
+**Contexto:** A linguistics class discusses ambiguity in reported questions.
 
 ### Enunciado
-What is the English word for: "An estimate of income and expenditure for a set period of time."
+The report "She asked whether I had finished the report" is ambiguous. Where?
 
 ### Opciones
-- [x] B) budget
-  <!-- feedback: Correct! A 'budget' estimates planned income and spending over a set period such as a month or a year. -->
-- [ ] A) expense
-  <!-- feedback: Wrong. An 'expense' is a single outgoing payment, not a plan covering a whole period. -->
-- [ ] C) cost
-  <!-- feedback: Wrong. The 'cost' is the price of one thing or service, with no timeframe attached to it. -->
-- [ ] D) price
-  <!-- feedback: Wrong. A 'price' is the amount a single item sells for, not an estimate of a period's finances. -->
+- [ ] A) The tense is wrong, because a reported question can never use the past perfect.
+  <!-- feedback: The past perfect is perfectly normal here, since the asking happened before the finishing. -->
+- [x] B) The subject of 'had finished' may be the asker or the person asked.
+  <!-- feedback: Correct! Reported questions drop the inverted word order of the direct question, so the subject of 'had finished' is no longer fixed by the structure. -->
+- [ ] C) The word 'whether' cannot introduce a reported question.
+  <!-- feedback: Both 'if' and 'whether' are standard openers of a reported yes-no question. -->
+- [ ] D) The verb 'asked' does not allow a clause as its object.
+  <!-- feedback: 'Ask' normally takes a clause as its object, as in 'She asked what time it was'. -->
 
 ### Explicacion Pedagogica
-The word 'budget' is used to describe an estimate of income and expenditure for a set period of time. This is an important vocabulary word in English.
+Losing the inversion of a direct question also loses one of its clues. 'Did I finish the report?' shows by its word order that the asker is the subject, but once it becomes 'whether I had finished', the clause can attach to either participant.
+
 ---
-## Question 18 [D10]
+
+## Question 18 [D9]
 **ID:** CR-ING-11-2026-W21-reported-speech-advanced-001-MASTERY-bundle-v18
 **Bloom:** Evaluate
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**EJE:** Linguistic Competence
+**Expected_Success:** 0.85
+**Contexto:** An editor assesses the accuracy of a translated set of exam instructions.
 
 ### Enunciado
-What is the English word for: "A practice or arrangement by which a company or government agency provides a guarantee of compensation for specified loss, damage, illness, or death in return for payment of a premium."
+Which sentence reports the modal 'might' with the correct degree of certainty?
 
 ### Opciones
-- [x] D) insurance
-  <!-- feedback: Correct! 'Insurance' is the arrangement where a company pays compensation for a specified loss in exchange for a premium. -->
-- [ ] A) warranty
-  <!-- feedback: Wrong. A 'warranty' covers a defective product for a limited time and is given by the maker, not for illness or death. -->
-- [ ] B) guarantee
-  <!-- feedback: Wrong. A 'guarantee' is a promise about the quality of a product or service, with no payment of a premium. -->
-- [ ] C) policy
-  <!-- feedback: Wrong. A 'policy' is the written document that records an insurance contract, not the practice of compensation itself. -->
+- [ ] A) She said she must arrive early.
+  <!-- feedback: 'Must' reports a strong obligation, which is far more certain than the possibility expressed in the original. -->
+- [ ] B) She said she can arrive early.
+  <!-- feedback: 'Can' reports ability or permission, which is a different relationship to the event than a remote possibility. -->
+- [ ] C) She said she would arrive early.
+  <!-- feedback: 'Would' reports a future or a conditional, and it loses the idea of a small chance. -->
+- [x] D) She said she might arrive early.
+  <!-- feedback: Correct! 'Might' already expresses possibility, so the shift keeps the same degree of uncertainty. -->
 
 ### Explicacion Pedagogica
-The word 'insurance' is used to describe a practice or arrangement by which a company or government agency provides a guarantee of compensation for specified loss, damage, illness, or death in return for payment of a premium. This is an important vocabulary word in English.
+Modals form a scale from certain to impossible, and the backshift moves each member along that scale without changing its relative position: must becomes had to, will becomes would, and may and might usually remain as they are.
+
 ---
+
 ## Question 19 [D9]
 **ID:** CR-ING-11-2026-W21-reported-speech-advanced-001-MASTERY-bundle-v19
 **Bloom:** Evaluate
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**EJE:** Linguistic Competence
+**Expected_Success:** 0.85
+**Contexto:** A candidate prepares for an oral exam in which she must summarize a survey.
 
 ### Enunciado
-What is the English word for: "Treatment with a vaccine to produce immunity against a disease."
+Which combination of changes is required to report "We can cut the budget if the council approves it"?
 
 ### Opciones
-- [x] D) vaccination
-  <!-- feedback: Correct! 'Vaccination' is the administration of a vaccine that makes the immune system ready against a disease. -->
-- [ ] A) medication
-  <!-- feedback: Wrong. 'Medication' treats the symptoms of an illness you already have; it does not create immunity beforehand. -->
-- [ ] B) prescription
-  <!-- feedback: Wrong. A 'prescription' is the doctor's written order for a medicine, not the vaccine itself. -->
-- [ ] C) infection
-  <!-- feedback: Wrong. An 'infection' is the invasion of the body by a pathogen, which is the opposite of preventing it. -->
+- [ ] A) Keep 'we' and 'can', and replace 'if' with 'when'.
+  <!-- feedback: Keeping the present modal leaves the reported speech anchored in the present, and 'when' proposes a certainty the original never stated. -->
+- [x] B) Use 'they', shift 'can' to 'could' and 'approves' to 'approved' inside the conditional.
+  <!-- feedback: Correct! The pronoun change, the modal shift and the tense shift inside the conditional all follow from a past reporting verb. -->
+- [ ] C) Shift 'can' to 'could' and leave every other element untouched.
+  <!-- feedback: The pronoun also has to change when the reported speaker is a third person, so leaving it as 'we' is wrong. -->
+- [ ] D) Shift 'we' to 'they' but keep the conditional in the present.
+  <!-- feedback: A conditional clause whose consequence is still open must move with the rest of the reported clause to the past. -->
 
 ### Explicacion Pedagogica
-The word 'vaccination' is used to describe treatment with a vaccine to produce immunity against a disease. This is an important vocabulary word in English.
+Reported speech of a conditional sentence requires coordinated work: the modal of the matrix shifts, the verb inside the if-clause shifts, and the pronouns change with the new speaker. Handling only part of the three produces a sentence that reads as two different tenses.
+
 ---
+
 ## Question 20 [D10]
 **ID:** CR-ING-11-2026-W21-reported-speech-advanced-001-MASTERY-bundle-v20
 **Bloom:** Evaluate
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**EJE:** Linguistic Competence
+**Expected_Success:** 0.85
+**Contexto:** A senior student audits a set of exam instructions for translation errors.
 
 ### Enunciado
-What is the English word for: "Extreme tiredness and other physical effects felt by a person after a long flight across several time zones."
+Which sentence is the only fully correct report of "I would rather stay at home tonight"?
 
 ### Opciones
-- [x] D) jet lag
-  <!-- feedback: Correct! 'Jet lag' is the tiredness and disturbed body clock caused by crossing several time zones in a flight. -->
-- [ ] A) fatigue
-  <!-- feedback: Wrong. 'Fatigue' is general tiredness from any cause, such as hard work, not specifically from time zones. -->
-- [ ] B) exhaustion
-  <!-- feedback: Wrong. 'Exhaustion' is extreme tiredness from physical effort or illness, not from a change of time zone. -->
-- [ ] C) insomnia
-  <!-- feedback: Wrong. 'Insomnia' is simply difficulty sleeping, which can come from many causes unrelated to flying. -->
+- [x] A) She said she would rather stay at home that night.
+  <!-- feedback: Correct! 'Would rather' keeps its form, the infinitive 'stay' stays bare, and the time word shifts to that night. -->
+- [ ] B) She said she would rather stayed at home that night.
+  <!-- feedback: 'Would rather' is followed by the bare infinitive, never by the past form 'stayed'. -->
+- [ ] C) She said she would rather to stay at home that night.
+  <!-- feedback: An extra 'to' after 'would rather' produces a mixture of the infinitive and the subjunctive patterns. -->
+- [ ] D) She said she would rather staying at home that night.
+  <!-- feedback: 'Would rather' does not take a gerund, so 'rather staying' is not an accepted form. -->
 
 ### Explicacion Pedagogica
-The word 'jet lag' is used to describe extreme tiredness and other physical effects felt by a person after a long flight across several time zones. This is an important vocabulary word in English.
+Some structures are immune to backshift because they are already past in meaning. 'Would rather', 'had better' and the modals of deduction keep their form, and the student only needs to shift the time expressions around them.
+
+---

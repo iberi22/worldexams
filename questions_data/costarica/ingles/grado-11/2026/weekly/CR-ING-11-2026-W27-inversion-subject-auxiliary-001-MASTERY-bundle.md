@@ -17,466 +17,509 @@ tier: "legacy"
 creador: "Jules-Agent"
 bundle_index: 1
 ---
-# MASTERY Bundle - Ingles: Inversion Subject Auxiliary (W27)
-**20 preguntas | Ingles | Curriculo de Ingles**
+# Bundle MASTERY: Inversion Subject Auxiliary - Grado 11
+
+Este bundle contiene 20 preguntas sobre **inversion-subject-auxiliary** para grado 11,
+alineadas con el programa de estudios del MEP Costa Rica para Bachillerato 2026.
 
 ---
+
 ## Question 1 [D3]
 **ID:** CR-ING-11-2026-W27-inversion-subject-auxiliary-001-MASTERY-bundle-v1
 **Bloom:** Remember
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**EJE:** Linguistic Competence
+**Expected_Success:** 0.85
+**Contexto:** At the Colegio San Marcos in Heredia, a teacher checks what her class did for the school fair.
 
 ### Enunciado
-What is the English word for: "A place where you live or stay on holiday."
+Which sentence places the auxiliary before the subject, as a yes/no question does?
 
 ### Opciones
-- [x] D) accommodation
-  <!-- feedback: Correct! 'Accommodation' is the word for a place where you live or stay when you are on holiday. -->
-- [ ] A) transportation
-  <!-- feedback: 'Transportation' is the way you move from one place to another (buses, trains, planes), not the place where you sleep. -->
-- [ ] B) entertainment
-  <!-- feedback: 'Entertainment' is the fun or activities you enjoy, not the building or room where you stay. -->
-- [ ] C) currency
-  <!-- feedback: 'Currency' is the money of a country, which has nothing to do with where you sleep. -->
+- [x] A) Did the students finish the poster for the fair?
+  <!-- feedback: Correct: the auxiliary did comes before the subject the students, which is the inverted question order. -->
+- [ ] B) The students finished the poster yesterday.
+  <!-- feedback: This is a statement, so the subject the students stays in front of the verb finished. -->
+- [ ] C) She has visited Cartago three times.
+  <!-- feedback: A statement with have as the main verb also keeps the subject first; no inversion is involved. -->
+- [ ] D) Never she has visited Cartago.
+  <!-- feedback: Placing the subject she right after never keeps statement order and misses the required inversion. -->
 
 ### Explicacion Pedagogica
-The word 'accommodation' is used to describe a place where you live or stay on holiday. This is an important vocabulary word in English.
+In yes/no questions the auxiliary verb comes before the subject: did the students finish it? Statements keep the subject first.
+
 ---
-## Question 2 [D4]
+
+## Question 2 [D3]
 **ID:** CR-ING-11-2026-W27-inversion-subject-auxiliary-001-MASTERY-bundle-v2
 **Bloom:** Remember
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**EJE:** Linguistic Competence
+**Expected_Success:** 0.85
+**Contexto:** A coffee worker in Turrialba describes the harvest on her family farm.
 
 ### Enunciado
-What is the English word for: "A detailed plan or route of a journey."
+Which sentence correctly inverts after the negative adverb never?
 
 ### Opciones
-- [x] D) itinerary
-  <!-- feedback: Correct! An 'itinerary' is a detailed plan of a journey, listing the places and times along the route. -->
-- [ ] A) baggage
-  <!-- feedback: 'Baggage' is the suitcases and bags you travel with, not the written plan of the trip. -->
-- [ ] B) destination
-  <!-- feedback: 'Destination' is the place you are going to, a single place, while an itinerary is the whole route plan. -->
-- [ ] C) passport
-  <!-- feedback: 'Passport' is the travel document that lets you cross a border, not the schedule of your trip. -->
+- [ ] A) Never she drinks coffee before dawn.
+  <!-- feedback: Keeping the subject she right after never leaves statement order, so this is not inversion. -->
+- [ ] B) Not only she works six days a week.
+  <!-- feedback: After not only the auxiliary should come first: not only does she work six days a week. -->
+- [x] C) Never have I seen such a long harvest.
+  <!-- feedback: Correct: after a negative adverbial like never, the auxiliary have moves in front of the subject I. -->
+- [ ] D) Seldom the rain falls in Turrialba.
+  <!-- feedback: Seldom is negative, so the auxiliary must also be inverted here instead of following the adverbial. -->
 
 ### Explicacion Pedagogica
-The word 'itinerary' is used to describe a detailed plan or route of a journey. This is an important vocabulary word in English.
+After a negative or restrictive adverbial such as never, seldom or not only, the auxiliary moves in front of the subject.
+
 ---
-## Question 3 [D3]
+
+## Question 3 [D4]
 **ID:** CR-ING-11-2026-W27-inversion-subject-auxiliary-001-MASTERY-bundle-v3
 **Bloom:** Understand
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**EJE:** Linguistic Competence
+**Expected_Success:** 0.85
+**Contexto:** A guide in Monteverde explains the cloud forest trails to visiting students.
 
 ### Enunciado
-What is the English word for: "The place to which someone or something is going or being sent."
+Which option forms a negative question with the auxiliary before the subject?
 
 ### Opciones
-- [x] C) destination
-  <!-- feedback: Correct! A 'destination' is the place someone or something is going or being sent to. -->
-- [ ] A) departure
-  <!-- feedback: 'Departure' is the action of leaving, the opposite end of the journey from the destination. -->
-- [ ] B) arrival
-  <!-- feedback: 'Arrival' is the act of getting there; the place you arrive at is the destination. -->
-- [ ] D) journey
-  <!-- feedback: 'Journey' is the whole trip from start to finish, not the place you are heading to. -->
+- [ ] A) Not you have visited the cloud forest before?
+  <!-- feedback: Leading with not and then the subject builds a statement pattern, not a negative question. -->
+- [x] B) Haven't you visited the cloud forest before?
+  <!-- feedback: This is correct: the contracted auxiliary have not stands before the subject you. -->
+- [ ] C) Do you have visited the cloud forest before?
+  <!-- feedback: Do cannot support the present perfect, and negative questions put not after the subject, not before the verb. -->
+- [ ] D) You don't have visited the cloud forest before?
+  <!-- feedback: Here the auxiliary don't follows the subject, which is the order of a statement and not of a question. -->
 
 ### Explicacion Pedagogica
-The word 'destination' is used to describe the place to which someone or something is going or being sent. This is an important vocabulary word in English.
+Negative questions invert the auxiliary before the subject and place not after it: have you not finished the work?
+
 ---
+
 ## Question 4 [D4]
 **ID:** CR-ING-11-2026-W27-inversion-subject-auxiliary-001-MASTERY-bundle-v4
 **Bloom:** Understand
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**EJE:** Linguistic Competence
+**Expected_Success:** 0.85
+**Contexto:** A high school student in Cartago asks her teacher about her English class.
 
 ### Enunciado
-What is the English word for: "Suitcases or other bags in which to pack personal belongings for traveling."
+Which of these questions has an inversion error?
 
 ### Opciones
-- [x] D) luggage
-  <!-- feedback: Correct! 'Luggage' means suitcases and bags in which you pack your belongings for a trip. -->
-- [ ] A) ticket
-  <!-- feedback: 'Ticket' is the paper that gives you the right to travel on a bus, train or plane, not the bag itself. -->
-- [ ] B) flight
-  <!-- feedback: 'Flight' is the journey by plane, or the plane itself; the bags are called luggage. -->
-- [ ] C) reservation
-  <!-- feedback: 'Reservation' is the booking you make for a seat or a room, not the bags you pack. -->
+- [ ] A) Where does your brother study medicine?
+  <!-- feedback: This one is correct: the wh- word is followed by does, then the subject your brother. -->
+- [ ] B) Why did you choose English for that class?
+  <!-- feedback: This one is correct: did carries the past tense, so the base verb choose follows the subject you. -->
+- [ ] C) Which subject do you prefer most?
+  <!-- feedback: This one is correct: which + do + subject + verb is the standard pattern for a subject question. -->
+- [x] D) What class your brother studies every morning?
+  <!-- feedback: The wh- word plus the subject leaves no place for the auxiliary, so the auxiliary is missing here. -->
 
 ### Explicacion Pedagogica
-The word 'luggage' is used to describe suitcases or other bags in which to pack personal belongings for traveling. This is an important vocabulary word in English.
+Wh- questions invert auxiliary and subject: what class does he study? The question word and the subject never touch.
+
 ---
+
 ## Question 5 [D5]
 **ID:** CR-ING-11-2026-W27-inversion-subject-auxiliary-001-MASTERY-bundle-v5
-**Bloom:** Understand
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Bloom:** Apply
+**EJE:** Linguistic Competence
+**Expected_Success:** 0.85
+**Contexto:** A librarian in Alajuela reminds students about the return of borrowed books.
 
 ### Enunciado
-What is the English word for: "A traveler on a public or private conveyance other than the driver, pilot, or crew."
+Which question turns 'The books are due on Friday' into a yes/no question?
 
 ### Opciones
-- [x] A) passenger
-  <!-- feedback: Correct! A 'passenger' is a person who travels on a vehicle without being the driver, pilot or crew. -->
-- [ ] B) pedestrian
-  <!-- feedback: 'Pedestrian' is someone who travels on foot, so they are not on a conveyance at all. -->
-- [ ] C) commuter
-  <!-- feedback: 'Commuter' is someone who travels regularly between home and work; the definition here is any traveller on board, not only that daily case. -->
-- [ ] D) tourist
-  <!-- feedback: 'Tourist' is someone visiting for pleasure or sightseeing, but the definition covers every traveller on board, including commuters and residents. -->
+- [x] A) Are the books due on Friday?
+  <!-- feedback: Correct: are is moved in front of the subject the books, and the rest of the word order stays. -->
+- [ ] B) The books are due on Friday, yes?
+  <!-- feedback: Adding yes as a tag does not build a yes/no question and leaves the auxiliary after the subject. -->
+- [ ] C) Do the books due on Friday?
+  <!-- feedback: Do cannot stand before the adjective phrase due on Friday; this sentence needs a form of be. -->
+- [ ] D) Is due the books on Friday?
+  <!-- feedback: Swapping two words is not inversion: only the auxiliary itself moves to the front of the clause. -->
 
 ### Explicacion Pedagogica
-The word 'passenger' is used to describe a traveler on a public or private conveyance other than the driver, pilot, or crew. This is an important vocabulary word in English.
+To make a yes/no question from a be-verb statement, move only the auxiliary in front of the subject and keep the rest.
+
 ---
-## Question 6 [D6]
+
+## Question 6 [D5]
 **ID:** CR-ING-11-2026-W27-inversion-subject-auxiliary-001-MASTERY-bundle-v6
-**Bloom:** Understand
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Bloom:** Apply
+**EJE:** Linguistic Competence
+**Expected_Success:** 0.85
+**Contexto:** A student in Liberia remembers the bus she missed during the rainy season.
 
 ### Enunciado
-What is the English word for: "The place at a port, airport, or frontier where officials check incoming goods, travelers, or luggage."
+Which version drops if from 'If she had left earlier, she would have caught the bus'?
 
 ### Opciones
-- [x] A) customs
-  <!-- feedback: Correct! 'Customs' is the office at a port, airport or border where officials check goods, travellers and luggage. -->
-- [ ] B) security
-  <!-- feedback: 'Security' is the staff who control safety and boarding inside the airport; it does not check the goods you bring in. -->
-- [ ] C) terminal
-  <!-- feedback: 'Terminal' is the whole building where passengers wait, eat and catch their flights. -->
-- [ ] D) gate
-  <!-- feedback: 'Gate' is the particular door you board through, not the place where officials inspect your luggage. -->
+- [ ] A) If she had left earlier, she would have caught the bus.
+  <!-- feedback: The clause keeps if, so nothing is inverted and the two-clause conditional is still complete. -->
+- [x] B) Had she left earlier, she would have caught the bus.
+  <!-- feedback: Correct: with if dropped, the past perfect auxiliary had is placed before the subject she. -->
+- [ ] C) Did she leave earlier, she would have caught the bus.
+  <!-- feedback: Did marks simple past, but this unreal situation needs the past perfect had plus the past participle left. -->
+- [ ] D) Would have she left earlier, she would have caught the bus.
+  <!-- feedback: Would have is the auxiliary of the result clause, so it cannot open the inverted conditional clause. -->
 
 ### Explicacion Pedagogica
-The word 'customs' is used to describe the place at a port, airport, or frontier where officials check incoming goods, travelers, or luggage. This is an important vocabulary word in English.
+Drop if in a conditional and invert: the if-clause auxiliary (had, were, should) moves in front of the subject to mark unreal time.
+
 ---
-## Question 7 [D5]
+
+## Question 7 [D6]
 **ID:** CR-ING-11-2026-W27-inversion-subject-auxiliary-001-MASTERY-bundle-v7
 **Bloom:** Apply
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**EJE:** Linguistic Competence
+**Expected_Success:** 0.85
+**Contexto:** A supervisor at a coffee processing plant in Naranjo watches the morning shift.
 
 ### Enunciado
-What is the English word for: "A document provided by an airline during check-in, giving a passenger permission to board the airplane."
+Which sentence puts 'Only after the siren sounds' first, with inversion?
 
 ### Opciones
-- [x] A) boarding pass
-  <!-- feedback: Correct! The 'boarding pass' is the document the airline gives you at check-in that authorises you to board. -->
-- [ ] B) visa
-  <!-- feedback: 'Visa' is the official permission to enter and stay in a country, requested before the trip, not the document that lets you board a plane. -->
-- [ ] C) receipt
-  <!-- feedback: 'Receipt' is the proof of payment for a purchase, not the travel document for boarding. -->
-- [ ] D) brochure
-  <!-- feedback: 'Brochure' is a small booklet of tourist information, not the document that lets you board. -->
+- [ ] A) Only after the siren sounds the workers stop for lunch.
+  <!-- feedback: A fronted only after phrase needs the auxiliary do in front of the subject, not plain statement order. -->
+- [ ] B) Only after the siren sounds, stop the workers for lunch.
+  <!-- feedback: This has no subject at all, so it reads as a command; the real subject must follow the auxiliary do. -->
+- [ ] C) The workers only after the siren sounds stop for lunch.
+  <!-- feedback: Placing the subject before the fronted phrase breaks the pattern, because the auxiliary has to come first here. -->
+- [x] D) Only after the siren sounds do the workers stop for lunch.
+  <!-- feedback: Correct: the fronted only after phrase triggers inversion, so do comes before the subject the workers. -->
 
 ### Explicacion Pedagogica
-The word 'boarding pass' is used to describe a document provided by an airline during check-in, giving a passenger permission to board the airplane. This is an important vocabulary word in English.
+When a restrictive or negative adverbial (only, never, not until, seldom) opens the clause, the auxiliary is inverted with it.
+
 ---
+
 ## Question 8 [D6]
 **ID:** CR-ING-11-2026-W27-inversion-subject-auxiliary-001-MASTERY-bundle-v8
-**Bloom:** Apply
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Bloom:** Analyze
+**EJE:** Linguistic Competence
+**Expected_Success:** 0.85
+**Contexto:** An editor at a school newspaper in Heredia tightens a headline before printing it.
 
 ### Enunciado
-What is the English word for: "The activity of visiting places of interest in a particular location."
+Which sentence gives the emphasis an editor wants with the phrase 'Not only'?
 
 ### Opciones
-- [x] A) sightseeing
-  <!-- feedback: Correct! 'Sightseeing' is the activity of visiting the places of interest in a location. -->
-- [ ] B) shopping
-  <!-- feedback: 'Shopping' is buying things in stores, which is not the same as visiting the sights of a place. -->
-- [ ] C) hiking
-  <!-- feedback: 'Hiking' is walking in the countryside on trails, not the general activity of visiting a location's attractions. -->
-- [ ] D) camping
-  <!-- feedback: 'Camping' is staying outdoors in a tent, not visiting the sights of a location. -->
+- [x] A) Not only did she win the national writing contest.
+  <!-- feedback: Correct: not only is fronted, so its auxiliary did moves in front of the subject she and stresses the second part. -->
+- [ ] B) Not only she did win the national writing contest.
+  <!-- feedback: Here not only stays in front of the full verb did win, which keeps statement order and kills the contrast. -->
+- [ ] C) She not only did win the national writing contest.
+  <!-- feedback: With the subject first the adverbial is not fronted, so the reader gets an ordinary statement with no contrast. -->
+- [ ] D) Not only won she the national writing contest.
+  <!-- feedback: Fronting not only cannot split the verb phrase won from its subject; only the auxiliary may move forward. -->
 
 ### Explicacion Pedagogica
-The word 'sightseeing' is used to describe the activity of visiting places of interest in a particular location. This is an important vocabulary word in English.
+Fronting not only, never, seldom or only demands auxiliary inversion and puts the focus on the second element of the clause.
+
 ---
-## Question 9 [D5]
+
+## Question 9 [D7]
 **ID:** CR-ING-11-2026-W27-inversion-subject-auxiliary-001-MASTERY-bundle-v9
-**Bloom:** Apply
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Bloom:** Analyze
+**EJE:** Linguistic Competence
+**Expected_Success:** 0.85
+**Contexto:** A guide in Tortuguero explains when the night tour starts in the national park.
 
 ### Enunciado
-What is the English word for: "A thing that is kept as a reminder of a person, place, or event."
+Which sentence stresses the time limit, with 'only after dark' fronted?
 
 ### Opciones
-- [x] D) souvenir
-  <!-- feedback: Correct! A 'souvenir' is the object you keep afterwards as a reminder of a person, place or event you visited. -->
-- [ ] A) gift
-  <!-- feedback: 'Gift' is something you give to another person; a souvenir is kept by the person who took the trip. -->
-- [ ] B) award
-  <!-- feedback: 'Award' is a prize given for an achievement, not an object bought or kept as a memory. -->
-- [ ] C) prize
-  <!-- feedback: 'Prize' is the reward you win in a competition, so it comes from winning rather than from a journey. -->
+- [ ] A) The tour starts only after dark.
+  <!-- feedback: The sentence is grammatically fine, but a mid-position only after gives no contrast or stress at all. -->
+- [ ] B) Only after dark the tour starts at the pier.
+  <!-- feedback: A fronted only after phrase requires the auxiliary before the subject, so statement order is not accepted. -->
+- [x] C) Only after dark does the tour start at the pier.
+  <!-- feedback: Correct: only after dark is fronted, so the auxiliary does stands before the subject the tour. -->
+- [ ] D) Only after dark does start the tour at the pier.
+  <!-- feedback: Here does comes before the main verb start, which leaves the subject the tour with no place in the pattern. -->
 
 ### Explicacion Pedagogica
-The word 'souvenir' is used to describe a thing that is kept as a reminder of a person, place, or event. This is an important vocabulary word in English.
+A fronted only + time phrase is restrictive: it forces inversion (does, did) and it focuses attention on that limit.
+
 ---
-## Question 10 [D6]
+
+## Question 10 [D7]
 **ID:** CR-ING-11-2026-W27-inversion-subject-auxiliary-001-MASTERY-bundle-v10
-**Bloom:** Apply
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Bloom:** Evaluate
+**EJE:** Linguistic Competence
+**Expected_Success:** 0.85
+**Contexto:** A student in San Jose emails her English teacher about a class she missed.
 
 ### Enunciado
-What is the English word for: "A period of time by which something is late or postponed."
+Which email sentence correctly repairs the draft 'Why you were absent'?
 
 ### Opciones
-- [x] C) delay
-  <!-- feedback: Correct! A 'delay' is the extra time by which something ends up late or gets postponed. -->
-- [ ] A) cancellation
-  <!-- feedback: 'Cancellation' means the event does not happen at all, not that it happens later than planned. -->
-- [ ] B) departure
-  <!-- feedback: 'Departure' is the scheduled time or the act of leaving; the definition is about the extra time lost. -->
-- [ ] D) arrival
-  <!-- feedback: 'Arrival' is getting there, the opposite moment. Here we want the time lost, not the time you reach the destination. -->
+- [ ] A) Why you were absent last Monday?
+  <!-- feedback: The question word cannot be followed directly by the subject; the auxiliary were belongs in that slot. -->
+- [x] B) Why were you absent last Monday?
+  <!-- feedback: This one is correct: why + were + you follows the inverted pattern for a wh- question whose subject is you. -->
+- [ ] C) Why did you absent last Monday?
+  <!-- feedback: Did cannot follow a form of be; since the sentence uses was, the main verb has to be the base form absent. -->
+- [ ] D) Why you did absent last Monday?
+  <!-- feedback: Placing the subject you right after why cancels the inversion and leaves the auxiliary without a place. -->
 
 ### Explicacion Pedagogica
-The word 'delay' is used to describe a period of time by which something is late or postponed. This is an important vocabulary word in English.
+Wh- questions invert auxiliary and subject: why were you absent? The question word and the subject are never adjacent.
+
 ---
-## Question 11 [D7]
+
+## Question 11 [D8]
 **ID:** CR-ING-11-2026-W27-inversion-subject-auxiliary-001-MASTERY-bundle-v11
-**Bloom:** Apply
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Bloom:** Evaluate
+**EJE:** Linguistic Competence
+**Expected_Success:** 0.85
+**Contexto:** A student at the Teatro Nacional rehearses a speech for a school competition.
 
 ### Enunciado
-What is the English word for: "The act of reporting one's presence and registering, typically at an airport or hotel."
+Which opening expresses the unreal condition 'If I were in your place'?
 
 ### Opciones
-- [x] B) check-in
-  <!-- feedback: Correct! 'Check-in' is the act of reporting your arrival and registering at the airport or hotel counter. -->
-- [ ] A) check-out
-  <!-- feedback: 'Check-out' is the opposite moment, when you leave the hotel or hand back the room. -->
-- [ ] C) booking
-  <!-- feedback: 'Booking' is the reservation you made earlier; the act of registering your presence on arrival is check-in. -->
-- [ ] D) reservation
-  <!-- feedback: 'Reservation' is the booking document, not the act of reporting your presence at the desk. -->
+- [ ] A) If I would be in your place, I would take the stage.
+  <!-- feedback: A fully unreal if-clause takes the subjunctive were, and would belongs only to the result clause. -->
+- [ ] B) Was I in your place, I would take the stage.
+  <!-- feedback: Was cannot open an unreal conditional clause; the inverted form must use were, the subjunctive of be. -->
+- [x] C) Were I in your place, I would take the stage.
+  <!-- feedback: Correct: dropping if inverts the subjunctive were to the front, with the subject I right after it. -->
+- [ ] D) I were in your place, I would take the stage.
+  <!-- feedback: Removing if requires the auxiliary to move forward, so the subject I cannot stay in front of were. -->
 
 ### Explicacion Pedagogica
-The word 'check-in' is used to describe the act of reporting one's presence and registering, typically at an airport or hotel. This is an important vocabulary word in English.
+Unreal conditions may drop if and invert were, had or should before the subject; this is formal but standard in writing.
+
 ---
+
 ## Question 12 [D8]
 **ID:** CR-ING-11-2026-W27-inversion-subject-auxiliary-001-MASTERY-bundle-v12
-**Bloom:** Apply
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Bloom:** Evaluate
+**EJE:** Linguistic Competence
+**Expected_Success:** 0.85
+**Contexto:** A newspaper editor in San Jose chooses formal wording for an article about recycling.
 
 ### Enunciado
-What is the English word for: "A period of rest or waiting before a further stage in a journey."
+Which sentence keeps formal inversion after the adverb rarely?
 
 ### Opciones
-- [x] A) layover
-  <!-- feedback: Correct! A 'layover' is a period of rest or waiting between two stages of a journey. -->
-- [ ] B) stopover
-  <!-- feedback: 'Stopover' usually means a deliberate visit in the middle of a trip, not just the wait between flights. -->
-- [ ] C) transfer
-  <!-- feedback: 'Transfer' is the change of vehicle itself, the movement; the definition is about the time of waiting. -->
-- [ ] D) transit
-  <!-- feedback: 'Transit' is a system of moving people and goods through a city, not a break between two flights. -->
+- [x] A) Rarely does the council hold meetings on Fridays.
+  <!-- feedback: Correct: rarely is negative, so the auxiliary does is placed in front of the subject the council. -->
+- [ ] B) Rarely the council holds meetings on Fridays.
+  <!-- feedback: Here the subject follows the adverbial without any inversion, so the clause is only a statement. -->
+- [ ] C) Rarely the council does hold meetings on Fridays.
+  <!-- feedback: The full verb does hold stays after the subject; inversion moves only the auxiliary does to the front. -->
+- [ ] D) Rarely has the council meetings on Fridays.
+  <!-- feedback: Has cannot invert here because the main verb is the full verb holds, which needs the auxiliary does. -->
 
 ### Explicacion Pedagogica
-The word 'layover' is used to describe a period of rest or waiting before a further stage in a journey. This is an important vocabulary word in English.
+Negative adverbs such as rarely and seldom need subject-auxiliary inversion; only the auxiliary moves, the verb stays put.
+
 ---
-## Question 13 [D7]
+
+## Question 13 [D9]
 **ID:** CR-ING-11-2026-W27-inversion-subject-auxiliary-001-MASTERY-bundle-v13
-**Bloom:** Analyze
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Bloom:** Evaluate
+**EJE:** Linguistic Competence
+**Expected_Success:** 0.85
+**Contexto:** A hotel receptionist in Manuel Antonio offers extra services to a guest.
 
 ### Enunciado
-What is the English word for: "A system of money in general use in a particular country."
+Which version inverts the if-clause of 'If you need a taxi, call the desk'?
 
 ### Opciones
-- [x] B) currency
-  <!-- feedback: Correct! 'Currency' is the money system in general use in a particular country. -->
-- [ ] A) coin
-  <!-- feedback: 'Coin' is a single metal piece of money, one item within the currency, not the whole system. -->
-- [ ] C) banknote
-  <!-- feedback: 'Banknote' is a paper bill, one item of the currency rather than the system of money itself. -->
-- [ ] D) cash
-  <!-- feedback: 'Cash' means money in the physical form you hold, not the money system of a country. -->
+- [ ] A) If you need a taxi, call the desk.
+  <!-- feedback: The if-clause is unchanged, so this is a normal conditional and shows no inverted structure at all. -->
+- [ ] B) You need a taxi, call the desk.
+  <!-- feedback: Removing if without inverting the auxiliary leaves the subject you in front, which is not allowed. -->
+- [ ] C) Need you a taxi, call the desk.
+  <!-- feedback: Only an auxiliary (should, could, would) can move before the subject; the main verb need cannot invert. -->
+- [x] D) Should you need a taxi, call the desk.
+  <!-- feedback: Correct: should is the modal auxiliary of the if-clause, placed before the subject you for a polite offer. -->
 
 ### Explicacion Pedagogica
-The word 'currency' is used to describe a system of money in general use in a particular country. This is an important vocabulary word in English.
+Modal if-clauses can drop if and invert the modal: should you need it, tell me. The tone stays polite and formal.
+
 ---
-## Question 14 [D8]
+
+## Question 14 [D9]
 **ID:** CR-ING-11-2026-W27-inversion-subject-auxiliary-001-MASTERY-bundle-v14
-**Bloom:** Analyze
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Bloom:** Evaluate
+**EJE:** Linguistic Competence
+**Expected_Success:** 0.85
+**Contexto:** A cyclist in Guanacaste describes her early morning ride before sunrise.
 
 ### Enunciado
-What is the English word for: "A book of information about a place designed for the use of visitors or tourists."
+Which sentence says that no ride happened at all, not simply that rides were rare?
 
 ### Opciones
-- [x] B) guidebook
-  <!-- feedback: Correct! A 'guidebook' is a book of information about a place written for visitors and tourists. -->
-- [ ] A) map
-  <!-- feedback: 'Map' is a single sheet or screen showing the layout of a place, not a book of information. -->
-- [ ] C) dictionary
-  <!-- feedback: 'Dictionary' is a book of word definitions of a language, not information about a place for visitors. -->
-- [ ] D) encyclopedia
-  <!-- feedback: 'Encyclopedia' is a general reference work with entries on every topic, not a guide written for tourists about one place. -->
+- [ ] A) Rarely she has ridden before sunrise.
+  <!-- feedback: Rarely means not often, and the subject she also stays before the auxiliary, so two features fail here. -->
+- [x] B) Not once has she ridden before sunrise.
+  <!-- feedback: Correct: not once is a negative adverbial, so the auxiliary has is inverted before the subject she. -->
+- [ ] C) Not once she has ridden before sunrise.
+  <!-- feedback: Placing the subject she before the auxiliary has cancels the inversion that not once requires. -->
+- [ ] D) Seldom has she ridden before sunrise.
+  <!-- feedback: Seldom does express rarity, but it means not often, not the absolute zero that not once expresses. -->
 
 ### Explicacion Pedagogica
-The word 'guidebook' is used to describe a book of information about a place designed for the use of visitors or tourists. This is an important vocabulary word in English.
+Negative phrases differ in strength: never and not once mean zero occurrences, while rarely and seldom only reduce the frequency.
+
 ---
-## Question 15 [D7]
+
+## Question 15 [D10]
 **ID:** CR-ING-11-2026-W27-inversion-subject-auxiliary-001-MASTERY-bundle-v15
-**Bloom:** Analyze
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Bloom:** Evaluate
+**EJE:** Linguistic Competence
+**Expected_Success:** 0.85
+**Contexto:** A student from Alajuela submits a draft sentence to her teacher for correction.
 
 ### Enunciado
-What is the English word for: "A bag with shoulder straps that allow it to be carried on one's back."
+Her draft: 'Not until the rain stopped the buses moved again.' Which fix is right?
 
 ### Opciones
-- [x] C) backpack
-  <!-- feedback: Correct! A 'backpack' is the bag with shoulder straps that you carry on your back. -->
-- [ ] A) suitcase
-  <!-- feedback: 'Suitcase' is a case with a handle that you pull along, not a bag worn on the back. -->
-- [ ] B) briefcase
-  <!-- feedback: 'Briefcase' is a case for documents and a laptop, carried in the hand for work. -->
-- [ ] D) handbag
-  <!-- feedback: 'Handbag' is a bag for personal items carried on the arm or in the hand, with no back straps. -->
+- [ ] A) Not until the rain stopped did move the buses again.
+  <!-- feedback: The subject the buses cannot follow the main verb move; after did it has to come before the verb. -->
+- [ ] B) Until the rain stopped, the buses not moved again.
+  <!-- feedback: Without a fronted negative phrase, normal word order applies, so not cannot sit in front of the main verb. -->
+- [x] C) Not until the rain stopped did the buses move again.
+  <!-- feedback: Correct: not until opens the clause, so the auxiliary did is placed before the subject the buses. -->
+- [ ] D) Not until the rain stopped did the buses moved again.
+  <!-- feedback: Did already carries the past tense, so the main verb must be the base form move, not the participle moved. -->
 
 ### Explicacion Pedagogica
-The word 'backpack' is used to describe a bag with shoulder straps that allow it to be carried on one's back. This is an important vocabulary word in English.
+A fronted not until phrase requires auxiliary inversion: did + subject + base verb. Did is never followed by a participle.
+
 ---
-## Question 16 [D8]
+
+## Question 16 [D10]
 **ID:** CR-ING-11-2026-W27-inversion-subject-auxiliary-001-MASTERY-bundle-v16
-**Bloom:** Analyze
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Bloom:** Evaluate
+**EJE:** Linguistic Competence
+**Expected_Success:** 0.85
+**Contexto:** A cafeteria worker at a school in Escazu checks the leftovers at closing time.
 
 ### Enunciado
-What is the English word for: "In or to a foreign country, especially one across the sea."
+Which yes/no question inverts 'There are still sandwiches in the fridge'?
 
 ### Opciones
-- [x] D) overseas
-  <!-- feedback: Correct! 'Overseas' means in or to a foreign country, especially one across the sea. -->
-- [ ] A) domestic
-  <!-- feedback: 'Domestic' means inside your own country, the opposite of overseas. -->
-- [ ] B) local
-  <!-- feedback: 'Local' means in the area where you are, even more restricted than domestic; it never crosses a border. -->
-- [ ] C) national
-  <!-- feedback: 'National' refers to a whole country without saying it is foreign, so it does not imply going abroad. -->
+- [ ] A) Sandwiches are still there in the fridge?
+  <!-- feedback: This keeps the real subject sandwiches first, so the clause is a statement rather than an inverted question. -->
+- [ ] B) Are still sandwiches there in the fridge?
+  <!-- feedback: Here the real subject sandwiches sits right after the auxiliary, but there is the grammatical subject. -->
+- [ ] C) There are still sandwiches in the fridge?
+  <!-- feedback: Word order without inversion is not a question; the auxiliary must stand before the subject and the verb there. -->
+- [x] D) Are there still sandwiches in the fridge?
+  <!-- feedback: Correct: in the there-construction there is the subject, so the auxiliary are is placed before it. -->
 
 ### Explicacion Pedagogica
-The word 'overseas' is used to describe in or to a foreign country, especially one across the sea. This is an important vocabulary word in English.
+In there-constructions there is the grammatical subject, so the auxiliary inverts in front of it: are there sandwiches?
+
 ---
-## Question 17 [D9]
+
+## Question 17 [D10]
 **ID:** CR-ING-11-2026-W27-inversion-subject-auxiliary-001-MASTERY-bundle-v17
 **Bloom:** Evaluate
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**EJE:** Linguistic Competence
+**Expected_Success:** 0.85
+**Contexto:** A journalist in San Jose writes a feature about extreme sports in La Paz.
 
 ### Enunciado
-What is the English word for: "An estimate of income and expenditure for a set period of time."
+Which option does not use subject-auxiliary inversion with a fronted phrase?
 
 ### Opciones
-- [x] C) budget
-  <!-- feedback: Correct! A 'budget' is the estimate of income and expenditure planned for a set period. -->
-- [ ] A) expense
-  <!-- feedback: 'Expense' is a single cost already paid; the definition is the estimate for the whole period. -->
-- [ ] B) cost
-  <!-- feedback: 'Cost' is the price of one thing, whereas a budget covers all income and all spending. -->
-- [ ] D) price
-  <!-- feedback: 'Price' is the amount a single item costs, not a plan of income and expenditure over time. -->
+- [ ] A) No matter how much did he train, he never qualified.
+  <!-- feedback: No matter how is a concessive connector, so the clause needs statement order and inverting did here is wrong. -->
+- [x] B) No matter how much he trained, he never qualified.
+  <!-- feedback: This one is correct: no matter how takes a full clause with the subject he before the verb trained. -->
+- [ ] C) No matter how many times did she jump, she fell.
+  <!-- feedback: This is wrong: after no matter how the auxiliary did and the subject she are inverted with no reason. -->
+- [ ] D) No matter how far walked they, they never rested.
+  <!-- feedback: Here the verb phrase is split, because only the auxiliary, never a verb, may stand before the subject. -->
 
 ### Explicacion Pedagogica
-The word 'budget' is used to describe an estimate of income and expenditure for a set period of time. This is an important vocabulary word in English.
+Only negative or restrictive adverbials (never, rarely, not only, only then) force inversion; connectors like no matter how never do.
+
 ---
+
 ## Question 18 [D10]
 **ID:** CR-ING-11-2026-W27-inversion-subject-auxiliary-001-MASTERY-bundle-v18
 **Bloom:** Evaluate
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**EJE:** Linguistic Competence
+**Expected_Success:** 0.85
+**Contexto:** An editor at a Heredia news site checks a headline written under deadline.
 
 ### Enunciado
-What is the English word for: "A practice or arrangement by which a company or government agency provides a guarantee of compensation for specified loss, damage, illness, or death in return for payment of a premium."
+Which headline correctly inverts after both rarely and not only?
 
 ### Opciones
-- [x] D) insurance
-  <!-- feedback: Correct! 'Insurance' is the arrangement by which an insurer promises compensation for loss, damage, illness or death in exchange for a premium. -->
-- [ ] A) warranty
-  <!-- feedback: 'Warranty' covers a product against defects for a limited period and is free of charge, not a premium-based contract. -->
-- [ ] B) guarantee
-  <!-- feedback: 'Guarantee' is the promise itself; 'insurance' is the whole contract arranged with an insurer for a premium. -->
-- [ ] C) policy
-  <!-- feedback: 'Policy' is the document that proves the insurance contract; the arrangement itself is the insurance. -->
+- [ ] A) Rarely does the mayor speak publicly; not only she ignores reporters.
+  <!-- feedback: The first clause inverts correctly, but after not only the auxiliary must also come before the subject she. -->
+- [ ] B) Rarely the mayor speaks publicly; not only does she ignore reporters.
+  <!-- feedback: After rarely the subject cannot follow the adverbial directly; the auxiliary does has to be inverted with it. -->
+- [x] C) Rarely does the mayor speak publicly; not only does she ignore reporters.
+  <!-- feedback: Correct: both fronted negatives invert independently, so each clause carries its own auxiliary before the subject. -->
+- [ ] D) Rarely the mayor does speak publicly; not only does she ignores reporters.
+  <!-- feedback: Here rarely is not inverted, and not only is followed by a bare verb ignores, which no pattern allows. -->
 
 ### Explicacion Pedagogica
-The word 'insurance' is used to describe a practice or arrangement by which a company or government agency provides a guarantee of compensation for specified loss, damage, illness, or death in return for payment of a premium. This is an important vocabulary word in English.
+Each fronted negative adverbial is independent: when a sentence has two of them, each clause needs its own auxiliary inversion.
+
 ---
-## Question 19 [D9]
+
+## Question 19 [D10]
 **ID:** CR-ING-11-2026-W27-inversion-subject-auxiliary-001-MASTERY-bundle-v19
 **Bloom:** Evaluate
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**EJE:** Linguistic Competence
+**Expected_Success:** 0.85
+**Contexto:** A style reviewer at a San Jose publishing house edits a travel feature about Monteverde.
 
 ### Enunciado
-What is the English word for: "Treatment with a vaccine to produce immunity against a disease."
+Which sentence follows the style rule for fronted negative adverbs?
 
 ### Opciones
-- [x] D) vaccination
-  <!-- feedback: Correct! A 'vaccination' is the application of a vaccine that makes the body produce immunity against a disease. -->
-- [ ] A) medication
-  <!-- feedback: 'Medication' is a medicine you take to treat an illness, not the vaccine that prevents one. -->
-- [ ] B) prescription
-  <!-- feedback: 'Prescription' is the written order a doctor gives for a medicine, not the vaccine itself. -->
-- [ ] C) infection
-  <!-- feedback: 'Infection' is the state of having the disease; vaccination is what protects you before you get it. -->
+- [x] A) Seldom have we seen cloud cover this dense in May.
+  <!-- feedback: Correct: seldom is fronted, so the auxiliary have is inverted to the front, before the subject we. -->
+- [ ] B) Seldom we have seen cloud cover this dense in May.
+  <!-- feedback: Here the subject we follows the fronted adverbial, so the clause stays in statement order with no inversion. -->
+- [ ] C) We have seldom seen cloud cover this dense in May.
+  <!-- feedback: The adverb is in mid-position, so this clause needs no inversion and does not show the fronted pattern. -->
+- [ ] D) Seldom have seen we cloud cover this dense in May.
+  <!-- feedback: The verb phrase has been split: only the auxiliary may move in front of the subject, never the object. -->
 
 ### Explicacion Pedagogica
-The word 'vaccination' is used to describe treatment with a vaccine to produce immunity against a disease. This is an important vocabulary word in English.
+Fronted seldom or never forces inversion of the auxiliary alone: seldom have we seen it, with the subject right after have.
+
 ---
+
 ## Question 20 [D10]
 **ID:** CR-ING-11-2026-W27-inversion-subject-auxiliary-001-MASTERY-bundle-v20
 **Bloom:** Evaluate
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**EJE:** Linguistic Competence
+**Expected_Success:** 0.85
+**Contexto:** A fisherman in Parrita waits for the storm to pass before going back to sea.
 
 ### Enunciado
-What is the English word for: "Extreme tiredness and other physical effects felt by a person after a long flight across several time zones."
+Which sentence is fully correct, with the fronted phrase properly inverted?
 
 ### Opciones
-- [x] B) jet lag
-  <!-- feedback: Correct! 'Jet lag' is the tiredness and disturbed body clock you feel after a flight across several time zones. -->
-- [ ] A) fatigue
-  <!-- feedback: 'Fatigue' is tiredness after effort or a long day, not specifically caused by crossing time zones. -->
-- [ ] C) exhaustion
-  <!-- feedback: 'Exhaustion' is extreme tiredness from overwork or lack of sleep, which is not the same as the time zone effect. -->
-- [ ] D) insomnia
-  <!-- feedback: 'Insomnia' is the inability to sleep, whereas jet lag comes with tiredness during the day and a shifted body clock. -->
+- [ ] A) Only after the storm passed the fishermen return to the bay.
+  <!-- feedback: A fronted only after phrase needs the auxiliary before the subject; here the clause keeps statement order. -->
+- [ ] B) Only after the storm passed did return the fishermen to the bay.
+  <!-- feedback: The auxiliary did is fronted, but the subject must follow it directly, before the main verb return. -->
+- [ ] C) Only after the storm passed did the fishermen returned to the bay.
+  <!-- feedback: Did carries the tense on its own, so the main verb must be return, not the past participle returned. -->
+- [x] D) Only after the storm passed did the fishermen return to the bay.
+  <!-- feedback: Correct: the fronted phrase triggers inversion, so did precedes the subject and the base verb return closes the clause. -->
 
 ### Explicacion Pedagogica
-The word 'jet lag' is used to describe extreme tiredness and other physical effects felt by a person after a long flight across several time zones. This is an important vocabulary word in English.
+Check any inverted clause in this order: fronted phrase, auxiliary, subject, base verb. Breaking one slot makes the sentence wrong.
+
+---

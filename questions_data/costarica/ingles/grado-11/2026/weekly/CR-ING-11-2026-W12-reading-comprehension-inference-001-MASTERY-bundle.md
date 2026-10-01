@@ -20,463 +20,464 @@ bundle_index: 1
 # MASTERY Bundle - Ingles: Reading Comprehension Inference (W12)
 **20 preguntas | Ingles | Curriculo de Ingles**
 
+
 ---
 ## Question 1 [D3]
-**ID:** CR-ING-11-2026-W12-reading-comprehension-inference-001-MASTERY-bundle-v1
-**Bloom:** Remember
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**ID:** CR-ING-11-2026-W12-reading-comprehension-inference-v1
+**Bloom:** Apply
+**EJE:** Reading Comprehension
+**Expected_Success:** 0.85
+**Contexto:** Text: The clinic opened at six in the morning and by eight all the appointments for the day were already taken. Staff now arrive before six to prepare the rooms.
 
 ### Enunciado
-What is the English word for: "A place where you live or stay on holiday."
+What can be inferred from the text?
 
 ### Opciones
-- [x] C) accommodation
-  <!-- feedback: Correct! 'accommodation' is the place where you live or stay, especially on holiday, and it is the word the definition asks for. -->
-- [ ] A) transportation
-  <!-- feedback: 'transportation' is the system that moves people or goods (buses, trains, taxis), not a place where you live or stay. -->
-- [ ] B) entertainment
-  <!-- feedback: 'entertainment' means the shows, music and activities that amuse you, so it names an experience rather than a place. -->
-- [ ] D) currency
-  <!-- feedback: 'currency' is the money system of a country, such as the dollar or the colon, so it has nothing to do with a place to stay. -->
+- [x] B) Demand for appointments is higher than the clinic originally expected
+  <!-- feedback: Full bookings by eight and an earlier start for staff show demand beyond what the clinic planned for. -->
+- [ ] C) The clinic intends to close earlier in the afternoon
+  <!-- feedback: Nothing in the text mentions afternoon closing times. -->
+- [ ] D) Most patients prefer afternoon appointments
+  <!-- feedback: The appointments fill before midday, so the text supports the opposite of an afternoon preference. -->
+- [ ] A) The clinic has plans to hire more doctors
+  <!-- feedback: No hiring plan appears anywhere in the passage. -->
 
 ### Explicacion Pedagogica
-The word 'accommodation' is used to describe a place where you live or stay on holiday. This is an important vocabulary word in English.
+An inference is a conclusion the reader draws by combining facts that the text states separately. Here the early fill-up and the earlier staff arrival both point to the same unstated cause.
 ---
-## Question 2 [D4]
-**ID:** CR-ING-11-2026-W12-reading-comprehension-inference-001-MASTERY-bundle-v2
-**Bloom:** Remember
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
-
-### Enunciado
-What is the English word for: "A detailed plan or route of a journey."
-
-### Opciones
-- [x] A) itinerary
-  <!-- feedback: Correct! An 'itinerary' is the detailed plan or route of a journey: it lists the places, stops and times in order. -->
-- [ ] B) baggage
-  <!-- feedback: 'baggage' means the suitcases and bags you travel with, not the plan that organises the trip. -->
-- [ ] C) destination
-  <!-- feedback: 'destination' is the place you are travelling to, one single stop of the plan rather than the plan itself. -->
-- [ ] D) passport
-  <!-- feedback: 'passport' is the official travel document you show at the border, not a description of the journey route. -->
-
-### Explicacion Pedagogica
-The word 'itinerary' is used to describe a detailed plan or route of a journey. This is an important vocabulary word in English.
----
-## Question 3 [D3]
-**ID:** CR-ING-11-2026-W12-reading-comprehension-inference-001-MASTERY-bundle-v3
+## Question 2 [D3]
+**ID:** CR-ING-11-2026-W12-reading-comprehension-inference-v2
 **Bloom:** Understand
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**EJE:** Reading Comprehension
+**Expected_Success:** 0.85
+**Contexto:** Text: Last year the road was repaired for the first time in twenty years. This year the surface has developed cracks in exactly the places where the heavy machinery was used.
 
 ### Enunciado
-What is the English word for: "The place to which someone or something is going or being sent."
+What is the most likely explanation for the cracks?
 
 ### Opciones
-- [x] D) destination
-  <!-- feedback: Correct! A 'destination' is the place to which someone or something is going or being sent. -->
-- [ ] A) departure
-  <!-- feedback: 'departure' is the act of leaving, the opposite side of the trip; the definition asks for the place, not the action. -->
-- [ ] B) arrival
-  <!-- feedback: 'arrival' is the event of getting there, but a definition needs the place itself, not the moment of reaching it. -->
-- [ ] C) journey
-  <!-- feedback: 'journey' is the whole trip from one place to another, whereas the definition names only where it ends. -->
+- [x] D) The machinery used during the repair damaged the new surface
+  <!-- feedback: The location of the cracks matches where the machinery worked, so the repair itself is implicated. -->
+- [ ] A) The road was never repaired at all
+  <!-- feedback: The text states plainly that the road was repaired last year. -->
+- [ ] B) The cracks are caused by heavy rain only
+  <!-- feedback: Rain is not mentioned, and the coincidence of location points to another cause. -->
+- [ ] C) The road was repaired twice in the same year
+  <!-- feedback: Only one repair is reported, so no second repair can explain the damage. -->
 
 ### Explicacion Pedagogica
-The word 'destination' is used to describe the place to which someone or something is going or being sent. This is an important vocabulary word in English.
+Inferences drawn from position are often the strongest available: if a defect appears exactly where something was done, that something is a plausible cause even without an explicit statement.
+---
+## Question 3 [D4]
+**ID:** CR-ING-11-2026-W12-reading-comprehension-inference-v3
+**Bloom:** Analyze
+**EJE:** Reading Comprehension
+**Expected_Success:** 0.8
+**Contexto:** Text: Two schools joined the recycling programme. In the first, the bins were placed in every classroom and participation rose by half. In the second, the bins stayed in the central yard and participation did not change.
+
+### Enunciado
+What does the comparison allow the reader to conclude?
+
+### Opciones
+- [x] C) Where the bins were placed mattered more than whether the school joined
+  <!-- feedback: Both schools joined the same programme, so the only stated difference is the placement of the bins. -->
+- [ ] D) The second school has less motivated students
+  <!-- feedback: Student motivation is never mentioned in the text. -->
+- [ ] A) Recycling programmes never work in schools
+  <!-- feedback: The first school shows a clear improvement, which contradicts a general claim that programmes never work. -->
+- [ ] B) Central yards attract more rubbish
+  <!-- feedback: No claim about rubbish or the yard itself appears in the text. -->
+
+### Explicacion Pedagogica
+When two cases are compared and only one variable differs, the conclusion about that variable is the strongest inference available. The comparison in this text is designed to make exactly one factor visible.
 ---
 ## Question 4 [D4]
-**ID:** CR-ING-11-2026-W12-reading-comprehension-inference-001-MASTERY-bundle-v4
-**Bloom:** Understand
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**ID:** CR-ING-11-2026-W12-reading-comprehension-inference-v4
+**Bloom:** Evaluate
+**EJE:** Reading Comprehension
+**Expected_Success:** 0.8
+**Contexto:** Text: The number of visitors to the museum doubled in three years, while the museum's own staff grew by only two people.
 
 ### Enunciado
-What is the English word for: "Suitcases or other bags in which to pack personal belongings for traveling."
+Which statement does the text leave open?
 
 ### Opciones
-- [x] A) luggage
-  <!-- feedback: Correct! 'luggage' is the collective word for the suitcases and bags in which personal belongings are packed for travelling. -->
-- [ ] B) ticket
-  <!-- feedback: a 'ticket' is the document that gives you the right to travel; it carries nothing at all. -->
-- [ ] C) flight
-  <!-- feedback: a 'flight' is the trip itself by plane, not the bags you pack for it. -->
-- [ ] D) reservation
-  <!-- feedback: a 'reservation' is the booking held for a seat or a room, not the container where clothes go. -->
+- [x] A) How the museum managed to serve twice as many people
+  <!-- feedback: The text gives the two figures but never explains the mechanism, so that question remains unanswered. -->
+- [ ] B) Whether the number of visitors rose at all
+  <!-- feedback: The doubling is stated explicitly, so that question is closed. -->
+- [ ] C) Whether the staff were paid more
+  <!-- feedback: No information about salaries appears, and the question of payment is outside what the text covers. -->
+- [ ] D) Whether the museum changed its opening hours
+  <!-- feedback: Opening hours are never mentioned, so no conclusion can be drawn from the passage. -->
 
 ### Explicacion Pedagogica
-The word 'luggage' is used to describe suitcases or other bags in which to pack personal belongings for traveling. This is an important vocabulary word in English.
+A well-constructed comprehension question asks about what the text does not settle. Recognising the boundary of a passage is as important as retrieving what it states.
 ---
-## Question 5 [D5]
-**ID:** CR-ING-11-2026-W12-reading-comprehension-inference-001-MASTERY-bundle-v5
-**Bloom:** Understand
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+## Question 5 [D4]
+**ID:** CR-ING-11-2026-W12-reading-comprehension-inference-v5
+**Bloom:** Apply
+**EJE:** Reading Comprehension
+**Expected_Success:** 0.8
+**Contexto:** Text: After the ban on plastic bags, checkout staff reported that many customers now refuse the thin bags offered at the till and ask for paper ones instead.
 
 ### Enunciado
-What is the English word for: "A traveler on a public or private conveyance other than the driver, pilot, or crew."
+What does this change in customer behaviour suggest?
 
 ### Opciones
-- [x] D) passenger
-  <!-- feedback: Correct! A 'passenger' is a traveller on a public or private conveyance who is neither the driver, the pilot nor the crew. -->
-- [ ] A) pedestrian
-  <!-- feedback: a 'pedestrian' travels on foot, so there is no driver, pilot or crew in the vehicle at all. -->
-- [ ] B) commuter
-  <!-- feedback: a 'commuter' is defined by the regular trip to work or study, not by riding any conveyance. -->
-- [ ] C) tourist
-  <!-- feedback: a 'tourist' travels for pleasure and visits places of interest; the definition here is about the role on the vehicle. -->
+- [x] A) The ban influenced habits at the point of purchase, not only in policy
+  <!-- feedback: The refusal happens at the till, which shows the policy reaching actual consumer decisions. -->
+- [ ] B) Customers no longer buy anything in plastic
+  <!-- feedback: Refusing thin bags is not the same as abandoning plastic entirely. -->
+- [ ] C) Paper bags are cheaper for the shop
+  <!-- feedback: No price comparison between materials appears in the text. -->
+- [ ] D) The ban was withdrawn shortly afterwards
+  <!-- feedback: The text reports an effect of the ban and gives no sign that it was withdrawn. -->
 
 ### Explicacion Pedagogica
-The word 'passenger' is used to describe a traveler on a public or private conveyance other than the driver, pilot, or crew. This is an important vocabulary word in English.
+Behavioural evidence is strong evidence that a policy works. A report about what people actually do at the counter carries more weight for a reader than a statement about what the law permits.
 ---
-## Question 6 [D6]
-**ID:** CR-ING-11-2026-W12-reading-comprehension-inference-001-MASTERY-bundle-v6
-**Bloom:** Understand
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+## Question 6 [D5]
+**ID:** CR-ING-11-2026-W12-reading-comprehension-inference-v6
+**Bloom:** Analyze
+**EJE:** Reading Comprehension
+**Expected_Success:** 0.8
+**Contexto:** Text: The station was repainted last winter. Passengers who use it daily say the paint has begun to peel in areas that are not exposed to rain.
 
 ### Enunciado
-What is the English word for: "The place at a port, airport, or frontier where officials check incoming goods, travelers, or luggage."
+What does the detail about the areas not exposed to rain imply?
 
 ### Opciones
-- [x] A) customs
-  <!-- feedback: Correct! 'customs' is the place at a port, airport or frontier where officials check incoming goods, travellers and luggage. -->
-- [ ] B) security
-  <!-- feedback: 'security' staff prevent accidents and crime inside the building; the officials who check goods and travellers are customs. -->
-- [ ] C) terminal
-  <!-- feedback: a 'terminal' is the building where passengers wait for a departure, not the office where the checks are done. -->
-- [ ] D) gate
-  <!-- feedback: a 'gate' is the door or boarding point on the aircraft, not the place where officials inspect your belongings. -->
+- [x] D) Weather is not the cause of the peeling
+  <!-- feedback: If peeling occurs where there is no rain, the weather cannot explain it. -->
+- [ ] A) The paint is of a very good quality
+  <!-- feedback: Peeling within months is evidence of poor performance, not of good quality. -->
+- [ ] B) The station is used mostly in the rainy season
+  <!-- feedback: The description of areas without rain says nothing about when passengers travel. -->
+- [ ] C) The station needs to be repainted every winter
+  <!-- feedback: Nothing in the text supports a yearly repainting schedule. -->
 
 ### Explicacion Pedagogica
-The word 'customs' is used to describe the place at a port, airport, or frontier where officials check incoming goods, travelers, or luggage. This is an important vocabulary word in English.
+A detail can be informative because of what it rules out. The reader who notices that the damaged areas are sheltered uses that absence to eliminate a whole category of explanation.
 ---
 ## Question 7 [D5]
-**ID:** CR-ING-11-2026-W12-reading-comprehension-inference-001-MASTERY-bundle-v7
-**Bloom:** Apply
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**ID:** CR-ING-11-2026-W12-reading-comprehension-inference-v7
+**Bloom:** Understand
+**EJE:** Reading Comprehension
+**Expected_Success:** 0.8
+**Contexto:** Text: Volunteers counted birds in the reserve for five years. Four species that had been common every year disappeared after the second year and have not returned.
 
 ### Enunciado
-What is the English word for: "A document provided by an airline during check-in, giving a passenger permission to board the airplane."
+What is the most reasonable inference about those four species?
 
 ### Opciones
-- [x] C) boarding pass
-  <!-- feedback: Correct! A 'boarding pass' is the document the airline issues at check-in that gives the passenger permission to board. -->
-- [ ] A) visa
-  <!-- feedback: a 'visa' is the permission to enter a country, obtained before the trip and not from the airline. -->
-- [ ] B) receipt
-  <!-- feedback: a 'receipt' only proves that you paid; it does not let you board the plane. -->
-- [ ] D) brochure
-  <!-- feedback: a 'brochure' is printed information about the airline or the destination, not a travel document. -->
+- [x] B) Something in the reserve changed in a way that affected them
+  <!-- feedback: A sudden disappearance after a stable period points to a change in conditions that those species could not tolerate. -->
+- [ ] C) The counting method was wrong in the second year
+  <!-- feedback: The continued counting would have revealed a counting error, and the text reports a consistent result. -->
+- [ ] D) Those species migrated permanently to another continent
+  <!-- feedback: Permanent migration to another continent is possible in principle but nothing in the text supports it. -->
+- [ ] A) They were never present in the reserve
+  <!-- feedback: They were recorded as common in the first two years, so they were certainly present. -->
 
 ### Explicacion Pedagogica
-The word 'boarding pass' is used to describe a document provided by an airline during check-in, giving a passenger permission to board the airplane. This is an important vocabulary word in English.
+Inference questions often hinge on a change in a pattern. A stable period followed by sudden absence suggests a cause in the environment rather than in the observation.
 ---
-## Question 8 [D6]
-**ID:** CR-ING-11-2026-W12-reading-comprehension-inference-001-MASTERY-bundle-v8
-**Bloom:** Apply
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+## Question 8 [D5]
+**ID:** CR-ING-11-2026-W12-reading-comprehension-inference-v8
+**Bloom:** Evaluate
+**EJE:** Reading Comprehension
+**Expected_Success:** 0.8
+**Contexto:** Text: The factory cut its water use by a third. The same period saw the arrival of a new washing machine that uses less water per load.
 
 ### Enunciado
-What is the English word for: "The activity of visiting places of interest in a particular location."
+Which conclusion is justified by the text?
 
 ### Opciones
-- [x] D) sightseeing
-  <!-- feedback: Correct! 'sightseeing' is the activity of visiting the places of interest of a location. -->
-- [ ] A) shopping
-  <!-- feedback: 'shopping' is buying things in stores, not the general activity of visiting a place's sights. -->
-- [ ] B) hiking
-  <!-- feedback: 'hiking' is one specific outdoor walk in nature, only one kind of activity out of many. -->
-- [ ] C) camping
-  <!-- feedback: 'camping' means staying outdoors in a tent, which is not what a visitor does in a city or landmark. -->
+- [x] B) Part of the reduction may be attributable to the new equipment
+  <!-- feedback: The new machine is one identified factor, and the text gives no reason to exclude it from the reduction. -->
+- [ ] C) The new machine alone explains the entire reduction
+  <!-- feedback: One machine cannot plausibly account for a reduction of a third across the whole factory. -->
+- [ ] D) The reduction was caused by a fall in production
+  <!-- feedback: No fall in production is mentioned anywhere in the passage. -->
+- [ ] A) The old machines were replaced by hand washing
+  <!-- feedback: Hand washing is not suggested by any sentence in the text. -->
 
 ### Explicacion Pedagogica
-The word 'sightseeing' is used to describe the activity of visiting places of interest in a particular location. This is an important vocabulary word in English.
+Careful inference limits itself to what the text supports and uses cautious wording for partial explanations. Claiming a total or exclusive cause would go beyond the evidence given.
 ---
 ## Question 9 [D5]
-**ID:** CR-ING-11-2026-W12-reading-comprehension-inference-001-MASTERY-bundle-v9
-**Bloom:** Apply
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
-
-### Enunciado
-What is the English word for: "A thing that is kept as a reminder of a person, place, or event."
-
-### Opciones
-- [x] C) souvenir
-  <!-- feedback: Correct! A 'souvenir' is the object that is kept as a reminder of a person, place or event. -->
-- [ ] A) gift
-  <!-- feedback: a 'gift' is something given to someone, but it is not necessarily kept as a reminder of a place or an event. -->
-- [ ] B) award
-  <!-- feedback: an 'award' is an honour granted by an institution for merit, not a keepsake. -->
-- [ ] D) prize
-  <!-- feedback: a 'prize' is the reward of a competition; the definition describes an object kept as a memento. -->
-
-### Explicacion Pedagogica
-The word 'souvenir' is used to describe a thing that is kept as a reminder of a person, place, or event. This is an important vocabulary word in English.
----
-## Question 10 [D6]
-**ID:** CR-ING-11-2026-W12-reading-comprehension-inference-001-MASTERY-bundle-v10
-**Bloom:** Apply
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
-
-### Enunciado
-What is the English word for: "A period of time by which something is late or postponed."
-
-### Opciones
-- [x] D) delay
-  <!-- feedback: Correct! A 'delay' is the extra period of time by which something ends up late or postponed. -->
-- [ ] A) cancellation
-  <!-- feedback: a 'cancellation' means the trip or event will not happen at all, not that it happens later. -->
-- [ ] B) departure
-  <!-- feedback: 'departure' is simply the moment of leaving, which can be perfectly punctual. -->
-- [ ] C) arrival
-  <!-- feedback: 'arrival' is the moment of reaching the place, and it says nothing about being late. -->
-
-### Explicacion Pedagogica
-The word 'delay' is used to describe a period of time by which something is late or postponed. This is an important vocabulary word in English.
----
-## Question 11 [D7]
-**ID:** CR-ING-11-2026-W12-reading-comprehension-inference-001-MASTERY-bundle-v11
-**Bloom:** Apply
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
-
-### Enunciado
-What is the English word for: "The act of reporting one's presence and registering, typically at an airport or hotel."
-
-### Opciones
-- [x] A) check-in
-  <!-- feedback: Correct! 'Check-in' is the act of reporting your presence and registering at an airport or hotel counter. -->
-- [ ] B) check-out
-  <!-- feedback: 'check-out' is the opposite moment, when you pay and hand the room key back before leaving. -->
-- [ ] C) booking
-  <!-- feedback: 'booking' is the reservation made beforehand; check-in is what you do on arrival. -->
-- [ ] D) reservation
-  <!-- feedback: a 'reservation' is the earlier record of your booking, not the act of registering your presence. -->
-
-### Explicacion Pedagogica
-The word 'check-in' is used to describe the act of reporting one's presence and registering, typically at an airport or hotel. This is an important vocabulary word in English.
----
-## Question 12 [D8]
-**ID:** CR-ING-11-2026-W12-reading-comprehension-inference-001-MASTERY-bundle-v12
-**Bloom:** Apply
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
-
-### Enunciado
-What is the English word for: "A period of rest or waiting before a further stage in a journey."
-
-### Opciones
-- [x] B) layover
-  <!-- feedback: Correct! A 'layover' is a period of rest or waiting between two further stages of a journey. -->
-- [ ] A) stopover
-  <!-- feedback: 'stopover' is used mainly for trains and usually for a longer, often overnight, break on a rail journey. -->
-- [ ] C) transfer
-  <!-- feedback: a 'transfer' is the change from one vehicle or flight to another, not the pause itself. -->
-- [ ] D) transit
-  <!-- feedback: 'transit' means the action of passing through a place, with no idea of resting between stages. -->
-
-### Explicacion Pedagogica
-The word 'layover' is used to describe a period of rest or waiting before a further stage in a journey. This is an important vocabulary word in English.
----
-## Question 13 [D7]
-**ID:** CR-ING-11-2026-W12-reading-comprehension-inference-001-MASTERY-bundle-v13
+**ID:** CR-ING-11-2026-W12-reading-comprehension-inference-v9
 **Bloom:** Analyze
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**EJE:** Reading Comprehension
+**Expected_Success:** 0.8
+**Contexto:** Text: A survey found that students who sleep less than six hours score lower on attention tests. The researchers add that they did not measure how long each student had been awake before the test.
 
 ### Enunciado
-What is the English word for: "A system of money in general use in a particular country."
+Why do the researchers mention what they did not measure?
 
 ### Opciones
-- [x] B) currency
-  <!-- feedback: Correct! 'Currency' is the money system in general use in a particular country. -->
-- [ ] A) coin
-  <!-- feedback: a 'coin' is one single piece of money, not the whole system used in the country. -->
-- [ ] C) banknote
-  <!-- feedback: a 'banknote' is one single paper note of that system, not the system itself. -->
-- [ ] D) cash
-  <!-- feedback: 'cash' means money in coins and notes in general, not the specific monetary system of a country. -->
+- [x] D) To flag a limitation that weakens the interpretation of the correlation
+  <!-- feedback: Naming an uncontrolled variable signals that the correlation may not reflect a direct relationship. -->
+- [ ] A) To show that the study was technically advanced
+  <!-- feedback: Stating a limitation is the opposite of advertising technical strength. -->
+- [ ] B) To suggest that attention tests are unreliable
+  <!-- feedback: The comment concerns time awake, and nothing suggests that the tests themselves were unreliable. -->
+- [ ] C) To explain why the sample was small
+  <!-- feedback: No information about the size of the sample appears in the text. -->
 
 ### Explicacion Pedagogica
-The word 'currency' is used to describe a system of money in general use in a particular country. This is an important vocabulary word in English.
+A limitation statement is a form of intellectual honesty that advanced readers look for. It tells the reader exactly where the evidence stops and the interpretation should stop with it.
 ---
-## Question 14 [D8]
-**ID:** CR-ING-11-2026-W12-reading-comprehension-inference-001-MASTERY-bundle-v14
+## Question 10 [D5]
+**ID:** CR-ING-11-2026-W12-reading-comprehension-inference-v10
+**Bloom:** Apply
+**EJE:** Reading Comprehension
+**Expected_Success:** 0.75
+**Contexto:** Text: Two newspapers reported the same figures from the ministry. Only one of them also included the figure for the previous year, which allowed its readers to see that the number had fallen.
+
+### Enunciado
+Why does one article give the reader an advantage over the other?
+
+### Opciones
+- [x] A) It supplies the comparison that makes the trend visible
+  <!-- feedback: A current figure means little without the earlier one, so the comparison is what creates understanding. -->
+- [ ] B) It reports a different ministry
+  <!-- feedback: Both articles come from the same ministry, so the source is identical. -->
+- [ ] C) It uses a shorter headline
+  <!-- feedback: Headline style has no bearing on what the reader can learn from the figures. -->
+- [ ] D) It was published earlier in the day
+  <!-- feedback: The text says nothing about the order of publication. -->
+
+### Explicacion Pedagogica
+Data acquire meaning through comparison. This item asks the reader to notice that the difference between two reports is not the information itself but the frame that makes it interpretable.
+---
+## Question 11 [D6]
+**ID:** CR-ING-11-2026-W12-reading-comprehension-inference-v11
 **Bloom:** Analyze
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**EJE:** Reading Comprehension
+**Expected_Success:** 0.75
+**Contexto:** Text: The study followed the same sixty households in both years. In the first year their electricity use was measured from meter readings; in the second, from a sample of households that volunteered to share readings.
 
 ### Enunciado
-What is the English word for: "A book of information about a place designed for the use of visitors or tourists."
+What problem does this change in method introduce?
 
 ### Opciones
-- [x] D) guidebook
-  <!-- feedback: Correct! A 'guidebook' is a book of information about a place written for the use of visitors and tourists. -->
-- [ ] A) map
-  <!-- feedback: a 'map' shows the layout of streets and places, but it is a drawing rather than a book of information. -->
-- [ ] B) dictionary
-  <!-- feedback: a 'dictionary' gives the meaning of words, not details about a destination for travellers. -->
-- [ ] C) encyclopedia
-  <!-- feedback: an encyclopedia covers all branches of knowledge rather than one particular place for visitors. -->
+- [x] C) The two years used different samples, so the results may not be comparable
+  <!-- feedback: Comparing two years requires the same subjects, and a smaller voluntary sample breaks the continuity. -->
+- [ ] D) The first year measured more households than the second
+  <!-- feedback: The second year covers fewer households, so the first did not measure more. -->
+- [ ] A) Meter readings are known to be inaccurate in the second year
+  <!-- feedback: The concern is about comparability, not about the accuracy of any particular meter. -->
+- [ ] B) The households that volunteered used more electricity than the others
+  <!-- feedback: Nothing in the text compares the volunteers with non-volunteers on usage. -->
 
 ### Explicacion Pedagogica
-The word 'guidebook' is used to describe a book of information about a place designed for the use of visitors or tourists. This is an important vocabulary word in English.
+Methodological detail in a passage is often included precisely so that a reader can spot a threat to validity. Inference questions on research texts often hinge on whether the method supports the comparison the authors draw.
 ---
-## Question 15 [D7]
-**ID:** CR-ING-11-2026-W12-reading-comprehension-inference-001-MASTERY-bundle-v15
+## Question 12 [D6]
+**ID:** CR-ING-11-2026-W12-reading-comprehension-inference-v12
+**Bloom:** Understand
+**EJE:** Reading Comprehension
+**Expected_Success:** 0.75
+**Contexto:** Text: A guide to the trail advises hikers to carry water, since the last village lies six kilometres behind the ridge. Several hikers have treated the spring near the ridge as a refill point.
+
+### Enunciado
+What warning does the passage imply?
+
+### Opciones
+- [x] C) The spring cannot be relied upon as a source of water
+  <!-- feedback: The advice to carry water plus the hikers who depend on the spring imply that it is unreliable. -->
+- [ ] D) The spring is the best place to refill
+  <!-- feedback: Treating the spring as a refill point is presented as a mistake, not a recommendation. -->
+- [ ] A) The trail has no water sources at all
+  <!-- feedback: A spring is a water source, so saying the trail has none contradicts the text. -->
+- [ ] B) Hikers should refill only in the last village
+  <!-- feedback: Carrying water from the start, not refilling in one village, is what the guide recommends. -->
+
+### Explicacion Pedagogica
+A passage can imply through juxtaposition: the explicit advice and the reported mistake together build a warning the text never states outright.
+---
+## Question 13 [D6]
+**ID:** CR-ING-11-2026-W12-reading-comprehension-inference-v13
+**Bloom:** Evaluate
+**EJE:** Reading Comprehension
+**Expected_Success:** 0.75
+**Contexto:** Text: The notice says the pool will close at six for maintenance. Regular users report that the last lap before six is always crowded.
+
+### Enunciado
+Which inference is supported by the two sentences together?
+
+### Opciones
+- [x] B) Closing time falls just before the period of heaviest use
+  <!-- feedback: A crowd in the final session before a six o'clock closing shows that the closing time cuts into the most popular period. -->
+- [ ] C) The pool is rarely used in the evening
+  <!-- feedback: A crowded last lap indicates heavy use, which contradicts the claim of little evening use. -->
+- [ ] D) The maintenance work is longer than planned
+  <!-- feedback: Nothing in the text says anything about how long the maintenance takes. -->
+- [ ] A) Regular users are unhappy with the pool
+  <!-- feedback: The text reports crowding as a fact and expresses no opinion about users' satisfaction. -->
+
+### Explicacion Pedagogica
+Two sentences from different registers, a notice and an observation, combine into one inference about timing. Joining evidence across sentences is the core skill of inferential reading.
+---
+## Question 14 [D6]
+**ID:** CR-ING-11-2026-W12-reading-comprehension-inference-v14
 **Bloom:** Analyze
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**EJE:** Reading Comprehension
+**Expected_Success:** 0.75
+**Contexto:** Text: The recipe calls for two eggs. The version published last month called for three, and reviewers at the time complained that the result was too soft to slice.
 
 ### Enunciado
-What is the English word for: "A bag with shoulder straps that allow it to be carried on one's back."
+What is the likely reason for the change in the recipe?
 
 ### Opciones
-- [x] B) backpack
-  <!-- feedback: Correct! A 'backpack' has shoulder straps and is designed to be carried on one's back. -->
-- [ ] A) suitcase
-  <!-- feedback: a 'suitcase' is dragged by a handle beside the body; it has no shoulder straps. -->
-- [ ] C) briefcase
-  <!-- feedback: a 'briefcase' is a case for documents and a laptop that is carried in the hand. -->
-- [ ] D) handbag
-  <!-- feedback: a 'handbag' is a small bag held in the hand, not carried on the back. -->
+- [x] B) Fewer eggs were used to make the result firm enough to slice
+  <!-- feedback: The complaint concerned a result too soft to slice, and reducing eggs is the change that addresses that fault. -->
+- [ ] C) Eggs became more expensive in the shops
+  <!-- feedback: Price is never mentioned in the passage. -->
+- [ ] D) The number of reviews dropped after publication
+  <!-- feedback: The number of reviewers does not relate to the quantity of eggs. -->
+- [ ] A) The cooking time was shortened in the new version
+  <!-- feedback: No change in cooking time appears anywhere in the text. -->
 
 ### Explicacion Pedagogica
-The word 'backpack' is used to describe a bag with shoulder straps that allow it to be carried on one's back. This is an important vocabulary word in English.
+A revision is best explained by the complaint that preceded it. Linking a change in a text to a criticism already recorded is a standard inferential move in informational reading.
 ---
-## Question 16 [D8]
-**ID:** CR-ING-11-2026-W12-reading-comprehension-inference-001-MASTERY-bundle-v16
+## Question 15 [D6]
+**ID:** CR-ING-11-2026-W12-reading-comprehension-inference-v15
+**Bloom:** Apply
+**EJE:** Reading Comprehension
+**Expected_Success:** 0.75
+**Contexto:** Text: Attendance at evening classes rose after the college moved the timetable an hour earlier. The college has now applied the same change to the morning programme.
+
+### Enunciado
+What can be inferred about the college's confidence in the change?
+
+### Opciones
+- [x] C) The result with the first group was favourable enough to extend the change
+  <!-- feedback: Extending a change to a second group implies the first produced a satisfactory result. -->
+- [ ] D) The college is testing the change again on the same group
+  <!-- feedback: The morning programme is a different group, so the same group is not being retested. -->
+- [ ] A) The evening classes were cancelled after the trial
+  <!-- feedback: A rise in attendance is the opposite of a cancellation. -->
+- [ ] B) The timetable change had no measurable effect
+  <!-- feedback: An effect was recorded, since attendance rose, which rules out the last reading. -->
+
+### Explicacion Pedagogica
+Institutional decisions reveal what an organisation believes about its own evidence. An expansion of a programme is a fair signal that the earlier result was judged positive.
+---
+## Question 16 [D7]
+**ID:** CR-ING-11-2026-W12-reading-comprehension-inference-v16
 **Bloom:** Analyze
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**EJE:** Reading Comprehension
+**Expected_Success:** 0.7
+**Contexto:** Text: The writer states that the policy has been in force for three years and that no case has reached the courts. She adds that most disagreements are settled privately before any legal step is needed.
 
 ### Enunciado
-What is the English word for: "In or to a foreign country, especially one across the sea."
+What does the writer appear to want the reader to conclude?
 
 ### Opciones
-- [x] D) overseas
-  <!-- feedback: Correct! 'Overseas' means in or to a foreign country, especially one reached across the sea. -->
-- [ ] A) domestic
-  <!-- feedback: 'domestic' means inside the same country, which is the opposite of overseas. -->
-- [ ] B) local
-  <!-- feedback: 'local' means belonging to the area where you already are, again the opposite meaning. -->
-- [ ] C) national
-  <!-- feedback: 'national' refers to the nation as a whole, but it does not mean being abroad. -->
+- [x] D) The absence of court cases does not mean the policy has never caused conflict
+  <!-- feedback: By explaining that disputes are settled before any legal step, the writer weakens the inference that no conflict exists. -->
+- [ ] A) The policy has been completely accepted by everyone involved
+  <!-- feedback: Settling privately is not the same as universal acceptance, so the conclusion overstates the case. -->
+- [ ] B) The courts have refused to hear cases about the policy
+  <!-- feedback: No statement about courts refusing cases appears in the passage. -->
+- [ ] C) Private settlements are legally required by the policy
+  <!-- feedback: The text describes what happens, not what the policy legally requires. -->
 
 ### Explicacion Pedagogica
-The word 'overseas' is used to describe in or to a foreign country, especially one across the sea. This is an important vocabulary word in English.
+A writer who qualifies evidence is usually correcting an impression the reader might otherwise form. This item asks the student to identify the implication that the surrounding sentences work to prevent.
 ---
-## Question 17 [D9]
-**ID:** CR-ING-11-2026-W12-reading-comprehension-inference-001-MASTERY-bundle-v17
+## Question 17 [D7]
+**ID:** CR-ING-11-2026-W12-reading-comprehension-inference-v17
 **Bloom:** Evaluate
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**EJE:** Reading Comprehension
+**Expected_Success:** 0.7
+**Contexto:** Text: Two readings of the same chart were possible. One took the vertical axis as the number of households; the other took it as the number of people, and each produces a different claim about average size.
 
 ### Enunciado
-What is the English word for: "An estimate of income and expenditure for a set period of time."
+Why is this an important point for a critical reader?
 
 ### Opciones
-- [x] C) budget
-  <!-- feedback: Correct! A 'budget' is an estimate of income and expenditure planned for a set period of time. -->
-- [ ] A) expense
-  <!-- feedback: an 'expense' is a single cost; a budget gathers all income and spending over a period. -->
-- [ ] B) cost
-  <!-- feedback: 'cost' is the amount paid for one thing, not an estimate for a whole period. -->
-- [ ] D) price
-  <!-- feedback: 'price' is the figure written on a product, not a plan of income and expenditure. -->
+- [x] C) The same numerical evidence supports different conclusions depending on how it is read
+  <!-- feedback: The item shows that interpretation, not just calculation, determines what the evidence means. -->
+- [ ] D) The chart contains an arithmetic error
+  <!-- feedback: The problem is the labelling of the axis, and no arithmetic error is mentioned. -->
+- [ ] A) The second reading of the axis is mathematically impossible
+  <!-- feedback: Both readings are possible, so the second is not impossible. -->
+- [ ] B) Charts should never be used to support claims about households
+  <!-- feedback: The passage shows charts being used appropriately, and the issue is interpretation rather than suitability. -->
 
 ### Explicacion Pedagogica
-The word 'budget' is used to describe an estimate of income and expenditure for a set period of time. This is an important vocabulary word in English.
+Critical reading extends to the conventions behind a source. This item asks the student to notice that a figure can support a claim or its opposite depending on an unstated definition.
 ---
-## Question 18 [D10]
-**ID:** CR-ING-11-2026-W12-reading-comprehension-inference-001-MASTERY-bundle-v18
-**Bloom:** Evaluate
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+## Question 18 [D7]
+**ID:** CR-ING-11-2026-W12-reading-comprehension-inference-v18
+**Bloom:** Understand
+**EJE:** Reading Comprehension
+**Expected_Success:** 0.7
+**Contexto:** Text: The text describes a decline in the industry and then states that exports in the region rose over the same period. It never explains how both can be true.
 
 ### Enunciado
-What is the English word for: "A practice or arrangement by which a company or government agency provides a guarantee of compensation for specified loss, damage, illness, or death in return for payment of a premium."
+What does the absence of explanation tell the reader?
 
 ### Opciones
-- [x] D) insurance
-  <!-- feedback: Correct! 'Insurance' is the arrangement by which a company or agency guarantees compensation for specified loss, damage, illness or death in return for a premium. -->
-- [ ] A) warranty
-  <!-- feedback: a 'warranty' is the maker's guarantee of a product, normally for a short period and against defects only. -->
-- [ ] B) guarantee
-  <!-- feedback: a 'guarantee' is the promise itself, without the payment of a premium that defines an insurance arrangement. -->
-- [ ] C) policy
-  <!-- feedback: a 'policy' is the written document of the contract, not the practice of insuring itself. -->
+- [x] A) The two trends probably refer to different measures of the industry
+  <!-- feedback: Where a text reports two apparently opposite trends without reconciling them, the reader should suspect different underlying measures. -->
+- [ ] B) One of the two statements must be false
+  <!-- feedback: Rejecting one statement as false is a conclusion the evidence does not force. -->
+- [ ] C) The author forgot to include a conclusion
+  <!-- feedback: An unexplained tension is a feature of the passage rather than proof of carelessness. -->
+- [ ] D) Exports are unrelated to the industry
+  <!-- feedback: The connection between the two is exactly what the missing explanation would clarify. -->
 
 ### Explicacion Pedagogica
-The word 'insurance' is used to describe a practice or arrangement by which a company or government agency provides a guarantee of compensation for specified loss, damage, illness, or death in return for payment of a premium. This is an important vocabulary word in English.
+When a passage holds two facts together without connecting them, a careful reader does not panic but also does not invent a contradiction. Instead, the gap points to a definitional difference the text never states.
 ---
-## Question 19 [D9]
-**ID:** CR-ING-11-2026-W12-reading-comprehension-inference-001-MASTERY-bundle-v19
-**Bloom:** Evaluate
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+## Question 19 [D7]
+**ID:** CR-ING-11-2026-W12-reading-comprehension-inference-v19
+**Bloom:** Analyze
+**EJE:** Reading Comprehension
+**Expected_Success:** 0.7
+**Contexto:** Text: A company announced a new recycling plant. Its report lists the recycling figures and the reduction in costs, but it never mentions that the plant stands on land used for farming until 2019.
 
 ### Enunciado
-What is the English word for: "Treatment with a vaccine to produce immunity against a disease."
+Why does the omission matter for a critical reader?
 
 ### Opciones
-- [x] D) vaccination
-  <!-- feedback: Correct! 'Vaccination' is the treatment with a vaccine that produces immunity against a disease. -->
-- [ ] A) medication
-  <!-- feedback: 'medication' treats the symptoms of a disease; it does not create immunity against it. -->
-- [ ] B) prescription
-  <!-- feedback: a 'prescription' is the doctor's written order for a medicine, not the vaccine treatment itself. -->
-- [ ] C) infection
-  <!-- feedback: an 'infection' is the invasion of the body by a pathogen, the opposite of being protected against disease. -->
+- [x] A) The report presents only the benefits and hides a cost that bears on the decision
+  <!-- feedback: A report that lists gains without mentioning a documented loss is selective, and that changes how much weight its figures deserve. -->
+- [ ] B) The report is too short to be credible
+  <!-- feedback: Length is not the criterion for credibility, and the report may simply be brief. -->
+- [ ] C) Farming has no economic value in the region
+  <!-- feedback: The text does not assess the economic value of farming. -->
+- [ ] D) The plant will certainly increase production
+  <!-- feedback: Nothing in the passage establishes any increase in production. -->
 
 ### Explicacion Pedagogica
-The word 'vaccination' is used to describe treatment with a vaccine to produce immunity against a disease. This is an important vocabulary word in English.
+Silence in a source is evidence. A reading that notices which relevant fact has been left out evaluates a text more effectively than one that only collects what it states.
 ---
-## Question 20 [D10]
-**ID:** CR-ING-11-2026-W12-reading-comprehension-inference-001-MASTERY-bundle-v20
+## Question 20 [D7]
+**ID:** CR-ING-11-2026-W12-reading-comprehension-inference-v20
 **Bloom:** Evaluate
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**EJE:** Reading Comprehension
+**Expected_Success:** 0.7
+**Contexto:** Text: A commentator argues that the reform will reduce inequality. Her evidence is that average incomes in the two poorest districts rose after the reform, while the national average remained unchanged.
 
 ### Enunciado
-What is the English word for: "Extreme tiredness and other physical effects felt by a person after a long flight across several time zones."
+Which criticism of the argument is most accurate?
 
 ### Opciones
-- [x] B) jet lag
-  <!-- feedback: Correct! 'Jet lag' is the extreme tiredness and other physical effects felt after a long flight across several time zones. -->
-- [ ] A) fatigue
-  <!-- feedback: 'fatigue' is tiredness from any cause, such as a lack of sleep or effort, not specifically from time zones. -->
-- [ ] C) exhaustion
-  <!-- feedback: 'exhaustion' is a total lack of energy from any cause, more general and more severe than the effect of crossing time zones. -->
-- [ ] D) insomnia
-  <!-- feedback: 'insomnia' is the difficulty of falling or staying asleep, only one symptom and not the whole set of effects after a long flight. -->
+- [x] D) A rise in the poorest districts alongside a flat national average may conceal a fall elsewhere
+  <!-- feedback: If some incomes rise while the average holds steady, the remaining households must have seen a reduction, which is what the argument leaves out. -->
+- [ ] A) The poorest districts show a fall in income
+  <!-- feedback: The text states the opposite for those two districts. -->
+- [ ] B) A national average is never a useful measure
+  <!-- feedback: The national average is precisely what the argument uses as its reference point. -->
+- [ ] C) The reform clearly reduced inequality
+  <!-- feedback: A flat national average with gains concentrated in two districts does not demonstrate a general reduction. -->
 
 ### Explicacion Pedagogica
-The word 'jet lag' is used to describe extreme tiredness and other physical effects felt by a person after a long flight across several time zones. This is an important vocabulary word in English.
+Statistical reasoning is part of critical reading. This item asks the student to see that an average can stay constant while its components move in opposite directions.

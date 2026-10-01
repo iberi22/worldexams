@@ -24,459 +24,460 @@ bundle_index: 1
 ## Question 1 [D3]
 **ID:** ES-ING-11-2026-W08-conditionals-third-mixed-001-MASTERY-bundle-v1
 **Bloom:** Remember
-**EJE:** Lexico
+**EJE:** Morfosintaxis
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** A student reviews the grammar chart before the English exam.
 
 ### Enunciado
-What is the English word for: "A place where you live or stay on holiday."
+Choose the structure that forms the third conditional.
 
 ### Opciones
-- [x] A) accommodation
-  <!-- feedback: Correct! 'Accommodation' is the word for a place where you live or stay when you are on holiday. -->
-- [ ] B) transportation
-  <!-- feedback: 'Transportation' is the way you move from one place to another (buses, trains, planes), not the place where you sleep. -->
-- [ ] C) entertainment
-  <!-- feedback: 'Entertainment' is the fun or activities you enjoy, not the building or room where you stay. -->
-- [ ] D) currency
-  <!-- feedback: 'Currency' is the money of a country, which has nothing to do with where you sleep. -->
+- [x] A) If + past perfect, would have + past participle
+  <!-- feedback: Right: the third conditional puts the past perfect in the if-clause and would have plus a past participle in the result. -->
+- [ ] B) If + present simple, will + infinitive
+  <!-- feedback: That pattern is the first conditional, which talks about a real future possibility, not an unreal past. -->
+- [ ] C) If + past simple, would + infinitive
+  <!-- feedback: That pattern is the second conditional, used for present or future hypotheticals, not for finished past situations. -->
+- [ ] D) If + past perfect, will have + past participle
+  <!-- feedback: The result clause of the third conditional uses would, not will, because the past situation never happened. -->
 
 ### Explicacion Pedagogica
-The word 'accommodation' is used to describe a place where you live or stay on holiday. This is an important vocabulary word in English.
+The third conditional describes an unreal past: the if-clause takes the past perfect and the result takes would have plus a past participle.
 ---
 ## Question 2 [D4]
 **ID:** ES-ING-11-2026-W08-conditionals-third-mixed-001-MASTERY-bundle-v2
-**Bloom:** Remember
-**EJE:** Lexico
+**Bloom:** Understand
+**EJE:** Morfosintaxis
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Maria checks her homework about unreal past situations.
 
 ### Enunciado
-What is the English word for: "A detailed plan or route of a journey."
+Choose the sentence that is a third conditional.
 
 ### Opciones
-- [x] D) itinerary
-  <!-- feedback: Correct! An 'itinerary' is a detailed plan of a journey, listing the places and times along the route. -->
-- [ ] A) baggage
-  <!-- feedback: 'Baggage' is the suitcases and bags you travel with, not the written plan of the trip. -->
-- [ ] B) destination
-  <!-- feedback: 'Destination' is the place you are going to, a single place, while an itinerary is the whole route plan. -->
-- [ ] C) passport
-  <!-- feedback: 'Passport' is the travel document that lets you cross a border, not the schedule of your trip. -->
+- [ ] A) If we leave earlier, we will catch the train.
+  <!-- feedback: That sentence is a first conditional about a real future chance, so it cannot describe an unreal past. -->
+- [x] B) If we had left earlier, we would have caught the train.
+  <!-- feedback: Right: the past perfect in the if-clause and would have caught in the result make it a complete third conditional. -->
+- [ ] C) If we left earlier, we would catch the train.
+  <!-- feedback: That sentence is a second conditional, which imagines a present or future possibility instead. -->
+- [ ] D) If we had left earlier, we would catch the train.
+  <!-- feedback: Pairing the past perfect with would catch shifts the result to the present, so the sentence is mixed, not third. -->
 
 ### Explicacion Pedagogica
-The word 'itinerary' is used to describe a detailed plan or route of a journey. This is an important vocabulary word in English.
+A third conditional shows that a past action did not happen, pairing the past perfect with would have plus a past participle.
 ---
 ## Question 3 [D3]
 **ID:** ES-ING-11-2026-W08-conditionals-third-mixed-001-MASTERY-bundle-v3
 **Bloom:** Understand
-**EJE:** Lexico
+**EJE:** Morfosintaxis
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** A tutor explains why the past perfect appears in conditional sentences.
 
 ### Enunciado
-What is the English word for: "The place to which someone or something is going or being sent."
+Choose the meaning that the third conditional expresses.
 
 ### Opciones
-- [x] C) destination
-  <!-- feedback: Correct! A 'destination' is the place someone or something is going or being sent to. -->
-- [ ] A) departure
-  <!-- feedback: 'Departure' is the action of leaving, the opposite end of the journey from the destination. -->
-- [ ] B) arrival
-  <!-- feedback: 'Arrival' is the act of getting there; the place you arrive at is the destination. -->
-- [ ] D) journey
-  <!-- feedback: 'Journey' is the whole trip from start to finish, not the place you are heading to. -->
+- [ ] A) A likely future situation that may still happen
+  <!-- feedback: Wrong: a likely future belongs to the first conditional, which still has a real chance of coming true. -->
+- [ ] B) A general truth that is always valid
+  <!-- feedback: Wrong: general truths use the zero conditional, with present simple in both clauses. -->
+- [x] C) A hypothetical past situation that did not happen
+  <!-- feedback: Right: it imagines the opposite of what really happened, and the chance to change it is already gone. -->
+- [ ] D) A polite request about the present moment
+  <!-- feedback: Wrong: polite requests use would with a present idea, not the past perfect of this conditional. -->
 
 ### Explicacion Pedagogica
-The word 'destination' is used to describe the place to which someone or something is going or being sent. This is an important vocabulary word in English.
+The third conditional looks back at a past event that never occurred and imagines how the outcome would have changed.
 ---
 ## Question 4 [D4]
 **ID:** ES-ING-11-2026-W08-conditionals-third-mixed-001-MASTERY-bundle-v4
 **Bloom:** Understand
-**EJE:** Lexico
+**EJE:** Morfosintaxis
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Diego rereads a sentence about a job interview that went badly.
 
 ### Enunciado
-What is the English word for: "Suitcases or other bags in which to pack personal belongings for traveling."
+Read 'If I had prepared better, I would be working there now' and choose why it is a mixed conditional.
 
 ### Opciones
-- [x] B) luggage
-  <!-- feedback: Correct! 'Luggage' means suitcases and bags in which you pack your belongings for a trip. -->
-- [ ] A) ticket
-  <!-- feedback: 'Ticket' is the paper that gives you the right to travel on a bus, train or plane, not the bag itself. -->
-- [ ] C) flight
-  <!-- feedback: 'Flight' is the journey by plane, or the plane itself; the bags are called luggage. -->
-- [ ] D) reservation
-  <!-- feedback: 'Reservation' is the booking you make for a seat or a room, not the bags you pack. -->
+- [ ] A) The present condition has a result in the past
+  <!-- feedback: The order is the opposite: the if-clause is past and the result clause is present. -->
+- [ ] B) Both clauses refer to the same past moment
+  <!-- feedback: If both clauses referred to the past, the result would be would have been working, which is a third conditional. -->
+- [ ] C) The sentence uses the past perfect in both clauses
+  <!-- feedback: Only the if-clause uses the past perfect; the result uses would be, which points to now. -->
+- [x] D) The past condition has a result in the present
+  <!-- feedback: Right: the missed preparation is finished, but the consequence of working there continues today. -->
 
 ### Explicacion Pedagogica
-The word 'luggage' is used to describe suitcases or other bags in which to pack personal belongings for traveling. This is an important vocabulary word in English.
+Mixed conditionals cross time frames: a finished past cause can produce a result that is still true in the present.
 ---
 ## Question 5 [D5]
 **ID:** ES-ING-11-2026-W08-conditionals-third-mixed-001-MASTERY-bundle-v5
-**Bloom:** Understand
-**EJE:** Lexico
+**Bloom:** Apply
+**EJE:** Morfosintaxis
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Laura missed the exam because she overslept that morning.
 
 ### Enunciado
-What is the English word for: "A traveler on a public or private conveyance other than the driver, pilot, or crew."
+Complete: If she had set an alarm, she ___ the exam.
 
 ### Opciones
-- [x] D) passenger
-  <!-- feedback: Correct! A 'passenger' is a person who travels on a vehicle without being the driver, pilot or crew. -->
-- [ ] A) pedestrian
-  <!-- feedback: 'Pedestrian' is someone who travels on foot, so they are not on a conveyance at all. -->
-- [ ] B) commuter
-  <!-- feedback: 'Commuter' is someone who travels regularly between home and work; the definition here is any traveller on board, not only that daily case. -->
-- [ ] C) tourist
-  <!-- feedback: 'Tourist' is someone visiting for pleasure or sightseeing, but the definition covers every traveller on board, including commuters and residents. -->
+- [x] A) would not have missed
+  <!-- feedback: Right: the unreal past result needs would plus have plus the past participle missed. -->
+- [ ] B) will not miss
+  <!-- feedback: Wrong: will belongs to the first conditional, which describes real futures, not impossible pasts. -->
+- [ ] C) would not miss
+  <!-- feedback: Wrong: would not miss points to a present result, which would turn the sentence into a mixed one. -->
+- [ ] D) had not missed
+  <!-- feedback: Wrong: the if-clause already carries the past perfect, so the result clause cannot repeat that form. -->
 
 ### Explicacion Pedagogica
-The word 'passenger' is used to describe a traveler on a public or private conveyance other than the driver, pilot, or crew. This is an important vocabulary word in English.
+After a past perfect if-clause, the result clause takes would have plus the past participle to complete the pattern.
 ---
-## Question 6 [D6]
+## Question 6 [D5]
 **ID:** ES-ING-11-2026-W08-conditionals-third-mixed-001-MASTERY-bundle-v6
-**Bloom:** Understand
-**EJE:** Lexico
+**Bloom:** Apply
+**EJE:** Morfosintaxis
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Pablo is telling his friend about the wallet he lost on Monday.
 
 ### Enunciado
-What is the English word for: "The place at a port, airport, or frontier where officials check incoming goods, travelers, or luggage."
+Complete: If I had been more careful, I ___ my wallet.
 
 ### Opciones
-- [x] D) customs
-  <!-- feedback: Correct! 'Customs' is the office at a port, airport or border where officials check goods, travellers and luggage. -->
-- [ ] A) security
-  <!-- feedback: 'Security' is the staff who control safety and boarding inside the airport; it does not check the goods you bring in. -->
-- [ ] B) terminal
-  <!-- feedback: 'Terminal' is the whole building where passengers wait, eat and catch their flights. -->
-- [ ] C) gate
-  <!-- feedback: 'Gate' is the particular door you board through, not the place where officials inspect your luggage. -->
+- [ ] A) did not lose
+  <!-- feedback: Wrong: the past simple states a real past fact, but the sentence imagines an unreal one. -->
+- [x] B) would not have lost
+  <!-- feedback: Right: would not have plus the past participle lost finishes the unreal past result correctly. -->
+- [ ] C) had not lost
+  <!-- feedback: Wrong: the past perfect belongs in the if-clause, not in the result clause of the conditional. -->
+- [ ] D) would not have lose
+  <!-- feedback: Wrong: after would have, the verb takes the past participle lost, not the bare form lose. -->
 
 ### Explicacion Pedagogica
-The word 'customs' is used to describe the place at a port, airport, or frontier where officials check incoming goods, travelers, or luggage. This is an important vocabulary word in English.
+The result clause of a third conditional always pairs would have with the past participle of the main verb.
 ---
 ## Question 7 [D5]
 **ID:** ES-ING-11-2026-W08-conditionals-third-mixed-001-MASTERY-bundle-v7
 **Bloom:** Apply
-**EJE:** Lexico
+**EJE:** Morfosintaxis
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Elena refused an offer to study abroad two years ago.
 
 ### Enunciado
-What is the English word for: "A document provided by an airline during check-in, giving a passenger permission to board the airplane."
+Complete the mixed conditional: If she had accepted the offer, she ___ in Ireland now.
 
 ### Opciones
-- [x] B) boarding pass
-  <!-- feedback: Correct! The 'boarding pass' is the document the airline gives you at check-in that authorises you to board. -->
-- [ ] A) visa
-  <!-- feedback: 'Visa' is the official permission to enter and stay in a country, requested before the trip, not the document that lets you board a plane. -->
-- [ ] C) receipt
-  <!-- feedback: 'Receipt' is the proof of payment for a purchase, not the travel document for boarding. -->
-- [ ] D) brochure
-  <!-- feedback: 'Brochure' is a small booklet of tourist information, not the document that lets you board. -->
+- [ ] A) would have studied
+  <!-- feedback: Wrong: would have studied keeps the whole sentence in the past, which contradicts the word now. -->
+- [ ] B) will be studying
+  <!-- feedback: Wrong: will is impossible here, because the condition is unreal and already finished. -->
+- [x] C) would be studying
+  <!-- feedback: Right: the time marker now pulls the result into the present, so the sentence needs would be studying. -->
+- [ ] D) would have been studying
+  <!-- feedback: Wrong: would have been studying describes an unreal past action, not a present state. -->
 
 ### Explicacion Pedagogica
-The word 'boarding pass' is used to describe a document provided by an airline during check-in, giving a passenger permission to board the airplane. This is an important vocabulary word in English.
+When a past condition leads to a present result, the result clause uses would plus the base verb, as in would be studying.
 ---
-## Question 8 [D6]
+## Question 8 [D5]
 **ID:** ES-ING-11-2026-W08-conditionals-third-mixed-001-MASTERY-bundle-v8
 **Bloom:** Apply
-**EJE:** Lexico
+**EJE:** Morfosintaxis
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** The basketball team reviews the final seconds of the match.
 
 ### Enunciado
-What is the English word for: "The activity of visiting places of interest in a particular location."
+Complete: The team ___ if the captain had taken the last shot.
 
 ### Opciones
-- [x] B) sightseeing
-  <!-- feedback: Correct! 'Sightseeing' is the activity of visiting the places of interest in a location. -->
-- [ ] A) shopping
-  <!-- feedback: 'Shopping' is buying things in stores, which is not the same as visiting the sights of a place. -->
-- [ ] C) hiking
-  <!-- feedback: 'Hiking' is walking in the countryside on trails, not the general activity of visiting a location's attractions. -->
-- [ ] D) camping
-  <!-- feedback: 'Camping' is staying outdoors in a tent, not visiting the sights of a location. -->
+- [ ] A) had won
+  <!-- feedback: Wrong: had won repeats the past perfect, which belongs only in the if-clause of a third conditional. -->
+- [ ] B) will win
+  <!-- feedback: Wrong: will win describes a real future outcome, but the shot is already history. -->
+- [ ] C) would win
+  <!-- feedback: Wrong: would win without have points to a present hypothetical, not to the finished match. -->
+- [x] D) would have won
+  <!-- feedback: Right: the if-clause has the past perfect, so the result clause must take would have won. -->
 
 ### Explicacion Pedagogica
-The word 'sightseeing' is used to describe the activity of visiting places of interest in a particular location. This is an important vocabulary word in English.
+A past perfect in the if-clause signals that the result clause needs would have plus a past participle.
 ---
-## Question 9 [D5]
+## Question 9 [D6]
 **ID:** ES-ING-11-2026-W08-conditionals-third-mixed-001-MASTERY-bundle-v9
 **Bloom:** Apply
-**EJE:** Lexico
+**EJE:** Morfosintaxis
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Sofia regrets never learning to swim as a child.
 
 ### Enunciado
-What is the English word for: "A thing that is kept as a reminder of a person, place, or event."
+Complete: If she were braver, she ___ swimming last summer.
 
 ### Opciones
-- [x] C) souvenir
-  <!-- feedback: Correct! A 'souvenir' is the object you keep afterwards as a reminder of a person, place or event you visited. -->
-- [ ] A) gift
-  <!-- feedback: 'Gift' is something you give to another person; a souvenir is kept by the person who took the trip. -->
-- [ ] B) award
-  <!-- feedback: 'Award' is a prize given for an achievement, not an object bought or kept as a memory. -->
-- [ ] D) prize
-  <!-- feedback: 'Prize' is the reward you win in a competition, so it comes from winning rather than from a journey. -->
+- [x] A) would have tried
+  <!-- feedback: Right: a present condition with a past result takes would have tried, a classic mixed pattern. -->
+- [ ] B) would try
+  <!-- feedback: Wrong: would try keeps the result in the present, but last summer fixes the action in the past. -->
+- [ ] C) had tried
+  <!-- feedback: Wrong: the past perfect cannot appear in the result clause of a conditional sentence. -->
+- [ ] D) will have tried
+  <!-- feedback: Wrong: will has no place here, because the condition is unreal rather than a prediction. -->
 
 ### Explicacion Pedagogica
-The word 'souvenir' is used to describe a thing that is kept as a reminder of a person, place, or event. This is an important vocabulary word in English.
+This mixed type starts with a present unreal condition and reaches back into the past with would have plus a participle.
 ---
 ## Question 10 [D6]
 **ID:** ES-ING-11-2026-W08-conditionals-third-mixed-001-MASTERY-bundle-v10
 **Bloom:** Apply
-**EJE:** Lexico
+**EJE:** Pragmatica
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Ana writes an apology to a customer after a booking mistake.
 
 ### Enunciado
-What is the English word for: "A period of time by which something is late or postponed."
+Choose the sentence that expresses regret about the past most appropriately.
 
 ### Opciones
-- [x] C) delay
-  <!-- feedback: Correct! A 'delay' is the extra time by which something ends up late or gets postponed. -->
-- [ ] A) cancellation
-  <!-- feedback: 'Cancellation' means the event does not happen at all, not that it happens later than planned. -->
-- [ ] B) departure
-  <!-- feedback: 'Departure' is the scheduled time or the act of leaving; the definition is about the extra time lost. -->
-- [ ] D) arrival
-  <!-- feedback: 'Arrival' is getting there, the opposite moment. Here we want the time lost, not the time you reach the destination. -->
+- [ ] A) If we check the dates, we will not charge you twice.
+  <!-- feedback: Wrong: this first conditional treats the double charge as a future possibility, ignoring what already happened. -->
+- [x] B) If we had checked the dates, we would not have charged you twice.
+  <!-- feedback: Right: the past perfect and would not have charged present the mistake as finished, which fits an apology. -->
+- [ ] C) If we checked the dates, we would not charge you twice.
+  <!-- feedback: Wrong: the second conditional sounds hypothetical about now, but the customer was already overcharged. -->
+- [ ] D) If we had checked the dates, we will not charge you twice.
+  <!-- feedback: Wrong: pairing the past perfect with will is ungrammatical, because the clauses clash without a mixed meaning. -->
 
 ### Explicacion Pedagogica
-The word 'delay' is used to describe a period of time by which something is late or postponed. This is an important vocabulary word in English.
+Apologies for past mistakes use the third conditional, because the harm is already done and only the hypothesis remains.
 ---
 ## Question 11 [D7]
 **ID:** ES-ING-11-2026-W08-conditionals-third-mixed-001-MASTERY-bundle-v11
-**Bloom:** Apply
-**EJE:** Lexico
+**Bloom:** Analyze
+**EJE:** Morfosintaxis
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** A teacher marks the most common mistakes from the writing task.
 
 ### Enunciado
-What is the English word for: "The act of reporting one's presence and registering, typically at an airport or hotel."
+Choose the sentence that is grammatically correct.
 
 ### Opciones
-- [x] B) check-in
-  <!-- feedback: Correct! 'Check-in' is the act of reporting your arrival and registering at the airport or hotel counter. -->
-- [ ] A) check-out
-  <!-- feedback: 'Check-out' is the opposite moment, when you leave the hotel or hand back the room. -->
-- [ ] C) booking
-  <!-- feedback: 'Booking' is the reservation you made earlier; the act of registering your presence on arrival is check-in. -->
-- [ ] D) reservation
-  <!-- feedback: 'Reservation' is the booking document, not the act of reporting your presence at the desk. -->
+- [ ] A) If they would have rehearsed more, they would have performed better.
+  <!-- feedback: Wrong: would have must never enter the if-clause; the condition keeps the past perfect had rehearsed. -->
+- [ ] B) If they had rehearsed more, they had performed better.
+  <!-- feedback: Wrong: the result clause needs would have performed, because the past perfect alone cannot carry the hypothesis. -->
+- [x] C) If they had rehearsed more, they would have performed better.
+  <!-- feedback: Right: it keeps the past perfect in the if-clause and would have performed in the result, the exact third pattern. -->
+- [ ] D) If they rehearsed more, they would have performed better.
+  <!-- feedback: Wrong: the past simple rehearsed belongs to the second conditional, so it clashes with the past result. -->
 
 ### Explicacion Pedagogica
-The word 'check-in' is used to describe the act of reporting one's presence and registering, typically at an airport or hotel. This is an important vocabulary word in English.
+A correct third conditional reserves would have for the result clause and keeps the past perfect in the if-clause only.
 ---
-## Question 12 [D8]
+## Question 12 [D7]
 **ID:** ES-ING-11-2026-W08-conditionals-third-mixed-001-MASTERY-bundle-v12
-**Bloom:** Apply
-**EJE:** Lexico
+**Bloom:** Analyze
+**EJE:** Morfosintaxis
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** During revision, a classmate questions one of the sentences on the board.
 
 ### Enunciado
-What is the English word for: "A period of rest or waiting before a further stage in a journey."
+Read 'If you would have told me, I would have helped' and identify the main error in it.
 
 ### Opciones
-- [x] C) layover
-  <!-- feedback: Correct! A 'layover' is a period of rest or waiting between two stages of a journey. -->
-- [ ] A) stopover
-  <!-- feedback: 'Stopover' usually means a deliberate visit in the middle of a trip, not just the wait between flights. -->
-- [ ] B) transfer
-  <!-- feedback: 'Transfer' is the change of vehicle itself, the movement; the definition is about the time of waiting. -->
-- [ ] D) transit
-  <!-- feedback: 'Transit' is a system of moving people and goods through a city, not a break between two flights. -->
+- [ ] A) The result clause wrongly uses would have
+  <!-- feedback: Wrong: the result clause is fine, because would have helped is exactly what the third conditional requires. -->
+- [ ] B) The past perfect is missing from the result clause
+  <!-- feedback: Wrong: the result clause already contains the past participle helped after would have, so nothing is missing. -->
+- [ ] C) The sentence has no error at all
+  <!-- feedback: Wrong: the sentence holds a common learner error, because would have cannot introduce the condition. -->
+- [x] D) The if-clause wrongly uses would have
+  <!-- feedback: Right: conditions never take would have, so the if-clause must read If you had told me instead. -->
 
 ### Explicacion Pedagogica
-The word 'layover' is used to describe a period of rest or waiting before a further stage in a journey. This is an important vocabulary word in English.
+Learners often copy would have into the if-clause, but the condition must stay in the past perfect: If you had told me.
 ---
 ## Question 13 [D7]
 **ID:** ES-ING-11-2026-W08-conditionals-third-mixed-001-MASTERY-bundle-v13
 **Bloom:** Analyze
-**EJE:** Lexico
+**EJE:** Morfosintaxis
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** A student compares conditional types in an essay about career choices.
 
 ### Enunciado
-What is the English word for: "A system of money in general use in a particular country."
+Choose the sentence that is a mixed conditional.
 
 ### Opciones
-- [x] C) currency
-  <!-- feedback: Correct! 'Currency' is the money system in general use in a particular country. -->
-- [ ] A) coin
-  <!-- feedback: 'Coin' is a single metal piece of money, one item within the currency, not the whole system. -->
-- [ ] B) banknote
-  <!-- feedback: 'Banknote' is a paper bill, one item of the currency rather than the system of money itself. -->
-- [ ] D) cash
-  <!-- feedback: 'Cash' means money in the physical form you hold, not the money system of a country. -->
+- [x] A) If I had studied medicine, I would be a doctor today.
+  <!-- feedback: Right: the past condition is finished while the result would be holds today, which crosses time frames. -->
+- [ ] B) If I had studied medicine, I would have become a doctor.
+  <!-- feedback: Wrong: both clauses sit in the past, so this is a pure third conditional with no time shift. -->
+- [ ] C) If I studied medicine, I would become a doctor.
+  <!-- feedback: Wrong: both clauses sit in the present or future, which makes this a second conditional. -->
+- [ ] D) If I study medicine, I will become a doctor.
+  <!-- feedback: Wrong: both clauses sit in the real future, which makes this a first conditional. -->
 
 ### Explicacion Pedagogica
-The word 'currency' is used to describe a system of money in general use in a particular country. This is an important vocabulary word in English.
+A mixed conditional appears when one clause stays in the past and the other moves to the present, as in this pair.
 ---
-## Question 14 [D8]
+## Question 14 [D7]
 **ID:** ES-ING-11-2026-W08-conditionals-third-mixed-001-MASTERY-bundle-v14
 **Bloom:** Analyze
-**EJE:** Lexico
+**EJE:** Morfosintaxis
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** The class is correcting sentences that mix time references.
 
 ### Enunciado
-What is the English word for: "A book of information about a place designed for the use of visitors or tourists."
+Choose the sentence that mixes a present condition with a past result.
 
 ### Opciones
-- [x] B) guidebook
-  <!-- feedback: Correct! A 'guidebook' is a book of information about a place written for visitors and tourists. -->
-- [ ] A) map
-  <!-- feedback: 'Map' is a single sheet or screen showing the layout of a place, not a book of information. -->
-- [ ] C) dictionary
-  <!-- feedback: 'Dictionary' is a book of word definitions of a language, not information about a place for visitors. -->
-- [ ] D) encyclopedia
-  <!-- feedback: 'Encyclopedia' is a general reference work with entries on every topic, not a guide written for tourists about one place. -->
+- [ ] A) If he had not been so shy, he would have spoken at the meeting.
+  <!-- feedback: Wrong: both clauses look at the past, so this is a third conditional rather than a mixed one. -->
+- [x] B) If he were not so shy, he would have spoken at the meeting.
+  <!-- feedback: Right: were not so shy describes his character now, while would have spoken points to the missed meeting. -->
+- [ ] C) If he were not so shy, he would speak at the meeting.
+  <!-- feedback: Wrong: both clauses describe the present, so this is a second conditional with no past result. -->
+- [ ] D) If he is not so shy, he will speak at the meeting.
+  <!-- feedback: Wrong: this is a first conditional about a real future chance, so no time mixing occurs. -->
 
 ### Explicacion Pedagogica
-The word 'guidebook' is used to describe a book of information about a place designed for the use of visitors or tourists. This is an important vocabulary word in English.
+The mixed pattern pairs a present unreal condition, were not so shy, with a past result, would have spoken at the meeting.
 ---
-## Question 15 [D7]
+## Question 15 [D8]
 **ID:** ES-ING-11-2026-W08-conditionals-third-mixed-001-MASTERY-bundle-v15
 **Bloom:** Analyze
-**EJE:** Lexico
+**EJE:** Morfosintaxis
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Two classmates argue about the meaning of one sentence.
 
 ### Enunciado
-What is the English word for: "A bag with shoulder straps that allow it to be carried on one's back."
+Read 'If you had listened to me, you would not be lost' and choose what the sentence implies.
 
 ### Opciones
-- [x] C) backpack
-  <!-- feedback: Correct! A 'backpack' is the bag with shoulder straps that you carry on your back. -->
-- [ ] A) suitcase
-  <!-- feedback: 'Suitcase' is a case with a handle that you pull along, not a bag worn on the back. -->
-- [ ] B) briefcase
-  <!-- feedback: 'Briefcase' is a case for documents and a laptop, carried in the hand for work. -->
-- [ ] D) handbag
-  <!-- feedback: 'Handbag' is a bag for personal items carried on the arm or in the hand, with no back straps. -->
+- [ ] A) You were lost then because you did not listen now
+  <!-- feedback: Wrong: the condition is in the past and the result in the present, not the other way round. -->
+- [ ] B) You listened, but you got lost anyway
+  <!-- feedback: Wrong: the third conditional always means the listener did not listen, since it imagines the unreal past. -->
+- [x] C) You are lost now because you did not listen then
+  <!-- feedback: Right: the past fact did not listen explains the present state of being lost. -->
+- [ ] D) You will be lost unless you start listening
+  <!-- feedback: Wrong: the sentence describes a finished cause and a present effect, so nothing future is predicted. -->
 
 ### Explicacion Pedagogica
-The word 'backpack' is used to describe a bag with shoulder straps that allow it to be carried on one's back. This is an important vocabulary word in English.
+With a mixed conditional, one sentence explains a present problem through its origin in a past decision.
 ---
 ## Question 16 [D8]
 **ID:** ES-ING-11-2026-W08-conditionals-third-mixed-001-MASTERY-bundle-v16
 **Bloom:** Analyze
-**EJE:** Lexico
+**EJE:** Morfosintaxis
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** A proofreader works through an article about a historical storm.
 
 ### Enunciado
-What is the English word for: "In or to a foreign country, especially one across the sea."
+Choose the right correction of the sentence 'If the storm would have arrived later, the ships would have been saved'.
 
 ### Opciones
-- [x] B) overseas
-  <!-- feedback: Correct! 'Overseas' means in or to a foreign country, especially one across the sea. -->
-- [ ] A) domestic
-  <!-- feedback: 'Domestic' means inside your own country, the opposite of overseas. -->
-- [ ] C) local
-  <!-- feedback: 'Local' means in the area where you are, even more restricted than domestic; it never crosses a border. -->
-- [ ] D) national
-  <!-- feedback: 'National' refers to a whole country without saying it is foreign, so it does not imply going abroad. -->
+- [ ] A) If the storm would arrive later, the ships would have been saved.
+  <!-- feedback: Wrong: would arrive leaves an illegal would in the condition and drops the past perfect entirely. -->
+- [ ] B) If the storm arrives later, the ships will be saved.
+  <!-- feedback: Wrong: this rewrites the event as a real future possibility, which erases the historical meaning. -->
+- [ ] C) If the storm had arrived later, the ships would be saved now.
+  <!-- feedback: Wrong: this version is grammatical, but adding now shifts the meaning to a mixed conditional. -->
+- [x] D) If the storm had arrived later, the ships would have been saved.
+  <!-- feedback: Right: replacing would have arrived with had arrived fixes the if-clause and keeps the past meaning intact. -->
 
 ### Explicacion Pedagogica
-The word 'overseas' is used to describe in or to a foreign country, especially one across the sea. This is an important vocabulary word in English.
+The proofreader only needs the past perfect in the condition; would have is reserved for the result clause.
 ---
 ## Question 17 [D9]
 **ID:** ES-ING-11-2026-W08-conditionals-third-mixed-001-MASTERY-bundle-v17
 **Bloom:** Evaluate
-**EJE:** Lexico
+**EJE:** Pragmatica
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** A writer chooses the closing line of a scene full of regret.
 
 ### Enunciado
-What is the English word for: "An estimate of income and expenditure for a set period of time."
+Choose the sentence that best expresses a lasting consequence of a past choice.
 
 ### Opciones
-- [x] A) budget
-  <!-- feedback: Correct! A 'budget' is the estimate of income and expenditure planned for a set period. -->
-- [ ] B) expense
-  <!-- feedback: 'Expense' is a single cost already paid; the definition is the estimate for the whole period. -->
-- [ ] C) cost
-  <!-- feedback: 'Cost' is the price of one thing, whereas a budget covers all income and all spending. -->
-- [ ] D) price
-  <!-- feedback: 'Price' is the amount a single item costs, not a plan of income and expenditure over time. -->
+- [x] A) If I had married Andreu, I would live by the sea now.
+  <!-- feedback: Right: the finished choice plus the present result would live now shows a consequence that still lasts. -->
+- [ ] B) If I marry Andreu, I will live by the sea.
+  <!-- feedback: Wrong: the first conditional treats the marriage as a real future option, which contradicts the regret. -->
+- [ ] C) If I married Andreu, I would live by the sea.
+  <!-- feedback: Wrong: the second conditional imagines a present choice that never existed, losing the past regret. -->
+- [ ] D) If I had married Andreu, I would have lived by the sea.
+  <!-- feedback: Wrong: the pure third conditional closes the story in the past, weakening the idea of a lasting effect. -->
 
 ### Explicacion Pedagogica
-The word 'budget' is used to describe an estimate of income and expenditure for a set period of time. This is an important vocabulary word in English.
+Evaluating nuance: the mixed conditional keeps a past decision alive by projecting its effect into the present.
 ---
-## Question 18 [D10]
+## Question 18 [D9]
 **ID:** ES-ING-11-2026-W08-conditionals-third-mixed-001-MASTERY-bundle-v18
 **Bloom:** Evaluate
-**EJE:** Lexico
+**EJE:** Morfosintaxis
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** An editor judges two drafts of the same sentence about a missed flight.
 
 ### Enunciado
-What is the English word for: "A practice or arrangement by which a company or government agency provides a guarantee of compensation for specified loss, damage, illness, or death in return for payment of a premium."
+Draft A reads 'If we would have left sooner, we would not have missed the flight.' Choose the accurate evaluation of it.
 
 ### Opciones
-- [x] D) insurance
-  <!-- feedback: Correct! 'Insurance' is the arrangement by which an insurer promises compensation for loss, damage, illness or death in exchange for a premium. -->
-- [ ] A) warranty
-  <!-- feedback: 'Warranty' covers a product against defects for a limited period and is free of charge, not a premium-based contract. -->
-- [ ] B) guarantee
-  <!-- feedback: 'Guarantee' is the promise itself; 'insurance' is the whole contract arranged with an insurer for a premium. -->
-- [ ] C) policy
-  <!-- feedback: 'Policy' is the document that proves the insurance contract; the arrangement itself is the insurance. -->
+- [ ] A) It is correct because both clauses use would have
+  <!-- feedback: Wrong: matching would have in both clauses does not legitimize it, since the if-clause breaks the pattern. -->
+- [x] B) It is incorrect because would have cannot appear in the if-clause
+  <!-- feedback: Right: the condition must use the past perfect, so the draft should read If we had left sooner. -->
+- [ ] C) It is incorrect because the result clause needs will not miss
+  <!-- feedback: Wrong: will not miss would describe a real future, but the flight was already missed. -->
+- [ ] D) It is correct in formal writing but wrong in speech
+  <!-- feedback: Wrong: the error is structural, not a matter of register, so it fails in speech and writing alike. -->
 
 ### Explicacion Pedagogica
-The word 'insurance' is used to describe a practice or arrangement by which a company or government agency provides a guarantee of compensation for specified loss, damage, illness, or death in return for payment of a premium. This is an important vocabulary word in English.
+Evaluating a draft means checking the condition first: the past perfect belongs there, whatever the result does.
 ---
-## Question 19 [D9]
+## Question 19 [D10]
 **ID:** ES-ING-11-2026-W08-conditionals-third-mixed-001-MASTERY-bundle-v19
 **Bloom:** Evaluate
-**EJE:** Lexico
+**EJE:** Morfosintaxis
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** A pundit debates the final minutes of the match with a colleague.
 
 ### Enunciado
-What is the English word for: "Treatment with a vaccine to produce immunity against a disease."
+Read 'If the striker had seen the open player, he would have scored' and choose the line that contrasts would have scored with could have scored.
 
 ### Opciones
-- [x] A) vaccination
-  <!-- feedback: Correct! A 'vaccination' is the application of a vaccine that makes the body produce immunity against a disease. -->
-- [ ] B) medication
-  <!-- feedback: 'Medication' is a medicine you take to treat an illness, not the vaccine that prevents one. -->
-- [ ] C) prescription
-  <!-- feedback: 'Prescription' is the written order a doctor gives for a medicine, not the vaccine itself. -->
-- [ ] D) infection
-  <!-- feedback: 'Infection' is the state of having the disease; vaccination is what protects you before you get it. -->
+- [ ] A) Both forms claim the result was merely possible
+  <!-- feedback: Wrong: would have does assert certainty about the unreal result, so the two forms are not the same. -->
+- [ ] B) Could have scored asserts certainty; would have scored asserts only possibility
+  <!-- feedback: Wrong: the modal meanings are swapped, because could expresses possibility and would expresses certainty. -->
+- [x] C) Would have scored asserts certainty; could have scored asserts only possibility
+  <!-- feedback: Right: would have states the certain outcome, while could have only grants the chance to score. -->
+- [ ] D) Both forms claim the result was certain to happen
+  <!-- feedback: Wrong: could never asserts certainty, since it keeps the outcome open. -->
 
 ### Explicacion Pedagogica
-The word 'vaccination' is used to describe treatment with a vaccine to produce immunity against a disease. This is an important vocabulary word in English.
+Modals change the strength of a third conditional result: would states the certain outcome and could states possibility.
 ---
 ## Question 20 [D10]
 **ID:** ES-ING-11-2026-W08-conditionals-third-mixed-001-MASTERY-bundle-v20
 **Bloom:** Evaluate
-**EJE:** Lexico
+**EJE:** Pragmatica
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** A student writes the closing reflection for a history project.
 
 ### Enunciado
-What is the English word for: "Extreme tiredness and other physical effects felt by a person after a long flight across several time zones."
+Read 'If Napoleon had had better maps, history would be different' and choose the classification that keeps its meaning.
 
 ### Opciones
-- [x] D) jet lag
-  <!-- feedback: Correct! 'Jet lag' is the tiredness and disturbed body clock you feel after a flight across several time zones. -->
-- [ ] A) fatigue
-  <!-- feedback: 'Fatigue' is tiredness after effort or a long day, not specifically caused by crossing time zones. -->
-- [ ] B) exhaustion
-  <!-- feedback: 'Exhaustion' is extreme tiredness from overwork or lack of sleep, which is not the same as the time zone effect. -->
-- [ ] C) insomnia
-  <!-- feedback: 'Insomnia' is the inability to sleep, whereas jet lag comes with tiredness during the day and a shifted body clock. -->
+- [ ] A) It is a third conditional linking two past moments
+  <!-- feedback: Wrong: a third conditional would need would have been different, which fixes the result in the past. -->
+- [ ] B) It is a second conditional linking two present moments
+  <!-- feedback: Wrong: a second conditional needs a present condition, but the maps of the past cannot change. -->
+- [ ] C) It is ungrammatical because had had repeats the same word twice
+  <!-- feedback: Wrong: had had is correct, because the first had is the auxiliary and the second is the participle of have. -->
+- [x] D) It is a mixed conditional linking a past cause to a present result
+  <!-- feedback: Right: the past condition had had better maps produces the result would be different, which holds in the present. -->
 
 ### Explicacion Pedagogica
-The word 'jet lag' is used to describe extreme tiredness and other physical effects felt by a person after a long flight across several time zones. This is an important vocabulary word in English.
+Classifying a sentence correctly depends on locating the time of each clause, not on counting repeated words.
+---

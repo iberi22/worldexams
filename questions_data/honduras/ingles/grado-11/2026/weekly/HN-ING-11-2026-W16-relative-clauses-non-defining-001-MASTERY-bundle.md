@@ -23,460 +23,460 @@ bundle_index: 1
 ---
 ## Question 1 [D3]
 **ID:** HN-ING-11-2026-W16-relative-clauses-non-defining-001-MASTERY-bundle-v1
-**Bloom:** Remember
-**EJE:** Lexico
+**Bloom:** Apply
+**EJE:** Grammatical Knowledge
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** A non-defining clause, which takes a comma and never that.
 
 ### Enunciado
-What is the English word for: "A place where you live or stay on holiday."
+My sister, ___ lives in Spain, is visiting us next week.
 
 ### Opciones
-- [x] B) accommodation
-  <!-- feedback: Correct! 'Accommodation' is the word for a place where you live or stay temporarily while you are away from home. -->
-- [ ] A) transportation
-  <!-- feedback: Wrong. 'Transportation' names the way you travel, such as buses, trains or planes, not the place where you stay. -->
-- [ ] C) entertainment
-  <!-- feedback: Wrong. 'Entertainment' is the activity of enjoying shows, films or games, not a place where you sleep. -->
-- [ ] D) currency
-  <!-- feedback: Wrong. 'Currency' is the money used in a country, which has nothing to do with lodging. -->
+- [x] A) who
+  <!-- feedback: Correct! A non-defining clause uses who for a person and is set off by commas. -->
+- [ ] B) that
+  <!-- feedback: That is not used in a non-defining clause, because a restrictive meaning is what that always carries. -->
+- [ ] C) which
+  <!-- feedback: Which refers to things, and the antecedent is my sister. -->
+- [ ] D) what
+  <!-- feedback: What cannot be used with a preceding noun as an antecedent. -->
 
 ### Explicacion Pedagogica
-The word 'accommodation' is used to describe a place where you live or stay on holiday. This is an important vocabulary word in English.
+A non-defining clause adds extra information about an already identified person or thing. It is separated by commas and uses who, whom, whose or which, never that.
 ---
-## Question 2 [D4]
+## Question 2 [D3]
 **ID:** HN-ING-11-2026-W16-relative-clauses-non-defining-001-MASTERY-bundle-v2
-**Bloom:** Remember
-**EJE:** Lexico
+**Bloom:** Apply
+**EJE:** Grammatical Knowledge
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** A non-defining clause with a possessive pronoun.
 
 ### Enunciado
-What is the English word for: "A detailed plan or route of a journey."
+Maria, ___ brother works in Madrid, is a dentist.
 
 ### Opciones
-- [x] B) itinerary
-  <!-- feedback: Correct! An 'itinerary' is the planned route of a journey together with the places and times along the way. -->
-- [ ] A) baggage
-  <!-- feedback: Wrong. 'Baggage' is the suitcases and bags themselves, not the plan of the trip. -->
-- [ ] C) destination
-  <!-- feedback: Wrong. A 'destination' is only the place where the journey ends, while an itinerary lists the whole route. -->
-- [ ] D) passport
-  <!-- feedback: Wrong. A 'passport' is the travel document that proves who you are, not the plan of the journey. -->
+- [x] B) whose
+  <!-- feedback: Correct! Whose expresses the relationship between Maria and her brother inside a non-defining clause. -->
+- [ ] A) who
+  <!-- feedback: Who would be the subject of the clause, but the clause has no verb of its own. -->
+- [ ] C) that
+  <!-- feedback: That cannot introduce a non-defining clause and would wrongly restrict the name Maria. -->
+- [ ] D) which
+  <!-- feedback: Which cannot refer to a person, and the antecedent is Maria. -->
 
 ### Explicacion Pedagogica
-The word 'itinerary' is used to describe a detailed plan or route of a journey. This is an important vocabulary word in English.
+Whose works in both defining and non-defining clauses. In the non-defining form it simply adds a piece of extra information about the person named.
 ---
 ## Question 3 [D3]
 **ID:** HN-ING-11-2026-W16-relative-clauses-non-defining-001-MASTERY-bundle-v3
-**Bloom:** Understand
-**EJE:** Lexico
+**Bloom:** Apply
+**EJE:** Grammatical Knowledge
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** A non-defining clause about a thing.
 
 ### Enunciado
-What is the English word for: "The place to which someone or something is going or being sent."
+The novel, ___ was published in 1994, is taught in schools.
 
 ### Opciones
-- [x] B) destination
-  <!-- feedback: Correct! A 'destination' is the place someone or something is going to or being sent to. -->
-- [ ] A) departure
-  <!-- feedback: Wrong. A 'departure' is the act of leaving and the place you leave from, the opposite end of the trip. -->
-- [ ] C) arrival
-  <!-- feedback: Wrong. An 'arrival' is the event of getting there, not the place that is being travelled to. -->
-- [ ] D) journey
-  <!-- feedback: Wrong. A 'journey' is the whole trip from start to finish, not the place at the end of it. -->
+- [x] C) which
+  <!-- feedback: Correct! Which is the pronoun used for things in a non-defining clause, with the comma marking it as extra information. -->
+- [ ] A) that
+  <!-- feedback: That is reserved for defining clauses and would wrongly restrict which novel is meant. -->
+- [ ] B) what
+  <!-- feedback: What cannot be preceded by a noun antecedent. -->
+- [ ] D) who
+  <!-- feedback: Who refers to people, and the antecedent is the novel. -->
 
 ### Explicacion Pedagogica
-The word 'destination' is used to describe the place to which someone or something is going or being sent. This is an important vocabulary word in English.
+The comma is what makes a clause non-defining. Which is the standard pronoun for a thing in that position, and that is excluded.
 ---
-## Question 4 [D4]
+## Question 4 [D3]
 **ID:** HN-ING-11-2026-W16-relative-clauses-non-defining-001-MASTERY-bundle-v4
-**Bloom:** Understand
-**EJE:** Lexico
+**Bloom:** Apply
+**EJE:** Grammatical Knowledge
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** A non-defining clause added to a whole clause rather than a noun.
 
 ### Enunciado
-What is the English word for: "Suitcases or other bags in which to pack personal belongings for traveling."
+She passed the exam, ___ surprised everybody in the room.
 
 ### Opciones
-- [x] B) luggage
-  <!-- feedback: Correct! 'Luggage' is the collective word for the suitcases and bags you pack your belongings in. -->
-- [ ] A) ticket
-  <!-- feedback: Wrong. A 'ticket' is the document that pays for and authorises a journey, not the bag you pack. -->
-- [ ] C) flight
-  <!-- feedback: Wrong. A 'flight' is the journey by plane itself, not the bags carried on it. -->
-- [ ] D) reservation
-  <!-- feedback: Wrong. A 'reservation' is the booking you make for a seat or a room, not the baggage itself. -->
+- [x] D) which
+  <!-- feedback: Correct! Which can stand for an entire clause in a non-defining position, and the comma marks the extra comment. -->
+- [ ] A) it
+  <!-- feedback: It has no antecedent, and the whole preceding clause has not been turned into a noun. -->
+- [ ] B) this
+  <!-- feedback: This cannot introduce a relative clause, and it has no clear antecedent here. -->
+- [ ] C) that
+  <!-- feedback: That is used for defining clauses and would restrict the meaning in a way the comma denies. -->
 
 ### Explicacion Pedagogica
-The word 'luggage' is used to describe suitcases or other bags in which to pack personal belongings for traveling. This is an important vocabulary word in English.
+A non-defining which can refer back to a whole clause rather than to a single noun. It then adds a comment about the entire statement.
 ---
-## Question 5 [D5]
+## Question 5 [D3]
 **ID:** HN-ING-11-2026-W16-relative-clauses-non-defining-001-MASTERY-bundle-v5
-**Bloom:** Understand
-**EJE:** Lexico
+**Bloom:** Apply
+**EJE:** Grammatical Knowledge
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** A non-defining clause with a preposition at the end.
 
 ### Enunciado
-What is the English word for: "A traveler on a public or private conveyance other than the driver, pilot, or crew."
+The teacher, ___ we spoke to yesterday, is leaving the school.
 
 ### Opciones
-- [x] A) passenger
-  <!-- feedback: Correct! A 'passenger' is anyone travelling in a vehicle who is not the one driving or piloting it. -->
-- [ ] B) pedestrian
-  <!-- feedback: Wrong. A 'pedestrian' travels on foot, so they are not aboard any conveyance at all. -->
-- [ ] C) commuter
-  <!-- feedback: Wrong. A 'commuter' is defined by making the same trip regularly to work or school, not by being a passenger in general. -->
-- [ ] D) tourist
-  <!-- feedback: Wrong. A 'tourist' is defined by travelling for pleasure, not simply by riding in a vehicle. -->
+- [x] A) whom
+  <!-- feedback: Correct! The formal object pronoun is the right form after a preposition that closes a non-defining clause. -->
+- [ ] B) who
+  <!-- feedback: Who would leave the clause without an object, because spoke needs one before to. -->
+- [ ] C) to who
+  <!-- feedback: In English the preposition stays at the end of the clause, and to who is not a possible order. -->
+- [ ] D) that
+  <!-- feedback: That is excluded from non-defining clauses altogether. -->
 
 ### Explicacion Pedagogica
-The word 'passenger' is used to describe a traveler on a public or private conveyance other than the driver, pilot, or crew. This is an important vocabulary word in English.
+When a non-defining clause ends in a preposition, whom is the correct pronoun in formal English. In everyday speech the clause is often avoided altogether.
 ---
-## Question 6 [D6]
+## Question 6 [D3]
 **ID:** HN-ING-11-2026-W16-relative-clauses-non-defining-001-MASTERY-bundle-v6
-**Bloom:** Understand
-**EJE:** Lexico
+**Bloom:** Apply
+**EJE:** Grammatical Knowledge
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** A non-defining clause about a person, with the pronoun as object.
 
 ### Enunciado
-What is the English word for: "The place at a port, airport, or frontier where officials check incoming goods, travelers, or luggage."
+Dr. Reyes, ___ I met at the conference, is an expert on volcanoes.
 
 ### Opciones
-- [x] D) customs
-  <!-- feedback: Correct! 'Customs' is the office where officials check the goods and the people coming in from abroad. -->
-- [ ] A) security
-  <!-- feedback: Wrong. 'Security' is the police or staff who keep order, while customs staff collect duties on goods. -->
-- [ ] B) terminal
-  <!-- feedback: Wrong. A 'terminal' is the building where you arrive or depart, not the office that checks imports. -->
-- [ ] C) gate
-  <!-- feedback: Wrong. A 'gate' is the door you pass through to reach the plane; customs is the check itself. -->
+- [x] B) whom
+  <!-- feedback: Correct! The pronoun is the object of met, and the formal form is whom. -->
+- [ ] A) who
+  <!-- feedback: Who cannot be an object, and met needs an object in this sentence. -->
+- [ ] C) which
+  <!-- feedback: Which cannot refer to a person. -->
+- [ ] D) that
+  <!-- feedback: That is not available in a non-defining clause, and whom is the correct register here. -->
 
 ### Explicacion Pedagogica
-The word 'customs' is used to describe the place at a port, airport, or frontier where officials check incoming goods, travelers, or luggage. This is an important vocabulary word in English.
+Whom is the object form of who and is used in formal English, particularly after a preposition. In everyday speech who is often used loosely, but that is not correct for an object.
 ---
-## Question 7 [D5]
+## Question 7 [D3]
 **ID:** HN-ING-11-2026-W16-relative-clauses-non-defining-001-MASTERY-bundle-v7
 **Bloom:** Apply
-**EJE:** Lexico
+**EJE:** Grammatical Knowledge
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** A non-defining clause with a past participle, which is not possible with the comma form.
 
 ### Enunciado
-What is the English word for: "A document provided by an airline during check-in, giving a passenger permission to board the airplane."
+The results, ___ by the review board, will be published in June.
 
 ### Opciones
-- [x] A) boarding pass
-  <!-- feedback: Correct! A 'boarding pass' is the document the airline hands you at check-in that lets you board the plane. -->
-- [ ] B) visa
-  <!-- feedback: Wrong. A 'visa' is the official permission a government gives to enter a country, granted before you travel. -->
-- [ ] C) receipt
-  <!-- feedback: Wrong. A 'receipt' only proves that you paid for something; it does not admit you to the aircraft. -->
-- [ ] D) brochure
-  <!-- feedback: Wrong. A 'brochure' is advertising material about destinations, not a travel document for boarding. -->
+- [x] C) approved
+  <!-- feedback: Correct! A non-defining clause is never reduced, so the participle appears with the full pronoun. -->
+- [ ] A) that approved
+  <!-- feedback: A reduced clause drops the pronoun, and that is in any case not used non-definingly. -->
+- [ ] B) which approved
+  <!-- feedback: Which approved would put the results in the subject position of the clause, which is wrong. -->
+- [ ] D) being approved
+  <!-- feedback: Being belongs to continuous passives and cannot serve as a reduced relative pronoun here. -->
 
 ### Explicacion Pedagogica
-The word 'boarding pass' is used to describe a document provided by an airline during check-in, giving a passenger permission to board the airplane. This is an important vocabulary word in English.
+Only defining clauses can be reduced to a participle. A non-defining clause keeps its full structure, because the information it adds is not essential to the noun.
 ---
-## Question 8 [D6]
+## Question 8 [D3]
 **ID:** HN-ING-11-2026-W16-relative-clauses-non-defining-001-MASTERY-bundle-v8
 **Bloom:** Apply
-**EJE:** Lexico
+**EJE:** Grammatical Knowledge
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** A non-defining clause about a place, formal version.
 
 ### Enunciado
-What is the English word for: "The activity of visiting places of interest in a particular location."
+Her parents, ___ in Choluteca, visit her every summer.
 
 ### Opciones
-- [x] B) sightseeing
-  <!-- feedback: Correct! 'Sightseeing' means going round and looking at the famous sights of a place as a visitor. -->
-- [ ] A) shopping
-  <!-- feedback: Wrong. 'Shopping' is buying things in a city, a different activity from visiting its places of interest. -->
-- [ ] C) hiking
-  <!-- feedback: Wrong. 'Hiking' is walking long distances in the countryside on marked trails, not touring the sights of a location. -->
-- [ ] D) camping
-  <!-- feedback: Wrong. 'Camping' means staying the night outdoors in a tent, not a day of visiting places of interest. -->
+- [x] D) live
+  <!-- feedback: Correct! In everyday English a clause about a place is often written with the verb and no relative pronoun at all. -->
+- [ ] A) which live
+  <!-- feedback: Which would refer to a thing rather than to a person, and it is a clumsy solution here. -->
+- [ ] B) where
+  <!-- feedback: Where replaces a place preposition, but the verb live already stands in the clause and does not need one. -->
+- [ ] C) who
+  <!-- feedback: Who would need a verb after it, and the verb is already present. -->
 
 ### Explicacion Pedagogica
-The word 'sightseeing' is used to describe the activity of visiting places of interest in a particular location. This is an important vocabulary word in English.
+In non-defining clauses about place or time, English frequently omits the pronoun altogether and just keeps the verb. This is the ordinary conversational pattern.
 ---
-## Question 9 [D5]
+## Question 9 [D3]
 **ID:** HN-ING-11-2026-W16-relative-clauses-non-defining-001-MASTERY-bundle-v9
 **Bloom:** Apply
-**EJE:** Lexico
+**EJE:** Grammatical Knowledge
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** A non-defining clause with a possessive pronoun about an organisation.
 
 ### Enunciado
-What is the English word for: "A thing that is kept as a reminder of a person, place, or event."
+The company, ___ factory is in Choluteca, employs four hundred people.
 
 ### Opciones
-- [x] A) souvenir
-  <!-- feedback: Correct! A 'souvenir' is an object kept afterwards as a reminder of the trip and of the people or places on it. -->
-- [ ] B) gift
-  <!-- feedback: Wrong. A 'gift' is chosen to be given to somebody else, while a souvenir is kept by the traveller. -->
-- [ ] C) award
-  <!-- feedback: Wrong. An 'award' is a distinction given for an achievement, not a keepsake bought on a trip. -->
-- [ ] D) prize
-  <!-- feedback: Wrong. A 'prize' is what a competitor wins in a contest; it says nothing about remembering a journey. -->
+- [x] A) whose
+  <!-- feedback: Correct! Whose links the company to the factory as its possessor, and it is the right pronoun here. -->
+- [ ] B) who
+  <!-- feedback: Who would be the subject of a verb, and the clause has no verb of its own. -->
+- [ ] C) that
+  <!-- feedback: That is not used in a non-defining clause and would wrongly restrict which company is meant. -->
+- [ ] D) which
+  <!-- feedback: Which cannot express possession, and the relationship is that of owner to owned. -->
 
 ### Explicacion Pedagogica
-The word 'souvenir' is used to describe a thing that is kept as a reminder of a person, place, or event. This is an important vocabulary word in English.
+Whose expresses possession and works with people, places and organisations. The noun it modifies follows it directly, with no article or determiner in between.
 ---
-## Question 10 [D6]
+## Question 10 [D4]
 **ID:** HN-ING-11-2026-W16-relative-clauses-non-defining-001-MASTERY-bundle-v10
 **Bloom:** Apply
-**EJE:** Lexico
+**EJE:** Grammatical Knowledge
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** A non-defining clause in a question.
 
 ### Enunciado
-What is the English word for: "A period of time by which something is late or postponed."
+Who is the author of the book, ___ won the prize?
 
 ### Opciones
-- [x] D) delay
-  <!-- feedback: Correct! A 'delay' is the extra period of time by which a departure or arrival is postponed. -->
-- [ ] A) cancellation
-  <!-- feedback: Wrong. A 'cancellation' calls the plan off entirely, whereas a delay only postpones it by some hours. -->
-- [ ] B) departure
-  <!-- feedback: Wrong. 'Departure' is simply the moment of leaving; the lateness is measured separately from it. -->
-- [ ] C) arrival
-  <!-- feedback: Wrong. An 'arrival' is the moment of getting there, not the amount of time a plan runs late. -->
+- [x] B) which
+  <!-- feedback: Correct! Which refers back to the whole preceding clause, and the comma marks it as extra information. -->
+- [ ] A) that
+  <!-- feedback: That cannot be used non-definingly, and it would restrict the noun to one particular book. -->
+- [ ] C) what
+  <!-- feedback: What cannot be used after a clause has already been completed with its own question word. -->
+- [ ] D) it
+  <!-- feedback: It has no antecedent, because the preceding words form a clause and not a noun. -->
 
 ### Explicacion Pedagogica
-The word 'delay' is used to describe a period of time by which something is late or postponed. This is an important vocabulary word in English.
+A non-defining which can follow a whole clause in a question as well as a statement. The extra information is what the question is really asking about.
 ---
-## Question 11 [D7]
+## Question 11 [D3]
 **ID:** HN-ING-11-2026-W16-relative-clauses-non-defining-001-MASTERY-bundle-v11
 **Bloom:** Apply
-**EJE:** Lexico
+**EJE:** Grammatical Knowledge
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** A non-defining clause that could be misunderstood without the comma.
 
 ### Enunciado
-What is the English word for: "The act of reporting one's presence and registering, typically at an airport or hotel."
+My brother, ___ is a lawyer, is visiting us.
 
 ### Opciones
-- [x] B) check-in
-  <!-- feedback: Correct! 'Check-in' is when you arrive and register, and the desk records your presence and gives you your pass. -->
-- [ ] A) check-out
-  <!-- feedback: Wrong. 'Check-out' is the opposite moment, when you pay and hand back the room key before leaving. -->
-- [ ] C) booking
-  <!-- feedback: Wrong. A 'booking' is the reservation made earlier, while check-in is the reporting of your arrival. -->
-- [ ] D) reservation
-  <!-- feedback: Wrong. A 'reservation' holds a room or a seat for you in advance, not the act of registering on arrival. -->
+- [x] C) who
+  <!-- feedback: Correct! Who is the subject of the clause, and the commas show that the information is extra. -->
+- [ ] A) what
+  <!-- feedback: What cannot be used with a preceding noun as an antecedent. -->
+- [ ] B) whom
+  <!-- feedback: Whom is the object form and would leave the clause without a subject. -->
+- [ ] D) where
+  <!-- feedback: Where replaces a place preposition, and is a lawyer is not a place. -->
 
 ### Explicacion Pedagogica
-The word 'check-in' is used to describe the act of reporting one's presence and registering, typically at an airport or hotel. This is an important vocabulary word in English.
+A clause about the same person as the main clause is the case where the comma matters most. Without it, the reader might think the two mentions referred to different people.
 ---
-## Question 12 [D8]
+## Question 12 [D3]
 **ID:** HN-ING-11-2026-W16-relative-clauses-non-defining-001-MASTERY-bundle-v12
 **Bloom:** Apply
-**EJE:** Lexico
+**EJE:** Grammatical Knowledge
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** A non-defining clause about a thing with a possessive.
 
 ### Enunciado
-What is the English word for: "A period of rest or waiting before a further stage in a journey."
+The car, ___ engine overheated, needed repairs.
 
 ### Opciones
-- [x] D) layover
-  <!-- feedback: Correct! A 'layover' is the wait between two flights, usually at the connecting airport, before you continue. -->
-- [ ] A) stopover
-  <!-- feedback: Wrong. A 'stopover' is a deliberate break in a long journey to spend extra time at a place, not a wait between flights. -->
-- [ ] B) transfer
-  <!-- feedback: Wrong. A 'transfer' is the flight or vehicle that moves you from one place to another, not the waiting itself. -->
-- [ ] C) transit
-  <!-- feedback: Wrong. 'Transit' names the general passing through an area or a country, not a specific rest between stages. -->
+- [x] D) whose
+  <!-- feedback: Correct! The engine belongs to the car, and whose is the pronoun that expresses that link. -->
+- [ ] A) which
+  <!-- feedback: Which would refer to a thing, and the antecedent the car is a thing, but it cannot express the possessive relationship. -->
+- [ ] B) what
+  <!-- feedback: What cannot be preceded by a noun antecedent. -->
+- [ ] C) who
+  <!-- feedback: Who refers to people, and the antecedent is the car. -->
 
 ### Explicacion Pedagogica
-The word 'layover' is used to describe a period of rest or waiting before a further stage in a journey. This is an important vocabulary word in English.
+Whose applies to inanimate as well as animate antecedents. The car whose engine overheated shows ownership rather than identity.
 ---
-## Question 13 [D7]
+## Question 13 [D3]
 **ID:** HN-ING-11-2026-W16-relative-clauses-non-defining-001-MASTERY-bundle-v13
-**Bloom:** Analyze
-**EJE:** Lexico
+**Bloom:** Apply
+**EJE:** Grammatical Knowledge
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** A non-defining clause with a modal that does not change.
 
 ### Enunciado
-What is the English word for: "A system of money in general use in a particular country."
+The director, ___ can pay for the trip, refused to sign it.
 
 ### Opciones
-- [x] D) currency
-  <!-- feedback: Correct! 'Currency' is the whole monetary system a country uses, not any single object. -->
-- [ ] A) coin
-  <!-- feedback: Wrong. A 'coin' is one round metal piece of money, while the definition covers the entire money system. -->
-- [ ] B) banknote
-  <!-- feedback: Wrong. A 'banknote' is a single paper note, while the definition is about the money system of a whole country. -->
-- [ ] C) cash
-  <!-- feedback: Wrong. 'Cash' is the money in coins and notes that you are holding, regardless of any country's system. -->
+- [x] A) can
+  <!-- feedback: Correct! Modal verbs keep their form in any relative clause, defining or not. -->
+- [ ] B) could
+  <!-- feedback: Could would be the reported form, and this clause is not inside a reported statement. -->
+- [ ] C) will
+  <!-- feedback: A future form would change the meaning from present ability to a future possibility. -->
+- [ ] D) must
+  <!-- feedback: Must would express a deduction or an obligation, and the original is a plain claim about ability. -->
 
 ### Explicacion Pedagogica
-The word 'currency' is used to describe a system of money in general use in a particular country. This is an important vocabulary word in English.
+A modal is the same whatever the clause does. A non-defining clause with a modal keeps the modal exactly as it appears in the direct statement.
 ---
-## Question 14 [D8]
+## Question 14 [D4]
 **ID:** HN-ING-11-2026-W16-relative-clauses-non-defining-001-MASTERY-bundle-v14
-**Bloom:** Analyze
-**EJE:** Lexico
+**Bloom:** Apply
+**EJE:** Grammatical Knowledge
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** A non-defining clause in a sentence with a past perfect.
 
 ### Enunciado
-What is the English word for: "A book of information about a place designed for the use of visitors or tourists."
+The witnesses, ___ the police, gave a detailed description.
 
 ### Opciones
-- [x] D) guidebook
-  <!-- feedback: Correct! A 'guidebook' is a book written about a place to help visitors find their way around it. -->
-- [ ] A) map
-  <!-- feedback: Wrong. A 'map' is a single drawing of an area, not the book of practical information about the place. -->
-- [ ] B) dictionary
-  <!-- feedback: Wrong. A 'dictionary' lists words and their meanings, not practical details about a destination. -->
-- [ ] C) encyclopedia
-  <!-- feedback: Wrong. An 'encyclopedia' covers all knowledge on a subject, while a guidebook is written about one specific place. -->
+- [x] B) whom
+  <!-- feedback: Correct! The formal object pronoun after a comma is the correct form for a non-defining object clause. -->
+- [ ] A) which
+  <!-- feedback: Which refers to things, and the antecedent is the witnesses. -->
+- [ ] C) who
+  <!-- feedback: Who cannot be an object, and the preposition the police needs a direct object. -->
+- [ ] D) that
+  <!-- feedback: That is excluded from non-defining clauses. -->
 
 ### Explicacion Pedagogica
-The word 'guidebook' is used to describe a book of information about a place designed for the use of visitors or tourists. This is an important vocabulary word in English.
+One of the clearest uses of whom is a non-defining clause ending in a preposition, because there is no other way to express the object formally.
 ---
-## Question 15 [D7]
+## Question 15 [D3]
 **ID:** HN-ING-11-2026-W16-relative-clauses-non-defining-001-MASTERY-bundle-v15
-**Bloom:** Analyze
-**EJE:** Lexico
+**Bloom:** Apply
+**EJE:** Grammatical Knowledge
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** A non-defining clause attached to a place name.
 
 ### Enunciado
-What is the English word for: "A bag with shoulder straps that allow it to be carried on one's back."
+San Pedro Sula, ___ I was born, has grown very fast.
 
 ### Opciones
-- [x] B) backpack
-  <!-- feedback: Correct! A 'backpack' has two shoulder straps and is designed to be carried on your back. -->
-- [ ] A) suitcase
-  <!-- feedback: Wrong. A 'suitcase' is a flat box with a handle that you pull along beside you. -->
-- [ ] C) briefcase
-  <!-- feedback: Wrong. A 'briefcase' is a stiff case for papers that you carry in your hand at work. -->
-- [ ] D) handbag
-  <!-- feedback: Wrong. A 'handbag' is held in the hand and has no straps at all. -->
+- [x] C) where
+  <!-- feedback: Correct! Where replaces in which and the clause then has its own subject I and verb was born. -->
+- [ ] A) which
+  <!-- feedback: Which would refer to a thing and cannot replace a place preposition with a full verb clause. -->
+- [ ] B) that
+  <!-- feedback: That cannot replace a preposition, and the clause has its own verb. -->
+- [ ] D) what
+  <!-- feedback: What cannot be used with a proper noun as an antecedent. -->
 
 ### Explicacion Pedagogica
-The word 'backpack' is used to describe a bag with shoulder straps that allow it to be carried on one's back. This is an important vocabulary word in English.
+In a non-defining clause about a place, where is the natural choice because the clause has its own subject and verb. In which is the formal alternative.
 ---
-## Question 16 [D8]
+## Question 16 [D3]
 **ID:** HN-ING-11-2026-W16-relative-clauses-non-defining-001-MASTERY-bundle-v16
-**Bloom:** Analyze
-**EJE:** Lexico
+**Bloom:** Apply
+**EJE:** Grammatical Knowledge
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** A non-defining clause about a whole clause with a negative.
 
 ### Enunciado
-What is the English word for: "In or to a foreign country, especially one across the sea."
+He missed the last bus, ___ meant he had to walk home.
 
 ### Opciones
-- [x] C) overseas
-  <!-- feedback: Correct! 'Overseas' means to or in another country reached by crossing the sea. -->
-- [ ] A) domestic
-  <!-- feedback: Wrong. 'Domestic' means inside the borders of your own country, which is the opposite of overseas. -->
-- [ ] B) local
-  <!-- feedback: Wrong. 'Local' means in a particular small area or town, which may well be inside your own country. -->
-- [ ] D) national
-  <!-- feedback: Wrong. 'National' means concerning the nation as a whole, not travelling away from it across the sea. -->
+- [x] D) which
+  <!-- feedback: Correct! The non-defining which refers to the whole clause and the comma marks the consequence as extra. -->
+- [ ] A) it
+  <!-- feedback: It has no antecedent, because the preceding words are a clause rather than a noun. -->
+- [ ] B) that
+  <!-- feedback: That would restrict the bus and is not available in a non-defining clause. -->
+- [ ] C) this
+  <!-- feedback: This cannot introduce a relative clause at all. -->
 
 ### Explicacion Pedagogica
-The word 'overseas' is used to describe in or to a foreign country, especially one across the sea. This is an important vocabulary word in English.
+A whole-clause which is a standard way of adding a comment. The comma is essential, because without it the reader would expect a noun to follow.
 ---
-## Question 17 [D9]
+## Question 17 [D3]
 **ID:** HN-ING-11-2026-W16-relative-clauses-non-defining-001-MASTERY-bundle-v17
-**Bloom:** Evaluate
-**EJE:** Lexico
+**Bloom:** Apply
+**EJE:** Grammatical Knowledge
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** A non-defining clause with a possessive pronoun about a university.
 
 ### Enunciado
-What is the English word for: "An estimate of income and expenditure for a set period of time."
+The university, ___ students live on campus, has a new library.
 
 ### Opciones
-- [x] A) budget
-  <!-- feedback: Correct! A 'budget' estimates planned income and spending over a set period such as a month or a year. -->
-- [ ] B) expense
-  <!-- feedback: Wrong. An 'expense' is a single outgoing payment, not a plan covering a whole period. -->
-- [ ] C) cost
-  <!-- feedback: Wrong. The 'cost' is the price of one thing or service, with no timeframe attached to it. -->
-- [ ] D) price
-  <!-- feedback: Wrong. A 'price' is the amount a single item sells for, not an estimate of a period's finances. -->
+- [x] A) whose
+  <!-- feedback: Correct! Whose links the university to its students, and it works with organisations. -->
+- [ ] B) which
+  <!-- feedback: Which could refer to the university, but it cannot connect the university to its students in a possessive way. -->
+- [ ] C) who
+  <!-- feedback: Who refers to people, and the antecedent is the university. -->
+- [ ] D) what
+  <!-- feedback: What cannot be used after a noun antecedent. -->
 
 ### Explicacion Pedagogica
-The word 'budget' is used to describe an estimate of income and expenditure for a set period of time. This is an important vocabulary word in English.
+Whose is not limited to people. Institutions, objects and places all take whose when the relationship is one of belonging or ownership.
 ---
-## Question 18 [D10]
+## Question 18 [D4]
 **ID:** HN-ING-11-2026-W16-relative-clauses-non-defining-001-MASTERY-bundle-v18
-**Bloom:** Evaluate
-**EJE:** Lexico
+**Bloom:** Apply
+**EJE:** Grammatical Knowledge
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** A non-defining clause reported in the past.
 
 ### Enunciado
-What is the English word for: "A practice or arrangement by which a company or government agency provides a guarantee of compensation for specified loss, damage, illness, or death in return for payment of a premium."
+"She lives in France, ___ speaks four languages," he said. He said that she lived in France, ___ spoke four languages.
 
 ### Opciones
-- [x] B) insurance
-  <!-- feedback: Correct! 'Insurance' is the arrangement where a company pays compensation for a specified loss in exchange for a premium. -->
-- [ ] A) warranty
-  <!-- feedback: Wrong. A 'warranty' covers a defective product for a limited time and is given by the maker, not for illness or death. -->
-- [ ] C) guarantee
-  <!-- feedback: Wrong. A 'guarantee' is a promise about the quality of a product or service, with no payment of a premium. -->
-- [ ] D) policy
-  <!-- feedback: Wrong. A 'policy' is the written document that records an insurance contract, not the practice of compensation itself. -->
+- [x] B) lived ... spoke
+  <!-- feedback: Correct! Both present simple verbs backshift to the past simple, and the non-defining clause keeps its pronoun. -->
+- [ ] A) lives ... speaks
+  <!-- feedback: Keeping the present would require a present reporting verb, and he said is in the past. -->
+- [ ] C) had lived ... had spoken
+  <!-- feedback: A past perfect would backshift twice, and present simple only takes one step back. -->
+- [ ] D) lives ... had spoken
+  <!-- feedback: The first clause is not shifted at all, which leaves the two clauses in inconsistent tenses. -->
 
 ### Explicacion Pedagogica
-The word 'insurance' is used to describe a practice or arrangement by which a company or government agency provides a guarantee of compensation for specified loss, damage, illness, or death in return for payment of a premium. This is an important vocabulary word in English.
+Backshift applies inside a non-defining clause exactly as it does in the main one. Each verb moves one step back independently of the other.
 ---
-## Question 19 [D9]
+## Question 19 [D3]
 **ID:** HN-ING-11-2026-W16-relative-clauses-non-defining-001-MASTERY-bundle-v19
-**Bloom:** Evaluate
-**EJE:** Lexico
+**Bloom:** Apply
+**EJE:** Grammatical Knowledge
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** A non-defining clause about a thing with a verb of its own.
 
 ### Enunciado
-What is the English word for: "Treatment with a vaccine to produce immunity against a disease."
+The report, ___ three committees reviewed, will be published next week.
 
 ### Opciones
-- [x] A) vaccination
-  <!-- feedback: Correct! 'Vaccination' is the administration of a vaccine that makes the immune system ready against a disease. -->
-- [ ] B) medication
-  <!-- feedback: Wrong. 'Medication' treats the symptoms of an illness you already have; it does not create immunity beforehand. -->
-- [ ] C) prescription
-  <!-- feedback: Wrong. A 'prescription' is the doctor's written order for a medicine, not the vaccine itself. -->
-- [ ] D) infection
-  <!-- feedback: Wrong. An 'infection' is the invasion of the body by a pathogen, which is the opposite of preventing it. -->
+- [x] C) which
+  <!-- feedback: Correct! Which is the subject of the clause, which has its own passive verb and agent. -->
+- [ ] A) that
+  <!-- feedback: That is not used in a non-defining clause and would wrongly restrict the report. -->
+- [ ] B) whom
+  <!-- feedback: Whom is the object form, and three committees is the subject of the clause here. -->
+- [ ] D) whose
+  <!-- feedback: Whose expresses possession, and the relationship here is that of agent to action. -->
 
 ### Explicacion Pedagogica
-The word 'vaccination' is used to describe treatment with a vaccine to produce immunity against a disease. This is an important vocabulary word in English.
+A non-defining clause can hold a complete passive structure of its own, with its own subject, verb and by phrase.
 ---
-## Question 20 [D10]
+## Question 20 [D4]
 **ID:** HN-ING-11-2026-W16-relative-clauses-non-defining-001-MASTERY-bundle-v20
-**Bloom:** Evaluate
-**EJE:** Lexico
+**Bloom:** Apply
+**EJE:** Grammatical Knowledge
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Two non-defining clauses attached to the same noun.
 
 ### Enunciado
-What is the English word for: "Extreme tiredness and other physical effects felt by a person after a long flight across several time zones."
+My aunt, ___ is a doctor, ___ teaches at the local clinic, is coming to visit.
 
 ### Opciones
-- [x] A) jet lag
-  <!-- feedback: Correct! 'Jet lag' is the tiredness and disturbed body clock caused by crossing several time zones in a flight. -->
-- [ ] B) fatigue
-  <!-- feedback: Wrong. 'Fatigue' is general tiredness from any cause, such as hard work, not specifically from time zones. -->
-- [ ] C) exhaustion
-  <!-- feedback: Wrong. 'Exhaustion' is extreme tiredness from physical effort or illness, not from a change of time zone. -->
-- [ ] D) insomnia
-  <!-- feedback: Wrong. 'Insomnia' is simply difficulty sleeping, which can come from many causes unrelated to flying. -->
+- [x] D) who ... who
+  <!-- feedback: Correct! Each non-defining clause repeats the full pronoun, and each is separated by its own comma. -->
+- [ ] A) who ... that
+  <!-- feedback: That cannot introduce a non-defining clause, and the mixed usage would break the parallel structure. -->
+- [ ] B) which ... who
+  <!-- feedback: Which cannot refer to the person who is the antecedent of the first clause. -->
+- [ ] C) who ... and who
+  <!-- feedback: Joining the clauses with and would produce a different structure, and the two commas would no longer mark separate clauses. -->
 
 ### Explicacion Pedagogica
-The word 'jet lag' is used to describe extreme tiredness and other physical effects felt by a person after a long flight across several time zones. This is an important vocabulary word in English.
+Each non-defining clause is independent and repeats its own pronoun. The commas around them tell the reader where one extra piece of information ends and the next begins.

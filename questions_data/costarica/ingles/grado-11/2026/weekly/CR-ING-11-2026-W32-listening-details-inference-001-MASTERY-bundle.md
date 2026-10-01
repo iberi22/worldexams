@@ -17,466 +17,509 @@ tier: "legacy"
 creador: "Jules-Agent"
 bundle_index: 1
 ---
-# MASTERY Bundle - Ingles: Listening Details Inference (W32)
-**20 preguntas | Ingles | Curriculo de Ingles**
+# Bundle MASTERY: Listening Details Inference - Grado 11
+
+Este bundle contiene 20 preguntas sobre **listening-details-inference** para grado 11,
+alineadas con el programa de estudios del MEP Costa Rica para Bachillerato 2026.
 
 ---
+
 ## Question 1 [D3]
 **ID:** CR-ING-11-2026-W32-listening-details-inference-001-MASTERY-bundle-v1
 **Bloom:** Remember
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**EJE:** Linguistic Competence
+**Expected_Success:** 0.85
+**Contexto:** In a Heredia hospital, a nurse announces when her morning shift begins.
 
 ### Enunciado
-What is the English word for: "A place where you live or stay on holiday."
+She says, 'My shift starts at six.' When does her work begin?
 
 ### Opciones
-- [x] A) accommodation
-  <!-- feedback: 'accommodation' is the word for a place where you live or stay, including on holiday. -->
-- [ ] B) transportation
-  <!-- feedback: 'transportation' means the way you travel, such as buses or planes, not where you stay. -->
-- [ ] C) entertainment
-  <!-- feedback: 'entertainment' is the activity of enjoying shows, films or games, not a place to live. -->
-- [ ] D) currency
-  <!-- feedback: 'currency' is the money of a country, such as the colon; a place to stay is not money. -->
+- [x] A) At 6 a.m.
+  <!-- feedback: Six in the morning matches the number she says and the morning context of a shift start. -->
+- [ ] B) At 6 p.m.
+  <!-- feedback: Six at night needs the p.m. marker, and she never mentions evening, so this hour conflicts. -->
+- [ ] C) At 4 a.m.
+  <!-- feedback: Four is a number the recording never uses, so this hour is invented rather than heard. -->
+- [ ] D) At 9 a.m.
+  <!-- feedback: Nine belongs to the evening round of shifts, and she announces only one starting time. -->
 
 ### Explicacion Pedagogica
-The word 'accommodation' is used to describe a place where you live or stay on holiday. This is an important vocabulary word in English.
+A stated detail is confirmed by matching both the number and the time marker you hear, here six in the morning.
+
 ---
-## Question 2 [D4]
+
+## Question 2 [D3]
 **ID:** CR-ING-11-2026-W32-listening-details-inference-001-MASTERY-bundle-v2
-**Bloom:** Remember
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
-
-### Enunciado
-What is the English word for: "A detailed plan or route of a journey."
-
-### Opciones
-- [x] A) itinerary
-  <!-- feedback: 'itinerary' is a detailed plan of a journey, listing the route and the stops along the way. -->
-- [ ] B) baggage
-  <!-- feedback: 'baggage' is the suitcases and bags you travel with, not the plan of the trip. -->
-- [ ] C) destination
-  <!-- feedback: 'destination' is only the place you are going to; the plan of the route is the itinerary. -->
-- [ ] D) passport
-  <!-- feedback: 'passport' is the travel document you show at the border, not the plan of a journey. -->
-
-### Explicacion Pedagogica
-The word 'itinerary' is used to describe a detailed plan or route of a journey. This is an important vocabulary word in English.
----
-## Question 3 [D3]
-**ID:** CR-ING-11-2026-W32-listening-details-inference-001-MASTERY-bundle-v3
 **Bloom:** Understand
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**EJE:** Linguistic Competence
+**Expected_Success:** 0.85
+**Contexto:** In a San Jose campus announcement, Sofia explains why she joined the debate club.
 
 ### Enunciado
-What is the English word for: "The place to which someone or something is going or being sent."
+She says, 'Debate meets at six and my shift ends at seven.' What follows?
 
 ### Opciones
-- [x] C) destination
-  <!-- feedback: 'destination' names the place a person or thing is going or being sent to. -->
-- [ ] A) departure
-  <!-- feedback: 'departure' is the action of leaving, not the place you leave for. -->
-- [ ] B) arrival
-  <!-- feedback: 'arrival' is the moment of reaching a place, not the place itself. -->
-- [ ] D) journey
-  <!-- feedback: 'journey' is the whole trip from one place to another, not the place at the end of it. -->
+- [ ] A) She prefers late meetings.
+  <!-- feedback: Choosing late meetings is a preference she never states; she only reports a clash between two fixed times. -->
+- [ ] B) She leads the club.
+  <!-- feedback: Leadership is never mentioned, so her role in the club cannot be inferred from the times she quoted. -->
+- [x] C) She reaches the club late.
+  <!-- feedback: A meeting at six after a seven o'clock shift end means she always joins after the start, so this follows. -->
+- [ ] D) She needs a ride.
+  <!-- feedback: Transport is never discussed; the timing of her shift alone explains the conflict she reports. -->
 
 ### Explicacion Pedagogica
-The word 'destination' is used to describe the place to which someone or something is going or being sent. This is an important vocabulary word in English.
+An inference must follow logically from two heard details: a six o'clock meeting after a seven o'clock shift forces a late arrival.
+
 ---
+
+## Question 3 [D4]
+**ID:** CR-ING-11-2026-W32-listening-details-inference-001-MASTERY-bundle-v3
+**Bloom:** Apply
+**EJE:** Linguistic Competence
+**Expected_Success:** 0.85
+**Contexto:** At a Monteverde eco-lodge, a guide explains the morning bird count.
+
+### Enunciado
+He says, 'We count from five and we finish at seven.' How long is it?
+
+### Opciones
+- [ ] A) Half an hour.
+  <!-- feedback: Half an hour would end at 5:30, and no such second time appears anywhere in what he says. -->
+- [x] B) Two hours.
+  <!-- feedback: Seven minus five gives exactly two hours, and both times are stated, so the duration is certain. -->
+- [ ] C) Five hours.
+  <!-- feedback: Five is the hour the count starts, not its length, and confusing a start with a duration is a common slip. -->
+- [ ] D) Twelve hours.
+  <!-- feedback: Twelve hours would run past the evening, but the count is complete at seven, so this is far too long. -->
+
+### Explicacion Pedagogica
+To infer a duration, subtract the earlier time from the later one: seven o'clock less five o'clock equals two hours.
+
+---
+
 ## Question 4 [D4]
 **ID:** CR-ING-11-2026-W32-listening-details-inference-001-MASTERY-bundle-v4
-**Bloom:** Understand
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Bloom:** Analyze
+**EJE:** Linguistic Competence
+**Expected_Success:** 0.85
+**Contexto:** In Alajuela, a bus driver explains why his morning trip takes longer now.
 
 ### Enunciado
-What is the English word for: "Suitcases or other bags in which to pack personal belongings for traveling."
+He says, 'The bridge is closed and we drive around the hill.' What is the effect?
 
 ### Opciones
-- [x] B) luggage
-  <!-- feedback: 'luggage' is the collective word for the suitcases and bags you pack for a trip. -->
-- [ ] A) ticket
-  <!-- feedback: 'ticket' is the document you buy that admits you to the journey. -->
-- [ ] C) flight
-  <!-- feedback: 'flight' is the plane or the scheduled trip itself, not the bags you carry. -->
-- [ ] D) reservation
-  <!-- feedback: 'reservation' is the booking you hold for a seat or a room. -->
+- [ ] A) His route is shorter.
+  <!-- feedback: Driving around the hill adds distance rather than removing it, so a shorter route is the opposite of the truth. -->
+- [ ] B) His bus is emptier.
+  <!-- feedback: Passenger numbers are never mentioned; the only changes he names are the closure and the new path. -->
+- [ ] C) His fare has risen.
+  <!-- feedback: Nothing is said about what he charges, so a fare increase is a guess added to the announcement. -->
+- [x] D) His trip takes longer.
+  <!-- feedback: A detour always adds kilometres and minutes, so the direct effect of his two facts is a longer trip. -->
 
 ### Explicacion Pedagogica
-The word 'luggage' is used to describe suitcases or other bags in which to pack personal belongings for traveling. This is an important vocabulary word in English.
+Listen for cause and effect in one sentence: a closed bridge plus a detour around the hill produces a longer, not shorter, ride.
+
 ---
+
 ## Question 5 [D5]
 **ID:** CR-ING-11-2026-W32-listening-details-inference-001-MASTERY-bundle-v5
-**Bloom:** Understand
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Bloom:** Evaluate
+**EJE:** Linguistic Competence
+**Expected_Success:** 0.85
+**Contexto:** At a Cartago college fair, an admissions officer explains campus transport.
 
 ### Enunciado
-What is the English word for: "A traveler on a public or private conveyance other than the driver, pilot, or crew."
+She says, 'The shuttle runs only at seven and at five.' What do commuters learn?
 
 ### Opciones
-- [x] D) passenger
-  <!-- feedback: 'passenger' is anyone travelling on a vehicle who is not the driver, the pilot or the crew. -->
-- [ ] A) pedestrian
-  <!-- feedback: 'pedestrian' is a person who travels on foot, not on a bus, a train or a plane. -->
-- [ ] B) commuter
-  <!-- feedback: 'commuter' is someone who travels regularly between home and work, a narrower idea than passenger. -->
-- [ ] C) tourist
-  <!-- feedback: 'tourist' is defined by travelling for pleasure and may also be the driver of a rented car; 'passenger' covers every rider who is not crew. -->
+- [x] A) Buses leave twice a day.
+  <!-- feedback: Two named departure times mean two runs a day, and the word only confirms that nothing else operates. -->
+- [ ] B) Buses run all morning.
+  <!-- feedback: The word only rules out continuous service, so a shuttle running all morning contradicts what she announces. -->
+- [ ] C) Buses cost extra at noon.
+  <!-- feedback: No price or fee appears in her description, so a noon charge is invented rather than heard. -->
+- [ ] D) Buses stop before the fair.
+  <!-- feedback: She describes a limited service with two runs, not a cancelled one, so nothing about stopping is implied. -->
 
 ### Explicacion Pedagogica
-The word 'passenger' is used to describe a traveler on a public or private conveyance other than the driver, pilot, or crew. This is an important vocabulary word in English.
+Limit words such as only and twice restrict and quantify what you hear: two named times mean a twice-a-day service.
+
 ---
-## Question 6 [D6]
+
+## Question 6 [D5]
 **ID:** CR-ING-11-2026-W32-listening-details-inference-001-MASTERY-bundle-v6
-**Bloom:** Understand
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Bloom:** Remember
+**EJE:** Linguistic Competence
+**Expected_Success:** 0.85
+**Contexto:** In a Puntarenas harbour talk, a captain explains when the boats leave.
 
 ### Enunciado
-What is the English word for: "The place at a port, airport, or frontier where officials check incoming goods, travelers, or luggage."
+He says, 'We sail at four, not at five.' Which time should travellers trust?
 
 ### Opciones
-- [x] D) customs
-  <!-- feedback: 'customs' is the office where officials check the goods, the luggage and the travellers entering a country. -->
-- [ ] A) security
-  <!-- feedback: 'security' refers to the staff and the measures that keep the airport safe, not to the goods check. -->
-- [ ] B) terminal
-  <!-- feedback: 'terminal' is the building where you wait for and board your flight. -->
-- [ ] C) gate
-  <!-- feedback: 'gate' is the door you board the plane through, not the place where officials check luggage. -->
+- [ ] A) Three.
+  <!-- feedback: Three never appears in the announcement, so the only figures on offer are four and the rejected five. -->
+- [x] B) Four.
+  <!-- feedback: He states four and explicitly rejects five, so four is the sailing time a traveller should trust. -->
+- [ ] C) Five.
+  <!-- feedback: Five is the hour he refuses with the word not, so picking it repeats the error he corrected. -->
+- [ ] D) Six.
+  <!-- feedback: Six is not mentioned at all in what he says, so it cannot be the departure time he announced. -->
 
 ### Explicacion Pedagogica
-The word 'customs' is used to describe the place at a port, airport, or frontier where officials check incoming goods, travelers, or luggage. This is an important vocabulary word in English.
+A correction with not still carries information: the rejected option is the wrong one and the retained hour is the right one.
+
 ---
-## Question 7 [D5]
+
+## Question 7 [D6]
 **ID:** CR-ING-11-2026-W32-listening-details-inference-001-MASTERY-bundle-v7
-**Bloom:** Apply
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Bloom:** Understand
+**EJE:** Linguistic Competence
+**Expected_Success:** 0.85
+**Contexto:** In a Liberia town meeting, a resident complains about noise from a nearby bar.
 
 ### Enunciado
-What is the English word for: "A document provided by an airline during check-in, giving a passenger permission to board the airplane."
+She says, 'The music stops at ten, but the cars keep coming.' What is the problem?
 
 ### Opciones
-- [x] D) boarding pass
-  <!-- feedback: 'boarding pass' is the slip the airline hands over at check-in that lets you board the plane. -->
-- [ ] A) visa
-  <!-- feedback: 'visa' is the official permission to enter and stay in a foreign country. -->
-- [ ] B) receipt
-  <!-- feedback: 'receipt' is the proof of payment for the ticket, not the document that lets you board. -->
-- [ ] C) brochure
-  <!-- feedback: 'brochure' is a small booklet with tourist information, not a travel document. -->
+- [ ] A) The music is too quiet.
+  <!-- feedback: She never says the music is quiet; her complaint is about how long the disturbance lasts, not about volume. -->
+- [ ] B) The bar closes early.
+  <!-- feedback: She describes noise carrying on, not a bar shutting down, so an early closing is not what she reports. -->
+- [ ] C) The street is too narrow.
+  <!-- feedback: The width of the street never comes up; her details are the music, the cars and the hour of ten. -->
+- [x] D) Noise continues after ten.
+  <!-- feedback: Music stopping at ten while cars keep arriving means the noise lasts past that hour, which is the real problem. -->
 
 ### Explicacion Pedagogica
-The word 'boarding pass' is used to describe a document provided by an airline during check-in, giving a passenger permission to board the airplane. This is an important vocabulary word in English.
+When a speaker joins two facts with but, the surprising half carries the message: the music stops, yet the noise goes on.
+
 ---
+
 ## Question 8 [D6]
 **ID:** CR-ING-11-2026-W32-listening-details-inference-001-MASTERY-bundle-v8
 **Bloom:** Apply
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**EJE:** Linguistic Competence
+**Expected_Success:** 0.85
+**Contexto:** A Limon port agent reads out a shipping notice to truck drivers.
 
 ### Enunciado
-What is the English word for: "The activity of visiting places of interest in a particular location."
+She reads, 'No trucks enter after four.' What follows for a driver arriving at five?
 
 ### Opciones
-- [x] A) sightseeing
-  <!-- feedback: 'sightseeing' is visiting the places of interest of a location in order to look at them. -->
-- [ ] B) shopping
-  <!-- feedback: 'shopping' is buying things, which is a different activity from visiting sights. -->
-- [ ] C) hiking
-  <!-- feedback: 'hiking' is walking in the countryside along a trail, usually for exercise. -->
-- [ ] D) camping
-  <!-- feedback: 'camping' means spending the night outdoors in a tent. -->
+- [x] A) The truck enters before four.
+  <!-- feedback: The ban applies after four, so any truck that still enters must do it before that hour, exactly as this states. -->
+- [ ] B) The truck enters at any hour.
+  <!-- feedback: Entering at any hour ignores the closing time she reads aloud, so it breaks the rule she announced. -->
+- [ ] C) The truck pays a late fee.
+  <!-- feedback: No payment or fee appears in the notice, so a late charge is an invented consequence of her words. -->
+- [ ] D) The truck uses gate two.
+  <!-- feedback: She names a single gate; a second gate used as a workaround is not part of what she read. -->
 
 ### Explicacion Pedagogica
-The word 'sightseeing' is used to describe the activity of visiting places of interest in a particular location. This is an important vocabulary word in English.
+A closing time sets a deadline: after it entry stops, so the valid inference concerns arriving earlier, not paying more.
+
 ---
-## Question 9 [D5]
+
+## Question 9 [D6]
 **ID:** CR-ING-11-2026-W32-listening-details-inference-001-MASTERY-bundle-v9
-**Bloom:** Apply
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Bloom:** Analyze
+**EJE:** Linguistic Competence
+**Expected_Success:** 0.85
+**Contexto:** In a Cartago lecture, Professor Mora finishes his talk about group work.
 
 ### Enunciado
-What is the English word for: "A thing that is kept as a reminder of a person, place, or event."
+He says, 'Some students prefer to work alone.' What does he think of that?
 
 ### Opciones
-- [x] A) souvenir
-  <!-- feedback: 'souvenir' is an object kept because it reminds you of a person, a place or an event. -->
-- [ ] B) gift
-  <!-- feedback: 'gift' is anything given to someone else; a souvenir is kept by the buyer as a reminder. -->
-- [ ] C) award
-  <!-- feedback: 'award' is a distinction given for a merit or an achievement. -->
-- [ ] D) prize
-  <!-- feedback: 'prize' is what is won in a competition, not an object bought to remember a trip. -->
+- [ ] A) He fully supports working alone.
+  <!-- feedback: Full support needs firmer praise, yet his hedged phrase raises the idea only to question it. -->
+- [ ] B) He has no opinion at all.
+  <!-- feedback: Raising a habit without praise is not neutrality; the hedge and his topic point to a reservation. -->
+- [x] C) He doubts it is the best choice.
+  <!-- feedback: A careful academic hedge such as some usually signals doubt, so he is questioning solo work, not backing it. -->
+- [ ] D) He forbids solo work.
+  <!-- feedback: He issues no rule at all in what he says, so turning his doubt into a ban misreads his tone. -->
 
 ### Explicacion Pedagogica
-The word 'souvenir' is used to describe a thing that is kept as a reminder of a person, place, or event. This is an important vocabulary word in English.
+Hedged phrases like some or a few signal the speaker's doubt, so listeners must infer the attitude and not only the topic.
+
 ---
-## Question 10 [D6]
+
+## Question 10 [D7]
 **ID:** CR-ING-11-2026-W32-listening-details-inference-001-MASTERY-bundle-v10
-**Bloom:** Apply
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Bloom:** Evaluate
+**EJE:** Linguistic Competence
+**Expected_Success:** 0.85
+**Contexto:** In a Desamparados interview, a nurse explains a free health campaign.
 
 ### Enunciado
-What is the English word for: "A period of time by which something is late or postponed."
+She says, 'We vaccinate children free on Friday.' What is the campaign doing?
 
 ### Opciones
-- [x] B) delay
-  <!-- feedback: 'delay' is the extra period of time by which something becomes late or is postponed. -->
-- [ ] A) cancellation
-  <!-- feedback: 'cancellation' ends the booking or the trip altogether rather than pushing it back. -->
-- [ ] C) departure
-  <!-- feedback: 'departure' is the time a vehicle is scheduled to leave, not a postponement. -->
-- [ ] D) arrival
-  <!-- feedback: 'arrival' is the moment you reach the destination, not the waiting time. -->
+- [ ] A) It repeats the clinic rules.
+  <!-- feedback: Nothing is restated or corrected here; she announces a new offer rather than repeating existing clinic rules. -->
+- [x] B) It offers a service at no cost.
+  <!-- feedback: The word free names zero payment and Friday gives the day, so the campaign offers a service that costs nothing. -->
+- [ ] C) It closes the clinic early.
+  <!-- feedback: The clinic does not shut; she adds an extra session, so closing early runs against the message. -->
+- [ ] D) It trains new volunteers.
+  <!-- feedback: Volunteers are never mentioned; the free Friday session is a service for patients, not a staff course. -->
 
 ### Explicacion Pedagogica
-The word 'delay' is used to describe a period of time by which something is late or postponed. This is an important vocabulary word in English.
+Detail words carry the purpose: free signals no payment and a named weekday signals a special session aimed at access.
+
 ---
+
 ## Question 11 [D7]
 **ID:** CR-ING-11-2026-W32-listening-details-inference-001-MASTERY-bundle-v11
-**Bloom:** Apply
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Bloom:** Remember
+**EJE:** Linguistic Competence
+**Expected_Success:** 0.85
+**Contexto:** In a Quevedo museum talk, a guide says the museum closes at six.
 
 ### Enunciado
-What is the English word for: "The act of reporting one's presence and registering, typically at an airport or hotel."
+A student wrote, 'The museum closes at noon.' Which correction should she make?
 
 ### Opciones
-- [x] D) check-in
-  <!-- feedback: 'check-in' is reporting your presence at the airport or the hotel and registering. -->
-- [ ] A) check-out
-  <!-- feedback: 'check-out' is the opposite moment: leaving the hotel and settling the bill. -->
-- [ ] B) booking
-  <!-- feedback: 'booking' is reserving the room or the seat in advance, which happens before you arrive. -->
-- [ ] C) reservation
-  <!-- feedback: 'reservation' is the record of that booking, not the act of reporting your presence. -->
+- [ ] A) Change noon to nine.
+  <!-- feedback: Nine is never mentioned as a closing hour, so this would replace one wrong word with another wrong word. -->
+- [ ] B) Change nine to noon.
+  <!-- feedback: Nine does not appear in the audio at all, so the note cannot be repaired by inserting that hour. -->
+- [x] C) Change noon to six.
+  <!-- feedback: Six is the hour the guide actually says, so deleting the time loses real detail instead of repairing it. -->
+- [ ] D) Delete the closing time.
+  <!-- feedback: Removing the line throws away correct information when only one word inside it is inaccurate. -->
 
 ### Explicacion Pedagogica
-The word 'check-in' is used to describe the act of reporting one's presence and registering, typically at an airport or hotel. This is an important vocabulary word in English.
+To spot a summary error, compare each written item with the audio: keep what matches and change only the word that differs.
+
 ---
-## Question 12 [D8]
+
+## Question 12 [D7]
 **ID:** CR-ING-11-2026-W32-listening-details-inference-001-MASTERY-bundle-v12
-**Bloom:** Apply
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Bloom:** Understand
+**EJE:** Linguistic Competence
+**Expected_Success:** 0.85
+**Contexto:** In a Guapiles interview, a farmer explains how she plants coffee on her farm.
 
 ### Enunciado
-What is the English word for: "A period of rest or waiting before a further stage in a journey."
+She says: dig the rows, add compost, then sow the seed. Which order is it?
 
 ### Opciones
-- [x] C) layover
-  <!-- feedback: 'layover' is the rest or the waiting period between two stages of a journey. -->
-- [ ] A) stopover
-  <!-- feedback: 'stopover' is a break in a journey during which you leave the vehicle, often overnight. -->
-- [ ] B) transfer
-  <!-- feedback: 'transfer' is the change from one vehicle or flight to another, the act rather than the waiting time. -->
-- [ ] D) transit
-  <!-- feedback: 'transit' means passage through a place or the system that carries people, not the pause itself. -->
+- [x] A) Dig the rows, add compost, then sow.
+  <!-- feedback: She prepares the ground, feeds it and sows last, and that is exactly the fixed sequence she described. -->
+- [ ] B) Add compost, dig the rows, then sow.
+  <!-- feedback: The ground has to be dug before compost goes in, so putting compost first breaks the order she gave. -->
+- [ ] C) Dig the rows, sow, then add compost.
+  <!-- feedback: Compost is added before sowing, not after it, so this list reverses the middle two steps. -->
+- [ ] D) Sow the seed, dig the rows, then compost.
+  <!-- feedback: Nothing can be sown before the rows are dug and fed, so this arrangement starts with the last real step. -->
 
 ### Explicacion Pedagogica
-The word 'layover' is used to describe a period of rest or waiting before a further stage in a journey. This is an important vocabulary word in English.
+Listening for a sequence means catching the order words she uses: first, then and only then mark the true chain of actions.
+
 ---
-## Question 13 [D7]
+
+## Question 13 [D8]
 **ID:** CR-ING-11-2026-W32-listening-details-inference-001-MASTERY-bundle-v13
-**Bloom:** Analyze
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Bloom:** Apply
+**EJE:** Linguistic Competence
+**Expected_Success:** 0.85
+**Contexto:** In a Turrialba interview, a man explains why he changed jobs last year.
 
 ### Enunciado
-What is the English word for: "A system of money in general use in a particular country."
+He says, 'I quit because I was bored, not for the money.' Which reason?
 
 ### Opciones
-- [x] C) currency
-  <!-- feedback: 'currency' is the whole money system in general use in a particular country. -->
-- [ ] A) coin
-  <!-- feedback: 'coin' is a single round piece of metal money, only one part of a currency. -->
-- [ ] B) banknote
-  <!-- feedback: 'banknote' is a paper note, again only one part of a country's money system. -->
-- [ ] D) cash
-  <!-- feedback: 'cash' is money in coins and notes seen as a form of payment, not the system a country has. -->
+- [ ] A) The pay was too low.
+  <!-- feedback: He rules the pay explanation out with the word not, so choosing money reverses the reason he kept. -->
+- [ ] B) The hours were too long.
+  <!-- feedback: Working hours are never mentioned; the contrast he draws is between boredom and low pay. -->
+- [ ] C) His boss was unfair.
+  <!-- feedback: His supervisor is not part of the interview, so an unfair boss is a detail the recording never supplies. -->
+- [x] D) He felt bored.
+  <!-- feedback: He names boredom as his reason and rejects money, so this option matches the cause he actually stressed. -->
 
 ### Explicacion Pedagogica
-The word 'currency' is used to describe a system of money in general use in a particular country. This is an important vocabulary word in English.
+When a speaker contrasts two causes with not, the reason he keeps is the true one and the other is a trap for inattentive listeners.
+
 ---
+
 ## Question 14 [D8]
 **ID:** CR-ING-11-2026-W32-listening-details-inference-001-MASTERY-bundle-v14
 **Bloom:** Analyze
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**EJE:** Linguistic Competence
+**Expected_Success:** 0.85
+**Contexto:** In a Palmares interview, a shopkeeper counts three customers in her morning.
 
 ### Enunciado
-What is the English word for: "A book of information about a place designed for the use of visitors or tourists."
+One of them came while it rained. Which summary adds nothing she said?
 
 ### Opciones
-- [x] A) guidebook
-  <!-- feedback: 'guidebook' is a book of information about a place written for the use of visitors. -->
-- [ ] B) map
-  <!-- feedback: 'map' is a drawing of the area, not a book of information. -->
-- [ ] C) dictionary
-  <!-- feedback: 'dictionary' explains the words of a language, not the places of a region. -->
-- [ ] D) encyclopedia
-  <!-- feedback: 'encyclopedia' covers all branches of knowledge, not one destination for tourists. -->
+- [ ] A) She waited for three rainy customers.
+  <!-- feedback: This makes the customers wait and ties all three to the rain, two details she never mentions in the interview. -->
+- [x] B) Three customers came in, one while it rained.
+  <!-- feedback: It keeps the three customers and the rainy hour exactly as heard, without adding a cause, a feeling or a total. -->
+- [ ] C) She served nobody during the rain.
+  <!-- feedback: One rainy customer is the opposite of nobody in the rain, so this summary contradicts the recording. -->
+- [ ] D) Her shop was busy all morning.
+  <!-- feedback: Three customers and one slow hour do not make a busy morning, so this overstates what the recording shows. -->
 
 ### Explicacion Pedagogica
-The word 'guidebook' is used to describe a book of information about a place designed for the use of visitors or tourists. This is an important vocabulary word in English.
+A faithful summary keeps the heard detail and refuses to add causes, moods or quantities that the speaker never supplied.
+
 ---
-## Question 15 [D7]
+
+## Question 15 [D8]
 **ID:** CR-ING-11-2026-W32-listening-details-inference-001-MASTERY-bundle-v15
-**Bloom:** Analyze
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Bloom:** Evaluate
+**EJE:** Linguistic Competence
+**Expected_Success:** 0.85
+**Contexto:** A Nicoya radio host introduces a weather alert about heavy rain.
 
 ### Enunciado
-What is the English word for: "A bag with shoulder straps that allow it to be carried on one's back."
+Which phrase best fits his purpose of warning people about the danger?
 
 ### Opciones
-- [x] B) backpack
-  <!-- feedback: 'backpack' has shoulder straps and is carried on the back. -->
-- [ ] A) suitcase
-  <!-- feedback: 'suitcase' is a case with a handle that is pulled along, not one worn on the back. -->
-- [ ] C) briefcase
-  <!-- feedback: 'briefcase' is a flat case for documents that you carry by hand at work. -->
-- [ ] D) handbag
-  <!-- feedback: 'handbag' is a small bag held in the hand, usually for personal items. -->
+- [ ] A) This broadcast is a friendly chat.
+  <!-- feedback: A casual chat carries no risk information, so a flood alert would hardly be described as friendly small talk. -->
+- [ ] B) The rain will last about one hour.
+  <!-- feedback: A one-hour forecast gives a duration, but the host is warning about danger, not only about timing. -->
+- [x] C) The host is selling umbrellas today.
+  <!-- feedback: A warning tells people what to do, and naming the flooded bus route gives both the risk and the action. -->
+- [ ] D) School is cancelled for the day.
+  <!-- feedback: A school closure is a specific announcement he never makes, so this is a guess added to the audio. -->
 
 ### Explicacion Pedagogica
-The word 'backpack' is used to describe a bag with shoulder straps that allow it to be carried on one's back. This is an important vocabulary word in English.
+To judge a speaker's purpose, check the action the words invite: advice tied to a risk signals a warning, not small talk or advertising.
+
 ---
-## Question 16 [D8]
+
+## Question 16 [D9]
 **ID:** CR-ING-11-2026-W32-listening-details-inference-001-MASTERY-bundle-v16
-**Bloom:** Analyze
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Bloom:** Remember
+**EJE:** Linguistic Competence
+**Expected_Success:** 0.85
+**Contexto:** In a San Jose exam hall, an invigilator explains the rules for the listening test.
 
 ### Enunciado
-What is the English word for: "In or to a foreign country, especially one across the sea."
+She says, 'One replay only, and none for question six.' What is the rule?
 
 ### Opciones
-- [x] B) overseas
-  <!-- feedback: 'overseas' means in or to a foreign country, especially one across the sea. -->
-- [ ] A) domestic
-  <!-- feedback: 'domestic' means inside the same country, which is the opposite of overseas. -->
-- [ ] C) local
-  <!-- feedback: 'local' means belonging to a small area nearby, not to a foreign country. -->
-- [ ] D) national
-  <!-- feedback: 'national' means concerning the whole nation and says nothing about being abroad. -->
+- [ ] A) Every question can be replayed.
+  <!-- feedback: One replay is the limit she states and the exception narrows it, so no question can be replayed twice. -->
+- [ ] B) Two replays are allowed.
+  <!-- feedback: She announces a single replay, not two, so counting her words gives a smaller number than this option. -->
+- [ ] C) Replays are banned entirely.
+  <!-- feedback: Replays are allowed once in general, so a complete ban reads her rule as far stricter than she stated. -->
+- [x] D) Question six cannot be replayed.
+  <!-- feedback: She sets two separate rules, one general replay and one exception, and the exception removes the replay there. -->
 
 ### Explicacion Pedagogica
-The word 'overseas' is used to describe in or to a foreign country, especially one across the sea. This is an important vocabulary word in English.
+Listen for limit words and exceptions: one replay sets the ceiling, and the phrase about question six removes it there.
+
 ---
+
 ## Question 17 [D9]
 **ID:** CR-ING-11-2026-W32-listening-details-inference-001-MASTERY-bundle-v17
-**Bloom:** Evaluate
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Bloom:** Understand
+**EJE:** Linguistic Competence
+**Expected_Success:** 0.85
+**Contexto:** In a Heredia interview, a coach explains that he moved his training session.
 
 ### Enunciado
-What is the English word for: "An estimate of income and expenditure for a set period of time."
+Note: 'training - moved - 4 p.m.' Which sentence reports it correctly?
 
 ### Opciones
-- [x] B) budget
-  <!-- feedback: 'budget' is an estimate of income and expenditure planned for a set period. -->
-- [ ] A) expense
-  <!-- feedback: 'expense' is a single amount of money that is spent, not the plan for a whole period. -->
-- [ ] C) cost
-  <!-- feedback: 'cost' is what one item or one service costs, again not an estimate for a period. -->
-- [ ] D) price
-  <!-- feedback: 'price' is the sum a customer pays for one product; a budget covers income and spending together. -->
+- [ ] A) Training moves from four in the morning.
+  <!-- feedback: The note gives no starting time and says morning nowhere, so an early shift is invented detail. -->
+- [x] B) Training was moved to four in the afternoon.
+  <!-- feedback: A single afternoon at four o'clock matches a passive report of a change, the normal way to note a new time. -->
+- [ ] C) Training will move to four tomorrow.
+  <!-- feedback: Nothing in the note mentions tomorrow, so turning a finished change into a future event misreads it. -->
+- [ ] D) Training was moved from four in the afternoon.
+  <!-- feedback: The note records the new time rather than the old one, so reporting it as a time left behind reverses the change. -->
 
 ### Explicacion Pedagogica
-The word 'budget' is used to describe an estimate of income and expenditure for a set period of time. This is an important vocabulary word in English.
+Turning shorthand into a full sentence needs the missing pieces: a time, an afternoon marker and a passive verb for a finished change.
+
 ---
-## Question 18 [D10]
+
+## Question 18 [D9]
 **ID:** CR-ING-11-2026-W32-listening-details-inference-001-MASTERY-bundle-v18
-**Bloom:** Evaluate
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Bloom:** Apply
+**EJE:** Linguistic Competence
+**Expected_Success:** 0.85
+**Contexto:** In a Tamarindo announcement, a lifeguard lists three rules for the beach.
 
 ### Enunciado
-What is the English word for: "A practice or arrangement by which a company or government agency provides a guarantee of compensation for specified loss, damage, illness, or death in return for payment of a premium."
+He names glass, fires and dogs. Which rule is missing from his list?
 
 ### Opciones
-- [x] C) insurance
-  <!-- feedback: 'insurance' is the arrangement in which a company pays compensation for a loss in exchange for a premium. -->
-- [ ] A) warranty
-  <!-- feedback: 'warranty' is the maker's promise to repair or replace a faulty product, normally free of charge. -->
-- [ ] B) guarantee
-  <!-- feedback: 'guarantee' is a general promise of quality and does not involve paying a premium. -->
-- [ ] D) policy
-  <!-- feedback: 'policy' is the written document that states what an insurance contract covers. -->
+- [ ] A) No glass bottles on the sand.
+  <!-- feedback: Glass bottles are named explicitly as banned, so this detail is present in the announcement. -->
+- [ ] B) No cooking fires on the sand.
+  <!-- feedback: Cooking fires are one of the warnings he gives, so the rule about fires on the sand does appear. -->
+- [x] C) No alcohol on the beach.
+  <!-- feedback: His list covers glass, fires and dogs, but alcohol never appears, so this is the item he left out. -->
+- [ ] D) No dogs in the water.
+  <!-- feedback: Dogs in the water are among the items he names, so this rule is part of the recorded warning. -->
 
 ### Explicacion Pedagogica
-The word 'insurance' is used to describe a practice or arrangement by which a company or government agency provides a guarantee of compensation for specified loss, damage, illness, or death in return for payment of a premium. This is an important vocabulary word in English.
+To find what was not said, compare each option against the heard list one by one and keep only the item with no match.
+
 ---
-## Question 19 [D9]
+
+## Question 19 [D10]
 **ID:** CR-ING-11-2026-W32-listening-details-inference-001-MASTERY-bundle-v19
-**Bloom:** Evaluate
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Bloom:** Analyze
+**EJE:** Linguistic Competence
+**Expected_Success:** 0.85
+**Contexto:** In a Puntarenas meeting, a port official justifies a new schedule rule.
 
 ### Enunciado
-What is the English word for: "Treatment with a vaccine to produce immunity against a disease."
+She says, 'Cargo waits less now, but crews arrive earlier.' What trade-off is that?
 
 ### Opciones
-- [x] D) vaccination
-  <!-- feedback: 'vaccination' is the treatment with a vaccine that makes the body immune to a disease. -->
-- [ ] A) medication
-  <!-- feedback: 'medication' is a drug taken to treat an illness, not to prevent one. -->
-- [ ] B) prescription
-  <!-- feedback: 'prescription' is the written order that authorises a medicine, not the treatment itself. -->
-- [ ] C) infection
-  <!-- feedback: 'infection' is the disease itself, the opposite of the protection a vaccination gives. -->
+- [x] A) Earlier work hours for shorter waits.
+  <!-- feedback: She links an earlier start for crews to a shorter wait for cargo, so the gain is paid for with earlier hours. -->
+- [ ] B) Longer shifts for lower wages.
+  <!-- feedback: Wages never appear in what she says, so the trade she describes concerns time, not pay. -->
+- [ ] C) Fewer ships for faster service.
+  <!-- feedback: She does not reduce the number of ships; her only facts are about arrival times and waiting. -->
+- [ ] D) Later hours for faster loading.
+  <!-- feedback: The rule moves crews earlier, not later, so this option reverses the direction of the change. -->
 
 ### Explicacion Pedagogica
-The word 'vaccination' is used to describe treatment with a vaccine to produce immunity against a disease. This is an important vocabulary word in English.
+A trade-off claim connects two facts with but: what is gained and what is paid for it, so a listener must name both sides.
+
 ---
+
 ## Question 20 [D10]
 **ID:** CR-ING-11-2026-W32-listening-details-inference-001-MASTERY-bundle-v20
 **Bloom:** Evaluate
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**EJE:** Linguistic Competence
+**Expected_Success:** 0.85
+**Contexto:** In a Siquirres interview, a woman explains her evening English practice.
 
 ### Enunciado
-What is the English word for: "Extreme tiredness and other physical effects felt by a person after a long flight across several time zones."
+She pauses a series to copy new words. Why does she pause it?
 
 ### Opciones
-- [x] C) jet lag
-  <!-- feedback: 'jet lag' is the tiredness and the disturbed sleep caused by crossing several time zones on a flight. -->
-- [ ] A) fatigue
-  <!-- feedback: 'fatigue' is tiredness that can come from any long effort, not specifically from a flight. -->
-- [ ] B) exhaustion
-  <!-- feedback: 'exhaustion' is the extreme form of tiredness after hard work or a lack of sleep. -->
-- [ ] D) insomnia
-  <!-- feedback: 'insomnia' is the inability to fall asleep, which has many causes besides travel. -->
+- [ ] A) To check how much time is left.
+  <!-- feedback: The timing of the episode is never mentioned, and pausing is a step she chooses, not a clock check. -->
+- [ ] B) To call a family member at home.
+  <!-- feedback: No call or relative appears in what she says, so the pause serves her own study, not a conversation. -->
+- [ ] C) To rewind the whole episode.
+  <!-- feedback: She copies single words instead of starting the episode again, so her purpose is narrower than rewinding. -->
+- [x] D) To keep and learn the new words.
+  <!-- feedback: Pausing is a deliberate step and she links it to copying words, so the aim is to keep and learn vocabulary. -->
 
 ### Explicacion Pedagogica
-The word 'jet lag' is used to describe extreme tiredness and other physical effects felt by a person after a long flight across several time zones. This is an important vocabulary word in English.
+Inferring purpose asks what action the speaker takes and what she says it achieves for her, here learning new vocabulary.
+
+---

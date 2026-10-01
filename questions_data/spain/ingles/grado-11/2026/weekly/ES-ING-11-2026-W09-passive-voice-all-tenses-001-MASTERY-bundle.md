@@ -24,459 +24,460 @@ bundle_index: 1
 ## Question 1 [D3]
 **ID:** ES-ING-11-2026-W09-passive-voice-all-tenses-001-MASTERY-bundle-v1
 **Bloom:** Remember
-**EJE:** Lexico
+**EJE:** Morfosintaxis
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Every morning the same delivery arrives at the office.
 
 ### Enunciado
-What is the English word for: "A place where you live or stay on holiday."
+Choose the correct form to complete the sentence: The letter ___ every morning.
 
 ### Opciones
-- [x] B) accommodation
-  <!-- feedback: 'accommodation' is the word for a place where you live or stay, including on holiday. -->
-- [ ] A) transportation
-  <!-- feedback: 'transportation' means the way you travel, such as buses or planes, not where you stay. -->
-- [ ] C) entertainment
-  <!-- feedback: 'entertainment' is the activity of enjoying shows, films or games, not a place to live. -->
-- [ ] D) currency
-  <!-- feedback: 'currency' is the money of a country, such as the colon; a place to stay is not money. -->
+- [x] A) is delivered
+  <!-- feedback: Correct. The present simple passive is formed with is or are plus the past participle, so is delivered is right. -->
+- [ ] B) delivers
+  <!-- feedback: Incorrect. Delivers is active present simple, but the letter cannot deliver itself. -->
+- [ ] C) is delivering
+  <!-- feedback: Incorrect. Is delivering is present continuous active, which describes an action in progress, not a daily routine. -->
+- [ ] D) delivered
+  <!-- feedback: Incorrect. Delivered alone is past simple active; the passive needs the auxiliary is before the participle. -->
 
 ### Explicacion Pedagogica
-The word 'accommodation' is used to describe a place where you live or stay on holiday. This is an important vocabulary word in English.
+The present simple passive uses am, is or are plus the past participle. The letter receives the action, so we write is delivered every morning.
 ---
-## Question 2 [D4]
+## Question 2 [D3]
 **ID:** ES-ING-11-2026-W09-passive-voice-all-tenses-001-MASTERY-bundle-v2
 **Bloom:** Remember
-**EJE:** Lexico
+**EJE:** Morfosintaxis
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** A local newspaper reported the history of the town.
 
 ### Enunciado
-What is the English word for: "A detailed plan or route of a journey."
+Complete the sentence with the correct passive form: The bridge ___ in 1990.
 
 ### Opciones
-- [x] A) itinerary
-  <!-- feedback: 'itinerary' is a detailed plan of a journey, listing the route and the stops along the way. -->
-- [ ] B) baggage
-  <!-- feedback: 'baggage' is the suitcases and bags you travel with, not the plan of the trip. -->
-- [ ] C) destination
-  <!-- feedback: 'destination' is only the place you are going to; the plan of the route is the itinerary. -->
-- [ ] D) passport
-  <!-- feedback: 'passport' is the travel document you show at the border, not the plan of a journey. -->
+- [ ] A) built
+  <!-- feedback: Incorrect. Built is active past simple and would mean the bridge did the building. -->
+- [x] B) was built
+  <!-- feedback: Correct. The past simple passive is was or were plus the past participle, so was built fits the year 1990. -->
+- [ ] C) is built
+  <!-- feedback: Incorrect. Is built is present simple passive and clashes with the finished past time in 1990. -->
+- [ ] D) builds
+  <!-- feedback: Incorrect. Builds is active present simple and describes a routine, not a past event. -->
 
 ### Explicacion Pedagogica
-The word 'itinerary' is used to describe a detailed plan or route of a journey. This is an important vocabulary word in English.
+A finished past action in the passive takes was or were plus the past participle, as in the bridge was built in 1990.
 ---
-## Question 3 [D3]
+## Question 3 [D4]
 **ID:** ES-ING-11-2026-W09-passive-voice-all-tenses-001-MASTERY-bundle-v3
 **Bloom:** Understand
-**EJE:** Lexico
+**EJE:** Morfosintaxis
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** The painters are still working on the old house.
 
 ### Enunciado
-What is the English word for: "The place to which someone or something is going or being sent."
+Which form correctly completes the sentence? The house ___ at the moment.
 
 ### Opciones
-- [x] A) destination
-  <!-- feedback: 'destination' names the place a person or thing is going or being sent to. -->
-- [ ] B) departure
-  <!-- feedback: 'departure' is the action of leaving, not the place you leave for. -->
-- [ ] C) arrival
-  <!-- feedback: 'arrival' is the moment of reaching a place, not the place itself. -->
-- [ ] D) journey
-  <!-- feedback: 'journey' is the whole trip from one place to another, not the place at the end of it. -->
+- [ ] A) is painting
+  <!-- feedback: Incorrect. Is painting is active; it would mean the house is applying paint itself. -->
+- [ ] B) paints
+  <!-- feedback: Incorrect. Paints is active present simple and shows a habit, not an action happening now. -->
+- [x] C) is being painted
+  <!-- feedback: Correct. The present continuous passive is is or are being plus the past participle, so is being painted describes work in progress. -->
+- [ ] D) has painted
+  <!-- feedback: Incorrect. Has painted is active present perfect and does not express the ongoing action. -->
 
 ### Explicacion Pedagogica
-The word 'destination' is used to describe the place to which someone or something is going or being sent. This is an important vocabulary word in English.
+To show an action in progress that is done to the subject, use is or are being plus the past participle.
 ---
 ## Question 4 [D4]
 **ID:** ES-ING-11-2026-W09-passive-voice-all-tenses-001-MASTERY-bundle-v4
 **Bloom:** Understand
-**EJE:** Lexico
+**EJE:** Morfosintaxis
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** We reached the town while the workers were fixing the main road.
 
 ### Enunciado
-What is the English word for: "Suitcases or other bags in which to pack personal belongings for traveling."
+Complete the sentence: The road ___ when we arrived.
 
 ### Opciones
-- [x] C) luggage
-  <!-- feedback: 'luggage' is the collective word for the suitcases and bags you pack for a trip. -->
-- [ ] A) ticket
-  <!-- feedback: 'ticket' is the document you buy that admits you to the journey. -->
-- [ ] B) flight
-  <!-- feedback: 'flight' is the plane or the scheduled trip itself, not the bags you carry. -->
-- [ ] D) reservation
-  <!-- feedback: 'reservation' is the booking you hold for a seat or a room. -->
+- [ ] A) was repairing
+  <!-- feedback: Incorrect. Was repairing is active and means the road was fixing something. -->
+- [ ] B) repaired
+  <!-- feedback: Incorrect. Repaired is active past simple; it loses the idea of an action in progress. -->
+- [ ] C) is repaired
+  <!-- feedback: Incorrect. Is repaired is present passive and does not match the past moment when we arrived. -->
+- [x] D) was being repaired
+  <!-- feedback: Correct. The past continuous passive is was or were being plus the past participle, so was being repaired shows the ongoing action. -->
 
 ### Explicacion Pedagogica
-The word 'luggage' is used to describe suitcases or other bags in which to pack personal belongings for traveling. This is an important vocabulary word in English.
+An ongoing past action done to the subject takes was or were being plus the past participle.
 ---
 ## Question 5 [D5]
 **ID:** ES-ING-11-2026-W09-passive-voice-all-tenses-001-MASTERY-bundle-v5
-**Bloom:** Understand
-**EJE:** Lexico
+**Bloom:** Apply
+**EJE:** Morfosintaxis
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** The manager is waiting for the monthly report.
 
 ### Enunciado
-What is the English word for: "A traveler on a public or private conveyance other than the driver, pilot, or crew."
+Complete the sentence with the correct form: The report ___ yet.
 
 ### Opciones
-- [x] D) passenger
-  <!-- feedback: 'passenger' is anyone travelling on a vehicle who is not the driver, the pilot or the crew. -->
-- [ ] A) pedestrian
-  <!-- feedback: 'pedestrian' is a person who travels on foot, not on a bus, a train or a plane. -->
-- [ ] B) commuter
-  <!-- feedback: 'commuter' is someone who travels regularly between home and work, a narrower idea than passenger. -->
-- [ ] C) tourist
-  <!-- feedback: 'tourist' is defined by travelling for pleasure and may also be the driver of a rented car; 'passenger' covers every rider who is not crew. -->
+- [x] A) has not been finished
+  <!-- feedback: Correct. The present perfect passive is has or have been plus the past participle, so has not been finished is right. -->
+- [ ] B) has not finished
+  <!-- feedback: Incorrect. Has not finished is active and suggests the report finished something by itself. -->
+- [ ] C) is not finishing
+  <!-- feedback: Incorrect. Is not finishing is active present continuous and ignores the link to now. -->
+- [ ] D) did not finish
+  <!-- feedback: Incorrect. Did not finish is active past simple and drops the passive auxiliary been. -->
 
 ### Explicacion Pedagogica
-The word 'passenger' is used to describe a traveler on a public or private conveyance other than the driver, pilot, or crew. This is an important vocabulary word in English.
+The present perfect passive links a past action to now with has or have been plus the past participle.
 ---
-## Question 6 [D6]
+## Question 6 [D5]
 **ID:** ES-ING-11-2026-W09-passive-voice-all-tenses-001-MASTERY-bundle-v6
-**Bloom:** Understand
-**EJE:** Lexico
+**Bloom:** Apply
+**EJE:** Morfosintaxis
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** We arrived late at the box office last night.
 
 ### Enunciado
-What is the English word for: "The place at a port, airport, or frontier where officials check incoming goods, travelers, or luggage."
+Complete the sentence: The tickets ___ before we got there.
 
 ### Opciones
-- [x] A) customs
-  <!-- feedback: 'customs' is the office where officials check the goods, the luggage and the travellers entering a country. -->
-- [ ] B) security
-  <!-- feedback: 'security' refers to the staff and the measures that keep the airport safe, not to the goods check. -->
-- [ ] C) terminal
-  <!-- feedback: 'terminal' is the building where you wait for and board your flight. -->
-- [ ] D) gate
-  <!-- feedback: 'gate' is the door you board the plane through, not the place where officials check luggage. -->
+- [ ] A) had sold
+  <!-- feedback: Incorrect. Had sold is active and would mean the tickets sold something themselves. -->
+- [x] B) had been sold
+  <!-- feedback: Correct. The past perfect passive is had been plus the past participle, so had been sold marks the earlier past event. -->
+- [ ] C) were selling
+  <!-- feedback: Incorrect. Were selling is active past continuous and does not show the action was completed first. -->
+- [ ] D) have sold
+  <!-- feedback: Incorrect. Have sold is active present perfect and does not fit a past before another past. -->
 
 ### Explicacion Pedagogica
-The word 'customs' is used to describe the place at a port, airport, or frontier where officials check incoming goods, travelers, or luggage. This is an important vocabulary word in English.
+The past perfect passive uses had been plus the past participle for an action completed before another past moment.
 ---
-## Question 7 [D5]
+## Question 7 [D6]
 **ID:** ES-ING-11-2026-W09-passive-voice-all-tenses-001-MASTERY-bundle-v7
 **Bloom:** Apply
-**EJE:** Lexico
+**EJE:** Morfosintaxis
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** The judges are still deciding on the competition entries.
 
 ### Enunciado
-What is the English word for: "A document provided by an airline during check-in, giving a passenger permission to board the airplane."
+Choose the correct form: The results ___ tomorrow.
 
 ### Opciones
-- [x] B) boarding pass
-  <!-- feedback: 'boarding pass' is the slip the airline hands over at check-in that lets you board the plane. -->
-- [ ] A) visa
-  <!-- feedback: 'visa' is the official permission to enter and stay in a foreign country. -->
-- [ ] C) receipt
-  <!-- feedback: 'receipt' is the proof of payment for the ticket, not the document that lets you board. -->
-- [ ] D) brochure
-  <!-- feedback: 'brochure' is a small booklet with tourist information, not a travel document. -->
+- [ ] A) will announce
+  <!-- feedback: Incorrect. Will announce is active future and would mean the results announce something. -->
+- [ ] B) are announcing
+  <!-- feedback: Incorrect. Are announcing is active present continuous and does not express a future action in the passive. -->
+- [x] C) will be announced
+  <!-- feedback: Correct. The future simple passive is will be plus the past participle, so will be announced is right. -->
+- [ ] D) announced
+  <!-- feedback: Incorrect. Announced is active past simple and clashes with tomorrow. -->
 
 ### Explicacion Pedagogica
-The word 'boarding pass' is used to describe a document provided by an airline during check-in, giving a passenger permission to board the airplane. This is an important vocabulary word in English.
+The future simple passive is will be plus the past participle for an action that will happen to the subject.
 ---
 ## Question 8 [D6]
 **ID:** ES-ING-11-2026-W09-passive-voice-all-tenses-001-MASTERY-bundle-v8
 **Bloom:** Apply
-**EJE:** Lexico
+**EJE:** Morfosintaxis
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** The construction company is working to a fixed schedule.
 
 ### Enunciado
-What is the English word for: "The activity of visiting places of interest in a particular location."
+Complete the sentence: By next year the project ___ .
 
 ### Opciones
-- [x] A) sightseeing
-  <!-- feedback: 'sightseeing' is visiting the places of interest of a location in order to look at them. -->
-- [ ] B) shopping
-  <!-- feedback: 'shopping' is buying things, which is a different activity from visiting sights. -->
-- [ ] C) hiking
-  <!-- feedback: 'hiking' is walking in the countryside along a trail, usually for exercise. -->
-- [ ] D) camping
-  <!-- feedback: 'camping' means spending the night outdoors in a tent. -->
+- [ ] A) will have completed
+  <!-- feedback: Incorrect. Will have completed is active and means the project completes something else. -->
+- [ ] B) will be completing
+  <!-- feedback: Incorrect. Will be completing is active future continuous and loses the passive sense. -->
+- [ ] C) has completed
+  <!-- feedback: Incorrect. Has completed is active present perfect and cannot follow by next year. -->
+- [x] D) will have been completed
+  <!-- feedback: Correct. The future perfect passive is will have been plus the past participle, so will have been completed fits by next year. -->
 
 ### Explicacion Pedagogica
-The word 'sightseeing' is used to describe the activity of visiting places of interest in a particular location. This is an important vocabulary word in English.
+The future perfect passive uses will have been plus the past participle for an action finished before a future time.
 ---
-## Question 9 [D5]
+## Question 9 [D7]
 **ID:** ES-ING-11-2026-W09-passive-voice-all-tenses-001-MASTERY-bundle-v9
-**Bloom:** Apply
-**EJE:** Lexico
+**Bloom:** Analyze
+**EJE:** Morfosintaxis
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** The company has a strict procedure for official documents.
 
 ### Enunciado
-What is the English word for: "A thing that is kept as a reminder of a person, place, or event."
+Complete the sentence: This form ___ by the manager.
 
 ### Opciones
-- [x] B) souvenir
-  <!-- feedback: 'souvenir' is an object kept because it reminds you of a person, a place or an event. -->
-- [ ] A) gift
-  <!-- feedback: 'gift' is anything given to someone else; a souvenir is kept by the buyer as a reminder. -->
-- [ ] C) award
-  <!-- feedback: 'award' is a distinction given for a merit or an achievement. -->
-- [ ] D) prize
-  <!-- feedback: 'prize' is what is won in a competition, not an object bought to remember a trip. -->
+- [x] A) must be signed
+  <!-- feedback: Correct. After a modal the passive is be plus the past participle, so must be signed is the right form. -->
+- [ ] B) must sign
+  <!-- feedback: Incorrect. Must sign is active; it would mean the form signs something. -->
+- [ ] C) must signing
+  <!-- feedback: Incorrect. Must is followed by the bare infinitive, so must signing is not grammatical. -->
+- [ ] D) must have sign
+  <!-- feedback: Incorrect. Have must be followed by the past participle signed, not the noun sign. -->
 
 ### Explicacion Pedagogica
-The word 'souvenir' is used to describe a thing that is kept as a reminder of a person, place, or event. This is an important vocabulary word in English.
+Modal verbs form the passive with be plus the past participle, as in must be signed.
 ---
-## Question 10 [D6]
+## Question 10 [D7]
 **ID:** ES-ING-11-2026-W09-passive-voice-all-tenses-001-MASTERY-bundle-v10
-**Bloom:** Apply
-**EJE:** Lexico
+**Bloom:** Analyze
+**EJE:** Morfosintaxis
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** A teacher is explaining how to change an active sentence into the passive.
 
 ### Enunciado
-What is the English word for: "A period of time by which something is late or postponed."
+Which sentence is the correct passive form of Shakespeare wrote Hamlet?
 
 ### Opciones
-- [x] C) delay
-  <!-- feedback: 'delay' is the extra period of time by which something becomes late or is postponed. -->
-- [ ] A) cancellation
-  <!-- feedback: 'cancellation' ends the booking or the trip altogether rather than pushing it back. -->
-- [ ] B) departure
-  <!-- feedback: 'departure' is the time a vehicle is scheduled to leave, not a postponement. -->
-- [ ] D) arrival
-  <!-- feedback: 'arrival' is the moment you reach the destination, not the waiting time. -->
+- [ ] A) Hamlet was wrote by Shakespeare.
+  <!-- feedback: Incorrect. Wrote is the past simple, but the passive needs the past participle written. -->
+- [x] B) Hamlet was written by Shakespeare.
+  <!-- feedback: Correct. The past simple passive needs was or were plus the past participle written, and the agent follows by. -->
+- [ ] C) Hamlet is written by Shakespeare.
+  <!-- feedback: Incorrect. Is written is present passive and changes the tense of the original. -->
+- [ ] D) Hamlet wrote by Shakespeare.
+  <!-- feedback: Incorrect. Wrote is active and leaves the sentence without the passive auxiliary was. -->
 
 ### Explicacion Pedagogica
-The word 'delay' is used to describe a period of time by which something is late or postponed. This is an important vocabulary word in English.
+To turn an active past simple into the passive, use was or were plus the past participle and add by before the agent.
 ---
-## Question 11 [D7]
+## Question 11 [D8]
 **ID:** ES-ING-11-2026-W09-passive-voice-all-tenses-001-MASTERY-bundle-v11
-**Bloom:** Apply
-**EJE:** Lexico
+**Bloom:** Analyze
+**EJE:** Morfosintaxis
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** A mechanic has just finished working on the family car.
 
 ### Enunciado
-What is the English word for: "The act of reporting one's presence and registering, typically at an airport or hotel."
+Choose the correct passive transformation of They have repaired the car.
 
 ### Opciones
-- [x] A) check-in
-  <!-- feedback: 'check-in' is reporting your presence at the airport or the hotel and registering. -->
-- [ ] B) check-out
-  <!-- feedback: 'check-out' is the opposite moment: leaving the hotel and settling the bill. -->
-- [ ] C) booking
-  <!-- feedback: 'booking' is reserving the room or the seat in advance, which happens before you arrive. -->
-- [ ] D) reservation
-  <!-- feedback: 'reservation' is the record of that booking, not the act of reporting your presence. -->
+- [ ] A) The car has repaired.
+  <!-- feedback: Incorrect. This is active present perfect and misses the passive auxiliary been. -->
+- [ ] B) The car is repairing.
+  <!-- feedback: Incorrect. Is repairing is active present continuous and changes the tense. -->
+- [x] C) The car has been repaired.
+  <!-- feedback: Correct. The present perfect passive is has been plus the past participle, so The car has been repaired is right. -->
+- [ ] D) The car was repairing.
+  <!-- feedback: Incorrect. Was repairing is active past continuous and changes both tense and voice. -->
 
 ### Explicacion Pedagogica
-The word 'check-in' is used to describe the act of reporting one's presence and registering, typically at an airport or hotel. This is an important vocabulary word in English.
+Transforming a present perfect active sentence into the passive keeps has or have and adds been before the past participle.
 ---
 ## Question 12 [D8]
 **ID:** ES-ING-11-2026-W09-passive-voice-all-tenses-001-MASTERY-bundle-v12
-**Bloom:** Apply
-**EJE:** Lexico
+**Bloom:** Analyze
+**EJE:** Morfosintaxis
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** A student is analysing the form of a sentence in a grammar exercise.
 
 ### Enunciado
-What is the English word for: "A period of rest or waiting before a further stage in a journey."
+Which tense and voice is used in The cake was being baked?
 
 ### Opciones
-- [x] D) layover
-  <!-- feedback: 'layover' is the rest or the waiting period between two stages of a journey. -->
-- [ ] A) stopover
-  <!-- feedback: 'stopover' is a break in a journey during which you leave the vehicle, often overnight. -->
-- [ ] B) transfer
-  <!-- feedback: 'transfer' is the change from one vehicle or flight to another, the act rather than the waiting time. -->
-- [ ] C) transit
-  <!-- feedback: 'transit' means passage through a place or the system that carries people, not the pause itself. -->
+- [ ] A) past simple passive
+  <!-- feedback: Incorrect. The past simple passive would be was baked, without being. -->
+- [ ] B) present continuous passive
+  <!-- feedback: Incorrect. The present continuous passive would be is being baked. -->
+- [ ] C) past perfect passive
+  <!-- feedback: Incorrect. The past perfect passive would be had been baked. -->
+- [x] D) past continuous passive
+  <!-- feedback: Correct. Was being plus the past participle is the past continuous passive, an action in progress in the past. -->
 
 ### Explicacion Pedagogica
-The word 'layover' is used to describe a period of rest or waiting before a further stage in a journey. This is an important vocabulary word in English.
+Was being baked combines the past auxiliary was, the continuous being and the participle baked, so it is the past continuous passive.
 ---
-## Question 13 [D7]
+## Question 13 [D9]
 **ID:** ES-ING-11-2026-W09-passive-voice-all-tenses-001-MASTERY-bundle-v13
-**Bloom:** Analyze
-**EJE:** Lexico
+**Bloom:** Evaluate
+**EJE:** Morfosintaxis
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** A student must choose the sentence that contains no grammar error.
 
 ### Enunciado
-What is the English word for: "A system of money in general use in a particular country."
+Which sentence is grammatically correct?
 
 ### Opciones
-- [x] A) currency
-  <!-- feedback: 'currency' is the whole money system in general use in a particular country. -->
-- [ ] B) coin
-  <!-- feedback: 'coin' is a single round piece of metal money, only one part of a currency. -->
-- [ ] C) banknote
-  <!-- feedback: 'banknote' is a paper note, again only one part of a country's money system. -->
-- [ ] D) cash
-  <!-- feedback: 'cash' is money in coins and notes seen as a form of payment, not the system a country has. -->
+- [x] A) The window was broken by the storm.
+  <!-- feedback: Correct. The passive uses was plus the past participle broken, and by introduces the agent. -->
+- [ ] B) The window was broke by the storm.
+  <!-- feedback: Incorrect. Broke is the past simple, but the passive requires the participle broken. -->
+- [ ] C) The window did broken by the storm.
+  <!-- feedback: Incorrect. Did cannot introduce a passive; the auxiliary must be was. -->
+- [ ] D) The window was break by the storm.
+  <!-- feedback: Incorrect. Break is the base form and cannot follow the auxiliary was. -->
 
 ### Explicacion Pedagogica
-The word 'currency' is used to describe a system of money in general use in a particular country. This is an important vocabulary word in English.
+The past simple passive is was or were plus the past participle, so broken is the only form that fits.
 ---
-## Question 14 [D8]
+## Question 14 [D9]
 **ID:** ES-ING-11-2026-W09-passive-voice-all-tenses-001-MASTERY-bundle-v14
-**Bloom:** Analyze
-**EJE:** Lexico
+**Bloom:** Evaluate
+**EJE:** Morfosintaxis
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** The club organises a big party every December.
 
 ### Enunciado
-What is the English word for: "A book of information about a place designed for the use of visitors or tourists."
+Complete the sentence: She hopes ___ to the party.
 
 ### Opciones
-- [x] B) guidebook
-  <!-- feedback: 'guidebook' is a book of information about a place written for the use of visitors. -->
-- [ ] A) map
-  <!-- feedback: 'map' is a drawing of the area, not a book of information. -->
-- [ ] C) dictionary
-  <!-- feedback: 'dictionary' explains the words of a language, not the places of a region. -->
-- [ ] D) encyclopedia
-  <!-- feedback: 'encyclopedia' covers all branches of knowledge, not one destination for tourists. -->
+- [ ] A) to invite
+  <!-- feedback: Incorrect. To invite is active and means she will invite someone else. -->
+- [x] B) to be invited
+  <!-- feedback: Correct. The passive infinitive is to be plus the past participle, so to be invited is right. -->
+- [ ] C) to be inviting
+  <!-- feedback: Incorrect. To be inviting is a continuous active form, not a passive infinitive. -->
+- [ ] D) inviting
+  <!-- feedback: Incorrect. Inviting is a gerund and does not follow hopes in this structure. -->
 
 ### Explicacion Pedagogica
-The word 'guidebook' is used to describe a book of information about a place designed for the use of visitors or tourists. This is an important vocabulary word in English.
+The passive infinitive is formed with to be plus the past participle, as in to be invited.
 ---
-## Question 15 [D7]
+## Question 15 [D10]
 **ID:** ES-ING-11-2026-W09-passive-voice-all-tenses-001-MASTERY-bundle-v15
-**Bloom:** Analyze
-**EJE:** Lexico
+**Bloom:** Evaluate
+**EJE:** Morfosintaxis
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** A speaker dislikes it when other people cut in while talking.
 
 ### Enunciado
-What is the English word for: "A bag with shoulder straps that allow it to be carried on one's back."
+Complete the sentence: He hates ___ .
 
 ### Opciones
-- [x] B) backpack
-  <!-- feedback: 'backpack' has shoulder straps and is carried on the back. -->
-- [ ] A) suitcase
-  <!-- feedback: 'suitcase' is a case with a handle that is pulled along, not one worn on the back. -->
-- [ ] C) briefcase
-  <!-- feedback: 'briefcase' is a flat case for documents that you carry by hand at work. -->
-- [ ] D) handbag
-  <!-- feedback: 'handbag' is a small bag held in the hand, usually for personal items. -->
+- [ ] A) interrupting
+  <!-- feedback: Incorrect. Interrupting is active and means he interrupts other people. -->
+- [ ] B) to be interrupt
+  <!-- feedback: Incorrect. The infinitive needs the participle interrupted, not the base form interrupt. -->
+- [x] C) being interrupted
+  <!-- feedback: Correct. After hate the passive gerund is being plus the past participle, so being interrupted is right. -->
+- [ ] D) interrupt
+  <!-- feedback: Incorrect. Interrupt is a bare verb and cannot stand after hates in this meaning. -->
 
 ### Explicacion Pedagogica
-The word 'backpack' is used to describe a bag with shoulder straps that allow it to be carried on one's back. This is an important vocabulary word in English.
+The passive gerund is being plus the past participle, so he hates being interrupted means others interrupt him.
 ---
-## Question 16 [D8]
+## Question 16 [D10]
 **ID:** ES-ING-11-2026-W09-passive-voice-all-tenses-001-MASTERY-bundle-v16
-**Bloom:** Analyze
-**EJE:** Lexico
+**Bloom:** Evaluate
+**EJE:** Morfosintaxis
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** A mother is trying to explain the damage to a neighbour.
 
 ### Enunciado
-What is the English word for: "In or to a foreign country, especially one across the sea."
+Complete the sentence: The window ___ by the children.
 
 ### Opciones
-- [x] D) overseas
-  <!-- feedback: 'overseas' means in or to a foreign country, especially one across the sea. -->
-- [ ] A) domestic
-  <!-- feedback: 'domestic' means inside the same country, which is the opposite of overseas. -->
-- [ ] B) local
-  <!-- feedback: 'local' means belonging to a small area nearby, not to a foreign country. -->
-- [ ] C) national
-  <!-- feedback: 'national' means concerning the whole nation and says nothing about being abroad. -->
+- [ ] A) might have broken
+  <!-- feedback: Incorrect. This is active and would mean the window broke something. -->
+- [ ] B) might be breaking
+  <!-- feedback: Incorrect. This is active continuous and does not express a completed past action. -->
+- [ ] C) might broke
+  <!-- feedback: Incorrect. After might the verb needs the bare infinitive, so broke cannot follow it. -->
+- [x] D) might have been broken
+  <!-- feedback: Correct. A modal perfect passive is modal plus have been plus the past participle, so might have been broken is right. -->
 
 ### Explicacion Pedagogica
-The word 'overseas' is used to describe in or to a foreign country, especially one across the sea. This is an important vocabulary word in English.
+A modal perfect passive combines the modal, have, been and the past participle to show a possible past action.
 ---
-## Question 17 [D9]
+## Question 17 [D5]
 **ID:** ES-ING-11-2026-W09-passive-voice-all-tenses-001-MASTERY-bundle-v17
-**Bloom:** Evaluate
-**EJE:** Lexico
+**Bloom:** Apply
+**EJE:** Morfosintaxis
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** A secretary is checking whether the letters left the office yesterday.
 
 ### Enunciado
-What is the English word for: "An estimate of income and expenditure for a set period of time."
+Complete the question: ___ the letters sent yesterday?
 
 ### Opciones
-- [x] A) budget
-  <!-- feedback: 'budget' is an estimate of income and expenditure planned for a set period. -->
-- [ ] B) expense
-  <!-- feedback: 'expense' is a single amount of money that is spent, not the plan for a whole period. -->
-- [ ] C) cost
-  <!-- feedback: 'cost' is what one item or one service costs, again not an estimate for a period. -->
-- [ ] D) price
-  <!-- feedback: 'price' is the sum a customer pays for one product; a budget covers income and spending together. -->
+- [x] A) Were
+  <!-- feedback: Correct. Were forms the past simple passive question together with the past participle sent. -->
+- [ ] B) Did
+  <!-- feedback: Incorrect. Did would create the active question Did the letters send, which is not passive. -->
+- [ ] C) Are
+  <!-- feedback: Incorrect. Are forms a present passive question and clashes with yesterday. -->
+- [ ] D) Have
+  <!-- feedback: Incorrect. Have would need the past participle been, as in have the letters been sent. -->
 
 ### Explicacion Pedagogica
-The word 'budget' is used to describe an estimate of income and expenditure for a set period of time. This is an important vocabulary word in English.
+A past simple passive question begins with was or were and keeps the past participle sent.
 ---
-## Question 18 [D10]
+## Question 18 [D6]
 **ID:** ES-ING-11-2026-W09-passive-voice-all-tenses-001-MASTERY-bundle-v18
-**Bloom:** Evaluate
-**EJE:** Lexico
+**Bloom:** Apply
+**EJE:** Morfosintaxis
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** An assistant forgot to send an important email.
 
 ### Enunciado
-What is the English word for: "A practice or arrangement by which a company or government agency provides a guarantee of compensation for specified loss, damage, illness, or death in return for payment of a premium."
+Complete the sentence: The email ___ by the assistant.
 
 ### Opciones
-- [x] A) insurance
-  <!-- feedback: 'insurance' is the arrangement in which a company pays compensation for a loss in exchange for a premium. -->
-- [ ] B) warranty
-  <!-- feedback: 'warranty' is the maker's promise to repair or replace a faulty product, normally free of charge. -->
-- [ ] C) guarantee
-  <!-- feedback: 'guarantee' is a general promise of quality and does not involve paying a premium. -->
-- [ ] D) policy
-  <!-- feedback: 'policy' is the written document that states what an insurance contract covers. -->
+- [ ] A) was not send
+  <!-- feedback: Incorrect. Send is the base form; the passive needs the participle sent. -->
+- [x] B) was not sent
+  <!-- feedback: Correct. The negative past simple passive is was not plus the past participle, so was not sent is right. -->
+- [ ] C) did not sent
+  <!-- feedback: Incorrect. Did not is active and must be followed by the base form, not sent. -->
+- [ ] D) not sent
+  <!-- feedback: Incorrect. The sentence lacks the auxiliary was, so it is not a complete passive. -->
 
 ### Explicacion Pedagogica
-The word 'insurance' is used to describe a practice or arrangement by which a company or government agency provides a guarantee of compensation for specified loss, damage, illness, or death in return for payment of a premium. This is an important vocabulary word in English.
+To make a past simple passive negative, put not after was or were and keep the past participle.
 ---
-## Question 19 [D9]
+## Question 19 [D7]
 **ID:** ES-ING-11-2026-W09-passive-voice-all-tenses-001-MASTERY-bundle-v19
-**Bloom:** Evaluate
-**EJE:** Lexico
+**Bloom:** Analyze
+**EJE:** Morfosintaxis
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** The same popular song is playing in many shops this week.
 
 ### Enunciado
-What is the English word for: "Treatment with a vaccine to produce immunity against a disease."
+Complete the sentence: The song ___ by millions of people this week.
 
 ### Opciones
-- [x] D) vaccination
-  <!-- feedback: 'vaccination' is the treatment with a vaccine that makes the body immune to a disease. -->
-- [ ] A) medication
-  <!-- feedback: 'medication' is a drug taken to treat an illness, not to prevent one. -->
-- [ ] B) prescription
-  <!-- feedback: 'prescription' is the written order that authorises a medicine, not the treatment itself. -->
-- [ ] C) infection
-  <!-- feedback: 'infection' is the disease itself, the opposite of the protection a vaccination gives. -->
+- [ ] A) is being sang
+  <!-- feedback: Incorrect. Sang is the past simple, but the passive needs the participle sung. -->
+- [ ] B) is singing
+  <!-- feedback: Incorrect. Is singing is active and means the song sings by itself. -->
+- [x] C) is being sung
+  <!-- feedback: Correct. The present continuous passive is is being plus the past participle sung, so is being sung is right. -->
+- [ ] D) is sung being
+  <!-- feedback: Incorrect. The words are in the wrong order; being must come before sung. -->
 
 ### Explicacion Pedagogica
-The word 'vaccination' is used to describe treatment with a vaccine to produce immunity against a disease. This is an important vocabulary word in English.
+The present continuous passive puts is or are being before the past participle, as in is being sung.
 ---
-## Question 20 [D10]
+## Question 20 [D8]
 **ID:** ES-ING-11-2026-W09-passive-voice-all-tenses-001-MASTERY-bundle-v20
-**Bloom:** Evaluate
-**EJE:** Lexico
+**Bloom:** Analyze
+**EJE:** Morfosintaxis
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** A teacher asks the class to spot the sentence that is not in the passive voice.
 
 ### Enunciado
-What is the English word for: "Extreme tiredness and other physical effects felt by a person after a long flight across several time zones."
+Which sentence is active, not passive?
 
 ### Opciones
-- [x] B) jet lag
-  <!-- feedback: 'jet lag' is the tiredness and the disturbed sleep caused by crossing several time zones on a flight. -->
-- [ ] A) fatigue
-  <!-- feedback: 'fatigue' is tiredness that can come from any long effort, not specifically from a flight. -->
-- [ ] C) exhaustion
-  <!-- feedback: 'exhaustion' is the extreme form of tiredness after hard work or a lack of sleep. -->
-- [ ] D) insomnia
-  <!-- feedback: 'insomnia' is the inability to fall asleep, which has many causes besides travel. -->
+- [ ] A) The meal was prepared by the chef.
+  <!-- feedback: Incorrect. Was prepared plus the agent by the chef makes this a passive sentence. -->
+- [ ] B) The meal has been prepared.
+  <!-- feedback: Incorrect. Has been prepared is the present perfect passive. -->
+- [ ] C) The meal is being prepared.
+  <!-- feedback: Incorrect. Is being prepared is the present continuous passive. -->
+- [x] D) The chef prepared the meal.
+  <!-- feedback: Correct. The chef prepared the meal is active because the subject chef performs the action. -->
 
 ### Explicacion Pedagogica
-The word 'jet lag' is used to describe extreme tiredness and other physical effects felt by a person after a long flight across several time zones. This is an important vocabulary word in English.
+A sentence is active when the subject performs the action, so the chef prepared the meal is active while the others are passive.
+---

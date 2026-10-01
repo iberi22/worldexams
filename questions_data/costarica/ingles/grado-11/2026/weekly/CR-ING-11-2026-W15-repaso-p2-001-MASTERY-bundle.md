@@ -20,463 +20,464 @@ bundle_index: 1
 # MASTERY Bundle - Ingles: Repaso P2 (W15)
 **20 preguntas | Ingles | Curriculo de Ingles**
 
+
 ---
 ## Question 1 [D3]
-**ID:** CR-ING-11-2026-W15-repaso-p2-001-MASTERY-bundle-v1
-**Bloom:** Remember
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**ID:** CR-ING-11-2026-W15-repaso-p2-v1
+**Bloom:** Apply
+**EJE:** Linguistic Competence
+**Expected_Success:** 0.85
+**Contexto:** A classmate says: 'When I arrived at the clinic yesterday, the doctor not yet reviewed my results.'
 
 ### Enunciado
-What is the English word for: "A place where you live or stay on holiday."
+Which sentence corrects the error?
 
 ### Opciones
-- [x] C) accommodation
-  <!-- feedback: 'accommodation' is the word for a place where you live or stay, including on holiday. -->
-- [ ] A) transportation
-  <!-- feedback: 'transportation' means the way you travel, such as buses or planes, not where you stay. -->
-- [ ] B) entertainment
-  <!-- feedback: 'entertainment' is the activity of enjoying shows, films or games, not a place to live. -->
-- [ ] D) currency
-  <!-- feedback: 'currency' is the money of a country, such as the colon; a place to stay is not money. -->
+- [x] B) When I arrived at the clinic yesterday, the doctor had not yet reviewed my results.
+  <!-- feedback: A review that was still pending at the moment of arrival requires the past perfect, since it precedes another past event. -->
+- [ ] C) When I arrived at the clinic yesterday, the doctor have not reviewed my results.
+  <!-- feedback: 'Have not' cannot follow a past-tense clause describing an earlier moment. -->
+- [ ] D) When I arrived at the clinic yesterday, the doctor has not reviewed my results.
+  <!-- feedback: The present perfect would relate the review to the present, but the arrival is a fixed point in the past. -->
+- [ ] A) When I arrived at the clinic yesterday, the doctor did not reviewed my results.
+  <!-- feedback: In a negative past sentence, 'did' carries the tense and the verb returns to its base form. -->
 
 ### Explicacion Pedagogica
-The word 'accommodation' is used to describe a place where you live or stay on holiday. This is an important vocabulary word in English.
+The past perfect marks an action completed before another past action. Recognising which of the two events is earlier is what determines which tense belongs in the sentence.
 ---
-## Question 2 [D4]
-**ID:** CR-ING-11-2026-W15-repaso-p2-001-MASTERY-bundle-v2
-**Bloom:** Remember
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
-
-### Enunciado
-What is the English word for: "A detailed plan or route of a journey."
-
-### Opciones
-- [x] C) itinerary
-  <!-- feedback: 'itinerary' is a detailed plan of a journey, listing the route and the stops along the way. -->
-- [ ] A) baggage
-  <!-- feedback: 'baggage' is the suitcases and bags you travel with, not the plan of the trip. -->
-- [ ] B) destination
-  <!-- feedback: 'destination' is only the place you are going to; the plan of the route is the itinerary. -->
-- [ ] D) passport
-  <!-- feedback: 'passport' is the travel document you show at the border, not the plan of a journey. -->
-
-### Explicacion Pedagogica
-The word 'itinerary' is used to describe a detailed plan or route of a journey. This is an important vocabulary word in English.
----
-## Question 3 [D3]
-**ID:** CR-ING-11-2026-W15-repaso-p2-001-MASTERY-bundle-v3
+## Question 2 [D3]
+**ID:** CR-ING-11-2026-W15-repaso-p2-v2
 **Bloom:** Understand
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**EJE:** Linguistic Competence
+**Expected_Success:** 0.85
+**Contexto:** A speaker says: 'She has lived in Heredia since 2015.'
 
 ### Enunciado
-What is the English word for: "The place to which someone or something is going or being sent."
+Which verb form describes a situation that began in the past and continues now?
 
 ### Opciones
-- [x] B) destination
-  <!-- feedback: 'destination' names the place a person or thing is going or being sent to. -->
-- [ ] A) departure
-  <!-- feedback: 'departure' is the action of leaving, not the place you leave for. -->
-- [ ] C) arrival
-  <!-- feedback: 'arrival' is the moment of reaching a place, not the place itself. -->
-- [ ] D) journey
-  <!-- feedback: 'journey' is the whole trip from one place to another, not the place at the end of it. -->
+- [x] C) Present perfect with 'has' and past participle
+  <!-- feedback: 'Since' plus a starting point in the past calls for the present perfect, which links the action to the present. -->
+- [ ] D) Past simple with 'lived'
+  <!-- feedback: The past simple would place the whole period in the past and would not work with 'since'. -->
+- [ ] A) Future simple with 'will live'
+  <!-- feedback: 'Will' refers to the future and contradicts the fact that the living has already begun. -->
+- [ ] B) Past continuous with 'was living'
+  <!-- feedback: The past continuous describes an action in progress at a past moment, not a continuing period. -->
 
 ### Explicacion Pedagogica
-The word 'destination' is used to describe the place to which someone or something is going or being sent. This is an important vocabulary word in English.
+Time markers decide the tense: 'since' and 'for' with the present perfect, 'yesterday' and 'last' with the past simple, 'tomorrow' with a future form.
+---
+## Question 3 [D4]
+**ID:** CR-ING-11-2026-W15-repaso-p2-v3
+**Bloom:** Analyze
+**EJE:** Linguistic Competence
+**Expected_Success:** 0.8
+**Contexto:** A shop sign reads: 'The store is closing at eight on Saturdays.'
+
+### Enunciado
+Why does the sign use the present simple rather than the future simple?
+
+### Opciones
+- [x] C) The closing time is a fixed arrangement, not a single future event
+  <!-- feedback: Scheduled arrangements are stated with the present simple because they are treated as fixed parts of the weekly routine. -->
+- [ ] D) The sign writer did not know the future simple
+  <!-- feedback: The present simple is a deliberate choice here rather than a symptom of a gap in the writer's grammar. -->
+- [ ] A) The present simple is always more polite
+  <!-- feedback: Register is a separate question, and both forms can be polite or impolite. -->
+- [ ] B) The sign describes a past habit
+  <!-- feedback: A weekly schedule extends into the future, so this is not a description of the past. -->
+
+### Explicacion Pedagogica
+English uses the present simple for timetables, schedules and shift patterns. Recognising this use explains why signs and timetables rarely use 'will'.
 ---
 ## Question 4 [D4]
-**ID:** CR-ING-11-2026-W15-repaso-p2-001-MASTERY-bundle-v4
-**Bloom:** Understand
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**ID:** CR-ING-11-2026-W15-repaso-p2-v4
+**Bloom:** Apply
+**EJE:** Linguistic Competence
+**Expected_Success:** 0.8
+**Contexto:** A student writes: 'The teacher explained us the grammar yesterday.'
 
 ### Enunciado
-What is the English word for: "Suitcases or other bags in which to pack personal belongings for traveling."
+Which sentence corrects the error?
 
 ### Opciones
-- [x] B) luggage
-  <!-- feedback: 'luggage' is the collective word for the suitcases and bags you pack for a trip. -->
-- [ ] A) ticket
-  <!-- feedback: 'ticket' is the document you buy that admits you to the journey. -->
-- [ ] C) flight
-  <!-- feedback: 'flight' is the plane or the scheduled trip itself, not the bags you carry. -->
-- [ ] D) reservation
-  <!-- feedback: 'reservation' is the booking you hold for a seat or a room. -->
+- [x] A) The teacher explained the grammar to us yesterday.
+  <!-- feedback: 'Explain' requires the thing explained as a direct object and the person told after 'to', so the order is correct here. -->
+- [ ] B) The teacher explained us the grammar to yesterday.
+  <!-- feedback: 'To' belongs before the person, not after the noun, so that placement is impossible. -->
+- [ ] C) The teacher explained to us grammar the yesterday.
+  <!-- feedback: English does not place an article before the indirect object in this structure. -->
+- [ ] D) The teacher explained the us grammar yesterday.
+  <!-- feedback: 'Explain' is not a transitive verb that allows an object pronoun in the direct object position. -->
 
 ### Explicacion Pedagogica
-The word 'luggage' is used to describe suitcases or other bags in which to pack personal belongings for traveling. This is an important vocabulary word in English.
+A handful of verbs, including 'explain', 'suggest', 'describe' and 'offer', take an indirect object with 'to'. Their order is a fixed pattern that Spanish speakers must learn separately from the general rule about object pronouns.
 ---
-## Question 5 [D5]
-**ID:** CR-ING-11-2026-W15-repaso-p2-001-MASTERY-bundle-v5
+## Question 5 [D4]
+**ID:** CR-ING-11-2026-W15-repaso-p2-v5
 **Bloom:** Understand
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**EJE:** Linguistic Competence
+**Expected_Success:** 0.8
+**Contexto:** A notice says: 'Students are required to bring identification on the day of the exam.'
 
 ### Enunciado
-What is the English word for: "A traveler on a public or private conveyance other than the driver, pilot, or crew."
+What is the function of 'are required to' in this sentence?
 
 ### Opciones
-- [x] B) passenger
-  <!-- feedback: 'passenger' is anyone travelling on a vehicle who is not the driver, the pilot or the crew. -->
-- [ ] A) pedestrian
-  <!-- feedback: 'pedestrian' is a person who travels on foot, not on a bus, a train or a plane. -->
-- [ ] C) commuter
-  <!-- feedback: 'commuter' is someone who travels regularly between home and work, a narrower idea than passenger. -->
-- [ ] D) tourist
-  <!-- feedback: 'tourist' is defined by travelling for pleasure and may also be the driver of a rented car; 'passenger' covers every rider who is not crew. -->
+- [x] D) It expresses an obligation imposed on the students
+  <!-- feedback: A passive plus an infinitive after 'to' is the standard way of stating a formal requirement. -->
+- [ ] A) It expresses a possibility that students may do as they wish
+  <!-- feedback: A modal of possibility would describe permission rather than obligation. -->
+- [ ] B) It describes a past obligation that has ended
+  <!-- feedback: Nothing in the sentence refers to a past time. -->
+- [ ] C) It expresses a prohibition with a penalty
+  <!-- feedback: A prohibition would be expressed by 'must not' or 'are forbidden to'. -->
 
 ### Explicacion Pedagogica
-The word 'passenger' is used to describe a traveler on a public or private conveyance other than the driver, pilot, or crew. This is an important vocabulary word in English.
+Official language describes obligations through fixed passive constructions. 'Are required to', 'are expected to' and 'are permitted to' cover the three positions an official text must express.
 ---
-## Question 6 [D6]
-**ID:** CR-ING-11-2026-W15-repaso-p2-001-MASTERY-bundle-v6
-**Bloom:** Understand
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+## Question 6 [D5]
+**ID:** CR-ING-11-2026-W15-repaso-p2-v6
+**Bloom:** Analyze
+**EJE:** Linguistic Competence
+**Expected_Success:** 0.8
+**Contexto:** A paragraph reads: 'The bridge was repaired in 1998. It has remained in use ever since, although it now carries far more traffic than it was designed for.'
 
 ### Enunciado
-What is the English word for: "The place at a port, airport, or frontier where officials check incoming goods, travelers, or luggage."
+Which tense in the second sentence links the bridge to the present moment?
 
 ### Opciones
-- [x] D) customs
-  <!-- feedback: 'customs' is the office where officials check the goods, the luggage and the travellers entering a country. -->
-- [ ] A) security
-  <!-- feedback: 'security' refers to the staff and the measures that keep the airport safe, not to the goods check. -->
-- [ ] B) terminal
-  <!-- feedback: 'terminal' is the building where you wait for and board your flight. -->
-- [ ] C) gate
-  <!-- feedback: 'gate' is the door you board the plane through, not the place where officials check luggage. -->
+- [x] A) The present perfect in 'has remained'
+  <!-- feedback: 'Has remained' connects an event that began in the past to the fact that it is still true now. -->
+- [ ] B) The past simple in 'was designed'
+  <!-- feedback: The past simple in the final clause reports a past design and says nothing about the present. -->
+- [ ] C) The past continuous that the text does not use
+  <!-- feedback: Naming a form the text does not use cannot describe the tense present in the sentence. -->
+- [ ] D) The future simple implied by the design problem
+  <!-- feedback: No future form appears, and a design capacity is a fixed property rather than a prediction. -->
 
 ### Explicacion Pedagogica
-The word 'customs' is used to describe the place at a port, airport, or frontier where officials check incoming goods, travelers, or luggage. This is an important vocabulary word in English.
+A single sentence can contain several tenses serving different purposes. Identifying which one carries the present relevance is what tells the reader why the writer chose it.
 ---
 ## Question 7 [D5]
-**ID:** CR-ING-11-2026-W15-repaso-p2-001-MASTERY-bundle-v7
+**ID:** CR-ING-11-2026-W15-repaso-p2-v7
 **Bloom:** Apply
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**EJE:** Linguistic Competence
+**Expected_Success:** 0.8
+**Contexto:** A sentence reads: 'Not only did the delay affect the schedule, but it also raised the total cost.'
 
 ### Enunciado
-What is the English word for: "A document provided by an airline during check-in, giving a passenger permission to board the airplane."
+What does the structure of this sentence illustrate?
 
 ### Opciones
-- [x] C) boarding pass
-  <!-- feedback: 'boarding pass' is the slip the airline hands over at check-in that lets you board the plane. -->
-- [ ] A) visa
-  <!-- feedback: 'visa' is the official permission to enter and stay in a foreign country. -->
-- [ ] B) receipt
-  <!-- feedback: 'receipt' is the proof of payment for the ticket, not the document that lets you board. -->
-- [ ] D) brochure
-  <!-- feedback: 'brochure' is a small booklet with tourist information, not a travel document. -->
+- [x] D) An inversion with 'did' for emphasis, followed by a coordinated clause
+  <!-- feedback: A negative word at the start of the sentence triggers auxiliary inversion, which places 'did' before the subject. -->
+- [ ] A) A question with the auxiliary placed at the beginning
+  <!-- feedback: There is no wh-word and no answer is expected, so the sentence is not a question. -->
+- [ ] B) A passive sentence in the past simple
+  <!-- feedback: The subject performs the action, so the sentence is active rather than passive. -->
+- [ ] C) A relative clause modifying the word 'delay'
+  <!-- feedback: No relative pronoun appears anywhere in the sentence. -->
 
 ### Explicacion Pedagogica
-The word 'boarding pass' is used to describe a document provided by an airline during check-in, giving a passenger permission to board the airplane. This is an important vocabulary word in English.
+Inversion after a negative or restrictive adverb is a standard written pattern. It appears in formal and literary English to give emphasis to the first clause.
 ---
-## Question 8 [D6]
-**ID:** CR-ING-11-2026-W15-repaso-p2-001-MASTERY-bundle-v8
-**Bloom:** Apply
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+## Question 8 [D5]
+**ID:** CR-ING-11-2026-W15-repaso-p2-v8
+**Bloom:** Evaluate
+**EJE:** Linguistic Competence
+**Expected_Success:** 0.8
+**Contexto:** A student is asked to rewrite an informal sentence in a formal register. The original says: 'Hey, can you send me that file when you get a chance?'
 
 ### Enunciado
-What is the English word for: "The activity of visiting places of interest in a particular location."
+Which rewrite is formally correct?
 
 ### Opciones
-- [x] A) sightseeing
-  <!-- feedback: 'sightseeing' is visiting the places of interest of a location in order to look at them. -->
-- [ ] B) shopping
-  <!-- feedback: 'shopping' is buying things, which is a different activity from visiting sights. -->
-- [ ] C) hiking
-  <!-- feedback: 'hiking' is walking in the countryside along a trail, usually for exercise. -->
-- [ ] D) camping
-  <!-- feedback: 'camping' means spending the night outdoors in a tent. -->
+- [x] A) Could you please send me that file at your earliest convenience?
+  <!-- feedback: The modal 'could' plus 'please' and a formal noun phrase produce the polite register the task requires. -->
+- [ ] B) Can you send me that file right now, please?
+  <!-- feedback: 'Right now' is an urgent demand and lowers the register rather than raising it. -->
+- [ ] C) You will send me that file now.
+  <!-- feedback: 'You will' is a bare future instruction and sounds abrupt rather than courteous. -->
+- [ ] D) Send me that file whenever, thanks.
+  <!-- feedback: 'Whenever' and 'thanks' belong to casual speech and do not achieve formality. -->
 
 ### Explicacion Pedagogica
-The word 'sightseeing' is used to describe the activity of visiting places of interest in a particular location. This is an important vocabulary word in English.
+Formalising a sentence usually involves three moves: replacing the modal, softening the time expression and replacing informal nouns. Here only one option does all three.
 ---
 ## Question 9 [D5]
-**ID:** CR-ING-11-2026-W15-repaso-p2-001-MASTERY-bundle-v9
-**Bloom:** Apply
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**ID:** CR-ING-11-2026-W15-repaso-p2-v9
+**Bloom:** Understand
+**EJE:** Linguistic Competence
+**Expected_Success:** 0.75
+**Contexto:** A text reads: 'Rising sea levels have pushed several coastal communities inland, and the government has begun buying land to relocate them.'
 
 ### Enunciado
-What is the English word for: "A thing that is kept as a reminder of a person, place, or event."
+Why does the text use the present perfect in both clauses?
 
 ### Opciones
-- [x] A) souvenir
-  <!-- feedback: 'souvenir' is an object kept because it reminds you of a person, a place or an event. -->
-- [ ] B) gift
-  <!-- feedback: 'gift' is anything given to someone else; a souvenir is kept by the buyer as a reminder. -->
-- [ ] C) award
-  <!-- feedback: 'award' is a distinction given for a merit or an achievement. -->
-- [ ] D) prize
-  <!-- feedback: 'prize' is what is won in a competition, not an object bought to remember a trip. -->
+- [x] A) The actions began in the past and their effects continue now
+  <!-- feedback: The present perfect links past developments to a situation the writer is commenting on now. -->
+- [ ] B) Both actions will definitely happen in the future
+  <!-- feedback: 'Will' would refer to future events, and the text describes what has already begun. -->
+- [ ] C) Both actions happened at a specific moment in the past
+  <!-- feedback: The past simple would require a stated finished time, which the text does not give. -->
+- [ ] D) The text is describing a repeated habit
+  <!-- feedback: A repeated habit would need the present simple, not the present perfect. -->
 
 ### Explicacion Pedagogica
-The word 'souvenir' is used to describe a thing that is kept as a reminder of a person, place, or event. This is an important vocabulary word in English.
+The present perfect is chosen for relevance to the present, and in news reports on current events it appears constantly. The test is whether the writer is describing a result that still stands.
 ---
-## Question 10 [D6]
-**ID:** CR-ING-11-2026-W15-repaso-p2-001-MASTERY-bundle-v10
-**Bloom:** Apply
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
-
-### Enunciado
-What is the English word for: "A period of time by which something is late or postponed."
-
-### Opciones
-- [x] C) delay
-  <!-- feedback: 'delay' is the extra period of time by which something becomes late or is postponed. -->
-- [ ] A) cancellation
-  <!-- feedback: 'cancellation' ends the booking or the trip altogether rather than pushing it back. -->
-- [ ] B) departure
-  <!-- feedback: 'departure' is the time a vehicle is scheduled to leave, not a postponement. -->
-- [ ] D) arrival
-  <!-- feedback: 'arrival' is the moment you reach the destination, not the waiting time. -->
-
-### Explicacion Pedagogica
-The word 'delay' is used to describe a period of time by which something is late or postponed. This is an important vocabulary word in English.
----
-## Question 11 [D7]
-**ID:** CR-ING-11-2026-W15-repaso-p2-001-MASTERY-bundle-v11
-**Bloom:** Apply
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
-
-### Enunciado
-What is the English word for: "The act of reporting one's presence and registering, typically at an airport or hotel."
-
-### Opciones
-- [x] A) check-in
-  <!-- feedback: 'check-in' is reporting your presence at the airport or the hotel and registering. -->
-- [ ] B) check-out
-  <!-- feedback: 'check-out' is the opposite moment: leaving the hotel and settling the bill. -->
-- [ ] C) booking
-  <!-- feedback: 'booking' is reserving the room or the seat in advance, which happens before you arrive. -->
-- [ ] D) reservation
-  <!-- feedback: 'reservation' is the record of that booking, not the act of reporting your presence. -->
-
-### Explicacion Pedagogica
-The word 'check-in' is used to describe the act of reporting one's presence and registering, typically at an airport or hotel. This is an important vocabulary word in English.
----
-## Question 12 [D8]
-**ID:** CR-ING-11-2026-W15-repaso-p2-001-MASTERY-bundle-v12
-**Bloom:** Apply
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
-
-### Enunciado
-What is the English word for: "A period of rest or waiting before a further stage in a journey."
-
-### Opciones
-- [x] D) layover
-  <!-- feedback: 'layover' is the rest or the waiting period between two stages of a journey. -->
-- [ ] A) stopover
-  <!-- feedback: 'stopover' is a break in a journey during which you leave the vehicle, often overnight. -->
-- [ ] B) transfer
-  <!-- feedback: 'transfer' is the change from one vehicle or flight to another, the act rather than the waiting time. -->
-- [ ] C) transit
-  <!-- feedback: 'transit' means passage through a place or the system that carries people, not the pause itself. -->
-
-### Explicacion Pedagogica
-The word 'layover' is used to describe a period of rest or waiting before a further stage in a journey. This is an important vocabulary word in English.
----
-## Question 13 [D7]
-**ID:** CR-ING-11-2026-W15-repaso-p2-001-MASTERY-bundle-v13
+## Question 10 [D5]
+**ID:** CR-ING-11-2026-W15-repaso-p2-v10
 **Bloom:** Analyze
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**EJE:** Linguistic Competence
+**Expected_Success:** 0.75
+**Contexto:** A student writes: 'The results of the experiment were surprising for the researchers.'
 
 ### Enunciado
-What is the English word for: "A system of money in general use in a particular country."
+What is wrong with the preposition in this sentence?
 
 ### Opciones
-- [x] B) currency
-  <!-- feedback: 'currency' is the whole money system in general use in a particular country. -->
-- [ ] A) coin
-  <!-- feedback: 'coin' is a single round piece of metal money, only one part of a currency. -->
-- [ ] C) banknote
-  <!-- feedback: 'banknote' is a paper note, again only one part of a country's money system. -->
-- [ ] D) cash
-  <!-- feedback: 'cash' is money in coins and notes seen as a form of payment, not the system a country has. -->
+- [x] D) 'For' should be 'to', because the surprise was experienced by the researchers
+  <!-- feedback: In the passive, the person who experiences the surprise is the recipient of the action, and 'to' marks that role. -->
+- [ ] A) 'For' is correct and the sentence needs no change
+  <!-- feedback: The preposition is precisely what the sentence gets wrong. -->
+- [ ] B) 'Surprising' should be a noun rather than an adjective
+  <!-- feedback: The adjective describes the results, and its form is not the issue. -->
+- [ ] C) 'Were' should be 'have been' because the results are still surprising
+  <!-- feedback: A present perfect passive would change the time reference, which the sentence does not need. -->
 
 ### Explicacion Pedagogica
-The word 'currency' is used to describe a system of money in general use in a particular country. This is an important vocabulary word in English.
+Adjectives ending in 'ing' and 'ed' take different prepositions, and the choice changes the meaning. This pair, 'surprising to someone' and 'surprised by something', is one of the most frequent tested points in exams.
 ---
-## Question 14 [D8]
-**ID:** CR-ING-11-2026-W15-repaso-p2-001-MASTERY-bundle-v14
+## Question 11 [D6]
+**ID:** CR-ING-11-2026-W15-repaso-p2-v11
+**Bloom:** Evaluate
+**EJE:** Linguistic Competence
+**Expected_Success:** 0.75
+**Contexto:** A sentence reads: 'It was in the small village that I first understood why the river mattered so much.'
+
+### Enunciado
+What is the function of this construction?
+
+### Opciones
+- [x] A) It emphasises the element in the clause where it appears
+  <!-- feedback: A cleft sentence splits the clause in order to place unusual emphasis on the word 'it' refers back to. -->
+- [ ] B) It makes a passive sentence out of an active one
+  <!-- feedback: No passive structure is present; the sentence is active in both halves. -->
+- [ ] C) It introduces a condition that must be satisfied
+  <!-- feedback: There is no conditional form in the sentence. -->
+- [ ] D) It reports what somebody said about the river
+  <!-- feedback: No reporting verb such as 'said' appears in either half. -->
+
+### Explicacion Pedagogica
+Cleft sentences exist to shift emphasis without changing the meaning. They are frequent in spoken English for contrast, and in academic English when a particular factor must be highlighted.
+---
+## Question 12 [D6]
+**ID:** CR-ING-11-2026-W15-repaso-p2-v12
 **Bloom:** Analyze
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**EJE:** Linguistic Competence
+**Expected_Success:** 0.75
+**Contexto:** A sentence reads: 'Rarely have researchers examined this question in rural settings.'
 
 ### Enunciado
-What is the English word for: "A book of information about a place designed for the use of visitors or tourists."
+Why has the auxiliary 'have' been moved to the front?
 
 ### Opciones
-- [x] A) guidebook
-  <!-- feedback: 'guidebook' is a book of information about a place written for the use of visitors. -->
-- [ ] B) map
-  <!-- feedback: 'map' is a drawing of the area, not a book of information. -->
-- [ ] C) dictionary
-  <!-- feedback: 'dictionary' explains the words of a language, not the places of a region. -->
-- [ ] D) encyclopedia
-  <!-- feedback: 'encyclopedia' covers all branches of knowledge, not one destination for tourists. -->
+- [x] C) A negative word such as 'rarely' opens the sentence and requires inversion
+  <!-- feedback: 'Rarely' is a negative adverb, and placing it at the start obliges the sentence to invert the auxiliary ahead of the subject. -->
+- [ ] D) The auxiliary is moved whenever the subject is plural
+  <!-- feedback: Plural subjects do not cause inversion on their own. -->
+- [ ] A) English inverts after a comma in any sentence
+  <!-- feedback: No comma appears at the point where inversion occurs, and punctuation alone never triggers it. -->
+- [ ] B) The tense of the sentence is not otherwise visible
+  <!-- feedback: Inversion is a structural requirement, not a substitute for showing the tense. -->
 
 ### Explicacion Pedagogica
-The word 'guidebook' is used to describe a book of information about a place designed for the use of visitors or tourists. This is an important vocabulary word in English.
+Inversion is triggered by meaning, not by grammar alone. Adverbs of frequency, degree and negative restriction placed at the beginning of a sentence require the auxiliary to move.
 ---
-## Question 15 [D7]
-**ID:** CR-ING-11-2026-W15-repaso-p2-001-MASTERY-bundle-v15
+## Question 13 [D6]
+**ID:** CR-ING-11-2026-W15-repaso-p2-v13
+**Bloom:** Understand
+**EJE:** Linguistic Competence
+**Expected_Success:** 0.75
+**Contexto:** A sentence reads: 'Had the warning been issued earlier, most of the damage could have been avoided.'
+
+### Enunciado
+What kind of sentence is this?
+
+### Opciones
+- [x] B) A third conditional with the if-clause inverted and the 'if' omitted
+  <!-- feedback: Past perfect plus 'could have been' describes an unreal past situation, and the inversion is a formal alternative to beginning with 'if'. -->
+- [ ] C) A zero conditional describing a rule that always holds
+  <!-- feedback: A zero conditional would use present forms in both halves. -->
+- [ ] D) A first conditional about a possible future event
+  <!-- feedback: A first conditional would use a present tense condition and 'will' or 'could' in the result. -->
+- [ ] A) A question about whether a warning was issued
+  <!-- feedback: The clause is a condition, not a question, and no inversion of question formation appears. -->
+
+### Explicacion Pedagogica
+Formal English allows the 'if' of a conditional to be dropped and the subject and auxiliary to swap. Recognising the inverted form is necessary to read official documents and formal writing.
+---
+## Question 14 [D6]
+**ID:** CR-ING-11-2026-W15-repaso-p2-v14
+**Bloom:** Apply
+**EJE:** Linguistic Competence
+**Expected_Success:** 0.75
+**Contexto:** A student writes: 'She suggested me to change the plan.'
+
+### Enunciado
+Which sentence is correct?
+
+### Opciones
+- [x] B) She suggested that I change the plan.
+  <!-- feedback: 'Suggest' takes a that-clause with a bare infinitive or a subjunctive form, and the subject of that clause supplies the actor. -->
+- [ ] C) She suggested me to change the plan.
+  <!-- feedback: 'Suggest' does not take an indirect object followed by an infinitive. -->
+- [ ] D) She suggested for me to change the plan.
+  <!-- feedback: The preposition 'for' cannot introduce an infinitive after this verb. -->
+- [ ] A) She suggested I to change the plan.
+  <!-- feedback: An infinitive cannot follow a subject without the marker 'to', which is precisely the error here. -->
+
+### Explicacion Pedagogica
+A group of verbs, including 'suggest', 'recommend', 'insist' and 'demand', rejects the pattern of an object followed by an infinitive. They require a that-clause or a gerund, and using the wrong pattern is one of the most persistent errors for Spanish speakers.
+---
+## Question 15 [D6]
+**ID:** CR-ING-11-2026-W15-repaso-p2-v15
 **Bloom:** Analyze
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**EJE:** Linguistic Competence
+**Expected_Success:** 0.75
+**Contexto:** A sentence reads: 'The report, together with the appendices, was submitted late.'
 
 ### Enunciado
-What is the English word for: "A bag with shoulder straps that allow it to be carried on one's back."
+Why is the verb in the singular?
 
 ### Opciones
-- [x] B) backpack
-  <!-- feedback: 'backpack' has shoulder straps and is carried on the back. -->
-- [ ] A) suitcase
-  <!-- feedback: 'suitcase' is a case with a handle that is pulled along, not one worn on the back. -->
-- [ ] C) briefcase
-  <!-- feedback: 'briefcase' is a flat case for documents that you carry by hand at work. -->
-- [ ] D) handbag
-  <!-- feedback: 'handbag' is a small bag held in the hand, usually for personal items. -->
+- [x] C) The subject phrase is a single unit whose closest noun is singular
+  <!-- feedback: English treats the phrase 'the report together with the appendices' as one subject, and agreement follows the head noun, which is 'report'. -->
+- [ ] D) Two singular objects always take a singular verb
+  <!-- feedback: Two singular objects do not determine agreement, which depends on the subject rather than on an object. -->
+- [ ] A) The passive always uses the singular
+  <!-- feedback: A passive can agree with any number, as in 'the reports were submitted late'. -->
+- [ ] B) The word 'together' cancels the plural meaning
+  <!-- feedback: The preposition 'together' joins the elements and does not affect grammatical number. -->
 
 ### Explicacion Pedagogica
-The word 'backpack' is used to describe a bag with shoulder straps that allow it to be carried on one's back. This is an important vocabulary word in English.
+Subject-verb agreement follows the head noun of the subject, not the nearest noun to the verb. Expressions such as 'together with' and 'as well as' are standard traps because they place a plural noun nearest the verb while the head remains singular.
 ---
-## Question 16 [D8]
-**ID:** CR-ING-11-2026-W15-repaso-p2-001-MASTERY-bundle-v16
+## Question 16 [D7]
+**ID:** CR-ING-11-2026-W15-repaso-p2-v16
 **Bloom:** Analyze
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**EJE:** Linguistic Competence
+**Expected_Success:** 0.7
+**Contexto:** A sentence reads: 'What the study does not measure matters as much as what it measures.'
 
 ### Enunciado
-What is the English word for: "In or to a foreign country, especially one across the sea."
+What structure does this sentence open with?
 
 ### Opciones
-- [x] B) overseas
-  <!-- feedback: 'overseas' means in or to a foreign country, especially one across the sea. -->
-- [ ] A) domestic
-  <!-- feedback: 'domestic' means inside the same country, which is the opposite of overseas. -->
-- [ ] C) local
-  <!-- feedback: 'local' means belonging to a small area nearby, not to a foreign country. -->
-- [ ] D) national
-  <!-- feedback: 'national' means concerning the whole nation and says nothing about being abroad. -->
+- [x] C) A nominal relative clause in object position, functioning as the subject of the main clause
+  <!-- feedback: 'What' with no relative pronoun forms a nominal clause, and because it occupies the subject position the whole clause rather than 'matters' carries the verb. -->
+- [ ] D) A subordinate adverbial clause introduced by a conjunction
+  <!-- feedback: No conjunction such as 'because' or 'although' introduces the opening clause. -->
+- [ ] A) A relative clause defining the noun 'study' with commas
+  <!-- feedback: The clause is not a defining relative because no relative pronoun and no commas are present. -->
+- [ ] B) An emphatic cleft sentence with a dummy subject
+  <!-- feedback: There is no dummy subject; the dummy pronoun 'it' does not appear in the sentence. -->
 
 ### Explicacion Pedagogica
-The word 'overseas' is used to describe in or to a foreign country, especially one across the sea. This is an important vocabulary word in English.
+Nominal relative clauses beginning with 'what', 'whatever' and 'whichever' function like noun phrases. In subject position they take the verb of the main clause, which is a structure Spanish speakers must learn separately.
 ---
-## Question 17 [D9]
-**ID:** CR-ING-11-2026-W15-repaso-p2-001-MASTERY-bundle-v17
+## Question 17 [D7]
+**ID:** CR-ING-11-2026-W15-repaso-p2-v17
 **Bloom:** Evaluate
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**EJE:** Linguistic Competence
+**Expected_Success:** 0.7
+**Contexto:** A student writes: 'No sooner the bus arrived than the exam began.'
 
 ### Enunciado
-What is the English word for: "An estimate of income and expenditure for a set period of time."
+Which sentence corrects the error?
 
 ### Opciones
-- [x] B) budget
-  <!-- feedback: 'budget' is an estimate of income and expenditure planned for a set period. -->
-- [ ] A) expense
-  <!-- feedback: 'expense' is a single amount of money that is spent, not the plan for a whole period. -->
-- [ ] C) cost
-  <!-- feedback: 'cost' is what one item or one service costs, again not an estimate for a period. -->
-- [ ] D) price
-  <!-- feedback: 'price' is the sum a customer pays for one product; a budget covers income and spending together. -->
+- [x] D) No sooner had the bus arrived than the exam began.
+  <!-- feedback: 'No sooner' inverts the auxiliary and places the past perfect before the subject, since the arrival precedes the other event. -->
+- [ ] A) No sooner the bus arrived than the exam began already.
+  <!-- feedback: Adding 'already' does not supply the missing auxiliary and leaves the structure incomplete. -->
+- [ ] B) No sooner had the bus arrive than the exam began.
+  <!-- feedback: 'Arrive' would be the bare form and cannot fill the inverted auxiliary position. -->
+- [ ] C) No sooner did the bus arrive than the exam had begun.
+  <!-- feedback: 'Had begun' would place the exam before the bus, which reverses the intended order. -->
 
 ### Explicacion Pedagogica
-The word 'budget' is used to describe an estimate of income and expenditure for a set period of time. This is an important vocabulary word in English.
+The correlative pair 'no sooner' plus 'than' follows the same inversion pattern as 'hardly' and 'scarcely'. Learning the pattern as a set phrase is more reliable than reasoning about it case by case.
 ---
-## Question 18 [D10]
-**ID:** CR-ING-11-2026-W15-repaso-p2-001-MASTERY-bundle-v18
-**Bloom:** Evaluate
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+## Question 18 [D7]
+**ID:** CR-ING-11-2026-W15-repaso-p2-v18
+**Bloom:** Understand
+**EJE:** Linguistic Competence
+**Expected_Success:** 0.7
+**Contexto:** A sentence reads: 'The proposal, having been reviewed twice, was finally approved.'
 
 ### Enunciado
-What is the English word for: "A practice or arrangement by which a company or government agency provides a guarantee of compensation for specified loss, damage, illness, or death in return for payment of a premium."
+What does the participial phrase in the sentence add?
 
 ### Opciones
-- [x] A) insurance
-  <!-- feedback: 'insurance' is the arrangement in which a company pays compensation for a loss in exchange for a premium. -->
-- [ ] B) warranty
-  <!-- feedback: 'warranty' is the maker's promise to repair or replace a faulty product, normally free of charge. -->
-- [ ] C) guarantee
-  <!-- feedback: 'guarantee' is a general promise of quality and does not involve paying a premium. -->
-- [ ] D) policy
-  <!-- feedback: 'policy' is the written document that states what an insurance contract covers. -->
+- [x] B) An accompanying fact about the sequence of events before the main action
+  <!-- feedback: A perfect participle in a phrase set off by commas describes an event completed before the main clause, adding temporal background. -->
+- [ ] C) A reason why the proposal was rejected
+  <!-- feedback: The sentence states that the proposal was approved, so rejection is contradicted. -->
+- [ ] D) A condition for the approval of the proposal
+  <!-- feedback: A condition would require a conditional form, which is absent from the phrase. -->
+- [ ] A) A second subject for the main verb
+  <!-- feedback: The subject of the main clause remains 'the proposal', and a participle cannot act as a second subject. -->
 
 ### Explicacion Pedagogica
-The word 'insurance' is used to describe a practice or arrangement by which a company or government agency provides a guarantee of compensation for specified loss, damage, illness, or death in return for payment of a premium. This is an important vocabulary word in English.
+Perfect participial phrases placed after the subject provide compressed background information about earlier events. They allow an author to add a completed action without writing another clause.
 ---
-## Question 19 [D9]
-**ID:** CR-ING-11-2026-W15-repaso-p2-001-MASTERY-bundle-v19
+## Question 19 [D7]
+**ID:** CR-ING-11-2026-W15-repaso-p2-v19
 **Bloom:** Evaluate
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**EJE:** Linguistic Competence
+**Expected_Success:** 0.7
+**Contexto:** A text reads: 'There were several reasons for the delay. Chief among them was the failure to deliver the equipment on time.'
 
 ### Enunciado
-What is the English word for: "Treatment with a vaccine to produce immunity against a disease."
+Which sentence uses the formal pattern of listing that the first sentence announces?
 
 ### Opciones
-- [x] D) vaccination
-  <!-- feedback: 'vaccination' is the treatment with a vaccine that makes the body immune to a disease. -->
-- [ ] A) medication
-  <!-- feedback: 'medication' is a drug taken to treat an illness, not to prevent one. -->
-- [ ] B) prescription
-  <!-- feedback: 'prescription' is the written order that authorises a medicine, not the treatment itself. -->
-- [ ] C) infection
-  <!-- feedback: 'infection' is the disease itself, the opposite of the protection a vaccination gives. -->
+- [x] D) Chief among them was the failure to deliver the equipment on time.
+  <!-- feedback: 'Chief among them' echoes the formal listing language and names the most significant item without a verb of ranking. -->
+- [ ] A) The most important reason was the equipment that failed on time.
+  <!-- feedback: 'The most important reason was' is informal in this register and drops the formal correlative echo. -->
+- [ ] B) Equipment was the main reason and it failed on time.
+  <!-- feedback: 'Equipment was the main reason' uses a colloquial noun subject and a bare verb, which belongs to speech. -->
+- [ ] C) They failed to deliver it on time, which was the main thing.
+  <!-- feedback: 'They failed to deliver it' refers to no group named in the sentence and reads as spoken commentary. -->
 
 ### Explicacion Pedagogica
-The word 'vaccination' is used to describe treatment with a vaccine to produce immunity against a disease. This is an important vocabulary word in English.
+Formal listing has conventional patterns, and the nominative absolute with 'chief among them' is one of them. Choosing the pattern that matches the register is what the exercise tests.
 ---
-## Question 20 [D10]
-**ID:** CR-ING-11-2026-W15-repaso-p2-001-MASTERY-bundle-v20
-**Bloom:** Evaluate
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+## Question 20 [D7]
+**ID:** CR-ING-11-2026-W15-repaso-p2-v20
+**Bloom:** Analyze
+**EJE:** Linguistic Competence
+**Expected_Success:** 0.7
+**Contexto:** A student writes: 'He asked me that what I could help him with.'
 
 ### Enunciado
-What is the English word for: "Extreme tiredness and other physical effects felt by a person after a long flight across several time zones."
+Which sentence is correct?
 
 ### Opciones
-- [x] C) jet lag
-  <!-- feedback: 'jet lag' is the tiredness and the disturbed sleep caused by crossing several time zones on a flight. -->
-- [ ] A) fatigue
-  <!-- feedback: 'fatigue' is tiredness that can come from any long effort, not specifically from a flight. -->
-- [ ] B) exhaustion
-  <!-- feedback: 'exhaustion' is the extreme form of tiredness after hard work or a lack of sleep. -->
-- [ ] D) insomnia
-  <!-- feedback: 'insomnia' is the inability to fall asleep, which has many causes besides travel. -->
+- [x] B) He asked me what I could help him with.
+  <!-- feedback: The verb 'ask' takes an embedded question introduced directly by 'what', with no 'that' and with the subject before the verb. -->
+- [ ] C) He asked me that what I could help him with.
+  <!-- feedback: 'Ask' does not introduce an embedded clause with 'that', which would produce a statement rather than a question. -->
+- [ ] D) He asked to me what I could help him with.
+  <!-- feedback: 'Ask' takes its indirect object without 'to' when a clause follows, so the preposition is wrong. -->
+- [ ] A) He asked me what could I help him with.
+  <!-- feedback: An embedded question in English keeps the subject before the verb, unlike a direct question. -->
 
 ### Explicacion Pedagogica
-The word 'jet lag' is used to describe extreme tiredness and other physical effects felt by a person after a long flight across several time zones. This is an important vocabulary word in English.
+Embedded questions follow two rules: no 'do' auxiliary in the ordinary case, and normal declarative word order. Both rules are tested here, and together they account for most of the errors seen in this area.

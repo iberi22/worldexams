@@ -24,459 +24,460 @@ bundle_index: 1
 ## Question 1 [D3]
 **ID:** ES-ING-11-2026-W12-reported-speech-questions-commands-001-MASTERY-bundle-v1
 **Bloom:** Remember
-**EJE:** Lexico
+**EJE:** Morfosintaxis
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** A student repeats a classmate's question in a written report.
 
 ### Enunciado
-What is the English word for: "A place where you live or stay on holiday."
+Which sentence correctly reports the question 'Do you speak Spanish'.
 
 ### Opciones
-- [x] B) accommodation
-  <!-- feedback: Correct! 'Accommodation' is the word for a place where you live or stay when you are on holiday. -->
-- [ ] A) transportation
-  <!-- feedback: 'Transportation' is the way you move from one place to another (buses, trains, planes), not the place where you sleep. -->
-- [ ] C) entertainment
-  <!-- feedback: 'Entertainment' is the fun or activities you enjoy, not the building or room where you stay. -->
-- [ ] D) currency
-  <!-- feedback: 'Currency' is the money of a country, which has nothing to do with where you sleep. -->
+- [x] A) She asked if I spoke Spanish.
+  <!-- feedback: Correct. Reported yes or no questions use if and backshift the verb, so speak becomes spoke. -->
+- [ ] B) She asked if I speak Spanish.
+  <!-- feedback: The verb is not backshifted: in reported speech the present speak must become the past spoke. -->
+- [ ] C) She asked did I speak Spanish.
+  <!-- feedback: The auxiliary did is kept, but reported questions drop do, does and did completely. -->
+- [ ] D) She asked if did I speak Spanish.
+  <!-- feedback: If already marks the reported question, so the auxiliary did cannot also introduce it. -->
 
 ### Explicacion Pedagogica
-The word 'accommodation' is used to describe a place where you live or stay on holiday. This is an important vocabulary word in English.
+In reported yes or no questions, if or whether replaces the direct question, the auxiliary do disappears and the verb shifts one tense back.
 ---
-## Question 2 [D4]
+## Question 2 [D3]
 **ID:** ES-ING-11-2026-W12-reported-speech-questions-commands-001-MASTERY-bundle-v2
 **Bloom:** Remember
-**EJE:** Lexico
+**EJE:** Morfosintaxis
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** A journalist writes down a question that a witness asked earlier.
 
 ### Enunciado
-What is the English word for: "A detailed plan or route of a journey."
+Which sentence correctly reports the question 'Where does she work'.
 
 ### Opciones
-- [x] B) itinerary
-  <!-- feedback: Correct! An 'itinerary' is a detailed plan of a journey, listing the places and times along the route. -->
-- [ ] A) baggage
-  <!-- feedback: 'Baggage' is the suitcases and bags you travel with, not the written plan of the trip. -->
-- [ ] C) destination
-  <!-- feedback: 'Destination' is the place you are going to, a single place, while an itinerary is the whole route plan. -->
-- [ ] D) passport
-  <!-- feedback: 'Passport' is the travel document that lets you cross a border, not the schedule of your trip. -->
+- [ ] A) He asked where did she work.
+  <!-- feedback: In reported questions the auxiliary did must be removed, not placed before the subject. -->
+- [x] B) He asked where she worked.
+  <!-- feedback: Correct. The wh-word keeps its place, the auxiliary does is dropped and work becomes worked. -->
+- [ ] C) He asked where does she work.
+  <!-- feedback: The present does is not backshifted and also keeps the wrong auxiliary. -->
+- [ ] D) He asked where she works.
+  <!-- feedback: The verb stays in the present, but reported speech needs the past worked. -->
 
 ### Explicacion Pedagogica
-The word 'itinerary' is used to describe a detailed plan or route of a journey. This is an important vocabulary word in English.
+A reported wh-question keeps the question word but returns to normal word order, so does is dropped and the verb is backshifted.
 ---
 ## Question 3 [D3]
 **ID:** ES-ING-11-2026-W12-reported-speech-questions-commands-001-MASTERY-bundle-v3
 **Bloom:** Understand
-**EJE:** Lexico
+**EJE:** Morfosintaxis
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** A teacher repeats an instruction that was given in class.
 
 ### Enunciado
-What is the English word for: "The place to which someone or something is going or being sent."
+Which sentence correctly reports the command 'Close the window'.
 
 ### Opciones
-- [x] A) destination
-  <!-- feedback: Correct! A 'destination' is the place someone or something is going or being sent to. -->
-- [ ] B) departure
-  <!-- feedback: 'Departure' is the action of leaving, the opposite end of the journey from the destination. -->
-- [ ] C) arrival
-  <!-- feedback: 'Arrival' is the act of getting there; the place you arrive at is the destination. -->
-- [ ] D) journey
-  <!-- feedback: 'Journey' is the whole trip from start to finish, not the place you are heading to. -->
+- [ ] A) The teacher told us close the window.
+  <!-- feedback: The verb close needs to before it, because told is followed by object and to-infinitive. -->
+- [ ] B) The teacher said us to close the window.
+  <!-- feedback: The verb say cannot take a person as its object; use told us. -->
+- [x] C) The teacher told us to close the window.
+  <!-- feedback: Correct. Reported commands use tell plus an object and a to-infinitive. -->
+- [ ] D) The teacher asked us close the window.
+  <!-- feedback: Asked us close lacks to, and asked usually reports a request rather than an order. -->
 
 ### Explicacion Pedagogica
-The word 'destination' is used to describe the place to which someone or something is going or being sent. This is an important vocabulary word in English.
+An affirmative command becomes tell plus object plus to plus the base verb, so Close the window turns into told us to close the window.
 ---
 ## Question 4 [D4]
 **ID:** ES-ING-11-2026-W12-reported-speech-questions-commands-001-MASTERY-bundle-v4
 **Bloom:** Understand
-**EJE:** Lexico
+**EJE:** Morfosintaxis
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** A safety officer repeats a warning that was written on a sign.
 
 ### Enunciado
-What is the English word for: "Suitcases or other bags in which to pack personal belongings for traveling."
+Which sentence correctly reports the negative command 'Do not touch the wires'.
 
 ### Opciones
-- [x] A) luggage
-  <!-- feedback: Correct! 'Luggage' means suitcases and bags in which you pack your belongings for a trip. -->
-- [ ] B) ticket
-  <!-- feedback: 'Ticket' is the paper that gives you the right to travel on a bus, train or plane, not the bag itself. -->
-- [ ] C) flight
-  <!-- feedback: 'Flight' is the journey by plane, or the plane itself; the bags are called luggage. -->
-- [ ] D) reservation
-  <!-- feedback: 'Reservation' is the booking you make for a seat or a room, not the bags you pack. -->
+- [ ] A) She told him to not touch the wires.
+  <!-- feedback: Splitting the infinitive as to not touch is less standard than not to touch. -->
+- [ ] B) She said him not to touch the wires.
+  <!-- feedback: The verb say cannot take the object him; the correct reporting verb is told. -->
+- [ ] C) She told him do not touch the wires.
+  <!-- feedback: The direct form do not cannot survive inside a reported command. -->
+- [x] D) She told him not to touch the wires.
+  <!-- feedback: Correct. A negative command uses not before the to-infinitive: not to touch. -->
 
 ### Explicacion Pedagogica
-The word 'luggage' is used to describe suitcases or other bags in which to pack personal belongings for traveling. This is an important vocabulary word in English.
+Negative commands are reported with tell plus object plus not to plus the base verb, placing not before the infinitive.
 ---
-## Question 5 [D5]
+## Question 5 [D3]
 **ID:** ES-ING-11-2026-W12-reported-speech-questions-commands-001-MASTERY-bundle-v5
 **Bloom:** Understand
-**EJE:** Lexico
+**EJE:** Morfosintaxis
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** A manager reports an employee's question to the rest of the team.
 
 ### Enunciado
-What is the English word for: "A traveler on a public or private conveyance other than the driver, pilot, or crew."
+Which sentence correctly reports the question 'Why are you late'.
 
 ### Opciones
-- [x] C) passenger
-  <!-- feedback: Correct! A 'passenger' is a person who travels on a vehicle without being the driver, pilot or crew. -->
-- [ ] A) pedestrian
-  <!-- feedback: 'Pedestrian' is someone who travels on foot, so they are not on a conveyance at all. -->
-- [ ] B) commuter
-  <!-- feedback: 'Commuter' is someone who travels regularly between home and work; the definition here is any traveller on board, not only that daily case. -->
-- [ ] D) tourist
-  <!-- feedback: 'Tourist' is someone visiting for pleasure or sightseeing, but the definition covers every traveller on board, including commuters and residents. -->
+- [x] A) He asked why I was late.
+  <!-- feedback: Correct. The subject comes before the verb and are is backshifted to was. -->
+- [ ] B) He asked why was I late.
+  <!-- feedback: The inversion was I is the direct question order, not the reported order. -->
+- [ ] C) He asked why I were late.
+  <!-- feedback: The pronoun I takes was, never were, in the past tense. -->
+- [ ] D) He asked why am I late.
+  <!-- feedback: The present am is not backshifted and keeps the direct question word order. -->
 
 ### Explicacion Pedagogica
-The word 'passenger' is used to describe a traveler on a public or private conveyance other than the driver, pilot, or crew. This is an important vocabulary word in English.
+A reported wh-question uses statement order, subject before verb, and backshifts the present are into the past was.
 ---
-## Question 6 [D6]
+## Question 6 [D4]
 **ID:** ES-ING-11-2026-W12-reported-speech-questions-commands-001-MASTERY-bundle-v6
-**Bloom:** Understand
-**EJE:** Lexico
+**Bloom:** Apply
+**EJE:** Morfosintaxis
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** A nurse repeats a patient's question to the doctor.
 
 ### Enunciado
-What is the English word for: "The place at a port, airport, or frontier where officials check incoming goods, travelers, or luggage."
+Which sentence correctly reports the question 'Do you need help'.
 
 ### Opciones
-- [x] D) customs
-  <!-- feedback: Correct! 'Customs' is the office at a port, airport or border where officials check goods, travellers and luggage. -->
-- [ ] A) security
-  <!-- feedback: 'Security' is the staff who control safety and boarding inside the airport; it does not check the goods you bring in. -->
-- [ ] B) terminal
-  <!-- feedback: 'Terminal' is the whole building where passengers wait, eat and catch their flights. -->
-- [ ] C) gate
-  <!-- feedback: 'Gate' is the particular door you board through, not the place where officials inspect your luggage. -->
+- [ ] A) She asked whether did I need help.
+  <!-- feedback: The auxiliary did must be dropped in a reported question with whether. -->
+- [x] B) She asked whether I needed help.
+  <!-- feedback: Correct. Whether introduces the reported question and need is backshifted to needed. -->
+- [ ] C) She asked whether I need help.
+  <!-- feedback: The present need is not backshifted; the reported form is needed. -->
+- [ ] D) She asked whether do I need help.
+  <!-- feedback: The present do is kept and inverts the subject, which reported speech forbids. -->
 
 ### Explicacion Pedagogica
-The word 'customs' is used to describe the place at a port, airport, or frontier where officials check incoming goods, travelers, or luggage. This is an important vocabulary word in English.
+Yes or no questions can be reported with whether; the auxiliary disappears and the verb moves one tense back.
 ---
-## Question 7 [D5]
+## Question 7 [D4]
 **ID:** ES-ING-11-2026-W12-reported-speech-questions-commands-001-MASTERY-bundle-v7
 **Bloom:** Apply
-**EJE:** Lexico
+**EJE:** Pragmatica
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** A visitor repeats a polite request that a receptionist made.
 
 ### Enunciado
-What is the English word for: "A document provided by an airline during check-in, giving a passenger permission to board the airplane."
+Which sentence correctly reports the request 'Please sit down'.
 
 ### Opciones
-- [x] C) boarding pass
-  <!-- feedback: Correct! The 'boarding pass' is the document the airline gives you at check-in that authorises you to board. -->
-- [ ] A) visa
-  <!-- feedback: 'Visa' is the official permission to enter and stay in a country, requested before the trip, not the document that lets you board a plane. -->
-- [ ] B) receipt
-  <!-- feedback: 'Receipt' is the proof of payment for a purchase, not the travel document for boarding. -->
-- [ ] D) brochure
-  <!-- feedback: 'Brochure' is a small booklet of tourist information, not the document that lets you board. -->
+- [ ] A) He asked me sit down.
+  <!-- feedback: The verb sit needs to before it after asked me. -->
+- [ ] B) He said me to sit down.
+  <!-- feedback: The verb say cannot take me as an object; the reporting verb is asked. -->
+- [x] C) He asked me to sit down.
+  <!-- feedback: Correct. A reported request uses ask plus object plus to-infinitive. -->
+- [ ] D) He asked to me sit down.
+  <!-- feedback: The preposition to cannot come before me in this structure. -->
 
 ### Explicacion Pedagogica
-The word 'boarding pass' is used to describe a document provided by an airline during check-in, giving a passenger permission to board the airplane. This is an important vocabulary word in English.
+Polite requests are reported with ask plus object plus to plus the base verb, so Please sit down becomes asked me to sit down.
 ---
-## Question 8 [D6]
+## Question 8 [D4]
 **ID:** ES-ING-11-2026-W12-reported-speech-questions-commands-001-MASTERY-bundle-v8
 **Bloom:** Apply
-**EJE:** Lexico
+**EJE:** Morfosintaxis
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** A student reports a classmate's question about a favour.
 
 ### Enunciado
-What is the English word for: "The activity of visiting places of interest in a particular location."
+Which sentence correctly reports the question 'Can you help me'.
 
 ### Opciones
-- [x] A) sightseeing
-  <!-- feedback: Correct! 'Sightseeing' is the activity of visiting the places of interest in a location. -->
-- [ ] B) shopping
-  <!-- feedback: 'Shopping' is buying things in stores, which is not the same as visiting the sights of a place. -->
-- [ ] C) hiking
-  <!-- feedback: 'Hiking' is walking in the countryside on trails, not the general activity of visiting a location's attractions. -->
-- [ ] D) camping
-  <!-- feedback: 'Camping' is staying outdoors in a tent, not visiting the sights of a location. -->
+- [ ] A) She asked if I can help her.
+  <!-- feedback: The present can is not backshifted; the reported modal is could. -->
+- [ ] B) She asked if could I help her.
+  <!-- feedback: The modal could cannot invert with I in a reported if-clause. -->
+- [ ] C) She asked if I can help me.
+  <!-- feedback: The pronoun me is not changed to the third person her. -->
+- [x] D) She asked if I could help her.
+  <!-- feedback: Correct. Can is backshifted to could and the first person me changes to her. -->
 
 ### Explicacion Pedagogica
-The word 'sightseeing' is used to describe the activity of visiting places of interest in a particular location. This is an important vocabulary word in English.
+Reporting a question with can backshifts the modal to could and changes the speaker's pronoun me to her.
 ---
-## Question 9 [D5]
+## Question 9 [D3]
 **ID:** ES-ING-11-2026-W12-reported-speech-questions-commands-001-MASTERY-bundle-v9
 **Bloom:** Apply
-**EJE:** Lexico
+**EJE:** Morfosintaxis
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** A coach repeats a negative instruction to a player.
 
 ### Enunciado
-What is the English word for: "A thing that is kept as a reminder of a person, place, or event."
+Which sentence correctly reports the negative command 'Do not be late'.
 
 ### Opciones
-- [x] A) souvenir
-  <!-- feedback: Correct! A 'souvenir' is the object you keep afterwards as a reminder of a person, place or event you visited. -->
-- [ ] B) gift
-  <!-- feedback: 'Gift' is something you give to another person; a souvenir is kept by the person who took the trip. -->
-- [ ] C) award
-  <!-- feedback: 'Award' is a prize given for an achievement, not an object bought or kept as a memory. -->
-- [ ] D) prize
-  <!-- feedback: 'Prize' is the reward you win in a competition, so it comes from winning rather than from a journey. -->
+- [x] A) He told me not to be late.
+  <!-- feedback: Correct. The negative command becomes not to be, with not before the infinitive. -->
+- [ ] B) He told me to do not be late.
+  <!-- feedback: The direct words do not cannot stay inside the reported infinitive. -->
+- [ ] C) He said me not to be late.
+  <!-- feedback: The verb said cannot take me as its object; use told me. -->
+- [ ] D) He told me do not be late.
+  <!-- feedback: The base command do not be cannot follow told without the to-infinitive. -->
 
 ### Explicacion Pedagogica
-The word 'souvenir' is used to describe a thing that is kept as a reminder of a person, place, or event. This is an important vocabulary word in English.
+A negative command is reported with tell plus object plus not to plus the base verb, so Do not be late becomes not to be late.
 ---
-## Question 10 [D6]
+## Question 10 [D4]
 **ID:** ES-ING-11-2026-W12-reported-speech-questions-commands-001-MASTERY-bundle-v10
 **Bloom:** Apply
-**EJE:** Lexico
+**EJE:** Morfosintaxis
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** A tour guide reports a question that tourists asked at the desk.
 
 ### Enunciado
-What is the English word for: "A period of time by which something is late or postponed."
+Which sentence correctly reports the question 'Where do they live'.
 
 ### Opciones
-- [x] A) delay
-  <!-- feedback: Correct! A 'delay' is the extra time by which something ends up late or gets postponed. -->
-- [ ] B) cancellation
-  <!-- feedback: 'Cancellation' means the event does not happen at all, not that it happens later than planned. -->
-- [ ] C) departure
-  <!-- feedback: 'Departure' is the scheduled time or the act of leaving; the definition is about the extra time lost. -->
-- [ ] D) arrival
-  <!-- feedback: 'Arrival' is getting there, the opposite moment. Here we want the time lost, not the time you reach the destination. -->
+- [ ] A) She asked where did they live.
+  <!-- feedback: The auxiliary did keeps the direct question order, which reported speech removes. -->
+- [x] B) She asked where they lived.
+  <!-- feedback: Correct. The auxiliary do is dropped and live is backshifted to lived. -->
+- [ ] C) She asked where do they live.
+  <!-- feedback: The present do is kept and the verb is not backshifted. -->
+- [ ] D) She asked where they live.
+  <!-- feedback: The verb stays present, but the reported form needs the past lived. -->
 
 ### Explicacion Pedagogica
-The word 'delay' is used to describe a period of time by which something is late or postponed. This is an important vocabulary word in English.
+In a reported wh-question the auxiliary do disappears and the verb moves to the past, so do they live becomes they lived.
 ---
-## Question 11 [D7]
+## Question 11 [D4]
 **ID:** ES-ING-11-2026-W12-reported-speech-questions-commands-001-MASTERY-bundle-v11
-**Bloom:** Apply
-**EJE:** Lexico
+**Bloom:** Analyze
+**EJE:** Morfosintaxis
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** A passenger repeats a question about a timetable.
 
 ### Enunciado
-What is the English word for: "The act of reporting one's presence and registering, typically at an airport or hotel."
+Which sentence correctly reports the question 'What time does the train leave'.
 
 ### Opciones
-- [x] A) check-in
-  <!-- feedback: Correct! 'Check-in' is the act of reporting your arrival and registering at the airport or hotel counter. -->
-- [ ] B) check-out
-  <!-- feedback: 'Check-out' is the opposite moment, when you leave the hotel or hand back the room. -->
-- [ ] C) booking
-  <!-- feedback: 'Booking' is the reservation you made earlier; the act of registering your presence on arrival is check-in. -->
-- [ ] D) reservation
-  <!-- feedback: 'Reservation' is the booking document, not the act of reporting your presence at the desk. -->
+- [ ] A) He asked what time did the train leave.
+  <!-- feedback: The auxiliary did creates a direct question order that reported speech does not allow. -->
+- [ ] B) He asked what time does the train leave.
+  <!-- feedback: The present does is kept instead of being dropped and backshifted. -->
+- [x] C) He asked what time the train left.
+  <!-- feedback: Correct. The auxiliary does is dropped and leave is backshifted to left. -->
+- [ ] D) He asked what time the train leaves.
+  <!-- feedback: The verb leaves stays present, but the reported form is the past left. -->
 
 ### Explicacion Pedagogica
-The word 'check-in' is used to describe the act of reporting one's presence and registering, typically at an airport or hotel. This is an important vocabulary word in English.
+After the question word, the reported clause uses subject then verb, drops does and shifts leave to left.
 ---
-## Question 12 [D8]
+## Question 12 [D4]
 **ID:** ES-ING-11-2026-W12-reported-speech-questions-commands-001-MASTERY-bundle-v12
-**Bloom:** Apply
-**EJE:** Lexico
+**Bloom:** Analyze
+**EJE:** Morfosintaxis
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** A mother repeats a question her son asked about school.
 
 ### Enunciado
-What is the English word for: "A period of rest or waiting before a further stage in a journey."
+Which sentence correctly reports the question 'Have you finished your homework'.
 
 ### Opciones
-- [x] B) layover
-  <!-- feedback: Correct! A 'layover' is a period of rest or waiting between two stages of a journey. -->
-- [ ] A) stopover
-  <!-- feedback: 'Stopover' usually means a deliberate visit in the middle of a trip, not just the wait between flights. -->
-- [ ] C) transfer
-  <!-- feedback: 'Transfer' is the change of vehicle itself, the movement; the definition is about the time of waiting. -->
-- [ ] D) transit
-  <!-- feedback: 'Transit' is a system of moving people and goods through a city, not a break between two flights. -->
+- [ ] A) She asked if have I finished my homework.
+  <!-- feedback: The auxiliary have cannot invert with I in a reported if-clause. -->
+- [ ] B) She asked if I have finished my homework.
+  <!-- feedback: The present perfect is not backshifted to the past perfect. -->
+- [ ] C) She asked if had I finished my homework.
+  <!-- feedback: The auxiliary had cannot invert with the subject in a reported clause. -->
+- [x] D) She asked if I had finished my homework.
+  <!-- feedback: Correct. The present perfect have finished is backshifted to had finished. -->
 
 ### Explicacion Pedagogica
-The word 'layover' is used to describe a period of rest or waiting before a further stage in a journey. This is an important vocabulary word in English.
+When a present perfect question is reported, have finished shifts back to had finished and the subject keeps its normal position.
 ---
-## Question 13 [D7]
+## Question 13 [D4]
 **ID:** ES-ING-11-2026-W12-reported-speech-questions-commands-001-MASTERY-bundle-v13
 **Bloom:** Analyze
-**EJE:** Lexico
+**EJE:** Morfosintaxis
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** A friend repeats a question about a future plan.
 
 ### Enunciado
-What is the English word for: "A system of money in general use in a particular country."
+Which sentence correctly reports the question 'Will you come to the party'.
 
 ### Opciones
-- [x] C) currency
-  <!-- feedback: Correct! 'Currency' is the money system in general use in a particular country. -->
-- [ ] A) coin
-  <!-- feedback: 'Coin' is a single metal piece of money, one item within the currency, not the whole system. -->
-- [ ] B) banknote
-  <!-- feedback: 'Banknote' is a paper bill, one item of the currency rather than the system of money itself. -->
-- [ ] D) cash
-  <!-- feedback: 'Cash' means money in the physical form you hold, not the money system of a country. -->
+- [x] A) He asked if I would come to the party.
+  <!-- feedback: Correct. Will is backshifted to would and the subject keeps its place after if. -->
+- [ ] B) He asked if I will come to the party.
+  <!-- feedback: The present will is not backshifted; the reported modal is would. -->
+- [ ] C) He asked if would I come to the party.
+  <!-- feedback: The modal would cannot invert with I in a reported if-clause. -->
+- [ ] D) He asked if I come to the party.
+  <!-- feedback: The base verb come has lost the future meaning that would carries. -->
 
 ### Explicacion Pedagogica
-The word 'currency' is used to describe a system of money in general use in a particular country. This is an important vocabulary word in English.
+A reported question with will changes the modal to would and keeps the statement order after if.
 ---
-## Question 14 [D8]
+## Question 14 [D4]
 **ID:** ES-ING-11-2026-W12-reported-speech-questions-commands-001-MASTERY-bundle-v14
 **Bloom:** Analyze
-**EJE:** Lexico
+**EJE:** Morfosintaxis
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** A pupil reports a two-part instruction from a teacher.
 
 ### Enunciado
-What is the English word for: "A book of information about a place designed for the use of visitors or tourists."
+Which sentence correctly reports the command 'Open your books and read page ten'.
 
 ### Opciones
-- [x] D) guidebook
-  <!-- feedback: Correct! A 'guidebook' is a book of information about a place written for visitors and tourists. -->
-- [ ] A) map
-  <!-- feedback: 'Map' is a single sheet or screen showing the layout of a place, not a book of information. -->
-- [ ] B) dictionary
-  <!-- feedback: 'Dictionary' is a book of word definitions of a language, not information about a place for visitors. -->
-- [ ] C) encyclopedia
-  <!-- feedback: 'Encyclopedia' is a general reference work with entries on every topic, not a guide written for tourists about one place. -->
+- [ ] A) The teacher told the class open their books and read page ten.
+  <!-- feedback: The first verb open needs to before it after told the class. -->
+- [x] B) The teacher told the class to open their books and read page ten.
+  <!-- feedback: Correct. Both verbs share one to-infinitive: to open and read. -->
+- [ ] C) The teacher said the class to open their books and read page ten.
+  <!-- feedback: The verb said cannot take the class as its object; use told. -->
+- [ ] D) The teacher told the class to opening their books and read page ten.
+  <!-- feedback: The infinitive is to open, not to opening, because no gerund is used here. -->
 
 ### Explicacion Pedagogica
-The word 'guidebook' is used to describe a book of information about a place designed for the use of visitors or tourists. This is an important vocabulary word in English.
+When a command has two actions, tell plus object plus to plus base verb covers both, so to open and read is correct.
 ---
-## Question 15 [D7]
+## Question 15 [D4]
 **ID:** ES-ING-11-2026-W12-reported-speech-questions-commands-001-MASTERY-bundle-v15
 **Bloom:** Analyze
-**EJE:** Lexico
+**EJE:** Morfosintaxis
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** A woman repeats a question about a missed phone call.
 
 ### Enunciado
-What is the English word for: "A bag with shoulder straps that allow it to be carried on one's back."
+Which sentence correctly reports the question 'Why didn't you call me'.
 
 ### Opciones
-- [x] A) backpack
-  <!-- feedback: Correct! A 'backpack' is the bag with shoulder straps that you carry on your back. -->
-- [ ] B) suitcase
-  <!-- feedback: 'Suitcase' is a case with a handle that you pull along, not a bag worn on the back. -->
-- [ ] C) briefcase
-  <!-- feedback: 'Briefcase' is a case for documents and a laptop, carried in the hand for work. -->
-- [ ] D) handbag
-  <!-- feedback: 'Handbag' is a bag for personal items carried on the arm or in the hand, with no back straps. -->
+- [ ] A) She asked why didn't I call her.
+  <!-- feedback: The auxiliary didn't keeps the direct question inversion, which reported speech removes. -->
+- [ ] B) She asked why I didn't called her.
+  <!-- feedback: The auxiliary didn't already marks the past, so call must stay in the base form. -->
+- [x] C) She asked why I hadn't called her.
+  <!-- feedback: Correct. The past simple negative is backshifted to the past perfect hadn't called. -->
+- [ ] D) She asked why hadn't I called her.
+  <!-- feedback: The auxiliary hadn't cannot invert with I inside a reported clause. -->
 
 ### Explicacion Pedagogica
-The word 'backpack' is used to describe a bag with shoulder straps that allow it to be carried on one's back. This is an important vocabulary word in English.
+A past simple question is reported with the past perfect, so didn't call becomes hadn't called in statement order.
 ---
-## Question 16 [D8]
+## Question 16 [D4]
 **ID:** ES-ING-11-2026-W12-reported-speech-questions-commands-001-MASTERY-bundle-v16
 **Bloom:** Analyze
-**EJE:** Lexico
+**EJE:** Morfosintaxis
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** A parent repeats a safety rule given to a child.
 
 ### Enunciado
-What is the English word for: "In or to a foreign country, especially one across the sea."
+Which sentence correctly reports the negative command 'Do not open the door for strangers'.
 
 ### Opciones
-- [x] C) overseas
-  <!-- feedback: Correct! 'Overseas' means in or to a foreign country, especially one across the sea. -->
-- [ ] A) domestic
-  <!-- feedback: 'Domestic' means inside your own country, the opposite of overseas. -->
-- [ ] B) local
-  <!-- feedback: 'Local' means in the area where you are, even more restricted than domestic; it never crosses a border. -->
-- [ ] D) national
-  <!-- feedback: 'National' refers to a whole country without saying it is foreign, so it does not imply going abroad. -->
+- [ ] A) They told the child to not open the door for strangers.
+  <!-- feedback: The split form to not open is less standard than the usual not to open. -->
+- [ ] B) They said the child not to open the door for strangers.
+  <!-- feedback: The verb said cannot take the child as its object; the reporting verb is told. -->
+- [ ] C) They told the child do not open the door for strangers.
+  <!-- feedback: The direct imperative do not open cannot stay inside a reported command. -->
+- [x] D) They told the child not to open the door for strangers.
+  <!-- feedback: Correct. The negative infinitive is not to open, placed after the object. -->
 
 ### Explicacion Pedagogica
-The word 'overseas' is used to describe in or to a foreign country, especially one across the sea. This is an important vocabulary word in English.
+The negative command keeps the order tell plus object plus not to plus base verb, so the sign becomes not to open.
 ---
-## Question 17 [D9]
+## Question 17 [D4]
 **ID:** ES-ING-11-2026-W12-reported-speech-questions-commands-001-MASTERY-bundle-v17
-**Bloom:** Evaluate
-**EJE:** Lexico
+**Bloom:** Analyze
+**EJE:** Morfosintaxis
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** A detective repeats a question that a witness had already reported.
 
 ### Enunciado
-What is the English word for: "An estimate of income and expenditure for a set period of time."
+Which sentence correctly reports the question 'Do you know where she is'.
 
 ### Opciones
-- [x] B) budget
-  <!-- feedback: Correct! A 'budget' is the estimate of income and expenditure planned for a set period. -->
-- [ ] A) expense
-  <!-- feedback: 'Expense' is a single cost already paid; the definition is the estimate for the whole period. -->
-- [ ] C) cost
-  <!-- feedback: 'Cost' is the price of one thing, whereas a budget covers all income and all spending. -->
-- [ ] D) price
-  <!-- feedback: 'Price' is the amount a single item costs, not a plan of income and expenditure over time. -->
+- [x] A) He asked if I knew where she was.
+  <!-- feedback: Correct. The main verb know backshifts to knew and the embedded clause keeps she was. -->
+- [ ] B) He asked if I knew where was she.
+  <!-- feedback: The embedded clause where she is keeps statement order, so was she is wrong. -->
+- [ ] C) He asked did I know where she was.
+  <!-- feedback: The auxiliary did must be dropped after the reporting verb asked. -->
+- [ ] D) He asked if did I know where she was.
+  <!-- feedback: If and the auxiliary did cannot both introduce the same reported question. -->
 
 ### Explicacion Pedagogica
-The word 'budget' is used to describe an estimate of income and expenditure for a set period of time. This is an important vocabulary word in English.
+When a yes or no question contains another clause, both verbs backshift and neither keeps the direct question order.
 ---
-## Question 18 [D10]
+## Question 18 [D4]
 **ID:** ES-ING-11-2026-W12-reported-speech-questions-commands-001-MASTERY-bundle-v18
 **Bloom:** Evaluate
-**EJE:** Lexico
+**EJE:** Morfosintaxis
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** A secretary reports an instruction that was given at a meeting.
 
 ### Enunciado
-What is the English word for: "A practice or arrangement by which a company or government agency provides a guarantee of compensation for specified loss, damage, illness, or death in return for payment of a premium."
+Which sentence correctly reports the command 'Tell me what you want'.
 
 ### Opciones
-- [x] A) insurance
-  <!-- feedback: Correct! 'Insurance' is the arrangement by which an insurer promises compensation for loss, damage, illness or death in exchange for a premium. -->
-- [ ] B) warranty
-  <!-- feedback: 'Warranty' covers a product against defects for a limited period and is free of charge, not a premium-based contract. -->
-- [ ] C) guarantee
-  <!-- feedback: 'Guarantee' is the promise itself; 'insurance' is the whole contract arranged with an insurer for a premium. -->
-- [ ] D) policy
-  <!-- feedback: 'Policy' is the document that proves the insurance contract; the arrangement itself is the insurance. -->
+- [ ] A) She told me tell her what I wanted.
+  <!-- feedback: The verb tell needs to before it after told me. -->
+- [x] B) She told me to tell her what I wanted.
+  <!-- feedback: Correct. The command uses to tell and the embedded verb want is backshifted to wanted. -->
+- [ ] C) She said me to tell her what I wanted.
+  <!-- feedback: The verb said cannot take me as an object; use told me. -->
+- [ ] D) She told me to tell her what I want.
+  <!-- feedback: The embedded present want is not backshifted to the past wanted. -->
 
 ### Explicacion Pedagogica
-The word 'insurance' is used to describe a practice or arrangement by which a company or government agency provides a guarantee of compensation for specified loss, damage, illness, or death in return for payment of a premium. This is an important vocabulary word in English.
+A command that contains another clause takes tell plus object plus to plus base verb, and the inner verb also shifts back.
 ---
-## Question 19 [D9]
+## Question 19 [D4]
 **ID:** ES-ING-11-2026-W12-reported-speech-questions-commands-001-MASTERY-bundle-v19
 **Bloom:** Evaluate
-**EJE:** Lexico
+**EJE:** Morfosintaxis
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** A traveller repeats a question about tickets at the station.
 
 ### Enunciado
-What is the English word for: "Treatment with a vaccine to produce immunity against a disease."
+Which sentence correctly reports the question 'Do they sell tickets here'.
 
 ### Opciones
-- [x] B) vaccination
-  <!-- feedback: Correct! A 'vaccination' is the application of a vaccine that makes the body produce immunity against a disease. -->
-- [ ] A) medication
-  <!-- feedback: 'Medication' is a medicine you take to treat an illness, not the vaccine that prevents one. -->
-- [ ] C) prescription
-  <!-- feedback: 'Prescription' is the written order a doctor gives for a medicine, not the vaccine itself. -->
-- [ ] D) infection
-  <!-- feedback: 'Infection' is the state of having the disease; vaccination is what protects you before you get it. -->
+- [ ] A) He asked whether did they sell tickets there.
+  <!-- feedback: The auxiliary did is kept and inverts the subject, which reported speech forbids. -->
+- [ ] B) He asked whether they sell tickets here.
+  <!-- feedback: The present sell and the place here are both left unchanged. -->
+- [x] C) He asked whether they sold tickets there.
+  <!-- feedback: Correct. Whether replaces the question, sell backshifts to sold and here becomes there. -->
+- [ ] D) He asked whether do they sell tickets here.
+  <!-- feedback: The auxiliary do is kept and here is not changed to there. -->
 
 ### Explicacion Pedagogica
-The word 'vaccination' is used to describe treatment with a vaccine to produce immunity against a disease. This is an important vocabulary word in English.
+A reported yes or no question uses whether, drops do, backshifts sell to sold and changes here to there.
 ---
-## Question 20 [D10]
+## Question 20 [D4]
 **ID:** ES-ING-11-2026-W12-reported-speech-questions-commands-001-MASTERY-bundle-v20
 **Bloom:** Evaluate
-**EJE:** Lexico
+**EJE:** Pragmatica
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** A guard repeats an order that a driver gave to a colleague.
 
 ### Enunciado
-What is the English word for: "Extreme tiredness and other physical effects felt by a person after a long flight across several time zones."
+Which sentence correctly reports the command 'Give me the keys'.
 
 ### Opciones
-- [x] D) jet lag
-  <!-- feedback: Correct! 'Jet lag' is the tiredness and disturbed body clock you feel after a flight across several time zones. -->
-- [ ] A) fatigue
-  <!-- feedback: 'Fatigue' is tiredness after effort or a long day, not specifically caused by crossing time zones. -->
-- [ ] B) exhaustion
-  <!-- feedback: 'Exhaustion' is extreme tiredness from overwork or lack of sleep, which is not the same as the time zone effect. -->
-- [ ] C) insomnia
-  <!-- feedback: 'Insomnia' is the inability to sleep, whereas jet lag comes with tiredness during the day and a shifted body clock. -->
+- [ ] A) He told her give him the keys.
+  <!-- feedback: The verb give needs to before it after told her. -->
+- [ ] B) He said her to give him the keys.
+  <!-- feedback: The verb said cannot take her as its object; use told her. -->
+- [ ] C) He told her to give me the keys.
+  <!-- feedback: The pronoun me is not changed to the third person him in reported speech. -->
+- [x] D) He told her to give him the keys.
+  <!-- feedback: Correct. The imperative becomes to give and the first person me changes to him. -->
 
 ### Explicacion Pedagogica
-The word 'jet lag' is used to describe extreme tiredness and other physical effects felt by a person after a long flight across several time zones. This is an important vocabulary word in English.
+In a reported command the imperative becomes a to-infinitive and the speaker's pronoun me changes to him.
+---

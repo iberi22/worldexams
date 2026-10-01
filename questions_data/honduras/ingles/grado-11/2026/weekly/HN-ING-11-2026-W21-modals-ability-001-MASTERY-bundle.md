@@ -21,462 +21,464 @@ bundle_index: 1
 **20 preguntas | Ingles | Curriculo de Ingles**
 
 ---
+
 ## Question 1 [D3]
 **ID:** HN-ING-11-2026-W21-modals-ability-001-MASTERY-bundle-v1
-**Bloom:** Remember
-**EJE:** Lexico
+**Bloom:** Understand
+**EJE:** Gramatica
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** A student describes her own linguistic skills during a class interview.
 
 ### Enunciado
-What is the English word for: "A place where you live or stay on holiday."
+She ____ speak three languages, but she only speaks two.
 
 ### Opciones
-- [x] C) accommodation
-  <!-- feedback: Correct! 'Accommodation' is the word for a place where you live or stay when you are on holiday. -->
-- [ ] A) transportation
-  <!-- feedback: 'Transportation' is the way you move from one place to another (buses, trains, planes), not the place where you sleep. -->
-- [ ] B) entertainment
-  <!-- feedback: 'Entertainment' is the fun or activities you enjoy, not the building or room where you stay. -->
-- [ ] D) currency
-  <!-- feedback: 'Currency' is the money of a country, which has nothing to do with where you sleep. -->
+- [x] A) can
+  <!-- feedback: Correct! 'Can' expresses ability in the present, and the second clause limits how much of that ability is real. -->
+- [ ] B) may
+  <!-- feedback: 'May' expresses permission or possibility, not skill. -->
+- [ ] C) must
+  <!-- feedback: 'Must' expresses obligation, which says nothing about capacity. -->
+- [ ] D) should
+  <!-- feedback: 'Should' expresses advice or expectation, not what a person is able to do. -->
 
 ### Explicacion Pedagogica
-The word 'accommodation' is used to describe a place where you live or stay on holiday. This is an important vocabulary word in English.
+'Can' is the modal of ability in the present. Its negative and interrogative forms are built the same way, without an auxiliary 'to'.
 ---
-## Question 2 [D4]
+## Question 2 [D3]
 **ID:** HN-ING-11-2026-W21-modals-ability-001-MASTERY-bundle-v2
-**Bloom:** Remember
-**EJE:** Lexico
+**Bloom:** Apply
+**EJE:** Gramatica
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** A group of friends discusses a weekend trip to the Caribbean coast.
 
 ### Enunciado
-What is the English word for: "A detailed plan or route of a journey."
+You ____ drive if you want to go to the coast this weekend.
 
 ### Opciones
-- [x] D) itinerary
-  <!-- feedback: Correct! An 'itinerary' is a detailed plan of a journey, listing the places and times along the route. -->
-- [ ] A) baggage
-  <!-- feedback: 'Baggage' is the suitcases and bags you travel with, not the written plan of the trip. -->
-- [ ] B) destination
-  <!-- feedback: 'Destination' is the place you are going to, a single place, while an itinerary is the whole route plan. -->
-- [ ] C) passport
-  <!-- feedback: 'Passport' is the travel document that lets you cross a border, not the schedule of your trip. -->
+- [ ] A) could
+  <!-- feedback: 'Could' would suggest the ability existed in the past. -->
+- [x] B) can
+  <!-- feedback: Correct! 'Can' offers the possibility of driving here and now, since the plan is for the coming weekend. -->
+- [ ] C) may
+  <!-- feedback: 'May' is used formally to give or ask for permission. -->
+- [ ] D) might
+  <!-- feedback: 'Might' expresses a small possibility, which is weaker than a clear ability. -->
 
 ### Explicacion Pedagogica
-The word 'itinerary' is used to describe a detailed plan or route of a journey. This is an important vocabulary word in English.
+Ability in the present is 'can'. The past ability is 'could' and a remote possibility is 'might', so the time reference decides the modal.
 ---
 ## Question 3 [D3]
 **ID:** HN-ING-11-2026-W21-modals-ability-001-MASTERY-bundle-v3
-**Bloom:** Understand
-**EJE:** Lexico
+**Bloom:** Apply
+**EJE:** Gramatica
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** A man remembers an ability he had as a child and no longer has.
 
 ### Enunciado
-What is the English word for: "The place to which someone or something is going or being sent."
+As a child he ____ swim across the river, but he cannot do it now.
 
 ### Opciones
-- [x] A) destination
-  <!-- feedback: Correct! A 'destination' is the place someone or something is going or being sent to. -->
-- [ ] B) departure
-  <!-- feedback: 'Departure' is the action of leaving, the opposite end of the journey from the destination. -->
-- [ ] C) arrival
-  <!-- feedback: 'Arrival' is the act of getting there; the place you arrive at is the destination. -->
-- [ ] D) journey
-  <!-- feedback: 'Journey' is the whole trip from start to finish, not the place you are heading to. -->
+- [ ] A) can
+  <!-- feedback: 'Can' would place the ability in the present, which the second clause denies. -->
+- [ ] B) may
+  <!-- feedback: 'May' expresses permission, and no permission is discussed. -->
+- [x] C) could
+  <!-- feedback: Correct! 'Could' describes an ability that existed in the past and no longer holds. -->
+- [ ] D) must
+  <!-- feedback: 'Must' expresses obligation, which does not describe capacity at all. -->
 
 ### Explicacion Pedagogica
-The word 'destination' is used to describe the place to which someone or something is going or being sent. This is an important vocabulary word in English.
+'Could' is the past simple of the modal 'can'. Because the second clause is a present impossibility, the first must be past.
 ---
-## Question 4 [D4]
+## Question 4 [D3]
 **ID:** HN-ING-11-2026-W21-modals-ability-001-MASTERY-bundle-v4
-**Bloom:** Understand
-**EJE:** Lexico
+**Bloom:** Apply
+**EJE:** Gramatica
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** A teacher gives a rule before an examination session.
 
 ### Enunciado
-What is the English word for: "Suitcases or other bags in which to pack personal belongings for traveling."
+The teacher says we ____ use our phones during the written test.
 
 ### Opciones
-- [x] C) luggage
-  <!-- feedback: Correct! 'Luggage' means suitcases and bags in which you pack your belongings for a trip. -->
-- [ ] A) ticket
-  <!-- feedback: 'Ticket' is the paper that gives you the right to travel on a bus, train or plane, not the bag itself. -->
-- [ ] B) flight
-  <!-- feedback: 'Flight' is the journey by plane, or the plane itself; the bags are called luggage. -->
-- [ ] D) reservation
-  <!-- feedback: 'Reservation' is the booking you make for a seat or a room, not the bags you pack. -->
+- [ ] A) might
+  <!-- feedback: 'Might' would leave the possibility open, and a prohibition closes it. -->
+- [ ] B) could
+  <!-- feedback: 'Could' would describe a past ability. -->
+- [ ] C) should
+  <!-- feedback: 'Should' expresses a recommendation, and teachers prohibit rather than recommend. -->
+- [x] D) cannot
+  <!-- feedback: Correct! 'Cannot' states that the action is outside what the rules allow. -->
 
 ### Explicacion Pedagogica
-The word 'luggage' is used to describe suitcases or other bags in which to pack personal belongings for traveling. This is an important vocabulary word in English.
+Modal verbs never change form. 'Cannot' stays the same in every person, which is one of their defining features.
 ---
-## Question 5 [D5]
+## Question 5 [D4]
 **ID:** HN-ING-11-2026-W21-modals-ability-001-MASTERY-bundle-v5
-**Bloom:** Understand
-**EJE:** Lexico
+**Bloom:** Apply
+**EJE:** Gramatica
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** A classmate apologises for turning down a request on a busy day.
 
 ### Enunciado
-What is the English word for: "A traveler on a public or private conveyance other than the driver, pilot, or crew."
+I am sorry, I ____ help you with the project today.
 
 ### Opciones
-- [x] A) passenger
-  <!-- feedback: Correct! A 'passenger' is a person who travels on a vehicle without being the driver, pilot or crew. -->
-- [ ] B) pedestrian
-  <!-- feedback: 'Pedestrian' is someone who travels on foot, so they are not on a conveyance at all. -->
-- [ ] C) commuter
-  <!-- feedback: 'Commuter' is someone who travels regularly between home and work; the definition here is any traveller on board, not only that daily case. -->
-- [ ] D) tourist
-  <!-- feedback: 'Tourist' is someone visiting for pleasure or sightseeing, but the definition covers every traveller on board, including commuters and residents. -->
+- [x] A) cannot
+  <!-- feedback: Correct! 'Cannot' explains a lack of capacity or availability. -->
+- [ ] B) must not
+  <!-- feedback: 'Must not' expresses a prohibition that somebody imposes. -->
+- [ ] C) need not
+  <!-- feedback: 'Need not' removes an obligation and does not explain an apology. -->
+- [ ] D) should not
+  <!-- feedback: 'Should not' gives advice against an action, but the speaker lacks the time, not the permission. -->
 
 ### Explicacion Pedagogica
-The word 'passenger' is used to describe a traveler on a public or private conveyance other than the driver, pilot, or crew. This is an important vocabulary word in English.
+An apology followed by a reason about availability calls for 'cannot'. 'Must not' would place the limit outside the speaker.
 ---
-## Question 6 [D6]
+## Question 6 [D3]
 **ID:** HN-ING-11-2026-W21-modals-ability-001-MASTERY-bundle-v6
 **Bloom:** Understand
-**EJE:** Lexico
+**EJE:** Gramatica
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** A friend asks about a swimming skill before an outing in a rural area.
 
 ### Enunciado
-What is the English word for: "The place at a port, airport, or frontier where officials check incoming goods, travelers, or luggage."
+____ you swim in the river, or are you afraid of the water?
 
 ### Opciones
-- [x] A) customs
-  <!-- feedback: Correct! 'Customs' is the office at a port, airport or border where officials check goods, travellers and luggage. -->
-- [ ] B) security
-  <!-- feedback: 'Security' is the staff who control safety and boarding inside the airport; it does not check the goods you bring in. -->
-- [ ] C) terminal
-  <!-- feedback: 'Terminal' is the whole building where passengers wait, eat and catch their flights. -->
-- [ ] D) gate
-  <!-- feedback: 'Gate' is the particular door you board through, not the place where officials inspect your luggage. -->
+- [ ] A) Must
+  <!-- feedback: 'Must' asks about an obligation, which is not the contrast being drawn. -->
+- [x] B) Can
+  <!-- feedback: Correct! 'Can' is the modal used to ask about ability in the present. -->
+- [ ] C) Should
+  <!-- feedback: 'Should' asks whether something is advisable. -->
+- [ ] D) Would
+  <!-- feedback: 'Would' asks about a past habit or a hypothetical, not about a real skill. -->
 
 ### Explicacion Pedagogica
-The word 'customs' is used to describe the place at a port, airport, or frontier where officials check incoming goods, travelers, or luggage. This is an important vocabulary word in English.
+The interrogative of the modal 'can' inverts the subject and the modal, with no auxiliary 'do' and no change of form.
 ---
-## Question 7 [D5]
+## Question 7 [D3]
 **ID:** HN-ING-11-2026-W21-modals-ability-001-MASTERY-bundle-v7
 **Bloom:** Apply
-**EJE:** Lexico
+**EJE:** Gramatica
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** A student explains a habit that supports exam preparation.
 
 ### Enunciado
-What is the English word for: "A document provided by an airline during check-in, giving a passenger permission to board the airplane."
+Reading in English ____ me a lot of useful vocabulary for the exam.
 
 ### Opciones
-- [x] D) boarding pass
-  <!-- feedback: Correct! The 'boarding pass' is the document the airline gives you at check-in that authorises you to board. -->
-- [ ] A) visa
-  <!-- feedback: 'Visa' is the official permission to enter and stay in a country, requested before the trip, not the document that lets you board a plane. -->
-- [ ] B) receipt
-  <!-- feedback: 'Receipt' is the proof of payment for a purchase, not the travel document for boarding. -->
-- [ ] C) brochure
-  <!-- feedback: 'Brochure' is a small booklet of tourist information, not the document that lets you board. -->
+- [ ] A) may
+  <!-- feedback: 'May' expresses permission, which is not the point of the sentence. -->
+- [ ] B) must
+  <!-- feedback: 'Must' would state an obligation. -->
+- [x] C) can
+  <!-- feedback: Correct! 'Can' is used in the present simple with 'me' as its subject to state a benefit. -->
+- [ ] D) may not
+  <!-- feedback: 'May not' would state that no benefit exists, which the sentence denies. -->
 
 ### Explicacion Pedagogica
-The word 'boarding pass' is used to describe a document provided by an airline during check-in, giving a passenger permission to board the airplane. This is an important vocabulary word in English.
+The subject of a modal can be any noun phrase, not only a person. The modal stays in the infinitive form after it.
 ---
-## Question 8 [D6]
+## Question 8 [D3]
 **ID:** HN-ING-11-2026-W21-modals-ability-001-MASTERY-bundle-v8
 **Bloom:** Apply
-**EJE:** Lexico
+**EJE:** Gramatica
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** A man narrates the reason why he signed up for a swimming course last year.
 
 ### Enunciado
-What is the English word for: "The activity of visiting places of interest in a particular location."
+He ____ not swim when he was ten, so he took a course last year.
 
 ### Opciones
-- [x] B) sightseeing
-  <!-- feedback: Correct! 'Sightseeing' is the activity of visiting the places of interest in a location. -->
-- [ ] A) shopping
-  <!-- feedback: 'Shopping' is buying things in stores, which is not the same as visiting the sights of a place. -->
-- [ ] C) hiking
-  <!-- feedback: 'Hiking' is walking in the countryside on trails, not the general activity of visiting a location's attractions. -->
-- [ ] D) camping
-  <!-- feedback: 'Camping' is staying outdoors in a tent, not visiting the sights of a location. -->
+- [ ] A) can
+  <!-- feedback: 'Can' would refer to the present, which the second clause contradicts. -->
+- [ ] B) will
+  <!-- feedback: 'Will' describes a future action. -->
+- [ ] C) would
+  <!-- feedback: 'Would' describes a past habit or a polite offer, not a past ability. -->
+- [x] D) could
+  <!-- feedback: Correct! 'Could' is the past form of the ability modal and matches the past time reference. -->
 
 ### Explicacion Pedagogica
-The word 'sightseeing' is used to describe the activity of visiting places of interest in a particular location. This is an important vocabulary word in English.
+Past ability is expressed with 'could' plus the bare infinitive. The course follows the inability, which confirms the past time frame.
 ---
-## Question 9 [D5]
+## Question 9 [D3]
 **ID:** HN-ING-11-2026-W21-modals-ability-001-MASTERY-bundle-v9
 **Bloom:** Apply
-**EJE:** Lexico
+**EJE:** Gramatica
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** An injured student is advised to see the school doctor.
 
 ### Enunciado
-What is the English word for: "A thing that is kept as a reminder of a person, place, or event."
+She is a doctor, so she ____ help you with that injury.
 
 ### Opciones
-- [x] B) souvenir
-  <!-- feedback: Correct! A 'souvenir' is the object you keep afterwards as a reminder of a person, place or event you visited. -->
-- [ ] A) gift
-  <!-- feedback: 'Gift' is something you give to another person; a souvenir is kept by the person who took the trip. -->
-- [ ] C) award
-  <!-- feedback: 'Award' is a prize given for an achievement, not an object bought or kept as a memory. -->
-- [ ] D) prize
-  <!-- feedback: 'Prize' is the reward you win in a competition, so it comes from winning rather than from a journey. -->
+- [x] A) can
+  <!-- feedback: Correct! 'Can' states a real and present professional ability. -->
+- [ ] B) could
+  <!-- feedback: 'Could' would point to a capacity in the past. -->
+- [ ] C) might
+  <!-- feedback: 'Might' would only suggest a possibility, weaker than what a doctor can do. -->
+- [ ] D) would
+  <!-- feedback: 'Would' would be used for a conditional or a past habit. -->
 
 ### Explicacion Pedagogica
-The word 'souvenir' is used to describe a thing that is kept as a reminder of a person, place, or event. This is an important vocabulary word in English.
+A modal expresses what is possible, permitted or necessary. The first two are excluded by the time frame and the third by the certainty of the statement.
 ---
-## Question 10 [D6]
+## Question 10 [D4]
 **ID:** HN-ING-11-2026-W21-modals-ability-001-MASTERY-bundle-v10
-**Bloom:** Apply
-**EJE:** Lexico
+**Bloom:** Analyze
+**EJE:** Gramatica
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** A parent describes the motor development of a baby at home.
 
 ### Enunciado
-What is the English word for: "A period of time by which something is late or postponed."
+The baby ____ not walk yet, but he ____ crawl very well.
 
 ### Opciones
-- [x] D) delay
-  <!-- feedback: Correct! A 'delay' is the extra time by which something ends up late or gets postponed. -->
-- [ ] A) cancellation
-  <!-- feedback: 'Cancellation' means the event does not happen at all, not that it happens later than planned. -->
-- [ ] B) departure
-  <!-- feedback: 'Departure' is the scheduled time or the act of leaving; the definition is about the extra time lost. -->
-- [ ] C) arrival
-  <!-- feedback: 'Arrival' is getting there, the opposite moment. Here we want the time lost, not the time you reach the destination. -->
+- [ ] A) can ... can
+  <!-- feedback: 'Can ... cannot' reverses the two facts. -->
+- [x] B) cannot ... can
+  <!-- feedback: Correct! 'Cannot' states a missing capacity and 'can' a present one, which is the contrast described. -->
+- [ ] C) can ... cannot
+  <!-- feedback: 'Cannot ... cannot' denies both abilities. -->
+- [ ] D) must ... can
+  <!-- feedback: 'Must' would express obligation, which does not describe motor development. -->
 
 ### Explicacion Pedagogica
-The word 'delay' is used to describe a period of time by which something is late or postponed. This is an important vocabulary word in English.
+Two coordinated clauses keep the same modal form in both. Here the first is negative and the second positive, which the pair of modals must reflect.
 ---
-## Question 11 [D7]
+## Question 11 [D3]
 **ID:** HN-ING-11-2026-W21-modals-ability-001-MASTERY-bundle-v11
 **Bloom:** Apply
-**EJE:** Lexico
+**EJE:** Gramatica
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** A student makes a polite request in the language laboratory.
 
 ### Enunciado
-What is the English word for: "The act of reporting one's presence and registering, typically at an airport or hotel."
+____ you help me carry these boxes, please?
 
 ### Opciones
-- [x] B) check-in
-  <!-- feedback: Correct! 'Check-in' is the act of reporting your arrival and registering at the airport or hotel counter. -->
-- [ ] A) check-out
-  <!-- feedback: 'Check-out' is the opposite moment, when you leave the hotel or hand back the room. -->
-- [ ] C) booking
-  <!-- feedback: 'Booking' is the reservation you made earlier; the act of registering your presence on arrival is check-in. -->
-- [ ] D) reservation
-  <!-- feedback: 'Reservation' is the booking document, not the act of reporting your presence at the desk. -->
+- [ ] A) Must
+  <!-- feedback: 'Must' is never used to ask for a favour; it states an obligation. -->
+- [ ] B) Should
+  <!-- feedback: 'Should' asks about advice. -->
+- [x] C) Could
+  <!-- feedback: Correct! 'Could' is the polite form of 'can' used to make a request. -->
+- [ ] D) Need
+  <!-- feedback: 'Need' is a main verb here, and the negative form would be a different construction. -->
 
 ### Explicacion Pedagogica
-The word 'check-in' is used to describe the act of reporting one's presence and registering, typically at an airport or hotel. This is an important vocabulary word in English.
+The past form of the modal is used for politeness in requests. The tense of the form does not refer to time; it softens the tone.
 ---
-## Question 12 [D8]
+## Question 12 [D3]
 **ID:** HN-ING-11-2026-W21-modals-ability-001-MASTERY-bundle-v12
 **Bloom:** Apply
-**EJE:** Lexico
+**EJE:** Gramatica
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** A notice lists the rules of a school evacuation procedure.
 
 ### Enunciado
-What is the English word for: "A period of rest or waiting before a further stage in a journey."
+Students ____ not stay in the classroom during the fire drill.
 
 ### Opciones
-- [x] B) layover
-  <!-- feedback: Correct! A 'layover' is a period of rest or waiting between two stages of a journey. -->
-- [ ] A) stopover
-  <!-- feedback: 'Stopover' usually means a deliberate visit in the middle of a trip, not just the wait between flights. -->
-- [ ] C) transfer
-  <!-- feedback: 'Transfer' is the change of vehicle itself, the movement; the definition is about the time of waiting. -->
-- [ ] D) transit
-  <!-- feedback: 'Transit' is a system of moving people and goods through a city, not a break between two flights. -->
+- [ ] A) could
+  <!-- feedback: 'Could' is a past ability modal, which does not express a rule. -->
+- [ ] B) can
+  <!-- feedback: 'Can' would state a possibility or an ability. -->
+- [ ] C) may
+  <!-- feedback: 'May' expresses permission, and the sign forbids rather than allows. -->
+- [x] D) must
+  <!-- feedback: Correct! 'Must not' states a strict prohibition in a school rule. -->
 
 ### Explicacion Pedagogica
-The word 'layover' is used to describe a period of rest or waiting before a further stage in a journey. This is an important vocabulary word in English.
+'Must not' and 'need not' are different: 'must not' forbids, while 'need not' merely says an obligation does not exist.
 ---
-## Question 13 [D7]
+## Question 13 [D4]
 **ID:** HN-ING-11-2026-W21-modals-ability-001-MASTERY-bundle-v13
-**Bloom:** Analyze
-**EJE:** Lexico
+**Bloom:** Apply
+**EJE:** Gramatica
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** A student changes from a listening task to a written support after a first attempt.
 
 ### Enunciado
-What is the English word for: "A system of money in general use in a particular country."
+I ____ understand the recording, so I will read the transcript.
 
 ### Opciones
-- [x] A) currency
-  <!-- feedback: Correct! 'Currency' is the money system in general use in a particular country. -->
-- [ ] B) coin
-  <!-- feedback: 'Coin' is a single metal piece of money, one item within the currency, not the whole system. -->
-- [ ] C) banknote
-  <!-- feedback: 'Banknote' is a paper bill, one item of the currency rather than the system of money itself. -->
-- [ ] D) cash
-  <!-- feedback: 'Cash' means money in the physical form you hold, not the money system of a country. -->
+- [x] A) cannot
+  <!-- feedback: Correct! 'Cannot' states a real lack of comprehension. -->
+- [ ] B) must not
+  <!-- feedback: 'Must not' forbids an action, and no prohibition is mentioned. -->
+- [ ] C) should not
+  <!-- feedback: 'Should not' gives advice against listening again. -->
+- [ ] D) need not
+  <!-- feedback: 'Need not' removes an obligation and would not explain the change of method. -->
 
 ### Explicacion Pedagogica
-The word 'currency' is used to describe a system of money in general use in a particular country. This is an important vocabulary word in English.
+The explanation for changing method is a limitation of ability or comprehension, which 'cannot' expresses and the other three do not.
 ---
-## Question 14 [D8]
+## Question 14 [D4]
 **ID:** HN-ING-11-2026-W21-modals-ability-001-MASTERY-bundle-v14
 **Bloom:** Analyze
-**EJE:** Lexico
+**EJE:** Gramatica
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** A teacher prepares instructions for a group that has just started an English course.
 
 ### Enunciado
-What is the English word for: "A book of information about a place designed for the use of visitors or tourists."
+The new students ____ read the instructions in English yet, so the teacher explains them twice.
 
 ### Opciones
-- [x] C) guidebook
-  <!-- feedback: Correct! A 'guidebook' is a book of information about a place written for visitors and tourists. -->
-- [ ] A) map
-  <!-- feedback: 'Map' is a single sheet or screen showing the layout of a place, not a book of information. -->
-- [ ] B) dictionary
-  <!-- feedback: 'Dictionary' is a book of word definitions of a language, not information about a place for visitors. -->
-- [ ] D) encyclopedia
-  <!-- feedback: 'Encyclopedia' is a general reference work with entries on every topic, not a guide written for tourists about one place. -->
+- [ ] A) must not
+  <!-- feedback: 'Must not' forbids an action, which is not described here. -->
+- [x] B) cannot
+  <!-- feedback: Correct! 'Cannot' states that the ability is absent, and the teacher's repetition is the consequence. -->
+- [ ] C) should not
+  <!-- feedback: 'Should not' would give advice, but the sentence reports a lack of skill. -->
+- [ ] D) need not
+  <!-- feedback: 'Need not' removes an obligation and would not explain the teacher's behaviour. -->
 
 ### Explicacion Pedagogica
-The word 'guidebook' is used to describe a book of information about a place designed for the use of visitors or tourists. This is an important vocabulary word in English.
+'Yet' at the end of the first clause marks an expected development that has not happened, which is a statement about a missing ability.
 ---
-## Question 15 [D7]
+## Question 15 [D4]
 **ID:** HN-ING-11-2026-W21-modals-ability-001-MASTERY-bundle-v15
-**Bloom:** Analyze
-**EJE:** Lexico
+**Bloom:** Apply
+**EJE:** Gramatica
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** A student describes a physical limitation that training did not remove.
 
 ### Enunciado
-What is the English word for: "A bag with shoulder straps that allow it to be carried on one's back."
+Even after two years of training, Pedro ____ hear a very high note without a hearing aid.
 
 ### Opciones
-- [x] C) backpack
-  <!-- feedback: Correct! A 'backpack' is the bag with shoulder straps that you carry on your back. -->
-- [ ] A) suitcase
-  <!-- feedback: 'Suitcase' is a case with a handle that you pull along, not a bag worn on the back. -->
-- [ ] B) briefcase
-  <!-- feedback: 'Briefcase' is a case for documents and a laptop, carried in the hand for work. -->
-- [ ] D) handbag
-  <!-- feedback: 'Handbag' is a bag for personal items carried on the arm or in the hand, with no back straps. -->
+- [ ] A) could
+  <!-- feedback: 'Could' would place the limitation in the past, and it still holds now. -->
+- [ ] B) may
+  <!-- feedback: 'May' expresses a possibility of hearing it, and no uncertainty is described. -->
+- [x] C) can
+  <!-- feedback: Correct! 'Cannot', contracted in the negative, states the permanent limitation of his hearing. -->
+- [ ] D) must
+  <!-- feedback: 'Must' would express an obligation, which is not the point of the sentence. -->
 
 ### Explicacion Pedagogica
-The word 'backpack' is used to describe a bag with shoulder straps that allow it to be carried on one's back. This is an important vocabulary word in English.
+The modal describes a capacity that is still absent in the present, so the negative of 'can' is the only form that fits.
 ---
-## Question 16 [D8]
+## Question 16 [D4]
 **ID:** HN-ING-11-2026-W21-modals-ability-001-MASTERY-bundle-v16
-**Bloom:** Analyze
-**EJE:** Lexico
+**Bloom:** Evaluate
+**EJE:** Gramatica
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** A group of students is on a school trip near an open beach.
 
 ### Enunciado
-What is the English word for: "In or to a foreign country, especially one across the sea."
+You ____ swim in the sea during a storm, which is clearly dangerous.
 
 ### Opciones
-- [x] B) overseas
-  <!-- feedback: Correct! 'Overseas' means in or to a foreign country, especially one across the sea. -->
-- [ ] A) domestic
-  <!-- feedback: 'Domestic' means inside your own country, the opposite of overseas. -->
-- [ ] C) local
-  <!-- feedback: 'Local' means in the area where you are, even more restricted than domestic; it never crosses a border. -->
-- [ ] D) national
-  <!-- feedback: 'National' refers to a whole country without saying it is foreign, so it does not imply going abroad. -->
+- [ ] A) cannot
+  <!-- feedback: 'Cannot' would state an impossibility, but a storm does not make swimming physically impossible. -->
+- [ ] B) must
+  <!-- feedback: 'Must' would state an obligation to do it. -->
+- [ ] C) need not
+  <!-- feedback: 'Need not' would say the action is optional, which hides the risk. -->
+- [x] D) should not
+  <!-- feedback: Correct! 'Should not' gives advice against the action, and the danger is what makes the advice necessary. -->
 
 ### Explicacion Pedagogica
-The word 'overseas' is used to describe in or to a foreign country, especially one across the sea. This is an important vocabulary word in English.
+'Should not' is the modal of advice. When the risk comes from a bad decision rather than from a physical limit, advice is the correct choice.
 ---
-## Question 17 [D9]
+## Question 17 [D4]
 **ID:** HN-ING-11-2026-W21-modals-ability-001-MASTERY-bundle-v17
 **Bloom:** Evaluate
-**EJE:** Lexico
+**EJE:** Gramatica
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** A teacher comments on a student who has revised carefully for a test.
 
 ### Enunciado
-What is the English word for: "An estimate of income and expenditure for a set period of time."
+You have studied the grammar, so you ____ be able to solve the exercise.
 
 ### Opciones
-- [x] B) budget
-  <!-- feedback: Correct! A 'budget' is the estimate of income and expenditure planned for a set period. -->
-- [ ] A) expense
-  <!-- feedback: 'Expense' is a single cost already paid; the definition is the estimate for the whole period. -->
-- [ ] C) cost
-  <!-- feedback: 'Cost' is the price of one thing, whereas a budget covers all income and all spending. -->
-- [ ] D) price
-  <!-- feedback: 'Price' is the amount a single item costs, not a plan of income and expenditure over time. -->
+- [x] A) should
+  <!-- feedback: Correct! 'Should' expresses a reasonable expectation based on the effort made. -->
+- [ ] B) must
+  <!-- feedback: 'Must' would state a logical certainty, which is too strong. -->
+- [ ] C) can
+  <!-- feedback: 'Can' states an ability, but the sentence is reasoning about an expected result. -->
+- [ ] D) will
+  <!-- feedback: 'Will' would predict the future without the modal reasoning of expectation. -->
 
 ### Explicacion Pedagogica
-The word 'budget' is used to describe an estimate of income and expenditure for a set period of time. This is an important vocabulary word in English.
+'Should' plus an infinitive expresses what is probable given the evidence. It is the modal of deduction, not of obligation.
 ---
-## Question 18 [D10]
+## Question 18 [D3]
 **ID:** HN-ING-11-2026-W21-modals-ability-001-MASTERY-bundle-v18
-**Bloom:** Evaluate
-**EJE:** Lexico
+**Bloom:** Apply
+**EJE:** Gramatica
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** A school organises a graduation ceremony in its main hall.
 
 ### Enunciado
-What is the English word for: "A practice or arrangement by which a company or government agency provides a guarantee of compensation for specified loss, damage, illness, or death in return for payment of a premium."
+The hall ____ hold five hundred people, but the school booked only two rooms.
 
 ### Opciones
-- [x] B) insurance
-  <!-- feedback: Correct! 'Insurance' is the arrangement by which an insurer promises compensation for loss, damage, illness or death in exchange for a premium. -->
-- [ ] A) warranty
-  <!-- feedback: 'Warranty' covers a product against defects for a limited period and is free of charge, not a premium-based contract. -->
-- [ ] C) guarantee
-  <!-- feedback: 'Guarantee' is the promise itself; 'insurance' is the whole contract arranged with an insurer for a premium. -->
-- [ ] D) policy
-  <!-- feedback: 'Policy' is the document that proves the insurance contract; the arrangement itself is the insurance. -->
+- [ ] A) may
+  <!-- feedback: 'May' expresses permission, and capacity is not permission. -->
+- [x] B) can
+  <!-- feedback: Correct! 'Can' states a physical capacity of the building in the present. -->
+- [ ] C) must
+  <!-- feedback: 'Could' would place the capacity in the past. -->
+- [ ] D) could
+  <!-- feedback: 'Must' would express an obligation about the booking. -->
 
 ### Explicacion Pedagogica
-The word 'insurance' is used to describe a practice or arrangement by which a company or government agency provides a guarantee of compensation for specified loss, damage, illness, or death in return for payment of a premium. This is an important vocabulary word in English.
+Capacity of a place is expressed with 'can'. The second clause changes the plan but not the capacity of the building.
 ---
-## Question 19 [D9]
+## Question 19 [D4]
 **ID:** HN-ING-11-2026-W21-modals-ability-001-MASTERY-bundle-v19
-**Bloom:** Evaluate
-**EJE:** Lexico
+**Bloom:** Analyze
+**EJE:** Gramatica
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** A teacher explains why a reading activity requires shared materials.
 
 ### Enunciado
-What is the English word for: "Treatment with a vaccine to produce immunity against a disease."
+____ the new students all have dictionaries, they cannot check a single word.
 
 ### Opciones
-- [x] D) vaccination
-  <!-- feedback: Correct! A 'vaccination' is the application of a vaccine that makes the body produce immunity against a disease. -->
-- [ ] A) medication
-  <!-- feedback: 'Medication' is a medicine you take to treat an illness, not the vaccine that prevents one. -->
-- [ ] B) prescription
-  <!-- feedback: 'Prescription' is the written order a doctor gives for a medicine, not the vaccine itself. -->
-- [ ] C) infection
-  <!-- feedback: 'Infection' is the state of having the disease; vaccination is what protects you before you get it. -->
+- [ ] A) Although
+  <!-- feedback: 'Although' would need a contrast, and the second clause supports the first. -->
+- [ ] B) Because
+  <!-- feedback: 'Because' would give a reason, but the first clause is the condition, not the reason. -->
+- [x] C) Unless
+  <!-- feedback: Correct! 'Unless' states the condition without which the negative result in the main clause would not be true. -->
+- [ ] D) So that
+  <!-- feedback: 'So that' introduces a purpose, and no goal is mentioned. -->
 
 ### Explicacion Pedagogica
-The word 'vaccination' is used to describe treatment with a vaccine to produce immunity against a disease. This is an important vocabulary word in English.
+The main clause carries the modal 'can' in a negative form, and 'unless' is the conditional that produces exactly that situation.
 ---
-## Question 20 [D10]
+## Question 20 [D5]
 **ID:** HN-ING-11-2026-W21-modals-ability-001-MASTERY-bundle-v20
-**Bloom:** Evaluate
-**EJE:** Lexico
+**Bloom:** Analyze
+**EJE:** Gramatica
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** A boarding school states its evening regulation.
 
 ### Enunciado
-What is the English word for: "Extreme tiredness and other physical effects felt by a person after a long flight across several time zones."
+No student ____ stay out after ten o'clock without written permission.
 
 ### Opciones
-- [x] A) jet lag
-  <!-- feedback: Correct! 'Jet lag' is the tiredness and disturbed body clock you feel after a flight across several time zones. -->
-- [ ] B) fatigue
-  <!-- feedback: 'Fatigue' is tiredness after effort or a long day, not specifically caused by crossing time zones. -->
-- [ ] C) exhaustion
-  <!-- feedback: 'Exhaustion' is extreme tiredness from overwork or lack of sleep, which is not the same as the time zone effect. -->
-- [ ] D) insomnia
-  <!-- feedback: 'Insomnia' is the inability to sleep, whereas jet lag comes with tiredness during the day and a shifted body clock. -->
+- [ ] A) can
+  <!-- feedback: 'Can not' would describe an inability, but a curfew is about permission. -->
+- [ ] B) could
+  <!-- feedback: 'Could' would place the permission in the past. -->
+- [ ] C) must
+  <!-- feedback: 'Must not' states a prohibition too, but the pair 'may ... permission' in the sentence is the matching collocation. -->
+- [x] D) may
+  <!-- feedback: Correct! 'May not' expresses a rule that forbids the action, and 'may' gives permission in its affirmative form. -->
 
 ### Explicacion Pedagogica
-The word 'jet lag' is used to describe extreme tiredness and other physical effects felt by a person after a long flight across several time zones. This is an important vocabulary word in English.
+'May' is the modal of permission, so its negative expresses the removal of that permission. The presence of the word 'permission' confirms the choice.
+---

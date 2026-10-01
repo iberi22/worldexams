@@ -20,463 +20,464 @@ bundle_index: 1
 # MASTERY Bundle - Ingles: Passive Voice Causative (W10)
 **20 preguntas | Ingles | Curriculo de Ingles**
 
+
 ---
 ## Question 1 [D3]
-**ID:** CR-ING-11-2026-W10-passive-voice-causative-001-MASTERY-bundle-v1
-**Bloom:** Remember
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
-
-### Enunciado
-What is the English word for: "A place where you live or stay on holiday."
-
-### Opciones
-- [x] C) accommodation
-  <!-- feedback: Correct! 'Accommodation' is the word for a place where you live or stay when you are on holiday. -->
-- [ ] A) transportation
-  <!-- feedback: 'Transportation' is the way you move from one place to another (buses, trains, planes), not the place where you sleep. -->
-- [ ] B) entertainment
-  <!-- feedback: 'Entertainment' is the fun or activities you enjoy, not the building or room where you stay. -->
-- [ ] D) currency
-  <!-- feedback: 'Currency' is the money of a country, which has nothing to do with where you sleep. -->
-
-### Explicacion Pedagogica
-The word 'accommodation' is used to describe a place where you live or stay on holiday. This is an important vocabulary word in English.
----
-## Question 2 [D4]
-**ID:** CR-ING-11-2026-W10-passive-voice-causative-001-MASTERY-bundle-v2
-**Bloom:** Remember
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
-
-### Enunciado
-What is the English word for: "A detailed plan or route of a journey."
-
-### Opciones
-- [x] C) itinerary
-  <!-- feedback: Correct! An 'itinerary' is a detailed plan of a journey, listing the places and times along the route. -->
-- [ ] A) baggage
-  <!-- feedback: 'Baggage' is the suitcases and bags you travel with, not the written plan of the trip. -->
-- [ ] B) destination
-  <!-- feedback: 'Destination' is the place you are going to, a single place, while an itinerary is the whole route plan. -->
-- [ ] D) passport
-  <!-- feedback: 'Passport' is the travel document that lets you cross a border, not the schedule of your trip. -->
-
-### Explicacion Pedagogica
-The word 'itinerary' is used to describe a detailed plan or route of a journey. This is an important vocabulary word in English.
----
-## Question 3 [D3]
-**ID:** CR-ING-11-2026-W10-passive-voice-causative-001-MASTERY-bundle-v3
+**ID:** CR-ING-11-2026-W10-passive-voice-causative-v1
 **Bloom:** Understand
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**EJE:** Linguistic Competence
+**Expected_Success:** 0.85
+**Contexto:** A sentence reads: 'The new library was built in 2019.'
 
 ### Enunciado
-What is the English word for: "The place to which someone or something is going or being sent."
+What is the passive voice of this sentence?
 
 ### Opciones
-- [x] A) destination
-  <!-- feedback: Correct! A 'destination' is the place someone or something is going or being sent to. -->
-- [ ] B) departure
-  <!-- feedback: 'Departure' is the action of leaving, the opposite end of the journey from the destination. -->
-- [ ] C) arrival
-  <!-- feedback: 'Arrival' is the act of getting there; the place you arrive at is the destination. -->
-- [ ] D) journey
-  <!-- feedback: 'Journey' is the whole trip from start to finish, not the place you are heading to. -->
+- [x] C) The builders built the new library in 2019.
+  <!-- feedback: In the active, the builders become the subject and perform the action that the passive attributes to the library. -->
+- [ ] D) The new library was building in 2019.
+  <!-- feedback: 'Was building' is a passive progressive, which is not the simple event described in the sentence. -->
+- [ ] A) The new library is built in 2019.
+  <!-- feedback: 'Is built' would place the construction in the present, while the original names the year 2019. -->
+- [ ] B) The new library built in 2019.
+  <!-- feedback: A passive sentence needs an auxiliary before the participle, and none appears here. -->
 
 ### Explicacion Pedagogica
-The word 'destination' is used to describe the place to which someone or something is going or being sent. This is an important vocabulary word in English.
+The passive moves the object of the active sentence into the subject position and adds an auxiliary. Recovering the active form is the fastest way to check whether a candidate transformation is correct.
+---
+## Question 2 [D3]
+**ID:** CR-ING-11-2026-W10-passive-voice-causative-v2
+**Bloom:** Apply
+**EJE:** Linguistic Competence
+**Expected_Success:** 0.85
+**Contexto:** A sentence reads: 'Rice is grown by thousands of small farmers in this region.'
+
+### Enunciado
+Which sentence is the active equivalent?
+
+### Opciones
+- [x] A) Thousands of small farmers grow rice in this region.
+  <!-- feedback: Moving 'rice' back to the object position and naming the farmers as the subject produces the active form. -->
+- [ ] B) Thousands of small farmers are growing rice here.
+  <!-- feedback: 'Are growing' is the active of the present continuous, which is not the tense of the original sentence. -->
+- [ ] C) Rice grows by thousands of small farmers in this region.
+  <!-- feedback: 'Rice' cannot be the subject that grows the crop, so this reading is nonsensical. -->
+- [ ] D) Thousands of small farmers grew rice in this region.
+  <!-- feedback: 'Grew' is the past simple and changes the time reference of the sentence. -->
+
+### Explicacion Pedagogica
+An active equivalent must contain exactly the same participants, tense and meaning as the passive. Checking all three prevents students from producing a sentence that is active but says something different.
+---
+## Question 3 [D4]
+**ID:** CR-ING-11-2026-W10-passive-voice-causative-v3
+**Bloom:** Analyze
+**EJE:** Linguistic Competence
+**Expected_Success:** 0.8
+**Contexto:** A report reads: 'Fifty hectares of forest were destroyed by the fire last year.'
+
+### Enunciado
+Which sentence explains why the report uses the passive voice?
+
+### Opciones
+- [x] C) The action matters more than who performed it
+  <!-- feedback: Reports often keep the affected party as the subject and omit the agent, so the focus stays on the forest. -->
+- [ ] D) The writer wants to name the person who started the fire
+  <!-- feedback: If the agent were the point of the sentence, the active form would be the appropriate choice. -->
+- [ ] A) The sentence must be shorter in the active form
+  <!-- feedback: The passive is not used for length, and here the active sentence would be no shorter than the passive. -->
+- [ ] B) The active form would be grammatically impossible
+  <!-- feedback: An active form exists and is perfectly grammatical, as the equivalent question demonstrates. -->
+
+### Explicacion Pedagogica
+Writers choose the passive when the agent is unknown, unimportant or already mentioned. Learning to ask why a text uses the passive is part of critical reading, because the choice of voice shapes what the reader notices.
 ---
 ## Question 4 [D4]
-**ID:** CR-ING-11-2026-W10-passive-voice-causative-001-MASTERY-bundle-v4
+**ID:** CR-ING-11-2026-W10-passive-voice-causative-v4
 **Bloom:** Understand
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**EJE:** Linguistic Competence
+**Expected_Success:** 0.8
+**Contexto:** A sentence reads: 'The road is being repaired at the moment.'
 
 ### Enunciado
-What is the English word for: "Suitcases or other bags in which to pack personal belongings for traveling."
+Which active sentence does the passive describe?
 
 ### Opciones
-- [x] D) luggage
-  <!-- feedback: Correct! 'Luggage' means suitcases and bags in which you pack your belongings for a trip. -->
-- [ ] A) ticket
-  <!-- feedback: 'Ticket' is the paper that gives you the right to travel on a bus, train or plane, not the bag itself. -->
-- [ ] B) flight
-  <!-- feedback: 'Flight' is the journey by plane, or the plane itself; the bags are called luggage. -->
-- [ ] C) reservation
-  <!-- feedback: 'Reservation' is the booking you make for a seat or a room, not the bags you pack. -->
+- [x] D) Someone is repairing the road at the moment.
+  <!-- feedback: 'Is being' plus participle is the passive continuous and its active counterpart uses 'is repairing' with an agent. -->
+- [ ] A) The road repairs itself at the moment.
+  <!-- feedback: A road cannot repair itself, so the passive subject cannot be the agent of the action. -->
+- [ ] B) The road repaired at the moment.
+  <!-- feedback: 'Repaired' would be the simple past, which the continuous form excludes. -->
+- [ ] C) Someone repaired the road at the moment.
+  <!-- feedback: The present continuous indicates an action in progress, not a completed one. -->
 
 ### Explicacion Pedagogica
-The word 'luggage' is used to describe suitcases or other bags in which to pack personal belongings for traveling. This is an important vocabulary word in English.
+The passive continuous describes an action in progress at the moment of speaking. Its active equivalent always requires an agent, since the true subject of a repair is a person or a crew.
 ---
-## Question 5 [D5]
-**ID:** CR-ING-11-2026-W10-passive-voice-causative-001-MASTERY-bundle-v5
-**Bloom:** Understand
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+## Question 5 [D4]
+**ID:** CR-ING-11-2026-W10-passive-voice-causative-v5
+**Bloom:** Evaluate
+**EJE:** Linguistic Competence
+**Expected_Success:** 0.8
+**Contexto:** A sentence reads: 'He had his car serviced before the trip.'
 
 ### Enunciado
-What is the English word for: "A traveler on a public or private conveyance other than the driver, pilot, or crew."
+What construction does this sentence use?
 
 ### Opciones
-- [x] B) passenger
-  <!-- feedback: Correct! A 'passenger' is a person who travels on a vehicle without being the driver, pilot or crew. -->
-- [ ] A) pedestrian
-  <!-- feedback: 'Pedestrian' is someone who travels on foot, so they are not on a conveyance at all. -->
-- [ ] C) commuter
-  <!-- feedback: 'Commuter' is someone who travels regularly between home and work; the definition here is any traveller on board, not only that daily case. -->
-- [ ] D) tourist
-  <!-- feedback: 'Tourist' is someone visiting for pleasure or sightseeing, but the definition covers every traveller on board, including commuters and residents. -->
+- [x] B) The causative with 'have' plus object plus past participle
+  <!-- feedback: 'Have' plus object plus participle describes having something done by someone else, which is the causative use. -->
+- [ ] C) The passive voice with 'had' as the past auxiliary
+  <!-- feedback: 'Had' can be the auxiliary of the past perfect, but here it belongs to the causative construction. -->
+- [ ] D) The present perfect with a participle
+  <!-- feedback: The present perfect would need 'has' plus participle with the subject performing the action. -->
+- [ ] A) A relative clause modifying 'car'
+  <!-- feedback: No relative pronoun appears, so the sentence contains no relative clause. -->
 
 ### Explicacion Pedagogica
-The word 'passenger' is used to describe a traveler on a public or private conveyance other than the driver, pilot, or crew. This is an important vocabulary word in English.
+The causative has two forms: 'have' plus object plus participle for arranged services, and 'get' plus object plus participle for arrangements the speaker obtains. The subject arranges the work rather than doing it.
 ---
-## Question 6 [D6]
-**ID:** CR-ING-11-2026-W10-passive-voice-causative-001-MASTERY-bundle-v6
-**Bloom:** Understand
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+## Question 6 [D5]
+**ID:** CR-ING-11-2026-W10-passive-voice-causative-v6
+**Bloom:** Apply
+**EJE:** Linguistic Competence
+**Expected_Success:** 0.8
+**Contexto:** A sentence reads: 'The letters have been delivered.'
 
 ### Enunciado
-What is the English word for: "The place at a port, airport, or frontier where officials check incoming goods, travelers, or luggage."
+Which sentence is the active equivalent?
 
 ### Opciones
-- [x] D) customs
-  <!-- feedback: Correct! 'Customs' is the office at a port, airport or border where officials check goods, travellers and luggage. -->
-- [ ] A) security
-  <!-- feedback: 'Security' is the staff who control safety and boarding inside the airport; it does not check the goods you bring in. -->
-- [ ] B) terminal
-  <!-- feedback: 'Terminal' is the whole building where passengers wait, eat and catch their flights. -->
-- [ ] C) gate
-  <!-- feedback: 'Gate' is the particular door you board through, not the place where officials inspect your luggage. -->
+- [x] A) The postman has delivered the letters.
+  <!-- feedback: The present perfect passive becomes the present perfect active with the agent as subject and the object after the verb. -->
+- [ ] B) The letters has delivered the postman.
+  <!-- feedback: Agreement is wrong: a plural subject 'letters' requires 'have', not 'has'. -->
+- [ ] C) The letters have delivered themselves.
+  <!-- feedback: Letters cannot deliver themselves, so the passive subject cannot become the agent here. -->
+- [ ] D) The postman has been delivered the letters.
+  <!-- feedback: The structure mixes the auxiliary of a passive with the word order of an active and is ungrammatical. -->
 
 ### Explicacion Pedagogica
-The word 'customs' is used to describe the place at a port, airport, or frontier where officials check incoming goods, travelers, or luggage. This is an important vocabulary word in English.
+The transformation of the present perfect passive follows the same pattern as any other passive: auxiliary plus participle becomes have plus past participle with the agent promoted to subject. The tense is preserved throughout.
 ---
 ## Question 7 [D5]
-**ID:** CR-ING-11-2026-W10-passive-voice-causative-001-MASTERY-bundle-v7
-**Bloom:** Apply
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**ID:** CR-ING-11-2026-W10-passive-voice-causative-v7
+**Bloom:** Analyze
+**EJE:** Linguistic Competence
+**Expected_Success:** 0.8
+**Contexto:** A sentence reads: 'It is widely believed that the species is disappearing.'
 
 ### Enunciado
-What is the English word for: "A document provided by an airline during check-in, giving a passenger permission to board the airplane."
+Which option explains the structure of this sentence?
 
 ### Opciones
-- [x] B) boarding pass
-  <!-- feedback: Correct! The 'boarding pass' is the document the airline gives you at check-in that authorises you to board. -->
-- [ ] A) visa
-  <!-- feedback: 'Visa' is the official permission to enter and stay in a country, requested before the trip, not the document that lets you board a plane. -->
-- [ ] C) receipt
-  <!-- feedback: 'Receipt' is the proof of payment for a purchase, not the travel document for boarding. -->
-- [ ] D) brochure
-  <!-- feedback: 'Brochure' is a small booklet of tourist information, not the document that lets you board. -->
+- [x] D) An impersonal passive report with a that-clause as subject
+  <!-- feedback: 'It' is a dummy subject, 'is believed' is the passive, and the that-clause carries the real content of the report. -->
+- [ ] A) A passive sentence in which 'the species' is the agent
+  <!-- feedback: 'The species' sits inside the that-clause as its subject and is the object of the verb 'believe', not the agent. -->
+- [ ] B) A causative construction with 'it' as the object
+  <!-- feedback: No causative construction is present, since there is no object receiving an arranged action. -->
+- [ ] C) A question in passive form
+  <!-- feedback: The sentence is a declarative statement and contains no auxiliary of question formation. -->
 
 ### Explicacion Pedagogica
-The word 'boarding pass' is used to describe a document provided by an airline during check-in, giving a passenger permission to board the airplane. This is an important vocabulary word in English.
+Reporting verbs such as 'believe', 'say' and 'report' are often used in the impersonal passive, which lets a writer avoid naming a source. This structure is extremely frequent in journalistic and academic English.
 ---
-## Question 8 [D6]
-**ID:** CR-ING-11-2026-W10-passive-voice-causative-001-MASTERY-bundle-v8
-**Bloom:** Apply
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+## Question 8 [D5]
+**ID:** CR-ING-11-2026-W10-passive-voice-causative-v8
+**Bloom:** Evaluate
+**EJE:** Linguistic Competence
+**Expected_Success:** 0.8
+**Contexto:** A contractor is discussing a building project.
 
 ### Enunciado
-What is the English word for: "The activity of visiting places of interest in a particular location."
+Which sentence uses the causative correctly?
 
 ### Opciones
-- [x] A) sightseeing
-  <!-- feedback: Correct! 'Sightseeing' is the activity of visiting the places of interest in a location. -->
-- [ ] B) shopping
-  <!-- feedback: 'Shopping' is buying things in stores, which is not the same as visiting the sights of a place. -->
-- [ ] C) hiking
-  <!-- feedback: 'Hiking' is walking in the countryside on trails, not the general activity of visiting a location's attractions. -->
-- [ ] D) camping
-  <!-- feedback: 'Camping' is staying outdoors in a tent, not visiting the sights of a location. -->
+- [x] D) They had the roof repaired before the rains began.
+  <!-- feedback: In the causative, the object sits between 'had' and the past participle, which is the fixed pattern of the construction. -->
+- [ ] A) They had repaired the roof before the rains began.
+  <!-- feedback: 'Had repaired' is a past perfect active form in which the contractor does the work personally. -->
+- [ ] B) They repaired the roof had before the rains began.
+  <!-- feedback: The participle cannot follow the object in this construction, so the word order is wrong. -->
+- [ ] C) They had the roof repair before the rains began.
+  <!-- feedback: The participle must be in the past form 'repaired', not the base form 'repair'. -->
 
 ### Explicacion Pedagogica
-The word 'sightseeing' is used to describe the activity of visiting places of interest in a particular location. This is an important vocabulary word in English.
+The causative's fixed order is have plus object plus past participle. Students who place the participle immediately after 'have' produce a past perfect instead, which changes who performs the action.
 ---
 ## Question 9 [D5]
-**ID:** CR-ING-11-2026-W10-passive-voice-causative-001-MASTERY-bundle-v9
+**ID:** CR-ING-11-2026-W10-passive-voice-causative-v9
 **Bloom:** Apply
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**EJE:** Linguistic Competence
+**Expected_Success:** 0.8
+**Contexto:** A speaker says: 'I had my hair cut before the ceremony.'
 
 ### Enunciado
-What is the English word for: "A thing that is kept as a reminder of a person, place, or event."
+What does the sentence tell us about the speaker?
 
 ### Opciones
-- [x] B) souvenir
-  <!-- feedback: Correct! A 'souvenir' is the object you keep afterwards as a reminder of a person, place or event you visited. -->
-- [ ] A) gift
-  <!-- feedback: 'Gift' is something you give to another person; a souvenir is kept by the person who took the trip. -->
-- [ ] C) award
-  <!-- feedback: 'Award' is a prize given for an achievement, not an object bought or kept as a memory. -->
-- [ ] D) prize
-  <!-- feedback: 'Prize' is the reward you win in a competition, so it comes from winning rather than from a journey. -->
+- [x] B) The speaker arranged for a hairdresser to cut the hair
+  <!-- feedback: The causative always implies that someone else performs the action the speaker arranged. -->
+- [ ] C) The speaker cut her own hair at home
+  <!-- feedback: Cutting one's own hair would require the active form 'I cut my hair'. -->
+- [ ] D) The speaker's hair was already cut when she arrived
+  <!-- feedback: The past participle and the causative structure indicate an arrangement completed before the ceremony, not a pre-existing condition. -->
+- [ ] A) The speaker will cut her hair after the ceremony
+  <!-- feedback: The sentence is entirely in the past, so no future action is being described. -->
 
 ### Explicacion Pedagogica
-The word 'souvenir' is used to describe a thing that is kept as a reminder of a person, place, or event. This is an important vocabulary word in English.
+The causative separates the person who arranges an action from the person who performs it. That distinction is the whole point of the construction and it is often tested directly in exams.
 ---
-## Question 10 [D6]
-**ID:** CR-ING-11-2026-W10-passive-voice-causative-001-MASTERY-bundle-v10
+## Question 10 [D5]
+**ID:** CR-ING-11-2026-W10-passive-voice-causative-v10
+**Bloom:** Understand
+**EJE:** Linguistic Competence
+**Expected_Success:** 0.75
+**Contexto:** A text reads: 'The bridge had been damaged before the earthquake struck.'
+
+### Enunciado
+What time relation does this sentence express?
+
+### Opciones
+- [x] A) The damage was already present before the earthquake began
+  <!-- feedback: The past perfect places the damage earlier than the past event named in the second clause. -->
+- [ ] B) The earthquake damaged the bridge during the quake
+  <!-- feedback: A simultaneous event would use the past simple in both halves. -->
+- [ ] C) The bridge will be repaired after the earthquake
+  <!-- feedback: Nothing in the sentence refers to a future repair. -->
+- [ ] D) The earthquake and the damage happened at the same moment
+  <!-- feedback: 'Before' establishes that the two events are not simultaneous. -->
+
+### Explicacion Pedagogica
+The past perfect always signals that one past event precedes another. It is frequently used with the passive in reports, where the writer establishes what was already known before the incident being described.
+---
+## Question 11 [D6]
+**ID:** CR-ING-11-2026-W10-passive-voice-causative-v11
+**Bloom:** Analyze
+**EJE:** Linguistic Competence
+**Expected_Success:** 0.75
+**Contexto:** A text reads: 'The proposal was met with strong opposition.'
+
+### Enunciado
+What does this passive construction emphasise?
+
+### Opciones
+- [x] B) The opposition itself rather than the group that expressed it
+  <!-- feedback: 'Met with' makes the opposition the subject, so the response is what the sentence presents as important. -->
+- [ ] C) The identity of the members of the committee
+  <!-- feedback: The group is not named at all in this sentence, so its identity is not the point. -->
+- [ ] D) The date when the opposition was expressed
+  <!-- feedback: No date appears anywhere in the sentence. -->
+- [ ] A) The reason why the committee objected
+  <!-- feedback: The sentence states that opposition was strong without giving any reason for it. -->
+
+### Explicacion Pedagogica
+Several verbs change meaning in the passive, and 'meet' is the standard example in exam material. 'Was met with' always means a reaction was received, never that a meeting took place.
+---
+## Question 12 [D6]
+**ID:** CR-ING-11-2026-W10-passive-voice-causative-v12
+**Bloom:** Evaluate
+**EJE:** Linguistic Competence
+**Expected_Success:** 0.75
+**Contexto:** A worker says: 'I am having my kitchen redesigned.'
+
+### Enunciado
+Which statement about this sentence is accurate?
+
+### Opciones
+- [x] B) The worker arranged the work and a designer carries it out
+  <!-- feedback: The present form of the causative shows an arrangement in progress, with the designer as the real agent. -->
+- [ ] C) The worker is redesigning the kitchen alone
+  <!-- feedback: Doing the work alone would require the active form 'I am redesigning the kitchen'. -->
+- [ ] D) The kitchen is being redesigned by the worker now
+  <!-- feedback: That reading would need the passive form 'The kitchen is being redesigned by me'. -->
+- [ ] A) The design has already been completed
+  <!-- feedback: Nothing in the present form indicates that the work has already been finished. -->
+
+### Explicacion Pedagogica
+Causatives exist in the present, the past and the past perfect, and the tense of the auxiliary shows the time of the arrangement itself. This item checks that the student separates the time of arranging from the time of doing.
+---
+## Question 13 [D6]
+**ID:** CR-ING-11-2026-W10-passive-voice-causative-v13
 **Bloom:** Apply
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**EJE:** Linguistic Competence
+**Expected_Success:** 0.75
+**Contexto:** A text reads: 'The samples must be tested before the results can be published.'
 
 ### Enunciado
-What is the English word for: "A period of time by which something is late or postponed."
+Which sentence has the same modal meaning?
 
 ### Opciones
-- [x] C) delay
-  <!-- feedback: Correct! A 'delay' is the extra time by which something ends up late or gets postponed. -->
-- [ ] A) cancellation
-  <!-- feedback: 'Cancellation' means the event does not happen at all, not that it happens later than planned. -->
-- [ ] B) departure
-  <!-- feedback: 'Departure' is the scheduled time or the act of leaving; the definition is about the extra time lost. -->
-- [ ] D) arrival
-  <!-- feedback: 'Arrival' is getting there, the opposite moment. Here we want the time lost, not the time you reach the destination. -->
+- [x] C) The laboratory must test the samples before the results can be published.
+  <!-- feedback: A modal passive becomes a modal active with the agent as subject and the modal unchanged before the base form of the verb. -->
+- [ ] D) The laboratory must be testing the samples before the results can be published.
+  <!-- feedback: 'Must be testing' is a modal passive continuous, which expresses a different, ongoing obligation. -->
+- [ ] A) The samples must testing the laboratory before the results can be published.
+  <!-- feedback: A modal cannot be followed by a gerund with the object in front of it, so the word order is impossible. -->
+- [ ] B) The samples must tested before the results can be published.
+  <!-- feedback: A modal never takes a past participle directly, so 'must tested' is ungrammatical. -->
 
 ### Explicacion Pedagogica
-The word 'delay' is used to describe a period of time by which something is late or postponed. This is an important vocabulary word in English.
+Modals pass unchanged from the passive to the active, which makes this transformation a reliable exercise. The base form after the modal is the feature students most often get wrong.
 ---
-## Question 11 [D7]
-**ID:** CR-ING-11-2026-W10-passive-voice-causative-001-MASTERY-bundle-v11
+## Question 14 [D6]
+**ID:** CR-ING-11-2026-W10-passive-voice-causative-v14
+**Bloom:** Analyze
+**EJE:** Linguistic Competence
+**Expected_Success:** 0.75
+**Contexto:** A text reads: 'Children should be given time to read before being asked to answer.'
+
+### Enunciado
+What does the passive allow the writer to avoid naming?
+
+### Opciones
+- [x] A) The person who gives the children the reading time
+  <!-- feedback: The agent of 'give' is left out, so the sentence focuses on what the children receive rather than on who provides it. -->
+- [ ] B) The children who are reading
+  <!-- feedback: The children are named as the subject of the sentence, so they are not what is avoided. -->
+- [ ] C) The time given for reading
+  <!-- feedback: The reading time appears in the sentence as the thing given. -->
+- [ ] D) The questions asked afterwards
+  <!-- feedback: The questions appear explicitly as the later activity. -->
+
+### Explicacion Pedagogica
+Advice about children is often written with an agentless passive because the advisor does not want to name a parent or a teacher. The result is a general statement that applies to any adult who supervises reading.
+---
+## Question 15 [D6]
+**ID:** CR-ING-11-2026-W10-passive-voice-causative-v15
+**Bloom:** Understand
+**EJE:** Linguistic Competence
+**Expected_Success:** 0.75
+**Contexto:** A sentence reads: 'The new law has been widely welcomed by farmers in the region.'
+
+### Enunciado
+Which tense does the passive use in this sentence?
+
+### Opciones
+- [x] D) Present perfect passive
+  <!-- feedback: 'Has been' plus participle is the present perfect passive, which connects a past event to its current relevance. -->
+- [ ] A) Past simple passive
+  <!-- feedback: The past simple passive would use 'was welcomed', and no past auxiliary appears here. -->
+- [ ] B) Present continuous passive
+  <!-- feedback: A continuous passive would need 'is being welcomed', which is absent. -->
+- [ ] C) Past continuous passive
+  <!-- feedback: The past continuous would require a specific past moment of the action, which the sentence does not name. -->
+
+### Explicacion Pedagogica
+Tense in the passive is carried entirely by the auxiliary, because the participle never changes. Reading the auxiliary is therefore the fastest way to identify the tense of any passive sentence.
+---
+## Question 16 [D7]
+**ID:** CR-ING-11-2026-W10-passive-voice-causative-v16
+**Bloom:** Evaluate
+**EJE:** Linguistic Competence
+**Expected_Success:** 0.7
+**Contexto:** A news article states: 'Three suspects were arrested in connection with the robbery, and they have since been released without charge.'
+
+### Enunciado
+Why does the writer use two different passives in this report?
+
+### Opciones
+- [x] C) The first records a past event and the second reports a change up to the present
+  <!-- feedback: 'Were arrested' fixes a completed action in the past, while 'have since been released' links the outcome to the present moment. -->
+- [ ] D) The first hides the police and the second hides the suspects
+  <!-- feedback: Naming an agent is a choice about focus, and the difference between the two clauses lies in tense rather than agent. -->
+- [ ] A) The two passives repeat the same information in two registers
+  <!-- feedback: The two clauses report different facts, so they are not a repetition of the same information. -->
+- [ ] B) The second passive is a causative form of the first
+  <!-- feedback: A causative would require 'have' plus object plus participle, and no such structure appears. -->
+
+### Explicacion Pedagogica
+Reporters move from past to present as a story develops, and the passive makes both halves precise without naming an agent each time. Recognising the shift in tense is what lets a reader follow the sequence of events.
+---
+## Question 17 [D7]
+**ID:** CR-ING-11-2026-W10-passive-voice-causative-v17
+**Bloom:** Analyze
+**EJE:** Linguistic Competence
+**Expected_Success:** 0.7
+**Contexto:** A sentence reads: 'The road was being widened when the accident happened.'
+
+### Enunciado
+Which option correctly identifies the two tenses present in the sentence?
+
+### Opciones
+- [x] A) Past continuous passive and past simple
+  <!-- feedback: 'Was being widened' describes work in progress during a past period, and 'happened' is the completed past simple event. -->
+- [ ] B) Past simple passive and past continuous
+  <!-- feedback: The order is reversed: the continuous clause comes first and the simple clause second. -->
+- [ ] C) Present perfect passive and past simple
+  <!-- feedback: No present perfect auxiliary appears in the sentence, and 'have since' is not present. -->
+- [ ] D) Past perfect passive and present simple
+  <!-- feedback: A past perfect would require 'had been widened', which is not the form used. -->
+
+### Explicacion Pedagogica
+Two tenses can appear in one sentence, and the past continuous passive plus past simple is a frequent combination in news narrative. Each clause is described separately, which is how a student should analyse any long sentence.
+---
+## Question 18 [D7]
+**ID:** CR-ING-11-2026-W10-passive-voice-causative-v18
 **Bloom:** Apply
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**EJE:** Linguistic Competence
+**Expected_Success:** 0.7
+**Contexto:** A homeowner says: 'We are having the fence painted next week.'
 
 ### Enunciado
-What is the English word for: "The act of reporting one's presence and registering, typically at an airport or hotel."
+Which sentence is the active equivalent of the causative?
 
 ### Opciones
-- [x] D) check-in
-  <!-- feedback: Correct! 'Check-in' is the act of reporting your arrival and registering at the airport or hotel counter. -->
-- [ ] A) check-out
-  <!-- feedback: 'Check-out' is the opposite moment, when you leave the hotel or hand back the room. -->
-- [ ] B) booking
-  <!-- feedback: 'Booking' is the reservation you made earlier; the act of registering your presence on arrival is check-in. -->
-- [ ] C) reservation
-  <!-- feedback: 'Reservation' is the booking document, not the act of reporting your presence at the desk. -->
+- [x] D) We are arranging for someone to paint the fence next week.
+  <!-- feedback: A causative describes an arrangement, and the active paraphrase must make the arrangement and the agent both explicit. -->
+- [ ] A) We are painting the fence next week.
+  <!-- feedback: Painting personally would remove the distinction that the causative creates between arranging and performing. -->
+- [ ] B) The fence is painting itself next week.
+  <!-- feedback: A fence cannot paint itself, so the fence cannot become the agent of the action. -->
+- [ ] C) We are being painted the fence next week.
+  <!-- feedback: The structure misplaces the passive auxiliary and is not a grammatical English clause. -->
 
 ### Explicacion Pedagogica
-The word 'check-in' is used to describe the act of reporting one's presence and registering, typically at an airport or hotel. This is an important vocabulary word in English.
+The distinction between arranging and performing is the meaning of the causative. Any paraphrase that loses that distinction, such as a plain active, is not equivalent to the original.
 ---
-## Question 12 [D8]
-**ID:** CR-ING-11-2026-W10-passive-voice-causative-001-MASTERY-bundle-v12
-**Bloom:** Apply
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
-
-### Enunciado
-What is the English word for: "A period of rest or waiting before a further stage in a journey."
-
-### Opciones
-- [x] B) layover
-  <!-- feedback: Correct! A 'layover' is a period of rest or waiting between two stages of a journey. -->
-- [ ] A) stopover
-  <!-- feedback: 'Stopover' usually means a deliberate visit in the middle of a trip, not just the wait between flights. -->
-- [ ] C) transfer
-  <!-- feedback: 'Transfer' is the change of vehicle itself, the movement; the definition is about the time of waiting. -->
-- [ ] D) transit
-  <!-- feedback: 'Transit' is a system of moving people and goods through a city, not a break between two flights. -->
-
-### Explicacion Pedagogica
-The word 'layover' is used to describe a period of rest or waiting before a further stage in a journey. This is an important vocabulary word in English.
----
-## Question 13 [D7]
-**ID:** CR-ING-11-2026-W10-passive-voice-causative-001-MASTERY-bundle-v13
-**Bloom:** Analyze
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
-
-### Enunciado
-What is the English word for: "A system of money in general use in a particular country."
-
-### Opciones
-- [x] A) currency
-  <!-- feedback: Correct! 'Currency' is the money system in general use in a particular country. -->
-- [ ] B) coin
-  <!-- feedback: 'Coin' is a single metal piece of money, one item within the currency, not the whole system. -->
-- [ ] C) banknote
-  <!-- feedback: 'Banknote' is a paper bill, one item of the currency rather than the system of money itself. -->
-- [ ] D) cash
-  <!-- feedback: 'Cash' means money in the physical form you hold, not the money system of a country. -->
-
-### Explicacion Pedagogica
-The word 'currency' is used to describe a system of money in general use in a particular country. This is an important vocabulary word in English.
----
-## Question 14 [D8]
-**ID:** CR-ING-11-2026-W10-passive-voice-causative-001-MASTERY-bundle-v14
-**Bloom:** Analyze
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
-
-### Enunciado
-What is the English word for: "A book of information about a place designed for the use of visitors or tourists."
-
-### Opciones
-- [x] A) guidebook
-  <!-- feedback: Correct! A 'guidebook' is a book of information about a place written for visitors and tourists. -->
-- [ ] B) map
-  <!-- feedback: 'Map' is a single sheet or screen showing the layout of a place, not a book of information. -->
-- [ ] C) dictionary
-  <!-- feedback: 'Dictionary' is a book of word definitions of a language, not information about a place for visitors. -->
-- [ ] D) encyclopedia
-  <!-- feedback: 'Encyclopedia' is a general reference work with entries on every topic, not a guide written for tourists about one place. -->
-
-### Explicacion Pedagogica
-The word 'guidebook' is used to describe a book of information about a place designed for the use of visitors or tourists. This is an important vocabulary word in English.
----
-## Question 15 [D7]
-**ID:** CR-ING-11-2026-W10-passive-voice-causative-001-MASTERY-bundle-v15
-**Bloom:** Analyze
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
-
-### Enunciado
-What is the English word for: "A bag with shoulder straps that allow it to be carried on one's back."
-
-### Opciones
-- [x] B) backpack
-  <!-- feedback: Correct! A 'backpack' is the bag with shoulder straps that you carry on your back. -->
-- [ ] A) suitcase
-  <!-- feedback: 'Suitcase' is a case with a handle that you pull along, not a bag worn on the back. -->
-- [ ] C) briefcase
-  <!-- feedback: 'Briefcase' is a case for documents and a laptop, carried in the hand for work. -->
-- [ ] D) handbag
-  <!-- feedback: 'Handbag' is a bag for personal items carried on the arm or in the hand, with no back straps. -->
-
-### Explicacion Pedagogica
-The word 'backpack' is used to describe a bag with shoulder straps that allow it to be carried on one's back. This is an important vocabulary word in English.
----
-## Question 16 [D8]
-**ID:** CR-ING-11-2026-W10-passive-voice-causative-001-MASTERY-bundle-v16
-**Bloom:** Analyze
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
-
-### Enunciado
-What is the English word for: "In or to a foreign country, especially one across the sea."
-
-### Opciones
-- [x] C) overseas
-  <!-- feedback: Correct! 'Overseas' means in or to a foreign country, especially one across the sea. -->
-- [ ] A) domestic
-  <!-- feedback: 'Domestic' means inside your own country, the opposite of overseas. -->
-- [ ] B) local
-  <!-- feedback: 'Local' means in the area where you are, even more restricted than domestic; it never crosses a border. -->
-- [ ] D) national
-  <!-- feedback: 'National' refers to a whole country without saying it is foreign, so it does not imply going abroad. -->
-
-### Explicacion Pedagogica
-The word 'overseas' is used to describe in or to a foreign country, especially one across the sea. This is an important vocabulary word in English.
----
-## Question 17 [D9]
-**ID:** CR-ING-11-2026-W10-passive-voice-causative-001-MASTERY-bundle-v17
+## Question 19 [D7]
+**ID:** CR-ING-11-2026-W10-passive-voice-causative-v19
 **Bloom:** Evaluate
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**EJE:** Linguistic Competence
+**Expected_Success:** 0.7
+**Contexto:** A writer is told to avoid the passive voice in an essay.
 
 ### Enunciado
-What is the English word for: "An estimate of income and expenditure for a set period of time."
+Which sentence applies the instruction correctly?
 
 ### Opciones
-- [x] D) budget
-  <!-- feedback: Correct! A 'budget' is the estimate of income and expenditure planned for a set period. -->
-- [ ] A) expense
-  <!-- feedback: 'Expense' is a single cost already paid; the definition is the estimate for the whole period. -->
-- [ ] B) cost
-  <!-- feedback: 'Cost' is the price of one thing, whereas a budget covers all income and all spending. -->
-- [ ] C) price
-  <!-- feedback: 'Price' is the amount a single item costs, not a plan of income and expenditure over time. -->
+- [x] C) The research team collected the data over two months.
+  <!-- feedback: The agent is named as the subject and the verb follows it directly, which is the active structure the instruction requires. -->
+- [ ] D) The data was collected over two months.
+  <!-- feedback: This is the passive form that the instruction explicitly rejects. -->
+- [ ] A) It was collected that the data took two months.
+  <!-- feedback: The dummy subject 'it' with an embedded clause is indirect and impersonal rather than active. -->
+- [ ] B) There was collected the data over two months.
+  <!-- feedback: An existential 'there' cannot serve as the subject of a transitive passive, so the sentence is ungrammatical. -->
 
 ### Explicacion Pedagogica
-The word 'budget' is used to describe an estimate of income and expenditure for a set period of time. This is an important vocabulary word in English.
+Avoiding the passive in an essay means naming the agent in the subject position. The three distractors represent the passive, an impersonal structure and an ungrammatical attempt, so the exercise tests the transformation itself.
 ---
-## Question 18 [D10]
-**ID:** CR-ING-11-2026-W10-passive-voice-causative-001-MASTERY-bundle-v18
-**Bloom:** Evaluate
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+## Question 20 [D7]
+**ID:** CR-ING-11-2026-W10-passive-voice-causative-v20
+**Bloom:** Analyze
+**EJE:** Linguistic Competence
+**Expected_Success:** 0.7
+**Contexto:** A legal sentence reads: 'The witness was made to repeat the statement three times.'
 
 ### Enunciado
-What is the English word for: "A practice or arrangement by which a company or government agency provides a guarantee of compensation for specified loss, damage, illness, or death in return for payment of a premium."
+What does the construction 'was made to' express?
 
 ### Opciones
-- [x] A) insurance
-  <!-- feedback: Correct! 'Insurance' is the arrangement by which an insurer promises compensation for loss, damage, illness or death in exchange for a premium. -->
-- [ ] B) warranty
-  <!-- feedback: 'Warranty' covers a product against defects for a limited period and is free of charge, not a premium-based contract. -->
-- [ ] C) guarantee
-  <!-- feedback: 'Guarantee' is the promise itself; 'insurance' is the whole contract arranged with an insurer for a premium. -->
-- [ ] D) policy
-  <!-- feedback: 'Policy' is the document that proves the insurance contract; the arrangement itself is the insurance. -->
+- [x] B) Someone obliged the witness to repeat the statement against her will
+  <!-- feedback: 'Make' plus object plus 'to' plus infinitive is causative and always carries the pressure of compulsion on the object. -->
+- [ ] C) The witness was asked politely and agreed willingly
+  <!-- feedback: Politeness and willingness would require a verb such as 'asked', not 'made'. -->
+- [ ] D) The witness repeated the statement on her own initiative
+  <!-- feedback: Doing it on her own initiative would need the active form with the witness as subject. -->
+- [ ] A) The witness was instructed to repeat it, without coercion
+  <!-- feedback: Coercion is precisely what the causative verb 'make' expresses, so the fourth reading removes its meaning. -->
 
 ### Explicacion Pedagogica
-The word 'insurance' is used to describe a practice or arrangement by which a company or government agency provides a guarantee of compensation for specified loss, damage, illness, or death in return for payment of a premium. This is an important vocabulary word in English.
----
-## Question 19 [D9]
-**ID:** CR-ING-11-2026-W10-passive-voice-causative-001-MASTERY-bundle-v19
-**Bloom:** Evaluate
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
-
-### Enunciado
-What is the English word for: "Treatment with a vaccine to produce immunity against a disease."
-
-### Opciones
-- [x] D) vaccination
-  <!-- feedback: Correct! A 'vaccination' is the application of a vaccine that makes the body produce immunity against a disease. -->
-- [ ] A) medication
-  <!-- feedback: 'Medication' is a medicine you take to treat an illness, not the vaccine that prevents one. -->
-- [ ] B) prescription
-  <!-- feedback: 'Prescription' is the written order a doctor gives for a medicine, not the vaccine itself. -->
-- [ ] C) infection
-  <!-- feedback: 'Infection' is the state of having the disease; vaccination is what protects you before you get it. -->
-
-### Explicacion Pedagogica
-The word 'vaccination' is used to describe treatment with a vaccine to produce immunity against a disease. This is an important vocabulary word in English.
----
-## Question 20 [D10]
-**ID:** CR-ING-11-2026-W10-passive-voice-causative-001-MASTERY-bundle-v20
-**Bloom:** Evaluate
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
-
-### Enunciado
-What is the English word for: "Extreme tiredness and other physical effects felt by a person after a long flight across several time zones."
-
-### Opciones
-- [x] D) jet lag
-  <!-- feedback: Correct! 'Jet lag' is the tiredness and disturbed body clock you feel after a flight across several time zones. -->
-- [ ] A) fatigue
-  <!-- feedback: 'Fatigue' is tiredness after effort or a long day, not specifically caused by crossing time zones. -->
-- [ ] B) exhaustion
-  <!-- feedback: 'Exhaustion' is extreme tiredness from overwork or lack of sleep, which is not the same as the time zone effect. -->
-- [ ] C) insomnia
-  <!-- feedback: 'Insomnia' is the inability to sleep, whereas jet lag comes with tiredness during the day and a shifted body clock. -->
-
-### Explicacion Pedagogica
-The word 'jet lag' is used to describe extreme tiredness and other physical effects felt by a person after a long flight across several time zones. This is an important vocabulary word in English.
+This item separates the causative from the passive, which look almost identical here. In the passive someone did something to the witness; in the causative someone obliged the witness to act, and the second reading is the one that matters legally.

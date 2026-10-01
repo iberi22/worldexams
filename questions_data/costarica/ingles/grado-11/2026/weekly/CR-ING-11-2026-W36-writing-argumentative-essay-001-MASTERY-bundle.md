@@ -17,466 +17,509 @@ tier: "legacy"
 creador: "Jules-Agent"
 bundle_index: 1
 ---
-# MASTERY Bundle - Ingles: Writing Argumentative Essay (W36)
-**20 preguntas | Ingles | Curriculo de Ingles**
+# Bundle MASTERY: Writing Argumentative Essay - Grado 11
+
+Este bundle contiene 20 preguntas sobre **writing-argumentative-essay** para grado 11,
+alineadas con el programa de estudios del MEP Costa Rica para Bachillerato 2026.
 
 ---
+
 ## Question 1 [D3]
 **ID:** CR-ING-11-2026-W36-writing-argumentative-essay-001-MASTERY-bundle-v1
 **Bloom:** Remember
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**EJE:** Linguistic Competence
+**Expected_Success:** 0.85
+**Contexto:** Students at Liceo Nacional de Cartago write a five-paragraph argumentative essay.
 
 ### Enunciado
-What is the English word for: "A place where you live or stay on holiday."
+Which part of an argumentative essay clearly states your position on the topic?
 
 ### Opciones
-- [x] A) accommodation
-  <!-- feedback: 'accommodation' is the word for a place where you live or stay, including on holiday. -->
-- [ ] B) transportation
-  <!-- feedback: 'transportation' means the way you travel, such as buses or planes, not where you stay. -->
-- [ ] C) entertainment
-  <!-- feedback: 'entertainment' is the activity of enjoying shows, films or games, not a place to live. -->
-- [ ] D) currency
-  <!-- feedback: 'currency' is the money of a country, such as the colon; a place to stay is not money. -->
+- [x] A) The thesis statement
+  <!-- feedback: A thesis statement declares the writer's position and argument in one clear sentence, usually at the end of the intro. -->
+- [ ] B) A body paragraph
+  <!-- feedback: A body paragraph develops reasons and evidence to prove that thesis, so it states the position only indirectly. -->
+- [ ] C) The conclusion
+  <!-- feedback: The conclusion sums up the arguments and leaves the reader with the final message, not the first claim. -->
+- [ ] D) A counterargument sentence
+  <!-- feedback: A counterargument sentence concedes the opposing view so the writer can answer it later in the essay. -->
 
 ### Explicacion Pedagogica
-The word 'accommodation' is used to describe a place where you live or stay on holiday. This is an important vocabulary word in English.
+An argumentative essay has introduction with thesis, body paragraphs, counterargument, and conclusion.
+
 ---
-## Question 2 [D4]
+
+## Question 2 [D3]
 **ID:** CR-ING-11-2026-W36-writing-argumentative-essay-001-MASTERY-bundle-v2
-**Bloom:** Remember
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
-
-### Enunciado
-What is the English word for: "A detailed plan or route of a journey."
-
-### Opciones
-- [x] D) itinerary
-  <!-- feedback: 'itinerary' is a detailed plan of a journey, listing the route and the stops along the way. -->
-- [ ] A) baggage
-  <!-- feedback: 'baggage' is the suitcases and bags you travel with, not the plan of the trip. -->
-- [ ] B) destination
-  <!-- feedback: 'destination' is only the place you are going to; the plan of the route is the itinerary. -->
-- [ ] C) passport
-  <!-- feedback: 'passport' is the travel document you show at the border, not the plan of a journey. -->
-
-### Explicacion Pedagogica
-The word 'itinerary' is used to describe a detailed plan or route of a journey. This is an important vocabulary word in English.
----
-## Question 3 [D3]
-**ID:** CR-ING-11-2026-W36-writing-argumentative-essay-001-MASTERY-bundle-v3
 **Bloom:** Understand
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**EJE:** Linguistic Competence
+**Expected_Success:** 0.85
+**Contexto:** In San Jose, a student argues that the city should add more bicycle lanes.
 
 ### Enunciado
-What is the English word for: "The place to which someone or something is going or being sent."
+Which sentence introduces a counterargument in an essay?
 
 ### Opciones
-- [x] A) destination
-  <!-- feedback: 'destination' names the place a person or thing is going or being sent to. -->
-- [ ] B) departure
-  <!-- feedback: 'departure' is the action of leaving, not the place you leave for. -->
-- [ ] C) arrival
-  <!-- feedback: 'arrival' is the moment of reaching a place, not the place itself. -->
-- [ ] D) journey
-  <!-- feedback: 'journey' is the whole trip from one place to another, not the place at the end of it. -->
+- [ ] A) Bicycle lanes would make traffic safer and faster for everyone.
+  <!-- feedback: This is a supporting reason for the writer's own position, so it belongs in a body paragraph, not a counterargument. -->
+- [ ] B) In conclusion, San Jose should build more bicycle lanes.
+  <!-- feedback: The phrase 'In conclusion' marks a closing move, so this sentence summarizes the argument instead of opposing it. -->
+- [x] C) Some drivers argue that bike lanes take too much road space.
+  <!-- feedback: This sentence voices the opposing side's view, which is exactly what a counterargument does before the writer answers it. -->
+- [ ] D) My essay discusses bike lanes, safety and road space.
+  <!-- feedback: This sentence only names the parts of the essay, so it takes no side and cannot present an opposing view. -->
 
 ### Explicacion Pedagogica
-The word 'destination' is used to describe the place to which someone or something is going or being sent. This is an important vocabulary word in English.
+A counterargument states the strongest opposing claim, and the writer then refutes it to strengthen the thesis.
+
 ---
+
+## Question 3 [D4]
+**ID:** CR-ING-11-2026-W36-writing-argumentative-essay-001-MASTERY-bundle-v3
+**Bloom:** Apply
+**EJE:** Linguistic Competence
+**Expected_Success:** 0.85
+**Contexto:** A Heredia student wants to argue that homework in high school should be reduced.
+
+### Enunciado
+Which thesis is clear, arguable and specific enough for that essay?
+
+### Opciones
+- [ ] A) Homework is something that students have.
+  <!-- feedback: It names a topic but states no position, so the reader cannot tell what the writer wants to prove. -->
+- [x] B) High schools in Costa Rica should cut homework because it reduces sleep and motivation.
+  <!-- feedback: It takes a clear position, names a reason, and is arguable, so it works as a thesis for a persuasive essay. -->
+- [ ] C) Some students do not like homework.
+  <!-- feedback: This reports a vague group feeling without an arguable claim, so it cannot guide body paragraphs. -->
+- [ ] D) This essay will talk about homework and schools.
+  <!-- feedback: This announces the topic instead of arguing a position, which makes it a topic sentence, not a thesis. -->
+
+### Explicacion Pedagogica
+A strong thesis takes a clear stance on a debatable issue and hints at the reasons, not only the topic.
+
+---
+
 ## Question 4 [D4]
 **ID:** CR-ING-11-2026-W36-writing-argumentative-essay-001-MASTERY-bundle-v4
-**Bloom:** Understand
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Bloom:** Analyze
+**EJE:** Linguistic Competence
+**Expected_Success:** 0.85
+**Contexto:** In Alajuela, a student argues that the city should fund more bicycle lanes.
 
 ### Enunciado
-What is the English word for: "Suitcases or other bags in which to pack personal belongings for traveling."
+In an argumentative essay, what does the last sentence of the introduction do?
 
 ### Opciones
-- [x] B) luggage
-  <!-- feedback: 'luggage' is the collective word for the suitcases and bags you pack for a trip. -->
-- [ ] A) ticket
-  <!-- feedback: 'ticket' is the document you buy that admits you to the journey. -->
-- [ ] C) flight
-  <!-- feedback: 'flight' is the plane or the scheduled trip itself, not the bags you carry. -->
-- [ ] D) reservation
-  <!-- feedback: 'reservation' is the booking you hold for a seat or a room. -->
+- [ ] A) It gives statistics about the city.
+  <!-- feedback: Statistics belong in body paragraphs as evidence, not as the closing move of an introduction. -->
+- [ ] B) It lists every paragraph of the essay.
+  <!-- feedback: Outlining the paragraphs previews the structure, but an introduction ends with the position, not a list. -->
+- [ ] C) It answers the strongest opposing view.
+  <!-- feedback: Answering the opposing view happens in the body, after the thesis is already on the table. -->
+- [x] D) It presents the thesis statement.
+  <!-- feedback: Introductions move from background to the writer's claim, so the thesis closes the paragraph and guides the body. -->
 
 ### Explicacion Pedagogica
-The word 'luggage' is used to describe suitcases or other bags in which to pack personal belongings for traveling. This is an important vocabulary word in English.
+The introduction funnels from context to the thesis, and the thesis sentence anchors every body paragraph.
+
 ---
+
 ## Question 5 [D5]
 **ID:** CR-ING-11-2026-W36-writing-argumentative-essay-001-MASTERY-bundle-v5
-**Bloom:** Understand
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Bloom:** Evaluate
+**EJE:** Linguistic Competence
+**Expected_Success:** 0.85
+**Contexto:** A student from Alajuela must defend one position about public transport in an essay.
 
 ### Enunciado
-What is the English word for: "A traveler on a public or private conveyance other than the driver, pilot, or crew."
+Which thesis best answers the prompt about free fares on city buses?
 
 ### Opciones
-- [x] C) passenger
-  <!-- feedback: 'passenger' is anyone travelling on a vehicle who is not the driver, the pilot or the crew. -->
-- [ ] A) pedestrian
-  <!-- feedback: 'pedestrian' is a person who travels on foot, not on a bus, a train or a plane. -->
-- [ ] B) commuter
-  <!-- feedback: 'commuter' is someone who travels regularly between home and work, a narrower idea than passenger. -->
-- [ ] D) tourist
-  <!-- feedback: 'tourist' is defined by travelling for pleasure and may also be the driver of a rented car; 'passenger' covers every rider who is not crew. -->
+- [x] A) Free bus fares in Alajuela would boost ridership and cut traffic, so the city should test them.
+  <!-- feedback: It answers the prompt directly, takes a side, and gives a reason, which is what an effective thesis must do. -->
+- [ ] B) Buses in Alajuela have fares and routes.
+  <!-- feedback: This only states a fact about fares, so it leaves no argument for the reader to follow or disagree with. -->
+- [ ] C) Fares are free in some cities.
+  <!-- feedback: This is a fact about other cities, not a position on Alajuela, so the prompt is never really addressed. -->
+- [ ] D) People in Alajuela can take the bus.
+  <!-- feedback: This describes a service, not an opinion, so it cannot serve as the thesis of an argumentative essay. -->
 
 ### Explicacion Pedagogica
-The word 'passenger' is used to describe a traveler on a public or private conveyance other than the driver, pilot, or crew. This is an important vocabulary word in English.
+Answering the prompt matters as much as taking a stance: the thesis must cover the exact issue that was asked.
+
 ---
-## Question 6 [D6]
+
+## Question 6 [D5]
 **ID:** CR-ING-11-2026-W36-writing-argumentative-essay-001-MASTERY-bundle-v6
-**Bloom:** Understand
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
-
-### Enunciado
-What is the English word for: "The place at a port, airport, or frontier where officials check incoming goods, travelers, or luggage."
-
-### Opciones
-- [x] D) customs
-  <!-- feedback: 'customs' is the office where officials check the goods, the luggage and the travellers entering a country. -->
-- [ ] A) security
-  <!-- feedback: 'security' refers to the staff and the measures that keep the airport safe, not to the goods check. -->
-- [ ] B) terminal
-  <!-- feedback: 'terminal' is the building where you wait for and board your flight. -->
-- [ ] C) gate
-  <!-- feedback: 'gate' is the door you board the plane through, not the place where officials check luggage. -->
-
-### Explicacion Pedagogica
-The word 'customs' is used to describe the place at a port, airport, or frontier where officials check incoming goods, travelers, or luggage. This is an important vocabulary word in English.
----
-## Question 7 [D5]
-**ID:** CR-ING-11-2026-W36-writing-argumentative-essay-001-MASTERY-bundle-v7
 **Bloom:** Apply
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**EJE:** Linguistic Competence
+**Expected_Success:** 0.85
+**Contexto:** A Monteverde student argues that tourism businesses should pay a local conservation fee.
 
 ### Enunciado
-What is the English word for: "A document provided by an airline during check-in, giving a passenger permission to board the airplane."
+Which thesis would be the strongest for that essay?
 
 ### Opciones
-- [x] A) boarding pass
-  <!-- feedback: 'boarding pass' is the slip the airline hands over at check-in that lets you board the plane. -->
-- [ ] B) visa
-  <!-- feedback: 'visa' is the official permission to enter and stay in a foreign country. -->
-- [ ] C) receipt
-  <!-- feedback: 'receipt' is the proof of payment for the ticket, not the document that lets you board. -->
-- [ ] D) brochure
-  <!-- feedback: 'brochure' is a small booklet with tourist information, not a travel document. -->
+- [ ] A) Tourism is very important for Monteverde.
+  <!-- feedback: This is a fact about an industry, so it offers no position for the writer to defend or a reader to reject. -->
+- [x] B) Monteverde hotels should fund reforestation, since tourism depends on the cloud forest.
+  <!-- feedback: It names who should act, what they should do, and why it matters, which makes the thesis specific and arguable. -->
+- [ ] C) Many people visit Monteverde every year.
+  <!-- feedback: This is a statistic about visitors, so it belongs in body paragraphs as background, not as the claim. -->
+- [ ] D) My favourite place in Costa Rica is Monteverde.
+  <!-- feedback: A personal preference cannot be argued with reasons and evidence, so it cannot serve as a thesis. -->
 
 ### Explicacion Pedagogica
-The word 'boarding pass' is used to describe a document provided by an airline during check-in, giving a passenger permission to board the airplane. This is an important vocabulary word in English.
+A thesis names the actors, the action proposed and the reason behind it, not only the subject of the essay.
+
 ---
+
+## Question 7 [D6]
+**ID:** CR-ING-11-2026-W36-writing-argumentative-essay-001-MASTERY-bundle-v7
+**Bloom:** Analyze
+**EJE:** Linguistic Competence
+**Expected_Success:** 0.85
+**Contexto:** A Cartago student argues that the canteen should offer more vegetarian meals.
+
+### Enunciado
+Why is this body sentence weak: 'Vegetarian meals are good for everyone'?
+
+### Opciones
+- [ ] A) It uses the word 'good', but key words are always allowed in essays.
+  <!-- feedback: Key words from the prompt are welcome in a thesis, so the problem here is not the choice of words. -->
+- [ ] B) It is a short sentence, and short sentences weaken an argument.
+  <!-- feedback: Sentence length has no effect on argument quality; a short claim simply needs supporting evidence after it. -->
+- [ ] C) It repeats the idea of the topic sentence instead of giving proof.
+  <!-- feedback: This restates the paragraph's point in new words, so it adds no reason, example or statistic to prove it. -->
+- [x] D) It is too informal because it uses the word 'everyone'.
+  <!-- feedback: The word 'everyone' is common in student writing; the real problem is that the sentence claims no evidence. -->
+
+### Explicacion Pedagogica
+Body sentences must prove the topic sentence with facts, examples or reasons; restating the claim proves nothing.
+
+---
+
 ## Question 8 [D6]
 **ID:** CR-ING-11-2026-W36-writing-argumentative-essay-001-MASTERY-bundle-v8
-**Bloom:** Apply
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Bloom:** Analyze
+**EJE:** Linguistic Competence
+**Expected_Success:** 0.85
+**Contexto:** A student in Puntarenas argues that buses should run later at night for ferry workers.
 
 ### Enunciado
-What is the English word for: "The activity of visiting places of interest in a particular location."
+Which sentence belongs in the counterargument paragraph, not the body?
 
 ### Opciones
-- [x] B) sightseeing
-  <!-- feedback: 'sightseeing' is visiting the places of interest of a location in order to look at them. -->
-- [ ] A) shopping
-  <!-- feedback: 'shopping' is buying things, which is a different activity from visiting sights. -->
-- [ ] C) hiking
-  <!-- feedback: 'hiking' is walking in the countryside along a trail, usually for exercise. -->
-- [ ] D) camping
-  <!-- feedback: 'camping' means spending the night outdoors in a tent. -->
+- [x] A) Some residents say the extra night buses would increase noise complaints.
+  <!-- feedback: This reports what an opposing group believes, which is the material a counterargument paragraph refutes. -->
+- [ ] B) Night workers currently wait up to two hours for the last bus home.
+  <!-- feedback: This is evidence for the writer's own claim, so it belongs in a body paragraph supporting the thesis. -->
+- [ ] C) The city has run three different bus schedules in the last year.
+  <!-- feedback: This is a neutral fact about the city's history, so it explains the topic without arguing either side. -->
+- [ ] D) Later night service is exactly what ferry workers have asked the city for.
+  <!-- feedback: This restates the thesis with a source, so it strengthens the writer's position instead of opposing it. -->
 
 ### Explicacion Pedagogica
-The word 'sightseeing' is used to describe the activity of visiting places of interest in a particular location. This is an important vocabulary word in English.
+A counterargument paragraph presents the other side's claim and then answers it, unlike body paragraphs that back your own thesis.
+
 ---
-## Question 9 [D5]
+
+## Question 9 [D7]
 **ID:** CR-ING-11-2026-W36-writing-argumentative-essay-001-MASTERY-bundle-v9
-**Bloom:** Apply
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Bloom:** Evaluate
+**EJE:** Linguistic Competence
+**Expected_Success:** 0.85
+**Contexto:** A Heredia student argues that homework should be cut in favour of sports practice.
 
 ### Enunciado
-What is the English word for: "A thing that is kept as a reminder of a person, place, or event."
+Which closing sentence best finishes that argumentative essay?
 
 ### Opciones
-- [x] D) souvenir
-  <!-- feedback: 'souvenir' is an object kept because it reminds you of a person, a place or an event. -->
-- [ ] A) gift
-  <!-- feedback: 'gift' is anything given to someone else; a souvenir is kept by the buyer as a reminder. -->
-- [ ] B) award
-  <!-- feedback: 'award' is a distinction given for a merit or an achievement. -->
-- [ ] C) prize
-  <!-- feedback: 'prize' is what is won in a competition, not an object bought to remember a trip. -->
+- [ ] A) In this essay I talked about homework, sports and school.
+  <!-- feedback: This only lists the sections of the essay, so it is a summary of the structure and not a persuasive ending. -->
+- [ ] B) Homework and sports are both important things in school life.
+  <!-- feedback: This is a general observation about two topics, so it adds no argument and simply restates what is already clear. -->
+- [x] C) Schools that cut homework now give students back the hours that training and rest require.
+  <!-- feedback: It returns to the thesis and extends it with a consequence, which is what a strong conclusion should do. -->
+- [ ] D) I really liked writing about this topic for my essay.
+  <!-- feedback: This comments on the writer's own writing, not on the topic, so it tells the reader nothing new. -->
 
 ### Explicacion Pedagogica
-The word 'souvenir' is used to describe a thing that is kept as a reminder of a person, place, or event. This is an important vocabulary word in English.
+A good conclusion restates the claim and adds a consequence, a recommendation or a new idea rather than repeating the intro.
+
 ---
-## Question 10 [D6]
+
+## Question 10 [D7]
 **ID:** CR-ING-11-2026-W36-writing-argumentative-essay-001-MASTERY-bundle-v10
-**Bloom:** Apply
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Bloom:** Evaluate
+**EJE:** Linguistic Competence
+**Expected_Success:** 0.85
+**Contexto:** A Liberia student argues for more shade trees around the school playground.
 
 ### Enunciado
-What is the English word for: "A period of time by which something is late or postponed."
+Which evidence best supports the claim that more shade trees are needed?
 
 ### Opciones
-- [x] B) delay
-  <!-- feedback: 'delay' is the extra period of time by which something becomes late or is postponed. -->
-- [ ] A) cancellation
-  <!-- feedback: 'cancellation' ends the booking or the trip altogether rather than pushing it back. -->
-- [ ] C) departure
-  <!-- feedback: 'departure' is the time a vehicle is scheduled to leave, not a postponement. -->
-- [ ] D) arrival
-  <!-- feedback: 'arrival' is the moment you reach the destination, not the waiting time. -->
+- [ ] A) Trees are nice and everybody likes them.
+  <!-- feedback: This is a general opinion with no evidence, so it shows the writer's taste rather than proving the need. -->
+- [x] B) The school nurse counted 30 students treated for heat headaches last term.
+  <!-- feedback: Specific measured data from the school itself supports the claim and can be checked by the reader. -->
+- [ ] C) Trees grow in many parts of Costa Rica.
+  <!-- feedback: This only states where trees can grow, so it says nothing about conditions on this playground. -->
+- [ ] D) My friend says the playground feels hot at noon.
+  <!-- feedback: One friend's impression is anecdotal and unverified, so it is far weaker than recorded data. -->
 
 ### Explicacion Pedagogica
-The word 'delay' is used to describe a period of time by which something is late or postponed. This is an important vocabulary word in English.
+Strong evidence is specific, measurable and checkable; opinions and single impressions prove nothing to a critical reader.
+
 ---
-## Question 11 [D7]
+
+## Question 11 [D8]
 **ID:** CR-ING-11-2026-W36-writing-argumentative-essay-001-MASTERY-bundle-v11
-**Bloom:** Apply
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Bloom:** Analyze
+**EJE:** Linguistic Competence
+**Expected_Success:** 0.85
+**Contexto:** A student in San Jose argues that recycling bins should be added to every classroom.
 
 ### Enunciado
-What is the English word for: "The act of reporting one's presence and registering, typically at an airport or hotel."
+Which sentence best states the opposing view in this essay?
 
 ### Opciones
-- [x] D) check-in
-  <!-- feedback: 'check-in' is reporting your presence at the airport or the hotel and registering. -->
-- [ ] A) check-out
-  <!-- feedback: 'check-out' is the opposite moment: leaving the hotel and settling the bill. -->
-- [ ] B) booking
-  <!-- feedback: 'booking' is reserving the room or the seat in advance, which happens before you arrive. -->
-- [ ] C) reservation
-  <!-- feedback: 'reservation' is the record of that booking, not the act of reporting your presence. -->
+- [ ] A) Recycling bins should be added to every classroom.
+  <!-- feedback: This is the writer's own thesis, so it belongs in the introduction and not with the opposing position. -->
+- [ ] B) Recycling protects the environment for future generations.
+  <!-- feedback: This supports the thesis with a benefit, so it serves as a body paragraph reason rather than a counter claim. -->
+- [x] C) Some teachers argue that bins in classrooms create more mess than they solve.
+  <!-- feedback: It names who disagrees and what they believe, which is precisely what the counterargument paragraph must present. -->
+- [ ] D) In conclusion, schools should teach recycling from primary school.
+  <!-- feedback: A closing statement like 'In conclusion' belongs at the end, so this sentence cannot open the opposing argument. -->
 
 ### Explicacion Pedagogica
-The word 'check-in' is used to describe the act of reporting one's presence and registering, typically at an airport or hotel. This is an important vocabulary word in English.
+A counterargument sentence attributes a claim to the other side and then answers it, which keeps the reader's trust.
+
 ---
+
 ## Question 12 [D8]
 **ID:** CR-ING-11-2026-W36-writing-argumentative-essay-001-MASTERY-bundle-v12
-**Bloom:** Apply
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Bloom:** Analyze
+**EJE:** Linguistic Competence
+**Expected_Success:** 0.85
+**Contexto:** A Turrialba student argues that the town should build a public bike repair station.
 
 ### Enunciado
-What is the English word for: "A period of rest or waiting before a further stage in a journey."
+Which choice turns this vague claim into a debatable thesis?
 
 ### Opciones
-- [x] A) layover
-  <!-- feedback: 'layover' is the rest or the waiting period between two stages of a journey. -->
-- [ ] B) stopover
-  <!-- feedback: 'stopover' is a break in a journey during which you leave the vehicle, often overnight. -->
-- [ ] C) transfer
-  <!-- feedback: 'transfer' is the change from one vehicle or flight to another, the act rather than the waiting time. -->
-- [ ] D) transit
-  <!-- feedback: 'transit' means passage through a place or the system that carries people, not the pause itself. -->
+- [x] A) Bikes help people in Turrialba get around town faster.
+  <!-- feedback: This is a general true statement, so it gives the writer nothing to argue about and readers nothing to dispute. -->
+- [ ] B) Public bicycle repair stations exist in many cities.
+  <!-- feedback: This is a fact about other cities, so it gives context but takes no position on what Turrialba should do. -->
+- [ ] C) Turrialba should build a public bike repair station near the main park.
+  <!-- feedback: It states a clear proposal about a specific place, so readers can agree or disagree and the essay has a real question. -->
+- [ ] D) My cousin rides a bicycle to work every morning.
+  <!-- feedback: A single personal habit is an anecdote, not an arguable position that a whole essay could defend. -->
 
 ### Explicacion Pedagogica
-The word 'layover' is used to describe a period of rest or waiting before a further stage in a journey. This is an important vocabulary word in English.
+A thesis is arguable when readers could reasonably disagree, so it must propose something instead of stating a fact.
+
 ---
-## Question 13 [D7]
+
+## Question 13 [D9]
 **ID:** CR-ING-11-2026-W36-writing-argumentative-essay-001-MASTERY-bundle-v13
 **Bloom:** Analyze
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**EJE:** Linguistic Competence
+**Expected_Success:** 0.85
+**Contexto:** A student in Puntarenas argues that school start times should be later.
 
 ### Enunciado
-What is the English word for: "A system of money in general use in a particular country."
+Which option repairs this flaw in the thesis 'School is not perfect for us'?
 
 ### Opciones
-- [x] A) currency
-  <!-- feedback: 'currency' is the whole money system in general use in a particular country. -->
-- [ ] B) coin
-  <!-- feedback: 'coin' is a single round piece of metal money, only one part of a currency. -->
-- [ ] C) banknote
-  <!-- feedback: 'banknote' is a paper note, again only one part of a country's money system. -->
-- [ ] D) cash
-  <!-- feedback: 'cash' is money in coins and notes seen as a form of payment, not the system a country has. -->
+- [ ] A) School is not perfect for anybody anywhere in the world.
+  <!-- feedback: Adding 'anywhere in the world' keeps the claim vague, so the writer still avoids naming who should act. -->
+- [ ] B) School is not perfect, and that is fine.
+  <!-- feedback: Adding 'and that is fine' turns the complaint into agreement, so the thesis no longer argues for a change. -->
+- [ ] C) School is the most perfect system that was ever built.
+  <!-- feedback: Calling school the most perfect system contradicts the critical tone and drops the argument about start times. -->
+- [x] D) Costa Rican high schools should start at 7:30 a.m. so students get more sleep.
+  <!-- feedback: It adds a specific actor, a concrete proposal and a reason, which turns a complaint into a defensible thesis. -->
 
 ### Explicacion Pedagogica
-The word 'currency' is used to describe a system of money in general use in a particular country. This is an important vocabulary word in English.
+A thesis needs a specific proposal plus a reason; vague complaints about a system cannot be argued for or against.
+
 ---
-## Question 14 [D8]
+
+## Question 14 [D9]
 **ID:** CR-ING-11-2026-W36-writing-argumentative-essay-001-MASTERY-bundle-v14
-**Bloom:** Analyze
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Bloom:** Evaluate
+**EJE:** Linguistic Competence
+**Expected_Success:** 0.85
+**Contexto:** A student in Tibas writes an essay arguing that the municipality should publish water quality reports.
 
 ### Enunciado
-What is the English word for: "A book of information about a place designed for the use of visitors or tourists."
+Which paragraph would most weaken the argument that water data should be public?
 
 ### Opciones
-- [x] A) guidebook
-  <!-- feedback: 'guidebook' is a book of information about a place written for the use of visitors. -->
-- [ ] B) map
-  <!-- feedback: 'map' is a drawing of the area, not a book of information. -->
-- [ ] C) dictionary
-  <!-- feedback: 'dictionary' explains the words of a language, not the places of a region. -->
-- [ ] D) encyclopedia
-  <!-- feedback: 'encyclopedia' covers all branches of knowledge, not one destination for tourists. -->
+- [ ] A) Only three families in Tibas read the newspaper, so reports reach few people.
+  <!-- feedback: A small readership may limit impact, but it does not remove the public's right to know how their water is treated. -->
+- [x] B) The ministry already publishes national water data every year, so local reports would add nothing.
+  <!-- feedback: Existing national data makes the local proposal redundant, which removes the writer's reason for asking for change. -->
+- [ ] C) Water quality in Tibas has improved since the treatment plant was rebuilt.
+  <!-- feedback: Improved quality supports the writer's concern and shows the system works, so it strengthens rather than weakens it. -->
+- [ ] D) Reading about water takes time that students would rather spend playing sports.
+  <!-- feedback: Saying people prefer other activities criticises their choices instead of the argument, so it is not a real objection. -->
 
 ### Explicacion Pedagogica
-The word 'guidebook' is used to describe a book of information about a place designed for the use of visitors or tourists. This is an important vocabulary word in English.
+A strong objection attacks the necessity or logic of the proposal, not the habits or preferences of the people involved.
+
 ---
-## Question 15 [D7]
+
+## Question 15 [D10]
 **ID:** CR-ING-11-2026-W36-writing-argumentative-essay-001-MASTERY-bundle-v15
-**Bloom:** Analyze
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Bloom:** Evaluate
+**EJE:** Linguistic Competence
+**Expected_Success:** 0.85
+**Contexto:** A student in Liberia argues that the canton should replace diesel buses with electric ones.
 
 ### Enunciado
-What is the English word for: "A bag with shoulder straps that allow it to be carried on one's back."
+Which reply most convincingly refutes the objection about cost?
 
 ### Opciones
-- [x] B) backpack
-  <!-- feedback: 'backpack' has shoulder straps and is carried on the back. -->
-- [ ] A) suitcase
-  <!-- feedback: 'suitcase' is a case with a handle that is pulled along, not one worn on the back. -->
-- [ ] C) briefcase
-  <!-- feedback: 'briefcase' is a flat case for documents that you carry by hand at work. -->
-- [ ] D) handbag
-  <!-- feedback: 'handbag' is a small bag held in the hand, usually for personal items. -->
+- [ ] A) Electric buses cost nothing, so the cost objection is simply false.
+  <!-- feedback: Saying the cost is zero is factually untrue, so this reply loses credibility instead of answering the objection. -->
+- [ ] B) The canton should think about money more carefully before buying anything new.
+  <!-- feedback: This asks readers to agree on tone rather than reasons, so it offers no evidence to settle the money question. -->
+- [x] C) Over ten years the lower fuel and maintenance costs repay the price, plus grants cover part of it.
+  <!-- feedback: It answers with a time frame, comparable costs and funding, so it meets the objection with evidence rather than slogans. -->
+- [ ] D) Diesel buses are the cheapest option, so the canton should keep them.
+  <!-- feedback: Restating the objection as the writer's conclusion abandons the thesis, so the argument collapses instead of being defended. -->
 
 ### Explicacion Pedagogica
-The word 'backpack' is used to describe a bag with shoulder straps that allow it to be carried on one's back. This is an important vocabulary word in English.
+To refute an objection you must answer the same point with data or reasoning, not change the subject or drop your thesis.
+
 ---
+
 ## Question 16 [D8]
 **ID:** CR-ING-11-2026-W36-writing-argumentative-essay-001-MASTERY-bundle-v16
 **Bloom:** Analyze
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**EJE:** Linguistic Competence
+**Expected_Success:** 0.85
+**Contexto:** A student in Alajuela argues that the town should build a protected bike lane network.
 
 ### Enunciado
-What is the English word for: "In or to a foreign country, especially one across the sea."
+Which plan best answers this prompt about a protected bike lane in Alajuela?
 
 ### Opciones
-- [x] A) overseas
-  <!-- feedback: 'overseas' means in or to a foreign country, especially one across the sea. -->
-- [ ] B) domestic
-  <!-- feedback: 'domestic' means inside the same country, which is the opposite of overseas. -->
-- [ ] C) local
-  <!-- feedback: 'local' means belonging to a small area nearby, not to a foreign country. -->
-- [ ] D) national
-  <!-- feedback: 'national' means concerning the whole nation and says nothing about being abroad. -->
+- [ ] A) This essay will describe the history of bicycles in Alajuela.
+  <!-- feedback: Announcing a history is only a topic, so the plan never commits to a position the reader could debate. -->
+- [ ] B) In this essay I will discuss my favourite bike and where I ride it.
+  <!-- feedback: Focusing on a private favourite narrows the essay to the writer, so it cannot persuade the whole community. -->
+- [ ] C) The word bike comes from English and refers to a two-wheeled vehicle.
+  <!-- feedback: Defining the word 'bike' is a vocabulary step, so it prepares no argument at all about the town's transport. -->
+- [x] D) This essay argues that Alajuela should build protected bike lanes and refutes the cost objection.
+  <!-- feedback: It names the stance and the objection to answer, which is exactly what an argumentative essay plan must promise. -->
 
 ### Explicacion Pedagogica
-The word 'overseas' is used to describe in or to a foreign country, especially one across the sea. This is an important vocabulary word in English.
+An argumentative plan states the position plus the arguments and objections, while a narrative or descriptive plan would not.
+
 ---
-## Question 17 [D9]
+
+## Question 17 [D8]
 **ID:** CR-ING-11-2026-W36-writing-argumentative-essay-001-MASTERY-bundle-v17
-**Bloom:** Evaluate
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Bloom:** Apply
+**EJE:** Linguistic Competence
+**Expected_Success:** 0.85
+**Contexto:** A Monteverde student argues that eco-tour operators should limit daily visitor numbers.
 
 ### Enunciado
-What is the English word for: "An estimate of income and expenditure for a set period of time."
+Which revised sentence turns this weak claim into a strong argumentative thesis?
 
 ### Opciones
-- [x] C) budget
-  <!-- feedback: 'budget' is an estimate of income and expenditure planned for a set period. -->
-- [ ] A) expense
-  <!-- feedback: 'expense' is a single amount of money that is spent, not the plan for a whole period. -->
-- [ ] B) cost
-  <!-- feedback: 'cost' is what one item or one service costs, again not an estimate for a period. -->
-- [ ] D) price
-  <!-- feedback: 'price' is the sum a customer pays for one product; a budget covers income and spending together. -->
+- [ ] A) Tourists should think about nature when they visit cloud forests.
+  <!-- feedback: This is gentle advice with no proposal, so there is nothing for readers to support or reject in the essay. -->
+- [x] B) Reserving cloud forest trails will protect fragile habitats and keep local guides employed.
+  <!-- feedback: It proposes one action and gives two benefits, so it is specific, arguable and supported by the paragraphs to follow. -->
+- [ ] C) Monteverde is a beautiful place that many tourists like to visit.
+  <!-- feedback: A compliment to the destination supports neither side of the debate, so it cannot carry an argumentative thesis. -->
+- [ ] D) The trail system was built a long time ago and it is still used today.
+  <!-- feedback: This historical note gives background context, which belongs in the introduction rather than in the thesis itself. -->
 
 ### Explicacion Pedagogica
-The word 'budget' is used to describe an estimate of income and expenditure for a set period of time. This is an important vocabulary word in English.
+A strong thesis proposes a specific action and adds a reason, so the essay can spend its paragraphs proving that benefit.
+
 ---
-## Question 18 [D10]
+
+## Question 18 [D9]
 **ID:** CR-ING-11-2026-W36-writing-argumentative-essay-001-MASTERY-bundle-v18
-**Bloom:** Evaluate
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Bloom:** Analyze
+**EJE:** Linguistic Competence
+**Expected_Success:** 0.85
+**Contexto:** A student in Heredia argues that public libraries should stay open on Sundays.
 
 ### Enunciado
-What is the English word for: "A practice or arrangement by which a company or government agency provides a guarantee of compensation for specified loss, damage, illness, or death in return for payment of a premium."
+Which sentence belongs in the introduction rather than the body?
 
 ### Opciones
-- [x] C) insurance
-  <!-- feedback: 'insurance' is the arrangement in which a company pays compensation for a loss in exchange for a premium. -->
-- [ ] A) warranty
-  <!-- feedback: 'warranty' is the maker's promise to repair or replace a faulty product, normally free of charge. -->
-- [ ] B) guarantee
-  <!-- feedback: 'guarantee' is a general promise of quality and does not involve paying a premium. -->
-- [ ] D) policy
-  <!-- feedback: 'policy' is the written document that states what an insurance contract covers. -->
+- [ ] A) Last year 4,300 people borrowed books on Saturdays.
+  <!-- feedback: A yearly borrowing figure is evidence, so it belongs in a body paragraph that supports the thesis. -->
+- [ ] B) Students who work weekends lose all library access during the week.
+  <!-- feedback: This explains who loses access and why, so it works as a body reason that justifies the thesis. -->
+- [x] C) Libraries in Heredia should remain open on Sundays so working students can study.
+  <!-- feedback: It states the position the whole essay defends, which is the thesis sentence that opens the introduction. -->
+- [ ] D) Some people prefer buying books in a shop instead of borrowing them.
+  <!-- feedback: This reports an opposing preference, so it belongs in the counterargument paragraph, not the introduction. -->
 
 ### Explicacion Pedagogica
-The word 'insurance' is used to describe a practice or arrangement by which a company or government agency provides a guarantee of compensation for specified loss, damage, illness, or death in return for payment of a premium. This is an important vocabulary word in English.
+The introduction states the claim and hints at the reasons; the body then proves them with evidence one at a time.
+
 ---
+
 ## Question 19 [D9]
 **ID:** CR-ING-11-2026-W36-writing-argumentative-essay-001-MASTERY-bundle-v19
 **Bloom:** Evaluate
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**EJE:** Linguistic Competence
+**Expected_Success:** 0.85
+**Contexto:** A Cartago student argues that the university should offer more evening classes.
 
 ### Enunciado
-What is the English word for: "Treatment with a vaccine to produce immunity against a disease."
+Which reason would be most convincing inside a body paragraph?
 
 ### Opciones
-- [x] A) vaccination
-  <!-- feedback: 'vaccination' is the treatment with a vaccine that makes the body immune to a disease. -->
-- [ ] B) medication
-  <!-- feedback: 'medication' is a drug taken to treat an illness, not to prevent one. -->
-- [ ] C) prescription
-  <!-- feedback: 'prescription' is the written order that authorises a medicine, not the treatment itself. -->
-- [ ] D) infection
-  <!-- feedback: 'infection' is the disease itself, the opposite of the protection a vaccination gives. -->
+- [x] A) Two thousand students work in the morning, so evening classes would let them keep studying.
+  <!-- feedback: It links a measurable group to a specific benefit, so the reason is relevant, checkable and supports the thesis. -->
+- [ ] B) Evening classes sound nice and would probably be fun.
+  <!-- feedback: A pleasant impression with 'probably' shows taste and doubt, so it proves nothing about student needs. -->
+- [ ] C) The university has been the same for a long time.
+  <!-- feedback: Pointing out that the university is old adds nothing to the case for new evening timetables. -->
+- [ ] D) I would like evening classes for my own convenience.
+  <!-- feedback: Personal convenience is a narrow motive and it ignores the wider benefit the essay claims for other students. -->
 
 ### Explicacion Pedagogica
-The word 'vaccination' is used to describe treatment with a vaccine to produce immunity against a disease. This is an important vocabulary word in English.
+A convincing body reason answers 'so what' with facts, numbers or causes that matter to the people affected.
+
 ---
+
 ## Question 20 [D10]
 **ID:** CR-ING-11-2026-W36-writing-argumentative-essay-001-MASTERY-bundle-v20
 **Bloom:** Evaluate
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**EJE:** Linguistic Competence
+**Expected_Success:** 0.85
+**Contexto:** A student in Guapiles argues that the school should replace drinking fountains with bottle fillers.
 
 ### Enunciado
-What is the English word for: "Extreme tiredness and other physical effects felt by a person after a long flight across several time zones."
+Which evidence is strongest for the claim that plastic bottles waste water?
 
 ### Opciones
-- [x] A) jet lag
-  <!-- feedback: 'jet lag' is the tiredness and the disturbed sleep caused by crossing several time zones on a flight. -->
-- [ ] B) fatigue
-  <!-- feedback: 'fatigue' is tiredness that can come from any long effort, not specifically from a flight. -->
-- [ ] C) exhaustion
-  <!-- feedback: 'exhaustion' is the extreme form of tiredness after hard work or a lack of sleep. -->
-- [ ] D) insomnia
-  <!-- feedback: 'insomnia' is the inability to fall asleep, which has many causes besides travel. -->
+- [ ] A) Students prefer cold water from fountains over warm tap water.
+  <!-- feedback: This describes a preference, so it says nothing measurable about how much water the two systems consume. -->
+- [ ] B) Bottle fillers are a modern idea that some schools already use.
+  <!-- feedback: This proves that the idea exists elsewhere, but it gives no figure about water use in this school. -->
+- [ ] C) Cleaning one fountain and refilling a bottle uses about eight times less water than washing a new bottle.
+  <!-- feedback: The general remark offers no data, so a reader cannot judge whether bottles really waste water. -->
+- [x] D) Plastic bottles are everywhere in the world today.
+  <!-- feedback: It compares quantified water use for both systems, so readers can verify the claim and accept it. -->
 
 ### Explicacion Pedagogica
-The word 'jet lag' is used to describe extreme tiredness and other physical effects felt by a person after a long flight across several time zones. This is an important vocabulary word in English.
+Comparative figures that contrast two options turn a general claim into evidence a reader can check.
+
+---

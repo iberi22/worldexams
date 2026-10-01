@@ -24,459 +24,460 @@ bundle_index: 1
 ## Question 1 [D3]
 **ID:** ES-ING-11-2026-W02-past-simple-continuous-001-MASTERY-bundle-v1
 **Bloom:** Remember
-**EJE:** Lexico
+**EJE:** Morfosintaxis
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** A phone call that interrupted a longer past action.
 
 ### Enunciado
-What is the English word for: "A place where you live or stay on holiday."
+I ___ dinner when the phone rang. Choose the correct form.
 
 ### Opciones
-- [x] C) accommodation
-  <!-- feedback: Correct! 'accommodation' is the place where you live or stay, especially on holiday, and it is the word the definition asks for. -->
-- [ ] A) transportation
-  <!-- feedback: 'transportation' is the system that moves people or goods (buses, trains, taxis), not a place where you live or stay. -->
-- [ ] B) entertainment
-  <!-- feedback: 'entertainment' means the shows, music and activities that amuse you, so it names an experience rather than a place. -->
-- [ ] D) currency
-  <!-- feedback: 'currency' is the money system of a country, such as the dollar or the colon, so it has nothing to do with a place to stay. -->
+- [x] A) was having
+  <!-- feedback: Was having is the past continuous and describes the dinner already in progress when the call arrived. -->
+- [ ] B) had
+  <!-- feedback: Had is the past simple and would report the dinner as a finished event. -->
+- [ ] C) was have
+  <!-- feedback: Was have is not a valid form, because the progressive needs the -ing form. -->
+- [ ] D) have
+  <!-- feedback: Have is present simple and belongs to a repeated habit, not to a past evening. -->
 
 ### Explicacion Pedagogica
-The word 'accommodation' is used to describe a place where you live or stay on holiday. This is an important vocabulary word in English.
+The past continuous sets the scene of a longer action that was running when a short past action interrupted it: I was having dinner when the phone rang.
 ---
-## Question 2 [D4]
+## Question 2 [D3]
 **ID:** ES-ING-11-2026-W02-past-simple-continuous-001-MASTERY-bundle-v2
 **Bloom:** Remember
-**EJE:** Lexico
+**EJE:** Morfosintaxis
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** The weather at the moment the match started.
 
 ### Enunciado
-What is the English word for: "A detailed plan or route of a journey."
+It ___ heavily when we arrived at the stadium. Choose the correct form.
 
 ### Opciones
-- [x] C) itinerary
-  <!-- feedback: Correct! An 'itinerary' is the detailed plan or route of a journey: it lists the places, stops and times in order. -->
-- [ ] A) baggage
-  <!-- feedback: 'baggage' means the suitcases and bags you travel with, not the plan that organises the trip. -->
-- [ ] B) destination
-  <!-- feedback: 'destination' is the place you are travelling to, one single stop of the plan rather than the plan itself. -->
-- [ ] D) passport
-  <!-- feedback: 'passport' is the official travel document you show at the border, not a description of the journey route. -->
+- [ ] A) rained
+  <!-- feedback: Rained is past simple and would focus only on the rain as a single event. -->
+- [x] B) was raining
+  <!-- feedback: Was raining is the past continuous and paints the background of a past scene. -->
+- [ ] C) rains
+  <!-- feedback: Rains is present simple, used for general facts about the weather. -->
+- [ ] D) is raining
+  <!-- feedback: Is raining is present continuous, which does not belong to a finished past moment. -->
 
 ### Explicacion Pedagogica
-The word 'itinerary' is used to describe a detailed plan or route of a journey. This is an important vocabulary word in English.
+A background that was in progress at a past moment takes the past continuous: it was raining when we arrived.
 ---
-## Question 3 [D3]
+## Question 3 [D4]
 **ID:** ES-ING-11-2026-W02-past-simple-continuous-001-MASTERY-bundle-v3
 **Bloom:** Understand
-**EJE:** Lexico
+**EJE:** Morfosintaxis
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** A writer describing the mood of a village at dusk.
 
 ### Enunciado
-What is the English word for: "The place to which someone or something is going or being sent."
+The lamps ___ one by one along the narrow street. Choose the correct form.
 
 ### Opciones
-- [x] D) destination
-  <!-- feedback: Correct! A 'destination' is the place to which someone or something is going or being sent. -->
-- [ ] A) departure
-  <!-- feedback: 'departure' is the act of leaving, the opposite side of the trip; the definition asks for the place, not the action. -->
-- [ ] B) arrival
-  <!-- feedback: 'arrival' is the event of getting there, but a definition needs the place itself, not the moment of reaching it. -->
-- [ ] C) journey
-  <!-- feedback: 'journey' is the whole trip from one place to another, whereas the definition names only where it ends. -->
+- [ ] A) went out
+  <!-- feedback: Went out is past simple and would treat the action as one single completed event. -->
+- [ ] B) go out
+  <!-- feedback: Go out is present simple, which would describe a repeated general action. -->
+- [x] C) were going out
+  <!-- feedback: Were going out is the past continuous and suggests several lamps being switched off over a period. -->
+- [ ] D) are going out
+  <!-- feedback: Are going out is present continuous, so it cannot describe a past street. -->
 
 ### Explicacion Pedagogica
-The word 'destination' is used to describe the place to which someone or something is going or being sent. This is an important vocabulary word in English.
+One by one suggests a gradual action spread over time, and the past continuous is the tense that expresses that gradual past process.
 ---
-## Question 4 [D4]
+## Question 4 [D3]
 **ID:** ES-ING-11-2026-W02-past-simple-continuous-001-MASTERY-bundle-v4
-**Bloom:** Understand
-**EJE:** Lexico
+**Bloom:** Remember
+**EJE:** Morfosintaxis
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** A speaker compares a past routine with what usually happens.
 
 ### Enunciado
-What is the English word for: "Suitcases or other bags in which to pack personal belongings for traveling."
+Usually she cycled to work, but last winter she ___ the bus. Choose the correct form.
 
 ### Opciones
-- [x] B) luggage
-  <!-- feedback: Correct! 'luggage' is the collective word for the suitcases and bags in which personal belongings are packed for travelling. -->
-- [ ] A) ticket
-  <!-- feedback: a 'ticket' is the document that gives you the right to travel; it carries nothing at all. -->
-- [ ] C) flight
-  <!-- feedback: a 'flight' is the trip itself by plane, not the bags you pack for it. -->
-- [ ] D) reservation
-  <!-- feedback: a 'reservation' is the booking held for a seat or a room, not the container where clothes go. -->
+- [ ] A) takes
+  <!-- feedback: Takes is present simple and would describe the situation of today. -->
+- [ ] B) took
+  <!-- feedback: Took is past simple and would present the change as an isolated past act. -->
+- [ ] C) is taking
+  <!-- feedback: Is taking is present continuous, so it does not match last winter. -->
+- [x] D) was taking
+  <!-- feedback: Was taking is the past continuous used for a temporary change inside a past period. -->
 
 ### Explicacion Pedagogica
-The word 'luggage' is used to describe suitcases or other bags in which to pack personal belongings for traveling. This is an important vocabulary word in English.
+Last winter sets the whole contrast in the past, so the temporary deviation is expressed with the past continuous: she was taking the bus.
 ---
-## Question 5 [D5]
+## Question 5 [D4]
 **ID:** ES-ING-11-2026-W02-past-simple-continuous-001-MASTERY-bundle-v5
 **Bloom:** Understand
-**EJE:** Lexico
+**EJE:** Morfosintaxis
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Two sentences describing the same past event from different angles.
 
 ### Enunciado
-What is the English word for: "A traveler on a public or private conveyance other than the driver, pilot, or crew."
+Choose the sentence in which the action was still in progress.
 
 ### Opciones
-- [x] B) passenger
-  <!-- feedback: Correct! A 'passenger' is a traveller on a public or private conveyance who is neither the driver, the pilot nor the crew. -->
-- [ ] A) pedestrian
-  <!-- feedback: a 'pedestrian' travels on foot, so there is no driver, pilot or crew in the vehicle at all. -->
-- [ ] C) commuter
-  <!-- feedback: a 'commuter' is defined by the regular trip to work or study, not by riding any conveyance. -->
-- [ ] D) tourist
-  <!-- feedback: a 'tourist' travels for pleasure and visits places of interest; the definition here is about the role on the vehicle. -->
+- [x] A) He was painting the wall when the lights went out.
+  <!-- feedback: Was painting is past continuous and keeps the action unfinished when another event cut in. -->
+- [ ] B) He painted the wall and went to bed.
+  <!-- feedback: Painted and went are both past simple, so the actions appear as finished and separate. -->
+- [ ] C) He paints the wall every spring.
+  <!-- feedback: Paints is present simple and describes a repeated yearly habit. -->
+- [ ] D) He will paint the wall next week.
+  <!-- feedback: Will paint is future simple and belongs to next week. -->
 
 ### Explicacion Pedagogica
-The word 'passenger' is used to describe a traveler on a public or private conveyance other than the driver, pilot, or crew. This is an important vocabulary word in English.
+Was painting when the lights went out is the classic pattern of the past continuous: a background action still running when a short past event interrupted it.
 ---
-## Question 6 [D6]
+## Question 6 [D3]
 **ID:** ES-ING-11-2026-W02-past-simple-continuous-001-MASTERY-bundle-v6
-**Bloom:** Understand
-**EJE:** Lexico
+**Bloom:** Remember
+**EJE:** Morfosintaxis
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** A negative sentence about what was happening in the past.
 
 ### Enunciado
-What is the English word for: "The place at a port, airport, or frontier where officials check incoming goods, travelers, or luggage."
+They ___ to the concert; they were listening to the radio. Choose the correct form.
 
 ### Opciones
-- [x] D) customs
-  <!-- feedback: Correct! 'customs' is the place at a port, airport or frontier where officials check incoming goods, travellers and luggage. -->
-- [ ] A) security
-  <!-- feedback: 'security' staff prevent accidents and crime inside the building; the officials who check goods and travellers are customs. -->
-- [ ] B) terminal
-  <!-- feedback: a 'terminal' is the building where passengers wait for a departure, not the office where the checks are done. -->
-- [ ] C) gate
-  <!-- feedback: a 'gate' is the door or boarding point on the aircraft, not the place where officials inspect your belongings. -->
+- [ ] A) did not go
+  <!-- feedback: Did not go is the past simple negative and reports a single finished decision. -->
+- [x] B) were not going
+  <!-- feedback: Were not going is the past continuous in the negative, which fits a past situation in progress. -->
+- [ ] C) not went
+  <!-- feedback: Not went has no auxiliary and is not a valid negative form. -->
+- [ ] D) are not going
+  <!-- feedback: Are not going is present continuous and cannot describe the past evening. -->
 
 ### Explicacion Pedagogica
-The word 'customs' is used to describe the place at a port, airport, or frontier where officials check incoming goods, travelers, or luggage. This is an important vocabulary word in English.
+A past situation expressed in the negative needs the past continuous, so the sentence is built with were not going.
 ---
-## Question 7 [D5]
+## Question 7 [D3]
 **ID:** ES-ING-11-2026-W02-past-simple-continuous-001-MASTERY-bundle-v7
-**Bloom:** Apply
-**EJE:** Lexico
+**Bloom:** Remember
+**EJE:** Morfosintaxis
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** A short question asked in the middle of a past story.
 
 ### Enunciado
-What is the English word for: "A document provided by an airline during check-in, giving a passenger permission to board the airplane."
+___ you waiting for the bus? Choose the correct auxiliary.
 
 ### Opciones
-- [x] C) boarding pass
-  <!-- feedback: Correct! A 'boarding pass' is the document the airline issues at check-in that gives the passenger permission to board. -->
-- [ ] A) visa
-  <!-- feedback: a 'visa' is the permission to enter a country, obtained before the trip and not from the airline. -->
-- [ ] B) receipt
-  <!-- feedback: a 'receipt' only proves that you paid; it does not let you board the plane. -->
-- [ ] D) brochure
-  <!-- feedback: a 'brochure' is printed information about the airline or the destination, not a travel document. -->
+- [ ] A) Are
+  <!-- feedback: Are is the present auxiliary and would place the question in the present moment. -->
+- [ ] B) Did
+  <!-- feedback: Did builds the past simple and cannot be followed by the -ing form waiting. -->
+- [x] C) Were
+  <!-- feedback: Were is the past auxiliary of the continuous and agrees with you in this past question. -->
+- [ ] D) Do
+  <!-- feedback: Do is the present simple auxiliary and does not match the past period of the story. -->
 
 ### Explicacion Pedagogica
-The word 'boarding pass' is used to describe a document provided by an airline during check-in, giving a passenger permission to board the airplane. This is an important vocabulary word in English.
+The question asks about a past moment, so it needs the past continuous auxiliary were plus the -ing form: Were you waiting?
 ---
-## Question 8 [D6]
+## Question 8 [D4]
 **ID:** ES-ING-11-2026-W02-past-simple-continuous-001-MASTERY-bundle-v8
 **Bloom:** Apply
-**EJE:** Lexico
+**EJE:** Morfosintaxis
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** A chef describing the kitchen ten minutes before the service.
 
 ### Enunciado
-What is the English word for: "The activity of visiting places of interest in a particular location."
+At ten the chefs ___ the sauces when the delivery arrived. Choose the correct form.
 
 ### Opciones
-- [x] A) sightseeing
-  <!-- feedback: Correct! 'sightseeing' is the activity of visiting the places of interest of a location. -->
-- [ ] B) shopping
-  <!-- feedback: 'shopping' is buying things in stores, not the general activity of visiting a place's sights. -->
-- [ ] C) hiking
-  <!-- feedback: 'hiking' is one specific outdoor walk in nature, only one kind of activity out of many. -->
-- [ ] D) camping
-  <!-- feedback: 'camping' means staying outdoors in a tent, which is not what a visitor does in a city or landmark. -->
+- [ ] A) prepared
+  <!-- feedback: Prepared is past simple and would report the sauces as already finished. -->
+- [ ] B) prepare
+  <!-- feedback: Prepare is the bare infinitive and cannot stand as the verb of the sentence. -->
+- [ ] C) have prepared
+  <!-- feedback: Have prepared is present perfect and would point to the result in the present. -->
+- [x] D) were preparing
+  <!-- feedback: Were preparing is the past continuous and sets a longer action in progress before the delivery. -->
 
 ### Explicacion Pedagogica
-The word 'sightseeing' is used to describe the activity of visiting places of interest in a particular location. This is an important vocabulary word in English.
+Ten tells a past hour and when the delivery arrived introduces an interruption, so the sauces were being prepared at that moment.
 ---
-## Question 9 [D5]
+## Question 9 [D3]
 **ID:** ES-ING-11-2026-W02-past-simple-continuous-001-MASTERY-bundle-v9
-**Bloom:** Apply
-**EJE:** Lexico
+**Bloom:** Remember
+**EJE:** Morfosintaxis
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** A witness describing the moment before an accident.
 
 ### Enunciado
-What is the English word for: "A thing that is kept as a reminder of a person, place, or event."
+The driver ___ too fast when the lights changed. Choose the correct form.
 
 ### Opciones
-- [x] D) souvenir
-  <!-- feedback: Correct! A 'souvenir' is the object that is kept as a reminder of a person, place or event. -->
-- [ ] A) gift
-  <!-- feedback: a 'gift' is something given to someone, but it is not necessarily kept as a reminder of a place or an event. -->
-- [ ] B) award
-  <!-- feedback: an 'award' is an honour granted by an institution for merit, not a keepsake. -->
-- [ ] C) prize
-  <!-- feedback: a 'prize' is the reward of a competition; the definition describes an object kept as a memento. -->
+- [x] A) was driving
+  <!-- feedback: Was driving is the past continuous and shows the action still unfolding when the lights changed. -->
+- [ ] B) drove
+  <!-- feedback: Drove is past simple and would leave the driving as a closed event. -->
+- [ ] C) drives
+  <!-- feedback: Drives is present simple, used for general facts and habits. -->
+- [ ] D) is driving
+  <!-- feedback: Is driving is present continuous, which does not fit the past accident. -->
 
 ### Explicacion Pedagogica
-The word 'souvenir' is used to describe a thing that is kept as a reminder of a person, place, or event. This is an important vocabulary word in English.
+When the lights changed is the interrupting event, and the driving behind it is the unfinished past action expressed with was driving.
 ---
-## Question 10 [D6]
+## Question 10 [D4]
 **ID:** ES-ING-11-2026-W02-past-simple-continuous-001-MASTERY-bundle-v10
-**Bloom:** Apply
-**EJE:** Lexico
+**Bloom:** Understand
+**EJE:** Morfosintaxis
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** A traveller describing a street she cannot forget.
 
 ### Enunciado
-What is the English word for: "A period of time by which something is late or postponed."
+In the photo, three children ___ in the square at sunset. Choose the correct form.
 
 ### Opciones
-- [x] B) delay
-  <!-- feedback: Correct! A 'delay' is the extra period of time by which something ends up late or postponed. -->
-- [ ] A) cancellation
-  <!-- feedback: a 'cancellation' means the trip or event will not happen at all, not that it happens later. -->
-- [ ] C) departure
-  <!-- feedback: 'departure' is simply the moment of leaving, which can be perfectly punctual. -->
-- [ ] D) arrival
-  <!-- feedback: 'arrival' is the moment of reaching the place, and it says nothing about being late. -->
+- [ ] A) played
+  <!-- feedback: Played is past simple and would reduce the picture to a single quick act. -->
+- [x] B) were playing
+  <!-- feedback: Were playing is the past continuous and describes the scene captured in an old photograph. -->
+- [ ] C) play
+  <!-- feedback: Play is the bare infinitive and cannot be the verb of this sentence. -->
+- [ ] D) have played
+  <!-- feedback: Have played is present perfect and would relate the scene to the present, which a photograph from the past does not. -->
 
 ### Explicacion Pedagogica
-The word 'delay' is used to describe a period of time by which something is late or postponed. This is an important vocabulary word in English.
+A photograph freezes one past moment, and the past continuous is the tense that describes the action of that moment: the children were playing.
 ---
-## Question 11 [D7]
+## Question 11 [D3]
 **ID:** ES-ING-11-2026-W02-past-simple-continuous-001-MASTERY-bundle-v11
-**Bloom:** Apply
-**EJE:** Lexico
+**Bloom:** Remember
+**EJE:** Morfosintaxis
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** A news report about what the police were doing.
 
 ### Enunciado
-What is the English word for: "The act of reporting one's presence and registering, typically at an airport or hotel."
+The officers ___ the suspect when the ambulance arrived. Choose the correct form.
 
 ### Opciones
-- [x] D) check-in
-  <!-- feedback: Correct! 'Check-in' is the act of reporting your presence and registering at an airport or hotel counter. -->
-- [ ] A) check-out
-  <!-- feedback: 'check-out' is the opposite moment, when you pay and hand the room key back before leaving. -->
-- [ ] B) booking
-  <!-- feedback: 'booking' is the reservation made beforehand; check-in is what you do on arrival. -->
-- [ ] C) reservation
-  <!-- feedback: a 'reservation' is the earlier record of your booking, not the act of registering your presence. -->
+- [ ] A) questioned
+  <!-- feedback: Questioned is past simple and would report the questioning as already concluded. -->
+- [ ] B) question
+  <!-- feedback: Question is the bare infinitive and cannot carry tense in this sentence. -->
+- [x] C) were questioning
+  <!-- feedback: Were questioning is the past continuous and keeps the questioning in progress at the moment of the arrival. -->
+- [ ] D) are questioning
+  <!-- feedback: Are questioning is present continuous and does not belong to a past report. -->
 
 ### Explicacion Pedagogica
-The word 'check-in' is used to describe the act of reporting one's presence and registering, typically at an airport or hotel. This is an important vocabulary word in English.
+When the ambulance arrived marks a past interruption, so the questioning behind it was still running: the officers were questioning the suspect.
 ---
-## Question 12 [D8]
+## Question 12 [D4]
 **ID:** ES-ING-11-2026-W02-past-simple-continuous-001-MASTERY-bundle-v12
-**Bloom:** Apply
-**EJE:** Lexico
+**Bloom:** Evaluate
+**EJE:** Morfosintaxis
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** A choice between a past habit and a single past interruption.
 
 ### Enunciado
-What is the English word for: "A period of rest or waiting before a further stage in a journey."
+He always ___ at eight, but that evening he slept until ten. Choose the correct form.
 
 ### Opciones
-- [x] B) layover
-  <!-- feedback: Correct! A 'layover' is a period of rest or waiting between two further stages of a journey. -->
-- [ ] A) stopover
-  <!-- feedback: 'stopover' is used mainly for trains and usually for a longer, often overnight, break on a rail journey. -->
-- [ ] C) transfer
-  <!-- feedback: a 'transfer' is the change from one vehicle or flight to another, not the pause itself. -->
-- [ ] D) transit
-  <!-- feedback: 'transit' means the action of passing through a place, with no idea of resting between stages. -->
+- [ ] A) was getting up
+  <!-- feedback: Was getting up is the past continuous and would describe an action in progress, not a habit. -->
+- [ ] B) gets up
+  <!-- feedback: Gets up is present simple and describes the habit of today. -->
+- [ ] C) will get up
+  <!-- feedback: Will get up is future simple and does not match any past reference. -->
+- [x] D) used to get up
+  <!-- feedback: Used to get up is the structure that states a habit which existed in the past and no longer does. -->
 
 ### Explicacion Pedagogica
-The word 'layover' is used to describe a period of rest or waiting before a further stage in a journey. This is an important vocabulary word in English.
+Always and that evening set a past habit and one exception; used to expresses precisely the past habit that has stopped.
 ---
-## Question 13 [D7]
+## Question 13 [D3]
 **ID:** ES-ING-11-2026-W02-past-simple-continuous-001-MASTERY-bundle-v13
-**Bloom:** Analyze
-**EJE:** Lexico
+**Bloom:** Remember
+**EJE:** Morfosintaxis
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** A street scene while the rain kept falling in the background.
 
 ### Enunciado
-What is the English word for: "A system of money in general use in a particular country."
+While I ___ for the tram, it started to snow. Choose the correct form.
 
 ### Opciones
-- [x] D) currency
-  <!-- feedback: Correct! 'Currency' is the money system in general use in a particular country. -->
-- [ ] A) coin
-  <!-- feedback: a 'coin' is one single piece of money, not the whole system used in the country. -->
-- [ ] B) banknote
-  <!-- feedback: a 'banknote' is one single paper note of that system, not the system itself. -->
-- [ ] C) cash
-  <!-- feedback: 'cash' means money in coins and notes in general, not the specific monetary system of a country. -->
+- [x] A) was waiting
+  <!-- feedback: Was waiting is the past continuous and introduces the longer background action. -->
+- [ ] B) waited
+  <!-- feedback: Waited is past simple and would make the wait a short finished act. -->
+- [ ] C) wait
+  <!-- feedback: Wait is the bare infinitive and cannot carry the tense of the sentence. -->
+- [ ] D) have waited
+  <!-- feedback: Have waited is present perfect and would point to the present, not to that past afternoon. -->
 
 ### Explicacion Pedagogica
-The word 'currency' is used to describe a system of money in general use in a particular country. This is an important vocabulary word in English.
+While plus a past continuous clause and a past simple clause is the standard combination: I was waiting for the tram when it started to snow.
 ---
-## Question 14 [D8]
+## Question 14 [D4]
 **ID:** ES-ING-11-2026-W02-past-simple-continuous-001-MASTERY-bundle-v14
-**Bloom:** Analyze
-**EJE:** Lexico
+**Bloom:** Understand
+**EJE:** Morfosintaxis
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** A writer describing what everyone was doing during a blackout.
 
 ### Enunciado
-What is the English word for: "A book of information about a place designed for the use of visitors or tourists."
+While the power ___, everyone searched for candles. Choose the correct form.
 
 ### Opciones
-- [x] C) guidebook
-  <!-- feedback: Correct! A 'guidebook' is a book of information about a place written for the use of visitors and tourists. -->
-- [ ] A) map
-  <!-- feedback: a 'map' shows the layout of streets and places, but it is a drawing rather than a book of information. -->
-- [ ] B) dictionary
-  <!-- feedback: a 'dictionary' gives the meaning of words, not details about a destination for travellers. -->
-- [ ] D) encyclopedia
-  <!-- feedback: an encyclopedia covers all branches of knowledge rather than one particular place for visitors. -->
+- [ ] A) failed
+  <!-- feedback: Failed is past simple and would present the failure as one sudden complete event. -->
+- [x] B) was failing
+  <!-- feedback: Was failing is the past continuous and expresses a process unfolding during the blackout. -->
+- [ ] C) fails
+  <!-- feedback: Fails is present simple and describes a general fact about the equipment. -->
+- [ ] D) has failed
+  <!-- feedback: Has failed is present perfect and would bring the result into the present time. -->
 
 ### Explicacion Pedagogica
-The word 'guidebook' is used to describe a book of information about a place designed for the use of visitors or tourists. This is an important vocabulary word in English.
+The blackout lasted a period during which the search took place, so the failure is described with the past continuous.
 ---
-## Question 15 [D7]
+## Question 15 [D3]
 **ID:** ES-ING-11-2026-W02-past-simple-continuous-001-MASTERY-bundle-v15
-**Bloom:** Analyze
-**EJE:** Lexico
+**Bloom:** Remember
+**EJE:** Morfosintaxis
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** An old habit that ended two years ago.
 
 ### Enunciado
-What is the English word for: "A bag with shoulder straps that allow it to be carried on one's back."
+When I was a child, I ___ to school by bike. Choose the correct form.
 
 ### Opciones
-- [x] A) backpack
-  <!-- feedback: Correct! A 'backpack' has shoulder straps and is designed to be carried on one's back. -->
-- [ ] B) suitcase
-  <!-- feedback: a 'suitcase' is dragged by a handle beside the body; it has no shoulder straps. -->
-- [ ] C) briefcase
-  <!-- feedback: a 'briefcase' is a case for documents and a laptop that is carried in the hand. -->
-- [ ] D) handbag
-  <!-- feedback: a 'handbag' is a small bag held in the hand, not carried on the back. -->
+- [ ] A) was going
+  <!-- feedback: Was going is past continuous and would describe a single action in progress. -->
+- [ ] B) go
+  <!-- feedback: Go is present simple and would claim the habit still holds today. -->
+- [x] C) used to go
+  <!-- feedback: Used to go states a past habit that is no longer true, which matches a childhood memory. -->
+- [ ] D) am going
+  <!-- feedback: Am going is present continuous and has no link to the childhood period. -->
 
 ### Explicacion Pedagogica
-The word 'backpack' is used to describe a bag with shoulder straps that allow it to be carried on one's back. This is an important vocabulary word in English.
+Used to marks a repeated past state that does not exist any more: when I was a child, I used to go to school by bike.
 ---
-## Question 16 [D8]
+## Question 16 [D4]
 **ID:** ES-ING-11-2026-W02-past-simple-continuous-001-MASTERY-bundle-v16
 **Bloom:** Analyze
-**EJE:** Lexico
+**EJE:** Morfosintaxis
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** A single sentence containing two past actions.
 
 ### Enunciado
-What is the English word for: "In or to a foreign country, especially one across the sea."
+Choose the sentence in which the past continuous is correct.
 
 ### Opciones
-- [x] A) overseas
-  <!-- feedback: Correct! 'Overseas' means in or to a foreign country, especially one reached across the sea. -->
-- [ ] B) domestic
-  <!-- feedback: 'domestic' means inside the same country, which is the opposite of overseas. -->
-- [ ] C) local
-  <!-- feedback: 'local' means belonging to the area where you already are, again the opposite meaning. -->
-- [ ] D) national
-  <!-- feedback: 'national' refers to the nation as a whole, but it does not mean being abroad. -->
+- [ ] A) We crossed the bridge and the storm broke.
+  <!-- feedback: Crossed and broke are both past simple, so the sentence loses the sense of interruption. -->
+- [ ] B) We cross the bridge every summer.
+  <!-- feedback: Cross is present simple and describes a repeated summer habit. -->
+- [ ] C) We will cross the bridge next summer.
+  <!-- feedback: Will cross is future simple and moves the whole sentence to next summer. -->
+- [x] D) We were crossing the bridge when the storm broke.
+  <!-- feedback: Were crossing is past continuous and shows the crossing unfinished when the storm interrupted it. -->
 
 ### Explicacion Pedagogica
-The word 'overseas' is used to describe in or to a foreign country, especially one across the sea. This is an important vocabulary word in English.
+The uninterrupted background action takes the past continuous, and the interrupting short event takes the past simple, which is exactly the structure of the correct option.
 ---
-## Question 17 [D9]
+## Question 17 [D3]
 **ID:** ES-ING-11-2026-W02-past-simple-continuous-001-MASTERY-bundle-v17
-**Bloom:** Evaluate
-**EJE:** Lexico
+**Bloom:** Remember
+**EJE:** Morfosintaxis
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** A cook describing the moment the sauce changed.
 
 ### Enunciado
-What is the English word for: "An estimate of income and expenditure for a set period of time."
+The soup ___ for ten minutes before I added the cream. Choose the correct form.
 
 ### Opciones
-- [x] B) budget
-  <!-- feedback: Correct! A 'budget' is an estimate of income and expenditure planned for a set period of time. -->
-- [ ] A) expense
-  <!-- feedback: an 'expense' is a single cost; a budget gathers all income and spending over a period. -->
-- [ ] C) cost
-  <!-- feedback: 'cost' is the amount paid for one thing, not an estimate for a whole period. -->
-- [ ] D) price
-  <!-- feedback: 'price' is the figure written on a product, not a plan of income and expenditure. -->
+- [x] A) was simmering
+  <!-- feedback: Was simmering is the past continuous and shows the soup still cooking during that whole stretch of time. -->
+- [ ] B) simmered
+  <!-- feedback: Simmered is past simple and would give a single completed action with no duration. -->
+- [ ] C) simmers
+  <!-- feedback: Simmers is present simple, used for a general fact about soups. -->
+- [ ] D) is simmering
+  <!-- feedback: Is simmering is present continuous, so it does not belong to a finished cooking process. -->
 
 ### Explicacion Pedagogica
-The word 'budget' is used to describe an estimate of income and expenditure for a set period of time. This is an important vocabulary word in English.
+For ten minutes before gives the duration of a past action that had not ended when I added the cream, which is past continuous territory.
 ---
-## Question 18 [D10]
+## Question 18 [D4]
 **ID:** ES-ING-11-2026-W02-past-simple-continuous-001-MASTERY-bundle-v18
-**Bloom:** Evaluate
-**EJE:** Lexico
+**Bloom:** Apply
+**EJE:** Morfosintaxis
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Two friends reconstructing what they were doing on holiday last July.
 
 ### Enunciado
-What is the English word for: "A practice or arrangement by which a company or government agency provides a guarantee of compensation for specified loss, damage, illness, or death in return for payment of a premium."
+Last July we ___ from sunrise until the boat left the port. Choose the correct form.
 
 ### Opciones
-- [x] C) insurance
-  <!-- feedback: Correct! 'Insurance' is the arrangement by which a company or agency guarantees compensation for specified loss, damage, illness or death in return for a premium. -->
-- [ ] A) warranty
-  <!-- feedback: a 'warranty' is the maker's guarantee of a product, normally for a short period and against defects only. -->
-- [ ] B) guarantee
-  <!-- feedback: a 'guarantee' is the promise itself, without the payment of a premium that defines an insurance arrangement. -->
-- [ ] D) policy
-  <!-- feedback: a 'policy' is the written document of the contract, not the practice of insuring itself. -->
+- [ ] A) fished
+  <!-- feedback: Fished is past simple and would present the whole morning as one brief event. -->
+- [x] B) were fishing
+  <!-- feedback: Were fishing is the past continuous and covers the long uninterrupted activity of that morning. -->
+- [ ] C) fish
+  <!-- feedback: Fish is the bare infinitive and cannot express any past reference. -->
+- [ ] D) have fished
+  <!-- feedback: Have fished is present perfect and would connect the morning to the present moment. -->
 
 ### Explicacion Pedagogica
-The word 'insurance' is used to describe a practice or arrangement by which a company or government agency provides a guarantee of compensation for specified loss, damage, illness, or death in return for payment of a premium. This is an important vocabulary word in English.
+From sunrise until the boat left marks a long past period, and the past continuous is the tense that spreads an action across such a period.
 ---
-## Question 19 [D9]
+## Question 19 [D3]
 **ID:** ES-ING-11-2026-W02-past-simple-continuous-001-MASTERY-bundle-v19
-**Bloom:** Evaluate
-**EJE:** Lexico
+**Bloom:** Remember
+**EJE:** Morfosintaxis
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** A teacher describing the pupils during a difficult test.
 
 ### Enunciado
-What is the English word for: "Treatment with a vaccine to produce immunity against a disease."
+The pupils ___ for the last twenty minutes of the exam. Choose the correct form.
 
 ### Opciones
-- [x] B) vaccination
-  <!-- feedback: Correct! 'Vaccination' is the treatment with a vaccine that produces immunity against a disease. -->
-- [ ] A) medication
-  <!-- feedback: 'medication' treats the symptoms of a disease; it does not create immunity against it. -->
-- [ ] C) prescription
-  <!-- feedback: a 'prescription' is the doctor's written order for a medicine, not the vaccine treatment itself. -->
-- [ ] D) infection
-  <!-- feedback: an 'infection' is the invasion of the body by a pathogen, the opposite of being protected against disease. -->
+- [ ] A) struggled
+  <!-- feedback: Struggled is past simple and would report the struggle as a single quick act. -->
+- [ ] B) struggle
+  <!-- feedback: Struggle is the bare infinitive and cannot carry the past reference. -->
+- [x] C) were struggling
+  <!-- feedback: Were struggling is the past continuous and shows the difficulty lasting over those twenty minutes. -->
+- [ ] D) are struggling
+  <!-- feedback: Are struggling is present continuous and would place the exam in the present moment. -->
 
 ### Explicacion Pedagogica
-The word 'vaccination' is used to describe treatment with a vaccine to produce immunity against a disease. This is an important vocabulary word in English.
+For the last twenty minutes of the exam describes an extended past situation, so the past continuous is the correct tense.
 ---
-## Question 20 [D10]
+## Question 20 [D4]
 **ID:** ES-ING-11-2026-W02-past-simple-continuous-001-MASTERY-bundle-v20
 **Bloom:** Evaluate
-**EJE:** Lexico
+**EJE:** Morfosintaxis
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** A choice of sentence for a past story.
 
 ### Enunciado
-What is the English word for: "Extreme tiredness and other physical effects felt by a person after a long flight across several time zones."
+Choose the sentence that keeps the action unfinished.
 
 ### Opciones
-- [x] D) jet lag
-  <!-- feedback: Correct! 'Jet lag' is the extreme tiredness and other physical effects felt after a long flight across several time zones. -->
-- [ ] A) fatigue
-  <!-- feedback: 'fatigue' is tiredness from any cause, such as a lack of sleep or effort, not specifically from time zones. -->
-- [ ] B) exhaustion
-  <!-- feedback: 'exhaustion' is a total lack of energy from any cause, more general and more severe than the effect of crossing time zones. -->
-- [ ] C) insomnia
-  <!-- feedback: 'insomnia' is the difficulty of falling or staying asleep, only one symptom and not the whole set of effects after a long flight. -->
+- [ ] A) We climbed the rock and we caught the storm.
+  <!-- feedback: Climbed and caught are past simple, so the sentence presents two finished acts. -->
+- [ ] B) We climb the rock every year.
+  <!-- feedback: Climb is present simple and describes a yearly routine. -->
+- [ ] C) We climbed the rock yesterday.
+  <!-- feedback: Climbed is past simple, and the sentence offers no background for the interruption. -->
+- [x] D) We were climbing the rock when the storm caught us.
+  <!-- feedback: Were climbing is past continuous and shows the climb still going on when the storm arrived. -->
 
 ### Explicacion Pedagogica
-The word 'jet lag' is used to describe extreme tiredness and other physical effects felt by a person after a long flight across several time zones. This is an important vocabulary word in English.
+Only the past continuous keeps the climbing running at the moment the storm arrives, which is the meaning the story needs.
+---

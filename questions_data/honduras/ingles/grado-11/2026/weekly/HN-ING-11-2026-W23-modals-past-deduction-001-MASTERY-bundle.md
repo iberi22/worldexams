@@ -21,462 +21,464 @@ bundle_index: 1
 **20 preguntas | Ingles | Curriculo de Ingles**
 
 ---
-## Question 1 [D3]
+
+## Question 1 [D4]
 **ID:** HN-ING-11-2026-W23-modals-past-deduction-001-MASTERY-bundle-v1
-**Bloom:** Remember
-**EJE:** Lexico
+**Bloom:** Analyze
+**EJE:** Gramatica
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** A student notices the condition of a classmate's shoes after an outdoor activity.
 
 ### Enunciado
-What is the English word for: "A place where you live or stay on holiday."
+The pavement is soaked and the shoes are muddy, so they ____ have walked through the meadow.
 
 ### Opciones
-- [x] D) accommodation
-  <!-- feedback: Correct! 'accommodation' is the place where you live or stay, especially on holiday, and it is the word the definition asks for. -->
-- [ ] A) transportation
-  <!-- feedback: 'transportation' is the system that moves people or goods (buses, trains, taxis), not a place where you live or stay. -->
-- [ ] B) entertainment
-  <!-- feedback: 'entertainment' means the shows, music and activities that amuse you, so it names an experience rather than a place. -->
-- [ ] C) currency
-  <!-- feedback: 'currency' is the money system of a country, such as the dollar or the colon, so it has nothing to do with a place to stay. -->
+- [x] A) must
+  <!-- feedback: Correct! 'Must have' plus a participle draws a certain conclusion about a completed past action. -->
+- [ ] B) might
+  <!-- feedback: 'Might' would weaken a conclusion that the two visible signs support. -->
+- [ ] C) cannot
+  <!-- feedback: 'Cannot' would deny the walk, and nothing indicates that. -->
+- [ ] D) would
+  <!-- feedback: 'Would' would form a conditional that the sentence does not contain. -->
 
 ### Explicacion Pedagogica
-The word 'accommodation' is used to describe a place where you live or stay on holiday. This is an important vocabulary word in English.
+Present evidence about a past action is the classic ground of 'must have' plus a participle. The auxiliary 'have' places the action before now.
 ---
 ## Question 2 [D4]
 **ID:** HN-ING-11-2026-W23-modals-past-deduction-001-MASTERY-bundle-v2
-**Bloom:** Remember
-**EJE:** Lexico
+**Bloom:** Analyze
+**EJE:** Gramatica
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** A student arrives at school out of breath on a hot morning.
 
 ### Enunciado
-What is the English word for: "A detailed plan or route of a journey."
+He is out of breath and his shirt is soaked, so he ____ have run to catch the bus.
 
 ### Opciones
-- [x] D) itinerary
-  <!-- feedback: Correct! An 'itinerary' is the detailed plan or route of a journey: it lists the places, stops and times in order. -->
-- [ ] A) baggage
-  <!-- feedback: 'baggage' means the suitcases and bags you travel with, not the plan that organises the trip. -->
-- [ ] B) destination
-  <!-- feedback: 'destination' is the place you are travelling to, one single stop of the plan rather than the plan itself. -->
-- [ ] C) passport
-  <!-- feedback: 'passport' is the official travel document you show at the border, not a description of the journey route. -->
+- [ ] A) might
+  <!-- feedback: 'Might' would be a weaker conclusion than the evidence allows. -->
+- [x] B) must
+  <!-- feedback: Correct! 'Must' states a certain conclusion from two signs about his present state. -->
+- [ ] C) should not
+  <!-- feedback: 'Should not' would give advice, which has no place in a deduction. -->
+- [ ] D) can
+  <!-- feedback: 'Can' states capacity, and it cannot introduce a past conclusion. -->
 
 ### Explicacion Pedagogica
-The word 'itinerary' is used to describe a detailed plan or route of a journey. This is an important vocabulary word in English.
+Two independent present signs point to the same past activity, which justifies a certain rather than a hedged conclusion.
 ---
-## Question 3 [D3]
+## Question 3 [D4]
 **ID:** HN-ING-11-2026-W23-modals-past-deduction-001-MASTERY-bundle-v3
-**Bloom:** Understand
-**EJE:** Lexico
+**Bloom:** Analyze
+**EJE:** Gramatica
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** A cleaner reports the state of a floor after a school day in a coastal region.
 
 ### Enunciado
-What is the English word for: "The place to which someone or something is going or being sent."
+There is sand all over the classroom floor, so somebody ____ have been to the beach this morning.
 
 ### Opciones
-- [x] C) destination
-  <!-- feedback: Correct! A 'destination' is the place to which someone or something is going or being sent. -->
-- [ ] A) departure
-  <!-- feedback: 'departure' is the act of leaving, the opposite side of the trip; the definition asks for the place, not the action. -->
-- [ ] B) arrival
-  <!-- feedback: 'arrival' is the event of getting there, but a definition needs the place itself, not the moment of reaching it. -->
-- [ ] D) journey
-  <!-- feedback: 'journey' is the whole trip from one place to another, whereas the definition names only where it ends. -->
+- [ ] A) should
+  <!-- feedback: 'Should' would express a general expectation and ignores the evidence. -->
+- [ ] B) can
+  <!-- feedback: 'Can' expresses capacity in the present or the past, not a deduction about the past. -->
+- [x] C) must
+  <!-- feedback: Correct! 'Must have' plus 'been' plus a participle states a certain conclusion about a past experience. -->
+- [ ] D) will
+  <!-- feedback: 'Will' would place the visit in the future. -->
 
 ### Explicacion Pedagogica
-The word 'destination' is used to describe the place to which someone or something is going or being sent. This is an important vocabulary word in English.
+The deduced action is unfinished in its relevance to the present, so the perfect form 'have been' carries it.
 ---
 ## Question 4 [D4]
 **ID:** HN-ING-11-2026-W23-modals-past-deduction-001-MASTERY-bundle-v4
-**Bloom:** Understand
-**EJE:** Lexico
+**Bloom:** Apply
+**EJE:** Gramatica
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** A student describes the condition of a classmate at the start of the morning.
 
 ### Enunciado
-What is the English word for: "Suitcases or other bags in which to pack personal belongings for traveling."
+He has a terrible headache and looks exhausted, so he ____ have stayed up all night.
 
 ### Opciones
-- [x] D) luggage
-  <!-- feedback: Correct! 'luggage' is the collective word for the suitcases and bags in which personal belongings are packed for travelling. -->
-- [ ] A) ticket
-  <!-- feedback: a 'ticket' is the document that gives you the right to travel; it carries nothing at all. -->
-- [ ] B) flight
-  <!-- feedback: a 'flight' is the trip itself by plane, not the bags you pack for it. -->
-- [ ] C) reservation
-  <!-- feedback: a 'reservation' is the booking held for a seat or a room, not the container where clothes go. -->
+- [ ] A) might
+  <!-- feedback: 'Might' would hedge a conclusion the symptoms clearly support. -->
+- [ ] B) cannot
+  <!-- feedback: 'Cannot' would deny the sleepless night, and nothing contradicts it. -->
+- [ ] C) should
+  <!-- feedback: 'Should' would express a norm about sleeping, not an inference. -->
+- [x] D) must
+  <!-- feedback: Correct! 'Must' states a certain conclusion from the visible state of the person. -->
 
 ### Explicacion Pedagogica
-The word 'luggage' is used to describe suitcases or other bags in which to pack personal belongings for traveling. This is an important vocabulary word in English.
+The structure of a past deduction is modal plus 'have' plus participle, and the strength of the conclusion is expressed by the modal itself.
 ---
-## Question 5 [D5]
+## Question 5 [D4]
 **ID:** HN-ING-11-2026-W23-modals-past-deduction-001-MASTERY-bundle-v5
-**Bloom:** Understand
-**EJE:** Lexico
+**Bloom:** Analyze
+**EJE:** Gramatica
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** A project group reviews the remaining tasks listed in its plan.
 
 ### Enunciado
-What is the English word for: "A traveler on a public or private conveyance other than the driver, pilot, or crew."
+The students ____ have finished the project; there is still work on the schedule for next week.
 
 ### Opciones
-- [x] D) passenger
-  <!-- feedback: Correct! A 'passenger' is a traveller on a public or private conveyance who is neither the driver, the pilot nor the crew. -->
-- [ ] A) pedestrian
-  <!-- feedback: a 'pedestrian' travels on foot, so there is no driver, pilot or crew in the vehicle at all. -->
-- [ ] B) commuter
-  <!-- feedback: a 'commuter' is defined by the regular trip to work or study, not by riding any conveyance. -->
-- [ ] C) tourist
-  <!-- feedback: a 'tourist' travels for pleasure and visits places of interest; the definition here is about the role on the vehicle. -->
+- [x] A) cannot
+  <!-- feedback: Correct! 'Cannot have' plus a participle states a certain negative conclusion from present evidence. -->
+- [ ] B) must
+  <!-- feedback: 'Must' would assert the opposite of what the schedule shows. -->
+- [ ] C) might
+  <!-- feedback: 'Might' would leave the conclusion open, and the evidence is direct. -->
+- [ ] D) will
+  <!-- feedback: 'Will' would place the completion in the future, which the schedule supports instead. -->
 
 ### Explicacion Pedagogica
-The word 'passenger' is used to describe a traveler on a public or private conveyance other than the driver, pilot, or crew. This is an important vocabulary word in English.
+A certain negative deduction about the past takes 'cannot have' plus a participle. 'Must not have' would state the opposite.
 ---
-## Question 6 [D6]
+## Question 6 [D4]
 **ID:** HN-ING-11-2026-W23-modals-past-deduction-001-MASTERY-bundle-v6
-**Bloom:** Understand
-**EJE:** Lexico
+**Bloom:** Apply
+**EJE:** Gramatica
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** A student prepares to leave home and cannot find an object in its usual place.
 
 ### Enunciado
-What is the English word for: "The place at a port, airport, or frontier where officials check incoming goods, travelers, or luggage."
+You ____ have left the umbrella on the bus; it is not in the rack by the door.
 
 ### Opciones
-- [x] B) customs
-  <!-- feedback: Correct! 'customs' is the place at a port, airport or frontier where officials check incoming goods, travellers and luggage. -->
-- [ ] A) security
-  <!-- feedback: 'security' staff prevent accidents and crime inside the building; the officials who check goods and travellers are customs. -->
-- [ ] C) terminal
-  <!-- feedback: a 'terminal' is the building where passengers wait for a departure, not the office where the checks are done. -->
-- [ ] D) gate
-  <!-- feedback: a 'gate' is the door or boarding point on the aircraft, not the place where officials inspect your belongings. -->
+- [ ] A) should
+  <!-- feedback: 'Should' would express an expectation and would need a subject and a verb. -->
+- [x] B) must
+  <!-- feedback: Correct! 'Must' plus 'have' plus a participle states a certain conclusion about where an object was left. -->
+- [ ] C) may not
+  <!-- feedback: 'May not' would leave the conclusion open even though the rack is empty. -->
+- [ ] D) can
+  <!-- feedback: 'Can' expresses capacity and cannot state a deduction about the past. -->
 
 ### Explicacion Pedagogica
-The word 'customs' is used to describe the place at a port, airport, or frontier where officials check incoming goods, travelers, or luggage. This is an important vocabulary word in English.
+A certain deduction from a missing object takes the form 'must have' plus a participle, whether the object was lost, left or given away.
 ---
 ## Question 7 [D5]
 **ID:** HN-ING-11-2026-W23-modals-past-deduction-001-MASTERY-bundle-v7
-**Bloom:** Apply
-**EJE:** Lexico
+**Bloom:** Evaluate
+**EJE:** Gramatica
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** A colleague arrives at an office at the end of the working day.
 
 ### Enunciado
-What is the English word for: "A document provided by an airline during check-in, giving a passenger permission to board the airplane."
+The office was dark and the computer off, so the secretary ____ have left for the day.
 
 ### Opciones
-- [x] C) boarding pass
-  <!-- feedback: Correct! A 'boarding pass' is the document the airline issues at check-in that gives the passenger permission to board. -->
-- [ ] A) visa
-  <!-- feedback: a 'visa' is the permission to enter a country, obtained before the trip and not from the airline. -->
-- [ ] B) receipt
-  <!-- feedback: a 'receipt' only proves that you paid; it does not let you board the plane. -->
-- [ ] D) brochure
-  <!-- feedback: a 'brochure' is printed information about the airline or the destination, not a travel document. -->
+- [ ] A) must
+  <!-- feedback: 'Must' would state a certain conclusion that the dark office does not justify on its own. -->
+- [ ] B) cannot
+  <!-- feedback: 'Cannot' would deny that she left, and the evidence suggests the opposite. -->
+- [x] C) might
+  <!-- feedback: Correct! 'Might have' plus a participle leaves open when or why the secretary left. -->
+- [ ] D) should
+  <!-- feedback: 'Should' would express a norm about working hours rather than a conclusion. -->
 
 ### Explicacion Pedagogica
-The word 'boarding pass' is used to describe a document provided by an airline during check-in, giving a passenger permission to board the airplane. This is an important vocabulary word in English.
+An empty dark office is compatible with several explanations, so the honest form is the hedged 'might have'.
 ---
-## Question 8 [D6]
+## Question 8 [D4]
 **ID:** HN-ING-11-2026-W23-modals-past-deduction-001-MASTERY-bundle-v8
 **Bloom:** Apply
-**EJE:** Lexico
+**EJE:** Gramatica
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** A student arrives at a lecture hall well before the scheduled hour.
 
 ### Enunciado
-What is the English word for: "The activity of visiting places of interest in a particular location."
+The hall is empty and the chairs are stacked, so the lecture ____ have finished earlier than usual.
 
 ### Opciones
-- [x] B) sightseeing
-  <!-- feedback: Correct! 'sightseeing' is the activity of visiting the places of interest of a location. -->
-- [ ] A) shopping
-  <!-- feedback: 'shopping' is buying things in stores, not the general activity of visiting a place's sights. -->
-- [ ] C) hiking
-  <!-- feedback: 'hiking' is one specific outdoor walk in nature, only one kind of activity out of many. -->
-- [ ] D) camping
-  <!-- feedback: 'camping' means staying outdoors in a tent, which is not what a visitor does in a city or landmark. -->
+- [ ] A) might
+  <!-- feedback: 'Might' would weaken a conclusion that the empty hall clearly supports. -->
+- [ ] B) cannot
+  <!-- feedback: 'Cannot' would deny the earlier finish, and the room contradicts it. -->
+- [ ] C) should
+  <!-- feedback: 'Should' would express a norm about timetables rather than an inference. -->
+- [x] D) must
+  <!-- feedback: Correct! 'Must' plus 'have' plus a participle states a certain conclusion about a past event from present evidence. -->
 
 ### Explicacion Pedagogica
-The word 'sightseeing' is used to describe the activity of visiting places of interest in a particular location. This is an important vocabulary word in English.
+An empty room with stacked chairs is direct evidence that the session already ended, so the past deduction takes 'must have' plus a participle.
 ---
 ## Question 9 [D5]
 **ID:** HN-ING-11-2026-W23-modals-past-deduction-001-MASTERY-bundle-v9
-**Bloom:** Apply
-**EJE:** Lexico
+**Bloom:** Analyze
+**EJE:** Gramatica
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** A teacher explains why a student failed a question in a written exercise.
 
 ### Enunciado
-What is the English word for: "A thing that is kept as a reminder of a person, place, or event."
+____ he studied the chapter, he would have answered the question correctly.
 
 ### Opciones
-- [x] D) souvenir
-  <!-- feedback: Correct! A 'souvenir' is the object that is kept as a reminder of a person, place or event. -->
-- [ ] A) gift
-  <!-- feedback: a 'gift' is something given to someone, but it is not necessarily kept as a reminder of a place or an event. -->
-- [ ] B) award
-  <!-- feedback: an 'award' is an honour granted by an institution for merit, not a keepsake. -->
-- [ ] C) prize
-  <!-- feedback: a 'prize' is the reward of a competition; the definition describes an object kept as a memento. -->
+- [x] A) Had
+  <!-- feedback: Correct! 'Had' inverts the subject and the past auxiliary, which is the third conditional without 'if'. -->
+- [ ] B) If
+  <!-- feedback: 'If' would require the normal word order, and the sentence as written has no 'if'. -->
+- [ ] C) Should
+  <!-- feedback: 'Should' would be a modal of expectation, not an inversion of a past auxiliary. -->
+- [ ] D) Would
+  <!-- feedback: 'Would' cannot open a third conditional clause by itself. -->
 
 ### Explicacion Pedagogica
-The word 'souvenir' is used to describe a thing that is kept as a reminder of a person, place, or event. This is an important vocabulary word in English.
+The third conditional omits 'if' and inverts the subject with the past form of 'have'. That inversion is the mark of the unreal past condition.
 ---
-## Question 10 [D6]
+## Question 10 [D4]
 **ID:** HN-ING-11-2026-W23-modals-past-deduction-001-MASTERY-bundle-v10
 **Bloom:** Apply
-**EJE:** Lexico
+**EJE:** Gramatica
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** People gather outside a hall where a public screening was expected.
 
 ### Enunciado
-What is the English word for: "A period of time by which something is late or postponed."
+The film ____ have been cancelled because the hall is full and people are waiting outside.
 
 ### Opciones
-- [x] D) delay
-  <!-- feedback: Correct! A 'delay' is the extra period of time by which something ends up late or postponed. -->
-- [ ] A) cancellation
-  <!-- feedback: a 'cancellation' means the trip or event will not happen at all, not that it happens later. -->
-- [ ] B) departure
-  <!-- feedback: 'departure' is simply the moment of leaving, which can be perfectly punctual. -->
-- [ ] C) arrival
-  <!-- feedback: 'arrival' is the moment of reaching the place, and it says nothing about being late. -->
+- [ ] A) should
+  <!-- feedback: 'Should' would express a general expectation about programming, not a conclusion. -->
+- [x] B) must
+  <!-- feedback: Correct! 'Must' plus 'have' plus a participle states a certain conclusion from the situation in the hall. -->
+- [ ] C) might
+  <!-- feedback: 'Might' would weaken a deduction that the crowded hall clearly supports. -->
+- [ ] D) can
+  <!-- feedback: 'Can' states capacity and cannot be followed by a past participle in this meaning. -->
 
 ### Explicacion Pedagogica
-The word 'delay' is used to describe a period of time by which something is late or postponed. This is an important vocabulary word in English.
+A public event with a full hall and a queue outside is strong evidence for a certain conclusion about a change of plan.
 ---
-## Question 11 [D7]
+## Question 11 [D4]
 **ID:** HN-ING-11-2026-W23-modals-past-deduction-001-MASTERY-bundle-v11
-**Bloom:** Apply
-**EJE:** Lexico
+**Bloom:** Evaluate
+**EJE:** Gramatica
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** A participant comments on the absence of a colleague from a short meeting.
 
 ### Enunciado
-What is the English word for: "The act of reporting one's presence and registering, typically at an airport or hotel."
+I did not see you at the meeting, so you ____ have arrived after it finished.
 
 ### Opciones
-- [x] D) check-in
-  <!-- feedback: Correct! 'Check-in' is the act of reporting your presence and registering at an airport or hotel counter. -->
-- [ ] A) check-out
-  <!-- feedback: 'check-out' is the opposite moment, when you pay and hand the room key back before leaving. -->
-- [ ] B) booking
-  <!-- feedback: 'booking' is the reservation made beforehand; check-in is what you do on arrival. -->
-- [ ] C) reservation
-  <!-- feedback: a 'reservation' is the earlier record of your booking, not the act of registering your presence. -->
+- [ ] A) must
+  <!-- feedback: 'Must' would assert the late arrival as certain, which the absence alone cannot prove. -->
+- [ ] B) cannot
+  <!-- feedback: 'Cannot' would deny the arrival, and nothing suggests that. -->
+- [x] C) might
+  <!-- feedback: Correct! 'Might have' plus a participle leaves open the reason for the absence. -->
+- [ ] D) shall
+  <!-- feedback: 'Shall' is used for offers and formal declarations, not for deduction. -->
 
 ### Explicacion Pedagogica
-The word 'check-in' is used to describe the act of reporting one's presence and registering, typically at an airport or hotel. This is an important vocabulary word in English.
+Absence admits several explanations, so the deduction must stay hedged: 'might have' plus a participle.
 ---
-## Question 12 [D8]
+## Question 12 [D4]
 **ID:** HN-ING-11-2026-W23-modals-past-deduction-001-MASTERY-bundle-v12
-**Bloom:** Apply
-**EJE:** Lexico
+**Bloom:** Analyze
+**EJE:** Gramatica
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** A relative describes the professional path of a family member.
 
 ### Enunciado
-What is the English word for: "A period of rest or waiting before a further stage in a journey."
+He ____ have studied medicine; he works in a restaurant in the city centre.
 
 ### Opciones
-- [x] B) layover
-  <!-- feedback: Correct! A 'layover' is a period of rest or waiting between two further stages of a journey. -->
-- [ ] A) stopover
-  <!-- feedback: 'stopover' is used mainly for trains and usually for a longer, often overnight, break on a rail journey. -->
-- [ ] C) transfer
-  <!-- feedback: a 'transfer' is the change from one vehicle or flight to another, not the pause itself. -->
-- [ ] D) transit
-  <!-- feedback: 'transit' means the action of passing through a place, with no idea of resting between stages. -->
+- [ ] A) must
+  <!-- feedback: 'Must' would assert the opposite of what his work shows. -->
+- [ ] B) might
+  <!-- feedback: 'Might' would leave the conclusion open even though the evidence is clear. -->
+- [ ] C) would
+  <!-- feedback: 'Would' would form a conditional and would need a main clause. -->
+- [x] D) cannot
+  <!-- feedback: Correct! 'Cannot have' plus a participle states a certain negative conclusion that the present job contradicts. -->
 
 ### Explicacion Pedagogica
-The word 'layover' is used to describe a period of rest or waiting before a further stage in a journey. This is an important vocabulary word in English.
+A present reality that contradicts an assumed past is expressed with 'cannot have' plus a participle, not with 'must not have'.
 ---
-## Question 13 [D7]
+## Question 13 [D3]
 **ID:** HN-ING-11-2026-W23-modals-past-deduction-001-MASTERY-bundle-v13
-**Bloom:** Analyze
-**EJE:** Lexico
+**Bloom:** Apply
+**EJE:** Gramatica
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** A resident checks a garden in the morning after a night of bad weather.
 
 ### Enunciado
-What is the English word for: "A system of money in general use in a particular country."
+The ground around the tree is wet, so it ____ have rained heavily during the night.
 
 ### Opciones
-- [x] A) currency
-  <!-- feedback: Correct! 'Currency' is the money system in general use in a particular country. -->
-- [ ] B) coin
-  <!-- feedback: a 'coin' is one single piece of money, not the whole system used in the country. -->
-- [ ] C) banknote
-  <!-- feedback: a 'banknote' is one single paper note of that system, not the system itself. -->
-- [ ] D) cash
-  <!-- feedback: 'cash' means money in coins and notes in general, not the specific monetary system of a country. -->
+- [x] A) must
+  <!-- feedback: Correct! 'Must' states a certain conclusion about rainfall from the state of the ground. -->
+- [ ] B) might
+  <!-- feedback: 'Might' would weaken a conclusion that the ground condition makes safe. -->
+- [ ] C) cannot
+  <!-- feedback: 'Cannot' would deny the rain, and the wet ground contradicts it. -->
+- [ ] D) should
+  <!-- feedback: 'Should' would express an expectation about seasonal weather rather than an inference. -->
 
 ### Explicacion Pedagogica
-The word 'currency' is used to describe a system of money in general use in a particular country. This is an important vocabulary word in English.
+The sign is present and the deduced event is past, which is the standard context for 'must have' plus a participle.
 ---
-## Question 14 [D8]
+## Question 14 [D5]
 **ID:** HN-ING-11-2026-W23-modals-past-deduction-001-MASTERY-bundle-v14
-**Bloom:** Analyze
-**EJE:** Lexico
+**Bloom:** Evaluate
+**EJE:** Gramatica
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** A person explains a mistake that followed from an incomplete explanation.
 
 ### Enunciado
-What is the English word for: "A book of information about a place designed for the use of visitors or tourists."
+You ____ have told me the truth; I made a wrong decision because of the wrong information.
 
 ### Opciones
-- [x] A) guidebook
-  <!-- feedback: Correct! A 'guidebook' is a book of information about a place written for the use of visitors and tourists. -->
-- [ ] B) map
-  <!-- feedback: a 'map' shows the layout of streets and places, but it is a drawing rather than a book of information. -->
-- [ ] C) dictionary
-  <!-- feedback: a 'dictionary' gives the meaning of words, not details about a destination for travellers. -->
-- [ ] D) encyclopedia
-  <!-- feedback: an encyclopedia covers all branches of knowledge rather than one particular place for visitors. -->
+- [ ] A) must
+  <!-- feedback: 'Must' would state a strict obligation, which the narrative does not present as broken. -->
+- [x] B) should
+  <!-- feedback: Correct! 'Should' expresses what was expected of the other person, and the speaker names the consequence. -->
+- [ ] C) could
+  <!-- feedback: 'Could' is a past ability modal and does not express expectation. -->
+- [ ] D) will
+  <!-- feedback: 'Will' would place the telling in the future. -->
 
 ### Explicacion Pedagogica
-The word 'guidebook' is used to describe a book of information about a place designed for the use of visitors or tourists. This is an important vocabulary word in English.
+Blame for an omission in the past takes 'should have' plus a participle. The modal expresses an expectation, not a rule.
 ---
-## Question 15 [D7]
+## Question 15 [D4]
 **ID:** HN-ING-11-2026-W23-modals-past-deduction-001-MASTERY-bundle-v15
 **Bloom:** Analyze
-**EJE:** Lexico
+**EJE:** Gramatica
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** A guard walks past an office that is still illuminated late at night.
 
 ### Enunciado
-What is the English word for: "A bag with shoulder straps that allow it to be carried on one's back."
+The lights in the office are still on at midnight; the manager ____ have forgotten to go home.
 
 ### Opciones
-- [x] A) backpack
-  <!-- feedback: Correct! A 'backpack' has shoulder straps and is designed to be carried on one's back. -->
-- [ ] B) suitcase
-  <!-- feedback: a 'suitcase' is dragged by a handle beside the body; it has no shoulder straps. -->
-- [ ] C) briefcase
-  <!-- feedback: a 'briefcase' is a case for documents and a laptop that is carried in the hand. -->
-- [ ] D) handbag
-  <!-- feedback: a 'handbag' is a small bag held in the hand, not carried on the back. -->
+- [ ] A) should
+  <!-- feedback: 'Should' would express a norm about leaving time, which the late hour does not address. -->
+- [ ] B) might not
+  <!-- feedback: 'Might not' would weaken a conclusion that the lit office clearly supports. -->
+- [x] C) must
+  <!-- feedback: Correct! 'Must' plus 'have' plus a participle states a certain conclusion about a past action from a present sign. -->
+- [ ] D) cannot
+  <!-- feedback: 'Cannot' would deny the deduction, and the evidence points the other way. -->
 
 ### Explicacion Pedagogica
-The word 'backpack' is used to describe a bag with shoulder straps that allow it to be carried on one's back. This is an important vocabulary word in English.
+Lit rooms at an unusual hour are strong present evidence of continued work, which licenses a certain past deduction.
 ---
-## Question 16 [D8]
+## Question 16 [D4]
 **ID:** HN-ING-11-2026-W23-modals-past-deduction-001-MASTERY-bundle-v16
-**Bloom:** Analyze
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
-
-### Enunciado
-What is the English word for: "In or to a foreign country, especially one across the sea."
-
-### Opciones
-- [x] C) overseas
-  <!-- feedback: Correct! 'Overseas' means in or to a foreign country, especially one reached across the sea. -->
-- [ ] A) domestic
-  <!-- feedback: 'domestic' means inside the same country, which is the opposite of overseas. -->
-- [ ] B) local
-  <!-- feedback: 'local' means belonging to the area where you already are, again the opposite meaning. -->
-- [ ] D) national
-  <!-- feedback: 'national' refers to the nation as a whole, but it does not mean being abroad. -->
-
-### Explicacion Pedagogica
-The word 'overseas' is used to describe in or to a foreign country, especially one across the sea. This is an important vocabulary word in English.
----
-## Question 17 [D9]
-**ID:** HN-ING-11-2026-W23-modals-past-deduction-001-MASTERY-bundle-v17
 **Bloom:** Evaluate
-**EJE:** Lexico
+**EJE:** Gramatica
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** A student reacts to a classmate who produced an entire written report overnight.
 
 ### Enunciado
-What is the English word for: "An estimate of income and expenditure for a set period of time."
+I cannot believe he ____ have finished the whole report in one night.
 
 ### Opciones
-- [x] B) budget
-  <!-- feedback: Correct! A 'budget' is an estimate of income and expenditure planned for a set period of time. -->
-- [ ] A) expense
-  <!-- feedback: an 'expense' is a single cost; a budget gathers all income and spending over a period. -->
-- [ ] C) cost
-  <!-- feedback: 'cost' is the amount paid for one thing, not an estimate for a whole period. -->
-- [ ] D) price
-  <!-- feedback: 'price' is the figure written on a product, not a plan of income and expenditure. -->
+- [ ] A) must
+  <!-- feedback: 'Must' would assert the feat as certain, which contradicts the stated disbelief. -->
+- [ ] B) can
+  <!-- feedback: 'Can' is an ability modal and cannot be followed here by a past participle in this meaning. -->
+- [ ] C) should
+  <!-- feedback: 'Should' would express an expectation and would be odd after 'cannot believe'. -->
+- [x] D) might
+  <!-- feedback: Correct! 'Might' plus 'have' plus a participle fits the speaker's genuine surprise, even though the report does exist. -->
 
 ### Explicacion Pedagogica
-The word 'budget' is used to describe an estimate of income and expenditure for a set period of time. This is an important vocabulary word in English.
+Surprise at a past event uses the hedged modal. 'Cannot believe' is itself a negative clause that leaves room for a weak conclusion.
 ---
-## Question 18 [D10]
+## Question 17 [D4]
+**ID:** HN-ING-11-2026-W23-modals-past-deduction-001-MASTERY-bundle-v17
+**Bloom:** Apply
+**EJE:** Gramatica
+**Expected_Success:** 0.80
+**Contexto:** A parent enters a room where the toys of two children lie scattered.
+
+### Enunciado
+The children ____ have been playing here; the toys are scattered under the table.
+
+### Opciones
+- [x] A) must
+  <!-- feedback: Correct! 'Must have been' plus a participle states a certain conclusion about a past activity still related to the present. -->
+- [ ] B) might
+  <!-- feedback: 'Might' would weaken a conclusion that the scattered toys support. -->
+- [ ] C) cannot
+  <!-- feedback: 'Cannot' would deny that the children played, and the toys indicate the opposite. -->
+- [ ] D) would
+  <!-- feedback: 'Would' would express a past habit or a polite offer. -->
+
+### Explicacion Pedagogica
+When the deduced action is a past activity whose traces remain visible, the form is 'must have been' plus a participle.
+---
+## Question 18 [D5]
 **ID:** HN-ING-11-2026-W23-modals-past-deduction-001-MASTERY-bundle-v18
 **Bloom:** Evaluate
-**EJE:** Lexico
+**EJE:** Gramatica
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** A resident examines mud in a garden after rainfall.
 
 ### Enunciado
-What is the English word for: "A practice or arrangement by which a company or government agency provides a guarantee of compensation for specified loss, damage, illness, or death in return for payment of a premium."
+There are footprints in the garden, so somebody ____ have walked there after the rain.
 
 ### Opciones
-- [x] B) insurance
-  <!-- feedback: Correct! 'Insurance' is the arrangement by which a company or agency guarantees compensation for specified loss, damage, illness or death in return for a premium. -->
-- [ ] A) warranty
-  <!-- feedback: a 'warranty' is the maker's guarantee of a product, normally for a short period and against defects only. -->
-- [ ] C) guarantee
-  <!-- feedback: a 'guarantee' is the promise itself, without the payment of a premium that defines an insurance arrangement. -->
-- [ ] D) policy
-  <!-- feedback: a 'policy' is the written document of the contract, not the practice of insuring itself. -->
+- [ ] A) must
+  <!-- feedback: 'Must' would name a certain walker, and the evidence identifies nobody. -->
+- [x] B) might
+  <!-- feedback: Correct! 'Might have' plus a participle leaves open who walked and when, which the footprints do not establish. -->
+- [ ] C) cannot
+  <!-- feedback: 'Cannot' would deny that anyone walked there. -->
+- [ ] D) shall
+  <!-- feedback: 'Shall' is used for offers and formal statements, not for a deduction. -->
 
 ### Explicacion Pedagogica
-The word 'insurance' is used to describe a practice or arrangement by which a company or government agency provides a guarantee of compensation for specified loss, damage, illness, or death in return for payment of a premium. This is an important vocabulary word in English.
+The evidence establishes that someone walked there but not who or when, so the modal has to stay hedged.
 ---
-## Question 19 [D9]
+## Question 19 [D4]
 **ID:** HN-ING-11-2026-W23-modals-past-deduction-001-MASTERY-bundle-v19
-**Bloom:** Evaluate
-**EJE:** Lexico
+**Bloom:** Analyze
+**EJE:** Gramatica
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** A student reports a missing notebook in an empty classroom.
 
 ### Enunciado
-What is the English word for: "Treatment with a vaccine to produce immunity against a disease."
+He ____ have taken my notebook, because it is not in my bag and he was the only one here.
 
 ### Opciones
-- [x] B) vaccination
-  <!-- feedback: Correct! 'Vaccination' is the treatment with a vaccine that produces immunity against a disease. -->
-- [ ] A) medication
-  <!-- feedback: 'medication' treats the symptoms of a disease; it does not create immunity against it. -->
-- [ ] C) prescription
-  <!-- feedback: a 'prescription' is the doctor's written order for a medicine, not the vaccine treatment itself. -->
-- [ ] D) infection
-  <!-- feedback: an 'infection' is the invasion of the body by a pathogen, the opposite of being protected against disease. -->
+- [ ] A) might
+  <!-- feedback: 'Might' would be too weak when the number of possible people is one. -->
+- [ ] B) should
+  <!-- feedback: 'Should' would express an expectation about respecting other people's property. -->
+- [x] C) must
+  <!-- feedback: Correct! 'Must' plus 'have' plus a participle states a certain conclusion when only one person had access. -->
+- [ ] D) can
+  <!-- feedback: 'Can' expresses capacity and cannot carry a past participle in this meaning. -->
 
 ### Explicacion Pedagogica
-The word 'vaccination' is used to describe treatment with a vaccine to produce immunity against a disease. This is an important vocabulary word in English.
+When the evidence leaves only one possible agent, the deduction is certain and 'must' is the correct modal.
 ---
-## Question 20 [D10]
+## Question 20 [D4]
 **ID:** HN-ING-11-2026-W23-modals-past-deduction-001-MASTERY-bundle-v20
 **Bloom:** Evaluate
-**EJE:** Lexico
+**EJE:** Gramatica
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** A school explains why some students were unaware of an important notice.
 
 ### Enunciado
-What is the English word for: "Extreme tiredness and other physical effects felt by a person after a long flight across several time zones."
+They ____ have missed the announcement, because the notice was removed on Friday.
 
 ### Opciones
-- [x] A) jet lag
-  <!-- feedback: Correct! 'Jet lag' is the extreme tiredness and other physical effects felt after a long flight across several time zones. -->
-- [ ] B) fatigue
-  <!-- feedback: 'fatigue' is tiredness from any cause, such as a lack of sleep or effort, not specifically from time zones. -->
-- [ ] C) exhaustion
-  <!-- feedback: 'exhaustion' is a total lack of energy from any cause, more general and more severe than the effect of crossing time zones. -->
-- [ ] D) insomnia
-  <!-- feedback: 'insomnia' is the difficulty of falling or staying asleep, only one symptom and not the whole set of effects after a long flight. -->
+- [ ] A) must
+  <!-- feedback: 'Must' would state that they definitely missed it, and a removed notice does not prove it. -->
+- [ ] B) cannot
+  <!-- feedback: 'Cannot' would deny the possibility, and nothing supports that. -->
+- [ ] C) would
+  <!-- feedback: 'Would' would form a conditional and would need a main clause. -->
+- [x] D) might
+  <!-- feedback: Correct! 'Might' plus 'have' plus a participle leaves open when the notice was read. -->
 
 ### Explicacion Pedagogica
-The word 'jet lag' is used to describe extreme tiredness and other physical effects felt by a person after a long flight across several time zones. This is an important vocabulary word in English.
+An indirect sign such as a removed notice supports only a possible explanation, which 'might have' expresses without overstating the case.
+---

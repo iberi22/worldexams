@@ -21,462 +21,464 @@ bundle_index: 1
 **20 preguntas | Ingles | Curriculo de Ingles**
 
 ---
+
 ## Question 1 [D3]
 **ID:** HN-ING-11-2026-W40-final-review-001-MASTERY-bundle-v1
-**Bloom:** Remember
-**EJE:** Lexico
+**Bloom:** Apply
+**EJE:** Gramatica
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** A final revision covers the whole year: tenses, modals, conditionals, passive, inversion and cleft sentences.
 
 ### Enunciado
-What is the English word for: "A place where you live or stay on holiday."
+Choose the correct present perfect form: 'They ____ in this town since 2019.'
 
 ### Opciones
-- [x] A) accommodation
-  <!-- feedback: Correct! 'accommodation' is the place where you live or stay, especially on holiday, and it is the word the definition asks for. -->
-- [ ] B) transportation
-  <!-- feedback: 'transportation' is the system that moves people or goods (buses, trains, taxis), not a place where you live or stay. -->
-- [ ] C) entertainment
-  <!-- feedback: 'entertainment' means the shows, music and activities that amuse you, so it names an experience rather than a place. -->
-- [ ] D) currency
-  <!-- feedback: 'currency' is the money system of a country, such as the dollar or the colon, so it has nothing to do with a place to stay. -->
+- [x] A) have lived
+  <!-- feedback: Correct! 'Have lived' is the present perfect and it is the tense required with 'since' plus a year. -->
+- [ ] B) has lived
+  <!-- feedback: 'Has lived' does not agree with the plural subject 'they'. -->
+- [ ] C) lived
+  <!-- feedback: 'Lived' alone is the past simple, which has no link to the present. -->
+- [ ] D) are living since
+  <!-- feedback: 'Are living' is the present continuous and does not combine with 'since' plus a year. -->
 
 ### Explicacion Pedagogica
-The word 'accommodation' is used to describe a place where you live or stay on holiday. This is an important vocabulary word in English.
+A state that began in the past and still holds needs the present perfect, and the auxiliary must agree with the subject.
 ---
-## Question 2 [D4]
+## Question 2 [D3]
 **ID:** HN-ING-11-2026-W40-final-review-001-MASTERY-bundle-v2
-**Bloom:** Remember
-**EJE:** Lexico
+**Bloom:** Apply
+**EJE:** Gramatica
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** A revision of the modals in their four main functions: obligation, ability, deduction and permission.
 
 ### Enunciado
-What is the English word for: "A detailed plan or route of a journey."
+Choose the correct modal: 'You ____ wear a helmet when you ride a motorbike. It is the law.'
 
 ### Opciones
-- [x] C) itinerary
-  <!-- feedback: Correct! An 'itinerary' is the detailed plan or route of a journey: it lists the places, stops and times in order. -->
-- [ ] A) baggage
-  <!-- feedback: 'baggage' means the suitcases and bags you travel with, not the plan that organises the trip. -->
-- [ ] B) destination
-  <!-- feedback: 'destination' is the place you are travelling to, one single stop of the plan rather than the plan itself. -->
-- [ ] D) passport
-  <!-- feedback: 'passport' is the official travel document you show at the border, not a description of the journey route. -->
+- [ ] A) might
+  <!-- feedback: 'Might' expresses a small possibility and creates no obligation. -->
+- [x] B) must
+  <!-- feedback: Correct! 'Must' states an obligation imposed by a rule or a law. -->
+- [ ] C) could
+  <!-- feedback: 'Could' would describe an ability or a past permission. -->
+- [ ] D) would
+  <!-- feedback: 'Would' would express a past habit or a polite offer. -->
 
 ### Explicacion Pedagogica
-The word 'itinerary' is used to describe a detailed plan or route of a journey. This is an important vocabulary word in English.
+The four modal families are distinguished by what they express, and the reference to a law fixes the choice of obligation.
 ---
-## Question 3 [D3]
+## Question 3 [D4]
 **ID:** HN-ING-11-2026-W40-final-review-001-MASTERY-bundle-v3
-**Bloom:** Understand
-**EJE:** Lexico
+**Bloom:** Apply
+**EJE:** Gramatica
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** A revision of the three conditional types and the pairs of tenses that each one requires.
 
 ### Enunciado
-What is the English word for: "The place to which someone or something is going or being sent."
+Choose the correct third conditional: 'If she ____ earlier, she would have caught the bus.'
 
 ### Opciones
-- [x] D) destination
-  <!-- feedback: Correct! A 'destination' is the place to which someone or something is going or being sent. -->
-- [ ] A) departure
-  <!-- feedback: 'departure' is the act of leaving, the opposite side of the trip; the definition asks for the place, not the action. -->
-- [ ] B) arrival
-  <!-- feedback: 'arrival' is the event of getting there, but a definition needs the place itself, not the moment of reaching it. -->
-- [ ] C) journey
-  <!-- feedback: 'journey' is the whole trip from one place to another, whereas the definition names only where it ends. -->
+- [ ] A) has left
+  <!-- feedback: 'Has left' is the present perfect, which places the leaving in a period connected to the present. -->
+- [ ] B) would leave
+  <!-- feedback: 'Would leave' places a modal inside the if-clause, which no conditional does. -->
+- [x] C) had left
+  <!-- feedback: Correct! The third conditional uses the past perfect in the if-clause because both events are unreal in the past. -->
+- [ ] D) leaves
+  <!-- feedback: 'Leaves' is the present simple, which belongs to the first conditional. -->
 
 ### Explicacion Pedagogica
-The word 'destination' is used to describe the place to which someone or something is going or being sent. This is an important vocabulary word in English.
+The unreal past condition needs the past perfect, and the unreal past result needs 'would' plus the base form.
 ---
 ## Question 4 [D4]
 **ID:** HN-ING-11-2026-W40-final-review-001-MASTERY-bundle-v4
-**Bloom:** Understand
-**EJE:** Lexico
+**Bloom:** Analyze
+**EJE:** Gramatica
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** A revision of the causative, in which a person arranges for an action to be done by somebody else.
 
 ### Enunciado
-What is the English word for: "Suitcases or other bags in which to pack personal belongings for traveling."
+Which sentence uses the causative correctly?
 
 ### Opciones
-- [x] D) luggage
-  <!-- feedback: Correct! 'luggage' is the collective word for the suitcases and bags in which personal belongings are packed for travelling. -->
-- [ ] A) ticket
-  <!-- feedback: a 'ticket' is the document that gives you the right to travel; it carries nothing at all. -->
-- [ ] B) flight
-  <!-- feedback: a 'flight' is the trip itself by plane, not the bags you pack for it. -->
-- [ ] C) reservation
-  <!-- feedback: a 'reservation' is the booking held for a seat or a room, not the container where clothes go. -->
+- [ ] A) They had the roof to repair before the rains.
+  <!-- feedback: A causal 'to' cannot be inserted between the object and the participle. -->
+- [ ] B) They had the roof repairing before the rains.
+  <!-- feedback: 'Repairing' is a gerund and does not complete the causative structure. -->
+- [ ] C) They had repaired the roof to before the rains.
+  <!-- feedback: The infinitive after the participle is not part of the causative form. -->
+- [x] D) They had the roof repaired before the rains.
+  <!-- feedback: Correct! 'Have' plus an object plus a past participle is the causative: the roof was repaired by someone else. -->
 
 ### Explicacion Pedagogica
-The word 'luggage' is used to describe suitcases or other bags in which to pack personal belongings for traveling. This is an important vocabulary word in English.
+The causative has a fixed order: 'have' plus the person who arranges, plus the object, plus the past participle of the action performed.
 ---
-## Question 5 [D5]
+## Question 5 [D4]
 **ID:** HN-ING-11-2026-W40-final-review-001-MASTERY-bundle-v5
-**Bloom:** Understand
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
-
-### Enunciado
-What is the English word for: "A traveler on a public or private conveyance other than the driver, pilot, or crew."
-
-### Opciones
-- [x] C) passenger
-  <!-- feedback: Correct! A 'passenger' is a traveller on a public or private conveyance who is neither the driver, the pilot nor the crew. -->
-- [ ] A) pedestrian
-  <!-- feedback: a 'pedestrian' travels on foot, so there is no driver, pilot or crew in the vehicle at all. -->
-- [ ] B) commuter
-  <!-- feedback: a 'commuter' is defined by the regular trip to work or study, not by riding any conveyance. -->
-- [ ] D) tourist
-  <!-- feedback: a 'tourist' travels for pleasure and visits places of interest; the definition here is about the role on the vehicle. -->
-
-### Explicacion Pedagogica
-The word 'passenger' is used to describe a traveler on a public or private conveyance other than the driver, pilot, or crew. This is an important vocabulary word in English.
----
-## Question 6 [D6]
-**ID:** HN-ING-11-2026-W40-final-review-001-MASTERY-bundle-v6
-**Bloom:** Understand
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
-
-### Enunciado
-What is the English word for: "The place at a port, airport, or frontier where officials check incoming goods, travelers, or luggage."
-
-### Opciones
-- [x] C) customs
-  <!-- feedback: Correct! 'customs' is the place at a port, airport or frontier where officials check incoming goods, travellers and luggage. -->
-- [ ] A) security
-  <!-- feedback: 'security' staff prevent accidents and crime inside the building; the officials who check goods and travellers are customs. -->
-- [ ] B) terminal
-  <!-- feedback: a 'terminal' is the building where passengers wait for a departure, not the office where the checks are done. -->
-- [ ] D) gate
-  <!-- feedback: a 'gate' is the door or boarding point on the aircraft, not the place where officials inspect your belongings. -->
-
-### Explicacion Pedagogica
-The word 'customs' is used to describe the place at a port, airport, or frontier where officials check incoming goods, travelers, or luggage. This is an important vocabulary word in English.
----
-## Question 7 [D5]
-**ID:** HN-ING-11-2026-W40-final-review-001-MASTERY-bundle-v7
 **Bloom:** Apply
-**EJE:** Lexico
+**EJE:** Gramatica
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** A revision of defining and non-defining relative clauses and of the punctuation that separates them.
 
 ### Enunciado
-What is the English word for: "A document provided by an airline during check-in, giving a passenger permission to board the airplane."
+Which sentence is correct with a non-defining relative clause?
 
 ### Opciones
-- [x] D) boarding pass
-  <!-- feedback: Correct! A 'boarding pass' is the document the airline issues at check-in that gives the passenger permission to board. -->
-- [ ] A) visa
-  <!-- feedback: a 'visa' is the permission to enter a country, obtained before the trip and not from the airline. -->
-- [ ] B) receipt
-  <!-- feedback: a 'receipt' only proves that you paid; it does not let you board the plane. -->
-- [ ] C) brochure
-  <!-- feedback: a 'brochure' is printed information about the airline or the destination, not a travel document. -->
+- [x] A) My sister, who lives abroad, is visiting next week.
+  <!-- feedback: Correct! The non-defining clause is separated by commas and uses 'who' with its own subject and verb. -->
+- [ ] B) My sister, who is living abroad is visiting next week.
+  <!-- feedback: The second sentence is missing the closing comma that the non-defining clause requires. -->
+- [ ] C) My sister who lives abroad, is visiting next week.
+  <!-- feedback: The third sentence opens the clause without a comma, which makes it defining. -->
+- [ ] D) My sister, whom lives abroad, is visiting next week.
+  <!-- feedback: 'Whom' cannot be the subject of its own clause after a preposition in this position. -->
 
 ### Explicacion Pedagogica
-The word 'boarding pass' is used to describe a document provided by an airline during check-in, giving a passenger permission to board the airplane. This is an important vocabulary word in English.
+The comma pair is what marks a clause as additional information. Without it, the clause restricts the noun and becomes defining.
 ---
-## Question 8 [D6]
+## Question 6 [D4]
+**ID:** HN-ING-11-2026-W40-final-review-001-MASTERY-bundle-v6
+**Bloom:** Apply
+**EJE:** Gramatica
+**Expected_Success:** 0.80
+**Contexto:** A revision of inversion with fronted negative and focusing phrases.
+
+### Enunciado
+Choose the correct inversion after 'Not until the exam ended ____ the noise in the hall.'
+
+### Opciones
+- [ ] A) the students did stop
+  <!-- feedback: The first option keeps the subject before the auxiliary, so no inversion takes place. -->
+- [x] B) did the students stop
+  <!-- feedback: Correct! The fronted negative phrase 'not until' triggers the auxiliary 'did' before the subject. -->
+- [ ] C) the students stopped
+  <!-- feedback: The third option is a plain declarative clause and gives no inversion. -->
+- [ ] D) stopped the students
+  <!-- feedback: The fourth option inverts the main verb and the subject and omits the auxiliary. -->
+
+### Explicacion Pedagogica
+The same rule covers 'not until', 'only after' and 'only when': the auxiliary precedes the subject and nothing else moves.
+---
+## Question 7 [D4]
+**ID:** HN-ING-11-2026-W40-final-review-001-MASTERY-bundle-v7
+**Bloom:** Analyze
+**EJE:** Comprension lectora
+**Expected_Success:** 0.80
+**Contexto:** A final revision includes the reading of a research summary, as it appears in examinations.
+
+### Enunciado
+Read the summary: 'The report found a clear link between sleep and exam performance, although the sample was small.' What is the weakness the writer points to?
+
+### Opciones
+- [ ] A) The report was published recently.
+  <!-- feedback: The date of publication is not a weakness of the research. -->
+- [ ] B) The report uses technical terms.
+  <!-- feedback: Technical vocabulary is a feature of the subject, not a limitation of the study. -->
+- [x] C) The number of participants was limited.
+  <!-- feedback: Correct! A small sample restricts how far the results can be generalised, which is what the phrase points to. -->
+- [ ] D) The topic had been studied before.
+  <!-- feedback: Previous research on a topic is normal and does not weaken a new study. -->
+
+### Explicacion Pedagogica
+The word 'although' introduces the limitation. Recognising that connective is what tells the reader which clause holds the weakness.
+---
+## Question 8 [D3]
 **ID:** HN-ING-11-2026-W40-final-review-001-MASTERY-bundle-v8
 **Bloom:** Apply
-**EJE:** Lexico
+**EJE:** Escritura
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** A revision of the writing tasks of the year, including articles for the school magazine.
 
 ### Enunciado
-What is the English word for: "The activity of visiting places of interest in a particular location."
+Which subject is best for a personal response article in a school magazine?
 
 ### Opciones
-- [x] D) sightseeing
-  <!-- feedback: Correct! 'sightseeing' is the activity of visiting the places of interest of a location. -->
-- [ ] A) shopping
-  <!-- feedback: 'shopping' is buying things in stores, not the general activity of visiting a place's sights. -->
-- [ ] B) hiking
-  <!-- feedback: 'hiking' is one specific outdoor walk in nature, only one kind of activity out of many. -->
-- [ ] C) camping
-  <!-- feedback: 'camping' means staying outdoors in a tent, which is not what a visitor does in a city or landmark. -->
+- [ ] A) A short history of the printing press
+  <!-- feedback: The first subject is a historical fact with no room for a personal position. -->
+- [ ] B) The life of an industrial engineer
+  <!-- feedback: The second subject is a biography, which belongs to a different genre. -->
+- [ ] C) A comparison of two mountain ranges
+  <!-- feedback: The third subject is a geographical comparison, not a personal response. -->
+- [x] D) What our school could do to reduce paper waste
+  <!-- feedback: Correct! The subject is local, current and invites the opinion of the writer, which is what a personal response needs. -->
 
 ### Explicacion Pedagogica
-The word 'sightseeing' is used to describe the activity of visiting places of interest in a particular location. This is an important vocabulary word in English.
+The genre decides the subject. A personal response needs a matter about which the writer can hold and defend a position.
 ---
-## Question 9 [D5]
+## Question 9 [D3]
 **ID:** HN-ING-11-2026-W40-final-review-001-MASTERY-bundle-v9
 **Bloom:** Apply
-**EJE:** Lexico
+**EJE:** Vocabulario
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** A revision of collocations, where the correct verb must be learned together with its noun.
 
 ### Enunciado
-What is the English word for: "A thing that is kept as a reminder of a person, place, or event."
+Which word is the best collocation with 'make' in: 'She decided to ____ a phone call to the office.'
 
 ### Opciones
-- [x] C) souvenir
-  <!-- feedback: Correct! A 'souvenir' is the object that is kept as a reminder of a person, place or event. -->
-- [ ] A) gift
-  <!-- feedback: a 'gift' is something given to someone, but it is not necessarily kept as a reminder of a place or an event. -->
-- [ ] B) award
-  <!-- feedback: an 'award' is an honour granted by an institution for merit, not a keepsake. -->
-- [ ] D) prize
-  <!-- feedback: a 'prize' is the reward of a competition; the definition describes an object kept as a memento. -->
+- [x] A) make
+  <!-- feedback: Correct! 'Make a phone call' is the standard collocation in English. -->
+- [ ] B) do
+  <!-- feedback: 'Do a phone call' is not a standard combination. -->
+- [ ] C) take
+  <!-- feedback: 'Take a phone call' is used in a different sense, meaning to receive a call that is ringing. -->
+- [ ] D) pay
+  <!-- feedback: 'Pay a phone call' confuses a payment with a communication. -->
 
 ### Explicacion Pedagogica
-The word 'souvenir' is used to describe a thing that is kept as a reminder of a person, place, or event. This is an important vocabulary word in English.
+Collocation is a matter of fixed pairing, not of sense. 'Take' is correct in a related expression, which is exactly the trap the option sets.
 ---
-## Question 10 [D6]
+## Question 10 [D4]
 **ID:** HN-ING-11-2026-W40-final-review-001-MASTERY-bundle-v10
 **Bloom:** Apply
-**EJE:** Lexico
+**EJE:** Gramatica
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** A revision of the verb patterns that end in a preposition followed by a gerund.
 
 ### Enunciado
-What is the English word for: "A period of time by which something is late or postponed."
+Choose the correct sentence: 'I look forward to ____ you again.'
 
 ### Opciones
-- [x] C) delay
-  <!-- feedback: Correct! A 'delay' is the extra period of time by which something ends up late or postponed. -->
-- [ ] A) cancellation
-  <!-- feedback: a 'cancellation' means the trip or event will not happen at all, not that it happens later. -->
-- [ ] B) departure
-  <!-- feedback: 'departure' is simply the moment of leaving, which can be perfectly punctual. -->
-- [ ] D) arrival
-  <!-- feedback: 'arrival' is the moment of reaching the place, and it says nothing about being late. -->
+- [ ] A) see
+  <!-- feedback: 'See' is a base form and cannot follow the preposition 'to'. -->
+- [x] B) seeing
+  <!-- feedback: Correct! The preposition 'to' here is followed by a gerund, which is a frequent trap in this fixed expression. -->
+- [ ] C) seen
+  <!-- feedback: 'Seen' is the past participle and cannot follow a preposition in this structure. -->
+- [ ] D) to see
+  <!-- feedback: 'To see' places two prepositions together, which is not possible. -->
 
 ### Explicacion Pedagogica
-The word 'delay' is used to describe a period of time by which something is late or postponed. This is an important vocabulary word in English.
+In 'look forward to', 'to' is a preposition and not part of an infinitive, so a gerund has to follow it.
 ---
-## Question 11 [D7]
+## Question 11 [D4]
 **ID:** HN-ING-11-2026-W40-final-review-001-MASTERY-bundle-v11
 **Bloom:** Apply
-**EJE:** Lexico
+**EJE:** Gramatica
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** A revision of the passive voice across the tenses used in a scientific report.
 
 ### Enunciado
-What is the English word for: "The act of reporting one's presence and registering, typically at an airport or hotel."
+Which sentence is correct in a formal report?
 
 ### Opciones
-- [x] C) check-in
-  <!-- feedback: Correct! 'Check-in' is the act of reporting your presence and registering at an airport or hotel counter. -->
-- [ ] A) check-out
-  <!-- feedback: 'check-out' is the opposite moment, when you pay and hand the room key back before leaving. -->
-- [ ] B) booking
-  <!-- feedback: 'booking' is the reservation made beforehand; check-in is what you do on arrival. -->
-- [ ] D) reservation
-  <!-- feedback: a 'reservation' is the earlier record of your booking, not the act of registering your presence. -->
+- [ ] A) The samples analysed and the results recorded in a table.
+  <!-- feedback: The first sentence is missing the auxiliaries that the passive requires. -->
+- [ ] B) The samples was analysed and the results was recorded in a table.
+  <!-- feedback: The second sentence does not agree in number with the plural subjects. -->
+- [x] C) The samples were analysed and the results were recorded in a table.
+  <!-- feedback: Correct! The passive with 'were' and the past participles are the correct forms for a completed procedure. -->
+- [ ] D) The samples are analysed and the results are recorded in a table yesterday.
+  <!-- feedback: The fourth sentence mixes the present passive with a past time expression. -->
 
 ### Explicacion Pedagogica
-The word 'check-in' is used to describe the act of reporting one's presence and registering, typically at an airport or hotel. This is an important vocabulary word in English.
+A completed procedure is described with 'was' or 'were' plus a past participle, and the auxiliary agrees with each subject.
 ---
-## Question 12 [D8]
+## Question 12 [D3]
 **ID:** HN-ING-11-2026-W40-final-review-001-MASTERY-bundle-v12
-**Bloom:** Apply
-**EJE:** Lexico
+**Bloom:** Understand
+**EJE:** Gramatica
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** A revision of cleft sentences, whose function is emphasis rather than meaning.
 
 ### Enunciado
-What is the English word for: "A period of rest or waiting before a further stage in a journey."
+Read the sentence: 'It was in the school garden that they planted the tree.' What is the purpose of this structure?
 
 ### Opciones
-- [x] A) layover
-  <!-- feedback: Correct! A 'layover' is a period of rest or waiting between two further stages of a journey. -->
-- [ ] B) stopover
-  <!-- feedback: 'stopover' is used mainly for trains and usually for a longer, often overnight, break on a rail journey. -->
-- [ ] C) transfer
-  <!-- feedback: a 'transfer' is the change from one vehicle or flight to another, not the pause itself. -->
-- [ ] D) transit
-  <!-- feedback: 'transit' means the action of passing through a place, with no idea of resting between stages. -->
+- [ ] A) To ask a question about the place.
+  <!-- feedback: The structure is declarative and asks no question. -->
+- [ ] B) To show that the action is impossible.
+  <!-- feedback: Nothing in the sentence suggests impossibility. -->
+- [ ] C) To express a doubt about the tree.
+  <!-- feedback: The structure expresses emphasis, not doubt. -->
+- [x] D) To focus the phrase 'in the school garden'.
+  <!-- feedback: Correct! The cleft sentence moves one element to the front so that the reader attends to it. -->
 
 ### Explicacion Pedagogica
-The word 'layover' is used to describe a period of rest or waiting before a further stage in a journey. This is an important vocabulary word in English.
+A cleft leaves the propositional content intact and only changes the information structure, which is why it is used for emphasis.
 ---
-## Question 13 [D7]
+## Question 13 [D4]
 **ID:** HN-ING-11-2026-W40-final-review-001-MASTERY-bundle-v13
 **Bloom:** Analyze
-**EJE:** Lexico
+**EJE:** Gramatica
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** A revision of the subjunctive after verbs of demand, suggestion and insistence.
 
 ### Enunciado
-What is the English word for: "A system of money in general use in a particular country."
+Which sentence is written in the subjunctive?
 
 ### Opciones
-- [x] C) currency
-  <!-- feedback: Correct! 'Currency' is the money system in general use in a particular country. -->
-- [ ] A) coin
-  <!-- feedback: a 'coin' is one single piece of money, not the whole system used in the country. -->
-- [ ] B) banknote
-  <!-- feedback: a 'banknote' is one single paper note of that system, not the system itself. -->
-- [ ] D) cash
-  <!-- feedback: 'cash' means money in coins and notes in general, not the specific monetary system of a country. -->
+- [x] A) The school insists that every student bring identification.
+  <!-- feedback: Correct! After a verb of insistence, the that clause takes the base form 'bring', which is the subjunctive. -->
+- [ ] B) The school insists that every student brings identification.
+  <!-- feedback: 'Brings' is the indicative, which does not follow a verb of insistence. -->
+- [ ] C) The school insists that every student is bringing identification.
+  <!-- feedback: 'Is bringing' is the present continuous and has no place in this clause. -->
+- [ ] D) The school insists that every student brought identification.
+  <!-- feedback: 'Brought' is the past simple, and the requirement is about the present. -->
 
 ### Explicacion Pedagogica
-The word 'currency' is used to describe a system of money in general use in a particular country. This is an important vocabulary word in English.
+The subjunctive is visible in the base form of the verb, whatever the subject is, which is what the three distractors break.
 ---
-## Question 14 [D8]
+## Question 14 [D3]
 **ID:** HN-ING-11-2026-W40-final-review-001-MASTERY-bundle-v14
-**Bloom:** Analyze
-**EJE:** Lexico
+**Bloom:** Apply
+**EJE:** Escritura
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** A revision of the writing tasks of the year, including a formal message to an institution.
 
 ### Enunciado
-What is the English word for: "A book of information about a place designed for the use of visitors or tourists."
+Choose the best description of a formal email to a university office.
 
 ### Opciones
-- [x] C) guidebook
-  <!-- feedback: Correct! A 'guidebook' is a book of information about a place written for the use of visitors and tourists. -->
-- [ ] A) map
-  <!-- feedback: a 'map' shows the layout of streets and places, but it is a drawing rather than a book of information. -->
-- [ ] B) dictionary
-  <!-- feedback: a 'dictionary' gives the meaning of words, not details about a destination for travellers. -->
-- [ ] D) encyclopedia
-  <!-- feedback: an encyclopedia covers all branches of knowledge rather than one particular place for visitors. -->
+- [ ] A) It uses short sentences and slang to sound friendly.
+  <!-- feedback: Slang and short sentences belong to a message between friends. -->
+- [x] B) It states the purpose clearly and uses a respectful register.
+  <!-- feedback: Correct! Formal correspondence needs a clear purpose, a conventional layout and a respectful register. -->
+- [ ] C) It begins with a joke about the weather.
+  <!-- feedback: An opening joke is out of place in a formal request. -->
+- [ ] D) It avoids any greeting so that it looks serious.
+  <!-- feedback: Omitting the greeting removes a convention that a formal message is expected to follow. -->
 
 ### Explicacion Pedagogica
-The word 'guidebook' is used to describe a book of information about a place designed for the use of visitors or tourists. This is an important vocabulary word in English.
+Register and layout are both assessed. A message can be clear and still be marked down if the register is wrong.
 ---
-## Question 15 [D7]
+## Question 15 [D4]
 **ID:** HN-ING-11-2026-W40-final-review-001-MASTERY-bundle-v15
-**Bloom:** Analyze
-**EJE:** Lexico
+**Bloom:** Apply
+**EJE:** Gramatica
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** A revision of the expressions of regret, including 'wish' and the second conditional.
 
 ### Enunciado
-What is the English word for: "A bag with shoulder straps that allow it to be carried on one's back."
+Which sentence uses 'wish' correctly?
 
 ### Opciones
-- [x] B) backpack
-  <!-- feedback: Correct! A 'backpack' has shoulder straps and is designed to be carried on one's back. -->
-- [ ] A) suitcase
-  <!-- feedback: a 'suitcase' is dragged by a handle beside the body; it has no shoulder straps. -->
-- [ ] C) briefcase
-  <!-- feedback: a 'briefcase' is a case for documents and a laptop that is carried in the hand. -->
-- [ ] D) handbag
-  <!-- feedback: a 'handbag' is a small bag held in the hand, not carried on the back. -->
+- [ ] A) I wish I would study harder last year.
+  <!-- feedback: 'Would study' is the pattern of a wish about the future, not about a past situation. -->
+- [ ] B) I wish I studied harder last year.
+  <!-- feedback: 'I wish I studied' states a fact and expresses no regret. -->
+- [x] C) I wish I had studied harder last year.
+  <!-- feedback: Correct! A wish about a past situation takes the past perfect after 'wish'. -->
+- [ ] D) I wish to studied harder last year.
+  <!-- feedback: 'Wish to studied' mixes an infinitive with a past form. -->
 
 ### Explicacion Pedagogica
-The word 'backpack' is used to describe a bag with shoulder straps that allow it to be carried on one's back. This is an important vocabulary word in English.
+'Wish' plus 'if only' carries the past of the second conditional, so a regret about a past action takes the past perfect.
 ---
-## Question 16 [D8]
+## Question 16 [D4]
 **ID:** HN-ING-11-2026-W40-final-review-001-MASTERY-bundle-v16
-**Bloom:** Analyze
-**EJE:** Lexico
+**Bloom:** Evaluate
+**EJE:** Comprension lectora
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** A revision of the reading skills tested in examinations, including what a text leaves unsaid.
 
 ### Enunciado
-What is the English word for: "In or to a foreign country, especially one across the sea."
+Which question is NOT answered by the passage: 'Water is stored in tanks on the roofs. During the dry months each family receives a fixed share.'
 
 ### Opciones
-- [x] D) overseas
-  <!-- feedback: Correct! 'Overseas' means in or to a foreign country, especially one reached across the sea. -->
-- [ ] A) domestic
-  <!-- feedback: 'domestic' means inside the same country, which is the opposite of overseas. -->
-- [ ] B) local
-  <!-- feedback: 'local' means belonging to the area where you already are, again the opposite meaning. -->
-- [ ] C) national
-  <!-- feedback: 'national' refers to the nation as a whole, but it does not mean being abroad. -->
+- [ ] A) Where the water is stored.
+  <!-- feedback: The first sentence answers the question about where the water is stored. -->
+- [ ] B) How the families receive their share.
+  <!-- feedback: The second sentence explains that the families receive a fixed share. -->
+- [ ] C) What happens during the dry months.
+  <!-- feedback: The third sentence names the dry months as the period concerned. -->
+- [x] D) How much the tanks cost to build.
+  <!-- feedback: Correct! The passage says nothing about the price of the tanks, so this question remains unanswered. -->
 
 ### Explicacion Pedagogica
-The word 'overseas' is used to describe in or to a foreign country, especially one across the sea. This is an important vocabulary word in English.
+A reader can only answer what the text covers. Checking each option against the two sentences reveals the one the passage never mentions.
 ---
-## Question 17 [D9]
+## Question 17 [D4]
 **ID:** HN-ING-11-2026-W40-final-review-001-MASTERY-bundle-v17
-**Bloom:** Evaluate
-**EJE:** Lexico
+**Bloom:** Analyze
+**EJE:** Gramatica
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** A revision of question tags in the present simple.
 
 ### Enunciado
-What is the English word for: "An estimate of income and expenditure for a set period of time."
+Choose the correct question tag: 'The workshop starts at nine, ____?'
 
 ### Opciones
-- [x] A) budget
-  <!-- feedback: Correct! A 'budget' is an estimate of income and expenditure planned for a set period of time. -->
-- [ ] B) expense
-  <!-- feedback: an 'expense' is a single cost; a budget gathers all income and spending over a period. -->
-- [ ] C) cost
-  <!-- feedback: 'cost' is the amount paid for one thing, not an estimate for a whole period. -->
-- [ ] D) price
-  <!-- feedback: 'price' is the figure written on a product, not a plan of income and expenditure. -->
+- [x] A) doesn't it
+  <!-- feedback: Correct! The tag repeats the auxiliary 'does' in the negative with the subject 'it'. -->
+- [ ] B) isn't it
+  <!-- feedback: 'Isn't it' would be the tag of a statement about something else, not of a third person verb with 'does'. -->
+- [ ] C) won't it
+  <!-- feedback: 'Won't it' uses a future auxiliary, which the statement does not contain. -->
+- [ ] D) doesn't he
+  <!-- feedback: 'Doesn't he' uses the wrong pronoun, since the subject of the statement is a thing. -->
 
 ### Explicacion Pedagogica
-The word 'budget' is used to describe an estimate of income and expenditure for a set period of time. This is an important vocabulary word in English.
+The tag is built from the subject and the auxiliary of the statement, with the opposite polarity.
 ---
-## Question 18 [D10]
+## Question 18 [D3]
 **ID:** HN-ING-11-2026-W40-final-review-001-MASTERY-bundle-v18
-**Bloom:** Evaluate
-**EJE:** Lexico
+**Bloom:** Apply
+**EJE:** Vocabulario
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** A revision of vocabulary in context, where the register decides the correct meaning.
 
 ### Enunciado
-What is the English word for: "A practice or arrangement by which a company or government agency provides a guarantee of compensation for specified loss, damage, illness, or death in return for payment of a premium."
+Choose the best synonym for 'significant' in a scientific context.
 
 ### Opciones
-- [x] D) insurance
-  <!-- feedback: Correct! 'Insurance' is the arrangement by which a company or agency guarantees compensation for specified loss, damage, illness or death in return for a premium. -->
-- [ ] A) warranty
-  <!-- feedback: a 'warranty' is the maker's guarantee of a product, normally for a short period and against defects only. -->
-- [ ] B) guarantee
-  <!-- feedback: a 'guarantee' is the promise itself, without the payment of a premium that defines an insurance arrangement. -->
-- [ ] C) policy
-  <!-- feedback: a 'policy' is the written document of the contract, not the practice of insuring itself. -->
+- [ ] A) small
+  <!-- feedback: 'Small' is the opposite of the intended meaning. -->
+- [x] B) important
+  <!-- feedback: Correct! In a scientific context 'significant' means important or large enough to matter, which 'important' expresses. -->
+- [ ] C) doubtful
+  <!-- feedback: 'Doubtful' suggests uncertainty, which 'significant' does not. -->
+- [ ] D) recent
+  <!-- feedback: 'Recent' concerns time, which is a different dimension from importance. -->
 
 ### Explicacion Pedagogica
-The word 'insurance' is used to describe a practice or arrangement by which a company or government agency provides a guarantee of compensation for specified loss, damage, illness, or death in return for payment of a premium. This is an important vocabulary word in English.
+A word can have several senses, and the context selects the one meant. Here the scientific register rules out the everyday readings.
 ---
-## Question 19 [D9]
+## Question 19 [D4]
 **ID:** HN-ING-11-2026-W40-final-review-001-MASTERY-bundle-v19
-**Bloom:** Evaluate
-**EJE:** Lexico
+**Bloom:** Analyze
+**EJE:** Escritura
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** A revision of the summary skill applied to a short argumentative text.
 
 ### Enunciado
-What is the English word for: "Treatment with a vaccine to produce immunity against a disease."
+Which sentence is the most accurate summary of an argument?
 
 ### Opciones
-- [x] A) vaccination
-  <!-- feedback: Correct! 'Vaccination' is the treatment with a vaccine that produces immunity against a disease. -->
-- [ ] B) medication
-  <!-- feedback: 'medication' treats the symptoms of a disease; it does not create immunity against it. -->
-- [ ] C) prescription
-  <!-- feedback: a 'prescription' is the doctor's written order for a medicine, not the vaccine treatment itself. -->
-- [ ] D) infection
-  <!-- feedback: an 'infection' is the invasion of the body by a pathogen, the opposite of being protected against disease. -->
+- [ ] A) The writer talks about school days for a while.
+  <!-- feedback: The first sentence reports the topic without a position. -->
+- [ ] B) School days are long and there are studies.
+  <!-- feedback: The third and fourth sentences are bare facts that do not represent an argument. -->
+- [x] C) The writer claims that longer school days help students, and the argument rests on two studies.
+  <!-- feedback: Correct! The sentence states the position, the attitude of the writer and the support used. -->
+- [ ] D) Studies about schools have been published.
+  <!-- feedback: A summary of an argument must include the claim and its basis, not only the topic. -->
 
 ### Explicacion Pedagogica
-The word 'vaccination' is used to describe treatment with a vaccine to produce immunity against a disease. This is an important vocabulary word in English.
+A summary of an argument has to carry the claim and the reasoning. A topic sentence leaves the reader without the point of the text.
 ---
-## Question 20 [D10]
+## Question 20 [D5]
 **ID:** HN-ING-11-2026-W40-final-review-001-MASTERY-bundle-v20
-**Bloom:** Evaluate
-**EJE:** Lexico
+**Bloom:** Analyze
+**EJE:** Gramatica
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** A revision of the agreement rules of correlative conjunctions.
 
 ### Enunciado
-What is the English word for: "Extreme tiredness and other physical effects felt by a person after a long flight across several time zones."
+Choose the correct sentence: 'Neither the students nor the teacher ____ ready for the test.'
 
 ### Opciones
-- [x] C) jet lag
-  <!-- feedback: Correct! 'Jet lag' is the extreme tiredness and other physical effects felt after a long flight across several time zones. -->
-- [ ] A) fatigue
-  <!-- feedback: 'fatigue' is tiredness from any cause, such as a lack of sleep or effort, not specifically from time zones. -->
-- [ ] B) exhaustion
-  <!-- feedback: 'exhaustion' is a total lack of energy from any cause, more general and more severe than the effect of crossing time zones. -->
-- [ ] D) insomnia
-  <!-- feedback: 'insomnia' is the difficulty of falling or staying asleep, only one symptom and not the whole set of effects after a long flight. -->
+- [ ] A) were
+  <!-- feedback: 'Were' would agree with the farther subject, which is not how the correlative works. -->
+- [ ] B) have been
+  <!-- feedback: 'Have been' is a perfect form and does not match the simple past sense of the sentence. -->
+- [ ] C) are being
+  <!-- feedback: 'Are being' is the present continuous and does not match the context of a finished state. -->
+- [x] D) was
+  <!-- feedback: Correct! With 'neither ... nor', the verb agrees with the subject nearest to it, which is 'the teacher'. -->
 
 ### Explicacion Pedagogica
-The word 'jet lag' is used to describe extreme tiredness and other physical effects felt by a person after a long flight across several time zones. This is an important vocabulary word in English.
+Proximity agreement is the rule that decides the verb in 'either ... or' and 'neither ... nor': the nearest subject controls the form.
+---

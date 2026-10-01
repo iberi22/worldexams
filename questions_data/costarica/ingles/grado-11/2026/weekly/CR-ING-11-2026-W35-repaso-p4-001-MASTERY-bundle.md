@@ -17,466 +17,509 @@ tier: "legacy"
 creador: "Jules-Agent"
 bundle_index: 1
 ---
-# MASTERY Bundle - Ingles: Repaso P4 (W35)
-**20 preguntas | Ingles | Curriculo de Ingles**
+# Bundle MASTERY: Repaso P4 - Grado 11
+
+Este bundle contiene 20 preguntas sobre **repaso-p4** para grado 11,
+alineadas con el programa de estudios del MEP Costa Rica para Bachillerato 2026.
 
 ---
+
 ## Question 1 [D3]
 **ID:** CR-ING-11-2026-W35-repaso-p4-001-MASTERY-bundle-v1
 **Bloom:** Remember
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**EJE:** Linguistic Competence
+**Expected_Success:** 0.85
+**Contexto:** A news report in Cartago described when the main road reopened after the floods.
 
 ### Enunciado
-What is the English word for: "A place where you live or stay on holiday."
+Which sentence uses an It-cleft to put the focus on the time?
 
 ### Opciones
-- [x] D) accommodation
-  <!-- feedback: Correct! 'Accommodation' is the word for a place where you live or stay when you are on holiday. -->
-- [ ] A) transportation
-  <!-- feedback: 'Transportation' is the way you move from one place to another (buses, trains, planes), not the place where you sleep. -->
-- [ ] B) entertainment
-  <!-- feedback: 'Entertainment' is the fun or activities you enjoy, not the building or room where you stay. -->
-- [ ] C) currency
-  <!-- feedback: 'Currency' is the money of a country, which has nothing to do with where you sleep. -->
+- [x] A) It was after the floods that the road to Cartago reopened.
+  <!-- feedback: This works: It was ... that isolates the time phrase, so the sentence stresses when the road reopened. -->
+- [ ] B) The road to Cartago reopened after the floods, as everyone knows.
+  <!-- feedback: This is a plain declarative with an added comment, so no element is singled out for emphasis here. -->
+- [ ] C) After the floods, the road to Cartago reopened last Saturday.
+  <!-- feedback: This is normal word order with the cause in front, so the sentence stresses the floods, not the time. -->
+- [ ] D) The floods made the road to Cartago reopen a little later.
+  <!-- feedback: This presents the floods as the cause in an ordinary causal sentence, not in an emphasis structure. -->
 
 ### Explicacion Pedagogica
-The word 'accommodation' is used to describe a place where you live or stay on holiday. This is an important vocabulary word in English.
+An It-cleft splits a clause into It was plus a focus plus that plus the rest, so one element becomes the topic.
+
 ---
-## Question 2 [D4]
+
+## Question 2 [D3]
 **ID:** CR-ING-11-2026-W35-repaso-p4-001-MASTERY-bundle-v2
 **Bloom:** Remember
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**EJE:** Linguistic Competence
+**Expected_Success:** 0.85
+**Contexto:** Daniela is writing a formal email to the principal of her school in Heredia.
 
 ### Enunciado
-What is the English word for: "A detailed plan or route of a journey."
+Which closing is the correct one for that formal email?
 
 ### Opciones
-- [x] B) itinerary
-  <!-- feedback: Correct! An 'itinerary' is a detailed plan of a journey, listing the places and times along the route. -->
-- [ ] A) baggage
-  <!-- feedback: 'Baggage' is the suitcases and bags you travel with, not the written plan of the trip. -->
-- [ ] C) destination
-  <!-- feedback: 'Destination' is the place you are going to, a single place, while an itinerary is the whole route plan. -->
-- [ ] D) passport
-  <!-- feedback: 'Passport' is the travel document that lets you cross a border, not the schedule of your trip. -->
+- [ ] A) Love, Dani
+  <!-- feedback: Love is a friendly sign-off used between close peers, so it does not fit a formal email to a principal. -->
+- [ ] B) Catch you later, Daniela
+  <!-- feedback: This is an informal goodbye between friends, so it sounds far too casual for official school business. -->
+- [x] C) Yours sincerely, Daniela Vargas
+  <!-- feedback: This works: Yours sincerely is a standard formal valediction and it is followed by the writer's full name. -->
+- [ ] D) Thanks for everything, Dani
+  <!-- feedback: This thanks the reader but it is not a closing formula, so the email would end with no proper sign-off. -->
 
 ### Explicacion Pedagogica
-The word 'itinerary' is used to describe a detailed plan or route of a journey. This is an important vocabulary word in English.
+Formal letters and emails close with a valediction such as Yours sincerely, followed by the writer's full name and surname.
+
 ---
-## Question 3 [D3]
+
+## Question 3 [D4]
 **ID:** CR-ING-11-2026-W35-repaso-p4-001-MASTERY-bundle-v3
 **Bloom:** Understand
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**EJE:** Linguistic Competence
+**Expected_Success:** 0.85
+**Contexto:** A teacher in San Jose explained why the students stayed after the last bell.
 
 ### Enunciado
-What is the English word for: "The place to which someone or something is going or being sent."
+Which version correctly inverts the subject and the auxiliary verb?
 
 ### Opciones
-- [x] B) destination
-  <!-- feedback: Correct! A 'destination' is the place someone or something is going or being sent to. -->
-- [ ] A) departure
-  <!-- feedback: 'Departure' is the action of leaving, the opposite end of the journey from the destination. -->
-- [ ] C) arrival
-  <!-- feedback: 'Arrival' is the act of getting there; the place you arrive at is the destination. -->
-- [ ] D) journey
-  <!-- feedback: 'Journey' is the whole trip from start to finish, not the place you are heading to. -->
+- [ ] A) Only after the last bell the students did leave the building.
+  <!-- feedback: Here the auxiliary did stays after the subject, but a fronted phrase at the start forces inversion. -->
+- [x] B) Only after the last bell did the students leave the building.
+  <!-- feedback: This works: the fronted phrase comes first, so the auxiliary did moves in front of the subject. -->
+- [ ] C) After the last bell only did the students leave the building.
+  <!-- feedback: Only is misplaced inside the time phrase, so the fronted element is not the one that triggers inversion. -->
+- [ ] D) Only after the last bell did leave the students the building.
+  <!-- feedback: The verb is cut off from its subject by the object here, so this is not the inverted clause at all. -->
 
 ### Explicacion Pedagogica
-The word 'destination' is used to describe the place to which someone or something is going or being sent. This is an important vocabulary word in English.
+When a phrase such as only after the last bell opens the sentence, the auxiliary comes before the subject.
+
 ---
+
 ## Question 4 [D4]
 **ID:** CR-ING-11-2026-W35-repaso-p4-001-MASTERY-bundle-v4
 **Bloom:** Understand
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**EJE:** Linguistic Competence
+**Expected_Success:** 0.85
+**Contexto:** Daniela trains at the track in Cartago and wants to show how practice changes her times.
 
 ### Enunciado
-What is the English word for: "Suitcases or other bags in which to pack personal belongings for traveling."
+Which sentence shows results improving as practice increases?
 
 ### Opciones
-- [x] D) luggage
-  <!-- feedback: Correct! 'Luggage' means suitcases and bags in which you pack your belongings for a trip. -->
-- [ ] A) ticket
-  <!-- feedback: 'Ticket' is the paper that gives you the right to travel on a bus, train or plane, not the bag itself. -->
-- [ ] B) flight
-  <!-- feedback: 'Flight' is the journey by plane, or the plane itself; the bags are called luggage. -->
-- [ ] C) reservation
-  <!-- feedback: 'Reservation' is the booking you make for a seat or a room, not the bags you pack. -->
+- [ ] A) She trains more, so she runs faster every single morning.
+  <!-- feedback: So links two separate facts, so it gives a result without showing how the two amounts depend on each other. -->
+- [ ] B) The more she trains, faster she runs on the track.
+  <!-- feedback: The first half is right, but the correlative needs a second the before the comparative in the other clause. -->
+- [ ] C) She trains the most, so she runs the fastest every morning.
+  <!-- feedback: The superlative compares her with everyone, while the context describes how her own effort changes her speed. -->
+- [x] D) The more she trains, the faster she runs on the track.
+  <!-- feedback: This works: the pair the more and the faster links two clauses whose quantities grow together. -->
 
 ### Explicacion Pedagogica
-The word 'luggage' is used to describe suitcases or other bags in which to pack personal belongings for traveling. This is an important vocabulary word in English.
+The correlative pair the more and the is used when one quantity rises and another rises or falls with it.
+
 ---
+
 ## Question 5 [D5]
 **ID:** CR-ING-11-2026-W35-repaso-p4-001-MASTERY-bundle-v5
 **Bloom:** Understand
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**EJE:** Linguistic Competence
+**Expected_Success:** 0.85
+**Contexto:** A short radio piece said that Alajuela recycled thirty percent more glass this year.
 
 ### Enunciado
-What is the English word for: "A traveler on a public or private conveyance other than the driver, pilot, or crew."
+Which sentence best gives the main idea of that radio piece?
 
 ### Opciones
-- [x] B) passenger
-  <!-- feedback: Correct! A 'passenger' is a person who travels on a vehicle without being the driver, pilot or crew. -->
-- [ ] A) pedestrian
-  <!-- feedback: 'Pedestrian' is someone who travels on foot, so they are not on a conveyance at all. -->
-- [ ] C) commuter
-  <!-- feedback: 'Commuter' is someone who travels regularly between home and work; the definition here is any traveller on board, not only that daily case. -->
-- [ ] D) tourist
-  <!-- feedback: 'Tourist' is someone visiting for pleasure or sightseeing, but the definition covers every traveller on board, including commuters and residents. -->
+- [x] A) Glass recycling in Alajuela went up this year.
+  <!-- feedback: This works: it keeps the topic, the place and the general trend, which is exactly what a main idea needs. -->
+- [ ] B) A radio station in Alajuela got new equipment this year.
+  <!-- feedback: The station and its equipment are only background in the report, so this moves away from the main topic. -->
+- [ ] C) Alajuela residents must separate glass before Friday.
+  <!-- feedback: No deadline is heard on the air, so this adds a rule and turns a reported fact into invented advice. -->
+- [ ] D) Alajuela will open a new recycling plant next year.
+  <!-- feedback: A future plant is never announced, so this invents a development the report does not support at all. -->
 
 ### Explicacion Pedagogica
-The word 'passenger' is used to describe a traveler on a public or private conveyance other than the driver, pilot, or crew. This is an important vocabulary word in English.
+A main idea keeps the central topic and general trend, while names, figures and side remarks belong to the details.
+
 ---
-## Question 6 [D6]
+
+## Question 6 [D5]
 **ID:** CR-ING-11-2026-W35-repaso-p4-001-MASTERY-bundle-v6
 **Bloom:** Understand
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**EJE:** Linguistic Competence
+**Expected_Success:** 0.85
+**Contexto:** In a podcast from Alajuela the guest named the school that joined a recycling drive.
 
 ### Enunciado
-What is the English word for: "The place at a port, airport, or frontier where officials check incoming goods, travelers, or luggage."
+Which detail did the guest give about that recycling drive?
 
 ### Opciones
-- [x] A) customs
-  <!-- feedback: Correct! 'Customs' is the office at a port, airport or border where officials check goods, travellers and luggage. -->
-- [ ] B) security
-  <!-- feedback: 'Security' is the staff who control safety and boarding inside the airport; it does not check the goods you bring in. -->
-- [ ] C) terminal
-  <!-- feedback: 'Terminal' is the whole building where passengers wait, eat and catch their flights. -->
-- [ ] D) gate
-  <!-- feedback: 'Gate' is the particular door you board through, not the place where officials inspect your luggage. -->
+- [ ] A) The drive collected paper from every household in the country.
+  <!-- feedback: This names every household in the country, but the guest only mentioned one school taking part. -->
+- [x] B) The Liceo de Alajuela joined the recycling drive.
+  <!-- feedback: This works: it repeats the specific detail given on air, the name of the school that joined the drive. -->
+- [ ] C) The drive started after the mayor visited a school.
+  <!-- feedback: A visit by the mayor never appears in the podcast, so this adds a cause that was not stated. -->
+- [ ] D) The drive ended last March with no results at all.
+  <!-- feedback: The guest described a drive that was still going on, so this adds an ending date and a negative result. -->
 
 ### Explicacion Pedagogica
-The word 'customs' is used to describe the place at a port, airport, or frontier where officials check incoming goods, travelers, or luggage. This is an important vocabulary word in English.
+Listening for details means catching the exact names, figures and times that support the general point of a report.
+
 ---
-## Question 7 [D5]
+
+## Question 7 [D6]
 **ID:** CR-ING-11-2026-W35-repaso-p4-001-MASTERY-bundle-v7
 **Bloom:** Apply
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**EJE:** Linguistic Competence
+**Expected_Success:** 0.85
+**Contexto:** Andres must write an opinion essay about public transport for his school in Alajuela.
 
 ### Enunciado
-What is the English word for: "A document provided by an airline during check-in, giving a passenger permission to board the airplane."
+Which sentence works best as the thesis of an opinion essay?
 
 ### Opciones
-- [x] B) boarding pass
-  <!-- feedback: Correct! The 'boarding pass' is the document the airline gives you at check-in that authorises you to board. -->
-- [ ] A) visa
-  <!-- feedback: 'Visa' is the official permission to enter and stay in a country, requested before the trip, not the document that lets you board a plane. -->
-- [ ] C) receipt
-  <!-- feedback: 'Receipt' is the proof of payment for a purchase, not the travel document for boarding. -->
-- [ ] D) brochure
-  <!-- feedback: 'Brochure' is a small booklet of tourist information, not the document that lets you board. -->
+- [ ] A) In this essay I am going to talk about several things.
+  <!-- feedback: This only announces the topic, so it makes no claim and gives no reason a reader could argue with. -->
+- [ ] B) Public transport is nice and everybody knows that.
+  <!-- feedback: The vague adjective and everybody knows weaken the claim, so it is not a thesis a reader can test. -->
+- [ ] C) I walked to school yesterday and it took twenty minutes.
+  <!-- feedback: This is a personal anecdote about one morning, so it supports no general position on transport. -->
+- [x] D) In my opinion, buses should run more often, because many students arrive late.
+  <!-- feedback: This works: it states a clear opinion and because introduces the reason the essay will develop. -->
 
 ### Explicacion Pedagogica
-The word 'boarding pass' is used to describe a document provided by an airline during check-in, giving a passenger permission to board the airplane. This is an important vocabulary word in English.
+A thesis is one clear argument plus the reason for it; an introduction should not only announce a topic or tell a story.
+
 ---
+
 ## Question 8 [D6]
 **ID:** CR-ING-11-2026-W35-repaso-p4-001-MASTERY-bundle-v8
 **Bloom:** Apply
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**EJE:** Linguistic Competence
+**Expected_Success:** 0.85
+**Contexto:** A coach in Heredia was describing what her athletes achieved last spring.
 
 ### Enunciado
-What is the English word for: "The activity of visiting places of interest in a particular location."
+Which sentence uses inversion correctly after a negative adverb?
 
 ### Opciones
-- [x] D) sightseeing
-  <!-- feedback: Correct! 'Sightseeing' is the activity of visiting the places of interest in a location. -->
-- [ ] A) shopping
-  <!-- feedback: 'Shopping' is buying things in stores, which is not the same as visiting the sights of a place. -->
-- [ ] B) hiking
-  <!-- feedback: 'Hiking' is walking in the countryside on trails, not the general activity of visiting a location's attractions. -->
-- [ ] C) camping
-  <!-- feedback: 'Camping' is staying outdoors in a tent, not visiting the sights of a location. -->
+- [x] A) Rarely have our athletes trained as hard as they did last spring.
+  <!-- feedback: This works: rarely is a negative adverb, so the auxiliary have moves in front of the subject our athletes. -->
+- [ ] B) Rarely our athletes have trained as hard as they did last spring.
+  <!-- feedback: The subject sits between rarely and the auxiliary, so the inversion that rarely requires never happens. -->
+- [ ] C) Rarely have trained our athletes as hard as they did last spring.
+  <!-- feedback: The verb appears before its subject here, so the clause is not the subject-auxiliary order that rarely needs. -->
+- [ ] D) Rarely did trained our athletes as hard as they did last spring.
+  <!-- feedback: Did with the past participle leaves no place for the subject, so the auxiliary form is wrong as well. -->
 
 ### Explicacion Pedagogica
-The word 'sightseeing' is used to describe the activity of visiting places of interest in a particular location. This is an important vocabulary word in English.
+Negative adverbs at the start of a sentence, such as rarely or not only, invert the subject and the auxiliary.
+
 ---
-## Question 9 [D5]
+
+## Question 9 [D7]
 **ID:** CR-ING-11-2026-W35-repaso-p4-001-MASTERY-bundle-v9
 **Bloom:** Apply
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**EJE:** Linguistic Competence
+**Expected_Success:** 0.85
+**Contexto:** In an essay about coffee in Turrialba, Sofia is writing the second body paragraph.
 
 ### Enunciado
-What is the English word for: "A thing that is kept as a reminder of a person, place, or event."
+Which sentence makes the best topic sentence for that paragraph?
 
 ### Opciones
-- [x] B) souvenir
-  <!-- feedback: Correct! A 'souvenir' is the object you keep afterwards as a reminder of a person, place or event you visited. -->
-- [ ] A) gift
-  <!-- feedback: 'Gift' is something you give to another person; a souvenir is kept by the person who took the trip. -->
-- [ ] C) award
-  <!-- feedback: 'Award' is a prize given for an achievement, not an object bought or kept as a memory. -->
-- [ ] D) prize
-  <!-- feedback: 'Prize' is the reward you win in a competition, so it comes from winning rather than from a journey. -->
+- [ ] A) To conclude, coffee farming in Turrialba has a bright future.
+  <!-- feedback: To conclude only fits the last paragraph, so this sentence cannot introduce the ideas of a body paragraph. -->
+- [ ] B) For example, one farmer near the volcano earns half his income from sales.
+  <!-- feedback: For example opens a supporting detail, so it belongs after the main point of the paragraph has been stated. -->
+- [x] C) A second serious problem for small growers is the low price they receive.
+  <!-- feedback: This works: it names the second main idea of the essay and announces the reasons that will follow. -->
+- [ ] D) On the other hand, my cousin prefers tea to coffee in the morning.
+  <!-- feedback: This switches to a personal preference the essay never argues about, so it breaks the paragraph's topic. -->
 
 ### Explicacion Pedagogica
-The word 'souvenir' is used to describe a thing that is kept as a reminder of a person, place, or event. This is an important vocabulary word in English.
+Each body paragraph states one main idea first, then supports it with examples, data or reasons.
+
 ---
-## Question 10 [D6]
+
+## Question 10 [D7]
 **ID:** CR-ING-11-2026-W35-repaso-p4-001-MASTERY-bundle-v10
 **Bloom:** Apply
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**EJE:** Linguistic Competence
+**Expected_Success:** 0.85
+**Contexto:** Kevin needs to ask the coordinator in Cartago for a change of class hour.
 
 ### Enunciado
-What is the English word for: "A period of time by which something is late or postponed."
+Which sentence makes that request politely in a formal email?
 
 ### Opciones
-- [x] C) delay
-  <!-- feedback: Correct! A 'delay' is the extra time by which something ends up late or gets postponed. -->
-- [ ] A) cancellation
-  <!-- feedback: 'Cancellation' means the event does not happen at all, not that it happens later than planned. -->
-- [ ] B) departure
-  <!-- feedback: 'Departure' is the scheduled time or the act of leaving; the definition is about the extra time lost. -->
-- [ ] D) arrival
-  <!-- feedback: 'Arrival' is getting there, the opposite moment. Here we want the time lost, not the time you reach the destination. -->
+- [ ] A) You must change my class hour to the afternoon, right now.
+  <!-- feedback: You must plus the bare command is an order, so it sounds demanding in a request to a coordinator. -->
+- [x] B) I would like to request a change of my class hour, if possible.
+  <!-- feedback: This works: would like to request is a polite formula, and if possible softens the demand even further. -->
+- [ ] C) Change my class hour to the afternoon, no problem?
+  <!-- feedback: An imperative plus a tag question demands action here, so the tone is rude rather than courteous. -->
+- [ ] D) I need you to change my hour, so do it soon, please.
+  <!-- feedback: So do it soon gives a direct command, so adding please cannot cancel that forceful order. -->
 
 ### Explicacion Pedagogica
-The word 'delay' is used to describe a period of time by which something is late or postponed. This is an important vocabulary word in English.
+Formal requests use hedged forms such as would like to request or could you possibly, never bare imperatives.
+
 ---
-## Question 11 [D7]
+
+## Question 11 [D8]
 **ID:** CR-ING-11-2026-W35-repaso-p4-001-MASTERY-bundle-v11
 **Bloom:** Apply
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**EJE:** Linguistic Competence
+**Expected_Success:** 0.85
+**Contexto:** In Escazu the volunteer brigade fixed the broken water pipes last week.
 
 ### Enunciado
-What is the English word for: "The act of reporting one's presence and registering, typically at an airport or hotel."
+Rewrite it so that the focus falls on the volunteer brigade?
 
 ### Opciones
-- [x] B) check-in
-  <!-- feedback: Correct! 'Check-in' is the act of reporting your arrival and registering at the airport or hotel counter. -->
-- [ ] A) check-out
-  <!-- feedback: 'Check-out' is the opposite moment, when you leave the hotel or hand back the room. -->
-- [ ] C) booking
-  <!-- feedback: 'Booking' is the reservation you made earlier; the act of registering your presence on arrival is check-in. -->
-- [ ] D) reservation
-  <!-- feedback: 'Reservation' is the booking document, not the act of reporting your presence at the desk. -->
+- [ ] A) It was last week when the volunteer brigade fixed the broken pipes.
+  <!-- feedback: This is a time cleft, so it emphasises last week and leaves the doer in the background clause. -->
+- [ ] B) What the volunteer brigade fixed were the broken pipes in Escazu.
+  <!-- feedback: A what cleft here puts the pipes in the focus slot, so the brigade is not the stressed element. -->
+- [x] C) It was the volunteer brigade that fixed the broken pipes in Escazu.
+  <!-- feedback: This works: It was plus the agent plus that lifts the doer into the focus, as the question asks. -->
+- [ ] D) The broken pipes were fixed in Escazu by the volunteer brigade.
+  <!-- feedback: This is the passive voice, which moves the doer away from the focus instead of stressing it. -->
 
 ### Explicacion Pedagogica
-The word 'check-in' is used to describe the act of reporting one's presence and registering, typically at an airport or hotel. This is an important vocabulary word in English.
+Cleft sentences divide one clause into two so a chosen element becomes the focus, as in It was the brigade that fixed them.
+
 ---
+
 ## Question 12 [D8]
 **ID:** CR-ING-11-2026-W35-repaso-p4-001-MASTERY-bundle-v12
-**Bloom:** Apply
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Bloom:** Analyze
+**EJE:** Linguistic Competence
+**Expected_Success:** 0.85
+**Contexto:** In an interview a Heredia guide said tours are booked out three weeks ahead every July.
 
 ### Enunciado
-What is the English word for: "A period of rest or waiting before a further stage in a journey."
+What can you reasonably infer from what the guide said?
 
 ### Opciones
-- [x] B) layover
-  <!-- feedback: Correct! A 'layover' is a period of rest or waiting between two stages of a journey. -->
-- [ ] A) stopover
-  <!-- feedback: 'Stopover' usually means a deliberate visit in the middle of a trip, not just the wait between flights. -->
-- [ ] C) transfer
-  <!-- feedback: 'Transfer' is the change of vehicle itself, the movement; the definition is about the time of waiting. -->
-- [ ] D) transit
-  <!-- feedback: 'Transit' is a system of moving people and goods through a city, not a break between two flights. -->
+- [x] A) July is the busiest month for tours to Heredia.
+  <!-- feedback: This works: if July tours fill three weeks ahead, demand in that month must be high, so it is the peak. -->
+- [ ] B) Heredia has closed its tourism office for good.
+  <!-- feedback: Nothing about a permanent closure appears in the interview, so this goes far beyond what was said. -->
+- [ ] C) Fewer than ten tourists visited Heredia last July.
+  <!-- feedback: Advance bookings signal many visitors rather than fewer than ten, so this contradicts the evidence. -->
+- [ ] D) Tours to Heredia in July are free of charge.
+  <!-- feedback: The guide never mentions prices at all, so no conclusion about free entry can be drawn from bookings. -->
 
 ### Explicacion Pedagogica
-The word 'layover' is used to describe a period of rest or waiting before a further stage in a journey. This is an important vocabulary word in English.
+A safe inference stays inside the evidence: from booking three weeks ahead we may conclude high demand, never prices.
+
 ---
-## Question 13 [D7]
+
+## Question 13 [D8]
 **ID:** CR-ING-11-2026-W35-repaso-p4-001-MASTERY-bundle-v13
 **Bloom:** Analyze
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**EJE:** Linguistic Competence
+**Expected_Success:** 0.85
+**Contexto:** A travel brochure compares the three longest trails around Monteverde for visitors.
 
 ### Enunciado
-What is the English word for: "A system of money in general use in a particular country."
+Which sentence about those trails is completely correct?
 
 ### Opciones
-- [x] B) currency
-  <!-- feedback: Correct! 'Currency' is the money system in general use in a particular country. -->
-- [ ] A) coin
-  <!-- feedback: 'Coin' is a single metal piece of money, one item within the currency, not the whole system. -->
-- [ ] C) banknote
-  <!-- feedback: 'Banknote' is a paper bill, one item of the currency rather than the system of money itself. -->
-- [ ] D) cash
-  <!-- feedback: 'Cash' means money in the physical form you hold, not the money system of a country. -->
+- [ ] A) This is the more long trail of the three, so it also takes the most time.
+  <!-- feedback: Double comparatives collide here, since more long and the most describe the same item in one sentence. -->
+- [ ] B) The Chompipe trail is the most steep of those three routes.
+  <!-- feedback: A superlative takes the most plus an adjective, not most plus an adverb, so this form is wrong. -->
+- [ ] C) The Chompipe trail takes more hours than any other trail there.
+  <!-- feedback: Any other already means most of all, so it wrongly replaces the comparative form more hours. -->
+- [x] D) The Chompipe trail is by far the steepest of the three trails.
+  <!-- feedback: This works: by far strengthens the superlative and steepest already carries the final -est ending. -->
 
 ### Explicacion Pedagogica
-The word 'currency' is used to describe a system of money in general use in a particular country. This is an important vocabulary word in English.
+Superlatives take the most or the least plus a short adjective, or add -est, and modifiers such as by far raise the degree.
+
 ---
-## Question 14 [D8]
+
+## Question 14 [D9]
 **ID:** CR-ING-11-2026-W35-repaso-p4-001-MASTERY-bundle-v14
 **Bloom:** Analyze
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**EJE:** Linguistic Competence
+**Expected_Success:** 0.85
+**Contexto:** A draft email to the principal of a Limon school reads: Hey, send me the report, thanks.
 
 ### Enunciado
-What is the English word for: "A book of information about a place designed for the use of visitors or tourists."
+Which rewrite keeps the request but fixes the register problem?
 
 ### Opciones
-- [x] C) guidebook
-  <!-- feedback: Correct! A 'guidebook' is a book of information about a place written for visitors and tourists. -->
-- [ ] A) map
-  <!-- feedback: 'Map' is a single sheet or screen showing the layout of a place, not a book of information. -->
-- [ ] B) dictionary
-  <!-- feedback: 'Dictionary' is a book of word definitions of a language, not information about a place for visitors. -->
-- [ ] D) encyclopedia
-  <!-- feedback: 'Encyclopedia' is a general reference work with entries on every topic, not a guide written for tourists about one place. -->
+- [ ] A) Hey, send me that report now, thanks a lot, bye.
+  <!-- feedback: The informal tone stays and the command grows stronger, so the message still fails school protocol. -->
+- [x] B) Dear Principal, could you please send me the report at your convenience?
+  <!-- feedback: This works: the formal greeting plus could you please turns the demand into a courteous hedged request. -->
+- [ ] C) Hey, just send the report, ok? I need it.
+  <!-- feedback: Just and ok keep the message casual and demanding, so the register is informal in a formal email. -->
+- [ ] D) Hello teacher, send me the report quick, thanks.
+  <!-- feedback: Quick is informal and demands a fast order, so it clashes with the polite tone a school email requires. -->
 
 ### Explicacion Pedagogica
-The word 'guidebook' is used to describe a book of information about a place designed for the use of visitors or tourists. This is an important vocabulary word in English.
+Formal email keeps a respectful greeting and hedged verbs such as could or would; slang and bare imperatives do not.
+
 ---
-## Question 15 [D7]
+
+## Question 15 [D9]
 **ID:** CR-ING-11-2026-W35-repaso-p4-001-MASTERY-bundle-v15
 **Bloom:** Analyze
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**EJE:** Linguistic Competence
+**Expected_Success:** 0.85
+**Contexto:** In Cartago, Mariela must present the opposite view before defending her position on uniforms.
 
 ### Enunciado
-What is the English word for: "A bag with shoulder straps that allow it to be carried on one's back."
+Which sentence presents a counterargument fairly in an opinion essay?
 
 ### Opciones
-- [x] C) backpack
-  <!-- feedback: Correct! A 'backpack' is the bag with shoulder straps that you carry on your back. -->
-- [ ] A) suitcase
-  <!-- feedback: 'Suitcase' is a case with a handle that you pull along, not a bag worn on the back. -->
-- [ ] B) briefcase
-  <!-- feedback: 'Briefcase' is a case for documents and a laptop, carried in the hand for work. -->
-- [ ] D) handbag
-  <!-- feedback: 'Handbag' is a bag for personal items carried on the arm or in the hand, with no back straps. -->
+- [ ] A) School uniforms are the worst idea anyone has ever had.
+  <!-- feedback: This is an insult with no argument, so it dismisses the other side instead of presenting it for the reader. -->
+- [ ] B) Critics say uniforms hide identity, although most students still prefer them.
+  <!-- feedback: The connector although sets up a contrast, so the writer's own preference replaces the claim being explained. -->
+- [x] C) Some people argue that uniforms limit self-expression, yet they also save time.
+  <!-- feedback: This works: some people argue states the opposing view and yet adds the writer's reply in one sentence. -->
+- [ ] D) Those who dislike uniforms simply have no taste at all.
+  <!-- feedback: This attacks the people instead of their idea, so it is personal and never answers the argument. -->
 
 ### Explicacion Pedagogica
-The word 'backpack' is used to describe a bag with shoulder straps that allow it to be carried on one's back. This is an important vocabulary word in English.
+A counterargument is stated fairly with hedges like some people argue, then answered with a contrast such as yet.
+
 ---
-## Question 16 [D8]
+
+## Question 16 [D9]
 **ID:** CR-ING-11-2026-W35-repaso-p4-001-MASTERY-bundle-v16
 **Bloom:** Analyze
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**EJE:** Linguistic Competence
+**Expected_Success:** 0.85
+**Contexto:** A Puntarenas paragraph mixes four sentences: A the dry season lasts, B farmers plant, C rains came late, D harvests shrank.
 
 ### Enunciado
-What is the English word for: "In or to a foreign country, especially one across the sea."
+Which order makes that paragraph clearest for the reader?
 
 ### Opciones
-- [x] B) overseas
-  <!-- feedback: Correct! 'Overseas' means in or to a foreign country, especially one across the sea. -->
-- [ ] A) domestic
-  <!-- feedback: 'Domestic' means inside your own country, the opposite of overseas. -->
-- [ ] C) local
-  <!-- feedback: 'Local' means in the area where you are, even more restricted than domestic; it never crosses a border. -->
-- [ ] D) national
-  <!-- feedback: 'National' refers to a whole country without saying it is foreign, so it does not imply going abroad. -->
+- [ ] A) B, A, C, D
+  <!-- feedback: Starting with the planting detail leaves the reader without the seasonal frame the rest of the text explains. -->
+- [ ] B) C, D, A, B
+  <!-- feedback: The result comes before the background that explains it, so the reader meets the consequence before its reason. -->
+- [ ] C) D, C, B, A
+  <!-- feedback: This puts the effect before its cause and ends on the driest fact, so the logic runs backwards. -->
+- [x] D) A, C, D, B
+  <!-- feedback: This works: general season, then the problem, then its result, then the human response, a clean chain. -->
 
 ### Explicacion Pedagogica
-The word 'overseas' is used to describe in or to a foreign country, especially one across the sea. This is an important vocabulary word in English.
+A well-linked paragraph moves from general background to the specific problem, then to its result and the consequences.
+
 ---
-## Question 17 [D9]
+
+## Question 17 [D10]
 **ID:** CR-ING-11-2026-W35-repaso-p4-001-MASTERY-bundle-v17
 **Bloom:** Evaluate
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**EJE:** Linguistic Competence
+**Expected_Success:** 0.85
+**Contexto:** The volleyball team in Alajuela won the final last Saturday at the school gym.
 
 ### Enunciado
-What is the English word for: "An estimate of income and expenditure for a set period of time."
+Which rewrite really stresses that the team won the final?
 
 ### Opciones
-- [x] A) budget
-  <!-- feedback: Correct! A 'budget' is the estimate of income and expenditure planned for a set period. -->
-- [ ] B) expense
-  <!-- feedback: 'Expense' is a single cost already paid; the definition is the estimate for the whole period. -->
-- [ ] C) cost
-  <!-- feedback: 'Cost' is the price of one thing, whereas a budget covers all income and all spending. -->
-- [ ] D) price
-  <!-- feedback: 'Price' is the amount a single item costs, not a plan of income and expenditure over time. -->
+- [ ] A) It was last Saturday that the team in Alajuela won the final.
+  <!-- feedback: This is a time cleft, so it stresses last Saturday and leaves the winning itself in the background. -->
+- [x] B) What the team in Alajuela did was win the final last Saturday.
+  <!-- feedback: This works: a what cleft with did was puts the action win in the focus slot, so the victory is stressed. -->
+- [ ] C) The team in Alajuela won the final last Saturday at the gym.
+  <!-- feedback: This is plain word order with the time first, so it stresses the date rather than the victory. -->
+- [ ] D) It was the final that the team in Alajuela won last Saturday.
+  <!-- feedback: This is an object cleft, so it stresses the final itself instead of the act of winning it. -->
 
 ### Explicacion Pedagogica
-The word 'budget' is used to describe an estimate of income and expenditure for a set period of time. This is an important vocabulary word in English.
+To stress the action itself use a what cleft, as in What they did was win; time and object clefts move the focus elsewhere.
+
 ---
+
 ## Question 18 [D10]
 **ID:** CR-ING-11-2026-W35-repaso-p4-001-MASTERY-bundle-v18
 **Bloom:** Evaluate
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**EJE:** Linguistic Competence
+**Expected_Success:** 0.85
+**Contexto:** At a debate in Cartago, Gabriel must disagree with a classmate who praised group work.
 
 ### Enunciado
-What is the English word for: "A practice or arrangement by which a company or government agency provides a guarantee of compensation for specified loss, damage, illness, or death in return for payment of a premium."
+Which reply disagrees politely and still gives a clear reason?
 
 ### Opciones
-- [x] D) insurance
-  <!-- feedback: Correct! 'Insurance' is the arrangement by which an insurer promises compensation for loss, damage, illness or death in exchange for a premium. -->
-- [ ] A) warranty
-  <!-- feedback: 'Warranty' covers a product against defects for a limited period and is free of charge, not a premium-based contract. -->
-- [ ] B) guarantee
-  <!-- feedback: 'Guarantee' is the promise itself; 'insurance' is the whole contract arranged with an insurer for a premium. -->
-- [ ] C) policy
-  <!-- feedback: 'Policy' is the document that proves the insurance contract; the arrangement itself is the insurance. -->
+- [ ] A) No, group work is useless and you clearly did not understand it.
+  <!-- feedback: No plus useless attacks the other speaker, so the disagreement is rude and it offers no usable reason. -->
+- [ ] B) You are completely wrong about group work, sorry, but that is all.
+  <!-- feedback: The insult cancels the apology and the reason given is empty, so the reply fails on tone and on content. -->
+- [x] C) I see your point, but in our group the work was divided badly, so I prefer working alone.
+  <!-- feedback: This works: the concession I see your point softens the refusal, and but plus so carries the reason. -->
+- [ ] D) Group work is better, obviously, so stop complaining about it.
+  <!-- feedback: This agrees with the classmate instead of disagreeing, so it does not do what the speaker was asked to do. -->
 
 ### Explicacion Pedagogica
-The word 'insurance' is used to describe a practice or arrangement by which a company or government agency provides a guarantee of compensation for specified loss, damage, illness, or death in return for payment of a premium. This is an important vocabulary word in English.
+Polite disagreement needs a concession, a contrast such as but and a reason; attacking the person breaks the discussion.
+
 ---
-## Question 19 [D9]
+
+## Question 19 [D10]
 **ID:** CR-ING-11-2026-W35-repaso-p4-001-MASTERY-bundle-v19
 **Bloom:** Evaluate
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**EJE:** Linguistic Competence
+**Expected_Success:** 0.85
+**Contexto:** A report said forty percent of the Heredia buses were late in May, against twenty-five in April.
 
 ### Enunciado
-What is the English word for: "Treatment with a vaccine to produce immunity against a disease."
+Which conclusion does that comparison support, and no more?
 
 ### Opciones
-- [x] B) vaccination
-  <!-- feedback: Correct! A 'vaccination' is the application of a vaccine that makes the body produce immunity against a disease. -->
-- [ ] A) medication
-  <!-- feedback: 'Medication' is a medicine you take to treat an illness, not the vaccine that prevents one. -->
-- [ ] C) prescription
-  <!-- feedback: 'Prescription' is the written order a doctor gives for a medicine, not the vaccine itself. -->
-- [ ] D) infection
-  <!-- feedback: 'Infection' is the state of having the disease; vaccination is what protects you before you get it. -->
+- [x] A) Bus delays in Heredia were worse in May than they were in April.
+  <!-- feedback: This works: forty percent is above twenty-five, so the report supports exactly this claim about those two months. -->
+- [ ] B) Most buses in Heredia run late in every month of the year.
+  <!-- feedback: Two months of figures cannot prove a pattern for the whole year, so this generalises far beyond the data. -->
+- [ ] C) The buses in Heredia need to be replaced immediately.
+  <!-- feedback: A rise in delays never proves that vehicles must be replaced, so this recommendation goes beyond the evidence. -->
+- [ ] D) April was the worst month of the year for transport.
+  <!-- feedback: The report compares April and May only, so it cannot rank April against every other month of the year. -->
 
 ### Explicacion Pedagogica
-The word 'vaccination' is used to describe treatment with a vaccine to produce immunity against a disease. This is an important vocabulary word in English.
+A justified conclusion stays inside the data: comparing two months supports a claim about those months only, not the year.
+
 ---
+
 ## Question 20 [D10]
 **ID:** CR-ING-11-2026-W35-repaso-p4-001-MASTERY-bundle-v20
 **Bloom:** Evaluate
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**EJE:** Linguistic Competence
+**Expected_Success:** 0.85
+**Contexto:** A student wrote this draft email to the director of a college in Puntarenas.
 
 ### Enunciado
-What is the English word for: "Extreme tiredness and other physical effects felt by a person after a long flight across several time zones."
+Which version is fully correct in register, structure and verb forms?
 
 ### Opciones
-- [x] B) jet lag
-  <!-- feedback: Correct! 'Jet lag' is the tiredness and disturbed body clock you feel after a flight across several time zones. -->
-- [ ] A) fatigue
-  <!-- feedback: 'Fatigue' is tiredness after effort or a long day, not specifically caused by crossing time zones. -->
-- [ ] C) exhaustion
-  <!-- feedback: 'Exhaustion' is extreme tiredness from overwork or lack of sleep, which is not the same as the time zone effect. -->
-- [ ] D) insomnia
-  <!-- feedback: 'Insomnia' is the inability to sleep, whereas jet lag comes with tiredness during the day and a shifted body clock. -->
+- [ ] A) Hey you, the new timetable is not more better than the last one, ok?
+  <!-- feedback: The informal greeting and not more better both fail: a double comparative cannot stand and the tone is wrong too. -->
+- [ ] B) Dear Director, the new timetable is better and it fits better, students will like it.
+  <!-- feedback: Two complete clauses are joined with only a comma here, so the sentence fuses and the email loses its finish. -->
+- [ ] C) Dear Director, which starts at seven, the new timetable suits working students best.
+  <!-- feedback: The relative clause which starts at seven has no subject to attach to, so it dangles before the main clause. -->
+- [x] D) Dear Director, I am writing to explain why the new timetable suits students better than the old one.
+  <!-- feedback: This works: a formal greeting, a clear purpose and one comparative clause make the email correct and polite. -->
 
 ### Explicacion Pedagogica
-The word 'jet lag' is used to describe extreme tiredness and other physical effects felt by a person after a long flight across several time zones. This is an important vocabulary word in English.
+A formal email needs a respectful greeting, one clear purpose and one idea per sentence; comma splices and dangling relatives break it.
+
+---

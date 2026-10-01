@@ -17,466 +17,509 @@ tier: "legacy"
 creador: "Jules-Agent"
 bundle_index: 1
 ---
-# MASTERY Bundle - Ingles: Subjunctive Mood (W24)
-**20 preguntas | Ingles | Curriculo de Ingles**
+# Bundle MASTERY: Subjunctive Mood - Grado 11
+
+Este bundle contiene 20 preguntas sobre **subjunctive-mood** para grado 11,
+alineadas con el programa de estudios del MEP Costa Rica para Bachillerato 2026.
 
 ---
+
 ## Question 1 [D3]
 **ID:** CR-ING-11-2026-W24-subjunctive-mood-001-MASTERY-bundle-v1
 **Bloom:** Remember
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**EJE:** Linguistic Competence
+**Expected_Success:** 0.85
+**Contexto:** Students in Heredia are planning the school concert for June.
 
 ### Enunciado
-What is the English word for: "A place where you live or stay on holiday."
+Which sentence uses the subjunctive correctly after the verb 'suggest'?
 
 ### Opciones
-- [x] C) accommodation
-  <!-- feedback: Correct! 'accommodation' is the place where you live or stay, especially on holiday, and it is the word the definition asks for. -->
-- [ ] A) transportation
-  <!-- feedback: 'transportation' is the system that moves people or goods (buses, trains, taxis), not a place where you live or stay. -->
-- [ ] B) entertainment
-  <!-- feedback: 'entertainment' means the shows, music and activities that amuse you, so it names an experience rather than a place. -->
-- [ ] D) currency
-  <!-- feedback: 'currency' is the money system of a country, such as the dollar or the colon, so it has nothing to do with a place to stay. -->
+- [x] A) Marta suggested that we start the rehearsal early.
+  <!-- feedback: Correct! After 'suggested that' the clause is subjunctive, so the bare base form 'start' is required, not 'will start'. -->
+- [ ] B) Marta suggested that we will start the rehearsal early.
+  <!-- feedback: The modal 'will' keeps the clause indicative. A that-clause of suggestion needs the bare base form of the verb. -->
+- [ ] C) Marta suggested that we started the rehearsal early.
+  <!-- feedback: A past indicative form appears here. The subjunctive carries no tense, so the base form 'start' must be kept. -->
+- [ ] D) Marta suggested us to start the rehearsal early.
+  <!-- feedback: The pattern 'suggest someone to do' does not exist; 'suggest' takes a that-clause in the subjunctive or a gerund. -->
 
 ### Explicacion Pedagogica
-The word 'accommodation' is used to describe a place where you live or stay on holiday. This is an important vocabulary word in English.
+Verbs of suggestion, request and recommendation such as 'suggest', 'recommend' and 'insist' are followed by 'that' plus a subjunctive clause, which keeps the base form of the verb.
+
 ---
-## Question 2 [D4]
+
+## Question 2 [D3]
 **ID:** CR-ING-11-2026-W24-subjunctive-mood-001-MASTERY-bundle-v2
-**Bloom:** Remember
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
-
-### Enunciado
-What is the English word for: "A detailed plan or route of a journey."
-
-### Opciones
-- [x] D) itinerary
-  <!-- feedback: Correct! An 'itinerary' is the detailed plan or route of a journey: it lists the places, stops and times in order. -->
-- [ ] A) baggage
-  <!-- feedback: 'baggage' means the suitcases and bags you travel with, not the plan that organises the trip. -->
-- [ ] B) destination
-  <!-- feedback: 'destination' is the place you are travelling to, one single stop of the plan rather than the plan itself. -->
-- [ ] C) passport
-  <!-- feedback: 'passport' is the official travel document you show at the border, not a description of the journey route. -->
-
-### Explicacion Pedagogica
-The word 'itinerary' is used to describe a detailed plan or route of a journey. This is an important vocabulary word in English.
----
-## Question 3 [D3]
-**ID:** CR-ING-11-2026-W24-subjunctive-mood-001-MASTERY-bundle-v3
 **Bloom:** Understand
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**EJE:** Linguistic Competence
+**Expected_Success:** 0.85
+**Contexto:** A doctor in Heredia gives a patient a firm instruction about her health.
 
 ### Enunciado
-What is the English word for: "The place to which someone or something is going or being sent."
+Which verb completes 'The doctor insisted that she ______ smoking'?
 
 ### Opciones
-- [x] A) destination
-  <!-- feedback: Correct! A 'destination' is the place to which someone or something is going or being sent. -->
-- [ ] B) departure
-  <!-- feedback: 'departure' is the act of leaving, the opposite side of the trip; the definition asks for the place, not the action. -->
-- [ ] C) arrival
-  <!-- feedback: 'arrival' is the event of getting there, but a definition needs the place itself, not the moment of reaching it. -->
-- [ ] D) journey
-  <!-- feedback: 'journey' is the whole trip from one place to another, whereas the definition names only where it ends. -->
+- [ ] A) stops
+  <!-- feedback: A present simple form belongs to the indicative. The verb after 'insisted that' must appear as a bare base form. -->
+- [ ] B) will stop
+  <!-- feedback: The modal 'will' makes the clause indicative, while the subjunctive drops tense markers and negates the base form. -->
+- [x] C) not smoke
+  <!-- feedback: Correct! A negative subjunctive places 'not' directly before the base form, so 'insisted that she not smoke' is right. -->
+- [ ] D) doesn't smoke
+  <!-- feedback: A contracted auxiliary marks tense and agreement, which the subjunctive lacks; negate the base form with 'not' instead. -->
 
 ### Explicacion Pedagogica
-The word 'destination' is used to describe the place to which someone or something is going or being sent. This is an important vocabulary word in English.
+The subjunctive has no tense and no agreement, so its negative is made by putting 'not' before the base form: 'insisted that he not be late', never 'that he isn't late'.
+
 ---
+
+## Question 3 [D4]
+**ID:** CR-ING-11-2026-W24-subjunctive-mood-001-MASTERY-bundle-v3
+**Bloom:** Apply
+**EJE:** Linguistic Competence
+**Expected_Success:** 0.85
+**Contexto:** Carlos proposes a weekend trip to Monteverde for the whole class.
+
+### Enunciado
+How should 'Carlos proposed that we should visit Monteverde' be rewritten?
+
+### Opciones
+- [ ] A) Carlos proposed that we will visit Monteverde.
+  <!-- feedback: Keeping a modal or replacing 'should' with 'will' leaves the clause indicative; the subjunctive needs the bare form. -->
+- [x] B) Carlos proposed that we visit Monteverde.
+  <!-- feedback: Correct! 'Should' is redundant inside a that-clause after 'proposed', so the modal is dropped and 'visit' stands alone. -->
+- [ ] C) Carlos proposed that we visited Monteverde.
+  <!-- feedback: The past form 'visited' is indicative; a clause of proposal is not tied to a tense, so it takes the base form. -->
+- [ ] D) Carlos proposed us that we visit Monteverde.
+  <!-- feedback: A that-clause cannot follow an indirect object with 'us'; 'proposed' takes either a bare that-clause or a gerund. -->
+
+### Explicacion Pedagogica
+A 'should' inside a that-clause after 'propose', 'recommend' or 'demand' is unnecessary, because the subjunctive already marks distance from reality and replaces the modal.
+
+---
+
 ## Question 4 [D4]
 **ID:** CR-ING-11-2026-W24-subjunctive-mood-001-MASTERY-bundle-v4
-**Bloom:** Understand
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Bloom:** Analyze
+**EJE:** Linguistic Competence
+**Expected_Success:** 0.85
+**Contexto:** A student writes about a suggestion he made to the principal of his school in Alajuela.
 
 ### Enunciado
-What is the English word for: "Suitcases or other bags in which to pack personal belongings for traveling."
+He wrote 'I suggested to her that we should cancel the trip.' What is wrong?
 
 ### Opciones
-- [x] C) luggage
-  <!-- feedback: Correct! 'luggage' is the collective word for the suitcases and bags in which personal belongings are packed for travelling. -->
-- [ ] A) ticket
-  <!-- feedback: a 'ticket' is the document that gives you the right to travel; it carries nothing at all. -->
-- [ ] B) flight
-  <!-- feedback: a 'flight' is the trip itself by plane, not the bags you pack for it. -->
-- [ ] D) reservation
-  <!-- feedback: a 'reservation' is the booking held for a seat or a room, not the container where clothes go. -->
+- [ ] A) Nothing; the sentence is fully correct as written.
+  <!-- feedback: The sentence has two real problems, so accepting it as written would hide both a complement error and a modal error. -->
+- [ ] B) 'Suggested' is wrong here; the verb should be 'propose'.
+  <!-- feedback: 'Suggest' is the natural verb for a proposal, and 'propose' would still need the same subjunctive that-clause structure. -->
+- [ ] C) 'Cancel' is wrong, since the subjunctive needs a past form.
+  <!-- feedback: The subjunctive does not move into a past tense; it keeps the base form 'cancel' whatever the tense of the main verb. -->
+- [x] D) Two problems: 'suggest' rejects 'to her', and 'should' must go.
+  <!-- feedback: Correct! 'Suggest' takes no indirect object, and the modal 'should' is redundant, so the clause must read 'that we cancel'. -->
 
 ### Explicacion Pedagogica
-The word 'luggage' is used to describe suitcases or other bags in which to pack personal belongings for traveling. This is an important vocabulary word in English.
+Two frequent errors sit in that-clauses of suggestion: adding an indirect object after 'suggest', and leaving 'should' inside the clause. The correct text is 'suggested that we cancel the trip'.
+
 ---
+
 ## Question 5 [D5]
 **ID:** CR-ING-11-2026-W24-subjunctive-mood-001-MASTERY-bundle-v5
-**Bloom:** Understand
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Bloom:** Evaluate
+**EJE:** Linguistic Competence
+**Expected_Success:** 0.85
+**Contexto:** The last bus from Turrialba leaves at six, so the students start to hurry.
 
 ### Enunciado
-What is the English word for: "A traveler on a public or private conveyance other than the driver, pilot, or crew."
+Which sentence uses the subjunctive correctly with the expression 'high time'?
 
 ### Opciones
-- [x] B) passenger
-  <!-- feedback: Correct! A 'passenger' is a traveller on a public or private conveyance who is neither the driver, the pilot nor the crew. -->
-- [ ] A) pedestrian
-  <!-- feedback: a 'pedestrian' travels on foot, so there is no driver, pilot or crew in the vehicle at all. -->
-- [ ] C) commuter
-  <!-- feedback: a 'commuter' is defined by the regular trip to work or study, not by riding any conveyance. -->
-- [ ] D) tourist
-  <!-- feedback: a 'tourist' travels for pleasure and visits places of interest; the definition here is about the role on the vehicle. -->
+- [x] A) It is high time that we left for Turrialba.
+  <!-- feedback: Correct! 'It is high time that' takes a past form as the subjunctive, and here 'left' points to the next unfulfilled moment. -->
+- [ ] B) It is high time that we will leave for Turrialba.
+  <!-- feedback: A future modal states a prediction, while the fixed expression 'it is high time that' demands the past subjunctive. -->
+- [ ] C) It is high time that we are leaving for Turrialba.
+  <!-- feedback: The present progressive describes an action in progress; the subjunctive after 'high time' always uses the simple past. -->
+- [ ] D) It is high time that we would leave for Turrialba.
+  <!-- feedback: 'Would' belongs to conditional and polite structures; the fixed pattern is a plain past form after 'high time that'. -->
 
 ### Explicacion Pedagogica
-The word 'passenger' is used to describe a traveler on a public or private conveyance other than the driver, pilot, or crew. This is an important vocabulary word in English.
+Fixed expressions such as 'it is high time that', 'it is time that' and 'it is about time that' take the subjunctive in the simple past, a form borrowed from the past tense.
+
 ---
-## Question 6 [D6]
+
+## Question 6 [D5]
 **ID:** CR-ING-11-2026-W24-subjunctive-mood-001-MASTERY-bundle-v6
-**Bloom:** Understand
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Bloom:** Remember
+**EJE:** Linguistic Competence
+**Expected_Success:** 0.85
+**Contexto:** Ana at a school in Cartago regrets how she spent her last term.
 
 ### Enunciado
-What is the English word for: "The place at a port, airport, or frontier where officials check incoming goods, travelers, or luggage."
+Which verb completes 'I wish I ______ more time to prepare the report'?
 
 ### Opciones
-- [x] C) customs
-  <!-- feedback: Correct! 'customs' is the place at a port, airport or frontier where officials check incoming goods, travellers and luggage. -->
-- [ ] A) security
-  <!-- feedback: 'security' staff prevent accidents and crime inside the building; the officials who check goods and travellers are customs. -->
-- [ ] B) terminal
-  <!-- feedback: a 'terminal' is the building where passengers wait for a departure, not the office where the checks are done. -->
-- [ ] D) gate
-  <!-- feedback: a 'gate' is the door or boarding point on the aircraft, not the place where officials inspect your belongings. -->
+- [ ] A) have
+  <!-- feedback: The bare base form points to a present reality, while a regret about the past needs the past subjunctive 'had'. -->
+- [x] B) had
+  <!-- feedback: Correct! An unreal wish about the past takes the subjunctive 'had': 'I wish I had had more time to prepare it'. -->
+- [ ] C) will have
+  <!-- feedback: 'Will have' states a future fact, but this wish is counterfactual, so the verb of the second clause goes to the past. -->
+- [ ] D) am having
+  <!-- feedback: A present progressive is an indicative form; the subjunctive strips tense and keeps the single past form 'had'. -->
 
 ### Explicacion Pedagogica
-The word 'customs' is used to describe the place at a port, airport, or frontier where officials check incoming goods, travelers, or luggage. This is an important vocabulary word in English.
+With 'wish', the verb of the second clause decides the reading: the past form 'had' signals an unreal past, as in 'I wish I had known the answer'.
+
 ---
-## Question 7 [D5]
+
+## Question 7 [D6]
 **ID:** CR-ING-11-2026-W24-subjunctive-mood-001-MASTERY-bundle-v7
-**Bloom:** Apply
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Bloom:** Understand
+**EJE:** Linguistic Competence
+**Expected_Success:** 0.85
+**Contexto:** The volleyball coach in Puntarenas talks about the final his team played last weekend.
 
 ### Enunciado
-What is the English word for: "A document provided by an airline during check-in, giving a passenger permission to board the airplane."
+Which verb completes 'The coach would rather that they ______ to Limon'?
 
 ### Opciones
-- [x] A) boarding pass
-  <!-- feedback: Correct! A 'boarding pass' is the document the airline issues at check-in that gives the passenger permission to board. -->
-- [ ] B) visa
-  <!-- feedback: a 'visa' is the permission to enter a country, obtained before the trip and not from the airline. -->
-- [ ] C) receipt
-  <!-- feedback: a 'receipt' only proves that you paid; it does not let you board the plane. -->
-- [ ] D) brochure
-  <!-- feedback: a 'brochure' is printed information about the airline or the destination, not a travel document. -->
+- [ ] A) go
+  <!-- feedback: The base form fits a present or future preference, but the match happened last weekend, so the past is needed. -->
+- [ ] B) are going
+  <!-- feedback: The present progressive states a current situation; 'would rather' with a past reference requires the past subjunctive. -->
+- [ ] C) will go
+  <!-- feedback: 'Will go' points forward to a new choice, while the speaker is already looking back at last weekend. -->
+- [x] D) had gone
+  <!-- feedback: Correct! 'Would rather' plus a that-clause uses the past subjunctive for a past or unreal preference: 'had gone'. -->
 
 ### Explicacion Pedagogica
-The word 'boarding pass' is used to describe a document provided by an airline during check-in, giving a passenger permission to board the airplane. This is an important vocabulary word in English.
+A that-clause after 'would rather' follows the subjunctive: the base form describes a present preference and the past form describes a past or unreal one, as in 'would rather that he had stayed'.
+
 ---
+
 ## Question 8 [D6]
 **ID:** CR-ING-11-2026-W24-subjunctive-mood-001-MASTERY-bundle-v8
 **Bloom:** Apply
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**EJE:** Linguistic Competence
+**Expected_Success:** 0.85
+**Contexto:** The referee in Liberia explains that the match would go on in any weather.
 
 ### Enunciado
-What is the English word for: "The activity of visiting places of interest in a particular location."
+Which sentence uses the formal subjunctive in an 'even if' clause?
 
 ### Opciones
-- [x] A) sightseeing
-  <!-- feedback: Correct! 'sightseeing' is the activity of visiting the places of interest of a location. -->
-- [ ] B) shopping
-  <!-- feedback: 'shopping' is buying things in stores, not the general activity of visiting a place's sights. -->
-- [ ] C) hiking
-  <!-- feedback: 'hiking' is one specific outdoor walk in nature, only one kind of activity out of many. -->
-- [ ] D) camping
-  <!-- feedback: 'camping' means staying outdoors in a tent, which is not what a visitor does in a city or landmark. -->
+- [x] A) Even if it were raining, the match would go on.
+  <!-- feedback: Correct! Formal concessions after 'even if' use the subjunctive 'were' because the situation is imagined, not reported. -->
+- [ ] B) Even if it is raining, the match will go on.
+  <!-- feedback: A present simple with 'even if' states a real possibility in the present, and 'will' turns the sentence into a prediction. -->
+- [ ] C) Even if it rained, the match went on.
+  <!-- feedback: The past indicative reports what actually happened, while a subjunctive condition stays unreal however it is phrased. -->
+- [ ] D) Even if it has rained, the match would go on.
+  <!-- feedback: The present perfect points to a real earlier rain; the subjunctive 'were raining' keeps the condition purely hypothetical. -->
 
 ### Explicacion Pedagogica
-The word 'sightseeing' is used to describe the activity of visiting places of interest in a particular location. This is an important vocabulary word in English.
+In formal English, 'were' replaces 'was' in subjunctive conditions, including unreal concessions after 'even if', because the speaker treats the situation as imagined rather than actual.
+
 ---
-## Question 9 [D5]
+
+## Question 9 [D7]
 **ID:** CR-ING-11-2026-W24-subjunctive-mood-001-MASTERY-bundle-v9
-**Bloom:** Apply
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Bloom:** Analyze
+**EJE:** Linguistic Competence
+**Expected_Success:** 0.85
+**Contexto:** At a cafe in Heredia, Diego offers the group a plan for Saturday morning.
 
 ### Enunciado
-What is the English word for: "A thing that is kept as a reminder of a person, place, or event."
+Which sentence correctly complements the past form 'suggested' with a gerund?
 
 ### Opciones
-- [x] B) souvenir
-  <!-- feedback: Correct! A 'souvenir' is the object that is kept as a reminder of a person, place or event. -->
-- [ ] A) gift
-  <!-- feedback: a 'gift' is something given to someone, but it is not necessarily kept as a reminder of a place or an event. -->
-- [ ] C) award
-  <!-- feedback: an 'award' is an honour granted by an institution for merit, not a keepsake. -->
-- [ ] D) prize
-  <!-- feedback: a 'prize' is the reward of a competition; the definition describes an object kept as a memento. -->
+- [ ] A) Diego suggested that going to the beach would be fun.
+  <!-- feedback: A gerund cannot stand inside a that-clause; the subjunctive there takes a bare base form, for example 'that we go'. -->
+- [ ] B) Diego suggested to go to the beach.
+  <!-- feedback: The bare infinitive is not an accepted complement of 'suggest'; this verb takes a gerund or a that-clause in the subjunctive. -->
+- [x] C) Diego suggested going to the beach.
+  <!-- feedback: Correct! 'Suggest' accepts a gerund, 'suggested going', or a that-clause in the subjunctive, but never 'suggested to go'. -->
+- [ ] D) Diego suggested that we to go to the beach.
+  <!-- feedback: An infinitive cannot follow 'that'; a subjunctive that-clause needs a finite base form, so the right version is 'that we go'. -->
 
 ### Explicacion Pedagogica
-The word 'souvenir' is used to describe a thing that is kept as a reminder of a person, place, or event. This is an important vocabulary word in English.
+'Suggest' has two complement patterns only: a gerund, as in 'suggested going', or a that-clause in the subjunctive, as in 'suggested that we go'. The pattern 'suggested to go' is always wrong.
+
 ---
-## Question 10 [D6]
+
+## Question 10 [D7]
 **ID:** CR-ING-11-2026-W24-subjunctive-mood-001-MASTERY-bundle-v10
-**Bloom:** Apply
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Bloom:** Evaluate
+**EJE:** Linguistic Competence
+**Expected_Success:** 0.85
+**Contexto:** A witness describes the strange calm of a student during the earthquake drill at a school in San Jose.
 
 ### Enunciado
-What is the English word for: "A period of time by which something is late or postponed."
+Which verb completes 'During the drill, he acted as if he ______ nothing'?
 
 ### Opciones
-- [x] A) delay
-  <!-- feedback: Correct! A 'delay' is the extra period of time by which something ends up late or postponed. -->
-- [ ] B) cancellation
-  <!-- feedback: a 'cancellation' means the trip or event will not happen at all, not that it happens later. -->
-- [ ] C) departure
-  <!-- feedback: 'departure' is simply the moment of leaving, which can be perfectly punctual. -->
-- [ ] D) arrival
-  <!-- feedback: 'arrival' is the moment of reaching the place, and it says nothing about being late. -->
+- [ ] A) feels
+  <!-- feedback: The present simple describes a real, repeated reaction, while 'as if' here looks back at a past moment. -->
+- [x] B) felt
+  <!-- feedback: Correct! 'As if' with a past reference takes the past form 'felt' as a subjunctive, presenting the calm as pretended. -->
+- [ ] C) has felt
+  <!-- feedback: The present perfect links the reaction to now, but the whole sequence described here is already past. -->
+- [ ] D) would feel
+  <!-- feedback: A conditional 'would feel' imagines a future reaction, and 'acted as if' after a past event points backwards. -->
 
 ### Explicacion Pedagogica
-The word 'delay' is used to describe a period of time by which something is late or postponed. This is an important vocabulary word in English.
+The pattern 'as if' or 'as though' plus a past form is a subjunctive: it presents a comparison as imagined or pretended, which formal English prefers to a tense that claims reality.
+
 ---
-## Question 11 [D7]
+
+## Question 11 [D8]
 **ID:** CR-ING-11-2026-W24-subjunctive-mood-001-MASTERY-bundle-v11
-**Bloom:** Apply
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Bloom:** Remember
+**EJE:** Linguistic Competence
+**Expected_Success:** 0.85
+**Contexto:** A student in Alajuela reads a rumor about the new grading policy of his school.
 
 ### Enunciado
-What is the English word for: "The act of reporting one's presence and registering, typically at an airport or hotel."
+Which sentence uses the subjunctive after a verb of doubt?
 
 ### Opciones
-- [x] A) check-in
-  <!-- feedback: Correct! 'Check-in' is the act of reporting your presence and registering at an airport or hotel counter. -->
-- [ ] B) check-out
-  <!-- feedback: 'check-out' is the opposite moment, when you pay and hand the room key back before leaving. -->
-- [ ] C) booking
-  <!-- feedback: 'booking' is the reservation made beforehand; check-in is what you do on arrival. -->
-- [ ] D) reservation
-  <!-- feedback: a 'reservation' is the earlier record of your booking, not the act of registering your presence. -->
+- [ ] A) I believe that the policy changes next year.
+  <!-- feedback: 'Believe' states an opinion the speaker accepts, so it takes the indicative rather than the subjunctive. -->
+- [ ] B) She supposes that every teacher agrees with the change.
+  <!-- feedback: 'Suppose' used positively means 'imagine' and keeps the indicative; its negative form would trigger the subjunctive. -->
+- [x] C) I doubt that the new policy is fair to everyone.
+  <!-- feedback: Correct! 'Doubt that he is' is a classic subjunctive pattern, because the speaker keeps the claim separate from his own belief. -->
+- [ ] D) He thinks that the policy will surprise the students.
+  <!-- feedback: 'Thinks' reports an opinion he shares, so 'will surprise' is expected; only negated verbs of thinking use the subjunctive. -->
 
 ### Explicacion Pedagogica
-The word 'check-in' is used to describe the act of reporting one's presence and registering, typically at an airport or hotel. This is an important vocabulary word in English.
+Verbs and expressions of doubt or negation trigger the subjunctive: 'doubt that', 'I don't think that', 'it is not true that'. Positive forms like 'think' keep the indicative.
+
 ---
+
 ## Question 12 [D8]
 **ID:** CR-ING-11-2026-W24-subjunctive-mood-001-MASTERY-bundle-v12
-**Bloom:** Apply
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Bloom:** Understand
+**EJE:** Linguistic Competence
+**Expected_Success:** 0.85
+**Contexto:** A lab technician in Cartago prepares the school laboratory for a safety inspection.
 
 ### Enunciado
-What is the English word for: "A period of rest or waiting before a further stage in a journey."
+Which verb completes 'It is essential that the equipment ______ first'?
 
 ### Opciones
-- [x] A) layover
-  <!-- feedback: Correct! A 'layover' is a period of rest or waiting between two further stages of a journey. -->
-- [ ] B) stopover
-  <!-- feedback: 'stopover' is used mainly for trains and usually for a longer, often overnight, break on a rail journey. -->
-- [ ] C) transfer
-  <!-- feedback: a 'transfer' is the change from one vehicle or flight to another, not the pause itself. -->
-- [ ] D) transit
-  <!-- feedback: 'transit' means the action of passing through a place, with no idea of resting between stages. -->
+- [x] A) be
+  <!-- feedback: Correct! The passive of the subjunctive keeps 'be' unchanged, so the sentence reads 'that the equipment be checked'. -->
+- [ ] B) is
+  <!-- feedback: A present simple 'is' makes the clause indicative; after 'it is essential that' the passive must be 'be checked'. -->
+- [ ] C) will be
+  <!-- feedback: The future 'will be' predicts an event, while the subjunctive here marks necessity, not a forecast. -->
+- [ ] D) are
+  <!-- feedback: 'Are' is a plural agreement form that fits no subject here; the subjunctive drops agreement and keeps the bare 'be'. -->
 
 ### Explicacion Pedagogica
-The word 'layover' is used to describe a period of rest or waiting before a further stage in a journey. This is an important vocabulary word in English.
+The passive of the subjunctive is formed with 'be' plus a past participle, and 'be' never takes agreement: 'that the doors be locked' before the storm.
+
 ---
-## Question 13 [D7]
+
+## Question 13 [D9]
 **ID:** CR-ING-11-2026-W24-subjunctive-mood-001-MASTERY-bundle-v13
-**Bloom:** Analyze
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Bloom:** Apply
+**EJE:** Linguistic Competence
+**Expected_Success:** 0.85
+**Contexto:** A school counselor in Santa Cruz advises a student who has headaches every week.
 
 ### Enunciado
-What is the English word for: "A system of money in general use in a particular country."
+Rewrite it in the subjunctive: 'You should see a doctor about those headaches.' How?
 
 ### Opciones
-- [x] C) currency
-  <!-- feedback: Correct! 'Currency' is the money system in general use in a particular country. -->
-- [ ] A) coin
-  <!-- feedback: a 'coin' is one single piece of money, not the whole system used in the country. -->
-- [ ] B) banknote
-  <!-- feedback: a 'banknote' is one single paper note of that system, not the system itself. -->
-- [ ] D) cash
-  <!-- feedback: 'cash' means money in coins and notes in general, not the specific monetary system of a country. -->
+- [ ] A) I recommend you see a doctor about those headaches.
+  <!-- feedback: 'Recommend' does not take an object plus a bare infinitive; it takes a that-clause or a gerund as its complement. -->
+- [ ] B) I recommend that you will see a doctor about those headaches.
+  <!-- feedback: The modal 'will' keeps the clause indicative, while a recommendation needs the bare base form after 'that'. -->
+- [ ] C) I recommend that you should see a doctor about those headaches.
+  <!-- feedback: 'Should' is redundant inside a that-clause of recommendation; the subjunctive already carries the obligatory mood. -->
+- [x] D) I recommend that you see a doctor about those headaches.
+  <!-- feedback: Correct! 'Recommend that' plus the bare base form is the standard subjunctive pattern and it keeps the force of the advice. -->
 
 ### Explicacion Pedagogica
-The word 'currency' is used to describe a system of money in general use in a particular country. This is an important vocabulary word in English.
+To turn advice with 'should' into the subjunctive, place the verb after 'that' in its base form; 'should' is dropped because the subjunctive already expresses obligation.
+
 ---
-## Question 14 [D8]
+
+## Question 14 [D9]
 **ID:** CR-ING-11-2026-W24-subjunctive-mood-001-MASTERY-bundle-v14
 **Bloom:** Analyze
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**EJE:** Linguistic Competence
+**Expected_Success:** 0.85
+**Contexto:** A student in Monteverde explains why her science project was not ready last semester.
 
 ### Enunciado
-What is the English word for: "A book of information about a place designed for the use of visitors or tourists."
+Which verb completes 'If she ______ the library, her project would be ready'?
 
 ### Opciones
-- [x] D) guidebook
-  <!-- feedback: Correct! A 'guidebook' is a book of information about a place written for the use of visitors and tourists. -->
-- [ ] A) map
-  <!-- feedback: a 'map' shows the layout of streets and places, but it is a drawing rather than a book of information. -->
-- [ ] B) dictionary
-  <!-- feedback: a 'dictionary' gives the meaning of words, not details about a destination for travellers. -->
-- [ ] C) encyclopedia
-  <!-- feedback: an encyclopedia covers all branches of knowledge rather than one particular place for visitors. -->
+- [ ] A) consulted
+  <!-- feedback: A bare past form reads as a real past habit, while an unreal third condition needs 'had' plus the participle. -->
+- [x] B) had consulted
+  <!-- feedback: Correct! An unreal past condition uses 'had' plus the past participle, matched by the unreal result 'would have been'. -->
+- [ ] C) has consulted
+  <!-- feedback: The present perfect points to a consultation that really happened, but this sentence describes one that never did. -->
+- [ ] D) will consult
+  <!-- feedback: A future 'will consult' cannot produce a past result; 'would have been ready' already fixes the condition in the unreal past. -->
 
 ### Explicacion Pedagogica
-The word 'guidebook' is used to describe a book of information about a place designed for the use of visitors or tourists. This is an important vocabulary word in English.
+The if-clause of a third conditional is subjunctive: the auxiliary 'had' carries the whole unreal past, so no other tense appears and the main verb follows as a participle.
+
 ---
-## Question 15 [D7]
+
+## Question 15 [D10]
 **ID:** CR-ING-11-2026-W24-subjunctive-mood-001-MASTERY-bundle-v15
-**Bloom:** Analyze
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
-
-### Enunciado
-What is the English word for: "A bag with shoulder straps that allow it to be carried on one's back."
-
-### Opciones
-- [x] A) backpack
-  <!-- feedback: Correct! A 'backpack' has shoulder straps and is designed to be carried on one's back. -->
-- [ ] B) suitcase
-  <!-- feedback: a 'suitcase' is dragged by a handle beside the body; it has no shoulder straps. -->
-- [ ] C) briefcase
-  <!-- feedback: a 'briefcase' is a case for documents and a laptop that is carried in the hand. -->
-- [ ] D) handbag
-  <!-- feedback: a 'handbag' is a small bag held in the hand, not carried on the back. -->
-
-### Explicacion Pedagogica
-The word 'backpack' is used to describe a bag with shoulder straps that allow it to be carried on one's back. This is an important vocabulary word in English.
----
-## Question 16 [D8]
-**ID:** CR-ING-11-2026-W24-subjunctive-mood-001-MASTERY-bundle-v16
-**Bloom:** Analyze
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
-
-### Enunciado
-What is the English word for: "In or to a foreign country, especially one across the sea."
-
-### Opciones
-- [x] B) overseas
-  <!-- feedback: Correct! 'Overseas' means in or to a foreign country, especially one reached across the sea. -->
-- [ ] A) domestic
-  <!-- feedback: 'domestic' means inside the same country, which is the opposite of overseas. -->
-- [ ] C) local
-  <!-- feedback: 'local' means belonging to the area where you already are, again the opposite meaning. -->
-- [ ] D) national
-  <!-- feedback: 'national' refers to the nation as a whole, but it does not mean being abroad. -->
-
-### Explicacion Pedagogica
-The word 'overseas' is used to describe in or to a foreign country, especially one across the sea. This is an important vocabulary word in English.
----
-## Question 17 [D9]
-**ID:** CR-ING-11-2026-W24-subjunctive-mood-001-MASTERY-bundle-v17
 **Bloom:** Evaluate
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**EJE:** Linguistic Competence
+**Expected_Success:** 0.85
+**Contexto:** A school board in Alajuela debates a formal proposal about its sports program.
 
 ### Enunciado
-What is the English word for: "An estimate of income and expenditure for a set period of time."
+Which order is correct for 'recommended that every coach attend the training'?
 
 ### Opciones
-- [x] C) budget
-  <!-- feedback: Correct! A 'budget' is an estimate of income and expenditure planned for a set period of time. -->
-- [ ] A) expense
-  <!-- feedback: an 'expense' is a single cost; a budget gathers all income and spending over a period. -->
-- [ ] B) cost
-  <!-- feedback: 'cost' is the amount paid for one thing, not an estimate for a whole period. -->
-- [ ] D) price
-  <!-- feedback: 'price' is the figure written on a product, not a plan of income and expenditure. -->
+- [ ] A) The board recommended every coach that attend the training in Nicoya.
+  <!-- feedback: 'Recommended' does not take an indirect object before a that-clause; the clause itself carries the subject 'every coach'. -->
+- [ ] B) The board recommended that every coach to attend the training in Nicoya.
+  <!-- feedback: An infinitive cannot follow 'that'; the subjunctive that-clause needs a finite base form, so 'to attend' is out. -->
+- [x] C) The board recommended that every coach attend the training in Nicoya.
+  <!-- feedback: Correct! A recommendation places the subject inside the that-clause and uses the bare base form 'attend' for the subjunctive. -->
+- [ ] D) The board recommended that attend every coach the training in Nicoya.
+  <!-- feedback: English clauses put the verb before the subject, so this order is not grammatical even without the subjunctive issue. -->
 
 ### Explicacion Pedagogica
-The word 'budget' is used to describe an estimate of income and expenditure for a set period of time. This is an important vocabulary word in English.
+Subjunctive clauses keep normal English word order: subject first, then the base form of the verb with no auxiliary, then the rest of the object, as in 'that every coach attend'.
+
 ---
+
+## Question 16 [D10]
+**ID:** CR-ING-11-2026-W24-subjunctive-mood-001-MASTERY-bundle-v16
+**Bloom:** Remember
+**EJE:** Linguistic Competence
+**Expected_Success:** 0.85
+**Contexto:** A friend in Escazu offers honest advice before a difficult conversation with a teacher.
+
+### Enunciado
+Which verb completes the formal advice 'If I ______ you, I would apologize'?
+
+### Opciones
+- [ ] A) was
+  <!-- feedback: 'Was' belongs to the indicative; formal English uses 'were' in subjunctive conditions, for every person. -->
+- [ ] B) am
+  <!-- feedback: 'Am' is a present simple form and fits only real conditions, but this advice imagines a situation. -->
+- [ ] C) be
+  <!-- feedback: 'Be' is the base form and would need a modal such as 'might'; after 'if' the subjunctive takes the past form. -->
+- [x] D) were
+  <!-- feedback: Correct! 'Were' replaces 'was' in every subjunctive 'if' clause, which is why we say 'If I were you' in advice. -->
+
+### Explicacion Pedagogica
+The subjunctive 'be' form is 'were' for every person: 'If she were here', 'If they were richer'. It marks hypothetical or imagined situations instead of facts.
+
+---
+
+## Question 17 [D10]
+**ID:** CR-ING-11-2026-W24-subjunctive-mood-001-MASTERY-bundle-v17
+**Bloom:** Understand
+**EJE:** Linguistic Competence
+**Expected_Success:** 0.85
+**Contexto:** A teacher in Tibas explains why she uses visual aids in her history classes.
+
+### Enunciado
+Which is the formal way to state a purpose with the expression 'in order that'?
+
+### Opciones
+- [ ] A) She used posters in order that the students will remember the dates.
+  <!-- feedback: 'Will' states a definite future result, while the subjunctive 'might' expresses an aim rather than a prediction. -->
+- [x] B) She used posters in order that the students might remember the dates.
+  <!-- feedback: Correct! A purpose clause after 'in order that' commonly takes the subjunctive modal 'might', which leaves the outcome open. -->
+- [ ] C) She used posters in order that the students remember the dates.
+  <!-- feedback: A bare present form presents the outcome as already real, but formal purpose clauses prefer 'might' here. -->
+- [ ] D) She used posters so that the students would remembering the dates.
+  <!-- feedback: 'Would remembering' mixes a modal with a gerund; the subjunctive needs a plain base form after 'would' or 'might'. -->
+
+### Explicacion Pedagogica
+Formal purpose clauses introduced by 'in order that' or 'so that' often use a subjunctive modal such as 'might', because the speaker wants an outcome instead of announcing a fact.
+
+---
+
 ## Question 18 [D10]
 **ID:** CR-ING-11-2026-W24-subjunctive-mood-001-MASTERY-bundle-v18
-**Bloom:** Evaluate
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Bloom:** Apply
+**EJE:** Linguistic Competence
+**Expected_Success:** 0.85
+**Contexto:** A student in Quevedo imagines how a cheaper bus fare would help the towns of her province.
 
 ### Enunciado
-What is the English word for: "A practice or arrangement by which a company or government agency provides a guarantee of compensation for specified loss, damage, illness, or death in return for payment of a premium."
+Which verb completes 'Suppose that the mayor ______ the bus fare'?
 
 ### Opciones
-- [x] C) insurance
-  <!-- feedback: Correct! 'Insurance' is the arrangement by which a company or agency guarantees compensation for specified loss, damage, illness or death in return for a premium. -->
-- [ ] A) warranty
-  <!-- feedback: a 'warranty' is the maker's guarantee of a product, normally for a short period and against defects only. -->
-- [ ] B) guarantee
-  <!-- feedback: a 'guarantee' is the promise itself, without the payment of a premium that defines an insurance arrangement. -->
-- [ ] D) policy
-  <!-- feedback: a 'policy' is the written document of the contract, not the practice of insuring itself. -->
+- [ ] A) will cut
+  <!-- feedback: 'Will cut' is a future indicative; 'Suppose that' introduces a hypothesis the speaker imagines, so the base form is needed. -->
+- [ ] B) cut
+  <!-- feedback: 'Cut' is the past form, but the subjunctive here refers to an imagined present situation, not to a past event. -->
+- [x] C) cuts
+  <!-- feedback: Correct! After 'Suppose that' the subjunctive keeps the base form and its third person 's', so 'cuts' is the right choice. -->
+- [ ] D) is cutting
+  <!-- feedback: 'Is cutting' states a real action in progress, while the subjunctive marks a condition being invented for the argument. -->
 
 ### Explicacion Pedagogica
-The word 'insurance' is used to describe a practice or arrangement by which a company or government agency provides a guarantee of compensation for specified loss, damage, illness, or death in return for payment of a premium. This is an important vocabulary word in English.
+Hypothetical clauses after 'suppose', 'imagine' or 'pretend' take the subjunctive, so the verb keeps the base form with third person 's' even after a past verb.
+
 ---
-## Question 19 [D9]
+
+## Question 19 [D10]
 **ID:** CR-ING-11-2026-W24-subjunctive-mood-001-MASTERY-bundle-v19
-**Bloom:** Evaluate
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Bloom:** Analyze
+**EJE:** Linguistic Competence
+**Expected_Success:** 0.85
+**Contexto:** An English teacher in San Jose marks a paragraph that four students wrote about school rules.
 
 ### Enunciado
-What is the English word for: "Treatment with a vaccine to produce immunity against a disease."
+Which sentence breaks the subjunctive rule and needs a base form instead?
 
 ### Opciones
-- [x] A) vaccination
-  <!-- feedback: Correct! 'Vaccination' is the treatment with a vaccine that produces immunity against a disease. -->
-- [ ] B) medication
-  <!-- feedback: 'medication' treats the symptoms of a disease; it does not create immunity against it. -->
-- [ ] C) prescription
-  <!-- feedback: a 'prescription' is the doctor's written order for a medicine, not the vaccine treatment itself. -->
-- [ ] D) infection
-  <!-- feedback: an 'infection' is the invasion of the body by a pathogen, the opposite of being protected against disease. -->
+- [x] A) It is important that every student arrives on time.
+  <!-- feedback: Here the clause is indicative, because 'arrives' agrees with its subject and states a real habit; it needs 'arrive'. -->
+- [ ] B) The teacher insisted that we hand in the lab report.
+  <!-- feedback: Correct use of the subjunctive: 'insist' takes 'that' plus the bare base form 'hand in', with no tense marking. -->
+- [ ] C) She suggested that we visit the coffee farm in Turrialba.
+  <!-- feedback: Correct use of the subjunctive: 'suggest' keeps the base form 'visit', so nothing has to be corrected in this sentence. -->
+- [ ] D) He demanded that she be present at the hearing.
+  <!-- feedback: Correct use of the subjunctive: after 'demanded' the passive 'be present' keeps 'be' with no change in form. -->
 
 ### Explicacion Pedagogica
-The word 'vaccination' is used to describe treatment with a vaccine to produce immunity against a disease. This is an important vocabulary word in English.
+A quick test is to look for tense and agreement inside the that-clause. If the verb agrees with its subject or shows a tense, it is indicative and must become the subjunctive base form.
+
 ---
+
 ## Question 20 [D10]
 **ID:** CR-ING-11-2026-W24-subjunctive-mood-001-MASTERY-bundle-v20
 **Bloom:** Evaluate
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**EJE:** Linguistic Competence
+**Expected_Success:** 0.85
+**Contexto:** A school board in Alajuela writes a formal resolution about building a new library.
 
 ### Enunciado
-What is the English word for: "Extreme tiredness and other physical effects felt by a person after a long flight across several time zones."
+Which sentence is the correct formal wording for that resolution about the library?
 
 ### Opciones
-- [x] D) jet lag
-  <!-- feedback: Correct! 'Jet lag' is the extreme tiredness and other physical effects felt after a long flight across several time zones. -->
-- [ ] A) fatigue
-  <!-- feedback: 'fatigue' is tiredness from any cause, such as a lack of sleep or effort, not specifically from time zones. -->
-- [ ] B) exhaustion
-  <!-- feedback: 'exhaustion' is a total lack of energy from any cause, more general and more severe than the effect of crossing time zones. -->
-- [ ] C) insomnia
-  <!-- feedback: 'insomnia' is the difficulty of falling or staying asleep, only one symptom and not the whole set of effects after a long flight. -->
+- [ ] A) The board decided that the library is built before the rainy season.
+  <!-- feedback: A present simple 'is built' is the indicative, while a board decision is a directive that needs the subjunctive passive. -->
+- [ ] B) The board decided that the library will be built before the rainy season.
+  <!-- feedback: 'Will be built' states a prediction rather than an official order, but a resolution expresses obligation. -->
+- [ ] C) The board decided that the library was built before the rainy season.
+  <!-- feedback: The past passive 'was built' reports a finished event, and the board is deciding what still has to happen. -->
+- [x] D) The board decided that the library be built before the rainy season.
+  <!-- feedback: Correct! A formal decision uses the subjunctive, and in the passive the auxiliary 'be' never changes form. -->
 
 ### Explicacion Pedagogica
-The word 'jet lag' is used to describe extreme tiredness and other physical effects felt by a person after a long flight across several time zones. This is an important vocabulary word in English.
+Formal decisions, demands and requirements take a that-clause in the subjunctive. In the passive the auxiliary 'be' stays the same, so the clause reads 'that the library be built'.
+
+---

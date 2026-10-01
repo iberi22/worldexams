@@ -21,462 +21,464 @@ bundle_index: 1
 **20 preguntas | Ingles | Curriculo de Ingles**
 
 ---
+
 ## Question 1 [D3]
 **ID:** HN-ING-11-2026-W28-comparatives-001-MASTERY-bundle-v1
-**Bloom:** Remember
-**EJE:** Lexico
+**Bloom:** Apply
+**EJE:** Gramatica
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** A student compares two tasks from the same workbook.
 
 ### Enunciado
-What is the English word for: "A place where you live or stay on holiday."
+This exercise is ____ than the one we did last week.
 
 ### Opciones
-- [x] A) accommodation
-  <!-- feedback: Correct! 'accommodation' is the place where you live or stay, especially on holiday, and it is the word the definition asks for. -->
-- [ ] B) transportation
-  <!-- feedback: 'transportation' is the system that moves people or goods (buses, trains, taxis), not a place where you live or stay. -->
-- [ ] C) entertainment
-  <!-- feedback: 'entertainment' means the shows, music and activities that amuse you, so it names an experience rather than a place. -->
-- [ ] D) currency
-  <!-- feedback: 'currency' is the money system of a country, such as the dollar or the colon, so it has nothing to do with a place to stay. -->
+- [x] A) harder
+  <!-- feedback: Correct! Short adjectives take the ending '-er' in the comparative form. -->
+- [ ] B) hard
+  <!-- feedback: 'Hard' is the base form and cannot compare two things. -->
+- [ ] C) more hard
+  <!-- feedback: 'More hard' mixes the two systems of comparison, which is not correct for a short adjective. -->
+- [ ] D) the hardest
+  <!-- feedback: 'The hardest' is the superlative, which compares three or more items, not two. -->
 
 ### Explicacion Pedagogica
-The word 'accommodation' is used to describe a place where you live or stay on holiday. This is an important vocabulary word in English.
+Adjectives of one syllable add '-er' to form the comparative, and 'than' confirms that two items are being compared.
 ---
-## Question 2 [D4]
+## Question 2 [D3]
 **ID:** HN-ING-11-2026-W28-comparatives-001-MASTERY-bundle-v2
-**Bloom:** Remember
-**EJE:** Lexico
+**Bloom:** Apply
+**EJE:** Gramatica
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** A city compares a recently built sports venue with an older one.
 
 ### Enunciado
-What is the English word for: "A detailed plan or route of a journey."
+The new stadium is much ____ than the old one.
 
 ### Opciones
-- [x] C) itinerary
-  <!-- feedback: Correct! An 'itinerary' is the detailed plan or route of a journey: it lists the places, stops and times in order. -->
-- [ ] A) baggage
-  <!-- feedback: 'baggage' means the suitcases and bags you travel with, not the plan that organises the trip. -->
-- [ ] B) destination
-  <!-- feedback: 'destination' is the place you are travelling to, one single stop of the plan rather than the plan itself. -->
-- [ ] D) passport
-  <!-- feedback: 'passport' is the official travel document you show at the border, not a description of the journey route. -->
+- [ ] A) big
+  <!-- feedback: 'Big' is the base form, and a comparison needs the comparative or the superlative. -->
+- [x] B) bigger
+  <!-- feedback: Correct! 'Bigger' is the comparative of a short adjective, and 'much' strengthens the difference. -->
+- [ ] C) bigest
+  <!-- feedback: 'Bigest' is the superlative and would compare more than two things. -->
+- [ ] D) more big
+  <!-- feedback: 'More big' is not a possible form in English. -->
 
 ### Explicacion Pedagogica
-The word 'itinerary' is used to describe a detailed plan or route of a journey. This is an important vocabulary word in English.
+Intensifiers such as 'much', 'far' and 'a lot' go before the comparative form to show the size of the difference.
 ---
 ## Question 3 [D3]
 **ID:** HN-ING-11-2026-W28-comparatives-001-MASTERY-bundle-v3
-**Bloom:** Understand
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
-
-### Enunciado
-What is the English word for: "The place to which someone or something is going or being sent."
-
-### Opciones
-- [x] B) destination
-  <!-- feedback: Correct! A 'destination' is the place to which someone or something is going or being sent. -->
-- [ ] A) departure
-  <!-- feedback: 'departure' is the act of leaving, the opposite side of the trip; the definition asks for the place, not the action. -->
-- [ ] C) arrival
-  <!-- feedback: 'arrival' is the event of getting there, but a definition needs the place itself, not the moment of reaching it. -->
-- [ ] D) journey
-  <!-- feedback: 'journey' is the whole trip from one place to another, whereas the definition names only where it ends. -->
-
-### Explicacion Pedagogica
-The word 'destination' is used to describe the place to which someone or something is going or being sent. This is an important vocabulary word in English.
----
-## Question 4 [D4]
-**ID:** HN-ING-11-2026-W28-comparatives-001-MASTERY-bundle-v4
-**Bloom:** Understand
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
-
-### Enunciado
-What is the English word for: "Suitcases or other bags in which to pack personal belongings for traveling."
-
-### Opciones
-- [x] A) luggage
-  <!-- feedback: Correct! 'luggage' is the collective word for the suitcases and bags in which personal belongings are packed for travelling. -->
-- [ ] B) ticket
-  <!-- feedback: a 'ticket' is the document that gives you the right to travel; it carries nothing at all. -->
-- [ ] C) flight
-  <!-- feedback: a 'flight' is the trip itself by plane, not the bags you pack for it. -->
-- [ ] D) reservation
-  <!-- feedback: a 'reservation' is the booking held for a seat or a room, not the container where clothes go. -->
-
-### Explicacion Pedagogica
-The word 'luggage' is used to describe suitcases or other bags in which to pack personal belongings for traveling. This is an important vocabulary word in English.
----
-## Question 5 [D5]
-**ID:** HN-ING-11-2026-W28-comparatives-001-MASTERY-bundle-v5
-**Bloom:** Understand
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
-
-### Enunciado
-What is the English word for: "A traveler on a public or private conveyance other than the driver, pilot, or crew."
-
-### Opciones
-- [x] C) passenger
-  <!-- feedback: Correct! A 'passenger' is a traveller on a public or private conveyance who is neither the driver, the pilot nor the crew. -->
-- [ ] A) pedestrian
-  <!-- feedback: a 'pedestrian' travels on foot, so there is no driver, pilot or crew in the vehicle at all. -->
-- [ ] B) commuter
-  <!-- feedback: a 'commuter' is defined by the regular trip to work or study, not by riding any conveyance. -->
-- [ ] D) tourist
-  <!-- feedback: a 'tourist' travels for pleasure and visits places of interest; the definition here is about the role on the vehicle. -->
-
-### Explicacion Pedagogica
-The word 'passenger' is used to describe a traveler on a public or private conveyance other than the driver, pilot, or crew. This is an important vocabulary word in English.
----
-## Question 6 [D6]
-**ID:** HN-ING-11-2026-W28-comparatives-001-MASTERY-bundle-v6
-**Bloom:** Understand
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
-
-### Enunciado
-What is the English word for: "The place at a port, airport, or frontier where officials check incoming goods, travelers, or luggage."
-
-### Opciones
-- [x] A) customs
-  <!-- feedback: Correct! 'customs' is the place at a port, airport or frontier where officials check incoming goods, travellers and luggage. -->
-- [ ] B) security
-  <!-- feedback: 'security' staff prevent accidents and crime inside the building; the officials who check goods and travellers are customs. -->
-- [ ] C) terminal
-  <!-- feedback: a 'terminal' is the building where passengers wait for a departure, not the office where the checks are done. -->
-- [ ] D) gate
-  <!-- feedback: a 'gate' is the door or boarding point on the aircraft, not the place where officials inspect your belongings. -->
-
-### Explicacion Pedagogica
-The word 'customs' is used to describe the place at a port, airport, or frontier where officials check incoming goods, travelers, or luggage. This is an important vocabulary word in English.
----
-## Question 7 [D5]
-**ID:** HN-ING-11-2026-W28-comparatives-001-MASTERY-bundle-v7
 **Bloom:** Apply
-**EJE:** Lexico
+**EJE:** Gramatica
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** A student compares a class presentation with a standard set by the teacher.
 
 ### Enunciado
-What is the English word for: "A document provided by an airline during check-in, giving a passenger permission to board the airplane."
+His explanation was ____ than what the teacher had expected.
 
 ### Opciones
-- [x] B) boarding pass
-  <!-- feedback: Correct! A 'boarding pass' is the document the airline issues at check-in that gives the passenger permission to board. -->
-- [ ] A) visa
-  <!-- feedback: a 'visa' is the permission to enter a country, obtained before the trip and not from the airline. -->
-- [ ] C) receipt
-  <!-- feedback: a 'receipt' only proves that you paid; it does not let you board the plane. -->
-- [ ] D) brochure
-  <!-- feedback: a 'brochure' is printed information about the airline or the destination, not a travel document. -->
+- [ ] A) clear
+  <!-- feedback: 'Clear' is the base form and cannot express a comparison. -->
+- [ ] B) most clear
+  <!-- feedback: 'Most clear' mixes the two systems of comparison. -->
+- [x] C) clearer
+  <!-- feedback: Correct! 'Clearer' is the comparative of a short adjective ending in a consonant plus a silent 'e'. -->
+- [ ] D) clearlier
+  <!-- feedback: 'Clearlier' is not a word in English. -->
 
 ### Explicacion Pedagogica
-The word 'boarding pass' is used to describe a document provided by an airline during check-in, giving a passenger permission to board the airplane. This is an important vocabulary word in English.
+The doubling of the final consonant, as in 'bigger', follows the general pattern for short adjectives.
 ---
-## Question 8 [D6]
+## Question 4 [D3]
+**ID:** HN-ING-11-2026-W28-comparatives-001-MASTERY-bundle-v4
+**Bloom:** Apply
+**EJE:** Gramatica
+**Expected_Success:** 0.80
+**Contexto:** A reader summarises the parts of a long novel.
+
+### Enunciado
+The last chapter is the ____ of the whole book.
+
+### Opciones
+- [ ] A) more interesting
+  <!-- feedback: 'More interesting' is the comparative and compares two things only. -->
+- [ ] B) interestinger
+  <!-- feedback: 'Interestinger' is not a valid form; the system for this adjective uses 'more' and 'most'. -->
+- [ ] C) interesting
+  <!-- feedback: 'Interesting' is the base form and makes no comparison. -->
+- [x] D) most interesting
+  <!-- feedback: Correct! The superlative of a long adjective is built with 'most' before the base form. -->
+
+### Explicacion Pedagogica
+The 'most' superlative compares a single item with the rest of a group, which is what a whole book offers.
+---
+## Question 5 [D3]
+**ID:** HN-ING-11-2026-W28-comparatives-001-MASTERY-bundle-v5
+**Bloom:** Apply
+**EJE:** Gramatica
+**Expected_Success:** 0.80
+**Contexto:** A driver compares two ways of reaching a town centre during rush hour.
+
+### Enunciado
+This route is ____ than the main road because it avoids the traffic.
+
+### Opciones
+- [x] A) more direct
+  <!-- feedback: Correct! 'More direct' is the comparative of a long adjective, and 'than' signals the comparison. -->
+- [ ] B) most direct
+  <!-- feedback: 'Most direct' is the superlative and would compare three or more routes. -->
+- [ ] C) directer
+  <!-- feedback: 'Directer' is not a valid form; this adjective takes 'more' and 'most'. -->
+- [ ] D) the directest
+  <!-- feedback: 'The directest' is not a standard English form. -->
+
+### Explicacion Pedagogica
+Multi-syllable adjectives are compared with 'more' and 'most' and never with '-er'.
+---
+## Question 6 [D3]
+**ID:** HN-ING-11-2026-W28-comparatives-001-MASTERY-bundle-v6
+**Bloom:** Apply
+**EJE:** Gramatica
+**Expected_Success:** 0.80
+**Contexto:** A statistics class compares the size of two cities in a country.
+
+### Enunciado
+The population of the capital is ____ than that of the second city.
+
+### Opciones
+- [ ] A) large
+  <!-- feedback: 'Large' is the base form and cannot compare two populations. -->
+- [x] B) larger
+  <!-- feedback: Correct! 'Larger' is the comparative of a short adjective and agrees with the singular subject in meaning. -->
+- [ ] C) largest
+  <!-- feedback: 'Largest' is the superlative and would compare more than two cities. -->
+- [ ] D) more large
+  <!-- feedback: 'More large' mixes the systems of comparison and is not correct. -->
+
+### Explicacion Pedagogica
+The comparative form is determined by the length of the adjective, not by the length of the noun it describes.
+---
+## Question 7 [D4]
+**ID:** HN-ING-11-2026-W28-comparatives-001-MASTERY-bundle-v7
+**Bloom:** Analyze
+**EJE:** Gramatica
+**Expected_Success:** 0.80
+**Contexto:** A student compares the difficulty of two examinations of the same course.
+
+### Enunciado
+The final exam was ____ as the one we took last year.
+
+### Opciones
+- [ ] A) more difficult
+  <!-- feedback: 'More difficult' belongs to the comparative system with 'than', not to a comparison of equality. -->
+- [ ] B) difficulter
+  <!-- feedback: 'Difficulter' is not a valid comparative of this adjective. -->
+- [x] C) difficult
+  <!-- feedback: Correct! 'As ... as' builds the comparison of equality, so the base form is used on both sides. -->
+- [ ] D) most difficult
+  <!-- feedback: 'Most difficult' is the superlative and compares more than two examinations. -->
+
+### Explicacion Pedagogica
+In the structure 'as ... as', the adjective keeps its base form. The third form, 'not as ... as', inverts the comparison.
+---
+## Question 8 [D4]
 **ID:** HN-ING-11-2026-W28-comparatives-001-MASTERY-bundle-v8
 **Bloom:** Apply
-**EJE:** Lexico
+**EJE:** Gramatica
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** A commuter compares the number of daily services on two urban routes.
 
 ### Enunciado
-What is the English word for: "The activity of visiting places of interest in a particular location."
+This bus route is not as ____ as the direct service to the airport.
 
 ### Opciones
-- [x] D) sightseeing
-  <!-- feedback: Correct! 'sightseeing' is the activity of visiting the places of interest of a location. -->
-- [ ] A) shopping
-  <!-- feedback: 'shopping' is buying things in stores, not the general activity of visiting a place's sights. -->
-- [ ] B) hiking
-  <!-- feedback: 'hiking' is one specific outdoor walk in nature, only one kind of activity out of many. -->
-- [ ] C) camping
-  <!-- feedback: 'camping' means staying outdoors in a tent, which is not what a visitor does in a city or landmark. -->
+- [ ] A) more frequent
+  <!-- feedback: 'More frequent' belongs to a 'than' comparison and does not fit this structure. -->
+- [ ] B) frequenter
+  <!-- feedback: 'Frequenter' is not a valid comparative of this adjective. -->
+- [ ] C) most frequent
+  <!-- feedback: 'Most frequent' is the superlative and compares more than two services. -->
+- [x] D) frequent
+  <!-- feedback: Correct! The negative comparison 'not as ... as' keeps the base form of the adjective. -->
 
 ### Explicacion Pedagogica
-The word 'sightseeing' is used to describe the activity of visiting places of interest in a particular location. This is an important vocabulary word in English.
+The double structure 'not as ... as' expresses that the first item is less than the second.
 ---
-## Question 9 [D5]
+## Question 9 [D4]
 **ID:** HN-ING-11-2026-W28-comparatives-001-MASTERY-bundle-v9
-**Bloom:** Apply
-**EJE:** Lexico
+**Bloom:** Analyze
+**EJE:** Gramatica
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** A shopper compares three coats in a market stall.
 
 ### Enunciado
-What is the English word for: "A thing that is kept as a reminder of a person, place, or event."
+The blue jacket is ____ of the three coats on the table.
 
 ### Opciones
-- [x] C) souvenir
-  <!-- feedback: Correct! A 'souvenir' is the object that is kept as a reminder of a person, place or event. -->
-- [ ] A) gift
-  <!-- feedback: a 'gift' is something given to someone, but it is not necessarily kept as a reminder of a place or an event. -->
-- [ ] B) award
-  <!-- feedback: an 'award' is an honour granted by an institution for merit, not a keepsake. -->
-- [ ] D) prize
-  <!-- feedback: a 'prize' is the reward of a competition; the definition describes an object kept as a memento. -->
+- [x] A) the cheapest
+  <!-- feedback: Correct! 'The cheapest' is the superlative used with 'of' to name the group being compared. -->
+- [ ] B) the cheaper
+  <!-- feedback: 'The cheaper' is a comparative and needs 'than', not 'of'. -->
+- [ ] C) cheaper
+  <!-- feedback: 'Cheaper' on its own is a comparative and would also need 'than'. -->
+- [ ] D) more cheap
+  <!-- feedback: 'More cheap' is not a possible form in English. -->
 
 ### Explicacion Pedagogica
-The word 'souvenir' is used to describe a thing that is kept as a reminder of a person, place, or event. This is an important vocabulary word in English.
+The superlative is followed by 'of' plus the group, and the definite article is required because the group is identified.
 ---
-## Question 10 [D6]
+## Question 10 [D4]
 **ID:** HN-ING-11-2026-W28-comparatives-001-MASTERY-bundle-v10
-**Bloom:** Apply
-**EJE:** Lexico
+**Bloom:** Analyze
+**EJE:** Gramatica
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** A teacher compares two pieces of writing produced in the same course.
 
 ### Enunciado
-What is the English word for: "A period of time by which something is late or postponed."
+The second essay was ____ than the first one, despite the shorter deadline.
 
 ### Opciones
-- [x] B) delay
-  <!-- feedback: Correct! A 'delay' is the extra period of time by which something ends up late or postponed. -->
-- [ ] A) cancellation
-  <!-- feedback: a 'cancellation' means the trip or event will not happen at all, not that it happens later. -->
-- [ ] C) departure
-  <!-- feedback: 'departure' is simply the moment of leaving, which can be perfectly punctual. -->
-- [ ] D) arrival
-  <!-- feedback: 'arrival' is the moment of reaching the place, and it says nothing about being late. -->
+- [ ] A) much good
+  <!-- feedback: 'Much good' is not a comparative; the adjective would need '-er'. -->
+- [x] B) much better
+  <!-- feedback: Correct! 'Much better' intensifies a comparative form and 'than' marks the comparison. -->
+- [ ] C) much the best
+  <!-- feedback: 'Much the best' would be a superlative, and the sentence compares only two essays. -->
+- [ ] D) as better
+  <!-- feedback: 'As better' is not a possible form; equality uses 'as ... as'. -->
 
 ### Explicacion Pedagogica
-The word 'delay' is used to describe a period of time by which something is late or postponed. This is an important vocabulary word in English.
+An intensifier modifies the comparative, not the base form. 'Better' is irregular and takes no ending.
 ---
-## Question 11 [D7]
+## Question 11 [D3]
 **ID:** HN-ING-11-2026-W28-comparatives-001-MASTERY-bundle-v11
 **Bloom:** Apply
-**EJE:** Lexico
+**EJE:** Gramatica
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** A person checks the weather before a family outing.
 
 ### Enunciado
-What is the English word for: "The act of reporting one's presence and registering, typically at an airport or hotel."
+The temperature today is ____ than yesterday, so we can walk to the park.
 
 ### Opciones
-- [x] D) check-in
-  <!-- feedback: Correct! 'Check-in' is the act of reporting your presence and registering at an airport or hotel counter. -->
-- [ ] A) check-out
-  <!-- feedback: 'check-out' is the opposite moment, when you pay and hand the room key back before leaving. -->
-- [ ] B) booking
-  <!-- feedback: 'booking' is the reservation made beforehand; check-in is what you do on arrival. -->
-- [ ] C) reservation
-  <!-- feedback: a 'reservation' is the earlier record of your booking, not the act of registering your presence. -->
+- [ ] A) high
+  <!-- feedback: 'High' is the base form and cannot compare two readings. -->
+- [ ] B) highest
+  <!-- feedback: 'Highest' is the superlative and would compare more than two days. -->
+- [x] C) higher
+  <!-- feedback: Correct! 'Higher' is the comparative of a short adjective and it agrees with the singular subject. -->
+- [ ] D) more high
+  <!-- feedback: 'More high' mixes the two comparison systems. -->
 
 ### Explicacion Pedagogica
-The word 'check-in' is used to describe the act of reporting one's presence and registering, typically at an airport or hotel. This is an important vocabulary word in English.
+Irregular degrees such as 'good', 'bad', 'far' and 'many' form comparatives without an ending, while regular short adjectives add '-er'.
 ---
-## Question 12 [D8]
+## Question 12 [D3]
 **ID:** HN-ING-11-2026-W28-comparatives-001-MASTERY-bundle-v12
 **Bloom:** Apply
-**EJE:** Lexico
+**EJE:** Gramatica
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** A visitor asks for the biggest hall of a university for a conference.
 
 ### Enunciado
-What is the English word for: "A period of rest or waiting before a further stage in a journey."
+The lecture hall is the ____ building on the university campus.
 
 ### Opciones
-- [x] C) layover
-  <!-- feedback: Correct! A 'layover' is a period of rest or waiting between two further stages of a journey. -->
-- [ ] A) stopover
-  <!-- feedback: 'stopover' is used mainly for trains and usually for a longer, often overnight, break on a rail journey. -->
-- [ ] B) transfer
-  <!-- feedback: a 'transfer' is the change from one vehicle or flight to another, not the pause itself. -->
-- [ ] D) transit
-  <!-- feedback: 'transit' means the action of passing through a place, with no idea of resting between stages. -->
+- [ ] A) larger
+  <!-- feedback: 'Larger' is a comparative and would need 'than'. -->
+- [ ] B) more large
+  <!-- feedback: 'More large' is not a valid form of this adjective. -->
+- [ ] C) large
+  <!-- feedback: 'Large' is the base form and makes no comparison at all. -->
+- [x] D) largest
+  <!-- feedback: Correct! 'The largest' is the superlative followed by 'of' plus the group of buildings. -->
 
 ### Explicacion Pedagogica
-The word 'layover' is used to describe a period of rest or waiting before a further stage in a journey. This is an important vocabulary word in English.
+The superlative compares one member with the rest of a group, and the group is named after 'of'.
 ---
-## Question 13 [D7]
+## Question 13 [D4]
 **ID:** HN-ING-11-2026-W28-comparatives-001-MASTERY-bundle-v13
 **Bloom:** Analyze
-**EJE:** Lexico
+**EJE:** Gramatica
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** A student compares her journey to school by two different means of transport.
 
 ### Enunciado
-What is the English word for: "A system of money in general use in a particular country."
+Walking to school takes her ____ time than taking the bus.
 
 ### Opciones
-- [x] C) currency
-  <!-- feedback: Correct! 'Currency' is the money system in general use in a particular country. -->
-- [ ] A) coin
-  <!-- feedback: a 'coin' is one single piece of money, not the whole system used in the country. -->
-- [ ] B) banknote
-  <!-- feedback: a 'banknote' is one single paper note of that system, not the system itself. -->
-- [ ] D) cash
-  <!-- feedback: 'cash' means money in coins and notes in general, not the specific monetary system of a country. -->
+- [x] A) less
+  <!-- feedback: Correct! 'Less' is the comparative of the adjective 'little' and it is followed by a noun here. -->
+- [ ] B) lesser
+  <!-- feedback: 'Lesser' is a word, but it is not the comparative used before a noun in this sense. -->
+- [ ] C) least
+  <!-- feedback: 'Least' is the superlative and would compare more than two options. -->
+- [ ] D) more less
+  <!-- feedback: 'More less' is not a possible form in English. -->
 
 ### Explicacion Pedagogica
-The word 'currency' is used to describe a system of money in general use in a particular country. This is an important vocabulary word in English.
+'Less' plus a noun expresses a smaller quantity, and the word 'than' marks the comparison with the alternative.
 ---
-## Question 14 [D8]
+## Question 14 [D5]
 **ID:** HN-ING-11-2026-W28-comparatives-001-MASTERY-bundle-v14
 **Bloom:** Analyze
-**EJE:** Lexico
+**EJE:** Gramatica
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** A cinema regular comments on the quality of two films of the same genre.
 
 ### Enunciado
-What is the English word for: "A book of information about a place designed for the use of visitors or tourists."
+The film was ____ directed than the one we saw last month.
 
 ### Opciones
-- [x] D) guidebook
-  <!-- feedback: Correct! A 'guidebook' is a book of information about a place written for the use of visitors and tourists. -->
-- [ ] A) map
-  <!-- feedback: a 'map' shows the layout of streets and places, but it is a drawing rather than a book of information. -->
-- [ ] B) dictionary
-  <!-- feedback: a 'dictionary' gives the meaning of words, not details about a destination for travellers. -->
-- [ ] C) encyclopedia
-  <!-- feedback: an encyclopedia covers all branches of knowledge rather than one particular place for visitors. -->
+- [ ] A) badly
+  <!-- feedback: 'Worse' is the comparative of the adjective 'bad', not of the adverb 'badly'. -->
+- [x] B) worse
+  <!-- feedback: Correct! The adverb 'badly' has the comparative 'worse', which is an irregular form. -->
+- [ ] C) worst
+  <!-- feedback: 'Worst' is the superlative, and the sentence compares only two films. -->
+- [ ] D) more badly
+  <!-- feedback: 'More badly' is not a possible form in English. -->
 
 ### Explicacion Pedagogica
-The word 'guidebook' is used to describe a book of information about a place designed for the use of visitors or tourists. This is an important vocabulary word in English.
+Adverbs form comparatives with the irregular set too: 'well' becomes 'better' and 'badly' becomes 'worse'.
 ---
-## Question 15 [D7]
+## Question 15 [D4]
 **ID:** HN-ING-11-2026-W28-comparatives-001-MASTERY-bundle-v15
-**Bloom:** Analyze
-**EJE:** Lexico
+**Bloom:** Apply
+**EJE:** Gramatica
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** A student compares two school facilities in neighbouring towns.
 
 ### Enunciado
-What is the English word for: "A bag with shoulder straps that allow it to be carried on one's back."
+Our school library is ____ than the one in the neighbouring town.
 
 ### Opciones
-- [x] D) backpack
-  <!-- feedback: Correct! A 'backpack' has shoulder straps and is designed to be carried on one's back. -->
-- [ ] A) suitcase
-  <!-- feedback: a 'suitcase' is dragged by a handle beside the body; it has no shoulder straps. -->
-- [ ] B) briefcase
-  <!-- feedback: a 'briefcase' is a case for documents and a laptop that is carried in the hand. -->
-- [ ] C) handbag
-  <!-- feedback: a 'handbag' is a small bag held in the hand, not carried on the back. -->
+- [ ] A) far most spacious
+  <!-- feedback: 'Far most spacious' would be a superlative, and the sentence compares two libraries. -->
+- [ ] B) far spaciouser
+  <!-- feedback: 'Far spaciouser' is not a valid form of this adjective. -->
+- [x] C) far more spacious
+  <!-- feedback: Correct! 'Far' intensifies the comparative 'more spacious', which is the correct long form. -->
+- [ ] D) more far spacious
+  <!-- feedback: 'More far spacious' mixes the intensifier and the comparison system. -->
 
 ### Explicacion Pedagogica
-The word 'backpack' is used to describe a bag with shoulder straps that allow it to be carried on one's back. This is an important vocabulary word in English.
+Intensifiers such as 'far', 'much' and 'considerably' can be placed before a comparative to show a large difference.
 ---
-## Question 16 [D8]
+## Question 16 [D4]
 **ID:** HN-ING-11-2026-W28-comparatives-001-MASTERY-bundle-v16
-**Bloom:** Analyze
-**EJE:** Lexico
+**Bloom:** Apply
+**EJE:** Gramatica
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** A student compares the prices of food sold in two places near the school.
 
 ### Enunciado
-What is the English word for: "In or to a foreign country, especially one across the sea."
+The food in the school canteen is ____ than what is sold in the park kiosks.
 
 ### Opciones
-- [x] A) overseas
-  <!-- feedback: Correct! 'Overseas' means in or to a foreign country, especially one reached across the sea. -->
-- [ ] B) domestic
-  <!-- feedback: 'domestic' means inside the same country, which is the opposite of overseas. -->
-- [ ] C) local
-  <!-- feedback: 'local' means belonging to the area where you already are, again the opposite meaning. -->
-- [ ] D) national
-  <!-- feedback: 'national' refers to the nation as a whole, but it does not mean being abroad. -->
+- [ ] A) far most expensive
+  <!-- feedback: 'Far most expensive' is a superlative and the sentence compares only two sellers. -->
+- [ ] B) far expensiver
+  <!-- feedback: 'Far expensiver' is not a valid form of this adjective. -->
+- [ ] C) the most expensive
+  <!-- feedback: 'The most expensive' is a superlative and would need 'of' plus a group. -->
+- [x] D) far more expensive
+  <!-- feedback: Correct! 'Far more expensive' is a comparative with an intensifier, and 'than' marks the comparison. -->
 
 ### Explicacion Pedagogica
-The word 'overseas' is used to describe in or to a foreign country, especially one across the sea. This is an important vocabulary word in English.
+A long adjective takes 'more' in the comparative, and the intensifier goes in front of that whole form.
 ---
-## Question 17 [D9]
+## Question 17 [D4]
 **ID:** HN-ING-11-2026-W28-comparatives-001-MASTERY-bundle-v17
-**Bloom:** Evaluate
-**EJE:** Lexico
+**Bloom:** Analyze
+**EJE:** Gramatica
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** A planner considers two possible routes between two towns.
 
 ### Enunciado
-What is the English word for: "An estimate of income and expenditure for a set period of time."
+Of the two routes, the coastal one is ____ because it avoids the mountain pass.
 
 ### Opciones
-- [x] D) budget
-  <!-- feedback: Correct! A 'budget' is an estimate of income and expenditure planned for a set period of time. -->
-- [ ] A) expense
-  <!-- feedback: an 'expense' is a single cost; a budget gathers all income and spending over a period. -->
-- [ ] B) cost
-  <!-- feedback: 'cost' is the amount paid for one thing, not an estimate for a whole period. -->
-- [ ] C) price
-  <!-- feedback: 'price' is the figure written on a product, not a plan of income and expenditure. -->
+- [x] A) the most practical
+  <!-- feedback: Correct! 'The most practical' is the superlative used with 'of' to name the pair being compared. -->
+- [ ] B) more practical
+  <!-- feedback: 'More practical' is the comparative and would need 'than'. -->
+- [ ] C) practicaler
+  <!-- feedback: 'Practicaler' is not a valid form of this adjective. -->
+- [ ] D) practically
+  <!-- feedback: 'Practically' is an adverb and cannot be the adjective in this comparison. -->
 
 ### Explicacion Pedagogica
-The word 'budget' is used to describe an estimate of income and expenditure for a set period of time. This is an important vocabulary word in English.
+Even with only two items a superlative can be used after 'of', and here it emphasises which one is the best option.
 ---
-## Question 18 [D10]
+## Question 18 [D5]
 **ID:** HN-ING-11-2026-W28-comparatives-001-MASTERY-bundle-v18
-**Bloom:** Evaluate
-**EJE:** Lexico
+**Bloom:** Analyze
+**EJE:** Gramatica
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** A research group compares the evidence obtained in two experiments.
 
 ### Enunciado
-What is the English word for: "A practice or arrangement by which a company or government agency provides a guarantee of compensation for specified loss, damage, illness, or death in return for payment of a premium."
+The results of the first trial were ____ than those of the second trial.
 
 ### Opciones
-- [x] B) insurance
-  <!-- feedback: Correct! 'Insurance' is the arrangement by which a company or agency guarantees compensation for specified loss, damage, illness or death in return for a premium. -->
-- [ ] A) warranty
-  <!-- feedback: a 'warranty' is the maker's guarantee of a product, normally for a short period and against defects only. -->
-- [ ] C) guarantee
-  <!-- feedback: a 'guarantee' is the promise itself, without the payment of a premium that defines an insurance arrangement. -->
-- [ ] D) policy
-  <!-- feedback: a 'policy' is the written document of the contract, not the practice of insuring itself. -->
+- [ ] A) less conclusive than
+  <!-- feedback: 'Less conclusive than' would duplicate the 'than' that the sentence already has. -->
+- [x] B) less conclusive
+  <!-- feedback: Correct! 'Less conclusive' is the comparative of a long adjective and 'than' already appears in the sentence. -->
+- [ ] C) least conclusive
+  <!-- feedback: 'Least conclusive' is the superlative and would compare more than two sets of results. -->
+- [ ] D) conclusiver
+  <!-- feedback: 'Conclusiver' is not a valid comparative of this adjective. -->
 
 ### Explicacion Pedagogica
-The word 'insurance' is used to describe a practice or arrangement by which a company or government agency provides a guarantee of compensation for specified loss, damage, illness, or death in return for payment of a premium. This is an important vocabulary word in English.
+The comparative of a long adjective is formed with 'less' and does not take any ending on the adjective itself.
 ---
-## Question 19 [D9]
+## Question 19 [D5]
 **ID:** HN-ING-11-2026-W28-comparatives-001-MASTERY-bundle-v19
 **Bloom:** Evaluate
-**EJE:** Lexico
+**EJE:** Gramatica
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Travellers choose between two ways of reaching a capital city within a fixed time.
 
 ### Enunciado
-What is the English word for: "Treatment with a vaccine to produce immunity against a disease."
+The train is ____ than the bus for reaching the capital before noon.
 
 ### Opciones
-- [x] C) vaccination
-  <!-- feedback: Correct! 'Vaccination' is the treatment with a vaccine that produces immunity against a disease. -->
-- [ ] A) medication
-  <!-- feedback: 'medication' treats the symptoms of a disease; it does not create immunity against it. -->
-- [ ] B) prescription
-  <!-- feedback: a 'prescription' is the doctor's written order for a medicine, not the vaccine treatment itself. -->
-- [ ] D) infection
-  <!-- feedback: an 'infection' is the invasion of the body by a pathogen, the opposite of being protected against disease. -->
+- [ ] A) by far fastest
+  <!-- feedback: 'By far fastest' omits the article, which the superlative needs here. -->
+- [ ] B) by far more fast
+  <!-- feedback: 'By far more fast' mixes the intensifier with a comparative that already needs a 'than' clause. -->
+- [x] C) by far the fastest
+  <!-- feedback: Correct! 'By far the fastest' is a superlative with the intensifier 'by far' before the definite article. -->
+- [ ] D) far the faster
+  <!-- feedback: 'Far the faster' would be a comparative and would need 'than', not a noun after 'of'. -->
 
 ### Explicacion Pedagogica
-The word 'vaccination' is used to describe treatment with a vaccine to produce immunity against a disease. This is an important vocabulary word in English.
+'By far' is the intensifier that goes before the superlative, and the pattern 'by far the' is fixed in English.
 ---
-## Question 20 [D10]
+## Question 20 [D4]
 **ID:** HN-ING-11-2026-W28-comparatives-001-MASTERY-bundle-v20
 **Bloom:** Evaluate
-**EJE:** Lexico
+**EJE:** Gramatica
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** A department compares the difficulty of two versions of a study programme.
 
 ### Enunciado
-What is the English word for: "Extreme tiredness and other physical effects felt by a person after a long flight across several time zones."
+The new syllabus is ____ as challenging as the previous one.
 
 ### Opciones
-- [x] A) jet lag
-  <!-- feedback: Correct! 'Jet lag' is the extreme tiredness and other physical effects felt after a long flight across several time zones. -->
-- [ ] B) fatigue
-  <!-- feedback: 'fatigue' is tiredness from any cause, such as a lack of sleep or effort, not specifically from time zones. -->
-- [ ] C) exhaustion
-  <!-- feedback: 'exhaustion' is a total lack of energy from any cause, more general and more severe than the effect of crossing time zones. -->
-- [ ] D) insomnia
-  <!-- feedback: 'insomnia' is the difficulty of falling or staying asleep, only one symptom and not the whole set of effects after a long flight. -->
+- [ ] A) more
+  <!-- feedback: 'More' belongs to a 'than' comparison, which this sentence does not have. -->
+- [ ] B) most
+  <!-- feedback: 'Most' would be a superlative and would compare more than two syllabuses. -->
+- [ ] C) the most
+  <!-- feedback: 'The most' is a superlative form and cannot be used in a comparison of equality. -->
+- [x] D) just
+  <!-- feedback: Correct! 'Just as ... as' is the emphatic form of 'as ... as' and it compares two items as equal. -->
 
 ### Explicacion Pedagogica
-The word 'jet lag' is used to describe extreme tiredness and other physical effects felt by a person after a long flight across several time zones. This is an important vocabulary word in English.
+'Just as' strengthens the statement of equality, and the adjective keeps its base form in both halves of the structure.
+---

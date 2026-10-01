@@ -20,463 +20,464 @@ bundle_index: 1
 # MASTERY Bundle - Ingles: Argument Structure Identification (W17)
 **20 preguntas | Ingles | Curriculo de Ingles**
 
+
 ---
 ## Question 1 [D3]
-**ID:** CR-ING-11-2026-W17-argument-structure-identification-001-MASTERY-bundle-v1
-**Bloom:** Remember
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
-
-### Enunciado
-What is the English word for: "A place where you live or stay on holiday."
-
-### Opciones
-- [x] C) accommodation
-  <!-- feedback: Correct! 'Accommodation' is the word for a place where you live or stay temporarily while you are away from home. -->
-- [ ] A) transportation
-  <!-- feedback: Wrong. 'Transportation' names the way you travel, such as buses, trains or planes, not the place where you stay. -->
-- [ ] B) entertainment
-  <!-- feedback: Wrong. 'Entertainment' is the activity of enjoying shows, films or games, not a place where you sleep. -->
-- [ ] D) currency
-  <!-- feedback: Wrong. 'Currency' is the money used in a country, which has nothing to do with lodging. -->
-
-### Explicacion Pedagogica
-The word 'accommodation' is used to describe a place where you live or stay on holiday. This is an important vocabulary word in English.
----
-## Question 2 [D4]
-**ID:** CR-ING-11-2026-W17-argument-structure-identification-001-MASTERY-bundle-v2
-**Bloom:** Remember
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
-
-### Enunciado
-What is the English word for: "A detailed plan or route of a journey."
-
-### Opciones
-- [x] D) itinerary
-  <!-- feedback: Correct! An 'itinerary' is the planned route of a journey together with the places and times along the way. -->
-- [ ] A) baggage
-  <!-- feedback: Wrong. 'Baggage' is the suitcases and bags themselves, not the plan of the trip. -->
-- [ ] B) destination
-  <!-- feedback: Wrong. A 'destination' is only the place where the journey ends, while an itinerary lists the whole route. -->
-- [ ] C) passport
-  <!-- feedback: Wrong. A 'passport' is the travel document that proves who you are, not the plan of the journey. -->
-
-### Explicacion Pedagogica
-The word 'itinerary' is used to describe a detailed plan or route of a journey. This is an important vocabulary word in English.
----
-## Question 3 [D3]
-**ID:** CR-ING-11-2026-W17-argument-structure-identification-001-MASTERY-bundle-v3
+**ID:** CR-ING-11-2026-W17-argument-structure-identification-v1
 **Bloom:** Understand
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**EJE:** Reading Comprehension
+**Expected_Success:** 0.85
+**Contexto:** Argument: 'Public libraries should stay open in every district, because people without transport cannot reach the ones that remain.'
 
 ### Enunciado
-What is the English word for: "The place to which someone or something is going or being sent."
+Which part of the argument is the claim?
 
 ### Opciones
-- [x] C) destination
-  <!-- feedback: Correct! A 'destination' is the place someone or something is going to or being sent to. -->
-- [ ] A) departure
-  <!-- feedback: Wrong. A 'departure' is the act of leaving and the place you leave from, the opposite end of the trip. -->
-- [ ] B) arrival
-  <!-- feedback: Wrong. An 'arrival' is the event of getting there, not the place that is being travelled to. -->
-- [ ] D) journey
-  <!-- feedback: Wrong. A 'journey' is the whole trip from start to finish, not the place at the end of it. -->
+- [x] C) That public libraries should stay open in every district
+  <!-- feedback: The clause before 'because' states the position the writer wants the reader to accept, which is the claim. -->
+- [ ] D) That people without transport cannot reach distant libraries
+  <!-- feedback: The clause after 'because' supports the claim rather than being it. -->
+- [ ] A) That some libraries must close
+  <!-- feedback: No part of the argument proposes closing libraries. -->
+- [ ] B) That transport in the district is limited
+  <!-- feedback: Transport is a premise about access, not the central proposal. -->
 
 ### Explicacion Pedagogica
-The word 'destination' is used to describe the place to which someone or something is going or being sent. This is an important vocabulary word in English.
+A simple argument has one claim and at least one reason, and the connective 'because' is the boundary between them. Learning to see that boundary is the foundation of argument analysis.
+---
+## Question 2 [D3]
+**ID:** CR-ING-11-2026-W17-argument-structure-identification-v2
+**Bloom:** Apply
+**EJE:** Reading Comprehension
+**Expected_Success:** 0.85
+**Contexto:** Argument: 'Traffic in the capital fell by a fifth after the cycle lane was built. Therefore, more cycle lanes will continue to reduce congestion.'
+
+### Enunciado
+What is the type of reasoning used?
+
+### Opciones
+- [x] A) A prediction based on a previous outcome
+  <!-- feedback: The writer projects a past result into the future, which is a prediction drawn from an observed outcome. -->
+- [ ] B) A comparison between two unrelated cases
+  <!-- feedback: The two situations are linked by the writer's claim rather than being unrelated. -->
+- [ ] C) An appeal to an authority
+  <!-- feedback: No expert or official is quoted as the source of the reasoning. -->
+- [ ] D) A definition of the word congestion
+  <!-- feedback: No definition of the term appears in the argument. -->
+
+### Explicacion Pedagogica
+Arguments can be causal, predictive, comparative or analogical. Naming the type tells the reader what kind of evidence would support or weaken it.
+---
+## Question 3 [D4]
+**ID:** CR-ING-11-2026-W17-argument-structure-identification-v3
+**Bloom:** Analyze
+**EJE:** Reading Comprehension
+**Expected_Success:** 0.8
+**Contexto:** Argument: 'No other country in the region has such a high proportion of forest cover. Therefore, the country should be proud of this achievement.'
+
+### Enunciado
+What is the weakness in this argument?
+
+### Opciones
+- [x] C) The conclusion about pride does not follow from a comparison of forest cover
+  <!-- feedback: A relative ranking in one measure establishes a fact, not a conclusion about what the country should feel. -->
+- [ ] D) The comparison of forest cover is false
+  <!-- feedback: The text presents the comparison as accurate, and its truth is not the problem. -->
+- [ ] A) The argument is circular because it repeats the claim
+  <!-- feedback: There is no repetition of the claim, so the argument is not circular. -->
+- [ ] B) The word 'therefore' is used in the wrong sentence
+  <!-- feedback: The connector is used correctly; the defect lies in the leap from fact to recommendation. -->
+
+### Explicacion Pedagogica
+The commonest weakness in a short argument is a gap between what is established and what is concluded. Naming that gap is more useful than dismissing the whole argument.
 ---
 ## Question 4 [D4]
-**ID:** CR-ING-11-2026-W17-argument-structure-identification-001-MASTERY-bundle-v4
+**ID:** CR-ING-11-2026-W17-argument-structure-identification-v4
 **Bloom:** Understand
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**EJE:** Reading Comprehension
+**Expected_Success:** 0.8
+**Contexto:** Argument: 'Cars emit more carbon dioxide per passenger than buses. Since buses carry more people per kilometre, replacing cars with buses would reduce emissions.'
 
 ### Enunciado
-What is the English word for: "Suitcases or other bags in which to pack personal belongings for traveling."
+Which premise supports the conclusion?
 
 ### Opciones
-- [x] D) luggage
-  <!-- feedback: Correct! 'Luggage' is the collective word for the suitcases and bags you pack your belongings in. -->
-- [ ] A) ticket
-  <!-- feedback: Wrong. A 'ticket' is the document that pays for and authorises a journey, not the bag you pack. -->
-- [ ] B) flight
-  <!-- feedback: Wrong. A 'flight' is the journey by plane itself, not the bags carried on it. -->
-- [ ] C) reservation
-  <!-- feedback: Wrong. A 'reservation' is the booking you make for a seat or a room, not the baggage itself. -->
+- [x] A) That buses carry more passengers per kilometre than cars
+  <!-- feedback: The conclusion depends on the number of passengers carried, which is the premise that does the work. -->
+- [ ] B) That buses are cheaper to operate
+  <!-- feedback: Cost is not mentioned and does not bear on emissions. -->
+- [ ] C) That people prefer buses to cars
+  <!-- feedback: Preference is not part of the reasoning. -->
+- [ ] D) That emissions are measured in grams per kilometre
+  <!-- feedback: The unit of measurement explains the figures but does not support the conclusion. -->
 
 ### Explicacion Pedagogica
-The word 'luggage' is used to describe suitcases or other bags in which to pack personal belongings for traveling. This is an important vocabulary word in English.
+In a chain of reasoning only some premises do the work. Identifying which ones connect the facts to the conclusion is what distinguishes a valid argument from a decoration of facts.
 ---
-## Question 5 [D5]
-**ID:** CR-ING-11-2026-W17-argument-structure-identification-001-MASTERY-bundle-v5
-**Bloom:** Understand
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+## Question 5 [D4]
+**ID:** CR-ING-11-2026-W17-argument-structure-identification-v5
+**Bloom:** Evaluate
+**EJE:** Reading Comprehension
+**Expected_Success:** 0.8
+**Contexto:** Argument: 'The policy failed in two schools. The other schools improved, so the policy is effective.'
 
 ### Enunciado
-What is the English word for: "A traveler on a public or private conveyance other than the driver, pilot, or crew."
+What problem does this argument have?
 
 ### Opciones
-- [x] C) passenger
-  <!-- feedback: Correct! A 'passenger' is anyone travelling in a vehicle who is not the one driving or piloting it. -->
-- [ ] A) pedestrian
-  <!-- feedback: Wrong. A 'pedestrian' travels on foot, so they are not aboard any conveyance at all. -->
-- [ ] B) commuter
-  <!-- feedback: Wrong. A 'commuter' is defined by making the same trip regularly to work or school, not by being a passenger in general. -->
-- [ ] D) tourist
-  <!-- feedback: Wrong. A 'tourist' is defined by travelling for pleasure, not simply by riding in a vehicle. -->
+- [x] B) The cases where it failed are set aside while the successes are generalised
+  <!-- feedback: Drawing a general conclusion while excluding the failures is selective use of evidence. -->
+- [ ] C) The argument is circular
+  <!-- feedback: Nothing in the argument repeats the claim, so it is not circular. -->
+- [ ] D) The argument relies on an appeal to authority
+  <!-- feedback: No authority is invoked anywhere in the passage. -->
+- [ ] A) The argument is too short to be assessed
+  <!-- feedback: Argument length has no bearing on whether the reasoning is sound. -->
 
 ### Explicacion Pedagogica
-The word 'passenger' is used to describe a traveler on a public or private conveyance other than the driver, pilot, or crew. This is an important vocabulary word in English.
+Weighing evidence means giving the cases that count against a conclusion the same attention as those that support it. This item isolates that principle in its clearest possible form.
 ---
-## Question 6 [D6]
-**ID:** CR-ING-11-2026-W17-argument-structure-identification-001-MASTERY-bundle-v6
-**Bloom:** Understand
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+## Question 6 [D5]
+**ID:** CR-ING-11-2026-W17-argument-structure-identification-v6
+**Bloom:** Analyze
+**EJE:** Reading Comprehension
+**Expected_Success:** 0.8
+**Contexto:** Argument: 'A bus fare of five hundred colones is affordable for most people in the region. The average weekly income in the region is thirty thousand colones.'
 
 ### Enunciado
-What is the English word for: "The place at a port, airport, or frontier where officials check incoming goods, travelers, or luggage."
+How does this argument use the second sentence?
 
 ### Opciones
-- [x] A) customs
-  <!-- feedback: Correct! 'Customs' is the office where officials check the goods and the people coming in from abroad. -->
-- [ ] B) security
-  <!-- feedback: Wrong. 'Security' is the police or staff who keep order, while customs staff collect duties on goods. -->
-- [ ] C) terminal
-  <!-- feedback: Wrong. A 'terminal' is the building where you arrive or depart, not the office that checks imports. -->
-- [ ] D) gate
-  <!-- feedback: Wrong. A 'gate' is the door you pass through to reach the plane; customs is the check itself. -->
+- [x] B) As a reason for the claim in the first sentence
+  <!-- feedback: The income figure is offered to justify the affordability claim, so it functions as a premise. -->
+- [ ] C) As a conclusion that summarises the argument
+  <!-- feedback: The first sentence states the claim, so the second cannot be the conclusion. -->
+- [ ] D) As a counterargument that the author rejects
+  <!-- feedback: Nothing in the passage rejects the figure, and it is used in support. -->
+- [ ] A) As a piece of evidence unrelated to the claim
+  <!-- feedback: The figure is directly relevant to whether the fare is affordable. -->
 
 ### Explicacion Pedagogica
-The word 'customs' is used to describe the place at a port, airport, or frontier where officials check incoming goods, travelers, or luggage. This is an important vocabulary word in English.
+Arguments are recognised by position: the claim is what the writer wants accepted, and the premises are what is offered to secure it. One or two sentences can therefore be identified by their function rather than by a keyword.
 ---
 ## Question 7 [D5]
-**ID:** CR-ING-11-2026-W17-argument-structure-identification-001-MASTERY-bundle-v7
+**ID:** CR-ING-11-2026-W17-argument-structure-identification-v7
 **Bloom:** Apply
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**EJE:** Reading Comprehension
+**Expected_Success:** 0.8
+**Contexto:** Argument: 'People who exercise regularly report fewer absences from work. Therefore, encouraging exercise in the workplace would reduce sick days.'
 
 ### Enunciado
-What is the English word for: "A document provided by an airline during check-in, giving a passenger permission to board the airplane."
+What assumption does this argument depend on?
 
 ### Opciones
-- [x] D) boarding pass
-  <!-- feedback: Correct! A 'boarding pass' is the document the airline hands you at check-in that lets you board the plane. -->
-- [ ] A) visa
-  <!-- feedback: Wrong. A 'visa' is the official permission a government gives to enter a country, granted before you travel. -->
-- [ ] B) receipt
-  <!-- feedback: Wrong. A 'receipt' only proves that you paid for something; it does not admit you to the aircraft. -->
-- [ ] C) brochure
-  <!-- feedback: Wrong. A 'brochure' is advertising material about destinations, not a travel document for boarding. -->
+- [x] B) That encouragement at work would lead people to exercise regularly
+  <!-- feedback: The argument moves from what happens when people exercise to what would happen if a workplace encouraged it, and that bridge is assumed rather than shown. -->
+- [ ] C) That all workers already exercise every day
+  <!-- feedback: Claiming universal exercise contradicts the premise, which describes a correlation among some people. -->
+- [ ] D) That exercise has no effect on health
+  <!-- feedback: The premise states that fewer absences were reported, so the argument relies on exercise having an effect. -->
+- [ ] A) That sick days are unrelated to income
+  <!-- feedback: Nothing in the argument concerns income, so the last assumption is irrelevant. -->
 
 ### Explicacion Pedagogica
-The word 'boarding pass' is used to describe a document provided by an airline during check-in, giving a passenger permission to board the airplane. This is an important vocabulary word in English.
+An unstated assumption is the link a writer does not spell out. Making it visible is often the most valuable part of analysing an argument, because assumptions are where the argument can fail.
 ---
-## Question 8 [D6]
-**ID:** CR-ING-11-2026-W17-argument-structure-identification-001-MASTERY-bundle-v8
-**Bloom:** Apply
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+## Question 8 [D5]
+**ID:** CR-ING-11-2026-W17-argument-structure-identification-v8
+**Bloom:** Understand
+**EJE:** Reading Comprehension
+**Expected_Success:** 0.8
+**Contexto:** Argument: 'The scheme cost less than the original estimate. It also reached fewer people. In the opinion of one councillor, the scheme was still a success.'
 
 ### Enunciado
-What is the English word for: "The activity of visiting places of interest in a particular location."
+What does the structure of this text show?
 
 ### Opciones
-- [x] B) sightseeing
-  <!-- feedback: Correct! 'Sightseeing' means going round and looking at the famous sights of a place as a visitor. -->
-- [ ] A) shopping
-  <!-- feedback: Wrong. 'Shopping' is buying things in a city, a different activity from visiting its places of interest. -->
-- [ ] C) hiking
-  <!-- feedback: Wrong. 'Hiking' is walking long distances in the countryside on marked trails, not touring the sights of a location. -->
-- [ ] D) camping
-  <!-- feedback: Wrong. 'Camping' means staying the night outdoors in a tent, not a day of visiting places of interest. -->
+- [x] A) It presents two facts that cut against a verdict supplied by a single opinion
+  <!-- feedback: The factual sentences raise both an advantage and a disadvantage, and the verdict rests on one named person rather than on the evidence. -->
+- [ ] B) It gives three facts that all support the scheme
+  <!-- feedback: One of the two facts works against success, so the sentences do not all support it. -->
+- [ ] C) It reports a decision taken by the council
+  <!-- feedback: No decision is recorded in the passage. -->
+- [ ] D) It compares the cost of the scheme with the original estimate
+  <!-- feedback: The comparison with the estimate is one detail rather than the point of the text. -->
 
 ### Explicacion Pedagogica
-The word 'sightseeing' is used to describe the activity of visiting places of interest in a particular location. This is an important vocabulary word in English.
+A text that gives balanced facts and then lets one opinion decide is making a visible gap between evidence and conclusion. Identifying that structure is more precise than calling the text biased.
 ---
 ## Question 9 [D5]
-**ID:** CR-ING-11-2026-W17-argument-structure-identification-001-MASTERY-bundle-v9
-**Bloom:** Apply
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
-
-### Enunciado
-What is the English word for: "A thing that is kept as a reminder of a person, place, or event."
-
-### Opciones
-- [x] B) souvenir
-  <!-- feedback: Correct! A 'souvenir' is an object kept afterwards as a reminder of the trip and of the people or places on it. -->
-- [ ] A) gift
-  <!-- feedback: Wrong. A 'gift' is chosen to be given to somebody else, while a souvenir is kept by the traveller. -->
-- [ ] C) award
-  <!-- feedback: Wrong. An 'award' is a distinction given for an achievement, not a keepsake bought on a trip. -->
-- [ ] D) prize
-  <!-- feedback: Wrong. A 'prize' is what a competitor wins in a contest; it says nothing about remembering a journey. -->
-
-### Explicacion Pedagogica
-The word 'souvenir' is used to describe a thing that is kept as a reminder of a person, place, or event. This is an important vocabulary word in English.
----
-## Question 10 [D6]
-**ID:** CR-ING-11-2026-W17-argument-structure-identification-001-MASTERY-bundle-v10
-**Bloom:** Apply
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
-
-### Enunciado
-What is the English word for: "A period of time by which something is late or postponed."
-
-### Opciones
-- [x] A) delay
-  <!-- feedback: Correct! A 'delay' is the extra period of time by which a departure or arrival is postponed. -->
-- [ ] B) cancellation
-  <!-- feedback: Wrong. A 'cancellation' calls the plan off entirely, whereas a delay only postpones it by some hours. -->
-- [ ] C) departure
-  <!-- feedback: Wrong. 'Departure' is simply the moment of leaving; the lateness is measured separately from it. -->
-- [ ] D) arrival
-  <!-- feedback: Wrong. An 'arrival' is the moment of getting there, not the amount of time a plan runs late. -->
-
-### Explicacion Pedagogica
-The word 'delay' is used to describe a period of time by which something is late or postponed. This is an important vocabulary word in English.
----
-## Question 11 [D7]
-**ID:** CR-ING-11-2026-W17-argument-structure-identification-001-MASTERY-bundle-v11
-**Bloom:** Apply
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
-
-### Enunciado
-What is the English word for: "The act of reporting one's presence and registering, typically at an airport or hotel."
-
-### Opciones
-- [x] D) check-in
-  <!-- feedback: Correct! 'Check-in' is when you arrive and register, and the desk records your presence and gives you your pass. -->
-- [ ] A) check-out
-  <!-- feedback: Wrong. 'Check-out' is the opposite moment, when you pay and hand back the room key before leaving. -->
-- [ ] B) booking
-  <!-- feedback: Wrong. A 'booking' is the reservation made earlier, while check-in is the reporting of your arrival. -->
-- [ ] C) reservation
-  <!-- feedback: Wrong. A 'reservation' holds a room or a seat for you in advance, not the act of registering on arrival. -->
-
-### Explicacion Pedagogica
-The word 'check-in' is used to describe the act of reporting one's presence and registering, typically at an airport or hotel. This is an important vocabulary word in English.
----
-## Question 12 [D8]
-**ID:** CR-ING-11-2026-W17-argument-structure-identification-001-MASTERY-bundle-v12
-**Bloom:** Apply
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
-
-### Enunciado
-What is the English word for: "A period of rest or waiting before a further stage in a journey."
-
-### Opciones
-- [x] C) layover
-  <!-- feedback: Correct! A 'layover' is the wait between two flights, usually at the connecting airport, before you continue. -->
-- [ ] A) stopover
-  <!-- feedback: Wrong. A 'stopover' is a deliberate break in a long journey to spend extra time at a place, not a wait between flights. -->
-- [ ] B) transfer
-  <!-- feedback: Wrong. A 'transfer' is the flight or vehicle that moves you from one place to another, not the waiting itself. -->
-- [ ] D) transit
-  <!-- feedback: Wrong. 'Transit' names the general passing through an area or a country, not a specific rest between stages. -->
-
-### Explicacion Pedagogica
-The word 'layover' is used to describe a period of rest or waiting before a further stage in a journey. This is an important vocabulary word in English.
----
-## Question 13 [D7]
-**ID:** CR-ING-11-2026-W17-argument-structure-identification-001-MASTERY-bundle-v13
-**Bloom:** Analyze
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
-
-### Enunciado
-What is the English word for: "A system of money in general use in a particular country."
-
-### Opciones
-- [x] B) currency
-  <!-- feedback: Correct! 'Currency' is the whole monetary system a country uses, not any single object. -->
-- [ ] A) coin
-  <!-- feedback: Wrong. A 'coin' is one round metal piece of money, while the definition covers the entire money system. -->
-- [ ] C) banknote
-  <!-- feedback: Wrong. A 'banknote' is a single paper note, while the definition is about the money system of a whole country. -->
-- [ ] D) cash
-  <!-- feedback: Wrong. 'Cash' is the money in coins and notes that you are holding, regardless of any country's system. -->
-
-### Explicacion Pedagogica
-The word 'currency' is used to describe a system of money in general use in a particular country. This is an important vocabulary word in English.
----
-## Question 14 [D8]
-**ID:** CR-ING-11-2026-W17-argument-structure-identification-001-MASTERY-bundle-v14
-**Bloom:** Analyze
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
-
-### Enunciado
-What is the English word for: "A book of information about a place designed for the use of visitors or tourists."
-
-### Opciones
-- [x] C) guidebook
-  <!-- feedback: Correct! A 'guidebook' is a book written about a place to help visitors find their way around it. -->
-- [ ] A) map
-  <!-- feedback: Wrong. A 'map' is a single drawing of an area, not the book of practical information about the place. -->
-- [ ] B) dictionary
-  <!-- feedback: Wrong. A 'dictionary' lists words and their meanings, not practical details about a destination. -->
-- [ ] D) encyclopedia
-  <!-- feedback: Wrong. An 'encyclopedia' covers all knowledge on a subject, while a guidebook is written about one specific place. -->
-
-### Explicacion Pedagogica
-The word 'guidebook' is used to describe a book of information about a place designed for the use of visitors or tourists. This is an important vocabulary word in English.
----
-## Question 15 [D7]
-**ID:** CR-ING-11-2026-W17-argument-structure-identification-001-MASTERY-bundle-v15
-**Bloom:** Analyze
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
-
-### Enunciado
-What is the English word for: "A bag with shoulder straps that allow it to be carried on one's back."
-
-### Opciones
-- [x] B) backpack
-  <!-- feedback: Correct! A 'backpack' has two shoulder straps and is designed to be carried on your back. -->
-- [ ] A) suitcase
-  <!-- feedback: Wrong. A 'suitcase' is a flat box with a handle that you pull along beside you. -->
-- [ ] C) briefcase
-  <!-- feedback: Wrong. A 'briefcase' is a stiff case for papers that you carry in your hand at work. -->
-- [ ] D) handbag
-  <!-- feedback: Wrong. A 'handbag' is held in the hand and has no straps at all. -->
-
-### Explicacion Pedagogica
-The word 'backpack' is used to describe a bag with shoulder straps that allow it to be carried on one's back. This is an important vocabulary word in English.
----
-## Question 16 [D8]
-**ID:** CR-ING-11-2026-W17-argument-structure-identification-001-MASTERY-bundle-v16
-**Bloom:** Analyze
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
-
-### Enunciado
-What is the English word for: "In or to a foreign country, especially one across the sea."
-
-### Opciones
-- [x] D) overseas
-  <!-- feedback: Correct! 'Overseas' means to or in another country reached by crossing the sea. -->
-- [ ] A) domestic
-  <!-- feedback: Wrong. 'Domestic' means inside the borders of your own country, which is the opposite of overseas. -->
-- [ ] B) local
-  <!-- feedback: Wrong. 'Local' means in a particular small area or town, which may well be inside your own country. -->
-- [ ] C) national
-  <!-- feedback: Wrong. 'National' means concerning the nation as a whole, not travelling away from it across the sea. -->
-
-### Explicacion Pedagogica
-The word 'overseas' is used to describe in or to a foreign country, especially one across the sea. This is an important vocabulary word in English.
----
-## Question 17 [D9]
-**ID:** CR-ING-11-2026-W17-argument-structure-identification-001-MASTERY-bundle-v17
+**ID:** CR-ING-11-2026-W17-argument-structure-identification-v9
 **Bloom:** Evaluate
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**EJE:** Reading Comprehension
+**Expected_Success:** 0.75
+**Contexto:** Argument: 'The city has built more bicycle lanes than any other city in the country. Everyone knows that cities with the most bicycle lanes have the healthiest populations.'
 
 ### Enunciado
-What is the English word for: "An estimate of income and expenditure for a set period of time."
+Which criticism applies to this argument?
 
 ### Opciones
-- [x] B) budget
-  <!-- feedback: Correct! A 'budget' estimates planned income and spending over a set period such as a month or a year. -->
-- [ ] A) expense
-  <!-- feedback: Wrong. An 'expense' is a single outgoing payment, not a plan covering a whole period. -->
-- [ ] C) cost
-  <!-- feedback: Wrong. The 'cost' is the price of one thing or service, with no timeframe attached to it. -->
-- [ ] D) price
-  <!-- feedback: Wrong. A 'price' is the amount a single item sells for, not an estimate of a period's finances. -->
+- [x] A) The health comparison is offered without evidence and assumes a link the argument does not show
+  <!-- feedback: Asserting a general connection and calling it common knowledge substitutes reputation for evidence. -->
+- [ ] B) The claim about the number of lanes is false
+  <!-- feedback: The text presents the ranking as fact, and its accuracy is not the issue. -->
+- [ ] C) The argument is too short to be convincing
+  <!-- feedback: Length has no bearing on the presence of evidence. -->
+- [ ] D) The word 'healthiest' is not a real word
+  <!-- feedback: 'Healthiest' is an ordinary superlative form and raises no lexical question. -->
 
 ### Explicacion Pedagogica
-The word 'budget' is used to describe an estimate of income and expenditure for a set period of time. This is an important vocabulary word in English.
+The phrase 'everyone knows' is a rhetorical device that converts an assumption into an apparent fact. Analysing arguments means noticing such moves and asking what evidence would be needed.
 ---
-## Question 18 [D10]
-**ID:** CR-ING-11-2026-W17-argument-structure-identification-001-MASTERY-bundle-v18
-**Bloom:** Evaluate
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+## Question 10 [D5]
+**ID:** CR-ING-11-2026-W17-argument-structure-identification-v10
+**Bloom:** Apply
+**EJE:** Reading Comprehension
+**Expected_Success:** 0.75
+**Contexto:** Argument: 'Small shops closed on the high street at the same time as the new supermarket opened nearby. Therefore, the supermarket caused the closures.'
 
 ### Enunciado
-What is the English word for: "A practice or arrangement by which a company or government agency provides a guarantee of compensation for specified loss, damage, illness, or death in return for payment of a premium."
+What does the argument fail to rule out?
 
 ### Opciones
-- [x] A) insurance
-  <!-- feedback: Correct! 'Insurance' is the arrangement where a company pays compensation for a specified loss in exchange for a premium. -->
-- [ ] B) warranty
-  <!-- feedback: Wrong. A 'warranty' covers a defective product for a limited time and is given by the maker, not for illness or death. -->
-- [ ] C) guarantee
-  <!-- feedback: Wrong. A 'guarantee' is a promise about the quality of a product or service, with no payment of a premium. -->
-- [ ] D) policy
-  <!-- feedback: Wrong. A 'policy' is the written document that records an insurance contract, not the practice of compensation itself. -->
+- [x] B) Another cause that affected both the shops and the supermarket decision at the same time
+  <!-- feedback: Two events occurring together do not establish a link, and a third factor is the standard alternative explanation. -->
+- [ ] C) The possibility that the supermarket also closed
+  <!-- feedback: Nothing suggests that the supermarket closed, and the argument depends on it operating. -->
+- [ ] D) The fact that small shops are usually profitable
+  <!-- feedback: The profitability of small shops is not raised by the timing described. -->
+- [ ] A) The cost of the supermarket building
+  <!-- feedback: The building cost is not mentioned and would not resolve the causal question. -->
 
 ### Explicacion Pedagogica
-The word 'insurance' is used to describe a practice or arrangement by which a company or government agency provides a guarantee of compensation for specified loss, damage, illness, or death in return for payment of a premium. This is an important vocabulary word in English.
+Post hoc reasoning is the classic error in argument analysis: one event following another is treated as proof of connection. The standard counter is to look for a third factor that would explain both.
 ---
-## Question 19 [D9]
-**ID:** CR-ING-11-2026-W17-argument-structure-identification-001-MASTERY-bundle-v19
-**Bloom:** Evaluate
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+## Question 11 [D6]
+**ID:** CR-ING-11-2026-W17-argument-structure-identification-v11
+**Bloom:** Analyze
+**EJE:** Reading Comprehension
+**Expected_Success:** 0.75
+**Contexto:** Argument: 'The report was written by specialists. The report recommends extending the programme. Therefore, the recommendation is technically sound.'
 
 ### Enunciado
-What is the English word for: "Treatment with a vaccine to produce immunity against a disease."
+What fallacious move does this argument make?
 
 ### Opciones
-- [x] C) vaccination
-  <!-- feedback: Correct! 'Vaccination' is the administration of a vaccine that makes the immune system ready against a disease. -->
-- [ ] A) medication
-  <!-- feedback: Wrong. 'Medication' treats the symptoms of an illness you already have; it does not create immunity beforehand. -->
-- [ ] B) prescription
-  <!-- feedback: Wrong. A 'prescription' is the doctor's written order for a medicine, not the vaccine itself. -->
-- [ ] D) infection
-  <!-- feedback: Wrong. An 'infection' is the invasion of the body by a pathogen, which is the opposite of preventing it. -->
+- [x] C) It treats the credentials of the authors as proof of the quality of the conclusion
+  <!-- feedback: Authority supports the credibility of a claim rather than demonstrating that the reasoning inside the report is sound. -->
+- [ ] D) It assumes that specialists always disagree with each other
+  <!-- feedback: Nothing in the argument concerns disagreement between specialists. -->
+- [ ] A) It questions whether the report was actually written
+  <!-- feedback: The report is accepted as written, so authorship is not questioned. -->
+- [ ] B) It appeals to the general public rather than to experts
+  <!-- feedback: The appeal is to expertise, not to public opinion. -->
 
 ### Explicacion Pedagogica
-The word 'vaccination' is used to describe treatment with a vaccine to produce immunity against a disease. This is an important vocabulary word in English.
+Appealing to authority is legitimate when the authority is relevant and the claim lies within its expertise, and weak when credentials are used as a substitute for reasoning. This item asks the student to judge the fit.
 ---
-## Question 20 [D10]
-**ID:** CR-ING-11-2026-W17-argument-structure-identification-001-MASTERY-bundle-v20
-**Bloom:** Evaluate
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+## Question 12 [D6]
+**ID:** CR-ING-11-2026-W17-argument-structure-identification-v12
+**Bloom:** Understand
+**EJE:** Reading Comprehension
+**Expected_Success:** 0.75
+**Contexto:** Argument: 'Every proposal submitted this year was reviewed by at least two committee members. Six of the eight proposals were approved. The committee is therefore efficient.'
 
 ### Enunciado
-What is the English word for: "Extreme tiredness and other physical effects felt by a person after a long flight across several time zones."
+What is wrong with the conclusion?
 
 ### Opciones
-- [x] D) jet lag
-  <!-- feedback: Correct! 'Jet lag' is the tiredness and disturbed body clock caused by crossing several time zones in a flight. -->
-- [ ] A) fatigue
-  <!-- feedback: Wrong. 'Fatigue' is general tiredness from any cause, such as hard work, not specifically from time zones. -->
-- [ ] B) exhaustion
-  <!-- feedback: Wrong. 'Exhaustion' is extreme tiredness from physical effort or illness, not from a change of time zone. -->
-- [ ] C) insomnia
-  <!-- feedback: Wrong. 'Insomnia' is simply difficulty sleeping, which can come from many causes unrelated to flying. -->
+- [x] A) The conclusion about efficiency is not established by the figures given
+  <!-- feedback: Knowing how many proposals were approved says nothing about speed or efficiency, so the conclusion does not follow from the premises. -->
+- [ ] B) The figures about the proposals are false
+  <!-- feedback: The figures are stated as facts, and their accuracy is not the defect. -->
+- [ ] C) The argument contradicts itself
+  <!-- feedback: The sentences are consistent with one another, so there is no contradiction. -->
+- [ ] D) The committee did not follow its own rules
+  <!-- feedback: The review requirement appears to have been satisfied, since every proposal was reviewed. -->
 
 ### Explicacion Pedagogica
-The word 'jet lag' is used to describe extreme tiredness and other physical effects felt by a person after a long flight across several time zones. This is an important vocabulary word in English.
+A conclusion must be about the same thing as its premises. This item tests the simplest and most frequent form of non sequitur, where a valid set of facts leads to an unrelated verdict.
+---
+## Question 13 [D6]
+**ID:** CR-ING-11-2026-W17-argument-structure-identification-v13
+**Bloom:** Evaluate
+**EJE:** Reading Comprehension
+**Expected_Success:** 0.75
+**Contexto:** Argument: 'The old bridge and the new bridge carry similar traffic. The old bridge has never been repaired. The new bridge was rebuilt last year.'
+
+### Enunciado
+What does this analogy assume?
+
+### Opciones
+- [x] B) That the two bridges are alike in the respects that matter for maintenance
+  <!-- feedback: Drawing a conclusion about the old bridge from the new one requires the two to share relevant properties, and the text does not establish that. -->
+- [ ] C) That both bridges were built in the same decade
+  <!-- feedback: The dates of construction are never given, so they cannot be part of the assumption. -->
+- [ ] D) That traffic causes damage to a bridge
+  <!-- feedback: The argument concerns repairs rather than the mechanism of damage. -->
+- [ ] A) That the new bridge is better designed
+  <!-- feedback: No design comparison appears anywhere in the passage. -->
+
+### Explicacion Pedagogica
+An analogy transfers a conclusion from one case to another and is only as strong as the similarity between the cases. Making the assumed similarity explicit is the essential step in evaluating one.
+---
+## Question 14 [D6]
+**ID:** CR-ING-11-2026-W17-argument-structure-identification-v14
+**Bloom:** Apply
+**EJE:** Reading Comprehension
+**Expected_Success:** 0.75
+**Contexto:** Argument: 'Banning cars from the centre would improve air quality. But air quality has improved every year, and cars were present throughout that period.'
+
+### Enunciado
+How does the second sentence function?
+
+### Opciones
+- [x] D) As an objection that weakens the argument, by showing improvement occurred without the ban
+  <!-- feedback: The pattern of improvement while cars were present undercuts the idea that removing them is what produces improvement. -->
+- [ ] A) As additional support for the ban
+  <!-- feedback: The sentence shows improvement without the ban, which is contrary to the argument's proposal. -->
+- [ ] B) As a second conclusion with the same content
+  <!-- feedback: It states a separate fact rather than repeating the claim. -->
+- [ ] C) As evidence that air quality cannot change
+  <!-- feedback: A trend over several years proves that the variable cannot change at all. -->
+
+### Explicacion Pedagogica
+An argument can be challenged by pointing out that the proposed cause has been present while the effect occurred anyway. Recognising this shape helps a reader evaluate the argument's central assumption.
+---
+## Question 15 [D6]
+**ID:** CR-ING-11-2026-W17-argument-structure-identification-v15
+**Bloom:** Analyze
+**EJE:** Reading Comprehension
+**Expected_Success:** 0.75
+**Contexto:** Argument: 'The measure reduced the number of reported cases. Reported cases fall when people stop reporting, so the measure reduced reporting rather than the problem.'
+
+### Enunciado
+What kind of response is this to the original claim?
+
+### Opciones
+- [x] C) A counterargument that disputes the interpretation rather than the measurement
+  <!-- feedback: The response accepts the figures and offers an alternative reading of what they mean, which is the structure of a counterargument. -->
+- [ ] D) A concession that agrees with the measurement
+  <!-- feedback: The responder agrees with the data, but disagreement about the meaning is not a concession on the result. -->
+- [ ] A) A restatement of the original claim in other words
+  <!-- feedback: A restatement would repeat the claim; here the explanation of the claim is disputed. -->
+- [ ] B) An analogy drawn from a different field
+  <!-- feedback: No comparison from another field is offered. -->
+
+### Explicacion Pedagogica
+A counterargument can leave the evidence untouched and dispute only its interpretation. Separating measurement from explanation is what distinguishes this response from a denial of the data.
+---
+## Question 16 [D7]
+**ID:** CR-ING-11-2026-W17-argument-structure-identification-v16
+**Bloom:** Analyze
+**EJE:** Reading Comprehension
+**Expected_Success:** 0.7
+**Contexto:** Argument: 'Because the evidence is strong and the proposal is popular, it must be the right decision.'
+
+### Enunciado
+What is wrong with the way this argument reaches its conclusion?
+
+### Opciones
+- [x] D) It treats strength of evidence and popularity as substitutes for the merits of the decision
+  <!-- feedback: Good evidence and public approval are relevant but do not by themselves settle what is the correct choice. -->
+- [ ] A) It uses the word 'because' in the wrong position
+  <!-- feedback: The connective is used in a standard position and is not the defect. -->
+- [ ] B) It repeats the claim in a different form
+  <!-- feedback: Nothing in the sentence repeats the conclusion. -->
+- [ ] C) It contains no conclusion at all
+  <!-- feedback: The sentence does state a conclusion, which is what the last option denies. -->
+
+### Explicacion Pedagogica
+Some conclusions cannot be settled by the kinds of support a text offers. This item asks the student to name the substitution, which is the standard way of describing an argument of this kind.
+---
+## Question 17 [D7]
+**ID:** CR-ING-11-2026-W17-argument-structure-identification-v17
+**Bloom:** Understand
+**EJE:** Reading Comprehension
+**Expected_Success:** 0.7
+**Contexto:** Argument: 'There are three kinds of position in this debate: those who favour the change, those who oppose it, and those who have not decided.'
+
+### Enunciado
+What does this classification accomplish?
+
+### Opciones
+- [x] C) It divides all possible stances into exhaustive categories
+  <!-- feedback: Every reader falls into one of the three groups, so the categories leave no place uncovered. -->
+- [ ] D) It shows that the debate has no middle ground
+  <!-- feedback: The third category exists precisely to hold those who have not taken a side, which is a middle position. -->
+- [ ] A) It proves that most people have not decided
+  <!-- feedback: No figures are given about how many people are in each group. -->
+- [ ] B) It argues in favour of the change
+  <!-- feedback: The classification is neutral and takes no position on the change. -->
+
+### Explicacion Pedagogica
+A three-way classification of a debate, for, against and undecided, is a standard way of analysing public positions. Recognising exhaustive categories helps a reader see when a text has left a real group out.
+---
+## Question 18 [D7]
+**ID:** CR-ING-11-2026-W17-argument-structure-identification-v18
+**Bloom:** Evaluate
+**EJE:** Reading Comprehension
+**Expected_Success:** 0.7
+**Contexto:** Argument: 'If the new rule reduced inequality, then richer families would pay more tax. Richer families do pay more tax. Therefore, the new rule reduced inequality.'
+
+### Enunciado
+What logical mistake does this argument commit?
+
+### Opciones
+- [x] D) It treats the converse of a conditional as if it were the conditional itself
+  <!-- feedback: From 'if the rule reduced inequality, richer families pay more', it does not follow that because they pay more the rule did so. -->
+- [ ] A) It repeats the conclusion inside the premise
+  <!-- feedback: The premises do not restate the conclusion, so the argument is not circular. -->
+- [ ] B) It relies on an appeal to popularity
+  <!-- feedback: No popularity is invoked anywhere in the passage. -->
+- [ ] C) It draws a conclusion from a single example
+  <!-- feedback: The error is in the logical form rather than in the number of cases cited. -->
+
+### Explicacion Pedagogica
+Converse error is a frequent defect in public argument. Naming it gives the reader a precise diagnosis rather than the impression that the argument is merely weak.
+---
+## Question 19 [D7]
+**ID:** CR-ING-11-2026-W17-argument-structure-identification-v19
+**Bloom:** Analyze
+**EJE:** Reading Comprehension
+**Expected_Success:** 0.7
+**Contexto:** Argument: 'Two proposals were submitted. The first received more support and was approved. The second received less support and was rejected. Therefore, the committee decides by counting support.'
+
+### Enunciado
+What is the weakness in this reasoning?
+
+### Opciones
+- [x] D) Two cases cannot establish a rule about how the committee always decides
+  <!-- feedback: A general claim about a decision procedure needs more than a single pair of cases to support it. -->
+- [ ] A) The number of supporters for each proposal is not given
+  <!-- feedback: The text states which proposal received more support, so the information is present. -->
+- [ ] B) The committee clearly did not decide by counting support
+  <!-- feedback: The conclusion follows the observed pattern and does not contradict it. -->
+- [ ] C) The two proposals should have been assessed on their merits
+  <!-- feedback: Comparing the proposals on merits is a different question that the argument does not raise. -->
+
+### Explicacion Pedagogica
+Hasty generalisation from a small sample is a structural weakness rather than a factual error. This item asks the student to see the problem in the number of cases examined.
+---
+## Question 20 [D7]
+**ID:** CR-ING-11-2026-W17-argument-structure-identification-v20
+**Bloom:** Evaluate
+**EJE:** Reading Comprehension
+**Expected_Success:** 0.7
+**Contexto:** Argument: 'The policy protects the river for future generations while providing benefits to farmers today, so it is the fairest option available.'
+
+### Enunciado
+Which question would test this argument most directly?
+
+### Opciones
+- [x] D) Which other options were considered and who would they have favoured?
+  <!-- feedback: A claim about fairness depends on the alternatives, so establishing what else was considered is the direct test. -->
+- [ ] A) How many pages does the policy document contain?
+  <!-- feedback: The length of the document has no bearing on the substance of the argument. -->
+- [ ] B) Does the writer use a formal register throughout?
+  <!-- feedback: Register is a feature of presentation and does not test the claim about fairness. -->
+- [ ] C) Was the policy introduced recently or long ago?
+  <!-- feedback: The date of introduction is not relevant to whether the option is the fairest. -->
+
+### Explicacion Pedagogica
+When an argument concludes that something is the best or fairest option, the decisive question is always about the alternatives. This item asks the student to produce that question, which is the most transferable move in the whole area.

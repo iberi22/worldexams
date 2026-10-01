@@ -21,462 +21,464 @@ bundle_index: 1
 **20 preguntas | Ingles | Curriculo de Ingles**
 
 ---
-## Question 1 [D3]
+
+## Question 1 [D4]
 **ID:** HN-ING-11-2026-W26-inversion-001-MASTERY-bundle-v1
-**Bloom:** Remember
-**EJE:** Lexico
+**Bloom:** Apply
+**EJE:** Gramatica
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** A visitor describes a view of the coast at the end of a trip.
 
 ### Enunciado
-What is the English word for: "A place where you live or stay on holiday."
+Never ____ such a beautiful sunset in my life.
 
 ### Opciones
-- [x] C) accommodation
-  <!-- feedback: Correct! 'Accommodation' is the word for a place where you live or stay when you are on holiday. -->
-- [ ] A) transportation
-  <!-- feedback: 'Transportation' is the way you move from one place to another (buses, trains, planes), not the place where you sleep. -->
-- [ ] B) entertainment
-  <!-- feedback: 'Entertainment' is the fun or activities you enjoy, not the building or room where you stay. -->
-- [ ] D) currency
-  <!-- feedback: 'Currency' is the money of a country, which has nothing to do with where you sleep. -->
+- [x] A) have I seen
+  <!-- feedback: Correct! When a negative adverb such as 'never' opens the sentence, the subject and the auxiliary are inverted. -->
+- [ ] B) I have seen
+  <!-- feedback: 'I have seen' keeps the normal order and would need the negative adverb inside the sentence. -->
+- [ ] C) did I see
+  <!-- feedback: 'Did I see' changes the tense, and the present perfect is the natural tense here. -->
+- [ ] D) I did see
+  <!-- feedback: 'I did see' is a normal order affirmative and cannot follow 'never' at the start. -->
 
 ### Explicacion Pedagogica
-The word 'accommodation' is used to describe a place where you live or stay on holiday. This is an important vocabulary word in English.
+Fronted negative adverbials trigger subject and auxiliary inversion in the present perfect, without any form of 'do'.
 ---
 ## Question 2 [D4]
 **ID:** HN-ING-11-2026-W26-inversion-001-MASTERY-bundle-v2
-**Bloom:** Remember
-**EJE:** Lexico
+**Bloom:** Apply
+**EJE:** Gramatica
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** A head teacher comments on the atmosphere at a school sports event.
 
 ### Enunciado
-What is the English word for: "A detailed plan or route of a journey."
+Rarely ____ the school so excited about a sports day.
 
 ### Opciones
-- [x] B) itinerary
-  <!-- feedback: Correct! An 'itinerary' is a detailed plan of a journey, listing the places and times along the route. -->
-- [ ] A) baggage
-  <!-- feedback: 'Baggage' is the suitcases and bags you travel with, not the written plan of the trip. -->
-- [ ] C) destination
-  <!-- feedback: 'Destination' is the place you are going to, a single place, while an itinerary is the whole route plan. -->
-- [ ] D) passport
-  <!-- feedback: 'Passport' is the travel document that lets you cross a border, not the schedule of your trip. -->
+- [ ] A) the students are
+  <!-- feedback: 'The students are' keeps the declarative order, which is not allowed with a fronted negative. -->
+- [x] B) are the students
+  <!-- feedback: Correct! 'Are the students' inverts the auxiliary before the subject, as the fronted 'rarely' requires. -->
+- [ ] C) the students were
+  <!-- feedback: 'The students were' keeps the order and also changes the tense without reason. -->
+- [ ] D) were the students
+  <!-- feedback: 'Were the students' inverts the order but the present tense is required by 'rarely' with this state. -->
 
 ### Explicacion Pedagogica
-The word 'itinerary' is used to describe a detailed plan or route of a journey. This is an important vocabulary word in English.
+Only the auxiliary 'be' moves in the inversion; the subject 'the students' follows it and no other element changes.
 ---
-## Question 3 [D3]
+## Question 3 [D4]
 **ID:** HN-ING-11-2026-W26-inversion-001-MASTERY-bundle-v3
-**Bloom:** Understand
-**EJE:** Lexico
+**Bloom:** Analyze
+**EJE:** Gramatica
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** A student comments on the clarity of a teacher's explanations over a term.
 
 ### Enunciado
-What is the English word for: "The place to which someone or something is going or being sent."
+Not once ____ the teacher explain this rule so clearly.
 
 ### Opciones
-- [x] D) destination
-  <!-- feedback: Correct! A 'destination' is the place someone or something is going or being sent to. -->
-- [ ] A) departure
-  <!-- feedback: 'Departure' is the action of leaving, the opposite end of the journey from the destination. -->
-- [ ] B) arrival
-  <!-- feedback: 'Arrival' is the act of getting there; the place you arrive at is the destination. -->
-- [ ] C) journey
-  <!-- feedback: 'Journey' is the whole trip from start to finish, not the place you are heading to. -->
+- [ ] A) have
+  <!-- feedback: 'Have' would not agree with the singular subject 'the teacher'. -->
+- [ ] B) had
+  <!-- feedback: 'Had' is the past, and the rule is explained regularly in the present. -->
+- [x] C) has
+  <!-- feedback: Correct! 'Has' with the negative phrase 'not once' in front triggers inversion of subject and auxiliary. -->
+- [ ] D) having
+  <!-- feedback: 'Having' is a participle and cannot serve as the auxiliary of the clause. -->
 
 ### Explicacion Pedagogica
-The word 'destination' is used to describe the place to which someone or something is going or being sent. This is an important vocabulary word in English.
+Negative expressions such as 'not once', 'not only' and 'seldom' invert the subject and the auxiliary exactly like 'never' and 'rarely'.
 ---
-## Question 4 [D4]
+## Question 4 [D5]
 **ID:** HN-ING-11-2026-W26-inversion-001-MASTERY-bundle-v4
-**Bloom:** Understand
-**EJE:** Lexico
+**Bloom:** Analyze
+**EJE:** Gramatica
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** A classmate reports the achievements of a top student over a school year.
 
 ### Enunciado
-What is the English word for: "Suitcases or other bags in which to pack personal belongings for traveling."
+Not only ____ the exam, but she also topped the class.
 
 ### Opciones
-- [x] A) luggage
-  <!-- feedback: Correct! 'Luggage' means suitcases and bags in which you pack your belongings for a trip. -->
-- [ ] B) ticket
-  <!-- feedback: 'Ticket' is the paper that gives you the right to travel on a bus, train or plane, not the bag itself. -->
-- [ ] C) flight
-  <!-- feedback: 'Flight' is the journey by plane, or the plane itself; the bags are called luggage. -->
-- [ ] D) reservation
-  <!-- feedback: 'Reservation' is the booking you make for a seat or a room, not the bags you pack. -->
+- [ ] A) she passed
+  <!-- feedback: 'She passed' is the normal order and cannot follow a fronted 'not only'. -->
+- [ ] B) she did pass
+  <!-- feedback: 'She did pass' keeps the subject in front of the auxiliary, so no inversion occurs. -->
+- [ ] C) passed she
+  <!-- feedback: 'Passed she' inverts the main verb and the subject but leaves out the auxiliary the construction needs. -->
+- [x] D) did she pass
+  <!-- feedback: Correct! The negative correlative 'not only' at the front requires the auxiliary 'did' before the subject. -->
 
 ### Explicacion Pedagogica
-The word 'luggage' is used to describe suitcases or other bags in which to pack personal belongings for traveling. This is an important vocabulary word in English.
+When 'do' is needed, inversion places 'do' or 'does' before the subject: 'did she pass', never 'she did pass' at the front.
 ---
-## Question 5 [D5]
+## Question 5 [D4]
 **ID:** HN-ING-11-2026-W26-inversion-001-MASTERY-bundle-v5
-**Bloom:** Understand
-**EJE:** Lexico
+**Bloom:** Apply
+**EJE:** Gramatica
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** A routine at the end of a lesson in a secondary school.
 
 ### Enunciado
-What is the English word for: "A traveler on a public or private conveyance other than the driver, pilot, or crew."
+Only after the bell rang ____ the students leave the classroom.
 
 ### Opciones
-- [x] C) passenger
-  <!-- feedback: Correct! A 'passenger' is a person who travels on a vehicle without being the driver, pilot or crew. -->
-- [ ] A) pedestrian
-  <!-- feedback: 'Pedestrian' is someone who travels on foot, so they are not on a conveyance at all. -->
-- [ ] B) commuter
-  <!-- feedback: 'Commuter' is someone who travels regularly between home and work; the definition here is any traveller on board, not only that daily case. -->
-- [ ] D) tourist
-  <!-- feedback: 'Tourist' is someone visiting for pleasure or sightseeing, but the definition covers every traveller on board, including commuters and residents. -->
+- [x] A) did
+  <!-- feedback: Correct! 'Did' is the auxiliary placed before the subject because 'only after' opens the sentence. -->
+- [ ] B) the students
+  <!-- feedback: 'The students' cannot occupy that slot, since the subject follows the auxiliary in the inverted clause. -->
+- [ ] C) they
+  <!-- feedback: 'They' would be a pronoun subject and there is no auxiliary to invert here. -->
+- [ ] D) were
+  <!-- feedback: 'Were' is a form of 'be', but the main verb of the sentence is 'leave'. -->
 
 ### Explicacion Pedagogica
-The word 'passenger' is used to describe a traveler on a public or private conveyance other than the driver, pilot, or crew. This is an important vocabulary word in English.
+A fronted phrase beginning with 'only' or 'not until' is a focusing adverbial, and it triggers inversion of the auxiliary and the subject.
 ---
-## Question 6 [D6]
+## Question 6 [D4]
 **ID:** HN-ING-11-2026-W26-inversion-001-MASTERY-bundle-v6
-**Bloom:** Understand
-**EJE:** Lexico
+**Bloom:** Apply
+**EJE:** Gramatica
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** A coach describes the mood of a team before an important match.
 
 ### Enunciado
-What is the English word for: "The place at a port, airport, or frontier where officials check incoming goods, travelers, or luggage."
+Seldom ____ the whole class so motivated before the competition.
 
 ### Opciones
-- [x] C) customs
-  <!-- feedback: Correct! 'Customs' is the office at a port, airport or border where officials check goods, travellers and luggage. -->
-- [ ] A) security
-  <!-- feedback: 'Security' is the staff who control safety and boarding inside the airport; it does not check the goods you bring in. -->
-- [ ] B) terminal
-  <!-- feedback: 'Terminal' is the whole building where passengers wait, eat and catch their flights. -->
-- [ ] D) gate
-  <!-- feedback: 'Gate' is the particular door you board through, not the place where officials inspect your luggage. -->
+- [ ] A) have
+  <!-- feedback: 'Have' would not agree with a singular subject. -->
+- [x] B) has
+  <!-- feedback: Correct! 'Has' is the auxiliary that inverts with the singular subject 'the whole class' after 'seldom'. -->
+- [ ] C) was
+  <!-- feedback: 'Was' would form a passive or a linking clause, and the sentence is active. -->
+- [ ] D) is
+  <!-- feedback: 'Is' would describe a state rather than the action of being motivated. -->
 
 ### Explicacion Pedagogica
-The word 'customs' is used to describe the place at a port, airport, or frontier where officials check incoming goods, travelers, or luggage. This is an important vocabulary word in English.
+The negative adverb 'seldom' belongs to the same group as 'rarely' and 'hardly', and all of them invert the auxiliary and the subject.
 ---
 ## Question 7 [D5]
 **ID:** HN-ING-11-2026-W26-inversion-001-MASTERY-bundle-v7
-**Bloom:** Apply
-**EJE:** Lexico
+**Bloom:** Analyze
+**EJE:** Gramatica
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** A group describes the moment a vehicle reached a stop near a school.
 
 ### Enunciado
-What is the English word for: "A document provided by an airline during check-in, giving a passenger permission to board the airplane."
+No sooner ____ the bus arrived than the students rushed in.
 
 ### Opciones
-- [x] D) boarding pass
-  <!-- feedback: Correct! The 'boarding pass' is the document the airline gives you at check-in that authorises you to board. -->
-- [ ] A) visa
-  <!-- feedback: 'Visa' is the official permission to enter and stay in a country, requested before the trip, not the document that lets you board a plane. -->
-- [ ] B) receipt
-  <!-- feedback: 'Receipt' is the proof of payment for a purchase, not the travel document for boarding. -->
-- [ ] C) brochure
-  <!-- feedback: 'Brochure' is a small booklet of tourist information, not the document that lets you board. -->
+- [ ] A) did
+  <!-- feedback: 'Did' would be the inversion of a present or past simple, which the pair does not use. -->
+- [ ] B) was
+  <!-- feedback: 'Was' is a form of 'be' and cannot invert here. -->
+- [x] C) had
+  <!-- feedback: Correct! 'Had' is the past perfect auxiliary required by the fixed pair 'no sooner ... than'. -->
+- [ ] D) has
+  <!-- feedback: 'Has' is the present perfect, and the pair requires the past perfect. -->
 
 ### Explicacion Pedagogica
-The word 'boarding pass' is used to describe a document provided by an airline during check-in, giving a passenger permission to board the airplane. This is an important vocabulary word in English.
+'No sooner ... than' is a fixed correlative that always carries the past perfect inversion, independent of any other rule.
 ---
-## Question 8 [D6]
+## Question 8 [D5]
 **ID:** HN-ING-11-2026-W26-inversion-001-MASTERY-bundle-v8
-**Bloom:** Apply
-**EJE:** Lexico
+**Bloom:** Analyze
+**EJE:** Gramatica
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** A relative describes how a family member spent an evening at home.
 
 ### Enunciado
-What is the English word for: "The activity of visiting places of interest in a particular location."
+So absorbed ____ in the book that she forgot the time.
 
 ### Opciones
-- [x] A) sightseeing
-  <!-- feedback: Correct! 'Sightseeing' is the activity of visiting the places of interest in a location. -->
-- [ ] B) shopping
-  <!-- feedback: 'Shopping' is buying things in stores, which is not the same as visiting the sights of a place. -->
-- [ ] C) hiking
-  <!-- feedback: 'Hiking' is walking in the countryside on trails, not the general activity of visiting a location's attractions. -->
-- [ ] D) camping
-  <!-- feedback: 'Camping' is staying outdoors in a tent, not visiting the sights of a location. -->
+- [ ] A) she was
+  <!-- feedback: 'She was' keeps the normal order, which is not possible with a fronted intensifier of this type. -->
+- [ ] B) she is
+  <!-- feedback: 'She is' changes the tense that the story requires. -->
+- [ ] C) is she
+  <!-- feedback: 'Is she' inverts correctly but the past tense is needed by the narrative. -->
+- [x] D) was she
+  <!-- feedback: Correct! The fronted adjective 'so absorbed' inverts the auxiliary 'was' before the subject. -->
 
 ### Explicacion Pedagogica
-The word 'sightseeing' is used to describe the activity of visiting places of interest in a particular location. This is an important vocabulary word in English.
+A fronted pattern of 'so ... that' moves the auxiliary in front of the subject, leaving the rest of the clause in normal order.
 ---
 ## Question 9 [D5]
 **ID:** HN-ING-11-2026-W26-inversion-001-MASTERY-bundle-v9
-**Bloom:** Apply
-**EJE:** Lexico
+**Bloom:** Analyze
+**EJE:** Gramatica
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** A person narrates two events that happened within a few seconds of each other.
 
 ### Enunciado
-What is the English word for: "A thing that is kept as a reminder of a person, place, or event."
+Hardly had she sat down ____ the phone rang.
 
 ### Opciones
-- [x] A) souvenir
-  <!-- feedback: Correct! A 'souvenir' is the object you keep afterwards as a reminder of a person, place or event you visited. -->
-- [ ] B) gift
-  <!-- feedback: 'Gift' is something you give to another person; a souvenir is kept by the person who took the trip. -->
-- [ ] C) award
-  <!-- feedback: 'Award' is a prize given for an achievement, not an object bought or kept as a memory. -->
-- [ ] D) prize
-  <!-- feedback: 'Prize' is the reward you win in a competition, so it comes from winning rather than from a journey. -->
+- [x] A) when
+  <!-- feedback: Correct! 'When' completes the fixed pair 'hardly ... when', which links two past events. -->
+- [ ] B) than
+  <!-- feedback: 'Than' belongs to comparisons and to the less standard 'hardly ... than'. -->
+- [ ] C) then
+  <!-- feedback: 'Then' is an adverb of sequence and cannot follow the inverted clause. -->
+- [ ] D) since
+  <!-- feedback: 'Since' marks a starting point in time and does not pair with 'hardly had'. -->
 
 ### Explicacion Pedagogica
-The word 'souvenir' is used to describe a thing that is kept as a reminder of a person, place, or event. This is an important vocabulary word in English.
+The construction 'hardly had ... when' is a fixed inversion pattern that reports two closely connected past events.
 ---
-## Question 10 [D6]
+## Question 10 [D4]
 **ID:** HN-ING-11-2026-W26-inversion-001-MASTERY-bundle-v10
-**Bloom:** Apply
-**EJE:** Lexico
+**Bloom:** Analyze
+**EJE:** Gramatica
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** A member of staff asks about a document during a short meeting.
 
 ### Enunciado
-What is the English word for: "A period of time by which something is late or postponed."
+The teacher asked where ____ the missing file was.
 
 ### Opciones
-- [x] A) delay
-  <!-- feedback: Correct! A 'delay' is the extra time by which something ends up late or gets postponed. -->
-- [ ] B) cancellation
-  <!-- feedback: 'Cancellation' means the event does not happen at all, not that it happens later than planned. -->
-- [ ] C) departure
-  <!-- feedback: 'Departure' is the scheduled time or the act of leaving; the definition is about the extra time lost. -->
-- [ ] D) arrival
-  <!-- feedback: 'Arrival' is getting there, the opposite moment. Here we want the time lost, not the time you reach the destination. -->
+- [ ] A) did the director put
+  <!-- feedback: 'Did the director put' is a direct question order and does not belong inside a reported clause. -->
+- [x] B) the director put
+  <!-- feedback: Correct! In an embedded question the subject precedes the auxiliary, so no inversion applies. -->
+- [ ] C) the director did put
+  <!-- feedback: 'The director did put' is the order of a direct question with emphasis, which is not wanted here. -->
+- [ ] D) put the director
+  <!-- feedback: 'Put the director' inverts the main verb and the subject and leaves the clause without an auxiliary. -->
 
 ### Explicacion Pedagogica
-The word 'delay' is used to describe a period of time by which something is late or postponed. This is an important vocabulary word in English.
+Direct questions invert subject and auxiliary, but an embedded question after a verb of asking restores the declarative order.
 ---
-## Question 11 [D7]
+## Question 11 [D4]
 **ID:** HN-ING-11-2026-W26-inversion-001-MASTERY-bundle-v11
 **Bloom:** Apply
-**EJE:** Lexico
+**EJE:** Gramatica
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** A student asks for confirmation about a change in the school calendar.
 
 ### Enunciado
-What is the English word for: "The act of reporting one's presence and registering, typically at an airport or hotel."
+I do not know whether ____ the meeting has been moved or not.
 
 ### Opciones
-- [x] B) check-in
-  <!-- feedback: Correct! 'Check-in' is the act of reporting your arrival and registering at the airport or hotel counter. -->
-- [ ] A) check-out
-  <!-- feedback: 'Check-out' is the opposite moment, when you leave the hotel or hand back the room. -->
-- [ ] C) booking
-  <!-- feedback: 'Booking' is the reservation you made earlier; the act of registering your presence on arrival is check-in. -->
-- [ ] D) reservation
-  <!-- feedback: 'Reservation' is the booking document, not the act of reporting your presence at the desk. -->
+- [ ] A) has it
+  <!-- feedback: 'Has it' reverses that order and treats the clause as a direct question. -->
+- [ ] B) it has
+  <!-- feedback: 'It has' inverts the subject and the auxiliary without a fronted negative to justify it. -->
+- [x] C) has
+  <!-- feedback: Correct! In an embedded question the subject comes before the auxiliary, so 'has the meeting' is correct. -->
+- [ ] D) have
+  <!-- feedback: 'Have' would not agree with the singular subject 'the meeting'. -->
 
 ### Explicacion Pedagogica
-The word 'check-in' is used to describe the act of reporting one's presence and registering, typically at an airport or hotel. This is an important vocabulary word in English.
+Question words such as 'whether', 'what', 'where' and 'how' are moved to the front of the main clause while the embedded clause keeps its own order.
 ---
-## Question 12 [D8]
+## Question 12 [D4]
 **ID:** HN-ING-11-2026-W26-inversion-001-MASTERY-bundle-v12
 **Bloom:** Apply
-**EJE:** Lexico
+**EJE:** Gramatica
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** A school leader reports at a staff meeting what he said at a previous meeting.
 
 ### Enunciado
-What is the English word for: "A period of rest or waiting before a further stage in a journey."
+The headmaster said that he ____ see the results the following morning.
 
 ### Opciones
-- [x] C) layover
-  <!-- feedback: Correct! A 'layover' is a period of rest or waiting between two stages of a journey. -->
-- [ ] A) stopover
-  <!-- feedback: 'Stopover' usually means a deliberate visit in the middle of a trip, not just the wait between flights. -->
-- [ ] B) transfer
-  <!-- feedback: 'Transfer' is the change of vehicle itself, the movement; the definition is about the time of waiting. -->
-- [ ] D) transit
-  <!-- feedback: 'Transit' is a system of moving people and goods through a city, not a break between two flights. -->
+- [ ] A) will
+  <!-- feedback: 'Will' would keep the original future of the direct speech and break the sequence of tenses. -->
+- [ ] B) shall
+  <!-- feedback: 'Shall' is used in formal offers and declarations, and it does not carry a backshift here. -->
+- [ ] C) should
+  <!-- feedback: 'Should' would change the meaning to obligation, which the sentence does not express. -->
+- [x] D) would
+  <!-- feedback: Correct! A past reporting verb 'said' shifts the reported future to the past: 'will' becomes 'would'. -->
 
 ### Explicacion Pedagogica
-The word 'layover' is used to describe a period of rest or waiting before a further stage in a journey. This is an important vocabulary word in English.
+A reporting verb in the past moves the reported clause one step back in tense, so a future modal becomes its past form.
 ---
-## Question 13 [D7]
+## Question 13 [D5]
 **ID:** HN-ING-11-2026-W26-inversion-001-MASTERY-bundle-v13
 **Bloom:** Analyze
-**EJE:** Lexico
+**EJE:** Gramatica
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** A building rule is displayed at the entrance of a laboratory.
 
 ### Enunciado
-What is the English word for: "A system of money in general use in a particular country."
+Under no circumstances ____ the door be left unlocked.
 
 ### Opciones
-- [x] C) currency
-  <!-- feedback: Correct! 'Currency' is the money system in general use in a particular country. -->
-- [ ] A) coin
-  <!-- feedback: 'Coin' is a single metal piece of money, one item within the currency, not the whole system. -->
-- [ ] B) banknote
-  <!-- feedback: 'Banknote' is a paper bill, one item of the currency rather than the system of money itself. -->
-- [ ] D) cash
-  <!-- feedback: 'Cash' means money in the physical form you hold, not the money system of a country. -->
+- [x] A) should
+  <!-- feedback: Correct! 'Should' follows 'under no circumstances' because that phrase is a negative fronted expression. -->
+- [ ] B) it should
+  <!-- feedback: 'It should' puts the subject first, which is the order the fronted phrase forbids. -->
+- [ ] C) should it
+  <!-- feedback: 'Should it' inverts the auxiliary and the subject and would leave the main verb 'be' without a subject. -->
+- [ ] D) must
+  <!-- feedback: 'Must' is not a form of 'be' and cannot complete this clause. -->
 
 ### Explicacion Pedagogica
-The word 'currency' is used to describe a system of money in general use in a particular country. This is an important vocabulary word in English.
+The modal 'should' already has the inverted position, so the bare 'be' follows the subject and no further change is needed.
 ---
-## Question 14 [D8]
+## Question 14 [D4]
 **ID:** HN-ING-11-2026-W26-inversion-001-MASTERY-bundle-v14
-**Bloom:** Analyze
-**EJE:** Lexico
+**Bloom:** Apply
+**EJE:** Gramatica
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** A legal office states a firm rule about the handling of documents.
 
 ### Enunciado
-What is the English word for: "A book of information about a place designed for the use of visitors or tourists."
+On no account ____ he sign the document without reading it first.
 
 ### Opciones
-- [x] B) guidebook
-  <!-- feedback: Correct! A 'guidebook' is a book of information about a place written for visitors and tourists. -->
-- [ ] A) map
-  <!-- feedback: 'Map' is a single sheet or screen showing the layout of a place, not a book of information. -->
-- [ ] C) dictionary
-  <!-- feedback: 'Dictionary' is a book of word definitions of a language, not information about a place for visitors. -->
-- [ ] D) encyclopedia
-  <!-- feedback: 'Encyclopedia' is a general reference work with entries on every topic, not a guide written for tourists about one place. -->
+- [ ] A) he did
+  <!-- feedback: 'He did' keeps the subject before the auxiliary and gives no inversion at all. -->
+- [x] B) did
+  <!-- feedback: Correct! 'On no account' is a negative fronted phrase, so the auxiliary 'did' precedes the subject. -->
+- [ ] C) should
+  <!-- feedback: 'Should' would express obligation or advice, which is not the relation stated. -->
+- [ ] D) does
+  <!-- feedback: 'Does' is the present auxiliary, and the sentence reports a past act of signing. -->
 
 ### Explicacion Pedagogica
-The word 'guidebook' is used to describe a book of information about a place designed for the use of visitors or tourists. This is an important vocabulary word in English.
+'On no account' belongs to the same inverting group as 'under no circumstances' and 'in no way'.
 ---
-## Question 15 [D7]
+## Question 15 [D3]
 **ID:** HN-ING-11-2026-W26-inversion-001-MASTERY-bundle-v15
-**Bloom:** Analyze
-**EJE:** Lexico
+**Bloom:** Apply
+**EJE:** Gramatica
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** A driver describes a scene observed from a vehicle near a river.
 
 ### Enunciado
-What is the English word for: "A bag with shoulder straps that allow it to be carried on one's back."
+A driver waited at the junction while two girls ____ a narrow path above the river.
 
 ### Opciones
-- [x] C) backpack
-  <!-- feedback: Correct! A 'backpack' is the bag with shoulder straps that you carry on your back. -->
-- [ ] A) suitcase
-  <!-- feedback: 'Suitcase' is a case with a handle that you pull along, not a bag worn on the back. -->
-- [ ] B) briefcase
-  <!-- feedback: 'Briefcase' is a case for documents and a laptop, carried in the hand for work. -->
-- [ ] D) handbag
-  <!-- feedback: 'Handbag' is a bag for personal items carried on the arm or in the hand, with no back straps. -->
+- [ ] A) climbed up
+  <!-- feedback: 'Climbed up' would add a particle that the sentence does not need for a plain report of the event. -->
+- [ ] B) climbs up
+  <!-- feedback: 'Climbs up' is the present simple and does not match the past narration. -->
+- [x] C) climbed
+  <!-- feedback: Correct! 'Climbed' reports a completed action in the past simple, which matches the first clause of the narration. -->
+- [ ] D) are climbing up
+  <!-- feedback: 'Are climbing up' is the present continuous and would suggest an action still unfinished. -->
 
 ### Explicacion Pedagogica
-The word 'backpack' is used to describe a bag with shoulder straps that allow it to be carried on one's back. This is an important vocabulary word in English.
+Two coordinated clauses in a narration share the same tense, and nothing fronted justifies any inversion here.
 ---
-## Question 16 [D8]
+## Question 16 [D5]
 **ID:** HN-ING-11-2026-W26-inversion-001-MASTERY-bundle-v16
 **Bloom:** Analyze
-**EJE:** Lexico
+**EJE:** Gramatica
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** A sports report describes the restart of a match interrupted by bad weather.
 
 ### Enunciado
-What is the English word for: "In or to a foreign country, especially one across the sea."
+Not until the storm had completely passed ____ they resume the match.
 
 ### Opciones
-- [x] C) overseas
-  <!-- feedback: Correct! 'Overseas' means in or to a foreign country, especially one across the sea. -->
-- [ ] A) domestic
-  <!-- feedback: 'Domestic' means inside your own country, the opposite of overseas. -->
-- [ ] B) local
-  <!-- feedback: 'Local' means in the area where you are, even more restricted than domestic; it never crosses a border. -->
-- [ ] D) national
-  <!-- feedback: 'National' refers to a whole country without saying it is foreign, so it does not imply going abroad. -->
+- [ ] A) they did
+  <!-- feedback: 'They did' keeps the declarative order, so the sentence is not inverted. -->
+- [ ] B) were
+  <!-- feedback: 'Were' is a form of 'be' and cannot invert the main verb 'resume'. -->
+- [ ] C) have
+  <!-- feedback: 'Have' would need 'resumed' and cannot introduce a simple past clause by itself. -->
+- [x] D) did
+  <!-- feedback: Correct! The fronted negative phrase 'not until' triggers the auxiliary 'did' before the subject. -->
 
 ### Explicacion Pedagogica
-The word 'overseas' is used to describe in or to a foreign country, especially one across the sea. This is an important vocabulary word in English.
+A fronted 'not until' is a focusing negative that behaves exactly like 'only after' and 'not before'.
 ---
-## Question 17 [D9]
+## Question 17 [D4]
 **ID:** HN-ING-11-2026-W26-inversion-001-MASTERY-bundle-v17
-**Bloom:** Evaluate
-**EJE:** Lexico
+**Bloom:** Apply
+**EJE:** Gramatica
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** A teacher announces the examination calendar to the students.
 
 ### Enunciado
-What is the English word for: "An estimate of income and expenditure for a set period of time."
+The teacher explained that the final exam ____ take place the first week of July.
 
 ### Opciones
-- [x] C) budget
-  <!-- feedback: Correct! A 'budget' is the estimate of income and expenditure planned for a set period. -->
-- [ ] A) expense
-  <!-- feedback: 'Expense' is a single cost already paid; the definition is the estimate for the whole period. -->
-- [ ] B) cost
-  <!-- feedback: 'Cost' is the price of one thing, whereas a budget covers all income and all spending. -->
-- [ ] D) price
-  <!-- feedback: 'Price' is the amount a single item costs, not a plan of income and expenditure over time. -->
+- [x] A) would
+  <!-- feedback: Correct! A past reporting verb backshifts the reported 'will' to 'would'. -->
+- [ ] B) will
+  <!-- feedback: 'Will' would keep the original future and break the sequence of tenses. -->
+- [ ] C) shall
+  <!-- feedback: 'Shall' is a formal alternative of 'will' but it is not the form a backshift produces. -->
+- [ ] D) must
+  <!-- feedback: 'Must' would express obligation, which the sentence does not state. -->
 
 ### Explicacion Pedagogica
-The word 'budget' is used to describe an estimate of income and expenditure for a set period of time. This is an important vocabulary word in English.
+The sequence of tenses moves a reported future one step back when the verb of reporting is itself in the past.
 ---
-## Question 18 [D10]
+## Question 18 [D4]
 **ID:** HN-ING-11-2026-W26-inversion-001-MASTERY-bundle-v18
-**Bloom:** Evaluate
-**EJE:** Lexico
+**Bloom:** Analyze
+**EJE:** Gramatica
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** A recruiter reports how several candidates performed in a selection process.
 
 ### Enunciado
-What is the English word for: "A practice or arrangement by which a company or government agency provides a guarantee of compensation for specified loss, damage, illness, or death in return for payment of a premium."
+Out of the three candidates, only the second ____ the interview without any preparation.
 
 ### Opciones
-- [x] B) insurance
-  <!-- feedback: Correct! 'Insurance' is the arrangement by which an insurer promises compensation for loss, damage, illness or death in exchange for a premium. -->
-- [ ] A) warranty
-  <!-- feedback: 'Warranty' covers a product against defects for a limited period and is free of charge, not a premium-based contract. -->
-- [ ] C) guarantee
-  <!-- feedback: 'Guarantee' is the promise itself; 'insurance' is the whole contract arranged with an insurer for a premium. -->
-- [ ] D) policy
-  <!-- feedback: 'Policy' is the document that proves the insurance contract; the arrangement itself is the insurance. -->
+- [ ] A) passes
+  <!-- feedback: 'Passes' is the present simple and does not match the narration. -->
+- [x] B) passed
+  <!-- feedback: Correct! 'Passed' is the past simple that the narrative requires, and 'only' modifies the subject rather than opening the clause. -->
+- [ ] C) pass
+  <!-- feedback: 'Pass' is the base form and would need a modal or an auxiliary. -->
+- [ ] D) passing
+  <!-- feedback: 'Passing' is a participle and cannot be the only verb of a finite clause. -->
 
 ### Explicacion Pedagogica
-The word 'insurance' is used to describe a practice or arrangement by which a company or government agency provides a guarantee of compensation for specified loss, damage, illness, or death in return for payment of a premium. This is an important vocabulary word in English.
+The focus word 'only' falls inside the subject, so the clause keeps the normal order. Inversion needs the focusing element at the very front.
 ---
-## Question 19 [D9]
+## Question 19 [D4]
 **ID:** HN-ING-11-2026-W26-inversion-001-MASTERY-bundle-v19
-**Bloom:** Evaluate
-**EJE:** Lexico
+**Bloom:** Apply
+**EJE:** Gramatica
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** An organiser describes how much an audience knew in advance of an announcement.
 
 ### Enunciado
-What is the English word for: "Treatment with a vaccine to produce immunity against a disease."
+Little ____ the committee know about the change of venue before it was announced.
 
 ### Opciones
-- [x] B) vaccination
-  <!-- feedback: Correct! A 'vaccination' is the application of a vaccine that makes the body produce immunity against a disease. -->
-- [ ] A) medication
-  <!-- feedback: 'Medication' is a medicine you take to treat an illness, not the vaccine that prevents one. -->
-- [ ] C) prescription
-  <!-- feedback: 'Prescription' is the written order a doctor gives for a medicine, not the vaccine itself. -->
-- [ ] D) infection
-  <!-- feedback: 'Infection' is the state of having the disease; vaccination is what protects you before you get it. -->
+- [ ] A) they did
+  <!-- feedback: 'They did' keeps the subject first and produces no inversion. -->
+- [ ] B) was
+  <!-- feedback: 'Was' is a form of 'be' and cannot invert with the main verb 'know'. -->
+- [x] C) did
+  <!-- feedback: Correct! 'Did' is the auxiliary that inverts before the subject after the fronted 'little'. -->
+- [ ] D) has
+  <!-- feedback: 'Has' is the present perfect auxiliary, and the report describes a past state of knowledge. -->
 
 ### Explicacion Pedagogica
-The word 'vaccination' is used to describe treatment with a vaccine to produce immunity against a disease. This is an important vocabulary word in English.
+'Little', 'hardly', 'barely' and 'scarcely' invert like the negative adverbs, and they are followed by an auxiliary before the subject.
 ---
-## Question 20 [D10]
+## Question 20 [D3]
 **ID:** HN-ING-11-2026-W26-inversion-001-MASTERY-bundle-v20
-**Bloom:** Evaluate
-**EJE:** Lexico
+**Bloom:** Apply
+**EJE:** Gramatica
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** A bus driver addresses passengers after an unexpected delay on a rural route.
 
 ### Enunciado
-What is the English word for: "Extreme tiredness and other physical effects felt by a person after a long flight across several time zones."
+The bus driver apologised because the road ____ blocked by fallen branches.
 
 ### Opciones
-- [x] D) jet lag
-  <!-- feedback: Correct! 'Jet lag' is the tiredness and disturbed body clock you feel after a flight across several time zones. -->
-- [ ] A) fatigue
-  <!-- feedback: 'Fatigue' is tiredness after effort or a long day, not specifically caused by crossing time zones. -->
-- [ ] B) exhaustion
-  <!-- feedback: 'Exhaustion' is extreme tiredness from overwork or lack of sleep, which is not the same as the time zone effect. -->
-- [ ] C) insomnia
-  <!-- feedback: 'Insomnia' is the inability to sleep, whereas jet lag comes with tiredness during the day and a shifted body clock. -->
+- [ ] A) were
+  <!-- feedback: 'Were' would not agree with a singular subject. -->
+- [ ] B) has
+  <!-- feedback: 'Has' is the present perfect, and the blockage is a completed past event. -->
+- [ ] C) having
+  <!-- feedback: 'Having' is a participle and cannot be the auxiliary of a finite passive clause. -->
+- [x] D) was
+  <!-- feedback: Correct! 'Was' is the passive auxiliary and agrees with the singular subject 'the road'. -->
 
 ### Explicacion Pedagogica
-The word 'jet lag' is used to describe extreme tiredness and other physical effects felt by a person after a long flight across several time zones. This is an important vocabulary word in English.
+In a passive clause the auxiliary comes before the past participle, and the past simple is required by the reported event.
+---
