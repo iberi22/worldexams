@@ -107,8 +107,8 @@ const FILLER = {
 
 // The validator rejects the literal text "Opcion B/C/D" as a placeholder, so
 // the fixture uses real-looking answer texts instead of a label.
-const opt = (letter, isCorrect, fb) =>
-  `- [${isCorrect ? 'x' : ' '}] ${letter}) Valor numerico ${letter} de la serie.\n  <!-- feedback: ${fb} -->`;
+const opt = (letter, isCorrect, fb, n = 1) =>
+  `- [${isCorrect ? 'x' : ' '}] ${letter}) Valor numerico ${letter} de la serie ${n}.\n  <!-- feedback: ${fb} -->`;
 
 const fillerQuestion = (n) => `## Question ${n} [D3-D4]
 **ID:** ${ID}-v${n}
@@ -118,16 +118,16 @@ const fillerQuestion = (n) => `## Question ${n} [D3-D4]
 **Contexto:** Contexto de prueba en Bogota.
 
 ### Enunciado
-Enunciado de prueba.
+Enunciado de prueba numero ${n}.
 
 ### Opciones
-${opt('A', true, FILLER.A)}
-${opt('B', false, FILLER.B)}
-${opt('C', false, FILLER.C)}
-${opt('D', false, FILLER.D)}
+${opt('A', true, FILLER.A, n)}
+${opt('B', false, FILLER.B, n)}
+${opt('C', false, FILLER.C, n)}
+${opt('D', false, FILLER.D, n)}
 
 ### Explicacion Pedagogica
-Explicacion pedagogica distinta para esta pregunta, con suficiente longitud
+Explicacion pedagogica distinta para esta pregunta ${n}, con suficiente longitud
 para superar el umbral de detalle exigido por el validador de calidad.`;
 
 const build = (c) => `---
@@ -383,6 +383,129 @@ try {
     const want = c.rule || 'placeholder';
     const hit = new RegExp(want, 'i').test(msg);
     const ok = verdict === c.expect && (c.expect === 'accept' || hit);
+    console.log(`${ok ? 'PASS' : 'FAIL'}  ${c.name.padEnd(52)} validator=${verdict} (want ${c.expect})`);
+    if (ok) pass += 1;
+    else {
+      fail += 1;
+      console.log(`      msg: ${msg.slice(0, 300).replace(/\n/g, ' | ')}`);
+    }
+  }
+} finally {
+  fs.rmSync(FILE, { force: true });
+}
+
+// ---------------------------------------------------------------------------
+// Duplicate Question Collision Gate: intra-bundle and cross-bundle duplicates.
+// ---------------------------------------------------------------------------
+const dupQuestionCases = [
+  {
+    name: 'intra-bundle duplicate question is rejected',
+    expect: 'reject',
+    hit: /duplicate-question/i,
+    buildContent: () => {
+      const q1 = fillerQuestion(1);
+      const rest = [3, 4, 5, 6, 7, 8, 9, 10].map(fillerQuestion).join('\n\n');
+      const q2Dup = q1.replace('## Question 1', '## Question 2').replace(`ID: ${ID}-v1`, `ID: ${ID}-v2`);
+      return `${LABEL_FM}\n\n${q1}\n\n${q2Dup}\n\n${rest}`;
+    },
+  },
+  {
+    name: 'cross-bundle PR-vs-main duplicate question is rejected',
+    expect: 'reject',
+    hit: /duplicate-question/i,
+    buildContent: () => {
+      const q1Copy = `## Question 1 [D3-D4]
+**ID:** ${ID}-v1
+**Bloom:** Remember
+**ICFES:** Lexico
+**Expected_Success:** 0.80
+**Contexto:** Choose the correct English word for the given definition.
+
+### Enunciado
+What is the English word for: "A place where you live or stay on holiday."
+
+### Opciones
+- [x] D) accommodation
+  <!-- feedback: Correct! 'accommodation' is the word for a place where you live or stay on holiday. -->
+- [ ] A) transportation
+  <!-- feedback: 'transportation' is the system of moving people or goods between places, not the place you sleep in itself. -->
+- [ ] B) entertainment
+  <!-- feedback: 'entertainment' is whatever amuses you, such as a show or a game, and not somewhere to live. -->
+- [ ] C) currency
+  <!-- feedback: 'currency' is the money a country uses, such as pesos or dollars, and not a building you can stay in. -->
+
+### Explicacion Pedagogica
+The word 'accommodation' is used to describe a place where you live or stay on holiday. This is an important vocabulary word in English.`;
+      const rest = [2, 3, 4, 5, 6, 7, 8, 9, 10].map((n) => `## Question ${n} [D3-D4]
+**ID:** ${ID}-v${n}
+**Bloom:** Remember
+**ICFES:** Numerico
+**Expected_Success:** 0.90
+**Contexto:** Contexto de prueba en Bogota.
+
+### Enunciado
+Unique question stem number ${n} for testing non duplication.
+
+### Opciones
+- [x] A) Unique option A for Q${n}
+  <!-- feedback: Correcto. Opcion A es la correcta para Q${n}. -->
+- [ ] B) Unique option B for Q${n}
+  <!-- feedback: Incorrecto. Opcion B no es correcta para Q${n}. -->
+- [ ] C) Unique option C for Q${n}
+  <!-- feedback: Incorrecto. Opcion C no es correcta para Q${n}. -->
+- [ ] D) Unique option D for Q${n}
+  <!-- feedback: Incorrecto. Opcion D no es correcta para Q${n}. -->
+
+### Explicacion Pedagogica
+Explicacion pedagogica con suficiente detalle para superar las validaciones de calidad.`);
+      return `${LABEL_FM}\n\n${q1Copy}\n\n${rest.join('\n\n')}`;
+    },
+  },
+  {
+    name: 'non-duplicate bundle with unique questions is accepted',
+    expect: 'accept',
+    hit: null,
+    buildContent: () => {
+      const questions = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10].map((n) => `## Question ${n} [D3-D4]
+**ID:** ${ID}-v${n}
+**Bloom:** Remember
+**ICFES:** Numerico
+**Expected_Success:** 0.90
+**Contexto:** Contexto de prueba en Bogota.
+
+### Enunciado
+Unique question stem number ${n} for testing non duplication.
+
+### Opciones
+- [x] A) Unique option A for Q${n}
+  <!-- feedback: Correcto. Opcion A es la correcta para Q${n}. -->
+- [ ] B) Unique option B for Q${n}
+  <!-- feedback: Incorrecto. Opcion B no es correcta para Q${n}. -->
+- [ ] C) Unique option C for Q${n}
+  <!-- feedback: Incorrecto. Opcion C no es correcta para Q${n}. -->
+- [ ] D) Unique option D for Q${n}
+  <!-- feedback: Incorrecto. Opcion D no es correcta para Q${n}. -->
+
+### Explicacion Pedagogica
+Explicacion pedagogica con suficiente detalle para superar las validaciones de calidad.`);
+      return `${LABEL_FM}\n\n${questions.join('\n\n')}`;
+    },
+  },
+];
+
+try {
+  for (const c of dupQuestionCases) {
+    fs.writeFileSync(FILE, c.buildContent(), 'utf8');
+    let verdict = 'accept';
+    let msg = '';
+    try {
+      execFileSync('node', [VALIDATOR, FILE], { cwd: REPO, stdio: 'pipe' });
+    } catch (e) {
+      verdict = 'reject';
+      msg = String(e.stderr || '');
+    }
+    const hit = c.hit ? c.hit.test(msg) : true;
+    const ok = verdict === c.expect && hit;
     console.log(`${ok ? 'PASS' : 'FAIL'}  ${c.name.padEnd(52)} validator=${verdict} (want ${c.expect})`);
     if (ok) pass += 1;
     else {

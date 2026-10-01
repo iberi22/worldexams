@@ -21,6 +21,7 @@
     "test:scripts": "bash scripts/check-scripts.sh",
     "check:language": "node scripts/check-feedback-language.mjs",
     "audit:country-readiness": "node scripts/audit-country-readiness.mjs",
+    "audit:duplicate-questions": "node scripts/audit-duplicate-questions.mjs",
     "dev": "npm run dev:landing-worldexams",
     "dev:landing-worldexams": "npm run dev -w @worldexams/landing-worldexams",
     "dev:saberparatodos": "npm run dev -w saberparatodos",
