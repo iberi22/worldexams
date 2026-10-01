@@ -138,7 +138,7 @@ Una valla dice "Compre ahora mismo" y la valla vecina dice "Más de 50.000 vehí
   <!-- feedback: Incorrecto. Compartir emisor y género no iguala el valor de los argumentos: uno se sostiene en una orden y el otro en una afirmación numérica. -->
 
 ### Explicacion Pedagogica
-Evaluar un mensaje publicitario exige separar el recurso retórico del respaldo que lo hace creíble. Un dato comprobable y una orden mecánica no persuasIVEN con la misma lógica.
+Evaluar un mensaje publicitario exige separar el recurso retórico del respaldo que lo hace creíble. Un dato comprobable y una orden mecánica no persuasivo con la misma lógica.
 
 ## Question 6 [D7-D8]
 **ID:** CO-LEN-10-2026-W31-el-sentido-de-los-signos-001-MASTERY-bundle-v6
@@ -223,7 +223,7 @@ Un medio de Tunja informa que "el 80 % de los lectores prefiere el aviso A", per
 - [x] A) La conclusión no es sólida, porque la muestra no representa al conjunto de lectores y no sostiene la generalización.
   <!-- feedback: Correcto. Generalizar a todos los lectores a partir de quienes estaban frente a ese aviso es un salto invalido; la muestra está sesgada por la cercanía al objeto. -->
 - [ ] B) La conclusión es sólida, porque el 80 % es una mayoría y una mayoría siempre demuestra tendencia.
-  <!-- feedback: Incorrecto. Un porcentaje alto calculado sobre una muestra sesgada no generaliza; el tamaño relativo no corrige el problema de quién fueJHUDEAO. -->
+  <!-- feedback: Incorrecto. Un porcentaje alto calculado sobre una muestra sesgada no generaliza; el tamaño relativo no corrige el problema de quién fueó evaluado. -->
 - [ ] C) La conclusión es sólida, porque el medio que la publica tiene trayectoria yfiabilidadPeriodista reconocida.
   <!-- feedback: Incorrecto. La credibilidad de la fuente no sustituye el método; un medio serio puede publicar generalizaciones mal construidas. -->
 - [ ] D) La conclusión es sólida si se cambia el porcentaje por el número exacto de personas entrevistadas.
