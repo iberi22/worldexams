@@ -31,6 +31,7 @@ const DEAD_WRONG = 'Incorrecto.';
 const DEAD_CORRECT = 'Correcto.';
 const DEAD_TRY = 'Incorrect. Try again.';
 const VAGUE_REVISA = 'Incorrecto. Revisa el concepto.';
+const JUNK_PRAISE = 'Correct! Well done.';
 // Real feedback taken from the merged corpus. Each of these explains the reason
 // in its own words and MUST be accepted: an earlier version of the gate rejected
 // them because it expected a fixed vocabulary (olvido, confunde, porque...).
@@ -55,6 +56,17 @@ const REAL_GOOD = [
   ['eng: second conditional', 'Incorrect. Second conditional.'],
   ['eng: relative pronoun', "Incorrect. 'Who' is a relative pronoun, but we need possession."],
   ['eng: gerund', 'Incorrect. Gerund.'],
+  // Short but specific. The length floor rejected all of these; every one names
+  // the thing that is wrong. "Well done" x400 was the only real junk it caught.
+  ['eng: missing to', "Incorrect. Missing 'to'"],
+  ['eng: word order', 'Incorrect. word order'],
+  ['math: power', 'Incorrect. 2⁴ é 16'],
+  ['math: square', 'Incorrect. 49² não é 49'],
+  ['math: sign', 'Incorrect. Error de signo'],
+  ['eng: not mentioned', 'Incorrect. Not mentioned'],
+  ['eng: too broad', 'Incorrect. Too broad'],
+  ['math: p90', 'Incorrect. Ese es el P90'],
+  ['math: not null', 'Incorrect. Z no es nulo'],
   ['eng: present perfect continuous', 'Incorrect. Present perfect continuous.'],
 ];
 
