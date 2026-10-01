@@ -34,13 +34,13 @@ What is the English word for: "A place where you live or stay on holiday."
 
 ### Opciones
 - [x] B) accommodation
-  <!-- feedback: Correct! 'accommodation' matches the definition. -->
+  <!-- feedback: Correct! 'accommodation' is the word for a place where you live or stay on holiday. -->
 - [ ] A) transportation
-  <!-- feedback: Incorrect. Try again. -->
+  <!-- feedback: 'transportation' is the system of moving people or goods between places, not the place you sleep in itself. -->
 - [ ] C) entertainment
-  <!-- feedback: Incorrect. Try again. -->
+  <!-- feedback: 'entertainment' is whatever amuses you, such as a show or a game, and not somewhere to live. -->
 - [ ] D) currency
-  <!-- feedback: Incorrect. Try again. -->
+  <!-- feedback: 'currency' is the money a country uses, such as pesos or dollars, and not a building you can stay in. -->
 
 ### Explicacion Pedagogica
 The word 'accommodation' is used to describe a place where you live or stay on holiday. This is an important vocabulary word in English.
@@ -57,13 +57,13 @@ What is the English word for: "A detailed plan or route of a journey."
 
 ### Opciones
 - [x] C) itinerary
-  <!-- feedback: Correct! 'itinerary' matches the definition. -->
+  <!-- feedback: Correct! 'itinerary' is the detailed plan of a journey, listing the places you visit and the order you visit them. -->
 - [ ] A) baggage
-  <!-- feedback: Incorrect. Try again. -->
+  <!-- feedback: 'baggage' is the suitcases and bags you travel with, not the plan of the trip. -->
 - [ ] B) destination
-  <!-- feedback: Incorrect. Try again. -->
+  <!-- feedback: 'destination' names only the place you are going to, without the route or the order of the whole journey. -->
 - [ ] D) passport
-  <!-- feedback: Incorrect. Try again. -->
+  <!-- feedback: 'passport' is the official document that lets you cross a border, not the plan of where you go. -->
 
 ### Explicacion Pedagogica
 The word 'itinerary' is used to describe a detailed plan or route of a journey. This is an important vocabulary word in English.
@@ -80,13 +80,13 @@ What is the English word for: "The place to which someone or something is going 
 
 ### Opciones
 - [x] C) destination
-  <!-- feedback: Correct! 'destination' matches the definition. -->
+  <!-- feedback: Correct! 'destination' is the place someone is going to or something is being sent to. -->
 - [ ] A) departure
-  <!-- feedback: Incorrect. Try again. -->
+  <!-- feedback: 'departure' is the act of leaving a place, which is the other side of arriving rather than a place itself. -->
 - [ ] B) arrival
-  <!-- feedback: Incorrect. Try again. -->
+  <!-- feedback: 'arrival' is the act of reaching a place, not the place that is reached. -->
 - [ ] D) journey
-  <!-- feedback: Incorrect. Try again. -->
+  <!-- feedback: 'journey' is the whole trip from the start to the end, not the place the trip finishes at. -->
 
 ### Explicacion Pedagogica
 The word 'destination' is used to describe the place to which someone or something is going or being sent. This is an important vocabulary word in English.
@@ -103,13 +103,13 @@ What is the English word for: "Suitcases or other bags in which to pack personal
 
 ### Opciones
 - [x] D) luggage
-  <!-- feedback: Correct! 'luggage' matches the definition. -->
+  <!-- feedback: Correct! 'luggage' is the collective word for the suitcases and bags in which you pack your belongings to travel. -->
 - [ ] A) ticket
-  <!-- feedback: Incorrect. Try again. -->
+  <!-- feedback: 'ticket' is the paper that gives you the right to travel, not the bag you pack your clothes in. -->
 - [ ] B) flight
-  <!-- feedback: Incorrect. Try again. -->
+  <!-- feedback: 'flight' is the journey by plane itself, not the containers that hold your things. -->
 - [ ] C) reservation
-  <!-- feedback: Incorrect. Try again. -->
+  <!-- feedback: 'reservation' is the booking you make for a seat or a room, not the bag you carry. -->
 
 ### Explicacion Pedagogica
 The word 'luggage' is used to describe suitcases or other bags in which to pack personal belongings for traveling. This is an important vocabulary word in English.
@@ -126,13 +126,13 @@ What is the English word for: "A traveler on a public or private conveyance othe
 
 ### Opciones
 - [x] D) passenger
-  <!-- feedback: Correct! 'passenger' matches the definition. -->
+  <!-- feedback: Correct! 'passenger' is someone who travels in a vehicle without being the driver, the pilot or part of the crew. -->
 - [ ] A) pedestrian
-  <!-- feedback: Incorrect. Try again. -->
+  <!-- feedback: 'pedestrian' is a person who travels on foot, so this person is not riding in any vehicle at all. -->
 - [ ] B) commuter
-  <!-- feedback: Incorrect. Try again. -->
+  <!-- feedback: 'commuter' describes the habit of travelling regularly to work or school, not the place the person sits on the vehicle. -->
 - [ ] C) tourist
-  <!-- feedback: Incorrect. Try again. -->
+  <!-- feedback: 'tourist' is someone who visits a place for pleasure, which says nothing about being carried by the vehicle. -->
 
 ### Explicacion Pedagogica
 The word 'passenger' is used to describe a traveler on a public or private conveyance other than the driver, pilot, or crew. This is an important vocabulary word in English.
@@ -149,13 +149,13 @@ What is the English word for: "The place at a port, airport, or frontier where o
 
 ### Opciones
 - [x] C) customs
-  <!-- feedback: Correct! 'customs' matches the definition. -->
+  <!-- feedback: Correct! 'customs' is the office at a port, airport or border where officials check the goods, travelers and luggage that arrive. -->
 - [ ] A) security
-  <!-- feedback: Incorrect. Try again. -->
+  <!-- feedback: 'security' is the staff and the checks that keep an airport safe, and not the inspection of the goods you bring in. -->
 - [ ] B) terminal
-  <!-- feedback: Incorrect. Try again. -->
+  <!-- feedback: 'terminal' is the building where you wait for your plane, not the place where your belongings are inspected. -->
 - [ ] D) gate
-  <!-- feedback: Incorrect. Try again. -->
+  <!-- feedback: 'gate' is the door at the plane you walk through to board, not the place where officials check your things. -->
 
 ### Explicacion Pedagogica
 The word 'customs' is used to describe the place at a port, airport, or frontier where officials check incoming goods, travelers, or luggage. This is an important vocabulary word in English.
@@ -172,13 +172,13 @@ What is the English word for: "A document provided by an airline during check-in
 
 ### Opciones
 - [x] C) boarding pass
-  <!-- feedback: Correct! 'boarding pass' matches the definition. -->
+  <!-- feedback: Correct! 'boarding pass' is the card the airline gives you when you check in, and it is what lets you board the plane. -->
 - [ ] A) visa
-  <!-- feedback: Incorrect. Try again. -->
+  <!-- feedback: 'visa' is the official permission a government gives you to enter a country, issued by the consulate and not by the airline. -->
 - [ ] B) receipt
-  <!-- feedback: Incorrect. Try again. -->
+  <!-- feedback: 'receipt' is the proof that you paid for something, which is not permission to board a plane. -->
 - [ ] D) brochure
-  <!-- feedback: Incorrect. Try again. -->
+  <!-- feedback: 'brochure' is a leaflet with tourist information, not a travel document issued to a passenger. -->
 
 ### Explicacion Pedagogica
 The word 'boarding pass' is used to describe a document provided by an airline during check-in, giving a passenger permission to board the airplane. This is an important vocabulary word in English.
@@ -195,13 +195,13 @@ What is the English word for: "The activity of visiting places of interest in a 
 
 ### Opciones
 - [x] D) sightseeing
-  <!-- feedback: Correct! 'sightseeing' matches the definition. -->
+  <!-- feedback: Correct! 'sightseeing' means visiting the places of interest of a location as a traveler. -->
 - [ ] A) shopping
-  <!-- feedback: Incorrect. Try again. -->
+  <!-- feedback: 'shopping' is buying things in stores, so it is not the activity of visiting the sights of a place. -->
 - [ ] B) hiking
-  <!-- feedback: Incorrect. Try again. -->
+  <!-- feedback: 'hiking' is walking along a trail in nature, a sport, and not touring the places of interest of a city. -->
 - [ ] C) camping
-  <!-- feedback: Incorrect. Try again. -->
+  <!-- feedback: 'camping' is sleeping outdoors in a tent, which is not the activity of going around to see a place. -->
 
 ### Explicacion Pedagogica
 The word 'sightseeing' is used to describe the activity of visiting places of interest in a particular location. This is an important vocabulary word in English.

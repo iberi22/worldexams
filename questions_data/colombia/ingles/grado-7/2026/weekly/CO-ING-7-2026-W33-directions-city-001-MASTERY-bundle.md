@@ -112,9 +112,9 @@ The student understands the correct interrogative word to ask for directions.
 
 ### Opciones
 - [ ] A) on
-  <!-- feedback: Incorrect. -->
+  <!-- feedback: Incorrect. "On the church and the school" would place the park on top of two buildings, which is not the relationship described. -->
 - [ ] C) in
-  <!-- feedback: Incorrect. -->
+  <!-- feedback: Incorrect. "In" describes the inside of one container or area, but here there are two separate places to compare. -->
 - [x] B) between
   <!-- feedback: Correct! "Between" is used for a position between two other things. -->
 - [ ] D) next
@@ -141,9 +141,9 @@ The student understands the use of the preposition "between" to describe a relat
 - [x] A) turn
   <!-- feedback: Correct! "Turn" is the specific verb for changing direction at a corner. -->
 - [ ] C) walk
-  <!-- feedback: Incorrect. -->
+  <!-- feedback: Incorrect. "Walk right" is not how you give this instruction: a change of direction at a corner is always made with the verb "turn". -->
 - [ ] D) stop
-  <!-- feedback: Incorrect. -->
+  <!-- feedback: Incorrect. "Stop right" means something is already wrong and you should halt, not that you should change direction. -->
 
 ### Explicacion Pedagogica
 The student applies the correct imperative verb for directional instructions.
@@ -240,7 +240,7 @@ What two places are located together?
 
 ### Opciones
 - [ ] A) The stranger and the bakery.
-  <!-- feedback: Incorrect. -->
+  <!-- feedback: Incorrect. A stranger is a person, not a place, so the two of them cannot be described as located together. -->
 - [x] B) The bakery and the post office.
   <!-- feedback: Correct! The text says the bakery is "next to the post office". -->
 - [ ] C) The bank and the post office.
