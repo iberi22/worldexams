@@ -40,6 +40,9 @@ jobs:
       - name: 🔐 Validate Secrets & Placeholders
         run: npm test
 
+      - name: 🌐 Language Gate Check (Anti English Leakage)
+        run: node scripts/check-feedback-language.mjs
+
       - name: 🔍 ESLint Linting Check (0 Errors, 0 Warnings)
         run: npm run lint
 

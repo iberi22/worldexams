@@ -58,6 +58,15 @@ jobs:
           echo "Validating ${#FILES[@]} bundle(s)"
           node scripts/validate-bundles-v52.mjs "${FILES[@]}"
 
+      - name: Language gate check (anti English leakage)
+        run: |
+          git fetch --no-tags --depth=200 origin main
+          BASE=$(git merge-base origin/main HEAD || echo origin/main)
+          mapfile -t FILES < <(git diff --name-only --diff-filter=AM "$BASE" HEAD -- 'questions_data/**/*.md' || true)
+          if [ "${#FILES[@]}" -eq 0 ]; then echo "No changed questions_data files."; exit 0; fi
+          echo "Checking language on ${#FILES[@]} file(s)"
+          node scripts/check-feedback-language.mjs "${FILES[@]}"
+
       - name: Pack manifest freshness (warning only; deploy regenerates it)
         run: node apps/worldexams-api/scripts/build-pack-manifest.mjs --check || echo "::warning::apps/worldexams-api/public/v1/packs/_manifest.json is stale — production deploy regenerates it; run the script to update the committed copy."
 

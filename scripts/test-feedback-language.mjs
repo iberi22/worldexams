@@ -53,19 +53,29 @@ const ENGLISH_FEEDBACK = [
   'Gerund.',
 ];
 
-function makeBundle(dir, stem, feedbacks, subject = 'ingles', option = 'The books are on the desk.') {
+function makeBundle(
+  dir,
+  stem,
+  feedbacks,
+  subject = 'ingles',
+  option = 'The books are on the desk.',
+  enunciadoText = 'Which sentence is correct?'
+) {
   // The script locates the language by the path shape
   // questions_data/<country>/<subject>/<grade>/..., so the fixture has to have
   // that shape or the subject is never recognised.
   const weekly = path.join(dir, 'questions_data', 'co', subject, 'grado-3', '2026', 'weekly');
   fs.mkdirSync(weekly, { recursive: true });
   const options = feedbacks
-    .map((f, i) => `- [${i === 0 ? 'x' : ' '}] ${'ABCD'[i]}) ${option}\n  <!-- feedback: ${f} -->`)
+    .map((f, i) => {
+      const optText = typeof option === 'function' ? option(i) : option;
+      return `- [${i === 0 ? 'x' : ' '}] ${'ABCD'[i]}) ${optText}\n  <!-- feedback: ${f} -->`;
+    })
     .join('\n');
   const file = path.join(weekly, `T-ING-3-2026-W01-${stem}-001-MASTERY-bundle.md`);
   fs.writeFileSync(
     file,
-    `---\nid: "T-ING-3-2026-W01-${stem}-001-MASTERY-bundle"\ncountry: "co"\ngrado: 3\n---\n\n## Question 1 [D3-D4]\n**ID:** q1\n\n### Enunciado\nWhich sentence is correct?\n\n### Opciones\n${options}\n`,
+    `---\nid: "T-ING-3-2026-W01-${stem}-001-MASTERY-bundle"\ncountry: "co"\ngrado: 3\n---\n\n## Question 1 [D3-D4]\n**ID:** q1\n\n### Enunciado\n${enunciadoText}\n\n### Opciones\n${options}\n`,
     'utf8'
   );
 }
@@ -103,11 +113,45 @@ try {
     assert.equal(r.offenders.length, 0);
   });
 
-  test('ignores a spanish-language bundle, where spanish feedback is correct', () => {
-    makeBundle(path.join(tmp, 'd'), 'x', SPANISH_FEEDBACK, 'matematicas', '3 + 4 = 7');
+  test('accepts a spanish-language bundle with valid spanish text and feedback', () => {
+    makeBundle(path.join(tmp, 'd'), 'x', SPANISH_FEEDBACK, 'matematicas', '3 + 4 = 7', '¿Cuál es el resultado?');
     const r = run(path.join(tmp, 'd'));
-    assert.equal(r.checkedFiles, 0);
+    assert.equal(r.checkedFiles, 1);
     assert.equal(r.offenders.length, 0);
+  });
+
+  test('flags a spanish bundle containing blacklisted English leakage words in stem or options', () => {
+    const d = path.join(tmp, 'f');
+    makeBundle(
+      d,
+      'leak',
+      ['El personaje cambia.', 'Incorrecto.', 'Sin relación.', 'Correcto.'],
+      'lengua',
+      (i) => (i === 0 ? 'El cambio de narrator no elimina personajes' : 'Opción neutra'),
+      '¿Qué ocurre en la narración?'
+    );
+    const r = run(d);
+    assert.equal(r.checkedFiles, 1);
+    assert.equal(r.offenders.length, 1);
+    assert.equal(r.offenders[0].type, 'english-leakage');
+    assert.equal(r.offenders[0].word.toLowerCase(), 'narrator');
+  });
+
+  test('flags a spanish bundle containing recounts or ancestor leakage in text', () => {
+    const d = path.join(tmp, 'g');
+    makeBundle(
+      d,
+      'prueba',
+      ['Opción A.', 'Opción B.', 'Opción C.', 'Opción D.'],
+      'lectura-critica',
+      'Opción válida en español.',
+      'El texto narra la voz de un ancestor que recounts los hechos.'
+    );
+    const r = run(d);
+    assert.equal(r.checkedFiles, 1);
+    assert.equal(r.offenders.length, 2);
+    assert(r.offenders.some((o) => o.word.toLowerCase() === 'ancestor'));
+    assert(r.offenders.some((o) => o.word.toLowerCase() === 'recounts'));
   });
 
   test('only reports a bundle when the majority of its feedback is the wrong language', () => {
