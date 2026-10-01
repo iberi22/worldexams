@@ -1,0 +1,563 @@
+{
+  "metadata": {
+    "grade": 10,
+    "subject": "lengua",
+    "country": "co",
+    "pack_id": "co-week-39-grade-10-subject-lengua",
+    "generated_at": "2026-10-01T15:42:39.109Z"
+  },
+  "questions": [
+    {
+      "id": "CO-LEN-10-2026-W39-la-obra-literaria-y-su-contexto-001-MASTERY-bundle-v1",
+      "statement": "¿Cuál de las siguientes definiciones corresponde al concepto de obra literaria en el grado 10?",
+      "context": "En el Colegio San Cristóbal de Bogotá, grado 10 prepara la evaluación de literatura para la semana 39.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es una construcción de lenguaje que representa y transforma la realidad social mediante figuras poéticas, con una intención estética y una organización interna propia.",
+          "is_correct": true,
+          "feedback": "Correcto. La obra literaria no es solo un texto informativo: es una construcción estética que reordena la realidad, usa recursos como metáfora, hipérbole y simbolo, y se puede analizar por su forma y por su contenido."
+        },
+        {
+          "letter": "B",
+          "text": "Es el resumen biográfico ordenado de la vida de un escritor, desde su nacimiento hasta su muerte.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La biografía es un dato biográfico, no la obra: la obra es el texto creado por el autor. En una clase de Bogotá, leer la ficha biográfica de García Márquez no reemplaza la lectura de *El amor en los tiempos del cólera*."
+        },
+        {
+          "letter": "C",
+          "text": "Es el comentario de un crítico literario que resume y juzga el valor de un texto escrito por otro autor.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Confundiste la obra con la crítica sobre la obra: el comentario del crítico es un texto secundario que habla de la obra, no la obra misma."
+        },
+        {
+          "letter": "D",
+          "text": "Es el conjunto de datosBiográficos y bibliográficos que aparecen en la contraportada de un libro, como el nombre real del autor o la editorial.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa información pertenece a los datos de publicación del libro; no constituye la obra, que es el resultado de la escribir y no del imprimir."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La obra literaria es una construcción estética de lenguaje, autónoma respecto de la vida del autor y de los datos editoriales. Reconocer esta definición evita el error más frecuente: reducir la literatura a—who es el autor— en lugar de—at qué dice y cómo lo dice—.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Semantico",
+      "expected_success": 0.85,
+      "bundle_id": "CO-LEN-10-2026-W39-la-obra-literaria-y-su-contexto-001-MASTERY-bundle",
+      "periodo": 39,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-10-2026-W39-la-obra-literaria-y-su-contexto-001-MASTERY-bundle-v2",
+      "statement": "¿Cuál es la razón principal por la que la literatura colombiana cambia de temática y de estilo en distintas épocas?",
+      "context": "En el Colegio La Envolvente de Medellín, un grupo de grado 10 discute por qué las novelas de la región antioqueña cambian de estilo después de 1950.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque los escritores antioqueñosgonecopiaron las fórmulas de la literatura europea sin necesidad de adaptarlas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Un cambio de estilo responde a razones internas y externas; no a una copia mecánica de modelos europeos, que además contradice el carácter criollo de la tradición colombiana."
+        },
+        {
+          "letter": "B",
+          "text": "Porque las transformaciones sociales, políticas y culturales de cada época generan nuevasproblems de investigación que los escritores reflejan.",
+          "is_correct": true,
+          "feedback": "Correcto. La literatura responde a su momento histórico: la industrialización del Valle del Cauca, la violencia del campo colombiano de los años cincuenta o la reforma agraria impulsaron temas nuevos en la narrativa colombiana."
+        },
+        {
+          "letter": "C",
+          "text": "Porque el número de lectores disminuyó y por eso los autores buscaron textos más cortos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El público lector no explica un cambio de temática; de hecho, la expansión de la imprenta y las bibliotecas de la UNESCO en el siglo XX aumentaban, no reducían, la circulación de libros."
+        },
+        {
+          "letter": "D",
+          "text": "Porque las_reward del Estado cambiaron y los escritores dejaron de escribir lysine.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Invoca una razón económica sin sustento histórico; la literatura colombiana cambió porque cambió el país, no solo porque cambiara el precio de los manuscritos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El contexto histórico, social y cultural es el motor de los cambios internos de estilo en la obra. Comprenderlo permite al estudiante explicar por qué una novela de José María Arguedas no puede leerse igual que una crónica costumbrista de un siglo antes.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Discursivo",
+      "expected_success": 0.85,
+      "bundle_id": "CO-LEN-10-2026-W39-la-obra-literaria-y-su-contexto-001-MASTERY-bundle",
+      "periodo": 39,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-10-2026-W39-la-obra-literaria-y-su-contexto-001-MASTERY-bundle-v3",
+      "statement": "En el fragmento, el narrador afirma que lasgomitas de la región conservan «la voz verdadera del pueblo». ¿Qué intención comunicativa permite identificar este fragmento?",
+      "context": "En un colegio de Cali, grado 10 analiza el prólogo de una novela regional que presenta al campesino como voz autorizada de una comunidad.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Informar de manera objetiva el censo agrícola del departamento del Valle del Cauca, con datos verificables.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El fragmento no busca precisión estadística sino una toma de posición: por eso el tono no es de informe sino de declaración de autoridad."
+        },
+        {
+          "letter": "B",
+          "text": "Entretener sin compromiso, recreando un cuadro costumbrista de la vida rural, como la voz de Leah.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El propósito no es el entretenimiento gratuito ni la evocación sin compromiso: la frase busca legitimar una mirada sobre lo popular."
+        },
+        {
+          "letter": "C",
+          "text": "Legitimar la voz popular y fundar la autoridad del discurso en la experiencia vivida por la comunidad.",
+          "is_correct": true,
+          "feedback": "Correcto. El enunciado «la voz verdadera del pueblo» resuelve la pragmática del texto: otorga legitimidad y convierte la experiencia comunitaria en fundamento del discurso."
+        },
+        {
+          "letter": "D",
+          "text": "Persuadir al lector para que compre la publicación, usando un lenguaje publicitario sobre laBondad del campo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Reduce un recurso retórico a un objetivo comercial; la الجمهور objetivo no es un cliente sino una comunidad letrada."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La intención comunicativa se deduce del uso que el enunciado hace de su propia autoridad. Cuando un texto declara quién habla por el pueblo, está construyendo una estrategia discursiva, no solo describiendo una realidad.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Pragmatico",
+      "expected_success": 0.8,
+      "bundle_id": "CO-LEN-10-2026-W39-la-obra-literaria-y-su-contexto-001-MASTERY-bundle",
+      "periodo": 39,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-10-2026-W39-la-obra-literaria-y-su-contexto-001-MASTERY-bundle-v4",
+      "statement": "Un fragmento describe un ritual campesino: losLabradores reaccionan a un clima determinado, repiten las mismas canciones y nombran los herramientas con nombres propios. ¿QuéEvidence textual permite ubicarlo en un contexto costumbrista regional?",
+      "context": "En Tunja, grado 10 trabaja un fragmento de un texto de laBoyacá regional sobre las faenas agrícolas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La presencia de Statistical tablas de producción agrícola que comparan dos cosechas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los datos cuantitativos pertenecen al registro técnico o a la crónica(), no a la representación de un ritual: lo costumbrista se define por prácticas, no por cifras."
+        },
+        {
+          "letter": "B",
+          "text": "El uso de un narrador en primera persona que firma el relato con fecha y ciudad.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese recurso testimonial da contexto documental, no costumbrismo: la huella costumbrista está en las prácticas descritas, no en la firma."
+        },
+        {
+          "letter": "C",
+          "text": "La llegada de un dialecto de la Costa al dialecto central, es decir, un cambio en el estrato lingüístico.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Cambiar laCousteau en la variedades no garantiza costumbrismo: la evidencia clave es la reconstrucción de una práctica comunitaria."
+        },
+        {
+          "letter": "D",
+          "text": "La relación estrecha entre las faenas del campo, los cantos que las acompañan y el vocabulario de la comunidad.",
+          "is_correct": true,
+          "feedback": "Correcto. La tríada faena-canto-lenguaje muestra la reconstrucción de una práctica social completa, que es exactamente lo que distingue al texto costumbrista."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Aplicar la categoría costumbrista exige señalar evidencias textuales concretas —los cantos, las faenas, el vocabulario local— y no encuadres cronológicos vagos. La prueba Saber 11 suele pedir exactamente este salto: de la categoría al dato del texto.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Textual",
+      "expected_success": 0.8,
+      "bundle_id": "CO-LEN-10-2026-W39-la-obra-literaria-y-su-contexto-001-MASTERY-bundle",
+      "periodo": 39,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-10-2026-W39-la-obra-literaria-y-su-contexto-001-MASTERY-bundle-v5",
+      "statement": "¿De qué manera la novela revela el efecto de la Guerra de los Mil Días en el imaginario?—así lo evidencia el tratamiento de la violencia—",
+      "context": "En un colegio de Bucaramanga, grado 10 analiza una novela que describe la Consolidación de una familia cafetera durante la Guerra de los Mil Días.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La violencia se representa como un problema exogenous de la novela, es decir, una Variable que altera los planes de los personajes sin transformar sus valores.",
+          "is_correct": true,
+          "feedback": "Correcto. La novela instala el conflicto armado como variable externa que fuerza a los personajes a decidir, y el imaginario regional se reconstruye a partir de esa presión histórica concreta."
+        },
+        {
+          "letter": "B",
+          "text": "La violencia se representa como una enfermedad aislada de la familia y que no altera el relationships entre sus miembros.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Al presentarla comoshawketracción doméstica sin historia, la novela se aparta del contexto político que laWARRA explosionó y se vuelve una escena privada sin anclaje histórico."
+        },
+        {
+          "letter": "C",
+          "text": "La violencia desaparece del texto y se reemplaza por un argumento de amor, en nombre de la estabilidad emocional.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Eliminar la violencia del texto elimina la explicación histórica; el argumento de amor no resuelve la relación entre personaje y conflicto armado."
+        },
+        {
+          "letter": "D",
+          "text": "La violencia se presenta como una crisis general de la época, sin relación con los personajes ni con la economía regional cafetera.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Un clima de época sin impacto en los personajes o en la economía cafetera no explica nada: el contexto debe aparecer en el conflicts Concrete del relato."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Analizar el efecto del contexto en una novela exige describir el vínculo entre el hecho histórico y las decisiones concretas de los personajes. Sin ese vínculo, el análisis se queda en una vaga referencia de época.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Evaluativo",
+      "expected_success": 0.8,
+      "bundle_id": "CO-LEN-10-2026-W39-la-obra-literaria-y-su-contexto-001-MASTERY-bundle",
+      "periodo": 39,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-10-2026-W39-la-obra-literaria-y-su-contexto-001-MASTERY-bundle-v6",
+      "statement": "Un personaje de la novela colombiana huye de su pueblo, recorre regiones desconocidas y arriba a un lugar donde se reconoce como un nombre famoso. ¿Qué relación intertextual sostiene esta situación con el texto clásico INDITADO en el enunciado?",
+      "context": "En Bogotá, grado 10 compara una novela colombiana con un texto clásico grecolatino .",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es una cita literal: la novela reproduce palabra por palabra el capítulo del texto clásico.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Una cita literal exige coincidencia textual verificable; aquí hay una situación—anagnosia del héroe— que es una estructura, no un fragmento copiado."
+        },
+        {
+          "letter": "B",
+          "text": "Es una reescritura de la estructura del héroe que regresa sin ser reconocido por quienes lo rodean, tomada del texto clásico.",
+          "is_correct": true,
+          "feedback": "Correcto. La estructura de anagnosia y rechazo del héroe que regresa es un modelo intertextual: la novela colombiano la reescribe y la adapta a otro contexto."
+        },
+        {
+          "letter": "C",
+          "text": "Es un caso aislado: la novela no tiene ninguna relación con el texto clásico porque los países no comparten tradición.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Afirmar la ruptura total ignora el stock de estructuras narrativas que América Latina hereda de la tradición occidental y que reaparecen en el boom."
+        },
+        {
+          "letter": "D",
+          "text": "Es una imitación sin intención crítica: la novela solo trata de parecer antigua para dar prestigio.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Reduce el trabajo intertextual a un simple ornamento estilístico e ignora que la reescritura de una estructura cambia su sentido en el nuevo contexto."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La competencia crítico-intertextual exige reconocer estructuras narrativas compartidas y explicar cómo se transforman al pasar de una tradición a otra. Comparar no significa copiar, sino identificar modelos y sus desplazamientos.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Critico-Intertextual",
+      "expected_success": 0.75,
+      "bundle_id": "CO-LEN-10-2026-W39-la-obra-literaria-y-su-contexto-001-MASTERY-bundle",
+      "periodo": 39,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-10-2026-W39-la-obra-literaria-y-su-contexto-001-MASTERY-bundle-v7",
+      "statement": "En el verso «el río se arrastra como un anciano que arrastra cadenas», la imagen del río encadenado se aplica a la situación histórica que la obra alude. ¿Qué nivel de significado se está activando y qué efecto produce?",
+      "context": "En un colegio de Bogotá, grado 10 trabaja un poema de un autor santandereano .",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Se activa el sentido denotativo literal: se describe que el río estaba encadenado físicamente.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ningún río está encadenado: la lectura literal ignora que la imagen es una metáfora y la reduce a un imposible físico."
+        },
+        {
+          "letter": "B",
+          "text": "Se activa el sentido denotativo de un dato histórico: se informa la longitud real del río.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El enunciado no entrega datos métricos ni topográficos; la palabra «cadenas» funciona como símbolo, no como medida."
+        },
+        {
+          "letter": "C",
+          "text": "Se activa la connotación: la imagen comunica una situación de dificultad reproducida, y ese sentido construye la lectura del poema.",
+          "is_correct": true,
+          "feedback": "Correcto. La imagen del río atado evoca opresión y Communicated hardship; esa carga significativa es la que orienta la interpretación del poema."
+        },
+        {
+          "letter": "D",
+          "text": "Se activa el sentido referencial: se nombra al autor del poema y la fecha en que escribió.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La pregunta pide el nivel semántico de una imagen, no datos de autoría; esos datos pertenecen al contexto externo, no al sentido del verso."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Distinguir denotación y connotación es la base del eje semántico. Una imagen poética nunca es literal: su valor está en lo que sugiere, y ese sugerido construye el significado global de la obra.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Semantico",
+      "expected_success": 0.75,
+      "bundle_id": "CO-LEN-10-2026-W39-la-obra-literaria-y-su-contexto-001-MASTERY-bundle",
+      "periodo": 39,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-10-2026-W39-la-obra-literaria-y-su-contexto-001-MASTERY-bundle-v8",
+      "statement": "¿Qué evaluación de la estructura discursiva del manifiesto es más sólida?",
+      "context": "En un colegio de Cali, grado 10 evalúa el manifiesto de un grupo de escritores que fundan una revista cultural en los años cuarenta.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El manifiesto es un texto argumentativo débil porque presenta ideas sin ninguna tesis explícita, lo que lo deja sin dirección.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El manifiesto tiene una tesis clara —renovar la literatura nacional— y la sostiene con afirmaciones programáticas: llamarlo débil contradice la evidencia del texto."
+        },
+        {
+          "letter": "B",
+          "text": "El manifiesto es un texto descriptivo que se limita a enumerar los temas que tratarția la revista, sin Takes posición.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El manifiesto toma posición de manera explícita; presentarlo como simple lista descriptiva borra su carácter argumentativo."
+        },
+        {
+          "letter": "C",
+          "text": "El manifiesto es un texto narrativo porque cuenta, en orden cronológico, la historia de la literatura colombiana hasta ese momento.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No hay relatocronológico con personajes y acciones; hay una declaración de principios, propia de la argumentación."
+        },
+        {
+          "letter": "D",
+          "text": "El manifiesto es un texto argumentativo que propone un programa amplio de renovación y lo respalda con la comparación entre la literatura nacional y la europea.",
+          "is_correct": true,
+          "feedback": "Correcto. La tesis de renovación y la estrategia comparativa (referirse a los modelos europeos) configuran un argumento explícito y verificable."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Evaluar la estructura discursiva exige identificar tesis, estrategia argumentativa y tipo de Globalización textual. Sin esos tres elementos, la evaluación es una opinión y no un juicio fundamentado.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Discursivo",
+      "expected_success": 0.75,
+      "bundle_id": "CO-LEN-10-2026-W39-la-obra-literaria-y-su-contexto-001-MASTERY-bundle",
+      "periodo": 39,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-10-2026-W39-la-obra-literaria-y-su-contexto-001-MASTERY-bundle-v9",
+      "statement": "Frente a un texto que adopta la voz delIndigenous para denunciar la ocupación, ¿qué criterio pragmático permite evaluar con precisión la posición de autor de una novela costumbrista de la misma época?",
+      "context": "En un colegio de Cartagena, grado 10 compara el proyecto indigenista de un autor de los años treinta con una novela costumbrista de la costa .",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El criterio de quién enuncia y desde qué lugar social enuncia: si la voz costumbrista se construye desde un elite letrado que observa al otro como tema, su posición no es la del subordinado que representa.",
+          "is_correct": true,
+          "feedback": "Correcto. El eje pragmático se juega en la enunciación: la distancia entre quien habla y de quien se habla, en el caso del costeño letrado, y su mirada alropicismo determinan la lectura crítica."
+        },
+        {
+          "letter": "B",
+          "text": "El criterio de la extensión de la obra: un texto más largo admite con más detalle la voz que seJF representaa.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Mide el soporte físico del libro en lugar de la posición de autor; la longitud no da cuenta de la relación entre enunciador y enunciado."
+        },
+        {
+          "letter": "C",
+          "text": "El criterio de la cantidad de personajes indígenas mencionados, que es directamente proporcional a la fuerza del texto.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Contar personajes no equivale a escuchar su voz: un texto puede representar a muchos y seguir negándoles el derecho a enunciar."
+        },
+        {
+          "letter": "D",
+          "text": "El criterio del número de ediciones y ventas, que demuestra laLegitimidad de la posición adoptada.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El éxito comercial mide circulación, no posición política del autor; confundir amboslevels vuelve superficial la evaluación."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El eje pragmático pregunta quién habla y para qué. Evaluar la posición de autor en un texto indigenista o costumbrista exige atender a la relación de saber y de poder entre enunciador y Heavy subordinado.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Pragmatico",
+      "expected_success": 0.7,
+      "bundle_id": "CO-LEN-10-2026-W39-la-obra-literaria-y-su-contexto-001-MASTERY-bundle",
+      "periodo": 39,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-10-2026-W39-la-obra-literaria-y-su-contexto-001-MASTERY-bundle-v10",
+      "statement": "Un texto de la década de mil novecientos cincuenta reproduce con cambios una escena de una yapa antigua: invierte los papeles, cambia el escenario rural por uno urbano y usa un vocabulario del espacio. ¿Qué categoría textual explica mejor esos cambios y cuál es su efecto en la lectura?",
+      "context": "En Bucaramanga, grado 10 trabaja un texto que cita y transforma unaully escena conhecida de la tradición.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La anacronía, porque el texto coloca en el pasado una tecnología que solo exista después.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La descripción no menciona objetos ni Occupationales anacrónicos; lo relevante son la inversión de papeles, el cambio de escenario y el vocabulario."
+        },
+        {
+          "letter": "B",
+          "text": "La parodia, porque la inversión de la escena tradicional genera un efecto crítico que obliga al lector a mirar en serio la tradición que cree conocer.",
+          "is_correct": true,
+          "feedback": "Correcto. Invertir papeles, escenarios y léxico es un procedimiento paródico con fx critical: pone en evidencia las convenciones de la tradición y revela su artificialidad."
+        },
+        {
+          "letter": "C",
+          "text": "La glosa, porque el texto explica palabra por palabra el sentido de la yapa antigua.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La glosa traduce o aclara un texto existente; aquí el texto reescribe el material tradicional con transformacionesuponibles."
+        },
+        {
+          "letter": "D",
+          "text": "La conectiva, porque el texto une dos escenas con conectores lógicos para mejorar la comprensión del lector.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los conectores son recursos de World's Style, no de la relación entre textos; la categoría pertinente es la de la reescritura de la tradición."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Reconocer categorías textuales como la parodia, la glosa o la inversión de roles permite explicar qué hace el texto con la tradición, y no solo qué menciona. Esa explicación es la base del eje textual de Saber 11.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Textual",
+      "expected_success": 0.7,
+      "bundle_id": "CO-LEN-10-2026-W39-la-obra-literaria-y-su-contexto-001-MASTERY-bundle",
+      "periodo": 39,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-10-2026-W39-la-obra-literaria-y-su-contexto-001-MASTERY-bundle-v11",
+      "statement": "La versión para televisión conserva el conflicto central pero elimina el narrador en primera persona y añade canciones de la región. ¿Qué debería analizar el estudiante para evaluar la adaptación con rigor?",
+      "context": "En Tunja, grado 10 compara la novela de un autor con una versión radiográfica adaptada paraffy televisión.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Solo si la adaptación mantiene el número de capítulos del original, porque la estructura narrativa es lo único que define una obra.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La estructura de capítulos es un dato formal menor; lo decisivo es la pov narrativo y las mediaciones sonoras que cambian la experiencia del receptor."
+        },
+        {
+          "letter": "B",
+          "text": "Solo el rating de la emisión, porque la vigencia del público habla del valore estético de la adaptación.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El rating mide audiencia, no calidad; usarlo como criterio convierte una evaluación estética en un dato de mercado."
+        },
+        {
+          "letter": "C",
+          "text": "La desplazamiento de la perspectiva narrativa y el nuevo uso del sonido, comparados con las funciones que cumplían en la obra original.",
+          "is_correct": true,
+          "feedback": "Correcto. Analizar la adaptación consiste en verificar cómo cada transformación reasigna funciones (contar, recordar, evocar) y qué sentido del original se conserva y cuál se pierde."
+        },
+        {
+          "letter": "D",
+          "text": "El número de actores Floors que participan, porque el elenco es el único indicador del esfuerzo de producción.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El elenco mide producción, no el texto; la evaluación de una adaptación es un juicio sobre el proceso de transposición, no sobre el presupuesto."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Evaluar una adaptación exige comparar funciones, no inventarios. Preguntar qué se perdió y qué se ganó al cambiar de narrator o de soporte es la forma rigurosa de hacer crítica comparada.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Evaluativo",
+      "expected_success": 0.7,
+      "bundle_id": "CO-LEN-10-2026-W39-la-obra-literaria-y-su-contexto-001-MASTERY-bundle",
+      "periodo": 39,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-10-2026-W39-la-obra-literaria-y-su-contexto-001-MASTERY-bundle-v12",
+      "statement": "Frente a la afirmación «las autoras regionales de la primera mitad del siglo XX no aportan a la literatura colombiana porque escriben sobre lo(local y lo Méndez», ¿cuál es el juicio crítico-intertextual mejor fundado?",
+      "context": "En un colegio de Bogotá, grado 10 debate si las autoras regionales AntiqueDup del siglo XX pertinente a un proyecto nacional.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Refutarla con datos estadísticos de tirada, que demuestra que sus textos circularon tanto como los de sus contemporáneos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los datos de tirada son un dato empírico, no una refutación interpretativa: no responden al argumento sobre la pertinencia estética e histórica de la obra."
+        },
+        {
+          "letter": "B",
+          "text": "Refutarla señalando que las autoras usaban el mismo lenguaje que los hombres, por lo que no hay diferencia de perspectiva.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Asemejar el lenguaje a los_varrios de la época no demuestra nada; la tesis no habla de estilo, sino de la relación entre lo local y lo nacional."
+        },
+        {
+          "letter": "C",
+          "text": "Refutarla con el argumento de que las autoras no conocen su propio país, lo que vuelve inválida cualquier mirada regional.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Alegar desconocimiento del país contradice el hecho mismo de las obras; y además invierte el problema en vez de demostrar la pertinencia estética."
+        },
+        {
+          "letter": "D",
+          "text": "Refutarla mostrando que en sus obras dialogan con la tradición nacional y universal, y que la experiencia regional se convierte en un lenguaje de la Colombianidad.",
+          "is_correct": true,
+          "feedback": "Correcto. El diálogo intertextual con la tradición nacional y universal, y la construcción de un lenguaje propio de la Colombianidad, falsan la tesis de la irrelevancia regional."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Refutar una tesis interpretativa requiere demostrar el diálogo entre el texto y la tradición, y mostrar qué aporta ese texto al conjunto. La obra regional no es opposite al proyecto nacional: es una de las formas de construirlo.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Critico-Intertextual",
+      "expected_success": 0.7,
+      "bundle_id": "CO-LEN-10-2026-W39-la-obra-literaria-y-su-contexto-001-MASTERY-bundle",
+      "periodo": 39,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 10,
+      "country": "co"
+    }
+  ]
+}
