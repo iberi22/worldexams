@@ -30,9 +30,9 @@ calibration: {difficulty_band: "D3-D10", expected_success: 0.65}
 Al realizar experimentos sobre anatomía y fisiología humana - soporte y movimiento y estudiar estructura interna rígida de soporte que protege los órganos vitales y almacena minerales como calcio, ¿cuál es la opción que identifica correctamente el concepto o proceso estudiado?
 
 ### Opciones
-- [x] A) El esqueleto
+- [x] B) El esqueleto
   <!-- feedback: Excelente. Esta es la respuesta correcta ya que corresponde precisamente a estructura interna rígida de soporte que protege los órganos vitales y almacena minerales como calcio. -->
-- [ ] B) Los tendones
+- [ ] A) Los tendones
   <!-- feedback: Incorrecto. Este concepto hace referencia a un proceso o estructura biológica diferente. -->
 - [ ] C) Las articulaciones
   <!-- feedback: Incorrecto. No corresponde con la descripción dada. Revisa la teoría de anatomía y fisiología humana - soporte y movimiento. -->
@@ -55,9 +55,9 @@ La respuesta correcta es El esqueleto. Científicamente, esto se explica por el 
 Al realizar experimentos sobre anatomía y fisiología humana - soporte y movimiento y estudiar células óseas especializadas multinucleadas encargadas de la resorción y degradación de matriz ósea, ¿cuál es la opción que identifica correctamente el concepto o proceso estudiado?
 
 ### Opciones
-- [x] A) Osteoclastos
+- [x] B) Osteoclastos
   <!-- feedback: Excelente. Esta es la respuesta correcta ya que corresponde precisamente a células óseas especializadas multinucleadas encargadas de la resorción y degradación de matriz ósea. -->
-- [ ] B) Osteoblastos
+- [ ] A) Osteoblastos
   <!-- feedback: Incorrecto. Este concepto hace referencia a un proceso o estructura biológica diferente. -->
 - [ ] C) Osteocitos
   <!-- feedback: Incorrecto. No corresponde con la descripción dada. Revisa la teoría de anatomía y fisiología humana - soporte y movimiento. -->
@@ -80,11 +80,11 @@ La respuesta correcta es Osteoclastos. Científicamente, esto se explica por la 
 Al realizar experimentos sobre anatomía y fisiología humana - soporte y movimiento y estudiar células óseas que sintetizan la matriz orgánica y dirigen la mineralización de hueso nuevo, ¿cuál es la opción que identifica correctamente el concepto o proceso estudiado?
 
 ### Opciones
-- [x] A) Osteoblastos
+- [x] C) Osteoblastos
   <!-- feedback: Excelente. Esta es la respuesta correcta ya que corresponde precisamente a células óseas que sintetizan la matriz orgánica y dirigen la mineralización de hueso nuevo. -->
-- [ ] B) Osteoclastos
+- [ ] A) Osteoclastos
   <!-- feedback: Incorrecto. Este concepto hace referencia a un proceso o estructura biológica diferente. -->
-- [ ] C) Osteocitos
+- [ ] B) Osteocitos
   <!-- feedback: Incorrecto. No corresponde con la descripción dada. Revisa la teoría de anatomía y fisiología humana - soporte y movimiento. -->
 - [ ] D) Fibroblastos
   <!-- feedback: Incorrecto. Es un distractor conceptual incorrecto para este caso de estudio. -->
@@ -130,13 +130,13 @@ La respuesta correcta es El sarcómero. Científicamente, esto se explica por la
 Al realizar experimentos sobre anatomía y fisiología humana - soporte y movimiento y estudiar proteína contráctil que forma los filamentos gruesos y posee cabezas con actividad ATPasa activa, ¿cuál es la opción que identifica correctamente el concepto o proceso estudiado?
 
 ### Opciones
-- [x] A) La miosina
+- [x] D) La miosina
   <!-- feedback: Excelente. Esta es la respuesta correcta ya que corresponde precisamente a proteína contráctil que forma los filamentos gruesos y posee cabezas con actividad ATPasa activa. -->
-- [ ] B) La actina
+- [ ] A) La actina
   <!-- feedback: Incorrecto. Este concepto hace referencia a un proceso o estructura biológica diferente. -->
-- [ ] C) La troponina
+- [ ] B) La troponina
   <!-- feedback: Incorrecto. No corresponde con la descripción dada. Revisa la teoría de anatomía y fisiología humana - soporte y movimiento. -->
-- [ ] D) La tropomiosina
+- [ ] C) La tropomiosina
   <!-- feedback: Incorrecto. Es un distractor conceptual incorrecto para este caso de estudio. -->
 
 ### Explicacion Pedagogica
@@ -155,13 +155,13 @@ La respuesta correcta es La miosina. Científicamente, esto se explica por la tr
 Al realizar experimentos sobre anatomía y fisiología humana - soporte y movimiento y estudiar proteína que forma los filamentos delgados del sarcómero y posee sitios de unión para miosina, ¿cuál es la opción que identifica correctamente el concepto o proceso estudiado?
 
 ### Opciones
-- [x] A) La actina
+- [x] D) La actina
   <!-- feedback: Excelente. Esta es la respuesta correcta ya que corresponde precisamente a proteína que forma los filamentos delgados del sarcómero y posee sitios de unión para miosina. -->
-- [ ] B) La miosina
+- [ ] A) La miosina
   <!-- feedback: Incorrecto. Este concepto hace referencia a un proceso o estructura biológica diferente. -->
-- [ ] C) La titina
+- [ ] B) La titina
   <!-- feedback: Incorrecto. No corresponde con la descripción dada. Revisa la teoría de anatomía y fisiología humana - soporte y movimiento. -->
-- [ ] D) La colágena
+- [ ] C) La colágena
   <!-- feedback: Incorrecto. Es un distractor conceptual incorrecto para este caso de estudio. -->
 
 ### Explicacion Pedagogica
@@ -180,9 +180,9 @@ La respuesta correcta es La actina. Científicamente, esto se explica por el des
 Al realizar experimentos sobre anatomía y fisiología humana - soporte y movimiento y estudiar articulaciones móviles que poseen cavidad articular llena de líquido lubricante para amortiguar impactos, ¿cuál es la opción que identifica correctamente el concepto o proceso estudiado?
 
 ### Opciones
-- [x] A) Articulaciones sinoviales
+- [x] B) Articulaciones sinoviales
   <!-- feedback: Excelente. Esta es la respuesta correcta ya que corresponde precisamente a articulaciones móviles que poseen cavidad articular llena de líquido lubricante para amortiguar impactos. -->
-- [ ] B) Articulaciones fibrosas
+- [ ] A) Articulaciones fibrosas
   <!-- feedback: Incorrecto. Este concepto hace referencia a un proceso o estructura biológica diferente. -->
 - [ ] C) Articulaciones cartilaginosas
   <!-- feedback: Incorrecto. No corresponde con la descripción dada. Revisa la teoría de anatomía y fisiología humana - soporte y movimiento. -->
@@ -255,9 +255,9 @@ La respuesta correcta es Los ligamentos. Científicamente, esto se explica por l
 Al realizar experimentos sobre anatomía y fisiología humana - soporte y movimiento y estudiar ion intracelular liberado del retículo sarcoplásmico indispensable para unir la troponina, ¿cuál es la opción que identifica correctamente el concepto o proceso estudiado?
 
 ### Opciones
-- [x] A) El ion de calcio (ca2+)
+- [x] B) El ion de calcio (ca2+)
   <!-- feedback: Excelente. Esta es la respuesta correcta ya que corresponde precisamente a ion intracelular liberado del retículo sarcoplásmico indispensable para unir la troponina. -->
-- [ ] B) El ion de sodio (na+)
+- [ ] A) El ion de sodio (na+)
   <!-- feedback: Incorrecto. Este concepto hace referencia a un proceso o estructura biológica diferente. -->
 - [ ] C) El ion de potasio (k+)
   <!-- feedback: Incorrecto. No corresponde con la descripción dada. Revisa la teoría de anatomía y fisiología humana - soporte y movimiento. -->
@@ -280,9 +280,9 @@ La respuesta correcta es El ion de calcio (ca2+). Científicamente, esto se expl
 Al realizar experimentos sobre anatomía y fisiología humana - soporte y movimiento y estudiar proceso metabólico muscular alternativo que produce fatiga debido a la acumulación de lactato, ¿cuál es la opción que identifica correctamente el concepto o proceso estudiado?
 
 ### Opciones
-- [x] A) Fermentación láctica anaerobia
+- [x] B) Fermentación láctica anaerobia
   <!-- feedback: Excelente. Esta es la respuesta correcta ya que corresponde precisamente a proceso metabólico muscular alternativo que produce fatiga debido a la acumulación de lactato. -->
-- [ ] B) Respiración aerobia estricta
+- [ ] A) Respiración aerobia estricta
   <!-- feedback: Incorrecto. Este concepto hace referencia a un proceso o estructura biológica diferente. -->
 - [ ] C) Ciclo del ácido cítrico
   <!-- feedback: Incorrecto. No corresponde con la descripción dada. Revisa la teoría de anatomía y fisiología humana - soporte y movimiento. -->
@@ -305,11 +305,11 @@ La respuesta correcta es Fermentación láctica anaerobia. Científicamente, est
 Al realizar experimentos sobre anatomía y fisiología humana - soporte y movimiento y estudiar enfermedad ósea metabólica caracterizada por la disminución progresiva de la densidad de masa ósea, ¿cuál es la opción que identifica correctamente el concepto o proceso estudiado?
 
 ### Opciones
-- [x] A) La osteoporosis
+- [x] C) La osteoporosis
   <!-- feedback: Excelente. Esta es la respuesta correcta ya que corresponde precisamente a enfermedad ósea metabólica caracterizada por la disminución progresiva de la densidad de masa ósea. -->
-- [ ] B) El raquitismo
+- [ ] A) El raquitismo
   <!-- feedback: Incorrecto. Este concepto hace referencia a un proceso o estructura biológica diferente. -->
-- [ ] C) La osteogénesis imperfecta
+- [ ] B) La osteogénesis imperfecta
   <!-- feedback: Incorrecto. No corresponde con la descripción dada. Revisa la teoría de anatomía y fisiología humana - soporte y movimiento. -->
 - [ ] D) La artrosis degenerativa
   <!-- feedback: Incorrecto. Es un distractor conceptual incorrecto para este caso de estudio. -->
@@ -330,9 +330,9 @@ La respuesta correcta es La osteoporosis. Científicamente, esto se explica por 
 Al realizar experimentos sobre anatomía y fisiología humana - soporte y movimiento y estudiar patología infantil por déficit de vitamina D que impide la correcta mineralización del hueso, ¿cuál es la opción que identifica correctamente el concepto o proceso estudiado?
 
 ### Opciones
-- [x] A) El raquitismo
+- [x] B) El raquitismo
   <!-- feedback: Excelente. Esta es la respuesta correcta ya que corresponde precisamente a patología infantil por déficit de vitamina D que impide la correcta mineralización del hueso. -->
-- [ ] B) La osteoporosis
+- [ ] A) La osteoporosis
   <!-- feedback: Incorrecto. Este concepto hace referencia a un proceso o estructura biológica diferente. -->
 - [ ] C) La escoliosis
   <!-- feedback: Incorrecto. No corresponde con la descripción dada. Revisa la teoría de anatomía y fisiología humana - soporte y movimiento. -->
@@ -355,13 +355,13 @@ La respuesta correcta es El raquitismo. Científicamente, esto se explica por la
 Al realizar experimentos sobre anatomía y fisiología humana - soporte y movimiento y estudiar sinapsis química especializada establecida entre la terminal de una neurona motora y el sarcolema, ¿cuál es la opción que identifica correctamente el concepto o proceso estudiado?
 
 ### Opciones
-- [x] A) La unión neuromuscular
+- [x] D) La unión neuromuscular
   <!-- feedback: Excelente. Esta es la respuesta correcta ya que corresponde precisamente a sinapsis química especializada establecida entre la terminal de una neurona motora y el sarcolema. -->
-- [ ] B) La sinapsis dendrítica
+- [ ] A) La sinapsis dendrítica
   <!-- feedback: Incorrecto. Este concepto hace referencia a un proceso o estructura biológica diferente. -->
-- [ ] C) El potencial de receptor
+- [ ] B) El potencial de receptor
   <!-- feedback: Incorrecto. No corresponde con la descripción dada. Revisa la teoría de anatomía y fisiología humana - soporte y movimiento. -->
-- [ ] D) El marcapasos miocárdico
+- [ ] C) El marcapasos miocárdico
   <!-- feedback: Incorrecto. Es un distractor conceptual incorrecto para este caso de estudio. -->
 
 ### Explicacion Pedagogica
@@ -380,9 +380,9 @@ La respuesta correcta es La unión neuromuscular. Científicamente, esto se expl
 Al realizar experimentos sobre anatomía y fisiología humana - soporte y movimiento y estudiar neurotransmisor excitatorio liberado en la hendidura sináptica neuromuscular que despolariza la fibra, ¿cuál es la opción que identifica correctamente el concepto o proceso estudiado?
 
 ### Opciones
-- [x] A) Acetilcolina
+- [x] B) Acetilcolina
   <!-- feedback: Excelente. Esta es la respuesta correcta ya que corresponde precisamente a neurotransmisor excitatorio liberado en la hendidura sináptica neuromuscular que despolariza la fibra. -->
-- [ ] B) Noradrenalina
+- [ ] A) Noradrenalina
   <!-- feedback: Incorrecto. Este concepto hace referencia a un proceso o estructura biológica diferente. -->
 - [ ] C) Glutamato
   <!-- feedback: Incorrecto. No corresponde con la descripción dada. Revisa la teoría de anatomía y fisiología humana - soporte y movimiento. -->
@@ -405,11 +405,11 @@ La respuesta correcta es Acetilcolina. Científicamente, esto se explica por la 
 Al realizar experimentos sobre anatomía y fisiología humana - soporte y movimiento y estudiar hormona endocrina que estimula a los osteoclastos para disolver hueso y elevar el calcio en sangre, ¿cuál es la opción que identifica correctamente el concepto o proceso estudiado?
 
 ### Opciones
-- [x] A) La hormona paratiroidea (pth)
+- [x] C) La hormona paratiroidea (pth)
   <!-- feedback: Excelente. Esta es la respuesta correcta ya que corresponde precisamente a hormona endocrina que estimula a los osteoclastos para disolver hueso y elevar el calcio en sangre. -->
-- [ ] B) La calcitonina
+- [ ] A) La calcitonina
   <!-- feedback: Incorrecto. Este concepto hace referencia a un proceso o estructura biológica diferente. -->
-- [ ] C) La tiroxina
+- [ ] B) La tiroxina
   <!-- feedback: Incorrecto. No corresponde con la descripción dada. Revisa la teoría de anatomía y fisiología humana - soporte y movimiento. -->
 - [ ] D) La aldosterona
   <!-- feedback: Incorrecto. Es un distractor conceptual incorrecto para este caso de estudio. -->
@@ -430,13 +430,13 @@ La respuesta correcta es La hormona paratiroidea (pth). Científicamente, esto s
 Al realizar experimentos sobre anatomía y fisiología humana - soporte y movimiento y estudiar hormona secretada por la tiroides que promueve el depósito de calcio en los huesos reduciendo el calcio libre, ¿cuál es la opción que identifica correctamente el concepto o proceso estudiado?
 
 ### Opciones
-- [x] A) La calcitonina
+- [x] D) La calcitonina
   <!-- feedback: Excelente. Esta es la respuesta correcta ya que corresponde precisamente a hormona secretada por la tiroides que promueve el depósito de calcio en los huesos reduciendo el calcio libre. -->
-- [ ] B) La hormona paratiroidea
+- [ ] A) La hormona paratiroidea
   <!-- feedback: Incorrecto. Este concepto hace referencia a un proceso o estructura biológica diferente. -->
-- [ ] C) La melatonina
+- [ ] B) La melatonina
   <!-- feedback: Incorrecto. No corresponde con la descripción dada. Revisa la teoría de anatomía y fisiología humana - soporte y movimiento. -->
-- [ ] D) La insulina
+- [ ] C) La insulina
   <!-- feedback: Incorrecto. Es un distractor conceptual incorrecto para este caso de estudio. -->
 
 ### Explicacion Pedagogica
@@ -455,13 +455,13 @@ La respuesta correcta es La calcitonina. Científicamente, esto se explica por l
 Al realizar experimentos sobre anatomía y fisiología humana - soporte y movimiento y estudiar tipo de tejido muscular que presenta estrías longitudinales y contracción involuntaria autónoma, ¿cuál es la opción que identifica correctamente el concepto o proceso estudiado?
 
 ### Opciones
-- [x] A) Músculo cardíaco
+- [x] D) Músculo cardíaco
   <!-- feedback: Excelente. Esta es la respuesta correcta ya que corresponde precisamente a tipo de tejido muscular que presenta estrías longitudinales y contracción involuntaria autónoma. -->
-- [ ] B) Músculo esquelético
+- [ ] A) Músculo esquelético
   <!-- feedback: Incorrecto. Este concepto hace referencia a un proceso o estructura biológica diferente. -->
-- [ ] C) Músculo liso
+- [ ] B) Músculo liso
   <!-- feedback: Incorrecto. No corresponde con la descripción dada. Revisa la teoría de anatomía y fisiología humana - soporte y movimiento. -->
-- [ ] D) Músculo tendinoso
+- [ ] C) Músculo tendinoso
   <!-- feedback: Incorrecto. Es un distractor conceptual incorrecto para este caso de estudio. -->
 
 ### Explicacion Pedagogica
@@ -480,13 +480,13 @@ La respuesta correcta es Músculo cardíaco. Científicamente, esto se explica p
 Al realizar experimentos sobre anatomía y fisiología humana - soporte y movimiento y estudiar tejido muscular que carece de estrías, posee contracción lenta e involuntaria y recubre vísceras huecas, ¿cuál es la opción que identifica correctamente el concepto o proceso estudiado?
 
 ### Opciones
-- [x] A) Músculo liso
+- [x] D) Músculo liso
   <!-- feedback: Excelente. Esta es la respuesta correcta ya que corresponde precisamente a tejido muscular que carece de estrías, posee contracción lenta e involuntaria y recubre vísceras huecas. -->
-- [ ] B) Músculo estriado esquelético
+- [ ] A) Músculo estriado esquelético
   <!-- feedback: Incorrecto. Este concepto hace referencia a un proceso o estructura biológica diferente. -->
-- [ ] C) Músculo cardíaco
+- [ ] B) Músculo cardíaco
   <!-- feedback: Incorrecto. No corresponde con la descripción dada. Revisa la teoría de anatomía y fisiología humana - soporte y movimiento. -->
-- [ ] D) Músculo esquelético voluntario
+- [ ] C) Músculo esquelético voluntario
   <!-- feedback: Incorrecto. Es un distractor conceptual incorrecto para este caso de estudio. -->
 
 ### Explicacion Pedagogica
@@ -505,13 +505,13 @@ La respuesta correcta es Músculo liso. Científicamente, esto se explica por la
 Al realizar experimentos sobre anatomía y fisiología humana - soporte y movimiento y estudiar tipo de palanca biomecánica predominante en el cuerpo humano, como la flexión del codo, ¿cuál es la opción que identifica correctamente el concepto o proceso estudiado?
 
 ### Opciones
-- [x] A) Palanca de tercer grado
+- [x] D) Palanca de tercer grado
   <!-- feedback: Excelente. Esta es la respuesta correcta ya que corresponde precisamente a tipo de palanca biomecánica predominante en el cuerpo humano, como la flexión del codo. -->
-- [ ] B) Palanca de primer grado
+- [ ] A) Palanca de primer grado
   <!-- feedback: Incorrecto. Este concepto hace referencia a un proceso o estructura biológica diferente. -->
-- [ ] C) Palanca de segundo grado
+- [ ] B) Palanca de segundo grado
   <!-- feedback: Incorrecto. No corresponde con la descripción dada. Revisa la teoría de anatomía y fisiología humana - soporte y movimiento. -->
-- [ ] D) Palanca de cuarto grado
+- [ ] C) Palanca de cuarto grado
   <!-- feedback: Incorrecto. Es un distractor conceptual incorrecto para este caso de estudio. -->
 
 ### Explicacion Pedagogica

@@ -41,11 +41,11 @@ Según la Constitución de la República de Honduras, ¿cuáles son los tres pod
 ### Opciones
 - [ ] A) Ejecutivo, Militar y Judicial.
   <!-- feedback: Incorrecto. El poder militar no es un poder del Estado independiente en el marco democrático actual. -->
-- [x] B) Legislativo, Ejecutivo y Judicial.
+- [x] D) Legislativo, Ejecutivo y Judicial.
   <!-- feedback: ¡Correcto! Estos son los tres poderes clásicos que garantizan el equilibrio democrático en Honduras. -->
-- [ ] C) Legislativo, Municipal y Ejecutivo.
+- [ ] B) Legislativo, Municipal y Ejecutivo.
   <!-- feedback: Incorrecto. El nivel municipal es una división administrativa, no un poder del Estado central. -->
-- [ ] D) Electoral, Judicial y Ciudadano.
+- [ ] C) Electoral, Judicial y Ciudadano.
   <!-- feedback: Incorrecto. Aunque existen órganos electorales, la tríada fundamental es Legislativo, Ejecutivo y Judicial. -->
 
 ### Explicacion Pedagogica
@@ -66,9 +66,9 @@ La división de poderes es un principio fundamental del Estado de Derecho en Hon
 ### Opciones
 - [ ] A) Establecer únicamente los impuestos que deben pagar los ciudadanos.
   <!-- feedback: Incorrecto. Esta es solo una función administrativa menor dentro de todo el marco constitucional. -->
-- [x] B) Ser la ley suprema que organiza el Estado y garantiza los derechos y deberes de los habitantes.
+- [x] C) Ser la ley suprema que organiza el Estado y garantiza los derechos y deberes de los habitantes.
   <!-- feedback: ¡Correcto! La Constitución es la "Carta Magna" que rige toda la estructura legal y social del país. -->
-- [ ] C) Dictar las sentencias en los juicios por delitos comunes.
+- [ ] B) Dictar las sentencias en los juicios por delitos comunes.
   <!-- feedback: Incorrecto. Esa es función del Poder Judicial a través de las leyes penales, no de la Constitución directamente. -->
 - [ ] D) Elegir directamente a los alcaldes de cada municipio.
   <!-- feedback: Incorrecto. La Constitución define el proceso, pero no realiza la elección. -->
@@ -91,9 +91,9 @@ La Constitución es el contrato social supremo que define la identidad del Estad
 ### Opciones
 - [ ] A) Azteca
   <!-- feedback: Incorrecto. Los aztecas se establecieron principalmente en el centro de México. -->
-- [ ] B) Inca
+- [ ] C) Inca
   <!-- feedback: Incorrecto. Los incas fueron la civilización dominante en la región andina de Suramérica. -->
-- [x] C) Maya
+- [x] B) Maya
   <!-- feedback: ¡Correcto! Copán fue una de las ciudades-estado más importantes de la civilización maya. -->
 - [ ] D) Lenca
   <!-- feedback: Incorrecto. Aunque son un pueblo originario clave de Honduras, los mayas son los constructores de las grandes ruinas del occidente. -->
@@ -143,9 +143,9 @@ La Reforma Liberal marcó el inicio del Estado moderno en Honduras, introduciend
   <!-- feedback: Incorrecto. Esta región es más seca y montañosa cerca de la costa. -->
 - [ ] B) Región de la Mosquitia.
   <!-- feedback: Incorrecto. Es una región selvática y pantanosa, no enfocada en la agroindustria bananera masiva. -->
-- [x] C) Región del Litoral Atlántico o Costa Norte.
+- [x] D) Región del Litoral Atlántico o Costa Norte.
   <!-- feedback: ¡Correcto! Los valles de Sula y del Aguán son el corazón de la producción agrícola del país. -->
-- [ ] D) Meseta Central.
+- [ ] C) Meseta Central.
   <!-- feedback: Incorrecto. Es la zona montañosa donde se encuentra la capital. -->
 
 ### Explicacion Pedagogica
@@ -191,9 +191,9 @@ Además del banano, ¿cuál es el producto agrícola que históricamente ha sido
 ### Opciones
 - [ ] A) Uva
   <!-- feedback: Incorrecto. No es un cultivo tradicional ni masivo en Honduras. -->
-- [ ] B) Trigo
+- [ ] C) Trigo
   <!-- feedback: Incorrecto. Honduras importa trigo, no lo produce a gran escala. -->
-- [x] C) Café
+- [x] B) Café
   <!-- feedback: ¡Correcto! Honduras es uno de los mayores productores mundiales de café arábica de alta calidad. -->
 - [ ] D) Petróleo
   <!-- feedback: Incorrecto. El petróleo es un recurso mineral, no un producto agrícola, y Honduras no es productor masivo. -->
@@ -239,11 +239,11 @@ La migración es un fenómeno social complejo con profundas raíces económicas 
 ¿Qué grupo étnico de Honduras es descendiente de africanos y aborígenes caribes, poseedor de una lengua, danza (punta) y gastronomía declaradas Patrimonio de la Humanidad?
 
 ### Opciones
-- [ ] A) Misquitos
+- [ ] B) Misquitos
   <!-- feedback: Incorrecto. Tienen su propia cultura pero no se asocian principalmente con la danza punta. -->
-- [ ] B) Chortís
+- [ ] C) Chortís
   <!-- feedback: Incorrecto. Son descendientes directos de los mayas en el occidente. -->
-- [x] C) Garífunas
+- [x] A) Garífunas
   <!-- feedback: ¡Correcto! Ubicados principalmente en el litoral atlántico, su cultura es un pilar de la identidad nacional. -->
 - [ ] D) Pech
   <!-- feedback: Incorrecto. Es un grupo originario con una lengua de raíz macro-chibcha. -->
@@ -266,11 +266,11 @@ La cultura Garífuna es un ejemplo de resistencia y riqueza cultural que enrique
 ### Opciones
 - [ ] A) 20 de julio de 1810
   <!-- feedback: Incorrecto. Esta fecha corresponde a la independencia de Colombia. -->
-- [x] B) 15 de septiembre de 1821
+- [x] D) 15 de septiembre de 1821
   <!-- feedback: ¡Correcto! Es la fecha nacional que celebran Honduras y sus países hermanos de la región. -->
-- [ ] C) 1 de julio de 1823
+- [ ] B) 1 de julio de 1823
   <!-- feedback: Incorrecto. Esta es la fecha de la independencia absoluta de México. -->
-- [ ] D) 3 de octubre de 1892
+- [ ] C) 3 de octubre de 1892
   <!-- feedback: Incorrecto. No corresponde a los procesos independentistas. -->
 
 ### Explicacion Pedagogica
@@ -391,9 +391,9 @@ El Huracán Mitch marcó un antes y un después en Honduras, impulsando la creac
 ### Opciones
 - [ ] A) La Ley de Secretividad absoluta.
   <!-- feedback: Incorrecto. Esto impediría el acceso a la información. -->
-- [x] B) La Ley de Transparencia y Acceso a la Información Pública (IAIP).
+- [x] C) La Ley de Transparencia y Acceso a la Información Pública (IAIP).
   <!-- feedback: ¡Correcto! Permite que cualquier ciudadano hondureño audite la gestión de sus gobernantes. -->
-- [ ] C) El Código de Comercio.
+- [ ] B) El Código de Comercio.
   <!-- feedback: Incorrecto. Regula las actividades mercantiles privadas. -->
 - [ ] D) La Ley de Tránsito.
   <!-- feedback: Incorrecto. Regula la circulación de vehículos. -->
@@ -416,9 +416,9 @@ La transparencia es un pilar de la democracia que permite combatir la corrupció
 ### Opciones
 - [ ] A) Francisco Morazán
   <!-- feedback: Incorrecto. Es el paladín de la unión centroamericana, pero de la época republicana. -->
-- [x] B) Lempira
+- [x] C) Lempira
   <!-- feedback: ¡Correcto! El cacique que lideró la resistencia indígena en la región de los Lencas. -->
-- [ ] C) José Cecilio del Valle
+- [ ] B) José Cecilio del Valle
   <!-- feedback: Incorrecto. Es el redactor del Acta de Independencia, un intelectual. -->
 - [ ] D) Dionisio de Herrera
   <!-- feedback: Incorrecto. Fue el primer Jefe de Estado de Honduras. -->
@@ -441,11 +441,11 @@ La figura de Lempira simboliza la valentía y el amor a la tierra, siendo un ref
 ### Opciones
 - [ ] A) Ha causado que todas las personas abandonen la agricultura definitivamente.
   <!-- feedback: Incorrecto. La agricultura sigue siendo un sector clave. -->
-- [x] B) Ha generado miles de empleos, pero también ha creado dependencia de mercados externos y desafíos laborales.
+- [x] D) Ha generado miles de empleos, pero también ha creado dependencia de mercados externos y desafíos laborales.
   <!-- feedback: ¡Correcto! Es un modelo de industrialización por invitación con pros y contras. -->
-- [ ] C) Ha impedido que Honduras use internet.
+- [ ] B) Ha impedido que Honduras use internet.
   <!-- feedback: Incorrecto. No tiene relación con el acceso a la tecnología digital. -->
-- [ ] D) Ha provocado la desaparición del idioma español en la zona norte.
+- [ ] C) Ha provocado la desaparición del idioma español en la zona norte.
   <!-- feedback: Incorrecto. El español sigue siendo la lengua dominante. -->
 
 ### Explicacion Pedagogica
@@ -491,9 +491,9 @@ El desarrollo humano integral depende de la capacidad del Estado para brindar ed
 ### Opciones
 - [ ] A) Que el gobierno central ya no tenga que hacer nada.
   <!-- feedback: Incorrecto. El gobierno central mantiene funciones de coordinación y políticas nacionales. -->
-- [x] B) Permitir que las autoridades locales respondan de forma más directa y rápida a las necesidades específicas de su comunidad.
+- [x] C) Permitir que las autoridades locales respondan de forma más directa y rápida a las necesidades específicas de su comunidad.
   <!-- feedback: ¡Correcto! El alcalde y su corporación conocen mejor la realidad de su pueblo o ciudad. -->
-- [ ] C) Que cada municipio pueda tener su propio ejército independiente.
+- [ ] B) Que cada municipio pueda tener su propio ejército independiente.
   <!-- feedback: Incorrecto. La seguridad nacional es una función unificada del Estado. -->
 - [ ] D) Eliminar el pago de impuestos nacionales.
   <!-- feedback: Incorrecto. La descentralización no elimina las obligaciones fiscales nacionales. -->
@@ -516,9 +516,9 @@ El fortalecimiento de los gobiernos locales es vital para el desarrollo de proye
 ### Opciones
 - [ ] A) Que el país se vuelve más rico automáticamente.
   <!-- feedback: Incorrecto. El pago de intereses no genera riqueza interna inmediata. -->
-- [x] B) Se reduce la disponibilidad de recursos para inversión en sectores críticos como salud, educación e infraestructura.
+- [x] C) Se reduce la disponibilidad de recursos para inversión en sectores críticos como salud, educación e infraestructura.
   <!-- feedback: ¡Correcto! El costo de oportunidad afecta el desarrollo social del país. -->
-- [ ] C) Que Honduras ya no necesita producir alimentos.
+- [ ] B) Que Honduras ya no necesita producir alimentos.
   <!-- feedback: Incorrecto. La seguridad alimentaria sigue siendo una prioridad nacional. -->
 - [ ] D) Que el Lempira valga más que el Dólar.
   <!-- feedback: Incorrecto. La deuda suele presionar la devaluación de la moneda, no su apreciación. -->

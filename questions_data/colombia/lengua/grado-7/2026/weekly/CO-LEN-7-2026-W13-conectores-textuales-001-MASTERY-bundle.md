@@ -53,8 +53,8 @@ Sin conectores, un texto parecería una lista de frases sueltas sin relación. L
 ¿Qué tipo de conectores ha utilizado Valentina para organizar sus actividades?
 
 ### Opciones
-- [ ] A) Conectores de oposición (adversativos). <!-- feedback: Incorrecto. Las acciones no se oponen entre sí. -->
-- [x] B) Conectores de orden o secuencia temporal. <!-- feedback: ¡Correcto! Indican la sucesión de los hechos en el tiempo. -->
+- [ ] B) Conectores de oposición (adversativos). <!-- feedback: Incorrecto. Las acciones no se oponen entre sí. -->
+- [x] A) Conectores de orden o secuencia temporal. <!-- feedback: ¡Correcto! Indican la sucesión de los hechos en el tiempo. -->
 - [ ] C) Conectores de causa-efecto. <!-- feedback: Incorrecto. No indica que una acción sea el motivo de la otra. -->
 - [ ] D) Conectores de resumen. <!-- feedback: Incorrecto. No está sintetizando una idea previa, sino enumerando pasos. -->
 
@@ -76,8 +76,8 @@ Los conectores de orden (en primer lugar, después, a continuación, por último
 ### Opciones
 - [ ] A) Relación de suma de dos problemas distintos. <!-- feedback: Incorrecto. Establece un vínculo de dependencia lógica. -->
 - [ ] B) Relación de duda sobre la importancia de los páramos. <!-- feedback: Incorrecto. El conector afirma una consecuencia lógica. -->
-- [x] C) Relación de consecuencia o conclusión. <!-- feedback: ¡Correcto! La protección es la consecuencia lógica de que sean vitales. -->
-- [ ] D) Relación de tiempo pasado. <!-- feedback: Incorrecto. No indica cuándo ocurre, sino por qué debe ocurrir una acción. -->
+- [x] D) Relación de consecuencia o conclusión. <!-- feedback: ¡Correcto! La protección es la consecuencia lógica de que sean vitales. -->
+- [ ] C) Relación de tiempo pasado. <!-- feedback: Incorrecto. No indica cuándo ocurre, sino por qué debe ocurrir una acción. -->
 
 ### Explicacion Pedagogica
 Los conectores de consecuencia (por eso, en consecuencia, por consiguiente) son las herramientas estrella de los textos argumentativos. Permiten derivar conclusiones sólidas a partir de premisas o datos presentados previamente.
@@ -96,8 +96,8 @@ Los conectores de consecuencia (por eso, en consecuencia, por consiguiente) son 
 
 ### Opciones
 - [ ] A) Me gusta el sancocho de pescado porque es muy nutritivo. <!-- feedback: Incorrecto. "Porque" es un conector de causa. -->
-- [ ] B) Mañana lloverá en Bogotá, así que llevaré paraguas. <!-- feedback: Incorrecto. "Así que" es un conector de consecuencia. -->
-- [x] C) Estudié mucho para el examen de sociales; sin embargo, me sentí muy nervioso. <!-- feedback: ¡Correcto! "Sin embargo" presenta un contraste entre el estudio y el nerviosismo. -->
+- [ ] C) Mañana lloverá en Bogotá, así que llevaré paraguas. <!-- feedback: Incorrecto. "Así que" es un conector de consecuencia. -->
+- [x] B) Estudié mucho para el examen de sociales; sin embargo, me sentí muy nervioso. <!-- feedback: ¡Correcto! "Sin embargo" presenta un contraste entre el estudio y el nerviosismo. -->
 - [ ] D) Además de ser buen estudiante, Santiago es un gran futbolista. <!-- feedback: Incorrecto. "Además" es un conector de adición o suma. -->
 
 ### Explicacion Pedagogica
@@ -116,8 +116,8 @@ Saber contrastar ideas con conectores como "pero", "aunque", "no obstante" o "al
 ¿Cuál de los siguientes conectores de ADICIÓN sería el más adecuado para que Santiago sume información nueva a su relato?
 
 ### Opciones
-- [ ] A) En resumen <!-- feedback: Incorrecto. Se usa para terminar o sintetizar, no para añadir datos nuevos. -->
-- [x] B) Asimismo <!-- feedback: ¡Correcto! Es un conector formal de adición, similar a "también" o "además". -->
+- [ ] B) En resumen <!-- feedback: Incorrecto. Se usa para terminar o sintetizar, no para añadir datos nuevos. -->
+- [x] A) Asimismo <!-- feedback: ¡Correcto! Es un conector formal de adición, similar a "también" o "además". -->
 - [ ] C) Por ejemplo <!-- feedback: Incorrecto. Se usa para ilustrar una idea con casos concretos, no para sumar una idea distinta. -->
 - [ ] D) En cambio <!-- feedback: Incorrecto. Se usa para oponer dos situaciones. -->
 
@@ -179,8 +179,8 @@ Los conectores explicativos (es decir, o sea, esto es, en otras palabras) son pu
 ¿Cuál de estos conectores es el más apropiado para iniciar el párrafo de CIERRE de un texto argumentativo?
 
 ### Opciones
-- [ ] A) Por otra parte <!-- feedback: Incorrecto. Indica que se va a hablar de un tema nuevo o distinto. -->
-- [x] B) En conclusión <!-- feedback: ¡Correcto! Avisa al lector que se ha llegado al final y se van a resumir las ideas principales. -->
+- [ ] B) Por otra parte <!-- feedback: Incorrecto. Indica que se va a hablar de un tema nuevo o distinto. -->
+- [x] A) En conclusión <!-- feedback: ¡Correcto! Avisa al lector que se ha llegado al final y se van a resumir las ideas principales. -->
 - [ ] C) Para empezar <!-- feedback: Incorrecto. Se usa para el inicio del texto. -->
 - [ ] D) Sin embargo <!-- feedback: Incorrecto. Se usa para contrastar ideas, no para cerrar un texto completo. -->
 
@@ -202,8 +202,8 @@ El uso de conectores conclusivos (para terminar, finalmente, en suma, en conclus
 ### Opciones
 - [ ] A) El sentido sigue siendo el mismo porque ambos son conectores positivos. <!-- feedback: Incorrecto. Tienen funciones lógicas opuestas. -->
 - [ ] B) El texto sería más claro porque "Además" es una palabra más común. <!-- feedback: Incorrecto. El texto perdería su sentido de advertencia y contraste. -->
-- [x] C) Se perdería la relación de oposición y parecería que la deforestación es una "riqueza" o algo bueno que se suma a la región. <!-- feedback: ¡Correcto! Se cambiaría un contraste por una suma, creando un sinsentido lógico. -->
-- [ ] D) El texto se volvería una poesía sobre los ríos. <!-- feedback: Incorrecto. El cambio de conector afecta la lógica, no necesariamente el género literario. -->
+- [x] D) Se perdería la relación de oposición y parecería que la deforestación es una "riqueza" o algo bueno que se suma a la región. <!-- feedback: ¡Correcto! Se cambiaría un contraste por una suma, creando un sinsentido lógico. -->
+- [ ] C) El texto se volvería una poesía sobre los ríos. <!-- feedback: Incorrecto. El cambio de conector afecta la lógica, no necesariamente el género literario. -->
 
 ### Explicacion Pedagogica
 Elegir el conector equivocado puede cambiar totalmente el mensaje. El análisis crítico implica entender que los conectores no son adornos, sino indicadores de la postura del autor ante los hechos. "No obstante" indica una preocupación; "Además" indicaría una simple acumulación.
@@ -222,9 +222,9 @@ Identifica el conector que falta para que la siguiente relación de CAUSA sea l�
 
 ### Opciones
 - [ ] A) por consiguiente <!-- feedback: Incorrecto. Indicaría que la lesión fue el resultado de no terminar la carrera, lo cual no tiene sentido. -->
-- [x] B) puesto que <!-- feedback: ¡Correcto! "Puesto que" introduce la causa o motivo por el cual no terminó la carrera. -->
-- [ ] C) pero <!-- feedback: Incorrecto. Indicaría un obstáculo que no necesariamente explica la causa directa en este contexto. -->
-- [ ] D) en primer lugar <!-- feedback: Incorrecto. Indicaría orden, no el motivo de la acción. -->
+- [x] D) puesto que <!-- feedback: ¡Correcto! "Puesto que" introduce la causa o motivo por el cual no terminó la carrera. -->
+- [ ] B) pero <!-- feedback: Incorrecto. Indicaría un obstáculo que no necesariamente explica la causa directa en este contexto. -->
+- [ ] C) en primer lugar <!-- feedback: Incorrecto. Indicaría orden, no el motivo de la acción. -->
 
 ### Explicacion Pedagogica
 Los conectores causales (ya que, debido a que, porque, puesto que) son esenciales para explicar el porqué de las cosas. Su uso correcto permite que el lector comprenda la cadena de eventos y la motivación de los personajes o de los hechos históricos descritos.

@@ -56,11 +56,11 @@ El Golpe de Estado del 11 de septiembre de 1973, respaldado por las Fuerzas Arma
 ### Opciones
 - [ ] A) La Sociedad de Socorros Mutuos de Santiago.
   <!-- feedback: Incorrecto. Las mutuales eran agrupaciones del siglo XIX de previsión obrera privada, ajenas a la defensa jurídica de derechos humanos bajo Pinochet. -->
-- [x] B) La Vicaría de la Solidaridad.
+- [x] D) La Vicaría de la Solidaridad.
   <!-- feedback: Correcto. La Vicaría de la Solidaridad recopiló testimonios, presentó miles de recursos de amparo judiciales por detenidos desaparecidos y brindó protección material, médica y legal inestimable a los perseguidos por la dictadura. -->
-- [ ] C) La Falange Nacional de Talca.
+- [ ] B) La Falange Nacional de Talca.
   <!-- feedback: Incorrecto. La Falange Nacional fue un partido de centro de las décadas de 1930 y 1940 que luego originó la Democracia Cristiana. -->
-- [ ] D) La Comisión Radicadora de Indígenas de Temuco.
+- [ ] C) La Comisión Radicadora de Indígenas de Temuco.
   <!-- feedback: Incorrecto. Esta comisión estatal del siglo XIX operó confiscando y reduciendo tierras del pueblo mapuche, sin relación con el cardenal Silva Henríquez. -->
 
 ### Explicacion Pedagogica
@@ -80,9 +80,9 @@ Ante la censura, la clausura del Congreso y la clausura de partidos políticos p
 ### Opciones
 - [ ] A) El Servicio de Seguro Social Obrero (SSS).
   <!-- feedback: Incorrecto. El SSS era el sistema solidario estatal de reparto de mediados de siglo, desmantelado por las reformas neoliberales de la dictadura. -->
-- [x] B) Las Administradoras de Fondos de Pensiones (AFP).
+- [x] C) Las Administradoras de Fondos de Pensiones (AFP).
   <!-- feedback: Correcto. El Decreto Ley 3.500 de 1980 privatizó los fondos de jubilación, obligando a los trabajadores chilenos a cotizar un porcentaje mensual de su salario en cuentas de capitalización individual administradas por empresas privadas (las AFP). -->
-- [ ] C) El Fondo Nacional de Salud de las Provincias (FONASA).
+- [ ] B) El Fondo Nacional de Salud de las Provincias (FONASA).
   <!-- feedback: Incorrecto. Fonasa es la institución fiscal de cobertura de salud de Chile, no de pensiones o jubilación previsional de capitalización. -->
 - [ ] D) La Caja de la Habitación Popular de la CORFO.
   <!-- feedback: Incorrecto. Fue una entidad habitacional de mediados del siglo XX y no guardaba relación con la reforma previsional de las AFP de 1980. -->
@@ -102,11 +102,11 @@ La privatización previsional chilena de las AFP constituyó una de las reformas
 ¿Cuál era la principal función política de los cerrojos y enclaves autoritarios (como senadores designados o quórums supra-mayoritarios) introducidos en el texto constitucional de 1980?
 
 ### Opciones
-- [ ] A) Entregar el mando supremo de las Fuerzas Armadas al Partido Radical de forma perpetua.
+- [ ] B) Entregar el mando supremo de las Fuerzas Armadas al Partido Radical de forma perpetua.
   <!-- feedback: Incorrecto. El Partido Radical estaba proscrito y perseguido; Pinochet aborrecía los partidos tradicionales civiles. -->
-- [ ] B) Garantizar la devolución gratuita de las salitreras norteñas a John Thomas North.
+- [ ] C) Garantizar la devolución gratuita de las salitreras norteñas a John Thomas North.
   <!-- feedback: Incorrecto. John Thomas North falleció en el siglo XIX, el salitre ya no era relevante frente a la minería del cobre y las reformas neoliberales de la dictadura. -->
-- [x] C) Asegurar que las bases del modelo neoliberal, la tutela de las FF.AA. y el orden de Pinochet continuaran inalterables aun si ganaba la oposición civil democrática en el futuro.
+- [x] A) Asegurar que las bases del modelo neoliberal, la tutela de las FF.AA. y el orden de Pinochet continuaran inalterables aun si ganaba la oposición civil democrática en el futuro.
   <!-- feedback: Correcto. Los 'cerrojos institucionales' diseñados por Jaime Guzmán buscaban amarrar la transición a la democracia, forzando quórums imposibles para reformar leyes y manteniendo senadores designados afines al pinochetismo para neutralizar las mayorías electorales de centro-izquierda. -->
 - [ ] D) Otorgar la nacionalidad chilena automática e incondicional a los diplomáticos argentinos.
   <!-- feedback: Incorrecto. No formaba parte de las motivaciones de cerrojos autoritarios nacionales chilenos diseñados por la dictadura. -->
@@ -150,9 +150,9 @@ La DINA encarnó el terrorismo de Estado en Chile de forma sistemática. Depend�
 ¿Qué paradigma económico neoclásico e ideas basilar del libre mercado sustentó el plan de reformas macroeconómicas contenido en el documento conocido como 'El Ladrillo' de 1973?
 
 ### Opciones
-- [ ] A) La estatización total de la industria y la supresión absoluta de la propiedad privada.
+- [ ] B) La estatización total de la industria y la supresión absoluta de la propiedad privada.
   <!-- feedback: Incorrecto. Esto correspondía al programa de la UP de Salvador Allende; los Chicago Boys implementaron lo opuesto. -->
-- [x] B) El neoliberalismo, que postulaba la reducción drástica del gasto fiscal, la privatización de empresas públicas estatales, la desregulación de precios y la apertura arancelaria al comercio internacional.
+- [x] A) El neoliberalismo, que postulaba la reducción drástica del gasto fiscal, la privatización de empresas públicas estatales, la desregulación de precios y la apertura arancelaria al comercio internacional.
   <!-- feedback: Correcto. Los Chicago Boys aplicaron la 'terapia de choque' neoliberal para corregir la alta inflación heredada de la crisis de la UP, retirando de golpe al Estado del rol interventor de mediados de siglo e imponiendo el libre mercado. -->
 - [ ] C) El modelo corporativo cepalino de industrialización dirigida (ISI).
   <!-- feedback: Incorrecto. El modelo ISI fue desmantelado radicalmente por los Chicago Boys por considerarlo ineficiente y proteccionista. -->
@@ -198,11 +198,11 @@ La crisis de 1982 fue el colapso del 'primer milagro económico' neoliberal chil
 ¿Qué proceso administrativo e institucional, conocido como 'municipalización de la enseñanza pública', implementó Pinochet en 1981 desmantelando la red del Estado Docente?
 
 ### Opciones
-- [x] A) El traspaso de la administración de las escuelas y liceos fiscales desde el Ministerio de Educación del Estado a las respectivas municipalidades de Chile.
+- [x] C) El traspaso de la administración de las escuelas y liceos fiscales desde el Ministerio de Educación del Estado a las respectivas municipalidades de Chile.
   <!-- feedback: Correcto. La municipalización segmentó el sistema educativo. El Estado central abandonó el financiamiento directo de las escuelas públicas, delegándolas en los municipios chilenos, lo que consagró brechas profundas de calidad ligadas a los recursos presupuestarios de las comunas ricas o pobres. -->
-- [ ] B) La gratuidad obligatoria incondicional de toda la enseñanza universitaria de posgrado.
+- [ ] A) La gratuidad obligatoria incondicional de toda la enseñanza universitaria de posgrado.
   <!-- feedback: Incorrecto. Al contrario, las universidades chilenas comenzaron a autofinanciarse mediante altos aranceles privados y créditos bancarios de endeudamiento familiar. -->
-- [ ] C) La abolición del idioma castellano para dictar la enseñanza escolar básica rural en idioma germánico.
+- [ ] B) La abolición del idioma castellano para dictar la enseñanza escolar básica rural en idioma germánico.
   <!-- feedback: Incorrecto. No hubo sustituciones de idiomas oficiales chilenos bajo la dictadura militar de Pinochet. -->
 - [ ] D) La entrega exclusiva de todos los colegios primarios fiscales al arzobispado católico de Santiago.
   <!-- feedback: Incorrecto. Si bien el clero tradicional administraba sus colegios particulares de élite, la red fiscal pública no fue privatizada a la Iglesia, sino municipalizada. -->
@@ -224,9 +224,9 @@ La municipalización (1981) fragmentó la equidad y calidad formativa nacional. 
 ### Opciones
 - [ ] A) Disolver el derecho a huelga en las minas de carbón del golfo de Arauco para beneficiar a Argentina.
   <!-- feedback: Incorrecto. Las privatizaciones no eran para ceder riqueza a países vecinos, sino para consolidar el capital privado nacional e internacional aliado de la dictadura militar. -->
-- [ ] B) Aumentar los impuestos aduaneros cobrados en el puerto de Valparaíso para robustecer al Estado.
+- [ ] C) Aumentar los impuestos aduaneros cobrados en el puerto de Valparaíso para robustecer al Estado.
   <!-- feedback: Incorrecto. Las reformas neoliberales redujeron drásticamente los impuestos aduaneros comerciales para desmantelar la estructura proteccionista del Estado. -->
-- [x] C) Reducir de forma irreversible el poder y tamaño del Estado en la economía de Chile, privatizando la riqueza nacional a favor de consorcios privados y grupos económicos chilenos afines.
+- [x] B) Reducir de forma irreversible el poder y tamaño del Estado en la economía de Chile, privatizando la riqueza nacional a favor de consorcios privados y grupos económicos chilenos afines.
   <!-- feedback: Correcto. Privatizar firmas estratégicas (como ENDESA, CAP, IANSA, SOQUIMICH, ENTEL) buscaba liquidar de forma definitiva la matriz socialista o estatista de desarrollo, consolidando grupos económicos privados nacionales fieles al orden neoliberal de Pinochet. -->
 - [ ] D) Obligar a todo habitante a ser accionista de los ferrocarriles de la Araucanía.
   <!-- feedback: Incorrecto. Los ferrocarriles estatales continuaron operando marginados, y las privatizaciones saldaron en favor de grupos económicos concentrados particulares. -->
@@ -246,9 +246,9 @@ La oleada de privatizaciones bajo dictadura se ejecutó sin fiscalización parla
 ¿Qué dualidad sanitaria de clases se consolidó institucionalmente en Chile con la introducción de las Instituciones de Salud Previsional (Isapres) privadas en 1981?
 
 ### Opciones
-- [ ] A) El fin absoluto de Fonasa y el traspaso obligatorio de todo habitante de Chile a clínicas privadas de Santiago.
+- [ ] B) El fin absoluto de Fonasa y el traspaso obligatorio de todo habitante de Chile a clínicas privadas de Santiago.
   <!-- feedback: Incorrecto. Fonasa continuó existiendo para acoger a las masas populares de bajos recursos fiscales y de fonasa solidaria. -->
-- [x] B) Un sistema de salud segmentado: clínicas privadas de alta tecnología (Isapres) para las clases altas solventes y hospitales públicos desfinanciados (Fonasa) para las grandes masas trabajadoras y pobres.
+- [x] A) Un sistema de salud segmentado: clínicas privadas de alta tecnología (Isapres) para las clases altas solventes y hospitales públicos desfinanciados (Fonasa) para las grandes masas trabajadoras y pobres.
   <!-- feedback: Correcto. El Decreto Ley de 1981 permitió derivar las cotizaciones obligatorias de salud de los trabajadores chilenos de mayores ingresos a firmas aseguradoras privadas con fines de lucro (las Isapres), quitando recursos de solidaridad al fondo público sanitario común. -->
 - [ ] C) La prohibición absoluta de que las mujeres campesinas se atendieran en los consultorios públicos.
   <!-- feedback: Incorrecto. El sector público sanitario (Fonasa) continuó asumiendo la atención materno-infantil de la población rural chilena. -->
@@ -296,9 +296,9 @@ La nacionalización del cobre de 1971 fue la reforma estructural más profunda d
 ### Opciones
 - [ ] A) La muerte de soldados chilenos que luchaban contra piratas de origen español.
   <!-- feedback: Incorrecto. No hubo piratas españoles en Iquique ni Pisagua en la época contemporánea de 1990 o de dictadura de Pinochet. -->
-- [x] B) La existencia del ocultamiento de crímenes bajo la figura del arresto de 'Detenidos Desaparecidos' que habían sido fusilados clandestinamente al margen de la ley por agentes militares de la dictadura militar.
+- [x] C) La existencia del ocultamiento de crímenes bajo la figura del arresto de 'Detenidos Desaparecidos' que habían sido fusilados clandestinamente al margen de la ley por agentes militares de la dictadura militar.
   <!-- feedback: Correcto. El hallazgo de la fosa común de Pisagua en 1990 desnudó la verdad científica y criminal de los detenidos desaparecidos, revelando cuerpos momificados de militantes y dirigentes de izquierda asesinados y ocultos secretamente en la arena del desierto nortino chilenos. -->
-- [ ] C) La tumba colectiva de los colonos alemanes fallecidos por tifus en Valdivia en 1850.
+- [ ] B) La tumba colectiva de los colonos alemanes fallecidos por tifus en Valdivia en 1850.
   <!-- feedback: Incorrecto. Los colonos de Valdivia están en los cementerios del sur de Chile de forma legal e histórica, ajenos a la fosa de detenidos desaparecidos de la dictadura en Pisagua de los años 70. -->
 - [ ] D) El entierro formal de los combatientes de la Guerra del Pacífico de 1879.
   <!-- feedback: Incorrecto. Si bien hubo combates en Pisagua en 1879, la fosa común exhumada en 1990 contenía cuerpos de prisioneros políticos contemporáneos amarrados y con balazos ejecutados bajo la dictadura de Pinochet. -->
@@ -320,9 +320,9 @@ El descubrimiento de la fosa de Pisagua en junio de 1990 conmocionó al país al
 ### Opciones
 - [ ] A) La obligación de que los sindicatos estuvieran dirigidos por sacerdotes jesuitas de Concepción.
   <!-- feedback: Incorrecto. El régimen de Pinochet desconfiaba del clero progresista laico, y el Plan Laboral secularizó y fragmentó la organización gremial. -->
-- [x] B) La desarticulación de la negociación colectiva por ramas de industria (limitándola solo al nivel de empresa individual), la huelga acotada y el fin del sindicato único obligatorio.
+- [x] C) La desarticulación de la negociación colectiva por ramas de industria (limitándola solo al nivel de empresa individual), la huelga acotada y el fin del sindicato único obligatorio.
   <!-- feedback: Correcto. El Plan Laboral desarticuló el poder de los sindicatos nacionales. Al prohibir la negociación interempresa y permitir la contratación de reemplazos durante las huelgas chilenas, se atomizó la fuerza del proletariado frente a los empleadores privados capitalistas. -->
-- [ ] C) La estatización total de la Central Única de Trabajadores (CUT) de Santiago.
+- [ ] B) La estatización total de la Central Única de Trabajadores (CUT) de Santiago.
   <!-- feedback: Incorrecto. La CUT fue proscrita y perseguida con violencia dictatorial militar clandestina, sin nacionalizaciones de sindicatos obreros chilenos. -->
 - [ ] D) La prohibición absoluta de contratar obreros en las provincias de Arauco.
   <!-- feedback: Incorrecto. La mano de obra agrícola forestal continuó contratándose bajo el nuevo código laboral desregulado de la dictadura militar. -->
@@ -344,9 +344,9 @@ El Plan Laboral de 1979 adaptó el mercado del trabajo a la matriz neoliberal. A
 ### Opciones
 - [ ] A) Privatizó de inmediato la totalidad de las minas de Chuquicamata vendiéndolas baratas a John Thomas North.
   <!-- feedback: Incorrecto. John Thomas North falleció en el siglo XIX; Codelco se mantuvo en manos públicas debido a la importancia estratégica fiscal militar de las divisas. -->
-- [ ] B) Regaló CODELCO de forma íntegra e incondicional al gobierno de los Estados Unidos.
+- [ ] C) Regaló CODELCO de forma íntegra e incondicional al gobierno de los Estados Unidos.
   <!-- feedback: Incorrecto. El cobre continuó siendo propiedad inalienable del Estado chileno, sin regalarse a corporaciones gubernamentales extranjeras de EE.UU. -->
-- [x] C) Mantuvo a CODELCO como corporación estatal pública para captar sus millonarios excedentes fiscales de exportación, destinando por ley el 10% de sus ventas al financiamiento exclusivo de las FF.AA. (Ley Reservada del Cobre).
+- [x] B) Mantuvo a CODELCO como corporación estatal pública para captar sus millonarios excedentes fiscales de exportación, destinando por ley el 10% de sus ventas al financiamiento exclusivo de las FF.AA. (Ley Reservada del Cobre).
   <!-- feedback: Correcto. A pesar del credo privatizador neoliberal de los Chicago Boys, Pinochet resguardó el carácter estatal de Codelco para asegurar los presupuestos militares y de defensa del país mediante la Ley Reservada del Cobre de forma corporativa secreta. -->
 - [ ] D) Dividió a CODELCO para entregar la totalidad de las minas al pueblo mapuche de Temuco.
   <!-- feedback: Incorrecto. Las comunidades originarias continuaron totalmente marginadas de las rentas cupríferas chilenas y del control soberano estatal minero. -->
@@ -366,9 +366,9 @@ A pesar de privatizar casi todo el aparato de la CORFO, la Junta Militar mantuvo
 ¿Qué repercusión internacional y diplomática de aislamiento de largo plazo tuvo para la dictadura de Pinochet la persistencia de las violaciones sistemáticas a los derechos humanos?
 
 ### Opciones
-- [x] A) La condena moral recurrente de la ONU, restricciones a la venta de armamento (Enmienda Kennedy) y el cuestionamiento ético global de los gobiernos occidentales, que minaron su legitimidad exterior.
+- [x] B) La condena moral recurrente de la ONU, restricciones a la venta de armamento (Enmienda Kennedy) y el cuestionamiento ético global de los gobiernos occidentales, que minaron su legitimidad exterior.
   <!-- feedback: Correcto. La dictadura de Pinochet enfrentó una agudizada condena internacional. Gobiernos europeos y de EE.UU. impusieron embargos de armas y vetos financieros, transformando al régimen militar chileno en un paria diplomático mundial. -->
-- [ ] B) La firma de un tratado de libre comercio exclusivo con el Imperio Británico en 1980.
+- [ ] A) La firma de un tratado de libre comercio exclusivo con el Imperio Británico en 1980.
   <!-- feedback: Incorrecto. Aunque Margaret Thatcher simpatizaba con Pinochet, la condena del Parlamento británico y del mundo impidió pactos preferenciales de libre comercio de ese cuño. -->
 - [ ] C) La anexión pacífica de la Patagonia argentina por decreto diplomático de las Naciones Unidas.
   <!-- feedback: Incorrecto. No hubo variaciones limítrofes ni de anexión de tierras por parte de la ONU; el litigio fronterizo continuaba cerrado. -->
@@ -392,9 +392,9 @@ La persistencia de las denuncias de tortura, exilio masivo y detenciones clandes
 ### Opciones
 - [ ] A) La nacionalización absoluta de todos los colegios particulares subvencionados del país.
   <!-- feedback: Incorrecto. La Constitución de 1980 consagra la libre empresa y la libertad de enseñanza privada lucrativa, contraria a nacionalizar colegios. -->
-- [x] B) La noción de que el Estado solo debe intervenir en aquellas actividades económicas o sociales que los particulares privados no puedan o no quieran asumir, consagrando la privatización de servicios públicos básicos.
+- [x] C) La noción de que el Estado solo debe intervenir en aquellas actividades económicas o sociales que los particulares privados no puedan o no quieran asumir, consagrando la privatización de servicios públicos básicos.
   <!-- feedback: Correcto. El rol subsidiario restringe la acción del Estado como proveedor directo de derechos. Promueve que la salud, educación y previsión se organicen de forma preferente bajo el mercado privado de libre competencia, quedando el fisco reservado para regular o subsidiar de forma focalizada la extrema miseria popular obrera. -->
-- [ ] C) La obligatoriedad de que la Universidad de Chile financiara todas las Isapres privadas chilenas.
+- [ ] B) La obligatoriedad de que la Universidad de Chile financiara todas las Isapres privadas chilenas.
   <!-- feedback: Incorrecto. Las Isapres eran empresas financieras con fines de lucro que captaban las cotizaciones directas particulares chilenas y no de fondos de la Universidad de Chile. -->
 - [ ] D) La expropiación pacífica de los puertos de Valparaíso por parte de la corona de España.
   <!-- feedback: Incorrecto. No operaban influencias monárquicas españolas; el control portuario fue privatizado a consorcios multinacionales y nacionales privados de Chile. -->
@@ -416,11 +416,11 @@ A la luz de los antecedentes de la Guerra Fría y la polarización interna, ¿cu
 ### Opciones
 - [ ] A) La intervención encubierta de la CIA fue el único y exclusivo factor real de la crisis, ya que en Chile no existía polarización social interna ni problemas económicos.
   <!-- feedback: Incorrecto. Esta interpretación elude la severa crisis de balanza de pagos, la alta inflación interna del 300% y la profunda pugna civil por el área de propiedad social entre los tercios. -->
-- [x] B) Actuó como un poderoso catalizador desestabilizador de la crisis doméstica, financiando paros patronales de transportes, bloqueos financieros y campañas de prensa, amplificando la polarización social y el desabastecimiento interno.
+- [x] D) Actuó como un poderoso catalizador desestabilizador de la crisis doméstica, financiando paros patronales de transportes, bloqueos financieros y campañas de prensa, amplificando la polarización social y el desabastecimiento interno.
   <!-- feedback: Correcto. Documentos desclasificados demuestran que el gobierno de Richard Nixon ordenó 'hacer chillar la economía chilena'. La CIA financió de forma encubierta paros de camioneros, la prensa opositora (como El Mercurio) y boicoteó créditos del Banco Mundial, lo que sumado a los errores de planificación económica de la UP precipitaron el Golpe de Estado de Pinochet. -->
-- [ ] C) La CIA obligó al presidente Salvador Allende a abdicar voluntariamente ante la corona española del Valle Central.
+- [ ] B) La CIA obligó al presidente Salvador Allende a abdicar voluntariamente ante la corona española del Valle Central.
   <!-- feedback: Incorrecto. Salvador Allende defendió con heroísmo su mandato constitucional civil republicano hasta su trágica muerte en La Moneda, y España no tuvo injerencia alguna. -->
-- [ ] D) La intervención militar de EE.UU. consistió en una invasión marítima directa con portaviones en las costas de Iquique.
+- [ ] C) La intervención militar de EE.UU. consistió en una invasión marítima directa con portaviones en las costas de Iquique.
   <!-- feedback: Incorrecto. No hubo invasión o desembarco militar directo de portaviones de EE.UU. en Iquique o Valparaíso, sino una desestabilización encubierta y complot con sectores golpistas locales chilenos. -->
 
 ### Explicacion Pedagogica
@@ -438,11 +438,11 @@ El derrocamiento de Salvador Allende conjuga factores geopolíticos foráneos y 
 ¿Qué característica metodológica particular diferenció a los crímenes de represión política selectiva cometidos por la dictadura de Pinochet (1973-1990) de las guerras civiles decimonónicas de Chile (1851 o 1859)?
 
 ### Opciones
-- [x] A) El uso sistemático e institucionalizado del aparato estatal clandestino (DINA/CNI) para detener secretamente, torturar, ejecutar y hacer desaparecer físicamente los restos de opositores sin juicios de ley civiles.
+- [x] C) El uso sistemático e institucionalizado del aparato estatal clandestino (DINA/CNI) para detener secretamente, torturar, ejecutar y hacer desaparecer físicamente los restos de opositores sin juicios de ley civiles.
   <!-- feedback: Correcto. A diferencia de las guerras del siglo XIX (donde los bandos chocaban de forma abierta armada institucional), bajo Pinochet se aplicó una represión selectiva secreta e institucionalizada del Estado que secuestraba ciudadanos, los sometía a tortura bárbara en cuarteles secretos y ocultaba los cadáveres (lanzándolos al mar en 'vuelos de la muerte' o enterrándolos clandestinamente) para evadir la justicia. -->
-- [ ] B) El destierro exclusivo de todos los oficiales del Ejército chileno a la pampa de Iquique.
+- [ ] A) El destierro exclusivo de todos los oficiales del Ejército chileno a la pampa de Iquique.
   <!-- feedback: Incorrecto. Los militares disidentes o leales a la constitución fueron exonerados, encarcelados o asesinados de forma clandestina, no desterrados a trabajar al norte. -->
-- [ ] C) La entrega obligatoria de todas las armas al arzobispado católico de Santiago.
+- [ ] B) La entrega obligatoria de todas las armas al arzobispado católico de Santiago.
   <!-- feedback: Incorrecto. La Iglesia denunciaba los crímenes de represión estatal pero no captaba ni custodiaba armamento militar de la dictadura militar. -->
 - [ ] D) La declaración inmediata de la cordillera del Nahuelbuta como zona desmilitarizada internacional.
   <!-- feedback: Incorrecto. La Araucanía y todo Chile estuvieron sometidos bajo un estricto estado de sitio y toque de queda militarizado. -->
@@ -464,11 +464,11 @@ El terrorismo de Estado bajo Pinochet operó mediante la denegación sistemátic
 ### Opciones
 - [ ] A) La orden directa emitida por el Rey de España para disolver el régimen militar de Santiago.
   <!-- feedback: Incorrecto. España ya no ejercía de ningún modo influencias gubernamentales coloniales soberanas de arbitraje en Chile contemporáneo. -->
-- [x] B) La grave recesión económica y desempleo masivo del país provocado por la crisis de 1982, liderada de forma valiente por la Confederación de Trabajadores del Cobre dirigida por Rodolfo Seguel.
+- [x] D) La grave recesión económica y desempleo masivo del país provocado por la crisis de 1982, liderada de forma valiente por la Confederación de Trabajadores del Cobre dirigida por Rodolfo Seguel.
   <!-- feedback: Correcto. El colapso financiero de 1982 eclosionó la tolerancia popular. El sindicato del cobre de Seguel convocó al primer paro de Protesta Nacional en mayo de 1983, aglutinando a pobladores de las tomas de terreno urbanas desocupados, sindicatos de la construcción y juventudes de clase media que salieron a golpear cacerolas y levantar barricadas, exigiendo democracia. -->
-- [ ] C) La entrega de la administración de la mina de Chuquicamata a las Isapres privadas.
+- [ ] B) La entrega de la administración de la mina de Chuquicamata a las Isapres privadas.
   <!-- feedback: Incorrecto. Chuquicamata continuó bajo la estatal Codelco de forma inamovible por la Ley Reservada del Cobre de Pinochet. -->
-- [ ] D) La exigencia militar de privatizar el Estrecho de Magallanes a favor de las AFP privadas de Santiago.
+- [ ] C) La exigencia militar de privatizar el Estrecho de Magallanes a favor de las AFP privadas de Santiago.
   <!-- feedback: Incorrecto. No se privatizaron canales soberanos fluviales o marinos australes claves en favor del mercado previsional de fondos de AFP chilenos. -->
 
 ### Explicacion Pedagogica

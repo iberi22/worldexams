@@ -36,9 +36,9 @@ Como é classificada a figura de linguagem que consiste na substituição de um 
 ### Opciones
 - [ ] A) Metáfora.
   <!-- feedback: Incorreto. A metáfora é uma comparação implícita baseada em semelhança subjetiva, não em contiguidade lógica material. -->
-- [x] B) Metonímia.
+- [x] C) Metonímia.
   <!-- feedback: Correto! A metonímia realiza essa troca lógica de termos, como quando dizemos "bebi dois copos" (continente pelo conteúdo). -->
-- [ ] C) Personificação (ou Prosopopeia).
+- [ ] B) Personificação (ou Prosopopeia).
   <!-- feedback: Incorreto. A prosopopeia consiste em atribuir sentimentos ou ações humanas a seres inanimados ou irracionais. -->
 - [ ] D) Eufemismo.
   <!-- feedback: Incorreto. O eufemismo é utilizado para suavizar expressões chocantes ou desagradáveis da realidade. -->
@@ -80,9 +80,9 @@ A antítese consiste na oposição lógica de palavras ou ideias cujos sentidos 
 Identifique a figura de linguagem presente na exclamação do motorista e sua finalidade comunicativa na fala informal:
 
 ### Opciones
-- [ ] A) Eufemismo, para suavizar a irritação do motorista de forma polida perante as autoridades de Curitiba.
+- [ ] B) Eufemismo, para suavizar a irritação do motorista de forma polida perante as autoridades de Curitiba.
   <!-- feedback: Incorreto. Dizer "há mil séculos" aumenta o atraso, não suavizando o impacto de forma branda. -->
-- [x] B) Hipérbole, por meio de um exagero intencional dramático para enfatizar a impaciência e o grande tempo de espera real do falante.
+- [x] A) Hipérbole, por meio de um exagero intencional dramático para enfatizar a impaciência e o grande tempo de espera real do falante.
   <!-- feedback: Correto! "Mil séculos" é uma hipérbole clássica para expressar de forma amplificada a sensação subjetiva de demora. -->
 - [ ] C) Aliteração, devido à repetição regular de consoantes idênticas para imitar o som do motor da balsa no Paraná.
   <!-- feedback: Incorreto. O foco da frase é o exagero do tempo de espera e não jogos sonoros fonéticos de consoantes. -->
@@ -128,9 +128,9 @@ A definição poética do amor construída por Camões apoia-se estruturalmente 
 ### Opciones
 - [ ] A) Gradação, listando ações em escala crescente de força física até o desfalecimento espiritual do amante.
   <!-- feedback: Incorreto. O poema não foca em escaladas crescentes temporais, mas sim na coexistência de ideias contrárias. -->
-- [ ] B) Catacrese, devido ao desgaste linguístico de metáforas sem nome próprio do corpo humano de passagem.
+- [ ] C) Catacrese, devido ao desgaste linguístico de metáforas sem nome próprio do corpo humano de passagem.
   <!-- feedback: Incorreto. As metáforas de Camões são inovadoras, poéticas e estéticas, longe do desgaste prosaico de "pé de mesa". -->
-- [x] C) Paradoxo (ou Oxímoro), pois reúne num mesmo conceito ideias contraditórias que desafiam a lógica racional convencional.
+- [x] B) Paradoxo (ou Oxímoro), pois reúne num mesmo conceito ideias contraditórias que desafiam a lógica racional convencional.
   <!-- feedback: Correto! Dizer que uma ferida "dói e não se sente" é fundir duas sensações incompatíveis em uma contradição lógica. -->
 - [ ] D) Metonímia, trocando o autor Camões pelo poema impresso em folhas coloniais sem rimas.
   <!-- feedback: Incorreto. O poema descreve a essência antagônica do amor em si e não a autoria material do suporte físico. -->
@@ -149,11 +149,11 @@ O paradoxo ou oxímoro aproxima termos contraditórios que, em termos de lógica
 Ao qualificar o substantivo "silêncio" (audição/ausência de som) com os adjetivos "doce" (paladar) e "verde" (visão), o publicitário utiliza a figura chamada:
 
 ### Opciones
-- [x] A) Sinestesia, que consiste na fusão e cruzamento de diferentes canais sensoriais (paladar, audição, visão) em uma mesma expressão.
+- [x] C) Sinestesia, que consiste na fusão e cruzamento de diferentes canais sensoriais (paladar, audição, visão) em uma mesma expressão.
   <!-- feedback: Correto! O cruzamento de sentidos humanos cria uma rica sugestão sensorial lírica e de requinte no anúncio. -->
-- [ ] B) Elipse, que consiste na omissão deliberada de termos facilmente subentendidos na frase paulista.
+- [ ] A) Elipse, que consiste na omissão deliberada de termos facilmente subentendidos na frase paulista.
   <!-- feedback: Incorreto. A frase é completa e seu recurso de destaque é a mescla de canais sensitivos físicos, não a elipse gramatical. -->
-- [ ] C) Anáfora, caracterizada pela repetição insistente da mesma palavra no início de vários versos seguidos.
+- [ ] B) Anáfora, caracterizada pela repetição insistente da mesma palavra no início de vários versos seguidos.
   <!-- feedback: Incorreto. Não há repetição sistemática de palavras no começo de períodos, apenas a fusão de sensações. -->
 - [ ] D) Hipérbato, que realiza uma violenta inversão da ordem sintática padrão da oração em Belo Horizonte.
   <!-- feedback: Incorreto. A estrutura sintática está na ordem direta comum do português, sem inversões floreadas rebuscadas. -->
@@ -174,9 +174,9 @@ Machado de Assis utiliza no trecho acima qual recurso estilístico figurado para
 ### Opciones
 - [ ] A) Ironia, buscando ridicularizar o sofrimento de Dona Plácida antes de sua morte no Rio de Janeiro.
   <!-- feedback: Incorreto. Embora Machado seja irônico, nessa passagem a suavização é respeitosa e clássica por eufemismo. -->
-- [x] B) Eufemismo, pois substitui a palavra crua "morreu" por uma expressão branda e solene ("partiu para o repouso eterno").
+- [x] C) Eufemismo, pois substitui a palavra crua "morreu" por uma expressão branda e solene ("partiu para o repouso eterno").
   <!-- feedback: Correto! O eufemismo serve para amenizar o impacto de ideias consideradas chocantes, tristes ou ofensivas. -->
-- [ ] C) Hipérbole, exagerando com requinte a temperatura corporal de Dona Plácida para impressionar o médico carioca.
+- [ ] B) Hipérbole, exagerando com requinte a temperatura corporal de Dona Plácida para impressionar o médico carioca.
   <!-- feedback: Incorreto. O foco do repouso eterno não é o exagero da febre, mas a suavização elegante do falecimento. -->
 - [ ] D) Catacrese, decorrente de uma metáfora gasta pelo uso diário do povo que não frequentava escolas imperiais.
   <!-- feedback: Incorreto. "Repouso eterno" é uma construção cultural solene e não uma metáfora de escassez como "braço da cadeira". -->
@@ -242,11 +242,11 @@ Crônicas leves e textos humorísticos mesclam metáforas (para qualificar de fo
 Nesses conhecidos versos de Cruz e Sousa, a figura de linguagem fônica que predomina e cria a atmosfera musical e misteriosa é a:
 
 ### Opciones
-- [x] A) Aliteração, devido à repetição sistemática do som consonantal fricativo alveolar sonoro /v/ ao longo do poema.
+- [x] C) Aliteração, devido à repetição sistemática do som consonantal fricativo alveolar sonoro /v/ ao longo do poema.
   <!-- feedback: Correto! A recorrência do som de /v/ imita sussurros e cria a cadência musical típica do Simbolismo nacional. -->
-- [ ] B) Assonância, caracterizada pela repetição exclusiva do som das vogais nasais abertas /ã/ de forma violenta.
+- [ ] A) Assonância, caracterizada pela repetição exclusiva do som das vogais nasais abertas /ã/ de forma violenta.
   <!-- feedback: Incorreto. O efeito marcante dos versos é a repetição da consoante /v/ (aliteração) e não de vogais nasais isoladas. -->
-- [ ] C) Onomatopeia, pois imita de forma literal e mecânica o barulho físico de engrenagens de trens a vapor.
+- [ ] B) Onomatopeia, pois imita de forma literal e mecânica o barulho físico de engrenagens de trens a vapor.
   <!-- feedback: Incorreto. Os sussurros líricos mimetizam violões e vozes poéticas, distanciando-se de ruídos mecânicos industriais. -->
 - [ ] D) Hipérbato, invertendo de forma confusa e ininteligível todos os verbos e artigos gramaticais do poema luso.
   <!-- feedback: Incorreto. Os termos formam blocos nominais de beleza lírica descritiva, sem inversões verbais rebuscadas caóticas. -->
@@ -290,9 +290,9 @@ No parágrafo de opinião acima, as figuras de linguagem que se destacam na cons
 ### Opciones
 - [ ] A) Sinestesia e Onomatopeia, imitando sons mecânicos de moedas físicas caindo no piso de concreto da prefeitura gaúcha.
   <!-- feedback: Incorreto. Não há ruídos onomatopeicos de metal nem mescla de canais sensitivos como tato e olfato no trecho. -->
-- [x] B) Prosopopeia (estádios "nadam") e Hipérbole (exagero de "piscinas douradas de dinheiro") para dar forte impacto emotivo à crítica política.
+- [x] C) Prosopopeia (estádios "nadam") e Hipérbole (exagero de "piscinas douradas de dinheiro") para dar forte impacto emotivo à crítica política.
   <!-- feedback: Correto! Atribuir a ação de nadar aos monumentos de concreto (prosopopeia) e exagerar a riqueza (piscinas douradas) mobiliza a indignação social. -->
-- [ ] C) Elipse e Zeugma de ocultamento de verbos, mimetizando a fala clássica de diplomatas portugueses do século dezessete.
+- [ ] B) Elipse e Zeugma de ocultamento de verbos, mimetizando a fala clássica de diplomatas portugueses do século dezessete.
   <!-- feedback: Incorreto. A oração é expressiva e direta de denúncia cívica moderna, sem o preciosismo de elipses de diplomatas do Barroco. -->
 - [ ] D) Catacrese exclusiva, por usar termos vulgares desgastados das feiras livres de rua gaúchas de forma mecânica.
   <!-- feedback: Incorreto. A construção é literária e retórica de persuasão de artigo de opinião jornalística de vestibular, longe de desgaste prosaico comum. -->
@@ -337,9 +337,9 @@ Sob a análise estética das figuras de pensamento na canção de Chico Buarque,
 ### Opciones
 - [ ] A) Pleonasmo de redundância gramatical inútil, repetindo termos do português clássico de forma feia e sem melodia de rimas.
   <!-- feedback: Incorreto. A repetição das palavras "De tanto..." constitui anáfora de reforço lírico e não erro feio redundante inútil. -->
-- [x] B) Metáforas sinestésicas ousadas ("beber a dor", "comer a dor"), que materializam um sentimento abstrato de dor em ações físicas de consumo alimentar.
+- [x] C) Metáforas sinestésicas ousadas ("beber a dor", "comer a dor"), que materializam um sentimento abstrato de dor em ações físicas de consumo alimentar.
   <!-- feedback: Correto! Chico Buarque torna a dor tangível e digestiva, integrando metáforas de canais biológicos de alimentação com aflições morais da alma. -->
-- [ ] C) Catacrese de desgaste de dicionário, idêntica ao termo popular "cabeça de prego" de fábricas paulistas de madeira de passagem.
+- [ ] B) Catacrese de desgaste de dicionário, idêntica ao termo popular "cabeça de prego" de fábricas paulistas de madeira de passagem.
   <!-- feedback: Incorreto. As construções de Chico Buarque são poéticas de alta sensibilidade lírica brasileira de MPB, longe de catacreses corriqueiras gastas. -->
 - [ ] D) Onomatopeias literais de ruídos mecânicos de mastigação de alimentos físicos na mesa de jantar do cantor.
   <!-- feedback: Incorreto. Não se imitam ruídos biológicos mecânicos de pratos de comida ("nhaque-nhaque"), mas se medita poeticamente sobre as mágoas íntimas da vida. -->
@@ -358,9 +358,9 @@ Metáforas sinestésicas de grande impacto lírico, como "beber" ou "comer a dor
 A menção à "dose de cinza e silêncio" na poética drummondiana carrega quais figuras de linguagem integradas e qual efeito de sentido existencial?
 
 ### Opciones
-- [ ] A) Pleonasmo e Onomatopeia, imitando com rigor mecânico o barulho físico de cinzas sendo sopradas ao vento nas calçadas de Belo Horizonte.
+- [ ] B) Pleonasmo e Onomatopeia, imitando com rigor mecânico o barulho físico de cinzas sendo sopradas ao vento nas calçadas de Belo Horizonte.
   <!-- feedback: Incorreto. Não há imitação de barulhos mecânicos da natureza nem redundâncias linguísticas inúteis no verso de Drummond. -->
-- [x] B) Metáfora e Sinestesia, fundindo imagens visuais de morte (cinza) com isolamento acústico (silêncio) em uma dose de resignação lírica existencial.
+- [x] A) Metáfora e Sinestesia, fundindo imagens visuais de morte (cinza) com isolamento acústico (silêncio) em uma dose de resignação lírica existencial.
   <!-- feedback: Correto! O poeta condensa a melancolia e desilusão perante as guerras do mundo em metáforas sensoriais densas de degustação amarga ("dose"). -->
 - [ ] C) Catacrese e Ironia sarcástica baiana, buscando atacar de forma jocosa os moradores do interior que não leem jornais paulistas.
   <!-- feedback: Incorreto. O tom do poema é grave, solene, universal e desiludido com as dores humanas, distante de deboches regionais paulistas ou mineiros. -->
@@ -381,13 +381,13 @@ Drummond constrói uma atmosfera de melancolia existencial fundindo sensações 
 Analise os recursos figurados orquestrados no slogan comercial do fabricante paulista e aponte a classificação estilística descritiva correta:
 
 ### Opciones
-- [x] A) Metáforas de base física térmica antagônica ("derrete estresse" - resfriamento/desaparecimento de problemas; "incendeia sorriso" - calor/explosão de alegria), gerando grande impacto persuasivo sensorial.
+- [x] D) Metáforas de base física térmica antagônica ("derrete estresse" - resfriamento/desaparecimento de problemas; "incendeia sorriso" - calor/explosão de alegria), gerando grande impacto persuasivo sensorial.
   <!-- feedback: Correto! As metáforas térmicas opostas despertam sensações biológicas e psicológicas positivas associadas ao consumo do chocolate. -->
-- [ ] B) Uso rígido de arcaísmos coloniais quinhentistas portugueses trazidos pelos padres jesuítas de 1549 para proibir o consumo de doces no Brasil.
+- [ ] A) Uso rígido de arcaísmos coloniais quinhentistas portugueses trazidos pelos padres jesuítas de 1549 para proibir o consumo de doces no Brasil.
   <!-- feedback: Incorreto. O eslogan é moderno, dinâmico de marketing de startup contemporânea de doces de São Paulo, sem rituais jesuíticos arcaicos coloniais. -->
-- [ ] C) Aliteração exclusiva de sons surdos sibilantes consonantais imitativos de chocalhos de cobras do pantanal nas florestas do sul.
+- [ ] B) Aliteração exclusiva de sons surdos sibilantes consonantais imitativos de chocalhos de cobras do pantanal nas florestas do sul.
   <!-- feedback: Incorreto. Não há imitação de cobras de floresta no slogan de chocolate, mas sim apelo comercial de prazer de degustação urbana de doce. -->
-- [ ] D) Catacrese por falta total de vocábulos na língua portuguesa, forçando a marca a usar as palavras "derrete" e "incendeia" como erros de gramática.
+- [ ] C) Catacrese por falta total de vocábulos na língua portuguesa, forçando a marca a usar as palavras "derrete" e "incendeia" como erros de gramática.
   <!-- feedback: Incorreto. O uso das palavras é planejado esteticamente com fins artísticos conotativos de luxo e não erros de escassez linguística de dicionários. -->
 
 ### Explicacion Pedagogica
@@ -406,9 +406,9 @@ Sob a análise estética do uso das figuras de linguagem nos dois movimentos lit
 ### Opciones
 - [ ] A) O Parnasianismo é cientificamente superior de verdade porque proíbe metáforas de sentimentos humanos, usando apenas a figura catacrese de dicionário em todas as estrofes.
   <!-- feedback: Incorreto. Cientificamente nenhuma escola é superior de verdade; ambas possuem mérito de estilo de acordo com seus objetivos históricos estéticos. -->
-- [ ] B) O Simbolismo falha de forma estética total devido ao uso de aliterações fônicas de consoantes que de fato impedem o leitor de ler as palavras escritas em silêncio.
+- [ ] C) O Simbolismo falha de forma estética total devido ao uso de aliterações fônicas de consoantes que de fato impedem o leitor de ler as palavras escritas em silêncio.
   <!-- feedback: Incorreto. As aliterações simbolistas criam exatamente a musicalidade, riqueza de ritmo e mistério que marcam o valor literário sublime da escola no país. -->
-- [x] C) O Parnasianismo privilegia a precisão referencial e figuras de contiguidade visual rústica (metonímias formais), enquanto o Simbolismo expande as conexões sensitivas abstratas por meio de ricas sinestesias e aliterações harmônicas de ritmo.
+- [x] B) O Parnasianismo privilegia a precisão referencial e figuras de contiguidade visual rústica (metonímias formais), enquanto o Simbolismo expande as conexões sensitivas abstratas por meio de ricas sinestesias e aliterações harmônicas de ritmo.
   <!-- feedback: Correto! As escolas literárias históricas elegem diferentes repertórios de figuras de linguagem para materializar seus projetos de beleza no país. -->
 - [ ] D) Ambas as escolas literárias são extintas de forma legal no Brasil contemporâneo de hoje por lei de trânsito que proíbe poemas em Florianópolis.
   <!-- feedback: Incorreto. Movimentos de arte literária histórica são patrimônios da humanidade vivos em vestibular e cultura nacional, imunes a leis de asfalto. -->
@@ -432,9 +432,9 @@ Sob a análise sociolinguística da adequação e da estilística do português 
   <!-- feedback: Incorreto. O pleonasmo de reforço é um processo natural da fala humana para dar clareza dramática imediata de direção física, longe de ser anomalia biológica. -->
 - [ ] B) O reality show paulista deveria expulsar do programa com multas civis em dinheiro os competidores que falem pleonasmos de direção no asfalto da casa do jogo.
   <!-- feedback: Incorreto. Punições legais ou financeiras contra atos de fala informais e espontâneos cotidianos são atos de intolerância e violência social linguística. -->
-- [x] C) A repetição enfática na oralidade informal serve para clarear e fixar a imagem de movimento espacial rápido, embora seja evitada na escrita formal oficial em exames como o ENEM devido à economia de termos exigida.
+- [x] D) A repetição enfática na oralidade informal serve para clarear e fixar a imagem de movimento espacial rápido, embora seja evitada na escrita formal oficial em exames como o ENEM devido à economia de termos exigida.
   <!-- feedback: Correto! O pleonasmo pode atuar como desvio estilístico vicioso na redação formal do ENEM, mas na fala cotidiana rápida ele funciona como valioso reforço expressivo de direção. -->
-- [ ] D) O pleonasmo de reforço é uma criação exclusiva das startups de publicidade de moda de São Paulo de 2026 para humilhar os professores de Letras paulistas.
+- [ ] C) O pleonasmo de reforço é uma criação exclusiva das startups de publicidade de moda de São Paulo de 2026 para humilhar os professores de Letras paulistas.
   <!-- feedback: Incorreto. Pleonasmos orais cotidianos são heranças históricas milenares e espontâneas da evolução do latim vulgar na formação do português oral das massas. -->
 
 ### Explicacion Pedagogica
@@ -476,11 +476,11 @@ As figuras de construção ou sintaxe clássicas (como anáfora, hipérbato, ass
 Avalie criticamente o uso das figuras de linguagem no rap de protesto de São Paulo e assinale o diagnóstico sociopolítico-estético correto:
 
 ### Opciones
-- [ ] A) Trata-se de uma falha grave de concordância nominal lusa decorrente do uso analfabeto de figuras de catacrese gasta que poluem as favelas da cidade.
+- [ ] B) Trata-se de uma falha grave de concordância nominal lusa decorrente do uso analfabeto de figuras de catacrese gasta que poluem as favelas da cidade.
   <!-- feedback: Incorreto. O rap de protesto paulistano possui rigoroso planejamento de rimas, métricas rápidas orais e alta complexidade estética de metáforas combativas. -->
-- [ ] B) O compositor usa eufemismos de polidez cortesã para bajular de forma mansa e mística os investidores financeiros de luxo do centro de São Paulo.
+- [ ] C) O compositor usa eufemismos de polidez cortesã para bajular de forma mansa e mística os investidores financeiros de luxo do centro de São Paulo.
   <!-- feedback: Incorreto. A letra é combativa, ríspida, indignada e satírica, fugindo por completo de suavizações de eufemismos ou bajulações de luxo. -->
-- [x] C) O rap funde metáforas térmicas de frieza humana ("castelo de gelo") com prosopopeias macabras ("castelo sorri com a fome") para amplificar o contraste ético e social contra a desigualdade urbana.
+- [x] A) O rap funde metáforas térmicas de frieza humana ("castelo de gelo") com prosopopeias macabras ("castelo sorri com a fome") para amplificar o contraste ético e social contra a desigualdade urbana.
   <!-- feedback: Correto! As figuras de linguagem são armas expressivas cruas de protesto cívico que chocam a mente do ouvinte receptor para denunciar injustiças de classe. -->
 - [ ] D) A letra constitui um manual técnico burocrático de engenharia civil detalhando as tubulações metálicas de esgoto dos ricos no asfalto da capital paulista.
   <!-- feedback: Incorreto. É uma canção poética cívica dramática de protesto social nas mídias contemporâneas e não um relatório burocrático oficial de engenharia. -->

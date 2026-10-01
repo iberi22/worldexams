@@ -32,9 +32,9 @@ Este bundle contiene 12 preguntas sobre **ecosistemas-cadenas-troficas** para gr
 ### Enunciado
 Que nivel trófico ocupan los organismos capaces de producir su propio alimento a partir de sustancias inorganicas y luz solar?
 ### Opciones
-- [x] A) Productores (autotrofos)
+- [x] B) Productores (autotrofos)
   <!-- feedback: Correcto. Las plantas, algas y cianobacterias son productores primarios fotosinteticos. -->
-- [ ] B) Consumidores primarios (herbivoros)
+- [ ] A) Consumidores primarios (herbivoros)
   <!-- feedback: Incorrecto. Los herbivoros consumen productores; no producen su propio alimento. -->
 - [ ] C) Descomponedores
   <!-- feedback: Incorrecto. Los descomponedores transforman materia organica muerta en nutrientes minerales. -->
@@ -52,13 +52,13 @@ Niveles tróficos: productores (autotrofos) $\to$ consumidores primarios $\to$ c
 ### Enunciado
 Que tipo de organismo representa cada eslabon consumidor terciario en una cadena trófica tipica?
 ### Opciones
-- [x] A) Carnivoros que se alimentan de otros consumidores secundarios.
+- [x] D) Carnivoros que se alimentan de otros consumidores secundarios.
   <!-- feedback: Correcto. Los terciarios depredan consumidores secundarios y ocupan la cima de la cadena. -->
-- [ ] B) Herbivoros que consumen productores.
+- [ ] A) Herbivoros que consumen productores.
   <!-- feedback: Incorrecto. Los herbivoros son consumidores primarios, no terciarios. -->
-- [ ] C) Plantas verdes que realizan fotosíntesis.
+- [ ] B) Plantas verdes que realizan fotosíntesis.
   <!-- feedback: Incorrecto. Las plantas son productores, no consumidores terciarios. -->
-- [ ] D) Hongos y bacterias que reciclan nutrientes.
+- [ ] C) Hongos y bacterias que reciclan nutrientes.
   <!-- feedback: Incorrecto. Los descomponedores no son consumidores terciarios en la cadena trófica. -->
 ### Explicacion Pedagogica
 Consumidor terciario $=$ carnivoro de carnivoros (depredador apical en la cadena alimenticia).
@@ -72,9 +72,9 @@ Consumidor terciario $=$ carnivoro de carnivoros (depredador apical en la cadena
 ### Enunciado
 Segun la cadena descrita, cual es el consumidor secundario?
 ### Opciones
-- [x] A) La trucha arcoiris.
+- [x] B) La trucha arcoiris.
   <!-- feedback: Correcto. La trucha consume al consumidor primario (pato azulona), por tanto es consumidor secundario. -->
-- [ ] B) El pato azulona.
+- [ ] A) El pato azulona.
   <!-- feedback: Incorrecto. El pato come plantas (productor), es consumidor primario. -->
 - [ ] C) La nutria de río.
   <!-- feedback: Incorrecto. La nutria consume a la trucha, por tanto es consumidora terciaria. -->
@@ -92,9 +92,9 @@ Productor (planta) $\to$ consumidor primario (pato) $\to$ consumidor secundario 
 ### Enunciado
 Cuál es la explicacion trófica mas directa de la disminucion de tucanes por la sequía?
 ### Opciones
-- [x] A) Al reducirse los frutos disponibles, disminuye el alimento y por tanto la población de tucanes.
+- [x] B) Al reducirse los frutos disponibles, disminuye el alimento y por tanto la población de tucanes.
   <!-- feedback: Correcto. Los tucanes dependen de frutos como recurso trófico; su escasez reduce su población. -->
-- [ ] B) La sequía aumenta la población de tucanes al destruir a sus depredadores.
+- [ ] A) La sequía aumenta la población de tucanes al destruir a sus depredadores.
   <!-- feedback: Incorrecto. La sequía no beneficia directamente a la población de tucanes frugivoros. -->
 - [ ] C) La sequía no afecta a los tucanes porque ellos no necesitan agua.
   <!-- feedback: Incorrecto. Todos los seres vivos dependen directa o indirectamente del agua. -->
@@ -112,13 +112,13 @@ Las cadenas troficas dependen del flujo de energía entre niveles. Si un recurso
 ### Enunciado
 Cual seria la consecuencia mas probable sobre la población de halcones si desaparecen las lagartijas del ecosistema?
 ### Opciones
-- [x] A) Disminucion de la población de halcones por falta de alimento.
+- [x] D) Disminucion de la población de halcones por falta de alimento.
   <!-- feedback: Correcto. Los halcones dependen de las lagartijas como presa directa. -->
-- [ ] B) Aumento inmediato de la población de halcones por menor competencia.
+- [ ] A) Aumento inmediato de la población de halcones por menor competencia.
   <!-- feedback: Incorrecto. Las lagartijas son su alimento; no son competidores sino presas. -->
-- [ ] C) Migracion de los halcones hacia ecosistemas marinos.
+- [ ] B) Migracion de los halcones hacia ecosistemas marinos.
   <!-- feedback: Incorrecto. Los halcones de la reserva son terrestres y dependen de presas locales. -->
-- [ ] D) Sustitucion biologica de los halcones por las mariposas.
+- [ ] C) Sustitucion biologica de los halcones por las mariposas.
   <!-- feedback: Incorrecto. Las mariposas ocupan otro nivel trófico y no reemplazan a los halcones. -->
 ### Explicacion Pedagogica
 La eliminacion de un eslabon intermedio impacta directamente a sus depredadores por la ruptura del flujo de energía en la cadena trófica.
@@ -132,11 +132,11 @@ La eliminacion de un eslabon intermedio impacta directamente a sus depredadores 
 ### Enunciado
 Que tipo de representacion ecologica describe mejor esta interrelacion entre multiples cadenas alimenticias en un manglar?
 ### Opciones
-- [x] A) Una red trófica.
+- [x] C) Una red trófica.
   <!-- feedback: Correcto. La red trófica integra varias cadenas alimenticias interconectadas en un ecosistema. -->
-- [ ] B) Una cadena trófica lineal.
+- [ ] A) Una cadena trófica lineal.
   <!-- feedback: Incorrecto. Una cadena lineal simple solo conecta un productor con un consumidor por nivel. -->
-- [ ] C) Un ciclo biogeoquimico.
+- [ ] B) Un ciclo biogeoquimico.
   <!-- feedback: Incorrecto. Los ciclos biogeoquimicos describen el movimiento de elementos químicos, no de energía. -->
 - [ ] D) Una piramide ecologica.
   <!-- feedback: Incorrecto. La piramide representa biomasa o energía por nivel, no las conexiones entre especies. -->
@@ -172,9 +172,9 @@ La energía fluye desde los productores (PPN) hacia los consumidores; por eso la
 ### Enunciado
 Cuál es el análisis del papel trófico que desempenan las lombrices en el suelo?
 ### Opciones
-- [x] A) Actuan como descomponedoras, transformando materia organica muerta en nutrientes asimilables por las plantas.
+- [x] B) Actuan como descomponedoras, transformando materia organica muerta en nutrientes asimilables por las plantas.
   <!-- feedback: Correcto. Las lombrices reciclan materia organica, contribuyendo a la mineralizacion del suelo. -->
-- [ ] B) Son productoras primarias porque fabrican su propio alimento por fotosíntesis.
+- [ ] A) Son productoras primarias porque fabrican su propio alimento por fotosíntesis.
   <!-- feedback: Incorrecto. Las lombrices son animales heterotrofos, no fotosintetizadores. -->
 - [ ] C) Son consumidoras terciarias porque se comen a otras lombrices.
   <!-- feedback: Incorrecto. La lombriz de tierra es detritivora, no carnivora. -->
@@ -192,13 +192,13 @@ Los descomponedores (hongos, bacterias, lombrices) reciclan nutrientes de la mat
 ### Enunciado
 Por que en una piramide de biomasa el nivel de los productores suele ser mayor que el de los consumidores primarios, mientras que en una piramide de números esto no siempre es asi?
 ### Opciones
-- [x] A) La biomasa acumulada por los productores es mayor, aunque su número de individuos pueda ser menor que el de consumidores pequenos.
+- [x] D) La biomasa acumulada por los productores es mayor, aunque su número de individuos pueda ser menor que el de consumidores pequenos.
   <!-- feedback: Correcto. Un solo arbol puede tener mas biomasa que miles de insectos herbivoros. -->
-- [ ] B) Los consumidores primarios siempre pesan mas que los productores.
+- [ ] A) Los consumidores primarios siempre pesan mas que los productores.
   <!-- feedback: Incorrecto. En general los productores acumulan mas biomasa por nivel trófico. -->
-- [ ] C) El número de productores es siempre mayor que el de consumidores.
+- [ ] B) El número de productores es siempre mayor que el de consumidores.
   <!-- feedback: Incorrecto. Un solo productor (arbol) puede sostener a muchos consumidores pequenos. -->
-- [ ] D) Las dos piramides siempre tienen exactamente la misma forma.
+- [ ] C) Las dos piramides siempre tienen exactamente la misma forma.
   <!-- feedback: Incorrecto. Las piramides de números pueden invertirse; las de biomasa suelen no hacerlo en ecosistemas terrestres. -->
 ### Explicacion Pedagogica
 La forma de la piramide ecologica depende de la variable medida: números, biomasa o energía. En cada caso la relacion puede variar.
@@ -232,9 +232,9 @@ La conservacion efectiva exige proteger todos los niveles tróficos, especialmen
 ### Enunciado
 Cual de las siguientes evaluaciones ecologicas justifica mejor la preocupacion de los pescadores artesanales?
 ### Opciones
-- [x] A) Los manglares son nursery de peces juveniles; su eliminacion reduce las poblaciones pesqueras de la region.
+- [x] B) Los manglares son nursery de peces juveniles; su eliminacion reduce las poblaciones pesqueras de la region.
   <!-- feedback: Correcto. Los manglares albergan y protegen a juveniles de muchas especies comerciales. -->
-- [ ] B) El monocultivo de palma aumenta la biodiversidad acuatica local.
+- [ ] A) El monocultivo de palma aumenta la biodiversidad acuatica local.
   <!-- feedback: Incorrecto. El monocultivo reduce la biodiversidad al homogenizar el hábitat. -->
 - [ ] C) Los manglares no tienen relacion alguna con los peces marinos.
   <!-- feedback: Incorrecto. Los manglares son esenciales en el ciclo de vida de muchas especies marinas. -->
@@ -252,9 +252,9 @@ Los ecosistemas costeros como los manglares sustentan la productividad pesquera.
 ### Enunciado
 Cual de los siguientes criterios ecologicos ofrece el argumento mas solido para la proteccion integral del humedal frente a la propuesta de pesca deportiva?
 ### Opciones
-- [x] A) La proteccion integral preserva las redes troficas completas, asegurando estabilidad del ecosistema a largo plazo.
+- [x] B) La proteccion integral preserva las redes troficas completas, asegurando estabilidad del ecosistema a largo plazo.
   <!-- feedback: Correcto. Mantener la integridad de la red trófica protege funciones ecologicas clave. -->
-- [ ] B) La pesca deportiva controlada no genera impacto alguno en los ecosistemas acuaticos.
+- [ ] A) La pesca deportiva controlada no genera impacto alguno en los ecosistemas acuaticos.
   <!-- feedback: Incorrecto. Toda actividad extractiva altera la estructura y composicion del ecosistema. -->
 - [ ] C) Los humedales urbanos carecen de redes troficas relevantes para la ciencia.
   <!-- feedback: Incorrecto. Los humedales urbanos albergan redes troficas complejas y diversas. -->

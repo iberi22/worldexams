@@ -34,11 +34,11 @@ Procesos de evaporación, condensación, precipitación, escorrentía y conserva
 ¿Cómo se llama la etapa del ciclo del agua impulsada por el calor del Sol donde el agua se transforma en gas?
 
 ### Opciones
-- [x] A) Evaporación.
+- [x] C) Evaporación.
   <!-- feedback: La evaporación ocurre cuando la energía solar transforma el agua líquida superficial en vapor de agua. -->
-- [ ] B) Infiltración.
+- [ ] A) Infiltración.
   <!-- feedback: La infiltración es la penetración del agua líquida en los poros del suelo hacia los acuíferos. -->
-- [ ] C) Solidificación.
+- [ ] B) Solidificación.
   <!-- feedback: La solidificación es la conversión de agua líquida en hielo por pérdida de temperatura. -->
 - [ ] D) Precipitación.
   <!-- feedback: La precipitación es la caída de agua en forma de lluvia, nieve o granizo desde las nubes. -->
@@ -57,13 +57,13 @@ Identificación de los procesos físicos impulsores de las etapas del ciclo biog
 ¿Qué estructura visible en el cielo se origina debido al proceso de condensación del vapor de agua?
 
 ### Opciones
-- [x] A) Las nubes.
+- [x] D) Las nubes.
   <!-- feedback: Las nubes son agrupaciones de gotas microscópicas de agua o cristales de hielo formados por condensación. -->
-- [ ] B) Las rocas volcánicas.
+- [ ] A) Las rocas volcánicas.
   <!-- feedback: Las rocas no se forman por condensación atmosférica del agua. -->
-- [ ] C) Los vientos alisios.
+- [ ] B) Los vientos alisios.
   <!-- feedback: Los vientos son masas de aire en movimiento originadas por diferencias de presión. -->
-- [ ] D) Los terremotos subterráneos.
+- [ ] C) Los terremotos subterráneos.
   <!-- feedback: Los terremotos ocurren por movimientos de placas tectónicas en la litosfera. -->
 
 ### Explicacion Pedagogica
@@ -103,13 +103,13 @@ Reconocimiento de las modalidades de precipitación atmosférica en el ciclo hid
 ¿Qué proceso biológico vegetal contribuye activamente al retorno del agua a la atmósfera en forma de vapor?
 
 ### Opciones
-- [x] A) Transpiración vegetal.
+- [x] D) Transpiración vegetal.
   <!-- feedback: La transpiración vegetal libera agua en forma de vapor contribuyendo a la humedad atmosférica. -->
-- [ ] B) Fotosíntesis oscura.
+- [ ] A) Fotosíntesis oscura.
   <!-- feedback: La fotosíntesis produce glucosa y oxígeno, no es el proceso exclusivo de liberación masiva de vapor. -->
-- [ ] C) Infiltración profunda.
+- [ ] B) Infiltración profunda.
   <!-- feedback: La infiltración es el descenso del agua en el suelo, no la salida hacia la atmósfera. -->
-- [ ] D) Germinación de semillas.
+- [ ] C) Germinación de semillas.
   <!-- feedback: La germinación es el desarrollo del embrión vegetal para dar origen a una nueva planta. -->
 
 ### Explicacion Pedagogica
@@ -126,13 +126,13 @@ Comprensión de la contribución de los seres vivos (transpiración de la cobert
 ¿Cómo se denomina este desplazamiento superficial de las aguas de lluvia hacia los cauces fluviales?
 
 ### Opciones
-- [x] A) Escorrentía.
+- [x] D) Escorrentía.
   <!-- feedback: La escorrentía es la circulación de agua de lluvia sobre la superficie terrestre hacia ríos y mares. -->
-- [ ] B) Condensación.
+- [ ] A) Condensación.
   <!-- feedback: La condensación es el cambio de gas a líquido en las nubes. -->
-- [ ] C) Congelación.
+- [ ] B) Congelación.
   <!-- feedback: La congelación es el paso de líquido a hielo por temperaturas bajo 0 °C. -->
-- [ ] D) Evaporación.
+- [ ] C) Evaporación.
   <!-- feedback: La evaporación es el ascenso del vapor de agua al aire. -->
 
 ### Explicacion Pedagogica
@@ -172,13 +172,13 @@ Análisis del impacto de la cobertura vegetal y la impermeabilización del suelo
 ¿Qué impacto negativo directo provoca la deforestación en el ciclo del agua de esta cuenca hidrográfica?
 
 ### Opciones
-- [x] A) Reduce la evapotranspiración, disminuye las lluvias locales y aumenta los riesgos de erosión por escorrentía sin freno.
+- [x] D) Reduce la evapotranspiración, disminuye las lluvias locales y aumenta los riesgos de erosión por escorrentía sin freno.
   <!-- feedback: Sin árboles disminuye el vapor devuelto a la atmósfera y la capa vegetal retenedora, erosionando el suelo. -->
-- [ ] B) Aumenta la producción de glaciares en las cumbres montañosas.
+- [ ] A) Aumenta la producción de glaciares en las cumbres montañosas.
   <!-- feedback: La deforestación no genera la creación de glaciares; al contrario, altera el microclima aumentando temperaturas. -->
-- [ ] C) Detiene por completo la evaporación del agua de todos los mares del planeta.
+- [ ] B) Detiene por completo la evaporación del agua de todos los mares del planeta.
   <!-- feedback: La evaporación marina continúa por acción del Sol independientemente de la vegetación continental. -->
-- [ ] D) Transforma el agua dulce de los ríos en agua salada instantáneamente.
+- [ ] C) Transforma el agua dulce de los ríos en agua salada instantáneamente.
   <!-- feedback: La salinidad depende de minerales disueltos, no directamente de la presencia inmediata de árboles. -->
 
 ### Explicacion Pedagogica
@@ -195,11 +195,11 @@ Análisis de las consecuencias ecológicas de las actividades humanas sobre las 
 ¿Cuál es el argumento ecológico de mayor peso que justifica la posición del equipo de ecólogos?
 
 ### Opciones
-- [x] A) Canalizar destruye las zonas de inundación natural, reduce la infiltración a acuíferos y aumenta las inundaciones severas aguas abajo.
+- [x] C) Canalizar destruye las zonas de inundación natural, reduce la infiltración a acuíferos y aumenta las inundaciones severas aguas abajo.
   <!-- feedback: Eliminar la sinuosidad y lecho natural reduce la absorción, acelera el caudal y genera destructivas avenidas torrenciales en partes bajas. -->
-- [ ] B) El concreto disuelve todo el oxígeno del aire evitando que llueva en el departamento.
+- [ ] A) El concreto disuelve todo el oxígeno del aire evitando que llueva en el departamento.
   <!-- feedback: El concreto no disuelve el oxígeno atmosférico ni detiene la condensación en nubes altiplánicas. -->
-- [ ] C) Los ríos rectos impiden que los peces puedan nadar en cualquier dirección.
+- [ ] B) Los ríos rectos impiden que los peces puedan nadar en cualquier dirección.
   <!-- feedback: Aunque altera hábitats acuáticos, la razón de mayor impacto hidrológico es el riesgo de inundaciones y falta de recarga hídrica. -->
 - [ ] D) El ciclo del agua solo funciona en ríos con agua salada.
   <!-- feedback: El ciclo hidrológico involucra aguas continentales dulces y marinas saladas por igual. -->

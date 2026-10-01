@@ -35,13 +35,13 @@ alineadas con el programa de estudios del MEP Costa Rica para Bachillerato 2026.
 ¿Cuál es el recurso lingüístico fundamental que caracteriza de forma primordial a la tipología descriptiva?
 
 ### Opciones
-- [x] A) La abundancia de adjetivos calificativos y sintagmas preposicionales que detallan cualidades de un objeto.
+- [x] D) La abundancia de adjetivos calificativos y sintagmas preposicionales que detallan cualidades de un objeto.
   <!-- feedback: Correcto. La descripción se apoya fuertemente en sustantivos y adjetivos para detallar rasgos de personas, objetos o lugares. -->
-- [ ] B) El empleo continuo de conectores conclusivos de causa y efecto en oraciones impersonales.
+- [ ] A) El empleo continuo de conectores conclusivos de causa y efecto en oraciones impersonales.
   <!-- feedback: Incorrecto. Esto caracteriza a la tipología argumentativa o expositiva. -->
-- [ ] C) La acumulación de verbos de movimiento conjugados en pretérito perfecto simple de indicativo.
+- [ ] B) La acumulación de verbos de movimiento conjugados en pretérito perfecto simple de indicativo.
   <!-- feedback: Incorrecto. Esto acelera la acción del género narrativo, no la descripción pausada. -->
-- [ ] D) La presencia constante de diálogos entre personajes de ficción costarricenses.
+- [ ] C) La presencia constante de diálogos entre personajes de ficción costarricenses.
   <!-- feedback: Incorrecto. Corresponde al estilo dialógico de la narrativa o del drama. -->
 
 ### Explicacion Pedagogica
@@ -62,11 +62,11 @@ La descripción es eminentemente nominalista y se sustenta en la adjetivación p
 ### Opciones
 - [ ] A) Prosopografía (descripción de rasgos físicos).
   <!-- feedback: Incorrecto. La prosopografía se enfoca de manera exclusiva en las características externas y fisonomía del personaje. -->
-- [x] B) Etopeya (descripción de rasgos morales y de conducta).
+- [x] D) Etopeya (descripción de rasgos morales y de conducta).
   <!-- feedback: Correcto. La etopeya retrata la personalidad, la moral, las costumbres y el carácter de un individuo. -->
-- [ ] C) Retrato (fusión balanceada de rasgos externos e internos).
+- [ ] B) Retrato (fusión balanceada de rasgos externos e internos).
   <!-- feedback: Incorrecto. El retrato amalgama de forma equilibrada rasgos físicos y conductuales. -->
-- [ ] D) Topografía (descripción pormenorizada del relieve del terreno).
+- [ ] C) Topografía (descripción pormenorizada del relieve del terreno).
   <!-- feedback: Incorrecto. Describe las características espaciales de un paisaje, no personas. -->
 
 ### Explicacion Pedagogica
@@ -87,9 +87,9 @@ La etopeya es la figura descriptiva centrada en la caracterización psicológica
 ### Opciones
 - [ ] A) La libre expresión de las emociones de admiración estética que provoca el volcán.
   <!-- feedback: Incorrecto. La descripción técnica exige una neutralidad libre de emociones personales. -->
-- [x] B) La objetividad rigurosa, la precisión léxica y el predominio de un tono denotativo e informativo libre de valoraciones.
+- [x] C) La objetividad rigurosa, la precisión léxica y el predominio de un tono denotativo e informativo libre de valoraciones.
   <!-- feedback: Correcto. Las descripciones técnicas se basan en datos empíricos objetivos explicados con exactitud de vocabulario. -->
-- [ ] C) El uso constante de metáforas poéticas referidas a las cenizas como cabelleras grises.
+- [ ] B) El uso constante de metáforas poéticas referidas a las cenizas como cabelleras grises.
   <!-- feedback: Incorrecto. Esto pertenece a la descripción literaria subjetiva, no a la científica técnica. -->
 - [ ] D) La redacción del informe utilizando la variedad lingüística rural o voseo informal costarricense.
   <!-- feedback: Incorrecto. Se debe usar la variante formal estándar para asegurar el carácter académico científico. -->
@@ -110,13 +110,13 @@ La descripción técnica persigue representar la realidad de forma fidedigna y v
 ¿Qué tipo de descripción literaria espacial se efectúa al caracterizar un paisaje o entorno físico inanimado?
 
 ### Opciones
-- [x] A) Topografía.
+- [x] D) Topografía.
   <!-- feedback: Correcto. La topografía es la descripción de un lugar, paisaje o espacio geográfico determinado. -->
-- [ ] B) Cronografía.
+- [ ] A) Cronografía.
   <!-- feedback: Incorrecto. La cronografía es la descripción de un tiempo o época histórica, no un lugar físico. -->
-- [ ] C) Prosopografía.
+- [ ] B) Prosopografía.
   <!-- feedback: Incorrecto. Describe el físico de una persona, no un espacio geográfico. -->
-- [ ] D) Etopeya.
+- [ ] C) Etopeya.
   <!-- feedback: Incorrecto. Retrata el carácter de un individuo, no un paisaje o plaza. -->
 
 ### Explicacion Pedagogica
@@ -137,9 +137,9 @@ La topografía es el recurso que permite pintar con palabras la fisonomía, el r
 ### Opciones
 - [ ] A) Topografía.
   <!-- feedback: Incorrecto. Describe un espacio geográfico físico o relieve, no el tiempo histórico. -->
-- [ ] B) Etopeya.
+- [ ] C) Etopeya.
   <!-- feedback: Incorrecto. Se enfoca en el carácter de una persona, no en el contexto temporal. -->
-- [x] C) Cronografía.
+- [x] B) Cronografía.
   <!-- feedback: Correcto. La cronografía es la descripción de una época, un tiempo histórico, una estación del año o un momento del día. -->
 - [ ] D) Prosopografía.
   <!-- feedback: Incorrecto. Detalla los rasgos físicos de seres humanos o animales. -->
@@ -162,11 +162,11 @@ La cronografía es la descripción que contextualiza temporalmente una historia 
 ### Opciones
 - [ ] A) Juan Santamaría poseía un corazón noble lleno de valentía y un infinito amor por Costa Rica.
   <!-- feedback: Incorrecto. Retrata cualidades internas y morales (etopeya), no rasgos físicos externos. -->
-- [x] B) El joven alajuelense era de tez morena, espaldas anchas, mirada firme y cabello rizado oscuro.
+- [x] D) El joven alajuelense era de tez morena, espaldas anchas, mirada firme y cabello rizado oscuro.
   <!-- feedback: Correcto. Describe fielmente las características físicas del héroe, lo que constituye una prosopografía. -->
-- [ ] C) La Batalla de Rivas ocurrió el once de abril de mil ochocientos cincuenta y seis en Nicaragua.
+- [ ] B) La Batalla de Rivas ocurrió el once de abril de mil ochocientos cincuenta y seis en Nicaragua.
   <!-- feedback: Incorrecto. Es un hecho fáctico histórico narrado, no una descripción física de una persona. -->
-- [ ] D) Ojalá todos los jóvenes de undécimo año recuerden con orgullo el heroico sacrificio del tambor.
+- [ ] C) Ojalá todos los jóvenes de undécimo año recuerden con orgullo el heroico sacrificio del tambor.
   <!-- feedback: Incorrecto. Es una expresión desiderativa y moral de opinión, no prosopográfica. -->
 
 ### Explicacion Pedagogica
@@ -235,9 +235,9 @@ La topografía requiere una progresión espacial ordenada que asista a la imagin
 ¿Cuál de las siguientes oraciones utiliza términos que apelan de mejor manera a la sinestesia sensorial?
 
 ### Opciones
-- [ ] A) El sol es una estrella amarilla gigante que calienta la arena de la playa diariamente.
+- [ ] B) El sol es una estrella amarilla gigante que calienta la arena de la playa diariamente.
   <!-- feedback: Incorrecto. Es una oración descriptiva llana de carácter astronómico básico, no una sinestesia sensorial. -->
-- [x] B) El horizonte exhalaba un viento de aroma ambarino y el cielo se tiñó de una cálida melodía de colores.
+- [x] A) El horizonte exhalaba un viento de aroma ambarino y el cielo se tiñó de una cálida melodía de colores.
   <!-- feedback: Correcto. Mezcla sensaciones de distintos sentidos de forma poética (aroma ambarino - olfato/vista, melodía de colores - oído/vista), logrando una sinestesia. -->
 - [ ] C) El agua del mar posee gran cantidad de cloruro de sodio disuelto en cada litro.
   <!-- feedback: Incorrecto. Es un hecho químico fáctico puramente científico, no una sinestesia poética. -->
@@ -286,13 +286,13 @@ El autorretrato literario unifica la prosopografía y la etopeya bajo una mirada
 ¿Cómo se clasifica de forma precisa la descripción literaria del fragmento anterior?
 
 ### Opciones
-- [x] A) Se trata de un retrato literario, pues combina de manera equilibrada la descripción de rasgos físicos y la caracterización moral y psicológica del personaje.
+- [x] D) Se trata de un retrato literario, pues combina de manera equilibrada la descripción de rasgos físicos y la caracterización moral y psicológica del personaje.
   <!-- feedback: Correcto. Detalla rasgos físicos (andar, espaldas, mirada, voz) e internos (paciencia, serena, carácter), configurando un retrato. -->
-- [ ] B) Es una etopeya pura porque excluye cualquier mención a la vestimenta, fisonomía o rasgos biológicos externos del personaje.
+- [ ] A) Es una etopeya pura porque excluye cualquier mención a la vestimenta, fisonomía o rasgos biológicos externos del personaje.
   <!-- feedback: Incorrecto. El texto abunda en rasgos físicos (espaldas, andar, mirada, ojos), por lo que no es una etopeya pura. -->
-- [ ] C) Corresponde a una topografía detallada sobre las colinas pedregosas donde don Joaquín solía sembrar caña.
+- [ ] B) Corresponde a una topografía detallada sobre las colinas pedregosas donde don Joaquín solía sembrar caña.
   <!-- feedback: Incorrecto. Se enfoca en un personaje humano, no describe paisajes o colinas. -->
-- [ ] D) Es una caricatura burlesca que ridiculiza los rasgos físicos y la vejez del anciano de Cartago.
+- [ ] C) Es una caricatura burlesca que ridiculiza los rasgos físicos y la vejez del anciano de Cartago.
   <!-- feedback: Incorrecto. El fragmento trata al personaje con respeto y tono solemne, no hay parodia, burla o deformación grotesca. -->
 
 ### Explicacion Pedagogica
@@ -312,9 +312,9 @@ El retrato literario es una síntesis descriptiva integral que fusiona la aparie
 ¿Qué intención estética y expresiva predomina en la selección léxica del fragmento anterior?
 
 ### Opciones
-- [ ] A) La intención de recopilar datos numéricos precisos sobre la altitud e inclinación de la mole volcánica.
+- [ ] B) La intención de recopilar datos numéricos precisos sobre la altitud e inclinación de la mole volcánica.
   <!-- feedback: Incorrecto. No presenta datos numéricos, porcentajes o mediciones de altitud. -->
-- [x] B) La intención de evocar el misterio, la imponencia y el poder telúrico del volcán mediante un lenguaje lírico sumamente evocador y descriptivo.
+- [x] A) La intención de evocar el misterio, la imponencia y el poder telúrico del volcán mediante un lenguaje lírico sumamente evocador y descriptivo.
   <!-- feedback: Correcto. El uso de adjetivos evocadores ('imponente mole', 'majestuosa', 'silencio', 'entrañas de basalto') busca crear impacto emocional y admiración estética en el lector. -->
 - [ ] C) La intención de instruir sobre las vías de evacuación en caso de una erupción en Alajuela.
   <!-- feedback: Incorrecto. No provee directrices de seguridad ni planes de emergencia escolar. -->
@@ -337,9 +337,9 @@ La descripción literaria subjetiva se sirve de la adjetivación expresiva y de 
 ¿De qué manera esta descripción procesal enriquece el realismo cultural de la obra?
 
 ### Opciones
-- [ ] A) Anula los conflictos de los personajes reduciendo el libro a un manual de repostería del MEP.
+- [ ] B) Anula los conflictos de los personajes reduciendo el libro a un manual de repostería del MEP.
   <!-- feedback: Incorrecto. El pasaje enriquece el marco cultural de fondo sin anular el desarrollo dramático de la trama. -->
-- [x] B) Involucra al lector en las tradiciones productivas y la cotidianidad rural costarricense, aportando verosimilitud histórica y color local a la trama.
+- [x] A) Involucra al lector en las tradiciones productivas y la cotidianidad rural costarricense, aportando verosimilitud histórica y color local a la trama.
   <!-- feedback: Correcto. Detallar oficios y tecnologías tradicionales ayuda a preservar la identidad colectiva y dota de realismo a la ficción. -->
 - [ ] C) Sustituye por completo los capítulos del nudo dramático para acelerar el desenlace de la historia.
   <!-- feedback: Incorrecto. La descripción de costumbres rurales ambienta, no suprime las acciones principales del relato. -->
@@ -365,9 +365,9 @@ La descripción de costumbres y oficios tradicionales costarricenses consolida l
 ### Opciones
 - [ ] A) La descripción de formas geométricas exactas y medidas métricas de los pasillos del mercado central.
   <!-- feedback: Incorrecto. No se mencionan dimensiones, distancias o metros lineales. -->
-- [x] B) El uso de la percepción olfativa y auditiva para caracterizar el dinamismo, la vitalidad y la diversidad del ambiente comercial josefino.
+- [x] C) El uso de la percepción olfativa y auditiva para caracterizar el dinamismo, la vitalidad y la diversidad del ambiente comercial josefino.
   <!-- feedback: Correcto. Enfatiza olores (café, cilantro, frutas) y sonidos (griterío, bullicio) para que el lector reconstruya la atmósfera sensorial del mercado. -->
-- [ ] C) La enumeración cronológica de los decretos municipales costarricenses de sanidad del mercado.
+- [ ] B) La enumeración cronológica de los decretos municipales costarricenses de sanidad del mercado.
   <!-- feedback: Incorrecto. Es un fragmento literario descriptivo, no legal o normativo municipal. -->
 - [ ] D) La descripción de las especies de aves silvestres que anidan en el techo del edificio patrimonial.
   <!-- feedback: Incorrecto. No se hace mención de aves o ecología de nidos en el fragmento. -->
@@ -445,9 +445,9 @@ Al analizar la veracidad espacial y cultural de esta descripción realista costa
   <!-- feedback: Incorrecto. San José es un territorio montañoso (Cerro de la Muerte, etc.), lo cual es geográficamente real. -->
 - [ ] B) La falta de precisión técnica al no detallar el tipo de pintura al óleo utilizada por el artista de Heredia.
   <!-- feedback: Incorrecto. No se requiere detallar el tipo de pintura química exacta para comprender la escena descrita. -->
-- [x] C) La representación de un invierno con paisajes de nieve y lagunas congeladas en el Valle Central de Costa Rica, lo cual es ajeno al clima tropical del país.
+- [x] D) La representación de un invierno con paisajes de nieve y lagunas congeladas en el Valle Central de Costa Rica, lo cual es ajeno al clima tropical del país.
   <!-- feedback: Correcto. En Costa Rica, el 'invierno' equivale a la estación lluviosa de clima tropical, por lo que las montañas nevadas y lagunas congeladas son incongruentes con la geografía realista nacional. -->
-- [ ] D) Sostener que un pintor herediano de Alajuela pueda realizar paisajes de la provincia de San José.
+- [ ] C) Sostener que un pintor herediano de Alajuela pueda realizar paisajes de la provincia de San José.
   <!-- feedback: Incorrecto. Un artista puede pintar cualquier paisaje de su país o del extranjero independientemente de su lugar de nacimiento. -->
 
 ### Explicacion Pedagogica
@@ -469,9 +469,9 @@ La literatura realista y costumbrista exige coherencia con las variables ecológ
 ### Opciones
 - [ ] A) Símil de carácter solemne y exaltación de las cualidades biológicas felinas.
   <!-- feedback: Incorrecto. El símil compara a un felino ágil con una tortuga cansada y silenciosa con un carnaval ruidoso, lo cual es paradójico y cómico, no solemne. -->
-- [x] B) La ironía humorística basada en la comparación incongruente de cualidades opuestas (agilidad-tortuga, silencio-comparsa de Limón) para provocar extrañeza y jocosidad.
+- [x] C) La ironía humorística basada en la comparación incongruente de cualidades opuestas (agilidad-tortuga, silencio-comparsa de Limón) para provocar extrañeza y jocosidad.
   <!-- feedback: Correcto. El texto juega irónicamente comparando la agilidad y el silencio del gato con cosas caracterizadas precisamente por la lentitud y el ruido estridente. -->
-- [ ] C) Una topografía detallada sobre las playas de la costa limonense durante los desfiles anuales.
+- [ ] B) Una topografía detallada sobre las playas de la costa limonense durante los desfiles anuales.
   <!-- feedback: Incorrecto. El texto describe una mascota felina, no el relieve geográfico de la costa de Limón. -->
 - [ ] D) Una cronografía exacta del desarrollo de los felinos costarricenses desde el siglo diecinueve.
   <!-- feedback: Incorrecto. No describe épocas históricas o tiempo, describe rasgos irónicos de un animal. -->
@@ -517,9 +517,9 @@ El epíteto es un recurso estilístico clave de la descripción poética y clás
 ¿Cómo se denomina a la descripción literaria donde el sujeto describe un paisaje en movimiento, por ejemplo, contemplado desde la ventana del tren al Caribe?
 
 ### Opciones
-- [ ] A) Topografía estática.
+- [ ] B) Topografía estática.
   <!-- feedback: Incorrecto. La topografía estática asume que el observador y el paisaje están inmóviles durante el proceso descriptivo. -->
-- [x] B) Descripción cinematográfica o topografía dinámica.
+- [x] A) Descripción cinematográfica o topografía dinámica.
   <!-- feedback: Correcto. Ocurre cuando el observador se desplaza, registrando la variación constante de las formas en el espacio geográfico conforme avanza. -->
 - [ ] C) Prosopografía en relieve.
   <!-- feedback: Incorrecto. Esto se refiere a rasgos humanos físicos y no al desplazamiento espacial frente a un paisaje natural. -->

@@ -36,8 +36,8 @@ Este bundle aborda contenidos curriculares prioritarios de Secciones Cónicas: E
 Dada la ecuación de la elipse $\frac{x^2}{16} + \frac{y^2}{4} = 1$, ¿cuáles son las longitudes de sus semiejes mayor $a$ y menor $b$?
 
 ### Opciones
-- [x] A) $a = 4$, $b = 2$ <!-- feedback: Correcto. $a = \sqrt{16} = 4$ y $b = \sqrt{4} = 2$. -->
-- [ ] B) $a = 16$, $b = 4$ <!-- feedback: Incorrecto. $a^2$ y $b^2$ son los cuadrados de los semiejes. -->
+- [x] B) $a = 4$, $b = 2$ <!-- feedback: Correcto. $a = \sqrt{16} = 4$ y $b = \sqrt{4} = 2$. -->
+- [ ] A) $a = 16$, $b = 4$ <!-- feedback: Incorrecto. $a^2$ y $b^2$ son los cuadrados de los semiejes. -->
 - [ ] C) $a = 8$, $b = 4$ <!-- feedback: Incorrecto. Esos son los ejes completos ($2a$ y $2b$), no los semiejes. -->
 - [ ] D) $a = 2$, $b = 4$ <!-- feedback: Incorrecto. Invirtió los semiejes mayor y menor. -->
 
@@ -78,10 +78,10 @@ En la ecuación estándar $\frac{x^2}{a^2} + \frac{y^2}{b^2} = 1$, los semiejes 
 Dada la ecuación de la elipse $\frac{x^2}{36} + \frac{y^2}{16} = 1$, ¿cuáles son las longitudes de sus semiejes mayor $a$ y menor $b$?
 
 ### Opciones
-- [x] A) $a = 6$, $b = 4$ <!-- feedback: Correcto. $a = \sqrt{36} = 6$ y $b = \sqrt{16} = 4$. -->
-- [ ] B) $a = 36$, $b = 16$ <!-- feedback: Incorrecto. $a^2$ y $b^2$ son los cuadrados de los semiejes. -->
-- [ ] C) $a = 12$, $b = 8$ <!-- feedback: Incorrecto. Esos son los ejes completos ($2a$ y $2b$), no los semiejes. -->
-- [ ] D) $a = 4$, $b = 6$ <!-- feedback: Incorrecto. Invirtió los semiejes mayor y menor. -->
+- [x] D) $a = 6$, $b = 4$ <!-- feedback: Correcto. $a = \sqrt{36} = 6$ y $b = \sqrt{16} = 4$. -->
+- [ ] A) $a = 36$, $b = 16$ <!-- feedback: Incorrecto. $a^2$ y $b^2$ son los cuadrados de los semiejes. -->
+- [ ] B) $a = 12$, $b = 8$ <!-- feedback: Incorrecto. Esos son los ejes completos ($2a$ y $2b$), no los semiejes. -->
+- [ ] C) $a = 4$, $b = 6$ <!-- feedback: Incorrecto. Invirtió los semiejes mayor y menor. -->
 
 ### Explicacion Pedagogica
 En la ecuación estándar $\frac{x^2}{a^2} + \frac{y^2}{b^2} = 1$, los semiejes se obtienen mediante $a = \sqrt{36} = 6$ y $b = \sqrt{16} = 4$.
@@ -99,8 +99,8 @@ En la ecuación estándar $\frac{x^2}{a^2} + \frac{y^2}{b^2} = 1$, los semiejes 
 Dada la ecuación de la elipse $\frac{x^2}{49} + \frac{y^2}{25} = 1$, ¿cuáles son las longitudes de sus semiejes mayor $a$ y menor $b$?
 
 ### Opciones
-- [x] A) $a = 7$, $b = 5$ <!-- feedback: Correcto. $a = \sqrt{49} = 7$ y $b = \sqrt{25} = 5$. -->
-- [ ] B) $a = 49$, $b = 25$ <!-- feedback: Incorrecto. $a^2$ y $b^2$ son los cuadrados de los semiejes. -->
+- [x] B) $a = 7$, $b = 5$ <!-- feedback: Correcto. $a = \sqrt{49} = 7$ y $b = \sqrt{25} = 5$. -->
+- [ ] A) $a = 49$, $b = 25$ <!-- feedback: Incorrecto. $a^2$ y $b^2$ son los cuadrados de los semiejes. -->
 - [ ] C) $a = 14$, $b = 10$ <!-- feedback: Incorrecto. Esos son los ejes completos ($2a$ y $2b$), no los semiejes. -->
 - [ ] D) $a = 5$, $b = 7$ <!-- feedback: Incorrecto. Invirtió los semiejes mayor y menor. -->
 
@@ -141,9 +141,9 @@ En la ecuación estándar $\frac{x^2}{a^2} + \frac{y^2}{b^2} = 1$, los semiejes 
 Dada la ecuación de la elipse $\frac{x^2}{81} + \frac{y^2}{49} = 1$, ¿cuáles son las longitudes de sus semiejes mayor $a$ y menor $b$?
 
 ### Opciones
-- [x] A) $a = 9$, $b = 7$ <!-- feedback: Correcto. $a = \sqrt{81} = 9$ y $b = \sqrt{49} = 7$. -->
-- [ ] B) $a = 81$, $b = 49$ <!-- feedback: Incorrecto. $a^2$ y $b^2$ son los cuadrados de los semiejes. -->
-- [ ] C) $a = 18$, $b = 14$ <!-- feedback: Incorrecto. Esos son los ejes completos ($2a$ y $2b$), no los semiejes. -->
+- [x] C) $a = 9$, $b = 7$ <!-- feedback: Correcto. $a = \sqrt{81} = 9$ y $b = \sqrt{49} = 7$. -->
+- [ ] A) $a = 81$, $b = 49$ <!-- feedback: Incorrecto. $a^2$ y $b^2$ son los cuadrados de los semiejes. -->
+- [ ] B) $a = 18$, $b = 14$ <!-- feedback: Incorrecto. Esos son los ejes completos ($2a$ y $2b$), no los semiejes. -->
 - [ ] D) $a = 7$, $b = 9$ <!-- feedback: Incorrecto. Invirtió los semiejes mayor y menor. -->
 
 ### Explicacion Pedagogica
@@ -162,9 +162,9 @@ En la ecuación estándar $\frac{x^2}{a^2} + \frac{y^2}{b^2} = 1$, los semiejes 
 Dada la ecuación de la elipse $\frac{x^2}{100} + \frac{y^2}{64} = 1$, ¿cuáles son las longitudes de sus semiejes mayor $a$ y menor $b$?
 
 ### Opciones
-- [x] A) $a = 10$, $b = 8$ <!-- feedback: Correcto. $a = \sqrt{100} = 10$ y $b = \sqrt{64} = 8$. -->
-- [ ] B) $a = 100$, $b = 64$ <!-- feedback: Incorrecto. $a^2$ y $b^2$ son los cuadrados de los semiejes. -->
-- [ ] C) $a = 20$, $b = 16$ <!-- feedback: Incorrecto. Esos son los ejes completos ($2a$ y $2b$), no los semiejes. -->
+- [x] C) $a = 10$, $b = 8$ <!-- feedback: Correcto. $a = \sqrt{100} = 10$ y $b = \sqrt{64} = 8$. -->
+- [ ] A) $a = 100$, $b = 64$ <!-- feedback: Incorrecto. $a^2$ y $b^2$ son los cuadrados de los semiejes. -->
+- [ ] B) $a = 20$, $b = 16$ <!-- feedback: Incorrecto. Esos son los ejes completos ($2a$ y $2b$), no los semiejes. -->
 - [ ] D) $a = 8$, $b = 10$ <!-- feedback: Incorrecto. Invirtió los semiejes mayor y menor. -->
 
 ### Explicacion Pedagogica
@@ -204,8 +204,8 @@ En la ecuación estándar $\frac{x^2}{a^2} + \frac{y^2}{b^2} = 1$, los semiejes 
 Dada la ecuación de la elipse $\frac{x^2}{144} + \frac{y^2}{100} = 1$, ¿cuáles son las longitudes de sus semiejes mayor $a$ y menor $b$?
 
 ### Opciones
-- [x] A) $a = 12$, $b = 10$ <!-- feedback: Correcto. $a = \sqrt{144} = 12$ y $b = \sqrt{100} = 10$. -->
-- [ ] B) $a = 144$, $b = 100$ <!-- feedback: Incorrecto. $a^2$ y $b^2$ son los cuadrados de los semiejes. -->
+- [x] B) $a = 12$, $b = 10$ <!-- feedback: Correcto. $a = \sqrt{144} = 12$ y $b = \sqrt{100} = 10$. -->
+- [ ] A) $a = 144$, $b = 100$ <!-- feedback: Incorrecto. $a^2$ y $b^2$ son los cuadrados de los semiejes. -->
 - [ ] C) $a = 24$, $b = 20$ <!-- feedback: Incorrecto. Esos son los ejes completos ($2a$ y $2b$), no los semiejes. -->
 - [ ] D) $a = 10$, $b = 12$ <!-- feedback: Incorrecto. Invirtió los semiejes mayor y menor. -->
 
@@ -246,10 +246,10 @@ En la ecuación estándar $\frac{x^2}{a^2} + \frac{y^2}{b^2} = 1$, los semiejes 
 Dada la ecuación de la elipse $\frac{x^2}{196} + \frac{y^2}{144} = 1$, ¿cuáles son las longitudes de sus semiejes mayor $a$ y menor $b$?
 
 ### Opciones
-- [x] A) $a = 14$, $b = 12$ <!-- feedback: Correcto. $a = \sqrt{196} = 14$ y $b = \sqrt{144} = 12$. -->
-- [ ] B) $a = 196$, $b = 144$ <!-- feedback: Incorrecto. $a^2$ y $b^2$ son los cuadrados de los semiejes. -->
-- [ ] C) $a = 28$, $b = 24$ <!-- feedback: Incorrecto. Esos son los ejes completos ($2a$ y $2b$), no los semiejes. -->
-- [ ] D) $a = 12$, $b = 14$ <!-- feedback: Incorrecto. Invirtió los semiejes mayor y menor. -->
+- [x] D) $a = 14$, $b = 12$ <!-- feedback: Correcto. $a = \sqrt{196} = 14$ y $b = \sqrt{144} = 12$. -->
+- [ ] A) $a = 196$, $b = 144$ <!-- feedback: Incorrecto. $a^2$ y $b^2$ son los cuadrados de los semiejes. -->
+- [ ] B) $a = 28$, $b = 24$ <!-- feedback: Incorrecto. Esos son los ejes completos ($2a$ y $2b$), no los semiejes. -->
+- [ ] C) $a = 12$, $b = 14$ <!-- feedback: Incorrecto. Invirtió los semiejes mayor y menor. -->
 
 ### Explicacion Pedagogica
 En la ecuación estándar $\frac{x^2}{a^2} + \frac{y^2}{b^2} = 1$, los semiejes se obtienen mediante $a = \sqrt{196} = 14$ y $b = \sqrt{144} = 12$.
@@ -267,8 +267,8 @@ En la ecuación estándar $\frac{x^2}{a^2} + \frac{y^2}{b^2} = 1$, los semiejes 
 Dada la ecuación de la elipse $\frac{x^2}{225} + \frac{y^2}{169} = 1$, ¿cuáles son las longitudes de sus semiejes mayor $a$ y menor $b$?
 
 ### Opciones
-- [x] A) $a = 15$, $b = 13$ <!-- feedback: Correcto. $a = \sqrt{225} = 15$ y $b = \sqrt{169} = 13$. -->
-- [ ] B) $a = 225$, $b = 169$ <!-- feedback: Incorrecto. $a^2$ y $b^2$ son los cuadrados de los semiejes. -->
+- [x] B) $a = 15$, $b = 13$ <!-- feedback: Correcto. $a = \sqrt{225} = 15$ y $b = \sqrt{169} = 13$. -->
+- [ ] A) $a = 225$, $b = 169$ <!-- feedback: Incorrecto. $a^2$ y $b^2$ son los cuadrados de los semiejes. -->
 - [ ] C) $a = 30$, $b = 26$ <!-- feedback: Incorrecto. Esos son los ejes completos ($2a$ y $2b$), no los semiejes. -->
 - [ ] D) $a = 13$, $b = 15$ <!-- feedback: Incorrecto. Invirtió los semiejes mayor y menor. -->
 
@@ -309,8 +309,8 @@ En la ecuación estándar $\frac{x^2}{a^2} + \frac{y^2}{b^2} = 1$, los semiejes 
 Dada la ecuación de la elipse $\frac{x^2}{289} + \frac{y^2}{225} = 1$, ¿cuáles son las longitudes de sus semiejes mayor $a$ y menor $b$?
 
 ### Opciones
-- [x] A) $a = 17$, $b = 15$ <!-- feedback: Correcto. $a = \sqrt{289} = 17$ y $b = \sqrt{225} = 15$. -->
-- [ ] B) $a = 289$, $b = 225$ <!-- feedback: Incorrecto. $a^2$ y $b^2$ son los cuadrados de los semiejes. -->
+- [x] B) $a = 17$, $b = 15$ <!-- feedback: Correcto. $a = \sqrt{289} = 17$ y $b = \sqrt{225} = 15$. -->
+- [ ] A) $a = 289$, $b = 225$ <!-- feedback: Incorrecto. $a^2$ y $b^2$ son los cuadrados de los semiejes. -->
 - [ ] C) $a = 34$, $b = 30$ <!-- feedback: Incorrecto. Esos son los ejes completos ($2a$ y $2b$), no los semiejes. -->
 - [ ] D) $a = 15$, $b = 17$ <!-- feedback: Incorrecto. Invirtió los semiejes mayor y menor. -->
 
@@ -330,8 +330,8 @@ En la ecuación estándar $\frac{x^2}{a^2} + \frac{y^2}{b^2} = 1$, los semiejes 
 Dada la ecuación de la elipse $\frac{x^2}{324} + \frac{y^2}{256} = 1$, ¿cuáles son las longitudes de sus semiejes mayor $a$ y menor $b$?
 
 ### Opciones
-- [x] A) $a = 18$, $b = 16$ <!-- feedback: Correcto. $a = \sqrt{324} = 18$ y $b = \sqrt{256} = 16$. -->
-- [ ] B) $a = 324$, $b = 256$ <!-- feedback: Incorrecto. $a^2$ y $b^2$ son los cuadrados de los semiejes. -->
+- [x] B) $a = 18$, $b = 16$ <!-- feedback: Correcto. $a = \sqrt{324} = 18$ y $b = \sqrt{256} = 16$. -->
+- [ ] A) $a = 324$, $b = 256$ <!-- feedback: Incorrecto. $a^2$ y $b^2$ son los cuadrados de los semiejes. -->
 - [ ] C) $a = 36$, $b = 32$ <!-- feedback: Incorrecto. Esos son los ejes completos ($2a$ y $2b$), no los semiejes. -->
 - [ ] D) $a = 16$, $b = 18$ <!-- feedback: Incorrecto. Invirtió los semiejes mayor y menor. -->
 
@@ -351,10 +351,10 @@ En la ecuación estándar $\frac{x^2}{a^2} + \frac{y^2}{b^2} = 1$, los semiejes 
 Dada la ecuación de la elipse $\frac{x^2}{361} + \frac{y^2}{289} = 1$, ¿cuáles son las longitudes de sus semiejes mayor $a$ y menor $b$?
 
 ### Opciones
-- [x] A) $a = 19$, $b = 17$ <!-- feedback: Correcto. $a = \sqrt{361} = 19$ y $b = \sqrt{289} = 17$. -->
-- [ ] B) $a = 361$, $b = 289$ <!-- feedback: Incorrecto. $a^2$ y $b^2$ son los cuadrados de los semiejes. -->
-- [ ] C) $a = 38$, $b = 34$ <!-- feedback: Incorrecto. Esos son los ejes completos ($2a$ y $2b$), no los semiejes. -->
-- [ ] D) $a = 17$, $b = 19$ <!-- feedback: Incorrecto. Invirtió los semiejes mayor y menor. -->
+- [x] D) $a = 19$, $b = 17$ <!-- feedback: Correcto. $a = \sqrt{361} = 19$ y $b = \sqrt{289} = 17$. -->
+- [ ] A) $a = 361$, $b = 289$ <!-- feedback: Incorrecto. $a^2$ y $b^2$ son los cuadrados de los semiejes. -->
+- [ ] B) $a = 38$, $b = 34$ <!-- feedback: Incorrecto. Esos son los ejes completos ($2a$ y $2b$), no los semiejes. -->
+- [ ] C) $a = 17$, $b = 19$ <!-- feedback: Incorrecto. Invirtió los semiejes mayor y menor. -->
 
 ### Explicacion Pedagogica
 En la ecuación estándar $\frac{x^2}{a^2} + \frac{y^2}{b^2} = 1$, los semiejes se obtienen mediante $a = \sqrt{361} = 19$ y $b = \sqrt{289} = 17$.
@@ -372,8 +372,8 @@ En la ecuación estándar $\frac{x^2}{a^2} + \frac{y^2}{b^2} = 1$, los semiejes 
 Dada la ecuación de la elipse $\frac{x^2}{400} + \frac{y^2}{324} = 1$, ¿cuáles son las longitudes de sus semiejes mayor $a$ y menor $b$?
 
 ### Opciones
-- [x] A) $a = 20$, $b = 18$ <!-- feedback: Correcto. $a = \sqrt{400} = 20$ y $b = \sqrt{324} = 18$. -->
-- [ ] B) $a = 400$, $b = 324$ <!-- feedback: Incorrecto. $a^2$ y $b^2$ son los cuadrados de los semiejes. -->
+- [x] B) $a = 20$, $b = 18$ <!-- feedback: Correcto. $a = \sqrt{400} = 20$ y $b = \sqrt{324} = 18$. -->
+- [ ] A) $a = 400$, $b = 324$ <!-- feedback: Incorrecto. $a^2$ y $b^2$ son los cuadrados de los semiejes. -->
 - [ ] C) $a = 40$, $b = 36$ <!-- feedback: Incorrecto. Esos son los ejes completos ($2a$ y $2b$), no los semiejes. -->
 - [ ] D) $a = 18$, $b = 20$ <!-- feedback: Incorrecto. Invirtió los semiejes mayor y menor. -->
 
@@ -393,8 +393,8 @@ En la ecuación estándar $\frac{x^2}{a^2} + \frac{y^2}{b^2} = 1$, los semiejes 
 Dada la ecuación de la elipse $\frac{x^2}{441} + \frac{y^2}{361} = 1$, ¿cuáles son las longitudes de sus semiejes mayor $a$ y menor $b$?
 
 ### Opciones
-- [x] A) $a = 21$, $b = 19$ <!-- feedback: Correcto. $a = \sqrt{441} = 21$ y $b = \sqrt{361} = 19$. -->
-- [ ] B) $a = 441$, $b = 361$ <!-- feedback: Incorrecto. $a^2$ y $b^2$ son los cuadrados de los semiejes. -->
+- [x] B) $a = 21$, $b = 19$ <!-- feedback: Correcto. $a = \sqrt{441} = 21$ y $b = \sqrt{361} = 19$. -->
+- [ ] A) $a = 441$, $b = 361$ <!-- feedback: Incorrecto. $a^2$ y $b^2$ son los cuadrados de los semiejes. -->
 - [ ] C) $a = 42$, $b = 38$ <!-- feedback: Incorrecto. Esos son los ejes completos ($2a$ y $2b$), no los semiejes. -->
 - [ ] D) $a = 19$, $b = 21$ <!-- feedback: Incorrecto. Invirtió los semiejes mayor y menor. -->
 
@@ -414,10 +414,10 @@ En la ecuación estándar $\frac{x^2}{a^2} + \frac{y^2}{b^2} = 1$, los semiejes 
 Dada la ecuación de la elipse $\frac{x^2}{484} + \frac{y^2}{400} = 1$, ¿cuáles son las longitudes de sus semiejes mayor $a$ y menor $b$?
 
 ### Opciones
-- [x] A) $a = 22$, $b = 20$ <!-- feedback: Correcto. $a = \sqrt{484} = 22$ y $b = \sqrt{400} = 20$. -->
-- [ ] B) $a = 484$, $b = 400$ <!-- feedback: Incorrecto. $a^2$ y $b^2$ son los cuadrados de los semiejes. -->
-- [ ] C) $a = 44$, $b = 40$ <!-- feedback: Incorrecto. Esos son los ejes completos ($2a$ y $2b$), no los semiejes. -->
-- [ ] D) $a = 20$, $b = 22$ <!-- feedback: Incorrecto. Invirtió los semiejes mayor y menor. -->
+- [x] D) $a = 22$, $b = 20$ <!-- feedback: Correcto. $a = \sqrt{484} = 22$ y $b = \sqrt{400} = 20$. -->
+- [ ] A) $a = 484$, $b = 400$ <!-- feedback: Incorrecto. $a^2$ y $b^2$ son los cuadrados de los semiejes. -->
+- [ ] B) $a = 44$, $b = 40$ <!-- feedback: Incorrecto. Esos son los ejes completos ($2a$ y $2b$), no los semiejes. -->
+- [ ] C) $a = 20$, $b = 22$ <!-- feedback: Incorrecto. Invirtió los semiejes mayor y menor. -->
 
 ### Explicacion Pedagogica
 En la ecuación estándar $\frac{x^2}{a^2} + \frac{y^2}{b^2} = 1$, los semiejes se obtienen mediante $a = \sqrt{484} = 22$ y $b = \sqrt{400} = 20$.

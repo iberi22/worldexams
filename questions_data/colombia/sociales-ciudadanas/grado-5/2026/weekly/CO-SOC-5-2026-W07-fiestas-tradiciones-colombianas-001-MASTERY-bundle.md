@@ -34,11 +34,11 @@ Fiestas y tradiciones representativas de las regiones colombianas, su origen, el
 ¿Cuál de las siguientes es una fiesta tradicional del Caribe colombiano?
 
 ### Opciones
-- [x] A) El Carnaval de Barranquilla.
+- [x] C) El Carnaval de Barranquilla.
   <!-- feedback: El Carnaval de Barranquilla es una de las fiestas más representativas del Caribe colombiano. -->
-- [ ] B) La Fiesta de las Flores en Antioquia.
+- [ ] A) La Fiesta de las Flores en Antioquia.
   <!-- feedback: La Fiesta de las Flores se realiza en Medellín, Antioquia, no en el Caribe. -->
-- [ ] C) La Feria de las Velas en Boyacá.
+- [ ] B) La Feria de las Velas en Boyacá.
   <!-- feedback: La Feria de las Velas se celebra en municipios boyacenses, no en el Caribe. -->
 - [ ] D) El Festival de la Cultura Wayúu.
   <!-- feedback: Aunque existe el Festival de la Cultura Wayúu, el Carnaval de Barranquilla es la fiesta más emblemática del Caribe. -->
@@ -57,9 +57,9 @@ Reconocer las principales fiestas tradicionales colombianas según su región.
 ¿Qué refleja la mezcla cultural presente en el Carnaval de Barranquilla?
 
 ### Opciones
-- [x] A) La diversidad étnica y cultural de Colombia, especialmente del Caribe.
+- [x] B) La diversidad étnica y cultural de Colombia, especialmente del Caribe.
   <!-- feedback: El Carnaval refleja la mezcla de pueblos indígenas, africanos y europeos del Caribe. -->
-- [ ] B) Que en Barranquilla solo habitan personas europeas.
+- [ ] A) Que en Barranquilla solo habitan personas europeas.
   <!-- feedback: La población barranquillera es diversa, no exclusivamente europea. -->
 - [ ] C) Que las tradiciones indígenas ya no existen en la región.
   <!-- feedback: Las tradiciones indígenas siguen presentes en la cultura regional. -->
@@ -103,13 +103,13 @@ Identificar los elementos culturales que caracterizan una fiesta tradicional col
 ¿Por qué las fiestas tradicionales son una expresión de identidad cultural?
 
 ### Opciones
-- [x] A) Porque reunen elementos propios de cada región como música, danza, gastronomía y vestuarios.
+- [x] D) Porque reunen elementos propios de cada región como música, danza, gastronomía y vestuarios.
   <!-- feedback: Estos elementos resumen la historia, los saberes y el sentir de cada comunidad. -->
-- [ ] B) Porque son exactamente iguales en todas las regiones del país.
+- [ ] A) Porque son exactamente iguales en todas las regiones del país.
   <!-- feedback: Las fiestas cambian de una región a otra; cada una tiene rasgos propios. -->
-- [ ] C) Porque solo se celebran en la capital del país.
+- [ ] B) Porque solo se celebran en la capital del país.
   <!-- feedback: Las fiestas tradicionales se celebran en muchas regiones, no solo en la capital. -->
-- [ ] D) Porque no incluyen ninguna expresión artística.
+- [ ] C) Porque no incluyen ninguna expresión artística.
   <!-- feedback: Las fiestas tradicionales se caracterizan por integrar diversas expresiones artísticas. -->
 
 ### Explicacion Pedagogica
@@ -126,13 +126,13 @@ Aplicar el concepto de identidad cultural a partir de los elementos de las fiest
 ¿Qué valor principal aporta a una comunidad la realización de sus fiestas tradicionales?
 
 ### Opciones
-- [x] A) Fortalecer la cohesión social, la memoria histórica y el sentido de pertenencia.
+- [x] D) Fortalecer la cohesión social, la memoria histórica y el sentido de pertenencia.
   <!-- feedback: Las fiestas refuerzan los lazos comunitarios y la identidad del grupo. -->
-- [ ] B) Generar peleas entre los vecinos por diferencias políticas.
+- [ ] A) Generar peleas entre los vecinos por diferencias políticas.
   <!-- feedback: Aunque pueden surgir diferencias, las fiestas no buscan generar peleas. -->
-- [ ] C) Sustituir las responsabilidades escolares de los niños.
+- [ ] B) Sustituir las responsabilidades escolares de los niños.
   <!-- feedback: Las fiestas se suman a la vida escolar, no la reemplazan. -->
-- [ ] D) Eliminar las tradiciones gastronómicas locales.
+- [ ] C) Eliminar las tradiciones gastronómicas locales.
   <!-- feedback: Las fiestas tradicionales suelen preservar la gastronomía local. -->
 
 ### Explicacion Pedagogica
@@ -149,13 +149,13 @@ Reconocer el aporte social y cultural de las fiestas tradicionales para una comu
 ¿Qué diferencia cultural muestran estas dos fiestas colombianas?
 
 ### Opciones
-- [x] A) Una tiene un carácter solemne y religioso, mientras la otra es festivo y alegre.
+- [x] D) Una tiene un carácter solemne y religioso, mientras la otra es festivo y alegre.
   <!-- feedback: La Semana Santa es solemne y religiosa; el Carnaval es festivo y colorido. -->
-- [ ] B) Las dos fiestas son idénticas en su forma de celebrarse.
+- [ ] A) Las dos fiestas son idénticas en su forma de celebrarse.
   <!-- feedback: La solemnidad de Popayán contrasta con la alegría del Carnaval de Barranquilla. -->
-- [ ] C) Solo el Carnaval expresa la cultura colombiana.
+- [ ] B) Solo el Carnaval expresa la cultura colombiana.
   <!-- feedback: Tanto la Semana Santa como el Carnaval son expresiones culturales válidas. -->
-- [ ] D) La Semana Santa se celebra únicamente en otros países.
+- [ ] C) La Semana Santa se celebra únicamente en otros países.
   <!-- feedback: La Semana Santa en Popayán es una celebración tradicional colombiana. -->
 
 ### Explicacion Pedagogica
@@ -172,9 +172,9 @@ Comparar el carácter y los elementos de distintas fiestas tradicionales colombi
 ¿Qué relación hay entre el origen de las fiestas y la vida cotidiana de las comunidades?
 
 ### Opciones
-- [x] A) Las fiestas reflejan actividades cotidianas como cosechas, creencias religiosas o hechos históricos locales.
+- [x] B) Las fiestas reflejan actividades cotidianas como cosechas, creencias religiosas o hechos históricos locales.
   <!-- feedback: Las tradiciones festivas surgen de la vida rural, religiosa e histórica de cada región. -->
-- [ ] B) Las fiestas son ajenas a la vida diaria de las personas.
+- [ ] A) Las fiestas son ajenas a la vida diaria de las personas.
   <!-- feedback: Las fiestas están profundamente ligadas a la vida cotidiana de las comunidades. -->
 - [ ] C) Las fiestas solo existen para vender productos comerciales.
   <!-- feedback: Aunque hay un componente económico, las fiestas tienen raíces culturales profundas. -->
@@ -195,11 +195,11 @@ Analizar el origen histórico, religioso o agrícola de las fiestas tradicionale
 ¿Por qué es importante que los estudiantes colombianos conozcan y respeten las fiestas tradicionales del país?
 
 ### Opciones
-- [x] A) Porque valoran la diversidad cultural, fortalecen la identidad y promueven el respeto entre regiones.
+- [x] C) Porque valoran la diversidad cultural, fortalecen la identidad y promueven el respeto entre regiones.
   <!-- feedback: Conocer las fiestas enriquece la identidad y fomenta la convivencia entre pueblos. -->
-- [ ] B) Porque las fiestas tradicionales no tienen relación con la identidad del país.
+- [ ] A) Porque las fiestas tradicionales no tienen relación con la identidad del país.
   <!-- feedback: Las fiestas son una expresión directa de la identidad cultural colombiana. -->
-- [ ] C) Porque solo se deben celebrar las fiestas de la propia región.
+- [ ] B) Porque solo se deben celebrar las fiestas de la propia región.
   <!-- feedback: Aunque se valore la propia región, también se debe respetar la diversidad. -->
 - [ ] D) Porque las fiestas tradicionales deben sustituirse por festividades extranjeras.
   <!-- feedback: Las fiestas extranjeras no deben reemplazar las tradiciones locales. -->

@@ -34,9 +34,9 @@ Representación, comparación y operaciones sencillas con fracciones en contexto
 Si María y sus hermanos se comen 5 porciones de la pizza, ¿qué fracción de la pizza completa representas esa cantidad consumida?
 
 ### Opciones
-- [x] A) 5/8.
+- [x] B) 5/8.
   <!-- feedback: El numerador 5 indica las partes tomadas y el denominador 8 indica el total de partes iguales. -->
-- [ ] B) 3/8.
+- [ ] A) 3/8.
   <!-- feedback: 3/8 representa la fracción de pizza que sobró, no la que se comieron. -->
 - [ ] C) 8/5.
   <!-- feedback: Se invirtieron el numerador y el denominador. -->
@@ -57,13 +57,13 @@ Una fracción propia a/b expresa una cantidad tomada (a) respecto a un conjunto 
 Andrés pintó 2/4 de su lámina y Juliana pintó 1/2 de la suya. ¿Cómo se comparan las áreas pintadas por ambos estudiantes?
 
 ### Opciones
-- [x] A) Pintaron exactamente la misma área porque 2/4 y 1/2 son fracciones equivalentes.
+- [x] D) Pintaron exactamente la misma área porque 2/4 y 1/2 son fracciones equivalentes.
   <!-- feedback: Al simplificar 2/4 dividiendo entre 2 se obtiene 1/2, demostrando que representan la misma cantidad. -->
-- [ ] B) Andrés pintó más porque el numerador 2 es mayor que 1.
+- [ ] A) Andrés pintó más porque el numerador 2 es mayor que 1.
   <!-- feedback: Para comparar fracciones se debe analizar la relación de las partes con el todo, no solo los numeradores. -->
-- [ ] C) Juliana pintó el doble que Andrés porque 2 está en el denominador de su fracción.
+- [ ] B) Juliana pintó el doble que Andrés porque 2 está en el denominador de su fracción.
   <!-- feedback: El denominador indica la división de la unidad, no una multiplicación de superficie. -->
-- [ ] D) Andrés pintó menos porque 4 es mayor que 2.
+- [ ] C) Andrés pintó menos porque 4 es mayor que 2.
   <!-- feedback: Un denominador más grande indica partes más pequeñas, pero al tomar 2 partes se equipara a 1/2. -->
 
 ### Explicacion Pedagogica
@@ -103,11 +103,11 @@ Para sumar fracciones homogéneas (mismo denominador), se suman los numeradores 
 ¿Cuántas hectáreas del terreno están destinadas al cultivo de papa?
 
 ### Opciones
-- [x] A) 8 hectáreas.
+- [x] C) 8 hectáreas.
   <!-- feedback: Calcular 1/3 de 24 equivale a dividir 24 entre 3, lo cual resulta en 8 hectáreas. -->
-- [ ] B) 6 hectáreas.
+- [ ] A) 6 hectáreas.
   <!-- feedback: Se dividió 24 entre 4 en lugar de dividir entre 3. -->
-- [ ] C) 12 hectáreas.
+- [ ] B) 12 hectáreas.
   <!-- feedback: Corresponde a la mitad del terreno (1/2), no a un tercio (1/3). -->
 - [ ] D) 3 hectáreas.
   <!-- feedback: Se tomó el valor del denominador 3 directamente como respuesta. -->
@@ -126,9 +126,9 @@ Calcular la fracción de un número entero requiere dividir el número total ent
 ¿Qué fracción de la barra de chocolate le queda disponible a Carlos para el día siguiente?
 
 ### Opciones
-- [x] A) 5/12.
+- [x] B) 5/12.
   <!-- feedback: Carlos consume 3/12 + 4/12 = 7/12. La fracción restante es 12/12 - 7/12 = 5/12. -->
-- [ ] B) 7/12.
+- [ ] A) 7/12.
   <!-- feedback: 7/12 es la fracción total consumida, no la cantidad restante. -->
 - [ ] C) 1/12.
   <!-- feedback: Se restaron los numeradores consumidos (4 - 3 = 1) en lugar de restar del total. -->
@@ -149,9 +149,9 @@ El complemento de una fracción respecto a la unidad entera representa la cantid
 ¿Qué cantidad total sumada forman estos dos ingredientes secos en tazas?
 
 ### Opciones
-- [x] A) 3/4 de taza.
+- [x] B) 3/4 de taza.
   <!-- feedback: Convertimos 1/2 a fracción equivalente con denominador 4 (2/4). Luego sumamos 2/4 + 1/4 = 3/4. -->
-- [ ] B) 2/6 de taza.
+- [ ] A) 2/6 de taza.
   <!-- feedback: Error común de sumar numeradores con numeradores y denominadores con denominadores (1+1 / 2+4). -->
 - [ ] C) 2/4 de taza.
   <!-- feedback: Corresponde únicamente a la cantidad de azúcar (1/2 = 2/4), ignorando el almidón. -->
@@ -172,9 +172,9 @@ Para sumar fracciones heterogéneas (diferente denominador), se deben amplificar
 Si Tomás come 2 porciones de la primera pizza y Lucía come 4 porciones de la segunda pizza, ¿quién comió más pizza?
 
 ### Opciones
-- [x] A) Ambos comieron exactamente la misma cantidad de pizza.
+- [x] B) Ambos comieron exactamente la misma cantidad de pizza.
   <!-- feedback: Tomás comió 2/6 = 1/3 de pizza. Lucía comió 4/12 = 1/3 de pizza. Ambas cantidades son iguales. -->
-- [ ] B) Lucía comió más porque 4 porciones son más que 2 porciones.
+- [ ] A) Lucía comió más porque 4 porciones son más que 2 porciones.
   <!-- feedback: El número de porciones no determina la cantidad total sin considerar el tamaño de cada porción (denominador). -->
 - [ ] C) Tomás comió más porque las porciones de 1/6 son el doble de grandes que las de 1/12.
   <!-- feedback: Aunque las porciones de Tomás eran más grandes, Lucía comió el doble de porciones, equilibrando el consumo. -->
@@ -195,11 +195,11 @@ La equivalencia entre fracciones permite comparar magnitudes divididas en distin
 ¿Cuántos estudiantes prefieren la natación?
 
 ### Opciones
-- [x] A) 5 estudiantes.
+- [x] C) 5 estudiantes.
   <!-- feedback: Fútbol: 1/2 de 30 = 15. Baloncesto: 1/3 de 30 = 10. Total entre fútbol y baloncesto = 25. Natación: 30 - 25 = 5. -->
-- [ ] B) 10 estudiantes.
+- [ ] A) 10 estudiantes.
   <!-- feedback: 10 corresponde a los estudiantes que prefieren baloncesto. -->
-- [ ] C) 15 estudiantes.
+- [ ] B) 15 estudiantes.
   <!-- feedback: 15 corresponde a los estudiantes que prefieren fútbol. -->
 - [ ] D) 6 estudiantes.
   <!-- feedback: Se dividió 30 entre 5 directamente sin calcular la resta de las fracciones previas. -->

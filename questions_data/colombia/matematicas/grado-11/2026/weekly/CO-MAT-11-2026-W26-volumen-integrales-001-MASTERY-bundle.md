@@ -57,13 +57,13 @@ Para secciones cuadradas, $A(x) = s(x)^2 = (x+1)^2$. $V = \int_0^3 (x^2+2x+1)dx 
 Sabiendo que el área transversal a la altura $x$ es $A(x) = x^2$, ¿cuál es el volumen total de la pirámide?
 
 ### Opciones
-- [x] A) $\frac{64}{3}$
+- [x] D) $\frac{64}{3}$
   <!-- feedback: Correcto. $V = \int_0^4 x^2 \, dx = [\frac{x^3}{3}]_0^4 = \frac{64}{3}$. -->
-- [ ] B) 64
+- [ ] A) 64
   <!-- feedback: Incorrecto. Se omitió dividir entre 3. -->
-- [ ] C) 16
+- [ ] B) 16
   <!-- feedback: Incorrecto. Se multiplicó la base por la altura sin la constante de integración de la pirámide. -->
-- [ ] D) 32
+- [ ] C) 32
   <!-- feedback: Incorrecto. Error al integrar el término cuadrático. -->
 
 ### Explicacion Pedagogica
@@ -80,9 +80,9 @@ $V = \int_0^H A(x) dx = \int_0^4 x^2 dx = \frac{4^3}{3} = \frac{64}{3}$. Coincid
 Usando $A(x) = \frac{1}{2}\pi r(x)^2$, ¿cuál es el volumen?
 
 ### Opciones
-- [x] A) $4\pi$
+- [x] B) $4\pi$
   <!-- feedback: Correcto. $A(x) = \frac{1}{2}\pi x$. $V = \frac{\pi}{2} \int_0^4 x \, dx = \frac{\pi}{2} [\frac{x^2}{2}]_0^4 = \frac{\pi}{2}(8) = 4\pi$. -->
-- [ ] B) $8\pi$
+- [ ] A) $8\pi$
   <!-- feedback: Incorrecto. Se olvidó dividir por 2 para el área del semicírculo. -->
 - [ ] C) $2\pi$
   <!-- feedback: Incorrecto. Se dividió por 2 dos veces de más. -->
@@ -103,9 +103,9 @@ $A(x) = \frac{1}{2}\pi (\sqrt{x})^2 = \frac{\pi}{2} x$. Integrando de 0 a 4: $\f
 Usando $L = \int_a^b \sqrt{1 + (f'(x))^2} dx$, ¿cuál es la longitud exacta del segmento?
 
 ### Opciones
-- [x] A) $3\sqrt{5}$
+- [x] B) $3\sqrt{5}$
   <!-- feedback: Correcto. $f'(x) = 2 \implies \sqrt{1 + 2^2} = \sqrt{5}$. $L = \int_0^3 \sqrt{5} \, dx = 3\sqrt{5}$. -->
-- [ ] B) 6
+- [ ] A) 6
   <!-- feedback: Incorrecto. Se tomó la diferencia de ordenadas $\Delta y = 6$. -->
 - [ ] C) 3
   <!-- feedback: Incorrecto. Se tomó únicamente la diferencia de abscisas $\Delta x = 3$. -->
@@ -126,11 +126,11 @@ Por fórmula de arco: $L = \int_0^3 \sqrt{1 + 4} dx = \sqrt{5} \int_0^3 dx = 3\s
 Usando $M = \int_0^2 \rho(x) dx$, ¿cuál es la masa total de la varilla?
 
 ### Opciones
-- [x] A) 8 kg
+- [x] C) 8 kg
   <!-- feedback: Correcto. $M = \int_0^2 3x^2 \, dx = [x^3]_0^2 = 8$ kg. -->
-- [ ] B) 12 kg
+- [ ] A) 12 kg
   <!-- feedback: Incorrecto. Se sustituyó $x=2$ directamente en la densidad $3(2^2) = 12$. -->
-- [ ] C) 4 kg
+- [ ] B) 4 kg
   <!-- feedback: Incorrecto. Error al antiderivar $3x^2$. -->
 - [ ] D) 16 kg
   <!-- feedback: Incorrecto. Se multiplicó por la longitud de 2 m dos veces. -->
@@ -195,13 +195,13 @@ $W = \int_0^{0.5} 100x dx = \left[ 50x^2 \right]_0^{0.5} = 50(0.25) = 12.5$ Joul
 Sabiendo que $F = \rho g \int_0^3 y \cdot 2 \, dy$, ¿cuál es la fuerza total sobre la placa?
 
 ### Opciones
-- [x] A) 90,000 N
+- [x] D) 90,000 N
   <!-- feedback: Correcto. $F = 20000 \int_0^3 y \, dy = 20000 [\frac{y^2}{2}]_0^3 = 20000(4.5) = 90000$ N. -->
-- [ ] B) 180,000 N
+- [ ] A) 180,000 N
   <!-- feedback: Incorrecto. Se olvidó dividir entre 2 la integral de $y$. -->
-- [ ] C) 60,000 N
+- [ ] B) 60,000 N
   <!-- feedback: Incorrecto. Se multiplicó la presión promedio por el área sin integrar. -->
-- [ ] D) 45,000 N
+- [ ] C) 45,000 N
   <!-- feedback: Incorrecto. Error al evaluar el área de la placa. -->
 
 ### Explicacion Pedagogica
@@ -241,11 +241,11 @@ Usando $S = 2\pi \int_0^1 x \sqrt{1 + 1^2} dx = 2\sqrt{2}\pi \int_0^1 x dx$, ¿c
 Usando $f_{prom} = \frac{1}{b-a} \int_a^b f(x) dx$, ¿cuál es el valor promedio de la función?
 
 ### Opciones
-- [x] A) 4
+- [x] C) 4
   <!-- feedback: Correcto. $\int_0^2 3x^2 dx = 8$. Luego $f_{prom} = \frac{8}{2 - 0} = 4$. -->
-- [ ] B) 8
+- [ ] A) 8
   <!-- feedback: Incorrecto. Es el valor acumulado de la integral, falta dividir por la longitud del intervalo $b-a=2$. -->
-- [ ] C) 6
+- [ ] B) 6
   <!-- feedback: Incorrecto. Se promediaron los valores en los extremos $f(0)=0$ y $f(2)=12$ ($12/2=6$). -->
 - [ ] D) 2
   <!-- feedback: Incorrecto. Error al evaluar la división entre el intervalo. -->
@@ -264,9 +264,9 @@ El valor medio de una función en $[a,b]$ es $f_{prom} = \frac{1}{b-a} \int_a^b 
 ¿Es convergente la integral del volumen $V = \pi \int_0^1 \frac{1}{x} dx$?
 
 ### Opciones
-- [x] A) Diverge a infinito.
+- [x] B) Diverge a infinito.
   <!-- feedback: Correcto. $\int_0^1 x^{-1} dx = [\ln|x|]_0^1 = 0 - (-\infty) = +\infty$. -->
-- [ ] B) Converge a $\pi$.
+- [ ] A) Converge a $\pi$.
   <!-- feedback: Incorrecto. La integral de $1/x$ en el origen no converge. -->
 - [ ] C) Converge a $2\pi$.
   <!-- feedback: Incorrecto. Se confundió con la integral de $x^{-1/2}$ en área. -->
@@ -287,13 +287,13 @@ $\int_0^1 \frac{1}{x} dx$ es una integral impropia divergente de tipo $p=1$ ($p 
 Sabiendo que el lado de cada cuadrado es $s(x) = 2\sqrt{4 - x^2}$ y $A(x) = 4(4 - x^2)$, ¿cuál es el volumen total?
 
 ### Opciones
-- [x] A) $\frac{128}{3}$
+- [x] D) $\frac{128}{3}$
   <!-- feedback: Correcto. $V = \int_{-2}^2 (16 - 4x^2) dx = 2 [16x - \frac{4x^3}{3}]_0^2 = 2 (32 - \frac{32}{3}) = 2 (\frac{64}{3}) = \frac{128}{3}$. -->
-- [ ] B) $\frac{64}{3}$
+- [ ] A) $\frac{64}{3}$
   <!-- feedback: Incorrecto. Se integró solo en el semieje positivo $[0,2]$ sin multiplicar por 2. -->
-- [ ] C) 64
+- [ ] B) 64
   <!-- feedback: Incorrecto. Error al restar la fracción en la integral. -->
-- [ ] D) 32
+- [ ] C) 32
   <!-- feedback: Incorrecto. No se tuvo en cuenta que la altura del cuadrado es el doble del radio vertical. -->
 
 ### Explicacion Pedagogica
@@ -310,9 +310,9 @@ Ancho del cuadrado $2y = 2\sqrt{4-x^2}$. Área $A(x) = 4(4-x^2)$. $V = 4 \int_{-
 ¿Existe un punto $c \in (0, 3)$ tal que $f(c) = f_{prom}$ y cuál es su valor?
 
 ### Opciones
-- [x] A) Sí, $c = \sqrt{3} \approx 1.73$
+- [x] B) Sí, $c = \sqrt{3} \approx 1.73$
   <!-- feedback: Correcto. $f_{prom} = \frac{1}{3} \int_0^3 x^2 dx = \frac{9}{3} = 3$. $f(c) = c^2 = 3 \implies c = \sqrt{3}$. -->
-- [ ] B) Sí, $c = 1.5$
+- [ ] A) Sí, $c = 1.5$
   <!-- feedback: Incorrecto. 1.5 es el punto medio del intervalo, pero la función es cuadrática, no lineal. -->
 - [ ] C) Sí, $c = 2$
   <!-- feedback: Incorrecto. $f(2) = 4 \neq 3$. -->
@@ -356,9 +356,9 @@ $L = \int_0^3 (1+x)^{1/2} dx = \left[ \frac{2}{3}(1+x)^{3/2} \right]_0^3 = \frac
 ¿En qué condición es preferible utilizar el método de cascarones cilíndricos sobre el método de discos?
 
 ### Opciones
-- [x] A) Cuando la región rota alrededor de un eje vertical y la función está despejada de la forma $y = f(x)$.
+- [x] B) Cuando la región rota alrededor de un eje vertical y la función está despejada de la forma $y = f(x)$.
   <!-- feedback: Correcto. Cascarones evita tener que despejar $x = g(y)$, lo cual puede ser algebraicamente complejo o imposible. -->
-- [ ] B) Únicamente cuando la región no toca el eje de rotación.
+- [ ] A) Únicamente cuando la región no toca el eje de rotación.
   <!-- feedback: Incorrecto. Ambos métodos funcionan independientemente de si toca o no el eje. -->
 - [ ] C) Solo cuando el sólido es una esfera perfecta.
   <!-- feedback: Incorrecto. Aplica a cualquier sólido de revolución. -->
@@ -379,11 +379,11 @@ Cascarones permite integrar respecto a $x$ cuando se gira alrededor de un eje ve
 Por simetría, ¿cuál es la coordenada $\bar{x}$ del centroide?
 
 ### Opciones
-- [x] A) $\bar{x} = 0$
+- [x] C) $\bar{x} = 0$
   <!-- feedback: Correcto. Al ser una figura simétrica respecto al eje $y$, el centro de masa en la dirección $x$ se encuentra en 0. -->
-- [ ] B) $\bar{x} = \frac{4R}{3\pi}$
+- [ ] A) $\bar{x} = \frac{4R}{3\pi}$
   <!-- feedback: Incorrecto. Esta es la coordenada vertical $\bar{y}$, no $\bar{x}$. -->
-- [ ] C) $\bar{x} = R/2$
+- [ ] B) $\bar{x} = R/2$
   <!-- feedback: Incorrecto. La masa está distribuida simétricamente a izquierda y derecha. -->
 - [ ] D) $\bar{x} = R$
   <!-- feedback: Incorrecto. Corresponde al extremo del intervalo. -->
@@ -402,9 +402,9 @@ Por simetría axial respecto a $x=0$, el primer momento de área $M_y = 0$, por 
 Sabiendo que la masa de cada disco a profundidad $y$ recorre una distancia $y$, ¿cuál es la integral del trabajo total?
 
 ### Opciones
-- [x] A) $W = \rho g \pi R^2 \int_0^H y \, dy = \frac{1}{2} \rho g \pi R^2 H^2$
+- [x] B) $W = \rho g \pi R^2 \int_0^H y \, dy = \frac{1}{2} \rho g \pi R^2 H^2$
   <!-- feedback: Correcto. Cada capa de volumen $\pi R^2 dy$ tiene fuerza $\rho g \pi R^2 dy$ y se eleva una distancia $y$. -->
-- [ ] B) $W = \rho g \pi R^2 H^2$
+- [ ] A) $W = \rho g \pi R^2 H^2$
   <!-- feedback: Incorrecto. Se omitió integrar $y$, multiplicando directamente por la altura total. -->
 - [ ] C) $W = \frac{1}{3} \rho g \pi R^2 H^2$
   <!-- feedback: Incorrecto. $1/3$ aplicaría a un tanque cónico. -->
@@ -471,9 +471,9 @@ Segundo Teorema de Pappus: Superficie = (Distancia recorrida por centroide de cu
 ¿La longitud de arco $L = \int_0^1 \sqrt{1 + 4x^2} dx$ es finita y cuál es su solución analítica estándar?
 
 ### Opciones
-- [x] A) Es finita y se resuelve mediante sustitución trigonométrica $2x = \tan(\theta)$.
+- [x] B) Es finita y se resuelve mediante sustitución trigonométrica $2x = \tan(\theta)$.
   <!-- feedback: Correcto. El integrando es continuo y acotado en $[0,1]$, y la forma $\sqrt{1+u^2}$ se integra mediante sustitución por tangente. -->
-- [ ] B) Es infinita por tener un término cuadrático.
+- [ ] A) Es infinita por tener un término cuadrático.
   <!-- feedback: Incorrecto. Integrar una función continua en un intervalo cerrado da un valor finito. -->
 - [ ] C) Se resuelve simplemente como $\frac{1+4x^2}{2}$.
   <!-- feedback: Incorrecto. La raíz cuadrada no se puede separar algebraicamente. -->

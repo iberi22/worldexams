@@ -34,9 +34,9 @@ Comprensión de un cuento de ciencia ficción con protagonistas colombianos: per
 ¿Quiénes son los personajes principales del cuento?
 
 ### Opciones
-- [x] A) Santiago y Mariana, dos niños de Medellín.
+- [x] B) Santiago y Mariana, dos niños de Medellín.
   <!-- feedback: El texto presenta a Santiago y Mariana como los protagonistas de la historia. -->
-- [ ] B) El alcalde de Medellín y su familia.
+- [ ] A) El alcalde de Medellín y su familia.
   <!-- feedback: Ningún alcalde aparece en el fragmento leído. -->
 - [ ] C) Un grupo de científicos extranjeros.
   <!-- feedback: El cuento menciona a dos niños, no a un equipo de científicos. -->
@@ -57,13 +57,13 @@ Identificación de los personajes principales de un relato narrativo a partir de
 ¿En qué tiempo y lugar se desarrolla la historia?
 
 ### Opciones
-- [x] A) En un futuro lejano, en un barrio de Medellín.
+- [x] D) En un futuro lejano, en un barrio de Medellín.
   <!-- feedback: El año 2150 y la ciudad de Medellín sitúan el relato en un futuro cercano a la ficción. -->
-- [ ] B) En la época actual, en una ciudad de otro país.
+- [ ] A) En la época actual, en una ciudad de otro país.
   <!-- feedback: El texto indica el año 2150 y una ciudad colombiana. -->
-- [ ] C) En el pasado, en un pueblo sin electricidad.
+- [ ] B) En el pasado, en un pueblo sin electricidad.
   <!-- feedback: El relato se ubica en el futuro y con tecnología avanzada. -->
-- [ ] D) En un barco, en medio del océano.
+- [ ] C) En un barco, en medio del océano.
   <!-- feedback: La acción ocurre en una loma de un barrio, no en el mar. -->
 
 ### Explicacion Pedagogica
@@ -80,9 +80,9 @@ Reconocimiento del tiempo y el espacio narrativos como elementos básicos de la 
 ¿Qué elemento del cuento indica que se trata de un relato de ciencia ficción?
 
 ### Opciones
-- [x] A) La existencia de un robot que habla y funciona con tecnología avanzada.
+- [x] B) La existencia de un robot que habla y funciona con tecnología avanzada.
   <!-- feedback: Los robots con inteligencia y lenguaje son un rasgo típico de la ciencia ficción. -->
-- [ ] B) La presencia de árboles en una loma.
+- [ ] A) La presencia de árboles en una loma.
   <!-- feedback: Los árboles son un elemento natural común, presente en muchos tipos de relatos. -->
 - [ ] C) El nombre de los niños protagonistas.
   <!-- feedback: Los nombres propios no determinan por sí solos el género del texto. -->
@@ -103,13 +103,13 @@ Aplicación de criterios para reconocer los elementos fantásticos o tecnológic
 Según el texto, ¿qué hicieron los niños para que el robot volviera a funcionar?
 
 ### Opciones
-- [x] A) Lo cargaron con un panel solar.
+- [x] D) Lo cargaron con un panel solar.
   <!-- feedback: El texto indica que los niños usaron un panel solar para darle energía a TEO. -->
-- [ ] B) Lo llevaron a un taller de bicicletas.
+- [ ] A) Lo llevaron a un taller de bicicletas.
   <!-- feedback: En el fragmento no se menciona ningún taller de bicicletas. -->
-- [ ] C) Lo dejaron abandonado en la loma.
+- [ ] B) Lo dejaron abandonado en la loma.
   <!-- feedback: Los niños lo llevaron a su casa, en lugar de abandonarlo. -->
-- [ ] D) Lo conectaron a la red de un hospital.
+- [ ] C) Lo conectaron a la red de un hospital.
   <!-- feedback: La energía provino de un panel solar, no de un hospital. -->
 
 ### Explicacion Pedagogica
@@ -172,11 +172,11 @@ Identificación del conflicto narrativo como eje que organiza las acciones de lo
 ¿Qué tema se desarrolla principalmente en el desenlace del cuento?
 
 ### Opciones
-- [x] A) La tecnología puede usarse para comprender y cuidar la naturaleza.
+- [x] C) La tecnología puede usarse para comprender y cuidar la naturaleza.
   <!-- feedback: El desenlace une el conocimiento tecnológico de TEO con el cuidado del entorno natural. -->
-- [ ] B) Los robots deben reemplazar a todos los animales del bosque.
+- [ ] A) Los robots deben reemplazar a todos los animales del bosque.
   <!-- feedback: El cuento propone entender a los animales, no reemplazarlos. -->
-- [ ] C) Los niños no deben jugar con aparatos electrónicos.
+- [ ] B) Los niños no deben jugar con aparatos electrónicos.
   <!-- feedback: Los protagonistas usan la tecnología de forma positiva y colaborativa. -->
 - [ ] D) La naturaleza es peligrosa y debe evitarse.
   <!-- feedback: El relato muestra aprecio por la naturaleza, no temor hacia ella. -->
@@ -195,13 +195,13 @@ Análisis del tema o mensaje que se construye en el desenlace de un relato de ci
 ¿Cuál de las siguientes afirmaciones evalúa mejor la enseñanza del cuento?
 
 ### Opciones
-- [x] A) Que la curiosidad y el trabajo en equipo ayudan a resolver dificultades.
+- [x] D) Que la curiosidad y el trabajo en equipo ayudan a resolver dificultades.
   <!-- feedback: El cierre del relato destaca la curiosidad y la colaboración como valores centrales. -->
-- [ ] B) Que los problemas solo se resuelven con dinero.
+- [ ] A) Que los problemas solo se resuelven con dinero.
   <!-- feedback: El cuento resuelve la situación con ingenio y ayuda mutua, no con dinero. -->
-- [ ] C) Que es mejor no ayudar a los desconocidos.
+- [ ] B) Que es mejor no ayudar a los desconocidos.
   <!-- feedback: Los niños ayudan a TEO y esa decisión produce resultados positivos. -->
-- [ ] D) Que la tecnología resuelve todo sin esfuerzo humano.
+- [ ] C) Que la tecnología resuelve todo sin esfuerzo humano.
   <!-- feedback: La tecnología de TEO funciona gracias a la iniciativa y el cuidado de los niños. -->
 
 ### Explicacion Pedagogica

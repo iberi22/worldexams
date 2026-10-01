@@ -63,9 +63,9 @@ The student identifies basic vocabulary for city transportation hubs.
 ### Opciones
 - [ ] A) should
   <!-- feedback: Incorrect. Touching paintings is usually forbidden, not a suggestion. -->
-- [x] B) mustn't
+- [x] C) mustn't
   <!-- feedback: Correct! "Mustn't" is used for prohibition (strong obligation NOT to do something). -->
-- [ ] C) don't have to
+- [ ] B) don't have to
   <!-- feedback: Incorrect. This means it's optional. -->
 - [ ] D) have to
   <!-- feedback: Incorrect. This would mean it's mandatory to touch them. -->
@@ -86,11 +86,11 @@ The student identifies the correct modal for a formal prohibition.
 "If you have a fever, you ________ stay at home and rest."
 
 ### Opciones
-- [x] A) should
+- [x] C) should
   <!-- feedback: Correct! "Should" is the appropriate modal for giving medical advice. -->
-- [ ] B) mustn't
+- [ ] A) mustn't
   <!-- feedback: Incorrect. Contradicts the advice. -->
-- [ ] C) shouldn't
+- [ ] B) shouldn't
   <!-- feedback: Incorrect. Contradicts the advice. -->
 - [ ] D) has to
   <!-- feedback: Incorrect. Grammar error (needs "have to" or "must" for obligation, but "should" is better for advice). -->
@@ -162,9 +162,9 @@ The student applies the concept of "don't have to" for situations where an actio
 What is an obligation for students on Fridays?
 
 ### Opciones
-- [ ] A) To bring their own lunch.
+- [ ] B) To bring their own lunch.
   <!-- feedback: Incorrect. They "don't have to". -->
-- [x] B) To wear the PE uniform.
+- [x] A) To wear the PE uniform.
   <!-- feedback: Correct! The text says they "must" wear it. -->
 - [ ] C) To arrive 30 minutes early.
   <!-- feedback: Incorrect. The advice is 5 minutes. -->
@@ -189,9 +189,9 @@ The student applies reading comprehension to distinguish between advice, obligat
 ### Opciones
 - [ ] A) into
   <!-- feedback: Incorrect. "Into" is for entering. -->
-- [x] B) across
+- [x] C) across
   <!-- feedback: Correct! "Across" is used for crossing a street. -->
-- [ ] C) over
+- [ ] B) over
   <!-- feedback: Incorrect. Unless there is a bridge, you walk across. -->
 - [ ] D) under
   <!-- feedback: Incorrect. -->
@@ -264,9 +264,9 @@ The student analyzes multiple spatial indicators to pin down a specific location
 What is the most important instruction for the tourist's physical comfort?
 
 ### Opciones
-- [ ] A) To visit the Cathedral.
+- [ ] B) To visit the Cathedral.
   <!-- feedback: Incorrect. This is the main activity, not specific to physical comfort. -->
-- [x] B) To bring a jacket.
+- [x] A) To bring a jacket.
   <!-- feedback: Correct! This addresses the temperature (physical comfort). -->
 - [ ] C) To not worry about the distance.
   <!-- feedback: Incorrect. This is about logistics. -->

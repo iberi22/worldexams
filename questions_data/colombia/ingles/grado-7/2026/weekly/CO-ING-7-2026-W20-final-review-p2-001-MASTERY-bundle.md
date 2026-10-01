@@ -61,9 +61,9 @@ The student identifies the basic past conjugation of the verb "to be".
 Which of the following verbs has an IRREGULAR past form?
 
 ### Opciones
-- [ ] A) Cook
+- [ ] B) Cook
   <!-- feedback: Incorrect. Past is "cooked". -->
-- [x] B) Drink
+- [x] A) Drink
   <!-- feedback: Correct! Past is "drank", making it irregular. -->
 - [ ] C) Listen
   <!-- feedback: Incorrect. Past is "listened". -->
@@ -88,9 +88,9 @@ The student distinguishes between regular and irregular verb categories.
 ### Opciones
 - [ ] A) Finally / First / Then
   <!-- feedback: Incorrect order. -->
-- [x] B) First / Then / Finally
+- [x] C) First / Then / Finally
   <!-- feedback: Correct! Logical sequence of events. -->
-- [ ] C) Next / After that / Finally
+- [ ] B) Next / After that / Finally
   <!-- feedback: Incorrect. A sequence shouldn't start with "Next" if the first step is given. -->
 - [ ] D) First / Next / First
   <!-- feedback: Incorrect order. -->
@@ -113,9 +113,9 @@ Which sentence describes an action that was happening at a specific time?
 ### Opciones
 - [ ] A) I ate pizza yesterday.
   <!-- feedback: Incorrect. Completed action (Simple). -->
-- [x] B) I was eating pizza at 8:00 PM yesterday.
+- [x] C) I was eating pizza at 8:00 PM yesterday.
   <!-- feedback: Correct! Action in progress (Continuous). -->
-- [ ] C) I eat pizza every Friday.
+- [ ] B) I eat pizza every Friday.
   <!-- feedback: Incorrect. Habit (Present Simple). -->
 - [ ] D) I am eating pizza now.
   <!-- feedback: Incorrect. Current action (Present Continuous). -->
@@ -138,9 +138,9 @@ The student understands the difference between a completed past action and an ac
 ### Opciones
 - [ ] A) played / was coming
   <!-- feedback: Incorrect. Tenses are reversed. -->
-- [x] B) were playing / came
+- [x] C) were playing / came
   <!-- feedback: Correct! Long action (were playing) interrupted by a short action (came). -->
-- [ ] C) was playing / came
+- [ ] B) was playing / came
   <!-- feedback: Incorrect. "We" requires "were". -->
 - [ ] D) were playing / was coming
   <!-- feedback: Incorrect. Both cannot be continuous if one is an interruption. -->
@@ -162,11 +162,11 @@ The student applies the "interrupted action" rule using both Past Simple and Pas
 What is true about Mateo's project?
 
 ### Opciones
-- [ ] A) He didn't finish the project.
+- [ ] B) He didn't finish the project.
   <!-- feedback: Incorrect. He "finally finished" it. -->
-- [ ] B) He was lazy and slept a lot.
+- [ ] C) He was lazy and slept a lot.
   <!-- feedback: Incorrect. He "didn't sleep much" because he was busy. -->
-- [x] C) His hard work resulted in a good grade.
+- [x] A) His hard work resulted in a good grade.
   <!-- feedback: Correct! Being busy and not sleeping (hard work) led to getting an "A" (good grade). -->
 - [ ] D) He worked on the project last week.
   <!-- feedback: Incorrect. He worked on it "last month". -->
@@ -266,11 +266,11 @@ Which word best describes the nature of the events mentioned?
 ### Opciones
 - [ ] A) Accidental
   <!-- feedback: Incorrect. These were planned actions. -->
-- [x] B) Sequential
+- [x] D) Sequential
   <!-- feedback: Correct! The events follow a clear chronological and logical order (practice -> travel -> play). -->
-- [ ] C) Negative
+- [ ] B) Negative
   <!-- feedback: Incorrect. These are positive events (winning). -->
-- [ ] D) Incomplete
+- [ ] C) Incomplete
   <!-- feedback: Incorrect. The sequence reaches a clear conclusion (became champions). -->
 
 ### Explicacion Pedagogica

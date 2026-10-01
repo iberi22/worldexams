@@ -34,13 +34,13 @@ Esta semana identificamos cuándo ocurre un cambio químico, diferenciamos los t
 ¿Cuál de las siguientes observaciones durante el proceso de elaboración de panela en un trapiche de Santander corresponde a una reacción química?
 
 ### Opciones
-- [x] A) El cambio de color del guarapo de verde claro a caramelo oscuro y la liberación de un aroma intenso a panela.
+- [x] D) El cambio de color del guarapo de verde claro a caramelo oscuro y la liberación de un aroma intenso a panela.
   <!-- feedback: El cambio de color y la formación de nuevas sustancias aromáticas son evidencias claras de una reacción química, porque se forman productos nuevos con propiedades diferentes a las del jugo original. -->
-- [ ] B) La ebullición del agua que contiene el guarapo al alcanzar los cien grados Celsius.
+- [ ] A) La ebullición del agua que contiene el guarapo al alcanzar los cien grados Celsius.
   <!-- feedback: Este es un cambio físico, porque solo cambia el estado del agua (de líquido a vapor), pero su composición química permanece igual. -->
-- [ ] C) El movimiento circular del guarapo en la paila producido por la fuerza del trabajador al mover el remo.
+- [ ] B) El movimiento circular del guarapo en la paila producido por la fuerza del trabajador al mover el remo.
   <!-- feedback: Esto corresponde a un cambio mecánico o de movimiento, no a una reacción química, porque no se forman sustancias nuevas. -->
-- [ ] D) La disolución del bagazo de caña en el agua al inicio del proceso de extracción del guarapo.
+- [ ] C) La disolución del bagazo de caña en el agua al inicio del proceso de extracción del guarapo.
   <!-- feedback: Aunque el bagazo se mezcla con el líquido, esto es una mezcla física, ya que las sustancias conservan su identidad química y pueden separarse por métodos físicos. -->
 
 ### Explicacion Pedagogica
@@ -57,13 +57,13 @@ Las reacciones químicas se caracterizan por la formación de sustancias nuevas 
 ¿Por qué la masa total de los productos en esta reacción es igual a la masa total de los reactantes, según la Ley de Conservación de la Masa de Lavoisier?
 
 ### Opciones
-- [x] A) Porque en una reacción química los átomos de los reactantes se reorganizan para formar los productos, sin crearse ni destruirse.
+- [x] D) Porque en una reacción química los átomos de los reactantes se reorganizan para formar los productos, sin crearse ni destruirse.
   <!-- feedback: Correcto. La ley de Lavoisier establece que la materia no se crea ni se destruye, solo se transforma, por lo tanto la masa total se conserva en cualquier sistema cerrado. -->
-- [ ] B) Porque el gas que se escapa durante la reacción tiene un peso insignificante que no afecta la masa total.
+- [ ] A) Porque el gas que se escapa durante la reacción tiene un peso insignificante que no afecta la masa total.
   <!-- feedback: Incorrecto. Aunque el gas escapa, si el sistema estuviera cerrado la masa se conservaría; la conservación no depende de que el gas permanezca visible en el recipiente. -->
-- [ ] C) Porque la balanza usada por la cocinera tiene una precisión limitada y no detecta diferencias pequeñas.
+- [ ] B) Porque la balanza usada por la cocinera tiene una precisión limitada y no detecta diferencias pequeñas.
   <!-- feedback: Incorrecto. La ley de conservación se cumple exactamente a nivel atómico, independientemente de la sensibilidad del instrumento de medición que se emplee. -->
-- [ ] D) Porque el vinagre y el bicarbonato son la misma sustancia en diferentes estados físicos.
+- [ ] C) Porque el vinagre y el bicarbonato son la misma sustancia en diferentes estados físicos.
   <!-- feedback: Incorrecto. El vinagre (ácido acético) y el bicarbonato (hidrogenocarbonato de sodio) son sustancias diferentes con propiedades químicas claramente distintas. -->
 
 ### Explicacion Pedagogica
@@ -80,13 +80,13 @@ La Ley de Conservación de la Masa, formulada por Antoine Lavoisier en 1789, est
 ¿Cuál de las siguientes ecuaciones químicas representa correctamente una reacción de descomposición?
 
 ### Opciones
-- [x] A) 2H₂O → 2H₂ + O₂
+- [x] D) 2H₂O → 2H₂ + O₂
   <!-- feedback: Correcto. Una reacción de descomposición es aquella en la que un solo reactante se descompone en dos o más productos, como ocurre en esta electrólisis del agua. -->
-- [ ] B) 2H₂ + O₂ → 2H₂O
+- [ ] A) 2H₂ + O₂ → 2H₂O
   <!-- feedback: Incorrecto. Esta es una reacción de síntesis o combinación, donde dos o más reactantes se unen para formar un único producto. -->
-- [ ] C) Zn + 2HCl → ZnCl₂ + H₂
+- [ ] B) Zn + 2HCl → ZnCl₂ + H₂
   <!-- feedback: Incorrecto. Esta es una reacción de sustitución simple, donde un elemento libre reemplaza a otro en un compuesto. -->
-- [ ] D) NaCl + AgNO₃ → AgCl + NaNO₃
+- [ ] C) NaCl + AgNO₃ → AgCl + NaNO₃
   <!-- feedback: Incorrecto. Esta es una reacción de doble sustitución o doble desplazamiento, donde hay intercambio de iones entre dos compuestos. -->
 
 ### Explicacion Pedagogica
@@ -103,11 +103,11 @@ Las reacciones químicas se clasifican según cómo se transforman las sustancia
 ¿Qué masa de dióxido de carbono (CO₂) se produce al combinar completamente doce gramos de carbono con treinta y dos gramos de oxígeno, según la Ley de Conservación de la Masa?
 
 ### Opciones
-- [x] A) Cuarenta y cuatro gramos de CO₂, porque la masa total de los reactantes se conserva en los productos.
+- [x] C) Cuarenta y cuatro gramos de CO₂, porque la masa total de los reactantes se conserva en los productos.
   <!-- feedback: Correcto. Aplicando la Ley de Conservación de la Masa: masa de productos = masa de reactantes = 12 g + 32 g = 44 g de CO₂. -->
-- [ ] B) Veinte gramos de CO₂, porque parte de la masa se pierde como calor durante la reacción.
+- [ ] A) Veinte gramos de CO₂, porque parte de la masa se pierde como calor durante la reacción.
   <!-- feedback: Incorrecto. La masa no se pierde como calor; el calor es una forma de energía y la masa se conserva en cualquier sistema cerrado. -->
-- [ ] C) Cincuenta y seis gramos de CO₂, porque la masa de los productos es mayor que la de los reactantes por la energía liberada.
+- [ ] B) Cincuenta y seis gramos de CO₂, porque la masa de los productos es mayor que la de los reactantes por la energía liberada.
   <!-- feedback: Incorrecto. La energía liberada durante una reacción exotérmica no se convierte en masa adicional dentro del sistema. -->
 - [ ] D) Veinticuatro gramos de CO₂, porque solo el carbono aporta masa al producto final.
   <!-- feedback: Incorrecto. El oxígeno también aporta masa al producto final; el CO₂ contiene un átomo de carbono y dos de oxígeno. -->
@@ -126,9 +126,9 @@ Según la Ley de Conservación de la Masa (Lavoisier), en cualquier reacción qu
 La reacción CaO + H₂O → Ca(OH)₂ que ocurre en el clarificado del guarapo en el trapiche panelero, ¿qué tipo de reacción química representa?
 
 ### Opciones
-- [x] A) Una reacción de síntesis o combinación, ya que dos reactantes se unen para formar un solo producto.
+- [x] B) Una reacción de síntesis o combinación, ya que dos reactantes se unen para formar un solo producto.
   <!-- feedback: Correcto. El óxido de calcio y el agua se combinan para formar un único producto, el hidróxido de calcio, característico de una síntesis. -->
-- [ ] B) Una reacción de descomposición, porque un compuesto se separa en dos sustancias más simples.
+- [ ] A) Una reacción de descomposición, porque un compuesto se separa en dos sustancias más simples.
   <!-- feedback: Incorrecto. En la descomposición un reactante se divide en productos; aquí ocurre lo contrario, dos sustancias se unen. -->
 - [ ] C) Una reacción de sustitución simple, porque el calcio reemplaza al hidrógeno en la molécula de agua.
   <!-- feedback: Incorrecto. En la sustitución simple un elemento libre reemplaza a otro en un compuesto; aquí los dos reactantes se combinan entre sí. -->
@@ -149,11 +149,11 @@ En el proceso CaO + H₂O → Ca(OH)₂, dos reactantes (CaO y H₂O) se combina
 Para balancear correctamente la ecuación de combustión del metano CH₄ + O₂ → CO₂ + H₂O, ¿cuáles son los coeficientes estequiométricos correctos?
 
 ### Opciones
-- [x] A) 1, 2, 1, 2: CH₄ + 2O₂ → CO₂ + 2H₂O
+- [x] C) 1, 2, 1, 2: CH₄ + 2O₂ → CO₂ + 2H₂O
   <!-- feedback: Correcto. Hay un carbono a cada lado, cuatro hidrógenos a cada lado (4 = 2×2) y cuatro oxígenos a cada lado (2×2 = 2 + 2), cumpliendo la conservación de la masa. -->
-- [ ] B) 1, 1, 1, 1: CH₄ + O₂ → CO₂ + H₂O
+- [ ] A) 1, 1, 1, 1: CH₄ + O₂ → CO₂ + H₂O
   <!-- feedback: Incorrecto. Esta ecuación no está balanceada: hay cuatro hidrógenos en reactantes pero solo dos en productos, y dos oxígenos en reactantes contra tres en productos. -->
-- [ ] C) 2, 1, 1, 2: 2CH₄ + O₂ → CO₂ + 2H₂O
+- [ ] B) 2, 1, 1, 2: 2CH₄ + O₂ → CO₂ + 2H₂O
   <!-- feedback: Incorrecto. Aunque hay dos carbonos y cuatro hidrógenos en reactantes, solo hay un carbono y cuatro hidrógenos en productos, y solo dos oxígenos contra cuatro en productos. -->
 - [ ] D) 1, 2, 2, 1: CH₄ + 2O₂ → 2CO₂ + H₂O
   <!-- feedback: Incorrecto. Hay un carbono en reactantes pero dos carbonos en productos, y cuatro hidrógenos en reactantes contra dos en productos; no está balanceada. -->
@@ -172,9 +172,9 @@ Para balancear una ecuación química se ajustan los coeficientes estequiométri
 ¿Cuál es el gas responsable de las burbujas observadas al reaccionar la pastilla efervescente con el vinagre, según la reacción NaHCO₃ + CH₃COOH → CH₃COONa + H₂O + CO₂?
 
 ### Opciones
-- [x] A) Dióxido de carbono (CO₂), un gas incoloro que se libera como producto de la reacción.
+- [x] B) Dióxido de carbono (CO₂), un gas incoloro que se libera como producto de la reacción.
   <!-- feedback: Correcto. El CO₂ es el gas que se libera y produce las burbujas características de las pastillas efervescentes al reaccionar con el vinagre. -->
-- [ ] B) Hidrógeno (H₂), un gas inflamable que se libera durante la reacción ácida.
+- [ ] A) Hidrógeno (H₂), un gas inflamable que se libera durante la reacción ácida.
   <!-- feedback: Incorrecto. En esta reacción no se libera hidrógeno; el hidrógeno presente en los reactantes pasa a formar parte del agua. -->
 - [ ] C) Oxígeno (O₂), un gas necesario para que se produzca la efervescencia.
   <!-- feedback: Incorrecto. El oxígeno no es un producto de esta reacción; los productos son acetato de sodio, agua y CO₂. -->
@@ -195,9 +195,9 @@ En la reacción entre el bicarbonato de sodio (NaHCO₃) y el ácido acético de
 ¿Cuál de las siguientes ecuaciones químicas está correctamente balanceada, es decir, cumple con la Ley de Conservación de la Masa?
 
 ### Opciones
-- [x] A) 2Mg + O₂ → 2MgO
+- [x] B) 2Mg + O₂ → 2MgO
   <!-- feedback: Correcto. Hay dos átomos de magnesio a cada lado y dos átomos de oxígeno a cada lado, cumpliendo la conservación de la masa. -->
-- [ ] B) H₂ + O₂ → H₂O
+- [ ] A) H₂ + O₂ → H₂O
   <!-- feedback: Incorrecto. Hay dos hidrógenos a cada lado, pero dos oxígenos en reactantes contra un solo oxígeno en productos, por lo tanto no está balanceada. -->
 - [ ] C) Na + Cl₂ → NaCl₂
   <!-- feedback: Incorrecto. Aunque hay dos cloros a cada lado, hay un solo sodio a cada lado y la fórmula NaCl₂ no existe; debería escribirse 2Na + Cl₂ → 2NaCl. -->
@@ -218,13 +218,13 @@ Una ecuación química balanceada debe tener el mismo número de átomos de cada
 De los tres procesos observados en el trapiche, ¿cuál representa una reacción química y por qué?
 
 ### Opciones
-- [x] A) El proceso 2 (formación y retiro de espuma al hervir el guarapo), porque se forman sustancias nuevas como la caramelina que dan el color y aroma de la panela.
+- [x] D) El proceso 2 (formación y retiro de espuma al hervir el guarapo), porque se forman sustancias nuevas como la caramelina que dan el color y aroma de la panela.
   <!-- feedback: Correcto. Durante la cocción se producen reacciones de caramelización y pardeamiento no enzimático que transforman la sacarosa en sustancias diferentes, evidenciando un cambio químico. -->
-- [ ] B) El proceso 1 (trituración de la caña para extraer el guarapo), porque cambia la apariencia física de la caña.
+- [ ] A) El proceso 1 (trituración de la caña para extraer el guarapo), porque cambia la apariencia física de la caña.
   <!-- feedback: Incorrecto. La trituración es un cambio físico, ya que solo se separa el jugo del bagazo sin alterar la composición química de las sustancias originales. -->
-- [ ] C) El proceso 3 (secado del bagazo al sol), porque cambia el color del bagazo con el paso de las horas.
+- [ ] B) El proceso 3 (secado del bagazo al sol), porque cambia el color del bagazo con el paso de las horas.
   <!-- feedback: Incorrecto. El secado es un cambio físico por evaporación del agua; no se forman nuevas sustancias químicas durante este proceso. -->
-- [ ] D) Los tres procesos son cambios físicos, porque ninguno altera la composición química de la caña.
+- [ ] C) Los tres procesos son cambios físicos, porque ninguno altera la composición química de la caña.
   <!-- feedback: Incorrecto. Durante la cocción del guarapo sí ocurren cambios químicos, como la formación de caramelina y la liberación de nuevos aromas durante el desarrollo. -->
 
 ### Explicacion Pedagogica
@@ -241,9 +241,9 @@ Para distinguir entre un cambio físico y un cambio químico se debe observar si
 La reacción Fe + O₂ + H₂O → Fe(OH)₃ representa la oxidación del hierro. ¿Qué tipo de reacción es y qué evidencia química lo sustenta?
 
 ### Opciones
-- [x] A) Es una reacción de síntesis donde varios reactantes se combinan para formar un solo producto, evidenciado por la aparición de una capa rojiza nueva.
+- [x] B) Es una reacción de síntesis donde varios reactantes se combinan para formar un solo producto, evidenciado por la aparición de una capa rojiza nueva.
   <!-- feedback: Correcto. Es una síntesis: tres reactantes (Fe, O₂ y H₂O) forman un único producto (Fe(OH)₃); la formación de la capa rojiza evidencia el cambio químico. -->
-- [ ] B) Es una reacción de descomposición porque el hierro se descompone en sus componentes básicos.
+- [ ] A) Es una reacción de descomposición porque el hierro se descompone en sus componentes básicos.
   <!-- feedback: Incorrecto. En la descomposición un reactante se divide en productos; aquí ocurre lo contrario, varios reactantes forman un producto. -->
 - [ ] C) Es una reacción de sustitución simple donde el oxígeno reemplaza al hierro en el metal.
   <!-- feedback: Incorrecto. La sustitución simple involucra un elemento libre que reemplaza a otro en un compuesto, lo cual no aplica en este caso. -->
@@ -264,13 +264,13 @@ La oxidación del hierro en presencia de agua y oxígeno es una reacción de sí
 Si ambos grupos queman cinco gramos de magnesio y obtienen 8,33 gramos de MgO cada uno, ¿qué análisis se puede hacer sobre la conservación de la masa y la completitud de la reacción?
 
 ### Opciones
-- [x] A) Los 8,33 gramos corresponden a la suma de los cinco gramos de Mg más el oxígeno incorporado (3,33 gramos), demostrando la conservación de la masa y sugiriendo que la reacción fue completa.
+- [x] D) Los 8,33 gramos corresponden a la suma de los cinco gramos de Mg más el oxígeno incorporado (3,33 gramos), demostrando la conservación de la masa y sugiriendo que la reacción fue completa.
   <!-- feedback: Correcto. La masa del MgO es mayor que la del Mg porque se incorporó oxígeno del aire, cumpliéndose la conservación de la masa y sugiriendo reacción cuantitativa. -->
-- [ ] B) Los 8,33 gramos deberían ser exactamente cinco gramos, porque la masa del producto debe ser igual a la del reactante puro.
+- [ ] A) Los 8,33 gramos deberían ser exactamente cinco gramos, porque la masa del producto debe ser igual a la del reactante puro.
   <!-- feedback: Incorrecto. La masa del producto incluye la masa del oxígeno incorporado; por eso es mayor que la del magnesio original. -->
-- [ ] C) Los resultados no son confiables porque ambos grupos deberían haber obtenido masas diferentes por errores experimentales inevitables.
+- [ ] B) Los resultados no son confiables porque ambos grupos deberían haber obtenido masas diferentes por errores experimentales inevitables.
   <!-- feedback: Incorrecto. La concordancia entre los dos grupos es un indicador de reproducibilidad, no de desconfianza; los errores aleatorios se distribuyen estadísticamente. -->
-- [ ] D) Los 8,33 gramos demuestran que se creó materia durante la reacción, contradiciendo la Ley de Conservación de la Masa.
+- [ ] C) Los 8,33 gramos demuestran que se creó materia durante la reacción, contradiciendo la Ley de Conservación de la Masa.
   <!-- feedback: Incorrecto. No se creó materia; el oxígeno del entorno se combinó con el magnesio, por eso el sistema abierto tiene mayor masa final que el reactante. -->
 
 ### Explicacion Pedagogica
@@ -287,9 +287,9 @@ En este experimento el sistema está abierto, por lo que el oxígeno del aire se
 Considerando el proceso completo en el trapiche (extracción del guarapo, clarificación con cal, cocción con caramelización), ¿cuál es el análisis más completo sobre el rendimiento y la eficiencia global del proceso?
 
 ### Opciones
-- [x] A) El rendimiento no es del cien por ciento porque en cada etapa hay pérdidas: el bagazo retiene algo de jugo, parte del guarapo se evapora y reacciones secundarias producen subproductos no convertidos en panela.
+- [x] B) El rendimiento no es del cien por ciento porque en cada etapa hay pérdidas: el bagazo retiene algo de jugo, parte del guarapo se evapora y reacciones secundarias producen subproductos no convertidos en panela.
   <!-- feedback: Correcto. El rendimiento global es afectado por pérdidas físicas (evaporación, retención en bagazo) y por reacciones incompletas, lo cual es esperable en procesos reales. -->
-- [ ] B) El rendimiento debería ser exactamente del cien por ciento si las ecuaciones químicas estuvieran bien balanceadas.
+- [ ] A) El rendimiento debería ser exactamente del cien por ciento si las ecuaciones químicas estuvieran bien balanceadas.
   <!-- feedback: Incorrecto. El balanceo de ecuaciones garantiza la conservación de la masa en la reacción química, pero no que el proceso industrial sea cien por ciento eficiente. -->
 - [ ] C) El rendimiento depende únicamente del tipo de reacción química que ocurre durante la cocción.
   <!-- feedback: Incorrecto. El rendimiento depende de múltiples factores: eficiencia de extracción, pérdidas térmicas, impurezas y calidad de la caña, no solo del tipo de reacción. -->

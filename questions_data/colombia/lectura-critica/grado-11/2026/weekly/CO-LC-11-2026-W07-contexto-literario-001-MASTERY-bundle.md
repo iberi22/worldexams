@@ -34,11 +34,11 @@ Relación entre la producción literaria, la historia colombiana y la sociedad.
 ¿De qué manera Ospina interpreta el intento de dominación europea sobre la geografía americana?
 
 ### Opciones
-- [x] A) Como un encuentro trágico donde la codicia metropolitana chocó contra la desmesura indómita de un continente que no se dejó asimilar fácilmente.
+- [x] C) Como un encuentro trágico donde la codicia metropolitana chocó contra la desmesura indómita de un continente que no se dejó asimilar fácilmente.
   <!-- feedback: Ospina analiza la Conquista como la fascinación y el espanto de Europa ante un mundo cuya desmesura desbordaba sus categorías mentales. -->
-- [ ] B) Como una pacífica expedición científica aprobada por las universidades de Madrid y París.
+- [ ] A) Como una pacífica expedición científica aprobada por las universidades de Madrid y París.
   <!-- feedback: Ospina subraya la violencia, el delirio de la búsqueda del Dorado y la destrucción ambiental. -->
-- [ ] C) Demuestra que la canela era el único producto agrícola exportado desde la costa Caribe en el siglo XVI.
+- [ ] B) Demuestra que la canela era el único producto agrícola exportado desde la costa Caribe en el siglo XVI.
   <!-- feedback: La canela es un símbolo poético y mítico de la codicia que impulsó las expediciones trágicas. -->
 - [ ] D) Afirma que los conquistadores españoles renunciaron a sus armas para convertirse en poetas indígenas.
   <!-- feedback: Muestra la brutalidad militar y el choque trágico entre ambas cosmovisiones. -->
@@ -80,9 +80,9 @@ Arnoldo Palacios consagró la literatura afrocolombiana al narrar con realismo d
 ¿Qué significado político y literario tuvo la obra de Candelario Obeso en el siglo XIX colombiano?
 
 ### Opciones
-- [x] A) Dignificó la voz del afrodescendiente al convertir su dialecto y sus dolores en materia poética soberana dentro de un canon clasista.
+- [x] B) Dignificó la voz del afrodescendiente al convertir su dialecto y sus dolores en materia poética soberana dentro de un canon clasista.
   <!-- feedback: Obeso rompió el elitismo bogotano al darle estatus literario al habla popular de los bogas y trabajadores del río. -->
-- [ ] B) Exigió la prohibición de las canciones populares en los barcos de vapor del río Magdalena.
+- [ ] A) Exigió la prohibición de las canciones populares en los barcos de vapor del río Magdalena.
   <!-- feedback: Obeso celebró y perennizó precisamente los cantos y sentimientos de los navegantes afrocolombianos. -->
 - [ ] C) Demuestra que los bogas del río eran frailes franciscanos dedicados al rezo del rosario.
   <!-- feedback: Eran hombres libres y trabajadores del río cuya fuerza movía el comercio de la nación. -->
@@ -103,11 +103,11 @@ Candelario Obeso fue el pionero de la lírica afrocolombiana al otorgar valor es
 ¿Qué aporte metodológico hizo Gutiérrez de Pineda a las ciencias sociales y la literatura testimonial en Colombia?
 
 ### Opciones
-- [x] A) Mapeó la diversidad de tipologías familiares (andina, santandereana, costeña y negra) superando la visión homogeneizadora de la nación.
+- [x] C) Mapeó la diversidad de tipologías familiares (andina, santandereana, costeña y negra) superando la visión homogeneizadora de la nación.
   <!-- feedback: Su investigación demostró que Colombia posee múltiples complejos culturales con dinámicas familiares y de género diversas. -->
-- [ ] B) Afirmó que en Colombia existía un único modelo de familia idéntico desde La Guajira hasta el Amazonas.
+- [ ] A) Afirmó que en Colombia existía un único modelo de familia idéntico desde La Guajira hasta el Amazonas.
   <!-- feedback: Precisamente destruyó ese mito al revelar la inmensa diversidad regional del país. -->
-- [ ] C) Prohibió el matrimonio civil en todas las provincias de la República.
+- [ ] B) Prohibió el matrimonio civil en todas las provincias de la República.
   <!-- feedback: Su trabajo fue un riguroso estudio antropológico y sociológico, no un código legislativo. -->
 - [ ] D) Demuestra que la sociología debe prescindir de las entrevistas a mujeres campesinas.
   <!-- feedback: Involucró la voz de las mujeres campesinas y populares como fuente primaria indiscutible. -->
@@ -126,13 +126,13 @@ Virginia Gutiérrez de Pineda revolucionó la antropología nacional al revelar 
 ¿Qué actitud estética y generacional definió al Nadaísmo en la Colombia de los años sesenta?
 
 ### Opciones
-- [x] A) Un espíritu inconformista, desacralizador e iconoclasta que buscó escandalizar a la sociedad burguesa y renovar la poesía.
+- [x] D) Un espíritu inconformista, desacralizador e iconoclasta que buscó escandalizar a la sociedad burguesa y renovar la poesía.
   <!-- feedback: El Nadaísmo (Gonzalo Arango, Jotamario, Eduardo Escobar) combatió la solemnidad retórica y la hipocresía política de la época. -->
-- [ ] B) La defensa ferviente del retorno a la literatura colonial escrita en latín.
+- [ ] A) La defensa ferviente del retorno a la literatura colonial escrita en latín.
   <!-- feedback: El Nadaísmo fue abiertamente antiacadémico y enemigo del conservadurismo ideológico. -->
-- [ ] C) La propuesta de convertir los museos de arte en sucursales bancarias internacionales.
+- [ ] B) La propuesta de convertir los museos de arte en sucursales bancarias internacionales.
   <!-- feedback: Buscaban vitalizar el arte fuera de los templos académicos, no la comercialización bancaria. -->
-- [ ] D) El apoyo incondicional a los partidos políticos tradicionales durante el Frente Nacional.
+- [ ] C) El apoyo incondicional a los partidos políticos tradicionales durante el Frente Nacional.
   <!-- feedback: El Nadaísmo nació precisamente como respuesta de asfixia ante el pacto bipartidista del Frente Nacional. -->
 
 ### Explicacion Pedagogica
@@ -149,13 +149,13 @@ El Nadaísmo convulsionó la cultura colombiana al cuestionar con humor, provoca
 ¿De qué manera las guerras entre liberales y conservadores afectaron la consolidación del Estado-nación en Colombia?
 
 ### Opciones
-- [x] A) Fragmentaron el territorio en lealtades regionales sectarias e impidieron la creación de un monopolio legítimo de la fuerza y la identidad común.
+- [x] D) Fragmentaron el territorio en lealtades regionales sectarias e impidieron la creación de un monopolio legítimo de la fuerza y la identidad común.
   <!-- feedback: Las contiendas del XIX impusieron la identidad de partido por encima de la identidad nacional, sembrando semillas de violencia recurrente. -->
-- [ ] B) Garantizaron un crecimiento económico acelerado que convirtió a Colombia en la primera potencia mundial.
+- [ ] A) Garantizaron un crecimiento económico acelerado que convirtió a Colombia en la primera potencia mundial.
   <!-- feedback: Las guerras del siglo XIX arruinaron la hacienda pública, destruyeron vías y paralizaron el comercio. -->
-- [ ] C) Lograron que todos los ciudadanos se afiliaran a un único partido político unificado.
+- [ ] B) Lograron que todos los ciudadanos se afiliaran a un único partido político unificado.
   <!-- feedback: Profundizaron la división sectaria entre las dos colectividades tradicionales. -->
-- [ ] D) Eliminaron el uso de las armas de fuego en todo el territorio nacional.
+- [ ] C) Eliminaron el uso de las armas de fuego en todo el territorio nacional.
   <!-- feedback: Las guerras se libraron con saña mediante levas forzosas y violencia fratricida. -->
 
 ### Explicacion Pedagogica
@@ -172,13 +172,13 @@ Las guerras civiles decimonónicas impidieron la consolidación de un Estado int
 ¿Qué importancia tiene incorporar la perspectiva femenina y doméstica en la reconstrucción del 9 de abril?
 
 ### Opciones
-- [x] A) Muestra el impacto del estallido social en la intimidad familiar, desmontando la épica masculina de la historia oficial.
+- [x] D) Muestra el impacto del estallido social en la intimidad familiar, desmontando la épica masculina de la historia oficial.
   <!-- feedback: Albalucía Ángel teje la historia política con la vivencia íntima del miedo, los saqueos y el despertar de la conciencia de clase. -->
-- [ ] B) Demuestra que el asesinato de Jorge Eliécer Gaitán no provocó ningún desorden en la capital.
+- [ ] A) Demuestra que el asesinato de Jorge Eliécer Gaitán no provocó ningún desorden en la capital.
   <!-- feedback: La obra registra la quema del centro de Bogotá, el pánico y el viraje trágico de la historia patria. -->
-- [ ] C) Sostiene que las mujeres de la capital celebraron con júbilo la destrucción de la ciudad.
+- [ ] B) Sostiene que las mujeres de la capital celebraron con júbilo la destrucción de la ciudad.
   <!-- feedback: Muestra el desconcierto, el encierro y el trauma de las familias ante la marea de violencia. -->
-- [ ] D) Transforma el 9 de abril en una fiesta infantil de cumpleaños sin mayor trascendencia.
+- [ ] C) Transforma el 9 de abril en una fiesta infantil de cumpleaños sin mayor trascendencia.
   <!-- feedback: Es una de las obras más lucidas sobre la fractura de la memoria urbana colombiana. -->
 
 ### Explicacion Pedagogica
@@ -195,9 +195,9 @@ Albalucía Ángel enriqueció la narrativa sobre El Bogotazo al entrelazar el ca
 ¿Qué concepto de tiempo y memoria histórica sostiene la arquitectura de esta epopeya?
 
 ### Opciones
-- [x] A) Un tiempo mítico y ancestral donde los muertos y los vivos (*Muntu*) luchan juntos en una continuidad histórica por la liberación.
+- [x] B) Un tiempo mítico y ancestral donde los muertos y los vivos (*Muntu*) luchan juntos en una continuidad histórica por la liberación.
   <!-- feedback: Zapata Olivella aplica la visión cosmogónica africana: la memoria de los antepasados alienta la resistencia de las generaciones presentes. -->
-- [ ] B) Una visión lineal eurocéntrica que considera que la historia de América comenzó en los bancos de Londres.
+- [ ] A) Una visión lineal eurocéntrica que considera que la historia de América comenzó en los bancos de Londres.
   <!-- feedback: La obra combate precisamente el eurocentrismo reivindicando la soberanía de la memoria negra. -->
 - [ ] C) Una cronología que niega la existencia del comercio de esclavos en el Caribe.
   <!-- feedback: La novela denuncia con sobrecogedora fuerza la barbarie del comercio negrero. -->
@@ -218,13 +218,13 @@ Albalucía Ángel enriqueció la narrativa sobre El Bogotazo al entrelazar el ca
 ¿Qué postura sobre la democracia y el pensamiento crítico defiende Estanislao Zuleta en este célebre texto?
 
 ### Opciones
-- [x] A) Defiende que la democracia requiere asumir el conflicto, la diferencia y el respeto por el otro sin caer en el dogmatismo ni en la búsqueda de paraísos autoritarios.
+- [x] D) Defiende que la democracia requiere asumir el conflicto, la diferencia y el respeto por el otro sin caer en el dogmatismo ni en la búsqueda de paraísos autoritarios.
   <!-- feedback: Zuleta sostiene que desear una sociedad sin contradicciones conduce al totalitarismo, proponiendo en cambio una convivencia madura en la diversidad. -->
-- [ ] B) Sugiere que los seres humanos deben evitar el pensamiento abstracto para no sufrir de dolores de cabeza.
+- [ ] A) Sugiere que los seres humanos deben evitar el pensamiento abstracto para no sufrir de dolores de cabeza.
   <!-- feedback: Zuleta elogia precisamente el esfuerzo intelectual y el rigor del pensamiento crítico. -->
-- [ ] C) Propone la abolición de las universidades para volver a la vida silvestre.
+- [ ] B) Propone la abolición de las universidades para volver a la vida silvestre.
   <!-- feedback: El autor fue un gran pedagogo e intelectual que promovió el amor por la filosofía y la lectura. -->
-- [ ] D) Afirma que la felicidad consiste en obedecer sin cuestionar a las autoridades de turno.
+- [ ] C) Afirma que la felicidad consiste en obedecer sin cuestionar a las autoridades de turno.
   <!-- feedback: Critica la servidumbre voluntaria y llama a pensar por cuenta propia con valentía. -->
 
 ### Explicacion Pedagogica
@@ -241,13 +241,13 @@ Estanislao Zuleta elogia la dificultad del pensamiento crítico y la democracia 
 ¿Qué rasgo distingue la desesperanza de Maqroll respecto al nihilismo destructivo?
 
 ### Opciones
-- [x] A) Es una desesperanza lúcida que no conduce al cinismo ni al abandono, sino a una serena fascinación por la belleza efímera del mundo.
+- [x] D) Es una desesperanza lúcida que no conduce al cinismo ni al abandono, sino a una serena fascinación por la belleza efímera del mundo.
   <!-- feedback: El Gaviero asume el fracaso inevitable de sus empresas sin perder la generosidad, el amor por la poesía y la fraternidad. -->
-- [ ] B) Es un deseo desmedido de acumular riquezas para comprar títulos nobiliarios en Europa.
+- [ ] A) Es un deseo desmedido de acumular riquezas para comprar títulos nobiliarios en Europa.
   <!-- feedback: Maqroll es ajeno a la codicia vulgar y abandona el dinero con la misma facilidad con que lo gana. -->
-- [ ] C) Demuestra que el personaje era un agente secreto al servicio de una potencia militar.
+- [ ] B) Demuestra que el personaje era un agente secreto al servicio de una potencia militar.
   <!-- feedback: Maqroll es un nómada apátrida que huye de las banderas y las instituciones formales. -->
-- [ ] D) Sustituye la literatura por un tratado sobre el cultivo del café en el trópico.
+- [ ] C) Sustituye la literatura por un tratado sobre el cultivo del café en el trópico.
   <!-- feedback: Su diario es una meditación poética sobre el tiempo, los puertos y la soledad. -->
 
 ### Explicacion Pedagogica
@@ -264,9 +264,9 @@ La desesperanza en la obra de Álvaro Mutis es una categoría poética: la lucid
 ¿Qué elemento de la comedia social y la sátira política utiliza Salom Becerra en su novela?
 
 ### Opciones
-- [x] A) La caricaturización de la mezquindad del empleado público que busca ascender mediante la adulación a los políticos de turno.
+- [x] B) La caricaturización de la mezquindad del empleado público que busca ascender mediante la adulación a los políticos de turno.
   <!-- feedback: Salom Becerra retrata con humor amargo las miserias del "tinterillo" y las trampas del clientelismo en la capital. -->
-- [ ] B) La exaltación poética de las virtudes de los ministros y senadores de la época.
+- [ ] A) La exaltación poética de las virtudes de los ministros y senadores de la época.
   <!-- feedback: La obra es una sátira feroz contra la corrupción y la vanidad de la clase política. -->
 - [ ] C) Demuestra que los empleados públicos bogotanos eran héroes de la literatura de ciencia ficción.
   <!-- feedback: La novela se enmarca en un realismo satírico y costumbrista urbano. -->
@@ -287,11 +287,11 @@ La desesperanza en la obra de Álvaro Mutis es una categoría poética: la lucid
 ¿Qué aporte hizo Meira Delmar a la lírica femenina colombiana del siglo XX?
 
 ### Opciones
-- [x] A) Consolidó una poética del intimismo, la memoria de la inmigración y el paisaje marino con un manejo magistral del tono lírico.
+- [x] C) Consolidó una poética del intimismo, la memoria de la inmigración y el paisaje marino con un manejo magistral del tono lírico.
   <!-- feedback: Meira Delmar es la voz poética por excelencia de Barranquilla, combinando la luz del Caribe con el silencio de la melancolía. -->
-- [ ] B) Exigió la prohibición de escribir poemas sobre el mar en la literatura nacional.
+- [ ] A) Exigió la prohibición de escribir poemas sobre el mar en la literatura nacional.
   <!-- feedback: El mar es el espacio poético recurrente en su obra, símbolo de libertad y nostalgia. -->
-- [ ] C) Demuestra que los poetas costeños no debían publicar sus obras en libros impresos.
+- [ ] B) Demuestra que los poetas costeños no debían publicar sus obras en libros impresos.
   <!-- feedback: Publicó varios de los poemarios más célebres y leídos de la poesía colombiana. -->
 - [ ] D) Redujo la poesía a una colección de canciones de marcha militar.
   <!-- feedback: Su obra destaca por la delicadeza, la música sutil y la profundidad afectiva. -->
@@ -310,9 +310,9 @@ Meira Delmar enriqueció la lírica colombiana al hermanar la luz del Caribe con
 ¿Qué provocación estética e ideológica plantea el discurso del narrador en *La virgen de los sicarios*?
 
 ### Opciones
-- [x] A) Invectiva con lenguaje refinado e incisivo contra la degradación de la ciudad, el estallido de la violencia y la descomposición del Estado.
+- [x] B) Invectiva con lenguaje refinado e incisivo contra la degradación de la ciudad, el estallido de la violencia y la descomposición del Estado.
   <!-- feedback: Vallejo utiliza un tono nihilista, sarcástico y lírico para retratar la orgía de muerte y la pérdida de futuro de los jóvenes de Medellín. -->
-- [ ] B) Defiende que la violencia en Medellín fue una invención de los periódicos extranjeros.
+- [ ] A) Defiende que la violencia en Medellín fue una invención de los periódicos extranjeros.
   <!-- feedback: La novela muestra la presencia cotidiana del asesinato, el narcotráfico y las comunas. -->
 - [ ] C) Propone la creación de un comité de aplausos para los gobernantes de la época.
   <!-- feedback: El narrador arremete con furia satírica contra políticos, jueces e instituciones. -->
@@ -333,13 +333,13 @@ Fernando Vallejo convulsionó la novela urbana al confrontar la belleza de la le
 ¿Qué papel jugó la preservación de la lengua y los ritos en la resistencia cimarrona durante la Colonia?
 
 ### Opciones
-- [x] A) Garantizó un espacio de soberanía espiritual y cohesión comunitaria que impidió la aculturación total impuesta por la esclavitud.
+- [x] D) Garantizó un espacio de soberanía espiritual y cohesión comunitaria que impidió la aculturación total impuesta por la esclavitud.
   <!-- feedback: Mantener los cantos, la partería y los vocablos sagrados fue el escudo simbólico con que los cimarrones preservaron su humanidad. -->
-- [ ] B) Demuestra que los esclavizados olvidaron su origen africano al desembarcar en Cartagena.
+- [ ] A) Demuestra que los esclavizados olvidaron su origen africano al desembarcar en Cartagena.
   <!-- feedback: La literatura afrodiaspórica demuestra la continuidad viva de las raíces africanas en América. -->
-- [ ] C) Señala que las lenguas africanas fueron adoptadas como idioma oficial por los virreyes españoles.
+- [ ] B) Señala que las lenguas africanas fueron adoptadas como idioma oficial por los virreyes españoles.
   <!-- feedback: Se mantuvieron en la clandestinidad de los palenques frente a la represión colonial. -->
-- [ ] D) Transforma la historia del cimarronaje en una comedia de enredos de salón.
+- [ ] C) Transforma la historia del cimarronaje en una comedia de enredos de salón.
   <!-- feedback: Es un testimonio de heroísmo, dolor y digna resistencia libertaria. -->
 
 ### Explicacion Pedagogica
@@ -356,13 +356,13 @@ La preservación clandestina de la lengua y los ritos ancestrales fue la piedra 
 ¿Qué hito marcó el paso de la narrativa costumbrista a la novela de crítica social moderna en Colombia?
 
 ### Opciones
-- [x] A) La superación del mero cuadro de costumbres pintoresco para indagar las estructuras de poder, la violencia y la psicología urbana.
+- [x] D) La superación del mero cuadro de costumbres pintoresco para indagar las estructuras de poder, la violencia y la psicología urbana.
   <!-- feedback: La novela dejó de conformarse con pintar vestidos y fiestas regionales para encarar los dramas del conflicto armado y la ciudad. -->
-- [ ] B) La prohibición de escribir obras literarias fuera de la ciudad de Bogotá.
+- [ ] A) La prohibición de escribir obras literarias fuera de la ciudad de Bogotá.
   <!-- feedback: La novela colombiana moderna floreció precisamente en las regiones (Caribe, Valle, Antioquia). -->
-- [ ] C) El abandono del idioma español para escribir únicamente en latín.
+- [ ] B) El abandono del idioma español para escribir únicamente en latín.
   <!-- feedback: Consolidó una prosa propia enriquecida por la oralidad y el léxico nacional. -->
-- [ ] D) La sustitución de los libros impresos por boletines oficiales de prensa.
+- [ ] C) La sustitución de los libros impresos por boletines oficiales de prensa.
   <!-- feedback: La novela se afirmó como la forma estética soberana de interpretación del país. -->
 
 ### Explicacion Pedagogica
@@ -448,9 +448,9 @@ La literatura antioqueña de transición registró las contradicciones morales p
 ¿Qué aporta la poesía del Caribe de las sabanas a la diversidad de la lírica colombiana?
 
 ### Opciones
-- [x] A) Una mirada que une la sensualidad de la naturaleza fluvial, la memoria campesina y una profunda reflexión filosófica sobre el tiempo.
+- [x] B) Una mirada que une la sensualidad de la naturaleza fluvial, la memoria campesina y una profunda reflexión filosófica sobre el tiempo.
   <!-- feedback: Bustos Aguirre y García Usta demuestran que la poética del Caribe va más allá del mar para indagar el río, la yuca, el mito y la metafísica. -->
-- [ ] B) La exigencia de que todos los poemas sean acompañados por bailes de cumbia obligatorios.
+- [ ] A) La exigencia de que todos los poemas sean acompañados por bailes de cumbia obligatorios.
   <!-- feedback: Su poesía es de alta densidad reflexiva, meditativa y de refinada elaboración verbal. -->
 - [ ] C) La afirmación de que el Caribe es una región sin historia ni tradiciones poéticas.
   <!-- feedback: Reivindican la herencia de una zona de inmensa riqueza cultural e intelectual. -->
@@ -471,11 +471,11 @@ La lírica del Caribe sabanero enriquece la poesía nacional al fusionar la memo
 ¿Qué juicio crítico justifica considerar a la literatura colombiana como una reserva de memoria histórica?
 
 ### Opciones
-- [x] A) Porque ha registrado las voces de las víctimas, las subjetividades censuradas y las contradicciones que la historia oficial suele silenciar.
+- [x] C) Porque ha registrado las voces de las víctimas, las subjetividades censuradas y las contradicciones que la historia oficial suele silenciar.
   <!-- feedback: Frente a los relatos oficiales, la literatura colombiana ha sido el refugio de la verdad poética, el trauma colectivo y la búsqueda de justicia. -->
-- [ ] B) Porque los libros de literatura son los únicos documentos admitidos por los jueces en los tribunales.
+- [ ] A) Porque los libros de literatura son los únicos documentos admitidos por los jueces en los tribunales.
   <!-- feedback: Su valor no es procesal penal sino ético, estético y de memoria identitaria. -->
-- [ ] C) Porque demuestra que en Colombia no han existido momentos de conflicto o sufrimiento.
+- [ ] B) Porque demuestra que en Colombia no han existido momentos de conflicto o sufrimiento.
   <!-- feedback: Precisamente ha sido el testimonio más sobrecogedor y lucido de nuestras tragedias. -->
 - [ ] D) Porque reemplaza la necesidad de contar con escuelas y universidades en el país.
   <!-- feedback: Nutre la educación cívica y la formación de ciudadanos reflexivos e imparciales. -->

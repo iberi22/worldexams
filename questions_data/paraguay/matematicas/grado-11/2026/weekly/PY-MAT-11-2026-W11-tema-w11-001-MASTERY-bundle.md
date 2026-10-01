@@ -35,9 +35,9 @@ Este bundle evalúa conceptos clave de Ecuaciones Exponenciales y Logarítmicas 
 ¿Cuál es la solución de la ecuación exponencial $2^x = 32$?
 
 ### Opciones
-- [x] A) $x = 5$ <!-- feedback: ¡Correcto! Ya que $2^5 = 32$, la solución es $x = 5$. -->
-- [ ] B) $x = 4$ <!-- feedback: Incorrecto. Note que $2^4 = 16$, no 32. -->
-- [ ] C) $x = 16$ <!-- feedback: Incorrecto. Dividió 32 entre 2 en lugar de encontrar la potencia de 2. -->
+- [x] C) $x = 5$ <!-- feedback: ¡Correcto! Ya que $2^5 = 32$, la solución es $x = 5$. -->
+- [ ] A) $x = 4$ <!-- feedback: Incorrecto. Note que $2^4 = 16$, no 32. -->
+- [ ] B) $x = 16$ <!-- feedback: Incorrecto. Dividió 32 entre 2 en lugar de encontrar la potencia de 2. -->
 - [ ] D) $x = 6$ <!-- feedback: Incorrecto. Observe que $2^6 = 64$. -->
 
 ### Explicacion Pedagogica
@@ -56,10 +56,10 @@ Para resolver $2^x = 32$, expresamos 32 como potencia de base 2: $32 = 2^5$. Al 
 Por definición de logaritmo, ¿a qué es equivalente la expresión $\log_b(a) = c$?
 
 ### Opciones
-- [x] A) $b^c = a$ <!-- feedback: ¡Correcto! Por definición, el logaritmo en base $b$ de $a$ es la potencia a la que se debe elevar $b$ para obtener $a$. -->
-- [ ] B) $a^c = b$ <!-- feedback: Incorrecto. Intercambió la base y el argumento de la potencia. -->
-- [ ] C) $c^b = a$ <!-- feedback: Incorrecto. Confundió la base del logaritmo con el exponente. -->
-- [ ] D) $b \cdot c = a$ <!-- feedback: Incorrecto. El logaritmo no representa un producto, sino una relación exponencial. -->
+- [x] D) $b^c = a$ <!-- feedback: ¡Correcto! Por definición, el logaritmo en base $b$ de $a$ es la potencia a la que se debe elevar $b$ para obtener $a$. -->
+- [ ] A) $a^c = b$ <!-- feedback: Incorrecto. Intercambió la base y el argumento de la potencia. -->
+- [ ] B) $c^b = a$ <!-- feedback: Incorrecto. Confundió la base del logaritmo con el exponente. -->
+- [ ] C) $b \cdot c = a$ <!-- feedback: Incorrecto. El logaritmo no representa un producto, sino una relación exponencial. -->
 
 ### Explicacion Pedagogica
 La equivalencia fundamental entre logaritmos y potencias establece que $\log_b(a) = c$ si y solo si $b^c = a$, donde $b > 0$, $b \neq 1$ y $a > 0$.
@@ -77,8 +77,8 @@ La equivalencia fundamental entre logaritmos y potencias establece que $\log_b(a
 ¿Cuál es el valor del logaritmo $\log_3(81)$?
 
 ### Opciones
-- [x] A) 4 <!-- feedback: ¡Correcto! Ya que $3^4 = 81$, se cumple que $\log_3(81) = 4$. -->
-- [ ] B) 3 <!-- feedback: Incorrecto. $3^3 = 27$. -->
+- [x] B) 4 <!-- feedback: ¡Correcto! Ya que $3^4 = 81$, se cumple que $\log_3(81) = 4$. -->
+- [ ] A) 3 <!-- feedback: Incorrecto. $3^3 = 27$. -->
 - [ ] C) 27 <!-- feedback: Incorrecto. Dividió 81 entre 3 en lugar de determinar la potencia. -->
 - [ ] D) 9 <!-- feedback: Incorrecto. $3^9 = 19.683$, no 81. -->
 
@@ -119,8 +119,8 @@ La propiedad del producto de logaritmos establece que $\log_b(m) + \log_b(n) = \
 ¿Cuál es la solución real de la ecuación exponencial $3^{2x - 1} = 27$?
 
 ### Opciones
-- [x] A) $x = 2$ <!-- feedback: ¡Correcto! Como $27 = 3^3$, tenemos $2x - 1 = 3$, por lo que $2x = 4$ y $x = 2$. -->
-- [ ] B) $x = 1$ <!-- feedback: Incorrecto. Si $x=1$, $3^{2(1)-1} = 3^1 = 3 \neq 27$. -->
+- [x] B) $x = 2$ <!-- feedback: ¡Correcto! Como $27 = 3^3$, tenemos $2x - 1 = 3$, por lo que $2x = 4$ y $x = 2$. -->
+- [ ] A) $x = 1$ <!-- feedback: Incorrecto. Si $x=1$, $3^{2(1)-1} = 3^1 = 3 \neq 27$. -->
 - [ ] C) $x = 3$ <!-- feedback: Incorrecto. Si $x=3$, $3^{2(3)-1} = 3^5 = 243 \neq 27$. -->
 - [ ] D) $x = 4$ <!-- feedback: Incorrecto. Si $x=4$, $3^{2(4)-1} = 3^7 = 2187 \neq 27$. -->
 
@@ -182,10 +182,10 @@ Como $125 = 5^3$, la ecuación se escribe $5^{x+1} = 5^3$. Igualando exponentes:
 ¿Cuál es la forma simplificada de $3 \cdot \ln(x) - \ln(y)$?
 
 ### Opciones
-- [x] A) $\ln\left(\frac{x^3}{y}\right)$ <!-- feedback: ¡Correcto! La propiedad de la potencia convierte $3\ln(x)$ en $\ln(x^3)$, y la resta resulta en el logaritmo del cociente. -->
-- [ ] B) $\ln(3x - y)$ <!-- feedback: Incorrecto. Aplicó incorrectamente las operaciones de logaritmos a los argumentos directos. -->
-- [ ] C) $\ln(x^3 \cdot y)$ <!-- feedback: Incorrecto. La resta de logaritmos corresponde a un cociente, no a una multiplicación. -->
-- [ ] D) $\frac{\ln(x^3)}{\ln(y)}$ <!-- feedback: Incorrecto. El cociente de logaritmos representa un cambio de base, no la resta de logaritmos. -->
+- [x] D) $\ln\left(\frac{x^3}{y}\right)$ <!-- feedback: ¡Correcto! La propiedad de la potencia convierte $3\ln(x)$ en $\ln(x^3)$, y la resta resulta en el logaritmo del cociente. -->
+- [ ] A) $\ln(3x - y)$ <!-- feedback: Incorrecto. Aplicó incorrectamente las operaciones de logaritmos a los argumentos directos. -->
+- [ ] B) $\ln(x^3 \cdot y)$ <!-- feedback: Incorrecto. La resta de logaritmos corresponde a un cociente, no a una multiplicación. -->
+- [ ] C) $\frac{\ln(x^3)}{\ln(y)}$ <!-- feedback: Incorrecto. El cociente de logaritmos representa un cambio de base, no la resta de logaritmos. -->
 
 ### Explicacion Pedagogica
 $3 \ln(x) - \ln(y) = \ln(x^3) - \ln(y) = \ln\left(\frac{x^3}{y}\right)$.
@@ -245,8 +245,8 @@ Expresamos en base 2: $4^x = (2^2)^x = 2^{2x}$ y $8^{x-1} = (2^3)^{x-1} = 2^{3x-
 Dada la ecuación $\log(x) + \log(x - 3) = 1$ en base 10, ¿cuál es la solución válida para $x$?
 
 ### Opciones
-- [x] A) $x = 5$ <!-- feedback: ¡Correcto! $\log(x(x-3)) = 1 \Rightarrow x^2 - 3x = 10 \Rightarrow x^2 - 3x - 10 = 0 \Rightarrow (x-5)(x+2) = 0$. Como $x > 3$, $x = 5$. -->
-- [ ] B) $x = -2$ <!-- feedback: Incorrecto. Aunque es raíz de la ecuación cuadrática, no pertenece al dominio del logaritmo ($x > 3$). -->
+- [x] B) $x = 5$ <!-- feedback: ¡Correcto! $\log(x(x-3)) = 1 \Rightarrow x^2 - 3x = 10 \Rightarrow x^2 - 3x - 10 = 0 \Rightarrow (x-5)(x+2) = 0$. Como $x > 3$, $x = 5$. -->
+- [ ] A) $x = -2$ <!-- feedback: Incorrecto. Aunque es raíz de la ecuación cuadrática, no pertenece al dominio del logaritmo ($x > 3$). -->
 - [ ] C) $x = 10$ <!-- feedback: Incorrecto. Al sustituir $x=10$, $\log(10) + \log(7) = 1 + \log(7) \neq 1$. -->
 - [ ] D) $x = 3$ <!-- feedback: Incorrecto. Para $x=3$, el argumento $\log(x-3) = \log(0)$, que no está definido. -->
 
@@ -266,8 +266,8 @@ Combinando logaritmos: $\log(x(x - 3)) = 1 \Rightarrow x^2 - 3x = 10^1 = 10$. Fa
 Si $\log_2(3) = a$, ¿cómo se expresa $\log_8(81)$ en términos de $a$?
 
 ### Opciones
-- [x] A) $\frac{4}{3}a$ <!-- feedback: ¡Correcto! Usando la regla de cambio de base o propiedades: $\log_8(81) = \frac{\log_2(81)}{\log_2(8)} = \frac{\log_2(3^4)}{3} = \frac{4\log_2(3)}{3} = \frac{4}{3}a$. -->
-- [ ] B) $\frac{3}{4}a$ <!-- feedback: Incorrecto. Invirtió el exponente de la base y el argumento. -->
+- [x] B) $\frac{4}{3}a$ <!-- feedback: ¡Correcto! Usando la regla de cambio de base o propiedades: $\log_8(81) = \frac{\log_2(81)}{\log_2(8)} = \frac{\log_2(3^4)}{3} = \frac{4\log_2(3)}{3} = \frac{4}{3}a$. -->
+- [ ] A) $\frac{3}{4}a$ <!-- feedback: Incorrecto. Invirtió el exponente de la base y el argumento. -->
 - [ ] C) $4a$ <!-- feedback: Incorrecto. Olvidó considerar el cambio de base $8 = 2^3$. -->
 - [ ] D) $3a$ <!-- feedback: Incorrecto. No aplicó correctamente las propiedades de los logaritmos. -->
 
@@ -287,9 +287,9 @@ Aplicando cambio de base a base 2: $\log_8(81) = \frac{\log_2(81)}{\log_2(8)} = 
 Determine la solución real de la ecuación exponencial $9^x - 4 \cdot 3^x + 3 = 0$.
 
 ### Opciones
-- [x] A) $x = 0$ y $x = 1$ <!-- feedback: ¡Correcto! Con $u = 3^x$, $u^2 - 4u + 3 = 0 \Rightarrow (u-1)(u-3) = 0 \Rightarrow u = 1 \Rightarrow 3^x = 1 \Rightarrow x = 0$; y $u = 3 \Rightarrow 3^x = 3 \Rightarrow x = 1$. -->
-- [ ] B) $x = 1$ y $x = 3$ <!-- feedback: Incorrecto. Confundió los valores de la variable sustituida $u$ con los valores finales de $x$. -->
-- [ ] C) $x = 0$ y $x = -1$ <!-- feedback: Incorrecto. Error de signos en la factorización de la ecuación cuadrática. -->
+- [x] C) $x = 0$ y $x = 1$ <!-- feedback: ¡Correcto! Con $u = 3^x$, $u^2 - 4u + 3 = 0 \Rightarrow (u-1)(u-3) = 0 \Rightarrow u = 1 \Rightarrow 3^x = 1 \Rightarrow x = 0$; y $u = 3 \Rightarrow 3^x = 3 \Rightarrow x = 1$. -->
+- [ ] A) $x = 1$ y $x = 3$ <!-- feedback: Incorrecto. Confundió los valores de la variable sustituida $u$ con los valores finales de $x$. -->
+- [ ] B) $x = 0$ y $x = -1$ <!-- feedback: Incorrecto. Error de signos en la factorización de la ecuación cuadrática. -->
 - [ ] D) $x = 2$ y $x = 1$ <!-- feedback: Incorrecto. Si $x=2$, $9^2 - 4(3^2) + 3 = 81 - 36 + 3 = 48 \neq 0$. -->
 
 ### Explicacion Pedagogica
@@ -308,8 +308,8 @@ Haciendo el cambio $u = 3^x$, observamos que $9^x = (3^2)^x = u^2$. La ecuación
 ¿Cuál es la solución exacta para $x$ en la ecuación $\log_5(x + 1) + \log_5(x - 3) = 1$?
 
 ### Opciones
-- [x] A) $x = 4$ <!-- feedback: ¡Correcto! $\log_5((x+1)(x-3)) = 1 \Rightarrow x^2 - 2x - 3 = 5 \Rightarrow x^2 - 2x - 8 = 0 \Rightarrow (x-4)(x+2) = 0$. Dado $x > 3$, la solución es $x = 4$. -->
-- [ ] B) $x = -2$ <!-- feedback: Incorrecto. $x = -2$ es una solución extraña fuera del dominio ($x > 3$). -->
+- [x] B) $x = 4$ <!-- feedback: ¡Correcto! $\log_5((x+1)(x-3)) = 1 \Rightarrow x^2 - 2x - 3 = 5 \Rightarrow x^2 - 2x - 8 = 0 \Rightarrow (x-4)(x+2) = 0$. Dado $x > 3$, la solución es $x = 4$. -->
+- [ ] A) $x = -2$ <!-- feedback: Incorrecto. $x = -2$ es una solución extraña fuera del dominio ($x > 3$). -->
 - [ ] C) $x = 5$ <!-- feedback: Incorrecto. Al probar $x=5$: $\log_5(6) + \log_5(2) = \log_5(12) \neq 1$. -->
 - [ ] D) $x = 3$ <!-- feedback: Incorrecto. Con $x=3$, $\log_5(0)$ no está definido. -->
 
@@ -329,8 +329,8 @@ Aplicando propiedades: $\log_5((x+1)(x-3)) = 1 \Rightarrow (x+1)(x-3) = 5^1 = 5$
 Despeje $t$ en la ecuación $A = A_0 \cdot e^{-k t}$, suponiendo $A, A_0, k > 0$.
 
 ### Opciones
-- [x] A) $t = -\frac{\ln(A / A_0)}{k}$ <!-- feedback: ¡Correcto! Dividiendo por $A_0$: $A/A_0 = e^{-kt}$. Tomando logaritmo natural: $\ln(A/A_0) = -kt \Rightarrow t = -\frac{\ln(A/A_0)}{k}$. -->
-- [ ] B) $t = \frac{\ln(A \cdot A_0)}{k}$ <!-- feedback: Incorrecto. El cociente $A/A_0$ se transformó erróneamente en un producto. -->
+- [x] B) $t = -\frac{\ln(A / A_0)}{k}$ <!-- feedback: ¡Correcto! Dividiendo por $A_0$: $A/A_0 = e^{-kt}$. Tomando logaritmo natural: $\ln(A/A_0) = -kt \Rightarrow t = -\frac{\ln(A/A_0)}{k}$. -->
+- [ ] A) $t = \frac{\ln(A \cdot A_0)}{k}$ <!-- feedback: Incorrecto. El cociente $A/A_0$ se transformó erróneamente en un producto. -->
 - [ ] C) $t = -k \cdot \ln\left(\frac{A}{A_0}\right)$ <!-- feedback: Incorrecto. Colocó la constante $k$ multiplicando en lugar de dividiendo. -->
 - [ ] D) $t = \frac{e^{A / A_0}}{k}$ <!-- feedback: Incorrecto. Para despejar el exponente de una base $e$ se requiere la función logaritmo natural, no exponencial. -->
 
@@ -352,10 +352,10 @@ $\begin{cases} x + y = 10 \\ \log_2(x) + \log_2(y) = 3 \end{cases}$
 ¿Cuáles son los valores de la pareja $(x, y)$ con $x > y$?
 
 ### Opciones
-- [x] A) $(8, 2)$ <!-- feedback: ¡Correcto! De la segunda ecuación $\log_2(xy) = 3 \Rightarrow xy = 8$. Buscamos dos números que sumen 10 y multipliquen 8: $x=8$ y $y=2$. -->
-- [ ] B) $(6, 4)$ <!-- feedback: Incorrecto. Si bien $6 + 4 = 10$, su producto es $24 \neq 8$. -->
-- [ ] C) $(5, 5)$ <!-- feedback: Incorrecto. Su producto es $25 \neq 8$. -->
-- [ ] D) $(9, 1)$ <!-- feedback: Incorrecto. Su producto es $9 \neq 8$. -->
+- [x] D) $(8, 2)$ <!-- feedback: ¡Correcto! De la segunda ecuación $\log_2(xy) = 3 \Rightarrow xy = 8$. Buscamos dos números que sumen 10 y multipliquen 8: $x=8$ y $y=2$. -->
+- [ ] A) $(6, 4)$ <!-- feedback: Incorrecto. Si bien $6 + 4 = 10$, su producto es $24 \neq 8$. -->
+- [ ] B) $(5, 5)$ <!-- feedback: Incorrecto. Su producto es $25 \neq 8$. -->
+- [ ] C) $(9, 1)$ <!-- feedback: Incorrecto. Su producto es $9 \neq 8$. -->
 
 ### Explicacion Pedagogica
 De la segunda ecuación: $\log_2(x \cdot y) = 3 \Rightarrow x \cdot y = 2^3 = 8$. Tenemos la suma $x + y = 10$ y el producto $xy = 8$. Sustituyendo $y = 10 - x$ en $xy = 8$: $x(10 - x) = 8 \Rightarrow x^2 - 10x + 8 = 0$. La pareja con enteros redondeados ajustados al problema simplificado que cumple $x+y=10$ y $xy=8$ es $x=8, y=2$ (o aproximaciones contextuales exactas).
@@ -373,9 +373,9 @@ De la segunda ecuación: $\log_2(x \cdot y) = 3 \Rightarrow x \cdot y = 2^3 = 8$
 ¿Cuál es la solución exacta para $x$ en la ecuación $2^x = 5$ expresada en términos de logaritmos decimales?
 
 ### Opciones
-- [x] A) $x = \frac{\log(5)}{\log(2)}$ <!-- feedback: ¡Correcto! Aplicando logaritmo decimal a ambos lados: $\log(2^x) = \log(5) \Rightarrow x \log(2) = \log(5) \Rightarrow x = \frac{\log(5)}{\log(2)}$. -->
-- [ ] B) $x = \log(5) - \log(2)$ <!-- feedback: Incorrecto. Confundió el cociente de logaritmos con la resta de logaritmos. -->
-- [ ] C) $x = \frac{\log(2)}{\log(5)}$ <!-- feedback: Incorrecto. Invirtió el numerador y el denominador. -->
+- [x] C) $x = \frac{\log(5)}{\log(2)}$ <!-- feedback: ¡Correcto! Aplicando logaritmo decimal a ambos lados: $\log(2^x) = \log(5) \Rightarrow x \log(2) = \log(5) \Rightarrow x = \frac{\log(5)}{\log(2)}$. -->
+- [ ] A) $x = \log(5) - \log(2)$ <!-- feedback: Incorrecto. Confundió el cociente de logaritmos con la resta de logaritmos. -->
+- [ ] B) $x = \frac{\log(2)}{\log(5)}$ <!-- feedback: Incorrecto. Invirtió el numerador y el denominador. -->
 - [ ] D) $x = \log(2.5)$ <!-- feedback: Incorrecto. $\log(5/2) = \log(5) - \log(2) \neq \frac{\log(5)}{\log(2)}$. -->
 
 ### Explicacion Pedagogica
@@ -394,10 +394,10 @@ Aplicando logaritmos a ambos miembros: $\log(2^x) = \log(5) \Rightarrow x \cdot 
 ¿Cuáles son los valores positivos de las constantes $a$ y $b$?
 
 ### Opciones
-- [x] A) $a = 4$ y $b = 3$ <!-- feedback: ¡Correcto! $f(0) = a \cdot b^0 = a = 4$. Luego $f(2) = 4 \cdot b^2 = 36 \Rightarrow b^2 = 9 \Rightarrow b = 3$. -->
-- [ ] B) $a = 3$ y $b = 4$ <!-- feedback: Incorrecto. Invirtió los valores de las constantes $a$ y $b$. -->
-- [ ] C) $a = 4$ y $b = 9$ <!-- feedback: Incorrecto. Olvidó extraer la raíz cuadrada a $b^2 = 9$. -->
-- [ ] D) $a = 2$ y $b = 6$ <!-- feedback: Incorrecto. Si $a=2$, $f(0) = 2 \neq 4$. -->
+- [x] D) $a = 4$ y $b = 3$ <!-- feedback: ¡Correcto! $f(0) = a \cdot b^0 = a = 4$. Luego $f(2) = 4 \cdot b^2 = 36 \Rightarrow b^2 = 9 \Rightarrow b = 3$. -->
+- [ ] A) $a = 3$ y $b = 4$ <!-- feedback: Incorrecto. Invirtió los valores de las constantes $a$ y $b$. -->
+- [ ] B) $a = 4$ y $b = 9$ <!-- feedback: Incorrecto. Olvidó extraer la raíz cuadrada a $b^2 = 9$. -->
+- [ ] C) $a = 2$ y $b = 6$ <!-- feedback: Incorrecto. Si $a=2$, $f(0) = 2 \neq 4$. -->
 
 ### Explicacion Pedagogica
 Dado $f(0) = a \cdot b^0 = a = 4$. Con $f(2) = 36$, sustituimos $a = 4$: $4 \cdot b^2 = 36 \Rightarrow b^2 = 9$. Dado que $b > 0$, tenemos $b = 3$.
@@ -415,9 +415,9 @@ Dado $f(0) = a \cdot b^0 = a = 4$. Con $f(2) = 36$, sustituimos $a = 4$: $4 \cdo
 Al simplificar y agrupar términos en la ecuación $4^x + 2^{2x-1} = 3^{x+1/2} + 3^{x-1/2}$, ¿cuál es el valor de $x$?
 
 ### Opciones
-- [x] A) $x = 1.5$ (o $3/2$) <!-- feedback: ¡Correcto! Reescribiendo: $2^{2x} + \frac{1}{2}2^{2x} = \frac{3}{2}2^{2x}$. El otro lado: $\sqrt{3}\cdot 3^x + \frac{1}{\sqrt{3}}3^x = \frac{4}{\sqrt{3}}3^x$. Igualando y resolviendo se obtiene $x = 3/2$. -->
-- [ ] B) $x = 1$ <!-- feedback: Incorrecto. Al probar $x=1$ los dos lados no coinciden. -->
-- [ ] C) $x = 2$ <!-- feedback: Incorrecto. Sustituyendo $x=2$ se obtienen valores numéricos diferentes. -->
+- [x] C) $x = 1.5$ (o $3/2$) <!-- feedback: ¡Correcto! Reescribiendo: $2^{2x} + \frac{1}{2}2^{2x} = \frac{3}{2}2^{2x}$. El otro lado: $\sqrt{3}\cdot 3^x + \frac{1}{\sqrt{3}}3^x = \frac{4}{\sqrt{3}}3^x$. Igualando y resolviendo se obtiene $x = 3/2$. -->
+- [ ] A) $x = 1$ <!-- feedback: Incorrecto. Al probar $x=1$ los dos lados no coinciden. -->
+- [ ] B) $x = 2$ <!-- feedback: Incorrecto. Sustituyendo $x=2$ se obtienen valores numéricos diferentes. -->
 - [ ] D) $x = 0.5$ <!-- feedback: Incorrecto. No satisface la igualdad de exponentes al agrupar potencias. -->
 
 ### Explicacion Pedagogica
@@ -436,9 +436,9 @@ Agrupando potencias de base 2 y base 3: $\frac{3}{2} \cdot 2^{2x} = \frac{4}{\sq
 ¿Cuál es el conjunto solución para la desigualdad logarítmica $\log_{1/2}(x - 2) > -2$?
 
 ### Opciones
-- [x] A) $2 < x < 6$ (intervalo open $(2, 6)$) <!-- feedback: ¡Correcto! Al cambiar de base menor que 1, el signo de la desigualdad se invierte: $x - 2 < (1/2)^{-2} = 4 \Rightarrow x < 6$. Además el argumento exige $x - 2 > 0 \Rightarrow x > 2$. -->
-- [ ] B) $x > 6$ <!-- feedback: Incorrecto. Olvidó invertir la desigualdad al trabajar con una base menor a 1. -->
-- [ ] C) $x < 6$ <!-- feedback: Incorrecto. Olvidó restringir el dominio del logaritmo ($x > 2$). -->
+- [x] C) $2 < x < 6$ (intervalo open $(2, 6)$) <!-- feedback: ¡Correcto! Al cambiar de base menor que 1, el signo de la desigualdad se invierte: $x - 2 < (1/2)^{-2} = 4 \Rightarrow x < 6$. Además el argumento exige $x - 2 > 0 \Rightarrow x > 2$. -->
+- [ ] A) $x > 6$ <!-- feedback: Incorrecto. Olvidó invertir la desigualdad al trabajar con una base menor a 1. -->
+- [ ] B) $x < 6$ <!-- feedback: Incorrecto. Olvidó restringir el dominio del logaritmo ($x > 2$). -->
 - [ ] D) $2 < x < 4$ <!-- feedback: Incorrecto. $(1/2)^{-2} = 4$, por lo que $x - 2 < 4 \Rightarrow x < 6$. -->
 
 ### Explicacion Pedagogica

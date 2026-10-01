@@ -34,9 +34,9 @@ calibration: {difficulty_band: "D3-D10", expected_success: 0.65}
 ¿Qué tipo de estructura sintáctica subordinada presenta?
 
 ### Opciones
-- [x] A) Oración subordinada adjetiva de relativo
+- [x] B) Oración subordinada adjetiva de relativo
   <!-- feedback: ¡Correcto! Modifica al sustantivo núcleo 'estudiante' especificando sus atributos mediante el relativo 'que'. -->
-- [ ] B) Oración subordinada adverbial de tiempo
+- [ ] A) Oración subordinada adverbial de tiempo
   <!-- feedback: Incorrecto. No indica circunstancias temporales del verbo principal. -->
 - [ ] C) Oración compuesta coordinada copulativa
   <!-- feedback: Incorrecto. No enlaza dos proposiciones independientes mediante 'y'. -->
@@ -58,13 +58,13 @@ Las oraciones subordinadas adjetivas o de relativo equivalen a un adjetivo y mod
 ¿Qué relación lógica establece la proposición subordinada?
 
 ### Opciones
-- [x] A) Oración subordinada adverbial concesiva
+- [x] D) Oración subordinada adverbial concesiva
   <!-- feedback: ¡Correcto! Expresa un obstáculo ('lluvia intensa') que no impide el cumplimiento de la acción principal ('completaron la siembra'). -->
-- [ ] B) Oración subordinada adverbial causal
+- [ ] A) Oración subordinada adverbial causal
   <!-- feedback: Incorrecto. La lluvia no es la causa de sembrar, sino un impedimento superado. -->
-- [ ] C) Oración subordinada sustantiva de sujeto
+- [ ] B) Oración subordinada sustantiva de sujeto
   <!-- feedback: Incorrecto. No cumple la función de sujeto del verbo principal. -->
-- [ ] D) Oración coordinada disyuntiva
+- [ ] C) Oración coordinada disyuntiva
   <!-- feedback: Incorrecto. No presenta dos opciones excluyentes. -->
 
 ### Explicacion Pedagogica
@@ -82,13 +82,13 @@ Las subordinadas concesivas introducen un impedimento u objeción que no llega a
 ¿Qué función sintáctica desempeña la proposición encabezada por 'que'?
 
 ### Opciones
-- [x] A) Oración subordinada sustantiva en función de objeto directo
+- [x] D) Oración subordinada sustantiva en función de objeto directo
   <!-- feedback: ¡Correcto! Funciona como el complemento directo del verbo transitivo 'anunció'. -->
-- [ ] B) Oración subordinada adjetiva explicativa
+- [ ] A) Oración subordinada adjetiva explicativa
   <!-- feedback: Incorrecto. No modifica a un sustantivo antecedente. -->
-- [ ] C) Oración subordinada adverbial de lugar
+- [ ] B) Oración subordinada adverbial de lugar
   <!-- feedback: Incorrecto. Toda la proposición es el objeto directo. -->
-- [ ] D) Oración coordinada adversativa
+- [ ] C) Oración coordinada adversativa
   <!-- feedback: Incorrecto. No contrapone dos ideas mediante 'sin embargo'. -->
 
 ### Explicacion Pedagogica
@@ -106,11 +106,11 @@ Las subordinadas sustantivas pueden sustituirse por 'esto' (El director anunció
 ¿Cómo se clasifican las dos proposiciones unidas por 'y'?
 
 ### Opciones
-- [x] A) Oración compuesta coordinada copulativa
+- [x] C) Oración compuesta coordinada copulativa
   <!-- feedback: ¡Correcto! Enlaza dos proposiciones sintácticamente independientes mediante la conjunción copulativa 'y'. -->
-- [ ] B) Oración subordinada adverbial consecutiva
+- [ ] A) Oración subordinada adverbial consecutiva
   <!-- feedback: Incorrecto. No expresa una consecuencia de la primera. -->
-- [ ] C) Oración compuesta coordinada adversativa
+- [ ] B) Oración compuesta coordinada adversativa
   <!-- feedback: Incorrecto. No contrapone ideas mediante 'pero'. -->
 - [ ] D) Oración subordinada sustantiva de relativo
   <!-- feedback: Incorrecto. No hay relación de subordinación. -->
@@ -154,9 +154,9 @@ Las oraciones coordinadas disyuntivas ofrecen opciones alternativas excluyentes 
 ¿Qué tipo de coordinación sintáctica contrapone estas dos ideas?
 
 ### Opciones
-- [x] A) Oración compuesta coordinada adversativa
+- [x] B) Oración compuesta coordinada adversativa
   <!-- feedback: ¡Correcto! Muestra una contradicción o limitación entre las proposiciones unidas por 'sin embargo'. -->
-- [ ] B) Oración subordinada adverbial causal
+- [ ] A) Oración subordinada adverbial causal
   <!-- feedback: Incorrecto. No señala la causa del entrenamiento. -->
 - [ ] C) Oración coordinada copulativa
   <!-- feedback: Incorrecto. No es una mera adición de hechos. -->
@@ -178,13 +178,13 @@ Las oraciones coordinadas adversativas expresan oposición total o parcial media
 ¿Qué circunstancia expresa la proposición introducida por 'para que'?
 
 ### Opciones
-- [x] A) Oración subordinada adverbial final
+- [x] D) Oración subordinada adverbial final
   <!-- feedback: ¡Correcto! Indica la meta, el propósito u objetivo con que se ejecuta la acción principal. -->
-- [ ] B) Oración subordinada adverbial de modo
+- [ ] A) Oración subordinada adverbial de modo
   <!-- feedback: Incorrecto. No describe el modo de caminar. -->
-- [ ] C) Oración subordinada adjetiva de relativo
+- [ ] B) Oración subordinada adjetiva de relativo
   <!-- feedback: Incorrecto. No modifica a un sustantivo antecedente. -->
-- [ ] D) Oración coordinada distributiva
+- [ ] C) Oración coordinada distributiva
   <!-- feedback: Incorrecto. No alterna acciones entre sujetos. -->
 
 ### Explicacion Pedagogica
@@ -250,9 +250,9 @@ Las oraciones condicionales expresan un requisito hipotético introducido por 's
 ¿Qué estructura subordinada intensificadora se manifiesta?
 
 ### Opciones
-- [x] A) Oración subordinada adverbial consecutiva
+- [x] B) Oración subordinada adverbial consecutiva
   <!-- feedback: ¡Correcto! Expresa la consecuencia provocada por la intensidad cuantificada ('tan... que'). -->
-- [ ] B) Oración subordinada adverbial causal
+- [ ] A) Oración subordinada adverbial causal
   <!-- feedback: Incorrecto. La consecuencia es no percatarse. -->
 - [ ] C) Oración coordinada copulativa
   <!-- feedback: Incorrecto. No suma proposiciones independientes. -->
@@ -322,9 +322,9 @@ Las subordinadas sustantivas relativas sin antecedente expreso ejercen funciones
 ¿Qué función cumple la proposición subordinada introducida por 'que'?
 
 ### Opciones
-- [x] A) Oración subordinada sustantiva en función de objeto directo
+- [x] B) Oración subordinada sustantiva en función de objeto directo
   <!-- feedback: ¡Correcto! Responde a ¿Qué deseamos?: Que la paz y la concordia reinen. -->
-- [ ] B) Oración subordinada adverbial de modo
+- [ ] A) Oración subordinada adverbial de modo
   <!-- feedback: Incorrecto. El modo es 'fervientemente'. -->
 - [ ] C) Oración subordinada adjetiva de relativo
   <!-- feedback: Incorrecto. El verbo no es sustantivo antecedente. -->
@@ -370,13 +370,13 @@ Las oraciones coordinadas explicativas aclaran el sentido previo utilizando cone
 ¿Qué tipo de coordinación reparte las acciones entre los sujetos?
 
 ### Opciones
-- [x] A) Oración compuesta coordinada distributiva
+- [x] D) Oración compuesta coordinada distributiva
   <!-- feedback: ¡Correcto! Distribuye acciones alternas entre distintos sujetos mediante 'Unos... otros'. -->
-- [ ] B) Oración subordinada causal
+- [ ] A) Oración subordinada causal
   <!-- feedback: Incorrecto. No indica causa. -->
-- [ ] C) Oración coordinada adversativa
+- [ ] B) Oración coordinada adversativa
   <!-- feedback: Incorrecto. No establece un contraste excluyente. -->
-- [ ] D) Oración subordinada final
+- [ ] C) Oración subordinada final
   <!-- feedback: Incorrecto. No expresa propósito. -->
 
 ### Explicacion Pedagogica
@@ -394,9 +394,9 @@ Las oraciones coordinadas distributivas expresan acciones alternas empleando té
 ¿Qué tipo de construcción de participio absoluto encabeza la oración?
 
 ### Opciones
-- [x] A) Oración subordinada de participio en construcción absoluta
+- [x] B) Oración subordinada de participio en construcción absoluta
   <!-- feedback: ¡Correcto! Equivale a 'Una vez que terminaron las exposiciones', marcando anterioridad temporal. -->
-- [ ] B) Oración coordinada copulativa
+- [ ] A) Oración coordinada copulativa
   <!-- feedback: Incorrecto. No hay conjunción copulativa. -->
 - [ ] C) Oración subordinada adjetiva de relativo
   <!-- feedback: Incorrecto. No modifica a un sustantivo antecedente. -->
@@ -418,11 +418,11 @@ Las construcciones de participio absoluto tienen su propio sujeto y funcionan co
 ¿Qué circunstancia señala la subordinada introducida por 'según'?
 
 ### Opciones
-- [x] A) Oración subordinada adverbial de modo o conformidad
+- [x] C) Oración subordinada adverbial de modo o conformidad
   <!-- feedback: ¡Correcto! Indica la norma o conformidad con que se ejecuta la acción principal. -->
-- [ ] B) Oración subordinada adverbial de lugar
+- [ ] A) Oración subordinada adverbial de lugar
   <!-- feedback: Incorrecto. No indica ubicación espacial. -->
-- [ ] C) Oración coordinada adversativa
+- [ ] B) Oración coordinada adversativa
   <!-- feedback: Incorrecto. No hay contraste. -->
 - [ ] D) Oración subordinada sustantiva de sujeto
   <!-- feedback: Incorrecto. No cumple función de sujeto. -->
@@ -466,13 +466,13 @@ Las subordinadas proporcionales expresan variación paralela utilizando esquemas
 ¿Qué modalidad de coordinación adversativa excluye la primera opción?
 
 ### Opciones
-- [x] A) Oración compuesta coordinada adversativa exclusiva
+- [x] D) Oración compuesta coordinada adversativa exclusiva
   <!-- feedback: ¡Correcto! Invalida totalmente la primera proposición sustituyéndola mediante 'sino que'. -->
-- [ ] B) Oración coordinada copulativa
+- [ ] A) Oración coordinada copulativa
   <!-- feedback: Incorrecto. No suma ambas acciones. -->
-- [ ] C) Oración subordinada causal
+- [ ] B) Oración subordinada causal
   <!-- feedback: Incorrecto. No señala causa. -->
-- [ ] D) Oración coordinada disyuntiva
+- [ ] C) Oración coordinada disyuntiva
   <!-- feedback: Incorrecto. No ofrece dos opciones abiertas. -->
 
 ### Explicacion Pedagogica

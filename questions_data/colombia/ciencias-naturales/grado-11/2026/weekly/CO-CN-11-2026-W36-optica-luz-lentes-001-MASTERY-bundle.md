@@ -35,13 +35,13 @@ alineadas con los DBA y Estándares Básicos de Competencias del MEN Colombia.
 La luz se propaga en el vacío en línea recta con una velocidad aproximada de:
 
 ### Opciones
-- [x] A) 3.0 × 10⁸ m/s.
+- [x] D) 3.0 × 10⁸ m/s.
   <!-- feedback: La velocidad de la luz en el vacío es c ≈ 3·10⁸ m/s. -->
-- [ ] B) 3.0 × 10⁵ m/s.
+- [ ] A) 3.0 × 10⁵ m/s.
   <!-- feedback: Esa es la velocidad del sonido en el aire. -->
-- [ ] C) 340 m/s.
+- [ ] B) 340 m/s.
   <!-- feedback: Velocidad del sonido a 20 °C. -->
-- [ ] D) 1.5 × 10⁸ m/s.
+- [ ] C) 1.5 × 10⁸ m/s.
   <!-- feedback: Velocidad aproximada en agua. -->
 
 ### Explicacion Pedagogica
@@ -104,9 +104,9 @@ La refracción es el cambio de dirección de una onda al pasar de un medio a otr
 Cuando un haz de luz blanca atraviesa un prisma de vidrio y se descompone en colores, esto ocurre porque:
 
 ### Opciones
-- [x] A) Cada color tiene un índice de refracción distinto en el vidrio.
+- [x] B) Cada color tiene un índice de refracción distinto en el vidrio.
   <!-- feedback: La dispersión es consecuencia de la dependencia del índice con la longitud de onda. -->
-- [ ] B) El vidrio absorbe selectivamente los colores.
+- [ ] A) El vidrio absorbe selectivamente los colores.
   <!-- feedback: La absorción no es la causa principal aquí. -->
 - [ ] C) La luz blanca es monocromática.
   <!-- feedback: La luz blanca es policromática. -->
@@ -175,9 +175,9 @@ En una lente convergente delgada, la ecuación de las lentes delgadas es:
 ### Opciones
 - [ ] A) p + q = f.
   <!-- feedback: No corresponde a la fórmula correcta. -->
-- [x] B) 1/f = 1/p + 1/q.
+- [x] C) 1/f = 1/p + 1/q.
   <!-- feedback: Ecuación de Gauss para lentes delgadas. -->
-- [ ] C) f = p·q.
+- [ ] B) f = p·q.
   <!-- feedback: Producto de distancias, no es la fórmula. -->
 - [ ] D) p·q = 2f.
   <!-- feedback: No aplica a la óptica de lentes. -->
@@ -219,9 +219,9 @@ La hipermetropía se corrige con lentes convergentes que desplazan el foco hacia
 La reflexión total interna ocurre cuando la luz pasa de un medio con índice de refracción:
 
 ### Opciones
-- [ ] A) Menor a uno mayor, superando el ángulo crítico.
+- [ ] B) Menor a uno mayor, superando el ángulo crítico.
   <!-- feedback: Debe ir de un medio más denso ópticamente a uno menos denso. -->
-- [x] B) Mayor a uno menor, superando el ángulo crítico.
+- [x] A) Mayor a uno menor, superando el ángulo crítico.
   <!-- feedback: La reflexión total interna ocurre cuando θ_i > θ_c. -->
 - [ ] C) Igual en ambos medios.
   <!-- feedback: No hay cambio de dirección ni refracción. -->
@@ -242,9 +242,9 @@ La reflexión total interna ocurre al pasar luz de un medio con n mayor a uno co
 En un microscopio compuesto, la imagen formada por la lente objetivo es:
 
 ### Opciones
-- [x] A) Real, invertida y aumentada, proyectada dentro del tubo.
+- [x] B) Real, invertida y aumentada, proyectada dentro del tubo.
   <!-- feedback: La lente objetivo produce una imagen real e invertida. -->
-- [ ] B) Virtual, derecha y aumentada.
+- [ ] A) Virtual, derecha y aumentada.
   <!-- feedback: Esas características corresponden al ocular. -->
 - [ ] C) Real, derecha y de igual tamaño.
   <!-- feedback: La imagen objetivo no es de igual tamaño. -->
@@ -267,9 +267,9 @@ Un objeto se coloca entre el foco y el vértice de un espejo cóncavo. La imagen
 ### Opciones
 - [ ] A) Real, invertida y de mayor tamaño.
   <!-- feedback: Esa posición genera imagen real invertida mayor, pero el objeto no está entre foco y vértice. -->
-- [x] B) Virtual, derecha y de mayor tamaño.
+- [x] C) Virtual, derecha y de mayor tamaño.
   <!-- feedback: Cuando el objeto está entre foco y vértice, la imagen es virtual, derecha y agrandada (espejo de maquillaje). -->
-- [ ] C) Real, invertida y de igual tamaño.
+- [ ] B) Real, invertida y de igual tamaño.
   <!-- feedback: La imagen de igual tamaño ocurre en el centro de curvatura. -->
 - [ ] D) No se forma imagen.
   <!-- feedback: Siempre se forma imagen con un espejo esférico iluminado. -->
@@ -290,9 +290,9 @@ En un espejo cóncavo, un objeto entre el foco y el vértice genera una imagen v
 ### Opciones
 - [ ] A) Porque producen imágenes reales y aumentadas del tráfico.
   <!-- feedback: Las imágenes son virtuales, no reales. -->
-- [x] B) Porque producen imágenes virtuales, derechas y de menor tamaño, abarcando un campo visual amplio.
+- [x] C) Porque producen imágenes virtuales, derechas y de menor tamaño, abarcando un campo visual amplio.
   <!-- feedback: El campo amplio aumenta la seguridad vial. -->
-- [ ] C) Porque eliminan la luz infrarroja.
+- [ ] B) Porque eliminan la luz infrarroja.
   <!-- feedback: No es una propiedad óptica relevante. -->
 - [ ] D) Porque enfocan la luz solar.
   <!-- feedback: Los espejos convexos no enfocan. -->
@@ -361,9 +361,9 @@ El ángulo de desviación mínima en un prisma ocurre cuando:
   <!-- feedback: No corresponde a la condición de mínimo. -->
 - [ ] B) El rayo se refleja totalmente dentro del prisma.
   <!-- feedback: La reflexión total es otro fenómeno. -->
-- [x] C) El ángulo de incidencia es igual al ángulo de emergencia.
+- [x] D) El ángulo de incidencia es igual al ángulo de emergencia.
   <!-- feedback: En la desviación mínima, los ángulos de entrada y salida son simétricos. -->
-- [ ] D) El prisma se sumerge en aceite.
+- [ ] C) El prisma se sumerge en aceite.
   <!-- feedback: No afecta la condición angular de mínimo. -->
 
 ### Explicacion Pedagogica
@@ -382,11 +382,11 @@ El astigmatismo es un defecto refractivo que se produce por:
 ### Opciones
 - [ ] A) Exceso de potencia en el ojo, enfocando antes de la retina.
   <!-- feedback: Eso corresponde a la miopía. -->
-- [x] B) Curvatura irregular de la córnea o el cristalino, generando múltiples focos.
+- [x] D) Curvatura irregular de la córnea o el cristalino, generando múltiples focos.
   <!-- feedback: La córnea irregular produce imágenes distorsionadas en diferentes meridianos. -->
-- [ ] C) Envejecimiento del cristalino.
+- [ ] B) Envejecimiento del cristalino.
   <!-- feedback: Eso es la presbicia. -->
-- [ ] D) Daño en la retina periférica.
+- [ ] C) Daño en la retina periférica.
   <!-- feedback: El problema es refractivo, no retiniano. -->
 
 ### Explicacion Pedagogica
@@ -403,11 +403,11 @@ El astigmatismo se corrige con lentes tóricas que compensan la curvatura irregu
 En el patrón de difracción de una rendija angosta, los mínimos ocurren cuando:
 
 ### Opciones
-- [x] A) a·sen θ = m·λ, con m = ±1, ±2, ±3,...
+- [x] C) a·sen θ = m·λ, con m = ±1, ±2, ±3,...
   <!-- feedback: La condición de mínimos es a·sen θ = m·λ. -->
-- [ ] B) a·sen θ = 0 únicamente.
+- [ ] A) a·sen θ = 0 únicamente.
   <!-- feedback: Solo corresponde al máximo central. -->
-- [ ] C) a·sen θ = λ/4.
+- [ ] B) a·sen θ = λ/4.
   <!-- feedback: No es la condición estándar. -->
 - [ ] D) a·sen θ = 2m·λ con m entero.
   <!-- feedback: Es la condición de máximos principales en redes. -->
@@ -472,9 +472,9 @@ El criterio de Abbe indica la mínima distancia resoluble por un microscopio óp
 Una ventaja clave de la fibra óptica sobre el cable de cobre es:
 
 ### Opciones
-- [ ] A) Conduce electrones con menos resistencia.
+- [ ] B) Conduce electrones con menos resistencia.
   <!-- feedback: La fibra óptica transporta fotones, no electrones. -->
-- [x] B) Permite transmitir datos con baja atenuación y sin interferencia electromagnética.
+- [x] A) Permite transmitir datos con baja atenuación y sin interferencia electromagnética.
   <!-- feedback: La luz no se ve afectada por campos electromagnéticos externos. -->
 - [ ] C) Es más económica en largas distancias.
   <!-- feedback: Es más costosa en instalación inicial. -->

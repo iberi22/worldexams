@@ -36,9 +36,9 @@ This final review bundle for Period 1 covers Greetings, Personal Information, Pr
 Match the question to the information: "What is your nationality?"
 
 ### Opciones
-- [ ] A) I am 13.
+- [ ] B) I am 13.
   <!-- feedback: Incorrect. This is age. -->
-- [x] B) I am Colombian.
+- [x] A) I am Colombian.
   <!-- feedback: Correct! This refers to the country of citizenship/origin. -->
 - [ ] C) I am a student.
   <!-- feedback: Incorrect. This is occupation. -->
@@ -63,9 +63,9 @@ Complete: "He ________ breakfast at 6:00 AM every morning."
 ### Opciones
 - [ ] A) have
   <!-- feedback: Incorrect. For "he", the irregular form of "have" is "has". -->
-- [x] B) has
+- [x] C) has
   <!-- feedback: Correct! Third person singular of "have". -->
-- [ ] C) haves
+- [ ] B) haves
   <!-- feedback: Incorrect. "Have" is irregular and does not take 's' directly. -->
 - [ ] D) having
   <!-- feedback: Incorrect. This is the continuous form. -->
@@ -88,9 +88,9 @@ The student remembers the irregular third-person singular form of the verb "to h
 ### Opciones
 - [ ] A) always
   <!-- feedback: Incorrect. Always means 7 days a week. -->
-- [x] B) sometimes
+- [x] C) sometimes
   <!-- feedback: Correct! Twice a week fits the "sometimes" or "often" frequency better than extremes. -->
-- [ ] C) never
+- [ ] B) never
   <!-- feedback: Incorrect. "Never" means zero days. -->
 - [ ] D) twice
   <!-- feedback: Incorrect. "Twice" is not a frequency adverb used in this position before the verb without "a week". -->
@@ -138,11 +138,11 @@ Choose the correct sentence to say the computer belongs to Maria.
 ### Opciones
 - [ ] A) Maria computer is new.
   <!-- feedback: Incorrect. Missing the possessive marker. -->
-- [x] B) Maria's computer is new.
+- [x] D) Maria's computer is new.
   <!-- feedback: Correct! Saxon genitive for possession. -->
-- [ ] C) The computer of Maria is new.
+- [ ] B) The computer of Maria is new.
   <!-- feedback: Incorrect. Less natural in English than the Saxon genitive. -->
-- [ ] D) Marias computer is new.
+- [ ] C) Marias computer is new.
   <!-- feedback: Incorrect. Missing the apostrophe. -->
 
 ### Explicacion Pedagogica
@@ -163,11 +163,11 @@ The student applies the rule for the Saxon Genitive to express possession.
 ### Opciones
 - [ ] A) excited
   <!-- feedback: Incorrect. This is for positive, high-energy events. -->
-- [x] B) bored
+- [x] D) bored
   <!-- feedback: Correct! Having nothing to do leads to boredom. -->
-- [ ] C) angry
+- [ ] B) angry
   <!-- feedback: Incorrect. This is a reaction to something wrong. -->
-- [ ] D) surprised
+- [ ] C) surprised
   <!-- feedback: Incorrect. This is a reaction to something unexpected. -->
 
 ### Explicacion Pedagogica
@@ -191,9 +191,9 @@ What does Lucas look like?
   <!-- feedback: Incorrect. The text says his hair is curly. -->
 - [ ] B) He is short and wears glasses.
   <!-- feedback: Incorrect. The text says he is tall. -->
-- [x] C) He is tall and has curly hair.
+- [x] D) He is tall and has curly hair.
   <!-- feedback: Correct! These two features are explicitly mentioned. -->
-- [ ] D) He has brown eyes and glasses.
+- [ ] C) He has brown eyes and glasses.
   <!-- feedback: Incorrect. The eyes are not mentioned, only the hair. -->
 
 ### Explicacion Pedagogica
@@ -214,9 +214,9 @@ Which sentence is grammatically correct for a permanent fact?
 ### Opciones
 - [ ] A) My dog isn't like cats.
   <!-- feedback: Incorrect. To express a permanent like/dislike, we use "doesn't like". -->
-- [x] B) My dog doesn't like cats.
+- [x] C) My dog doesn't like cats.
   <!-- feedback: Correct! Present Simple negative for a general fact/habit. -->
-- [ ] C) My dog don't like cats.
+- [ ] B) My dog don't like cats.
   <!-- feedback: Incorrect. "Dog" is third person singular, needs "doesn't". -->
 - [ ] D) My dog not like cats.
   <!-- feedback: Incorrect. Missing the auxiliary verb. -->
@@ -242,9 +242,9 @@ What is Julian doing TODAY?
   <!-- feedback: Incorrect. He "usually" plays soccer, but not today. -->
 - [ ] B) He is eating fast food.
   <!-- feedback: Incorrect. He "never" eats it. -->
-- [x] C) He is studying at home.
+- [x] D) He is studying at home.
   <!-- feedback: Correct! The text explicitly mentions his action for today. -->
-- [ ] D) He is at school.
+- [ ] C) He is at school.
   <!-- feedback: Incorrect. He is at home studying. -->
 
 ### Explicacion Pedagogica
@@ -268,9 +268,9 @@ What can we conclude about Clara's personality and goals?
   <!-- feedback: Incorrect. She "always practices", which shows discipline. -->
 - [ ] B) She is a student from Bogotá who wants to play guitar.
   <!-- feedback: Incorrect. She is from Cali. -->
-- [x] C) She is a passionate and disciplined student with clear artistic goals.
+- [x] D) She is a passionate and disciplined student with clear artistic goals.
   <!-- feedback: Correct! Her love for music, daily practice, and ambition to be a musician support this. -->
-- [ ] D) She is a professional musician from Cali.
+- [ ] C) She is a professional musician from Cali.
   <!-- feedback: Incorrect. She is 13 and "wants to be" one day. -->
 
 ### Explicacion Pedagogica

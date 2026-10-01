@@ -37,9 +37,9 @@ bundle_index: 1
 ### Opciones
 - [ ] A) Cuando la función es un producto de dos variables independientes.
   <!-- feedback: Incorrecto. Para eso se usa la Regla del Producto. -->
-- [x] B) Cuando la función es una composición de dos o más funciones ($f(g(x))$).
+- [x] C) Cuando la función es una composición de dos o más funciones ($f(g(x))$).
   <!-- feedback: Correcto. La Regla de la Cadena permite derivar funciones compuestas multiplicando la derivada de la función externa por la de la interna. -->
-- [ ] C) Cuando la función es un cociente de polinomios de igual grado.
+- [ ] B) Cuando la función es un cociente de polinomios de igual grado.
   <!-- feedback: Incorrecto. Para eso se usa la Regla del Cociente. -->
 - [ ] D) Únicamente cuando la función contiene raíces cuadradas.
   <!-- feedback: Incorrecto. Aunque las raíces son composiciones, la regla se aplica a cualquier tipo de función compuesta. -->
@@ -62,11 +62,11 @@ Calcule la derivada de $f(x) = (x^2 + 5)^3$.
 ### Opciones
 - [ ] A) $3(x^2 + 5)^2$
   <!-- feedback: Incorrecto. Olvidó multiplicar por la derivada de la función interna ($x^2 + 5$). -->
-- [x] B) $6x(x^2 + 5)^2$
+- [x] D) $6x(x^2 + 5)^2$
   <!-- feedback: Correcto. Por regla de la cadena: $3(x^2 + 5)^2 \cdot (2x) = 6x(x^2 + 5)^2$. -->
-- [ ] C) $2x(x^2 + 5)^3$
+- [ ] B) $2x(x^2 + 5)^3$
   <!-- feedback: Incorrecto. No aplicó correctamente la regla de la potencia externa. -->
-- [ ] D) $6x^5$
+- [ ] C) $6x^5$
   <!-- feedback: Incorrecto. No se puede distribuir la derivada dentro de la potencia de esa forma. -->
 
 ### Explicacion Pedagogica
@@ -141,9 +141,9 @@ Aplicación de la regla de la cadena a funciones trigonométricas donde el ángu
 ### Opciones
 - [ ] A) $xe^{x-1}$
   <!-- feedback: Incorrecto. Confundió con la regla de la potencia para polinomios. -->
-- [x] B) $e^x$
+- [x] C) $e^x$
   <!-- feedback: Correcto. La función $e^x$ es única porque su tasa de cambio es igual a su valor en cada punto. -->
-- [ ] C) $\ln(x)$
+- [ ] B) $\ln(x)$
   <!-- feedback: Incorrecto. Esa es la función inversa, no la derivada. -->
 - [ ] D) $1/e^x$
   <!-- feedback: Incorrecto. Error conceptual sobre el crecimiento exponencial. -->
@@ -166,9 +166,9 @@ Halle la derivada de $f(x) = \ln(x^2 + 1)$.
 ### Opciones
 - [ ] A) $\frac{1}{x^2 + 1}$
   <!-- feedback: Incorrecto. Olvidó multiplicar por la derivada del argumento interno. -->
-- [x] B) $\frac{2x}{x^2 + 1}$
+- [x] C) $\frac{2x}{x^2 + 1}$
   <!-- feedback: Correcto. $\frac{d}{dx}\ln(u) = \frac{1}{u} \cdot u' = \frac{1}{x^2+1} \cdot 2x$. -->
-- [ ] C) $2x \ln(x^2 + 1)$
+- [ ] B) $2x \ln(x^2 + 1)$
   <!-- feedback: Incorrecto. Error en la aplicación de la regla de derivación para logaritmos. -->
 - [ ] D) $\frac{2}{x^2 + 1}$
   <!-- feedback: Incorrecto. Derivó mal el argumento interno. -->
@@ -193,9 +193,9 @@ Para derivar el logaritmo de una función, se divide la derivada de dicha funci�
   <!-- feedback: Incorrecto. No consideró la derivada del exponente. -->
 - [ ] B) $20e^{-0.2t}$
   <!-- feedback: Incorrecto. Olvidó el signo negativo de la tasa de decaimiento. -->
-- [x] C) $-20e^{-0.2t}$
+- [x] D) $-20e^{-0.2t}$
   <!-- feedback: Correcto. Derivada de $e^{ut}$ es $u e^{ut}$, entonces $100(-0.2)e^{-0.2t} = -20e^{-0.2t}$. -->
-- [ ] D) $-0.2e^{-0.2t}$
+- [ ] C) $-0.2e^{-0.2t}$
   <!-- feedback: Incorrecto. Omitió el factor constante de 100. -->
 
 ### Explicacion Pedagogica
@@ -216,9 +216,9 @@ Determine la derivada de $f(x) = \tan(x^2)$.
 ### Opciones
 - [ ] A) $\sec^2(x)$
   <!-- feedback: Incorrecto. No consideró el argumento $x^2$. -->
-- [x] B) $2x \sec^2(x^2)$
+- [x] C) $2x \sec^2(x^2)$
   <!-- feedback: Correcto. Derivada de la tangente ($\sec^2$) evaluada en la interna ($x^2$) por la derivada de la interna ($2x$). -->
-- [ ] C) $2x \tan^2(x)$
+- [ ] B) $2x \tan^2(x)$
   <!-- feedback: Incorrecto. La derivada de la tangente no es la tangente al cuadrado. -->
 - [ ] D) $\sec^2(2x)$
   <!-- feedback: Incorrecto. Aplicó la derivada interna dentro de la función externa. -->
@@ -241,11 +241,11 @@ Uso de la regla de la cadena integrando la derivada fundamental de la función t
 ### Opciones
 - [ ] A) $x 5^{x-1}$
   <!-- feedback: Incorrecto. No confunda funciones exponenciales con funciones potencia. -->
-- [x] B) $5^x \ln(5)$
+- [x] D) $5^x \ln(5)$
   <!-- feedback: Correcto. La derivada de $a^x$ es $a^x \ln(a)$. -->
-- [ ] C) $5^x$
+- [ ] B) $5^x$
   <!-- feedback: Incorrecto. Esto solo es cierto si la base es $e$. -->
-- [ ] D) $\frac{5^x}{\ln(5)}$
+- [ ] C) $\frac{5^x}{\ln(5)}$
   <!-- feedback: Incorrecto. Esa es la integral de la función, no su derivada. -->
 
 ### Explicacion Pedagogica
@@ -266,9 +266,9 @@ Halle $y'$ si $y = \sqrt{\sin(x)}$.
 ### Opciones
 - [ ] A) $\frac{\cos(x)}{\sin(x)}$
   <!-- feedback: Incorrecto. Eso sería para un logaritmo. -->
-- [ ] B) $\frac{1}{2\sqrt{\sin(x)}}$
+- [ ] C) $\frac{1}{2\sqrt{\sin(x)}}$
   <!-- feedback: Incorrecto. Olvidó la derivada de la función interna seno. -->
-- [x] C) $\frac{\cos(x)}{2\sqrt{\sin(x)}}$
+- [x] B) $\frac{\cos(x)}{2\sqrt{\sin(x)}}$
   <!-- feedback: Correcto. Por regla de la cadena: $\frac{1}{2}(\sin x)^{-1/2} \cdot \cos x$. -->
 - [ ] D) $\frac{\cos(x)}{2\sin(x)}$
   <!-- feedback: Incorrecto. Error en el exponente de la raíz en el denominador. -->
@@ -295,9 +295,9 @@ Utilice derivación implícita para encontrar $dy/dx$.
 ### Opciones
 - [ ] A) $-2x/2y$
   <!-- feedback: Incorrecto. Aunque es técnicamente equivalente, la forma simplificada es preferible. -->
-- [x] B) $-x/y$
+- [x] C) $-x/y$
   <!-- feedback: Correcto. Derivando ambos lados: $2x + 2y(y') = 0 \Rightarrow 2y(y') = -2x \Rightarrow y' = -x/y$. -->
-- [ ] C) $x/y$
+- [ ] B) $x/y$
   <!-- feedback: Incorrecto. Error de signo al despejar. -->
 - [ ] D) $-2x$
   <!-- feedback: Incorrecto. Olvidó derivar el término $y^2$ respecto a $x$. -->
@@ -318,11 +318,11 @@ La derivación implícita es necesaria cuando $y$ no está despejada en término
 Calcule la derivada de $f(x) = \ln(\sin(3x))$.
 
 ### Opciones
-- [ ] A) $\frac{1}{\sin(3x)}$
+- [ ] B) $\frac{1}{\sin(3x)}$
   <!-- feedback: Incorrecto. Solo aplicó el primer nivel de la cadena. -->
-- [ ] B) $\frac{3\cos(3x)}{\ln(\sin(3x))}$
+- [ ] C) $\frac{3\cos(3x)}{\ln(\sin(3x))}$
   <!-- feedback: Incorrecto. Estructura de la fórmula de logaritmo errónea. -->
-- [x] C) $3 \cot(3x)$
+- [x] A) $3 \cot(3x)$
   <!-- feedback: Correcto. $\frac{1}{\sin(3x)} \cdot \cos(3x) \cdot 3 = 3 \frac{\cos(3x)}{\sin(3x)} = 3\cot(3x)$. -->
 - [ ] D) $\cot(3x)$
   <!-- feedback: Incorrecto. Olvidó la derivada del argumento más interno ($3x$). -->
@@ -368,11 +368,11 @@ Cálculo de pendientes en curvas no funcionales (relaciones) mediante derivació
 ¿Cuál es la derivada de $y = x^x$? (Sugerencia: use $\ln(y) = x \ln(x)$).
 
 ### Opciones
-- [ ] A) $x \cdot x^{x-1}$
+- [ ] B) $x \cdot x^{x-1}$
   <!-- feedback: Incorrecto. Aplicó la regla de la potencia de forma inválida (el exponente no es constante). -->
-- [ ] B) $x^x \ln(x)$
+- [ ] C) $x^x \ln(x)$
   <!-- feedback: Incorrecto. Aplicó la regla exponencial de forma inválida (la base no es constante). -->
-- [x] C) $x^x (1 + \ln(x))$
+- [x] A) $x^x (1 + \ln(x))$
   <!-- feedback: Correcto. $\frac{1}{y} y' = (1)\ln x + x(1/x) = \ln x + 1$. Entonces $y' = y(1 + \ln x) = x^x(1 + \ln x)$. -->
 - [ ] D) $x^x$
   <!-- feedback: Incorrecto. La función no es su propia derivada. -->
@@ -395,9 +395,9 @@ Determine la derivada de $f(x) = \arcsin(x)$.
 ### Opciones
 - [ ] A) $\frac{1}{1 + x^2}$
   <!-- feedback: Incorrecto. Esta es la derivada de $\arctan(x)$. -->
-- [x] B) $\frac{1}{\sqrt{1 - x^2}}$
+- [x] C) $\frac{1}{\sqrt{1 - x^2}}$
   <!-- feedback: Correcto. Derivada fundamental de la función arcoseno. -->
-- [ ] C) $-\frac{1}{\sqrt{1 - x^2}}$
+- [ ] B) $-\frac{1}{\sqrt{1 - x^2}}$
   <!-- feedback: Incorrecto. Esta es la derivada de $\arccos(x)$. -->
 - [ ] D) $\cos(x)$
   <!-- feedback: Incorrecto. Confundió con la relación entre funciones trigonométricas directas. -->
@@ -418,9 +418,9 @@ Reconocimiento de las derivadas de funciones trigonométricas inversas, cruciale
 ¿Cuál es la expresión para la tasa de cambio del volumen respecto al tiempo ($dV/dt$)?
 
 ### Opciones
-- [x] A) $\pi r^2 \frac{dh}{dt}$
+- [x] B) $\pi r^2 \frac{dh}{dt}$
   <!-- feedback: Correcto. Como $\pi$ y $r$ son constantes, se sacan de la derivada y se deriva $h$ respecto a $t$. -->
-- [ ] B) $2\pi r h \frac{dr}{dt}$
+- [ ] A) $2\pi r h \frac{dr}{dt}$
   <!-- feedback: Incorrecto. El enunciado especifica que el radio es constante. -->
 - [ ] C) $\pi r^2$
   <!-- feedback: Incorrecto. Falta la tasa de cambio de la altura respecto al tiempo. -->
@@ -449,11 +449,11 @@ Calcule la derivada de $f(x) = e^{e^x}$.
 ### Opciones
 - [ ] A) $e^{e^x}$
   <!-- feedback: Incorrecto. Olvidó el factor de la cadena de la función interna. -->
-- [x] B) $e^{e^x} \cdot e^x$
+- [x] D) $e^{e^x} \cdot e^x$
   <!-- feedback: Correcto. Derivada de la externa ($e^{e^x}$) por la derivada del exponente ($e^x$). Se puede escribir como $e^{e^x + x}$. -->
-- [ ] C) $e^{2x}$
+- [ ] B) $e^{2x}$
   <!-- feedback: Incorrecto. Error en las propiedades de las potencias y derivadas. -->
-- [ ] D) $e^{x^e}$
+- [ ] C) $e^{x^e}$
   <!-- feedback: Incorrecto. Estructura de función totalmente distinta. -->
 
 ### Explicacion Pedagogica
@@ -472,11 +472,11 @@ Manejo de funciones exponenciales compuestas donde la base de la potencia extern
 Halle la derivada de $y = \log_2(x^3)$.
 
 ### Opciones
-- [ ] A) $\frac{3}{x}$
+- [ ] B) $\frac{3}{x}$
   <!-- feedback: Incorrecto. Olvidó el factor del logaritmo natural de la base. -->
-- [ ] B) $\frac{1}{x^3 \ln(2)}$
+- [ ] C) $\frac{1}{x^3 \ln(2)}$
   <!-- feedback: Incorrecto. Olvidó la derivada del argumento interno. -->
-- [x] C) $\frac{3}{x \ln(2)}$
+- [x] A) $\frac{3}{x \ln(2)}$
   <!-- feedback: Correcto. $\frac{1}{x^3 \ln 2} \cdot 3x^2 = \frac{3x^2}{x^3 \ln 2} = \frac{3}{x \ln 2}$. -->
 - [ ] D) $\frac{3 \ln(2)}{x}$
   <!-- feedback: Incorrecto. El factor $\ln(2)$ debe estar en el denominador. -->
@@ -522,9 +522,9 @@ Uso del Teorema de la Función Inversa para calcular derivadas de funciones cuya
 Dada la curva $x^2 + y^2 = 1$, encuentre la expresión para $d^2y/dx^2$ en términos de $y$.
 
 ### Opciones
-- [ ] A) $-1/y^2$
+- [ ] B) $-1/y^2$
   <!-- feedback: Incorrecto. Error en la aplicación de la regla del cociente a la primera derivada. -->
-- [x] B) $-1/y^3$
+- [x] A) $-1/y^3$
   <!-- feedback: Correcto. $y' = -x/y$. Entonces $y'' = -\frac{(1)y - x(y')}{y^2} = -\frac{y - x(-x/y)}{y^2} = -\frac{y^2 + x^2}{y^3}$. Como $x^2 + y^2 = 1$, queda $-1/y^3$. -->
 - [ ] C) $-x^2/y^3$
   <!-- feedback: Incorrecto. No simplificó usando la ecuación original del círculo. -->

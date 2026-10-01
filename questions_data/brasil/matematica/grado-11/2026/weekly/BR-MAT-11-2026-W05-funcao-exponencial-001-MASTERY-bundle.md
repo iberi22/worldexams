@@ -30,8 +30,8 @@ calibration: {difficulty_band: "D3-D10", expected_success: 0.65}
 Qual é a forma básica de uma função exponencial de base $a$?
 
 ### Opciones
-- [ ] A) $f(x) = x^a$ <!-- feedback: Esta é uma função potência, onde a variável está na base, não no expoente. -->
-- [x] B) $f(x) = a^x$, com $a > 0$ e $a \neq 1$ <!-- feedback: Correto. Na função exponencial, a variável independente x encontra-se no expoente. -->
+- [ ] B) $f(x) = x^a$ <!-- feedback: Esta é uma função potência, onde a variável está na base, não no expoente. -->
+- [x] A) $f(x) = a^x$, com $a > 0$ e $a \neq 1$ <!-- feedback: Correto. Na função exponencial, a variável independente x encontra-se no expoente. -->
 - [ ] C) $f(x) = \log_a(x)$ <!-- feedback: Esta é a função logarítmica, que é a inversa da exponencial. -->
 - [ ] D) $f(x) = ax + b$ <!-- feedback: Esta é a função afim (do 1º grau). -->
 
@@ -49,8 +49,8 @@ Uma função exponencial é definida pela lei $f(x) = a^x$. As restrições sobr
 Em uma função exponencial do tipo $f(x) = a^x$, o que acontece com o gráfico se a base $a$ estiver entre 0 e 1 ($0 < a < 1$)?
 
 ### Opciones
-- [ ] A) A função é crescente. <!-- feedback: Para a função ser crescente, a base 'a' deve ser maior que 1. -->
-- [x] B) A função é decrescente. <!-- feedback: Correto. Quando a base é uma fração própria, multiplicar repetidamente diminui o valor final. -->
+- [ ] B) A função é crescente. <!-- feedback: Para a função ser crescente, a base 'a' deve ser maior que 1. -->
+- [x] A) A função é decrescente. <!-- feedback: Correto. Quando a base é uma fração própria, multiplicar repetidamente diminui o valor final. -->
 - [ ] C) A função é uma reta horizontal. <!-- feedback: Isso ocorreria apenas se a base fosse exatamente 1. -->
 - [ ] D) A função passa a ter raízes negativas. <!-- feedback: Funções exponenciais simples não possuem raízes (não cruzam o eixo x). -->
 
@@ -69,8 +69,8 @@ Qual é o valor de $f(3)$ para a função exponencial $f(x) = 2^x$?
 
 ### Opciones
 - [ ] A) 6 <!-- feedback: Erro comum de multiplicar a base pelo expoente (2 * 3). -->
-- [x] B) 8 <!-- feedback: 2³ = 2 * 2 * 2 = 8. -->
-- [ ] C) 9 <!-- feedback: 9 seria 3², confundindo a base com o expoente. -->
+- [x] C) 8 <!-- feedback: 2³ = 2 * 2 * 2 = 8. -->
+- [ ] B) 9 <!-- feedback: 9 seria 3², confundindo a base com o expoente. -->
 - [ ] D) 5 <!-- feedback: Erro de somar a base com o expoente. -->
 
 ### Explicacion Pedagogica
@@ -87,8 +87,8 @@ Avaliar uma função exponencial consiste em elevar a base ao valor de $x$ indic
 Onde o gráfico de qualquer função exponencial da forma $f(x) = a^x$ intercepta o eixo das ordenadas ($y$)?
 
 ### Opciones
-- [ ] A) Na origem $(0,0)$ <!-- feedback: O valor de a elevado a 0 nunca é 0 (para a ≠ 0). -->
-- [x] B) No ponto $(0,1)$ <!-- feedback: Correto. Qualquer número (diferente de zero) elevado a zero é igual a 1. -->
+- [ ] B) Na origem $(0,0)$ <!-- feedback: O valor de a elevado a 0 nunca é 0 (para a ≠ 0). -->
+- [x] A) No ponto $(0,1)$ <!-- feedback: Correto. Qualquer número (diferente de zero) elevado a zero é igual a 1. -->
 - [ ] C) No ponto $(1,0)$ <!-- feedback: Este seria um intercepto no eixo x, que estas funções não possuem. -->
 - [ ] D) Depende do valor da base $a$. <!-- feedback: Embora o formato da curva dependa de 'a', todas cruzam o eixo y no 1. -->
 
@@ -108,8 +108,8 @@ Dada a função $f(x) = (\frac{1}{3})^x$, qual é o valor de $f(-2)$?
 ### Opciones
 - [ ] A) $\frac{1}{9}$ <!-- feedback: Este seria o valor de f(2). -->
 - [ ] B) $-\frac{1}{9}$ <!-- feedback: Expoentes negativos não tornam o resultado da potência negativo. -->
-- [x] C) 9 <!-- feedback: (1/3)⁻² = 3² = 9. -->
-- [ ] D) -6 <!-- feedback: Erro grosseiro de operação aritmética. -->
+- [x] D) 9 <!-- feedback: (1/3)⁻² = 3² = 9. -->
+- [ ] C) -6 <!-- feedback: Erro grosseiro de operação aritmética. -->
 
 ### Explicacion Pedagogica
 Um expoente negativo inverte a base da potência. Assim, $(\frac{1}{3})^{-2} = (3)^2$. Elevando 3 ao quadrado, obtemos 9.
@@ -182,8 +182,8 @@ Para resolver equações exponenciais, devemos igualar as bases. Como $9 = 3^2$ 
 Se a área inicial é $A_0$, a função que descreve a área após $n$ décadas é $A(n) = A_0 \cdot (0,9)^n$. Qual será a porcentagem da área original restante após 2 décadas?
 
 ### Opciones
-- [ ] A) 80\% <!-- feedback: Este seria o resultado se a perda fosse de 10% do original a cada vez (juros simples). -->
-- [x] B) 81\% <!-- feedback: (0,9)² = 0,81 = 81%. -->
+- [ ] B) 80\% <!-- feedback: Este seria o resultado se a perda fosse de 10% do original a cada vez (juros simples). -->
+- [x] A) 81\% <!-- feedback: (0,9)² = 0,81 = 81%. -->
 - [ ] C) 90\% <!-- feedback: Este é o valor após apenas 1 década. -->
 - [ ] D) 70\% <!-- feedback: Erro no cálculo da potência. -->
 
@@ -202,8 +202,8 @@ Qual é a solução da equação $2^{x+3} = 32$?
 
 ### Opciones
 - [ ] A) $x = 5$ <!-- feedback: Se x=5, 2^(5+3) = 2⁸ = 256. -->
-- [x] B) $x = 2$ <!-- feedback: 32 = 2⁵. Logo x + 3 = 5 => x = 2. -->
-- [ ] C) $x = 1$ <!-- feedback: Se x=1, 2^(1+3) = 2⁴ = 16. -->
+- [x] C) $x = 2$ <!-- feedback: 32 = 2⁵. Logo x + 3 = 5 => x = 2. -->
+- [ ] B) $x = 1$ <!-- feedback: Se x=1, 2^(1+3) = 2⁴ = 16. -->
 - [ ] D) $x = 8$ <!-- feedback: Cálculo incorreto. -->
 
 ### Explicacion Pedagogica
@@ -221,9 +221,9 @@ Considere a função $f(x) = 2^x + 3$. Qual é a assíntota horizontal desta fun
 
 ### Opciones
 - [ ] A) Assíntota $y = 0$ e intercepto $(0, 1)$. <!-- feedback: Esta seria a resposta para a função 2^x sem o termo constante +3. -->
-- [x] B) Assíntota $y = 3$ e intercepto $(0, 4)$. <!-- feedback: A função é transladada 3 unidades para cima. f(0) = 2^0 + 3 = 4. -->
-- [ ] C) Assíntota $y = 3$ e intercepto $(0, 3)$. <!-- feedback: f(0) resulta em 4, não 3. -->
-- [ ] D) Assíntota $y = 1$ e intercepto $(0, 2)$. <!-- feedback: Translação incorreta. -->
+- [x] D) Assíntota $y = 3$ e intercepto $(0, 4)$. <!-- feedback: A função é transladada 3 unidades para cima. f(0) = 2^0 + 3 = 4. -->
+- [ ] B) Assíntota $y = 3$ e intercepto $(0, 3)$. <!-- feedback: f(0) resulta em 4, não 3. -->
+- [ ] C) Assíntota $y = 1$ e intercepto $(0, 2)$. <!-- feedback: Translação incorreta. -->
 
 ### Explicacion Pedagogica
 A função $a^x$ tem assíntota em $y=0$. Ao somar 3, todo o gráfico sobe 3 unidades, movendo a assíntota para $y=3$. O intercepto $y$ original era 1, somando 3, torna-se 4.
@@ -259,9 +259,9 @@ Dadas as funções $f(x) = 2^x$ e $g(x) = 4x$, para quais valores inteiros de $x
 
 ### Opciones
 - [ ] A) $x = 2$ apenas. <!-- feedback: f(2)=4 e g(2)=8. Não são iguais. -->
-- [x] B) $x = 4$ apenas. <!-- feedback: f(4) = 2⁴ = 16 e g(4) = 4 * 4 = 16. -->
-- [ ] C) $x = 0$ e $x = 4$. <!-- feedback: f(0)=1 e g(0)=0. Diferentes. -->
-- [ ] D) $x = 2$ e $x = 4$. <!-- feedback: Somente o 4 satisfaz a igualdade. -->
+- [x] D) $x = 4$ apenas. <!-- feedback: f(4) = 2⁴ = 16 e g(4) = 4 * 4 = 16. -->
+- [ ] B) $x = 0$ e $x = 4$. <!-- feedback: f(0)=1 e g(0)=0. Diferentes. -->
+- [ ] C) $x = 2$ e $x = 4$. <!-- feedback: Somente o 4 satisfaz a igualdade. -->
 
 ### Explicacion Pedagogica
 Testando os valores: para $x=4$, $2^4 = 16$ e $4 \cdot 4 = 16$. Embora funções exponenciais cresçam muito mais rápido que lineares a longo prazo, elas podem se cruzar em pontos específicos.
@@ -278,9 +278,9 @@ Se a população inicial é de 100 insetos, qual das seguintes funções represe
 
 ### Opciones
 - [ ] A) $P(n) = 100 \cdot 3^n$ <!-- feedback: Esta função assumiria que a população triplica a cada dia. -->
-- [x] B) $P(n) = 100 \cdot 3^{n/7}$ <!-- feedback: Correto. Quando n=7 (uma semana), o expoente é 1 e a população triplica. -->
-- [ ] C) $P(n) = 100 \cdot 3^{7n}$ <!-- feedback: Esta função cresceria rápido demais. -->
-- [ ] D) $P(n) = 300n + 100$ <!-- feedback: Crescimento populacional biológico é geralmente exponencial, não linear. -->
+- [x] D) $P(n) = 100 \cdot 3^{n/7}$ <!-- feedback: Correto. Quando n=7 (uma semana), o expoente é 1 e a população triplica. -->
+- [ ] B) $P(n) = 100 \cdot 3^{7n}$ <!-- feedback: Esta função cresceria rápido demais. -->
+- [ ] C) $P(n) = 300n + 100$ <!-- feedback: Crescimento populacional biológico é geralmente exponencial, não linear. -->
 
 ### Explicacion Pedagogica
 O fator de crescimento é 3. Como esse crescimento ocorre a cada 7 dias, o tempo $n$ deve ser dividido pelo período de 7 para que a base 3 seja elevada à potência 1 somente após uma semana completa.
@@ -296,9 +296,9 @@ O fator de crescimento é 3. Como esse crescimento ocorre a cada 7 dias, o tempo
 A função $f(x) = e^x$ é chamada de função exponencial natural. Qual é a característica fundamental de sua função inversa?
 
 ### Opciones
-- [ ] A) É uma função quadrática. <!-- feedback: A inversa de uma exponencial nunca é uma potência. -->
-- [ ] B) É a função $f(x) = x^e$. <!-- feedback: Esta é uma função potência. -->
-- [x] C) É o logaritmo natural, $\ln(x)$. <!-- feedback: Correto. O logaritmo de base 'e' é a operação inversa da exponencial de base 'e'. -->
+- [ ] B) É uma função quadrática. <!-- feedback: A inversa de uma exponencial nunca é uma potência. -->
+- [ ] C) É a função $f(x) = x^e$. <!-- feedback: Esta é uma função potência. -->
+- [x] A) É o logaritmo natural, $\ln(x)$. <!-- feedback: Correto. O logaritmo de base 'e' é a operação inversa da exponencial de base 'e'. -->
 - [ ] D) É a função $f(x) = 1/e^x$. <!-- feedback: Esta é a função e⁻x, não a inversa f⁻¹(x). -->
 
 ### Explicacion Pedagogica
@@ -315,9 +315,9 @@ Por definição, a função logarítmica é a inversa da função exponencial. Q
 Se $V(t) = 100 \cdot 2^{-t}$, qual será o valor de $V$ após 3 unidades de tempo?
 
 ### Opciones
-- [ ] A) 800 <!-- feedback: Erro ao tratar o expoente negativo como positivo. -->
-- [ ] B) 33,33 <!-- feedback: Erro de cálculo. -->
-- [x] C) 12,5 <!-- feedback: V(3) = 100 * 2⁻³ = 100 * (1/8) = 12,5. -->
+- [ ] B) 800 <!-- feedback: Erro ao tratar o expoente negativo como positivo. -->
+- [ ] C) 33,33 <!-- feedback: Erro de cálculo. -->
+- [x] A) 12,5 <!-- feedback: V(3) = 100 * 2⁻³ = 100 * (1/8) = 12,5. -->
 - [ ] D) -800 <!-- feedback: Exponenciais de base positiva nunca resultam em valores negativos. -->
 
 ### Explicacion Pedagogica
@@ -335,9 +335,9 @@ Resolva a equação: $4^x - 6 \cdot 2^x + 8 = 0$.
 
 ### Opciones
 - [ ] A) $x = 2$ e $x = 4$ <!-- feedback: Estes são os valores de y = 2^x, mas precisamos achar o valor de x. -->
-- [x] B) $x = 1$ e $x = 2$ <!-- feedback: Fazendo y = 2^x, temos y² - 6y + 8 = 0. Raízes y=2 e y=4. Então 2^x=2 (x=1) e 2^x=4 (x=2). -->
-- [ ] C) $x = 1$ e $x = 3$ <!-- feedback: Testando na equação original não satisfaz a igualdade. -->
-- [ ] D) Não possui solução real. <!-- feedback: A equação possui duas soluções reais distintas. -->
+- [x] D) $x = 1$ e $x = 2$ <!-- feedback: Fazendo y = 2^x, temos y² - 6y + 8 = 0. Raízes y=2 e y=4. Então 2^x=2 (x=1) e 2^x=4 (x=2). -->
+- [ ] B) $x = 1$ e $x = 3$ <!-- feedback: Testando na equação original não satisfaz a igualdade. -->
+- [ ] C) Não possui solução real. <!-- feedback: A equação possui duas soluções reais distintas. -->
 
 ### Explicacion Pedagogica
 Substituímos $y = 2^x$, transformando a equação em uma quadrática: $y^2 - 6y + 8 = 0$. As raízes são $y = 2$ e $y = 4$. Retornando para $x$: $2^x = 2 \Rightarrow x = 1$; $2^x = 4 \Rightarrow x = 2$.
@@ -353,8 +353,8 @@ Substituímos $y = 2^x$, transformando a equação em uma quadrática: $y^2 - 6y
 Considere a função $f(x) = 2^{-x^2}$. Qual é o valor máximo desta função e para qual valor de $x$ ele ocorre?
 
 ### Opciones
-- [ ] A) Máximo 2 em $x = 1$. <!-- feedback: f(1) = 2⁻¹ = 0,5. -->
-- [x] B) Máximo 1 em $x = 0$. <!-- feedback: x² é sempre ≥ 0, logo -x² é sempre ≤ 0. O valor máximo de 2^(-x²) ocorre quando o expoente é máximo (0). 2⁰ = 1. -->
+- [ ] B) Máximo 2 em $x = 1$. <!-- feedback: f(1) = 2⁻¹ = 0,5. -->
+- [x] A) Máximo 1 em $x = 0$. <!-- feedback: x² é sempre ≥ 0, logo -x² é sempre ≤ 0. O valor máximo de 2^(-x²) ocorre quando o expoente é máximo (0). 2⁰ = 1. -->
 - [ ] C) Não possui valor máximo. <!-- feedback: Como o expoente é limitado superiormente, a função possui máximo. -->
 - [ ] D) Máximo 0 em $x$ tendendo ao infinito. <!-- feedback: 0 é o limite inferior (assíntota), não o máximo. -->
 
@@ -374,8 +374,8 @@ Determine o conjunto solução da inequação: $2^{x^2 - 4} > (\frac{1}{2})^{x -
 ### Opciones
 - [ ] A) $x > 2$ <!-- feedback: Esta é apenas uma parte da solução. -->
 - [ ] B) $x < -3$ <!-- feedback: Esta é apenas uma parte da solução. -->
-- [x] C) $x < -3$ ou $x > 2$ <!-- feedback: 2^(x²-4) > 2^{-(x-2)} => x² - 4 > -x + 2 => x² + x - 6 > 0. Raízes -3 e 2. Parábola para cima, positiva fora das raízes. -->
-- [ ] D) $-3 < x < 2$ <!-- feedback: Este é o intervalo onde a expressão quadrática é negativa. -->
+- [x] D) $x < -3$ ou $x > 2$ <!-- feedback: 2^(x²-4) > 2^{-(x-2)} => x² - 4 > -x + 2 => x² + x - 6 > 0. Raízes -3 e 2. Parábola para cima, positiva fora das raízes. -->
+- [ ] C) $-3 < x < 2$ <!-- feedback: Este é o intervalo onde a expressão quadrática é negativa. -->
 
 ### Explicacion Pedagogica
 Colocamos na base 2: $2^{x^2 - 4} > 2^{-(x-2)}$. Como a base é maior que 1, mantemos a desigualdade: $x^2 - 4 > -x + 2 \Rightarrow x^2 + x - 6 > 0$. As raízes da equação quadrática são $-3$ e $2$. Como queremos valores maiores que zero, a solução está fora do intervalo das raízes.

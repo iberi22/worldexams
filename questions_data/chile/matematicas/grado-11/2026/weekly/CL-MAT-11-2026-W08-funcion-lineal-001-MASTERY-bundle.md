@@ -49,10 +49,10 @@ En la expresión $f(x) = mx + n$, $n$ es el coeficiente de posición. Gráficame
 ¿Cuál es la característica principal de una función lineal de la forma $f(x) = mx$ (donde $n=0$)?
 
 ### Opciones
-- [x] A) Pasa siempre por el origen $(0,0)$. <!-- feedback: Al no tener término independiente, si $x=0$ entonces $f(x)=0$. -->
-- [ ] B) Es siempre paralela al eje X. <!-- feedback: Eso ocurriría si la pendiente $m$ fuera 0. -->
-- [ ] C) Tiene pendiente negativa. <!-- feedback: La pendiente puede ser cualquier número real. -->
-- [ ] D) Nunca corta al eje Y. <!-- feedback: Todas las funciones de este tipo cortan al eje Y (en el origen). -->
+- [x] D) Pasa siempre por el origen $(0,0)$. <!-- feedback: Al no tener término independiente, si $x=0$ entonces $f(x)=0$. -->
+- [ ] A) Es siempre paralela al eje X. <!-- feedback: Eso ocurriría si la pendiente $m$ fuera 0. -->
+- [ ] B) Tiene pendiente negativa. <!-- feedback: La pendiente puede ser cualquier número real. -->
+- [ ] C) Nunca corta al eje Y. <!-- feedback: Todas las funciones de este tipo cortan al eje Y (en el origen). -->
 
 ### Explicacion Pedagogica
 Una función lineal pura ($f(x) = mx$) se caracteriza por representar una proporcionalidad directa entre las variables. Gráficamente, es una línea recta que obligatoriamente cruza por el origen del plano cartesiano, el punto $(0,0)$.
@@ -69,8 +69,8 @@ Dada la función $f(x) = 4x - 5$, ¿cuál es el valor de $f(3)$?
 
 ### Opciones
 - [ ] A) 17 <!-- feedback: Error en el cálculo, posiblemente sumaste en lugar de restar. -->
-- [x] B) 7 <!-- feedback: $4 \cdot 3 - 5 = 12 - 5 = 7$. -->
-- [ ] C) -2 <!-- feedback: Error aritmético en la multiplicación o resta. -->
+- [x] C) 7 <!-- feedback: $4 \cdot 3 - 5 = 12 - 5 = 7$. -->
+- [ ] B) -2 <!-- feedback: Error aritmético en la multiplicación o resta. -->
 - [ ] D) 12 <!-- feedback: Olvidaste restar el coeficiente de posición. -->
 
 ### Explicacion Pedagogica
@@ -87,8 +87,8 @@ Para hallar el valor de la función, evaluamos la expresión sustituyendo $x$ po
 Si una función lineal tiene una pendiente $m < 0$, ¿cómo es el comportamiento de su gráfica?
 
 ### Opciones
-- [ ] A) Es una recta creciente. <!-- feedback: Una recta creciente tiene pendiente positiva ($m > 0$). -->
-- [x] B) Es una recta decreciente. <!-- feedback: Correcto, a medida que aumenta $x$, el valor de $y$ disminuye. -->
+- [ ] B) Es una recta creciente. <!-- feedback: Una recta creciente tiene pendiente positiva ($m > 0$). -->
+- [x] A) Es una recta decreciente. <!-- feedback: Correcto, a medida que aumenta $x$, el valor de $y$ disminuye. -->
 - [ ] C) Es una recta horizontal. <!-- feedback: Las rectas horizontales tienen pendiente $m = 0$. -->
 - [ ] D) Es una recta vertical. <!-- feedback: Las rectas verticales no representan funciones de $x$. -->
 
@@ -107,9 +107,9 @@ La pendiente $m$ indica la tasa de cambio. Si $m$ es negativa, la función es de
 
 ### Opciones
 - [ ] A) 2 <!-- feedback: Error en la división o en la resta de las coordenadas. -->
-- [x] B) 3 <!-- feedback: $m = (8 - 2) / (3 - 1) = 6 / 2 = 3$. -->
-- [ ] C) 5 <!-- feedback: Error aritmético en el cálculo de la razón. -->
-- [ ] D) 1/3 <!-- feedback: Calculaste la pendiente invertida ($\Delta x / \Delta y$). -->
+- [x] D) 3 <!-- feedback: $m = (8 - 2) / (3 - 1) = 6 / 2 = 3$. -->
+- [ ] B) 5 <!-- feedback: Error aritmético en el cálculo de la razón. -->
+- [ ] C) 1/3 <!-- feedback: Calculaste la pendiente invertida ($\Delta x / \Delta y$). -->
 
 ### Explicacion Pedagogica
 La pendiente se calcula mediante la razón entre el cambio en $y$ y el cambio en $x$: $m = (y_2 - y_1) / (x_2 - x_1)$. Sustituyendo: $m = (8 - 2) / (3 - 1) = 6 / 2 = 3$.
@@ -126,9 +126,9 @@ Un técnico cobra \$15.000 por la visita a domicilio más \$8.000 por cada hora 
 
 ### Opciones
 - [ ] A) $C(x) = 15.000x + 8.000$ <!-- feedback: Invertiste el cargo fijo con el costo variable por hora. -->
-- [x] B) $C(x) = 8.000x + 15.000$ <!-- feedback: Correcto. El costo variable depende de $x$ y se suma el cargo fijo. -->
-- [ ] C) $C(x) = 23.000x$ <!-- feedback: Esto supondría que los \$15.000 se cobran por cada hora también. -->
-- [ ] D) $C(x) = 8.000 + 15.000$ <!-- feedback: Esta es una función constante que no depende de las horas trabajadas. -->
+- [x] D) $C(x) = 8.000x + 15.000$ <!-- feedback: Correcto. El costo variable depende de $x$ y se suma el cargo fijo. -->
+- [ ] B) $C(x) = 23.000x$ <!-- feedback: Esto supondría que los \$15.000 se cobran por cada hora también. -->
+- [ ] C) $C(x) = 8.000 + 15.000$ <!-- feedback: Esta es una función constante que no depende de las horas trabajadas. -->
 
 ### Explicacion Pedagogica
 Identificamos los componentes: el cargo por hora es la pendiente ($8.000$ por cada $x$) y el cargo por visita es el coeficiente de posición (\$15.000, costo base cuando $x=0$). La función es $C(x) = 8.000x + 15.000$.
@@ -145,8 +145,8 @@ Identificamos los componentes: el cargo por hora es la pendiente ($8.000$ por ca
 
 ### Opciones
 - [ ] A) $(0, -10)$ <!-- feedback: Este es el intercepto con el eje Y. -->
-- [x] B) $(5, 0)$ <!-- feedback: $2x - 10 = 0 \Rightarrow 2x = 10 \Rightarrow x = 5$. El punto es (5,0). -->
-- [ ] C) $(-5, 0)$ <!-- feedback: Error en el signo durante el despeje de $x$. -->
+- [x] C) $(5, 0)$ <!-- feedback: $2x - 10 = 0 \Rightarrow 2x = 10 \Rightarrow x = 5$. El punto es (5,0). -->
+- [ ] B) $(-5, 0)$ <!-- feedback: Error en el signo durante el despeje de $x$. -->
 - [ ] D) $(10, 0)$ <!-- feedback: Olvidaste dividir por el coeficiente de la pendiente. -->
 
 ### Explicacion Pedagogica
@@ -164,8 +164,8 @@ Para hallar el intercepto con el eje X (cero de la función), igualamos la funci
 
 ### Opciones
 - [ ] A) 10 minutos <!-- feedback: Olvidaste que el estanque ya tiene 40 litros al empezar. -->
-- [x] B) 8 minutos <!-- feedback: $40 + 20x = 200 \Rightarrow 20x = 160 \Rightarrow x = 8$. -->
-- [ ] C) 12 minutos <!-- feedback: Error en el planteamiento de la ecuación de llenado. -->
+- [x] C) 8 minutos <!-- feedback: $40 + 20x = 200 \Rightarrow 20x = 160 \Rightarrow x = 8$. -->
+- [ ] B) 12 minutos <!-- feedback: Error en el planteamiento de la ecuación de llenado. -->
 - [ ] D) 7 minutos <!-- feedback: Error aritmético en la división final. -->
 
 ### Explicacion Pedagogica
@@ -183,9 +183,9 @@ Si por 5 metros se pagan \$12.500 y la relación es lineal sin cargo fijo, ¿cu�
 
 ### Opciones
 - [ ] A) \$15.000 <!-- feedback: Calculaste un aumento de \$2.500 pero no proporcional. -->
-- [x] B) \$20.000 <!-- feedback: Precio por metro = $12.500 / 5 = 2.500$. Por 8 metros: $8 \cdot 2.500 = 20.000$. -->
-- [ ] C) \$18.500 <!-- feedback: Error en el cálculo de la constante de proporcionalidad. -->
-- [ ] D) \$25.000 <!-- feedback: Has multiplicado por un factor incorrecto. -->
+- [x] D) \$20.000 <!-- feedback: Precio por metro = $12.500 / 5 = 2.500$. Por 8 metros: $8 \cdot 2.500 = 20.000$. -->
+- [ ] B) \$18.500 <!-- feedback: Error en el cálculo de la constante de proporcionalidad. -->
+- [ ] C) \$25.000 <!-- feedback: Has multiplicado por un factor incorrecto. -->
 
 ### Explicacion Pedagogica
 Es una función lineal del tipo $P(m) = km$. Hallamos $k$: $12.500 = k \cdot 5 \Rightarrow k = 2.500$ pesos por metro. Para 8 metros: $P(8) = 2.500 \cdot 8 = 20.000$ pesos.
@@ -202,8 +202,8 @@ Es una función lineal del tipo $P(m) = km$. Hallamos $k$: $12.500 = k \cdot 5 \
 
 ### Opciones
 - [ ] A) Que tengan el mismo coeficiente de posición $n$. <!-- feedback: Eso haría que corten al eje Y en el mismo punto, no asegura paralelismo. -->
-- [x] B) Que tengan la misma pendiente $m$. <!-- feedback: Correcto, igual inclinación asegura que nunca se junten si $n$ es distinto. -->
-- [ ] C) Que el producto de sus pendientes sea -1. <!-- feedback: Esa es la condición para rectas perpendiculares. -->
+- [x] C) Que tengan la misma pendiente $m$. <!-- feedback: Correcto, igual inclinación asegura que nunca se junten si $n$ es distinto. -->
+- [ ] B) Que el producto de sus pendientes sea -1. <!-- feedback: Esa es la condición para rectas perpendiculares. -->
 - [ ] D) Que sus pendientes sean opuestas ($m$ y $-m$). <!-- feedback: Eso las hace simétricas respecto a un eje, no paralelas. -->
 
 ### Explicacion Pedagogica
@@ -220,8 +220,8 @@ Dos rectas son paralelas si y solo si tienen exactamente la misma pendiente ($m_
 ¿Cuál es la ecuación de la recta que tiene pendiente $m = -2$ y pasa por el punto $P(3, 4)$?
 
 ### Opciones
-- [ ] A) $y = -2x + 4$ <!-- feedback: Sustituir el punto no cumple la igualdad. -->
-- [x] B) $y = -2x + 10$ <!-- feedback: $4 = -2(3) + n \Rightarrow 4 = -6 + n \Rightarrow n = 10$. -->
+- [ ] B) $y = -2x + 4$ <!-- feedback: Sustituir el punto no cumple la igualdad. -->
+- [x] A) $y = -2x + 10$ <!-- feedback: $4 = -2(3) + n \Rightarrow 4 = -6 + n \Rightarrow n = 10$. -->
 - [ ] C) $y = -2x - 2$ <!-- feedback: Error en el cálculo del coeficiente de posición. -->
 - [ ] D) $y = 2x - 2$ <!-- feedback: Invertiste el signo de la pendiente. -->
 
@@ -240,8 +240,8 @@ Usamos la forma punto-pendiente: $y - y_1 = m(x - x_1)$. Sustituimos: $y - 4 = -
 
 ### Opciones
 - [ ] A) $f(x) = 4x + 5$ <!-- feedback: Error en el cálculo de la pendiente $\Delta y / \Delta x$. -->
-- [x] B) $f(x) = 2x + 5$ <!-- feedback: $n=5$ (punto en X=0). $m = (9-5)/(2-0) = 4/2 = 2$. -->
-- [ ] C) $f(x) = 5x + 2$ <!-- feedback: Invertiste la pendiente con el coeficiente de posición. -->
+- [x] C) $f(x) = 2x + 5$ <!-- feedback: $n=5$ (punto en X=0). $m = (9-5)/(2-0) = 4/2 = 2$. -->
+- [ ] B) $f(x) = 5x + 2$ <!-- feedback: Invertiste la pendiente con el coeficiente de posición. -->
 - [ ] D) $f(x) = 2x + 9$ <!-- feedback: El coeficiente de posición correcto es 5. -->
 
 ### Explicacion Pedagogica
@@ -259,8 +259,8 @@ Como pasa por $(0, 5)$, sabemos que $n = 5$. Calculamos la pendiente $m$ usando 
 
 ### Opciones
 - [ ] A) $(3, 10)$ <!-- feedback: Al sustituir $x=3$, $f(3)=10$ pero $g(3)=8$. -->
-- [x] B) $(2, 7)$ <!-- feedback: $3x + 1 = x + 5 \Rightarrow 2x = 4 \Rightarrow x=2$. $f(2)=3(2)+1=7$. -->
-- [ ] C) $(1, 4)$ <!-- feedback: No satisfacen la igualdad de las funciones. -->
+- [x] C) $(2, 7)$ <!-- feedback: $3x + 1 = x + 5 \Rightarrow 2x = 4 \Rightarrow x=2$. $f(2)=3(2)+1=7$. -->
+- [ ] B) $(1, 4)$ <!-- feedback: No satisfacen la igualdad de las funciones. -->
 - [ ] D) $(2, 6)$ <!-- feedback: Error en el cálculo de la ordenada $y$. -->
 
 ### Explicacion Pedagogica
@@ -297,9 +297,9 @@ La función $f(x) = 7$ se puede escribir como $f(x) = 0x + 7$. Como el coeficien
 
 ### Opciones
 - [ ] A) $f(x) = 2x - 3$ <!-- feedback: Cortaría al eje Y en -3. -->
-- [x] B) $f(x) = 2x + 6$ <!-- feedback: Intercepto Y en 6. Si $x=-3$, $2(-3)+6 = 0$ (intercepto X). -->
-- [ ] C) $f(x) = -2x + 6$ <!-- feedback: Cortaría al eje X en +3. -->
-- [ ] D) $f(x) = 3x + 6$ <!-- feedback: Cortaría al eje X en -2. -->
+- [x] D) $f(x) = 2x + 6$ <!-- feedback: Intercepto Y en 6. Si $x=-3$, $2(-3)+6 = 0$ (intercepto X). -->
+- [ ] B) $f(x) = -2x + 6$ <!-- feedback: Cortaría al eje X en +3. -->
+- [ ] C) $f(x) = 3x + 6$ <!-- feedback: Cortaría al eje X en -2. -->
 
 ### Explicacion Pedagogica
 Intercepto con Y en 6 significa $n=6$. Puntos: $(0, 6)$ y $(-3, 0)$. Pendiente $m = (0 - 6) / (-3 - 0) = -6 / -3 = 2$. La función es $f(x) = 2x + 6$.
@@ -316,8 +316,8 @@ Intercepto con Y en 6 significa $n=6$. Puntos: $(0, 6)$ y $(-3, 0)$. Pendiente $
 
 ### Opciones
 - [ ] A) $T(h) = 0,006h + 25$ <!-- feedback: La temperatura debe bajar (pendiente negativa). -->
-- [x] B) $T(h) = -0,006h + 25$ <!-- feedback: $m = (19-25)/1.000 = -6/1.000 = -0,006$. -->
-- [ ] C) $T(h) = -6h + 25$ <!-- feedback: La pendiente es por metro, no por kilómetro. -->
+- [x] C) $T(h) = -0,006h + 25$ <!-- feedback: $m = (19-25)/1.000 = -6/1.000 = -0,006$. -->
+- [ ] B) $T(h) = -6h + 25$ <!-- feedback: La pendiente es por metro, no por kilómetro. -->
 - [ ] D) $T(h) = 0,006h - 25$ <!-- feedback: El coeficiente de posición debe ser la temperatura inicial positiva. -->
 
 ### Explicacion Pedagogica
@@ -334,8 +334,8 @@ Temperatura inicial $T(0) = 25$, entonces $n=25$. Pendiente $m = \Delta T / \Del
 Si a la función $f(x) = mx + n$ se le duplica la pendiente y se le suma 3 al coeficiente de posición, ¿cuál es la nueva función $g(x)$?
 
 ### Opciones
-- [ ] A) $g(x) = 2(mx + n) + 3$ <!-- feedback: Eso duplicaría también el coeficiente de posición original. -->
-- [x] B) $g(x) = 2mx + n + 3$ <!-- feedback: Correcto. Se aplican las operaciones solo a los parámetros indicados. -->
+- [ ] B) $g(x) = 2(mx + n) + 3$ <!-- feedback: Eso duplicaría también el coeficiente de posición original. -->
+- [x] A) $g(x) = 2mx + n + 3$ <!-- feedback: Correcto. Se aplican las operaciones solo a los parámetros indicados. -->
 - [ ] C) $g(x) = m^2x + n + 3$ <!-- feedback: Duplicar es multiplicar por 2, no elevar al cuadrado. -->
 - [ ] D) $g(x) = 2mx + 3n$ <!-- feedback: Sumar 3 no es lo mismo que triplicar. -->
 
@@ -353,8 +353,8 @@ La pendiente original es $m$, al duplicarla resulta $2m$. El coeficiente de posi
 Si $f(x) = 3x - 12$, ¿cuál es la expresión para la función inversa $f^{-1}(x)$?
 
 ### Opciones
-- [ ] A) $f^{-1}(x) = \frac{1}{3x - 12}$ <!-- feedback: Ese es el recíproco multiplicativo, no la función inversa. -->
-- [x] B) $f^{-1}(x) = \frac{x + 12}{3}$ <!-- feedback: $x = 3y - 12 \Rightarrow x + 12 = 3y \Rightarrow y = (x + 12)/3$. -->
+- [ ] B) $f^{-1}(x) = \frac{1}{3x - 12}$ <!-- feedback: Ese es el recíproco multiplicativo, no la función inversa. -->
+- [x] A) $f^{-1}(x) = \frac{x + 12}{3}$ <!-- feedback: $x = 3y - 12 \Rightarrow x + 12 = 3y \Rightarrow y = (x + 12)/3$. -->
 - [ ] C) $f^{-1}(x) = 3x + 12$ <!-- feedback: Olvidaste invertir la operación de la pendiente. -->
 - [ ] D) $f^{-1}(x) = \frac{x - 12}{3}$ <!-- feedback: Error en el signo al despejar la variable. -->
 
@@ -372,8 +372,8 @@ Para hallar la inversa, despejamos $x$: $y = 3x - 12 \Rightarrow y + 12 = 3x \Ri
 Dadas $f(x) = 2x$ y $g(x) = x + 4$, ¿cuál es el valor de $(f \circ g)(5)$?
 
 ### Opciones
-- [ ] A) 14 <!-- feedback: Ese es el valor de $(g \circ f)(5)$. -->
-- [x] B) 18 <!-- feedback: $g(5) = 9$; luego $f(9) = 2 \cdot 9 = 18$. -->
+- [ ] B) 14 <!-- feedback: Ese es el valor de $(g \circ f)(5)$. -->
+- [x] A) 18 <!-- feedback: $g(5) = 9$; luego $f(9) = 2 \cdot 9 = 18$. -->
 - [ ] C) 10 <!-- feedback: Solo calculaste $f(5)$. -->
 - [ ] D) 9 <!-- feedback: Solo calculaste $g(5)$. -->
 
@@ -392,8 +392,8 @@ La composición $(f \circ g)(x)$ significa evaluar $f$ con el resultado de $g(x)
 
 ### Opciones
 - [ ] A) $g(x) = 2x + 3$ <!-- feedback: Las pendientes deben ser recíprocas y de signo opuesto. -->
-- [x] B) $g(x) = -2x + 5$ <!-- feedback: $1/2 \cdot (-2) = -1$. Se cumple la condición de perpendicularidad. -->
-- [ ] C) $g(x) = -\frac{1}{2}x + 3$ <!-- feedback: Estas rectas son solo simétricas respecto a la horizontal. -->
+- [x] C) $g(x) = -2x + 5$ <!-- feedback: $1/2 \cdot (-2) = -1$. Se cumple la condición de perpendicularidad. -->
+- [ ] B) $g(x) = -\frac{1}{2}x + 3$ <!-- feedback: Estas rectas son solo simétricas respecto a la horizontal. -->
 - [ ] D) $g(x) = \frac{1}{2}x - 5$ <!-- feedback: Esta es una recta paralela. -->
 
 ### Explicacion Pedagogica

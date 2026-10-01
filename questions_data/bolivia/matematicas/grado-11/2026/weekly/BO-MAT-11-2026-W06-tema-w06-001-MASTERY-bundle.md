@@ -54,9 +54,9 @@ Cada ecuación lineal en dos variables representa una recta. El conjunto de solu
 Si tenemos un sistema de ecuaciones lineales 2x2 y al resolverlo por el método de eliminación obtenemos una contradicción como 0 = 5, ¿cuál es la conclusión correcta?
 
 ### Opciones
-- [x] A) El sistema es incompatible (no tiene solución real alguna). <!-- feedback: ¡Correcto! Una contradicción numérica indica que las dos ecuaciones representan rectas paralelas y por tanto no se interceptan. -->
-- [ ] B) El sistema tiene infinitas soluciones complejas. <!-- feedback: Incorrecto. Si hay contradicción, no existe ninguna combinación de valores que satisfaga ambas ecuaciones. -->
-- [ ] C) La solución del sistema es el punto (0, 5) en el plano. <!-- feedback: Incorrecto. La igualdad 0 = 5 es una falsedad matemática, no representa coordenadas. -->
+- [x] C) El sistema es incompatible (no tiene solución real alguna). <!-- feedback: ¡Correcto! Una contradicción numérica indica que las dos ecuaciones representan rectas paralelas y por tanto no se interceptan. -->
+- [ ] A) El sistema tiene infinitas soluciones complejas. <!-- feedback: Incorrecto. Si hay contradicción, no existe ninguna combinación de valores que satisfaga ambas ecuaciones. -->
+- [ ] B) La solución del sistema es el punto (0, 5) en el plano. <!-- feedback: Incorrecto. La igualdad 0 = 5 es una falsedad matemática, no representa coordenadas. -->
 - [ ] D) El sistema tiene exactamente dos soluciones reales. <!-- feedback: Incorrecto. Las ecuaciones lineales en un plano nunca pueden tener exactamente dos puntos de cruce. -->
 
 ### Explicacion Pedagogica
@@ -94,10 +94,10 @@ Un sistema compatible indeterminado posee infinitas soluciones debido a que amba
 Resuelva el sistema de ecuaciones lineales: x + y = 12; 4x - 4y = 4. ¿Cuál es el valor del par (x, y)?
 
 ### Opciones
-- [x] A) x = 6.5, y = 5.5 <!-- feedback: ¡Correcto! Al despejar por sustitución o reducción se obtienen estos valores exactos. -->
-- [ ] B) x = 4, y = 4 <!-- feedback: Incorrecto. Estos valores no satisfacen simultáneamente la segunda ecuación lineal del sistema. -->
-- [ ] C) x = 1, y = 2 <!-- feedback: Incorrecto. No satisface el valor de la primera suma del sistema. -->
-- [ ] D) No tiene solución real <!-- feedback: Incorrecto. El sistema es compatible determinado, por lo que tiene solución única. -->
+- [x] D) x = 6.5, y = 5.5 <!-- feedback: ¡Correcto! Al despejar por sustitución o reducción se obtienen estos valores exactos. -->
+- [ ] A) x = 4, y = 4 <!-- feedback: Incorrecto. Estos valores no satisfacen simultáneamente la segunda ecuación lineal del sistema. -->
+- [ ] B) x = 1, y = 2 <!-- feedback: Incorrecto. No satisface el valor de la primera suma del sistema. -->
+- [ ] C) No tiene solución real <!-- feedback: Incorrecto. El sistema es compatible determinado, por lo que tiene solución única. -->
 
 ### Explicacion Pedagogica
 Sumando o restando de forma conveniente las ecuaciones del sistema lineal se obtiene con total rigor la solución de las variables reales x e y.
@@ -114,10 +114,10 @@ Sumando o restando de forma conveniente las ecuaciones del sistema lineal se obt
 Resuelva el sistema de ecuaciones lineales: x + y = 15; 5x - 5y = 5. ¿Cuál es el valor del par (x, y)?
 
 ### Opciones
-- [x] A) x = 8.0, y = 7.0 <!-- feedback: ¡Correcto! Al despejar por sustitución o reducción se obtienen estos valores exactos. -->
-- [ ] B) x = 5, y = 5 <!-- feedback: Incorrecto. Estos valores no satisfacen simultáneamente la segunda ecuación lineal del sistema. -->
-- [ ] C) x = 1, y = 2 <!-- feedback: Incorrecto. No satisface el valor de la primera suma del sistema. -->
-- [ ] D) No tiene solución real <!-- feedback: Incorrecto. El sistema es compatible determinado, por lo que tiene solución única. -->
+- [x] D) x = 8.0, y = 7.0 <!-- feedback: ¡Correcto! Al despejar por sustitución o reducción se obtienen estos valores exactos. -->
+- [ ] A) x = 5, y = 5 <!-- feedback: Incorrecto. Estos valores no satisfacen simultáneamente la segunda ecuación lineal del sistema. -->
+- [ ] B) x = 1, y = 2 <!-- feedback: Incorrecto. No satisface el valor de la primera suma del sistema. -->
+- [ ] C) No tiene solución real <!-- feedback: Incorrecto. El sistema es compatible determinado, por lo que tiene solución única. -->
 
 ### Explicacion Pedagogica
 Sumando o restando de forma conveniente las ecuaciones del sistema lineal se obtiene con total rigor la solución de las variables reales x e y.
@@ -134,8 +134,8 @@ Sumando o restando de forma conveniente las ecuaciones del sistema lineal se obt
 Resuelva el sistema de ecuaciones lineales: x + y = 18; 6x - 6y = 6. ¿Cuál es el valor del par (x, y)?
 
 ### Opciones
-- [x] A) x = 9.5, y = 8.5 <!-- feedback: ¡Correcto! Al despejar por sustitución o reducción se obtienen estos valores exactos. -->
-- [ ] B) x = 6, y = 6 <!-- feedback: Incorrecto. Estos valores no satisfacen simultáneamente la segunda ecuación lineal del sistema. -->
+- [x] B) x = 9.5, y = 8.5 <!-- feedback: ¡Correcto! Al despejar por sustitución o reducción se obtienen estos valores exactos. -->
+- [ ] A) x = 6, y = 6 <!-- feedback: Incorrecto. Estos valores no satisfacen simultáneamente la segunda ecuación lineal del sistema. -->
 - [ ] C) x = 1, y = 2 <!-- feedback: Incorrecto. No satisface el valor de la primera suma del sistema. -->
 - [ ] D) No tiene solución real <!-- feedback: Incorrecto. El sistema es compatible determinado, por lo que tiene solución única. -->
 
@@ -194,9 +194,9 @@ Sumando o restando de forma conveniente las ecuaciones del sistema lineal se obt
 Resuelva el sistema de ecuaciones lineales: x + y = 27; 9x - 9y = 9. ¿Cuál es el valor del par (x, y)?
 
 ### Opciones
-- [x] A) x = 14.0, y = 13.0 <!-- feedback: ¡Correcto! Al despejar por sustitución o reducción se obtienen estos valores exactos. -->
-- [ ] B) x = 9, y = 9 <!-- feedback: Incorrecto. Estos valores no satisfacen simultáneamente la segunda ecuación lineal del sistema. -->
-- [ ] C) x = 1, y = 2 <!-- feedback: Incorrecto. No satisface el valor de la primera suma del sistema. -->
+- [x] C) x = 14.0, y = 13.0 <!-- feedback: ¡Correcto! Al despejar por sustitución o reducción se obtienen estos valores exactos. -->
+- [ ] A) x = 9, y = 9 <!-- feedback: Incorrecto. Estos valores no satisfacen simultáneamente la segunda ecuación lineal del sistema. -->
+- [ ] B) x = 1, y = 2 <!-- feedback: Incorrecto. No satisface el valor de la primera suma del sistema. -->
 - [ ] D) No tiene solución real <!-- feedback: Incorrecto. El sistema es compatible determinado, por lo que tiene solución única. -->
 
 ### Explicacion Pedagogica
@@ -234,8 +234,8 @@ Sumando o restando de forma conveniente las ecuaciones del sistema lineal se obt
 Resuelva el sistema de ecuaciones lineales: x + y = 33; 11x - 11y = 11. ¿Cuál es el valor del par (x, y)?
 
 ### Opciones
-- [x] A) x = 17.0, y = 16.0 <!-- feedback: ¡Correcto! Al despejar por sustitución o reducción se obtienen estos valores exactos. -->
-- [ ] B) x = 11, y = 11 <!-- feedback: Incorrecto. Estos valores no satisfacen simultáneamente la segunda ecuación lineal del sistema. -->
+- [x] B) x = 17.0, y = 16.0 <!-- feedback: ¡Correcto! Al despejar por sustitución o reducción se obtienen estos valores exactos. -->
+- [ ] A) x = 11, y = 11 <!-- feedback: Incorrecto. Estos valores no satisfacen simultáneamente la segunda ecuación lineal del sistema. -->
 - [ ] C) x = 1, y = 2 <!-- feedback: Incorrecto. No satisface el valor de la primera suma del sistema. -->
 - [ ] D) No tiene solución real <!-- feedback: Incorrecto. El sistema es compatible determinado, por lo que tiene solución única. -->
 
@@ -254,10 +254,10 @@ Sumando o restando de forma conveniente las ecuaciones del sistema lineal se obt
 Resuelva el sistema de ecuaciones lineales: x + y = 36; 12x - 12y = 12. ¿Cuál es el valor del par (x, y)?
 
 ### Opciones
-- [x] A) x = 18.5, y = 17.5 <!-- feedback: ¡Correcto! Al despejar por sustitución o reducción se obtienen estos valores exactos. -->
-- [ ] B) x = 12, y = 12 <!-- feedback: Incorrecto. Estos valores no satisfacen simultáneamente la segunda ecuación lineal del sistema. -->
-- [ ] C) x = 1, y = 2 <!-- feedback: Incorrecto. No satisface el valor de la primera suma del sistema. -->
-- [ ] D) No tiene solución real <!-- feedback: Incorrecto. El sistema es compatible determinado, por lo que tiene solución única. -->
+- [x] D) x = 18.5, y = 17.5 <!-- feedback: ¡Correcto! Al despejar por sustitución o reducción se obtienen estos valores exactos. -->
+- [ ] A) x = 12, y = 12 <!-- feedback: Incorrecto. Estos valores no satisfacen simultáneamente la segunda ecuación lineal del sistema. -->
+- [ ] B) x = 1, y = 2 <!-- feedback: Incorrecto. No satisface el valor de la primera suma del sistema. -->
+- [ ] C) No tiene solución real <!-- feedback: Incorrecto. El sistema es compatible determinado, por lo que tiene solución única. -->
 
 ### Explicacion Pedagogica
 Sumando o restando de forma conveniente las ecuaciones del sistema lineal se obtiene con total rigor la solución de las variables reales x e y.
@@ -274,10 +274,10 @@ Sumando o restando de forma conveniente las ecuaciones del sistema lineal se obt
 Resuelva el sistema de ecuaciones lineales: x + y = 39; 13x - 13y = 13. ¿Cuál es el valor del par (x, y)?
 
 ### Opciones
-- [x] A) x = 20.0, y = 19.0 <!-- feedback: ¡Correcto! Al despejar por sustitución o reducción se obtienen estos valores exactos. -->
-- [ ] B) x = 13, y = 13 <!-- feedback: Incorrecto. Estos valores no satisfacen simultáneamente la segunda ecuación lineal del sistema. -->
-- [ ] C) x = 1, y = 2 <!-- feedback: Incorrecto. No satisface el valor de la primera suma del sistema. -->
-- [ ] D) No tiene solución real <!-- feedback: Incorrecto. El sistema es compatible determinado, por lo que tiene solución única. -->
+- [x] D) x = 20.0, y = 19.0 <!-- feedback: ¡Correcto! Al despejar por sustitución o reducción se obtienen estos valores exactos. -->
+- [ ] A) x = 13, y = 13 <!-- feedback: Incorrecto. Estos valores no satisfacen simultáneamente la segunda ecuación lineal del sistema. -->
+- [ ] B) x = 1, y = 2 <!-- feedback: Incorrecto. No satisface el valor de la primera suma del sistema. -->
+- [ ] C) No tiene solución real <!-- feedback: Incorrecto. El sistema es compatible determinado, por lo que tiene solución única. -->
 
 ### Explicacion Pedagogica
 Sumando o restando de forma conveniente las ecuaciones del sistema lineal se obtiene con total rigor la solución de las variables reales x e y.
@@ -294,8 +294,8 @@ Sumando o restando de forma conveniente las ecuaciones del sistema lineal se obt
 Resuelva el sistema de ecuaciones lineales: x + y = 42; 14x - 14y = 14. ¿Cuál es el valor del par (x, y)?
 
 ### Opciones
-- [x] A) x = 21.5, y = 20.5 <!-- feedback: ¡Correcto! Al despejar por sustitución o reducción se obtienen estos valores exactos. -->
-- [ ] B) x = 14, y = 14 <!-- feedback: Incorrecto. Estos valores no satisfacen simultáneamente la segunda ecuación lineal del sistema. -->
+- [x] B) x = 21.5, y = 20.5 <!-- feedback: ¡Correcto! Al despejar por sustitución o reducción se obtienen estos valores exactos. -->
+- [ ] A) x = 14, y = 14 <!-- feedback: Incorrecto. Estos valores no satisfacen simultáneamente la segunda ecuación lineal del sistema. -->
 - [ ] C) x = 1, y = 2 <!-- feedback: Incorrecto. No satisface el valor de la primera suma del sistema. -->
 - [ ] D) No tiene solución real <!-- feedback: Incorrecto. El sistema es compatible determinado, por lo que tiene solución única. -->
 
@@ -314,9 +314,9 @@ Sumando o restando de forma conveniente las ecuaciones del sistema lineal se obt
 Resuelva el sistema de ecuaciones lineales: x + y = 45; 15x - 15y = 15. ¿Cuál es el valor del par (x, y)?
 
 ### Opciones
-- [x] A) x = 23.0, y = 22.0 <!-- feedback: ¡Correcto! Al despejar por sustitución o reducción se obtienen estos valores exactos. -->
-- [ ] B) x = 15, y = 15 <!-- feedback: Incorrecto. Estos valores no satisfacen simultáneamente la segunda ecuación lineal del sistema. -->
-- [ ] C) x = 1, y = 2 <!-- feedback: Incorrecto. No satisface el valor de la primera suma del sistema. -->
+- [x] C) x = 23.0, y = 22.0 <!-- feedback: ¡Correcto! Al despejar por sustitución o reducción se obtienen estos valores exactos. -->
+- [ ] A) x = 15, y = 15 <!-- feedback: Incorrecto. Estos valores no satisfacen simultáneamente la segunda ecuación lineal del sistema. -->
+- [ ] B) x = 1, y = 2 <!-- feedback: Incorrecto. No satisface el valor de la primera suma del sistema. -->
 - [ ] D) No tiene solución real <!-- feedback: Incorrecto. El sistema es compatible determinado, por lo que tiene solución única. -->
 
 ### Explicacion Pedagogica
@@ -334,10 +334,10 @@ Sumando o restando de forma conveniente las ecuaciones del sistema lineal se obt
 Resuelva el sistema de ecuaciones lineales: x + y = 48; 16x - 16y = 16. ¿Cuál es el valor del par (x, y)?
 
 ### Opciones
-- [x] A) x = 24.5, y = 23.5 <!-- feedback: ¡Correcto! Al despejar por sustitución o reducción se obtienen estos valores exactos. -->
-- [ ] B) x = 16, y = 16 <!-- feedback: Incorrecto. Estos valores no satisfacen simultáneamente la segunda ecuación lineal del sistema. -->
-- [ ] C) x = 1, y = 2 <!-- feedback: Incorrecto. No satisface el valor de la primera suma del sistema. -->
-- [ ] D) No tiene solución real <!-- feedback: Incorrecto. El sistema es compatible determinado, por lo que tiene solución única. -->
+- [x] D) x = 24.5, y = 23.5 <!-- feedback: ¡Correcto! Al despejar por sustitución o reducción se obtienen estos valores exactos. -->
+- [ ] A) x = 16, y = 16 <!-- feedback: Incorrecto. Estos valores no satisfacen simultáneamente la segunda ecuación lineal del sistema. -->
+- [ ] B) x = 1, y = 2 <!-- feedback: Incorrecto. No satisface el valor de la primera suma del sistema. -->
+- [ ] C) No tiene solución real <!-- feedback: Incorrecto. El sistema es compatible determinado, por lo que tiene solución única. -->
 
 ### Explicacion Pedagogica
 Sumando o restando de forma conveniente las ecuaciones del sistema lineal se obtiene con total rigor la solución de las variables reales x e y.
@@ -374,8 +374,8 @@ Sumando o restando de forma conveniente las ecuaciones del sistema lineal se obt
 Resuelva el sistema de ecuaciones lineales: x + y = 54; 18x - 18y = 18. ¿Cuál es el valor del par (x, y)?
 
 ### Opciones
-- [x] A) x = 27.5, y = 26.5 <!-- feedback: ¡Correcto! Al despejar por sustitución o reducción se obtienen estos valores exactos. -->
-- [ ] B) x = 18, y = 18 <!-- feedback: Incorrecto. Estos valores no satisfacen simultáneamente la segunda ecuación lineal del sistema. -->
+- [x] B) x = 27.5, y = 26.5 <!-- feedback: ¡Correcto! Al despejar por sustitución o reducción se obtienen estos valores exactos. -->
+- [ ] A) x = 18, y = 18 <!-- feedback: Incorrecto. Estos valores no satisfacen simultáneamente la segunda ecuación lineal del sistema. -->
 - [ ] C) x = 1, y = 2 <!-- feedback: Incorrecto. No satisface el valor de la primera suma del sistema. -->
 - [ ] D) No tiene solución real <!-- feedback: Incorrecto. El sistema es compatible determinado, por lo que tiene solución única. -->
 
@@ -394,8 +394,8 @@ Sumando o restando de forma conveniente las ecuaciones del sistema lineal se obt
 Resuelva el sistema de ecuaciones lineales: x + y = 57; 19x - 19y = 19. ¿Cuál es el valor del par (x, y)?
 
 ### Opciones
-- [x] A) x = 29.0, y = 28.0 <!-- feedback: ¡Correcto! Al despejar por sustitución o reducción se obtienen estos valores exactos. -->
-- [ ] B) x = 19, y = 19 <!-- feedback: Incorrecto. Estos valores no satisfacen simultáneamente la segunda ecuación lineal del sistema. -->
+- [x] B) x = 29.0, y = 28.0 <!-- feedback: ¡Correcto! Al despejar por sustitución o reducción se obtienen estos valores exactos. -->
+- [ ] A) x = 19, y = 19 <!-- feedback: Incorrecto. Estos valores no satisfacen simultáneamente la segunda ecuación lineal del sistema. -->
 - [ ] C) x = 1, y = 2 <!-- feedback: Incorrecto. No satisface el valor de la primera suma del sistema. -->
 - [ ] D) No tiene solución real <!-- feedback: Incorrecto. El sistema es compatible determinado, por lo que tiene solución única. -->
 
@@ -414,9 +414,9 @@ Sumando o restando de forma conveniente las ecuaciones del sistema lineal se obt
 Resuelva el sistema de ecuaciones lineales: x + y = 60; 20x - 20y = 20. ¿Cuál es el valor del par (x, y)?
 
 ### Opciones
-- [x] A) x = 30.5, y = 29.5 <!-- feedback: ¡Correcto! Al despejar por sustitución o reducción se obtienen estos valores exactos. -->
-- [ ] B) x = 20, y = 20 <!-- feedback: Incorrecto. Estos valores no satisfacen simultáneamente la segunda ecuación lineal del sistema. -->
-- [ ] C) x = 1, y = 2 <!-- feedback: Incorrecto. No satisface el valor de la primera suma del sistema. -->
+- [x] C) x = 30.5, y = 29.5 <!-- feedback: ¡Correcto! Al despejar por sustitución o reducción se obtienen estos valores exactos. -->
+- [ ] A) x = 20, y = 20 <!-- feedback: Incorrecto. Estos valores no satisfacen simultáneamente la segunda ecuación lineal del sistema. -->
+- [ ] B) x = 1, y = 2 <!-- feedback: Incorrecto. No satisface el valor de la primera suma del sistema. -->
 - [ ] D) No tiene solución real <!-- feedback: Incorrecto. El sistema es compatible determinado, por lo que tiene solución única. -->
 
 ### Explicacion Pedagogica

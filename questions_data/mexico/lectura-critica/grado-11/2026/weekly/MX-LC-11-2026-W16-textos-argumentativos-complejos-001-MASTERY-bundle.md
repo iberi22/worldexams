@@ -31,9 +31,9 @@ creador: "Jules-Agent"
 
 ### Opciones
 - [ ] A) El agua debe tratarse como una mercancía cuyo precio regule el mercado. <!-- feedback: Incorrecto: el editorial rechaza explícitamente esa postura, a la que califica de seductora pero insuficiente. -->
-- [x] B) El acceso al agua es un derecho ciudadano y no puede quedar sujeto únicamente a las leyes del mercado. <!-- feedback: Correcto: el editorial sostiene que el agua no es un lujo sino un derecho y critica la visión mercantil. -->
-- [ ] C) Monterrey debe construir nuevas presas para resolver la escasez de agua. <!-- feedback: Incorrecto: el editorial no propone construir presas; cuestiona la lógica de privatización y exige transparencia. -->
-- [ ] D) La privatización del servicio de agua es la única alternativa viable en México. <!-- feedback: Incorrecto: el autor presenta la privatización como una postura ajena y la contrasta con el principio del derecho al agua. -->
+- [x] D) El acceso al agua es un derecho ciudadano y no puede quedar sujeto únicamente a las leyes del mercado. <!-- feedback: Correcto: el editorial sostiene que el agua no es un lujo sino un derecho y critica la visión mercantil. -->
+- [ ] B) Monterrey debe construir nuevas presas para resolver la escasez de agua. <!-- feedback: Incorrecto: el editorial no propone construir presas; cuestiona la lógica de privatización y exige transparencia. -->
+- [ ] C) La privatización del servicio de agua es la única alternativa viable en México. <!-- feedback: Incorrecto: el autor presenta la privatización como una postura ajena y la contrasta con el principio del derecho al agua. -->
 
 ### Explicacion Pedagogica
 La tesis es la idea central que el autor defiende. Aquí se plantea al inicio: el agua debe entenderse como un derecho y no como una mercancía regulada solo por el mercado. La opción A describe la postura contraria que el texto critica.
@@ -49,10 +49,10 @@ La tesis es la idea central que el autor defiende. Aquí se plantea al inicio: e
 ¿Qué función cumple el primer párrafo del editorial?
 
 ### Opciones
-- [x] A) Presenta el problema con ejemplos reconocibles para el lector mexicano. <!-- feedback: Correcto: menciona sequías, Monterrey y el Sistema Cutzamala para anclar el tema en la realidad nacional. -->
-- [ ] B) Anuncia la conclusión definitiva del texto antes de desarrollar los argumentos. <!-- feedback: Incorrecto: el primer párrafo contextualiza; la postura se va precisando y defendiendo después. -->
-- [ ] C) Expone estadísticas oficiales detalladas sobre el consumo de agua. <!-- feedback: Incorrecto: el texto no presenta estadísticas detalladas en ese párrafo. -->
-- [ ] D) Describe las consecuencias legales de privatizar los sistemas de agua. <!-- feedback: Incorrecto: no se discuten consecuencias legales en la introducción. -->
+- [x] D) Presenta el problema con ejemplos reconocibles para el lector mexicano. <!-- feedback: Correcto: menciona sequías, Monterrey y el Sistema Cutzamala para anclar el tema en la realidad nacional. -->
+- [ ] A) Anuncia la conclusión definitiva del texto antes de desarrollar los argumentos. <!-- feedback: Incorrecto: el primer párrafo contextualiza; la postura se va precisando y defendiendo después. -->
+- [ ] B) Expone estadísticas oficiales detalladas sobre el consumo de agua. <!-- feedback: Incorrecto: el texto no presenta estadísticas detalladas en ese párrafo. -->
+- [ ] C) Describe las consecuencias legales de privatizar los sistemas de agua. <!-- feedback: Incorrecto: no se discuten consecuencias legales en la introducción. -->
 
 ### Explicacion Pedagogica
 En los textos argumentativos, la introducción suele contextualizar el problema para volverlo cercano al lector. El primer párrafo cumple esa función al citar sequías, cortes en Monterrey y los niveles del Sistema Cutzamala, hechos reconocibles del contexto mexicano.
@@ -69,8 +69,8 @@ Según el texto, ¿qué significa tener "alfabetización mediática"?
 
 ### Opciones
 - [ ] A) Desconfiar de toda la información que circula en internet. <!-- feedback: Incorrecto: el autor aclara que no significa desconfiar de todo, sino preguntarse por el origen y la intención. -->
-- [ ] B) Aprender a usar programas de edición para crear contenido. <!-- feedback: Incorrecto: la alfabetización mediática se refiere a la comprensión crítica de la información, no a herramientas de edición. -->
-- [x] C) Preguntarse quién produce la información, con qué recursos y con qué intención antes de compartirla. <!-- feedback: Correcto: el texto define la alfabetización mediática como esa indagación previa a compartir. -->
+- [ ] C) Aprender a usar programas de edición para crear contenido. <!-- feedback: Incorrecto: la alfabetización mediática se refiere a la comprensión crítica de la información, no a herramientas de edición. -->
+- [x] B) Preguntarse quién produce la información, con qué recursos y con qué intención antes de compartirla. <!-- feedback: Correcto: el texto define la alfabetización mediática como esa indagación previa a compartir. -->
 - [ ] D) Evitar el uso de WhatsApp para no recibir cadenas falsas. <!-- feedback: Incorrecto: el autor no propone abandonar las plataformas, sino leerlas críticamente. -->
 
 ### Explicacion Pedagogica
@@ -87,8 +87,8 @@ La alfabetización mediática es la capacidad de evaluar críticamente la inform
 ¿Qué postura defiende el columnista frente a la desinformación?
 
 ### Opciones
-- [ ] A) Las redes sociales deberían prohibirse en las escuelas mexicanas. <!-- feedback: Incorrecto: el texto no propone prohibiciones escolares. -->
-- [x] B) La solución es formar lectores críticos capaces de evaluar la información. <!-- feedback: Correcto: el columnista propone la alfabetización mediática como respuesta ante los rumores. -->
+- [ ] B) Las redes sociales deberían prohibirse en las escuelas mexicanas. <!-- feedback: Incorrecto: el texto no propone prohibiciones escolares. -->
+- [x] A) La solución es formar lectores críticos capaces de evaluar la información. <!-- feedback: Correcto: el columnista propone la alfabetización mediática como respuesta ante los rumores. -->
 - [ ] C) El gobierno debe censurar las cadenas falsas de WhatsApp. <!-- feedback: Incorrecto: el autor no sugiere censura gubernamental. -->
 - [ ] D) El problema de la desinformación es menor y no amerita atención. <!-- feedback: Incorrecto: el columnista dedica el texto a demostrar que el problema es real y creciente. -->
 
@@ -106,9 +106,9 @@ La postura de un texto argumentativo es la respuesta que defiende ante un proble
 Cuando el editorial afirma que "la experiencia internacional muestra que privatizar el servicio no garantiza eficiencia", ¿qué premisa queda implícita?
 
 ### Opciones
-- [ ] A) La eficiencia económica es el único criterio válido para administrar el agua. <!-- feedback: Incorrecto: esa premisa apoyaría la privatización, que el texto justamente rechaza. -->
-- [ ] B) Todos los países privatizaron sus servicios de agua con el mismo resultado. <!-- feedback: Incorrecto: la afirmación habla de una tendencia, no de una uniformidad total. -->
-- [x] C) La justicia social debe pesar tanto como la eficiencia económica en la gestión del agua. <!-- feedback: Correcto: para criticar la privatización, el autor supone que existen criterios no económicos, como el derecho y la equidad. -->
+- [ ] B) La eficiencia económica es el único criterio válido para administrar el agua. <!-- feedback: Incorrecto: esa premisa apoyaría la privatización, que el texto justamente rechaza. -->
+- [ ] C) Todos los países privatizaron sus servicios de agua con el mismo resultado. <!-- feedback: Incorrecto: la afirmación habla de una tendencia, no de una uniformidad total. -->
+- [x] A) La justicia social debe pesar tanto como la eficiencia económica en la gestión del agua. <!-- feedback: Correcto: para criticar la privatización, el autor supone que existen criterios no económicos, como el derecho y la equidad. -->
 - [ ] D) Los gobiernos no deben intervenir en la gestión del agua. <!-- feedback: Incorrecto: el editorial exige transparencia y gestión pública responsable, no ausencia del Estado. -->
 
 ### Explicacion Pedagogica
@@ -126,8 +126,8 @@ Una premisa implícita es lo que el argumento da por sentado sin decirlo. Para q
 
 ### Opciones
 - [ ] A) "El rumor, una vez lanzado, corre más que la rectificación." <!-- feedback: Incorrecto: es una valoración del autor sobre la velocidad del rumor, no un dato verificable. -->
-- [ ] B) "La aldea global resultó tener más rumores que noticias." <!-- feedback: Incorrecto: es una apreciación irónica, no un hecho comprobable. -->
-- [x] C) "Una cadena falsa sobre el cierre de mercados provocó compras de pánico en Oaxaca." <!-- feedback: Correcto: describe un suceso concreto y verificable que el autor usa como ejemplo. -->
+- [ ] C) "La aldea global resultó tener más rumores que noticias." <!-- feedback: Incorrecto: es una apreciación irónica, no un hecho comprobable. -->
+- [x] B) "Una cadena falsa sobre el cierre de mercados provocó compras de pánico en Oaxaca." <!-- feedback: Correcto: describe un suceso concreto y verificable que el autor usa como ejemplo. -->
 - [ ] D) "El chisme de antaño hoy viaja a la velocidad de un reenvío." <!-- feedback: Incorrecto: es una comparación literaria, no un hecho observable. -->
 
 ### Explicacion Pedagogica
@@ -145,8 +145,8 @@ Un hecho es un suceso o dato verificable; una opinión es un juicio del emisor. 
 
 ### Opciones
 - [ ] A) Únicamente a los ingenieros hidráulicos especializados. <!-- feedback: Incorrecto: el lenguaje y los ejemplos son accesibles, no técnicos. -->
-- [ ] B) Solo a los habitantes de Monterrey afectados por los cortes. <!-- feedback: Incorrecto: si bien menciona Monterrey, el texto apela a un debate nacional. -->
-- [x] C) A la opinión pública nacional y a los tomadores de decisiones. <!-- feedback: Correcto: el editorial busca influir en lectores ciudadanos y en quienes gobiernan los servicios. -->
+- [ ] C) Solo a los habitantes de Monterrey afectados por los cortes. <!-- feedback: Incorrecto: si bien menciona Monterrey, el texto apela a un debate nacional. -->
+- [x] B) A la opinión pública nacional y a los tomadores de decisiones. <!-- feedback: Correcto: el editorial busca influir en lectores ciudadanos y en quienes gobiernan los servicios. -->
 - [ ] D) A los inversionistas interesados en comprar concesiones de agua. <!-- feedback: Incorrecto: el texto cuestiona esa lógica de mercado en lugar de atraer inversionistas. -->
 
 ### Explicacion Pedagogica
@@ -163,9 +163,9 @@ La audiencia de un texto argumentativo se infiere de su registro, sus ejemplos y
 ¿Qué función cumple el ejemplo de la cadena falsa que provocó compras de pánico en Oaxaca?
 
 ### Opciones
-- [ ] A) Demostrar que Oaxaca es el estado más vulnerable a los rumores. <!-- feedback: Incorrecto: el ejemplo no busca comparar estados ni establecer una jerarquía de vulnerabilidad. -->
-- [ ] B) Ridiculizar a los habitantes de Oaxaca por creer en rumores. <!-- feedback: Incorrecto: el tono del texto no es burlón hacia las víctimas de la desinformación. -->
-- [x] C) Ilustrar una consecuencia concreta y dañina de la desinformación. <!-- feedback: Correcto: el ejemplo hace tangible el costo social del rumor. -->
+- [ ] B) Demostrar que Oaxaca es el estado más vulnerable a los rumores. <!-- feedback: Incorrecto: el ejemplo no busca comparar estados ni establecer una jerarquía de vulnerabilidad. -->
+- [ ] C) Ridiculizar a los habitantes de Oaxaca por creer en rumores. <!-- feedback: Incorrecto: el tono del texto no es burlón hacia las víctimas de la desinformación. -->
+- [x] A) Ilustrar una consecuencia concreta y dañina de la desinformación. <!-- feedback: Correcto: el ejemplo hace tangible el costo social del rumor. -->
 - [ ] D) Proponer una solución específica para los mercados de Oaxaca. <!-- feedback: Incorrecto: el ejemplo diagnostica un problema; la solución general del texto es la alfabetización mediática. -->
 
 ### Explicacion Pedagogica
@@ -182,8 +182,8 @@ Los ejemplos concretos dan fuerza a un argumento al mostrar sus efectos reales. 
 ¿Cuál de las siguientes objeciones debilitaría más el argumento del columnista si no la respondiera?
 
 ### Opciones
-- [ ] A) "Las redes sociales tienen muchas ventajas educativas." <!-- feedback: Incorrecto: el columnista no niega las ventajas de las redes; su tesis no se derrumba con ese señalamiento. -->
-- [x] B) "El daño de las cadenas falsas es marginal porque la mayoría de los usuarios verifica antes de compartir." <!-- feedback: Correcto: si la mayoría verificara, el problema que el autor describe perdería gravedad; por eso debería contraargumentarla. -->
+- [ ] B) "Las redes sociales tienen muchas ventajas educativas." <!-- feedback: Incorrecto: el columnista no niega las ventajas de las redes; su tesis no se derrumba con ese señalamiento. -->
+- [x] A) "El daño de las cadenas falsas es marginal porque la mayoría de los usuarios verifica antes de compartir." <!-- feedback: Correcto: si la mayoría verificara, el problema que el autor describe perdería gravedad; por eso debería contraargumentarla. -->
 - [ ] C) "WhatsApp pertenece a una empresa extranjera." <!-- feedback: Incorrecto: la nacionalidad de la plataforma no contradice la tesis sobre la necesidad de leer críticamente. -->
 - [ ] D) "Los jóvenes usan más TikTok que WhatsApp." <!-- feedback: Incorrecto: la elección de plataforma no afecta el argumento central sobre la desinformación. -->
 
@@ -202,8 +202,8 @@ Un contraargumento es una razón que ataca la tesis o su gravedad. La objeción 
 
 ### Opciones
 - [ ] A) Apoya sin reservas la siembra comercial de maíz transgénico. <!-- feedback: Incorrecto: el autor reconoce el argumento científico, pero subraya la dimensión cultural y de soberanía. -->
-- [ ] B) Rechaza por completo la biotecnología agrícola. <!-- feedback: Incorrecto: el texto no condena la biotecnología en general; matiza el debate. -->
-- [x] C) Valora el argumento científico, pero defiende que el maíz no puede tratarse solo como mercancía. <!-- feedback: Correcto: el autor presenta la discusión como un conflicto entre rendimiento, soberanía y patrimonio cultural. -->
+- [ ] C) Rechaza por completo la biotecnología agrícola. <!-- feedback: Incorrecto: el texto no condena la biotecnología en general; matiza el debate. -->
+- [x] B) Valora el argumento científico, pero defiende que el maíz no puede tratarse solo como mercancía. <!-- feedback: Correcto: el autor presenta la discusión como un conflicto entre rendimiento, soberanía y patrimonio cultural. -->
 - [ ] D) Considera que el debate es innecesario porque el maíz nativo ya está protegido. <!-- feedback: Incorrecto: el texto presenta el debate como vigente y complejo, no como algo resuelto. -->
 
 ### Explicacion Pedagogica
@@ -222,8 +222,8 @@ Un participante del foro afirma: "O privatizamos el servicio de agua o seguiremo
 ### Opciones
 - [ ] A) Ataque personal contra quienes proponen la privatización. <!-- feedback: Incorrecto: el enunciado no descalifica personas; plantea una disyuntiva. -->
 - [ ] B) Apelación a la autoridad de un experto internacional. <!-- feedback: Incorrecto: no se invoca ninguna autoridad externa. -->
-- [x] C) Falsa dicotomía: presenta solo dos opciones cuando existen alternativas intermedias. <!-- feedback: Correcto: entre privatizar y sufrir cortes hay muchas opciones de gestión, inversión y regulación. -->
-- [ ] D) Generalización apresurada a partir de un solo caso. <!-- feedback: Incorrecto: no se generaliza desde un caso particular; se reduce el abanico de soluciones. -->
+- [x] D) Falsa dicotomía: presenta solo dos opciones cuando existen alternativas intermedias. <!-- feedback: Correcto: entre privatizar y sufrir cortes hay muchas opciones de gestión, inversión y regulación. -->
+- [ ] C) Generalización apresurada a partir de un solo caso. <!-- feedback: Incorrecto: no se generaliza desde un caso particular; se reduce el abanico de soluciones. -->
 
 ### Explicacion Pedagogica
 La falsa dicotomía (o falso dilema) reduce artificialmente las opciones a dos extremos. La frase ignora alternativas como la gestión pública eficiente, la inversión en infraestructura o la tarificación escalonada, por lo que el razonamiento queda incompleto.
@@ -239,8 +239,8 @@ La falsa dicotomía (o falso dilema) reduce artificialmente las opciones a dos e
 Cuando el editorial afirma que el agua "no es un lujo, es un derecho" y menciona a las "colonias enteras" sin acceso, ¿qué recurso persuasivo emplea?
 
 ### Opciones
-- [ ] A) Logos: una cadena estadística rigurosa. <!-- feedback: Incorrecto: el fragmento no aporta datos ni razonamientos cuantitativos. -->
-- [x] B) Pathos: una apelación emocional orientada a la empatía y a la indignación. <!-- feedback: Correcto: la frase y la imagen de las colonias buscan mover afectivamente al lector. -->
+- [ ] B) Logos: una cadena estadística rigurosa. <!-- feedback: Incorrecto: el fragmento no aporta datos ni razonamientos cuantitativos. -->
+- [x] A) Pathos: una apelación emocional orientada a la empatía y a la indignación. <!-- feedback: Correcto: la frase y la imagen de las colonias buscan mover afectivamente al lector. -->
 - [ ] C) Ethos: la demostración de la autoridad moral del autor. <!-- feedback: Incorrecto: aunque el autor se presenta como defensor de derechos, el recurso central del fragmento es emocional. -->
 - [ ] D) Ironía: un sentido contrario al literal. <!-- feedback: Incorrecto: el fragmento es directo y solemne, no irónico. -->
 
@@ -277,9 +277,9 @@ Los referentes geográficos funcionan como evidencia contextual: convierten una 
 Ante la objeción de que la gestión privada reduce costos, el autor replica que "la tarifa no es el único precio". ¿Qué estrategia argumentativa utiliza?
 
 ### Opciones
-- [ ] A) Negar que existan costos de cualquier tipo. <!-- feedback: Incorrecto: el autor no niega los costos; los redefine. -->
-- [ ] B) Desviar el tema hacia un asunto sin relación. <!-- feedback: Incorrecto: la respuesta es pertinente y ataca directamente el criterio del interlocutor. -->
-- [x] C) Ampliar el concepto de costo para incluir las consecuencias sociales. <!-- feedback: Correcto: el autor suma al precio monetario la salud, el tiempo y la dignidad afectados por el desabasto. -->
+- [ ] B) Negar que existan costos de cualquier tipo. <!-- feedback: Incorrecto: el autor no niega los costos; los redefine. -->
+- [ ] C) Desviar el tema hacia un asunto sin relación. <!-- feedback: Incorrecto: la respuesta es pertinente y ataca directamente el criterio del interlocutor. -->
+- [x] A) Ampliar el concepto de costo para incluir las consecuencias sociales. <!-- feedback: Correcto: el autor suma al precio monetario la salud, el tiempo y la dignidad afectados por el desabasto. -->
 - [ ] D) Apelar a una norma legal que prohíbe la privatización. <!-- feedback: Incorrecto: el texto no invoca una prohibición legal concreta. -->
 
 ### Explicacion Pedagogica
@@ -297,9 +297,9 @@ Al escribir que "el chisme de antaño, que se contaba en la tiendita de la esqui
 
 ### Opciones
 - [ ] A) Que el chisme es un fenómeno exclusivo de las tienditas. <!-- feedback: Incorrecto: la tiendita es un punto de partida nostálgico, no un límite del fenómeno. -->
-- [ ] B) Que los rumores son más verdaderos que las noticias. <!-- feedback: Incorrecto: el texto no equipara rumor y verdad. -->
-- [ ] C) Que la desinformación es un fenómeno nuevo que antes no existía. <!-- feedback: Incorrecto: la comparación muestra continuidad del fenómeno, no su nacimiento. -->
-- [x] D) Que el rumor no es nuevo, pero su velocidad y alcance actuales sí lo son. <!-- feedback: Correcto: la ironía suave subraya el contraste entre el espacio local del pasado y la escala instantánea de hoy. -->
+- [ ] C) Que los rumores son más verdaderos que las noticias. <!-- feedback: Incorrecto: el texto no equipara rumor y verdad. -->
+- [ ] D) Que la desinformación es un fenómeno nuevo que antes no existía. <!-- feedback: Incorrecto: la comparación muestra continuidad del fenómeno, no su nacimiento. -->
+- [x] B) Que el rumor no es nuevo, pero su velocidad y alcance actuales sí lo son. <!-- feedback: Correcto: la ironía suave subraya el contraste entre el espacio local del pasado y la escala instantánea de hoy. -->
 
 ### Explicacion Pedagogica
 La comparación entre la tiendita y WhatsApp implica continuidad y cambio a la vez: el rumor siempre existió, pero la tecnología multiplicó su velocidad y su audiencia. Reconocer esa doble dimensión es clave para interpretar la ironía del pasaje.
@@ -317,8 +317,8 @@ En el debate sobre el maíz, ¿cuál de las siguientes apelaciones a la autorida
 ### Opciones
 - [ ] A) "Los científicos ya resolvieron el debate; el público solo debe aceptarlo." <!-- feedback: Incorrecto: cerrar la discusión apelando a un grupo de expertos es una apelación indebida a la autoridad. -->
 - [ ] B) "Un famoso empresario agrícola opina que el maíz transgénico es seguro." <!-- feedback: Incorrecto: la fama o el interés económico no convierten a alguien en autoridad técnica pertinente. -->
-- [x] C) "Estudios agronómicos revisados por pares documentan los efectos de estos cultivos." <!-- feedback: Correcto: la evidencia sometida a revisión especializada y verificable es una autoridad legítima. -->
-- [ ] D) "Una celebridad del espectáculo recomienda consumir solo maíz nativo." <!-- feedback: Incorrecto: la popularidad no otorga autoridad técnica sobre agronomía. -->
+- [x] D) "Estudios agronómicos revisados por pares documentan los efectos de estos cultivos." <!-- feedback: Correcto: la evidencia sometida a revisión especializada y verificable es una autoridad legítima. -->
+- [ ] C) "Una celebridad del espectáculo recomienda consumir solo maíz nativo." <!-- feedback: Incorrecto: la popularidad no otorga autoridad técnica sobre agronomía. -->
 
 ### Explicacion Pedagogica
 El argumento de autoridad es válido cuando la fuente citada es pertinente, verificable y sometida al escrutinio de la comunidad especializada. Apelar a famosos, empresarios o a un supuesto consenso cerrado constituye una falacia.
@@ -335,8 +335,8 @@ El argumento de autoridad es válido cuando la fuente citada es pertinente, veri
 
 ### Opciones
 - [ ] A) Exige privatizar el servicio sin considerar alternativas. <!-- feedback: Incorrecto: el editorial se opone a la privatización; esa no es su debilidad. -->
-- [x] B) Permanece en el plano de los principios sin detallar cómo financiar la infraestructura necesaria. <!-- feedback: Correcto: el texto defiende el derecho y critica al mercado, pero no concreta mecanismos de gestión ni de financiamiento. -->
-- [ ] C) Incluye demasiados datos estadísticos que abruman al lector. <!-- feedback: Incorrecto: el texto no presenta estadísticas abundantes. -->
+- [x] C) Permanece en el plano de los principios sin detallar cómo financiar la infraestructura necesaria. <!-- feedback: Correcto: el texto defiende el derecho y critica al mercado, pero no concreta mecanismos de gestión ni de financiamiento. -->
+- [ ] B) Incluye demasiados datos estadísticos que abruman al lector. <!-- feedback: Incorrecto: el texto no presenta estadísticas abundantes. -->
 - [ ] D) Descalifica personalmente a quienes proponen la privatización. <!-- feedback: Incorrecto: el autor critica una postura, no ataca personas. -->
 
 ### Explicacion Pedagogica
@@ -354,8 +354,8 @@ Si se descubriera que el columnista de la desinformación trabaja para una empre
 
 ### Opciones
 - [ ] A) Debería ignorarlo por completo porque toda información interesada es falsa. <!-- feedback: Incorrecto: el interés no vuelve automáticamente falso el contenido; exige cautela, no descarte total. -->
-- [ ] B) Debería aceptarlo sin reservas porque la empresa garantiza su objetividad. <!-- feedback: Incorrecto: ninguna pertenencia institucional garantiza por sí sola la imparcialidad. -->
-- [x] C) Debería contrastarlo con otras fuentes, pues su interés profesional podría sesgar la gravedad que atribuye al problema. <!-- feedback: Correcto: un conflicto de interés conocido obliga a leer con más cuidado y a buscar corroboración independiente. -->
+- [ ] C) Debería aceptarlo sin reservas porque la empresa garantiza su objetividad. <!-- feedback: Incorrecto: ninguna pertenencia institucional garantiza por sí sola la imparcialidad. -->
+- [x] B) Debería contrastarlo con otras fuentes, pues su interés profesional podría sesgar la gravedad que atribuye al problema. <!-- feedback: Correcto: un conflicto de interés conocido obliga a leer con más cuidado y a buscar corroboración independiente. -->
 - [ ] D) Debería considerar que su militancia lo inhabilita para opinar de desinformación. <!-- feedback: Incorrecto: la experiencia profesional no inhabilita, aunque sí obliga a declarar el interés. -->
 
 ### Explicacion Pedagogica

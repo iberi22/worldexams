@@ -35,11 +35,11 @@ alineadas con los DBA y Estándares Básicos de Competencias del MEN Colombia.
 ¿Cuál es una característica central del teatro colombiano del siglo XX?
 
 ### Opciones
-- [x] A) La exploración de la identidad nacional, el conflicto social y la diversidad regional.
+- [x] C) La exploración de la identidad nacional, el conflicto social y la diversidad regional.
   <!-- feedback: El teatro colombiano refleja la realidad pluricultural del país. -->
-- [ ] B) La evasión total de temas sociales.
+- [ ] A) La evasión total de temas sociales.
   <!-- feedback: Por el contrario, los aborda. -->
-- [ ] C) El uso exclusivo del dialecto costeño.
+- [ ] B) El uso exclusivo del dialecto costeño.
   <!-- feedback: Integra diversas variantes lingüísticas. -->
 - [ ] D) La prohibición de la crítica política.
   <!-- feedback: La crítica política ha sido frecuente. -->
@@ -58,9 +58,9 @@ El teatro colombiano se nutre de la diversidad cultural y de los debates sociale
 ¿Qué elementos componen una obra teatral?
 
 ### Opciones
-- [x] A) Texto dramático, personajes, diálogos, acotaciones y montaje escénico.
+- [x] B) Texto dramático, personajes, diálogos, acotaciones y montaje escénico.
   <!-- feedback: Todos estos elementos son constitutivos del texto dramático. -->
-- [ ] B) Solo narración y descripción.
+- [ ] A) Solo narración y descripción.
   <!-- feedback: También hay diálogo y acción. -->
 - [ ] C) Únicamente vestuario y luces.
   <!-- feedback: Falta el texto dramático. -->
@@ -81,11 +81,11 @@ El texto dramático incluye diálogos, acotaciones y se completa en escena con l
 ¿Qué función cumplen las acotaciones en un texto dramático?
 
 ### Opciones
-- [x] A) Indicar gestos, movimientos, tono, escenografía y sonidos sugeridos por el autor.
+- [x] C) Indicar gestos, movimientos, tono, escenografía y sonidos sugeridos por el autor.
   <!-- feedback: Orientan la puesta en escena. -->
-- [ ] B) Sustituir los diálogos.
+- [ ] A) Sustituir los diálogos.
   <!-- feedback: Los complementan. -->
-- [ ] C) Cambiar el argumento principal.
+- [ ] B) Cambiar el argumento principal.
   <!-- feedback: Las acotaciones no modifican la trama central. -->
 - [ ] D) Anular el conflicto dramático.
   <!-- feedback: Pueden reforzarlo. -->
@@ -150,13 +150,13 @@ El conflicto dramático articula la tensión que двига la trama teatral.
 ¿Cuál es la diferencia entre acto y escena en una obra teatral?
 
 ### Opciones
-- [x] A) El acto es una unidad estructural mayor; la escena es una subdivisión del acto.
+- [x] D) El acto es una unidad estructural mayor; la escena es una subdivisión del acto.
   <!-- feedback: Los actos marcan cambios importantes; las escenas cambios menores. -->
-- [ ] B) No existen diferencias.
+- [ ] A) No existen diferencias.
   <!-- feedback: Son unidades distintas. -->
-- [ ] C) La escena es más larga que el acto.
+- [ ] B) La escena es más larga que el acto.
   <!-- feedback: La jerarquía es inversa. -->
-- [ ] D) El acto es solo musical.
+- [ ] C) El acto es solo musical.
   <!-- feedback: Puede incluir diálogos. -->
 
 ### Explicacion Pedagogica
@@ -173,13 +173,13 @@ La estructura clásica suele dividirse en tres actos con escenas interiores.
 ¿Qué recurso teatral utiliza el dramaturgo para revelar el pasado de un personaje?
 
 ### Opciones
-- [x] A) El flashback o retrospectiva mediante diálogo.
+- [x] D) El flashback o retrospectiva mediante diálogo.
   <!-- feedback: Es un recurso habitual en el teatro. -->
-- [ ] B) Eliminar toda referencia al pasado.
+- [ ] A) Eliminar toda referencia al pasado.
   <!-- feedback: El pasado es esencial para la psicología del personaje. -->
-- [ ] C) Cambiar el título de la obra.
+- [ ] B) Cambiar el título de la obra.
   <!-- feedback: No modifica la historia. -->
-- [ ] D) Sustituir el conflicto.
+- [ ] C) Sustituir el conflicto.
   <!-- feedback: Confunde la trama. -->
 
 ### Explicacion Pedagogica
@@ -196,13 +196,13 @@ El flashback permite profundizar en la motivación de los personajes.
 ¿Cuál es la diferencia entre tragedia y comedia?
 
 ### Opciones
-- [x] A) La tragedia termina en derrota; la comedia busca el humor y обычно termina en reconciliación.
+- [x] D) La tragedia termina en derrota; la comedia busca el humor y обычно termina en reconciliación.
   <!-- feedback: La distinción clásica se basa en el desenlace. -->
-- [ ] B) La comedia es siempre dramática.
+- [ ] A) La comedia es siempre dramática.
   <!-- feedback: Busca generar risa. -->
-- [ ] C) No existen diferencias históricas.
+- [ ] B) No existen diferencias históricas.
   <!-- feedback: Son categorías distintas. -->
-- [ ] D) La tragedia evita la emoción.
+- [ ] C) La tragedia evita la emoción.
   <!-- feedback: La provoca intensamente. -->
 
 ### Explicacion Pedagogica
@@ -221,9 +221,9 @@ Aristóteles distinguió tragedia y comedia según el efecto emocional buscado.
 ### Opciones
 - [ ] A) El héroe romántico.
   <!-- feedback: No encarna la crítica al poder. -->
-- [x] B) El dictador o el caudillo.
+- [x] C) El dictador o el caudillo.
   <!-- feedback: Encarna la tiranía y la corrupción. -->
-- [ ] C) El sirviente cómico.
+- [ ] B) El sirviente cómico.
   <!-- feedback: Genera humor, no crítica política. -->
 - [ ] D) La madre abnegada.
   <!-- feedback: Representa el sacrificio familiar. -->
@@ -242,11 +242,11 @@ El arquetipo del caudillo es recurrente en dramaturgos que reflexionan sobre la 
 Al leer en voz alta un texto dramático, lo correcto es:
 
 ### Opciones
-- [x] A) Variar el tono, la intensidad y el ritmo según las acotaciones y emociones.
+- [x] C) Variar el tono, la intensidad y el ritmo según las acotaciones y emociones.
   <!-- feedback: La lectura dramática interpreta al personaje. -->
-- [ ] B) Leer monótonamente.
+- [ ] A) Leer monótonamente.
   <!-- feedback: Pierde expresividad. -->
-- [ ] C) Ignorar las acotaciones.
+- [ ] B) Ignorar las acotaciones.
   <!-- feedback: Las acotaciones guían la lectura. -->
 - [ ] D) Cambiar el texto libremente.
   <!-- feedback: El texto es fijo. -->
@@ -267,9 +267,9 @@ El teatro del absurdo influenció a dramaturgos colombianos porque:
 ### Opciones
 - [ ] A) Refuerza el realismo extremo.
   <!-- feedback: Se aleja del realismo. -->
-- [x] B) Permite expresar la falta de sentido y la alienación del individuo moderno.
+- [x] C) Permite expresar la falta de sentido y la alienación del individuo moderno.
   <!-- feedback: Conecta con problemáticas urbanas y sociales. -->
-- [ ] C) Defiende la lógica racional.
+- [ ] B) Defiende la lógica racional.
   <!-- feedback: Cuestiona la racionalidad. -->
 - [ ] D) Busca el didactismo moral.
   <!-- feedback: Rechaza la moraleja explícita. -->
@@ -311,9 +311,9 @@ Jairo Aníbal Niño enriqueció el teatro colombiano con una poética visual y s
 El teatro colombiano aporta a la construcción de identidad porque:
 
 ### Opciones
-- [x] A) Reconstruye memorias colectivas y visibiliza tradiciones regionales.
+- [x] B) Reconstruye memorias colectivas y visibiliza tradiciones regionales.
   <!-- feedback: El teatro es memoria y diálogo cultural. -->
-- [ ] B) Copia modelos europeos sin crítica.
+- [ ] A) Copia modelos europeos sin crítica.
   <!-- feedback: Dialoga críticamente con ellos. -->
 - [ ] C) Evita las lenguas indígenas.
   <!-- feedback: Las incorpora en propuestas interculturales. -->
@@ -334,11 +334,11 @@ El teatro colombiano es una herramienta para la memoria y la interculturalidad.
 ¿Qué técnica de puesta en escena busca integrar al público en la acción?
 
 ### Opciones
-- [x] A) Teatro participativo o interactivo.
+- [x] C) Teatro participativo o interactivo.
   <!-- feedback: El público se vuelve parte del espectáculo. -->
-- [ ] B) Teatro de butaca exclusivamente.
+- [ ] A) Teatro de butaca exclusivamente.
   <!-- feedback: Separa actores y público. -->
-- [ ] C) Teatro leído sin representación.
+- [ ] B) Teatro leído sin representación.
   <!-- feedback: No incluye interacción. -->
 - [ ] D) Teatro mudo.
   <!-- feedback: No implica participación. -->
@@ -380,9 +380,9 @@ La adaptación teatral implica tomar decisiones estéticas para trasladar la nar
 Un desafío común para el teatro independiente en Colombia es:
 
 ### Opciones
-- [x] A) La falta de espacios, financiamiento y políticas culturales sostenidas.
+- [x] B) La falta de espacios, financiamiento y políticas culturales sostenidas.
   <!-- feedback: El sector enfrenta limitaciones estructurales. -->
-- [ ] B) El exceso de apoyo estatal.
+- [ ] A) El exceso de apoyo estatal.
   <!-- feedback: Generalmente el apoyo es limitado. -->
 - [ ] C) La ausencia de público.
   <!-- feedback: Hay públicos interesados. -->
@@ -449,9 +449,9 @@ El teatro popular contribuye a la memoria colectiva y al empoderamiento comunita
 Al evaluar una obra teatral, ¿qué criterio es más relevante?
 
 ### Opciones
-- [ ] A) La cantidad de actores.
+- [ ] B) La cantidad de actores.
   <!-- feedback: No define la calidad. -->
-- [x] B) La coherencia entre texto, actuación, dirección y propuesta escénica.
+- [x] A) La coherencia entre texto, actuación, dirección y propuesta escénica.
   <!-- feedback: Evalúa la totalidad artística. -->
 - [ ] C) La decoración más costosa.
   <!-- feedback: El lujo no equivale a calidad. -->

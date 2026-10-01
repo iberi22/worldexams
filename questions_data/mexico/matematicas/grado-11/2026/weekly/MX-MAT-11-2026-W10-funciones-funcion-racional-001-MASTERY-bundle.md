@@ -36,8 +36,8 @@ Este bundle contiene 20 preguntas sobre **Funciones Racionales**, alineadas con 
 ¿Cuál es la definición matemática de una función racional?
 
 ### Opciones
-- [ ] A) Es una función donde la variable independiente $x$ está elevada a una potencia fraccionaria. <!-- feedback: Esto describe una función radical o de potencia racional, no una función racional estándar. -->
-- [x] B) Es una función que puede expresarse como el cociente de dos polinomios, $f(x) = \frac{P(x)}{Q(x)}$, donde $Q(x)$ no es el polinomio cero. <!-- feedback: ¡Correcto! Una función racional es la razón de dos expresiones polinomiales. -->
+- [ ] B) Es una función donde la variable independiente $x$ está elevada a una potencia fraccionaria. <!-- feedback: Esto describe una función radical o de potencia racional, no una función racional estándar. -->
+- [x] A) Es una función que puede expresarse como el cociente de dos polinomios, $f(x) = \frac{P(x)}{Q(x)}$, donde $Q(x)$ no es el polinomio cero. <!-- feedback: ¡Correcto! Una función racional es la razón de dos expresiones polinomiales. -->
 - [ ] C) Es una función cuya gráfica es siempre una línea recta con pendiente fraccionaria. <!-- feedback: Las funciones racionales suelen tener curvas complejas y asíntotas, no son líneas rectas. -->
 - [ ] D) Es una función que solo acepta números enteros como valores de entrada. <!-- feedback: El dominio de una función racional son casi todos los números reales (excepto donde el denominador es cero). -->
 
@@ -78,8 +78,8 @@ En una función racional, el dominio está formado por todos los números reales
 ¿Cómo se le denomina a la recta vertical a la cual la gráfica de una función racional se aproxima indefinidamente pero nunca llega a tocar?
 
 ### Opciones
-- [ ] A) Eje de simetría. <!-- feedback: El eje de simetría divide a una figura en dos partes iguales, no es necesariamente una línea de aproximación infinita. -->
-- [x] B) Asíntota vertical. <!-- feedback: ¡Correcto! Las asíntotas verticales ocurren en los valores de x que anulan al denominador (y no al numerador). -->
+- [ ] B) Eje de simetría. <!-- feedback: El eje de simetría divide a una figura en dos partes iguales, no es necesariamente una línea de aproximación infinita. -->
+- [x] A) Asíntota vertical. <!-- feedback: ¡Correcto! Las asíntotas verticales ocurren en los valores de x que anulan al denominador (y no al numerador). -->
 - [ ] C) Directriz. <!-- feedback: La directriz es un elemento de la parábola, no de las funciones racionales en general. -->
 - [ ] D) Tangente horizontal. <!-- feedback: Una tangente toca a la curva; una asíntota es una línea límite que no se toca. -->
 
@@ -100,9 +100,9 @@ Las asíntotas verticales son rectas de la forma $x = c$. Indican que cuando $x$
 
 ### Opciones
 - [ ] A) $(0, 2)$ <!-- feedback: Este es el valor de la asíntota horizontal (coeficientes principales), no de la intersección con y. -->
-- [x] B) $(0, 5)$ <!-- feedback: ¡Correcto! C(0) = (2*0 + 10) / (0 + 2) = 10 / 2 = 5. -->
-- [ ] C) $(0, 10)$ <!-- feedback: Olvidaste dividir por el término constante del denominador (2). -->
-- [ ] D) $(-2, 0)$ <!-- feedback: Este punto ni siquiera está en el dominio de la función. -->
+- [x] D) $(0, 5)$ <!-- feedback: ¡Correcto! C(0) = (2*0 + 10) / (0 + 2) = 10 / 2 = 5. -->
+- [ ] B) $(0, 10)$ <!-- feedback: Olvidaste dividir por el término constante del denominador (2). -->
+- [ ] C) $(-2, 0)$ <!-- feedback: Este punto ni siquiera está en el dominio de la función. -->
 
 ### Explicacion Pedagogica
 Para cualquier función, la intersección con el eje $y$ se encuentra evaluando la función en $x = 0$. En funciones racionales, esto resulta en el cociente de los términos constantes de los polinomios.
@@ -122,8 +122,8 @@ Para cualquier función, la intersección con el eje $y$ se encuentra evaluando 
 ### Opciones
 - [ ] A) $x = 9$ <!-- feedback: Debes encontrar los valores de x que hacen que x^2-9 sea cero. -->
 - [ ] B) $x = -4$ <!-- feedback: Este es el valor que anula al numerador (intersección con x), no al denominador. -->
-- [x] C) $x = 3$ y $x = -3$ <!-- feedback: ¡Correcto! x^2 - 9 = 0 => (x-3)(x+3) = 0, por lo tanto x=3 y x=-3. -->
-- [ ] D) $y = 0$ <!-- feedback: Esta es una asíntota horizontal, no vertical. -->
+- [x] D) $x = 3$ y $x = -3$ <!-- feedback: ¡Correcto! x^2 - 9 = 0 => (x-3)(x+3) = 0, por lo tanto x=3 y x=-3. -->
+- [ ] C) $y = 0$ <!-- feedback: Esta es una asíntota horizontal, no vertical. -->
 
 ### Explicacion Pedagogica
 Las asíntotas verticales se localizan encontrando los ceros del denominador que no anulan simultáneamente al numerador. Se resuelven mediante factorización o despeje.
@@ -142,8 +142,8 @@ Las asíntotas verticales se localizan encontrando los ceros del denominador que
 
 ### Opciones
 - [ ] A) $y = 0$ <!-- feedback: Esto solo ocurre cuando el grado del denominador es mayor que el del numerador. -->
-- [x] B) $y = 3$ <!-- feedback: ¡Correcto! Cuando los grados son iguales, la asíntota horizontal es el cociente de los coeficientes principales: 6 / 2 = 3. -->
-- [ ] C) $y = -0.4$ <!-- feedback: Este valor es el cociente de los términos constantes, no de los principales. -->
+- [x] C) $y = 3$ <!-- feedback: ¡Correcto! Cuando los grados son iguales, la asíntota horizontal es el cociente de los coeficientes principales: 6 / 2 = 3. -->
+- [ ] B) $y = -0.4$ <!-- feedback: Este valor es el cociente de los términos constantes, no de los principales. -->
 - [ ] D) No tiene asíntota horizontal. <!-- feedback: Todas las funciones racionales donde el grado del numerador es menor o igual al del denominador tienen asíntota horizontal. -->
 
 ### Explicacion Pedagogica
@@ -183,9 +183,9 @@ Las intersecciones con el eje $x$ de una función racional ocurren en los valore
 ¿Cuál es la asíntota horizontal de la función $f(x) = \frac{10}{x^2 + 1}$?
 
 ### Opciones
-- [x] A) $y = 0$ <!-- feedback: ¡Correcto! Como el grado del denominador (2) es mayor que el del numerador (0), la función tiende a cero cuando x tiende a infinito. -->
-- [ ] B) $y = 10$ <!-- feedback: El 10 es el numerador, no la ubicación de la asíntota horizontal. -->
-- [ ] C) $x = 0$ <!-- feedback: x=0 es una recta vertical; las asíntotas horizontales se definen con y = ... -->
+- [x] C) $y = 0$ <!-- feedback: ¡Correcto! Como el grado del denominador (2) es mayor que el del numerador (0), la función tiende a cero cuando x tiende a infinito. -->
+- [ ] A) $y = 10$ <!-- feedback: El 10 es el numerador, no la ubicación de la asíntota horizontal. -->
+- [ ] B) $x = 0$ <!-- feedback: x=0 es una recta vertical; las asíntotas horizontales se definen con y = ... -->
 - [ ] D) No tiene, ya que el denominador nunca es cero. <!-- feedback: El hecho de que no tenga asíntotas verticales no impide que tenga una asíntota horizontal. -->
 
 ### Explicacion Pedagogica
@@ -205,9 +205,9 @@ Cuando el grado del polinomio del denominador es mayor que el grado del polinomi
 
 ### Opciones
 - [ ] A) \$5.00 <!-- feedback: Este es el costo variable por libreta, pero falta prorratear el costo fijo entre las 500 unidades. -->
-- [x] B) \$7.00 <!-- feedback: ¡Correcto! P(500) = (5*500 + 1000) / 500 = (2500 + 1000) / 500 = 3500 / 500 = 7. -->
-- [ ] C) \$10.00 <!-- feedback: Revisa la suma: 2500 + 1000 = 3500. Al dividir entre 500 da 7. -->
-- [ ] D) \$2.00 <!-- feedback: Error en el cálculo. El costo promedio debe ser mayor al costo variable (5). -->
+- [x] D) \$7.00 <!-- feedback: ¡Correcto! P(500) = (5*500 + 1000) / 500 = (2500 + 1000) / 500 = 3500 / 500 = 7. -->
+- [ ] B) \$10.00 <!-- feedback: Revisa la suma: 2500 + 1000 = 3500. Al dividir entre 500 da 7. -->
+- [ ] C) \$2.00 <!-- feedback: Error en el cálculo. El costo promedio debe ser mayor al costo variable (5). -->
 
 ### Explicacion Pedagogica
 Las funciones de costo promedio suelen ser racionales. Evaluar para un valor $n$ implica calcular el costo total y dividirlo entre la cantidad de artículos producidos.
@@ -225,8 +225,8 @@ Las funciones de costo promedio suelen ser racionales. Evaluar para un valor $n$
 ¿Hacia dónde se desplazó la gráfica de $f(x)$ y dónde se encuentran ahora sus asíntotas?
 
 ### Opciones
-- [ ] A) 5 unidades a la izquierda y 2 arriba; asíntotas en $x = -5, y = 2$. <!-- feedback: El signo -5 desplaza hacia la derecha (valor que anula al denominador). -->
-- [x] B) 5 unidades a la derecha y 2 arriba; asíntotas en $x = 5, y = 2$. <!-- feedback: ¡Correcto! x-5=0 indica asíntota en x=5. El +2 externo desplaza la asíntota horizontal a y=2. -->
+- [ ] B) 5 unidades a la izquierda y 2 arriba; asíntotas en $x = -5, y = 2$. <!-- feedback: El signo -5 desplaza hacia la derecha (valor que anula al denominador). -->
+- [x] A) 5 unidades a la derecha y 2 arriba; asíntotas en $x = 5, y = 2$. <!-- feedback: ¡Correcto! x-5=0 indica asíntota en x=5. El +2 externo desplaza la asíntota horizontal a y=2. -->
 - [ ] C) 5 unidades a la derecha y 2 abajo; asíntotas en $x = 5, y = -2$. <!-- feedback: El +2 al final desplaza hacia arriba, no hacia abajo. -->
 - [ ] D) 2 unidades a la derecha y 5 arriba; asíntotas en $x = 2, y = 5$. <!-- feedback: Se confundieron los valores de los desplazamientos horizontal y vertical. -->
 
@@ -268,9 +268,9 @@ Si un factor $(x - c)$ se encuentra tanto en el numerador como en el denominador
 
 ### Opciones
 - [ ] A) $f(x) = \frac{x^2 - 1}{x}$ <!-- feedback: Esta función tiene asíntota vertical en x=0, no en 1 o -1. -->
-- [x] B) $f(x) = \frac{x}{x^2 - 1}$ <!-- feedback: ¡Correcto! El denominador x^2-1 se anula en 1 y -1 (asíntotas verticales). Al ser grado denominador > numerador, y=0 es asíntota horizontal. -->
-- [ ] C) $f(x) = \frac{1}{x - 1}$ <!-- feedback: Solo tiene una asíntota vertical en x=1. -->
-- [ ] D) $f(x) = \frac{x^2}{x^2 - 1}$ <!-- feedback: Esta tendría una asíntota horizontal en y=1, no en y=0. -->
+- [x] D) $f(x) = \frac{x}{x^2 - 1}$ <!-- feedback: ¡Correcto! El denominador x^2-1 se anula en 1 y -1 (asíntotas verticales). Al ser grado denominador > numerador, y=0 es asíntota horizontal. -->
+- [ ] B) $f(x) = \frac{1}{x - 1}$ <!-- feedback: Solo tiene una asíntota vertical en x=1. -->
+- [ ] C) $f(x) = \frac{x^2}{x^2 - 1}$ <!-- feedback: Esta tendría una asíntota horizontal en y=1, no en y=0. -->
 
 ### Explicacion Pedagogica
 Para tener asíntotas en \$1$ y $-1$, el denominador debe contener los factores $(x-1)$ y $(x+1)$. Para que la asíntota horizontal sea $y=0$, el grado del numerador debe ser menor al del denominador.
@@ -288,8 +288,8 @@ Para tener asíntotas en \$1$ y $-1$, el denominador debe contener los factores 
 ¿En qué intervalo de valores de $x$ la función $f(x) = \frac{x - 3}{x + 2}$ arroja resultados **negativos** ($f(x) < 0$)?
 
 ### Opciones
-- [ ] A) $(-\infty, -2) \cup (3, \infty)$ <!-- feedback: En estos intervalos los signos del numerador y denominador coinciden, resultando en valores positivos. -->
-- [x] B) $(-2, 3)$ <!-- feedback: ¡Correcto! Si x=0 (dentro del intervalo), f(0) = -3/2 = -1.5, que es negativo. -->
+- [ ] B) $(-\infty, -2) \cup (3, \infty)$ <!-- feedback: En estos intervalos los signos del numerador y denominador coinciden, resultando en valores positivos. -->
+- [x] A) $(-2, 3)$ <!-- feedback: ¡Correcto! Si x=0 (dentro del intervalo), f(0) = -3/2 = -1.5, que es negativo. -->
 - [ ] C) $(3, \infty)$ <!-- feedback: Aquí tanto x-3 como x+2 son positivos, por lo que la función es positiva. -->
 - [ ] D) $(-\infty, -2)$ <!-- feedback: Aquí tanto x-3 como x+2 son negativos, por lo que el cociente es positivo. -->
 
@@ -310,9 +310,9 @@ El signo cambia en los valores que anulan al numerador (\$3$) o al denominador (
 
 ### Opciones
 - [ ] A) Una asíntota horizontal en $y = 1$. <!-- feedback: El grado del numerador es mayor al del denominador, por lo que no hay asíntota horizontal. -->
-- [x] B) Una asíntota oblicua (diagonal). <!-- feedback: ¡Correcto! Esto ocurre cuando el grado del numerador es exactamente uno mayor que el del denominador. -->
-- [ ] C) Ninguna otra asíntota. <!-- feedback: Al realizar la división sintética o larga se obtiene una parte lineal que define una recta oblicua. -->
-- [ ] D) Una asíntota horizontal en $y = 0$. <!-- feedback: Esto solo ocurre si el denominador tiene mayor grado. -->
+- [x] D) Una asíntota oblicua (diagonal). <!-- feedback: ¡Correcto! Esto ocurre cuando el grado del numerador es exactamente uno mayor que el del denominador. -->
+- [ ] B) Ninguna otra asíntota. <!-- feedback: Al realizar la división sintética o larga se obtiene una parte lineal que define una recta oblicua. -->
+- [ ] C) Una asíntota horizontal en $y = 0$. <!-- feedback: Esto solo ocurre si el denominador tiene mayor grado. -->
 
 ### Explicacion Pedagogica
 Las asíntotas oblicuas ocurren cuando el grado del numerador ($n$) es exactamente $n = m + 1$, donde $m$ es el grado del denominador. Se obtiene realizando la división de los polinomios.
@@ -331,8 +331,8 @@ Las asíntotas oblicuas ocurren cuando el grado del numerador ($n$) es exactamen
 
 ### Opciones
 - [ ] A) $\{x \in \mathbb{R} \mid x \neq \pm 2\}$. <!-- feedback: x^2+4 nunca se hace cero para valores reales de x (2^2+4=8, (-2)^2+4=8). -->
-- [x] B) Todos los números reales ($(-\infty, \infty)$). <!-- feedback: ¡Correcto! El denominador x^2+4 es siempre mayor o igual a 4, por lo que nunca es cero y no hay restricciones. -->
-- [ ] C) $\{x \in \mathbb{R} \mid x > 4\}$. <!-- feedback: No hay restricciones para valores pequeños o negativos. -->
+- [x] C) Todos los números reales ($(-\infty, \infty)$). <!-- feedback: ¡Correcto! El denominador x^2+4 es siempre mayor o igual a 4, por lo que nunca es cero y no hay restricciones. -->
+- [ ] B) $\{x \in \mathbb{R} \mid x > 4\}$. <!-- feedback: No hay restricciones para valores pequeños o negativos. -->
 - [ ] D) $\{x \in \mathbb{R} \mid x \neq 4\}$. <!-- feedback: El valor x=4 daría 4^2+4=20 en el denominador, lo cual es válido. -->
 
 ### Explicacion Pedagogica
@@ -352,8 +352,8 @@ No todas las funciones racionales tienen asíntotas verticales. Si el denominado
 
 ### Opciones
 - [ ] A) \$2x - 8$ <!-- feedback: Olvidaste factorizar el 2 y aplicar la diferencia de cuadrados correctamente. -->
-- [x] B) \$2x - 4$ <!-- feedback: ¡Correcto! 2(x^2 - 4) / (x + 2) = 2(x-2)(x+2) / (x+2) = 2(x-2) = 2x - 4. -->
-- [ ] C) $x - 2$ <!-- feedback: El factor 2 que multiplica a x^2 debe conservarse en el resultado final. -->
+- [x] C) \$2x - 4$ <!-- feedback: ¡Correcto! 2(x^2 - 4) / (x + 2) = 2(x-2)(x+2) / (x+2) = 2(x-2) = 2x - 4. -->
+- [ ] B) $x - 2$ <!-- feedback: El factor 2 que multiplica a x^2 debe conservarse en el resultado final. -->
 - [ ] D) \$2x + 4$ <!-- feedback: El factor que queda tras cancelar (x+2) es (x-2), por lo tanto 2(x-2) = 2x-4. -->
 
 ### Explicacion Pedagogica
@@ -373,9 +373,9 @@ Simplificar funciones racionales requiere factorizar tanto el numerador como el 
 
 ### Opciones
 - [ ] A) $T(v) = \frac{240}{2v + 20}$ <!-- feedback: Los tiempos de ida y vuelta se calculan por separado y se suman, no se puede simplemente promediar las velocidades en el denominador. -->
-- [x] B) $T(v) = \frac{120}{v} + \frac{120}{v + 20}$ <!-- feedback: ¡Correcto! Tiempo = Distancia / Velocidad. T_total = T_ida (120/v) + T_regreso (120/(v+20)). -->
-- [ ] C) $T(v) = \frac{v}{120} + \frac{v + 20}{120}$ <!-- feedback: Esto representaría el recíproco del tiempo, no el tiempo en sí. -->
-- [ ] D) $T(v) = \frac{240v + 2400}{v^2 + 20v}$ <!-- feedback: Esta es una forma simplificada parcial, pero la opción B es la representación directa del problema de modelado. -->
+- [x] D) $T(v) = \frac{120}{v} + \frac{120}{v + 20}$ <!-- feedback: ¡Correcto! Tiempo = Distancia / Velocidad. T_total = T_ida (120/v) + T_regreso (120/(v+20)). -->
+- [ ] B) $T(v) = \frac{v}{120} + \frac{v + 20}{120}$ <!-- feedback: Esto representaría el recíproco del tiempo, no el tiempo en sí. -->
+- [ ] C) $T(v) = \frac{240v + 2400}{v^2 + 20v}$ <!-- feedback: Esta es una forma simplificada parcial, pero la opción B es la representación directa del problema de modelado. -->
 
 ### Explicacion Pedagogica
 En problemas de tiempo-distancia-velocidad, si hay diferentes tramos, el tiempo total es la suma de las funciones racionales que representan el tiempo en cada tramo: $T = \frac{d_1}{v_1} + \frac{d_2}{v_2}$.

@@ -57,9 +57,9 @@ Reconocer qué se entiende por contaminación ambiental en el agua, el aire y el
 ¿Por qué quemar basura contamina el aire?
 
 ### Opciones
-- [x] A) Porque libera gases y partículas dañinas que las personas respiran.
+- [x] B) Porque libera gases y partículas dañinas que las personas respiran.
   <!-- feedback: La quema produce humo con partículas y gases que dañan las vías respiratorias. -->
-- [ ] B) Porque produce oxígeno limpio para el barrio.
+- [ ] A) Porque produce oxígeno limpio para el barrio.
   <!-- feedback: La quema no produce oxígeno; consume oxígeno y libera gases contaminantes. -->
 - [ ] C) Porque aumenta el agua de las quebradas cercanas.
   <!-- feedback: La quema afecta el aire, no incrementa el agua de las quebradas. -->
@@ -80,9 +80,9 @@ Explicar cómo la quema de residuos contamina el aire y afecta la salud respirat
 ¿Cuál es la mejor acción para reducir la cantidad de residuos en casa?
 
 ### Opciones
-- [x] A) Separar los residuos y reciclar el papel, el plástico y el vidrio.
+- [x] B) Separar los residuos y reciclar el papel, el plástico y el vidrio.
   <!-- feedback: Separar y reciclar permite reutilizar materiales y disminuye lo que se desecha. -->
-- [ ] B) Mezclar todos los residuos en una sola bolsa.
+- [ ] A) Mezclar todos los residuos en una sola bolsa.
   <!-- feedback: Mezclar impide el reciclaje y aumenta el volumen de basura que llega al relleno. -->
 - [ ] C) Enterrar los residuos plásticos en el patio.
   <!-- feedback: Enterrar plásticos contamina el suelo y no reduce realmente los residuos. -->
@@ -103,13 +103,13 @@ Aplicar la separación y el reciclaje para reducir los residuos domésticos.
 ¿Qué deben hacer con el aceite usado para evitar contaminar el agua?
 
 ### Opciones
-- [x] A) Guardarlo en un recipiente y entregarlo a un punto de recolección.
+- [x] D) Guardarlo en un recipiente y entregarlo a un punto de recolección.
   <!-- feedback: El aceite usado se recicla en puntos especiales y así no llega a las fuentes de agua. -->
-- [ ] B) Verterlo por el desagüe del lavaplatos.
+- [ ] A) Verterlo por el desagüe del lavaplatos.
   <!-- feedback: El aceite por el desagüe obstruye las tuberías y contamina ríos y quebradas. -->
-- [ ] C) Arrojarlo al inodoro para que desaparezca.
+- [ ] B) Arrojarlo al inodoro para que desaparezca.
   <!-- feedback: El aceite no desaparece; llega a las aguas residuales y contamina el ambiente. -->
-- [ ] D) Quemarlo en el patio del colegio.
+- [ ] C) Quemarlo en el patio del colegio.
   <!-- feedback: Quemar aceite libera gases tóxicos que contaminan el aire y afectan la salud. -->
 
 ### Explicacion Pedagogica
@@ -149,11 +149,11 @@ Aplicar prácticas de conservación que protegen el suelo de la erosión y la co
 ¿Qué se puede concluir sobre el manejo de los residuos?
 
 ### Opciones
-- [x] A) Los residuos plásticos permanecen mucho más tiempo en el ambiente y por eso deben reciclarse.
+- [x] C) Los residuos plásticos permanecen mucho más tiempo en el ambiente y por eso deben reciclarse.
   <!-- feedback: Como el plástico tarda siglos en degradarse, conviene reciclarlo para no acumular basura. -->
-- [ ] B) Todos los residuos se degradan al mismo tiempo.
+- [ ] A) Todos los residuos se degradan al mismo tiempo.
   <!-- feedback: La comparación muestra tiempos muy distintos; no todos se degradan igual. -->
-- [ ] C) Las cáscaras de fruta son las más contaminantes.
+- [ ] B) Las cáscaras de fruta son las más contaminantes.
   <!-- feedback: Las cáscaras se descomponen rápido; el plástico es el que permanece más tiempo. -->
 - [ ] D) Los plásticos desaparecen solos en pocos días.
   <!-- feedback: Los plásticos tardan cientos de años; no desaparecen en pocos días. -->
@@ -195,13 +195,13 @@ Analizar cómo un vertimiento contamina todo un ecosistema acuático a lo largo 
 ¿Cuál es la mejor decisión para cuidar el ambiente en tu municipio?
 
 ### Opciones
-- [x] A) Promover el reciclaje y reducir los residuos desde la escuela y la casa.
+- [x] D) Promover el reciclaje y reducir los residuos desde la escuela y la casa.
   <!-- feedback: Reducir y reciclar desde la vida diaria previene la contaminación del agua, el aire y el suelo. -->
-- [ ] B) Esperar a que otras personas limpien la contaminación.
+- [ ] A) Esperar a que otras personas limpien la contaminación.
   <!-- feedback: La prevención es responsabilidad de todos; esperar no evita el daño ambiental. -->
-- [ ] C) Aumentar la quema de basura para reducir su volumen.
+- [ ] B) Aumentar la quema de basura para reducir su volumen.
   <!-- feedback: Quemar basura contamina el aire; no es una solución adecuada. -->
-- [ ] D) Usar más plásticos de un solo uso cada día.
+- [ ] C) Usar más plásticos de un solo uso cada día.
   <!-- feedback: Los plásticos de un solo uso aumentan la contaminación y los residuos. -->
 
 ### Explicacion Pedagogica

@@ -54,8 +54,8 @@ Por definición en el sistema de los números reales, cualquier base distinta de
 Si el área del cultivo de hortalizas en Cochabamba está dada por la expresión (x^3)^2, ¿cuál es su forma simplificada aplicando la propiedad de potencia de una potencia?
 
 ### Opciones
-- [x] A) x^6 <!-- feedback: ¡Correcto! Por potencia de una potencia se multiplican los exponentes: 3 * 2 = 6. -->
-- [ ] B) x^5 <!-- feedback: Incorrecto. Sumaste los exponentes en lugar de multiplicarlos. -->
+- [x] B) x^6 <!-- feedback: ¡Correcto! Por potencia de una potencia se multiplican los exponentes: 3 * 2 = 6. -->
+- [ ] A) x^5 <!-- feedback: Incorrecto. Sumaste los exponentes en lugar de multiplicarlos. -->
 - [ ] C) x^9 <!-- feedback: Incorrecto. Elevaste 3 al cuadrado en lugar de multiplicarlo. -->
 - [ ] D) x^1 <!-- feedback: Incorrecto. Restaste los exponentes de forma errónea. -->
 
@@ -74,8 +74,8 @@ La propiedad de potencia de una potencia establece que (a^m)^n = a^(m * n). Por 
 ¿Cuál es el valor simplificado de la expresión con radicales raíz(48), expresada con el menor radicando entero posible?
 
 ### Opciones
-- [x] A) 4 * raíz(3) <!-- feedback: ¡Correcto! raíz(48) = raíz(16 * 3) = raíz(16) * raíz(3) = 4 * raíz(3). -->
-- [ ] B) 16 * raíz(3) <!-- feedback: Incorrecto. No aplicaste la raíz cuadrada al factor de la potencia de 16. -->
+- [x] B) 4 * raíz(3) <!-- feedback: ¡Correcto! raíz(48) = raíz(16 * 3) = raíz(16) * raíz(3) = 4 * raíz(3). -->
+- [ ] A) 16 * raíz(3) <!-- feedback: Incorrecto. No aplicaste la raíz cuadrada al factor de la potencia de 16. -->
 - [ ] C) 2 * raíz(12) <!-- feedback: Incorrecto. Aunque es equivalente, no es la forma con el menor radicando posible (12 se puede seguir simplificando). -->
 - [ ] D) 3 * raíz(4) <!-- feedback: Incorrecto. Hiciste una descomposición errónea del número 48. -->
 
@@ -94,9 +94,9 @@ Para simplificar la raíz de 48, buscamos el mayor cuadrado perfecto que divida 
 Si el lado del cubo de almacenamiento de quinua mide 2x^2 metros, ¿cuál expresión representa el volumen total del contenedor?
 
 ### Opciones
-- [x] A) 8x^6 metros cúbicos <!-- feedback: ¡Correcto! Volumen = (2x^2)^3 = 2^3 * (x^2)^3 = 8x^6. -->
-- [ ] B) 6x^5 metros cúbicos <!-- feedback: Incorrecto. Se multiplicaron erróneamente los coeficientes y se sumaron los exponentes. -->
-- [ ] C) 8x^5 metros cúbicos <!-- feedback: Incorrecto. Multiplicaste los exponentes en la potencia de potencia pero no de forma correcta, o sumaste exponentes erróneamente. -->
+- [x] C) 8x^6 metros cúbicos <!-- feedback: ¡Correcto! Volumen = (2x^2)^3 = 2^3 * (x^2)^3 = 8x^6. -->
+- [ ] A) 6x^5 metros cúbicos <!-- feedback: Incorrecto. Se multiplicaron erróneamente los coeficientes y se sumaron los exponentes. -->
+- [ ] B) 8x^5 metros cúbicos <!-- feedback: Incorrecto. Multiplicaste los exponentes en la potencia de potencia pero no de forma correcta, o sumaste exponentes erróneamente. -->
 - [ ] D) 2x^6 metros cúbicos <!-- feedback: Incorrecto. Olvidaste elevar el coeficiente numérico 2 al cubo. -->
 
 ### Explicacion Pedagogica
@@ -174,9 +174,9 @@ La raíz cúbica de un producto es el producto de las raíces cúbicas: raíz_c�
 ¿Cuál es la forma exponencial equivalente de la expresión con radicales raíz_quinta(x^3)?
 
 ### Opciones
-- [x] A) x^(3/5) <!-- feedback: ¡Correcto! La raíz n-ésima de una potencia m se escribe como exponente fraccionario m/n. Así, el exponente es 3/5. -->
-- [ ] B) x^(5/3) <!-- feedback: Incorrecto. Invertiste el numerador y el denominador de la fracción exponencial. -->
-- [ ] C) x^-2 <!-- feedback: Incorrecto. Restaste los exponentes en lugar de escribir la fracción correspondiente. -->
+- [x] C) x^(3/5) <!-- feedback: ¡Correcto! La raíz n-ésima de una potencia m se escribe como exponente fraccionario m/n. Así, el exponente es 3/5. -->
+- [ ] A) x^(5/3) <!-- feedback: Incorrecto. Invertiste el numerador y el denominador de la fracción exponencial. -->
+- [ ] B) x^-2 <!-- feedback: Incorrecto. Restaste los exponentes en lugar de escribir la fracción correspondiente. -->
 - [ ] D) x^(1/15) <!-- feedback: Incorrecto. Multiplicaste erróneamente los coeficientes. -->
 
 ### Explicacion Pedagogica
@@ -235,10 +235,10 @@ Racionalizamos multiplicando numerador y denominador por raíz(3):
 ¿Cómo se expresa de forma equivalente un exponente negativo de la forma x^-n de acuerdo con el sistema algebraico real?
 
 ### Opciones
-- [x] A) 1 / x^n <!-- feedback: ¡Correcto! Un exponente negativo representa el recíproco de la base elevada al exponente positivo correspondiente. -->
-- [ ] B) -x^n <!-- feedback: Incorrecto. El exponente negativo no transforma la base en un número negativo de manera directa. -->
-- [ ] C) x^(1/n) <!-- feedback: Incorrecto. La potencia fraccionaria representa radicales, no recíprocos de potencias enteras. -->
-- [ ] D) -1 / x^n <!-- feedback: Incorrecto. Agregaste un signo negativo innecesario delante de la fracción recíproca. -->
+- [x] D) 1 / x^n <!-- feedback: ¡Correcto! Un exponente negativo representa el recíproco de la base elevada al exponente positivo correspondiente. -->
+- [ ] A) -x^n <!-- feedback: Incorrecto. El exponente negativo no transforma la base en un número negativo de manera directa. -->
+- [ ] B) x^(1/n) <!-- feedback: Incorrecto. La potencia fraccionaria representa radicales, no recíprocos de potencias enteras. -->
+- [ ] C) -1 / x^n <!-- feedback: Incorrecto. Agregaste un signo negativo innecesario delante de la fracción recíproca. -->
 
 ### Explicacion Pedagogica
 Por la definición algebraica de exponentes en el campo real, para cualquier x distinto de cero y n real, x^-n es exactamente equivalente a 1 / x^n.
@@ -255,8 +255,8 @@ Por la definición algebraica de exponentes en el campo real, para cualquier x d
 Si la resistencia de la pieza estructural depende de la expresión racional (x^(1/2) * x^(3/2)) / x^(2/3), ¿cuál es su expresión equivalente con un solo exponente?
 
 ### Opciones
-- [x] A) x^(4/3) <!-- feedback: ¡Correcto! En el numerador: x^(1/2 + 3/2) = x^2. Dividido por x^(2/3): x^(2 - 2/3) = x^(4/3). -->
-- [ ] B) x^(2/3) <!-- feedback: Incorrecto. Se restaron mal los exponentes al realizar la división de potencias de bases iguales. -->
+- [x] B) x^(4/3) <!-- feedback: ¡Correcto! En el numerador: x^(1/2 + 3/2) = x^2. Dividido por x^(2/3): x^(2 - 2/3) = x^(4/3). -->
+- [ ] A) x^(2/3) <!-- feedback: Incorrecto. Se restaron mal los exponentes al realizar la división de potencias de bases iguales. -->
 - [ ] C) x^2 <!-- feedback: Incorrecto. Olvidaste restar el exponente del denominador (2/3) del exponente acumulado del numerador. -->
 - [ ] D) x^(3/4) <!-- feedback: Incorrecto. Obtuviste el recíproco de la fracción exponente correcta. -->
 
@@ -275,8 +275,8 @@ Primero simplificamos el numerador sumando los exponentes: 1/2 + 3/2 = 4/2 = 2. 
 Simplifique la expresión con radicales: raíz_cuadrada(75x^5) / raíz_cuadrada(3x^3)
 
 ### Opciones
-- [x] A) 5x <!-- feedback: ¡Correcto! Uniendo bajo una sola raíz: raíz(75x^5 / 3x^3) = raíz(25x^2) = 5x (asumiendo x > 0). -->
-- [ ] B) 25x^2 <!-- feedback: Incorrecto. Olvidaste aplicar la raíz cuadrada a los términos simplificados. -->
+- [x] B) 5x <!-- feedback: ¡Correcto! Uniendo bajo una sola raíz: raíz(75x^5 / 3x^3) = raíz(25x^2) = 5x (asumiendo x > 0). -->
+- [ ] A) 25x^2 <!-- feedback: Incorrecto. Olvidaste aplicar la raíz cuadrada a los términos simplificados. -->
 - [ ] C) 5x^2 <!-- feedback: Incorrecto. Al dividir los exponentes x^5 / x^3 se obtiene x^2, cuya raíz cuadrada es x, no x^2. -->
 - [ ] D) 15x <!-- feedback: Incorrecto. Dividiste mal 75 entre 3 o aplicaste una raíz cuadrada errónea. -->
 
@@ -296,9 +296,9 @@ raíz(75x^5 / 3x^3) = raíz(25 * x^(5 - 3)) = raíz(25x^2) = 5x.
 Simplifique la suma de radicales: 3 * raíz(20) - 2 * raíz(45) + raíz(5)
 
 ### Opciones
-- [x] A) raíz(5) <!-- feedback: ¡Correcto! Simplificando cada radical: raíz(20) = 2*raíz(5) -> 3*2*raíz(5) = 6*raíz(5). raíz(45) = 3*raíz(5) -> -2*3*raíz(5) = -6*raíz(5). Entonces: 6*raíz(5) - 6*raíz(5) + raíz(5) = raíz(5). -->
-- [ ] B) 2 * raíz(5) <!-- feedback: Incorrecto. Olvidaste sumar el término final raíz(5) o sumaste de forma errónea los coeficientes reales. -->
-- [ ] C) 0 <!-- feedback: Incorrecto. El resultado no se cancela por completo debido al último término de la suma. -->
+- [x] C) raíz(5) <!-- feedback: ¡Correcto! Simplificando cada radical: raíz(20) = 2*raíz(5) -> 3*2*raíz(5) = 6*raíz(5). raíz(45) = 3*raíz(5) -> -2*3*raíz(5) = -6*raíz(5). Entonces: 6*raíz(5) - 6*raíz(5) + raíz(5) = raíz(5). -->
+- [ ] A) 2 * raíz(5) <!-- feedback: Incorrecto. Olvidaste sumar el término final raíz(5) o sumaste de forma errónea los coeficientes reales. -->
+- [ ] B) 0 <!-- feedback: Incorrecto. El resultado no se cancela por completo debido al último término de la suma. -->
 - [ ] D) 5 * raíz(5) <!-- feedback: Incorrecto. Realizaste operaciones aritméticas incorrectas al sumar los términos con radicales semejantes. -->
 
 ### Explicacion Pedagogica
@@ -319,9 +319,9 @@ Descomponemos los radicandos en factores con cuadrados perfectos:
 Al racionalizar el denominador de la expresión 10 / (raíz(7) - raíz(2)), ¿cuál es el resultado simplificado?
 
 ### Opciones
-- [x] A) 2 * (raíz(7) + raíz(2)) <!-- feedback: ¡Correcto! Multiplicamos por el conjugado (raíz(7) + raíz(2)) tanto arriba como abajo: 10 * (raíz(7) + raíz(2)) / (7 - 2) = 10 * (raíz(7) + raíz(2)) / 5 = 2 * (raíz(7) + raíz(2)). -->
-- [ ] B) 5 * (raíz(7) + raíz(2)) <!-- feedback: Incorrecto. Dividiste 10 entre la diferencia (7 - 2 = 5) de manera errónea obteniendo 5 en lugar de 2. -->
-- [ ] C) 2 * (raíz(7) - raíz(2)) <!-- feedback: Incorrecto. Al racionalizar por resta, el término del numerador debe multiplicarse por el conjugado sumado (raíz(7) + raíz(2)). -->
+- [x] C) 2 * (raíz(7) + raíz(2)) <!-- feedback: ¡Correcto! Multiplicamos por el conjugado (raíz(7) + raíz(2)) tanto arriba como abajo: 10 * (raíz(7) + raíz(2)) / (7 - 2) = 10 * (raíz(7) + raíz(2)) / 5 = 2 * (raíz(7) + raíz(2)). -->
+- [ ] A) 5 * (raíz(7) + raíz(2)) <!-- feedback: Incorrecto. Dividiste 10 entre la diferencia (7 - 2 = 5) de manera errónea obteniendo 5 en lugar de 2. -->
+- [ ] B) 2 * (raíz(7) - raíz(2)) <!-- feedback: Incorrecto. Al racionalizar por resta, el término del numerador debe multiplicarse por el conjugado sumado (raíz(7) + raíz(2)). -->
 - [ ] D) 10 * (raíz(7) + raíz(2)) <!-- feedback: Incorrecto. Olvidaste dividir el numerador por el resultado del denominador racionalizado (5). -->
 
 ### Explicacion Pedagogica
@@ -343,9 +343,9 @@ Multiplicamos el numerador y el denominador por la expresión conjugada del deno
 Si la ecuación de tasa de retorno anual de un capital r se representa como r = (243/32)^(1/5) - 1, ¿cuál es el valor exacto de la tasa de retorno r en forma de número real racional?
 
 ### Opciones
-- [x] A) 0.50 (o 50%) <!-- feedback: ¡Correcto! La raíz quinta de (243/32) es raíz_quinta(243) / raíz_quinta(32) = 3 / 2 = 1.5. Entonces, r = 1.5 - 1 = 0.50. -->
-- [ ] B) 0.20 (o 20%) <!-- feedback: Incorrecto. La raíz quinta de 243/32 no es 1.2; revisa las potencias quintas de los números enteros básicos. -->
-- [ ] C) 0.75 (o 75%) <!-- feedback: Incorrecto. Realizaste un cálculo de raíces o resta incorrecto en el paso final. -->
+- [x] C) 0.50 (o 50%) <!-- feedback: ¡Correcto! La raíz quinta de (243/32) es raíz_quinta(243) / raíz_quinta(32) = 3 / 2 = 1.5. Entonces, r = 1.5 - 1 = 0.50. -->
+- [ ] A) 0.20 (o 20%) <!-- feedback: Incorrecto. La raíz quinta de 243/32 no es 1.2; revisa las potencias quintas de los números enteros básicos. -->
+- [ ] B) 0.75 (o 75%) <!-- feedback: Incorrecto. Realizaste un cálculo de raíces o resta incorrecto en el paso final. -->
 - [ ] D) 0.33 (o 33%) <!-- feedback: Incorrecto. Se calculó de manera equivocada la raíz de las potencias de base 2 y base 3. -->
 
 ### Explicacion Pedagogica
@@ -411,10 +411,10 @@ raíz[ (x + raíz(x^2 - 1)) * (x - raíz(x^2 - 1)) ]
 Si x es un número real positivo tal que la torre de potencias infinitas x^(x^(x^...)) converge exactamente al valor real 2, ¿cuál es el valor numérico exacto de x?
 
 ### Opciones
-- [x] A) raíz_cuadrada(2) <!-- feedback: ¡Correcto! Si la torre infinita es igual a 2, entonces el exponente de la base inferior también es igual a 2, es decir, x^2 = 2. Como x > 0, se concluye que x = raíz_cuadrada(2). -->
-- [ ] B) 2 <!-- feedback: Incorrecto. Si x fuera 2, la torre infinita 2^(2^(2^...)) diverge al infinito, por lo que no puede converger a 2. -->
-- [ ] C) raíz_cúbica(2) <!-- feedback: Incorrecto. Esto implicaría que la torre converge a 3 en lugar de a 2 de acuerdo con el análisis de límites anidados. -->
-- [ ] D) 1 <!-- feedback: Incorrecto. Si x fuera 1, la torre de potencias sería 1^(1^(1^...)) que es igual a 1, no a 2. -->
+- [x] D) raíz_cuadrada(2) <!-- feedback: ¡Correcto! Si la torre infinita es igual a 2, entonces el exponente de la base inferior también es igual a 2, es decir, x^2 = 2. Como x > 0, se concluye que x = raíz_cuadrada(2). -->
+- [ ] A) 2 <!-- feedback: Incorrecto. Si x fuera 2, la torre infinita 2^(2^(2^...)) diverge al infinito, por lo que no puede converger a 2. -->
+- [ ] B) raíz_cúbica(2) <!-- feedback: Incorrecto. Esto implicaría que la torre converge a 3 en lugar de a 2 de acuerdo con el análisis de límites anidados. -->
+- [ ] C) 1 <!-- feedback: Incorrecto. Si x fuera 1, la torre de potencias sería 1^(1^(1^...)) que es igual a 1, no a 2. -->
 
 ### Explicacion Pedagogica
 Sea y = x^(x^(x^...)) = 2. Podemos sustituir la parte infinita superior por la misma variable y, ya que es idéntica por recursión infinita:

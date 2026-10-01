@@ -72,11 +72,11 @@ El coseno es la coordenada horizontal del punto sobre el círculo unitario; es c
 ### Enunciado
 ¿Cuáles son las soluciones de la ecuación?
 ### Opciones
-- [x] A) $x = \frac{\pi}{4}$ y $x = \frac{5\pi}{4}$
+- [x] C) $x = \frac{\pi}{4}$ y $x = \frac{5\pi}{4}$
   <!-- feedback: Correcto. La tangente vale $1$ en el primer y tercer cuadrante. -->
-- [ ] B) $x = \frac{\pi}{4}$ y $x = \frac{3\pi}{4}$
+- [ ] A) $x = \frac{\pi}{4}$ y $x = \frac{3\pi}{4}$
   <!-- feedback: Incorrecto. En $\frac{3\pi}{4}$ la tangente vale $-1$. -->
-- [ ] C) $x = \frac{\pi}{6}$ y $x = \frac{5\pi}{6}$
+- [ ] B) $x = \frac{\pi}{6}$ y $x = \frac{5\pi}{6}$
   <!-- feedback: Incorrecto. En esos ángulos la tangente vale $\frac{\sqrt{3}}{3}$ y $-\frac{\sqrt{3}}{3}$. -->
 - [ ] D) Solo $x = \frac{\pi}{4}$
   <!-- feedback: Incorrecto. La tangente tiene periodo $\pi$, por lo que hay otra solución en el intervalo. -->
@@ -92,13 +92,13 @@ La tangente es positiva en los cuadrantes I y III. $\tan x = 1$ da $x = \frac{\p
 ### Enunciado
 ¿Cuáles son las soluciones de la ecuación?
 ### Opciones
-- [x] A) $x = \frac{\pi}{3}$ y $x = \frac{5\pi}{3}$
+- [x] D) $x = \frac{\pi}{3}$ y $x = \frac{5\pi}{3}$
   <!-- feedback: Correcto. $\cos x = \frac{1}{2}$, cuyas soluciones son $\frac{\pi}{3}$ y $\frac{5\pi}{3}$. -->
-- [ ] B) $x = \frac{\pi}{6}$ y $x = \frac{11\pi}{6}$
+- [ ] A) $x = \frac{\pi}{6}$ y $x = \frac{11\pi}{6}$
   <!-- feedback: Incorrecto. Ahí el coseno vale $\frac{\sqrt{3}}{2}$, no $\frac{1}{2}$. -->
-- [ ] C) $x = \frac{\pi}{2}$ y $x = \frac{3\pi}{2}$
+- [ ] B) $x = \frac{\pi}{2}$ y $x = \frac{3\pi}{2}$
   <!-- feedback: Incorrecto. Ahí el coseno vale $0$. -->
-- [ ] D) $x = 0$ y $x = 2\pi$
+- [ ] C) $x = 0$ y $x = 2\pi$
   <!-- feedback: Incorrecto. Ahí el coseno vale $1$, no $\frac{1}{2}$. -->
 ### Explicacion Pedagogica
 Despejando, $\cos x = \frac{1}{2}$. Las soluciones en $[0, 2\pi)$ son $x = \frac{\pi}{3}$ y $x = 2\pi - \frac{\pi}{3} = \frac{5\pi}{3}$.
@@ -152,11 +152,11 @@ Como $x \in [0, 2\pi)$, entonces $2x \in [0, 4\pi)$, por lo que hay cuatro soluc
 ### Enunciado
 ¿Cuáles son todas las soluciones de la ecuación?
 ### Opciones
-- [x] A) $x = 0$, $x = \frac{2\pi}{3}$ y $x = \frac{4\pi}{3}$
+- [x] C) $x = 0$, $x = \frac{2\pi}{3}$ y $x = \frac{4\pi}{3}$
   <!-- feedback: Correcto. Factoriza: $(2\cos x + 1)(\cos x - 1) = 0$, luego $\cos x = 1$ o $\cos x = -\frac{1}{2}$. -->
-- [ ] B) $x = \frac{\pi}{3}$ y $x = \frac{5\pi}{3}$
+- [ ] A) $x = \frac{\pi}{3}$ y $x = \frac{5\pi}{3}$
   <!-- feedback: Incorrecto. Ahí $\cos x = \frac{1}{2}$, que no anula la ecuación. -->
-- [ ] C) $x = 0$ y $x = \pi$
+- [ ] B) $x = 0$ y $x = \pi$
   <!-- feedback: Incorrecto. Faltan las soluciones de $\cos x = -\frac{1}{2}$. -->
 - [ ] D) $x = \frac{\pi}{2}$ y $x = \frac{3\pi}{2}$
   <!-- feedback: Incorrecto. $\cos x = 0$ no es raíz de la cuadrática. -->
@@ -172,13 +172,13 @@ Factorizando $(2\cos x + 1)(\cos x - 1) = 0$: $\cos x = 1$ da $x = 0$, y $\cos x
 ### Enunciado
 ¿Cuántas soluciones distintas tiene la ecuación en el intervalo?
 ### Opciones
-- [x] A) $3$ soluciones
+- [x] D) $3$ soluciones
   <!-- feedback: Correcto. Con $\cos(2x) = 2\cos^2 x - 1$, queda $(2\cos x + 1)(\cos x - 1) = 0$, con soluciones $x = 0, \frac{2\pi}{3}, \frac{4\pi}{3}$. -->
-- [ ] B) $2$ soluciones
+- [ ] A) $2$ soluciones
   <!-- feedback: Incorrecto. Omitiste alguna solución de la factorización. -->
-- [ ] C) $4$ soluciones
+- [ ] B) $4$ soluciones
   <!-- feedback: Incorrecto. Contaste de más. -->
-- [ ] D) $1$ solución
+- [ ] C) $1$ solución
   <!-- feedback: Incorrecto. La ecuación no es trivial. -->
 ### Explicacion Pedagogica
 Usando $\cos(2x) = 2\cos^2 x - 1$: $2\cos^2 x - \cos x - 1 = 0 = (2\cos x + 1)(\cos x - 1)$. Soluciones: $x = 0$, $x = \frac{2\pi}{3}$ y $x = \frac{4\pi}{3}$.
@@ -192,11 +192,11 @@ Usando $\cos(2x) = 2\cos^2 x - 1$: $2\cos^2 x - \cos x - 1 = 0 = (2\cos x + 1)(\
 ### Enunciado
 ¿Cuáles son las soluciones de la ecuación?
 ### Opciones
-- [x] A) $x = \frac{\pi}{2}$, $x = \frac{7\pi}{6}$ y $x = \frac{11\pi}{6}$
+- [x] C) $x = \frac{\pi}{2}$, $x = \frac{7\pi}{6}$ y $x = \frac{11\pi}{6}$
   <!-- feedback: Correcto. $(2\operatorname{sen} x + 1)(\operatorname{sen} x - 1) = 0$, luego $\operatorname{sen} x = 1$ o $\operatorname{sen} x = -\frac{1}{2}$. -->
-- [ ] B) $x = \frac{\pi}{6}$ y $x = \frac{5\pi}{6}$
+- [ ] A) $x = \frac{\pi}{6}$ y $x = \frac{5\pi}{6}$
   <!-- feedback: Incorrecto. Ahí $\operatorname{sen} x = \frac{1}{2}$, que no es raíz. -->
-- [ ] C) $x = 0$ y $x = \pi$
+- [ ] B) $x = 0$ y $x = \pi$
   <!-- feedback: Incorrecto. $\operatorname{sen} x = 0$ no anula la ecuación. -->
 - [ ] D) $x = \frac{\pi}{2}$ y $x = \frac{3\pi}{2}$
   <!-- feedback: Incorrecto. Faltan las soluciones de $\operatorname{sen} x = -\frac{1}{2}$. -->
@@ -252,9 +252,9 @@ $\operatorname{sen} x = \frac{\sqrt{3}}{2}$ da $x = \frac{\pi}{3}, \frac{2\pi}{3
 ### Enunciado
 ¿Cuáles son todas las soluciones de la ecuación?
 ### Opciones
-- [x] A) $x = \frac{\pi}{6}$, $x = \frac{5\pi}{6}$, $x = \frac{7\pi}{6}$ y $x = \frac{11\pi}{6}$
+- [x] B) $x = \frac{\pi}{6}$, $x = \frac{5\pi}{6}$, $x = \frac{7\pi}{6}$ y $x = \frac{11\pi}{6}$
   <!-- feedback: Correcto. $\tan x = \pm \frac{1}{\sqrt{3}}$, con dos soluciones por cada signo. -->
-- [ ] B) $x = \frac{\pi}{6}$ y $x = \frac{7\pi}{6}$
+- [ ] A) $x = \frac{\pi}{6}$ y $x = \frac{7\pi}{6}$
   <!-- feedback: Incorrecto. Solo consideraste la tangente positiva. -->
 - [ ] C) $x = \frac{\pi}{3}$ y $x = \frac{4\pi}{3}$
   <!-- feedback: Incorrecto. Ahí $\tan x = \sqrt{3}$, no $\frac{1}{\sqrt{3}}$. -->

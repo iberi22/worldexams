@@ -32,11 +32,11 @@ En la lectura crítica de textos discontinuos (como infografías y gráficos de 
 ### Opciones
 - [ ] A) Reemplazar por completo el texto escrito para que el lector no tenga que leer palabras
   <!-- feedback: Incorrecto. Los elementos visuales complementan el texto; no lo eliminan en una lectura crítica formal. -->
-- [x] B) Facilitar la comprensión rápida del tema central y reforzar visualmente la información fáctica expresada en cifras
+- [x] D) Facilitar la comprensión rápida del tema central y reforzar visualmente la información fáctica expresada en cifras
   <!-- feedback: Correcto. La iconografía actúa como un anclaje visual que organiza los datos, guiando la atención del lector y simplificando la retención de las ideas clave. -->
-- [ ] C) Ocultar las contradicciones de los datos numéricos mediante colores llamativos
+- [ ] B) Ocultar las contradicciones de los datos numéricos mediante colores llamativos
   <!-- feedback: Incorrecto. Los textos discontinuos buscan aclarar e informar; usar la ilustración para engañar o tapar datos es un sesgo negativo, no su función técnica básica. -->
-- [ ] D) Asegurar que la infografía pueda ser leída como un poema de vanguardia lírica
+- [ ] C) Asegurar que la infografía pueda ser leída como un poema de vanguardia lírica
   <!-- feedback: Incorrecto. Las infografías tienen una finalidad informativa, explicativa o instructiva, no poética lírica. -->
 
 ### Explicacion Pedagogica
@@ -55,11 +55,11 @@ Los textos discontinuos combinan lenguaje verbal y no verbal. Los componentes vi
 En una infografía que detalla los destinos turísticos del Perú, ¿cómo se denomina a la sección breve que explica resumidamente el tema que se va a tratar, sirviendo de puente entre el título y el cuerpo visual?
 
 ### Opciones
-- [ ] A) El pie de foto de la ilustración principal
+- [ ] B) El pie de foto de la ilustración principal
   <!-- feedback: Incorrecto. El pie de foto detalla una sola imagen, no resume la infografía completa. -->
-- [ ] B) La fuente de datos estadísticos
+- [ ] C) La fuente de datos estadísticos
   <!-- feedback: Incorrecto. La fuente indica de dónde se extrajo la información (ej. INEI) y suele ir al final en letras pequeñas. -->
-- [x] C) El copete o bajada explicativa
+- [x] A) El copete o bajada explicativa
   <!-- feedback: Correcto. El copete, bajada o texto de introducción es un párrafo sucinto que presenta el tema y la intencionalidad del diseño informativo. -->
 - [ ] D) El crédito de autoría
   <!-- feedback: Incorrecto. El crédito indica quién diseñó el material visual (el autor o agencia). -->
@@ -85,11 +85,11 @@ Considere un gráfico circular que muestra la distribución del empleo en el Per
 ### Opciones
 - [ ] A) La mayoría de los trabajadores peruanos cuenta con seguro médico de salud financiado por el empleador
   <!-- feedback: Incorrecto. La informalidad laboral (75%) generalmente se asocia a la falta de seguro de salud y beneficios de ley, por lo que esta afirmación contradice la realidad sugerida. -->
-- [x] B) Tres de cada cuatro trabajadores peruanos se desempeñan dentro del ámbito de la informalidad laboral
+- [x] D) Tres de cada cuatro trabajadores peruanos se desempeñan dentro del ámbito de la informalidad laboral
   <!-- feedback: Correcto. Dado que el 75% equivale a tres cuartas partes del total ($75/100 = 3/4$), la proporción se deduce de forma exacta de los datos numéricos expuestos. -->
-- [ ] C) El empleo formal ha crecido de manera constante durante los últimos cinco años en las regiones andinas
+- [ ] B) El empleo formal ha crecido de manera constante durante los últimos cinco años en las regiones andinas
   <!-- feedback: Incorrecto. El gráfico circular muestra una instantánea estática del presente; no provee datos históricos temporales de crecimiento o reducción de años anteriores. -->
-- [ ] D) La totalidad de trabajadores informales se concentra exclusivamente en la ciudad de Lima Metropolitana
+- [ ] C) La totalidad de trabajadores informales se concentra exclusivamente en la ciudad de Lima Metropolitana
   <!-- feedback: Incorrecto. El gráfico muestra el agregado nacional; no hay segmentación geográfica que autorice a afirmar que la informalidad ocurre solo en Lima. -->
 
 ### Explicacion Pedagogica
@@ -112,9 +112,9 @@ En la infografía, se presenta una tabla comparativa con datos de altitud, tempe
   <!-- feedback: Incorrecto. Las tablas suelen reducir la cantidad de palabras, buscando concisión y economía verbal. -->
 - [ ] B) Evitar el uso de conectores y nexos temporales en la redacción
   <!-- feedback: Incorrecto. Aunque cambia la estructura, el fin no es prohibir conectores de forma caprichosa. -->
-- [x] C) Facilitar la comparación sistemática y paralela de variables específicas de ambos objetos de estudio
+- [x] D) Facilitar la comparación sistemática y paralela de variables específicas de ambos objetos de estudio
   <!-- feedback: Correcto. Las tablas de doble entrada permiten al lector cruzar datos y establecer semejanzas, diferencias y contrastes de manera inmediata sin necesidad de leer largos párrafos descriptivos. -->
-- [ ] D) Demostrar que la agricultura andina es inviable en el mercado global moderno
+- [ ] C) Demostrar que la agricultura andina es inviable en el mercado global moderno
   <!-- feedback: Incorrecto. El propósito es informar sobre el café; la tabla no busca desalentar o invalidar la agricultura regional. -->
 
 ### Explicacion Pedagogica
@@ -135,9 +135,9 @@ En el mapa, los distritos costeros del sur (Ica, Arequipa, Moquegua) están colo
 ### Opciones
 - [ ] A) Que en Loreto las temperaturas veraniegas son más bajas que en Moquegua
   <!-- feedback: Incorrecto. El mapa es de vulnerabilidad sísmica, no de clima o temperatura atmosférica local. -->
-- [x] B) Que los distritos del sur costero presentan un nivel de riesgo sísmico significativamente mayor que los de la selva norte
+- [x] C) Que los distritos del sur costero presentan un nivel de riesgo sísmico significativamente mayor que los de la selva norte
   <!-- feedback: Correcto. En los mapas de vulnerabilidad sísmica o climatológica, los colores cálidos oscuros (rojo, naranja) codifican tradicionalmente peligro o alta intensidad, y los claros (amarillo, verde) indican menor riesgo. -->
-- [ ] C) Que la población del sur del país prefiere pintar sus viviendas de color rojo por tradición incaica
+- [ ] B) Que la población del sur del país prefiere pintar sus viviendas de color rojo por tradición incaica
   <!-- feedback: Incorrecto. Los mapas temáticos codifican variables científicas de riesgo, no preferencias estéticas o arquitectónicas de la población. -->
 - [ ] D) Que en la selva norte del Perú se han prohibido las actividades de construcción civil
   <!-- feedback: Incorrecto. El color claro solo indica menor sismicidad; no denota prohibiciones legales o administrativas de edificación. -->
@@ -190,11 +190,11 @@ La tabla muestra las exportaciones peruanas de arándanos (en millones de dólar
 ### Opciones
 - [ ] A) Se registra un crecimiento exponencial ininterrumpido en las exportaciones de arándanos durante todo el periodo analizado
   <!-- feedback: Incorrecto. En el año 2023 se produjo una leve contracción ($1350M frente a los $1400M de 2022), por lo que el crecimiento no fue ininterrumpido. -->
-- [x] B) Las exportaciones de arándanos experimentaron una tendencia de crecimiento constante hasta el año 2022, sufriendo una ligera caída en el año 2023
+- [x] D) Las exportaciones de arándanos experimentaron una tendencia de crecimiento constante hasta el año 2022, sufriendo una ligera caída en el año 2023
   <!-- feedback: Correcto. Analiza fielmente la curva de datos: sube de forma constante de 2020 a 2022 ($1000 \rightarrow 1200 \rightarrow 1400$) y desciende levemente en 2023 ($1350M). -->
-- [ ] C) La producción nacional de uvas superó a la de arándanos en el año 2022
+- [ ] B) La producción nacional de uvas superó a la de arándanos en el año 2022
   <!-- feedback: Incorrecto. La tabla provee información exclusiva de arándanos; no hay datos de exportación de uvas para establecer comparaciones. -->
-- [ ] D) El mercado europeo cerró sus fronteras sanitarias al ingreso de arándanos peruanos en el año 2023
+- [ ] C) El mercado europeo cerró sus fronteras sanitarias al ingreso de arándanos peruanos en el año 2023
   <!-- feedback: Incorrecto. El descenso en 2023 puede deberse a múltiples factores (clima, precios); la tabla no menciona el cierre de fronteras en Europa. -->
 
 ### Explicacion Pedagogica
@@ -216,11 +216,11 @@ En el diagrama de flujo, se presenta un rombo con la pregunta '¿Cumple con el r
 Si un estudiante con excelente rendimiento académico califica como 'no pobre' en el SISFOH, ¿qué trayectoria sigue según el diagrama de flujo?
 
 ### Opciones
-- [ ] A) Rinde el examen nacional y espera los resultados de asignación presupuestal
+- [ ] B) Rinde el examen nacional y espera los resultados de asignación presupuestal
   <!-- feedback: Incorrecto. El diagrama indica que si la respuesta a la condición del rombo es 'NO', el proceso se interrumpe de inmediato. -->
-- [ ] B) Debe apelar la decisión en las oficinas de Lima de forma obligatoria
+- [ ] C) Debe apelar la decisión en las oficinas de Lima de forma obligatoria
   <!-- feedback: Incorrecto. El diagrama no describe procesos de apelación administrativa en sus nodos viales. -->
-- [x] C) Queda automáticamente excluido del proceso de postulación a la beca
+- [x] A) Queda automáticamente excluido del proceso de postulación a la beca
   <!-- feedback: Correcto. Al no cumplir con la condición del SISFOH (clasifica como 'no pobre', por ende sigue la flecha 'NO'), su camino concluye de forma directa en el nodo 'Fin del proceso'. -->
 - [ ] D) La municipalidad de su distrito le financia la matrícula de forma automática
   <!-- feedback: Incorrecto. Esta es una asunción externa ajena a la lógica secuencial representada en el diagrama del PRONABEC. -->
@@ -243,9 +243,9 @@ Lea el eslogan de un afiche de de vacunación contra el dengue:
 Junto al texto, se muestra la foto de una casa limpia y ordenada con niños sonrientes. ¿Cómo contribuye el elemento visual a reforzar el mensaje persuasivo del afiche?
 
 ### Opciones
-- [ ] A) Informa sobre la composición química de las vacunas contra el dengue
+- [ ] B) Informa sobre la composición química de las vacunas contra el dengue
   <!-- feedback: Incorrecto. La imagen de una casa limpia y niños no provee datos farmacológicos o médicos de las vacunas. -->
-- [x] B) Asocia el cumplimiento de las conductas de prevención (limpieza de envases) con el bienestar y felicidad del hogar
+- [x] A) Asocia el cumplimiento de las conductas de prevención (limpieza de envases) con el bienestar y felicidad del hogar
   <!-- feedback: Correcto. El recurso visual actúa como un motivador emocional; muestra el estado ideal deseado (un hogar saludable y feliz) como consecuencia directa de realizar las acciones preventivas sugeridas por el eslogan. -->
 - [ ] C) Exige la compra de mobiliario moderno para evitar el estancamiento de aguas de lluvia
   <!-- feedback: Incorrecto. El afiche pide limpiar floreros y voltear llantas; no promueve la compra mercantil de muebles. -->
@@ -308,9 +308,9 @@ Si una medición en la avenida Abancay registra un valor de 125 ug/m3, ¿bajo qu
   <!-- feedback: Incorrecto. 125 ug/m3 excede la franja amarilla (51-100). -->
 - [ ] B) Califica como Peligro extremo; infiere que se debe evacuar de inmediato el centro de Lima
   <!-- feedback: Incorrecto. Peligro extremo es para valores superiores a 150 ug/m3. -->
-- [x] C) Califica como Crítico; infiere que la calidad del aire representa un riesgo severo para la salud pulmonar de peatones y comerciantes
+- [x] D) Califica como Crítico; infiere que la calidad del aire representa un riesgo severo para la salud pulmonar de peatones y comerciantes
   <!-- feedback: Correcto. El valor 125 ug/m3 se ubica exactamente en la franja roja (101-150), calificada como 'Crítico'. De ahí se infiere razonablemente el perjuicio para la salud respiratoria en esa arteria limeña. -->
-- [ ] D) Califica como Excelente; infiere que el tráfico vehicular se ha reducido gracias a las ciclovías
+- [ ] C) Califica como Excelente; infiere que el tráfico vehicular se ha reducido gracias a las ciclovías
   <!-- feedback: Incorrecto. Excelente es para valores inferiores a 50 ug/m3; 125 es una contaminación muy alta. -->
 
 ### Explicacion Pedagogica
@@ -333,9 +333,9 @@ En la infografía, se presenta un mapa interactivo con círculos de diferentes t
 Si en Loreto se observa un círculo muy pequeño coloreado en rojo intenso, ¿cuál es el diagnóstico crítico de esa lengua indígena específica?
 
 ### Opciones
-- [ ] A) La lengua tiene millones de hablantes jóvenes y su conservación está plenamente asegurada
+- [ ] B) La lengua tiene millones de hablantes jóvenes y su conservación está plenamente asegurada
   <!-- feedback: Incorrecto. El tamaño pequeño del círculo y el color rojo indican pocos hablantes y peligro inminente de extinción, no abundancia juvenil. -->
-- [x] B) La lengua posee un número sumamente reducido de hablantes y se encuentra al borde de la extinción definitiva, requiriendo registro urgente de su memoria oral
+- [x] A) La lengua posee un número sumamente reducido de hablantes y se encuentra al borde de la extinción definitiva, requiriendo registro urgente de su memoria oral
   <!-- feedback: Correcto. El tamaño del círculo (reducido número de hablantes) combinado con el color rojo (peligro crítico) denota un estado de vulnerabilidad extrema, donde la transmisión intergeneracional se ha roto y la lengua podría desaparecer pronto. -->
 - [ ] C) La lengua es la más hablada del país pero se concentra únicamente en un distrito
   <!-- feedback: Incorrecto. Si fuera la más hablada, el círculo sería de gran tamaño. -->
@@ -360,11 +360,11 @@ Lea el eslogan de un afiche de la ONG Salvemos las Lomas:
 La imagen muestra un paisaje verde cubierto por una densa neblina y flores amarillas de Amancaes. ¿Quién es el destinatario ideal de este afiche y qué tipo de comportamiento busca movilizar?
 
 ### Opciones
-- [ ] A) Empresas extranjeras de turismo de lujo; busca que inviertan en hoteles de cinco estrellas sobre las lomas
+- [ ] B) Empresas extranjeras de turismo de lujo; busca que inviertan en hoteles de cinco estrellas sobre las lomas
   <!-- feedback: Incorrecto. El tono es de defensa y conservación frente al cemento y los lotes, incompatible con promover infraestructura hotelera masiva. -->
-- [ ] B) Cazadores informales de fauna silvestre; busca regular el uso de armas de fuego en las reservas de la costa
+- [ ] C) Cazadores informales de fauna silvestre; busca regular el uso de armas de fuego en las reservas de la costa
   <!-- feedback: Incorrecto. El tema central son las invasiones de terrenos ('lotes de vivienda') y la minería ('canteras'), no la caza de animales. -->
-- [x] C) Ciudadanos y colectivos vecinales de Lima Sur; busca concientizar sobre el valor ecológico de la reserva y promover su defensa activa frente al tráfico de tierras e invasores
+- [x] A) Ciudadanos y colectivos vecinales de Lima Sur; busca concientizar sobre el valor ecológico de la reserva y promover su defensa activa frente al tráfico de tierras e invasores
   <!-- feedback: Correcto. El afiche busca alertar a la comunidad local sobre la amenaza inmobiliaria e industrial ('lotes', 'cemento'), contrastándola con la belleza natural de la flor de Amancaes (identidad limeña) para movilizar la protección vecinal del ecosistema. -->
 - [ ] D) Ingenieros de construcción civil; busca que aceleren las obras de asfalto sobre las zonas de neblina
   <!-- feedback: Incorrecto. Esto sería lo opuesto a la conservación y defensa del 'pulmón verde' promovido por la ONG. -->
@@ -385,11 +385,11 @@ El destinatario ideal de un texto persuasivo mixto se infiere analizando las ape
 Un gráfico de dispersión de la OCDE muestra la relación entre la inversión pública por alumno (eje X) y el puntaje promedio en matemáticas (eje Y). Los puntos de los países de América Latina (incluido el Perú) se agrupan en el extremo inferior izquierdo, mientras que Singapur y Japón se ubican en el extremo superior derecho. ¿Qué relación de correlación estadística e interpretación socioeducativa se desprende de este gráfico discontinuo?
 
 ### Opciones
-- [ ] A) La inversión económica por alumno produce de manera mágica e inmediata una caída en el rendimiento en matemáticas
+- [ ] B) La inversión económica por alumno produce de manera mágica e inmediata una caída en el rendimiento en matemáticas
   <!-- feedback: Incorrecto. Si fuera así, Singapur y Japón (alta inversión) tendrían puntajes bajos (estarían abajo a la derecha), lo cual contradice el gráfico. -->
-- [ ] B) El rendimiento académico en matemáticas no guarda ninguna relación con los recursos presupuestarios asignados por el Estado
+- [ ] C) El rendimiento académico en matemáticas no guarda ninguna relación con los recursos presupuestarios asignados por el Estado
   <!-- feedback: Incorrecto. Hay una correlación visual clara: a mayor inversión (desplazamiento a la derecha), mayor puntaje promedio (desplazamiento hacia arriba). -->
-- [x] C) Existe una correlación positiva general entre la inversión por alumno y los resultados de aprendizaje, evidenciando que el Perú necesita incrementar de forma eficiente el presupuesto educativo para aproximarse a los estándares globales
+- [x] A) Existe una correlación positiva general entre la inversión por alumno y los resultados de aprendizaje, evidenciando que el Perú necesita incrementar de forma eficiente el presupuesto educativo para aproximarse a los estándares globales
   <!-- feedback: Correcto. El gráfico ilustra que los países con mayor inversión por estudiante logran un rendimiento superior (correlación positiva). Ubicar al Perú abajo a la izquierda diagnostica que la baja inversión correlaciona con bajos resultados, sugiriendo la necesidad de inyectar recursos económicos acompañados de políticas de eficiencia pedagógica. -->
 - [ ] D) Los estudiantes de Singapur y Japón son biológicamente superiores para el razonamiento abstracto y la lógica
   <!-- feedback: Incorrecto. Esta interpretación racista biológica no se desprende ni puede ser validada por un gráfico de inversión y rendimiento escolar de la OCDE. -->
@@ -416,11 +416,11 @@ En la infografía, el flujo del cacao se representa mediante una línea de tiemp
 ¿Cuál de las siguientes afirmaciones describe con precisión la secuencia operativa y logística indispensable expresada en el gráfico?
 
 ### Opciones
-- [ ] A) La fermentación del cacao (paso 2) se realiza a bordo del buque mercante durante el viaje a Suiza
+- [ ] B) La fermentación del cacao (paso 2) se realiza a bordo del buque mercante durante el viaje a Suiza
   <!-- feedback: Incorrecto. El paso 2 ocurre antes del embarque en Paita (paso 4); la fermentación se hace en la cooperativa agraria en origen. -->
-- [ ] B) La certificación orgánica (paso 3) es un trámite opcional que se realiza después de vender los chocolates en Suiza
+- [ ] C) La certificación orgánica (paso 3) es un trámite opcional que se realiza después de vender los chocolates en Suiza
   <!-- feedback: Incorrecto. El paso 3 es previo al embarque y exportación, sugiriendo que la certificación es obligatoria para poder enviar el grano orgánico. -->
-- [x] C) El embarque en el puerto de Paita (paso 4) constituye el nexo logístico fundamental que permite la transición del cacao peruano desde su fase de producción agrícola local a su distribución comercial internacional
+- [x] A) El embarque en el puerto de Paita (paso 4) constituye el nexo logístico fundamental que permite la transición del cacao peruano desde su fase de producción agrícola local a su distribución comercial internacional
   <!-- feedback: Correcto. El puerto de Paita (nodo 4) es la frontera física de salida; articula de forma perfecta la fase de producción piurana (nodos 1, 2 y 3) con el mercado final europeo (nodo 5). -->
 - [ ] D) La cosecha selectiva se delega de forma exclusiva a las empresas navieras de Suiza
   <!-- feedback: Incorrecto. La cosecha se realiza en la cooperativa local de Piura (paso 1), no por las navieras europeas. -->
@@ -441,11 +441,11 @@ Los procesos logísticos secuenciados en infografías exigen comprender la direc
 Si tuviéramos que representar la evolución anual de la tasa de inflación en el Perú durante las últimas tres décadas (1990-2020), ¿cuál de los siguientes formatos gráficos sería el más adecuado y preciso desde el punto de vista del diseño de información?
 
 ### Opciones
-- [ ] A) Un gráfico circular (o de pastel) segmentado en treinta porciones de colores alternados
+- [ ] B) Un gráfico circular (o de pastel) segmentado en treinta porciones de colores alternados
   <!-- feedback: Incorrecto. Un gráfico circular con 30 sectores es ilegible; además, los circulares sirven para ver proporciones de un todo estático, no la evolución temporal de una serie continua. -->
-- [ ] B) Un mapa geográfico del Perú con círculos de dispersión sobre las capitales de departamento
+- [ ] C) Un mapa geográfico del Perú con círculos de dispersión sobre las capitales de departamento
   <!-- feedback: Incorrecto. Un mapa muestra distribución espacial, pero no refleja de forma nítida la fluctuación temporal de la inflación nacional año a año. -->
-- [x] C) Un gráfico de líneas continuas (o curva temporal) donde el eje horizontal represente los años y el eje vertical represente el porcentaje de inflación
+- [x] A) Un gráfico de líneas continuas (o curva temporal) donde el eje horizontal represente los años y el eje vertical represente el porcentaje de inflación
   <!-- feedback: Correcto. El gráfico de líneas es el formato idóneo para representar variables continuas en el tiempo, ya que la línea permite apreciar de un vistazo la tendencia de subida, caída o estabilidad (ej. la hiperinflación de inicios de los 90 y la posterior estabilidad macroeconómica). -->
 - [ ] D) Un organigrama jerárquico que ordene los ministerios según su nivel de gasto público
   <!-- feedback: Incorrecto. Un organigrama representa estructuras administrativas jerárquicas; no sirve para graficar series de datos económicos temporales. -->
@@ -471,9 +471,9 @@ Un canal de televisión muestra un gráfico de barras sobre el número de robos 
 ### Opciones
 - [ ] A) Es excelente porque resalta de manera artística y creativa el aumento de la inseguridad ciudadana
   <!-- feedback: Incorrecto. La distorsión matemática no puede justificarse como 'arte' en un medio informativo serio. -->
-- [ ] B) Es correcto porque febrero tiene más días festivos donde aumentan de forma natural los robos en el distrito
+- [ ] C) Es correcto porque febrero tiene más días festivos donde aumentan de forma natural los robos en el distrito
   <!-- feedback: Incorrecto. Febrero tiene menos días (28 o 29) que enero (31), y este detalle temporal no justifica alterar la proporción de escala de las barras. -->
-- [x] C) Presenta una manipulación deshonesta de la escala visual (falta de proporcionalidad), destinada a infundir pánico injustificado mediante una sensación de aumento desmesurado del delito
+- [x] B) Presenta una manipulación deshonesta de la escala visual (falta de proporcionalidad), destinada a infundir pánico injustificado mediante una sensación de aumento desmesurado del delito
   <!-- feedback: Correcto. Un aumento de 100 a 110 robos representa apenas el 10%. La barra de febrero debería medir un 10% más que la de enero (2.2 cm). Medir 10 cm (un aumento visual del 400% o 5 veces más grande) manipula la percepción del espectador de forma deshonesta, violando la ética del periodismo de datos. -->
 - [ ] D) Invalida el gráfico porque el INEI prohíbe el uso de barras verticales en informes de delincuencia distrital
   <!-- feedback: Incorrecto. El uso de barras verticales no está prohibido por ley; el error ético reside en romper la proporcionalidad matemática de la escala. -->

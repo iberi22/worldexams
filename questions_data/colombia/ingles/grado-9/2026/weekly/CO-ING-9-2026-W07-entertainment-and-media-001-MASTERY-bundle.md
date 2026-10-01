@@ -36,8 +36,8 @@ This bundle explores the world of movies, music, and social media, focusing on P
 The new superhero movie ________ in several locations across Colombia last year.
 
 ### Opciones
-- [ ] A) filmed <!-- feedback: Incorrect. This would mean the movie did the filming. We need the passive form. -->
-- [x] B) was filmed <!-- feedback: Correct! Past Simple Passive (was/were + past participle) for a finished action. -->
+- [ ] B) filmed <!-- feedback: Incorrect. This would mean the movie did the filming. We need the passive form. -->
+- [x] A) was filmed <!-- feedback: Correct! Past Simple Passive (was/were + past participle) for a finished action. -->
 - [ ] C) is filmed <!-- feedback: Incorrect. This refers to a current or regular action. -->
 - [ ] D) has been filmed <!-- feedback: Incorrect. This would be used if the specific time wasn't mentioned. -->
 
@@ -57,9 +57,9 @@ Usamos la voz pasiva en el pasado (*was filmed*) cuando queremos resaltar qué s
 Millions of songs ________ every day on streaming platforms around the world.
 
 ### Opciones
-- [ ] A) played <!-- feedback: Incorrect. Active voice in the past. -->
-- [ ] B) are playing <!-- feedback: Incorrect. Active voice in the continuous. -->
-- [x] C) are played <!-- feedback: Correct! Present Simple Passive (am/is/are + past participle) for regular actions. -->
+- [ ] B) played <!-- feedback: Incorrect. Active voice in the past. -->
+- [ ] C) are playing <!-- feedback: Incorrect. Active voice in the continuous. -->
+- [x] A) are played <!-- feedback: Correct! Present Simple Passive (am/is/are + past participle) for regular actions. -->
 - [ ] D) were played <!-- feedback: Incorrect. This refers to the past. -->
 
 ### Explicacion Pedagogica
@@ -78,8 +78,8 @@ Para hablar de acciones habituales o hechos generales en voz pasiva, utilizamos 
 The way we see content on social media ________ by complex algorithms recently.
 
 ### Opciones
-- [ ] A) has changed <!-- feedback: Incorrect. This is active voice; we need the passive. -->
-- [x] B) has been changed <!-- feedback: Correct! Present Perfect Passive for an action that has happened recently. -->
+- [ ] B) has changed <!-- feedback: Incorrect. This is active voice; we need the passive. -->
+- [x] A) has been changed <!-- feedback: Correct! Present Perfect Passive for an action that has happened recently. -->
 - [ ] C) was changed <!-- feedback: Incorrect. Less suitable for "recently" than the Present Perfect. -->
 - [ ] D) is being changed <!-- feedback: Incorrect. This refers to an action in progress right now. -->
 
@@ -100,9 +100,9 @@ The concert ________ because of the heavy rain in Bogotá last night.
 
 ### Opciones
 - [ ] A) cancelled <!-- feedback: Incorrect. Active voice. -->
-- [x] B) was cancelled <!-- feedback: Correct! Past Simple Passive. -->
-- [ ] C) is cancelled <!-- feedback: Incorrect. Present tense. -->
-- [ ] D) has been cancelled <!-- feedback: Incorrect. "Last night" specifies a finished past time. -->
+- [x] D) was cancelled <!-- feedback: Correct! Past Simple Passive. -->
+- [ ] B) is cancelled <!-- feedback: Incorrect. Present tense. -->
+- [ ] C) has been cancelled <!-- feedback: Incorrect. "Last night" specifies a finished past time. -->
 
 ### Explicacion Pedagogica
 Cuando el agente de la acción (quien canceló el concierto) no es lo más importante, usamos la voz pasiva para enfocarnos en el evento afectado.
@@ -121,9 +121,9 @@ The winners of the music awards ________ next Sunday during a live broadcast.
 
 ### Opciones
 - [ ] A) will announce <!-- feedback: Incorrect. Active voice. -->
-- [x] B) will be announced <!-- feedback: Correct! Future Simple Passive (will be + past participle). -->
-- [ ] C) are going to announce <!-- feedback: Incorrect. Active voice. -->
-- [ ] D) will being announced <!-- feedback: Incorrect. Grammatically incorrect form. -->
+- [x] D) will be announced <!-- feedback: Correct! Future Simple Passive (will be + past participle). -->
+- [ ] B) are going to announce <!-- feedback: Incorrect. Active voice. -->
+- [ ] C) will being announced <!-- feedback: Incorrect. Grammatically incorrect form. -->
 
 ### Explicacion Pedagogica
 Para eventos futuros donde el foco es lo que sucederá, usamos la pasiva con *will be* seguida del participio pasado.
@@ -184,9 +184,9 @@ Which sentence is the most natural to use in a formal movie review?
 
 ### Opciones
 - [ ] A) People directed the movie in 1994. <!-- feedback: Incorrect. "People" is too vague as a subject. -->
-- [x] B) The movie was directed by Steven Spielberg in 1994. <!-- feedback: Correct! Formal style often uses passive with "by" for the creator. -->
-- [ ] C) Steven Spielberg directed the movie in 1994. <!-- feedback: Incorrect. While correct, B is often preferred in reviews to highlight the movie first. -->
-- [ ] D) The movie directed Steven Spielberg in 1994. <!-- feedback: Incorrect. Logically impossible. -->
+- [x] D) The movie was directed by Steven Spielberg in 1994. <!-- feedback: Correct! Formal style often uses passive with "by" for the creator. -->
+- [ ] B) Steven Spielberg directed the movie in 1994. <!-- feedback: Incorrect. While correct, B is often preferred in reviews to highlight the movie first. -->
+- [ ] C) The movie directed Steven Spielberg in 1994. <!-- feedback: Incorrect. Logically impossible. -->
 
 ### Explicacion Pedagogica
 En críticas formales de arte o cine, es común usar la voz pasiva para poner la obra como sujeto, mencionando al autor con la preposición *by*.
@@ -205,9 +205,9 @@ Sensitive personal data ________ on social media to avoid identity theft.
 
 ### Opciones
 - [ ] A) shouldn't share <!-- feedback: Incorrect. Active voice. -->
-- [x] B) shouldn't be shared <!-- feedback: Correct! Passive with modal verbs (modal + be + past participle). -->
-- [ ] C) shouldn't being shared <!-- feedback: Incorrect. Grammatically incorrect. -->
-- [ ] D) shouldn't shared <!-- feedback: Incorrect. Missing "be". -->
+- [x] D) shouldn't be shared <!-- feedback: Correct! Passive with modal verbs (modal + be + past participle). -->
+- [ ] B) shouldn't being shared <!-- feedback: Incorrect. Grammatically incorrect. -->
+- [ ] C) shouldn't shared <!-- feedback: Incorrect. Missing "be". -->
 
 ### Explicacion Pedagogica
 Al usar verbos modales en pasiva, la estructura es: *modal + be + participio pasado*. Esto es muy útil para dar consejos o reglas generales.
@@ -226,8 +226,8 @@ Identify the error in this paragraph:
 "The script **was written** (A) by a young author. Later, it **was being sent** (B) to the producers, who loved it. Now, the film **is being produced** (C) in Hollywood and it **will be released** (D) next year."
 
 ### Opciones
-- [ ] A) was written <!-- feedback: Incorrect. Correct use of Past Simple Passive. -->
-- [x] B) was being sent <!-- feedback: Incorrect. This implies a continuous action in the past; it should be Past Simple Passive (*was sent*) for a single completed action. -->
+- [ ] B) was written <!-- feedback: Incorrect. Correct use of Past Simple Passive. -->
+- [x] A) was being sent <!-- feedback: Incorrect. This implies a continuous action in the past; it should be Past Simple Passive (*was sent*) for a single completed action. -->
 - [ ] C) is being produced <!-- feedback: Incorrect. Correct use of Present Continuous Passive. -->
 - [ ] D) will be released <!-- feedback: Incorrect. Correct use of Future Simple Passive. -->
 
@@ -248,8 +248,8 @@ Which headline is more appropriate for a serious news report about a cybersecuri
 
 ### Opciones
 - [ ] A) Someone stole the passwords of 5,000 users! <!-- feedback: Incorrect. "Someone" is too informal and vague for news. -->
-- [x] B) Passwords of 5,000 users have been stolen in a cyberattack. <!-- feedback: Correct! Passive voice focuses on the victims and the serious event. -->
-- [ ] C) A hacker was stealing passwords yesterday. <!-- feedback: Incorrect. Focuses on the hacker, which might be unknown. -->
+- [x] C) Passwords of 5,000 users have been stolen in a cyberattack. <!-- feedback: Correct! Passive voice focuses on the victims and the serious event. -->
+- [ ] B) A hacker was stealing passwords yesterday. <!-- feedback: Incorrect. Focuses on the hacker, which might be unknown. -->
 - [ ] D) 5,000 users lost their passwords. <!-- feedback: Incorrect. This makes the users the actors, which is not the case. -->
 
 ### Explicacion Pedagogica
@@ -270,9 +270,9 @@ Complete the sentence:
 
 ### Opciones
 - [ ] A) was controlled / created <!-- feedback: Incorrect. Active voice in the second part. -->
-- [x] B) was controlled / is being created <!-- feedback: Correct! Passive voice in both parts, reflecting the shift in power. -->
-- [ ] C) is controlled / was created <!-- feedback: Incorrect. Tenses are inverted. -->
-- [ ] D) has been controlled / is created <!-- feedback: Incorrect. First part refers to a finished past era. -->
+- [x] D) was controlled / is being created <!-- feedback: Correct! Passive voice in both parts, reflecting the shift in power. -->
+- [ ] B) is controlled / was created <!-- feedback: Incorrect. Tenses are inverted. -->
+- [ ] C) has been controlled / is created <!-- feedback: Incorrect. First part refers to a finished past era. -->
 
 ### Explicacion Pedagogica
 Este ejercicio requiere evaluar el cambio histórico en los medios: de un control centralizado en el pasado (*was controlled*) a una creación masiva y actual (*is being created*).

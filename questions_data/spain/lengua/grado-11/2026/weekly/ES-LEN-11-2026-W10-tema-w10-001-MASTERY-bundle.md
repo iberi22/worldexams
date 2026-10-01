@@ -33,13 +33,13 @@ Este bundle contiene 20 preguntas sobre el lenguaje y la estructura de los texto
 ¿Qué funciones de la comunicación de Roman Jakobson dominan y configuran prioritariamente el mensaje publicitario?
 
 ### Opciones
-- [x] A) La función apelativa (para influir u ordenar al receptor la compra del producto) y la función poética (para atraer la atención estética sobre el eslogan).
+- [x] D) La función apelativa (para influir u ordenar al receptor la compra del producto) y la función poética (para atraer la atención estética sobre el eslogan).
   <!-- feedback: Correcto. La publicidad se rige por la función conativa/apelativa (fin de persuasión) y se auxilia de la función poética (embellecer el eslogan para asegurar su memorización acústica y visual). -->
-- [ ] B) La función metalingüística de la RAE coordinada con la elipsis temporal de Valencia.
+- [ ] A) La función metalingüística de la RAE coordinada con la elipsis temporal de Valencia.
   <!-- feedback: Incorrecto. No busca impartir lecciones normativas de gramática, busca vender un producto o convencer de una idea. -->
-- [ ] C) Predominio exclusivo de la función fática telefónica de bajo nivel de éxito en Doñana.
+- [ ] B) Predominio exclusivo de la función fática telefónica de bajo nivel de éxito en Doñana.
   <!-- feedback: Incorrecto. La fática solo testea el canal, mientras que el anuncio busca de forma activa convencer al comprador. -->
-- [ ] D) Se limita a la función representativa o referencial pura de la física de laboratorios de Zaragoza.
+- [ ] C) Se limita a la función representativa o referencial pura de la física de laboratorios de Zaragoza.
   <!-- feedback: Incorrecto. La referencial pura o informativa es secundaria en los anuncios comerciales, dominados por la persuasión retórica. -->
 
 ### Explicacion Pedagogica
@@ -57,9 +57,9 @@ El texto de la publicidad persigue persuadir al destinatario (función apelativa
 ¿Cómo se define formalmente este tipo de enunciado sintético dentro de la tipología del anuncio gráfico?
 
 ### Opciones
-- [x] A) Eslogan, una frase breve, ingeniosa, memorable y persuasiva que condensa los valores comerciales o ideológicos de una marca.
+- [x] B) Eslogan, una frase breve, ingeniosa, memorable y persuasiva que condensa los valores comerciales o ideológicos de una marca.
   <!-- feedback: Correcto. El eslogan es el lema publicitario de la marca, diseñado de forma sintética, rítmica e ingeniosa para facilitar la memorización en el receptor. -->
-- [ ] B) El despiece técnico del embalaje de cartón impreso en Soria.
+- [ ] A) El despiece técnico del embalaje de cartón impreso en Soria.
   <!-- feedback: Incorrecto. El despiece técnico es una descripción informativa minuciosa, contraria a la síntesis persuasiva del lema de marca. -->
 - [ ] C) Tesis implícita en latín clásico del Ministerio de Sanidad.
   <!-- feedback: Incorrecto. Se redacta en castellano estándar y es un eslogan comercial explícito, desvinculado del latín clásico o directivas de salud. -->
@@ -105,11 +105,11 @@ El anuncio publicitario gráfico es un texto multimodal de carácter complejo, i
 En la teoría de la comunicación multimodal de Roland Barthes, ¿qué función cumple la frase escrita respecto de la enorme polisemia semántica de la imagen del desierto?
 
 ### Opciones
-- [x] A) Función de anclaje, ya que el texto escrito fija o concreta el significado de la imagen, guiando al lector hacia la interpretación deseada por el emisor (comprar el refresco) y evitando divagaciones libres.
+- [x] C) Función de anclaje, ya que el texto escrito fija o concreta el significado de la imagen, guiando al lector hacia la interpretación deseada por el emisor (comprar el refresco) y evitando divagaciones libres.
   <!-- feedback: Correcto. La función de anclaje del texto delimita la polisemia (múltiples significados posibles) de la imagen fija, canalizando la interpretación del lector hacia el producto comercial de limón. -->
-- [ ] B) Función de relevo, puesto que el texto escrito contradice de forma total la fotografía obligando al lector a viajar a Doñana.
+- [ ] A) Función de relevo, puesto que el texto escrito contradice de forma total la fotografía obligando al lector a viajar a Doñana.
   <!-- feedback: Incorrecto. La función de relevo complementa de forma paralela la acción como en un cómic; fijar el sentido vago de un paisaje es la función de anclaje clásica de Barthes. -->
-- [ ] C) Un loísmo sintáctico de cosa que suspende la acción del refresco de limón.
+- [ ] B) Un loísmo sintáctico de cosa que suspende la acción del refresco de limón.
   <!-- feedback: Incorrecto. No tiene ninguna relación con errores pronominales de objeto directo masculino átono. -->
 - [ ] D) Elipsis estructural de tipo condicional canario aceptado por la RAE.
   <!-- feedback: Incorrecto. Es un recurso pragmático-estructural del diseño multimodal y no una elisión temporal verbal de gramática canaria. -->
@@ -129,11 +129,11 @@ Las imágenes son polisémicas por naturaleza (un desierto puede sugerir calor, 
 ¿Qué recurso semántico y visual organiza la descripción sugerente de la fragancia?
 
 ### Opciones
-- [x] A) Metáfora verbal y visual, al identificar el aroma del perfume con un destello luminoso intangible espiritual del interior del alma.
+- [x] C) Metáfora verbal y visual, al identificar el aroma del perfume con un destello luminoso intangible espiritual del interior del alma.
   <!-- feedback: Correcto. La metáfora ('aroma = luz interior') asocia un elemento sensorial olfativo con una categoría visual y mística poética, potenciando el misterio y el snobismo estético del producto en Madrid. -->
-- [ ] B) Definición científica forense avalada por el laboratorio del Ayuntamiento de Madrid.
+- [ ] A) Definición científica forense avalada por el laboratorio del Ayuntamiento de Madrid.
   <!-- feedback: Incorrecto. El lenguaje es connotativo, vago, poético e hiperbólico, ajeno al rigor de la física o el análisis químico forense real de un perfume. -->
-- [ ] C) Falacia ad hominem, que busca descalificar de forma directa al fabricante competidor de Toledo.
+- [ ] B) Falacia ad hominem, que busca descalificar de forma directa al fabricante competidor de Toledo.
   <!-- feedback: Incorrecto. No ofende ni descalifica a ningún fabricante; embellece el perfume de la marca propia con figuras literarias. -->
 - [ ] D) Un arcaísmo del siglo XI que la RAE ha prohibido escribir en papel prensa de España.
   <!-- feedback: Incorrecto. Son palabras cultas y vivas del castellano estándar actual contemporáneo de España. -->
@@ -153,13 +153,13 @@ La publicidad de perfumes es de base lírica. Ante la imposibilidad física de t
 ¿Qué recurso retórico de base lógica se está aplicando de forma intencionada en este eslogan de marca?
 
 ### Opciones
-- [x] A) Hipérbole o exageración desmesurada de las cualidades reales del automóvil para asombrar y persuadir al potencial comprador.
+- [x] D) Hipérbole o exageración desmesurada de las cualidades reales del automóvil para asombrar y persuadir al potencial comprador.
   <!-- feedback: Correcto. La hipérbole ('coche infinito', 'doblegar montañas') magnifica con fantasía épica la potencia del todoterreno para atraer la atención afectiva del consumidor en Sevilla. -->
-- [ ] B) Argumento de autoridad del Ministerio de Fomento de España.
+- [ ] A) Argumento de autoridad del Ministerio de Fomento de España.
   <!-- feedback: Incorrecto. No se aporta el dictamen de ningún ingeniero ministerial; se utiliza una exageración lírica e informal comercial. -->
-- [ ] C) Falacia de generalización apresurada del lince ibérico de Doñana.
+- [ ] B) Falacia de generalización apresurada del lince ibérico de Doñana.
   <!-- feedback: Incorrecto. Es un recurso estilístico hiperbólico publicitario de persuasión afectiva y no una inducción lógica fallida. -->
-- [ ] D) Un queísmo morfológico involuntario de Sevilla que altera el género.
+- [ ] C) Un queísmo morfológico involuntario de Sevilla que altera el género.
   <!-- feedback: Incorrecto. El enunciado es sintácticamente impecable. -->
 
 ### Explicacion Pedagogica
@@ -273,9 +273,9 @@ Los juegos de palabras, los dobles sentidos o la polisemia intencionada son de u
 Analiza sintácticamente la estructura de este eslogan y justifícala estilísticamente de acuerdo con la economía lingüística de la publicidad.
 
 ### Opciones
-- [x] A) Oración nominal elíptica (sin verbo expreso), recurso que condensa de forma contundente la información y potencia el dinamismo visual del anuncio gráfico.
+- [x] B) Oración nominal elíptica (sin verbo expreso), recurso que condensa de forma contundente la información y potencia el dinamismo visual del anuncio gráfico.
   <!-- feedback: Correcto. La supresión del verbo (elipsis verbal: 'Móvil X [es] el futuro en tus manos') genera una estructura puramente nominal corta y de gran impacto dinámico, típica de la concisión sintáctica del lenguaje de la publicidad de España. -->
-- [ ] B) Un error de concordancia morfológica que anula la validez legal de las marcas de telefonía móvil de Salamanca.
+- [ ] A) Un error de concordancia morfológica que anula la validez legal de las marcas de telefonía móvil de Salamanca.
   <!-- feedback: Incorrecto. La elisión verbal es un recurso sintáctico-estilístico maduro y de perfecta validez gramatical descriptiva literaria y publicitaria. -->
 - [ ] C) Un dequeísmo de modestia provocado por omitir el pronombre 'de' antes del móvil.
   <!-- feedback: Incorrecto. No hay ninguna conjunción 'que' ni error preposicional de régimen subordinado substantivo. -->
@@ -297,9 +297,9 @@ La publicidad se rige por el principio de economía del lenguaje. Suprimir los v
 Analiza qué recurso fónico e icónico de la función poética se está aplicando para fijar la frase en la mente de los conductores.
 
 ### Opciones
-- [x] A) Aliteración y rima consonante interna ('moderación/aceleración'), recursos fónicos que buscan crear sonoridad, ritmo y facilitar el recuerdo subconsciente de la campaña.
+- [x] B) Aliteración y rima consonante interna ('moderación/aceleración'), recursos fónicos que buscan crear sonoridad, ritmo y facilitar el recuerdo subconsciente de la campaña.
   <!-- feedback: Correcto. La repetición de fonemas y rimas idénticas finales ('-ación') dota al eslogan de ritmo musical acústico, recurso fónico de la función poética idóneo para asegurar la memorización inconsciente de la advertencia vial de la DGT. -->
-- [ ] B) Un laísmo fónico de persona de bajo nivel de éxito de Doñana.
+- [ ] A) Un laísmo fónico de persona de bajo nivel de éxito de Doñana.
   <!-- feedback: Incorrecto. No hay ninguna vinculación con anomalías de pronombres átonos de objeto directo. -->
 - [ ] C) Un dequeísmo fónico que exige la preposición 'de' antes de la aceleración del motor.
   <!-- feedback: Incorrecto. No incurre en errores preposicionales; es un enunciado sintácticamente impecable con rima de sufijos nominales. -->
@@ -369,13 +369,13 @@ Las estructuras comparativas de superioridad ('más... que') y las de superlativ
 Analiza críticamente qué resortes de persuasión psicológica se están aplicando en el anuncio al desviar la atención desde el producto real.
 
 ### Opciones
-- [x] A) Publicidad emocional o de asociación de valores, al eludir describir los ingredientes objetivos de la hamburguesa para apelar a la necesidad social de felicidad, amistad e integración juvenil del receptor.
+- [x] D) Publicidad emocional o de asociación de valores, al eludir describir los ingredientes objetivos de la hamburguesa para apelar a la necesidad social de felicidad, amistad e integración juvenil del receptor.
   <!-- feedback: Correcto. La publicidad moderna apela a valores emocionales o psicológicos aspiracionales (amistad, éxito, juventud) en lugar de cualidades materiales del producto (carne, pan), buscando que el consumidor asocie la marca con su propia felicidad. -->
-- [ ] B) Un informe técnico forense de la LOMLOE para la venta de carne de ternera en Zaragoza.
+- [ ] A) Un informe técnico forense de la LOMLOE para la venta de carne de ternera en Zaragoza.
   <!-- feedback: Incorrecto. El anuncio carece de datos científicos o de control sanitario forense de la carne; es una pura apelación emocional y afectiva lúdica juvenil. -->
-- [ ] C) Un leísmo de persona directo madrileño aceptado en Valencia.
+- [ ] B) Un leísmo de persona directo madrileño aceptado en Valencia.
   <!-- feedback: Incorrecto. No hay ninguna confusión pronominal de acusativo o dativo; es una estrategia de psicología y retórica comercial. -->
-- [ ] D) Estilo directo libre que suprime los signos de puntuación del menú de precios.
+- [ ] C) Estilo directo libre que suprime los signos de puntuación del menú de precios.
   <!-- feedback: Incorrecto. No reproduce diálogos dramáticos fusionados de personajes; es una exhortación directa al comprador. -->
 
 ### Explicacion Pedagogica
@@ -393,13 +393,13 @@ La publicidad comercial ha evolucionado desde la mera descripción utilitaria de
 ¿Qué función del lenguaje es la que justifica el estilo aséptico de este anuncio frente a los anuncios de perfumes?
 
 ### Opciones
-- [x] A) Función representativa o referencial, prioritaria al informar con datos objetivos, medidas físicas denotativas y rigor técnico sobre el rendimiento real del producto.
+- [x] D) Función representativa o referencial, prioritaria al informar con datos objetivos, medidas físicas denotativas y rigor técnico sobre el rendimiento real del producto.
   <!-- feedback: Correcto. Los anuncios de electrodomésticos o tecnología de bajo consumo se apoyan con gran peso en la función representativa o referencial, proporcionando datos objetivos, medibles e informativos reales de rentabilidad económica. -->
-- [ ] B) Función expresiva de la Generación del 27 para cantar al alma de las bombillas.
+- [ ] A) Función expresiva de la Generación del 27 para cantar al alma de las bombillas.
   <!-- feedback: Incorrecto. La lírica e intimidad personal subjetiva del emisor quedan excluidas de un folleto de rendimiento técnico de vatios de Soria. -->
-- [ ] C) Función metalingüística de la RAE orientada a prohibir el uso de la tilde diacrítica en la palabra 'LED'.
+- [ ] B) Función metalingüística de la RAE orientada a prohibir el uso de la tilde diacrítica en la palabra 'LED'.
   <!-- feedback: Incorrecto. La palabra LED es un acrónimo técnico del inglés aceptado en la física, desprovisto de análisis lingüísticos de la RAE. -->
-- [ ] D) Función fática pura para asegurar la cobertura telefónica del casquillo de la bombilla.
+- [ ] C) Función fática pura para asegurar la cobertura telefónica del casquillo de la bombilla.
   <!-- feedback: Incorrecto. No comprueba el canal de telecomunicación acústica; describe datos de iluminación lumínica real. -->
 
 ### Explicacion Pedagogica
@@ -441,11 +441,11 @@ La publicidad histórica refleja las estructuras de poder de su época. La decon
 Realiza una evaluación crítica de la legalidad y el rigor ético e informativo de esta campaña de cosmética a la luz de los derechos de los consumidores.
 
 ### Opciones
-- [x] A) Incurre en un caso claro de publicidad engañosa y manipulación informática, al magnificar con hipérboles embusteras en el titular principal ('reducción del 100%') datos estadísticos reales ínfimos y marginales relegados a la letra pequeña ilegible, estafando al comprador.
+- [x] C) Incurre en un caso claro de publicidad engañosa y manipulación informática, al magnificar con hipérboles embusteras en el titular principal ('reducción del 100%') datos estadísticos reales ínfimos y marginales relegados a la letra pequeña ilegible, estafando al comprador.
   <!-- feedback: Correcto. La discrepancia entre la afirmación fraudulenta del gran titular publicitario y la ridícula realidad estadística escondida en la letra pequeña del pie de página del cartel constituye un caso flagrante de publicidad engañosa sancionado por las leyes de consumo de España. -->
-- [ ] B) Es correcta, ya que las cremas de Barcelona de rejuvenecimiento facial deben ser milagrosas por mandato del Ayuntamiento.
+- [ ] A) Es correcta, ya que las cremas de Barcelona de rejuvenecimiento facial deben ser milagrosas por mandato del Ayuntamiento.
   <!-- feedback: Incorrecto. Los ayuntamientos velan por la veracidad comercial de las campañas y sancionan las promesas milagrosas imposibles científicamente. -->
-- [ ] C) Es un uso brillante de la estructura encuadrada de la Real Academia Española de la Ciencia de Doñana.
+- [ ] B) Es un uso brillante de la estructura encuadrada de la Real Academia Española de la Ciencia de Doñana.
   <!-- feedback: Incorrecto. Es un fraude comercial de lógica informal e imprecisión deliberada de datos y no un logro de arquitectura literaria. -->
 - [ ] D) Se devalúa la crítica de Barcelona porque la mitosis celular exige de forma indispensable la palabra 'engañosa' en los folletos.
   <!-- feedback: Incorrecto. La mitosis celular es ajena a las directivas de protección comercial y de ética publicitaria del consumidor. -->
@@ -465,9 +465,9 @@ La publicidad comercial está sometida a la ley de competencia desleal y veracid
 Evalúa críticamente la eficacia persuasiva y el impacto dramático de asociar la conmoción trágica con el imperativo cívico en esta campaña institucional.
 
 ### Opciones
-- [x] A) Emplea de manera eficaz y justificada el 'recurso al miedo' (apelación dramática) combinado con la personificación de la muerte, buscando un fuerte sacudida psicológica que conciencie al conductor del peligro letal del alcohol en carretera.
+- [x] B) Emplea de manera eficaz y justificada el 'recurso al miedo' (apelación dramática) combinado con la personificación de la muerte, buscando un fuerte sacudida psicológica que conciencie al conductor del peligro letal del alcohol en carretera.
   <!-- feedback: Correcto. La publicidad de la DGT recurre de forma habitual a la conmoción trágica ('recurso al miedo') asociada a figuras de gran potencia simbólica (personificar a la muerte) para concienciar al receptor de forma ética de la responsabilidad vial letal del alcohol en coche. -->
-- [ ] B) Es un error sintáctico severo de la DGT que la RAE prohíbe de forma terminante bajo pena de anulación del carné de conducir en Madrid.
+- [ ] A) Es un error sintáctico severo de la DGT que la RAE prohíbe de forma terminante bajo pena de anulación del carné de conducir en Madrid.
   <!-- feedback: Incorrecto. Es una campaña institucional legítima de concienciación cívica, de excelente corrección morfosintáctica y semántica peninsular. -->
 - [ ] C) Es un loísmo de cosa andaluz provocado por la palabra 'asiento' de Soria.
   <!-- feedback: Incorrecto. No hay ninguna confusión pronominal de complemento directo en el lema cívico vial de la DGT. -->
@@ -489,11 +489,11 @@ La publicidad institucional (DGT, ministerios de salud) recurre con frecuencia a
 Evalúa la adecuación lingüística y la corrección ética e instructiva de este eslogan publicitario infantil en la España contemporánea bajo la LOMLOE.
 
 ### Opciones
-- [x] A) Es totalmente inadecuado, incívico y denigrante, al violar el código de conducta de publicidad infantil al promover el lenguaje vulgar degradado de chat ('xq', 'xaval'), la agresividad física y atentar contra el desarrollo ético e instructivo del menor de Soria.
+- [x] C) Es totalmente inadecuado, incívico y denigrante, al violar el código de conducta de publicidad infantil al promover el lenguaje vulgar degradado de chat ('xq', 'xaval'), la agresividad física y atentar contra el desarrollo ético e instructivo del menor de Soria.
   <!-- feedback: Correcto. La publicidad dirigida a menores está regulada por estrictos códigos deontológicos de protección de la infancia (Autocontrol). El uso de lenguaje vulgar abreviado de chat de forma mimética, insultos u agresividad física atenta contra las directrices de civismo y alfabetización correcta de la LOMLOE en bachillerato. -->
-- [ ] B) Es adecuado, ya que los niños de Soria deben de hablar con faltas ortográficas para poder aprobar el examen de acceso a la universidad.
+- [ ] A) Es adecuado, ya que los niños de Soria deben de hablar con faltas ortográficas para poder aprobar el examen de acceso a la universidad.
   <!-- feedback: Incorrecto. Las pruebas de acceso a la universidad penalizan severamente las abreviaturas informales de chat de móvil y las faltas de ortografía graves. -->
-- [ ] C) Es un uso brillante de la estructura analizante del español de Canarias avalada por la RAE.
+- [ ] B) Es un uso brillante de la estructura analizante del español de Canarias avalada por la RAE.
   <!-- feedback: Incorrecto. El lenguaje degradado de chat de móvil con faltas graves carece de justificación de variedad diatópica canaria respetable u de estructura textual culta. -->
 - [ ] D) Se publica así para demostrar que las letras del abecedario se consideran laístas en el asfalto de Soria.
   <!-- feedback: Incorrecto. No tiene ninguna relación con anomalías de pronombres átonos de objeto directo masculinos; es un asunto grave de protección ética de la infancia. -->

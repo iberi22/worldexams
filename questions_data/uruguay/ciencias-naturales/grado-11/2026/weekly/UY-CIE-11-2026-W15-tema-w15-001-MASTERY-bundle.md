@@ -33,9 +33,9 @@ calibration: {difficulty_band: "D3-D10", expected_success: 0.65}
 ¿Qué tipo de radiación emitida por la superficie terrestre es absorbida primariamente por los gases de efecto invernadero (GEI)?
 
 ### Opciones
-- [x] A) Radiación infrarroja de onda larga.
+- [x] B) Radiación infrarroja de onda larga.
   <!-- feedback: Correcto. La superficie terrestre reemite la energía solar absorbida como radiación infrarroja térmica de onda larga, absorbida por los GEI. -->
-- [ ] B) Radiación ultravioleta de onda corta.
+- [ ] A) Radiación ultravioleta de onda corta.
   <!-- feedback: Incorrecto. La radiación UV de onda corta proviene del sol y es absorbida mayormente por el ozono estratosférico. -->
 - [ ] C) Radiación gamma de frecuencia extrema.
   <!-- feedback: Incorrecto. La radiación gamma es radiación nuclear de muy alta energía no emitida por la tierra de forma térmica. -->
@@ -104,9 +104,9 @@ La fermentación entérica en el rumen de los herbívoros convierte los carbohid
 ### Opciones
 - [ ] A) El volumen total de agua dulce evaporada durante la fabricación.
   <!-- feedback: Incorrecto. El volumen de agua utilizado mide la huella hídrica, no la de carbono. -->
-- [x] B) La cantidad total de gases de efecto invernadero (expresada en $CO_2\text{-eq}$) emitidos directa o indirectamente a lo largo de su ciclo de vida.
+- [x] C) La cantidad total de gases de efecto invernadero (expresada en $CO_2\text{-eq}$) emitidos directa o indirectamente a lo largo de su ciclo de vida.
   <!-- feedback: Correcto. La huella de carbono suma todas las emisiones de GEI de la cadena de valor expresadas en dióxido de carbono equivalente. -->
-- [ ] C) El porcentaje de átomos de carbono presentes en la estructura química del envoltorio.
+- [ ] B) El porcentaje de átomos de carbono presentes en la estructura química del envoltorio.
   <!-- feedback: Incorrecto. Mide emisiones de gases a la atmósfera, no la composición atómica del empaque. -->
 - [ ] D) La superficie de suelo requerida para depositar los residuos plásticos.
   <!-- feedback: Incorrecto. La huella ecológica mide demanda de superficie biológicamente productiva. -->
@@ -125,9 +125,9 @@ La huella de carbono es la métrica ambiental que cuantifica la suma de emisione
 ¿Qué concepto de las ciencias ambientales describe estas modificaciones en los patrones meteorológicos de largo plazo causadas por el calentamiento global antropogénico?
 
 ### Opciones
-- [ ] A) Variación orbital estacional de Milankovitch de ciclo corto.
+- [ ] B) Variación orbital estacional de Milankovitch de ciclo corto.
   <!-- feedback: Incorrecto. Los ciclos de Milankovitch operan en escalas astronómicas de decenas de miles de años. -->
-- [x] B) Cambio climático antropogénico e intensificación de eventos meteorológicos extremos.
+- [x] A) Cambio climático antropogénico e intensificación de eventos meteorológicos extremos.
   <!-- feedback: Correcto. El aumento de la temperatura global altera la circulación atmosférica e hidrológica, incrementando la frecuencia de sequías e inundaciones severas. -->
 - [ ] C) Enfriamiento global espontáneo por congelación del ecuador.
   <!-- feedback: Incorrecto. Los datos instrumentales globales demuestran un calentamiento sostenido de la temperatura media. -->
@@ -150,9 +150,9 @@ El cambio climático provocado por las emisiones humanas de GEI altera la variab
 ### Opciones
 - [ ] A) Mitigación del cambio climático por captura directa de metano.
   <!-- feedback: Incorrecto. La mitigación busca reducir emisiones o aumentar sumideros de GEI. -->
-- [x] B) Adaptación al cambio climático para reducir la vulnerabilidad de las zonas costeras.
+- [x] C) Adaptación al cambio climático para reducir la vulnerabilidad de las zonas costeras.
   <!-- feedback: Correcto. Las medidas de adaptación ajustan los sistemas naturales y humanos para amortiguar los daños del cambio climático ya inevitable. -->
-- [ ] C) Ingeniería genómica para la clonación de dunas continentales.
+- [ ] B) Ingeniería genómica para la clonación de dunas continentales.
   <!-- feedback: Incorrecto. No se trata de clonación celular sino de manejo físico-ecológico del litoral. -->
 - [ ] D) Eliminación completa del efecto invernadero en la estratosfera.
   <!-- feedback: Incorrecto. Las obras costeras no alteran la composición de la alta atmósfera. -->
@@ -173,11 +173,11 @@ La adaptación al cambio climático abarca las acciones orientadas a reducir la 
 ### Opciones
 - [ ] A) Se evita la producción de oxígeno atmosférico que destruiría el ozono.
   <!-- feedback: Incorrecto. El compostaje consume $O_2$ y no destruye la capa de ozono. -->
-- [x] B) Se previene la generación de metano ($CH_4$), transformando la materia orgánica bajo condiciones aeróbicas con emisión de $CO_2$ (de menor potencial de calentamiento).
+- [x] D) Se previene la generación de metano ($CH_4$), transformando la materia orgánica bajo condiciones aeróbicas con emisión de $CO_2$ (de menor potencial de calentamiento).
   <!-- feedback: Correcto. Los vertederos anóxicos generan $CH_4$ (GWP 28); el compostaje aeróbico libera $CO_2$ biogénico neutro y evita la metanogénesis. -->
-- [ ] C) Se genera ozono estratosférico que enfría el suelo municipal.
+- [ ] B) Se genera ozono estratosférico que enfría el suelo municipal.
   <!-- feedback: Incorrecto. El compostaje no sintetiza ozono estratosférico. -->
-- [ ] D) Se inactiva por completo el ciclo global del nitrógeno en el departamento.
+- [ ] C) Se inactiva por completo el ciclo global del nitrógeno en el departamento.
   <!-- feedback: Incorrecto. El compostaje recicla nitrógeno orgánico en amonio y nitratos para abono edáfico. -->
 
 ### Explicacion Pedagogica
@@ -196,11 +196,11 @@ La descomposición anaeróbica de residuos orgánicos en vertederos produce $CH_
 ### Opciones
 - [ ] A) Porque sus raíces exudan metano que reacciona con la luz solar.
   <!-- feedback: Incorrecto. Las raíces no exudan metano para capturar carbono atmosférico. -->
-- [x] B) Porque la tasa de fijación fotosintética de $CO_2$ supera a la tasa de liberación respiratoria total del ecosistema.
+- [x] D) Porque la tasa de fijación fotosintética de $CO_2$ supera a la tasa de liberación respiratoria total del ecosistema.
   <!-- feedback: Correcto. Durante la fase de crecimiento acelerado, la fotosíntesis bruta ($PPB$) supera ampliamente a la respiración ($R$), acumulando madera y biomasa (sumidero). -->
-- [ ] C) Porque los árboles absorben nitrógeno gaseoso $N_2$ y lo transforman en $CO_2$ líquido.
+- [ ] B) Porque los árboles absorben nitrógeno gaseoso $N_2$ y lo transforman en $CO_2$ líquido.
   <!-- feedback: Incorrecto. El $CO_2$ se absorbe directamente de la atmósfera por los estomas foliares. -->
-- [ ] D) Porque refleja el 100% de los fotones solares impidiendo el calentamiento.
+- [ ] C) Porque refleja el 100% de los fotones solares impidiendo el calentamiento.
   <!-- feedback: Incorrecto. Las copas de árboles absorben luz solar para la fotosíntesis y poseen un albedo más bajo que la nieve. -->
 
 ### Explicacion Pedagogica
@@ -217,9 +217,9 @@ Un sumidero de carbono es un ecosistema cuya productividad primaria neta acumula
 ¿Qué representa la categoría 'agua verde' en el balance hídrico de la producción agropecuaria de secano (como la ganadería sobre pradera o cultivos de lluvia)?
 
 ### Opciones
-- [ ] A) El volumen de agua potable tratada extraída de la red de OSE.
+- [ ] B) El volumen de agua potable tratada extraída de la red de OSE.
   <!-- feedback: Incorrecto. El agua tratada de red de distribución es agua azul procesada. -->
-- [x] B) El volumen de agua de lluvia almacenada en el suelo como humedad y consumida por la evapotranspiración de las plantas.
+- [x] A) El volumen de agua de lluvia almacenada en el suelo como humedad y consumida por la evapotranspiración de las plantas.
   <!-- feedback: Correcto. El agua verde es la fracción de precipitación retenida en la zona no saturada del suelo que sostiene la vegetación y cultivos de secano. -->
 - [ ] C) El agua contaminada por efluentes industriales que requiere tratamiento sintético.
   <!-- feedback: Incorrecto. La fracción necesaria para diluir contaminantes hasta estándares ambientales es la huella de agua gris. -->
@@ -242,9 +242,9 @@ La huella de agua verde cuantifica el uso del agua de lluvia almacenada en el su
 ### Opciones
 - [ ] A) Prohibir completamente la crianza de ganado en todo el territorio nacional.
   <!-- feedback: Incorrecto. No busca la erradicación del sector sino la eficiencia productiva sustentable. -->
-- [x] B) Reducir la cantidad de gases de efecto invernadero emitidos por kilo de carne o litro de leche producido mediante mejoras en la dieta y manejo.
+- [x] C) Reducir la cantidad de gases de efecto invernadero emitidos por kilo de carne o litro de leche producido mediante mejoras en la dieta y manejo.
   <!-- feedback: Correcto. Reducir la intensidad de emisiones implica producir la misma o mayor cantidad de alimento generando menos emisiones por unidad de producto. -->
-- [ ] C) Aumentar las emisiones de nitrógeno para calentar el clima invernal.
+- [ ] B) Aumentar las emisiones de nitrógeno para calentar el clima invernal.
   <!-- feedback: Incorrecto. Las metas buscan mitigar el calentamiento global reduciendo la huella de GEI. -->
 - [ ] D) Sustituir el ganado por mamíferos marinos en los pastizales.
   <!-- feedback: Incorrecto. Las NDC aplican mejoras tecnológicas y de gestión al sector productivo real. -->
@@ -265,11 +265,11 @@ La eficiencia de emisiones o intensidad de emisión mide las emisiones de GEI po
 ### Opciones
 - [ ] A) Que la Tierra está perdiendo más energía hacia el espacio de la que recibe del sol.
   <!-- feedback: Incorrecto. Un balance negativo ($-F$) enfriaría el planeta por mayor emisión al espacio. -->
-- [x] B) Que el sistema terrestre absorbe más energía radiante de la que emite al espacio, acumulando calor en la atmósfera y océanos.
+- [x] D) Que el sistema terrestre absorbe más energía radiante de la que emite al espacio, acumulando calor en la atmósfera y océanos.
   <!-- feedback: Correcto. Un forzamiento radiativo positivo indica un superávit de energía retenida en el sistema terrestre que causa calentamiento warming global. -->
-- [ ] C) Que la constante solar se ha reducido a cero por la presencia de aerosoles.
+- [ ] B) Que la constante solar se ha reducido a cero por la presencia de aerosoles.
   <!-- feedback: Incorrecto. El forzamiento por GEI altera el flujo infrarrojo de salida, no anula la constante solar. -->
-- [ ] D) Que el albedo planetario ha aumentado al 100% congelando los océanos.
+- [ ] C) Que el albedo planetario ha aumentado al 100% congelando los océanos.
   <!-- feedback: Incorrecto. El forzamiento positivo atrapa radiación infrarroja, elevando la temperatura. -->
 
 ### Explicacion Pedagogica
@@ -334,11 +334,11 @@ El 'hidrógeno verde' se obtiene dividiendo la molécula de agua en $H_2$ y $O_2
 ### Opciones
 - [ ] A) La combustión limpia en el motor del vehículo.
   <!-- feedback: Incorrecto. El $CO_2$ exhalado en el escape es biogénico, previamente fijado por la planta de soja. -->
-- [x] B) La deforestación o conversión de ecosistemas nativos ricos en carbono para expandir el cultivo del grano.
+- [x] D) La deforestación o conversión de ecosistemas nativos ricos en carbono para expandir el cultivo del grano.
   <!-- feedback: Correcto. Si la expansión agrícola destruye praderas o montes nativos, la liberación del carbono acumulado en el suelo supera el ahorro de emisiones del biocombustible. -->
-- [ ] C) La condensación de vapor de agua en el tubo de escape.
+- [ ] B) La condensación de vapor de agua en el tubo de escape.
   <!-- feedback: Incorrecto. La condensación del agua es un proceso físico inocuo. -->
-- [ ] D) La absorción fotosintética de solar durante el crecimiento de la planta.
+- [ ] C) La absorción fotosintética de solar durante el crecimiento de la planta.
   <!-- feedback: Incorrecto. La fotosíntesis capta $CO_2$, lo que representa el beneficio del biocombustible. -->
 
 ### Explicacion Pedagogica
@@ -357,9 +357,9 @@ El Cambio Indirecto en el Uso del Suelo (ILUC) ocurre cuando la demanda de bioco
 ### Opciones
 - [ ] A) El $CO_2$ reacciona produciendo hidróxido de sodio, aumentando los iones carbonato y acelerando la calcificación.
   <!-- feedback: Incorrecto. La disolución de $CO_2$ forma ácido carbónico que acidifica el agua y reduce los iones carbonato. -->
-- [x] B) El $CO_2$ forma ácido carbónico ($H_2CO_3$) liberando protones ($H^+$) que reaccionan con el $CO_3^{2-}$, reduciendo la saturación de carbonato necesaria para formar conchas.
+- [x] C) El $CO_2$ forma ácido carbónico ($H_2CO_3$) liberando protones ($H^+$) que reaccionan con el $CO_3^{2-}$, reduciendo la saturación de carbonato necesaria para formar conchas.
   <!-- feedback: Correcto. La acidificación reduce la concentración de $CO_3^{2-}$, dificultando la síntesis de conchas de $CaCO_3$ de moluscos y zooplancton. -->
-- [ ] C) El $CO_2$ se convierte en gas metano que cristaliza los arrecifes en la superficie.
+- [ ] B) El $CO_2$ se convierte en gas metano que cristaliza los arrecifes en la superficie.
   <!-- feedback: Incorrecto. El $CO_2$ disuelto forma especies inorgánicas de carbono, no metano cristalino. -->
 - [ ] D) Aumenta el pH del mar a 12,0 disolviendo los esqueletos óseos de los peces.
   <!-- feedback: Incorrecto. La absorción de $CO_2$ reduce el pH (acidificación), no lo eleva a valores alcalinos extremos. -->
@@ -380,11 +380,11 @@ La acidificación oceánica ocurre cuando el $CO_2$ reacciona con agua formando 
 ### Opciones
 - [ ] A) El metano permanece en la atmósfera por 1000 años mientras que el $CO_2$ se destruye en 2 días.
   <!-- feedback: Incorrecto. Es lo opuesto: el metano tiene una vida corta (~12 años) mientras el $CO_2$ es acumulativo de larga vida (siglos). -->
-- [x] B) El metano es un gas de efecto invernadero de vida corta (~12 años) que se degrada a $CO_2$, por lo que emisiones constantes no aumentan la concentración acumulada como el $CO_2$.
+- [x] D) El metano es un gas de efecto invernadero de vida corta (~12 años) que se degrada a $CO_2$, por lo que emisiones constantes no aumentan la concentración acumulada como el $CO_2$.
   <!-- feedback: Correcto. Al degradarse por radicales $OH$ atmosféricos en ~12 años, una tasa de emisión constante de $CH_4$ no añade calentamiento adicional acumulativo al mismo ritmo que el $CO_2$ acumulativo. -->
-- [ ] C) El metano no absorbe radiación infrarroja de ninguna frecuencia.
+- [ ] B) El metano no absorbe radiación infrarroja de ninguna frecuencia.
   <!-- feedback: Incorrecto. El metano es un potente absorbente de radiación infrarroja por molécula. -->
-- [ ] D) El $CO_2$ es un gas sintético producido exclusivamente por turbinas eólicas.
+- [ ] C) El $CO_2$ es un gas sintético producido exclusivamente por turbinas eólicas.
   <!-- feedback: Incorrecto. El $CO_2$ es una molécula natural y principal producto de combustión y respiración. -->
 
 ### Explicacion Pedagogica
@@ -426,11 +426,11 @@ La sensibilidad climática de equilibrio (ECS) permite estimar la respuesta tér
 ### Opciones
 - [ ] A) Porque todas las especies nativas presentan exactamente idéntico punto de marchitez permanente.
   <!-- feedback: Incorrecto. La redundancia no implica idéntica respuesta al estrés; abarca respuestas fisiológicas complementarias variadas. -->
-- [x] B) Porque la diversidad de especies con distintas tolerancias fisiológicas y arquitecturas radiculares asegura que algunas especies sigan funcionando y manteniendo la productividad cuando otras fallan.
+- [x] D) Porque la diversidad de especies con distintas tolerancias fisiológicas y arquitecturas radiculares asegura que algunas especies sigan funcionando y manteniendo la productividad cuando otras fallan.
   <!-- feedback: Correcto. La variación en las respuestas de distintas especies al estrés hídrico (diversidad de respuestas) amortigua la fluctuación total del ecosistema. -->
-- [ ] C) Porque los pastizales nativos eliminan la evapotranspiración reteniendo el 100% del agua de lluvia.
+- [ ] B) Porque los pastizales nativos eliminan la evapotranspiración reteniendo el 100% del agua de lluvia.
   <!-- feedback: Incorrecto. Las plantas nativas evapotranspiran agua normalmente durante la fotosíntesis. -->
-- [ ] D) Porque los pastizales monoespecíficos atraen lluvias de forma voluntaria.
+- [ ] C) Porque los pastizales monoespecíficos atraen lluvias de forma voluntaria.
   <!-- feedback: Incorrecto. La cubierta vegetal no genera precipitaciones locales de forma voluntaria. -->
 
 ### Explicacion Pedagogica
@@ -449,9 +449,9 @@ La hipótesis de aseguranza ecológica demuestra que la biodiversidad y la redun
 ### Opciones
 - [ ] A) Porque genera ozono puro en las chimeneas sustituyendo la energía solar.
   <!-- feedback: Incorrecto. La BECCS captura $CO_2$, no sintetiza ozono ni sustituye al sol. -->
-- [x] B) Porque retira $CO_2$ de la atmósfera mediante fotosíntesis vegetal y atrapa el carbono liberado en la combustión almacenándolo de forma permanente en acuíferos salinos o formaciones geológicas.
+- [x] C) Porque retira $CO_2$ de la atmósfera mediante fotosíntesis vegetal y atrapa el carbono liberado en la combustión almacenándolo de forma permanente en acuíferos salinos o formaciones geológicas.
   <!-- feedback: Correcto. Al capturar y enterrar el $CO_2$ que la vegetación absorbió previamente del aire, el balance neto de la atmósfera resulta en una extracción efectiva de $CO_2$. -->
-- [ ] C) Porque produce hidrocarburos fósiles sin consumir agua ni energía.
+- [ ] B) Porque produce hidrocarburos fósiles sin consumir agua ni energía.
   <!-- feedback: Incorrecto. No genera petróleo fósil; extrae y almacena carbono biogénico. -->
 - [ ] D) Porque transforma el dióxido de carbono en átomos de nitrógeno cristalino.
   <!-- feedback: Incorrecto. El $CO_2$ se comprime y almacena físicamente en capas geológicas profundas. -->
@@ -472,11 +472,11 @@ Las tecnologías de emisiones negativas como BECCS logran un retiro neto de $CO_
 ### Opciones
 - [ ] A) Un retorno instantáneo y automático a la composición florística original sin importar la perturbación.
   <!-- feedback: Incorrecto. La característica fundamental de superar un tipping point es la imposibilidad o alta dificultad de retornar al estado previo. -->
-- [x] B) Una reorganización abrupta hacia un nuevo estado alternativo estabilizado por bucles de retroalimentación interna, con pérdida de la resiliencia y servicios originales.
+- [x] D) Una reorganización abrupta hacia un nuevo estado alternativo estabilizado por bucles de retroalimentación interna, con pérdida de la resiliencia y servicios originales.
   <!-- feedback: Correcto. Al cruzar el umbral crítico, el ecosistema cambia bruscamente de estructura y función, estabilizándose en un estado degradado que no retorna fácilmente al estado original (histeresis). -->
-- [ ] C) La congelación de las temperaturas del suelo en valores absolutos de $-273^\circ\text{C}$.
+- [ ] B) La congelación de las temperaturas del suelo en valores absolutos de $-273^\circ\text{C}$.
   <!-- feedback: Incorrecto. Un cambio de régimen ecológico altera las dinámicas bióticas e hidrológicas, no alcanza el cero absoluto. -->
-- [ ] D) El cese completo de la fuerza de gravedad en la capa de vegetación restante.
+- [ ] C) El cese completo de la fuerza de gravedad en la capa de vegetación restante.
   <!-- feedback: Incorrecto. Los puntos de inflexión ecológica modifican la estructura ecosistémica, no las leyes de la física gravitatoria. -->
 
 ### Explicacion Pedagogica

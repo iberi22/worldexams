@@ -34,9 +34,9 @@ creador: "Jules-Agent"
 
 ### Opciones
 - [ ] A) Luis de Góngora <!-- feedback: Góngora es el líder del Culteranismo, la corriente opuesta. -->
-- [x] B) Francisco de Quevedo <!-- feedback: Su ingenio, dominio del lenguaje y capacidad de síntesis lo convierten en el maestro del conceptismo. -->
-- [ ] C) Garcilaso de la Vega <!-- feedback: Garcilaso pertenece al Renacimiento (siglo XVI). -->
-- [ ] D) Lope de Vega <!-- feedback: Aunque usó recursos conceptistas, su estilo suele ser más equilibrado y popular. -->
+- [x] D) Francisco de Quevedo <!-- feedback: Su ingenio, dominio del lenguaje y capacidad de síntesis lo convierten en el maestro del conceptismo. -->
+- [ ] B) Garcilaso de la Vega <!-- feedback: Garcilaso pertenece al Renacimiento (siglo XVI). -->
+- [ ] C) Lope de Vega <!-- feedback: Aunque usó recursos conceptistas, su estilo suele ser más equilibrado y popular. -->
 
 ### Explicacion Pedagogica
 Francisco de Quevedo es la figura central del Conceptismo, destacando por su manejo magistral del doble sentido, la paradoja y la sátira punzante.
@@ -54,8 +54,8 @@ Francisco de Quevedo es la figura central del Conceptismo, destacando por su man
 ¿Cuál es la prioridad fundamental del estilo conceptista en la literatura barroca?
 
 ### Opciones
-- [ ] A) La belleza sonora y musical de los versos por encima de todo. <!-- feedback: Esto es más propio del Culteranismo. -->
-- [x] B) La densidad del pensamiento y el juego ingenioso de ideas y palabras. <!-- feedback: Se busca decir mucho en pocas palabras (economía verbal) mediante la agudeza mental. -->
+- [ ] B) La belleza sonora y musical de los versos por encima de todo. <!-- feedback: Esto es más propio del Culteranismo. -->
+- [x] A) La densidad del pensamiento y el juego ingenioso de ideas y palabras. <!-- feedback: Se busca decir mucho en pocas palabras (economía verbal) mediante la agudeza mental. -->
 - [ ] C) La descripción realista y sencilla de la vida en el campo. <!-- feedback: El conceptismo es intelectual y complejo, no busca la sencillez pastoril. -->
 - [ ] D) El uso exclusivo de palabras latinas para que nadie entienda el poema. <!-- feedback: Aunque usa cultismos, su foco es el juego lógico más que el léxico exótico. -->
 
@@ -96,9 +96,9 @@ El juego de palabras permite al autor conceptista crear múltiples capas de sign
 ¿Qué efecto busca el autor conceptista al utilizar frases cortas cargadas de significados complejos?
 
 ### Opciones
-- [ ] A) Terminar el libro más rápido porque no tenía tiempo para escribir. <!-- feedback: La brevedad conceptista exige mucho esfuerzo de condensación. -->
-- [ ] B) Facilitar que los niños pequeños puedan leer sus obras sin cansarse. <!-- feedback: Sus obras están dirigidas a un público adulto e intelectualmente preparado. -->
-- [x] C) Concentrar la máxima cantidad de inteligencia e ingenio en el mínimo espacio posible. <!-- feedback: Es la estética de la densidad: intensidad frente a extensión. -->
+- [ ] B) Terminar el libro más rápido porque no tenía tiempo para escribir. <!-- feedback: La brevedad conceptista exige mucho esfuerzo de condensación. -->
+- [ ] C) Facilitar que los niños pequeños puedan leer sus obras sin cansarse. <!-- feedback: Sus obras están dirigidas a un público adulto e intelectualmente preparado. -->
+- [x] A) Concentrar la máxima cantidad de inteligencia e ingenio en el mínimo espacio posible. <!-- feedback: Es la estética de la densidad: intensidad frente a extensión. -->
 - [ ] D) Evitar que la Inquisición encuentre errores en sus textos largos. <!-- feedback: La brevedad busca el impacto estético e intelectual, no el ocultamiento. -->
 
 ### Explicacion Pedagogica
@@ -119,8 +119,8 @@ Si Quevedo dice de un hombre muy pobre que "no tiene ni cama ni cara", jugando c
 ### Opciones
 - [ ] A) Informar sobre la falta de higiene de los pobres en el siglo XVII. <!-- feedback: Es una interpretación literal que ignora el juego literario. -->
 - [ ] B) Demostrar que el idioma español tiene muchas palabras confusas. <!-- feedback: No busca la confusión, sino la brillantez del ingenio. -->
-- [x] C) Realizar una crítica social ácida mediante un juego de palabras inteligente. <!-- feedback: La dilogía permite denunciar la miseria de forma ingeniosa y punzante. -->
-- [ ] D) Explicar cómo se fabricaban las camas en la época de Felipe IV. <!-- feedback: El texto es una sátira social, no un tratado técnico. -->
+- [x] D) Realizar una crítica social ácida mediante un juego de palabras inteligente. <!-- feedback: La dilogía permite denunciar la miseria de forma ingeniosa y punzante. -->
+- [ ] C) Explicar cómo se fabricaban las camas en la época de Felipe IV. <!-- feedback: El texto es una sátira social, no un tratado técnico. -->
 
 ### Explicacion Pedagogica
 La dilogía es uno de los mecanismos favoritos del conceptismo para la sátira, permitiendo decir una verdad dolorosa a través de una pirueta verbal.
@@ -139,9 +139,9 @@ La dilogía es uno de los mecanismos favoritos del conceptismo para la sátira, 
 
 ### Opciones
 - [ ] A) El uso constante de la mitología griega para adornar los versos. <!-- feedback: Esto es más característico de Góngora. -->
-- [x] B) El uso magistral del lenguaje para expresar una visión desengañada de la realidad. <!-- feedback: Ya sea con seriedad o con humor, Quevedo muestra la decadencia y la falsedad del mundo. -->
-- [ ] C) La esperanza de que el mundo mejorará gracias a la política del Rey. <!-- feedback: El Barroco de Quevedo es profundamente pesimista y crítico. -->
-- [ ] D) El rechazo a usar cualquier tipo de figura retórica para ser más claro. <!-- feedback: Su estilo está lleno de recursos retóricos, especialmente basados en el pensamiento. -->
+- [x] D) El uso magistral del lenguaje para expresar una visión desengañada de la realidad. <!-- feedback: Ya sea con seriedad o con humor, Quevedo muestra la decadencia y la falsedad del mundo. -->
+- [ ] B) La esperanza de que el mundo mejorará gracias a la política del Rey. <!-- feedback: El Barroco de Quevedo es profundamente pesimista y crítico. -->
+- [ ] C) El rechazo a usar cualquier tipo de figura retórica para ser más claro. <!-- feedback: Su estilo está lleno de recursos retóricos, especialmente basados en el pensamiento. -->
 
 ### Explicacion Pedagogica
 El ingenio conceptista sirve tanto para la elevación filosófica como para la degradación satírica, reflejando las contradicciones del ser humano barroco.
@@ -160,8 +160,8 @@ En el famoso verso "Ayer se fue; mañana no ha llegado; hoy se está yendo sin p
 
 ### Opciones
 - [ ] A) La importancia de planificar bien el calendario de actividades. <!-- feedback: La reflexión es existencial, no organizativa. -->
-- [ ] B) Que los relojes del siglo XVII no funcionaban correctamente. <!-- feedback: Los relojes (reloj de arena, de sol) eran símbolos de la fugacidad, no críticas técnicas. -->
-- [x] C) La fugacidad extrema del tiempo y la inexistencia del presente absoluto. <!-- feedback: Es la angustia por el paso inevitable del tiempo que conduce a la muerte (Tempus fugit). -->
+- [ ] C) Que los relojes del siglo XVII no funcionaban correctamente. <!-- feedback: Los relojes (reloj de arena, de sol) eran símbolos de la fugacidad, no críticas técnicas. -->
+- [x] B) La fugacidad extrema del tiempo y la inexistencia del presente absoluto. <!-- feedback: Es la angustia por el paso inevitable del tiempo que conduce a la muerte (Tempus fugit). -->
 - [ ] D) Que el pasado fue mucho mejor que el presente que vivimos. <!-- feedback: El poema enfatiza la desaparición constante del tiempo, no la nostalgia de una época. -->
 
 ### Explicacion Pedagogica
@@ -181,9 +181,9 @@ La reflexión sobre el tiempo es uno de los temas cumbres del conceptismo, expre
 
 ### Opciones
 - [ ] A) Góngora era oscuro porque no sabía escribir y Quevedo porque era ciego. <!-- feedback: Es un comentario falso e irrespetuoso hacia dos maestros del lenguaje. -->
-- [x] B) Góngora es difícil por la forma y el vocabulario; Quevedo es difícil por la profundidad y los saltos lógicos de las ideas. <!-- feedback: Son dos caminos distintos hacia la complejidad barroca: el léxico y el conceptual. -->
-- [ ] C) Góngora escribía para los niños y Quevedo para los ancianos. <!-- feedback: Ambos escribían para la élite intelectual del Siglo de Oro. -->
-- [ ] D) No hay ninguna diferencia, ambos escribían exactamente de la misma manera. <!-- feedback: Aunque ambos son barrocos, sus estilos son marcadamente distintos y enfrentados. -->
+- [x] D) Góngora es difícil por la forma y el vocabulario; Quevedo es difícil por la profundidad y los saltos lógicos de las ideas. <!-- feedback: Son dos caminos distintos hacia la complejidad barroca: el léxico y el conceptual. -->
+- [ ] B) Góngora escribía para los niños y Quevedo para los ancianos. <!-- feedback: Ambos escribían para la élite intelectual del Siglo de Oro. -->
+- [ ] C) No hay ninguna diferencia, ambos escribían exactamente de la misma manera. <!-- feedback: Aunque ambos son barrocos, sus estilos son marcadamente distintos y enfrentados. -->
 
 ### Explicacion Pedagogica
 La dificultad culterana es externa y sensorial (necesitas diccionario y mitología); la dificultad conceptista es interna y lógica (necesitas agudeza mental).
@@ -203,8 +203,8 @@ La dificultad culterana es externa y sensorial (necesitas diccionario y mitolog�
 ### Opciones
 - [ ] A) Que el libro fuera más barato al tener menos páginas. <!-- feedback: La densidad no busca el ahorro material, sino la riqueza intelectual. -->
 - [ ] B) Ocultar secretos militares que solo los generales podían entender. <!-- feedback: Son consejos éticos y sociales para triunfar en la vida pública. -->
-- [x] C) Seleccionar a sus lectores, premiando a quienes tenían la capacidad de descifrar sus enseñanzas. <!-- feedback: El estilo difícil es un filtro para que solo los "sabios" accedan al conocimiento profundo. -->
-- [ ] D) Demostrar que se puede escribir sin usar verbos en ninguna oración. <!-- feedback: Usa verbos, pero de forma muy precisa y económica. -->
+- [x] D) Seleccionar a sus lectores, premiando a quienes tenían la capacidad de descifrar sus enseñanzas. <!-- feedback: El estilo difícil es un filtro para que solo los "sabios" accedan al conocimiento profundo. -->
+- [ ] C) Demostrar que se puede escribir sin usar verbos en ninguna oración. <!-- feedback: Usa verbos, pero de forma muy precisa y económica. -->
 
 ### Explicacion Pedagogica
 Gracián representa el culmen del conceptismo en prosa, donde la sabiduría se entrega en pequeñas dosis concentradas que exigen meditación.
@@ -222,9 +222,9 @@ Gracián representa el culmen del conceptismo en prosa, donde la sabiduría se e
 ¿Qué efecto degradante busca Quevedo al describir a una mujer vieja comparándola con un mueble o un animal seco en lugar de usar términos humanos?
 
 ### Opciones
-- [ ] A) Mostrar su admiración por la resistencia de los muebles antiguos. <!-- feedback: Es una sátira, el objetivo es la burla, no la admiración. -->
-- [ ] B) Ayudar a que la gente entienda mejor cómo envejecen las personas. <!-- feedback: No tiene un fin médico o educativo, sino de ataque personal o social. -->
-- [x] C) Despojar al personaje de su dignidad humana para resaltar lo ridículo o repulsivo de la vejez y la decadencia. <!-- feedback: La cosificación es una técnica de agresión verbal típica del ingenio satírico barroco. -->
+- [ ] B) Mostrar su admiración por la resistencia de los muebles antiguos. <!-- feedback: Es una sátira, el objetivo es la burla, no la admiración. -->
+- [ ] C) Ayudar a que la gente entienda mejor cómo envejecen las personas. <!-- feedback: No tiene un fin médico o educativo, sino de ataque personal o social. -->
+- [x] A) Despojar al personaje de su dignidad humana para resaltar lo ridículo o repulsivo de la vejez y la decadencia. <!-- feedback: La cosificación es una técnica de agresión verbal típica del ingenio satírico barroco. -->
 - [ ] D) Demostrar que los objetos son más importantes que las personas en el Barroco. <!-- feedback: Es un recurso de degradación estilística, no una jerarquía de valores real. -->
 
 ### Explicacion Pedagogica
@@ -243,9 +243,9 @@ La técnica de la cosificación o animalización en la sátira conceptista sirve
 ¿Cómo logra Quevedo superar el pesimismo del "Memento mori" en su famoso verso final "polvo serán, mas polvo enamorado"?
 
 ### Opciones
-- [ ] A) Diciendo que los enamorados nunca mueren realmente. <!-- feedback: Reconoce que morirán y se convertirán en polvo (realismo). -->
-- [ ] B) Prometiendo que el amor les dará riquezas en la otra vida. <!-- feedback: No habla de riquezas, sino de la persistencia del sentimiento. -->
-- [x] C) Afirmando que el amor tiene la fuerza suficiente para trascender la muerte física, aunque el cuerpo se destruya. <!-- feedback: Es la victoria metafísica del sentimiento sobre la materia corruptible. -->
+- [ ] B) Diciendo que los enamorados nunca mueren realmente. <!-- feedback: Reconoce que morirán y se convertirán en polvo (realismo). -->
+- [ ] C) Prometiendo que el amor les dará riquezas en la otra vida. <!-- feedback: No habla de riquezas, sino de la persistencia del sentimiento. -->
+- [x] A) Afirmando que el amor tiene la fuerza suficiente para trascender la muerte física, aunque el cuerpo se destruya. <!-- feedback: Es la victoria metafísica del sentimiento sobre la materia corruptible. -->
 - [ ] D) Sugiriendo que el polvo de los amantes se puede usar para hacer medicinas. <!-- feedback: Es una interpretación literal y absurda de una metáfora sublime. -->
 
 ### Explicacion Pedagogica
@@ -266,8 +266,8 @@ Este poema representa la síntesis conceptista entre la crudeza de la muerte y l
 ### Opciones
 - [ ] A) Porque Quevedo fue el primer autor en escribir chistes para la televisión. <!-- feedback: Es un anacronismo absurdo; la televisión no existía. -->
 - [ ] B) Porque utilizaba colores oscuros en todas las portadas de sus libros. <!-- feedback: El "humor negro" es un concepto literario y vital, no de diseño gráfico. -->
-- [x] C) Por su capacidad de reírse de la desgracia propia y ajena y de cuestionar todas las verdades aparentes. <!-- feedback: La risa amarga y el cuestionamiento de la realidad son rasgos profundamente modernos. -->
-- [ ] D) Porque solo escribía sobre fantasmas y cementerios en sus poemas. <!-- feedback: Sus temas son variados: amor, política, filosofía, religión y vida cotidiana. -->
+- [x] D) Por su capacidad de reírse de la desgracia propia y ajena y de cuestionar todas las verdades aparentes. <!-- feedback: La risa amarga y el cuestionamiento de la realidad son rasgos profundamente modernos. -->
+- [ ] C) Porque solo escribía sobre fantasmas y cementerios en sus poemas. <!-- feedback: Sus temas son variados: amor, política, filosofía, religión y vida cotidiana. -->
 
 ### Explicacion Pedagogica
 La ironía conceptista rompe la relación directa entre palabra y cosa, abriendo un espacio de duda y juego que es característico del pensamiento moderno.

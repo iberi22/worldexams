@@ -59,9 +59,9 @@ Globalization refers to the growing interconnection of countries through trade, 
 Read the sentence: "Many teenagers in Medellín spend more than five hours a day online; this keeps them connected, but it also affects their sleep and concentration." What is the main idea?
 
 ### Opciones
-- [ ] A) Teenagers never use the internet.
+- [ ] B) Teenagers never use the internet.
   <!-- feedback: Incorrect. The sentence clearly states that teenagers spend many hours online. -->
-- [x] B) Online time has both benefits and drawbacks for teenagers.
+- [x] A) Online time has both benefits and drawbacks for teenagers.
   <!-- feedback: Correct. The sentence presents a benefit (staying connected) and a drawback (poor sleep and concentration). -->
 - [ ] C) Sleep has no relation to screen time.
   <!-- feedback: Incorrect. The sentence explicitly links screen time to problems with sleep. -->
@@ -84,11 +84,11 @@ Complete the sentence with the correct form: "If I __________ more free time, I 
 ### Opciones
 - [ ] A) have
   <!-- feedback: Incorrect. The simple present would describe a real possibility, but the result "would join" signals a second conditional. -->
-- [x] B) had
+- [x] D) had
   <!-- feedback: Correct. The second conditional uses the past simple in the if-clause and "would" in the main clause. -->
-- [ ] C) will have
+- [ ] B) will have
   <!-- feedback: Incorrect. "Will" is not used in the if-clause of a second conditional. -->
-- [ ] D) would have
+- [ ] C) would have
   <!-- feedback: Incorrect. "Would" belongs in the main clause, not in the if-clause. -->
 
 ### Explicacion Pedagogica
@@ -107,11 +107,11 @@ Choose the correct option: "When we arrived at the concert in Bogotá, the band 
 ### Opciones
 - [ ] A) has already started
   <!-- feedback: Incorrect. The present perfect cannot be used here because the past reference time is explicit. -->
-- [x] B) had already started
+- [x] D) had already started
   <!-- feedback: Correct. The past perfect shows that the band started before we arrived. -->
-- [ ] C) was already start
+- [ ] B) was already start
   <!-- feedback: Incorrect. "Was" must be followed by the -ing form, not the base verb. -->
-- [ ] D) already started
+- [ ] C) already started
   <!-- feedback: Incorrect. The simple past does not clearly show which action happened first. -->
 
 ### Explicacion Pedagogica
@@ -128,9 +128,9 @@ The past perfect (had + past participle) is used to describe the earlier of two 
 Complete the sentence: "Every year, thousands of tons of coffee __________ from the Andean region of Colombia."
 
 ### Opciones
-- [x] A) are exported
+- [x] B) are exported
   <!-- feedback: Correct. The present passive is formed with "are" plus the past participle, and the subject "tons" is plural. -->
-- [ ] B) export
+- [ ] A) export
   <!-- feedback: Incorrect. The active form would mean the coffee exports something, which makes no sense. -->
 - [ ] C) is exporting
   <!-- feedback: Incorrect. This active continuous form does not fit the passive meaning and does not agree with the plural subject. -->
@@ -153,9 +153,9 @@ Direct speech: "I will visit Cartagena next week," Ana said. Choose the correct 
 ### Opciones
 - [ ] A) Ana said that she will visit Cartagena next week.
   <!-- feedback: Incorrect. In reported speech, "will" normally shifts back to "would". -->
-- [x] B) Ana said that she would visit Cartagena the following week.
+- [x] C) Ana said that she would visit Cartagena the following week.
   <!-- feedback: Correct. Both the verb and the time expression shift back correctly. -->
-- [ ] C) Ana said that she visits Cartagena the following week.
+- [ ] B) Ana said that she visits Cartagena the following week.
   <!-- feedback: Incorrect. The simple present does not match the original future meaning. -->
 - [ ] D) Ana said that she is visiting Cartagena next week.
   <!-- feedback: Incorrect. The present continuous does not reflect the original future intention. -->
@@ -174,9 +174,9 @@ In reported speech, verbs usually move one step back in time: "will" becomes "wo
 Compare: (1) "The students who passed the exam received a certificate." (2) "The students, who passed the exam, received a certificate." What is the difference in meaning?
 
 ### Opciones
-- [x] A) In (1) only some students passed; in (2) the implication is that all the students passed.
+- [x] B) In (1) only some students passed; in (2) the implication is that all the students passed.
   <!-- feedback: Correct. The defining clause (1) identifies a subgroup, while the non-defining clause (2) adds extra information about all of them. -->
-- [ ] B) Both sentences have exactly the same meaning.
+- [ ] A) Both sentences have exactly the same meaning.
   <!-- feedback: Incorrect. Punctuation with commas changes the kind of clause and therefore the meaning. -->
 - [ ] C) In (1) no student passed the exam.
   <!-- feedback: Incorrect. Sentence (1) states that some students did pass and received a certificate. -->
@@ -199,11 +199,11 @@ The author writes: "Of course, spending eight hours a day on social media is a p
 ### Opciones
 - [ ] A) The author sincerely approves of eight hours of social media a day.
   <!-- feedback: Incorrect. The phrase "of course" is used ironically, so the literal praise is not the real message. -->
-- [x] B) The author is being ironic and actually criticizes excessive screen time.
+- [x] D) The author is being ironic and actually criticizes excessive screen time.
   <!-- feedback: Correct. The exaggerated praise signals the opposite meaning and points to criticism. -->
-- [ ] C) The author believes social media does not exist.
+- [ ] B) The author believes social media does not exist.
   <!-- feedback: Incorrect. The sentence clearly refers to social media, so the author does not deny its existence. -->
-- [ ] D) The author is describing a scientific experiment.
+- [ ] C) The author is describing a scientific experiment.
   <!-- feedback: Incorrect. The sentence is an opinion, not the report of an experiment. -->
 
 ### Explicacion Pedagogica
@@ -220,9 +220,9 @@ Irony says the opposite of what is meant. The phrase "perfectly balanced" is exa
 Read: "The wetland was restored by local volunteers, and since then more than forty bird species have been recorded there." What can be inferred?
 
 ### Opciones
-- [ ] A) The volunteers destroyed the wetland.
+- [ ] B) The volunteers destroyed the wetland.
   <!-- feedback: Incorrect. The wetland was restored, not destroyed. -->
-- [x] B) The restoration had a positive effect on local wildlife.
+- [x] A) The restoration had a positive effect on local wildlife.
   <!-- feedback: Correct. The return of many bird species after the restoration suggests a positive outcome. -->
 - [ ] C) No birds live in the area.
   <!-- feedback: Incorrect. The text says that more than forty species have been recorded there. -->
@@ -243,9 +243,9 @@ An inference is a conclusion drawn from the evidence in the text. The passive fo
 In the phrase "sustainable development", the word "sustainable" is closest in meaning to:
 
 ### Opciones
-- [x] A) Able to continue without damaging resources for the future
+- [x] B) Able to continue without damaging resources for the future
   <!-- feedback: Correct. "Sustainable" means something can be maintained over time without exhausting resources. -->
-- [ ] B) Fast and profitable in the short term
+- [ ] A) Fast and profitable in the short term
   <!-- feedback: Incorrect. This describes a short-term gain, the opposite of a sustainable approach. -->
 - [ ] C) Impossible to maintain
   <!-- feedback: Incorrect. That is the opposite meaning of "sustainable". -->
@@ -266,11 +266,11 @@ The adjective "sustainable" comes from the verb "to sustain", meaning to keep so
 A news report says: "The mayor claimed that the project had been completed." Why might the reporter use "claimed" instead of "said"?
 
 ### Opciones
-- [x] A) To suggest some doubt about the truth of the statement.
+- [x] C) To suggest some doubt about the truth of the statement.
   <!-- feedback: Correct. "Claim" often implies that the information has not been verified or is open to question. -->
-- [ ] B) To show complete certainty and agreement.
+- [ ] A) To show complete certainty and agreement.
   <!-- feedback: Incorrect. Certainty would be expressed with reporting verbs such as "confirmed" or "stated". -->
-- [ ] C) Because "said" is grammatically incorrect in this sentence.
+- [ ] B) Because "said" is grammatically incorrect in this sentence.
   <!-- feedback: Incorrect. "Said" would be grammatically correct, but it would not express the same nuance. -->
 - [ ] D) To indicate that the mayor never spoke.
   <!-- feedback: Incorrect. The verb "claimed" shows that the mayor did speak, but with doubt about the content. -->
@@ -291,9 +291,9 @@ A text argues: "Globalization only benefits rich countries." Which evaluation is
 ### Opciones
 - [ ] A) It is entirely true and cannot be questioned.
   <!-- feedback: Incorrect. The word "only" makes an absolute claim that ignores the variety of real cases. -->
-- [x] B) It is an overgeneralization; globalization brings opportunities and risks that vary from country to country.
+- [x] C) It is an overgeneralization; globalization brings opportunities and risks that vary from country to country.
   <!-- feedback: Correct. This evaluation recognizes the complexity of the issue without denying that problems exist. -->
-- [ ] C) It is false because globalization has never had any effect.
+- [ ] B) It is false because globalization has never had any effect.
   <!-- feedback: Incorrect. Globalization clearly has effects, so this statement is inaccurate. -->
 - [ ] D) It is irrelevant because international trade does not exist.
   <!-- feedback: Incorrect. International trade is a central and real feature of the global economy. -->

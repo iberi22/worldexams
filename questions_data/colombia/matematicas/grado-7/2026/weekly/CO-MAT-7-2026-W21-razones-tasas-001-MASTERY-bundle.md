@@ -32,11 +32,11 @@ Este bundle contiene 10 preguntas sobre **razones-tasas** para grado 7, alineada
 ### Enunciado
 ¿Qué es una razón entre dos cantidades?
 ### Opciones
-- [x] A) La comparación entre dos cantidades mediante división
+- [x] C) La comparación entre dos cantidades mediante división
   <!-- feedback: Correcto. La razón expresa cuántas veces una cantidad contiene a otra. -->
-- [ ] B) La suma de dos cantidades
+- [ ] A) La suma de dos cantidades
   <!-- feedback: Incorrecto. La razón no es una suma. -->
-- [ ] C) La resta entre dos cantidades
+- [ ] B) La resta entre dos cantidades
   <!-- feedback: Incorrecto. La razón no es una resta. -->
 - [ ] D) El producto de dos cantidades
   <!-- feedback: Incorrecto. La razón no es un producto. -->
@@ -52,11 +52,11 @@ Una razón es una comparación entre dos magnitudes mediante una división, por 
 ### Enunciado
 ¿Cuál es la tasa unitaria de panes vendidos por hora?
 ### Opciones
-- [x] A) 4 panes por hora
+- [x] C) 4 panes por hora
   <!-- feedback: Correcto. 24 panes ÷ 6 horas = 4 panes/hora. -->
-- [ ] B) 6 panes por hora
+- [ ] A) 6 panes por hora
   <!-- feedback: Incorrecto. Dividiste 24 entre 4, no entre 6. -->
-- [ ] C) 8 panes por hora
+- [ ] B) 8 panes por hora
   <!-- feedback: Incorrecto. Dividiste entre 3 horas. -->
 - [ ] D) 12 panes por hora
   <!-- feedback: Incorrecto. Dividiste entre 2 horas. -->
@@ -72,11 +72,11 @@ La tasa unitaria es el cociente entre la cantidad y la unidad de tiempo: 24 ÷ 6
 ### Enunciado
 ¿Qué distancia recorre en 5 horas si mantiene la misma velocidad?
 ### Opciones
-- [x] A) 300 km
+- [x] C) 300 km
   <!-- feedback: Correcto. Velocidad = 180/3 = 60 km/h; 60 × 5 = 300 km. -->
-- [ ] B) 240 km
+- [ ] A) 240 km
   <!-- feedback: Incorrecto. Multiplicaste 180 por 4/3, no por 5/3. -->
-- [ ] C) 360 km
+- [ ] B) 360 km
   <!-- feedback: Incorrecto. Multiplicaste por 2, no por 5 horas. -->
 - [ ] D) 600 km
   <!-- feedback: Incorrecto. Sumaste los 180 a 300 en lugar de calcular la distancia nueva. -->
@@ -112,13 +112,13 @@ La razón 600 g : 8 personas equivale a 75 g por persona. Para 12 personas: 75 �
 ### Enunciado
 ¿Cuál es la razón simplificada estudiantes por profesor?
 ### Opciones
-- [x] A) 8:1
+- [x] D) 8:1
   <!-- feedback: Correcto. Dividir ambos términos entre 3 da 8:1. -->
-- [ ] B) 12:1
+- [ ] A) 12:1
   <!-- feedback: Incorrecto. Dividiste entre 2 en lugar de entre 3. -->
-- [ ] C) 4:1
+- [ ] B) 4:1
   <!-- feedback: Incorrecto. Dividiste entre 6. -->
-- [ ] D) 24:2
+- [ ] C) 24:2
   <!-- feedback: Incorrecto. No simplificaste la razón. -->
 ### Explicacion Pedagogica
 Para simplificar una razón se divide numerador y denominador entre el mismo número: 24/3 = 8 y 3/3 = 1. Resultado 8:1.
@@ -132,11 +132,11 @@ Para simplificar una razón se divide numerador y denominador entre el mismo nú
 ### Enunciado
 ¿Cuál tienda ofrece el precio por kilogramo más bajo?
 ### Opciones
-- [x] A) La tienda B, porque su razón es $3600/kg
+- [x] C) La tienda B, porque su razón es $3600/kg
   <!-- feedback: Correcto. A: 12 000/3 = 4 000/kg; B: 18 000/5 = 3 600/kg. -->
-- [ ] B) La tienda A, porque cobra menos en total
+- [ ] A) La tienda A, porque cobra menos en total
   <!-- feedback: Incorrecto. Cobra menos en total, pero por kg es más cara. -->
-- [ ] C) Las dos ofrecen el mismo precio por kg
+- [ ] B) Las dos ofrecen el mismo precio por kg
   <!-- feedback: Incorrecto. 4 000/kg es distinto de 3 600/kg. -->
 - [ ] D) La tienda A, porque 3 kg pesa menos
   <!-- feedback: Incorrecto. El peso menor no determina mejor precio. -->
@@ -172,9 +172,9 @@ Para simplificar una razón se busca el máximo común divisor y se divide ambos
 ### Enunciado
 ¿Qué información adicional pedirías para calcular una tasa razonable de lesionados?
 ### Opciones
-- [x] A) El total de lesionados y el total de accidentes para obtener la tasa por accidente
+- [x] B) El total de lesionados y el total de accidentes para obtener la tasa por accidente
   <!-- feedback: Correcto. Esa tasa refleja lesionados promedio por accidente. -->
-- [ ] B) El número de vehículos investigados
+- [ ] A) El número de vehículos investigados
   <!-- feedback: Incorrecto. La cantidad de vehículos no es la magnitud adecuada. -->
 - [ ] C) El presupuesto de la empresa
   <!-- feedback: Incorrecto. El presupuesto no determina lesionados. -->

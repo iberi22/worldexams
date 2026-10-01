@@ -36,10 +36,10 @@ Este bundle aborda contenidos curriculares prioritarios de Geometría Analítica
 Dada la recta $R_1: y = 3x - 7$, ¿cuál es la pendiente $m_2$ de una recta $R_2$ paralela a $R_1$?
 
 ### Opciones
-- [x] A) $m_2 = 3$ <!-- feedback: Correcto. Las rectas paralelas poseen exactamente la misma pendiente. -->
-- [ ] B) $m_2 = -3$ <!-- feedback: Incorrecto. Ese es el opuesto de la pendiente. -->
-- [ ] C) $m_2 = -\frac{1}{3}$ <!-- feedback: Incorrecto. Esa es la pendiente de una recta perpendicular. -->
-- [ ] D) $m_2 = \frac{1}{3}$ <!-- feedback: Incorrecto. Esa es la pendiente recíproca. -->
+- [x] D) $m_2 = 3$ <!-- feedback: Correcto. Las rectas paralelas poseen exactamente la misma pendiente. -->
+- [ ] A) $m_2 = -3$ <!-- feedback: Incorrecto. Ese es el opuesto de la pendiente. -->
+- [ ] B) $m_2 = -\frac{1}{3}$ <!-- feedback: Incorrecto. Esa es la pendiente de una recta perpendicular. -->
+- [ ] C) $m_2 = \frac{1}{3}$ <!-- feedback: Incorrecto. Esa es la pendiente recíproca. -->
 
 ### Explicacion Pedagogica
 Dos rectas paralelas en el plano cartesiano comparten la misma pendiente: $m_1 = m_2 = 3$.
@@ -57,8 +57,8 @@ Dos rectas paralelas en el plano cartesiano comparten la misma pendiente: $m_1 =
 Dada la recta $R_1: y = 4x - 7$, ¿cuál es la pendiente $m_2$ de una recta $R_2$ paralela a $R_1$?
 
 ### Opciones
-- [x] A) $m_2 = 4$ <!-- feedback: Correcto. Las rectas paralelas poseen exactamente la misma pendiente. -->
-- [ ] B) $m_2 = -4$ <!-- feedback: Incorrecto. Ese es el opuesto de la pendiente. -->
+- [x] B) $m_2 = 4$ <!-- feedback: Correcto. Las rectas paralelas poseen exactamente la misma pendiente. -->
+- [ ] A) $m_2 = -4$ <!-- feedback: Incorrecto. Ese es el opuesto de la pendiente. -->
 - [ ] C) $m_2 = -\frac{1}{4}$ <!-- feedback: Incorrecto. Esa es la pendiente de una recta perpendicular. -->
 - [ ] D) $m_2 = \frac{1}{4}$ <!-- feedback: Incorrecto. Esa es la pendiente recíproca. -->
 
@@ -78,9 +78,9 @@ Dos rectas paralelas en el plano cartesiano comparten la misma pendiente: $m_1 =
 Dada la recta $R_1: y = 5x - 7$, ¿cuál es la pendiente $m_2$ de una recta $R_2$ paralela a $R_1$?
 
 ### Opciones
-- [x] A) $m_2 = 5$ <!-- feedback: Correcto. Las rectas paralelas poseen exactamente la misma pendiente. -->
-- [ ] B) $m_2 = -5$ <!-- feedback: Incorrecto. Ese es el opuesto de la pendiente. -->
-- [ ] C) $m_2 = -\frac{1}{5}$ <!-- feedback: Incorrecto. Esa es la pendiente de una recta perpendicular. -->
+- [x] C) $m_2 = 5$ <!-- feedback: Correcto. Las rectas paralelas poseen exactamente la misma pendiente. -->
+- [ ] A) $m_2 = -5$ <!-- feedback: Incorrecto. Ese es el opuesto de la pendiente. -->
+- [ ] B) $m_2 = -\frac{1}{5}$ <!-- feedback: Incorrecto. Esa es la pendiente de una recta perpendicular. -->
 - [ ] D) $m_2 = \frac{1}{5}$ <!-- feedback: Incorrecto. Esa es la pendiente recíproca. -->
 
 ### Explicacion Pedagogica
@@ -99,9 +99,9 @@ Dos rectas paralelas en el plano cartesiano comparten la misma pendiente: $m_1 =
 Dada la recta $R_1: y = 6x - 7$, ¿cuál es la pendiente $m_2$ de una recta $R_2$ paralela a $R_1$?
 
 ### Opciones
-- [x] A) $m_2 = 6$ <!-- feedback: Correcto. Las rectas paralelas poseen exactamente la misma pendiente. -->
-- [ ] B) $m_2 = -6$ <!-- feedback: Incorrecto. Ese es el opuesto de la pendiente. -->
-- [ ] C) $m_2 = -\frac{1}{6}$ <!-- feedback: Incorrecto. Esa es la pendiente de una recta perpendicular. -->
+- [x] C) $m_2 = 6$ <!-- feedback: Correcto. Las rectas paralelas poseen exactamente la misma pendiente. -->
+- [ ] A) $m_2 = -6$ <!-- feedback: Incorrecto. Ese es el opuesto de la pendiente. -->
+- [ ] B) $m_2 = -\frac{1}{6}$ <!-- feedback: Incorrecto. Esa es la pendiente de una recta perpendicular. -->
 - [ ] D) $m_2 = \frac{1}{6}$ <!-- feedback: Incorrecto. Esa es la pendiente recíproca. -->
 
 ### Explicacion Pedagogica
@@ -120,10 +120,10 @@ Dos rectas paralelas en el plano cartesiano comparten la misma pendiente: $m_1 =
 Dada la recta $R_1: y = 7x - 7$, ¿cuál es la pendiente $m_2$ de una recta $R_2$ paralela a $R_1$?
 
 ### Opciones
-- [x] A) $m_2 = 7$ <!-- feedback: Correcto. Las rectas paralelas poseen exactamente la misma pendiente. -->
-- [ ] B) $m_2 = -7$ <!-- feedback: Incorrecto. Ese es el opuesto de la pendiente. -->
-- [ ] C) $m_2 = -\frac{1}{7}$ <!-- feedback: Incorrecto. Esa es la pendiente de una recta perpendicular. -->
-- [ ] D) $m_2 = \frac{1}{7}$ <!-- feedback: Incorrecto. Esa es la pendiente recíproca. -->
+- [x] D) $m_2 = 7$ <!-- feedback: Correcto. Las rectas paralelas poseen exactamente la misma pendiente. -->
+- [ ] A) $m_2 = -7$ <!-- feedback: Incorrecto. Ese es el opuesto de la pendiente. -->
+- [ ] B) $m_2 = -\frac{1}{7}$ <!-- feedback: Incorrecto. Esa es la pendiente de una recta perpendicular. -->
+- [ ] C) $m_2 = \frac{1}{7}$ <!-- feedback: Incorrecto. Esa es la pendiente recíproca. -->
 
 ### Explicacion Pedagogica
 Dos rectas paralelas en el plano cartesiano comparten la misma pendiente: $m_1 = m_2 = 7$.
@@ -141,9 +141,9 @@ Dos rectas paralelas en el plano cartesiano comparten la misma pendiente: $m_1 =
 Dada la recta $R_1: y = 8x - 7$, ¿cuál es la pendiente $m_2$ de una recta $R_2$ paralela a $R_1$?
 
 ### Opciones
-- [x] A) $m_2 = 8$ <!-- feedback: Correcto. Las rectas paralelas poseen exactamente la misma pendiente. -->
-- [ ] B) $m_2 = -8$ <!-- feedback: Incorrecto. Ese es el opuesto de la pendiente. -->
-- [ ] C) $m_2 = -\frac{1}{8}$ <!-- feedback: Incorrecto. Esa es la pendiente de una recta perpendicular. -->
+- [x] C) $m_2 = 8$ <!-- feedback: Correcto. Las rectas paralelas poseen exactamente la misma pendiente. -->
+- [ ] A) $m_2 = -8$ <!-- feedback: Incorrecto. Ese es el opuesto de la pendiente. -->
+- [ ] B) $m_2 = -\frac{1}{8}$ <!-- feedback: Incorrecto. Esa es la pendiente de una recta perpendicular. -->
 - [ ] D) $m_2 = \frac{1}{8}$ <!-- feedback: Incorrecto. Esa es la pendiente recíproca. -->
 
 ### Explicacion Pedagogica
@@ -162,10 +162,10 @@ Dos rectas paralelas en el plano cartesiano comparten la misma pendiente: $m_1 =
 Dada la recta $R_1: y = 9x - 7$, ¿cuál es la pendiente $m_2$ de una recta $R_2$ paralela a $R_1$?
 
 ### Opciones
-- [x] A) $m_2 = 9$ <!-- feedback: Correcto. Las rectas paralelas poseen exactamente la misma pendiente. -->
-- [ ] B) $m_2 = -9$ <!-- feedback: Incorrecto. Ese es el opuesto de la pendiente. -->
-- [ ] C) $m_2 = -\frac{1}{9}$ <!-- feedback: Incorrecto. Esa es la pendiente de una recta perpendicular. -->
-- [ ] D) $m_2 = \frac{1}{9}$ <!-- feedback: Incorrecto. Esa es la pendiente recíproca. -->
+- [x] D) $m_2 = 9$ <!-- feedback: Correcto. Las rectas paralelas poseen exactamente la misma pendiente. -->
+- [ ] A) $m_2 = -9$ <!-- feedback: Incorrecto. Ese es el opuesto de la pendiente. -->
+- [ ] B) $m_2 = -\frac{1}{9}$ <!-- feedback: Incorrecto. Esa es la pendiente de una recta perpendicular. -->
+- [ ] C) $m_2 = \frac{1}{9}$ <!-- feedback: Incorrecto. Esa es la pendiente recíproca. -->
 
 ### Explicacion Pedagogica
 Dos rectas paralelas en el plano cartesiano comparten la misma pendiente: $m_1 = m_2 = 9$.
@@ -183,10 +183,10 @@ Dos rectas paralelas en el plano cartesiano comparten la misma pendiente: $m_1 =
 Dada la recta $R_1: y = 10x - 7$, ¿cuál es la pendiente $m_2$ de una recta $R_2$ paralela a $R_1$?
 
 ### Opciones
-- [x] A) $m_2 = 10$ <!-- feedback: Correcto. Las rectas paralelas poseen exactamente la misma pendiente. -->
-- [ ] B) $m_2 = -10$ <!-- feedback: Incorrecto. Ese es el opuesto de la pendiente. -->
-- [ ] C) $m_2 = -\frac{1}{10}$ <!-- feedback: Incorrecto. Esa es la pendiente de una recta perpendicular. -->
-- [ ] D) $m_2 = \frac{1}{10}$ <!-- feedback: Incorrecto. Esa es la pendiente recíproca. -->
+- [x] D) $m_2 = 10$ <!-- feedback: Correcto. Las rectas paralelas poseen exactamente la misma pendiente. -->
+- [ ] A) $m_2 = -10$ <!-- feedback: Incorrecto. Ese es el opuesto de la pendiente. -->
+- [ ] B) $m_2 = -\frac{1}{10}$ <!-- feedback: Incorrecto. Esa es la pendiente de una recta perpendicular. -->
+- [ ] C) $m_2 = \frac{1}{10}$ <!-- feedback: Incorrecto. Esa es la pendiente recíproca. -->
 
 ### Explicacion Pedagogica
 Dos rectas paralelas en el plano cartesiano comparten la misma pendiente: $m_1 = m_2 = 10$.
@@ -225,9 +225,9 @@ Dos rectas paralelas en el plano cartesiano comparten la misma pendiente: $m_1 =
 Dada la recta $R_1: y = 12x - 7$, ¿cuál es la pendiente $m_2$ de una recta $R_2$ paralela a $R_1$?
 
 ### Opciones
-- [x] A) $m_2 = 12$ <!-- feedback: Correcto. Las rectas paralelas poseen exactamente la misma pendiente. -->
-- [ ] B) $m_2 = -12$ <!-- feedback: Incorrecto. Ese es el opuesto de la pendiente. -->
-- [ ] C) $m_2 = -\frac{1}{12}$ <!-- feedback: Incorrecto. Esa es la pendiente de una recta perpendicular. -->
+- [x] C) $m_2 = 12$ <!-- feedback: Correcto. Las rectas paralelas poseen exactamente la misma pendiente. -->
+- [ ] A) $m_2 = -12$ <!-- feedback: Incorrecto. Ese es el opuesto de la pendiente. -->
+- [ ] B) $m_2 = -\frac{1}{12}$ <!-- feedback: Incorrecto. Esa es la pendiente de una recta perpendicular. -->
 - [ ] D) $m_2 = \frac{1}{12}$ <!-- feedback: Incorrecto. Esa es la pendiente recíproca. -->
 
 ### Explicacion Pedagogica
@@ -288,9 +288,9 @@ Dos rectas paralelas en el plano cartesiano comparten la misma pendiente: $m_1 =
 Dada la recta $R_1: y = 15x - 7$, ¿cuál es la pendiente $m_2$ de una recta $R_2$ paralela a $R_1$?
 
 ### Opciones
-- [x] A) $m_2 = 15$ <!-- feedback: Correcto. Las rectas paralelas poseen exactamente la misma pendiente. -->
-- [ ] B) $m_2 = -15$ <!-- feedback: Incorrecto. Ese es el opuesto de la pendiente. -->
-- [ ] C) $m_2 = -\frac{1}{15}$ <!-- feedback: Incorrecto. Esa es la pendiente de una recta perpendicular. -->
+- [x] C) $m_2 = 15$ <!-- feedback: Correcto. Las rectas paralelas poseen exactamente la misma pendiente. -->
+- [ ] A) $m_2 = -15$ <!-- feedback: Incorrecto. Ese es el opuesto de la pendiente. -->
+- [ ] B) $m_2 = -\frac{1}{15}$ <!-- feedback: Incorrecto. Esa es la pendiente de una recta perpendicular. -->
 - [ ] D) $m_2 = \frac{1}{15}$ <!-- feedback: Incorrecto. Esa es la pendiente recíproca. -->
 
 ### Explicacion Pedagogica
@@ -309,10 +309,10 @@ Dos rectas paralelas en el plano cartesiano comparten la misma pendiente: $m_1 =
 Dada la recta $R_1: y = 16x - 7$, ¿cuál es la pendiente $m_2$ de una recta $R_2$ paralela a $R_1$?
 
 ### Opciones
-- [x] A) $m_2 = 16$ <!-- feedback: Correcto. Las rectas paralelas poseen exactamente la misma pendiente. -->
-- [ ] B) $m_2 = -16$ <!-- feedback: Incorrecto. Ese es el opuesto de la pendiente. -->
-- [ ] C) $m_2 = -\frac{1}{16}$ <!-- feedback: Incorrecto. Esa es la pendiente de una recta perpendicular. -->
-- [ ] D) $m_2 = \frac{1}{16}$ <!-- feedback: Incorrecto. Esa es la pendiente recíproca. -->
+- [x] D) $m_2 = 16$ <!-- feedback: Correcto. Las rectas paralelas poseen exactamente la misma pendiente. -->
+- [ ] A) $m_2 = -16$ <!-- feedback: Incorrecto. Ese es el opuesto de la pendiente. -->
+- [ ] B) $m_2 = -\frac{1}{16}$ <!-- feedback: Incorrecto. Esa es la pendiente de una recta perpendicular. -->
+- [ ] C) $m_2 = \frac{1}{16}$ <!-- feedback: Incorrecto. Esa es la pendiente recíproca. -->
 
 ### Explicacion Pedagogica
 Dos rectas paralelas en el plano cartesiano comparten la misma pendiente: $m_1 = m_2 = 16$.
@@ -330,8 +330,8 @@ Dos rectas paralelas en el plano cartesiano comparten la misma pendiente: $m_1 =
 Dada la recta $R_1: y = 17x - 7$, ¿cuál es la pendiente $m_2$ de una recta $R_2$ paralela a $R_1$?
 
 ### Opciones
-- [x] A) $m_2 = 17$ <!-- feedback: Correcto. Las rectas paralelas poseen exactamente la misma pendiente. -->
-- [ ] B) $m_2 = -17$ <!-- feedback: Incorrecto. Ese es el opuesto de la pendiente. -->
+- [x] B) $m_2 = 17$ <!-- feedback: Correcto. Las rectas paralelas poseen exactamente la misma pendiente. -->
+- [ ] A) $m_2 = -17$ <!-- feedback: Incorrecto. Ese es el opuesto de la pendiente. -->
 - [ ] C) $m_2 = -\frac{1}{17}$ <!-- feedback: Incorrecto. Esa es la pendiente de una recta perpendicular. -->
 - [ ] D) $m_2 = \frac{1}{17}$ <!-- feedback: Incorrecto. Esa es la pendiente recíproca. -->
 
@@ -372,9 +372,9 @@ Dos rectas paralelas en el plano cartesiano comparten la misma pendiente: $m_1 =
 Dada la recta $R_1: y = 19x - 7$, ¿cuál es la pendiente $m_2$ de una recta $R_2$ paralela a $R_1$?
 
 ### Opciones
-- [x] A) $m_2 = 19$ <!-- feedback: Correcto. Las rectas paralelas poseen exactamente la misma pendiente. -->
-- [ ] B) $m_2 = -19$ <!-- feedback: Incorrecto. Ese es el opuesto de la pendiente. -->
-- [ ] C) $m_2 = -\frac{1}{19}$ <!-- feedback: Incorrecto. Esa es la pendiente de una recta perpendicular. -->
+- [x] C) $m_2 = 19$ <!-- feedback: Correcto. Las rectas paralelas poseen exactamente la misma pendiente. -->
+- [ ] A) $m_2 = -19$ <!-- feedback: Incorrecto. Ese es el opuesto de la pendiente. -->
+- [ ] B) $m_2 = -\frac{1}{19}$ <!-- feedback: Incorrecto. Esa es la pendiente de una recta perpendicular. -->
 - [ ] D) $m_2 = \frac{1}{19}$ <!-- feedback: Incorrecto. Esa es la pendiente recíproca. -->
 
 ### Explicacion Pedagogica

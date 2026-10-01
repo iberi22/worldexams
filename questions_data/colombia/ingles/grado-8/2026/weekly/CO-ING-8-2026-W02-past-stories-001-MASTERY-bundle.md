@@ -35,8 +35,8 @@ This bundle focuses on narrating past events using Past Simple and Past Continuo
 Last year, my family ________ to San Andrés for our vacation.
 
 ### Opciones
-- [ ] A) go <!-- feedback: Incorrect. We need the past form for "last year". -->
-- [x] B) went <!-- feedback: Correct! "Went" is the irregular past of "go". -->
+- [ ] B) go <!-- feedback: Incorrect. We need the past form for "last year". -->
+- [x] A) went <!-- feedback: Correct! "Went" is the irregular past of "go". -->
 - [ ] C) goes <!-- feedback: Incorrect. This is present tense. -->
 - [ ] D) was going <!-- feedback: Incorrect. We use Past Simple for completed actions at a specific time. -->
 
@@ -58,8 +58,8 @@ I ________ my homework yesterday because I was feeling sick.
 ### Opciones
 - [ ] A) not did <!-- feedback: Incorrect. Negative past needs "didn't" + base form. -->
 - [ ] B) didn't did <!-- feedback: Incorrect. After "didn't", we use the base form, not the past form. -->
-- [x] C) didn't do <!-- feedback: Correct! "Didn't" + base form is the correct negative structure. -->
-- [ ] D) don't do <!-- feedback: Incorrect. This is present tense, but the context is "yesterday". -->
+- [x] D) didn't do <!-- feedback: Correct! "Didn't" + base form is the correct negative structure. -->
+- [ ] C) don't do <!-- feedback: Incorrect. This is present tense, but the context is "yesterday". -->
 
 ### Explicación Pedagógica
 Para formar oraciones negativas en el Pasado Simple, usamos el auxiliar "didn't" (did not) seguido del verbo en su forma base.
@@ -77,8 +77,8 @@ Para formar oraciones negativas en el Pasado Simple, usamos el auxiliar "didn't"
 At 8:00 PM last night, I ________ a movie on TV.
 
 ### Opciones
-- [ ] A) watched <!-- feedback: Incorrect. This would be a completed action, but the specific time implies progress. -->
-- [x] B) was watching <!-- feedback: Correct! Past Continuous describes an action in progress at a specific past moment. -->
+- [ ] B) watched <!-- feedback: Incorrect. This would be a completed action, but the specific time implies progress. -->
+- [x] A) was watching <!-- feedback: Correct! Past Continuous describes an action in progress at a specific past moment. -->
 - [ ] C) am watching <!-- feedback: Incorrect. This is present tense. -->
 - [ ] D) were watching <!-- feedback: Incorrect. "I" takes "was", not "were". -->
 
@@ -98,8 +98,8 @@ El Pasado Continuo (was/were + -ing) se usa para describir acciones que estaban 
 We ________ soccer in the park when it suddenly started to rain.
 
 ### Opciones
-- [ ] A) played <!-- feedback: Incorrect. "Played" implies a completed action, but the context shows an interruption. -->
-- [x] B) were playing <!-- feedback: Correct! The action in progress (playing) is interrupted by another action (raining). -->
+- [ ] B) played <!-- feedback: Incorrect. "Played" implies a completed action, but the context shows an interruption. -->
+- [x] A) were playing <!-- feedback: Correct! The action in progress (playing) is interrupted by another action (raining). -->
 - [ ] C) are playing <!-- feedback: Incorrect. This is present, but the context is past. -->
 - [ ] D) was playing <!-- feedback: Incorrect. "We" is plural and requires "were". -->
 
@@ -119,8 +119,8 @@ Cuando una acción prolongada en el pasado (Pasado Continuo) es interrumpida por
 ________ you ________ to the concert in Bogotá last weekend?
 
 ### Opciones
-- [x] A) Did / go <!-- feedback: Correct! "Did" + base form is the correct structure for past questions. -->
-- [ ] B) Were / go <!-- feedback: Incorrect. "Were" is not used with base verbs in questions. -->
+- [x] B) Did / go <!-- feedback: Correct! "Did" + base form is the correct structure for past questions. -->
+- [ ] A) Were / go <!-- feedback: Incorrect. "Were" is not used with base verbs in questions. -->
 - [ ] C) Did / went <!-- feedback: Incorrect. After "did", we must use the base form "go". -->
 - [ ] D) Do / go <!-- feedback: Incorrect. This is present, but the context is "last weekend". -->
 
@@ -141,9 +141,9 @@ In 1819, the Battle of Boyacá ________ a turning point for Colombia's independe
 
 ### Opciones
 - [ ] A) is <!-- feedback: Incorrect. This is a historical event in the past. -->
-- [x] B) was <!-- feedback: Correct! "Was" is the past of "is" for singular subjects. -->
-- [ ] C) were <!-- feedback: Incorrect. "The Battle" is singular. -->
-- [ ] D) been <!-- feedback: Incorrect. "Been" is a past participle and needs an auxiliary. -->
+- [x] D) was <!-- feedback: Correct! "Was" is the past of "is" for singular subjects. -->
+- [ ] B) were <!-- feedback: Incorrect. "The Battle" is singular. -->
+- [ ] C) been <!-- feedback: Incorrect. "Been" is a past participle and needs an auxiliary. -->
 
 ### Explicación Pedagógica
 Para hechos históricos o biografías, usamos el Pasado Simple. "Was" y "were" son las formas pasadas del verbo "to be".
@@ -162,9 +162,9 @@ While my mother ________ dinner, my father ________ the table.
 
 ### Opciones
 - [ ] A) cooked / set <!-- feedback: Incorrect. Usually, "while" suggests two continuous actions. -->
-- [x] B) was cooking / was setting <!-- feedback: Correct! Both actions were happening at the same time. -->
-- [ ] C) cooks / sets <!-- feedback: Incorrect. This is present, but the context is past. -->
-- [ ] D) is cooking / is setting <!-- feedback: Incorrect. Present Continuous in a past context. -->
+- [x] D) was cooking / was setting <!-- feedback: Correct! Both actions were happening at the same time. -->
+- [ ] B) cooks / sets <!-- feedback: Incorrect. This is present, but the context is past. -->
+- [ ] C) is cooking / is setting <!-- feedback: Incorrect. Present Continuous in a past context. -->
 
 ### Explicación Pedagógica
 Usamos el Pasado Continuo en ambas partes de la oración cuando dos acciones estaban ocurriendo simultáneamente en el pasado, usualmente conectadas por "while".
@@ -184,10 +184,10 @@ Usamos el Pasado Continuo en ambas partes de la oración cuando dos acciones est
 Which verbs represent the background atmosphere?
 
 ### Opciones
-- [x] A) 1 and 2 <!-- feedback: Correct! Past Continuous sets the scene or background. -->
-- [ ] B) Only 3 <!-- feedback: Incorrect. Decided is the main action that happened. -->
-- [ ] C) 1 and 3 <!-- feedback: Incorrect. Decided is not part of the background atmosphere. -->
-- [ ] D) All of them <!-- feedback: Incorrect. There is a clear distinction between background and main action. -->
+- [x] D) 1 and 2 <!-- feedback: Correct! Past Continuous sets the scene or background. -->
+- [ ] A) Only 3 <!-- feedback: Incorrect. Decided is the main action that happened. -->
+- [ ] B) 1 and 3 <!-- feedback: Incorrect. Decided is not part of the background atmosphere. -->
+- [ ] C) All of them <!-- feedback: Incorrect. There is a clear distinction between background and main action. -->
 
 ### Explicación Pedagógica
 En la narración, el Pasado Continuo se utiliza para "pintar el escenario" (la atmósfera de fondo), mientras que el Pasado Simple se usa para las acciones principales que ocurren.
@@ -205,8 +205,8 @@ En la narración, el Pasado Continuo se utiliza para "pintar el escenario" (la a
 Which sentence describes actions that happened one after another (a sequence)?
 
 ### Opciones
-- [ ] A) I was eating when the phone rang. <!-- feedback: Incorrect. This is an interruption, not a sequence. -->
-- [x] B) I got up, brushed my teeth, and had breakfast. <!-- feedback: Correct! These are sequential actions in the past. -->
+- [ ] B) I was eating when the phone rang. <!-- feedback: Incorrect. This is an interruption, not a sequence. -->
+- [x] A) I got up, brushed my teeth, and had breakfast. <!-- feedback: Correct! These are sequential actions in the past. -->
 - [ ] C) While I was studying, she was sleeping. <!-- feedback: Incorrect. These are simultaneous actions. -->
 - [ ] D) I was having a dream about flying. <!-- feedback: Incorrect. This is a single continuous state. -->
 
@@ -248,9 +248,9 @@ Which apology sounds more sincere and professional for a past mistake?
 
 ### Opciones
 - [ ] A) I forgot. My bad. <!-- feedback: Incorrect. Too informal. -->
-- [x] B) I sincerely apologize for the delay; I was experiencing some technical issues yesterday. <!-- feedback: Correct! Formal, clear, and uses Past Continuous to explain context. -->
-- [ ] C) I didn't did it on purpose, so don't be mad. <!-- feedback: Incorrect. Grammatically wrong and too informal. -->
-- [ ] D) I am sorry I am not doing the work last week. <!-- feedback: Incorrect. Uses present continuous for a past event. -->
+- [x] D) I sincerely apologize for the delay; I was experiencing some technical issues yesterday. <!-- feedback: Correct! Formal, clear, and uses Past Continuous to explain context. -->
+- [ ] B) I didn't did it on purpose, so don't be mad. <!-- feedback: Incorrect. Grammatically wrong and too informal. -->
+- [ ] C) I am sorry I am not doing the work last week. <!-- feedback: Incorrect. Uses present continuous for a past event. -->
 
 ### Explicación Pedagógica
 En el nivel B1, se espera que el estudiante pueda elegir el tono adecuado (formal/informal) y usar estructuras gramaticales precisas para justificar acciones pasadas.

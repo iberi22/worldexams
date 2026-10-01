@@ -30,13 +30,13 @@ Bundle semanal para ordenar inicio, nudo y desenlace y comprender la secuencia d
 ### Enunciado
 Lee el inicio: "Había una vez un niño llamado Santiago que vivía en una finca cerca de Manizales". Según el inicio, ¿quién es el personaje y dónde vive?
 ### Opciones
-- [x] A) Santiago, un niño que vive en una finca cerca de Manizales.
+- [x] D) Santiago, un niño que vive en una finca cerca de Manizales.
   <!-- feedback: Es correcta porque repite el nombre y el lugar que dice el inicio. -->
-- [ ] B) Valentina, una niña que vive en Bogotá.
+- [ ] A) Valentina, una niña que vive en Bogotá.
   <!-- feedback: Es incorrecta porque Valentina es quien lee, no el personaje del cuento. -->
-- [ ] C) Un pescador que vive en Cartagena.
+- [ ] B) Un pescador que vive en Cartagena.
   <!-- feedback: Es incorrecta porque no se menciona pescador ni Cartagena. -->
-- [ ] D) Un tendero que vive en Pereira.
+- [ ] C) Un tendero que vive en Pereira.
   <!-- feedback: Es incorrecta porque no aparece ningún tendero en el inicio. -->
 ### Explicacion Pedagogica
 El inicio del cuento presenta a los personajes y el lugar. Recuperar esos datos explícitos es el primer paso para seguir la secuencia narrativa y disfrutar la comunicación de la historia.
@@ -50,9 +50,9 @@ El inicio del cuento presenta a los personajes y el lugar. Recuperar esos datos 
 ### Enunciado
 El profesor escribe: "Inicio: se presentan los personajes. Nudo: aparece un problema. Desenlace: se resuelve el problema". ¿Qué se entiende de esta explicación?
 ### Opciones
-- [x] A) Que todo cuento tiene un orden: presentación, problema y solución.
+- [x] B) Que todo cuento tiene un orden: presentación, problema y solución.
   <!-- feedback: Es correcta porque resume con claridad las tres partes en orden. -->
-- [ ] B) Que los cuentos no tienen orden ni final.
+- [ ] A) Que los cuentos no tienen orden ni final.
   <!-- feedback: Es incorrecta porque la explicación muestra un orden claro. -->
 - [ ] C) Que el nudo es el título del cuento.
   <!-- feedback: Es incorrecta porque el nudo es el problema, no el título. -->
@@ -90,9 +90,9 @@ Ordenar hechos exige aplicar la lógica de causa y efecto. Primero ocurre la acc
 ### Enunciado
 Lee el fragmento: "Mariana buscó bajo los puestos de frutas y preguntó a los vendedores, con el corazón acelerado". ¿A qué parte del cuento pertenece este fragmento?
 ### Opciones
-- [x] A) Al nudo, porque muestra el problema y el esfuerzo por resolverlo.
+- [x] B) Al nudo, porque muestra el problema y el esfuerzo por resolverlo.
   <!-- feedback: Es correcta porque la búsqueda angustiosa es el desarrollo del conflicto. -->
-- [ ] B) Al inicio, porque presenta a los personajes por primera vez.
+- [ ] A) Al inicio, porque presenta a los personajes por primera vez.
   <!-- feedback: Es incorrecta porque aquí ya existe un problema en marcha. -->
 - [ ] C) Al desenlace, porque ya se encontró la mochila.
   <!-- feedback: Es incorrecta porque todavía la está buscando. -->
@@ -150,13 +150,13 @@ Analizar desenlaces permite valorar la coherencia: una buena solución se prepar
 ### Enunciado
 Inicio 1: "Había una vez un niño". Inicio 2: "En vacaciones, Santiago viajó con su familia de Bogotá a Cartagena y descubrió una playa llena de pelícanos". ¿Cuál inicio funciona mejor y por qué?
 ### Opciones
-- [x] A) El inicio 2, porque presenta personaje, lugar y una situación interesante.
+- [x] D) El inicio 2, porque presenta personaje, lugar y una situación interesante.
   <!-- feedback: Es correcta porque da información concreta que invita a seguir leyendo. -->
-- [ ] B) El inicio 1, porque es más largo y detallado.
+- [ ] A) El inicio 1, porque es más largo y detallado.
   <!-- feedback: Es incorrecta porque es más corto y no da ningún detalle. -->
-- [ ] C) Los dos son iguales de efectivos.
+- [ ] B) Los dos son iguales de efectivos.
   <!-- feedback: Es incorrecta porque el segundo ofrece datos y el primero es muy vago. -->
-- [ ] D) Ninguno sirve como inicio de cuento.
+- [ ] C) Ninguno sirve como inicio de cuento.
   <!-- feedback: Es incorrecta porque el inicio 2 sí cumple la función de presentar la historia. -->
 ### Explicacion Pedagogica
 Un buen inicio ubica al lector con personajes y ambientes precisos. Analizar la diferencia enseña que los detalles concretos, como la ciudad y los pelícanos, despiertan curiosidad. Esta destreza también enriquece la descripción en textos propios.

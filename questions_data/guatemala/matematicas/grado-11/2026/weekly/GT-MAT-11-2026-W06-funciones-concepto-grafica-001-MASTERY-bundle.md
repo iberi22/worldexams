@@ -68,8 +68,8 @@ El dominio define el intervalo o conjunto de números para los cuales la funció
 
 ### Opciones
 - [ ] A) Prueba de la línea horizontal <!-- feedback: Esta prueba se usa para determinar si una función es inyectiva (uno a uno). -->
-- [x] B) Prueba de la línea vertical <!-- feedback: Correcto. Si cualquier línea vertical cruza la gráfica en más de un punto, no es una función. -->
-- [ ] C) Prueba del origen <!-- feedback: No existe una prueba con este nombre para definir funciones. -->
+- [x] C) Prueba de la línea vertical <!-- feedback: Correcto. Si cualquier línea vertical cruza la gráfica en más de un punto, no es una función. -->
+- [ ] B) Prueba del origen <!-- feedback: No existe una prueba con este nombre para definir funciones. -->
 - [ ] D) Prueba de simetría <!-- feedback: La simetría ayuda a identificar funciones pares o impares, pero no si es función. -->
 
 ### Explicacion Pedagogica
@@ -86,9 +86,9 @@ La prueba de la línea vertical verifica la unicidad de la imagen para cada valo
 Dada la función $f(x) = 3x - 2$, ¿cuál es el valor de $f(4)$?
 
 ### Opciones
-- [ ] A) $6$ <!-- feedback: $3(4) - 2 = 12 - 2 = 10$, no 6. -->
-- [ ] B) $14$ <!-- feedback: Sumaste 2 en lugar de restar ($12 + 2$). -->
-- [x] C) $10$ <!-- feedback: Correcto. $3 \times 4 = 12$, y $12 - 2 = 10$. -->
+- [ ] B) $6$ <!-- feedback: $3(4) - 2 = 12 - 2 = 10$, no 6. -->
+- [ ] C) $14$ <!-- feedback: Sumaste 2 en lugar de restar ($12 + 2$). -->
+- [x] A) $10$ <!-- feedback: Correcto. $3 \times 4 = 12$, y $12 - 2 = 10$. -->
 - [ ] D) $12$ <!-- feedback: Olvidaste restar el 2 después de multiplicar. -->
 
 ### Explicacion Pedagogica
@@ -106,9 +106,9 @@ Evaluar una función consiste en sustituir la variable independiente por un valo
 
 ### Opciones
 - [ ] A) Todos los números reales. <!-- feedback: No puede ser, ya que la división por cero no está definida. -->
-- [x] B) Todos los números reales excepto $x = 5$. <!-- feedback: Correcto. Si $x = 5$, el denominador se hace cero y la función no existe. -->
-- [ ] C) Solo los números mayores que $5$. <!-- feedback: Los números menores que 5 también son válidos (no producen división por cero). -->
-- [ ] D) El conjunto $\{5\}$. <!-- feedback: Este es precisamente el valor que NO pertenece al dominio. -->
+- [x] D) Todos los números reales excepto $x = 5$. <!-- feedback: Correcto. Si $x = 5$, el denominador se hace cero y la función no existe. -->
+- [ ] B) Solo los números mayores que $5$. <!-- feedback: Los números menores que 5 también son válidos (no producen división por cero). -->
+- [ ] C) El conjunto $\{5\}$. <!-- feedback: Este es precisamente el valor que NO pertenece al dominio. -->
 
 ### Explicacion Pedagogica
 En funciones racionales, el dominio excluye los valores de $x$ que hacen que el denominador sea igual a cero.
@@ -125,9 +125,9 @@ En funciones racionales, el dominio excluye los valores de $x$ que hacen que el 
 
 ### Opciones
 - [ ] A) Todos los números reales. <!-- feedback: Los números negativos no están en el rango porque cualquier número al cuadrado es positivo o cero. -->
-- [x] B) Todos los números reales mayores o iguales a cero ($[0, \infty)$). <!-- feedback: Correcto. El valor mínimo es 0 y se extiende infinitamente hacia arriba. -->
-- [ ] C) Todos los números enteros. <!-- feedback: El rango incluye también todos los números decimales y racionales positivos. -->
-- [ ] D) El intervalo $(-\infty, 0]$. <!-- feedback: Este sería el rango si la función fuera $f(x) = -x^2$. -->
+- [x] D) Todos los números reales mayores o iguales a cero ($[0, \infty)$). <!-- feedback: Correcto. El valor mínimo es 0 y se extiende infinitamente hacia arriba. -->
+- [ ] B) Todos los números enteros. <!-- feedback: El rango incluye también todos los números decimales y racionales positivos. -->
+- [ ] C) El intervalo $(-\infty, 0]$. <!-- feedback: Este sería el rango si la función fuera $f(x) = -x^2$. -->
 
 ### Explicacion Pedagogica
 El rango se identifica observando los valores que toma la función en el eje vertical ($y$). Para $x^2$, todos los resultados son no negativos.
@@ -162,8 +162,8 @@ La variable dependiente es el resultado de la función, usualmente graficada en 
 ¿Cuál es la intersección con el eje $y$ (ordenada al origen) de la función $f(x) = 2x - 8$?
 
 ### Opciones
-- [ ] A) $(4, 0)$ <!-- feedback: Esta es la intersección con el eje $x$ (donde $y=0$). -->
-- [x] B) $(0, -8)$ <!-- feedback: Correcto. La intersección con $y$ ocurre cuando $x=0$, entonces $f(0) = -8$. -->
+- [ ] B) $(4, 0)$ <!-- feedback: Esta es la intersección con el eje $x$ (donde $y=0$). -->
+- [x] A) $(0, -8)$ <!-- feedback: Correcto. La intersección con $y$ ocurre cuando $x=0$, entonces $f(0) = -8$. -->
 - [ ] C) $(0, 8)$ <!-- feedback: Error de signo en la identificación del término constante. -->
 - [ ] D) $(-8, 0)$ <!-- feedback: Se colocó el valor de $y$ en la posición de $x$. -->
 
@@ -182,8 +182,8 @@ Si la altura sigue la función $h(t) = \sqrt{t + 4}$, ¿cuál es la altura de la
 
 ### Opciones
 - [ ] A) $4$ cm <!-- feedback: $\sqrt{4+4} = \sqrt{8} \approx 2.82$, no 4. -->
-- [x] B) $\sqrt{8}$ cm <!-- feedback: Correcto. Sustituyendo $t=4$: $h(4) = \sqrt{4+4} = \sqrt{8}$. -->
-- [ ] C) $2$ cm <!-- feedback: Solo extrajiste la raíz del primer término o del segundo, no de la suma. -->
+- [x] C) $\sqrt{8}$ cm <!-- feedback: Correcto. Sustituyendo $t=4$: $h(4) = \sqrt{4+4} = \sqrt{8}$. -->
+- [ ] B) $2$ cm <!-- feedback: Solo extrajiste la raíz del primer término o del segundo, no de la suma. -->
 - [ ] D) $8$ cm <!-- feedback: Olvidaste extraer la raíz cuadrada después de sumar. -->
 
 ### Explicacion Pedagogica
@@ -200,9 +200,9 @@ Al evaluar funciones con radicales, se realiza primero la operación dentro del 
 ¿Qué característica tiene una función creciente en un intervalo determinado?
 
 ### Opciones
-- [x] A) A medida que aumenta $x$, el valor de $f(x)$ también aumenta. <!-- feedback: Correcto. La gráfica sube al avanzar hacia la derecha. -->
-- [ ] B) A medida que aumenta $x$, el valor de $f(x)$ disminuye. <!-- feedback: Esta es la definición de una función decreciente. -->
-- [ ] C) El valor de $f(x)$ permanece constante sin importar el valor de $x$. <!-- feedback: Esta es una función constante (recta horizontal). -->
+- [x] C) A medida que aumenta $x$, el valor de $f(x)$ también aumenta. <!-- feedback: Correcto. La gráfica sube al avanzar hacia la derecha. -->
+- [ ] A) A medida que aumenta $x$, el valor de $f(x)$ disminuye. <!-- feedback: Esta es la definición de una función decreciente. -->
+- [ ] B) El valor de $f(x)$ permanece constante sin importar el valor de $x$. <!-- feedback: Esta es una función constante (recta horizontal). -->
 - [ ] D) La función siempre pasa por el origen de coordenadas. <!-- feedback: Ser creciente no obliga a la función a pasar por el punto (0,0). -->
 
 ### Explicacion Pedagogica
@@ -219,8 +219,8 @@ La monotonía de una función (crecimiento o decrecimiento) describe la relació
 Dadas las funciones $f(x) = 2x$ y $g(x) = x + 3$, ¿cuál es el valor de la composición $(f \circ g)(2)$?
 
 ### Opciones
-- [ ] A) $7$ <!-- feedback: Este sería $f(2) + g(2)$, no la composición. -->
-- [x] B) $10$ <!-- feedback: Correcto. Primero hallamos $g(2) = 5$. Luego evaluamos $f(5) = 2(5) = 10$. -->
+- [ ] B) $7$ <!-- feedback: Este sería $f(2) + g(2)$, no la composición. -->
+- [x] A) $10$ <!-- feedback: Correcto. Primero hallamos $g(2) = 5$. Luego evaluamos $f(5) = 2(5) = 10$. -->
 - [ ] C) $5$ <!-- feedback: Este es solo el valor de $g(2)$. -->
 - [ ] D) $8$ <!-- feedback: Error al realizar las operaciones de la composición. -->
 
@@ -261,8 +261,8 @@ $f(x) = 2$ si $x \ge 0$
 
 ### Opciones
 - [ ] A) $6$ <!-- feedback: Usaste la rama incorrecta. $x=5$ cumple la condición $x \ge 0$. -->
-- [x] B) $2$ <!-- feedback: Correcto. Como $5 \ge 0$, el valor de la función es la constante 2. -->
-- [ ] C) $1$ <!-- feedback: Valor incorrecto según las reglas de la función por trozos. -->
+- [x] C) $2$ <!-- feedback: Correcto. Como $5 \ge 0$, el valor de la función es la constante 2. -->
+- [ ] B) $1$ <!-- feedback: Valor incorrecto según las reglas de la función por trozos. -->
 - [ ] D) No está definido. <!-- feedback: La función está definida para todos los números reales. -->
 
 ### Explicacion Pedagogica
@@ -300,8 +300,8 @@ Si la gráfica de $f(x)$ se desplaza $3$ unidades hacia abajo, ¿cuál es la nue
 ### Opciones
 - [ ] A) $f(x + 3)$ <!-- feedback: Esto es un desplazamiento horizontal hacia la izquierda. -->
 - [ ] B) $f(x - 3)$ <!-- feedback: Esto es un desplazamiento horizontal hacia la derecha. -->
-- [x] C) $f(x) - 3$ <!-- feedback: Correcto. Restar una constante a la función completa produce un desplazamiento vertical hacia abajo. -->
-- [ ] D) $3f(x)$ <!-- feedback: Esto representa un estiramiento vertical por un factor de 3. -->
+- [x] D) $f(x) - 3$ <!-- feedback: Correcto. Restar una constante a la función completa produce un desplazamiento vertical hacia abajo. -->
+- [ ] C) $3f(x)$ <!-- feedback: Esto representa un estiramiento vertical por un factor de 3. -->
 
 ### Explicacion Pedagogica
 Las transformaciones rígidas (desplazamientos) ocurren al sumar o restar constantes a la variable (horizontal) o a la función (vertical).
@@ -337,9 +337,9 @@ La función inversa "deshace" la operación de la función original. Se obtiene 
 
 ### Opciones
 - [ ] A) $y = 2$ <!-- feedback: Esta es la asíntota horizontal, calculada por el límite al infinito. -->
-- [x] B) $x = 3$ <!-- feedback: Correcto. Es el valor que hace cero el denominador y no anula al numerador simultáneamente. -->
-- [ ] C) $x = -1/2$ <!-- feedback: Esta es la intersección con el eje $x$ (raíz), no una asíntota. -->
-- [ ] D) $x = -3$ <!-- feedback: Error de signo al identificar el valor prohibido del dominio. -->
+- [x] D) $x = 3$ <!-- feedback: Correcto. Es el valor que hace cero el denominador y no anula al numerador simultáneamente. -->
+- [ ] B) $x = -1/2$ <!-- feedback: Esta es la intersección con el eje $x$ (raíz), no una asíntota. -->
+- [ ] C) $x = -3$ <!-- feedback: Error de signo al identificar el valor prohibido del dominio. -->
 
 ### Explicacion Pedagogica
 Las asíntotas verticales ocurren en los valores de $x$ que hacen que el denominador de una función racional simplificada sea igual a cero.
@@ -393,8 +393,8 @@ La función valor absoluto básica tiene rango $[0, \infty)$. Al sumarle 5, todo
 ¿Cuál es el dominio de la función $f(x) = \frac{1}{\sqrt{x - 2}}$?
 
 ### Opciones
-- [ ] A) $x \ge 2$ <!-- feedback: Si $x=2$, el denominador es $\sqrt{0}=0$, lo cual es indefinido por la división. -->
-- [x] B) $x > 2$ <!-- feedback: Correcto. El radicando debe ser positivo ($x-2 > 0$) para evitar raíces negativas y división por cero. -->
+- [ ] B) $x \ge 2$ <!-- feedback: Si $x=2$, el denominador es $\sqrt{0}=0$, lo cual es indefinido por la división. -->
+- [x] A) $x > 2$ <!-- feedback: Correcto. El radicando debe ser positivo ($x-2 > 0$) para evitar raíces negativas y división por cero. -->
 - [ ] C) $x \le 2$ <!-- feedback: Esto produciría raíces de números negativos (para $x < 2$). -->
 - [ ] D) Todos los reales excepto $x = 2$. <!-- feedback: No considera la restricción de la raíz cuadrada para números menores que 2. -->
 

@@ -32,8 +32,8 @@ creador: "Jules-Agent"
 ¿Cuáles fueron los dos movimientos literarios predominantes en Colombia durante el siglo XIX?
 
 ### Opciones
-- [ ] A) Renacimiento y Barroco <!-- feedback: Incorrecto. Estos movimientos corresponden a la época de la Conquista y la Colonia. -->
-- [x] B) Romanticismo y Costumbrismo <!-- feedback: ¡Correcto! Ambos movimientos marcaron la producción literaria del siglo XIX colombiano. -->
+- [ ] B) Renacimiento y Barroco <!-- feedback: Incorrecto. Estos movimientos corresponden a la época de la Conquista y la Colonia. -->
+- [x] A) Romanticismo y Costumbrismo <!-- feedback: ¡Correcto! Ambos movimientos marcaron la producción literaria del siglo XIX colombiano. -->
 - [ ] C) Vanguardismo y Existencialismo <!-- feedback: Incorrecto. Son movimientos del siglo XX. -->
 - [ ] D) Neoclasicismo y Modernismo <!-- feedback: Incorrecto. Aunque el Modernismo empezó a finales del XIX, el Romanticismo y el Costumbrismo fueron los que definieron el siglo. -->
 
@@ -74,8 +74,8 @@ En el siglo XIX, los periódicos no solo daban noticias, sino que eran el espaci
 ¿Por qué la literatura colombiana del siglo XIX estaba tan ligada a la política?
 
 ### Opciones
-- [ ] A) Porque era obligatorio por ley que los escritores fueran políticos. <!-- feedback: Incorrecto. No había tal ley, era una elección de los autores. -->
-- [x] B) Porque los escritores estaban comprometidos con la construcción de la nueva nación y usaban sus obras para proponer ideas sociales. <!-- feedback: ¡Correcto! La literatura se veía como una herramienta de formación ciudadana. -->
+- [ ] B) Porque era obligatorio por ley que los escritores fueran políticos. <!-- feedback: Incorrecto. No había tal ley, era una elección de los autores. -->
+- [x] A) Porque los escritores estaban comprometidos con la construcción de la nueva nación y usaban sus obras para proponer ideas sociales. <!-- feedback: ¡Correcto! La literatura se veía como una herramienta de formación ciudadana. -->
 - [ ] C) Porque no había otros temas sobre los cuales escribir en esa época. <!-- feedback: Incorrecto. Había muchos temas, pero la política era el centro de la vida social. -->
 - [ ] D) Porque los políticos pagaban a los autores para que escribieran poemas de amor. <!-- feedback: Incorrecto. Los autores solían escribir por convicción propia y muchos eran líderes políticos ellos mismos. -->
 
@@ -95,9 +95,9 @@ En una nación que apenas estaba naciendo, la palabra escrita tenía un poder en
 ¿Cómo se manifestó el patriotismo en la literatura colombiana del siglo XIX?
 
 ### Opciones
-- [ ] A) Escribiendo solo sobre las guerras ganadas por otros países. <!-- feedback: Incorrecto. Se centraban en la historia y geografía propia. -->
-- [ ] B) Prohibiendo el uso de palabras que no fueran de origen indígena. <!-- feedback: Incorrecto. El español siguió siendo la lengua principal, aunque se rescataron términos locales. -->
-- [x] C) Mediante la exaltación de los paisajes nacionales, los héroes de la independencia y las tradiciones locales. <!-- feedback: ¡Correcto! Se buscaba dar valor a lo propio frente a lo extranjero. -->
+- [ ] B) Escribiendo solo sobre las guerras ganadas por otros países. <!-- feedback: Incorrecto. Se centraban en la historia y geografía propia. -->
+- [ ] C) Prohibiendo el uso de palabras que no fueran de origen indígena. <!-- feedback: Incorrecto. El español siguió siendo la lengua principal, aunque se rescataron términos locales. -->
+- [x] A) Mediante la exaltación de los paisajes nacionales, los héroes de la independencia y las tradiciones locales. <!-- feedback: ¡Correcto! Se buscaba dar valor a lo propio frente a lo extranjero. -->
 - [ ] D) Haciendo que todos los libros tuvieran el mapa de Colombia en la portada. <!-- feedback: Incorrecto. El patriotismo estaba en el contenido y la sensibilidad de los textos. -->
 
 ### Explicacion Pedagogica
@@ -116,8 +116,8 @@ El patriotismo literario buscaba que los colombianos se reconocieran en su propi
 ¿A qué movimiento y temática pertenece el fragmento anterior, muy común en el siglo XIX?
 
 ### Opciones
-- [ ] A) Costumbrismo y vida cotidiana campesina. <!-- feedback: Incorrecto. El lenguaje es muy elevado y abstracto para ser costumbrista. -->
-- [x] B) Romanticismo y temática de libertad y nacionalismo. <!-- feedback: ¡Correcto! El uso de exclamaciones y la exaltación de conceptos como libertad son típicos del romanticismo patriótico. -->
+- [ ] B) Costumbrismo y vida cotidiana campesina. <!-- feedback: Incorrecto. El lenguaje es muy elevado y abstracto para ser costumbrista. -->
+- [x] A) Romanticismo y temática de libertad y nacionalismo. <!-- feedback: ¡Correcto! El uso de exclamaciones y la exaltación de conceptos como libertad son típicos del romanticismo patriótico. -->
 - [ ] C) Realismo y descripción de la pobreza urbana. <!-- feedback: Incorrecto. No describe una realidad cruda, sino un ideal de gloria. -->
 - [ ] D) Modernismo y búsqueda de la belleza exótica. <!-- feedback: Incorrecto. El modernismo suele evitar los temas políticos directos en favor de lo estético. -->
 
@@ -137,8 +137,8 @@ El Romanticismo en Colombia tuvo una vertiente heroica y política. La libertad 
 ¿Cuál es la contradicción aparente en la literatura colombiana del siglo XIX respecto a Europa?
 
 ### Opciones
-- [ ] A) Querían ser como los europeos pero escribían en contra de ellos. <!-- feedback: Incorrecto. No escribían contra la cultura europea, sino contra su dominio político. -->
-- [x] B) Buscaban una identidad propia e independiente, pero seguían usando los modelos y estilos literarios europeos. <!-- feedback: ¡Correcto! Se independizaron políticamente, pero la influencia cultural tardó más en cambiar. -->
+- [ ] B) Querían ser como los europeos pero escribían en contra de ellos. <!-- feedback: Incorrecto. No escribían contra la cultura europea, sino contra su dominio político. -->
+- [x] A) Buscaban una identidad propia e independiente, pero seguían usando los modelos y estilos literarios europeos. <!-- feedback: ¡Correcto! Se independizaron políticamente, pero la influencia cultural tardó más en cambiar. -->
 - [ ] C) Odiaban a los autores europeos y quemaban sus libros en las plazas. <!-- feedback: Incorrecto. Los admiraban profundamente y los traducían con frecuencia. -->
 - [ ] D) No sabían que existía literatura en Europa y por eso inventaron todo desde cero. <!-- feedback: Incorrecto. Eran autores muy cultos que leían varios idiomas y conocían las novedades mundiales. -->
 
@@ -159,8 +159,8 @@ Esta es una característica de la literatura post-colonial: la lucha por encontr
 
 ### Opciones
 - [ ] A) Como una líder guerrera que dirigía los ejércitos. <!-- feedback: Incorrecto. Este no era el rol asignado a la mujer en la literatura de esa época. -->
-- [x] B) Como un ser idealizado, frágil y puro, asociado a menudo con la naturaleza y la melancolía. <!-- feedback: ¡Correcto! Es la visión de la "amada ideal" que el hombre debe proteger o lamentar. -->
-- [ ] C) Como una profesional independiente que no quería casarse. <!-- feedback: Incorrecto. Los valores de la época ponían el matrimonio y el hogar como el centro de la vida femenina. -->
+- [x] C) Como un ser idealizado, frágil y puro, asociado a menudo con la naturaleza y la melancolía. <!-- feedback: ¡Correcto! Es la visión de la "amada ideal" que el hombre debe proteger o lamentar. -->
+- [ ] B) Como una profesional independiente que no quería casarse. <!-- feedback: Incorrecto. Los valores de la época ponían el matrimonio y el hogar como el centro de la vida femenina. -->
 - [ ] D) Como una villana malvada que quería destruir al protagonista. <!-- feedback: Incorrecto. Aunque había antagonistas, la visión predominante era la de la mujer angelical. -->
 
 ### Explicacion Pedagogica
@@ -180,8 +180,8 @@ La mujer en el romanticismo es un símbolo. Su muerte o su enfermedad en las obr
 
 ### Opciones
 - [ ] A) Obligar a todos a hablar con el acento de Bogotá. <!-- feedback: Incorrecto. El costumbrismo valoraba precisamente la diversidad de acentos regionales. -->
-- [x] B) Darle estatus literario al habla popular y regional, reconociendo su riqueza y valor. <!-- feedback: ¡Correcto! Palabras que se consideraban "malas" o "campesinas" empezaron a aparecer en los libros. -->
-- [ ] C) Traducir todas las obras al idioma muisca para recuperar las raíces. <!-- feedback: Incorrecto. Aunque hubo interés, el objetivo no fue cambiar el idioma nacional. -->
+- [x] C) Darle estatus literario al habla popular y regional, reconociendo su riqueza y valor. <!-- feedback: ¡Correcto! Palabras que se consideraban "malas" o "campesinas" empezaron a aparecer en los libros. -->
+- [ ] B) Traducir todas las obras al idioma muisca para recuperar las raíces. <!-- feedback: Incorrecto. Aunque hubo interés, el objetivo no fue cambiar el idioma nacional. -->
 - [ ] D) Prohibir el uso de regionalismos para que el español fuera más puro. <!-- feedback: Incorrecto. El costumbrismo es, por definición, el uso de regionalismos. -->
 
 ### Explicacion Pedagogica
@@ -200,8 +200,8 @@ Gracias al costumbrismo, el español de Colombia se enriqueció con los aportes 
 ¿A qué se refiere el autor con "voces de ultramar" y qué propone para la literatura colombiana?
 
 ### Opciones
-- [ ] A) A los sonidos del mar Caribe que distraen a los escritores. <!-- feedback: Incorrecto. Es una metáfora sobre el origen de las ideas, no sobre sonidos reales. -->
-- [x] B) A la influencia excesiva de los modelos literarios de Europa; propone una literatura original y basada en la realidad local. <!-- feedback: ¡Correcto! Es el llamado a la independencia cultural. -->
+- [ ] B) A los sonidos del mar Caribe que distraen a los escritores. <!-- feedback: Incorrecto. Es una metáfora sobre el origen de las ideas, no sobre sonidos reales. -->
+- [x] A) A la influencia excesiva de los modelos literarios de Europa; propone una literatura original y basada en la realidad local. <!-- feedback: ¡Correcto! Es el llamado a la independencia cultural. -->
 - [ ] C) A los barcos que traían libros piratas desde otros países. <!-- feedback: Incorrecto. Se refiere a la imitación de estilos literarios. -->
 - [ ] D) A las canciones que cantaban los marineros durante la travesía del Atlántico. <!-- feedback: Incorrecto. No se refiere a la música, sino a la teoría y práctica literaria. -->
 
@@ -222,8 +222,8 @@ Este llamado a la "originalidad" fue el gran motor del siglo XIX. Aunque usaran 
 
 ### Opciones
 - [ ] A) Que los colombianos dejaron de leer a autores de otros países. <!-- feedback: Incorrecto. Colombia ha seguido siendo un país muy abierto a la literatura universal. -->
-- [ ] B) El olvido total de las tradiciones indígenas en favor de lo europeo. <!-- feedback: Incorrecto. Aunque fue un siglo muy hispanista, se sentaron las bases para el rescate posterior de lo indígena. -->
-- [x] C) La consolidación de Colombia como un país de gran tradición literaria y gramatical en el continente. <!-- feedback: ¡Correcto! A Colombia se le llamó "La Atenas Sudamericana" por su alto nivel cultural en esa época. -->
+- [ ] C) El olvido total de las tradiciones indígenas en favor de lo europeo. <!-- feedback: Incorrecto. Aunque fue un siglo muy hispanista, se sentaron las bases para el rescate posterior de lo indígena. -->
+- [x] B) La consolidación de Colombia como un país de gran tradición literaria y gramatical en el continente. <!-- feedback: ¡Correcto! A Colombia se le llamó "La Atenas Sudamericana" por su alto nivel cultural en esa época. -->
 - [ ] D) La desaparición de los periódicos impresos para dar paso a los libros electrónicos. <!-- feedback: Incorrecto. Los libros electrónicos son un fenómeno del siglo XXI. -->
 
 ### Explicacion Pedagogica

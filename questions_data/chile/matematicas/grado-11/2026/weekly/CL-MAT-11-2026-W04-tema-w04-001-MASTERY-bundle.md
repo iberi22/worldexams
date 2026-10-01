@@ -30,8 +30,8 @@ creador: "Jules-Agent"
 En el término algebraico $-5x^3y^2$, ¿cuál es el coeficiente numérico?
 
 ### Opciones
-- [ ] A) 5 <!-- feedback: El signo menos también forma parte integral del coeficiente numérico. -->
-- [x] B) -5 <!-- feedback: Correcto, el coeficiente numérico incluye el valor absoluto y su signo. -->
+- [ ] B) 5 <!-- feedback: El signo menos también forma parte integral del coeficiente numérico. -->
+- [x] A) -5 <!-- feedback: Correcto, el coeficiente numérico incluye el valor absoluto y su signo. -->
 - [ ] C) $x^3y^2$ <!-- feedback: Este bloque representa el factor literal, no el coeficiente numérico. -->
 - [ ] D) 3 <!-- feedback: Este valor es un exponente dentro del factor literal de la expresión. -->
 
@@ -50,9 +50,9 @@ Un término algebraico consta de un coeficiente numérico (el número con su sig
 
 ### Opciones
 - [ ] A) $3a^2b$ <!-- feedback: Los exponentes de las letras no coinciden exactamente. -->
-- [x] B) $-7ab^2$ <!-- feedback: Correcto, tienen exactamente el mismo factor literal ($ab^2$). -->
-- [ ] C) $3ab$ <!-- feedback: Falta el exponente 2 en la letra $b$ para ser semejante. -->
-- [ ] D) $3a^2b^2$ <!-- feedback: El exponente de la letra $a$ es diferente al término original. -->
+- [x] D) $-7ab^2$ <!-- feedback: Correcto, tienen exactamente el mismo factor literal ($ab^2$). -->
+- [ ] B) $3ab$ <!-- feedback: Falta el exponente 2 en la letra $b$ para ser semejante. -->
+- [ ] C) $3a^2b^2$ <!-- feedback: El exponente de la letra $a$ es diferente al término original. -->
 
 ### Explicacion Pedagogica
 Dos o más términos son semejantes si tienen el mismo factor literal, es decir, las mismas letras elevadas a los mismos exponentes, sin importar el coeficiente numérico.
@@ -69,9 +69,9 @@ Reduzca la siguiente expresión: $5x + 3y - 2x + 4y$
 
 ### Opciones
 - [ ] A) $10xy$ <!-- feedback: No se pueden sumar términos con distintas letras ($x$ e $y$) en uno solo. -->
-- [x] B) $3x + 7y$ <!-- feedback: $5x - 2x = 3x$ y $3y + 4y = 7y$. -->
-- [ ] C) $7x + 7y$ <!-- feedback: Sumaste $5x$ y $2x$ en lugar de realizar la resta indicada. -->
-- [ ] D) $3x - y$ <!-- feedback: Error al realizar la suma de los términos constantes de $y$. -->
+- [x] D) $3x + 7y$ <!-- feedback: $5x - 2x = 3x$ y $3y + 4y = 7y$. -->
+- [ ] B) $7x + 7y$ <!-- feedback: Sumaste $5x$ y $2x$ en lugar de realizar la resta indicada. -->
+- [ ] C) $3x - y$ <!-- feedback: Error al realizar la suma de los términos constantes de $y$. -->
 
 ### Explicacion Pedagogica
 Para reducir términos semejantes, agrupamos los que tienen la misma letra: $(5x - 2x) + (3y + 4y)$. Realizamos las operaciones con los coeficientes: $5 - 2 = 3$ y $3 + 4 = 7$. El resultado es $3x + 7y$.
@@ -88,8 +88,8 @@ Para reducir términos semejantes, agrupamos los que tienen la misma letra: $(5x
 
 ### Opciones
 - [ ] A) 2 <!-- feedback: Este es el exponente del segundo término, no el mayor del polinomio. -->
-- [ ] B) 7 <!-- feedback: Este es el término independiente, no representa un exponente. -->
-- [x] C) 5 <!-- feedback: El grado de un polinomio de una variable es el mayor exponente de dicha variable. -->
+- [ ] C) 7 <!-- feedback: Este es el término independiente, no representa un exponente. -->
+- [x] B) 5 <!-- feedback: El grado de un polinomio de una variable es el mayor exponente de dicha variable. -->
 - [ ] D) 4 <!-- feedback: Este es el coeficiente del término de mayor grado, no el grado. -->
 
 ### Explicacion Pedagogica
@@ -107,9 +107,9 @@ Si $a = 2$ y $b = -3$, ¿cuál es el valor de $a^2 - 2b$?
 
 ### Opciones
 - [ ] A) -2 <!-- feedback: Error en el cálculo de las potencias o en la multiplicación por la variable. -->
-- [x] B) 10 <!-- feedback: $2^2 - 2(-3) = 4 + 6 = 10$. -->
-- [ ] C) -10 <!-- feedback: Error en el manejo de los signos al multiplicar $-2$ por $-3$. -->
-- [ ] D) 2 <!-- feedback: Error aritmético básico en la suma final de los términos. -->
+- [x] D) 10 <!-- feedback: $2^2 - 2(-3) = 4 + 6 = 10$. -->
+- [ ] B) -10 <!-- feedback: Error en el manejo de los signos al multiplicar $-2$ por $-3$. -->
+- [ ] C) 2 <!-- feedback: Error aritmético básico en la suma final de los términos. -->
 
 ### Explicacion Pedagogica
 Sustituimos los valores: $2^2 - 2(-3)$. Resolvemos la potencia: $2^2 = 4$. Luego la multiplicación: $-2 \cdot -3 = 6$. Finalmente sumamos: $4 + 6 = 10$.
@@ -145,8 +145,8 @@ Desarrolle la expresión $(x + 4)^2$.
 
 ### Opciones
 - [ ] A) $x^2 + 16$ <!-- feedback: Olvidaste el término central que es el doble del primero por el segundo. -->
-- [x] B) $x^2 + 8x + 16$ <!-- feedback: Aplicando la regla $(a+b)^2 = a^2 + 2ab + b^2$. -->
-- [ ] C) $x^2 + 4x + 16$ <!-- feedback: Olvidaste multiplicar el término central del desarrollo por el factor 2. -->
+- [x] C) $x^2 + 8x + 16$ <!-- feedback: Aplicando la regla $(a+b)^2 = a^2 + 2ab + b^2$. -->
+- [ ] B) $x^2 + 4x + 16$ <!-- feedback: Olvidaste multiplicar el término central del desarrollo por el factor 2. -->
 - [ ] D) $2x + 8$ <!-- feedback: Multiplicaste por 2 en lugar de elevar al cuadrado los términos. -->
 
 ### Explicacion Pedagogica
@@ -183,9 +183,9 @@ Simplifique la expresión $\frac{10a^3b^2}{5ab^2}$ para $a, b \neq 0$.
 
 ### Opciones
 - [ ] A) $2a^3$ <!-- feedback: Olvidaste restar correctamente los exponentes de la letra $a$. -->
-- [x] B) $2a^2$ <!-- feedback: $10/5 = 2$; $a^{3-1} = a^2$; $b^{2-2} = b^0 = 1$. -->
-- [ ] C) $5a^2$ <!-- feedback: Restaste los coeficientes numéricos en lugar de realizar la división. -->
-- [ ] D) $2a^2b$ <!-- feedback: La letra $b$ se cancela ya que sus exponentes son iguales en numerador y denominador. -->
+- [x] D) $2a^2$ <!-- feedback: $10/5 = 2$; $a^{3-1} = a^2$; $b^{2-2} = b^0 = 1$. -->
+- [ ] B) $5a^2$ <!-- feedback: Restaste los coeficientes numéricos en lugar de realizar la división. -->
+- [ ] C) $2a^2b$ <!-- feedback: La letra $b$ se cancela ya que sus exponentes son iguales en numerador y denominador. -->
 
 ### Explicacion Pedagogica
 Dividimos los coeficientes numéricos: $10 / 5 = 2$. Para las letras, restamos los exponentes de la misma base: $a^{3-1} = a^2$ y $b^{2-2} = b^0 = 1$. El resultado es $2a^2$.
@@ -202,8 +202,8 @@ Dividimos los coeficientes numéricos: $10 / 5 = 2$. Para las letras, restamos l
 
 ### Opciones
 - [ ] A) $9x^2 + 4$ <!-- feedback: El signo entre los términos resultantes debe ser siempre negativo. -->
-- [x] B) $9x^2 - 4$ <!-- feedback: Aplicando la regla notable $(a-b)(a+b) = a^2 - b^2$. -->
-- [ ] C) $6x^2 - 4$ <!-- feedback: Olvidaste elevar el coeficiente numérico 3 al cuadrado. -->
+- [x] C) $9x^2 - 4$ <!-- feedback: Aplicando la regla notable $(a-b)(a+b) = a^2 - b^2$. -->
+- [ ] B) $6x^2 - 4$ <!-- feedback: Olvidaste elevar el coeficiente numérico 3 al cuadrado. -->
 - [ ] D) $9x^2 - 12x + 4$ <!-- feedback: Este resultado corresponde a un binomio al cuadrado, no a una suma por diferencia. -->
 
 ### Explicacion Pedagogica
@@ -221,9 +221,9 @@ Factorice completamente la expresión $6x^2y - 9xy^2$.
 
 ### Opciones
 - [ ] A) $3x(2xy - 3y^2)$ <!-- feedback: Falta extraer el factor común de la variable $y$. -->
-- [x] B) $3xy(2x - 3y)$ <!-- feedback: El máximo común divisor de los términos es $3xy$. -->
-- [ ] C) $xy(6x - 9y)$ <!-- feedback: No extrajiste el factor común numérico que es 3. -->
-- [ ] D) $3x^2y^2(2 - 3)$ <!-- feedback: Error al determinar los exponentes correctos de los factores comunes. -->
+- [x] D) $3xy(2x - 3y)$ <!-- feedback: El máximo común divisor de los términos es $3xy$. -->
+- [ ] B) $xy(6x - 9y)$ <!-- feedback: No extrajiste el factor común numérico que es 3. -->
+- [ ] C) $3x^2y^2(2 - 3)$ <!-- feedback: Error al determinar los exponentes correctos de los factores comunes. -->
 
 ### Explicacion Pedagogica
 Buscamos el factor común: el MCD de 6 y 9 es 3; las letras comunes con menor exponente son $x$ e $y$. El factor común es $3xy$. Dividimos cada término: $6x^2y / 3xy = 2x$ y $9xy^2 / 3xy = 3y$. Queda $3xy(2x - 3y)$.
@@ -240,9 +240,9 @@ Buscamos el factor común: el MCD de 6 y 9 es 3; las letras comunes con menor ex
 
 ### Opciones
 - [ ] A) $(x - 6)(x + 1)$ <!-- feedback: La suma es -5, pero el producto resultante es -6 y buscamos +6. -->
-- [x] B) $(x - 3)(x - 2)$ <!-- feedback: Se cumple que $-3 + -2 = -5$ y $-3 \cdot -2 = 6$. -->
-- [ ] C) $(x + 3)(x + 2)$ <!-- feedback: El producto es 6, pero la suma da +5 en lugar de -5. -->
-- [ ] D) $(x - 1)(x - 6)$ <!-- feedback: El producto es 6, pero la suma de los términos es -7. -->
+- [x] D) $(x - 3)(x - 2)$ <!-- feedback: Se cumple que $-3 + -2 = -5$ y $-3 \cdot -2 = 6$. -->
+- [ ] B) $(x + 3)(x + 2)$ <!-- feedback: El producto es 6, pero la suma da +5 en lugar de -5. -->
+- [ ] C) $(x - 1)(x - 6)$ <!-- feedback: El producto es 6, pero la suma de los términos es -7. -->
 
 ### Explicacion Pedagogica
 Buscamos dos números que sumados den $-5$ (coeficiente de $x$) y multiplicados den $6$ (término independiente). Esos números son $-3$ y $-2$. Por lo tanto, la expresión factorizada es $(x - 3)(x - 2)$.
@@ -258,8 +258,8 @@ Buscamos dos números que sumados den $-5$ (coeficiente de $x$) y multiplicados 
 Reste $(2a^2 - 3a + 5)$ de $(5a^2 + a - 2)$.
 
 ### Opciones
-- [ ] A) $3a^2 + 4a + 7$ <!-- feedback: Error en el signo final del término independiente. -->
-- [x] B) $3a^2 + 4a - 7$ <!-- feedback: $(5-2)a^2 + (1 - (-3))a + (-2-5) = 3a^2 + 4a - 7$. -->
+- [ ] B) $3a^2 + 4a + 7$ <!-- feedback: Error en el signo final del término independiente. -->
+- [x] A) $3a^2 + 4a - 7$ <!-- feedback: $(5-2)a^2 + (1 - (-3))a + (-2-5) = 3a^2 + 4a - 7$. -->
 - [ ] C) $7a^2 - 2a + 3$ <!-- feedback: Sumaste los polinomios en lugar de realizar la resta indicada. -->
 - [ ] D) $3a^2 - 2a - 7$ <!-- feedback: Error en el manejo del signo negativo ante el término del medio. -->
 
@@ -296,8 +296,8 @@ Es una diferencia de cuadrados perfectos: $4x^2$ es $(2x)^2$ y $25$ es $5^2$. La
 ¿Cuál es la expresión para el área del cuadrado?
 
 ### Opciones
-- [ ] A) $4x^2 - 9$ <!-- feedback: Error al no incluir el término central necesario en el cuadrado de un binomio. -->
-- [x] B) $4x^2 - 12x + 9$ <!-- feedback: $(2x - 3)^2 = (2x)^2 - 2(2x)(3) + 3^2 = 4x^2 - 12x + 9$. -->
+- [ ] B) $4x^2 - 9$ <!-- feedback: Error al no incluir el término central necesario en el cuadrado de un binomio. -->
+- [x] A) $4x^2 - 12x + 9$ <!-- feedback: $(2x - 3)^2 = (2x)^2 - 2(2x)(3) + 3^2 = 4x^2 - 12x + 9$. -->
 - [ ] C) $4x^2 + 12x + 9$ <!-- feedback: El término central debe ser negativo debido al signo del binomio original. -->
 - [ ] D) $4x - 6$ <!-- feedback: Multiplicaste por el factor 2 en lugar de elevar al cuadrado la medida del lado. -->
 
@@ -316,9 +316,9 @@ Si $v = 5$, $a = 2$ y $t = x$, ¿cuál es la expresión algebraica para la dista
 
 ### Opciones
 - [ ] A) $5x + x$ <!-- feedback: Olvidaste elevar la variable del tiempo $t$ al cuadrado en el segundo término. -->
-- [x] B) $5x + x^2$ <!-- feedback: $5(x) + \frac{1}{2}(2)(x^2) = 5x + x^2$. -->
-- [ ] C) $5x + 2x^2$ <!-- feedback: Olvidaste multiplicar por la constante $1/2$ de la fórmula original. -->
-- [ ] D) $7x^2$ <!-- feedback: No puedes sumar términos que no son semejantes entre sí ($x$ y $x^2$). -->
+- [x] D) $5x + x^2$ <!-- feedback: $5(x) + \frac{1}{2}(2)(x^2) = 5x + x^2$. -->
+- [ ] B) $5x + 2x^2$ <!-- feedback: Olvidaste multiplicar por la constante $1/2$ de la fórmula original. -->
+- [ ] C) $7x^2$ <!-- feedback: No puedes sumar términos que no son semejantes entre sí ($x$ y $x^2$). -->
 
 ### Explicacion Pedagogica
 Sustituimos las variables: $d = 5 \cdot x + \frac{1}{2} \cdot 2 \cdot x^2$. Simplificamos el segundo término: $\frac{1}{2} \cdot 2 = 1$. La expresión final es $5x + x^2$.
@@ -334,8 +334,8 @@ Sustituimos las variables: $d = 5 \cdot x + \frac{1}{2} \cdot 2 \cdot x^2$. Simp
 Simplifique la expresión $\frac{x^2 - 9}{x^2 + 6x + 9}$ para $x \neq -3$.
 
 ### Opciones
-- [ ] A) $\frac{-9}{6x+9}$ <!-- feedback: No es válido simplificar términos individuales que están sumando o restando. -->
-- [x] B) $\frac{x - 3}{x + 3}$ <!-- feedback: $\frac{(x-3)(x+3)}{(x+3)^2} = \frac{x-3}{x+3}$. -->
+- [ ] B) $\frac{-9}{6x+9}$ <!-- feedback: No es válido simplificar términos individuales que están sumando o restando. -->
+- [x] A) $\frac{x - 3}{x + 3}$ <!-- feedback: $\frac{(x-3)(x+3)}{(x+3)^2} = \frac{x-3}{x+3}$. -->
 - [ ] C) $1$ <!-- feedback: Los polinomios de numerador y denominador no son equivalentes. -->
 - [ ] D) $\frac{x + 3}{x - 3}$ <!-- feedback: Invertiste las expresiones del numerador y el denominador. -->
 
@@ -353,9 +353,9 @@ Factorizamos numerador y denominador: el numerador es una diferencia de cuadrado
 ¿Qué valor debe tener $k$ en la expresión $x^2 + 10x + k$ para que sea un cuadrado de binomio?
 
 ### Opciones
-- [ ] A) 10 <!-- feedback: El término independiente debe ser el cuadrado de la mitad del coeficiente lineal. -->
-- [ ] B) 5 <!-- feedback: Esta es la raíz cuadrada del valor que estás buscando. -->
-- [x] C) 25 <!-- feedback: $(10/2)^2 = 5^2 = 25$. -->
+- [ ] B) 10 <!-- feedback: El término independiente debe ser el cuadrado de la mitad del coeficiente lineal. -->
+- [ ] C) 5 <!-- feedback: Esta es la raíz cuadrada del valor que estás buscando. -->
+- [x] A) 25 <!-- feedback: $(10/2)^2 = 5^2 = 25$. -->
 - [ ] D) 100 <!-- feedback: Elevaste al cuadrado el coeficiente 10 sin dividirlo por 2 previamente. -->
 
 ### Explicacion Pedagogica
@@ -373,9 +373,9 @@ En un cuadrado de binomio $x^2 + 2ax + a^2$, el coeficiente de $x$ es $2a$ y el 
 
 ### Opciones
 - [ ] A) $x^3 - 8$ <!-- feedback: Olvidaste los términos intermedios generados por el cubo de un binomio. -->
-- [x] B) $x^3 - 6x^2 + 12x - 8$ <!-- feedback: Aplicando la regla $(a-b)^3 = a^3 - 3a^2b + 3ab^2 - b^3$. -->
-- [ ] C) $x^3 - 2x^2 + 4x - 8$ <!-- feedback: Olvidaste multiplicar los términos intermedios por el factor constante 3. -->
-- [ ] D) $x^3 + 6x^2 + 12x + 8$ <!-- feedback: Los signos deben alternarse necesariamente en el cubo de una resta. -->
+- [x] D) $x^3 - 6x^2 + 12x - 8$ <!-- feedback: Aplicando la regla $(a-b)^3 = a^3 - 3a^2b + 3ab^2 - b^3$. -->
+- [ ] B) $x^3 - 2x^2 + 4x - 8$ <!-- feedback: Olvidaste multiplicar los términos intermedios por el factor constante 3. -->
+- [ ] C) $x^3 + 6x^2 + 12x + 8$ <!-- feedback: Los signos deben alternarse necesariamente en el cubo de una resta. -->
 
 ### Explicacion Pedagogica
 El cubo de un binomio sigue la regla: $a^3 - 3a^2b + 3ab^2 - b^3$. Aquí $a=x$ y $b=2$. Entonces: $x^3 - 3(x^2)(2) + 3(x)(2^2) - 2^3 = x^3 - 6x^2 + 12x - 8$.

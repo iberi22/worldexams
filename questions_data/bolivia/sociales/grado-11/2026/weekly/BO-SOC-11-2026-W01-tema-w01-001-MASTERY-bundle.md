@@ -56,11 +56,11 @@ La Puerta del Sol es uno de los monumentos líticos más representativos de la c
 ¿Qué función principal cumplían las estructuras de piedra o barro llamadas 'chullpas' en el periodo de los señoríos aymaras?
 
 ### Opciones
-- [x] A) Servían como torres funerarias destinadas a albergar los restos de líderes y miembros importantes del ayllu.
+- [x] C) Servían como torres funerarias destinadas a albergar los restos de líderes y miembros importantes del ayllu.
   <!-- feedback: Correcto. Las chullpas son monumentos funerarios prehispánicos construidos por los señoríos aymaras para rendir culto a sus ancestros dándoles sepultura. -->
-- [ ] B) Eran fortificaciones de uso militar para defender las fronteras contra las incursiones de los guaraníes.
+- [ ] A) Eran fortificaciones de uso militar para defender las fronteras contra las incursiones de los guaraníes.
   <!-- feedback: Incorrecto. El propósito de las chullpas era estrictamente ritual y funerario, no militar. Las fortalezas militares se llamaban pucaras. -->
-- [ ] C) Funcionaban como silos estatales para almacenar maíz y quinua bajo el control exclusivo de los incas.
+- [ ] B) Funcionaban como silos estatales para almacenar maíz y quinua bajo el control exclusivo de los incas.
   <!-- feedback: Incorrecto. Los silos incas de almacenamiento se denominaban colcas, mientras que las chullpas pertenecían a los rituales fúnebres de los señoríos. -->
 - [ ] D) Eran observatorios astronómicos ubicados en las cumbres andinas para predecir los eclipses solares.
   <!-- feedback: Incorrecto. No eran observatorios astronómicos, sino mausoleos para el descanso de los mallkus (líderes) y sus familiares. -->
@@ -79,9 +79,9 @@ Las chullpas o torres funerarias son construcciones líticas y de adobe típicas
 ¿Cómo logró la civilización de Moxos dominar las inundaciones periódicas en los llanos del Beni para desarrollar una agricultura a gran escala?
 
 ### Opciones
-- [x] A) Mediante la construcción de extensos sistemas de lomas artificiales, canales y camellones agrícolas elevados.
+- [x] B) Mediante la construcción de extensos sistemas de lomas artificiales, canales y camellones agrícolas elevados.
   <!-- feedback: Correcto. Moxos construyó una monumental infraestructura hidráulica con camellones (terraplenes agrícolas) que evitaban que el agua inundara los cultivos. -->
-- [ ] B) Desviando el cauce completo del río Mamoré hacia las cuencas secas del altiplano mediante túneles de piedra.
+- [ ] A) Desviando el cauce completo del río Mamoré hacia las cuencas secas del altiplano mediante túneles de piedra.
   <!-- feedback: Incorrecto. Desviar un río tan caudaloso al altiplano andino era técnicamente imposible y geográficamente absurdo para la época. -->
 - [ ] C) Construyendo muros de piedra andesita traída de los Andes a lo largo de todas las riberas del río Beni.
   <!-- feedback: Incorrecto. Moxos se ubica en tierras bajas donde no hay canteras de andesita. Su ingeniería se basó principalmente en el movimiento de tierra y arcilla. -->
@@ -194,13 +194,13 @@ La decadencia de Tiwanaku está estrechamente ligada a una crisis medioambiental
 Si aplicamos los conceptos de reciprocidad andina al trabajo agrícola prehispánico, ¿cómo se diferencia la 'Minka' del 'Ayni'?
 
 ### Opciones
-- [x] A) La Minka es el trabajo colectivo para beneficio de toda la comunidad, mientras que el Ayni es la ayuda mutua recíproca entre familias individuales.
+- [x] D) La Minka es el trabajo colectivo para beneficio de toda la comunidad, mientras que el Ayni es la ayuda mutua recíproca entre familias individuales.
   <!-- feedback: Correcto. El Ayni se resume en 'hoy por ti, mañana por mí' (ayuda inter-familiar), mientras que la Minka moviliza al colectivo para obras comunitarias. -->
-- [ ] B) La Minka era el tributo en oro pagado a los templos y el Ayni era el castigo físico por desobediencia civil en el ayllu.
+- [ ] A) La Minka era el tributo en oro pagado a los templos y el Ayni era el castigo físico por desobediencia civil en el ayllu.
   <!-- feedback: Incorrecto. Ninguno de los dos conceptos implica castigo o tributo monetario en metales, sino sistemas de trabajo y cooperación social. -->
-- [ ] C) El Ayni se realizaba exclusivamente en tierras bajas y la Minka era un derecho de las cumbres andinas.
+- [ ] B) El Ayni se realizaba exclusivamente en tierras bajas y la Minka era un derecho de las cumbres andinas.
   <!-- feedback: Incorrecto. Ambas prácticas eran transversales a todo el ámbito andino y de valles, sin limitación altitudinal o geográfica. -->
-- [ ] D) La Minka requería el uso de herramientas metálicas avanzadas y el Ayni se hacía con las manos desnudas en el campo.
+- [ ] C) La Minka requería el uso de herramientas metálicas avanzadas y el Ayni se hacía con las manos desnudas en el campo.
   <!-- feedback: Incorrecto. Los pueblos andinos no usaban hierro. Utilizaban herramientas agrícolas líticas y de madera dura (como la chakitaklla). -->
 
 ### Explicacion Pedagogica
@@ -217,9 +217,9 @@ El Ayni y la Minka son pilares éticos y prácticos de la economía andina. Perm
 ¿Qué mecanismo aplicaban los pueblos precolombinos para intercambiar maíz, yuca, sal y pescado entre la Amazonía y el Altiplano?
 
 ### Opciones
-- [x] A) El trueque directo (chhalaku) a través de caravanas de llamas que recorrían los caminos y valles interandinos.
+- [x] B) El trueque directo (chhalaku) a través de caravanas de llamas que recorrían los caminos y valles interandinos.
   <!-- feedback: Correcto. El chhalaku o trueque era el sistema de intercambio por excelencia, conectando productos altiplánicos (papa, sal, carne de llama) con los valles y llanos (coca, maíz, yuca). -->
-- [ ] B) Un sistema monetario basado en monedas de estaño acuñadas en los templos ceremoniales de Tiwanaku.
+- [ ] A) Un sistema monetario basado en monedas de estaño acuñadas en los templos ceremoniales de Tiwanaku.
   <!-- feedback: Incorrecto. Tiwanaku y las culturas andinas no tenían moneda metálica acuñada ni de estaño ni de otros metales. -->
 - [ ] C) El cobro de impuestos mediante tarjetas de arcilla grabadas con quipus de colores bajo el dominio incaico.
   <!-- feedback: Incorrecto. Los quipus eran sistemas mnemotécnicos de nudos para contabilidad, no se utilizaban como 'tarjetas de cobro de impuestos' o monedas. -->
@@ -240,9 +240,9 @@ El chhalaku o trueque posibilitó la complementariedad económica entre regiones
 ¿Cuál fue el principal avance metalúrgico de Tiwanaku que mejoró la resistencia de sus herramientas y grapas de sujeción?
 
 ### Opciones
-- [x] A) La invención del bronce arsenical y bronce estannífero mediante la aleación deliberada de cobre y estaño.
+- [x] B) La invención del bronce arsenical y bronce estannífero mediante la aleación deliberada de cobre y estaño.
   <!-- feedback: Correcto. Tiwanaku revolucionó la metalurgia andina al producir bronce de alta calidad, utilizado para herramientas agrícolas, armas y grapas de sujeción lítica. -->
-- [ ] B) La fundición masiva de acero templado mediante hornos industriales alimentados por carbón mineral.
+- [ ] A) La fundición masiva de acero templado mediante hornos industriales alimentados por carbón mineral.
   <!-- feedback: Incorrecto. El acero templado y el carbón industrial son invenciones modernas muy posteriores, ajenas a las sociedades prehispánicas. -->
 - [ ] C) El uso exclusivo de pepitas de oro puro sin alear para la fabricación de arados de tracción vacuna.
   <!-- feedback: Incorrecto. El oro puro es sumamente blando e inútil para trabajos pesados de arado; además, no existían animales de tiro antes de la colonización. -->
@@ -309,13 +309,13 @@ La desintegración de Tiwanaku devela una crisis que eliminó el control central
 ¿De qué manera el Imperio Incaico (Tahuantinsuyo) logró anexar a los señoríos aymaras en el siglo XV sin destruir sus liderazgos?
 
 ### Opciones
-- [x] A) A través de alianzas matrimoniales, diplomacia y el respeto a la autoridad de los mallkus locales a cambio de tributo en trabajo (mita).
+- [x] D) A través de alianzas matrimoniales, diplomacia y el respeto a la autoridad de los mallkus locales a cambio de tributo en trabajo (mita).
   <!-- feedback: Correcto. Los incas integraron el Collasuyo principalmente mediante negociaciones y alianzas con los poderosos jefes aymaras (mallkus), subordinándolos de forma indirecta. -->
-- [ ] B) Exterminando militarmente a toda la población que hablara lengua aymara para poblar con colonos cuzqueños.
+- [ ] A) Exterminando militarmente a toda la población que hablara lengua aymara para poblar con colonos cuzqueños.
   <!-- feedback: Incorrecto. Los incas no cometieron exterminios lingüísticos; de hecho, el aymara fue respetado y continuó siendo una lengua de gran prestigio en el Tahuantinsuyo. -->
-- [ ] C) Imponiendo la propiedad privada de la tierra de cultivo mediante títulos registrados en Chuquisaca.
+- [ ] B) Imponiendo la propiedad privada de la tierra de cultivo mediante títulos registrados en Chuquisaca.
   <!-- feedback: Incorrecto. La propiedad privada y el catastro escrito de Chuquisaca corresponden a la época republicana y colonial, no al imperio incaico. -->
-- [ ] D) Prohibiendo las prácticas agrícolas andinas para forzar el pastoreo exclusivo en la costa chilena.
+- [ ] C) Prohibiendo las prácticas agrícolas andinas para forzar el pastoreo exclusivo en la costa chilena.
   <!-- feedback: Incorrecto. El imperio incaico potenció los suka kollus, terrazas y camellones andinos para alimentar a la población, no los prohibió. -->
 
 ### Explicacion Pedagogica
@@ -332,13 +332,13 @@ El Collasuyo (región sur del Tahuantinsuyo) era una de las zonas más ricas por
 ¿Qué rol político y de representación desempeñaban las mujeres de la élite de los señoríos aymaras en la sociedad prehispánica?
 
 ### Opciones
-- [x] A) Gobernaban conjuntamente con los mallkus en un modelo de dualidad de género, y lideraban ceremonias asociadas a la fertilidad y la Pachamama.
+- [x] D) Gobernaban conjuntamente con los mallkus en un modelo de dualidad de género, y lideraban ceremonias asociadas a la fertilidad y la Pachamama.
   <!-- feedback: Correcto. El mundo andino se rige por el principio de la dualidad (chachawarmi: hombre-mujer), donde la mujer de élite compartía esferas de representación y ritualidad. -->
-- [ ] B) Eran recluidas obligatoriamente en conventos de clausura similares a los de la Europa medieval bajo voto de silencio.
+- [ ] A) Eran recluidas obligatoriamente en conventos de clausura similares a los de la Europa medieval bajo voto de silencio.
   <!-- feedback: Incorrecto. Los conventos de clausura no existían en América antes de los españoles; la mujer andina tenía una activa participación productiva y sagrada. -->
-- [ ] C) Servían únicamente como mano de obra para la extracción de metales pesados en profundas minas de estaño.
+- [ ] B) Servían únicamente como mano de obra para la extracción de metales pesados en profundas minas de estaño.
   <!-- feedback: Incorrecto. La minería pesada profunda no era la actividad económica primordial de las mujeres, y el estaño no se extraía antes de la era republicana. -->
-- [ ] D) Viajaban de forma constante a Europa para educarse en ciencias políticas y comercio mercantil.
+- [ ] C) Viajaban de forma constante a Europa para educarse en ciencias políticas y comercio mercantil.
   <!-- feedback: Incorrecto. Es un completo anacronismo e imposibilidad física dada la falta de conexiones transoceánicas en el periodo prehispánico. -->
 
 ### Explicacion Pedagogica
@@ -355,13 +355,13 @@ La dualidad de género o 'chachawarmi' estructuraba el orden social de los seño
 Al analizar las monumentales obras hidráulicas de la cultura de Baures o Moxos, ¿qué conclusión sobre las sociedades de las tierras bajas bolivianas es correcta?
 
 ### Opciones
-- [x] A) Que poseían sociedades complejas de alta densidad demográfica y una división del trabajo capaz de organizar monumentales obras públicas.
+- [x] D) Que poseían sociedades complejas de alta densidad demográfica y una división del trabajo capaz de organizar monumentales obras públicas.
   <!-- feedback: Correcto. Las lomas artificiales y canales de Moxos y Baures demuestran que las tierras bajas albergaban grandes civilizaciones organizadas, desmitificando la idea de que solo eran tribus nómadas dispersas. -->
-- [ ] B) Que eran colonias agrícolas dependientes que dependían del envío de ingenieros desde el Cuzco.
+- [ ] A) Que eran colonias agrícolas dependientes que dependían del envío de ingenieros desde el Cuzco.
   <!-- feedback: Incorrecto. Estas culturas hidráulicas se desarrollaron de manera independiente y autónoma de la ingeniería incaica, adaptadas a su propio ecosistema tropical. -->
-- [ ] C) Que sus obras se debieron al adiestramiento de animales prehistóricos domésticos para excavar grandes canales.
+- [ ] B) Que sus obras se debieron al adiestramiento de animales prehistóricos domésticos para excavar grandes canales.
   <!-- feedback: Incorrecto. Es una afirmación absurda y sin base científica alguna; no existían animales prehistóricos domesticados para este fin en la época precolombina. -->
-- [ ] D) Que abandonaron por completo la agricultura de inundación para dedicarse a la exportación de metales finos por el río Madera.
+- [ ] C) Que abandonaron por completo la agricultura de inundación para dedicarse a la exportación de metales finos por el río Madera.
   <!-- feedback: Incorrecto. Su sustento era puramente agrícola y pesquero; no existía la exportación comercial mercantil de metales preciosos al extranjero. -->
 
 ### Explicacion Pedagogica
@@ -378,9 +378,9 @@ La arqueología contemporánea ha reivindicado a las civilizaciones de los Llano
 ¿Qué función de control territorial y ritual cumplían fortalezas fronterizas como el sitio de Samaipata?
 
 ### Opciones
-- [x] A) Eran centros ceremoniales, administrativos y de resguardo defensivo frente a los avances de los chiriguanos (guaraníes) desde el Chaco Boreal.
+- [x] B) Eran centros ceremoniales, administrativos y de resguardo defensivo frente a los avances de los chiriguanos (guaraníes) desde el Chaco Boreal.
   <!-- feedback: Correcto. El Fuerte de Samaipata cumplía un rol de integración político-cultural andina y defensa militar fronteriza ante las incursiones de los pueblos de tierras bajas. -->
-- [ ] B) Funcionaban como aduanas para el cobro de peaje mercantil en monedas de plata a los conquistadores españoles.
+- [ ] A) Funcionaban como aduanas para el cobro de peaje mercantil en monedas de plata a los conquistadores españoles.
   <!-- feedback: Incorrecto. Samaipata es de origen prehispánico (previó a la conquista española) y no existía el cobro mercantilista en monedas de plata. -->
 - [ ] C) Eran puertos fluviales construidos para facilitar el comercio de canoas entre la cuenca del Amazonas y el océano Pacífico.
   <!-- feedback: Incorrecto. Samaipata es una estructura lítica tallada en una montaña andina elevada, no un puerto fluvial. -->
@@ -447,13 +447,13 @@ Frente al cambio climático global, la sabiduría andina del control vertical de
 Considerando las corrientes historiográficas de Bolivia, ¿cómo ha transformado el descubrimiento de la civilización hidráulica de Moxos la comprensión del pasado boliviano?
 
 ### Opciones
-- [x] A) Desafió la visión andino-céntrica al demostrar que las selvas tropicales fueron cunas de civilizaciones complejas y no solo refugios de cazadores nómadas dispersos.
+- [x] D) Desafió la visión andino-céntrica al demostrar que las selvas tropicales fueron cunas de civilizaciones complejas y no solo refugios de cazadores nómadas dispersos.
   <!-- feedback: Correcto. El hallazgo de Moxos rompió el paradigma de que solo la región andina albergó sociedades altamente desarrolladas en Bolivia, elevando la importancia histórica de la Amazonía. -->
-- [ ] B) Confirmó que todos los habitantes prehispánicos emigraron directamente desde las riberas del mar Mediterráneo oriental.
+- [ ] A) Confirmó que todos los habitantes prehispánicos emigraron directamente desde las riberas del mar Mediterráneo oriental.
   <!-- feedback: Incorrecto. Carece de cualquier fundamento científico; las migraciones americanas tempranas ocurrieron por el estrecho de Bering, sin relación con el Mediterráneo. -->
-- [ ] C) Demostró que las tierras bajas eran completamente inhabitables antes del establecimiento de las misiones coloniales jesuitas.
+- [ ] B) Demostró que las tierras bajas eran completamente inhabitables antes del establecimiento de las misiones coloniales jesuitas.
   <!-- feedback: Incorrecto. Los terraplenes y canales de Moxos datan de miles de años antes de la colonia, probando una ocupación densa y de alta ingeniería prehispánica. -->
-- [ ] D) Validó la tesis de que las lomas del Beni fueron formadas por la caída fortuita de meteoritos gigantes durante la prehistoria.
+- [ ] C) Validó la tesis de que las lomas del Beni fueron formadas por la caída fortuita de meteoritos gigantes durante la prehistoria.
   <!-- feedback: Incorrecto. Las lomas de Moxos son depósitos y construcciones de origen antrópico (hechas por humanos), no cráteres de meteoritos. -->
 
 ### Explicacion Pedagogica

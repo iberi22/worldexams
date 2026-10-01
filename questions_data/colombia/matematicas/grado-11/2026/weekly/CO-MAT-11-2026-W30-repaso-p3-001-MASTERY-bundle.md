@@ -34,13 +34,13 @@ Este bundle contiene 20 preguntas sobre **Repaso Periodo 3** para grado 11, alin
 ¿Cuál es el área calculada por integración definida?
 
 ### Opciones
-- [x] A) 4
+- [x] D) 4
   <!-- feedback: Correcto. $\int_0^2 x^3 dx = [\frac{x^4}{4}]_0^2 = \frac{16}{4} = 4$. -->
-- [ ] B) 8
+- [ ] A) 8
   <!-- feedback: Incorrecto. Se olvidó dividir entre 4 al antiderivar $x^3$. -->
-- [ ] C) 16
+- [ ] B) 16
   <!-- feedback: Incorrecto. Se evaluó $2^4 = 16$ sin integrar. -->
-- [ ] D) 2
+- [ ] C) 2
   <!-- feedback: Incorrecto. Error al simplificar la fracción. -->
 
 ### Explicacion Pedagogica
@@ -103,13 +103,13 @@ $M = (\frac{2}{2}, \frac{10}{2}) = (1, 5)$.
 ¿Cuál es su ecuación canónica?
 
 ### Opciones
-- [x] A) $x^2 + y^2 = 36$
+- [x] D) $x^2 + y^2 = 36$
   <!-- feedback: Correcto. $x^2 + y^2 = 6^2 = 36$. -->
-- [ ] B) $x^2 + y^2 = 6$
+- [ ] A) $x^2 + y^2 = 6$
   <!-- feedback: Incorrecto. Se omitió elevar el radio al cuadrado. -->
-- [ ] C) $x^2 + y^2 = 12$
+- [ ] B) $x^2 + y^2 = 12$
   <!-- feedback: Incorrecto. Se multiplicó por 2 en lugar de elevar al cuadrado. -->
-- [ ] D) $(x-6)^2 + y^2 = 36$
+- [ ] C) $(x-6)^2 + y^2 = 36$
   <!-- feedback: Incorrecto. Corresponde a un centro desplazado en $(6,0)$. -->
 
 ### Explicacion Pedagogica
@@ -126,9 +126,9 @@ $x^2 + y^2 = R^2 = 36$.
 ¿Cuál es el área encerrada?
 
 ### Opciones
-- [x] A) $\frac{1}{6}$
+- [x] B) $\frac{1}{6}$
   <!-- feedback: Correcto. $\int_0^1 (x - x^2) dx = [\frac{x^2}{2} - \frac{x^3}{3}]_0^1 = \frac{1}{2} - \frac{1}{3} = \frac{1}{6}$. -->
-- [ ] B) $\frac{1}{3}$
+- [ ] A) $\frac{1}{3}$
   <!-- feedback: Incorrecto. Error al restar fracciones. -->
 - [ ] C) $\frac{1}{2}$
   <!-- feedback: Incorrecto. Corresponde solo a la integral de $x$. -->
@@ -149,13 +149,13 @@ $\int_0^1 (x - x^2) dx = \frac{1}{2} - \frac{1}{3} = \frac{1}{6}$.
 ¿Cuáles son las coordenadas de $P'$?
 
 ### Opciones
-- [x] A) $(1, 3)$
+- [x] D) $(1, 3)$
   <!-- feedback: Correcto. $(3+(-2), -1+4) = (1, 3)$. -->
-- [ ] B) $(-6, -4)$
+- [ ] A) $(-6, -4)$
   <!-- feedback: Incorrecto. Se multiplicaron las coordenadas. -->
-- [ ] C) $(5, -5)$
+- [ ] B) $(5, -5)$
   <!-- feedback: Incorrecto. Se restó el vector. -->
-- [ ] D) $(1, -3)$
+- [ ] C) $(1, -3)$
   <!-- feedback: Incorrecto. Error de signo en la ordenada. -->
 
 ### Explicacion Pedagogica
@@ -172,9 +172,9 @@ $P' = (3-2, -1+4) = (1, 3)$.
 ¿Cuál es el valor del límite?
 
 ### Opciones
-- [x] A) 3
+- [x] B) 3
   <!-- feedback: Correcto. Razón de coeficientes de mayor grado: $\frac{6}{2} = 3$. -->
-- [ ] B) 6
+- [ ] A) 6
   <!-- feedback: Incorrecto. Se tomó solo el numerador. -->
 - [ ] C) 0
   <!-- feedback: Incorrecto. Los grados son iguales, no es 0. -->
@@ -195,11 +195,11 @@ $P' = (3-2, -1+4) = (1, 3)$.
 ¿Cuáles son sus coordenadas polares con $r > 0$?
 
 ### Opciones
-- [x] A) $(4, \frac{\pi}{2})$
+- [x] C) $(4, \frac{\pi}{2})$
   <!-- feedback: Correcto. $r = 4$, punto sobre el eje $+y$ $\implies \theta = \frac{\pi}{2}$. -->
-- [ ] B) $(4, 0)$
+- [ ] A) $(4, 0)$
   <!-- feedback: Incorrecto. Corresponde al punto $(4,0)$ sobre el eje $+x$. -->
-- [ ] C) $(4, \pi)$
+- [ ] B) $(4, \pi)$
   <!-- feedback: Incorrecto. Corresponde al punto $(-4,0)$ sobre el eje $-x$. -->
 - [ ] D) $(2, \frac{\pi}{2})$
   <!-- feedback: Incorrecto. Radio incorrecto. -->
@@ -241,13 +241,13 @@ $S_5 = \frac{a_1(r^5 - 1)}{r - 1} = \frac{1(32 - 1)}{1} = 31$.
 ¿Cuáles son las coordenadas de los focos?
 
 ### Opciones
-- [x] A) $(\pm 3, 0)$
+- [x] D) $(\pm 3, 0)$
   <!-- feedback: Correcto. $c = \sqrt{25 - 16} = \sqrt{9} = 3$. Focos en $(\pm 3, 0)$. -->
-- [ ] B) $(0, \pm 3)$
+- [ ] A) $(0, \pm 3)$
   <!-- feedback: Incorrecto. La elipse es horizontal, los focos están en el eje $x$. -->
-- [ ] C) $(\pm 9, 0)$
+- [ ] B) $(\pm 9, 0)$
   <!-- feedback: Incorrecto. Se olvidó sacar la raíz cuadrada a $c^2 = 9$. -->
-- [ ] D) $(\pm 5, 0)$
+- [ ] C) $(\pm 5, 0)$
   <!-- feedback: Incorrecto. Esos son los vértices mayores. -->
 
 ### Explicacion Pedagogica
@@ -310,13 +310,13 @@ $d = \frac{|3+4+3|}{5} = \frac{10}{5} = 2$.
 Usando $x = y/3$, ¿cuál es el volumen del sólido por discos?
 
 ### Opciones
-- [x] A) \pi
+- [x] D) \pi
   <!-- feedback: Correcto. $V = \pi \int_0^3 (y/3)^2 dy = \frac{\pi}{9} [\frac{y^3}{3}]_0^3 = \frac{\pi}{9} (9) = \pi$. -->
-- [ ] B) 3\pi
+- [ ] A) 3\pi
   <!-- feedback: Incorrecto. Se olvidó elevar 3 al cuadrado en el denominador. -->
-- [ ] C) 9\pi
+- [ ] B) 9\pi
   <!-- feedback: Incorrecto. Se rotó sobre el eje $x$. -->
-- [ ] D) \frac{\pi}{3}
+- [ ] C) \frac{\pi}{3}
   <!-- feedback: Incorrecto. Error al simplificar la fracción. -->
 
 ### Explicacion Pedagogica
@@ -333,13 +333,13 @@ $V = \pi \int_0^3 \frac{y^2}{9} dy = \frac{\pi}{9} \left( \frac{27}{3} \right) =
 ¿Cuál es la conclusión del análisis de convergencia?
 
 ### Opciones
-- [x] A) Converge absolutamente.
+- [x] D) Converge absolutamente.
   <!-- feedback: Correcto. La serie de valores absolutos es $\sum \frac{1}{n^2}$, una $p$-serie con $p=2 > 1$, la cual converge. -->
-- [ ] B) Converge condicionalmente.
+- [ ] A) Converge condicionalmente.
   <!-- feedback: Incorrecto. Para ser condicional la serie de valores absolutos debería diverger. -->
-- [ ] C) Diverge.
+- [ ] B) Diverge.
   <!-- feedback: Incorrecto. Es absolutamente convergente. -->
-- [ ] D) El criterio de $p$-series no aplica.
+- [ ] C) El criterio de $p$-series no aplica.
   <!-- feedback: Incorrecto. Aplica directamente a los valores absolutos. -->
 
 ### Explicacion Pedagogica
@@ -356,13 +356,13 @@ $V = \pi \int_0^3 \frac{y^2}{9} dy = \frac{\pi}{9} \left( \frac{27}{3} \right) =
 ¿Cuál es el volumen exacto?
 
 ### Opciones
-- [x] A) $\frac{32}{3}\pi$
+- [x] D) $\frac{32}{3}\pi$
   <!-- feedback: Correcto. $V = \frac{4}{3}\pi (2^3) = \frac{32}{3}\pi$. -->
-- [ ] B) $16\pi$
+- [ ] A) $16\pi$
   <!-- feedback: Incorrecto. Se omitió el factor $4/3$. -->
-- [ ] C) $\frac{16}{3}\pi$
+- [ ] B) $\frac{16}{3}\pi$
   <!-- feedback: Incorrecto. Se integró solo en el semieje positivo. -->
-- [ ] D) $32\pi$
+- [ ] C) $32\pi$
   <!-- feedback: Incorrecto. Se multiplicó por 4 de más. -->
 
 ### Explicacion Pedagogica
@@ -379,13 +379,13 @@ Fórmula esférica $V = \frac{4}{3}\pi r^3 = \frac{32}{3}\pi$.
 ¿Cuál es el ángulo de inclinación?
 
 ### Opciones
-- [x] A) $45^\circ$
+- [x] D) $45^\circ$
   <!-- feedback: Correcto. $\tan(\theta) = 1 \implies \theta = 45^\circ$. -->
-- [ ] B) $90^\circ$
+- [ ] A) $90^\circ$
   <!-- feedback: Incorrecto. Corresponde a una recta vertical. -->
-- [ ] C) $30^\circ$
+- [ ] B) $30^\circ$
   <!-- feedback: Incorrecto. $\tan(30^\circ) = 1/\sqrt{3}$. -->
-- [ ] D) $60^\circ$
+- [ ] C) $60^\circ$
   <!-- feedback: Incorrecto. $\tan(60^\circ) = \sqrt{3}$. -->
 
 ### Explicacion Pedagogica
@@ -448,13 +448,13 @@ $S = \frac{a}{1-r} = \frac{1}{2/3} = \frac{3}{2}$.
 ¿Cuál es el valor exacto de su excentricidad $e$?
 
 ### Opciones
-- [x] A) 1
+- [x] D) 1
   <!-- feedback: Correcto. Por definición geométrica, toda parábola tiene excentricidad $e = 1$. -->
-- [ ] B) 0
+- [ ] A) 0
   <!-- feedback: Incorrecto. 0 es la excentricidad de una circunferencia. -->
-- [ ] C) 0.5
+- [ ] B) 0.5
   <!-- feedback: Incorrecto. $e < 1$ corresponde a una elipse. -->
-- [ ] D) 2
+- [ ] C) 2
   <!-- feedback: Incorrecto. $e > 1$ corresponde a una hipérbola. -->
 
 ### Explicacion Pedagogica
@@ -471,9 +471,9 @@ La excentricidad $e$ de toda parábola es por definición igual a 1.
 ¿Qué condición requiere la función $f(x)$ en $[a, b]$ para que este teorema sea aplicable directamente?
 
 ### Opciones
-- [x] A) Que $f(x)$ sea continua en el intervalo cerrado $[a, b]$.
+- [x] B) Que $f(x)$ sea continua en el intervalo cerrado $[a, b]$.
   <!-- feedback: Correcto. La continuidad de $f$ garantiza la existencia de la antiderivada $F$ y la validez del teorema. -->
-- [ ] B) Que $f(x)$ sea siempre positiva en $[a, b]$.
+- [ ] A) Que $f(x)$ sea siempre positiva en $[a, b]$.
   <!-- feedback: Incorrecto. Puede tomar valores negativos (el área neta considera signos). -->
 - [ ] C) Que $f(x)$ sea una función polinómica obligatoriamente.
   <!-- feedback: Incorrecto. Aplica a cualquier función continua. -->

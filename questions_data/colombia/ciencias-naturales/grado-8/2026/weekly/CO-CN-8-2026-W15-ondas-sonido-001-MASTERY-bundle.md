@@ -32,9 +32,9 @@ Preguntas sobre ondas mecánicas, sonido, eco y aplicaciones acústicas en conte
 ### Enunciado
 Una onda es una perturbación que:
 ### Opciones
-- [x] A) transporta energía sin transportar materia de manera permanente
+- [x] B) transporta energía sin transportar materia de manera permanente
   <!-- feedback: Las ondas transmiten energía a través de un medio, pero las partículas del medio oscilan en su lugar y no se desplazan con la onda. -->
-- [ ] B) requiere siempre un medio sólido para propagarse
+- [ ] A) requiere siempre un medio sólido para propagarse
   <!-- feedback: Las ondas mecánicas pueden viajar por sólidos, líquidos y gases; no requieren únicamente un sólido. -->
 - [ ] C) transporta materia y energía a la misma velocidad
   <!-- feedback: En una onda la materia del medio oscila localmente; lo que se propaga es la energía, no la materia. -->
@@ -74,9 +74,9 @@ En las ondas longitudinales, las partículas del medio vibran en la misma direcc
 ### Enunciado
 Si una onda en una cuerda tiene una longitud de onda de 2 m y una frecuencia de 4 Hz, su rapidez de propagación es:
 ### Opciones
-- [x] A) 8 m/s
+- [x] B) 8 m/s
   <!-- feedback: v = f * λ = 4 Hz * 2 m = 8 m/s, cálculo correcto. -->
-- [ ] B) 2 m/s
+- [ ] A) 2 m/s
   <!-- feedback: Obtendrías 2 m/s solo si confundieras frecuencia con longitud de onda. -->
 - [ ] C) 0,5 m/s
   <!-- feedback: Dividir en lugar de multiplicar la frecuencia por la longitud de onda produce este valor incorrecto. -->
@@ -95,9 +95,9 @@ La rapidez de propagación v de una onda se calcula como v = f · λ, donde f es
 ### Enunciado
 Una persona emite un grito frente a una pared dentro de la Catedral de Sal de Zipaquirá y escucha el eco 0,6 s después. Si la rapidez del sonido en el aire es aproximadamente 340 m/s, ¿a qué distancia se encuentra la pared?
 ### Opciones
-- [x] A) 102 m
+- [x] B) 102 m
   <!-- feedback: d = (340 m/s × 0,6 s)/2 = 102 m, porque el sonido recorre el camino de ida y vuelta. -->
-- [ ] B) 204 m
+- [ ] A) 204 m
   <!-- feedback: 204 m sería si el sonido solo recorriera la distancia, pero debe ir y volver al oyente. -->
 - [ ] C) 56,6 m
   <!-- feedback: Dividir sin considerar el recorrido total de ida y vuelta lleva a este resultado incompleto. -->
@@ -116,11 +116,11 @@ En un eco, el sonido viaja desde la fuente hasta la superficie reflectante y reg
 ### Enunciado
 Un micrófono registra un sonido con frecuencia de 440 Hz. Si la longitud de onda en el aire es aproximadamente 0,78 m, ¿cuál es la rapidez del sonido en ese medio?
 ### Opciones
-- [x] A) 343,2 m/s
+- [x] C) 343,2 m/s
   <!-- feedback: v = f · λ = 440 Hz × 0,78 m = 343,2 m/s, valor cercano al esperado para el aire. -->
-- [ ] B) 5,6 m/s
+- [ ] A) 5,6 m/s
   <!-- feedback: Dividir 440 entre 0,78 produciría ese valor, pero la fórmula correcta es multiplicar. -->
-- [ ] C) 56,4 m/s
+- [ ] B) 56,4 m/s
   <!-- feedback: Ese valor no corresponde ni a multiplicar ni a dividir correctamente los datos dados. -->
 - [ ] D) 440 m/s
   <!-- feedback: 440 m/s solo conserva la frecuencia, sin multiplicar por la longitud de onda. -->
@@ -137,9 +137,9 @@ Para cualquier onda periódica, la rapidez se obtiene multiplicando la frecuenci
 ### Enunciado
 Dos cajas emiten sonidos: una con frecuencia de 200 Hz y otra con 600 Hz. Si se escuchan en el mismo aire, se puede afirmar que:
 ### Opciones
-- [x] A) el sonido de 600 Hz tiene menor longitud de onda que el de 200 Hz
+- [x] B) el sonido de 600 Hz tiene menor longitud de onda que el de 200 Hz
   <!-- feedback: Como v es constante en el mismo medio, mayor frecuencia implica menor longitud de onda. -->
-- [ ] B) el sonido de 200 Hz viaja más rápido que el de 600 Hz
+- [ ] A) el sonido de 200 Hz viaja más rápido que el de 600 Hz
   <!-- feedback: En el mismo medio y condiciones, la rapidez del sonido no depende de la frecuencia audible. -->
 - [ ] C) el sonido de 600 Hz tiene mayor amplitud que el de 200 Hz
   <!-- feedback: La frecuencia y la amplitud son propiedades independientes; no se puede concluir eso solo con los datos. -->
@@ -158,11 +158,11 @@ En un mismo medio, la rapidez del sonido es prácticamente constante, así que �
 ### Enunciado
 Un diapasón vibra con una frecuencia de 256 Hz. ¿Cuál es el período de la onda sonora emitida?
 ### Opciones
-- [x] A) 3,9 × 10⁻³ s
+- [x] C) 3,9 × 10⁻³ s
   <!-- feedback: T = 1/f = 1/256 Hz ≈ 0,0039 s, que equivale a 3,9 × 10⁻³ s. -->
-- [ ] B) 256 s
+- [ ] A) 256 s
   <!-- feedback: El período no es igual a la frecuencia; debe calcularse como el inverso. -->
-- [ ] C) 2,56 × 10⁻² s
+- [ ] B) 2,56 × 10⁻² s
   <!-- feedback: Ese valor corresponde a 1/39, no al inverso correcto de 256 Hz. -->
 - [ ] D) 0,256 s
   <!-- feedback: 0,256 s es 100 veces mayor que el período real; confundiría milisegundos con segundos. -->
@@ -179,11 +179,11 @@ El período T es el tiempo que tarda la onda en completar un ciclo y se relacion
 ### Enunciado
 Una nota grave emitida por un bombardino en una comparsa del Carnaval de Barranquilla tiene una frecuencia de 100 Hz, mientras que una aguda del redoblante tiene 2000 Hz. Comparando ambas en el mismo aire:
 ### Opciones
-- [x] A) la nota grave tiene mayor longitud de onda que la aguda
+- [x] C) la nota grave tiene mayor longitud de onda que la aguda
   <!-- feedback: λ = v/f; al ser la misma v, una frecuencia menor produce mayor longitud de onda. -->
-- [ ] B) la nota aguda viaja más rápido que la grave
+- [ ] A) la nota aguda viaja más rápido que la grave
   <!-- feedback: En el mismo medio, la rapidez del sonido es prácticamente igual para ambas frecuencias. -->
-- [ ] C) la nota grave tiene mayor frecuencia que la aguda
+- [ ] B) la nota grave tiene mayor frecuencia que la aguda
   <!-- feedback: Por definición, los sonidos graves tienen menor frecuencia que los agudos. -->
 - [ ] D) ambas notas tienen la misma longitud de onda
   <!-- feedback: Las longitudes de onda son distintas porque las frecuencias son distintas. -->
@@ -221,11 +221,11 @@ La intensidad o volumen percibido depende de la amplitud de la onda: a mayor amp
 ### Enunciado
 En una cuerda tensa, si se duplica la frecuencia manteniendo constante la rapidez de la onda, ¿qué ocurre con la longitud de onda?
 ### Opciones
-- [x] A) se reduce a la mitad
+- [x] C) se reduce a la mitad
   <!-- feedback: λ = v/f; si f se duplica y v no cambia, λ se reduce a la mitad. -->
-- [ ] B) se duplica
+- [ ] A) se duplica
   <!-- feedback: Si la frecuencia aumenta, la longitud de onda disminuye, no aumenta. -->
-- [ ] C) se cuadruplica
+- [ ] B) se cuadruplica
   <!-- feedback: Cuadruplicar λ requeriría multiplicar por 4 el denominador, no duplicar la frecuencia. -->
 - [ ] D) permanece igual
   <!-- feedback: Cambiar f manteniendo v constante obliga a cambiar λ de manera inversa. -->
@@ -242,13 +242,13 @@ La relación λ = v/f indica que la longitud de onda y la frecuencia son inversa
 ### Enunciado
 Una turista ubicada a 170 m de una pared escucha el eco de su voz. Si la rapidez del sonido es 340 m/s, ¿cuál de las siguientes afirmaciones es correcta?
 ### Opciones
-- [x] A) El sonido tarda 1 s en regresar a la turista, pues recorre 340 m de ida y vuelta
+- [x] D) El sonido tarda 1 s en regresar a la turista, pues recorre 340 m de ida y vuelta
   <!-- feedback: t = 2d/v = 2(170)/340 = 1 s, coherente con un eco perceptible. -->
-- [ ] B) El sonido tarda 0,5 s en regresar, porque recorre solo la mitad de la distancia
+- [ ] A) El sonido tarda 0,5 s en regresar, porque recorre solo la mitad de la distancia
   <!-- feedback: El sonido debe ir hasta la pared y volver, por lo que recorre toda la distancia de ida y vuelta. -->
-- [ ] C) El sonido regresa al instante porque la distancia es pequeña
+- [ ] B) El sonido regresa al instante porque la distancia es pequeña
   <!-- feedback: A 170 m de ida y vuelta el sonido tarda 1 s, no se percibe como instantáneo. -->
-- [ ] D) El eco se produce porque la onda se vuelve transversal al reflejarse
+- [ ] C) El eco se produce porque la onda se vuelve transversal al reflejarse
   <!-- feedback: El sonido sigue siendo longitudinal al reflejarse; el cambio de dirección no altera su tipo. -->
 
 ### Explicacion Pedagogica
@@ -263,13 +263,13 @@ El eco ocurre cuando el sonido reflejado llega al oído al menos 0,1 s después 
 ### Enunciado
 Un estudiante afirma que "en el vacío el sonido no se propaga porque es una onda mecánica". ¿Cuál de los siguientes argumentos respalda mejor esa afirmación?
 ### Opciones
-- [x] A) Las ondas mecánicas necesitan un medio material para transmitir su energía, y el vacío carece de él
+- [x] D) Las ondas mecánicas necesitan un medio material para transmitir su energía, y el vacío carece de él
   <!-- feedback: El sonido es onda mecánica: requiere partículas del medio para propagarse, y el vacío no las tiene. -->
-- [ ] B) Las ondas electromagnéticas, como la luz, sí pueden viajar en el vacío, igual que el sonido
+- [ ] A) Las ondas electromagnéticas, como la luz, sí pueden viajar en el vacío, igual que el sonido
   <!-- feedback: Esa es una diferencia clave: las ondas electromagnéticas sí viajan en el vacío, el sonido no. -->
-- [ ] C) El sonido se vuelve transversal cuando no hay aire, por eso no se escucha
+- [ ] B) El sonido se vuelve transversal cuando no hay aire, por eso no se escucha
   <!-- feedback: La naturaleza transversal o longitudinal no cambia por la ausencia de aire; el sonido no se propaga en absoluto. -->
-- [ ] D) El vacío es un medio muy denso para el sonido, así que lo bloquea
+- [ ] C) El vacío es un medio muy denso para el sonido, así que lo bloquea
   <!-- feedback: El vacío no es un medio denso: carece de materia, por eso el sonido no puede transmitirse. -->
 
 ### Explicacion Pedagogica

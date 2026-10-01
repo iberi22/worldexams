@@ -34,8 +34,8 @@ creador: "Jules-Agent"
 
 ### Opciones
 - [ ] A) Que todas las oraciones terminen en punto y seguido. <!-- feedback: Incorrecto. La puntuación ayuda a la cohesión, pero no garantiza por sí sola el sentido global. -->
-- [x] B) Que todas las ideas se relacionen con un mismo tema principal. <!-- feedback: ¡Correcto! La unidad temática es la base de la coherencia global. -->
-- [ ] C) Que el texto tenga exactamente tres párrafos. <!-- feedback: Incorrecto. La extensión del texto no determina su coherencia. -->
+- [x] C) Que todas las ideas se relacionen con un mismo tema principal. <!-- feedback: ¡Correcto! La unidad temática es la base de la coherencia global. -->
+- [ ] B) Que el texto tenga exactamente tres párrafos. <!-- feedback: Incorrecto. La extensión del texto no determina su coherencia. -->
 - [ ] D) Que use palabras difíciles para demostrar conocimiento. <!-- feedback: Incorrecto. El vocabulario complejo no asegura que el texto tenga sentido o esté bien organizado. -->
 
 ### Explicacion Pedagogica
@@ -55,8 +55,8 @@ En la frase: "Fuimos a visitar el Castillo de San Felipe en Cartagena. **Allí**
 ### Opciones
 - [ ] A) A las fortificaciones. <!-- feedback: Incorrecto. Las fortificaciones son el objeto de lo que conocieron, no el lugar. -->
 - [ ] B) A Cartagena. <!-- feedback: Incorrecto. Aunque el castillo está en Cartagena, "allí" se refiere específicamente al sitio mencionado justo antes. -->
-- [x] C) Al Castillo de San Felipe. <!-- feedback: ¡Correcto! "Allí" es un adverbio que funciona como referencia anafórica de lugar para evitar repetir el nombre del monumento. -->
-- [ ] D) A la historia. <!-- feedback: Incorrecto. La historia es un concepto abstracto, no un lugar físico al que pueda referirse "allí". -->
+- [x] D) Al Castillo de San Felipe. <!-- feedback: ¡Correcto! "Allí" es un adverbio que funciona como referencia anafórica de lugar para evitar repetir el nombre del monumento. -->
+- [ ] C) A la historia. <!-- feedback: Incorrecto. La historia es un concepto abstracto, no un lugar físico al que pueda referirse "allí". -->
 
 ### Explicacion Pedagogica
 La anáfora es un mecanismo que consiste en el uso de palabras (pronombres, adverbios) que remiten a un elemento mencionado anteriormente, manteniendo el hilo conductor del texto.
@@ -74,8 +74,8 @@ La anáfora es un mecanismo que consiste en el uso de palabras (pronombres, adve
 
 ### Opciones
 - [ ] A) Juan fue al mercado de Paloquemao. Juan compró frutas y Juan regresó a casa. <!-- feedback: Incorrecto. Es repetitivo y no aplica elipsis. -->
-- [x] B) Los jaguares son felinos americanos. Habitan principalmente en selvas tropicales. <!-- feedback: ¡Correcto! En la segunda oración se omite el sujeto "Los jaguares" porque el lector ya sabe de quién se habla. -->
-- [ ] C) El café colombiano es famoso. El café colombiano se exporta a todo el mundo. <!-- feedback: Incorrecto. Repite innecesariamente el sujeto completo. -->
+- [x] C) Los jaguares son felinos americanos. Habitan principalmente en selvas tropicales. <!-- feedback: ¡Correcto! En la segunda oración se omite el sujeto "Los jaguares" porque el lector ya sabe de quién se habla. -->
+- [ ] B) El café colombiano es famoso. El café colombiano se exporta a todo el mundo. <!-- feedback: Incorrecto. Repite innecesariamente el sujeto completo. -->
 - [ ] D) Mi mamá hizo arepas. Las arepas estaban deliciosas. <!-- feedback: Incorrecto. No hay elipsis del sujeto en la segunda oración (el sujeto es "las arepas"). -->
 
 ### Explicacion Pedagogica
@@ -115,8 +115,8 @@ La sustitución no solo se hace con sinónimos simples, sino también con hipón
 ### Opciones
 - [ ] A) El volcán Nevado del Ruiz entró en actividad. Las autoridades ordenaron la evacuación inmediata. <!-- feedback: Incorrecto. Hay una relación lógica de causa y efecto. -->
 - [ ] B) Mañana es el examen final de biología. Por eso, pasaré la tarde repasando mis apuntes. <!-- feedback: Incorrecto. Hay una relación de finalidad y consecuencia lógica. -->
-- [x] C) El cultivo de flores es una industria importante en Colombia. Me gusta mucho comer pizza los sábados. <!-- feedback: ¡Correcto! No hay ninguna relación lógica ni temática entre la industria de las flores y el gusto personal por la pizza. -->
-- [ ] D) Gabriel García Márquez ganó el Premio Nobel en 1982. Su obra cumbre es Cien años de soledad. <!-- feedback: Incorrecto. Ambas oraciones hablan del mismo autor y sus logros. -->
+- [x] D) El cultivo de flores es una industria importante en Colombia. Me gusta mucho comer pizza los sábados. <!-- feedback: ¡Correcto! No hay ninguna relación lógica ni temática entre la industria de las flores y el gusto personal por la pizza. -->
+- [ ] C) Gabriel García Márquez ganó el Premio Nobel en 1982. Su obra cumbre es Cien años de soledad. <!-- feedback: Incorrecto. Ambas oraciones hablan del mismo autor y sus logros. -->
 
 ### Explicacion Pedagogica
 Un texto coherente debe avanzar de forma lógica. Saltos temáticos bruscos sin conectores o explicaciones rompen la coherencia y confunden al lector.
@@ -136,9 +136,9 @@ Lee el siguiente fragmento: "Para mejorar la convivencia escolar, debemos tomar 
 
 ### Opciones
 - [ ] A) Progresión lineal, donde cada idea nueva surge de la anterior. <!-- feedback: Incorrecto. Aquí las ideas están al mismo nivel jerárquico como una lista. -->
-- [x] B) Progresión de temas derivados, donde un tema general se desglosa en varios aspectos. <!-- feedback: ¡Correcto! El tema general (medidas de convivencia) se divide en tres puntos específicos. -->
-- [ ] C) Progresión constante, donde se repite la misma información con diferentes palabras. <!-- feedback: Incorrecto. Cada punto añade una medida distinta. -->
-- [ ] D) Progresión circular, donde el texto termina exactamente donde empezó sin añadir nada. <!-- feedback: Incorrecto. El texto avanza hacia una conclusión tras enumerar medidas. -->
+- [x] D) Progresión de temas derivados, donde un tema general se desglosa en varios aspectos. <!-- feedback: ¡Correcto! El tema general (medidas de convivencia) se divide en tres puntos específicos. -->
+- [ ] B) Progresión constante, donde se repite la misma información con diferentes palabras. <!-- feedback: Incorrecto. Cada punto añade una medida distinta. -->
+- [ ] C) Progresión circular, donde el texto termina exactamente donde empezó sin añadir nada. <!-- feedback: Incorrecto. El texto avanza hacia una conclusión tras enumerar medidas. -->
 
 ### Explicacion Pedagogica
 La progresión temática es la forma en que se dosifica la información nueva (rema) respecto a la información ya conocida (tema). Los marcadores de orden son fundamentales para los textos expositivos.
@@ -156,8 +156,8 @@ En la oración: "En la huerta sembramos lechugas, zanahorias y tomates; todas es
 
 ### Opciones
 - [ ] A) Es un sinónimo exacto de la palabra "tomates". <!-- feedback: Incorrecto. Hortaliza incluye al tomate, pero no es su sinónimo directo. -->
-- [x] B) Es un hiperónimo que engloba a los elementos mencionados anteriormente. <!-- feedback: ¡Correcto! Permite referirse a todo el grupo de vegetales sin repetirlos uno por uno. -->
-- [ ] C) Es un antónimo que sirve para contrastar los tipos de siembra. <!-- feedback: Incorrecto. No hay contraste, sino inclusión. -->
+- [x] C) Es un hiperónimo que engloba a los elementos mencionados anteriormente. <!-- feedback: ¡Correcto! Permite referirse a todo el grupo de vegetales sin repetirlos uno por uno. -->
+- [ ] B) Es un antónimo que sirve para contrastar los tipos de siembra. <!-- feedback: Incorrecto. No hay contraste, sino inclusión. -->
 - [ ] D) Es un pronombre demostrativo que señala la ubicación de la huerta. <!-- feedback: Incorrecto. "Hortalizas" es un sustantivo común, no un pronombre. -->
 
 ### Explicacion Pedagogica

@@ -32,9 +32,9 @@ Este bundle contiene 10 preguntas sobre **plano-cartesiano** para grado 6, aline
 ### Enunciado
 El plano cartesiano está formado por:
 ### Opciones
-- [x] A) Dos rectas perpendiculares: una horizontal (eje X) y una vertical (eje Y).
+- [x] B) Dos rectas perpendiculares: una horizontal (eje X) y una vertical (eje Y).
   <!-- feedback: Correcto. Los ejes X y Y se cruzan en el origen. -->
-- [ ] B) Tres ejes paralelos.
+- [ ] A) Tres ejes paralelos.
   <!-- feedback: Incorrecto. Los ejes son perpendiculares. -->
 - [ ] C) Una sola recta vertical.
   <!-- feedback: Incorrecto. Faltan ejes. -->
@@ -52,13 +52,13 @@ El plano cartesiano fue ideado por René Descartes para representar puntos media
 ### Enunciado
 El punto de intersección entre los ejes X e Y se llama:
 ### Opciones
-- [x] A) Origen y tiene coordenadas (0, 0).
+- [x] D) Origen y tiene coordenadas (0, 0).
   <!-- feedback: Correcto. (0, 0) es el origen. -->
-- [ ] B) Cuadrante.
+- [ ] A) Cuadrante.
   <!-- feedback: Incorrecto. El cuadrante es una región. -->
-- [ ] C) Eje vertical.
+- [ ] B) Eje vertical.
   <!-- feedback: Incorrecto. Eso es el eje Y. -->
-- [ ] D) Eje horizontal.
+- [ ] C) Eje horizontal.
   <!-- feedback: Incorrecto. Eso es el eje X. -->
 ### Explicacion Pedagogica
 El origen es el punto de referencia (0, 0) del plano cartesiano.
@@ -92,11 +92,11 @@ El segundo cuadrante contiene los puntos con x < 0 e y > 0.
 ### Enunciado
 Un punto ubicado sobre el eje X tiene coordenadas de la forma:
 ### Opciones
-- [x] A) $(a, 0)$.
+- [x] C) $(a, 0)$.
   <!-- feedback: Correcto. La segunda coordenada es cero. -->
-- [ ] B) $(0, b)$.
+- [ ] A) $(0, b)$.
   <!-- feedback: Incorrecto. Eso es sobre el eje Y. -->
-- [ ] C) $(a, b)$ con a y b distintos de cero.
+- [ ] B) $(a, b)$ con a y b distintos de cero.
   <!-- feedback: Incorrecto. Eso es un punto fuera de los ejes. -->
 - [ ] D) $(0, 0)$.
   <!-- feedback: Solo si es el origen. -->
@@ -112,9 +112,9 @@ Los puntos sobre un eje tienen una coordenada igual a cero.
 ### Enunciado
 Si el punto $P(2, 3)$ se traslada $4$ unidades a la derecha, sus nuevas coordenadas son:
 ### Opciones
-- [x] A) $(6, 3)$.
+- [x] B) $(6, 3)$.
   <!-- feedback: Correcto. Se suma 4 a la abscisa. -->
-- [ ] B) $(-2, 3)$.
+- [ ] A) $(-2, 3)$.
   <!-- feedback: Incorrecto. Restaste en lugar de sumar. -->
 - [ ] C) $(2, 7)$.
   <!-- feedback: Incorrecto. La traslación es horizontal. -->
@@ -132,13 +132,13 @@ Una traslación horizontal suma (o resta) unidades a la coordenada x manteniendo
 ### Enunciado
 ¿Cuál es la distancia entre los puntos $A(1, 2)$ y $B(4, 6)$?
 ### Opciones
-- [x] A) 5.
+- [x] D) 5.
   <!-- feedback: Correcto. $d = \sqrt{(4-1)^2 + (6-2)^2} = \sqrt{9 + 16} = 5$. -->
-- [ ] B) 3.
+- [ ] A) 3.
   <!-- feedback: Incorrecto. Solo consideraste la diferencia en X. -->
-- [ ] C) 7.
+- [ ] B) 7.
   <!-- feedback: Incorrecto. Sumaste diferencias. -->
-- [ ] D) 25.
+- [ ] C) 25.
   <!-- feedback: Incorrecto. Ese es el cuadrado de la distancia. -->
 ### Explicacion Pedagogica
 La distancia entre dos puntos se calcula con la fórmula $\sqrt{(x_2-x_1)^2 + (y_2-y_1)^2}$.
@@ -172,11 +172,11 @@ Reflejar respecto al eje X mantiene la abscisa y cambia el signo de la ordenada.
 ### Enunciado
 Una recta horizontal en el plano cartesiano tiene ecuación:
 ### Opciones
-- [x] A) $y = c$, con $c$ constante.
+- [x] C) $y = c$, con $c$ constante.
   <!-- feedback: Correcto. La ordenada no cambia. -->
-- [ ] B) $x = c$.
+- [ ] A) $x = c$.
   <!-- feedback: Incorrecto. Eso describe una recta vertical. -->
-- [ ] C) $y = mx + b$.
+- [ ] B) $y = mx + b$.
   <!-- feedback: Incorrecto. Es la forma general, no específica. -->
 - [ ] D) $x + y = 0$.
   <!-- feedback: Incorrecto. Es una diagonal. -->
@@ -214,11 +214,11 @@ El plano cartesiano es la base de la geometría analítica y de la cartografía.
 ### Opciones
 - [ ] A) Solo para decorar.
   <!-- feedback: Incorrecto. Tiene función analítica. -->
-- [x] B) Permite visualizar relaciones, identificar patrones y resolver problemas geométricos.
+- [x] D) Permite visualizar relaciones, identificar patrones y resolver problemas geométricos.
   <!-- feedback: Correcto. Es una herramienta analítica. -->
-- [ ] C) Sustituye la matemática.
+- [ ] B) Sustituye la matemática.
   <!-- feedback: Incorrecto. La complementa. -->
-- [ ] D) Evita escribir ecuaciones.
+- [ ] C) Evita escribir ecuaciones.
   <!-- feedback: Incorrecto. Permite escribirlas mejor. -->
 ### Explicacion Pedagogica
 El plano cartesiano facilita la interpretación gráfica de la información matemática.

@@ -87,9 +87,9 @@ Para transmitir información objetiva de manera rigurosa, se emplea la función 
 ### Opciones
 - [ ] A) Introducción lírica, nudo dramático, clímax poético y desenlace abierto.
   <!-- feedback: Incorrecto. Esta estructura corresponde al género narrativo literario. -->
-- [x] B) Presentación de una problemática o concepto, desarrollo explicativo mediante subtemas y síntesis final.
+- [x] C) Presentación de una problemática o concepto, desarrollo explicativo mediante subtemas y síntesis final.
   <!-- feedback: Correcto. Es la estructura clásica (introducción, desarrollo, conclusión) orientada a la explicación. -->
-- [ ] C) Exordio oratorio, planteamiento de tesis, cuerpo de refutaciones y epílogo persuasivo.
+- [ ] B) Exordio oratorio, planteamiento de tesis, cuerpo de refutaciones y epílogo persuasivo.
   <!-- feedback: Incorrecto. Esta es la estructura argumentativa clásica. -->
 - [ ] D) Instrucciones de uso, advertencias de seguridad y cláusulas de garantía legal.
   <!-- feedback: Incorrecto. Es propio de manuales de uso y textos jurídicos. -->
@@ -137,9 +137,9 @@ La organización por comparación y contraste permite confrontar dos o más elem
 ### Opciones
 - [ ] A) Nosotros creemos que las plantas de filtrado funcionan muy bien.
   <!-- feedback: Incorrecto. Utiliza la primera persona del plural, perdiendo objetividad. -->
-- [ ] B) Yo vi que las aguas residuales se limpian en lagunas de estabilización.
+- [ ] C) Yo vi que las aguas residuales se limpian en lagunas de estabilización.
   <!-- feedback: Incorrecto. El pronombre de primera persona singular 'yo' introduce un tono subjetivo. -->
-- [x] C) Se procesa el caudal recolectado mediante un sistema de filtros biológicos de alta eficiencia.
+- [x] B) Se procesa el caudal recolectado mediante un sistema de filtros biológicos de alta eficiencia.
   <!-- feedback: Correcto. El uso de la pasiva refleja ('Se procesa') anula la presencia del sujeto individual, favoreciendo la impersonalidad. -->
 - [ ] D) Los costarricenses tenemos que cuidar todas nuestras hermosas cuencas.
   <!-- feedback: Incorrecto. Utiliza un tono apelativo y emocional de primera persona plural. -->
@@ -164,9 +164,9 @@ Las construcciones impersonales y de pasiva refleja son recursos clave en los te
   <!-- feedback: Incorrecto. No describe colores, formas o materiales fijos de la autopista. -->
 - [ ] B) Ordenación analógica con otros sistemas de transporte en Centroamérica.
   <!-- feedback: Incorrecto. No compara la General Cañas con otras carreteras regionales. -->
-- [x] C) Ordenación de causa y efecto.
+- [x] D) Ordenación de causa y efecto.
   <!-- feedback: Correcto. Identifica los factores desencadenantes (lluvia, exceso de peso) y su consecuencia directa (deterioro vial). -->
-- [ ] D) Ordenación jerárquica de cargos políticos municipales.
+- [ ] C) Ordenación jerárquica de cargos políticos municipales.
   <!-- feedback: Incorrecto. No clasifica la importancia de funcionarios viales costarricenses. -->
 
 ### Explicacion Pedagogica
@@ -237,11 +237,11 @@ Los subtítulos, listas con viñetas y relieves tipográficos son recursos organ
 ### Opciones
 - [ ] A) Caminando por el sendero, vi un mono cariblanco que me miró fijamente y me asustó bastante.
   <!-- feedback: Incorrecto. Es un relato vivencial anecdótico y en primera persona. -->
-- [x] B) El mono cariblanco (Cebus capucinus) es un primate omnívoro nativo de América Central, caracterizado por su pelaje blanco alrededor del rostro.
+- [x] D) El mono cariblanco (Cebus capucinus) es un primate omnívoro nativo de América Central, caracterizado por su pelaje blanco alrededor del rostro.
   <!-- feedback: Correcto. Adopta una descripción biológica objetiva, rigurosa y en tercera persona con vocabulario denotativo. -->
-- [ ] C) Qué maravillosos son los animalitos que saltan alegres de rama en rama en nuestro amado parque nacional.
+- [ ] B) Qué maravillosos son los animalitos que saltan alegres de rama en rama en nuestro amado parque nacional.
   <!-- feedback: Incorrecto. Expresa emociones personales y utiliza diminutivos afectivos coloquiales. -->
-- [ ] D) ¡Ojalá todos los turistas respeten a los monos de Manuel Antonio cuando visiten el país!
+- [ ] C) ¡Ojalá todos los turistas respeten a los monos de Manuel Antonio cuando visiten el país!
   <!-- feedback: Incorrecto. Es una oración desiderativa y exclamativa, no expositiva. -->
 
 ### Explicacion Pedagogica
@@ -260,9 +260,9 @@ La reescritura expositiva requiere eliminar la perspectiva subjetiva, los juicio
 ¿Cuál es la función del glosario que suele incluirse al final de este tipo de textos técnicos?
 
 ### Opciones
-- [ ] A) Ofrecer una lista de agradecimientos a las autoridades del MEP.
+- [ ] B) Ofrecer una lista de agradecimientos a las autoridades del MEP.
   <!-- feedback: Incorrecto. Eso corresponde a la sección de agradecimientos o dedicatoria. -->
-- [x] B) Definir términos especializados o tecnicismos poco comunes utilizados en el cuerpo de la exposición.
+- [x] A) Definir términos especializados o tecnicismos poco comunes utilizados en el cuerpo de la exposición.
   <!-- feedback: Correcto. Permite aclarar el significado preciso de los vocablos para facilitar la comprensión del lector general. -->
 - [ ] C) Mostrar imágenes estéticas del ecosistema de bosque nuboso.
   <!-- feedback: Incorrecto. Eso es propio de una galería fotográfica o apéndice visual. -->
@@ -286,11 +286,11 @@ El glosario proporciona definiciones exactas de conceptos técnicos de la materi
 ¿Cómo se organiza la secuencia lógica de ideas expuestas en el fragmento?
 
 ### Opciones
-- [x] A) Presentación de una causa global, descripción del mecanismo biológico intermedio y exposición de las consecuencias socioeconómicas locales.
+- [x] C) Presentación de una causa global, descripción del mecanismo biológico intermedio y exposición de las consecuencias socioeconómicas locales.
   <!-- feedback: Correcto. El texto va de la causa (cambio climático/temperatura) al mecanismo biológico (metabolismo/oxígeno) y concluye con las consecuencias socioeconómicas (pesca artesanal de Puntarenas). -->
-- [ ] B) Comparación exhaustiva entre los ecosistemas acuáticos del Golfo de Nicoya y los del Caribe limonense.
+- [ ] A) Comparación exhaustiva entre los ecosistemas acuáticos del Golfo de Nicoya y los del Caribe limonense.
   <!-- feedback: Incorrecto. No se realiza ninguna comparación con el Caribe en el fragmento. -->
-- [ ] C) Exposición cronológica de las regulaciones de pesca vigentes en Costa Rica desde el siglo pasado.
+- [ ] B) Exposición cronológica de las regulaciones de pesca vigentes en Costa Rica desde el siglo pasado.
   <!-- feedback: Incorrecto. El texto describe una relación ecológica física y económica actual, no leyes históricas. -->
 - [ ] D) Defensa de una tesis política sobre la privatización de los muelles de la provincia puntarenense.
   <!-- feedback: Incorrecto. Es un texto científico de divulgación objetiva, no un manifiesto político argumentativo. -->
@@ -312,9 +312,9 @@ La lógica interna progresa de forma descendente, enlazando una causa físico-qu
 ¿Qué recurso explicativo se utiliza de forma explícita en el fragmento para esclarecer el funcionamiento del complejo?
 
 ### Opciones
-- [ ] A) La definición etimológica de la palabra 'hidroelectricidad' según la Real Academia.
+- [ ] B) La definición etimológica de la palabra 'hidroelectricidad' según la Real Academia.
   <!-- feedback: Incorrecto. No se hace mención del origen de la palabra ni de diccionarios. -->
-- [x] B) La oposición o contraste directo con un sistema alternativo de generación energética.
+- [x] A) La oposición o contraste directo con un sistema alternativo de generación energética.
   <!-- feedback: Correcto. Contrasta la energía hidroeléctrica con las 'plantas térmicas' para resaltar los beneficios ecológicos de la primera. -->
 - [ ] C) La narración de una jornada laboral de los técnicos de la planta de Arenal.
   <!-- feedback: Incorrecto. No narra ninguna anécdota personal ni laboral. -->
@@ -339,9 +339,9 @@ El contraste con sistemas térmicos permite clarificar los atributos singulares 
 ### Opciones
 - [ ] A) El plano contradice las descripciones históricas hechas por los ensayistas.
   <!-- feedback: Incorrecto. La infografía apoya la veracidad del texto escrito, no lo contradice. -->
-- [x] B) El plano cumple una función complementaria e ilustrativa, facilitando la visualización espacial de los elementos técnicos explicados.
+- [x] C) El plano cumple una función complementaria e ilustrativa, facilitando la visualización espacial de los elementos técnicos explicados.
   <!-- feedback: Correcto. Las imágenes técnicas y esquemas son complementos informativos vitales que asisten a la explicación verbal. -->
-- [ ] C) El plano sustituye por completo la necesidad de leer el texto descriptivo.
+- [ ] B) El plano sustituye por completo la necesidad de leer el texto descriptivo.
   <!-- feedback: Incorrecto. El plano requiere de la explicación textual para contextualizar sus datos. -->
 - [ ] D) El plano es puramente decorativo y carece de valor informativo real en la asamblea.
   <!-- feedback: Incorrecto. Posee un alto valor informativo al detallar espacialmente la estructura arquitectónica. -->
@@ -417,11 +417,11 @@ Un texto expositivo riguroso debe prescindir de valoraciones subjetivas e imprec
 ### Opciones
 - [ ] A) La inclusión de leyendas mágicas costarricenses referidas a los cocodrilos que habitan el puente del río Tárcoles.
   <!-- feedback: Incorrecto. Las leyendas aportan valor folclórico, no rigor expositivo o científico. -->
-- [x] B) La correlación causal clara y lógica entre la ubicación geográfica de la GAM y el vertido directo de residuos en la cuenca.
+- [x] D) La correlación causal clara y lógica entre la ubicación geográfica de la GAM y el vertido directo de residuos en la cuenca.
   <!-- feedback: Correcto. Explica la contaminación mediante una relación física y demográfica comprobable (causa y efecto). -->
-- [ ] C) La opinión personal expresada por un grupo de pescadores artesanales en sus redes de Puntarenas.
+- [ ] B) La opinión personal expresada por un grupo de pescadores artesanales en sus redes de Puntarenas.
   <!-- feedback: Incorrecto. Las opiniones personales informales en redes sociales no constituyen criterios de validez científica formal. -->
-- [ ] D) La redacción del párrafo utilizando figuras literarias complejas como el hipérbaton.
+- [ ] C) La redacción del párrafo utilizando figuras literarias complejas como el hipérbaton.
   <!-- feedback: Incorrecto. La ornamentación literaria dificulta el propósito expositivo de claridad y precisión de la información. -->
 
 ### Explicacion Pedagogica
@@ -443,9 +443,9 @@ La validez científica de un texto expositivo se sustenta en explicaciones lógi
 ### Opciones
 - [ ] A) Aporta una tesis de la abolición del café en las montañas de San José.
   <!-- feedback: Incorrecto. No propone abolir el café, explica el origen de los fondos de construcción del teatro. -->
-- [ ] B) Proporciona una descripción estética de la fachada de mármol del edificio.
+- [ ] C) Proporciona una descripción estética de la fachada de mármol del edificio.
   <!-- feedback: Incorrecto. Explica un proceso de financiamiento socioeconómico, no un rasgo físico estético. -->
-- [x] C) Explica la estrecha relación de interdependencia económica entre el desarrollo agrícola cafetalero y el fomento de la infraestructura cultural nacional.
+- [x] B) Explica la estrecha relación de interdependencia económica entre el desarrollo agrícola cafetalero y el fomento de la infraestructura cultural nacional.
   <!-- feedback: Correcto. Provee un contexto histórico explicativo fundamental para comprender cómo se gestó la obra arquitectónica. -->
 - [ ] D) Critica la falta de inversión en los teatros regionales de la provincia de Alajuela.
   <!-- feedback: Incorrecto. Se circunscribe a datos del siglo XIX and no emite juicios de valor sobre presupuestos contemporáneos. -->
@@ -469,11 +469,11 @@ El enunciado enriquece el texto expositivo al proveer una explicación causal so
 ### Opciones
 - [ ] A) No proponer un aumento del salario de los trabajadores de los trapiches.
   <!-- feedback: Incorrecto. Las monografías técnicas no tienen la obligación de proponer reformas salariales de cañeros. -->
-- [x] B) Romper de forma abrupta el registro objetivo e impersonal del trabajo académico introduciendo vivencias subjetivas, anécdotas infantiles y juicios personales de agrado.
+- [x] D) Romper de forma abrupta el registro objetivo e impersonal del trabajo académico introduciendo vivencias subjetivas, anécdotas infantiles y juicios personales de agrado.
   <!-- feedback: Correcto. La irrupción de la primera persona singular ('me recuerda') y recuerdos nostálgicos anula la objetividad académica requerida en una monografía. -->
-- [ ] C) No citar textualmente leyes vigentes de la Liga Agrícola Industrial de la Caña.
+- [ ] B) No citar textualmente leyes vigentes de la Liga Agrícola Industrial de la Caña.
   <!-- feedback: Incorrecto. No es estrictamente obligatorio citar leyes específicas en una frase de síntesis técnica general. -->
-- [ ] D) La mención de San Carlos, puesto que la monografía se enfocaba únicamente en Guanacaste.
+- [ ] C) La mención de San Carlos, puesto que la monografía se enfocaba únicamente en Guanacaste.
   <!-- feedback: Incorrecto. Aunque es un cambio regional, la falla metodológica fundamental es el cambio de un tono objetivo a uno subjetivo de agrado. -->
 
 ### Explicacion Pedagogica
@@ -494,9 +494,9 @@ La conclusión de un escrito expositivo formal debe condensar de forma objetiva 
 ### Opciones
 - [ ] A) Permitir al autor expresar poesías breves inspiradas en el tema.
   <!-- feedback: Incorrecto. No se utilizan para decoraciones líricas o poéticas ajenas a la ciencia. -->
-- [x] B) Aportar aclaraciones marginales, precisar fuentes bibliográficas o ampliar información secundaria sin interrumpir la fluidez del texto principal.
+- [x] C) Aportar aclaraciones marginales, precisar fuentes bibliográficas o ampliar información secundaria sin interrumpir la fluidez del texto principal.
   <!-- feedback: Correcto. Es la función académica del aparato de notas al pie. -->
-- [ ] C) Enumerar los nombres de los estudiantes reprobados en el curso.
+- [ ] B) Enumerar los nombres de los estudiantes reprobados en el curso.
   <!-- feedback: Incorrecto. Su función es puramente informativa sobre las fuentes académicas citadas. -->
 - [ ] D) Sustituir por completo las conclusiones generales del informe monográfico.
   <!-- feedback: Incorrecto. Las conclusiones constituyen un apartado autónomo e indispensable al final del trabajo. -->
@@ -519,11 +519,11 @@ Las notas al pie de página sirven para documentar la procedencia de los datos o
 ### Opciones
 - [ ] A) La obligatoriedad de escribirse enteramente en inglés académico estadounidense.
   <!-- feedback: Incorrecto. Pueden redactarse perfectamente en español costarricense u otros idiomas oficiales. -->
-- [x] B) La adaptación de conceptos y terminología compleja a un lenguaje accesible, claro y didáctico para un público receptor no experto.
+- [x] D) La adaptación de conceptos y terminología compleja a un lenguaje accesible, claro y didáctico para un público receptor no experto.
   <!-- feedback: Correcto. La divulgación tiende puentes comunicativos simplificando el lenguaje sin perder rigor de la información. -->
-- [ ] C) El uso exclusivo de un lenguaje cifrado comprensible únicamente por científicos de universidades.
+- [ ] B) El uso exclusivo de un lenguaje cifrado comprensible únicamente por científicos de universidades.
   <!-- feedback: Incorrecto. Esto describiría un artículo especializado cerrado de investigación, no un texto divulgativo. -->
-- [ ] D) La ausencia total de datos fácticos o explicaciones lógicas sobre la naturaleza del país.
+- [ ] C) La ausencia total de datos fácticos o explicaciones lógicas sobre la naturaleza del país.
   <!-- feedback: Incorrecto. El texto divulgativo está repleto de explicaciones y datos, aunque presentados de manera didáctica. -->
 
 ### Explicacion Pedagogica

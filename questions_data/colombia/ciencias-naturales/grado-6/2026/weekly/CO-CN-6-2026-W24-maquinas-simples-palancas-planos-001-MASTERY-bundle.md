@@ -57,11 +57,11 @@ La palanca es una máquina simple formada por una barra rígida que gira sobre u
 ¿Por qué la rampa permite subir el mismo bulto con menos fuerza que levantándolo en línea recta?
 
 ### Opciones
-- [x] A) Porque el plano inclinado reparte el esfuerzo en un recorrido más largo y reduce la fuerza necesaria
+- [x] C) Porque el plano inclinado reparte el esfuerzo en un recorrido más largo y reduce la fuerza necesaria
   <!-- feedback: Correcto. La rampa cambia fuerza por distancia. -->
-- [ ] B) Porque la rampa hace que el bulto pese menos
+- [ ] A) Porque la rampa hace que el bulto pese menos
   <!-- feedback: Incorrecto. El peso del bulto no cambia, cambia la fuerza aplicada. -->
-- [ ] C) Porque la madera de la rampa atrae el cemento
+- [ ] B) Porque la madera de la rampa atrae el cemento
   <!-- feedback: Incorrecto. La madera no ejerce atracción sobre el bulto. -->
 - [ ] D) Porque al subir en diagonal el aire empuja hacia arriba
   <!-- feedback: Incorrecto. El aire no realiza ese trabajo de elevación. -->
@@ -80,11 +80,11 @@ El plano inclinado es una máquina simple que permite vencer una resistencia con
 ¿Qué deben observar los estudiantes para comprobar en qué posición necesitan menos fuerza?
 
 ### Opciones
-- [x] A) Que al alejar el punto de apoyo de sus manos y acercarlo a la carga, aplican menos fuerza para levantarla
+- [x] C) Que al alejar el punto de apoyo de sus manos y acercarlo a la carga, aplican menos fuerza para levantarla
   <!-- feedback: Correcto. Un brazo de potencia más largo reduce la fuerza. -->
-- [ ] B) Que el bulto pesa más cuando el apoyo está lejos
+- [ ] A) Que el bulto pesa más cuando el apoyo está lejos
   <!-- feedback: Incorrecto. El peso del bulto no depende de la posición del apoyo. -->
-- [ ] C) Que la palanca funciona mejor si es más corta
+- [ ] B) Que la palanca funciona mejor si es más corta
   <!-- feedback: Incorrecto. Una palanca demasiado corta no da ventaja mecánica. -->
 - [ ] D) Que la fuerza aplicada no cambia con la posición del apoyo
   <!-- feedback: Incorrecto. La posición del fulcro sí modifica la fuerza necesaria. -->
@@ -103,9 +103,9 @@ En una palanca, la ventaja mecánica depende de los brazos: cuanto mayor sea la 
 ¿Qué ventaja práctica ofrece la polea móvil frente a la polea fija al levantar cargas?
 
 ### Opciones
-- [x] A) La polea móvil reduce la fuerza necesaria porque la carga se reparte entre dos tramos de la cuerda
+- [x] B) La polea móvil reduce la fuerza necesaria porque la carga se reparte entre dos tramos de la cuerda
   <!-- feedback: Correcto. Repartir la carga entre dos ramales disminuye la fuerza. -->
-- [ ] B) La polea móvil cambia el color de la cuerda para no confundirla
+- [ ] A) La polea móvil cambia el color de la cuerda para no confundirla
   <!-- feedback: Incorrecto. El color no influye en el esfuerzo de elevación. -->
 - [ ] C) La polea fija siempre requiere la mitad de fuerza que la móvil
   <!-- feedback: Incorrecto. Es al contrario: la móvil ofrece ventaja mecánica. -->
@@ -218,11 +218,11 @@ Toda máquina simple organiza el trabajo para que el esfuerzo sea menor: la pole
 ¿Qué evaluación conjunta de las tres afirmaciones es correcta?
 
 ### Opciones
-- [x] A) La 1 es falsa porque las máquinas simples no crean energía, la 2 es verdadera y la 3 es falsa porque la palanca puede reducir la fuerza
+- [x] C) La 1 es falsa porque las máquinas simples no crean energía, la 2 es verdadera y la 3 es falsa porque la palanca puede reducir la fuerza
   <!-- feedback: Correcto. Corrige los errores y valida la ventaja mecánica real. -->
-- [ ] B) Las tres son verdaderas porque toda máquina aumenta la energía
+- [ ] A) Las tres son verdaderas porque toda máquina aumenta la energía
   <!-- feedback: Incorrecto. Las máquinas simples no crean energía. -->
-- [ ] C) Solo la 1 es verdadera y las demás son falsas
+- [ ] B) Solo la 1 es verdadera y las demás son falsas
   <!-- feedback: Incorrecto. La afirmación 1 es falsa y la 2 es verdadera. -->
 - [ ] D) Las tres son falsas porque las máquinas simples no existen
   <!-- feedback: Incorrecto. La palanca, la polea y el plano inclinado son reales y útiles. -->
@@ -241,13 +241,13 @@ Evaluar afirmaciones sobre máquinas simples exige recordar la conservación de 
 ¿Qué criterio permite decidir mejor cuál máquina simple conviene según su uso y su costo?
 
 ### Opciones
-- [x] A) Comparar el esfuerzo que cada máquina reduce, la distancia o el espacio que exige y su costo, eligiendo la que resuelva la necesidad con el menor gasto total
+- [x] D) Comparar el esfuerzo que cada máquina reduce, la distancia o el espacio que exige y su costo, eligiendo la que resuelva la necesidad con el menor gasto total
   <!-- feedback: Correcto. La mejor decisión equilibra ventaja mecánica, espacio y costo. -->
-- [ ] B) Escoger siempre la máquina más costosa porque es la mejor
+- [ ] A) Escoger siempre la máquina más costosa porque es la mejor
   <!-- feedback: Incorrecto. Un mayor costo no garantiza mejor resultado para el uso previsto. -->
-- [ ] C) Escoger la máquina que se vea más moderna en el catálogo
+- [ ] B) Escoger la máquina que se vea más moderna en el catálogo
   <!-- feedback: Incorrecto. La apariencia no define la utilidad mecánica. -->
-- [ ] D) No comprar ninguna porque todas las máquinas simples son inútiles
+- [ ] C) No comprar ninguna porque todas las máquinas simples son inútiles
   <!-- feedback: Incorrecto. Las máquinas simples reducen de forma comprobada el esfuerzo. -->
 
 ### Explicacion Pedagogica

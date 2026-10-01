@@ -52,11 +52,11 @@ Cambio físico: altera forma o estado, pero no la composicion química de la mat
 ### Enunciado
 Que evidencia confirma que el horneado del pan es un cambio químico y no uno físico?
 ### Opciones
-- [x] A) Se forman sustancias nuevas como dioxido de carbono y alcohol, no presentes inicialmente.
+- [x] C) Se forman sustancias nuevas como dioxido de carbono y alcohol, no presentes inicialmente.
   <!-- feedback: Correcto. La fermentacion y el horneado producen nuevas sustancias químicas. -->
-- [ ] B) La masa cambia de color pero mantiene su composicion.
+- [ ] A) La masa cambia de color pero mantiene su composicion.
   <!-- feedback: Incorrecto. Mantener la composicion es caracteristica de un cambio físico. -->
-- [ ] C) La masa se derrite como un solido que pasa a liquido.
+- [ ] B) La masa se derrite como un solido que pasa a liquido.
   <!-- feedback: Incorrecto. El derretimiento es físico, no describe el horneado. -->
 - [ ] D) La masa simplemente se seca sin reaccionar.
   <!-- feedback: Incorrecto. Durante el horneado ocurren reacciones químicas complejas, no solo secado. -->
@@ -152,13 +152,13 @@ Ley de Lavoisier: en sistema cerrado, la masa total se conserva durante una reac
 ### Enunciado
 Cuál es el análisis correcto de los indicadores de reacción química observados en este experimento?
 ### Opciones
-- [x] A) Hay formacion de un gas (burbujas de $CO_2$) y liberacion de calor, evidencias claras de cambio químico.
+- [x] D) Hay formacion de un gas (burbujas de $CO_2$) y liberacion de calor, evidencias claras de cambio químico.
   <!-- feedback: Correcto. La liberacion de gas y el cambio de temperatura son signos de reacción química. -->
-- [ ] B) Las burbujas y el calor son evidencia de un simple cambio físico de las sustancias.
+- [ ] A) Las burbujas y el calor son evidencia de un simple cambio físico de las sustancias.
   <!-- feedback: Incorrecto. La produccion de un gas nuevo indica una transformacion química. -->
-- [ ] C) La reacción no ocurre porque los ácidos y las bases nunca reaccionan entre si.
+- [ ] B) La reacción no ocurre porque los ácidos y las bases nunca reaccionan entre si.
   <!-- feedback: Incorrecto. Los ácidos y las bases si reaccionan: es la reacción de neutralizacion. -->
-- [ ] D) Las burbujas son aire atrapado y el calor proviene de la mano del experimentador.
+- [ ] C) Las burbujas son aire atrapado y el calor proviene de la mano del experimentador.
   <!-- feedback: Incorrecto. El gas generado es $CO_2$ y el calor es propio de la reacción exotermica. -->
 ### Explicacion Pedagogica
 Evidencias de cambio químico: cambio de color, desprendimiento de gas, variacion de temperatura, formacion de precipitado o cambio de olor.
@@ -192,13 +192,13 @@ El procesamiento de alimentos combina cambios físicos (molienda, fusion) y quí
 ### Enunciado
 Cuál es la diferencia fundamental entre una combustion completa y una combustion incompleta de un hidrocarburo como el metano?
 ### Opciones
-- [x] A) La combustion completa produce $CO_2$ y $H_2O$; la incompleta produce $CO$ (y a veces $C$ o hollin).
+- [x] D) La combustion completa produce $CO_2$ y $H_2O$; la incompleta produce $CO$ (y a veces $C$ o hollin).
   <!-- feedback: Correcto. La combustion incompleta ocurre con poco oxígeno y genera $CO$, un gas toxico. -->
-- [ ] B) La combustion completa produce monoxido de carbono y la incompleta solo vapor de agua.
+- [ ] A) La combustion completa produce monoxido de carbono y la incompleta solo vapor de agua.
   <!-- feedback: Incorrecto. Es al reves: la completa produce $CO_2$; la incompleta produce $CO$. -->
-- [ ] C) No existen diferencias químicas entre ambas, solo cambia el color de la llama.
+- [ ] B) No existen diferencias químicas entre ambas, solo cambia el color de la llama.
   <!-- feedback: Incorrecto. Los productos y la toxicidad son diferentes. -->
-- [ ] D) La combustion incompleta consume mas oxígeno que la completa.
+- [ ] C) La combustion incompleta consume mas oxígeno que la completa.
   <!-- feedback: Incorrecto. La completa consume mas oxígeno y produce mas $CO_2$. -->
 ### Explicacion Pedagogica
 Combustion completa: hidrocarburo $+$ $O_2 \to CO_2 + H_2O$. Incompleta: falta oxígeno y se genera $CO$, $C$ o hollin.
@@ -212,11 +212,11 @@ Combustion completa: hidrocarburo $+$ $O_2 \to CO_2 + H_2O$. Incompleta: falta o
 ### Enunciado
 Cual de los siguientes argumentos justifica mejor la prohibicion de plasticos de un solo uso en los colegios desde la perspectiva de los cambios químicos?
 ### Opciones
-- [x] A) Los plasticos sufren degradacion química lenta liberando microplasticos y sustancias toxicas al ambiente.
+- [x] C) Los plasticos sufren degradacion química lenta liberando microplasticos y sustancias toxicas al ambiente.
   <!-- feedback: Correcto. La degradacion química de los plasticos genera contaminantes persistentes. -->
-- [ ] B) Los plasticos desaparecen inmediatamente al contacto con el suelo, sin dejar residuos.
+- [ ] A) Los plasticos desaparecen inmediatamente al contacto con el suelo, sin dejar residuos.
   <!-- feedback: Incorrecto. Los plasticos persisten durante siglos en el ambiente. -->
-- [ ] C) Los plasticos son biodegradables en pocos minutos en cualquier ambiente.
+- [ ] B) Los plasticos son biodegradables en pocos minutos en cualquier ambiente.
   <!-- feedback: Incorrecto. La mayoria de los plasticos comerciales son muy estables y no biodegradables rapidamente. -->
 - [ ] D) Los plasticos no sufren cambios químicos porque son inertes para siempre.
   <!-- feedback: Incorrecto. Sufren foto-degradacion, oxidacion y otros procesos lentos. -->
@@ -232,9 +232,9 @@ Los plasticos experimentan degradacion química lenta que libera aditivos y micr
 ### Enunciado
 Cuál es la evaluacion correcta del cambio químico que realiza el cloro en el agua potable y su justificacion sanitaria?
 ### Opciones
-- [x] A) El cloro reacciona con microorganismos patogenos, oxidandolos y eliminando el riesgo biologico del agua.
+- [x] B) El cloro reacciona con microorganismos patogenos, oxidandolos y eliminando el riesgo biologico del agua.
   <!-- feedback: Correcto. El cloro desinfecta por oxidacion química de agentes patogenos. -->
-- [ ] B) El cloro se mezcla fisicamente sin reaccionar, por lo que no elimina bacterias.
+- [ ] A) El cloro se mezcla fisicamente sin reaccionar, por lo que no elimina bacterias.
   <!-- feedback: Incorrecto. El cloro si reacciona quimicamente y oxida la materia organica y los microorganismos. -->
 - [ ] C) El cloro solo mejora el sabor del agua sin efecto microbiologico.
   <!-- feedback: Incorrecto. Su funcion principal es la desinfeccion microbiologica. -->

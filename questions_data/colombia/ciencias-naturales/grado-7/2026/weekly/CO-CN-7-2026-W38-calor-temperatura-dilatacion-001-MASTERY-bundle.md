@@ -31,9 +31,9 @@ Este bundle desarrolla la diferencia entre calor y temperatura, la transferencia
 ### Opciones
 - [ ] A) La cantidad total de agua que cabe dentro de un recipiente de cocina.
   <!-- feedback: Incorrecta, porque el volumen de agua no describe el estado térmico de un cuerpo. -->
-- [x] B) La medida del grado de agitación térmica de las partículas, que indica qué tan caliente o frío está un cuerpo.
+- [x] C) La medida del grado de agitación térmica de las partículas, que indica qué tan caliente o frío está un cuerpo.
   <!-- feedback: Correcta, porque define la temperatura como el indicador del estado térmico relacionado con el movimiento de las partículas. -->
-- [ ] C) El peso exacto de un objeto medido con una balanza en la tienda.
+- [ ] B) El peso exacto de un objeto medido con una balanza en la tienda.
   <!-- feedback: Incorrecta, porque el peso mide la masa y no el estado térmico del cuerpo. -->
 - [ ] D) El color del recipiente donde se guarda un alimento en la nevera.
   <!-- feedback: Incorrecta, porque el color del recipiente no mide qué tan caliente o frío está el contenido. -->
@@ -69,11 +69,11 @@ Sentir frío es perder calor de la mano hacia el objeto. El metal es buen conduc
 ### Opciones
 - [ ] A) La conducción a través del aire quieto de la sala sin mover el agua.
   <!-- feedback: Incorrecta, porque el aire quieto es mal conductor y no calienta toda el agua de la olla. -->
-- [x] B) La convección, porque el agua caliente sube y la fría baja formando corrientes que reparten el calor.
+- [x] D) La convección, porque el agua caliente sube y la fría baja formando corrientes que reparten el calor.
   <!-- feedback: Correcta, porque identifica las corrientes de convección como el mecanismo que uniformiza la temperatura en el líquido. -->
-- [ ] C) La radiación de la nevera que enfría los alimentos durante la noche.
+- [ ] B) La radiación de la nevera que enfría los alimentos durante la noche.
   <!-- feedback: Incorrecta, porque la nevera no calienta la olla y la radiación no es el mecanismo principal aquí. -->
-- [ ] D) La fotosíntesis de las plantas de la ventana que calienta la estufa.
+- [ ] C) La fotosíntesis de las plantas de la ventana que calienta la estufa.
   <!-- feedback: Incorrecta, porque la fotosíntesis ocurre en las plantas y no calienta el agua de la olla. -->
 ### Explicacion Pedagogica
 En los líquidos y gases el calor viaja sobre todo por convección: el fluido caliente, menos denso, sube y el frío baja, formando corrientes. Así toda el agua alcanza el punto de ebullición. En los sólidos predomina la conducción y del Sol llega radiación, pero en la olla manda la convección.
@@ -88,9 +88,9 @@ En los líquidos y gases el calor viaja sobre todo por convección: el fluido ca
 ### Opciones
 - [ ] A) Para que entre la lluvia y refresque la sala durante el aguacero.
   <!-- feedback: Incorrecta, porque dejar entrar la lluvia daña la casa y no es el propósito de la separación. -->
-- [x] B) Porque el metal se dilata con el calor del día y necesita espacio para expandirse sin doblarse ni romper los tornillos.
+- [x] C) Porque el metal se dilata con el calor del día y necesita espacio para expandirse sin doblarse ni romper los tornillos.
   <!-- feedback: Correcta, porque aplica la dilatación térmica de los sólidos al montaje del techo. -->
-- [ ] C) Para que el techo pese más y resista mejor la brisa de diciembre.
+- [ ] B) Para que el techo pese más y resista mejor la brisa de diciembre.
   <!-- feedback: Incorrecta, porque la separación no aumenta el peso ni la resistencia al viento. -->
 - [ ] D) Porque el zinc se encoge con el calor y hay que dejar huecos para que no se encoja demasiado.
   <!-- feedback: Incorrecta, porque el zinc se expande con el calor, no se encoge. -->
@@ -107,11 +107,11 @@ Si el agua del vaso de vidrio se calienta más rápido, ¿qué conclusión sobre
 ### Opciones
 - [ ] A) El icopor es mejor conductor porque guarda el frío del congelador por dentro.
   <!-- feedback: Incorrecta, porque el icopor es aislante y por eso el agua tarda más en calentarse. -->
-- [x] B) El vidrio conduce mejor el calor del mechero al agua y el icopor actúa como aislante que retarda el paso del calor.
+- [x] D) El vidrio conduce mejor el calor del mechero al agua y el icopor actúa como aislante que retarda el paso del calor.
   <!-- feedback: Correcta, porque compara la conductividad de ambos materiales con los datos de temperatura. -->
-- [ ] C) Ambos vasos son idénticos y la diferencia se debe a que el agua del icopor es mágica.
+- [ ] B) Ambos vasos son idénticos y la diferencia se debe a que el agua del icopor es mágica.
   <!-- feedback: Incorrecta, porque los materiales son distintos y la diferencia tiene explicación térmica. -->
-- [ ] D) El mechero calienta solo el vidrio porque le gustan los vasos transparentes.
+- [ ] C) El mechero calienta solo el vidrio porque le gustan los vasos transparentes.
   <!-- feedback: Incorrecta, porque el mechero entrega igual energía y lo que cambia es el material del vaso. -->
 ### Explicacion Pedagogica
 Los conductores como los metales y el vidrio delgado dejan pasar el calor con facilidad; los aislantes como el icopor, la madera y la lana lo frenan. Por eso el termo y la nevera de icopor conservan la temperatura. El experimento controla agua, mechero y tiempo, y solo cambia el material.
@@ -143,9 +143,9 @@ Casi todos los líquidos se contraen al enfriarse, pero el agua se expande al co
 ### Enunciado
 ¿Qué diseño de comparación permite afirmar que el Sol causó la diferencia de temperatura entre las gaseosas?
 ### Opciones
-- [x] A) Usar gaseosas iguales, medir con el mismo termómetro al mismo tiempo y cambiar solo la exposición al Sol.
+- [x] B) Usar gaseosas iguales, medir con el mismo termómetro al mismo tiempo y cambiar solo la exposición al Sol.
   <!-- feedback: Correcta, porque controla variables y aísla la exposición solar como causa de la diferencia. -->
-- [ ] B) Usar tamaños distintos, medir a horas distintas y sacudir solo una botella antes de medir.
+- [ ] A) Usar tamaños distintos, medir a horas distintas y sacudir solo una botella antes de medir.
   <!-- feedback: Incorrecta, porque cambia varias cosas a la vez y no se sabe qué causó la diferencia. -->
 - [ ] C) Probar solo la gaseosa del sol y adivinar la temperatura de la otra sin medirla.
   <!-- feedback: Incorrecta, porque sin medir ambas no hay comparación válida ni datos. -->
@@ -181,11 +181,11 @@ El enfriamiento es más rápido cuando la diferencia con el ambiente es grande y
 ### Enunciado
 ¿Cuál es la mejor evaluación de las dos propuestas para mantener el cuarto caliente?
 ### Opciones
-- [ ] A) Dejar la ventana abierta es mejor porque la brisa fría calienta el cuarto con su movimiento.
+- [ ] B) Dejar la ventana abierta es mejor porque la brisa fría calienta el cuarto con su movimiento.
   <!-- feedback: Incorrecta, porque la brisa fría extrae calor del cuarto por convección y lo enfría más. -->
-- [ ] B) Ambas propuestas son iguales porque las ventanas no tienen nada que ver con la temperatura.
+- [ ] C) Ambas propuestas son iguales porque las ventanas no tienen nada que ver con la temperatura.
   <!-- feedback: Incorrecta, porque por las rendijas entra y sale aire que cambia la temperatura del cuarto. -->
-- [x] C) Forrar las rendijas es mejor porque frena las corrientes de aire frío y reduce la pérdida de calor del cuarto.
+- [x] A) Forrar las rendijas es mejor porque frena las corrientes de aire frío y reduce la pérdida de calor del cuarto.
   <!-- feedback: Correcta, porque evalúa el aislamiento contra las corrientes de convección como la medida eficaz. -->
 - [ ] D) Ninguna sirve porque el frío de Pasto es imposible de controlar con telas o ventanas.
   <!-- feedback: Incorrecta, porque el aislamiento sencillo sí reduce de forma medible la pérdida de calor. -->

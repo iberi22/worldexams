@@ -55,9 +55,9 @@ La célula es la unidad mínima de vida. Todos los organismos, desde los unicelu
 ¿Qué diferencia fundamental existe entre un organismo unicelular, como una bacteria, y uno pluricelular, como un ceibo (árbol nacional argentino)?
 
 ### Opciones
-- [ ] A) Los unicelulares no tienen ADN y los pluricelulares sí.
+- [ ] B) Los unicelulares no tienen ADN y los pluricelulares sí.
   <!-- feedback: Incorrecto. Todos los seres vivos contienen material genético (ADN). -->
-- [x] B) Los unicelulares están formados por una sola célula y los pluricelulares por muchas.
+- [x] A) Los unicelulares están formados por una sola célula y los pluricelulares por muchas.
   <!-- feedback: ¡Correcto! Esa es la distinción básica basada en la organización celular. -->
 - [ ] C) Los unicelulares no necesitan alimentarse para sobrevivir.
   <!-- feedback: Falso. Todos los seres vivos necesitan nutrientes para obtener energía. -->
@@ -82,11 +82,11 @@ Según su tipo de nutrición, ¿cómo clasificarías a este organismo y en qué 
 ### Opciones
 - [ ] A) Heterótrofo, porque consume otros seres vivos.
   <!-- feedback: No, si produce su alimento con luz, no consume a otros. -->
-- [x] B) Autótrofo, probablemente dentro del reino de las plantas.
+- [x] D) Autótrofo, probablemente dentro del reino de las plantas.
   <!-- feedback: ¡Muy bien! Los organismos que fabrican su alimento mediante fotosíntesis son autótrofos. -->
-- [ ] C) Descomponedor, porque absorbe nutrientes del suelo.
+- [ ] B) Descomponedor, porque absorbe nutrientes del suelo.
   <!-- feedback: Incorrecto. Los descomponedores son heterótrofos que degradan materia orgánica. -->
-- [ ] D) Carnívoro, porque necesita energía externa.
+- [ ] C) Carnívoro, porque necesita energía externa.
   <!-- feedback: No, los carnívoros son heterótrofos que se alimentan de animales. -->
 
 ### Explicación Pedagógica
@@ -132,9 +132,9 @@ Si las algas son organismos pluricelulares que realizan fotosíntesis pero no ti
 ### Opciones
 - [ ] A) Porque si no tienen raíces no son seres vivos.
   <!-- feedback: Incorrecto. La falta de un órgano específico no quita la condición de ser vivo. -->
-- [x] B) Porque permite entender su evolución y su relación con otros grupos de organismos.
+- [x] C) Porque permite entender su evolución y su relación con otros grupos de organismos.
   <!-- feedback: ¡Correcto! La clasificación científica refleja el parentesco y la historia evolutiva. -->
-- [ ] C) Porque solo las plantas pueden estar en el mar.
+- [ ] B) Porque solo las plantas pueden estar en el mar.
   <!-- feedback: Falso. Hay muchísimos organismos de distintos reinos en el mar. -->
 - [ ] D) Porque todas las algas son peligrosas para los humanos.
   <!-- feedback: No es cierto. Muchas algas son beneficiosas e incluso comestibles. -->
@@ -155,11 +155,11 @@ La clasificación biológica no es caprichosa; busca organizar la diversidad seg
 ¿Cuál es el rol fundamental de los microorganismos descomponedores (como hongos y bacterias) en el ciclo de la materia de un ecosistema argentino?
 
 ### Opciones
-- [ ] A) Producir oxígeno para que las plantas respiren.
+- [ ] B) Producir oxígeno para que las plantas respiren.
   <!-- feedback: No, esa es principalmente la función de los organismos fotosintéticos. -->
-- [ ] B) Servir de alimento principal para los grandes carnívoros.
+- [ ] C) Servir de alimento principal para los grandes carnívoros.
   <!-- feedback: Incorrecto. Los carnívoros no se alimentan directamente de bacterias u hongos del suelo. -->
-- [x] C) Transformar la materia orgánica muerta en sustancias inorgánicas útiles para las plantas.
+- [x] A) Transformar la materia orgánica muerta en sustancias inorgánicas útiles para las plantas.
   <!-- feedback: ¡Excelente! Reciclan los nutrientes para que vuelvan a entrar en la red trófica. -->
 - [ ] D) Calentar el suelo para que las semillas germinen más rápido.
   <!-- feedback: No, aunque la descomposición genera calor, no es su rol biológico fundamental. -->
@@ -182,11 +182,11 @@ Los descomponedores cierran el ciclo de la materia. Al degradar restos de animal
 ### Opciones
 - [ ] A) Nutrición
   <!-- feedback: No, la nutrición se encarga de la obtención de energía y materia. -->
-- [x] B) Relación
+- [x] D) Relación
   <!-- feedback: ¡Correcto! La función de relación permite detectar cambios externos y responder a ellos. -->
-- [ ] C) Reproducción
+- [ ] B) Reproducción
   <!-- feedback: Incorrecto. La reproducción asegura la continuidad de la especie, no la respuesta al frío. -->
-- [ ] D) Fotosíntesis
+- [ ] C) Fotosíntesis
   <!-- feedback: No, los animales no realizan fotosíntesis. -->
 
 ### Explicación Pedagógica
@@ -205,9 +205,9 @@ La función de relación (o irritabilidad) es la que permite a los seres vivos r
 ¿Cuál es la razón científica principal por la que los hongos pertenecen a un reino diferente (Fungi) al de las plantas (Plantae)?
 
 ### Opciones
-- [ ] A) Porque los hongos son unicelulares y las plantas no.
+- [ ] B) Porque los hongos son unicelulares y las plantas no.
   <!-- feedback: Incorrecto. Hay hongos pluricelulares (como los champiñones). -->
-- [x] B) Porque los hongos son heterótrofos por absorción y las plantas son autótrofas.
+- [x] A) Porque los hongos son heterótrofos por absorción y las plantas son autótrofas.
   <!-- feedback: ¡Correcto! Los hongos no fabrican su alimento; lo absorben de materia orgánica. -->
 - [ ] C) Porque las plantas no tienen células y los hongos sí.
   <!-- feedback: Falso. Ambos están formados por células eucariotas. -->
@@ -255,9 +255,9 @@ La teoría celular establece que la célula es la unidad básica de la vida. Com
 ¿Cómo justificarías científicamente que la diversidad de seres vivos (desde bacterias hasta yacarés) es esencial para la salud de un ecosistema como el Iberá?
 
 ### Opciones
-- [ ] A) Porque cuantas más especies hay, más lindo se ve el paisaje para el turismo.
+- [ ] B) Porque cuantas más especies hay, más lindo se ve el paisaje para el turismo.
   <!-- feedback: Aunque es cierto, no es una justificación científica de funcionamiento biológico. -->
-- [x] B) Porque cada especie cumple una función (nicho) que permite el flujo de energía y el ciclo de nutrientes.
+- [x] A) Porque cada especie cumple una función (nicho) que permite el flujo de energía y el ciclo de nutrientes.
   <!-- feedback: ¡Correcto! La interdependencia entre especies mantiene el equilibrio del ecosistema. -->
 - [ ] C) Porque las especies más grandes siempre protegen a las más chicas de forma voluntaria.
   <!-- feedback: Falso. Las interacciones suelen ser de competencia, depredación o simbiosis, no "protección voluntaria". -->

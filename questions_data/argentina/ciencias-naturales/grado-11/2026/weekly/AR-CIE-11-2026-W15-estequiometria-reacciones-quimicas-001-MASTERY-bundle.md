@@ -57,8 +57,8 @@ La ecuación balanceada muestra que $1\text{ mol}$ de $\text{N}_2$ produce $2\te
 En la reacción $\text{N}_2(g) + 3\text{H}_2(g) \rightarrow 2\text{NH}_3(g)$, ¿cuántos moles de $\text{NH}_3$ se obtienen al reaccionar totalmente $2\text{ moles}$ de $\text{N}_2$ con exceso de $\text{H}_2$?
 
 ### Opciones
-- [x] A) $4\text{ moles de NH}_3$ <!-- feedback: Correcto. Por estequiometría $1\text{ mol N}_2 : 2\text{ moles NH}_3$. $2 \cdot 2 = 4\text{ moles}$. -->
-- [ ] B) $2\text{ moles de NH}_3$ <!-- feedback: Incorrecto. Asumió erróneamente relación $1:1$. -->
+- [x] B) $4\text{ moles de NH}_3$ <!-- feedback: Correcto. Por estequiometría $1\text{ mol N}_2 : 2\text{ moles NH}_3$. $2 \cdot 2 = 4\text{ moles}$. -->
+- [ ] A) $2\text{ moles de NH}_3$ <!-- feedback: Incorrecto. Asumió erróneamente relación $1:1$. -->
 - [ ] C) $6\text{ moles de NH}_3$ <!-- feedback: Incorrecto. Multiplicó por el coeficiente del hidrógeno. -->
 - [ ] D) $0,5\text{ moles de NH}_3$ <!-- feedback: Incorrecto. Dividió en vez de multiplicar por el coeficiente 2. -->
 
@@ -78,9 +78,9 @@ La ecuación balanceada muestra que $1\text{ mol}$ de $\text{N}_2$ produce $2\te
 En la reacción $\text{N}_2(g) + 3\text{H}_2(g) \rightarrow 2\text{NH}_3(g)$, ¿cuántos moles de $\text{NH}_3$ se obtienen al reaccionar totalmente $3\text{ moles}$ de $\text{N}_2$ con exceso de $\text{H}_2$?
 
 ### Opciones
-- [x] A) $6\text{ moles de NH}_3$ <!-- feedback: Correcto. Por estequiometría $1\text{ mol N}_2 : 2\text{ moles NH}_3$. $3 \cdot 2 = 6\text{ moles}$. -->
-- [ ] B) $3\text{ moles de NH}_3$ <!-- feedback: Incorrecto. Asumió erróneamente relación $1:1$. -->
-- [ ] C) $9\text{ moles de NH}_3$ <!-- feedback: Incorrecto. Multiplicó por el coeficiente del hidrógeno. -->
+- [x] C) $6\text{ moles de NH}_3$ <!-- feedback: Correcto. Por estequiometría $1\text{ mol N}_2 : 2\text{ moles NH}_3$. $3 \cdot 2 = 6\text{ moles}$. -->
+- [ ] A) $3\text{ moles de NH}_3$ <!-- feedback: Incorrecto. Asumió erróneamente relación $1:1$. -->
+- [ ] B) $9\text{ moles de NH}_3$ <!-- feedback: Incorrecto. Multiplicó por el coeficiente del hidrógeno. -->
 - [ ] D) $0,5\text{ moles de NH}_3$ <!-- feedback: Incorrecto. Dividió en vez de multiplicar por el coeficiente 2. -->
 
 ### Explicacion Pedagogica
@@ -141,10 +141,10 @@ La ecuación balanceada muestra que $1\text{ mol}$ de $\text{N}_2$ produce $2\te
 En la reacción $\text{N}_2(g) + 3\text{H}_2(g) \rightarrow 2\text{NH}_3(g)$, ¿cuántos moles de $\text{NH}_3$ se obtienen al reaccionar totalmente $6\text{ moles}$ de $\text{N}_2$ con exceso de $\text{H}_2$?
 
 ### Opciones
-- [x] A) $12\text{ moles de NH}_3$ <!-- feedback: Correcto. Por estequiometría $1\text{ mol N}_2 : 2\text{ moles NH}_3$. $6 \cdot 2 = 12\text{ moles}$. -->
-- [ ] B) $6\text{ moles de NH}_3$ <!-- feedback: Incorrecto. Asumió erróneamente relación $1:1$. -->
-- [ ] C) $18\text{ moles de NH}_3$ <!-- feedback: Incorrecto. Multiplicó por el coeficiente del hidrógeno. -->
-- [ ] D) $0,5\text{ moles de NH}_3$ <!-- feedback: Incorrecto. Dividió en vez de multiplicar por el coeficiente 2. -->
+- [x] D) $12\text{ moles de NH}_3$ <!-- feedback: Correcto. Por estequiometría $1\text{ mol N}_2 : 2\text{ moles NH}_3$. $6 \cdot 2 = 12\text{ moles}$. -->
+- [ ] A) $6\text{ moles de NH}_3$ <!-- feedback: Incorrecto. Asumió erróneamente relación $1:1$. -->
+- [ ] B) $18\text{ moles de NH}_3$ <!-- feedback: Incorrecto. Multiplicó por el coeficiente del hidrógeno. -->
+- [ ] C) $0,5\text{ moles de NH}_3$ <!-- feedback: Incorrecto. Dividió en vez de multiplicar por el coeficiente 2. -->
 
 ### Explicacion Pedagogica
 La ecuación balanceada muestra que $1\text{ mol}$ de $\text{N}_2$ produce $2\text{ moles}$ de $\text{NH}_3$. Por ende, $ 6\text{ moles N}_2 \cdot 2 = 12\text{ moles de NH}_3$.
@@ -162,9 +162,9 @@ La ecuación balanceada muestra que $1\text{ mol}$ de $\text{N}_2$ produce $2\te
 En la reacción $\text{N}_2(g) + 3\text{H}_2(g) \rightarrow 2\text{NH}_3(g)$, ¿cuántos moles de $\text{NH}_3$ se obtienen al reaccionar totalmente $7\text{ moles}$ de $\text{N}_2$ con exceso de $\text{H}_2$?
 
 ### Opciones
-- [x] A) $14\text{ moles de NH}_3$ <!-- feedback: Correcto. Por estequiometría $1\text{ mol N}_2 : 2\text{ moles NH}_3$. $7 \cdot 2 = 14\text{ moles}$. -->
-- [ ] B) $7\text{ moles de NH}_3$ <!-- feedback: Incorrecto. Asumió erróneamente relación $1:1$. -->
-- [ ] C) $21\text{ moles de NH}_3$ <!-- feedback: Incorrecto. Multiplicó por el coeficiente del hidrógeno. -->
+- [x] C) $14\text{ moles de NH}_3$ <!-- feedback: Correcto. Por estequiometría $1\text{ mol N}_2 : 2\text{ moles NH}_3$. $7 \cdot 2 = 14\text{ moles}$. -->
+- [ ] A) $7\text{ moles de NH}_3$ <!-- feedback: Incorrecto. Asumió erróneamente relación $1:1$. -->
+- [ ] B) $21\text{ moles de NH}_3$ <!-- feedback: Incorrecto. Multiplicó por el coeficiente del hidrógeno. -->
 - [ ] D) $0,5\text{ moles de NH}_3$ <!-- feedback: Incorrecto. Dividió en vez de multiplicar por el coeficiente 2. -->
 
 ### Explicacion Pedagogica
@@ -183,9 +183,9 @@ La ecuación balanceada muestra que $1\text{ mol}$ de $\text{N}_2$ produce $2\te
 En la reacción $\text{N}_2(g) + 3\text{H}_2(g) \rightarrow 2\text{NH}_3(g)$, ¿cuántos moles de $\text{NH}_3$ se obtienen al reaccionar totalmente $8\text{ moles}$ de $\text{N}_2$ con exceso de $\text{H}_2$?
 
 ### Opciones
-- [x] A) $16\text{ moles de NH}_3$ <!-- feedback: Correcto. Por estequiometría $1\text{ mol N}_2 : 2\text{ moles NH}_3$. $8 \cdot 2 = 16\text{ moles}$. -->
-- [ ] B) $8\text{ moles de NH}_3$ <!-- feedback: Incorrecto. Asumió erróneamente relación $1:1$. -->
-- [ ] C) $24\text{ moles de NH}_3$ <!-- feedback: Incorrecto. Multiplicó por el coeficiente del hidrógeno. -->
+- [x] C) $16\text{ moles de NH}_3$ <!-- feedback: Correcto. Por estequiometría $1\text{ mol N}_2 : 2\text{ moles NH}_3$. $8 \cdot 2 = 16\text{ moles}$. -->
+- [ ] A) $8\text{ moles de NH}_3$ <!-- feedback: Incorrecto. Asumió erróneamente relación $1:1$. -->
+- [ ] B) $24\text{ moles de NH}_3$ <!-- feedback: Incorrecto. Multiplicó por el coeficiente del hidrógeno. -->
 - [ ] D) $0,5\text{ moles de NH}_3$ <!-- feedback: Incorrecto. Dividió en vez de multiplicar por el coeficiente 2. -->
 
 ### Explicacion Pedagogica
@@ -204,10 +204,10 @@ La ecuación balanceada muestra que $1\text{ mol}$ de $\text{N}_2$ produce $2\te
 En la reacción $\text{N}_2(g) + 3\text{H}_2(g) \rightarrow 2\text{NH}_3(g)$, ¿cuántos moles de $\text{NH}_3$ se obtienen al reaccionar totalmente $9\text{ moles}$ de $\text{N}_2$ con exceso de $\text{H}_2$?
 
 ### Opciones
-- [x] A) $18\text{ moles de NH}_3$ <!-- feedback: Correcto. Por estequiometría $1\text{ mol N}_2 : 2\text{ moles NH}_3$. $9 \cdot 2 = 18\text{ moles}$. -->
-- [ ] B) $9\text{ moles de NH}_3$ <!-- feedback: Incorrecto. Asumió erróneamente relación $1:1$. -->
-- [ ] C) $27\text{ moles de NH}_3$ <!-- feedback: Incorrecto. Multiplicó por el coeficiente del hidrógeno. -->
-- [ ] D) $0,5\text{ moles de NH}_3$ <!-- feedback: Incorrecto. Dividió en vez de multiplicar por el coeficiente 2. -->
+- [x] D) $18\text{ moles de NH}_3$ <!-- feedback: Correcto. Por estequiometría $1\text{ mol N}_2 : 2\text{ moles NH}_3$. $9 \cdot 2 = 18\text{ moles}$. -->
+- [ ] A) $9\text{ moles de NH}_3$ <!-- feedback: Incorrecto. Asumió erróneamente relación $1:1$. -->
+- [ ] B) $27\text{ moles de NH}_3$ <!-- feedback: Incorrecto. Multiplicó por el coeficiente del hidrógeno. -->
+- [ ] C) $0,5\text{ moles de NH}_3$ <!-- feedback: Incorrecto. Dividió en vez de multiplicar por el coeficiente 2. -->
 
 ### Explicacion Pedagogica
 La ecuación balanceada muestra que $1\text{ mol}$ de $\text{N}_2$ produce $2\text{ moles}$ de $\text{NH}_3$. Por ende, $ 9\text{ moles N}_2 \cdot 2 = 18\text{ moles de NH}_3$.
@@ -267,9 +267,9 @@ La ecuación balanceada muestra que $1\text{ mol}$ de $\text{N}_2$ produce $2\te
 En la reacción $\text{N}_2(g) + 3\text{H}_2(g) \rightarrow 2\text{NH}_3(g)$, ¿cuántos moles de $\text{NH}_3$ se obtienen al reaccionar totalmente $12\text{ moles}$ de $\text{N}_2$ con exceso de $\text{H}_2$?
 
 ### Opciones
-- [x] A) $24\text{ moles de NH}_3$ <!-- feedback: Correcto. Por estequiometría $1\text{ mol N}_2 : 2\text{ moles NH}_3$. $12 \cdot 2 = 24\text{ moles}$. -->
-- [ ] B) $12\text{ moles de NH}_3$ <!-- feedback: Incorrecto. Asumió erróneamente relación $1:1$. -->
-- [ ] C) $36\text{ moles de NH}_3$ <!-- feedback: Incorrecto. Multiplicó por el coeficiente del hidrógeno. -->
+- [x] C) $24\text{ moles de NH}_3$ <!-- feedback: Correcto. Por estequiometría $1\text{ mol N}_2 : 2\text{ moles NH}_3$. $12 \cdot 2 = 24\text{ moles}$. -->
+- [ ] A) $12\text{ moles de NH}_3$ <!-- feedback: Incorrecto. Asumió erróneamente relación $1:1$. -->
+- [ ] B) $36\text{ moles de NH}_3$ <!-- feedback: Incorrecto. Multiplicó por el coeficiente del hidrógeno. -->
 - [ ] D) $0,5\text{ moles de NH}_3$ <!-- feedback: Incorrecto. Dividió en vez de multiplicar por el coeficiente 2. -->
 
 ### Explicacion Pedagogica
@@ -309,10 +309,10 @@ La ecuación balanceada muestra que $1\text{ mol}$ de $\text{N}_2$ produce $2\te
 En la reacción $\text{N}_2(g) + 3\text{H}_2(g) \rightarrow 2\text{NH}_3(g)$, ¿cuántos moles de $\text{NH}_3$ se obtienen al reaccionar totalmente $14\text{ moles}$ de $\text{N}_2$ con exceso de $\text{H}_2$?
 
 ### Opciones
-- [x] A) $28\text{ moles de NH}_3$ <!-- feedback: Correcto. Por estequiometría $1\text{ mol N}_2 : 2\text{ moles NH}_3$. $14 \cdot 2 = 28\text{ moles}$. -->
-- [ ] B) $14\text{ moles de NH}_3$ <!-- feedback: Incorrecto. Asumió erróneamente relación $1:1$. -->
-- [ ] C) $42\text{ moles de NH}_3$ <!-- feedback: Incorrecto. Multiplicó por el coeficiente del hidrógeno. -->
-- [ ] D) $0,5\text{ moles de NH}_3$ <!-- feedback: Incorrecto. Dividió en vez de multiplicar por el coeficiente 2. -->
+- [x] D) $28\text{ moles de NH}_3$ <!-- feedback: Correcto. Por estequiometría $1\text{ mol N}_2 : 2\text{ moles NH}_3$. $14 \cdot 2 = 28\text{ moles}$. -->
+- [ ] A) $14\text{ moles de NH}_3$ <!-- feedback: Incorrecto. Asumió erróneamente relación $1:1$. -->
+- [ ] B) $42\text{ moles de NH}_3$ <!-- feedback: Incorrecto. Multiplicó por el coeficiente del hidrógeno. -->
+- [ ] C) $0,5\text{ moles de NH}_3$ <!-- feedback: Incorrecto. Dividió en vez de multiplicar por el coeficiente 2. -->
 
 ### Explicacion Pedagogica
 La ecuación balanceada muestra que $1\text{ mol}$ de $\text{N}_2$ produce $2\text{ moles}$ de $\text{NH}_3$. Por ende, $ 14\text{ moles N}_2 \cdot 2 = 28\text{ moles de NH}_3$.
@@ -330,9 +330,9 @@ La ecuación balanceada muestra que $1\text{ mol}$ de $\text{N}_2$ produce $2\te
 En la reacción $\text{N}_2(g) + 3\text{H}_2(g) \rightarrow 2\text{NH}_3(g)$, ¿cuántos moles de $\text{NH}_3$ se obtienen al reaccionar totalmente $15\text{ moles}$ de $\text{N}_2$ con exceso de $\text{H}_2$?
 
 ### Opciones
-- [x] A) $30\text{ moles de NH}_3$ <!-- feedback: Correcto. Por estequiometría $1\text{ mol N}_2 : 2\text{ moles NH}_3$. $15 \cdot 2 = 30\text{ moles}$. -->
-- [ ] B) $15\text{ moles de NH}_3$ <!-- feedback: Incorrecto. Asumió erróneamente relación $1:1$. -->
-- [ ] C) $45\text{ moles de NH}_3$ <!-- feedback: Incorrecto. Multiplicó por el coeficiente del hidrógeno. -->
+- [x] C) $30\text{ moles de NH}_3$ <!-- feedback: Correcto. Por estequiometría $1\text{ mol N}_2 : 2\text{ moles NH}_3$. $15 \cdot 2 = 30\text{ moles}$. -->
+- [ ] A) $15\text{ moles de NH}_3$ <!-- feedback: Incorrecto. Asumió erróneamente relación $1:1$. -->
+- [ ] B) $45\text{ moles de NH}_3$ <!-- feedback: Incorrecto. Multiplicó por el coeficiente del hidrógeno. -->
 - [ ] D) $0,5\text{ moles de NH}_3$ <!-- feedback: Incorrecto. Dividió en vez de multiplicar por el coeficiente 2. -->
 
 ### Explicacion Pedagogica
@@ -351,9 +351,9 @@ La ecuación balanceada muestra que $1\text{ mol}$ de $\text{N}_2$ produce $2\te
 En la reacción $\text{N}_2(g) + 3\text{H}_2(g) \rightarrow 2\text{NH}_3(g)$, ¿cuántos moles de $\text{NH}_3$ se obtienen al reaccionar totalmente $16\text{ moles}$ de $\text{N}_2$ con exceso de $\text{H}_2$?
 
 ### Opciones
-- [x] A) $32\text{ moles de NH}_3$ <!-- feedback: Correcto. Por estequiometría $1\text{ mol N}_2 : 2\text{ moles NH}_3$. $16 \cdot 2 = 32\text{ moles}$. -->
-- [ ] B) $16\text{ moles de NH}_3$ <!-- feedback: Incorrecto. Asumió erróneamente relación $1:1$. -->
-- [ ] C) $48\text{ moles de NH}_3$ <!-- feedback: Incorrecto. Multiplicó por el coeficiente del hidrógeno. -->
+- [x] C) $32\text{ moles de NH}_3$ <!-- feedback: Correcto. Por estequiometría $1\text{ mol N}_2 : 2\text{ moles NH}_3$. $16 \cdot 2 = 32\text{ moles}$. -->
+- [ ] A) $16\text{ moles de NH}_3$ <!-- feedback: Incorrecto. Asumió erróneamente relación $1:1$. -->
+- [ ] B) $48\text{ moles de NH}_3$ <!-- feedback: Incorrecto. Multiplicó por el coeficiente del hidrógeno. -->
 - [ ] D) $0,5\text{ moles de NH}_3$ <!-- feedback: Incorrecto. Dividió en vez de multiplicar por el coeficiente 2. -->
 
 ### Explicacion Pedagogica
@@ -372,10 +372,10 @@ La ecuación balanceada muestra que $1\text{ mol}$ de $\text{N}_2$ produce $2\te
 En la reacción $\text{N}_2(g) + 3\text{H}_2(g) \rightarrow 2\text{NH}_3(g)$, ¿cuántos moles de $\text{NH}_3$ se obtienen al reaccionar totalmente $17\text{ moles}$ de $\text{N}_2$ con exceso de $\text{H}_2$?
 
 ### Opciones
-- [x] A) $34\text{ moles de NH}_3$ <!-- feedback: Correcto. Por estequiometría $1\text{ mol N}_2 : 2\text{ moles NH}_3$. $17 \cdot 2 = 34\text{ moles}$. -->
-- [ ] B) $17\text{ moles de NH}_3$ <!-- feedback: Incorrecto. Asumió erróneamente relación $1:1$. -->
-- [ ] C) $51\text{ moles de NH}_3$ <!-- feedback: Incorrecto. Multiplicó por el coeficiente del hidrógeno. -->
-- [ ] D) $0,5\text{ moles de NH}_3$ <!-- feedback: Incorrecto. Dividió en vez de multiplicar por el coeficiente 2. -->
+- [x] D) $34\text{ moles de NH}_3$ <!-- feedback: Correcto. Por estequiometría $1\text{ mol N}_2 : 2\text{ moles NH}_3$. $17 \cdot 2 = 34\text{ moles}$. -->
+- [ ] A) $17\text{ moles de NH}_3$ <!-- feedback: Incorrecto. Asumió erróneamente relación $1:1$. -->
+- [ ] B) $51\text{ moles de NH}_3$ <!-- feedback: Incorrecto. Multiplicó por el coeficiente del hidrógeno. -->
+- [ ] C) $0,5\text{ moles de NH}_3$ <!-- feedback: Incorrecto. Dividió en vez de multiplicar por el coeficiente 2. -->
 
 ### Explicacion Pedagogica
 La ecuación balanceada muestra que $1\text{ mol}$ de $\text{N}_2$ produce $2\text{ moles}$ de $\text{NH}_3$. Por ende, $ 17\text{ moles N}_2 \cdot 2 = 34\text{ moles de NH}_3$.
@@ -435,9 +435,9 @@ La ecuación balanceada muestra que $1\text{ mol}$ de $\text{N}_2$ produce $2\te
 En la reacción $\text{N}_2(g) + 3\text{H}_2(g) \rightarrow 2\text{NH}_3(g)$, ¿cuántos moles de $\text{NH}_3$ se obtienen al reaccionar totalmente $20\text{ moles}$ de $\text{N}_2$ con exceso de $\text{H}_2$?
 
 ### Opciones
-- [x] A) $40\text{ moles de NH}_3$ <!-- feedback: Correcto. Por estequiometría $1\text{ mol N}_2 : 2\text{ moles NH}_3$. $20 \cdot 2 = 40\text{ moles}$. -->
-- [ ] B) $20\text{ moles de NH}_3$ <!-- feedback: Incorrecto. Asumió erróneamente relación $1:1$. -->
-- [ ] C) $60\text{ moles de NH}_3$ <!-- feedback: Incorrecto. Multiplicó por el coeficiente del hidrógeno. -->
+- [x] C) $40\text{ moles de NH}_3$ <!-- feedback: Correcto. Por estequiometría $1\text{ mol N}_2 : 2\text{ moles NH}_3$. $20 \cdot 2 = 40\text{ moles}$. -->
+- [ ] A) $20\text{ moles de NH}_3$ <!-- feedback: Incorrecto. Asumió erróneamente relación $1:1$. -->
+- [ ] B) $60\text{ moles de NH}_3$ <!-- feedback: Incorrecto. Multiplicó por el coeficiente del hidrógeno. -->
 - [ ] D) $0,5\text{ moles de NH}_3$ <!-- feedback: Incorrecto. Dividió en vez de multiplicar por el coeficiente 2. -->
 
 ### Explicacion Pedagogica

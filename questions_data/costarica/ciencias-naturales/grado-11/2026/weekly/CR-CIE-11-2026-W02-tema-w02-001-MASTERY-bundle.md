@@ -31,13 +31,13 @@ Este bundle contiene 20 preguntas MASTERY alineadas al programa de estudios de M
 Durante un experimento en el laboratorio de química de Liceo de Puntarenas en Puntarenas, Sofía analiza las propiedades de el agua: estructura molecular y propiedades coligativas. ¿Cuál de las siguientes afirmaciones describe con mayor precisión el comportamiento físico-químico o estructural observado?
 
 ### Opciones
-- [ ] A) La síntesis artificial in vitro bajo condiciones estándar de temperatura.
+- [ ] B) La síntesis artificial in vitro bajo condiciones estándar de temperatura.
   <!-- feedback: Incorrecto. Analice con detalle las condiciones físicas o químicas de El agua: estructura molecular y propiedades coligativas. -->
-- [ ] B) La degradación espontánea por acción de catalizadores orgánicos ajenos.
+- [ ] C) La degradación espontánea por acción de catalizadores orgánicos ajenos.
   <!-- feedback: Incorrecto. Representa una confusión común sobre los elementos de El agua: estructura molecular y propiedades coligativas. -->
-- [ ] C) El comportamiento coligativo secundario registrado en Puntarenas.
+- [ ] D) El comportamiento coligativo secundario registrado en Puntarenas.
   <!-- feedback: Incorrecto. Esta opción no corresponde directamente con el postulado o propiedad de El agua: estructura molecular y propiedades coligativas. -->
-- [x] D) La característica estructural y funcional primaria de el agua: estructura molecular y propiedades coligativas.
+- [x] A) La característica estructural y funcional primaria de el agua: estructura molecular y propiedades coligativas.
   <!-- feedback: ¡Correcto! La característica estructural y funcional primaria de el agua: estructura molecular y propiedades coligativas. es el concepto preciso evaluado en esta pregunta. -->
 
 ### Explicacion Pedagogica
@@ -53,13 +53,13 @@ Explicación Pedagógica: El análisis de el agua: estructura molecular y propie
 Durante un experimento en el laboratorio de química de Liceo de Liberia en Liberia, Sofía analiza las propiedades de sales minerales e importancia de los electrolitos. ¿Cuál de las siguientes afirmaciones describe con mayor precisión el comportamiento físico-químico o estructural observado?
 
 ### Opciones
-- [ ] A) La degradación espontánea por acción de catalizadores orgánicos ajenos.
+- [ ] B) La degradación espontánea por acción de catalizadores orgánicos ajenos.
   <!-- feedback: Incorrecto. Representa una confusión común sobre los elementos de Sales minerales e importancia de los electrolitos. -->
-- [ ] B) El comportamiento coligativo secundario registrado en Liberia.
+- [ ] C) El comportamiento coligativo secundario registrado en Liberia.
   <!-- feedback: Incorrecto. Esta opción no corresponde directamente con el postulado o propiedad de Sales minerales e importancia de los electrolitos. -->
-- [ ] C) La síntesis artificial in vitro bajo condiciones estándar de temperatura.
+- [ ] D) La síntesis artificial in vitro bajo condiciones estándar de temperatura.
   <!-- feedback: Incorrecto. Analice con detalle las condiciones físicas o químicas de Sales minerales e importancia de los electrolitos. -->
-- [x] D) La característica estructural y funcional primaria de sales minerales e importancia de los electrolitos.
+- [x] A) La característica estructural y funcional primaria de sales minerales e importancia de los electrolitos.
   <!-- feedback: ¡Correcto! La característica estructural y funcional primaria de sales minerales e importancia de los electrolitos. es el concepto preciso evaluado en esta pregunta. -->
 
 ### Explicacion Pedagogica
@@ -101,9 +101,9 @@ Durante un experimento en el laboratorio de química de Colegio Técnico Profesi
   <!-- feedback: Incorrecto. Esta opción no corresponde directamente con el postulado o propiedad de Disacáridos (sacarosa, lactosa) y su hidrólisis. -->
 - [ ] B) La síntesis artificial in vitro bajo condiciones estándar de temperatura.
   <!-- feedback: Incorrecto. Analice con detalle las condiciones físicas o químicas de Disacáridos (sacarosa, lactosa) y su hidrólisis. -->
-- [ ] C) La degradación espontánea por acción de catalizadores orgánicos ajenos.
+- [ ] D) La degradación espontánea por acción de catalizadores orgánicos ajenos.
   <!-- feedback: Incorrecto. Representa una confusión común sobre los elementos de Disacáridos (sacarosa, lactosa) y su hidrólisis. -->
-- [x] D) La característica estructural y funcional primaria de disacáridos (sacarosa, lactosa) y su hidrólisis.
+- [x] C) La característica estructural y funcional primaria de disacáridos (sacarosa, lactosa) y su hidrólisis.
   <!-- feedback: ¡Correcto! La característica estructural y funcional primaria de disacáridos (sacarosa, lactosa) y su hidrólisis. es el concepto preciso evaluado en esta pregunta. -->
 
 ### Explicacion Pedagogica
@@ -121,11 +121,11 @@ Durante un experimento en el laboratorio de química de Liceo de Costa Rica en S
 ### Opciones
 - [ ] A) La síntesis artificial in vitro bajo condiciones estándar de temperatura.
   <!-- feedback: Incorrecto. Analice con detalle las condiciones físicas o químicas de Polisacáridos de reserva (almidón, glucógeno). -->
-- [x] B) La característica estructural y funcional primaria de polisacáridos de reserva (almidón, glucógeno).
+- [x] D) La característica estructural y funcional primaria de polisacáridos de reserva (almidón, glucógeno).
   <!-- feedback: ¡Correcto! La característica estructural y funcional primaria de polisacáridos de reserva (almidón, glucógeno). es el concepto preciso evaluado en esta pregunta. -->
-- [ ] C) El comportamiento coligativo secundario registrado en San José.
+- [ ] B) El comportamiento coligativo secundario registrado en San José.
   <!-- feedback: Incorrecto. Esta opción no corresponde directamente con el postulado o propiedad de Polisacáridos de reserva (almidón, glucógeno). -->
-- [ ] D) La degradación espontánea por acción de catalizadores orgánicos ajenos.
+- [ ] C) La degradación espontánea por acción de catalizadores orgánicos ajenos.
   <!-- feedback: Incorrecto. Representa una confusión común sobre los elementos de Polisacáridos de reserva (almidón, glucógeno). -->
 
 ### Explicacion Pedagogica
@@ -141,11 +141,11 @@ Explicación Pedagógica: El análisis de polisacáridos de reserva (almidón, g
 Durante un experimento en el laboratorio de química de Liceo de Liberia en Liberia, Keylor analiza las propiedades de polisacáridos estructurales (celulosa, quitina). ¿Cuál de las siguientes afirmaciones describe con mayor precisión el comportamiento físico-químico o estructural observado?
 
 ### Opciones
-- [x] A) La característica estructural y funcional primaria de polisacáridos estructurales (celulosa, quitina).
+- [x] C) La característica estructural y funcional primaria de polisacáridos estructurales (celulosa, quitina).
   <!-- feedback: ¡Correcto! La característica estructural y funcional primaria de polisacáridos estructurales (celulosa, quitina). es el concepto preciso evaluado en esta pregunta. -->
-- [ ] B) El comportamiento coligativo secundario registrado en Liberia.
+- [ ] A) El comportamiento coligativo secundario registrado en Liberia.
   <!-- feedback: Incorrecto. Esta opción no corresponde directamente con el postulado o propiedad de Polisacáridos estructurales (celulosa, quitina). -->
-- [ ] C) La degradación espontánea por acción de catalizadores orgánicos ajenos.
+- [ ] B) La degradación espontánea por acción de catalizadores orgánicos ajenos.
   <!-- feedback: Incorrecto. Representa una confusión común sobre los elementos de Polisacáridos estructurales (celulosa, quitina). -->
 - [ ] D) La síntesis artificial in vitro bajo condiciones estándar de temperatura.
   <!-- feedback: Incorrecto. Analice con detalle las condiciones físicas o químicas de Polisacáridos estructurales (celulosa, quitina). -->
@@ -163,13 +163,13 @@ Explicación Pedagógica: El análisis de polisacáridos estructurales (celulosa
 Durante un experimento en el laboratorio de química de Instituto de Alajuela en Alajuela, Gabriela analiza las propiedades de lípidos saponificables: triglicéridos y ácidos grasos. ¿Cuál de las siguientes afirmaciones describe con mayor precisión el comportamiento físico-químico o estructural observado?
 
 ### Opciones
-- [x] A) La característica estructural y funcional primaria de lípidos saponificables: triglicéridos y ácidos grasos.
+- [x] D) La característica estructural y funcional primaria de lípidos saponificables: triglicéridos y ácidos grasos.
   <!-- feedback: ¡Correcto! La característica estructural y funcional primaria de lípidos saponificables: triglicéridos y ácidos grasos. es el concepto preciso evaluado en esta pregunta. -->
-- [ ] B) La degradación espontánea por acción de catalizadores orgánicos ajenos.
+- [ ] A) La degradación espontánea por acción de catalizadores orgánicos ajenos.
   <!-- feedback: Incorrecto. Representa una confusión común sobre los elementos de Lípidos saponificables: triglicéridos y ácidos grasos. -->
-- [ ] C) La síntesis artificial in vitro bajo condiciones estándar de temperatura.
+- [ ] B) La síntesis artificial in vitro bajo condiciones estándar de temperatura.
   <!-- feedback: Incorrecto. Analice con detalle las condiciones físicas o químicas de Lípidos saponificables: triglicéridos y ácidos grasos. -->
-- [ ] D) El comportamiento coligativo secundario registrado en Alajuela.
+- [ ] C) El comportamiento coligativo secundario registrado en Alajuela.
   <!-- feedback: Incorrecto. Esta opción no corresponde directamente con el postulado o propiedad de Lípidos saponificables: triglicéridos y ácidos grasos. -->
 
 ### Explicacion Pedagogica
@@ -211,9 +211,9 @@ Durante un experimento en el laboratorio de química de Liceo Unesco en Pérez Z
   <!-- feedback: Incorrecto. Analice con detalle las condiciones físicas o químicas de Fosfolípidos y la bicapa lipídica. -->
 - [ ] B) El comportamiento coligativo secundario registrado en Pérez Zeledón.
   <!-- feedback: Incorrecto. Esta opción no corresponde directamente con el postulado o propiedad de Fosfolípidos y la bicapa lipídica. -->
-- [x] C) La característica estructural y funcional primaria de fosfolípidos y la bicapa lipídica.
+- [x] D) La característica estructural y funcional primaria de fosfolípidos y la bicapa lipídica.
   <!-- feedback: ¡Correcto! La característica estructural y funcional primaria de fosfolípidos y la bicapa lipídica. es el concepto preciso evaluado en esta pregunta. -->
-- [ ] D) La degradación espontánea por acción de catalizadores orgánicos ajenos.
+- [ ] C) La degradación espontánea por acción de catalizadores orgánicos ajenos.
   <!-- feedback: Incorrecto. Representa una confusión común sobre los elementos de Fosfolípidos y la bicapa lipídica. -->
 
 ### Explicacion Pedagogica
@@ -231,11 +231,11 @@ Durante un experimento en el laboratorio de química de Liceo de Costa Rica en S
 ### Opciones
 - [ ] A) La degradación espontánea por acción de catalizadores orgánicos ajenos.
   <!-- feedback: Incorrecto. Representa una confusión común sobre los elementos de Aminoácidos: estructura general y enlace peptídico. -->
-- [x] B) La característica estructural y funcional primaria de aminoácidos: estructura general y enlace peptídico.
+- [x] D) La característica estructural y funcional primaria de aminoácidos: estructura general y enlace peptídico.
   <!-- feedback: ¡Correcto! La característica estructural y funcional primaria de aminoácidos: estructura general y enlace peptídico. es el concepto preciso evaluado en esta pregunta. -->
-- [ ] C) El comportamiento coligativo secundario registrado en San José.
+- [ ] B) El comportamiento coligativo secundario registrado en San José.
   <!-- feedback: Incorrecto. Esta opción no corresponde directamente con el postulado o propiedad de Aminoácidos: estructura general y enlace peptídico. -->
-- [ ] D) La síntesis artificial in vitro bajo condiciones estándar de temperatura.
+- [ ] C) La síntesis artificial in vitro bajo condiciones estándar de temperatura.
   <!-- feedback: Incorrecto. Analice con detalle las condiciones físicas o químicas de Aminoácidos: estructura general y enlace peptídico. -->
 
 ### Explicacion Pedagogica
@@ -251,11 +251,11 @@ Explicación Pedagógica: El análisis de aminoácidos: estructura general y enl
 Durante un experimento en el laboratorio de química de Liceo de Puntarenas en Puntarenas, Gabriela analiza las propiedades de proteínas: estructura primaria, secundaria. ¿Cuál de las siguientes afirmaciones describe con mayor precisión el comportamiento físico-químico o estructural observado?
 
 ### Opciones
-- [x] A) La característica estructural y funcional primaria de proteínas: estructura primaria, secundaria.
+- [x] C) La característica estructural y funcional primaria de proteínas: estructura primaria, secundaria.
   <!-- feedback: ¡Correcto! La característica estructural y funcional primaria de proteínas: estructura primaria, secundaria. es el concepto preciso evaluado en esta pregunta. -->
-- [ ] B) La síntesis artificial in vitro bajo condiciones estándar de temperatura.
+- [ ] A) La síntesis artificial in vitro bajo condiciones estándar de temperatura.
   <!-- feedback: Incorrecto. Analice con detalle las condiciones físicas o químicas de Proteínas: estructura primaria, secundaria. -->
-- [ ] C) La degradación espontánea por acción de catalizadores orgánicos ajenos.
+- [ ] B) La degradación espontánea por acción de catalizadores orgánicos ajenos.
   <!-- feedback: Incorrecto. Representa una confusión común sobre los elementos de Proteínas: estructura primaria, secundaria. -->
 - [ ] D) El comportamiento coligativo secundario registrado en Puntarenas.
   <!-- feedback: Incorrecto. Esta opción no corresponde directamente con el postulado o propiedad de Proteínas: estructura primaria, secundaria. -->
@@ -275,9 +275,9 @@ Durante un experimento en el laboratorio de química de Liceo Unesco en Pérez Z
 ### Opciones
 - [ ] A) La síntesis artificial in vitro bajo condiciones estándar de temperatura.
   <!-- feedback: Incorrecto. Analice con detalle las condiciones físicas o químicas de Proteínas: estructura terciaria, cuaternaria. -->
-- [x] B) La característica estructural y funcional primaria de proteínas: estructura terciaria, cuaternaria.
+- [x] C) La característica estructural y funcional primaria de proteínas: estructura terciaria, cuaternaria.
   <!-- feedback: ¡Correcto! La característica estructural y funcional primaria de proteínas: estructura terciaria, cuaternaria. es el concepto preciso evaluado en esta pregunta. -->
-- [ ] C) La degradación espontánea por acción de catalizadores orgánicos ajenos.
+- [ ] B) La degradación espontánea por acción de catalizadores orgánicos ajenos.
   <!-- feedback: Incorrecto. Representa una confusión común sobre los elementos de Proteínas: estructura terciaria, cuaternaria. -->
 - [ ] D) El comportamiento coligativo secundario registrado en Pérez Zeledón.
   <!-- feedback: Incorrecto. Esta opción no corresponde directamente con el postulado o propiedad de Proteínas: estructura terciaria, cuaternaria. -->
@@ -321,9 +321,9 @@ Durante un experimento en el laboratorio de química de Liceo Nuevo de Limón en
   <!-- feedback: Incorrecto. Analice con detalle las condiciones físicas o químicas de Función estructural y de transporte de las proteínas. -->
 - [ ] B) El comportamiento coligativo secundario registrado en Limón.
   <!-- feedback: Incorrecto. Esta opción no corresponde directamente con el postulado o propiedad de Función estructural y de transporte de las proteínas. -->
-- [x] C) La característica estructural y funcional primaria de función estructural y de transporte de las proteínas.
+- [x] D) La característica estructural y funcional primaria de función estructural y de transporte de las proteínas.
   <!-- feedback: ¡Correcto! La característica estructural y funcional primaria de función estructural y de transporte de las proteínas. es el concepto preciso evaluado en esta pregunta. -->
-- [ ] D) La degradación espontánea por acción de catalizadores orgánicos ajenos.
+- [ ] C) La degradación espontánea por acción de catalizadores orgánicos ajenos.
   <!-- feedback: Incorrecto. Representa una confusión común sobre los elementos de Función estructural y de transporte de las proteínas. -->
 
 ### Explicacion Pedagogica
@@ -341,9 +341,9 @@ Durante un experimento en el laboratorio de química de Liceo Unesco en Pérez Z
 ### Opciones
 - [ ] A) La degradación espontánea por acción de catalizadores orgánicos ajenos.
   <!-- feedback: Incorrecto. Representa una confusión común sobre los elementos de Nucleótidos: estructura básica de base, azúcar, fosfato. -->
-- [x] B) La característica estructural y funcional primaria de nucleótidos: estructura básica de base, azúcar, fosfato.
+- [x] C) La característica estructural y funcional primaria de nucleótidos: estructura básica de base, azúcar, fosfato.
   <!-- feedback: ¡Correcto! La característica estructural y funcional primaria de nucleótidos: estructura básica de base, azúcar, fosfato. es el concepto preciso evaluado en esta pregunta. -->
-- [ ] C) El comportamiento coligativo secundario registrado en Pérez Zeledón.
+- [ ] B) El comportamiento coligativo secundario registrado en Pérez Zeledón.
   <!-- feedback: Incorrecto. Esta opción no corresponde directamente con el postulado o propiedad de Nucleótidos: estructura básica de base, azúcar, fosfato. -->
 - [ ] D) La síntesis artificial in vitro bajo condiciones estándar de temperatura.
   <!-- feedback: Incorrecto. Analice con detalle las condiciones físicas o químicas de Nucleótidos: estructura básica de base, azúcar, fosfato. -->
@@ -363,9 +363,9 @@ Durante un experimento en el laboratorio de química de Colegio Técnico Profesi
 ### Opciones
 - [ ] A) El comportamiento coligativo secundario registrado en Maldonado.
   <!-- feedback: Incorrecto. Esta opción no corresponde directamente con el postulado o propiedad de ADN: estructura de doble hélice y ley de Chargaff. -->
-- [x] B) La característica estructural y funcional primaria de adn: estructura de doble hélice y ley de chargaff.
+- [x] C) La característica estructural y funcional primaria de adn: estructura de doble hélice y ley de chargaff.
   <!-- feedback: ¡Correcto! La característica estructural y funcional primaria de adn: estructura de doble hélice y ley de chargaff. es el concepto preciso evaluado en esta pregunta. -->
-- [ ] C) La degradación espontánea por acción de catalizadores orgánicos ajenos.
+- [ ] B) La degradación espontánea por acción de catalizadores orgánicos ajenos.
   <!-- feedback: Incorrecto. Representa una confusión común sobre los elementos de ADN: estructura de doble hélice y ley de Chargaff. -->
 - [ ] D) La síntesis artificial in vitro bajo condiciones estándar de temperatura.
   <!-- feedback: Incorrecto. Analice con detalle las condiciones físicas o químicas de ADN: estructura de doble hélice y ley de Chargaff. -->
@@ -383,9 +383,9 @@ Explicación Pedagógica: El análisis de adn: estructura de doble hélice y ley
 Durante un experimento en el laboratorio de química de Colegio Técnico Profesional de Flores en Maldonado, José analiza las propiedades de arn: tipos (arnm, arnt, arnr) y funciones. ¿Cuál de las siguientes afirmaciones describe con mayor precisión el comportamiento físico-químico o estructural observado?
 
 ### Opciones
-- [ ] A) La degradación espontánea por acción de catalizadores orgánicos ajenos.
+- [ ] B) La degradación espontánea por acción de catalizadores orgánicos ajenos.
   <!-- feedback: Incorrecto. Representa una confusión común sobre los elementos de ARN: tipos (ARNm, ARNt, ARNr) y funciones. -->
-- [x] B) La característica estructural y funcional primaria de arn: tipos (arnm, arnt, arnr) y funciones.
+- [x] A) La característica estructural y funcional primaria de arn: tipos (arnm, arnt, arnr) y funciones.
   <!-- feedback: ¡Correcto! La característica estructural y funcional primaria de arn: tipos (arnm, arnt, arnr) y funciones. es el concepto preciso evaluado en esta pregunta. -->
 - [ ] C) La síntesis artificial in vitro bajo condiciones estándar de temperatura.
   <!-- feedback: Incorrecto. Analice con detalle las condiciones físicas o químicas de ARN: tipos (ARNm, ARNt, ARNr) y funciones. -->
@@ -407,11 +407,11 @@ Durante un experimento en el laboratorio de química de Liceo de Costa Rica en S
 ### Opciones
 - [ ] A) La degradación espontánea por acción de catalizadores orgánicos ajenos.
   <!-- feedback: Incorrecto. Representa una confusión común sobre los elementos de Enzimas: catálisis y modelo llave-cerradura. -->
-- [x] B) La característica estructural y funcional primaria de enzimas: catálisis y modelo llave-cerradura.
+- [x] D) La característica estructural y funcional primaria de enzimas: catálisis y modelo llave-cerradura.
   <!-- feedback: ¡Correcto! La característica estructural y funcional primaria de enzimas: catálisis y modelo llave-cerradura. es el concepto preciso evaluado en esta pregunta. -->
-- [ ] C) El comportamiento coligativo secundario registrado en San José.
+- [ ] B) El comportamiento coligativo secundario registrado en San José.
   <!-- feedback: Incorrecto. Esta opción no corresponde directamente con el postulado o propiedad de Enzimas: catálisis y modelo llave-cerradura. -->
-- [ ] D) La síntesis artificial in vitro bajo condiciones estándar de temperatura.
+- [ ] C) La síntesis artificial in vitro bajo condiciones estándar de temperatura.
   <!-- feedback: Incorrecto. Analice con detalle las condiciones físicas o químicas de Enzimas: catálisis y modelo llave-cerradura. -->
 
 ### Explicacion Pedagogica
@@ -429,9 +429,9 @@ Durante un experimento en el laboratorio de química de Liceo de Costa Rica en S
 ### Opciones
 - [ ] A) La degradación espontánea por acción de catalizadores orgánicos ajenos.
   <!-- feedback: Incorrecto. Representa una confusión común sobre los elementos de Factores que afectan la actividad enzimática (pH, temp). -->
-- [x] B) La característica estructural y funcional primaria de factores que afectan la actividad enzimática (ph, temp).
+- [x] C) La característica estructural y funcional primaria de factores que afectan la actividad enzimática (ph, temp).
   <!-- feedback: ¡Correcto! La característica estructural y funcional primaria de factores que afectan la actividad enzimática (ph, temp). es el concepto preciso evaluado en esta pregunta. -->
-- [ ] C) El comportamiento coligativo secundario registrado en San José.
+- [ ] B) El comportamiento coligativo secundario registrado en San José.
   <!-- feedback: Incorrecto. Esta opción no corresponde directamente con el postulado o propiedad de Factores que afectan la actividad enzimática (pH, temp). -->
 - [ ] D) La síntesis artificial in vitro bajo condiciones estándar de temperatura.
   <!-- feedback: Incorrecto. Analice con detalle las condiciones físicas o químicas de Factores que afectan la actividad enzimática (pH, temp). -->
@@ -451,9 +451,9 @@ Durante un experimento en el laboratorio de química de Instituto de Alajuela en
 ### Opciones
 - [ ] A) El comportamiento coligativo secundario registrado en Alajuela.
   <!-- feedback: Incorrecto. Esta opción no corresponde directamente con el postulado o propiedad de ATP: estructura y función como moneda energética. -->
-- [x] B) La característica estructural y funcional primaria de atp: estructura y función como moneda energética.
+- [x] C) La característica estructural y funcional primaria de atp: estructura y función como moneda energética.
   <!-- feedback: ¡Correcto! La característica estructural y funcional primaria de atp: estructura y función como moneda energética. es el concepto preciso evaluado en esta pregunta. -->
-- [ ] C) La síntesis artificial in vitro bajo condiciones estándar de temperatura.
+- [ ] B) La síntesis artificial in vitro bajo condiciones estándar de temperatura.
   <!-- feedback: Incorrecto. Analice con detalle las condiciones físicas o químicas de ATP: estructura y función como moneda energética. -->
 - [ ] D) La degradación espontánea por acción de catalizadores orgánicos ajenos.
   <!-- feedback: Incorrecto. Representa una confusión común sobre los elementos de ATP: estructura y función como moneda energética. -->

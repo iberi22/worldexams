@@ -37,8 +37,8 @@ creador: "Jules-Agent"
 
 ### Opciones
 - [ ] A) La cohesión. <!-- feedback: Incorrecto. La cohesión es la conexión gramatical. -->
-- [x] B) La coherencia. <!-- feedback: Correcto. La coherencia da unidad de sentido y tema al texto. -->
-- [ ] C) La ortografía. <!-- feedback: Incorrecto. Es una norma de escritura. -->
+- [x] C) La coherencia. <!-- feedback: Correcto. La coherencia da unidad de sentido y tema al texto. -->
+- [ ] B) La ortografía. <!-- feedback: Incorrecto. Es una norma de escritura. -->
 - [ ] D) La tipografía. <!-- feedback: Incorrecto. Se refiere al diseño de las letras. -->
 
 ### Explicacion Pedagogica
@@ -58,8 +58,8 @@ La coherencia es la propiedad fundamental que permite que un conjunto de oracion
 
 ### Opciones
 - [ ] A) El titular. <!-- feedback: Incorrecto. El titular solo atrae y resume. -->
-- [ ] B) El cuerpo de la noticia. <!-- feedback: Incorrecto. El cuerpo desarrolla los detalles. -->
-- [x] C) La entradilla o lead. <!-- feedback: Correcto. Es el primer párrafo que condensa los datos esenciales. -->
+- [ ] C) El cuerpo de la noticia. <!-- feedback: Incorrecto. El cuerpo desarrolla los detalles. -->
+- [x] B) La entradilla o lead. <!-- feedback: Correcto. Es el primer párrafo que condensa los datos esenciales. -->
 - [ ] D) El pie de foto. <!-- feedback: Incorrecto. Describe la imagen acompañante. -->
 
 ### Explicacion Pedagogica
@@ -79,8 +79,8 @@ En la oración: "Compré frutas **y** verduras **para** mi familia", las palabra
 
 ### Opciones
 - [ ] A) Preposición y conjunción. <!-- feedback: Incorrecto. El orden está invertido. -->
-- [x] B) Conjunción y preposición. <!-- feedback: Correcto. "Y" es una conjunción copulativa y "para" es una preposición de finalidad. -->
-- [ ] C) Artículo y adjetivo. <!-- feedback: Incorrecto. Ninguna de las dos palabras pertenece a esas categorías. -->
+- [x] C) Conjunción y preposición. <!-- feedback: Correcto. "Y" es una conjunción copulativa y "para" es una preposición de finalidad. -->
+- [ ] B) Artículo y adjetivo. <!-- feedback: Incorrecto. Ninguna de las dos palabras pertenece a esas categorías. -->
 - [ ] D) Verbo y adverbio. <!-- feedback: Incorrecto. No indican acciones ni circunstancias. -->
 
 ### Explicacion Pedagogica
@@ -122,8 +122,8 @@ El artículo de opinión pertenece a los géneros argumentativos. Su éxito depe
 ### Opciones
 - [ ] A) Sin embargo. <!-- feedback: Incorrecto. Indica oposición. -->
 - [ ] B) Además. <!-- feedback: Incorrecto. Indica suma. -->
-- [x] C) Por lo tanto. <!-- feedback: Correcto. Indica una consecuencia directa. -->
-- [ ] D) Pero. <!-- feedback: Incorrecto. También indica oposición. -->
+- [x] D) Por lo tanto. <!-- feedback: Correcto. Indica una consecuencia directa. -->
+- [ ] C) Pero. <!-- feedback: Incorrecto. También indica oposición. -->
 
 ### Explicacion Pedagogica
 Los conectores de consecuencia (por lo tanto, así que, en consecuencia) son herramientas de cohesión que muestran la relación causa-efecto en el pensamiento escrito.
@@ -141,8 +141,8 @@ Los conectores de consecuencia (por lo tanto, así que, en consecuencia) son her
 ¿Para qué sirve el campo "Asunto" en un correo electrónico enviado a un profesor?
 
 ### Opciones
-- [ ] A) Para escribir todo el cuerpo ahí. <!-- feedback: Incorrecto. El asunto debe ser corto. -->
-- [x] B) Para resumir el tema del mensaje y que el profesor sepa de qué trata. <!-- feedback: Correcto. Mejora la organización. -->
+- [ ] B) Para escribir todo el cuerpo ahí. <!-- feedback: Incorrecto. El asunto debe ser corto. -->
+- [x] A) Para resumir el tema del mensaje y que el profesor sepa de qué trata. <!-- feedback: Correcto. Mejora la organización. -->
 - [ ] C) Para poner la fecha y la hora del envío. <!-- feedback: Incorrecto. Se pone automáticamente. -->
 - [ ] D) Para poner una lista de chistes. <!-- feedback: Incorrecto. Debe ser formal. -->
 
@@ -183,9 +183,9 @@ La interactividad es el rasgo distintivo de las redes sociales, transformando la
 ¿Qué signo de puntuación se usa para introducir una cita textual después de frases como "El autor dijo"?
 
 ### Opciones
-- [ ] A) El punto y coma. <!-- feedback: Incorrecto. Separa enunciados complejos. -->
-- [ ] B) El paréntesis. <!-- feedback: Incorrecto. Sirve para aclaraciones. -->
-- [x] C) Los dos puntos. <!-- feedback: Correcto. Los dos puntos anuncian la cita literal. -->
+- [ ] B) El punto y coma. <!-- feedback: Incorrecto. Separa enunciados complejos. -->
+- [ ] C) El paréntesis. <!-- feedback: Incorrecto. Sirve para aclaraciones. -->
+- [x] A) Los dos puntos. <!-- feedback: Correcto. Los dos puntos anuncian la cita literal. -->
 - [ ] D) La interrogación. <!-- feedback: Incorrecto. Formula preguntas. -->
 
 ### Explicacion Pedagogica

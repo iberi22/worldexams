@@ -30,9 +30,9 @@ creador: "Jules-Agent"
 ¿Cómo se denomina al par de ángulos cuya suma es exactamente 90°?
 
 ### Opciones
-- [ ] A) Ángulos suplementarios.
+- [ ] B) Ángulos suplementarios.
   <!-- feedback: Incorrecto. Los ángulos suplementarios suman 180°. -->
-- [x] B) Ángulos complementarios.
+- [x] A) Ángulos complementarios.
   <!-- feedback: Correcto. Por definición, dos ángulos son complementarios si la suma de sus medidas es un ángulo recto (90°). -->
 - [ ] C) Ángulos conjugados.
   <!-- feedback: Incorrecto. Los ángulos conjugados suelen sumar 360° o referirse a posiciones entre paralelas. -->
@@ -107,9 +107,9 @@ Dos ángulos son complementarios y uno de ellos es el doble del otro. ¿Cuánto 
 ### Opciones
 - [ ] A) 30°
   <!-- feedback: Incorrecto. Este es el ángulo menor. -->
-- [x] B) 60°
+- [x] C) 60°
   <!-- feedback: Correcto. $x + 2x = 90 \Rightarrow 3x = 90 \Rightarrow x = 30$. El mayor es $2x = 60$. -->
-- [ ] C) 45°
+- [ ] B) 45°
   <!-- feedback: Incorrecto. En este caso los ángulos serían iguales. -->
 - [ ] D) 120°
   <!-- feedback: Incorrecto. Supera el límite de la suma de ángulos complementarios (90°). -->
@@ -132,9 +132,9 @@ Se tienen tres ángulos consecutivos alrededor de un punto en un mismo lado de u
 ### Opciones
 - [ ] A) 20°
   <!-- feedback: Incorrecto. Verifique la suma total de los ángulos sobre una recta. -->
-- [x] B) 30°
+- [x] C) 30°
   <!-- feedback: Correcto. La suma es 180°. $x + 2x + 3x = 180 \Rightarrow 6x = 180 \Rightarrow x = 30$. -->
-- [ ] C) 60°
+- [ ] B) 60°
   <!-- feedback: Incorrecto. Este es el ángulo intermedio. -->
 - [ ] D) 15°
   <!-- feedback: Incorrecto. La suma total con este valor no llegaría a 180°. -->
@@ -157,11 +157,11 @@ En un ángulo $AOB$ de 80°, se traza la bisectriz $OM$. Luego, se traza la bise
 ### Opciones
 - [ ] A) 40°
   <!-- feedback: Incorrecto. Olvidó sumar la segunda partición al primer sector. -->
-- [x] B) 60°
+- [x] D) 60°
   <!-- feedback: Correcto. $OM$ divide al ángulo en dos de 40°. $MOB$ mide 40°. Su bisectriz $ON$ lo divide en dos de 20°. $AON = AOM + MON = 40 + 20 = 60$. -->
-- [ ] C) 20°
+- [ ] B) 20°
   <!-- feedback: Incorrecto. Esta es solo la medida de la última partición efectuada. -->
-- [ ] D) 70°
+- [ ] C) 70°
   <!-- feedback: Incorrecto. Supera la medida lógica de la suma de los sectores. -->
 
 ### Explicacion Pedagogica
@@ -180,9 +180,9 @@ La bisectriz divide a un ángulo en dos partes iguales. Realizamos el cálculo p
 Dos rectas se cortan formando ángulos opuestos por el vértice. Si uno de ellos mide $5x - 10$ y el otro mide $2x + 20$, ¿cuál es el valor de $x$?
 
 ### Opciones
-- [ ] A) 5
+- [ ] B) 5
   <!-- feedback: Incorrecto. Error al agrupar los términos de la ecuación. -->
-- [x] B) 10
+- [x] A) 10
   <!-- feedback: Correcto. Los ángulos opuestos por el vértice son iguales. $5x - 10 = 2x + 20 \Rightarrow 3x = 30 \Rightarrow x = 10$. -->
 - [ ] C) 15
   <!-- feedback: Incorrecto. Al sustituir, daría $65$ y $50$, que no son iguales. -->
@@ -207,9 +207,9 @@ Halle el valor de la medida de un ángulo si se sabe que su suplemento es el tri
 ### Opciones
 - [ ] A) 30°
   <!-- feedback: Incorrecto. El suplemento sería 150 y el complemento 60; 150 no es el triple de 60. -->
-- [x] B) 45°
+- [x] C) 45°
   <!-- feedback: Correcto. $180 - x = 3(90 - x) \Rightarrow 180 - x = 270 - 3x \Rightarrow 2x = 90 \Rightarrow x = 45$. -->
-- [ ] C) 60°
+- [ ] B) 60°
   <!-- feedback: Incorrecto. El suplemento 120 no es el triple del complemento 30. -->
 - [ ] D) 15°
   <!-- feedback: Incorrecto. No satisface la igualdad planteada. -->
@@ -232,9 +232,9 @@ En una gráfica de paralelas $L_1 // L_2$, se observa que un ángulo interno es 
 ### Opciones
 - [ ] A) 20
   <!-- feedback: Incorrecto. Igualó los ángulos en lugar de sumarlos. -->
-- [x] B) 40
+- [x] C) 40
   <!-- feedback: Correcto. Los ángulos conjugados internos entre paralelas son suplementarios. $(x + 40) + (2x + 20) = 180 \Rightarrow 3x + 60 = 180 \Rightarrow 3x = 120 \Rightarrow x = 40$. -->
-- [ ] C) 60
+- [ ] B) 60
   <!-- feedback: Incorrecto. Al sustituir, la suma excedería los 180°. -->
 - [ ] D) 30
   <!-- feedback: Incorrecto. Error en la simplificación de la ecuación. -->
@@ -257,11 +257,11 @@ Si un ángulo mide 42° 35', ¿cuánto mide su ángulo complementario expresado 
 ### Opciones
 - [ ] A) 48° 25'
   <!-- feedback: Incorrecto. Olvidó que al restar de 90°, debe "pedir prestado" un grado convirtiéndolo en 60 minutos. -->
-- [x] B) 47° 25'
+- [x] D) 47° 25'
   <!-- feedback: Correcto. $90° 00' - 42° 35' = 89° 60' - 42° 35' = 47° 25'$. -->
-- [ ] C) 47° 35'
+- [ ] B) 47° 35'
   <!-- feedback: Incorrecto. Error en la resta de los minutos. -->
-- [ ] D) 48° 35'
+- [ ] C) 48° 35'
   <!-- feedback: Incorrecto. Error tanto en grados como en minutos. -->
 
 ### Explicacion Pedagogica
@@ -307,9 +307,9 @@ Entre dos rectas paralelas se traza una línea quebrada. Los ángulos que apunta
 ### Opciones
 - [ ] A) 10°
   <!-- feedback: Incorrecto. Error en el sentido de la igualdad de la propiedad. -->
-- [x] B) 50°
+- [x] C) 50°
   <!-- feedback: Correcto. Propiedad del serrucho: Suma de ángulos a la derecha = Suma de ángulos a la izquierda. $20 + x = 30 + 40 \Rightarrow 20 + x = 70 \Rightarrow x = 50$. -->
-- [ ] C) 70°
+- [ ] B) 70°
   <!-- feedback: Incorrecto. Olvidó restar el ángulo ya conocido del lado derecho. -->
 - [ ] D) 90°
   <!-- feedback: Incorrecto. Valor físicamente imposible para el esquema descrito. -->
@@ -332,11 +332,11 @@ La propiedad del serrucho para rectas paralelas establece que la suma de las med
 ### Opciones
 - [ ] A) $\pi/2$
   <!-- feedback: Incorrecto. Este es un ángulo de 90°, que es igual a su suplemento, no a la mitad. -->
-- [x] B) $\pi/3$
+- [x] D) $\pi/3$
   <!-- feedback: Correcto. $x = (180 - x) / 2 \Rightarrow 2x = 180 - x \Rightarrow 3x = 180 \Rightarrow x = 60°$. En radianes: $60 \cdot (\pi / 180) = \pi/3$. -->
-- [ ] C) $\pi/6$
+- [ ] B) $\pi/6$
   <!-- feedback: Incorrecto. Corresponde a 30°, que es la sexta parte del suplemento de 150. -->
-- [ ] D) $2\pi/3$
+- [ ] C) $2\pi/3$
   <!-- feedback: Incorrecto. Este ángulo (120°) es el doble de su suplemento. -->
 
 ### Explicacion Pedagogica
@@ -357,9 +357,9 @@ Primero resolvemos el problema en el sistema sexagesimal para facilitar el cálc
 ### Opciones
 - [ ] A) 120°
   <!-- feedback: Incorrecto. Este es el ángulo si la manecilla de la hora estuviera fija en el 3. -->
-- [x] B) 130°
+- [x] C) 130°
   <!-- feedback: Correcto. Fórmula: $\theta = |30H - 5.5M|$. $\theta = |30(3) - 5.5(40)| = |90 - 220| = |-130| = 130$. -->
-- [ ] C) 150°
+- [ ] B) 150°
   <!-- feedback: Incorrecto. Error al calcular el desplazamiento de la manecilla de las horas. -->
 - [ ] D) 110°
   <!-- feedback: Incorrecto. Realizó mal la resta en la fórmula de ángulos horarios. -->
@@ -382,9 +382,9 @@ Se tienen dos ángulos adyacentes $AOB$ y $BOC$ que suman 110°. ¿Cuál es la m
 ### Opciones
 - [ ] A) 110°
   <!-- feedback: Incorrecto. El ángulo entre bisectrices siempre es menor que la suma total. -->
-- [x] B) 55°
+- [x] C) 55°
   <!-- feedback: Correcto. Sean $2\alpha$ y $2\beta$ los ángulos. $2\alpha + 2\beta = 110 \Rightarrow \alpha + \beta = 55$. El ángulo entre bisectrices es justamente $\alpha + \beta$. -->
-- [ ] C) 45°
+- [ ] B) 45°
   <!-- feedback: Incorrecto. No es la mitad de 110. -->
 - [ ] D) 27.5°
   <!-- feedback: Incorrecto. Dividió la suma dos veces por 2 de manera errónea. -->
@@ -407,11 +407,11 @@ Si $S$ y $C$ son el número de grados sexagesimales y centesimales de un mismo �
 ### Opciones
 - [ ] A) $\pi/10$
   <!-- feedback: Incorrecto. Este es el valor si la diferencia fuera 2. -->
-- [x] B) $\pi/5$
+- [x] D) $\pi/5$
   <!-- feedback: Correcto. Sabemos que $S = 9k$ y $C = 10k$. Entonces $10k - 9k = 4 \Rightarrow k = 4$. El ángulo en sexagesimales es $9(4) = 36°$. En radianes: $36 \cdot (\pi/180) = \pi/5$. -->
-- [ ] C) $\pi/20$
+- [ ] B) $\pi/20$
   <!-- feedback: Incorrecto. Valor muy pequeño para la relación dada. -->
-- [ ] D) $2\pi/5$
+- [ ] C) $2\pi/5$
   <!-- feedback: Incorrecto. Corresponde al doble del valor correcto. -->
 
 ### Explicacion Pedagogica
@@ -432,11 +432,11 @@ Usamos la relación fundamental entre sistemas: $S/180 = C/200 = R/\pi$, que se 
 ### Opciones
 - [ ] A) 90°
   <!-- feedback: Incorrecto. El doble sería 180, pero la diferencia $S-C$ es siempre 90. -->
-- [x] B) 45°
+- [x] D) 45°
   <!-- feedback: Correcto. $(180 - x) - (90 - x) = 2x \Rightarrow 90 = 2x \Rightarrow x = 45$. -->
-- [ ] C) 30°
+- [ ] B) 30°
   <!-- feedback: Incorrecto. No satisface la condición del doble. -->
-- [ ] D) 60°
+- [ ] C) 60°
   <!-- feedback: Incorrecto. La diferencia $S-C$ es constante e independiente de $x$, pero aquí se iguala a una función de $x$. -->
 
 ### Explicacion Pedagogica
@@ -455,9 +455,9 @@ Notamos que la expresión "suplemento menos complemento" siempre es igual a 90°
 Se tienen los ángulos consecutivos $AOB, BOC, COD$. Si las bisectrices de $AOB$ y $COD$ son perpendiculares entre sí, y la medida del ángulo $BOC$ es 40°, ¿cuánto mide el ángulo $AOD$?
 
 ### Opciones
-- [ ] A) 130°
+- [ ] B) 130°
   <!-- feedback: Incorrecto. No consideró que las bisectrices incluyen solo la mitad de los ángulos extremos. -->
-- [x] B) 140°
+- [x] A) 140°
   <!-- feedback: Correcto. Sean $2\alpha = AOB$ y $2\gamma = COD$. El ángulo entre bisectrices es $\alpha + 40 + \gamma = 90 \Rightarrow \alpha + \gamma = 50$. El ángulo total $AOD = 2\alpha + 40 + 2\gamma = 2(\alpha + \gamma) + 40 = 2(50) + 40 = 140$. -->
 - [ ] C) 180°
   <!-- feedback: Incorrecto. Esto implicaría que los ángulos extremos son mucho mayores. -->
@@ -482,11 +482,11 @@ Se tienen $n$ ángulos consecutivos alrededor de un punto que están en progresi
 ### Opciones
 - [ ] A) 10
   <!-- feedback: Incorrecto. La suma excedería los 360°. -->
-- [x] B) 12
+- [x] D) 12
   <!-- feedback: Correcto. Suma $= (10 + 50) \cdot n / 2 = 360 \Rightarrow 60 \cdot n = 720 \Rightarrow n = 12$. -->
-- [ ] C) 9
+- [ ] B) 9
   <!-- feedback: Incorrecto. La suma sería de 270°, insuficiente para rodear el punto. -->
-- [ ] D) 15
+- [ ] C) 15
   <!-- feedback: Incorrecto. La suma superaría el límite de un giro completo. -->
 
 ### Explicacion Pedagogica
@@ -507,11 +507,11 @@ En un plano, los vectores $\vec{A}$ y $\vec{B}$ forman un ángulo $\theta$. Si s
 ### Opciones
 - [ ] A) Los vectores son perpendiculares.
   <!-- feedback: Incorrecto. La perpendicularidad no garantiza la maximización de una componente específica tras rotación. -->
-- [x] B) La bisectriz del ángulo entre ellos forma 60° con el eje $X$ original.
+- [x] D) La bisectriz del ángulo entre ellos forma 60° con el eje $X$ original.
   <!-- feedback: Correcto. Para maximizar la componente $x$ total tras rotar 30°, la resultante debe quedar sobre el nuevo eje $X$. Por lo tanto, la resultante original debía estar a 30° del eje $X$. Si los vectores tienen igual magnitud, su bisectriz coincide con la resultante. (Nota: Asumiendo magnitudes iguales para la simplicidad del reto). -->
-- [ ] C) Los vectores son paralelos.
+- [ ] B) Los vectores son paralelos.
   <!-- feedback: Incorrecto. No permitiría la variación analizada. -->
-- [ ] D) El ángulo $\theta$ debe ser de 120°.
+- [ ] C) El ángulo $\theta$ debe ser de 120°.
   <!-- feedback: Incorrecto. El valor del ángulo no es la clave, sino la orientación de la resultante. -->
 
 ### Explicacion Pedagogica

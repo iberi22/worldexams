@@ -50,9 +50,9 @@ El diccionario ordena sus palabras alfabéticamente para facilitar la búsqueda.
 ### Enunciado
 ¿Para qué sirve el diccionario?
 ### Opciones
-- [x] A) Para consultar el significado y la escritura de las palabras.
+- [x] B) Para consultar el significado y la escritura de las palabras.
   <!-- feedback: Es correcta porque el diccionario reúne los significados y la forma correcta de escribir. -->
-- [ ] B) Para guardar las notas del cuaderno.
+- [ ] A) Para guardar las notas del cuaderno.
   <!-- feedback: Es incorrecta porque el diccionario no es un cuaderno de apuntes. -->
 - [ ] C) Para dibujar paisajes con colores.
   <!-- feedback: Es incorrecta porque el diccionario contiene palabras, no dibujos para pintar. -->
@@ -70,9 +70,9 @@ El diccionario es una obra de consulta que explica el significado de las palabra
 ### Enunciado
 ¿Cuál de estas palabras aparece primero en orden alfabético?
 ### Opciones
-- [x] A) laguna
+- [x] B) laguna
   <!-- feedback: Es correcta porque "la" va antes que "lá", "li" y "lu". -->
-- [ ] B) lápiz
+- [ ] A) lápiz
   <!-- feedback: Es incorrecta porque debe comparar la segunda letra y "la" gana a "lá". -->
 - [ ] C) libro
   <!-- feedback: Es incorrecta porque "li" va después de "la". -->
@@ -90,13 +90,13 @@ Cuando dos palabras empiezan igual, se compara la segunda letra y luego la terce
 ### Enunciado
 ¿Encuentra la palabra "tortuga" en esa página?
 ### Opciones
-- [x] A) Sí, porque "tortuga" queda entre "tomate" y "tren".
+- [x] D) Sí, porque "tortuga" queda entre "tomate" y "tren".
   <!-- feedback: Es correcta porque "tor" va después de "tom" y antes de "tre". -->
-- [ ] B) No, porque "tortuga" va antes de "tomate".
+- [ ] A) No, porque "tortuga" va antes de "tomate".
   <!-- feedback: Es incorrecta porque "tor" va después de "tom" por la letra r. -->
-- [ ] C) No, porque "tortuga" va después de "tren".
+- [ ] B) No, porque "tortuga" va después de "tren".
   <!-- feedback: Es incorrecta porque "tor" va antes de "tre". -->
-- [ ] D) No, porque el diccionario no incluye animales.
+- [ ] C) No, porque el diccionario no incluye animales.
   <!-- feedback: Es incorrecta porque el diccionario incluye los nombres de los animales. -->
 ### Explicacion Pedagogica
 Las palabras guía indican la primera y la última palabra de cada página. Aplicar su lectura permite saber si una palabra está dentro de esa página comparando las letras en orden.
@@ -110,9 +110,9 @@ Las palabras guía indican la primera y la última palabra de cada página. Apli
 ### Enunciado
 Según esa entrada del diccionario, ¿qué es la brisa?
 ### Opciones
-- [x] A) Un viento suave.
+- [x] B) Un viento suave.
   <!-- feedback: Es correcta porque la definición del diccionario lo dice con esas palabras. -->
-- [ ] B) Una lluvia fuerte.
+- [ ] A) Una lluvia fuerte.
   <!-- feedback: Es incorrecta porque la definición habla de viento y no de lluvia. -->
 - [ ] C) Una ola gigante.
   <!-- feedback: Es incorrecta porque la definición no menciona el mar ni las olas. -->
@@ -130,11 +130,11 @@ Aplicar la consulta del diccionario significa leer la definición y tomar de ell
 ### Enunciado
 Al analizar el orden, ¿cuál de estas palabras NO aparecería en esa página?
 ### Opciones
-- [x] A) guitarra
+- [x] C) guitarra
   <!-- feedback: Es correcta porque "gu" va después de "gi" y quedaría fuera de la página. -->
-- [ ] B) gente
+- [ ] A) gente
   <!-- feedback: Es incorrecta porque "ge" queda entre "gato" y "girasol". -->
-- [ ] C) gimnasio
+- [ ] B) gimnasio
   <!-- feedback: Es incorrecta porque "gim" va antes de "girasol". -->
 - [ ] D) gemelo
   <!-- feedback: Es incorrecta porque "ge" queda entre las dos palabras guía. -->
@@ -150,13 +150,13 @@ Analizar las palabras guía exige comparar letra por letra. Una palabra solo per
 ### Enunciado
 ¿Cuál es el orden alfabético correcto de las tres palabras?
 ### Opciones
-- [x] A) cama, casa, caza
+- [x] D) cama, casa, caza
   <!-- feedback: Es correcta porque con la segunda letra m va antes que s y s antes que z. -->
-- [ ] B) casa, cama, caza
+- [ ] A) casa, cama, caza
   <!-- feedback: Es incorrecta porque "cama" debe ir antes que "casa". -->
-- [ ] C) caza, casa, cama
+- [ ] B) caza, casa, cama
   <!-- feedback: Es incorrecta porque "caza" es la última de las tres. -->
-- [ ] D) cama, caza, casa
+- [ ] C) cama, caza, casa
   <!-- feedback: Es incorrecta porque "casa" con s va antes que "caza" con z. -->
 ### Explicacion Pedagogica
 Analizar el orden de palabras con la misma primera letra exige comparar la segunda y la tercera. En "cama, casa, caza" la letra que decide es la tercera: m, s y z. Este criterio ordena listas con precisión.
@@ -170,11 +170,11 @@ Analizar el orden de palabras con la misma primera letra exige comparar la segun
 ### Enunciado
 ¿Cuál estrategia es la mejor para encontrar la palabra rápidamente?
 ### Opciones
-- [x] A) Abrir por la letra M y usar las palabras guía para ubicar "mariposa".
+- [x] C) Abrir por la letra M y usar las palabras guía para ubicar "mariposa".
   <!-- feedback: Es correcta porque combina el orden alfabético con las guías de cada página. -->
-- [ ] B) Leer todas las páginas desde la A hasta el final.
+- [ ] A) Leer todas las páginas desde la A hasta el final.
   <!-- feedback: Es incorrecta porque recorrer todo el diccionario hace perder mucho tiempo. -->
-- [ ] C) Buscar al azar y esperar tener suerte.
+- [ ] B) Buscar al azar y esperar tener suerte.
   <!-- feedback: Es incorrecta porque depender de la suerte no garantiza encontrar la palabra. -->
 - [ ] D) Preguntar el significado sin abrir el diccionario.
   <!-- feedback: Es incorrecta porque no consulta la fuente y puede recibir una respuesta equivocada. -->

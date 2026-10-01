@@ -36,9 +36,9 @@ The term "mass media" refers to various means of communication that reach or inf
 
 ### Opciones
 - [ ] A) archive <!-- feedback: Incorrect. An archive is a collection of records. -->
-- [x] B) mass media <!-- feedback: Correct. Mass media is the standard term for large-scale communication methods. -->
-- [ ] C) gossip <!-- feedback: Incorrect. Gossip is informal conversation. -->
-- [ ] D) manuscript <!-- feedback: Incorrect. A manuscript is a hand-written document. -->
+- [x] D) mass media <!-- feedback: Correct. Mass media is the standard term for large-scale communication methods. -->
+- [ ] B) gossip <!-- feedback: Incorrect. Gossip is informal conversation. -->
+- [ ] C) manuscript <!-- feedback: Incorrect. A manuscript is a hand-written document. -->
 
 ### Explicacion Pedagogica
 'Mass media' is the technical term for the diverse array of media technologies that reach a large audience.
@@ -56,9 +56,9 @@ Information is disseminated across the globe in seconds thanks to digital platfo
 
 ### Opciones
 - [ ] A) disseminate <!-- feedback: Incorrect. Plural verb form with a singular subject. -->
-- [x] B) is disseminated <!-- feedback: Correct. Present simple passive for a general fact about an uncountable noun. -->
-- [ ] C) are disseminated <!-- feedback: Incorrect. 'Information' is singular. -->
-- [ ] D) disseminating <!-- feedback: Incorrect. Gerund doesn't fit here. -->
+- [x] D) is disseminated <!-- feedback: Correct. Present simple passive for a general fact about an uncountable noun. -->
+- [ ] B) are disseminated <!-- feedback: Incorrect. 'Information' is singular. -->
+- [ ] C) disseminating <!-- feedback: Incorrect. Gerund doesn't fit here. -->
 
 ### Explicacion Pedagogica
 'Information' is an uncountable noun in English and takes a singular verb. The passive voice is used to focus on the action.
@@ -75,8 +75,8 @@ Information is disseminated across the globe in seconds thanks to digital platfo
 You shouldn't believe everything you read on social media without verifying the source first.
 
 ### Opciones
-- [ ] A) might not <!-- feedback: Incorrect. Too weak for a warning. -->
-- [x] B) shouldn't <!-- feedback: Correct. 'Shouldn't' is used to give negative advice. -->
+- [ ] B) might not <!-- feedback: Incorrect. Too weak for a warning. -->
+- [x] A) shouldn't <!-- feedback: Correct. 'Shouldn't' is used to give negative advice. -->
 - [ ] C) wouldn't <!-- feedback: Incorrect. Used for conditionals. -->
 - [ ] D) can't <!-- feedback: Incorrect. 'Shouldn't' implies advice against the action. -->
 
@@ -95,8 +95,8 @@ You shouldn't believe everything you read on social media without verifying the 
 Sensationalist headlines are often used as "clickbait" to entice users to click on a link.
 
 ### Opciones
-- [x] A) clickbait <!-- feedback: Correct. Clickbait attracts attention and encourages clicks. -->
-- [ ] B) editorial <!-- feedback: Incorrect. An editorial is an opinion piece. -->
+- [x] B) clickbait <!-- feedback: Correct. Clickbait attracts attention and encourages clicks. -->
+- [ ] A) editorial <!-- feedback: Incorrect. An editorial is an opinion piece. -->
 - [ ] C) feature <!-- feedback: Incorrect. A feature is a prominent article. -->
 - [ ] D) obituary <!-- feedback: Incorrect. An obituary is a notice of a death. -->
 
@@ -116,8 +116,8 @@ The primary responsibility of a journalist is to provide unbiased and accurate r
 
 ### Opciones
 - [ ] A) biased <!-- feedback: Incorrect. Biased means favoring one side. -->
-- [x] B) unbiased <!-- feedback: Correct. Unbiased means showing no prejudice; impartial. -->
-- [ ] C) creative <!-- feedback: Incorrect. While reporting can be creative, 'unbiased' is more fundamental. -->
+- [x] C) unbiased <!-- feedback: Correct. Unbiased means showing no prejudice; impartial. -->
+- [ ] B) creative <!-- feedback: Incorrect. While reporting can be creative, 'unbiased' is more fundamental. -->
 - [ ] D) profitable <!-- feedback: Incorrect. The journalist's responsibility is towards truth. -->
 
 ### Explicacion Pedagogica
@@ -136,9 +136,9 @@ A slogan is a short and striking or memorable phrase used in advertising.
 
 ### Opciones
 - [ ] A) paragraph <!-- feedback: Incorrect. A paragraph is a group of sentences. -->
-- [x] B) slogan <!-- feedback: Correct. A slogan is a memorable motto or phrase. -->
-- [ ] C) dialogue <!-- feedback: Incorrect. A dialogue is a conversation. -->
-- [ ] D) prologue <!-- feedback: Incorrect. A prologue is an introductory section. -->
+- [x] D) slogan <!-- feedback: Correct. A slogan is a memorable motto or phrase. -->
+- [ ] B) dialogue <!-- feedback: Incorrect. A dialogue is a conversation. -->
+- [ ] C) prologue <!-- feedback: Incorrect. A prologue is an introductory section. -->
 
 ### Explicacion Pedagogica
 'Slogan' is the specific term for a catchphrase used in marketing.
@@ -175,8 +175,8 @@ The passive voice 'are blocked' is used because the subject (the websites) is th
 Social media algorithms can create "echo chambers" where users are only exposed to information that reinforces their existing beliefs.
 
 ### Opciones
-- [ ] A) challenges <!-- feedback: Incorrect. Echo chambers prevent challenging information. -->
-- [x] B) reinforces <!-- feedback: Correct. To reinforce means to strengthen or support. -->
+- [ ] B) challenges <!-- feedback: Incorrect. Echo chambers prevent challenging information. -->
+- [x] A) reinforces <!-- feedback: Correct. To reinforce means to strengthen or support. -->
 - [ ] C) contradicts <!-- feedback: Incorrect. This is the opposite. -->
 - [ ] D) ignores <!-- feedback: Incorrect. The beliefs are confirmed. -->
 
@@ -236,8 +236,8 @@ The editor is the person in charge of a newspaper or magazine who decides what s
 
 ### Opciones
 - [ ] A) reporter <!-- feedback: Incorrect. Reporters write the stories. -->
-- [x] B) editor <!-- feedback: Correct. The editor manages the content and staff. -->
-- [ ] C) illustrator <!-- feedback: Incorrect. Illustrators create images. -->
+- [x] C) editor <!-- feedback: Correct. The editor manages the content and staff. -->
+- [ ] B) illustrator <!-- feedback: Incorrect. Illustrators create images. -->
 - [ ] D) subscriber <!-- feedback: Incorrect. Subscribers are the people who pay. -->
 
 ### Explicacion Pedagogica
@@ -256,8 +256,8 @@ Traditional print newspapers have been replaced by digital news sites over the l
 
 ### Opciones
 - [ ] A) replaced <!-- feedback: Incorrect. Active voice. -->
-- [ ] B) are replaced <!-- feedback: Incorrect. Present simple passive. -->
-- [x] C) have been replaced <!-- feedback: Correct. Present perfect passive for a process starting in the past and continuing. -->
+- [ ] C) are replaced <!-- feedback: Incorrect. Present simple passive. -->
+- [x] B) have been replaced <!-- feedback: Correct. Present perfect passive for a process starting in the past and continuing. -->
 - [ ] D) will be replaced <!-- feedback: Incorrect. Future tense. -->
 
 ### Explicacion Pedagogica
@@ -276,9 +276,9 @@ Media literacy is the ability to access, analyze, evaluate, and create media in 
 
 ### Opciones
 - [ ] A) fluency <!-- feedback: Incorrect. Fluency is usually about language speaking. -->
-- [x] B) literacy <!-- feedback: Correct. Media literacy is the specific term. -->
-- [ ] C) technology <!-- feedback: Incorrect. Technology is the tool. -->
-- [ ] D) consumption <!-- feedback: Incorrect. Consumption is the act of using media. -->
+- [x] D) literacy <!-- feedback: Correct. Media literacy is the specific term. -->
+- [ ] B) technology <!-- feedback: Incorrect. Technology is the tool. -->
+- [ ] C) consumption <!-- feedback: Incorrect. Consumption is the act of using media. -->
 
 ### Explicacion Pedagogica
 'Media literacy' is the standard educational term for the critical thinking skills used to navigate the media landscape.
@@ -295,8 +295,8 @@ Media literacy is the ability to access, analyze, evaluate, and create media in 
 If the news reported more positive stories, people's mental health might improve.
 
 ### Opciones
-- [ ] A) report <!-- feedback: Incorrect. First conditional. -->
-- [x] B) reported <!-- feedback: Correct. Second conditional for a hypothetical change. -->
+- [ ] B) report <!-- feedback: Incorrect. First conditional. -->
+- [x] A) reported <!-- feedback: Correct. Second conditional for a hypothetical change. -->
 - [ ] C) had reported <!-- feedback: Incorrect. Third conditional. -->
 - [ ] D) would report <!-- feedback: Incorrect. 'Would' not used in 'if' clause. -->
 
@@ -336,9 +336,9 @@ A broadcast is a live or recorded performance that is transmitted on television 
 
 ### Opciones
 - [ ] A) column <!-- feedback: Incorrect. A column is a regular feature in a newspaper. -->
-- [x] B) broadcast <!-- feedback: Correct. A broadcast is a program transmitted over airwaves or internet. -->
-- [ ] C) headline <!-- feedback: Incorrect. A headline is the title. -->
-- [ ] D) caption <!-- feedback: Incorrect. A caption is a short text under a picture. -->
+- [x] D) broadcast <!-- feedback: Correct. A broadcast is a program transmitted over airwaves or internet. -->
+- [ ] B) headline <!-- feedback: Incorrect. A headline is the title. -->
+- [ ] C) caption <!-- feedback: Incorrect. A caption is a short text under a picture. -->
 
 ### Explicacion Pedagogica
 'Broadcast' can be used to refer to transmitted media content.
@@ -355,9 +355,9 @@ A broadcast is a live or recorded performance that is transmitted on television 
 I wish I hadn't spent so much time watching mindless television yesterday.
 
 ### Opciones
-- [ ] A) don't spend <!-- feedback: Incorrect. Present tense. -->
-- [ ] B) didn't spend <!-- feedback: Incorrect. Wish about the present. -->
-- [x] C) hadn't spent <!-- feedback: Correct. 'Wish + past perfect' is used to express regret about the past. -->
+- [ ] B) don't spend <!-- feedback: Incorrect. Present tense. -->
+- [ ] C) didn't spend <!-- feedback: Incorrect. Wish about the present. -->
+- [x] A) hadn't spent <!-- feedback: Correct. 'Wish + past perfect' is used to express regret about the past. -->
 - [ ] D) wouldn't spend <!-- feedback: Incorrect. Used for future changes. -->
 
 ### Explicacion Pedagogica
@@ -376,9 +376,9 @@ Your digital footprint consists of all the information you leave behind while us
 
 ### Opciones
 - [ ] A) shadow <!-- feedback: Incorrect. The term is 'footprint'. -->
-- [x] B) footprint <!-- feedback: Correct. Digital footprint is the standard term. -->
-- [ ] C) path <!-- feedback: Incorrect. 'Path' is not the standard term. -->
-- [ ] D) identity <!-- feedback: Incorrect. Identity is broader. -->
+- [x] D) footprint <!-- feedback: Correct. Digital footprint is the standard term. -->
+- [ ] B) path <!-- feedback: Incorrect. 'Path' is not the standard term. -->
+- [ ] C) identity <!-- feedback: Incorrect. Identity is broader. -->
 
 ### Explicacion Pedagogica
 'Digital footprint' metaphorically describes the data trail individuals create online.
@@ -396,9 +396,9 @@ The professor said that the media had a profound impact on public opinion.
 
 ### Opciones
 - [ ] A) has <!-- feedback: Incorrect. In reported speech, we usually backshift. -->
-- [x] B) had <!-- feedback: Correct. Past simple for backshifting the present simple 'has'. -->
-- [ ] C) has had <!-- feedback: Incorrect. Present perfect. -->
-- [ ] D) will have <!-- feedback: Incorrect. Future tense. -->
+- [x] D) had <!-- feedback: Correct. Past simple for backshifting the present simple 'has'. -->
+- [ ] B) has had <!-- feedback: Incorrect. Present perfect. -->
+- [ ] C) will have <!-- feedback: Incorrect. Future tense. -->
 
 ### Explicacion Pedagogica
 In reported speech, a present simple statement is typically changed to past simple.
@@ -415,9 +415,9 @@ In reported speech, a present simple statement is typically changed to past simp
 The challenge for future society is to balance freedom of expression with the need to prevent misinformation.
 
 ### Opciones
-- [x] A) expression <!-- feedback: Correct. Freedom of expression is a fundamental right. -->
-- [ ] B) consumption <!-- feedback: Incorrect. Not the primary legal debate. -->
-- [ ] C) technology <!-- feedback: Incorrect. Not a standard term here. -->
+- [x] C) expression <!-- feedback: Correct. Freedom of expression is a fundamental right. -->
+- [ ] A) consumption <!-- feedback: Incorrect. Not the primary legal debate. -->
+- [ ] B) technology <!-- feedback: Incorrect. Not a standard term here. -->
 - [ ] D) subscription <!-- feedback: Incorrect. Not the issue. -->
 
 ### Explicacion Pedagogica

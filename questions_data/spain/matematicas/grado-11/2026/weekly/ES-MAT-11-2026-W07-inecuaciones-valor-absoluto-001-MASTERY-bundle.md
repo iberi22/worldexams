@@ -50,8 +50,8 @@ Los símbolos de desigualdad ($<, >, \leq, \geq$) definen relaciones de orden en
 ¿Cuál es la interpretación geométrica del valor absoluto de un número $|a|$?
 
 ### Opciones
-- [ ] A) El doble del número $a$. <!-- feedback: No existe tal relación directa. -->
-- [x] B) La distancia del número $a$ al origen (cero) en la recta real. <!-- feedback: Correcto. Por definición, la distancia siempre es no negativa. -->
+- [ ] B) El doble del número $a$. <!-- feedback: No existe tal relación directa. -->
+- [x] A) La distancia del número $a$ al origen (cero) en la recta real. <!-- feedback: Correcto. Por definición, la distancia siempre es no negativa. -->
 - [ ] C) El opuesto del número $a$. <!-- feedback: Solo coinciden si $a$ es negativo. -->
 - [ ] D) El recíproco del número $a$. <!-- feedback: El recíproco es $1/a$. -->
 
@@ -72,9 +72,9 @@ Resuelve la inecuación: $2x - 4 < 6$.
 
 ### Opciones
 - [ ] A) $x < 1$ <!-- feedback: Error al despejar los términos. -->
-- [x] B) $x < 5$ <!-- feedback: Correcto. $2x < 10 \Rightarrow x < 5$. -->
-- [ ] C) $x > 5$ <!-- feedback: Se ha cambiado el sentido de la desigualdad sin motivo. -->
-- [ ] D) $x < 2$ <!-- feedback: Error de cálculo. -->
+- [x] D) $x < 5$ <!-- feedback: Correcto. $2x < 10 \Rightarrow x < 5$. -->
+- [ ] B) $x > 5$ <!-- feedback: Se ha cambiado el sentido de la desigualdad sin motivo. -->
+- [ ] C) $x < 2$ <!-- feedback: Error de cálculo. -->
 
 ### Explicacion Pedagogica
 Para resolver inecuaciones lineales, aplicamos pasos similares a las ecuaciones: aislamos la $x$ realizando operaciones inversas en ambos miembros, manteniendo el sentido de la desigualdad si multiplicamos/dividimos por números positivos.
@@ -94,8 +94,8 @@ Para resolver inecuaciones lineales, aplicamos pasos similares a las ecuaciones:
 ### Opciones
 - [ ] A) $(-2, 3)$ <!-- feedback: Ambos extremos deberían ser abiertos. -->
 - [ ] B) $[-2, 3]$ <!-- feedback: Ambos extremos deberían ser cerrados. -->
-- [x] C) $[-2, 3)$ <!-- feedback: Correcto. El corchete indica que incluye el -2 (menor o igual) y el paréntesis excluye al 3 (estrictamente menor). -->
-- [ ] D) $(-2, 3]$ <!-- feedback: El -2 debería ser cerrado y el 3 abierto. -->
+- [x] D) $[-2, 3)$ <!-- feedback: Correcto. El corchete indica que incluye el -2 (menor o igual) y el paréntesis excluye al 3 (estrictamente menor). -->
+- [ ] C) $(-2, 3]$ <!-- feedback: El -2 debería ser cerrado y el 3 abierto. -->
 
 ### Explicacion Pedagogica
 La notación de intervalos usa corchetes $[ \ ]$ para extremos incluidos (desigualdad débil) y paréntesis $( \ )$ para extremos excluidos (desigualdad fuerte).
@@ -136,8 +136,8 @@ Halla los valores de $x$ que cumplen: $|x| < 4$.
 ### Opciones
 - [ ] A) $x < 4$ <!-- feedback: Solo considera los números positivos. -->
 - [ ] B) $x > -4$ <!-- feedback: Solo considera un límite inferior. -->
-- [x] C) $-4 < x < 4$ <!-- feedback: Correcto. El valor absoluto menor que una constante define un intervalo centrado en el origen. -->
-- [ ] D) $x < -4$ o $x > 4$ <!-- feedback: Esto representaría $|x| > 4$. -->
+- [x] D) $-4 < x < 4$ <!-- feedback: Correcto. El valor absoluto menor que una constante define un intervalo centrado en el origen. -->
+- [ ] C) $x < -4$ o $x > 4$ <!-- feedback: Esto representaría $|x| > 4$. -->
 
 ### Explicacion Pedagogica
 La inecuación $|x| < k$ (con $k > 0$) equivale al intervalo abierto $(-k, k)$. Representa a todos los puntos cuya distancia al cero es menor que $k$ unidades.
@@ -156,8 +156,8 @@ La inecuación $|x| < k$ (con $k > 0$) equivale al intervalo abierto $(-k, k)$. 
 
 ### Opciones
 - [ ] A) $x \leq 2$ <!-- feedback: Falta el límite inferior. -->
-- [x] B) $[-2, 2]$ <!-- feedback: Correcto. Las raíces son -2 y 2. Entre ellas, la parábola es negativa o cero. -->
-- [ ] C) $(-\infty, -2] \cup [2, \infty)$ <!-- feedback: En estos intervalos la expresión es positiva. -->
+- [x] C) $[-2, 2]$ <!-- feedback: Correcto. Las raíces son -2 y 2. Entre ellas, la parábola es negativa o cero. -->
+- [ ] B) $(-\infty, -2] \cup [2, \infty)$ <!-- feedback: En estos intervalos la expresión es positiva. -->
 - [ ] D) $[-4, 4]$ <!-- feedback: Error al identificar las raíces. -->
 
 ### Explicacion Pedagogica
@@ -177,9 +177,9 @@ Para inecuaciones cuadráticas, hallamos las raíces del polinomio y estudiamos 
 
 ### Opciones
 - [ ] A) $[1, 5]$ <!-- feedback: El 1 debe ser abierto. -->
-- [x] B) $(1, 5]$ <!-- feedback: Correcto. Es la intersección de ambos conjuntos. -->
-- [ ] C) $(1, 5)$ <!-- feedback: El 5 debe ser cerrado. -->
-- [ ] D) No tiene solución. <!-- feedback: Los intervalos se solapan, por lo que sí hay solución. -->
+- [x] D) $(1, 5]$ <!-- feedback: Correcto. Es la intersección de ambos conjuntos. -->
+- [ ] B) $(1, 5)$ <!-- feedback: El 5 debe ser cerrado. -->
+- [ ] C) No tiene solución. <!-- feedback: Los intervalos se solapan, por lo que sí hay solución. -->
 
 ### Explicacion Pedagogica
 La solución de un sistema de inecuaciones es la intersección de las soluciones individuales. Es el conjunto de puntos que satisfacen TODAS las condiciones a la vez.
@@ -198,9 +198,9 @@ Resuelve: $|x - 3| = 5$.
 
 ### Opciones
 - [ ] A) $x = 8$ solamente. <!-- feedback: Falta la solución para el caso negativo. -->
-- [x] B) $x = 8$ y $x = -2$ <!-- feedback: Correcto. $x-3=5 \Rightarrow x=8$; $x-3=-5 \Rightarrow x=-2$. -->
-- [ ] C) $x = 2$ y $x = -8$ <!-- feedback: Error de signos en el despeje. -->
-- [ ] D) $x = 5$ y $x = 3$ <!-- feedback: Valores que no satisfacen la igualdad. -->
+- [x] D) $x = 8$ y $x = -2$ <!-- feedback: Correcto. $x-3=5 \Rightarrow x=8$; $x-3=-5 \Rightarrow x=-2$. -->
+- [ ] B) $x = 2$ y $x = -8$ <!-- feedback: Error de signos en el despeje. -->
+- [ ] C) $x = 5$ y $x = 3$ <!-- feedback: Valores que no satisfacen la igualdad. -->
 
 ### Explicacion Pedagogica
 La ecuación $|A| = b$ se divide en dos casos: $A = b$ o $A = -b$. Resolvemos ambas ecuaciones lineales para obtener los dos posibles valores de $x$.
@@ -282,9 +282,9 @@ La expresión $|x - a| \leq k$ representa todos los valores $x$ cuya distancia a
 
 ### Opciones
 - [ ] A) $[-4, 2]$ <!-- feedback: Esta es la solución para la desigualdad menor o igual. -->
-- [x] B) $(-\infty, -4] \cup [2, \infty)$ <!-- feedback: Correcto. $x+1 \geq 3 \Rightarrow x \geq 2$ o $x+1 \leq -3 \Rightarrow x \leq -4$. -->
-- [ ] C) $[2, \infty)$ <!-- feedback: Falta la rama negativa de la solución. -->
-- [ ] D) No tiene solución. <!-- feedback: Los valores alejados del centro sí cumplen la condición. -->
+- [x] D) $(-\infty, -4] \cup [2, \infty)$ <!-- feedback: Correcto. $x+1 \geq 3 \Rightarrow x \geq 2$ o $x+1 \leq -3 \Rightarrow x \leq -4$. -->
+- [ ] B) $[2, \infty)$ <!-- feedback: Falta la rama negativa de la solución. -->
+- [ ] C) No tiene solución. <!-- feedback: Los valores alejados del centro sí cumplen la condición. -->
 
 ### Explicacion Pedagogica
 La inecuación $|A| \geq k$ se descompone en la unión de dos intervalos: $A \geq k$ o $A \leq -k$. Representa los puntos que están "lejos" del centro.
@@ -303,9 +303,9 @@ La inecuación $|A| \geq k$ se descompone en la unión de dos intervalos: $A \ge
 
 ### Opciones
 - [ ] A) $x > 1$ <!-- feedback: Falta el intervalo donde ambos términos son negativos. -->
-- [x] B) $(-\infty, -2) \cup (1, \infty)$ <!-- feedback: Correcto. El cociente es positivo si ambos tienen el mismo signo (ambos + o ambos -). -->
-- [ ] C) $(-2, 1)$ <!-- feedback: En este intervalo los signos son distintos, por lo que el cociente es negativo. -->
-- [ ] D) $x \neq -2$ <!-- feedback: Esto solo asegura que la expresión esté definida, no que sea positiva. -->
+- [x] D) $(-\infty, -2) \cup (1, \infty)$ <!-- feedback: Correcto. El cociente es positivo si ambos tienen el mismo signo (ambos + o ambos -). -->
+- [ ] B) $(-2, 1)$ <!-- feedback: En este intervalo los signos son distintos, por lo que el cociente es negativo. -->
+- [ ] C) $x \neq -2$ <!-- feedback: Esto solo asegura que la expresión esté definida, no que sea positiva. -->
 
 ### Explicacion Pedagogica
 Para inecuaciones racionales, marcamos los puntos donde se anulan el numerador (1) y el denominador (-2). Estudiamos el signo del cociente en los tres intervalos resultantes. El cociente es positivo donde numerador y denominador coinciden en signo.
@@ -386,8 +386,8 @@ Al resolver inecuaciones donde la incógnita está en el denominador, no podemos
 ¿Cuál es la solución de $(x-1)(x-2)(x-3) > 0$?
 
 ### Opciones
-- [ ] A) $x > 3$ <!-- feedback: Falta el intervalo intermedio donde el producto vuelve a ser positivo. -->
-- [x] B) $(1, 2) \cup (3, \infty)$ <!-- feedback: Correcto. Analizando los signos en los intervalos $(-\infty,1), (1,2), (2,3), (3,\infty)$. -->
+- [ ] B) $x > 3$ <!-- feedback: Falta el intervalo intermedio donde el producto vuelve a ser positivo. -->
+- [x] A) $(1, 2) \cup (3, \infty)$ <!-- feedback: Correcto. Analizando los signos en los intervalos $(-\infty,1), (1,2), (2,3), (3,\infty)$. -->
 - [ ] C) $(-\infty, 1) \cup (2, 3)$ <!-- feedback: En estos intervalos el producto es negativo. -->
 - [ ] D) Todos los reales excepto 1, 2 y 3. <!-- feedback: El producto alterna su signo en cada raíz. -->
 
@@ -408,8 +408,8 @@ Para inecuaciones polinómicas de grado $>2$, usamos el método de los intervalo
 
 ### Opciones
 - [ ] A) $x^2 < |x|$ <!-- feedback: Falso para $|x| > 1$. -->
-- [ ] B) $\sqrt{x^2} = x$ <!-- feedback: Solo es cierto si x es no negativo. -->
-- [x] C) $\sqrt{x^2} = |x|$ <!-- feedback: Correcto. El resultado de la raíz cuadrada principal es siempre la magnitud no negativa del número. -->
+- [ ] C) $\sqrt{x^2} = x$ <!-- feedback: Solo es cierto si x es no negativo. -->
+- [x] B) $\sqrt{x^2} = |x|$ <!-- feedback: Correcto. El resultado de la raíz cuadrada principal es siempre la magnitud no negativa del número. -->
 - [ ] D) $|x|^2 = -x^2$ <!-- feedback: El cuadrado de una magnitud real nunca es negativo. -->
 
 ### Explicacion Pedagogica
@@ -429,8 +429,8 @@ Halla la solución de $||x| - 2| \leq 1$.
 
 ### Opciones
 - [ ] A) $[1, 3]$ <!-- feedback: Falta la parte simétrica negativa. -->
-- [x] B) $[-3, -1] \cup [1, 3]$ <!-- feedback: Correcto. $-1 \leq |x| - 2 \leq 1 \Rightarrow 1 \leq |x| \leq 3$. Esto da dos intervalos simétricos. -->
-- [ ] C) $[-1, 1]$ <!-- feedback: Valor incorrecto. -->
+- [x] C) $[-3, -1] \cup [1, 3]$ <!-- feedback: Correcto. $-1 \leq |x| - 2 \leq 1 \Rightarrow 1 \leq |x| \leq 3$. Esto da dos intervalos simétricos. -->
+- [ ] B) $[-1, 1]$ <!-- feedback: Valor incorrecto. -->
 - [ ] D) No tiene solución. <!-- feedback: Los valores de x con magnitud entre 1 y 3 satisfacen la condición. -->
 
 ### Explicacion Pedagogica

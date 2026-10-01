@@ -30,8 +30,8 @@ bundle_index: 1
 
 ### Opciones
 - [ ] A) Que la función esté definida en el punto $a$, es decir, que exista $f(a)$. <!-- feedback: La existencia de f(a) es necesaria para la continuidad, pero no para la existencia del límite. -->
-- [x] B) Que existan los límites laterales y sean iguales entre sí. <!-- feedback: Correcto. Para que exista el límite global, el límite por la izquierda y por la derecha deben coincidir. -->
-- [ ] C) Que el límite sea siempre un número entero. <!-- feedback: El límite puede ser cualquier número real o incluso infinito. -->
+- [x] C) Que existan los límites laterales y sean iguales entre sí. <!-- feedback: Correcto. Para que exista el límite global, el límite por la izquierda y por la derecha deben coincidir. -->
+- [ ] B) Que el límite sea siempre un número entero. <!-- feedback: El límite puede ser cualquier número real o incluso infinito. -->
 - [ ] D) Que la función sea creciente en un entorno de $a$. <!-- feedback: La monotonía no es un requisito para la existencia de un límite. -->
 
 ### Explicacion Pedagogica
@@ -50,8 +50,8 @@ La definición de límite requiere que el comportamiento de la función sea el m
 ¿Cómo se denomina una discontinuidad en la que los límites laterales en el punto $a$ existen y son finitos, pero diferentes?
 
 ### Opciones
-- [ ] A) Discontinuidad evitable. <!-- feedback: En la evitable, los límites laterales son iguales. -->
-- [x] B) Discontinuidad inevitable de salto finito. <!-- feedback: Correcto. Al haber una diferencia finita entre los límites laterales, se produce un "salto". -->
+- [ ] B) Discontinuidad evitable. <!-- feedback: En la evitable, los límites laterales son iguales. -->
+- [x] A) Discontinuidad inevitable de salto finito. <!-- feedback: Correcto. Al haber una diferencia finita entre los límites laterales, se produce un "salto". -->
 - [ ] C) Discontinuidad inevitable de salto infinito. <!-- feedback: En este caso, al menos uno de los límites laterales debería ser infinito. -->
 - [ ] D) Discontinuidad esencial. <!-- feedback: Término más general que suele referirse a la inexistencia de límites laterales. -->
 
@@ -72,9 +72,9 @@ Las discontinuidades de salto finito ocurren típicamente en funciones definidas
 
 ### Opciones
 - [ ] A) 0 <!-- feedback: Al acercarse a 0 con valores muy pequeños positivos, el cociente se hace muy grande. -->
-- [x] B) $+\infty$ <!-- feedback: Correcto. Al dividir 1 por números positivos cada vez más cercanos a 0 (como 0,001), el resultado crece sin límite. -->
-- [ ] C) $-\infty$ <!-- feedback: Esto ocurriría si nos acercáramos por la izquierda (valores negativos). -->
-- [ ] D) 1 <!-- feedback: El valor 1 solo se alcanza cuando x = 1. -->
+- [x] D) $+\infty$ <!-- feedback: Correcto. Al dividir 1 por números positivos cada vez más cercanos a 0 (como 0,001), el resultado crece sin límite. -->
+- [ ] B) $-\infty$ <!-- feedback: Esto ocurriría si nos acercáramos por la izquierda (valores negativos). -->
+- [ ] C) 1 <!-- feedback: El valor 1 solo se alcanza cuando x = 1. -->
 
 ### Explicacion Pedagogica
 Este límite describe una asíntota vertical. Al ser el denominador positivo y tender a cero, la fracción tiende a infinito positivo.
@@ -113,9 +113,9 @@ La continuidad requiere tres pasos: 1. Que exista $f(a)$. 2. Que exista el lími
 Calcula el valor de $\lim_{x \to 2} \frac{x^2 - 4}{x - 2}$.
 
 ### Opciones
-- [ ] A) 0 <!-- feedback: Error al simplificar; la expresión no se anula. -->
-- [ ] B) 2 <!-- feedback: Error de cálculo tras la simplificación. -->
-- [x] C) 4 <!-- feedback: Correcto. Factorizando el numerador: $(x-2)(x+2)/(x-2) = x+2$. Al sustituir x=2, obtenemos 4. -->
+- [ ] B) 0 <!-- feedback: Error al simplificar; la expresión no se anula. -->
+- [ ] C) 2 <!-- feedback: Error de cálculo tras la simplificación. -->
+- [x] A) 4 <!-- feedback: Correcto. Factorizando el numerador: $(x-2)(x+2)/(x-2) = x+2$. Al sustituir x=2, obtenemos 4. -->
 - [ ] D) No existe. <!-- feedback: Es una indeterminación evitable, por lo que el límite sí existe. -->
 
 ### Explicacion Pedagogica
@@ -156,9 +156,9 @@ Los límites al infinito de funciones racionales determinan las asíntotas horiz
 
 ### Opciones
 - [ ] A) 1 <!-- feedback: Sustituyendo k=1 daría 4 en la primera rama y 5 en la segunda. -->
-- [x] B) 2 <!-- feedback: Correcto. Rama izquierda: $3+k$. Rama derecha: $2(3)-1 = 5$. Igualando: $3+k=5 \Rightarrow k=2$. -->
-- [ ] C) 5 <!-- feedback: Este es el valor que debe alcanzar la función, no el valor de k. -->
-- [ ] D) -1 <!-- feedback: Resultado de un error en el despeje. -->
+- [x] D) 2 <!-- feedback: Correcto. Rama izquierda: $3+k$. Rama derecha: $2(3)-1 = 5$. Igualando: $3+k=5 \Rightarrow k=2$. -->
+- [ ] B) 5 <!-- feedback: Este es el valor que debe alcanzar la función, no el valor de k. -->
+- [ ] C) -1 <!-- feedback: Resultado de un error en el despeje. -->
 
 ### Explicacion Pedagogica
 Para que una función a trozos sea continua, los límites laterales en el punto de cambio deben ser iguales. Resolvemos la ecuación resultante para hallar el parámetro desconocido.
@@ -178,8 +178,8 @@ Si $\lim_{x \to 1^-} f(x) = +\infty$ y $\lim_{x \to 1^+} f(x) = -\infty$, ¿qué
 ### Opciones
 - [ ] A) Es continua porque existen ambos límites. <!-- feedback: Los límites deben ser finitos e iguales para la continuidad. -->
 - [ ] B) Tiene una discontinuidad evitable. <!-- feedback: En la evitable el límite debe ser finito. -->
-- [x] C) Tiene una discontinuidad inevitable de salto infinito. <!-- feedback: Correcto. La presencia de límites infinitos define este tipo de discontinuidad. -->
-- [ ] D) Es derivable en ese punto. <!-- feedback: Si no es continua, no puede ser derivable. -->
+- [x] D) Tiene una discontinuidad inevitable de salto infinito. <!-- feedback: Correcto. La presencia de límites infinitos define este tipo de discontinuidad. -->
+- [ ] C) Es derivable en ese punto. <!-- feedback: Si no es continua, no puede ser derivable. -->
 
 ### Explicacion Pedagogica
 Una asíntota vertical implica siempre una discontinuidad inevitable de salto infinito, ya que la función no puede alcanzar un valor real en ese punto.
@@ -198,8 +198,8 @@ Resuelve la indeterminación multiplicando por el conjugado.
 
 ### Opciones
 - [ ] A) 0 <!-- feedback: Error al simplificar la fracción resultante. -->
-- [x] B) 1/2 <!-- feedback: Correcto. Al multiplicar por el conjugado $(\sqrt{x+1}+1)$, el numerador queda $x$. Al simplificar con la $x$ del denominador, queda $1/(\sqrt{x+1}+1)$, que vale $1/2$ en $x=0$. -->
-- [ ] C) 1 <!-- feedback: Error de cálculo al sustituir el valor final. -->
+- [x] C) 1/2 <!-- feedback: Correcto. Al multiplicar por el conjugado $(\sqrt{x+1}+1)$, el numerador queda $x$. Al simplificar con la $x$ del denominador, queda $1/(\sqrt{x+1}+1)$, que vale $1/2$ en $x=0$. -->
+- [ ] B) 1 <!-- feedback: Error de cálculo al sustituir el valor final. -->
 - [ ] D) No existe. <!-- feedback: Es una indeterminación salvable mediante técnicas algebraicas. -->
 
 ### Explicacion Pedagogica
@@ -239,8 +239,8 @@ El valor absoluto $|x|$ se comporta como $x$ si $x \geq 0$ y como $-x$ si $x < 0
 Aunque al sustituir directamente se obtiene $0/0$, ¿cuál es el valor de $\lim_{x \to 0} \frac{\text{sen}(x)}{x}$?
 
 ### Opciones
-- [ ] A) 0 <!-- feedback: El seno de x y x crecen casi de forma idéntica cerca de cero. -->
-- [x] B) 1 <!-- feedback: Correcto. Es un límite trigonométrico fundamental que demuestra la equivalencia de infinitésimos. -->
+- [ ] B) 0 <!-- feedback: El seno de x y x crecen casi de forma idéntica cerca de cero. -->
+- [x] A) 1 <!-- feedback: Correcto. Es un límite trigonométrico fundamental que demuestra la equivalencia de infinitésimos. -->
 - [ ] C) Infinito <!-- feedback: La función está acotada cerca de cero. -->
 - [ ] D) $\pi$ <!-- feedback: No hay relación directa con el valor de pi en este límite. -->
 
@@ -260,8 +260,8 @@ Este límite es la base para derivar funciones trigonométricas. Indica que para
 ¿En qué punto presenta esta función una discontinuidad evitable?
 
 ### Opciones
-- [x] A) $x = 1$ <!-- feedback: Correcto. $x=1$ anula tanto numerador como denominador. Al simplificar $(x-1)(x+1)/[(x-1)(x-2)]$, el factor $(x-1)$ desaparece. -->
-- [ ] B) $x = 2$ <!-- feedback: En $x=2$ solo se anula el denominador, produciendo una asíntota vertical (salto infinito). -->
+- [x] B) $x = 1$ <!-- feedback: Correcto. $x=1$ anula tanto numerador como denominador. Al simplificar $(x-1)(x+1)/[(x-1)(x-2)]$, el factor $(x-1)$ desaparece. -->
+- [ ] A) $x = 2$ <!-- feedback: En $x=2$ solo se anula el denominador, produciendo una asíntota vertical (salto infinito). -->
 - [ ] C) $x = -1$ <!-- feedback: En $x=-1$ solo se anula el numerador, la función vale 0. -->
 - [ ] D) No tiene discontinuidades evitables. <!-- feedback: La anulación simultánea en x=1 indica que es evitable. -->
 
@@ -302,8 +302,8 @@ La fórmula general para límites que tienden al número $e$ es $\lim_{x \to a} 
 Si se desea que la rampa alcance una altura máxima de 5 metros cuando $x$ es muy grande, ¿qué valor debe tener el parámetro $a$?
 
 ### Opciones
-- [ ] A) 1 <!-- feedback: La altura máxima sería 1. -->
-- [x] B) 5 <!-- feedback: Correcto. El límite cuando $x \to \infty$ es $a$. Si queremos que sea 5, entonces $a = 5$. -->
+- [ ] B) 1 <!-- feedback: La altura máxima sería 1. -->
+- [x] A) 5 <!-- feedback: Correcto. El límite cuando $x \to \infty$ es $a$. Si queremos que sea 5, entonces $a = 5$. -->
 - [ ] C) 0 <!-- feedback: La rampa no tendría altura. -->
 - [ ] D) 10 <!-- feedback: La altura máxima sería 10. -->
 
@@ -345,8 +345,8 @@ Si $f(x)$ es continua en $[0, 2]$, $f(0) = -3$ y $f(2) = 5$, ¿qué asegura el T
 
 ### Opciones
 - [ ] A) Que la función es creciente en todo el intervalo. <!-- feedback: Bolzano no habla de monotonía. -->
-- [x] B) Que existe al menos un punto $c$ en $(0, 2)$ tal que $f(c) = 0$. <!-- feedback: Correcto. Al haber un cambio de signo en una función continua, esta debe cruzar el eje X. -->
-- [ ] C) Que el valor máximo de la función es 5. <!-- feedback: Bolzano no identifica extremos absolutos. -->
+- [x] C) Que existe al menos un punto $c$ en $(0, 2)$ tal que $f(c) = 0$. <!-- feedback: Correcto. Al haber un cambio de signo en una función continua, esta debe cruzar el eje X. -->
+- [ ] B) Que el valor máximo de la función es 5. <!-- feedback: Bolzano no identifica extremos absolutos. -->
 - [ ] D) Que la derivada de la función se anula en el intervalo. <!-- feedback: Este es el Teorema de Rolle, no el de Bolzano. -->
 
 ### Explicacion Pedagogica
@@ -366,8 +366,8 @@ El Teorema de Bolzano es una herramienta fundamental para demostrar la existenci
 
 ### Opciones
 - [ ] A) 1 <!-- feedback: Los grados de las funciones dentro del logaritmo son distintos. -->
-- [x] B) 2/3 <!-- feedback: Correcto. Por propiedades: $\ln(x^2...)/\ln(x^3...) \approx \ln(x^2)/\ln(x^3) = (2\ln x)/(3\ln x) = 2/3$. -->
-- [ ] C) 0 <!-- feedback: Ambas funciones crecen a infinito con velocidades comparables. -->
+- [x] C) 2/3 <!-- feedback: Correcto. Por propiedades: $\ln(x^2...)/\ln(x^3...) \approx \ln(x^2)/\ln(x^3) = (2\ln x)/(3\ln x) = 2/3$. -->
+- [ ] B) 0 <!-- feedback: Ambas funciones crecen a infinito con velocidades comparables. -->
 - [ ] D) 3/2 <!-- feedback: Error al colocar los exponentes de la aproximación. -->
 
 ### Explicacion Pedagogica
@@ -386,10 +386,10 @@ En el infinito, el logaritmo de un polinomio se comporta como el logaritmo de su
 ¿Qué se observa al calcular los límites laterales en $x = 0$?
 
 ### Opciones
-- [x] A) Salto finito de 0 a 1. <!-- feedback: Correcto. Por la derecha: $e^{+\infty} \to \infty$, $1/\infty \to 0$. Por la izquierda: $e^{-\infty} \to 0$, $1/(1+0) \to 1$. -->
-- [ ] B) Ambos límites son $+\infty$. <!-- feedback: La función está acotada entre 0 y 1. -->
-- [ ] C) La función es continua. <!-- feedback: Los límites laterales son distintos. -->
-- [ ] D) El límite no existe porque oscila. <!-- feedback: Los límites laterales son constantes bien definidos. -->
+- [x] D) Salto finito de 0 a 1. <!-- feedback: Correcto. Por la derecha: $e^{+\infty} \to \infty$, $1/\infty \to 0$. Por la izquierda: $e^{-\infty} \to 0$, $1/(1+0) \to 1$. -->
+- [ ] A) Ambos límites son $+\infty$. <!-- feedback: La función está acotada entre 0 y 1. -->
+- [ ] B) La función es continua. <!-- feedback: Los límites laterales son distintos. -->
+- [ ] C) El límite no existe porque oscila. <!-- feedback: Los límites laterales son constantes bien definidos. -->
 
 ### Explicacion Pedagogica
 Este es un ejemplo avanzado donde la función exponencial con exponente racional genera comportamientos asimétricos. Es crucial para entender cómo los límites laterales pueden diferir radicalmente.
@@ -409,8 +409,8 @@ Este es un ejemplo avanzado donde la función exponencial con exponente racional
 ### Opciones
 - [ ] A) 0 <!-- feedback: El límite de la expresión no es 0. -->
 - [ ] B) $\sqrt{a}$ <!-- feedback: Error al simplificar el límite. -->
-- [x] C) $2\sqrt{a}$ <!-- feedback: Correcto. Factorizando: $(x-\sqrt{a})(x+\sqrt{a})/(x-\sqrt{a}) = x+\sqrt{a}$. En $x=\sqrt{a}$, vale $\sqrt{a}+\sqrt{a} = 2\sqrt{a}$. -->
-- [ ] D) $a^2$ <!-- feedback: Error dimensional y conceptual en la simplificación. -->
+- [x] D) $2\sqrt{a}$ <!-- feedback: Correcto. Factorizando: $(x-\sqrt{a})(x+\sqrt{a})/(x-\sqrt{a}) = x+\sqrt{a}$. En $x=\sqrt{a}$, vale $\sqrt{a}+\sqrt{a} = 2\sqrt{a}$. -->
+- [ ] C) $a^2$ <!-- feedback: Error dimensional y conceptual en la simplificación. -->
 
 ### Explicacion Pedagogica
 La continuidad evitable permite asignar un valor a un punto anteriormente indefinido. El valor correcto es el límite de la función en dicho punto.
@@ -429,8 +429,8 @@ La continuidad evitable permite asignar un valor a un punto anteriormente indefi
 
 ### Opciones
 - [ ] A) Que la función tiene una única raíz. <!-- feedback: Este es Bolzano (con cambio de signo). -->
-- [x] B) Que la función alcanza un máximo y un mínimo absolutos en el intervalo. <!-- feedback: Correcto. Una función continua en un compacto siempre está acotada y alcanza sus valores extremos. -->
-- [ ] C) Que la función es derivable en todo el intervalo. <!-- feedback: La continuidad no implica derivabilidad (ej. valor absoluto). -->
+- [x] C) Que la función alcanza un máximo y un mínimo absolutos en el intervalo. <!-- feedback: Correcto. Una función continua en un compacto siempre está acotada y alcanza sus valores extremos. -->
+- [ ] B) Que la función es derivable en todo el intervalo. <!-- feedback: La continuidad no implica derivabilidad (ej. valor absoluto). -->
 - [ ] D) Que la función es siempre positiva. <!-- feedback: No impone restricciones sobre el signo de los valores de la función. -->
 
 ### Explicacion Pedagogica

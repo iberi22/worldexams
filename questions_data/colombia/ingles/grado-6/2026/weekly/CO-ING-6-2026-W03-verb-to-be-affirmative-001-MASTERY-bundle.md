@@ -36,9 +36,9 @@ creador: "Jules-Agent"
 She ________ a very good student in Cali.
 
 ### Opciones
-- [x] A) is <!-- feedback: Correct! Well done. -->
-- [ ] B) am <!-- feedback: Incorrect. Please review the topic. -->
-- [ ] C) are <!-- feedback: Incorrect. Please review the topic. -->
+- [x] C) is <!-- feedback: Correct! Well done. -->
+- [ ] A) am <!-- feedback: Incorrect. Please review the topic. -->
+- [ ] B) are <!-- feedback: Incorrect. Please review the topic. -->
 - [ ] D) be <!-- feedback: Incorrect. Please review the topic. -->
 
 ### Explicación Pedagógica
@@ -58,9 +58,9 @@ This question evaluates the student's ability to remember the topic of Verb To B
 We ________ from Colombia.
 
 ### Opciones
-- [x] A) are <!-- feedback: Correct! Well done. -->
-- [ ] B) am <!-- feedback: Incorrect. Please review the topic. -->
-- [ ] C) be <!-- feedback: Incorrect. Please review the topic. -->
+- [x] C) are <!-- feedback: Correct! Well done. -->
+- [ ] A) am <!-- feedback: Incorrect. Please review the topic. -->
+- [ ] B) be <!-- feedback: Incorrect. Please review the topic. -->
 - [ ] D) is <!-- feedback: Incorrect. Please review the topic. -->
 
 ### Explicación Pedagógica
@@ -80,8 +80,8 @@ This question evaluates the student's ability to remember the topic of Verb To B
 ________ they at school today?
 
 ### Opciones
-- [ ] A) Do <!-- feedback: Incorrect. Please review the topic. -->
-- [x] B) Are <!-- feedback: Correct! Well done. -->
+- [ ] B) Do <!-- feedback: Incorrect. Please review the topic. -->
+- [x] A) Are <!-- feedback: Correct! Well done. -->
 - [ ] C) Is <!-- feedback: Incorrect. Please review the topic. -->
 - [ ] D) Am <!-- feedback: Incorrect. Please review the topic. -->
 
@@ -103,9 +103,9 @@ I ________ not a doctor, I am a student.
 
 ### Opciones
 - [ ] A) is <!-- feedback: Incorrect. Please review the topic. -->
-- [ ] B) be <!-- feedback: Incorrect. Please review the topic. -->
-- [ ] C) are <!-- feedback: Incorrect. Please review the topic. -->
-- [x] D) am <!-- feedback: Correct! Well done. -->
+- [ ] C) be <!-- feedback: Incorrect. Please review the topic. -->
+- [ ] D) are <!-- feedback: Incorrect. Please review the topic. -->
+- [x] B) am <!-- feedback: Correct! Well done. -->
 
 ### Explicación Pedagógica
 This question evaluates the student's ability to understand the topic of Verb To Be: Affirmative at an A2 level. It focuses on Colombian contexts and standard A2 grammar.
@@ -125,8 +125,8 @@ The books ________ on the desk.
 
 ### Opciones
 - [ ] A) is <!-- feedback: Incorrect. Please review the topic. -->
-- [x] B) are <!-- feedback: Correct! Well done. -->
-- [ ] C) am <!-- feedback: Incorrect. Please review the topic. -->
+- [x] C) are <!-- feedback: Correct! Well done. -->
+- [ ] B) am <!-- feedback: Incorrect. Please review the topic. -->
 - [ ] D) was <!-- feedback: Incorrect. Please review the topic. -->
 
 ### Explicación Pedagógica
@@ -168,8 +168,8 @@ This question evaluates the student's ability to apply the topic of Verb To Be: 
 ________ you tired after the soccer match?
 
 ### Opciones
-- [x] A) Are <!-- feedback: Correct! Well done. -->
-- [ ] B) Am <!-- feedback: Incorrect. Please review the topic. -->
+- [x] B) Are <!-- feedback: Correct! Well done. -->
+- [ ] A) Am <!-- feedback: Incorrect. Please review the topic. -->
 - [ ] C) Is <!-- feedback: Incorrect. Please review the topic. -->
 - [ ] D) Do <!-- feedback: Incorrect. Please review the topic. -->
 
@@ -190,10 +190,10 @@ This question evaluates the student's ability to apply the topic of Verb To Be: 
 Bogota ________ the capital of Colombia.
 
 ### Opciones
-- [x] A) is <!-- feedback: Correct! Well done. -->
-- [ ] B) are <!-- feedback: Incorrect. Please review the topic. -->
-- [ ] C) stay <!-- feedback: Incorrect. Please review the topic. -->
-- [ ] D) am <!-- feedback: Incorrect. Please review the topic. -->
+- [x] D) is <!-- feedback: Correct! Well done. -->
+- [ ] A) are <!-- feedback: Incorrect. Please review the topic. -->
+- [ ] B) stay <!-- feedback: Incorrect. Please review the topic. -->
+- [ ] C) am <!-- feedback: Incorrect. Please review the topic. -->
 
 ### Explicación Pedagógica
 This question evaluates the student's ability to analyze the topic of Verb To Be: Affirmative at an A2 level. It focuses on Colombian contexts and standard A2 grammar.
@@ -212,10 +212,10 @@ This question evaluates the student's ability to analyze the topic of Verb To Be
 They ________ happy with their grades.
 
 ### Opciones
-- [x] A) are <!-- feedback: Correct! Well done. -->
-- [ ] B) be <!-- feedback: Incorrect. Please review the topic. -->
-- [ ] C) is <!-- feedback: Incorrect. Please review the topic. -->
-- [ ] D) is being <!-- feedback: Incorrect. Please review the topic. -->
+- [x] D) are <!-- feedback: Correct! Well done. -->
+- [ ] A) be <!-- feedback: Incorrect. Please review the topic. -->
+- [ ] B) is <!-- feedback: Incorrect. Please review the topic. -->
+- [ ] C) is being <!-- feedback: Incorrect. Please review the topic. -->
 
 ### Explicación Pedagógica
 This question evaluates the student's ability to analyze the topic of Verb To Be: Affirmative at an A2 level. It focuses on Colombian contexts and standard A2 grammar.

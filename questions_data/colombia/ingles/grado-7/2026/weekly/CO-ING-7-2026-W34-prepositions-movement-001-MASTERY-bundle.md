@@ -36,11 +36,11 @@ This bundle focuses on prepositions that describe movement or direction (into, o
 Which preposition is used to describe moving from one side of a street to the other?
 
 ### Opciones
-- [ ] A) Into
+- [ ] B) Into
   <!-- feedback: Incorrect. This means entering a space. -->
-- [ ] B) Under
+- [ ] C) Under
   <!-- feedback: Incorrect. This means below. -->
-- [x] C) Across
+- [x] A) Across
   <!-- feedback: Correct! "Across" is used for crossing from one side to another. -->
 - [ ] D) Through
   <!-- feedback: Incorrect. This means moving inside a 3D space. -->
@@ -64,11 +64,11 @@ What preposition do we use when someone enters a building?
 ### Opciones
 - [ ] A) Out of
   <!-- feedback: Incorrect. This is the opposite (leaving). -->
-- [x] B) Into
+- [x] D) Into
   <!-- feedback: Correct! "Into" indicates movement to the inside of a place. -->
-- [ ] C) Over
+- [ ] B) Over
   <!-- feedback: Incorrect. This means above something. -->
-- [ ] D) Through
+- [ ] C) Through
   <!-- feedback: Incorrect. While you can walk through a library, "into" is the specific one for entering. -->
 
 ### Explicacion Pedagogica
@@ -139,11 +139,11 @@ The student understands the logical direction of movement in a familiar building
 ### Opciones
 - [ ] A) under
   <!-- feedback: Incorrect. You don't jump "under" to get to the other side of a wall. -->
-- [x] B) over
+- [x] D) over
   <!-- feedback: Correct! "Over" indicates movement above something to get to the other side. -->
-- [ ] C) into
+- [ ] B) into
   <!-- feedback: Incorrect. You don't jump into a solid wall. -->
-- [ ] D) through
+- [ ] C) through
   <!-- feedback: Incorrect. Unless there is a hole, you go over. -->
 
 ### Explicacion Pedagogica
@@ -163,9 +163,9 @@ The student applies the correct preposition for movement across a barrier above 
 What is the second step in the trail?
 
 ### Opciones
-- [ ] A) Walking through the forest.
+- [ ] B) Walking through the forest.
   <!-- feedback: Incorrect. This is the first step. -->
-- [x] B) Crossing the wooden bridge.
+- [x] A) Crossing the wooden bridge.
   <!-- feedback: Correct! "Go across the wooden bridge" is the second instruction. -->
 - [ ] C) Climbing up the hill.
   <!-- feedback: Incorrect. This is the last step. -->
@@ -213,9 +213,9 @@ The student applies the correct preposition for exiting a space.
 Which sentence is correct for someone walking in a park with many trees?
 
 ### Opciones
-- [ ] A) I am walking across the forest.
+- [ ] B) I am walking across the forest.
   <!-- feedback: Incorrect. A forest is a 3D space (through). -->
-- [x] B) I am walking through the park.
+- [x] A) I am walking through the park.
   <!-- feedback: Correct! Walking "through" a park implies moving among its trees and paths. -->
 - [ ] C) I am walking into the park.
   <!-- feedback: Incorrect. This only describes the entry, not the movement inside. -->
@@ -267,11 +267,11 @@ Based on the prepositions, what can we evaluate about the water's journey?
 ### Opciones
 - [ ] A) The water is moving from a low place to a high place.
   <!-- feedback: Incorrect. "Down" means high to low. -->
-- [x] B) The water travels through different types of environments before reaching its end.
+- [x] D) The water travels through different types of environments before reaching its end.
   <!-- feedback: Correct! Mountains (down), plains (across), city (through), ocean (into). -->
-- [ ] C) The water stays in the mountains forever.
+- [ ] B) The water stays in the mountains forever.
   <!-- feedback: Incorrect. It flows out of them. -->
-- [ ] D) The water only moves in a straight line through the city.
+- [ ] C) The water only moves in a straight line through the city.
   <!-- feedback: Incorrect. The text doesn't specify it's straight, only that it passes through. -->
 
 ### Explicacion Pedagogica

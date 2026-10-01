@@ -29,9 +29,9 @@ Este bundle desarrolla la atmósfera, la diferencia entre tiempo y clima, y las 
 ### Enunciado
 ¿Qué es la atmósfera y cuál es su composición principal?
 ### Opciones
-- [ ] A) Una capa de agua sólida que cubre las montañas y está hecha solo de hielo.
+- [ ] B) Una capa de agua sólida que cubre las montañas y está hecha solo de hielo.
   <!-- feedback: Incorrecta, porque eso describe glaciares y no la envoltura gaseosa del planeta. -->
-- [x] B) La capa de gases que envuelve la Tierra, compuesta sobre todo por nitrógeno y oxígeno.
+- [x] A) La capa de gases que envuelve la Tierra, compuesta sobre todo por nitrógeno y oxígeno.
   <!-- feedback: Correcta, porque define la atmósfera y nombra sus dos gases más abundantes. -->
 - [ ] C) Un techo de cemento construido sobre las ciudades para sostener las nubes.
   <!-- feedback: Incorrecta, porque la atmósfera es natural y no una construcción humana. -->
@@ -48,11 +48,11 @@ La atmósfera es la mezcla de gases retenida por la gravedad que permite respira
 ### Enunciado
 ¿Cuál es la diferencia entre el tiempo atmosférico y el clima?
 ### Opciones
-- [x] A) El tiempo es el estado del aire en un día y lugar, y el clima es el patrón de muchos años en una región.
+- [x] C) El tiempo es el estado del aire en un día y lugar, y el clima es el patrón de muchos años en una región.
   <!-- feedback: Correcta, porque distingue la condición diaria del promedio de largo plazo. -->
-- [ ] B) Son lo mismo y ambos cambian cada minuto en todo el planeta por igual.
+- [ ] A) Son lo mismo y ambos cambian cada minuto en todo el planeta por igual.
   <!-- feedback: Incorrecta, porque el clima es estable por décadas y el tiempo cambia cada día. -->
-- [ ] C) El clima dura solo una tarde y el tiempo dura treinta años seguidos.
+- [ ] B) El clima dura solo una tarde y el tiempo dura treinta años seguidos.
   <!-- feedback: Incorrecta, porque invierte las escalas de duración de cada concepto. -->
 - [ ] D) El tiempo solo existe en Cartagena y el clima solo existe en Bogotá.
   <!-- feedback: Incorrecta, porque ambos conceptos aplican a cualquier lugar del país. -->
@@ -69,9 +69,9 @@ Si Santa Marta está al nivel del mar y Tunja está a casi 2800 metros de altura
 ### Opciones
 - [ ] A) Ambas son páramo porque en Colombia todas las ciudades están sobre nieves perpetuas.
   <!-- feedback: Incorrecta, porque solo las cumbres más altas tienen nieves y ninguna de las dos es páramo. -->
-- [x] B) Santa Marta es piso cálido y Tunja es piso frío, porque a mayor altura baja la temperatura.
+- [x] C) Santa Marta es piso cálido y Tunja es piso frío, porque a mayor altura baja la temperatura.
   <!-- feedback: Correcta, porque aplica la relación entre altura y temperatura en los pisos térmicos. -->
-- [ ] C) Santa Marta es fría y Tunja es caliente porque el mar enfría y la montaña calienta.
+- [ ] B) Santa Marta es fría y Tunja es caliente porque el mar enfría y la montaña calienta.
   <!-- feedback: Incorrecta, porque invierte el efecto real de la altura sobre la temperatura. -->
 - [ ] D) La altura no influye y ambas tienen el mismo clima porque están en el mismo país.
   <!-- feedback: Incorrecta, porque la altura es el factor que más cambia el clima en Colombia. -->
@@ -86,9 +86,9 @@ En la zona tropical la altura manda: cada vez que se sube, el aire se enfría. P
 ### Enunciado
 ¿Por qué Quibdó es tan lluvioso y Riohacha tan seco si ambos están en tierras bajas?
 ### Opciones
-- [x] A) Quibdó recibe vientos húmedos del Pacífico que chocan con la cordillera y descargan lluvia, y Riohacha recibe vientos secos alisios.
+- [x] B) Quibdó recibe vientos húmedos del Pacífico que chocan con la cordillera y descargan lluvia, y Riohacha recibe vientos secos alisios.
   <!-- feedback: Correcta, porque aplica humedad del aire, relieve y vientos a cada región. -->
-- [ ] B) Quibdó tiene una llave gigante bajo la selva y Riohacha la tiene cerrada por decisión del alcalde.
+- [ ] A) Quibdó tiene una llave gigante bajo la selva y Riohacha la tiene cerrada por decisión del alcalde.
   <!-- feedback: Incorrecta, porque la lluvia viene de la atmósfera y no de llaves subterráneas. -->
 - [ ] C) La lluvia cae por castigo en el Chocó y por premio deja de caer en La Guajira.
   <!-- feedback: Incorrecta, porque apela a un castigo y no a factores físicos del clima. -->
@@ -107,9 +107,9 @@ El clima resulta de combinar humedad, vientos y relieve. El aire húmedo del Pac
 ### Opciones
 - [ ] A) El mar sopla porque las olas empujan el aire con sus manos invisibles.
   <!-- feedback: Incorrecta, porque atribuye manos a las olas en vez de explicar presión y temperatura. -->
-- [x] B) La tierra se calienta más rápido que el mar, el aire caliente sube y la brisa fresca del mar ocupa su lugar.
+- [x] C) La tierra se calienta más rápido que el mar, el aire caliente sube y la brisa fresca del mar ocupa su lugar.
   <!-- feedback: Correcta, porque aplica el calentamiento desigual y el movimiento del aire por presión. -->
-- [ ] C) La brisa aparece porque los edificios altos fabrican viento con sus ventiladores.
+- [ ] B) La brisa aparece porque los edificios altos fabrican viento con sus ventiladores.
   <!-- feedback: Incorrecta, porque los edificios modifican el viento pero no crean la brisa marina. -->
 - [ ] D) El viento solo existe de noche porque de día el sol lo quema y desaparece.
   <!-- feedback: Incorrecta, porque el viento se forma de día y de noche según las diferencias de presión. -->
@@ -124,9 +124,9 @@ La tierra y el mar se calientan distinto: en la tarde la tierra está más calie
 ### Enunciado
 ¿Qué análisis de los datos climáticos es correcto?
 ### Opciones
-- [ ] A) Bogotá es más caliente porque está más cerca del sol al quedar sobre una montaña.
+- [ ] B) Bogotá es más caliente porque está más cerca del sol al quedar sobre una montaña.
   <!-- feedback: Incorrecta, porque la altura enfría el aire aunque acerque un poco al sol. -->
-- [x] B) Bogotá es fría por su altura andina con lluvias bimodales, y Barranquilla es cálida costera con estación seca marcada.
+- [x] A) Bogotá es fría por su altura andina con lluvias bimodales, y Barranquilla es cálida costera con estación seca marcada.
   <!-- feedback: Correcta, porque interpreta temperatura y régimen de lluvias de cada ciudad. -->
 - [ ] C) Los datos no sirven porque dos ciudades distintas jamás pueden compararse.
   <!-- feedback: Incorrecta, porque comparar registros es la base para describir climas regionales. -->
@@ -162,9 +162,9 @@ El efecto invernadero natural retiene parte del calor y mantiene la Tierra habit
 ### Enunciado
 ¿Cómo se relacionan El Niño y La Niña con esas cosechas del Tolima?
 ### Opciones
-- [ ] A) Son inventos de la televisión y el clima del Tolima nunca cambia entre años.
+- [ ] B) Son inventos de la televisión y el clima del Tolima nunca cambia entre años.
   <!-- feedback: Incorrecta, porque los registros muestran años secos y lluviosos alternados. -->
-- [x] B) El Niño calienta el Pacífico y suele traer sequías al interior, y La Niña lo enfría y suele traer lluvias e inundaciones.
+- [x] A) El Niño calienta el Pacífico y suele traer sequías al interior, y La Niña lo enfría y suele traer lluvias e inundaciones.
   <!-- feedback: Correcta, porque conecta el océano con sequías e inundaciones en Colombia. -->
 - [ ] C) El Niño trae inundaciones y La Niña trae sequías porque sus nombres están cruzados a propósito.
   <!-- feedback: Incorrecta, porque invierte los efectos típicos en el país. -->
@@ -183,11 +183,11 @@ Conclusión 1: el patio se calienta más que el jardín en estas tardes. Conclus
 ### Opciones
 - [ ] A) Ambas son correctas porque un termómetro escolar mide toda la ciudad y todo el año.
   <!-- feedback: Incorrecta, porque una medida local y semanal no representa toda la ciudad ni el clima. -->
-- [x] B) La primera es válida porque se apoya en los datos, y la segunda es exagerada porque generaliza un microclima a toda la ciudad.
+- [x] D) La primera es válida porque se apoya en los datos, y la segunda es exagerada porque generaliza un microclima a toda la ciudad.
   <!-- feedback: Correcta, porque acepta lo medido y frena el salto del patio a toda Neiva. -->
-- [ ] C) Ambas son falsas porque medir temperatura con instrumentos invalida cualquier comparación.
+- [ ] B) Ambas son falsas porque medir temperatura con instrumentos invalida cualquier comparación.
   <!-- feedback: Incorrecta, porque medir con instrumentos es el procedimiento válido para comparar. -->
-- [ ] D) La primera es falsa y la segunda verdadera porque en ciencia gana la frase más alarmante.
+- [ ] C) La primera es falsa y la segunda verdadera porque en ciencia gana la frase más alarmante.
   <!-- feedback: Incorrecta, porque en ciencia gana la afirmación ajustada a los datos. -->
 ### Explicacion Pedagogica
 Evaluar es distinguir tiempo, microclima y clima. Los datos muestran una isla de calor en el cemento frente al jardín sombreado, un hallazgo valioso para sembrar árboles. Pero el clima de Neiva se describe con años de registros de varias estaciones. Una buena conclusión declara lugar, hora y límites antes de proponer acciones.
@@ -200,11 +200,11 @@ Evaluar es distinguir tiempo, microclima y clima. Los datos muestran una isla de
 ### Enunciado
 ¿Cuál es la mejor evaluación del plan para comparar los microclimas?
 ### Opciones
-- [ ] A) Tocar el piso con la mano una vez y declarar el resultado para todo el año escolar.
+- [ ] B) Tocar el piso con la mano una vez y declarar el resultado para todo el año escolar.
   <!-- feedback: Incorrecta, porque una sensación única no mide ni permite comparar con confianza. -->
-- [ ] B) Votar por el sitio favorito porque la simpatía del grupo refresca el ambiente.
+- [ ] C) Votar por el sitio favorito porque la simpatía del grupo refresca el ambiente.
   <!-- feedback: Incorrecta, porque votar no mide temperatura ni humedad de cada sitio. -->
-- [x] C) Medir con termómetro e higrómetro a la misma hora varios días, registrar en tablas y comparar promedios.
+- [x] A) Medir con termómetro e higrómetro a la misma hora varios días, registrar en tablas y comparar promedios.
   <!-- feedback: Correcta, porque usa instrumentos, réplicas, registro y comparación justa. -->
 - [ ] D) No medir nada porque el clima de Santa Marta es idéntico en cada rincón del colegio.
   <!-- feedback: Incorrecta, porque sombra, cemento y vegetación crean microclimas distintos. -->

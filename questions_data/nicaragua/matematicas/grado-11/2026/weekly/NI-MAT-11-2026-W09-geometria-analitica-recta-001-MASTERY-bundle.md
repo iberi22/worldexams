@@ -30,9 +30,9 @@ bundle_index: 1
 
 ### Opciones
 - [ ] A) $d = (x_2 - x_1) + (y_2 - y_1)$ <!-- feedback: Incorrecto. Esta no es la distancia euclidiana. -->
-- [x] B) $d = \sqrt{(x_2 - x_1)^2 + (y_2 - y_1)^2}$ <!-- feedback: Correcto. Esta fórmula deriva del Teorema de Pitágoras aplicado a las diferencias de las coordenadas. -->
-- [ ] C) $d = \sqrt{(x_2 + x_1)^2 + (y_2 + y_1)^2}$ <!-- feedback: Incorrecto. Se deben restar las coordenadas, no sumarlas. -->
-- [ ] D) $d = \frac{x_1 + x_2}{2}$ <!-- feedback: Incorrecto. Esta es parte de la fórmula del punto medio. -->
+- [x] D) $d = \sqrt{(x_2 - x_1)^2 + (y_2 - y_1)^2}$ <!-- feedback: Correcto. Esta fórmula deriva del Teorema de Pitágoras aplicado a las diferencias de las coordenadas. -->
+- [ ] B) $d = \sqrt{(x_2 + x_1)^2 + (y_2 + y_1)^2}$ <!-- feedback: Incorrecto. Se deben restar las coordenadas, no sumarlas. -->
+- [ ] C) $d = \frac{x_1 + x_2}{2}$ <!-- feedback: Incorrecto. Esta es parte de la fórmula del punto medio. -->
 
 ### Explicacion Pedagogica
 La distancia entre dos puntos es la longitud del segmento que los une. Se calcula hallando la raíz cuadrada de la suma de los cuadrados de las diferencias de sus coordenadas $x$ e $y$.
@@ -49,8 +49,8 @@ La distancia entre dos puntos es la longitud del segmento que los une. Se calcul
 
 ### Opciones
 - [ ] A) $(8, 14)$ <!-- feedback: Incorrecto. Solo se sumaron las coordenadas sin promediarlas. -->
-- [x] B) $(4, 7)$ <!-- feedback: Correcto. Punto medio = $((x_1+x_2)/2, (y_1+y_2)/2) = (8/2, 14/2) = (4, 7)$. -->
-- [ ] C) $(2, 3)$ <!-- feedback: Incorrecto. Se restaron las coordenadas en lugar de sumarlas. -->
+- [x] C) $(4, 7)$ <!-- feedback: Correcto. Punto medio = $((x_1+x_2)/2, (y_1+y_2)/2) = (8/2, 14/2) = (4, 7)$. -->
+- [ ] B) $(2, 3)$ <!-- feedback: Incorrecto. Se restaron las coordenadas en lugar de sumarlas. -->
 - [ ] D) $(4, 5)$ <!-- feedback: Incorrecto. El promedio de 4 y 10 no es 5. -->
 
 ### Explicacion Pedagogica
@@ -68,9 +68,9 @@ El punto medio es el promedio aritmético de las coordenadas de los extremos. Ge
 
 ### Opciones
 - [ ] A) $m = \frac{x_2 - x_1}{y_2 - y_1}$ <!-- feedback: Incorrecto. La pendiente es el cambio en y sobre el cambio en x. -->
-- [x] B) $m = \frac{y_2 - y_1}{x_2 - x_1}$ <!-- feedback: Correcto. La pendiente representa la razón de cambio vertical respecto al cambio horizontal. -->
-- [ ] C) $m = (y_2 - y_1)(x_2 - x_1)$ <!-- feedback: Incorrecto. La pendiente es una razón, no un producto. -->
-- [ ] D) $m = \frac{y_2 + y_1}{x_2 + x_1}$ <!-- feedback: Incorrecto. Se deben restar los valores para hallar los desplazamientos. -->
+- [x] D) $m = \frac{y_2 - y_1}{x_2 - x_1}$ <!-- feedback: Correcto. La pendiente representa la razón de cambio vertical respecto al cambio horizontal. -->
+- [ ] B) $m = (y_2 - y_1)(x_2 - x_1)$ <!-- feedback: Incorrecto. La pendiente es una razón, no un producto. -->
+- [ ] C) $m = \frac{y_2 + y_1}{x_2 + x_1}$ <!-- feedback: Incorrecto. Se deben restar los valores para hallar los desplazamientos. -->
 
 ### Explicacion Pedagogica
 La pendiente cuantifica la inclinación de la recta. Un valor positivo indica ascenso, uno negativo indica descenso y cero indica una línea horizontal.
@@ -86,8 +86,8 @@ La pendiente cuantifica la inclinación de la recta. Un valor positivo indica as
 ¿Cuál es la forma "punto-pendiente" de la ecuación de la recta?
 
 ### Opciones
-- [ ] A) $y = mx + b$ <!-- feedback: Incorrecto. Esta es la forma pendiente-intercepto. -->
-- [x] B) $y - y_1 = m(x - x_1)$ <!-- feedback: Correcto. Esta forma permite construir la ecuación conociendo un punto y la inclinación. -->
+- [ ] B) $y = mx + b$ <!-- feedback: Incorrecto. Esta es la forma pendiente-intercepto. -->
+- [x] A) $y - y_1 = m(x - x_1)$ <!-- feedback: Correcto. Esta forma permite construir la ecuación conociendo un punto y la inclinación. -->
 - [ ] C) $Ax + By + C = 0$ <!-- feedback: Incorrecto. Esta es la forma general o implícita. -->
 - [ ] D) $\frac{x}{a} + \frac{y}{b} = 1$ <!-- feedback: Incorrecto. Esta es la forma simétrica o canónica. -->
 
@@ -106,8 +106,8 @@ Si dos rectas son paralelas, ¿qué se puede afirmar sobre sus pendientes $m_1$ 
 
 ### Opciones
 - [ ] A) $m_1 \cdot m_2 = -1$ <!-- feedback: Incorrecto. Esta es la condición para rectas perpendiculares. -->
-- [x] B) $m_1 = m_2$ <!-- feedback: Correcto. Las rectas paralelas tienen exactamente la misma inclinación. -->
-- [ ] C) $m_1 = -m_2$ <!-- feedback: Incorrecto. Pendientes opuestas no garantizan paralelismo. -->
+- [x] C) $m_1 = m_2$ <!-- feedback: Correcto. Las rectas paralelas tienen exactamente la misma inclinación. -->
+- [ ] B) $m_1 = -m_2$ <!-- feedback: Incorrecto. Pendientes opuestas no garantizan paralelismo. -->
 - [ ] D) $m_1 + m_2 = 0$ <!-- feedback: Incorrecto. Esta condición no define la relación geométrica de paralelismo. -->
 
 ### Explicacion Pedagogica
@@ -124,8 +124,8 @@ Dos rectas son paralelas si y solo si tienen la misma pendiente y diferentes int
 Si dos rectas son perpendiculares, ¿cuál es la relación entre sus pendientes $m_1$ y $m_2$?
 
 ### Opciones
-- [x] A) $m_1 \cdot m_2 = -1$ <!-- feedback: Correcto. Las pendientes de rectas perpendiculares son recíprocas y opuestas. -->
-- [ ] B) $m_1 = m_2$ <!-- feedback: Incorrecto. Esta es la condición de paralelismo. -->
+- [x] B) $m_1 \cdot m_2 = -1$ <!-- feedback: Correcto. Las pendientes de rectas perpendiculares son recíprocas y opuestas. -->
+- [ ] A) $m_1 = m_2$ <!-- feedback: Incorrecto. Esta es la condición de paralelismo. -->
 - [ ] C) $m_1 \cdot m_2 = 1$ <!-- feedback: Incorrecto. Deben tener signos opuestos. -->
 - [ ] D) $m_1 + m_2 = -1$ <!-- feedback: Incorrecto. La relación es multiplicativa, no aditiva. -->
 
@@ -145,8 +145,8 @@ Para que dos rectas formen un ángulo de 90°, el producto de sus pendientes deb
 ### Opciones
 - [ ] A) $(0, -6)$ <!-- feedback: Incorrecto. Error de signo al despejar. -->
 - [ ] B) $(0, -2)$ <!-- feedback: Incorrecto. Se tomó el coeficiente de y. -->
-- [x] C) $(0, 3)$ <!-- feedback: Correcto. En el eje y, $x=0$. Entonces $-2y + 6 = 0 \Rightarrow 2y = 6 \Rightarrow y = 3$. -->
-- [ ] D) $(0, -3)$ <!-- feedback: Incorrecto. Error de signo en la transposición de términos. -->
+- [x] D) $(0, 3)$ <!-- feedback: Correcto. En el eje y, $x=0$. Entonces $-2y + 6 = 0 \Rightarrow 2y = 6 \Rightarrow y = 3$. -->
+- [ ] C) $(0, -3)$ <!-- feedback: Incorrecto. Error de signo en la transposición de términos. -->
 
 ### Explicacion Pedagogica
 Para encontrar el intercepto con el eje $y$, sustituimos $x=0$ en la ecuación y despejamos $y$. El punto siempre tiene la forma $(0, y)$.
@@ -181,8 +181,8 @@ En la forma general $Ax + By + C = 0$, la pendiente es siempre $-A/B$. En este c
 Halla la ecuación de la recta que pasa por el punto $(0, 5)$ y es paralela a la recta $y = 3x - 1$.
 
 ### Opciones
-- [ ] A) $y = -3x + 5$ <!-- feedback: Incorrecto. Las pendientes deben ser iguales para que sean paralelas. -->
-- [x] B) $y = 3x + 5$ <!-- feedback: Correcto. Al ser paralela, hereda la pendiente $m=3$. Al pasar por $(0,5)$, el intercepto $b=5$. -->
+- [ ] B) $y = -3x + 5$ <!-- feedback: Incorrecto. Las pendientes deben ser iguales para que sean paralelas. -->
+- [x] A) $y = 3x + 5$ <!-- feedback: Correcto. Al ser paralela, hereda la pendiente $m=3$. Al pasar por $(0,5)$, el intercepto $b=5$. -->
 - [ ] C) $y = 1/3 x + 5$ <!-- feedback: Incorrecto. Se usó la pendiente recíproca, no la igual. -->
 - [ ] D) $y = 3x - 5$ <!-- feedback: Incorrecto. El intercepto con y debe ser positivo. -->
 
@@ -201,9 +201,9 @@ Rectas paralelas comparten la misma pendiente. Usamos la forma $y = mx + b$ sust
 
 ### Opciones
 - [ ] A) $k = 5$ <!-- feedback: Incorrecto. Si k=5, la pendiente entre los últimos dos puntos no es igual a la de los primeros. -->
-- [x] B) $k = 6$ <!-- feedback: Correcto. La pendiente entre los primeros dos es $(4-2)/(3-1) = 2/2 = 1$. Entonces entre los últimos debe ser $(k-4)/(5-3) = 1 \Rightarrow (k-4)/2 = 1 \Rightarrow k-4 = 2 \Rightarrow k = 6$. -->
-- [ ] C) $k = 7$ <!-- feedback: Incorrecto. Error de cálculo en la igualdad de pendientes. -->
-- [ ] D) $k = 8$ <!-- feedback: Incorrecto. Valor inconsistente con una progresión lineal. -->
+- [x] D) $k = 6$ <!-- feedback: Correcto. La pendiente entre los primeros dos es $(4-2)/(3-1) = 2/2 = 1$. Entonces entre los últimos debe ser $(k-4)/(5-3) = 1 \Rightarrow (k-4)/2 = 1 \Rightarrow k-4 = 2 \Rightarrow k = 6$. -->
+- [ ] B) $k = 7$ <!-- feedback: Incorrecto. Error de cálculo en la igualdad de pendientes. -->
+- [ ] C) $k = 8$ <!-- feedback: Incorrecto. Valor inconsistente con una progresión lineal. -->
 
 ### Explicacion Pedagogica
 Tres puntos son colineales si la pendiente calculada con cualquier par de ellos es la misma. Esto define una tasa de cambio constante.
@@ -238,10 +238,10 @@ Primero calculamos la pendiente y luego usamos la forma punto-pendiente con cual
 ¿Cuál es la ecuación de la recta que pasa por $(2, 1)$ y es perpendicular a la recta $y = 2x + 3$?
 
 ### Opciones
-- [x] A) $y = -1/2 x + 2$ <!-- feedback: Correcto. La pendiente perpendicular es -1/2. Entonces $y - 1 = -1/2(x - 2) \Rightarrow y = -1/2 x + 1 + 1 \Rightarrow y = -1/2 x + 2$. -->
-- [ ] B) $y = -1/2 x + 1$ <!-- feedback: Incorrecto. Error en el cálculo del intercepto b. -->
-- [ ] C) $y = 1/2 x + 0$ <!-- feedback: Incorrecto. Se usó la recíproca pero no la opuesta. -->
-- [ ] D) $y = -2x + 5$ <!-- feedback: Incorrecto. La pendiente debe ser recíproca. -->
+- [x] D) $y = -1/2 x + 2$ <!-- feedback: Correcto. La pendiente perpendicular es -1/2. Entonces $y - 1 = -1/2(x - 2) \Rightarrow y = -1/2 x + 1 + 1 \Rightarrow y = -1/2 x + 2$. -->
+- [ ] A) $y = -1/2 x + 1$ <!-- feedback: Incorrecto. Error en el cálculo del intercepto b. -->
+- [ ] B) $y = 1/2 x + 0$ <!-- feedback: Incorrecto. Se usó la recíproca pero no la opuesta. -->
+- [ ] C) $y = -2x + 5$ <!-- feedback: Incorrecto. La pendiente debe ser recíproca. -->
 
 ### Explicacion Pedagogica
 La pendiente de la recta perpendicular es el recíproco negativo de la pendiente original. Aplicamos este valor en la forma punto-pendiente.
@@ -257,8 +257,8 @@ La pendiente de la recta perpendicular es el recíproco negativo de la pendiente
 Si una recta tiene intercepto con el eje $x$ en $(4, 0)$ e intercepto con el eje $y$ en $(0, -2)$, ¿cuál es su ecuación en la forma simétrica?
 
 ### Opciones
-- [ ] A) $\frac{x}{4} + \frac{y}{2} = 1$ <!-- feedback: Incorrecto. Se ignoró el signo negativo del intercepto en y. -->
-- [x] B) $\frac{x}{4} - \frac{y}{2} = 1$ <!-- feedback: Correcto. La forma es $x/a + y/b = 1$, donde $a=4$ y $b=-2$. -->
+- [ ] B) $\frac{x}{4} + \frac{y}{2} = 1$ <!-- feedback: Incorrecto. Se ignoró el signo negativo del intercepto en y. -->
+- [x] A) $\frac{x}{4} - \frac{y}{2} = 1$ <!-- feedback: Correcto. La forma es $x/a + y/b = 1$, donde $a=4$ y $b=-2$. -->
 - [ ] C) $4x - 2y = 1$ <!-- feedback: Incorrecto. Esta no es la estructura de la forma simétrica. -->
 - [ ] D) $\frac{x}{2} - \frac{y}{4} = 1$ <!-- feedback: Incorrecto. Se intercambiaron los interceptos. -->
 
@@ -277,8 +277,8 @@ La forma simétrica $x/a + y/b = 1$ permite ver directamente dónde cruza la rec
 
 ### Opciones
 - [ ] A) 10 unidades <!-- feedback: Incorrecto. No se aplicó la fórmula de la distancia. -->
-- [x] B) 2 unidades <!-- feedback: Correcto. $d = |3(0) + 4(0) - 10| / \sqrt{3^2 + 4^2} = |-10| / 5 = 2$. -->
-- [ ] C) 5 unidades <!-- feedback: Incorrecto. Se usó solo el denominador de la fórmula. -->
+- [x] C) 2 unidades <!-- feedback: Correcto. $d = |3(0) + 4(0) - 10| / \sqrt{3^2 + 4^2} = |-10| / 5 = 2$. -->
+- [ ] B) 5 unidades <!-- feedback: Incorrecto. Se usó solo el denominador de la fórmula. -->
 - [ ] D) $2.5$ unidades <!-- feedback: Incorrecto. Error aritmético en la división final. -->
 
 ### Explicacion Pedagogica
@@ -296,8 +296,8 @@ La distancia de un punto a una recta se calcula mediante el valor absoluto de la
 
 ### Opciones
 - [ ] A) 30° <!-- feedback: Incorrecto. La tangente de 30° es $\sqrt{3}/3$. -->
-- [x] B) 45° <!-- feedback: Correcto. El ángulo es $\arctan(1) = 45^\circ$. -->
-- [ ] C) 60° <!-- feedback: Incorrecto. La tangente de 60° es $\sqrt{3}$. -->
+- [x] C) 45° <!-- feedback: Correcto. El ángulo es $\arctan(1) = 45^\circ$. -->
+- [ ] B) 60° <!-- feedback: Incorrecto. La tangente de 60° es $\sqrt{3}$. -->
 - [ ] D) 90° <!-- feedback: Incorrecto. La pendiente de 90° es indefinida. -->
 
 ### Explicacion Pedagogica
@@ -314,8 +314,8 @@ La pendiente de una recta es igual a la tangente del ángulo que forma con el ej
 ¿Cuál es el punto de intersección de las rectas $y = x + 1$ y $y = -x + 5$?
 
 ### Opciones
-- [ ] A) $(3, 4)$ <!-- feedback: Incorrecto. No satisface la segunda ecuación. -->
-- [x] B) $(2, 3)$ <!-- feedback: Correcto. Igualando: $x + 1 = -x + 5 \Rightarrow 2x = 4 \Rightarrow x = 2$. Entonces $y = 2 + 1 = 3$. -->
+- [ ] B) $(3, 4)$ <!-- feedback: Incorrecto. No satisface la segunda ecuación. -->
+- [x] A) $(2, 3)$ <!-- feedback: Correcto. Igualando: $x + 1 = -x + 5 \Rightarrow 2x = 4 \Rightarrow x = 2$. Entonces $y = 2 + 1 = 3$. -->
 - [ ] C) $(1, 2)$ <!-- feedback: Incorrecto. No satisface la segunda ecuación. -->
 - [ ] D) $(4, 1)$ <!-- feedback: Incorrecto. No satisface la primera ecuación. -->
 
@@ -334,9 +334,9 @@ Halla la ecuación de la mediatriz del segmento que une los puntos $(0, 0)$ y $(
 
 ### Opciones
 - [ ] A) $y = 2$ <!-- feedback: Incorrecto. Esta es una línea horizontal, no vertical. -->
-- [x] B) $x = 2$ <!-- feedback: Correcto. El punto medio es $(2, 0)$. El segmento es horizontal ($m=0$), por lo que la mediatriz es vertical ($m$ indefinida) y pasa por x=2. -->
-- [ ] C) $y = x$ <!-- feedback: Incorrecto. No es perpendicular al segmento dado. -->
-- [ ] D) $x = 0$ <!-- feedback: Incorrecto. Esta línea pasa por uno de los extremos, no por el medio. -->
+- [x] D) $x = 2$ <!-- feedback: Correcto. El punto medio es $(2, 0)$. El segmento es horizontal ($m=0$), por lo que la mediatriz es vertical ($m$ indefinida) y pasa por x=2. -->
+- [ ] B) $y = x$ <!-- feedback: Incorrecto. No es perpendicular al segmento dado. -->
+- [ ] C) $x = 0$ <!-- feedback: Incorrecto. Esta línea pasa por uno de los extremos, no por el medio. -->
 
 ### Explicacion Pedagogica
 La mediatriz es la recta perpendicular a un segmento que pasa por su punto medio. En este caso, el segmento está sobre el eje $x$, por lo que su mediatriz es una recta vertical.
@@ -352,8 +352,8 @@ La mediatriz es la recta perpendicular a un segmento que pasa por su punto medio
 ¿Cuál es el área del triángulo formado por los ejes coordenados y la recta $2x + 3y - 12 = 0$?
 
 ### Opciones
-- [ ] A) 6 unidades cuadradas <!-- feedback: Incorrecto. Error al aplicar la fórmula del área del triángulo. -->
-- [x] B) 12 unidades cuadradas <!-- feedback: Correcto. Interceptos: $x=6$ (base), $y=4$ (altura). Área = $(6 \times 4) / 2 = 12$. -->
+- [ ] B) 6 unidades cuadradas <!-- feedback: Incorrecto. Error al aplicar la fórmula del área del triángulo. -->
+- [x] A) 12 unidades cuadradas <!-- feedback: Correcto. Interceptos: $x=6$ (base), $y=4$ (altura). Área = $(6 \times 4) / 2 = 12$. -->
 - [ ] C) 24 unidades cuadradas <!-- feedback: Incorrecto. Faltó dividir entre 2. -->
 - [ ] D) 10 unidades cuadradas <!-- feedback: Incorrecto. Error al hallar los interceptos con los ejes. -->
 
@@ -373,8 +373,8 @@ El triángulo es rectángulo con vértices en el origen y los dos interceptos de
 ### Opciones
 - [ ] A) 30° <!-- feedback: Incorrecto. $\tan(30^\circ) = 1/\sqrt{3}$. -->
 - [ ] B) 45° <!-- feedback: Incorrecto. $\tan(45^\circ) = 1$. -->
-- [x] C) 60° <!-- feedback: Correcto. La pendiente de la segunda recta es $\sqrt{3}$. El ángulo es $\arctan(\sqrt{3}) = 60^\circ$. -->
-- [ ] D) 75° <!-- feedback: Incorrecto. Valor inconsistente con las pendientes notables. -->
+- [x] D) 60° <!-- feedback: Correcto. La pendiente de la segunda recta es $\sqrt{3}$. El ángulo es $\arctan(\sqrt{3}) = 60^\circ$. -->
+- [ ] C) 75° <!-- feedback: Incorrecto. Valor inconsistente con las pendientes notables. -->
 
 ### Explicacion Pedagogica
 El ángulo entre el eje $x$ y una recta que pasa por el origen es simplemente el arco-tangente de su pendiente. $\sqrt{3}$ es la pendiente característica de los 60 grados.

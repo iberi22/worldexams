@@ -30,8 +30,8 @@ bundle_index: 1
 
 ### Opciones
 - [ ] A) $x^3 + 5$ <!-- feedback: Incorrecto. Es el cubo del número. -->
-- [x] B) $3x + 5$ <!-- feedback: Correcto. Triple es multiplicar por 3, aumentar es sumar. -->
-- [ ] C) $3(x + 5)$ <!-- feedback: Incorrecto. Es el triple de la suma. -->
+- [x] C) $3x + 5$ <!-- feedback: Correcto. Triple es multiplicar por 3, aumentar es sumar. -->
+- [ ] B) $3(x + 5)$ <!-- feedback: Incorrecto. Es el triple de la suma. -->
 - [ ] D) $x/3 + 5$ <!-- feedback: Incorrecto. Es la tercera parte. -->
 
 ### Explicacion Pedagogica
@@ -51,9 +51,9 @@ En $-7x^2y^3$, ¿cuál es el coeficiente?
 
 ### Opciones
 - [ ] A) 7 <!-- feedback: Incorrecto. El coeficiente incluye el signo. -->
-- [x] B) -7 <!-- feedback: Correcto. Es el factor numérico con su signo. -->
-- [ ] C) 2 <!-- feedback: Incorrecto. Es un exponente. -->
-- [ ] D) $x^2y^3$ <!-- feedback: Incorrecto. Es la parte literal. -->
+- [x] D) -7 <!-- feedback: Correcto. Es el factor numérico con su signo. -->
+- [ ] B) 2 <!-- feedback: Incorrecto. Es un exponente. -->
+- [ ] C) $x^2y^3$ <!-- feedback: Incorrecto. Es la parte literal. -->
 
 ### Explicacion Pedagogica
 Identificación de los elementos de un monomio.
@@ -93,9 +93,9 @@ La semejanza requiere igualdad total en variables y exponentes.
 
 ### Opciones
 - [ ] A) $3x + 4$ <!-- feedback: Incorrecto. Solo sumó dos lados. -->
-- [x] B) $6x + 8$ <!-- feedback: Correcto. $2(2x+3) + 2(x+1) = 6x+8$. -->
-- [ ] C) $2x^2 + 5x + 3$ <!-- feedback: Incorrecto. Es el área. -->
-- [ ] D) $6x + 4$ <!-- feedback: Incorrecto. Distribución incompleta. -->
+- [x] D) $6x + 8$ <!-- feedback: Correcto. $2(2x+3) + 2(x+1) = 6x+8$. -->
+- [ ] B) $2x^2 + 5x + 3$ <!-- feedback: Incorrecto. Es el área. -->
+- [ ] C) $6x + 4$ <!-- feedback: Incorrecto. Distribución incompleta. -->
 
 ### Explicacion Pedagogica
 Suma de todos los lados combinando términos semejantes.
@@ -113,9 +113,9 @@ Suma de todos los lados combinando términos semejantes.
 ¿Clasificación de $x^2 - 5x + 6$?
 
 ### Opciones
-- [ ] A) Monomio <!-- feedback: Incorrecto. Tiene 3 términos. -->
-- [ ] B) Binomio <!-- feedback: Incorrecto. Tiene 3 términos. -->
-- [x] C) Trinomio <!-- feedback: Correcto. Polinomio de exactamente tres términos. -->
+- [ ] B) Monomio <!-- feedback: Incorrecto. Tiene 3 términos. -->
+- [ ] C) Binomio <!-- feedback: Incorrecto. Tiene 3 términos. -->
+- [x] A) Trinomio <!-- feedback: Correcto. Polinomio de exactamente tres términos. -->
 - [ ] D) Grado 1 <!-- feedback: Incorrecto. Es grado 2. -->
 
 ### Explicacion Pedagogica
@@ -134,8 +134,8 @@ Nomenclatura de polinomios por cantidad de sumandos.
 ¿Resultado de la evaluación?
 
 ### Opciones
-- [ ] A) 13 <!-- feedback: Incorrecto. Error en signo del término lineal. -->
-- [x] B) 21 <!-- feedback: Correcto. $3(4) - 2(-2) + 5 = 12+4+5=21$. -->
+- [ ] B) 13 <!-- feedback: Incorrecto. Error en signo del término lineal. -->
+- [x] A) 21 <!-- feedback: Correcto. $3(4) - 2(-2) + 5 = 12+4+5=21$. -->
 - [ ] C) 1 <!-- feedback: Incorrecto. Error en potencia o suma. -->
 - [ ] D) 25 <!-- feedback: Incorrecto. Error de cálculo total. -->
 
@@ -156,8 +156,8 @@ Sustitución y jerarquía con números negativos.
 
 ### Opciones
 - [ ] A) 4 <!-- feedback: Incorrecto. No es solo el exponente mayor de x. -->
-- [ ] B) 5 <!-- feedback: Incorrecto. Grado de los primeros términos. -->
-- [x] C) 6 <!-- feedback: Correcto. Grado del último término: $2+4=6$. -->
+- [ ] C) 5 <!-- feedback: Incorrecto. Grado de los primeros términos. -->
+- [x] B) 6 <!-- feedback: Correcto. Grado del último término: $2+4=6$. -->
 - [ ] D) 9 <!-- feedback: Incorrecto. No se suman todos los exponentes. -->
 
 ### Explicacion Pedagogica
@@ -176,8 +176,8 @@ El grado de un polinomio es el máximo de los grados de sus términos.
 Simplifica combinando semejantes.
 
 ### Opciones
-- [ ] A) $7x + 11y + 4$ <!-- feedback: Incorrecto. Error en signo de y. -->
-- [x] B) $7x - 11y + 4$ <!-- feedback: Correcto. $(5+2)x$ y $(-3-8)y$. -->
+- [ ] B) $7x + 11y + 4$ <!-- feedback: Incorrecto. Error en signo de y. -->
+- [x] A) $7x - 11y + 4$ <!-- feedback: Correcto. $(5+2)x$ y $(-3-8)y$. -->
 - [ ] C) $3x - 5y + 4$ <!-- feedback: Incorrecto. Errores de suma. -->
 - [ ] D) $7x - 5y + 4$ <!-- feedback: Incorrecto. Error en combinación de y. -->
 
@@ -198,9 +198,9 @@ Halla el producto.
 
 ### Opciones
 - [ ] A) $-12x^2y^3$ <!-- feedback: Incorrecto. No sumó exponentes. -->
-- [x] B) $-12x^3y^4$ <!-- feedback: Correcto. Coeficientes se multiplican, exponentes se suman. -->
-- [ ] C) $x^3y^4$ <!-- feedback: Incorrecto. Ignoró coeficientes. -->
-- [ ] D) $12x^3y^4$ <!-- feedback: Incorrecto. Error de signo. -->
+- [x] D) $-12x^3y^4$ <!-- feedback: Correcto. Coeficientes se multiplican, exponentes se suman. -->
+- [ ] B) $x^3y^4$ <!-- feedback: Incorrecto. Ignoró coeficientes. -->
+- [ ] C) $12x^3y^4$ <!-- feedback: Incorrecto. Error de signo. -->
 
 ### Explicacion Pedagogica
 Multiplicación de monomios aplicando leyes de exponentes.
@@ -219,9 +219,9 @@ Divide los monomios.
 
 ### Opciones
 - [ ] A) $5a^6b^3$ <!-- feedback: Incorrecto. Sumó en lugar de restar. -->
-- [x] B) $5a^2b$ <!-- feedback: Correcto. $15/3=5$, $a^{4-2}=a^2$, $b^{2-1}=b$. -->
-- [ ] C) $12a^2b$ <!-- feedback: Incorrecto. Restó coeficientes. -->
-- [ ] D) $5a^2$ <!-- feedback: Incorrecto. Olvidó la variable b. -->
+- [x] D) $5a^2b$ <!-- feedback: Correcto. $15/3=5$, $a^{4-2}=a^2$, $b^{2-1}=b$. -->
+- [ ] B) $12a^2b$ <!-- feedback: Incorrecto. Restó coeficientes. -->
+- [ ] C) $5a^2$ <!-- feedback: Incorrecto. Olvidó la variable b. -->
 
 ### Explicacion Pedagogica
 Cociente de monomios restando exponentes de variables iguales.
@@ -240,9 +240,9 @@ Realiza la resta de polinomios.
 
 ### Opciones
 - [ ] A) $7x - 2$ <!-- feedback: Incorrecto. Sumó términos. -->
-- [x] B) $3x + 8$ <!-- feedback: Correcto. $5x-2x$ y $3-(-5)=8$. -->
-- [ ] C) $3x - 2$ <!-- feedback: Incorrecto. Olvidó cambiar signo al -5. -->
-- [ ] D) $-3x - 8$ <!-- feedback: Incorrecto. Orden invertido. -->
+- [x] D) $3x + 8$ <!-- feedback: Correcto. $5x-2x$ y $3-(-5)=8$. -->
+- [ ] B) $3x - 2$ <!-- feedback: Incorrecto. Olvidó cambiar signo al -5. -->
+- [ ] C) $-3x - 8$ <!-- feedback: Incorrecto. Orden invertido. -->
 
 ### Explicacion Pedagogica
 Resta de polinomios mediante el cambio de signo del sustraendo.
@@ -261,8 +261,8 @@ Aplica la propiedad distributiva.
 
 ### Opciones
 - [ ] A) $6x^2 - 8x$ <!-- feedback: Incorrecto. $x \cdot x^2 = x^3$. -->
-- [x] B) $6x^3 - 8x$ <!-- feedback: Correcto. Multiplicación término a término. -->
-- [ ] C) $5x^3 - 6x$ <!-- feedback: Incorrecto. Sumó en lugar de multiplicar. -->
+- [x] C) $6x^3 - 8x$ <!-- feedback: Correcto. Multiplicación término a término. -->
+- [ ] B) $5x^3 - 6x$ <!-- feedback: Incorrecto. Sumó en lugar de multiplicar. -->
 - [ ] D) $6x^3 - 4$ <!-- feedback: Incorrecto. No distribuyó en el segundo. -->
 
 ### Explicacion Pedagogica
@@ -282,8 +282,8 @@ Producto de monomio por binomio.
 
 ### Opciones
 - [ ] A) 4 <!-- feedback: Incorrecto. Coeficiente principal. -->
-- [ ] B) -1 <!-- feedback: Incorrecto. Coeficiente cuadrático. -->
-- [x] C) 7 <!-- feedback: Correcto. Término sin variable. -->
+- [ ] C) -1 <!-- feedback: Incorrecto. Coeficiente cuadrático. -->
+- [x] B) 7 <!-- feedback: Correcto. Término sin variable. -->
 - [ ] D) 3 <!-- feedback: Incorrecto. Grado del polinomio. -->
 
 ### Explicacion Pedagogica
@@ -324,9 +324,9 @@ Expansión de producto de binomios con término común.
 
 ### Opciones
 - [ ] A) $7 + x$ <!-- feedback: Incorrecto. Error en distribución de negativos. -->
-- [x] B) $13 - 3x$ <!-- feedback: Correcto. $10 - (x-3+2x) = 10 - (3x-3) = 13 - 3x$. -->
-- [ ] C) $13 - x$ <!-- feedback: Incorrecto. No agrupó las x internas. -->
-- [ ] D) $7 - 3x$ <!-- feedback: Incorrecto. Error en término independiente. -->
+- [x] D) $13 - 3x$ <!-- feedback: Correcto. $10 - (x-3+2x) = 10 - (3x-3) = 13 - 3x$. -->
+- [ ] B) $13 - x$ <!-- feedback: Incorrecto. No agrupó las x internas. -->
+- [ ] C) $7 - 3x$ <!-- feedback: Incorrecto. Error en término independiente. -->
 
 ### Explicacion Pedagogica
 Resolución de signos de agrupación de adentro hacia afuera.
@@ -387,8 +387,8 @@ Un polinomio requiere exponentes enteros no negativos en las variables.
 
 ### Opciones
 - [ ] A) -10 <!-- feedback: Incorrecto. El residuo es el valor de la función. -->
-- [ ] B) 0 <!-- feedback: Incorrecto. Sería si (x-3) fuera factor. -->
-- [x] C) 10 <!-- feedback: Correcto. Por definición del teorema del residuo. -->
+- [ ] C) 0 <!-- feedback: Incorrecto. Sería si (x-3) fuera factor. -->
+- [x] B) 10 <!-- feedback: Correcto. Por definición del teorema del residuo. -->
 - [ ] D) 3 <!-- feedback: Incorrecto. 3 es la entrada, no la salida. -->
 
 ### Explicacion Pedagogica
@@ -408,8 +408,8 @@ Relación fundamental entre división polinómica y evaluación funcional.
 
 ### Opciones
 - [ ] A) $x^2 + 2x$ <!-- feedback: Incorrecto. 2x rompe la paridad. -->
-- [x] B) $3x^4 - x^2 + 5$ <!-- feedback: Correcto. Todos los exponentes son pares. -->
-- [ ] C) $x^3 - x$ <!-- feedback: Incorrecto. Es impar. -->
+- [x] C) $3x^4 - x^2 + 5$ <!-- feedback: Correcto. Todos los exponentes son pares. -->
+- [ ] B) $x^3 - x$ <!-- feedback: Incorrecto. Es impar. -->
 - [ ] D) $x + 4$ <!-- feedback: Incorrecto. x es exponente impar. -->
 
 ### Explicacion Pedagogica

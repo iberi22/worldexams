@@ -50,9 +50,9 @@ Qual é a fórmula do volume de um cilindro reto de raio r e altura h?
 
 ### Opciones
 - [ ] A) 2πrh <!-- feedback: Incorreto: 2πrh é a área lateral do cilindro. -->
-- [x] B) πr²h <!-- feedback: Correto: o volume é a área da base (πr²) multiplicada pela altura. -->
-- [ ] C) πr² <!-- feedback: Incorreto: πr² é apenas a área da base. -->
-- [ ] D) 2πr² + 2πrh <!-- feedback: Incorreto: essa é a expressão da área total do cilindro. -->
+- [x] D) πr²h <!-- feedback: Correto: o volume é a área da base (πr²) multiplicada pela altura. -->
+- [ ] B) πr² <!-- feedback: Incorreto: πr² é apenas a área da base. -->
+- [ ] C) 2πr² + 2πrh <!-- feedback: Incorreto: essa é a expressão da área total do cilindro. -->
 
 ### Explicacion Pedagogica
 O volume do cilindro é V = área da base × altura = πr²h, análogo ao volume de um prisma.
@@ -70,8 +70,8 @@ Uma caixa d'água tem formato de paralelepípedo retângulo com dimensões 2 m �
 ### Opciones
 - [ ] A) 9 m³ <!-- feedback: Incorreto: 9 é a soma das arestas, não o volume. -->
 - [ ] B) 26 m³ <!-- feedback: Incorreto: 26 é a área da superfície, não o volume. -->
-- [x] C) 24 m³ <!-- feedback: Correto: V = 2 × 3 × 4 = 24 m³. -->
-- [ ] D) 48 m³ <!-- feedback: Incorreto: 48 seria o dobro do volume correto. -->
+- [x] D) 24 m³ <!-- feedback: Correto: V = 2 × 3 × 4 = 24 m³. -->
+- [ ] C) 48 m³ <!-- feedback: Incorreto: 48 seria o dobro do volume correto. -->
 
 ### Explicacion Pedagogica
 O volume de um paralelepípedo retângulo é o produto das três dimensões: V = 2 × 3 × 4 = 24 m³.
@@ -106,9 +106,9 @@ O volume do cubo é a aresta elevada ao cubo: V = 5³ = 125 cm³.
 Qual é a área lateral de um cilindro reto de raio 3 cm e altura 10 cm?
 
 ### Opciones
-- [x] A) 60π cm² <!-- feedback: Correto: A_lat = 2πrh = 2π × 3 × 10 = 60π cm². -->
-- [ ] B) 30π cm² <!-- feedback: Incorreto: 30π seria o produto r × h, sem o fator 2π. -->
-- [ ] C) 90π cm² <!-- feedback: Incorreto: 90π seria πr²h, que é o volume. -->
+- [x] C) 60π cm² <!-- feedback: Correto: A_lat = 2πrh = 2π × 3 × 10 = 60π cm². -->
+- [ ] A) 30π cm² <!-- feedback: Incorreto: 30π seria o produto r × h, sem o fator 2π. -->
+- [ ] B) 90π cm² <!-- feedback: Incorreto: 90π seria πr²h, que é o volume. -->
 - [ ] D) 18π cm² <!-- feedback: Incorreto: 18π é o dobro da área da base (2πr²), não a área lateral. -->
 
 ### Explicacion Pedagogica
@@ -126,8 +126,8 @@ Um reservatório cilíndrico tem diâmetro de 4 m e altura de 5 m. Qual é o seu
 
 ### Opciones
 - [ ] A) 31,4 m³ <!-- feedback: Incorreto: 31,4 é o volume de um cilindro de raio 1 m. -->
-- [x] B) 62,8 m³ <!-- feedback: Correto: raio = 2 m, V = π × 2² × 5 = 3,14 × 20 = 62,8 m³. -->
-- [ ] C) 125,6 m³ <!-- feedback: Incorreto: 125,6 seria se o raio fosse 4 m (diâmetro 8 m). -->
+- [x] C) 62,8 m³ <!-- feedback: Correto: raio = 2 m, V = π × 2² × 5 = 3,14 × 20 = 62,8 m³. -->
+- [ ] B) 125,6 m³ <!-- feedback: Incorreto: 125,6 seria se o raio fosse 4 m (diâmetro 8 m). -->
 - [ ] D) 20 m³ <!-- feedback: Incorreto: 20 é o produto do diâmetro pela altura, sem π. -->
 
 ### Explicacion Pedagogica
@@ -145,9 +145,9 @@ Qual é a área total da superfície de um cubo de aresta 4 cm?
 
 ### Opciones
 - [ ] A) 64 cm² <!-- feedback: Incorreto: 64 é o volume do cubo. -->
-- [x] B) 96 cm² <!-- feedback: Correto: A_total = 6 × 4² = 6 × 16 = 96 cm². -->
-- [ ] C) 48 cm² <!-- feedback: Incorreto: 48 seria a área de 3 faces. -->
-- [ ] D) 16 cm² <!-- feedback: Incorreto: 16 é a área de uma única face. -->
+- [x] D) 96 cm² <!-- feedback: Correto: A_total = 6 × 4² = 6 × 16 = 96 cm². -->
+- [ ] B) 48 cm² <!-- feedback: Incorreto: 48 seria a área de 3 faces. -->
+- [ ] C) 16 cm² <!-- feedback: Incorreto: 16 é a área de uma única face. -->
 
 ### Explicacion Pedagogica
 A área total do cubo é a soma das áreas de suas 6 faces quadradas: A = 6a² = 6 × 16 = 96 cm².
@@ -165,8 +165,8 @@ Qual é a área total de um cilindro reto de raio 2 cm e altura 5 cm? (Use π = 
 ### Opciones
 - [ ] A) 75,36 cm² <!-- feedback: Incorreto: esse valor é a soma da área lateral (62,8 cm²) com apenas uma base (12,56 cm²). -->
 - [ ] B) 62,8 cm² <!-- feedback: Incorreto: 62,8 é apenas a área lateral. -->
-- [x] C) 87,92 cm² <!-- feedback: Correto: 2πr² + 2πrh = 25,12 + 62,8 = 87,92 cm². -->
-- [ ] D) 50,24 cm² <!-- feedback: Incorreto: 50,24 é o dobro da área das duas bases. -->
+- [x] D) 87,92 cm² <!-- feedback: Correto: 2πr² + 2πrh = 25,12 + 62,8 = 87,92 cm². -->
+- [ ] C) 50,24 cm² <!-- feedback: Incorreto: 50,24 é o dobro da área das duas bases. -->
 
 ### Explicacion Pedagogica
 A área total do cilindro é A = 2πr² + 2πrh. Com r = 2 e h = 5: bases = 2 × 3,14 × 4 = 25,12 cm² e lateral = 2 × 3,14 × 2 × 5 = 62,8 cm². Total = 87,92 cm².
@@ -182,8 +182,8 @@ A área total do cilindro é A = 2πr² + 2πrh. Com r = 2 e h = 5: bases = 2 ×
 Qual é a medida da diagonal de um paralelepípedo retângulo de dimensões 3 cm, 4 cm e 12 cm?
 
 ### Opciones
-- [ ] A) 12 cm <!-- feedback: Incorreto: 12 é apenas a maior aresta. -->
-- [x] B) 13 cm <!-- feedback: Correto: d = √(3² + 4² + 12²) = √(9 + 16 + 144) = √169 = 13 cm. -->
+- [ ] B) 12 cm <!-- feedback: Incorreto: 12 é apenas a maior aresta. -->
+- [x] A) 13 cm <!-- feedback: Correto: d = √(3² + 4² + 12²) = √(9 + 16 + 144) = √169 = 13 cm. -->
 - [ ] C) 19 cm <!-- feedback: Incorreto: 19 é a soma das arestas, não a diagonal. -->
 - [ ] D) 10 cm <!-- feedback: Incorreto: 10 seria a diagonal de uma das faces (3×4 ou 6×8). -->
 
@@ -202,9 +202,9 @@ Um silo cilíndrico tem raio 2 m e altura 6 m. Quantos litros de grãos, aproxim
 
 ### Opciones
 - [ ] A) 37.680 L <!-- feedback: Incorreto: 37.680 L seria para um cilindro de raio 2 m e altura 3 m. -->
-- [x] B) 75.360 L <!-- feedback: Correto: V = 3,14 × 4 × 6 = 75,36 m³ = 75.360 L. -->
-- [ ] C) 150.720 L <!-- feedback: Incorreto: 150.720 L seria o dobro do volume correto. -->
-- [ ] D) 18.840 L <!-- feedback: Incorreto: 18.840 L seria para um cilindro de raio 1 m. -->
+- [x] D) 75.360 L <!-- feedback: Correto: V = 3,14 × 4 × 6 = 75,36 m³ = 75.360 L. -->
+- [ ] B) 150.720 L <!-- feedback: Incorreto: 150.720 L seria o dobro do volume correto. -->
+- [ ] C) 18.840 L <!-- feedback: Incorreto: 18.840 L seria para um cilindro de raio 1 m. -->
 
 ### Explicacion Pedagogica
 O volume é V = πr²h = 3,14 × 2² × 6 = 75,36 m³. Como 1 m³ = 1000 L, a capacidade é 75.360 L.
@@ -221,8 +221,8 @@ Um cubo de aresta 6 cm é fundido para produzir um prisma de base quadrada com 3
 
 ### Opciones
 - [ ] A) 12 cm <!-- feedback: Incorreto: 12 seria o dobro da aresta do cubo. -->
-- [x] B) 24 cm <!-- feedback: Correto: volume do cubo = 216 cm³; h = 216/9 = 24 cm. -->
-- [ ] C) 36 cm <!-- feedback: Incorreto: 36 seria 6 × 6. -->
+- [x] C) 24 cm <!-- feedback: Correto: volume do cubo = 216 cm³; h = 216/9 = 24 cm. -->
+- [ ] B) 36 cm <!-- feedback: Incorreto: 36 seria 6 × 6. -->
 - [ ] D) 18 cm <!-- feedback: Incorreto: 18 não preserva o volume de 216 cm³. -->
 
 ### Explicacion Pedagogica
@@ -239,8 +239,8 @@ O volume se conserva na fusão: V_cubo = 6³ = 216 cm³. A base do prisma tem á
 Um cilindro A tem raio r e altura 2h. Um cilindro B tem raio 2r e altura h. Qual é a razão entre o volume de B e o volume de A?
 
 ### Opciones
-- [ ] A) 1 <!-- feedback: Incorreto: os volumes não são iguais. -->
-- [x] B) 2 <!-- feedback: Correto: V_B/V_A = (π·4r²·h)/(π·r²·2h) = 4/2 = 2. -->
+- [ ] B) 1 <!-- feedback: Incorreto: os volumes não são iguais. -->
+- [x] A) 2 <!-- feedback: Correto: V_B/V_A = (π·4r²·h)/(π·r²·2h) = 4/2 = 2. -->
 - [ ] C) 4 <!-- feedback: Incorreto: 4 é a razão entre as áreas das bases, sem considerar as alturas. -->
 - [ ] D) 1/2 <!-- feedback: Incorreto: essa é a razão inversa. -->
 
@@ -258,8 +258,8 @@ V_A = πr²(2h) = 2πr²h e V_B = π(2r)²h = 4πr²h. A razão é V_B/V_A = 4π
 Um prisma hexagonal regular tem aresta da base 2 cm e altura 10 cm. Sabendo que a área de um hexágono regular de lado 2 é 6√3 cm², qual é o volume do prisma?
 
 ### Opciones
-- [ ] A) 120 cm³ <!-- feedback: Incorreto: 120 seria o volume se a base fosse um quadrado de lado 2√3. -->
-- [x] B) 60√3 cm³ <!-- feedback: Correto: V = área da base × altura = 6√3 × 10 = 60√3 cm³. -->
+- [ ] B) 120 cm³ <!-- feedback: Incorreto: 120 seria o volume se a base fosse um quadrado de lado 2√3. -->
+- [x] A) 60√3 cm³ <!-- feedback: Correto: V = área da base × altura = 6√3 × 10 = 60√3 cm³. -->
 - [ ] C) 20√3 cm³ <!-- feedback: Incorreto: 20√3 seria 2 × 10 × √3, sem a área completa da base. -->
 - [ ] D) 100√3 cm³ <!-- feedback: Incorreto: 100√3 seria 10² × √3. -->
 
@@ -277,8 +277,8 @@ O volume de um prisma é o produto da área da base pela altura: V = 6√3 × 10
 Dois cilindros têm o mesmo volume: um com raio 2 cm e altura 9 cm, outro com raio 3 cm. Qual é a altura do segundo cilindro?
 
 ### Opciones
-- [ ] A) 6 cm <!-- feedback: Incorreto: 6 seria a média das alturas. -->
-- [x] B) 4 cm <!-- feedback: Correto: V1 = π·4·9 = 36π; V2 = π·9·h = 36π, logo h = 4 cm. -->
+- [ ] B) 6 cm <!-- feedback: Incorreto: 6 seria a média das alturas. -->
+- [x] A) 4 cm <!-- feedback: Correto: V1 = π·4·9 = 36π; V2 = π·9·h = 36π, logo h = 4 cm. -->
 - [ ] C) 3 cm <!-- feedback: Incorreto: 3 seria o resultado se o volume fosse 27π. -->
 - [ ] D) 2,25 cm <!-- feedback: Incorreto: 2,25 seria o resultado se o raio dobrasse de 1,5 para 3. -->
 
@@ -315,10 +315,10 @@ A área lateral de um prisma reto é o perímetro da base multiplicado pela altu
 Um cilindro está inscrito em um cubo de aresta 4 cm (a base do cilindro tangencia as faces do cubo). Qual é o volume do cilindro? (Use π = 3.)
 
 ### Opciones
-- [x] A) 48 cm³ <!-- feedback: Correto: raio = 2 cm, h = 4 cm, V = 3 × 4 × 4 = 48 cm³. -->
-- [ ] B) 64 cm³ <!-- feedback: Incorreto: 64 é o volume do cubo. -->
-- [ ] C) 36 cm³ <!-- feedback: Incorreto: 36 seria para um cilindro de raio 1,5 cm. -->
-- [ ] D) 24 cm³ <!-- feedback: Incorreto: 24 seria o volume se a altura fosse 2 cm. -->
+- [x] D) 48 cm³ <!-- feedback: Correto: raio = 2 cm, h = 4 cm, V = 3 × 4 × 4 = 48 cm³. -->
+- [ ] A) 64 cm³ <!-- feedback: Incorreto: 64 é o volume do cubo. -->
+- [ ] B) 36 cm³ <!-- feedback: Incorreto: 36 seria para um cilindro de raio 1,5 cm. -->
+- [ ] C) 24 cm³ <!-- feedback: Incorreto: 24 seria o volume se a altura fosse 2 cm. -->
 
 ### Explicacion Pedagogica
 O cilindro inscrito tem raio igual à metade da aresta (2 cm) e altura igual à aresta (4 cm). Assim, V = πr²h = 3 × 4 × 4 = 48 cm³.
@@ -335,8 +335,8 @@ Um prisma tem volume 40 cm³. Um segundo prisma, semelhante ao primeiro, tem tod
 
 ### Opciones
 - [ ] A) 80 cm³ <!-- feedback: Incorreto: 80 seria o resultado se o volume crescesse na razão linear. -->
-- [x] B) 320 cm³ <!-- feedback: Correto: o volume cresce com o cubo da razão: 40 × 2³ = 320 cm³. -->
-- [ ] C) 160 cm³ <!-- feedback: Incorreto: 160 seria o resultado se a razão fosse √2. -->
+- [x] C) 320 cm³ <!-- feedback: Correto: o volume cresce com o cubo da razão: 40 × 2³ = 320 cm³. -->
+- [ ] B) 160 cm³ <!-- feedback: Incorreto: 160 seria o resultado se a razão fosse √2. -->
 - [ ] D) 640 cm³ <!-- feedback: Incorreto: 640 seria o resultado se a razão fosse 2,5. -->
 
 ### Explicacion Pedagogica
@@ -373,8 +373,8 @@ Um cubo de aresta 2 cm tem um cilindro de raio 1 cm e altura 2 cm retirado de se
 
 ### Opciones
 - [ ] A) 8 cm³ <!-- feedback: Incorreto: 8 é o volume do cubo sem a retirada. -->
-- [x] B) 2 cm³ <!-- feedback: Correto: V_restante = 8 − π·1²·2 = 8 − 6 = 2 cm³. -->
-- [ ] C) 6 cm³ <!-- feedback: Incorreto: 6 é o volume retirado. -->
+- [x] C) 2 cm³ <!-- feedback: Correto: V_restante = 8 − π·1²·2 = 8 − 6 = 2 cm³. -->
+- [ ] B) 6 cm³ <!-- feedback: Incorreto: 6 é o volume retirado. -->
 - [ ] D) 4 cm³ <!-- feedback: Incorreto: 4 seria o volume se o raio fosse 1 cm e a altura 4 cm. -->
 
 ### Explicacion Pedagogica
@@ -392,9 +392,9 @@ Um cilindro reto tem volume 8π cm³ e raio 2 cm. Qual é a sua área lateral?
 
 ### Opciones
 - [ ] A) 16π cm² <!-- feedback: Incorreto: 16π seria a área total de um cilindro de raio 2 e altura 2 somando as bases, não a lateral. -->
-- [x] B) 8π cm² <!-- feedback: Correto: h = 2 cm e A_lat = 2π × 2 × 2 = 8π cm². -->
-- [ ] C) 4π cm² <!-- feedback: Incorreto: 4π seria a área da base. -->
-- [ ] D) 24π cm² <!-- feedback: Incorreto: 24π seria a área total se h = 4 cm. -->
+- [x] D) 8π cm² <!-- feedback: Correto: h = 2 cm e A_lat = 2π × 2 × 2 = 8π cm². -->
+- [ ] B) 4π cm² <!-- feedback: Incorreto: 4π seria a área da base. -->
+- [ ] C) 24π cm² <!-- feedback: Incorreto: 24π seria a área total se h = 4 cm. -->
 
 ### Explicacion Pedagogica
 Da fórmula do volume, h = V/(πr²) = 8π/(4π) = 2 cm. A área lateral é A_lat = 2πrh = 2π × 2 × 2 = 8π cm².

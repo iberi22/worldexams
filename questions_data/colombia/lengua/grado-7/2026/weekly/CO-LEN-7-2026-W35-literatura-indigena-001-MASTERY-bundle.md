@@ -31,8 +31,8 @@ creador: "Jules-Agent"
 
 ### Opciones
 - [ ] A) Literatura escrita moderna. <!-- feedback: Se refiere a libros impresos, no a la transmisión oral. -->
-- [x] B) Oratura o tradición oral. <!-- feedback: La oratura es el término que reconoce el valor literario y cultural de la palabra hablada en los pueblos indígenas. -->
-- [ ] C) Literatura de ciencia ficción. <!-- feedback: Las historias indígenas son cosmovisiones y mitos, no ficciones tecnológicas. -->
+- [x] C) Oratura o tradición oral. <!-- feedback: La oratura es el término que reconoce el valor literario y cultural de la palabra hablada en los pueblos indígenas. -->
+- [ ] B) Literatura de ciencia ficción. <!-- feedback: Las historias indígenas son cosmovisiones y mitos, no ficciones tecnológicas. -->
 - [ ] D) Poesía rimada europea. <!-- feedback: La métrica y rima europeas son distintas a los ritmos de la oratura indígena. -->
 
 ### Explicacion Pedagogica
@@ -68,8 +68,8 @@ El mito indígena no es una "falsedad", sino una verdad simbólica y espiritual.
 ¿Cuál es la relación entre el ser humano y la naturaleza que se infiere de este fragmento literario?
 
 ### Opciones
-- [ ] A) El ser humano es el dueño y señor de la naturaleza para explotarla. <!-- feedback: El texto sugiere una relación de parentesco y cuidado, no de explotación. -->
-- [x] B) El ser humano y la naturaleza son un solo cuerpo interconectado. <!-- feedback: La metáfora de la madre y la herida compartida resalta la unidad indisoluble entre la gente y su territorio. -->
+- [ ] B) El ser humano es el dueño y señor de la naturaleza para explotarla. <!-- feedback: El texto sugiere una relación de parentesco y cuidado, no de explotación. -->
+- [x] A) El ser humano y la naturaleza son un solo cuerpo interconectado. <!-- feedback: La metáfora de la madre y la herida compartida resalta la unidad indisoluble entre la gente y su territorio. -->
 - [ ] C) La naturaleza es un enemigo que hay que vencer para sobrevivir en el desierto. <!-- feedback: No se presenta como enemigo, sino como fuente de vida (leche). -->
 - [ ] D) La tierra es un objeto inanimado que no tiene sentimientos. <!-- feedback: Se le da el carácter de "madre", dotándola de vida y sacralidad. -->
 
@@ -89,8 +89,8 @@ La literatura indígena colombiana propone una visión biocéntrica del mundo, d
 ### Opciones
 - [ ] A) Porque no sabe hablar bien ninguna de las dos lenguas por completo. <!-- feedback: Escribir poesía bilingüe requiere un alto dominio de ambas lenguas y sus matices. -->
 - [ ] B) Para demostrar que el español es superior a su lengua materna. <!-- feedback: El bilingüismo literario busca la equidad y el respeto entre sistemas de pensamiento. -->
-- [x] C) Para fortalecer su lengua propia dentro de la comunidad y, al mismo tiempo, compartir su pensamiento con el mundo exterior. <!-- feedback: Es una estrategia de pervivencia cultural y diálogo intercultural. -->
-- [ ] D) Porque así puede vender los libros al doble de precio por tener más palabras. <!-- feedback: La literatura bilingüe es un acto político y cultural, no una estrategia comercial de conteo de palabras. -->
+- [x] D) Para fortalecer su lengua propia dentro de la comunidad y, al mismo tiempo, compartir su pensamiento con el mundo exterior. <!-- feedback: Es una estrategia de pervivencia cultural y diálogo intercultural. -->
+- [ ] C) Porque así puede vender los libros al doble de precio por tener más palabras. <!-- feedback: La literatura bilingüe es un acto político y cultural, no una estrategia comercial de conteo de palabras. -->
 
 ### Explicacion Pedagogica
 La literatura indígena bilingüe es un puente entre mundos. Permite que la comunidad mantenga su lengua viva y que los no indígenas comprendan la riqueza de sus conocimientos y estéticas.
@@ -106,8 +106,8 @@ La literatura indígena bilingüe es un puente entre mundos. Permite que la comu
 ¿Cuál de los siguientes enfoques sería más cercano al espíritu de la literatura indígena auténtica y menos a una visión de aventura extranjera?
 
 ### Opciones
-- [ ] A) Centrarse en el valor monetario del oro y en cómo los exploradores pueden hacerse ricos. <!-- feedback: Esto refleja la visión del colonizador, no el sentido espiritual indígena. -->
-- [x] B) Centrarse en el sentido sagrado del oro como ofrenda al sol y al equilibrio de la laguna de Guatavita. <!-- feedback: Para los Muiscas, el oro tenía un valor simbólico y ritual, no comercial. -->
+- [ ] B) Centrarse en el valor monetario del oro y en cómo los exploradores pueden hacerse ricos. <!-- feedback: Esto refleja la visión del colonizador, no el sentido espiritual indígena. -->
+- [x] A) Centrarse en el sentido sagrado del oro como ofrenda al sol y al equilibrio de la laguna de Guatavita. <!-- feedback: Para los Muiscas, el oro tenía un valor simbólico y ritual, no comercial. -->
 - [ ] C) Inventar un mapa del tesoro con trampas explosivas y monstruos gigantes. <!-- feedback: Este es un enfoque de cine de acción, ajeno a la cosmovisión indígena real. -->
 - [ ] D) Escribir sobre cómo los indígenas querían cambiar su oro por espejos europeos. <!-- feedback: Es una anécdota histórica sesgada que no aborda la profundidad literaria del mito. -->
 
@@ -126,9 +126,9 @@ Si tuvieras que clasificar la temática principal de esta poesía, ¿cuál serí
 
 ### Opciones
 - [ ] A) La vida moderna en las grandes ciudades industriales. <!-- feedback: Los temas mencionados apuntan a la naturaleza y lo ancestral. -->
-- [x] B) El territorio, la identidad y la memoria de los ancestros. <!-- feedback: Los elementos naturales y la idea de retorno son centrales en la construcción de la identidad indígena actual. -->
-- [ ] C) La conquista del espacio exterior por parte de las comunidades indígenas. <!-- feedback: El foco es la tierra y la raíz, no la exploración espacial. -->
-- [ ] D) El análisis político de las elecciones presidenciales en Colombia. <!-- feedback: Aunque su poesía puede tener matices políticos, su núcleo es espiritual y territorial. -->
+- [x] D) El territorio, la identidad y la memoria de los ancestros. <!-- feedback: Los elementos naturales y la idea de retorno son centrales en la construcción de la identidad indígena actual. -->
+- [ ] B) La conquista del espacio exterior por parte de las comunidades indígenas. <!-- feedback: El foco es la tierra y la raíz, no la exploración espacial. -->
+- [ ] C) El análisis político de las elecciones presidenciales en Colombia. <!-- feedback: Aunque su poesía puede tener matices políticos, su núcleo es espiritual y territorial. -->
 
 ### Explicacion Pedagogica
 La poesía indígena contemporánea es una voz de resistencia que busca sanar la memoria y reafirmar la presencia de los pueblos en sus territorios ancestrales a través de la palabra poética.
@@ -144,9 +144,9 @@ La poesía indígena contemporánea es una voz de resistencia que busca sanar la
 ¿Qué tipo de razonamiento o advertencia plantea este texto literario sobre la modernidad?
 
 ### Opciones
-- [ ] A) Una invitación a pescar más rápido antes de que se acaben los peces. <!-- feedback: Es una interpretación literal opuesta a la advertencia del texto. -->
-- [ ] B) Una defensa del sistema financiero y del ahorro de dinero. <!-- feedback: El texto critica precisamente la priorización del dinero sobre la vida. -->
-- [x] C) Una crítica profunda a la destrucción ambiental en nombre del beneficio económico. <!-- feedback: Resalta la dependencia absoluta del ser humano de los recursos naturales vivos, no de los bienes materiales. -->
+- [ ] B) Una invitación a pescar más rápido antes de que se acaben los peces. <!-- feedback: Es una interpretación literal opuesta a la advertencia del texto. -->
+- [ ] C) Una defensa del sistema financiero y del ahorro de dinero. <!-- feedback: El texto critica precisamente la priorización del dinero sobre la vida. -->
+- [x] A) Una crítica profunda a la destrucción ambiental en nombre del beneficio económico. <!-- feedback: Resalta la dependencia absoluta del ser humano de los recursos naturales vivos, no de los bienes materiales. -->
 - [ ] D) Un consejo sobre cómo preparar mejor los pescados de los ríos del Vaupés. <!-- feedback: El sentido es metafórico y ético, no gastronómico. -->
 
 ### Explicacion Pedagogica
@@ -203,8 +203,8 @@ El respeto a la diversidad implica reconocer las particularidades. La literatura
 ### Opciones
 - [ ] A) Escribir libros para que los niños de la comunidad no se aburran en las tardes. <!-- feedback: La misión planteada es de trascendencia histórica e identitaria, no solo recreativa. -->
 - [ ] B) Demostrar que los indígenas también pueden usar papel y lápiz como los europeos. <!-- feedback: La escritura es aquí una herramienta de resistencia, no de imitación. -->
-- [x] C) Utilizar la escritura como un acto de resistencia política y cultural para garantizar la continuidad de su pueblo en el tiempo. <!-- feedback: Escribir es luchar contra el olvido y reafirmar la identidad frente a presiones externas. -->
-- [ ] D) Convencer a los hijos de que se vuelvan astrónomos porque son "hijos del sol". <!-- feedback: Es una interpretación literal y errónea del lenguaje metafórico y espiritual del poeta. -->
+- [x] D) Utilizar la escritura como un acto de resistencia política y cultural para garantizar la continuidad de su pueblo en el tiempo. <!-- feedback: Escribir es luchar contra el olvido y reafirmar la identidad frente a presiones externas. -->
+- [ ] C) Convencer a los hijos de que se vuelvan astrónomos porque son "hijos del sol". <!-- feedback: Es una interpretación literal y errónea del lenguaje metafórico y espiritual del poeta. -->
 
 ### Explicacion Pedagogica
 La literatura indígena actual es un ejercicio de pervivencia. Evaluar su función implica entenderla como un compromiso ético con la comunidad y el futuro, usando la palabra para sanar el pasado y proteger la identidad.

@@ -29,13 +29,13 @@ Este bundle trabaja la clasificación de triángulos según sus lados y ángulos
 ### Enunciado
 ¿Cómo se clasifica ese triángulo según sus lados?
 ### Opciones
-- [x] A) Equilátero
+- [x] D) Equilátero
   <!-- feedback: Es correcto: un triángulo equilátero tiene sus tres lados de la misma longitud. -->
-- [ ] B) Isósceles
+- [ ] A) Isósceles
   <!-- feedback: Error conceptual: el isósceles tiene solo dos lados iguales, no los tres. -->
-- [ ] C) Escaleno
+- [ ] B) Escaleno
   <!-- feedback: Error conceptual: el escaleno tiene todos los lados de distinta medida. -->
-- [ ] D) Rectángulo
+- [ ] C) Rectángulo
   <!-- feedback: Error conceptual: rectángulo clasifica por los ángulos (uno de 90°), no por los lados. -->
 ### Explicacion Pedagogica
 Los triángulos se clasifican por sus lados en equilátero (tres iguales), isósceles (dos iguales) y escaleno (todos distintos). Observar primero la longitud de los lados permite nombrar la figura correctamente.
@@ -48,11 +48,11 @@ Los triángulos se clasifican por sus lados en equilátero (tres iguales), isós
 ### Enunciado
 ¿Cuánto suman siempre los tres ángulos internos de un triángulo?
 ### Opciones
-- [x] A) 180°
+- [x] C) 180°
   <!-- feedback: Es correcto: en todo triángulo la suma de los ángulos internos es 180°. -->
-- [ ] B) 360°
+- [ ] A) 360°
   <!-- feedback: Error conceptual: 360° es la suma de los ángulos de un cuadrilátero, no de un triángulo. -->
-- [ ] C) 90°
+- [ ] B) 90°
   <!-- feedback: Error conceptual: 90° es la medida de un solo ángulo recto, no la suma de los tres. -->
 - [ ] D) 270°
   <!-- feedback: Error conceptual: 270° no corresponde a la suma de los ángulos internos de ninguna figura básica. -->
@@ -86,9 +86,9 @@ Conocidos dos ángulos, el tercero se obtiene restando: 180° − 70° − 70° 
 ### Enunciado
 ¿Cómo se clasifica ese triángulo según sus ángulos?
 ### Opciones
-- [x] A) Rectángulo
+- [x] B) Rectángulo
   <!-- feedback: Es correcto: un triángulo con un ángulo de 90° se llama rectángulo. -->
-- [ ] B) Acutángulo
+- [ ] A) Acutángulo
   <!-- feedback: Error conceptual: el acutángulo tiene los tres ángulos menores de 90°. -->
 - [ ] C) Obtusángulo
   <!-- feedback: Error conceptual: el obtusángulo tiene un ángulo mayor de 90°, no de 90° exactos. -->
@@ -124,9 +124,9 @@ El perímetro es la suma de los tres lados. En un equilátero basta multiplicar:
 ### Enunciado
 ¿Es posible formar el triángulo con esas medidas? Justifica con la desigualdad triangular.
 ### Opciones
-- [x] A) No, porque 3 + 4 = 7 es menor que 8
+- [x] B) No, porque 3 + 4 = 7 es menor que 8
   <!-- feedback: Es correcto: la suma de dos lados debe ser mayor que el tercero y 7 no supera a 8. -->
-- [ ] B) Sí, porque 3 + 4 + 8 = 15
+- [ ] A) Sí, porque 3 + 4 + 8 = 15
   <!-- feedback: Error conceptual: sumar los tres lados no verifica la desigualdad triangular. -->
 - [ ] C) Sí, porque 8 − 4 = 4
   <!-- feedback: Error conceptual: la diferencia entre lados no garantiza que el triángulo exista. -->
@@ -143,13 +143,13 @@ La desigualdad triangular exige que la suma de dos lados cualesquiera sea mayor 
 ### Enunciado
 ¿Cuánto mide el tercer ángulo y cómo se clasifica el triángulo según sus ángulos?
 ### Opciones
-- [x] A) 60° y es acutángulo
+- [x] D) 60° y es acutángulo
   <!-- feedback: Es correcto: 180° − 35° − 85° = 60°, y los tres ángulos son menores de 90°. -->
-- [ ] B) 50° y es acutángulo
+- [ ] A) 50° y es acutángulo
   <!-- feedback: Error conceptual: 50° resulta de restar mal; 180° − 35° − 85° = 60°. -->
-- [ ] C) 60° y es rectángulo
+- [ ] B) 60° y es rectángulo
   <!-- feedback: Error conceptual: 60° es correcto, pero ningún ángulo mide 90°, así que no es rectángulo. -->
-- [ ] D) 70° y es acutángulo
+- [ ] C) 70° y es acutángulo
   <!-- feedback: Error conceptual: 70° no cumple la suma; el tercer ángulo es 60°. -->
 ### Explicacion Pedagogica
 Primero se halla el ángulo faltante (60°) y luego se revisa si alguno es de 90° o mayor. Como los tres son menores de 90°, el triángulo es acutángulo.
@@ -181,11 +181,11 @@ En un triángulo rectángulo un ángulo mide 90°, así que los otros dos suman 
 ### Enunciado
 ¿La afirmación es correcta? Justifica tu respuesta.
 ### Opciones
-- [x] A) No, porque con dos lados iguales el triángulo es isósceles; el equilátero necesita los tres lados iguales
+- [x] C) No, porque con dos lados iguales el triángulo es isósceles; el equilátero necesita los tres lados iguales
   <!-- feedback: Es correcto: dos lados iguales definen al isósceles, no al equilátero. -->
-- [ ] B) Sí, porque dos lados iguales obligan al tercero a ser igual
+- [ ] A) Sí, porque dos lados iguales obligan al tercero a ser igual
   <!-- feedback: Error conceptual: el tercer lado puede tener otra longitud sin violar ninguna regla. -->
-- [ ] C) Sí, porque entonces los tres ángulos serían iguales
+- [ ] B) Sí, porque entonces los tres ángulos serían iguales
   <!-- feedback: Error conceptual: los ángulos iguales corresponden al equilátero, que exige los tres lados iguales. -->
 - [ ] D) No, porque un triángulo no puede tener lados iguales
   <!-- feedback: Error conceptual: sí puede tener lados iguales; el isósceles y el equilátero son ejemplos. -->

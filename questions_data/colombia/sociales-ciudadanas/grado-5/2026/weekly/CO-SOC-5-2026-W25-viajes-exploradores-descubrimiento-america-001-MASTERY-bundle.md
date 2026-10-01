@@ -103,13 +103,13 @@ Aplicar los avances técnicos del siglo XV para explicar cómo fue posible reali
 ¿Cuál fue una consecuencia importante del encuentro entre Europa y América para los pueblos indígenas?
 
 ### Opciones
-- [x] A) La introducción de nuevas enfermedades contra las cuales no tenían defensas, lo que redujo enormemente su población.
+- [x] D) La introducción de nuevas enfermedades contra las cuales no tenían defensas, lo que redujo enormemente su población.
   <!-- feedback: Epidemias como la viruela causaron una gran mortalidad entre los pueblos originarios. -->
-- [ ] B) La independencia inmediata de todos los territorios indígenas sin ningún conflicto posterior.
+- [ ] A) La independencia inmediata de todos los territorios indígenas sin ningún conflicto posterior.
   <!-- feedback: El proceso posterior fue de dominio colonial, no de independencia inmediata. -->
-- [ ] C) El abandono total de sus lenguas y religiones por decisión voluntaria y pacífica.
+- [ ] B) El abandono total de sus lenguas y religiones por decisión voluntaria y pacífica.
   <!-- feedback: El proceso fue en gran parte coercitivo y desigual. -->
-- [ ] D) El aumento de la población indígena en todo el continente gracias a nuevas medicinas.
+- [ ] C) El aumento de la población indígena en todo el continente gracias a nuevas medicinas.
   <!-- feedback: El efecto demográfico inmediato fue una fuerte disminución de la población indígena. -->
 
 ### Explicacion Pedagogica
@@ -126,9 +126,9 @@ Aplicar el concepto de encuentro cultural para identificar consecuencias demogr�
 ¿Cuál de los siguientes productos fue llevado a América por los europeos durante los viajes de exploración?
 
 ### Opciones
-- [x] A) El trigo y el ganado bovino, que se aclimataron en distintas regiones de América.
+- [x] B) El trigo y el ganado bovino, que se aclimataron en distintas regiones de América.
   <!-- feedback: El trigo y el ganado bovino fueron introducidos por los europeos en América. -->
-- [ ] B) La papa y el maíz, que ya eran cultivados por pueblos indígenas.
+- [ ] A) La papa y el maíz, que ya eran cultivados por pueblos indígenas.
   <!-- feedback: La papa y el maíz ya existían en América antes del encuentro. -->
 - [ ] C) El cacao, que era consumido únicamente en las islas del Caribe.
   <!-- feedback: El cacao ya era cultivado por pueblos mesoamericanos antes de la llegada europea. -->
@@ -172,9 +172,9 @@ Analizar cómo los nombres de un hecho histórico reflejan distintas perspectiva
 ¿Qué análisis se puede hacer sobre el efecto globalizador de los viajes de exploración?
 
 ### Opciones
-- [x] A) Los viajes de exploración iniciaron un proceso de conexión global que mezcló culturas, pero también generó desigualdades entre regiones.
+- [x] B) Los viajes de exploración iniciaron un proceso de conexión global que mezcló culturas, pero también generó desigualdades entre regiones.
   <!-- feedback: El encuentro produjo intercambios culturales y, a la vez, relaciones de poder desiguales. -->
-- [ ] B) Los viajes no cambiaron nada en la economía mundial, porque cada región siguió produciendo lo mismo.
+- [ ] A) Los viajes no cambiaron nada en la economía mundial, porque cada región siguió produciendo lo mismo.
   <!-- feedback: El comercio global se transformó profundamente a partir de estos viajes. -->
 - [ ] C) América no influyó en la economía mundial porque solo exportaba productos sin valor.
   <!-- feedback: América aportó productos muy valiosos como el oro, la plata y alimentos como la papa y el maíz. -->
@@ -195,13 +195,13 @@ Analizar el inicio de la globalización a partir de los viajes de exploración y
 ¿Por qué es importante estudiar hoy los viajes de exploración y el descubrimiento de América desde varias perspectivas?
 
 ### Opciones
-- [x] A) Porque permite comprender el origen de la diversidad cultural actual y reflexionar sobre el respeto a las diferencias y los derechos de los pueblos originarios.
+- [x] D) Porque permite comprender el origen de la diversidad cultural actual y reflexionar sobre el respeto a las diferencias y los derechos de los pueblos originarios.
   <!-- feedback: Estudiar el pasado ayuda a valorar la diversidad y a promover el respeto en el presente. -->
-- [ ] B) Porque solo interesa a los historiadores profesionales y no al ciudadano común.
+- [ ] A) Porque solo interesa a los historiadores profesionales y no al ciudadano común.
   <!-- feedback: Comprender el pasado histórico es relevante para toda la ciudadanía. -->
-- [ ] C) Porque conocer el pasado no tiene relación con la vida cotidiana actual.
+- [ ] B) Porque conocer el pasado no tiene relación con la vida cotidiana actual.
   <!-- feedback: El pasado explica muchos aspectos de la sociedad actual, como la diversidad cultural. -->
-- [ ] D) Porque es un tema sin relación con la formación ciudadana de los estudiantes.
+- [ ] C) Porque es un tema sin relación con la formación ciudadana de los estudiantes.
   <!-- feedback: La formación ciudadana incluye el conocimiento crítico del pasado común. -->
 
 ### Explicacion Pedagogica

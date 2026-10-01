@@ -35,9 +35,9 @@ alineadas con los DBA y Estándares Básicos de Competencias del MEN Colombia.
 ¿Qué es una novela gráfica?
 
 ### Opciones
-- [x] A) Una narrativa extensa que combina texto e ilustraciones para contar una historia completa.
+- [x] B) Una narrativa extensa que combina texto e ilustraciones para contar una historia completa.
   <!-- feedback: Es un formato unitario con principio, desarrollo y cierre. -->
-- [ ] B) Un cómic corto de cuatro viñetas.
+- [ ] A) Un cómic corto de cuatro viñetas.
   <!-- feedback: Es más extensa que un chiste gráfico. -->
 - [ ] C) Una novela sin dibujos.
   <!-- feedback: Justamente integra imágenes. -->
@@ -58,13 +58,13 @@ La novela gráfica fusiona narrativa literaria y lenguaje visual secuencial.
 ¿Cuál es la diferencia principal entre cómic y novela gráfica?
 
 ### Opciones
-- [x] A) La novela gráfica tiene mayor extensión, unidad narrativa y complejidad temática.
+- [x] D) La novela gráfica tiene mayor extensión, unidad narrativa y complejidad temática.
   <!-- feedback: La novela gráfica suele ser una obra completa y autocontenida. -->
-- [ ] B) El cómic solo tiene dibujos.
+- [ ] A) El cómic solo tiene dibujos.
   <!-- feedback: El cómic también incluye texto. -->
-- [ ] C) La novela gráfica nunca tiene color.
+- [ ] B) La novela gráfica nunca tiene color.
   <!-- feedback: Puede tenerlo. -->
-- [ ] D) No existen diferencias.
+- [ ] C) No existen diferencias.
   <!-- feedback: Son formatos cercanos pero distintos. -->
 
 ### Explicacion Pedagogica
@@ -104,9 +104,9 @@ La interacción entre palabra e imagen genera múltiples capas de significado.
 La "viñeta" en una novela gráfica es:
 
 ### Opciones
-- [x] A) La unidad visual básica donde ocurre una acción o se transmite una idea.
+- [x] B) La unidad visual básica donde ocurre una acción o se transmite una idea.
   <!-- feedback: Es el encuadre de la escena. -->
-- [ ] B) El título de la obra.
+- [ ] A) El título de la obra.
   <!-- feedback: Es un elemento distinto. -->
 - [ ] C) El color de fondo.
   <!-- feedback: Es un recurso gráfico. -->
@@ -127,9 +127,9 @@ La composición de viñetas construye el ritmo narrativo-visual.
 Cuando una novela gráfica presenta una secuencia sin palabras, esto se interpreta como:
 
 ### Opciones
-- [x] A) Una decisión estética que enfatiza la imagen, el gesto y el silencio narrativo.
+- [x] B) Una decisión estética que enfatiza la imagen, el gesto y el silencio narrativo.
   <!-- feedback: El silencio es un recurso expresivo. -->
-- [ ] B) Un error del autor.
+- [ ] A) Un error del autor.
   <!-- feedback: Es deliberado. -->
 - [ ] C) Falta de argumento.
   <!-- feedback: No implica vacío narrativo. -->
@@ -150,11 +150,11 @@ Las secuencias silenciosas invitan al lector a completar el significado.
 ¿Qué elementos del lenguaje visual se utilizan para expresar emociones en una novela gráfica?
 
 ### Opciones
-- [x] A) Líneas expresivas, colores, encuadres, perspectivas y símbolos icónicos.
+- [x] C) Líneas expresivas, colores, encuadres, perspectivas y símbolos icónicos.
   <!-- feedback: Recursos plásticos y compositivos. -->
-- [ ] B) Solo texto.
+- [ ] A) Solo texto.
   <!-- feedback: El texto no basta. -->
-- [ ] C) Únicamente fotografías.
+- [ ] B) Únicamente fotografías.
   <!-- feedback: Es dibujo. -->
 - [ ] D) Solo tipografía.
   <!-- feedback: Es un elemento, no el único. -->
@@ -173,9 +173,9 @@ El dibujo es portador de emociones y ritmos narrativos.
 ¿Qué recurso usa el autor para narrar su propia vida en formato gráfico?
 
 ### Opciones
-- [x] A) Combina memoria personal, dibujo autobiográfico y voz narrativa subjetiva.
+- [x] B) Combina memoria personal, dibujo autobiográfico y voz narrativa subjetiva.
   <!-- feedback: Ejemplo: "Persépolis" de Marjane Satrapi. -->
-- [ ] B) Solo copia fotos familiares.
+- [ ] A) Solo copia fotos familiares.
   <!-- feedback: Predomina el dibujo autoral. -->
 - [ ] C) Evita la intimidad.
   <!-- feedback: La autobiografía es íntima. -->
@@ -196,9 +196,9 @@ La novela gráfica autobiográfica permite reconstruir la memoria con sensibilid
 El "bocadillo" o globo de diálogo cumple la función de:
 
 ### Opciones
-- [x] A) Contener las palabras pronunciadas por los personajes.
+- [x] B) Contener las palabras pronunciadas por los personajes.
   <!-- feedback: Indica la voz del personaje. -->
-- [ ] B) Mostrar un pensamiento secreto.
+- [ ] A) Mostrar un pensamiento secreto.
   <!-- feedback: Eso es el bocadillo de pensamiento (nube). -->
 - [ ] C) Señalar una explosión.
   <!-- feedback: El bocadillo de sonido es diferente. -->
@@ -242,13 +242,13 @@ La novela gráfica histórica humaniza los hechos mediante imágenes y narrativa
 El estilo "línea clara" de la novela gráfica se caracteriza por:
 
 ### Opciones
-- [x] A) Trazos uniformes, contornos definidos y fondos detallados.
+- [x] D) Trazos uniformes, contornos definidos y fondos detallados.
   <!-- feedback: Popularizado por Hergé con "Las aventuras de Tintín". -->
-- [ ] B) Sombras expresionistas únicamente.
+- [ ] A) Sombras expresionistas únicamente.
   <!-- feedback: Es otro estilo. -->
-- [ ] C) Figuras abstractas.
+- [ ] B) Figuras abstractas.
   <!-- feedback: Es figurativo. -->
-- [ ] D) Solo blanco y negro sin detalles.
+- [ ] C) Solo blanco y negro sin detalles.
   <!-- feedback: Hay color y detalle. -->
 
 ### Explicacion Pedagogica
@@ -288,11 +288,11 @@ La novela gráfica desarrolla alfabetización visual y narrativa simultáneament
 La metáfora visual en una novela gráfica se logra mediante:
 
 ### Opciones
-- [x] A) Imágenes que sustituyen conceptos abstractos por representaciones concretas.
+- [x] C) Imágenes que sustituyen conceptos abstractos por representaciones concretas.
   <!-- feedback: Ej.: una cadena para representar opresión. -->
-- [ ] B) Texto literal sin imagen.
+- [ ] A) Texto literal sin imagen.
   <!-- feedback: Requiere imagen. -->
-- [ ] C) Fotografías reales.
+- [ ] B) Fotografías reales.
   <!-- feedback: Generalmente es dibujo. -->
 - [ ] D) Solo color rojo.
   <!-- feedback: El color es un recurso, no la metáfora en sí. -->
@@ -311,13 +311,13 @@ La metáfora visual condensa significados complejos en una sola imagen.
 La novela gráfica latinoamericana ha abordado temas como:
 
 ### Opciones
-- [x] A) Dictadura, memoria, violencia, migración e identidad cultural.
+- [x] D) Dictadura, memoria, violencia, migración e identidad cultural.
   <!-- feedback: Autores como Quique Alcatena, Powerpaola y otros. -->
-- [ ] B) Solo superhéroes.
+- [ ] A) Solo superhéroes.
   <!-- feedback: Hay variedad temática. -->
-- [ ] C) Solo deporte.
+- [ ] B) Solo deporte.
   <!-- feedback: Predominan temas sociales. -->
-- [ ] D) Solo ciencia ficción.
+- [ ] C) Solo ciencia ficción.
   <!-- feedback: Hay diversidad de géneros. -->
 
 ### Explicacion Pedagogica
@@ -334,13 +334,13 @@ La novela gráfica latinoamericana dialoga con la historia y la cultura regional
 La novela gráfica se parece al montaje cinematográfico porque:
 
 ### Opciones
-- [x] A) Utiliza encuadres, planos y secuencias para construir la narrativa visual.
+- [x] D) Utiliza encuadres, planos y secuencias para construir la narrativa visual.
   <!-- feedback: Hay un lenguaje secuencial común. -->
-- [ ] B) Es animada.
+- [ ] A) Es animada.
   <!-- feedback: Es estática. -->
-- [ ] C) Tiene banda sonora obligatoria.
+- [ ] B) Tiene banda sonora obligatoria.
   <!-- feedback: No. -->
-- [ ] D) No tiene texto.
+- [ ] C) No tiene texto.
   <!-- feedback: Sí incluye texto. -->
 
 ### Explicacion Pedagogica
@@ -357,11 +357,11 @@ Ambas artes secuenciales organizan planos y tiempos narrativos.
 ¿Qué función narrativa cumple el uso de una paleta monocromática en una novela gráfica?
 
 ### Opciones
-- [x] A) Crear atmósfera de melancolía, atemporalidad o enfoque en lo emocional.
+- [x] C) Crear atmósfera de melancolía, atemporalidad o enfoque en lo emocional.
   <!-- feedback: El color refuerza el tono. -->
-- [ ] B) Confundir al lector.
+- [ ] A) Confundir al lector.
   <!-- feedback: Es decisión estética. -->
-- [ ] C) Ahorrar costos de impresión.
+- [ ] B) Ahorrar costos de impresión.
   <!-- feedback: La razón es expresiva. -->
 - [ ] D) Sustituir la trama.
   <!-- feedback: No reemplaza el argumento. -->
@@ -403,11 +403,11 @@ Ambas son hitos del género por su calidad narrativa y testimonial.
 ¿Qué demuestra que la novela gráfica es un género literario consolidado?
 
 ### Opciones
-- [x] A) Su inclusión en premios literarios prestigiosos y en la academia.
+- [x] C) Su inclusión en premios literarios prestigiosos y en la academia.
   <!-- feedback: Hay premios específicos y estudios universitarios. -->
-- [ ] B) Su bajo número de lectores.
+- [ ] A) Su bajo número de lectores.
   <!-- feedback: Su público crece. -->
-- [ ] C) Su prohibición en bibliotecas.
+- [ ] B) Su prohibición en bibliotecas.
   <!-- feedback: Se promueve su lectura. -->
 - [ ] D) Su eliminación de las librerías.
   <!-- feedback: Está ampliamente disponible. -->
@@ -426,9 +426,9 @@ La novela gráfica ha ganado reconocimiento crítico y académico mundial.
 ¿Qué argumentos respaldan la inclusión de novelas gráficas en bibliotecas escolares?
 
 ### Opciones
-- [x] A) Su valor estético, su accesibilidad para diversos lectores y su potencial formativo.
+- [x] B) Su valor estético, su accesibilidad para diversos lectores y su potencial formativo.
   <!-- feedback: Contribuyen a la formación lectora. -->
-- [ ] B) Son solo entretenimiento sin valor.
+- [ ] A) Son solo entretenimiento sin valor.
   <!-- feedback: Poseen valor estético y crítico. -->
 - [ ] C) Reemplazan los libros de texto.
   <!-- feedback: Son complemento. -->
@@ -449,9 +449,9 @@ La biblioteca escolar debe reflejar la diversidad de formatos literarios contemp
 Al llevar una novela gráfica al cine, ¿qué desafío creativo es central?
 
 ### Opciones
-- [x] A) Traducir la lectura secuencial a un ritmo audiovisual sin perder la iconicidad visual.
+- [x] B) Traducir la lectura secuencial a un ritmo audiovisual sin perder la iconicidad visual.
   <!-- feedback: Es un reto de transposición. -->
-- [ ] B) Eliminar la música.
+- [ ] A) Eliminar la música.
   <!-- feedback: La música puede enriquecer. -->
 - [ ] C) Cambiar completamente la trama.
   <!-- feedback: Debe mantener fidelidad. -->
@@ -472,13 +472,13 @@ La transposición de medios implica decisiones estéticas cuidadosas.
 ¿Cuál es el futuro de la novela gráfica en la educación colombiana?
 
 ### Opciones
-- [x] A) Mayor integración curricular, formación docente específica y producción nacional.
+- [x] D) Mayor integración curricular, formación docente específica y producción nacional.
   <!-- feedback: Crece su presencia pedagógica. -->
-- [ ] B) Su eliminación total.
+- [ ] A) Su eliminación total.
   <!-- feedback: Tiende a expandirse. -->
-- [ ] C) Su uso exclusivo en universidades privadas.
+- [ ] B) Su uso exclusivo en universidades privadas.
   <!-- feedback: Llega a todos los niveles. -->
-- [ ] D) Su reemplazo por videos.
+- [ ] C) Su reemplazo por videos.
   <!-- feedback: Convive con otros medios. -->
 
 ### Explicacion Pedagogica

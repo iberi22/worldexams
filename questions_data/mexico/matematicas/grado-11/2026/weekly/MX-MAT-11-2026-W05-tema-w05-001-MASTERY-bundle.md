@@ -53,13 +53,13 @@ Definimos x como el ancho del jardín. El largo será x + 5. Planteamos la ecuac
 La altura h en metros está dada en función del tiempo t en segundos por: h = 20t - 5t². ¿En qué tiempo t el objeto toca el suelo (h = 0) nuevamente, excluyendo el momento del lanzamiento?
 
 ### Opciones
-- [x] A) 4 segundos
+- [x] D) 4 segundos
   <!-- feedback: ¡Correcto! Igualando h=0: 20t - 5t² = 0. Factorizando obtenemos 5t(4 - t) = 0. Las soluciones son t=0 y t=4. El tiempo buscado es 4 segundos. -->
-- [ ] B) 2 segundos
+- [ ] A) 2 segundos
   <!-- feedback: Incorrecto. A los 2 segundos el objeto alcanza su altura máxima de 20 metros, pero no ha regresado al suelo. -->
-- [ ] C) 5 segundos
+- [ ] B) 5 segundos
   <!-- feedback: Incorrecto. A los 5 segundos el objeto ya habría pasado el nivel del suelo según el modelo. -->
-- [ ] D) 3 segundos
+- [ ] C) 3 segundos
   <!-- feedback: Incorrecto. El cálculo de la factorización cuadrática es erróneo. -->
 
 ### Explicacion Pedagogica
@@ -76,11 +76,11 @@ Para hallar cuándo el objeto toca el suelo, igualamos la altura a cero: h = 0 =
 Resuelve la ecuación cuadrática factorizable x² - 8x + 15 = 0 para encontrar la menor de sus raíces reales.
 
 ### Opciones
-- [x] A) 3
+- [x] C) 3
   <!-- feedback: ¡Correcto! Las raíces de la ecuación son x = 3 y x = 5. La menor de ellas es 3. -->
-- [ ] B) 5
+- [ ] A) 5
   <!-- feedback: Incorrecto. Esta es la raíz mayor, no la menor solicitada en el enunciado. -->
-- [ ] C) 6
+- [ ] B) 6
   <!-- feedback: Incorrecto. Este valor no satisface la ecuación cuadrática dada. -->
 - [ ] D) 0
   <!-- feedback: Incorrecto. Cero no es una solución de este trinomio de segundo grado. -->
@@ -99,13 +99,13 @@ La ecuación es x² - 8x + 15 = 0. Podemos factorizarla como (x - 3)(x - 5) = 0,
 Resuelve la ecuación cuadrática factorizable x² - 9x + 20 = 0 para encontrar la menor de sus raíces reales.
 
 ### Opciones
-- [x] A) 4
+- [x] D) 4
   <!-- feedback: ¡Correcto! Las raíces de la ecuación son x = 4 y x = 5. La menor de ellas es 4. -->
-- [ ] B) 5
+- [ ] A) 5
   <!-- feedback: Incorrecto. Esta es la raíz mayor, no la menor solicitada en el enunciado. -->
-- [ ] C) 7
+- [ ] B) 7
   <!-- feedback: Incorrecto. Este valor no satisface la ecuación cuadrática dada. -->
-- [ ] D) 0
+- [ ] C) 0
   <!-- feedback: Incorrecto. Cero no es una solución de este trinomio de segundo grado. -->
 
 ### Explicacion Pedagogica
@@ -122,13 +122,13 @@ La ecuación es x² - 9x + 20 = 0. Podemos factorizarla como (x - 4)(x - 5) = 0,
 Resuelve la ecuación cuadrática x² - 10x + 24 = 0 para encontrar la menor de sus raíces reales.
 
 ### Opciones
-- [x] A) 4
+- [x] D) 4
   <!-- feedback: ¡Correcto! Las raíces de la ecuación son x = 4 y x = 6. La menor de ellas es 4. -->
-- [ ] B) 6
+- [ ] A) 6
   <!-- feedback: Incorrecto. Esta es la raíz mayor, no la menor solicitada en el enunciado. -->
-- [ ] C) 7
+- [ ] B) 7
   <!-- feedback: Incorrecto. Este valor no satisface la ecuación cuadrática dada. -->
-- [ ] D) 0
+- [ ] C) 0
   <!-- feedback: Incorrecto. Cero no es una solución de este trinomio de segundo grado. -->
 
 ### Explicacion Pedagogica
@@ -145,11 +145,11 @@ La ecuación es x² - 10x + 24 = 0. Podemos factorizarla como (x - 4)(x - 6) = 0
 Resuelve la ecuación cuadrática factorizable x² - 11x + 30 = 0 para encontrar la menor de sus raíces reales.
 
 ### Opciones
-- [x] A) 5
+- [x] C) 5
   <!-- feedback: ¡Correcto! Las raíces de la ecuación son x = 6 y x = 5. La menor de ellas es 5. -->
-- [ ] B) 6
+- [ ] A) 6
   <!-- feedback: Incorrecto. Esta es la raíz mayor, no la menor solicitada en el enunciado. -->
-- [ ] C) 8
+- [ ] B) 8
   <!-- feedback: Incorrecto. Este valor no satisface la ecuación cuadrática dada. -->
 - [ ] D) 0
   <!-- feedback: Incorrecto. Cero no es una solución de este trinomio de segundo grado. -->
@@ -191,13 +191,13 @@ La ecuación es x² - 12x + 35 = 0. Podemos factorizarla como (x - 7)(x - 5) = 0
 Resuelve la ecuación cuadrática factorizable x² - 13x + 40 = 0 para encontrar la menor de sus raíces reales.
 
 ### Opciones
-- [x] A) 5
+- [x] D) 5
   <!-- feedback: ¡Correcto! Las raíces de la ecuación son x = 8 y x = 5. La menor de ellas es 5. -->
-- [ ] B) 8
+- [ ] A) 8
   <!-- feedback: Incorrecto. Esta es la raíz mayor, no la menor solicitada en el enunciado. -->
-- [ ] C) 12
+- [ ] B) 12
   <!-- feedback: Incorrecto. Este valor no satisface la ecuación cuadrática dada. -->
-- [ ] D) 0
+- [ ] C) 0
   <!-- feedback: Incorrecto. Cero no es una solución de este trinomio de segundo grado. -->
 
 ### Explicacion Pedagogica
@@ -214,9 +214,9 @@ La ecuación es x² - 13x + 40 = 0. Podemos factorizarla como (x - 8)(x - 5) = 0
 Resuelve la ecuación cuadrática factorizable x² - 14x + 45 = 0 para encontrar la menor de sus raíces reales.
 
 ### Opciones
-- [x] A) 5
+- [x] B) 5
   <!-- feedback: ¡Correcto! Las raíces de la ecuación son x = 9 y x = 5. La menor de ellas es 5. -->
-- [ ] B) 9
+- [ ] A) 9
   <!-- feedback: Incorrecto. Esta es la raíz mayor, no la menor solicitada en el enunciado. -->
 - [ ] C) 8
   <!-- feedback: Incorrecto. Este valor no satisface la ecuación cuadrática dada. -->
@@ -237,9 +237,9 @@ La ecuación es x² - 14x + 45 = 0. Podemos factorizarla como (x - 9)(x - 5) = 0
 Resuelve la ecuación cuadrática factorizable x² - 15x + 50 = 0 para encontrar la menor de sus raíces reales.
 
 ### Opciones
-- [x] A) 5
+- [x] B) 5
   <!-- feedback: ¡Correcto! Las raíces de la ecuación son x = 10 y x = 5. La menor de ellas es 5. -->
-- [ ] B) 10
+- [ ] A) 10
   <!-- feedback: Incorrecto. Esta es la raíz mayor, no la menor solicitada en el enunciado. -->
 - [ ] C) 8
   <!-- feedback: Incorrecto. Este valor no satisface la ecuación cuadrática dada. -->
@@ -283,9 +283,9 @@ La ecuación es x² - 16x + 55 = 0. Podemos factorizarla como (x - 11)(x - 5) = 
 Resuelve la ecuación cuadrática factorizable x² - 17x + 60 = 0 para encontrar la menor de sus raíces reales.
 
 ### Opciones
-- [x] A) 5
+- [x] B) 5
   <!-- feedback: ¡Correcto! Las raíces de la ecuación son x = 12 y x = 5. La menor de ellas es 5. -->
-- [ ] B) 12
+- [ ] A) 12
   <!-- feedback: Incorrecto. Esta es la raíz mayor, no la menor solicitada en el enunciado. -->
 - [ ] C) 8
   <!-- feedback: Incorrecto. Este valor no satisface la ecuación cuadrática dada. -->
@@ -306,13 +306,13 @@ La ecuación es x² - 17x + 60 = 0. Podemos factorizarla como (x - 12)(x - 5) = 
 Resuelve la ecuación cuadrática factorizable x² - 18x + 65 = 0 para encontrar la menor de sus raíces reales.
 
 ### Opciones
-- [x] A) 5
+- [x] D) 5
   <!-- feedback: ¡Correcto! Las raíces de la ecuación son x = 13 y x = 5. La menor de ellas es 5. -->
-- [ ] B) 13
+- [ ] A) 13
   <!-- feedback: Incorrecto. Esta es la raíz mayor, no la menor solicitada en el enunciado. -->
-- [ ] C) 8
+- [ ] B) 8
   <!-- feedback: Incorrecto. Este valor no satisface la ecuación cuadrática dada. -->
-- [ ] D) 0
+- [ ] C) 0
   <!-- feedback: Incorrecto. Cero no es una solución de este trinomio de segundo grado. -->
 
 ### Explicacion Pedagogica
@@ -352,11 +352,11 @@ La ecuación es x² - 19x + 70 = 0. Podemos factorizarla como (x - 14)(x - 5) = 
 Resuelve la ecuación cuadrática factorizable x² - 20x + 75 = 0 para encontrar la menor de sus raíces reales.
 
 ### Opciones
-- [x] A) 5
+- [x] C) 5
   <!-- feedback: ¡Correcto! Las raíces de la ecuación son x = 15 y x = 5. La menor de ellas es 5. -->
-- [ ] B) 15
+- [ ] A) 15
   <!-- feedback: Incorrecto. Esta es la raíz mayor, no la menor solicitada en el enunciado. -->
-- [ ] C) 8
+- [ ] B) 8
   <!-- feedback: Incorrecto. Este valor no satisface la ecuación cuadrática dada. -->
 - [ ] D) 0
   <!-- feedback: Incorrecto. Cero no es una solución de este trinomio de segundo grado. -->
@@ -375,11 +375,11 @@ La ecuación es x² - 20x + 75 = 0. Podemos factorizarla como (x - 15)(x - 5) = 
 Resuelve la ecuación cuadrática factorizable x² - 21x + 80 = 0 para encontrar la menor de sus raíces reales.
 
 ### Opciones
-- [x] A) 5
+- [x] C) 5
   <!-- feedback: ¡Correcto! Las raíces de la ecuación son x = 16 y x = 5. La menor de ellas es 5. -->
-- [ ] B) 16
+- [ ] A) 16
   <!-- feedback: Incorrecto. Esta es la raíz mayor, no la menor solicitada en el enunciado. -->
-- [ ] C) 8
+- [ ] B) 8
   <!-- feedback: Incorrecto. Este valor no satisface la ecuación cuadrática dada. -->
 - [ ] D) 0
   <!-- feedback: Incorrecto. Cero no es una solución de este trinomio de segundo grado. -->
@@ -398,13 +398,13 @@ La ecuación es x² - 21x + 80 = 0. Podemos factorizarla como (x - 16)(x - 5) = 
 Resuelve la ecuación cuadrática factorizable x² - 22x + 85 = 0 para encontrar la menor de sus raíces reales.
 
 ### Opciones
-- [x] A) 5
+- [x] D) 5
   <!-- feedback: ¡Correcto! Las raíces de la ecuación son x = 17 y x = 5. La menor de ellas es 5. -->
-- [ ] B) 17
+- [ ] A) 17
   <!-- feedback: Incorrecto. Esta es la raíz mayor, no la menor solicitada en el enunciado. -->
-- [ ] C) 8
+- [ ] B) 8
   <!-- feedback: Incorrecto. Este valor no satisface la ecuación cuadrática dada. -->
-- [ ] D) 0
+- [ ] C) 0
   <!-- feedback: Incorrecto. Cero no es una solución de este trinomio de segundo grado. -->
 
 ### Explicacion Pedagogica

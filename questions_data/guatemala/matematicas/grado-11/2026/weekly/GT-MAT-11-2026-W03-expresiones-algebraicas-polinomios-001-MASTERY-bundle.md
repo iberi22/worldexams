@@ -68,9 +68,9 @@ Si el largo de la plaza es $L = 2x + 3$ y el ancho es $W = x - 1$, ¿cuál es la
 
 ### Opciones
 - [ ] A) $3x + 2$ <!-- feedback: Esto es solo la suma de largo y ancho, falta multiplicar por 2. -->
-- [x] B) $6x + 4$ <!-- feedback: Correcto. Perímetro = $2(2x + 3) + 2(x - 1) = 4x + 6 + 2x - 2 = 6x + 4$. -->
-- [ ] C) $2x^2 + x - 3$ <!-- feedback: Esto representa el área de la plaza (producto de largo y ancho), no el perímetro. -->
-- [ ] D) $4x + 4$ <!-- feedback: Error al simplificar los términos constantes durante la suma. -->
+- [x] D) $6x + 4$ <!-- feedback: Correcto. Perímetro = $2(2x + 3) + 2(x - 1) = 4x + 6 + 2x - 2 = 6x + 4$. -->
+- [ ] B) $2x^2 + x - 3$ <!-- feedback: Esto representa el área de la plaza (producto de largo y ancho), no el perímetro. -->
+- [ ] C) $4x + 4$ <!-- feedback: Error al simplificar los términos constantes durante la suma. -->
 
 ### Explicacion Pedagogica
 El perímetro de un rectángulo se calcula sumando el doble del largo y el doble del ancho. Se deben agrupar los términos semejantes correctamente.
@@ -106,9 +106,9 @@ Simplifica la expresión: $(5x^2 - 3x + 2) + (2x^2 + 7x - 8)$.
 
 ### Opciones
 - [ ] A) $7x^4 + 4x^2 - 6$ <!-- feedback: Incorrecto. Al sumar polinomios, los exponentes de las variables no cambian. -->
-- [x] B) $7x^2 + 4x - 6$ <!-- feedback: Correcto. $5x^2 + 2x^2 = 7x^2$; $-3x + 7x = 4x$; $2 - 8 = -6$. -->
-- [ ] C) $3x^2 - 10x + 10$ <!-- feedback: Se restaron los términos en lugar de sumarlos. -->
-- [ ] D) $7x^2 + 10x - 10$ <!-- feedback: Error en los signos al agrupar los términos constantes y lineales. -->
+- [x] D) $7x^2 + 4x - 6$ <!-- feedback: Correcto. $5x^2 + 2x^2 = 7x^2$; $-3x + 7x = 4x$; $2 - 8 = -6$. -->
+- [ ] B) $3x^2 - 10x + 10$ <!-- feedback: Se restaron los términos en lugar de sumarlos. -->
+- [ ] C) $7x^2 + 10x - 10$ <!-- feedback: Error en los signos al agrupar los términos constantes y lineales. -->
 
 ### Explicacion Pedagogica
 La suma de polinomios se realiza agrupando y sumando únicamente los coeficientes de los términos semejantes (aquellos con la misma variable y exponente).
@@ -124,10 +124,10 @@ La suma de polinomios se realiza agrupando y sumando únicamente los coeficiente
 Resta el polinomio $(2a^2 - 5a + 3)$ del polinomio $(5a^2 + 2a - 1)$.
 
 ### Opciones
-- [x] A) $3a^2 + 7a - 4$ <!-- feedback: Correcto. $(5a^2 - 2a^2) + (2a - (-5a)) + (-1 - 3) = 3a^2 + 7a - 4$. -->
-- [ ] B) $7a^2 - 3a + 2$ <!-- feedback: Se sumaron los polinomios en lugar de restarlos. -->
-- [ ] C) $3a^2 - 3a - 4$ <!-- feedback: Error al cambiar el signo del segundo término durante la resta. -->
-- [ ] D) $3a^2 + 7a + 2$ <!-- feedback: Error al restar los términos constantes. -->
+- [x] D) $3a^2 + 7a - 4$ <!-- feedback: Correcto. $(5a^2 - 2a^2) + (2a - (-5a)) + (-1 - 3) = 3a^2 + 7a - 4$. -->
+- [ ] A) $7a^2 - 3a + 2$ <!-- feedback: Se sumaron los polinomios en lugar de restarlos. -->
+- [ ] B) $3a^2 - 3a - 4$ <!-- feedback: Error al cambiar el signo del segundo término durante la resta. -->
+- [ ] C) $3a^2 + 7a + 2$ <!-- feedback: Error al restar los términos constantes. -->
 
 ### Explicacion Pedagogica
 Para restar polinomios, se suma al primer polinomio el opuesto del segundo (cambiando el signo de todos sus términos).
@@ -144,8 +144,8 @@ Para restar polinomios, se suma al primer polinomio el opuesto del segundo (camb
 
 ### Opciones
 - [ ] A) $6x - 15$ <!-- feedback: Olvidaste multiplicar $x \times x$ en el primer término. -->
-- [ ] B) $6x^2 - 5$ <!-- feedback: Olvidaste multiplicar el segundo término por $3x$. -->
-- [x] C) $6x^2 - 15x$ <!-- feedback: Correcto. $3x \times 2x = 6x^2$ y $3x \times (-5) = -15x$. -->
+- [ ] C) $6x^2 - 5$ <!-- feedback: Olvidaste multiplicar el segundo término por $3x$. -->
+- [x] B) $6x^2 - 15x$ <!-- feedback: Correcto. $3x \times 2x = 6x^2$ y $3x \times (-5) = -15x$. -->
 - [ ] D) $5x^2 - 8x$ <!-- feedback: Sumaste los coeficientes en lugar de multiplicarlos. -->
 
 ### Explicacion Pedagogica
@@ -162,8 +162,8 @@ La propiedad distributiva establece que el monomio exterior multiplica a cada un
 ¿Cuál es el desarrollo del binomio al cuadrado $(x + 4)^2$?
 
 ### Opciones
-- [ ] A) $x^2 + 16$ <!-- feedback: Falta el término medio (doble producto del primero por el segundo). -->
-- [x] B) $x^2 + 8x + 16$ <!-- feedback: Correcto. Aplicando $(a+b)^2 = a^2 + 2ab + b^2$. -->
+- [ ] B) $x^2 + 16$ <!-- feedback: Falta el término medio (doble producto del primero por el segundo). -->
+- [x] A) $x^2 + 8x + 16$ <!-- feedback: Correcto. Aplicando $(a+b)^2 = a^2 + 2ab + b^2$. -->
 - [ ] C) $x^2 + 4x + 16$ <!-- feedback: El término medio debe ser $2 \times x \times 4 = 8x$. -->
 - [ ] D) $2x + 8$ <!-- feedback: Confundiste la potencia con una multiplicación por 2. -->
 
@@ -181,10 +181,10 @@ El cuadrado de un binomio resulta en un trinomio cuadrado perfecto: el cuadrado 
 ¿Cuál es el resultado de multiplicar $(x + 5)(x - 5)$?
 
 ### Opciones
-- [x] A) $x^2 - 25$ <!-- feedback: Correcto. Es un producto de binomios conjugados: $(a+b)(a-b) = a^2 - b^2$. -->
-- [ ] B) $x^2 + 25$ <!-- feedback: El producto de conjugados siempre resulta en una diferencia de cuadrados. -->
-- [ ] C) $x^2 - 10x + 25$ <!-- feedback: Este es el desarrollo de $(x-5)^2$, no de $(x+5)(x-5)$. -->
-- [ ] D) $2x - 10$ <!-- feedback: Operación incorrecta de multiplicación de binomios. -->
+- [x] D) $x^2 - 25$ <!-- feedback: Correcto. Es un producto de binomios conjugados: $(a+b)(a-b) = a^2 - b^2$. -->
+- [ ] A) $x^2 + 25$ <!-- feedback: El producto de conjugados siempre resulta en una diferencia de cuadrados. -->
+- [ ] B) $x^2 - 10x + 25$ <!-- feedback: Este es el desarrollo de $(x-5)^2$, no de $(x+5)(x-5)$. -->
+- [ ] C) $2x - 10$ <!-- feedback: Operación incorrecta de multiplicación de binomios. -->
 
 ### Explicacion Pedagogica
 El producto de la suma por la diferencia de dos términos es igual a la diferencia de sus cuadrados.
@@ -201,8 +201,8 @@ Si $P(x) = 2x^2 - 3x + 1$, ¿cuál es el valor de $P(2)$?
 
 ### Opciones
 - [ ] A) $5$ <!-- feedback: $2(2)^2 - 3(2) + 1 = 8 - 6 + 1 = 3$. -->
-- [x] B) $3$ <!-- feedback: Correcto. $2(4) - 6 + 1 = 8 - 6 + 1 = 3$. -->
-- [ ] C) $1$ <!-- feedback: Error al evaluar el primer término o al operar los signos. -->
+- [x] C) $3$ <!-- feedback: Correcto. $2(4) - 6 + 1 = 8 - 6 + 1 = 3$. -->
+- [ ] B) $1$ <!-- feedback: Error al evaluar el primer término o al operar los signos. -->
 - [ ] D) $7$ <!-- feedback: Error aritmético en la sustitución y resolución de las potencias. -->
 
 ### Explicacion Pedagogica
@@ -239,8 +239,8 @@ Simplifica la expresión: $\frac{x^2 - 9}{x + 3}$.
 
 ### Opciones
 - [ ] A) $x + 3$ <!-- feedback: Incorrecto. $x^2-9 = (x+3)(x-3)$. Al cancelar $(x+3)$ queda $(x-3)$. -->
-- [x] B) $x - 3$ <!-- feedback: Correcto. Factorizando el numerador: $\frac{(x+3)(x-3)}{x+3} = x-3$. -->
-- [ ] C) $x - 9$ <!-- feedback: No se puede cancelar términos de una suma o resta directamente; se debe factorizar primero. -->
+- [x] C) $x - 3$ <!-- feedback: Correcto. Factorizando el numerador: $\frac{(x+3)(x-3)}{x+3} = x-3$. -->
+- [ ] B) $x - 9$ <!-- feedback: No se puede cancelar términos de una suma o resta directamente; se debe factorizar primero. -->
 - [ ] D) $x^2 - 3$ <!-- feedback: Error en el proceso de simplificación de la fracción. -->
 
 ### Explicacion Pedagogica
@@ -258,9 +258,9 @@ La simplificación de fracciones algebraicas requiere factorizar numerador y den
 
 ### Opciones
 - [ ] A) $x^3 - 1$ <!-- feedback: Olvidaste los términos intermedios del cubo del binomio. -->
-- [x] B) $x^3 - 3x^2 + 3x - 1$ <!-- feedback: Correcto. Aplicando $(a-b)^3 = a^3 - 3a^2b + 3ab^2 - b^3$. -->
-- [ ] C) $x^3 - x^2 + x - 1$ <!-- feedback: Los coeficientes de los términos intermedios en el cubo de un binomio son 3. -->
-- [ ] D) $x^3 + 3x^2 + 3x + 1$ <!-- feedback: Estos son los signos para $(x+1)^3$. -->
+- [x] D) $x^3 - 3x^2 + 3x - 1$ <!-- feedback: Correcto. Aplicando $(a-b)^3 = a^3 - 3a^2b + 3ab^2 - b^3$. -->
+- [ ] B) $x^3 - x^2 + x - 1$ <!-- feedback: Los coeficientes de los términos intermedios en el cubo de un binomio son 3. -->
+- [ ] C) $x^3 + 3x^2 + 3x + 1$ <!-- feedback: Estos son los signos para $(x+1)^3$. -->
 
 ### Explicacion Pedagogica
 El cubo de un binomio sigue un patrón específico de coeficientes ($1, 3, 3, 1$) y los signos alternan cuando el binomio es una resta.
@@ -296,8 +296,8 @@ Factoriza completamente la expresión: $6x^3y - 12x^2y^2$.
 
 ### Opciones
 - [ ] A) $6(x^3y - 2x^2y^2)$ <!-- feedback: Se puede extraer más factor común (variables). -->
-- [x] B) $6x^2y(x - 2y)$ <!-- feedback: Correcto. El MCD de 6 y 12 es 6, y se extraen las variables con su menor exponente. -->
-- [ ] C) $6xy(x^2 - 2xy)$ <!-- feedback: Todavía queda una $x$ como factor común dentro del paréntesis. -->
+- [x] C) $6x^2y(x - 2y)$ <!-- feedback: Correcto. El MCD de 6 y 12 es 6, y se extraen las variables con su menor exponente. -->
+- [ ] B) $6xy(x^2 - 2xy)$ <!-- feedback: Todavía queda una $x$ como factor común dentro del paréntesis. -->
 - [ ] D) $12x^2y(x - y)$ <!-- feedback: El coeficiente 12 no es factor común de 6. -->
 
 ### Explicacion Pedagogica
@@ -352,8 +352,8 @@ La suma de cubos se factoriza como un binomio por un trinomio. El signo del tér
 Al dividir $x^3 - 2x^2 + 3x - 5$ entre $x - 2$ usando división sintética, ¿cuál es el residuo?
 
 ### Opciones
-- [ ] A) $0$ <!-- feedback: $P(2) = 2^3 - 2(2)^2 + 3(2) - 5 = 8 - 8 + 6 - 5 = 1$. -->
-- [x] B) $1$ <!-- feedback: Correcto. Por el teorema del residuo, el resto es $P(2) = 8 - 8 + 6 - 5 = 1$. -->
+- [ ] B) $0$ <!-- feedback: $P(2) = 2^3 - 2(2)^2 + 3(2) - 5 = 8 - 8 + 6 - 5 = 1$. -->
+- [x] A) $1$ <!-- feedback: Correcto. Por el teorema del residuo, el resto es $P(2) = 8 - 8 + 6 - 5 = 1$. -->
 - [ ] C) $-5$ <!-- feedback: Error al aplicar el teorema del residuo. -->
 - [ ] D) $3$ <!-- feedback: Error aritmético durante la división sintética. -->
 
@@ -372,8 +372,8 @@ Factoriza completamente el polinomio: $x^4 - 13x^2 + 36$.
 
 ### Opciones
 - [ ] A) $(x^2 - 6)^2$ <!-- feedback: Esto resultaría en $x^4 - 12x^2 + 36$. -->
-- [ ] B) $(x^2 - 9)(x^2 - 4)$ <!-- feedback: Aunque es un paso correcto, no está factorizado "completamente". -->
-- [x] C) $(x + 3)(x - 3)(x + 2)(x - 2)$ <!-- feedback: Correcto. Primero se factoriza como trinomio $(x^2-9)(x^2-4)$, luego cada parte como diferencia de cuadrados. -->
+- [ ] C) $(x^2 - 9)(x^2 - 4)$ <!-- feedback: Aunque es un paso correcto, no está factorizado "completamente". -->
+- [x] B) $(x + 3)(x - 3)(x + 2)(x - 2)$ <!-- feedback: Correcto. Primero se factoriza como trinomio $(x^2-9)(x^2-4)$, luego cada parte como diferencia de cuadrados. -->
 - [ ] D) $(x + 6)(x - 6)(x + 1)(x - 1)$ <!-- feedback: Los factores del trinomio original no coinciden. -->
 
 ### Explicacion Pedagogica
@@ -392,8 +392,8 @@ Simplifica la expresión: $\frac{x^2 - 5x + 6}{x^2 - 4} \cdot \frac{x + 2}{x - 3
 ### Opciones
 - [ ] A) $\frac{x - 2}{x + 2}$ <!-- feedback: Incorrecto. Al simplificar todos los factores se cancelan. -->
 - [ ] B) $x - 3$ <!-- feedback: Incorrecto. No queda ningún término variable. -->
-- [x] C) $1$ <!-- feedback: Correcto. $\frac{(x-2)(x-3)}{(x-2)(x+2)} \cdot \frac{x+2}{x-3} = 1$ después de cancelar todos los factores comunes. -->
-- [ ] D) $0$ <!-- feedback: El resultado de una simplificación donde se cancelan todos los términos de una fracción por división es 1, no 0. -->
+- [x] D) $1$ <!-- feedback: Correcto. $\frac{(x-2)(x-3)}{(x-2)(x+2)} \cdot \frac{x+2}{x-3} = 1$ después de cancelar todos los factores comunes. -->
+- [ ] C) $0$ <!-- feedback: El resultado de una simplificación donde se cancelan todos los términos de una fracción por división es 1, no 0. -->
 
 ### Explicacion Pedagogica
 La multiplicación de fracciones algebraicas se facilita factorizando todos los numeradores y denominadores para cancelar factores comunes que aparecen tanto arriba como abajo.

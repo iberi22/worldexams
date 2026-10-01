@@ -57,11 +57,11 @@ La probabilidad de un evento simple en un espacio muestral equiprobable se calcu
 ¿Cuál es la probabilidad de extraer una ficha que tenga un número par?
 
 ### Opciones
-- [x] A) $\frac{1}{2}$
+- [x] C) $\frac{1}{2}$
   <!-- feedback: Los números pares del 1 al 12 son {2, 4, 6, 8, 10, 12}, en total 6 casos favorables sobre 12 posibles (6/12 = 1/2). -->
-- [ ] B) $\frac{1}{3}$
+- [ ] A) $\frac{1}{3}$
   <!-- feedback: Se contó un número menor de pares o se simplificó incorrectamente la fracción 6/12. -->
-- [ ] C) $\frac{5}{12}$
+- [ ] B) $\frac{5}{12}$
   <!-- feedback: Se contaron solo 5 números pares omitiendo uno de ellos. -->
 - [ ] D) $\frac{7}{12}$
   <!-- feedback: Se contaron los números impares en lugar de los números pares. -->
@@ -149,13 +149,13 @@ Por inclusión y exclusión, la cantidad de personas que usan al menos uno de lo
 ¿Cuál es la probabilidad de que la suma de los puntos obtenidos sea igual a 7?
 
 ### Opciones
-- [x] A) $\frac{1}{6}$
+- [x] D) $\frac{1}{6}$
   <!-- feedback: Los pares que suman 7 son (1,6), (2,5), (3,4), (4,3), (5,2), (6,1). Son 6 casos favorables sobre 36 posibles: 6/36 = 1/6. -->
-- [ ] B) $\frac{7}{36}$
+- [ ] A) $\frac{7}{36}$
   <!-- feedback: Se confundió el valor de la suma deseada (7) con la cantidad de parejas favorables. -->
-- [ ] C) $\frac{5}{36}$
+- [ ] B) $\frac{5}{36}$
   <!-- feedback: Se omitió una de las combinaciones posibles que suman 7. -->
-- [ ] D) $\frac{1}{12}$
+- [ ] C) $\frac{1}{12}$
   <!-- feedback: Se dividió el total de posibles sumas (12) entre el espacio muestral o se realizó un cálculo desacertado. -->
 
 ### Explicacion Pedagogica
@@ -195,11 +195,11 @@ Para eventos dependientes sin reemplazo, $P(A cap B) = P(A) \cdot P(B|A) = \frac
 ¿Cuál es la probabilidad de extraer un As o una carta de Corazones?
 
 ### Opciones
-- [x] A) $\frac{4}{13}$
+- [x] C) $\frac{4}{13}$
   <!-- feedback: Hay 4 Ases y 13 Corazones. El As de Corazones está en ambos grupos. N(As U Corazones) = 4 + 13 - 1 = 16. P = 16/52 = 4/13. -->
-- [ ] B) $\frac{17}{52}$
+- [ ] A) $\frac{17}{52}$
   <!-- feedback: Se sumaron 4 Ases + 13 Corazones sin restar la carta que cumple ambas condiciones. -->
-- [ ] C) $\frac{9}{26}$
+- [ ] B) $\frac{9}{26}$
   <!-- feedback: Se sobreestimó el número de elementos favorables. -->
 - [ ] D) $\frac{1}{52}$
   <!-- feedback: Se calculó la probabilidad de extraer específicamente el As de Corazones (intersección en lugar de unión). -->
@@ -218,9 +218,9 @@ Aplicando el principio de inclusión-exclusión: $P(\text{As} cup\text{Corazón}
 ¿Cuál es la probabilidad de obtener exactamente 2 caras?
 
 ### Opciones
-- [x] A) $\frac{3}{8}$
+- [x] B) $\frac{3}{8}$
   <!-- feedback: El espacio muestral tiene 2^3 = 8 resultados. Los eventos con exactamente 2 caras son (C,C,S), (C,S,C), (S,C,C), es decir 3 casos. P = 3/8. -->
-- [ ] B) $\frac{1}{4}$
+- [ ] A) $\frac{1}{4}$
   <!-- feedback: Se contaron solo 2 resultados favorables en lugar de 3. -->
 - [ ] C) $\frac{1}{2}$
   <!-- feedback: Se asumió que obtener 2 caras tiene la misma probabilidad que un lanzamiento individual. -->
@@ -241,9 +241,9 @@ Con $n=3$ lanzamientos independientes de monedas, la probabilidad de obtener $k=
 Si un inspector prueba un bombillo seleccionado al azar, ¿cuál es la probabilidad de que NO esté defectuoso?
 
 ### Opciones
-- [x] A) $\frac{4}{5}$
+- [x] B) $\frac{4}{5}$
   <!-- feedback: Los bombillos no defectuosos son 20 - 4 = 16. La probabilidad es 16/20 = 4/5 = 0.8. -->
-- [ ] B) $\frac{1}{5}$
+- [ ] A) $\frac{1}{5}$
   <!-- feedback: Se calculó la probabilidad de que el bombillo SÍ esté defectuoso (4/20 = 1/5). -->
 - [ ] C) $\frac{3}{4}$
   <!-- feedback: Se realizó una simplificación errónea de 16/20. -->
@@ -264,9 +264,9 @@ La probabilidad del evento complemento $P(E^c) = 1 - P(E) = 1 - \frac{4}{20} = 1
 Si se elige un empleado al azar y se sabe que habla inglés, ¿cuál es la probabilidad condicional de que también hable francés?
 
 ### Opciones
-- [x] A) $\frac{2}{7}$
+- [x] B) $\frac{2}{7}$
   <!-- feedback: P(Francés | Inglés) = P(Francés n Inglés) / P(Inglés) = 0.20 / 0.70 = 2/7. -->
-- [ ] B) $\frac{1}{2}$
+- [ ] A) $\frac{1}{2}$
   <!-- feedback: Se dividió el 20% entre el 40% que habla francés en lugar del grupo condicional de inglés. -->
 - [ ] C) $\frac{2}{5}$
   <!-- feedback: Corresponde a la probabilidad condicional inversa P(Inglés | Francés) = 0.20 / 0.40 = 1/2, escrita con otro denominador. -->
@@ -287,9 +287,9 @@ La probabilidad condicional se define como $P(A|B) = \frac{P(A cap B)}{P(B)}$. A
 ¿Cuál es la probabilidad de que al menos uno de los dos resuelva correctamente el problema?
 
 ### Opciones
-- [x] A) 0.92
+- [x] B) 0.92
   <!-- feedback: P(al menos uno) = 1 - P(ninguno). P(ninguno) = (1 - 0.6)*(1 - 0.8) = 0.4 * 0.2 = 0.08. Luego 1 - 0.08 = 0.92. -->
-- [ ] B) 0.88
+- [ ] A) 0.88
   <!-- feedback: Se sumó 0.6 + 0.8 y se restó la suma simple de fallos. -->
 - [ ] C) 0.48
   <!-- feedback: Se multiplicó 0.6 * 0.8, que es la probabilidad de que AMBOS lo resuelvan. -->
@@ -310,9 +310,9 @@ Para eventos independientes, $P(A cup B) = 1 - P(A^c cap B^c) = 1 - (1 - 0.6)(1 
 Si se toma una persona al azar de la población, ¿cuál es la probabilidad de que esté enferma Y su prueba resulte positiva?
 
 ### Opciones
-- [x] A) 0.019
+- [x] B) 0.019
   <!-- feedback: P(Enfermo n Positivo) = P(Enfermo) * P(Positivo | Enfermo) = 0.02 * 0.95 = 0.019. -->
-- [ ] B) 0.095
+- [ ] A) 0.095
   <!-- feedback: Se corrió la coma decimal calculando 0.1 * 0.95. -->
 - [ ] C) 0.970
   <!-- feedback: Se sumaron las probabilidades 0.95 + 0.02 en lugar de multiplicarlas. -->
@@ -333,11 +333,11 @@ La probabilidad de la intersección se obtiene mediante el producto $P(E cap T) 
 ¿Cuál es la probabilidad de obtener el número 6 en un lanzamiento de este dado?
 
 ### Opciones
-- [x] A) $\frac{2}{9}$
+- [x] C) $\frac{2}{9}$
   <!-- feedback: Hay 3 impares (1,3,5) con peso x cada uno y 3 pares (2,4,6) con peso 2x cada uno. Total = 3x + 6x = 9x = 1 -> x = 1/9. El número 6 es par, su prob es 2x = 2/9. -->
-- [ ] B) $\frac{1}{6}$
+- [ ] A) $\frac{1}{6}$
   <!-- feedback: Se asumió incorrectamente que el dado sigue siendo justo. -->
-- [ ] C) $\frac{1}{9}$
+- [ ] B) $\frac{1}{9}$
   <!-- feedback: Se asignó el peso de los números impares al número 6. -->
 - [ ] D) $\frac{1}{3}$
   <!-- feedback: Se calculó la probabilidad de todo el evento de obtener cualquier par dividido entre 2. -->
@@ -356,11 +356,11 @@ Sean $p$ la probabilidad de cada cara impar y $2p$ la de cada cara par. Como hay
 ¿Cuál es la probabilidad de que el participante gane el juego?
 
 ### Opciones
-- [x] A) $\frac{1}{6}$
+- [x] C) $\frac{1}{6}$
   <!-- feedback: Las combinaciones que suman 10 o más son: suma 10: (4,6),(5,5),(6,4) [3]; suma 11: (5,6),(6,5) [2]; suma 12: (6,6) [1]. Total = 6 casos. P = 6/36 = 1/6. -->
-- [ ] B) $\frac{1}{12}$
+- [ ] A) $\frac{1}{12}$
   <!-- feedback: Se contaron únicamente 3 casos favorables (suma igual a 10), ignorando 11 y 12. -->
-- [ ] C) $\frac{5}{36}$
+- [ ] B) $\frac{5}{36}$
   <!-- feedback: Se omitió la combinación (6,6) en la cuenta. -->
 - [ ] D) $\frac{1}{4}$
   <!-- feedback: Se contaron 9 casos favorables por error. -->
@@ -379,13 +379,13 @@ Los casos favorables para suma $ge 10$ son ${(4,6), (5,5), (6,4), (5,6), (6,5), 
 ¿Cuál es la probabilidad de que la segunda canica extraída sea roja?
 
 ### Opciones
-- [x] A) $\frac{1}{2}$
+- [x] D) $\frac{1}{2}$
   <!-- feedback: Por teorema de probabilidad total: P(R2) = P(R2|R1)*P(R1) + P(R2|N1)*P(N1) = (7/12)*(5/10) + (5/12)*(5/10) = (1/2)*(7/12 + 5/12) = 1/2. -->
-- [ ] B) $\frac{7}{12}$
+- [ ] A) $\frac{7}{12}$
   <!-- feedback: Corresponde a la probabilidad condicional P(R2|R1), no a la probabilidad total P(R2). -->
-- [ ] C) $\frac{5}{12}$
+- [ ] B) $\frac{5}{12}$
   <!-- feedback: Corresponde a la probabilidad condicional P(R2|N1). -->
-- [ ] D) $\frac{7}{24}$
+- [ ] C) $\frac{7}{24}$
   <!-- feedback: Se multiplicó P(R1) por P(R2|R1) pero se omitió el segundo camino de la probabilidad total. -->
 
 ### Explicacion Pedagogica
@@ -431,9 +431,9 @@ $P(B|D) = \frac{P(D|B)P(B)}{P(D|A)P(A) + P(D|B)P(B)} = \frac{(0.10)(0.40)}{(0.05
 ¿Cuál es la probabilidad de que el blanco sea impactado por EXACTAMENTE dos de los tres tiradores?
 
 ### Opciones
-- [x] A) 0.46
+- [x] B) 0.46
   <!-- feedback: Los casos son: (A n B n C') + (A n B' n C) + (A' n B n C) = (0.5*0.6*0.2) + (0.5*0.4*0.8) + (0.5*0.6*0.8) = 0.06 + 0.16 + 0.24 = 0.46. -->
-- [ ] B) 0.24
+- [ ] A) 0.24
   <!-- feedback: Se calculó únicamente el caso en que falló A (A' n B n C). -->
 - [ ] C) 0.52
   <!-- feedback: Se cometió un error aritmético al sumar las probabilidades de los tres eventos mutuamente excluyentes. -->

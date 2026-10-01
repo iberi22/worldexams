@@ -37,9 +37,9 @@ La unidad SI de carga eléctrica es:
 ### Opciones
 - [ ] A) Voltio (V).
   <!-- feedback: El voltio es unidad de potencial eléctrico. -->
-- [x] B) Coulomb (C).
+- [x] C) Coulomb (C).
   <!-- feedback: 1 C equivale a la carga de aproximadamente 6.24 × 10¹⁸ electrones. -->
-- [ ] C) Amperio (A).
+- [ ] B) Amperio (A).
   <!-- feedback: El amperio es unidad de corriente. -->
 - [ ] D) Ohmio (Ω).
   <!-- feedback: El ohmio es unidad de resistencia. -->
@@ -58,9 +58,9 @@ El coulomb es la unidad fundamental de carga eléctrica en el Sistema Internacio
 Este fenómeno se explica por:
 
 ### Opciones
-- [x] A) Carga por fricción: el globo adquiere carga negativa al ganar electrones del cabello.
+- [x] B) Carga por fricción: el globo adquiere carga negativa al ganar electrones del cabello.
   <!-- feedback: Al frotar, los electrones se transfieren entre materiales. -->
-- [ ] B) Magnetismo inducido por el cabello humano.
+- [ ] A) Magnetismo inducido por el cabello humano.
   <!-- feedback: El cabello no es un imán natural. -->
 - [ ] C) Generación de luz ultravioleta.
   <!-- feedback: No hay emisión de luz visible. -->
@@ -81,9 +81,9 @@ La electrización por fricción ocurre por transferencia de electrones entre mat
 Si la distancia entre dos cargas puntuales se duplica, la fuerza eléctrica entre ellas:
 
 ### Opciones
-- [ ] A) Se duplica.
+- [ ] B) Se duplica.
   <!-- feedback: La fuerza es inversamente proporcional al cuadrado de la distancia. -->
-- [x] B) Se reduce a la cuarta parte.
+- [x] A) Se reduce a la cuarta parte.
   <!-- feedback: F ∝ 1/r²; si r se duplica, F/4. -->
 - [ ] C) Se mantiene igual.
   <!-- feedback: La distancia sí afecta la fuerza. -->
@@ -129,11 +129,11 @@ Usando k = 9 × 10⁹ N·m²/C², ¿cuál es la fuerza eléctrica entre las carg
 ### Opciones
 - [ ] A) 0.054 N.
   <!-- feedback: Usaste una conversión errónea de unidades. -->
-- [x] B) 5.4 N.
+- [x] D) 5.4 N.
   <!-- feedback: F = k·|q1·q2|/r² = 9e9·(2e-6)·(3e-6)/(0.1)² = 5.4 N. -->
-- [ ] C) 54 N.
+- [ ] B) 54 N.
   <!-- feedback: Error de orden de magnitud. -->
-- [ ] D) 540 N.
+- [ ] C) 540 N.
   <!-- feedback: Exceso en el orden de magnitud. -->
 
 ### Explicacion Pedagogica
@@ -150,9 +150,9 @@ La ley de Coulomb (F = k·q1·q2/r²) permite calcular la fuerza entre cargas pu
 Si por una resistencia de 10 Ω circula una corriente de 2 A, ¿cuál es la diferencia de potencial entre sus extremos?
 
 ### Opciones
-- [ ] A) 0.2 V.
+- [ ] B) 0.2 V.
   <!-- feedback: Invertiste el cociente. -->
-- [x] B) 20 V.
+- [x] A) 20 V.
   <!-- feedback: V = R·I = 10·2 = 20 V. -->
 - [ ] C) 5 V.
   <!-- feedback: Dividiste en lugar de multiplicar. -->
@@ -198,11 +198,11 @@ La ley de Faraday establece que la fem inducida en un circuito es proporcional a
 ### Opciones
 - [ ] A) La corriente que circula por el circuito.
   <!-- feedback: La corriente no es la fuente de fem inducida. -->
-- [x] B) La rapidez de cambio del flujo magnético que atraviesa el circuito.
+- [x] D) La rapidez de cambio del flujo magnético que atraviesa el circuito.
   <!-- feedback: fem = -dΦ/dt. -->
-- [ ] C) La resistencia del alambre.
+- [ ] B) La resistencia del alambre.
   <!-- feedback: La fem es independiente de R. -->
-- [ ] D) El cuadrado del campo magnético.
+- [ ] C) El cuadrado del campo magnético.
   <!-- feedback: El flujo, no el campo al cuadrado. -->
 
 ### Explicacion Pedagogica
@@ -221,9 +221,9 @@ Un conductor recto de 0.2 m por el que circulan 5 A se coloca perpendicular a un
 ### Opciones
 - [ ] A) 0.3 N.
   <!-- feedback: Error en la fórmula. -->
-- [x] B) 3 N.
+- [x] C) 3 N.
   <!-- feedback: F = B·I·L·sen θ = 3·5·0.2·1 = 3 N. -->
-- [ ] C) 30 N.
+- [ ] B) 30 N.
   <!-- feedback: Excediste un orden de magnitud. -->
 - [ ] D) 0.03 N.
   <!-- feedback: Dividiste en lugar de multiplicar. -->
@@ -242,9 +242,9 @@ La fuerza magnética sobre un conductor recto es F = B·I·L·sen θ.
 En un circuito serie con R₁ = 4 Ω y R₂ = 6 Ω conectado a una fuente de 20 V, ¿cuál es la corriente total?
 
 ### Opciones
-- [ ] A) 5 A.
+- [ ] B) 5 A.
   <!-- feedback: Error en la suma de resistencias. -->
-- [x] B) 2 A.
+- [x] A) 2 A.
   <!-- feedback: R_eq = 4 + 6 = 10 Ω; I = V/R = 20/10 = 2 A. -->
 - [ ] C) 0.5 A.
   <!-- feedback: Dividiste en lugar de la operación correcta. -->
@@ -269,9 +269,9 @@ La capacitancia de un capacitor de placas paralelas aumenta si:
   <!-- feedback: C es proporcional al área A. -->
 - [ ] B) Aumenta la distancia entre las placas.
   <!-- feedback: C es inversamente proporcional a la distancia d. -->
-- [x] C) Disminuye la distancia entre las placas y se aumenta el área.
+- [x] D) Disminuye la distancia entre las placas y se aumenta el área.
   <!-- feedback: C = ε·A/d. -->
-- [ ] D) Se desconecta la fuente.
+- [ ] C) Se desconecta la fuente.
   <!-- feedback: La capacitancia es propiedad del capacitor. -->
 
 ### Explicacion Pedagogica
@@ -334,11 +334,11 @@ La ausencia observada de monopolos magnéticos distingue al magnetismo de la ele
 El principio físico fundamental en el funcionamiento de un motor eléctrico de corriente continua es:
 
 ### Opciones
-- [x] A) La fuerza sobre una corriente en un campo magnético (F = B·I·L).
+- [x] C) La fuerza sobre una corriente en un campo magnético (F = B·I·L).
   <!-- feedback: El torque generado produce movimiento rotacional. -->
-- [ ] B) La ley de Hooke de resortes.
+- [ ] A) La ley de Hooke de resortes.
   <!-- feedback: No aplica a motores eléctricos. -->
-- [ ] C) La reflexión de ondas sonoras.
+- [ ] B) La reflexión de ondas sonoras.
   <!-- feedback: No es el principio de operación. -->
 - [ ] D) La reflexión total interna de la luz.
   <!-- feedback: Es óptica, no electromagnetismo aplicado. -->
@@ -357,9 +357,9 @@ Los motores eléctricos convierten energía eléctrica en mecánica aprovechando
 En un circuito RC en serie durante la carga, la constante de tiempo τ es:
 
 ### Opciones
-- [x] A) τ = R·C.
+- [x] B) τ = R·C.
   <!-- feedback: La constante de tiempo caracteriza la velocidad de carga/descarga. -->
-- [ ] B) τ = R/C.
+- [ ] A) τ = R/C.
   <!-- feedback: Es la inversa. -->
 - [ ] C) τ = C/R.
   <!-- feedback: Es otra expresión incorrecta. -->
@@ -382,9 +382,9 @@ Las ondas electromagnéticas se caracterizan por:
 ### Opciones
 - [ ] A) Necesitar un medio material para propagarse.
   <!-- feedback: Las ondas electromagnéticas pueden viajar en el vacío. -->
-- [ ] B) Poseer únicamente campo eléctrico.
+- [ ] C) Poseer únicamente campo eléctrico.
   <!-- feedback: Poseen campo eléctrico y magnético oscilantes. -->
-- [x] C) Transportar campos eléctrico y magnético perpendiculares entre sí y a la dirección de propagación.
+- [x] B) Transportar campos eléctrico y magnético perpendiculares entre sí y a la dirección de propagación.
   <!-- feedback: La onda es transversal electromagnética. -->
 - [ ] D) Viajar siempre más lento que el sonido.
   <!-- feedback: Viajan a la velocidad de la luz. -->
@@ -405,9 +405,9 @@ La inductancia mutua entre dos bobinas depende principalmente de:
 ### Opciones
 - [ ] A) La resistencia de los alambres.
   <!-- feedback: La resistencia es independiente. -->
-- [x] B) La geometría de las bobinas, su número de vueltas y la permeabilidad del medio.
+- [x] C) La geometría de las bobinas, su número de vueltas y la permeabilidad del medio.
   <!-- feedback: M = μ·N₁·N₂·A·k/l. -->
-- [ ] C) La temperatura del aire.
+- [ ] B) La temperatura del aire.
   <!-- feedback: Influye levemente, no es principal. -->
 - [ ] D) La masa del núcleo.
   <!-- feedback: La masa no aparece en la fórmula. -->
@@ -428,9 +428,9 @@ El espectro electromagnético ordena las ondas por:
 ### Opciones
 - [ ] A) Su amplitud únicamente.
   <!-- feedback: La amplitud no define el espectro. -->
-- [x] B) Su frecuencia o longitud de onda, desde las ondas de radio hasta los rayos gamma.
+- [x] C) Su frecuencia o longitud de onda, desde las ondas de radio hasta los rayos gamma.
   <!-- feedback: El espectro es continuo en este parámetro. -->
-- [ ] C) Su velocidad en el agua.
+- [ ] B) Su velocidad en el agua.
   <!-- feedback: La velocidad en el vacío es constante. -->
 - [ ] D) Su carga eléctrica asociada.
   <!-- feedback: Las ondas electromagnéticas son neutras. -->
@@ -449,9 +449,9 @@ El espectro electromagnético cubre desde ondas de radio (baja frecuencia) hasta
 En un transformador real, las pérdidas de energía se deben principalmente a:
 
 ### Opciones
-- [ ] A) Variaciones en la frecuencia de la red.
+- [ ] B) Variaciones en la frecuencia de la red.
   <!-- feedback: No es la principal pérdida. -->
-- [x] B) Resistencia del cobre en los devanados y pérdidas por histéresis y corrientes parásitas en el núcleo.
+- [x] A) Resistencia del cobre en los devanados y pérdidas por histéresis y corrientes parásitas en el núcleo.
   <!-- feedback: Estas pérdidas reducen la eficiencia del transformador. -->
 - [ ] C) Fugas de aceite refrigerante.
   <!-- feedback: El aceite no es la fuente principal. -->
@@ -472,13 +472,13 @@ Las pérdidas en el cobre (efecto Joule) y en el hierro (histéresis y corriente
 La Organización Mundial de la Salud clasifica los campos electromagnéticos de baja frecuencia (como los de líneas eléctricas) como:
 
 ### Opciones
-- [x] A) Posible carcinógeno (Grupo 2B) según la IARC, recomendando precaución.
+- [x] D) Posible carcinógeno (Grupo 2B) según la IARC, recomendando precaución.
   <!-- feedback: La evidencia es limitada; se sugiere prudencia. -->
-- [ ] B) Carcinógeno confirmado (Grupo 1).
+- [ ] A) Carcinógeno confirmado (Grupo 1).
   <!-- feedback: No hay evidencia concluyente. -->
-- [ ] C) Sustancia radioactiva.
+- [ ] B) Sustancia radioactiva.
   <!-- feedback: Los campos de baja frecuencia no son ionizantes. -->
-- [ ] D) Totalmente inocuos sin restricciones.
+- [ ] C) Totalmente inocuos sin restricciones.
   <!-- feedback: Se recomienda precaución con exposiciones prolongadas. -->
 
 ### Explicacion Pedagogica

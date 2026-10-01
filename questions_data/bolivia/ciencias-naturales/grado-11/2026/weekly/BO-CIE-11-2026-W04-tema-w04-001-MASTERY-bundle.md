@@ -30,11 +30,11 @@ calibration: {difficulty_band: "D3-D10", expected_success: 0.65}
 Al realizar experimentos sobre genética molecular y expresión génica y estudiar proceso mediante el cual la célula sintetiza una copia fiel de su genoma completo antes de dividirse, ¿cuál es la opción que identifica correctamente el concepto o proceso estudiado?
 
 ### Opciones
-- [x] A) La replicación del adn
+- [x] C) La replicación del adn
   <!-- feedback: Excelente. Esta es la respuesta correcta ya que corresponde precisamente a proceso mediante el cual la célula sintetiza una copia fiel de su genoma completo antes de dividirse. -->
-- [ ] B) La transcripción de arn
+- [ ] A) La transcripción de arn
   <!-- feedback: Incorrecto. Este concepto hace referencia a un proceso o estructura biológica diferente. -->
-- [ ] C) La traducción de proteínas
+- [ ] B) La traducción de proteínas
   <!-- feedback: Incorrecto. No corresponde con la descripción dada. Revisa la teoría de genética molecular y expresión génica. -->
 - [ ] D) La splicing de intrones
   <!-- feedback: Incorrecto. Es un distractor conceptual incorrecto para este caso de estudio. -->
@@ -80,11 +80,11 @@ La respuesta correcta es Replicación semiconservativa. Científicamente, esto s
 Al realizar experimentos sobre genética molecular y expresión génica y estudiar enzima encargada de añadir nucleótidos de forma complementaria a la cadena molde de ADN en dirección 5' a 3', ¿cuál es la opción que identifica correctamente el concepto o proceso estudiado?
 
 ### Opciones
-- [x] A) La adn polimerasa
+- [x] C) La adn polimerasa
   <!-- feedback: Excelente. Esta es la respuesta correcta ya que corresponde precisamente a enzima encargada de añadir nucleótidos de forma complementaria a la cadena molde de ADN en dirección 5' a 3'. -->
-- [ ] B) La arn polimerasa
+- [ ] A) La arn polimerasa
   <!-- feedback: Incorrecto. Este concepto hace referencia a un proceso o estructura biológica diferente. -->
-- [ ] C) La helicasa
+- [ ] B) La helicasa
   <!-- feedback: Incorrecto. No corresponde con la descripción dada. Revisa la teoría de genética molecular y expresión génica. -->
 - [ ] D) La ligasa
   <!-- feedback: Incorrecto. Es un distractor conceptual incorrecto para este caso de estudio. -->
@@ -105,11 +105,11 @@ La respuesta correcta es La adn polimerasa. Científicamente, esto se explica po
 Al realizar experimentos sobre genética molecular y expresión génica y estudiar enzima que rompe los puentes de hidrógeno entre las bases nitrogenadas para abrir la doble hélice de ADN, ¿cuál es la opción que identifica correctamente el concepto o proceso estudiado?
 
 ### Opciones
-- [x] A) La helicasa
+- [x] C) La helicasa
   <!-- feedback: Excelente. Esta es la respuesta correcta ya que corresponde precisamente a enzima que rompe los puentes de hidrógeno entre las bases nitrogenadas para abrir la doble hélice de ADN. -->
-- [ ] B) La ligasa
+- [ ] A) La ligasa
   <!-- feedback: Incorrecto. Este concepto hace referencia a un proceso o estructura biológica diferente. -->
-- [ ] C) La topoisomerasa
+- [ ] B) La topoisomerasa
   <!-- feedback: Incorrecto. No corresponde con la descripción dada. Revisa la teoría de genética molecular y expresión génica. -->
 - [ ] D) La primasa
   <!-- feedback: Incorrecto. Es un distractor conceptual incorrecto para este caso de estudio. -->
@@ -130,9 +130,9 @@ La respuesta correcta es La helicasa. Científicamente, esto se explica por la g
 Al realizar experimentos sobre genética molecular y expresión génica y estudiar proceso en el cual la ARN polimerasa sintetiza una molécula de ARN mensajero a partir de un molde de ADN, ¿cuál es la opción que identifica correctamente el concepto o proceso estudiado?
 
 ### Opciones
-- [x] A) La transcripción
+- [x] B) La transcripción
   <!-- feedback: Excelente. Esta es la respuesta correcta ya que corresponde precisamente a proceso en el cual la ARN polimerasa sintetiza una molécula de ARN mensajero a partir de un molde de ADN. -->
-- [ ] B) La traducción
+- [ ] A) La traducción
   <!-- feedback: Incorrecto. Este concepto hace referencia a un proceso o estructura biológica diferente. -->
 - [ ] C) La replicación
   <!-- feedback: Incorrecto. No corresponde con la descripción dada. Revisa la teoría de genética molecular y expresión génica. -->
@@ -155,13 +155,13 @@ La respuesta correcta es La transcripción. Científicamente, esto se explica po
 Al realizar experimentos sobre genética molecular y expresión génica y estudiar proceso en el que se decodifica el ARNm en los ribosomas para ensamblar una secuencia específica de aminoácidos, ¿cuál es la opción que identifica correctamente el concepto o proceso estudiado?
 
 ### Opciones
-- [x] A) La traducción
+- [x] D) La traducción
   <!-- feedback: Excelente. Esta es la respuesta correcta ya que corresponde precisamente a proceso en el que se decodifica el ARNm en los ribosomas para ensamblar una secuencia específica de aminoácidos. -->
-- [ ] B) La transcripción
+- [ ] A) La transcripción
   <!-- feedback: Incorrecto. Este concepto hace referencia a un proceso o estructura biológica diferente. -->
-- [ ] C) El splicing
+- [ ] B) El splicing
   <!-- feedback: Incorrecto. No corresponde con la descripción dada. Revisa la teoría de genética molecular y expresión génica. -->
-- [ ] D) La replicación
+- [ ] C) La replicación
   <!-- feedback: Incorrecto. Es un distractor conceptual incorrecto para este caso de estudio. -->
 
 ### Explicacion Pedagogica
@@ -180,9 +180,9 @@ La respuesta correcta es La traducción. Científicamente, esto se explica por e
 Al realizar experimentos sobre genética molecular y expresión génica y estudiar propiedad del código genético donde múltiples codones diferentes pueden codificar para un mismo aminoácido, ¿cuál es la opción que identifica correctamente el concepto o proceso estudiado?
 
 ### Opciones
-- [x] A) El código genético es redundante
+- [x] B) El código genético es redundante
   <!-- feedback: Excelente. Esta es la respuesta correcta ya que corresponde precisamente a propiedad del código genético donde múltiples codones diferentes pueden codificar para un mismo aminoácido. -->
-- [ ] B) El código genético es ambiguo
+- [ ] A) El código genético es ambiguo
   <!-- feedback: Incorrecto. Este concepto hace referencia a un proceso o estructura biológica diferente. -->
 - [ ] C) El código genético es solapado
   <!-- feedback: Incorrecto. No corresponde con la descripción dada. Revisa la teoría de genética molecular y expresión génica. -->
@@ -205,11 +205,11 @@ La respuesta correcta es El código genético es redundante. Científicamente, e
 Al realizar experimentos sobre genética molecular y expresión génica y estudiar triplete de nucleótidos consecutivos en el ARNm que especifica un aminoácido concreto o señal de parada, ¿cuál es la opción que identifica correctamente el concepto o proceso estudiado?
 
 ### Opciones
-- [x] A) Un codón
+- [x] C) Un codón
   <!-- feedback: Excelente. Esta es la respuesta correcta ya que corresponde precisamente a triplete de nucleótidos consecutivos en el ARNm que especifica un aminoácido concreto o señal de parada. -->
-- [ ] B) Un anticodón
+- [ ] A) Un anticodón
   <!-- feedback: Incorrecto. Este concepto hace referencia a un proceso o estructura biológica diferente. -->
-- [ ] C) Un cistrón
+- [ ] B) Un cistrón
   <!-- feedback: Incorrecto. No corresponde con la descripción dada. Revisa la teoría de genética molecular y expresión génica. -->
 - [ ] D) Un nucleótido
   <!-- feedback: Incorrecto. Es un distractor conceptual incorrecto para este caso de estudio. -->
@@ -230,9 +230,9 @@ La respuesta correcta es Un codón. Científicamente, esto se explica por la uni
 Al realizar experimentos sobre genética molecular y expresión génica y estudiar triplete de nucleótidos complementario presente en el asa del ARNt que reconoce al codón del ARNm, ¿cuál es la opción que identifica correctamente el concepto o proceso estudiado?
 
 ### Opciones
-- [x] A) Un anticodón
+- [x] B) Un anticodón
   <!-- feedback: Excelente. Esta es la respuesta correcta ya que corresponde precisamente a triplete de nucleótidos complementario presente en el asa del ARNt que reconoce al codón del ARNm. -->
-- [ ] B) Un codón
+- [ ] A) Un codón
   <!-- feedback: Incorrecto. Este concepto hace referencia a un proceso o estructura biológica diferente. -->
 - [ ] C) Un iniciador
   <!-- feedback: Incorrecto. No corresponde con la descripción dada. Revisa la teoría de genética molecular y expresión génica. -->
@@ -255,13 +255,13 @@ La respuesta correcta es Un anticodón. Científicamente, esto se explica por el
 Al realizar experimentos sobre genética molecular y expresión génica y estudiar cambio de nucleótido que altera el codón pero sigue codificando para el mismo aminoácido sin variar la proteína, ¿cuál es la opción que identifica correctamente el concepto o proceso estudiado?
 
 ### Opciones
-- [x] A) Mutación silenciosa
+- [x] D) Mutación silenciosa
   <!-- feedback: Excelente. Esta es la respuesta correcta ya que corresponde precisamente a cambio de nucleótido que altera el codón pero sigue codificando para el mismo aminoácido sin variar la proteína. -->
-- [ ] B) Mutación de cambio de sentido
+- [ ] A) Mutación de cambio de sentido
   <!-- feedback: Incorrecto. Este concepto hace referencia a un proceso o estructura biológica diferente. -->
-- [ ] C) Mutación sin sentido
+- [ ] B) Mutación sin sentido
   <!-- feedback: Incorrecto. No corresponde con la descripción dada. Revisa la teoría de genética molecular y expresión génica. -->
-- [ ] D) Mutación de pauta de lectura
+- [ ] C) Mutación de pauta de lectura
   <!-- feedback: Incorrecto. Es un distractor conceptual incorrecto para este caso de estudio. -->
 
 ### Explicacion Pedagogica
@@ -280,11 +280,11 @@ La respuesta correcta es Mutación silenciosa. Científicamente, esto se explica
 Al realizar experimentos sobre genética molecular y expresión génica y estudiar cambio de base que convierte un codón de aminoácido en un codón de parada prematuro, truncando la proteína, ¿cuál es la opción que identifica correctamente el concepto o proceso estudiado?
 
 ### Opciones
-- [x] A) Mutación sin sentido (nonsense)
+- [x] C) Mutación sin sentido (nonsense)
   <!-- feedback: Excelente. Esta es la respuesta correcta ya que corresponde precisamente a cambio de base que convierte un codón de aminoácido en un codón de parada prematuro, truncando la proteína. -->
-- [ ] B) Mutación silenciosa
+- [ ] A) Mutación silenciosa
   <!-- feedback: Incorrecto. Este concepto hace referencia a un proceso o estructura biológica diferente. -->
-- [ ] C) Mutación de cambio de sentido
+- [ ] B) Mutación de cambio de sentido
   <!-- feedback: Incorrecto. No corresponde con la descripción dada. Revisa la teoría de genética molecular y expresión génica. -->
 - [ ] D) Mutación de desfase
   <!-- feedback: Incorrecto. Es un distractor conceptual incorrecto para este caso de estudio. -->
@@ -330,13 +330,13 @@ La respuesta correcta es Splicing de intrones. Científicamente, esto se explica
 Al realizar experimentos sobre genética molecular y expresión génica y estudiar mecanismo por el cual un solo gen puede producir múltiples isoformas de proteínas diferentes empalmando exones, ¿cuál es la opción que identifica correctamente el concepto o proceso estudiado?
 
 ### Opciones
-- [x] A) Splicing alternativo
+- [x] D) Splicing alternativo
   <!-- feedback: Excelente. Esta es la respuesta correcta ya que corresponde precisamente a mecanismo por el cual un solo gen puede producir múltiples isoformas de proteínas diferentes empalmando exones. -->
-- [ ] B) Transcripción regulada
+- [ ] A) Transcripción regulada
   <!-- feedback: Incorrecto. Este concepto hace referencia a un proceso o estructura biológica diferente. -->
-- [ ] C) Duplicación génica
+- [ ] B) Duplicación génica
   <!-- feedback: Incorrecto. No corresponde con la descripción dada. Revisa la teoría de genética molecular y expresión génica. -->
-- [ ] D) Recombinación homóloga
+- [ ] C) Recombinación homóloga
   <!-- feedback: Incorrecto. Es un distractor conceptual incorrecto para este caso de estudio. -->
 
 ### Explicacion Pedagogica
@@ -355,13 +355,13 @@ La respuesta correcta es Splicing alternativo. Científicamente, esto se explica
 Al realizar experimentos sobre genética molecular y expresión génica y estudiar unidad genética funcional procariota que agrupa genes estructurales regulados bajo un solo promotor, ¿cuál es la opción que identifica correctamente el concepto o proceso estudiado?
 
 ### Opciones
-- [x] A) Un operón
+- [x] D) Un operón
   <!-- feedback: Excelente. Esta es la respuesta correcta ya que corresponde precisamente a unidad genética funcional procariota que agrupa genes estructurales regulados bajo un solo promotor. -->
-- [ ] B) Un promotor
+- [ ] A) Un promotor
   <!-- feedback: Incorrecto. Este concepto hace referencia a un proceso o estructura biológica diferente. -->
-- [ ] C) Un potenciador
+- [ ] B) Un potenciador
   <!-- feedback: Incorrecto. No corresponde con la descripción dada. Revisa la teoría de genética molecular y expresión génica. -->
-- [ ] D) Un intrón
+- [ ] C) Un intrón
   <!-- feedback: Incorrecto. Es un distractor conceptual incorrecto para este caso de estudio. -->
 
 ### Explicacion Pedagogica
@@ -380,13 +380,13 @@ La respuesta correcta es Un operón. Científicamente, esto se explica por la or
 Al realizar experimentos sobre genética molecular y expresión génica y estudiar sustancia física o química que altera la estructura del ADN aumentando la tasa de mutación celular, ¿cuál es la opción que identifica correctamente el concepto o proceso estudiado?
 
 ### Opciones
-- [x] A) Agente mutagénico
+- [x] D) Agente mutagénico
   <!-- feedback: Excelente. Esta es la respuesta correcta ya que corresponde precisamente a sustancia física o química que altera la estructura del ADN aumentando la tasa de mutación celular. -->
-- [ ] B) Agente oncogénico
+- [ ] A) Agente oncogénico
   <!-- feedback: Incorrecto. Este concepto hace referencia a un proceso o estructura biológica diferente. -->
-- [ ] C) Agente catalítico
+- [ ] B) Agente catalítico
   <!-- feedback: Incorrecto. No corresponde con la descripción dada. Revisa la teoría de genética molecular y expresión génica. -->
-- [ ] D) Agente patógeno
+- [ ] C) Agente patógeno
   <!-- feedback: Incorrecto. Es un distractor conceptual incorrecto para este caso de estudio. -->
 
 ### Explicacion Pedagogica
@@ -430,9 +430,9 @@ La respuesta correcta es Reparación por escisión de nucleótidos. Científicam
 Al realizar experimentos sobre genética molecular y expresión génica y estudiar técnica biotecnológica para amplificar in vitro millones de copias de un segmento específico de ADN, ¿cuál es la opción que identifica correctamente el concepto o proceso estudiado?
 
 ### Opciones
-- [x] A) La reacción en cadena de la polimerasa (pcr)
+- [x] B) La reacción en cadena de la polimerasa (pcr)
   <!-- feedback: Excelente. Esta es la respuesta correcta ya que corresponde precisamente a técnica biotecnológica para amplificar in vitro millones de copias de un segmento específico de ADN. -->
-- [ ] B) La electroforesis en gel
+- [ ] A) La electroforesis en gel
   <!-- feedback: Incorrecto. Este concepto hace referencia a un proceso o estructura biológica diferente. -->
 - [ ] C) La clonación molecular
   <!-- feedback: Incorrecto. No corresponde con la descripción dada. Revisa la teoría de genética molecular y expresión génica. -->
@@ -455,11 +455,11 @@ La respuesta correcta es La reacción en cadena de la polimerasa (pcr). Científ
 Al realizar experimentos sobre genética molecular y expresión génica y estudiar técnica que separa fragmentos de ADN según su peso molecular y tamaño aplicando un campo eléctrico, ¿cuál es la opción que identifica correctamente el concepto o proceso estudiado?
 
 ### Opciones
-- [x] A) Electroforesis en gel
+- [x] C) Electroforesis en gel
   <!-- feedback: Excelente. Esta es la respuesta correcta ya que corresponde precisamente a técnica que separa fragmentos de ADN según su peso molecular y tamaño aplicando un campo eléctrico. -->
-- [ ] B) Secuenciación sanger
+- [ ] A) Secuenciación sanger
   <!-- feedback: Incorrecto. Este concepto hace referencia a un proceso o estructura biológica diferente. -->
-- [ ] C) Centrifugación diferencial
+- [ ] B) Centrifugación diferencial
   <!-- feedback: Incorrecto. No corresponde con la descripción dada. Revisa la teoría de genética molecular y expresión génica. -->
 - [ ] D) Espectrometría de masas
   <!-- feedback: Incorrecto. Es un distractor conceptual incorrecto para este caso de estudio. -->
@@ -480,9 +480,9 @@ La respuesta correcta es Electroforesis en gel. Científicamente, esto se explic
 Al realizar experimentos sobre genética molecular y expresión génica y estudiar representación visual organizada de los cromosomas de una célula ordenados por forma, tamaño y número, ¿cuál es la opción que identifica correctamente el concepto o proceso estudiado?
 
 ### Opciones
-- [x] A) El cariotipo
+- [x] B) El cariotipo
   <!-- feedback: Excelente. Esta es la respuesta correcta ya que corresponde precisamente a representación visual organizada de los cromosomas de una célula ordenados por forma, tamaño y número. -->
-- [ ] B) El genograma
+- [ ] A) El genograma
   <!-- feedback: Incorrecto. Este concepto hace referencia a un proceso o estructura biológica diferente. -->
 - [ ] C) El fenograma
   <!-- feedback: Incorrecto. No corresponde con la descripción dada. Revisa la teoría de genética molecular y expresión génica. -->
@@ -505,11 +505,11 @@ La respuesta correcta es El cariotipo. Científicamente, esto se explica por el 
 Al realizar experimentos sobre genética molecular y expresión génica y estudiar mutación genómica caracterizada por la ganancia o pérdida de cromosomas individuales en el genoma celular, ¿cuál es la opción que identifica correctamente el concepto o proceso estudiado?
 
 ### Opciones
-- [x] A) Aneuploidía
+- [x] C) Aneuploidía
   <!-- feedback: Excelente. Esta es la respuesta correcta ya que corresponde precisamente a mutación genómica caracterizada por la ganancia o pérdida de cromosomas individuales en el genoma celular. -->
-- [ ] B) Poliploidía
+- [ ] A) Poliploidía
   <!-- feedback: Incorrecto. Este concepto hace referencia a un proceso o estructura biológica diferente. -->
-- [ ] C) Euploidía
+- [ ] B) Euploidía
   <!-- feedback: Incorrecto. No corresponde con la descripción dada. Revisa la teoría de genética molecular y expresión génica. -->
 - [ ] D) Translocación recíproca
   <!-- feedback: Incorrecto. Es un distractor conceptual incorrecto para este caso de estudio. -->

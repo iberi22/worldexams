@@ -29,9 +29,9 @@ Este bundle trabaja escalas numéricas, conversión entre dibujo y realidad con 
 ### Enunciado
 ¿Qué significa la escala 1:100 en un mapa?
 ### Opciones
-- [x] A) Que 1 cm del mapa representa 100 cm de la realidad
+- [x] B) Que 1 cm del mapa representa 100 cm de la realidad
   <!-- feedback: Explica por qué es correcta: la escala compara medida del dibujo con medida real en las mismas unidades. -->
-- [ ] B) Que el mapa mide 100 cm de largo
+- [ ] A) Que el mapa mide 100 cm de largo
   <!-- feedback: Explica el error conceptual: la escala no indica el tamaño del papel sino la proporción con la realidad. -->
 - [ ] C) Que la realidad es 100 veces más pequeña que el dibujo
   <!-- feedback: Explica el error conceptual: invierte la relación; la realidad es 100 veces más grande que el dibujo. -->
@@ -48,13 +48,13 @@ La escala 1:100 es una razón: cada unidad del dibujo equivale a 100 unidades re
 ### Enunciado
 ¿A cuántos cm de la realidad equivale esa medida?
 ### Opciones
-- [x] A) 150 cm
+- [x] D) 150 cm
   <!-- feedback: Explica por qué es correcta: 3 × 50 = 150 cm reales. -->
-- [ ] B) 53 cm
+- [ ] A) 53 cm
   <!-- feedback: Explica el error conceptual: suma 3 + 50 en vez de multiplicar por la escala. -->
-- [ ] C) 50 cm
+- [ ] B) 50 cm
   <!-- feedback: Explica el error conceptual: repite la escala sin multiplicarla por los 3 cm medidos. -->
-- [ ] D) 15 cm
+- [ ] C) 15 cm
   <!-- feedback: Explica el error conceptual: multiplica 3 × 5 olvidando un cero de la escala 50. -->
 ### Explicacion Pedagogica
 Del dibujo a la realidad se multiplica por la escala: 3 cm × 50 = 150 cm (1.5 m). La escala actúa como factor de ampliación constante.
@@ -105,13 +105,13 @@ De la realidad al dibujo se divide entre la escala, con unidades homogéneas: 10
 ### Enunciado
 ¿Cuál es la escala numérica del mapa?
 ### Opciones
-- [x] A) 1:500.000
+- [x] D) 1:500.000
   <!-- feedback: Explica por qué es correcta: 20 km = 2.000.000 cm y 2.000.000 ÷ 4 = 500.000. -->
-- [ ] B) 1:5
+- [ ] A) 1:5
   <!-- feedback: Explica el error conceptual: divide 20 ÷ 4 sin convertir kilómetros a centímetros. -->
-- [ ] C) 1:50.000
+- [ ] B) 1:50.000
   <!-- feedback: Explica el error conceptual: convierte los kilómetros solo hasta metros, perdiendo un factor de 100. -->
-- [ ] D) 1:80
+- [ ] C) 1:80
   <!-- feedback: Explica el error conceptual: multiplica 20 × 4 en vez de dividir la realidad entre el dibujo. -->
 ### Explicacion Pedagogica
 Hallar la escala es dividir realidad entre dibujo en iguales unidades: 2.000.000 ÷ 4 = 500.000, escala 1:500.000. La escala indica cuántas veces cabe el dibujo en la realidad.
@@ -124,13 +124,13 @@ Hallar la escala es dividir realidad entre dibujo en iguales unidades: 2.000.000
 ### Enunciado
 ¿Qué se concluye al comparar ambas representaciones?
 ### Opciones
-- [x] A) Ambas representan 6 km, son coherentes entre sí
+- [x] D) Ambas representan 6 km, son coherentes entre sí
   <!-- feedback: Explica por qué es correcta: A: 6 × 100.000 = 600.000 cm = 6 km; B: 3 × 200.000 = 600.000 cm = 6 km. -->
-- [ ] B) El mapa A exagera porque 6 cm es el doble de 3 cm
+- [ ] A) El mapa A exagera porque 6 cm es el doble de 3 cm
   <!-- feedback: Explica el error conceptual: compara los dibujos sin considerar que las escalas también difieren al doble. -->
-- [ ] C) El mapa B representa el doble de distancia que el A
+- [ ] B) El mapa B representa el doble de distancia que el A
   <!-- feedback: Explica el error conceptual: la escala doble compensa exactamente la mitad del dibujo. -->
-- [ ] D) No se pueden comparar mapas con distinta escala
+- [ ] C) No se pueden comparar mapas con distinta escala
   <!-- feedback: Explica el error conceptual: sí se puede, convirtiendo cada dibujo a distancia real. -->
 ### Explicacion Pedagogica
 Dibujo y escala se compensan: mitad de dibujo con doble escala da igual realidad (6 km). Verificar coherencia entre mapas es una aplicación auténtica de la proporcionalidad.
@@ -162,13 +162,13 @@ Cada lado se amplía por 50 y se convierte a metros (4 m y 3 m); el área real e
 ### Enunciado
 ¿Cuántos cm ocupará el recorrido en el mapa?
 ### Opciones
-- [x] A) 6 cm
+- [x] D) 6 cm
   <!-- feedback: Explica por qué es correcta: 15 km = 1.500.000 cm y 1.500.000 ÷ 250.000 = 6 cm. -->
-- [ ] B) 60 cm
+- [ ] A) 60 cm
   <!-- feedback: Explica el error conceptual: convierte los kilómetros solo hasta metros antes de dividir. -->
-- [ ] C) 3.75 cm
+- [ ] B) 3.75 cm
   <!-- feedback: Explica el error conceptual: divide entre 400.000 en vez de entre 250.000. -->
-- [ ] D) 37.5 cm
+- [ ] C) 37.5 cm
   <!-- feedback: Explica el error conceptual: multiplica en vez de dividir al pasar de realidad a dibujo. -->
 ### Explicacion Pedagogica
 Realidad → dibujo: convertir a cm (1.500.000) y dividir entre la escala (250.000) = 6 cm. Planificar el tamaño del dibujo antes de trazar es el uso profesional de la escala.
@@ -181,13 +181,13 @@ Realidad → dibujo: convertir a cm (1.500.000) y dividir entre la escala (250.0
 ### Enunciado
 ¿Es correcta la afirmación? Justifica.
 ### Opciones
-- [x] A) Sí, porque 5 × 100 = 500 cm = 5 m
+- [x] D) Sí, porque 5 × 100 = 500 cm = 5 m
   <!-- feedback: Explica por qué es correcta: al multiplicar por la escala y convertir (500 cm = 5 m) se confirma la equivalencia. -->
-- [ ] B) No, porque representa 500 m
+- [ ] A) No, porque representa 500 m
   <!-- feedback: Explica el error conceptual: 500 son centímetros, no metros; falta la conversión final. -->
-- [ ] C) No, porque representa 0.5 m
+- [ ] B) No, porque representa 0.5 m
   <!-- feedback: Explica el error conceptual: divide entre 100 en vez de multiplicar al ir del dibujo a la realidad. -->
-- [ ] D) Sí, porque 5 y 5 coinciden sin operar
+- [ ] C) Sí, porque 5 y 5 coinciden sin operar
   <!-- feedback: Explica el error conceptual: la coincidencia numérica no justifica nada; hay que operar y convertir. -->
 ### Explicacion Pedagogica
 Verificar una afirmación de escala exige el cálculo completo: 5 × 100 = 500 cm = 5 m. La justificación con operaciones y conversión valida la equivalencia sin apelar a coincidencias.
@@ -200,13 +200,13 @@ Verificar una afirmación de escala exige el cálculo completo: 5 × 100 = 500 c
 ### Enunciado
 ¿Cuál mapa conviene y por qué?
 ### Opciones
-- [x] A) El de 1:5.000, porque cada cm cubre menos terreno y muestra más detalle
+- [x] D) El de 1:5.000, porque cada cm cubre menos terreno y muestra más detalle
   <!-- feedback: Explica por qué es correcta: 1 cm = 50 m en el barrio frente a 1 cm = 1 km en la región; la escala mayor detalla más. -->
-- [ ] B) El de 1:100.000, porque el número mayor indica más detalle
+- [ ] A) El de 1:100.000, porque el número mayor indica más detalle
   <!-- feedback: Explica el error conceptual: un número de escala mayor significa más reducción y menos detalle, no más. -->
-- [ ] C) El de 1:100.000, porque abarca más territorio
+- [ ] B) El de 1:100.000, porque abarca más territorio
   <!-- feedback: Explica el error conceptual: abarcar más sirve para viajar lejos, no para ubicar una tienda cercana. -->
-- [ ] D) Ambos igual, porque los dos son mapas
+- [ ] C) Ambos igual, porque los dos son mapas
   <!-- feedback: Explica el error conceptual: las escalas difieren 20 veces; el nivel de detalle no es el mismo. -->
 ### Explicacion Pedagogica
 Escala mayor (denominador menor) = más detalle: 1:5.000 muestra cuadras y tiendas; 1:100.000 muestra municipios. Elegir escala según el propósito es la decisión cartográfica fundamental.

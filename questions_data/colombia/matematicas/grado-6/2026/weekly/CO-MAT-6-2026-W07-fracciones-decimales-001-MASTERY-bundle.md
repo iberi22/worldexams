@@ -67,13 +67,13 @@ Para pasar de fracción a decimal se divide el numerador entre el denominador. E
 ### Enunciado
 El decimal 0.25 expresado como fracción simplificada es:
 ### Opciones
-- [x] A) 1/4
+- [x] D) 1/4
   <!-- feedback: Es correcta porque 0.25 es 25/100 y al simplificar se obtiene 1/4. -->
-- [ ] B) 1/5
+- [ ] A) 1/5
   <!-- feedback: Es incorrecta porque 1/5 equivale a 0.2 y no a 0.25. -->
-- [ ] C) 2/5
+- [ ] B) 2/5
   <!-- feedback: Es incorrecta porque 2/5 equivale a 0.4 y no a 0.25. -->
-- [ ] D) 1/2
+- [ ] C) 1/2
   <!-- feedback: Es incorrecta porque 1/2 equivale a 0.5, el doble de 0.25. -->
 ### Explicacion Pedagogica
 El decimal 0.25 se lee veinticinco centésimas, es decir 25/100. Al dividir numerador y denominador entre 25 se simplifica a 1/4.
@@ -86,9 +86,9 @@ El decimal 0.25 se lee veinticinco centésimas, es decir 25/100. Al dividir nume
 ### Enunciado
 Al comparar 2/3 y 0.6, ¿cuál afirmación es correcta?
 ### Opciones
-- [x] A) 2/3 es mayor que 0.6
+- [x] B) 2/3 es mayor que 0.6
   <!-- feedback: Es correcta porque 2/3 es 0.666... y supera a 0.6. -->
-- [ ] B) 0.6 es mayor que 2/3
+- [ ] A) 0.6 es mayor que 2/3
   <!-- feedback: Es incorrecta porque 0.6 equivale a 3/5, que es menor que 2/3. -->
 - [ ] C) Son iguales
   <!-- feedback: Es incorrecta porque 2/3 es un decimal periódico 0.666... y no 0.6 exacto. -->
@@ -124,9 +124,9 @@ Calcular 1/2 de una cantidad es dividirla entre 2. La mitad de 8000 es 4000 y la
 ### Enunciado
 ¿Qué parte del total sí ahorra agua siempre o a veces?
 ### Opciones
-- [x] A) 0.6
+- [x] B) 0.6
   <!-- feedback: Es correcta porque 0.35 más 0.25 es igual a 0.6. -->
-- [ ] B) 0.45
+- [ ] A) 0.45
   <!-- feedback: Es incorrecta porque suma mal 1/4 como 0.1 en lugar de 0.25. -->
 - [ ] C) 0.39
   <!-- feedback: Es incorrecta porque suma los dígitos sin convertir la fracción a decimal. -->
@@ -143,9 +143,9 @@ Primero se convierte 1/4 a 0.25. Luego se suman los dos grupos que ahorran: 0.35
 ### Enunciado
 ¿Cuál es el orden correcto de los tiempos de menor a mayor?
 ### Opciones
-- [x] A) 12.405 es menor que 12.45
+- [x] B) 12.405 es menor que 12.45
   <!-- feedback: Es correcta porque 405 milésimas es menor que 450 milésimas. -->
-- [ ] B) 12.45 es menor que 12.405
+- [ ] A) 12.45 es menor que 12.405
   <!-- feedback: Es incorrecta porque compara solo la cantidad de cifras y no el valor posicional. -->
 - [ ] C) Son iguales
   <!-- feedback: Es incorrecta porque 12.45 equivale a 12.450, que es mayor que 12.405. -->
@@ -162,9 +162,9 @@ Para ordenar decimales se igualan las cifras con ceros: 12.450 y 12.405. Al comp
 ### Enunciado
 Si el tanque tenía 3/4 de galón y se agregan 0.5 galones más, pero el tanque solo guarda 1 galón, ¿cuánta agua se derrama?
 ### Opciones
-- [x] A) 0.25 galones
+- [x] B) 0.25 galones
   <!-- feedback: Es correcta porque 0.75 más 0.5 es 1.25 y el exceso sobre 1 es 0.25. -->
-- [ ] B) 0.5 galones
+- [ ] A) 0.5 galones
   <!-- feedback: Es incorrecta porque ese es solo lo agregado y no el exceso total. -->
 - [ ] C) 1.25 galones
   <!-- feedback: Es incorrecta porque esa es la suma total y no lo que se derrama. -->
@@ -181,11 +181,11 @@ Se convierte 3/4 a 0.75 y se suma 0.5, lo que da 1.25 galones. Como la capacidad
 ### Enunciado
 ¿Cuál tienda ofrece el precio más bajo por libra completa?
 ### Opciones
-- [x] A) La tienda B
+- [x] C) La tienda B
   <!-- feedback: Es correcta porque su precio por libra es 17000 COP, menor que 18000 COP de las otras. -->
-- [ ] B) La tienda A
+- [ ] A) La tienda A
   <!-- feedback: Es incorrecta porque su precio por libra es 18000 COP, mayor que el de B. -->
-- [ ] C) La tienda C
+- [ ] B) La tienda C
   <!-- feedback: Es incorrecta porque su precio por libra también es 18000 COP. -->
 - [ ] D) Todas cobran igual
   <!-- feedback: Es incorrecta porque al calcular el valor unitario la tienda B es más barata. -->
@@ -200,13 +200,13 @@ Se calcula el precio por libra dividiendo el precio entre la cantidad: A da 9000
 ### Enunciado
 ¿Cuál es la evaluación correcta de esa afirmación?
 ### Opciones
-- [x] A) Es falsa, porque 0.999... es igual a 1 y 1/3 más 1/3 más 1/3 es exactamente 1
+- [x] D) Es falsa, porque 0.999... es igual a 1 y 1/3 más 1/3 más 1/3 es exactamente 1
   <!-- feedback: Es correcta porque el decimal periódico 0.999... coincide con el valor de 1. -->
-- [ ] B) Es verdadera, porque 0.999... siempre es menor que 1
+- [ ] A) Es verdadera, porque 0.999... siempre es menor que 1
   <!-- feedback: Es incorrecta porque ignora que el residuo se hace infinitamente pequeño hasta desaparecer. -->
-- [ ] C) Es verdadera, porque 0.333... más 0.333... más 0.333... es 0.999 y no 1
+- [ ] B) Es verdadera, porque 0.333... más 0.333... más 0.333... es 0.999 y no 1
   <!-- feedback: Es incorrecta porque usa solo tres cifras y no el decimal periódico infinito. -->
-- [ ] D) Es falsa, porque 1/3 no se puede escribir como decimal
+- [ ] C) Es falsa, porque 1/3 no se puede escribir como decimal
   <!-- feedback: Es incorrecta porque 1/3 sí se escribe como 0.333... periódico. -->
 ### Explicacion Pedagogica
 Cada 1/3 equivale a 0.333... Al sumar tres veces se obtiene 0.999... La matemática demuestra que 0.999... es igual a 1, pues la diferencia entre ambos es más pequeña que cualquier número positivo. Por eso la suma de los tres tercios es exactamente la unidad.

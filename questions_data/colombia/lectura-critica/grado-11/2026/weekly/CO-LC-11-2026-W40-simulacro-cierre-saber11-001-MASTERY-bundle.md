@@ -58,11 +58,11 @@ Identificar el núcleo narrativo es clave para comprender la estructura del rela
 ¿Cuál es la función principal de la "tesis" en un texto argumentativo?
 
 ### Opciones
-- [x] A) Expresar la idea central que el autor defiende con razones.
+- [x] C) Expresar la idea central que el autor defiende con razones.
   <!-- feedback: Es el eje argumental. -->
-- [ ] B) Relatar hechos sin interpretación.
+- [ ] A) Relatar hechos sin interpretación.
   <!-- feedback: Es narración. -->
-- [ ] C) Describir personajes en detalle.
+- [ ] B) Describir personajes en detalle.
   <!-- feedback: Es literatura. -->
 - [ ] D) Presentar datos estadísticos sin postura.
   <!-- feedback: No hay postura. -->
@@ -81,11 +81,11 @@ La tesis articula la postura del autor y orienta la lectura crítica del argumen
 ¿Qué caracteriza a un texto expositivo?
 
 ### Opciones
-- [x] A) Su propósito es informar y explicar un tema con claridad y orden.
+- [x] C) Su propósito es informar y explicar un tema con claridad y orden.
   <!-- feedback: Predomina la función referencial. -->
-- [ ] B) Su intención es entretener exclusivamente.
+- [ ] A) Su intención es entretener exclusivamente.
   <!-- feedback: Es informativo. -->
-- [ ] C) Predomina la opinión sin datos.
+- [ ] B) Predomina la opinión sin datos.
   <!-- feedback: Aporta datos. -->
 - [ ] D) Carece de estructura.
   <!-- feedback: Está organizado. -->
@@ -104,9 +104,9 @@ El texto expositivo organiza información para ampliar el conocimiento del lecto
 En un texto poético, la voz que habla desde el "yo" se denomina:
 
 ### Opciones
-- [x] A) Yo lírico, instancia enunciativa que expresa emociones y percepciones.
+- [x] B) Yo lírico, instancia enunciativa que expresa emociones y percepciones.
   <!-- feedback: Es la voz del poema. -->
-- [ ] B) Narrador omnisciente.
+- [ ] A) Narrador omnisciente.
   <!-- feedback: No narra. -->
 - [ ] C) Personaje histórico real.
   <!-- feedback: Es construcción. -->
@@ -127,11 +127,11 @@ El yo lírico es una construcción enunciativa propia del discurso poético.
 En un microcuento, el efecto de la elipsis narrativa se logra al:
 
 ### Opciones
-- [x] A) Omitir información clave que el lector debe reconstruir.
+- [x] C) Omitir información clave que el lector debe reconstruir.
   <!-- feedback: La elipsis es esencial. -->
-- [ ] B) Explicarlo todo sin dejar espacio al lector.
+- [ ] A) Explicarlo todo sin dejar espacio al lector.
   <!-- feedback: Es lo contrario. -->
-- [ ] C) Extender la acción innecesariamente.
+- [ ] B) Extender la acción innecesariamente.
   <!-- feedback: Condensa. -->
 - [ ] D) Evitar todo conflicto.
   <!-- feedback: Lo concentra. -->
@@ -150,11 +150,11 @@ La elipsis activa la cooperación interpretativa del lector en textos breves.
 En una columna de opinión, identificar el "contraargumento" anticipado por el autor permite:
 
 ### Opciones
-- [x] A) Reconocer la estrategia de refutación previa que fortalece la postura propia.
+- [x] C) Reconocer la estrategia de refutación previa que fortalece la postura propia.
   <!-- feedback: Es un gesto dialógico. -->
-- [ ] B) Cambiar la postura del autor.
+- [ ] A) Cambiar la postura del autor.
   <!-- feedback: No la cambia. -->
-- [ ] C) Evitar la argumentación.
+- [ ] B) Evitar la argumentación.
   <!-- feedback: La refuerza. -->
 - [ ] D) Sustituir la tesis por anécdotas.
   <!-- feedback: Las integra. -->
@@ -173,13 +173,13 @@ Anticipar objeciones robustece el argumento y muestra dominio del debate.
 En un texto expositivo, el uso predominante de oraciones declarativas, tercera persona y léxico técnico se debe a:
 
 ### Opciones
-- [x] A) La necesidad de objetividad, precisión y verificabilidad informativa.
+- [x] D) La necesidad de objetividad, precisión y verificabilidad informativa.
   <!-- feedback: Recursos típicos del registro expositivo. -->
-- [ ] B) El deseo de confundir al lector.
+- [ ] A) El deseo de confundir al lector.
   <!-- feedback: Busca claridad. -->
-- [ ] C) El ánimo de entretener con humor.
+- [ ] B) El ánimo de entretener con humor.
   <!-- feedback: Predomina información. -->
-- [ ] D) La ausencia de intención comunicativa.
+- [ ] C) La ausencia de intención comunicativa.
   <!-- feedback: Comunica. -->
 
 ### Explicacion Pedagogica
@@ -196,11 +196,11 @@ El registro expositivo privilegia la claridad, la neutralidad y la precisión.
 En un poema de Benedetti, versos como "no te salves, / no te quedes en la orilla" construyen principalmente:
 
 ### Opciones
-- [x] A) Una exhortación ética dirigida a un tú, con tono de llamado al compromiso.
+- [x] C) Una exhortación ética dirigida a un tú, con tono de llamado al compromiso.
   <!-- feedback: Es un apóstrofe. -->
-- [ ] B) Una narración objetiva de hechos.
+- [ ] A) Una narración objetiva de hechos.
   <!-- feedback: Es lírica. -->
-- [ ] C) Una descripción paisajística.
+- [ ] B) Una descripción paisajística.
   <!-- feedback: Es apelativa. -->
 - [ ] D) Un manual de instrucciones.
   <!-- feedback: Es ética. -->
@@ -242,11 +242,11 @@ La focalización infantil condiciona el saber narrativo y activa la empatía del
 ¿Qué requisito debe cumplir un argumento sólido sobre educación pública en Colombia?
 
 ### Opciones
-- [x] A) Combinar evidencia verificable, razonamiento válido y pertinencia con el contexto.
+- [x] C) Combinar evidencia verificable, razonamiento válido y pertinencia con el contexto.
   <!-- feedback: Es la base de solidez. -->
-- [ ] B) Apoyarse solo en opiniones personales.
+- [ ] A) Apoyarse solo en opiniones personales.
   <!-- feedback: Falta evidencia. -->
-- [ ] C) Evitar datos cuantitativos.
+- [ ] B) Evitar datos cuantitativos.
   <!-- feedback: Son útiles. -->
 - [ ] D) Usar lenguaje técnico sin explicación.
   <!-- feedback: Reduce claridad. -->
@@ -334,13 +334,13 @@ La ironía verbal es clave para criticar sin enunciar abiertamente la denuncia.
 En un relato que alterna presente y recuerdos del protagonista, la función principal del flashback es:
 
 ### Opciones
-- [x] A) Aportar información del pasado que explica el presente del personaje.
+- [x] D) Aportar información del pasado que explica el presente del personaje.
   <!-- feedback: Enriquece la historia. -->
-- [ ] B) Confundir al lector sin propósito.
+- [ ] A) Confundir al lector sin propósito.
   <!-- feedback: Tiene intención. -->
-- [ ] C) Eliminar la trama principal.
+- [ ] B) Eliminar la trama principal.
   <!-- feedback: La complementa. -->
-- [ ] D) Cambiar al narrador en cada línea.
+- [ ] C) Cambiar al narrador en cada línea.
   <!-- feedback: Es orden temporal. -->
 
 ### Explicacion Pedagogica
@@ -357,11 +357,11 @@ El flashback integra pasado y presente para profundizar la motivación del perso
 Un texto argumentativo que alterna largas explicaciones con párrafos breves de conclusión tiende a:
 
 ### Opciones
-- [x] A) Dosificar la información y facilitar la retención de la idea central.
+- [x] C) Dosificar la información y facilitar la retención de la idea central.
   <!-- feedback: Equilibra análisis y síntesis. -->
-- [ ] B) Confundir al lector.
+- [ ] A) Confundir al lector.
   <!-- feedback: Estructura la lectura. -->
-- [ ] C) Evitar la conclusión.
+- [ ] B) Evitar la conclusión.
   <!-- feedback: La asegura. -->
 - [ ] D) Mostrar desorden.
   <!-- feedback: Hay orden. -->
@@ -380,11 +380,11 @@ La alternancia sintáctica organiza el discurso argumentativo y favorece la comp
 ¿Qué indicador muestra mayor calidad en un ensayo crítico sobre medio ambiente?
 
 ### Opciones
-- [x] A) Articulación de tesis, argumentos con evidencia y conclusiones derivadas.
+- [x] C) Articulación de tesis, argumentos con evidencia y conclusiones derivadas.
   <!-- feedback: Es la estructura básica del ensayo crítico. -->
-- [ ] B) Cantidad de páginas sin importar contenido.
+- [ ] A) Cantidad de páginas sin importar contenido.
   <!-- feedback: Es dato cuantitativo. -->
-- [ ] C) Exceso de citas sin parafraseo.
+- [ ] B) Exceso de citas sin parafraseo.
   <!-- feedback: Falta autoría. -->
 - [ ] D) Ausencia de postura.
   <!-- feedback: Es un ensayo. -->
@@ -403,13 +403,13 @@ El ensayo crítico combina postura personal, argumentos con evidencia y conclusi
 ¿Qué estrategia de lectura es más eficaz para un examen Saber 11 de lectura crítica?
 
 ### Opciones
-- [x] A) Identificar el tipo de texto, localizar la tesis o núcleo y evaluar la consistencia argumentativa.
+- [x] D) Identificar el tipo de texto, localizar la tesis o núcleo y evaluar la consistencia argumentativa.
   <!-- feedback: Ordena el análisis. -->
-- [ ] B) Leer sin subrayar ni tomar notas.
+- [ ] A) Leer sin subrayar ni tomar notas.
   <!-- feedback: Reduce precisión. -->
-- [ ] C) Confiar solo en la intuición sin evidencias.
+- [ ] B) Confiar solo en la intuición sin evidencias.
   <!-- feedback: Falta rigor. -->
-- [ ] D) Evitar la relectura del texto.
+- [ ] C) Evitar la relectura del texto.
   <!-- feedback: Es útil. -->
 
 ### Explicacion Pedagogica
@@ -426,11 +426,11 @@ Una estrategia sistemática mejora el rendimiento en comprensión lectora críti
 ¿Qué criterio define mejor la pertinencia de un texto para una prueba Saber 11?
 
 ### Opciones
-- [x] A) Su calidad literaria, su valor cívico y su capacidad para activar reflexión crítica.
+- [x] C) Su calidad literaria, su valor cívico y su capacidad para activar reflexión crítica.
   <!-- feedback: Es pertinente si enseña a leer críticamente. -->
-- [ ] B) Su extensión sin importar contenido.
+- [ ] A) Su extensión sin importar contenido.
   <!-- feedback: Es dato cuantitativo. -->
-- [ ] C) Su carácter meramente informativo.
+- [ ] B) Su carácter meramente informativo.
   <!-- feedback: Falta dimensión crítica. -->
 - [ ] D) Su anonimato autoral.
   <!-- feedback: No define calidad. -->

@@ -50,9 +50,9 @@ Para despejar la incógnita $x$, aplicamos la operación inversa a la suma, que 
 
 ### Opciones
 - [ ] A) Sumar 5 a ambos lados. <!-- feedback: Primero debes eliminar el factor 3 que multiplica a todo el paréntesis. -->
-- [x] B) Dividir por 3 ambos lados o aplicar propiedad distributiva. <!-- feedback: Ambas opciones permiten eliminar el paréntesis y simplificar la expresión. -->
-- [ ] C) Restar 12 a ambos lados. <!-- feedback: Aunque es posible, no facilita el despeje directo de la incógnita. -->
-- [ ] D) Sumar 3 a ambos lados. <!-- feedback: El 3 está multiplicando, sumar no es la operación inversa. -->
+- [x] D) Dividir por 3 ambos lados o aplicar propiedad distributiva. <!-- feedback: Ambas opciones permiten eliminar el paréntesis y simplificar la expresión. -->
+- [ ] B) Restar 12 a ambos lados. <!-- feedback: Aunque es posible, no facilita el despeje directo de la incógnita. -->
+- [ ] C) Sumar 3 a ambos lados. <!-- feedback: El 3 está multiplicando, sumar no es la operación inversa. -->
 
 ### Explicacion Pedagogica
 Para despejar $x$, el primer paso es eliminar el paréntesis. Podemos dividir toda la ecuación por 3: $x - 5 = 4$, o distribuir el 3: $3x - 15 = 12$. Ambas estrategias son válidas y facilitan los pasos siguientes.
@@ -88,8 +88,8 @@ Primero sumamos 8 a ambos lados para aislar el término con la incógnita: $2x =
 
 ### Opciones
 - [ ] A) $x^2 + 5 = 21$ <!-- feedback: "Doble" significa multiplicar la variable por 2, no elevarla al cuadrado. -->
-- [x] B) $2x + 5 = 21$ <!-- feedback: Correcto. "Doble de un número" es $2x$ y "aumentado en 5" es $+ 5$. -->
-- [ ] C) $2(x + 5) = 21$ <!-- feedback: Esta ecuación representaría "el doble de la suma de un número y 5". -->
+- [x] C) $2x + 5 = 21$ <!-- feedback: Correcto. "Doble de un número" es $2x$ y "aumentado en 5" es $+ 5$. -->
+- [ ] B) $2(x + 5) = 21$ <!-- feedback: Esta ecuación representaría "el doble de la suma de un número y 5". -->
 - [ ] D) $x/2 + 5 = 21$ <!-- feedback: Esto representaría la mitad del número en lugar de su doble. -->
 
 ### Explicacion Pedagogica
@@ -127,8 +127,8 @@ Agrupamos los términos con $x$ en un lado y los números constantes en el otro.
 ### Opciones
 - [ ] A) $x = 2$ <!-- feedback: Error en el orden de los pasos lógicos para el despeje de la incógnita. -->
 - [ ] B) $x = 6$ <!-- feedback: Restaste 4 pero olvidaste multiplicar por 3 el resultado obtenido. -->
-- [x] C) $x = 18$ <!-- feedback: $x/3 = 10 - 4 \Rightarrow x/3 = 6 \Rightarrow x = 6 \cdot 3 = 18$. -->
-- [ ] D) $x = 42$ <!-- feedback: Sumaste 4 en lugar de realizar la resta antes de la multiplicación final. -->
+- [x] D) $x = 18$ <!-- feedback: $x/3 = 10 - 4 \Rightarrow x/3 = 6 \Rightarrow x = 6 \cdot 3 = 18$. -->
+- [ ] C) $x = 42$ <!-- feedback: Sumaste 4 en lugar de realizar la resta antes de la multiplicación final. -->
 
 ### Explicacion Pedagogica
 Primero aislamos el término fraccionario restando 4 a ambos lados: $x/3 = 10 - 4$, lo que nos da $x/3 = 6$. Para despejar $x$, multiplicamos toda la ecuación por 3: $x = 6 \cdot 3 = 18$.
@@ -144,8 +144,8 @@ Primero aislamos el término fraccionario restando 4 a ambos lados: $x/3 = 10 - 
 La cuenta de luz tiene un cargo fijo de \$2.500 y cada kWh cuesta \$120. Si Benjamín pagó \$16.900, ¿cuántos kWh consumió?
 
 ### Opciones
-- [ ] A) 140 kWh <!-- feedback: Error en la resta inicial del cargo fijo de la cuenta. -->
-- [x] B) 120 kWh <!-- feedback: $(16.900 - 2.500) / 120 = 14.400 / 120 = 120$. -->
+- [ ] B) 140 kWh <!-- feedback: Error en la resta inicial del cargo fijo de la cuenta. -->
+- [x] A) 120 kWh <!-- feedback: $(16.900 - 2.500) / 120 = 14.400 / 120 = 120$. -->
 - [ ] C) 160 kWh <!-- feedback: Error aritmético significativo en la división final por el costo unitario. -->
 - [ ] D) 100 kWh <!-- feedback: Calculaste un valor aproximado incorrecto para el consumo. -->
 
@@ -163,8 +163,8 @@ Planteamos la ecuación $120x + 2.500 = 16.900$, donde $x$ son los kWh. Restamos
 ¿Cuánto mide la parte más corta?
 
 ### Opciones
-- [ ] A) $60 \text{ cm}$ <!-- feedback: Esa es la medida correspondiente a la parte más larga del corte. -->
-- [x] B) $40 \text{ cm}$ <!-- feedback: $x + (x + 20) = 100 \Rightarrow 2x = 80 \Rightarrow x = 40$. -->
+- [ ] B) $60 \text{ cm}$ <!-- feedback: Esa es la medida correspondiente a la parte más larga del corte. -->
+- [x] A) $40 \text{ cm}$ <!-- feedback: $x + (x + 20) = 100 \Rightarrow 2x = 80 \Rightarrow x = 40$. -->
 - [ ] C) $50 \text{ cm}$ <!-- feedback: Dividiste por 2 el total sin considerar la diferencia de longitud requerida. -->
 - [ ] D) $30 \text{ cm}$ <!-- feedback: Error al plantear algebraicamente la relación de suma de las partes. -->
 
@@ -182,8 +182,8 @@ Llamamos $x$ a la parte corta. La larga es $x + 20$. La suma de ambas es 100: $x
 Si la pelota de fútbol cuesta \$9.000, ¿cuál es el precio de una pelota de tenis?
 
 ### Opciones
-- [ ] A) \$3.000 <!-- feedback: Error al restar el valor conocido de la pelota de fútbol. -->
-- [x] B) \$2.000 <!-- feedback: $3x + 9.000 = 15.000 \Rightarrow 3x = 6.000 \Rightarrow x = 2.000$. -->
+- [ ] B) \$3.000 <!-- feedback: Error al restar el valor conocido de la pelota de fútbol. -->
+- [x] A) \$2.000 <!-- feedback: $3x + 9.000 = 15.000 \Rightarrow 3x = 6.000 \Rightarrow x = 2.000$. -->
 - [ ] C) \$1.500 <!-- feedback: Error en la división por el coeficiente 3 al final. -->
 - [ ] D) \$4.000 <!-- feedback: Calculaste incorrectamente el saldo restante de la operación. -->
 
@@ -221,8 +221,8 @@ Al intentar agrupar las $x$, restamos $2x$ a ambos lados: $2x - 2x + 5 = 2x - 2x
 
 ### Opciones
 - [ ] A) 30 <!-- feedback: Error al manejar el término fraccionario o al despejar la incógnita. -->
-- [x] B) 40 <!-- feedback: $\frac{3}{4}x + 10 = 40 \Rightarrow \frac{3}{4}x = 30 \Rightarrow x = 30 \cdot \frac{4}{3} = 40$. -->
-- [ ] C) 50 <!-- feedback: Error aritmético en el proceso de multiplicación fraccionaria final. -->
+- [x] C) 40 <!-- feedback: $\frac{3}{4}x + 10 = 40 \Rightarrow \frac{3}{4}x = 30 \Rightarrow x = 30 \cdot \frac{4}{3} = 40$. -->
+- [ ] B) 50 <!-- feedback: Error aritmético en el proceso de multiplicación fraccionaria final. -->
 - [ ] D) 60 <!-- feedback: Has multiplicado por un factor incorrecto durante el despeje. -->
 
 ### Explicacion Pedagogica
@@ -239,9 +239,9 @@ Planteamos la ecuación $\frac{3}{4}x + 10 = 40$. Restamos 10: $\frac{3}{4}x = 3
 Resuelva: $4(x - 2) - 3(x + 1) = 5$
 
 ### Opciones
-- [ ] A) $x = 8$ <!-- feedback: Error al distribuir el signo negativo en el segundo paréntesis del polinomio. -->
-- [ ] B) $x = 10$ <!-- feedback: Error en la suma final de todos los términos constantes. -->
-- [x] C) $x = 16$ <!-- feedback: $4x - 8 - 3x - 3 = 5 \Rightarrow x - 11 = 5 \Rightarrow x = 16$. -->
+- [ ] B) $x = 8$ <!-- feedback: Error al distribuir el signo negativo en el segundo paréntesis del polinomio. -->
+- [ ] C) $x = 10$ <!-- feedback: Error en la suma final de todos los términos constantes. -->
+- [x] A) $x = 16$ <!-- feedback: $4x - 8 - 3x - 3 = 5 \Rightarrow x - 11 = 5 \Rightarrow x = 16$. -->
 - [ ] D) $x = 12$ <!-- feedback: Error al agrupar adecuadamente los términos que contienen la variable $x$. -->
 
 ### Explicacion Pedagogica
@@ -258,9 +258,9 @@ Distribuimos: $4x - 8 - 3x - 3 = 5$. Agrupamos términos semejantes: $(4x - 3x) 
 ¿Cuál es el número mayor de los tres?
 
 ### Opciones
-- [ ] A) 23 <!-- feedback: Este resultado corresponde al número menor de la serie. -->
-- [ ] B) 24 <!-- feedback: Este es el número central de la serie de tres enteros. -->
-- [x] C) 25 <!-- feedback: $x + (x+1) + (x+2) = 72 \Rightarrow 3x + 3 = 72 \Rightarrow 3x = 69 \Rightarrow x=23$. Mayor: $23+2=25$. -->
+- [ ] B) 23 <!-- feedback: Este resultado corresponde al número menor de la serie. -->
+- [ ] C) 24 <!-- feedback: Este es el número central de la serie de tres enteros. -->
+- [x] A) 25 <!-- feedback: $x + (x+1) + (x+2) = 72 \Rightarrow 3x + 3 = 72 \Rightarrow 3x = 69 \Rightarrow x=23$. Mayor: $23+2=25$. -->
 - [ ] D) 26 <!-- feedback: Error al plantear o resolver la ecuación de suma de enteros consecutivos. -->
 
 ### Explicacion Pedagogica
@@ -278,8 +278,8 @@ Despeje $x$ en la ecuación $ax + b = c$.
 
 ### Opciones
 - [ ] A) $x = c - b - a$ <!-- feedback: El valor literal $a$ está multiplicando, no realizando una suma. -->
-- [x] B) $x = \frac{c - b}{a}$ <!-- feedback: Restamos $b$ de ambos lados y luego dividimos toda la expresión por $a$. -->
-- [ ] C) $x = \frac{c + b}{a}$ <!-- feedback: El signo del valor $b$ debe cambiar al trasponerlo al otro lado de la igualdad. -->
+- [x] C) $x = \frac{c - b}{a}$ <!-- feedback: Restamos $b$ de ambos lados y luego dividimos toda la expresión por $a$. -->
+- [ ] B) $x = \frac{c + b}{a}$ <!-- feedback: El signo del valor $b$ debe cambiar al trasponerlo al otro lado de la igualdad. -->
 - [ ] D) $x = a(c - b)$ <!-- feedback: Dividiste por el factor equivocado o realizaste una operación inversa incorrecta. -->
 
 ### Explicacion Pedagogica
@@ -297,9 +297,9 @@ Resuelva: $\frac{2}{x} = \frac{5}{x + 6}$
 
 ### Opciones
 - [ ] A) $x = 2$ <!-- feedback: Error al realizar la multiplicación cruzada de las fracciones. -->
-- [x] B) $x = 4$ <!-- feedback: $2(x + 6) = 5x \Rightarrow 2x + 12 = 5x \Rightarrow 12 = 3x \Rightarrow x = 4$. -->
-- [ ] C) $x = 6$ <!-- feedback: Error al agrupar los términos resultantes que contienen la variable $x$. -->
-- [ ] D) $x = 3$ <!-- feedback: Error en la división final del proceso de despeje. -->
+- [x] D) $x = 4$ <!-- feedback: $2(x + 6) = 5x \Rightarrow 2x + 12 = 5x \Rightarrow 12 = 3x \Rightarrow x = 4$. -->
+- [ ] B) $x = 6$ <!-- feedback: Error al agrupar los términos resultantes que contienen la variable $x$. -->
+- [ ] C) $x = 3$ <!-- feedback: Error en la división final del proceso de despeje. -->
 
 ### Explicacion Pedagogica
 Multiplicamos cruzado para eliminar los denominadores: $2(x + 6) = 5x$. Distribuimos: $2x + 12 = 5x$. Restamos $2x$ a ambos lados: $12 = 3x$. Finalmente, dividimos por 3 para obtener $x = 4$.
@@ -316,9 +316,9 @@ Multiplicamos cruzado para eliminar los denominadores: $2(x + 6) = 5x$. Distribu
 
 ### Opciones
 - [ ] A) 18 litros <!-- feedback: Error al plantear la igualdad algebraica del problema. -->
-- [x] B) 22,5 litros <!-- feedback: $x - 15 = x/3 \Rightarrow 3x - 45 = x \Rightarrow 2x = 45 \Rightarrow x = 22,5$. -->
-- [ ] C) 30 litros <!-- feedback: Error en el manejo de la fracción durante el despeje. -->
-- [ ] D) 45 litros <!-- feedback: Error aritmético básico en el proceso de despeje de la variable. -->
+- [x] D) 22,5 litros <!-- feedback: $x - 15 = x/3 \Rightarrow 3x - 45 = x \Rightarrow 2x = 45 \Rightarrow x = 22,5$. -->
+- [ ] B) 30 litros <!-- feedback: Error en el manejo de la fracción durante el despeje. -->
+- [ ] C) 45 litros <!-- feedback: Error aritmético básico en el proceso de despeje de la variable. -->
 
 ### Explicacion Pedagogica
 Sea $x$ la cantidad inicial. La ecuación es $x - 15 = x/3$. Multiplicamos todo por 3 para eliminar la fracción: $3x - 45 = x$. Restamos $x$ y sumamos 45: $2x = 45$. Dividimos por 2: $x = 22,5$ litros.
@@ -336,8 +336,8 @@ Sea $x$ la cantidad inicial. La ecuación es $x - 15 = x/3$. Multiplicamos todo 
 ### Opciones
 - [ ] A) Solo $x = 11$ <!-- feedback: El valor absoluto siempre genera dos posibles escenarios lógicos (positivo y negativo). -->
 - [ ] B) $x = 11$ y $x = 3$ <!-- feedback: Error en el cálculo de la segunda solución posible. -->
-- [x] C) $x = 11$ y $x = -3$ <!-- feedback: $x-4=7 \Rightarrow 11$; $x-4=-7 \Rightarrow -3$. -->
-- [ ] D) $x = -11$ y $x = 3$ <!-- feedback: Invertiste incorrectamente los signos de las soluciones finales. -->
+- [x] D) $x = 11$ y $x = -3$ <!-- feedback: $x-4=7 \Rightarrow 11$; $x-4=-7 \Rightarrow -3$. -->
+- [ ] C) $x = -11$ y $x = 3$ <!-- feedback: Invertiste incorrectamente los signos de las soluciones finales. -->
 
 ### Explicacion Pedagogica
 La expresión dentro del valor absoluto puede ser 7 o $-7$. Caso 1: $x - 4 = 7 \Rightarrow x = 11$. Caso 2: $x - 4 = -7 \Rightarrow x = -7 + 4 = -3$. Ambas son soluciones válidas.
@@ -354,8 +354,8 @@ Resuelva: $\frac{x}{x-2} = \frac{2}{x-2} + 5$
 
 ### Opciones
 - [ ] A) $x = 2$ <!-- feedback: El valor $x=2$ provoca que el denominador sea cero, por lo cual no puede ser solución. -->
-- [x] B) No tiene solución. <!-- feedback: El único valor que satisface algebraicamente es 2, pero invalida la ecuación original al anular el denominador. -->
-- [ ] C) $x = 0$ <!-- feedback: Al sustituir el valor 0 en la ecuación no se cumple la igualdad. -->
+- [x] C) No tiene solución. <!-- feedback: El único valor que satisface algebraicamente es 2, pero invalida la ecuación original al anular el denominador. -->
+- [ ] B) $x = 0$ <!-- feedback: Al sustituir el valor 0 en la ecuación no se cumple la igualdad. -->
 - [ ] D) Infinitas soluciones excepto $x = 2$. <!-- feedback: Error en la interpretación de la simplificación final de la ecuación. -->
 
 ### Explicacion Pedagogica
@@ -372,8 +372,8 @@ Multiplicamos todo por $(x-2)$: $x = 2 + 5(x-2)$. Expandimos: $x = 2 + 5x - 10 \
 ¿Cuál es la solución de $3^{x+1} = 27$?
 
 ### Opciones
-- [ ] A) $x = 3$ <!-- feedback: El valor $27$ es $3^3$, pero recuerda que la potencia es de la forma $x+1$. -->
-- [x] B) $x = 2$ <!-- feedback: $x+1 = 3 \Rightarrow x = 2$. -->
+- [ ] B) $x = 3$ <!-- feedback: El valor $27$ es $3^3$, pero recuerda que la potencia es de la forma $x+1$. -->
+- [x] A) $x = 2$ <!-- feedback: $x+1 = 3 \Rightarrow x = 2$. -->
 - [ ] C) $x = 1$ <!-- feedback: Error al realizar la igualdad de los exponentes de las potencias. -->
 - [ ] D) $x = 9$ <!-- feedback: Confundiste el valor de la base con el del exponente durante el cálculo. -->
 
@@ -392,9 +392,9 @@ Igualamos las bases: $3^{x+1} = 3^3$. Como las bases son iguales, los exponentes
 
 ### Opciones
 - [ ] A) Representa un punto en el origen. <!-- feedback: En un plano bidimensional, representa una línea completa, no un punto único aislado. -->
-- [x] B) Representa una recta vertical que pasa por el punto (4,0). <!-- feedback: Todos los puntos de la forma (4, y) cumplen con la igualdad de la ecuación. -->
-- [ ] C) Representa una recta horizontal. <!-- feedback: Las rectas de orientación horizontal tienen la estructura de la forma $y = k$. -->
-- [ ] D) Representa una recta que pasa por el origen con pendiente 4. <!-- feedback: Ese comportamiento correspondería a la función lineal $y = 4x$. -->
+- [x] D) Representa una recta vertical que pasa por el punto (4,0). <!-- feedback: Todos los puntos de la forma (4, y) cumplen con la igualdad de la ecuación. -->
+- [ ] B) Representa una recta horizontal. <!-- feedback: Las rectas de orientación horizontal tienen la estructura de la forma $y = k$. -->
+- [ ] C) Representa una recta que pasa por el origen con pendiente 4. <!-- feedback: Ese comportamiento correspondería a la función lineal $y = 4x$. -->
 
 ### Explicacion Pedagogica
 La ecuación $x = 4$ en un plano cartesiano indica que la coordenada $x$ es siempre 4, sin importar el valor de $y$. Esto define una línea recta vertical que corta al eje X en el valor 4.

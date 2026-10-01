@@ -56,11 +56,11 @@ The word 'accommodation' is used to describe a place where you live or stay on h
 What is the English word for: "A detailed plan or route of a journey."
 
 ### Opciones
-- [x] A) itinerary
+- [x] C) itinerary
   <!-- feedback: Correct! 'itinerary' matches the definition. -->
-- [ ] B) baggage
+- [ ] A) baggage
   <!-- feedback: Incorrect. Try again. -->
-- [ ] C) destination
+- [ ] B) destination
   <!-- feedback: Incorrect. Try again. -->
 - [ ] D) passport
   <!-- feedback: Incorrect. Try again. -->
@@ -102,13 +102,13 @@ The word 'destination' is used to describe the place to which someone or somethi
 What is the English word for: "Suitcases or other bags in which to pack personal belongings for traveling."
 
 ### Opciones
-- [x] A) luggage
+- [x] D) luggage
   <!-- feedback: Correct! 'luggage' matches the definition. -->
-- [ ] B) ticket
+- [ ] A) ticket
   <!-- feedback: Incorrect. Try again. -->
-- [ ] C) flight
+- [ ] B) flight
   <!-- feedback: Incorrect. Try again. -->
-- [ ] D) reservation
+- [ ] C) reservation
   <!-- feedback: Incorrect. Try again. -->
 
 ### Explicacion Pedagogica
@@ -125,13 +125,13 @@ The word 'luggage' is used to describe suitcases or other bags in which to pack 
 What is the English word for: "A traveler on a public or private conveyance other than the driver, pilot, or crew."
 
 ### Opciones
-- [x] A) passenger
+- [x] D) passenger
   <!-- feedback: Correct! 'passenger' matches the definition. -->
-- [ ] B) pedestrian
+- [ ] A) pedestrian
   <!-- feedback: Incorrect. Try again. -->
-- [ ] C) commuter
+- [ ] B) commuter
   <!-- feedback: Incorrect. Try again. -->
-- [ ] D) tourist
+- [ ] C) tourist
   <!-- feedback: Incorrect. Try again. -->
 
 ### Explicacion Pedagogica
@@ -148,9 +148,9 @@ The word 'passenger' is used to describe a traveler on a public or private conve
 What is the English word for: "The place at a port, airport, or frontier where officials check incoming goods, travelers, or luggage."
 
 ### Opciones
-- [x] A) customs
+- [x] B) customs
   <!-- feedback: Correct! 'customs' matches the definition. -->
-- [ ] B) security
+- [ ] A) security
   <!-- feedback: Incorrect. Try again. -->
 - [ ] C) terminal
   <!-- feedback: Incorrect. Try again. -->
@@ -171,9 +171,9 @@ The word 'customs' is used to describe the place at a port, airport, or frontier
 What is the English word for: "A document provided by an airline during check-in, giving a passenger permission to board the airplane."
 
 ### Opciones
-- [x] A) boarding pass
+- [x] B) boarding pass
   <!-- feedback: Correct! 'boarding pass' matches the definition. -->
-- [ ] B) visa
+- [ ] A) visa
   <!-- feedback: Incorrect. Try again. -->
 - [ ] C) receipt
   <!-- feedback: Incorrect. Try again. -->
@@ -194,11 +194,11 @@ The word 'boarding pass' is used to describe a document provided by an airline d
 What is the English word for: "The activity of visiting places of interest in a particular location."
 
 ### Opciones
-- [x] A) sightseeing
+- [x] C) sightseeing
   <!-- feedback: Correct! 'sightseeing' matches the definition. -->
-- [ ] B) shopping
+- [ ] A) shopping
   <!-- feedback: Incorrect. Try again. -->
-- [ ] C) hiking
+- [ ] B) hiking
   <!-- feedback: Incorrect. Try again. -->
 - [ ] D) camping
   <!-- feedback: Incorrect. Try again. -->
@@ -263,9 +263,9 @@ The word 'delay' is used to describe a period of time by which something is late
 What is the English word for: "The act of reporting one's presence and registering, typically at an airport or hotel."
 
 ### Opciones
-- [x] A) check-in
+- [x] B) check-in
   <!-- feedback: Correct! 'check-in' matches the definition. -->
-- [ ] B) check-out
+- [ ] A) check-out
   <!-- feedback: Incorrect. Try again. -->
 - [ ] C) booking
   <!-- feedback: Incorrect. Try again. -->
@@ -286,13 +286,13 @@ The word 'check-in' is used to describe the act of reporting one's presence and 
 What is the English word for: "A period of rest or waiting before a further stage in a journey."
 
 ### Opciones
-- [x] A) layover
+- [x] D) layover
   <!-- feedback: Correct! 'layover' matches the definition. -->
-- [ ] B) stopover
+- [ ] A) stopover
   <!-- feedback: Incorrect. Try again. -->
-- [ ] C) transfer
+- [ ] B) transfer
   <!-- feedback: Incorrect. Try again. -->
-- [ ] D) transit
+- [ ] C) transit
   <!-- feedback: Incorrect. Try again. -->
 
 ### Explicacion Pedagogica
@@ -309,13 +309,13 @@ The word 'layover' is used to describe a period of rest or waiting before a furt
 What is the English word for: "A system of money in general use in a particular country."
 
 ### Opciones
-- [x] A) currency
+- [x] D) currency
   <!-- feedback: Correct! 'currency' matches the definition. -->
-- [ ] B) coin
+- [ ] A) coin
   <!-- feedback: Incorrect. Try again. -->
-- [ ] C) banknote
+- [ ] B) banknote
   <!-- feedback: Incorrect. Try again. -->
-- [ ] D) cash
+- [ ] C) cash
   <!-- feedback: Incorrect. Try again. -->
 
 ### Explicacion Pedagogica
@@ -332,9 +332,9 @@ The word 'currency' is used to describe a system of money in general use in a pa
 What is the English word for: "A book of information about a place designed for the use of visitors or tourists."
 
 ### Opciones
-- [x] A) guidebook
+- [x] B) guidebook
   <!-- feedback: Correct! 'guidebook' matches the definition. -->
-- [ ] B) map
+- [ ] A) map
   <!-- feedback: Incorrect. Try again. -->
 - [ ] C) dictionary
   <!-- feedback: Incorrect. Try again. -->
@@ -401,11 +401,11 @@ The word 'overseas' is used to describe in or to a foreign country, especially o
 What is the English word for: "An estimate of income and expenditure for a set period of time."
 
 ### Opciones
-- [x] A) budget
+- [x] C) budget
   <!-- feedback: Correct! 'budget' matches the definition. -->
-- [ ] B) expense
+- [ ] A) expense
   <!-- feedback: Incorrect. Try again. -->
-- [ ] C) cost
+- [ ] B) cost
   <!-- feedback: Incorrect. Try again. -->
 - [ ] D) price
   <!-- feedback: Incorrect. Try again. -->
@@ -447,9 +447,9 @@ The word 'insurance' is used to describe a practice or arrangement by which a co
 What is the English word for: "Treatment with a vaccine to produce immunity against a disease."
 
 ### Opciones
-- [x] A) vaccination
+- [x] B) vaccination
   <!-- feedback: Correct! 'vaccination' matches the definition. -->
-- [ ] B) medication
+- [ ] A) medication
   <!-- feedback: Incorrect. Try again. -->
 - [ ] C) prescription
   <!-- feedback: Incorrect. Try again. -->

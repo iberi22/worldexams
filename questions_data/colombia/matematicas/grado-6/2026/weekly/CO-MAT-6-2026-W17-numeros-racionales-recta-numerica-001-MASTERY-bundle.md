@@ -29,9 +29,9 @@ Este bundle trabaja la identificación, comparación y ubicación de números ra
 ### Enunciado
 ¿Cuál de los siguientes números está ubicado entre 0 y 1 en la recta numérica?
 ### Opciones
-- [x] A) 1/2
+- [x] B) 1/2
   <!-- feedback: Explica por qué es correcta: medio es mayor que 0 y menor que 1, por eso se ubica entre ambos. -->
-- [ ] B) 2
+- [ ] A) 2
   <!-- feedback: Explica el error conceptual: 2 es mayor que 1, queda a la derecha del 1, no entre 0 y 1. -->
 - [ ] C) -1
   <!-- feedback: Explica el error conceptual: -1 es menor que 0, queda a la izquierda del 0. -->
@@ -48,13 +48,13 @@ Los números entre 0 y 1 son fracciones o decimales positivos menores que la uni
 ### Enunciado
 ¿Cuál de las dos fracciones representa el mayor peso?
 ### Opciones
-- [x] A) 3/4 de libra
+- [x] D) 3/4 de libra
   <!-- feedback: Explica por qué es correcta: 3/4 = 0.75 es mayor que 2/3 ≈ 0.67 al comparar decimales o fracciones equivalentes. -->
-- [ ] B) 2/3 de libra
+- [ ] A) 2/3 de libra
   <!-- feedback: Explica el error conceptual: 2/3 ≈ 0.67 es menor que 0.75, por eso pesa menos. -->
-- [ ] C) Pesan exactamente lo mismo
+- [ ] B) Pesan exactamente lo mismo
   <!-- feedback: Explica el error conceptual: solo serían iguales si las fracciones fueran equivalentes, y 3/4 no equivale a 2/3. -->
-- [ ] D) No se pueden comparar fracciones con distinto denominador
+- [ ] C) No se pueden comparar fracciones con distinto denominador
   <!-- feedback: Explica el error conceptual: sí se pueden comparar usando fracciones equivalentes (9/12 y 8/12) o decimales. -->
 ### Explicacion Pedagogica
 Para comparar fracciones con distinto denominador se convierten a un denominador común (3/4 = 9/12 y 2/3 = 8/12) o a decimal. La fracción con mayor numerador equivalente es la mayor.
@@ -86,11 +86,11 @@ Sumar fracciones heterogéneas exige homogenizar denominadores: 1/2 = 2/4, luego
 ### Enunciado
 ¿Cuántos grados aumentó la temperatura entre el amanecer y el mediodía?
 ### Opciones
-- [x] A) 6.0 °C
+- [x] C) 6.0 °C
   <!-- feedback: Explica por qué es correcta: 3.5 - (-2.5) = 3.5 + 2.5 = 6.0 grados de aumento. -->
-- [ ] B) 1.0 °C
+- [ ] A) 1.0 °C
   <!-- feedback: Explica el error conceptual: resta 3.5 - 2.5 ignorando que la temperatura inicial era negativa. -->
-- [ ] C) 5.0 °C
+- [ ] B) 5.0 °C
   <!-- feedback: Explica el error conceptual: suma 3.5 + 2.5 pero comete un error aritmético en el total. -->
 - [ ] D) -6.0 °C
   <!-- feedback: Explica el error conceptual: invierte el orden de la resta y obtiene un descenso en vez de un aumento. -->
@@ -105,13 +105,13 @@ La variación se calcula como valor final menos valor inicial: 3.5 - (-2.5). Res
 ### Enunciado
 ¿A qué número mixto equivale la distancia total recorrida?
 ### Opciones
-- [x] A) 4 1/4 km
+- [x] D) 4 1/4 km
   <!-- feedback: Explica por qué es correcta: 2.75 + 1.5 = 4.25 = 4 + 1/4, es decir, 4 1/4 km. -->
-- [ ] B) 3 3/4 km
+- [ ] A) 3 3/4 km
   <!-- feedback: Explica el error conceptual: suma solo las partes decimales y conserva mal la parte entera. -->
-- [ ] C) 4 1/2 km
+- [ ] B) 4 1/2 km
   <!-- feedback: Explica el error conceptual: convierte 0.25 en 1/2 en lugar de 1/4 al pasar el decimal a fracción. -->
-- [ ] D) 4 3/4 km
+- [ ] C) 4 3/4 km
   <!-- feedback: Explica el error conceptual: suma 2.75 + 2.0 en vez de 2.75 + 1.5, agregando medio kilómetro de más. -->
 ### Explicacion Pedagogica
 Primero se suma en decimal (4.25) y luego se convierte la parte decimal: 0.25 = 25/100 = 1/4. Así, 4.25 equivale al número mixto 4 1/4.
@@ -124,11 +124,11 @@ Primero se suma en decimal (4.25) y luego se convierte la parte decimal: 0.25 = 
 ### Enunciado
 ¿Cuál de estos valores está estrictamente entre 1/3 y 1/2 y por qué?
 ### Opciones
-- [x] A) 5/12, porque 4/12 < 5/12 < 6/12
+- [x] C) 5/12, porque 4/12 < 5/12 < 6/12
   <!-- feedback: Explica por qué es correcta: 1/3 = 4/12 y 1/2 = 6/12, y 5/12 queda justo entre ambos. -->
-- [ ] B) 1/4, porque tiene denominador mayor
+- [ ] A) 1/4, porque tiene denominador mayor
   <!-- feedback: Explica el error conceptual: un denominador mayor no garantiza un valor mayor; 1/4 = 0.25 es menor que 1/3. -->
-- [ ] C) 2/3, porque está después de 1/2
+- [ ] B) 2/3, porque está después de 1/2
   <!-- feedback: Explica el error conceptual: 2/3 ≈ 0.67 es mayor que 1/2, queda fuera del intervalo por la derecha. -->
 - [ ] D) 1/5, porque toda fracción propia sirve
   <!-- feedback: Explica el error conceptual: no toda fracción propia está en ese intervalo; 1/5 = 0.2 es menor que 1/3. -->
@@ -143,11 +143,11 @@ Entre dos racionales siempre hay infinitos racionales (densidad). Con denominado
 ### Enunciado
 ¿Cuál es el orden correcto de menor a mayor?
 ### Opciones
-- [x] A) 0.55 < 0.6 = 3/5
+- [x] C) 0.55 < 0.6 = 3/5
   <!-- feedback: Explica por qué es correcta: 3/5 = 0.6, y 0.55 es menor que 0.60 al comparar cifra por cifra. -->
-- [ ] B) 0.6 < 3/5 < 0.55
+- [ ] A) 0.6 < 3/5 < 0.55
   <!-- feedback: Explica el error conceptual: 0.6 y 3/5 son iguales, no puede ir uno antes que el otro. -->
-- [ ] C) 3/5 < 0.55 < 0.6
+- [ ] B) 3/5 < 0.55 < 0.6
   <!-- feedback: Explica el error conceptual: 3/5 = 0.60 es mayor que 0.55, no menor. -->
 - [ ] D) 0.55 < 3/5 < 0.6
   <!-- feedback: Explica el error conceptual: separa 3/5 y 0.6 como si fueran distintos, pero ambos valen 0.60. -->
@@ -162,11 +162,11 @@ Convertir todo a decimal revela igualdades ocultas: 3/5 = 0.60. Luego se compara
 ### Enunciado
 Si usó 10 litros en la mañana, ¿qué fracción del agua total representa lo que le queda?
 ### Opciones
-- [x] A) 1/6 del agua total
+- [x] C) 1/6 del agua total
   <!-- feedback: Explica por qué es correcta: 2 de 12 litros es 2/12 = 1/6 del total. -->
-- [ ] B) 1/5 del agua total
+- [ ] A) 1/5 del agua total
   <!-- feedback: Explica el error conceptual: compara los 2 litros que quedan con los 10 usados en vez de con el total de 12. -->
-- [ ] C) 5/6 del agua total
+- [ ] B) 5/6 del agua total
   <!-- feedback: Explica el error conceptual: esa es la fracción usada en la mañana, no la que queda. -->
 - [ ] D) 1/12 del agua total
   <!-- feedback: Explica el error conceptual: usa 1 litro como referencia en lugar de los 2 litros restantes. -->

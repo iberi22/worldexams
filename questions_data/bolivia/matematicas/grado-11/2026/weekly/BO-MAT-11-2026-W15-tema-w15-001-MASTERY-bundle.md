@@ -34,11 +34,11 @@ calibration: {difficulty_band: "D3-D10", expected_success: 0.65}
 ¿Cuál es el valor del límite?
 
 ### Opciones
-- [x] A) Límite = 13
+- [x] C) Límite = 13
   <!-- feedback: ¡Correcto! Sustitución directa: 2(3²) - 5 = 2(9) - 5 = 18 - 5 = 13. -->
-- [ ] B) Límite = 11
+- [ ] A) Límite = 11
   <!-- feedback: Incorrecto. Elevaste 3² como 6 en lugar de 9. -->
-- [ ] C) Límite = 18
+- [ ] B) Límite = 18
   <!-- feedback: Incorrecto. Olvidaste restar la constante 5. -->
 - [ ] D) Límite = 7
   <!-- feedback: Incorrecto. Erraste en el producto 2 × 9. -->
@@ -58,11 +58,11 @@ Por propiedad de límites polinómicos, aplicamos sustitución directa: lim (x �
 ¿Cuál es el valor del límite evitando la indeterminación 0/0?
 
 ### Opciones
-- [x] A) Límite = 4
+- [x] C) Límite = 4
   <!-- feedback: ¡Correcto! Factorizando (x - 2)(x + 2)/(x - 2) = x + 2. Evaluando en x = 2: 2 + 2 = 4. -->
-- [ ] B) Límite = 0
+- [ ] A) Límite = 0
   <!-- feedback: Incorrecto. Caíste en la indeterminación 0/0 sin cancelar el factor común. -->
-- [ ] C) Límite = 2
+- [ ] B) Límite = 2
   <!-- feedback: Incorrecto. Evaluaste solo un término del binomio simplificado. -->
 - [ ] D) Límite = No existe
   <!-- feedback: Incorrecto. La indeterminación 0/0 es removable mediante factorización. -->
@@ -82,11 +82,11 @@ x² - 4 = (x - 2)(x + 2). Cancelando (x - 2): lim (x → 2) (x + 2) = 2 + 2 = 4.
 ¿Cuál es la expresión de la derivada f'(x)?
 
 ### Opciones
-- [x] A) f'(x) = 20x³ - 6x + 7
+- [x] C) f'(x) = 20x³ - 6x + 7
   <!-- feedback: ¡Correcto! Aplicando d/dx(xⁿ) = n·xⁿ⁻¹: 5(4x³) - 3(2x) + 7 = 20x³ - 6x + 7. -->
-- [ ] B) f'(x) = 20x³ - 6x
+- [ ] A) f'(x) = 20x³ - 6x
   <!-- feedback: Incorrecto. Olvidaste derivar el término lineal 7x. -->
-- [ ] C) f'(x) = 5x³ - 3x + 7
+- [ ] B) f'(x) = 5x³ - 3x + 7
   <!-- feedback: Incorrecto. No multiplicaste los coeficientes por los exponentes. -->
 - [ ] D) f'(x) = 20x⁴ - 6x² + 7
   <!-- feedback: Incorrecto. No le restaste 1 a los exponentes al derivar. -->
@@ -106,13 +106,13 @@ Regla de la potencia: d/dx(xⁿ) = n xⁿ⁻¹. f'(x) = 5(4x³) - 3(2x¹) + 7(1)
 ¿Cuál es el valor de la pendiente m?
 
 ### Opciones
-- [x] A) m = 6
+- [x] D) m = 6
   <!-- feedback: ¡Correcto! Derivada y' = 2x. Evaluando en x = 3: m = 2(3) = 6. -->
-- [ ] B) m = 9
+- [ ] A) m = 9
   <!-- feedback: Incorrecto. Evaluaste la función original y(3) = 9 en lugar de la derivada. -->
-- [ ] C) m = 3
+- [ ] B) m = 3
   <!-- feedback: Incorrecto. Tomaste la abscisa directamente. -->
-- [ ] D) m = 2
+- [ ] C) m = 2
   <!-- feedback: Incorrecto. No evaluaste x = 3 en la derivada y' = 2x. -->
 
 ### Explicacion Pedagogica
@@ -154,13 +154,13 @@ Dividiendo numerador y denominador por x²: lim (x → ∞) (4 + 1/x²) / (2 - 3
 ¿Cuál es la expresión de f'(x)?
 
 ### Opciones
-- [x] A) f'(x) = 6(2x + 1)²
+- [x] D) f'(x) = 6(2x + 1)²
   <!-- feedback: ¡Correcto! f'(x) = 3(2x + 1)² · d/dx(2x + 1) = 3(2x + 1)² · 2 = 6(2x + 1)². -->
-- [ ] B) f'(x) = 3(2x + 1)²
+- [ ] A) f'(x) = 3(2x + 1)²
   <!-- feedback: Incorrecto. Olvidaste multiplicar por la derivada interna d/dx(2x + 1) = 2. -->
-- [ ] C) f'(x) = 12(2x + 1)
+- [ ] B) f'(x) = 12(2x + 1)
   <!-- feedback: Incorrecto. Bajaste mal la potencia del binomio. -->
-- [ ] D) f'(x) = 6x²
+- [ ] C) f'(x) = 6x²
   <!-- feedback: Incorrecto. Derivaste solo el término 2x elevado al cubo. -->
 
 ### Explicacion Pedagogica
@@ -202,9 +202,9 @@ Puntos críticos ocurren cuando f'(x) = 0: f'(x) = 3x² - 3 = 0 ⇒ 3(x² - 1) =
 ¿Cuál es la expresión de f''(x)?
 
 ### Opciones
-- [x] A) f''(x) = 12x² - 12x
+- [x] B) f''(x) = 12x² - 12x
   <!-- feedback: ¡Correcto! f'(x) = 4x³ - 6x². Derivando nuevamente: f''(x) = 12x² - 12x. -->
-- [ ] B) f''(x) = 4x³ - 6x²
+- [ ] A) f''(x) = 4x³ - 6x²
   <!-- feedback: Incorrecto. Esta es la primera derivada f'(x). -->
 - [ ] C) f''(x) = 24x - 12
   <!-- feedback: Incorrecto. Corresponde a la tercera derivada f'''(x). -->
@@ -226,11 +226,11 @@ Primera derivada: f'(x) = 4x³ - 6x². Segunda derivada: f''(x) = d/dx(4x³ - 6x
 ¿Cuál es el valor exacto del límite?
 
 ### Opciones
-- [x] A) Límite = 1
+- [x] C) Límite = 1
   <!-- feedback: ¡Correcto! Es el límite trigonométrico fundamental conocido por teorema de compresión: lim (x → 0) sin(x)/x = 1. -->
-- [ ] B) Límite = 0
+- [ ] A) Límite = 0
   <!-- feedback: Incorrecto. Evaluar sin(0)/0 genera indeterminación 0/0, pero su límite es 1. -->
-- [ ] C) Límite = ∞
+- [ ] B) Límite = ∞
   <!-- feedback: Incorrecto. El límite no diverge a infinito. -->
 - [ ] D) Límite = Indefinido
   <!-- feedback: Incorrecto. El límite existe y es igual a 1. -->
@@ -274,9 +274,9 @@ Regla del producto d/dx(u·v) = u'v + uv'. Con u = x² (u' = 2x) y v = sin(x) (v
 ¿Cuál es la expresión de f'(x)?
 
 ### Opciones
-- [x] A) f'(x) = 1 / (x + 1)²
+- [x] B) f'(x) = 1 / (x + 1)²
   <!-- feedback: ¡Correcto! Regla del cociente: [1(x+1) - x(1)] / (x+1)² = (x + 1 - x) / (x+1)² = 1 / (x+1)². -->
-- [ ] B) f'(x) = (2x + 1) / (x + 1)²
+- [ ] A) f'(x) = (2x + 1) / (x + 1)²
   <!-- feedback: Incorrecto. Sumaste los términos del numerador en lugar de restarlos. -->
 - [ ] C) f'(x) = 1
   <!-- feedback: Incorrecto. Derivaste numerador y denominador por separado sin usar la regla del cociente. -->
@@ -298,9 +298,9 @@ Regla del cociente: (u/v)' = (u'v - uv') / v². Aquí u = x, v = x + 1. f'(x) = 
 ¿Es la función f(x) = |x| derivable en x = 0?
 
 ### Opciones
-- [x] A) No es derivable en x = 0
+- [x] B) No es derivable en x = 0
   <!-- feedback: ¡Correcto! Las derivadas laterales difieren: por la izquierda es -1 y por la derecha es +1. -->
-- [ ] B) Sí, es derivable y f'(0) = 0
+- [ ] A) Sí, es derivable y f'(0) = 0
   <!-- feedback: Incorrecto. Las pendientes de las tangentes a ambos lados no coinciden. -->
 - [ ] C) Sí, es derivable y f'(0) = 1
   <!-- feedback: Incorrecto. Solo consideraste la rama derecha x > 0. -->
@@ -418,9 +418,9 @@ La velocidad es la derivada de la posición: v(t) = s'(t) = 6t + 2. Evaluando en
 ¿Cuál es la expresión de f'(x)?
 
 ### Opciones
-- [x] A) f'(x) = 3e^(3x)
+- [x] B) f'(x) = 3e^(3x)
   <!-- feedback: ¡Correcto! Por regla de la cadena d/dx(e^u) = u' e^u ⇒ d/dx(3x) e^(3x) = 3e^(3x). -->
-- [ ] B) f'(x) = e^(3x)
+- [ ] A) f'(x) = e^(3x)
   <!-- feedback: Incorrecto. Olvidaste multiplicar por la derivada interna u' = 3. -->
 - [ ] C) f'(x) = 3x e^(3x-1)
   <!-- feedback: Incorrecto. Aplicaste la regla de la potencia en lugar de la exponencial. -->
@@ -442,9 +442,9 @@ La derivada de la función exponencial e^u es u' e^u. Con u = 3x, u' = 3. Así f
 ¿Cuál es la expresión de f'(x)?
 
 ### Opciones
-- [x] A) f'(x) = 1/x
+- [x] B) f'(x) = 1/x
   <!-- feedback: ¡Correcto! La derivada fundamental del logaritmo natural ln(x) es 1/x. -->
-- [ ] B) f'(x) = e^x
+- [ ] A) f'(x) = e^x
   <!-- feedback: Incorrecto. Confundiste la derivada del logaritmo con la función exponencial. -->
 - [ ] C) f'(x) = 1
   <!-- feedback: Incorrecto. Asumiste que la derivada era una constante 1. -->
@@ -490,11 +490,11 @@ El límite trigonométrico notable lim (x → 0) (1 - cos(x))/x es igual a 0.
 Calcula la función de aceleración a(t).
 
 ### Opciones
-- [x] A) a(t) = 12t² - 5
+- [x] C) a(t) = 12t² - 5
   <!-- feedback: ¡Correcto! La aceleración es la derivada de la velocidad: a(t) = v'(t) = 12t² - 5. -->
-- [ ] B) a(t) = 12t³ - 5
+- [ ] A) a(t) = 12t³ - 5
   <!-- feedback: Incorrecto. No le restaste 1 al exponente de t³. -->
-- [ ] C) a(t) = 4t² - 5
+- [ ] B) a(t) = 4t² - 5
   <!-- feedback: Incorrecto. No multiplicaste por el exponente 3. -->
 - [ ] D) a(t) = 12t²
   <!-- feedback: Incorrecto. Olvidaste derivar el término lineal -5t. -->

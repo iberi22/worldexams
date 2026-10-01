@@ -34,9 +34,9 @@ creador: "Jules-Agent"
 
 ### Opciones
 - [ ] A) Barbarismo. <!-- feedback: Incorrecto. El barbarismo consiste en escribir o pronunciar mal las palabras o usar extranjerismos innecesarios. -->
-- [x] B) Pleonasmo o redundancia. <!-- feedback: ¡Correcto! El pleonasmo consiste en añadir términos que no son necesarios para que la frase tenga sentido, pues la idea ya está expresada. -->
-- [ ] C) Anfibología. <!-- feedback: Incorrecto. La anfibología es la falta de claridad que permite más de una interpretación (ambigüedad). -->
-- [ ] D) Arcaísmo. <!-- feedback: Incorrecto. El arcaísmo es el uso de palabras antiguas que ya han caído en desuso. -->
+- [x] D) Pleonasmo o redundancia. <!-- feedback: ¡Correcto! El pleonasmo consiste en añadir términos que no son necesarios para que la frase tenga sentido, pues la idea ya está expresada. -->
+- [ ] B) Anfibología. <!-- feedback: Incorrecto. La anfibología es la falta de claridad que permite más de una interpretación (ambigüedad). -->
+- [ ] C) Arcaísmo. <!-- feedback: Incorrecto. El arcaísmo es el uso de palabras antiguas que ya han caído en desuso. -->
 
 ### Explicacion Pedagogica
 La redundancia ocurre cuando se repite una idea innecesariamente. En "subir arriba", el verbo subir ya implica un movimiento hacia un nivel superior.
@@ -53,10 +53,10 @@ La redundancia ocurre cuando se repite una idea innecesariamente. En "subir arri
 ¿Cuál es el nombre del vicio del lenguaje que consiste en utilizar repetidamente las mismas palabras o muletillas, como decir "ehh", "bueno", "esteee" al hablar?
 
 ### Opciones
-- [x] A) Muletillas o vicios de dicción. <!-- feedback: ¡Correcto! Son palabras o sonidos que se repiten por hábito o para llenar pausas mientras se piensa qué decir. -->
-- [ ] B) Neologismos. <!-- feedback: Incorrecto. Los neologismos son palabras nuevas o de reciente creación en una lengua. -->
-- [ ] C) Solecismos. <!-- feedback: Incorrecto. El solecismo es un error en la estructura sintáctica de la oración. -->
-- [ ] D) Metátesis. <!-- feedback: Incorrecto. La metátesis es el cambio de lugar de algún sonido dentro de una palabra (ej. "Grabiel" por "Gabriel"). -->
+- [x] D) Muletillas o vicios de dicción. <!-- feedback: ¡Correcto! Son palabras o sonidos que se repiten por hábito o para llenar pausas mientras se piensa qué decir. -->
+- [ ] A) Neologismos. <!-- feedback: Incorrecto. Los neologismos son palabras nuevas o de reciente creación en una lengua. -->
+- [ ] B) Solecismos. <!-- feedback: Incorrecto. El solecismo es un error en la estructura sintáctica de la oración. -->
+- [ ] C) Metátesis. <!-- feedback: Incorrecto. La metátesis es el cambio de lugar de algún sonido dentro de una palabra (ej. "Grabiel" por "Gabriel"). -->
 
 ### Explicacion Pedagogica
 Las muletillas son apoyos verbales que demuestran inseguridad o falta de vocabulario, restándole fluidez y elegancia a la comunicación oral.
@@ -74,8 +74,8 @@ Las muletillas son apoyos verbales que demuestran inseguridad o falta de vocabul
 
 ### Opciones
 - [ ] A) Me duele mucho la cabeza por el sol de Cartagena. <!-- feedback: Incorrecto. Esta oración es gramaticalmente correcta. -->
-- [ ] B) Compré una revista y un libro muy interesantes. <!-- feedback: Incorrecto. La concordancia es correcta: plural masculino para referirse a ambos objetos. -->
-- [x] C) Hubieron muchas personas en el concierto del Parque de la Leyenda Vallenata. <!-- feedback: ¡Correcto! El verbo "haber" cuando indica existencia es impersonal y debe ir en singular: "Hubo muchas personas". -->
+- [ ] C) Compré una revista y un libro muy interesantes. <!-- feedback: Incorrecto. La concordancia es correcta: plural masculino para referirse a ambos objetos. -->
+- [x] B) Hubieron muchas personas en el concierto del Parque de la Leyenda Vallenata. <!-- feedback: ¡Correcto! El verbo "haber" cuando indica existencia es impersonal y debe ir en singular: "Hubo muchas personas". -->
 - [ ] D) Mañana iré a visitar a mis abuelos a la finca. <!-- feedback: Incorrecto. La estructura y concordancia son adecuadas. -->
 
 ### Explicacion Pedagogica
@@ -93,8 +93,8 @@ El solecismo ocurre cuando se violan las normas de la sintaxis o la concordancia
 Identifica la oración que contiene un **barbarismo** por uso incorrecto de una palabra:
 
 ### Opciones
-- [ ] A) La atmósfera estaba cargada de humedad. <!-- feedback: Incorrecto. La palabra "atmósfera" está correctamente escrita y empleada. -->
-- [x] B) Ojalá que el profesor nos **haiga** dejado poca tarea para el fin de semana. <!-- feedback: ¡Correcto! "Haiga" es una forma incorrecta del verbo haber; la forma correcta es "haya". -->
+- [ ] B) La atmósfera estaba cargada de humedad. <!-- feedback: Incorrecto. La palabra "atmósfera" está correctamente escrita y empleada. -->
+- [x] A) Ojalá que el profesor nos **haiga** dejado poca tarea para el fin de semana. <!-- feedback: ¡Correcto! "Haiga" es una forma incorrecta del verbo haber; la forma correcta es "haya". -->
 - [ ] C) El edificio fue construido con materiales sismorresistentes. <!-- feedback: Incorrecto. El término es técnico y está bien formado. -->
 - [ ] D) Fuimos al restaurante y pedimos una bandeja paisa. <!-- feedback: Incorrecto. La redacción es clara y correcta. -->
 
@@ -114,9 +114,9 @@ Los barbarismos ortográficos o fonéticos ocurren cuando se deforman las palabr
 
 ### Opciones
 - [ ] A) No se sabe si Juan es el dueño del perro. <!-- feedback: Incorrecto. La relación de pertenencia no es el foco de la ambigüedad aquí. -->
-- [x] B) No queda claro si Juan estaba paseando o si nosotros estábamos paseando cuando lo vimos. <!-- feedback: ¡Correcto! El gerundio "paseando" puede referirse tanto al sujeto de la oración principal como al objeto directo. -->
-- [ ] C) No se sabe qué raza de perro tiene Juan. <!-- feedback: Incorrecto. Este es un detalle de contenido, no un error de estructura gramatical. -->
-- [ ] D) No se especifica en qué ciudad ocurrió el encuentro. <!-- feedback: Incorrecto. La falta de información geográfica no es un vicio lingüístico de ambigüedad. -->
+- [x] D) No queda claro si Juan estaba paseando o si nosotros estábamos paseando cuando lo vimos. <!-- feedback: ¡Correcto! El gerundio "paseando" puede referirse tanto al sujeto de la oración principal como al objeto directo. -->
+- [ ] B) No se sabe qué raza de perro tiene Juan. <!-- feedback: Incorrecto. Este es un detalle de contenido, no un error de estructura gramatical. -->
+- [ ] C) No se especifica en qué ciudad ocurrió el encuentro. <!-- feedback: Incorrecto. La falta de información geográfica no es un vicio lingüístico de ambigüedad. -->
 
 ### Explicacion Pedagogica
 La anfibología surge por una mala organización de los elementos de la frase. Para evitarla, se debe reescribir la oración, por ejemplo: "Mientras paseábamos, vimos a Juan con su perro".
@@ -133,8 +133,8 @@ La anfibología surge por una mala organización de los elementos de la frase. P
 ¿Cuál de las siguientes expresiones presenta un vicio de **cacofonía**?
 
 ### Opciones
-- [ ] A) El agua del río Magdalena está bajando de nivel. <!-- feedback: Incorrecto. No hay repetición molesta de sonidos. -->
-- [x] B) Tómate el té y te sentirás mejor de salud. <!-- feedback: ¡Correcto! La repetición de la sílaba "te" tres veces seguidas genera un efecto sonoro desagradable. -->
+- [ ] B) El agua del río Magdalena está bajando de nivel. <!-- feedback: Incorrecto. No hay repetición molesta de sonidos. -->
+- [x] A) Tómate el té y te sentirás mejor de salud. <!-- feedback: ¡Correcto! La repetición de la sílaba "te" tres veces seguidas genera un efecto sonoro desagradable. -->
 - [ ] C) Camina despacio por el borde de la piscina. <!-- feedback: Incorrecto. Los sonidos están equilibrados. -->
 - [ ] D) El sol brilla intensamente sobre la cordillera. <!-- feedback: Incorrecto. Es una frase armónica. -->
 
@@ -174,8 +174,8 @@ Identifica la oración que presenta un caso de **dequeísmo**:
 
 ### Opciones
 - [ ] A) Estoy seguro de que ganaremos el campeonato de patinaje. <!-- feedback: Incorrecto. Aquí el verbo "estar seguro" exige la preposición "de". -->
-- [x] B) Ella me dijo de que vendría a mi fiesta de cumpleaños. <!-- feedback: ¡Correcto! El verbo "decir" no exige la preposición "de". Lo correcto es: "Ella me dijo que vendría". -->
-- [ ] C) Pienso que deberíamos estudiar más para el examen de inglés. <!-- feedback: Incorrecto. Es correcto; el verbo "pensar" no lleva "de". -->
+- [x] C) Ella me dijo de que vendría a mi fiesta de cumpleaños. <!-- feedback: ¡Correcto! El verbo "decir" no exige la preposición "de". Lo correcto es: "Ella me dijo que vendría". -->
+- [ ] B) Pienso que deberíamos estudiar más para el examen de inglés. <!-- feedback: Incorrecto. Es correcto; el verbo "pensar" no lleva "de". -->
 - [ ] D) Me alegro de que hayas regresado sano y salvo de tu viaje. <!-- feedback: Incorrecto. El verbo "alegrarse" exige la preposición "de". -->
 
 ### Explicacion Pedagogica
@@ -196,9 +196,9 @@ Lee el siguiente fragmento de una noticia escolar: "Ayer hubieron muchos inscrit
 
 ### Opciones
 - [ ] A) Anfibología, queísmo y barbarismo. <!-- feedback: Incorrecto. Los errores señalados no corresponden a estas definiciones. -->
-- [x] B) Solecismo de concordancia, dequeísmo y pleonasmo. <!-- feedback: ¡Correcto! "Hubieron" (solecismo), "decidió de que" (dequeísmo) y "subieran arriba" (pleonasmo). -->
-- [ ] C) Cacofonía, arcaísmo y muletillas. <!-- feedback: Incorrecto. No se observan repeticiones sonoras molestas ni palabras antiguas o muletillas de relleno. -->
-- [ ] D) Barbarismo, solecismo y anfibología. <!-- feedback: Incorrecto. Aunque hay solecismo, los otros dos no encajan con los ejemplos del texto. -->
+- [x] D) Solecismo de concordancia, dequeísmo y pleonasmo. <!-- feedback: ¡Correcto! "Hubieron" (solecismo), "decidió de que" (dequeísmo) y "subieran arriba" (pleonasmo). -->
+- [ ] B) Cacofonía, arcaísmo y muletillas. <!-- feedback: Incorrecto. No se observan repeticiones sonoras molestas ni palabras antiguas o muletillas de relleno. -->
+- [ ] C) Barbarismo, solecismo y anfibología. <!-- feedback: Incorrecto. Aunque hay solecismo, los otros dos no encajan con los ejemplos del texto. -->
 
 ### Explicacion Pedagogica
 Un texto puede acumular diversos vicios que afectan su claridad. Identificarlos es el primer paso para realizar una corrección de estilo efectiva.
@@ -217,8 +217,8 @@ En una conversación sobre tecnología moderna, un abuelo le dice a su nieto: "H
 Analizando los términos en negrilla, ¿qué fenómeno lingüístico ocurre aquí respecto a la norma actual?
 
 ### Opciones
-- [ ] A) El uso de neologismos técnicos que el abuelo no comprende. <!-- feedback: Incorrecto. Las palabras señaladas no son términos tecnológicos nuevos. -->
-- [x] B) El uso de barbarismos y arcaísmos que reflejan un habla rural o antigua. <!-- feedback: ¡Correcto! "Mesmo" es un arcaísmo (por mismo) y "asimpla" es un barbarismo/vulgarismo popular (por atonta o confunde). -->
+- [ ] B) El uso de neologismos técnicos que el abuelo no comprende. <!-- feedback: Incorrecto. Las palabras señaladas no son términos tecnológicos nuevos. -->
+- [x] A) El uso de barbarismos y arcaísmos que reflejan un habla rural o antigua. <!-- feedback: ¡Correcto! "Mesmo" es un arcaísmo (por mismo) y "asimpla" es un barbarismo/vulgarismo popular (por atonta o confunde). -->
 - [ ] C) Una anfibología que impide saber si el abuelo quiere o no el aparato. <!-- feedback: Incorrecto. El mensaje se entiende, aunque las palabras no sean las normativas. -->
 - [ ] D) Un solecismo de concordancia entre el pronombre "vos" y el verbo. <!-- feedback: Incorrecto. "Vos te vayas" es una estructura válida en regiones voseantes de Colombia (aunque la norma culta prefiere vayas). -->
 

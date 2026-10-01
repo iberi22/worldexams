@@ -29,9 +29,9 @@ Este bundle trabaja el redondeo, la estimación y los cálculos mentales para an
 ### Enunciado
 ¿Qué es redondear un número?
 ### Opciones
-- [x] A) Aproximarlo al valor más cercano de una unidad de referencia
+- [x] B) Aproximarlo al valor más cercano de una unidad de referencia
   <!-- feedback: Es correcta porque redondear busca el valor más próximo a la decena, centena o mil, según se elija. -->
-- [ ] B) Escribirlo con todos sus decimales
+- [ ] A) Escribirlo con todos sus decimales
   <!-- feedback: Error conceptual: eso conserva el valor exacto y no es una aproximación. -->
 - [ ] C) Multiplicarlo por 10
   <!-- feedback: Error conceptual: multiplicar cambia el valor; redondear solo lo aproxima. -->
@@ -48,13 +48,13 @@ Redondear es reemplazar un número por otro cercano que sea más fácil de usar,
 ### Enunciado
 ¿Cuál es el resultado del redondeo de 73 a la decena más cercana?
 ### Opciones
-- [x] A) 70
+- [x] D) 70
   <!-- feedback: Es correcta porque la cifra de las unidades es 3, menor que 5, así que se aproxima a 70. -->
-- [ ] B) 80
+- [ ] A) 80
   <!-- feedback: Error conceptual: aproxima hacia arriba aunque el 3 está más cerca de 70. -->
-- [ ] C) 73
+- [ ] B) 73
   <!-- feedback: Error conceptual: deja el número sin redondear, conservando las unidades. -->
-- [ ] D) 100
+- [ ] C) 100
   <!-- feedback: Error conceptual: redondea a la centena en vez de a la decena más cercana. -->
 ### Explicacion Pedagogica
 Para redondear a la decena se observa la cifra de las unidades: si es 5 o más se sube, y si es menor que 5 se conserva. Como 73 tiene 3 unidades, se aproxima a 70.
@@ -67,9 +67,9 @@ Para redondear a la decena se observa la cifra de las unidades: si es 5 o más s
 ### Enunciado
 ¿Cuál es el costo estimado si redondea cada cuaderno a $5.000?
 ### Opciones
-- [x] A) $15.000
+- [x] B) $15.000
   <!-- feedback: Es correcta porque 3 × $5.000 = $15.000 como estimación rápida. -->
-- [ ] B) $12.000
+- [ ] A) $12.000
   <!-- feedback: Error conceptual: usa un precio menor al redondeado para estimar la compra. -->
 - [ ] C) $9.000
   <!-- feedback: Error conceptual: multiplica por 2 cuadernos en lugar de 3. -->
@@ -86,9 +86,9 @@ Estimar el costo consiste en redondear el precio y multiplicar por la cantidad. 
 ### Enunciado
 ¿Cuál es el resultado estimado de la suma?
 ### Opciones
-- [x] A) 500
+- [x] B) 500
   <!-- feedback: Es correcta porque 198 ≈ 200 y 305 ≈ 300, y 200 + 300 = 500. -->
-- [ ] B) 400
+- [ ] A) 400
   <!-- feedback: Error conceptual: redondea 305 a 200 en vez de a 300. -->
 - [ ] C) 600
   <!-- feedback: Error conceptual: redondea 198 a 300 aunque está más cerca de 200. -->
@@ -105,9 +105,9 @@ La estimación por redondeo agrupa los sumandos en centenas para simplificar la 
 ### Enunciado
 ¿Cuál es el total estimado de la compra?
 ### Opciones
-- [x] A) $80.000
+- [x] B) $80.000
   <!-- feedback: Es correcta porque 4 × $20.000 = $80.000 como estimación rápida. -->
-- [ ] B) $76.000
+- [ ] A) $76.000
   <!-- feedback: Error conceptual: usa el valor exacto y no el redondeado para estimar mentalmente. -->
 - [ ] C) $40.000
   <!-- feedback: Error conceptual: multiplica por 2 camisetas en lugar de 4. -->
@@ -124,11 +124,11 @@ Estimar con redondeo simplifica el cálculo mental. Al tomar $19.800 como $20.00
 ### Enunciado
 ¿Cuál estimación es la más razonable y por qué?
 ### Opciones
-- [x] A) 1.200, porque 29 ≈ 30 y 41 ≈ 40, y 30 × 40 = 1.200
+- [x] C) 1.200, porque 29 ≈ 30 y 41 ≈ 40, y 30 × 40 = 1.200
   <!-- feedback: Es correcta porque redondea ambos factores y multiplica los valores aproximados. -->
-- [ ] B) 1.000, porque 30 × 30 = 900 y se aproxima a 1.000
+- [ ] A) 1.000, porque 30 × 30 = 900 y se aproxima a 1.000
   <!-- feedback: Error conceptual: redondea 41 a 30 en vez de a 40. -->
-- [ ] C) 800, porque 20 × 40 = 800
+- [ ] B) 800, porque 20 × 40 = 800
   <!-- feedback: Error conceptual: redondea 29 a 20, cuando está más cerca de 30. -->
 - [ ] D) 1.500, porque 30 × 50 = 1.500
   <!-- feedback: Error conceptual: redondea 41 a 50, alejándose del valor real. -->
@@ -143,9 +143,9 @@ Para estimar productos se redondea cada factor a la decena más cercana y se mul
 ### Enunciado
 ¿Qué se puede concluir sobre la estimación frente al cálculo exacto?
 ### Opciones
-- [x] A) La estimación es cercana pero no exacta, y sirve para verificar resultados
+- [x] B) La estimación es cercana pero no exacta, y sirve para verificar resultados
   <!-- feedback: Es correcta porque el redondeo aproxima el valor y ayuda a detectar respuestas poco razonables. -->
-- [ ] B) La estimación siempre es exacta
+- [ ] A) La estimación siempre es exacta
   <!-- feedback: Error conceptual: al redondear se pierde precisión, por eso no es exacta. -->
 - [ ] C) La estimación nunca es útil
   <!-- feedback: Error conceptual: la estimación es muy útil para anticipar y comprobar cálculos. -->
@@ -181,13 +181,13 @@ Redondear a los miles exige revisar la cifra de las centenas: $9.850 sube a $10.
 ### Enunciado
 ¿Es correcta la afirmación del estudiante? Justifica tu respuesta.
 ### Opciones
-- [x] A) No, porque 250 está a igual distancia de 200 y de 300, y por convención se redondea a 300
+- [x] D) No, porque 250 está a igual distancia de 200 y de 300, y por convención se redondea a 300
   <!-- feedback: Es correcta porque cuando la cifra es 5 se acostumbra subir al valor siguiente. -->
-- [ ] B) Sí, porque siempre se redondea hacia abajo
+- [ ] A) Sí, porque siempre se redondea hacia abajo
   <!-- feedback: Error conceptual: el redondeo no siempre baja; depende de la cifra que se observa. -->
-- [ ] C) Sí, porque el número termina en 5 y el 5 siempre baja
+- [ ] B) Sí, porque el número termina en 5 y el 5 siempre baja
   <!-- feedback: Error conceptual: la convención habitual es subir cuando la cifra es 5. -->
-- [ ] D) No, porque 250 no se puede redondear
+- [ ] C) No, porque 250 no se puede redondear
   <!-- feedback: Error conceptual: cualquier número se puede redondear eligiendo la unidad de referencia. -->
 ### Explicacion Pedagogica
 El redondeo de un valor que termina en 5 sigue una convención: se aproxima al valor superior. Por eso 250 se redondea a 300, y no a 200, para no sesgar sistemáticamente los resultados hacia abajo.
@@ -200,13 +200,13 @@ El redondeo de un valor que termina en 5 sigue una convención: se aproxima al v
 ### Enunciado
 ¿Cuál estrategia de cálculo mental es la más adecuada?
 ### Opciones
-- [x] A) Redondear $12.300 a $12.000 y multiplicar por 6, porque da un estimado rápido y cercano
+- [x] D) Redondear $12.300 a $12.000 y multiplicar por 6, porque da un estimado rápido y cercano
   <!-- feedback: Es correcta porque 6 × $12.000 = $72.000, un valor cercano al total exacto de $73.800. -->
-- [ ] B) Calcular con todos los decimales exactos antes de decidir
+- [ ] A) Calcular con todos los decimales exactos antes de decidir
   <!-- feedback: Error conceptual: hacer el cálculo exacto a mano es más lento y no es necesario para una primera estimación. -->
-- [ ] C) Multiplicar solo el primer producto por 6
+- [ ] B) Multiplicar solo el primer producto por 6
   <!-- feedback: Error conceptual: usa un solo precio y supone que todos los productos cuestan lo mismo. -->
-- [ ] D) Redondear a $20.000 para asegurar que alcanza el dinero
+- [ ] C) Redondear a $20.000 para asegurar que alcanza el dinero
   <!-- feedback: Error conceptual: redondear muy alto da una sobreestimación que no refleja el costo real. -->
 ### Explicacion Pedagogica
 Elegir una estrategia de estimación depende del objetivo: calcular con rapidez y con precisión suficiente. Redondear $12.300 a $12.000 y multiplicar por 6 ofrece un estimado cercano que permite decidir sin hacer la operación exacta.

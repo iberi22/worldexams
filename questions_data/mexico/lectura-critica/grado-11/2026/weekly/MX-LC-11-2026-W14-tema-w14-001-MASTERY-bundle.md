@@ -33,11 +33,11 @@ La urbe prehispánica de Teotihuacán, fundada en el altiplano central de Méxic
 ### Opciones
 - [ ] A) Una recopilación de datos para manuales contables de Europa del siglo XVI.
   <!-- feedback: Incorrecto. El texto aborda aspectos culturales, históricos y ecológicos del México contemporáneo, desvinculado de reglamentos contables coloniales. -->
-- [x] B) El papel y la relevancia de Calzada de los Muertos en la dinámica de la región.
+- [x] D) El papel y la relevancia de Calzada de los Muertos en la dinámica de la región.
   <!-- feedback: Correcto. El texto expone de manera explícita la trascendencia de Calzada de los Muertos para entender la problemática o fenómeno de la zona. -->
-- [ ] C) Una teoría de la física moderna abstracta desprovista de registro empírico terrestre.
+- [ ] B) Una teoría de la física moderna abstracta desprovista de registro empírico terrestre.
   <!-- feedback: Incorrecto. El escrito se enfoca en realidades tangibles y de campo observables, no en teorías físicas abstractas. -->
-- [ ] D) La prohibición de toda actividad de artes clásicas en las universidades públicas de la federación.
+- [ ] C) La prohibición de toda actividad de artes clásicas en las universidades públicas de la federación.
   <!-- feedback: Incorrecto. No se menciona ninguna prohibición de índole académica artística en las facultades. -->
 
 ### Explicacion Pedagogica
@@ -57,9 +57,9 @@ La urbe prehispánica de Teotihuacán, fundada en el altiplano central de Méxic
 De acuerdo con la lectura del pasaje, ¿cuál de los siguientes factores o causas se asocia directamente con la problemática o fenómeno de Calzada de los Muertos?
 
 ### Opciones
-- [ ] A) El desinterés absoluto de las comunidades ejidales locales por cuidar el patrimonio.
+- [ ] B) El desinterés absoluto de las comunidades ejidales locales por cuidar el patrimonio.
   <!-- feedback: Incorrecto. Los ejidos y ciudadanos se organizan y participan activamente, no se atribuye desinterés absoluto en la lectura. -->
-- [x] B) La confluencia de variables como 15.5 grados que alteran el equilibrio.
+- [x] A) La confluencia de variables como 15.5 grados que alteran el equilibrio.
   <!-- feedback: Correcto. El fragmento identifica expresamente a 15.5 grados como una variable causante o catalizadora de los cambios descritos. -->
 - [ ] C) La privatización total de todos los servicios públicos por mandato constitucional de la federación.
   <!-- feedback: Incorrecto. El texto no aborda reformas constitucionales de privatización total de servicios públicos. -->
@@ -83,9 +83,9 @@ La urbe prehispánica de Teotihuacán, fundada en el altiplano central de Méxic
 A partir de la exposición del autor, se comprende que el fenómeno estudiado exige una perspectiva que conciba al sistema como:
 
 ### Opciones
-- [ ] A) Un proceso aislado y estático que rechaza toda interacción o intercambio con el exterior.
+- [ ] B) Un proceso aislado y estático que rechaza toda interacción o intercambio con el exterior.
   <!-- feedback: Incorrecto. Concebir el sistema como cerrado contradice la interconexión dinámica de flujos descrita. -->
-- [x] B) Un flujo dinámico e interconectado, ejemplificado por el papel de diseño cósmico.
+- [x] A) Un flujo dinámico e interconectado, ejemplificado por el papel de diseño cósmico.
   <!-- feedback: Correcto. El autor argumenta que diseño cósmico representa la interdependencia y dinamismo del sistema, que no puede entenderse de forma aislada. -->
 - [ ] C) Un inventario de catálogos administrativos inalterable dictado por las aduanas arancelarias.
   <!-- feedback: Incorrecto. El enfoque del autor es de ecología o sociocultural, no arancelario o fiscal de aduanas comerciales. -->
@@ -109,9 +109,9 @@ La urbe prehispánica de Teotihuacán, fundada en el altiplano central de Méxic
 En el contexto de la lectura, la mención de barrios pluriétnicos se emplea principalmente con el propósito de:
 
 ### Opciones
-- [ ] A) Señalar una falla metodológica grave que invalida los argumentos del escrito.
+- [ ] B) Señalar una falla metodológica grave que invalida los argumentos del escrito.
   <!-- feedback: Incorrecto. El autor valora positivamente este concepto, no lo presenta como un error de método. -->
-- [x] B) Funcionar como un valioso barrios pluriétnicos para evaluar y diagnosticar el estado del equilibrio general del medio.
+- [x] A) Funcionar como un valioso barrios pluriétnicos para evaluar y diagnosticar el estado del equilibrio general del medio.
   <!-- feedback: Correcto. Se introduce este término para ilustrar cómo ciertos elementos reflejan de manera fáctica las alteraciones o salud del sistema. -->
 - [ ] C) Limitar el acceso de las mujeres y minorías a la educación superior en México.
   <!-- feedback: Incorrecto. No guarda relación con la restricción de derechos educativos de género o minorías de la federación. -->
@@ -135,9 +135,9 @@ La urbe prehispánica de Teotihuacán, fundada en el altiplano central de Méxic
 ¿Qué actitud o enfoque tradicional cuestiona de manera implícita el autor al examinar la situación de obsidiana volcánica?
 
 ### Opciones
-- [x] A) El enfoque esencialista que busca encapsular la realidad en definiciones fijas e inmutables.
+- [x] B) El enfoque esencialista que busca encapsular la realidad en definiciones fijas e inmutables.
   <!-- feedback: Correcto. El autor aboga por superar visiones estáticas de obsidiana volcánica para acoger un marco dinámico de transformación y resiliencia. -->
-- [ ] B) La recolección manual y el saneamiento ecológico de las costas de la península de Yucatán.
+- [ ] A) La recolección manual y el saneamiento ecológico de las costas de la península de Yucatán.
   <!-- feedback: Incorrecto. El saneamiento manual es valorado como una medida paliativa necesaria, no es cuestionado por el autor de esta sección. -->
 - [ ] C) La enseñanza de la historia prehispánica en las escuelas secundarias de la SEP.
   <!-- feedback: Incorrecto. Estudiar la historia y herencia indígena es fundamental para descolonizar el conocimiento y es respaldado por el autor de forma explícita. -->
@@ -189,11 +189,11 @@ Si un especialista en desarrollo sustentable en México deseara formular un plan
 ### Opciones
 - [ ] A) Pavimentación masiva e impermeabilización del suelo para acelerar la urbanización comercial.
   <!-- feedback: Incorrecto. Pavimentar anula la recarga pluvial o destruye el dosel forestal, empeorando el estrés ambiental de la zona. -->
-- [x] B) Creación de corredores y esquemas de custodia que involucren a un arquitecto urbano de forma activa.
+- [x] D) Creación de corredores y esquemas de custodia que involucren a un arquitecto urbano de forma activa.
   <!-- feedback: Correcto. Involucrar a un arquitecto urbano garantiza que la conservación del recurso se asocie con el bienestar social de las familias de la demarcación. -->
-- [ ] C) Privatización total de las zonas de amortiguamiento para ceder el control a corporativos extranjeros.
+- [ ] B) Privatización total de las zonas de amortiguamiento para ceder el control a corporativos extranjeros.
   <!-- feedback: Incorrecto. Entregar los bienes comunes a corporativos extranjeros contradice la apología del resguardo y acceso social abierto. -->
-- [ ] D) Suspensión de las clases de educación superior de la SEP de manera permanente.
+- [ ] C) Suspensión de las clases de educación superior de la SEP de manera permanente.
   <!-- feedback: Incorrecto. No se asocia con el cierre permanente de facultades o cese de clases escolares de la federación. -->
 
 ### Explicacion Pedagogica
@@ -215,9 +215,9 @@ Un habitante local, como un geografía económica, que decide adoptar prácticas
 ### Opciones
 - [ ] A) Actuando de manera perjudicial para las finanzas de su propia familia a corto plazo.
   <!-- feedback: Incorrecto. Las prácticas ecológicas y sustentables de autosustento pueden generar ingresos alternativos valiosos de ecoturismo o silvicultura. -->
-- [x] B) Aplicando una estrategia compatible con el equilibrio del entorno y la subsistencia social.
+- [x] C) Aplicando una estrategia compatible con el equilibrio del entorno y la subsistencia social.
   <!-- feedback: Correcto. Harmonizar la generación de valor económico con el cuidado del patrimonio natural o simbólico es la clave de la sustentabilidad cívica. -->
-- [ ] C) Fomentando el uso desmedido de pesticidas agroquímicos o la centralización urbana de los recursos.
+- [ ] B) Fomentando el uso desmedido de pesticidas agroquímicos o la centralización urbana de los recursos.
   <!-- feedback: Incorrecto. Su acción reduce pesticidas u opone resistencia a la centralización, protegiendo lo local de forma activa. -->
 - [ ] D) Violando las directrices federales de la Secretaría de Educación Pública.
   <!-- feedback: Incorrecto. El aprovechamiento ejidal sustentable es legal y respaldado por la normatividad federal de la federación vigente. -->
@@ -241,9 +241,9 @@ El colapso de un ecosistema o recurso adyacente, como el caso de Paseo de la Ref
 ### Opciones
 - [ ] A) La imitación dócil de las modas intelectuales dictadas desde el viejo mundo.
   <!-- feedback: Incorrecto. Se trata de procesos socioeconómicos extractivos físicos intensivos, ajenos a la imitación literaria de la academia. -->
-- [ ] B) La deparación espontánea de los monumentos históricos de la Nueva España.
+- [ ] C) La deparación espontánea de los monumentos históricos de la Nueva España.
   <!-- feedback: Incorrecto. No se asocia directamente con la deparación espontánea de monumentos de la época virreinal colonial de México. -->
-- [x] C) Un fallo sistémico común donde el ritmo de extracción o impacto supera la capacidad de asimilación del sistema.
+- [x] B) Un fallo sistémico común donde el ritmo de extracción o impacto supera la capacidad de asimilación del sistema.
   <!-- feedback: Correcto. Ambos casos demuestran que vulnerar las tasas de recarga o reposición desestabiliza y colapsa de forma acelerada la resiliencia del medio. -->
 - [ ] D) La abolición obligatoria de las materias de ética y humanidades en las universidades del país.
   <!-- feedback: Incorrecto. El colapso de polinizadores o acuíferos no se produce por revocar planes de estudio de filosofía. -->
@@ -265,9 +265,9 @@ La urbe prehispánica de Teotihuacán, fundada en el altiplano central de Méxic
 Si la tasa de alteración continúa de forma ininterrumpida, el escenario más factible a largo plazo en relación con luz solar natural sería:
 
 ### Opciones
-- [ ] A) La solidificación inmediata de la roca caliza permeable del Caribe.
+- [ ] B) La solidificación inmediata de la roca caliza permeable del Caribe.
   <!-- feedback: Incorrecto. La contracción del suelo arcilloso o deparación forestal no solidifica la caliza marina caribeña, mezclando de forma absurda los temas geográficos. -->
-- [x] B) La degradación severa de luz solar natural, comprometiendo la biodiversidad y la calidad de vida de las familias mexicanas.
+- [x] A) La degradación severa de luz solar natural, comprometiendo la biodiversidad y la calidad de vida de las familias mexicanas.
   <!-- feedback: Correcto. Ignorar los límites de carga biofísica o social de la zona conduce a fallos graves en cascada que deterioran el patrimonio común y aumentan la vulnerabilidad. -->
 - [ ] C) La elevación artificial de la altitud de la ciudad por encima del nivel del mar.
   <!-- feedback: Incorrecto. El desequilibrio ambiental deprime las oportunidades y hunde el relieve arcilloso, no eleva la altitud física de la urbe. -->
@@ -293,9 +293,9 @@ Si una autoridad pública de México deseara diseñar una iniciativa gubernament
 ### Opciones
 - [ ] A) Suspender de forma definitiva todo presupuesto para investigación científica o cultural en las entidades de la República.
   <!-- feedback: Incorrecto. Limitar la investigación debilita la toma de decisiones de la federación y el desarrollo integral de las regiones. -->
-- [x] B) Garantizar esquemas de inclusión orientados a solventar el problema de sesgos eurocéntricos de forma viable.
+- [x] C) Garantizar esquemas de inclusión orientados a solventar el problema de sesgos eurocéntricos de forma viable.
   <!-- feedback: Correcto. Aplicar la tesis crítica exige que lingüista del CONACYT actúe de manera directa para corregir exclusiones, democratizando los recursos o el arte. -->
-- [ ] C) Privatizar completamente el patrimonio arqueológico e histórico para depararlo a la explotación hotelera comercial.
+- [ ] B) Privatizar completamente el patrimonio arqueológico e histórico para depararlo a la explotación hotelera comercial.
   <!-- feedback: Incorrecto. El pasaje se opone a la mercantilización excluyente y defiende el carácter público de los bienes comunes. -->
 - [ ] D) Adoptar de forma obligatoria el voseo de Argentina en la redacción de los folletos turísticos nacionales de la federación.
   <!-- feedback: Incorrecto. Las variables lingüísticas de la península o de Argentina carecen de pertinencia cívica para resolver el centralismo o desabasto local. -->
@@ -319,9 +319,9 @@ La problemática estructural descrita en relación con sesgos eurocéntricos rep
 ### Opciones
 - [ ] A) Impide que los agricultores del bajío importen maquinaria pesada directamente desde el extranjero.
   <!-- feedback: Incorrecto. El desarrollo mecánico agroindustrial es un asunto de comercio, desvinculado de la exclusión social descrita en el texto. -->
-- [x] B) Genera condiciones inequitativas donde las familias periféricas ven vulnerado su derecho debido a sesgos eurocéntricos.
+- [x] C) Genera condiciones inequitativas donde las familias periféricas ven vulnerado su derecho debido a sesgos eurocéntricos.
   <!-- feedback: Correcto. La asimetría (digital, de museos o de salud) margina a amplios sectores por razones de geografía y economía, limitando su bienestar y desarrollo humano. -->
-- [ ] C) Fuerza a toda la población del norte de la federación a hablar exclusivamente en lenguas mesoamericanas antiguas.
+- [ ] B) Fuerza a toda la población del norte de la federación a hablar exclusivamente en lenguas mesoamericanas antiguas.
   <!-- feedback: Incorrecto. La problemática no impone el uso lingüístico indígena, sino que restringe el ejercicio de los derechos de la población de los estados. -->
 - [ ] D) Obliga a las universidades públicas a deparar arena artificial para suplir las playas del Caribe mexicano.
   <!-- feedback: Incorrecto. Las playas caribeñas y el sargazo no guardan relación lógica con la conectividad de los estados de la República. -->
@@ -343,9 +343,9 @@ Durante siglos, el sistema de escritura maya tallado en estelas de piedra, vasij
 A partir de los argumentos presentados en el texto, se deduce que la tradicional centralización o desatención de la periferia operaba bajo la asunción de que:
 
 ### Opciones
-- [ ] A) Los habitantes de los estados de la República carecían de la deparación intelectual para asimilar la técnica.
+- [ ] B) Los habitantes de los estados de la República carecían de la deparación intelectual para asimilar la técnica.
   <!-- feedback: Incorrecto. El autor rechaza cualquier sesgo de superioridad o desprecio intelectual biológico de capacidad. -->
-- [x] B) La capital o el modelo de mercado tradicional constituía el único polo idóneo para validar y gestionar logosilábica.
+- [x] A) La capital o el modelo de mercado tradicional constituía el único polo idóneo para validar y gestionar logosilábica.
   <!-- feedback: Correcto. El centralismo (institucional o de mercado) presupone que solo el núcleo central concentra la legitimidad, recursos y criterios de validación de logosilábica de la federación. -->
 - [ ] C) La descentralización provocaría la pérdida del idioma español en beneficio de lenguas de Europa.
   <!-- feedback: Incorrecto. El idioma español no se ve amenazado por la equidad distributiva o el resguardo regional de bienes comunes. -->
@@ -371,9 +371,9 @@ Durante siglos, el sistema de escritura maya tallado en estelas de piedra, vasij
 ### Opciones
 - [ ] A) Las publicaciones de los cronistas novohispanos carecían de deparaciones retóricas de antítesis.
   <!-- feedback: Incorrecto. Las deparaciones líricas de paralelismo o antítesis novohispanas no inciden en la viabilidad de resolver problemas contemporáneos. -->
-- [x] B) La inmensa inversión en infraestructura y lectura dinástica especializada requerida para garantizar condiciones seguras de operación en zonas remotas de la República.
+- [x] C) La inmensa inversión en infraestructura y lectura dinástica especializada requerida para garantizar condiciones seguras de operación en zonas remotas de la República.
   <!-- feedback: Correcto. Señalar que la descentralización o saneamiento demanda tendidos de red complejos, capacitación y costos elevados introduce variables de realismo técnico y financiero indispensable. -->
-- [ ] C) La preferencia de los creadores locales de viajar al extranjero para comercializar sus productos.
+- [ ] B) La preferencia de los creadores locales de viajar al extranjero para comercializar sus productos.
   <!-- feedback: Incorrecto. La elección de viaje de profesionales particulares no afecta las variables logísticas de la obra pública de la federación. -->
 - [ ] D) La sustitución total de los textos escolares por manuales de contabilidad del siglo XVI.
   <!-- feedback: Incorrecto. No constituye un planteamiento real ni una deparación pertinente al diseño de políticas sustentables de la federación. -->
@@ -397,9 +397,9 @@ La estructura argumentativa de quienes promueven un enfoque comunitario descentr
 ### Opciones
 - [ ] A) El patrimonio prehispánico o la salud pública de la comarca carecen de valor real para los investigadores internacionales.
   <!-- feedback: Incorrecto. Al contrario, se exalta el deparado valor de la herencia local, del agro y del bienestar social colectivo. -->
-- [x] B) La apropiación local y autogestión de escritura abstracta fortalece de forma directa la cohesión cívica y la soberanía comunitaria.
+- [x] C) La apropiación local y autogestión de escritura abstracta fortalece de forma directa la cohesión cívica y la soberanía comunitaria.
   <!-- feedback: Correcto. Dar control a la colectividad sobre su propia realidad (salud, educación, cultura) fomenta el autorrespeto, el cuidado mutuo y la cohesión social de la federación. -->
-- [ ] C) Cada municipio de la federación debe dictar de forma obligatoria sus propias leyes mercantiles de aduana arancelaria.
+- [ ] B) Cada municipio de la federación debe dictar de forma obligatoria sus propias leyes mercantiles de aduana arancelaria.
   <!-- feedback: Incorrecto. El marco de los proyectos comunitarios es cultural, educativo e identitario, sin relación con aduanas o aranceles mercantiles. -->
 - [ ] D) La Secretaría de Educación Pública debe centralizar de forma definitiva los subsidios para creadores del norte.
   <!-- feedback: Incorrecto. Se busca justamente descentralizar los apoyos y recursos, no acentuar el monopolio de la capital. -->
@@ -423,9 +423,9 @@ Al describir los efectos nocivos del sesgo mercantil o del monopolio de la capit
 ### Opciones
 - [ ] A) Dificulta la oxigenación física de las salas de exhibición de los monumentos históricos del Centro de la capital.
   <!-- feedback: Incorrecto. El autor emplea vocablos metafóricos de asfixia o estancamiento intelectual de ideas, no de ventilación de aire de salas de arte. -->
-- [x] B) Ahoga la diversidad, precariza a la periferia y subordina el bienestar a criterios de eurocentrismo.
+- [x] C) Ahoga la diversidad, precariza a la periferia y subordina el bienestar a criterios de eurocentrismo.
   <!-- feedback: Correcto. Limitar la planeación a criterios puramente utilitarios de mercado o de centralismo de la capital estrangula el dinamismo y las oportunidades del resto de la federación. -->
-- [ ] C) Impide el tránsito de camiones mercantiles de carga en la aduana fronteriza del norte.
+- [ ] B) Impide el tránsito de camiones mercantiles de carga en la aduana fronteriza del norte.
   <!-- feedback: Incorrecto. El flujo de aduana norteña es un asunto comercial de transporte, ajeno al debate de centralismo de servicios de la capital. -->
 - [ ] D) Se reduce al uso exclusivo del voseo de Argentina en los folletos informativos de la federación.
   <!-- feedback: Incorrecto. La variable lingüística del voseo no forma parte del debate de centralización o sesgo mercantil institucional de México. -->
@@ -449,9 +449,9 @@ Durante siglos, el sistema de escritura maya tallado en estelas de piedra, vasij
 ### Opciones
 - [ ] A) Se opone de forma drástica por considerarlas un gasto inútil que debilita el presupuesto de la capital federal.
   <!-- feedback: Incorrecto. El autor critica el centralismo y valora de forma sumamente positiva las deparaciones de equidad distributiva. -->
-- [x] B) Respalda de forma decidida la transición hacia esquemas que pongan el recurso en diálogo con Yuri Knorozov de manera integrada.
+- [x] C) Respalda de forma decidida la transición hacia esquemas que pongan el recurso en diálogo con Yuri Knorozov de manera integrada.
   <!-- feedback: Correcto. El tono general hacia museos itinerantes, deparación de conectividad rural, educación a distancia e inclusión de dreamers es aprobatorio, exaltando su impacto en la cohesión social. -->
-- [ ] C) Recomienda deparar toda actividad científica o biológica del CONACYT en la península de Yucatán.
+- [ ] B) Recomienda deparar toda actividad científica o biológica del CONACYT en la península de Yucatán.
   <!-- feedback: Incorrecto. Valora de hecho la investigación científica y biológica como herramientas clave de diagnóstico ecológico y de resguardo público de la zona. -->
 - [ ] D) Propone la fusión de todas las universidades públicas de la federación en corporaciones de negocios de Monterrey.
   <!-- feedback: Incorrecto. Esta propuesta privatizadora contradice la apología del bien común y resguardo social de la federación. -->
@@ -501,9 +501,9 @@ A partir de la lectura integral de los dos pasajes de este bloque semanal, ¿cu�
 ### Opciones
 - [ ] A) La concentración metropolitana beneficia a largo plazo la recarga de los acuíferos subterráneos de Michoacán.
   <!-- feedback: Incorrecto. El centralismo hídrico agota severamente el subsuelo del Valle de México; no beneficia al subsuelo de Michoacán. -->
-- [x] B) El centralismo genera fallos de doble vía, mermando materialmente a la capital y excluyendo cívicamente a la periferia de epigrafía mesoamericana.
+- [x] C) El centralismo genera fallos de doble vía, mermando materialmente a la capital y excluyendo cívicamente a la periferia de epigrafía mesoamericana.
   <!-- feedback: Correcto. El desequilibrio agota físicamente los límites ecológicos del centro (hundimientos, sobreexplotación) e impide el disfrute de epigrafía mesoamericana en la periferia nacional. -->
-- [ ] C) La deparación de los museos de la capital es la única vía idónea para proteger las áreas de desove de tortugas de Quintana Roo.
+- [ ] B) La deparación de los museos de la capital es la única vía idónea para proteger las áreas de desove de tortugas de Quintana Roo.
   <!-- feedback: Incorrecto. No existe nexo causal que ligue la ubicación de museos artísticos en la capital con el desove de tortugas marinas costeras caribeñas. -->
 - [ ] D) El sistema hídrico del Cutzamala debe alimentar de lluvia las salas del INBAL en la Ciudad de México de forma prioritaria.
   <!-- feedback: Incorrecto. El sistema hídrico de abasto de agua no alimenta físicamente a las salas de arte del INBAL, mezclando de forma absurda los temas. -->
@@ -527,9 +527,9 @@ Durante siglos, el sistema de escritura maya tallado en estelas de piedra, vasij
 ### Opciones
 - [ ] A) Desalojar de forma forzada a toda la población del centro metropolitano para reubicarla en las deparaciones de Chiapas.
   <!-- feedback: Incorrecto. El desalojo forzado de familias es una medida autoritaria e inviable que viola los derechos humanos y el equilibrio de la federación. -->
-- [x] B) Transitar hacia una planeación federalista y equitativa que respete los límites de carga ecológicos locales y democratice el acceso a bienes mediante saberes científicos.
+- [x] C) Transitar hacia una planeación federalista y equitativa que respete los límites de carga ecológicos locales y democratice el acceso a bienes mediante saberes científicos.
   <!-- feedback: Correcto. Integrar criterios de resguardo biofísico y descentralización de la deparación garantiza un desarrollo cívico justo, respetuoso de los recursos y de la dignidad de todos los estados. -->
-- [ ] C) Autorizar la deparación con asfalto impermeable de las áreas boscosas de recarga pluvial de la capital.
+- [ ] B) Autorizar la deparación con asfalto impermeable de las áreas boscosas de recarga pluvial de la capital.
   <!-- feedback: Incorrecto. Edificar asfalto impermeable sobre áreas boscosas de recarga pluvial anula la infiltración y agrava severamente el hundimiento de la cuenca. -->
 - [ ] D) Subordinar todas las decisiones de deparación de México de forma absoluta a los intereses de compañías europeas.
   <!-- feedback: Incorrecto. La soberanía de planeación de México debe responder a los derechos de sus propios deparados, no a corporativos extranjeros de telecomunicaciones. -->

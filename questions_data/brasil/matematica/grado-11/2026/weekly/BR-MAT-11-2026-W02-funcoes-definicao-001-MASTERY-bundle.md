@@ -30,8 +30,8 @@ calibration: {difficulty_band: "D3-D10", expected_success: 0.65}
 Dada uma função $f: A \to B$, como é chamado o conjunto $A$ de todos os valores de entrada possíveis?
 
 ### Opciones
-- [x] A) Domínio <!-- feedback: O domínio é o conjunto de partida de uma função, contendo todos os valores para os quais a função está definida. -->
-- [ ] B) Contradomínio <!-- feedback: O contradomínio é o conjunto de chegada B, que pode conter elementos que não são imagens de nenhum x em A. -->
+- [x] B) Domínio <!-- feedback: O domínio é o conjunto de partida de uma função, contendo todos os valores para os quais a função está definida. -->
+- [ ] A) Contradomínio <!-- feedback: O contradomínio é o conjunto de chegada B, que pode conter elementos que não são imagens de nenhum x em A. -->
 - [ ] C) Imagem <!-- feedback: O conjunto imagem é o subconjunto do contradomínio formado por todos os valores f(x) efetivamente assumidos. -->
 - [ ] D) Intervalo <!-- feedback: Um intervalo é um tipo específico de subconjunto dos números reais, mas não é o nome genérico do conjunto A. -->
 
@@ -69,8 +69,8 @@ Dada a função $f(x) = 3x - 5$, qual é o valor de $f(4)$?
 
 ### Opciones
 - [ ] A) 17 <!-- feedback: Erro de sinal: 3(4) + 5 = 17, mas a função é 3x - 5. -->
-- [x] B) 7 <!-- feedback: f(4) = 3(4) - 5 = 12 - 5 = 7. -->
-- [ ] C) 12 <!-- feedback: Este é apenas o resultado de 3 * 4, esquecendo de subtrair o 5. -->
+- [x] C) 7 <!-- feedback: f(4) = 3(4) - 5 = 12 - 5 = 7. -->
+- [ ] B) 12 <!-- feedback: Este é apenas o resultado de 3 * 4, esquecendo de subtrair o 5. -->
 - [ ] D) -1 <!-- feedback: f(4) = 3(4) - 5. O valor 7 é positivo. -->
 
 ### Explicacion Pedagogica
@@ -88,8 +88,8 @@ Como podemos identificar, através do gráfico no plano cartesiano, se uma curva
 
 ### Opciones
 - [ ] A) Toda reta horizontal deve cruzar o gráfico em apenas um ponto. <!-- feedback: O teste da reta horizontal serve para verificar se a função é injetora, não se é uma função. -->
-- [x] B) Toda reta vertical deve cruzar o gráfico em no máximo um ponto. <!-- feedback: O teste da reta vertical garante que para cada valor de x existe no máximo um valor correspondente de y. -->
-- [ ] C) O gráfico deve ser uma linha reta. <!-- feedback: Funções podem ter gráficos curvos (parábolas, exponenciais, etc.). -->
+- [x] C) Toda reta vertical deve cruzar o gráfico em no máximo um ponto. <!-- feedback: O teste da reta vertical garante que para cada valor de x existe no máximo um valor correspondente de y. -->
+- [ ] B) O gráfico deve ser uma linha reta. <!-- feedback: Funções podem ter gráficos curvos (parábolas, exponenciais, etc.). -->
 - [ ] D) O gráfico deve passar pela origem $(0,0)$. <!-- feedback: Muitas funções não passam pela origem, como f(x) = x + 1. -->
 
 ### Explicacion Pedagogica
@@ -106,8 +106,8 @@ Pelo "Teste da Reta Vertical", se qualquer reta vertical cruzar o desenho em mai
 Qual é o domínio da função real $f(x) = \frac{1}{x-2}$?
 
 ### Opciones
-- [ ] A) $\mathbb{R}$ <!-- feedback: O valor x = 2 causa uma divisão por zero, portanto não pode estar no domínio. -->
-- [x] B) $\mathbb{R} - \{2\}$ <!-- feedback: A função está definida para todos os reais, exceto para o valor que zera o denominador. -->
+- [ ] B) $\mathbb{R}$ <!-- feedback: O valor x = 2 causa uma divisão por zero, portanto não pode estar no domínio. -->
+- [x] A) $\mathbb{R} - \{2\}$ <!-- feedback: A função está definida para todos os reais, exceto para o valor que zera o denominador. -->
 - [ ] C) $\{2\}$ <!-- feedback: Este é justamente o único valor que NÃO pertence ao domínio. -->
 - [ ] D) $(2, +\infty)$ <!-- feedback: Valores menores que 2 também são permitidos, desde que não sejam exatamente 2. -->
 
@@ -126,8 +126,8 @@ Seja $f: \mathbb{R} \to \mathbb{R}$ uma função tal que $f(x) = x^2 + 1$. Qual 
 
 ### Opciones
 - [ ] A) $\mathbb{R}$ <!-- feedback: x² nunca resulta em valores negativos, então a imagem não pode ser todos os reais. -->
-- [ ] B) $[0, +\infty)$ <!-- feedback: Quase correto, mas como somamos 1 ao x², o valor mínimo será 1, não 0. -->
-- [x] C) $[1, +\infty)$ <!-- feedback: Como x² ≥ 0 para qualquer x real, então x² + 1 ≥ 1. -->
+- [ ] C) $[0, +\infty)$ <!-- feedback: Quase correto, mas como somamos 1 ao x², o valor mínimo será 1, não 0. -->
+- [x] B) $[1, +\infty)$ <!-- feedback: Como x² ≥ 0 para qualquer x real, então x² + 1 ≥ 1. -->
 - [ ] D) $(-\infty, 1]$ <!-- feedback: A função cresce para o infinito positivo, não negativo. -->
 
 ### Explicacion Pedagogica
@@ -164,9 +164,9 @@ Se $f(x) = \sqrt{x-4}$ é uma função de variável real, qual é o seu domínio
 
 ### Opciones
 - [ ] A) $x > 4$ <!-- feedback: O valor x = 4 é permitido, pois √0 existe e é 0. -->
-- [x] B) $x \geq 4$ <!-- feedback: Para que a raiz quadrada seja um número real, o radicando deve ser maior ou igual a zero. -->
-- [ ] C) $x \leq 4$ <!-- feedback: Se x for menor que 4, teremos a raiz de um número negativo, que não é real. -->
-- [ ] D) $\mathbb{R} - \{4\}$ <!-- feedback: Valores menores que 4 devem ser excluídos, não apenas o 4. -->
+- [x] D) $x \geq 4$ <!-- feedback: Para que a raiz quadrada seja um número real, o radicando deve ser maior ou igual a zero. -->
+- [ ] B) $x \leq 4$ <!-- feedback: Se x for menor que 4, teremos a raiz de um número negativo, que não é real. -->
+- [ ] C) $\mathbb{R} - \{4\}$ <!-- feedback: Valores menores que 4 devem ser excluídos, não apenas o 4. -->
 
 ### Explicacion Pedagogica
 No conjunto dos números reais, a raiz quadrada de um número negativo não está definida. Portanto, a expressão dentro da raiz deve ser não negativa: $x - 4 \geq 0$, o que nos dá $x \geq 4$.
@@ -183,8 +183,8 @@ Seja $f(x) = ax + b$. Sabendo que $f(1) = 5$ e $f(0) = 2$, determine os valores 
 
 ### Opciones
 - [ ] A) $a = 2, b = 3$ <!-- feedback: Se b=3 e a=2, f(0) seria 3, mas f(0)=2. -->
-- [x] B) $a = 3, b = 2$ <!-- feedback: f(0) = a(0) + b = 2 => b = 2. Então f(1) = a(1) + 2 = 5 => a = 3. -->
-- [ ] C) $a = 5, b = 2$ <!-- feedback: Se a=5 e b=2, f(1) seria 7, mas f(1)=5. -->
+- [x] C) $a = 3, b = 2$ <!-- feedback: f(0) = a(0) + b = 2 => b = 2. Então f(1) = a(1) + 2 = 5 => a = 3. -->
+- [ ] B) $a = 5, b = 2$ <!-- feedback: Se a=5 e b=2, f(1) seria 7, mas f(1)=5. -->
 - [ ] D) $a = 3, b = 5$ <!-- feedback: Se b=5, f(0) seria 5, mas f(0)=2. -->
 
 ### Explicacion Pedagogica
@@ -202,8 +202,8 @@ Considere a função $f(x) = x^2 - 4x + 7$. Qual é o valor de $f(-1)$?
 
 ### Opciones
 - [ ] A) 4 <!-- feedback: Erro de sinal ao elevar ao quadrado ou multiplicar: (-1)² é 1, não -1. -->
-- [ ] B) 10 <!-- feedback: Erro no termo médio: -4(-1) é +4, somado ao 1 e 7 daria 12. -->
-- [x] C) 12 <!-- feedback: f(-1) = (-1)² - 4(-1) + 7 = 1 + 4 + 7 = 12. -->
+- [ ] C) 10 <!-- feedback: Erro no termo médio: -4(-1) é +4, somado ao 1 e 7 daria 12. -->
+- [x] B) 12 <!-- feedback: f(-1) = (-1)² - 4(-1) + 7 = 1 + 4 + 7 = 12. -->
 - [ ] D) 2 <!-- feedback: Cálculo incorreto dos termos da função. -->
 
 ### Explicacion Pedagogica
@@ -221,8 +221,8 @@ Uma função $f: A \to B$ é dita **injetora** quando:
 
 ### Opciones
 - [ ] A) O conjunto imagem é igual ao contradomínio. <!-- feedback: Esta é a definição de função sobrejetora. -->
-- [x] B) Elementos distintos do domínio possuem imagens distintas no contradomínio. <!-- feedback: Correto. x1 ≠ x2 implica f(x1) ≠ f(x2). -->
-- [ ] C) Todo elemento de B é imagem de pelo menos um elemento de A. <!-- feedback: Esta também é a definição de sobrejetora. -->
+- [x] C) Elementos distintos do domínio possuem imagens distintas no contradomínio. <!-- feedback: Correto. x1 ≠ x2 implica f(x1) ≠ f(x2). -->
+- [ ] B) Todo elemento de B é imagem de pelo menos um elemento de A. <!-- feedback: Esta também é a definição de sobrejetora. -->
 - [ ] D) A função é crescente em todo o seu domínio. <!-- feedback: Funções decrescentes também podem ser injetoras. -->
 
 ### Explicacion Pedagogica
@@ -239,9 +239,9 @@ A injetividade significa que não há "colisões": cada valor de $y$ no conjunto
 Qual das seguintes condições é necessária para que uma função $f: A \to B$ admita uma função inversa $f^{-1}: B \to A$?
 
 ### Opciones
-- [ ] A) A função deve ser apenas injetora. <!-- feedback: Se não for sobrejetora, f⁻¹ não estará definida para todo o conjunto B. -->
-- [ ] B) A função deve ser apenas sobrejetora. <!-- feedback: Se não for injetora, f⁻¹ teria múltiplos valores para um mesmo x, não sendo função. -->
-- [x] C) A função deve ser bijetora. <!-- feedback: Uma função bijetora é injetora e sobrejetora ao mesmo tempo, o que permite inverter a relação perfeitamente. -->
+- [ ] B) A função deve ser apenas injetora. <!-- feedback: Se não for sobrejetora, f⁻¹ não estará definida para todo o conjunto B. -->
+- [ ] C) A função deve ser apenas sobrejetora. <!-- feedback: Se não for injetora, f⁻¹ teria múltiplos valores para um mesmo x, não sendo função. -->
+- [x] A) A função deve ser bijetora. <!-- feedback: Uma função bijetora é injetora e sobrejetora ao mesmo tempo, o que permite inverter a relação perfeitamente. -->
 - [ ] D) A função deve ser uma função do 1º grau. <!-- feedback: Funções de outros graus (como exponenciais) também podem ter inversas. -->
 
 ### Explicacion Pedagogica
@@ -259,9 +259,9 @@ Dadas as funções $f(x) = x + 2$ e $g(x) = 3x$, qual é a expressão da funçã
 
 ### Opciones
 - [ ] A) $3x + 2$ <!-- feedback: Este seria f(g(x)), ou seja, (3x) + 2. -->
-- [x] B) $3x + 6$ <!-- feedback: g(f(x)) = g(x + 2) = 3(x + 2) = 3x + 6. -->
-- [ ] C) $4x + 2$ <!-- feedback: Erro na aplicação da lei de formação da função g. -->
-- [ ] D) $x + 6$ <!-- feedback: Erro no termo variável de x. -->
+- [x] D) $3x + 6$ <!-- feedback: g(f(x)) = g(x + 2) = 3(x + 2) = 3x + 6. -->
+- [ ] B) $4x + 2$ <!-- feedback: Erro na aplicação da lei de formação da função g. -->
+- [ ] C) $x + 6$ <!-- feedback: Erro no termo variável de x. -->
 
 ### Explicacion Pedagogica
 Para calcular $g(f(x))$, substituímos a expressão de $f(x)$ no lugar do $x$ da função $g$. Assim, $g(f(x)) = g(x+2) = 3(x+2)$. Distribuindo o 3, obtemos $3x + 6$.
@@ -278,9 +278,9 @@ Uma função é considerada **par** se $f(x) = f(-x)$ para todo $x$ no domínio.
 
 ### Opciones
 - [ ] A) $f(x) = 2x$ <!-- feedback: f(-x) = -2x, que é -f(x). Esta é uma função ímpar. -->
-- [x] B) $f(x) = x^2 + 3$ <!-- feedback: f(-x) = (-x)² + 3 = x² + 3 = f(x). Logo é par. -->
-- [ ] C) $f(x) = x^3$ <!-- feedback: f(-x) = (-x)³ = -x³. Esta é uma função ímpar. -->
-- [ ] D) $f(x) = x + 1$ <!-- feedback: f(-x) = -x + 1, que não é nem f(x) nem -f(x). -->
+- [x] D) $f(x) = x^2 + 3$ <!-- feedback: f(-x) = (-x)² + 3 = x² + 3 = f(x). Logo é par. -->
+- [ ] B) $f(x) = x^3$ <!-- feedback: f(-x) = (-x)³ = -x³. Esta é uma função ímpar. -->
+- [ ] C) $f(x) = x + 1$ <!-- feedback: f(-x) = -x + 1, que não é nem f(x) nem -f(x). -->
 
 ### Explicacion Pedagogica
 Uma função par apresenta simetria em relação ao eixo $y$. Algebricamente, substituir $x$ por $-x$ não altera a expressão final. Em $x^2 + 3$, o expoente par faz com que $(-x)^2$ seja igual a $x^2$.
@@ -353,9 +353,9 @@ A função de Dirichlet está definida para todos os números reais, pois o conj
 Seja $f: \mathbb{R} \to \mathbb{R}$ uma função estritamente crescente. É correto concluir que:
 
 ### Opciones
-- [x] A) A função $f$ é necessariamente injetora. <!-- feedback: Se a função é estritamente crescente, x1 < x2 implica f(x1) < f(x2), logo imagens de valores diferentes nunca serão iguais. -->
-- [ ] B) A função $f$ é necessariamente sobrejetora. <!-- feedback: Nem sempre. Por exemplo, f(x) = arctan(x) é estritamente crescente mas sua imagem é limitada. -->
-- [ ] C) A função $f$ possui necessariamente um valor máximo. <!-- feedback: Funções crescentes em domínios ilimitados podem crescer indefinidamente. -->
+- [x] C) A função $f$ é necessariamente injetora. <!-- feedback: Se a função é estritamente crescente, x1 < x2 implica f(x1) < f(x2), logo imagens de valores diferentes nunca serão iguais. -->
+- [ ] A) A função $f$ é necessariamente sobrejetora. <!-- feedback: Nem sempre. Por exemplo, f(x) = arctan(x) é estritamente crescente mas sua imagem é limitada. -->
+- [ ] B) A função $f$ possui necessariamente um valor máximo. <!-- feedback: Funções crescentes em domínios ilimitados podem crescer indefinidamente. -->
 - [ ] D) $f(0)$ deve ser igual a 0. <!-- feedback: A função pode ser transladada verticalmente (ex: f(x) = x + 1). -->
 
 ### Explicacion Pedagogica
@@ -373,9 +373,9 @@ Determine a função $f(x)$ que satisfaz a equação $f(2x + 1) = 4x^2 + 4x + 5$
 
 ### Opciones
 - [ ] A) $f(x) = x^2 + 5$ <!-- feedback: Substituindo x por 2x+1 teríamos (2x+1)² + 5 = 4x² + 4x + 6, diferente do dado. -->
-- [x] B) $f(x) = x^2 + 4$ <!-- feedback: (2x + 1)² + 4 = (4x² + 4x + 1) + 4 = 4x² + 4x + 5. Correto. -->
-- [ ] C) $f(x) = 2x^2 + 3$ <!-- feedback: Incorreto ao testar a substituição da variável. -->
-- [ ] D) $f(x) = x^2 + 2x + 1$ <!-- feedback: Incorreto ao testar a substituição da variável. -->
+- [x] D) $f(x) = x^2 + 4$ <!-- feedback: (2x + 1)² + 4 = (4x² + 4x + 1) + 4 = 4x² + 4x + 5. Correto. -->
+- [ ] B) $f(x) = 2x^2 + 3$ <!-- feedback: Incorreto ao testar a substituição da variável. -->
+- [ ] C) $f(x) = x^2 + 2x + 1$ <!-- feedback: Incorreto ao testar a substituição da variável. -->
 
 ### Explicacion Pedagogica
 Fazemos uma mudança de variável: seja $t = 2x + 1$. Então $x = \frac{t - 1}{2}$. Substituindo na expressão original: $f(t) = 4(\frac{t-1}{2})^2 + 4(\frac{t-1}{2}) + 5$. Simplificando: $f(t) = 4(\frac{t^2-2t+1}{4}) + 2(t-1) + 5 = t^2 - 2t + 1 + 2t - 2 + 5 = t^2 + 4$. Portanto, $f(x) = x^2 + 4$.
@@ -391,8 +391,8 @@ Fazemos uma mudança de variável: seja $t = 2x + 1$. Então $x = \frac{t - 1}{2
 Dados os conjuntos $A = \{1, 2, 3\}$ e $B = \{a, b, c, d, e\}$, qual é o número total de funções injetoras de $A$ em $B$?
 
 ### Opciones
-- [ ] A) 125 <!-- feedback: Este é o número total de funções (5³), não apenas as injetoras. -->
-- [x] B) 60 <!-- feedback: Usamos arranjo simples: A(5, 3) = 5 * 4 * 3 = 60. -->
+- [ ] B) 125 <!-- feedback: Este é o número total de funções (5³), não apenas as injetoras. -->
+- [x] A) 60 <!-- feedback: Usamos arranjo simples: A(5, 3) = 5 * 4 * 3 = 60. -->
 - [ ] C) 10 <!-- feedback: Este é o número de subconjuntos de 3 elementos de B (combinação). -->
 - [ ] D) 15 <!-- feedback: Cálculo incorreto das possibilidades. -->
 

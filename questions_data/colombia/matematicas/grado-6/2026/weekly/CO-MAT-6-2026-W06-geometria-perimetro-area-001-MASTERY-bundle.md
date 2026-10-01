@@ -52,9 +52,9 @@ El perímetro se expresa en unidades de longitud (cm, m, km).
 ### Enunciado
 El área de un rectángulo de base $b$ y altura $h$ se calcula como:
 ### Opciones
-- [x] A) $A = b \cdot h$.
+- [x] B) $A = b \cdot h$.
   <!-- feedback: Correcto. Base por altura. -->
-- [ ] B) $A = 2(b + h)$.
+- [ ] A) $A = 2(b + h)$.
   <!-- feedback: Incorrecto. Eso es el perímetro. -->
 - [ ] C) $A = b + h$.
   <!-- feedback: Incorrecto. Es suma, no producto. -->
@@ -72,9 +72,9 @@ El área se expresa en unidades cuadradas (cm², m²).
 ### Enunciado
 Si un parque rectangular mide 50 m de largo y 30 m de ancho, ¿cuál es su perímetro?
 ### Opciones
-- [x] A) 160 m.
+- [x] B) 160 m.
   <!-- feedback: Correcto. $P = 2(50 + 30) = 160$. -->
-- [ ] B) 80 m.
+- [ ] A) 80 m.
   <!-- feedback: Incorrecto. Sumaste sin multiplicar por 2. -->
 - [ ] C) 1500 m.
   <!-- feedback: Incorrecto. Ese es el área. -->
@@ -92,9 +92,9 @@ El perímetro del rectángulo es 2·(largo + ancho).
 ### Enunciado
 El área de un triángulo de base $b$ y altura $h$ es:
 ### Opciones
-- [x] A) $A = \frac{b \cdot h}{2}$.
+- [x] B) $A = \frac{b \cdot h}{2}$.
   <!-- feedback: Correcto. Mitad del producto base por altura. -->
-- [ ] B) $A = b \cdot h$.
+- [ ] A) $A = b \cdot h$.
   <!-- feedback: Incorrecto. Eso es el rectángulo. -->
 - [ ] C) $A = 2 \cdot b \cdot h$.
   <!-- feedback: Incorrecto. Multiplicas por 2. -->
@@ -112,11 +112,11 @@ La altura del triángulo es perpendicular a la base.
 ### Enunciado
 Un terreno triangular tiene base 12 m y altura 8 m. ¿Cuál es su área?
 ### Opciones
-- [x] A) 48 m².
+- [x] C) 48 m².
   <!-- feedback: Correcto. $(12 \cdot 8)/2 = 48$. -->
-- [ ] B) 96 m².
+- [ ] A) 96 m².
   <!-- feedback: Incorrecto. No dividiste entre 2. -->
-- [ ] C) 20 m².
+- [ ] B) 20 m².
   <!-- feedback: Incorrecto. Sumaste. -->
 - [ ] D) 24 m².
   <!-- feedback: Incorrecto. Dividiste entre 4. -->
@@ -132,9 +132,9 @@ La fórmula del área triangular se aplica con base y altura perpendiculares.
 ### Enunciado
 Un cuadrado tiene lado 9 cm. ¿Cuál es su área?
 ### Opciones
-- [x] A) 81 cm².
+- [x] B) 81 cm².
   <!-- feedback: Correcto. $9^2 = 81$. -->
-- [ ] B) 36 cm².
+- [ ] A) 36 cm².
   <!-- feedback: Incorrecto. Usaste $6^2$. -->
 - [ ] C) 18 cm².
   <!-- feedback: Incorrecto. Multiplicaste por 2. -->
@@ -172,13 +172,13 @@ El perímetro se obtiene sumando todos los lados de la figura.
 ### Enunciado
 Si duplicas el lado de un cuadrado, ¿qué ocurre con su área?
 ### Opciones
-- [x] A) Se cuadruplica.
+- [x] D) Se cuadruplica.
   <!-- feedback: Correcto. $A = (2l)^2 = 4l^2$. -->
-- [ ] B) Se duplica.
+- [ ] A) Se duplica.
   <!-- feedback: Incorrecto. Crece más rápido. -->
-- [ ] C) Permanece igual.
+- [ ] B) Permanece igual.
   <!-- feedback: Incorrecto. Cambia. -->
-- [ ] D) Se reduce a la mitad.
+- [ ] C) Se reduce a la mitad.
   <!-- feedback: Incorrecto. Se agranda. -->
 ### Explicacion Pedagogica
 El área depende del cuadrado de la longitud, por eso crece rápidamente.
@@ -192,13 +192,13 @@ El área depende del cuadrado de la longitud, por eso crece rápidamente.
 ### Enunciado
 Una habitación rectangular de 4 m por 5 m se cubre con baldosas de 0.5 m² cada una. ¿Cuántas baldosas se necesitan (sin desperdicio)?
 ### Opciones
-- [x] A) 40.
+- [x] D) 40.
   <!-- feedback: Correcto. Área = 20 m², baldosas = 20 / 0.5 = 40. -->
-- [ ] B) 20.
+- [ ] A) 20.
   <!-- feedback: Incorrecto. No dividiste correctamente. -->
-- [ ] C) 10.
+- [ ] B) 10.
   <!-- feedback: Incorrecto. Tomaste la mitad. -->
-- [ ] D) 80.
+- [ ] C) 80.
   <!-- feedback: Incorrecto. Multiplicaste. -->
 ### Explicacion Pedagogica
 El número de unidades se obtiene dividiendo el área total entre el área de cada unidad.
@@ -214,9 +214,9 @@ El número de unidades se obtiene dividiendo el área total entre el área de ca
 ### Opciones
 - [ ] A) Solo para aprobar exámenes.
   <!-- feedback: Incorrecto. Tiene aplicaciones reales. -->
-- [x] B) Para planificar construcción, sembrar cultivos y administrar espacios.
+- [x] C) Para planificar construcción, sembrar cultivos y administrar espacios.
   <!-- feedback: Correcto. Es una herramienta práctica. -->
-- [ ] C) Para evitar el deporte.
+- [ ] B) Para evitar el deporte.
   <!-- feedback: Incorrecto. No tiene relación. -->
 - [ ] D) Para dibujar mejor.
   <!-- feedback: Es secundario. -->

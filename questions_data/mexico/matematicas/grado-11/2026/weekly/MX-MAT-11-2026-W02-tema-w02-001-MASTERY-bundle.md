@@ -76,13 +76,13 @@ Aplicamos la regla de potencia de un producto: (x^m * y^n)^p = x^(m*p) * y^(n*p)
 Agrupa y simplifica los términos semejantes de la siguiente expresión: 5x² - 3x + 2x² - 8 + 7x - 4.
 
 ### Opciones
-- [x] A) 7x² + 4x - 12
+- [x] D) 7x² + 4x - 12
   <!-- feedback: ¡Correcto! Agrupando los términos semejantes: (5x² + 2x²) = 7x²; (-3x + 7x) = 4x; (-8 - 4) = -12. Obtenemos 7x² + 4x - 12. -->
-- [ ] B) 7x² - 4x - 12
+- [ ] A) 7x² - 4x - 12
   <!-- feedback: Incorrecto. Error de signo al sumar los términos con variable x. -->
-- [ ] C) 3x² + 4x - 12
+- [ ] B) 3x² + 4x - 12
   <!-- feedback: Incorrecto. Se restaron los coeficientes de x² en lugar de sumarlos. -->
-- [ ] D) 7x² + 4x - 4
+- [ ] C) 7x² + 4x - 4
   <!-- feedback: Incorrecto. Se restó incorrectamente la constante al final de la expresión. -->
 
 ### Explicacion Pedagogica
@@ -99,9 +99,9 @@ La simplificación requiere agrupar coeficientes de las mismas potencias de x. P
 Factoriza completamente la expresión de diferencia de cuadrados: 16y² - 49.
 
 ### Opciones
-- [x] A) (4y - 7)(4y + 7)
+- [x] B) (4y - 7)(4y + 7)
   <!-- feedback: ¡Correcto! Una diferencia de cuadrados se factoriza como binomios conjugados de la forma (a - b)(a + b), donde a = 4y y b = 7. -->
-- [ ] B) (4y - 7)²
+- [ ] A) (4y - 7)²
   <!-- feedback: Incorrecto. Este es el desarrollo de un binomio al cuadrado que daría un trinomio cuadrado perfecto. -->
 - [ ] C) (8y - 7)(8y + 7)
   <!-- feedback: Incorrecto. La raíz cuadrada de 16 es 4, no 8. -->
@@ -122,13 +122,13 @@ La regla de la diferencia de cuadrados indica que a² - b² = (a - b)(a + b). En
 Si un polinomio se define como P(x) = 5x² - 3x + 5, ¿cuál es el resultado de evaluar P(2)?
 
 ### Opciones
-- [x] A) 19
+- [x] D) 19
   <!-- feedback: ¡Correcto! Evaluando x=2 en la función polinomial se obtiene el resultado exacto. -->
-- [ ] B) 31
+- [ ] A) 31
   <!-- feedback: Incorrecto. Error de signo al multiplicar por el término lineal. -->
-- [ ] C) 12
+- [ ] B) 12
   <!-- feedback: Incorrecto. Se sustituyó la base sin elevar al cuadrado. -->
-- [ ] D) 9
+- [ ] C) 9
   <!-- feedback: Incorrecto. Se restó la constante en lugar de sumarla. -->
 
 ### Explicacion Pedagogica
@@ -145,13 +145,13 @@ Para evaluar un polinomio P(x) en x = a, sustituimos cada aparición de x por a.
 Si un polinomio se define como P(x) = 6x² - 3x + 5, ¿cuál es el resultado de evaluar P(2)?
 
 ### Opciones
-- [x] A) 23
+- [x] D) 23
   <!-- feedback: ¡Correcto! Evaluando x=2 en la función polinomial se obtiene el resultado exacto. -->
-- [ ] B) 35
+- [ ] A) 35
   <!-- feedback: Incorrecto. Error de signo al multiplicar por el término lineal. -->
-- [ ] C) 14
+- [ ] B) 14
   <!-- feedback: Incorrecto. Se sustituyó la base sin elevar al cuadrado. -->
-- [ ] D) 13
+- [ ] C) 13
   <!-- feedback: Incorrecto. Se restó la constante en lugar de sumarla. -->
 
 ### Explicacion Pedagogica
@@ -168,9 +168,9 @@ Para evaluar un polinomio P(x) en x = a, sustituimos cada aparición de x por a.
 Si un polinomio se define como P(x) = 7x² - 3x + 5, ¿cuál es el resultado de evaluar P(2)?
 
 ### Opciones
-- [x] A) 27
+- [x] B) 27
   <!-- feedback: ¡Correcto! Evaluando x=2 en la función polinomial se obtiene el resultado exacto. -->
-- [ ] B) 39
+- [ ] A) 39
   <!-- feedback: Incorrecto. Error de signo al multiplicar por el término lineal. -->
 - [ ] C) 16
   <!-- feedback: Incorrecto. Se sustituyó la base sin elevar al cuadrado. -->
@@ -191,11 +191,11 @@ Para evaluar un polinomio P(x) en x = a, sustituimos cada aparición de x por a.
 Si un polinomio se define como P(x) = 8x² - 3x + 5, ¿cuál es el resultado de evaluar P(2)?
 
 ### Opciones
-- [x] A) 31
+- [x] C) 31
   <!-- feedback: ¡Correcto! Evaluando x=2 en la función polinomial se obtiene el resultado exacto. -->
-- [ ] B) 43
+- [ ] A) 43
   <!-- feedback: Incorrecto. Error de signo al multiplicar por el término lineal. -->
-- [ ] C) 18
+- [ ] B) 18
   <!-- feedback: Incorrecto. Se sustituyó la base sin elevar al cuadrado. -->
 - [ ] D) 21
   <!-- feedback: Incorrecto. Se restó la constante en lugar de sumarla. -->
@@ -214,11 +214,11 @@ Para evaluar un polinomio P(x) en x = a, sustituimos cada aparición de x por a.
 Si un polinomio se define como P(x) = 9x² - 3x + 5, ¿cuál es el resultado de evaluar P(2)?
 
 ### Opciones
-- [x] A) 35
+- [x] C) 35
   <!-- feedback: ¡Correcto! Evaluando x=2 en la función polinomial se obtiene el resultado exacto. -->
-- [ ] B) 47
+- [ ] A) 47
   <!-- feedback: Incorrecto. Error de signo al multiplicar por el término lineal. -->
-- [ ] C) 20
+- [ ] B) 20
   <!-- feedback: Incorrecto. Se sustituyó la base sin elevar al cuadrado. -->
 - [ ] D) 25
   <!-- feedback: Incorrecto. Se restó la constante en lugar de sumarla. -->
@@ -237,13 +237,13 @@ Para evaluar un polinomio P(x) en x = a, sustituimos cada aparición de x por a.
 Si un polinomio se define como P(x) = 10x² - 3x + 5, ¿cuál es el resultado de evaluar P(2)?
 
 ### Opciones
-- [x] A) 39
+- [x] D) 39
   <!-- feedback: ¡Correcto! Evaluando x=2 en la función polinomial se obtiene el resultado exacto. -->
-- [ ] B) 51
+- [ ] A) 51
   <!-- feedback: Incorrecto. Error de signo al multiplicar por el término lineal. -->
-- [ ] C) 22
+- [ ] B) 22
   <!-- feedback: Incorrecto. Se sustituyó la base sin elevar al cuadrado. -->
-- [ ] D) 29
+- [ ] C) 29
   <!-- feedback: Incorrecto. Se restó la constante en lugar de sumarla. -->
 
 ### Explicacion Pedagogica
@@ -260,9 +260,9 @@ Para evaluar un polinomio P(x) en x = a, sustituimos cada aparición de x por a.
 Si un polinomio se define como P(x) = 11x² - 3x + 5, ¿cuál es el resultado de evaluar P(2)?
 
 ### Opciones
-- [x] A) 43
+- [x] B) 43
   <!-- feedback: ¡Correcto! Evaluando x=2 en la función polinomial se obtiene el resultado exacto. -->
-- [ ] B) 55
+- [ ] A) 55
   <!-- feedback: Incorrecto. Error de signo al multiplicar por el término lineal. -->
 - [ ] C) 24
   <!-- feedback: Incorrecto. Se sustituyó la base sin elevar al cuadrado. -->
@@ -306,11 +306,11 @@ Para evaluar un polinomio P(x) en x = a, sustituimos cada aparición de x por a.
 Si un polinomio se define como P(x) = 13x² - 3x + 5, ¿cuál es el resultado de evaluar P(2)?
 
 ### Opciones
-- [x] A) 51
+- [x] C) 51
   <!-- feedback: ¡Correcto! Evaluando x=2 en la función polinomial se obtiene el resultado exacto. -->
-- [ ] B) 63
+- [ ] A) 63
   <!-- feedback: Incorrecto. Error de signo al multiplicar por el término lineal. -->
-- [ ] C) 28
+- [ ] B) 28
   <!-- feedback: Incorrecto. Se sustituyó la base sin elevar al cuadrado. -->
 - [ ] D) 41
   <!-- feedback: Incorrecto. Se restó la constante en lugar de sumarla. -->
@@ -329,11 +329,11 @@ Para evaluar un polinomio P(x) en x = a, sustituimos cada aparición de x por a.
 Si un polinomio se define como P(x) = 14x² - 3x + 5, ¿cuál es el resultado de evaluar P(2)?
 
 ### Opciones
-- [x] A) 55
+- [x] C) 55
   <!-- feedback: ¡Correcto! Evaluando x=2 en la función polinomial se obtiene el resultado exacto. -->
-- [ ] B) 67
+- [ ] A) 67
   <!-- feedback: Incorrecto. Error de signo al multiplicar por el término lineal. -->
-- [ ] C) 30
+- [ ] B) 30
   <!-- feedback: Incorrecto. Se sustituyó la base sin elevar al cuadrado. -->
 - [ ] D) 45
   <!-- feedback: Incorrecto. Se restó la constante en lugar de sumarla. -->
@@ -352,9 +352,9 @@ Para evaluar un polinomio P(x) en x = a, sustituimos cada aparición de x por a.
 Si un polinomio se define como P(x) = 15x² - 3x + 5, ¿cuál es el resultado de evaluar P(2)?
 
 ### Opciones
-- [x] A) 59
+- [x] B) 59
   <!-- feedback: ¡Correcto! Evaluando x=2 en la función polinomial se obtiene el resultado exacto. -->
-- [ ] B) 71
+- [ ] A) 71
   <!-- feedback: Incorrecto. Error de signo al multiplicar por el término lineal. -->
 - [ ] C) 32
   <!-- feedback: Incorrecto. Se sustituyó la base sin elevar al cuadrado. -->
@@ -375,9 +375,9 @@ Para evaluar un polinomio P(x) en x = a, sustituimos cada aparición de x por a.
 Si un polinomio se define como P(x) = 16x² - 3x + 5, ¿cuál es el resultado de evaluar P(2)?
 
 ### Opciones
-- [x] A) 63
+- [x] B) 63
   <!-- feedback: ¡Correcto! Evaluando x=2 en la función polinomial se obtiene el resultado exacto. -->
-- [ ] B) 75
+- [ ] A) 75
   <!-- feedback: Incorrecto. Error de signo al multiplicar por el término lineal. -->
 - [ ] C) 34
   <!-- feedback: Incorrecto. Se sustituyó la base sin elevar al cuadrado. -->
@@ -398,11 +398,11 @@ Para evaluar un polinomio P(x) en x = a, sustituimos cada aparición de x por a.
 Si un polinomio se define como P(x) = 17x² - 3x + 5, ¿cuál es el resultado de evaluar P(2)?
 
 ### Opciones
-- [x] A) 67
+- [x] C) 67
   <!-- feedback: ¡Correcto! Evaluando x=2 en la función polinomial se obtiene el resultado exacto. -->
-- [ ] B) 79
+- [ ] A) 79
   <!-- feedback: Incorrecto. Error de signo al multiplicar por el término lineal. -->
-- [ ] C) 36
+- [ ] B) 36
   <!-- feedback: Incorrecto. Se sustituyó la base sin elevar al cuadrado. -->
 - [ ] D) 57
   <!-- feedback: Incorrecto. Se restó la constante en lugar de sumarla. -->
@@ -421,9 +421,9 @@ Para evaluar un polinomio P(x) en x = a, sustituimos cada aparición de x por a.
 Si un polinomio se define como P(x) = 18x² - 3x + 5, ¿cuál es el resultado de evaluar P(2)?
 
 ### Opciones
-- [x] A) 71
+- [x] B) 71
   <!-- feedback: ¡Correcto! Evaluando x=2 en la función polinomial se obtiene el resultado exacto. -->
-- [ ] B) 83
+- [ ] A) 83
   <!-- feedback: Incorrecto. Error de signo al multiplicar por el término lineal. -->
 - [ ] C) 38
   <!-- feedback: Incorrecto. Se sustituyó la base sin elevar al cuadrado. -->
@@ -467,13 +467,13 @@ Para evaluar un polinomio P(x) en x = a, sustituimos cada aparición de x por a.
 Si un polinomio se define como P(x) = 20x² - 3x + 5, ¿cuál es el resultado de evaluar P(2)?
 
 ### Opciones
-- [x] A) 79
+- [x] D) 79
   <!-- feedback: ¡Correcto! Evaluando x=2 en la función polinomial se obtiene el resultado exacto. -->
-- [ ] B) 91
+- [ ] A) 91
   <!-- feedback: Incorrecto. Error de signo al multiplicar por el término lineal. -->
-- [ ] C) 42
+- [ ] B) 42
   <!-- feedback: Incorrecto. Se sustituyó la base sin elevar al cuadrado. -->
-- [ ] D) 69
+- [ ] C) 69
   <!-- feedback: Incorrecto. Se restó la constante en lugar de sumarla. -->
 
 ### Explicacion Pedagogica

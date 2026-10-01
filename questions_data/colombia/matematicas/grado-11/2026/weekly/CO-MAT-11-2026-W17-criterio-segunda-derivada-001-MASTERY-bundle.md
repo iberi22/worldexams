@@ -35,9 +35,9 @@ alineadas con los DBA del MEN Colombia y el marco de evaluación Saber 11 del IC
 Dada la segunda derivada $f''(x) = 6x - 6$, determine en qué intervalo la función $f(x)$ es concava hacia arriba (cóncava positiva).
 
 ### Opciones
-- [x] A) En el intervalo $(1, \infty)$
+- [x] B) En el intervalo $(1, \infty)$
   <!-- feedback: Correcto: f''(x) > 0 define el intervalo de concavidad hacia arriba. -->
-- [ ] B) En el intervalo $(-\infty, 1)$
+- [ ] A) En el intervalo $(-\infty, 1)$
   <!-- feedback: Incorrecto: en ese intervalo f''(x) < 0 (concavidad hacia abajo). -->
 - [ ] C) Únicamente en el punto $x = 1$
   <!-- feedback: Incorrecto: en x = c la segunda derivada vale 0 (punto de inflexión). -->
@@ -58,13 +58,13 @@ La función es cóncava hacia arriba cuando $f''(x) > 0$. Resolviendo $6x - 6 > 
 Dada la segunda derivada $f''(x) = 6x - 12$, determine en qué intervalo la función $f(x)$ es concava hacia arriba (cóncava positiva).
 
 ### Opciones
-- [x] A) En el intervalo $(2, \infty)$
+- [x] D) En el intervalo $(2, \infty)$
   <!-- feedback: Correcto: f''(x) > 0 define el intervalo de concavidad hacia arriba. -->
-- [ ] B) En el intervalo $(-\infty, 2)$
+- [ ] A) En el intervalo $(-\infty, 2)$
   <!-- feedback: Incorrecto: en ese intervalo f''(x) < 0 (concavidad hacia abajo). -->
-- [ ] C) Únicamente en el punto $x = 2$
+- [ ] B) Únicamente en el punto $x = 2$
   <!-- feedback: Incorrecto: en x = c la segunda derivada vale 0 (punto de inflexión). -->
-- [ ] D) En todo el conjunto de los números reales
+- [ ] C) En todo el conjunto de los números reales
   <!-- feedback: Incorrecto: el signo de f'' varía a los lados de x = c. -->
 
 ### Explicacion Pedagogica
@@ -81,13 +81,13 @@ La función es cóncava hacia arriba cuando $f''(x) > 0$. Resolviendo $6x - 12 >
 Dada la segunda derivada $f''(x) = 6x - 18$, determine en qué intervalo la función $f(x)$ es concava hacia arriba (cóncava positiva).
 
 ### Opciones
-- [x] A) En el intervalo $(3, \infty)$
+- [x] D) En el intervalo $(3, \infty)$
   <!-- feedback: Correcto: f''(x) > 0 define el intervalo de concavidad hacia arriba. -->
-- [ ] B) En el intervalo $(-\infty, 3)$
+- [ ] A) En el intervalo $(-\infty, 3)$
   <!-- feedback: Incorrecto: en ese intervalo f''(x) < 0 (concavidad hacia abajo). -->
-- [ ] C) Únicamente en el punto $x = 3$
+- [ ] B) Únicamente en el punto $x = 3$
   <!-- feedback: Incorrecto: en x = c la segunda derivada vale 0 (punto de inflexión). -->
-- [ ] D) En todo el conjunto de los números reales
+- [ ] C) En todo el conjunto de los números reales
   <!-- feedback: Incorrecto: el signo de f'' varía a los lados de x = c. -->
 
 ### Explicacion Pedagogica
@@ -127,11 +127,11 @@ La función es cóncava hacia arriba cuando $f''(x) > 0$. Resolviendo $6x - 24 >
 Dada la segunda derivada $f''(x) = 6x - 30$, determine en qué intervalo la función $f(x)$ es concava hacia arriba (cóncava positiva).
 
 ### Opciones
-- [x] A) En el intervalo $(5, \infty)$
+- [x] C) En el intervalo $(5, \infty)$
   <!-- feedback: Correcto: f''(x) > 0 define el intervalo de concavidad hacia arriba. -->
-- [ ] B) En el intervalo $(-\infty, 5)$
+- [ ] A) En el intervalo $(-\infty, 5)$
   <!-- feedback: Incorrecto: en ese intervalo f''(x) < 0 (concavidad hacia abajo). -->
-- [ ] C) Únicamente en el punto $x = 5$
+- [ ] B) Únicamente en el punto $x = 5$
   <!-- feedback: Incorrecto: en x = c la segunda derivada vale 0 (punto de inflexión). -->
 - [ ] D) En todo el conjunto de los números reales
   <!-- feedback: Incorrecto: el signo de f'' varía a los lados de x = c. -->
@@ -150,9 +150,9 @@ La función es cóncava hacia arriba cuando $f''(x) > 0$. Resolviendo $6x - 30 >
 Dada la segunda derivada $f''(x) = 6x - 36$, determine en qué intervalo la función $f(x)$ es concava hacia arriba (cóncava positiva).
 
 ### Opciones
-- [x] A) En el intervalo $(6, \infty)$
+- [x] B) En el intervalo $(6, \infty)$
   <!-- feedback: Correcto: f''(x) > 0 define el intervalo de concavidad hacia arriba. -->
-- [ ] B) En el intervalo $(-\infty, 6)$
+- [ ] A) En el intervalo $(-\infty, 6)$
   <!-- feedback: Incorrecto: en ese intervalo f''(x) < 0 (concavidad hacia abajo). -->
 - [ ] C) Únicamente en el punto $x = 6$
   <!-- feedback: Incorrecto: en x = c la segunda derivada vale 0 (punto de inflexión). -->
@@ -173,9 +173,9 @@ La función es cóncava hacia arriba cuando $f''(x) > 0$. Resolviendo $6x - 36 >
 Dada la segunda derivada $f''(x) = 6x - 42$, determine en qué intervalo la función $f(x)$ es concava hacia arriba (cóncava positiva).
 
 ### Opciones
-- [x] A) En el intervalo $(7, \infty)$
+- [x] B) En el intervalo $(7, \infty)$
   <!-- feedback: Correcto: f''(x) > 0 define el intervalo de concavidad hacia arriba. -->
-- [ ] B) En el intervalo $(-\infty, 7)$
+- [ ] A) En el intervalo $(-\infty, 7)$
   <!-- feedback: Incorrecto: en ese intervalo f''(x) < 0 (concavidad hacia abajo). -->
 - [ ] C) Únicamente en el punto $x = 7$
   <!-- feedback: Incorrecto: en x = c la segunda derivada vale 0 (punto de inflexión). -->
@@ -219,11 +219,11 @@ La función es cóncava hacia arriba cuando $f''(x) > 0$. Resolviendo $6x - 48 >
 Dada la segunda derivada $f''(x) = 6x - 54$, determine en qué intervalo la función $f(x)$ es concava hacia arriba (cóncava positiva).
 
 ### Opciones
-- [x] A) En el intervalo $(9, \infty)$
+- [x] C) En el intervalo $(9, \infty)$
   <!-- feedback: Correcto: f''(x) > 0 define el intervalo de concavidad hacia arriba. -->
-- [ ] B) En el intervalo $(-\infty, 9)$
+- [ ] A) En el intervalo $(-\infty, 9)$
   <!-- feedback: Incorrecto: en ese intervalo f''(x) < 0 (concavidad hacia abajo). -->
-- [ ] C) Únicamente en el punto $x = 9$
+- [ ] B) Únicamente en el punto $x = 9$
   <!-- feedback: Incorrecto: en x = c la segunda derivada vale 0 (punto de inflexión). -->
 - [ ] D) En todo el conjunto de los números reales
   <!-- feedback: Incorrecto: el signo de f'' varía a los lados de x = c. -->
@@ -242,9 +242,9 @@ La función es cóncava hacia arriba cuando $f''(x) > 0$. Resolviendo $6x - 54 >
 Dada la segunda derivada $f''(x) = 6x - 60$, determine en qué intervalo la función $f(x)$ es concava hacia arriba (cóncava positiva).
 
 ### Opciones
-- [x] A) En el intervalo $(10, \infty)$
+- [x] B) En el intervalo $(10, \infty)$
   <!-- feedback: Correcto: f''(x) > 0 define el intervalo de concavidad hacia arriba. -->
-- [ ] B) En el intervalo $(-\infty, 10)$
+- [ ] A) En el intervalo $(-\infty, 10)$
   <!-- feedback: Incorrecto: en ese intervalo f''(x) < 0 (concavidad hacia abajo). -->
 - [ ] C) Únicamente en el punto $x = 10$
   <!-- feedback: Incorrecto: en x = c la segunda derivada vale 0 (punto de inflexión). -->
@@ -265,13 +265,13 @@ La función es cóncava hacia arriba cuando $f''(x) > 0$. Resolviendo $6x - 60 >
 Dada la segunda derivada $f''(x) = 6x - 66$, determine en qué intervalo la función $f(x)$ es concava hacia arriba (cóncava positiva).
 
 ### Opciones
-- [x] A) En el intervalo $(11, \infty)$
+- [x] D) En el intervalo $(11, \infty)$
   <!-- feedback: Correcto: f''(x) > 0 define el intervalo de concavidad hacia arriba. -->
-- [ ] B) En el intervalo $(-\infty, 11)$
+- [ ] A) En el intervalo $(-\infty, 11)$
   <!-- feedback: Incorrecto: en ese intervalo f''(x) < 0 (concavidad hacia abajo). -->
-- [ ] C) Únicamente en el punto $x = 11$
+- [ ] B) Únicamente en el punto $x = 11$
   <!-- feedback: Incorrecto: en x = c la segunda derivada vale 0 (punto de inflexión). -->
-- [ ] D) En todo el conjunto de los números reales
+- [ ] C) En todo el conjunto de los números reales
   <!-- feedback: Incorrecto: el signo de f'' varía a los lados de x = c. -->
 
 ### Explicacion Pedagogica
@@ -311,9 +311,9 @@ La función es cóncava hacia arriba cuando $f''(x) > 0$. Resolviendo $6x - 72 >
 Dada la segunda derivada $f''(x) = 6x - 78$, determine en qué intervalo la función $f(x)$ es concava hacia arriba (cóncava positiva).
 
 ### Opciones
-- [x] A) En el intervalo $(13, \infty)$
+- [x] B) En el intervalo $(13, \infty)$
   <!-- feedback: Correcto: f''(x) > 0 define el intervalo de concavidad hacia arriba. -->
-- [ ] B) En el intervalo $(-\infty, 13)$
+- [ ] A) En el intervalo $(-\infty, 13)$
   <!-- feedback: Incorrecto: en ese intervalo f''(x) < 0 (concavidad hacia abajo). -->
 - [ ] C) Únicamente en el punto $x = 13$
   <!-- feedback: Incorrecto: en x = c la segunda derivada vale 0 (punto de inflexión). -->
@@ -380,9 +380,9 @@ La función es cóncava hacia arriba cuando $f''(x) > 0$. Resolviendo $6x - 90 >
 Dada la segunda derivada $f''(x) = 6x - 96$, determine en qué intervalo la función $f(x)$ es concava hacia arriba (cóncava positiva).
 
 ### Opciones
-- [x] A) En el intervalo $(16, \infty)$
+- [x] B) En el intervalo $(16, \infty)$
   <!-- feedback: Correcto: f''(x) > 0 define el intervalo de concavidad hacia arriba. -->
-- [ ] B) En el intervalo $(-\infty, 16)$
+- [ ] A) En el intervalo $(-\infty, 16)$
   <!-- feedback: Incorrecto: en ese intervalo f''(x) < 0 (concavidad hacia abajo). -->
 - [ ] C) Únicamente en el punto $x = 16$
   <!-- feedback: Incorrecto: en x = c la segunda derivada vale 0 (punto de inflexión). -->
@@ -403,13 +403,13 @@ La función es cóncava hacia arriba cuando $f''(x) > 0$. Resolviendo $6x - 96 >
 Dada la segunda derivada $f''(x) = 6x - 102$, determine en qué intervalo la función $f(x)$ es concava hacia arriba (cóncava positiva).
 
 ### Opciones
-- [x] A) En el intervalo $(17, \infty)$
+- [x] D) En el intervalo $(17, \infty)$
   <!-- feedback: Correcto: f''(x) > 0 define el intervalo de concavidad hacia arriba. -->
-- [ ] B) En el intervalo $(-\infty, 17)$
+- [ ] A) En el intervalo $(-\infty, 17)$
   <!-- feedback: Incorrecto: en ese intervalo f''(x) < 0 (concavidad hacia abajo). -->
-- [ ] C) Únicamente en el punto $x = 17$
+- [ ] B) Únicamente en el punto $x = 17$
   <!-- feedback: Incorrecto: en x = c la segunda derivada vale 0 (punto de inflexión). -->
-- [ ] D) En todo el conjunto de los números reales
+- [ ] C) En todo el conjunto de los números reales
   <!-- feedback: Incorrecto: el signo de f'' varía a los lados de x = c. -->
 
 ### Explicacion Pedagogica
@@ -426,9 +426,9 @@ La función es cóncava hacia arriba cuando $f''(x) > 0$. Resolviendo $6x - 102 
 Dada la segunda derivada $f''(x) = 6x - 108$, determine en qué intervalo la función $f(x)$ es concava hacia arriba (cóncava positiva).
 
 ### Opciones
-- [x] A) En el intervalo $(18, \infty)$
+- [x] B) En el intervalo $(18, \infty)$
   <!-- feedback: Correcto: f''(x) > 0 define el intervalo de concavidad hacia arriba. -->
-- [ ] B) En el intervalo $(-\infty, 18)$
+- [ ] A) En el intervalo $(-\infty, 18)$
   <!-- feedback: Incorrecto: en ese intervalo f''(x) < 0 (concavidad hacia abajo). -->
 - [ ] C) Únicamente en el punto $x = 18$
   <!-- feedback: Incorrecto: en x = c la segunda derivada vale 0 (punto de inflexión). -->

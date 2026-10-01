@@ -38,11 +38,11 @@ This comprehensive review bundle covers the main grammatical and lexical topics 
 ### Opciones
 - [ ] A) ride
   <!-- feedback: Incorrect. Needs third person 's'. -->
-- [x] B) rides
+- [x] D) rides
   <!-- feedback: Correct! Present Simple third person. -->
-- [ ] C) riding
+- [ ] B) riding
   <!-- feedback: Incorrect. Continuous form. -->
-- [ ] D) is ride
+- [ ] C) is ride
   <!-- feedback: Incorrect structure. -->
 
 ### Explicacion Pedagogica
@@ -61,9 +61,9 @@ The student identifies the correct present simple conjugation for a singular sub
 "We ________ very happy with the results of the final project last week."
 
 ### Opciones
-- [ ] A) was
+- [ ] B) was
   <!-- feedback: Incorrect. "We" is plural. -->
-- [x] B) were
+- [x] A) were
   <!-- feedback: Correct! Past plural of "to be". -->
 - [ ] C) are
   <!-- feedback: Incorrect. Present tense. -->
@@ -86,13 +86,13 @@ The student remembers the past conjugation of "to be" for plural subjects.
 "If you feel sick, you ________ go to the doctor."
 
 ### Opciones
-- [x] A) should
+- [x] D) should
   <!-- feedback: Correct! Modal for giving advice. -->
-- [ ] B) mustn't
+- [ ] A) mustn't
   <!-- feedback: Incorrect. Contradicts the advice. -->
-- [ ] C) shouldn't
+- [ ] B) shouldn't
   <!-- feedback: Incorrect. Contradicts the advice. -->
-- [ ] D) will
+- [ ] C) will
   <!-- feedback: Incorrect. Not the standard modal for advice. -->
 
 ### Explicacion Pedagogica
@@ -111,9 +111,9 @@ The student understands the communicative function of "should".
 "I ________ buy a new computer next month."
 
 ### Opciones
-- [ ] A) am going
+- [ ] B) am going
   <!-- feedback: Incorrect. Missing "to". -->
-- [x] B) am going to
+- [x] A) am going to
   <!-- feedback: Correct! Future plan/intention. -->
 - [ ] C) going to
   <!-- feedback: Incorrect. Missing auxiliary. -->
@@ -162,11 +162,11 @@ The student applies the "interrupted past action" rule.
 Which of Lucia's achievements is mentioned as a specific event in the past?
 
 ### Opciones
-- [ ] A) Visiting five countries.
+- [ ] B) Visiting five countries.
   <!-- feedback: Incorrect. This is a general life experience (Present Perfect). -->
-- [ ] B) Speaking three languages.
+- [ ] C) Speaking three languages.
   <!-- feedback: Incorrect. This is a current ability (Present Simple). -->
-- [x] C) Winning a science prize.
+- [x] A) Winning a science prize.
   <!-- feedback: Correct! This is a specific past event ("Last year... won"). -->
 - [ ] D) Traveling next year.
   <!-- feedback: Incorrect. Not mentioned. -->
@@ -187,13 +187,13 @@ The student applies reading strategies to distinguish between general experience
 "You ________ be quiet in the library; it is a rule."
 
 ### Opciones
-- [x] A) must
+- [x] D) must
   <!-- feedback: Correct! Strong obligation/rule. -->
-- [ ] B) don't have to
+- [ ] A) don't have to
   <!-- feedback: Incorrect. It is mandatory. -->
-- [ ] C) shouldn't
+- [ ] B) shouldn't
   <!-- feedback: Incorrect. Contradicts the rule. -->
-- [ ] D) can
+- [ ] C) can
   <!-- feedback: Incorrect. While possible, "must" is better for rules. -->
 
 ### Explicacion Pedagogica
@@ -214,11 +214,11 @@ Choose the grammatically perfect sentence.
 ### Opciones
 - [ ] A) I have already did my homework.
   <!-- feedback: Incorrect participle. -->
-- [x] B) I have already done my homework.
+- [x] D) I have already done my homework.
   <!-- feedback: Correct! Auxiliary + participle "done". -->
-- [ ] C) I has already done my homework.
+- [ ] B) I has already done my homework.
   <!-- feedback: Incorrect auxiliary for "I". -->
-- [ ] D) I have already do my homework.
+- [ ] C) I have already do my homework.
   <!-- feedback: Incorrect verb form. -->
 
 ### Explicacion Pedagogica
@@ -238,13 +238,13 @@ The student analyzes the Present Perfect structure for grammatical accuracy.
 What can we analyze about Andrés and Mateo?
 
 ### Opciones
-- [x] A) They have different athletic skills and Andrés has a specific plan for his sport.
+- [x] D) They have different athletic skills and Andrés has a specific plan for his sport.
   <!-- feedback: Correct! Soccer vs swimming (different skills) and Andrés joining the team (plan). -->
-- [ ] B) Mateo is going to join the soccer team.
+- [ ] A) Mateo is going to join the soccer team.
   <!-- feedback: Incorrect. Andrés is. -->
-- [ ] C) Neither of them likes sports.
+- [ ] B) Neither of them likes sports.
   <!-- feedback: Incorrect. Both are athletic. -->
-- [ ] D) Andrés is a swimmer.
+- [ ] C) Andrés is a swimmer.
   <!-- feedback: Incorrect. Mateo is. -->
 
 ### Explicacion Pedagogica

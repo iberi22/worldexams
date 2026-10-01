@@ -72,9 +72,9 @@ La escala gráfica es un segmento dibujado que se modifica junto con el plano, d
 ### Enunciado
 ¿Cuál es la distancia real, en kilómetros, entre las dos ciudades?
 ### Opciones
-- [x] A) $90$ km, porque $4.5 \times 2000000 = 9000000$ cm $= 90$ km.
+- [x] B) $90$ km, porque $4.5 \times 2000000 = 9000000$ cm $= 90$ km.
   <!-- feedback: Correcto. Multiplicas la medida del mapa por la escala y conviertes centímetros a kilómetros dividiendo entre $100000$. -->
-- [ ] B) $900$ km, porque se multiplicó por la escala sin convertir unidades.
+- [ ] A) $900$ km, porque se multiplicó por la escala sin convertir unidades.
   <!-- feedback: Incorrecto. $9000000$ cm son $90$ km, no $900$ km; falta la conversión de cm a km. -->
 - [ ] C) $4.5$ km, porque se mantuvo la misma cifra del mapa.
   <!-- feedback: Incorrecto. El mapa reduce la realidad; $4.5$ cm representan mucho más que $4.5$ km. -->
@@ -92,11 +92,11 @@ Se aplica la fórmula $\text{distancia real} = \text{distancia en el mapa} \time
 ### Enunciado
 ¿Cuántos centímetros debe medir el tramo Pereira–Armenia en el mapa?
 ### Opciones
-- [x] A) $5$ cm, porque $50$ km $= 5000000$ cm y $5000000 \div 1000000 = 5$.
+- [x] C) $5$ cm, porque $50$ km $= 5000000$ cm y $5000000 \div 1000000 = 5$.
   <!-- feedback: Correcto. Conviertes kilómetros a centímetros y divides entre el denominador de la escala. -->
-- [ ] B) $50$ cm, porque se mantuvo el número de kilómetros como si fueran centímetros.
+- [ ] A) $50$ cm, porque se mantuvo el número de kilómetros como si fueran centímetros.
   <!-- feedback: Incorrecto. $50$ km son $5000000$ cm, no $50$ cm; hay que convertir unidades antes de dividir. -->
-- [ ] C) $0.5$ cm, porque se dividió entre $100$ en vez de entre $1000000$.
+- [ ] B) $0.5$ cm, porque se dividió entre $100$ en vez de entre $1000000$.
   <!-- feedback: Incorrecto. La división correcta es entre $1000000$, lo que da $5$ cm. -->
 - [ ] D) $500$ cm, porque se multiplicó la distancia por la escala en lugar de dividir.
   <!-- feedback: Incorrecto. Multiplicar agranda; lo correcto es dividir la distancia real entre la escala. -->
@@ -112,11 +112,11 @@ Para pasar de distancia real a distancia en el mapa se divide entre la escala. P
 ### Enunciado
 ¿Cuál es el área real de la sala, en metros cuadrados?
 ### Opciones
-- [x] A) $10$ m², porque el largo real es $4$ m, el ancho real es $2.5$ m y $4 \times 2.5 = 10$.
+- [x] C) $10$ m², porque el largo real es $4$ m, el ancho real es $2.5$ m y $4 \times 2.5 = 10$.
   <!-- feedback: Correcto. Multiplicas cada dimensión por $50$ para pasar de cm a cm reales, luego conviertes a metros y calculas el área. -->
-- [ ] B) $13$ m², porque se sumaron $8 + 5$ y se multiplicó por la escala.
+- [ ] A) $13$ m², porque se sumaron $8 + 5$ y se multiplicó por la escala.
   <!-- feedback: Incorrecto. El área de un rectángulo es largo por ancho, no la suma de los lados. -->
-- [ ] C) $40$ m², porque se usó solo el largo y se multiplicó por la escala.
+- [ ] B) $40$ m², porque se usó solo el largo y se multiplicó por la escala.
   <!-- feedback: Incorrecto. $40$ sería el área en cm² del plano, no el área real en m². -->
 - [ ] D) $6.5$ m², porque se promediaron las dos dimensiones del plano.
   <!-- feedback: Incorrecto. El promedio de $8$ y $5$ no representa el área de un rectángulo. -->
@@ -132,13 +132,13 @@ A escala $1:50$, cada centímetro del plano representa $50$ cm reales, es decir,
 ### Enunciado
 ¿Cuál es la longitud real de esa pared en el edificio?
 ### Opciones
-- [x] A) $12$ m, porque $12 \times 100 = 1200$ cm $= 12$ m.
+- [x] D) $12$ m, porque $12 \times 100 = 1200$ cm $= 12$ m.
   <!-- feedback: Correcto. Multiplicas la medida de la maqueta por el denominador de la escala y luego conviertes a metros. -->
-- [ ] B) $1.2$ m, porque se dividió entre $100$ en vez de multiplicar.
+- [ ] A) $1.2$ m, porque se dividió entre $100$ en vez de multiplicar.
   <!-- feedback: Incorrecto. La maqueta es más pequeña que el edificio real; debes multiplicar, no dividir. -->
-- [ ] C) $120$ m, porque se multiplicó por $1000$ en vez de por $100$.
+- [ ] B) $120$ m, porque se multiplicó por $1000$ en vez de por $100$.
   <!-- feedback: Incorrecto. El factor correcto es $100$, no $1000$; además luego se convierte a metros. -->
-- [ ] D) $0.12$ m, porque se mantuvo el valor en cm sin conversión a metros.
+- [ ] C) $0.12$ m, porque se mantuvo el valor en cm sin conversión a metros.
   <!-- feedback: Incorrecto. $0.12$ m son $12$ cm, que es la medida de la maqueta, no la del edificio real. -->
 ### Explicacion Pedagogica
 A escala $1:100$, cada centímetro de la maqueta corresponde a $100$ cm reales, esto es, $1$ m. Por tanto, $12$ cm en la maqueta equivalen a $12 \times 1$ m $= 12$ m en el edificio original.
@@ -172,11 +172,11 @@ Una escala con denominador menor (como $1:500000$) se considera grande y ofrece 
 ### Enunciado
 ¿Cuál es el área real de la terraza, en metros cuadrados?
 ### Opciones
-- [x] A) $30$ m², porque la base real es $10$ m, la altura real es $6$ m y $\frac{10 \times 6}{2} = 30$.
+- [x] C) $30$ m², porque la base real es $10$ m, la altura real es $6$ m y $\frac{10 \times 6}{2} = 30$.
   <!-- feedback: Correcto. Conviertes cada cm del plano a $1$ m real, aplicas la fórmula del triángulo y obtienes $30$ m². -->
-- [ ] B) $60$ m², porque se multiplicó base por altura sin dividir entre $2$.
+- [ ] A) $60$ m², porque se multiplicó base por altura sin dividir entre $2$.
   <!-- feedback: Incorrecto. El área del triángulo es base por altura dividido entre $2$; omitir el divisor duplica el resultado. -->
-- [ ] C) $15$ m², porque se sumaron base y altura y se dividió entre $2$.
+- [ ] B) $15$ m², porque se sumaron base y altura y se dividió entre $2$.
   <!-- feedback: Incorrecto. Sumar base y altura no produce el área; el procedimiento correcto es multiplicar y luego dividir. -->
 - [ ] D) $300$ m², porque se mantuvo la medida del plano en cm² en vez de convertir a m².
   <!-- feedback: Incorrecto. $300$ sería el área en cm² del plano, no en m² reales. -->
@@ -212,13 +212,13 @@ La barra gráfica indica la equivalencia real: $1$ cm $= 50$ km para la escala $
 ### Enunciado
 ¿Cómo se compara el área de esa habitación en el nuevo plano con el área que ocupaba en el plano original?
 ### Opciones
-- [x] A) El área en el nuevo plano es la cuarta parte ($\frac{1}{4}$) del área original, porque las longitudes se redujeron a la mitad y el área escala con el cuadrado del factor.
+- [x] D) El área en el nuevo plano es la cuarta parte ($\frac{1}{4}$) del área original, porque las longitudes se redujeron a la mitad y el área escala con el cuadrado del factor.
   <!-- feedback: Correcto. La escala lineal se reduce a la mitad ($50/100 = 0.5$), por lo que el área se reduce al cuadrado, $0.5^{2} = 0.25$. -->
-- [ ] B) El área en el nuevo plano es la mitad ($\frac{1}{2}$) del área original, porque las longitudes se redujeron a la mitad.
+- [ ] A) El área en el nuevo plano es la mitad ($\frac{1}{2}$) del área original, porque las longitudes se redujeron a la mitad.
   <!-- feedback: Incorrecto. Las longitudes se reducen a la mitad, pero el área se reduce al cuadrado de esa mitad, no a la mitad. -->
-- [ ] C) El área en el nuevo plano es igual a la del original, porque el objeto real no cambia.
+- [ ] B) El área en el nuevo plano es igual a la del original, porque el objeto real no cambia.
   <!-- feedback: Incorrecto. La pregunta compara áreas representadas en el plano, no el área real del objeto, que efectivamente es la misma. -->
-- [ ] D) El área en el nuevo plano es el doble del original, porque el denominador de la escala aumentó.
+- [ ] C) El área en el nuevo plano es el doble del original, porque el denominador de la escala aumentó.
   <!-- feedback: Incorrecto. Aumentar el denominador reduce el dibujo, no lo agranda; el área representada disminuye. -->
 ### Explicacion Pedagogica
 Al cambiar de escala $1:50$ a $1:100$, cada longitud en el plano se multiplica por $0.5$ para mantener la misma realidad. Como el área depende del producto de dos longitudes, se multiplica por $0.5 \times 0.5 = 0.25$, es decir, un cuarto del área original en el plano.
@@ -234,11 +234,11 @@ Al cambiar de escala $1:50$ a $1:100$, cada longitud en el plano se multiplica p
 ### Opciones
 - [ ] A) $1:1,000,000$, porque muestra toda Colombia en una sola hoja.
   <!-- feedback: Incorrecto. A esa escala, el pueblo mediría apenas $0.5$ cm y no se verían calles ni parques. -->
-- [x] B) $1:50,000$, porque permite representar el pueblo con sus calles y parques a un tamaño legible.
+- [x] D) $1:50,000$, porque permite representar el pueblo con sus calles y parques a un tamaño legible.
   <!-- feedback: Correcto. A $1:50,000$, $1$ cm equivale a $0.5$ km, por lo que el pueblo ocupa unos $10$ cm con detalle suficiente. -->
-- [ ] C) $1:500,000$, porque es la escala intermedia típica en los atlas escolares.
+- [ ] B) $1:500,000$, porque es la escala intermedia típica en los atlas escolares.
   <!-- feedback: Incorrecto. A esa escala, $1$ cm $= 5$ km y el pueblo quedaría en $1$ cm, sin detalle de calles. -->
-- [ ] D) $1:10,000,000$, porque a mayor denominador más territorio se incluye.
+- [ ] C) $1:10,000,000$, porque a mayor denominador más territorio se incluye.
   <!-- feedback: Incorrecto. Un denominador mayor produce menor detalle; el pueblo sería prácticamente invisible. -->
 ### Explicacion Pedagogica
 La escala debe ajustarse al detalle requerido. Para calles y parques de un pueblo de $5$ km por $5$ km, una escala grande como $1:50,000$ ($1$ cm $= 0.5$ km) ofrece suficiente resolución sin perder el pueblo completo. Escalas más pequeñas sirven para ubicarse en la región, no para recorrer el pueblo.

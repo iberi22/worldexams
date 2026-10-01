@@ -38,9 +38,9 @@ Este bundle trata sobre la organización de datos, tablas de frecuencias y repre
 ¿Cómo se clasifica la variable "cantidad de hermanos"?
 
 ### Opciones
-- [ ] A) Cualitativa nominal <!-- feedback: Incorrecto. Los valores son números, no categorías sin orden. -->
-- [ ] B) Cualitativa ordinal <!-- feedback: Incorrecto. Aunque hay orden, la variable es numérica. -->
-- [x] C) Cuantitativa discreta <!-- feedback: Correcto. Los valores son números enteros (0, 1, 2...) y surgen de un conteo. -->
+- [ ] B) Cualitativa nominal <!-- feedback: Incorrecto. Los valores son números, no categorías sin orden. -->
+- [ ] C) Cualitativa ordinal <!-- feedback: Incorrecto. Aunque hay orden, la variable es numérica. -->
+- [x] A) Cuantitativa discreta <!-- feedback: Correcto. Los valores son números enteros (0, 1, 2...) y surgen de un conteo. -->
 - [ ] D) Cuantitativa continua <!-- feedback: Incorrecto. No puede haber 1,5 hermanos; los valores no son un continuo. -->
 
 ### Explicacion Pedagogica
@@ -84,8 +84,8 @@ Las variables cuantitativas continuas pueden tomar cualquier valor real dentro d
 ¿Qué tipo de variable es el nivel de satisfacción?
 
 ### Opciones
-- [ ] A) Cualitativa nominal <!-- feedback: Incorrecto. Las categorías tienen un orden lógico de menor a mayor satisfacción. -->
-- [x] B) Cualitativa ordinal <!-- feedback: Correcto. Son categorías no numéricas que guardan un orden jerárquico. -->
+- [ ] B) Cualitativa nominal <!-- feedback: Incorrecto. Las categorías tienen un orden lógico de menor a mayor satisfacción. -->
+- [x] A) Cualitativa ordinal <!-- feedback: Correcto. Son categorías no numéricas que guardan un orden jerárquico. -->
 - [ ] C) Cuantitativa discreta <!-- feedback: Incorrecto. No son valores numéricos por naturaleza (aunque se puedan codificar). -->
 - [ ] D) Cuantitativa continua <!-- feedback: Incorrecto. No son medidas en una escala real continua. -->
 
@@ -107,8 +107,8 @@ Las variables cualitativas ordinales expresan categorías no numéricas pero que
 ¿Cuántos alumnos pertenecen a ese intervalo de peso?
 
 ### Opciones
-- [x] A) 6 <!-- feedback: Correcto. Frecuencia absoluta = Frecuencia relativa * Total = 0,12 * 50 = 6. -->
-- [ ] B) 12 <!-- feedback: Incorrecto. 12 es el porcentaje (12%), no la cantidad de alumnos. -->
+- [x] B) 6 <!-- feedback: Correcto. Frecuencia absoluta = Frecuencia relativa * Total = 0,12 * 50 = 6. -->
+- [ ] A) 12 <!-- feedback: Incorrecto. 12 es el porcentaje (12%), no la cantidad de alumnos. -->
 - [ ] C) 5 <!-- feedback: Incorrecto. Error en el cálculo de la proporción. -->
 - [ ] D) 10 <!-- feedback: Incorrecto. No surge de la operación correcta. -->
 
@@ -153,8 +153,8 @@ La marca de clase (xi) es el punto medio del intervalo y se utiliza como el valo
 ¿Cuál es la principal diferencia entre un histograma y un gráfico de barras?
 
 ### Opciones
-- [ ] A) El histograma usa colores y el gráfico de barras no. <!-- feedback: Incorrecto. Los colores son estéticos, no técnicos. -->
-- [x] B) En el histograma las barras están unidas porque la variable es continua o agrupada. <!-- feedback: Correcto. Las barras pegadas indican continuidad entre los intervalos de clase. -->
+- [ ] B) El histograma usa colores y el gráfico de barras no. <!-- feedback: Incorrecto. Los colores son estéticos, no técnicos. -->
+- [x] A) En el histograma las barras están unidas porque la variable es continua o agrupada. <!-- feedback: Correcto. Las barras pegadas indican continuidad entre los intervalos de clase. -->
 - [ ] C) El gráfico de barras se usa para variables cuantitativas continuas. <!-- feedback: Incorrecto. Es al revés, se usa para cualitativas o discretas. -->
 - [ ] D) No hay ninguna diferencia, son nombres distintos para el mismo gráfico. <!-- feedback: Incorrecto. Tienen usos y significados técnicos diferentes. -->
 
@@ -205,9 +205,9 @@ La frecuencia acumulada de un valor es la suma de su propia frecuencia absoluta 
 ¿Cuál es la frecuencia relativa acumulada de los jóvenes que leen MENOS de 2 libros?
 
 ### Opciones
-- [ ] A) 0,25 <!-- feedback: Incorrecto. Esta es la frecuencia relativa de 0 libros únicamente. -->
-- [ ] B) 0,375 <!-- feedback: Incorrecto. Esta es la frecuencia relativa de 1 libro únicamente. -->
-- [x] C) 0,625 <!-- feedback: Correcto. Menos de 2 libros = 0 o 1 libro. Cantidad = 10 + 15 = 25. Frecuencia relativa = 25 / 40 = 0,625. -->
+- [ ] B) 0,25 <!-- feedback: Incorrecto. Esta es la frecuencia relativa de 0 libros únicamente. -->
+- [ ] C) 0,375 <!-- feedback: Incorrecto. Esta es la frecuencia relativa de 1 libro únicamente. -->
+- [x] A) 0,625 <!-- feedback: Correcto. Menos de 2 libros = 0 o 1 libro. Cantidad = 10 + 15 = 25. Frecuencia relativa = 25 / 40 = 0,625. -->
 - [ ] D) 0,875 <!-- feedback: Incorrecto. Esto incluiría también a los que leen exactamente 2 libros. -->
 
 ### Explicacion Pedagogica
@@ -251,9 +251,9 @@ En un gráfico circular, el ángulo central de cada sector es proporcional a su 
 Si el primer intervalo es [0, 20) y el segundo es [20, 40), ¿qué ocurre con un paciente que esperó exactamente 20 minutos?
 
 ### Opciones
-- [ ] A) Se cuenta en ambos intervalos. <!-- feedback: Incorrecto. Un dato no puede pertenecer a dos categorías disjuntas. -->
-- [ ] B) No se cuenta en ninguno de los dos. <!-- feedback: Incorrecto. Se perdería información. -->
-- [x] C) Se cuenta en el segundo intervalo [20, 40). <!-- feedback: Correcto. Por convención, el corchete indica inclusión y el paréntesis exclusión. -->
+- [ ] B) Se cuenta en ambos intervalos. <!-- feedback: Incorrecto. Un dato no puede pertenecer a dos categorías disjuntas. -->
+- [ ] C) No se cuenta en ninguno de los dos. <!-- feedback: Incorrecto. Se perdería información. -->
+- [x] A) Se cuenta en el segundo intervalo [20, 40). <!-- feedback: Correcto. Por convención, el corchete indica inclusión y el paréntesis exclusión. -->
 - [ ] D) Se cuenta en el primer intervalo [0, 20). <!-- feedback: Incorrecto. El paréntesis indica que no llega a incluir el valor 20. -->
 
 ### Explicacion Pedagogica
@@ -278,8 +278,8 @@ En la notación de intervalos de clase, el extremo izquierdo suele ser cerrado (
 
 ### Opciones
 - [ ] A) 35% <!-- feedback: Incorrecto. Falta incluir el último intervalo que también cumple la condición. -->
-- [ ] B) 40% <!-- feedback: Incorrecto. Ese es el porcentaje de los que miden menos de 190. -->
-- [x] C) 60% <!-- feedback: Correcto. 190 o más incluye los intervalos 2 y 3. 0,35 + 0,25 = 0,60 = 60%. -->
+- [ ] C) 40% <!-- feedback: Incorrecto. Ese es el porcentaje de los que miden menos de 190. -->
+- [x] B) 60% <!-- feedback: Correcto. 190 o más incluye los intervalos 2 y 3. 0,35 + 0,25 = 0,60 = 60%. -->
 - [ ] D) 25% <!-- feedback: Incorrecto. Ese es solo el porcentaje de los más altos. -->
 
 ### Explicacion Pedagogica
@@ -301,8 +301,8 @@ Si el polígono de invierno está desplazado hacia la derecha respecto al de ver
 
 ### Opciones
 - [ ] A) Hubo menos consumo en invierno. <!-- feedback: Incorrecto. El eje horizontal (X) suele representar la cantidad consumida; desplazamiento a la derecha es mayor consumo. -->
-- [x] B) Los valores de consumo típicos en invierno fueron más elevados que en verano. <!-- feedback: Correcto. Un desplazamiento a la derecha en el eje X indica mayores valores de la variable medida. -->
-- [ ] C) La variabilidad del consumo fue menor en invierno. <!-- feedback: Incorrecto. El desplazamiento no indica dispersión, sino ubicación. -->
+- [x] C) Los valores de consumo típicos en invierno fueron más elevados que en verano. <!-- feedback: Correcto. Un desplazamiento a la derecha en el eje X indica mayores valores de la variable medida. -->
+- [ ] B) La variabilidad del consumo fue menor en invierno. <!-- feedback: Incorrecto. El desplazamiento no indica dispersión, sino ubicación. -->
 - [ ] D) El consumo se mantuvo igual en ambas estaciones. <!-- feedback: Incorrecto. Si estuviera igual, los polígonos estarían superpuestos. -->
 
 ### Explicacion Pedagogica
@@ -347,9 +347,9 @@ Dado que las frecuencias acumuladas se obtienen sumando cantidades siempre no ne
 
 ### Opciones
 - [ ] A) 50 <!-- feedback: Incorrecto. 50 * 5 = 250, pero el rango empieza en 100. -->
-- [x] B) 30 <!-- feedback: Correcto. Rango = 250 - 100 = 150. Amplitud = Rango / Intervalos = 150 / 5 = 30. -->
-- [ ] C) 25 <!-- feedback: Incorrecto. No divide el rango total correctamente. -->
-- [ ] D) 150 <!-- feedback: Incorrecto. Ese es el rango total, no la amplitud de cada clase. -->
+- [x] D) 30 <!-- feedback: Correcto. Rango = 250 - 100 = 150. Amplitud = Rango / Intervalos = 150 / 5 = 30. -->
+- [ ] B) 25 <!-- feedback: Incorrecto. No divide el rango total correctamente. -->
+- [ ] C) 150 <!-- feedback: Incorrecto. Ese es el rango total, no la amplitud de cada clase. -->
 
 ### Explicacion Pedagogica
 La amplitud se calcula dividiendo el rango (Valor Máximo - Valor Mínimo) por la cantidad de intervalos deseada. (250-100)/5 = 150/5 = 30.
@@ -370,9 +370,9 @@ La amplitud se calcula dividiendo el rango (Valor Máximo - Valor Mínimo) por l
 
 ### Opciones
 - [ ] A) Es el valor máximo que tomó la variable. <!-- feedback: Incorrecto. 120 es la cantidad de datos, no el valor de la variable. -->
-- [x] B) Es el tamaño total de la muestra (n). <!-- feedback: Correcto. La suma de todas las frecuencias absolutas (que es la acumulada final) es el número total de observaciones. -->
-- [ ] C) Es el promedio de los datos. <!-- feedback: Incorrecto. El promedio requiere otro tipo de cálculo. -->
-- [ ] D) Es la frecuencia del intervalo más común. <!-- feedback: Incorrecto. Eso sería la moda o frecuencia absoluta máxima. -->
+- [x] D) Es el tamaño total de la muestra (n). <!-- feedback: Correcto. La suma de todas las frecuencias absolutas (que es la acumulada final) es el número total de observaciones. -->
+- [ ] B) Es el promedio de los datos. <!-- feedback: Incorrecto. El promedio requiere otro tipo de cálculo. -->
+- [ ] C) Es la frecuencia del intervalo más común. <!-- feedback: Incorrecto. Eso sería la moda o frecuencia absoluta máxima. -->
 
 ### Explicacion Pedagogica
 Por definición, la frecuencia absoluta acumulada del último intervalo de una distribución debe ser igual a la suma de todas las frecuencias absolutas, es decir, al número total de datos analizados.
@@ -393,8 +393,8 @@ Por definición, la frecuencia absoluta acumulada del último intervalo de una d
 
 ### Opciones
 - [ ] A) La mayoría de los bebés pesaron mucho. <!-- feedback: Incorrecto. Asimetría positiva significa que la mayoría está en valores bajos y hay pocos valores muy altos. -->
-- [x] B) Existe un grupo pequeño de bebés con pesos significativamente más altos que el promedio. <!-- feedback: Correcto. La "cola" a la derecha indica la presencia de valores extremos altos. -->
-- [ ] C) El peso más frecuente es mayor que el promedio. <!-- feedback: Incorrecto. En asimetría positiva, la moda suele ser menor que la media. -->
+- [x] C) Existe un grupo pequeño de bebés con pesos significativamente más altos que el promedio. <!-- feedback: Correcto. La "cola" a la derecha indica la presencia de valores extremos altos. -->
+- [ ] B) El peso más frecuente es mayor que el promedio. <!-- feedback: Incorrecto. En asimetría positiva, la moda suele ser menor que la media. -->
 - [ ] D) La distribución es perfectamente equilibrada. <!-- feedback: Incorrecto. Eso sería una distribución simétrica. -->
 
 ### Explicacion Pedagogica
@@ -416,8 +416,8 @@ Si el siguiente intervalo [5%, 10%) tiene una frecuencia absoluta de 30, ¿cuál
 
 ### Opciones
 - [ ] A) 0,55 <!-- feedback: Incorrecto. No sumó correctamente las proporciones. -->
-- [x] B) 0,625 <!-- feedback: Correcto. hi1 = 0,25. hi2 = 30 / 80 = 0,375. Hi2 = 0,25 + 0,375 = 0,625. -->
-- [ ] C) 0,50 <!-- feedback: Incorrecto. 0,25 + 0,25 = 0,50, pero la segunda relativa es 0,375. -->
+- [x] C) 0,625 <!-- feedback: Correcto. hi1 = 0,25. hi2 = 30 / 80 = 0,375. Hi2 = 0,25 + 0,375 = 0,625. -->
+- [ ] B) 0,50 <!-- feedback: Incorrecto. 0,25 + 0,25 = 0,50, pero la segunda relativa es 0,375. -->
 - [ ] D) 0,75 <!-- feedback: Incorrecto. No surge de los datos. -->
 
 ### Explicacion Pedagogica
@@ -438,8 +438,8 @@ Primero calculamos la frecuencia relativa del segundo intervalo: 30 / 80 = 0,375
 ¿Cuál es la frecuencia absoluta del intervalo faltante?
 
 ### Opciones
-- [ ] A) 0,20 <!-- feedback: Incorrecto. Se pide frecuencia absoluta, no relativa. -->
-- [x] B) 20 <!-- feedback: Correcto. La suma de relativas debe ser 1. 1 - (0,15+0,2+0,35+0,1) = 1 - 0,80 = 0,20. Absoluta = 0,20 * 100 = 20. -->
+- [ ] B) 0,20 <!-- feedback: Incorrecto. Se pide frecuencia absoluta, no relativa. -->
+- [x] A) 20 <!-- feedback: Correcto. La suma de relativas debe ser 1. 1 - (0,15+0,2+0,35+0,1) = 1 - 0,80 = 0,20. Absoluta = 0,20 * 100 = 20. -->
 - [ ] C) 10 <!-- feedback: Incorrecto. La suma de las dadas da 0,8, falta 0,2. -->
 - [ ] D) 5 <!-- feedback: Incorrecto. No surge de la resta de relativas. -->
 
@@ -462,9 +462,9 @@ La propiedad fundamental es que Σ hi = 1. El valor faltante es 1 - 0,80 = 0,20.
 
 ### Opciones
 - [ ] A) Frecuencia absoluta <!-- feedback: Incorrecto. No es una cantidad entera. -->
-- [x] B) Densidad de frecuencia <!-- feedback: Correcto. Densidad = Frecuencia / Amplitud. Si Área = Frecuencia, entonces Altura = Frecuencia / Base. -->
-- [ ] C) Marca de clase <!-- feedback: Incorrecto. La marca de clase está en el eje X, no en la altura. -->
-- [ ] D) Frecuencia acumulada <!-- feedback: Incorrecto. No se grafica en la altura del histograma de esta forma. -->
+- [x] D) Densidad de frecuencia <!-- feedback: Correcto. Densidad = Frecuencia / Amplitud. Si Área = Frecuencia, entonces Altura = Frecuencia / Base. -->
+- [ ] B) Marca de clase <!-- feedback: Incorrecto. La marca de clase está en el eje X, no en la altura. -->
+- [ ] C) Frecuencia acumulada <!-- feedback: Incorrecto. No se grafica en la altura del histograma de esta forma. -->
 
 ### Explicacion Pedagogica
 En histogramas avanzados, la altura representa la densidad de frecuencia (fi/ai). De este modo, el área del rectángulo (Base * Altura = Amplitud * Densidad) es igual a la frecuencia del intervalo.
@@ -484,9 +484,9 @@ En histogramas avanzados, la altura representa la densidad de frecuencia (fi/ai)
 ¿Cuál es la interpretación correcta de estas formas?
 
 ### Opciones
-- [x] A) La primera muestra tiene los datos concentrados en valores bajos, la segunda en valores altos. <!-- feedback: Correcto. Mucha pendiente en la ojiva indica acumulación rápida de datos en ese rango. -->
-- [ ] B) La primera muestra tiene mayor promedio que la segunda. <!-- feedback: Incorrecto. Al revés, la segunda tiene valores más altos acumulados al final. -->
-- [ ] C) La segunda muestra tiene más datos que la primera. <!-- feedback: Incorrecto. El enunciado dice que son de igual tamaño. -->
+- [x] C) La primera muestra tiene los datos concentrados en valores bajos, la segunda en valores altos. <!-- feedback: Correcto. Mucha pendiente en la ojiva indica acumulación rápida de datos en ese rango. -->
+- [ ] A) La primera muestra tiene mayor promedio que la segunda. <!-- feedback: Incorrecto. Al revés, la segunda tiene valores más altos acumulados al final. -->
+- [ ] B) La segunda muestra tiene más datos que la primera. <!-- feedback: Incorrecto. El enunciado dice que son de igual tamaño. -->
 - [ ] D) No se puede inferir nada sobre la posición de los datos. <!-- feedback: Incorrecto. La pendiente de la ojiva es un indicador directo de la densidad de datos. -->
 
 ### Explicacion Pedagogica

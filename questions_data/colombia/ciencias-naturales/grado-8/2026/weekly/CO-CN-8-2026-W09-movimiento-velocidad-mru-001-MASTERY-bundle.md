@@ -72,11 +72,11 @@ MRU: trayectoria rectilinea con velocidad constante ($a = 0$). La distancia reco
 ### Enunciado
 Cuál es la velocidad media de la bicicleta en $m/s$?
 ### Opciones
-- [x] A) $5$ m/s.
+- [x] C) $5$ m/s.
   <!-- feedback: Correcto. $v = \Delta x / \Delta t = 30\text{ m} / 6\text{ s} = 5\text{ m/s}$. -->
-- [ ] B) $0,2$ m/s.
+- [ ] A) $0,2$ m/s.
   <!-- feedback: Incorrecto. Corresponderia a $30 / 150$, valor incorrecto. -->
-- [ ] C) $36$ m/s.
+- [ ] B) $36$ m/s.
   <!-- feedback: Incorrecto. Es la conversion erronea multiplicando en lugar de dividir. -->
 - [ ] D) $180$ m/s.
   <!-- feedback: Incorrecto. Es el producto $30 \cdot 6$, sin relacion con la velocidad. -->
@@ -92,11 +92,11 @@ Velocidad media $v = d / t = 30\text{ m} / 6\text{ s} = 5\text{ m/s}$ en el SI.
 ### Enunciado
 Que distancia recorrera en $20$ segundos si mantiene el mismo movimiento rectilineo uniforme?
 ### Opciones
-- [x] A) $100$ m.
+- [x] C) $100$ m.
   <!-- feedback: Correcto. A velocidad constante $v = 400 / 80 = 5\text{ m/s}$; en $20$ s recorre $5 \cdot 20 = 100$ m. -->
-- [ ] B) $80$ m.
+- [ ] A) $80$ m.
   <!-- feedback: Incorrecto. Corresponde a una proporcion inversa mal aplicada. -->
-- [ ] C) $400$ m.
+- [ ] B) $400$ m.
   <!-- feedback: Incorrecto. Es la distancia total en $80$ s, no en $20$ s. -->
 - [ ] D) $200$ m.
   <!-- feedback: Incorrecto. Implicaria una velocidad doble de la real. -->
@@ -112,11 +112,11 @@ En MRU, $x = v \cdot t$. Si $v = 5$ m/s y $t = 20$ s, entonces $x = 100$ m.
 ### Enunciado
 Cuanto tiempo tardara en recorrer $60$ km manteniendo la misma velocidad constante?
 ### Opciones
-- [x] A) $1,5$ horas.
+- [x] C) $1,5$ horas.
   <!-- feedback: Correcto. $t = d / v = 60\text{ km} / 40\text{ km/h} = 1,5$ h. -->
-- [ ] B) $1$ hora.
+- [ ] A) $1$ hora.
   <!-- feedback: Incorrecto. Corresponderia a una velocidad de $60$ km/h. -->
-- [ ] C) $2,4$ horas.
+- [ ] B) $2,4$ horas.
   <!-- feedback: Incorrecto. Es la inversa multiplicada por $60$: $60 \cdot 40 = 2400$ min. -->
 - [ ] D) $0,67$ horas.
   <!-- feedback: Incorrecto. Corresponde a recorrer $26,7$ km, no $60$ km. -->
@@ -132,9 +132,9 @@ $t = d / v$: en MRU, el tiempo es directamente proporcional a la distancia e inv
 ### Enunciado
 Que indica una gráfica posicion-tiempo rectilinea con pendiente positiva constante?
 ### Opciones
-- [x] A) Que el cuerpo se mueve con velocidad constante en la misma direccion.
+- [x] B) Que el cuerpo se mueve con velocidad constante en la misma direccion.
   <!-- feedback: Correcto. La pendiente constante representa una velocidad uniforme. -->
-- [ ] B) Que el cuerpo esta en reposo absoluto durante todo el intervalo.
+- [ ] A) Que el cuerpo esta en reposo absoluto durante todo el intervalo.
   <!-- feedback: Incorrecto. Si estuviera en reposo, la gráfica seria horizontal en $x$ constante. -->
 - [ ] C) Que el cuerpo se mueve con aceleración constante positiva.
   <!-- feedback: Incorrecto. La pendiente constante indica $a = 0$, no aceleración. -->
@@ -152,11 +152,11 @@ En $x$ vs $t$, una recta con pendiente positiva describe MRU; la pendiente equiv
 ### Enunciado
 Cuál es la velocidad del pasajero respecto a la costa, segun el principio de suma de velocidades en una dimension?
 ### Opciones
-- [x] A) $17$ m/s en el sentido del movimiento del ferry.
+- [x] C) $17$ m/s en el sentido del movimiento del ferry.
   <!-- feedback: Correcto. $v_{pasajero/costa} = v_{barco/costa} + v_{pasajero/barco} = 15 + 2 = 17$ m/s. -->
-- [ ] B) $13$ m/s en sentido contrario al del ferry.
+- [ ] A) $13$ m/s en sentido contrario al del ferry.
   <!-- feedback: Incorrecto. Es la diferencia, pero solo si el pasajero caminara en sentido contrario. -->
-- [ ] C) $0$ m/s porque el pasajero esta dentro del barco.
+- [ ] B) $0$ m/s porque el pasajero esta dentro del barco.
   <!-- feedback: Incorrecto. El pasajero si se mueve respecto a la costa porque el barco lo arrastra. -->
 - [ ] D) $30$ m/s, el doble exacto de ambas velocidades.
   <!-- feedback: Incorrecto. La suma es $17$ m/s, no el producto. -->
@@ -192,11 +192,11 @@ Para cuerpos moviendose en sentidos opuestos, la velocidad relativa es la suma d
 ### Enunciado
 Por que en un movimiento circular uniforme la rapidez puede ser constante pero la velocidad cambia continuamente?
 ### Opciones
-- [x] A) Porque la direccion del movimiento cambia en cada instante, alterando el vector velocidad aunque el modulo sea constante.
+- [x] C) Porque la direccion del movimiento cambia en cada instante, alterando el vector velocidad aunque el modulo sea constante.
   <!-- feedback: Correcto. La velocidad es vectorial: depende de modulo y direccion. -->
-- [ ] B) Porque la rapidez siempre cambia aun cuando el carro no acelere.
+- [ ] A) Porque la rapidez siempre cambia aun cuando el carro no acelere.
   <!-- feedback: Incorrecto. En MCU la rapidez permanece constante en modulo. -->
-- [ ] C) Porque el carro se detiene momentaneamente en cada punto de la circunferencia.
+- [ ] B) Porque el carro se detiene momentaneamente en cada punto de la circunferencia.
   <!-- feedback: Incorrecto. No se detiene; cambia de direccion pero mantiene rapidez. -->
 - [ ] D) Porque el carro recorre mas distancia que el desplazamiento.
   <!-- feedback: Incorrecto. Esa diferencia existe pero no explica el cambio vectorial de velocidad. -->
@@ -232,11 +232,11 @@ El tiempo de reacción se incrementa con la distraccion y, en MRU, una reacción
 ### Enunciado
 Cuál es la evaluacion correcta del impacto de reducir la velocidad a la mitad sobre la distancia de frenado en MRU?
 ### Opciones
-- [x] A) La distancia de frenado se reduce aproximadamente a la mitad al diminuir la velocidad a la mitad.
+- [x] C) La distancia de frenado se reduce aproximadamente a la mitad al diminuir la velocidad a la mitad.
   <!-- feedback: Correcto. En condiciones ideales, distancia proporcional a la velocidad inicial. -->
-- [ ] B) La distancia de frenado se duplica al reducir la velocidad.
+- [ ] A) La distancia de frenado se duplica al reducir la velocidad.
   <!-- feedback: Incorrecto. La distancia es proporcional a la velocidad, no inversa. -->
-- [ ] C) La distancia de frenado no se ve afectada por cambios en la velocidad.
+- [ ] B) La distancia de frenado no se ve afectada por cambios en la velocidad.
   <!-- feedback: Incorrecto. La distancia depende directamente de la velocidad. -->
 - [ ] D) La distancia de frenado aumenta cuatro veces al reducir la velocidad a la mitad.
   <!-- feedback: Incorrecto. Aumentaria cuatro veces si la velocidad se duplicara, no al reducirla. -->
@@ -252,11 +252,11 @@ En MRU, distancia de frenado $d = v \cdot t_{frenado}$. Si $v$ se reduce a la mi
 ### Enunciado
 Cual de las siguientes evaluaciones justifica mejor el establecimiento de limites estrictos de velocidad para drones en zonas urbanas?
 ### Opciones
-- [x] A) Limites de velocidad reducen la energía cinética del impacto, disminuyendo el riesgo de danos a personas y bienes.
+- [x] C) Limites de velocidad reducen la energía cinética del impacto, disminuyendo el riesgo de danos a personas y bienes.
   <!-- feedback: Correcto. La energía cinética depende del cuadrado de la velocidad, asi que reducirla disminuye notablemente el riesgo. -->
-- [ ] B) La velocidad no afecta el riesgo de un drone porque solo importa su tamano.
+- [ ] A) La velocidad no afecta el riesgo de un drone porque solo importa su tamano.
   <!-- feedback: Incorrecto. La velocidad es critica para la gravedad del impacto. -->
-- [ ] C) Los drones urbanos no pueden controlarse y siempre van a alta velocidad.
+- [ ] B) Los drones urbanos no pueden controlarse y siempre van a alta velocidad.
   <!-- feedback: Incorrecto. Los drones modernos tienen control preciso de velocidad y altitud. -->
 - [ ] D) Limitar la velocidad de drones no aporta ninguna mejora a la seguridad urbana.
   <!-- feedback: Incorrecto. La regulacion de velocidad reduce el riesgo de accidentes. -->

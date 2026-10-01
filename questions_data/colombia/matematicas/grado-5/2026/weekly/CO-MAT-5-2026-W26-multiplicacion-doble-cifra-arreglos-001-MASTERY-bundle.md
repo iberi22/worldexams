@@ -57,13 +57,13 @@ Reconocer el arreglo rectangular como herramienta para descomponer una multiplic
 ¿Por qué descomponer los números en decenas y unidades facilita la multiplicación con arreglos?
 
 ### Opciones
-- [x] A) Porque transforma una multiplicación grande en cuatro multiplicaciones más pequeñas y manejables.
+- [x] D) Porque transforma una multiplicación grande en cuatro multiplicaciones más pequeñas y manejables.
   <!-- feedback: La descomposición hace más sencillos los cálculos parciales. -->
-- [ ] B) Porque elimina la necesidad de sumar al final.
+- [ ] A) Porque elimina la necesidad de sumar al final.
   <!-- feedback: Al final sí se suman los productos parciales para obtener el total. -->
-- [ ] C) Porque convierte la multiplicación en una división.
+- [ ] B) Porque convierte la multiplicación en una división.
   <!-- feedback: El método sigue siendo de multiplicación, no de división. -->
-- [ ] D) Porque cambia los números por otros sin relación.
+- [ ] C) Porque cambia los números por otros sin relación.
   <!-- feedback: Los productos parciales están directamente relacionados con los factores. -->
 
 ### Explicacion Pedagogica
@@ -80,11 +80,11 @@ Comprender la utilidad de descomponer en decenas y unidades al multiplicar con a
 ¿Cuáles son los cuatro productos parciales que debe obtener en el arreglo?
 
 ### Opciones
-- [x] A) 10×10 = 100, 10×3 = 30, 2×10 = 20 y 2×3 = 6.
+- [x] C) 10×10 = 100, 10×3 = 30, 2×10 = 20 y 2×3 = 6.
   <!-- feedback: Cada celda del arreglo corresponde a un producto parcial entre decenas y unidades. -->
-- [ ] B) 10+10 = 20, 10+3 = 13, 2+10 = 12 y 2+3 = 5.
+- [ ] A) 10+10 = 20, 10+3 = 13, 2+10 = 12 y 2+3 = 5.
   <!-- feedback: En el arreglo se multiplican las cifras, no se suman. -->
-- [ ] C) 10×2 = 20, 3×10 = 30, 100×6 = 600 y 0.
+- [ ] B) 10×2 = 20, 3×10 = 30, 100×6 = 600 y 0.
   <!-- feedback: Esos no son los productos correctos entre las partes de 12 y 13. -->
 - [ ] D) 10−3 = 7, 2−10 = −8, 100 y 6.
   <!-- feedback: El arreglo no usa restas sino multiplicaciones parciales. -->
@@ -103,9 +103,9 @@ Aplicar la descomposición de decenas y unidades para obtener los productos parc
 ¿Cuánto debe pagar el cliente en total por las 12 cajas?
 
 ### Opciones
-- [x] A) 276.000 COP.
+- [x] B) 276.000 COP.
   <!-- feedback: 23.000 × 12 = 276.000 COP; con arreglo: 23.000×10 + 23.000×2 = 230.000 + 46.000 = 276.000 COP. -->
-- [ ] B) 23.000 COP.
+- [ ] A) 23.000 COP.
   <!-- feedback: 23.000 COP es el precio de una sola caja, no de 12. -->
 - [ ] C) 35.000 COP.
   <!-- feedback: 35.000 COP es solo la suma 23.000 + 12, no el producto. -->
@@ -126,9 +126,9 @@ Aplicar la estrategia de arreglo para resolver multiplicaciones de doble cifra e
 ¿Cuántas plantas de hortalizas hay en total en la huerta?
 
 ### Opciones
-- [x] A) 294 plantas.
+- [x] B) 294 plantas.
   <!-- feedback: 21 × 14 = 294, calculado como 20×14 + 1×14 = 280 + 14 = 294. -->
-- [ ] B) 35 plantas.
+- [ ] A) 35 plantas.
   <!-- feedback: 35 es la suma 21 + 14, no el producto de ambas cifras. -->
 - [ ] C) 210 plantas.
   <!-- feedback: 210 es 21 × 10, solo el producto parcial de las decenas. -->
@@ -195,11 +195,11 @@ Analizar la verificación de resultados como estrategia de autocontrol en la mul
 ¿Por qué es útil aprender a multiplicar con arreglos antes de memorizar el algoritmo vertical?
 
 ### Opciones
-- [x] A) Porque permite entender el sentido de la multiplicación y reduce errores al sumar productos parciales.
+- [x] C) Porque permite entender el sentido de la multiplicación y reduce errores al sumar productos parciales.
   <!-- feedback: Comprender el área ayuda a dar sentido a los pasos del algoritmo. -->
-- [ ] B) Porque el algoritmo vertical nunca debe enseñarse en la escuela.
+- [ ] A) Porque el algoritmo vertical nunca debe enseñarse en la escuela.
   <!-- feedback: El algoritmo vertical es útil, pero conviene entenderlo mediante el arreglo. -->
-- [ ] C) Porque los arreglos solo funcionan con números pequeños.
+- [ ] B) Porque los arreglos solo funcionan con números pequeños.
   <!-- feedback: Los arreglos funcionan también con números de dos y más cifras. -->
 - [ ] D) Porque memorizar pasos sin comprensión es la mejor estrategia.
   <!-- feedback: Comprender el porqué de los pasos es mejor que solo memorizarlos. -->

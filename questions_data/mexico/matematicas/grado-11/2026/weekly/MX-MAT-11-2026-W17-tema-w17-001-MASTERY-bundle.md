@@ -30,11 +30,11 @@ creador: "Jules-Agent"
 Dada la función trigonométrica f(x) = 3 * sen(2x), ¿cuál es el valor de su amplitud y cuál es su período en radianes?
 
 ### Opciones
-- [x] A) Amplitud: 3; Período: 3.14 (2π / 2)
+- [x] C) Amplitud: 3; Período: 3.14 (2π / 2)
   <!-- feedback: ¡Correcto! Para f(x) = A sen(Bx), la amplitud es |A| = 3, y el período es T = 2π / B = 2π / 2. -->
-- [ ] B) Amplitud: 2; Período: 3
+- [ ] A) Amplitud: 2; Período: 3
   <!-- feedback: Incorrecto. Se intercambiaron los conceptos de amplitud y coeficiente de frecuencia de período. -->
-- [ ] C) Amplitud: 3; Período: 2π
+- [ ] B) Amplitud: 3; Período: 2π
   <!-- feedback: Incorrecto. El período se calcula dividiendo 2π por el coeficiente de x, no multiplicando. -->
 - [ ] D) Amplitud: 3; Período: π / 2
   <!-- feedback: Incorrecto. El período de las funciones sen(x) o cos(x) tiene un numerador de 2π, no de π. -->
@@ -53,13 +53,13 @@ Una función de la forma f(x) = A * sen(B * x) posee un valor de amplitud igual 
 Dada la función trigonométrica f(x) = 4 * sen(3x), ¿cuál es el valor de su amplitud y cuál es su período en radianes?
 
 ### Opciones
-- [x] A) Amplitud: 4; Período: 2.09 (2π / 3)
+- [x] D) Amplitud: 4; Período: 2.09 (2π / 3)
   <!-- feedback: ¡Correcto! Para f(x) = A sen(Bx), la amplitud es |A| = 4, y el período es T = 2π / B = 2π / 3. -->
-- [ ] B) Amplitud: 3; Período: 4
+- [ ] A) Amplitud: 3; Período: 4
   <!-- feedback: Incorrecto. Se intercambiaron los conceptos de amplitud y coeficiente de frecuencia de período. -->
-- [ ] C) Amplitud: 4; Período: 3π
+- [ ] B) Amplitud: 4; Período: 3π
   <!-- feedback: Incorrecto. El período se calcula dividiendo 2π por el coeficiente de x, no multiplicando. -->
-- [ ] D) Amplitud: 4; Período: π / 3
+- [ ] C) Amplitud: 4; Período: π / 3
   <!-- feedback: Incorrecto. El período de las funciones sen(x) o cos(x) tiene un numerador de 2π, no de π. -->
 
 ### Explicacion Pedagogica
@@ -99,9 +99,9 @@ Una función de la forma f(x) = A * sen(B * x) posee un valor de amplitud igual 
 Dada la función trigonométrica f(x) = 6 * sen(2x), ¿cuál es el valor de su amplitud y cuál es su período en radianes?
 
 ### Opciones
-- [x] A) Amplitud: 6; Período: 3.14 (2π / 2)
+- [x] B) Amplitud: 6; Período: 3.14 (2π / 2)
   <!-- feedback: ¡Correcto! Para f(x) = A sen(Bx), la amplitud es |A| = 6, y el período es T = 2π / B = 2π / 2. -->
-- [ ] B) Amplitud: 2; Período: 6
+- [ ] A) Amplitud: 2; Período: 6
   <!-- feedback: Incorrecto. Se intercambiaron los conceptos de amplitud y coeficiente de frecuencia de período. -->
 - [ ] C) Amplitud: 6; Período: 2π
   <!-- feedback: Incorrecto. El período se calcula dividiendo 2π por el coeficiente de x, no multiplicando. -->
@@ -122,13 +122,13 @@ Una función de la forma f(x) = A * sen(B * x) posee un valor de amplitud igual 
 Dada la función trigonométrica f(x) = 7 * sen(3x), ¿cuál es el valor de su amplitud y cuál es su período en radianes?
 
 ### Opciones
-- [x] A) Amplitud: 7; Período: 2.09 (2π / 3)
+- [x] D) Amplitud: 7; Período: 2.09 (2π / 3)
   <!-- feedback: ¡Correcto! Para f(x) = A sen(Bx), la amplitud es |A| = 7, y el período es T = 2π / B = 2π / 3. -->
-- [ ] B) Amplitud: 3; Período: 7
+- [ ] A) Amplitud: 3; Período: 7
   <!-- feedback: Incorrecto. Se intercambiaron los conceptos de amplitud y coeficiente de frecuencia de período. -->
-- [ ] C) Amplitud: 7; Período: 3π
+- [ ] B) Amplitud: 7; Período: 3π
   <!-- feedback: Incorrecto. El período se calcula dividiendo 2π por el coeficiente de x, no multiplicando. -->
-- [ ] D) Amplitud: 7; Período: π / 3
+- [ ] C) Amplitud: 7; Período: π / 3
   <!-- feedback: Incorrecto. El período de las funciones sen(x) o cos(x) tiene un numerador de 2π, no de π. -->
 
 ### Explicacion Pedagogica
@@ -145,13 +145,13 @@ Una función de la forma f(x) = A * sen(B * x) posee un valor de amplitud igual 
 Dada la función trigonométrica f(x) = 8 * sen(4x), ¿cuál es el valor de su amplitud y cuál es su período en radianes?
 
 ### Opciones
-- [x] A) Amplitud: 8; Período: 1.57 (2π / 4)
+- [x] D) Amplitud: 8; Período: 1.57 (2π / 4)
   <!-- feedback: ¡Correcto! Para f(x) = A sen(Bx), la amplitud es |A| = 8, y el período es T = 2π / B = 2π / 4. -->
-- [ ] B) Amplitud: 4; Período: 8
+- [ ] A) Amplitud: 4; Período: 8
   <!-- feedback: Incorrecto. Se intercambiaron los conceptos de amplitud y coeficiente de frecuencia de período. -->
-- [ ] C) Amplitud: 8; Período: 4π
+- [ ] B) Amplitud: 8; Período: 4π
   <!-- feedback: Incorrecto. El período se calcula dividiendo 2π por el coeficiente de x, no multiplicando. -->
-- [ ] D) Amplitud: 8; Período: π / 4
+- [ ] C) Amplitud: 8; Período: π / 4
   <!-- feedback: Incorrecto. El período de las funciones sen(x) o cos(x) tiene un numerador de 2π, no de π. -->
 
 ### Explicacion Pedagogica
@@ -168,13 +168,13 @@ Una función de la forma f(x) = A * sen(B * x) posee un valor de amplitud igual 
 Dada la función trigonométrica f(x) = 9 * sen(2x), ¿cuál es el valor de su amplitud y cuál es su período en radianes?
 
 ### Opciones
-- [x] A) Amplitud: 9; Período: 3.14 (2π / 2)
+- [x] D) Amplitud: 9; Período: 3.14 (2π / 2)
   <!-- feedback: ¡Correcto! Para f(x) = A sen(Bx), la amplitud es |A| = 9, y el período es T = 2π / B = 2π / 2. -->
-- [ ] B) Amplitud: 2; Período: 9
+- [ ] A) Amplitud: 2; Período: 9
   <!-- feedback: Incorrecto. Se intercambiaron los conceptos de amplitud y coeficiente de frecuencia de período. -->
-- [ ] C) Amplitud: 9; Período: 2π
+- [ ] B) Amplitud: 9; Período: 2π
   <!-- feedback: Incorrecto. El período se calcula dividiendo 2π por el coeficiente de x, no multiplicando. -->
-- [ ] D) Amplitud: 9; Período: π / 2
+- [ ] C) Amplitud: 9; Período: π / 2
   <!-- feedback: Incorrecto. El período de las funciones sen(x) o cos(x) tiene un numerador de 2π, no de π. -->
 
 ### Explicacion Pedagogica
@@ -191,11 +191,11 @@ Una función de la forma f(x) = A * sen(B * x) posee un valor de amplitud igual 
 Dada la función trigonométrica f(x) = 10 * sen(3x), ¿cuál es el valor de su amplitud y cuál es su período en radianes?
 
 ### Opciones
-- [x] A) Amplitud: 10; Período: 2.09 (2π / 3)
+- [x] C) Amplitud: 10; Período: 2.09 (2π / 3)
   <!-- feedback: ¡Correcto! Para f(x) = A sen(Bx), la amplitud es |A| = 10, y el período es T = 2π / B = 2π / 3. -->
-- [ ] B) Amplitud: 3; Período: 10
+- [ ] A) Amplitud: 3; Período: 10
   <!-- feedback: Incorrecto. Se intercambiaron los conceptos de amplitud y coeficiente de frecuencia de período. -->
-- [ ] C) Amplitud: 10; Período: 3π
+- [ ] B) Amplitud: 10; Período: 3π
   <!-- feedback: Incorrecto. El período se calcula dividiendo 2π por el coeficiente de x, no multiplicando. -->
 - [ ] D) Amplitud: 10; Período: π / 3
   <!-- feedback: Incorrecto. El período de las funciones sen(x) o cos(x) tiene un numerador de 2π, no de π. -->
@@ -214,11 +214,11 @@ Una función de la forma f(x) = A * sen(B * x) posee un valor de amplitud igual 
 Dada la función trigonométrica f(x) = 11 * sen(4x), ¿cuál es el valor de su amplitud y cuál es su período en radianes?
 
 ### Opciones
-- [x] A) Amplitud: 11; Período: 1.57 (2π / 4)
+- [x] C) Amplitud: 11; Período: 1.57 (2π / 4)
   <!-- feedback: ¡Correcto! Para f(x) = A sen(Bx), la amplitud es |A| = 11, y el período es T = 2π / B = 2π / 4. -->
-- [ ] B) Amplitud: 4; Período: 11
+- [ ] A) Amplitud: 4; Período: 11
   <!-- feedback: Incorrecto. Se intercambiaron los conceptos de amplitud y coeficiente de frecuencia de período. -->
-- [ ] C) Amplitud: 11; Período: 4π
+- [ ] B) Amplitud: 11; Período: 4π
   <!-- feedback: Incorrecto. El período se calcula dividiendo 2π por el coeficiente de x, no multiplicando. -->
 - [ ] D) Amplitud: 11; Período: π / 4
   <!-- feedback: Incorrecto. El período de las funciones sen(x) o cos(x) tiene un numerador de 2π, no de π. -->
@@ -260,9 +260,9 @@ Una función de la forma f(x) = A * sen(B * x) posee un valor de amplitud igual 
 Dada la función trigonométrica f(x) = 13 * sen(3x), ¿cuál es el valor de su amplitud y cuál es su período en radianes?
 
 ### Opciones
-- [x] A) Amplitud: 13; Período: 2.09 (2π / 3)
+- [x] B) Amplitud: 13; Período: 2.09 (2π / 3)
   <!-- feedback: ¡Correcto! Para f(x) = A sen(Bx), la amplitud es |A| = 13, y el período es T = 2π / B = 2π / 3. -->
-- [ ] B) Amplitud: 3; Período: 13
+- [ ] A) Amplitud: 3; Período: 13
   <!-- feedback: Incorrecto. Se intercambiaron los conceptos de amplitud y coeficiente de frecuencia de período. -->
 - [ ] C) Amplitud: 13; Período: 3π
   <!-- feedback: Incorrecto. El período se calcula dividiendo 2π por el coeficiente de x, no multiplicando. -->
@@ -283,13 +283,13 @@ Una función de la forma f(x) = A * sen(B * x) posee un valor de amplitud igual 
 Dada la función trigonométrica f(x) = 14 * sen(4x), ¿cuál es el valor de su amplitud y cuál es su período en radianes?
 
 ### Opciones
-- [x] A) Amplitud: 14; Período: 1.57 (2π / 4)
+- [x] D) Amplitud: 14; Período: 1.57 (2π / 4)
   <!-- feedback: ¡Correcto! Para f(x) = A sen(Bx), la amplitud es |A| = 14, y el período es T = 2π / B = 2π / 4. -->
-- [ ] B) Amplitud: 4; Período: 14
+- [ ] A) Amplitud: 4; Período: 14
   <!-- feedback: Incorrecto. Se intercambiaron los conceptos de amplitud y coeficiente de frecuencia de período. -->
-- [ ] C) Amplitud: 14; Período: 4π
+- [ ] B) Amplitud: 14; Período: 4π
   <!-- feedback: Incorrecto. El período se calcula dividiendo 2π por el coeficiente de x, no multiplicando. -->
-- [ ] D) Amplitud: 14; Período: π / 4
+- [ ] C) Amplitud: 14; Período: π / 4
   <!-- feedback: Incorrecto. El período de las funciones sen(x) o cos(x) tiene un numerador de 2π, no de π. -->
 
 ### Explicacion Pedagogica
@@ -306,13 +306,13 @@ Una función de la forma f(x) = A * sen(B * x) posee un valor de amplitud igual 
 Dada la función trigonométrica f(x) = 15 * sen(2x), ¿cuál es el valor de su amplitud y cuál es su período en radianes?
 
 ### Opciones
-- [x] A) Amplitud: 15; Período: 3.14 (2π / 2)
+- [x] D) Amplitud: 15; Período: 3.14 (2π / 2)
   <!-- feedback: ¡Correcto! Para f(x) = A sen(Bx), la amplitud es |A| = 15, y el período es T = 2π / B = 2π / 2. -->
-- [ ] B) Amplitud: 2; Período: 15
+- [ ] A) Amplitud: 2; Período: 15
   <!-- feedback: Incorrecto. Se intercambiaron los conceptos de amplitud y coeficiente de frecuencia de período. -->
-- [ ] C) Amplitud: 15; Período: 2π
+- [ ] B) Amplitud: 15; Período: 2π
   <!-- feedback: Incorrecto. El período se calcula dividiendo 2π por el coeficiente de x, no multiplicando. -->
-- [ ] D) Amplitud: 15; Período: π / 2
+- [ ] C) Amplitud: 15; Período: π / 2
   <!-- feedback: Incorrecto. El período de las funciones sen(x) o cos(x) tiene un numerador de 2π, no de π. -->
 
 ### Explicacion Pedagogica
@@ -329,13 +329,13 @@ Una función de la forma f(x) = A * sen(B * x) posee un valor de amplitud igual 
 Dada la función trigonométrica f(x) = 16 * sen(3x), ¿cuál es el valor de su amplitud y cuál es su período en radianes?
 
 ### Opciones
-- [x] A) Amplitud: 16; Período: 2.09 (2π / 3)
+- [x] D) Amplitud: 16; Período: 2.09 (2π / 3)
   <!-- feedback: ¡Correcto! Para f(x) = A sen(Bx), la amplitud es |A| = 16, y el período es T = 2π / B = 2π / 3. -->
-- [ ] B) Amplitud: 3; Período: 16
+- [ ] A) Amplitud: 3; Período: 16
   <!-- feedback: Incorrecto. Se intercambiaron los conceptos de amplitud y coeficiente de frecuencia de período. -->
-- [ ] C) Amplitud: 16; Período: 3π
+- [ ] B) Amplitud: 16; Período: 3π
   <!-- feedback: Incorrecto. El período se calcula dividiendo 2π por el coeficiente de x, no multiplicando. -->
-- [ ] D) Amplitud: 16; Período: π / 3
+- [ ] C) Amplitud: 16; Período: π / 3
   <!-- feedback: Incorrecto. El período de las funciones sen(x) o cos(x) tiene un numerador de 2π, no de π. -->
 
 ### Explicacion Pedagogica
@@ -352,9 +352,9 @@ Una función de la forma f(x) = A * sen(B * x) posee un valor de amplitud igual 
 Dada la función trigonométrica f(x) = 17 * sen(4x), ¿cuál es el valor de su amplitud y cuál es su período en radianes?
 
 ### Opciones
-- [x] A) Amplitud: 17; Período: 1.57 (2π / 4)
+- [x] B) Amplitud: 17; Período: 1.57 (2π / 4)
   <!-- feedback: ¡Correcto! Para f(x) = A sen(Bx), la amplitud es |A| = 17, y el período es T = 2π / B = 2π / 4. -->
-- [ ] B) Amplitud: 4; Período: 17
+- [ ] A) Amplitud: 4; Período: 17
   <!-- feedback: Incorrecto. Se intercambiaron los conceptos de amplitud y coeficiente de frecuencia de período. -->
 - [ ] C) Amplitud: 17; Período: 4π
   <!-- feedback: Incorrecto. El período se calcula dividiendo 2π por el coeficiente de x, no multiplicando. -->
@@ -398,13 +398,13 @@ Una función de la forma f(x) = A * sen(B * x) posee un valor de amplitud igual 
 Dada la función trigonométrica f(x) = 19 * sen(3x), ¿cuál es el valor de su amplitud y cuál es su período en radianes?
 
 ### Opciones
-- [x] A) Amplitud: 19; Período: 2.09 (2π / 3)
+- [x] D) Amplitud: 19; Período: 2.09 (2π / 3)
   <!-- feedback: ¡Correcto! Para f(x) = A sen(Bx), la amplitud es |A| = 19, y el período es T = 2π / B = 2π / 3. -->
-- [ ] B) Amplitud: 3; Período: 19
+- [ ] A) Amplitud: 3; Período: 19
   <!-- feedback: Incorrecto. Se intercambiaron los conceptos de amplitud y coeficiente de frecuencia de período. -->
-- [ ] C) Amplitud: 19; Período: 3π
+- [ ] B) Amplitud: 19; Período: 3π
   <!-- feedback: Incorrecto. El período se calcula dividiendo 2π por el coeficiente de x, no multiplicando. -->
-- [ ] D) Amplitud: 19; Período: π / 3
+- [ ] C) Amplitud: 19; Período: π / 3
   <!-- feedback: Incorrecto. El período de las funciones sen(x) o cos(x) tiene un numerador de 2π, no de π. -->
 
 ### Explicacion Pedagogica
@@ -421,13 +421,13 @@ Una función de la forma f(x) = A * sen(B * x) posee un valor de amplitud igual 
 Dada la función trigonométrica f(x) = 20 * sen(4x), ¿cuál es el valor de su amplitud y cuál es su período en radianes?
 
 ### Opciones
-- [x] A) Amplitud: 20; Período: 1.57 (2π / 4)
+- [x] D) Amplitud: 20; Período: 1.57 (2π / 4)
   <!-- feedback: ¡Correcto! Para f(x) = A sen(Bx), la amplitud es |A| = 20, y el período es T = 2π / B = 2π / 4. -->
-- [ ] B) Amplitud: 4; Período: 20
+- [ ] A) Amplitud: 4; Período: 20
   <!-- feedback: Incorrecto. Se intercambiaron los conceptos de amplitud y coeficiente de frecuencia de período. -->
-- [ ] C) Amplitud: 20; Período: 4π
+- [ ] B) Amplitud: 20; Período: 4π
   <!-- feedback: Incorrecto. El período se calcula dividiendo 2π por el coeficiente de x, no multiplicando. -->
-- [ ] D) Amplitud: 20; Período: π / 4
+- [ ] C) Amplitud: 20; Período: π / 4
   <!-- feedback: Incorrecto. El período de las funciones sen(x) o cos(x) tiene un numerador de 2π, no de π. -->
 
 ### Explicacion Pedagogica
@@ -444,11 +444,11 @@ Una función de la forma f(x) = A * sen(B * x) posee un valor de amplitud igual 
 Dada la función trigonométrica f(x) = 21 * sen(2x), ¿cuál es el valor de su amplitud y cuál es su período en radianes?
 
 ### Opciones
-- [x] A) Amplitud: 21; Período: 3.14 (2π / 2)
+- [x] C) Amplitud: 21; Período: 3.14 (2π / 2)
   <!-- feedback: ¡Correcto! Para f(x) = A sen(Bx), la amplitud es |A| = 21, y el período es T = 2π / B = 2π / 2. -->
-- [ ] B) Amplitud: 2; Período: 21
+- [ ] A) Amplitud: 2; Período: 21
   <!-- feedback: Incorrecto. Se intercambiaron los conceptos de amplitud y coeficiente de frecuencia de período. -->
-- [ ] C) Amplitud: 21; Período: 2π
+- [ ] B) Amplitud: 21; Período: 2π
   <!-- feedback: Incorrecto. El período se calcula dividiendo 2π por el coeficiente de x, no multiplicando. -->
 - [ ] D) Amplitud: 21; Período: π / 2
   <!-- feedback: Incorrecto. El período de las funciones sen(x) o cos(x) tiene un numerador de 2π, no de π. -->

@@ -34,13 +34,13 @@ Esta semana exploramos la organización de la tabla periódica moderna, identifi
 ¿Cuál es el símbolo químico y el número atómico del oro, elemento que se extrae tradicionalmente en regiones como el Bajo Cauca antioqueño?
 
 ### Opciones
-- [x] A) Au, número atómico 79.
+- [x] D) Au, número atómico 79.
   <!-- feedback: Correcto. El oro se representa con el símbolo Au (del latín aurum) y posee 79 protones en su núcleo, lo que corresponde a su número atómico. -->
-- [ ] B) Or, número atómico 80.
+- [ ] A) Or, número atómico 80.
   <!-- feedback: Incorrecto. El símbolo del oro no es Or sino Au, derivado del latín aurum; además su número atómico es 79, no 80. -->
-- [ ] C) AG, número atómico 47.
+- [ ] B) AG, número atómico 47.
   <!-- feedback: Incorrecto. AG corresponde a la plata (del latín argentum), no al oro; además el número atómico 47 pertenece a la plata. -->
-- [ ] D) O, número atómico 8.
+- [ ] C) O, número atómico 8.
   <!-- feedback: Incorrecto. La letra O representa al oxígeno, un no metal del grupo 16; el oro es un metal de transición del grupo 11. -->
 
 ### Explicacion Pedagogica
@@ -57,9 +57,9 @@ El símbolo químico del oro es Au, derivado de su nombre en latín aurum, y su 
 ¿Por qué el berilio, el magnesio y el calcio se encuentran ubicados en el mismo grupo de la tabla periódica y tienen propiedades químicas parecidas?
 
 ### Opciones
-- [x] A) Porque los tres elementos tienen el mismo número de electrones de valencia en su última capa.
+- [x] B) Porque los tres elementos tienen el mismo número de electrones de valencia en su última capa.
   <!-- feedback: Correcto. Los elementos de un mismo grupo comparten la cantidad de electrones en su capa de valencia, lo que determina su comportamiento químico similar. -->
-- [ ] B) Porque los tres elementos tienen la misma masa atómica expresada en unidades de masa atómica.
+- [ ] A) Porque los tres elementos tienen la misma masa atómica expresada en unidades de masa atómica.
   <!-- feedback: Incorrecto. Aunque estén en el mismo grupo, su masa atómica es distinta porque tienen diferente número de protones y neutrones. -->
 - [ ] C) Porque los tres elementos fueron descubiertos por el mismo científico en el mismo año.
   <!-- feedback: Incorrecto. Estos elementos fueron descubiertos por científicos diferentes y en años distintos a lo largo de la historia. -->
@@ -80,9 +80,9 @@ Los elementos ubicados en el mismo grupo (columna vertical) de la tabla periódi
 ¿Cómo varía el radio atómico entre el berilio (Be) y el estroncio (Sr) ubicados en el mismo grupo de la tabla periódica?
 
 ### Opciones
-- [x] A) El radio atómico del estroncio es mayor que el del berilio porque tiene más niveles de energía.
+- [x] B) El radio atómico del estroncio es mayor que el del berilio porque tiene más niveles de energía.
   <!-- feedback: Correcto. Al descender en un grupo se añaden capas electrónicas, lo que aumenta la distancia entre el núcleo y los electrones más externos, incrementando el radio atómico. -->
-- [ ] B) El radio atómico del berilio es mayor que el del estroncio porque tiene mayor número de protones.
+- [ ] A) El radio atómico del berilio es mayor que el del estroncio porque tiene mayor número de protones.
   <!-- feedback: Incorrecto. Aunque el berilio tiene menos protones, el número de capas electrónicas determina el radio; más capas significan mayor radio. -->
 - [ ] C) Ambos elementos tienen el mismo radio atómico porque están en el mismo grupo.
   <!-- feedback: Incorrecto. Los elementos de un mismo grupo tienen comportamientos químicos similares, pero el radio atómico aumenta al descender en el grupo. -->
@@ -126,9 +126,9 @@ La electronegatividad es la tendencia de un átomo a atraer electrones hacia sí
 Si comparan la energía de ionización de estos tres metales alcalinos, ¿cuál de las siguientes afirmaciones describe correctamente la tendencia observada?
 
 ### Opciones
-- [x] A) La energía de ionización del litio es mayor que la del sodio, y la del sodio mayor que la del potasio.
+- [x] B) La energía de ionización del litio es mayor que la del sodio, y la del sodio mayor que la del potasio.
   <!-- feedback: Correcto. La energía de ionización disminuye al descender en un grupo, porque los electrones externos están más alejados del núcleo y se retienen con menor fuerza. -->
-- [ ] B) La energía de ionización del potasio es mayor que la del litio porque tiene más protones.
+- [ ] A) La energía de ionización del potasio es mayor que la del litio porque tiene más protones.
   <!-- feedback: Incorrecto. Aunque el potasio tiene más protones, su electrón externo está más lejos del núcleo y se retiene con menor fuerza, requiriendo menos energía. -->
 - [ ] C) Los tres metales tienen la misma energía de ionización porque pertenecen al mismo grupo.
   <!-- feedback: Incorrecto. Aunque pertenecen al mismo grupo, la distancia al núcleo de los electrones externos varía, modificando la energía de ionización. -->
@@ -149,9 +149,9 @@ La energía de ionización es la energía mínima necesaria para arrancar el pri
 ¿Por qué el mercurio y el oro, ambos metales, se encuentran en el mismo bloque de transición de la tabla periódica pero presentan comportamientos físicos y químicos diferentes?
 
 ### Opciones
-- [x] A) Porque pertenecen a períodos distintos y tienen diferente configuración electrónica en sus niveles internos.
+- [x] B) Porque pertenecen a períodos distintos y tienen diferente configuración electrónica en sus niveles internos.
   <!-- feedback: Correcto. Aunque comparten bloque, su ubicación en períodos diferentes genera configuraciones electrónicas y propiedades físico-químicas distintas. -->
-- [ ] B) Porque ambos elementos tienen el mismo número atómico y la misma cantidad de neutrones en el núcleo.
+- [ ] A) Porque ambos elementos tienen el mismo número atómico y la misma cantidad de neutrones en el núcleo.
   <!-- feedback: Incorrecto. El oro tiene número atómico 79 y el mercurio 80; además sus cantidades de neutrones son diferentes. -->
 - [ ] C) Porque el mercurio es un no metal y el oro es un metal, lo cual invierte su comportamiento periódico.
   <!-- feedback: Incorrecto. Tanto el mercurio como el oro son metales clasificados como metales de transición, no hay inversión de comportamiento. -->
@@ -172,13 +172,13 @@ Aunque el oro (Au) y el mercurio (Hg) pertenecen al bloque d de los metales de t
 Si una muestra mineral contiene cromo (Cr) y vanadio (V), ¿qué tipo de elementos son y dónde se ubican en la tabla periódica?
 
 ### Opciones
-- [x] A) Son metales de transición del bloque d, ubicados en el centro de la tabla periódica.
+- [x] D) Son metales de transición del bloque d, ubicados en el centro de la tabla periódica.
   <!-- feedback: Correcto. El cromo y el vanadio son metales de transición del bloque d, y precisamente el cromo y el vanadio dan el color verde a las esmeraldas. -->
-- [ ] B) Son gases nobles del grupo 18, ubicados en el extremo derecho de la tabla.
+- [ ] A) Son gases nobles del grupo 18, ubicados en el extremo derecho de la tabla.
   <!-- feedback: Incorrecto. Los gases nobles como el helio y el neón son inertes, mientras que el cromo y el vanadio son metales reactivos. -->
-- [ ] C) Son metaloides del bloque p, ubicados en la escalera diagonal de la tabla.
+- [ ] B) Son metaloides del bloque p, ubicados en la escalera diagonal de la tabla.
   <!-- feedback: Incorrecto. El cromo y el vanadio son metales típicos, no metaloides como el silicio o el boro. -->
-- [ ] D) Son lantánidos del período 6, ubicados en la parte inferior de la tabla.
+- [ ] C) Son lantánidos del período 6, ubicados en la parte inferior de la tabla.
   <!-- feedback: Incorrecto. Los lantánidos como el cerio y el neodimio están separados en la parte inferior; el cromo y el vanadio están en el bloque d principal. -->
 
 ### Explicacion Pedagogica
@@ -195,11 +195,11 @@ El cromo (Cr, grupo 6) y el vanadio (V, grupo 5) son metales de transición ubic
 ¿Por qué el mercurio y los iones cianuro pueden combinarse con el oro para extraerlo del mineral, considerando su posición en la tabla periódica?
 
 ### Opciones
-- [x] A) Porque el oro forma enlaces estables con ligandos que le ofrecen pares de electrones, aprovechando su baja electronegatividad y configuración electrónica particular.
+- [x] C) Porque el oro forma enlaces estables con ligandos que le ofrecen pares de electrones, aprovechando su baja electronegatividad y configuración electrónica particular.
   <!-- feedback: Correcto. El oro, aunque poco electronegativo, forma complejos estables debido a efectos relativistas y a su configuración electrónica, lo que permite su unión con el cianuro. -->
-- [ ] B) Porque el oro es el elemento más electronegativo de la tabla periódica y atrae cualquier electrón disponible.
+- [ ] A) Porque el oro es el elemento más electronegativo de la tabla periódica y atrae cualquier electrón disponible.
   <!-- feedback: Incorrecto. El oro no es el elemento más electronegativo; el flúor ocupa ese lugar, y el oro es un metal con baja electronegatividad. -->
-- [ ] C) Porque el mercurio y el cianuro son gases nobles y no reaccionan con el oro de manera permanente.
+- [ ] B) Porque el mercurio y el cianuro son gases nobles y no reaccionan con el oro de manera permanente.
   <!-- feedback: Incorrecto. El mercurio es un metal líquido y el cianuro es un anión muy reactivo; ninguno es un gas noble como el helio o el argón. -->
 - [ ] D) Porque el oro se disuelve en agua por ser un metal alcalino del grupo 1 de la tabla periódica.
   <!-- feedback: Incorrecto. El oro pertenece al grupo 11 de los metales de transición, no al grupo 1 de los metales alcalinos como el sodio o el potasio. -->
@@ -218,13 +218,13 @@ La extracción del oro se basa en su capacidad para formar complejos estables co
 Si dos esmeraldas tienen el mismo color verde intenso pero proceden de yacimientos diferentes, ¿qué análisis permitiría confirmar que ambas contienen los mismos elementos responsables del color?
 
 ### Opciones
-- [x] A) Realizar un análisis espectroscópico para detectar la presencia de cromo y vanadio en ambas muestras.
+- [x] D) Realizar un análisis espectroscópico para detectar la presencia de cromo y vanadio en ambas muestras.
   <!-- feedback: Correcto. La espectroscopia atómica permite identificar los elementos presentes y sus cantidades, confirmando si ambas contienen cromo y vanadio. -->
-- [ ] B) Observar únicamente el brillo y la transparencia bajo una lámpara de luz normal.
+- [ ] A) Observar únicamente el brillo y la transparencia bajo una lámpara de luz normal.
   <!-- feedback: Incorrecto. El brillo y la transparencia son propiedades ópticas subjetivas que no permiten identificar qué elementos específicos contiene el mineral. -->
-- [ ] C) Calentar las muestras hasta fundirlas y medir el volumen del líquido resultante.
+- [ ] B) Calentar las muestras hasta fundirlas y medir el volumen del líquido resultante.
   <!-- feedback: Incorrecto. El volumen del líquido no indica la composición elemental; muchas sustancias tienen puntos de fusión similares. -->
-- [ ] D) Comparar el peso exacto de las esmeraldas en una balanza de precisión de joyería.
+- [ ] C) Comparar el peso exacto de las esmeraldas en una balanza de precisión de joyería.
   <!-- feedback: Incorrecto. La masa de la gema depende de su tamaño y densidad, pero no permite identificar qué elementos cromóforos contiene. -->
 
 ### Explicacion Pedagogica
@@ -264,9 +264,9 @@ La reactividad de los metales alcalinos aumenta al descender en el grupo 1 de la
 Evalúe cuál de los siguientes argumentos combina mejor el conocimiento de las propiedades periódicas del mercurio con la realidad ambiental y social de la minería aurífera colombiana.
 
 ### Opciones
-- [x] A) El mercurio es líquido a temperatura ambiente por su configuración electrónica particular; su toxicidad se debe a su afinidad por el azufre biológico, por lo que debería sustituirse por métodos menos dañinos como la cianuración controlada.
+- [x] B) El mercurio es líquido a temperatura ambiente por su configuración electrónica particular; su toxicidad se debe a su afinidad por el azufre biológico, por lo que debería sustituirse por métodos menos dañinos como la cianuración controlada.
   <!-- feedback: Correcto. El argumento combina correctamente las propiedades periódicas del mercurio (líquido, afinidad por azufre) con una propuesta ambiental viable para Colombia. -->
-- [ ] B) El mercurio debería seguir utilizándose porque es un gas noble que no contamina el aire ni el agua de los ríos colombianos.
+- [ ] A) El mercurio debería seguir utilizándose porque es un gas noble que no contamina el aire ni el agua de los ríos colombianos.
   <!-- feedback: Incorrecto. El mercurio no es un gas noble; pertenece al grupo 12 de metales de transición y contamina gravemente los ecosistemas acuáticos. -->
 - [ ] C) El mercurio no representa riesgo alguno para la salud humana porque se evapora rápidamente sin dejar residuos tóxicos.
   <!-- feedback: Incorrecto. El mercurio líquido es altamente tóxico y su vapor también lo es; bioacumula en los tejidos humanos causando daños neurológicos graves. -->
@@ -287,13 +287,13 @@ El mercurio (Hg) es un metal de transición del grupo 12 y período 6, único me
 ¿Qué argumentos químicos y económicos justifican priorizar la extracción responsable de tierras raras en Colombia frente a la extracción tradicional de oro?
 
 ### Opciones
-- [x] A) Las tierras raras son metales de transición interna con propiedades magnéticas únicas y alto valor estratégico en tecnología limpia; su extracción debe hacerse con técnicas que minimicen el impacto ambiental.
+- [x] D) Las tierras raras son metales de transición interna con propiedades magnéticas únicas y alto valor estratégico en tecnología limpia; su extracción debe hacerse con técnicas que minimicen el impacto ambiental.
   <!-- feedback: Correcto. El argumento combina la posición de las tierras raras en la tabla (lantánidos) con su valor tecnológico y la necesidad de prácticas ambientalmente responsables. -->
-- [ ] B) Las tierras raras son gases nobles abundantes en la atmósfera colombiana y se obtienen fácilmente sin riesgo ambiental.
+- [ ] A) Las tierras raras son gases nobles abundantes en la atmósfera colombiana y se obtienen fácilmente sin riesgo ambiental.
   <!-- feedback: Incorrecto. Las tierras raras son metales sólidos del bloque f, no gases nobles, y su extracción es compleja y contaminante si no se regula. -->
-- [ ] C) Las tierras raras son más peligrosas que el oro porque explotan al contacto con el agua de los mares colombianos.
+- [ ] B) Las tierras raras son más peligrosas que el oro porque explotan al contacto con el agua de los mares colombianos.
   <!-- feedback: Incorrecto. Las tierras raras no explotan al contacto con el agua; esa propiedad corresponde a metales alcalinos como el sodio o el potasio. -->
-- [ ] D) Las tierras raras carecen de aplicación industrial porque son inertes y no forman compuestos químicos estables.
+- [ ] C) Las tierras raras carecen de aplicación industrial porque son inertes y no forman compuestos químicos estables.
   <!-- feedback: Incorrecto. Las tierras raras forman múltiples compuestos y son esenciales en imanes, catalizadores, láseres y electrónica moderna. -->
 
 ### Explicacion Pedagogica

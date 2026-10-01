@@ -58,13 +58,13 @@ La diversidad lingüística boliviana se caracteriza por la convivencia e integr
 ¿Cómo se clasifica esta unidad léxica en la dialectología nacional?
 
 ### Opciones
-- [x] A) Regionalismo o dialectalismo boliviano
+- [x] D) Regionalismo o dialectalismo boliviano
   <!-- feedback: ¡Correcto! Pertenece a la variedad lingüística característica de los valles del sur de Bolivia (Tarija). -->
-- [ ] B) Neologismo cibernético
+- [ ] A) Neologismo cibernético
   <!-- feedback: Incorrecto. No es una palabra creada por la tecnología digital. -->
-- [ ] C) Cultismo grecolatino exclusivo
+- [ ] B) Cultismo grecolatino exclusivo
   <!-- feedback: Incorrecto. No proviene del griego ni del latín clásico. -->
-- [ ] D) Arcaísmo en desuso absoluto
+- [ ] C) Arcaísmo en desuso absoluto
   <!-- feedback: Incorrecto. Es un vocablo plenamente vigente en el habla cotidiana. -->
 
 ### Explicacion Pedagogica
@@ -82,13 +82,13 @@ Los regionalismos dialectales enriquecen las variedades hispanohablantes regiona
 ¿Qué función cumple este préstamo en el patrimonio inmaterial?
 
 ### Opciones
-- [x] A) Préstamo léxico de raíz originaria para nombrar categorías culturales
+- [x] D) Préstamo léxico de raíz originaria para nombrar categorías culturales
   <!-- feedback: ¡Correcto! Permite nombrar con precisión figuras de la cosmovisión y el folclore andino. -->
-- [ ] B) Barbarismo ortográfico a sancionar
+- [ ] A) Barbarismo ortográfico a sancionar
   <!-- feedback: Incorrecto. La inclusión de términos originarios respeta la diversidad plurinacional. -->
-- [ ] C) Préstamo del francés medieval
+- [ ] B) Préstamo del francés medieval
   <!-- feedback: Incorrecto. Su origen es quechua, no galicismo. -->
-- [ ] D) Error sintáctico de concordancia
+- [ ] C) Error sintáctico de concordancia
   <!-- feedback: Incorrecto. Es un sustantivo integrado semánticamente. -->
 
 ### Explicacion Pedagogica
@@ -130,11 +130,11 @@ Los tecnolectos o jergas profesionales desarrollan vocabulario especializado par
 ¿Qué demuestra la vigencia de este indigenismo en la sociedad?
 
 ### Opciones
-- [x] A) Demuestra la hibridación lingüística cotidiana entre el quechua/aymara y el castellano
+- [x] C) Demuestra la hibridación lingüística cotidiana entre el quechua/aymara y el castellano
   <!-- feedback: ¡Correcto! Es un vocablo afectivo cotidiano plenamente asimilado por la población de todas las edades. -->
-- [ ] B) Demuestra la prohibición total del español en las ciudades
+- [ ] A) Demuestra la prohibición total del español en las ciudades
   <!-- feedback: Incorrecto. Se emplea dentro del propio castellano regional. -->
-- [ ] C) Demuestra un neologismo acuñado en las redes sociales en 2024
+- [ ] B) Demuestra un neologismo acuñado en las redes sociales en 2024
   <!-- feedback: Incorrecto. Es un término ancestral prehispánico. -->
 - [ ] D) Demuestra un anglicismo derivado de la televisión
   <!-- feedback: Incorrecto. Proviene de las lenguas originarias andinas. -->
@@ -154,11 +154,11 @@ Palabras como 'wawa' evidencian la penetración afectiva del sustrato quechua-ay
 ¿Qué rasgo dialectal expresa esta palabra?
 
 ### Opciones
-- [x] A) Dialectalismo camba o moxeño-oriental
+- [x] C) Dialectalismo camba o moxeño-oriental
   <!-- feedback: ¡Correcto! Forma parte del léxico característico de la identidad cultural y rural de los llanos orientales. -->
-- [ ] B) Galisicismo importado de Francia
+- [ ] A) Galisicismo importado de Francia
   <!-- feedback: Incorrecto. Es una voz del español regional oriental. -->
-- [ ] C) Término científico de veterinaria
+- [ ] B) Término científico de veterinaria
   <!-- feedback: Incorrecto. Es un vocablo del habla popular criolla. -->
 - [ ] D) Neologismo de la robótica
   <!-- feedback: Incorrecto. Pertenece a la tradición ganadera de los llanos. -->
@@ -202,11 +202,11 @@ El concepto Pachamama ha trascendido al ámbito internacional como referente de 
 ¿Qué origen y matiz presenta este indigenismo léxico?
 
 ### Opciones
-- [x] A) Indigenismo de origen quechua/aymara de uso coloquial descriptivo
+- [x] C) Indigenismo de origen quechua/aymara de uso coloquial descriptivo
   <!-- feedback: ¡Correcto! Designa al joven o muchacho en el habla cotidiana del altiplano y valles. -->
-- [ ] B) Sigla militar de las fuerzas armadas
+- [ ] A) Sigla militar de las fuerzas armadas
   <!-- feedback: Incorrecto. No es una abreviación castrense. -->
-- [ ] C) Préstamo del portugués brasileño
+- [ ] B) Préstamo del portugués brasileño
   <!-- feedback: Incorrecto. Su raíz es estrictamente andina. -->
 - [ ] D) Término de la medicina quirúrgica
   <!-- feedback: Incorrecto. Es una palabra del vocabulario común. -->
@@ -226,13 +226,13 @@ Llokalla es una voz de origen quechua y aymara integrada en el castellano andino
 ¿Qué categoría sociolingüística define esta palabra?
 
 ### Opciones
-- [x] A) Gentilicio regional e identidad socio-cultural oriental
+- [x] D) Gentilicio regional e identidad socio-cultural oriental
   <!-- feedback: ¡Correcto! Designa la adscripción identitaria de los habitantes de Santa Cruz, Beni y Pando. -->
-- [ ] B) Vicio sintáctico de solecismo
+- [ ] A) Vicio sintáctico de solecismo
   <!-- feedback: Incorrecto. Es un sustantivo identitario respetado. -->
-- [ ] C) Abreviatura postal administrativa
+- [ ] B) Abreviatura postal administrativa
   <!-- feedback: Incorrecto. No es un código de envío de correspondencia. -->
-- [ ] D) Tecnicismo de la física cuántica
+- [ ] C) Tecnicismo de la física cuántica
   <!-- feedback: Incorrecto. No pertenece a las ciencias naturales exactas. -->
 
 ### Explicacion Pedagogica
@@ -250,11 +250,11 @@ Los términos identitarios regionales como 'camba', 'colla' o 'chapaco' forman p
 ¿Qué proceso identitario expresa esta categoría sociocultural?
 
 ### Opciones
-- [x] A) Denota la síntesis cultural y social entre lo indígena y lo urbano republicano
+- [x] C) Denota la síntesis cultural y social entre lo indígena y lo urbano republicano
   <!-- feedback: ¡Correcto! Expresa la emergencia e identidad mestiza urbana de gran pujanza económica y cultural. -->
-- [ ] B) Expresa una marca de automóvil importado
+- [ ] A) Expresa una marca de automóvil importado
   <!-- feedback: Incorrecto. No es una denominación mercantil de vehículos. -->
-- [ ] C) Expresa un código de programación informática
+- [ ] B) Expresa un código de programación informática
   <!-- feedback: Incorrecto. No atañe al software. -->
 - [ ] D) Expresa un decreto de ley militar
   <!-- feedback: Incorrecto. No es una norma gubernamental. -->
@@ -274,9 +274,9 @@ El concepto 'cholo/chola' reivindica la identidad mestiza urbana y la estética 
 ¿Qué rasgo cultural e identitario define este gentilicio?
 
 ### Opciones
-- [x] A) Gentilicio e identidad dialectal de los valles del sur de Bolivia
+- [x] B) Gentilicio e identidad dialectal de los valles del sur de Bolivia
   <!-- feedback: ¡Correcto! Asocia al habitante tarijeño con su tonada, gastronomía y costumbres particulares. -->
-- [ ] B) Término de la aviación comercial
+- [ ] A) Término de la aviación comercial
   <!-- feedback: Incorrecto. No es un vocabulario aeronáutico. -->
 - [ ] C) Neologismo de la inteligencia artificial
   <!-- feedback: Incorrecto. Es una voz histórica tradicional. -->
@@ -298,13 +298,13 @@ El término 'chapaco' connota la calidez, la tonada y la tradición folclórica 
 ¿Qué representa este vocablo en la geografía urbana paceña?
 
 ### Opciones
-- [x] A) Topónimo y léxico geográfico originario asimilado en la urbe
+- [x] D) Topónimo y léxico geográfico originario asimilado en la urbe
   <!-- feedback: ¡Correcto! Preserva la denominación territorial ancestral en el nombre de barrios paceños. -->
-- [ ] B) Nombre de una galaxia espacial
+- [ ] A) Nombre de una galaxia espacial
   <!-- feedback: Incorrecto. No es una denominación astronómica. -->
-- [ ] C) Fórmula química de un fertilizante
+- [ ] B) Fórmula química de un fertilizante
   <!-- feedback: Incorrecto. No es una notación molecular. -->
-- [ ] D) Sigla de un tratado internacional
+- [ ] C) Sigla de un tratado internacional
   <!-- feedback: Incorrecto. No es un acrónimo de la diplomacia. -->
 
 ### Explicacion Pedagogica
@@ -346,13 +346,13 @@ Los Achachilas son entidades sagradas de la cosmovisión aymara que velan por el
 ¿Qué tipo de patrimonio nombra este arqueolexema?
 
 ### Opciones
-- [x] A) Estructuras arquitectónicas prehispánicas de defensa y culto de piedra
+- [x] D) Estructuras arquitectónicas prehispánicas de defensa y culto de piedra
   <!-- feedback: ¡Correcto! Nombra los sitios arqueológicos fortificados en colinas estratégicas. -->
-- [ ] B) Edificios de rascacielos con vidrios espejados
+- [ ] A) Edificios de rascacielos con vidrios espejados
   <!-- feedback: Incorrecto. No se refiere a la arquitectura del siglo XXI. -->
-- [ ] C) Embarcaciones de madera de la cuenca amazónica
+- [ ] B) Embarcaciones de madera de la cuenca amazónica
   <!-- feedback: Incorrecto. No son canoas ni barcos fluviales. -->
-- [ ] D) Instrumentos musicales de viento de metal
+- [ ] C) Instrumentos musicales de viento de metal
   <!-- feedback: Incorrecto. No son instrumentos de bronce. -->
 
 ### Explicacion Pedagogica
@@ -370,13 +370,13 @@ Las Pukaras eran ciudadelas y fortalezas ceremoniales prehispánicas construidas
 ¿Qué función comunitaria nombra este vocablo?
 
 ### Opciones
-- [x] A) Autoridad espiritual, médica y ceremonial en las comunidades aymaras
+- [x] D) Autoridad espiritual, médica y ceremonial en las comunidades aymaras
   <!-- feedback: ¡Correcto! Designa al sabio conocedor de la ritualidad, la medicina herbal y la lectura de la coca. -->
-- [ ] B) Piloto de aeronaves comerciales
+- [ ] A) Piloto de aeronaves comerciales
   <!-- feedback: Incorrecto. No se relaciona con el transporte aéreo. -->
-- [ ] C) Juez de tribunal de apelaciones penales
+- [ ] B) Juez de tribunal de apelaciones penales
   <!-- feedback: Incorrecto. No es un magistrado del poder judicial formal. -->
-- [ ] D) Comerciante de insumos de computación
+- [ ] C) Comerciante de insumos de computación
   <!-- feedback: Incorrecto. No es una profesión de la cibernética. -->
 
 ### Explicacion Pedagogica
@@ -394,9 +394,9 @@ El Yatiri ('el que sabe') es el guía espiritual que mantiene la armonía entre 
 ¿Qué sentido profundo alberga este ritual ancestral?
 
 ### Opciones
-- [x] A) Práctica ritual de reciprocidad y reequilibrio entre comunidades opuestas
+- [x] B) Práctica ritual de reciprocidad y reequilibrio entre comunidades opuestas
   <!-- feedback: ¡Correcto! Simboliza el encuentro festivo y la ofrenda de sangre a la Pachamama para la fertilidad. -->
-- [ ] B) Un campeonato de fútbol profesional con árbitros
+- [ ] A) Un campeonato de fútbol profesional con árbitros
   <!-- feedback: Incorrecto. Difiere de las disciplinas deportivas occidentales. -->
 - [ ] C) Una contienda electoral para elegir diputados
   <!-- feedback: Incorrecto. No es un acto de votación de la democracia representativa. -->
@@ -418,9 +418,9 @@ El Tinku es una manifestación ritual andina donde el combate festivo busca rest
 ¿Qué significado ceremonial contiene esta acción?
 
 ### Opciones
-- [x] A) Elemento ritual de respeto, comunicación y pedimento a los espíritus sagrados
+- [x] B) Elemento ritual de respeto, comunicación y pedimento a los espíritus sagrados
   <!-- feedback: ¡Correcto! Representa la tríada de hojas que se sostiene con fe al iniciar una ceremonia o diálogo. -->
-- [ ] B) Una marca de cigarrillos industriales
+- [ ] A) Una marca de cigarrillos industriales
   <!-- feedback: Incorrecto. No es un producto tabacalero comercial. -->
 - [ ] C) Un impuesto estatal a la importación
   <!-- feedback: Incorrecto. No es un gravamen tributario. -->
@@ -490,9 +490,9 @@ El Ekeko es el símbolo central de la feria de la Alasita en La Paz, encarnando 
 ¿Qué papel cumple este elemento gastronómico en la comensalidad social?
 
 ### Opciones
-- [x] A) Bebida ritual, social y festiva que acompaña los encuentros comunitarios desde la antigüedad
+- [x] B) Bebida ritual, social y festiva que acompaña los encuentros comunitarios desde la antigüedad
   <!-- feedback: ¡Correcto! Constituye un pilar de la comensalidad en los valles de Cochabamba, Chuquisaca y Tarija. -->
-- [ ] B) Un refresco gaseoso embotellado por multinacionales
+- [ ] A) Un refresco gaseoso embotellado por multinacionales
   <!-- feedback: Incorrecto. Es una bebida artesanal ancestral de fermentación de maíz. -->
 - [ ] C) Un combustible sintético para motores de aviación
   <!-- feedback: Incorrecto. No es un hidrocarburo petrolero. -->

@@ -32,13 +32,13 @@ Este bundle contiene 20 preguntas sobre **numeros-reales** para grado 11, alinea
 ### Enunciado
 ¿Cuál es el conjunto solución de la ecuación con valor absoluto $|2x - 1| = 3$?
 ### Opciones
-- [x] A) $x = 2$ o $x = -1$
+- [x] D) $x = 2$ o $x = -1$
   <!-- feedback: Correcto. Planteando $2x - 1 = 3$ y $2x - 1 = -3$ se obtienen las dos soluciones válidas. -->
-- [ ] B) Solo $x = 2$
+- [ ] A) Solo $x = 2$
   <!-- feedback: Incorrecto. Olvidaste considerar el caso negativo del valor absoluto. -->
-- [ ] C) $x = 3.0$ o $x = -2.0$
+- [ ] B) $x = 3.0$ o $x = -2.0$
   <!-- feedback: Incorrecto. Se aplicó mal la división entre el coeficiente 2. -->
-- [ ] D) No tiene solución en los reales
+- [ ] C) No tiene solución en los reales
   <!-- feedback: Incorrecto. Como 3 > 0, la ecuación sí tiene dos soluciones reales. -->
 ### Explicacion Pedagogica
 La ecuación $|A| = B$ (con $B \ge 0$) se descompone en $A = B$ o $A = -B$. Así, $2x - 1 = 3 \implies x = 2.0$ y $2x - 1 = -3 \implies x = -1.0$.
@@ -52,11 +52,11 @@ La ecuación $|A| = B$ (con $B \ge 0$) se descompone en $A = B$ o $A = -B$. Así
 ### Enunciado
 ¿Cuál es el conjunto solución de la ecuación con valor absoluto $|2x - 2| = 5$?
 ### Opciones
-- [x] A) $x = 3.5$ o $x = -1.5$
+- [x] C) $x = 3.5$ o $x = -1.5$
   <!-- feedback: Correcto. Planteando $2x - 2 = 5$ y $2x - 2 = -5$ se obtienen las dos soluciones válidas. -->
-- [ ] B) Solo $x = 3.5$
+- [ ] A) Solo $x = 3.5$
   <!-- feedback: Incorrecto. Olvidaste considerar el caso negativo del valor absoluto. -->
-- [ ] C) $x = 4.5$ o $x = -2.5$
+- [ ] B) $x = 4.5$ o $x = -2.5$
   <!-- feedback: Incorrecto. Se aplicó mal la división entre el coeficiente 2. -->
 - [ ] D) No tiene solución en los reales
   <!-- feedback: Incorrecto. Como 5 > 0, la ecuación sí tiene dos soluciones reales. -->
@@ -72,13 +72,13 @@ La ecuación $|A| = B$ (con $B \ge 0$) se descompone en $A = B$ o $A = -B$. Así
 ### Enunciado
 ¿Cuál es el conjunto solución de la ecuación con valor absoluto $|2x - 3| = 7$?
 ### Opciones
-- [x] A) $x = 5$ o $x = -2$
+- [x] D) $x = 5$ o $x = -2$
   <!-- feedback: Correcto. Planteando $2x - 3 = 7$ y $2x - 3 = -7$ se obtienen las dos soluciones válidas. -->
-- [ ] B) Solo $x = 5$
+- [ ] A) Solo $x = 5$
   <!-- feedback: Incorrecto. Olvidaste considerar el caso negativo del valor absoluto. -->
-- [ ] C) $x = 6.0$ o $x = -3.0$
+- [ ] B) $x = 6.0$ o $x = -3.0$
   <!-- feedback: Incorrecto. Se aplicó mal la división entre el coeficiente 2. -->
-- [ ] D) No tiene solución en los reales
+- [ ] C) No tiene solución en los reales
   <!-- feedback: Incorrecto. Como 7 > 0, la ecuación sí tiene dos soluciones reales. -->
 ### Explicacion Pedagogica
 La ecuación $|A| = B$ (con $B \ge 0$) se descompone en $A = B$ o $A = -B$. Así, $2x - 3 = 7 \implies x = 5.0$ y $2x - 3 = -7 \implies x = -2.0$.
@@ -92,9 +92,9 @@ La ecuación $|A| = B$ (con $B \ge 0$) se descompone en $A = B$ o $A = -B$. Así
 ### Enunciado
 ¿Cuál es el conjunto solución de la ecuación con valor absoluto $|2x - 4| = 9$?
 ### Opciones
-- [x] A) $x = 6.5$ o $x = -2.5$
+- [x] B) $x = 6.5$ o $x = -2.5$
   <!-- feedback: Correcto. Planteando $2x - 4 = 9$ y $2x - 4 = -9$ se obtienen las dos soluciones válidas. -->
-- [ ] B) Solo $x = 6.5$
+- [ ] A) Solo $x = 6.5$
   <!-- feedback: Incorrecto. Olvidaste considerar el caso negativo del valor absoluto. -->
 - [ ] C) $x = 7.5$ o $x = -3.5$
   <!-- feedback: Incorrecto. Se aplicó mal la división entre el coeficiente 2. -->
@@ -132,13 +132,13 @@ La ecuación $|A| = B$ (con $B \ge 0$) se descompone en $A = B$ o $A = -B$. Así
 ### Enunciado
 ¿Cuál es el conjunto solución de la ecuación con valor absoluto $|2x - 6| = 13$?
 ### Opciones
-- [x] A) $x = 9.5$ o $x = -3.5$
+- [x] D) $x = 9.5$ o $x = -3.5$
   <!-- feedback: Correcto. Planteando $2x - 6 = 13$ y $2x - 6 = -13$ se obtienen las dos soluciones válidas. -->
-- [ ] B) Solo $x = 9.5$
+- [ ] A) Solo $x = 9.5$
   <!-- feedback: Incorrecto. Olvidaste considerar el caso negativo del valor absoluto. -->
-- [ ] C) $x = 10.5$ o $x = -4.5$
+- [ ] B) $x = 10.5$ o $x = -4.5$
   <!-- feedback: Incorrecto. Se aplicó mal la división entre el coeficiente 2. -->
-- [ ] D) No tiene solución en los reales
+- [ ] C) No tiene solución en los reales
   <!-- feedback: Incorrecto. Como 13 > 0, la ecuación sí tiene dos soluciones reales. -->
 ### Explicacion Pedagogica
 La ecuación $|A| = B$ (con $B \ge 0$) se descompone en $A = B$ o $A = -B$. Así, $2x - 6 = 13 \implies x = 9.5$ y $2x - 6 = -13 \implies x = -3.5$.
@@ -152,11 +152,11 @@ La ecuación $|A| = B$ (con $B \ge 0$) se descompone en $A = B$ o $A = -B$. Así
 ### Enunciado
 ¿Cuál es el conjunto solución de la ecuación con valor absoluto $|2x - 7| = 15$?
 ### Opciones
-- [x] A) $x = 11$ o $x = -4$
+- [x] C) $x = 11$ o $x = -4$
   <!-- feedback: Correcto. Planteando $2x - 7 = 15$ y $2x - 7 = -15$ se obtienen las dos soluciones válidas. -->
-- [ ] B) Solo $x = 11$
+- [ ] A) Solo $x = 11$
   <!-- feedback: Incorrecto. Olvidaste considerar el caso negativo del valor absoluto. -->
-- [ ] C) $x = 12.0$ o $x = -5.0$
+- [ ] B) $x = 12.0$ o $x = -5.0$
   <!-- feedback: Incorrecto. Se aplicó mal la división entre el coeficiente 2. -->
 - [ ] D) No tiene solución en los reales
   <!-- feedback: Incorrecto. Como 15 > 0, la ecuación sí tiene dos soluciones reales. -->
@@ -172,13 +172,13 @@ La ecuación $|A| = B$ (con $B \ge 0$) se descompone en $A = B$ o $A = -B$. Así
 ### Enunciado
 ¿Cuál es el conjunto solución de la ecuación con valor absoluto $|2x - 8| = 17$?
 ### Opciones
-- [x] A) $x = 12.5$ o $x = -4.5$
+- [x] D) $x = 12.5$ o $x = -4.5$
   <!-- feedback: Correcto. Planteando $2x - 8 = 17$ y $2x - 8 = -17$ se obtienen las dos soluciones válidas. -->
-- [ ] B) Solo $x = 12.5$
+- [ ] A) Solo $x = 12.5$
   <!-- feedback: Incorrecto. Olvidaste considerar el caso negativo del valor absoluto. -->
-- [ ] C) $x = 13.5$ o $x = -5.5$
+- [ ] B) $x = 13.5$ o $x = -5.5$
   <!-- feedback: Incorrecto. Se aplicó mal la división entre el coeficiente 2. -->
-- [ ] D) No tiene solución en los reales
+- [ ] C) No tiene solución en los reales
   <!-- feedback: Incorrecto. Como 17 > 0, la ecuación sí tiene dos soluciones reales. -->
 ### Explicacion Pedagogica
 La ecuación $|A| = B$ (con $B \ge 0$) se descompone en $A = B$ o $A = -B$. Así, $2x - 8 = 17 \implies x = 12.5$ y $2x - 8 = -17 \implies x = -4.5$.
@@ -192,11 +192,11 @@ La ecuación $|A| = B$ (con $B \ge 0$) se descompone en $A = B$ o $A = -B$. Así
 ### Enunciado
 ¿Cuál es el conjunto solución de la ecuación con valor absoluto $|2x - 9| = 19$?
 ### Opciones
-- [x] A) $x = 14$ o $x = -5$
+- [x] C) $x = 14$ o $x = -5$
   <!-- feedback: Correcto. Planteando $2x - 9 = 19$ y $2x - 9 = -19$ se obtienen las dos soluciones válidas. -->
-- [ ] B) Solo $x = 14$
+- [ ] A) Solo $x = 14$
   <!-- feedback: Incorrecto. Olvidaste considerar el caso negativo del valor absoluto. -->
-- [ ] C) $x = 15.0$ o $x = -6.0$
+- [ ] B) $x = 15.0$ o $x = -6.0$
   <!-- feedback: Incorrecto. Se aplicó mal la división entre el coeficiente 2. -->
 - [ ] D) No tiene solución en los reales
   <!-- feedback: Incorrecto. Como 19 > 0, la ecuación sí tiene dos soluciones reales. -->
@@ -212,11 +212,11 @@ La ecuación $|A| = B$ (con $B \ge 0$) se descompone en $A = B$ o $A = -B$. Así
 ### Enunciado
 ¿Cuál es el conjunto solución de la ecuación con valor absoluto $|2x - 10| = 21$?
 ### Opciones
-- [x] A) $x = 15.5$ o $x = -5.5$
+- [x] C) $x = 15.5$ o $x = -5.5$
   <!-- feedback: Correcto. Planteando $2x - 10 = 21$ y $2x - 10 = -21$ se obtienen las dos soluciones válidas. -->
-- [ ] B) Solo $x = 15.5$
+- [ ] A) Solo $x = 15.5$
   <!-- feedback: Incorrecto. Olvidaste considerar el caso negativo del valor absoluto. -->
-- [ ] C) $x = 16.5$ o $x = -6.5$
+- [ ] B) $x = 16.5$ o $x = -6.5$
   <!-- feedback: Incorrecto. Se aplicó mal la división entre el coeficiente 2. -->
 - [ ] D) No tiene solución en los reales
   <!-- feedback: Incorrecto. Como 21 > 0, la ecuación sí tiene dos soluciones reales. -->
@@ -232,13 +232,13 @@ La ecuación $|A| = B$ (con $B \ge 0$) se descompone en $A = B$ o $A = -B$. Así
 ### Enunciado
 ¿Cuál es el conjunto solución de la ecuación con valor absoluto $|2x - 11| = 23$?
 ### Opciones
-- [x] A) $x = 17$ o $x = -6$
+- [x] D) $x = 17$ o $x = -6$
   <!-- feedback: Correcto. Planteando $2x - 11 = 23$ y $2x - 11 = -23$ se obtienen las dos soluciones válidas. -->
-- [ ] B) Solo $x = 17$
+- [ ] A) Solo $x = 17$
   <!-- feedback: Incorrecto. Olvidaste considerar el caso negativo del valor absoluto. -->
-- [ ] C) $x = 18.0$ o $x = -7.0$
+- [ ] B) $x = 18.0$ o $x = -7.0$
   <!-- feedback: Incorrecto. Se aplicó mal la división entre el coeficiente 2. -->
-- [ ] D) No tiene solución en los reales
+- [ ] C) No tiene solución en los reales
   <!-- feedback: Incorrecto. Como 23 > 0, la ecuación sí tiene dos soluciones reales. -->
 ### Explicacion Pedagogica
 La ecuación $|A| = B$ (con $B \ge 0$) se descompone en $A = B$ o $A = -B$. Así, $2x - 11 = 23 \implies x = 17.0$ y $2x - 11 = -23 \implies x = -6.0$.
@@ -252,11 +252,11 @@ La ecuación $|A| = B$ (con $B \ge 0$) se descompone en $A = B$ o $A = -B$. Así
 ### Enunciado
 ¿Cuál es el conjunto solución de la ecuación con valor absoluto $|2x - 12| = 25$?
 ### Opciones
-- [x] A) $x = 18.5$ o $x = -6.5$
+- [x] C) $x = 18.5$ o $x = -6.5$
   <!-- feedback: Correcto. Planteando $2x - 12 = 25$ y $2x - 12 = -25$ se obtienen las dos soluciones válidas. -->
-- [ ] B) Solo $x = 18.5$
+- [ ] A) Solo $x = 18.5$
   <!-- feedback: Incorrecto. Olvidaste considerar el caso negativo del valor absoluto. -->
-- [ ] C) $x = 19.5$ o $x = -7.5$
+- [ ] B) $x = 19.5$ o $x = -7.5$
   <!-- feedback: Incorrecto. Se aplicó mal la división entre el coeficiente 2. -->
 - [ ] D) No tiene solución en los reales
   <!-- feedback: Incorrecto. Como 25 > 0, la ecuación sí tiene dos soluciones reales. -->
@@ -292,11 +292,11 @@ La ecuación $|A| = B$ (con $B \ge 0$) se descompone en $A = B$ o $A = -B$. Así
 ### Enunciado
 ¿Cuál es el conjunto solución de la ecuación con valor absoluto $|2x - 14| = 29$?
 ### Opciones
-- [x] A) $x = 21.5$ o $x = -7.5$
+- [x] C) $x = 21.5$ o $x = -7.5$
   <!-- feedback: Correcto. Planteando $2x - 14 = 29$ y $2x - 14 = -29$ se obtienen las dos soluciones válidas. -->
-- [ ] B) Solo $x = 21.5$
+- [ ] A) Solo $x = 21.5$
   <!-- feedback: Incorrecto. Olvidaste considerar el caso negativo del valor absoluto. -->
-- [ ] C) $x = 22.5$ o $x = -8.5$
+- [ ] B) $x = 22.5$ o $x = -8.5$
   <!-- feedback: Incorrecto. Se aplicó mal la división entre el coeficiente 2. -->
 - [ ] D) No tiene solución en los reales
   <!-- feedback: Incorrecto. Como 29 > 0, la ecuación sí tiene dos soluciones reales. -->
@@ -312,11 +312,11 @@ La ecuación $|A| = B$ (con $B \ge 0$) se descompone en $A = B$ o $A = -B$. Así
 ### Enunciado
 ¿Cuál es el conjunto solución de la ecuación con valor absoluto $|2x - 15| = 31$?
 ### Opciones
-- [x] A) $x = 23$ o $x = -8$
+- [x] C) $x = 23$ o $x = -8$
   <!-- feedback: Correcto. Planteando $2x - 15 = 31$ y $2x - 15 = -31$ se obtienen las dos soluciones válidas. -->
-- [ ] B) Solo $x = 23$
+- [ ] A) Solo $x = 23$
   <!-- feedback: Incorrecto. Olvidaste considerar el caso negativo del valor absoluto. -->
-- [ ] C) $x = 24.0$ o $x = -9.0$
+- [ ] B) $x = 24.0$ o $x = -9.0$
   <!-- feedback: Incorrecto. Se aplicó mal la división entre el coeficiente 2. -->
 - [ ] D) No tiene solución en los reales
   <!-- feedback: Incorrecto. Como 31 > 0, la ecuación sí tiene dos soluciones reales. -->
@@ -332,9 +332,9 @@ La ecuación $|A| = B$ (con $B \ge 0$) se descompone en $A = B$ o $A = -B$. Así
 ### Enunciado
 ¿Cuál es el conjunto solución de la ecuación con valor absoluto $|2x - 16| = 33$?
 ### Opciones
-- [x] A) $x = 24.5$ o $x = -8.5$
+- [x] B) $x = 24.5$ o $x = -8.5$
   <!-- feedback: Correcto. Planteando $2x - 16 = 33$ y $2x - 16 = -33$ se obtienen las dos soluciones válidas. -->
-- [ ] B) Solo $x = 24.5$
+- [ ] A) Solo $x = 24.5$
   <!-- feedback: Incorrecto. Olvidaste considerar el caso negativo del valor absoluto. -->
 - [ ] C) $x = 25.5$ o $x = -9.5$
   <!-- feedback: Incorrecto. Se aplicó mal la división entre el coeficiente 2. -->
@@ -352,11 +352,11 @@ La ecuación $|A| = B$ (con $B \ge 0$) se descompone en $A = B$ o $A = -B$. Así
 ### Enunciado
 ¿Cuál es el conjunto solución de la ecuación con valor absoluto $|2x - 17| = 35$?
 ### Opciones
-- [x] A) $x = 26$ o $x = -9$
+- [x] C) $x = 26$ o $x = -9$
   <!-- feedback: Correcto. Planteando $2x - 17 = 35$ y $2x - 17 = -35$ se obtienen las dos soluciones válidas. -->
-- [ ] B) Solo $x = 26$
+- [ ] A) Solo $x = 26$
   <!-- feedback: Incorrecto. Olvidaste considerar el caso negativo del valor absoluto. -->
-- [ ] C) $x = 27.0$ o $x = -10.0$
+- [ ] B) $x = 27.0$ o $x = -10.0$
   <!-- feedback: Incorrecto. Se aplicó mal la división entre el coeficiente 2. -->
 - [ ] D) No tiene solución en los reales
   <!-- feedback: Incorrecto. Como 35 > 0, la ecuación sí tiene dos soluciones reales. -->
@@ -372,13 +372,13 @@ La ecuación $|A| = B$ (con $B \ge 0$) se descompone en $A = B$ o $A = -B$. Así
 ### Enunciado
 ¿Cuál es el conjunto solución de la ecuación con valor absoluto $|2x - 18| = 37$?
 ### Opciones
-- [x] A) $x = 27.5$ o $x = -9.5$
+- [x] D) $x = 27.5$ o $x = -9.5$
   <!-- feedback: Correcto. Planteando $2x - 18 = 37$ y $2x - 18 = -37$ se obtienen las dos soluciones válidas. -->
-- [ ] B) Solo $x = 27.5$
+- [ ] A) Solo $x = 27.5$
   <!-- feedback: Incorrecto. Olvidaste considerar el caso negativo del valor absoluto. -->
-- [ ] C) $x = 28.5$ o $x = -10.5$
+- [ ] B) $x = 28.5$ o $x = -10.5$
   <!-- feedback: Incorrecto. Se aplicó mal la división entre el coeficiente 2. -->
-- [ ] D) No tiene solución en los reales
+- [ ] C) No tiene solución en los reales
   <!-- feedback: Incorrecto. Como 37 > 0, la ecuación sí tiene dos soluciones reales. -->
 ### Explicacion Pedagogica
 La ecuación $|A| = B$ (con $B \ge 0$) se descompone en $A = B$ o $A = -B$. Así, $2x - 18 = 37 \implies x = 27.5$ y $2x - 18 = -37 \implies x = -9.5$.
@@ -392,13 +392,13 @@ La ecuación $|A| = B$ (con $B \ge 0$) se descompone en $A = B$ o $A = -B$. Así
 ### Enunciado
 ¿Cuál es el conjunto solución de la ecuación con valor absoluto $|2x - 19| = 39$?
 ### Opciones
-- [x] A) $x = 29$ o $x = -10$
+- [x] D) $x = 29$ o $x = -10$
   <!-- feedback: Correcto. Planteando $2x - 19 = 39$ y $2x - 19 = -39$ se obtienen las dos soluciones válidas. -->
-- [ ] B) Solo $x = 29$
+- [ ] A) Solo $x = 29$
   <!-- feedback: Incorrecto. Olvidaste considerar el caso negativo del valor absoluto. -->
-- [ ] C) $x = 30.0$ o $x = -11.0$
+- [ ] B) $x = 30.0$ o $x = -11.0$
   <!-- feedback: Incorrecto. Se aplicó mal la división entre el coeficiente 2. -->
-- [ ] D) No tiene solución en los reales
+- [ ] C) No tiene solución en los reales
   <!-- feedback: Incorrecto. Como 39 > 0, la ecuación sí tiene dos soluciones reales. -->
 ### Explicacion Pedagogica
 La ecuación $|A| = B$ (con $B \ge 0$) se descompone en $A = B$ o $A = -B$. Así, $2x - 19 = 39 \implies x = 29.0$ y $2x - 19 = -39 \implies x = -10.0$.

@@ -33,11 +33,11 @@ calibration: {difficulty_band: "D3-D10", expected_success: 0.65}
 ¿Qué forma de gobierno adopta la República Oriental del Uruguay según su marco constitucional vigente?
 
 ### Opciones
-- [x] A) Democracia representativa y directa, con forma republicana y unitaria.
+- [x] C) Democracia representativa y directa, con forma republicana y unitaria.
   <!-- feedback: Correcto. Uruguay se organiza como una república unitaria con democracia representativa acoplada a mecanismos directos. -->
-- [ ] B) Monarquía parlamentaria hereditaria federal.
+- [ ] A) Monarquía parlamentaria hereditaria federal.
   <!-- feedback: Incorrecto. Uruguay no posee corona ni reyes; es una república unitaria. -->
-- [ ] C) Confederación autocrática militar sin división de poderes.
+- [ ] B) Confederación autocrática militar sin división de poderes.
   <!-- feedback: Incorrecto. La Constitución consagra la república democrática con tres poderes independientes. -->
 - [ ] D) Teocracia constitucional dirigida por autoridades religiosas.
   <!-- feedback: Incorrecto. El Estado uruguayo es laico y separado de toda religión desde la Constitución de 1918. -->
@@ -58,11 +58,11 @@ La Constitución uruguaya establece una forma republicana y unitaria de gobierno
 ### Opciones
 - [ ] A) El Tribunal de Cuentas de la República.
   <!-- feedback: Incorrecto. El Tribunal de Cuentas es el órgano de control externo del presupuesto público. -->
-- [x] B) La Asamblea General (compuesta por la Cámara de Senadores y la Cámara de Representantes).
+- [x] D) La Asamblea General (compuesta por la Cámara de Senadores y la Cámara de Representantes).
   <!-- feedback: Correcto. La Asamblea General es el parlamento bicameral nacional (30 senadores + Vicepresidente y 99 diputados). -->
-- [ ] C) El Consejo de Ministros Departamentales.
+- [ ] B) El Consejo de Ministros Departamentales.
   <!-- feedback: Incorrecto. El Consejo de Ministros integra el Poder Ejecutivo. -->
-- [ ] D) La Suprema Corte de Justicia.
+- [ ] C) La Suprema Corte de Justicia.
   <!-- feedback: Incorrecto. La Suprema Corte encabeza el Poder Judicial. -->
 
 ### Explicacion Pedagogica
@@ -81,9 +81,9 @@ La Asamblea General es el órgano bicameral de la representación nacional en Ur
 ### Opciones
 - [ ] A) Aprobar el presupuesto general de sueldos de las empresas privadas.
   <!-- feedback: Incorrecto. No regula salarios ni presupuestos de empresas privadas. -->
-- [x] B) Organizar, supervisar y proclamar los resultados de los actos electorales, plebiscitos y referéndums.
+- [x] C) Organizar, supervisar y proclamar los resultados de los actos electorales, plebiscitos y referéndums.
   <!-- feedback: Correcto. La Corte Electoral administra el Registro Cívico Nacional y garantiza la máxima imparcialidad en comicios. -->
-- [ ] C) Comandar a las fuerzas armadas durante tiempos de guerra exterior.
+- [ ] B) Comandar a las fuerzas armadas durante tiempos de guerra exterior.
   <!-- feedback: Incorrecto. El mando superior de las Fuerzas Armadas lo ejerce el Presidente de la República en Consejo de Ministros. -->
 - [ ] D) Redactar las sentencias judiciales del fuero penal.
   <!-- feedback: Incorrecto. La administración de justicia penal compete exclusivamente al Poder Judicial. -->
@@ -104,11 +104,11 @@ La Corte Electoral uruguaya goza de máxima independencia institucional, velando
 ### Opciones
 - [ ] A) Plebiscito constitucional de reforma.
   <!-- feedback: Incorrecto. El plebiscito se utiliza para reformar el texto de la Constitución, no para derogar leyes comunes. -->
-- [x] B) Referéndum contra las leyes (Artículo 79 de la Constitución).
+- [x] D) Referéndum contra las leyes (Artículo 79 de la Constitución).
   <!-- feedback: Correcto. El recurso de referéndum permite al cuerpo electoral decidir la derogación de leyes aprobadas por la Asamblea General. -->
-- [ ] C) Juicio político parlamentario.
+- [ ] B) Juicio político parlamentario.
   <!-- feedback: Incorrecto. El juicio político juzga la responsabilidad de altos funcionarios estatales. -->
-- [ ] D) Acción de amparo preventivo.
+- [ ] C) Acción de amparo preventivo.
   <!-- feedback: Incorrecto. El amparo es una garantía judicial de protección de derechos fundamentales vulnerados. -->
 
 ### Explicacion Pedagogica
@@ -127,11 +127,11 @@ El recurso de referéndum es el mecanismo de democracia directa por el cual el e
 ### Opciones
 - [ ] A) La solicitud formal dirigida al Embajador de la Organización de los Estados Americanos.
   <!-- feedback: Incorrecto. Las reformas constitucionales son actos soberanos internos sin mediación diplomática. -->
-- [x] B) La iniciativa popular de reforma constitucional sometida a plebiscito en la elección nacional más inmediata.
+- [x] D) La iniciativa popular de reforma constitucional sometida a plebiscito en la elección nacional más inmediata.
   <!-- feedback: Correcto. El 10% de los inscritos puede presentar un proyecto de reforma constitucional que se vota en plebiscito junto a las elecciones nacionales. -->
-- [ ] C) La firma de un decreto por parte del Intendente de Montevideo.
+- [ ] B) La firma de un decreto por parte del Intendente de Montevideo.
   <!-- feedback: Incorrecto. Los intendentes dirigen los gobiernos departamentales y no reforman la Constitución. -->
-- [ ] D) Un acuerdo comercial privado sancionado por la Bolsa de Valores.
+- [ ] C) Un acuerdo comercial privado sancionado por la Bolsa de Valores.
   <!-- feedback: Incorrecto. Los tratados o contratos privados no modifican la Carta Magna del Estado. -->
 
 ### Explicacion Pedagogica
@@ -148,9 +148,9 @@ La iniciativa popular del 10% del padrón electoral permite elevar proyectos de 
 ¿Qué innovación electoral introdujo la reforma de 1997 para la elección del Presidente de la República cuando ningún candidato alcanza la mayoría absoluta de votos en octubre?
 
 ### Opciones
-- [ ] A) El nombramiento directo por el candidato que quede en tercer lugar.
+- [ ] B) El nombramiento directo por el candidato que quede en tercer lugar.
   <!-- feedback: Incorrecto. El sistema democrático consagra el triunfo de las mayorías electorales. -->
-- [x] B) La segunda vuelta electoral (balotaje) en noviembre entre las dos fórmulas más votadas.
+- [x] A) La segunda vuelta electoral (balotaje) en noviembre entre las dos fórmulas más votadas.
   <!-- feedback: Correcto. Si ninguna fórmula presidencial supera el 50% de los votos válidos en octubre, se celebra un balotaje en noviembre. -->
 - [ ] C) La suspensión de la elección por un período de diez años.
   <!-- feedback: Incorrecto. La segunda vuelta se celebra cuatro semanas después de la elección nacional. -->
@@ -173,11 +173,11 @@ La reforma constitucional de 1997 introdujo el balotaje para asegurar legitimida
 ### Opciones
 - [ ] A) Las Gobernaciones Provinciales Autónomas.
   <!-- feedback: Incorrecto. Uruguay no posee provincias sino departamentos y municipios. -->
-- [x] B) Los Municipios (encabezados por el Alcalde y cuatro Concejalas/es).
+- [x] D) Los Municipios (encabezados por el Alcalde y cuatro Concejalas/es).
   <!-- feedback: Correcto. Creó el tercer nivel de gobierno local mediante Municipios electos por la ciudadanía en cada departamento. -->
-- [ ] C) Los Cabildos Virreinales Abiertos.
+- [ ] B) Los Cabildos Virreinales Abiertos.
   <!-- feedback: Incorrecto. Los Cabildos Virreinales corresponden a la institucionalidad colonial del siglo XVIII. -->
-- [ ] D) Las Capitanías Generales de Frontera.
+- [ ] C) Las Capitanías Generales de Frontera.
   <!-- feedback: Incorrecto. Mismo anacronismo colonial del período hispánico. -->
 
 ### Explicacion Pedagogica
@@ -196,11 +196,11 @@ La creación de los Municipios instituyó el tercer nivel de gobierno local para
 ### Opciones
 - [ ] A) La obligación de residir en la capital y pertenecer a un partido político único.
   <!-- feedback: Incorrecto. La Constitución garantiza el pluralismo y la libertad de residencia en todo el territorio. -->
-- [x] B) El derecho a ser protegidos en el goce de su vida, honor, libertad, seguridad, trabajo y propiedad.
+- [x] D) El derecho a ser protegidos en el goce de su vida, honor, libertad, seguridad, trabajo y propiedad.
   <!-- feedback: Correcto. El Art. 7° consagra la protección estatal de la vida, honor, libertad, seguridad, trabajo y propiedad. -->
-- [ ] C) El derecho a evadir impuestos sin sanción legal alguna.
+- [ ] B) El derecho a evadir impuestos sin sanción legal alguna.
   <!-- feedback: Incorrecto. El cumplimiento de las cargas tributarias aprobadas por ley es un deber ciudadano. -->
-- [ ] D) La facultad de expropiar bienes privados sin indemnización previa.
+- [ ] C) La facultad de expropiar bienes privados sin indemnización previa.
   <!-- feedback: Incorrecto. El Art. 32 protege la propiedad privada y exige justa y previa indemnización para expropiar. -->
 
 ### Explicacion Pedagogica
@@ -217,9 +217,9 @@ El Artículo 7° de la Constitución constituye el pilar garantista que impone a
 ¿Qué órgano del Poder Judicial en Uruguay posee la competencia exclusiva para declarar la inconstitucionalidad de las leyes y aplicar la ineficacia de la norma para el caso concreto?
 
 ### Opciones
-- [ ] A) El Tribunal de Apelaciones en lo Trabajo.
+- [ ] B) El Tribunal de Apelaciones en lo Trabajo.
   <!-- feedback: Incorrecto. Los Tribunales de Apelaciones revisan sentencias de primera instancia en sus respectivos fueros. -->
-- [x] B) La Suprema Corte de Justicia.
+- [x] A) La Suprema Corte de Justicia.
   <!-- feedback: Correcto. La Suprema Corte de Justicia ejerce en exclusiva el control concentrado de constitucionalidad de las leyes. -->
 - [ ] C) El Ministerio de Educación y Cultura.
   <!-- feedback: Incorrecto. Es un ministerio del Poder Ejecutivo que no ejerce función jurisdiccional constitutional. -->
@@ -240,9 +240,9 @@ La Suprema Corte de Justicia es el máximo órgano del Poder Judicial con potest
 ¿Qué principio establece la Ley N° 18.381 respecto a la información en poder de los organismos públicos estatales y no estatales?
 
 ### Opciones
-- [ ] A) Que toda la información estatal es secreta por defecto y no se puede consultar.
+- [ ] B) Que toda la información estatal es secreta por defecto y no se puede consultar.
   <!-- feedback: Incorrecto. La ley consagra el principio opuesto: la publicidad es la regla y el secreto la excepción. -->
-- [x] B) Que toda la información producida o en posesión de organismos públicos es pública, salvo excepciones expresas de reserva, confidencialidad o secreto votadas por ley.
+- [x] A) Que toda la información producida o en posesión de organismos públicos es pública, salvo excepciones expresas de reserva, confidencialidad o secreto votadas por ley.
   <!-- feedback: Correcto. El acceso es la regla general para promover el control ciudadano y la transparencia gubernamental. -->
 - [ ] C) Que sólo los legisladores pueden leer los diarios oficiales.
   <!-- feedback: Incorrecto. La información pública está al alcance de cualquier habitante del país. -->
@@ -263,9 +263,9 @@ La Ley de Acceso a la Información Pública consagra el principio de transparenc
 ¿Qué choque principista entre la soberanía popular interna y el Derecho Internacional de los Derechos Humanos puso de manifiesto el fallo del Caso Gelman?
 
 ### Opciones
-- [ ] A) Que las consultas populares avalan la ejecución de crímenes sin revisión de tratados.
+- [ ] B) Que las consultas populares avalan la ejecución de crímenes sin revisión de tratados.
   <!-- feedback: Incorrecto. La CIDH dictaminó que la voluntad popular no puede conculcar derechos indisponibles garantizados por tratados internacionales. -->
-- [x] B) Que las ratificaciones plebiscitarias de una ley de amnistía no pueden amparar la impunidad de crímenes de lesa humanidad violentando la Convención Americana de DDHH.
+- [x] A) Que las ratificaciones plebiscitarias de una ley de amnistía no pueden amparar la impunidad de crímenes de lesa humanidad violentando la Convención Americana de DDHH.
   <!-- feedback: Correcto. La CIDH ratificó que las violaciones graves a los DDHH son inamnistiables e imprescriptibles, prevaleciendo sobre leyes internas sin importar si fueron respaldadas en las urnas. -->
 - [ ] C) Que la Corte Interamericana carece de jurisdicción en el continente americano.
   <!-- feedback: Incorrecto. Uruguay es Estado parte de la Convención Americana y reconoce la jurisdicción obligatoria de la CIDH. -->
@@ -311,9 +311,9 @@ La estabilidad e institucionalización del sistema partidario uruguayo ha sido c
 ### Opciones
 - [ ] A) Establece la censura previa por un comité de supervisión militar antes de imprimir.
   <!-- feedback: Incorrecto. El Artículo 29 prohíbe expresamente la censura previa. -->
-- [x] B) Prohíbe la censura previa, pero responsabiliza al autor por los abusos que cometa (calumnia e injuria) según la ley ordinaria.
+- [x] C) Prohíbe la censura previa, pero responsabiliza al autor por los abusos que cometa (calumnia e injuria) según la ley ordinaria.
   <!-- feedback: Correcto. Toda persona es libre de emitir su opinión por cualquier medio sin censura previa, respondiendo a posteriori por los delitos cometidos en el abuso de esa libertad. -->
-- [ ] C) Exige que todo periodista posea un carné aprobado por las intendencias.
+- [ ] B) Exige que todo periodista posea un carné aprobado por las intendencias.
   <!-- feedback: Incorrecto. No se exige colegiación ni autorización previa gubernamental para ejercer la libertad de expresión. -->
 - [ ] D) Prohíbe la publicación de opiniones críticas sobre el presupuesto estatal.
   <!-- feedback: Incorrecto. El debate y la crítica de las políticas públicas es pilar de la libertad republicana. -->
@@ -332,9 +332,9 @@ El Artículo 29 consagra el principio republicano de prohibición de la censura 
 ¿Qué impacto secularizador tuvo la Constitución de 1918 sobre la laicidad del Estado y la libertad de cultos en la vida pública uruguaya?
 
 ### Opciones
-- [ ] A) Consagró una religión oficial de estado obligatoria para los cargos públicos.
+- [ ] B) Consagró una religión oficial de estado obligatoria para los cargos públicos.
   <!-- feedback: Incorrecto. Suprimió la religión oficial del Estado consagrando la laicidad plena. -->
-- [x] B) Consagró la absoluta laicidad del Estado, garantizando la libertad de todos los cultos y eximiendo de impuestos a los templos religiosos.
+- [x] A) Consagró la absoluta laicidad del Estado, garantizando la libertad de todos los cultos y eximiendo de impuestos a los templos religiosos.
   <!-- feedback: Correcto. La Carta de 1918 separó jurídicamente la Iglesia del Estado, afirmando la neutralidad estatal en materia religiosa. -->
 - [ ] C) Prohibió la práctica privada de cualquier creencia espiritual.
   <!-- feedback: Incorrecto. Garantizó la plena libertad de cultos y creencias en el ámbito privado y público. -->
@@ -357,11 +357,11 @@ La Constitución de 1918 marcó el hito secularizador que consolidó la matriz l
 ### Opciones
 - [ ] A) Para tramitar la compraventa ordinaria de un vehículo usado.
   <!-- feedback: Incorrecto. Es un procedimiento comercial o civil común, no de amparo constitucional. -->
-- [x] B) Contra todo acto u omisión de autoridades públicas o particulares que lesione o amenace con laidez o arbitrariedad manifiesta un derecho constitucional no amparado por habeas corpus.
+- [x] D) Contra todo acto u omisión de autoridades públicas o particulares que lesione o amenace con laidez o arbitrariedad manifiesta un derecho constitucional no amparado por habeas corpus.
   <!-- feedback: Correcto. El amparo protege de forma urgente cualquier derecho constitucional vulnerado por actos ilegítimos cuando no existan otros medios procesales eficaces. -->
-- [ ] C) Para solicitar la eximición permanente de pagar el consumo de energía eléctrica.
+- [ ] B) Para solicitar la eximición permanente de pagar el consumo de energía eléctrica.
   <!-- feedback: Incorrecto. El pago de tarifas públicas no constituye una lesión ilegítima de un derecho si se ajusta a derecho. -->
-- [ ] D) Únicamente en tiempos de declaración de estado de guerra exterior.
+- [ ] C) Únicamente en tiempos de declaración de estado de guerra exterior.
   <!-- feedback: Incorrecto. Procede en tiempos de plena normalidad institucional democrática. -->
 
 ### Explicacion Pedagogica
@@ -426,11 +426,11 @@ La calidad democrática uruguaya se fundamenta en la solidez de sus contrapesos 
 ### Opciones
 - [ ] A) En la imposición por ley de una religión obligatoria en las escuelas públicas.
   <!-- feedback: Incorrecto. La escuela pública uruguaya es estrictamente laica y neutral según los principios varelianos. -->
-- [x] B) Entre quienes sostienen que la laicidad exige la ausencia total de expresiones religiosas o identitarias en lo público y quienes defienden que el Estado laico debe garantizar la manifestación pluralista e inclusiva de todas las visiones sin privilegiar ninguna.
+- [x] D) Entre quienes sostienen que la laicidad exige la ausencia total de expresiones religiosas o identitarias en lo público y quienes defienden que el Estado laico debe garantizar la manifestación pluralista e inclusiva de todas las visiones sin privilegiar ninguna.
   <!-- feedback: Correcto. Contrapone la tradición de estricta reserva de lo confesional al ámbito privado frente a visiones contemporáneas que promueven el libre ejercicio pluralista e inclusivo en la esfera pública sin coacción. -->
-- [ ] C) En la prohibición de enseñar ciencias naturales o matemáticas en el sistema educativo.
+- [ ] B) En la prohibición de enseñar ciencias naturales o matemáticas en el sistema educativo.
   <!-- feedback: Incorrecto. Las ciencias y humanidades forman el núcleo curricular del sistema educativo laico. -->
-- [ ] D) En la obligación de que los jueces vistan túnicas clericales durante los juicios.
+- [ ] C) En la obligación de que los jueces vistan túnicas clericales durante los juicios.
   <!-- feedback: Incorrecto. El Poder Judicial uruguayo es laico e independiente de corporaciones eclesiásticas. -->
 
 ### Explicacion Pedagogica
@@ -449,11 +449,11 @@ El debate contemporáneo sobre la laicidad en Uruguay evoluciona desde una visi�
 ### Opciones
 - [ ] A) Aumentar indefinidamente el déficit fiscal sin límite parlamentario alguno.
   <!-- feedback: Incorrecto. Las normas presupuestales buscan justamente controlar y ordenar el gasto público. -->
-- [x] B) Evitar la 'politización' del presupuesto mediante aditivos fuera de rubro, garantizando la sostenibilidad financiera y el estricto control de la Asamblea General sobre los recursos del Estado.
+- [x] D) Evitar la 'politización' del presupuesto mediante aditivos fuera de rubro, garantizando la sostenibilidad financiera y el estricto control de la Asamblea General sobre los recursos del Estado.
   <!-- feedback: Correcto. El marco constitucional exige que todo gasto o creación de cargo esté respaldado por créditos presupuestales debidamente financiados, protegiendo el equilibrio fiscal y la transparencia. -->
-- [ ] C) Impedir que el Poder Judicial reciba financiamiento del Tesoro Nacional.
+- [ ] B) Impedir que el Poder Judicial reciba financiamiento del Tesoro Nacional.
   <!-- feedback: Incorrecto. Todos los poderes del Estado reciben partidas presupuestales aprobadas por ley de presupuesto. -->
-- [ ] D) Permitir que el Presidente modifique las alícuotas del IVA mediante un decreto simple sin ley.
+- [ ] C) Permitir que el Presidente modifique las alícuotas del IVA mediante un decreto simple sin ley.
   <!-- feedback: Incorrecto. La creación o modificación de tributos exige ley en sentido formal aprobada por el parlamento. -->
 
 ### Explicacion Pedagogica

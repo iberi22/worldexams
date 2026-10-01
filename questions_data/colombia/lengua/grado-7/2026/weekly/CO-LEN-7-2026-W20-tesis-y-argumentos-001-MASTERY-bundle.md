@@ -53,8 +53,8 @@ La tesis es la columna vertebral de la argumentación. Sin una tesis clara, el t
 ¿Cuál es la función principal de los **argumentos** en un ensayo?
 
 ### Opciones
-- [ ] A) Hacer que el texto sea más largo para cumplir con la tarea. <!-- feedback: Incorrecto. La extensión no es el objetivo de la argumentación; la calidad de las razones sí lo es. -->
-- [x] B) Proporcionar bases sólidas que demuestren la validez de la tesis. <!-- feedback: ¡Correcto! Los argumentos sirven para convencer al lector de que la tesis es razonable y aceptable. -->
+- [ ] B) Hacer que el texto sea más largo para cumplir con la tarea. <!-- feedback: Incorrecto. La extensión no es el objetivo de la argumentación; la calidad de las razones sí lo es. -->
+- [x] A) Proporcionar bases sólidas que demuestren la validez de la tesis. <!-- feedback: ¡Correcto! Los argumentos sirven para convencer al lector de que la tesis es razonable y aceptable. -->
 - [ ] C) Presentar opiniones de otras personas que no están de acuerdo con el autor. <!-- feedback: Incorrecto. Presentar la opinión contraria es parte del contraargumento, no es la función general de los argumentos que apoyan la tesis. -->
 - [ ] D) Entretener al lector con anécdotas divertidas que no tienen relación con el tema. <!-- feedback: Incorrecto. Si no tienen relación con el tema, pierden su carácter argumentativo. -->
 
@@ -75,9 +75,9 @@ Lee el siguiente fragmento: "El uso excesivo de plásticos está destruyendo nue
 ¿Cuál es la tesis de este fragmento?
 
 ### Opciones
-- [ ] A) El plástico es un material muy versátil y útil en la vida diaria. <!-- feedback: Incorrecto. Esta idea no aparece en el texto ni es lo que el autor defiende. -->
-- [ ] B) Las especies marinas están muriendo por culpa de la contaminación. <!-- feedback: Incorrecto. Este es un dato o hecho que sirve como apoyo (argumento), no es la propuesta central de acción. -->
-- [x] C) Se deben crear leyes más estrictas en Colombia para prohibir plásticos de un solo uso. <!-- feedback: ¡Correcto! Esta es la postura o propuesta principal que el autor quiere que se acepte y ejecute. -->
+- [ ] B) El plástico es un material muy versátil y útil en la vida diaria. <!-- feedback: Incorrecto. Esta idea no aparece en el texto ni es lo que el autor defiende. -->
+- [ ] C) Las especies marinas están muriendo por culpa de la contaminación. <!-- feedback: Incorrecto. Este es un dato o hecho que sirve como apoyo (argumento), no es la propuesta central de acción. -->
+- [x] A) Se deben crear leyes más estrictas en Colombia para prohibir plásticos de un solo uso. <!-- feedback: ¡Correcto! Esta es la postura o propuesta principal que el autor quiere que se acepte y ejecute. -->
 - [ ] D) Los océanos son fundamentales para el equilibrio del planeta Tierra. <!-- feedback: Incorrecto. Es una verdad general, pero no es la tesis específica planteada en el texto. -->
 
 ### Explicacion Pedagogica
@@ -95,8 +95,8 @@ La tesis suele presentarse como una propuesta de cambio, una valoración o una a
 ¿Cuál de las siguientes frases representa un **argumento de autoridad** para defender la importancia de las vacunas?
 
 ### Opciones
-- [ ] A) Mi vecino dice que las vacunas son buenas porque a él no le dio gripe. <!-- feedback: Incorrecto. Esta es una experiencia personal aislada, no tiene autoridad científica. -->
-- [x] B) La Organización Mundial de la Salud (OMS) afirma que las vacunas salvan millones de vidas cada año. <!-- feedback: ¡Correcto! Se cita a una institución internacional reconocida como experta en salud pública. -->
+- [ ] B) Mi vecino dice que las vacunas son buenas porque a él no le dio gripe. <!-- feedback: Incorrecto. Esta es una experiencia personal aislada, no tiene autoridad científica. -->
+- [x] A) La Organización Mundial de la Salud (OMS) afirma que las vacunas salvan millones de vidas cada año. <!-- feedback: ¡Correcto! Se cita a una institución internacional reconocida como experta en salud pública. -->
 - [ ] C) Yo creo que las vacunas son importantes porque así nos protegemos todos. <!-- feedback: Incorrecto. Esta es una opinión personal del autor, no se apoya en una autoridad externa. -->
 - [ ] D) Antiguamente no existían vacunas y la gente vivía menos tiempo que ahora. <!-- feedback: Incorrecto. Este es un argumento basado en la comparación histórica, no en la autoridad de un experto. -->
 
@@ -115,9 +115,9 @@ El argumento de autoridad refuerza la tesis al demostrar que personas que saben 
 ¿En qué parte de un ensayo argumentativo se suele presentar la **tesis** por primera vez?
 
 ### Opciones
-- [x] A) En la introducción. <!-- feedback: ¡Correcto! La introducción sirve para plantear el tema y dejar clara la postura (tesis) que se va a defender. -->
-- [ ] B) En el medio de los párrafos de argumentos. <!-- feedback: Incorrecto. En el desarrollo se explican los argumentos, la tesis ya debe conocerse desde antes. -->
-- [ ] C) Solamente en la última frase del texto. <!-- feedback: Incorrecto. Aunque se retoma en la conclusión, debe aparecer al inicio para guiar al lector. -->
+- [x] C) En la introducción. <!-- feedback: ¡Correcto! La introducción sirve para plantear el tema y dejar clara la postura (tesis) que se va a defender. -->
+- [ ] A) En el medio de los párrafos de argumentos. <!-- feedback: Incorrecto. En el desarrollo se explican los argumentos, la tesis ya debe conocerse desde antes. -->
+- [ ] B) Solamente en la última frase del texto. <!-- feedback: Incorrecto. Aunque se retoma en la conclusión, debe aparecer al inicio para guiar al lector. -->
 - [ ] D) En el título únicamente. <!-- feedback: Incorrecto. El título sugiere el tema, pero la tesis se desarrolla formalmente dentro del texto. -->
 
 ### Explicacion Pedagogica
@@ -136,8 +136,8 @@ Presentar la tesis en la introducción permite que el lector sepa desde el princ
 
 ### Opciones
 - [ ] A) Bogotá es la capital de la República de Colombia. <!-- feedback: Incorrecto. Es un hecho geográfico y político indiscutible, no una opinión. -->
-- [ ] B) El río Magdalena desemboca en el Mar Caribe, cerca de Barranquilla. <!-- feedback: Incorrecto. Es un hecho geográfico comprobable. -->
-- [x] C) El ciclismo es el deporte más emocionante y representativo para los colombianos. <!-- feedback: ¡Correcto! Es una valoración subjetiva (lo que para uno es emocionante, para otro puede no serlo). -->
+- [ ] C) El río Magdalena desemboca en el Mar Caribe, cerca de Barranquilla. <!-- feedback: Incorrecto. Es un hecho geográfico comprobable. -->
+- [x] B) El ciclismo es el deporte más emocionante y representativo para los colombianos. <!-- feedback: ¡Correcto! Es una valoración subjetiva (lo que para uno es emocionante, para otro puede no serlo). -->
 - [ ] D) La Constitución de Colombia actual fue promulgada en el año 1991. <!-- feedback: Incorrecto. Es un hecho histórico y legal documentado. -->
 
 ### Explicacion Pedagogica
@@ -155,8 +155,8 @@ Las tesis se construyen sobre opiniones fundamentadas. Los hechos sirven como ev
 Si la tesis es "La música colombiana es diversa y reconocida mundialmente", ¿qué argumento de **ejemplificación** sería más efectivo?
 
 ### Opciones
-- [ ] A) La música es un lenguaje universal que une a los pueblos del mundo. <!-- feedback: Incorrecto. Esta es una idea general, no un ejemplo concreto de música colombiana. -->
-- [x] B) Artistas como Shakira, Juanes y Carlos Vives han ganado múltiples premios Grammy. <!-- feedback: ¡Correcto! Menciona casos específicos de artistas exitosos que demuestran el reconocimiento mundial mencionado en la tesis. -->
+- [ ] B) La música es un lenguaje universal que une a los pueblos del mundo. <!-- feedback: Incorrecto. Esta es una idea general, no un ejemplo concreto de música colombiana. -->
+- [x] A) Artistas como Shakira, Juanes y Carlos Vives han ganado múltiples premios Grammy. <!-- feedback: ¡Correcto! Menciona casos específicos de artistas exitosos que demuestran el reconocimiento mundial mencionado en la tesis. -->
 - [ ] C) Muchos turistas vienen a Colombia atraídos por el ritmo de la cumbia y el vallenato. <!-- feedback: Incorrecto. Aunque se relaciona, es una generalización sobre el turismo, no un ejemplo directo de reconocimiento premiado. -->
 - [ ] D) Según un estudio, Colombia tiene más de mil ritmos musicales diferentes. <!-- feedback: Incorrecto. Este es un argumento basado en datos o cifras, no propiamente de ejemplificación por casos individuales. -->
 
@@ -180,8 +180,8 @@ Argumento: "Porque las frutas son de colores muy bonitos y alegran la decoració
 
 ### Opciones
 - [ ] A) Porque es mentira que las frutas tengan colores bonitos. <!-- feedback: Incorrecto. Las frutas sí tienen colores bonitos, pero eso no justifica comerlas. -->
-- [x] B) Porque la razón dada (estética) no es relevante para la acción propuesta (alimentación/salud). <!-- feedback: ¡Correcto! Un buen argumento para comer algo debería basarse en nutrición o salud, no en decoración. -->
-- [ ] C) Porque el argumento debería decir que las verduras son mejores que las frutas. <!-- feedback: Incorrecto. El argumento debe apoyar la tesis dada, no cambiar de tema. -->
+- [x] C) Porque la razón dada (estética) no es relevante para la acción propuesta (alimentación/salud). <!-- feedback: ¡Correcto! Un buen argumento para comer algo debería basarse en nutrición o salud, no en decoración. -->
+- [ ] B) Porque el argumento debería decir que las verduras son mejores que las frutas. <!-- feedback: Incorrecto. El argumento debe apoyar la tesis dada, no cambiar de tema. -->
 - [ ] D) Porque no cita a un médico famoso que diga lo mismo. <!-- feedback: Incorrecto. No todos los argumentos deben ser de autoridad, pero sí deben ser pertinentes. -->
 
 ### Explicacion Pedagogica
@@ -201,8 +201,8 @@ En un debate sobre el uniforme escolar, un estudiante dice: "Sé que muchos pien
 ¿Qué técnica argumentativa está usando el estudiante?
 
 ### Opciones
-- [ ] A) Generalización apresurada de un problema social. <!-- feedback: Incorrecto. No está generalizando sin pruebas, está razonando sobre un hecho común. -->
-- [x] B) Concesión y refutación (admite una objeción para luego superarla con una razón de mayor peso). <!-- feedback: ¡Correcto! Reconoce el valor de la libertad de expresión pero antepone la equidad social. -->
+- [ ] B) Generalización apresurada de un problema social. <!-- feedback: Incorrecto. No está generalizando sin pruebas, está razonando sobre un hecho común. -->
+- [x] A) Concesión y refutación (admite una objeción para luego superarla con una razón de mayor peso). <!-- feedback: ¡Correcto! Reconoce el valor de la libertad de expresión pero antepone la equidad social. -->
 - [ ] C) Ataque personal a quienes no quieren usar uniforme. <!-- feedback: Incorrecto. En ningún momento insulta o ataca a las personas, solo discute las ideas. -->
 - [ ] D) Apelación a la piedad para dar lástima por los estudiantes pobres. <!-- feedback: Incorrecto. No busca dar lástima, sino proponer una solución práctica a la desigualdad. -->
 
@@ -222,8 +222,8 @@ La capacidad de anticipar las críticas y responder a ellas de manera lógica fo
 
 ### Opciones
 - [ ] A) La contaminación es mala para el medio ambiente de Colombia. <!-- feedback: Incorrecto. Es demasiado obvia y general; casi nadie estaría en desacuerdo, por lo que no genera debate. -->
-- [ ] B) Yo quiero hablar sobre por qué los jóvenes usan tanto el celular hoy en día. <!-- feedback: Incorrecto. Esto es el anuncio de un tema, no una tesis. Falta la postura clara. -->
-- [x] C) La implementación de clases de educación financiera en los colegios reduciría la pobreza a largo plazo. <!-- feedback: ¡Correcto! Es clara, específica, debatible y puede ser sustentada con argumentos económicos y educativos. -->
+- [ ] C) Yo quiero hablar sobre por qué los jóvenes usan tanto el celular hoy en día. <!-- feedback: Incorrecto. Esto es el anuncio de un tema, no una tesis. Falta la postura clara. -->
+- [x] B) La implementación de clases de educación financiera en los colegios reduciría la pobreza a largo plazo. <!-- feedback: ¡Correcto! Es clara, específica, debatible y puede ser sustentada con argumentos económicos y educativos. -->
 - [ ] D) ¡No más maltrato animal en las fiestas populares de los pueblos! <!-- feedback: Incorrecto. Es una exclamación o eslogan, le falta la estructura formal de una afirmación académica. -->
 
 ### Explicacion Pedagogica

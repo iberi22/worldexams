@@ -32,9 +32,9 @@ calibration: {difficulty_band: "D3-D10", expected_success: 0.65}
 En un triángulo rectángulo, el seno de un ángulo agudo se define como:
 
 ### Opciones
-- [x] A) El cociente entre el cateto opuesto y la hipotenusa. <!-- feedback: ¡Correcto! $\sin \alpha = \frac{\text{opuesto}}{\text{hipotenusa}}$. -->
-- [ ] B) El cociente entre el cateto adyacente y la hipotenusa. <!-- feedback: Incorrecto. Esa es la definición del coseno. -->
-- [ ] C) El cociente entre el cateto opuesto y el adyacente. <!-- feedback: Incorrecto. Esa es la definición de la tangente. -->
+- [x] C) El cociente entre el cateto opuesto y la hipotenusa. <!-- feedback: ¡Correcto! $\sin \alpha = \frac{\text{opuesto}}{\text{hipotenusa}}$. -->
+- [ ] A) El cociente entre el cateto adyacente y la hipotenusa. <!-- feedback: Incorrecto. Esa es la definición del coseno. -->
+- [ ] B) El cociente entre el cateto opuesto y el adyacente. <!-- feedback: Incorrecto. Esa es la definición de la tangente. -->
 - [ ] D) El producto de los dos catetos. <!-- feedback: Incorrecto. Las razones trigonométricas son cocientes, no productos. -->
 
 ### Explicación Pedagógica
@@ -52,9 +52,9 @@ Las tres razones básicas son: seno (opuesto/hipotenusa), coseno (adyacente/hipo
 
 ### Opciones
 - [ ] A) $\frac{\sqrt{3}}{2}$ <!-- feedback: Incorrecto. Ese es el valor de $\sin 60°$. -->
-- [x] B) $\frac{1}{2}$ <!-- feedback: ¡Correcto! El seno de 30° es exactamente un medio. -->
-- [ ] C) $\frac{\sqrt{2}}{2}$ <!-- feedback: Incorrecto. Ese es el valor de $\sin 45°$. -->
-- [ ] D) $1$ <!-- feedback: Incorrecto. El seno vale 1 recién a los 90°. -->
+- [x] D) $\frac{1}{2}$ <!-- feedback: ¡Correcto! El seno de 30° es exactamente un medio. -->
+- [ ] B) $\frac{\sqrt{2}}{2}$ <!-- feedback: Incorrecto. Ese es el valor de $\sin 45°$. -->
+- [ ] C) $1$ <!-- feedback: Incorrecto. El seno vale 1 recién a los 90°. -->
 
 ### Explicación Pedagógica
 En el triángulo 30°-60°-90°, el cateto opuesto a 30° mide la mitad de la hipotenusa, por eso $\sin 30° = \frac{1}{2}$.
@@ -70,8 +70,8 @@ En el triángulo 30°-60°-90°, el cateto opuesto a 30° mide la mitad de la hi
 ¿A cuántos radianes equivalen $180°$?
 
 ### Opciones
-- [ ] A) $\frac{\pi}{2}$ radianes <!-- feedback: Incorrecto. Eso equivaldría a 90°. -->
-- [x] B) $\pi$ radianes <!-- feedback: ¡Correcto! $180° = \pi$ rad, la conversión fundamental. -->
+- [ ] B) $\frac{\pi}{2}$ radianes <!-- feedback: Incorrecto. Eso equivaldría a 90°. -->
+- [x] A) $\pi$ radianes <!-- feedback: ¡Correcto! $180° = \pi$ rad, la conversión fundamental. -->
 - [ ] C) $2\pi$ radianes <!-- feedback: Incorrecto. Eso equivale a 360°, la vuelta completa. -->
 - [ ] D) $\frac{\pi}{4}$ radianes <!-- feedback: Incorrecto. Eso equivale a 45°. -->
 
@@ -90,9 +90,9 @@ La equivalencia base es $180° = \pi$ radianes; de ahí se derivan todas las dem
 
 ### Opciones
 - [ ] A) $\sin^2 \alpha - \cos^2 \alpha = 1$ <!-- feedback: Incorrecto. El signo correcto entre los cuadrados es la suma. -->
-- [x] B) $\sin^2 \alpha + \cos^2 \alpha = 1$ <!-- feedback: ¡Correcto! Es el teorema de Pitágoras aplicado al círculo unitario. -->
-- [ ] C) $\sin \alpha + \cos \alpha = 1$ <!-- feedback: Incorrecto. Sin los cuadrados la identidad no vale; probá con $\alpha = 45°$. -->
-- [ ] D) $\tan^2 \alpha + 1 = \sin^2 \alpha$ <!-- feedback: Incorrecto. La identidad correcta es $\tan^2 \alpha + 1 = \frac{1}{\cos^2 \alpha}$. -->
+- [x] D) $\sin^2 \alpha + \cos^2 \alpha = 1$ <!-- feedback: ¡Correcto! Es el teorema de Pitágoras aplicado al círculo unitario. -->
+- [ ] B) $\sin \alpha + \cos \alpha = 1$ <!-- feedback: Incorrecto. Sin los cuadrados la identidad no vale; probá con $\alpha = 45°$. -->
+- [ ] C) $\tan^2 \alpha + 1 = \sin^2 \alpha$ <!-- feedback: Incorrecto. La identidad correcta es $\tan^2 \alpha + 1 = \frac{1}{\cos^2 \alpha}$. -->
 
 ### Explicación Pedagógica
 En el círculo unitario, las coordenadas de un punto son $(\cos \alpha, \sin \alpha)$ y el radio es 1: $\sin^2 \alpha + \cos^2 \alpha = 1$ por Pitágoras.
@@ -128,9 +128,9 @@ Un edificio proyecta una sombra de $20$ m cuando el ángulo de elevación del So
 
 ### Opciones
 - [ ] A) $10$ m <!-- feedback: Incorrecto. Con 45° la tangente vale 1: altura y sombra son iguales. -->
-- [x] B) $20$ m <!-- feedback: ¡Correcto! $\tan 45° = 1 = \frac{h}{20}$, así $h = 20$ m. -->
-- [ ] C) $20\sqrt{2}$ m <!-- feedback: Incorrecto. Ese sería el largo de la línea visual (hipotenusa), no la altura. -->
-- [ ] D) $40$ m <!-- feedback: Incorrecto. Duplicaste la sombra; la tangente de 45° no es 2. -->
+- [x] D) $20$ m <!-- feedback: ¡Correcto! $\tan 45° = 1 = \frac{h}{20}$, así $h = 20$ m. -->
+- [ ] B) $20\sqrt{2}$ m <!-- feedback: Incorrecto. Ese sería el largo de la línea visual (hipotenusa), no la altura. -->
+- [ ] C) $40$ m <!-- feedback: Incorrecto. Duplicaste la sombra; la tangente de 45° no es 2. -->
 
 ### Explicación Pedagógica
 Con ángulo de 45°, el triángulo es isósceles: $\tan 45° = 1$, por lo que la altura iguala a la sombra: 20 m.
@@ -146,8 +146,8 @@ Con ángulo de 45°, el triángulo es isósceles: $\tan 45° = 1$, por lo que la
 Una escalera de $10$ m forma un ángulo de $60°$ con el suelo. ¿A qué altura de la pared llega? (Usar $\sin 60° = \frac{\sqrt{3}}{2} \approx 0.866$.)
 
 ### Opciones
-- [ ] A) $5$ m <!-- feedback: Incorrecto. Usaste el coseno (adyacente) en lugar del seno (opuesto). -->
-- [x] B) $5\sqrt{3} \approx 8.66$ m <!-- feedback: ¡Correcto! $\sin 60° = \frac{h}{10}$ da $h = 10 \cdot \frac{\sqrt{3}}{2} = 5\sqrt{3}$. -->
+- [ ] B) $5$ m <!-- feedback: Incorrecto. Usaste el coseno (adyacente) en lugar del seno (opuesto). -->
+- [x] A) $5\sqrt{3} \approx 8.66$ m <!-- feedback: ¡Correcto! $\sin 60° = \frac{h}{10}$ da $h = 10 \cdot \frac{\sqrt{3}}{2} = 5\sqrt{3}$. -->
 - [ ] C) $10\sqrt{3}$ m <!-- feedback: Incorrecto. Multiplicaste de más; la altura es $10 \cdot \sin 60°$. -->
 - [ ] D) $10$ m <!-- feedback: Incorrecto. La escalera solo mediría 10 m de altura si estuviera vertical. -->
 
@@ -204,9 +204,9 @@ Expresa $60°$ en radianes.
 
 ### Opciones
 - [ ] A) $\frac{\pi}{6}$ <!-- feedback: Incorrecto. Eso son 30°, la mitad de 60°. -->
-- [x] B) $\frac{\pi}{3}$ <!-- feedback: ¡Correcto! $60° \cdot \frac{\pi}{180°} = \frac{\pi}{3}$. -->
-- [ ] C) $\frac{2\pi}{3}$ <!-- feedback: Incorrecto. Eso son 120°. -->
-- [ ] D) $\frac{\pi}{2}$ <!-- feedback: Incorrecto. Eso son 90°. -->
+- [x] D) $\frac{\pi}{3}$ <!-- feedback: ¡Correcto! $60° \cdot \frac{\pi}{180°} = \frac{\pi}{3}$. -->
+- [ ] B) $\frac{2\pi}{3}$ <!-- feedback: Incorrecto. Eso son 120°. -->
+- [ ] C) $\frac{\pi}{2}$ <!-- feedback: Incorrecto. Eso son 90°. -->
 
 ### Explicación Pedagógica
 Multiplicando por $\frac{\pi}{180}$: $60° = \frac{60\pi}{180} = \frac{\pi}{3}$ radianes.
@@ -224,8 +224,8 @@ Multiplicando por $\frac{\pi}{180}$: $60° = \frac{60\pi}{180} = \frac{\pi}{3}$ 
 ### Opciones
 - [ ] A) Primero y segundo. <!-- feedback: Incorrecto. En el segundo, seno positivo y coseno negativo dan tangente negativa. -->
 - [ ] B) Primero y cuarto. <!-- feedback: Incorrecto. En el cuarto, el seno negativo hace negativa la tangente. -->
-- [x] C) Primero y tercero. <!-- feedback: ¡Correcto! Donde seno y coseno tienen el mismo signo, su cociente es positivo. -->
-- [ ] D) Segundo y cuarto. <!-- feedback: Incorrecto. Ahí los signos difieren y la tangente es negativa. -->
+- [x] D) Primero y tercero. <!-- feedback: ¡Correcto! Donde seno y coseno tienen el mismo signo, su cociente es positivo. -->
+- [ ] C) Segundo y cuarto. <!-- feedback: Incorrecto. Ahí los signos difieren y la tangente es negativa. -->
 
 ### Explicación Pedagógica
 Como $\tan = \frac{\sin}{\cos}$, es positiva cuando ambos coinciden en signo: primer cuadrante (+/+) y tercero (−/−).
@@ -241,8 +241,8 @@ Como $\tan = \frac{\sin}{\cos}$, es positiva cuando ambos coinciden en signo: pr
 ¿Cuál es el período de la función $f(x) = \sin x$ (con $x$ en radianes)?
 
 ### Opciones
-- [ ] A) $\pi$ <!-- feedback: Incorrecto. En $\pi$ radianes el seno solo completa media oscilación. -->
-- [x] B) $2\pi$ <!-- feedback: ¡Correcto! El seno se repite cada vuelta completa del círculo unitario. -->
+- [ ] B) $\pi$ <!-- feedback: Incorrecto. En $\pi$ radianes el seno solo completa media oscilación. -->
+- [x] A) $2\pi$ <!-- feedback: ¡Correcto! El seno se repite cada vuelta completa del círculo unitario. -->
 - [ ] C) $\frac{\pi}{2}$ <!-- feedback: Incorrecto. Ese intervalo solo cubre un cuarto del ciclo. -->
 - [ ] D) $4\pi$ <!-- feedback: Incorrecto. Duplica el período real; la función ya se repitió en $2\pi$. -->
 
@@ -260,9 +260,9 @@ El seno recorre su ciclo completo (sube, baja, vuelve) en una vuelta del círcul
 Si $\alpha$ y $\beta$ son ángulos agudos complementarios ($\alpha + \beta = 90°$), ¿qué relación es correcta?
 
 ### Opciones
-- [x] A) $\sin \alpha = \cos \beta$ <!-- feedback: ¡Correcto! El seno de un ángulo es el coseno de su complemento. -->
-- [ ] B) $\sin \alpha = \sin \beta$ <!-- feedback: Incorrecto. Solo valdría si los ángulos fueran iguales. -->
-- [ ] C) $\tan \alpha = \tan \beta$ <!-- feedback: Incorrecto. Las tangentes de complementarios son recíprocas, no iguales. -->
+- [x] C) $\sin \alpha = \cos \beta$ <!-- feedback: ¡Correcto! El seno de un ángulo es el coseno de su complemento. -->
+- [ ] A) $\sin \alpha = \sin \beta$ <!-- feedback: Incorrecto. Solo valdría si los ángulos fueran iguales. -->
+- [ ] B) $\tan \alpha = \tan \beta$ <!-- feedback: Incorrecto. Las tangentes de complementarios son recíprocas, no iguales. -->
 - [ ] D) $\cos \alpha = -\cos \beta$ <!-- feedback: Incorrecto. Los ángulos agudos tienen cosenos positivos. -->
 
 ### Explicación Pedagógica
@@ -280,8 +280,8 @@ En un triángulo rectángulo, los catetos miden $5$ y $12$. ¿Cuánto mide la hi
 
 ### Opciones
 - [ ] A) $17$ <!-- feedback: Incorrecto. Sumaste los catetos; la hipotenusa sale del teorema de Pitágoras. -->
-- [x] B) $13$ <!-- feedback: ¡Correcto! $\sqrt{25 + 144} = \sqrt{169} = 13$. -->
-- [ ] C) $\sqrt{119}$ <!-- feedback: Incorrecto. Restaste los cuadrados; la hipotenusa usa la suma. -->
+- [x] C) $13$ <!-- feedback: ¡Correcto! $\sqrt{25 + 144} = \sqrt{169} = 13$. -->
+- [ ] B) $\sqrt{119}$ <!-- feedback: Incorrecto. Restaste los cuadrados; la hipotenusa usa la suma. -->
 - [ ] D) $7$ <!-- feedback: Incorrecto. Esa es la diferencia de los catetos, sin elevar al cuadrado. -->
 
 ### Explicación Pedagógica
@@ -337,8 +337,8 @@ En el círculo unitario, el coseno es la coordenada $x$, acotada entre $-1$ y $1
 
 ### Opciones
 - [ ] A) Verdadera, porque 150° es un ángulo obtuso. <!-- feedback: Incorrecto. La obtusidad no decide el signo: el segundo cuadrante tiene seno positivo. -->
-- [x] B) Falsa: 150° está en el segundo cuadrante, donde el seno es positivo ($\sin 150° = \frac{1}{2}$). <!-- feedback: ¡Correcto! $\sin 150° = \sin(180° - 30°) = \sin 30° = \frac{1}{2}$. -->
-- [ ] C) Verdadera, porque todo ángulo mayor que 90° tiene seno negativo. <!-- feedback: Incorrecto. Entre 90° y 180° el seno sigue siendo positivo. -->
+- [x] C) Falsa: 150° está en el segundo cuadrante, donde el seno es positivo ($\sin 150° = \frac{1}{2}$). <!-- feedback: ¡Correcto! $\sin 150° = \sin(180° - 30°) = \sin 30° = \frac{1}{2}$. -->
+- [ ] B) Verdadera, porque todo ángulo mayor que 90° tiene seno negativo. <!-- feedback: Incorrecto. Entre 90° y 180° el seno sigue siendo positivo. -->
 - [ ] D) Falsa, porque $\sin 150° = -\frac{1}{2}$ y el valor correcto es $\frac{\sqrt{3}}{2}$. <!-- feedback: Incorrecto. La conclusión (falsa) es acertada, pero los valores citados son erróneos. -->
 
 ### Explicación Pedagógica
@@ -374,9 +374,9 @@ Con el ángulo y el cateto adyacente (distancia horizontal), la tangente vincula
 ¿Cuál es la distancia en línea recta del barco al puerto y qué ángulo forma su rumbo con la dirección este (medido hacia el norte)?
 
 ### Opciones
-- [x] A) $5$ km y $\arctan\frac{4}{3} \approx 53.1°$ <!-- feedback: ¡Correcto! Pitágoras da 5 km y la tangente del rumbo es $\frac{4}{3}$. -->
-- [ ] B) $7$ km y $45°$ <!-- feedback: Incorrecto. Sumaste los trayectos; la distancia directa usa Pitágoras, y el ángulo no es 45° porque los catetos difieren. -->
-- [ ] C) $5$ km y $\arctan\frac{3}{4} \approx 36.9°$ <!-- feedback: Incorrecto. La distancia es correcta, pero el ángulo pedido (desde el este) usa opuesto 4 sobre adyacente 3. -->
+- [x] C) $5$ km y $\arctan\frac{4}{3} \approx 53.1°$ <!-- feedback: ¡Correcto! Pitágoras da 5 km y la tangente del rumbo es $\frac{4}{3}$. -->
+- [ ] A) $7$ km y $45°$ <!-- feedback: Incorrecto. Sumaste los trayectos; la distancia directa usa Pitágoras, y el ángulo no es 45° porque los catetos difieren. -->
+- [ ] B) $5$ km y $\arctan\frac{3}{4} \approx 36.9°$ <!-- feedback: Incorrecto. La distancia es correcta, pero el ángulo pedido (desde el este) usa opuesto 4 sobre adyacente 3. -->
 - [ ] D) $12$ km y $30°$ <!-- feedback: Incorrecto. Multiplicaste los trayectos; ninguna de las dos magnitudes es correcta. -->
 
 ### Explicación Pedagógica

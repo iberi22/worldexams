@@ -32,11 +32,11 @@ Dada la función real $f(x) = mx + b$, ¿qué representa el término $b$ en su r
 ### Opciones
 - [ ] A) La pendiente de la recta.
   <!-- feedback: Incorrecto. La pendiente está representada por el coeficiente $m$. -->
-- [x] B) La ordenada al origen (intersección con el eje $Y$).
+- [x] D) La ordenada al origen (intersección con el eje $Y$).
   <!-- feedback: Correcto. El valor de $b$ indica el punto $(0, b)$ donde la recta cruza el eje vertical. -->
-- [ ] C) La raíz de la función.
+- [ ] B) La raíz de la función.
   <!-- feedback: Incorrecto. La raíz se halla igualando la función a cero. -->
-- [ ] D) El factor de crecimiento.
+- [ ] C) El factor de crecimiento.
   <!-- feedback: Incorrecto. El crecimiento depende del valor de la pendiente $m$. -->
 
 ### Explicacion Pedagogica
@@ -80,9 +80,9 @@ Se modela la situación como una función lineal afín donde la pendiente es el 
 Dada la función $f(x) = \frac{3}{2}x - 4$, determine el valor de $f(6)$.
 
 ### Opciones
-- [ ] A) 13
+- [ ] B) 13
   <!-- feedback: Incorrecto. Verifique el orden de las operaciones. -->
-- [x] B) 5
+- [x] A) 5
   <!-- feedback: Correcto. $f(6) = (3/2) \times 6 - 4 = 9 - 4 = 5$. -->
 - [ ] C) 9
   <!-- feedback: Incorrecto. Olvidó restar el término independiente (-4). -->
@@ -107,11 +107,11 @@ Sustituimos el valor dado de $x$ en la regla de correspondencia: $\frac{3}{2}(6)
 ### Opciones
 - [ ] A) 3
   <!-- feedback: Incorrecto. Error en la resta de las coordenadas. -->
-- [x] B) 2
+- [x] D) 2
   <!-- feedback: Correcto. $m = \frac{y_2 - y_1}{x_2 - x_1} = \frac{8 - 2}{3 - 0} = \frac{6}{3} = 2$. -->
-- [ ] C) 6
+- [ ] B) 6
   <!-- feedback: Incorrecto. Olvidó dividir por la diferencia en $x$. -->
-- [ ] D) 1/2
+- [ ] C) 1/2
   <!-- feedback: Incorrecto. Invirtió la fórmula de la pendiente. -->
 
 ### Explicacion Pedagogica
@@ -132,11 +132,11 @@ Si un cliente pagó S/ 190 por el servicio, ¿cuántas horas trabajó el técnic
 ### Opciones
 - [ ] A) 3 horas
   <!-- feedback: Incorrecto. $35(3) + 50 = 155$. No llega al monto total. -->
-- [x] B) 4 horas
+- [x] D) 4 horas
   <!-- feedback: Correcto. $35x + 50 = 190 \Rightarrow 35x = 140 \Rightarrow x = 4$. -->
-- [ ] C) 5 horas
+- [ ] B) 5 horas
   <!-- feedback: Incorrecto. $35(5) + 50 = 225$. Excede el monto pagado. -->
-- [ ] D) 2 horas
+- [ ] C) 2 horas
   <!-- feedback: Incorrecto. Monto insuficiente. -->
 
 ### Explicacion Pedagogica
@@ -159,9 +159,9 @@ Planteamos una ecuación de primer grado igualando la función al costo total: $
   <!-- feedback: Incorrecto. Las pendientes deben ser iguales, incluyendo el signo. -->
 - [ ] B) $y = \frac{1}{4}x - 2$
   <!-- feedback: Incorrecto. Esta es la pendiente de una recta perpendicular. -->
-- [x] C) $y = -4x - 1$
+- [x] D) $y = -4x - 1$
   <!-- feedback: Correcto. Dos rectas son paralelas si tienen la misma pendiente; en este caso, -4. -->
-- [ ] D) $y = -2x + 10$
+- [ ] C) $y = -2x + 10$
   <!-- feedback: Incorrecto. La pendiente es diferente. -->
 
 ### Explicacion Pedagogica
@@ -207,9 +207,9 @@ Si una función afín tiene pendiente positiva y su ordenada al origen es negati
 ### Opciones
 - [ ] A) I, II y III
   <!-- feedback: Incorrecto. Con $b < 0$ y $m > 0$, la recta no puede pasar por el cuadrante II. -->
-- [x] B) I, III y IV
+- [x] C) I, III y IV
   <!-- feedback: Correcto. Empieza en el eje $Y$ negativo (IV), cruza el eje $X$ positivo (hacia III) y sube infinitamente (hacia I). Un momento, revisemos los signos de los cuadrantes. $(+,-)$ es IV. Si sube hacia la derecha, pasa de IV a I cruzando el eje $X$. Pero también ocupa el cuadrante III? No, si cruza el eje $Y$ en $(0, -b)$ y sube, viene del cuadrante III para $x$ negativos muy grandes. -->
-- [ ] C) II, III y IV
+- [ ] B) II, III y IV
   <!-- feedback: Incorrecto. Al tener pendiente positiva, eventualmente entrará al cuadrante I. -->
 - [ ] D) Solo I y III
   <!-- feedback: Incorrecto. Al tener ordenada al origen no nula, debe pasar por un tercer cuadrante. -->
@@ -230,9 +230,9 @@ Con $m > 0$, la función es creciente. Con $b < 0$, corta al eje $Y$ abajo del o
 Halle la ecuación de la función afín que pasa por el punto $(2, 5)$ y es perpendicular a la recta $y = 2x - 1$.
 
 ### Opciones
-- [ ] A) $y = -2x + 9$
+- [ ] B) $y = -2x + 9$
   <!-- feedback: Incorrecto. Usó la pendiente opuesta pero no recíproca. -->
-- [x] B) $y = -0.5x + 6$
+- [x] A) $y = -0.5x + 6$
   <!-- feedback: Correcto. Pendiente perpendicular $m = -1/2 = -0.5$. Luego: $5 = -0.5(2) + b \Rightarrow 5 = -1 + b \Rightarrow b = 6$. -->
 - [ ] C) $y = 0.5x + 4$
   <!-- feedback: Incorrecto. No invirtió el signo de la pendiente. -->
@@ -257,11 +257,11 @@ Se estima que la temperatura desciende de forma lineal 6.5 °C por cada 1000 met
 ### Opciones
 - [ ] A) $T(h) = 25 - 6.5h$
   <!-- feedback: Incorrecto. Esto indicaría un descenso de 6.5 grados por cada metro, no por cada mil. -->
-- [x] B) $T(h) = 25 - 0.0065h$
+- [x] D) $T(h) = 25 - 0.0065h$
   <!-- feedback: Correcto. La tasa es $6.5/1000 = 0.0065$ grados por metro. Al ser descenso, la pendiente es negativa. -->
-- [ ] C) $T(h) = 0.0065h - 25$
+- [ ] B) $T(h) = 0.0065h - 25$
   <!-- feedback: Incorrecto. La temperatura inicial debe ser positiva y la pendiente negativa. -->
-- [ ] D) $T(h) = 25 + 0.0065h$
+- [ ] C) $T(h) = 25 + 0.0065h$
   <!-- feedback: Incorrecto. La temperatura debe disminuir al subir la altura. -->
 
 ### Explicacion Pedagogica
@@ -285,11 +285,11 @@ Empresa B: $C_B(x) = 20x + 250$
 ### Opciones
 - [ ] A) 20 kg
   <!-- feedback: Incorrecto. Los costos serían 700 y 650 respectivamente. -->
-- [x] B) 30 kg
+- [x] D) 30 kg
   <!-- feedback: Correcto. $15x + 400 = 20x + 250 \Rightarrow 150 = 5x \Rightarrow x = 30$. -->
-- [ ] C) 50 kg
+- [ ] B) 50 kg
   <!-- feedback: Incorrecto. Excede el punto de equilibrio. -->
-- [ ] D) 15 kg
+- [ ] C) 15 kg
   <!-- feedback: Incorrecto. No iguala las funciones de costo. -->
 
 ### Explicacion Pedagogica
@@ -310,11 +310,11 @@ Una vela de 30 cm de largo se enciende y se consume a razón de 2.5 cm por hora.
 ### Opciones
 - [ ] A) $\langle-\infty, 12]$
   <!-- feedback: Incorrecto. El tiempo no puede ser negativo. -->
-- [x] B) $[0, 12]$
+- [x] D) $[0, 12]$
   <!-- feedback: Correcto. La vela se consume totalmente cuando $30 - 2.5t = 0 \Rightarrow t = 12$. Por tanto, el tiempo válido va desde que se enciende (0) hasta que se acaba (12). -->
-- [ ] C) $[0, 30]$
+- [ ] B) $[0, 30]$
   <!-- feedback: Incorrecto. Confundió la longitud inicial con el tiempo máximo. -->
-- [ ] D) $\mathbb{R}$
+- [ ] C) $\mathbb{R}$
   <!-- feedback: Incorrecto. En contextos reales el dominio suele estar acotado por condiciones físicas. -->
 
 ### Explicacion Pedagogica
@@ -383,9 +383,9 @@ Los interceptos con los ejes determinan la base y la altura del triángulo rect�
 ¿Cuál es la función del costo total $C(x)$ para un consumo de $x$ metros cúbicos, donde $x > 10$?
 
 ### Opciones
-- [ ] A) $C(x) = 1.5x + 12$
+- [ ] B) $C(x) = 1.5x + 12$
   <!-- feedback: Incorrecto. Esta función cobraría el variable desde el primer metro cúbico. -->
-- [x] B) $C(x) = 1.5x - 3$
+- [x] A) $C(x) = 1.5x - 3$
   <!-- feedback: Correcto. $C(x) = 12 + 1.5(x - 10) = 12 + 1.5x - 15 = 1.5x - 3$. -->
 - [ ] C) $C(x) = 1.5(x + 10) + 12$
   <!-- feedback: Incorrecto. Estructura de cobro errónea. -->
@@ -410,11 +410,11 @@ Determine la ecuación de la función lineal cuya gráfica pasa por el origen y 
 ### Opciones
 - [ ] A) $y = x$
   <!-- feedback: Incorrecto. El ángulo de inclinación para esta recta es 45°. -->
-- [x] B) $y = -x$
+- [x] D) $y = -x$
   <!-- feedback: Correcto. La pendiente $m = \tan(135°) = -1$. Al pasar por el origen, $b = 0$. -->
-- [ ] C) $y = -0.5x$
+- [ ] B) $y = -0.5x$
   <!-- feedback: Incorrecto. La pendiente no corresponde a la tangente del ángulo dado. -->
-- [ ] D) $y = -x + 1$
+- [ ] C) $y = -x + 1$
   <!-- feedback: Incorrecto. La recta no pasa por el origen. -->
 
 ### Explicacion Pedagogica
@@ -433,9 +433,9 @@ La pendiente $m$ de una recta es igual a la tangente de su ángulo de inclinaci�
 Determine el valor de $k$ para que la recta $kx + (k-1)y - 18 = 0$ sea paralela a la recta que pasa por los puntos $(2, 3)$ y $(4, 7)$.
 
 ### Opciones
-- [ ] A) $k = 2$
+- [ ] B) $k = 2$
   <!-- feedback: Incorrecto. No iguala correctamente las pendientes. -->
-- [x] B) $k = 2/3$
+- [x] A) $k = 2/3$
   <!-- feedback: Correcto. Pendiente de los puntos $m = (7-3)/(4-2) = 2$. Pendiente de la familia de rectas: $m = -k/(k-1)$. Planteamos $2 = -k/(k-1) \Rightarrow 2k - 2 = -k \Rightarrow 3k = 2 \Rightarrow k = 2/3$. -->
 - [ ] C) $k = -2$
   <!-- feedback: Incorrecto. Error de signos en la resolución de la ecuación. -->
@@ -460,9 +460,9 @@ Halle la mínima distancia entre el origen de coordenadas y la recta definida po
 ### Opciones
 - [ ] A) 10 unidades
   <!-- feedback: Incorrecto. Esta es la distancia vertical, no la mínima (perpendicular). -->
-- [ ] B) 8 unidades
+- [ ] C) 8 unidades
   <!-- feedback: Incorrecto. Revise el uso de la fórmula de distancia. -->
-- [x] C) 6 unidades
+- [x] B) 6 unidades
   <!-- feedback: Correcto. La ecuación general es $4x + 3y - 30 = 0$. Distancia $d = |4(0) + 3(0) - 30| / \sqrt{4^2 + 3^2} = |-30| / 5 = 6$. -->
 - [ ] D) 7.5 unidades
   <!-- feedback: Incorrecto. Error de cálculo en el denominador de la fórmula. -->
@@ -485,11 +485,11 @@ La producción diaria de una mina sigue una función lineal respecto al número 
 ### Opciones
 - [ ] A) 100 trabajadores
   <!-- feedback: Incorrecto. La producción neta sería $4(100) - 40 = 360$. -->
-- [x] B) 110 trabajadores
+- [x] D) 110 trabajadores
   <!-- feedback: Correcto. Producción $P(n) = 4n$ (ya que $200/50 = 4$). Producción neta $P_n(n) = 4n - 40$. Planteamos $4n - 40 \ge 400 \Rightarrow 4n \ge 440 \Rightarrow n \ge 110$. -->
-- [ ] C) 120 trabajadores
+- [ ] B) 120 trabajadores
   <!-- feedback: Incorrecto. Supera el mínimo necesario. -->
-- [ ] D) 105 trabajadores
+- [ ] C) 105 trabajadores
   <!-- feedback: Incorrecto. Producción neta insuficiente ($4 \times 105 - 40 = 380$). -->
 
 ### Explicacion Pedagogica

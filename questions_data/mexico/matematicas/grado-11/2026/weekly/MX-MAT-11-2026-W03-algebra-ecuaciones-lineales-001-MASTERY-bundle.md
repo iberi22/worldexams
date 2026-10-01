@@ -31,9 +31,9 @@ creador: "Jules-Agent"
 
 ### Opciones
 - [ ] A) 8 <!-- feedback: 8 es el número que se suma a x, no el valor de x. -->
-- [x] B) 12 <!-- feedback: Para despejar x, restamos 8 de 20 (20 - 8 = 12). -->
-- [ ] C) 28 <!-- feedback: Se sumó 8 a 20 en lugar de restarlo. -->
-- [ ] D) 10 <!-- feedback: Cálculo incorrecto de la resta. -->
+- [x] D) 12 <!-- feedback: Para despejar x, restamos 8 de 20 (20 - 8 = 12). -->
+- [ ] B) 28 <!-- feedback: Se sumó 8 a 20 en lugar de restarlo. -->
+- [ ] C) 10 <!-- feedback: Cálculo incorrecto de la resta. -->
 
 ### Explicacion Pedagogica
 En una ecuación lineal de primer grado, el objetivo es despejar la incógnita. Si un número está sumando a la variable, pasa al otro lado de la igualdad realizando la operación contraria, que es la resta. Por lo tanto, x = 20 - 8 = 12.
@@ -52,8 +52,8 @@ En una ecuación lineal de primer grado, el objetivo es despejar la incógnita. 
 
 ### Opciones
 - [ ] A) r = c + 3 <!-- feedback: Esto indicaría que el refresco cuesta 3 pesos más, no el triple. -->
-- [x] B) r = 3c <!-- feedback: "Triple" significa multiplicar por 3. -->
-- [ ] C) c = 3r <!-- feedback: Esto indicaría que el chicle es el triple de caro que el refresco. -->
+- [x] C) r = 3c <!-- feedback: "Triple" significa multiplicar por 3. -->
+- [ ] B) c = 3r <!-- feedback: Esto indicaría que el chicle es el triple de caro que el refresco. -->
 - [ ] D) r = c / 3 <!-- feedback: Esto indicaría que el refresco cuesta la tercera parte que el chicle. -->
 
 ### Explicacion Pedagogica
@@ -94,9 +94,9 @@ Si la edad de Juan es "x" y la de su padre es el doble de la de Juan más 5 año
 
 ### Opciones
 - [ ] A) 2x - 5 <!-- feedback: Esto sería el doble menos 5 años. -->
-- [x] B) 2x + 5 <!-- feedback: "Doble" es 2x, y "más 5 años" es sumar 5. -->
-- [ ] C) x + 10 <!-- feedback: Expresión incorrecta para el doble más 5. -->
-- [ ] D) 5x + 2 <!-- feedback: Los valores están intercambiados. -->
+- [x] D) 2x + 5 <!-- feedback: "Doble" es 2x, y "más 5 años" es sumar 5. -->
+- [ ] B) x + 10 <!-- feedback: Expresión incorrecta para el doble más 5. -->
+- [ ] C) 5x + 2 <!-- feedback: Los valores están intercambiados. -->
 
 ### Explicacion Pedagogica
 Traducimos paso a paso: "la edad de Juan" es x. "El doble de la de Juan" es 2x. "Más 5 años" significa adicionar 5 a la cantidad anterior. Por lo tanto, la edad del padre se expresa como 2x + 5.
@@ -114,8 +114,8 @@ Traducimos paso a paso: "la edad de Juan" es x. "El doble de la de Juan" es 2x. 
 Resuelve para x: 3x - 5 = 10
 
 ### Opciones
-- [ ] A) 1.66 <!-- feedback: Error al restar 5 en lugar de sumarlo. -->
-- [x] B) 5 <!-- feedback: 3x = 10 + 5; 3x = 15; x = 15 / 3 = 5. -->
+- [ ] B) 1.66 <!-- feedback: Error al restar 5 en lugar de sumarlo. -->
+- [x] A) 5 <!-- feedback: 3x = 10 + 5; 3x = 15; x = 15 / 3 = 5. -->
 - [ ] C) 15 <!-- feedback: Se olvidó dividir entre el coeficiente 3. -->
 - [ ] D) 3 <!-- feedback: Cálculo incorrecto del despeje. -->
 
@@ -135,10 +135,10 @@ Primero, pasamos el término constante (-5) al otro lado sumando: 3x = 10 + 5 = 
 Encuentra el valor de x en la ecuación: 5x + 2 = 2x + 11
 
 ### Opciones
-- [x] A) 3 <!-- feedback: 5x - 2x = 11 - 2; 3x = 9; x = 9 / 3 = 3. -->
-- [ ] B) 4 <!-- feedback: Error en la resta de los términos constantes o variables. -->
-- [ ] C) 1.5 <!-- feedback: Error en el despeje final. -->
-- [ ] D) -3 <!-- feedback: Error de signos en el proceso de resolución. -->
+- [x] D) 3 <!-- feedback: 5x - 2x = 11 - 2; 3x = 9; x = 9 / 3 = 3. -->
+- [ ] A) 4 <!-- feedback: Error en la resta de los términos constantes o variables. -->
+- [ ] B) 1.5 <!-- feedback: Error en el despeje final. -->
+- [ ] C) -3 <!-- feedback: Error de signos en el proceso de resolución. -->
 
 ### Explicacion Pedagogica
 Agrupamos los términos con x en un lado y los términos constantes en el otro. Restamos 2x de ambos lados: 5x - 2x + 2 = 11. Restamos 2 de ambos lados: 3x = 11 - 2 = 9. Finalmente, dividimos entre 3: x = 9 / 3 = 3.
@@ -156,8 +156,8 @@ Agrupamos los términos con x en un lado y los términos constantes en el otro. 
 ¿Cuánto mide la parte más corta de la tela?
 
 ### Opciones
-- [x] A) 15 metros <!-- feedback: x + 2x = 45; 3x = 45; x = 15. -->
-- [ ] B) 30 metros <!-- feedback: Esta es la medida de la parte más larga (2x). -->
+- [x] B) 15 metros <!-- feedback: x + 2x = 45; 3x = 45; x = 15. -->
+- [ ] A) 30 metros <!-- feedback: Esta es la medida de la parte más larga (2x). -->
 - [ ] C) 22.5 metros <!-- feedback: Error al dividir 45 entre 2 en lugar de considerar la relación 1 a 2. -->
 - [ ] D) 10 metros <!-- feedback: Cálculo incorrecto de la proporción. -->
 
@@ -178,8 +178,8 @@ Resuelve la ecuación: 2(x - 3) = 14
 
 ### Opciones
 - [ ] A) 7 <!-- feedback: Error al no distribuir el 2 o al no sumar el 6 resultante. -->
-- [x] B) 10 <!-- feedback: 2x - 6 = 14; 2x = 20; x = 10. -->
-- [ ] C) 4 <!-- feedback: Error en el manejo de signos al despejar. -->
+- [x] C) 10 <!-- feedback: 2x - 6 = 14; 2x = 20; x = 10. -->
+- [ ] B) 4 <!-- feedback: Error en el manejo de signos al despejar. -->
 - [ ] D) 8.5 <!-- feedback: Error de cálculo en la resolución. -->
 
 ### Explicacion Pedagogica
@@ -200,8 +200,8 @@ Aplicamos la propiedad distributiva: 2 \times x - 2 \times 3 = 14, lo que da 2x 
 ### Opciones
 - [ ] A) Ninguna solución <!-- feedback: Esto ocurriría si los resultados fueran diferentes (ej. 5 = 7). -->
 - [ ] B) Una única solución (x = 0) <!-- feedback: x=0 es una solución, pero no la única. -->
-- [x] C) Infinitas soluciones <!-- feedback: Es una identidad; cualquier valor de x satisface la igualdad. -->
-- [ ] D) Dos soluciones <!-- feedback: Las ecuaciones lineales de primer grado tienen máximo una solución, a menos que sean identidades. -->
+- [x] D) Infinitas soluciones <!-- feedback: Es una identidad; cualquier valor de x satisface la igualdad. -->
+- [ ] C) Dos soluciones <!-- feedback: Las ecuaciones lineales de primer grado tienen máximo una solución, a menos que sean identidades. -->
 
 ### Explicacion Pedagogica
 Al simplificar la ecuación restando 2x de ambos lados, obtenemos 5 = 5. Como esta igualdad es siempre verdadera independientemente del valor de x, se trata de una identidad y posee un número infinito de soluciones (todos los números reales).
@@ -219,8 +219,8 @@ Al simplificar la ecuación restando 2x de ambos lados, obtenemos 5 = 5. Como es
 Si el precio final con IVA es de $580 pesos, ¿cuál es el precio antes de impuestos (x)?
 
 ### Opciones
-- [ ] A) $487.20 <!-- feedback: Esto es restar el 16% del total, lo cual es un error común. -->
-- [x] B) $500.00 <!-- feedback: x * 1.16 = 580; x = 580 / 1.16 = 500. -->
+- [ ] B) $487.20 <!-- feedback: Esto es restar el 16% del total, lo cual es un error común. -->
+- [x] A) $500.00 <!-- feedback: x * 1.16 = 580; x = 580 / 1.16 = 500. -->
 - [ ] C) $512.50 <!-- feedback: Error en el cálculo de la división por el factor del IVA. -->
 - [ ] D) $672.80 <!-- feedback: Se sumó el 16% en lugar de usarlo como factor para encontrar el original. -->
 
@@ -240,10 +240,10 @@ El precio con IVA se calcula multiplicando el precio base (x) por 1.16 (que repr
 Resuelve para x: (x / 2) + (x / 3) = 10
 
 ### Opciones
-- [x] A) 12 <!-- feedback: Multiplicando por 6: 3x + 2x = 60; 5x = 60; x = 12. -->
-- [ ] B) 6 <!-- feedback: Error al operar con las fracciones. -->
-- [ ] C) 20 <!-- feedback: Error en la simplificación de la ecuación. -->
-- [ ] D) 15 <!-- feedback: Error en el despeje final de la incógnita. -->
+- [x] D) 12 <!-- feedback: Multiplicando por 6: 3x + 2x = 60; 5x = 60; x = 12. -->
+- [ ] A) 6 <!-- feedback: Error al operar con las fracciones. -->
+- [ ] B) 20 <!-- feedback: Error en la simplificación de la ecuación. -->
+- [ ] C) 15 <!-- feedback: Error en el despeje final de la incógnita. -->
 
 ### Explicacion Pedagogica
 Para eliminar los denominadores, multiplicamos toda la ecuación por el mínimo común múltiplo de 2 y 3, que es 6. Obtenemos: 6(x/2) + 6(x/3) = 6(10) \rightarrow 3x + 2x = 60. Sumando términos semejantes: 5x = 60. Dividiendo entre 5: x = 12.
@@ -263,8 +263,8 @@ La suma de tres números enteros consecutivos es 72. ¿Cuál es el valor del nú
 ### Opciones
 - [ ] A) 23 <!-- feedback: Este es el número menor (x). -->
 - [ ] B) 24 <!-- feedback: Este es el número medio (x + 1). -->
-- [x] C) 25 <!-- feedback: x + (x+1) + (x+2) = 72; 3x + 3 = 72; 3x = 69; x = 23. El mayor es 23 + 2 = 25. -->
-- [ ] D) 26 <!-- feedback: Error al plantear o resolver la ecuación. -->
+- [x] D) 25 <!-- feedback: x + (x+1) + (x+2) = 72; 3x + 3 = 72; 3x = 69; x = 23. El mayor es 23 + 2 = 25. -->
+- [ ] C) 26 <!-- feedback: Error al plantear o resolver la ecuación. -->
 
 ### Explicacion Pedagogica
 Definimos los números como x, x+1 y x+2. Su suma es: x + x + 1 + x + 2 = 72 \rightarrow 3x + 3 = 72. Despejamos x: 3x = 69 \rightarrow x = 23. Los números son 23, 24 y 25. El número mayor solicitado es 25.
@@ -283,9 +283,9 @@ En la ecuación P = 2(a + b), despeja la variable "a".
 
 ### Opciones
 - [ ] A) a = P - 2b <!-- feedback: Error en la distribución o división por el coeficiente 2. -->
-- [x] B) a = (P / 2) - b <!-- feedback: Dividimos entre 2: P/2 = a + b. Luego restamos b. -->
-- [ ] C) a = 2P - b <!-- feedback: Se multiplicó por 2 en lugar de dividir. -->
-- [ ] D) a = P - b / 2 <!-- feedback: Error en el orden de los términos al despejar. -->
+- [x] D) a = (P / 2) - b <!-- feedback: Dividimos entre 2: P/2 = a + b. Luego restamos b. -->
+- [ ] B) a = 2P - b <!-- feedback: Se multiplicó por 2 en lugar de dividir. -->
+- [ ] C) a = P - b / 2 <!-- feedback: Error en el orden de los términos al despejar. -->
 
 ### Explicacion Pedagogica
 Para despejar "a", primero dividimos ambos lados por 2: P / 2 = a + b. Posteriormente, restamos "b" de ambos lados para dejar sola la variable "a": a = (P / 2) - b. También es equivalente a a = (P - 2b) / 2.
@@ -304,9 +304,9 @@ Para despejar "a", primero dividimos ambos lados por 2: P / 2 = a + b. Posterior
 
 ### Opciones
 - [ ] A) 10 horas <!-- feedback: Esto dejaría 350 litros. -->
-- [x] B) 8 horas <!-- feedback: 380 = 500 - 15t; 15t = 500 - 380; 15t = 120; t = 8. -->
-- [ ] C) 12 horas <!-- feedback: Error al resolver la resta o la división. -->
-- [ ] D) 6 horas <!-- feedback: Cálculo incorrecto del tiempo. -->
+- [x] D) 8 horas <!-- feedback: 380 = 500 - 15t; 15t = 500 - 380; 15t = 120; t = 8. -->
+- [ ] B) 12 horas <!-- feedback: Error al resolver la resta o la división. -->
+- [ ] C) 6 horas <!-- feedback: Cálculo incorrecto del tiempo. -->
 
 ### Explicacion Pedagogica
 Planteamos la ecuación sustituyendo L por 380: 380 = 500 - 15t. Movemos los términos: 15t = 500 - 380 \rightarrow 15t = 120. Despejamos el tiempo dividiendo entre 15: t = 120 / 15 = 8. En 8 horas tendrá 380 litros.
@@ -325,8 +325,8 @@ Resuelve la ecuación: 12 / x = 3 / (x - 6)
 
 ### Opciones
 - [ ] A) 6 <!-- feedback: x no puede ser 6 ya que anularía el denominador. -->
-- [x] B) 8 <!-- feedback: 12(x-6) = 3x; 12x - 72 = 3x; 9x = 72; x = 8. -->
-- [ ] C) 4 <!-- feedback: Error al aplicar productos cruzados o al resolver la ecuación resultante. -->
+- [x] C) 8 <!-- feedback: 12(x-6) = 3x; 12x - 72 = 3x; 9x = 72; x = 8. -->
+- [ ] B) 4 <!-- feedback: Error al aplicar productos cruzados o al resolver la ecuación resultante. -->
 - [ ] D) 12 <!-- feedback: Resultado incorrecto del despeje. -->
 
 ### Explicacion Pedagogica
@@ -345,8 +345,8 @@ Usamos productos cruzados: 12(x - 6) = 3x. Distribuimos: 12x - 72 = 3x. Agrupamo
 ¿Qué se puede afirmar sobre la ecuación 3(x + 2) = 3x + 4?
 
 ### Opciones
-- [ ] A) Tiene una solución única (x = 0). <!-- feedback: Si x=0, 6=4, lo cual es falso. -->
-- [x] B) No tiene solución. <!-- feedback: Al simplificar queda 6 = 4, una contradicción lógica. -->
+- [ ] B) Tiene una solución única (x = 0). <!-- feedback: Si x=0, 6=4, lo cual es falso. -->
+- [x] A) No tiene solución. <!-- feedback: Al simplificar queda 6 = 4, una contradicción lógica. -->
 - [ ] C) Tiene infinitas soluciones. <!-- feedback: Esto sería si ambos lados fueran idénticos. -->
 - [ ] D) La solución es x = 2. <!-- feedback: Si x=2, 3(4)=12 y 3(2)+4=10. Falso. -->
 
@@ -366,9 +366,9 @@ Al desarrollar el lado izquierdo: 3x + 6 = 3x + 4. Si restamos 3x de ambos lados
 Un químico mezcla x litros de ácido al 20% con 10 litros de ácido al 50% para obtener una mezcla al 40%. ¿Cuántos litros (x) se usaron de la primera solución?
 
 ### Opciones
-- [x] A) 5 litros <!-- feedback: 0.20x + 0.50(10) = 0.40(x + 10); 0.20x + 5 = 0.40x + 4; 1 = 0.20x; x = 5. -->
-- [ ] B) 10 litros <!-- feedback: Error en el planteamiento de los porcentajes o en la resolución. -->
-- [ ] C) 2.5 litros <!-- feedback: Error de cálculo al despejar la incógnita. -->
+- [x] C) 5 litros <!-- feedback: 0.20x + 0.50(10) = 0.40(x + 10); 0.20x + 5 = 0.40x + 4; 1 = 0.20x; x = 5. -->
+- [ ] A) 10 litros <!-- feedback: Error en el planteamiento de los porcentajes o en la resolución. -->
+- [ ] B) 2.5 litros <!-- feedback: Error de cálculo al despejar la incógnita. -->
 - [ ] D) 7.5 litros <!-- feedback: Resultado incorrecto para la mezcla dada. -->
 
 ### Explicacion Pedagogica
@@ -430,9 +430,9 @@ Sumamos las tasas de trabajo (fracción de barda por hora): (1/6) + (1/4) = 1/t 
 
 ### Opciones
 - [ ] A) 7 <!-- feedback: La igualdad no se cumpliría para todo x; resultaría en 4x = 4x - 7. -->
-- [x] B) 0 <!-- feedback: 4x - 7 + k = 4x - 8 + 1; 4x - 7 + k = 4x - 7. Para que sea identidad, k debe ser 0. -->
-- [ ] C) -7 <!-- feedback: Error al simplificar los términos constantes. -->
-- [ ] D) 1 <!-- feedback: Resultado incorrecto para lograr una identidad. -->
+- [x] D) 0 <!-- feedback: 4x - 7 + k = 4x - 8 + 1; 4x - 7 + k = 4x - 7. Para que sea identidad, k debe ser 0. -->
+- [ ] B) -7 <!-- feedback: Error al simplificar los términos constantes. -->
+- [ ] C) 1 <!-- feedback: Resultado incorrecto para lograr una identidad. -->
 
 ### Explicacion Pedagogica
 Desarrollamos el lado derecho: 4(x - 2) + 1 = 4x - 8 + 1 = 4x - 7. La ecuación queda: 4x - 7 + k = 4x - 7. Para que tenga infinitas soluciones, ambos lados deben ser idénticos. Por comparación directa, vemos que k debe ser igual a 0.

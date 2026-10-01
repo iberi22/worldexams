@@ -57,9 +57,9 @@ Identificar el dato con mayor frecuencia en una tabla sencilla de conteo.
 ¿Por qué el pictograma muestra que el bus es el medio más usado?
 
 ### Opciones
-- [x] A) Porque tiene 4 dibujos, que representan 20 estudiantes, más que los otros medios.
+- [x] B) Porque tiene 4 dibujos, que representan 20 estudiantes, más que los otros medios.
   <!-- feedback: 4 dibujos de 5 estudiantes son 20 estudiantes, la cantidad mayor. -->
-- [ ] B) Porque tiene 2 dibujos, que representan 10 estudiantes.
+- [ ] A) Porque tiene 2 dibujos, que representan 10 estudiantes.
   <!-- feedback: 2 dibujos corresponden a la bicicleta, no al bus. -->
 - [ ] C) Porque ir a pie tiene 3 dibujos, que representan 8 estudiantes.
   <!-- feedback: 3 dibujos de 5 estudiantes son 15 estudiantes, no 8. -->
@@ -80,13 +80,13 @@ Comprender cómo un pictograma representa cantidades usando un símbolo con un v
 Según la gráfica de barras, ¿qué día se vendió más y cuánto se vendió?
 
 ### Opciones
-- [x] A) El jueves, con 25.000 COP.
+- [x] D) El jueves, con 25.000 COP.
   <!-- feedback: La barra del jueves es la más alta, con 25.000 COP. -->
-- [ ] B) El martes, con 20.000 COP.
+- [ ] A) El martes, con 20.000 COP.
   <!-- feedback: El martes es el segundo día con más ventas, no el primero. -->
-- [ ] C) El lunes, con 15.000 COP.
+- [ ] B) El lunes, con 15.000 COP.
   <!-- feedback: El lunes tiene 15.000 COP, menos que el jueves. -->
-- [ ] D) El miércoles, con 10.000 COP.
+- [ ] C) El miércoles, con 10.000 COP.
   <!-- feedback: El miércoles tiene la barra más baja, con 10.000 COP. -->
 
 ### Explicacion Pedagogica
@@ -103,9 +103,9 @@ Leer una gráfica de barras para identificar el valor máximo de un conjunto de 
 ¿Cuál es la moda de las edades del equipo?
 
 ### Opciones
-- [x] A) 10 años, porque aparece 4 veces, más que cualquier otra edad.
+- [x] B) 10 años, porque aparece 4 veces, más que cualquier otra edad.
   <!-- feedback: El 10 se repite 4 veces, es la frecuencia mayor del conjunto. -->
-- [ ] B) 11 años, porque aparece 2 veces.
+- [ ] A) 11 años, porque aparece 2 veces.
   <!-- feedback: El 11 aparece 3 veces, no 2, y no es la mayor frecuencia. -->
 - [ ] C) 12 años, porque es la edad mayor.
   <!-- feedback: La moda es el dato más repetido, no el valor mayor. -->
@@ -126,11 +126,11 @@ Aplicar el concepto de moda como el dato que aparece con mayor frecuencia.
 ¿Cuántos estudiantes prefieren el fútbol o el baloncesto?
 
 ### Opciones
-- [x] A) 23 estudiantes.
+- [x] C) 23 estudiantes.
   <!-- feedback: 14 de fútbol + 9 de baloncesto = 23 estudiantes. -->
-- [ ] B) 14 estudiantes.
+- [ ] A) 14 estudiantes.
   <!-- feedback: 14 es solo el fútbol, falta sumar el baloncesto. -->
-- [ ] C) 7 estudiantes.
+- [ ] B) 7 estudiantes.
   <!-- feedback: 7 es la suma de natación y ciclismo, no de fútbol y baloncesto. -->
 - [ ] D) 30 estudiantes.
   <!-- feedback: 30 es el total de encuestados, no solo fútbol y baloncesto. -->
@@ -149,11 +149,11 @@ Sumar frecuencias de una tabla de encuesta para obtener una categoría combinada
 ¿Qué análisis es correcto sobre las ventas de la papelería?
 
 ### Opciones
-- [x] A) Los lápices y los cuadernos empatan como los más vendidos, con 40 unidades cada uno.
+- [x] C) Los lápices y los cuadernos empatan como los más vendidos, con 40 unidades cada uno.
   <!-- feedback: Ambas barras llegan a 40, el valor más alto de la gráfica. -->
-- [ ] B) Los borradores son los más vendidos, con 25 unidades.
+- [ ] A) Los borradores son los más vendidos, con 25 unidades.
   <!-- feedback: 25 es menor que 40, no es el valor máximo. -->
-- [ ] C) Las reglas son las más vendidas, con 15 unidades.
+- [ ] B) Las reglas son las más vendidas, con 15 unidades.
   <!-- feedback: 15 es el valor más bajo de la gráfica. -->
 - [ ] D) Todos los artículos se vendieron en la misma cantidad.
   <!-- feedback: Las cantidades son 40, 25, 40 y 15, no son iguales. -->
@@ -195,9 +195,9 @@ Analizar la moda de una encuesta para tomar una decisión basada en los datos.
 ¿Cuál encuesta ofrece información más confiable para decidir la mascota del colegio y por qué?
 
 ### Opciones
-- [x] A) La del curso B, porque encuestó a más estudiantes de distintos salones al azar y representa mejor a todo el colegio.
+- [x] B) La del curso B, porque encuestó a más estudiantes de distintos salones al azar y representa mejor a todo el colegio.
   <!-- feedback: Una muestra más grande y variada representa mejor a la población del colegio. -->
-- [ ] B) La del curso A, porque encuestar solo a amigos cercanos siempre da el resultado correcto.
+- [ ] A) La del curso A, porque encuestar solo a amigos cercanos siempre da el resultado correcto.
   <!-- feedback: Encuestar solo a amigos produce un resultado sesgado, no representa al colegio. -->
 - [ ] C) Ambas son igual de confiables, porque el tamaño y la selección de encuestados no importan.
   <!-- feedback: El tamaño y la forma de elegir a los encuestados sí afectan la confiabilidad. -->

@@ -36,9 +36,9 @@ Este bundle contiene 20 preguntas sobre **Análisis Tipológico Comparativo** pa
 ¿Cuál es la diferencia de tipología textual entre el Texto 1 y el Texto 2?
 
 ### Opciones
-- [x] A) El Texto 1 es un texto expositivo-científico (denotativo) y el Texto 2 es un texto lírico-literario (connotativo).
+- [x] B) El Texto 1 es un texto expositivo-científico (denotativo) y el Texto 2 es un texto lírico-literario (connotativo).
   <!-- feedback: Correcto. El primero aporta datos objetivos cuantitativos; el segundo utiliza recursos de lenguaje figurado y expresivo. -->
-- [ ] B) El Texto 1 es una novela de caballería y el Texto 2 es una noticia de crónica policial.
+- [ ] A) El Texto 1 es una novela de caballería y el Texto 2 es una noticia de crónica policial.
   <!-- feedback: Incorrecto. Ninguno responde a esos géneros ni formatos narrativos. -->
 - [ ] C) Ambos textos son manuales de instrucciones para la navegación fluvial.
   <!-- feedback: Incorrecto. Ninguno contiene pasos procedurales de navegación. -->
@@ -86,13 +86,13 @@ Los textos instructivos priorizan la secuencia imperativa de acciones, mientras 
 Desde la clasificación por formato de presentación, el Texto 1 es un texto ______ y el Texto 2 es un texto ______.
 
 ### Opciones
-- [x] A) discontinuo / continuo
+- [x] D) discontinuo / continuo
   <!-- feedback: Correcto. Los gráficos de barras son textos discontinuos (se leen en matrices/diagramas) y los ensayos son textos continuos (se leen en párrafos encadenados). -->
-- [ ] B) continuo / discontinuo
+- [ ] A) continuo / discontinuo
   <!-- feedback: Incorrecto. Invierte la clasificación sintáctica de ambos formatos. -->
-- [ ] C) poético / dramático
+- [ ] B) poético / dramático
   <!-- feedback: Incorrecto. Ninguno de los dos pertenece a la literatura dramática o poética. -->
-- [ ] D) ficcional / autobiográfico
+- [ ] C) ficcional / autobiográfico
   <!-- feedback: Incorrecto. Son textos de análisis macroeconómico e información real. -->
 
 ### Explicacion Pedagogica
@@ -136,13 +136,13 @@ La narrativa focaliza la experiencia de personajes en una trama, a diferencia de
 Al analizar la intencionalidad discursiva de ambos textos, se deduce que:
 
 ### Opciones
-- [x] A) El Texto 1 busca denunciar satíricamente el impacto ecológico mortál, mientras el Texto 2 pretende legitimarse institucionalmente.
+- [x] D) El Texto 1 busca denunciar satíricamente el impacto ecológico mortál, mientras el Texto 2 pretende legitimarse institucionalmente.
   <!-- feedback: Correcto. La caricatura satiriza la destrucción mediante símbolos trágicos; la empresa usa la memoria institucional de sostenibilidad para lavar su imagen. -->
-- [ ] B) Ambos textos buscan vender acciones financieras en la bolsa de valores.
+- [ ] A) Ambos textos buscan vender acciones financieras en la bolsa de valores.
   <!-- feedback: Incorrecto. La caricatura de opinión no vende acciones sino que critica el daño ambiental. -->
-- [ ] C) El Texto 1 es una ley de la República y el Texto 2 es un poema romántico.
+- [ ] B) El Texto 1 es una ley de la República y el Texto 2 es un poema romántico.
   <!-- feedback: Incorrecto. Son piezas de opinión gráfica e informe corporativo respectivamente. -->
-- [ ] D) Ambos autores coinciden en que la minería destruye irreversiblemente el planeta.
+- [ ] C) Ambos autores coinciden en que la minería destruye irreversiblemente el planeta.
   <!-- feedback: Incorrecto. El informe corporativo afirma cumplir con la reforestación y sostenibilidad ambiental. -->
 
 ### Explicacion Pedagogica
@@ -161,13 +161,13 @@ El análisis tipológico discursivo permite reconocer las motivaciones ideológi
 ¿De qué manera se complementan ambas publicaciones para un lector crítico?
 
 ### Opciones
-- [x] A) La Publicación A suministra los datos cuantitativos del diagnóstico y la Publicación B aporta la interpretación y denuncia política.
+- [x] D) La Publicación A suministra los datos cuantitativos del diagnóstico y la Publicación B aporta la interpretación y denuncia política.
   <!-- feedback: Correcto. Los datos estadísticos de la infografía sirven de base empírica para la postura crítica del ensayo de opinión. -->
-- [ ] B) Ambas publicaciones se anulan mutuamente porque emplean tipografías de colores diferentes.
+- [ ] A) Ambas publicaciones se anulan mutuamente porque emplean tipografías de colores diferentes.
   <!-- feedback: Incorrecto. La diferencia de diseño o formato no anula la complementariedad de la información. -->
-- [ ] C) La Publicación B demuestra que los gráficos de barras son falsos por definición.
+- [ ] B) La Publicación B demuestra que los gráficos de barras son falsos por definición.
   <!-- feedback: Incorrecto. El ensayo crítico no niega las estadísticas sino que exige soluciones a las causas de la crisis. -->
-- [ ] D) La Publicación A es un cuento de hadas y la B es un manual de cocina.
+- [ ] C) La Publicación A es un cuento de hadas y la B es un manual de cocina.
   <!-- feedback: Incorrecto. Ambas abordan una grave problemática de salud pública en Colombia. -->
 
 ### Explicacion Pedagogica
@@ -211,9 +211,9 @@ En la lectura crítica intertextual, los textos discontinuos de datos sirven fre
 ¿Cuál es la diferencia fundamental en el uso del lenguaje entre el Texto A y el Texto B?
 
 ### Opciones
-- [x] A) El Texto A utiliza recursos de connotación y metáfora; el Texto B utiliza un lenguaje estrictamente denotativo y funcional.
+- [x] B) El Texto A utiliza recursos de connotación y metáfora; el Texto B utiliza un lenguaje estrictamente denotativo y funcional.
   <!-- feedback: Correcto. El Texto A crea imágenes poéticas (manto, sombra); el B describe el fenómeno físico con rigor astronómico. -->
-- [ ] B) El Texto A es una ley jurídica sobre el descanso laboral y el B es una receta médica.
+- [ ] A) El Texto A es una ley jurídica sobre el descanso laboral y el B es una receta médica.
   <!-- feedback: Incorrecto. Ninguno aborda legislación laboral ni prescripciones farmacéuticas. -->
 - [ ] C) El Texto B es un poema de la época colonial escrito en verso libre.
   <!-- feedback: Incorrecto. El Texto B es una definición científica en prosa expositiva. -->
@@ -236,13 +236,13 @@ El análisis del lenguaje denotativo (científico) versus connotativo (poético)
 Si el estudiante busca conocer la disponibilidad natural del recurso energético, debe priorizar el ______, pero si busca conocer la viabilidad política del proyecto, debe priorizar el ______.
 
 ### Opciones
-- [x] A) Texto X / Texto Y
+- [x] D) Texto X / Texto Y
   <!-- feedback: Correcto. El mapa (Texto X) ofrece los datos físicos de radiación natural y la entrevista (Texto Y) expone las políticas públicas e intenciones del gobierno. -->
-- [ ] B) Texto Y / Texto X
+- [ ] A) Texto Y / Texto X
   <!-- feedback: Incorrecto. Invierte la utilidad de las fuentes; el mapa mide la radiación física y la entrevista la política oficial. -->
-- [ ] C) Texto X en ambos casos.
+- [ ] B) Texto X en ambos casos.
   <!-- feedback: Incorrecto. El mapa no informa sobre licencias administrativas ni decisiones del ministerio. -->
-- [ ] D) Texto Y en ambos casos.
+- [ ] C) Texto Y en ambos casos.
   <!-- feedback: Incorrecto. La entrevista no reemplaza las mediciones cartográficas de radiación física. -->
 
 ### Explicacion Pedagogica
@@ -261,9 +261,9 @@ Identificar la idoneidad de distintos tipos de texto (cartográfico/físico vs. 
 El uso del lenguaje en el Texto 1 revela una función discursiva de tipo ______ mientras que el Texto 2 cumple una función ______.
 
 ### Opciones
-- [x] A) emotiva/persuasiva — referencial/informativa
+- [x] B) emotiva/persuasiva — referencial/informativa
   <!-- feedback: Correcto. El discurso apela al fervor patriótico y las emociones; la investigación científica reporta datos verificables. -->
-- [ ] B) poética/lírica — dramática/teatral
+- [ ] A) poética/lírica — dramática/teatral
   <!-- feedback: Incorrecto. No son piezas de literatura poética ni guiones de teatro. -->
 - [ ] C) metalingüística — instructiva/procedimental
   <!-- feedback: Incorrecto. No analizan la gramática del idioma ni dan pasos para talar árboles. -->
@@ -286,9 +286,9 @@ Reconocer las funciones del lenguaje de Roman Jakobson (emotiva, apelativa, refe
 Al evaluar ambas posturas ensayísticas, se observa que:
 
 ### Opciones
-- [x] A) Representan dos utopías/distopías contrapuestas (tecnoptimismo vs. tecnopesimismo) sobre el futuro del trabajo.
+- [x] B) Representan dos utopías/distopías contrapuestas (tecnoptimismo vs. tecnopesimismo) sobre el futuro del trabajo.
   <!-- feedback: Correcto. El Texto A idealiza los beneficios (utopía tecnoptimista) y el B advierte los riesgos de concentración y desempleo (distopía). -->
-- [ ] B) El Texto A fue escrito en el siglo XV y el B en el siglo XVIII.
+- [ ] A) El Texto A fue escrito en el siglo XV y el B en el siglo XVIII.
   <!-- feedback: Incorrecto. Ambos abordan el impacto contemporáneo de la inteligencia artificial. -->
 - [ ] C) Ambos autores coinciden en que la inteligencia artificial debe ser prohibida por la ley.
   <!-- feedback: Incorrecto. Ninguno exige su prohibición absoluta; evalúan sus consecuencias hipotéticas. -->
@@ -311,11 +311,11 @@ El análisis tipológico comparativo entre ensayos contrapuestos identifica las 
 ¿De qué manera difieren el valor testimonial y el valor jurídico de ambos documentos históricos?
 
 ### Opciones
-- [x] A) El Documento 1 aporta el testimonio vivencial del sujeto histórico; el Documento 2 formaliza el acuerdo institucional normativo.
+- [x] C) El Documento 1 aporta el testimonio vivencial del sujeto histórico; el Documento 2 formaliza el acuerdo institucional normativo.
   <!-- feedback: Correcto. La carta privada capta la experiencia humana/subjetiva; el tratado de paz fija las normas legales formales de fin del conflicto. -->
-- [ ] B) El Documento 1 es una invención ficcional y el Documento 2 es un poema de amor.
+- [ ] A) El Documento 1 es una invención ficcional y el Documento 2 es un poema de amor.
   <!-- feedback: Incorrecto. Ambos son documentos históricos primarios auténticos de diferente tipología. -->
-- [ ] C) El Documento 2 fue escrito por el mismo soldado que redactó la carta a la madre.
+- [ ] B) El Documento 2 fue escrito por el mismo soldado que redactó la carta a la madre.
   <!-- feedback: Incorrecto. El tratado es un documento oficial suscrito por los mandos militares de ambos bandos. -->
 - [ ] D) Ambos documentos carecen de todo interés para la reconstrucción del pasado colombiano.
   <!-- feedback: Incorrecto. La historiografía utiliza justamente ambos tipos de fuentes para cruzar la experiencia con la norma. -->
@@ -336,9 +336,9 @@ La comparación entre fuentes históricas primarias privadas (cartas) y pública
 ¿Cuál es la diferencia de responsabilidad comunicativa frente al consumidor entre el Texto A y el Texto B?
 
 ### Opciones
-- [x] A) El Texto A busca la persuasión estética y comercial sin mencionar efectos secundarios; el B aporta un análisis de salud ponderado con límites de seguridad.
+- [x] B) El Texto A busca la persuasión estética y comercial sin mencionar efectos secundarios; el B aporta un análisis de salud ponderado con límites de seguridad.
   <!-- feedback: Correcto. La publicidad resalta el placer hedónico omitiendo riesgos; la divulgación médica informa sobre beneficios y contraindicaciones de la sustancia. -->
-- [ ] B) El Texto A es una guía técnica de cultivo agrícolas en el departamento del Quindío.
+- [ ] A) El Texto A es una guía técnica de cultivo agrícolas en el departamento del Quindío.
   <!-- feedback: Incorrecto. El Texto A es un aviso de consumo comercial y no una guía agronómica de siembra. -->
 - [ ] C) El Texto B busca prohibir la venta de café en todos los restaurantes colombianos.
   <!-- feedback: Incorrecto. El artículo médico habla de ingesta moderada segura y advierte sobre excesos. -->
@@ -361,13 +361,13 @@ El análisis crítico comparativo contrapone el discurso publicitario de seducci
 ¿De qué manera dialogan el dato del Texto 1 con la ficción del Texto 2?
 
 ### Opciones
-- [x] A) El Texto 1 evidencia las brechas reales de infraestructura del presente; el Texto 2 extrapola de forma especulativa las posibilidades y alienaciones del futuro.
+- [x] D) El Texto 1 evidencia las brechas reales de infraestructura del presente; el Texto 2 extrapola de forma especulativa las posibilidades y alienaciones del futuro.
   <!-- feedback: Correcto. La tabla da el mapa de realidad técnica de hoy y el cuento explora mediante la ficción el futuro de la educación mediada por máquinas. -->
-- [ ] B) El Texto 2 demuestra que la tabla del Texto 1 contiene datos inventados.
+- [ ] A) El Texto 2 demuestra que la tabla del Texto 1 contiene datos inventados.
   <!-- feedback: Incorrecto. La literatura de ficción no desacredita los censos estadísticos de infraestructura real. -->
-- [ ] C) El Texto 1 es una obra dramática de teatro y el Texto 2 es un código de leyes del Congreso.
+- [ ] B) El Texto 1 es una obra dramática de teatro y el Texto 2 es un código de leyes del Congreso.
   <!-- feedback: Incorrecto. Las tipologías registradas son tabla estadística cuantitativa y cuento ficcional especulativo. -->
-- [ ] D) Ambos textos afirman que la escuela física desaparecerá el próximo mes en Colombia.
+- [ ] C) Ambos textos afirman que la escuela física desaparecerá el próximo mes en Colombia.
   <!-- feedback: Incorrecto. El cuento transcurre en 2150 y la tabla mide el presente sin profetizar la desaparición de escuelas. -->
 
 ### Explicacion Pedagogica
@@ -386,13 +386,13 @@ Cruzar textos informativos del presente con ficciones especulativas enriquece la
 La contradicción entre ambos textos pone al descubierto el choque entre:
 
 ### Opciones
-- [x] A) La retórica empresarial de democratización del consumo y la realidad ambiental de la sobreproducción de desechos.
+- [x] D) La retórica empresarial de democratización del consumo y la realidad ambiental de la sobreproducción de desechos.
   <!-- feedback: Correcto. La industria justifica el negocio con la "democratización del precio", mientras el reportaje visibiliza el costo ecológico de la ropa desechada. -->
-- [ ] B) El diseño de vestuario en París y la confección de calzado en Bogotá.
+- [ ] A) El diseño de vestuario en París y la confección de calzado en Bogotá.
   <!-- feedback: Incorrecto. El debate es sobre el modelo ambiental del *fast fashion* y no de geografía de la confección de calzado. -->
-- [ ] C) La falta de agua potable en los desiertos del norte de Chile.
+- [ ] B) La falta de agua potable en los desiertos del norte de Chile.
   <!-- feedback: Incorrecto. El reportaje menciona Atacama como basurero textil y no por agua. -->
-- [ ] D) La prohibición legal de usar ropa usada en Suramérica.
+- [ ] C) La prohibición legal de usar ropa usada en Suramérica.
   <!-- feedback: Incorrecto. La ropa usada se importa masivamente; la tensión es ecológica y de modelo de mercado. -->
 
 ### Explicacion Pedagogica
@@ -411,9 +411,9 @@ El análisis de contradicciones en textos de consumo contrapone los discursos co
 ¿Cuál es la relación de significación entre el Texto 1 y el Texto 2?
 
 ### Opciones
-- [x] A) El Texto 1 aporta la experiencia subjetiva singular que ilustra el concepto general formulado en el Texto 2.
+- [x] B) El Texto 1 aporta la experiencia subjetiva singular que ilustra el concepto general formulado en el Texto 2.
   <!-- feedback: Correcto. El testimonio vivencial encarna la categoría sociológica de "factores expulsores" expresada en el estudio académico. -->
-- [ ] B) El Texto 2 desmiente las afirmaciones hechas por la lideresa en el Texto 1.
+- [ ] A) El Texto 2 desmiente las afirmaciones hechas por la lideresa en el Texto 1.
   <!-- feedback: Incorrecto. El informe sociológico revalida y conceptualiza exactamente lo que vivió la lideresa rural. -->
 - [ ] C) El Texto 1 es una poesía vanguardista y el Texto 2 es un diálogo de comedia.
   <!-- feedback: Incorrecto. Las tipologías son testimonio personal oral/escrito e informe sociológico académico. -->
@@ -437,13 +437,13 @@ Analizar cómo se articula el testimonio vivencial con las categorías de los es
 Para evaluar de manera balanceada y rigurosa la historia de este periodo, el historiador debe comprender que:
 
 ### Opciones
-- [x] A) Debe triangular las tres fuentes: el sesgo ideológico de la prensa de época, la vivencia de las víctimas y la reconstrucción analítica posterior.
+- [x] D) Debe triangular las tres fuentes: el sesgo ideológico de la prensa de época, la vivencia de las víctimas y la reconstrucción analítica posterior.
   <!-- feedback: Correcto. La triangulación de fuentes heterogéneas (discursivas, testimoniales e investigativas) es el método crítico para construir la verdad histórica. -->
-- [ ] B) El informe de 2022 es el único documento válido y los otros dos deben ser destruidos.
+- [ ] A) El informe de 2022 es el único documento válido y los otros dos deben ser destruidos.
   <!-- feedback: Incorrecto. Destruir fuentes primarias de época priva a la historia de la evidencia directa de los actores. -->
-- [ ] C) El editorial partidista es 100% objetivo porque fue impreso en papel de periódico.
+- [ ] B) El editorial partidista es 100% objetivo porque fue impreso en papel de periódico.
   <!-- feedback: Incorrecto. La prensa de época estaba fuertemente sesgada por las pasiones partidistas del momento. -->
-- [ ] D) Las cartas personales carecen de todo valor para la ciencia histórica.
+- [ ] C) Las cartas personales carecen de todo valor para la ciencia histórica.
   <!-- feedback: Incorrecto. El testimonio epistolar es clave para comprender el impacto humano de los procesos políticos. -->
 
 ### Explicacion Pedagogica
@@ -462,13 +462,13 @@ La triangulación de fuentes tipológicamente diversas (prensa de época, testim
 Al evaluar el alcance argumentativo de ambos textos, el lector concluye que:
 
 ### Opciones
-- [x] A) Ninguno de los dos textos agota la totalidad del debate; el Artículo A aborda la dimensión de salud y el B la dimensión macroeconómica.
+- [x] D) Ninguno de los dos textos agota la totalidad del debate; el Artículo A aborda la dimensión de salud y el B la dimensión macroeconómica.
   <!-- feedback: Correcto. Reconocer los límites sectoriales de cada tipología evita adoptar visiones parciales en debates complejos de política pública. -->
-- [ ] B) El Artículo B invalida totalmente los hallazgos médicos del Artículo A.
+- [ ] A) El Artículo B invalida totalmente los hallazgos médicos del Artículo A.
   <!-- feedback: Incorrecto. Las proyecciones económicas no invalidan los hallazgos farmacológicos en salud. -->
-- [ ] C) El Artículo A es un texto de ficción fantástica sin sustento biológico.
+- [ ] B) El Artículo A es un texto de ficción fantástica sin sustento biológico.
   <!-- feedback: Incorrecto. La revista médica analiza propiedades farmacológicas comprobadas en investigación. -->
-- [ ] D) Ambos artículos exigen la prohibición absoluta de todas las plantas medicinales.
+- [ ] C) Ambos artículos exigen la prohibición absoluta de todas las plantas medicinales.
   <!-- feedback: Incorrecto. Ambos exploran usos (médicos e industriales) que sustentan la regulación o aprovechamiento de la planta. -->
 
 ### Explicacion Pedagogica
@@ -485,11 +485,11 @@ Evaluar la suficiencia de textos sectoriales implica reconocer que ningún artí
 Desde los presupuestos de la semiótica y la teoría de la lectura del marco ICFES, la postura del estudiante es incorrecta porque:
 
 ### Opciones
-- [x] A) Ignora que la competencia lectora contemporánea exige interpretar lenguajes multimodales y textos discontinuos presentes en la vida ciudadana.
+- [x] C) Ignora que la competencia lectora contemporánea exige interpretar lenguajes multimodales y textos discontinuos presentes en la vida ciudadana.
   <!-- feedback: Correcto. Leer críticamente en el siglo XXI abarca tanto la prosa continua como los códigos icónicos, gráficos y discursivos complejas de la cultura visual. -->
-- [ ] B) Demuestra que las caricaturas son más difíciles de entender que los libros de filosofía griega.
+- [ ] A) Demuestra que las caricaturas son más difíciles de entender que los libros de filosofía griega.
   <!-- feedback: Incorrecto. No se trata de medir dificultad comparativa sino de reconocer la validez de los lenguajes multimodales. -->
-- [ ] C) Sugiere que los libros impresos deben ser eliminados de todas las bibliotecas del país.
+- [ ] B) Sugiere que los libros impresos deben ser eliminados de todas las bibliotecas del país.
   <!-- feedback: Incorrecto. El estudiante no pide eliminar libros sino que rechaza erróneamente evaluar textos discontinuos. -->
 - [ ] D) Afirma que los gráficos estadísticos solo deben ser leídos por profesores de matemáticas.
   <!-- feedback: Incorrecto. La lectura crítica ciudadana requiere descifrar información cuantitativa en la prensa y la vida pública. -->
@@ -510,13 +510,13 @@ La teoría de la lectura multimodal fundamenta que la competencia lectora incluy
 Al juzgar la eficacia de ambas obras para la reconstrucción del tejido social de Colombia, se concluye que:
 
 ### Opciones
-- [x] A) Ambas son complementarias e indispensables: la fotografía conmueve e interpela la empatía moral; la estadística dimensiona la magnitud estructural del fenómeno.
+- [x] D) Ambas son complementarias e indispensables: la fotografía conmueve e interpela la empatía moral; la estadística dimensiona la magnitud estructural del fenómeno.
   <!-- feedback: Correcto. La potencia estética y ética de la fotografía humana se alía con la solidez cuantitativa del informe para la reparación y la memoria colectiva. -->
-- [ ] B) La fotografía carece de valor porque las imágenes no contienen datos numéricos con decimales.
+- [ ] A) La fotografía carece de valor porque las imágenes no contienen datos numéricos con decimales.
   <!-- feedback: Incorrecto. El arte fotográfico documental posee una fuerza de interpelación ética y memoria histórica insustituible. -->
-- [ ] C) Las estadísticas son inútiles porque los números confunden a los ciudadanos comunes.
+- [ ] B) Las estadísticas son inútiles porque los números confunden a los ciudadanos comunes.
   <!-- feedback: Incorrecto. Las cifras rigurosas son indispensables para dimensionar la magnitud del impacto del conflicto y diseñar políticas públicas de reparación. -->
-- [ ] D) Ambas obras debieron ser redactadas en forma de comedia musical para el teatro comercial.
+- [ ] C) Ambas obras debieron ser redactadas en forma de comedia musical para el teatro comercial.
   <!-- feedback: Incorrecto. El respeto a la memoria de las víctimas exige la solemnidad, rigor y dignidad presentes en ambas aproximaciones. -->
 
 ### Explicacion Pedagogica

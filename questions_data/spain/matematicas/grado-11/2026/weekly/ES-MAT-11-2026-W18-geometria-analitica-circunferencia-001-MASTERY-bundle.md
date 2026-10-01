@@ -51,8 +51,8 @@ Si una circunferencia tiene centro en $C(a, b)$ y radio $R$, ¿cuál es su ecuac
 
 ### Opciones
 - [ ] A) $(x+a)^2 + (y+b)^2 = R^2$ <!-- feedback: Los signos deben ser negativos para desplazar el centro correctamente. -->
-- [x] B) $(x-a)^2 + (y-b)^2 = R^2$ <!-- feedback: Correcto. Proviene directamente de aplicar el teorema de Pitágoras a la distancia entre un punto genérico (x,y) y el centro (a,b). -->
-- [ ] C) $x^2 + y^2 = R^2$ <!-- feedback: Esta es la ecuación de una circunferencia centrada en el origen (0,0). -->
+- [x] C) $(x-a)^2 + (y-b)^2 = R^2$ <!-- feedback: Correcto. Proviene directamente de aplicar el teorema de Pitágoras a la distancia entre un punto genérico (x,y) y el centro (a,b). -->
+- [ ] B) $x^2 + y^2 = R^2$ <!-- feedback: Esta es la ecuación de una circunferencia centrada en el origen (0,0). -->
 - [ ] D) $(x-a) + (y-b) = R$ <!-- feedback: Faltan los cuadrados, esenciales para la métrica euclídea. -->
 
 ### Explicacion Pedagogica
@@ -72,9 +72,9 @@ Dada la ecuación general $x^2 + y^2 + Dx + Ey + F = 0$, ¿cómo se obtienen las
 
 ### Opciones
 - [ ] A) $a = D, b = E$ <!-- feedback: No coinciden directamente con los coeficientes. -->
-- [x] B) $a = -D/2, b = -E/2$ <!-- feedback: Correcto. Resulta de completar cuadrados en la ecuación general. -->
-- [ ] C) $a = D/2, b = E/2$ <!-- feedback: Falta el cambio de signo. -->
-- [ ] D) $a = \sqrt{D}, b = \sqrt{E}$ <!-- feedback: Relación incorrecta. -->
+- [x] D) $a = -D/2, b = -E/2$ <!-- feedback: Correcto. Resulta de completar cuadrados en la ecuación general. -->
+- [ ] B) $a = D/2, b = E/2$ <!-- feedback: Falta el cambio de signo. -->
+- [ ] C) $a = \sqrt{D}, b = \sqrt{E}$ <!-- feedback: Relación incorrecta. -->
 
 ### Explicacion Pedagogica
 Para pasar de la forma general a la canónica, dividimos los coeficientes lineales entre -2 para hallar las coordenadas del centro. Es un paso fundamental en el análisis de cónicas.
@@ -93,8 +93,8 @@ Para pasar de la forma general a la canónica, dividimos los coeficientes lineal
 
 ### Opciones
 - [ ] A) Que $F$ sea negativo. <!-- feedback: No es una condición necesaria ni suficiente por sí sola. -->
-- [ ] B) Que $D$ y $E$ sean iguales a cero. <!-- feedback: Esto solo significaría que está centrada en el origen. -->
-- [x] C) Que $(D/2)^2 + (E/2)^2 - F > 0$. <!-- feedback: Correcto. Esta expresión representa el cuadrado del radio ($R^2$); para que sea una circunferencia real, el radio debe ser un número positivo. -->
+- [ ] C) Que $D$ y $E$ sean iguales a cero. <!-- feedback: Esto solo significaría que está centrada en el origen. -->
+- [x] B) Que $(D/2)^2 + (E/2)^2 - F > 0$. <!-- feedback: Correcto. Esta expresión representa el cuadrado del radio ($R^2$); para que sea una circunferencia real, el radio debe ser un número positivo. -->
 - [ ] D) Que $D^2 + E^2 = F^2$. <!-- feedback: Relación sin fundamento geométrico. -->
 
 ### Explicacion Pedagogica
@@ -113,8 +113,8 @@ No toda ecuación de segundo grado en $x$ e $y$ es una circunferencia. La combin
 Halla el centro y el radio de esta circunferencia.
 
 ### Opciones
-- [ ] A) Centro $(3, 1)$ y Radio 25 <!-- feedback: El radio es la raíz del término independiente y el signo de b debe ser -1. -->
-- [x] B) Centro $(3, -1)$ y Radio 5 <!-- feedback: Correcto. $a=3$, $b=-1$ (cambio de signo) y $R = \sqrt{25} = 5$. -->
+- [ ] B) Centro $(3, 1)$ y Radio 25 <!-- feedback: El radio es la raíz del término independiente y el signo de b debe ser -1. -->
+- [x] A) Centro $(3, -1)$ y Radio 5 <!-- feedback: Correcto. $a=3$, $b=-1$ (cambio de signo) y $R = \sqrt{25} = 5$. -->
 - [ ] C) Centro $(-3, 1)$ y Radio 5 <!-- feedback: Signos del centro incorrectos. -->
 - [ ] D) Centro $(3, -1)$ y Radio 25 <!-- feedback: El valor 25 es el cuadrado del radio. -->
 
@@ -135,9 +135,9 @@ La lectura directa de parámetros desde la ecuación canónica requiere atenció
 
 ### Opciones
 - [ ] A) $x^2 + y^2 = 5$ <!-- feedback: 5 es el radio, falta elevarlo al cuadrado. -->
-- [x] B) $x^2 + y^2 = 25$ <!-- feedback: Correcto. $R^2 = 3^2 + 4^2 = 9 + 16 = 25$. -->
-- [ ] C) $x^2 + y^2 = 7$ <!-- feedback: Se han sumado las coordenadas en lugar de sus cuadrados. -->
-- [ ] D) $(x-3)^2 + (y-4)^2 = 25$ <!-- feedback: Esta estaría centrada en (3,4), no en el origen. -->
+- [x] D) $x^2 + y^2 = 25$ <!-- feedback: Correcto. $R^2 = 3^2 + 4^2 = 9 + 16 = 25$. -->
+- [ ] B) $x^2 + y^2 = 7$ <!-- feedback: Se han sumado las coordenadas en lugar de sus cuadrados. -->
+- [ ] C) $(x-3)^2 + (y-4)^2 = 25$ <!-- feedback: Esta estaría centrada en (3,4), no en el origen. -->
 
 ### Explicacion Pedagogica
 Si pasa por un punto y está centrada en el origen, el cuadrado del radio es simplemente la suma de los cuadrados de las coordenadas del punto (distancia al origen al cuadrado).
@@ -177,9 +177,9 @@ La posición relativa de un punto se determina comparando su distancia al centro
 
 ### Opciones
 - [ ] A) En $(2, 0)$ y $(8, 0)$. <!-- feedback: Error al considerar el desplazamiento vertical. -->
-- [ ] B) En $(5, 0)$. <!-- feedback: Un solo punto indicaría tangencia. -->
-- [ ] C) En $(0, 3)$. <!-- feedback: Este es un corte con el eje Y. -->
-- [x] D) No corta al eje X. <!-- feedback: Correcto. El punto más bajo de la circunferencia es $y = 3 - 3 = 0$, pero esto ocurre solo si el radio fuera mayor. Al estar el centro en y=3 y tener radio 3, solo toca el eje X en un punto (es tangente), pero $(5-5)^2 + (0-3)^2 = 9 \Rightarrow 9 = 9$. Toca en (5,0). Revisando: corta en el punto (5,0), es tangente. -->
+- [ ] C) En $(5, 0)$. <!-- feedback: Un solo punto indicaría tangencia. -->
+- [ ] D) En $(0, 3)$. <!-- feedback: Este es un corte con el eje Y. -->
+- [x] B) No corta al eje X. <!-- feedback: Correcto. El punto más bajo de la circunferencia es $y = 3 - 3 = 0$, pero esto ocurre solo si el radio fuera mayor. Al estar el centro en y=3 y tener radio 3, solo toca el eje X en un punto (es tangente), pero $(5-5)^2 + (0-3)^2 = 9 \Rightarrow 9 = 9$. Toca en (5,0). Revisando: corta en el punto (5,0), es tangente. -->
 
 ### Explicacion Pedagogica
 Para hallar cortes con el eje X, hacemos $y=0$. En este caso: $(x-5)^2 + (-3)^2 = 9 \Rightarrow (x-5)^2 + 9 = 9 \Rightarrow (x-5)^2 = 0 \Rightarrow x = 5$. Al haber una solución única, la recta es tangente.
@@ -198,9 +198,9 @@ Para hallar cortes con el eje X, hacemos $y=0$. En este caso: $(x-5)^2 + (-3)^2 
 
 ### Opciones
 - [ ] A) $x^2 + y^2 = 9$ <!-- feedback: Esta está centrada en el origen, corta a los ejes, no es tangente en el primer cuadrante. -->
-- [x] B) $(x-3)^2 + (y-3)^2 = 9$ <!-- feedback: Correcto. Para ser tangente a los ejes en el primer cuadrante, el centro debe ser $(R, R)$, es decir, $(3, 3)$. -->
-- [ ] C) $(x+3)^2 + (y+3)^2 = 9$ <!-- feedback: Esta estaría en el tercer cuadrante. -->
-- [ ] D) $(x-3)^2 + (y-3)^2 = 3$ <!-- feedback: El término independiente debe ser el radio al cuadrado (9). -->
+- [x] D) $(x-3)^2 + (y-3)^2 = 9$ <!-- feedback: Correcto. Para ser tangente a los ejes en el primer cuadrante, el centro debe ser $(R, R)$, es decir, $(3, 3)$. -->
+- [ ] B) $(x+3)^2 + (y+3)^2 = 9$ <!-- feedback: Esta estaría en el tercer cuadrante. -->
+- [ ] C) $(x-3)^2 + (y-3)^2 = 3$ <!-- feedback: El término independiente debe ser el radio al cuadrado (9). -->
 
 ### Explicacion Pedagogica
 La condición de tangencia a los ejes implica que la distancia del centro a cada eje debe ser igual al radio. Esto fija las coordenadas del centro como $\pm R$.
@@ -240,8 +240,8 @@ La fórmula del radio a partir de la ecuación general es $R = \sqrt{a^2 + b^2 -
 
 ### Opciones
 - [ ] A) Es exterior (no se cortan). <!-- feedback: La distancia del centro a la recta es menor que el radio. -->
-- [x] B) Es secante (se cortan en dos puntos). <!-- feedback: Correcto. Sustituyendo: $x^2 + (x+1)^2 = 1 \Rightarrow x^2 + x^2 + 2x + 1 = 1 \Rightarrow 2x^2 + 2x = 0 \Rightarrow 2x(x+1)=0$. Soluciones: $x=0, x=-1$. -->
-- [ ] C) Es tangente (se cortan en un punto). <!-- feedback: Hay dos soluciones distintas para el sistema. -->
+- [x] C) Es secante (se cortan en dos puntos). <!-- feedback: Correcto. Sustituyendo: $x^2 + (x+1)^2 = 1 \Rightarrow x^2 + x^2 + 2x + 1 = 1 \Rightarrow 2x^2 + 2x = 0 \Rightarrow 2x(x+1)=0$. Soluciones: $x=0, x=-1$. -->
+- [ ] B) Es tangente (se cortan en un punto). <!-- feedback: Hay dos soluciones distintas para el sistema. -->
 - [ ] D) Pasa por el centro. <!-- feedback: El centro (0,0) no cumple la ecuación de la recta (0 = 0+1 es falso). -->
 
 ### Explicacion Pedagogica
@@ -261,9 +261,9 @@ Para hallar la posición relativa recta-circunferencia, resolvemos el sistema de
 
 ### Opciones
 - [ ] A) $4/3$ <!-- feedback: Esta es la pendiente del radio que une el centro con el punto. -->
-- [x] B) $-3/4$ <!-- feedback: Correcto. El radio (pendiente 4/3) y la tangente son perpendiculares, por lo que $m_t = -1/(4/3) = -3/4$. -->
-- [ ] C) $3/4$ <!-- feedback: Falta el signo negativo para la perpendicularidad. -->
-- [ ] D) $-4/3$ <!-- feedback: Pendiente incorrecta. -->
+- [x] D) $-3/4$ <!-- feedback: Correcto. El radio (pendiente 4/3) y la tangente son perpendiculares, por lo que $m_t = -1/(4/3) = -3/4$. -->
+- [ ] B) $3/4$ <!-- feedback: Falta el signo negativo para la perpendicularidad. -->
+- [ ] C) $-4/3$ <!-- feedback: Pendiente incorrecta. -->
 
 ### Explicacion Pedagogica
 Propiedad geométrica fundamental: la recta tangente a una circunferencia en un punto es siempre perpendicular al radio que pasa por dicho punto. Usamos esta propiedad para hallar la pendiente de la tangente.
@@ -282,8 +282,8 @@ Propiedad geométrica fundamental: la recta tangente a una circunferencia en un 
 
 ### Opciones
 - [ ] A) Son secantes. <!-- feedback: Se cortan si la distancia entre centros está entre la suma y la resta de radios. -->
-- [x] B) Son exteriores. <!-- feedback: Correcto. Centros en (0,0) y (5,0), distancia = 5. Suma de radios = 2 + 3 = 5. Al ser la distancia igual a la suma, son tangentes exteriores. (Revisión: si d = R+r son tangentes exteriores). -->
-- [ ] C) Son tangentes exteriores. <!-- feedback: Correcto. Distancia entre centros (5) es igual a la suma de radios (2+3=5). -->
+- [x] C) Son exteriores. <!-- feedback: Correcto. Centros en (0,0) y (5,0), distancia = 5. Suma de radios = 2 + 3 = 5. Al ser la distancia igual a la suma, son tangentes exteriores. (Revisión: si d = R+r son tangentes exteriores). -->
+- [ ] B) Son tangentes exteriores. <!-- feedback: Correcto. Distancia entre centros (5) es igual a la suma de radios (2+3=5). -->
 - [ ] D) Una está dentro de la otra. <!-- feedback: La distancia entre centros es demasiado grande para ello. -->
 
 ### Explicacion Pedagogica
@@ -302,8 +302,8 @@ La posición relativa entre dos circunferencias se determina comparando la dista
 ¿Cuál es su ecuación?
 
 ### Opciones
-- [ ] A) $(x-1)^2 + (y-2)^2 = 16$ <!-- feedback: El radio es 2, su cuadrado es 4. -->
-- [x] B) $(x-1)^2 + (y-2)^2 = 4$ <!-- feedback: Correcto. Centro = Punto medio = $(1, 2)$. Diámetro = distancia AB = 4 $\Rightarrow$ Radio = 2. -->
+- [ ] B) $(x-1)^2 + (y-2)^2 = 16$ <!-- feedback: El radio es 2, su cuadrado es 4. -->
+- [x] A) $(x-1)^2 + (y-2)^2 = 4$ <!-- feedback: Correcto. Centro = Punto medio = $(1, 2)$. Diámetro = distancia AB = 4 $\Rightarrow$ Radio = 2. -->
 - [ ] C) $(x+1)^2 + (y-2)^2 = 4$ <!-- feedback: Signo de la coordenada x del centro incorrecto. -->
 - [ ] D) $x^2 + y^2 = 4$ <!-- feedback: No está centrada en el origen. -->
 
@@ -323,8 +323,8 @@ Si conocemos un diámetro, el centro es el punto medio de sus extremos y el radi
 Dada la circunferencia $C: x^2 + y^2 - 10 = 0$ y el punto $P(4, 3)$, ¿qué indica el valor de la potencia del punto $P$ respecto a $C$?
 
 ### Opciones
-- [ ] A) El radio de la circunferencia. <!-- feedback: El radio es raíz de 10. -->
-- [x] B) Que el punto es exterior a la circunferencia. <!-- feedback: Correcto. Potencia = $4^2 + 3^2 - 10 = 16 + 9 - 10 = 15$. Al ser positiva, el punto es exterior. -->
+- [ ] B) El radio de la circunferencia. <!-- feedback: El radio es raíz de 10. -->
+- [x] A) Que el punto es exterior a la circunferencia. <!-- feedback: Correcto. Potencia = $4^2 + 3^2 - 10 = 16 + 9 - 10 = 15$. Al ser positiva, el punto es exterior. -->
 - [ ] C) El área del círculo. <!-- feedback: No coincide con el valor de la potencia. -->
 - [ ] D) Que el punto es el centro. <!-- feedback: El centro daría una potencia de -10. -->
 
@@ -344,8 +344,8 @@ La potencia de un punto $P$ respecto a una circunferencia es el valor que se obt
 ¿Por qué esta ecuación NO representa una circunferencia?
 
 ### Opciones
-- [ ] A) Porque no tiene término independiente $F$. <!-- feedback: Puede ser una circunferencia que pasa por el origen. -->
-- [x] B) Porque los coeficientes de $x^2$ e $y^2$ son diferentes. <!-- feedback: Correcto. En una circunferencia, los coeficientes de los términos cuadráticos deben ser iguales (y positivos). Esto representa una elipse. -->
+- [ ] B) Porque no tiene término independiente $F$. <!-- feedback: Puede ser una circunferencia que pasa por el origen. -->
+- [x] A) Porque los coeficientes de $x^2$ e $y^2$ son diferentes. <!-- feedback: Correcto. En una circunferencia, los coeficientes de los términos cuadráticos deben ser iguales (y positivos). Esto representa una elipse. -->
 - [ ] C) Porque el centro tiene coordenadas negativas. <!-- feedback: Esto es perfectamente posible. -->
 - [ ] D) Porque el radio es imaginario. <!-- feedback: La razón principal es la desigualdad de coeficientes cuadráticos. -->
 
@@ -366,9 +366,9 @@ La circunferencia es un caso especial de elipse donde la excentricidad es cero. 
 
 ### Opciones
 - [ ] A) $(0, 0)$ <!-- feedback: Esta es solo uno de los puntos por los que pasa. -->
-- [x] B) $(2, 2)$ <!-- feedback: Correcto. Los puntos forman un triángulo rectángulo, la circunferencia es la circunscrita, cuyo centro es el punto medio de la hipotenusa entre (4,0) y (0,4). -->
-- [ ] C) $(4, 4)$ <!-- feedback: El radio sería demasiado grande. -->
-- [ ] D) $(1, 1)$ <!-- feedback: No equidista de los tres puntos. -->
+- [x] D) $(2, 2)$ <!-- feedback: Correcto. Los puntos forman un triángulo rectángulo, la circunferencia es la circunscrita, cuyo centro es el punto medio de la hipotenusa entre (4,0) y (0,4). -->
+- [ ] B) $(4, 4)$ <!-- feedback: El radio sería demasiado grande. -->
+- [ ] C) $(1, 1)$ <!-- feedback: No equidista de los tres puntos. -->
 
 ### Explicacion Pedagogica
 Para hallar una circunferencia que pasa por tres puntos, podemos resolver el sistema de tres ecuaciones con tres incógnitas (D, E, F) o usar propiedades geométricas como las mediatrices de los segmentos formados.
@@ -387,9 +387,9 @@ Si el punto $P$ es exterior a la circunferencia, ¿qué representa físicamente 
 
 ### Opciones
 - [ ] A) Una recta que no toca a la circunferencia. <!-- feedback: La polar de un punto exterior siempre es secante. -->
-- [x] B) La recta que pasa por los dos puntos de tangencia de las rectas tangentes trazadas desde $P$ a la circunferencia. <!-- feedback: Correcto. Es la definición geométrica de la polar de un punto exterior. -->
-- [ ] C) El eje de simetría de la circunferencia. <!-- feedback: Una circunferencia tiene infinitos ejes de simetría. -->
-- [ ] D) La recta tangente en el punto más cercano. <!-- feedback: No coincide con la definición de polar. -->
+- [x] D) La recta que pasa por los dos puntos de tangencia de las rectas tangentes trazadas desde $P$ a la circunferencia. <!-- feedback: Correcto. Es la definición geométrica de la polar de un punto exterior. -->
+- [ ] B) El eje de simetría de la circunferencia. <!-- feedback: Una circunferencia tiene infinitos ejes de simetría. -->
+- [ ] C) La recta tangente en el punto más cercano. <!-- feedback: No coincide con la definición de polar. -->
 
 ### Explicacion Pedagogica
 La recta polar es un concepto de dualidad en geometría proyectiva y analítica. Para un punto exterior, une los puntos donde "tocan" las dos tangentes que podemos dibujar desde dicho punto exterior.
@@ -407,9 +407,9 @@ La recta polar es un concepto de dualidad en geometría proyectiva y analítica.
 ¿Cuáles son las coordenadas de los dos puntos de intersección?
 
 ### Opciones
-- [x] A) $(1, 3)$ y $(-1, -3)$ <!-- feedback: Correcto. $x^2 + (3x)^2 = 10 \Rightarrow 10x^2 = 10 \Rightarrow x = \pm 1$. Sustituyendo en la recta obtenemos los valores de y. -->
-- [ ] B) $(3, 1)$ y $(-3, -1)$ <!-- feedback: Error al asignar los valores a x e y. -->
-- [ ] C) $(1, 1)$ y $(-1, -1)$ <!-- feedback: No cumplen la ecuación de la circunferencia (1+1=2, no 10). -->
+- [x] C) $(1, 3)$ y $(-1, -3)$ <!-- feedback: Correcto. $x^2 + (3x)^2 = 10 \Rightarrow 10x^2 = 10 \Rightarrow x = \pm 1$. Sustituyendo en la recta obtenemos los valores de y. -->
+- [ ] A) $(3, 1)$ y $(-3, -1)$ <!-- feedback: Error al asignar los valores a x e y. -->
+- [ ] B) $(1, 1)$ y $(-1, -1)$ <!-- feedback: No cumplen la ecuación de la circunferencia (1+1=2, no 10). -->
 - [ ] D) Solo se cortan en un punto. <!-- feedback: Una recta que pasa por el centro de una circunferencia siempre la corta en dos puntos. -->
 
 ### Explicacion Pedagogica

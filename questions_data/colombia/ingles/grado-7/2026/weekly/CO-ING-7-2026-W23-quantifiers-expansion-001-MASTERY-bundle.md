@@ -38,11 +38,11 @@ Which word is used to ask about the quantity of countable items (like apples)?
 ### Opciones
 - [ ] A) How much
   <!-- feedback: Incorrect. This is for uncountable nouns. -->
-- [x] B) How many
+- [x] D) How many
   <!-- feedback: Correct! "How many" is used for countable nouns. -->
-- [ ] C) How little
+- [ ] B) How little
   <!-- feedback: Incorrect. Not a standard way to ask for quantity. -->
-- [ ] D) How some
+- [ ] C) How some
   <!-- feedback: Incorrect. Not a grammatically correct structure. -->
 
 ### Explicacion Pedagogica
@@ -62,9 +62,9 @@ What word is used to express "zero quantity" in a negative sentence?
 "I don't have ________ money."
 
 ### Opciones
-- [ ] A) some
+- [ ] B) some
   <!-- feedback: Incorrect. "Some" is for affirmative sentences. -->
-- [x] B) any
+- [x] A) any
   <!-- feedback: Correct! "Any" is used in negative sentences and questions. -->
 - [ ] C) many
   <!-- feedback: Incorrect. While possible, "any" is the standard for zero quantity. -->
@@ -112,9 +112,9 @@ The student understands the difference between "a few" and "a little" based on n
 "How ________ juice is there in the fridge?"
 
 ### Opciones
-- [x] A) much
+- [x] B) much
   <!-- feedback: Correct! "Much" is used for uncountable nouns like juice. -->
-- [ ] B) many
+- [ ] A) many
   <!-- feedback: Incorrect. "Many" is for countable nouns. -->
 - [ ] C) some
   <!-- feedback: Incorrect. Not used with "How" for questions. -->
@@ -137,11 +137,11 @@ The student understands the correct use of "much" with uncountable nouns in ques
 "We can't make the soup because there is ________ salt." (Zero or almost zero)
 
 ### Opciones
-- [ ] A) many
+- [ ] B) many
   <!-- feedback: Incorrect. Salt is uncountable. -->
-- [ ] B) a few
+- [ ] C) a few
   <!-- feedback: Incorrect. Salt is uncountable. -->
-- [x] C) very little
+- [x] A) very little
   <!-- feedback: Correct! "Very little" describes a small, often insufficient amount of an uncountable noun. -->
 - [ ] D) some
   <!-- feedback: Incorrect. "Some" implies we have some, so we probably could make it. -->
@@ -191,9 +191,9 @@ Valentina: "Yes, there are ________ of people!"
 ### Opciones
 - [ ] A) much / many
   <!-- feedback: Incorrect. Much is for uncountable. -->
-- [ ] B) any / little
+- [ ] C) any / little
   <!-- feedback: Incorrect. "Little" is for uncountable. -->
-- [x] C) many / lots
+- [x] B) many / lots
   <!-- feedback: Correct! "Many" for the countable question and "lots of" for a large amount. -->
 - [ ] D) some / any
   <!-- feedback: Incorrect. "Some" is not typically used for a simple "Are there...?" question. -->
@@ -216,9 +216,9 @@ Which sentence is grammatically correct?
 ### Opciones
 - [ ] A) There is many sugar in my coffee.
   <!-- feedback: Incorrect. Sugar is uncountable, needs "much". -->
-- [ ] B) There are much students in the class.
+- [ ] C) There are much students in the class.
   <!-- feedback: Incorrect. Students are countable, needs "many". -->
-- [x] C) I don't have much time to study today.
+- [x] B) I don't have much time to study today.
   <!-- feedback: Correct! Time is uncountable and "much" is used in negatives. -->
 - [ ] D) Do you have some any questions?
   <!-- feedback: Incorrect. Redundant use of quantifiers. -->
@@ -240,9 +240,9 @@ The student analyzes sentence structures to ensure agreement between the quantif
 Which recipe is likely healthier or lower in calories?
 
 ### Opciones
-- [ ] A) Recipe A
+- [ ] B) Recipe A
   <!-- feedback: Incorrect. It has "a lot" and "many". -->
-- [x] B) Recipe B
+- [x] A) Recipe B
   <!-- feedback: Correct! "A little" and "few" indicate smaller quantities of fats and cholesterol sources. -->
 - [ ] C) They are the same.
   <!-- feedback: Incorrect. The quantifiers show a significant difference. -->
@@ -268,9 +268,9 @@ What is the most urgent need for the library based on the quantifiers?
 ### Opciones
 - [ ] A) More books.
   <!-- feedback: Incorrect. It already has "many". -->
-- [x] B) More computers and modern technology.
+- [x] C) More computers and modern technology.
   <!-- feedback: Correct! "Very little equipment" and "few computers" highlight the deficiency. -->
-- [ ] C) Fewer students.
+- [ ] B) Fewer students.
   <!-- feedback: Incorrect. Not mentioned as a problem. -->
 - [ ] D) More old books.
   <!-- feedback: Incorrect. "Some" are already old; more are not needed. -->

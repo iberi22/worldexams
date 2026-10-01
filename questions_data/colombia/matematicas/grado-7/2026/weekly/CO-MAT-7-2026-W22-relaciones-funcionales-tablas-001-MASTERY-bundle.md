@@ -32,13 +32,13 @@ Este bundle contiene 10 preguntas sobre **relaciones-funcionales-tablas** para g
 ### Enunciado
 ¿Qué es una relación funcional entre dos magnitudes?
 ### Opciones
-- [x] A) Una dependencia donde una magnitud depende de otra mediante una regla clara
+- [x] D) Una dependencia donde una magnitud depende de otra mediante una regla clara
   <!-- feedback: Correcto. La relación funcional asocia cada valor de entrada con un único valor de salida. -->
-- [ ] B) Una lista de números sin conexión
+- [ ] A) Una lista de números sin conexión
   <!-- feedback: Incorrecto. Las relaciones no son listas arbitrarias. -->
-- [ ] C) Una ecuación con incógnitas
+- [ ] B) Una ecuación con incógnitas
   <!-- feedback: Incorrecto. Una relación funcional no necesita incógnitas. -->
-- [ ] D) Una suma de cantidades
+- [ ] C) Una suma de cantidades
   <!-- feedback: Incorrecto. Aunque la suma puede aparecer, no define la relación. -->
 ### Explicacion Pedagogica
 Una relación funcional asigna a cada valor de una variable independiente exactamente un valor de la variable dependiente.
@@ -52,9 +52,9 @@ Una relación funcional asigna a cada valor de una variable independiente exacta
 ### Enunciado
 ¿Qué variable es la independiente en esa tabla?
 ### Opciones
-- [x] A) La cantidad de libros
+- [x] B) La cantidad de libros
   <!-- feedback: Correcto. La cantidad es la que se escoge libremente y determina el costo. -->
-- [ ] B) El costo en pesos
+- [ ] A) El costo en pesos
   <!-- feedback: Incorrecto. El costo depende de los libros, no al revés. -->
 - [ ] C) El número de páginas
   <!-- feedback: Incorrecto. No se incluye en la tabla. -->
@@ -72,13 +72,13 @@ La variable independiente es la que se elige o modifica. Aquí la cantidad de li
 ### Enunciado
 ¿Cuál es la regla que relaciona la cantidad de productos con el costo total?
 ### Opciones
-- [x] A) Costo = 5 000 × n + 2 000
+- [x] D) Costo = 5 000 × n + 2 000
   <!-- feedback: Correcto. Multiplicar cantidad por 5 000 y sumar fijo 2 000. -->
-- [ ] B) Costo = 7 000 × n
+- [ ] A) Costo = 7 000 × n
   <!-- feedback: Incorrecto. Esta regla ignoraría el cargo fijo de 2 000. -->
-- [ ] C) Costo = 5 000 + n
+- [ ] B) Costo = 5 000 + n
   <!-- feedback: Incorrecto. No aplica el cargo ni el factor correctamente. -->
-- [ ] D) Costo = 2 000 × n + 5 000
+- [ ] C) Costo = 2 000 × n + 5 000
   <!-- feedback: Incorrecto. Confundiste el factor y el cargo fijo. -->
 ### Explicacion Pedagogica
 La regla es lineal: costo = cargo fijo + precio unitario × cantidad. Aquí cargo = 2 000, precio = 5 000.
@@ -92,9 +92,9 @@ La regla es lineal: costo = cargo fijo + precio unitario × cantidad. Aquí carg
 ### Enunciado
 ¿Cuántos minutos equivalen a 7 horas según esa relación funcional?
 ### Opciones
-- [x] A) 420 minutos
+- [x] B) 420 minutos
   <!-- feedback: Correcto. 7 × 60 = 420. -->
-- [ ] B) 360 minutos
+- [ ] A) 360 minutos
   <!-- feedback: Incorrecto. Es el valor para 6 horas. -->
 - [ ] C) 540 minutos
   <!-- feedback: Incorrecto. Sumaste 60 en lugar de multiplicar. -->
@@ -132,11 +132,11 @@ Para llenado a tasa constante: litros finales = tasa por minuto × tiempo transc
 ### Enunciado
 ¿Qué tipo de relación funcional describe esos datos?
 ### Opciones
-- [x] A) Lineal de la forma y = 2x + 1
+- [x] C) Lineal de la forma y = 2x + 1
   <!-- feedback: Correcto. Cada aumento de 1 en x produce un aumento de 2 en y. -->
-- [ ] B) Cuadrática tipo y = x²
+- [ ] A) Cuadrática tipo y = x²
   <!-- feedback: Incorrecto. Eso daría 1, 4, 9, 16, no los valores de la tabla. -->
-- [ ] C) Constante
+- [ ] B) Constante
   <!-- feedback: Incorrecto. Los y cambian, no son constantes. -->
 - [ ] D) Inversa
   <!-- feedback: Incorrecto. Una inversa decrece al aumentar x. -->
@@ -152,13 +152,13 @@ Las sucesiones (3,5,7,9) tienen diferencia constante 2; eso define una relación
 ### Enunciado
 ¿Qué pendiente tiene la relación altura-peso mostrada?
 ### Opciones
-- [x] A) 100 kg por metro
+- [x] D) 100 kg por metro
   <!-- feedback: Correcto. Por cada 0.10 m la persona pesa 10 kg más, así que 10 / 0.10 = 100 kg/m. -->
-- [ ] B) 10 kg por metro
+- [ ] A) 10 kg por metro
   <!-- feedback: Incorrecto. Calculaste 10 / 1, no la proporción correcta. -->
-- [ ] C) 50 kg por metro
+- [ ] B) 50 kg por metro
   <!-- feedback: Incorrecto. Eso sería tomar solo la primera fila. -->
-- [ ] D) 1 kg por centímetro
+- [ ] C) 1 kg por centímetro
   <!-- feedback: Incorrecto. 10 kg por 10 cm da 1 kg/cm, pero los datos están en metros. -->
 ### Explicacion Pedagogica
 La pendiente mide cuánto cambia la variable dependiente por cada unidad de la independiente: 10 kg / 0.10 m = 100 kg/m.
@@ -172,13 +172,13 @@ La pendiente mide cuánto cambia la variable dependiente por cada unidad de la i
 ### Enunciado
 ¿La tabla representa una función?
 ### Opciones
-- [x] A) No, porque al valor x = 2 se le asocian dos y distintos (3 y 5)
+- [x] D) No, porque al valor x = 2 se le asocian dos y distintos (3 y 5)
   <!-- feedback: Correcto. Una función requiere un único y para cada x. -->
-- [ ] B) Sí, porque la tabla tiene tres filas
+- [ ] A) Sí, porque la tabla tiene tres filas
   <!-- feedback: Incorrecto. La cantidad de filas no define si es función. -->
-- [ ] C) Sí, porque hay tres valores distintos
+- [ ] B) Sí, porque hay tres valores distintos
   <!-- feedback: Incorrecto. El problema es que un mismo x tiene varios y. -->
-- [ ] D) No, porque los y están desordenados
+- [ ] C) No, porque los y están desordenados
   <!-- feedback: Incorrecto. El orden no afecta la definición de función. -->
 ### Explicacion Pedagogica
 Para que una relación sea función, cada valor de x debe tener un único valor asociado de y. La tabla viola esa condición con x = 2.
@@ -212,9 +212,9 @@ La extrapolación lineal es válida solo en cierto rango. Para cantidades grande
 ### Enunciado
 ¿Qué modelo da mayor ingreso para exactamente 10 unidades?
 ### Opciones
-- [x] A) Modelo 1, porque para 10 unidades da 10 000, y modelo 2 da 9 000
+- [x] B) Modelo 1, porque para 10 unidades da 10 000, y modelo 2 da 9 000
   <!-- feedback: Correcto. M1: 1 000 × 10 = 10 000; M2: 500 × 10 + 4 000 = 9 000. -->
-- [ ] B) Modelo 2, porque tiene un cargo fijo más alto
+- [ ] A) Modelo 2, porque tiene un cargo fijo más alto
   <!-- feedback: Incorrecto. El cargo fijo puede reducir ingresos según el volumen. -->
 - [ ] C) Son iguales para 10 unidades
   <!-- feedback: Incorrecto. 10 000 es distinto de 9 000. -->

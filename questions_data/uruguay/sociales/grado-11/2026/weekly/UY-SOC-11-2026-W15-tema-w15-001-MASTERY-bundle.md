@@ -33,9 +33,9 @@ calibration: {difficulty_band: "D3-D10", expected_success: 0.65}
 ¿Cuál era la meta de inclusión social y digital primaria del Plan Ceibal al entregar una computadora portátil a cada niña, niño y docente de la educación pública?
 
 ### Opciones
-- [x] A) Democratizar el acceso a la tecnología, reducir la brecha digital y promover la equidad educativa.
+- [x] B) Democratizar el acceso a la tecnología, reducir la brecha digital y promover la equidad educativa.
   <!-- feedback: Correcto. El Plan Ceibal garantizó acceso universal e igualitario a internet y dispositivos digitales para toda la educación pública. -->
-- [ ] B) Sustituir por completo a los docentes de aula por algoritmos automatizados.
+- [ ] A) Sustituir por completo a los docentes de aula por algoritmos automatizados.
   <!-- feedback: Incorrecto. El Plan Ceibal es una herramienta pedagógica que jerarquiza el rol del docente en el aula. -->
 - [ ] C) Prohibir el uso de libros de texto impresos en las escuelas rurales.
   <!-- feedback: Incorrecto. Ceibal complementa los materiales educativos impresos y digitales. -->
@@ -56,9 +56,9 @@ El Plan Ceibal posicionó a Uruguay como líder pionero en inclusión digital ed
 ¿Qué comunidad afrodescendiente uruguaya tejió históricamente las raíces rítmicas y culturales del candombe en los barrios Sur y Palermo de Montevideo?
 
 ### Opciones
-- [ ] A) Inmigrantes procedentes de la zona alpina europea.
+- [ ] B) Inmigrantes procedentes de la zona alpina europea.
   <!-- feedback: Incorrecto. Las colectividades alpinas europeas aportaron otras expresiones folclóricas. -->
-- [x] B) La población afrodescendiente uruguaya, a partir de las vivencias de los colectivos afrouruguayos y los conventillos.
+- [x] A) La población afrodescendiente uruguaya, a partir de las vivencias de los colectivos afrouruguayos y los conventillos.
   <!-- feedback: Correcto. El candombe es la máxima expresión cultural de la comunidad afrouruguaya, transmitida oral y comunitariamente a través de los tambores (chico, repique y piano). -->
 - [ ] C) Comunidades indígenas nómadas del desierto patagónico.
   <!-- feedback: Incorrecto. El candombe posee matriz de herencia afroafricana desarrollada en la Cuenca del Plata. -->
@@ -79,9 +79,9 @@ El candombe es una manifestación identitaria fundamental de la comunidad afrour
 ¿Qué asegura el principio de laicidad en el ámbito de la enseñanza pública estatal?
 
 ### Opciones
-- [ ] A) La enseñanza obligatoria de la doctrina de la iglesia mayoritaria.
+- [ ] B) La enseñanza obligatoria de la doctrina de la iglesia mayoritaria.
   <!-- feedback: Incorrecto. La laicidad prohíbe la enseñanza dogmática de cualquier religión en la escuela pública. -->
-- [x] B) La neutralidad del Estado frente a dogmas religiosos y filosofías, garantizando la libre formación del juicio del estudiante sin adoctrinamiento.
+- [x] A) La neutralidad del Estado frente a dogmas religiosos y filosofías, garantizando la libre formación del juicio del estudiante sin adoctrinamiento.
   <!-- feedback: Correcto. Garantiza que la enseñanza pública respete todas las creencias sin imponer dogmas confesionales o ideológicos, promoviendo el pensamiento crítico. -->
 - [ ] C) La prohibición de enseñar historia nacional o educación ciudadana.
   <!-- feedback: Incorrecto. La enseñanza de la historia y formación ciudadana es pilar del currículo escolar. -->
@@ -102,9 +102,9 @@ El principio vareliano de laicidad garantiza la neutralidad confesional de la ed
 ¿Qué avance en el reconocimiento de la diversidad y libertades individuales representó la aprobación de la Ley de Matrimonio Igualitario (N° 19.075)?
 
 ### Opciones
-- [ ] A) Establecer la obligación de que todas las personas se casen al cumplir 18 años.
+- [ ] B) Establecer la obligación de que todas las personas se casen al cumplir 18 años.
   <!-- feedback: Incorrecto. El matrimonio es una decisión voluntaria de la persona. -->
-- [x] B) Reconocer la institución del matrimonio civil con los mismos derechos y obligaciones para parejas del mismo o de diferente sexo.
+- [x] A) Reconocer la institución del matrimonio civil con los mismos derechos y obligaciones para parejas del mismo o de diferente sexo.
   <!-- feedback: Correcto. Equiparó jurídicamente el derecho al matrimonio civil sin distinción de orientación sexual o género. -->
 - [ ] C) Prohibir los matrimonios celebrados en el extranjero.
   <!-- feedback: Incorrecto. Reconoce los matrimonios válidamente celebrados en el exterior según el derecho civil. -->
@@ -127,9 +127,9 @@ La Ley de Matrimonio Igualitario consolidó a Uruguay como referente internacion
 ### Opciones
 - [ ] A) Presentan los niveles de ingreso per cápita más altos del país.
   <!-- feedback: Incorrecto. Los datos indican mayor vulnerabilidad socioeconómica e ingresos inferiores al promedio. -->
-- [x] B) Mayor incidencia de la pobreza, menores tasas de egreso en educación media y mayor concentración en empleos de baja calificación.
+- [x] C) Mayor incidencia de la pobreza, menores tasas de egreso en educación media y mayor concentración en empleos de baja calificación.
   <!-- feedback: Correcto. A pesar de los avances normativos, la población afrouruguaya sufre brechas estructurales de desigualdad socioeconómica derivadamente históricas. -->
-- [ ] C) Exención permanente de pagar impuestos a las rentas.
+- [ ] B) Exención permanente de pagar impuestos a las rentas.
   <!-- feedback: Incorrecto. Las normas tributarias rigen sin distinción étnico-racial. -->
 - [ ] D) Prohibición de acceso a la salud en el sistema FONASA.
   <!-- feedback: Incorrecto. El FONASA brinda cobertura universal independientemente del origen étnico. -->
@@ -150,11 +150,11 @@ Las estadísticas oficiales evidencian la persistencia de brechas estructurales 
 ### Opciones
 - [ ] A) Una norma legal explícita que prohíbe a las mujeres trabajar en oficinas con ventanas.
   <!-- feedback: Incorrecto. No es una norma legal ni física; es una barrera invisible sociocultural. -->
-- [x] B) Barreras invisibles (prejuicios, sesgos de género, roles de cuidado) que impiden a las mujeres calificadas ascender a puestos directivos de mayor jerarquía.
+- [x] D) Barreras invisibles (prejuicios, sesgos de género, roles de cuidado) que impiden a las mujeres calificadas ascender a puestos directivos de mayor jerarquía.
   <!-- feedback: Correcto. El 'techo de cristal' alude a los obstáculos no explícitos que limitan la progresión de las mujeres hacia roles de liderazgo empresarial o político. -->
-- [ ] C) El aumento de la contratación de mujeres en el sector de la construcción de viviendas.
+- [ ] B) El aumento de la contratación de mujeres en el sector de la construcción de viviendas.
   <!-- feedback: Incorrecto. Refiere a la segregación vertical en la escala jerárquica laboral. -->
-- [ ] D) La obligación de jubilarse a una edad menor que los hombres.
+- [ ] C) La obligación de jubilarse a una edad menor que los hombres.
   <!-- feedback: Incorrecto. Refiere al desarrollo de la carrera profesional durante la etapa activa. -->
 
 ### Explicacion Pedagogica
@@ -196,9 +196,9 @@ La Ley N° 19.172 abordó la problemática de las drogas desde una perspectiva d
 ### Opciones
 - [ ] A) La erradicación automática de todas las conexiones a internet en los hogares.
   <!-- feedback: Incorrecto. El acceso a plataformas digitales se ha expandido masivamente. -->
-- [x] B) El riesgo de pérdida de referencia sobre la cultura local frente a la hegemonía de contenidos globales, exigiendo políticas de fomento al audiovisual y música nacional.
+- [x] C) El riesgo de pérdida de referencia sobre la cultura local frente a la hegemonía de contenidos globales, exigiendo políticas de fomento al audiovisual y música nacional.
   <!-- feedback: Correcto. La masividad de producciones globales en redes desplaza a creadores locales, demandando cuotas de pantalla e incentivos a la producción cultural uruguaya. -->
-- [ ] C) La prohibición de escuchar candombe y murga durante los carnavales.
+- [ ] B) La prohibición de escuchar candombe y murga durante los carnavales.
   <!-- feedback: Incorrecto. El carnaval y sus expresiones gozan de amplia vitalidad popular. -->
 - [ ] D) La sustitución del idioma español por la lengua latina arcaica.
   <!-- feedback: Incorrecto. El idioma español se mantiene como lengua oficial con sus modismos locales. -->
@@ -217,9 +217,9 @@ La globalización digital promueve pautas de consumo cultural estandarizadas, de
 ¿Qué factor multidimensional de la vulnerabilidad socioeconómica influye decisivamente en la deserción escolar temprana de los adolescentes de los deciles de menores ingresos?
 
 ### Opciones
-- [ ] A) La falta de centros educativos en las ciudades capitales del país.
+- [ ] B) La falta de centros educativos en las ciudades capitales del país.
   <!-- feedback: Incorrecto. La infraestructura liceal y de UTU cubre el territorio urbano nacional. -->
-- [x] B) La necesidad de inserción laboral precaria temprana para aportar ingresos al hogar, sumada a la desvinculación pedagógica con el formato curricular tradicional.
+- [x] A) La necesidad de inserción laboral precaria temprana para aportar ingresos al hogar, sumada a la desvinculación pedagógica con el formato curricular tradicional.
   <!-- feedback: Correcto. Las urgencias económicas del hogar presionan hacia el trabajo informal temprano, debilitando la continuidad educativa si no hay acompañamiento becario ni currículo flexible. -->
 - [ ] C) La prohibición legal de que los adolescentes asistan al liceo.
   <!-- feedback: Incorrecto. La educación media es obligatoria por ley en Uruguay. -->
@@ -242,9 +242,9 @@ La deserción en educación media se explica por la interacción entre presiones
 ### Opciones
 - [ ] A) La batalla de Las Piedras comandada por José Artigas en 1811.
   <!-- feedback: Incorrecto. Las Piedras fue la victoria patriota contra las tropas realistas españolas. -->
-- [x] B) La emboscada de Salsipuedes ejecutada bajo el gobierno de Fructuoso Rivera en 1831.
+- [x] C) La emboscada de Salsipuedes ejecutada bajo el gobierno de Fructuoso Rivera en 1831.
   <!-- feedback: Correcto. La campaña militar de Salsipuedes (1831) persiguió y exterminó a las agrupaciones charrúas, diezmando a la población indígena originaria. -->
-- [ ] C) La firma del Tratado de San José de Flores en 1859.
+- [ ] B) La firma del Tratado de San José de Flores en 1859.
   <!-- feedback: Incorrecto. El Tratado de San José de Flores es un acuerdo de la historia argentina. -->
 - [ ] D) La llegada de los inmigrantes italianos en el vapor 'Roma' en 1900.
   <!-- feedback: Incorrecto. Corresponde a las corrientes migratorias europeas de ultramar. -->
@@ -263,9 +263,9 @@ La acción militar de Salsipuedes (1831) representó la supresión trágica de l
 ¿Qué cambio en la estructura de clases y movilidad social diferencia a la sociedad uruguaya del siglo XXI de la 'sociedad batllista' hiperintegrada del siglo XX?
 
 ### Opciones
-- [ ] A) La desaparición completa de la educación pública universitaria.
+- [ ] B) La desaparición completa de la educación pública universitaria.
   <!-- feedback: Incorrecto. La Universidad de la República ha expandido su matrícula e infraestructura en el interior. -->
-- [x] B) El debilitamiento de los canales de movilidad social ascendente (como la escuela pública integradora), generando un núcleo duro de exclusión reproducible en la periferia.
+- [x] A) El debilitamiento de los canales de movilidad social ascendente (como la escuela pública integradora), generando un núcleo duro de exclusión reproducible en la periferia.
   <!-- feedback: Correcto. La sociedad del siglo XXI enfrenta segmentación residencial y educativa, dificultando que la educación funcione como el 'ascensor social' homogéneo del modelo batllista tradicional. -->
 - [ ] C) La conversión de la población uruguaya a una economía nómada de caza y recolección.
   <!-- feedback: Incorrecto. Uruguay es un Estado urbe industrializado y de servicios contemporáneo. -->
@@ -288,11 +288,11 @@ La fragmentación social contemporánea ha debilitado los tradicionales motores 
 ### Opciones
 - [ ] A) Cada trabajador paga una cuota fija exactamente idéntica sin importar sus ingresos.
   <!-- feedback: Incorrecto. La cotización al FONASA es un porcentaje progresivo del salario, no un monto fijo. -->
-- [x] B) Aporta un porcentaje progresivo del salario del trabajador, otorgando cobertura idéntica al trabajador, sus hijos menores y cónyuge a cargo.
+- [x] D) Aporta un porcentaje progresivo del salario del trabajador, otorgando cobertura idéntica al trabajador, sus hijos menores y cónyuge a cargo.
   <!-- feedback: Correcto. El FONASA financia la salud mediante un descuento proporcional al ingreso (aporte progresivo), garantizando acceso al mismo seguro de salud (público o privado). -->
-- [ ] C) Financia exclusivamente la atención de ciudadanos extranjeros no residentes.
+- [ ] B) Financia exclusivamente la atención de ciudadanos extranjeros no residentes.
   <!-- feedback: Incorrecto. Coopera sobre la población residente afiliada formalmente al sistema de seguridad social. -->
-- [ ] D) Exige el pago en efectivo de un impuesto de aduana antes de cada consulta médica.
+- [ ] C) Exige el pago en efectivo de un impuesto de aduana antes de cada consulta médica.
   <!-- feedback: Incorrecto. La atención se canaliza en los prestadores integrados mediante el carné de salud. -->
 
 ### Explicacion Pedagogica
@@ -309,9 +309,9 @@ El FONASA encarna un modelo de solidaridad intergeneracional e distributiva dond
 ¿Qué medida de acción afirmativa en materia de empleo público incluyó la Ley Integral para Personas Trans para reparar la discriminación histórica sobre este colectivo?
 
 ### Opciones
-- [ ] A) Prohibir que las personas trans ejerzan cargos en el poder judicial.
+- [ ] B) Prohibir que las personas trans ejerzan cargos en el poder judicial.
   <!-- feedback: Incorrecto. La ley busca promover el acceso y eliminar discriminaciones. -->
-- [x] B) Reservar una cuota del 1% de los puestos de trabajo que se generen en los organismos públicos para personas trans que reúnan las condiciones de idoneidad.
+- [x] A) Reservar una cuota del 1% de los puestos de trabajo que se generen en los organismos públicos para personas trans que reúnan las condiciones de idoneidad.
   <!-- feedback: Correcto. La cuota del 1% en vacantes públicas es una medida de acción afirmativa para reparar la exclusión histórica del mercado formal de trabajo. -->
 - [ ] C) Entregar el 50% de las acciones de los bancos privados a organizaciones de la sociedad civil.
   <!-- feedback: Incorrecto. Regula las convocatorias laborales del Estado, no la propiedad accionaria bancaria. -->
@@ -334,9 +334,9 @@ Las medidas de acción afirmativa de la Ley N° 19.684 buscan revertir la exclus
 ### Opciones
 - [ ] A) Exceso de oferta de vivienda propia sin costo en barrios costeros.
   <!-- feedback: Incorrecto. Suelen enfrentar graves déficits habitacionales y dificultades de acceso a vivienda. -->
-- [x] B) Doble sobrecarga de cuidados y trabajo no remunerado, mayor riesgo de informalidad laboral y menor ingreso per cápita del hogar.
+- [x] C) Doble sobrecarga de cuidados y trabajo no remunerado, mayor riesgo de informalidad laboral y menor ingreso per cápita del hogar.
   <!-- feedback: Correcto. Al asumir solas la crianza de los hijos con restricciones de tiempo para el empleo formal remunerado, enfrentan el mayor riesgo de pobreza urbana. -->
-- [ ] C) Prohibición de acceder a asignaciones familiares del BPS.
+- [ ] B) Prohibición de acceder a asignaciones familiares del BPS.
   <!-- feedback: Incorrecto. Las Asignaciones Familiares del BPS priorizan precisamente a los hogares vulnerables. -->
 - [ ] D) Obligación legal de exportar su producción textil a Europa.
   <!-- feedback: Incorrecto. Son dinámicas del mercado de trabajo local e ingresos del hogar. -->
@@ -357,11 +357,11 @@ Los hogares monoparentales con jefatura femenina concentran situaciones de alta 
 ### Opciones
 - [ ] A) Porque obligan a que todos los ciudadanos piensen exactamente de la misma manera.
   <!-- feedback: Incorrecto. El pensamiento crítico fomenta la diversidad de juicios informados, no la uniformidad. -->
-- [x] B) Permiten evaluar la veracidad y sesgos de las fuentes de información, protegiendo al electorado de la manipulación algorítmica y la polarización extrema.
+- [x] D) Permiten evaluar la veracidad y sesgos de las fuentes de información, protegiendo al electorado de la manipulación algorítmica y la polarización extrema.
   <!-- feedback: Correcto. La alfabetización informacional capacita para verificar hechos, discernir desinformación y participar con autonomía en el debate público democrático. -->
-- [ ] C) Porque garantizan que las redes sociales dejen de funcionar de forma definitiva.
+- [ ] B) Porque garantizan que las redes sociales dejen de funcionar de forma definitiva.
   <!-- feedback: Incorrecto. No buscan destruir las tecnologías sino usarlas con sentido ético y reflexivo. -->
-- [ ] D) Porque otorgan el derecho de calumniar impunemente a cualquier vecino en redes.
+- [ ] C) Porque otorgan el derecho de calumniar impunemente a cualquier vecino en redes.
   <!-- feedback: Incorrecto. El pensamiento crítico promueve el rigor cívico y el respeto de la verdad demostrable. -->
 
 ### Explicacion Pedagogica
@@ -401,11 +401,11 @@ La alta institucionalización de las organizaciones sociales en Uruguay encauza 
 ¿Por qué el índice de Desarrollo Humano (IDH), que integra esperanza de vida, años de escolaridad e ingreso per cápita, ofrece una métrica más adecuada del bienestar social que el Producto Interno Bruto por habitante?
 
 ### Opciones
-- [x] A) Porque el PIB es un indicador cuantitativo monetario que no refleja la distribución de la riqueza, la longevidad de la población ni los logros en educación y salud.
+- [x] C) Porque el PIB es un indicador cuantitativo monetario que no refleja la distribución de la riqueza, la longevidad de la población ni los logros en educación y salud.
   <!-- feedback: Correcto. El PIB sólo mide producción monetaria total; el IDH evalúa las capacidades humanas reales de las personas (salud, conocimiento y estándar de vida digno). -->
-- [ ] B) Porque el IDH se mide exclusivamente en kilos de carne exportados por año.
+- [ ] A) Porque el IDH se mide exclusivamente en kilos de carne exportados por año.
   <!-- feedback: Incorrecto. Mide indicadores sociales estandarizados (salud, educación e ingresos). -->
-- [ ] C) Porque el PIB prohíbe el cálculo del ingreso nacional en países democráticos.
+- [ ] B) Porque el PIB prohíbe el cálculo del ingreso nacional en países democráticos.
   <!-- feedback: Incorrecto. El PIB es la métrica de contabilidad macroeconómica estándar mundial. -->
 - [ ] D) Porque el IDH elimina la necesidad de contar con hospitales o escuelas.
   <!-- feedback: Incorrecto. El IDH exige y evalúa precisamente los logros de los sistemas educativos y sanitarios. -->
@@ -426,9 +426,9 @@ El paradigma del Desarrollo Humano concibe al crecimiento económico como un med
 ### Opciones
 - [ ] A) Que los servicios universales reducen la calidad al atender a todos los sectores por igual.
   <!-- feedback: Incorrecto. La tesis universalista sostiene que 'servicios para pobres terminan siendo pobres servicios', defendiendo bienes universales de alta calidad. -->
-- [x] B) Que el universalismo genera cohesión social, evita la estigmatización de los beneficiarios, construye ciudadanía compartida y consolida un amplio apoyo fiscal de las clases medias.
+- [x] C) Que el universalismo genera cohesión social, evita la estigmatización de los beneficiarios, construye ciudadanía compartida y consolida un amplio apoyo fiscal de las clases medias.
   <!-- feedback: Correcto. Las políticas universales integran a las distintas clases en las mismas instituciones públicas, generando cohesión social y respaldo tributario broad-based. -->
-- [ ] C) Que las prestaciones universales deben privatizarse en un 100% en el mercado bursátil.
+- [ ] B) Que las prestaciones universales deben privatizarse en un 100% en el mercado bursátil.
   <!-- feedback: Incorrecto. El universalismo defiende la responsabilidad pública garante del Estado. -->
 - [ ] D) Que la asistencia focalizada elimina la pobreza en menos de 24 horas.
   <!-- feedback: Incorrecto. Las políticas puramente focalizadas tienden a generar 'trampas de pobreza' y fragmentación. -->
@@ -447,9 +447,9 @@ El paradigma universalista de protección social postula que garantizar derechos
 ¿Qué garantía constitucional y legal protege al ciudadano uruguayo frente al uso arbitrario, la comercialización no consentida o el perfilamiento algorítmico de sus datos personales por parte de empresas o del Estado?
 
 ### Opciones
-- [ ] A) El recurso de Habeas Corpus de libertad física procesal.
+- [ ] B) El recurso de Habeas Corpus de libertad física procesal.
   <!-- feedback: Incorrecto. El Habeas Corpus protege la libertad física frente a detenciones ilegítimas. -->
-- [x] B) La Acción de Habeas Data (que permite conocer, rectificar, actualizar o suprimir datos personales almacenados en bases públicas o privadas).
+- [x] A) La Acción de Habeas Data (que permite conocer, rectificar, actualizar o suprimir datos personales almacenados en bases públicas o privadas).
   <!-- feedback: Correcto. El Habeas Data protege la autodeterminación informativa y la privacidad personal frente al procesamiento indebido de datos. -->
 - [ ] C) El pago de un canon en dólares por cada búsqueda en internet.
   <!-- feedback: Incorrecto. No es una tasa monetaria sino un derecho constitucional procesal. -->
@@ -472,11 +472,11 @@ El Habeas Data es la garantía procesal específica que tutela el derecho a la p
 ### Opciones
 - [ ] A) Invertir exclusivamente en el cierre de universidades e importar todos los conocimientos de fuera.
   <!-- feedback: Incorrecto. Eso condenaría al país a la dependencia y a la obsolescencia productiva. -->
-- [x] B) Transformar la matriz productiva hacia el conocimiento y la sostenibilidad ambiental, respaldada en una fuerte inversión en I+D, reforma educativa equitativa y fortalecimiento de la red de bienestar social.
+- [x] D) Transformar la matriz productiva hacia el conocimiento y la sostenibilidad ambiental, respaldada en una fuerte inversión en I+D, reforma educativa equitativa y fortalecimiento de la red de bienestar social.
   <!-- feedback: Correcto. El desarrollo sustentable del siglo XXI exige articular innovación científica, educación de calidad, transición ecológica y cohesión social sin exclusión. -->
-- [ ] C) Eliminar las exportaciones de servicios y basar la economía únicamente en la minería pesada.
+- [ ] B) Eliminar las exportaciones de servicios y basar la economía únicamente en la minería pesada.
   <!-- feedback: Incorrecto. La tendencia mundial va hacia economías descarbonizadas e intensivas en servicios e innovación. -->
-- [ ] D) Suprimir los derechos de las minorías y suspender las elecciones democráticas.
+- [ ] C) Suprimir los derechos de las minorías y suspender las elecciones democráticas.
   <!-- feedback: Incorrecto. La democracia y los derechos humanos son el cimiento indispensable de la convivencia y el desarrollo. -->
 
 ### Explicacion Pedagogica

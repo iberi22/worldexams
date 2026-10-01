@@ -57,11 +57,11 @@ El aire entra por las fosas nasales donde se filtra y humedece, baja por faringe
 ¿Qué función cumple el diafragma en la respiración?
 
 ### Opciones
-- [ ] A) Filtrar los alimentos antes de tragar
+- [ ] B) Filtrar los alimentos antes de tragar
   <!-- feedback: Incorrecta porque esa función corresponde a estructuras digestivas, no respiratorias. -->
-- [ ] B) Bombear la sangre hacia las piernas
+- [ ] C) Bombear la sangre hacia las piernas
   <!-- feedback: Incorrecta porque bombear sangre es función del corazón. -->
-- [x] C) Contraerse y aplanarse para permitir la entrada de aire
+- [x] A) Contraerse y aplanarse para permitir la entrada de aire
   <!-- feedback: Correcta porque su contracción amplía la caja torácica e ingresa aire. -->
 - [ ] D) Producir glóbulos rojos para la sangre
   <!-- feedback: Incorrecta porque los glóbulos rojos se producen en la médula ósea. -->
@@ -82,11 +82,11 @@ El diafragma es un músculo en forma de cúpula: al contraerse baja y crea espac
 ### Opciones
 - [ ] A) Porque el aire contaminado solo afecta a los huesos
   <!-- feedback: Incorrecta porque las partículas entran por las vías respiratorias, no por los huesos. -->
-- [x] B) Porque las partículas ingresan por nariz y boca e irritan vías y alvéolos
+- [x] D) Porque las partículas ingresan por nariz y boca e irritan vías y alvéolos
   <!-- feedback: Correcta porque la puerta de entrada del aire son las vías respiratorias. -->
-- [ ] C) Porque el aire contaminado se dirige directo al estómago
+- [ ] B) Porque el aire contaminado se dirige directo al estómago
   <!-- feedback: Incorrecta porque el aire va a los pulmones, no al estómago. -->
-- [ ] D) Porque los pulmones están fuera del cuerpo
+- [ ] C) Porque los pulmones están fuera del cuerpo
   <!-- feedback: Incorrecta porque los pulmones son internos, pero conectados al exterior por las vías. -->
 
 ### Explicacion Pedagogica
@@ -105,11 +105,11 @@ El material particulado del Valle de Aburrá penetra hasta bronquios y alvéolos
 ### Opciones
 - [ ] A) Entra dióxido de carbono y sale oxígeno hacia el aire
   <!-- feedback: Incorrecta porque invierte el sentido del intercambio en los alvéolos. -->
-- [x] B) El oxígeno pasa a la sangre y el dióxido de carbono sale hacia el aire exhalado
+- [x] D) El oxígeno pasa a la sangre y el dióxido de carbono sale hacia el aire exhalado
   <!-- feedback: Correcta porque describe el intercambio gaseoso alveolar real. -->
-- [ ] C) No ocurre ningún intercambio de gases al respirar
+- [ ] B) No ocurre ningún intercambio de gases al respirar
   <!-- feedback: Incorrecta porque sin intercambio no llegaría oxígeno a las células. -->
-- [ ] D) La sangre entrega oxígeno al aire y recoge nitrógeno
+- [ ] C) La sangre entrega oxígeno al aire y recoge nitrógeno
   <!-- feedback: Incorrecta porque el gas captado por la sangre es oxígeno, no nitrógeno. -->
 
 ### Explicacion Pedagogica
@@ -128,9 +128,9 @@ Los alvéolos son sacos con paredes delgadas rodeados de capilares: el oxígeno 
 ### Opciones
 - [ ] A) No tienen ninguna relación entre sí
   <!-- feedback: Incorrecta porque una provee el oxígeno que la otra utiliza. -->
-- [x] B) La respiración pulmonar aporta oxígeno y la celular lo usa para liberar energía de los nutrientes
+- [x] C) La respiración pulmonar aporta oxígeno y la celular lo usa para liberar energía de los nutrientes
   <!-- feedback: Correcta porque enlaza el suministro de oxígeno con la producción de energía celular. -->
-- [ ] C) La respiración celular ocurre solo en los pulmones
+- [ ] B) La respiración celular ocurre solo en los pulmones
   <!-- feedback: Incorrecta porque la respiración celular ocurre en todas las células, en las mitocondrias. -->
 - [ ] D) La respiración pulmonar produce energía sin necesidad de células
   <!-- feedback: Incorrecta porque la energía se libera dentro de las células, no en las vías aéreas. -->
@@ -172,9 +172,9 @@ Analizar datos de calidad del aire junto con síntomas muestra una relación cau
 ¿Por qué un pulmón sano se expande mejor que uno enfermo?
 
 ### Opciones
-- [ ] A) Porque el pulmón sano tiene huesos internos
+- [ ] B) Porque el pulmón sano tiene huesos internos
   <!-- feedback: Incorrecta porque los pulmones no contienen huesos. -->
-- [x] B) Porque sus alvéolos elásticos y limpios permiten mayor ventilación
+- [x] A) Porque sus alvéolos elásticos y limpios permiten mayor ventilación
   <!-- feedback: Correcta porque la elasticidad y la superficie alveolar determinan la expansión. -->
 - [ ] C) Porque el pulmón enfermo respira por el estómago
   <!-- feedback: Incorrecta porque ningún pulmón respira por el estómago. -->
@@ -220,9 +220,9 @@ Esta pregunta evalúa la capacidad de contrastar publicidad con evidencia: los e
 ### Opciones
 - [ ] A) Comprar ambientadores porque perfuman y limpian los pulmones
   <!-- feedback: Incorrecta porque los ambientadores enmascaran olores y pueden liberar compuestos irritantes. -->
-- [x] B) Sembrar árboles y crear zonas verdes porque filtran partículas y promueven aire más limpio
+- [x] C) Sembrar árboles y crear zonas verdes porque filtran partículas y promueven aire más limpio
   <!-- feedback: Correcta porque la vegetación retiene polvo y mejora el microclima para respirar. -->
-- [ ] C) Cerrar las ventanas para siempre y no ventilar los salones
+- [ ] B) Cerrar las ventanas para siempre y no ventilar los salones
   <!-- feedback: Incorrecta porque sin ventilación se acumulan dióxido de carbono y contaminantes internos. -->
 - [ ] D) Quemar basuras cerca del colegio para ahuyentar zancudos
   <!-- feedback: Incorrecta porque la quema genera humo que irrita directamente las vías respiratorias. -->

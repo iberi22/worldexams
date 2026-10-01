@@ -55,8 +55,8 @@ An orbit is the curved path of a celestial object or spacecraft around a star, p
 The moon landing in 1969 was watched by millions of people around the world.
 
 ### Opciones
-- [ ] A) watched <!-- feedback: Incorrect. Active voice. -->
-- [x] B) was watched <!-- feedback: Correct. Past simple passive for a completed historical event. -->
+- [ ] B) watched <!-- feedback: Incorrect. Active voice. -->
+- [x] A) was watched <!-- feedback: Correct. Past simple passive for a completed historical event. -->
 - [ ] C) has been watched <!-- feedback: Incorrect. Present perfect. -->
 - [ ] D) is watched <!-- feedback: Incorrect. Present tense. -->
 
@@ -75,8 +75,8 @@ The past simple passive 'was watched' describes how the audience experienced a s
 If life existed on other planets, it would change our understanding of the universe.
 
 ### Opciones
-- [ ] A) exists <!-- feedback: Incorrect. First conditional. -->
-- [x] B) existed <!-- feedback: Correct. Second conditional for a hypothetical present situation. -->
+- [ ] B) exists <!-- feedback: Incorrect. First conditional. -->
+- [x] A) existed <!-- feedback: Correct. Second conditional for a hypothetical present situation. -->
 - [ ] C) had existed <!-- feedback: Incorrect. Third conditional. -->
 - [ ] D) would exist <!-- feedback: Incorrect. 'Would' not used in 'if' clause. -->
 
@@ -116,8 +116,8 @@ Critics argue that the resources spent on space exploration could be better util
 
 ### Opciones
 - [ ] A) unimportant <!-- feedback: Incorrect. Issues on Earth are important. -->
-- [x] B) pressing <!-- feedback: Correct. Pressing means requiring urgent attention. -->
-- [ ] C) trivial <!-- feedback: Incorrect. Trivial means of little importance. -->
+- [x] C) pressing <!-- feedback: Correct. Pressing means requiring urgent attention. -->
+- [ ] B) trivial <!-- feedback: Incorrect. Trivial means of little importance. -->
 - [ ] D) solved <!-- feedback: Incorrect. If they were solved, there would be no debate. -->
 
 ### Explicacion Pedagogica
@@ -156,8 +156,8 @@ Data from the James Webb Telescope is being analyzed by astronomers around the g
 
 ### Opciones
 - [ ] A) is analyzing <!-- feedback: Incorrect. Active voice. -->
-- [x] B) is being analyzed <!-- feedback: Correct. Present continuous passive for an ongoing process. -->
-- [ ] C) analyzed <!-- feedback: Incorrect. Past simple. -->
+- [x] C) is being analyzed <!-- feedback: Correct. Present continuous passive for an ongoing process. -->
+- [ ] B) analyzed <!-- feedback: Incorrect. Past simple. -->
 - [ ] D) have analyzed <!-- feedback: Incorrect. Active voice. -->
 
 ### Explicacion Pedagogica
@@ -176,8 +176,8 @@ Astrophysics is the branch of astronomy that deals with the physical properties 
 
 ### Opciones
 - [ ] A) Geology <!-- feedback: Incorrect. Study of the Earth. -->
-- [x] B) Astrophysics <!-- feedback: Correct. Study of the physics of the universe. -->
-- [ ] C) Biology <!-- feedback: Incorrect. Study of life. -->
+- [x] C) Astrophysics <!-- feedback: Correct. Study of the physics of the universe. -->
+- [ ] B) Biology <!-- feedback: Incorrect. Study of life. -->
 - [ ] D) Botany <!-- feedback: Incorrect. Study of plants. -->
 
 ### Explicacion Pedagogica
@@ -195,9 +195,9 @@ Astrophysics is the branch of astronomy that deals with the physical properties 
 Scientists had suspected the existence of black holes long before they were able to photograph one.
 
 ### Opciones
-- [ ] A) suspect <!-- feedback: Incorrect. Present tense. -->
-- [ ] B) have suspected <!-- feedback: Incorrect. Present perfect. -->
-- [x] C) had suspected <!-- feedback: Correct. Past perfect for an action before another past point. -->
+- [ ] B) suspect <!-- feedback: Incorrect. Present tense. -->
+- [ ] C) have suspected <!-- feedback: Incorrect. Present perfect. -->
+- [x] A) had suspected <!-- feedback: Correct. Past perfect for an action before another past point. -->
 - [ ] D) suspects <!-- feedback: Incorrect. Third person singular present. -->
 
 ### Explicacion Pedagogica
@@ -215,8 +215,8 @@ The past perfect 'had suspected' establishes that the suspicion existed before t
 The accumulation of space debris in Earth's orbit poses a serious threat to future space missions and satellite technology.
 
 ### Opciones
-- [ ] A) benefit <!-- feedback: Incorrect. Debris is harmful. -->
-- [x] B) threat <!-- feedback: Correct. A threat is a person or thing likely to cause damage or danger. -->
+- [ ] B) benefit <!-- feedback: Incorrect. Debris is harmful. -->
+- [x] A) threat <!-- feedback: Correct. A threat is a person or thing likely to cause damage or danger. -->
 - [ ] C) solution <!-- feedback: Incorrect. Debris is the problem. -->
 - [ ] D) mystery <!-- feedback: Incorrect. We know it's there and what it is. -->
 
@@ -236,8 +236,8 @@ An astronaut is a person who is trained to travel in a spacecraft.
 
 ### Opciones
 - [ ] A) pilot <!-- feedback: Incorrect. Pilots fly planes; astronauts travel in space. -->
-- [x] B) astronaut <!-- feedback: Correct. The specific term for a space traveler. -->
-- [ ] C) driver <!-- feedback: Incorrect. Refers to ground vehicles. -->
+- [x] C) astronaut <!-- feedback: Correct. The specific term for a space traveler. -->
+- [ ] B) driver <!-- feedback: Incorrect. Refers to ground vehicles. -->
 - [ ] D) sailor <!-- feedback: Incorrect. Refers to water vehicles. -->
 
 ### Explicacion Pedagogica
@@ -256,8 +256,8 @@ By the end of this century, a permanent base will have been established on Mars.
 
 ### Opciones
 - [ ] A) will establish <!-- feedback: Incorrect. Active voice. -->
-- [x] B) will have been established <!-- feedback: Correct. Future perfect passive for a completed state in the future. -->
-- [ ] C) established <!-- feedback: Incorrect. Past tense. -->
+- [x] C) will have been established <!-- feedback: Correct. Future perfect passive for a completed state in the future. -->
+- [ ] B) established <!-- feedback: Incorrect. Past tense. -->
 - [ ] D) establishing <!-- feedback: Incorrect. Gerund. -->
 
 ### Explicacion Pedagogica
@@ -276,8 +276,8 @@ Microgravity is the condition in which people or objects appear to be weightless
 
 ### Opciones
 - [ ] A) Pressure <!-- feedback: Incorrect. Pressure is force. -->
-- [x] B) Microgravity <!-- feedback: Correct. The specific term for "zero-g" environments. -->
-- [ ] C) Friction <!-- feedback: Incorrect. Resistance between surfaces. -->
+- [x] C) Microgravity <!-- feedback: Correct. The specific term for "zero-g" environments. -->
+- [ ] B) Friction <!-- feedback: Incorrect. Resistance between surfaces. -->
 - [ ] D) Velocity <!-- feedback: Incorrect. Speed in a direction. -->
 
 ### Explicacion Pedagogica
@@ -296,8 +296,8 @@ If the Apollo 11 mission hadn't been successful, the space race would have taken
 
 ### Opciones
 - [ ] A) wasn't <!-- feedback: Incorrect. Second conditional. -->
-- [x] B) hadn't been <!-- feedback: Correct. Third conditional for hypothetical past. -->
-- [ ] C) isn't <!-- feedback: Incorrect. Present. -->
+- [x] C) hadn't been <!-- feedback: Correct. Third conditional for hypothetical past. -->
+- [ ] B) isn't <!-- feedback: Incorrect. Present. -->
 - [ ] D) wouldn't be <!-- feedback: Incorrect. 'Would' not in 'if' clause. -->
 
 ### Explicacion Pedagogica
@@ -316,8 +316,8 @@ The author concludes that private companies are set to play a pivotal role in th
 
 ### Opciones
 - [ ] A) minor <!-- feedback: Incorrect. Pivotal means the opposite. -->
-- [x] B) pivotal <!-- feedback: Correct. Pivotal means of crucial importance in relation to the development of something else. -->
-- [ ] C) negative <!-- feedback: Incorrect. The author sees them as key developers. -->
+- [x] C) pivotal <!-- feedback: Correct. Pivotal means of crucial importance in relation to the development of something else. -->
+- [ ] B) negative <!-- feedback: Incorrect. The author sees them as key developers. -->
 - [ ] D) accidental <!-- feedback: Incorrect. Their role is intentional and planned. -->
 
 ### Explicacion Pedagogica
@@ -335,8 +335,8 @@ The author concludes that private companies are set to play a pivotal role in th
 A galaxy is a system of millions or billions of stars, together with gas and dust, held together by gravitational attraction.
 
 ### Opciones
-- [ ] A) planet <!-- feedback: Incorrect. Smaller part of a galaxy. -->
-- [x] B) galaxy <!-- feedback: Correct. Large system of stars. -->
+- [ ] B) planet <!-- feedback: Incorrect. Smaller part of a galaxy. -->
+- [x] A) galaxy <!-- feedback: Correct. Large system of stars. -->
 - [ ] C) comet <!-- feedback: Incorrect. Small icy body. -->
 - [ ] D) meteor <!-- feedback: Incorrect. Small rocky body. -->
 
@@ -355,8 +355,8 @@ A galaxy is a system of millions or billions of stars, together with gas and dus
 Astronomers announced that they had found evidence of liquid water on Europa.
 
 ### Opciones
-- [ ] A) have found <!-- feedback: Incorrect. Backshifted in reported speech. -->
-- [x] B) had found <!-- feedback: Correct. Backshifted from present perfect to past perfect. -->
+- [ ] B) have found <!-- feedback: Incorrect. Backshifted in reported speech. -->
+- [x] A) had found <!-- feedback: Correct. Backshifted from present perfect to past perfect. -->
 - [ ] C) find <!-- feedback: Incorrect. Present tense. -->
 - [ ] D) will find <!-- feedback: Incorrect. Future tense. -->
 
@@ -376,9 +376,9 @@ Terraforming is the hypothetical process of deliberately modifying another plane
 
 ### Opciones
 - [ ] A) Destroying <!-- feedback: Incorrect. Opposite goal. -->
-- [x] B) Terraforming <!-- feedback: Correct. Specific term for planet-shaping. -->
-- [ ] C) Mapping <!-- feedback: Incorrect. Just making a map. -->
-- [ ] D) Mining <!-- feedback: Incorrect. Extracting resources. -->
+- [x] D) Terraforming <!-- feedback: Correct. Specific term for planet-shaping. -->
+- [ ] B) Mapping <!-- feedback: Incorrect. Just making a map. -->
+- [ ] C) Mining <!-- feedback: Incorrect. Extracting resources. -->
 
 ### Explicacion Pedagogica
 'Terraforming' (literally 'Earth-shaping') is the term for making other planets more like Earth.
@@ -415,10 +415,10 @@ The future perfect continuous describes the total length of the journey at the m
 Space exploration embodies the human desire to push the boundaries of knowledge and explore the unknown.
 
 ### Opciones
-- [x] A) embodies <!-- feedback: Correct. To embody means to be an expression of or give a tangible or visible form to an idea or quality. -->
-- [ ] B) ignores <!-- feedback: Incorrect. Exploration is about paying attention. -->
-- [ ] C) limits <!-- feedback: Incorrect. It expands knowledge. -->
-- [ ] D) delays <!-- feedback: Incorrect. It advances knowledge. -->
+- [x] D) embodies <!-- feedback: Correct. To embody means to be an expression of or give a tangible or visible form to an idea or quality. -->
+- [ ] A) ignores <!-- feedback: Incorrect. Exploration is about paying attention. -->
+- [ ] B) limits <!-- feedback: Incorrect. It expands knowledge. -->
+- [ ] C) delays <!-- feedback: Incorrect. It advances knowledge. -->
 
 ### Explicacion Pedagogica
 'Embodies' is a sophisticated verb used to show how an activity (exploration) represents a deeper value or desire.

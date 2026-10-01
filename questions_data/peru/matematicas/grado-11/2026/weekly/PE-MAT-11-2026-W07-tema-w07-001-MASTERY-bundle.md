@@ -30,9 +30,9 @@ creador: "Jules-Agent"
 Si se cumple que $x + 4 = 6$, ¿cuál es el valor correspondiente del número real $x$?
 
 ### Opciones
-- [x] A) $2$
+- [x] B) $2$
   <!-- feedback: Correcto. Despejando obtenemos la diferencia exacta. -->
-- [ ] B) $10$
+- [ ] A) $10$
   <!-- feedback: Incorrecto. Se sumaron las constantes en lugar de restar. -->
 - [ ] C) $4$
   <!-- feedback: Incorrecto. Error de cálculo aritmético. -->
@@ -80,13 +80,13 @@ Por definición, el elemento neutro multiplicativo en los reales es el número 1
 Dada la ecuación lineal $3x + 4 = 22$, determine cuál de los siguientes pasos describe su resolución correcta.
 
 ### Opciones
-- [x] A) Restar 4 a ambos miembros y luego dividir entre 3, obteniendo $x = 6$.
+- [x] D) Restar 4 a ambos miembros y luego dividir entre 3, obteniendo $x = 6$.
   <!-- feedback: Correcto. Esta secuencia de pasos cancela el término independiente 4 y luego el coeficiente 3. -->
-- [ ] B) Dividir entre 3 antes de restar 4, lo cual es incorrecto.
+- [ ] A) Dividir entre 3 antes de restar 4, lo cual es incorrecto.
   <!-- feedback: Incorrecto. Si dividimos entre 3 primero, tendríamos que dividir también el término independiente 4. -->
-- [ ] C) Restar 3 a ambos miembros, lo cual es incorrecto.
+- [ ] B) Restar 3 a ambos miembros, lo cual es incorrecto.
   <!-- feedback: Incorrecto. El número 3 está multiplicando a la variable, no sumando. -->
-- [ ] D) Sumar 4 a ambos lados de la ecuación lineal.
+- [ ] C) Sumar 4 a ambos lados de la ecuación lineal.
   <!-- feedback: Incorrecto. Se debe restar 4 a ambos lados para anular el término sumado. -->
 
 ### Explicacion Pedagogica
@@ -130,9 +130,9 @@ El descuento es de 50\% de S/ 400, lo cual equivale a S/ 200.00. Restando esto d
 Halle el valor de la expresión con potencias de base común: $E = \frac{2^{b+2}}{2^{b}}$.
 
 ### Opciones
-- [x] A) $4$
+- [x] B) $4$
   <!-- feedback: Correcto. Restando exponentes obtenemos la potencia al cuadrado de la base. -->
-- [ ] B) $2$
+- [ ] A) $2$
   <!-- feedback: Incorrecto. Error de simplificación al restar exponentes. -->
 - [ ] C) $12$
   <!-- feedback: Incorrecto. Se multiplicaron base y exponente de forma equivocada. -->
@@ -180,13 +180,13 @@ Dividimos ambos miembros de la inecuación lineal entre el número positivo 3: $
 Una persona en el mercado gasta S/ 16 en frutas y S/ 16 en verduras. Si pagó con un billete de S/ 100, ¿cuánto dinero recibe de vuelto en soles?
 
 ### Opciones
-- [x] A) S/ 68
+- [x] D) S/ 68
   <!-- feedback: Correcto. Restamos el gasto total de la denominación del billete de pago. -->
-- [ ] B) S/ 73
+- [ ] A) S/ 73
   <!-- feedback: Incorrecto. Error en la suma de los consumos realizados. -->
-- [ ] C) S/ 84
+- [ ] B) S/ 84
   <!-- feedback: Incorrecto. No se restó el gasto de las verduras. -->
-- [ ] D) S/ 63
+- [ ] C) S/ 63
   <!-- feedback: Incorrecto. Error aritmético en la sustracción. -->
 
 ### Explicacion Pedagogica
@@ -230,11 +230,11 @@ Sumamos 5 a ambos miembros de la inecuación lineal: $2x \ge 10$. Dividimos entr
 ¿Cuál es el valor absoluto de la diferencia de los números reales $3$ y $9$?
 
 ### Opciones
-- [x] A) $6$
+- [x] C) $6$
   <!-- feedback: Correcto. El valor absoluto de la diferencia es el módulo de 3 menos la suma 3 más 6, que resulta en el valor absoluto de menos 6, es decir, 6. -->
-- [ ] B) $-6$
+- [ ] A) $-6$
   <!-- feedback: Incorrecto. El valor absoluto de cualquier expresión real es siempre un número no negativo. -->
-- [ ] C) $12$
+- [ ] B) $12$
   <!-- feedback: Incorrecto. Se sumaron las cantidades en lugar de restarlas. -->
 - [ ] D) $8$
   <!-- feedback: Incorrecto. Error aritmético en la resolución del módulo. -->
@@ -255,13 +255,13 @@ La diferencia es $3 - (9) = -6$. El valor absoluto de este resultado negativo es
 Encuentre el valor de la variable $y$ si se sabe que cumple con la proporción lineal: $\frac{y}{4} = \frac{3}{4}$.
 
 ### Opciones
-- [x] A) $3.00$
+- [x] D) $3.00$
   <!-- feedback: Correcto. Multiplicamos de forma cruzada para despejar la variable del numerador. -->
-- [ ] B) $4.00$
+- [ ] A) $4.00$
   <!-- feedback: Incorrecto. Error en la multiplicación de los factores cruzados. -->
-- [ ] C) $2.00$
+- [ ] B) $2.00$
   <!-- feedback: Incorrecto. Error en la división de los coeficientes. -->
-- [ ] D) $16.00$
+- [ ] C) $16.00$
   <!-- feedback: Incorrecto. Se multiplicaron denominadores incorrectos. -->
 
 ### Explicacion Pedagogica
@@ -280,9 +280,9 @@ Multiplicamos por 4 en ambos lados de la ecuación de proporcionalidad para desp
 Calcule la suma de los coeficientes del polinomio lineal: $P(x) = 2x + 4$.
 
 ### Opciones
-- [x] A) $6$
+- [x] B) $6$
   <!-- feedback: Correcto. La suma de coeficientes de un polinomio es equivalente a evaluarlo en $x = 1$, dando 2 más 4 igual a 6. -->
-- [ ] B) $8$
+- [ ] A) $8$
   <!-- feedback: Incorrecto. Se multiplicaron los coeficientes en lugar de sumarlos. -->
 - [ ] C) $-2$
   <!-- feedback: Incorrecto. Se restaron los coeficientes. -->
@@ -305,13 +305,13 @@ La suma de coeficientes se halla evaluando el polinomio para la variable en 1: $
 Si el perímetro de un triángulo equilátero es de $9$ metros, ¿cuánto mide cada uno de sus lados en metros?
 
 ### Opciones
-- [x] A) $3$
+- [x] D) $3$
   <!-- feedback: Correcto. Un triángulo equilátero tiene tres lados iguales, por lo que cada lado mide la tercera parte de su perímetro, dando 3. -->
-- [ ] B) $4$
+- [ ] A) $4$
   <!-- feedback: Incorrecto. Longitud inconsistente con la definición de equilátero de este perímetro. -->
-- [ ] C) $6$
+- [ ] B) $6$
   <!-- feedback: Incorrecto. Excede el perímetro total al sumar dos lados de esta medida. -->
-- [ ] D) $2$
+- [ ] C) $2$
   <!-- feedback: Incorrecto. Valor que generaría un perímetro menor al real. -->
 
 ### Explicacion Pedagogica
@@ -330,11 +330,11 @@ El perímetro de un triángulo equilátero de lado $L$ es $3L$. Sabiendo que el 
 Halle el dominio de la función real: $f(x) = \frac{1}{x - 6}$.
 
 ### Opciones
-- [x] A) $\mathbb{R} - \{6\}$
+- [x] C) $\mathbb{R} - \{6\}$
   <!-- feedback: Correcto. El denominador no puede ser cero, por lo que se debe excluir el valor de x = 6. -->
-- [ ] B) $\mathbb{R}$
+- [ ] A) $\mathbb{R}$
   <!-- feedback: Incorrecto. El valor de x causa una división indeterminada por cero. -->
-- [ ] C) $\langle 6, +\infty \rangle$
+- [ ] B) $\langle 6, +\infty \rangle$
   <!-- feedback: Incorrecto. La función también está perfectamente definida para valores reales menores que 6. -->
 - [ ] D) $\mathbb{R} - \{-6\}$
   <!-- feedback: Incorrecto. Error de signo al hallar el punto de discontinuidad del denominador. -->
@@ -355,9 +355,9 @@ Para que la función racional esté definida en el campo real, el denominador de
 Determine el valor numérico del polinomio cuadrático $P(y) = y^2 - 5y + 6$ cuando $y = 2$.
 
 ### Opciones
-- [x] A) $0$
+- [x] B) $0$
   <!-- feedback: Correcto. Evaluando el polinomio para y = a resulta cero. -->
-- [ ] B) $2$
+- [ ] A) $2$
   <!-- feedback: Incorrecto. Error de cálculo en los productos parciales. -->
 - [ ] C) $12$
   <!-- feedback: Incorrecto. Error al evaluar o transponer los términos del trinomio. -->
@@ -382,9 +382,9 @@ $\begin{cases} x + y = 7 \\ x - y = 1 \end{cases}$
 Indique el valor obtenido para la variable $x$.
 
 ### Opciones
-- [x] A) $4$
+- [x] B) $4$
   <!-- feedback: Correcto. Sumando ambas ecuaciones para eliminar la variable y. -->
-- [ ] B) $3$
+- [ ] A) $3$
   <!-- feedback: Incorrecto. Este corresponde al valor de la variable y, no de x. -->
 - [ ] C) $7$
   <!-- feedback: Incorrecto. Error de resolución al sustituir o sumar los miembros. -->
@@ -407,11 +407,11 @@ Sumamos miembro a miembro las dos ecuaciones lineales del sistema para eliminar 
 ¿Cuál es el valor del discriminante ($\Delta$) de la ecuación de segundo grado $x^2 - 9x + 20 = 0$?
 
 ### Opciones
-- [x] A) $1$
+- [x] C) $1$
   <!-- feedback: Correcto. El discriminante se calcula como b^2 - 4ac. -->
-- [ ] B) $3$
+- [ ] A) $3$
   <!-- feedback: Incorrecto. Error al restar el término cuadrático del discriminante. -->
-- [ ] C) $-1$
+- [ ] B) $-1$
   <!-- feedback: Incorrecto. Error en los signos del producto de los coeficientes. -->
 - [ ] D) $81$
   <!-- feedback: Incorrecto. Se olvidó restar el término de la fórmula fundamental. -->
@@ -432,13 +432,13 @@ El discriminante de una ecuación cuadrática is b^2 - 4ac. Aquí es 81 - 4(20) 
 Si se sabe que la suma de un número real y su inverso multiplicativo es igual a 2.50, determine el producto exacto de dichos números.
 
 ### Opciones
-- [x] A) $1$
+- [x] D) $1$
   <!-- feedback: Correcto. Por definición, el producto de cualquier número real no nulo y su inverso multiplicativo es 1. -->
-- [ ] B) $2$
+- [ ] A) $2$
   <!-- feedback: Incorrecto. Ese es el número original, no el producto con su recíproco. -->
-- [ ] C) $0.50$
+- [ ] B) $0.50$
   <!-- feedback: Incorrecto. Corresponde al inverso aditivo o multiplicativo individual. -->
-- [ ] D) No se puede determinar
+- [ ] C) No se puede determinar
   <!-- feedback: Incorrecto. El producto es constante e independiente del número real elegido. -->
 
 ### Explicacion Pedagogica
@@ -457,11 +457,11 @@ Por definición del inverso multiplicativo, el producto de un número no nulo y 
 Halle el valor de la suma de las raíces de la ecuación cuadrática de coeficientes reales: $x^2 - 6x + 9 = 0$ utilizando las relaciones de Cardano-Vieta.
 
 ### Opciones
-- [x] A) $6$
+- [x] C) $6$
   <!-- feedback: Correcto. Por Cardano-Vieta, la suma de raíces es -b/a. -->
-- [ ] B) $-6$
+- [ ] A) $-6$
   <!-- feedback: Incorrecto. Olvidó cambiar el signo del término lineal. -->
-- [ ] C) $9$
+- [ ] B) $9$
   <!-- feedback: Incorrecto. Este corresponde al producto de las raíces. -->
 - [ ] D) $7$
   <!-- feedback: Incorrecto. Error aritmético al aplicar la fórmula. -->
@@ -482,11 +482,11 @@ Las relaciones de Cardano-Vieta establecen que para una ecuación cuadrática ax
 Determine el área máxima que puede encerrar un terreno rectangular de perímetro constante e igual a $32$ metros.
 
 ### Opciones
-- [x] A) $64$ metros cuadrados
+- [x] C) $64$ metros cuadrados
   <!-- feedback: Correcto. El área máxima para un perímetro dado se logra cuando la figura es un cuadrado. -->
-- [ ] B) $60$ metros cuadrados
+- [ ] A) $60$ metros cuadrados
   <!-- feedback: Incorrecto. Corresponde a una configuración rectangular desigual subóptima. -->
-- [ ] C) $68$ metros cuadrados
+- [ ] B) $68$ metros cuadrados
   <!-- feedback: Incorrecto. Un perímetro de la magnitud dada no puede encerrar un área rectangular de valor superior al máximo. -->
 - [ ] D) $32.0$ metros cuadrados
   <!-- feedback: Incorrecto. Subestimación del área máxima. -->
@@ -507,11 +507,11 @@ Sean los lados x e y. El perímetro es 2(x+y) = 32 \Rightarrow x+y = 16. El áre
 Si se define la función real $f(x) = x^2 - 4x + 9$, determine las coordenadas del vértice $(h, k)$ de su representación gráfica parabólica.
 
 ### Opciones
-- [x] A) $(2, 5)$
+- [x] C) $(2, 5)$
   <!-- feedback: Correcto. Completando cuadrados: f(x) = (x - a)^2 + b. -->
-- [ ] B) $(-2, 5)$
+- [ ] A) $(-2, 5)$
   <!-- feedback: Incorrecto. Error de signo al despejar la coordenada horizontal h. -->
-- [ ] C) $(2, -5)$
+- [ ] B) $(2, -5)$
   <!-- feedback: Incorrecto. Error de signo al determinar la coordenada vertical k. -->
 - [ ] D) $(4, 5)$
   <!-- feedback: Incorrecto. Coordenadas mal identificadas. -->

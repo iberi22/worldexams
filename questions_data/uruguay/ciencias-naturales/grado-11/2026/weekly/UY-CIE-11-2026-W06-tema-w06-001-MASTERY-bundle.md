@@ -33,11 +33,11 @@ calibration: {difficulty_band: "D3-D10", expected_success: 0.65}
 Si cruzás dos plantas de arveja homocigotas puras, una de semilla amarilla dominante ($AA$) y otra de semilla verde recesiva ($aa$), ¿qué fenotipos se esperan en la primera generación filial ($F_1$)?
 
 ### Opciones
-- [x] A) 100% plantas de semilla amarilla.
+- [x] C) 100% plantas de semilla amarilla.
   <!-- feedback: Correcto. Toda la descendencia $F_1$ es heterocigota ($Aa$) y exhibe el fenotipo asociado al alelo dominante. -->
-- [ ] B) 50% plantas amarillas y 50% verdes.
+- [ ] A) 50% plantas amarillas y 50% verdes.
   <!-- feedback: Incorrecto. Esta proporción corresponde a un cruce de prueba entre un heterocigoto y un homocigoto recesivo. -->
-- [ ] C) 75% plantas amarillas y 25% verdes.
+- [ ] B) 75% plantas amarillas y 25% verdes.
   <!-- feedback: Incorrecto. Esta proporción es la clásica segregación fenotípica de la generación filial $F_2$. -->
 - [ ] D) 100% plantas verdes de bajo vigor.
   <!-- feedback: Incorrecto. El alelo recesivo queda enmascarado por el dominante en la generación $F_1$. -->
@@ -56,11 +56,11 @@ La ley de la uniformidad establece que al cruzar dos líneas puras para un cará
 Al autofecundar las plantas heterocigotas $Aa$ de la generación $F_1$, ¿cuál es la proporción fenotípica esperada en la generación $F_2$ según la ley de segregación?
 
 ### Opciones
-- [x] A) 3:1 (75% dominantes, 25% recesivos).
+- [x] C) 3:1 (75% dominantes, 25% recesivos).
   <!-- feedback: Correcto. El alelo recesivo vuelve a manifestarse en $F_2$ en un 25% de los individuos de genotipo $aa$. -->
-- [ ] B) 1:2:1 (proporción fenotípica idéntica a genotípica pura).
+- [ ] A) 1:2:1 (proporción fenotípica idéntica a genotípica pura).
   <!-- feedback: Incorrecto. 1:2:1 es la proporción genotípica ($1AA: 2Aa: 1aa$), no la proporción fenotípica con dominancia completa. -->
-- [ ] C) 9:3:3:1 (proporción diheterocigota cruzada).
+- [ ] B) 9:3:3:1 (proporción diheterocigota cruzada).
   <!-- feedback: Incorrecto. Esta proporción 9:3:3:1 corresponde a la tercera ley de Mendel para dos caracteres independientes. -->
 - [ ] D) 1:1 (proporción homogénea de cruce recesivo).
   <!-- feedback: Incorrecto. La proporción 1:1 resulta de cruces de retrocruza o prueba, no de autofecundaciones híbridas. -->
@@ -79,9 +79,9 @@ Los alelos para cada carácter se separan o segregan durante la formación de ga
 ¿Cómo se manifiesta fenotípicamente un carácter bajo el patrón de herencia de codominancia en un individuo heterocigoto?
 
 ### Opciones
-- [x] A) Se expresan de manera simultánea y completa ambos alelos parentales sin mezclarse.
+- [x] B) Se expresan de manera simultánea y completa ambos alelos parentales sin mezclarse.
   <!-- feedback: Correcto. Un ejemplo clásico es el sistema sanguíneo ABO, donde el genotipo $I^AI^B$ expresa los antígenos A y B de forma simultánea. -->
-- [ ] B) Se genera un fenotipo intermedio diluido que mezcla ambas características.
+- [ ] A) Se genera un fenotipo intermedio diluido que mezcla ambas características.
   <!-- feedback: Incorrecto. La expresión intermedia o mezcla es característica de la dominancia incompleta o herencia corta. -->
 - [ ] C) Solo se manifiesta el alelo de origen materno por impronta.
   <!-- feedback: Incorrecto. La herencia codominante es mendeliana y no depende de marcas epigenéticas de impronta. -->
@@ -125,9 +125,9 @@ La herencia ligada al sexo sigue patrones característicos asociados a los cromo
 Si cruzás dos plantas de arveja homocigotas puras, una de semilla amarilla dominante ($AA$) y otra de semilla verde recesiva ($aa$), ¿qué fenotipos se esperan en la primera generación filial ($F_1$)?
 
 ### Opciones
-- [x] A) 100% plantas de semilla amarilla.
+- [x] B) 100% plantas de semilla amarilla.
   <!-- feedback: Correcto. Toda la descendencia $F_1$ es heterocigota ($Aa$) y exhibe el fenotipo asociado al alelo dominante. -->
-- [ ] B) 50% plantas amarillas y 50% verdes.
+- [ ] A) 50% plantas amarillas y 50% verdes.
   <!-- feedback: Incorrecto. Esta proporción corresponde a un cruce de prueba entre un heterocigoto y un homocigoto recesivo. -->
 - [ ] C) 75% plantas amarillas y 25% verdes.
   <!-- feedback: Incorrecto. Esta proporción es la clásica segregación fenotípica de la generación filial $F_2$. -->
@@ -148,9 +148,9 @@ La ley de la uniformidad establece que al cruzar dos líneas puras para un cará
 Al autofecundar las plantas heterocigotas $Aa$ de la generación $F_1$, ¿cuál es la proporción fenotípica esperada en la generación $F_2$ según la ley de segregación?
 
 ### Opciones
-- [x] A) 3:1 (75% dominantes, 25% recesivos).
+- [x] B) 3:1 (75% dominantes, 25% recesivos).
   <!-- feedback: Correcto. El alelo recesivo vuelve a manifestarse en $F_2$ en un 25% de los individuos de genotipo $aa$. -->
-- [ ] B) 1:2:1 (proporción fenotípica idéntica a genotípica pura).
+- [ ] A) 1:2:1 (proporción fenotípica idéntica a genotípica pura).
   <!-- feedback: Incorrecto. 1:2:1 es la proporción genotípica ($1AA: 2Aa: 1aa$), no la proporción fenotípica con dominancia completa. -->
 - [ ] C) 9:3:3:1 (proporción diheterocigota cruzada).
   <!-- feedback: Incorrecto. Esta proporción 9:3:3:1 corresponde a la tercera ley de Mendel para dos caracteres independientes. -->
@@ -171,13 +171,13 @@ Los alelos para cada carácter se separan o segregan durante la formación de ga
 ¿Cómo se manifiesta fenotípicamente un carácter bajo el patrón de herencia de codominancia en un individuo heterocigoto?
 
 ### Opciones
-- [x] A) Se expresan de manera simultánea y completa ambos alelos parentales sin mezclarse.
+- [x] D) Se expresan de manera simultánea y completa ambos alelos parentales sin mezclarse.
   <!-- feedback: Correcto. Un ejemplo clásico es el sistema sanguíneo ABO, donde el genotipo $I^AI^B$ expresa los antígenos A y B de forma simultánea. -->
-- [ ] B) Se genera un fenotipo intermedio diluido que mezcla ambas características.
+- [ ] A) Se genera un fenotipo intermedio diluido que mezcla ambas características.
   <!-- feedback: Incorrecto. La expresión intermedia o mezcla es característica de la dominancia incompleta o herencia corta. -->
-- [ ] C) Solo se manifiesta el alelo de origen materno por impronta.
+- [ ] B) Solo se manifiesta el alelo de origen materno por impronta.
   <!-- feedback: Incorrecto. La herencia codominante es mendeliana y no depende de marcas epigenéticas de impronta. -->
-- [ ] D) El individuo desarrolla una mutación letal que inviabiliza el nacimiento.
+- [ ] C) El individuo desarrolla una mutación letal que inviabiliza el nacimiento.
   <!-- feedback: Incorrecto. La codominancia es un patrón de herencia normal y no representa letalidad génica. -->
 
 ### Explicación Pedagógica
@@ -194,13 +194,13 @@ En codominancia ambos alelos se manifiestan en el fenotipo del heterocigoto con 
 ¿Por qué las enfermedades recesivas ligadas al cromosoma X (como la hemofilia) se expresan con mayor frecuencia fenotípica en hombres que en mujeres?
 
 ### Opciones
-- [x] A) Los hombres son hemicigotos para el cromosoma X, por lo que un solo alelo mutado determina la afección.
+- [x] D) Los hombres son hemicigotos para el cromosoma X, por lo que un solo alelo mutado determina la afección.
   <!-- feedback: Correcto. Como los hombres tienen cariotipo XY, no disponen de un segundo cromosoma X que pueda compensar la mutación recesiva. -->
-- [ ] B) Las hormonas masculinas como la testosterona aumentan la tasa de mutaciones génicas.
+- [ ] A) Las hormonas masculinas como la testosterona aumentan la tasa de mutaciones génicas.
   <!-- feedback: Incorrecto. Las hormonas sexuales regulan caracteres secundarios pero no alteran la tasa mutacional cromosómica general. -->
-- [ ] C) Las mujeres carecen de cromosoma X y transmiten la mutación mediante mitocondrias.
+- [ ] B) Las mujeres carecen de cromosoma X y transmiten la mutación mediante mitocondrias.
   <!-- feedback: Incorrecto. Las mujeres tienen dos cromosomas X (XX) y transmiten la hemofilia de manera normal como portadoras saludables. -->
-- [ ] D) El cromosoma Y masculino silencia la expresión de las enzimas de coagulación sanguínea.
+- [ ] C) El cromosoma Y masculino silencia la expresión de las enzimas de coagulación sanguínea.
   <!-- feedback: Incorrecto. El cromosoma Y posee pocos genes específicos y no interfiere con los genes del cromosoma X. -->
 
 ### Explicación Pedagógica
@@ -217,11 +217,11 @@ La herencia ligada al sexo sigue patrones característicos asociados a los cromo
 Si cruzás dos plantas de arveja homocigotas puras, una de semilla amarilla dominante ($AA$) y otra de semilla verde recesiva ($aa$), ¿qué fenotipos se esperan en la primera generación filial ($F_1$)?
 
 ### Opciones
-- [x] A) 100% plantas de semilla amarilla.
+- [x] C) 100% plantas de semilla amarilla.
   <!-- feedback: Correcto. Toda la descendencia $F_1$ es heterocigota ($Aa$) y exhibe el fenotipo asociado al alelo dominante. -->
-- [ ] B) 50% plantas amarillas y 50% verdes.
+- [ ] A) 50% plantas amarillas y 50% verdes.
   <!-- feedback: Incorrecto. Esta proporción corresponde a un cruce de prueba entre un heterocigoto y un homocigoto recesivo. -->
-- [ ] C) 75% plantas amarillas y 25% verdes.
+- [ ] B) 75% plantas amarillas y 25% verdes.
   <!-- feedback: Incorrecto. Esta proporción es la clásica segregación fenotípica de la generación filial $F_2$. -->
 - [ ] D) 100% plantas verdes de bajo vigor.
   <!-- feedback: Incorrecto. El alelo recesivo queda enmascarado por el dominante en la generación $F_1$. -->
@@ -263,11 +263,11 @@ Los alelos para cada carácter se separan o segregan durante la formación de ga
 ¿Cómo se manifiesta fenotípicamente un carácter bajo el patrón de herencia de codominancia en un individuo heterocigoto?
 
 ### Opciones
-- [x] A) Se expresan de manera simultánea y completa ambos alelos parentales sin mezclarse.
+- [x] C) Se expresan de manera simultánea y completa ambos alelos parentales sin mezclarse.
   <!-- feedback: Correcto. Un ejemplo clásico es el sistema sanguíneo ABO, donde el genotipo $I^AI^B$ expresa los antígenos A y B de forma simultánea. -->
-- [ ] B) Se genera un fenotipo intermedio diluido que mezcla ambas características.
+- [ ] A) Se genera un fenotipo intermedio diluido que mezcla ambas características.
   <!-- feedback: Incorrecto. La expresión intermedia o mezcla es característica de la dominancia incompleta o herencia corta. -->
-- [ ] C) Solo se manifiesta el alelo de origen materno por impronta.
+- [ ] B) Solo se manifiesta el alelo de origen materno por impronta.
   <!-- feedback: Incorrecto. La herencia codominante es mendeliana y no depende de marcas epigenéticas de impronta. -->
 - [ ] D) El individuo desarrolla una mutación letal que inviabiliza el nacimiento.
   <!-- feedback: Incorrecto. La codominancia es un patrón de herencia normal y no representa letalidad génica. -->
@@ -309,11 +309,11 @@ La herencia ligada al sexo sigue patrones característicos asociados a los cromo
 Si cruzás dos plantas de arveja homocigotas puras, una de semilla amarilla dominante ($AA$) y otra de semilla verde recesiva ($aa$), ¿qué fenotipos se esperan en la primera generación filial ($F_1$)?
 
 ### Opciones
-- [x] A) 100% plantas de semilla amarilla.
+- [x] C) 100% plantas de semilla amarilla.
   <!-- feedback: Correcto. Toda la descendencia $F_1$ es heterocigota ($Aa$) y exhibe el fenotipo asociado al alelo dominante. -->
-- [ ] B) 50% plantas amarillas y 50% verdes.
+- [ ] A) 50% plantas amarillas y 50% verdes.
   <!-- feedback: Incorrecto. Esta proporción corresponde a un cruce de prueba entre un heterocigoto y un homocigoto recesivo. -->
-- [ ] C) 75% plantas amarillas y 25% verdes.
+- [ ] B) 75% plantas amarillas y 25% verdes.
   <!-- feedback: Incorrecto. Esta proporción es la clásica segregación fenotípica de la generación filial $F_2$. -->
 - [ ] D) 100% plantas verdes de bajo vigor.
   <!-- feedback: Incorrecto. El alelo recesivo queda enmascarado por el dominante en la generación $F_1$. -->
@@ -332,11 +332,11 @@ La ley de la uniformidad establece que al cruzar dos líneas puras para un cará
 Al autofecundar las plantas heterocigotas $Aa$ de la generación $F_1$, ¿cuál es la proporción fenotípica esperada en la generación $F_2$ según la ley de segregación?
 
 ### Opciones
-- [x] A) 3:1 (75% dominantes, 25% recesivos).
+- [x] C) 3:1 (75% dominantes, 25% recesivos).
   <!-- feedback: Correcto. El alelo recesivo vuelve a manifestarse en $F_2$ en un 25% de los individuos de genotipo $aa$. -->
-- [ ] B) 1:2:1 (proporción fenotípica idéntica a genotípica pura).
+- [ ] A) 1:2:1 (proporción fenotípica idéntica a genotípica pura).
   <!-- feedback: Incorrecto. 1:2:1 es la proporción genotípica ($1AA: 2Aa: 1aa$), no la proporción fenotípica con dominancia completa. -->
-- [ ] C) 9:3:3:1 (proporción diheterocigota cruzada).
+- [ ] B) 9:3:3:1 (proporción diheterocigota cruzada).
   <!-- feedback: Incorrecto. Esta proporción 9:3:3:1 corresponde a la tercera ley de Mendel para dos caracteres independientes. -->
 - [ ] D) 1:1 (proporción homogénea de cruce recesivo).
   <!-- feedback: Incorrecto. La proporción 1:1 resulta de cruces de retrocruza o prueba, no de autofecundaciones híbridas. -->
@@ -355,9 +355,9 @@ Los alelos para cada carácter se separan o segregan durante la formación de ga
 ¿Cómo se manifiesta fenotípicamente un carácter bajo el patrón de herencia de codominancia en un individuo heterocigoto?
 
 ### Opciones
-- [x] A) Se expresan de manera simultánea y completa ambos alelos parentales sin mezclarse.
+- [x] B) Se expresan de manera simultánea y completa ambos alelos parentales sin mezclarse.
   <!-- feedback: Correcto. Un ejemplo clásico es el sistema sanguíneo ABO, donde el genotipo $I^AI^B$ expresa los antígenos A y B de forma simultánea. -->
-- [ ] B) Se genera un fenotipo intermedio diluido que mezcla ambas características.
+- [ ] A) Se genera un fenotipo intermedio diluido que mezcla ambas características.
   <!-- feedback: Incorrecto. La expresión intermedia o mezcla es característica de la dominancia incompleta o herencia corta. -->
 - [ ] C) Solo se manifiesta el alelo de origen materno por impronta.
   <!-- feedback: Incorrecto. La herencia codominante es mendeliana y no depende de marcas epigenéticas de impronta. -->
@@ -378,9 +378,9 @@ En codominancia ambos alelos se manifiestan en el fenotipo del heterocigoto con 
 ¿Por qué las enfermedades recesivas ligadas al cromosoma X (como la hemofilia) se expresan con mayor frecuencia fenotípica en hombres que en mujeres?
 
 ### Opciones
-- [x] A) Los hombres son hemicigotos para el cromosoma X, por lo que un solo alelo mutado determina la afección.
+- [x] B) Los hombres son hemicigotos para el cromosoma X, por lo que un solo alelo mutado determina la afección.
   <!-- feedback: Correcto. Como los hombres tienen cariotipo XY, no disponen de un segundo cromosoma X que pueda compensar la mutación recesiva. -->
-- [ ] B) Las hormonas masculinas como la testosterona aumentan la tasa de mutaciones génicas.
+- [ ] A) Las hormonas masculinas como la testosterona aumentan la tasa de mutaciones génicas.
   <!-- feedback: Incorrecto. Las hormonas sexuales regulan caracteres secundarios pero no alteran la tasa mutacional cromosómica general. -->
 - [ ] C) Las mujeres carecen de cromosoma X y transmiten la mutación mediante mitocondrias.
   <!-- feedback: Incorrecto. Las mujeres tienen dos cromosomas X (XX) y transmiten la hemofilia de manera normal como portadoras saludables. -->
@@ -401,13 +401,13 @@ La herencia ligada al sexo sigue patrones característicos asociados a los cromo
 Si cruzás dos plantas de arveja homocigotas puras, una de semilla amarilla dominante ($AA$) y otra de semilla verde recesiva ($aa$), ¿qué fenotipos se esperan en la primera generación filial ($F_1$)?
 
 ### Opciones
-- [x] A) 100% plantas de semilla amarilla.
+- [x] D) 100% plantas de semilla amarilla.
   <!-- feedback: Correcto. Toda la descendencia $F_1$ es heterocigota ($Aa$) y exhibe el fenotipo asociado al alelo dominante. -->
-- [ ] B) 50% plantas amarillas y 50% verdes.
+- [ ] A) 50% plantas amarillas y 50% verdes.
   <!-- feedback: Incorrecto. Esta proporción corresponde a un cruce de prueba entre un heterocigoto y un homocigoto recesivo. -->
-- [ ] C) 75% plantas amarillas y 25% verdes.
+- [ ] B) 75% plantas amarillas y 25% verdes.
   <!-- feedback: Incorrecto. Esta proporción es la clásica segregación fenotípica de la generación filial $F_2$. -->
-- [ ] D) 100% plantas verdes de bajo vigor.
+- [ ] C) 100% plantas verdes de bajo vigor.
   <!-- feedback: Incorrecto. El alelo recesivo queda enmascarado por el dominante en la generación $F_1$. -->
 
 ### Explicación Pedagógica
@@ -424,11 +424,11 @@ La ley de la uniformidad establece que al cruzar dos líneas puras para un cará
 Al autofecundar las plantas heterocigotas $Aa$ de la generación $F_1$, ¿cuál es la proporción fenotípica esperada en la generación $F_2$ según la ley de segregación?
 
 ### Opciones
-- [x] A) 3:1 (75% dominantes, 25% recesivos).
+- [x] C) 3:1 (75% dominantes, 25% recesivos).
   <!-- feedback: Correcto. El alelo recesivo vuelve a manifestarse en $F_2$ en un 25% de los individuos de genotipo $aa$. -->
-- [ ] B) 1:2:1 (proporción fenotípica idéntica a genotípica pura).
+- [ ] A) 1:2:1 (proporción fenotípica idéntica a genotípica pura).
   <!-- feedback: Incorrecto. 1:2:1 es la proporción genotípica ($1AA: 2Aa: 1aa$), no la proporción fenotípica con dominancia completa. -->
-- [ ] C) 9:3:3:1 (proporción diheterocigota cruzada).
+- [ ] B) 9:3:3:1 (proporción diheterocigota cruzada).
   <!-- feedback: Incorrecto. Esta proporción 9:3:3:1 corresponde a la tercera ley de Mendel para dos caracteres independientes. -->
 - [ ] D) 1:1 (proporción homogénea de cruce recesivo).
   <!-- feedback: Incorrecto. La proporción 1:1 resulta de cruces de retrocruza o prueba, no de autofecundaciones híbridas. -->
@@ -447,13 +447,13 @@ Los alelos para cada carácter se separan o segregan durante la formación de ga
 ¿Cómo se manifiesta fenotípicamente un carácter bajo el patrón de herencia de codominancia en un individuo heterocigoto?
 
 ### Opciones
-- [x] A) Se expresan de manera simultánea y completa ambos alelos parentales sin mezclarse.
+- [x] D) Se expresan de manera simultánea y completa ambos alelos parentales sin mezclarse.
   <!-- feedback: Correcto. Un ejemplo clásico es el sistema sanguíneo ABO, donde el genotipo $I^AI^B$ expresa los antígenos A y B de forma simultánea. -->
-- [ ] B) Se genera un fenotipo intermedio diluido que mezcla ambas características.
+- [ ] A) Se genera un fenotipo intermedio diluido que mezcla ambas características.
   <!-- feedback: Incorrecto. La expresión intermedia o mezcla es característica de la dominancia incompleta o herencia corta. -->
-- [ ] C) Solo se manifiesta el alelo de origen materno por impronta.
+- [ ] B) Solo se manifiesta el alelo de origen materno por impronta.
   <!-- feedback: Incorrecto. La herencia codominante es mendeliana y no depende de marcas epigenéticas de impronta. -->
-- [ ] D) El individuo desarrolla una mutación letal que inviabiliza el nacimiento.
+- [ ] C) El individuo desarrolla una mutación letal que inviabiliza el nacimiento.
   <!-- feedback: Incorrecto. La codominancia es un patrón de herencia normal y no representa letalidad génica. -->
 
 ### Explicación Pedagógica
@@ -470,9 +470,9 @@ En codominancia ambos alelos se manifiestan en el fenotipo del heterocigoto con 
 ¿Por qué las enfermedades recesivas ligadas al cromosoma X (como la hemofilia) se expresan con mayor frecuencia fenotípica en hombres que en mujeres?
 
 ### Opciones
-- [x] A) Los hombres son hemicigotos para el cromosoma X, por lo que un solo alelo mutado determina la afección.
+- [x] B) Los hombres son hemicigotos para el cromosoma X, por lo que un solo alelo mutado determina la afección.
   <!-- feedback: Correcto. Como los hombres tienen cariotipo XY, no disponen de un segundo cromosoma X que pueda compensar la mutación recesiva. -->
-- [ ] B) Las hormonas masculinas como la testosterona aumentan la tasa de mutaciones génicas.
+- [ ] A) Las hormonas masculinas como la testosterona aumentan la tasa de mutaciones génicas.
   <!-- feedback: Incorrecto. Las hormonas sexuales regulan caracteres secundarios pero no alteran la tasa mutacional cromosómica general. -->
 - [ ] C) Las mujeres carecen de cromosoma X y transmiten la mutación mediante mitocondrias.
   <!-- feedback: Incorrecto. Las mujeres tienen dos cromosomas X (XX) y transmiten la hemofilia de manera normal como portadoras saludables. -->

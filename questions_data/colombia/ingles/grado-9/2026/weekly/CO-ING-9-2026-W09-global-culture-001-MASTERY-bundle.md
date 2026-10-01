@@ -37,8 +37,8 @@ Direct Speech: "The carnival starts tomorrow," said the guide.
 Reported Speech: The guide said that the carnival ________ the following day.
 
 ### Opciones
-- [ ] A) starts <!-- feedback: Incorrect. We need to backshift the tense. -->
-- [x] B) started <!-- feedback: Correct! Present Simple shifts to Past Simple in Reported Speech. -->
+- [ ] B) starts <!-- feedback: Incorrect. We need to backshift the tense. -->
+- [x] A) started <!-- feedback: Correct! Present Simple shifts to Past Simple in Reported Speech. -->
 - [ ] C) will start <!-- feedback: Incorrect. "Will" would shift to "would". -->
 - [ ] D) has started <!-- feedback: Incorrect. Inappropriate tense shift. -->
 
@@ -59,8 +59,8 @@ Direct Speech: "I have visited Tokyo twice," Maria told me.
 Reported Speech: Maria told me that she ________ Tokyo twice.
 
 ### Opciones
-- [ ] A) visited <!-- feedback: Incorrect. Past Simple is for Direct Past. -->
-- [x] B) had visited <!-- feedback: Correct! Present Perfect shifts to Past Perfect. -->
+- [ ] B) visited <!-- feedback: Incorrect. Past Simple is for Direct Past. -->
+- [x] A) had visited <!-- feedback: Correct! Present Perfect shifts to Past Perfect. -->
 - [ ] C) has visited <!-- feedback: Incorrect. No backshift was applied. -->
 - [ ] D) was visiting <!-- feedback: Incorrect. Changes the meaning. -->
 
@@ -81,9 +81,9 @@ Direct Speech: "Do you like spicy food?" he asked me.
 Reported Speech: He asked me ________ I liked spicy food.
 
 ### Opciones
-- [ ] A) that <!-- feedback: Incorrect. "That" is for statements, not questions. -->
-- [ ] B) do <!-- feedback: Incorrect. Auxiliaries are not used in reported questions. -->
-- [x] C) if <!-- feedback: Correct! We use "if" or "whether" for yes/no questions in reported speech. -->
+- [ ] B) that <!-- feedback: Incorrect. "That" is for statements, not questions. -->
+- [ ] C) do <!-- feedback: Incorrect. Auxiliaries are not used in reported questions. -->
+- [x] A) if <!-- feedback: Correct! We use "if" or "whether" for yes/no questions in reported speech. -->
 - [ ] D) what <!-- feedback: Incorrect. This is for specific information questions. -->
 
 ### Explicacion Pedagogica
@@ -104,8 +104,8 @@ Reported Speech: The tourist asked where the nearest museum ________.
 
 ### Opciones
 - [ ] A) is <!-- feedback: Incorrect. Missing backshift. -->
-- [x] B) was <!-- feedback: Correct! Backshift of "is" and change to statement word order. -->
-- [ ] C) were <!-- feedback: Incorrect. "Museum" is singular. -->
+- [x] C) was <!-- feedback: Correct! Backshift of "is" and change to statement word order. -->
+- [ ] B) were <!-- feedback: Incorrect. "Museum" is singular. -->
 - [ ] D) has been <!-- feedback: Incorrect. Inappropriate tense. -->
 
 ### Explicacion Pedagogica
@@ -126,9 +126,9 @@ Reported Speech: Julian said that he ________ a student from Italy.
 
 ### Opciones
 - [ ] A) will host <!-- feedback: Incorrect. Missing backshift. -->
-- [x] B) would host <!-- feedback: Correct! "Will" shifts to "would" in Reported Speech. -->
-- [ ] C) hosts <!-- feedback: Incorrect. Changes the future meaning. -->
-- [ ] D) was going to host <!-- feedback: Incorrect. While similar in meaning, the direct shift of "will" is "would". -->
+- [x] D) would host <!-- feedback: Correct! "Will" shifts to "would" in Reported Speech. -->
+- [ ] B) hosts <!-- feedback: Incorrect. Changes the future meaning. -->
+- [ ] C) was going to host <!-- feedback: Incorrect. While similar in meaning, the direct shift of "will" is "would". -->
 
 ### Explicacion Pedagogica
 El auxiliar de futuro *will* siempre se convierte en *would* cuando reportamos una declaración o promesa hecha en el pasado.
@@ -147,8 +147,8 @@ Direct Speech: "You should try the local coffee," the host suggested.
 Reported Speech: The host suggested that I ________ the local coffee.
 
 ### Opciones
-- [x] A) should try <!-- feedback: Correct! "Should" doesn't change in Reported Speech. -->
-- [ ] B) must try <!-- feedback: Incorrect. Changes the nuance from advice to obligation. -->
+- [x] B) should try <!-- feedback: Correct! "Should" doesn't change in Reported Speech. -->
+- [ ] A) must try <!-- feedback: Incorrect. Changes the nuance from advice to obligation. -->
 - [ ] C) would try <!-- feedback: Incorrect. "Should" doesn't shift to "would". -->
 - [ ] D) had to try <!-- feedback: Incorrect. This is the shift for "must". -->
 
@@ -191,8 +191,8 @@ Which sentence is grammatically correct?
 
 ### Opciones
 - [ ] A) She said me that she loved the festival. <!-- feedback: Incorrect. "Say" cannot be followed directly by an object pronoun without "to". -->
-- [x] B) She told me that she loved the festival. <!-- feedback: Correct! "Tell" must be followed by an object (me, him, her). -->
-- [ ] C) She told that she loved the festival. <!-- feedback: Incorrect. "Tell" requires an object. -->
+- [x] C) She told me that she loved the festival. <!-- feedback: Correct! "Tell" must be followed by an object (me, him, her). -->
+- [ ] B) She told that she loved the festival. <!-- feedback: Incorrect. "Tell" requires an object. -->
 - [ ] D) She said to me that she love the festival. <!-- feedback: Incorrect. Missing backshift of "love". -->
 
 ### Explicacion Pedagogica
@@ -212,8 +212,8 @@ Direct Speech: "Please, show me your passport," the officer said to me.
 Reported Speech: The officer asked me ________ him my passport.
 
 ### Opciones
-- [ ] A) that I show <!-- feedback: Incorrect. Commands and requests use the infinitive. -->
-- [x] B) to show <!-- feedback: Correct! For requests/orders, we use "to + infinitive". -->
+- [ ] B) that I show <!-- feedback: Incorrect. Commands and requests use the infinitive. -->
+- [x] A) to show <!-- feedback: Correct! For requests/orders, we use "to + infinitive". -->
 - [ ] C) showing <!-- feedback: Incorrect. Gerund is not used here. -->
 - [ ] D) if I showed <!-- feedback: Incorrect. This is for questions, not requests. -->
 
@@ -234,8 +234,8 @@ Identify the error in this paragraph:
 "My friend from Mexico **told** (A) that she **had been** (B) very happy here. She added that she **would** (C) return the **next year** (D)."
 
 ### Opciones
-- [x] A) told <!-- feedback: Correct! "Told" requires an object (e.g., "told me"). It should be "said". -->
-- [ ] B) had been <!-- feedback: Incorrect. Correct backshift from "was" or "have been". -->
+- [x] B) told <!-- feedback: Correct! "Told" requires an object (e.g., "told me"). It should be "said". -->
+- [ ] A) had been <!-- feedback: Incorrect. Correct backshift from "was" or "have been". -->
 - [ ] C) would <!-- feedback: Incorrect. Correct backshift from "will". -->
 - [ ] D) next year <!-- feedback: Incorrect. Correct shift from "next year" in the original context (though "the following year" is more formal). -->
 
@@ -258,8 +258,8 @@ Reported Speech: She asked me why I ________ to study abroad.
 ### Opciones
 - [ ] A) have decided <!-- feedback: Incorrect. No backshift. -->
 - [ ] B) did I decide <!-- feedback: Incorrect. Inverted word order. -->
-- [x] C) had decided <!-- feedback: Correct! Backshift and statement word order. -->
-- [ ] D) I had decided <!-- feedback: Incorrect. The "why" is already there, but B is a common trap. Wait, C is better. -->
+- [x] D) had decided <!-- feedback: Correct! Backshift and statement word order. -->
+- [ ] C) I had decided <!-- feedback: Incorrect. The "why" is already there, but B is a common trap. Wait, C is better. -->
 
 ### Explicacion Pedagogica
 En las preguntas reportadas, el orden de las palabras cambia de interrogativo (*have you decided*) a afirmativo (*I had decided*). No se usan auxiliares de pregunta como *did* o *do*.
@@ -278,9 +278,9 @@ The interviewer asked the artist if he ________ working on his new album yet. Th
 
 ### Opciones
 - [ ] A) finished / will finish <!-- feedback: Incorrect. Missing backshifts. -->
-- [x] B) had finished / would have finished <!-- feedback: Correct! Backshift of Present Perfect and Future Perfect. -->
-- [ ] C) has finished / would finish <!-- feedback: Incorrect. Mixed backshifts. -->
-- [ ] D) did finish / had finished <!-- feedback: Incorrect. Incorrect tense logic. -->
+- [x] D) had finished / would have finished <!-- feedback: Correct! Backshift of Present Perfect and Future Perfect. -->
+- [ ] B) has finished / would finish <!-- feedback: Incorrect. Mixed backshifts. -->
+- [ ] C) did finish / had finished <!-- feedback: Incorrect. Incorrect tense logic. -->
 
 ### Explicacion Pedagogica
 Este ejercicio final evalúa la capacidad de reportar estructuras complejas como el Presente Perfecto y el Futuro Perfecto en una sola situación comunicativa.

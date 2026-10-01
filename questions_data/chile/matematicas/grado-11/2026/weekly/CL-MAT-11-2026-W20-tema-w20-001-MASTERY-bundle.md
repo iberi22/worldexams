@@ -30,8 +30,8 @@ creador: "Jules-Agent"
 ¿De cuántas formas distintas se puede elegir una comisión de $3$ integrantes entre $N = 4$ candidatos en Viña del Mar si el orden no importa?
 
 ### Opciones
-- [x] A) $4$ formas <!-- feedback: ¡Correcto! C(4, 3) = 4! / (3!*(4-3)!) = 4. -->
-- [ ] B) $24$ formas <!-- feedback: Incorrecto. Calculaste variaciones V(3, 4) considerando el orden de selección. -->
+- [x] B) $4$ formas <!-- feedback: ¡Correcto! C(4, 3) = 4! / (3!*(4-3)!) = 4. -->
+- [ ] A) $24$ formas <!-- feedback: Incorrecto. Calculaste variaciones V(3, 4) considerando el orden de selección. -->
 - [ ] C) $12$ formas <!-- feedback: Incorrecto. Multiplicaste los candidatos por 3. -->
 - [ ] D) $16$ formas <!-- feedback: Incorrecto. Error operacional en la simplificación del factorial. -->
 
@@ -68,9 +68,9 @@ Al no importar el orden de elección de la comisión, se utiliza combinación: C
 ¿De cuántas formas distintas se puede elegir una comisión de $3$ integrantes entre $N = 6$ candidatos en Rancagua si el orden no importa?
 
 ### Opciones
-- [x] A) $20$ formas <!-- feedback: ¡Correcto! C(6, 3) = 6! / (3!*(6-3)!) = 20. -->
-- [ ] B) $120$ formas <!-- feedback: Incorrecto. Calculaste variaciones V(3, 6) considerando el orden de selección. -->
-- [ ] C) $18$ formas <!-- feedback: Incorrecto. Multiplicaste los candidatos por 3. -->
+- [x] C) $20$ formas <!-- feedback: ¡Correcto! C(6, 3) = 6! / (3!*(6-3)!) = 20. -->
+- [ ] A) $120$ formas <!-- feedback: Incorrecto. Calculaste variaciones V(3, 6) considerando el orden de selección. -->
+- [ ] B) $18$ formas <!-- feedback: Incorrecto. Multiplicaste los candidatos por 3. -->
 - [ ] D) $32$ formas <!-- feedback: Incorrecto. Error operacional en la simplificación del factorial. -->
 
 ### Explicacion Pedagogica
@@ -87,8 +87,8 @@ Al no importar el orden de elección de la comisión, se utiliza combinación: C
 ¿De cuántas formas distintas se puede elegir una comisión de $3$ integrantes entre $N = 7$ candidatos en Talca si el orden no importa?
 
 ### Opciones
-- [x] A) $35$ formas <!-- feedback: ¡Correcto! C(7, 3) = 7! / (3!*(7-3)!) = 35. -->
-- [ ] B) $210$ formas <!-- feedback: Incorrecto. Calculaste variaciones V(3, 7) considerando el orden de selección. -->
+- [x] B) $35$ formas <!-- feedback: ¡Correcto! C(7, 3) = 7! / (3!*(7-3)!) = 35. -->
+- [ ] A) $210$ formas <!-- feedback: Incorrecto. Calculaste variaciones V(3, 7) considerando el orden de selección. -->
 - [ ] C) $21$ formas <!-- feedback: Incorrecto. Multiplicaste los candidatos por 3. -->
 - [ ] D) $47$ formas <!-- feedback: Incorrecto. Error operacional en la simplificación del factorial. -->
 
@@ -106,10 +106,10 @@ Al no importar el orden de elección de la comisión, se utiliza combinación: C
 ¿De cuántas formas distintas se puede elegir una comisión de $3$ integrantes entre $N = 8$ candidatos en Arica si el orden no importa?
 
 ### Opciones
-- [x] A) $56$ formas <!-- feedback: ¡Correcto! C(8, 3) = 8! / (3!*(8-3)!) = 56. -->
-- [ ] B) $336$ formas <!-- feedback: Incorrecto. Calculaste variaciones V(3, 8) considerando el orden de selección. -->
-- [ ] C) $24$ formas <!-- feedback: Incorrecto. Multiplicaste los candidatos por 3. -->
-- [ ] D) $68$ formas <!-- feedback: Incorrecto. Error operacional en la simplificación del factorial. -->
+- [x] D) $56$ formas <!-- feedback: ¡Correcto! C(8, 3) = 8! / (3!*(8-3)!) = 56. -->
+- [ ] A) $336$ formas <!-- feedback: Incorrecto. Calculaste variaciones V(3, 8) considerando el orden de selección. -->
+- [ ] B) $24$ formas <!-- feedback: Incorrecto. Multiplicaste los candidatos por 3. -->
+- [ ] C) $68$ formas <!-- feedback: Incorrecto. Error operacional en la simplificación del factorial. -->
 
 ### Explicacion Pedagogica
 Al no importar el orden de elección de la comisión, se utiliza combinación: C(8, 3) = 8*7*6/(3*2*1) = 56 formas.
@@ -125,10 +125,10 @@ Al no importar el orden de elección de la comisión, se utiliza combinación: C
 ¿De cuántas formas distintas se puede elegir una comisión de $3$ integrantes entre $N = 9$ candidatos en Puerto Montt si el orden no importa?
 
 ### Opciones
-- [x] A) $84$ formas <!-- feedback: ¡Correcto! C(9, 3) = 9! / (3!*(9-3)!) = 84. -->
-- [ ] B) $504$ formas <!-- feedback: Incorrecto. Calculaste variaciones V(3, 9) considerando el orden de selección. -->
-- [ ] C) $27$ formas <!-- feedback: Incorrecto. Multiplicaste los candidatos por 3. -->
-- [ ] D) $96$ formas <!-- feedback: Incorrecto. Error operacional en la simplificación del factorial. -->
+- [x] D) $84$ formas <!-- feedback: ¡Correcto! C(9, 3) = 9! / (3!*(9-3)!) = 84. -->
+- [ ] A) $504$ formas <!-- feedback: Incorrecto. Calculaste variaciones V(3, 9) considerando el orden de selección. -->
+- [ ] B) $27$ formas <!-- feedback: Incorrecto. Multiplicaste los candidatos por 3. -->
+- [ ] C) $96$ formas <!-- feedback: Incorrecto. Error operacional en la simplificación del factorial. -->
 
 ### Explicacion Pedagogica
 Al no importar el orden de elección de la comisión, se utiliza combinación: C(9, 3) = 9*8*7/(3*2*1) = 84 formas.
@@ -144,8 +144,8 @@ Al no importar el orden de elección de la comisión, se utiliza combinación: C
 ¿De cuántas formas distintas se puede elegir una comisión de $3$ integrantes entre $N = 10$ candidatos en Chillán si el orden no importa?
 
 ### Opciones
-- [x] A) $120$ formas <!-- feedback: ¡Correcto! C(10, 3) = 10! / (3!*(10-3)!) = 120. -->
-- [ ] B) $720$ formas <!-- feedback: Incorrecto. Calculaste variaciones V(3, 10) considerando el orden de selección. -->
+- [x] B) $120$ formas <!-- feedback: ¡Correcto! C(10, 3) = 10! / (3!*(10-3)!) = 120. -->
+- [ ] A) $720$ formas <!-- feedback: Incorrecto. Calculaste variaciones V(3, 10) considerando el orden de selección. -->
 - [ ] C) $30$ formas <!-- feedback: Incorrecto. Multiplicaste los candidatos por 3. -->
 - [ ] D) $132$ formas <!-- feedback: Incorrecto. Error operacional en la simplificación del factorial. -->
 
@@ -163,8 +163,8 @@ Al no importar el orden de elección de la comisión, se utiliza combinación: C
 ¿De cuántas formas distintas se puede elegir una comisión de $3$ integrantes entre $N = 11$ candidatos en Calama si el orden no importa?
 
 ### Opciones
-- [x] A) $165$ formas <!-- feedback: ¡Correcto! C(11, 3) = 11! / (3!*(11-3)!) = 165. -->
-- [ ] B) $990$ formas <!-- feedback: Incorrecto. Calculaste variaciones V(3, 11) considerando el orden de selección. -->
+- [x] B) $165$ formas <!-- feedback: ¡Correcto! C(11, 3) = 11! / (3!*(11-3)!) = 165. -->
+- [ ] A) $990$ formas <!-- feedback: Incorrecto. Calculaste variaciones V(3, 11) considerando el orden de selección. -->
 - [ ] C) $33$ formas <!-- feedback: Incorrecto. Multiplicaste los candidatos por 3. -->
 - [ ] D) $177$ formas <!-- feedback: Incorrecto. Error operacional en la simplificación del factorial. -->
 
@@ -182,10 +182,10 @@ Al no importar el orden de elección de la comisión, se utiliza combinación: C
 ¿De cuántas formas distintas se puede elegir una comisión de $3$ integrantes entre $N = 12$ candidatos en Valdivia si el orden no importa?
 
 ### Opciones
-- [x] A) $220$ formas <!-- feedback: ¡Correcto! C(12, 3) = 12! / (3!*(12-3)!) = 220. -->
-- [ ] B) $1320$ formas <!-- feedback: Incorrecto. Calculaste variaciones V(3, 12) considerando el orden de selección. -->
-- [ ] C) $36$ formas <!-- feedback: Incorrecto. Multiplicaste los candidatos por 3. -->
-- [ ] D) $232$ formas <!-- feedback: Incorrecto. Error operacional en la simplificación del factorial. -->
+- [x] D) $220$ formas <!-- feedback: ¡Correcto! C(12, 3) = 12! / (3!*(12-3)!) = 220. -->
+- [ ] A) $1320$ formas <!-- feedback: Incorrecto. Calculaste variaciones V(3, 12) considerando el orden de selección. -->
+- [ ] B) $36$ formas <!-- feedback: Incorrecto. Multiplicaste los candidatos por 3. -->
+- [ ] C) $232$ formas <!-- feedback: Incorrecto. Error operacional en la simplificación del factorial. -->
 
 ### Explicacion Pedagogica
 Al no importar el orden de elección de la comisión, se utiliza combinación: C(12, 3) = 12*11*10/(3*2*1) = 220 formas.
@@ -220,9 +220,9 @@ Al no importar el orden de elección de la comisión, se utiliza combinación: C
 ¿De cuántas formas distintas se puede elegir una comisión de $3$ integrantes entre $N = 14$ candidatos en Valparaíso si el orden no importa?
 
 ### Opciones
-- [x] A) $364$ formas <!-- feedback: ¡Correcto! C(14, 3) = 14! / (3!*(14-3)!) = 364. -->
-- [ ] B) $2184$ formas <!-- feedback: Incorrecto. Calculaste variaciones V(3, 14) considerando el orden de selección. -->
-- [ ] C) $42$ formas <!-- feedback: Incorrecto. Multiplicaste los candidatos por 3. -->
+- [x] C) $364$ formas <!-- feedback: ¡Correcto! C(14, 3) = 14! / (3!*(14-3)!) = 364. -->
+- [ ] A) $2184$ formas <!-- feedback: Incorrecto. Calculaste variaciones V(3, 14) considerando el orden de selección. -->
+- [ ] B) $42$ formas <!-- feedback: Incorrecto. Multiplicaste los candidatos por 3. -->
 - [ ] D) $376$ formas <!-- feedback: Incorrecto. Error operacional en la simplificación del factorial. -->
 
 ### Explicacion Pedagogica
@@ -239,8 +239,8 @@ Al no importar el orden de elección de la comisión, se utiliza combinación: C
 ¿De cuántas formas distintas se puede elegir una comisión de $3$ integrantes entre $N = 15$ candidatos en Concepción si el orden no importa?
 
 ### Opciones
-- [x] A) $455$ formas <!-- feedback: ¡Correcto! C(15, 3) = 15! / (3!*(15-3)!) = 455. -->
-- [ ] B) $2730$ formas <!-- feedback: Incorrecto. Calculaste variaciones V(3, 15) considerando el orden de selección. -->
+- [x] B) $455$ formas <!-- feedback: ¡Correcto! C(15, 3) = 15! / (3!*(15-3)!) = 455. -->
+- [ ] A) $2730$ formas <!-- feedback: Incorrecto. Calculaste variaciones V(3, 15) considerando el orden de selección. -->
 - [ ] C) $45$ formas <!-- feedback: Incorrecto. Multiplicaste los candidatos por 3. -->
 - [ ] D) $467$ formas <!-- feedback: Incorrecto. Error operacional en la simplificación del factorial. -->
 
@@ -258,8 +258,8 @@ Al no importar el orden de elección de la comisión, se utiliza combinación: C
 ¿De cuántas formas distintas se puede elegir una comisión de $3$ integrantes entre $N = 16$ candidatos en Antofagasta si el orden no importa?
 
 ### Opciones
-- [x] A) $560$ formas <!-- feedback: ¡Correcto! C(16, 3) = 16! / (3!*(16-3)!) = 560. -->
-- [ ] B) $3360$ formas <!-- feedback: Incorrecto. Calculaste variaciones V(3, 16) considerando el orden de selección. -->
+- [x] B) $560$ formas <!-- feedback: ¡Correcto! C(16, 3) = 16! / (3!*(16-3)!) = 560. -->
+- [ ] A) $3360$ formas <!-- feedback: Incorrecto. Calculaste variaciones V(3, 16) considerando el orden de selección. -->
 - [ ] C) $48$ formas <!-- feedback: Incorrecto. Multiplicaste los candidatos por 3. -->
 - [ ] D) $572$ formas <!-- feedback: Incorrecto. Error operacional en la simplificación del factorial. -->
 
@@ -277,9 +277,9 @@ Al no importar el orden de elección de la comisión, se utiliza combinación: C
 ¿De cuántas formas distintas se puede elegir una comisión de $3$ integrantes entre $N = 17$ candidatos en Temuco si el orden no importa?
 
 ### Opciones
-- [x] A) $680$ formas <!-- feedback: ¡Correcto! C(17, 3) = 17! / (3!*(17-3)!) = 680. -->
-- [ ] B) $4080$ formas <!-- feedback: Incorrecto. Calculaste variaciones V(3, 17) considerando el orden de selección. -->
-- [ ] C) $51$ formas <!-- feedback: Incorrecto. Multiplicaste los candidatos por 3. -->
+- [x] C) $680$ formas <!-- feedback: ¡Correcto! C(17, 3) = 17! / (3!*(17-3)!) = 680. -->
+- [ ] A) $4080$ formas <!-- feedback: Incorrecto. Calculaste variaciones V(3, 17) considerando el orden de selección. -->
+- [ ] B) $51$ formas <!-- feedback: Incorrecto. Multiplicaste los candidatos por 3. -->
 - [ ] D) $692$ formas <!-- feedback: Incorrecto. Error operacional en la simplificación del factorial. -->
 
 ### Explicacion Pedagogica
@@ -296,10 +296,10 @@ Al no importar el orden de elección de la comisión, se utiliza combinación: C
 ¿De cuántas formas distintas se puede elegir una comisión de $3$ integrantes entre $N = 18$ candidatos en La Serena si el orden no importa?
 
 ### Opciones
-- [x] A) $816$ formas <!-- feedback: ¡Correcto! C(18, 3) = 18! / (3!*(18-3)!) = 816. -->
-- [ ] B) $4896$ formas <!-- feedback: Incorrecto. Calculaste variaciones V(3, 18) considerando el orden de selección. -->
-- [ ] C) $54$ formas <!-- feedback: Incorrecto. Multiplicaste los candidatos por 3. -->
-- [ ] D) $828$ formas <!-- feedback: Incorrecto. Error operacional en la simplificación del factorial. -->
+- [x] D) $816$ formas <!-- feedback: ¡Correcto! C(18, 3) = 18! / (3!*(18-3)!) = 816. -->
+- [ ] A) $4896$ formas <!-- feedback: Incorrecto. Calculaste variaciones V(3, 18) considerando el orden de selección. -->
+- [ ] B) $54$ formas <!-- feedback: Incorrecto. Multiplicaste los candidatos por 3. -->
+- [ ] C) $828$ formas <!-- feedback: Incorrecto. Error operacional en la simplificación del factorial. -->
 
 ### Explicacion Pedagogica
 Al no importar el orden de elección de la comisión, se utiliza combinación: C(18, 3) = 18*17*16/(3*2*1) = 816 formas.
@@ -334,8 +334,8 @@ Al no importar el orden de elección de la comisión, se utiliza combinación: C
 ¿De cuántas formas distintas se puede elegir una comisión de $3$ integrantes entre $N = 20$ candidatos en Iquique si el orden no importa?
 
 ### Opciones
-- [x] A) $1140$ formas <!-- feedback: ¡Correcto! C(20, 3) = 20! / (3!*(20-3)!) = 1140. -->
-- [ ] B) $6840$ formas <!-- feedback: Incorrecto. Calculaste variaciones V(3, 20) considerando el orden de selección. -->
+- [x] B) $1140$ formas <!-- feedback: ¡Correcto! C(20, 3) = 20! / (3!*(20-3)!) = 1140. -->
+- [ ] A) $6840$ formas <!-- feedback: Incorrecto. Calculaste variaciones V(3, 20) considerando el orden de selección. -->
 - [ ] C) $60$ formas <!-- feedback: Incorrecto. Multiplicaste los candidatos por 3. -->
 - [ ] D) $1152$ formas <!-- feedback: Incorrecto. Error operacional en la simplificación del factorial. -->
 
@@ -353,9 +353,9 @@ Al no importar el orden de elección de la comisión, se utiliza combinación: C
 ¿De cuántas formas distintas se puede elegir una comisión de $3$ integrantes entre $N = 21$ candidatos en Rancagua si el orden no importa?
 
 ### Opciones
-- [x] A) $1330$ formas <!-- feedback: ¡Correcto! C(21, 3) = 21! / (3!*(21-3)!) = 1330. -->
-- [ ] B) $7980$ formas <!-- feedback: Incorrecto. Calculaste variaciones V(3, 21) considerando el orden de selección. -->
-- [ ] C) $63$ formas <!-- feedback: Incorrecto. Multiplicaste los candidatos por 3. -->
+- [x] C) $1330$ formas <!-- feedback: ¡Correcto! C(21, 3) = 21! / (3!*(21-3)!) = 1330. -->
+- [ ] A) $7980$ formas <!-- feedback: Incorrecto. Calculaste variaciones V(3, 21) considerando el orden de selección. -->
+- [ ] B) $63$ formas <!-- feedback: Incorrecto. Multiplicaste los candidatos por 3. -->
 - [ ] D) $1342$ formas <!-- feedback: Incorrecto. Error operacional en la simplificación del factorial. -->
 
 ### Explicacion Pedagogica
@@ -372,8 +372,8 @@ Al no importar el orden de elección de la comisión, se utiliza combinación: C
 ¿De cuántas formas distintas se puede elegir una comisión de $3$ integrantes entre $N = 22$ candidatos en Talca si el orden no importa?
 
 ### Opciones
-- [x] A) $1540$ formas <!-- feedback: ¡Correcto! C(22, 3) = 22! / (3!*(22-3)!) = 1540. -->
-- [ ] B) $9240$ formas <!-- feedback: Incorrecto. Calculaste variaciones V(3, 22) considerando el orden de selección. -->
+- [x] B) $1540$ formas <!-- feedback: ¡Correcto! C(22, 3) = 22! / (3!*(22-3)!) = 1540. -->
+- [ ] A) $9240$ formas <!-- feedback: Incorrecto. Calculaste variaciones V(3, 22) considerando el orden de selección. -->
 - [ ] C) $66$ formas <!-- feedback: Incorrecto. Multiplicaste los candidatos por 3. -->
 - [ ] D) $1552$ formas <!-- feedback: Incorrecto. Error operacional en la simplificación del factorial. -->
 

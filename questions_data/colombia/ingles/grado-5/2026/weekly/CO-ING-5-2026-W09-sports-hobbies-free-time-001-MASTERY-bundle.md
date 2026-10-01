@@ -34,13 +34,13 @@ Vocabulary and simple structures to talk about sports, hobbies and free-time act
 Which word in English names a sport you play with a ball and two teams?
 
 ### Opciones
-- [x] A) Soccer.
+- [x] D) Soccer.
   <!-- feedback: Soccer is a team sport played with a ball on a field. -->
-- [ ] B) Painting.
+- [ ] A) Painting.
   <!-- feedback: Painting is an artistic hobby; it does not use a ball or teams. -->
-- [ ] C) Reading.
+- [ ] B) Reading.
   <!-- feedback: Reading is a quiet hobby done with books, not a team sport. -->
-- [ ] D) Singing.
+- [ ] C) Singing.
   <!-- feedback: Singing is a musical activity, not a sport played with a ball. -->
 
 ### Explicacion Pedagogica
@@ -57,9 +57,9 @@ Recognizing the English word for a common team sport by matching it with its mea
 Why does Carlos go to the pool every Saturday?
 
 ### Opciones
-- [x] A) Because he likes swimming.
+- [x] B) Because he likes swimming.
   <!-- feedback: The text directly says that Carlos likes swimming and goes to the pool. -->
-- [ ] B) Because he likes painting.
+- [ ] A) Because he likes painting.
   <!-- feedback: The text mentions swimming, not painting, as Carlos's activity. -->
 - [ ] C) Because he plays the guitar.
   <!-- feedback: Playing the guitar is not mentioned in the passage. -->
@@ -80,13 +80,13 @@ Inferring the reason for a free-time activity from a short descriptive text in E
 Which sentence correctly describes Sofía's hobbies?
 
 ### Opciones
-- [x] A) Sofía rides her bike and listens to music in her free time.
+- [x] D) Sofía rides her bike and listens to music in her free time.
   <!-- feedback: The sentence repeats both activities that Sofía mentions in her answer. -->
-- [ ] B) Sofía rides her bike and paints pictures in her free time.
+- [ ] A) Sofía rides her bike and paints pictures in her free time.
   <!-- feedback: Painting is not mentioned; Sofía mentions listening to music instead. -->
-- [ ] C) Sofía plays chess and cooks in her free time.
+- [ ] B) Sofía plays chess and cooks in her free time.
   <!-- feedback: Chess and cooking do not appear in Sofía's answer. -->
-- [ ] D) Sofía sleeps and studies math in her free time.
+- [ ] C) Sofía sleeps and studies math in her free time.
   <!-- feedback: Sleeping and studying math are not part of Sofía's hobbies. -->
 
 ### Explicacion Pedagogica
@@ -126,13 +126,13 @@ Using the simple present with the third person singular to describe a routine ac
 Which hobby matches this description?
 
 ### Opciones
-- [x] A) Painting.
+- [x] D) Painting.
   <!-- feedback: Painting uses paper, colors and a brush to create pictures. -->
-- [ ] B) Running.
+- [ ] A) Running.
   <!-- feedback: Running is a physical sport and does not use paper or a brush. -->
-- [ ] C) Swimming.
+- [ ] B) Swimming.
   <!-- feedback: Swimming happens in water and uses no paper or colors. -->
-- [ ] D) Cycling.
+- [ ] C) Cycling.
   <!-- feedback: Cycling uses a bicycle and has nothing to do with paper or brushes. -->
 
 ### Explicacion Pedagogica
@@ -172,13 +172,13 @@ Analyzing a character's preferences to infer the most suitable free-time activit
 What does the comparison suggest about free-time activities?
 
 ### Opciones
-- [x] A) Active hobbies like volleyball can make people feel happier than sitting all afternoon.
+- [x] D) Active hobbies like volleyball can make people feel happier than sitting all afternoon.
   <!-- feedback: The text contrasts Valentina's active joy with Juan's boredom. -->
-- [ ] B) Watching television always makes people feel happy.
+- [ ] A) Watching television always makes people feel happy.
   <!-- feedback: In the text, Juan watches television and says he feels bored. -->
-- [ ] C) Volleyball is a boring activity for everyone.
+- [ ] B) Volleyball is a boring activity for everyone.
   <!-- feedback: The text shows Valentina feeling happy while playing volleyball. -->
-- [ ] D) Juan exercises more than Valentina.
+- [ ] C) Juan exercises more than Valentina.
   <!-- feedback: Juan watches television, so he is less active than Valentina. -->
 
 ### Explicacion Pedagogica
@@ -195,13 +195,13 @@ Interpreting the implied message of a comparison between two free-time habits in
 What is the main message of this text?
 
 ### Opciones
-- [x] A) Sports and hobbies are good for health, friendship and happiness.
+- [x] D) Sports and hobbies are good for health, friendship and happiness.
   <!-- feedback: The text links free-time activities with health, friends and well-being. -->
-- [ ] B) Children should only play soccer in their free time.
+- [ ] A) Children should only play soccer in their free time.
   <!-- feedback: The text lists several options, not only soccer. -->
-- [ ] C) Free time should always be spent sleeping.
+- [ ] B) Free time should always be spent sleeping.
   <!-- feedback: Sleeping is not mentioned as the only or main free-time activity. -->
-- [ ] D) Hobbies are bad for children's health.
+- [ ] C) Hobbies are bad for children's health.
   <!-- feedback: The text states the opposite: hobbies help children stay healthy. -->
 
 ### Explicacion Pedagogica

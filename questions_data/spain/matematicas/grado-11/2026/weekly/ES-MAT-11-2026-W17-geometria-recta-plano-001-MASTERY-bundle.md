@@ -30,8 +30,8 @@ En la ecuación vectorial de la recta $\vec{r} = \vec{A} + t \cdot \vec{v}$, ¿q
 
 ### Opciones
 - [ ] A) $\vec{A}$ es la pendiente y $\vec{v}$ es el punto de corte con el eje Y. <!-- feedback: La pendiente es un escalar, no un vector. -->
-- [x] B) $\vec{A}$ es un punto de la recta y $\vec{v}$ es el vector director que marca su dirección. <!-- feedback: Correcto. La recta se forma sumando al punto A múltiplos del vector director v. -->
-- [ ] C) $\vec{A}$ es el origen de coordenadas y $\vec{v}$ es la distancia al origen. <!-- feedback: A es cualquier punto de la recta, no necesariamente el origen. -->
+- [x] C) $\vec{A}$ es un punto de la recta y $\vec{v}$ es el vector director que marca su dirección. <!-- feedback: Correcto. La recta se forma sumando al punto A múltiplos del vector director v. -->
+- [ ] B) $\vec{A}$ es el origen de coordenadas y $\vec{v}$ es la distancia al origen. <!-- feedback: A es cualquier punto de la recta, no necesariamente el origen. -->
 - [ ] D) Ambos son vectores directores de la recta. <!-- feedback: Una recta en el plano solo necesita un vector director. -->
 
 ### Explicacion Pedagogica
@@ -51,9 +51,9 @@ Si una recta tiene como vector director $\vec{v} = (v_1, v_2)$, ¿cuál es la f�
 
 ### Opciones
 - [ ] A) $m = v_1 / v_2$ <!-- feedback: La pendiente es la variación de Y dividida por la variación de X. -->
-- [x] B) $m = v_2 / v_1$ <!-- feedback: Correcto. La pendiente representa cuánto sube o baja la recta por cada unidad que avanza en el eje X. -->
-- [ ] C) $m = v_1 \cdot v_2$ <!-- feedback: El producto de coordenadas no define la pendiente. -->
-- [ ] D) $m = \sqrt{v_1^2 + v_2^2}$ <!-- feedback: Este es el módulo del vector director, no la pendiente. -->
+- [x] D) $m = v_2 / v_1$ <!-- feedback: Correcto. La pendiente representa cuánto sube o baja la recta por cada unidad que avanza en el eje X. -->
+- [ ] B) $m = v_1 \cdot v_2$ <!-- feedback: El producto de coordenadas no define la pendiente. -->
+- [ ] C) $m = \sqrt{v_1^2 + v_2^2}$ <!-- feedback: Este es el módulo del vector director, no la pendiente. -->
 
 ### Explicacion Pedagogica
 La pendiente $m$ es la tangente del ángulo que forma la recta con el eje X positivo. En términos de componentes del vector director, es la componente vertical dividida por la horizontal.
@@ -71,8 +71,8 @@ La pendiente $m$ es la tangente del ángulo que forma la recta con el eje X posi
 ¿Cuál es la forma estándar de la ecuación general de una recta en el plano?
 
 ### Opciones
-- [ ] A) $y = mx + n$ <!-- feedback: Esta es la ecuación explícita. -->
-- [x] B) $Ax + By + C = 0$ <!-- feedback: Correcto. Es la forma donde todos los términos están en un lado de la igualdad. -->
+- [ ] B) $y = mx + n$ <!-- feedback: Esta es la ecuación explícita. -->
+- [x] A) $Ax + By + C = 0$ <!-- feedback: Correcto. Es la forma donde todos los términos están en un lado de la igualdad. -->
 - [ ] C) $(x-a)/v_1 = (y-b)/v_2$ <!-- feedback: Esta es la ecuación continua. -->
 - [ ] D) $x^2 + y^2 = R^2$ <!-- feedback: Esta es la ecuación de una circunferencia. -->
 
@@ -93,8 +93,8 @@ Dada la recta $3x - 4y + 5 = 0$, ¿cuál es un vector normal (perpendicular) a d
 
 ### Opciones
 - [ ] A) $(4, 3)$ <!-- feedback: Este sería un vector director de la recta. -->
-- [x] B) $(3, -4)$ <!-- feedback: Correcto. En la ecuación $Ax + By + C = 0$, el vector $\vec{n} = (A, B)$ es siempre perpendicular a la recta. -->
-- [ ] C) $(-3, 4)$ <!-- feedback: También es un vector normal, pero la opción B usa directamente los coeficientes A y B. -->
+- [x] C) $(3, -4)$ <!-- feedback: Correcto. En la ecuación $Ax + By + C = 0$, el vector $\vec{n} = (A, B)$ es siempre perpendicular a la recta. -->
+- [ ] B) $(-3, 4)$ <!-- feedback: También es un vector normal, pero la opción B usa directamente los coeficientes A y B. -->
 - [ ] D) $(3, 4)$ <!-- feedback: Error de signo en la componente Y. -->
 
 ### Explicacion Pedagogica
@@ -219,8 +219,8 @@ Hallar la intersección de dos rectas equivale a resolver el sistema de ecuacion
 
 ### Opciones
 - [ ] A) 15 unidades <!-- feedback: Error al no dividir por el módulo del vector normal. -->
-- [x] B) 3 unidades <!-- feedback: Correcto. $d = |3(1) + 4(2) + 4| / \sqrt{3^2+4^2} = |3+8+4|/5 = 15/5 = 3$. -->
-- [ ] C) 5 unidades <!-- feedback: Cálculo incorrecto del numerador. -->
+- [x] C) 3 unidades <!-- feedback: Correcto. $d = |3(1) + 4(2) + 4| / \sqrt{3^2+4^2} = |3+8+4|/5 = 15/5 = 3$. -->
+- [ ] B) 5 unidades <!-- feedback: Cálculo incorrecto del numerador. -->
 - [ ] D) 1 unidad <!-- feedback: Resultado incorrecto. -->
 
 ### Explicacion Pedagogica
@@ -240,8 +240,8 @@ La distancia de un punto a una recta se obtiene sustituyendo las coordenadas del
 
 ### Opciones
 - [ ] A) 5 <!-- feedback: Valor incorrecto. -->
-- [x] B) 1 <!-- feedback: Correcto. $\tan(\alpha) = |(m_2 - m_1) / (1 + m_1 \cdot m_2)| = |(-3 - 2) / (1 + 2 \cdot (-3))| = |-5 / -5| = 1$. -->
-- [ ] C) 0 <!-- feedback: Las rectas no son paralelas. -->
+- [x] C) 1 <!-- feedback: Correcto. $\tan(\alpha) = |(m_2 - m_1) / (1 + m_1 \cdot m_2)| = |(-3 - 2) / (1 + 2 \cdot (-3))| = |-5 / -5| = 1$. -->
+- [ ] B) 0 <!-- feedback: Las rectas no son paralelas. -->
 - [ ] D) Infinito <!-- feedback: Las rectas no son perpendiculares. -->
 
 ### Explicacion Pedagogica
@@ -260,8 +260,8 @@ El ángulo entre dos rectas depende solo de sus pendientes. Una tangente igual a
 ¿Qué propiedad define a la recta mediatriz de un segmento?
 
 ### Opciones
-- [ ] A) Es la recta que pasa por A y B. <!-- feedback: Esa es la recta que contiene al segmento. -->
-- [x] B) Es la recta perpendicular al segmento que pasa por su punto medio. <!-- feedback: Correcto. Es el lugar geométrico de los puntos que equidistan de los extremos. -->
+- [ ] B) Es la recta que pasa por A y B. <!-- feedback: Esa es la recta que contiene al segmento. -->
+- [x] A) Es la recta perpendicular al segmento que pasa por su punto medio. <!-- feedback: Correcto. Es el lugar geométrico de los puntos que equidistan de los extremos. -->
 - [ ] C) Es la recta que biseca el ángulo entre los ejes. <!-- feedback: No depende de los ejes. -->
 - [ ] D) Es una recta paralela al segmento a una distancia fija. <!-- feedback: La mediatriz es siempre perpendicular. -->
 
@@ -324,8 +324,8 @@ Un haz de rectas paralelas se define por tener la misma pendiente $m$. Solo var�
 
 ### Opciones
 - [ ] A) Es una recta horizontal (paralela al eje X). <!-- feedback: Sería horizontal si A fuera cero. -->
-- [x] B) Es una recta vertical (paralela al eje Y). <!-- feedback: Correcto. Al no depender de y, representa todos los puntos con una x fija. -->
-- [ ] C) Pasa necesariamente por el origen. <!-- feedback: Solo si C es también cero. -->
+- [x] C) Es una recta vertical (paralela al eje Y). <!-- feedback: Correcto. Al no depender de y, representa todos los puntos con una x fija. -->
+- [ ] B) Pasa necesariamente por el origen. <!-- feedback: Solo si C es también cero. -->
 - [ ] D) Es la bisectriz del primer cuadrante. <!-- feedback: Esa recta es $x - y = 0$. -->
 
 ### Explicacion Pedagogica
@@ -344,8 +344,8 @@ Cuando falta una de las variables en la ecuación general, la recta es paralela 
 ¿Cuál es el área de dicho triángulo?
 
 ### Opciones
-- [ ] A) 4 unidades cuadradas <!-- feedback: Error de cálculo. -->
-- [x] B) 8 unidades cuadradas <!-- feedback: Correcto. Cortes: $(4, 0)$ y $(0, 4)$. Base = 4, Altura = 4. Área = $(4 \cdot 4) / 2 = 8$. -->
+- [ ] B) 4 unidades cuadradas <!-- feedback: Error de cálculo. -->
+- [x] A) 8 unidades cuadradas <!-- feedback: Correcto. Cortes: $(4, 0)$ y $(0, 4)$. Base = 4, Altura = 4. Área = $(4 \cdot 4) / 2 = 8$. -->
 - [ ] C) 16 unidades cuadradas <!-- feedback: Olvido de dividir entre 2 en la fórmula del área. -->
 - [ ] D) 2 unidades cuadradas <!-- feedback: Cálculo incorrecto. -->
 
@@ -365,10 +365,10 @@ Para hallar el área con los ejes, buscamos los puntos de corte igualando altern
 ¿Cuál es el punto de la recta más cercano a $P$?
 
 ### Opciones
-- [x] A) $(5, 5)$ <!-- feedback: Correcto. El punto P ya pertenece a la recta (5=5), por lo que su proyección es él mismo y la distancia es cero. -->
-- [ ] B) $(0, 0)$ <!-- feedback: No es el punto más cercano. -->
-- [ ] C) $(2.5, 2.5)$ <!-- feedback: No es la proyección. -->
-- [ ] D) $(5, 0)$ <!-- feedback: Este punto no pertenece a la recta r. -->
+- [x] D) $(5, 5)$ <!-- feedback: Correcto. El punto P ya pertenece a la recta (5=5), por lo que su proyección es él mismo y la distancia es cero. -->
+- [ ] A) $(0, 0)$ <!-- feedback: No es el punto más cercano. -->
+- [ ] B) $(2.5, 2.5)$ <!-- feedback: No es la proyección. -->
+- [ ] C) $(5, 0)$ <!-- feedback: Este punto no pertenece a la recta r. -->
 
 ### Explicacion Pedagogica
 Si un punto pertenece a la recta, todas las operaciones de proyección y distancia mínima se simplifican, ya que el punto es su propia proyección.
@@ -387,9 +387,9 @@ Si un punto pertenece a la recta, todas las operaciones de proyección y distanc
 
 ### Opciones
 - [ ] A) $(1, 4)$ <!-- feedback: Este es el punto de la recta, no el simétrico. -->
-- [x] B) $(1, 6)$ <!-- feedback: Correcto. La distancia de A a la recta es 2 unidades hacia arriba. El simétrico está 2 unidades más arriba del espejo: $4 + 2 = 6$. -->
-- [ ] C) $(3, 2)$ <!-- feedback: La simetría es respecto a una recta horizontal, solo cambia la coordenada Y. -->
-- [ ] D) $(1, -2)$ <!-- feedback: Simetría incorrecta. -->
+- [x] D) $(1, 6)$ <!-- feedback: Correcto. La distancia de A a la recta es 2 unidades hacia arriba. El simétrico está 2 unidades más arriba del espejo: $4 + 2 = 6$. -->
+- [ ] B) $(3, 2)$ <!-- feedback: La simetría es respecto a una recta horizontal, solo cambia la coordenada Y. -->
+- [ ] C) $(1, -2)$ <!-- feedback: Simetría incorrecta. -->
 
 ### Explicacion Pedagogica
 El punto medio entre un punto y su simétrico debe caer exactamente sobre el eje de simetría (la recta). Usamos la fórmula del punto medio para despejar las coordenadas de $A'$.
@@ -408,8 +408,8 @@ El punto medio entre un punto y su simétrico debe caer exactamente sobre el eje
 
 ### Opciones
 - [ ] A) 10 unidades <!-- feedback: Falta dividir por el módulo del vector normal. -->
-- [x] B) 2 unidades <!-- feedback: Correcto. $d = |C' - C| / \sqrt{A^2+B^2} = |11 - 1| / \sqrt{3^2+(-4)^2} = 10 / 5 = 2$. -->
-- [ ] C) 0 unidades <!-- feedback: Las rectas no son coincidentes. -->
+- [x] C) 2 unidades <!-- feedback: Correcto. $d = |C' - C| / \sqrt{A^2+B^2} = |11 - 1| / \sqrt{3^2+(-4)^2} = 10 / 5 = 2$. -->
+- [ ] B) 0 unidades <!-- feedback: Las rectas no son coincidentes. -->
 - [ ] D) 5 unidades <!-- feedback: Cálculo incorrecto. -->
 
 ### Explicacion Pedagogica

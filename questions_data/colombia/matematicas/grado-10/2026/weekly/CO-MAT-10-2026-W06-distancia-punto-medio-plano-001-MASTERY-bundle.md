@@ -32,13 +32,13 @@ Este bundle contiene 12 preguntas sobre **distancia-punto-medio-plano** para gra
 ### Enunciado
 ¿Cuál es la fórmula de la distancia entre los puntos $P_1(x_1, y_1)$ y $P_2(x_2, y_2)$?
 ### Opciones
-- [x] A) $d = \sqrt{(x_2 - x_1)^2 + (y_2 - y_1)^2}$
+- [x] D) $d = \sqrt{(x_2 - x_1)^2 + (y_2 - y_1)^2}$
   <!-- feedback: Correcto. Es la aplicación del teorema de Pitágoras a la diferencia de coordenadas. -->
-- [ ] B) $d = (x_2 - x_1) + (y_2 - y_1)$
+- [ ] A) $d = (x_2 - x_1) + (y_2 - y_1)$
   <!-- feedback: Incorrecto. La distancia no es una suma lineal de diferencias. -->
-- [ ] C) $d = \sqrt{(x_2 - x_1)^2 - (y_2 - y_1)^2}$
+- [ ] B) $d = \sqrt{(x_2 - x_1)^2 - (y_2 - y_1)^2}$
   <!-- feedback: Incorrecto. Ambas diferencias se elevan al cuadrado y se suman. -->
-- [ ] D) $d = \frac{(x_2 - x_1) + (y_2 - y_1)}{2}$
+- [ ] C) $d = \frac{(x_2 - x_1) + (y_2 - y_1)}{2}$
   <!-- feedback: Incorrecto. Esa expresión se relaciona con el punto medio, no con la distancia. -->
 ### Explicacion Pedagogica
 La distancia entre dos puntos es $d = \sqrt{(x_2 - x_1)^2 + (y_2 - y_1)^2}$, consecuencia directa del teorema de Pitágoras.
@@ -52,11 +52,11 @@ La distancia entre dos puntos es $d = \sqrt{(x_2 - x_1)^2 + (y_2 - y_1)^2}$, con
 ### Enunciado
 ¿Cuál es la fórmula del punto medio $M$ del segmento $AB$?
 ### Opciones
-- [x] A) $M = \left( \frac{x_1 + x_2}{2}, \frac{y_1 + y_2}{2} \right)$
+- [x] C) $M = \left( \frac{x_1 + x_2}{2}, \frac{y_1 + y_2}{2} \right)$
   <!-- feedback: Correcto. El punto medio promedia las coordenadas de los extremos. -->
-- [ ] B) $M = (x_1 + x_2, y_1 + y_2)$
+- [ ] A) $M = (x_1 + x_2, y_1 + y_2)$
   <!-- feedback: Incorrecto. Falta dividir cada suma entre $2$. -->
-- [ ] C) $M = \left( \frac{x_2 - x_1}{2}, \frac{y_2 - y_1}{2} \right)$
+- [ ] B) $M = \left( \frac{x_2 - x_1}{2}, \frac{y_2 - y_1}{2} \right)$
   <!-- feedback: Incorrecto. Se promedian las coordenadas, no se restan. -->
 - [ ] D) $M = \left( \sqrt{x_1^2 + y_1^2}, \sqrt{x_2^2 + y_2^2} \right)$
   <!-- feedback: Incorrecto. Esa expresión no corresponde al punto medio. -->
@@ -72,9 +72,9 @@ El punto medio es $M = \left( \frac{x_1 + x_2}{2}, \frac{y_1 + y_2}{2} \right)$,
 ### Enunciado
 ¿Cuál es la distancia entre el origen y el punto $(3, 4)$?
 ### Opciones
-- [x] A) $5$ unidades
+- [x] B) $5$ unidades
   <!-- feedback: Correcto. $d = \sqrt{3^2 + 4^2} = \sqrt{25} = 5$. Es una terna pitagórica. -->
-- [ ] B) $7$ unidades
+- [ ] A) $7$ unidades
   <!-- feedback: Incorrecto. Sumaste las coordenadas en vez de aplicar Pitágoras. -->
 - [ ] C) $12$ unidades
   <!-- feedback: Incorrecto. Multiplicaste las coordenadas. -->
@@ -92,9 +92,9 @@ $d = \sqrt{(3-0)^2 + (4-0)^2} = \sqrt{9 + 16} = \sqrt{25} = 5$ unidades.
 ### Enunciado
 ¿Cuál es la distancia entre $A$ y $B$?
 ### Opciones
-- [x] A) $5$ unidades
+- [x] B) $5$ unidades
   <!-- feedback: Correcto. $d = \sqrt{(4-1)^2 + (6-2)^2} = \sqrt{9 + 16} = 5$. -->
-- [ ] B) $7$ unidades
+- [ ] A) $7$ unidades
   <!-- feedback: Incorrecto. Sumaste las diferencias sin elevar al cuadrado. -->
 - [ ] C) $\sqrt{34}$ unidades
   <!-- feedback: Incorrecto. Confundiste las diferencias de coordenadas. -->
@@ -112,11 +112,11 @@ $d = \sqrt{(4-1)^2 + (6-2)^2} = \sqrt{3^2 + 4^2} = \sqrt{25} = 5$ unidades.
 ### Enunciado
 ¿Cuál es el punto medio del segmento $CD$?
 ### Opciones
-- [x] A) $(5, 1)$
+- [x] C) $(5, 1)$
   <!-- feedback: Correcto. $M = \left( \frac{2+8}{2}, \frac{-3+5}{2} \right) = (5, 1)$. -->
-- [ ] B) $(6, 2)$
+- [ ] A) $(6, 2)$
   <!-- feedback: Incorrecto. Confundiste el promedio de las coordenadas. -->
-- [ ] C) $(10, 2)$
+- [ ] B) $(10, 2)$
   <!-- feedback: Incorrecto. No dividiste entre $2$. -->
 - [ ] D) $(3, 4)$
   <!-- feedback: Incorrecto. Sumaste de forma incorrecta las coordenadas. -->
@@ -152,11 +152,11 @@ Los puntos tienen la misma ordenada, así que el punto equidistante del eje $x$ 
 ### Enunciado
 ¿Qué tipo de triángulo forman los puntos?
 ### Opciones
-- [x] A) Triángulo isósceles.
+- [x] C) Triángulo isósceles.
   <!-- feedback: Correcto. $AB = 6$, $AC = \sqrt{3^2+4^2} = 5$ y $BC = \sqrt{3^2+4^2} = 5$; dos lados iguales. -->
-- [ ] B) Triángulo equilátero.
+- [ ] A) Triángulo equilátero.
   <!-- feedback: Incorrecto. $AB = 6$, pero los otros lados miden $5$. -->
-- [ ] C) Triángulo rectángulo.
+- [ ] B) Triángulo rectángulo.
   <!-- feedback: Incorrecto. $6^2 \neq 5^2 + 5^2$. -->
 - [ ] D) Triángulo escaleno.
   <!-- feedback: Incorrecto. Hay dos lados de igual longitud. -->
@@ -172,9 +172,9 @@ $AB = 6$, $AC = \sqrt{(3)^2 + (4)^2} = 5$ y $BC = \sqrt{(3)^2 + (-4)^2} = 5$. Co
 ### Enunciado
 ¿Cuál es el perímetro del cuadrilátero?
 ### Opciones
-- [x] A) $14$ unidades
+- [x] B) $14$ unidades
   <!-- feedback: Correcto. $AB = 4$, $BC = 3$, $CD = 4$ y $DA = 3$; el perímetro es $4+3+4+3 = 14$. -->
-- [ ] B) $12$ unidades
+- [ ] A) $12$ unidades
   <!-- feedback: Incorrecto. Sumaste mal los lados. -->
 - [ ] C) $16$ unidades
   <!-- feedback: Incorrecto. Contaste un lado de más. -->
@@ -212,13 +212,13 @@ De $\frac{-2 + x}{2} = 3$ se obtiene $x = 8$, y de $\frac{5 + y}{2} = 1$ se obti
 ### Enunciado
 ¿Cuál es el valor de $k$?
 ### Opciones
-- [x] A) $k = -3$ o $k = 5$
+- [x] D) $k = -3$ o $k = 5$
   <!-- feedback: Correcto. $25 = 9 + (k-1)^2$, luego $(k-1)^2 = 16$, $k = 5$ o $k = -3$. -->
-- [ ] B) $k = 3$ o $k = -5$
+- [ ] A) $k = 3$ o $k = -5$
   <!-- feedback: Incorrecto. Invertiste los signos al despejar. -->
-- [ ] C) Solo $k = 5$
+- [ ] B) Solo $k = 5$
   <!-- feedback: Incorrecto. La ecuación cuadrática tiene dos soluciones. -->
-- [ ] D) Solo $k = -3$
+- [ ] C) Solo $k = -3$
   <!-- feedback: Incorrecto. La ecuación cuadrática tiene dos soluciones. -->
 ### Explicacion Pedagogica
 $5 = \sqrt{(6-3)^2 + (1-k)^2}$ implica $25 = 9 + (k-1)^2$, es decir $(k-1)^2 = 16$, con soluciones $k = 5$ y $k = -3$.
@@ -232,11 +232,11 @@ $5 = \sqrt{(6-3)^2 + (1-k)^2}$ implica $25 = 9 + (k-1)^2$, es decir $(k-1)^2 = 1
 ### Enunciado
 ¿Cuál es la conclusión correcta?
 ### Opciones
-- [x] A) Sí son colineales, pues $AB + BC = AC$.
+- [x] C) Sí son colineales, pues $AB + BC = AC$.
   <!-- feedback: Correcto. $AB = 5$, $BC = 5$ y $AC = 10$; la suma de los primeros es igual a la distancia total. -->
-- [ ] B) No son colineales.
+- [ ] A) No son colineales.
   <!-- feedback: Incorrecto. Las distancias satisfacen la igualdad $AB + BC = AC$. -->
-- [ ] C) Forman un triángulo rectángulo.
+- [ ] B) Forman un triángulo rectángulo.
   <!-- feedback: Incorrecto. Al ser colineales no forman un triángulo. -->
 - [ ] D) Forman un triángulo isósceles.
   <!-- feedback: Incorrecto. No forman triángulo alguno. -->
@@ -252,11 +252,11 @@ $AB = \sqrt{3^2 + 4^2} = 5$, $BC = \sqrt{3^2 + 4^2} = 5$ y $AC = \sqrt{6^2 + 8^2
 ### Enunciado
 ¿Cuál es la longitud de la mediana trazada desde el vértice $C$ hasta el lado $AB$?
 ### Opciones
-- [x] A) $4$ unidades
+- [x] C) $4$ unidades
   <!-- feedback: Correcto. El punto medio de $AB$ es $(5, 3)$ y la distancia de $C(5, 7)$ a ese punto es $\sqrt{(5-5)^2 + (7-3)^2} = 4$. -->
-- [ ] B) $5$ unidades
+- [ ] A) $5$ unidades
   <!-- feedback: Incorrecto. Ese es el valor de los lados $CA$ y $CB$, no de la mediana. -->
-- [ ] C) $3$ unidades
+- [ ] B) $3$ unidades
   <!-- feedback: Incorrecto. Subestimaste la longitud. -->
 - [ ] D) $6$ unidades
   <!-- feedback: Incorrecto. Sobrestimaste la longitud. -->

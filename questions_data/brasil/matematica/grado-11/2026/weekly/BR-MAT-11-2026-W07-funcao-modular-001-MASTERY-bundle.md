@@ -49,8 +49,8 @@ O módulo de um número representa sua distância até a origem na reta numéric
 Qual é o valor da expressão $| -7 | + | 3 | - | -2 |$?
 
 ### Opciones
-- [ ] A) 12 <!-- feedback: Erro de sinal na última operação. -->
-- [x] B) 8 <!-- feedback: 7 + 3 - 2 = 8. -->
+- [ ] B) 12 <!-- feedback: Erro de sinal na última operação. -->
+- [x] A) 8 <!-- feedback: 7 + 3 - 2 = 8. -->
 - [ ] C) 4 <!-- feedback: Erro no cálculo dos módulos individuais. -->
 - [ ] D) -6 <!-- feedback: O resultado de uma soma de módulos (com sinal de menos fora) pode ser negativo, mas aqui o cálculo dá 8. -->
 
@@ -87,8 +87,8 @@ A função modular $f(x) = |x|$ é uma função definida por duas sentenças. Pa
 Qual é o conjunto imagem da função modular $f(x) = |x|$ definida para todo $x$ real?
 
 ### Opciones
-- [ ] A) $\mathbb{R}$ <!-- feedback: O módulo nunca resulta em números negativos. -->
-- [x] B) $[0, +\infty)$ <!-- feedback: Correto. O valor absoluto é sempre maior ou igual a zero. -->
+- [ ] B) $\mathbb{R}$ <!-- feedback: O módulo nunca resulta em números negativos. -->
+- [x] A) $[0, +\infty)$ <!-- feedback: Correto. O valor absoluto é sempre maior ou igual a zero. -->
 - [ ] C) $(0, +\infty)$ <!-- feedback: A imagem inclui o zero, pois |0| = 0. -->
 - [ ] D) $(-\infty, 0]$ <!-- feedback: Esta seria a imagem da função f(x) = -|x|. -->
 
@@ -107,8 +107,8 @@ Resolva a equação modular: $|x - 5| = 3$.
 
 ### Opciones
 - [ ] A) $x = 8$ apenas. <!-- feedback: Existe outra solução onde o conteúdo do módulo é negativo. -->
-- [x] B) $x = 8$ ou $x = 2$. <!-- feedback: x - 5 = 3 => x = 8; ou x - 5 = -3 => x = 2. -->
-- [ ] C) $x = 8$ ou $x = -2$. <!-- feedback: Se x = -2, |-2 - 5| = |-7| = 7 ≠ 3. -->
+- [x] C) $x = 8$ ou $x = 2$. <!-- feedback: x - 5 = 3 => x = 8; ou x - 5 = -3 => x = 2. -->
+- [ ] B) $x = 8$ ou $x = -2$. <!-- feedback: Se x = -2, |-2 - 5| = |-7| = 7 ≠ 3. -->
 - [ ] D) $x = 3$ ou $x = -3$. <!-- feedback: Estas seriam as soluções de |x| = 3. -->
 
 ### Explicacion Pedagogica
@@ -125,8 +125,8 @@ Uma equação do tipo $|u| = a$ (com $a > 0$) desdobra-se em duas possibilidades
 Dada a função $f(x) = |x| + 2$, qual é o valor mínimo que esta função assume?
 
 ### Opciones
-- [ ] A) 0 <!-- feedback: O valor mínimo do módulo é 0, mas somamos 2 a ele. -->
-- [x] B) 2 <!-- feedback: Como |x| ≥ 0, então |x| + 2 ≥ 2. O mínimo ocorre quando x = 0. -->
+- [ ] B) 0 <!-- feedback: O valor mínimo do módulo é 0, mas somamos 2 a ele. -->
+- [x] A) 2 <!-- feedback: Como |x| ≥ 0, então |x| + 2 ≥ 2. O mínimo ocorre quando x = 0. -->
 - [ ] C) -2 <!-- feedback: A função nunca assume valores negativos. -->
 - [ ] D) A função não possui valor mínimo. <!-- feedback: Como o gráfico é um "V" que abre para cima, ele possui um ponto mais baixo. -->
 
@@ -164,9 +164,9 @@ A distância entre dois números reais $a$ e $b$ é dada por $|a - b|$. Qual é 
 
 ### Opciones
 - [ ] A) 7 <!-- feedback: Erro ao subtrair os valores sem considerar o sinal negativo do 15. -->
-- [x] B) 23 <!-- feedback: |-15 - 8| = |-23| = 23. -->
-- [ ] C) -23 <!-- feedback: Distância é sempre uma grandeza positiva. -->
-- [ ] D) 15 <!-- feedback: Incorreto. -->
+- [x] D) 23 <!-- feedback: |-15 - 8| = |-23| = 23. -->
+- [ ] B) -23 <!-- feedback: Distância é sempre uma grandeza positiva. -->
+- [ ] C) 15 <!-- feedback: Incorreto. -->
 
 ### Explicacion Pedagogica
 Aplicamos a fórmula da distância: $|-15 - 8| = |-23|$. O valor absoluto de $-23$ é $23$.
@@ -183,9 +183,9 @@ Determine os valores de $x$ que satisfazem a equação $|2x| = 10$.
 
 ### Opciones
 - [ ] A) $x = 5$ apenas. <!-- feedback: Faltou a solução negativa. -->
-- [x] B) $x = 5$ ou $x = -5$. <!-- feedback: 2x = 10 => x = 5; ou 2x = -10 => x = -5. -->
-- [ ] C) $x = 10$ ou $x = -10$. <!-- feedback: Esqueceu de dividir pelo coeficiente 2. -->
-- [ ] D) $x = 20$ ou $x = -20$. <!-- feedback: Operação incorreta. -->
+- [x] D) $x = 5$ ou $x = -5$. <!-- feedback: 2x = 10 => x = 5; ou 2x = -10 => x = -5. -->
+- [ ] B) $x = 10$ ou $x = -10$. <!-- feedback: Esqueceu de dividir pelo coeficiente 2. -->
+- [ ] C) $x = 20$ ou $x = -20$. <!-- feedback: Operação incorreta. -->
 
 ### Explicacion Pedagogica
 Temos duas possibilidades: $2x = 10$, o que nos dá $x = 5$; ou $2x = -10$, o que nos dá $x = -5$.
@@ -202,9 +202,9 @@ Qual é o vértice da função $f(x) = |x + 3|$?
 
 ### Opciones
 - [ ] A) $(3, 0)$ <!-- feedback: Para o vértice estar em 3, a função deveria ser |x - 3|. -->
-- [x] B) $(-3, 0)$ <!-- feedback: O "V" toca o eixo x quando x + 3 = 0, ou seja, x = -3. -->
-- [ ] C) $(0, 3)$ <!-- feedback: Este é o intercepto y da função. -->
-- [ ] D) $(0, -3)$ <!-- feedback: Incorreto. -->
+- [x] D) $(-3, 0)$ <!-- feedback: O "V" toca o eixo x quando x + 3 = 0, ou seja, x = -3. -->
+- [ ] B) $(0, 3)$ <!-- feedback: Este é o intercepto y da função. -->
+- [ ] C) $(0, -3)$ <!-- feedback: Incorreto. -->
 
 ### Explicacion Pedagogica
 O vértice de uma função modular do tipo $|x - h|$ ocorre no ponto onde o argumento é zero. Resolvendo $x + 3 = 0$, encontramos $x = -3$. Como não há deslocamento vertical, o vértice é $(-3, 0)$.
@@ -221,9 +221,9 @@ Qual é o conjunto solução da inequação modular $|x - 2| \leq 4$?
 
 ### Opciones
 - [ ] A) $x \leq 6$ <!-- feedback: Incompleto. A inequação modular também impõe um limite inferior. -->
-- [x] B) $-2 \leq x \leq 6$ <!-- feedback: -4 ≤ x - 2 ≤ 4. Somando 2 em todos os termos: -2 ≤ x ≤ 6. -->
-- [ ] C) $2 \leq x \leq 4$ <!-- feedback: Cálculo incorreto dos limites do intervalo. -->
-- [ ] D) $x \leq -2$ ou $x \geq 6$ <!-- feedback: Esta seria a solução para |x - 2| ≥ 4. -->
+- [x] D) $-2 \leq x \leq 6$ <!-- feedback: -4 ≤ x - 2 ≤ 4. Somando 2 em todos os termos: -2 ≤ x ≤ 6. -->
+- [ ] B) $2 \leq x \leq 4$ <!-- feedback: Cálculo incorreto dos limites do intervalo. -->
+- [ ] C) $x \leq -2$ ou $x \geq 6$ <!-- feedback: Esta seria a solução para |x - 2| ≥ 4. -->
 
 ### Explicacion Pedagogica
 A inequação $|u| \leq a$ equivale a $-a \leq u \leq a$. Portanto, $-4 \leq x - 2 \leq 4$. Somando 2 em todas as partes da desigualdade, obtemos $-2 \leq x \leq 6$.
@@ -240,9 +240,9 @@ Quantos pontos de interseção com o eixo $x$ possui a função $f(x) = |x^2 - 4
 
 ### Opciones
 - [ ] A) 1 <!-- feedback: A função x²-4 possui duas raízes distintas. -->
-- [x] B) 2 <!-- feedback: As raízes ocorrem onde o conteúdo do módulo é zero: x² - 4 = 0 => x = ±2. -->
-- [ ] C) 4 <!-- feedback: O módulo apenas reflete a parte negativa para cima, não cria novas raízes. -->
-- [ ] D) Nenhum <!-- feedback: A função toca o eixo x nos pontos onde x² - 4 = 0. -->
+- [x] D) 2 <!-- feedback: As raízes ocorrem onde o conteúdo do módulo é zero: x² - 4 = 0 => x = ±2. -->
+- [ ] B) 4 <!-- feedback: O módulo apenas reflete a parte negativa para cima, não cria novas raízes. -->
+- [ ] C) Nenhum <!-- feedback: A função toca o eixo x nos pontos onde x² - 4 = 0. -->
 
 ### Explicacion Pedagogica
 Os zeros da função $f(x) = |g(x)|$ são os mesmos zeros da função $g(x)$. Como $x^2 - 4 = 0$ resulta em $x = 2$ e $x = -2$, a função modular possui 2 interseções com o eixo das abscissas.
@@ -258,10 +258,10 @@ Os zeros da função $f(x) = |g(x)|$ são os mesmos zeros da função $g(x)$. Co
 Sobre a paridade da função $f(x) = |x|$, é correto afirmar que:
 
 ### Opciones
-- [x] A) É uma função par. <!-- feedback: f(-x) = |-x| = |x| = f(x). Simetria em relação ao eixo y. -->
-- [ ] B) É uma função ímpar. <!-- feedback: f(-x) não é igual a -f(x). |-x| ≠ -|x| para x ≠ 0. -->
-- [ ] C) Não possui paridade definida. <!-- feedback: Ela satisfaz a condição de função par. -->
-- [ ] D) É par e ímpar ao mesmo tempo. <!-- feedback: A única função que é par e ímpar simultaneamente é a função nula f(x) = 0. -->
+- [x] D) É uma função par. <!-- feedback: f(-x) = |-x| = |x| = f(x). Simetria em relação ao eixo y. -->
+- [ ] A) É uma função ímpar. <!-- feedback: f(-x) não é igual a -f(x). |-x| ≠ -|x| para x ≠ 0. -->
+- [ ] B) Não possui paridade definida. <!-- feedback: Ela satisfaz a condição de função par. -->
+- [ ] C) É par e ímpar ao mesmo tempo. <!-- feedback: A única função que é par e ímpar simultaneamente é a função nula f(x) = 0. -->
 
 ### Explicacion Pedagogica
 Uma função é par se $f(x) = f(-x)$ para todo $x$. Como o valor absoluto de um número e de seu oposto são iguais, a função modular básica é par e seu gráfico é simétrico em relação ao eixo vertical.
@@ -278,8 +278,8 @@ Simplifique a expressão $f(x) = \frac{|x|}{x}$ para $x \neq 0$. Quais valores e
 
 ### Opciones
 - [ ] A) Qualquer número real. <!-- feedback: A razão entre um número e seu módulo só pode resultar em dois valores específicos. -->
-- [x] B) $\{-1, 1\}$ <!-- feedback: Se x > 0, x/x = 1. Se x < 0, -x/x = -1. -->
-- [ ] C) $\{0, 1\}$ <!-- feedback: A função nunca é zero para x ≠ 0. -->
+- [x] C) $\{-1, 1\}$ <!-- feedback: Se x > 0, x/x = 1. Se x < 0, -x/x = -1. -->
+- [ ] B) $\{0, 1\}$ <!-- feedback: A função nunca é zero para x ≠ 0. -->
 - [ ] D) $[0, +\infty)$ <!-- feedback: A função não assume valores contínuos, apenas dois valores discretos. -->
 
 ### Explicacion Pedagogica
@@ -298,8 +298,8 @@ Qual é o conjunto solução da equação $|x + 1| = |2x - 4|$?
 ### Opciones
 - [ ] A) $x = 3$ apenas. <!-- feedback: Faltou a segunda possibilidade da igualdade modular. -->
 - [ ] B) $x = 1$ apenas. <!-- feedback: Valor incorreto para esta equação. -->
-- [x] C) $x = 5$ ou $x = 1$. <!-- feedback: x + 1 = 2x - 4 => x = 5; ou x + 1 = -(2x - 4) => 3x = 3 => x = 1. -->
-- [ ] D) $x = 5$ ou $x = -1$. <!-- feedback: Testando x = -1: |0| = |-6|, o que é falso. -->
+- [x] D) $x = 5$ ou $x = 1$. <!-- feedback: x + 1 = 2x - 4 => x = 5; ou x + 1 = -(2x - 4) => 3x = 3 => x = 1. -->
+- [ ] C) $x = 5$ ou $x = -1$. <!-- feedback: Testando x = -1: |0| = |-6|, o que é falso. -->
 
 ### Explicacion Pedagogica
 Uma equação $|a| = |b|$ implica $a = b$ ou $a = -b$.
@@ -319,8 +319,8 @@ Dada a função $f(x) = |x - 3| + |x + 1|$, qual é o valor constante de $f(x)$ 
 
 ### Opciones
 - [ ] A) 2 <!-- feedback: Cálculo incorreto da soma dos módulos no intervalo. -->
-- [x] B) 4 <!-- feedback: No intervalo, x-3 ≤ 0 e x+1 ≥ 0. Então f(x) = -(x-3) + (x+1) = -x+3+x+1 = 4. -->
-- [ ] C) 0 <!-- feedback: A soma de módulos de termos diferentes no intervalo não resulta em zero. -->
+- [x] C) 4 <!-- feedback: No intervalo, x-3 ≤ 0 e x+1 ≥ 0. Então f(x) = -(x-3) + (x+1) = -x+3+x+1 = 4. -->
+- [ ] B) 0 <!-- feedback: A soma de módulos de termos diferentes no intervalo não resulta em zero. -->
 - [ ] D) $2x$ <!-- feedback: No intervalo dado, as variáveis x se cancelam. -->
 
 ### Explicacion Pedagogica
@@ -384,8 +384,8 @@ A solução é a união desses dois intervalos: $(-\infty, 1) \cup (5, +\infty)$
 Qual é a área da região fechada delimitada pelo gráfico da função $f(x) = 4 - |x|$ e o eixo das abscissas ($x$)?
 
 ### Opciones
-- [ ] A) 8 <!-- feedback: Erro no cálculo da área do triângulo. -->
-- [x] B) 16 <!-- feedback: A base do triângulo vai de -4 a 4 (comprimento 8). A altura é f(0) = 4. Área = (8 * 4) / 2 = 16. -->
+- [ ] B) 8 <!-- feedback: Erro no cálculo da área do triângulo. -->
+- [x] A) 16 <!-- feedback: A base do triângulo vai de -4 a 4 (comprimento 8). A altura é f(0) = 4. Área = (8 * 4) / 2 = 16. -->
 - [ ] C) 32 <!-- feedback: Esqueceu de dividir por 2 na fórmula da área do triângulo. -->
 - [ ] D) 4 <!-- feedback: Valor muito baixo para a região descrita. -->
 

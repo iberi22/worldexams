@@ -34,11 +34,11 @@ Características generales del Sistema Solar, orden de los planetas, movimientos
 ¿Cuál es el planeta más cercano al Sol en el Sistema Solar?
 
 ### Opciones
-- [x] A) Mercurio.
+- [x] C) Mercurio.
   <!-- feedback: Mercurio es el planeta más cercano al Sol en el Sistema Solar. -->
-- [ ] B) Tierra.
+- [ ] A) Tierra.
   <!-- feedback: La Tierra es el tercer planeta desde el Sol, no el primero. -->
-- [ ] C) Júpiter.
+- [ ] B) Júpiter.
   <!-- feedback: Júpiter es el quinto planeta desde el Sol, mucho más lejos que Mercurio. -->
 - [ ] D) Neptuno.
   <!-- feedback: Neptuno es el planeta más lejano del Sol, no el más cercano. -->
@@ -126,9 +126,9 @@ Aplicar la clasificación de planetas rocosos y gaseosos para predecir sus condi
 ¿Qué consecuencia tiene principalmente el movimiento de traslación de la Tierra?
 
 ### Opciones
-- [x] A) La sucesión de las cuatro estaciones del año (primavera, verano, otoño e invierno).
+- [x] B) La sucesión de las cuatro estaciones del año (primavera, verano, otoño e invierno).
   <!-- feedback: La traslación, junto con la inclinación del eje, produce las estaciones. -->
-- [ ] B) El cambio entre el día y la noche en pocas horas.
+- [ ] A) El cambio entre el día y la noche en pocas horas.
   <!-- feedback: El día y la noche se explican por la rotación, no por la traslación. -->
 - [ ] C) El cambio de fase de la Luna cada mes.
   <!-- feedback: Las fases lunares dependen de la posición Luna-Tierra-Sol, no solo de la traslación terrestre. -->
@@ -149,11 +149,11 @@ Relacionar el movimiento de traslación de la Tierra con la duración del año y
 ¿Qué diferencia estructural y de ubicación existe entre Mercurio y Júpiter?
 
 ### Opciones
-- [x] A) Mercurio es un planeta rocoso pequeño cercano al Sol; Júpiter es un planeta gaseoso gigante y lejano.
+- [x] C) Mercurio es un planeta rocoso pequeño cercano al Sol; Júpiter es un planeta gaseoso gigante y lejano.
   <!-- feedback: Mercurio es rocoso y cercano al Sol; Júpiter es gaseoso, gigante y mucho más lejano. -->
-- [ ] B) Ambos son planetas gaseosos del mismo tamaño.
+- [ ] A) Ambos son planetas gaseosos del mismo tamaño.
   <!-- feedback: Mercurio es rocoso y pequeño, mientras Júpiter es gaseoso y enorme. -->
-- [ ] C) Mercurio es el planeta más grande y Júpiter el más pequeño.
+- [ ] B) Mercurio es el planeta más grande y Júpiter el más pequeño.
   <!-- feedback: Es al revés: Júpiter es el planeta más grande del Sistema Solar. -->
 - [ ] D) Ninguno de los dos pertenece al Sistema Solar.
   <!-- feedback: Mercurio y Júpiter son planetas del Sistema Solar. -->
@@ -172,9 +172,9 @@ Comparar las características de un planeta rocoso cercano al Sol con un planeta
 ¿Qué criterio diferenció a Plutón de los planetas clásicos como la Tierra o Júpiter?
 
 ### Opciones
-- [x] A) No cumple con todas las condiciones para ser considerado un planeta, por ejemplo limpiar su órbita.
+- [x] B) No cumple con todas las condiciones para ser considerado un planeta, por ejemplo limpiar su órbita.
   <!-- feedback: Plutón comparte su órbita con otros cuerpos, por eso se reclasificó como planeta enano. -->
-- [ ] B) Está más cerca del Sol que Mercurio.
+- [ ] A) Está más cerca del Sol que Mercurio.
   <!-- feedback: Plutón está más lejos del Sol que Neptuno, no más cerca que Mercurio. -->
 - [ ] C) Es el único planeta con anillos visibles.
   <!-- feedback: Plutón no posee anillos visibles como Saturno. -->
@@ -195,9 +195,9 @@ Analizar los criterios científicos que permiten distinguir planetas, planetas e
 ¿Por qué la Tierra es especial en el Sistema Solar y qué debemos hacer para conservar esas condiciones?
 
 ### Opciones
-- [x] A) Porque reúne condiciones para la vida, y debemos cuidar la atmósfera, el agua y la temperatura.
+- [x] B) Porque reúne condiciones para la vida, y debemos cuidar la atmósfera, el agua y la temperatura.
   <!-- feedback: Las condiciones especiales de la Tierra permiten la vida y deben ser protegidas. -->
-- [ ] B) Porque es el planeta más grande del Sistema Solar.
+- [ ] A) Porque es el planeta más grande del Sistema Solar.
   <!-- feedback: La Tierra no es el planeta más grande; Júpiter lo es. -->
 - [ ] C) Porque no tiene atmósfera ni agua como los demás planetas.
   <!-- feedback: La Tierra sí tiene atmósfera y agua, a diferencia de muchos otros planetas. -->

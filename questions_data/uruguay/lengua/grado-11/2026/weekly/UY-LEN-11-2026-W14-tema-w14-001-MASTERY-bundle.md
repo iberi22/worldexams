@@ -33,9 +33,9 @@ calibration: {difficulty_band: "D3-D10", expected_success: 0.65}
 
 ### Opciones
 - [ ] A) Cinco mil páginas. <!-- feedback: Incorrecto. El texto indica expresamente cincuenta mil páginas. -->
-- [x] B) Más de cincuenta mil páginas. <!-- feedback: ¡Correcto! El fragmento menciona explícitamente "más de cincuenta mil páginas de acceso libre". -->
-- [ ] C) Quinientas mil páginas. <!-- feedback: Incorrecto. Confundiste la cifra reportada en el texto. -->
-- [ ] D) Diez mil páginas. <!-- feedback: Incorrecto. Cifra no correspondiente con los datos del informe. -->
+- [x] D) Más de cincuenta mil páginas. <!-- feedback: ¡Correcto! El fragmento menciona explícitamente "más de cincuenta mil páginas de acceso libre". -->
+- [ ] B) Quinientas mil páginas. <!-- feedback: Incorrecto. Confundiste la cifra reportada en el texto. -->
+- [ ] C) Diez mil páginas. <!-- feedback: Incorrecto. Cifra no correspondiente con los datos del informe. -->
 
 ### Explicación Pedagógica
 La localización de datos cuantitativos explícitos es una destreza básica del nivel de lectura literal en Secundaria.
@@ -51,8 +51,8 @@ La localización de datos cuantitativos explícitos es una destreza básica del 
 ¿Qué factores principales amenazan la conservación del papel de la prensa histórica original según el informe?
 
 ### Opciones
-- [x] A) La humedad y el paso del tiempo. <!-- feedback: ¡Correcto! El informe nombra directamente la humedad y el paso del tiempo como causas del deterioro. -->
-- [ ] B) Los robos e incendios en los depósitos de Montevideo. <!-- feedback: Incorrecto. No se mencionan incendios ni robos en el pasaje. -->
+- [x] B) La humedad y el paso del tiempo. <!-- feedback: ¡Correcto! El informe nombra directamente la humedad y el paso del tiempo como causas del deterioro. -->
+- [ ] A) Los robos e incendios en los depósitos de Montevideo. <!-- feedback: Incorrecto. No se mencionan incendios ni robos en el pasaje. -->
 - [ ] C) El uso de tintas importadas de mala calidad. <!-- feedback: Incorrecto. No hay alusiones a la calidad de la tinta. -->
 - [ ] D) La falta de espacio en los estantes de la biblioteca. <!-- feedback: Incorrecto. La amenaza descrita es el deterioro físico del papel por humedad y paso del tiempo. -->
 
@@ -89,10 +89,10 @@ El complemento directo responde al reconocimiento mediante la sustitución por l
 ¿Qué conector introduce la finalidad u objetivo perseguido en el enunciado?
 
 ### Opciones
-- [x] A) Para que <!-- feedback: ¡Correcto! "Para que" es una locución conjuntiva final que introduce el propósito perseguido. -->
-- [ ] B) Que los vecinos <!-- feedback: Incorrecto. "que" funciona como conjunción completiva de la subordinada sustantiva. -->
-- [ ] C) En sus hogares <!-- feedback: Incorrecto. Es un complemento preposicional locativo. -->
-- [ ] D) Es indispensable <!-- feedback: Incorrecto. Es el núcleo de la oración principal atributiva. -->
+- [x] D) Para que <!-- feedback: ¡Correcto! "Para que" es una locución conjuntiva final que introduce el propósito perseguido. -->
+- [ ] A) Que los vecinos <!-- feedback: Incorrecto. "que" funciona como conjunción completiva de la subordinada sustantiva. -->
+- [ ] B) En sus hogares <!-- feedback: Incorrecto. Es un complemento preposicional locativo. -->
+- [ ] C) Es indispensable <!-- feedback: Incorrecto. Es el núcleo de la oración principal atributiva. -->
 
 ### Explicación Pedagógica
 Las oraciones subordinadas adverbiales finales introducidas por *para que*, *a fin de que* expresan la intención o meta de la proposición principal.
@@ -109,8 +109,8 @@ Las oraciones subordinadas adverbiales finales introducidas por *para que*, *a f
 
 ### Opciones
 - [ ] A) Hipérbaton sintáctico. <!-- feedback: Incorrecto. La sintaxis mantiene el orden normativo. -->
-- [x] B) Metáfora pura/impura en forma atributiva. <!-- feedback: ¡Correcto! Equipara el brillo óptico de los ojos con el fuego de los carbones mediante el verbo copulativo *ser*. -->
-- [ ] C) Símil expreso. <!-- feedback: Incorrecto. Falta el nexo comparativo explícito (*como*, *cual*). -->
+- [x] C) Metáfora pura/impura en forma atributiva. <!-- feedback: ¡Correcto! Equipara el brillo óptico de los ojos con el fuego de los carbones mediante el verbo copulativo *ser*. -->
+- [ ] B) Símil expreso. <!-- feedback: Incorrecto. Falta el nexo comparativo explícito (*como*, *cual*). -->
 - [ ] D) Aliteración consonántica. <!-- feedback: Incorrecto. No busca efectos fónicos por repetición de fonemas. -->
 
 ### Explicación Pedagógica
@@ -127,10 +127,10 @@ La metáfora atributiva (A es B) asocia directamente dos entidades de dominios d
 ¿Qué marcas léxico-dialectales evidencian el uso del español coloquial uruguayo en el enunciado?
 
 ### Opciones
-- [x] A) El vocativo "Bo", el verbo voseante "fijate" y el sustantivo "chiquilines". <!-- feedback: ¡Correcto! Todos son rasgos sociolingüísticos fuertemente identitarios del registro informal uruguayo. -->
-- [ ] B) El uso de la terminología de cortesía castellana peninsular. <!-- feedback: Incorrecto. No usa giros de cortesía peninsular. -->
-- [ ] C) La presencia de galicismos gastronómicos. <!-- feedback: Incorrecto. No hay términos tomados del francés. -->
-- [ ] D) El empleo exclusivo de tecnicismos científicos. <!-- feedback: Incorrecto. Es un enunciado de registro familiar cotidiano. -->
+- [x] D) El vocativo "Bo", el verbo voseante "fijate" y el sustantivo "chiquilines". <!-- feedback: ¡Correcto! Todos son rasgos sociolingüísticos fuertemente identitarios del registro informal uruguayo. -->
+- [ ] A) El uso de la terminología de cortesía castellana peninsular. <!-- feedback: Incorrecto. No usa giros de cortesía peninsular. -->
+- [ ] B) La presencia de galicismos gastronómicos. <!-- feedback: Incorrecto. No hay términos tomados del francés. -->
+- [ ] C) El empleo exclusivo de tecnicismos científicos. <!-- feedback: Incorrecto. Es un enunciado de registro familiar cotidiano. -->
 
 ### Explicación Pedagógica
 El vocabulario regional (*bo*, *chiquilines*) junto a la conjugación del voseo en imperativo (*fijate*) caracterizan el registro oral coloquial del Uruguay.
@@ -147,8 +147,8 @@ El vocabulario regional (*bo*, *chiquilines*) junto a la conjugación del voseo 
 
 ### Opciones
 - [ ] A) Conector causante directo. <!-- feedback: Incorrecto. No es un nexo causal. -->
-- [x] B) Conector concesivo. <!-- feedback: ¡Correcto! "Aunque" introduce un obstáculo superado que no impidió el rechazo de los vecinos. -->
-- [ ] C) Conector consecutivo de cierre. <!-- feedback: Incorrecto. No expresa una consecuencia. -->
+- [x] C) Conector concesivo. <!-- feedback: ¡Correcto! "Aunque" introduce un obstáculo superado que no impidió el rechazo de los vecinos. -->
+- [ ] B) Conector consecutivo de cierre. <!-- feedback: Incorrecto. No expresa una consecuencia. -->
 - [ ] D) Conector disyuntivo excluyente. <!-- feedback: Incorrecto. No plantea alternativas. -->
 
 ### Explicación Pedagógica
@@ -166,8 +166,8 @@ Las oraciones subordinadas concesivas argumentan presentando dificultades que no
 
 ### Opciones
 - [ ] A) Oposición o contraste entre dos hechos. <!-- feedback: Incorrecto. No es un conector adversativo. -->
-- [x] B) Consecuencia o deducción lógica de lo expresado anteriormente. <!-- feedback: ¡Correcto! Presenta la destitución como efecto directo de los hallazgos de la auditoría. -->
-- [ ] C) Ejemplificación ilustrativa. <!-- feedback: Incorrecto. No introduce un ejemplo. -->
+- [x] C) Consecuencia o deducción lógica de lo expresado anteriormente. <!-- feedback: ¡Correcto! Presenta la destitución como efecto directo de los hallazgos de la auditoría. -->
+- [ ] B) Ejemplificación ilustrativa. <!-- feedback: Incorrecto. No introduce un ejemplo. -->
 - [ ] D) Condición previa obligatoria. <!-- feedback: Incorrecto. No es un nexo condicional. -->
 
 ### Explicación Pedagógica
@@ -184,9 +184,9 @@ Los conectores consecutivos o ilativos (*por lo tanto*, *en consecuencia*) unen 
 ¿En qué tiempo y modo están conjugados respectivamente los verbos "aumentaran" y "mantendría"?
 
 ### Opciones
-- [x] A) Pretérito imperfecto de subjuntivo y condicional simple de indicativo. <!-- feedback: ¡Correcto! Es la estructura clásica del período condicional de hipótesis futura ("aumentaran" / "mantendría"). -->
-- [ ] B) Pretérito perfecto simple y futuro imperfecto de indicativo. <!-- feedback: Incorrecto. "Aumentaran" no es indicativo. -->
-- [ ] C) Presente de subjuntivo y presente de indicativo. <!-- feedback: Incorrecto. No están en presente. -->
+- [x] C) Pretérito imperfecto de subjuntivo y condicional simple de indicativo. <!-- feedback: ¡Correcto! Es la estructura clásica del período condicional de hipótesis futura ("aumentaran" / "mantendría"). -->
+- [ ] A) Pretérito perfecto simple y futuro imperfecto de indicativo. <!-- feedback: Incorrecto. "Aumentaran" no es indicativo. -->
+- [ ] B) Presente de subjuntivo y presente de indicativo. <!-- feedback: Incorrecto. No están en presente. -->
 - [ ] D) Pretérito pluscuamperfecto y condicional compuesto. <!-- feedback: Incorrecto. Son formas compuestas que no figuran en el texto. -->
 
 ### Explicación Pedagógica
@@ -203,9 +203,9 @@ El período condicional irreal o de hipótesis probable combina el imperfecto de
 ¿Qué grupo nominal actúa como complemento indirecto (CI) en el enunciado?
 
 ### Opciones
-- [ ] A) El intendente de Maldonado <!-- feedback: Incorrecto. Es el sujeto de la oración. -->
-- [ ] B) los premios <!-- feedback: Incorrecto. "los premios" es el complemento directo. -->
-- [x] C) a los deportistas destacados <!-- feedback: ¡Correcto! Es el receptor o beneficiario de la acción de entregar (sustituible por *les*: "les entregó los premios"). -->
+- [ ] B) El intendente de Maldonado <!-- feedback: Incorrecto. Es el sujeto de la oración. -->
+- [ ] C) los premios <!-- feedback: Incorrecto. "los premios" es el complemento directo. -->
+- [x] A) a los deportistas destacados <!-- feedback: ¡Correcto! Es el receptor o beneficiario de la acción de entregar (sustituible por *les*: "les entregó los premios"). -->
 - [ ] D) en la rambla de Gorlero <!-- feedback: Incorrecto. Es el complemento circunstancial de lugar. -->
 
 ### Explicación Pedagógica
@@ -223,9 +223,9 @@ El complemento indirecto designa al destinatario de la acción y se reconoce por
 
 ### Opciones
 - [ ] A) Confirmar la veracidad del discurso oficial sobre la inflación. <!-- feedback: Incorrecto. Al contrario, lo relativiza mediante evidencia contrapuesta. -->
-- [x] B) Introducir un hecho empírico que limita o cuestiona la afirmación del gobierno sobre el control económico. <!-- feedback: ¡Correcto! Opone la suba real de la canasta alimentaria frente al optimismo del discurso oficial. -->
-- [ ] C) Demostrar que el costo de vida ha bajado considerablemente. <!-- feedback: Incorrecto. El texto indica que el costo continuó aumentando. -->
-- [ ] D) Explicar la causa técnica de la baja de precios. <!-- feedback: Incorrecto. No aborda causas de bajas sino evidencia de aumento. -->
+- [x] D) Introducir un hecho empírico que limita o cuestiona la afirmación del gobierno sobre el control económico. <!-- feedback: ¡Correcto! Opone la suba real de la canasta alimentaria frente al optimismo del discurso oficial. -->
+- [ ] B) Demostrar que el costo de vida ha bajado considerablemente. <!-- feedback: Incorrecto. El texto indica que el costo continuó aumentando. -->
+- [ ] C) Explicar la causa técnica de la baja de precios. <!-- feedback: Incorrecto. No aborda causas de bajas sino evidencia de aumento. -->
 
 ### Explicación Pedagógica
 Los conectores adversativos (*sin embargo*, *no obstante*) sirven en la lectura crítica para revelar contradicciones entre las afirmaciones de los actores y la realidad fáctica.
@@ -261,9 +261,9 @@ La metáfora apositiva (Sustantivo 1, Sustantivo 2) caracteriza al elemento real
 
 ### Opciones
 - [ ] A) Ordenación cronológica de hechos históricos. <!-- feedback: Incorrecto. No sigue una línea de tiempo narrativa. -->
-- [x] B) Estructura de comparación y contraste entre dos modelos culturales. <!-- feedback: ¡Correcto! Confronta la sociedad industrial (identidad por profesión) frente a la cultura rural (identidad por territorio y comunidad). -->
-- [ ] C) Enumeración descriptiva de herramientas de trabajo del campo. <!-- feedback: Incorrecto. No es una lista de utensilios o tareas rurales. -->
-- [ ] D) Esquema de causa-efecto económico. <!-- feedback: Incorrecto. La comparación es sociocultural, no una derivación causal de mercado. -->
+- [x] D) Estructura de comparación y contraste entre dos modelos culturales. <!-- feedback: ¡Correcto! Confronta la sociedad industrial (identidad por profesión) frente a la cultura rural (identidad por territorio y comunidad). -->
+- [ ] B) Enumeración descriptiva de herramientas de trabajo del campo. <!-- feedback: Incorrecto. No es una lista de utensilios o tareas rurales. -->
+- [ ] C) Esquema de causa-efecto económico. <!-- feedback: Incorrecto. La comparación es sociocultural, no una derivación causal de mercado. -->
 
 ### Explicación Pedagógica
 La estructura de comparación y contraste aclara conceptos complejos delimitando las semejanzas y diferencias entre dos realidades o modelos.
@@ -282,9 +282,9 @@ La estructura de comparación y contraste aclara conceptos complejos delimitando
 
 ### Opciones
 - [ ] A) La 1 está en tiempo pasado y la 2 en tiempo futuro. <!-- feedback: Incorrecto. Ambas expresan hechos pasados consumados. -->
-- [x] B) La 1 está en voz activa (focaliza en el sujeto agente) y la 2 en voz pasiva (focaliza en el objeto afectado). <!-- feedback: ¡Correcto! El cambio de voz altera el foco informativo tematizando el proyecto de ciclovías en la pasiva. -->
-- [ ] C) La 2 contiene un error de concordancia en el verbo. <!-- feedback: Incorrecto. "fue aprobado" concuerda perfectamente con "el proyecto". -->
-- [ ] D) La 1 es una subordinada condicional y la 2 es una oración simple. <!-- feedback: Incorrecto. Ambas son oraciones simples independientes. -->
+- [x] D) La 1 está en voz activa (focaliza en el sujeto agente) y la 2 en voz pasiva (focaliza en el objeto afectado). <!-- feedback: ¡Correcto! El cambio de voz altera el foco informativo tematizando el proyecto de ciclovías en la pasiva. -->
+- [ ] B) La 2 contiene un error de concordancia en el verbo. <!-- feedback: Incorrecto. "fue aprobado" concuerda perfectamente con "el proyecto". -->
+- [ ] C) La 1 es una subordinada condicional y la 2 es una oración simple. <!-- feedback: Incorrecto. Ambas son oraciones simples independientes. -->
 
 ### Explicación Pedagógica
 La transformación pasiva permite desplazar el interés comunicativo hacia la entidad que recibe la acción (tematización), relegando al agente a un término opcional.
@@ -300,10 +300,10 @@ La transformación pasiva permite desplazar el interés comunicativo hacia la en
 ¿Qué función sintáctica cumple la cláusula "que la educación técnica requiere un incremento de la inversión pública para modernizar sus laboratorios"?
 
 ### Opciones
-- [x] A) Subordinada sustantiva en función de sujeto del adjetivo atributivo "evidente". <!-- feedback: ¡Correcto! Equivale a "Eso es evidente", funcionando como sujeto de la oración principal impersonalitativa. -->
-- [ ] B) Subordinada adjetiva de relativo especificativa. <!-- feedback: Incorrecto. No modifica a ningún sustantivo antecedente. -->
-- [ ] C) Complemento directo del verbo "ser". <!-- feedback: Incorrecto. El verbo atributivo "es" no lleva complemento directo. -->
-- [ ] D) Subordinada adverbial de causa. <!-- feedback: Incorrecto. No expresa causa. -->
+- [x] D) Subordinada sustantiva en función de sujeto del adjetivo atributivo "evidente". <!-- feedback: ¡Correcto! Equivale a "Eso es evidente", funcionando como sujeto de la oración principal impersonalitativa. -->
+- [ ] A) Subordinada adjetiva de relativo especificativa. <!-- feedback: Incorrecto. No modifica a ningún sustantivo antecedente. -->
+- [ ] B) Complemento directo del verbo "ser". <!-- feedback: Incorrecto. El verbo atributivo "es" no lleva complemento directo. -->
+- [ ] C) Subordinada adverbial de causa. <!-- feedback: Incorrecto. No expresa causa. -->
 
 ### Explicación Pedagógica
 En estructuras atributivas impersonales (*Es evidente / claro / necesario + que...*), la proposición subordinada completiva introducida por *que* actúa como sujeto gramatical.
@@ -320,8 +320,8 @@ En estructuras atributivas impersonales (*Es evidente / claro / necesario + que.
 
 ### Opciones
 - [ ] A) Conector disyuntivo excluyente. <!-- feedback: Incorrecto. No contrapone opciones excluyentes. -->
-- [x] B) Conector correlativo aditivo enfático ("no solo... sino que..."). <!-- feedback: ¡Correcto! Suma dos acciones destacando el mayor compromiso de la segunda. -->
-- [ ] C) Conector consecutivo de cierre. <!-- feedback: Incorrecto. No expresa consecuencia. -->
+- [x] C) Conector correlativo aditivo enfático ("no solo... sino que..."). <!-- feedback: ¡Correcto! Suma dos acciones destacando el mayor compromiso de la segunda. -->
+- [ ] B) Conector consecutivo de cierre. <!-- feedback: Incorrecto. No expresa consecuencia. -->
 - [ ] D) Conector de condición restrictiva. <!-- feedback: Incorrecto. No impone condiciones. -->
 
 ### Explicación Pedagógica
@@ -339,8 +339,8 @@ Evaluá la estrategia argumentativa utilizada por el orador al calificar a la op
 
 ### Opciones
 - [ ] A) Presenta un análisis económico riguroso con datos estadísticos neutrales. <!-- feedback: Incorrecto. No aporta cifras ni estadísticas de la reforma. -->
-- [x] B) Incurre en una descalificación ad hominem y un dilema maniqueo, reduciendo el debate a una lucha moral entre patriotas e intereses corporativos. <!-- feedback: ¡Correcto! Ataca la moral de los opositores acusable de defender privilegios en lugar de refutar sus argumentos técnicos. -->
-- [ ] C) Utiliza un razonamiento inductivo intachable basado en ejemplos históricos. <!-- feedback: Incorrecto. No construye una inducción histórica documentada. -->
+- [x] C) Incurre en una descalificación ad hominem y un dilema maniqueo, reduciendo el debate a una lucha moral entre patriotas e intereses corporativos. <!-- feedback: ¡Correcto! Ataca la moral de los opositores acusable de defender privilegios en lugar de refutar sus argumentos técnicos. -->
+- [ ] B) Utiliza un razonamiento inductivo intachable basado en ejemplos históricos. <!-- feedback: Incorrecto. No construye una inducción histórica documentada. -->
 - [ ] D) Apela a la autoridad científica de economistas académicos. <!-- feedback: Incorrecto. No apela a autoridades del ámbito académico. -->
 
 ### Explicación Pedagógica
@@ -357,8 +357,8 @@ El análisis crítico del discurso político devela el uso de ataques personales
 Evaluá la importancia de la obra de Juana de Ibarbourou según la interpretación del texto.
 
 ### Opciones
-- [ ] A) Fue una continuación servil de las normas líricas del siglo XIX. <!-- feedback: Incorrecto. El texto indica que "rompió con la melancolía del modernismo". -->
-- [x] B) Representó una ruptura estética renovadora que introdujo el vitalismo y la sensorialidad pagana en la poesía de la región. <!-- feedback: ¡Correcto! Destaca el giro estético fundacional de su obra frente a la tradición previa. -->
+- [ ] B) Fue una continuación servil de las normas líricas del siglo XIX. <!-- feedback: Incorrecto. El texto indica que "rompió con la melancolía del modernismo". -->
+- [x] A) Representó una ruptura estética renovadora que introdujo el vitalismo y la sensorialidad pagana en la poesía de la región. <!-- feedback: ¡Correcto! Destaca el giro estético fundacional de su obra frente a la tradición previa. -->
 - [ ] C) Se limitó a copiar el estilo de la poesía vanguardista europea. <!-- feedback: Incorrecto. No la define como copia ni cita referentes europeos. -->
 - [ ] D) Careció de trascendencia fuera de las fronteras uruguayas. <!-- feedback: Incorrecto. Afirma expresamente que "transformó las letras hispanoamericanas". -->
 
@@ -377,8 +377,8 @@ La evaluación historiográfica de la literatura reconoce en *Las lenguas de dia
 
 ### Opciones
 - [ ] A) Prohibir el uso de computadoras en las aulas de Secundaria. <!-- feedback: Incorrecto. No sugiere prohibir la tecnología sino enseñar a usarla. -->
-- [x] B) Desarrollar alfabetización informacional y pensamiento crítico para la evaluación rigurosa de fuentes digitales. <!-- feedback: ¡Correcto! Defiende que la investigación escolar requiere el aprendizaje de competencias de filtrado y validación de fuentes. -->
-- [ ] C) Obligar a memorizar enciclopedias impresas en papel. <!-- feedback: Incorrecto. No aboga por el memorismo de enciclopedias tradicionales. -->
+- [x] C) Desarrollar alfabetización informacional y pensamiento crítico para la evaluación rigurosa de fuentes digitales. <!-- feedback: ¡Correcto! Defiende que la investigación escolar requiere el aprendizaje de competencias de filtrado y validación de fuentes. -->
+- [ ] B) Obligar a memorizar enciclopedias impresas en papel. <!-- feedback: Incorrecto. No aboga por el memorismo de enciclopedias tradicionales. -->
 - [ ] D) Eliminar la redacción de ensayos de las evaluaciones finales. <!-- feedback: Incorrecto. No propone suprimir los ensayos sino enseñar la metodología de investigación previa. -->
 
 ### Explicación Pedagógica
@@ -395,10 +395,10 @@ La didáctica de la escritura académica exige integrar la curaduría crítica d
 Evaluá el impacto de la adjetivación valorativa en la prensa sensacionalista según el fragmento.
 
 ### Opciones
-- [x] A) Funciona como una estrategia mercantil de manipulación afectiva que distorsiona la neutralidad informativa para generar audiencia mediante el escándalo. <!-- feedback: ¡Correcto! Devela que la selección léxica peyorativa busca la manipulación emocional del receptor con fines comerciales. -->
-- [ ] B) Garantiza una descripción impecable y rigurosa de la realidad fáctica. <!-- feedback: Incorrecto. El texto afirma que "no busca informar de manera objetiva". -->
-- [ ] C) Ayuda a que los lectores comprendan mejor la complejidad del contexto político. <!-- feedback: Incorrecto. No favorece la comprensión sino la reacción emocional primaria. -->
-- [ ] D) Es un recurso poético destinado a elevar el nivel literario del periodismo. <!-- feedback: Incorrecto. Se analiza como estrategia sensacionalista mercantil, no como arte lírico. -->
+- [x] D) Funciona como una estrategia mercantil de manipulación afectiva que distorsiona la neutralidad informativa para generar audiencia mediante el escándalo. <!-- feedback: ¡Correcto! Devela que la selección léxica peyorativa busca la manipulación emocional del receptor con fines comerciales. -->
+- [ ] A) Garantiza una descripción impecable y rigurosa de la realidad fáctica. <!-- feedback: Incorrecto. El texto afirma que "no busca informar de manera objetiva". -->
+- [ ] B) Ayuda a que los lectores comprendan mejor la complejidad del contexto político. <!-- feedback: Incorrecto. No favorece la comprensión sino la reacción emocional primaria. -->
+- [ ] C) Es un recurso poético destinado a elevar el nivel literario del periodismo. <!-- feedback: Incorrecto. Se analiza como estrategia sensacionalista mercantil, no como arte lírico. -->
 
 ### Explicación Pedagógica
 La lectura crítica de los medios masivos analiza cómo la adjetivación sesgada y el sensacionalismo mercantil mercantilizan las emociones del público vulnerando la objetividad informativa.

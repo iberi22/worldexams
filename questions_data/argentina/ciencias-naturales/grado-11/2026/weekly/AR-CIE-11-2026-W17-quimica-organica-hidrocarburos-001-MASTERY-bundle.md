@@ -57,8 +57,8 @@ La fórmula general de los alcanos lineales es $\text{C}_n\text{H}_{2n+2}$. Reem
 Para un alcano lineal acíclico con $n = 2$ átomos de carbono, ¿cuál es su fórmula molecular según la regla general $\text{C}_n\text{H}_{2n+2}$?
 
 ### Opciones
-- [x] A) $\text{C}_{2}\text{H}_{6}$ <!-- feedback: Correcto. $2(2) + 2 = 6$, por lo que la fórmula es $\text{C}_{2}\text{H}_{6}$. -->
-- [ ] B) $\text{C}_{2}\text{H}_{8}$ <!-- feedback: Incorrecto. Sumó hidrógenos excedentes a la fórmula de saturación. -->
+- [x] B) $\text{C}_{2}\text{H}_{6}$ <!-- feedback: Correcto. $2(2) + 2 = 6$, por lo que la fórmula es $\text{C}_{2}\text{H}_{6}$. -->
+- [ ] A) $\text{C}_{2}\text{H}_{8}$ <!-- feedback: Incorrecto. Sumó hidrógenos excedentes a la fórmula de saturación. -->
 - [ ] C) $\text{C}_{2}\text{H}_{2}$ <!-- feedback: Incorrecto. Esta es la fórmula para alquinos. -->
 - [ ] D) $\text{C}_{2}\text{H}_{4}$ <!-- feedback: Incorrecto. Confundió la multiplicación $2n$ con una suma. -->
 
@@ -78,8 +78,8 @@ La fórmula general de los alcanos lineales es $\text{C}_n\text{H}_{2n+2}$. Reem
 Para un alcano lineal acíclico con $n = 3$ átomos de carbono, ¿cuál es su fórmula molecular según la regla general $\text{C}_n\text{H}_{2n+2}$?
 
 ### Opciones
-- [x] A) $\text{C}_{3}\text{H}_{8}$ <!-- feedback: Correcto. $2(3) + 2 = 8$, por lo que la fórmula es $\text{C}_{3}\text{H}_{8}$. -->
-- [ ] B) $\text{C}_{3}\text{H}_{10}$ <!-- feedback: Incorrecto. Sumó hidrógenos excedentes a la fórmula de saturación. -->
+- [x] B) $\text{C}_{3}\text{H}_{8}$ <!-- feedback: Correcto. $2(3) + 2 = 8$, por lo que la fórmula es $\text{C}_{3}\text{H}_{8}$. -->
+- [ ] A) $\text{C}_{3}\text{H}_{10}$ <!-- feedback: Incorrecto. Sumó hidrógenos excedentes a la fórmula de saturación. -->
 - [ ] C) $\text{C}_{3}\text{H}_{4}$ <!-- feedback: Incorrecto. Esta es la fórmula para alquinos. -->
 - [ ] D) $\text{C}_{3}\text{H}_{5}$ <!-- feedback: Incorrecto. Confundió la multiplicación $2n$ con una suma. -->
 
@@ -99,10 +99,10 @@ La fórmula general de los alcanos lineales es $\text{C}_n\text{H}_{2n+2}$. Reem
 Para un alcano lineal acíclico con $n = 4$ átomos de carbono, ¿cuál es su fórmula molecular según la regla general $\text{C}_n\text{H}_{2n+2}$?
 
 ### Opciones
-- [x] A) $\text{C}_{4}\text{H}_{10}$ <!-- feedback: Correcto. $2(4) + 2 = 10$, por lo que la fórmula es $\text{C}_{4}\text{H}_{10}$. -->
-- [ ] B) $\text{C}_{4}\text{H}_{12}$ <!-- feedback: Incorrecto. Sumó hidrógenos excedentes a la fórmula de saturación. -->
-- [ ] C) $\text{C}_{4}\text{H}_{6}$ <!-- feedback: Incorrecto. Esta es la fórmula para alquinos. -->
-- [ ] D) $\text{C}_{4}\text{H}_{8}$ <!-- feedback: Incorrecto. Confundió la fórmula de alcanos con la de alquenos. -->
+- [x] D) $\text{C}_{4}\text{H}_{10}$ <!-- feedback: Correcto. $2(4) + 2 = 10$, por lo que la fórmula es $\text{C}_{4}\text{H}_{10}$. -->
+- [ ] A) $\text{C}_{4}\text{H}_{12}$ <!-- feedback: Incorrecto. Sumó hidrógenos excedentes a la fórmula de saturación. -->
+- [ ] B) $\text{C}_{4}\text{H}_{6}$ <!-- feedback: Incorrecto. Esta es la fórmula para alquinos. -->
+- [ ] C) $\text{C}_{4}\text{H}_{8}$ <!-- feedback: Incorrecto. Confundió la fórmula de alcanos con la de alquenos. -->
 
 ### Explicacion Pedagogica
 La fórmula general de los alcanos lineales es $\text{C}_n\text{H}_{2n+2}$. Reemplazando $n = 4$ obtenemos $\text{C}_{4}\text{H}_{10}$.
@@ -120,8 +120,8 @@ La fórmula general de los alcanos lineales es $\text{C}_n\text{H}_{2n+2}$. Reem
 Para un alcano lineal acíclico con $n = 5$ átomos de carbono, ¿cuál es su fórmula molecular según la regla general $\text{C}_n\text{H}_{2n+2}$?
 
 ### Opciones
-- [x] A) $\text{C}_{5}\text{H}_{12}$ <!-- feedback: Correcto. $2(5) + 2 = 12$, por lo que la fórmula es $\text{C}_{5}\text{H}_{12}$. -->
-- [ ] B) $\text{C}_{5}\text{H}_{14}$ <!-- feedback: Incorrecto. Sumó hidrógenos excedentes a la fórmula de saturación. -->
+- [x] B) $\text{C}_{5}\text{H}_{12}$ <!-- feedback: Correcto. $2(5) + 2 = 12$, por lo que la fórmula es $\text{C}_{5}\text{H}_{12}$. -->
+- [ ] A) $\text{C}_{5}\text{H}_{14}$ <!-- feedback: Incorrecto. Sumó hidrógenos excedentes a la fórmula de saturación. -->
 - [ ] C) $\text{C}_{5}\text{H}_{8}$ <!-- feedback: Incorrecto. Esta es la fórmula para alquinos. -->
 - [ ] D) $\text{C}_{5}\text{H}_{7}$ <!-- feedback: Incorrecto. Confundió la multiplicación $2n$ con una suma. -->
 
@@ -162,10 +162,10 @@ La fórmula general de los alcanos lineales es $\text{C}_n\text{H}_{2n+2}$. Reem
 Para un alcano lineal acíclico con $n = 7$ átomos de carbono, ¿cuál es su fórmula molecular según la regla general $\text{C}_n\text{H}_{2n+2}$?
 
 ### Opciones
-- [x] A) $\text{C}_{7}\text{H}_{16}$ <!-- feedback: Correcto. $2(7) + 2 = 16$, por lo que la fórmula es $\text{C}_{7}\text{H}_{16}$. -->
-- [ ] B) $\text{C}_{7}\text{H}_{18}$ <!-- feedback: Incorrecto. Sumó hidrógenos excedentes a la fórmula de saturación. -->
-- [ ] C) $\text{C}_{7}\text{H}_{12}$ <!-- feedback: Incorrecto. Esta es la fórmula para alquinos. -->
-- [ ] D) $\text{C}_{7}\text{H}_{9}$ <!-- feedback: Incorrecto. Confundió la multiplicación $2n$ con una suma. -->
+- [x] D) $\text{C}_{7}\text{H}_{16}$ <!-- feedback: Correcto. $2(7) + 2 = 16$, por lo que la fórmula es $\text{C}_{7}\text{H}_{16}$. -->
+- [ ] A) $\text{C}_{7}\text{H}_{18}$ <!-- feedback: Incorrecto. Sumó hidrógenos excedentes a la fórmula de saturación. -->
+- [ ] B) $\text{C}_{7}\text{H}_{12}$ <!-- feedback: Incorrecto. Esta es la fórmula para alquinos. -->
+- [ ] C) $\text{C}_{7}\text{H}_{9}$ <!-- feedback: Incorrecto. Confundió la multiplicación $2n$ con una suma. -->
 
 ### Explicacion Pedagogica
 La fórmula general de los alcanos lineales es $\text{C}_n\text{H}_{2n+2}$. Reemplazando $n = 7$ obtenemos $\text{C}_{7}\text{H}_{16}$.
@@ -183,8 +183,8 @@ La fórmula general de los alcanos lineales es $\text{C}_n\text{H}_{2n+2}$. Reem
 Para un alcano lineal acíclico con $n = 8$ átomos de carbono, ¿cuál es su fórmula molecular según la regla general $\text{C}_n\text{H}_{2n+2}$?
 
 ### Opciones
-- [x] A) $\text{C}_{8}\text{H}_{18}$ <!-- feedback: Correcto. $2(8) + 2 = 18$, por lo que la fórmula es $\text{C}_{8}\text{H}_{18}$. -->
-- [ ] B) $\text{C}_{8}\text{H}_{20}$ <!-- feedback: Incorrecto. Sumó hidrógenos excedentes a la fórmula de saturación. -->
+- [x] B) $\text{C}_{8}\text{H}_{18}$ <!-- feedback: Correcto. $2(8) + 2 = 18$, por lo que la fórmula es $\text{C}_{8}\text{H}_{18}$. -->
+- [ ] A) $\text{C}_{8}\text{H}_{20}$ <!-- feedback: Incorrecto. Sumó hidrógenos excedentes a la fórmula de saturación. -->
 - [ ] C) $\text{C}_{8}\text{H}_{14}$ <!-- feedback: Incorrecto. Esta es la fórmula para alquinos. -->
 - [ ] D) $\text{C}_{8}\text{H}_{10}$ <!-- feedback: Incorrecto. Confundió la multiplicación $2n$ con una suma. -->
 
@@ -204,9 +204,9 @@ La fórmula general de los alcanos lineales es $\text{C}_n\text{H}_{2n+2}$. Reem
 Para un alcano lineal acíclico con $n = 9$ átomos de carbono, ¿cuál es su fórmula molecular según la regla general $\text{C}_n\text{H}_{2n+2}$?
 
 ### Opciones
-- [x] A) $\text{C}_{9}\text{H}_{20}$ <!-- feedback: Correcto. $2(9) + 2 = 20$, por lo que la fórmula es $\text{C}_{9}\text{H}_{20}$. -->
-- [ ] B) $\text{C}_{9}\text{H}_{22}$ <!-- feedback: Incorrecto. Sumó hidrógenos excedentes a la fórmula de saturación. -->
-- [ ] C) $\text{C}_{9}\text{H}_{16}$ <!-- feedback: Incorrecto. Esta es la fórmula para alquinos. -->
+- [x] C) $\text{C}_{9}\text{H}_{20}$ <!-- feedback: Correcto. $2(9) + 2 = 20$, por lo que la fórmula es $\text{C}_{9}\text{H}_{20}$. -->
+- [ ] A) $\text{C}_{9}\text{H}_{22}$ <!-- feedback: Incorrecto. Sumó hidrógenos excedentes a la fórmula de saturación. -->
+- [ ] B) $\text{C}_{9}\text{H}_{16}$ <!-- feedback: Incorrecto. Esta es la fórmula para alquinos. -->
 - [ ] D) $\text{C}_{9}\text{H}_{11}$ <!-- feedback: Incorrecto. Confundió la multiplicación $2n$ con una suma. -->
 
 ### Explicacion Pedagogica
@@ -225,10 +225,10 @@ La fórmula general de los alcanos lineales es $\text{C}_n\text{H}_{2n+2}$. Reem
 Para un alcano lineal acíclico con $n = 10$ átomos de carbono, ¿cuál es su fórmula molecular según la regla general $\text{C}_n\text{H}_{2n+2}$?
 
 ### Opciones
-- [x] A) $\text{C}_{10}\text{H}_{22}$ <!-- feedback: Correcto. $2(10) + 2 = 22$, por lo que la fórmula es $\text{C}_{10}\text{H}_{22}$. -->
-- [ ] B) $\text{C}_{10}\text{H}_{24}$ <!-- feedback: Incorrecto. Sumó hidrógenos excedentes a la fórmula de saturación. -->
-- [ ] C) $\text{C}_{10}\text{H}_{18}$ <!-- feedback: Incorrecto. Esta es la fórmula para alquinos. -->
-- [ ] D) $\text{C}_{10}\text{H}_{12}$ <!-- feedback: Incorrecto. Confundió la multiplicación $2n$ con una suma. -->
+- [x] D) $\text{C}_{10}\text{H}_{22}$ <!-- feedback: Correcto. $2(10) + 2 = 22$, por lo que la fórmula es $\text{C}_{10}\text{H}_{22}$. -->
+- [ ] A) $\text{C}_{10}\text{H}_{24}$ <!-- feedback: Incorrecto. Sumó hidrógenos excedentes a la fórmula de saturación. -->
+- [ ] B) $\text{C}_{10}\text{H}_{18}$ <!-- feedback: Incorrecto. Esta es la fórmula para alquinos. -->
+- [ ] C) $\text{C}_{10}\text{H}_{12}$ <!-- feedback: Incorrecto. Confundió la multiplicación $2n$ con una suma. -->
 
 ### Explicacion Pedagogica
 La fórmula general de los alcanos lineales es $\text{C}_n\text{H}_{2n+2}$. Reemplazando $n = 10$ obtenemos $\text{C}_{10}\text{H}_{22}$.
@@ -246,8 +246,8 @@ La fórmula general de los alcanos lineales es $\text{C}_n\text{H}_{2n+2}$. Reem
 Para un alcano lineal acíclico con $n = 11$ átomos de carbono, ¿cuál es su fórmula molecular según la regla general $\text{C}_n\text{H}_{2n+2}$?
 
 ### Opciones
-- [x] A) $\text{C}_{11}\text{H}_{24}$ <!-- feedback: Correcto. $2(11) + 2 = 24$, por lo que la fórmula es $\text{C}_{11}\text{H}_{24}$. -->
-- [ ] B) $\text{C}_{11}\text{H}_{26}$ <!-- feedback: Incorrecto. Sumó hidrógenos excedentes a la fórmula de saturación. -->
+- [x] B) $\text{C}_{11}\text{H}_{24}$ <!-- feedback: Correcto. $2(11) + 2 = 24$, por lo que la fórmula es $\text{C}_{11}\text{H}_{24}$. -->
+- [ ] A) $\text{C}_{11}\text{H}_{26}$ <!-- feedback: Incorrecto. Sumó hidrógenos excedentes a la fórmula de saturación. -->
 - [ ] C) $\text{C}_{11}\text{H}_{20}$ <!-- feedback: Incorrecto. Esta es la fórmula para alquinos. -->
 - [ ] D) $\text{C}_{11}\text{H}_{13}$ <!-- feedback: Incorrecto. Confundió la multiplicación $2n$ con una suma. -->
 
@@ -267,10 +267,10 @@ La fórmula general de los alcanos lineales es $\text{C}_n\text{H}_{2n+2}$. Reem
 Para un alcano lineal acíclico con $n = 12$ átomos de carbono, ¿cuál es su fórmula molecular según la regla general $\text{C}_n\text{H}_{2n+2}$?
 
 ### Opciones
-- [x] A) $\text{C}_{12}\text{H}_{26}$ <!-- feedback: Correcto. $2(12) + 2 = 26$, por lo que la fórmula es $\text{C}_{12}\text{H}_{26}$. -->
-- [ ] B) $\text{C}_{12}\text{H}_{28}$ <!-- feedback: Incorrecto. Sumó hidrógenos excedentes a la fórmula de saturación. -->
-- [ ] C) $\text{C}_{12}\text{H}_{22}$ <!-- feedback: Incorrecto. Esta es la fórmula para alquinos. -->
-- [ ] D) $\text{C}_{12}\text{H}_{14}$ <!-- feedback: Incorrecto. Confundió la multiplicación $2n$ con una suma. -->
+- [x] D) $\text{C}_{12}\text{H}_{26}$ <!-- feedback: Correcto. $2(12) + 2 = 26$, por lo que la fórmula es $\text{C}_{12}\text{H}_{26}$. -->
+- [ ] A) $\text{C}_{12}\text{H}_{28}$ <!-- feedback: Incorrecto. Sumó hidrógenos excedentes a la fórmula de saturación. -->
+- [ ] B) $\text{C}_{12}\text{H}_{22}$ <!-- feedback: Incorrecto. Esta es la fórmula para alquinos. -->
+- [ ] C) $\text{C}_{12}\text{H}_{14}$ <!-- feedback: Incorrecto. Confundió la multiplicación $2n$ con una suma. -->
 
 ### Explicacion Pedagogica
 La fórmula general de los alcanos lineales es $\text{C}_n\text{H}_{2n+2}$. Reemplazando $n = 12$ obtenemos $\text{C}_{12}\text{H}_{26}$.
@@ -288,10 +288,10 @@ La fórmula general de los alcanos lineales es $\text{C}_n\text{H}_{2n+2}$. Reem
 Para un alcano lineal acíclico con $n = 13$ átomos de carbono, ¿cuál es su fórmula molecular según la regla general $\text{C}_n\text{H}_{2n+2}$?
 
 ### Opciones
-- [x] A) $\text{C}_{13}\text{H}_{28}$ <!-- feedback: Correcto. $2(13) + 2 = 28$, por lo que la fórmula es $\text{C}_{13}\text{H}_{28}$. -->
-- [ ] B) $\text{C}_{13}\text{H}_{30}$ <!-- feedback: Incorrecto. Sumó hidrógenos excedentes a la fórmula de saturación. -->
-- [ ] C) $\text{C}_{13}\text{H}_{24}$ <!-- feedback: Incorrecto. Esta es la fórmula para alquinos. -->
-- [ ] D) $\text{C}_{13}\text{H}_{15}$ <!-- feedback: Incorrecto. Confundió la multiplicación $2n$ con una suma. -->
+- [x] D) $\text{C}_{13}\text{H}_{28}$ <!-- feedback: Correcto. $2(13) + 2 = 28$, por lo que la fórmula es $\text{C}_{13}\text{H}_{28}$. -->
+- [ ] A) $\text{C}_{13}\text{H}_{30}$ <!-- feedback: Incorrecto. Sumó hidrógenos excedentes a la fórmula de saturación. -->
+- [ ] B) $\text{C}_{13}\text{H}_{24}$ <!-- feedback: Incorrecto. Esta es la fórmula para alquinos. -->
+- [ ] C) $\text{C}_{13}\text{H}_{15}$ <!-- feedback: Incorrecto. Confundió la multiplicación $2n$ con una suma. -->
 
 ### Explicacion Pedagogica
 La fórmula general de los alcanos lineales es $\text{C}_n\text{H}_{2n+2}$. Reemplazando $n = 13$ obtenemos $\text{C}_{13}\text{H}_{28}$.
@@ -309,8 +309,8 @@ La fórmula general de los alcanos lineales es $\text{C}_n\text{H}_{2n+2}$. Reem
 Para un alcano lineal acíclico con $n = 14$ átomos de carbono, ¿cuál es su fórmula molecular según la regla general $\text{C}_n\text{H}_{2n+2}$?
 
 ### Opciones
-- [x] A) $\text{C}_{14}\text{H}_{30}$ <!-- feedback: Correcto. $2(14) + 2 = 30$, por lo que la fórmula es $\text{C}_{14}\text{H}_{30}$. -->
-- [ ] B) $\text{C}_{14}\text{H}_{32}$ <!-- feedback: Incorrecto. Sumó hidrógenos excedentes a la fórmula de saturación. -->
+- [x] B) $\text{C}_{14}\text{H}_{30}$ <!-- feedback: Correcto. $2(14) + 2 = 30$, por lo que la fórmula es $\text{C}_{14}\text{H}_{30}$. -->
+- [ ] A) $\text{C}_{14}\text{H}_{32}$ <!-- feedback: Incorrecto. Sumó hidrógenos excedentes a la fórmula de saturación. -->
 - [ ] C) $\text{C}_{14}\text{H}_{26}$ <!-- feedback: Incorrecto. Esta es la fórmula para alquinos. -->
 - [ ] D) $\text{C}_{14}\text{H}_{16}$ <!-- feedback: Incorrecto. Confundió la multiplicación $2n$ con una suma. -->
 
@@ -351,8 +351,8 @@ La fórmula general de los alcanos lineales es $\text{C}_n\text{H}_{2n+2}$. Reem
 Para un alcano lineal acíclico con $n = 16$ átomos de carbono, ¿cuál es su fórmula molecular según la regla general $\text{C}_n\text{H}_{2n+2}$?
 
 ### Opciones
-- [x] A) $\text{C}_{16}\text{H}_{34}$ <!-- feedback: Correcto. $2(16) + 2 = 34$, por lo que la fórmula es $\text{C}_{16}\text{H}_{34}$. -->
-- [ ] B) $\text{C}_{16}\text{H}_{36}$ <!-- feedback: Incorrecto. Sumó hidrógenos excedentes a la fórmula de saturación. -->
+- [x] B) $\text{C}_{16}\text{H}_{34}$ <!-- feedback: Correcto. $2(16) + 2 = 34$, por lo que la fórmula es $\text{C}_{16}\text{H}_{34}$. -->
+- [ ] A) $\text{C}_{16}\text{H}_{36}$ <!-- feedback: Incorrecto. Sumó hidrógenos excedentes a la fórmula de saturación. -->
 - [ ] C) $\text{C}_{16}\text{H}_{30}$ <!-- feedback: Incorrecto. Esta es la fórmula para alquinos. -->
 - [ ] D) $\text{C}_{16}\text{H}_{18}$ <!-- feedback: Incorrecto. Confundió la multiplicación $2n$ con una suma. -->
 
@@ -372,8 +372,8 @@ La fórmula general de los alcanos lineales es $\text{C}_n\text{H}_{2n+2}$. Reem
 Para un alcano lineal acíclico con $n = 17$ átomos de carbono, ¿cuál es su fórmula molecular según la regla general $\text{C}_n\text{H}_{2n+2}$?
 
 ### Opciones
-- [x] A) $\text{C}_{17}\text{H}_{36}$ <!-- feedback: Correcto. $2(17) + 2 = 36$, por lo que la fórmula es $\text{C}_{17}\text{H}_{36}$. -->
-- [ ] B) $\text{C}_{17}\text{H}_{38}$ <!-- feedback: Incorrecto. Sumó hidrógenos excedentes a la fórmula de saturación. -->
+- [x] B) $\text{C}_{17}\text{H}_{36}$ <!-- feedback: Correcto. $2(17) + 2 = 36$, por lo que la fórmula es $\text{C}_{17}\text{H}_{36}$. -->
+- [ ] A) $\text{C}_{17}\text{H}_{38}$ <!-- feedback: Incorrecto. Sumó hidrógenos excedentes a la fórmula de saturación. -->
 - [ ] C) $\text{C}_{17}\text{H}_{32}$ <!-- feedback: Incorrecto. Esta es la fórmula para alquinos. -->
 - [ ] D) $\text{C}_{17}\text{H}_{19}$ <!-- feedback: Incorrecto. Confundió la multiplicación $2n$ con una suma. -->
 
@@ -393,8 +393,8 @@ La fórmula general de los alcanos lineales es $\text{C}_n\text{H}_{2n+2}$. Reem
 Para un alcano lineal acíclico con $n = 18$ átomos de carbono, ¿cuál es su fórmula molecular según la regla general $\text{C}_n\text{H}_{2n+2}$?
 
 ### Opciones
-- [x] A) $\text{C}_{18}\text{H}_{38}$ <!-- feedback: Correcto. $2(18) + 2 = 38$, por lo que la fórmula es $\text{C}_{18}\text{H}_{38}$. -->
-- [ ] B) $\text{C}_{18}\text{H}_{40}$ <!-- feedback: Incorrecto. Sumó hidrógenos excedentes a la fórmula de saturación. -->
+- [x] B) $\text{C}_{18}\text{H}_{38}$ <!-- feedback: Correcto. $2(18) + 2 = 38$, por lo que la fórmula es $\text{C}_{18}\text{H}_{38}$. -->
+- [ ] A) $\text{C}_{18}\text{H}_{40}$ <!-- feedback: Incorrecto. Sumó hidrógenos excedentes a la fórmula de saturación. -->
 - [ ] C) $\text{C}_{18}\text{H}_{34}$ <!-- feedback: Incorrecto. Esta es la fórmula para alquinos. -->
 - [ ] D) $\text{C}_{18}\text{H}_{20}$ <!-- feedback: Incorrecto. Confundió la multiplicación $2n$ con una suma. -->
 
@@ -435,8 +435,8 @@ La fórmula general de los alcanos lineales es $\text{C}_n\text{H}_{2n+2}$. Reem
 Para un alcano lineal acíclico con $n = 20$ átomos de carbono, ¿cuál es su fórmula molecular según la regla general $\text{C}_n\text{H}_{2n+2}$?
 
 ### Opciones
-- [x] A) $\text{C}_{20}\text{H}_{42}$ <!-- feedback: Correcto. $2(20) + 2 = 42$, por lo que la fórmula es $\text{C}_{20}\text{H}_{42}$. -->
-- [ ] B) $\text{C}_{20}\text{H}_{44}$ <!-- feedback: Incorrecto. Sumó hidrógenos excedentes a la fórmula de saturación. -->
+- [x] B) $\text{C}_{20}\text{H}_{42}$ <!-- feedback: Correcto. $2(20) + 2 = 42$, por lo que la fórmula es $\text{C}_{20}\text{H}_{42}$. -->
+- [ ] A) $\text{C}_{20}\text{H}_{44}$ <!-- feedback: Incorrecto. Sumó hidrógenos excedentes a la fórmula de saturación. -->
 - [ ] C) $\text{C}_{20}\text{H}_{38}$ <!-- feedback: Incorrecto. Esta es la fórmula para alquinos. -->
 - [ ] D) $\text{C}_{20}\text{H}_{22}$ <!-- feedback: Incorrecto. Confundió la multiplicación $2n$ con una suma. -->
 

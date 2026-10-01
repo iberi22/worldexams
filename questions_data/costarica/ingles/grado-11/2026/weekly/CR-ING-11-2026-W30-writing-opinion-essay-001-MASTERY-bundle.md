@@ -32,11 +32,11 @@ bundle_index: 1
 What is the English word for: "A place where you live or stay on holiday."
 
 ### Opciones
-- [x] A) accommodation
+- [x] C) accommodation
   <!-- feedback: Correct! 'accommodation' matches the definition. -->
-- [ ] B) transportation
+- [ ] A) transportation
   <!-- feedback: Incorrect. Try again. -->
-- [ ] C) entertainment
+- [ ] B) entertainment
   <!-- feedback: Incorrect. Try again. -->
 - [ ] D) currency
   <!-- feedback: Incorrect. Try again. -->
@@ -55,13 +55,13 @@ The word 'accommodation' is used to describe a place where you live or stay on h
 What is the English word for: "A detailed plan or route of a journey."
 
 ### Opciones
-- [x] A) itinerary
+- [x] D) itinerary
   <!-- feedback: Correct! 'itinerary' matches the definition. -->
-- [ ] B) baggage
+- [ ] A) baggage
   <!-- feedback: Incorrect. Try again. -->
-- [ ] C) destination
+- [ ] B) destination
   <!-- feedback: Incorrect. Try again. -->
-- [ ] D) passport
+- [ ] C) passport
   <!-- feedback: Incorrect. Try again. -->
 
 ### Explicacion Pedagogica
@@ -78,11 +78,11 @@ The word 'itinerary' is used to describe a detailed plan or route of a journey. 
 What is the English word for: "The place to which someone or something is going or being sent."
 
 ### Opciones
-- [x] A) destination
+- [x] C) destination
   <!-- feedback: Correct! 'destination' matches the definition. -->
-- [ ] B) departure
+- [ ] A) departure
   <!-- feedback: Incorrect. Try again. -->
-- [ ] C) arrival
+- [ ] B) arrival
   <!-- feedback: Incorrect. Try again. -->
 - [ ] D) journey
   <!-- feedback: Incorrect. Try again. -->
@@ -170,13 +170,13 @@ The word 'customs' is used to describe the place at a port, airport, or frontier
 What is the English word for: "A document provided by an airline during check-in, giving a passenger permission to board the airplane."
 
 ### Opciones
-- [x] A) boarding pass
+- [x] D) boarding pass
   <!-- feedback: Correct! 'boarding pass' matches the definition. -->
-- [ ] B) visa
+- [ ] A) visa
   <!-- feedback: Incorrect. Try again. -->
-- [ ] C) receipt
+- [ ] B) receipt
   <!-- feedback: Incorrect. Try again. -->
-- [ ] D) brochure
+- [ ] C) brochure
   <!-- feedback: Incorrect. Try again. -->
 
 ### Explicacion Pedagogica
@@ -193,11 +193,11 @@ The word 'boarding pass' is used to describe a document provided by an airline d
 What is the English word for: "The activity of visiting places of interest in a particular location."
 
 ### Opciones
-- [x] A) sightseeing
+- [x] C) sightseeing
   <!-- feedback: Correct! 'sightseeing' matches the definition. -->
-- [ ] B) shopping
+- [ ] A) shopping
   <!-- feedback: Incorrect. Try again. -->
-- [ ] C) hiking
+- [ ] B) hiking
   <!-- feedback: Incorrect. Try again. -->
 - [ ] D) camping
   <!-- feedback: Incorrect. Try again. -->
@@ -239,11 +239,11 @@ The word 'souvenir' is used to describe a thing that is kept as a reminder of a 
 What is the English word for: "A period of time by which something is late or postponed."
 
 ### Opciones
-- [x] A) delay
+- [x] C) delay
   <!-- feedback: Correct! 'delay' matches the definition. -->
-- [ ] B) cancellation
+- [ ] A) cancellation
   <!-- feedback: Incorrect. Try again. -->
-- [ ] C) departure
+- [ ] B) departure
   <!-- feedback: Incorrect. Try again. -->
 - [ ] D) arrival
   <!-- feedback: Incorrect. Try again. -->
@@ -262,11 +262,11 @@ The word 'delay' is used to describe a period of time by which something is late
 What is the English word for: "The act of reporting one's presence and registering, typically at an airport or hotel."
 
 ### Opciones
-- [x] A) check-in
+- [x] C) check-in
   <!-- feedback: Correct! 'check-in' matches the definition. -->
-- [ ] B) check-out
+- [ ] A) check-out
   <!-- feedback: Incorrect. Try again. -->
-- [ ] C) booking
+- [ ] B) booking
   <!-- feedback: Incorrect. Try again. -->
 - [ ] D) reservation
   <!-- feedback: Incorrect. Try again. -->
@@ -308,9 +308,9 @@ The word 'layover' is used to describe a period of rest or waiting before a furt
 What is the English word for: "A system of money in general use in a particular country."
 
 ### Opciones
-- [x] A) currency
+- [x] B) currency
   <!-- feedback: Correct! 'currency' matches the definition. -->
-- [ ] B) coin
+- [ ] A) coin
   <!-- feedback: Incorrect. Try again. -->
 - [ ] C) banknote
   <!-- feedback: Incorrect. Try again. -->
@@ -331,11 +331,11 @@ The word 'currency' is used to describe a system of money in general use in a pa
 What is the English word for: "A book of information about a place designed for the use of visitors or tourists."
 
 ### Opciones
-- [x] A) guidebook
+- [x] C) guidebook
   <!-- feedback: Correct! 'guidebook' matches the definition. -->
-- [ ] B) map
+- [ ] A) map
   <!-- feedback: Incorrect. Try again. -->
-- [ ] C) dictionary
+- [ ] B) dictionary
   <!-- feedback: Incorrect. Try again. -->
 - [ ] D) encyclopedia
   <!-- feedback: Incorrect. Try again. -->
@@ -354,13 +354,13 @@ The word 'guidebook' is used to describe a book of information about a place des
 What is the English word for: "A bag with shoulder straps that allow it to be carried on one's back."
 
 ### Opciones
-- [x] A) backpack
+- [x] D) backpack
   <!-- feedback: Correct! 'backpack' matches the definition. -->
-- [ ] B) suitcase
+- [ ] A) suitcase
   <!-- feedback: Incorrect. Try again. -->
-- [ ] C) briefcase
+- [ ] B) briefcase
   <!-- feedback: Incorrect. Try again. -->
-- [ ] D) handbag
+- [ ] C) handbag
   <!-- feedback: Incorrect. Try again. -->
 
 ### Explicacion Pedagogica
@@ -377,9 +377,9 @@ The word 'backpack' is used to describe a bag with shoulder straps that allow it
 What is the English word for: "In or to a foreign country, especially one across the sea."
 
 ### Opciones
-- [x] A) overseas
+- [x] B) overseas
   <!-- feedback: Correct! 'overseas' matches the definition. -->
-- [ ] B) domestic
+- [ ] A) domestic
   <!-- feedback: Incorrect. Try again. -->
 - [ ] C) local
   <!-- feedback: Incorrect. Try again. -->
@@ -400,13 +400,13 @@ The word 'overseas' is used to describe in or to a foreign country, especially o
 What is the English word for: "An estimate of income and expenditure for a set period of time."
 
 ### Opciones
-- [x] A) budget
+- [x] D) budget
   <!-- feedback: Correct! 'budget' matches the definition. -->
-- [ ] B) expense
+- [ ] A) expense
   <!-- feedback: Incorrect. Try again. -->
-- [ ] C) cost
+- [ ] B) cost
   <!-- feedback: Incorrect. Try again. -->
-- [ ] D) price
+- [ ] C) price
   <!-- feedback: Incorrect. Try again. -->
 
 ### Explicacion Pedagogica
@@ -423,9 +423,9 @@ The word 'budget' is used to describe an estimate of income and expenditure for 
 What is the English word for: "A practice or arrangement by which a company or government agency provides a guarantee of compensation for specified loss, damage, illness, or death in return for payment of a premium."
 
 ### Opciones
-- [x] A) insurance
+- [x] B) insurance
   <!-- feedback: Correct! 'insurance' matches the definition. -->
-- [ ] B) warranty
+- [ ] A) warranty
   <!-- feedback: Incorrect. Try again. -->
 - [ ] C) guarantee
   <!-- feedback: Incorrect. Try again. -->
@@ -446,11 +446,11 @@ The word 'insurance' is used to describe a practice or arrangement by which a co
 What is the English word for: "Treatment with a vaccine to produce immunity against a disease."
 
 ### Opciones
-- [x] A) vaccination
+- [x] C) vaccination
   <!-- feedback: Correct! 'vaccination' matches the definition. -->
-- [ ] B) medication
+- [ ] A) medication
   <!-- feedback: Incorrect. Try again. -->
-- [ ] C) prescription
+- [ ] B) prescription
   <!-- feedback: Incorrect. Try again. -->
 - [ ] D) infection
   <!-- feedback: Incorrect. Try again. -->
@@ -469,9 +469,9 @@ The word 'vaccination' is used to describe treatment with a vaccine to produce i
 What is the English word for: "Extreme tiredness and other physical effects felt by a person after a long flight across several time zones."
 
 ### Opciones
-- [x] A) jet lag
+- [x] B) jet lag
   <!-- feedback: Correct! 'jet lag' matches the definition. -->
-- [ ] B) fatigue
+- [ ] A) fatigue
   <!-- feedback: Incorrect. Try again. -->
 - [ ] C) exhaustion
   <!-- feedback: Incorrect. Try again. -->

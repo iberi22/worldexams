@@ -31,8 +31,8 @@ bundle_index: 1
 Si dos ángulos son suplementarios y uno de ellos mide $65^{\circ}$, ¿cuánto mide el otro ángulo?
 
 ### Opciones
-- [x] A) $115^{\circ}$ <!-- feedback: Correcto. Dos ángulos suplementarios suman $180^{\circ}$, por lo que $180 - 65 = 115$. -->
-- [ ] B) $125^{\circ}$ <!-- feedback: Incorrecto. Error aritmético de sustracción. -->
+- [x] B) $115^{\circ}$ <!-- feedback: Correcto. Dos ángulos suplementarios suman $180^{\circ}$, por lo que $180 - 65 = 115$. -->
+- [ ] A) $125^{\circ}$ <!-- feedback: Incorrecto. Error aritmético de sustracción. -->
 - [ ] C) $25^{\circ}$ <!-- feedback: Incorrecto. Esta es la medida si fueran complementarios (sumando $90^{\circ}$). -->
 - [ ] D) $90^{\circ}$ <!-- feedback: Incorrecto. Esta es la diferencia básica. -->
 
@@ -75,8 +75,8 @@ En un triángulo acutángulo, las medidas de sus ángulos interiores están dada
 ### Opciones
 - [ ] A) $10$ <!-- feedback: Incorrecto. Error al dividir los términos de la ecuación. -->
 - [ ] B) $15$ <!-- feedback: Incorrecto. No satisface la suma de ángulos de 180. -->
-- [x] C) $20$ <!-- feedback: Correcto. Ya que $2x + 3x + 4x = 180 \implies 9x = 180 \implies x = 20$. -->
-- [ ] D) $25$ <!-- feedback: Incorrecto. Valor que sobrepasa el límite de suma de ángulos. -->
+- [x] D) $20$ <!-- feedback: Correcto. Ya que $2x + 3x + 4x = 180 \implies 9x = 180 \implies x = 20$. -->
+- [ ] C) $25$ <!-- feedback: Incorrecto. Valor que sobrepasa el límite de suma de ángulos. -->
 
 ### Explicacion Pedagogica
 La suma de los ángulos interiores de un triángulo es $180^{\circ}$. Planteamos la ecuación: $2x + 3x + 4x = 180 \implies 9x = 180$. Dividiendo ambos lados por 9, hallamos que $x = 20$.
@@ -94,9 +94,9 @@ La suma de los ángulos interiores de un triángulo es $180^{\circ}$. Planteamos
 En un triángulo acutángulo, las medidas de sus ángulos interiores están dadas en términos de $x$ por las expresiones $2x$, $3x$ y $4x$. Determina el valor numérico de $x$.
 
 ### Opciones
-- [ ] A) $10$ <!-- feedback: Incorrecto. Error al dividir los términos de la ecuación. -->
-- [ ] B) $15$ <!-- feedback: Incorrecto. No satisface la suma de ángulos de 180. -->
-- [x] C) $20$ <!-- feedback: Correcto. Ya que $2x + 3x + 4x = 180 \implies 9x = 180 \implies x = 20$. -->
+- [ ] B) $10$ <!-- feedback: Incorrecto. Error al dividir los términos de la ecuación. -->
+- [ ] C) $15$ <!-- feedback: Incorrecto. No satisface la suma de ángulos de 180. -->
+- [x] A) $20$ <!-- feedback: Correcto. Ya que $2x + 3x + 4x = 180 \implies 9x = 180 \implies x = 20$. -->
 - [ ] D) $25$ <!-- feedback: Incorrecto. Valor que sobrepasa el límite de suma de ángulos. -->
 
 ### Explicacion Pedagogica
@@ -118,8 +118,8 @@ En un triángulo acutángulo, las medidas de sus ángulos interiores están dada
 
 ### Opciones
 - [ ] A) $10$ <!-- feedback: Incorrecto. Error al dividir los términos de la ecuación. -->
-- [ ] B) $15$ <!-- feedback: Incorrecto. No satisface la suma de ángulos de 180. -->
-- [x] C) $20$ <!-- feedback: Correcto. Ya que $2x + 3x + 4x = 180 \implies 9x = 180 \implies x = 20$. -->
+- [ ] C) $15$ <!-- feedback: Incorrecto. No satisface la suma de ángulos de 180. -->
+- [x] B) $20$ <!-- feedback: Correcto. Ya que $2x + 3x + 4x = 180 \implies 9x = 180 \implies x = 20$. -->
 - [ ] D) $25$ <!-- feedback: Incorrecto. Valor que sobrepasa el límite de suma de ángulos. -->
 
 ### Explicacion Pedagogica
@@ -140,8 +140,8 @@ En un triángulo acutángulo, las medidas de sus ángulos interiores están dada
 ### Opciones
 - [ ] A) $10$ <!-- feedback: Incorrecto. Error al dividir los términos de la ecuación. -->
 - [ ] B) $15$ <!-- feedback: Incorrecto. No satisface la suma de ángulos de 180. -->
-- [x] C) $20$ <!-- feedback: Correcto. Ya que $2x + 3x + 4x = 180 \implies 9x = 180 \implies x = 20$. -->
-- [ ] D) $25$ <!-- feedback: Incorrecto. Valor que sobrepasa el límite de suma de ángulos. -->
+- [x] D) $20$ <!-- feedback: Correcto. Ya que $2x + 3x + 4x = 180 \implies 9x = 180 \implies x = 20$. -->
+- [ ] C) $25$ <!-- feedback: Incorrecto. Valor que sobrepasa el límite de suma de ángulos. -->
 
 ### Explicacion Pedagogica
 La suma de los ángulos interiores de un triángulo es $180^{\circ}$. Planteamos la ecuación: $2x + 3x + 4x = 180 \implies 9x = 180$. Dividiendo ambos lados por 9, hallamos que $x = 20$.
@@ -182,8 +182,8 @@ En un triángulo acutángulo, las medidas de sus ángulos interiores están dada
 ### Opciones
 - [ ] A) $10$ <!-- feedback: Incorrecto. Error al dividir los términos de la ecuación. -->
 - [ ] B) $15$ <!-- feedback: Incorrecto. No satisface la suma de ángulos de 180. -->
-- [x] C) $20$ <!-- feedback: Correcto. Ya que $2x + 3x + 4x = 180 \implies 9x = 180 \implies x = 20$. -->
-- [ ] D) $25$ <!-- feedback: Incorrecto. Valor que sobrepasa el límite de suma de ángulos. -->
+- [x] D) $20$ <!-- feedback: Correcto. Ya que $2x + 3x + 4x = 180 \implies 9x = 180 \implies x = 20$. -->
+- [ ] C) $25$ <!-- feedback: Incorrecto. Valor que sobrepasa el límite de suma de ángulos. -->
 
 ### Explicacion Pedagogica
 La suma de los ángulos interiores de un triángulo es $180^{\circ}$. Planteamos la ecuación: $2x + 3x + 4x = 180 \implies 9x = 180$. Dividiendo ambos lados por 9, hallamos que $x = 20$.
@@ -201,9 +201,9 @@ La suma de los ángulos interiores de un triángulo es $180^{\circ}$. Planteamos
 En un triángulo acutángulo, las medidas de sus ángulos interiores están dadas en términos de $x$ por las expresiones $2x$, $3x$ y $4x$. Determina el valor numérico de $x$.
 
 ### Opciones
-- [ ] A) $10$ <!-- feedback: Incorrecto. Error al dividir los términos de la ecuación. -->
-- [ ] B) $15$ <!-- feedback: Incorrecto. No satisface la suma de ángulos de 180. -->
-- [x] C) $20$ <!-- feedback: Correcto. Ya que $2x + 3x + 4x = 180 \implies 9x = 180 \implies x = 20$. -->
+- [ ] B) $10$ <!-- feedback: Incorrecto. Error al dividir los términos de la ecuación. -->
+- [ ] C) $15$ <!-- feedback: Incorrecto. No satisface la suma de ángulos de 180. -->
+- [x] A) $20$ <!-- feedback: Correcto. Ya que $2x + 3x + 4x = 180 \implies 9x = 180 \implies x = 20$. -->
 - [ ] D) $25$ <!-- feedback: Incorrecto. Valor que sobrepasa el límite de suma de ángulos. -->
 
 ### Explicacion Pedagogica
@@ -247,8 +247,8 @@ En un triángulo acutángulo, las medidas de sus ángulos interiores están dada
 ### Opciones
 - [ ] A) $10$ <!-- feedback: Incorrecto. Error al dividir los términos de la ecuación. -->
 - [ ] B) $15$ <!-- feedback: Incorrecto. No satisface la suma de ángulos de 180. -->
-- [x] C) $20$ <!-- feedback: Correcto. Ya que $2x + 3x + 4x = 180 \implies 9x = 180 \implies x = 20$. -->
-- [ ] D) $25$ <!-- feedback: Incorrecto. Valor que sobrepasa el límite de suma de ángulos. -->
+- [x] D) $20$ <!-- feedback: Correcto. Ya que $2x + 3x + 4x = 180 \implies 9x = 180 \implies x = 20$. -->
+- [ ] C) $25$ <!-- feedback: Incorrecto. Valor que sobrepasa el límite de suma de ángulos. -->
 
 ### Explicacion Pedagogica
 La suma de los ángulos interiores de un triángulo es $180^{\circ}$. Planteamos la ecuación: $2x + 3x + 4x = 180 \implies 9x = 180$. Dividiendo ambos lados por 9, hallamos que $x = 20$.
@@ -268,8 +268,8 @@ En un triángulo acutángulo, las medidas de sus ángulos interiores están dada
 ### Opciones
 - [ ] A) $10$ <!-- feedback: Incorrecto. Error al dividir los términos de la ecuación. -->
 - [ ] B) $15$ <!-- feedback: Incorrecto. No satisface la suma de ángulos de 180. -->
-- [x] C) $20$ <!-- feedback: Correcto. Ya que $2x + 3x + 4x = 180 \implies 9x = 180 \implies x = 20$. -->
-- [ ] D) $25$ <!-- feedback: Incorrecto. Valor que sobrepasa el límite de suma de ángulos. -->
+- [x] D) $20$ <!-- feedback: Correcto. Ya que $2x + 3x + 4x = 180 \implies 9x = 180 \implies x = 20$. -->
+- [ ] C) $25$ <!-- feedback: Incorrecto. Valor que sobrepasa el límite de suma de ángulos. -->
 
 ### Explicacion Pedagogica
 La suma de los ángulos interiores de un triángulo es $180^{\circ}$. Planteamos la ecuación: $2x + 3x + 4x = 180 \implies 9x = 180$. Dividiendo ambos lados por 9, hallamos que $x = 20$.
@@ -308,9 +308,9 @@ La suma de los ángulos interiores de un triángulo es $180^{\circ}$. Planteamos
 En un triángulo acutángulo, las medidas de sus ángulos interiores están dadas en términos de $x$ por las expresiones $2x$, $3x$ y $4x$. Determina el valor numérico de $x$.
 
 ### Opciones
-- [ ] A) $10$ <!-- feedback: Incorrecto. Error al dividir los términos de la ecuación. -->
-- [ ] B) $15$ <!-- feedback: Incorrecto. No satisface la suma de ángulos de 180. -->
-- [x] C) $20$ <!-- feedback: Correcto. Ya que $2x + 3x + 4x = 180 \implies 9x = 180 \implies x = 20$. -->
+- [ ] B) $10$ <!-- feedback: Incorrecto. Error al dividir los términos de la ecuación. -->
+- [ ] C) $15$ <!-- feedback: Incorrecto. No satisface la suma de ángulos de 180. -->
+- [x] A) $20$ <!-- feedback: Correcto. Ya que $2x + 3x + 4x = 180 \implies 9x = 180 \implies x = 20$. -->
 - [ ] D) $25$ <!-- feedback: Incorrecto. Valor que sobrepasa el límite de suma de ángulos. -->
 
 ### Explicacion Pedagogica
@@ -329,9 +329,9 @@ La suma de los ángulos interiores de un triángulo es $180^{\circ}$. Planteamos
 En un triángulo acutángulo, las medidas de sus ángulos interiores están dadas en términos de $x$ por las expresiones $2x$, $3x$ y $4x$. Determina el valor numérico de $x$.
 
 ### Opciones
-- [ ] A) $10$ <!-- feedback: Incorrecto. Error al dividir los términos de la ecuación. -->
-- [ ] B) $15$ <!-- feedback: Incorrecto. No satisface la suma de ángulos de 180. -->
-- [x] C) $20$ <!-- feedback: Correcto. Ya que $2x + 3x + 4x = 180 \implies 9x = 180 \implies x = 20$. -->
+- [ ] B) $10$ <!-- feedback: Incorrecto. Error al dividir los términos de la ecuación. -->
+- [ ] C) $15$ <!-- feedback: Incorrecto. No satisface la suma de ángulos de 180. -->
+- [x] A) $20$ <!-- feedback: Correcto. Ya que $2x + 3x + 4x = 180 \implies 9x = 180 \implies x = 20$. -->
 - [ ] D) $25$ <!-- feedback: Incorrecto. Valor que sobrepasa el límite de suma de ángulos. -->
 
 ### Explicacion Pedagogica
@@ -352,8 +352,8 @@ En un triángulo acutángulo, las medidas de sus ángulos interiores están dada
 ### Opciones
 - [ ] A) $10$ <!-- feedback: Incorrecto. Error al dividir los términos de la ecuación. -->
 - [ ] B) $15$ <!-- feedback: Incorrecto. No satisface la suma de ángulos de 180. -->
-- [x] C) $20$ <!-- feedback: Correcto. Ya que $2x + 3x + 4x = 180 \implies 9x = 180 \implies x = 20$. -->
-- [ ] D) $25$ <!-- feedback: Incorrecto. Valor que sobrepasa el límite de suma de ángulos. -->
+- [x] D) $20$ <!-- feedback: Correcto. Ya que $2x + 3x + 4x = 180 \implies 9x = 180 \implies x = 20$. -->
+- [ ] C) $25$ <!-- feedback: Incorrecto. Valor que sobrepasa el límite de suma de ángulos. -->
 
 ### Explicacion Pedagogica
 La suma de los ángulos interiores de un triángulo es $180^{\circ}$. Planteamos la ecuación: $2x + 3x + 4x = 180 \implies 9x = 180$. Dividiendo ambos lados por 9, hallamos que $x = 20$.
@@ -395,8 +395,8 @@ En un triángulo acutángulo, las medidas de sus ángulos interiores están dada
 
 ### Opciones
 - [ ] A) $10$ <!-- feedback: Incorrecto. Error al dividir los términos de la ecuación. -->
-- [ ] B) $15$ <!-- feedback: Incorrecto. No satisface la suma de ángulos de 180. -->
-- [x] C) $20$ <!-- feedback: Correcto. Ya que $2x + 3x + 4x = 180 \implies 9x = 180 \implies x = 20$. -->
+- [ ] C) $15$ <!-- feedback: Incorrecto. No satisface la suma de ángulos de 180. -->
+- [x] B) $20$ <!-- feedback: Correcto. Ya que $2x + 3x + 4x = 180 \implies 9x = 180 \implies x = 20$. -->
 - [ ] D) $25$ <!-- feedback: Incorrecto. Valor que sobrepasa el límite de suma de ángulos. -->
 
 ### Explicacion Pedagogica
@@ -417,8 +417,8 @@ En un triángulo acutángulo, las medidas de sus ángulos interiores están dada
 ### Opciones
 - [ ] A) $10$ <!-- feedback: Incorrecto. Error al dividir los términos de la ecuación. -->
 - [ ] B) $15$ <!-- feedback: Incorrecto. No satisface la suma de ángulos de 180. -->
-- [x] C) $20$ <!-- feedback: Correcto. Ya que $2x + 3x + 4x = 180 \implies 9x = 180 \implies x = 20$. -->
-- [ ] D) $25$ <!-- feedback: Incorrecto. Valor que sobrepasa el límite de suma de ángulos. -->
+- [x] D) $20$ <!-- feedback: Correcto. Ya que $2x + 3x + 4x = 180 \implies 9x = 180 \implies x = 20$. -->
+- [ ] C) $25$ <!-- feedback: Incorrecto. Valor que sobrepasa el límite de suma de ángulos. -->
 
 ### Explicacion Pedagogica
 La suma de los ángulos interiores de un triángulo es $180^{\circ}$. Planteamos la ecuación: $2x + 3x + 4x = 180 \implies 9x = 180$. Dividiendo ambos lados por 9, hallamos que $x = 20$.
@@ -436,9 +436,9 @@ La suma de los ángulos interiores de un triángulo es $180^{\circ}$. Planteamos
 En un triángulo acutángulo, las medidas de sus ángulos interiores están dadas en términos de $x$ por las expresiones $2x$, $3x$ y $4x$. Determina el valor numérico de $x$.
 
 ### Opciones
-- [ ] A) $10$ <!-- feedback: Incorrecto. Error al dividir los términos de la ecuación. -->
-- [ ] B) $15$ <!-- feedback: Incorrecto. No satisface la suma de ángulos de 180. -->
-- [x] C) $20$ <!-- feedback: Correcto. Ya que $2x + 3x + 4x = 180 \implies 9x = 180 \implies x = 20$. -->
+- [ ] B) $10$ <!-- feedback: Incorrecto. Error al dividir los términos de la ecuación. -->
+- [ ] C) $15$ <!-- feedback: Incorrecto. No satisface la suma de ángulos de 180. -->
+- [x] A) $20$ <!-- feedback: Correcto. Ya que $2x + 3x + 4x = 180 \implies 9x = 180 \implies x = 20$. -->
 - [ ] D) $25$ <!-- feedback: Incorrecto. Valor que sobrepasa el límite de suma de ángulos. -->
 
 ### Explicacion Pedagogica

@@ -33,8 +33,8 @@ creador: "Jules-Agent"
 ¿Cuál es la condición básica para que exista un diálogo entre dos personas?
 
 ### Opciones
-- [ ] A) Que una persona hable durante mucho tiempo sin dejar que la otra intervenga. <!-- feedback: Incorrecto. Eso es un monólogo, no un diálogo. -->
-- [x] B) Que haya un intercambio de roles entre emisor y receptor (alternancia de turnos). <!-- feedback: Correcto. El diálogo requiere que ambos participantes hablen y escuchen sucesivamente. -->
+- [ ] B) Que una persona hable durante mucho tiempo sin dejar que la otra intervenga. <!-- feedback: Incorrecto. Eso es un monólogo, no un diálogo. -->
+- [x] A) Que haya un intercambio de roles entre emisor y receptor (alternancia de turnos). <!-- feedback: Correcto. El diálogo requiere que ambos participantes hablen y escuchen sucesivamente. -->
 - [ ] C) Que ambos estén de acuerdo en absolutamente todo lo que digan. <!-- feedback: Incorrecto. En el diálogo puede haber diferencias de opinión. -->
 - [ ] D) Que la conversación sea grabada por un teléfono celular. <!-- feedback: Incorrecto. El diálogo puede ser espontáneo y sin tecnología. -->
 
@@ -58,9 +58,9 @@ El diálogo se define por la reciprocidad. A diferencia del monólogo, en el di�
 
 ### Opciones
 - [ ] A) Diálogo planificado, como una entrevista periodística. <!-- feedback: Incorrecto. No hay un guion previo ni una estructura formal. -->
-- [x] B) Diálogo espontáneo o conversación cotidiana. <!-- feedback: Correcto. Es una interacción natural de la vida diaria, sin preparación previa. -->
-- [ ] C) Diálogo literario, porque está escrito en un libro de poemas. <!-- feedback: Incorrecto. El lenguaje es funcional y cotidiano, no poético. -->
-- [ ] D) Debate formal sobre la importancia del deporte en Colombia. <!-- feedback: Incorrecto. Es una consulta simple entre compañeros, no un intercambio de argumentos. -->
+- [x] D) Diálogo espontáneo o conversación cotidiana. <!-- feedback: Correcto. Es una interacción natural de la vida diaria, sin preparación previa. -->
+- [ ] B) Diálogo literario, porque está escrito en un libro de poemas. <!-- feedback: Incorrecto. El lenguaje es funcional y cotidiano, no poético. -->
+- [ ] C) Debate formal sobre la importancia del deporte en Colombia. <!-- feedback: Incorrecto. Es una consulta simple entre compañeros, no un intercambio de argumentos. -->
 
 ### Explicacion Pedagogica
 Las conversaciones espontáneas son los diálogos más comunes. No siguen un orden estricto de temas y surgen por necesidades inmediatas de comunicación o socialización.
@@ -80,8 +80,8 @@ Las conversaciones espontáneas son los diálogos más comunes. No siguen un ord
 ### Opciones
 - [ ] A) Hablar más que los demás para demostrar que es el jefe. <!-- feedback: Incorrecto. El moderador debe hablar poco y dejar que los demás intervengan. -->
 - [ ] B) Decidir quién tiene la razón al final de la conversación. <!-- feedback: Incorrecto. El moderador no juzga opiniones, organiza el proceso. -->
-- [x] C) Organizar los turnos de palabra, mantener el respeto y asegurar que no se desvíen del tema. <!-- feedback: Correcto. El moderador es el facilitador que garantiza el orden y la efectividad de la comunicación grupal. -->
-- [ ] D) Escribir todo lo que dicen los compañeros en un tablero gigante. <!-- feedback: Incorrecto. Esa es la función de un secretario o relator. -->
+- [x] D) Organizar los turnos de palabra, mantener el respeto y asegurar que no se desvíen del tema. <!-- feedback: Correcto. El moderador es el facilitador que garantiza el orden y la efectividad de la comunicación grupal. -->
+- [ ] C) Escribir todo lo que dicen los compañeros en un tablero gigante. <!-- feedback: Incorrecto. Esa es la función de un secretario o relator. -->
 
 ### Explicacion Pedagogica
 En diálogos formales (como mesas redondas o debates), el moderador es clave. Su papel es neutral: garantiza que todos participen de forma equitativa y que el diálogo cumpla su objetivo sin caer en el desorden.
@@ -100,9 +100,9 @@ En diálogos formales (como mesas redondas o debates), el moderador es clave. Su
 
 ### Opciones
 - [ ] A) La regla de la cortesía, porque están usando mayúsculas. <!-- feedback: Incorrecto. No se menciona el uso de mayúsculas, sino la mezcla de temas. -->
-- [x] B) El principio de cooperación y la unidad de tema. <!-- feedback: Correcto. Para que una conversación sea efectiva, los participantes deben seguir un hilo conductor y no hablar de cosas inconexas al mismo tiempo. -->
-- [ ] C) La regla del canal, porque el WhatsApp no sirve para conversar. <!-- feedback: Incorrecto. WhatsApp es un canal válido, el problema es el manejo del contenido. -->
-- [ ] D) El código, porque no todos usan el mismo tipo de emoticonos. <!-- feedback: Incorrecto. Los emoticonos son apoyos, no el código principal. -->
+- [x] D) El principio de cooperación y la unidad de tema. <!-- feedback: Correcto. Para que una conversación sea efectiva, los participantes deben seguir un hilo conductor y no hablar de cosas inconexas al mismo tiempo. -->
+- [ ] B) La regla del canal, porque el WhatsApp no sirve para conversar. <!-- feedback: Incorrecto. WhatsApp es un canal válido, el problema es el manejo del contenido. -->
+- [ ] C) El código, porque no todos usan el mismo tipo de emoticonos. <!-- feedback: Incorrecto. Los emoticonos son apoyos, no el código principal. -->
 
 ### Explicacion Pedagogica
 Grice (un filósofo del lenguaje) propuso el "Principio de Cooperación": los hablantes deben esforzarse por ser relevantes y claros. Hablar de muchos temas a la vez sin orden dificulta que la conversación cumpla su propósito de entendimiento.
@@ -124,8 +124,8 @@ Vendedor: —A seis mil pesitos, bien madura y dulce.
 
 ### Opciones
 - [ ] A) Despedida - Cuerpo - Apertura. <!-- feedback: Incorrecto. El orden está totalmente invertido. -->
-- [ ] B) Cuerpo - Cierre - Apertura. <!-- feedback: Incorrecto. La apertura siempre es el primer paso. -->
-- [x] C) Apertura (saludo) - Orientación (pregunta inicial) - Cuerpo (desarrollo del tema). <!-- feedback: Correcto. El diálogo inicia con un saludo, se orienta hacia el producto y se desarrolla con el precio. -->
+- [ ] C) Cuerpo - Cierre - Apertura. <!-- feedback: Incorrecto. La apertura siempre es el primer paso. -->
+- [x] B) Apertura (saludo) - Orientación (pregunta inicial) - Cuerpo (desarrollo del tema). <!-- feedback: Correcto. El diálogo inicia con un saludo, se orienta hacia el producto y se desarrolla con el precio. -->
 - [ ] D) Solo cuerpo, porque no se despiden formalmente. <!-- feedback: Incorrecto. Sí hay un saludo inicial (apertura). -->
 
 ### Explicacion Pedagogica
@@ -145,8 +145,8 @@ En los textos escritos, ¿cuál es el signo de puntuación que se utiliza para i
 
 ### Opciones
 - [ ] A) Las comillas (" "). <!-- feedback: Incorrecto. Las comillas se usan más para citas o pensamientos, aunque algunos autores las usan para diálogos, lo estándar es otro signo. -->
-- [ ] B) El paréntesis ( ). <!-- feedback: Incorrecto. Se usa para aclaraciones o acotaciones en teatro, no para marcar el habla directa. -->
-- [x] C) La raya o guion largo (—). <!-- feedback: Correcto. La raya es el signo ortográfico por excelencia para señalar la intervención de cada hablante en un diálogo escrito. -->
+- [ ] C) El paréntesis ( ). <!-- feedback: Incorrecto. Se usa para aclaraciones o acotaciones en teatro, no para marcar el habla directa. -->
+- [x] B) La raya o guion largo (—). <!-- feedback: Correcto. La raya es el signo ortográfico por excelencia para señalar la intervención de cada hablante en un diálogo escrito. -->
 - [ ] D) Los dos puntos (:). <!-- feedback: Incorrecto. Los dos puntos suelen preceder a la cita o al diálogo, pero no marcan el inicio del habla en sí dentro de la narrativa. -->
 
 ### Explicacion Pedagogica
@@ -167,8 +167,8 @@ En la escritura de narraciones, el uso de la raya (—) permite al lector identi
 ### Opciones
 - [ ] A) Que están en un banco y allá no se puede hablar. <!-- feedback: Incorrecto. Se puede hablar respetuosamente en casi cualquier lugar. -->
 - [ ] B) Que no están usando un lenguaje formal con palabras técnicas. <!-- feedback: Incorrecto. Un diálogo no requiere palabras técnicas para ser válido. -->
-- [x] C) El irrespeto a los turnos de habla y la falta de escucha activa. <!-- feedback: Correcto. Sin escucha y respeto a los tiempos del otro, el diálogo se rompe y se convierte en una imposición o agresión. -->
-- [ ] D) Que no hay un moderador presente con un silbato. <!-- feedback: Incorrecto. En la vida diaria debemos ser capaces de autorregular nuestros turnos de habla. -->
+- [x] D) El irrespeto a los turnos de habla y la falta de escucha activa. <!-- feedback: Correcto. Sin escucha y respeto a los tiempos del otro, el diálogo se rompe y se convierte en una imposición o agresión. -->
+- [ ] C) Que no hay un moderador presente con un silbato. <!-- feedback: Incorrecto. En la vida diaria debemos ser capaces de autorregular nuestros turnos de habla. -->
 
 ### Explicacion Pedagogica
 El diálogo es un ejercicio de democracia y respeto. Escuchar al otro no significa estar de acuerdo, sino darle el espacio para que su voz sea tenida en cuenta. El respeto al turno de palabra es la regla de oro de la conversación.
@@ -187,8 +187,8 @@ El diálogo es un ejercicio de democracia y respeto. Escuchar al otro no signifi
 
 ### Opciones
 - [ ] A) Es un diálogo espontáneo porque el deportista puede decir lo que quiera. <!-- feedback: Incorrecto. La estructura la marca el periodista, lo que la hace planificada. -->
-- [x] B) Es un diálogo planificado, porque tiene un objetivo claro (obtener información) y una estructura de preguntas preparada. <!-- feedback: Correcto. La entrevista es un género periodístico donde el diálogo se organiza previamente para cumplir una meta informativa. -->
-- [ ] C) No es un diálogo, es un interrogatorio policial. <!-- feedback: Incorrecto. La entrevista busca conocer a la persona, no necesariamente acusarla de un delito. -->
+- [x] C) Es un diálogo planificado, porque tiene un objetivo claro (obtener información) y una estructura de preguntas preparada. <!-- feedback: Correcto. La entrevista es un género periodístico donde el diálogo se organiza previamente para cumplir una meta informativa. -->
+- [ ] B) No es un diálogo, es un interrogatorio policial. <!-- feedback: Incorrecto. La entrevista busca conocer a la persona, no necesariamente acusarla de un delito. -->
 - [ ] D) Es un monólogo del deportista donde el periodista solo asiente. <!-- feedback: Incorrecto. Aunque el deportista hable más, las preguntas del periodista dirigen la conversación. -->
 
 ### Explicacion Pedagogica
@@ -210,9 +210,9 @@ Lee:
 
 ### Opciones
 - [ ] A) Que es un científico muy serio de la ciudad de Bogotá. <!-- feedback: Incorrecto. El vocabulario ("pelado", "vaina") no es típico de un contexto científico formal. -->
-- [x] B) Que es una persona con un lenguaje informal, probablemente de la región Caribe o cercana al río, y que tiene prisa. <!-- feedback: Correcto. El uso de expresiones regionales y el tono directo nos dicen mucho sobre su origen y su estado de ánimo. -->
-- [ ] C) Que es un extranjero que acaba de aprender español ayer. <!-- feedback: Incorrecto. Usa modismos locales de forma natural, lo que indica que es nativo. -->
-- [ ] D) Que es un niño de cinco años que no sabe hablar bien. <!-- feedback: Incorrecto. La frase está bien estructurada dentro de su registro informal. -->
+- [x] D) Que es una persona con un lenguaje informal, probablemente de la región Caribe o cercana al río, y que tiene prisa. <!-- feedback: Correcto. El uso de expresiones regionales y el tono directo nos dicen mucho sobre su origen y su estado de ánimo. -->
+- [ ] B) Que es un extranjero que acaba de aprender español ayer. <!-- feedback: Incorrecto. Usa modismos locales de forma natural, lo que indica que es nativo. -->
+- [ ] C) Que es un niño de cinco años que no sabe hablar bien. <!-- feedback: Incorrecto. La frase está bien estructurada dentro de su registro informal. -->
 
 ### Explicacion Pedagogica
 El diálogo es una herramienta de caracterización. A través de las palabras que eligen (léxico), su entonación y sus modismos, los personajes revelan su procedencia social, geográfica y su nivel educativo.
@@ -231,9 +231,9 @@ El diálogo es una herramienta de caracterización. A través de las palabras qu
 
 ### Opciones
 - [ ] A) Porque el hijo es un mal estudiante y no merece hablar. <!-- feedback: Incorrecto. La calidad del estudiante no debería impedir el proceso comunicativo. -->
-- [x] B) Porque hay un desequilibrio total en la participación, convirtiéndose en un sermón (monólogo) más que en un intercambio real de ideas. <!-- feedback: Correcto. El diálogo requiere que ambas partes puedan expresar sus puntos de vista. Si uno domina todo el tiempo, no hay intercambio. -->
-- [ ] C) Porque el padre debería usar diapositivas para explicar mejor su punto. <!-- feedback: Incorrecto. El problema no es el material de apoyo, sino la falta de alternancia de turnos. -->
-- [ ] D) Porque en Colombia los hijos nunca deben hablarle a sus padres. <!-- feedback: Incorrecto. La comunicación familiar saludable se basa en el diálogo respetuoso de doble vía. -->
+- [x] D) Porque hay un desequilibrio total en la participación, convirtiéndose en un sermón (monólogo) más que en un intercambio real de ideas. <!-- feedback: Correcto. El diálogo requiere que ambas partes puedan expresar sus puntos de vista. Si uno domina todo el tiempo, no hay intercambio. -->
+- [ ] B) Porque el padre debería usar diapositivas para explicar mejor su punto. <!-- feedback: Incorrecto. El problema no es el material de apoyo, sino la falta de alternancia de turnos. -->
+- [ ] C) Porque en Colombia los hijos nunca deben hablarle a sus padres. <!-- feedback: Incorrecto. La comunicación familiar saludable se basa en el diálogo respetuoso de doble vía. -->
 
 ### Explicacion Pedagogica
 La efectividad de un diálogo se mide por la participación activa de todos. Un diálogo donde una parte solo escucha pasivamente no permite conocer las razones, sentimientos o dificultades de la otra persona, perdiendo la oportunidad de llegar a acuerdos reales.

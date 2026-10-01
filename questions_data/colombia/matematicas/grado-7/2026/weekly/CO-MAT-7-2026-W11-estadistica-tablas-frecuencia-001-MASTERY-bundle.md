@@ -32,11 +32,11 @@ Este bundle contiene 10 preguntas sobre **estadistica-tablas-frecuencia** para g
 ### Enunciado
 ¿Qué es la frecuencia absoluta de un dato en una tabla?
 ### Opciones
-- [x] A) El número de veces que aparece ese dato
+- [x] C) El número de veces que aparece ese dato
   <!-- feedback: Correcto. La frecuencia absoluta cuenta las repeticiones de cada dato. -->
-- [ ] B) La suma de todos los datos recogidos
+- [ ] A) La suma de todos los datos recogidos
   <!-- feedback: Incorrecto. Esa suma es el total de datos, no la frecuencia de uno. -->
-- [ ] C) El dato que aparece en la mitad de la tabla
+- [ ] B) El dato que aparece en la mitad de la tabla
   <!-- feedback: Incorrecto. Eso se acerca a la idea de mediana, no de frecuencia. -->
 - [ ] D) El resultado de dividir el dato entre el total
   <!-- feedback: Incorrecto. Eso describe la frecuencia relativa, no la absoluta. -->
@@ -72,9 +72,9 @@ La moda es el dato con mayor frecuencia absoluta. Aquí el chocolate con $12$ vo
 ### Enunciado
 ¿Cuál es la frecuencia relativa del fútbol?
 ### Opciones
-- [x] A) $50\%$
+- [x] B) $50\%$
   <!-- feedback: Correcto. $\frac{10}{20} = 0.5$, es decir el $50\%$. -->
-- [ ] B) $10\%$
+- [ ] A) $10\%$
   <!-- feedback: Incorrecto. Tomaste el número de votos como porcentaje. -->
 - [ ] C) $20\%$
   <!-- feedback: Incorrecto. Dividiste entre $50$ en lugar de entre el total $20$. -->
@@ -92,13 +92,13 @@ La frecuencia relativa es $\frac{\text{frecuencia absoluta}}{\text{total}} = \fr
 ### Enunciado
 ¿Cuál es la frecuencia acumulada hasta la categoría "gato" (perro más gato)?
 ### Opciones
-- [x] A) $16$
+- [x] D) $16$
   <!-- feedback: Correcto. $9 + 7 = 16$. -->
-- [ ] B) $7$
+- [ ] A) $7$
   <!-- feedback: Incorrecto. Esa es solo la frecuencia del gato. -->
-- [ ] C) $9$
+- [ ] B) $9$
   <!-- feedback: Incorrecto. Esa es solo la frecuencia del perro. -->
-- [ ] D) $24$
+- [ ] C) $24$
   <!-- feedback: Incorrecto. Ese es el total de todas las categorías. -->
 ### Explicacion Pedagogica
 La frecuencia acumulada suma las frecuencias hasta esa fila: $9 + 7 = 16$.
@@ -112,11 +112,11 @@ La frecuencia acumulada suma las frecuencias hasta esa fila: $9 + 7 = 16$.
 ### Enunciado
 ¿Cuántos estudiantes usan bus o bicicleta?
 ### Opciones
-- [x] A) $18$ estudiantes
+- [x] C) $18$ estudiantes
   <!-- feedback: Correcto. $12 + 6 = 18$. -->
-- [ ] B) $12$ estudiantes
+- [ ] A) $12$ estudiantes
   <!-- feedback: Incorrecto. Contaste solo a quienes usan bus. -->
-- [ ] C) $15$ estudiantes
+- [ ] B) $15$ estudiantes
   <!-- feedback: Incorrecto. Sumaste bus con moto en lugar de bus con bicicleta. -->
 - [ ] D) $21$ estudiantes
   <!-- feedback: Incorrecto. Sumaste bus, bicicleta y moto. -->
@@ -132,11 +132,11 @@ Se suman las frecuencias de las dos categorías pedidas: $12 + 6 = 18$ estudiant
 ### Enunciado
 ¿Cuál es el valor de $x$, la frecuencia del color rojo?
 ### Opciones
-- [x] A) $11$
+- [x] C) $11$
   <!-- feedback: Correcto. $14 + 9 + 6 = 29$; $40 - 29 = 11$. -->
-- [ ] B) $9$
+- [ ] A) $9$
   <!-- feedback: Incorrecto. Repetiste la frecuencia del verde. -->
-- [ ] C) $10$
+- [ ] B) $10$
   <!-- feedback: Incorrecto. Error al restar del total. -->
 - [ ] D) $13$
   <!-- feedback: Incorrecto. Sumaste mal las frecuencias conocidas. -->
@@ -152,11 +152,11 @@ La suma de frecuencias debe ser el total: $x = 40 - (14 + 9 + 6) = 40 - 29 = 11$
 ### Enunciado
 ¿Cuál curso tiene mayor proporción de lectores?
 ### Opciones
-- [x] A) El curso A, con el $40\%$
+- [x] C) El curso A, con el $40\%$
   <!-- feedback: Correcto. A: $\frac{12}{30} = 40\%$; B: $\frac{15}{40} = 37.5\%$. -->
-- [ ] B) El curso B, con el $37.5\%$
+- [ ] A) El curso B, con el $37.5\%$
   <!-- feedback: Incorrecto. Tiene más lectores en cantidad, pero menor proporción. -->
-- [ ] C) Ambos tienen la misma proporción
+- [ ] B) Ambos tienen la misma proporción
   <!-- feedback: Incorrecto. $40\% \ne 37.5\%$. -->
 - [ ] D) El curso A, con el $30\%$
   <!-- feedback: Incorrecto. Dividiste $12$ entre $40$ mezclando los dos cursos. -->
@@ -172,9 +172,9 @@ Comparar frecuencias relativas: curso A $\frac{12}{30} = 0.40$ y curso B $\frac{
 ### Enunciado
 ¿Cuántos estudiantes tienen $2$ hermanos o menos?
 ### Opciones
-- [x] A) $24$ estudiantes
+- [x] B) $24$ estudiantes
   <!-- feedback: Correcto. $6 + 10 + 8 = 24$. -->
-- [ ] B) $18$ estudiantes
+- [ ] A) $18$ estudiantes
   <!-- feedback: Incorrecto. Sumaste solo $0$ y $2$ hermanos, sin el $1$. -->
 - [ ] C) $16$ estudiantes
   <!-- feedback: Incorrecto. Sumaste $6 + 10$ sin incluir los de $2$ hermanos. -->
@@ -192,13 +192,13 @@ Es la frecuencia acumulada hasta $2$ hermanos: $6 + 10 + 8 = 24$ estudiantes.
 ### Enunciado
 ¿Es correcta la afirmación del estudiante?
 ### Opciones
-- [x] A) No, porque $0.45$ equivale al $45\%$, menos de la mitad
+- [x] D) No, porque $0.45$ equivale al $45\%$, menos de la mitad
   <!-- feedback: Correcto. $0.45 = 45\% < 50\%$, así que no es más de la mitad. -->
-- [ ] B) Sí, porque $0.45$ supera a la mitad
+- [ ] A) Sí, porque $0.45$ supera a la mitad
   <!-- feedback: Incorrecto. La mitad es $0.50$ y $0.45$ es menor. -->
-- [ ] C) No, porque $0.45$ equivale al $4.5\%$
+- [ ] B) No, porque $0.45$ equivale al $4.5\%$
   <!-- feedback: Incorrecto. $0.45$ es $45\%$, no $4.5\%$. -->
-- [ ] D) Sí, porque $90$ personas son más de la mitad de $200$
+- [ ] C) Sí, porque $90$ personas son más de la mitad de $200$
   <!-- feedback: Incorrecto. $90$ es menos que $100$, la mitad de $200$. -->
 ### Explicacion Pedagogica
 La frecuencia absoluta del azul es $0.45 \times 200 = 90$, que es el $45\%$, menor que el $50\%$. La afirmación es falsa.

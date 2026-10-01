@@ -32,11 +32,11 @@ Este bundle de 10 preguntas explica la diferencia entre organismos autótrofos y
 ### Enunciado
 ¿Cómo se clasifica la lechuga según su forma de obtener alimento?
 ### Opciones
-- [x] A) Autótrofa, porque fabrica su propio alimento mediante la fotosíntesis
+- [x] C) Autótrofa, porque fabrica su propio alimento mediante la fotosíntesis
   <!-- feedback: Correcto. Las plantas verdes son autótrofas: producen glucosa con luz, agua y dióxido de carbono. -->
-- [ ] B) Heterótrofa, porque come otros seres vivos
+- [ ] A) Heterótrofa, porque come otros seres vivos
   <!-- feedback: Incorrecto. La lechuga no ingiere otros organismos para alimentarse. -->
-- [ ] C) Descomponedora, porque descompone basura del suelo
+- [ ] B) Descomponedora, porque descompone basura del suelo
   <!-- feedback: Incorrecto. Los descomponedores son hongos y bacterias, no plantas verdes. -->
 - [ ] D) Parásita, porque roba alimento de otras plantas
   <!-- feedback: Incorrecto. La lechuga no vive sobre otra planta ni le quita nutrientes. -->
@@ -52,9 +52,9 @@ Autótrofo significa que produce su propio alimento; casi todas las plantas y al
 ### Enunciado
 ¿Qué diferencia básica hay entre la nutrición del jaguar y la de los árboles?
 ### Opciones
-- [x] A) El jaguar es heterótrofo y depende de otros seres, mientras el árbol es autótrofo y produce su alimento
+- [x] B) El jaguar es heterótrofo y depende de otros seres, mientras el árbol es autótrofo y produce su alimento
   <!-- feedback: Correcto. Los animales deben comer; las plantas fabrican glucosa por fotosíntesis. -->
-- [ ] B) Ambos son autótrofos porque los dos necesitan agua
+- [ ] A) Ambos son autótrofos porque los dos necesitan agua
   <!-- feedback: Incorrecto. Necesitar agua no significa fabricar el propio alimento. -->
 - [ ] C) Ambos son heterótrofos porque los dos respiran oxígeno
   <!-- feedback: Incorrecto. Respirar no define el tipo de nutrición. -->
@@ -72,11 +72,11 @@ Heterótrofo se alimenta de otros; autótrofo produce su comida. Esa es la base 
 ### Enunciado
 ¿Qué papel cumplen las algas en esta cadena alimenticia del río?
 ### Opciones
-- [x] A) Son productoras autótrofas que inician la cadena con fotosíntesis
+- [x] C) Son productoras autótrofas que inician la cadena con fotosíntesis
   <!-- feedback: Correcto. Las algas fabrican alimento y sostienen a los peces que las comen. -->
-- [ ] B) Son consumidoras que comen bocachicos
+- [ ] A) Son consumidoras que comen bocachicos
   <!-- feedback: Incorrecto. Las algas no ingieren peces; son alimento de ellos. -->
-- [ ] C) Son descomponedoras que solo viven en agua sucia
+- [ ] B) Son descomponedoras que solo viven en agua sucia
   <!-- feedback: Incorrecto. Las algas verdes fotosintetizan y no dependen de descomponer materia. -->
 - [ ] D) Son parásitos de los peces del río
   <!-- feedback: Incorrecto. No viven dentro del pez ni le causan daño. -->
@@ -92,13 +92,13 @@ Todo ecosistema acuático o terrestre empieza con productores autótrofos que ca
 ### Enunciado
 ¿Cómo obtiene alimento el hongo del tronco caído?
 ### Opciones
-- [x] A) Es heterótrofo descomponedor que absorbe nutrientes de la materia muerta
+- [x] D) Es heterótrofo descomponedor que absorbe nutrientes de la materia muerta
   <!-- feedback: Correcto. Los hongos liberan enzimas y absorben la materia orgánica descompuesta. -->
-- [ ] B) Es autótrofo porque vive sobre un árbol y es verde
+- [ ] A) Es autótrofo porque vive sobre un árbol y es verde
   <!-- feedback: Incorrecto. Los hongos no tienen clorofila ni hacen fotosíntesis. -->
-- [ ] C) Es autótrofo porque no se mueve del tronco
+- [ ] B) Es autótrofo porque no se mueve del tronco
   <!-- feedback: Incorrecto. Quedarse quieto no significa fabricar el propio alimento. -->
-- [ ] D) Es productor porque crea madera nueva para el bosque
+- [ ] C) Es productor porque crea madera nueva para el bosque
   <!-- feedback: Incorrecto. El hongo degrada la madera, no la produce. -->
 ### Explicacion Pedagogica
 Los hongos son heterótrofos por absorción: reciclan nutrientes al descomponer restos de seres vivos.
@@ -112,11 +112,11 @@ Los hongos son heterótrofos por absorción: reciclan nutrientes al descomponer 
 ### Enunciado
 ¿Qué explica que la falta total de luz reduzca la producción de café?
 ### Opciones
-- [x] A) Sin luz la fotosíntesis se detiene y la planta fabrica menos alimento para formar granos
+- [x] C) Sin luz la fotosíntesis se detiene y la planta fabrica menos alimento para formar granos
   <!-- feedback: Correcto. La luz es la fuente de energía de la fotosíntesis que produce glucosa. -->
-- [ ] B) Sin luz la planta respira mejor y gasta todos sus granos
+- [ ] A) Sin luz la planta respira mejor y gasta todos sus granos
   <!-- feedback: Incorrecto. La respiración ocurre siempre, pero sin fotosíntesis no hay alimento nuevo. -->
-- [ ] C) Sin luz la planta se vuelve heterótrofa y come insectos
+- [ ] B) Sin luz la planta se vuelve heterótrofa y come insectos
   <!-- feedback: Incorrecto. El cafeto no cambia su nutrición; sigue siendo autótrofo aunque le falte luz. -->
 - [ ] D) Sin luz las raíces absorben más café del suelo
   <!-- feedback: Incorrecto. El suelo aporta agua y sales, pero el alimento lo fabrica la hoja con luz. -->
@@ -132,13 +132,13 @@ La fotosíntesis necesita luz; sin ella la planta no produce azúcares y crece p
 ### Enunciado
 ¿Qué análisis clasifica correctamente a cada organismo según su nutrición?
 ### Opciones
-- [x] A) Pasto autótrofo productor, vaca heterótrofa consumidora y champiñón heterótrofo descomponedor
+- [x] D) Pasto autótrofo productor, vaca heterótrofa consumidora y champiñón heterótrofo descomponedor
   <!-- feedback: Correcto. Cada uno representa un eslabón distinto: produce, consume y descompone. -->
-- [ ] B) Los tres son autótrofos porque los tres son seres vivos
+- [ ] A) Los tres son autótrofos porque los tres son seres vivos
   <!-- feedback: Incorrecto. Ser vivo no implica fabricar el propio alimento. -->
-- [ ] C) Pasto heterótrofo, vaca autótrofa y champiñón productor
+- [ ] B) Pasto heterótrofo, vaca autótrofa y champiñón productor
   <!-- feedback: Incorrecto. Invierte los papeles reales de cada organismo. -->
-- [ ] D) Vaca productora, pasto consumidor y champiñón autótrofo
+- [ ] C) Vaca productora, pasto consumidor y champiñón autótrofo
   <!-- feedback: Incorrecto. Ninguna vaca hace fotosíntesis ni el champiñón produce alimento. -->
 ### Explicacion Pedagogica
 Analizar cadenas exige distinguir productores, consumidores y descomponedores por su fuente de energía.
@@ -172,11 +172,11 @@ La clorofila se mantiene con luz; en oscuridad prolongada se degrada y la fotos�
 ### Enunciado
 ¿Qué clasificación es científicamente correcta?
 ### Opciones
-- [x] A) Frailejón autótrofo fotosintético, humano heterótrofo consumidor y bacteria del yogur heterótrofa fermentadora
+- [x] C) Frailejón autótrofo fotosintético, humano heterótrofo consumidor y bacteria del yogur heterótrofa fermentadora
   <!-- feedback: Correcto. Cada uno obtiene energía por una vía distinta y válida. -->
-- [ ] B) Los tres son autótrofos porque los tres necesitan energía
+- [ ] A) Los tres son autótrofos porque los tres necesitan energía
   <!-- feedback: Incorrecto. Necesitar energía no equivale a producirla por fotosíntesis. -->
-- [ ] C) Humano autótrofo, frailejón heterótrofo y bacteria productora
+- [ ] B) Humano autótrofo, frailejón heterótrofo y bacteria productora
   <!-- feedback: Incorrecto. El humano no fotosintetiza y el frailejón sí lo hace. -->
 - [ ] D) Bacteria autótrofa, humano productor y frailejón consumidor
   <!-- feedback: Incorrecto. La bacteria del yogur se alimenta de lactosa y no hace fotosíntesis. -->
@@ -192,13 +192,13 @@ Los heterótrofos incluyen consumidores y fermentadores; solo los fotosintético
 ### Enunciado
 ¿Qué resultado y juicio confirman que la fotosíntesis produce alimento?
 ### Opciones
-- [x] A) La parte iluminada se tiñe de azul oscuro con yodo y la tapada queda clara, lo que prueba que solo con luz se formó almidón
+- [x] D) La parte iluminada se tiñe de azul oscuro con yodo y la tapada queda clara, lo que prueba que solo con luz se formó almidón
   <!-- feedback: Correcto. El yodo revela almidón solo donde hubo fotosíntesis con luz. -->
-- [ ] B) Toda la hoja se tiñe igual porque el papel aluminio también hace fotosíntesis
+- [ ] A) Toda la hoja se tiñe igual porque el papel aluminio también hace fotosíntesis
   <!-- feedback: Incorrecto. El papel no tiene clorofila ni fabrica alimento. -->
-- [ ] C) Ninguna parte se tiñe porque las plantas no producen almidón
+- [ ] B) Ninguna parte se tiñe porque las plantas no producen almidón
   <!-- feedback: Incorrecto. El almidón es el principal producto de reserva de la fotosíntesis. -->
-- [ ] D) La parte tapada se tiñe más porque la oscuridad produce más alimento
+- [ ] C) La parte tapada se tiñe más porque la oscuridad produce más alimento
   <!-- feedback: Incorrecto. Sin luz no hay fotosíntesis y por tanto no hay almidón nuevo. -->
 ### Explicacion Pedagogica
 Evaluar el experimento clásico de la hoja variegada demuestra que luz más clorofila producen alimento detectable con yodo.
@@ -212,11 +212,11 @@ Evaluar el experimento clásico de la hoja variegada demuestra que luz más clor
 ### Enunciado
 ¿Qué evaluación de las tres afirmaciones es correcta?
 ### Opciones
-- [x] A) La 1 es parcialmente falsa porque algunas bacterias son quimiosintéticas, la 2 es falsa porque incluye descomponedores y la 3 es verdadera
+- [x] C) La 1 es parcialmente falsa porque algunas bacterias son quimiosintéticas, la 2 es falsa porque incluye descomponedores y la 3 es verdadera
   <!-- feedback: Correcto. Hay autótrofos sin luz y heterótrofos que absorben materia muerta; todos dependen de productores. -->
-- [ ] B) Las tres son verdaderas sin excepción alguna
+- [ ] A) Las tres son verdaderas sin excepción alguna
   <!-- feedback: Incorrecto. Existen bacterias que usan energía química y hongos que no ingieren presas. -->
-- [ ] C) Las tres son falsas porque los animales también fotosintetizan
+- [ ] B) Las tres son falsas porque los animales también fotosintetizan
   <!-- feedback: Incorrecto. Ningún animal fabrica clorofila ni hace fotosíntesis. -->
 - [ ] D) Solo la 3 es falsa porque los heterótrofos no necesitan plantas
   <!-- feedback: Incorrecto. Directa o indirectamente todo heterótrofo depende de los productores. -->

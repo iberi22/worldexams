@@ -34,9 +34,9 @@ Este bundle contiene 10 preguntas sobre **cilindros-volumen-capacidad** para gra
 ### Opciones
 - [ ] A) Dos caras triangulares y tres caras rectangulares
   <!-- feedback: Incorrecto. Esa descripción corresponde a un prisma triangular, no a un cilindro. -->
-- [x] B) Dos bases circulares paralelas e iguales unidas por una superficie lateral curva
+- [x] C) Dos bases circulares paralelas e iguales unidas por una superficie lateral curva
   <!-- feedback: Correcto. El cilindro tiene dos círculos como bases y una superficie lateral que las une. -->
-- [ ] C) Una sola base cuadrada y cuatro caras triangulares
+- [ ] B) Una sola base cuadrada y cuatro caras triangulares
   <!-- feedback: Incorrecto. Eso describe una pirámide de base cuadrada. -->
 - [ ] D) Seis caras cuadradas todas iguales
   <!-- feedback: Incorrecto. Eso describe un cubo, no un cilindro. -->
@@ -52,9 +52,9 @@ El cilindro circular recto está compuesto por dos bases que son círculos congr
 ### Enunciado
 En la fórmula V = pi × r² × h, ¿qué representa la expresión pi × r²?
 ### Opciones
-- [x] A) El área de la base circular, que al multiplicarse por la altura da el volumen
+- [x] B) El área de la base circular, que al multiplicarse por la altura da el volumen
   <!-- feedback: Correcto. La base del cilindro es un círculo de área pi × r²; volumen = área de la base × altura. -->
-- [ ] B) El diámetro del cilindro elevado al cuadrado
+- [ ] A) El diámetro del cilindro elevado al cuadrado
   <!-- feedback: Incorrecto. r es el radio (mitad del diámetro), no el diámetro. -->
 - [ ] C) La altura del cilindro medida dos veces
   <!-- feedback: Incorrecto. La altura es h, que aparece una sola vez en la fórmula. -->
@@ -72,9 +72,9 @@ El volumen de cualquier prisma o cilindro es el área de su base por su altura. 
 ### Enunciado
 ¿Cuál es el volumen del tanque?
 ### Opciones
-- [ ] A) 31,4 m³
+- [ ] B) 31,4 m³
   <!-- feedback: Incorrecto. Ese valor usa el radio sin elevarlo al cuadrado. -->
-- [x] B) 62,8 m³
+- [x] A) 62,8 m³
   <!-- feedback: Correcto. V = 3,14 × 2² × 5 = 3,14 × 4 × 5 = 3,14 × 20 = 62,8 m³. -->
 - [ ] C) 15,7 m³
   <!-- feedback: Incorrecto. Ese valor olvida multiplicar por la altura del tanque. -->
@@ -92,9 +92,9 @@ V = pi × r² × h = 3,14 × 4 × 5 = 62,8 m³. Como 1 m³ equivale a 1 000 litr
 ### Enunciado
 ¿Cuántos metros cúbicos de agua caben en la alberca?
 ### Opciones
-- [x] A) 28,26 m³
+- [x] B) 28,26 m³
   <!-- feedback: Correcto. V = 3,14 × 3² × 1 = 3,14 × 9 = 28,26 m³. -->
-- [ ] B) 9,42 m³
+- [ ] A) 9,42 m³
   <!-- feedback: Incorrecto. Ese valor usa el radio sin elevarlo al cuadrado. -->
 - [ ] C) 18,84 m³
   <!-- feedback: Incorrecto. Ese valor corresponde al área lateral aproximada, no al volumen. -->
@@ -152,13 +152,13 @@ Volumen A = 3,14 × 2² × 9 = 113,04 m³. Volumen B = 3,14 × 3² × 4 = 113,04
 ### Enunciado
 ¿Qué ocurre con el volumen del vaso familiar respecto al vaso original?
 ### Opciones
-- [x] A) Se cuadruplica, porque el radio aparece al cuadrado en la fórmula
+- [x] D) Se cuadruplica, porque el radio aparece al cuadrado en la fórmula
   <!-- feedback: Correcto. Si r pasa a 2r, el nuevo volumen es pi × (2r)² × h = 4 × pi × r² × h. -->
-- [ ] B) Se duplica, porque el radio se duplicó
+- [ ] A) Se duplica, porque el radio se duplicó
   <!-- feedback: Incorrecto. El volumen no crece en la misma proporción que el radio, sino con su cuadrado. -->
-- [ ] C) Queda igual, porque la altura no cambió
+- [ ] B) Queda igual, porque la altura no cambió
   <!-- feedback: Incorrecto. La altura es solo uno de los factores; el radio también cambió. -->
-- [ ] D) Se divide entre dos, porque la cera rinde más
+- [ ] C) Se divide entre dos, porque la cera rinde más
   <!-- feedback: Incorrecto. Aumentar el radio siempre aumenta el volumen, nunca lo reduce. -->
 ### Explicacion Pedagogica
 Como V depende de r², duplicar el radio multiplica el volumen por 2² = 4. En general, multiplicar el radio por k multiplica el volumen por k².
@@ -174,9 +174,9 @@ Como V depende de r², duplicar el radio multiplica el volumen por 2² = 4. En g
 ### Opciones
 - [ ] A) 2 frascos
   <!-- feedback: Incorrecto. Ese conteo subestima el volumen del tubo. -->
-- [x] B) 3 frascos
+- [x] C) 3 frascos
   <!-- feedback: Correcto. V = 3,14 × 100 × 50 = 15 700 cm³ = 15,7 L; con 15,7 L se llenan 3 frascos de 5 L y sobran 0,7 L. -->
-- [ ] C) 4 frascos
+- [ ] B) 4 frascos
   <!-- feedback: Incorrecto. Cuatro frascos requerirían 20 L y solo hay 15,7 L. -->
 - [ ] D) 5 frascos
   <!-- feedback: Incorrecto. Cinco frascos requerirían 25 L, muy por encima del contenido. -->
@@ -192,9 +192,9 @@ El tubo contiene 15 700 cm³ = 15,7 litros. Dividiendo 15,7 ÷ 5 = 3,14, se llen
 ### Enunciado
 ¿Es correcta la capacidad anunciada en la etiqueta?
 ### Opciones
-- [ ] A) Sí, porque 3,14 × 4 × 10 = 125,6
+- [ ] B) Sí, porque 3,14 × 4 × 10 = 125,6
   <!-- feedback: Incorrecto. Ese cálculo olvida elevar el radio al cuadrado; usa r en vez de r². -->
-- [x] B) No, la capacidad real es 502,4 litros, cuatro veces lo anunciado
+- [x] A) No, la capacidad real es 502,4 litros, cuatro veces lo anunciado
   <!-- feedback: Correcto. V = 3,14 × 4² × 10 = 3,14 × 160 = 502,4 litros; la etiqueta usó el radio sin elevarlo. -->
 - [ ] C) Sí, porque el volumen siempre es menor que 200 litros en tanques caseros
   <!-- feedback: Incorrecto. No existe tal regla; el volumen depende de las dimensiones reales. -->
@@ -214,9 +214,9 @@ El error de la etiqueta fue usar r en lugar de r². El cálculo correcto es 3,14
 ### Opciones
 - [ ] A) El B, porque 10 × 10 × 9 = 900 es mayor que cualquier cilindro de esas medidas
   <!-- feedback: Incorrecto. Hay que calcular el cilindro antes de comparar: su volumen supera 900 m³. -->
-- [x] B) El A, porque su volumen es 942 m³ frente a 900 m³ del B
+- [x] C) El A, porque su volumen es 942 m³ frente a 900 m³ del B
   <!-- feedback: Correcto. A: 3,14 × 25 × 12 = 942 m³. B: 10 × 10 × 9 = 900 m³. El cilindro almacena 42 m³ más. -->
-- [ ] C) Ambos almacenan lo mismo porque tienen alturas parecidas
+- [ ] B) Ambos almacenan lo mismo porque tienen alturas parecidas
   <!-- feedback: Incorrecto. Las alturas no son iguales (12 frente a 9) y las formas difieren; los volúmenes son 942 y 900. -->
 - [ ] D) El B, porque las cajas siempre aprovechan mejor el espacio que los cilindros
   <!-- feedback: Incorrecto. Esa es una idea general sin fundamento en estos números concretos. -->

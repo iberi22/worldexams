@@ -34,13 +34,13 @@ Este bundle de 10 preguntas estudia los huesos, las articulaciones y los múscul
 ¿Qué estructuras forman principalmente el sistema locomotor humano?
 
 ### Opciones
-- [x] A) Los huesos, las articulaciones y los músculos
+- [x] D) Los huesos, las articulaciones y los músculos
   <!-- feedback: Correcto. Esos tres componentes permiten sostén y movimiento. -->
-- [ ] B) El estómago, el hígado y el páncreas
+- [ ] A) El estómago, el hígado y el páncreas
   <!-- feedback: Incorrecto. Esos órganos pertenecen al sistema digestivo. -->
-- [ ] C) Los pulmones, la tráquea y los bronquios
+- [ ] B) Los pulmones, la tráquea y los bronquios
   <!-- feedback: Incorrecto. Esos órganos pertenecen al sistema respiratorio. -->
-- [ ] D) Las venas, las arterias y el corazón
+- [ ] C) Las venas, las arterias y el corazón
   <!-- feedback: Incorrecto. Esos órganos pertenecen al sistema circulatorio. -->
 
 ### Explicacion Pedagogica
@@ -80,9 +80,9 @@ Las articulaciones son uniones entre huesos que permiten el movimiento; la del c
 ¿Qué propiedad del hueso están poniendo a prueba con este experimento?
 
 ### Opciones
-- [x] A) La resistencia y la flexibilidad del hueso, relacionadas con su composición de minerales y proteínas
+- [x] B) La resistencia y la flexibilidad del hueso, relacionadas con su composición de minerales y proteínas
   <!-- feedback: Correcto. El experimento explora la dureza y la elasticidad del hueso. -->
-- [ ] B) El color que toma el hueso cuando se calienta
+- [ ] A) El color que toma el hueso cuando se calienta
   <!-- feedback: Incorrecto. El color no es la propiedad que se busca medir. -->
 - [ ] C) El sabor del hueso antes y después de calentarlo
   <!-- feedback: Incorrecto. El sabor no se relaciona con la resistencia mecánica. -->
@@ -103,13 +103,13 @@ Los huesos son duros pero ligeramente flexibles porque combinan minerales que ap
 ¿Por qué es importante mantener la columna recta al cargar objetos pesados?
 
 ### Opciones
-- [x] A) Porque la columna vertebral soporta el peso del cuerpo y una mala postura concentra fuerzas que dañan sus discos y vértebras
+- [x] D) Porque la columna vertebral soporta el peso del cuerpo y una mala postura concentra fuerzas que dañan sus discos y vértebras
   <!-- feedback: Correcto. La postura correcta distribuye mejor las cargas. -->
-- [ ] B) Porque la columna recta hace que el bulto pese menos
+- [ ] A) Porque la columna recta hace que el bulto pese menos
   <!-- feedback: Incorrecto. La postura no cambia el peso del bulto. -->
-- [ ] C) Porque así los huesos se vuelven blandos y flexibles
+- [ ] B) Porque así los huesos se vuelven blandos y flexibles
   <!-- feedback: Incorrecto. La postura no vuelve blandos los huesos. -->
-- [ ] D) Porque la columna produce más músculo al estirarse
+- [ ] C) Porque la columna produce más músculo al estirarse
   <!-- feedback: Incorrecto. La columna no produce músculo. -->
 
 ### Explicacion Pedagogica
@@ -126,11 +126,11 @@ La columna vertebral es el eje que soporta el peso del cuerpo; al cargar objetos
 ¿Qué relación existe entre el calentamiento previo y el trabajo de los músculos?
 
 ### Opciones
-- [x] A) El calentamiento aumenta el flujo de sangre y la temperatura muscular, lo que prepara los músculos para esforzarse y reduce el riesgo de calambres y lesiones
+- [x] C) El calentamiento aumenta el flujo de sangre y la temperatura muscular, lo que prepara los músculos para esforzarse y reduce el riesgo de calambres y lesiones
   <!-- feedback: Correcto. El calentamiento prepara el músculo para el esfuerzo. -->
-- [ ] B) El calentamiento convierte los músculos en huesos más fuertes
+- [ ] A) El calentamiento convierte los músculos en huesos más fuertes
   <!-- feedback: Incorrecto. El músculo no se transforma en hueso. -->
-- [ ] C) El calentamiento elimina los huesos del cuerpo
+- [ ] B) El calentamiento elimina los huesos del cuerpo
   <!-- feedback: Incorrecto. Los huesos permanecen; el calentamiento actúa sobre músculos y circulación. -->
 - [ ] D) El calentamiento solo sirve para verse mejor antes de jugar
   <!-- feedback: Incorrecto. Su función es fisiológica, no estética. -->
@@ -149,11 +149,11 @@ El calentamiento incrementa el riego sanguíneo y la temperatura de los músculo
 ¿Qué análisis explica cómo trabajan juntos huesos, tendones y músculos para mover el brazo?
 
 ### Opciones
-- [x] A) El músculo se contrae, tira del tendón que está unido al hueso y este gira sobre la articulación; al relajarse el músculo, otro grupo muscular devuelve el hueso a su posición
+- [x] C) El músculo se contrae, tira del tendón que está unido al hueso y este gira sobre la articulación; al relajarse el músculo, otro grupo muscular devuelve el hueso a su posición
   <!-- feedback: Correcto. La contracción muscular tracciona el hueso por medio del tendón. -->
-- [ ] B) Los huesos se mueven solos porque son elásticos como cauchos
+- [ ] A) Los huesos se mueven solos porque son elásticos como cauchos
   <!-- feedback: Incorrecto. Los huesos no se mueven por sí solos; requieren la tracción muscular. -->
-- [ ] C) El tendón produce la fuerza y el músculo solo la transporta
+- [ ] B) El tendón produce la fuerza y el músculo solo la transporta
   <!-- feedback: Incorrecto. El músculo genera la fuerza; el tendón transmite la tracción. -->
 - [ ] D) La articulación empuja el hueso con aire comprimido
   <!-- feedback: Incorrecto. El movimiento se debe a la contracción muscular. -->
@@ -218,13 +218,13 @@ Los músculos se adaptan al uso: la actividad física frecuente estimula el crec
 ¿Qué evaluación conjunta de las tres afirmaciones es correcta?
 
 ### Opciones
-- [x] A) La 1 es falsa porque los huesos son tejidos vivos que se renuevan, la 2 es verdadera y la 3 es verdadera
+- [x] D) La 1 es falsa porque los huesos son tejidos vivos que se renuevan, la 2 es verdadera y la 3 es verdadera
   <!-- feedback: Correcto. Corrige el error sobre los huesos y valida las otras dos. -->
-- [ ] B) Las tres son verdaderas porque los huesos no cambian nunca
+- [ ] A) Las tres son verdaderas porque los huesos no cambian nunca
   <!-- feedback: Incorrecto. Los huesos son tejidos vivos en constante renovación. -->
-- [ ] C) Solo la 1 es verdadera y las demás son falsas
+- [ ] B) Solo la 1 es verdadera y las demás son falsas
   <!-- feedback: Incorrecto. La 1 es falsa y las otras dos son verdaderas. -->
-- [ ] D) Las tres son falsas porque el cuerpo no tiene huesos ni músculos
+- [ ] C) Las tres son falsas porque el cuerpo no tiene huesos ni músculos
   <!-- feedback: Incorrecto. El sistema óseo y muscular son reales y esenciales. -->
 
 ### Explicacion Pedagogica

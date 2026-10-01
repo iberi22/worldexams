@@ -55,8 +55,8 @@ El Gran Telescopio Milimétrico Alfonso Serrano (GTM), ubicado en la cima del vo
 ¿Cuál de las siguientes figuras o instituciones es central en la discusión planteada en 'El Gran Telescopio Milimétrico en Sierra Negra'?
 
 ### Opciones
-- [ ] A) La corona real de España y sus secretarios de Hacienda. <!-- feedback: Incorrecto. El texto no aborda temas hacendarios o monárquicos coloniales. -->
-- [x] B) La aportación intelectual y la visión de {kw[0]} sobre {kw[1]}. <!-- feedback: Correcto. El texto examina de forma directa cómo {kw[0]} influye y redefine la concepción de {kw[1]}. -->
+- [ ] B) La corona real de España y sus secretarios de Hacienda. <!-- feedback: Incorrecto. El texto no aborda temas hacendarios o monárquicos coloniales. -->
+- [x] A) La aportación intelectual y la visión de {kw[0]} sobre {kw[1]}. <!-- feedback: Correcto. El texto examina de forma directa cómo {kw[0]} influye y redefine la concepción de {kw[1]}. -->
 - [ ] C) Un catálogo de botánica o manual de ingeniería mecánica moderna. <!-- feedback: Incorrecto. Se mencionan descripciones precisas, pero no constituye el eje intelectual del escrito. -->
 - [ ] D) La abolición definitiva de la enseñanza clásica universitaria en México. <!-- feedback: Incorrecto. Al contrario, el texto exalta el valor del humanismo clásico. -->
 
@@ -78,8 +78,8 @@ El Gran Telescopio Milimétrico Alfonso Serrano (GTM), ubicado en la cima del vo
 De acuerdo con 'El Gran Telescopio Milimétrico en Sierra Negra', ¿cuál es la postura central que se defiende frente a la astrofísica de vanguardia?
 
 ### Opciones
-- [ ] A) Que debe mantenerse en aislamiento absoluto para conservar su pureza de origen. <!-- feedback: Incorrecto. El texto rechaza explícitamente el aislamiento o cerrazón cultural. -->
-- [x] B) Que florece y se enriquece a través de la asimilación y el diálogo con corrientes universales. <!-- feedback: Correcto. El autor destaca que la integración con corrientes mundiales fortalece el desarrollo cultural local. -->
+- [ ] B) Que debe mantenerse en aislamiento absoluto para conservar su pureza de origen. <!-- feedback: Incorrecto. El texto rechaza explícitamente el aislamiento o cerrazón cultural. -->
+- [x] A) Que florece y se enriquece a través de la asimilación y el diálogo con corrientes universales. <!-- feedback: Correcto. El autor destaca que la integración con corrientes mundiales fortalece el desarrollo cultural local. -->
 - [ ] C) Que debe imitar de forma ciega y sumisa las modas intelectuales de Europa. <!-- feedback: Incorrecto. Se aboga por una asimilación activa y recreativa, no por una copia servil. -->
 - [ ] D) Que carece de valor frente a los desarrollos industriales o comerciales del extranjero. <!-- feedback: Incorrecto. El texto resalta el inmenso valor y dignidad de la tradición y el intelecto de México. -->
 
@@ -124,8 +124,8 @@ El Gran Telescopio Milimétrico Alfonso Serrano (GTM), ubicado en la cima del vo
 ¿Cuál es el principal propósito del autor al introducir el ejemplo o la obra de el Gran Telescopio Milimétrico?
 
 ### Opciones
-- [ ] A) Demostrar que los intelectuales de su época carecían de rigor en la escritura. <!-- feedback: Incorrecto. No se formula una crítica negativa al rigor de los creadores de la época. -->
-- [x] B) Proveer un ejemplo práctico de cómo las ideas universales se recrean con originalidad desde una sensibilidad local. <!-- feedback: Correcto. Muestra de forma práctica la viabilidad del diálogo entre lo propio y lo universal que propone el autor. -->
+- [ ] B) Demostrar que los intelectuales de su época carecían de rigor en la escritura. <!-- feedback: Incorrecto. No se formula una crítica negativa al rigor de los creadores de la época. -->
+- [x] A) Proveer un ejemplo práctico de cómo las ideas universales se recrean con originalidad desde una sensibilidad local. <!-- feedback: Correcto. Muestra de forma práctica la viabilidad del diálogo entre lo propio y lo universal que propone el autor. -->
 - [ ] C) Convencer a los lectores de abandonar las tradiciones indígenas mexicanas. <!-- feedback: Incorrecto. Al contrario, las tradiciones locales son valoradas y puestas en diálogo fecundo. -->
 - [ ] D) Promover la compra de ediciones costosas importadas de España. <!-- feedback: Incorrecto. El escrito se enfoca en el acceso al saber y de ninguna manera en transacciones comerciales. -->
 
@@ -147,8 +147,8 @@ El Gran Telescopio Milimétrico Alfonso Serrano (GTM), ubicado en la cima del vo
 Según 'El Gran Telescopio Milimétrico en Sierra Negra', la vocación o inclinación intelectual de los creadores se presenta como:
 
 ### Opciones
-- [x] A) Una fuerza natural e innata que debe desarrollarse en libertad para enriquecer a la sociedad. <!-- feedback: Correcto. Se describe como un impulso indomable que aporta valor y exige un ámbito de libertad educativa. -->
-- [ ] B) Una desobediencia voluntaria que atenta contra el bienestar de la colectividad. <!-- feedback: Incorrecto. Se valora de forma sumamente positiva, no como un atentado social. -->
+- [x] B) Una fuerza natural e innata que debe desarrollarse en libertad para enriquecer a la sociedad. <!-- feedback: Correcto. Se describe como un impulso indomable que aporta valor y exige un ámbito de libertad educativa. -->
+- [ ] A) Una desobediencia voluntaria que atenta contra el bienestar de la colectividad. <!-- feedback: Incorrecto. Se valora de forma sumamente positiva, no como un atentado social. -->
 - [ ] C) Un capricho superficial que debe ser reprimido por las autoridades gubernamentales. <!-- feedback: Incorrecto. Al contrario, limitar el desarrollo intelectual es calificado como un despropósito. -->
 - [ ] D) El resultado de un adiestramiento mecánico exento de lógica o pasión personal. <!-- feedback: Incorrecto. Es descrita como una inclinación profunda imbuida de talento y dedicación natural. -->
 
@@ -170,8 +170,8 @@ El Gran Telescopio Milimétrico Alfonso Serrano (GTM), ubicado en la cima del vo
 Si un educador de la SEP actual compartiera la visión de el Gran Telescopio Milimétrico expuesta en el fragmento, ¿cuál de los siguientes proyectos de aula consideraría prioritario?
 
 ### Opciones
-- [ ] A) La memorización mecánica de fechas de batallas históricas sin análisis de causas. <!-- feedback: Incorrecto. El humanismo promueve la reflexión y comprensión crítica, no el aprendizaje memorístico. -->
-- [x] B) Un taller donde los alumnos analicen textos literarios universales vinculándolos con la realidad de su comunidad. <!-- feedback: Correcto. Este ejercicio encarna perfectamente el diálogo entre corrientes globales de pensamiento y la identidad local. -->
+- [ ] B) La memorización mecánica de fechas de batallas históricas sin análisis de causas. <!-- feedback: Incorrecto. El humanismo promueve la reflexión y comprensión crítica, no el aprendizaje memorístico. -->
+- [x] A) Un taller donde los alumnos analicen textos literarios universales vinculándolos con la realidad de su comunidad. <!-- feedback: Correcto. Este ejercicio encarna perfectamente el diálogo entre corrientes globales de pensamiento y la identidad local. -->
 - [ ] C) La prohibición de la lectura de autores extranjeros para proteger el idioma español. <!-- feedback: Incorrecto. Esto caería en el aislamiento cerrado que el autor critica de manera enérgica. -->
 - [ ] D) La reducción de las horas de clase dedicadas al arte y a la filosofía para priorizar la contabilidad. <!-- feedback: Incorrecto. El autor aboga por la centralidad de las humanidades en la educación nacional. -->
 
@@ -193,8 +193,8 @@ El Gran Telescopio Milimétrico Alfonso Serrano (GTM), ubicado en la cima del vo
 Frente a una iniciativa legal que busque limitar el acceso de las mujeres o de comunidades rurales a la educación superior en México, la filosofía de el Gran Telescopio Milimétrico permitiría argumentar que:
 
 ### Opciones
-- [x] A) Limitar la educación de un sector de la población debilita el desarrollo cultural y atenta contra el potencial racional de la nación. <!-- feedback: Correcto. El desarrollo racional es un derecho universal y su restricción empobrece de manera integral a la cultura colectiva. -->
-- [ ] B) La medida es correcta porque el acceso a la cultura de vanguardia debe reservarse para una élite urbana cortesana. <!-- feedback: Incorrecto. El humanismo y la cruzada alfabetizadora promueven un ideal de acceso abierto al saber. -->
+- [x] B) Limitar la educación de un sector de la población debilita el desarrollo cultural y atenta contra el potencial racional de la nación. <!-- feedback: Correcto. El desarrollo racional es un derecho universal y su restricción empobrece de manera integral a la cultura colectiva. -->
+- [ ] A) La medida es correcta porque el acceso a la cultura de vanguardia debe reservarse para una élite urbana cortesana. <!-- feedback: Incorrecto. El humanismo y la cruzada alfabetizadora promueven un ideal de acceso abierto al saber. -->
 - [ ] C) El estudio científico debe restringirse para evitar que las tradiciones locales cambien con el tiempo. <!-- feedback: Incorrecto. La cultura es concebida de forma dinámica, enriqueciéndose mediante la asimilación de nuevos saberes. -->
 - [ ] D) Las decisiones de política educativa deben ser dictadas de forma absoluta por las autoridades eclesiásticas. <!-- feedback: Incorrecto. Se defiende la libertad intelectual de los creadores e investigadores por encima de controles dogmáticos. -->
 
@@ -216,9 +216,9 @@ El Gran Telescopio Milimétrico Alfonso Serrano (GTM), ubicado en la cima del vo
 Un ensayista contemporáneo que utiliza la sátira y el contraste lógico para criticar las incoherencias morales de la política mexicana sigue un método similar a:
 
 ### Opciones
-- [x] A) El desmontaje lógico e irónico que se describe en la obra de defensa del intelecto y crítica de costumbres. <!-- feedback: Correcto. Emplear la ironía y el rigor argumentativo para desnudar hipocresías es la técnica que se destaca en el fragmento. -->
-- [ ] B) La imitación de catálogos científicos de botánica exentos de lenguaje figurado. <!-- feedback: Incorrecto. La sátira es un recurso expresivo y valorativo de las humanidades, no una descripción científica fría. -->
-- [ ] C) La recopilación de datos estadísticos sobre el censo de población de la Nueva España. <!-- feedback: Incorrecto. Se enfoca en la argumentación lógica y moral, no en la contabilidad demográfica. -->
+- [x] C) El desmontaje lógico e irónico que se describe en la obra de defensa del intelecto y crítica de costumbres. <!-- feedback: Correcto. Emplear la ironía y el rigor argumentativo para desnudar hipocresías es la técnica que se destaca en el fragmento. -->
+- [ ] A) La imitación de catálogos científicos de botánica exentos de lenguaje figurado. <!-- feedback: Incorrecto. La sátira es un recurso expresivo y valorativo de las humanidades, no una descripción científica fría. -->
+- [ ] B) La recopilación de datos estadísticos sobre el censo de población de la Nueva España. <!-- feedback: Incorrecto. Se enfoca en la argumentación lógica y moral, no en la contabilidad demográfica. -->
 - [ ] D) Una queja lastimera que se limita a lamentar el orden social sin argumentar. <!-- feedback: Incorrecto. Al contrario, se destaca que la sátira y el desmontaje operan con rigor forense y racional. -->
 
 ### Explicacion Pedagogica
@@ -239,8 +239,8 @@ El Gran Telescopio Milimétrico Alfonso Serrano (GTM), ubicado en la cima del vo
 El concepto de un 'concierto de las letras universales' planteado en 'El Gran Telescopio Milimétrico en Sierra Negra' es comparable por analogía con:
 
 ### Opciones
-- [ ] A) Un coro de voces idénticas que cantan en una sola nota e idioma sin admitir variaciones. <!-- feedback: Incorrecto. Un concierto implica pluralidad e integración armoniosa de sonidos diversos, no homogeneidad absoluta. -->
-- [x] B) Una orquesta filarmónica donde instrumentos diversos aportan su timbre particular para crear una obra común. <!-- feedback: Correcto. Ilustra la asimilación respetuosa de identidades múltiples que cooperan de forma equilibrada en un marco universal. -->
+- [ ] B) Un coro de voces idénticas que cantan en una sola nota e idioma sin admitir variaciones. <!-- feedback: Incorrecto. Un concierto implica pluralidad e integración armoniosa de sonidos diversos, no homogeneidad absoluta. -->
+- [x] A) Una orquesta filarmónica donde instrumentos diversos aportan su timbre particular para crear una obra común. <!-- feedback: Correcto. Ilustra la asimilación respetuosa de identidades múltiples que cooperan de forma equilibrada en un marco universal. -->
 - [ ] C) Una biblioteca cerrada con candado donde sólo se permite el ingreso de los bibliotecarios. <!-- feedback: Incorrecto. El concierto alude a un diálogo abierto de ideas, no al ocultamiento o reclusión del saber. -->
 - [ ] D) Un mercado informal de copias piratas de textos de botánica. <!-- feedback: Incorrecto. La analogía es con un espacio de creación coordinada e intelectual de alto valor estético. -->
 
@@ -286,9 +286,9 @@ Un plan de desarrollo urbano sustentable en la ingeniería de precisión que inc
 
 ### Opciones
 - [ ] A) La pavimentación masiva de áreas verdes para la edificación de centros comerciales extranjeros. <!-- feedback: Incorrecto. Destruir el paisaje natural rompe la conexión con la flora y el relieve que el autor destaca. -->
-- [x] B) El equilibrio ecológico de la zona, el uso de flora nativa y la visibilidad de los monumentos naturales emblemáticos. <!-- feedback: Correcto. Respetar e integrar el entorno físico con la vida cotidiana preserva el ancla de la identidad y de la memoria colectiva. -->
-- [ ] C) La construcción de grandes autopistas de cuota sin andadores peatonales. <!-- feedback: Incorrecto. Priorizar el tránsito vehicular a costa de la habitabilidad peatonal es ajeno a un enfoque humanista. -->
-- [ ] D) El desalojo forzado de los habitantes nativos para deparar zonas hoteleras exclusivas. <!-- feedback: Incorrecto. Esto trivializa el patrimonio social y destruye el tejido comunitario de memoria. -->
+- [x] D) El equilibrio ecológico de la zona, el uso de flora nativa y la visibilidad de los monumentos naturales emblemáticos. <!-- feedback: Correcto. Respetar e integrar el entorno físico con la vida cotidiana preserva el ancla de la identidad y de la memoria colectiva. -->
+- [ ] B) La construcción de grandes autopistas de cuota sin andadores peatonales. <!-- feedback: Incorrecto. Priorizar el tránsito vehicular a costa de la habitabilidad peatonal es ajeno a un enfoque humanista. -->
+- [ ] C) El desalojo forzado de los habitantes nativos para deparar zonas hoteleras exclusivas. <!-- feedback: Incorrecto. Esto trivializa el patrimonio social y destruye el tejido comunitario de memoria. -->
 
 ### Explicacion Pedagogica
 Preservar el paisaje natural y su visibilidad en equilibrio con el desarrollo urbano es coherente con concebir la geografía como pilar cultural.
@@ -308,10 +308,10 @@ La construcción y operación del GTM Alfonso Serrano representó un hito de la 
 En el fragmento 'Ingeniería Mexicana ante Desafíos de Alta Tecnología', ¿cuál es la relación que se establece entre el paisaje físico de la ingeniería de precisión y el carácter de sus habitantes?
 
 ### Opciones
-- [x] A) El medio físico ejerce una influencia profunda en el temperamento de la comunidad, promoviendo virtudes como la tenacidad. <!-- feedback: Correcto. El autor argumenta que la dureza del relieve y la aridez climática modelan de forma directa el espíritu esforzado colectiva. -->
-- [ ] B) El relieve geográfico no tiene ningún impacto real en la mentalidad o en la cultura de las personas. <!-- feedback: Incorrecto. El fragmento sostiene precisamente la tesis opuesta, valorando la geografía como pilar de identidad. -->
-- [ ] C) Los habitantes odian profundamente su entorno y buscan destruirlo mediante la urbanización masiva. <!-- feedback: Incorrecto. Al contrario, la montaña es descrita como el eje del cariño y de la memoria colectiva de los ciudadanos. -->
-- [ ] D) El clima templado y la abundancia de recursos forestales producen un temperamento apático. <!-- feedback: Incorrecto. El clima es descrito como desafiante y árido, y se asocia con la tenacidad, no con la apatía. -->
+- [x] D) El medio físico ejerce una influencia profunda en el temperamento de la comunidad, promoviendo virtudes como la tenacidad. <!-- feedback: Correcto. El autor argumenta que la dureza del relieve y la aridez climática modelan de forma directa el espíritu esforzado colectiva. -->
+- [ ] A) El relieve geográfico no tiene ningún impacto real en la mentalidad o en la cultura de las personas. <!-- feedback: Incorrecto. El fragmento sostiene precisamente la tesis opuesta, valorando la geografía como pilar de identidad. -->
+- [ ] B) Los habitantes odian profundamente su entorno y buscan destruirlo mediante la urbanización masiva. <!-- feedback: Incorrecto. Al contrario, la montaña es descrita como el eje del cariño y de la memoria colectiva de los ciudadanos. -->
+- [ ] C) El clima templado y la abundancia de recursos forestales producen un temperamento apático. <!-- feedback: Incorrecto. El clima es descrito como desafiante y árido, y se asocia con la tenacidad, no con la apatía. -->
 
 ### Explicacion Pedagogica
 El autor teoriza que la geografía desafiante opera como una escuela de temple, forjando un carácter laborioso y tenaz en la población local.
@@ -332,8 +332,8 @@ Al describir la prosa del ensayo sobre el control activo como una 'unión de pre
 
 ### Opciones
 - [ ] A) Un error de método científico que resta validez informativa al escrito. <!-- feedback: Incorrecto. La unión de estas dos facetas se describe como una virtud literaria de gran valor, no como una falla. -->
-- [x] B) La destreza para conjugar la observación minuciosa y científica del entorno con la sensibilidad poética y afectiva. <!-- feedback: Correcto. El autor destaca que el escrito logra ser riguroso respecto a la naturaleza y a la vez evocar de forma viva la nostalgia. -->
-- [ ] C) El desprecio del ensayista por las leyes de la física y de las ciencias de la Tierra. <!-- feedback: Incorrecto. El ensayista demuestra un profundo conocimiento y aprecio por las ciencias biológicas de su entorno. -->
+- [x] C) La destreza para conjugar la observación minuciosa y científica del entorno con la sensibilidad poética y afectiva. <!-- feedback: Correcto. El autor destaca que el escrito logra ser riguroso respecto a la naturaleza y a la vez evocar de forma viva la nostalgia. -->
+- [ ] B) El desprecio del ensayista por las leyes de la física y de las ciencias de la Tierra. <!-- feedback: Incorrecto. El ensayista demuestra un profundo conocimiento y aprecio por las ciencias biológicas de su entorno. -->
 - [ ] D) Una contradicción estilística insalvable que confunde por completo a los lectores. <!-- feedback: Incorrecto. Al contrario, produce un texto de gran claridad expresiva e intelectual. -->
 
 ### Explicacion Pedagogica
@@ -354,9 +354,9 @@ La construcción y operación del GTM Alfonso Serrano representó un hito de la 
 ¿Qué premisa lógica es indispensable para que se sostenga la tesis de que el control activo constituye la 'columna vertebral de la identidad' de una región?
 
 ### Opciones
-- [x] A) Que la cultura y la memoria de un pueblo se construyen en un diálogo ininterrumpido e íntimo con el entorno que habitan. <!-- feedback: Correcto. Si no existiera esta interdependencia subjetiva con el paisaje, el entorno sería irrelevante para la construcción de la identidad. -->
-- [ ] B) Que la geografía determina el comportamiento de forma absoluta e inmutable, sin importar las relaciones históricas. <!-- feedback: Incorrecto. Atribuir un poder determinista rígido borra la libertad y la evolución histórica de la sociedad que el texto reconoce. -->
-- [ ] C) Que las personas nacidas en llanuras carecen por completo de memoria histórica y de expresiones artísticas. <!-- feedback: Incorrecto. Es un absurdo lógico que no se desprende de la valoración del paisaje montañoso o ritual de una zona. -->
+- [x] C) Que la cultura y la memoria de un pueblo se construyen en un diálogo ininterrumpido e íntimo con el entorno que habitan. <!-- feedback: Correcto. Si no existiera esta interdependencia subjetiva con el paisaje, el entorno sería irrelevante para la construcción de la identidad. -->
+- [ ] A) Que la geografía determina el comportamiento de forma absoluta e inmutable, sin importar las relaciones históricas. <!-- feedback: Incorrecto. Atribuir un poder determinista rígido borra la libertad y la evolución histórica de la sociedad que el texto reconoce. -->
+- [ ] B) Que las personas nacidas en llanuras carecen por completo de memoria histórica y de expresiones artísticas. <!-- feedback: Incorrecto. Es un absurdo lógico que no se desprende de la valoración del paisaje montañoso o ritual de una zona. -->
 - [ ] D) Que la recopilación de datos de archivos eclesiásticos es superior a la observación directa de la naturaleza. <!-- feedback: Incorrecto. El texto resalta precisamente la valía de la observación unida al afecto de la vivencia real. -->
 
 ### Explicacion Pedagogica
@@ -377,8 +377,8 @@ La construcción y operación del GTM Alfonso Serrano representó un hito de la 
 ¿Cuál de las siguientes observaciones críticas representa un cuestionamiento pertinente al enfoque que asocia el temple de la población al clima o al relieve?
 
 ### Opciones
-- [ ] A) Que utiliza un vocabulario excesivamente sencillo carente de figuras de paralelismo o antítesis. <!-- feedback: Incorrecto. El escrito destaca por su complejidad y refinamiento retórico, no por simpleza. -->
-- [x] B) Que corre el riesgo de caer en el determinismo geográfico, soslayando la inmensa influencia de los factores históricos, sociales y económicos. <!-- feedback: Correcto. Explicar el carácter laborioso únicamente por la dureza de la montaña simplifica los procesos económicos de la comunidad. -->
+- [ ] B) Que utiliza un vocabulario excesivamente sencillo carente de figuras de paralelismo o antítesis. <!-- feedback: Incorrecto. El escrito destaca por su complejidad y refinamiento retórico, no por simpleza. -->
+- [x] A) Que corre el riesgo de caer en el determinismo geográfico, soslayando la inmensa influencia de los factores históricos, sociales y económicos. <!-- feedback: Correcto. Explicar el carácter laborioso únicamente por la dureza de la montaña simplifica los procesos económicos de la comunidad. -->
 - [ ] C) Que ignora por completo la herencia de los clásicos grecolatinos que Reyes defendía en sus ensayos. <!-- feedback: Incorrecto. El autor integra de hecho el humanismo universal al dar valor y dignidad literaria al entorno norteño. -->
 - [ ] D) Que rechaza de forma arbitraria el uso de la investigación científica y la biología en las crónicas de costumbres. <!-- feedback: Incorrecto. Al contrario, se destaca el uso de la precisión de las ciencias biológicas de la zona. -->
 
@@ -400,8 +400,8 @@ La construcción y operación del GTM Alfonso Serrano representó un hito de la 
 ¿En qué consiste el valor metodológico y cultural del enfoque desarrollado en 'Ingeniería Mexicana ante Desafíos de Alta Tecnología'?
 
 ### Opciones
-- [ ] A) En proveer una fórmula matemática exacta para calcular el volumen de agua de los acuíferos o la altura de las montañas. <!-- feedback: Incorrecto. No de depara mediciones de tipo industrial o ingenieril cuantitativo en el ensayo analizado. -->
-- [x] B) En transfigurar el espacio físico de un dato estadístico frío a un patrimonio vivo cargado de memoria y afecto social. <!-- feedback: Correcto. El escrito dota de dimensión humana y simbólica a la geografía, incorporándola al acervo cultural e identitario. -->
+- [ ] B) En proveer una fórmula matemática exacta para calcular el volumen de agua de los acuíferos o la altura de las montañas. <!-- feedback: Incorrecto. No de depara mediciones de tipo industrial o ingenieril cuantitativo en el ensayo analizado. -->
+- [x] A) En transfigurar el espacio físico de un dato estadístico frío a un patrimonio vivo cargado de memoria y afecto social. <!-- feedback: Correcto. El escrito dota de dimensión humana y simbólica a la geografía, incorporándola al acervo cultural e identitario. -->
 - [ ] C) En justificar el cobro de cuotas arancelarias a las publicaciones literarias procedentes del extranjero. <!-- feedback: Incorrecto. No guarda relación alguna con regulaciones comerciales o aranceles de importación de libros. -->
 - [ ] D) En sugerir que la literatura de opinión carece de importancia frente a la recopilación de archivos históricos coloniales. <!-- feedback: Incorrecto. El texto exalta precisamente la gran valía del ensayo literario y de la apreciación estética del medio. -->
 
@@ -423,8 +423,8 @@ La construcción y operación del GTM Alfonso Serrano representó un hito de la 
 A partir de la advertencia sobre la tensión entre 'el control activo' y 'la ingeniería de precisión' que se plantea en 'Ingeniería Mexicana ante Desafíos de Alta Tecnología', ¿qué postura asume el autor?
 
 ### Opciones
-- [x] A) Defiende la custodia responsable de la esencia espiritual y comunitaria del patrimonio frente a la banalización del consumo masivo. <!-- feedback: Correcto. Advierte del riesgo de que la mercantilización turística despoje de su valor sagrado y de memoria a los rituales colectivos. -->
-- [ ] B) Promueve la explotación comercial irrestricta de las tradiciones para maximizar la llegada de divisas extranjeras. <!-- feedback: Incorrecto. Considera que la comercialización descontrolada trivializa y devalúa el patrimonio identitario nacional. -->
+- [x] B) Defiende la custodia responsable de la esencia espiritual y comunitaria del patrimonio frente a la banalización del consumo masivo. <!-- feedback: Correcto. Advierte del riesgo de que la mercantilización turística despoje de su valor sagrado y de memoria a los rituales colectivos. -->
+- [ ] A) Promueve la explotación comercial irrestricta de las tradiciones para maximizar la llegada de divisas extranjeras. <!-- feedback: Incorrecto. Considera que la comercialización descontrolada trivializa y devalúa el patrimonio identitario nacional. -->
 - [ ] C) Propone la prohibición de toda investigación biológica o antropológica sobre las especies y los cenotes de México. <!-- feedback: Incorrecto. Valora positivamente las investigaciones de las ciencias y el resguardo ecológico y arqueológico de la zona. -->
 - [ ] D) Recomienda la adopción obligatoria de las costumbres festivas norteamericanas en detrimento de la milpa y del Día de Muertos. <!-- feedback: Incorrecto. Se busca proteger y valorar de forma digna las tradiciones prehispánicas y novohispanas locales. -->
 
@@ -446,9 +446,9 @@ La construcción y operación del GTM Alfonso Serrano representó un hito de la 
 El fragmento B es valorado históricamente como una contribución relevante porque:
 
 ### Opciones
-- [x] A) Logra articular con lucidez argumentativa y belleza formal la defensa de un patrimonio deparable de conservación ecológica y cultural. <!-- feedback: Correcto. Su valor reside en unificar la argumentación lógica con la sensibilidad social frente al deterioro ambiental o la banalización comercial. -->
-- [ ] B) Fue el primer artículo científico sobre la secuenciación del genoma de los anfibios publicado en México en el siglo XVI. <!-- feedback: Incorrecto. La secuenciación del genoma es una técnica contemporánea del siglo XXI, ausente en la época colonial novohispana. -->
-- [ ] C) Propone un modelo de recaudación tributaria ejidal para las chinampas del sur de la Ciudad de México. <!-- feedback: Incorrecto. No se abordan modelos fiscales de recaudación en esta sección del escrito. -->
+- [x] C) Logra articular con lucidez argumentativa y belleza formal la defensa de un patrimonio deparable de conservación ecológica y cultural. <!-- feedback: Correcto. Su valor reside en unificar la argumentación lógica con la sensibilidad social frente al deterioro ambiental o la banalización comercial. -->
+- [ ] A) Fue el primer artículo científico sobre la secuenciación del genoma de los anfibios publicado en México en el siglo XVI. <!-- feedback: Incorrecto. La secuenciación del genoma es una técnica contemporánea del siglo XXI, ausente en la época colonial novohispana. -->
+- [ ] B) Propone un modelo de recaudación tributaria ejidal para las chinampas del sur de la Ciudad de México. <!-- feedback: Incorrecto. No se abordan modelos fiscales de recaudación en esta sección del escrito. -->
 - [ ] D) Logró prohibir de forma absoluta el turismo internacional en la Península de Yucatán o en Michoacán. <!-- feedback: Incorrecto. No se prohíbe el turismo, sino que se plantea de forma crítica la necesidad de regular su impacto para evitar el deterioro. -->
 
 ### Explicacion Pedagogica
@@ -470,9 +470,9 @@ La construcción y operación del GTM Alfonso Serrano representó un hito de la 
 
 ### Opciones
 - [ ] A) El avance tecnológico e industrial hace innecesario e inútil cualquier esfuerzo por conservar la flora o la fauna nativas. <!-- feedback: Incorrecto. El texto sostiene precisamente que el desarrollo nacional debe guardar equilibrio ético con el resguardo natural. -->
-- [x] B) El paisaje, los rituales y los recursos naturales constituyen un tejido vivo de identidad que exige un compromiso ético de custodia. <!-- feedback: Correcto. La geografía y las tradiciones mesoamericanas no son meros objetos utilitarios, sino pilares de la memoria y la vida nacional. -->
-- [ ] C) La cultura del norte y la del sur de México son enemigas históricas irreconciliables que no pueden compartir un humanismo común. <!-- feedback: Incorrecto. Al contrario, se conciben como expresiones diversas y complementarias de la riqueza del país. -->
-- [ ] D) El estudio de la astronomía y la arqueología subacuática debe subordinarse a los dictados de las leyes mercantiles de importación. <!-- feedback: Incorrecto. El autor valora la autonomía de las ciencias y el saber humanístico por encima de controles puramente mercantiles. -->
+- [x] D) El paisaje, los rituales y los recursos naturales constituyen un tejido vivo de identidad que exige un compromiso ético de custodia. <!-- feedback: Correcto. La geografía y las tradiciones mesoamericanas no son meros objetos utilitarios, sino pilares de la memoria y la vida nacional. -->
+- [ ] B) La cultura del norte y la del sur de México son enemigas históricas irreconciliables que no pueden compartir un humanismo común. <!-- feedback: Incorrecto. Al contrario, se conciben como expresiones diversas y complementarias de la riqueza del país. -->
+- [ ] C) El estudio de la astronomía y la arqueología subacuática debe subordinarse a los dictados de las leyes mercantiles de importación. <!-- feedback: Incorrecto. El autor valora la autonomía de las ciencias y el saber humanístico por encima de controles puramente mercantiles. -->
 
 ### Explicacion Pedagogica
 La lectura integral concluye que la conservación ecológica y el resguardo de los ritos son imperativos éticos para preservar la memoria colectiva nacional.

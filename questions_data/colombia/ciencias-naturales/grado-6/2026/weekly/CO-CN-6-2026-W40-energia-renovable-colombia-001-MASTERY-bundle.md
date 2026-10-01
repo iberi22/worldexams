@@ -34,9 +34,9 @@ Este bundle de 10 preguntas estudia las fuentes de energía renovable y su aprov
 ¿Qué caracteriza a una fuente de energía renovable?
 
 ### Opciones
-- [x] A) Se repone de forma natural en un tiempo corto, por lo que no se agota con su uso continuo
+- [x] B) Se repone de forma natural en un tiempo corto, por lo que no se agota con su uso continuo
   <!-- feedback: Correcto. Las fuentes renovables se regeneran continuamente. -->
-- [ ] B) Se agota al usarse y tarda millones de años en formarse de nuevo
+- [ ] A) Se agota al usarse y tarda millones de años en formarse de nuevo
   <!-- feedback: Incorrecto. Esa es la característica de los combustibles fósiles, que no son renovables. -->
 - [ ] C) Solo puede usarse una vez en toda la historia de un país
   <!-- feedback: Incorrecto. Las fuentes renovables pueden aprovecharse de manera continua. -->
@@ -57,13 +57,13 @@ Las fuentes de energía renovable, como el sol, el viento, el agua y la biomasa,
 ¿Por qué una central hidroeléctrica depende del ciclo del agua?
 
 ### Opciones
-- [x] A) Porque las lluvias y los ríos alimentan el embalse, y el agua almacenada es la que aporta la energía al descender y mover las turbinas
+- [x] D) Porque las lluvias y los ríos alimentan el embalse, y el agua almacenada es la que aporta la energía al descender y mover las turbinas
   <!-- feedback: Correcto. La energía del agua depende de que la cuenca reciba lluvia. -->
-- [ ] B) Porque las turbinas funcionan con la energía del viento que cruza el embalse
+- [ ] A) Porque las turbinas funcionan con la energía del viento que cruza el embalse
   <!-- feedback: Incorrecto. En una hidroeléctrica la energía proviene del agua, no del viento. -->
-- [ ] C) Porque el embalse produce agua nueva cada vez que genera electricidad
+- [ ] B) Porque el embalse produce agua nueva cada vez que genera electricidad
   <!-- feedback: Incorrecto. El agua se reutiliza, pero no se crea en el embalse. -->
-- [ ] D) Porque el agua de la lluvia se transforma directamente en electricidad en las nubes
+- [ ] C) Porque el agua de la lluvia se transforma directamente en electricidad en las nubes
   <!-- feedback: Incorrecto. La transformación ocurre en las turbinas y los generadores. -->
 
 ### Explicacion Pedagogica
@@ -80,9 +80,9 @@ Una central hidroeléctrica aprovecha la energía potencial del agua almacenada:
 ¿Qué transformaciones de energía se presentan en el montaje?
 
 ### Opciones
-- [x] A) La energía luminosa del Sol se transforma en energía eléctrica en el panel y, luego, en energía de movimiento en el ventilador
+- [x] B) La energía luminosa del Sol se transforma en energía eléctrica en el panel y, luego, en energía de movimiento en el ventilador
   <!-- feedback: Correcto. El panel convierte luz en electricidad y el ventilador la usa para moverse. -->
-- [ ] B) La energía del viento se transforma directamente en luz dentro del panel
+- [ ] A) La energía del viento se transforma directamente en luz dentro del panel
   <!-- feedback: Incorrecto. El panel aprovecha la luz solar, no el movimiento del aire. -->
 - [ ] C) La energía eléctrica se transforma en luz y luego en combustible
   <!-- feedback: Incorrecto. En el montaje no se produce combustible. -->
@@ -103,9 +103,9 @@ Los paneles fotovoltaicos aprovechan el efecto fotoeléctrico: la luz solar libe
 ¿Qué explica que esa zona sea adecuada para producir energía eólica?
 
 ### Opciones
-- [x] A) Los vientos son intensos y constantes, de modo que las aspas giran con fuerza y regularidad y mueven los generadores por más horas al día
+- [x] B) Los vientos son intensos y constantes, de modo que las aspas giran con fuerza y regularidad y mueven los generadores por más horas al día
   <!-- feedback: Correcto. La cantidad y la constancia del viento determinan la energía producida. -->
-- [ ] B) El terreno plano produce por sí solo electricidad sin necesidad de viento
+- [ ] A) El terreno plano produce por sí solo electricidad sin necesidad de viento
   <!-- feedback: Incorrecto. Los aerogeneradores necesitan el viento para girar. -->
 - [ ] C) La cercanía al mar impide que los aerogeneradores funcionen
   <!-- feedback: Incorrecto. La costa puede tener vientos favorables para la energía eólica. -->
@@ -126,9 +126,9 @@ La energía eólica depende de la velocidad y la constancia del viento: al sopla
 ¿Qué acciones aplican mejor el uso eficiente de la energía?
 
 ### Opciones
-- [x] A) Apagar las luces y los aparatos que no se usan, aprovechar la luz natural y cambiar los bombillos por otros de bajo consumo
+- [x] B) Apagar las luces y los aparatos que no se usan, aprovechar la luz natural y cambiar los bombillos por otros de bajo consumo
   <!-- feedback: Correcto. El uso eficiente consiste en evitar el desperdicio de energía. -->
-- [ ] B) Dejar encendidos todos los aparatos para que estén listos cuando se necesiten
+- [ ] A) Dejar encendidos todos los aparatos para que estén listos cuando se necesiten
   <!-- feedback: Incorrecto. Dejarlos encendidos desperdicia energía sin utilidad. -->
 - [ ] C) Usar aparatos de mayor potencia aunque no sean necesarios
   <!-- feedback: Incorrecto. A mayor potencia sin necesidad, mayor consumo. -->
@@ -172,9 +172,9 @@ Comparar fuentes de energía exige analizar varios criterios: si el recurso se a
 ¿Qué análisis explica mejor esa variación en la generación?
 
 ### Opciones
-- [x] A) La energía eólica depende de la velocidad del viento, que cambia de un mes a otro; cuando el viento disminuye, las aspas giran menos y se genera menos electricidad
+- [x] B) La energía eólica depende de la velocidad del viento, que cambia de un mes a otro; cuando el viento disminuye, las aspas giran menos y se genera menos electricidad
   <!-- feedback: Correcto. La variación del viento explica la variación de la generación. -->
-- [ ] B) Los aerogeneradores se dañan todos los meses y dejan de funcionar
+- [ ] A) Los aerogeneradores se dañan todos los meses y dejan de funcionar
   <!-- feedback: Incorrecto. La variación responde al recurso, no a daños permanentes. -->
 - [ ] C) La energía producida depende solo del color de las aspas
   <!-- feedback: Incorrecto. El color no determina la energía generada. -->
@@ -195,13 +195,13 @@ Las fuentes renovables como el viento y el Sol son variables: dependen de las co
 ¿Qué análisis explica esos cambios en el ecosistema del río?
 
 ### Opciones
-- [x] A) La represa interrumpe el paso de los peces migratorios y retiene sedimentos y nutrientes, lo que modifica el hábitat y afecta la vegetación y la pesca río abajo
+- [x] D) La represa interrumpe el paso de los peces migratorios y retiene sedimentos y nutrientes, lo que modifica el hábitat y afecta la vegetación y la pesca río abajo
   <!-- feedback: Correcto. La represa altera el flujo del agua, los sedimentos y la fauna. -->
-- [ ] B) La represa no produce ningún cambio en el río, solo genera electricidad
+- [ ] A) La represa no produce ningún cambio en el río, solo genera electricidad
   <!-- feedback: Incorrecto. Las represas modifican el caudal, los sedimentos y el hábitat. -->
-- [ ] C) Los cambios se deben solo al color del agua embalsada
+- [ ] B) Los cambios se deben solo al color del agua embalsada
   <!-- feedback: Incorrecto. Los cambios dependen de factores físicos y biológicos del río. -->
-- [ ] D) La vegetación de las orillas aumenta porque la represa riega todo el valle
+- [ ] C) La vegetación de las orillas aumenta porque la represa riega todo el valle
   <!-- feedback: Incorrecto. Muchas veces la vegetación ribereña disminuye al cambiar el río. -->
 
 ### Explicacion Pedagogica
@@ -218,11 +218,11 @@ Aunque la energía hidroeléctrica es renovable, las grandes represas tienen imp
 ¿Qué evaluación conjunta de las tres afirmaciones es correcta?
 
 ### Opciones
-- [x] A) La 1 es falsa, porque aunque son más limpias, las fuentes renovables también tienen impactos; la 2 es verdadera y la 3 también es verdadera
+- [x] C) La 1 es falsa, porque aunque son más limpias, las fuentes renovables también tienen impactos; la 2 es verdadera y la 3 también es verdadera
   <!-- feedback: Correcto. Reconoce los impactos de las renovables y el valor del uso eficiente. -->
-- [ ] B) Las tres afirmaciones son verdaderas, porque las renovables no afectan el ambiente
+- [ ] A) Las tres afirmaciones son verdaderas, porque las renovables no afectan el ambiente
   <!-- feedback: Incorrecto. Las renovables tienen impactos, aunque menores que los combustibles fósiles. -->
-- [ ] C) Solo la 1 es verdadera y las otras dos son falsas
+- [ ] B) Solo la 1 es verdadera y las otras dos son falsas
   <!-- feedback: Incorrecto. La 1 es falsa y las otras dos son verdaderas. -->
 - [ ] D) Las tres afirmaciones son falsas, porque la energía no depende del clima
   <!-- feedback: Incorrecto. La hidroeléctrica depende directamente de las lluvias. -->
@@ -241,9 +241,9 @@ Evaluar estas afirmaciones exige reconocer que ninguna fuente de energía es tot
 ¿Qué opción conviene priorizar y por qué?
 
 ### Opciones
-- [x] A) Instalar paneles solares con baterías para la escuela y el puesto de salud, porque aprovechan un recurso disponible todo el año, no contaminan durante su uso y mejoran servicios básicos
+- [x] B) Instalar paneles solares con baterías para la escuela y el puesto de salud, porque aprovechan un recurso disponible todo el año, no contaminan durante su uso y mejoran servicios básicos
   <!-- feedback: Correcto. La energía solar es adecuada para zonas aisladas con buena radiación. -->
-- [ ] B) Comprar plantas eléctricas de gasolina para cada casa y dejarlas encendidas todo el día
+- [ ] A) Comprar plantas eléctricas de gasolina para cada casa y dejarlas encendidas todo el día
   <!-- feedback: Incorrecto. Generan ruido, contaminan el aire y dependen de combustible costoso. -->
 - [ ] C) Esperar a que llegue la red eléctrica nacional sin hacer ninguna inversión
   <!-- feedback: Incorrecto. Esperar mantiene la comunidad sin energía para servicios básicos. -->

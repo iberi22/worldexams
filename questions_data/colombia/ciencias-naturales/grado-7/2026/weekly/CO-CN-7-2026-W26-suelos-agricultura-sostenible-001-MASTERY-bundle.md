@@ -31,9 +31,9 @@ Este bundle de dominio explica la formación del suelo y las prácticas agrícol
 ### Opciones
 - [ ] A) Una mezcla de cemento y ladrillo que se compra en Duitama para construir salones.
   <!-- feedback: Explica el error conceptual: el cemento construye, pero no es el suelo vivo donde crecen las plantas. -->
-- [x] B) Una mezcla de minerales, materia orgánica, agua y aire organizada en capas llamadas horizontes.
+- [x] C) Una mezcla de minerales, materia orgánica, agua y aire organizada en capas llamadas horizontes.
   <!-- feedback: Explica por qué es correcta: define componentes y capas del perfil del suelo. -->
-- [ ] C) Solo agua de lluvia acumulada en un hueco sin tierra ni seres vivos.
+- [ ] B) Solo agua de lluvia acumulada en un hueco sin tierra ni seres vivos.
   <!-- feedback: Explica el error conceptual: el agua sola no sostiene raíces ni aporta nutrientes como el suelo. -->
 - [ ] D) Un plástico negro que se extiende sobre el patio para sembrar encima.
   <!-- feedback: Explica el error conceptual: el plástico cubre, pero no aporta nutrientes ni deja respirar a las raíces. -->
@@ -67,9 +67,9 @@ La agricultura sostenible busca tres metas: buena cosecha hoy, tierra sana maña
 ### Enunciado
 ¿Por qué el compost mejora el suelo de la huerta escolar?
 ### Opciones
-- [ ] A) Porque el compost de Tunja es una piedra que calienta las raíces en las noches frías.
+- [ ] B) Porque el compost de Tunja es una piedra que calienta las raíces en las noches frías.
   <!-- feedback: Explica el error conceptual: el compost no es piedra caliente, sino materia orgánica descompuesta. -->
-- [x] B) Porque aporta nutrientes y humus, retiene agua y alimenta a lombrices y microbios del suelo.
+- [x] A) Porque aporta nutrientes y humus, retiene agua y alimenta a lombrices y microbios del suelo.
   <!-- feedback: Explica por qué es correcta: explica nutrición, estructura y vida del suelo con compost maduro. -->
 - [ ] C) Porque el compost reemplaza por completo el sol y el agua que necesitan las plantas.
   <!-- feedback: Explica el error conceptual: sin luz ni agua no hay fotosíntesis aunque haya buen abono. -->
@@ -105,9 +105,9 @@ La erosión se lleva primero la capa fértil. Sembrar en curvas de nivel acorta 
 ### Enunciado
 ¿Por qué la rotación de cultivos mejoraría ese lote de Nariño?
 ### Opciones
-- [ ] A) Porque cambiar de cultivo confunde a la luna y la papa crece solo de noche en Nariño.
+- [ ] B) Porque cambiar de cultivo confunde a la luna y la papa crece solo de noche en Nariño.
   <!-- feedback: Explica el error conceptual: la luna no define la nutrición del suelo ni el ciclo de las plagas. -->
-- [x] B) Porque alternar familias de plantas equilibra nutrientes, corta ciclos de plagas y mejora la estructura del suelo.
+- [x] A) Porque alternar familias de plantas equilibra nutrientes, corta ciclos de plagas y mejora la estructura del suelo.
   <!-- feedback: Explica por qué es correcta: explica descanso de nutrientes, control natural y diversidad radicular. -->
 - [ ] C) Porque sembrar siempre lo mismo enriquece el suelo y elimina todas las plagas para siempre.
   <!-- feedback: Explica el error conceptual: el monocultivo continuo agota los mismos nutrientes y multiplica plagas. -->
@@ -126,9 +126,9 @@ Cada cultivo extrae nutrientes distintos y atrae plagas distintas. Repetir papa 
 ### Opciones
 - [ ] A) Que el color de la bolsa en Villavicencio decide si el agua pasa o se queda.
   <!-- feedback: Explica el error conceptual: el color del empaque no cambia el tamaño de las partículas del suelo. -->
-- [x] B) Que la arena tiene partículas grandes con poros amplios que drenan, y la arcilla tiene partículas finas que retienen agua.
+- [x] C) Que la arena tiene partículas grandes con poros amplios que drenan, y la arcilla tiene partículas finas que retienen agua.
   <!-- feedback: Explica por qué es correcta: relaciona tamaño de partícula y poros con drenaje y retención. -->
-- [ ] C) Que la arena fabrica agua nueva y la arcilla se come el agua con lombrices.
+- [ ] B) Que la arena fabrica agua nueva y la arcilla se come el agua con lombrices.
   <!-- feedback: Explica el error conceptual: ningún suelo fabrica agua y las lombrices no se beben el encharcamiento. -->
 - [ ] D) Que ambos suelos son idénticos y la diferencia la causó mirar mal el reloj.
   <!-- feedback: Explica el error conceptual: la textura distinta produce comportamientos hídricos opuestos y medibles. -->
@@ -145,9 +145,9 @@ La textura depende del tamaño de partículas: arena gruesa, limo medio y arcill
 ### Opciones
 - [ ] A) Que las algas del Huila fabrican fertilizante gratis y el arroz ya no necesita comer.
   <!-- feedback: Explica el error conceptual: las algas usan el exceso de nutrientes, no alimentan gratis al arroz. -->
-- [x] B) Que el exceso de fertilizante se lava al agua, causa crecimiento de algas y acidifica o desequilibra el suelo.
+- [x] C) Que el exceso de fertilizante se lava al agua, causa crecimiento de algas y acidifica o desequilibra el suelo.
   <!-- feedback: Explica por qué es correcta: describe lixiviación, eutrofización y daño al suelo por sobredosis. -->
-- [ ] C) Que el fertilizante se convierte en semillas de arroz dentro del caño.
+- [ ] B) Que el fertilizante se convierte en semillas de arroz dentro del caño.
   <!-- feedback: Explica el error conceptual: el fertilizante disuelto no se transforma en semillas de arroz. -->
 - [ ] D) Que el caño verde es señal de agua pura y de suelo perfectamente sano.
   <!-- feedback: Explica el error conceptual: el verdor por algas indica exceso de nutrientes y falta de oxígeno. -->
@@ -183,9 +183,9 @@ El monocultivo es un banquete continuo para una sola plaga, que se multiplica si
 ### Opciones
 - [ ] A) Quemar la ladera, sembrar papa hasta el borde de la quebrada y lavar los químicos en el agua de Boyacá.
   <!-- feedback: Explica el error conceptual: la quema y la siembra al borde destruyen suelo y contaminan el agua común. -->
-- [x] B) Terrazas con cobertura, compost y rotación, franja de protección junto a la quebrada y riego medido.
+- [x] C) Terrazas con cobertura, compost y rotación, franja de protección junto a la quebrada y riego medido.
   <!-- feedback: Explica por qué es correcta: integra conservación de suelo, agua y producción con bajo costo. -->
-- [ ] C) Pavimentar toda la ladera con cemento para que no se erosione y comprar toda la comida en la ciudad.
+- [ ] B) Pavimentar toda la ladera con cemento para que no se erosione y comprar toda la comida en la ciudad.
   <!-- feedback: Explica el error conceptual: el cemento impide sembrar, aumenta escorrentía y arruina la finca. -->
 - [ ] D) Aplicar el doble de químico cada mes sin análisis y talar los árboles que dan sombra.
   <!-- feedback: Explica el error conceptual: más químico sin diagnóstico empobrece y talar aumenta erosión y calor. -->
@@ -202,11 +202,11 @@ El mejor plan ataca las causas con recursos locales: terrazas que frenan el agua
 ### Opciones
 - [ ] A) Es correcta porque en Pamplona el fuego crea tierra nueva y los microbios nunca existieron.
   <!-- feedback: Explica el error conceptual: el fuego no crea suelo y los microbios son millones por cada puñado. -->
-- [x] B) Es falsa porque la quema destruye materia orgánica y organismos, empobrece el suelo y aumenta la erosión.
+- [x] D) Es falsa porque la quema destruye materia orgánica y organismos, empobrece el suelo y aumenta la erosión.
   <!-- feedback: Explica por qué es correcta: refuta con pérdida de humus, muerte biológica y suelo desprotegido. -->
-- [ ] C) Es verdadera porque la ceniza reemplaza para siempre toda la vida del suelo.
+- [ ] B) Es verdadera porque la ceniza reemplaza para siempre toda la vida del suelo.
   <!-- feedback: Explica el error conceptual: la ceniza aporta pocos minerales breves, pero no reemplaza humus ni vida. -->
-- [ ] D) Es irrelevante porque el suelo es roca muerta y nunca cambia con el manejo.
+- [ ] C) Es irrelevante porque el suelo es roca muerta y nunca cambia con el manejo.
   <!-- feedback: Explica el error conceptual: el suelo es un ecosistema vivo que responde al manejo bueno o malo. -->
 ### Explicacion Pedagogica
 La quema volatiliza el nitrógeno, quema el humus que esponja y mata lombrices, hongos y bacterias que liberan nutrientes. La ceniza da un impulso corto de potasio, pero deja el suelo desnudo ante la lluvia. La evidencia muestra que tras quemas repetidas la fertilidad cae y la erosión crece. Alternativas como compostar el rastrojo conservan fertilidad duradera.

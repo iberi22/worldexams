@@ -33,9 +33,9 @@ calibration: {difficulty_band: "D3-D10", expected_success: 0.65}
 
 ### Opciones
 - [ ] A) Naturales ($\mathbb{N}$) <!-- feedback: Incorrecto. Los naturales son los números de conteo positivos; $-7$ es negativo. -->
-- [x] B) Enteros ($\mathbb{Z}$) <!-- feedback: ¡Correcto! $-7$ es un entero negativo, elemento de $\mathbb{Z}$. -->
-- [ ] C) Irracionales ($\mathbb{I}$) <!-- feedback: Incorrecto. Los irracionales tienen expansión decimal infinita no periódica; $-7$ es exacto. -->
-- [ ] D) Primos <!-- feedback: Incorrecto. Los números primos son naturales mayores que 1 con solo dos divisores. -->
+- [x] D) Enteros ($\mathbb{Z}$) <!-- feedback: ¡Correcto! $-7$ es un entero negativo, elemento de $\mathbb{Z}$. -->
+- [ ] B) Irracionales ($\mathbb{I}$) <!-- feedback: Incorrecto. Los irracionales tienen expansión decimal infinita no periódica; $-7$ es exacto. -->
+- [ ] C) Primos <!-- feedback: Incorrecto. Los números primos son naturales mayores que 1 con solo dos divisores. -->
 
 ### Explicación Pedagógica
 Los enteros $\mathbb{Z}$ incluyen los naturales, el cero y los negativos. Como $-7$ es un número completo negativo, pertenece a $\mathbb{Z}$ y, por extensión, a $\mathbb{Q}$ y $\mathbb{R}$.
@@ -53,8 +53,8 @@ Los enteros $\mathbb{Z}$ incluyen los naturales, el cero y los negativos. Como $
 ### Opciones
 - [ ] A) $0.333...$ <!-- feedback: Incorrecto. Es decimal infinito periódico, equivale a $\frac{1}{3}$, por lo tanto racional. -->
 - [ ] B) $\frac{5}{8}$ <!-- feedback: Incorrecto. Toda fracción de enteros es un número racional. -->
-- [x] C) $\sqrt{2}$ <!-- feedback: ¡Correcto! $\sqrt{2}$ no puede expresarse como fracción de enteros; su decimal es infinito no periódico. -->
-- [ ] D) $-4$ <!-- feedback: Incorrecto. $-4$ es un número entero, y todo entero es racional. -->
+- [x] D) $\sqrt{2}$ <!-- feedback: ¡Correcto! $\sqrt{2}$ no puede expresarse como fracción de enteros; su decimal es infinito no periódico. -->
+- [ ] C) $-4$ <!-- feedback: Incorrecto. $-4$ es un número entero, y todo entero es racional. -->
 
 ### Explicación Pedagógica
 Un número es irracional si no puede escribirse como $\frac{a}{b}$ con $a, b$ enteros. Las raíces cuadradas de naturales que no son cuadrados perfectos, como $\sqrt{2}$, son irracionales.
@@ -89,8 +89,8 @@ Para convertir una fracción a decimal se divide el numerador entre el denominad
 ¿Cuántos números enteros hay estrictamente entre $\sqrt{10}$ y $\sqrt{50}$?
 
 ### Opciones
-- [ ] A) 3 <!-- feedback: Incorrecto. Falta contar un entero; revisá las cotas $3.16...$ y $7.07...$. -->
-- [x] B) 4 <!-- feedback: ¡Correcto! Entre $3.16...$ y $7.07...$ están los enteros 4, 5, 6 y 7. -->
+- [ ] B) 3 <!-- feedback: Incorrecto. Falta contar un entero; revisá las cotas $3.16...$ y $7.07...$. -->
+- [x] A) 4 <!-- feedback: ¡Correcto! Entre $3.16...$ y $7.07...$ están los enteros 4, 5, 6 y 7. -->
 - [ ] C) 5 <!-- feedback: Incorrecto. Se cuenta un entero de más, quizá incluyendo un extremo que no es entero. -->
 - [ ] D) 40 <!-- feedback: Incorrecto. Ese número surge de restar los radicandos $50 - 10$, no de ubicar las raíces en la recta. -->
 
@@ -108,9 +108,9 @@ Como $\sqrt{10} \approx 3.16$ y $\sqrt{50} \approx 7.07$, los enteros estrictame
 Calcula el valor de $|-12| - |5|$.
 
 ### Opciones
-- [x] A) 7 <!-- feedback: ¡Correcto! $|-12| = 12$ y $|5| = 5$, entonces $12 - 5 = 7$. -->
-- [ ] B) 17 <!-- feedback: Incorrecto. Ese resultado es la suma de los módulos, no la resta pedida. -->
-- [ ] C) $-7$ <!-- feedback: Incorrecto. El valor absoluto nunca es negativo; la resta da $7$ positivo. -->
+- [x] C) 7 <!-- feedback: ¡Correcto! $|-12| = 12$ y $|5| = 5$, entonces $12 - 5 = 7$. -->
+- [ ] A) 17 <!-- feedback: Incorrecto. Ese resultado es la suma de los módulos, no la resta pedida. -->
+- [ ] B) $-7$ <!-- feedback: Incorrecto. El valor absoluto nunca es negativo; la resta da $7$ positivo. -->
 - [ ] D) $-17$ <!-- feedback: Incorrecto. Confunde el orden de las operaciones y los signos de los módulos. -->
 
 ### Explicación Pedagógica
@@ -128,8 +128,8 @@ Aplicando las propiedades de las potencias, simplifica $2^3 \cdot 2^2$.
 
 ### Opciones
 - [ ] A) $2^6 = 64$ <!-- feedback: Incorrecto. Multiplicaste los exponentes; al multiplicar potencias de igual base se suman. -->
-- [x] B) $2^5 = 32$ <!-- feedback: ¡Correcto! $2^3 \cdot 2^2 = 2^{3+2} = 2^5 = 32$. -->
-- [ ] C) $4^5$ <!-- feedback: Incorrecto. No se suman las bases; la base común 2 se conserva. -->
+- [x] C) $2^5 = 32$ <!-- feedback: ¡Correcto! $2^3 \cdot 2^2 = 2^{3+2} = 2^5 = 32$. -->
+- [ ] B) $4^5$ <!-- feedback: Incorrecto. No se suman las bases; la base común 2 se conserva. -->
 - [ ] D) $2^1 = 2$ <!-- feedback: Incorrecto. Restaste los exponentes; la regla del producto indica sumarlos. -->
 
 ### Explicación Pedagógica
@@ -146,8 +146,8 @@ La regla del producto de potencias de igual base dice $a^m \cdot a^n = a^{m+n}$.
 Expresa el número $0.00045$ en notación científica.
 
 ### Opciones
-- [ ] A) $4.5 \times 10^{4}$ <!-- feedback: Incorrecto. El exponente positivo agrandaría el número; los valores menores que 1 llevan exponente negativo. -->
-- [x] B) $4.5 \times 10^{-4}$ <!-- feedback: ¡Correcto! La coma se desplaza 4 lugares a la derecha, por eso el exponente es $-4$. -->
+- [ ] B) $4.5 \times 10^{4}$ <!-- feedback: Incorrecto. El exponente positivo agrandaría el número; los valores menores que 1 llevan exponente negativo. -->
+- [x] A) $4.5 \times 10^{-4}$ <!-- feedback: ¡Correcto! La coma se desplaza 4 lugares a la derecha, por eso el exponente es $-4$. -->
 - [ ] C) $4.5 \times 10^{-3}$ <!-- feedback: Incorrecto. Contaste un lugar de menos al mover la coma decimal. -->
 - [ ] D) $5.4 \times 10^{-4}$ <!-- feedback: Incorrecto. Se invirtieron los dígitos del coeficiente; debe quedar $4.5$. -->
 
@@ -165,9 +165,9 @@ En notación científica se escribe $a \times 10^n$ con $1 \le a < 10$. Para $0.
 Simplifica la expresión $\sqrt{50} - \sqrt{8}$.
 
 ### Opciones
-- [ ] A) $\sqrt{42}$ <!-- feedback: Incorrecto. No se restan los radicandos directamente; primero hay que descomponer cada raíz. -->
-- [ ] B) $7\sqrt{2}$ <!-- feedback: Incorrecto. Proviene de sumar $5\sqrt{2} + 2\sqrt{2}$ en lugar de restar. -->
-- [x] C) $3\sqrt{2}$ <!-- feedback: ¡Correcto! $\sqrt{50} = 5\sqrt{2}$ y $\sqrt{8} = 2\sqrt{2}$, entonces la resta da $3\sqrt{2}$. -->
+- [ ] B) $\sqrt{42}$ <!-- feedback: Incorrecto. No se restan los radicandos directamente; primero hay que descomponer cada raíz. -->
+- [ ] C) $7\sqrt{2}$ <!-- feedback: Incorrecto. Proviene de sumar $5\sqrt{2} + 2\sqrt{2}$ en lugar de restar. -->
+- [x] A) $3\sqrt{2}$ <!-- feedback: ¡Correcto! $\sqrt{50} = 5\sqrt{2}$ y $\sqrt{8} = 2\sqrt{2}$, entonces la resta da $3\sqrt{2}$. -->
 - [ ] D) $2\sqrt{2}$ <!-- feedback: Incorrecto. Ese es solo el valor de $\sqrt{8}$; falta operar con $\sqrt{50}$. -->
 
 ### Explicación Pedagógica
@@ -184,9 +184,9 @@ Se extraen factores cuadrados: $\sqrt{50} = \sqrt{25 \cdot 2} = 5\sqrt{2}$ y $\s
 Dados los intervalos $A = [-2, 3]$ y $B = [1, 5)$, determina $A \cap B$.
 
 ### Opciones
-- [x] A) $[1, 3]$ <!-- feedback: ¡Correcto! La intersección va del mayor extremo inferior (1) al menor extremo superior (3), ambos incluidos. -->
-- [ ] B) $(1, 3)$ <!-- feedback: Incorrecto. El 1 está incluido en ambos intervalos, por eso el corchete corresponde. -->
-- [ ] C) $[-2, 5)$ <!-- feedback: Incorrecto. Esa es la unión $A \cup B$, no la intersección. -->
+- [x] C) $[1, 3]$ <!-- feedback: ¡Correcto! La intersección va del mayor extremo inferior (1) al menor extremo superior (3), ambos incluidos. -->
+- [ ] A) $(1, 3)$ <!-- feedback: Incorrecto. El 1 está incluido en ambos intervalos, por eso el corchete corresponde. -->
+- [ ] B) $[-2, 5)$ <!-- feedback: Incorrecto. Esa es la unión $A \cup B$, no la intersección. -->
 - [ ] D) $(1, 3]$ <!-- feedback: Incorrecto. El extremo inferior 1 pertenece a $A$ y a $B$, así que se incluye con corchete. -->
 
 ### Explicación Pedagógica
@@ -205,8 +205,8 @@ Si un libro cuesta $\$U\,800$ y su precio aumenta un 15%, ¿cuál es el nuevo pr
 ### Opciones
 - [ ] A) $\$U\,815$ <!-- feedback: Incorrecto. Sumaste 15 pesos en lugar del 15% de 800. -->
 - [ ] B) $\$U\,900$ <!-- feedback: Incorrecto. Ese aumento corresponde al 12.5%, no al 15%. -->
-- [x] C) $\$U\,920$ <!-- feedback: ¡Correcto! $800 \times 1.15 = 920$ pesos uruguayos. -->
-- [ ] D) $\$U\,960$ <!-- feedback: Incorrecto. Ese resultado corresponde a un aumento del 20%. -->
+- [x] D) $\$U\,920$ <!-- feedback: ¡Correcto! $800 \times 1.15 = 920$ pesos uruguayos. -->
+- [ ] C) $\$U\,960$ <!-- feedback: Incorrecto. Ese resultado corresponde a un aumento del 20%. -->
 
 ### Explicación Pedagógica
 Un aumento del 15% equivale a multiplicar por $1.15$: $800 \times 1.15 = 920$. También puede calcularse $800 + 0.15 \times 800 = 800 + 120 = 920$.
@@ -222,8 +222,8 @@ Un aumento del 15% equivale a multiplicar por $1.15$: $800 \times 1.15 = 920$. T
 De los números $-\sqrt{3}$, $-1.7$, $-\frac{3}{2}$ y $-1.41$, ¿cuál es el menor?
 
 ### Opciones
-- [x] A) $-\sqrt{3}$ <!-- feedback: ¡Correcto! $-\sqrt{3} \approx -1.732$, el más alejado del cero hacia la izquierda. -->
-- [ ] B) $-1.7$ <!-- feedback: Incorrecto. $-1.7 > -1.732...$; compará con más decimales. -->
+- [x] B) $-\sqrt{3}$ <!-- feedback: ¡Correcto! $-\sqrt{3} \approx -1.732$, el más alejado del cero hacia la izquierda. -->
+- [ ] A) $-1.7$ <!-- feedback: Incorrecto. $-1.7 > -1.732...$; compará con más decimales. -->
 - [ ] C) $-\frac{3}{2}$ <!-- feedback: Incorrecto. $-\frac{3}{2} = -1.5$, mayor que $-\sqrt{3}$. -->
 - [ ] D) $-1.41$ <!-- feedback: Incorrecto. Es el mayor de los cuatro por estar más cerca del cero. -->
 
@@ -242,8 +242,8 @@ En los negativos, es menor el de mayor valor absoluto. Como $\sqrt{3} \approx 1.
 
 ### Opciones
 - [ ] A) $\frac{1}{3}$ <!-- feedback: Incorrecto. $\frac{1}{3} \approx 0.333$, menor que $0.4$. -->
-- [x] B) $\frac{1}{2}$ <!-- feedback: ¡Correcto! $0.4 < 0.5 < 0.6$, así que $\frac{1}{2}$ está entre ambas. -->
-- [ ] C) $\frac{7}{10}$ <!-- feedback: Incorrecto. $\frac{7}{10} = 0.7$, supera a $\frac{3}{5} = 0.6$. -->
+- [x] C) $\frac{1}{2}$ <!-- feedback: ¡Correcto! $0.4 < 0.5 < 0.6$, así que $\frac{1}{2}$ está entre ambas. -->
+- [ ] B) $\frac{7}{10}$ <!-- feedback: Incorrecto. $\frac{7}{10} = 0.7$, supera a $\frac{3}{5} = 0.6$. -->
 - [ ] D) $\frac{1}{4}$ <!-- feedback: Incorrecto. $\frac{1}{4} = 0.25$, está por debajo del intervalo. -->
 
 ### Explicación Pedagógica
@@ -261,8 +261,8 @@ Convirtiendo a decimales: $\frac{2}{5} = 0.4$ y $\frac{3}{5} = 0.6$. La única o
 
 ### Opciones
 - [ ] A) Todo número real tiene inverso multiplicativo. <!-- feedback: Incorrecto. El 0 es real y no tiene inverso multiplicativo. -->
-- [ ] B) La raíz cuadrada de un número negativo es un número real. <!-- feedback: Incorrecto. Las raíces de índice par de negativos no son reales. -->
-- [x] C) Para todo número real $x$, se cumple $x^2 \ge 0$. <!-- feedback: ¡Correcto! El cuadrado de cualquier real es no negativo. -->
+- [ ] C) La raíz cuadrada de un número negativo es un número real. <!-- feedback: Incorrecto. Las raíces de índice par de negativos no son reales. -->
+- [x] B) Para todo número real $x$, se cumple $x^2 \ge 0$. <!-- feedback: ¡Correcto! El cuadrado de cualquier real es no negativo. -->
 - [ ] D) $(a+b)^2 = a^2 + b^2$ para todos los reales $a$ y $b$. <!-- feedback: Incorrecto. Falta el término $2ab$; es un error algebraico clásico. -->
 
 ### Explicación Pedagógica
@@ -299,8 +299,8 @@ Si se trunca el número $\pi = 3.141592...$ al valor $3.14$, el error absoluto c
 
 ### Opciones
 - [ ] A) $0.0159$ <!-- feedback: Incorrecto. Corrió la coma un lugar; el error está en el orden de las milésimas. -->
-- [x] B) $0.0016$ <!-- feedback: ¡Correcto! $\pi - 3.14 \approx 0.00159$, que redondea a $0.0016$. -->
-- [ ] C) $0.00016$ <!-- feedback: Incorrecto. Subestima el error en un factor de diez. -->
+- [x] C) $0.0016$ <!-- feedback: ¡Correcto! $\pi - 3.14 \approx 0.00159$, que redondea a $0.0016$. -->
+- [ ] B) $0.00016$ <!-- feedback: Incorrecto. Subestima el error en un factor de diez. -->
 - [ ] D) $0.16$ <!-- feedback: Incorrecto. Sobrestima el error; la diferencia real es menor a dos milésimas. -->
 
 ### Explicación Pedagógica
@@ -336,8 +336,8 @@ Elevando al cuadrado ambos miembros: $2x + 1 = 25$, luego $x = 12$. Siempre hay 
 ¿Cuál de las siguientes afirmaciones sobre $0.999...$ (decimal infinito periódico) es correcta?
 
 ### Opciones
-- [x] A) Es igual a 1, pues $\frac{9}{10} + \frac{9}{100} + \frac{9}{1000} + ...$ suma exactamente 1. <!-- feedback: ¡Correcto! La serie geométrica de razón $\frac{1}{10}$ suma $\frac{0.9}{1 - 0.1} = 1$. -->
-- [ ] B) Es menor que 1 porque siempre falta un 9. <!-- feedback: Incorrecto. Con infinitos nueves no existe diferencia positiva entre ambos; es un razonamiento finito aplicado a un proceso infinito. -->
+- [x] B) Es igual a 1, pues $\frac{9}{10} + \frac{9}{100} + \frac{9}{1000} + ...$ suma exactamente 1. <!-- feedback: ¡Correcto! La serie geométrica de razón $\frac{1}{10}$ suma $\frac{0.9}{1 - 0.1} = 1$. -->
+- [ ] A) Es menor que 1 porque siempre falta un 9. <!-- feedback: Incorrecto. Con infinitos nueves no existe diferencia positiva entre ambos; es un razonamiento finito aplicado a un proceso infinito. -->
 - [ ] C) Es igual a 1 solo si se redondea. <!-- feedback: Incorrecto. No hace falta redondear: es exactamente 1, otra escritura del mismo número. -->
 - [ ] D) Es un número irracional por tener infinitos decimales. <!-- feedback: Incorrecto. Es periódico, por lo tanto racional: $0.999... = \frac{9}{9} = 1$. -->
 
@@ -357,8 +357,8 @@ Toda expansión periódica representa un racional: $x = 0.999...$ implica $10x =
 ### Opciones
 - [ ] A) La suma de dos irracionales es siempre irracional. <!-- feedback: Incorrecto. Contraejemplo: $\sqrt{2} + (-\sqrt{2}) = 0$, que es racional. -->
 - [ ] B) El producto de dos irracionales es siempre irracional. <!-- feedback: Incorrecto. Contraejemplo: $\sqrt{2} \cdot \sqrt{2} = 2$, racional. -->
-- [x] C) La suma de un racional y un irracional es siempre irracional. <!-- feedback: ¡Correcto! Si diera racional, restando el racional quedaría el irracional como racional, contradicción. -->
-- [ ] D) Todo número con infinitas cifras decimales es irracional. <!-- feedback: Incorrecto. Los decimales periódicos como $0.333...$ tienen infinitas cifras y son racionales. -->
+- [x] D) La suma de un racional y un irracional es siempre irracional. <!-- feedback: ¡Correcto! Si diera racional, restando el racional quedaría el irracional como racional, contradicción. -->
+- [ ] C) Todo número con infinitas cifras decimales es irracional. <!-- feedback: Incorrecto. Los decimales periódicos como $0.333...$ tienen infinitas cifras y son racionales. -->
 
 ### Explicación Pedagógica
 La clave es distinguir lo que siempre se cumple de lo que a veces ocurre. Solo la suma racional + irracional está garantizada como irracional; los demás enunciados admiten contraejemplos.
@@ -374,8 +374,8 @@ La clave es distinguir lo que siempre se cumple de lo que a veces ocurre. Solo l
 ¿Qué interés total genera el depósito al cabo de los 3 años con interés simple?
 
 ### Opciones
-- [ ] A) $\$U\,5\,000$ <!-- feedback: Incorrecto. Ese es el interés de un solo año; hay que multiplicar por los 3 años. -->
-- [x] B) $\$U\,15\,000$ <!-- feedback: ¡Correcto! $I = 100\,000 \times 0.05 \times 3 = 15\,000$ pesos. -->
+- [ ] B) $\$U\,5\,000$ <!-- feedback: Incorrecto. Ese es el interés de un solo año; hay que multiplicar por los 3 años. -->
+- [x] A) $\$U\,15\,000$ <!-- feedback: ¡Correcto! $I = 100\,000 \times 0.05 \times 3 = 15\,000$ pesos. -->
 - [ ] C) $\$U\,15\,762$ <!-- feedback: Incorrecto. Ese valor corresponde al interés compuesto, no al simple pedido. -->
 - [ ] D) $\$U\,30\,000$ <!-- feedback: Incorrecto. Duplica el interés correcto, quizá por usar el 10% anual. -->
 
@@ -394,8 +394,8 @@ Si $x = 0.75$, ¿cuál de las siguientes relaciones entre sus potencias es verda
 
 ### Opciones
 - [ ] A) $x^3 > x^2$ <!-- feedback: Incorrecto. Para $0 < x < 1$, multiplicar por $x$ achica el resultado; la intuición de "potencia mayor, número mayor" falla aquí. -->
-- [x] B) $x^3 < x^2$ <!-- feedback: ¡Correcto! Con $0 < x < 1$, cada potencia sucesiva es menor: $0.75^3 = 0.421875 < 0.5625 = 0.75^2$. -->
-- [ ] C) $x^3 = x^2$ <!-- feedback: Incorrecto. Solo serían iguales si $x = 0$ o $x = 1$. -->
+- [x] C) $x^3 < x^2$ <!-- feedback: ¡Correcto! Con $0 < x < 1$, cada potencia sucesiva es menor: $0.75^3 = 0.421875 < 0.5625 = 0.75^2$. -->
+- [ ] B) $x^3 = x^2$ <!-- feedback: Incorrecto. Solo serían iguales si $x = 0$ o $x = 1$. -->
 - [ ] D) La relación depende del redondeo que se use. <!-- feedback: Incorrecto. La desigualdad es exacta y no depende de aproximaciones. -->
 
 ### Explicación Pedagógica

@@ -34,8 +34,8 @@ calibration: {difficulty_band: "D3-D10", expected_success: 0.65}
 En una lectura: 'El sol brillaba mientras los pajaros cantaban'. ¿Que funcion cumple?
 
 ### Opciones
-- [x] A) Crear una atmosfera o ambiente <!-- feedback: Correcto. La opción 'Crear una atmosfera o ambiente' responde perfectamente a la consigna del enunciado basándose en las reglas lingüísticas y textuales vigentes. -->
-- [ ] B) Presentar un argumento <!-- feedback: Incorrecto. La opción 'Presentar un argumento' no es la adecuada en este contexto ya que no cumple con el criterio solicitado o presenta una confusión teórica común. -->
+- [x] B) Crear una atmosfera o ambiente <!-- feedback: Correcto. La opción 'Crear una atmosfera o ambiente' responde perfectamente a la consigna del enunciado basándose en las reglas lingüísticas y textuales vigentes. -->
+- [ ] A) Presentar un argumento <!-- feedback: Incorrecto. La opción 'Presentar un argumento' no es la adecuada en este contexto ya que no cumple con el criterio solicitado o presenta una confusión teórica común. -->
 - [ ] C) Narrar una secuencia <!-- feedback: Incorrecto. La opción 'Narrar una secuencia' no es la adecuada en este contexto ya que no cumple con el criterio solicitado o presenta una confusión teórica común. -->
 - [ ] D) Describir un dialogo <!-- feedback: Incorrecto. La opción 'Describir un dialogo' no es la adecuada en este contexto ya que no cumple con el criterio solicitado o presenta una confusión teórica común. -->
 
@@ -55,9 +55,9 @@ Las descripciones ayudan a crear la atmosfera en la narracion.
 ¿Cual es la funcion del lenguaje en: '¡Feliz cumpleanos!'?
 
 ### Opciones
-- [x] A) Funcion expresiva o emotiva <!-- feedback: Correcto. La opción 'Funcion expresiva o emotiva' responde perfectamente a la consigna del enunciado basándose en las reglas lingüísticas y textuales vigentes. -->
-- [ ] B) Funcion referencial <!-- feedback: Incorrecto. La opción 'Funcion referencial' no es la adecuada en este contexto ya que no cumple con el criterio solicitado o presenta una confusión teórica común. -->
-- [ ] C) Funcion apelativa <!-- feedback: Incorrecto. La opción 'Funcion apelativa' no es la adecuada en este contexto ya que no cumple con el criterio solicitado o presenta una confusión teórica común. -->
+- [x] C) Funcion expresiva o emotiva <!-- feedback: Correcto. La opción 'Funcion expresiva o emotiva' responde perfectamente a la consigna del enunciado basándose en las reglas lingüísticas y textuales vigentes. -->
+- [ ] A) Funcion referencial <!-- feedback: Incorrecto. La opción 'Funcion referencial' no es la adecuada en este contexto ya que no cumple con el criterio solicitado o presenta una confusión teórica común. -->
+- [ ] B) Funcion apelativa <!-- feedback: Incorrecto. La opción 'Funcion apelativa' no es la adecuada en este contexto ya que no cumple con el criterio solicitado o presenta una confusión teórica común. -->
 - [ ] D) Funcion metalinguistica <!-- feedback: Incorrecto. La opción 'Funcion metalinguistica' no es la adecuada en este contexto ya que no cumple con el criterio solicitado o presenta una confusión teórica común. -->
 
 ### Explicacion Pedagogica
@@ -76,8 +76,8 @@ La funcion expresiva se centra en el emisor y expresa sentimientos.
 Identifica el conector: Aregua es hermosa, ____ su gente es acogedora.
 
 ### Opciones
-- [x] A) ademas <!-- feedback: Correcto. La opción 'ademas' responde perfectamente a la consigna del enunciado basándose en las reglas lingüísticas y textuales vigentes. -->
-- [ ] B) sin embargo <!-- feedback: Incorrecto. La opción 'sin embargo' no es la adecuada en este contexto ya que no cumple con el criterio solicitado o presenta una confusión teórica común. -->
+- [x] B) ademas <!-- feedback: Correcto. La opción 'ademas' responde perfectamente a la consigna del enunciado basándose en las reglas lingüísticas y textuales vigentes. -->
+- [ ] A) sin embargo <!-- feedback: Incorrecto. La opción 'sin embargo' no es la adecuada en este contexto ya que no cumple con el criterio solicitado o presenta una confusión teórica común. -->
 - [ ] C) por lo tanto <!-- feedback: Incorrecto. La opción 'por lo tanto' no es la adecuada en este contexto ya que no cumple con el criterio solicitado o presenta una confusión teórica común. -->
 - [ ] D) aunque <!-- feedback: Incorrecto. La opción 'aunque' no es la adecuada en este contexto ya que no cumple con el criterio solicitado o presenta una confusión teórica común. -->
 
@@ -97,10 +97,10 @@ El conector 'ademas' anade informacion.
 ¿Cual oracion esta correctamente escrita?
 
 ### Opciones
-- [x] A) Los estudiantes del Colegio Nacional Hernandarias estudian mucho. <!-- feedback: Correcto. La opción 'Los estudiantes del Colegio Nacional Hernandarias estudian mucho.' responde perfectamente a la consigna del enunciado basándose en las reglas lingüísticas y textuales vigentes. -->
-- [ ] B) Los estudiantes de la escuela estudian poco. <!-- feedback: Incorrecto. La opción 'Los estudiantes de la escuela estudian poco.' no es la adecuada en este contexto ya que no cumple con el criterio solicitado o presenta una confusión teórica común. -->
-- [ ] C) Los estudiantes del instituto no estudian nada. <!-- feedback: Incorrecto. La opción 'Los estudiantes del instituto no estudian nada.' no es la adecuada en este contexto ya que no cumple con el criterio solicitado o presenta una confusión teórica común. -->
-- [ ] D) Los estudiantes del instituto estudian mucho. <!-- feedback: Incorrecto. La opción 'Los estudiantes del instituto estudian mucho.' no es la adecuada en este contexto ya que no cumple con el criterio solicitado o presenta una confusión teórica común. -->
+- [x] D) Los estudiantes del Colegio Nacional Hernandarias estudian mucho. <!-- feedback: Correcto. La opción 'Los estudiantes del Colegio Nacional Hernandarias estudian mucho.' responde perfectamente a la consigna del enunciado basándose en las reglas lingüísticas y textuales vigentes. -->
+- [ ] A) Los estudiantes de la escuela estudian poco. <!-- feedback: Incorrecto. La opción 'Los estudiantes de la escuela estudian poco.' no es la adecuada en este contexto ya que no cumple con el criterio solicitado o presenta una confusión teórica común. -->
+- [ ] B) Los estudiantes del instituto no estudian nada. <!-- feedback: Incorrecto. La opción 'Los estudiantes del instituto no estudian nada.' no es la adecuada en este contexto ya que no cumple con el criterio solicitado o presenta una confusión teórica común. -->
+- [ ] C) Los estudiantes del instituto estudian mucho. <!-- feedback: Incorrecto. La opción 'Los estudiantes del instituto estudian mucho.' no es la adecuada en este contexto ya que no cumple con el criterio solicitado o presenta una confusión teórica común. -->
 
 ### Explicacion Pedagogica
 La opcion A sigue las normas ortograficas correctamente.
@@ -139,8 +139,8 @@ Las oraciones subordinadas adjetivas complementan a un nombre.
 ¿Cual de estas palabras lleva tilde segun las reglas de acentuacion?
 
 ### Opciones
-- [x] A) examen <!-- feedback: Correcto. La opción 'examen' responde perfectamente a la consigna del enunciado basándose en las reglas lingüísticas y textuales vigentes. -->
-- [ ] B) sol <!-- feedback: Incorrecto. La opción 'sol' no es la adecuada en este contexto ya que no cumple con el criterio solicitado o presenta una confusión teórica común. -->
+- [x] B) examen <!-- feedback: Correcto. La opción 'examen' responde perfectamente a la consigna del enunciado basándose en las reglas lingüísticas y textuales vigentes. -->
+- [ ] A) sol <!-- feedback: Incorrecto. La opción 'sol' no es la adecuada en este contexto ya que no cumple con el criterio solicitado o presenta una confusión teórica común. -->
 - [ ] C) papel <!-- feedback: Incorrecto. La opción 'papel' no es la adecuada en este contexto ya que no cumple con el criterio solicitado o presenta una confusión teórica común. -->
 - [ ] D) jamas <!-- feedback: Incorrecto. La opción 'jamas' no es la adecuada en este contexto ya que no cumple con el criterio solicitado o presenta una confusión teórica común. -->
 
@@ -181,8 +181,8 @@ La metafora identifica un termino real con uno imaginario por su semejanza.
 ¿Cómo se escribe correctamente en plural la palabra 'examen' según las reglas de acentuación?
 
 ### Opciones
-- [ ] A) examenes <!-- feedback: Incorrecto. La opción 'examenes' no es la adecuada en este contexto ya que no cumple con el criterio solicitado o presenta una confusión teórica común. -->
-- [x] B) exámenes <!-- feedback: Correcto. 'Exámenes' es una palabra esdrújula, por lo que siempre lleva tilde en la antepenúltima sílaba. -->
+- [ ] B) examenes <!-- feedback: Incorrecto. La opción 'examenes' no es la adecuada en este contexto ya que no cumple con el criterio solicitado o presenta una confusión teórica común. -->
+- [x] A) exámenes <!-- feedback: Correcto. 'Exámenes' es una palabra esdrújula, por lo que siempre lleva tilde en la antepenúltima sílaba. -->
 - [ ] C) examénes <!-- feedback: Incorrecto. La opción 'examénes' no es la adecuada en este contexto ya que no cumple con el criterio solicitado o presenta una confusión teórica común. -->
 - [ ] D) examene's <!-- feedback: Incorrecto. La opción 'examene's' no es la adecuada en este contexto ya que no cumple con el criterio solicitado o presenta una confusión teórica común. -->
 
@@ -223,8 +223,8 @@ Lorca utiliza la estructura del romance tradicional para crear un poema narrativ
 En el Colegio Nacional Pilar de Pilar, analizando un texto. ¿Cual es la idea principal?
 
 ### Opciones
-- [x] A) El agua es esencial para la vida y debe cuidarse <!-- feedback: Correcto. La opción 'El agua es esencial para la vida y debe cuidarse' responde perfectamente a la consigna del enunciado basándose en las reglas lingüísticas y textuales vigentes. -->
-- [ ] B) El agua solo se usa para beber <!-- feedback: Incorrecto. La opción 'El agua solo se usa para beber' no es la adecuada en este contexto ya que no cumple con el criterio solicitado o presenta una confusión teórica común. -->
+- [x] B) El agua es esencial para la vida y debe cuidarse <!-- feedback: Correcto. La opción 'El agua es esencial para la vida y debe cuidarse' responde perfectamente a la consigna del enunciado basándose en las reglas lingüísticas y textuales vigentes. -->
+- [ ] A) El agua solo se usa para beber <!-- feedback: Incorrecto. La opción 'El agua solo se usa para beber' no es la adecuada en este contexto ya que no cumple con el criterio solicitado o presenta una confusión teórica común. -->
 - [ ] C) El agua no es importante <!-- feedback: Incorrecto. La opción 'El agua no es importante' no es la adecuada en este contexto ya que no cumple con el criterio solicitado o presenta una confusión teórica común. -->
 - [ ] D) El agua es un recurso infinito <!-- feedback: Incorrecto. La opción 'El agua es un recurso infinito' no es la adecuada en este contexto ya que no cumple con el criterio solicitado o presenta una confusión teórica común. -->
 
@@ -244,9 +244,9 @@ El texto destaca la importancia del agua como recurso vital.
 En una lectura: 'El sol brillaba mientras los pajaros cantaban'. ¿Que funcion cumple?
 
 ### Opciones
-- [x] A) Crear una atmosfera o ambiente <!-- feedback: Correcto. La opción 'Crear una atmosfera o ambiente' responde perfectamente a la consigna del enunciado basándose en las reglas lingüísticas y textuales vigentes. -->
-- [ ] B) Presentar un argumento <!-- feedback: Incorrecto. La opción 'Presentar un argumento' no es la adecuada en este contexto ya que no cumple con el criterio solicitado o presenta una confusión teórica común. -->
-- [ ] C) Narrar una secuencia <!-- feedback: Incorrecto. La opción 'Narrar una secuencia' no es la adecuada en este contexto ya que no cumple con el criterio solicitado o presenta una confusión teórica común. -->
+- [x] C) Crear una atmosfera o ambiente <!-- feedback: Correcto. La opción 'Crear una atmosfera o ambiente' responde perfectamente a la consigna del enunciado basándose en las reglas lingüísticas y textuales vigentes. -->
+- [ ] A) Presentar un argumento <!-- feedback: Incorrecto. La opción 'Presentar un argumento' no es la adecuada en este contexto ya que no cumple con el criterio solicitado o presenta una confusión teórica común. -->
+- [ ] B) Narrar una secuencia <!-- feedback: Incorrecto. La opción 'Narrar una secuencia' no es la adecuada en este contexto ya que no cumple con el criterio solicitado o presenta una confusión teórica común. -->
 - [ ] D) Describir un dialogo <!-- feedback: Incorrecto. La opción 'Describir un dialogo' no es la adecuada en este contexto ya que no cumple con el criterio solicitado o presenta una confusión teórica común. -->
 
 ### Explicacion Pedagogica
@@ -265,10 +265,10 @@ Las descripciones ayudan a crear la atmosfera en la narracion.
 ¿Cual es la funcion del lenguaje en: '¡Feliz cumpleanos!'?
 
 ### Opciones
-- [x] A) Funcion expresiva o emotiva <!-- feedback: Correcto. La opción 'Funcion expresiva o emotiva' responde perfectamente a la consigna del enunciado basándose en las reglas lingüísticas y textuales vigentes. -->
-- [ ] B) Funcion referencial <!-- feedback: Incorrecto. La opción 'Funcion referencial' no es la adecuada en este contexto ya que no cumple con el criterio solicitado o presenta una confusión teórica común. -->
-- [ ] C) Funcion apelativa <!-- feedback: Incorrecto. La opción 'Funcion apelativa' no es la adecuada en este contexto ya que no cumple con el criterio solicitado o presenta una confusión teórica común. -->
-- [ ] D) Funcion metalinguistica <!-- feedback: Incorrecto. La opción 'Funcion metalinguistica' no es la adecuada en este contexto ya que no cumple con el criterio solicitado o presenta una confusión teórica común. -->
+- [x] D) Funcion expresiva o emotiva <!-- feedback: Correcto. La opción 'Funcion expresiva o emotiva' responde perfectamente a la consigna del enunciado basándose en las reglas lingüísticas y textuales vigentes. -->
+- [ ] A) Funcion referencial <!-- feedback: Incorrecto. La opción 'Funcion referencial' no es la adecuada en este contexto ya que no cumple con el criterio solicitado o presenta una confusión teórica común. -->
+- [ ] B) Funcion apelativa <!-- feedback: Incorrecto. La opción 'Funcion apelativa' no es la adecuada en este contexto ya que no cumple con el criterio solicitado o presenta una confusión teórica común. -->
+- [ ] C) Funcion metalinguistica <!-- feedback: Incorrecto. La opción 'Funcion metalinguistica' no es la adecuada en este contexto ya que no cumple con el criterio solicitado o presenta una confusión teórica común. -->
 
 ### Explicacion Pedagogica
 La funcion expresiva se centra en el emisor y expresa sentimientos.
@@ -286,10 +286,10 @@ La funcion expresiva se centra en el emisor y expresa sentimientos.
 Identifica el conector: Salto del Guaira es hermosa, ____ su gente es acogedora.
 
 ### Opciones
-- [x] A) ademas <!-- feedback: Correcto. La opción 'ademas' responde perfectamente a la consigna del enunciado basándose en las reglas lingüísticas y textuales vigentes. -->
-- [ ] B) sin embargo <!-- feedback: Incorrecto. La opción 'sin embargo' no es la adecuada en este contexto ya que no cumple con el criterio solicitado o presenta una confusión teórica común. -->
-- [ ] C) por lo tanto <!-- feedback: Incorrecto. La opción 'por lo tanto' no es la adecuada en este contexto ya que no cumple con el criterio solicitado o presenta una confusión teórica común. -->
-- [ ] D) aunque <!-- feedback: Incorrecto. La opción 'aunque' no es la adecuada en este contexto ya que no cumple con el criterio solicitado o presenta una confusión teórica común. -->
+- [x] D) ademas <!-- feedback: Correcto. La opción 'ademas' responde perfectamente a la consigna del enunciado basándose en las reglas lingüísticas y textuales vigentes. -->
+- [ ] A) sin embargo <!-- feedback: Incorrecto. La opción 'sin embargo' no es la adecuada en este contexto ya que no cumple con el criterio solicitado o presenta una confusión teórica común. -->
+- [ ] B) por lo tanto <!-- feedback: Incorrecto. La opción 'por lo tanto' no es la adecuada en este contexto ya que no cumple con el criterio solicitado o presenta una confusión teórica común. -->
+- [ ] C) aunque <!-- feedback: Incorrecto. La opción 'aunque' no es la adecuada en este contexto ya que no cumple con el criterio solicitado o presenta una confusión teórica común. -->
 
 ### Explicacion Pedagogica
 El conector 'ademas' anade informacion.
@@ -307,10 +307,10 @@ El conector 'ademas' anade informacion.
 ¿Cual oracion esta correctamente escrita?
 
 ### Opciones
-- [x] A) Los estudiantes del Colegio Nacional Pedro Juan Caballero estudian mucho. <!-- feedback: Correcto. La opción 'Los estudiantes del Colegio Nacional Pedro Juan Caballero estudian mucho.' responde perfectamente a la consigna del enunciado basándose en las reglas lingüísticas y textuales vigentes. -->
-- [ ] B) Los estudiantes de la escuela estudian poco. <!-- feedback: Incorrecto. La opción 'Los estudiantes de la escuela estudian poco.' no es la adecuada en este contexto ya que no cumple con el criterio solicitado o presenta una confusión teórica común. -->
-- [ ] C) Los estudiantes del instituto no estudian nada. <!-- feedback: Incorrecto. La opción 'Los estudiantes del instituto no estudian nada.' no es la adecuada en este contexto ya que no cumple con el criterio solicitado o presenta una confusión teórica común. -->
-- [ ] D) Los estudiantes del instituto estudian mucho. <!-- feedback: Incorrecto. La opción 'Los estudiantes del instituto estudian mucho.' no es la adecuada en este contexto ya que no cumple con el criterio solicitado o presenta una confusión teórica común. -->
+- [x] D) Los estudiantes del Colegio Nacional Pedro Juan Caballero estudian mucho. <!-- feedback: Correcto. La opción 'Los estudiantes del Colegio Nacional Pedro Juan Caballero estudian mucho.' responde perfectamente a la consigna del enunciado basándose en las reglas lingüísticas y textuales vigentes. -->
+- [ ] A) Los estudiantes de la escuela estudian poco. <!-- feedback: Incorrecto. La opción 'Los estudiantes de la escuela estudian poco.' no es la adecuada en este contexto ya que no cumple con el criterio solicitado o presenta una confusión teórica común. -->
+- [ ] B) Los estudiantes del instituto no estudian nada. <!-- feedback: Incorrecto. La opción 'Los estudiantes del instituto no estudian nada.' no es la adecuada en este contexto ya que no cumple con el criterio solicitado o presenta una confusión teórica común. -->
+- [ ] C) Los estudiantes del instituto estudian mucho. <!-- feedback: Incorrecto. La opción 'Los estudiantes del instituto estudian mucho.' no es la adecuada en este contexto ya que no cumple con el criterio solicitado o presenta una confusión teórica común. -->
 
 ### Explicacion Pedagogica
 La opcion A sigue las normas ortograficas correctamente.
@@ -328,9 +328,9 @@ La opcion A sigue las normas ortograficas correctamente.
 En la oracion 'El libro azul es fascinante'. ¿Que funcion cumple la subordinada?
 
 ### Opciones
-- [x] A) Adjetiva o de relativo <!-- feedback: Correcto. La opción 'Adjetiva o de relativo' responde perfectamente a la consigna del enunciado basándose en las reglas lingüísticas y textuales vigentes. -->
-- [ ] B) Sustantiva <!-- feedback: Incorrecto. La opción 'Sustantiva' no es la adecuada en este contexto ya que no cumple con el criterio solicitado o presenta una confusión teórica común. -->
-- [ ] C) Adverbial <!-- feedback: Incorrecto. La opción 'Adverbial' no es la adecuada en este contexto ya que no cumple con el criterio solicitado o presenta una confusión teórica común. -->
+- [x] C) Adjetiva o de relativo <!-- feedback: Correcto. La opción 'Adjetiva o de relativo' responde perfectamente a la consigna del enunciado basándose en las reglas lingüísticas y textuales vigentes. -->
+- [ ] A) Sustantiva <!-- feedback: Incorrecto. La opción 'Sustantiva' no es la adecuada en este contexto ya que no cumple con el criterio solicitado o presenta una confusión teórica común. -->
+- [ ] B) Adverbial <!-- feedback: Incorrecto. La opción 'Adverbial' no es la adecuada en este contexto ya que no cumple con el criterio solicitado o presenta una confusión teórica común. -->
 - [ ] D) Coordinada copulativa <!-- feedback: Incorrecto. La opción 'Coordinada copulativa' no es la adecuada en este contexto ya que no cumple con el criterio solicitado o presenta una confusión teórica común. -->
 
 ### Explicacion Pedagogica
@@ -370,10 +370,10 @@ Las palabras llanas terminadas en consonante distinta de n/s llevan tilde.
 ¿Que figura literaria se emplea en 'tus ojos son dos luceros'?
 
 ### Opciones
-- [x] A) Metafora <!-- feedback: Correcto. La opción 'Metafora' responde perfectamente a la consigna del enunciado basándose en las reglas lingüísticas y textuales vigentes. -->
-- [ ] B) Comparacion <!-- feedback: Incorrecto. La opción 'Comparacion' no es la adecuada en este contexto ya que no cumple con el criterio solicitado o presenta una confusión teórica común. -->
-- [ ] C) Hiparbole <!-- feedback: Incorrecto. La opción 'Hiparbole' no es la adecuada en este contexto ya que no cumple con el criterio solicitado o presenta una confusión teórica común. -->
-- [ ] D) Personificacion <!-- feedback: Incorrecto. La opción 'Personificacion' no es la adecuada en este contexto ya que no cumple con el criterio solicitado o presenta una confusión teórica común. -->
+- [x] D) Metafora <!-- feedback: Correcto. La opción 'Metafora' responde perfectamente a la consigna del enunciado basándose en las reglas lingüísticas y textuales vigentes. -->
+- [ ] A) Comparacion <!-- feedback: Incorrecto. La opción 'Comparacion' no es la adecuada en este contexto ya que no cumple con el criterio solicitado o presenta una confusión teórica común. -->
+- [ ] B) Hiparbole <!-- feedback: Incorrecto. La opción 'Hiparbole' no es la adecuada en este contexto ya que no cumple con el criterio solicitado o presenta una confusión teórica común. -->
+- [ ] C) Personificacion <!-- feedback: Incorrecto. La opción 'Personificacion' no es la adecuada en este contexto ya que no cumple con el criterio solicitado o presenta una confusión teórica común. -->
 
 ### Explicacion Pedagogica
 La metafora identifica un termino real con uno imaginario por su semejanza.
@@ -412,8 +412,8 @@ Las palabras esdrújulas llevan tilde siempre, sin excepción, en la antepenúlt
 ¿El 'Romance de la luna, luna' de Federico Garcia Lorca es un poema de tipo?
 
 ### Opciones
-- [x] A) Narrativo-lirico con elementos del romance tradicional <!-- feedback: Correcto. La opción 'Narrativo-lirico con elementos del romance tradicional' responde perfectamente a la consigna del enunciado basándose en las reglas lingüísticas y textuales vigentes. -->
-- [ ] B) Exclusivamente dramatico <!-- feedback: Incorrecto. La opción 'Exclusivamente dramatico' no es la adecuada en este contexto ya que no cumple con el criterio solicitado o presenta una confusión teórica común. -->
+- [x] B) Narrativo-lirico con elementos del romance tradicional <!-- feedback: Correcto. La opción 'Narrativo-lirico con elementos del romance tradicional' responde perfectamente a la consigna del enunciado basándose en las reglas lingüísticas y textuales vigentes. -->
+- [ ] A) Exclusivamente dramatico <!-- feedback: Incorrecto. La opción 'Exclusivamente dramatico' no es la adecuada en este contexto ya que no cumple con el criterio solicitado o presenta una confusión teórica común. -->
 - [ ] C) Ensayo filosofico en verso <!-- feedback: Incorrecto. La opción 'Ensayo filosofico en verso' no es la adecuada en este contexto ya que no cumple con el criterio solicitado o presenta una confusión teórica común. -->
 - [ ] D) Poema epico clasico <!-- feedback: Incorrecto. La opción 'Poema epico clasico' no es la adecuada en este contexto ya que no cumple con el criterio solicitado o presenta una confusión teórica común. -->
 

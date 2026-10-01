@@ -33,9 +33,9 @@ creador: "Jules-Agent"
 ¿Entre qué años se libró la Guerra del Chaco entre las repúblicas de Paraguay y Bolivia por la posesión del Chaco Boreal?
 
 ### Opciones
-- [x] A) 1932 a 1935
+- [x] B) 1932 a 1935
   <!-- feedback: Correcto. La Guerra del Chaco transcurrió militarmente entre junio de 1932 y junio de 1935 en el inhóspito territorio chaqueño. -->
-- [ ] B) 1864 a 1870
+- [ ] A) 1864 a 1870
   <!-- feedback: Incorrecto. 1864-1870 corresponde a la Guerra contra la Triple Alianza. -->
 - [ ] C) 1914 a 1918
   <!-- feedback: Incorrecto. Corresponde al periodo de la Primera Guerra Mundial en Europa. -->
@@ -56,13 +56,13 @@ La Guerra del Chaco (1932-1935) fue el conflicto bélico sudamericano del siglo 
 ¿Quién fue el victorioso Comandante en Jefe del Ejército Paraguayo durante la Guerra del Chaco, elevado posteriormente al rango de Mariscal?
 
 ### Opciones
-- [x] A) El Mariscal José Félix Estigarribia
+- [x] D) El Mariscal José Félix Estigarribia
   <!-- feedback: Correcto. El entonces general José Félix Estigarribia dirigió brillantemente la conducción estratégica de las operaciones militares en el Chaco. -->
-- [ ] B) El Coronel Rafael Franco
+- [ ] A) El Coronel Rafael Franco
   <!-- feedback: Incorrecto. Rafael Franco fue un destacado comandante divisionario en el Chaco y líder de la Revolución Febrerista de 1936. -->
-- [ ] C) Don Eusebio Ayala
+- [ ] B) Don Eusebio Ayala
   <!-- feedback: Incorrecto. Don Eusebio Ayala fue el Presidente de la Victoria que condujo la diplomacia y el gobierno civil durante la contienda. -->
-- [ ] D) El General Bernardino Caballero
+- [ ] C) El General Bernardino Caballero
   <!-- feedback: Incorrecto. Bernardino Caballero fue héroe de la Triple Alianza y presidente de posguerra en el siglo XIX. -->
 
 ### Explicacion Pedagogica
@@ -79,11 +79,11 @@ El Mariscal José Félix Estigarribia organizó una conducción militar moderna 
 ¿Qué adquisición estratégica de armamento naval y aéreo realizó el Presidente Eligio Ayala preparando en silencio la defensa del Chaco?
 
 ### Opciones
-- [x] A) Los cañoneros de guerra "Paraguay" y "Humaitá" construidos en Italia y flotillas de aviones de caza
+- [x] C) Los cañoneros de guerra "Paraguay" y "Humaitá" construidos en Italia y flotillas de aviones de caza
   <!-- feedback: Correcto. Eligio Ayala saneó las finanzas públicas y adquirió en secreto los modernos cañoneros de guerra que aseguraron el dominio del Río Paraguay. -->
-- [ ] B) Una flota de portaviones nucleares comprados en Inglaterra
+- [ ] A) Una flota de portaviones nucleares comprados en Inglaterra
   <!-- feedback: Incorrecto. Los portaviones nucleares son tecnologías del siglo XX tardío ajenas a la escala sudamericana. -->
-- [ ] C) Tanques pesados blindados de la Primera Guerra Mundial
+- [ ] B) Tanques pesados blindados de la Primera Guerra Mundial
   <!-- feedback: Incorrecto. La compra principal de defensa estratégica previa enfocó la superioridad fluvial con los cañoneros. -->
 - [ ] D) Caza-bombarderos a reacción supersónicos
   <!-- feedback: Incorrecto. Los aviones a reacción aparecieron a finales de la Segunda Guerra Mundial. -->
@@ -102,11 +102,11 @@ El presidente Eligio Ayala administró con honestidad ejemplar los recursos del 
 ¿Qué heroica batalla librada entre el 9 y el 29 de septiembre de 1932 significó la primera victoria decisiva de las armas paraguayas en la Guerra del Chaco?
 
 ### Opciones
-- [x] A) La Batalla de Boquerón
+- [x] C) La Batalla de Boquerón
   <!-- feedback: Correcto. El cerco y la toma del Fortín Boquerón constituyeron la primera gran prueba de fuego victoriosa que elevó la moral nacional. -->
-- [ ] B) La Batalla de Curupayty
+- [ ] A) La Batalla de Curupayty
   <!-- feedback: Incorrecto. Curupayty fue la gran victoria de la Guerra contra la Triple Alianza en 1866. -->
-- [ ] C) La Batalla de Ayacucho
+- [ ] B) La Batalla de Ayacucho
   <!-- feedback: Incorrecto. Ayacucho (1824) selló la independencia de Perú frente a España. -->
 - [ ] D) La Batalla de Boyacá
   <!-- feedback: Incorrecto. Boyacá (1819) consagró la independencia de la Gran Colombia. -->
@@ -125,13 +125,13 @@ El 29 de septiembre se conmemora la victoria de Boquerón, bautismo de fuego que
 ¿Cuál fue la causa geopolítica central que motivó el afán de Bolivia por ocupar el Chaco Boreal y alcanzar las costas del Río Paraguay?
 
 ### Opciones
-- [x] A) La búsqueda de una salida al Océano Atlántico a través de la arteria fluvial del Río Paraguay tras haber perdido su litoral del Pacífico en 1879
+- [x] D) La búsqueda de una salida al Océano Atlántico a través de la arteria fluvial del Río Paraguay tras haber perdido su litoral del Pacífico en 1879
   <!-- feedback: Correcto. Tras perder Antofagasta ante Chile en la Guerra del Pacífico, Bolivia buscó desesperadamente una vía soberana al mar por la cuenca del Plata. -->
-- [ ] B) El deseo de anexar la ciudad capital de Asunción para convertirla en su capital
+- [ ] A) El deseo de anexar la ciudad capital de Asunción para convertirla en su capital
   <!-- feedback: Incorrecto. El objetivo boliviano era controlar el Chaco y proyectarse sobre el río navegable. -->
-- [ ] C) La pretensión de expulsar a las colonias menonitas de la Región Oriental
+- [ ] B) La pretensión de expulsar a las colonias menonitas de la Región Oriental
   <!-- feedback: Incorrecto. Las colonias menonitas se asentaron en el Chaco Central con autorización del Congreso paraguayo en 1927. -->
-- [ ] D) La imposición del idioma quechua en las escuelas de Encarnación
+- [ ] C) La imposición del idioma quechua en las escuelas de Encarnación
   <!-- feedback: Incorrecto. Conflicto de carácter territorial y geopolítico sin pretensiones de imposición lingüística en el sur. -->
 
 ### Explicacion Pedagogica
@@ -148,9 +148,9 @@ La mediterraneidad de Bolivia la empujó hacia el Chaco paraguayo en busca de un
 ¿En qué consistió el magistral cerco táctico de Campo Vía ejecutado por el general Estigarribia en diciembre de 1933?
 
 ### Opciones
-- [x] A) El cercamiento y rendición incondicional de dos divisiones bolivianas completas (más de 8.000 prisioneros) con gran cantidad de armamento
+- [x] B) El cercamiento y rendición incondicional de dos divisiones bolivianas completas (más de 8.000 prisioneros) con gran cantidad de armamento
   <!-- feedback: Correcto. Campo Vía fue una obra maestra de la táctica militar de envolvimiento que destruyó la espina dorsal del ejército adverso. -->
-- [ ] B) El repliegue retirado de las tropas paraguayas hasta las márgenes del Río Paraná
+- [ ] A) El repliegue retirado de las tropas paraguayas hasta las márgenes del Río Paraná
   <!-- feedback: Incorrecto. Campo Vía fue una aplastante ofensiva victoriosa que obligó al enemigo a rendir tropas y pertrechos. -->
 - [ ] C) La firma de un armisticio pacífico mediado por el papa de Roma
   <!-- feedback: Incorrecto. Las negociaciones diplomáticas se sucedieron tiempo después en Buenos Aires. -->
@@ -194,13 +194,13 @@ La Revolución Febrerista introdujo el socialismo de Estado, la legislación lab
 ¿Qué resultado consagró el Tratado de Paz, Amistad y Límites de 1938 respecto a la soberanía territorial del Chaco Boreal?
 
 ### Opciones
-- [x] A) Reconoció la soberanía paraguaya sobre tres cuartas partes (unas 3/4 partes) del Chaco Boreal disputado
+- [x] D) Reconoció la soberanía paraguaya sobre tres cuartas partes (unas 3/4 partes) del Chaco Boreal disputado
   <!-- feedback: Correcto. El arbitraje y el tratado de 1938 asignaron a Paraguay la inmensa mayoría del Chaco librado por las armas (unos 234.000 km²). -->
-- [ ] B) Entregó la totalidad del territorio chaqueño a la República de Bolivia
+- [ ] A) Entregó la totalidad del territorio chaqueño a la República de Bolivia
   <!-- feedback: Incorrecto. Paraguay retuvo victoriosamente la mayor parte de la masa territorial del Chaco Boreal. -->
-- [ ] C) Dividió al Chaco en partes iguales entre Argentina y Brasil
+- [ ] B) Dividió al Chaco en partes iguales entre Argentina y Brasil
   <!-- feedback: Incorrecto. La contienda y el tratado involucraron a las repúblicas de Paraguay y Bolivia. -->
-- [ ] D) Proclamó al Chaco como un estado soberano independiente sin autoridades paraguayas
+- [ ] C) Proclamó al Chaco como un estado soberano independiente sin autoridades paraguayas
   <!-- feedback: Incorrecto. El territorio fue ratificado como parte indivisible de la República del Paraguay. -->
 
 ### Explicacion Pedagogica
@@ -217,9 +217,9 @@ El Tratado de 1938 cerró definitivamente la disputa fronteriza chaqueña consag
 ¿Qué rol crucial desempeñó Don Eusebio Ayala durante la Guerra del Chaco que le valió la denominación histórica de "Presidente de la Victoria"?
 
 ### Opciones
-- [x] A) Dirigió con solvencia la política exterior, el abastecimiento logístico del ejército y la concordia nacional en perfecto acuerdo con Estigarribia
+- [x] B) Dirigió con solvencia la política exterior, el abastecimiento logístico del ejército y la concordia nacional en perfecto acuerdo con Estigarribia
   <!-- feedback: Correcto. Eusebio Ayala brindó respaldo irrestricto al mando militar, manteniendo la estabilidad financiera y diplomática de la República. -->
-- [ ] B) Comandó en persona las tropas en el frente de batalla de Nanawa
+- [ ] A) Comandó en persona las tropas en el frente de batalla de Nanawa
   <!-- feedback: Incorrecto. La dirección militar estuvo a cargo de Estigarribia, mientras Ayala ejercía la conducción política y diplomática civil. -->
 - [ ] C) Negoció la entrega pacífica de los cañoneros a la escuadra enemiga
   <!-- feedback: Incorrecto. Ayala defendió con firmeza la soberanía e integridad de la marina y las armas patrias. -->
@@ -240,11 +240,11 @@ La armónica dupla política y militar entre el presidente Eusebio Ayala y el ge
 ¿Qué valioso aporte brindó la ciudadanía civil femenina en la retaguardia y los hospitales de sangre durante los tres años de guerra?
 
 ### Opciones
-- [x] A) Servicio abnegado como enfermeras, confección de uniformes, padrinazgo de soldados y abastecimiento de víveres en los frentes de combate
+- [x] C) Servicio abnegado como enfermeras, confección de uniformes, padrinazgo de soldados y abastecimiento de víveres en los frentes de combate
   <!-- feedback: Correcto. Las mujeres paraguayas se movilizaron masivamente como enfermeras de la Cruz Roja, Madrinas de Guerra y voluntarias de auxilio. -->
-- [ ] B) Emigración obligatoria a los países andinos para no participar en la retaguardia
+- [ ] A) Emigración obligatoria a los países andinos para no participar en la retaguardia
   <!-- feedback: Incorrecto. La mujer paraguaya apoyó con fervor patriótico al ejército combatiente desde Asunción y el interior. -->
-- [ ] C) Venta masiva de los yacimientos de hierro a firmas extranjeras
+- [ ] B) Venta masiva de los yacimientos de hierro a firmas extranjeras
   <!-- feedback: Incorrecto. El esfuerzo civil fue voluntario y patriótico sin venta de activos industriales estatales. -->
 - [ ] D) Prohibición de que se enviaran cartas y encomiendas a los combatientes
   <!-- feedback: Incorrecto. Las Madrinas de Guerra mantenían correspondencia continua para elevar la moral del soldado. -->
@@ -263,11 +263,11 @@ El compromiso de la mujer paraguaya en la retaguardia civil sostuvo la moral y e
 ¿Por qué el control de los pozos de agua dulce (como los caciques pozos de Boquerón, Campo Vía y Picuiba) fue el factor logístico más crítico y angustioso de la Guerra del Chaco?
 
 ### Opciones
-- [x] A) En el árido Chaco Boreal la falta de agua dulce provocaba la muerte por deshidratación extrema de batallones enteros en pocas horas
+- [x] C) En el árido Chaco Boreal la falta de agua dulce provocaba la muerte por deshidratación extrema de batallones enteros en pocas horas
   <!-- feedback: Correcto. La sed fue el enemigo mortal de ambos ejércitos; controlar los escasos pozos de agua potable decidía el éxito o el colapso de las campañas. -->
-- [ ] B) El agua del Chaco contenía pepitas de oro puro que financiaban las compras de armas
+- [ ] A) El agua del Chaco contenía pepitas de oro puro que financiaban las compras de armas
   <!-- feedback: Incorrecto. El valor del agua era puramente biológico e indispensable para la supervivencia humana. -->
-- [ ] C) Los ríos del Chaco eran navegables por submarinos transatlánticos pesados
+- [ ] B) Los ríos del Chaco eran navegables por submarinos transatlánticos pesados
   <!-- feedback: Incorrecto. El Chaco interior carece de ríos caudalosos navegables, predominando tajamares y pozos subterráneos. -->
 - [ ] D) Se requería agua para enfriar las calderas de los tanques atómicos
   <!-- feedback: Incorrecto. Los tanques usados en el Chaco eran escasos modelos con motores de combustión interna convencionales. -->
@@ -286,9 +286,9 @@ La geografía árida y espinosa del Chaco convirtió al agua en el recurso táct
 ¿Qué factores socio-políticos desencadenaron la crisis y posterior caída del modelo de democracia liberal paraguaya tras la finalización de la Guerra del Chaco?
 
 ### Opciones
-- [x] A) El descontento de la joven oficialidad excombatiente, las demandas de reformas sociales y agrarias, y la penetración de ideologías nacionalistas e intervencionistas
+- [x] B) El descontento de la joven oficialidad excombatiente, las demandas de reformas sociales y agrarias, y la penetración de ideologías nacionalistas e intervencionistas
   <!-- feedback: Correcto. El retorno de los excombatientes cuestionó a la dirigencia tradicional, exigiendo la intervención del Estado y justicia social. -->
-- [ ] B) La prosperidad económica absoluta que eliminó la necesidad de partidos políticos
+- [ ] A) La prosperidad económica absoluta que eliminó la necesidad de partidos políticos
   <!-- feedback: Incorrecto. La posguerra chaqueña estuvo marcada por dificultades económicas, desempleo e inflación. -->
 - [ ] C) La invasión del ejército de los Estados Unidos que abolió los partidos locales
   <!-- feedback: Incorrecto. El cambio de régimen fue producto de dinámicas internas políticas y militares paraguayas. -->
@@ -378,9 +378,9 @@ Los pilotos de la aviación paraguaya fueron pioneros del reconocimiento táctic
 ¿Qué significado cultural e histórico adquirió la figura del soldado campesino (el "Pynandi" o descalzo) en la memoria militar paraguaya?
 
 ### Opciones
-- [x] A) Encarnó la bravura, sobriedad y resistencia del campesino paraguayo bilingüe capaz de soportar las peores penurias por la patria
+- [x] B) Encarnó la bravura, sobriedad y resistencia del campesino paraguayo bilingüe capaz de soportar las peores penurias por la patria
   <!-- feedback: Correcto. El soldado campesino fue el verdadero héroe anónimo que sostuvo con su abnegación e intrepidez las victorias en el Chaco. -->
-- [ ] B) Representó a los mercenarios extranjeros contratados por altos salarios en oro
+- [ ] A) Representó a los mercenarios extranjeros contratados por altos salarios en oro
   <!-- feedback: Incorrecto. El ejército paraguayo fue una fuerza de ciudadanos conscriptos patriotas de base campesina. -->
 - [ ] C) Describió a la elite aristocrática de la capital que no asistió a los frentes
   <!-- feedback: Incorrecto. El término alude al pueblo llano campesino ("pies descalzos") integrado masivamente en filas. -->
@@ -401,9 +401,9 @@ La cohesión del soldado campesino, unido a sus oficiales por la lengua guaraní
 Al evaluar críticamente la tesis sobre la influencia de las multinacionales petroleras en la Guerra del Chaco, ¿cuál de las siguientes apreciaciones posee mayor rigor historiográfico?
 
 ### Opciones
-- [x] A) Aunque existieron especulaciones de la Standard Oil en Bolivia, el conflicto respondió fundamentalmente a causas geopolíticas internas, soberanía territorial e inestabilidad fronteriza no resuelta
+- [x] B) Aunque existieron especulaciones de la Standard Oil en Bolivia, el conflicto respondió fundamentalmente a causas geopolíticas internas, soberanía territorial e inestabilidad fronteriza no resuelta
   <!-- feedback: Correcto. La historiografía moderna reconoce la presencia de intereses petroleros, pero confirma que las causas centrales fueron las disputas territoriales y el deseo boliviano de salida al río. -->
-- [ ] B) La guerra fue planificada y financiada exclusivamente por los reyes de Inglaterra para adueñarse del oro paraguayo
+- [ ] A) La guerra fue planificada y financiada exclusivamente por los reyes de Inglaterra para adueñarse del oro paraguayo
   <!-- feedback: Incorrecto. Teoría conspirativa simplista desmentida por la documentación diplomática de los países beligerantes. -->
 - [ ] C) Paraguay inició la guerra únicamente para apoderarse de los pozos de petróleo de La Paz
   <!-- feedback: Incorrecto. Paraguay actuó en legítima defensa territorial del Chaco Boreal bajo su posesión e historia colonial. -->
@@ -424,11 +424,11 @@ El análisis historiográfico moderno pondera los factores multilaterales, super
 Al evaluar el cambio institucional de la Carta Magna de 1940 respecto a la de 1870, ¿cuál fue su rasgo político definitorio?
 
 ### Opciones
-- [x] A) Consagró un Poder Ejecutivo hipertrofiado y fuertemente autoritario ("Estado Fuerte") recortando facultades al Congreso y restringiendo libertades
+- [x] C) Consagró un Poder Ejecutivo hipertrofiado y fuertemente autoritario ("Estado Fuerte") recortando facultades al Congreso y restringiendo libertades
   <!-- feedback: Correcto. La Constitución de 1940 sepultó el equilibrio liberal de 1870 otorgando facultades extraordinarias al Presidente de la República. -->
-- [ ] B) Reinstauró el parlamentarismo puro reduciendo al Presidente a una figura decorativa
+- [ ] A) Reinstauró el parlamentarismo puro reduciendo al Presidente a una figura decorativa
   <!-- feedback: Incorrecto. Al contrario, debilitó al parlamento y concentró el poder en la figura presidencial. -->
-- [ ] C) Proclamó la adhesión inmediata del Paraguay al bloque de la Unión Soviética
+- [ ] B) Proclamó la adhesión inmediata del Paraguay al bloque de la Unión Soviética
   <!-- feedback: Incorrecto. El régimen de 1940 adoptó un nacionalismo de Estado opuesto al marxismo soviético. -->
 - [ ] D) Prohibió la existencia de las Fuerzas Armadas de la Nación
   <!-- feedback: Incorrecto. La carta reforzó el papel tutelar y de orden de las Fuerzas Armadas en la estructura estatal. -->
@@ -447,11 +447,11 @@ La Constitución de 1940 abrió un largo ciclo de presidencialismo autoritario q
 Al juzgar los 30 años de gobiernos del Partido Liberal en Paraguay (1904-1936), ¿cuál de las siguientes conclusiones refleja sus luces y sombras?
 
 ### Opciones
-- [x] A) Promovió la libertad de prensa, el florecimiento cultural de la generación del 900 y la victoria militar en el Chaco, pero no resolvió la inestabilidad política interna ni la concentración latifundista de la tierra
+- [x] C) Promovió la libertad de prensa, el florecimiento cultural de la generación del 900 y la victoria militar en el Chaco, pero no resolvió la inestabilidad política interna ni la concentración latifundista de la tierra
   <!-- feedback: Correcto. El periodo liberal garantizó libertades intelectuales y la defensa del Chaco, tropezando con constantes guerras civiles (1904, 1912, 1922) y el abandono de la reforma agraria. -->
-- [ ] B) Logró la erradicación total de la pobreza rural convirtiendo a Paraguay en la primera potencia industrial del mundo
+- [ ] A) Logró la erradicación total de la pobreza rural convirtiendo a Paraguay en la primera potencia industrial del mundo
   <!-- feedback: Incorrecto. La economía campesina se mantuvo en condiciones de precariedad y atraso tecnológico. -->
-- [ ] C) Se caracterizó por la ausencia de producción intelectual y la quema de libros universitarios
+- [ ] B) Se caracterizó por la ausencia de producción intelectual y la quema de libros universitarios
   <!-- feedback: Incorrecto. El liberalismo coincidió con un notable brillo intelectual de la llamada Generación del 900 (Gondra, Domínguez, Pane). -->
 - [ ] D) Fue un régimen de dictadura militar unipersonal ininterrumpida por un solo presidente
   <!-- feedback: Incorrecto. Existieron numerosos gobiernos con alternancia de facciones dentro del liberalismo (cívicos y radicales). -->
@@ -470,13 +470,13 @@ El juicio histórico sobre la etapa liberal pondera su legado libertario y su vi
 Al evaluar el significado histórico de la victoria en la Guerra del Chaco para la identidad nacional paraguaya del siglo XX, ¿cuál de las siguientes afirmaciones posee mayor sustento?
 
 ### Opciones
-- [x] A) Reafirmó la fe colectiva del pueblo en sus propias fuerzas tras el trauma de 1870, preservó la integridad del territorio patrio y dio nacimiento al Paraguay contemporáneo
+- [x] D) Reafirmó la fe colectiva del pueblo en sus propias fuerzas tras el trauma de 1870, preservó la integridad del territorio patrio y dio nacimiento al Paraguay contemporáneo
   <!-- feedback: Correcto. La epopeya del Chaco lavó las afrentas del pasado, demostrando la capacidad de la nación para defender con éxito su suelo soberano. -->
-- [ ] B) Significó la pérdida irrecuperable de la dignidad nacional y la disolución de las Fuerzas Armadas
+- [ ] A) Significó la pérdida irrecuperable de la dignidad nacional y la disolución de las Fuerzas Armadas
   <!-- feedback: Incorrecto. Al contrario, consagró el prestigio de las armas y la unidad identitaria del pueblo paraguayo. -->
-- [ ] C) Obligó al Paraguay a renunciar a su bandera y a sus símbolos patrios tradicionales
+- [ ] B) Obligó al Paraguay a renunciar a su bandera y a sus símbolos patrios tradicionales
   <!-- feedback: Incorrecto. Los símbolos patrios se mantuvieron con renovado fervor tricolor e histórico. -->
-- [ ] D) Provocó la anexión definitiva del país al territorio de la República de Bolivia
+- [ ] C) Provocó la anexión definitiva del país al territorio de la República de Bolivia
   <!-- feedback: Incorrecto. Paraguay derrotó la agresión y fijó sus fronteras soberanas victoriosamente en el Chaco. -->
 
 ### Explicacion Pedagogica

@@ -34,11 +34,11 @@ Los riñones, los uréteres, la vejiga y la uretra trabajan juntos para filtrar 
 ¿Cuáles son los órganos encargados de filtrar la sangre y formar la orina?
 
 ### Opciones
-- [x] A) Los riñones.
+- [x] C) Los riñones.
   <!-- feedback: Los riñones filtran la sangre y retiran los desechos, formando la orina. -->
-- [ ] B) Los pulmones.
+- [ ] A) Los pulmones.
   <!-- feedback: Los pulmones pertenecen al sistema respiratorio y realizan el intercambio de gases. -->
-- [ ] C) El corazón.
+- [ ] B) El corazón.
   <!-- feedback: El corazón bombea la sangre, pero no la filtra ni forma la orina. -->
 - [ ] D) El estómago.
   <!-- feedback: El estómago hace parte del sistema digestivo y participa en la digestión de los alimentos. -->
@@ -57,9 +57,9 @@ Reconocer que los riñones son los órganos que filtran la sangre y producen la 
 ¿Cuál es la función de la vejiga en el sistema excretor?
 
 ### Opciones
-- [x] A) Almacenar la orina hasta que el cuerpo la expulsa.
+- [x] B) Almacenar la orina hasta que el cuerpo la expulsa.
   <!-- feedback: La vejiga es como un depósito: guarda la orina y la libera cuando la persona va al baño. -->
-- [ ] B) Producir la orina a partir de los alimentos.
+- [ ] A) Producir la orina a partir de los alimentos.
   <!-- feedback: La orina no se produce en la vejiga; los riñones la forman al filtrar la sangre. -->
 - [ ] C) Llevar la orina desde los riñones hasta la vejiga.
   <!-- feedback: Esa función la cumplen los uréteres, que son conductos delgados. -->
@@ -80,13 +80,13 @@ Comprender que la vejiga almacena temporalmente la orina y que su expulsión ocu
 ¿Cuál es el recorrido correcto de la orina por el sistema excretor?
 
 ### Opciones
-- [x] A) Riñones, uréteres, vejiga y uretra.
+- [x] D) Riñones, uréteres, vejiga y uretra.
   <!-- feedback: La orina se forma en los riñones, pasa por los uréteres, se guarda en la vejiga y sale por la uretra. -->
-- [ ] B) Vejiga, riñones, uretra y uréteres.
+- [ ] A) Vejiga, riñones, uretra y uréteres.
   <!-- feedback: La orina no empieza en la vejiga; primero se forma en los riñones. -->
-- [ ] C) Uretra, vejiga, uréteres y riñones.
+- [ ] B) Uretra, vejiga, uréteres y riñones.
   <!-- feedback: Este orden va al revés; la orina sale por la uretra al final del recorrido, no al comienzo. -->
-- [ ] D) Riñones, uretra, vejiga y uréteres.
+- [ ] C) Riñones, uretra, vejiga y uréteres.
   <!-- feedback: La uretra es el último conducto de salida; la orina llega a la vejiga antes de salir. -->
 
 ### Explicacion Pedagogica
@@ -103,9 +103,9 @@ Aplicar el orden de los órganos del sistema excretor para explicar cómo viaja 
 ¿Qué explica que la orina de Lucía sea más oscura y escasa ese día?
 
 ### Opciones
-- [x] A) El cuerpo elimina menos agua porque hay poca disponible y la orina queda más concentrada.
+- [x] B) El cuerpo elimina menos agua porque hay poca disponible y la orina queda más concentrada.
   <!-- feedback: Cuando el cuerpo pierde agua y no la repone, los riñones la retienen y la orina sale más concentrada y en menor cantidad. -->
-- [ ] B) Los riñones dejan de funcionar cuando hace mucho calor.
+- [ ] A) Los riñones dejan de funcionar cuando hace mucho calor.
   <!-- feedback: El calor no apaga los riñones; ellos siguen trabajando y ajustan el agua que eliminan. -->
 - [ ] C) La vejiga produce agua para compensar el calor.
   <!-- feedback: La vejiga solo almacena la orina; no produce agua. -->
@@ -126,11 +126,11 @@ Aplicar la relación entre el agua que ingiere una persona y la orina que produc
 ¿Qué debe hacer Diego para ayudar a su cuerpo después de sudar tanto?
 
 ### Opciones
-- [x] A) Tomar agua para reponer el líquido que perdió.
+- [x] C) Tomar agua para reponer el líquido que perdió.
   <!-- feedback: El sudor hace que el cuerpo pierda agua; tomarla de nuevo ayuda a mantener el equilibrio de líquidos. -->
-- [ ] B) Dejar de orinar para no perder más líquido.
+- [ ] A) Dejar de orinar para no perder más líquido.
   <!-- feedback: Orinar es necesario para eliminar desechos; retener la orina puede dañar la salud. -->
-- [ ] C) Beber solo gaseosa durante todo el día.
+- [ ] B) Beber solo gaseosa durante todo el día.
   <!-- feedback: Las bebidas con mucho azúcar no reemplazan bien el agua que el cuerpo necesita. -->
 - [ ] D) Evitar moverse para no volver a sudar nunca.
   <!-- feedback: Sudar ayuda a regular la temperatura; lo importante es reponer el agua, no dejar de moverse. -->
@@ -172,11 +172,11 @@ Analizar cómo los riñones mantienen el equilibrio de líquidos y explican por 
 ¿Cuál es la mejor forma de realizar este experimento?
 
 ### Opciones
-- [x] A) Dar más agua a un grupo y menos a otro, mantener iguales las demás condiciones y comparar la orina producida.
+- [x] C) Dar más agua a un grupo y menos a otro, mantener iguales las demás condiciones y comparar la orina producida.
   <!-- feedback: Un buen experimento cambia solo una condición (el agua) y mantiene iguales las demás para comparar de forma justa. -->
-- [ ] B) Dar más agua a un grupo y también más sal, sin medir nada.
+- [ ] A) Dar más agua a un grupo y también más sal, sin medir nada.
   <!-- feedback: Al cambiar dos condiciones a la vez no se sabe cuál causó el resultado, y sin medir no hay datos confiables. -->
-- [ ] C) Preguntar a los compañeros qué creen que pasará y anotar solo sus opiniones.
+- [ ] B) Preguntar a los compañeros qué creen que pasará y anotar solo sus opiniones.
   <!-- feedback: Las opiniones no reemplazan las mediciones; para comprobar una idea se necesitan datos observados. -->
 - [ ] D) Medir la orina de una sola persona un día cualquiera, sin controlar el agua que bebe.
   <!-- feedback: Sin controlar el agua que se bebe no se puede saber si esa condición influye en la cantidad de orina. -->
@@ -199,9 +199,9 @@ Analizar el diseño de un experimento sencillo, reconociendo la importancia de c
   <!-- feedback: Los riñones no se cansan por beber agua; el agua les ayuda a filtrar y eliminar los desechos. -->
 - [ ] B) Es correcta, porque la orina se produce solo cuando se bebe mucha agua.
   <!-- feedback: La orina se produce siempre, aunque se beba poca agua; en ese caso sale más concentrada. -->
-- [x] C) Es incorrecta, porque beber agua suficiente ayuda a los riñones a filtrar la sangre y eliminar los desechos.
+- [x] D) Es incorrecta, porque beber agua suficiente ayuda a los riñones a filtrar la sangre y eliminar los desechos.
   <!-- feedback: Una buena hidratación facilita el trabajo de los riñones y evita que los desechos se concentren demasiado. -->
-- [ ] D) Es incorrecta, porque los riñones no necesitan agua para funcionar.
+- [ ] C) Es incorrecta, porque los riñones no necesitan agua para funcionar.
   <!-- feedback: Los riñones sí necesitan agua para formar la orina y eliminar los desechos del cuerpo. -->
 
 ### Explicacion Pedagogica

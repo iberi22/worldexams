@@ -34,9 +34,9 @@ calibration: {difficulty_band: "D3-D10", expected_success: 0.65}
 Si la ecuación cuadrática ax^2 + bx + c = 0 tiene un discriminante D = b^2 - 4ac igual a cero, ¿cuál es la naturaleza de sus soluciones reales?
 
 ### Opciones
-- [x] A) Tiene una única solución real (o dos raíces reales iguales). <!-- feedback: ¡Correcto! Cuando el discriminante es cero, la parte de la raíz cuadrada en la fórmula cuadrática desaparece, dando una sola solución real x = -b / (2a). -->
-- [ ] B) Tiene dos soluciones reales e irracionales distintas. <!-- feedback: Incorrecto. Esto ocurre cuando el discriminante es estrictamente mayor que cero. -->
-- [ ] C) Tiene dos soluciones complejas conjugadas (no reales). <!-- feedback: Incorrecto. Las soluciones son complejas no reales cuando el discriminante es estrictamente menor que cero. -->
+- [x] C) Tiene una única solución real (o dos raíces reales iguales). <!-- feedback: ¡Correcto! Cuando el discriminante es cero, la parte de la raíz cuadrada en la fórmula cuadrática desaparece, dando una sola solución real x = -b / (2a). -->
+- [ ] A) Tiene dos soluciones reales e irracionales distintas. <!-- feedback: Incorrecto. Esto ocurre cuando el discriminante es estrictamente mayor que cero. -->
+- [ ] B) Tiene dos soluciones complejas conjugadas (no reales). <!-- feedback: Incorrecto. Las soluciones son complejas no reales cuando el discriminante es estrictamente menor que cero. -->
 - [ ] D) La ecuación no tiene solución alguna ni real ni compleja. <!-- feedback: Incorrecto. Toda ecuación cuadrática tiene siempre raíces en el campo de los complejos. -->
 
 ### Explicacion Pedagogica
@@ -54,9 +54,9 @@ El discriminante D determina la naturaleza de las raíces de una ecuación de se
 ¿Cuál es el valor del discriminante de la ecuación cuadrática x^2 - 4x + 4 = 0?
 
 ### Opciones
-- [x] A) 0 <!-- feedback: ¡Correcto! D = (-4)^2 - 4(1)(4) = 16 - 16 = 0. -->
-- [ ] B) 8 <!-- feedback: Incorrecto. Realizaste un cálculo aritmético erróneo con los signos de los coeficientes. -->
-- [ ] C) 16 <!-- feedback: Incorrecto. Olvidaste restar el término de 4ac en la fórmula del discriminante. -->
+- [x] C) 0 <!-- feedback: ¡Correcto! D = (-4)^2 - 4(1)(4) = 16 - 16 = 0. -->
+- [ ] A) 8 <!-- feedback: Incorrecto. Realizaste un cálculo aritmético erróneo con los signos de los coeficientes. -->
+- [ ] B) 16 <!-- feedback: Incorrecto. Olvidaste restar el término de 4ac en la fórmula del discriminante. -->
 - [ ] D) -8 <!-- feedback: Incorrecto. El resultado del discriminante para esta ecuación es exactamente cero. -->
 
 ### Explicacion Pedagogica
@@ -94,8 +94,8 @@ La ecuación incompleta x^2 - 9 = 0 se resuelve factorizando como diferencia de 
 Resuelva la ecuación cuadrática: x^2 - 8x + 15 = 0. ¿Cuáles son las dos raíces reales?
 
 ### Opciones
-- [x] A) x = 3 y x = 5 <!-- feedback: ¡Correcto! Factorizando el trinomio cuadrático se obtienen las raíces deseadas. -->
-- [ ] B) x = 0 y x = 1 <!-- feedback: Incorrecto. Estos valores no satisfacen la ecuación original. -->
+- [x] B) x = 3 y x = 5 <!-- feedback: ¡Correcto! Factorizando el trinomio cuadrático se obtienen las raíces deseadas. -->
+- [ ] A) x = 0 y x = 1 <!-- feedback: Incorrecto. Estos valores no satisfacen la ecuación original. -->
 - [ ] C) x = 4 y x = -4 <!-- feedback: Incorrecto. Error al factorizar o despejar los coeficientes. -->
 - [ ] D) No tiene raíces reales <!-- feedback: Incorrecto. El discriminante es positivo, por lo que posee dos raíces reales distintas. -->
 
@@ -134,10 +134,10 @@ La ecuación se puede resolver factorizando como (x - (4))(x - (6)) = 0, lo que 
 Resuelva la ecuación cuadrática: x^2 - 12x + 35 = 0. ¿Cuáles son las dos raíces reales?
 
 ### Opciones
-- [x] A) x = 5 y x = 7 <!-- feedback: ¡Correcto! Factorizando el trinomio cuadrático se obtienen las raíces deseadas. -->
-- [ ] B) x = 0 y x = 1 <!-- feedback: Incorrecto. Estos valores no satisfacen la ecuación original. -->
-- [ ] C) x = 6 y x = -6 <!-- feedback: Incorrecto. Error al factorizar o despejar los coeficientes. -->
-- [ ] D) No tiene raíces reales <!-- feedback: Incorrecto. El discriminante es positivo, por lo que posee dos raíces reales distintas. -->
+- [x] D) x = 5 y x = 7 <!-- feedback: ¡Correcto! Factorizando el trinomio cuadrático se obtienen las raíces deseadas. -->
+- [ ] A) x = 0 y x = 1 <!-- feedback: Incorrecto. Estos valores no satisfacen la ecuación original. -->
+- [ ] B) x = 6 y x = -6 <!-- feedback: Incorrecto. Error al factorizar o despejar los coeficientes. -->
+- [ ] C) No tiene raíces reales <!-- feedback: Incorrecto. El discriminante es positivo, por lo que posee dos raíces reales distintas. -->
 
 ### Explicacion Pedagogica
 La ecuación se puede resolver factorizando como (x - (5))(x - (7)) = 0, lo que da las dos raíces correspondientes.
@@ -194,9 +194,9 @@ La ecuación se puede resolver factorizando como (x - (7))(x - (9)) = 0, lo que 
 Resuelva la ecuación cuadrática: x^2 - 18x + 80 = 0. ¿Cuáles son las dos raíces reales?
 
 ### Opciones
-- [x] A) x = 8 y x = 10 <!-- feedback: ¡Correcto! Factorizando el trinomio cuadrático se obtienen las raíces deseadas. -->
-- [ ] B) x = 0 y x = 1 <!-- feedback: Incorrecto. Estos valores no satisfacen la ecuación original. -->
-- [ ] C) x = 9 y x = -9 <!-- feedback: Incorrecto. Error al factorizar o despejar los coeficientes. -->
+- [x] C) x = 8 y x = 10 <!-- feedback: ¡Correcto! Factorizando el trinomio cuadrático se obtienen las raíces deseadas. -->
+- [ ] A) x = 0 y x = 1 <!-- feedback: Incorrecto. Estos valores no satisfacen la ecuación original. -->
+- [ ] B) x = 9 y x = -9 <!-- feedback: Incorrecto. Error al factorizar o despejar los coeficientes. -->
 - [ ] D) No tiene raíces reales <!-- feedback: Incorrecto. El discriminante es positivo, por lo que posee dos raíces reales distintas. -->
 
 ### Explicacion Pedagogica
@@ -214,9 +214,9 @@ La ecuación se puede resolver factorizando como (x - (8))(x - (10)) = 0, lo que
 Resuelva la ecuación cuadrática: x^2 - 20x + 99 = 0. ¿Cuáles son las dos raíces reales?
 
 ### Opciones
-- [x] A) x = 9 y x = 11 <!-- feedback: ¡Correcto! Factorizando el trinomio cuadrático se obtienen las raíces deseadas. -->
-- [ ] B) x = 0 y x = 1 <!-- feedback: Incorrecto. Estos valores no satisfacen la ecuación original. -->
-- [ ] C) x = 10 y x = -10 <!-- feedback: Incorrecto. Error al factorizar o despejar los coeficientes. -->
+- [x] C) x = 9 y x = 11 <!-- feedback: ¡Correcto! Factorizando el trinomio cuadrático se obtienen las raíces deseadas. -->
+- [ ] A) x = 0 y x = 1 <!-- feedback: Incorrecto. Estos valores no satisfacen la ecuación original. -->
+- [ ] B) x = 10 y x = -10 <!-- feedback: Incorrecto. Error al factorizar o despejar los coeficientes. -->
 - [ ] D) No tiene raíces reales <!-- feedback: Incorrecto. El discriminante es positivo, por lo que posee dos raíces reales distintas. -->
 
 ### Explicacion Pedagogica
@@ -234,10 +234,10 @@ La ecuación se puede resolver factorizando como (x - (9))(x - (11)) = 0, lo que
 Resuelva la ecuación cuadrática: x^2 - 22x + 120 = 0. ¿Cuáles son las dos raíces reales?
 
 ### Opciones
-- [x] A) x = 10 y x = 12 <!-- feedback: ¡Correcto! Factorizando el trinomio cuadrático se obtienen las raíces deseadas. -->
-- [ ] B) x = 0 y x = 1 <!-- feedback: Incorrecto. Estos valores no satisfacen la ecuación original. -->
-- [ ] C) x = 11 y x = -11 <!-- feedback: Incorrecto. Error al factorizar o despejar los coeficientes. -->
-- [ ] D) No tiene raíces reales <!-- feedback: Incorrecto. El discriminante es positivo, por lo que posee dos raíces reales distintas. -->
+- [x] D) x = 10 y x = 12 <!-- feedback: ¡Correcto! Factorizando el trinomio cuadrático se obtienen las raíces deseadas. -->
+- [ ] A) x = 0 y x = 1 <!-- feedback: Incorrecto. Estos valores no satisfacen la ecuación original. -->
+- [ ] B) x = 11 y x = -11 <!-- feedback: Incorrecto. Error al factorizar o despejar los coeficientes. -->
+- [ ] C) No tiene raíces reales <!-- feedback: Incorrecto. El discriminante es positivo, por lo que posee dos raíces reales distintas. -->
 
 ### Explicacion Pedagogica
 La ecuación se puede resolver factorizando como (x - (10))(x - (12)) = 0, lo que da las dos raíces correspondientes.
@@ -254,10 +254,10 @@ La ecuación se puede resolver factorizando como (x - (10))(x - (12)) = 0, lo qu
 Resuelva la ecuación cuadrática: x^2 - 24x + 143 = 0. ¿Cuáles son las dos raíces reales?
 
 ### Opciones
-- [x] A) x = 11 y x = 13 <!-- feedback: ¡Correcto! Factorizando el trinomio cuadrático se obtienen las raíces deseadas. -->
-- [ ] B) x = 0 y x = 1 <!-- feedback: Incorrecto. Estos valores no satisfacen la ecuación original. -->
-- [ ] C) x = 12 y x = -12 <!-- feedback: Incorrecto. Error al factorizar o despejar los coeficientes. -->
-- [ ] D) No tiene raíces reales <!-- feedback: Incorrecto. El discriminante es positivo, por lo que posee dos raíces reales distintas. -->
+- [x] D) x = 11 y x = 13 <!-- feedback: ¡Correcto! Factorizando el trinomio cuadrático se obtienen las raíces deseadas. -->
+- [ ] A) x = 0 y x = 1 <!-- feedback: Incorrecto. Estos valores no satisfacen la ecuación original. -->
+- [ ] B) x = 12 y x = -12 <!-- feedback: Incorrecto. Error al factorizar o despejar los coeficientes. -->
+- [ ] C) No tiene raíces reales <!-- feedback: Incorrecto. El discriminante es positivo, por lo que posee dos raíces reales distintas. -->
 
 ### Explicacion Pedagogica
 La ecuación se puede resolver factorizando como (x - (11))(x - (13)) = 0, lo que da las dos raíces correspondientes.
@@ -274,9 +274,9 @@ La ecuación se puede resolver factorizando como (x - (11))(x - (13)) = 0, lo qu
 Resuelva la ecuación cuadrática: x^2 - 26x + 168 = 0. ¿Cuáles son las dos raíces reales?
 
 ### Opciones
-- [x] A) x = 12 y x = 14 <!-- feedback: ¡Correcto! Factorizando el trinomio cuadrático se obtienen las raíces deseadas. -->
-- [ ] B) x = 0 y x = 1 <!-- feedback: Incorrecto. Estos valores no satisfacen la ecuación original. -->
-- [ ] C) x = 13 y x = -13 <!-- feedback: Incorrecto. Error al factorizar o despejar los coeficientes. -->
+- [x] C) x = 12 y x = 14 <!-- feedback: ¡Correcto! Factorizando el trinomio cuadrático se obtienen las raíces deseadas. -->
+- [ ] A) x = 0 y x = 1 <!-- feedback: Incorrecto. Estos valores no satisfacen la ecuación original. -->
+- [ ] B) x = 13 y x = -13 <!-- feedback: Incorrecto. Error al factorizar o despejar los coeficientes. -->
 - [ ] D) No tiene raíces reales <!-- feedback: Incorrecto. El discriminante es positivo, por lo que posee dos raíces reales distintas. -->
 
 ### Explicacion Pedagogica
@@ -294,8 +294,8 @@ La ecuación se puede resolver factorizando como (x - (12))(x - (14)) = 0, lo qu
 Resuelva la ecuación cuadrática: x^2 - 28x + 195 = 0. ¿Cuáles son las dos raíces reales?
 
 ### Opciones
-- [x] A) x = 13 y x = 15 <!-- feedback: ¡Correcto! Factorizando el trinomio cuadrático se obtienen las raíces deseadas. -->
-- [ ] B) x = 0 y x = 1 <!-- feedback: Incorrecto. Estos valores no satisfacen la ecuación original. -->
+- [x] B) x = 13 y x = 15 <!-- feedback: ¡Correcto! Factorizando el trinomio cuadrático se obtienen las raíces deseadas. -->
+- [ ] A) x = 0 y x = 1 <!-- feedback: Incorrecto. Estos valores no satisfacen la ecuación original. -->
 - [ ] C) x = 14 y x = -14 <!-- feedback: Incorrecto. Error al factorizar o despejar los coeficientes. -->
 - [ ] D) No tiene raíces reales <!-- feedback: Incorrecto. El discriminante es positivo, por lo que posee dos raíces reales distintas. -->
 
@@ -314,10 +314,10 @@ La ecuación se puede resolver factorizando como (x - (13))(x - (15)) = 0, lo qu
 Resuelva la ecuación cuadrática: x^2 - 30x + 224 = 0. ¿Cuáles son las dos raíces reales?
 
 ### Opciones
-- [x] A) x = 14 y x = 16 <!-- feedback: ¡Correcto! Factorizando el trinomio cuadrático se obtienen las raíces deseadas. -->
-- [ ] B) x = 0 y x = 1 <!-- feedback: Incorrecto. Estos valores no satisfacen la ecuación original. -->
-- [ ] C) x = 15 y x = -15 <!-- feedback: Incorrecto. Error al factorizar o despejar los coeficientes. -->
-- [ ] D) No tiene raíces reales <!-- feedback: Incorrecto. El discriminante es positivo, por lo que posee dos raíces reales distintas. -->
+- [x] D) x = 14 y x = 16 <!-- feedback: ¡Correcto! Factorizando el trinomio cuadrático se obtienen las raíces deseadas. -->
+- [ ] A) x = 0 y x = 1 <!-- feedback: Incorrecto. Estos valores no satisfacen la ecuación original. -->
+- [ ] B) x = 15 y x = -15 <!-- feedback: Incorrecto. Error al factorizar o despejar los coeficientes. -->
+- [ ] C) No tiene raíces reales <!-- feedback: Incorrecto. El discriminante es positivo, por lo que posee dos raíces reales distintas. -->
 
 ### Explicacion Pedagogica
 La ecuación se puede resolver factorizando como (x - (14))(x - (16)) = 0, lo que da las dos raíces correspondientes.
@@ -354,10 +354,10 @@ La ecuación se puede resolver factorizando como (x - (15))(x - (17)) = 0, lo qu
 Resuelva la ecuación cuadrática: x^2 - 34x + 288 = 0. ¿Cuáles son las dos raíces reales?
 
 ### Opciones
-- [x] A) x = 16 y x = 18 <!-- feedback: ¡Correcto! Factorizando el trinomio cuadrático se obtienen las raíces deseadas. -->
-- [ ] B) x = 0 y x = 1 <!-- feedback: Incorrecto. Estos valores no satisfacen la ecuación original. -->
-- [ ] C) x = 17 y x = -17 <!-- feedback: Incorrecto. Error al factorizar o despejar los coeficientes. -->
-- [ ] D) No tiene raíces reales <!-- feedback: Incorrecto. El discriminante es positivo, por lo que posee dos raíces reales distintas. -->
+- [x] D) x = 16 y x = 18 <!-- feedback: ¡Correcto! Factorizando el trinomio cuadrático se obtienen las raíces deseadas. -->
+- [ ] A) x = 0 y x = 1 <!-- feedback: Incorrecto. Estos valores no satisfacen la ecuación original. -->
+- [ ] B) x = 17 y x = -17 <!-- feedback: Incorrecto. Error al factorizar o despejar los coeficientes. -->
+- [ ] C) No tiene raíces reales <!-- feedback: Incorrecto. El discriminante es positivo, por lo que posee dos raíces reales distintas. -->
 
 ### Explicacion Pedagogica
 La ecuación se puede resolver factorizando como (x - (16))(x - (18)) = 0, lo que da las dos raíces correspondientes.
@@ -374,9 +374,9 @@ La ecuación se puede resolver factorizando como (x - (16))(x - (18)) = 0, lo qu
 Resuelva la ecuación cuadrática: x^2 - 36x + 323 = 0. ¿Cuáles son las dos raíces reales?
 
 ### Opciones
-- [x] A) x = 17 y x = 19 <!-- feedback: ¡Correcto! Factorizando el trinomio cuadrático se obtienen las raíces deseadas. -->
-- [ ] B) x = 0 y x = 1 <!-- feedback: Incorrecto. Estos valores no satisfacen la ecuación original. -->
-- [ ] C) x = 18 y x = -18 <!-- feedback: Incorrecto. Error al factorizar o despejar los coeficientes. -->
+- [x] C) x = 17 y x = 19 <!-- feedback: ¡Correcto! Factorizando el trinomio cuadrático se obtienen las raíces deseadas. -->
+- [ ] A) x = 0 y x = 1 <!-- feedback: Incorrecto. Estos valores no satisfacen la ecuación original. -->
+- [ ] B) x = 18 y x = -18 <!-- feedback: Incorrecto. Error al factorizar o despejar los coeficientes. -->
 - [ ] D) No tiene raíces reales <!-- feedback: Incorrecto. El discriminante es positivo, por lo que posee dos raíces reales distintas. -->
 
 ### Explicacion Pedagogica
@@ -394,8 +394,8 @@ La ecuación se puede resolver factorizando como (x - (17))(x - (19)) = 0, lo qu
 Resuelva la ecuación cuadrática: x^2 - 38x + 360 = 0. ¿Cuáles son las dos raíces reales?
 
 ### Opciones
-- [x] A) x = 18 y x = 20 <!-- feedback: ¡Correcto! Factorizando el trinomio cuadrático se obtienen las raíces deseadas. -->
-- [ ] B) x = 0 y x = 1 <!-- feedback: Incorrecto. Estos valores no satisfacen la ecuación original. -->
+- [x] B) x = 18 y x = 20 <!-- feedback: ¡Correcto! Factorizando el trinomio cuadrático se obtienen las raíces deseadas. -->
+- [ ] A) x = 0 y x = 1 <!-- feedback: Incorrecto. Estos valores no satisfacen la ecuación original. -->
 - [ ] C) x = 19 y x = -19 <!-- feedback: Incorrecto. Error al factorizar o despejar los coeficientes. -->
 - [ ] D) No tiene raíces reales <!-- feedback: Incorrecto. El discriminante es positivo, por lo que posee dos raíces reales distintas. -->
 
@@ -414,8 +414,8 @@ La ecuación se puede resolver factorizando como (x - (18))(x - (20)) = 0, lo qu
 Resuelva la ecuación cuadrática: x^2 - 40x + 399 = 0. ¿Cuáles son las dos raíces reales?
 
 ### Opciones
-- [x] A) x = 19 y x = 21 <!-- feedback: ¡Correcto! Factorizando el trinomio cuadrático se obtienen las raíces deseadas. -->
-- [ ] B) x = 0 y x = 1 <!-- feedback: Incorrecto. Estos valores no satisfacen la ecuación original. -->
+- [x] B) x = 19 y x = 21 <!-- feedback: ¡Correcto! Factorizando el trinomio cuadrático se obtienen las raíces deseadas. -->
+- [ ] A) x = 0 y x = 1 <!-- feedback: Incorrecto. Estos valores no satisfacen la ecuación original. -->
 - [ ] C) x = 20 y x = -20 <!-- feedback: Incorrecto. Error al factorizar o despejar los coeficientes. -->
 - [ ] D) No tiene raíces reales <!-- feedback: Incorrecto. El discriminante es positivo, por lo que posee dos raíces reales distintas. -->
 

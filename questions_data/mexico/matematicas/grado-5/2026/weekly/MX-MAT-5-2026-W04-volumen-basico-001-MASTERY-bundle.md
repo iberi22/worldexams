@@ -29,11 +29,11 @@ creador: "Jules-Agent"
 ¿Qué es el volumen de un cuerpo?
 
 ### Opciones
-- [x] A) La cantidad de espacio que ocupa un cuerpo
+- [x] C) La cantidad de espacio que ocupa un cuerpo
   <!-- feedback: El volumen mide el espacio tridimensional ocupado, por ejemplo cuántos cubitos unitarios caben dentro. -->
-- [ ] B) La longitud del borde de la caja
+- [ ] A) La longitud del borde de la caja
   <!-- feedback: Esa es una medida de longitud, correspondiente al perímetro de una cara. -->
-- [ ] C) La superficie de una de sus caras
+- [ ] B) La superficie de una de sus caras
   <!-- feedback: Una cara es una región plana; su medida es área, no volumen. -->
 - [ ] D) El peso del contenido de la caja
   <!-- feedback: El peso es una magnitud distinta; cuerpos del mismo volumen pueden pesar diferente. -->
@@ -51,9 +51,9 @@ El volumen se conceptúa contando unidades cúbicas: cuántos cubos de 1 cm³ ca
 ¿Cuántos cubitos usó Diego?
 
 ### Opciones
-- [x] A) 12
+- [x] B) 12
   <!-- feedback: Cada capa mide 3 × 2 = 6 cubitos y hay 2 capas de altura, así que 6 × 2 = 12. -->
-- [ ] B) 7
+- [ ] A) 7
   <!-- feedback: Sumar las tres aristas (3 + 2 + 2) no cuenta cubitos; el volumen usa productos. -->
 - [ ] C) 8
   <!-- feedback: Una capa de 3 × 2 tiene 6 cubitos; 6 × 2 capas son 12, no 8. -->
@@ -73,13 +73,13 @@ Contar por capas conecta el volumen con la multiplicación: volumen = largo × a
 ¿Cuál es el volumen de la caja?
 
 ### Opciones
-- [x] A) 9,000 cm³
+- [x] D) 9,000 cm³
   <!-- feedback: 30 × 20 × 15 = 9,000 centímetros cúbicos. -->
-- [ ] B) 65 cm³
+- [ ] A) 65 cm³
   <!-- feedback: Sumar las tres dimensiones no calcula volumen; hay que multiplicarlas. -->
-- [ ] C) 600 cm³
+- [ ] B) 600 cm³
   <!-- feedback: 600 es el área de la base (30 × 20); falta multiplicar por la altura de 15. -->
-- [ ] D) 900 cm³
+- [ ] C) 900 cm³
   <!-- feedback: Al producto 30 × 20 = 600 le faltó el factor completo de altura; 600 × 15 es 9,000. -->
 
 ### Explicacion Pedagogica
@@ -95,13 +95,13 @@ El volumen del prisma rectangular es área de base por altura: (30 × 20) × 15 
 ¿Cuántos litros caben si 1,000 cm³ equivalen a 1 litro?
 
 ### Opciones
-- [x] A) 4 litros
+- [x] D) 4 litros
   <!-- feedback: El volumen es 25 × 16 × 10 = 4,000 cm³ y 4,000 ÷ 1,000 = 4 litros. -->
-- [ ] B) 40 litros
+- [ ] A) 40 litros
   <!-- feedback: 4,000 cm³ son 4 litros; la conversión divide entre 1,000, no entre 100. -->
-- [ ] C) 0.4 litros
+- [ ] B) 0.4 litros
   <!-- feedback: 0.4 litros serían 400 cm³; el cálculo de la caja da 4,000 cm³. -->
-- [ ] D) 400 litros
+- [ ] C) 400 litros
   <!-- feedback: Ese valor desplaza mal el punto al convertir centímetros cúbicos a litros. -->
 
 ### Explicacion Pedagogica
@@ -139,13 +139,13 @@ Empacar cubos iguales en un cubo mayor se resuelve por aristas: 15 ÷ 5 = 3 por 
 ¿Cuál análisis es correcto?
 
 ### Opciones
-- [x] A) Las dos cajas tienen el mismo volumen: 6,000 cm³ cada una
+- [x] D) Las dos cajas tienen el mismo volumen: 6,000 cm³ cada una
   <!-- feedback: 20 × 10 × 30 = 6,000 y 25 × 12 × 20 = 6,000; con dimensiones distintas, ambas cajas ocupan el mismo espacio. -->
-- [ ] B) La Caja A tiene mayor volumen porque es más alta
+- [ ] A) La Caja A tiene mayor volumen porque es más alta
   <!-- feedback: Ninguna dimensión aislada decide el volumen; ambos productos valen 6,000 cm³. -->
-- [ ] C) La Caja B tiene mayor volumen porque es más ancha
+- [ ] B) La Caja B tiene mayor volumen porque es más ancha
   <!-- feedback: La anchura sola no determina el volumen; al multiplicar las tres aristas, las dos cajas empatan. -->
-- [ ] D) No se puede comparar el volumen sin medir el peso
+- [ ] C) No se puede comparar el volumen sin medir el peso
   <!-- feedback: El volumen se calcula con las dimensiones; el peso depende del contenido, no es necesario para comparar espacios. -->
 
 ### Explicacion Pedagogica
@@ -183,11 +183,11 @@ Rotar un sólido permuta las dimensiones pero conserva el producto (propiedad co
 ¿Cuál propuesta cubre exactamente la cantidad de tierra necesaria?
 
 ### Opciones
-- [x] A) La de Beto, porque el volumen es 12,000 cm³ = 12 L y una bolsa de 10 L no basta
+- [x] C) La de Beto, porque el volumen es 12,000 cm³ = 12 L y una bolsa de 10 L no basta
   <!-- feedback: 40 × 20 × 15 = 12,000 cm³ = 12 L; una sola bolsa dejaría 2 litros sin cubrir, así que se requieren 2 bolsas. -->
-- [ ] B) La de Ana, porque 12 L es casi igual a 10 L
+- [ ] A) La de Ana, porque 12 L es casi igual a 10 L
   <!-- feedback: Comprar solo 10 L dejaría faltar tierra para 2 litros del comedero; "casi" no llena el volumen. -->
-- [ ] C) La de Beto, porque el volumen es 1,200 cm³ = 1.2 L y con 2 bolsas de sobra
+- [ ] B) La de Beto, porque el volumen es 1,200 cm³ = 1.2 L y con 2 bolsas de sobra
   <!-- feedback: El producto 40 × 20 × 15 es 12,000, no 1,200; falta un cero en el cálculo. -->
 - [ ] D) Ninguna, porque hacen falta 3 bolsas
   <!-- feedback: Con 2 bolsas hay 20 L disponibles para 12 L requeridos; una tercera bolsa sería compra innecesaria. -->

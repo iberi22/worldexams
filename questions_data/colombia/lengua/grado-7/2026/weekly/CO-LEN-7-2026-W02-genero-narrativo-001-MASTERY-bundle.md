@@ -33,9 +33,9 @@ creador: "Jules-Agent"
 
 ### Opciones
 - [ ] A) El autor real <!-- feedback: Incorrecto. El autor es la persona real que escribe, pero el que cuenta la historia dentro del texto es el narrador. -->
-- [x] B) El narrador <!-- feedback: ¡Correcto! El narrador es la voz ficticia creada por el autor para relatar los acontecimientos de la obra. -->
-- [ ] C) El protagonista <!-- feedback: Incorrecto. El protagonista realiza las acciones, pero no siempre es quien cuenta la historia. -->
-- [ ] D) El público <!-- feedback: Incorrecto. El público es quien recibe la obra, no quien la narra. -->
+- [x] D) El narrador <!-- feedback: ¡Correcto! El narrador es la voz ficticia creada por el autor para relatar los acontecimientos de la obra. -->
+- [ ] B) El protagonista <!-- feedback: Incorrecto. El protagonista realiza las acciones, pero no siempre es quien cuenta la historia. -->
+- [ ] C) El público <!-- feedback: Incorrecto. El público es quien recibe la obra, no quien la narra. -->
 
 ### Explicacion Pedagogica
 El narrador es un elemento interno fundamental del texto narrativo. Puede estar en primera persona (si participa en los hechos) o en tercera persona (si observa desde fuera). Es distinto del autor, quien es el ser humano real fuera de la ficción.
@@ -54,8 +54,8 @@ El narrador es un elemento interno fundamental del texto narrativo. Puede estar 
 
 ### Opciones
 - [ ] A) El cuento siempre es real y la novela siempre es fantástica. <!-- feedback: Incorrecto. Ambos pueden ser reales o fantásticos; la diferencia es de extensión y complejidad. -->
-- [x] B) El cuento es breve y tiene una sola trama principal; la novela es extensa y permite varias tramas secundarias. <!-- feedback: ¡Correcto! La extensión y la complejidad de los personajes y el tiempo son los rasgos distintivos. -->
-- [ ] C) El cuento no tiene personajes y la novela sí. <!-- feedback: Incorrecto. Ambos necesitan personajes para que ocurra la acción. -->
+- [x] C) El cuento es breve y tiene una sola trama principal; la novela es extensa y permite varias tramas secundarias. <!-- feedback: ¡Correcto! La extensión y la complejidad de los personajes y el tiempo son los rasgos distintivos. -->
+- [ ] B) El cuento no tiene personajes y la novela sí. <!-- feedback: Incorrecto. Ambos necesitan personajes para que ocurra la acción. -->
 - [ ] D) El cuento solo se lee en voz alta y la novela en silencio. <!-- feedback: Incorrecto. La forma de lectura no define el subgénero literario. -->
 
 ### Explicacion Pedagogica
@@ -75,9 +75,9 @@ El cuento se caracteriza por su brevedad y por producir un efecto único en el l
 
 ### Opciones
 - [ ] A) Narrador omnisciente <!-- feedback: Incorrecto. El narrador omnisciente habla en tercera persona y sabe lo que todos sienten; aquí se habla en primera persona. -->
-- [x] B) Narrador protagonista <!-- feedback: ¡Correcto! El uso de la primera persona ("Yo no sabía", "Caminaba") indica que el narrador es quien vive la historia. -->
-- [ ] C) Narrador testigo <!-- feedback: Incorrecto. El testigo cuenta lo que le pasa a otros desde dentro, pero aquí el narrador habla de su propia experiencia. -->
-- [ ] D) Narrador en segunda persona <!-- feedback: Incorrecto. La segunda persona se dirige al lector como "tú", lo cual no ocurre aquí. -->
+- [x] D) Narrador protagonista <!-- feedback: ¡Correcto! El uso de la primera persona ("Yo no sabía", "Caminaba") indica que el narrador es quien vive la historia. -->
+- [ ] B) Narrador testigo <!-- feedback: Incorrecto. El testigo cuenta lo que le pasa a otros desde dentro, pero aquí el narrador habla de su propia experiencia. -->
+- [ ] C) Narrador en segunda persona <!-- feedback: Incorrecto. La segunda persona se dirige al lector como "tú", lo cual no ocurre aquí. -->
 
 ### Explicacion Pedagogica
 El narrador protagonista cuenta su propia historia. Esto genera una sensación de mayor cercanía y subjetividad, ya que el lector solo conoce los hechos a través de los ojos y sentimientos de quien los está viviendo.
@@ -96,8 +96,8 @@ El narrador protagonista cuenta su propia historia. Esto genera una sensación d
 
 ### Opciones
 - [ ] A) Inicio o planteamiento <!-- feedback: Incorrecto. En el inicio se presentan los personajes y el ambiente, pero aún no hay tensión máxima. -->
-- [ ] B) Desenlace <!-- feedback: Incorrecto. El desenlace es la resolución final del conflicto. -->
-- [x] C) Nudo o clímax <!-- feedback: ¡Correcto! El nudo contiene el desarrollo del problema, y el clímax es el momento de mayor intensidad emocional o de acción. -->
+- [ ] C) Desenlace <!-- feedback: Incorrecto. El desenlace es la resolución final del conflicto. -->
+- [x] B) Nudo o clímax <!-- feedback: ¡Correcto! El nudo contiene el desarrollo del problema, y el clímax es el momento de mayor intensidad emocional o de acción. -->
 - [ ] D) Epílogo <!-- feedback: Incorrecto. El epílogo es una sección final que ocurre después de que la historia principal ha terminado. -->
 
 ### Explicacion Pedagogica
@@ -117,9 +117,9 @@ La estructura clásica de la narración (inicio, nudo y desenlace) ayuda a organ
 
 ### Opciones
 - [ ] A) Siempre se escriben en un lenguaje científico y preciso. <!-- feedback: Incorrecto. Usan un lenguaje simbólico, fantástico y popular. -->
-- [x] B) Tienen un origen oral y forman parte de la identidad cultural de un pueblo. <!-- feedback: ¡Correcto! Se transmiten de voz en voz antes de ser fijados por la escritura. -->
-- [ ] C) Sus autores son siempre famosos escritores contemporáneos. <!-- feedback: Incorrecto. Suelen ser anónimos o de autoría colectiva a lo largo del tiempo. -->
-- [ ] D) Solo se pueden contar durante las noches de luna llena. <!-- feedback: Incorrecto. Aunque el ambiente influye, no es una regla del género literario. -->
+- [x] D) Tienen un origen oral y forman parte de la identidad cultural de un pueblo. <!-- feedback: ¡Correcto! Se transmiten de voz en voz antes de ser fijados por la escritura. -->
+- [ ] B) Sus autores son siempre famosos escritores contemporáneos. <!-- feedback: Incorrecto. Suelen ser anónimos o de autoría colectiva a lo largo del tiempo. -->
+- [ ] C) Solo se pueden contar durante las noches de luna llena. <!-- feedback: Incorrecto. Aunque el ambiente influye, no es una regla del género literario. -->
 
 ### Explicacion Pedagogica
 El mito busca explicar el origen del mundo o de fenómenos naturales mediante dioses o héroes; la leyenda parte de un hecho posiblemente real pero enriquecido con elementos fantásticos. Ambos son pilares de la narrativa popular colombiana.
@@ -138,9 +138,9 @@ El mito busca explicar el origen del mundo o de fenómenos naturales mediante di
 
 ### Opciones
 - [ ] A) Es un narrador limitado que solo sabe lo que ve. <!-- feedback: Incorrecto. Un narrador limitado no sabría lo que pasa en dos ciudades distintas al tiempo ni los planes secretos. -->
-- [x] B) Es un narrador omnisciente porque conoce los pensamientos y acciones de todos los personajes en diferentes lugares. <!-- feedback: ¡Correcto! La omnisciencia significa "que lo sabe todo". -->
-- [ ] C) Es el hermano de Juan contando su plan. <!-- feedback: Incorrecto. El texto usa la tercera persona ("su hermano planeaba"), no la primera ("yo planeaba"). -->
-- [ ] D) Es un personaje secundario que está espiando a Juan. <!-- feedback: Incorrecto. No hay marcas de que el narrador sea un personaje dentro de la historia. -->
+- [x] D) Es un narrador omnisciente porque conoce los pensamientos y acciones de todos los personajes en diferentes lugares. <!-- feedback: ¡Correcto! La omnisciencia significa "que lo sabe todo". -->
+- [ ] B) Es el hermano de Juan contando su plan. <!-- feedback: Incorrecto. El texto usa la tercera persona ("su hermano planeaba"), no la primera ("yo planeaba"). -->
+- [ ] C) Es un personaje secundario que está espiando a Juan. <!-- feedback: Incorrecto. No hay marcas de que el narrador sea un personaje dentro de la historia. -->
 
 ### Explicacion Pedagogica
 El narrador omnisciente es como un "dios" de la historia. No participa en ella pero conoce el pasado, el futuro y la mente de todos los personajes. Es el narrador más común en la novela clásica realista del siglo XIX.
@@ -158,9 +158,9 @@ El narrador omnisciente es como un "dios" de la historia. No participa en ella p
 Si una historia comienza por el final y luego retrocede para explicar cómo se llegó allí, ¿qué técnica temporal se está utilizando?
 
 ### Opciones
-- [ ] A) Tiempo lineal o cronológico <!-- feedback: Incorrecto. El tiempo lineal sigue el orden natural: primero-después-final. -->
-- [ ] B) Simultaneidad <!-- feedback: Incorrecto. La simultaneidad es contar dos cosas que pasan al mismo tiempo. -->
-- [x] C) Flashback o analepsis <!-- feedback: ¡Correcto! Es un salto hacia atrás en el tiempo de la historia. -->
+- [ ] B) Tiempo lineal o cronológico <!-- feedback: Incorrecto. El tiempo lineal sigue el orden natural: primero-después-final. -->
+- [ ] C) Simultaneidad <!-- feedback: Incorrecto. La simultaneidad es contar dos cosas que pasan al mismo tiempo. -->
+- [x] A) Flashback o analepsis <!-- feedback: ¡Correcto! Es un salto hacia atrás en el tiempo de la historia. -->
 - [ ] D) Premonición <!-- feedback: Incorrecto. La premonición es ver el futuro, no volver al pasado. -->
 
 ### Explicacion Pedagogica
@@ -180,8 +180,8 @@ Los autores juegan con el tiempo para generar suspenso o interés. Empezar "in m
 
 ### Opciones
 - [ ] A) Personaje plano <!-- feedback: Incorrecto. Los personajes planos no cambian y tienen rasgos muy simples. -->
-- [x] B) Personaje redondo o dinámico <!-- feedback: ¡Correcto! Son complejos y muestran cambios significativos en su personalidad o valores. -->
-- [ ] C) Personaje antagonista <!-- feedback: Incorrecto. El antagonista es quien se opone al protagonista, independientemente de si cambia o no. -->
+- [x] C) Personaje redondo o dinámico <!-- feedback: ¡Correcto! Son complejos y muestran cambios significativos en su personalidad o valores. -->
+- [ ] B) Personaje antagonista <!-- feedback: Incorrecto. El antagonista es quien se opone al protagonista, independientemente de si cambia o no. -->
 - [ ] D) Personaje secundario <!-- feedback: Incorrecto. La importancia en la trama (primario/secundario) es distinta a su complejidad (plano/redondo). -->
 
 ### Explicacion Pedagogica
@@ -222,8 +222,8 @@ En obras como "La Vorágine", el espacio (la selva) es determinante. El ambiente
 
 ### Opciones
 - [ ] A) Porque es muy fácil de memorizar para un examen. <!-- feedback: Incorrecto. La calidad no depende de la facilidad para memorizar. -->
-- [x] B) Porque logra sugerir toda una historia (personaje, acción, conflicto y ambiente) dejando que el lector la complete. <!-- feedback: ¡Correcto! La capacidad de síntesis y sugerencia es el arte del microrrelato. -->
-- [ ] C) Porque los dinosaurios son temas que siempre gustan a los niños. <!-- feedback: Incorrecto. El valor literario reside en la técnica narrativa, no solo en el tema. -->
+- [x] C) Porque logra sugerir toda una historia (personaje, acción, conflicto y ambiente) dejando que el lector la complete. <!-- feedback: ¡Correcto! La capacidad de síntesis y sugerencia es el arte del microrrelato. -->
+- [ ] B) Porque los dinosaurios son temas que siempre gustan a los niños. <!-- feedback: Incorrecto. El valor literario reside en la técnica narrativa, no solo en el tema. -->
 - [ ] D) Porque demuestra que escribir libros largos es una pérdida de tiempo. <!-- feedback: Incorrecto. Cada subgénero (novela, cuento, microcuento) tiene su propio valor y técnica. -->
 
 ### Explicacion Pedagogica

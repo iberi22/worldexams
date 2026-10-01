@@ -35,11 +35,11 @@ alineadas con los DBA y Estándares Básicos de Competencias del MEN Colombia y 
 ¿En cuál de las siguientes oraciones la tilde diacrítica se utiliza de forma gramaticalmente correcta según la RAE?
 
 ### Opciones
-- [x] A) Él le pidió un té caliente a su madre, pero ella no se lo sirvió a mí.
+- [x] C) Él le pidió un té caliente a su madre, pero ella no se lo sirvió a mí.
   <!-- feedback: Es correcta porque 'él' (pronombre), 'té' (sustantivo) y 'mí' (pronombre) llevan tilde diacrítica diferenciadora. -->
-- [ ] B) El le pidio un te caliente a su madre, pero ella no se lo sirvio a mi.
+- [ ] A) El le pidio un te caliente a su madre, pero ella no se lo sirvio a mi.
   <!-- feedback: Es incorrecta porque omite todas las tildes diacríticas indispensables para deshacer la ambigüedad. -->
-- [ ] C) Él le pidió un te caliente a su madre, pero ella no se lo sirvió a mi.
+- [ ] B) Él le pidió un te caliente a su madre, pero ella no se lo sirvió a mi.
   <!-- feedback: Es incorrecta porque le falta la tilde diacrítica al sustantivo 'té' y al pronombre 'mí'. -->
 - [ ] D) El le pidió un té caliente a su madre, pero ella no se lo sirvió a mí.
   <!-- feedback: Es incorrecta porque le falta la tilde al pronombre personal sujeto 'Él'. -->
@@ -58,11 +58,11 @@ La tilde diacrítica distingue palabras monosílabas de igual forma pero diferen
 ¿Qué diferencia semántica introduce colocar comas en 'Los profesores, que apoyaron el paro, marcharon ayer'?
 
 ### Opciones
-- [x] A) Indica que la totalidad de los profesores apoyaron el paro (inciso explicativo).
+- [x] C) Indica que la totalidad de los profesores apoyaron el paro (inciso explicativo).
   <!-- feedback: Es correcta porque las comas delimitan una proposición subordinada explicativa que abarca a todo el antecedente. -->
-- [ ] B) Señala que solo una parte restringida de los profesores apoyó la manifestación (cláusula especificativa).
+- [ ] A) Señala que solo una parte restringida de los profesores apoyó la manifestación (cláusula especificativa).
   <!-- feedback: Es incorrecta porque la lectura especificativa no lleva comas encerrando la subordinada. -->
-- [ ] C) Demuestra que los profesores no asistieron a la marcha por estar dictando clase en la universidad.
+- [ ] B) Demuestra que los profesores no asistieron a la marcha por estar dictando clase en la universidad.
   <!-- feedback: Es incorrecta porque el texto afirma explícitamente que los profesores marcharon ayer. -->
 - [ ] D) Provoca un error de sintaxis que invalida la comprensión del sujeto de la oración.
   <!-- feedback: Es incorrecta porque la delimitación de incisos explicativos con comas es una regla plena del español. -->
@@ -81,13 +81,13 @@ Las comas en cláusulas relativas transforman el sentido de especificativo (rest
 ¿Por qué la palabra 'fácilmente' conserva la tilde en la primera sílaba mientras que 'felizmente' no la lleva?
 
 ### Opciones
-- [x] A) Porque los adverbios en '-mente' mantienen la acentuación ortográfica del adjetivo primitivo ('fácil' lleva tilde, 'feliz' no).
+- [x] D) Porque los adverbios en '-mente' mantienen la acentuación ortográfica del adjetivo primitivo ('fácil' lleva tilde, 'feliz' no).
   <!-- feedback: Es correcta porque los adverbios formados con el sufijo '-mente' son palabras ditónicas que respetan la tilde de la base. -->
-- [ ] B) Porque 'fácilmente' es una palabra aguda y 'felizmente' es una palabra esdrújula según el conteo silábico.
+- [ ] A) Porque 'fácilmente' es una palabra aguda y 'felizmente' es una palabra esdrújula según el conteo silábico.
   <!-- feedback: Es incorrecta porque el conteo de sílabas del compuesto no altera la norma del adjetivo de origen. -->
-- [ ] C) Porque las palabras de más de tres sílabas siempre deben llevar tilde obligatoria en la vocal 'a'.
+- [ ] B) Porque las palabras de más de tres sílabas siempre deben llevar tilde obligatoria en la vocal 'a'.
   <!-- feedback: Es incorrecta porque la extensión silábica no determina por sí sola la presencia de tilde. -->
-- [ ] D) Porque fue una decisión arbitraria tomada por los impresores del siglo XIX sin ninguna regla gramatical.
+- [ ] C) Porque fue una decisión arbitraria tomada por los impresores del siglo XIX sin ninguna regla gramatical.
   <!-- feedback: Es incorrecta porque responde a la norma ortográfica de la Real Academia Española para adjetivos sufijados. -->
 
 ### Explicacion Pedagogica
@@ -150,9 +150,9 @@ El hiato acentual rompe la secuencia de diptongo obligando a tildar la vocal cer
 ¿En cuál de los siguientes enunciados se aplican correctamente los dos puntos para dar paso a una cita?
 
 ### Opciones
-- [x] A) El filósofo afirmó tajantemente: 'El conocimiento comienza por los sentidos, pero no todo procede de ellos'.
+- [x] B) El filósofo afirmó tajantemente: 'El conocimiento comienza por los sentidos, pero no todo procede de ellos'.
   <!-- feedback: Es correcta porque los dos puntos se colocan tras el verbo de habla o declaración antes de la cita entre comillas. -->
-- [ ] B) El filósofo afirmó: tajantemente 'El conocimiento comienza por los sentidos, pero no todo procede de ellos'.
+- [ ] A) El filósofo afirmó: tajantemente 'El conocimiento comienza por los sentidos, pero no todo procede de ellos'.
   <!-- feedback: Es incorrecta porque interrumpe la locución adverbial 'afirmó tajantemente'. -->
 - [ ] C) El filósofo: afirmó tajantemente 'El conocimiento comienza por los sentidos, pero no todo procede de ellos'.
   <!-- feedback: Es incorrecta porque separa el sujeto del sintagma verbal de forma agramatical. -->
@@ -173,13 +173,13 @@ Los dos puntos anuncian la reproducción literal de las palabras registradas tra
 ¿Cómo debe escribirse correctamente el prefijo 'ex' en la expresión que designa a un antiguo presidente?
 
 ### Opciones
-- [x] A) Expresidente, escrito en una sola palabra sin guion ni espacio intermedio.
+- [x] D) Expresidente, escrito en una sola palabra sin guion ni espacio intermedio.
   <!-- feedback: Es correcta porque los prefijos se escriben soldados a la base léxica uni-verbal según la Ortografía de 2010. -->
-- [ ] B) Ex-presidente, unido necesariamente por un guion medio ortográfico.
+- [ ] A) Ex-presidente, unido necesariamente por un guion medio ortográfico.
   <!-- feedback: Es incorrecta porque el guion solo se reserva para bases que empiezan por mayúscula o número (ej. ex-URSS). -->
-- [ ] C) Ex presidente, separado por un espacio en blanco como dos palabras independientes.
+- [ ] B) Ex presidente, separado por un espacio en blanco como dos palabras independientes.
   <!-- feedback: Es incorrecta porque la escritura separada era la norma antigua abrogada por la RAE. -->
-- [ ] D) ExPresidente, mezclando mayúsculas y minúsculas sin criterio léxico.
+- [ ] C) ExPresidente, mezclando mayúsculas y minúsculas sin criterio léxico.
   <!-- feedback: Es incorrecta porque no se deben intercalar mayúsculas internas en palabras derivadas comunes. -->
 
 ### Explicacion Pedagogica
@@ -196,9 +196,9 @@ Los prefijos se unen directamente a la palabra base sin espacio ni guion cuando 
 ¿Por qué la palabra 'qué' lleva tilde en la frase 'No entiendo qué pretendes demostrar con esa actitud'?
 
 ### Opciones
-- [x] A) Porque funciona como un pronombre interrogativo indirecto que exige tilde diacrítica sustantiva.
+- [x] B) Porque funciona como un pronombre interrogativo indirecto que exige tilde diacrítica sustantiva.
   <!-- feedback: Es correcta porque los relativos/interrogativos llevan tilde cuando poseen sentido interrogativo o exclamativo indirecto. -->
-- [ ] B) Porque es una palabra aguda terminada en vocal y todas las agudas se tildan sin excepción.
+- [ ] A) Porque es una palabra aguda terminada en vocal y todas las agudas se tildan sin excepción.
   <!-- feedback: Es incorrecta porque no todas las palabras agudas se tildan, solo las terminadas en n, s o vocal. -->
 - [ ] C) Porque actúa como una conjunción subordinante completiva equivalente a 'decir que'.
   <!-- feedback: Es incorrecta porque si fuera conjunción completiva sería átona y se escribiría sin tilde. -->
@@ -219,11 +219,11 @@ Los pronombres interrogativos e exclamativos conservan la tilde diacrítica en e
 ¿Cuál es el error sintáctico-ortográfico en la frase 'Compró frutas como manzanas, peras, uvas, etc...'?
 
 ### Opciones
-- [x] A) La redundancia de combinar la abreviatura 'etc.' con los puntos suspensivos, pues ambos indican lo mismo.
+- [x] C) La redundancia de combinar la abreviatura 'etc.' con los puntos suspensivos, pues ambos indican lo mismo.
   <!-- feedback: Es correcta porque la abreviatura 'etc.' y los puntos suspensivos son equivalentes; usar ambos es un pleonasmo gráfico. -->
-- [ ] B) El uso de la coma antes de la palabra 'frutas' en la introducción de la oración.
+- [ ] A) El uso de la coma antes de la palabra 'frutas' en la introducción de la oración.
   <!-- feedback: Es incorrecta porque la puntuación antes del sustantivo es adecuada en este contexto. -->
-- [ ] C) La falta de una tilde diacrítica sobre la palabra 'como' en la estructura comparativa.
+- [ ] B) La falta de una tilde diacrítica sobre la palabra 'como' en la estructura comparativa.
   <!-- feedback: Es incorrecta porque 'como' es aquí una preposición comparativa/ejemplificativa átona sin tilde. -->
 - [ ] D) Escribir los nombres de las frutas en letra minúscula en lugar de mayúscula inicial.
   <!-- feedback: Es incorrecta porque los nombres comunes de frutas se escriben en minúscula según las normas del español. -->
@@ -242,13 +242,13 @@ No se deben usar simultáneamente la abreviatura 'etc.' y los puntos suspensivos
 ¿En cuál oración se utiliza correctamente el sustantivo 'porqué'?
 
 ### Opciones
-- [x] A) No comprendo el porqué de su repentina renuncia al cargo de director.
+- [x] D) No comprendo el porqué de su repentina renuncia al cargo de director.
   <!-- feedback: Es correcta porque 'porqué' es un sustantivo masculino que significa 'causa o razón' y va precedido de determinante. -->
-- [ ] B) Ella protestó porqué no estaba de acuerdo con el aumento de los impuestos.
+- [ ] A) Ella protestó porqué no estaba de acuerdo con el aumento de los impuestos.
   <!-- feedback: Es incorrecta porque debió usarse la conjunción causal 'porque' escrita junta y sin tilde. -->
-- [ ] C) ¿Porqué no fuiste a la reunión del consejo académico celebrada ayer?
+- [ ] B) ¿Porqué no fuiste a la reunión del consejo académico celebrada ayer?
   <!-- feedback: Es incorrecta porque en oraciones interrogativas directas debe usarse la secuencia separada y con tilde 'por qué'. -->
-- [ ] D) Ese es el motivo porqué lucharon los estudiantes durante todo el semestre.
+- [ ] C) Ese es el motivo porqué lucharon los estudiantes durante todo el semestre.
   <!-- feedback: Es incorrecta porque se requería la secuencia 'por que' (preposición + relativo). -->
 
 ### Explicacion Pedagogica
@@ -265,13 +265,13 @@ El sustantivo 'porqué' equivale a 'motivo o razón' y se reconoce por admitir p
 ¿Cuál de las siguientes opciones presenta el uso adecuado de la conjunción adversativa 'sino'?
 
 ### Opciones
-- [x] A) No busca obtener la victoria para sí mismo, sino para el bienestar de toda la comunidad.
+- [x] D) No busca obtener la victoria para sí mismo, sino para el bienestar de toda la comunidad.
   <!-- feedback: Es correcta porque 'sino' contrapone una afirmación a una negación previa en un enunciado adversativo. -->
-- [ ] B) Sino estudias con dedicación para el examen, no lograrás obtener la beca universitaria.
+- [ ] A) Sino estudias con dedicación para el examen, no lograrás obtener la beca universitaria.
   <!-- feedback: Es incorrecta porque se requería la secuencia condicional negativa 'si no' (si no estudias...). -->
-- [ ] C) No sé sino vendrá a la fiesta de graduación organizada por los estudiantes del colegio.
+- [ ] B) No sé sino vendrá a la fiesta de graduación organizada por los estudiantes del colegio.
   <!-- feedback: Es incorrecta porque es una duda condicional que exige 'si no'. -->
-- [ ] D) Dime sino te gusta el café que preparé esta mañana en la cocina de la casa.
+- [ ] C) Dime sino te gusta el café que preparé esta mañana en la cocina de la casa.
   <!-- feedback: Es incorrecta porque requiere la conjunción condicional 'si' seguida del adverbio de negación 'no'. -->
 
 ### Explicacion Pedagogica
@@ -288,9 +288,9 @@ La conjunción adversativa 'sino' contrapone un concepto positivo a uno negativo
 ¿Cómo debe puntuarse la inclusión de la voz del narrador según la RAE?
 
 ### Opciones
-- [x] A) —No podemos rendirnos ahora —dijo el capitán—; el puerto está muy cerca.
+- [x] B) —No podemos rendirnos ahora —dijo el capitán—; el puerto está muy cerca.
   <!-- feedback: Es correcta porque se emplea la raya (—) pegada a la primera y última palabra del inciso narrativo. -->
-- [ ] B) -No podemos rendirnos ahora -dijo el capitán-; el puerto está muy cerca.
+- [ ] A) -No podemos rendirnos ahora -dijo el capitán-; el puerto está muy cerca.
   <!-- feedback: Es incorrecta porque se utilizó el guion corto (-) en lugar de la raya de diálogo (—). -->
 - [ ] C) (No podemos rendirnos ahora) dijo el capitán; el puerto está muy cerca.
   <!-- feedback: Es incorrecta porque los paréntesis no son el signo adecuado para acotar las intervenciones del diálogo. -->
@@ -334,9 +334,9 @@ El cambio de número en los sustantivos altera la condición de la sílaba tóni
 ¿En qué caso es correcto usar comillas o cursiva para un término extranjero según la RAE?
 
 ### Opciones
-- [x] A) Al incorporar un extranjerismo no adaptado como 'online' o 'software' en un texto en español.
+- [x] B) Al incorporar un extranjerismo no adaptado como 'online' o 'software' en un texto en español.
   <!-- feedback: Es correcta porque los extranjerismos crudos deben distinguirse tipográficamente mediante cursiva o comillas. -->
-- [ ] B) Para resaltar los nombres propios de las ciudades capitales de los departamentos colombianos.
+- [ ] A) Para resaltar los nombres propios de las ciudades capitales de los departamentos colombianos.
   <!-- feedback: Es incorrecta porque los nombres propios geográficos no requieren comillas ni cursiva. -->
 - [ ] C) Para encerrar los números de las páginas en el índice de un libro académico.
   <!-- feedback: Es incorrecta porque la paginación no lleva ningún tipo de distinción encomillada. -->
@@ -380,11 +380,11 @@ Los numerales del 21 al 29 se escriben unicomponenciales y siguen las reglas gen
 ¿Cuál es la norma ortográfica exclusiva del español sobre los signos de entonación?
 
 ### Opciones
-- [x] A) Es obligatorio colocar tanto el signo de apertura (¿ / ¡) como el de cierre (? / !).
+- [x] C) Es obligatorio colocar tanto el signo de apertura (¿ / ¡) como el de cierre (? / !).
   <!-- feedback: Es correcta porque el español es la única lengua que exige signos dobles de apertura y cierre para delimitar el enunciado. -->
-- [ ] B) Solo se debe colocar el signo al final de la oración al igual que en la lengua inglesa.
+- [ ] A) Solo se debe colocar el signo al final de la oración al igual que en la lengua inglesa.
   <!-- feedback: Es incorrecta porque omitir el signo de apertura es un anglicismo ortográfico agramatical en castellano. -->
-- [ ] C) Los signos de apertura solo se utilizan en textos legales y discursos políticos oficiales.
+- [ ] B) Los signos de apertura solo se utilizan en textos legales y discursos políticos oficiales.
   <!-- feedback: Es incorrecta porque los signos dobles se aplican a toda clase de textos escritos en español. -->
 - [ ] D) Se pueden colocar tres signos de apertura y ninguno de cierre si la pregunta es muy urgente.
   <!-- feedback: Es incorrecta porque la simetría de apertura y cierre debe mantenerse obligatoriamente. -->
@@ -426,9 +426,9 @@ Los nombres de cargos, títulos o dignidades se escriben con minúscula inicial 
 ¿Cuál de los siguientes verbos está escrito correctamente en pretérito imperfecto de indicativo?
 
 ### Opciones
-- [x] A) Caminaba, porque las terminaciones del pretérito imperfecto de la primera conjugación (-ar) se escriben con 'b'.
+- [x] B) Caminaba, porque las terminaciones del pretérito imperfecto de la primera conjugación (-ar) se escriben con 'b'.
   <!-- feedback: Es correcta porque el desinencia del pretérito imperfecto de la conjugación -ar (-aba, -abas, -ábamos) se escribe con 'b'. -->
-- [ ] B) Caminava, escrito con 'v' por ser una acción ocurrida en el pasado distante.
+- [ ] A) Caminava, escrito con 'v' por ser una acción ocurrida en el pasado distante.
   <!-- feedback: Es incorrecta porque incurre en una falta ortográfica grave al usar 'v' en la desinencia imperfecta de la 1a conjugación. -->
 - [ ] C) Caminaba, pero alternando la 'b' y la 'v' según el número gramatical del sujeto.
   <!-- feedback: Es incorrecta porque la desinencia flexiva es invariable en su grafía consonántica 'b'. -->
@@ -449,13 +449,13 @@ Las formas del pretérito imperfecto de indicativo de los verbos de la primera c
 ¿Cómo se acentúan los términos en la palabra compuesta 'teórico-práctico'?
 
 ### Opciones
-- [x] A) Cada uno de los componentes conserva la tilde que le corresponde de forma independiente ('teórico' y 'práctico').
+- [x] D) Cada uno de los componentes conserva la tilde que le corresponde de forma independiente ('teórico' y 'práctico').
   <!-- feedback: Es correcta porque en los compuestos de dos adjetivos unidos por guion cada elemento mantiene su acentuación propia. -->
-- [ ] B) Solo el primer elemento conserva la tilde, mientras que el segundo la pierde por estar al final.
+- [ ] A) Solo el primer elemento conserva la tilde, mientras que el segundo la pierde por estar al final.
   <!-- feedback: Es incorrecta porque la unión por guion no priva al segundo componente de su acento ortográfico. -->
-- [ ] C) Ambos elementos pierden la tilde por convertirse en una palabra compuesta grave sin excepción.
+- [ ] B) Ambos elementos pierden la tilde por convertirse en una palabra compuesta grave sin excepción.
   <!-- feedback: Es incorrecta porque el guion preserva la independencia fónica y ortográfica de cada adjetivo. -->
-- [ ] D) Se eliminan las tildes y se agrega una coma en lugar del guion entre ambos adjetivos.
+- [ ] C) Se eliminan las tildes y se agrega una coma en lugar del guion entre ambos adjetivos.
   <!-- feedback: Es incorrecta porque sustituir el guion por una coma transforma la estructura en una coordinación agramatical. -->
 
 ### Explicacion Pedagogica

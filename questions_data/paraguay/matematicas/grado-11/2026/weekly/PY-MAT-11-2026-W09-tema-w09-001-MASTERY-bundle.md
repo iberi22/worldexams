@@ -35,10 +35,10 @@ Este bundle evalúa conceptos clave de Función Lineal y Afín alineados al curr
 ¿Cuál es la expresión algebraica estándar que define a una función afín con pendiente $m$ e intersección con el eje y dada por $n$?
 
 ### Opciones
-- [x] A) $f(x) = mx + n$ <!-- feedback: ¡Correcto! Esta expresión representa la ecuación explícita de la recta. -->
-- [ ] B) $f(x) = mx^2 + n$ <!-- feedback: Incorrecto. Esta ecuación es cuadrática, no afín lineal. -->
-- [ ] C) $f(x) = m(x - n)^2$ <!-- feedback: Incorrecto. Es un modelo polinomial cuadrático trasladado. -->
-- [ ] D) $f(x) = \frac{m}{x} + n$ <!-- feedback: Incorrecto. Esta es una función racional, no afín. -->
+- [x] D) $f(x) = mx + n$ <!-- feedback: ¡Correcto! Esta expresión representa la ecuación explícita de la recta. -->
+- [ ] A) $f(x) = mx^2 + n$ <!-- feedback: Incorrecto. Esta ecuación es cuadrática, no afín lineal. -->
+- [ ] B) $f(x) = m(x - n)^2$ <!-- feedback: Incorrecto. Es un modelo polinomial cuadrático trasladado. -->
+- [ ] C) $f(x) = \frac{m}{x} + n$ <!-- feedback: Incorrecto. Esta es una función racional, no afín. -->
 
 ### Explicacion Pedagogica
 Una función afín se expresa como $f(x) = mx + n$, donde $m$ representa la pendiente de la recta y $n$ la ordenada en el origen.
@@ -56,10 +56,10 @@ Una función afín se expresa como $f(x) = mx + n$, donde $m$ representa la pend
 ¿Cuál es la fórmula para calcular la pendiente $m$ de una recta que pasa por dos puntos dados $P_1(x_1, y_1)$ y $P_2(x_2, y_2)$?
 
 ### Opciones
-- [x] A) $m = \frac{y_2 - y_1}{x_2 - x_1}$ <!-- feedback: ¡Correcto! La pendiente es la razón de cambio entre la ordenada y la abscisa de ambos puntos. -->
-- [ ] B) $m = \frac{x_2 - x_1}{y_2 - y_1}$ <!-- feedback: Incorrecto. Colocó el cambio de la abscisa en el numerador de la razón de cambio. -->
-- [ ] C) $m = (y_2 - y_1)(x_2 - x_1)$ <!-- feedback: Incorrecto. La pendiente se define como cociente, no como producto. -->
-- [ ] D) $m = y_2 - x_2$ <!-- feedback: Incorrecto. Revise la definición clásica de la pendiente de una recta. -->
+- [x] D) $m = \frac{y_2 - y_1}{x_2 - x_1}$ <!-- feedback: ¡Correcto! La pendiente es la razón de cambio entre la ordenada y la abscisa de ambos puntos. -->
+- [ ] A) $m = \frac{x_2 - x_1}{y_2 - y_1}$ <!-- feedback: Incorrecto. Colocó el cambio de la abscisa en el numerador de la razón de cambio. -->
+- [ ] B) $m = (y_2 - y_1)(x_2 - x_1)$ <!-- feedback: Incorrecto. La pendiente se define como cociente, no como producto. -->
+- [ ] C) $m = y_2 - x_2$ <!-- feedback: Incorrecto. Revise la definición clásica de la pendiente de una recta. -->
 
 ### Explicacion Pedagogica
 La pendiente de una recta es la relación entre el cambio vertical y el cambio horizontal, definida por la razón $m = \frac{y_2 - y_1}{x_2 - x_1}$ para $x_2 \neq x_1$.
@@ -77,8 +77,8 @@ La pendiente de una recta es la relación entre el cambio vertical y el cambio h
 En Luque. un servicio de taxis cobra una tarifa fija de ₲ 13.000 más ₲ 3.000 por cada kilómetro recorrido. ¿Cuál función afín $f(x)$ modela el costo de un viaje de $x$ kilómetros?
 
 ### Opciones
-- [x] A) $f(x) = 3.000x + 13.000$ <!-- feedback: ¡Correcto! La tarifa fija actúa como la ordenada en el origen ($n$) y el costo por kilómetro como la pendiente ($m$). -->
-- [ ] B) $f(x) = 13.000x + 3.000$ <!-- feedback: Incorrecto. Colocó la tarifa por kilómetro como el costo fijo constante. -->
+- [x] B) $f(x) = 3.000x + 13.000$ <!-- feedback: ¡Correcto! La tarifa fija actúa como la ordenada en el origen ($n$) y el costo por kilómetro como la pendiente ($m$). -->
+- [ ] A) $f(x) = 13.000x + 3.000$ <!-- feedback: Incorrecto. Colocó la tarifa por kilómetro como el costo fijo constante. -->
 - [ ] C) $f(x) = 3.000(x + 13.000)$ <!-- feedback: Incorrecto. Esto multiplicaría la tarifa de base por los kilómetros, lo cual es incorrecto. -->
 - [ ] D) $f(x) = 16.000x$ <!-- feedback: Incorrecto. No se suman ambos costos directamente de forma proporcional. -->
 
@@ -98,10 +98,10 @@ El costo de un viaje consta de una parte fija (₲ 13000) y una parte variable q
 En Encarnación. un servicio de taxis cobra una tarifa fija de ₲ 14.000 más ₲ 3.000 por cada kilómetro recorrido. ¿Cuál función afín $f(x)$ modela el costo de un viaje de $x$ kilómetros?
 
 ### Opciones
-- [x] A) $f(x) = 3.000x + 14.000$ <!-- feedback: ¡Correcto! La tarifa fija actúa como la ordenada en el origen ($n$) y el costo por kilómetro como la pendiente ($m$). -->
-- [ ] B) $f(x) = 14.000x + 3.000$ <!-- feedback: Incorrecto. Colocó la tarifa por kilómetro como el costo fijo constante. -->
-- [ ] C) $f(x) = 3.000(x + 14.000)$ <!-- feedback: Incorrecto. Esto multiplicaría la tarifa de base por los kilómetros, lo cual es incorrecto. -->
-- [ ] D) $f(x) = 17.000x$ <!-- feedback: Incorrecto. No se suman ambos costos directamente de forma proporcional. -->
+- [x] D) $f(x) = 3.000x + 14.000$ <!-- feedback: ¡Correcto! La tarifa fija actúa como la ordenada en el origen ($n$) y el costo por kilómetro como la pendiente ($m$). -->
+- [ ] A) $f(x) = 14.000x + 3.000$ <!-- feedback: Incorrecto. Colocó la tarifa por kilómetro como el costo fijo constante. -->
+- [ ] B) $f(x) = 3.000(x + 14.000)$ <!-- feedback: Incorrecto. Esto multiplicaría la tarifa de base por los kilómetros, lo cual es incorrecto. -->
+- [ ] C) $f(x) = 17.000x$ <!-- feedback: Incorrecto. No se suman ambos costos directamente de forma proporcional. -->
 
 ### Explicacion Pedagogica
 El costo de un viaje consta de una parte fija (₲ 14000) y una parte variable que depende de los kilómetros recorridos ($3.000$ por cada uno de los $x$ kilómetros). Por tanto, la función afín es $f(x) = 3.000x + 14000$.
@@ -119,8 +119,8 @@ El costo de un viaje consta de una parte fija (₲ 14000) y una parte variable q
 En Ciudad del Este. un servicio de taxis cobra una tarifa fija de ₲ 15.000 más ₲ 3.000 por cada kilómetro recorrido. ¿Cuál función afín $f(x)$ modela el costo de un viaje de $x$ kilómetros?
 
 ### Opciones
-- [x] A) $f(x) = 3.000x + 15.000$ <!-- feedback: ¡Correcto! La tarifa fija actúa como la ordenada en el origen ($n$) y el costo por kilómetro como la pendiente ($m$). -->
-- [ ] B) $f(x) = 15.000x + 3.000$ <!-- feedback: Incorrecto. Colocó la tarifa por kilómetro como el costo fijo constante. -->
+- [x] B) $f(x) = 3.000x + 15.000$ <!-- feedback: ¡Correcto! La tarifa fija actúa como la ordenada en el origen ($n$) y el costo por kilómetro como la pendiente ($m$). -->
+- [ ] A) $f(x) = 15.000x + 3.000$ <!-- feedback: Incorrecto. Colocó la tarifa por kilómetro como el costo fijo constante. -->
 - [ ] C) $f(x) = 3.000(x + 15.000)$ <!-- feedback: Incorrecto. Esto multiplicaría la tarifa de base por los kilómetros, lo cual es incorrecto. -->
 - [ ] D) $f(x) = 18.000x$ <!-- feedback: Incorrecto. No se suman ambos costos directamente de forma proporcional. -->
 
@@ -140,8 +140,8 @@ El costo de un viaje consta de una parte fija (₲ 15000) y una parte variable q
 En Caacupé. un servicio de taxis cobra una tarifa fija de ₲ 16.000 más ₲ 3.000 por cada kilómetro recorrido. ¿Cuál función afín $f(x)$ modela el costo de un viaje de $x$ kilómetros?
 
 ### Opciones
-- [x] A) $f(x) = 3.000x + 16.000$ <!-- feedback: ¡Correcto! La tarifa fija actúa como la ordenada en el origen ($n$) y el costo por kilómetro como la pendiente ($m$). -->
-- [ ] B) $f(x) = 16.000x + 3.000$ <!-- feedback: Incorrecto. Colocó la tarifa por kilómetro como el costo fijo constante. -->
+- [x] B) $f(x) = 3.000x + 16.000$ <!-- feedback: ¡Correcto! La tarifa fija actúa como la ordenada en el origen ($n$) y el costo por kilómetro como la pendiente ($m$). -->
+- [ ] A) $f(x) = 16.000x + 3.000$ <!-- feedback: Incorrecto. Colocó la tarifa por kilómetro como el costo fijo constante. -->
 - [ ] C) $f(x) = 3.000(x + 16.000)$ <!-- feedback: Incorrecto. Esto multiplicaría la tarifa de base por los kilómetros, lo cual es incorrecto. -->
 - [ ] D) $f(x) = 19.000x$ <!-- feedback: Incorrecto. No se suman ambos costos directamente de forma proporcional. -->
 
@@ -161,9 +161,9 @@ El costo de un viaje consta de una parte fija (₲ 16000) y una parte variable q
 En Pilar. un servicio de taxis cobra una tarifa fija de ₲ 17.000 más ₲ 3.000 por cada kilómetro recorrido. ¿Cuál función afín $f(x)$ modela el costo de un viaje de $x$ kilómetros?
 
 ### Opciones
-- [x] A) $f(x) = 3.000x + 17.000$ <!-- feedback: ¡Correcto! La tarifa fija actúa como la ordenada en el origen ($n$) y el costo por kilómetro como la pendiente ($m$). -->
-- [ ] B) $f(x) = 17.000x + 3.000$ <!-- feedback: Incorrecto. Colocó la tarifa por kilómetro como el costo fijo constante. -->
-- [ ] C) $f(x) = 3.000(x + 17.000)$ <!-- feedback: Incorrecto. Esto multiplicaría la tarifa de base por los kilómetros, lo cual es incorrecto. -->
+- [x] C) $f(x) = 3.000x + 17.000$ <!-- feedback: ¡Correcto! La tarifa fija actúa como la ordenada en el origen ($n$) y el costo por kilómetro como la pendiente ($m$). -->
+- [ ] A) $f(x) = 17.000x + 3.000$ <!-- feedback: Incorrecto. Colocó la tarifa por kilómetro como el costo fijo constante. -->
+- [ ] B) $f(x) = 3.000(x + 17.000)$ <!-- feedback: Incorrecto. Esto multiplicaría la tarifa de base por los kilómetros, lo cual es incorrecto. -->
 - [ ] D) $f(x) = 20.000x$ <!-- feedback: Incorrecto. No se suman ambos costos directamente de forma proporcional. -->
 
 ### Explicacion Pedagogica
@@ -182,10 +182,10 @@ El costo de un viaje consta de una parte fija (₲ 17000) y una parte variable q
 En Coronel Oviedo. un servicio de taxis cobra una tarifa fija de ₲ 18.000 más ₲ 3.000 por cada kilómetro recorrido. ¿Cuál función afín $f(x)$ modela el costo de un viaje de $x$ kilómetros?
 
 ### Opciones
-- [x] A) $f(x) = 3.000x + 18.000$ <!-- feedback: ¡Correcto! La tarifa fija actúa como la ordenada en el origen ($n$) y el costo por kilómetro como la pendiente ($m$). -->
-- [ ] B) $f(x) = 18.000x + 3.000$ <!-- feedback: Incorrecto. Colocó la tarifa por kilómetro como el costo fijo constante. -->
-- [ ] C) $f(x) = 3.000(x + 18.000)$ <!-- feedback: Incorrecto. Esto multiplicaría la tarifa de base por los kilómetros, lo cual es incorrecto. -->
-- [ ] D) $f(x) = 21.000x$ <!-- feedback: Incorrecto. No se suman ambos costos directamente de forma proporcional. -->
+- [x] D) $f(x) = 3.000x + 18.000$ <!-- feedback: ¡Correcto! La tarifa fija actúa como la ordenada en el origen ($n$) y el costo por kilómetro como la pendiente ($m$). -->
+- [ ] A) $f(x) = 18.000x + 3.000$ <!-- feedback: Incorrecto. Colocó la tarifa por kilómetro como el costo fijo constante. -->
+- [ ] B) $f(x) = 3.000(x + 18.000)$ <!-- feedback: Incorrecto. Esto multiplicaría la tarifa de base por los kilómetros, lo cual es incorrecto. -->
+- [ ] C) $f(x) = 21.000x$ <!-- feedback: Incorrecto. No se suman ambos costos directamente de forma proporcional. -->
 
 ### Explicacion Pedagogica
 El costo de un viaje consta de una parte fija (₲ 18000) y una parte variable que depende de los kilómetros recorridos ($3.000$ por cada uno de los $x$ kilómetros). Por tanto, la función afín es $f(x) = 3.000x + 18000$.
@@ -245,8 +245,8 @@ El costo de un viaje consta de una parte fija (₲ 20000) y una parte variable q
 En Asunción. un servicio de taxis cobra una tarifa fija de ₲ 21.000 más ₲ 3.000 por cada kilómetro recorrido. ¿Cuál función afín $f(x)$ modela el costo de un viaje de $x$ kilómetros?
 
 ### Opciones
-- [x] A) $f(x) = 3.000x + 21.000$ <!-- feedback: ¡Correcto! La tarifa fija actúa como la ordenada en el origen ($n$) y el costo por kilómetro como la pendiente ($m$). -->
-- [ ] B) $f(x) = 21.000x + 3.000$ <!-- feedback: Incorrecto. Colocó la tarifa por kilómetro como el costo fijo constante. -->
+- [x] B) $f(x) = 3.000x + 21.000$ <!-- feedback: ¡Correcto! La tarifa fija actúa como la ordenada en el origen ($n$) y el costo por kilómetro como la pendiente ($m$). -->
+- [ ] A) $f(x) = 21.000x + 3.000$ <!-- feedback: Incorrecto. Colocó la tarifa por kilómetro como el costo fijo constante. -->
 - [ ] C) $f(x) = 3.000(x + 21.000)$ <!-- feedback: Incorrecto. Esto multiplicaría la tarifa de base por los kilómetros, lo cual es incorrecto. -->
 - [ ] D) $f(x) = 24.000x$ <!-- feedback: Incorrecto. No se suman ambos costos directamente de forma proporcional. -->
 
@@ -287,8 +287,8 @@ El costo de un viaje consta de una parte fija (₲ 22000) y una parte variable q
 En Luque. un servicio de taxis cobra una tarifa fija de ₲ 23.000 más ₲ 3.000 por cada kilómetro recorrido. ¿Cuál función afín $f(x)$ modela el costo de un viaje de $x$ kilómetros?
 
 ### Opciones
-- [x] A) $f(x) = 3.000x + 23.000$ <!-- feedback: ¡Correcto! La tarifa fija actúa como la ordenada en el origen ($n$) y el costo por kilómetro como la pendiente ($m$). -->
-- [ ] B) $f(x) = 23.000x + 3.000$ <!-- feedback: Incorrecto. Colocó la tarifa por kilómetro como el costo fijo constante. -->
+- [x] B) $f(x) = 3.000x + 23.000$ <!-- feedback: ¡Correcto! La tarifa fija actúa como la ordenada en el origen ($n$) y el costo por kilómetro como la pendiente ($m$). -->
+- [ ] A) $f(x) = 23.000x + 3.000$ <!-- feedback: Incorrecto. Colocó la tarifa por kilómetro como el costo fijo constante. -->
 - [ ] C) $f(x) = 3.000(x + 23.000)$ <!-- feedback: Incorrecto. Esto multiplicaría la tarifa de base por los kilómetros, lo cual es incorrecto. -->
 - [ ] D) $f(x) = 26.000x$ <!-- feedback: Incorrecto. No se suman ambos costos directamente de forma proporcional. -->
 
@@ -308,8 +308,8 @@ El costo de un viaje consta de una parte fija (₲ 23000) y una parte variable q
 En Encarnación. un servicio de taxis cobra una tarifa fija de ₲ 24.000 más ₲ 3.000 por cada kilómetro recorrido. ¿Cuál función afín $f(x)$ modela el costo de un viaje de $x$ kilómetros?
 
 ### Opciones
-- [x] A) $f(x) = 3.000x + 24.000$ <!-- feedback: ¡Correcto! La tarifa fija actúa como la ordenada en el origen ($n$) y el costo por kilómetro como la pendiente ($m$). -->
-- [ ] B) $f(x) = 24.000x + 3.000$ <!-- feedback: Incorrecto. Colocó la tarifa por kilómetro como el costo fijo constante. -->
+- [x] B) $f(x) = 3.000x + 24.000$ <!-- feedback: ¡Correcto! La tarifa fija actúa como la ordenada en el origen ($n$) y el costo por kilómetro como la pendiente ($m$). -->
+- [ ] A) $f(x) = 24.000x + 3.000$ <!-- feedback: Incorrecto. Colocó la tarifa por kilómetro como el costo fijo constante. -->
 - [ ] C) $f(x) = 3.000(x + 24.000)$ <!-- feedback: Incorrecto. Esto multiplicaría la tarifa de base por los kilómetros, lo cual es incorrecto. -->
 - [ ] D) $f(x) = 27.000x$ <!-- feedback: Incorrecto. No se suman ambos costos directamente de forma proporcional. -->
 
@@ -350,9 +350,9 @@ El costo de un viaje consta de una parte fija (₲ 25000) y una parte variable q
 En Caacupé. un servicio de taxis cobra una tarifa fija de ₲ 26.000 más ₲ 3.000 por cada kilómetro recorrido. ¿Cuál función afín $f(x)$ modela el costo de un viaje de $x$ kilómetros?
 
 ### Opciones
-- [x] A) $f(x) = 3.000x + 26.000$ <!-- feedback: ¡Correcto! La tarifa fija actúa como la ordenada en el origen ($n$) y el costo por kilómetro como la pendiente ($m$). -->
-- [ ] B) $f(x) = 26.000x + 3.000$ <!-- feedback: Incorrecto. Colocó la tarifa por kilómetro como el costo fijo constante. -->
-- [ ] C) $f(x) = 3.000(x + 26.000)$ <!-- feedback: Incorrecto. Esto multiplicaría la tarifa de base por los kilómetros, lo cual es incorrecto. -->
+- [x] C) $f(x) = 3.000x + 26.000$ <!-- feedback: ¡Correcto! La tarifa fija actúa como la ordenada en el origen ($n$) y el costo por kilómetro como la pendiente ($m$). -->
+- [ ] A) $f(x) = 26.000x + 3.000$ <!-- feedback: Incorrecto. Colocó la tarifa por kilómetro como el costo fijo constante. -->
+- [ ] B) $f(x) = 3.000(x + 26.000)$ <!-- feedback: Incorrecto. Esto multiplicaría la tarifa de base por los kilómetros, lo cual es incorrecto. -->
 - [ ] D) $f(x) = 29.000x$ <!-- feedback: Incorrecto. No se suman ambos costos directamente de forma proporcional. -->
 
 ### Explicacion Pedagogica
@@ -371,8 +371,8 @@ El costo de un viaje consta de una parte fija (₲ 26000) y una parte variable q
 En Pilar. un servicio de taxis cobra una tarifa fija de ₲ 27.000 más ₲ 3.000 por cada kilómetro recorrido. ¿Cuál función afín $f(x)$ modela el costo de un viaje de $x$ kilómetros?
 
 ### Opciones
-- [x] A) $f(x) = 3.000x + 27.000$ <!-- feedback: ¡Correcto! La tarifa fija actúa como la ordenada en el origen ($n$) y el costo por kilómetro como la pendiente ($m$). -->
-- [ ] B) $f(x) = 27.000x + 3.000$ <!-- feedback: Incorrecto. Colocó la tarifa por kilómetro como el costo fijo constante. -->
+- [x] B) $f(x) = 3.000x + 27.000$ <!-- feedback: ¡Correcto! La tarifa fija actúa como la ordenada en el origen ($n$) y el costo por kilómetro como la pendiente ($m$). -->
+- [ ] A) $f(x) = 27.000x + 3.000$ <!-- feedback: Incorrecto. Colocó la tarifa por kilómetro como el costo fijo constante. -->
 - [ ] C) $f(x) = 3.000(x + 27.000)$ <!-- feedback: Incorrecto. Esto multiplicaría la tarifa de base por los kilómetros, lo cual es incorrecto. -->
 - [ ] D) $f(x) = 30.000x$ <!-- feedback: Incorrecto. No se suman ambos costos directamente de forma proporcional. -->
 
@@ -392,8 +392,8 @@ El costo de un viaje consta de una parte fija (₲ 27000) y una parte variable q
 En Coronel Oviedo. un servicio de taxis cobra una tarifa fija de ₲ 28.000 más ₲ 3.000 por cada kilómetro recorrido. ¿Cuál función afín $f(x)$ modela el costo de un viaje de $x$ kilómetros?
 
 ### Opciones
-- [x] A) $f(x) = 3.000x + 28.000$ <!-- feedback: ¡Correcto! La tarifa fija actúa como la ordenada en el origen ($n$) y el costo por kilómetro como la pendiente ($m$). -->
-- [ ] B) $f(x) = 28.000x + 3.000$ <!-- feedback: Incorrecto. Colocó la tarifa por kilómetro como el costo fijo constante. -->
+- [x] B) $f(x) = 3.000x + 28.000$ <!-- feedback: ¡Correcto! La tarifa fija actúa como la ordenada en el origen ($n$) y el costo por kilómetro como la pendiente ($m$). -->
+- [ ] A) $f(x) = 28.000x + 3.000$ <!-- feedback: Incorrecto. Colocó la tarifa por kilómetro como el costo fijo constante. -->
 - [ ] C) $f(x) = 3.000(x + 28.000)$ <!-- feedback: Incorrecto. Esto multiplicaría la tarifa de base por los kilómetros, lo cual es incorrecto. -->
 - [ ] D) $f(x) = 31.000x$ <!-- feedback: Incorrecto. No se suman ambos costos directamente de forma proporcional. -->
 
@@ -434,10 +434,10 @@ El costo de un viaje consta de una parte fija (₲ 29000) y una parte variable q
 En Villarrica. un servicio de taxis cobra una tarifa fija de ₲ 30.000 más ₲ 3.000 por cada kilómetro recorrido. ¿Cuál función afín $f(x)$ modela el costo de un viaje de $x$ kilómetros?
 
 ### Opciones
-- [x] A) $f(x) = 3.000x + 30.000$ <!-- feedback: ¡Correcto! La tarifa fija actúa como la ordenada en el origen ($n$) y el costo por kilómetro como la pendiente ($m$). -->
-- [ ] B) $f(x) = 30.000x + 3.000$ <!-- feedback: Incorrecto. Colocó la tarifa por kilómetro como el costo fijo constante. -->
-- [ ] C) $f(x) = 3.000(x + 30.000)$ <!-- feedback: Incorrecto. Esto multiplicaría la tarifa de base por los kilómetros, lo cual es incorrecto. -->
-- [ ] D) $f(x) = 33.000x$ <!-- feedback: Incorrecto. No se suman ambos costos directamente de forma proporcional. -->
+- [x] D) $f(x) = 3.000x + 30.000$ <!-- feedback: ¡Correcto! La tarifa fija actúa como la ordenada en el origen ($n$) y el costo por kilómetro como la pendiente ($m$). -->
+- [ ] A) $f(x) = 30.000x + 3.000$ <!-- feedback: Incorrecto. Colocó la tarifa por kilómetro como el costo fijo constante. -->
+- [ ] B) $f(x) = 3.000(x + 30.000)$ <!-- feedback: Incorrecto. Esto multiplicaría la tarifa de base por los kilómetros, lo cual es incorrecto. -->
+- [ ] C) $f(x) = 33.000x$ <!-- feedback: Incorrecto. No se suman ambos costos directamente de forma proporcional. -->
 
 ### Explicacion Pedagogica
 El costo de un viaje consta de una parte fija (₲ 30000) y una parte variable que depende de los kilómetros recorridos ($3.000$ por cada uno de los $x$ kilómetros). Por tanto, la función afín es $f(x) = 3.000x + 30000$.

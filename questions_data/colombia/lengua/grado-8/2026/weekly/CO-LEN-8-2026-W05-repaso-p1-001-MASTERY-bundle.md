@@ -54,8 +54,8 @@ El teocentrismo es la base del pensamiento medieval, influyendo en que la litera
 ¿Qué nombre recibía el oficio literario realizado por poetas cultos, generalmente clérigos, que escribían obras con intención didáctica y métrica regular?
 
 ### Opciones
-- [ ] A) Mester de juglaría <!-- feedback: El mester de juglaría era el oficio de los juglares, de carácter popular y oral. -->
-- [x] B) Mester de clerecía <!-- feedback: Correcto. Los clérigos usaban la "cuaderna vía" para enseñar valores cristianos a través de sus escritos. -->
+- [ ] B) Mester de juglaría <!-- feedback: El mester de juglaría era el oficio de los juglares, de carácter popular y oral. -->
+- [x] A) Mester de clerecía <!-- feedback: Correcto. Los clérigos usaban la "cuaderna vía" para enseñar valores cristianos a través de sus escritos. -->
 - [ ] C) Escuela de traductores <!-- feedback: La escuela de traductores se dedicaba a verter textos de otros idiomas al castellano, no era un oficio poético per se. -->
 - [ ] D) Lírica trovadoresca <!-- feedback: Los trovadores eran poetas cultos de las cortes, pero su temática era principalmente el amor cortés. -->
 
@@ -76,8 +76,8 @@ El mester de clerecía se distingue por ser una literatura escrita por personas 
 
 ### Opciones
 - [ ] A) La riqueza material <!-- feedback: Aunque el Cid gana riquezas, su objetivo principal no es el dinero, sino limpiar su nombre. -->
-- [x] B) El honor <!-- feedback: Correcto. El destierro supone la pérdida del honor público, que el Cid recupera mediante sus conquistas y lealtad. -->
-- [ ] C) El poder político <!-- feedback: El Cid busca servir a su rey, no arrebatarle el trono o gobernar por su cuenta de forma independiente. -->
+- [x] C) El honor <!-- feedback: Correcto. El destierro supone la pérdida del honor público, que el Cid recupera mediante sus conquistas y lealtad. -->
+- [ ] B) El poder político <!-- feedback: El Cid busca servir a su rey, no arrebatarle el trono o gobernar por su cuenta de forma independiente. -->
 - [ ] D) La inmortalidad <!-- feedback: Los cantares de gesta buscan la gloria terrenal y la memoria, pero el motor de la acción es el honor. -->
 
 ### Explicacion Pedagogica
@@ -98,8 +98,8 @@ Si analizamos una jarcha medieval, ¿qué conclusión podemos sacar sobre la sit
 ### Opciones
 - [ ] A) Solo se hablaba árabe en los territorios musulmanes de la península. <!-- feedback: Las jarchas demuestran que existía una lengua romance conviviendo con el árabe. -->
 - [ ] B) El castellano ya era la lengua oficial y única en todo el territorio. <!-- feedback: En esa época convivían diversas hablas romances y el árabe/hebreo culto. -->
-- [x] C) Había una convivencia cultural y lingüística entre el mundo árabe y el romance. <!-- feedback: Correcto. Las jarchas son testimonios de bilingüismo y mestizaje cultural. -->
-- [ ] D) La literatura estaba prohibida para las clases populares. <!-- feedback: Las jarchas son precisamente una muestra de la lírica popular que se filtró en poemas cultos. -->
+- [x] D) Había una convivencia cultural y lingüística entre el mundo árabe y el romance. <!-- feedback: Correcto. Las jarchas son testimonios de bilingüismo y mestizaje cultural. -->
+- [ ] C) La literatura estaba prohibida para las clases populares. <!-- feedback: Las jarchas son precisamente una muestra de la lírica popular que se filtró en poemas cultos. -->
 
 ### Explicacion Pedagogica
 Las jarchas son los testimonios más antiguos de la lengua romance (predecesora del español) y demuestran el intercambio cultural en Al-Ándalus.
@@ -161,8 +161,8 @@ El tópico de "descriptio puellae" es fundamental en la lírica de Garcilaso, re
 ### Opciones
 - [ ] A) Confundir al público sobre la verdadera identidad del héroe. <!-- feedback: Al contrario, servían para identificarlo y ensalzarlo claramente. -->
 - [ ] B) Demostrar que el juglar tenía un vocabulario muy complejo y difícil de entender. <!-- feedback: El lenguaje juglaresco buscaba ser claro y accesible para el pueblo. -->
-- [x] C) Facilitar la memorización del poema para el juglar y resaltar las virtudes del héroe. <!-- feedback: Correcto. Eran fórmulas mnemotécnicas y recursos para enfatizar la nobleza del protagonista. -->
-- [ ] D) Cumplir con las leyes gramaticales impuestas por la Iglesia en el siglo XII. <!-- feedback: La gramática no era regulada por leyes eclesiásticas de esa forma en la literatura popular. -->
+- [x] D) Facilitar la memorización del poema para el juglar y resaltar las virtudes del héroe. <!-- feedback: Correcto. Eran fórmulas mnemotécnicas y recursos para enfatizar la nobleza del protagonista. -->
+- [ ] C) Cumplir con las leyes gramaticales impuestas por la Iglesia en el siglo XII. <!-- feedback: La gramática no era regulada por leyes eclesiásticas de esa forma en la literatura popular. -->
 
 ### Explicacion Pedagogica
 La literatura de transmisión oral dependía de recursos como la repetición y las fórmulas fijas para que el artista pudiera recordar miles de versos y el público pudiera seguir el hilo narrativo.
@@ -181,9 +181,9 @@ La literatura de transmisión oral dependía de recursos como la repetición y l
 
 ### Opciones
 - [ ] A) El amor deja de ser un sentimiento para convertirse en una transacción económica. <!-- feedback: En ambos periodos el amor es un tema lírico, no una transacción. -->
-- [x] B) El amor se vuelve una experiencia interior más melancólica y reflexiva sobre el propio yo del poeta. <!-- feedback: Correcto. El Renacimiento profundiza en la psicología del amante y el análisis de su sufrimiento. -->
-- [ ] C) Se abandona la naturaleza como escenario y se prefiere la descripción de grandes batallas. <!-- feedback: La naturaleza se vuelve un escenario idealizado fundamental en el Renacimiento. -->
-- [ ] D) El amor desaparece de la literatura y es sustituido por temas exclusivamente científicos. <!-- feedback: El amor es el tema central de la lírica renacentista. -->
+- [x] D) El amor se vuelve una experiencia interior más melancólica y reflexiva sobre el propio yo del poeta. <!-- feedback: Correcto. El Renacimiento profundiza en la psicología del amante y el análisis de su sufrimiento. -->
+- [ ] B) Se abandona la naturaleza como escenario y se prefiere la descripción de grandes batallas. <!-- feedback: La naturaleza se vuelve un escenario idealizado fundamental en el Renacimiento. -->
+- [ ] C) El amor desaparece de la literatura y es sustituido por temas exclusivamente científicos. <!-- feedback: El amor es el tema central de la lírica renacentista. -->
 
 ### Explicacion Pedagogica
 Mientras que el amor cortés era un juego de convenciones sociales y vasallaje, la lírica renacentista (como la de Garcilaso) explora la melancolía y la introspección emocional.
@@ -202,8 +202,8 @@ Mientras que el amor cortés era un juego de convenciones sociales y vasallaje, 
 
 ### Opciones
 - [ ] A) Que los juglares no sabían escribir sus propios nombres. <!-- feedback: El anonimato juglaresco se debe a la naturaleza colectiva y oral de la tradición, no solo al analfabetismo. -->
-- [x] B) El inicio de una conciencia de "autor" culto que se enorgullece de su habilidad técnica y conocimiento. <!-- feedback: Correcto. Los clérigos valoraban su formación académica y el prestigio de su escritura. -->
-- [ ] C) Que la Iglesia obligaba a poner nombres para cobrar impuestos por cada libro. <!-- feedback: No existe evidencia de impuestos de autoría cobrados por la Iglesia de esa forma. -->
+- [x] C) El inicio de una conciencia de "autor" culto que se enorgullece de su habilidad técnica y conocimiento. <!-- feedback: Correcto. Los clérigos valoraban su formación académica y el prestigio de su escritura. -->
+- [ ] B) Que la Iglesia obligaba a poner nombres para cobrar impuestos por cada libro. <!-- feedback: No existe evidencia de impuestos de autoría cobrados por la Iglesia de esa forma. -->
 - [ ] D) Que ya no existía la tradición oral y todos los textos eran leídos en silencio. <!-- feedback: La tradición oral convivió con la escrita durante siglos. -->
 
 ### Explicacion Pedagogica
@@ -223,9 +223,9 @@ Desde una perspectiva política medieval, ¿por qué era importante que el héro
 
 ### Opciones
 - [ ] A) Porque el rey tenía poderes mágicos que podían destruir al héroe instantáneamente. <!-- feedback: El Cid es una obra realista, no fantástica; el poder del rey es político y legal. -->
-- [x] B) Porque la lealtad al monarca sostenía el orden feudal, y la rebelión se consideraba una ruptura del orden divino. <!-- feedback: Correcto. El rey era el representante de Dios en la tierra; rebelarse era un pecado y un crimen social grave. -->
-- [ ] C) Porque el Cid planeaba casarse con la hija del rey y necesitaba su permiso. <!-- feedback: El Cid ya estaba casado con Doña Jimena; el objetivo era recuperar el favor real. -->
-- [ ] D) Porque en la Edad Media no existía el concepto de justicia ni de leyes escritas. <!-- feedback: Existían leyes (fueros) y un sistema de justicia, aunque basado en el honor y el estamento. -->
+- [x] D) Porque la lealtad al monarca sostenía el orden feudal, y la rebelión se consideraba una ruptura del orden divino. <!-- feedback: Correcto. El rey era el representante de Dios en la tierra; rebelarse era un pecado y un crimen social grave. -->
+- [ ] B) Porque el Cid planeaba casarse con la hija del rey y necesitaba su permiso. <!-- feedback: El Cid ya estaba casado con Doña Jimena; el objetivo era recuperar el favor real. -->
+- [ ] C) Porque en la Edad Media no existía el concepto de justicia ni de leyes escritas. <!-- feedback: Existían leyes (fueros) y un sistema de justicia, aunque basado en el honor y el estamento. -->
 
 ### Explicacion Pedagogica
 La literatura épica no solo entretenía, sino que reforzaba los valores del sistema feudal. La mesura del Cid ante el rey Alfonso lo consagra como el caballero perfecto.

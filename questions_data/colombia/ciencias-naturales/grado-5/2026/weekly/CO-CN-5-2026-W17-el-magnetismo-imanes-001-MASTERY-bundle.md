@@ -80,11 +80,11 @@ Comprender que la atracción magnética depende del material y no del peso ni de
 ¿Qué sucede al acercar el polo norte de un imán al polo norte de otro imán?
 
 ### Opciones
-- [x] A) Se repelen, porque los polos del mismo tipo se rechazan entre sí.
+- [x] C) Se repelen, porque los polos del mismo tipo se rechazan entre sí.
   <!-- feedback: Los polos iguales (norte-norte o sur-sur) se repelen. -->
-- [ ] B) Se atraen, porque los polos del mismo tipo se unen.
+- [ ] A) Se atraen, porque los polos del mismo tipo se unen.
   <!-- feedback: Los polos iguales se repelen; se atraen los polos diferentes. -->
-- [ ] C) No ocurre nada entre ellos.
+- [ ] B) No ocurre nada entre ellos.
   <!-- feedback: Siempre hay una fuerza magnética entre dos imanes cercanos. -->
 - [ ] D) Se funden y forman un solo imán más grande.
   <!-- feedback: Los imanes no se funden al acercarse; se repelen o se atraen. -->
@@ -103,13 +103,13 @@ Aplicar la regla de atracción y repulsión entre polos magnéticos del mismo ti
 ¿Cuál de estos objetos será atraído por un imán?
 
 ### Opciones
-- [x] A) El clavo de hierro.
+- [x] D) El clavo de hierro.
   <!-- feedback: El hierro es un material magnético que el imán atrae. -->
-- [ ] B) La cuchara de madera.
+- [ ] A) La cuchara de madera.
   <!-- feedback: La madera no es un material magnético. -->
-- [ ] C) El vaso de vidrio.
+- [ ] B) El vaso de vidrio.
   <!-- feedback: El vidrio no es atraído por los imanes. -->
-- [ ] D) La regla de plástico.
+- [ ] C) La regla de plástico.
   <!-- feedback: El plástico no es un material magnético. -->
 
 ### Explicacion Pedagogica
@@ -126,9 +126,9 @@ Aplicar el conocimiento sobre materiales magnéticos para identificar el objeto 
 ¿Hacia dónde apunta siempre la aguja de una brújula?
 
 ### Opciones
-- [x] A) Hacia el norte.
+- [x] B) Hacia el norte.
   <!-- feedback: La aguja de la brújula se orienta hacia el polo norte magnético. -->
-- [ ] B) Hacia el sur.
+- [ ] A) Hacia el sur.
   <!-- feedback: La aguja de la brújula apunta al norte, no al sur. -->
 - [ ] C) Hacia donde mire la persona que la sostiene.
   <!-- feedback: La aguja no depende de la posición de quien la usa. -->
@@ -149,11 +149,11 @@ Aplicar el funcionamiento de la brújula como instrumento de orientación magné
 ¿Por qué la aguja de la brújula se orienta siempre en la dirección norte-sur?
 
 ### Opciones
-- [x] A) Porque la Tierra se comporta como un gran imán con polos magnéticos.
+- [x] C) Porque la Tierra se comporta como un gran imán con polos magnéticos.
   <!-- feedback: El campo magnético terrestre orienta la aguja magnética de la brújula. -->
-- [ ] B) Porque la aguja sigue la dirección del viento.
+- [ ] A) Porque la aguja sigue la dirección del viento.
   <!-- feedback: El viento no orienta la aguja magnética. -->
-- [ ] C) Porque la aguja siempre apunta hacia el Sol.
+- [ ] B) Porque la aguja siempre apunta hacia el Sol.
   <!-- feedback: La brújula no depende de la posición del Sol. -->
 - [ ] D) Porque la aguja siempre flota sobre el agua.
   <!-- feedback: Aunque puede flotar, la orientación se debe al magnetismo de la Tierra. -->
@@ -172,13 +172,13 @@ Analizar el campo magnético terrestre como causa de la orientación de la brúj
 Si un imán se parte en dos, ¿qué se puede afirmar de cada mitad?
 
 ### Opciones
-- [x] A) Cada mitad se convierte en un nuevo imán con su propio polo norte y su polo sur.
+- [x] D) Cada mitad se convierte en un nuevo imán con su propio polo norte y su polo sur.
   <!-- feedback: Los polos magnéticos no se separan; cada fragmento conserva ambos polos. -->
-- [ ] B) Una mitad queda con el polo norte y la otra con el polo sur.
+- [ ] A) Una mitad queda con el polo norte y la otra con el polo sur.
   <!-- feedback: No es posible aislar un solo polo; cada mitad tiene ambos polos. -->
-- [ ] C) Las dos mitades pierden toda su fuerza magnética.
+- [ ] B) Las dos mitades pierden toda su fuerza magnética.
   <!-- feedback: Los fragmentos siguen siendo imanes con fuerza magnética. -->
-- [ ] D) Solo una de las dos mitades conserva el magnetismo.
+- [ ] C) Solo una de las dos mitades conserva el magnetismo.
   <!-- feedback: Ambas mitades conservan la propiedad magnética. -->
 
 ### Explicacion Pedagogica
@@ -195,9 +195,9 @@ Analizar que los polos magnéticos son inseparables en cualquier fragmento de un
 ¿Por qué es importante para la humanidad conocer el magnetismo y usar instrumentos como la brújula?
 
 ### Opciones
-- [x] A) Porque permite orientarse en los viajes, fabricar aparatos y comprender fenómenos de la Tierra.
+- [x] B) Porque permite orientarse en los viajes, fabricar aparatos y comprender fenómenos de la Tierra.
   <!-- feedback: El magnetismo tiene múltiples aplicaciones prácticas y científicas. -->
-- [ ] B) Porque sirve únicamente para decorar las aulas de clase.
+- [ ] A) Porque sirve únicamente para decorar las aulas de clase.
   <!-- feedback: El magnetismo tiene usos reales muy importantes, no solo decorativos. -->
 - [ ] C) Porque sin imanes no se puede encender ningún aparato.
   <!-- feedback: El magnetismo es útil en muchas áreas, aunque no sea la única forma de encender aparatos. -->

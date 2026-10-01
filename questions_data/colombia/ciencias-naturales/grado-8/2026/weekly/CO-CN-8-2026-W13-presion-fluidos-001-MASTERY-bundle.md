@@ -57,11 +57,11 @@ Según el Sistema Internacional (SI), ¿cuál es la unidad de medida de la presi
 ### Opciones
 - [ ] A) Newton (N).
   <!-- feedback: Incorrecto: Newton es la unidad de fuerza, no de presión. -->
-- [x] B) Pascal (Pa).
+- [x] D) Pascal (Pa).
   <!-- feedback: Correcto: 1 Pa = 1 N/m², la unidad derivada del SI para presión, llamada así en honor a Blaise Pascal. -->
-- [ ] C) Joule (J).
+- [ ] B) Joule (J).
   <!-- feedback: Incorrecto: Joule es la unidad de energía y de trabajo. -->
-- [ ] D) Watt (W).
+- [ ] C) Watt (W).
   <!-- feedback: Incorrecto: Watt es la unidad de potencia, no de presión. -->
 
 ### Explicacion Pedagogica
@@ -77,9 +77,9 @@ El pascal (Pa) es la unidad derivada del SI para presión. Como es muy pequeño 
 ¿Por qué la presión atmosférica en Bogotá es menor que en Cartagena?
 
 ### Opciones
-- [x] A) Porque la columna de aire sobre Bogotá es más corta, al estar a mayor altitud sobre el nivel del mar.
+- [x] B) Porque la columna de aire sobre Bogotá es más corta, al estar a mayor altitud sobre el nivel del mar.
   <!-- feedback: Correcto: a mayor altitud hay menos masa de aire encima y, por tanto, menor presión atmosférica. -->
-- [ ] B) Porque en Bogotá el aire pesa más por el frío, así que empuja con más fuerza.
+- [ ] A) Porque en Bogotá el aire pesa más por el frío, así que empuja con más fuerza.
   <!-- feedback: Incorrecto: el aire frío es más denso, pero el factor determinante es la menor cantidad de aire encima. -->
 - [ ] C) Porque Cartagena recibe más horas de lluvia al año.
   <!-- feedback: Incorrecto: el régimen de lluvias no define la presión atmosférica media de una ciudad. -->
@@ -101,11 +101,11 @@ Una persona de 60 kg camina por la arena usando zapatos con suelas cuya área to
 ### Opciones
 - [ ] A) 300 Pa.
   <!-- feedback: Incorrecto: olvidaste convertir cm² a m² o aplicaste mal la fórmula. -->
-- [x] B) 30.000 Pa.
+- [x] D) 30.000 Pa.
   <!-- feedback: Correcto: F = 60·10 = 600 N y A = 0,02 m², de modo que P = 600/0,02 = 30.000 Pa. -->
-- [ ] C) 600 Pa.
+- [ ] B) 600 Pa.
   <!-- feedback: Incorrecto: calculaste solo la fuerza, pero no la dividiste por el área. -->
-- [ ] D) 3.000.000 Pa.
+- [ ] C) 3.000.000 Pa.
   <!-- feedback: Incorrecto: probablemente convertiste mal las unidades y obtuviste un valor mil veces mayor. -->
 
 ### Explicacion Pedagogica
@@ -165,11 +165,11 @@ Cuando un cuerpo flota en equilibrio, el empuje hidrostático debe igualar al pe
 En agua dulce (ρ = 1.000 kg/m³) a 12 m de profundidad en el embalse, con presión atmosférica superficial de 101,3 kPa y g = 10 m/s², ¿cuál es aproximadamente la presión total sobre la compuerta?
 
 ### Opciones
-- [x] A) 221,3 kPa.
+- [x] C) 221,3 kPa.
   <!-- feedback: Correcto: P = P_atm + ρ·g·h = 101,3 + 120 = 221,3 kPa. -->
-- [ ] B) 120 kPa.
+- [ ] A) 120 kPa.
   <!-- feedback: Incorrecto: calculaste solo la presión hidrostática y dejaste fuera la atmosférica superficial. -->
-- [ ] C) 0,12 kPa.
+- [ ] B) 0,12 kPa.
   <!-- feedback: Incorrecto: te faltó multiplicar por 1.000 para convertir pascales a kilopascales. -->
 - [ ] D) 12.000 kPa.
   <!-- feedback: Incorrecto: confundiste unidades y obtuviste un valor 100 veces mayor de lo correcto. -->
@@ -189,11 +189,11 @@ Un bloque macizo de acero de 1 kg se hunde en el agua, pero un gran barco de ace
 ### Opciones
 - [ ] A) El acero de los barcos es más liviano que el del bloque macizo.
   <!-- feedback: Incorrecto: ambos tipos son del mismo material; el peso específico por unidad de masa no cambia. -->
-- [x] B) El barco desplaza un volumen de agua cuyo peso es mayor o igual al peso total del barco, gracias a su forma hueca.
+- [x] D) El barco desplaza un volumen de agua cuyo peso es mayor o igual al peso total del barco, gracias a su forma hueca.
   <!-- feedback: Correcto: la densidad media del barco (masa total / volumen sumergido) es menor que la densidad del agua. -->
-- [ ] C) El agua de la bahía de Cartagena tiene menos sal que la del mar abierto.
+- [ ] B) El agua de la bahía de Cartagena tiene menos sal que la del mar abierto.
   <!-- feedback: Incorrecto: la salinidad real no se aleja lo suficiente como para soportar un barco de acero. -->
-- [ ] D) En agua caliente la presión disminuye, así que el barco sube y flota.
+- [ ] C) En agua caliente la presión disminuye, así que el barco sube y flota.
   <!-- feedback: Incorrecto: la presión cambia con la profundidad, no por la temperatura superficial. -->
 
 ### Explicacion Pedagogica
@@ -211,9 +211,9 @@ La receta indica hervir agua durante 20 minutos para cocinar frijoles. En Cartag
 ### Opciones
 - [ ] A) Que el agua en Bogotá tenga mayor contenido de sal.
   <!-- feedback: Incorrecto: la sal modifica muy poco la temperatura de ebullición en condiciones domésticas. -->
-- [x] B) La menor presión atmosférica en Bogotá reduce la temperatura de ebullición, por lo que el agua hierve por debajo de 100 °C.
+- [x] C) La menor presión atmosférica en Bogotá reduce la temperatura de ebullición, por lo que el agua hierve por debajo de 100 °C.
   <!-- feedback: Correcto: a 2.640 m, el agua hierve cerca de 91 °C y la cocción de alimentos tarda más. -->
-- [ ] C) Que las ollas en Bogotá sean más pequeñas y concentren menos calor.
+- [ ] B) Que las ollas en Bogotá sean más pequeñas y concentren menos calor.
   <!-- feedback: Incorrecto: el tamaño de la olla no determina la temperatura de ebullición del agua. -->
 - [ ] D) Que el aire en Bogotá tenga menos nitrógeno.
   <!-- feedback: Incorrecto: la composición porcentual del aire seco es prácticamente la misma en cualquier lugar. -->
@@ -233,11 +233,11 @@ Una prensa hidráulica tiene un pistón de entrada de 5 cm² y otro de salida de
 ### Opciones
 - [ ] A) 100 N, porque la fuerza total debe conservarse.
   <!-- feedback: Incorrecto: lo que se conserva es la energía, pero la fuerza sí se multiplica gracias al cambio de área. -->
-- [x] B) 1.000 N.
+- [x] D) 1.000 N.
   <!-- feedback: Correcto: P = 100/(5·10⁻⁴) = 2·10⁵ Pa, y F₂ = 2·10⁵ · (50·10⁻⁴) = 1.000 N. -->
-- [ ] C) 10.000 N, porque las áreas se multiplican por 10 dos veces.
+- [ ] B) 10.000 N, porque las áreas se multiplican por 10 dos veces.
   <!-- feedback: Incorrecto: la razón de áreas es 10, no 100. -->
-- [ ] D) 5.000 N, sumando los efectos de ambos pistones.
+- [ ] C) 5.000 N, sumando los efectos de ambos pistones.
   <!-- feedback: Incorrecto: la fuerza en un pistón no se suma con la del otro; cada uno es independiente. -->
 
 ### Explicacion Pedagogica
@@ -253,9 +253,9 @@ El principio de Pascal establece que la presión aplicada al fluido se transmite
 ¿Cuál de los siguientes montajes experimentales es el más adecuado para demostrar que la presión hidrostática depende solo de la densidad del líquido y de la profundidad?
 
 ### Opciones
-- [ ] A) Usar un solo recipiente y modificar su forma entre pruebas sin variar la profundidad ni el líquido.
+- [ ] B) Usar un solo recipiente y modificar su forma entre pruebas sin variar la profundidad ni el líquido.
   <!-- feedback: Incorrecto: cambiar la forma manteniendo variables constantes no permite concluir dependencia alguna. -->
-- [x] B) Variar sistemáticamente la profundidad h con un mismo líquido, luego cambiar el líquido manteniendo h constante, y comparar las lecturas de un manómetro.
+- [x] A) Variar sistemáticamente la profundidad h con un mismo líquido, luego cambiar el líquido manteniendo h constante, y comparar las lecturas de un manómetro.
   <!-- feedback: Correcto: es un diseño controlado que aísla cada variable y permite concluir P = ρ·g·h. -->
 - [ ] C) Llenar varios recipientes de formas distintas y medir solo la altura final del líquido en cada uno.
   <!-- feedback: Incorrecto: solo se mide una variable, sin aislar densidad ni profundidad. -->
@@ -275,9 +275,9 @@ Un buen diseño experimental controla las variables: se mantiene fijo un paráme
 Un buzo usa un traje que soporta como máximo 300 kPa de presión absoluta. Si la presión atmosférica superficial es 101,3 kPa y la densidad del agua de mar es 1.025 kg/m³, ¿cuál es la profundidad máxima segura, aproximadamente, para descender? (use g = 10 m/s²)
 
 ### Opciones
-- [ ] A) 29,3 m.
+- [ ] B) 29,3 m.
   <!-- feedback: Incorrecto: olvidaste restar la presión atmosférica al calcular el término hidrostático permitido. -->
-- [x] B) 19,4 m.
+- [x] A) 19,4 m.
   <!-- feedback: Correcto: h = (300 − 101,3)·10³ / (1.025·10) = 198.700/10.250 ≈ 19,4 m. -->
 - [ ] C) 38,8 m.
   <!-- feedback: Incorrecto: duplicaste la profundidad correcta, probablemente porque sumaste presiones en lugar de restarlas. -->

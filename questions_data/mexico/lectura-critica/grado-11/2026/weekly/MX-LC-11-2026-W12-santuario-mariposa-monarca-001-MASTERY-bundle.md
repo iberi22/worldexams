@@ -32,9 +32,9 @@ Cada año, al comenzar el invierno, millones de mariposas monarca llegan a los b
 ¿A qué tipo de texto corresponde el fragmento anterior?
 
 ### Opciones
-- [ ] A) A un cuento fantástico sobre insectos parlantes. <!-- feedback: Incorrecto. No hay elementos ficticios ni personajes fantásticos. -->
-- [ ] B) A un reglamento de visitantes de la reserva. <!-- feedback: Incorrecto. No se enumeran normas ni sanciones. -->
-- [x] C) A una nota informativa de divulgación, pues expone datos sobre un fenómeno real. <!-- feedback: Correcto. El texto informa sobre la migración de la monarca con datos verificables. -->
+- [ ] B) A un cuento fantástico sobre insectos parlantes. <!-- feedback: Incorrecto. No hay elementos ficticios ni personajes fantásticos. -->
+- [ ] C) A un reglamento de visitantes de la reserva. <!-- feedback: Incorrecto. No se enumeran normas ni sanciones. -->
+- [x] A) A una nota informativa de divulgación, pues expone datos sobre un fenómeno real. <!-- feedback: Correcto. El texto informa sobre la migración de la monarca con datos verificables. -->
 - [ ] D) A un texto publicitario de una aerolínea. <!-- feedback: Incorrecto. No promueve ningún servicio comercial. -->
 
 ### Explicacion Pedagogica
@@ -54,8 +54,8 @@ Según la nota, ¿dónde se refugian las mariposas monarca al llegar a México?
 
 ### Opciones
 - [ ] A) En los bosques de coníferas de Chihuahua. <!-- feedback: Incorrecto. La nota sitúa los santuarios en el centro del país, no en el norte. -->
-- [x] B) En los bosques de oyamel de la Reserva de la Biósfera Mariposa Monarca, entre Michoacán y el Estado de México. <!-- feedback: Correcto. Es el dato explícito que ofrece el texto. -->
-- [ ] C) En las selvas bajas de la península de Yucatán. <!-- feedback: Incorrecto. Las mariposas no se refugian en selvas tropicales según la nota. -->
+- [x] C) En los bosques de oyamel de la Reserva de la Biósfera Mariposa Monarca, entre Michoacán y el Estado de México. <!-- feedback: Correcto. Es el dato explícito que ofrece el texto. -->
+- [ ] B) En las selvas bajas de la península de Yucatán. <!-- feedback: Incorrecto. Las mariposas no se refugian en selvas tropicales según la nota. -->
 - [ ] D) En los desiertos de Baja California. <!-- feedback: Incorrecto. El texto no menciona esa región. -->
 
 ### Explicacion Pedagogica
@@ -74,8 +74,8 @@ Cada año, al comenzar el invierno, millones de mariposas monarca llegan a los b
 ¿Cuál es la idea principal de la nota?
 
 ### Opciones
-- [ ] A) Las mariposas monarca son la atracción turística más cara del país. <!-- feedback: Incorrecto. La nota no trata costos ni compara atracciones. -->
-- [x] B) La llegada de la monarca es un acontecimiento valioso que también alerta sobre las amenazas a los bosques. <!-- feedback: Correcto. La nota equilibra la celebración con la advertencia sobre tala, sequías y plaguicidas. -->
+- [ ] B) Las mariposas monarca son la atracción turística más cara del país. <!-- feedback: Incorrecto. La nota no trata costos ni compara atracciones. -->
+- [x] A) La llegada de la monarca es un acontecimiento valioso que también alerta sobre las amenazas a los bosques. <!-- feedback: Correcto. La nota equilibra la celebración con la advertencia sobre tala, sequías y plaguicidas. -->
 - [ ] C) Los santuarios deben cerrarse a los visitantes para siempre. <!-- feedback: Incorrecto. El texto reconoce que el turismo beneficia a las comunidades. -->
 - [ ] D) La mariposa monarca ya no migra a México. <!-- feedback: Incorrecto. Toda la nota describe su llegada anual. -->
 
@@ -95,9 +95,9 @@ Cada año, al comenzar el invierno, millones de mariposas monarca llegan a los b
 ¿Cuál es el propósito principal del autor de la nota?
 
 ### Opciones
-- [ ] A) Vender paquetes turísticos a los santuarios. <!-- feedback: Incorrecto. La nota no promueve servicios comerciales. -->
-- [ ] B) Narrar una leyenda indígena sobre la mariposa. <!-- feedback: Incorrecto. No hay relato legendario. -->
-- [x] C) Informar sobre la migración de la monarca y llamar la atención sobre su conservación. <!-- feedback: Correcto. El texto informa y cierra con un llamado a proteger los santuarios. -->
+- [ ] B) Vender paquetes turísticos a los santuarios. <!-- feedback: Incorrecto. La nota no promueve servicios comerciales. -->
+- [ ] C) Narrar una leyenda indígena sobre la mariposa. <!-- feedback: Incorrecto. No hay relato legendario. -->
+- [x] A) Informar sobre la migración de la monarca y llamar la atención sobre su conservación. <!-- feedback: Correcto. El texto informa y cierra con un llamado a proteger los santuarios. -->
 - [ ] D) Describir el ciclo de vida de la mariposa en detalle. <!-- feedback: Incorrecto. El ciclo de vida no es el tema de esta nota. -->
 
 ### Explicacion Pedagogica
@@ -118,8 +118,8 @@ Cuando la nota dice que la llegada de la monarca es "una señal del estado del e
 ### Opciones
 - [ ] A) las mariposas transmiten mensajes entre los árboles. <!-- feedback: Incorrecto. La expresión es figurada, no literal. -->
 - [ ] B) los santuarios emiten señales de radio a los visitantes. <!-- feedback: Incorrecto. No se alude a ningún sistema de comunicaciones. -->
-- [x] C) la cantidad de mariposas refleja la salud de los bosques donde se refugian. <!-- feedback: Correcto. La paráfrasis conserva el sentido: si el bosque está sano, la población de monarcas lo muestra. -->
-- [ ] D) los científicos usan a las mariposas como mascotas de laboratorio. <!-- feedback: Incorrecto. El texto no habla de laboratorios ni de mascotas. -->
+- [x] D) la cantidad de mariposas refleja la salud de los bosques donde se refugian. <!-- feedback: Correcto. La paráfrasis conserva el sentido: si el bosque está sano, la población de monarcas lo muestra. -->
+- [ ] C) los científicos usan a las mariposas como mascotas de laboratorio. <!-- feedback: Incorrecto. El texto no habla de laboratorios ni de mascotas. -->
 
 ### Explicacion Pedagogica
 Parafrasear la metáfora implica traducirla a lenguaje directo: la población de monarcas funciona como un indicador de la salud del ecosistema del bosque.
@@ -158,8 +158,8 @@ Cada año, al comenzar el invierno, millones de mariposas monarca llegan a los b
 En la frase "millones de mariposas monarca llegan a los bosques", la palabra "colonias" se refiere a:
 
 ### Opciones
-- [ ] A) Pueblos fundados por los visitantes. <!-- feedback: Incorrecto. No se trata de asentamientos humanos. -->
-- [x] B) Grandes grupos de mariposas que permanecen juntas. <!-- feedback: Correcto. En el contexto, las colonias son las agrupaciones de mariposas posadas en los árboles. -->
+- [ ] B) Pueblos fundados por los visitantes. <!-- feedback: Incorrecto. No se trata de asentamientos humanos. -->
+- [x] A) Grandes grupos de mariposas que permanecen juntas. <!-- feedback: Correcto. En el contexto, las colonias son las agrupaciones de mariposas posadas en los árboles. -->
 - [ ] C) Paquetes turísticos organizados. <!-- feedback: Incorrecto. El contexto habla de mariposas, no de servicios. -->
 - [ ] D) Especies de árboles de la reserva. <!-- feedback: Incorrecto. Las colonias no son vegetación. -->
 
@@ -179,8 +179,8 @@ La ruta migratoria de la mariposa monarca no la completa un solo individuo. En p
 En el artículo, ¿qué significa que una mariposa "retrasa su reproducción"?
 
 ### Opciones
-- [ ] A) Que deja de reproducirse para siempre. <!-- feedback: Incorrecto. El retraso es temporal, no definitivo. -->
-- [x] B) Que pospone poner huevos hasta después del viaje. <!-- feedback: Correcto. La generación migratoria acumula reservas y reproduce primero su viaje, no su descendencia. -->
+- [ ] B) Que deja de reproducirse para siempre. <!-- feedback: Incorrecto. El retraso es temporal, no definitivo. -->
+- [x] A) Que pospone poner huevos hasta después del viaje. <!-- feedback: Correcto. La generación migratoria acumula reservas y reproduce primero su viaje, no su descendencia. -->
 - [ ] C) Que se reproduce más de una vez por semana. <!-- feedback: Incorrecto. El texto no describe esa frecuencia. -->
 - [ ] D) Que muere antes de reproducirse. <!-- feedback: Incorrecto. Al final de la primavera esas mariposas sí ponen sus huevos. -->
 
@@ -200,8 +200,8 @@ La ruta migratoria de la mariposa monarca no la completa un solo individuo. En p
 En la frase "Esa generación, llamada por algunos científicos la generación Methuselah", ¿a qué generación se refiere el demostrativo "Esa"?
 
 ### Opciones
-- [ ] A) A las generaciones de verano que viven pocas semanas. <!-- feedback: Incorrecto. "Esa" remite a la generación recién descrita, no a las anteriores. -->
-- [x] B) A la última generación del año, la que retrasa su reproducción y migra. <!-- feedback: Correcto. "Esa" retoma la generación mencionada en la oración anterior. -->
+- [ ] B) A las generaciones de verano que viven pocas semanas. <!-- feedback: Incorrecto. "Esa" remite a la generación recién descrita, no a las anteriores. -->
+- [x] A) A la última generación del año, la que retrasa su reproducción y migra. <!-- feedback: Correcto. "Esa" retoma la generación mencionada en la oración anterior. -->
 - [ ] C) A los científicos que estudian a la mariposa. <!-- feedback: Incorrecto. "Esa generación" no puede referirse a personas. -->
 - [ ] D) A los santuarios de oyamel del centro de México. <!-- feedback: Incorrecto. El demostrativo acompaña a "generación". -->
 
@@ -222,8 +222,8 @@ Cada año, al comenzar el invierno, millones de mariposas monarca llegan a los b
 
 ### Opciones
 - [ ] A) Añadir otro ejemplo de festejo. <!-- feedback: Incorrecto. No suma un ejemplo. -->
-- [x] B) Marcar un contraste entre la celebración y los riesgos que la acompañan. <!-- feedback: Correcto. El conector opone la fiesta de la llegada a la advertencia sobre las amenazas. -->
-- [ ] C) Indicar una consecuencia lógica de la migración. <!-- feedback: Incorrecto. No expresa consecuencia. -->
+- [x] C) Marcar un contraste entre la celebración y los riesgos que la acompañan. <!-- feedback: Correcto. El conector opone la fiesta de la llegada a la advertencia sobre las amenazas. -->
+- [ ] B) Indicar una consecuencia lógica de la migración. <!-- feedback: Incorrecto. No expresa consecuencia. -->
 - [ ] D) Ordenar cronológicamente las estaciones del año. <!-- feedback: Incorrecto. No organiza una secuencia temporal. -->
 
 ### Explicacion Pedagogica
@@ -284,9 +284,9 @@ La ruta migratoria de la mariposa monarca no la completa un solo individuo. En p
 Si ninguna mariposa completa el viaje de ida y vuelta, ¿qué se infiere sobre la migración?
 
 ### Opciones
-- [ ] A) Que cada mariposa nace sabiendo la ruta completa por experiencia propia. <!-- feedback: Incorrecto. Ninguna lo recorre completo, por lo que no puede aprenderlo por experiencia. -->
-- [ ] B) Que el viaje solo ocurre cada varias décadas. <!-- feedback: Incorrecto. La migración es anual. -->
-- [x] C) Que la ruta se transmite de generación en generación mediante mecanismos heredados. <!-- feedback: Correcto. El texto lo dice con la metáfora de "una memoria escrita en el instinto". -->
+- [ ] B) Que cada mariposa nace sabiendo la ruta completa por experiencia propia. <!-- feedback: Incorrecto. Ninguna lo recorre completo, por lo que no puede aprenderlo por experiencia. -->
+- [ ] C) Que el viaje solo ocurre cada varias décadas. <!-- feedback: Incorrecto. La migración es anual. -->
+- [x] A) Que la ruta se transmite de generación en generación mediante mecanismos heredados. <!-- feedback: Correcto. El texto lo dice con la metáfora de "una memoria escrita en el instinto". -->
 - [ ] D) Que las mariposas migratorias son guiadas por los científicos. <!-- feedback: Incorrecto. No hay intervención humana en la guía. -->
 
 ### Explicacion Pedagogica
@@ -307,8 +307,8 @@ Cada año, al comenzar el invierno, millones de mariposas monarca llegan a los b
 ### Opciones
 - [ ] A) Presentar una hipótesis científica sin comprobar. <!-- feedback: Incorrecto. No se formula una hipótesis de investigación. -->
 - [ ] B) Describir el paisaje de la reserva. <!-- feedback: Incorrecto. No hay descripción paisajística final. -->
-- [x] C) Cerrar el texto ampliando el sentido del tema: proteger la mariposa es proteger los bosques. <!-- feedback: Correcto. La conclusión eleva el motivo de la conservación a una decisión de futuro. -->
-- [ ] D) Introducir una nueva especie migratoria. <!-- feedback: Incorrecto. No se introduce otra especie. -->
+- [x] D) Cerrar el texto ampliando el sentido del tema: proteger la mariposa es proteger los bosques. <!-- feedback: Correcto. La conclusión eleva el motivo de la conservación a una decisión de futuro. -->
+- [ ] C) Introducir una nueva especie migratoria. <!-- feedback: Incorrecto. No se introduce otra especie. -->
 
 ### Explicacion Pedagogica
 La estructura de la nota es: presentación del fenómeno, desarrollo con datos y cierre valorativo. La última oración concluye ampliando el tema: la protección de la mariposa equivale a la protección de los bosques templados.
@@ -327,8 +327,8 @@ Cada año, al comenzar el invierno, millones de mariposas monarca llegan a los b
 
 ### Opciones
 - [ ] A) Indiferente, pues solo describe datos sin tomar partido. <!-- feedback: Incorrecto. La conclusión toma partido claramente. -->
-- [x] B) Comprometida y favorable a la protección del bosque. <!-- feedback: Correcto. El autor valora la llegada de la monarca y llama a proteger los santuarios. -->
-- [ ] C) Contraria, pues considera que el turismo destruye todo. <!-- feedback: Incorrecto. El autor reconoce beneficios del turismo para las comunidades. -->
+- [x] C) Comprometida y favorable a la protección del bosque. <!-- feedback: Correcto. El autor valora la llegada de la monarca y llama a proteger los santuarios. -->
+- [ ] B) Contraria, pues considera que el turismo destruye todo. <!-- feedback: Incorrecto. El autor reconoce beneficios del turismo para las comunidades. -->
 - [ ] D) Escéptica, pues duda de que las mariposas existan. <!-- feedback: Incorrecto. El texto da por real la migración. -->
 
 ### Explicacion Pedagogica
@@ -347,8 +347,8 @@ El Comité de Conservación de la Reserva convoca a jóvenes de entre 18 y 25 a�
 Si una joven de Guadalajara no está registrada en Toluca, Morelia ni Ciudad de México, ¿qué se infiere de la convocatoria?
 
 ### Opciones
-- [ ] A) Que será aceptada automáticamente por venir de otra ciudad. <!-- feedback: Incorrecto. La convocatoria no establece esa ventaja. -->
-- [x] B) Que en principio el llamado se dirige a jóvenes de las tres ciudades señaladas. <!-- feedback: Correcto. La convocatoria explicita esas procedencias, lo que sugiere una convocatoria regional. -->
+- [ ] B) Que será aceptada automáticamente por venir de otra ciudad. <!-- feedback: Incorrecto. La convocatoria no establece esa ventaja. -->
+- [x] A) Que en principio el llamado se dirige a jóvenes de las tres ciudades señaladas. <!-- feedback: Correcto. La convocatoria explicita esas procedencias, lo que sugiere una convocatoria regional. -->
 - [ ] C) Que no podrá participar nunca, sin importar las circunstancias. <!-- feedback: Incorrecto. El texto no establece una exclusión absoluta; solo señala el perfil buscado. -->
 - [ ] D) Que deberá presentar un examen médico obligatorio. <!-- feedback: Incorrecto. No se menciona ningún examen médico. -->
 
@@ -369,8 +369,8 @@ El Comité de Conservación de la Reserva convoca a jóvenes de entre 18 y 25 a�
 
 ### Opciones
 - [ ] A) La promesa de una constancia con valor curricular. <!-- feedback: Incorrecto. Un beneficio no aumenta la confiabilidad del aviso. -->
-- [x] B) El nombre de una institución responsable y datos de contacto verificables. <!-- feedback: Correcto. Identificar al emisor y permitir verificar la convocatoria la vuelve más confiable. -->
-- [ ] C) El uso de letras de colores llamativos. <!-- feedback: Incorrecto. El diseño no aporta confiabilidad. -->
+- [x] C) El nombre de una institución responsable y datos de contacto verificables. <!-- feedback: Correcto. Identificar al emisor y permitir verificar la convocatoria la vuelve más confiable. -->
+- [ ] B) El uso de letras de colores llamativos. <!-- feedback: Incorrecto. El diseño no aporta confiabilidad. -->
 - [ ] D) La afirmación de que el cupo es limitado. <!-- feedback: Incorrecto. La restricción de cupo no es prueba de legitimidad. -->
 
 ### Explicacion Pedagogica
@@ -389,9 +389,9 @@ Cada año, al comenzar el invierno, millones de mariposas monarca llegan a los b
 De las siguientes afirmaciones, ¿cuál es un hecho verificable y no una opinión?
 
 ### Opciones
-- [x] A) Las mariposas monarca migran cada año desde el sur de Canadá y el norte de Estados Unidos hacia México. <!-- feedback: Correcto. Es un fenómeno documentado y comprobable. -->
-- [ ] B) Proteger los santuarios es una decisión sobre el futuro del país. <!-- feedback: Incorrecto. Es una valoración del autor. -->
-- [ ] C) La llegada de la monarca debería celebrarse con más fiestas. <!-- feedback: Incorrecto. Expresa un deseo o juicio personal. -->
+- [x] C) Las mariposas monarca migran cada año desde el sur de Canadá y el norte de Estados Unidos hacia México. <!-- feedback: Correcto. Es un fenómeno documentado y comprobable. -->
+- [ ] A) Proteger los santuarios es una decisión sobre el futuro del país. <!-- feedback: Incorrecto. Es una valoración del autor. -->
+- [ ] B) La llegada de la monarca debería celebrarse con más fiestas. <!-- feedback: Incorrecto. Expresa un deseo o juicio personal. -->
 - [ ] D) Los santuarios son el lugar más hermoso del mundo. <!-- feedback: Incorrecto. Es una apreciación subjetiva. -->
 
 ### Explicacion Pedagogica
@@ -410,8 +410,8 @@ La ruta migratoria de la mariposa monarca no la completa un solo individuo. En p
 El autor compara la migración con "una memoria escrita en el instinto". ¿Qué implica esa metáfora?
 
 ### Opciones
-- [ ] A) Que las mariposas recuerdan sus vidas anteriores. <!-- feedback: Incorrecto. La metáfora no alude a vidas pasadas ni a recuerdos conscientes. -->
-- [x] B) Que la información de la ruta está incorporada en el comportamiento heredado, sin aprendizaje previo. <!-- feedback: Correcto. "Memoria en el instinto" sugiere una pauta innata que se transmite entre generaciones. -->
+- [ ] B) Que las mariposas recuerdan sus vidas anteriores. <!-- feedback: Incorrecto. La metáfora no alude a vidas pasadas ni a recuerdos conscientes. -->
+- [x] A) Que la información de la ruta está incorporada en el comportamiento heredado, sin aprendizaje previo. <!-- feedback: Correcto. "Memoria en el instinto" sugiere una pauta innata que se transmite entre generaciones. -->
 - [ ] C) Que los científicos escriben bitácoras de viaje. <!-- feedback: Incorrecto. La memoria no pertenece a los científicos. -->
 - [ ] D) Que las mariposas pueden leer mapas impresos. <!-- feedback: Incorrecto. Es una lectura figurada de la palabra "memoria". -->
 
@@ -432,9 +432,9 @@ Como lector crítico, ¿qué limitación informativa presenta la nota?
 
 ### Opciones
 - [ ] A) No mencionar el color naranja de las alas de la mariposa. <!-- feedback: Incorrecto. Es un detalle irrelevante para la función informativa de la nota. -->
-- [x] B) No ofrecer cifras ni fuentes verificables sobre la magnitud de las amenazas. <!-- feedback: Correcto. La nota afirma que las amenazas reducen el bosque, pero sin datos ni referencias que permitan comprobarlo. -->
-- [ ] C) No indicar el horario de apertura de los santuarios. <!-- feedback: Incorrecto. La nota no tiene esa función de servicio práctico. -->
-- [ ] D) No enlistar los nombres de todos los visitantes. <!-- feedback: Incorrecto. Es un dato ajeno al propósito del texto. -->
+- [x] D) No ofrecer cifras ni fuentes verificables sobre la magnitud de las amenazas. <!-- feedback: Correcto. La nota afirma que las amenazas reducen el bosque, pero sin datos ni referencias que permitan comprobarlo. -->
+- [ ] B) No indicar el horario de apertura de los santuarios. <!-- feedback: Incorrecto. La nota no tiene esa función de servicio práctico. -->
+- [ ] C) No enlistar los nombres de todos los visitantes. <!-- feedback: Incorrecto. Es un dato ajeno al propósito del texto. -->
 
 ### Explicacion Pedagogica
 La lectura crítica evalúa la solidez informativa: la nota cumple su función divulgativa, pero carece de datos cuantificables y fuentes citadas sobre la tala, las sequías y los plaguicidas, lo que limita su valor como evidencia.

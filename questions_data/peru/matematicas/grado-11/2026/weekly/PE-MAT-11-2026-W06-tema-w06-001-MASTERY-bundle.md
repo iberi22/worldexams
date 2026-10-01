@@ -30,11 +30,11 @@ creador: "Jules-Agent"
 Si se cumple que $x + 3 = 6$, ¿cuál es el valor correspondiente del número real $x$?
 
 ### Opciones
-- [x] A) $3$
+- [x] C) $3$
   <!-- feedback: Correcto. Despejando obtenemos la diferencia exacta. -->
-- [ ] B) $9$
+- [ ] A) $9$
   <!-- feedback: Incorrecto. Se sumaron las constantes en lugar de restar. -->
-- [ ] C) $5$
+- [ ] B) $5$
   <!-- feedback: Incorrecto. Error de cálculo aritmético. -->
 - [ ] D) $1$
   <!-- feedback: Incorrecto. Error de signo al transponer términos. -->
@@ -55,13 +55,13 @@ Para hallar el valor de $x$, restamos 3 a ambos lados de la ecuación: $x = 6 - 
 ¿Cuál es el elemento neutro de la multiplicación en el conjunto de los números reales?
 
 ### Opciones
-- [x] A) $1$
+- [x] D) $1$
   <!-- feedback: Correcto. El número 1 es el elemento neutro multiplicativo porque para cualquier real $a$, $a \cdot 1 = a$. -->
-- [ ] B) $0$
+- [ ] A) $0$
   <!-- feedback: Incorrecto. Cero es el elemento neutro de la adición, no de la multiplicación. -->
-- [ ] C) $-1$
+- [ ] B) $-1$
   <!-- feedback: Incorrecto. Al multiplicar por -1 cambia el signo del número. -->
-- [ ] D) No existe
+- [ ] C) No existe
   <!-- feedback: Incorrecto. Sí existe y es único en el conjunto real. -->
 
 ### Explicacion Pedagogica
@@ -80,11 +80,11 @@ Por definición, el elemento neutro multiplicativo en los reales es el número 1
 Dada la ecuación lineal $2x + 4 = 14$, determine cuál de los siguientes pasos describe su resolución correcta.
 
 ### Opciones
-- [x] A) Restar 4 a ambos miembros y luego dividir entre 2, obteniendo $x = 5$.
+- [x] C) Restar 4 a ambos miembros y luego dividir entre 2, obteniendo $x = 5$.
   <!-- feedback: Correcto. Esta secuencia de pasos cancela el término independiente 4 y luego el coeficiente 2. -->
-- [ ] B) Dividir entre 2 antes de restar 4, lo cual es incorrecto.
+- [ ] A) Dividir entre 2 antes de restar 4, lo cual es incorrecto.
   <!-- feedback: Incorrecto. Si dividimos entre 2 primero, tendríamos que dividir también el término independiente 4. -->
-- [ ] C) Restar 2 a ambos miembros, lo cual es incorrecto.
+- [ ] B) Restar 2 a ambos miembros, lo cual es incorrecto.
   <!-- feedback: Incorrecto. El número 2 está multiplicando a la variable, no sumando. -->
 - [ ] D) Sumar 4 a ambos lados de la ecuación lineal.
   <!-- feedback: Incorrecto. Se debe restar 4 a ambos lados para anular el término sumado. -->
@@ -130,9 +130,9 @@ El descuento es de 50\% de S/ 300, lo cual equivale a S/ 150.00. Restando esto d
 Halle el valor de la expresión con potencias de base común: $E = \frac{4^{b+2}}{4^{b}}$.
 
 ### Opciones
-- [x] A) $16$
+- [x] B) $16$
   <!-- feedback: Correcto. Restando exponentes obtenemos la potencia al cuadrado de la base. -->
-- [ ] B) $4$
+- [ ] A) $4$
   <!-- feedback: Incorrecto. Error de simplificación al restar exponentes. -->
 - [ ] C) $24$
   <!-- feedback: Incorrecto. Se multiplicaron base y exponente de forma equivocada. -->
@@ -155,13 +155,13 @@ Por leyes de exponentes de la división de bases iguales, restamos el exponente 
 Si se sabe que $2x < 6$, determine el conjunto solución expresado como intervalo real de la variable $x$.
 
 ### Opciones
-- [x] A) $\langle -\infty, 3 \rangle$
+- [x] D) $\langle -\infty, 3 \rangle$
   <!-- feedback: Correcto. Al dividir entre el número positivo 2 se mantiene el sentido, resultando $x < 3$. -->
-- [ ] B) $\langle 3, +\infty \rangle$
+- [ ] A) $\langle 3, +\infty \rangle$
   <!-- feedback: Incorrecto. Se invirtió erróneamente el sentido de la inecuación lineal. -->
-- [ ] C) $[ -\infty, 3 ]$
+- [ ] B) $[ -\infty, 3 ]$
   <!-- feedback: Incorrecto. El extremo infinito nunca es cerrado y la inecuación es estricta. -->
-- [ ] D) $\langle -\infty, 3 ]$
+- [ ] C) $\langle -\infty, 3 ]$
   <!-- feedback: Incorrecto. Al ser menor estricto ($<$), el extremo superior debe ser abierto. -->
 
 ### Explicacion Pedagogica
@@ -180,13 +180,13 @@ Dividimos ambos miembros de la inecuación lineal entre el número positivo 2: $
 Una persona en el mercado gasta S/ 18 en frutas y S/ 24 en verduras. Si pagó con un billete de S/ 100, ¿cuánto dinero recibe de vuelto en soles?
 
 ### Opciones
-- [x] A) S/ 58
+- [x] D) S/ 58
   <!-- feedback: Correcto. Restamos el gasto total de la denominación del billete de pago. -->
-- [ ] B) S/ 63
+- [ ] A) S/ 63
   <!-- feedback: Incorrecto. Error en la suma de los consumos realizados. -->
-- [ ] C) S/ 82
+- [ ] B) S/ 82
   <!-- feedback: Incorrecto. No se restó el gasto de las verduras. -->
-- [ ] D) S/ 53
+- [ ] C) S/ 53
   <!-- feedback: Incorrecto. Error aritmético en la sustracción. -->
 
 ### Explicacion Pedagogica
@@ -355,9 +355,9 @@ Para que la función racional esté definida en el campo real, el denominador de
 Determine el valor numérico del polinomio cuadrático $P(y) = y^2 - 7y + 12$ cuando $y = 4$.
 
 ### Opciones
-- [x] A) $0$
+- [x] B) $0$
   <!-- feedback: Correcto. Evaluando el polinomio para y = a resulta cero. -->
-- [ ] B) $2$
+- [ ] A) $2$
   <!-- feedback: Incorrecto. Error de cálculo en los productos parciales. -->
 - [ ] C) $24$
   <!-- feedback: Incorrecto. Error al evaluar o transponer los términos del trinomio. -->
@@ -382,11 +382,11 @@ $\begin{cases} x + y = 6 \\ x - y = 2 \end{cases}$
 Indique el valor obtenido para la variable $x$.
 
 ### Opciones
-- [x] A) $4$
+- [x] C) $4$
   <!-- feedback: Correcto. Sumando ambas ecuaciones para eliminar la variable y. -->
-- [ ] B) $2$
+- [ ] A) $2$
   <!-- feedback: Incorrecto. Este corresponde al valor de la variable y, no de x. -->
-- [ ] C) $6$
+- [ ] B) $6$
   <!-- feedback: Incorrecto. Error de resolución al sustituir o sumar los miembros. -->
 - [ ] D) $5.0$
   <!-- feedback: Incorrecto. Corresponde a la diferencia de las variables, no al valor de x. -->
@@ -407,9 +407,9 @@ Sumamos miembro a miembro las dos ecuaciones lineales del sistema para eliminar 
 ¿Cuál es el valor del discriminante ($\Delta$) de la ecuación de segundo grado $x^2 - 8x + 15 = 0$?
 
 ### Opciones
-- [x] A) $4$
+- [x] B) $4$
   <!-- feedback: Correcto. El discriminante se calcula como b^2 - 4ac. -->
-- [ ] B) $6$
+- [ ] A) $6$
   <!-- feedback: Incorrecto. Error al restar el término cuadrático del discriminante. -->
 - [ ] C) $2$
   <!-- feedback: Incorrecto. Error en los signos del producto de los coeficientes. -->
@@ -432,13 +432,13 @@ El discriminante de una ecuación cuadrática is b^2 - 4ac. Aquí es 64 - 4(15) 
 Si se sabe que la suma de un número real y su inverso multiplicativo es igual a 4.25, determine el producto exacto de dichos números.
 
 ### Opciones
-- [x] A) $1$
+- [x] D) $1$
   <!-- feedback: Correcto. Por definición, el producto de cualquier número real no nulo y su inverso multiplicativo es 1. -->
-- [ ] B) $4$
+- [ ] A) $4$
   <!-- feedback: Incorrecto. Ese es el número original, no el producto con su recíproco. -->
-- [ ] C) $0.25$
+- [ ] B) $0.25$
   <!-- feedback: Incorrecto. Corresponde al inverso aditivo o multiplicativo individual. -->
-- [ ] D) No se puede determinar
+- [ ] C) No se puede determinar
   <!-- feedback: Incorrecto. El producto es constante e independiente del número real elegido. -->
 
 ### Explicacion Pedagogica
@@ -457,13 +457,13 @@ Por definición del inverso multiplicativo, el producto de un número no nulo y 
 Halle el valor de la suma de las raíces de la ecuación cuadrática de coeficientes reales: $x^2 - 5x + 6 = 0$ utilizando las relaciones de Cardano-Vieta.
 
 ### Opciones
-- [x] A) $5$
+- [x] D) $5$
   <!-- feedback: Correcto. Por Cardano-Vieta, la suma de raíces es -b/a. -->
-- [ ] B) $-5$
+- [ ] A) $-5$
   <!-- feedback: Incorrecto. Olvidó cambiar el signo del término lineal. -->
-- [ ] C) $6$
+- [ ] B) $6$
   <!-- feedback: Incorrecto. Este corresponde al producto de las raíces. -->
-- [ ] D) $9.0$
+- [ ] C) $9.0$
   <!-- feedback: Incorrecto. Error aritmético al aplicar la fórmula. -->
 
 ### Explicacion Pedagogica
@@ -482,9 +482,9 @@ Las relaciones de Cardano-Vieta establecen que para una ecuación cuadrática ax
 Determine el área máxima que puede encerrar un terreno rectangular de perímetro constante e igual a $28$ metros.
 
 ### Opciones
-- [x] A) $49$ metros cuadrados
+- [x] B) $49$ metros cuadrados
   <!-- feedback: Correcto. El área máxima para un perímetro dado se logra cuando la figura es un cuadrado. -->
-- [ ] B) $45$ metros cuadrados
+- [ ] A) $45$ metros cuadrados
   <!-- feedback: Incorrecto. Corresponde a una configuración rectangular desigual subóptima. -->
 - [ ] C) $53$ metros cuadrados
   <!-- feedback: Incorrecto. Un perímetro de la magnitud dada no puede encerrar un área rectangular de valor superior al máximo. -->
@@ -507,11 +507,11 @@ Sean los lados x e y. El perímetro es 2(x+y) = 28 \Rightarrow x+y = 14. El áre
 Si se define la función real $f(x) = x^2 - 8x + 21$, determine las coordenadas del vértice $(h, k)$ de su representación gráfica parabólica.
 
 ### Opciones
-- [x] A) $(4, 5)$
+- [x] C) $(4, 5)$
   <!-- feedback: Correcto. Completando cuadrados: f(x) = (x - a)^2 + b. -->
-- [ ] B) $(-4, 5)$
+- [ ] A) $(-4, 5)$
   <!-- feedback: Incorrecto. Error de signo al despejar la coordenada horizontal h. -->
-- [ ] C) $(4, -5)$
+- [ ] B) $(4, -5)$
   <!-- feedback: Incorrecto. Error de signo al determinar la coordenada vertical k. -->
 - [ ] D) $(8, 5)$
   <!-- feedback: Incorrecto. Coordenadas mal identificadas. -->

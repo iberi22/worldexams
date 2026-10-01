@@ -34,9 +34,9 @@ Este bundle contiene 20 preguntas integradoras de preparación tipo **Saber 11 (
 ¿Cuál es el valor final en pesos colombianos que debe pagar un cliente por el artículo con el descuento aplicado?
 
 ### Opciones
-- [x] A) 64,000 COP
+- [x] B) 64,000 COP
   <!-- feedback: Descuento = 80000 * 0.20 = 16000 COP. Precio final = 80000 - 16000 = 64000 COP. -->
-- [ ] B) 16,000 COP
+- [ ] A) 16,000 COP
   <!-- feedback: Corresponde al valor del descuento en pesos, no al precio final pagado. -->
 - [ ] C) 72,000 COP
   <!-- feedback: Calculó un descuento del 10% en lugar del 20%. -->
@@ -80,9 +80,9 @@ El área de una región rectangular viene dada por el producto de sus dos dimens
 ¿Cuál es el promedio (media aritmética) de los puntajes del grupo?
 
 ### Opciones
-- [x] A) 80
+- [x] B) 80
   <!-- feedback: Promedio = (60 + 70 + 80 + 90 + 100) / 5 = 400 / 5 = 80. -->
-- [ ] B) 75
+- [ ] A) 75
   <!-- feedback: Calculó (60 + 90)/2 de forma errónea. -->
 - [ ] C) 85
   <!-- feedback: Sumó incorrectamente el total de datos. -->
@@ -149,9 +149,9 @@ El volumen de un cilindro circular recto se calcula con la fórmula $V = \pi r^2
 ¿Qué distancia total en kilómetros recorrió el vehículo durante ese trayecto?
 
 ### Opciones
-- [x] A) 120 km
+- [x] B) 120 km
   <!-- feedback: Distancia d = velocidad * tiempo = 80 km/h * 1.5 h = 120 km. -->
-- [ ] B) 100 km
+- [ ] A) 100 km
   <!-- feedback: Sumó 80 + 20 de forma errónea. -->
 - [ ] C) 160 km
   <!-- feedback: Calculó el recorrido para 2 horas completas. -->
@@ -172,13 +172,13 @@ Bajo movimiento rectilíneo uniforme, la distancia es el producto de la velocida
 ¿Cuál es el rango intercuartílico (RIC) de este conjunto de puntajes?
 
 ### Opciones
-- [x] A) 120
+- [x] D) 120
   <!-- feedback: RIC = Q3 - Q1 = 340 - 220 = 120. -->
-- [ ] B) 270
+- [ ] A) 270
   <!-- feedback: Corresponde al rango total de los datos (Máximo - Mínimo = 420 - 150 = 270). -->
-- [ ] C) 60
+- [ ] B) 60
   <!-- feedback: Calculó Mediana - Q1 = 280 - 220 = 60. -->
-- [ ] D) 280
+- [ ] C) 280
   <!-- feedback: Corresponde a la mediana del conjunto. -->
 
 ### Explicacion Pedagogica
@@ -242,9 +242,9 @@ $6^2 + b^2 = 10^2 Rightarrow 36 + b^2 = 100 Rightarrow b^2 = 64 Rightarrow b = \
 ¿Cuál es la probabilidad de que una familia seleccionada al azar compre fruta O verdura?
 
 ### Opciones
-- [x] A) 0.8
+- [x] B) 0.8
   <!-- feedback: P(F U V) = P(F) + P(V) - P(F n V) = 0.7 + 0.6 - 0.5 = 0.8. -->
-- [ ] B) 1.3
+- [ ] A) 1.3
   <!-- feedback: Sumó las probabilidades simples 0.7 + 0.6 sin restar la intersección (obteniendo un valor imposible > 1). -->
 - [ ] C) 0.6
   <!-- feedback: Seleccionó solo la probabilidad de comprar verdura. -->
@@ -265,11 +265,11 @@ Por regla general de adición de probabilidades: $P(F cup V) = P(F) + P(V) - P(F
 ¿Cuál es el valor del límite $lim_{x   o 2} f(x)$?
 
 ### Opciones
-- [x] A) 4
+- [x] C) 4
   <!-- feedback: Factorizando la diferencia de cuadrados: (x^2 - 4)/(x - 2) = (x - 2)(x + 2)/(x - 2) = x + 2 para x != 2. Evaluación del límite: 2 + 2 = 4. -->
-- [ ] B) Indeterminado / No existe
+- [ ] A) Indeterminado / No existe
   <!-- feedback: Confundió la indeterminación 0/0 con la inexistencia del límite evitable. -->
-- [ ] C) 0
+- [ ] B) 0
   <!-- feedback: Evaluó únicamente el numerador en x = 2 sin simplificar. -->
 - [ ] D) 2
   <!-- feedback: Evaluó x = 2 directamente sin sumar. -->
@@ -289,9 +289,9 @@ $lim_{x   o 2} \frac{(x-2)(x+2)}{x-2} = lim_{x   o 2} (x+2) = 2 + 2 = 4$.
 ¿Cuál es la altura del poste de luz utilizando semejanza de triángulos?
 
 ### Opciones
-- [x] A) 6.00 metros
+- [x] B) 6.00 metros
   <!-- feedback: Razón de semejanza: h / 1.80 = 8.00 / 2.40 -> h = 1.80 * (8.00 / 2.40) = 1.80 * (10 / 3) = 6.00 metros. -->
-- [ ] B) 10.66 metros
+- [ ] A) 10.66 metros
   <!-- feedback: Invirtió la proporción calculando 8.00 * (2.40 / 1.80). -->
 - [ ] C) 7.20 metros
   <!-- feedback: Multiplicó 1.80 por 4 directamente. -->
@@ -313,11 +313,11 @@ $\frac{\text{Altura del poste}}{\text{Altura persona}} = \frac{\text{Sombra del 
 ¿En qué instante de tiempo $t$ en segundos el proyectil alcanza su altura máxima ($v(t) = 0$)?
 
 ### Opciones
-- [x] A) $t = 3$ segundos
+- [x] C) $t = 3$ segundos
   <!-- feedback: v(t) = s'(t) = -10t + 30. Igualando a cero: -10t + 30 = 0 -> 10t = 30 -> t = 3 s. -->
-- [ ] B) $t = 6$ segundos
+- [ ] A) $t = 6$ segundos
   <!-- feedback: Calculó el tiempo total de vuelo cuando regresa a la altura inicial. -->
-- [ ] C) $t = 5$ segundos
+- [ ] B) $t = 5$ segundos
   <!-- feedback: Confundió los coeficientes de la función. -->
 - [ ] D) $t = 1.5$ segundos
   <!-- feedback: Dividió 3 entre 2 de forma desacertada. -->
@@ -336,13 +336,13 @@ La altura máxima ocurre cuando la velocidad instantánea es nula: $v(t) = s'(t)
 ¿Qué porcentaje de estudiantes obtiene un puntaje SUPERIOR a 350 puntos ($mu + 2\sigma$)?
 
 ### Opciones
-- [x] A) 2.5%
+- [x] D) 2.5%
   <!-- feedback: P(X > 350) = P(Z > 2). Dado que P(-2 < Z < 2) es 95%, el área de las dos colas externas es 5%. Por simetría, la cola superior Z > 2 representa el 2.5%. -->
-- [ ] B) 5.0%
+- [ ] A) 5.0%
   <!-- feedback: Sumó las dos colas extremas superiores e inferiores sin dividir entre 2. -->
-- [ ] C) 16.0%
+- [ ] B) 16.0%
   <!-- feedback: Corresponde al área de la cola Z > 1 (superior a 300 puntos). -->
-- [ ] D) 97.5%
+- [ ] C) 97.5%
   <!-- feedback: Corresponde al porcentaje acumulado P(X < 350) en lugar del porcentaje superior. -->
 
 ### Explicacion Pedagogica
@@ -359,11 +359,11 @@ $Z = \frac{350 - 250}{50} = 2$. Por regla empírica, el intervalo $[-2, 2]$ cubr
 ¿Cuál es el área de este sector circular en metros cuadrados en términos de $pi$?
 
 ### Opciones
-- [x] A) $6\pi\text{ m}^2$
+- [x] C) $6\pi\text{ m}^2$
   <!-- feedback: Área sector = (theta / 360) * pi * r^2 = (60 / 360) * pi * 36 = (1/6) * 36 pi = 6 pi m^2. -->
-- [ ] B) $36\pi\text{ m}^2$
+- [ ] A) $36\pi\text{ m}^2$
   <!-- feedback: Corresponde al área del círculo completo sin aplicar la fracción del ángulo. -->
-- [ ] C) $12\pi\text{ m}^2$
+- [ ] B) $12\pi\text{ m}^2$
   <!-- feedback: Calculó (1/3) * 36 pi por error de ángulo. -->
 - [ ] D) $3\pi\text{ m}^2$
   <!-- feedback: Dividió 6 pi entre 2 por error. -->
@@ -382,11 +382,11 @@ El área de un sector circular es $A = \frac{  heta}{360^circ} \pi r^2 = \frac{6
 ¿Cuántas horas deben transcurrir para que la población inicial de 500 se transforme en 4,000 bacterias?
 
 ### Opciones
-- [x] A) 12 horas
+- [x] C) 12 horas
   <!-- feedback: 500 * 2^(t/4) = 4000 -> 2^(t/4) = 8 = 2^3 -> t/4 = 3 -> t = 12 horas. -->
-- [ ] B) 8 horas
+- [ ] A) 8 horas
   <!-- feedback: Calculó 2^2 = 4 ignorando que 4000/500 = 8. -->
-- [ ] C) 16 horas
+- [ ] B) 16 horas
   <!-- feedback: Calculó t/4 = 4. -->
 - [ ] D) 4 horas
   <!-- feedback: Corresponde al tiempo requerido para solo duplicar a 1000 bacterias. -->
@@ -405,11 +405,11 @@ $\frac{N(t)}{500} = \frac{4000}{500} Rightarrow 2^{t/4} = 8 Rightarrow 2^{t/4} =
 ¿Cuáles deben ser las dimensiones $x$ (ancho) y $y$ (largo) para MAXIMIZAR el área encerrada del cultivo?
 
 ### Opciones
-- [x] A) Ancho $x = 30$ metros y Largo $y = 60$ metros
+- [x] C) Ancho $x = 30$ metros y Largo $y = 60$ metros
   <!-- feedback: Restricción: 2x + y = 120 -> y = 120 - 2x. Área A(x) = x(120 - 2x) = 120x - 2x^2. Máximo en x = -120 / (2*-2) = 30 m. Luego y = 120 - 60 = 60 m. Área máx = 1800 m^2. -->
-- [ ] B) Ancho $x = 40$ metros y Largo $y = 40$ metros
+- [ ] A) Ancho $x = 40$ metros y Largo $y = 40$ metros
   <!-- feedback: Asumió un cuadrado cercando solo 3 lados (2x + y = 120 -> 3x = 120 -> x = 40, A = 1600 m^2 < 1800 m^2). -->
-- [ ] C) Ancho $x = 20$ metros y Largo $y = 80$ metros
+- [ ] B) Ancho $x = 20$ metros y Largo $y = 80$ metros
   <!-- feedback: Genera un área A = 20 * 80 = 1600 m^2, inferior al máximo óptimo. -->
 - [ ] D) Ancho $x = 15$ metros y Largo $y = 90$ metros
   <!-- feedback: Genera un área A = 15 * 90 = 1350 m^2. -->
@@ -431,13 +431,13 @@ $y = 120 - 2(30) = 60$ metros. El área máxima es $1,800\text{ m}^2$.
 ¿Cuál es la relación entre el volumen del cono ($V_{cono}$) y el volumen del cilindro ($V_{cilindro}$)?
 
 ### Opciones
-- [x] A) $V_{cono} = \frac{1}{3} V_{cilindro}$
+- [x] D) $V_{cono} = \frac{1}{3} V_{cilindro}$
   <!-- feedback: El volumen del cono es (1/3)*pi*r^2*h mientras que el del cilindro es pi*r^2*h, por lo que el cono equivale exactamente a un tercio del cilindro. -->
-- [ ] B) $V_{cono} = \frac{1}{2} V_{cilindro}$
+- [ ] A) $V_{cono} = \frac{1}{2} V_{cilindro}$
   <!-- feedback: Confundió el factor de volumen con la relación de áreas triangulares. -->
-- [ ] C) $V_{cono} = \frac{2}{3} V_{cilindro}$
+- [ ] B) $V_{cono} = \frac{2}{3} V_{cilindro}$
   <!-- feedback: Corresponde a la relación de volumen de una esfera inscrita en un cilindro. -->
-- [ ] D) $V_{cono} = V_{cilindro}$
+- [ ] C) $V_{cono} = V_{cilindro}$
   <!-- feedback: Asumió erróneamente que igual base e igual altura implican volúmenes iguales. -->
 
 ### Explicacion Pedagogica
@@ -454,11 +454,11 @@ Las fórmulas geométricas establecen $V_{cilindro} = \pi r^2 h$ y $V_{cono} = \
 ¿Cuál es la interpretación estadística correcta de este coeficiente $R^2$?
 
 ### Opciones
-- [x] A) El $81%$ de la variabilidad total de los ingresos es explicada por los años de escolaridad a través del modelo lineal.
+- [x] C) El $81%$ de la variabilidad total de los ingresos es explicada por los años de escolaridad a través del modelo lineal.
   <!-- feedback: El coeficiente R^2 mide la proporción de la varianza de la variable dependiente Y que es explicada por la variable independiente X. -->
-- [ ] B) El ingreso aumenta exactamente en 81,000 COP por cada año de escolaridad.
+- [ ] A) El ingreso aumenta exactamente en 81,000 COP por cada año de escolaridad.
   <!-- feedback: La tasa de cambio viene dada por la pendiente m = 3.5 (3,500 COP por año), no por R^2. -->
-- [ ] C) La probabilidad de que una persona estudie es del 81%.
+- [ ] B) La probabilidad de que una persona estudie es del 81%.
   <!-- feedback: Interpretó R^2 como una probabilidad marginal. -->
 - [ ] D) Existe un 19% de error en la recolección de los datos de la encuesta.
   <!-- feedback: R^2 mide ajuste del modelo, no error de digitación o recolección de campo. -->
@@ -477,11 +477,11 @@ El coeficiente de determinación $R^2$ cuantifica el porcentaje de la varianza t
 ¿Cuál es el valor del área encerrada entre ambas curvas?
 
 ### Opciones
-- [x] A) $\frac{4}{3}$ unidades cuadradas
+- [x] C) $\frac{4}{3}$ unidades cuadradas
   <!-- feedback: Puntos de corte: x^2 = 2x -> x(x - 2) = 0 -> x = 0 y x = 2. Área = int_0^2 (2x - x^2) dx = [x^2 - x^3/3]_0^2 = (4 - 8/3) = 4/3. -->
-- [ ] B) 2 unidades cuadradas
+- [ ] A) 2 unidades cuadradas
   <!-- feedback: Calculó solo la integral de 2x de 0 a 2 [x^2]_0^2 = 4 sin restar la parábola. -->
-- [ ] C) $\frac{2}{3}$ unidades cuadradas
+- [ ] B) $\frac{2}{3}$ unidades cuadradas
   <!-- feedback: Dividió el área por 2 por un error de integración. -->
 - [ ] D) $\frac{8}{3}$ unidades cuadradas
   <!-- feedback: Sumó las integrales en lugar de restarlas. -->

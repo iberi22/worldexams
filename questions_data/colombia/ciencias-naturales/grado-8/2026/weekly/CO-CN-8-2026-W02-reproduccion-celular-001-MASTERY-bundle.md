@@ -52,11 +52,11 @@ La mitosis es el mecanismo de división celular somatico que conserva la dotacio
 ### Enunciado
 Cuál es la principal diferencia entre mitosis y meiosis en cuanto al número de divisiones celulares y de células hijas producidas?
 ### Opciones
-- [x] A) La mitosis realiza una división y produce dos células hijas; la meiosis realiza dos divisiones y produce cuatro células hijas.
+- [x] C) La mitosis realiza una división y produce dos células hijas; la meiosis realiza dos divisiones y produce cuatro células hijas.
   <!-- feedback: Correcto. Mitosis: 1 división, 2 células. Meiosis: 2 divisiones consecutivas, 4 células haploides. -->
-- [ ] B) La mitosis realiza dos divisiones y produce cuatro células hijas; la meiosis realiza una división y produce dos células hijas.
+- [ ] A) La mitosis realiza dos divisiones y produce cuatro células hijas; la meiosis realiza una división y produce dos células hijas.
   <!-- feedback: Incorrecto. Invertiste los procesos: la meiosis es la que requiere dos rondas de división. -->
-- [ ] C) Ambos procesos producen exactamente el mismo número de células hijas con la misma dotacion cromosomica.
+- [ ] B) Ambos procesos producen exactamente el mismo número de células hijas con la misma dotacion cromosomica.
   <!-- feedback: Incorrecto. La dotacion cromosomica y el número de células hijas son los rasgos distintivos entre ambos. -->
 - [ ] D) La mitosis solo ocurre en células sexuales y la meiosis solo en células somaticas.
   <!-- feedback: Incorrecto. Ocurre al contrario: mitosis en somaticas y meiosis en gonadicas para gametos. -->
@@ -72,13 +72,13 @@ Mitosis: 1 división nuclear $\to$ 2 células hijas diploides (2n). Meiosis: 2 d
 ### Enunciado
 Si esta célula entra en mitosis, cuantos cromosomas tendra cada célula hija al final de la división?
 ### Opciones
-- [x] A) 22 cromosomas en cada célula hija.
+- [x] D) 22 cromosomas en cada célula hija.
   <!-- feedback: Correcto. La mitosis conserva la dotacion cromosomica diploide de la célula madre (2n = 22). -->
-- [ ] B) 11 cromosomas en cada célula hija.
+- [ ] A) 11 cromosomas en cada célula hija.
   <!-- feedback: Incorrecto. La reduccion a la mitad (haploide) es caracteristica de la meiosis, no de la mitosis. -->
-- [ ] C) 44 cromosomas en cada célula hija.
+- [ ] B) 44 cromosomas en cada célula hija.
   <!-- feedback: Incorrecto. Implicaria una duplicacion no controlada del material genético. -->
-- [ ] D) 22 cromosomas solo en una célula hija y 0 en la otra.
+- [ ] C) 22 cromosomas solo en una célula hija y 0 en la otra.
   <!-- feedback: Incorrecto. La mitosis reparte equitativamente el material duplicado entre las dos hijas. -->
 ### Explicacion Pedagogica
 Durante la mitosis (fase S previa) el ADN se duplica y luego se reparte en partes iguales. Resultado: dos células hijas con la misma dotacion 2n de la progenitora.
@@ -92,11 +92,11 @@ Durante la mitosis (fase S previa) el ADN se duplica y luego se reparte en parte
 ### Enunciado
 Cual sera el número de cromosomas (n) de cada uno de los cuatro gametos finales producidos al terminar la meiosis?
 ### Opciones
-- [x] A) 11 cromosomas en cada gameto.
+- [x] C) 11 cromosomas en cada gameto.
   <!-- feedback: Correcto. La meiosis reduce la dotacion a la mitad: n = 22/2 = 11 cromosomas por célula haploide. -->
-- [ ] B) 22 cromosomas en cada gameto.
+- [ ] A) 22 cromosomas en cada gameto.
   <!-- feedback: Incorrecto. Esto seria el resultado de una mitosis, no de una meiosis. -->
-- [ ] C) 44 cromosomas en cada gameto.
+- [ ] B) 44 cromosomas en cada gameto.
   <!-- feedback: Incorrecto. Supera el número diploide y no corresponde a ninguna división normal. -->
 - [ ] D) Variable entre 0 y 22 cromosomas.
   <!-- feedback: Incorrecto. La meiosis regulada distribuye exactamente n cromosomas a cada gameto. -->
@@ -112,11 +112,11 @@ Meiosis reduce la dotacion: célula diploide 2n = 22 $\to$ cuatro células haplo
 ### Enunciado
 En cual fase de la mitosis ocurre la alineacion de los cromosomas en el ecuador de la célula, formando la placa metafasica?
 ### Opciones
-- [x] A) Metafase
+- [x] C) Metafase
   <!-- feedback: Correcto. En metafase los cromosomas se alinean en el plano ecuatorial unidos a las fibras del huso. -->
-- [ ] B) Profase
+- [ ] A) Profase
   <!-- feedback: Incorrecto. En profase los cromosomas se condensan pero aun no se alinean en el ecuador. -->
-- [ ] C) Anafase
+- [ ] B) Anafase
   <!-- feedback: Incorrecto. En anafase las cromatidas hermanas se separan y emigran a polos opuestos. -->
 - [ ] D) Telofase
   <!-- feedback: Incorrecto. En telofase los cromosomas se descondensan y se reconstruyen las nucleos hijas. -->
@@ -172,13 +172,13 @@ El huso mitotico es esencial para anclar y separar las cromatidas hermanas. Sin 
 ### Enunciado
 Cuál es el papel biologico fundamental de la meiosis en organismos con reproducción sexual?
 ### Opciones
-- [x] A) Generar gametos haploides (n) que al fecundarse restablecen la dotacion diploide (2n) de la especie.
+- [x] D) Generar gametos haploides (n) que al fecundarse restablecen la dotacion diploide (2n) de la especie.
   <!-- feedback: Correcto. La meiosis reduce el número cromosomico a la mitad para mantener constante la dotacion de la especie. -->
-- [ ] B) Duplicar el material genético para acelerar el crecimiento de los tejidos.
+- [ ] A) Duplicar el material genético para acelerar el crecimiento de los tejidos.
   <!-- feedback: Incorrecto. La duplicacion del ADN ocurre en interfase (fase S), no es la funcion de la meiosis. -->
-- [ ] C) Producir células somaticas identicas para renovar tejidos danados.
+- [ ] B) Producir células somaticas identicas para renovar tejidos danados.
   <!-- feedback: Incorrecto. Esa funcion la cumple la mitosis en células somaticas. -->
-- [ ] D) Eliminar completamente todo el material genético defectuoso de la linea germinal.
+- [ ] C) Eliminar completamente todo el material genético defectuoso de la linea germinal.
   <!-- feedback: Incorrecto. La meiosis recombina el material genético, pero no elimina de forma absoluta los alelos defectuosos. -->
 ### Explicacion Pedagogica
 La meiosis es esencial para la reproducción sexual: reduce a n la dotacion cromosomica y genera variabilidad genética por recombinacion.
@@ -212,11 +212,11 @@ Mitosis: células hijas 2n identicas. Meiosis: células hijas n con variabilidad
 ### Enunciado
 Cual de las siguientes afirmaciones justifica mejor por que la primera hipótesis es la aceptada cientificamente?
 ### Opciones
-- [x] A) Las mutaciones en protooncogenes y genes supresores de tumores desregulan el ciclo celular, provocando división celular descontrolada.
+- [x] C) Las mutaciones en protooncogenes y genes supresores de tumores desregulan el ciclo celular, provocando división celular descontrolada.
   <!-- feedback: Correcto. La desregulacion del ciclo celular por mutaciones oncogenicas es la causa conocida del cáncer. -->
-- [ ] B) La destruccion de la membrana celular impide la división celular y favorece los tumores.
+- [ ] A) La destruccion de la membrana celular impide la división celular y favorece los tumores.
   <!-- feedback: Incorrecto. Danar la membrana no causa división descontrolada, sino necrosis o muerte celular. -->
-- [ ] C) Los tumores aparecen exclusivamente por falta de mitosis en los tejidos.
+- [ ] B) Los tumores aparecen exclusivamente por falta de mitosis en los tejidos.
   <!-- feedback: Incorrecto. El cáncer se caracteriza por mitosis excesiva, no por ausencia de división. -->
 - [ ] D) Los agentes externos nunca influyen en el desarrollo de los tumores.
   <!-- feedback: Incorrecto. Carcinogenos externos (radiacion, químicos) pueden inducir mutaciones oncogenicas. -->
@@ -232,9 +232,9 @@ El cáncer es esencialmente una enfermedad de regulacion del ciclo celular: las 
 ### Enunciado
 Cual de las siguientes afirmaciones evalua correctamente la ventaja genética de reproducir asexualmente por estacas frente a la reproducción sexual por semillas en el cultivo del cafe?
 ### Opciones
-- [x] A) La reproducción asexual por estacas preserva exactamente el genotipo deseado, mientras que la sexual recombina los alelos y genera variabilidad.
+- [x] B) La reproducción asexual por estacas preserva exactamente el genotipo deseado, mientras que la sexual recombina los alelos y genera variabilidad.
   <!-- feedback: Correcto. El clon por estacas mantiene el genotipo; la semilla lo recombina geneticamente. -->
-- [ ] B) La reproducción asexual es siempre menos productiva que la sexual en cualquier cultivo.
+- [ ] A) La reproducción asexual es siempre menos productiva que la sexual en cualquier cultivo.
   <!-- feedback: Incorrecto. La productividad depende del genotipo, no del tipo de reproducción elegido. -->
 - [ ] C) La reproducción sexual por semillas nunca genera variabilidad genética.
   <!-- feedback: Incorrecto. La reproducción sexual es precisamente la principal fuente de variabilidad genética. -->
@@ -252,9 +252,9 @@ La clonacion asexual preserva el genotipo ventajoso. La reproducción sexual rec
 ### Enunciado
 Cual argumento científico respalda con mayor solidez la inclusion de esta educacion en una politica de prevencion del cáncer?
 ### Opciones
-- [x] A) Comprender la regulacion del ciclo celular permite identificar factores de riesgo y promover habitos que reducen mutaciones oncogenicas.
+- [x] B) Comprender la regulacion del ciclo celular permite identificar factores de riesgo y promover habitos que reducen mutaciones oncogenicas.
   <!-- feedback: Correcto. La educacion científica informada modifica conductas de riesgo (tabaco, radiacion UV, dieta). -->
-- [ ] B) Conocer la división celular garantiza por si sola que las personas no desarrollaran cáncer.
+- [ ] A) Conocer la división celular garantiza por si sola que las personas no desarrollaran cáncer.
   <!-- feedback: Incorrecto. El conocimiento no garantiza la ausencia de la enfermedad, solo reduce riesgos. -->
 - [ ] C) La educacion sobre división celular solo es relevante para los biologos, no para la ciudadania general.
   <!-- feedback: Incorrecto. La ciudadania informada adopta mejores habitos preventivos de salud. -->

@@ -38,9 +38,9 @@ Which word is used to introduce the very first action in a list of events?
 ### Opciones
 - [ ] A) Then
   <!-- feedback: Incorrect. This is for something that happens after. -->
-- [x] B) First
+- [x] C) First
   <!-- feedback: Correct! "First" introduces the beginning of a sequence. -->
-- [ ] C) Finally
+- [ ] B) Finally
   <!-- feedback: Incorrect. This is for the last event. -->
 - [ ] D) After that
   <!-- feedback: Incorrect. This indicates a subsequent action. -->
@@ -88,9 +88,9 @@ The student identifies the connector used to signal the end of a list or process
 ### Opciones
 - [ ] A) Finally
   <!-- feedback: Incorrect. You usually do more steps after putting cheese (like eating it). -->
-- [x] B) Then
+- [x] C) Then
   <!-- feedback: Correct! "Then" connects the first step to the next one. -->
-- [ ] C) First
+- [ ] B) First
   <!-- feedback: Incorrect. Taking the bread was the first step. -->
 - [ ] D) Before
   <!-- feedback: Incorrect. This would reverse the logical order. -->
@@ -114,9 +114,9 @@ Choose the most logical sequence of connectors.
 ### Opciones
 - [ ] A) Finally / First / Then
   <!-- feedback: Incorrect order. -->
-- [x] B) First / Then / Finally
+- [x] C) First / Then / Finally
   <!-- feedback: Correct! This follows the logical start, middle, and end. -->
-- [ ] C) Next / Finally / First
+- [ ] B) Next / Finally / First
   <!-- feedback: Incorrect order. -->
 - [ ] D) First / Finally / Then
   <!-- feedback: Incorrect order. -->
@@ -137,9 +137,9 @@ The student understands the standard structure of a three-step sequence.
 "Wash the fruit. ________, cut it into pieces. ________, put it in the blender with water and sugar."
 
 ### Opciones
-- [ ] A) First / Next
+- [ ] B) First / Next
   <!-- feedback: Incorrect. Washing was the first step, so the second cannot be "First". -->
-- [x] B) Next / After that
+- [x] A) Next / After that
   <!-- feedback: Correct! These two connectors work perfectly for middle steps in a sequence. -->
 - [ ] C) Finally / Then
   <!-- feedback: Incorrect. "Finally" cannot come before "Then" in a logical list. -->
@@ -188,9 +188,9 @@ The student applies reading strategies to extract chronological information usin
 "I prepared the slides last night. ________, I practiced the speech three times."
 
 ### Opciones
-- [ ] A) First
+- [ ] B) First
   <!-- feedback: Incorrect. Preparing slides was the first action mentioned. -->
-- [x] B) Afterward
+- [x] A) Afterward
   <!-- feedback: Correct! "Afterward" is a synonym for "After that" or "Next". -->
 - [ ] C) Finally
   <!-- feedback: Incorrect. This would imply it was the very last thing in the whole project, but "Then" or "Afterward" fits a two-step list better. -->
@@ -218,9 +218,9 @@ What is the correct logical order for these sentences?
 ### Opciones
 - [ ] A) 1 - 2 - 3
   <!-- feedback: Incorrect. You can't eat the cake before buying ingredients. -->
-- [ ] B) 3 - 2 - 1
+- [ ] C) 3 - 2 - 1
   <!-- feedback: Incorrect. "Then" cannot start the sequence. -->
-- [x] C) 2 - 3 - 1
+- [x] B) 2 - 3 - 1
   <!-- feedback: Correct! First (Buy) -> Then (Mix/Bake) -> Finally (Eat). -->
 - [ ] D) 2 - 1 - 3
   <!-- feedback: Incorrect. You can't eat it before baking it. -->
@@ -243,9 +243,9 @@ The student analyzes the meaning and the connectors to reconstruct a logical seq
 ### Opciones
 - [ ] A) First
   <!-- feedback: Incorrect. Reaching the top is the result, not the start. -->
-- [ ] B) Next
+- [ ] C) Next
   <!-- feedback: Incorrect. While possible, reaching the goal is usually signaled by something stronger. -->
-- [x] C) Eventually
+- [x] B) Eventually
   <!-- feedback: Correct! "Eventually" suggests a result after a long time or sequence of effort. -->
 - [ ] D) While
   <!-- feedback: Incorrect. Not a sequence connector. -->
@@ -267,13 +267,13 @@ The student analyzes the nuances of sequence connectors and chooses one that imp
 If we add the connector "Finally" to these instructions, which step should it belong to?
 
 ### Opciones
-- [ ] A) Step 1
+- [ ] B) Step 1
   <!-- feedback: Incorrect. This is the start. -->
-- [ ] B) Step 2
+- [ ] C) Step 2
   <!-- feedback: Incorrect. This is in the middle. -->
-- [ ] C) Step 3
+- [ ] D) Step 3
   <!-- feedback: Incorrect. This is the penultimate step. -->
-- [x] D) Step 4
+- [x] A) Step 4
   <!-- feedback: Correct! "Finally" always introduces the last step in a list. -->
 
 ### Explicacion Pedagogica

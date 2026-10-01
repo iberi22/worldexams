@@ -36,9 +36,9 @@ Este bundle cubre de manera exhaustiva la estructura del ADN, la transcripción,
 ¿Cuáles son los tres componentes fundamentales que constituyen un nucleótido, la unidad monomérica del ácido desoxirribonucleico (ADN)?
 
 ### Opciones
-- [x] A) Una base nitrogenada, un azúcar desoxirribosa y un grupo fosfato <!-- feedback: ¡Correcto! Todo nucleótido de ADN está compuesto por una pentosa desoxirribosa, un grupo fosfato y una de las cuatro bases nitrogenadas. -->
-- [ ] B) Una base nitrogenada, un azúcar ribosa y un grupo amino <!-- feedback: Incorrecto. La ribosa es el azúcar del ARN, no del ADN, y el grupo amino forma parte de los aminoácidos. -->
-- [ ] C) Tres ácidos grasos, un glicerol y una base nitrogenada <!-- feedback: Incorrecto. Esta combinación describe lípidos complejos combinados, no la estructura de los ácidos nucleicos. -->
+- [x] C) Una base nitrogenada, un azúcar desoxirribosa y un grupo fosfato <!-- feedback: ¡Correcto! Todo nucleótido de ADN está compuesto por una pentosa desoxirribosa, un grupo fosfato y una de las cuatro bases nitrogenadas. -->
+- [ ] A) Una base nitrogenada, un azúcar ribosa y un grupo amino <!-- feedback: Incorrecto. La ribosa es el azúcar del ARN, no del ADN, y el grupo amino forma parte de los aminoácidos. -->
+- [ ] B) Tres ácidos grasos, un glicerol y una base nitrogenada <!-- feedback: Incorrecto. Esta combinación describe lípidos complejos combinados, no la estructura de los ácidos nucleicos. -->
 - [ ] D) Una cadena polipeptídica, un azúcar glucosa y un fosfato <!-- feedback: Incorrecto. La glucosa es un monosacárido energético y los polipéptidos corresponden a las proteínas. -->
 
 ### Explicacion Pedagogica
@@ -57,10 +57,10 @@ Los nucleótidos son los bloques estructurales que forman las cadenas de ADN y A
 En la molécula de ADN de doble hebra, ¿qué base nitrogenada se une específicamente con la Adenina (A) mediante dos puentes de hidrógeno?
 
 ### Opciones
-- [x] A) Timina (T) <!-- feedback: ¡Correcto! En la doble hélice de ADN, la Adenina se aparea de manera complementaria con la Timina mediante dos enlaces de hidrógeno. -->
-- [ ] B) Citocina (C) <!-- feedback: Incorrecto. La Citocina se aparea exclusivamente con la Guanina a través de tres puentes de hidrógeno. -->
-- [ ] C) Uracilo (U) <!-- feedback: Incorrecto. El Uracilo sustituye a la Timina únicamente en la estructura del ARN. -->
-- [ ] D) Guanina (G) <!-- feedback: Incorrecto. La Guanina es una purina que se aparea con la Citocina. -->
+- [x] D) Timina (T) <!-- feedback: ¡Correcto! En la doble hélice de ADN, la Adenina se aparea de manera complementaria con la Timina mediante dos enlaces de hidrógeno. -->
+- [ ] A) Citocina (C) <!-- feedback: Incorrecto. La Citocina se aparea exclusivamente con la Guanina a través de tres puentes de hidrógeno. -->
+- [ ] B) Uracilo (U) <!-- feedback: Incorrecto. El Uracilo sustituye a la Timina únicamente en la estructura del ARN. -->
+- [ ] C) Guanina (G) <!-- feedback: Incorrecto. La Guanina es una purina que se aparea con la Citocina. -->
 
 ### Explicacion Pedagogica
 La complementariedad de bases nitrogenadas (A-T y C-G) es la base del almacenamiento y duplicación fiel de la información genética cellular.
@@ -78,8 +78,8 @@ La complementariedad de bases nitrogenadas (A-T y C-G) es la base del almacenami
 ¿Qué base nitrogenada está presente en el ARN pero AUSENTE en el ADN?
 
 ### Opciones
-- [x] A) Uracilo <!-- feedback: ¡Correcto! El Uracilo es la base pirimidínica propia del ARN que reemplaza a la Timina del ADN. -->
-- [ ] B) Adenina <!-- feedback: Incorrecto. La Adenina se encuentra presente tanto en la molécula de ADN como en la de ARN. -->
+- [x] B) Uracilo <!-- feedback: ¡Correcto! El Uracilo es la base pirimidínica propia del ARN que reemplaza a la Timina del ADN. -->
+- [ ] A) Adenina <!-- feedback: Incorrecto. La Adenina se encuentra presente tanto en la molécula de ADN como en la de ARN. -->
 - [ ] C) Guanina <!-- feedback: Incorrecto. La Guanina forma parte de los nucleótidos de ambos ácidos nucleicos. -->
 - [ ] D) Citocina <!-- feedback: Incorrecto. La Citocina es común al ADN y al ARN. -->
 
@@ -99,10 +99,10 @@ El sustituto del Uracilo por Timina en el ADN le confiere mayor estabilidad quí
 ¿Cómo se denomina la etapa de la expresión génica en la que se sintetiza una molécula de ARN mensajero (ARNm) a partir de un molde de ADN?
 
 ### Opciones
-- [x] A) Transcripción <!-- feedback: ¡Correcto! La transcripción es la síntesis de ARN mensajero catalizada por la enzima ARN polimerasa utilizando el ADN como molde. -->
-- [ ] B) Traducción <!-- feedback: Incorrecto. La traducción es el proceso de síntesis de proteínas en el ribosoma a partir del ARNm. -->
-- [ ] C) Replicación <!-- feedback: Incorrecto. La replicación es la duplicación completa de la doble hélice de ADN previa a la división celular. -->
-- [ ] D) Transducción <!-- feedback: Incorrecto. La transducción es la transferencia de ADN bacteriano mediante un bacteriófago. -->
+- [x] D) Transcripción <!-- feedback: ¡Correcto! La transcripción es la síntesis de ARN mensajero catalizada por la enzima ARN polimerasa utilizando el ADN como molde. -->
+- [ ] A) Traducción <!-- feedback: Incorrecto. La traducción es el proceso de síntesis de proteínas en el ribosoma a partir del ARNm. -->
+- [ ] B) Replicación <!-- feedback: Incorrecto. La replicación es la duplicación completa de la doble hélice de ADN previa a la división celular. -->
+- [ ] C) Transducción <!-- feedback: Incorrecto. La transducción es la transferencia de ADN bacteriano mediante un bacteriófago. -->
 
 ### Explicacion Pedagogica
 La transcripción es el primer paso del dogma central de la biología molecular, convirtiendo la información almacenada en el ADN en un mensaje ejecutable de ARN.
@@ -162,10 +162,10 @@ La interacción codón-anticodón entre ARNm y ARNt garantiza la fidelidad en la
 Una mutación puntual silenciosa en la secuencia de nucleótidos de un gen se caracteriza por:
 
 ### Opciones
-- [x] A) Cambiar un nucleótido sin alterar el aminoácido codificado debido a la degeneración del código genético <!-- feedback: ¡Correcto! Las mutaciones silenciosas cambian la base pero, por la redundancia del código, producen el mismo aminoácido. -->
-- [ ] B) Introducir un codón de parada prematuro que trunca la proteína <!-- feedback: Incorrecto. Esto describe a una mutación sin sentido (nonsense). -->
-- [ ] C) Cambiar el aminoácido resultante alterando siempre la función de la proteína <!-- feedback: Incorrecto. Esto describe a una mutación de sentido erróneo (missense). -->
-- [ ] D) Eliminar un cromosoma entero del cariotipo humano <!-- feedback: Incorrecto. La pérdida de cromosomas es una mutación genómica estructural masiva, no puntual. -->
+- [x] D) Cambiar un nucleótido sin alterar el aminoácido codificado debido a la degeneración del código genético <!-- feedback: ¡Correcto! Las mutaciones silenciosas cambian la base pero, por la redundancia del código, producen el mismo aminoácido. -->
+- [ ] A) Introducir un codón de parada prematuro que trunca la proteína <!-- feedback: Incorrecto. Esto describe a una mutación sin sentido (nonsense). -->
+- [ ] B) Cambiar el aminoácido resultante alterando siempre la función de la proteína <!-- feedback: Incorrecto. Esto describe a una mutación de sentido erróneo (missense). -->
+- [ ] C) Eliminar un cromosoma entero del cariotipo humano <!-- feedback: Incorrecto. La pérdida de cromosomas es una mutación genómica estructural masiva, no puntual. -->
 
 ### Explicacion Pedagogica
 La degeneración o redundancia del código genético significa que varios codones codifican el mismo aminoácido, protegiendo al organismo contra mutaciones silenciosas.
@@ -183,10 +183,10 @@ La degeneración o redundancia del código genético significa que varios codone
 ¿Qué enzima se encarga de romper los puentes de hidrógeno entre las bases nitrogenadas para separar las hebras de ADN durante la replicación?
 
 ### Opciones
-- [x] A) Helicasa <!-- feedback: ¡Correcto! La helicasa desenrolla y separa las dos cadenas complementarias de ADN rompiendo los enlaces de hidrógeno. -->
-- [ ] B) ADN Ligasa <!-- feedback: Incorrecto. La ligasa une los fragmentos de Okazaki formando enlaces fosfodiéster. -->
-- [ ] C) ARN Polimerasa <!-- feedback: Incorrecto. La ARN polimerasa sintetiza hebras de ARN durante la transcripción. -->
-- [ ] D) Amilasa pancreática <!-- feedback: Incorrecto. La amilasa es una enzima digestiva que hidroliza el almidón en el tubo digestivo. -->
+- [x] D) Helicasa <!-- feedback: ¡Correcto! La helicasa desenrolla y separa las dos cadenas complementarias de ADN rompiendo los enlaces de hidrógeno. -->
+- [ ] A) ADN Ligasa <!-- feedback: Incorrecto. La ligasa une los fragmentos de Okazaki formando enlaces fosfodiéster. -->
+- [ ] B) ARN Polimerasa <!-- feedback: Incorrecto. La ARN polimerasa sintetiza hebras de ARN durante la transcripción. -->
+- [ ] C) Amilasa pancreática <!-- feedback: Incorrecto. La amilasa es una enzima digestiva que hidroliza el almidón en el tubo digestivo. -->
 
 ### Explicacion Pedagogica
 La separación de hebras por la helicasa crea la horquilla de replicación necesaria para la síntesis semiconservativa del genoma.
@@ -225,10 +225,10 @@ Debido a que la ADN polimerasa solo sintetiza en dirección 5' a 3', la hebra re
 ¿Qué proceso de procesamiento del ARN en eucariotas elimina los intrones y empalma los exones para formar el ARNm maduro?
 
 ### Opciones
-- [x] A) Splicing (o corte y empalme) <!-- feedback: ¡Correcto! El splicing remueve las secuencias no codificantes (intrones) y une los exones codificantes. -->
-- [ ] B) Caperuza 5' (Capping) <!-- feedback: Incorrecto. La caperuza 5' es la adición de una 7-metilguanosina en el extremo 5' para protección. -->
-- [ ] C) Poliadenilación 3' <!-- feedback: Incorrecto. La cola de Poli-A se añade al extremo 3' para estabilidad y transporte nuclear. -->
-- [ ] D) Replicación dispersiva <!-- feedback: Incorrecto. Modelo hipotético descartado de replicación del ADN. -->
+- [x] D) Splicing (o corte y empalme) <!-- feedback: ¡Correcto! El splicing remueve las secuencias no codificantes (intrones) y une los exones codificantes. -->
+- [ ] A) Caperuza 5' (Capping) <!-- feedback: Incorrecto. La caperuza 5' es la adición de una 7-metilguanosina en el extremo 5' para protección. -->
+- [ ] B) Poliadenilación 3' <!-- feedback: Incorrecto. La cola de Poli-A se añade al extremo 3' para estabilidad y transporte nuclear. -->
+- [ ] C) Replicación dispersiva <!-- feedback: Incorrecto. Modelo hipotético descartado de replicación del ADN. -->
 
 ### Explicacion Pedagogica
 El splicing alternativo permite que un mismo gen eucariota produzca diferentes variantes de proteínas (isoformas) combinando exones de distintas maneras.
@@ -246,8 +246,8 @@ El splicing alternativo permite que un mismo gen eucariota produzca diferentes v
 La exposición a radiación ultravioleta (UV) puede causar la dimerización covalente de bases nitrogenadas adyacentes de:
 
 ### Opciones
-- [x] A) Timina-Timina (Dímeros de timina) <!-- feedback: ¡Correcto! La radiación UV induce la formación de enlaces covalentes no deseados entre timinas adyacentes distorsionando la hélice. -->
-- [ ] B) Guanina-Citocina <!-- feedback: Incorrecto. La unión entre guanina y citocina es la interacción normal de apareamiento en la doble hélice. -->
+- [x] B) Timina-Timina (Dímeros de timina) <!-- feedback: ¡Correcto! La radiación UV induce la formación de enlaces covalentes no deseados entre timinas adyacentes distorsionando la hélice. -->
+- [ ] A) Guanina-Citocina <!-- feedback: Incorrecto. La unión entre guanina y citocina es la interacción normal de apareamiento en la doble hélice. -->
 - [ ] C) Uracilo-Adenina <!-- feedback: Incorrecto. El uracilo no se encuentra presente de forma estructural en la molécula de ADN. -->
 - [ ] D) Desoxirribosa-Fosfato <!-- feedback: Incorrecto. El enlace entre azúcar y fosfato constituye la columna vertebral fosfodiéster normal. -->
 
@@ -267,9 +267,9 @@ Los dímeros de timina bloquean la replicación y transcripción, requiriendo me
 En el operón lac, ¿qué ocurre cuando la glucosa está ausente pero la lactosa está presente en el medio de cultivo?
 
 ### Opciones
-- [x] A) El alolactosa se une al represor inactivándolo, permitiendo la transcripción de los genes estructurales <!-- feedback: ¡Correcto! La alolactosa actúa como inductor uniéndose al represor e impidiendo que este bloquee al operador. -->
-- [ ] B) El represor se une firmemente al operador bloqueando la ARN polimerasa <!-- feedback: Incorrecto. Esto ocurre cuando la lactosa está ausente en el medio. -->
-- [ ] C) La ARN polimerasa se destruye de forma irreversible <!-- feedback: Incorrecto. La enzima polimerasa se mantiene funcional y transcribe los genes. -->
+- [x] C) El alolactosa se une al represor inactivándolo, permitiendo la transcripción de los genes estructurales <!-- feedback: ¡Correcto! La alolactosa actúa como inductor uniéndose al represor e impidiendo que este bloquee al operador. -->
+- [ ] A) El represor se une firmemente al operador bloqueando la ARN polimerasa <!-- feedback: Incorrecto. Esto ocurre cuando la lactosa está ausente en el medio. -->
+- [ ] B) La ARN polimerasa se destruye de forma irreversible <!-- feedback: Incorrecto. La enzima polimerasa se mantiene funcional y transcribe los genes. -->
 - [ ] D) Se detiene toda la síntesis de proteínas ribosómicas bacterianas <!-- feedback: Incorrecto. Solo se regula la transcripción específica de los genes del metabolismo de lactosa. -->
 
 ### Explicacion Pedagogica
@@ -288,9 +288,9 @@ El operón lac es el modelo clásico de control transcripcional inducible en pro
 ¿Cuál es la secuencia complementaria de ARNm transcrita a partir de la hebra molde de ADN 3'-TAC GGG CTT ACT-5'?
 
 ### Opciones
-- [x] A) 5'-AUG CCC GAA UGA-3' <!-- feedback: ¡Correcto! Recordando la complementariedad (A->U, T->A, C->G, G->C) en dirección 5' a 3': TAC->AUG, GGG->CCC, CTT->GAA, ACT->UGA. -->
-- [ ] B) 5'-ATG CCC GAA TGA-3' <!-- feedback: Incorrecto. Esta secuencia contiene Timina (T), propia del ADN y no del ARN. -->
-- [ ] C) 5'-AUG GGG CUA UGA-3' <!-- feedback: Incorrecto. No respeta la complementariedad de las bases CTT a GAA. -->
+- [x] C) 5'-AUG CCC GAA UGA-3' <!-- feedback: ¡Correcto! Recordando la complementariedad (A->U, T->A, C->G, G->C) en dirección 5' a 3': TAC->AUG, GGG->CCC, CTT->GAA, ACT->UGA. -->
+- [ ] A) 5'-ATG CCC GAA TGA-3' <!-- feedback: Incorrecto. Esta secuencia contiene Timina (T), propia del ADN y no del ARN. -->
+- [ ] B) 5'-AUG GGG CUA UGA-3' <!-- feedback: Incorrecto. No respeta la complementariedad de las bases CTT a GAA. -->
 - [ ] D) 3'-UAC GGG CUU ACU-5' <!-- feedback: Incorrecto. Es una copia idéntica sustituyendo T por U sin mantener la polaridad antiparalela. -->
 
 ### Explicacion Pedagogica
@@ -309,10 +309,10 @@ La síntesis de ARN es antiparalela y complementaria a la hebra de ADN molde, su
 ¿Qué efecto produce la inserción o deleción de un solo nucleótido en la región codificante de un gen (mutación indels)?
 
 ### Opciones
-- [x] A) Desplazamiento del marco de lectura (frameshift), alterando todos los aminoácidos posteriores <!-- feedback: ¡Correcto! Al no ser múltiplo de tres, se altera la pauta de triplete desde el punto de la mutación cambiando toda la secuencia peptídica. -->
-- [ ] B) Duplicación inmediata del telómero del cromosoma <!-- feedback: Incorrecto. Los telómeros son estructuras no codificantes de los extremos cromosómicos. -->
-- [ ] C) Conversión automática del ADN en ARN ribosomal <!-- feedback: Incorrecto. Las mutaciones no transforman la clase de ácido nucleico. -->
-- [ ] D) Aumento de la temperatura celular de desnaturalización <!-- feedback: Incorrecto. La adición de un nucleótido no altera las propiedades térmicas globales de la célula. -->
+- [x] D) Desplazamiento del marco de lectura (frameshift), alterando todos los aminoácidos posteriores <!-- feedback: ¡Correcto! Al no ser múltiplo de tres, se altera la pauta de triplete desde el punto de la mutación cambiando toda la secuencia peptídica. -->
+- [ ] A) Duplicación inmediata del telómero del cromosoma <!-- feedback: Incorrecto. Los telómeros son estructuras no codificantes de los extremos cromosómicos. -->
+- [ ] B) Conversión automática del ADN en ARN ribosomal <!-- feedback: Incorrecto. Las mutaciones no transforman la clase de ácido nucleico. -->
+- [ ] C) Aumento de la temperatura celular de desnaturalización <!-- feedback: Incorrecto. La adición de un nucleótido no altera las propiedades térmicas globales de la célula. -->
 
 ### Explicacion Pedagogica
 Las mutaciones de desplazamiento del marco de lectura suelen ser devastadoras porque alteran completamente la secuencia de aminoácidos aguas abajo y suelen crear codones de parada prematuros.
@@ -351,10 +351,10 @@ El modelo semiconservativo garantiza que la información genética se transmita 
 ¿Qué estructura octamérica proteica se forma cuando el ADN se enrolla alrededor de las histonas formando cuentas de rosario?
 
 ### Opciones
-- [x] A) Nucleosoma <!-- feedback: ¡Correcto! El nucleosoma es la unidad básica de empaquetamiento de la cromatina compuesta por ADN y 8 proteínas histonas. -->
-- [ ] B) Centrómero <!-- feedback: Incorrecto. El centrómero es la región estrecha de un cromosoma que une las cromátidas hermanas. -->
-- [ ] C) Centrosoma <!-- feedback: Incorrecto. El centrosoma es la organela organizadora de microtúbulos durante la división celular. -->
-- [ ] D) Cuerpos de Barr <!-- feedback: Incorrecto. El cuerpo de Barr es el cromosoma X inactivado en células somáticas femeninas. -->
+- [x] D) Nucleosoma <!-- feedback: ¡Correcto! El nucleosoma es la unidad básica de empaquetamiento de la cromatina compuesta por ADN y 8 proteínas histonas. -->
+- [ ] A) Centrómero <!-- feedback: Incorrecto. El centrómero es la región estrecha de un cromosoma que une las cromátidas hermanas. -->
+- [ ] B) Centrosoma <!-- feedback: Incorrecto. El centrosoma es la organela organizadora de microtúbulos durante la división celular. -->
+- [ ] C) Cuerpos de Barr <!-- feedback: Incorrecto. El cuerpo de Barr es el cromosoma X inactivado en células somáticas femeninas. -->
 
 ### Explicacion Pedagogica
 La compactación en nucleosomas permite empaquetar más de dos metros de ADN en el microscópico núcleo celular eucariota regulando el acceso transcripcional.
@@ -393,10 +393,10 @@ La versatilidad de CRISPR-Cas9 radica en la facilidad de rediseñar el ARN guía
 ¿Qué enzima especial requiere un retrovirus (como el VIH o el virus de la inmunodeficiencia felina) para convertir su genoma de ARN en ADN e integrarlo en el hospedador?
 
 ### Opciones
-- [x] A) Transcriptasa inversa (o retrotranscriptasa) <!-- feedback: ¡Correcto! La transcriptasa inversa sintetiza ADN a partir de un molde de ARN, invirtiendo el sentido clásico del dogma central. -->
-- [ ] B) ADN Topoisomerasa II <!-- feedback: Incorrecto. La topoisomerasa alivia la tensión de superenrollamiento en la hélice de ADN. -->
-- [ ] C) ARN Primasa <!-- feedback: Incorrecto. La primasa sintetiza cebadores cortos de ARN durante la replicación celular. -->
-- [ ] D) Polimerasa de Taq <!-- feedback: Incorrecto. La Taq polimerasa es una ADN polimerasa termoestable utilizada en la prueba de PCR. -->
+- [x] D) Transcriptasa inversa (o retrotranscriptasa) <!-- feedback: ¡Correcto! La transcriptasa inversa sintetiza ADN a partir de un molde de ARN, invirtiendo el sentido clásico del dogma central. -->
+- [ ] A) ADN Topoisomerasa II <!-- feedback: Incorrecto. La topoisomerasa alivia la tensión de superenrollamiento en la hélice de ADN. -->
+- [ ] B) ARN Primasa <!-- feedback: Incorrecto. La primasa sintetiza cebadores cortos de ARN durante la replicación celular. -->
+- [ ] C) Polimerasa de Taq <!-- feedback: Incorrecto. La Taq polimerasa es una ADN polimerasa termoestable utilizada en la prueba de PCR. -->
 
 ### Explicacion Pedagogica
 La transcriptasa inversa es una excepción clave al dogma central tradicional, permitiendo la síntesis de ADN proviral a partir del ARN vírico.
@@ -414,8 +414,8 @@ La transcriptasa inversa es una excepción clave al dogma central tradicional, p
 ¿De qué manera la metilación del ADN (adición de grupos metilo en residuos de citosina de islas CpG) altera la expresión de los genes?
 
 ### Opciones
-- [x] A) Silencia la transcripción al condensar la cromatina e impedir el acceso de factores de transcripción <!-- feedback: ¡Correcto! La metilación frecuentemente reprime la expresión génica promoviendo una estructura compacta e inaccesible de heterocromatina. -->
-- [ ] B) Duplica la velocidad de síntesis proteica en los ribosomas <!-- feedback: Incorrecto. La metilación actúa en el ADN modificando la transcripción, no la traducción ribosómica. -->
+- [x] B) Silencia la transcripción al condensar la cromatina e impedir el acceso de factores de transcripción <!-- feedback: ¡Correcto! La metilación frecuentemente reprime la expresión génica promoviendo una estructura compacta e inaccesible de heterocromatina. -->
+- [ ] A) Duplica la velocidad de síntesis proteica en los ribosomas <!-- feedback: Incorrecto. La metilación actúa en el ADN modificando la transcripción, no la traducción ribosómica. -->
 - [ ] C) Cambia permanentemente la secuencia de nucleótidos del código genético <!-- feedback: Incorrecto. Las modificaciones epigenéticas no alteran la secuencia de nucleótidos del ADN. -->
 - [ ] D) Convierte las citosinas de la doble hélice en molibdeno metálico <!-- feedback: Incorrecto. La metilación es la adición del grupo químico metilo (-CH3), no transmutación de elementos. -->
 

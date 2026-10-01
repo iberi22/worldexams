@@ -36,8 +36,8 @@ Este bundle aborda contenidos curriculares prioritarios de Identidades y Ecuacio
 ¿Cuál es el valor simplificado de la expresión $E_{1} = \frac{1}{\sec(1x)}$?
 
 ### Opciones
-- [x] A) $\cos(1x)$ <!-- feedback: Correcto. La secante es la inversa del coseno: $1/\sec(\theta) = \cos(\theta)$. -->
-- [ ] B) $\sin(1x)$ <!-- feedback: Incorrecto. La inversa del seno es la cosecante. -->
+- [x] B) $\cos(1x)$ <!-- feedback: Correcto. La secante es la inversa del coseno: $1/\sec(\theta) = \cos(\theta)$. -->
+- [ ] A) $\sin(1x)$ <!-- feedback: Incorrecto. La inversa del seno es la cosecante. -->
 - [ ] C) $\tan(1x)$ <!-- feedback: Incorrecto. La tangente es la razón entre seno y coseno. -->
 - [ ] D) $\cot(1x)$ <!-- feedback: Incorrecto. La cotangente es la inversa de la tangente. -->
 
@@ -57,10 +57,10 @@ Por definición de las razones trigonométricas recíprocas, $\sec(\theta) = \fr
 ¿Cuál es el valor simplificado de la expresión $E_{2} = \frac{1}{\sec(2x)}$?
 
 ### Opciones
-- [x] A) $\cos(2x)$ <!-- feedback: Correcto. La secante es la inversa del coseno: $1/\sec(\theta) = \cos(\theta)$. -->
-- [ ] B) $\sin(2x)$ <!-- feedback: Incorrecto. La inversa del seno es la cosecante. -->
-- [ ] C) $\tan(2x)$ <!-- feedback: Incorrecto. La tangente es la razón entre seno y coseno. -->
-- [ ] D) $\cot(2x)$ <!-- feedback: Incorrecto. La cotangente es la inversa de la tangente. -->
+- [x] D) $\cos(2x)$ <!-- feedback: Correcto. La secante es la inversa del coseno: $1/\sec(\theta) = \cos(\theta)$. -->
+- [ ] A) $\sin(2x)$ <!-- feedback: Incorrecto. La inversa del seno es la cosecante. -->
+- [ ] B) $\tan(2x)$ <!-- feedback: Incorrecto. La tangente es la razón entre seno y coseno. -->
+- [ ] C) $\cot(2x)$ <!-- feedback: Incorrecto. La cotangente es la inversa de la tangente. -->
 
 ### Explicacion Pedagogica
 Por definición de las razones trigonométricas recíprocas, $\sec(\theta) = \frac{1}{\cos(\theta)}$. Por lo tanto, $\frac{1}{\sec(\theta)} = \cos(\theta)$.
@@ -78,9 +78,9 @@ Por definición de las razones trigonométricas recíprocas, $\sec(\theta) = \fr
 ¿Cuál es el valor simplificado de la expresión $E_{3} = \frac{1}{\sec(3x)}$?
 
 ### Opciones
-- [x] A) $\cos(3x)$ <!-- feedback: Correcto. La secante es la inversa del coseno: $1/\sec(\theta) = \cos(\theta)$. -->
-- [ ] B) $\sin(3x)$ <!-- feedback: Incorrecto. La inversa del seno es la cosecante. -->
-- [ ] C) $\tan(3x)$ <!-- feedback: Incorrecto. La tangente es la razón entre seno y coseno. -->
+- [x] C) $\cos(3x)$ <!-- feedback: Correcto. La secante es la inversa del coseno: $1/\sec(\theta) = \cos(\theta)$. -->
+- [ ] A) $\sin(3x)$ <!-- feedback: Incorrecto. La inversa del seno es la cosecante. -->
+- [ ] B) $\tan(3x)$ <!-- feedback: Incorrecto. La tangente es la razón entre seno y coseno. -->
 - [ ] D) $\cot(3x)$ <!-- feedback: Incorrecto. La cotangente es la inversa de la tangente. -->
 
 ### Explicacion Pedagogica
@@ -120,9 +120,9 @@ Por definición de las razones trigonométricas recíprocas, $\sec(\theta) = \fr
 ¿Cuál es el valor simplificado de la expresión $E_{5} = \frac{1}{\sec(5x)}$?
 
 ### Opciones
-- [x] A) $\cos(5x)$ <!-- feedback: Correcto. La secante es la inversa del coseno: $1/\sec(\theta) = \cos(\theta)$. -->
-- [ ] B) $\sin(5x)$ <!-- feedback: Incorrecto. La inversa del seno es la cosecante. -->
-- [ ] C) $\tan(5x)$ <!-- feedback: Incorrecto. La tangente es la razón entre seno y coseno. -->
+- [x] C) $\cos(5x)$ <!-- feedback: Correcto. La secante es la inversa del coseno: $1/\sec(\theta) = \cos(\theta)$. -->
+- [ ] A) $\sin(5x)$ <!-- feedback: Incorrecto. La inversa del seno es la cosecante. -->
+- [ ] B) $\tan(5x)$ <!-- feedback: Incorrecto. La tangente es la razón entre seno y coseno. -->
 - [ ] D) $\cot(5x)$ <!-- feedback: Incorrecto. La cotangente es la inversa de la tangente. -->
 
 ### Explicacion Pedagogica
@@ -141,9 +141,9 @@ Por definición de las razones trigonométricas recíprocas, $\sec(\theta) = \fr
 ¿Cuál es el valor simplificado de la expresión $E_{6} = \frac{1}{\sec(6x)}$?
 
 ### Opciones
-- [x] A) $\cos(6x)$ <!-- feedback: Correcto. La secante es la inversa del coseno: $1/\sec(\theta) = \cos(\theta)$. -->
-- [ ] B) $\sin(6x)$ <!-- feedback: Incorrecto. La inversa del seno es la cosecante. -->
-- [ ] C) $\tan(6x)$ <!-- feedback: Incorrecto. La tangente es la razón entre seno y coseno. -->
+- [x] C) $\cos(6x)$ <!-- feedback: Correcto. La secante es la inversa del coseno: $1/\sec(\theta) = \cos(\theta)$. -->
+- [ ] A) $\sin(6x)$ <!-- feedback: Incorrecto. La inversa del seno es la cosecante. -->
+- [ ] B) $\tan(6x)$ <!-- feedback: Incorrecto. La tangente es la razón entre seno y coseno. -->
 - [ ] D) $\cot(6x)$ <!-- feedback: Incorrecto. La cotangente es la inversa de la tangente. -->
 
 ### Explicacion Pedagogica
@@ -162,9 +162,9 @@ Por definición de las razones trigonométricas recíprocas, $\sec(\theta) = \fr
 ¿Cuál es el valor simplificado de la expresión $E_{7} = \frac{1}{\sec(7x)}$?
 
 ### Opciones
-- [x] A) $\cos(7x)$ <!-- feedback: Correcto. La secante es la inversa del coseno: $1/\sec(\theta) = \cos(\theta)$. -->
-- [ ] B) $\sin(7x)$ <!-- feedback: Incorrecto. La inversa del seno es la cosecante. -->
-- [ ] C) $\tan(7x)$ <!-- feedback: Incorrecto. La tangente es la razón entre seno y coseno. -->
+- [x] C) $\cos(7x)$ <!-- feedback: Correcto. La secante es la inversa del coseno: $1/\sec(\theta) = \cos(\theta)$. -->
+- [ ] A) $\sin(7x)$ <!-- feedback: Incorrecto. La inversa del seno es la cosecante. -->
+- [ ] B) $\tan(7x)$ <!-- feedback: Incorrecto. La tangente es la razón entre seno y coseno. -->
 - [ ] D) $\cot(7x)$ <!-- feedback: Incorrecto. La cotangente es la inversa de la tangente. -->
 
 ### Explicacion Pedagogica
@@ -183,10 +183,10 @@ Por definición de las razones trigonométricas recíprocas, $\sec(\theta) = \fr
 ¿Cuál es el valor simplificado de la expresión $E_{8} = \frac{1}{\sec(8x)}$?
 
 ### Opciones
-- [x] A) $\cos(8x)$ <!-- feedback: Correcto. La secante es la inversa del coseno: $1/\sec(\theta) = \cos(\theta)$. -->
-- [ ] B) $\sin(8x)$ <!-- feedback: Incorrecto. La inversa del seno es la cosecante. -->
-- [ ] C) $\tan(8x)$ <!-- feedback: Incorrecto. La tangente es la razón entre seno y coseno. -->
-- [ ] D) $\cot(8x)$ <!-- feedback: Incorrecto. La cotangente es la inversa de la tangente. -->
+- [x] D) $\cos(8x)$ <!-- feedback: Correcto. La secante es la inversa del coseno: $1/\sec(\theta) = \cos(\theta)$. -->
+- [ ] A) $\sin(8x)$ <!-- feedback: Incorrecto. La inversa del seno es la cosecante. -->
+- [ ] B) $\tan(8x)$ <!-- feedback: Incorrecto. La tangente es la razón entre seno y coseno. -->
+- [ ] C) $\cot(8x)$ <!-- feedback: Incorrecto. La cotangente es la inversa de la tangente. -->
 
 ### Explicacion Pedagogica
 Por definición de las razones trigonométricas recíprocas, $\sec(\theta) = \frac{1}{\cos(\theta)}$. Por lo tanto, $\frac{1}{\sec(\theta)} = \cos(\theta)$.
@@ -204,9 +204,9 @@ Por definición de las razones trigonométricas recíprocas, $\sec(\theta) = \fr
 ¿Cuál es el valor simplificado de la expresión $E_{9} = \frac{1}{\sec(9x)}$?
 
 ### Opciones
-- [x] A) $\cos(9x)$ <!-- feedback: Correcto. La secante es la inversa del coseno: $1/\sec(\theta) = \cos(\theta)$. -->
-- [ ] B) $\sin(9x)$ <!-- feedback: Incorrecto. La inversa del seno es la cosecante. -->
-- [ ] C) $\tan(9x)$ <!-- feedback: Incorrecto. La tangente es la razón entre seno y coseno. -->
+- [x] C) $\cos(9x)$ <!-- feedback: Correcto. La secante es la inversa del coseno: $1/\sec(\theta) = \cos(\theta)$. -->
+- [ ] A) $\sin(9x)$ <!-- feedback: Incorrecto. La inversa del seno es la cosecante. -->
+- [ ] B) $\tan(9x)$ <!-- feedback: Incorrecto. La tangente es la razón entre seno y coseno. -->
 - [ ] D) $\cot(9x)$ <!-- feedback: Incorrecto. La cotangente es la inversa de la tangente. -->
 
 ### Explicacion Pedagogica
@@ -225,8 +225,8 @@ Por definición de las razones trigonométricas recíprocas, $\sec(\theta) = \fr
 ¿Cuál es el valor simplificado de la expresión $E_{10} = \frac{1}{\sec(10x)}$?
 
 ### Opciones
-- [x] A) $\cos(10x)$ <!-- feedback: Correcto. La secante es la inversa del coseno: $1/\sec(\theta) = \cos(\theta)$. -->
-- [ ] B) $\sin(10x)$ <!-- feedback: Incorrecto. La inversa del seno es la cosecante. -->
+- [x] B) $\cos(10x)$ <!-- feedback: Correcto. La secante es la inversa del coseno: $1/\sec(\theta) = \cos(\theta)$. -->
+- [ ] A) $\sin(10x)$ <!-- feedback: Incorrecto. La inversa del seno es la cosecante. -->
 - [ ] C) $\tan(10x)$ <!-- feedback: Incorrecto. La tangente es la razón entre seno y coseno. -->
 - [ ] D) $\cot(10x)$ <!-- feedback: Incorrecto. La cotangente es la inversa de la tangente. -->
 
@@ -267,10 +267,10 @@ Por definición de las razones trigonométricas recíprocas, $\sec(\theta) = \fr
 ¿Cuál es el valor simplificado de la expresión $E_{12} = \frac{1}{\sec(12x)}$?
 
 ### Opciones
-- [x] A) $\cos(12x)$ <!-- feedback: Correcto. La secante es la inversa del coseno: $1/\sec(\theta) = \cos(\theta)$. -->
-- [ ] B) $\sin(12x)$ <!-- feedback: Incorrecto. La inversa del seno es la cosecante. -->
-- [ ] C) $\tan(12x)$ <!-- feedback: Incorrecto. La tangente es la razón entre seno y coseno. -->
-- [ ] D) $\cot(12x)$ <!-- feedback: Incorrecto. La cotangente es la inversa de la tangente. -->
+- [x] D) $\cos(12x)$ <!-- feedback: Correcto. La secante es la inversa del coseno: $1/\sec(\theta) = \cos(\theta)$. -->
+- [ ] A) $\sin(12x)$ <!-- feedback: Incorrecto. La inversa del seno es la cosecante. -->
+- [ ] B) $\tan(12x)$ <!-- feedback: Incorrecto. La tangente es la razón entre seno y coseno. -->
+- [ ] C) $\cot(12x)$ <!-- feedback: Incorrecto. La cotangente es la inversa de la tangente. -->
 
 ### Explicacion Pedagogica
 Por definición de las razones trigonométricas recíprocas, $\sec(\theta) = \frac{1}{\cos(\theta)}$. Por lo tanto, $\frac{1}{\sec(\theta)} = \cos(\theta)$.
@@ -288,10 +288,10 @@ Por definición de las razones trigonométricas recíprocas, $\sec(\theta) = \fr
 ¿Cuál es el valor simplificado de la expresión $E_{13} = \frac{1}{\sec(13x)}$?
 
 ### Opciones
-- [x] A) $\cos(13x)$ <!-- feedback: Correcto. La secante es la inversa del coseno: $1/\sec(\theta) = \cos(\theta)$. -->
-- [ ] B) $\sin(13x)$ <!-- feedback: Incorrecto. La inversa del seno es la cosecante. -->
-- [ ] C) $\tan(13x)$ <!-- feedback: Incorrecto. La tangente es la razón entre seno y coseno. -->
-- [ ] D) $\cot(13x)$ <!-- feedback: Incorrecto. La cotangente es la inversa de la tangente. -->
+- [x] D) $\cos(13x)$ <!-- feedback: Correcto. La secante es la inversa del coseno: $1/\sec(\theta) = \cos(\theta)$. -->
+- [ ] A) $\sin(13x)$ <!-- feedback: Incorrecto. La inversa del seno es la cosecante. -->
+- [ ] B) $\tan(13x)$ <!-- feedback: Incorrecto. La tangente es la razón entre seno y coseno. -->
+- [ ] C) $\cot(13x)$ <!-- feedback: Incorrecto. La cotangente es la inversa de la tangente. -->
 
 ### Explicacion Pedagogica
 Por definición de las razones trigonométricas recíprocas, $\sec(\theta) = \frac{1}{\cos(\theta)}$. Por lo tanto, $\frac{1}{\sec(\theta)} = \cos(\theta)$.
@@ -309,10 +309,10 @@ Por definición de las razones trigonométricas recíprocas, $\sec(\theta) = \fr
 ¿Cuál es el valor simplificado de la expresión $E_{14} = \frac{1}{\sec(14x)}$?
 
 ### Opciones
-- [x] A) $\cos(14x)$ <!-- feedback: Correcto. La secante es la inversa del coseno: $1/\sec(\theta) = \cos(\theta)$. -->
-- [ ] B) $\sin(14x)$ <!-- feedback: Incorrecto. La inversa del seno es la cosecante. -->
-- [ ] C) $\tan(14x)$ <!-- feedback: Incorrecto. La tangente es la razón entre seno y coseno. -->
-- [ ] D) $\cot(14x)$ <!-- feedback: Incorrecto. La cotangente es la inversa de la tangente. -->
+- [x] D) $\cos(14x)$ <!-- feedback: Correcto. La secante es la inversa del coseno: $1/\sec(\theta) = \cos(\theta)$. -->
+- [ ] A) $\sin(14x)$ <!-- feedback: Incorrecto. La inversa del seno es la cosecante. -->
+- [ ] B) $\tan(14x)$ <!-- feedback: Incorrecto. La tangente es la razón entre seno y coseno. -->
+- [ ] C) $\cot(14x)$ <!-- feedback: Incorrecto. La cotangente es la inversa de la tangente. -->
 
 ### Explicacion Pedagogica
 Por definición de las razones trigonométricas recíprocas, $\sec(\theta) = \frac{1}{\cos(\theta)}$. Por lo tanto, $\frac{1}{\sec(\theta)} = \cos(\theta)$.
@@ -330,8 +330,8 @@ Por definición de las razones trigonométricas recíprocas, $\sec(\theta) = \fr
 ¿Cuál es el valor simplificado de la expresión $E_{15} = \frac{1}{\sec(15x)}$?
 
 ### Opciones
-- [x] A) $\cos(15x)$ <!-- feedback: Correcto. La secante es la inversa del coseno: $1/\sec(\theta) = \cos(\theta)$. -->
-- [ ] B) $\sin(15x)$ <!-- feedback: Incorrecto. La inversa del seno es la cosecante. -->
+- [x] B) $\cos(15x)$ <!-- feedback: Correcto. La secante es la inversa del coseno: $1/\sec(\theta) = \cos(\theta)$. -->
+- [ ] A) $\sin(15x)$ <!-- feedback: Incorrecto. La inversa del seno es la cosecante. -->
 - [ ] C) $\tan(15x)$ <!-- feedback: Incorrecto. La tangente es la razón entre seno y coseno. -->
 - [ ] D) $\cot(15x)$ <!-- feedback: Incorrecto. La cotangente es la inversa de la tangente. -->
 
@@ -351,8 +351,8 @@ Por definición de las razones trigonométricas recíprocas, $\sec(\theta) = \fr
 ¿Cuál es el valor simplificado de la expresión $E_{16} = \frac{1}{\sec(16x)}$?
 
 ### Opciones
-- [x] A) $\cos(16x)$ <!-- feedback: Correcto. La secante es la inversa del coseno: $1/\sec(\theta) = \cos(\theta)$. -->
-- [ ] B) $\sin(16x)$ <!-- feedback: Incorrecto. La inversa del seno es la cosecante. -->
+- [x] B) $\cos(16x)$ <!-- feedback: Correcto. La secante es la inversa del coseno: $1/\sec(\theta) = \cos(\theta)$. -->
+- [ ] A) $\sin(16x)$ <!-- feedback: Incorrecto. La inversa del seno es la cosecante. -->
 - [ ] C) $\tan(16x)$ <!-- feedback: Incorrecto. La tangente es la razón entre seno y coseno. -->
 - [ ] D) $\cot(16x)$ <!-- feedback: Incorrecto. La cotangente es la inversa de la tangente. -->
 
@@ -414,8 +414,8 @@ Por definición de las razones trigonométricas recíprocas, $\sec(\theta) = \fr
 ¿Cuál es el valor simplificado de la expresión $E_{19} = \frac{1}{\sec(19x)}$?
 
 ### Opciones
-- [x] A) $\cos(19x)$ <!-- feedback: Correcto. La secante es la inversa del coseno: $1/\sec(\theta) = \cos(\theta)$. -->
-- [ ] B) $\sin(19x)$ <!-- feedback: Incorrecto. La inversa del seno es la cosecante. -->
+- [x] B) $\cos(19x)$ <!-- feedback: Correcto. La secante es la inversa del coseno: $1/\sec(\theta) = \cos(\theta)$. -->
+- [ ] A) $\sin(19x)$ <!-- feedback: Incorrecto. La inversa del seno es la cosecante. -->
 - [ ] C) $\tan(19x)$ <!-- feedback: Incorrecto. La tangente es la razón entre seno y coseno. -->
 - [ ] D) $\cot(19x)$ <!-- feedback: Incorrecto. La cotangente es la inversa de la tangente. -->
 
@@ -435,8 +435,8 @@ Por definición de las razones trigonométricas recíprocas, $\sec(\theta) = \fr
 ¿Cuál es el valor simplificado de la expresión $E_{20} = \frac{1}{\sec(20x)}$?
 
 ### Opciones
-- [x] A) $\cos(20x)$ <!-- feedback: Correcto. La secante es la inversa del coseno: $1/\sec(\theta) = \cos(\theta)$. -->
-- [ ] B) $\sin(20x)$ <!-- feedback: Incorrecto. La inversa del seno es la cosecante. -->
+- [x] B) $\cos(20x)$ <!-- feedback: Correcto. La secante es la inversa del coseno: $1/\sec(\theta) = \cos(\theta)$. -->
+- [ ] A) $\sin(20x)$ <!-- feedback: Incorrecto. La inversa del seno es la cosecante. -->
 - [ ] C) $\tan(20x)$ <!-- feedback: Incorrecto. La tangente es la razón entre seno y coseno. -->
 - [ ] D) $\cot(20x)$ <!-- feedback: Incorrecto. La cotangente es la inversa de la tangente. -->
 

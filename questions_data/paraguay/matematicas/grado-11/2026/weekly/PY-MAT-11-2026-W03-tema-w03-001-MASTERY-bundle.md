@@ -35,9 +35,9 @@ Este bundle evalúa conceptos clave de Logaritmos y sus Propiedades alineados al
 ¿Cómo se define formalmente el logaritmo $\log_b(a) = c$ para $b > 0, b \neq 1$ y $a > 0$?
 
 ### Opciones
-- [x] A) $b^c = a$ <!-- feedback: ¡Correcto! El logaritmo es el exponente al que se debe elevar la base $b$ para obtener el argumento $a$. -->
-- [ ] B) $a^c = b$ <!-- feedback: Incorrecto. Intercambió la base y el argumento. -->
-- [ ] C) $b^a = c$ <!-- feedback: Incorrecto. Esta relación es incorrecta por definición. -->
+- [x] C) $b^c = a$ <!-- feedback: ¡Correcto! El logaritmo es el exponente al que se debe elevar la base $b$ para obtener el argumento $a$. -->
+- [ ] A) $a^c = b$ <!-- feedback: Incorrecto. Intercambió la base y el argumento. -->
+- [ ] B) $b^a = c$ <!-- feedback: Incorrecto. Esta relación es incorrecta por definición. -->
 - [ ] D) $c^b = a$ <!-- feedback: Incorrecto. Esta relación no define al logaritmo de base $b$. -->
 
 ### Explicacion Pedagogica
@@ -56,8 +56,8 @@ Por definición básica de logaritmos, $\log_b(a) = c \iff b^c = a$.
 ¿A qué es igual el logaritmo de un producto, es decir, $\log_b(x \cdot y)$?
 
 ### Opciones
-- [x] A) $\log_b(x) + \log_b(y)$ <!-- feedback: ¡Correcto! El logaritmo de un producto es igual a la suma de los logaritmos de los factores. -->
-- [ ] B) $\log_b(x) \cdot \log_b(y)$ <!-- feedback: Incorrecto. No se multiplican los logaritmos. -->
+- [x] B) $\log_b(x) + \log_b(y)$ <!-- feedback: ¡Correcto! El logaritmo de un producto es igual a la suma de los logaritmos de los factores. -->
+- [ ] A) $\log_b(x) \cdot \log_b(y)$ <!-- feedback: Incorrecto. No se multiplican los logaritmos. -->
 - [ ] C) $\log_b(x + y)$ <!-- feedback: Incorrecto. El logaritmo de una suma no se puede simplificar así. -->
 - [ ] D) $\log_b(x) - \log_b(y)$ <!-- feedback: Incorrecto. La resta corresponde al logaritmo de un cociente. -->
 
@@ -77,8 +77,8 @@ Una propiedad fundamental de los logaritmos establece que el logaritmo de un pro
 En una cooperativa de Luque, Jorge evalúa el interés de una cuenta de ahorros. Si el factor de crecimiento del capital está modelado por $10^t = 1000$, ¿en cuántos años se alcanza este valor aplicando logaritmo común de base 10?
 
 ### Opciones
-- [x] A) 3 años <!-- feedback: ¡Correcto! $\log_{10}(1000) = 3$ porque $10^3 = 1000$. -->
-- [ ] B) 4 años <!-- feedback: Incorrecto. Verifique la potencia de 10 correspondiente. -->
+- [x] B) 3 años <!-- feedback: ¡Correcto! $\log_{10}(1000) = 3$ porque $10^3 = 1000$. -->
+- [ ] A) 4 años <!-- feedback: Incorrecto. Verifique la potencia de 10 correspondiente. -->
 - [ ] C) 2 años <!-- feedback: Incorrecto. El valor es menor del esperado. -->
 - [ ] D) 6 años <!-- feedback: Incorrecto. El doble del tiempo excedería ampliamente el valor de crecimiento. -->
 
@@ -98,9 +98,9 @@ Para resolver $10^t = 1000$, aplicamos logaritmo en base 10 en ambos lados: $t =
 En una cooperativa de Encarnación, Liz evalúa el interés de una cuenta de ahorros. Si el factor de crecimiento del capital está modelado por $10^t = 100$, ¿en cuántos años se alcanza este valor aplicando logaritmo común de base 10?
 
 ### Opciones
-- [x] A) 2 años <!-- feedback: ¡Correcto! $\log_{10}(100) = 2$ porque $10^2 = 100$. -->
-- [ ] B) 3 años <!-- feedback: Incorrecto. Verifique la potencia de 10 correspondiente. -->
-- [ ] C) 1 años <!-- feedback: Incorrecto. El valor es menor del esperado. -->
+- [x] C) 2 años <!-- feedback: ¡Correcto! $\log_{10}(100) = 2$ porque $10^2 = 100$. -->
+- [ ] A) 3 años <!-- feedback: Incorrecto. Verifique la potencia de 10 correspondiente. -->
+- [ ] B) 1 años <!-- feedback: Incorrecto. El valor es menor del esperado. -->
 - [ ] D) 4 años <!-- feedback: Incorrecto. El doble del tiempo excedería ampliamente el valor de crecimiento. -->
 
 ### Explicacion Pedagogica
@@ -119,9 +119,9 @@ Para resolver $10^t = 100$, aplicamos logaritmo en base 10 en ambos lados: $t = 
 En una cooperativa de Ciudad del Este, Gladys evalúa el interés de una cuenta de ahorros. Si el factor de crecimiento del capital está modelado por $10^t = 1000$, ¿en cuántos años se alcanza este valor aplicando logaritmo común de base 10?
 
 ### Opciones
-- [x] A) 3 años <!-- feedback: ¡Correcto! $\log_{10}(1000) = 3$ porque $10^3 = 1000$. -->
-- [ ] B) 4 años <!-- feedback: Incorrecto. Verifique la potencia de 10 correspondiente. -->
-- [ ] C) 2 años <!-- feedback: Incorrecto. El valor es menor del esperado. -->
+- [x] C) 3 años <!-- feedback: ¡Correcto! $\log_{10}(1000) = 3$ porque $10^3 = 1000$. -->
+- [ ] A) 4 años <!-- feedback: Incorrecto. Verifique la potencia de 10 correspondiente. -->
+- [ ] B) 2 años <!-- feedback: Incorrecto. El valor es menor del esperado. -->
 - [ ] D) 6 años <!-- feedback: Incorrecto. El doble del tiempo excedería ampliamente el valor de crecimiento. -->
 
 ### Explicacion Pedagogica
@@ -140,10 +140,10 @@ Para resolver $10^t = 1000$, aplicamos logaritmo en base 10 en ambos lados: $t =
 En una cooperativa de Caacupé, Diego evalúa el interés de una cuenta de ahorros. Si el factor de crecimiento del capital está modelado por $10^t = 100$, ¿en cuántos años se alcanza este valor aplicando logaritmo común de base 10?
 
 ### Opciones
-- [x] A) 2 años <!-- feedback: ¡Correcto! $\log_{10}(100) = 2$ porque $10^2 = 100$. -->
-- [ ] B) 3 años <!-- feedback: Incorrecto. Verifique la potencia de 10 correspondiente. -->
-- [ ] C) 1 años <!-- feedback: Incorrecto. El valor es menor del esperado. -->
-- [ ] D) 4 años <!-- feedback: Incorrecto. El doble del tiempo excedería ampliamente el valor de crecimiento. -->
+- [x] D) 2 años <!-- feedback: ¡Correcto! $\log_{10}(100) = 2$ porque $10^2 = 100$. -->
+- [ ] A) 3 años <!-- feedback: Incorrecto. Verifique la potencia de 10 correspondiente. -->
+- [ ] B) 1 años <!-- feedback: Incorrecto. El valor es menor del esperado. -->
+- [ ] C) 4 años <!-- feedback: Incorrecto. El doble del tiempo excedería ampliamente el valor de crecimiento. -->
 
 ### Explicacion Pedagogica
 Para resolver $10^t = 100$, aplicamos logaritmo en base 10 en ambos lados: $t = \log_{10}(100) = 2$ años.
@@ -182,8 +182,8 @@ Para resolver $10^t = 1000$, aplicamos logaritmo en base 10 en ambos lados: $t =
 En una cooperativa de Coronel Oviedo, Gustavo evalúa el interés de una cuenta de ahorros. Si el factor de crecimiento del capital está modelado por $10^t = 100$, ¿en cuántos años se alcanza este valor aplicando logaritmo común de base 10?
 
 ### Opciones
-- [x] A) 2 años <!-- feedback: ¡Correcto! $\log_{10}(100) = 2$ porque $10^2 = 100$. -->
-- [ ] B) 3 años <!-- feedback: Incorrecto. Verifique la potencia de 10 correspondiente. -->
+- [x] B) 2 años <!-- feedback: ¡Correcto! $\log_{10}(100) = 2$ porque $10^2 = 100$. -->
+- [ ] A) 3 años <!-- feedback: Incorrecto. Verifique la potencia de 10 correspondiente. -->
 - [ ] C) 1 años <!-- feedback: Incorrecto. El valor es menor del esperado. -->
 - [ ] D) 4 años <!-- feedback: Incorrecto. El doble del tiempo excedería ampliamente el valor de crecimiento. -->
 
@@ -203,8 +203,8 @@ Para resolver $10^t = 100$, aplicamos logaritmo en base 10 en ambos lados: $t = 
 En una cooperativa de Concepción, Natalia evalúa el interés de una cuenta de ahorros. Si el factor de crecimiento del capital está modelado por $10^t = 1000$, ¿en cuántos años se alcanza este valor aplicando logaritmo común de base 10?
 
 ### Opciones
-- [x] A) 3 años <!-- feedback: ¡Correcto! $\log_{10}(1000) = 3$ porque $10^3 = 1000$. -->
-- [ ] B) 4 años <!-- feedback: Incorrecto. Verifique la potencia de 10 correspondiente. -->
+- [x] B) 3 años <!-- feedback: ¡Correcto! $\log_{10}(1000) = 3$ porque $10^3 = 1000$. -->
+- [ ] A) 4 años <!-- feedback: Incorrecto. Verifique la potencia de 10 correspondiente. -->
 - [ ] C) 2 años <!-- feedback: Incorrecto. El valor es menor del esperado. -->
 - [ ] D) 6 años <!-- feedback: Incorrecto. El doble del tiempo excedería ampliamente el valor de crecimiento. -->
 
@@ -224,10 +224,10 @@ Para resolver $10^t = 1000$, aplicamos logaritmo en base 10 en ambos lados: $t =
 En una cooperativa de Villarrica, Carlos evalúa el interés de una cuenta de ahorros. Si el factor de crecimiento del capital está modelado por $10^t = 100$, ¿en cuántos años se alcanza este valor aplicando logaritmo común de base 10?
 
 ### Opciones
-- [x] A) 2 años <!-- feedback: ¡Correcto! $\log_{10}(100) = 2$ porque $10^2 = 100$. -->
-- [ ] B) 3 años <!-- feedback: Incorrecto. Verifique la potencia de 10 correspondiente. -->
-- [ ] C) 1 años <!-- feedback: Incorrecto. El valor es menor del esperado. -->
-- [ ] D) 4 años <!-- feedback: Incorrecto. El doble del tiempo excedería ampliamente el valor de crecimiento. -->
+- [x] D) 2 años <!-- feedback: ¡Correcto! $\log_{10}(100) = 2$ porque $10^2 = 100$. -->
+- [ ] A) 3 años <!-- feedback: Incorrecto. Verifique la potencia de 10 correspondiente. -->
+- [ ] B) 1 años <!-- feedback: Incorrecto. El valor es menor del esperado. -->
+- [ ] C) 4 años <!-- feedback: Incorrecto. El doble del tiempo excedería ampliamente el valor de crecimiento. -->
 
 ### Explicacion Pedagogica
 Para resolver $10^t = 100$, aplicamos logaritmo en base 10 en ambos lados: $t = \log_{10}(100) = 2$ años.
@@ -245,9 +245,9 @@ Para resolver $10^t = 100$, aplicamos logaritmo en base 10 en ambos lados: $t = 
 En una cooperativa de Asunción, Ramón evalúa el interés de una cuenta de ahorros. Si el factor de crecimiento del capital está modelado por $10^t = 1000$, ¿en cuántos años se alcanza este valor aplicando logaritmo común de base 10?
 
 ### Opciones
-- [x] A) 3 años <!-- feedback: ¡Correcto! $\log_{10}(1000) = 3$ porque $10^3 = 1000$. -->
-- [ ] B) 4 años <!-- feedback: Incorrecto. Verifique la potencia de 10 correspondiente. -->
-- [ ] C) 2 años <!-- feedback: Incorrecto. El valor es menor del esperado. -->
+- [x] C) 3 años <!-- feedback: ¡Correcto! $\log_{10}(1000) = 3$ porque $10^3 = 1000$. -->
+- [ ] A) 4 años <!-- feedback: Incorrecto. Verifique la potencia de 10 correspondiente. -->
+- [ ] B) 2 años <!-- feedback: Incorrecto. El valor es menor del esperado. -->
 - [ ] D) 6 años <!-- feedback: Incorrecto. El doble del tiempo excedería ampliamente el valor de crecimiento. -->
 
 ### Explicacion Pedagogica
@@ -266,9 +266,9 @@ Para resolver $10^t = 1000$, aplicamos logaritmo en base 10 en ambos lados: $t =
 En una cooperativa de San Lorenzo, María evalúa el interés de una cuenta de ahorros. Si el factor de crecimiento del capital está modelado por $10^t = 100$, ¿en cuántos años se alcanza este valor aplicando logaritmo común de base 10?
 
 ### Opciones
-- [x] A) 2 años <!-- feedback: ¡Correcto! $\log_{10}(100) = 2$ porque $10^2 = 100$. -->
-- [ ] B) 3 años <!-- feedback: Incorrecto. Verifique la potencia de 10 correspondiente. -->
-- [ ] C) 1 años <!-- feedback: Incorrecto. El valor es menor del esperado. -->
+- [x] C) 2 años <!-- feedback: ¡Correcto! $\log_{10}(100) = 2$ porque $10^2 = 100$. -->
+- [ ] A) 3 años <!-- feedback: Incorrecto. Verifique la potencia de 10 correspondiente. -->
+- [ ] B) 1 años <!-- feedback: Incorrecto. El valor es menor del esperado. -->
 - [ ] D) 4 años <!-- feedback: Incorrecto. El doble del tiempo excedería ampliamente el valor de crecimiento. -->
 
 ### Explicacion Pedagogica
@@ -287,10 +287,10 @@ Para resolver $10^t = 100$, aplicamos logaritmo en base 10 en ambos lados: $t = 
 En una cooperativa de Luque, Jorge evalúa el interés de una cuenta de ahorros. Si el factor de crecimiento del capital está modelado por $10^t = 1000$, ¿en cuántos años se alcanza este valor aplicando logaritmo común de base 10?
 
 ### Opciones
-- [x] A) 3 años <!-- feedback: ¡Correcto! $\log_{10}(1000) = 3$ porque $10^3 = 1000$. -->
-- [ ] B) 4 años <!-- feedback: Incorrecto. Verifique la potencia de 10 correspondiente. -->
-- [ ] C) 2 años <!-- feedback: Incorrecto. El valor es menor del esperado. -->
-- [ ] D) 6 años <!-- feedback: Incorrecto. El doble del tiempo excedería ampliamente el valor de crecimiento. -->
+- [x] D) 3 años <!-- feedback: ¡Correcto! $\log_{10}(1000) = 3$ porque $10^3 = 1000$. -->
+- [ ] A) 4 años <!-- feedback: Incorrecto. Verifique la potencia de 10 correspondiente. -->
+- [ ] B) 2 años <!-- feedback: Incorrecto. El valor es menor del esperado. -->
+- [ ] C) 6 años <!-- feedback: Incorrecto. El doble del tiempo excedería ampliamente el valor de crecimiento. -->
 
 ### Explicacion Pedagogica
 Para resolver $10^t = 1000$, aplicamos logaritmo en base 10 en ambos lados: $t = \log_{10}(1000) = 3$ años.
@@ -308,10 +308,10 @@ Para resolver $10^t = 1000$, aplicamos logaritmo en base 10 en ambos lados: $t =
 En una cooperativa de Encarnación, Liz evalúa el interés de una cuenta de ahorros. Si el factor de crecimiento del capital está modelado por $10^t = 100$, ¿en cuántos años se alcanza este valor aplicando logaritmo común de base 10?
 
 ### Opciones
-- [x] A) 2 años <!-- feedback: ¡Correcto! $\log_{10}(100) = 2$ porque $10^2 = 100$. -->
-- [ ] B) 3 años <!-- feedback: Incorrecto. Verifique la potencia de 10 correspondiente. -->
-- [ ] C) 1 años <!-- feedback: Incorrecto. El valor es menor del esperado. -->
-- [ ] D) 4 años <!-- feedback: Incorrecto. El doble del tiempo excedería ampliamente el valor de crecimiento. -->
+- [x] D) 2 años <!-- feedback: ¡Correcto! $\log_{10}(100) = 2$ porque $10^2 = 100$. -->
+- [ ] A) 3 años <!-- feedback: Incorrecto. Verifique la potencia de 10 correspondiente. -->
+- [ ] B) 1 años <!-- feedback: Incorrecto. El valor es menor del esperado. -->
+- [ ] C) 4 años <!-- feedback: Incorrecto. El doble del tiempo excedería ampliamente el valor de crecimiento. -->
 
 ### Explicacion Pedagogica
 Para resolver $10^t = 100$, aplicamos logaritmo en base 10 en ambos lados: $t = \log_{10}(100) = 2$ años.
@@ -329,8 +329,8 @@ Para resolver $10^t = 100$, aplicamos logaritmo en base 10 en ambos lados: $t = 
 En una cooperativa de Ciudad del Este, Gladys evalúa el interés de una cuenta de ahorros. Si el factor de crecimiento del capital está modelado por $10^t = 1000$, ¿en cuántos años se alcanza este valor aplicando logaritmo común de base 10?
 
 ### Opciones
-- [x] A) 3 años <!-- feedback: ¡Correcto! $\log_{10}(1000) = 3$ porque $10^3 = 1000$. -->
-- [ ] B) 4 años <!-- feedback: Incorrecto. Verifique la potencia de 10 correspondiente. -->
+- [x] B) 3 años <!-- feedback: ¡Correcto! $\log_{10}(1000) = 3$ porque $10^3 = 1000$. -->
+- [ ] A) 4 años <!-- feedback: Incorrecto. Verifique la potencia de 10 correspondiente. -->
 - [ ] C) 2 años <!-- feedback: Incorrecto. El valor es menor del esperado. -->
 - [ ] D) 6 años <!-- feedback: Incorrecto. El doble del tiempo excedería ampliamente el valor de crecimiento. -->
 
@@ -392,10 +392,10 @@ Para resolver $10^t = 1000$, aplicamos logaritmo en base 10 en ambos lados: $t =
 En una cooperativa de Coronel Oviedo, Gustavo evalúa el interés de una cuenta de ahorros. Si el factor de crecimiento del capital está modelado por $10^t = 100$, ¿en cuántos años se alcanza este valor aplicando logaritmo común de base 10?
 
 ### Opciones
-- [x] A) 2 años <!-- feedback: ¡Correcto! $\log_{10}(100) = 2$ porque $10^2 = 100$. -->
-- [ ] B) 3 años <!-- feedback: Incorrecto. Verifique la potencia de 10 correspondiente. -->
-- [ ] C) 1 años <!-- feedback: Incorrecto. El valor es menor del esperado. -->
-- [ ] D) 4 años <!-- feedback: Incorrecto. El doble del tiempo excedería ampliamente el valor de crecimiento. -->
+- [x] D) 2 años <!-- feedback: ¡Correcto! $\log_{10}(100) = 2$ porque $10^2 = 100$. -->
+- [ ] A) 3 años <!-- feedback: Incorrecto. Verifique la potencia de 10 correspondiente. -->
+- [ ] B) 1 años <!-- feedback: Incorrecto. El valor es menor del esperado. -->
+- [ ] C) 4 años <!-- feedback: Incorrecto. El doble del tiempo excedería ampliamente el valor de crecimiento. -->
 
 ### Explicacion Pedagogica
 Para resolver $10^t = 100$, aplicamos logaritmo en base 10 en ambos lados: $t = \log_{10}(100) = 2$ años.
@@ -434,8 +434,8 @@ Para resolver $10^t = 1000$, aplicamos logaritmo en base 10 en ambos lados: $t =
 En una cooperativa de Villarrica, Carlos evalúa el interés de una cuenta de ahorros. Si el factor de crecimiento del capital está modelado por $10^t = 100$, ¿en cuántos años se alcanza este valor aplicando logaritmo común de base 10?
 
 ### Opciones
-- [x] A) 2 años <!-- feedback: ¡Correcto! $\log_{10}(100) = 2$ porque $10^2 = 100$. -->
-- [ ] B) 3 años <!-- feedback: Incorrecto. Verifique la potencia de 10 correspondiente. -->
+- [x] B) 2 años <!-- feedback: ¡Correcto! $\log_{10}(100) = 2$ porque $10^2 = 100$. -->
+- [ ] A) 3 años <!-- feedback: Incorrecto. Verifique la potencia de 10 correspondiente. -->
 - [ ] C) 1 años <!-- feedback: Incorrecto. El valor es menor del esperado. -->
 - [ ] D) 4 años <!-- feedback: Incorrecto. El doble del tiempo excedería ampliamente el valor de crecimiento. -->
 

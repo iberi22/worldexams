@@ -31,9 +31,9 @@ creador: "Jules-Agent"
 
 ### Opciones
 - [ ] A) Es el cociente constante entre dos términos consecutivos cualesquiera. <!-- feedback: Incorrecto. El cociente constante define a la razón de una progresión geométrica. -->
-- [x] B) Es el valor constante que se suma a cada término para obtener el siguiente. <!-- feedback: Correcto. Por definición, en una progresión aritmética, cada término se obtiene sumando un valor constante $d$ al término anterior ($a_n = a_{n-1} + d$). -->
-- [ ] C) Es la suma total de los primeros $N$ términos de la sucesión. <!-- feedback: Incorrecto. Este concepto corresponde a la suma de la progresión ($S_n$). -->
-- [ ] D) Es el exponente al que se eleva la variable independiente. <!-- feedback: Incorrecto. Las progresiones aritméticas tienen un comportamiento lineal, no potencial. -->
+- [x] D) Es el valor constante que se suma a cada término para obtener el siguiente. <!-- feedback: Correcto. Por definición, en una progresión aritmética, cada término se obtiene sumando un valor constante $d$ al término anterior ($a_n = a_{n-1} + d$). -->
+- [ ] B) Es la suma total de los primeros $N$ términos de la sucesión. <!-- feedback: Incorrecto. Este concepto corresponde a la suma de la progresión ($S_n$). -->
+- [ ] C) Es el exponente al que se eleva la variable independiente. <!-- feedback: Incorrecto. Las progresiones aritméticas tienen un comportamiento lineal, no potencial. -->
 
 ### Explicacion Pedagogica
 Una progresión aritmética es una sucesión de números reales en la que la diferencia entre dos términos consecutivos cualesquiera es constante. Esta constante se denomina diferencia común.
@@ -51,8 +51,8 @@ Una progresión aritmética es una sucesión de números reales en la que la dif
 ¿Cuál es el término que define a la constante multiplicativa ($r$) que vincula dos términos consecutivos de una progresión geométrica?
 
 ### Opciones
-- [ ] A) La diferencia común de la sucesión. <!-- feedback: Incorrecto. La diferencia se asocia a las progresiones aritméticas. -->
-- [x] B) La razón de la progresión geométrica. <!-- feedback: Correcto. En una progresión geométrica, cada término se obtiene multiplicando el anterior por una constante llamada razón de la progresión ($a_n = a_{n-1} \cdot r$). -->
+- [ ] B) La diferencia común de la sucesión. <!-- feedback: Incorrecto. La diferencia se asocia a las progresiones aritméticas. -->
+- [x] A) La razón de la progresión geométrica. <!-- feedback: Correcto. En una progresión geométrica, cada término se obtiene multiplicando el anterior por una constante llamada razón de la progresión ($a_n = a_{n-1} \cdot r$). -->
 - [ ] C) El término general de la progresión. <!-- feedback: Incorrecto. El término general es la fórmula explícita $a_n$. -->
 - [ ] D) El límite de convergencia al infinito. <!-- feedback: Incorrecto. La razón determina si converge, pero no es el límite en sí. -->
 
@@ -73,8 +73,8 @@ Dada la fórmula del término general de una progresión aritmética, $a_n = a_1
 
 ### Opciones
 - [ ] A) El valor absoluto del primer término de la serie. <!-- feedback: Incorrecto. El primer término es la constante $a_1$. -->
-- [ ] B) El valor de la diferencia común entre términos. <!-- feedback: Incorrecto. La diferencia es la constante $d$. -->
-- [x] C) La posición o índice del término dentro de la sucesión. <!-- feedback: Correcto. La variable $n$ es un número entero positivo que indica el lugar o posición del término $a_n$ en la secuencia. -->
+- [ ] C) El valor de la diferencia común entre términos. <!-- feedback: Incorrecto. La diferencia es la constante $d$. -->
+- [x] B) La posición o índice del término dentro de la sucesión. <!-- feedback: Correcto. La variable $n$ es un número entero positivo que indica el lugar o posición del término $a_n$ en la secuencia. -->
 - [ ] D) La cantidad total de sumandos que contiene la sucesión completa. <!-- feedback: Incorrecto. Las sucesiones pueden ser infinitas. -->
 
 ### Explicacion Pedagogica
@@ -94,8 +94,8 @@ En la fórmula explícita de una sucesión, el índice $n \in \mathbb{N}$ determ
 
 ### Opciones
 - [ ] A) Cuando la razón es estrictamente mayor que uno ($r > 1$). <!-- feedback: Incorrecto. Si $r > 1$, la serie diverge y la suma tiende a infinito. -->
-- [x] B) Cuando el valor absoluto de la razón es estrictamente menor que uno ($|r| < 1$). <!-- feedback: Correcto. Si $-1 < r < 1$, las potencias de la razón tienden a cero a medida que sumamos infinitos términos, permitiendo calcular la suma exacta como $S = \frac{a_1}{1 - r}$. -->
-- [ ] C) Únicamente si la razón es igual a cero ($r = 0$). <!-- feedback: Incorrecto. Para $r=0$ la serie se anula de inmediato, pero existen infinitos valores decimales que también convergen. -->
+- [x] C) Cuando el valor absoluto de la razón es estrictamente menor que uno ($|r| < 1$). <!-- feedback: Correcto. Si $-1 < r < 1$, las potencias de la razón tienden a cero a medida que sumamos infinitos términos, permitiendo calcular la suma exacta como $S = \frac{a_1}{1 - r}$. -->
+- [ ] B) Únicamente si la razón es igual a cero ($r = 0$). <!-- feedback: Incorrecto. Para $r=0$ la serie se anula de inmediato, pero existen infinitos valores decimales que también convergen. -->
 - [ ] D) Cuando la razón es menor o igual a menos uno ($r \le -1$). <!-- feedback: Incorrecto. En este caso la serie oscila divergiendo. -->
 
 ### Explicacion Pedagogica
@@ -114,8 +114,8 @@ Una serie geométrica infinita converge a un valor numérico finito si y solo si
 Dada la fórmula para calcular la suma de los primeros $n$ términos de una progresión aritmética, $S_n = \frac{(a_1 + a_n)n}{2}$, ¿qué propiedad de la sucesión justifica este cálculo directo?
 
 ### Opciones
-- [ ] A) Que los términos alternan de signo de manera regular. <!-- feedback: Incorrecto. Las progresiones aritméticas comunes no alternan de signo si la diferencia es constante positiva. -->
-- [x] B) Que la suma de términos equidistantes de los extremos es constante. <!-- feedback: Correcto. La suma de los términos simétricos respecto al centro de la progresión siempre es constante y es igual a la suma del primer y del último término ($a_1 + a_n$). -->
+- [ ] B) Que los términos alternan de signo de manera regular. <!-- feedback: Incorrecto. Las progresiones aritméticas comunes no alternan de signo si la diferencia es constante positiva. -->
+- [x] A) Que la suma de términos equidistantes de los extremos es constante. <!-- feedback: Correcto. La suma de los términos simétricos respecto al centro de la progresión siempre es constante y es igual a la suma del primer y del último término ($a_1 + a_n$). -->
 - [ ] C) Que la progresión crece exponencialmente. <!-- feedback: Incorrecto. El crecimiento de las progresiones aritméticas es lineal. -->
 - [ ] D) Que la diferencia común tiende a cero. <!-- feedback: Incorrecto. La diferencia $d$ es una constante no nula. -->
 
@@ -136,8 +136,8 @@ El método desarrollado por Gauss para sumar progresiones se basa en el principi
 
 ### Opciones
 - [ ] A) Cuando la diferencia común es positiva ($d > 0$). <!-- feedback: Incorrecto. En este caso la progresión es creciente. -->
-- [x] B) Cuando la diferencia común es negativa ($d < 0$). <!-- feedback: Correcto. Si sumamos un valor negativo, cada término será estrictamente menor que su antecesor ($a_n < a_{n-1}$), haciendo decrecer a la progresión. -->
-- [ ] C) Únicamente si el primer término es menor que cero ($a_1 < 0$). <!-- feedback: Incorrecto. El signo del primer término no determina el crecimiento o decrecimiento de la serie. -->
+- [x] C) Cuando la diferencia común es negativa ($d < 0$). <!-- feedback: Correcto. Si sumamos un valor negativo, cada término será estrictamente menor que su antecesor ($a_n < a_{n-1}$), haciendo decrecer a la progresión. -->
+- [ ] B) Únicamente si el primer término es menor que cero ($a_1 < 0$). <!-- feedback: Incorrecto. El signo del primer término no determina el crecimiento o decrecimiento de la serie. -->
 - [ ] D) Cuando la diferencia común es igual a uno ($d = 1$). <!-- feedback: Incorrecto. Esto generaría un crecimiento lineal simple. -->
 
 ### Explicacion Pedagogica
@@ -157,8 +157,8 @@ Las filas de asientos de un teatro forman una progresión aritmética. Si la pri
 
 ### Opciones
 - [ ] A) $72\text{ asientos}$ <!-- feedback: Incorrecto. Se cometió un error en el valor del índice al aplicar la fórmula. -->
-- [x] B) $68\text{ asientos}$ <!-- feedback: Correcto. Identificamos la progresión: $a_1 = 12$, $d = 4$. Aplicando la fórmula: $a_{15} = 12 + (15 - 1) \cdot 4 = 12 + 14 \cdot 4 = 12 + 56 = 68$ asientos. -->
-- [ ] C) $60\text{ asientos}$ <!-- feedback: Incorrecto. Se sumaron de manera errónea las cantidades. -->
+- [x] C) $68\text{ asientos}$ <!-- feedback: Correcto. Identificamos la progresión: $a_1 = 12$, $d = 4$. Aplicando la fórmula: $a_{15} = 12 + (15 - 1) \cdot 4 = 12 + 14 \cdot 4 = 12 + 56 = 68$ asientos. -->
+- [ ] B) $60\text{ asientos}$ <!-- feedback: Incorrecto. Se sumaron de manera errónea las cantidades. -->
 - [ ] D) $76\text{ asientos}$ <!-- feedback: Incorrecto. No respeta la posición secuencial exacta de la fila 15. -->
 
 ### Explicacion Pedagogica
@@ -199,9 +199,9 @@ Un virus informático infecta a $2$ computadoras el primer día, a $6$ el segund
 
 ### Opciones
 - [ ] A) $108\text{ computadoras}$ <!-- feedback: Incorrecto. Se aplicó una progresión lineal en lugar de geométrica. -->
-- [x] B) $486\text{ computadoras}$ <!-- feedback: Correcto. Es una progresión geométrica con $a_1 = 2$ y $r = 3$. El sexto término es $a_6 = a_1 \cdot r^{6-1} = 2 \cdot 3^5 = 2 \cdot 243 = 486$. -->
-- [ ] C) $1458\text{ computadoras}$ <!-- feedback: Incorrecto. Esto sería el cálculo para el séptimo día ($a_7$). -->
-- [ ] D) $324\text{ computadoras}$ <!-- feedback: Incorrecto. Se calculó de manera errónea la potencia de la razón. -->
+- [x] D) $486\text{ computadoras}$ <!-- feedback: Correcto. Es una progresión geométrica con $a_1 = 2$ y $r = 3$. El sexto término es $a_6 = a_1 \cdot r^{6-1} = 2 \cdot 3^5 = 2 \cdot 243 = 486$. -->
+- [ ] B) $1458\text{ computadoras}$ <!-- feedback: Incorrecto. Esto sería el cálculo para el séptimo día ($a_7$). -->
+- [ ] C) $324\text{ computadoras}$ <!-- feedback: Incorrecto. Se calculó de manera errónea la potencia de la razón. -->
 
 ### Explicacion Pedagogica
 La cantidad de nuevas computadoras infectadas diariamente se modela mediante una progresión geométrica de razón $r=3$ y término inicial $a_1=2$. Para la posición $n=6$, resulta $a_6 = 2 \cdot 3^5 = 486$.
@@ -221,9 +221,9 @@ $$ S = 1 + \frac{1}{2} + \frac{1}{4} + \frac{1}{8} + \dots $$
 
 ### Opciones
 - [ ] A) La suma es infinita (diverge). <!-- feedback: Incorrecto. Dado que la razón es $1/2 < 1$, la serie es perfectamente convergente. -->
-- [x] B) La suma es exactamente igual a $2$. <!-- feedback: Correcto. Es una serie geométrica infinita con $a_1 = 1$ y razón $r = 1/2$. Usando la fórmula de la suma infinita: $S = \frac{1}{1 - 1/2} = \frac{1}{1/2} = 2$. -->
-- [ ] C) La suma es exactamente igual a $1,5$. <!-- feedback: Incorrecto. Esto es solo la suma de los dos primeros términos. -->
-- [ ] D) La suma es igual a $3$. <!-- feedback: Incorrecto. Se operó de forma incorrecta el divisor. -->
+- [x] D) La suma es exactamente igual a $2$. <!-- feedback: Correcto. Es una serie geométrica infinita con $a_1 = 1$ y razón $r = 1/2$. Usando la fórmula de la suma infinita: $S = \frac{1}{1 - 1/2} = \frac{1}{1/2} = 2$. -->
+- [ ] B) La suma es exactamente igual a $1,5$. <!-- feedback: Incorrecto. Esto es solo la suma de los dos primeros términos. -->
+- [ ] C) La suma es igual a $3$. <!-- feedback: Incorrecto. Se operó de forma incorrecta el divisor. -->
 
 ### Explicacion Pedagogica
 Para una serie geométrica infinita convergente, la suma de todos sus términos se determina mediante la fórmula $S = \frac{a_1}{1-r}$. Sustituyendo $a_1 = 1$ y $r = \frac{1}{2}$, se obtiene que la suma converge exactamente al valor de $2$.
@@ -242,8 +242,8 @@ Julieta decide ahorrar dinero en su cuenta de ahorros. El primer mes deposita $\
 
 ### Opciones
 - [ ] A) $\$12500$ <!-- feedback: Incorrecto. No consideró de forma correcta la progresión acumulada. -->
-- [x] B) $\$16200$ <!-- feedback: Correcto. Progresión aritmética: $a_1 = 100, d = 50, n = 24$. El depósito 24 es $a_{24} = 100 + 23 \cdot 50 = 1250$. La suma es $S_{24} = \frac{(100 + 1250) \cdot 24}{2} = 1350 \cdot 12 = 16200$. -->
-- [ ] C) $\$15000$ <!-- feedback: Incorrecto. Error de cálculo en la suma total acumulada. -->
+- [x] C) $\$16200$ <!-- feedback: Correcto. Progresión aritmética: $a_1 = 100, d = 50, n = 24$. El depósito 24 es $a_{24} = 100 + 23 \cdot 50 = 1250$. La suma es $S_{24} = \frac{(100 + 1250) \cdot 24}{2} = 1350 \cdot 12 = 16200$. -->
+- [ ] B) $\$15000$ <!-- feedback: Incorrecto. Error de cálculo en la suma total acumulada. -->
 - [ ] D) $\$18000$ <!-- feedback: Incorrecto. Esto resultaría de sumas estimadas por encima de la progresión real. -->
 
 ### Explicacion Pedagogica
@@ -284,9 +284,9 @@ Dada la sucesión infinita cuyo término general es $a_n = \left(\frac{2}{3}\rig
 
 ### Opciones
 - [ ] A) Es divergente y su suma tiende a infinito. <!-- feedback: Incorrecto. La razón es menor que 1, por lo que la serie es convergente. -->
-- [x] B) Es convergente y su suma infinita es exactamente igual a $2$. <!-- feedback: Correcto. Serie geométrica con primer término $a_1 = 2/3$ (para $n=1$) y razón $r = 2/3$. Suma: $S = \frac{2/3}{1 - 2/3} = \frac{2/3}{1/3} = 2$. -->
-- [ ] C) Es convergente y su suma infinita es igual a $3$. <!-- feedback: Incorrecto. Error al evaluar el primer término de la serie (comienza en $n=1$). -->
-- [ ] D) Es oscilante y no se puede definir su suma. <!-- feedback: Incorrecto. Los términos son estrictamente positivos y decrecientes. -->
+- [x] D) Es convergente y su suma infinita es exactamente igual a $2$. <!-- feedback: Correcto. Serie geométrica con primer término $a_1 = 2/3$ (para $n=1$) y razón $r = 2/3$. Suma: $S = \frac{2/3}{1 - 2/3} = \frac{2/3}{1/3} = 2$. -->
+- [ ] B) Es convergente y su suma infinita es igual a $3$. <!-- feedback: Incorrecto. Error al evaluar el primer término de la serie (comienza en $n=1$). -->
+- [ ] C) Es oscilante y no se puede definir su suma. <!-- feedback: Incorrecto. Los términos son estrictamente positivos y decrecientes. -->
 
 ### Explicacion Pedagogica
 Dado que la razón de la serie geométrica es $r = 2/3$, y cumple que $|r| < 1$, la serie es convergente. Su primer término es $a_1 = 2/3$. Aplicando la fórmula de la suma infinita se obtiene que converge a exactamente $2$.
@@ -305,8 +305,8 @@ Cada pared de hormigón que atraviesa una señal de internet reduce su potencia 
 
 ### Opciones
 - [ ] A) Como mínimo 5 paredes. <!-- feedback: Incorrecto. Con 5 paredes la potencia es $64 / 2^5 = 64/32 = 2\\text{ mW}$, que sigue siendo mayor que 1. -->
-- [x] B) Como mínimo 7 paredes. <!-- feedback: Correcto. La potencia tras $n$ paredes es $P(n) = 64 \cdot (1/2)^n$. Buscamos $64 \cdot (1/2)^n < 1 \Rightarrow (1/2)^n < 1/64 \Rightarrow 2^n > 64 \Rightarrow n > 6$. Al ser un número entero de paredes, el valor mínimo es 7. -->
-- [ ] C) Como mínimo 6 paredes. <!-- feedback: Incorrecto. Con 6 paredes la potencia es exactamente de 1 mW, pero se pide estrictamente menor. -->
+- [x] C) Como mínimo 7 paredes. <!-- feedback: Correcto. La potencia tras $n$ paredes es $P(n) = 64 \cdot (1/2)^n$. Buscamos $64 \cdot (1/2)^n < 1 \Rightarrow (1/2)^n < 1/64 \Rightarrow 2^n > 64 \Rightarrow n > 6$. Al ser un número entero de paredes, el valor mínimo es 7. -->
+- [ ] B) Como mínimo 6 paredes. <!-- feedback: Incorrecto. Con 6 paredes la potencia es exactamente de 1 mW, pero se pide estrictamente menor. -->
 - [ ] D) Como mínimo 8 paredes. <!-- feedback: Incorrecto. Excede el número mínimo de paredes requeridas para atenuar la señal por debajo del límite de 1 mW. -->
 
 ### Explicacion Pedagogica
@@ -347,8 +347,8 @@ Dada la sucesión definida de forma recurrente por $a_1 = 1, a_2 = 1$ y $a_n = a
 
 ### Opciones
 - [ ] A) $a_6 = 5, a_7 = 8$ <!-- feedback: Incorrecto. Estos corresponden a las posiciones 5 y 6 de la sucesión. -->
-- [x] B) $a_6 = 8, a_7 = 13$ <!-- feedback: Correcto. Los términos sucesivos de la secuencia son: $a_1=1, a_2=1, a_3=2, a_4=3, a_5=5, a_6=8, a_7=13$. -->
-- [ ] C) $a_6 = 13, a_7 = 21$ <!-- feedback: Incorrecto. Estos valores corresponden a las posiciones 7 y 8. -->
+- [x] C) $a_6 = 8, a_7 = 13$ <!-- feedback: Correcto. Los términos sucesivos de la secuencia son: $a_1=1, a_2=1, a_3=2, a_4=3, a_5=5, a_6=8, a_7=13$. -->
+- [ ] B) $a_6 = 13, a_7 = 21$ <!-- feedback: Incorrecto. Estos valores corresponden a las posiciones 7 y 8. -->
 - [ ] D) $a_6 = 6, a_7 = 7$ <!-- feedback: Incorrecto. Fibonacci no se define como una progresión aritmética simple de diferencia 1. -->
 
 ### Explicacion Pedagogica
@@ -367,8 +367,8 @@ La sucesión de Fibonacci se construye sumando los dos términos anteriores para
 Expresá el número decimal periódico puro $0,232323\dots$ como una fracción irreducible aplicando la teoría de sumas de series geométricas infinitas.
 
 ### Opciones
-- [ ] A) $\frac{23}{100}$ <!-- feedback: Incorrecto. Esto representaría al decimal exacto $0,23$, no al periódico puro. -->
-- [x] B) $\frac{23}{99}$ <!-- feedback: Correcto. Escribimos como serie: $\frac{23}{100} + \frac{23}{10000} + \dots$ con $a_1 = \frac{23}{100}$ y razón $r = \frac{1}{100}$. Suma: $S = \frac{23/100}{1 - 1/100} = \frac{23/100}{99/100} = \frac{23}{99}$. -->
+- [ ] B) $\frac{23}{100}$ <!-- feedback: Incorrecto. Esto representaría al decimal exacto $0,23$, no al periódico puro. -->
+- [x] A) $\frac{23}{99}$ <!-- feedback: Correcto. Escribimos como serie: $\frac{23}{100} + \frac{23}{10000} + \dots$ con $a_1 = \frac{23}{100}$ y razón $r = \frac{1}{100}$. Suma: $S = \frac{23/100}{1 - 1/100} = \frac{23/100}{99/100} = \frac{23}{99}$. -->
 - [ ] C) $\frac{23}{90}$ <!-- feedback: Incorrecto. Esto representaría a un número decimal periódico mixto. -->
 - [ ] D) $\frac{2}{3}$ <!-- feedback: Incorrecto. Esta fracción equivale al número decimal $0,666\dots$. -->
 
@@ -389,9 +389,9 @@ Si se realiza un depósito de $\$1000$ a una tasa de interés del $5\%$ mensual 
 
 ### Opciones
 - [ ] A) $a_n = 1000 + 50n$ <!-- feedback: Incorrecto. Esto describiría un modelo de interés simple con crecimiento lineal, no compuesto. -->
-- [x] B) $a_n = 1000 \cdot (1,05)^n$ <!-- feedback: Correcto. En el interés compuesto el capital se multiplica mensualmente por el factor de crecimiento $1 + i = 1,05$, lo que constituye una progresión geométrica de la forma $a_n = P_0 \cdot (1 + i)^n$. -->
-- [ ] C) $a_n = 1000 \cdot (0,05)^n$ <!-- feedback: Incorrecto. La base menor a 1 indicaría un decrecimiento severo del capital. -->
-- [ ] D) $a_n = 1000 \cdot (1,5)^n$ <!-- feedback: Incorrecto. El factor de crecimiento correspondería a un interés del $50\%$ mensual. -->
+- [x] D) $a_n = 1000 \cdot (1,05)^n$ <!-- feedback: Correcto. En el interés compuesto el capital se multiplica mensualmente por el factor de crecimiento $1 + i = 1,05$, lo que constituye una progresión geométrica de la forma $a_n = P_0 \cdot (1 + i)^n$. -->
+- [ ] B) $a_n = 1000 \cdot (0,05)^n$ <!-- feedback: Incorrecto. La base menor a 1 indicaría un decrecimiento severo del capital. -->
+- [ ] C) $a_n = 1000 \cdot (1,5)^n$ <!-- feedback: Incorrecto. El factor de crecimiento correspondería a un interés del $50\%$ mensual. -->
 
 ### Explicacion Pedagogica
 El interés compuesto capitaliza los intereses generados mes a mes, de modo que el capital crece de forma geométrica exponencial de acuerdo con la fórmula clásica de capitalización financiera $a_n = C_0 (1 + i)^n$.
@@ -431,9 +431,9 @@ La paradoja de Zenón de Aquiles y la tortuga sostiene que Aquiles nunca alcanza
 
 ### Opciones
 - [ ] A) Zenón tiene razón, y la única forma de que Aquiles la alcance es si la tortuga decide detenerse por completo. <!-- feedback: Incorrecto. La matemática moderna demuestra que el alcance ocurre en un punto de tiempo finito. -->
-- [x] B) La paradoja se resuelve al demostrar que una suma infinita de intervalos de tiempo decrecientes puede dar como resultado un valor de tiempo total finito, instante exacto en el que ocurre el alcance. <!-- feedback: Correcto. Aunque el número de intervalos de aproximación sea infinito, al formar una serie geométrica decreciente convergente ($|r| < 1$), la suma del tiempo total requerido converge a un valor finito de tiempo. -->
-- [ ] C) La paradoja se resuelve porque la distancia recorrida es una progresión aritmética estrictamente creciente. <!-- feedback: Incorrecto. La distancia recorrida por Zenón forma una serie geométrica convergente, no una serie aritmética infinita divergente. -->
-- [ ] D) El dilema no tiene solución matemática y solo puede explicarse mediante posturas de la filosofía clásica. <!-- feedback: Incorrecto. El cálculo de límites y series converge resolviendo de manera absoluta el dilema. -->
+- [x] D) La paradoja se resuelve al demostrar que una suma infinita de intervalos de tiempo decrecientes puede dar como resultado un valor de tiempo total finito, instante exacto en el que ocurre el alcance. <!-- feedback: Correcto. Aunque el número de intervalos de aproximación sea infinito, al formar una serie geométrica decreciente convergente ($|r| < 1$), la suma del tiempo total requerido converge a un valor finito de tiempo. -->
+- [ ] B) La paradoja se resuelve porque la distancia recorrida es una progresión aritmética estrictamente creciente. <!-- feedback: Incorrecto. La distancia recorrida por Zenón forma una serie geométrica convergente, no una serie aritmética infinita divergente. -->
+- [ ] C) El dilema no tiene solución matemática y solo puede explicarse mediante posturas de la filosofía clásica. <!-- feedback: Incorrecto. El cálculo de límites y series converge resolviendo de manera absoluta el dilema. -->
 
 ### Explicacion Pedagogica
 Zenón planteaba que una suma infinita de lapsos de tiempo debía prolongarse indefinidamente hasta el infinito. El análisis de límites y series demuestra de manera contundente que una suma infinita de términos decrecientes puede converger de forma absoluta a una cantidad de tiempo finita y exacta.

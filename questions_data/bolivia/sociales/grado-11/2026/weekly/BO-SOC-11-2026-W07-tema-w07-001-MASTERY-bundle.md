@@ -33,13 +33,13 @@ calibration: {difficulty_band: "D3-D10", expected_success: 0.65}
 ¿Qué impuesto dictado por el parlamento boliviano sirvió de argumento para que Chile ocupara militarmente el puerto de Antofagasta sin previa declaración de guerra?
 
 ### Opciones
-- [x] A) El impuesto de los 10 centavos por quintal de salitre exportado por la Compañía de Salitres de Antofagasta.
+- [x] D) El impuesto de los 10 centavos por quintal de salitre exportado por la Compañía de Salitres de Antofagasta.
   <!-- feedback: Correcto. El impuesto de los 10 centavos aprobado por Bolivia sobre el quintal de salitre fue calificado por Chile como una violación al Tratado de Límites de 1874, sirviendo de justificación para la ocupación militar armada de Antofagasta. -->
-- [ ] B) Un gravamen aduanero sobre el ingreso de teléfonos celulares y computadoras portátiles chilenas.
+- [ ] A) Un gravamen aduanero sobre el ingreso de teléfonos celulares y computadoras portátiles chilenas.
   <!-- feedback: Incorrecto. No existían teléfonos celulares ni computadoras portátiles en el año 1879, representando un burdo anacronismo. -->
-- [ ] C) El cobro obligatorio de peaje en pesos de plata potosina a los barcos pesqueros que cruzaban el lago Poopó.
+- [ ] B) El cobro obligatorio de peaje en pesos de plata potosina a los barcos pesqueros que cruzaban el lago Poopó.
   <!-- feedback: Incorrecto. El lago Poopó es interior altiplánico y no tiene conexión marítima con barcos mercantes chilenos. -->
-- [ ] D) La nacionalización de las minas de estaño paceñas decretada por el presidente de origen portugués.
+- [ ] C) La nacionalización de las minas de estaño paceñas decretada por el presidente de origen portugués.
   <!-- feedback: Incorrecto. El estaño no era el recurso en disputa en el Litoral (lo era el salitre) y no gobernaba ningún portugués en Bolivia. -->
 
 ### Explicacion Pedagogica
@@ -56,11 +56,11 @@ El impuesto de los 10 centavos fue considerado por el gobierno boliviano del pre
 ¿Quién fue Eduardo Abaroa y qué papel desempeñó en la Guerra del Pacífico de 1879?
 
 ### Opciones
-- [x] A) Un comerciante de Calama que se incorporó voluntariamente a la defensa del Puente del Topáter, convirtiéndose en el máximo héroe civil marítimo de Bolivia.
+- [x] C) Un comerciante de Calama que se incorporó voluntariamente a la defensa del Puente del Topáter, convirtiéndose en el máximo héroe civil marítimo de Bolivia.
   <!-- feedback: Correcto. Eduardo Abaroa, ante la invasión armada chilena a Calama, se sumó a las milicias de Ladislao Cabrera, ofrendando heroicamente su vida en la defensa del Puente del Topáter el 23 de marzo de 1879. -->
-- [ ] B) Un almirante enviado por Simón Bolívar en barcos de guerra nucleares para pacificar la costa del Litoral.
+- [ ] A) Un almirante enviado por Simón Bolívar en barcos de guerra nucleares para pacificar la costa del Litoral.
   <!-- feedback: Incorrecto. Bolívar falleció en 1830, décadas antes de la guerra, y no existían buques nucleares en 1879. -->
-- [ ] C) El magnate minero que firmó el Tratado de Paz de 1904 y vendió las minas de litio de Uyuni a Chile.
+- [ ] B) El magnate minero que firmó el Tratado de Paz de 1904 y vendió las minas de litio de Uyuni a Chile.
   <!-- feedback: Incorrecto. Abaroa era un civil patriota de clase media de Calama que murió combatiendo; no era un magnate minero de la plata. -->
 - [ ] D) Un diplomático de origen brasileño que propuso anexar el departamento de Potosí de forma voluntaria al Brasil.
   <!-- feedback: Incorrecto. No era diplomático brasileño ni propuso entregar territorio boliviano de Potosí a Brasil. -->
@@ -125,13 +125,13 @@ La Retirada de Camarones precipitó la caída del presidente Daza. La burguesía
 ¿Qué postura asumieron los grandes empresarios mineros de la plata (como Aniceto Arce) frente a la continuación de la Guerra del Pacífico tras 1880?
 
 ### Opciones
-- [x] A) Presionaron activamente por el cese definitivo de las hostilidades con Chile para salvaguardar sus inversiones y reactivar sus exportaciones de plata por puertos chilenos.
+- [x] D) Presionaron activamente por el cese definitivo de las hostilidades con Chile para salvaguardar sus inversiones y reactivar sus exportaciones de plata por puertos chilenos.
   <!-- feedback: Correcto. La oligarquía minera de la plata ('los patriarcas de la plata') dependía vitalmente de la tecnología de ferrocarriles y de la exportación por el Pacífico; consideraban inútil prolongar la guerra y propugnaban un pragmatismo comercial pacífico. -->
-- [ ] B) Financiaron de forma desinteresada un ejército de millones de guerrilleros aymaras para invadir Santiago de Chile.
+- [ ] A) Financiaron de forma desinteresada un ejército de millones de guerrilleros aymaras para invadir Santiago de Chile.
   <!-- feedback: Incorrecto. La oligarquía minera de la plata priorizaba sus intereses de ganancia privada y se opuso a continuar armando ejércitos contra Chile. -->
-- [ ] C) Exigieron la anexión voluntaria de Bolivia al Imperio del Brasil para nacionalizar las minas de litio.
+- [ ] B) Exigieron la anexión voluntaria de Bolivia al Imperio del Brasil para nacionalizar las minas de litio.
   <!-- feedback: Incorrecto. No existía el uso del litio en 1880 ni se buscaba entregar la soberanía boliviana al Brasil por razones de la plata potosina. -->
-- [ ] D) Abogaron por la abolición absoluta del dinero metálico para retornar al trueque prehispánico de papas secas.
+- [ ] C) Abogaron por la abolición absoluta del dinero metálico para retornar al trueque prehispánico de papas secas.
   <!-- feedback: Incorrecto. Arce y los industriales de la plata eran capitalistas modernos insertos en el mercado financiero internacional andino-europeo. -->
 
 ### Explicacion Pedagogica
@@ -148,9 +148,9 @@ Tras la Batalla del Alto de la Alianza en 1880, Bolivia retiró de forma oficial
 ¿Qué limitación a la soberanía fiscal sufrió Bolivia de manera temporal bajo las cláusulas del Tratado de Tregua de 1884 firmado con Chile?
 
 ### Opciones
-- [x] A) Pérdida del control de sus aduanas del norte e imposición de aranceles preferenciales que favorecían de forma unilateral a las manufacturas chilenas.
+- [x] B) Pérdida del control de sus aduanas del norte e imposición de aranceles preferenciales que favorecían de forma unilateral a las manufacturas chilenas.
   <!-- feedback: Correcto. El Tratado de Tregua de 1884 consagró la ocupación indefinida del Litoral boliviano por Chile, sometiendo además a Bolivia a duras condiciones fiscales y de libre tránsito que mermaron la soberanía aduanera nacional. -->
-- [ ] B) La entrega forzosa de la ciudad de La Paz para que se convirtiera en un puerto militar de la marina chilena.
+- [ ] A) La entrega forzosa de la ciudad de La Paz para que se convirtiera en un puerto militar de la marina chilena.
   <!-- feedback: Incorrecto. La Paz se sitúa en la altura andina a miles de metros sobre el nivel del mar; no se entregó ni posee acceso a puertos militares chilenos marítimos. -->
 - [ ] C) La prohibición absoluta de hablar castellano en las oficinas públicas de Sucre y Cochabamba.
   <!-- feedback: Incorrecto. El castellano se mantuvo como el idioma oficial administrativo de todo el territorio nacional de Bolivia. -->
@@ -194,9 +194,9 @@ El Tratado de 1904 cerró legalmente el enclaustramiento marítimo de Bolivia. F
 Si analizamos el potencial económico del Litoral boliviano en el siglo XIX, ¿qué materias primas de inmenso valor estratégico concentraba el desierto de Atacama?
 
 ### Opciones
-- [x] A) Enormes depósitos de guano para abono y ricos yacimientos de salitre utilizados para la fabricación de pólvora y fertilizantes agrícolas.
+- [x] B) Enormes depósitos de guano para abono y ricos yacimientos de salitre utilizados para la fabricación de pólvora y fertilizantes agrícolas.
   <!-- feedback: Correcto. El guano y el salitre eran recursos codiciados mundialmente por la revolución agraria y armamentística europea; su control desató un auge de codicia internacional que atrajo inversiones chilenas y británicas al despoblado Litoral boliviano. -->
-- [ ] B) Grandes bosques nativos de castaña de exportación y yacimientos profundos de estaño metálico.
+- [ ] A) Grandes bosques nativos de castaña de exportación y yacimientos profundos de estaño metálico.
   <!-- feedback: Incorrecto. El Litoral es un desierto extremadamente seco (Atacama) desprovisto de bosques de castaña, que crecen en la selva húmeda amazónica. -->
 - [ ] C) Reservas gigantescas de litio líquido listas para la fabricación de teléfonos celulares modernos.
   <!-- feedback: Incorrecto. Los teléfonos celulares modernos no existían en el siglo XIX y el litio se sitúa en los salares altiplánicos mediterráneos, no en costas salitreras. -->
@@ -240,9 +240,9 @@ El cumplimiento estricto del Tratado de 1874 era vital para la paz regional. Su 
 Si analizamos los desplazamientos tácticos del ejército boliviano en 1879, ¿qué rol desempeñó la Quinta División al mando del general Narciso Campero?
 
 ### Opciones
-- [x] A) Permaneció replegada en Cotagaita de forma inactiva por sospechas de conspiración y resguardo de las inversiones de los magnates de la plata.
+- [x] B) Permaneció replegada en Cotagaita de forma inactiva por sospechas de conspiración y resguardo de las inversiones de los magnates de la plata.
   <!-- feedback: Correcto. La inacción de la Quinta División en Potosí desató fuertes sospechas de que el general Campero priorizó resguardar las minas de plata de la rosca minera (Arce) y conspiró para deponer al presidente Hilarión Daza. -->
-- [ ] B) Inundó la bahía de Antofagasta de forma pacífica utilizando barcos pesqueros andinos.
+- [ ] A) Inundó la bahía de Antofagasta de forma pacífica utilizando barcos pesqueros andinos.
   <!-- feedback: Incorrecto. La Paz y Oruro no cuentan con puertos marítimos y la Quinta División operaba de forma terrestre andina en Potosí. -->
 - [ ] C) Firmó de inmediato la Constitución de 2009 que declaró al Litoral boliviano Estado Plurinacional de forma voluntaria.
   <!-- feedback: Incorrecto. Es un completo desfase e imposibilidad histórica, ya que la Constitución de 2009 es del siglo XXI. -->
@@ -263,13 +263,13 @@ El rol de la Quinta División ilustra el divisionismo interno de la élite de Bo
 Al analizar las consecuencias inmediatas de la pérdida de la costa soberana tras 1880, ¿qué limitación geopolítica estructural condicionó la economía de Bolivia?
 
 ### Opciones
-- [x] A) La mediterraneidad obligada del territorio, supeditando su comercio exterior a los puertos de tránsito soberanos de Chile y Perú.
+- [x] D) La mediterraneidad obligada del territorio, supeditando su comercio exterior a los puertos de tránsito soberanos de Chile y Perú.
   <!-- feedback: Correcto. La pérdida del Litoral dejó a Bolivia enclaustrada geográficamente, obligándola a depender de la voluntad portuaria e impositiva de sus vecinos para exportar e importar mercancías. -->
-- [ ] B) La prohibición total de cultivar papa y quinua real decretada por el parlamento de Santiago de Chile.
+- [ ] A) La prohibición total de cultivar papa y quinua real decretada por el parlamento de Santiago de Chile.
   <!-- feedback: Incorrecto. El cultivo andino nativo continuó regulado pero libre en el altiplano de Bolivia, sin prohibición de Chile. -->
-- [ ] C) La inundación masiva de los socavones mineros del Cerro Rico por las mareas altas del océano Pacífico.
+- [ ] B) La inundación masiva de los socavones mineros del Cerro Rico por las mareas altas del océano Pacífico.
   <!-- feedback: Incorrecto. Potosí se sitúa a miles de metros sobre el nivel del mar; físicamente es imposible que mareas oceánicas inunden sus socavones. -->
-- [ ] D) La entrega total de la Amazonía boliviana de forma obligatoria al Imperio del Brasil por ferrocarriles.
+- [ ] C) La entrega total de la Amazonía boliviana de forma obligatoria al Imperio del Brasil por ferrocarriles.
   <!-- feedback: Incorrecto. Los límites con el Brasil en el Acre se acordaron décadas más tarde en 1903, ajenos al Tratado de Tregua de 1884. -->
 
 ### Explicacion Pedagogica
@@ -286,9 +286,9 @@ El enclaustramiento forzado de Bolivia representa un obstáculo estructural hist
 ¿Qué costo de transacción de carácter permanente restaba competitividad a las exportaciones de estaño y plata de Bolivia tras la pérdida del Litoral?
 
 ### Opciones
-- [x] A) El cobro de fletes e impuestos de tránsito portuario terrestre y las demoras aduaneras aplicadas por puertos chilenos bajo el Tratado de 1904.
+- [x] B) El cobro de fletes e impuestos de tránsito portuario terrestre y las demoras aduaneras aplicadas por puertos chilenos bajo el Tratado de 1904.
   <!-- feedback: Correcto. A pesar del libre tránsito teórico consagrado en el Tratado de 1904, las demoras burocráticas, trabas aduaneras y de fletes terrestres chilenos encarecieron de forma sustancial las exportaciones bolivianas. -->
-- [ ] B) La abolición del idioma castellano para declarar el idioma inglés como único oficial de las aduanas de la patria.
+- [ ] A) La abolición del idioma castellano para declarar el idioma inglés como único oficial de las aduanas de la patria.
   <!-- feedback: Incorrecto. No se abolió el castellano administrativo en aduanas terrestres o fluviales de Bolivia. -->
 - [ ] C) El pago obligatorio de un subsidio en pesos de oro a las fuerzas armadas de la Unión Soviética.
   <!-- feedback: Incorrecto. La Unión Soviética no existía en el periodo de 1904 de la firma del Tratado de Paz con Chile. -->
@@ -309,11 +309,11 @@ Estudios económicos confirman que los países mediterráneos sufren un 'impuest
 Al analizar críticamente las fuerzas económicas internacionales en la Guerra del Pacífico, ¿qué papel jugaron los capitales de inversión británicos?
 
 ### Opciones
-- [x] A) Financiaron y apoyaron decididamente al bando de Chile debido a que controlaban la mayor parte de las acciones de la Compañía de Salitres.
+- [x] C) Financiaron y apoyaron decididamente al bando de Chile debido a que controlaban la mayor parte de las acciones de la Compañía de Salitres.
   <!-- feedback: Correcto. Las salitreras del Litoral estaban controladas mayoritariamente por capitalistas británicos asentados en Valparaíso; su influencia en el parlamento chileno determinó la agresión militar defensiva ante los impuestos bolivianos. -->
-- [ ] B) Lucharon de forma heroica al lado de Eduardo Abaroa en la defensa del Puente del Topáter.
+- [ ] A) Lucharon de forma heroica al lado de Eduardo Abaroa en la defensa del Puente del Topáter.
   <!-- feedback: Incorrecto. Los británicos apoyaron material y financieramente a las fuerzas invasoras chilenas, no al bando boliviano. -->
-- [ ] C) Entregaron la totalidad de las minas del Cerro Rico al Paraguay para devaluar el precio internacional de la plata.
+- [ ] B) Entregaron la totalidad de las minas del Cerro Rico al Paraguay para devaluar el precio internacional de la plata.
   <!-- feedback: Incorrecto. El Paraguay no participó en la contienda del Pacífico y el Cerro Rico se mantuvo bajo control soberano de Bolivia. -->
 - [ ] D) Exigieron que Simón Bolívar fuera nombrado papa de la Iglesia católica andina central.
   <!-- feedback: Incorrecto. Simón Bolívar falleció en 1830 de forma civil, alejado de pretensiones religiosas eclesiásticas de papados británicos. -->
@@ -332,11 +332,11 @@ La Guerra del Pacífico ha sido catalogada por historiadores críticos como la '
 ¿Qué contradicción de intereses dividía a las facciones militaristas de Hilarión Daza de los magnates mineros conservadores en 1879?
 
 ### Opciones
-- [x] A) Daza promovía una política tributaria nacionalista y hostilidad defensiva armada contra Chile, mientras que los conservadores priorizaban el arreglo pacífico mercantil.
+- [x] C) Daza promovía una política tributaria nacionalista y hostilidad defensiva armada contra Chile, mientras que los conservadores priorizaban el arreglo pacífico mercantil.
   <!-- feedback: Correcto. Los magnates de la plata (Aniceto Arce, Gregorio Pacheco) temían que la guerra de Daza paralizara las exportaciones de sus minas andinas y destruyera sus inversiones ligadas a capitalistas de Valparaíso, abogando por el cese de hostilidades. -->
-- [ ] B) La disputa sobre si se debían donar las minas de litio del Salar de Uyuni al bando de los jesuitas del Beni.
+- [ ] A) La disputa sobre si se debían donar las minas de litio del Salar de Uyuni al bando de los jesuitas del Beni.
   <!-- feedback: Incorrecto. No se disputaba el litio en 1879 y los jesuitas habían sido expulsados de misiones hacía más de un siglo. -->
-- [ ] C) El cobro obligatorio de aranceles cero a todas las importaciones de carbón procedentes de la Unión Soviética.
+- [ ] B) El cobro obligatorio de aranceles cero a todas las importaciones de carbón procedentes de la Unión Soviética.
   <!-- feedback: Incorrecto. No operaba la Unión Soviética y no existía tal comercio o disputa arancelaria con el Litoral de Bolivia. -->
 - [ ] D) La abolición del voto universal de las mujeres indígenas andinas de Cochabamba.
   <!-- feedback: Incorrecto. El voto universal no existía en 1879, por lo que no guarda relación con las disputas de la élite minera de la plata. -->
@@ -401,9 +401,9 @@ La defensa de Calama del 23 de marzo de 1879 constituyó un acto de valor y hero
 Al juzgar integralmente el Tratado de Paz y Amistad de 1904 firmado con Chile, ¿cuál de las siguientes valoraciones cuenta con mayor sustento historiográfico?
 
 ### Opciones
-- [x] A) Consagró de manera definitiva el enclaustramiento de Bolivia y amarró la economía nacional a la infraestructura y puertos chilenos a cambio de compensaciones menores.
+- [x] B) Consagró de manera definitiva el enclaustramiento de Bolivia y amarró la economía nacional a la infraestructura y puertos chilenos a cambio de compensaciones menores.
   <!-- feedback: Correcto. El Tratado de 1904 fue duramente juzgado por la historia crítica como una capitulación de las élites liberales, que resignaron la costa soberana a perpetuidad a cambio de indemnizaciones económicas exiguas. -->
-- [ ] B) Fue sumamente beneficioso para el erario público porque Chile cedió de forma voluntaria toda la cordillera andina a Bolivia.
+- [ ] A) Fue sumamente beneficioso para el erario público porque Chile cedió de forma voluntaria toda la cordillera andina a Bolivia.
   <!-- feedback: Incorrecto. Chile no cedió cordilleras andinas ni devolvió territorio Litoral; consolidó su anexión definitiva de Calama y Antofagasta. -->
 - [ ] C) La corona de España obligó a los revolucionarios a hablar francés para conmutar las sentencias de muerte de los cabecillas.
   <!-- feedback: Incorrecto. España luchaba ferozmente contra la invasión francesa y aborrecía el idioma francés; las sentencias de muerte se ejecutaron de inmediato. -->
@@ -424,13 +424,13 @@ El Tratado de 1904 devela las contradicciones de las élites de la postguerra. A
 Al juzgar críticamente la tesis patriótica del 'enclaustramiento marítimo' como la causa primordial del subdesarrollo industrial de Bolivia, ¿cuál es la valoración historiográfica más equilibrada?
 
 ### Opciones
-- [x] A) La mediterraneidad impuso un costo estructural innegable, pero el atraso industrial también obedeció a factores internos de negligencia estatal y persistencia del extractivismo señorial.
+- [x] D) La mediterraneidad impuso un costo estructural innegable, pero el atraso industrial también obedeció a factores internos de negligencia estatal y persistencia del extractivismo señorial.
   <!-- feedback: Correcto. Si bien la falta de puerto soberano restó competitividad, la historia crítica devela que el atraso industrial también se debió a la negligencia de la rosca minera que remitió sus fabulosas ganancias al extranjero sin industrializar la patria. -->
-- [ ] B) El enclaustramiento fue un invento de los azogueros de Potosí para justificar el cobro del impuesto de los 10 centavos.
+- [ ] A) El enclaustramiento fue un invento de los azogueros de Potosí para justificar el cobro del impuesto de los 10 centavos.
   <!-- feedback: Incorrecto. La pérdida del Litoral y el enclaustramiento son hechos históricos geográficos reales y dolorosos para Bolivia, no inventos de azogueros. -->
-- [ ] C) Demuestra que la quinua andina se produce mejor en climas tropicales lluviosos a orillas del río Amazonas.
+- [ ] B) Demuestra que la quinua andina se produce mejor en climas tropicales lluviosos a orillas del río Amazonas.
   <!-- feedback: Incorrecto. La quinua andina se adapta específicamente a suelos áridos y bajas temperaturas del altiplano, no a selvas tropicales húmedas. -->
-- [ ] D) El Litoral boliviano era estéril y desprovisto de recursos y su pérdida fue una bendición económica para las aduanas de la patria.
+- [ ] C) El Litoral boliviano era estéril y desprovisto de recursos y su pérdida fue una bendición económica para las aduanas de la patria.
   <!-- feedback: Incorrecto. El Litoral poseía inmensas riquezas estratégicas de salitre, guano, cobre y plata; su pérdida representó un desastre económico real para Bolivia. -->
 
 ### Explicacion Pedagogica
@@ -447,13 +447,13 @@ El debate del subdesarrollo boliviano devela que el factor geográfico y el fact
 Al evaluar globalmente los factores de imprevisión de la defensa boliviana en la Guerra del Pacífico de 1879, ¿cuál de las siguientes conclusiones cuenta con mayor respaldo documental?
 
 ### Opciones
-- [x] A) La total desatención demográfica y de control militar efectivo del Litoral por parte del Estado de Bolivia, sumado a la inestabilidad política caudillista de La Paz.
+- [x] D) La total desatención demográfica y de control militar efectivo del Litoral por parte del Estado de Bolivia, sumado a la inestabilidad política caudillista de La Paz.
   <!-- feedback: Correcto. Bolivia gobernaba el Litoral de manera remota e ineficaz, con escasa población nacional y sin defensas de fortificaciones o barcos de guerra navales, facilitando la agresión fáctica del disciplinado ejército de Chile. -->
-- [ ] B) La decisión pacífica de los habitantes de Antofagasta de independizarse de Bolivia para fundar el Imperio de Portugal.
+- [ ] A) La decisión pacífica de los habitantes de Antofagasta de independizarse de Bolivia para fundar el Imperio de Portugal.
   <!-- feedback: Incorrecto. La población de Antofagasta en 1879 era de mayoría chilena y británica bajo soberanía de Bolivia; no deseaban pertenecer a Portugal. -->
-- [ ] C) La orden obligatoria de Simón Bolívar de regalar la costa de Calama a Chile a cambio de un tren bioceánico.
+- [ ] B) La orden obligatoria de Simón Bolívar de regalar la costa de Calama a Chile a cambio de un tren bioceánico.
   <!-- feedback: Incorrecto. Bolívar falleció en 1830, décadas antes de la guerra, y defendía con fervor la integridad territorial soberana de Bolivia. -->
-- [ ] D) La prohibición del uso del castellano en las oficinas de las aduanas nacionales decretada por los reyes borbones de España.
+- [ ] C) La prohibición del uso del castellano en las oficinas de las aduanas nacionales decretada por los reyes borbones de España.
   <!-- feedback: Incorrecto. España ya no gobernaba en 1879 de forma civil; el castellano se mantuvo como idioma administrativo oficial de aduanas bolivianas. -->
 
 ### Explicacion Pedagogica
@@ -470,11 +470,11 @@ La tragedia de 1879 devela las falencias institucionales del Estado boliviano de
 Al evaluar críticamente el fallo de la Corte Internacional de Justicia de La Haya de 2018 sobre la demanda marítima de Bolivia contra Chile, ¿cuál de las siguientes afirmaciones posee mayor sustento jurídico e histórico?
 
 ### Opciones
-- [x] A) La Corte determinó que Chile no tiene la obligación legal de negociar un acceso soberano al mar para Bolivia, pero recomendó continuar los diálogos diplomáticos de buena vecindad.
+- [x] C) La Corte determinó que Chile no tiene la obligación legal de negociar un acceso soberano al mar para Bolivia, pero recomendó continuar los diálogos diplomáticos de buena vecindad.
   <!-- feedback: Correcto. El fallo de octubre de 2018 desestimó los argumentos jurídicos de Bolivia sobre los 'derechos expectaticios' derivados de promesas históricas de Chile, dejando al país enclaustrado legalmente en el Tratado de 1904, instando empero a dialogar por la mediterraneidad. -->
-- [ ] B) La Corte ordenó de forma obligatoria a Chile devolver el puerto de Antofagasta a Bolivia en un mes de forma pacífica.
+- [ ] A) La Corte ordenó de forma obligatoria a Chile devolver el puerto de Antofagasta a Bolivia en un mes de forma pacífica.
   <!-- feedback: Incorrecto. La CIJ desestimó la demanda boliviana y no obligó a Chile a devolver puertos o territorios costeros del Pacífico. -->
-- [ ] C) La Corte dictaminó que Bolivia debía disolver sus aduanas terrestres para integrarse voluntariamente al Paraguay de forma militar.
+- [ ] B) La Corte dictaminó que Bolivia debía disolver sus aduanas terrestres para integrarse voluntariamente al Paraguay de forma militar.
   <!-- feedback: Incorrecto. La CIJ no tiene jurisdicción para disolver aduanas o fusionar Estados soberanos de forma militar. -->
 - [ ] D) La Corte declaró ilegal el Tratado de 1904 y restableció la vigencia del Tratado de Tordesillas del siglo XV.
   <!-- feedback: Incorrecto. La CIJ ratificó la plena vigencia de tratados bilaterales modernos vigentes, descartando revocar límites territoriales acordados en 1904. -->

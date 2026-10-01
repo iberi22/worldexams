@@ -51,8 +51,8 @@ La localización de datos explícitos literales es la habilidad básica de la le
 ¿Qué tres fuentes de energía renovable se nombran de forma explícita en el informe?
 
 ### Opciones
-- [x] A) Eólica, solar e hidroeléctrica. <!-- feedback: ¡Correcto! Se enumeran explícitamente entre paréntesis en el texto. -->
-- [ ] B) Nuclear, térmica y carbón. <!-- feedback: Incorrecto. No son renovables ni figuran en la cita. -->
+- [x] B) Eólica, solar e hidroeléctrica. <!-- feedback: ¡Correcto! Se enumeran explícitamente entre paréntesis en el texto. -->
+- [ ] A) Nuclear, térmica y carbón. <!-- feedback: Incorrecto. No son renovables ni figuran en la cita. -->
 - [ ] C) Geotérmica, mareomotriz y biomasa. <!-- feedback: Incorrecto. No se mencionan en este pasaje. -->
 - [ ] D) Petróleo, gas natural y leña. <!-- feedback: Incorrecto. Corresponden a combustibles fósiles/tradicionales no citados. -->
 
@@ -108,8 +108,8 @@ Las locuciones condicionales (*siempre que*, *a condición de que*) subordinan e
 ¿Qué figura literaria se utiliza al atribuirle al arroyo la acción de "cantar"?
 
 ### Opciones
-- [ ] A) Antítesis expresiva. <!-- feedback: Incorrecto. No contrapone ideas opuestas. -->
-- [x] B) Personificación (o prosopopeya). <!-- feedback: ¡Correcto! Asigna una cualidad/acción humana (cantar) a una corriente de agua inanimada. -->
+- [ ] B) Antítesis expresiva. <!-- feedback: Incorrecto. No contrapone ideas opuestas. -->
+- [x] A) Personificación (o prosopopeya). <!-- feedback: ¡Correcto! Asigna una cualidad/acción humana (cantar) a una corriente de agua inanimada. -->
 - [ ] C) Hipérbole cuantitativa. <!-- feedback: Incorrecto. No exagera dimensiones físicas. -->
 - [ ] D) Anáfora sintáctica. <!-- feedback: Incorrecto. No hay repetición de palabras iniciales. -->
 
@@ -127,8 +127,8 @@ La personificación otorga cualidades o conductas propias de seres humanos a ele
 ¿Qué muletilla o marcador del discurso oral rioplatense abre la intervención?
 
 ### Opciones
-- [x] A) El marcador conversacional "Ta". <!-- feedback: ¡Correcto! "Ta" es un marcador discursivo conversacional de acuerdo o asentimiento típico del español uruguayo. -->
-- [ ] B) El giro galo "Déjà vu". <!-- feedback: Incorrecto. No pertenece al francés ni figura en el texto. -->
+- [x] B) El marcador conversacional "Ta". <!-- feedback: ¡Correcto! "Ta" es un marcador discursivo conversacional de acuerdo o asentimiento típico del español uruguayo. -->
+- [ ] A) El giro galo "Déjà vu". <!-- feedback: Incorrecto. No pertenece al francés ni figura en el texto. -->
 - [ ] C) El arcaísmo "Ansi". <!-- feedback: Incorrecto. No hay arcaísmos en la frase. -->
 - [ ] D) El cultismo "Ergo". <!-- feedback: Incorrecto. "Ergo" es una conjunción latina formal. -->
 
@@ -146,8 +146,8 @@ El monosílabo "Ta" (derivado de *está*) es un marcador del discurso altamente 
 ¿Qué grupo nominal ejerce la función de complemento directo en el enunciado?
 
 ### Opciones
-- [ ] A) Los inspectores de la Intendencia de Canelones <!-- feedback: Incorrecto. Es el sujeto. -->
-- [x] B) el local <!-- feedback: ¡Correcto! Recibe la acción directa del verbo transitivo "clausuraron" (sustituible por *lo*: "lo clausuraron"). -->
+- [ ] B) Los inspectores de la Intendencia de Canelones <!-- feedback: Incorrecto. Es el sujeto. -->
+- [x] A) el local <!-- feedback: ¡Correcto! Recibe la acción directa del verbo transitivo "clausuraron" (sustituible por *lo*: "lo clausuraron"). -->
 - [ ] C) por falta de habilitación bromatológica <!-- feedback: Incorrecto. Es el complemento circunstancial de causa. -->
 - [ ] D) de Canelones <!-- feedback: Incorrecto. Es un complemento del nombre "Intendencia". -->
 
@@ -165,8 +165,8 @@ El complemento directo admite la prueba de sustitución pronominal átona (*lo, 
 ¿Qué tipo de relación discursiva introduce el conector "sin embargo"?
 
 ### Opciones
-- [ ] A) Suma de argumentos en la misma dirección. <!-- feedback: Incorrecto. No es un conector aditivo. -->
-- [x] B) Oposición o contraste parcial (adversativa). <!-- feedback: ¡Correcto! Restringe el optimismo inicial introduciendo un aspecto problemático contrapuesto. -->
+- [ ] B) Suma de argumentos en la misma dirección. <!-- feedback: Incorrecto. No es un conector aditivo. -->
+- [x] A) Oposición o contraste parcial (adversativa). <!-- feedback: ¡Correcto! Restringe el optimismo inicial introduciendo un aspecto problemático contrapuesto. -->
 - [ ] C) Conclusión o cierre formal. <!-- feedback: Incorrecto. No es un nexo conclusivo. -->
 - [ ] D) Causa determinante. <!-- feedback: Incorrecto. No expresa causa. -->
 
@@ -184,10 +184,10 @@ Los conectores adversativos (*sin embargo*, *no obstante*) contraponen dos enunc
 ¿Qué tipo de oración subordinada introduce la conjunción "Si" al inicio del enunciado?
 
 ### Opciones
-- [x] A) Subordinada adverbial condicional. <!-- feedback: ¡Correcto! Plantea la hipótesis en subjuntivo necesaria para la realización del laboratorio. -->
-- [ ] B) Subordinada adverbial concesiva. <!-- feedback: Incorrecto. No es una concesión. -->
-- [ ] C) Subordinada sustantiva de sujeto. <!-- feedback: Incorrecto. Es una subordinada condicional. -->
-- [ ] D) Subordinada adjetiva de relativo. <!-- feedback: Incorrecto. No modifica a ningún sustantivo antecedente. -->
+- [x] D) Subordinada adverbial condicional. <!-- feedback: ¡Correcto! Plantea la hipótesis en subjuntivo necesaria para la realización del laboratorio. -->
+- [ ] A) Subordinada adverbial concesiva. <!-- feedback: Incorrecto. No es una concesión. -->
+- [ ] B) Subordinada sustantiva de sujeto. <!-- feedback: Incorrecto. Es una subordinada condicional. -->
+- [ ] C) Subordinada adjetiva de relativo. <!-- feedback: Incorrecto. No modifica a ningún sustantivo antecedente. -->
 
 ### Explicación Pedagógica
 Las oraciones subordinadas condicionales expresan la premisa o hipótesis requerida para que se cumpla la apódosis principal.
@@ -203,9 +203,9 @@ Las oraciones subordinadas condicionales expresan la premisa o hipótesis requer
 ¿Qué grupo preposicional funciona como complemento indirecto (CI) en la oración?
 
 ### Opciones
-- [ ] A) La orquesta filarmónica <!-- feedback: Incorrecto. Es el sujeto. -->
-- [ ] B) un concierto memorable <!-- feedback: Incorrecto. Es el complemento directo. -->
-- [x] C) a los vecinos del barrio Sur <!-- feedback: ¡Correcto! Es el destinatario de la acción que se sustituye por el pronombre *les* ("les ofreció un concierto"). -->
+- [ ] B) La orquesta filarmónica <!-- feedback: Incorrecto. Es el sujeto. -->
+- [ ] C) un concierto memorable <!-- feedback: Incorrecto. Es el complemento directo. -->
+- [x] A) a los vecinos del barrio Sur <!-- feedback: ¡Correcto! Es el destinatario de la acción que se sustituye por el pronombre *les* ("les ofreció un concierto"). -->
 - [ ] D) del barrio Sur <!-- feedback: Incorrecto. Es un complemento del nombre "vecinos". -->
 
 ### Explicación Pedagógica
@@ -241,10 +241,10 @@ El uso de conectores adversativos en textos de prensa permite contrastar version
 ¿Qué figura estilística se configura en la expresión "Tu voz es un susurro de brisa marina"?
 
 ### Opciones
-- [x] A) Metáfora atributiva (A es B), asociando la suavidad acústica de la voz con la brisa. <!-- feedback: ¡Correcto! Equipara directamente la voz con el susurro marino mediante el verbo ser. -->
-- [ ] B) Símil comparativo expreso. <!-- feedback: Incorrecto. Carece del nexo *como*. -->
-- [ ] C) Hipérbole desmesurada. <!-- feedback: Incorrecto. No exagera dimensiones físicas de forma descomunal. -->
-- [ ] D) Anáfora de verso. <!-- feedback: Incorrecto. No hay repeticiones al inicio. -->
+- [x] D) Metáfora atributiva (A es B), asociando la suavidad acústica de la voz con la brisa. <!-- feedback: ¡Correcto! Equipara directamente la voz con el susurro marino mediante el verbo ser. -->
+- [ ] A) Símil comparativo expreso. <!-- feedback: Incorrecto. Carece del nexo *como*. -->
+- [ ] B) Hipérbole desmesurada. <!-- feedback: Incorrecto. No exagera dimensiones físicas de forma descomunal. -->
+- [ ] C) Anáfora de verso. <!-- feedback: Incorrecto. No hay repeticiones al inicio. -->
 
 ### Explicación Pedagógica
 La metáfora atributiva vincula directamente el término real con el evocado mediante el verbo copulativo, proyectando cualidades auditivas y afectivas.
@@ -282,9 +282,9 @@ La estructura de contraste contrapone dos realidades socioeconómicas asimétric
 
 ### Opciones
 - [ ] A) Modifica el tiempo histórico del hecho del pasado al futuro. <!-- feedback: Incorrecto. Ambos verbos expresan tiempo pasado. -->
-- [x] B) Tematiza y otorga relevancia informativa al objeto afectado ("las irregularidades financieras"), convirtiéndolo en sujeto paciente. <!-- feedback: ¡Correcto! La voz pasiva desplaza el foco de atención hacia el resultado o proceso investigado. -->
-- [ ] C) Incurre en un error gramatical de concordancia. <!-- feedback: Incorrecto. La concordancia es perfecta. -->
-- [ ] D) Transforma la oración afirmativa en una pregunta dudosa. <!-- feedback: Incorrecto. Mantiene la modalidad declarativa fáctica. -->
+- [x] D) Tematiza y otorga relevancia informativa al objeto afectado ("las irregularidades financieras"), convirtiéndolo en sujeto paciente. <!-- feedback: ¡Correcto! La voz pasiva desplaza el foco de atención hacia el resultado o proceso investigado. -->
+- [ ] B) Incurre en un error gramatical de concordancia. <!-- feedback: Incorrecto. La concordancia es perfecta. -->
+- [ ] C) Transforma la oración afirmativa en una pregunta dudosa. <!-- feedback: Incorrecto. Mantiene la modalidad declarativa fáctica. -->
 
 ### Explicación Pedagógica
 La voz pasiva es un recurso sintáctico de tematización que permite resaltar el objeto de la acción e ignorar o relegar al agente.
@@ -300,8 +300,8 @@ La voz pasiva es un recurso sintáctico de tematización que permite resaltar el
 ¿Qué función sintáctica ejerce la proposición "que los gobiernos departamentales garanticen el libre acceso a las playas públicas"?
 
 ### Opciones
-- [x] A) Subordinada sustantiva en función de sujeto del adjetivo "imprescindible". <!-- feedback: ¡Correcto! Equivale a "Eso es imprescindible", funcionando como sujeto de la oración atributiva. -->
-- [ ] B) Subordinada adjetiva especificativa. <!-- feedback: Incorrecto. No modifica a ningún sustantivo. -->
+- [x] B) Subordinada sustantiva en función de sujeto del adjetivo "imprescindible". <!-- feedback: ¡Correcto! Equivale a "Eso es imprescindible", funcionando como sujeto de la oración atributiva. -->
+- [ ] A) Subordinada adjetiva especificativa. <!-- feedback: Incorrecto. No modifica a ningún sustantivo. -->
 - [ ] C) Complemento directo del verbo copulativo. <!-- feedback: Incorrecto. El verbo *ser* no lleva complemento directo. -->
 - [ ] D) Subordinada adverbial de lugar. <!-- feedback: Incorrecto. No es un nexo de lugar. -->
 
@@ -319,8 +319,8 @@ Las cláusulas completivas que siguen a adjetivos impersonales (*Es imprescindib
 ¿Qué tipo de conector estructura la adición en el enunciado?
 
 ### Opciones
-- [ ] A) Conector disyuntivo de exclusión. <!-- feedback: Incorrecto. No excluye opciones. -->
-- [x] B) Conector correlativo aditivo de intensidad ("no solo... sino que..."). <!-- feedback: ¡Correcto! Acumula dos denuncias resaltando la mayor gravedad de la segunda. -->
+- [ ] B) Conector disyuntivo de exclusión. <!-- feedback: Incorrecto. No excluye opciones. -->
+- [x] A) Conector correlativo aditivo de intensidad ("no solo... sino que..."). <!-- feedback: ¡Correcto! Acumula dos denuncias resaltando la mayor gravedad de la segunda. -->
 - [ ] C) Conector ilativo de cierre. <!-- feedback: Incorrecto. No es un nexo de conclusión. -->
 - [ ] D) Conector condicional de hipótesis. <!-- feedback: Incorrecto. No impone hipótesis. -->
 
@@ -339,8 +339,8 @@ Evaluá la refutación que realiza el orador sobre las críticas de la oposició
 
 ### Opciones
 - [ ] A) El orador acepta que su proyecto fue improvisado y pide disculpas. <!-- feedback: Incorrecto. El orador rechaza la acusación. -->
-- [x] B) Desarma la crítica opositora denunciando la falta de rigor técnico y acusándolos de utilizar una estrategia de manipulación basada en el miedo. <!-- feedback: ¡Correcto! Señala la vacuidad argumentativa de la contraparte y cuestiona su intencionalidad política. -->
-- [ ] C) Demuestra cuantitativamente el costo económico de la ley con tablas estadísticas. <!-- feedback: Incorrecto. Tampoco aporta cifras en este pasaje. -->
+- [x] C) Desarma la crítica opositora denunciando la falta de rigor técnico y acusándolos de utilizar una estrategia de manipulación basada en el miedo. <!-- feedback: ¡Correcto! Señala la vacuidad argumentativa de la contraparte y cuestiona su intencionalidad política. -->
+- [ ] B) Demuestra cuantitativamente el costo económico de la ley con tablas estadísticas. <!-- feedback: Incorrecto. Tampoco aporta cifras en este pasaje. -->
 - [ ] D) Propone retirar el proyecto de ley del recinto. <!-- feedback: Incorrecto. Defiende la validez de la propuesta. -->
 
 ### Explicación Pedagógica
@@ -358,8 +358,8 @@ Evaluá la postura del ensayista sobre la narrativa de Felisberto Hernández.
 
 ### Opciones
 - [ ] A) Considera que la obra de Felisberto Hernández carece de valor literario y debe ser olvidada. <!-- feedback: Incorrecto. El ensayo ensalza su genio y profundidad. -->
-- [x] B) Cuestiona las etiquetas reduccionistas del 'realismo fantástico' para revalorizar su exploración profunda de la memoria, los objetos y la extrañeza cotidiana. <!-- feedback: ¡Correcto! Reivindica la singularidad poética y psicológica del autor frente a clasificaciones simplistas. -->
-- [ ] C) Sostiene que el autor copió su estilo de la novela policiaca norteamericana. <!-- feedback: Incorrecto. No menciona influencias policiacas. -->
+- [x] C) Cuestiona las etiquetas reduccionistas del 'realismo fantástico' para revalorizar su exploración profunda de la memoria, los objetos y la extrañeza cotidiana. <!-- feedback: ¡Correcto! Reivindica la singularidad poética y psicológica del autor frente a clasificaciones simplistas. -->
+- [ ] B) Sostiene que el autor copió su estilo de la novela policiaca norteamericana. <!-- feedback: Incorrecto. No menciona influencias policiacas. -->
 - [ ] D) Exige que sus cuentos sean leídos exclusivamente por niños. <!-- feedback: Incorrecto. "Delicadeza casi infantil" es una metáfora de su mirada poética, no un límite de público. -->
 
 ### Explicación Pedagógica
@@ -377,9 +377,9 @@ El análisis crítico de la literatura combate las etiquetas de género simplifi
 
 ### Opciones
 - [ ] A) La evaluación sumativa y punitiva basada en el castigo de los errores ortográficos. <!-- feedback: Incorrecto. Es la postura tradicional que el texto critica. -->
-- [x] B) El enfoque procesual de la composición escrita, centrado en el acompañamiento, la revisión continua y la metacognición. <!-- feedback: ¡Correcto! Prioriza la redacción como proceso de aprendizaje reflexivo por etapas frente a la mera sanción final. -->
-- [ ] C) La prohibición de enseñar normas gramaticales en la escuela. <!-- feedback: Incorrecto. No prohíbe la norma sino la didáctica punitiva. -->
-- [ ] D) La sustitución de la escritura por la comunicación puramente oral. <!-- feedback: Incorrecto. Defiende el aprendizaje profundo de la redacción. -->
+- [x] D) El enfoque procesual de la composición escrita, centrado en el acompañamiento, la revisión continua y la metacognición. <!-- feedback: ¡Correcto! Prioriza la redacción como proceso de aprendizaje reflexivo por etapas frente a la mera sanción final. -->
+- [ ] B) La prohibición de enseñar normas gramaticales en la escuela. <!-- feedback: Incorrecto. No prohíbe la norma sino la didáctica punitiva. -->
+- [ ] C) La sustitución de la escritura por la comunicación puramente oral. <!-- feedback: Incorrecto. Defiende el aprendizaje profundo de la redacción. -->
 
 ### Explicación Pedagógica
 La didáctica de la lengua contemporánea sustituye el modelo correccional-punitivo por el enfoque procesual de la escritura (Cassany, Flower-Hayes) para desarrollar autonomía escritora.
@@ -395,9 +395,9 @@ La didáctica de la lengua contemporánea sustituye el modelo correccional-punit
 Evaluá la crítica que realiza el texto sobre el periodismo digital basado en el 'clickbait'.
 
 ### Opciones
-- [x] A) Devela cómo la subordinación del periodismo al lucro mercantil por clics degrada la calidad informativa y manipula al lector mediante la omisión deliberada de datos. <!-- feedback: ¡Correcto! Analiza éticamente la perversión de la función informativa reducida a mercancía de captura de tráfico. -->
-- [ ] B) Defiende el 'clickbait' como la herramienta técnica más eficiente para educar a la población. <!-- feedback: Incorrecto. El texto condena expresamente este recurso. -->
-- [ ] C) Afirma que los periódicos en papel deben desaparecer inmediatamente. <!-- feedback: Incorrecto. No aborda la desaparición del papel. -->
+- [x] C) Devela cómo la subordinación del periodismo al lucro mercantil por clics degrada la calidad informativa y manipula al lector mediante la omisión deliberada de datos. <!-- feedback: ¡Correcto! Analiza éticamente la perversión de la función informativa reducida a mercancía de captura de tráfico. -->
+- [ ] A) Defiende el 'clickbait' como la herramienta técnica más eficiente para educar a la población. <!-- feedback: Incorrecto. El texto condena expresamente este recurso. -->
+- [ ] B) Afirma que los periódicos en papel deben desaparecer inmediatamente. <!-- feedback: Incorrecto. No aborda la desaparición del papel. -->
 - [ ] D) Sostiene que los titulares no deben contener verbos ni adjetivos. <!-- feedback: Incorrecto. Cuestiona la manipulación informativa, no la presencia de categorías gramaticales. -->
 
 ### Explicación Pedagógica

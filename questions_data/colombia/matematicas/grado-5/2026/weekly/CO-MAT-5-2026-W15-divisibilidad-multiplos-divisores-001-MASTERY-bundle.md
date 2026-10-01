@@ -34,11 +34,11 @@ Comprensión de los criterios de divisibilidad por 2, 3, 5 y 10, y su uso para r
 ¿Qué significa que un número sea divisible por otro?
 
 ### Opciones
-- [x] A) Que al dividirlo entre ese número, el residuo es cero.
+- [x] C) Que al dividirlo entre ese número, el residuo es cero.
   <!-- feedback: Un número es divisible por otro cuando la división es exacta y no sobra nada. -->
-- [ ] B) Que al dividirlo, el residuo siempre es uno.
+- [ ] A) Que al dividirlo, el residuo siempre es uno.
   <!-- feedback: Si el residuo es uno, la división no es exacta y el número no es divisible. -->
-- [ ] C) Que el número es más grande que el otro.
+- [ ] B) Que el número es más grande que el otro.
   <!-- feedback: El tamaño de los números no determina la divisibilidad entre ellos. -->
 - [ ] D) Que el número es impar.
   <!-- feedback: Ser impar no define la divisibilidad; también hay números pares divisibles. -->
@@ -57,13 +57,13 @@ Comprender el significado de la divisibilidad como división exacta con residuo 
 ¿Cuál de los siguientes números es un múltiplo de 5?
 
 ### Opciones
-- [x] A) 35.
+- [x] D) 35.
   <!-- feedback: 35 = 5 × 7, por lo que es un múltiplo exacto de 5. -->
-- [ ] B) 32.
+- [ ] A) 32.
   <!-- feedback: 32 no resulta de multiplicar 5 por un número entero. -->
-- [ ] C) 33.
+- [ ] B) 33.
   <!-- feedback: 33 no es múltiplo de 5 porque no termina en 0 ni en 5. -->
-- [ ] D) 38.
+- [ ] C) 38.
   <!-- feedback: 38 no es múltiplo de 5, pues la división entre 5 deja residuo. -->
 
 ### Explicacion Pedagogica
@@ -80,11 +80,11 @@ Reconocer múltiplos de un número a partir de la multiplicación y del criterio
 ¿Cuál de los siguientes números es un divisor de 40?
 
 ### Opciones
-- [x] A) 8.
+- [x] C) 8.
   <!-- feedback: 40 ÷ 8 = 5, una división exacta, así que 8 es divisor de 40. -->
-- [ ] B) 6.
+- [ ] A) 6.
   <!-- feedback: 40 ÷ 6 no es exacta, porque 6 × 6 = 36 y 6 × 7 = 42. -->
-- [ ] C) 7.
+- [ ] B) 7.
   <!-- feedback: 40 ÷ 7 no es exacta, ya que 7 × 5 = 35 y 7 × 6 = 42. -->
 - [ ] D) 9.
   <!-- feedback: 40 ÷ 9 no es exacta, porque 9 × 4 = 36 y 9 × 5 = 45. -->
@@ -103,11 +103,11 @@ Aplicar el concepto de divisor para repartir una cantidad en grupos iguales.
 ¿Cómo se sabe si un número es divisible por 10 sin hacer la división completa?
 
 ### Opciones
-- [x] A) Si termina en 0.
+- [x] C) Si termina en 0.
   <!-- feedback: Todo número terminado en 0 es divisible por 10 de forma exacta. -->
-- [ ] B) Si termina en 5.
+- [ ] A) Si termina en 5.
   <!-- feedback: Terminar en 5 indica divisibilidad por 5, no necesariamente por 10. -->
-- [ ] C) Si la suma de sus cifras es 10.
+- [ ] B) Si la suma de sus cifras es 10.
   <!-- feedback: La suma de las cifras no es el criterio para la divisibilidad por 10. -->
 - [ ] D) Si es un número impar.
   <!-- feedback: Los números impares no pueden ser divisibles por 10. -->
@@ -126,11 +126,11 @@ Aplicar el criterio de divisibilidad por 10 observando la última cifra del núm
 ¿Cuál de estos números es divisible por 3?
 
 ### Opciones
-- [x] A) 123.
+- [x] C) 123.
   <!-- feedback: 1 + 2 + 3 = 6, y 6 es múltiplo de 3, así que 123 es divisible por 3. -->
-- [ ] B) 124.
+- [ ] A) 124.
   <!-- feedback: 1 + 2 + 4 = 7, que no es múltiplo de 3, por eso 124 no es divisible por 3. -->
-- [ ] C) 125.
+- [ ] B) 125.
   <!-- feedback: 1 + 2 + 5 = 8, que no es múltiplo de 3, así que 125 no es divisible por 3. -->
 - [ ] D) 127.
   <!-- feedback: 1 + 2 + 7 = 10, que no es múltiplo de 3, por eso 127 no es divisible por 3. -->
@@ -172,9 +172,9 @@ Analizar que los criterios de divisibilidad pueden cumplirse simultáneamente en
 ¿Qué relación existe entre los divisores de un número y el reparto en partes iguales?
 
 ### Opciones
-- [x] A) Los divisores indican las cantidades de grupos iguales en que se puede repartir el total sin que sobre nada.
+- [x] B) Los divisores indican las cantidades de grupos iguales en que se puede repartir el total sin que sobre nada.
   <!-- feedback: Cada divisor permite un reparto exacto del total en grupos iguales. -->
-- [ ] B) Los divisores indican cuántos dulces sobran al repartir.
+- [ ] A) Los divisores indican cuántos dulces sobran al repartir.
   <!-- feedback: Cuando se usa un divisor, el reparto es exacto y no sobran dulces. -->
 - [ ] C) Los divisores de 24 son solo el 5 y el 7.
   <!-- feedback: 5 y 7 no son divisores de 24, porque la división entre ellos no es exacta. -->
@@ -195,13 +195,13 @@ Analizar la relación entre divisores y reparto exacto en situaciones cotidianas
 ¿Cuál conclusión evalúa mejor la utilidad de los criterios de divisibilidad?
 
 ### Opciones
-- [x] A) Sirven para descubrir rápido los divisores y repartir cantidades en partes iguales sin hacer siempre la división.
+- [x] D) Sirven para descubrir rápido los divisores y repartir cantidades en partes iguales sin hacer siempre la división.
   <!-- feedback: Los criterios agilizan el cálculo y son útiles en repartos de la vida diaria. -->
-- [ ] B) Solo sirven para números menores que 10.
+- [ ] A) Solo sirven para números menores que 10.
   <!-- feedback: Los criterios se aplican a números de muchas cifras, no solo a menores que 10. -->
-- [ ] C) No tienen ninguna aplicación fuera del salón de clases.
+- [ ] B) No tienen ninguna aplicación fuera del salón de clases.
   <!-- feedback: Se usan en repartos, compras y organización de grupos en la vida cotidiana. -->
-- [ ] D) Reemplazan por completo a la suma y a la resta.
+- [ ] C) Reemplazan por completo a la suma y a la resta.
   <!-- feedback: Los criterios se apoyan en la suma y no reemplazan las operaciones básicas. -->
 
 ### Explicacion Pedagogica

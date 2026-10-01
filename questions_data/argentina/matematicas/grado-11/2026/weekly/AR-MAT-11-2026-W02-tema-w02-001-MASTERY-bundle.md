@@ -51,8 +51,8 @@ Una función es una relación que asocia a cada elemento del conjunto de partida
 En la función de costo de producción mensual $C(x) = 50x + 1000$, ¿qué representa la variable independiente $x$?
 
 ### Opciones
-- [ ] A) El costo de producir una unidad de producto. <!-- feedback: Incorrecto. El costo marginal por unidad es 50, que es constante. -->
-- [x] B) La cantidad de unidades producidas en el mes. <!-- feedback: Correcto. La variable independiente es la cantidad producida, ya que de ella depende el costo total. -->
+- [ ] B) El costo de producir una unidad de producto. <!-- feedback: Incorrecto. El costo marginal por unidad es 50, que es constante. -->
+- [x] A) La cantidad de unidades producidas en el mes. <!-- feedback: Correcto. La variable independiente es la cantidad producida, ya que de ella depende el costo total. -->
 - [ ] C) El costo fijo total del emprendimiento. <!-- feedback: Incorrecto. El costo fijo es la constante 1000. -->
 - [ ] D) La ganancia neta obtenida por el negocio. <!-- feedback: Incorrecto. No estamos considerando ingresos, solo costos de producción. -->
 
@@ -73,8 +73,8 @@ Calculá el dominio de definición de la función racional $f(x) = \frac{x}{x - 
 
 ### Opciones
 - [ ] A) $\mathbb{R} - \{0\}$ <!-- feedback: Incorrecto. El numerador puede ser 0 sin problemas, por lo que $x=0$ pertenece al dominio. -->
-- [x] B) $\mathbb{R} - \{5\}$ <!-- feedback: Correcto. El denominador no puede ser 0, por lo que $x - 5 \neq 0 \Rightarrow x \neq 5$. -->
-- [ ] C) $[5, +\infty)$ <!-- feedback: Incorrecto. La función está definida para números menores que 5. -->
+- [x] C) $\mathbb{R} - \{5\}$ <!-- feedback: Correcto. El denominador no puede ser 0, por lo que $x - 5 \neq 0 \Rightarrow x \neq 5$. -->
+- [ ] B) $[5, +\infty)$ <!-- feedback: Incorrecto. La función está definida para números menores que 5. -->
 - [ ] D) $\mathbb{R}$ <!-- feedback: Incorrecto. El valor $x=5$ causa división por cero, por lo que debe excluirse. -->
 
 ### Explicacion Pedagogica
@@ -94,9 +94,9 @@ Determiná el dominio de la función real $f(x) = \sqrt{x - 7}$.
 
 ### Opciones
 - [ ] A) $\mathbb{R} - \{7\}$ <!-- feedback: Incorrecto. Si $x < 7$ la expresión no está definida en los reales. -->
-- [x] B) $[7, +\infty)$ <!-- feedback: Correcto. Para que la raíz esté definida, el radicando debe ser no negativo: $x - 7 \ge 0 \Rightarrow x \ge 7$. -->
-- [ ] C) $(7, +\infty)$ <!-- feedback: Incorrecto. El número 7 sí está incluido porque $\sqrt{0} = 0$. -->
-- [ ] D) $(-\infty, 7]$ <!-- feedback: Incorrecto. Si tomamos un número menor que 7, el radicando se hace negativo. -->
+- [x] D) $[7, +\infty)$ <!-- feedback: Correcto. Para que la raíz esté definida, el radicando debe ser no negativo: $x - 7 \ge 0 \Rightarrow x \ge 7$. -->
+- [ ] B) $(7, +\infty)$ <!-- feedback: Incorrecto. El número 7 sí está incluido porque $\sqrt{0} = 0$. -->
+- [ ] C) $(-\infty, 7]$ <!-- feedback: Incorrecto. Si tomamos un número menor que 7, el radicando se hace negativo. -->
 
 ### Explicacion Pedagogica
 Las raíces de índice par requieren que el radicando sea mayor o igual a cero para existir en el campo de los números reales.
@@ -115,8 +115,8 @@ Las raíces de índice par requieren que el radicando sea mayor o igual a cero p
 
 ### Opciones
 - [ ] A) $f(x) = x^3 - x$ <!-- feedback: Incorrecto. Esta función es impar, ya que $f(-x) = -f(x)$. -->
-- [x] B) $f(x) = x^2 - 4$ <!-- feedback: Correcto. $f(-x) = (-x)^2 - 4 = x^2 - 4 = f(x)$. -->
-- [ ] C) $f(x) = 2x + 1$ <!-- feedback: Incorrecto. No presenta simetría par ni impar. -->
+- [x] C) $f(x) = x^2 - 4$ <!-- feedback: Correcto. $f(-x) = (-x)^2 - 4 = x^2 - 4 = f(x)$. -->
+- [ ] B) $f(x) = 2x + 1$ <!-- feedback: Incorrecto. No presenta simetría par ni impar. -->
 - [ ] D) $f(x) = \sin(x)$ <!-- feedback: Incorrecto. El seno es una función impar. -->
 
 ### Explicacion Pedagogica
@@ -156,8 +156,8 @@ Una función es impar si al cambiar $x$ por $-x$ obtenemos el opuesto de la func
 Un servicio de transporte de carga cobra un costo fijo de $\$1200$ más $\$80$ por kilómetro recorrido $k$. ¿Cuál de las siguientes es la función de costo total $C(k)$?
 
 ### Opciones
-- [ ] A) $C(k) = 1200k + 80$ <!-- feedback: Incorrecto. Esto cobraría 1200 por kilómetro, no como costo fijo. -->
-- [x] B) $C(k) = 80k + 1200$ <!-- feedback: Correcto. El costo total es la tarifa por kilómetro multiplicada por $k$ más el costo fijo: $C(k) = 80k + 1200$. -->
+- [ ] B) $C(k) = 1200k + 80$ <!-- feedback: Incorrecto. Esto cobraría 1200 por kilómetro, no como costo fijo. -->
+- [x] A) $C(k) = 80k + 1200$ <!-- feedback: Correcto. El costo total es la tarifa por kilómetro multiplicada por $k$ más el costo fijo: $C(k) = 80k + 1200$. -->
 - [ ] C) $C(k) = (1200 + 80)k$ <!-- feedback: Incorrecto. Esto sumaría ambos valores antes de multiplicar por los kilómetros. -->
 - [ ] D) $C(k) = 80k$ <!-- feedback: Incorrecto. Esta opción no tiene en cuenta el costo fijo mensual. -->
 
@@ -178,8 +178,8 @@ Determiná el rango (conjunto imagen) de la función real $f(x) = x^2 + 3$.
 
 ### Opciones
 - [ ] A) $\mathbb{R}$ <!-- feedback: Incorrecto. La gráfica es una parábola y no cubre los valores menores a 3. -->
-- [x] B) $[3, +\infty)$ <!-- feedback: Correcto. Como $x^2 \ge 0$, al sumar 3 resulta $x^2 + 3 \ge 3$. Por lo tanto, el rango es $[3, +\infty)$. -->
-- [ ] C) $(-\infty, 3]$ <!-- feedback: Incorrecto. Esto correspondería a una parábola cóncava hacia abajo. -->
+- [x] C) $[3, +\infty)$ <!-- feedback: Correcto. Como $x^2 \ge 0$, al sumar 3 resulta $x^2 + 3 \ge 3$. Por lo tanto, el rango es $[3, +\infty)$. -->
+- [ ] B) $(-\infty, 3]$ <!-- feedback: Incorrecto. Esto correspondería a una parábola cóncava hacia abajo. -->
 - [ ] D) $[0, +\infty)$ <!-- feedback: Incorrecto. El valor mínimo de la función es 3, no 0. -->
 
 ### Explicacion Pedagogica
@@ -240,8 +240,8 @@ Las traslaciones horizontales se aplican restando el valor del desplazamiento de
 Calculá el dominio de definición de la función $f(x) = \ln(x - 4)$ en los números reales.
 
 ### Opciones
-- [ ] A) $\mathbb{R} - \{4\}$ <!-- feedback: Incorrecto. No solo el 4 está excluido, sino todos los números menores que él. -->
-- [x] B) $(4, +\infty)$ <!-- feedback: Correcto. El argumento de un logaritmo debe ser estrictamente positivo: $x - 4 > 0 \Rightarrow x > 4$. -->
+- [ ] B) $\mathbb{R} - \{4\}$ <!-- feedback: Incorrecto. No solo el 4 está excluido, sino todos los números menores que él. -->
+- [x] A) $(4, +\infty)$ <!-- feedback: Correcto. El argumento de un logaritmo debe ser estrictamente positivo: $x - 4 > 0 \Rightarrow x > 4$. -->
 - [ ] C) $[4, +\infty)$ <!-- feedback: Incorrecto. El valor $4$ no está incluido porque el logaritmo de cero no está definido. -->
 - [ ] D) $(-\infty, 4)$ <!-- feedback: Incorrecto. Si $x < 4$, el argumento es negativo y el logaritmo real no existe. -->
 
@@ -304,8 +304,8 @@ Dadas las funciones $f(x) = 2x + 3$ y $g(x) = x^2$, determiná la expresión de 
 
 ### Opciones
 - [ ] A) $(2x + 3)^2$ <!-- feedback: Incorrecto. Esto representa la composición inversa $(g \circ f)(x)$. -->
-- [x] B) $2x^2 + 3$ <!-- feedback: Correcto. Por definición de composición, $(f \circ g)(x) = f(g(x)) = f(x^2) = 2x^2 + 3$. -->
-- [ ] C) $2x^2 + 6$ <!-- feedback: Incorrecto. Se multiplicó de manera errónea el término constante. -->
+- [x] C) $2x^2 + 3$ <!-- feedback: Correcto. Por definición de composición, $(f \circ g)(x) = f(g(x)) = f(x^2) = 2x^2 + 3$. -->
+- [ ] B) $2x^2 + 6$ <!-- feedback: Incorrecto. Se multiplicó de manera errónea el término constante. -->
 - [ ] D) $4x^2 + 9$ <!-- feedback: Incorrecto. Esto resulta de elevar la expresión al cuadrado de forma incorrecta. -->
 
 ### Explicacion Pedagogica
@@ -325,8 +325,8 @@ En la composición de funciones, la función interna $g(x)$ se introduce como el
 
 ### Opciones
 - [ ] A) $k = 1$ <!-- feedback: Incorrecto. Si $k=1$, los límites laterales no coinciden ($5 \neq 3$). -->
-- [x] B) $k = 2$ <!-- feedback: Correcto. Los límites laterales deben ser iguales: $\lim_{x \to 2^-} f(x) = 3(2) - 1 = 5$ y $\lim_{x \to 2^+} f(x) = 2k + 1$. Igualando ambos queda $2k + 1 = 5 \Rightarrow k = 2$. -->
-- [ ] C) $k = 3$ <!-- feedback: Incorrecto. Con $k=3$, el límite por derecha daría 7. -->
+- [x] C) $k = 2$ <!-- feedback: Correcto. Los límites laterales deben ser iguales: $\lim_{x \to 2^-} f(x) = 3(2) - 1 = 5$ y $\lim_{x \to 2^+} f(x) = 2k + 1$. Igualando ambos queda $2k + 1 = 5 \Rightarrow k = 2$. -->
+- [ ] B) $k = 3$ <!-- feedback: Incorrecto. Con $k=3$, el límite por derecha daría 7. -->
 - [ ] D) $k = 5$ <!-- feedback: Incorrecto. Con $k=5$, el límite por derecha daría 11. -->
 
 ### Explicacion Pedagogica
@@ -346,9 +346,9 @@ Si tenés la función exponencial $f(x) = 2^x$, ¿cómo se obtiene geométricame
 
 ### Opciones
 - [ ] A) Desplazando la gráfica una unidad hacia abajo. <!-- feedback: Incorrecto. Eso daría la función $2^x - 1$. -->
-- [x] B) Reflejando la gráfica respecto del eje $x$. <!-- feedback: Correcto. Multiplicar toda la función por $-1$ produce una simetría vertical respecto del eje de las abscisas (eje $x$). -->
-- [ ] C) Reflejando la gráfica respecto del eje $y$. <!-- feedback: Incorrecto. Eso daría la función $2^{-x}$. -->
-- [ ] D) Desplazando la gráfica una unidad a la izquierda. <!-- feedback: Incorrecto. Eso daría la función $2^{x+1}$. -->
+- [x] D) Reflejando la gráfica respecto del eje $x$. <!-- feedback: Correcto. Multiplicar toda la función por $-1$ produce una simetría vertical respecto del eje de las abscisas (eje $x$). -->
+- [ ] B) Reflejando la gráfica respecto del eje $y$. <!-- feedback: Incorrecto. Eso daría la función $2^{-x}$. -->
+- [ ] C) Desplazando la gráfica una unidad a la izquierda. <!-- feedback: Incorrecto. Eso daría la función $2^{x+1}$. -->
 
 ### Explicacion Pedagogica
 Una transformación de la forma $g(x) = -f(x)$ invierte el signo de todas las coordenadas de salida, produciendo una simetría o reflexión respecto del eje horizontal.
@@ -367,8 +367,8 @@ Calculá el dominio de la función compuesta $f(g(x))$ sabiendo que $f(u) = \fra
 
 ### Opciones
 - [ ] A) $\mathbb{R} - \{3\}$ <!-- feedback: Incorrecto. Esto sería el dominio de $f(x)$ sola, pero el argumento es $g(x) = x^2$. -->
-- [x] B) $\mathbb{R} - \{-\sqrt{3}, \sqrt{3}\}$ <!-- feedback: Correcto. El dominio de la composición requiere que $g(x)$ esté definido (todo $\mathbb{R}$) y que $g(x) \neq 3 \Rightarrow x^2 \neq 3 \Rightarrow x \neq \pm\sqrt{3}$. -->
-- [ ] C) $[3, +\infty)$ <!-- feedback: Incorrecto. La función está definida en la mayoría de los números menores a 3. -->
+- [x] C) $\mathbb{R} - \{-\sqrt{3}, \sqrt{3}\}$ <!-- feedback: Correcto. El dominio de la composición requiere que $g(x)$ esté definido (todo $\mathbb{R}$) y que $g(x) \neq 3 \Rightarrow x^2 \neq 3 \Rightarrow x \neq \pm\sqrt{3}$. -->
+- [ ] B) $[3, +\infty)$ <!-- feedback: Incorrecto. La función está definida en la mayoría de los números menores a 3. -->
 - [ ] D) $\mathbb{R}$ <!-- feedback: Incorrecto. Los puntos donde el denominador se anula deben ser estrictamente excluidos. -->
 
 ### Explicacion Pedagogica
@@ -388,9 +388,9 @@ Si se sabe que $f(x)$ es una función par y $g(x)$ es una función impar en todo
 
 ### Opciones
 - [ ] A) Es una función impar. <!-- feedback: Incorrecto. El signo negativo se absorbe debido a la paridad de la función externa $f$. -->
-- [x] B) Es una función par. <!-- feedback: Correcto. $h(-x) = f(g(-x)) = f(-g(x))$ porque $g$ es impar. Como $f$ es par, $f(-g(x)) = f(g(x)) = h(x)$. Por ende, $h$ es par. -->
-- [ ] C) No presenta simetría. <!-- feedback: Incorrecto. La simetría par está totalmente garantizada. -->
-- [ ] D) Depende de la paridad de los dominios individuales. <!-- feedback: Incorrecto. Ambas funciones están definidas en todos los reales. -->
+- [x] D) Es una función par. <!-- feedback: Correcto. $h(-x) = f(g(-x)) = f(-g(x))$ porque $g$ es impar. Como $f$ es par, $f(-g(x)) = f(g(x)) = h(x)$. Por ende, $h$ es par. -->
+- [ ] B) No presenta simetría. <!-- feedback: Incorrecto. La simetría par está totalmente garantizada. -->
+- [ ] C) Depende de la paridad de los dominios individuales. <!-- feedback: Incorrecto. Ambas funciones están definidas en todos los reales. -->
 
 ### Explicacion Pedagogica
 La composición de una función par con una función impar resulta en una función par, ya que el signo que extrae la función impar interna es absorbido por la función par externa.
@@ -429,8 +429,8 @@ Para que una función admita una función inversa, debe ser inyectiva (y biyecti
 Se quiere construir una caja sin tapa a partir de una lámina cuadrada de cartón de $12\text{ cm}$ de lado, recortando cuadrados de lado $x$ en cada una de sus esquinas y doblando hacia arriba. ¿Cuál es el dominio físico (realista) de la función de volumen $V(x)$?
 
 ### Opciones
-- [ ] A) $[0, 12]$ <!-- feedback: Incorrecto. No se pueden recortar esquinas de más de 6 cm de lado. -->
-- [x] B) $(0, 6)$ <!-- feedback: Correcto. El lado recortado $x$ debe ser positivo, y dado que se recortan dos esquinas por cada lado de la lámina, debe cumplirse que $2x < 12 \Rightarrow x < 6$. -->
+- [ ] B) $[0, 12]$ <!-- feedback: Incorrecto. No se pueden recortar esquinas de más de 6 cm de lado. -->
+- [x] A) $(0, 6)$ <!-- feedback: Correcto. El lado recortado $x$ debe ser positivo, y dado que se recortan dos esquinas por cada lado de la lámina, debe cumplirse que $2x < 12 \Rightarrow x < 6$. -->
 - [ ] C) $(0, 12)$ <!-- feedback: Incorrecto. No considera que se recortan esquinas de ambos lados de la lámina. -->
 - [ ] D) $[0, 6]$ <!-- feedback: Incorrecto. En los extremos 0 y 6 el volumen físico de la caja es exactamente cero. -->
 

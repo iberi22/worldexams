@@ -36,8 +36,8 @@ Mass media has the power to shape public opinion through the selective reporting
 
 ### Opciones
 - [ ] A) individual <!-- feedback: Incorrect. Mass media affects the whole public. -->
-- [x] B) public <!-- feedback: Correct. Public opinion is the collective opinion on a specific topic. -->
-- [ ] C) secret <!-- feedback: Incorrect. Mass media is public. -->
+- [x] C) public <!-- feedback: Correct. Public opinion is the collective opinion on a specific topic. -->
+- [ ] B) secret <!-- feedback: Incorrect. Mass media is public. -->
 - [ ] D) private <!-- feedback: Incorrect. Private opinion is held by individuals. -->
 
 ### Explicacion Pedagogica
@@ -56,8 +56,8 @@ Our perceptions of reality are being altered by the idealized images we see on s
 
 ### Opciones
 - [ ] A) are altering <!-- feedback: Incorrect. Active voice. -->
-- [x] B) are being altered <!-- feedback: Correct. Present continuous passive for an ongoing effect. -->
-- [ ] C) altered <!-- feedback: Incorrect. Past simple. -->
+- [x] C) are being altered <!-- feedback: Correct. Present continuous passive for an ongoing effect. -->
+- [ ] B) altered <!-- feedback: Incorrect. Past simple. -->
 - [ ] D) have altered <!-- feedback: Incorrect. Active voice. -->
 
 ### Explicacion Pedagogica
@@ -76,8 +76,8 @@ If students were taught more media literacy, they would be less susceptible to f
 
 ### Opciones
 - [ ] A) are <!-- feedback: Incorrect. First conditional. -->
-- [x] B) were <!-- feedback: Correct. Second conditional for a hypothetical change. -->
-- [ ] C) had been <!-- feedback: Incorrect. Third conditional. -->
+- [x] C) were <!-- feedback: Correct. Second conditional for a hypothetical change. -->
+- [ ] B) had been <!-- feedback: Incorrect. Third conditional. -->
 - [ ] D) would be <!-- feedback: Incorrect. 'Would' not used in 'if' clause. -->
 
 ### Explicacion Pedagogica
@@ -96,9 +96,9 @@ Agenda-setting is the ability of the news media to influence the importance plac
 
 ### Opciones
 - [ ] A) ignoring <!-- feedback: Incorrect. It's about what the media focuses on. -->
-- [x] B) importance <!-- feedback: Correct. Media decides which topics seem more important. -->
-- [ ] C) accuracy <!-- feedback: Incorrect. While related, agenda-setting is about priority, not just truth. -->
-- [ ] D) cost <!-- feedback: Incorrect. Unrelated to the concept. -->
+- [x] D) importance <!-- feedback: Correct. Media decides which topics seem more important. -->
+- [ ] B) accuracy <!-- feedback: Incorrect. While related, agenda-setting is about priority, not just truth. -->
+- [ ] C) cost <!-- feedback: Incorrect. Unrelated to the concept. -->
 
 ### Explicacion Pedagogica
 'Importance' correctly identifies the primary goal of agenda-setting: influencing what the public thinks about.
@@ -136,8 +136,8 @@ Product placement is a practice in which manufacturers of goods or providers of 
 
 ### Opciones
 - [ ] A) Advertisement <!-- feedback: Incorrect. Too broad. -->
-- [x] B) Product placement <!-- feedback: Correct. Specific term for integrated marketing. -->
-- [ ] C) Commercial break <!-- feedback: Incorrect. This is a separate time slot. -->
+- [x] C) Product placement <!-- feedback: Correct. Specific term for integrated marketing. -->
+- [ ] B) Commercial break <!-- feedback: Incorrect. This is a separate time slot. -->
 - [ ] D) Billboard <!-- feedback: Incorrect. Physical outdoor sign. -->
 
 ### Explicacion Pedagogica
@@ -156,8 +156,8 @@ The scandal was being reported by every major news outlet in the country.
 
 ### Opciones
 - [ ] A) is reporting <!-- feedback: Incorrect. Active voice. -->
-- [x] B) was being reported <!-- feedback: Correct. Past continuous passive for an ongoing state in the past. -->
-- [ ] C) reported <!-- feedback: Incorrect. Past simple. -->
+- [x] C) was being reported <!-- feedback: Correct. Past continuous passive for an ongoing state in the past. -->
+- [ ] B) reported <!-- feedback: Incorrect. Past simple. -->
 - [ ] D) has reported <!-- feedback: Incorrect. Active voice. -->
 
 ### Explicacion Pedagogica
@@ -176,8 +176,8 @@ Media bias refers to the perceived or real bias of journalists and news producer
 
 ### Opciones
 - [ ] A) Truth <!-- feedback: Incorrect. Bias is a departure from pure truth. -->
-- [x] B) Bias <!-- feedback: Correct. A prejudice in favor of or against one thing. -->
-- [ ] C) Balance <!-- feedback: Incorrect. The opposite of bias. -->
+- [x] C) Bias <!-- feedback: Correct. A prejudice in favor of or against one thing. -->
+- [ ] B) Balance <!-- feedback: Incorrect. The opposite of bias. -->
 - [ ] D) Fairness <!-- feedback: Incorrect. The goal of objective reporting. -->
 
 ### Explicacion Pedagogica
@@ -216,9 +216,9 @@ The obsession with celebrity culture can distract the public from more significa
 
 ### Opciones
 - [ ] A) focus <!-- feedback: Incorrect. Distract means the opposite of focus. -->
-- [x] B) distract <!-- feedback: Correct. To prevent someone from giving full attention to something. -->
-- [ ] C) educate <!-- feedback: Incorrect. Distraction doesn't usually lead to education on 'more significant' issues. -->
-- [ ] D) unite <!-- feedback: Incorrect. Usually doesn't lead to meaningful unity. -->
+- [x] D) distract <!-- feedback: Correct. To prevent someone from giving full attention to something. -->
+- [ ] B) educate <!-- feedback: Incorrect. Distraction doesn't usually lead to education on 'more significant' issues. -->
+- [ ] C) unite <!-- feedback: Incorrect. Usually doesn't lead to meaningful unity. -->
 
 ### Explicacion Pedagogica
 'Distract' correctly describes how less important media topics take attention away from more serious ones.
@@ -236,8 +236,8 @@ Propaganda is information, especially of a biased or misleading nature, used to 
 
 ### Opciones
 - [ ] A) News <!-- feedback: Incorrect. News aims for objectivity. -->
-- [x] B) Propaganda <!-- feedback: Correct. Biased information for a cause. -->
-- [ ] C) Trivia <!-- feedback: Incorrect. Unimportant facts. -->
+- [x] C) Propaganda <!-- feedback: Correct. Biased information for a cause. -->
+- [ ] B) Trivia <!-- feedback: Incorrect. Unimportant facts. -->
 - [ ] D) Fiction <!-- feedback: Incorrect. Imaginary stories. -->
 
 ### Explicacion Pedagogica
@@ -256,9 +256,9 @@ Virtual reality experiences are likely to be integrated into traditional news re
 
 ### Opciones
 - [ ] A) are integrating <!-- feedback: Incorrect. Active voice. -->
-- [x] B) to be integrated <!-- feedback: Correct. Passive infinitive after 'likely to'. -->
-- [ ] C) integrate <!-- feedback: Incorrect. Active voice. -->
-- [ ] D) having been integrated <!-- feedback: Incorrect. -->
+- [x] D) to be integrated <!-- feedback: Correct. Passive infinitive after 'likely to'. -->
+- [ ] B) integrate <!-- feedback: Incorrect. Active voice. -->
+- [ ] C) having been integrated <!-- feedback: Incorrect. -->
 
 ### Explicacion Pedagogica
 The passive infinitive 'to be integrated' describes a future expectation for technology in media.
@@ -275,8 +275,8 @@ The passive infinitive 'to be integrated' describes a future expectation for tec
 Media literacy empowers individuals to critically evaluate the messages they receive from various platforms.
 
 ### Opciones
-- [x] A) evaluate <!-- feedback: Correct. To evaluate means to judge or determine the significance, worth, or quality of. -->
-- [ ] B) ignore <!-- feedback: Incorrect. Literacy involves active engagement. -->
+- [x] B) evaluate <!-- feedback: Correct. To evaluate means to judge or determine the significance, worth, or quality of. -->
+- [ ] A) ignore <!-- feedback: Incorrect. Literacy involves active engagement. -->
 - [ ] C) believe <!-- feedback: Incorrect. Literacy involves questioning rather than just believing. -->
 - [ ] D) delete <!-- feedback: Incorrect. You can't delete messages you've already received/seen. -->
 
@@ -295,8 +295,8 @@ Media literacy empowers individuals to critically evaluate the messages they rec
 You shouldn't believe everything you read on social media unless it comes from a verified source.
 
 ### Opciones
-- [ ] A) if <!-- feedback: Incorrect. 'If it comes' would mean don't believe it *if* it's verified. -->
-- [x] B) unless <!-- feedback: Correct. 'Unless' means 'if not'. -->
+- [ ] B) if <!-- feedback: Incorrect. 'If it comes' would mean don't believe it *if* it's verified. -->
+- [x] A) unless <!-- feedback: Correct. 'Unless' means 'if not'. -->
 - [ ] C) although <!-- feedback: Incorrect. Contrast. -->
 - [ ] D) whether <!-- feedback: Incorrect. Choice. -->
 
@@ -315,8 +315,8 @@ You shouldn't believe everything you read on social media unless it comes from a
 The author concludes that our attention is a valuable commodity that is constantly being competed for by media giants.
 
 ### Opciones
-- [x] A) commodity <!-- feedback: Correct. A commodity is a raw material or primary agricultural product that can be bought and sold. -->
-- [ ] B) burden <!-- feedback: Incorrect. Attention is seen as something valuable here. -->
+- [x] B) commodity <!-- feedback: Correct. A commodity is a raw material or primary agricultural product that can be bought and sold. -->
+- [ ] A) burden <!-- feedback: Incorrect. Attention is seen as something valuable here. -->
 - [ ] C) waste <!-- feedback: Incorrect. For companies, it's a profit source. -->
 - [ ] D) secret <!-- feedback: Incorrect. Our attention is public behavior. -->
 
@@ -355,9 +355,9 @@ A story that goes viral is shared widely and rapidly across the internet.
 I wish I hadn't been so influenced by advertisements when I was younger.
 
 ### Opciones
-- [ ] A) am not <!-- feedback: Incorrect. Present. -->
-- [ ] B) wasn't <!-- feedback: Incorrect. Present hypothetical. -->
-- [x] C) hadn't been <!-- feedback: Correct. 'Wish + past perfect' for past regret. -->
+- [ ] B) am not <!-- feedback: Incorrect. Present. -->
+- [ ] C) wasn't <!-- feedback: Incorrect. Present hypothetical. -->
+- [x] A) hadn't been <!-- feedback: Correct. 'Wish + past perfect' for past regret. -->
 - [ ] D) wouldn't be <!-- feedback: Incorrect. Future. -->
 
 ### Explicacion Pedagogica
@@ -376,8 +376,8 @@ Influencer marketing relies on the trust and rapport that creators have built wi
 
 ### Opciones
 - [ ] A) isolation <!-- feedback: Incorrect. Marketing needs connection. -->
-- [x] B) rapport <!-- feedback: Correct. Rapport is a close and harmonious relationship. -->
-- [ ] C) conflict <!-- feedback: Incorrect. Negative. -->
+- [x] C) rapport <!-- feedback: Correct. Rapport is a close and harmonious relationship. -->
+- [ ] B) conflict <!-- feedback: Incorrect. Negative. -->
 - [ ] D) ignorance <!-- feedback: Incorrect. Negative. -->
 
 ### Explicacion Pedagogica
@@ -396,8 +396,8 @@ The analyst warned that deepfakes were becoming harder to detect.
 
 ### Opciones
 - [ ] A) are becoming <!-- feedback: Incorrect. Backshifted in reported speech. -->
-- [x] B) were becoming <!-- feedback: Correct. Backshifted from 'are' to 'were' in reported speech. -->
-- [ ] C) have become <!-- feedback: Incorrect. Present perfect. -->
+- [x] C) were becoming <!-- feedback: Correct. Backshifted from 'are' to 'were' in reported speech. -->
+- [ ] B) have become <!-- feedback: Incorrect. Present perfect. -->
 - [ ] D) will become <!-- feedback: Incorrect. Future. -->
 
 ### Explicacion Pedagogica

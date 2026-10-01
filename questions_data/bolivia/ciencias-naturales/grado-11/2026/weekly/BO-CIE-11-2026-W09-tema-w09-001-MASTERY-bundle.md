@@ -55,13 +55,13 @@ La respuesta correcta es El protón, neutrón y electrón. Científicamente, est
 Al realizar experimentos sobre estructura de la materia y enlace químico y estudiar átomos del mismo elemento con igual número de protones pero diferente número de neutrones, ¿cuál es la opción que identifica correctamente el concepto o proceso estudiado?
 
 ### Opciones
-- [x] A) Isótopos
+- [x] D) Isótopos
   <!-- feedback: Excelente. Esta es la respuesta correcta ya que corresponde precisamente a átomos del mismo elemento con igual número de protones pero diferente número de neutrones. -->
-- [ ] B) Isóbaros
+- [ ] A) Isóbaros
   <!-- feedback: Incorrecto. Este concepto hace referencia a un proceso o estructura biológica diferente. -->
-- [ ] C) Isótonos
+- [ ] B) Isótonos
   <!-- feedback: Incorrecto. No corresponde con la descripción dada. Revisa la teoría de estructura de la materia y enlace químico. -->
-- [ ] D) Isómeros
+- [ ] C) Isómeros
   <!-- feedback: Incorrecto. Es un distractor conceptual incorrecto para este caso de estudio. -->
 
 ### Explicacion Pedagogica
@@ -80,13 +80,13 @@ La respuesta correcta es Isótopos. Científicamente, esto se explica por la dif
 Al realizar experimentos sobre estructura de la materia y enlace químico y estudiar electrones situados en el último nivel de energía celular encargados de formar los enlaces químicos, ¿cuál es la opción que identifica correctamente el concepto o proceso estudiado?
 
 ### Opciones
-- [x] A) Los electrones de valencia
+- [x] D) Los electrones de valencia
   <!-- feedback: Excelente. Esta es la respuesta correcta ya que corresponde precisamente a electrones situados en el último nivel de energía celular encargados de formar los enlaces químicos. -->
-- [ ] B) Los electrones internos
+- [ ] A) Los electrones internos
   <!-- feedback: Incorrecto. Este concepto hace referencia a un proceso o estructura biológica diferente. -->
-- [ ] C) Los protones nucleares
+- [ ] B) Los protones nucleares
   <!-- feedback: Incorrecto. No corresponde con la descripción dada. Revisa la teoría de estructura de la materia y enlace químico. -->
-- [ ] D) Los neutrones estables
+- [ ] C) Los neutrones estables
   <!-- feedback: Incorrecto. Es un distractor conceptual incorrecto para este caso de estudio. -->
 
 ### Explicacion Pedagogica
@@ -105,9 +105,9 @@ La respuesta correcta es Los electrones de valencia. Científicamente, esto se e
 Al realizar experimentos sobre estructura de la materia y enlace químico y estudiar capacidad de un átomo en una molécula para atraer hacia sí los electrones de enlace compartidos, ¿cuál es la opción que identifica correctamente el concepto o proceso estudiado?
 
 ### Opciones
-- [x] A) La electronegatividad
+- [x] B) La electronegatividad
   <!-- feedback: Excelente. Esta es la respuesta correcta ya que corresponde precisamente a capacidad de un átomo en una molécula para atraer hacia sí los electrones de enlace compartidos. -->
-- [ ] B) La energía de ionización
+- [ ] A) La energía de ionización
   <!-- feedback: Incorrecto. Este concepto hace referencia a un proceso o estructura biológica diferente. -->
 - [ ] C) La afinidad electrónica
   <!-- feedback: Incorrecto. No corresponde con la descripción dada. Revisa la teoría de estructura de la materia y enlace químico. -->
@@ -130,9 +130,9 @@ La respuesta correcta es La electronegatividad. Científicamente, esto se explic
 Al realizar experimentos sobre estructura de la materia y enlace químico y estudiar enlace químico formado por la transferencia completa de electrones entre un metal y un no metal, ¿cuál es la opción que identifica correctamente el concepto o proceso estudiado?
 
 ### Opciones
-- [x] A) El enlace iónico
+- [x] B) El enlace iónico
   <!-- feedback: Excelente. Esta es la respuesta correcta ya que corresponde precisamente a enlace químico formado por la transferencia completa de electrones entre un metal y un no metal. -->
-- [ ] B) El enlace covalente
+- [ ] A) El enlace covalente
   <!-- feedback: Incorrecto. Este concepto hace referencia a un proceso o estructura biológica diferente. -->
 - [ ] C) El enlace metálico
   <!-- feedback: Incorrecto. No corresponde con la descripción dada. Revisa la teoría de estructura de la materia y enlace químico. -->
@@ -155,11 +155,11 @@ La respuesta correcta es El enlace iónico. Científicamente, esto se explica po
 Al realizar experimentos sobre estructura de la materia y enlace químico y estudiar tipo de enlace caracterizado por la compartición equitativa o desigual de pares de electrones entre no metales, ¿cuál es la opción que identifica correctamente el concepto o proceso estudiado?
 
 ### Opciones
-- [x] A) El enlace covalente
+- [x] C) El enlace covalente
   <!-- feedback: Excelente. Esta es la respuesta correcta ya que corresponde precisamente a tipo de enlace caracterizado por la compartición equitativa o desigual de pares de electrones entre no metales. -->
-- [ ] B) El enlace iónico
+- [ ] A) El enlace iónico
   <!-- feedback: Incorrecto. Este concepto hace referencia a un proceso o estructura biológica diferente. -->
-- [ ] C) El enlace metálico
+- [ ] B) El enlace metálico
   <!-- feedback: Incorrecto. No corresponde con la descripción dada. Revisa la teoría de estructura de la materia y enlace químico. -->
 - [ ] D) La fuerza de van der waals
   <!-- feedback: Incorrecto. Es un distractor conceptual incorrecto para este caso de estudio. -->
@@ -180,13 +180,13 @@ La respuesta correcta es El enlace covalente. Científicamente, esto se explica 
 Al realizar experimentos sobre estructura de la materia y enlace químico y estudiar enlace covalente donde existe una diferencia moderada de electronegatividad, generando dipolos eléctricos, ¿cuál es la opción que identifica correctamente el concepto o proceso estudiado?
 
 ### Opciones
-- [x] A) Enlace covalente polar
+- [x] D) Enlace covalente polar
   <!-- feedback: Excelente. Esta es la respuesta correcta ya que corresponde precisamente a enlace covalente donde existe una diferencia moderada de electronegatividad, generando dipolos eléctricos. -->
-- [ ] B) Enlace covalente apolar
+- [ ] A) Enlace covalente apolar
   <!-- feedback: Incorrecto. Este concepto hace referencia a un proceso o estructura biológica diferente. -->
-- [ ] C) Enlace iónico puro
+- [ ] B) Enlace iónico puro
   <!-- feedback: Incorrecto. No corresponde con la descripción dada. Revisa la teoría de estructura de la materia y enlace químico. -->
-- [ ] D) Enlace de coordinación dativo
+- [ ] C) Enlace de coordinación dativo
   <!-- feedback: Incorrecto. Es un distractor conceptual incorrecto para este caso de estudio. -->
 
 ### Explicacion Pedagogica
@@ -205,9 +205,9 @@ La respuesta correcta es Enlace covalente polar. Científicamente, esto se expli
 Al realizar experimentos sobre estructura de la materia y enlace químico y estudiar enlace donde los electrones de valencia se deslocalizan formando una nube o mar de electrones libre, ¿cuál es la opción que identifica correctamente el concepto o proceso estudiado?
 
 ### Opciones
-- [x] A) El enlace metálico
+- [x] B) El enlace metálico
   <!-- feedback: Excelente. Esta es la respuesta correcta ya que corresponde precisamente a enlace donde los electrones de valencia se deslocalizan formando una nube o mar de electrones libre. -->
-- [ ] B) El enlace covalente
+- [ ] A) El enlace covalente
   <!-- feedback: Incorrecto. Este concepto hace referencia a un proceso o estructura biológica diferente. -->
 - [ ] C) El enlace iónico
   <!-- feedback: Incorrecto. No corresponde con la descripción dada. Revisa la teoría de estructura de la materia y enlace químico. -->
@@ -230,13 +230,13 @@ La respuesta correcta es El enlace metálico. Científicamente, esto se explica 
 Al realizar experimentos sobre estructura de la materia y enlace químico y estudiar los átomos tienden a ganar, perder o compartir electrones para completar ocho en su capa de valencia, ¿cuál es la opción que identifica correctamente el concepto o proceso estudiado?
 
 ### Opciones
-- [x] A) La regla del octeto
+- [x] D) La regla del octeto
   <!-- feedback: Excelente. Esta es la respuesta correcta ya que corresponde precisamente a los átomos tienden a ganar, perder o compartir electrones para completar ocho en su capa de valencia. -->
-- [ ] B) La regla de hund
+- [ ] A) La regla de hund
   <!-- feedback: Incorrecto. Este concepto hace referencia a un proceso o estructura biológica diferente. -->
-- [ ] C) El principio de exclusión de pauli
+- [ ] B) El principio de exclusión de pauli
   <!-- feedback: Incorrecto. No corresponde con la descripción dada. Revisa la teoría de estructura de la materia y enlace químico. -->
-- [ ] D) La ley de conservación de masa
+- [ ] C) La ley de conservación de masa
   <!-- feedback: Incorrecto. Es un distractor conceptual incorrecto para este caso de estudio. -->
 
 ### Explicacion Pedagogica
@@ -280,11 +280,11 @@ La respuesta correcta es La estructura de lewis. Científicamente, esto se expli
 Al realizar experimentos sobre estructura de la materia y enlace químico y estudiar fuerza intermolecular fuerte que mantiene unidas las moléculas de agua líquida elevando su punto de ebullición, ¿cuál es la opción que identifica correctamente el concepto o proceso estudiado?
 
 ### Opciones
-- [x] A) Puentes de hidrógeno
+- [x] C) Puentes de hidrógeno
   <!-- feedback: Excelente. Esta es la respuesta correcta ya que corresponde precisamente a fuerza intermolecular fuerte que mantiene unidas las moléculas de agua líquida elevando su punto de ebullición. -->
-- [ ] B) Fuerzas dipolo-dipolo
+- [ ] A) Fuerzas dipolo-dipolo
   <!-- feedback: Incorrecto. Este concepto hace referencia a un proceso o estructura biológica diferente. -->
-- [ ] C) Fuerzas de dispersión de london
+- [ ] B) Fuerzas de dispersión de london
   <!-- feedback: Incorrecto. No corresponde con la descripción dada. Revisa la teoría de estructura de la materia y enlace químico. -->
 - [ ] D) Enlaces iónicos
   <!-- feedback: Incorrecto. Es un distractor conceptual incorrecto para este caso de estudio. -->
@@ -305,13 +305,13 @@ La respuesta correcta es Puentes de hidrógeno. Científicamente, esto se explic
 Al realizar experimentos sobre estructura de la materia y enlace químico y estudiar tendencia periódica observada al avanzar de izquierda a derecha a lo largo de un período en la tabla, ¿cuál es la opción que identifica correctamente el concepto o proceso estudiado?
 
 ### Opciones
-- [x] A) El radio atómico disminuye
+- [x] D) El radio atómico disminuye
   <!-- feedback: Excelente. Esta es la respuesta correcta ya que corresponde precisamente a tendencia periódica observada al avanzar de izquierda a derecha a lo largo de un período en la tabla. -->
-- [ ] B) El radio atómico aumenta
+- [ ] A) El radio atómico aumenta
   <!-- feedback: Incorrecto. Este concepto hace referencia a un proceso o estructura biológica diferente. -->
-- [ ] C) La electronegatividad disminuye
+- [ ] B) La electronegatividad disminuye
   <!-- feedback: Incorrecto. No corresponde con la descripción dada. Revisa la teoría de estructura de la materia y enlace químico. -->
-- [ ] D) El radio iónico se mantiene
+- [ ] C) El radio iónico se mantiene
   <!-- feedback: Incorrecto. Es un distractor conceptual incorrecto para este caso de estudio. -->
 
 ### Explicacion Pedagogica
@@ -355,13 +355,13 @@ La respuesta correcta es La energía de ionización. Científicamente, esto se e
 Al realizar experimentos sobre estructura de la materia y enlace químico y estudiar el trifluoruro de boro (BF3) es un ejemplo de octeto incompleto con solo seis electrones de valencia, ¿cuál es la opción que identifica correctamente el concepto o proceso estudiado?
 
 ### Opciones
-- [x] A) Excepciones a la regla del octeto
+- [x] D) Excepciones a la regla del octeto
   <!-- feedback: Excelente. Esta es la respuesta correcta ya que corresponde precisamente a el trifluoruro de boro (BF3) es un ejemplo de octeto incompleto con solo seis electrones de valencia. -->
-- [ ] B) Octetos perfectos
+- [ ] A) Octetos perfectos
   <!-- feedback: Incorrecto. Este concepto hace referencia a un proceso o estructura biológica diferente. -->
-- [ ] C) Geometrías moleculares simples
+- [ ] B) Geometrías moleculares simples
   <!-- feedback: Incorrecto. No corresponde con la descripción dada. Revisa la teoría de estructura de la materia y enlace químico. -->
-- [ ] D) Enlaces iónicos puros
+- [ ] C) Enlaces iónicos puros
   <!-- feedback: Incorrecto. Es un distractor conceptual incorrecto para este caso de estudio. -->
 
 ### Explicacion Pedagogica
@@ -380,9 +380,9 @@ La respuesta correcta es Excepciones a la regla del octeto. Científicamente, es
 Al realizar experimentos sobre estructura de la materia y enlace químico y estudiar propiedad del agua debida a la cohesión de sus moléculas mediante abundantes puentes de hidrógeno, ¿cuál es la opción que identifica correctamente el concepto o proceso estudiado?
 
 ### Opciones
-- [x] A) Alta tensión superficial del agua
+- [x] B) Alta tensión superficial del agua
   <!-- feedback: Excelente. Esta es la respuesta correcta ya que corresponde precisamente a propiedad del agua debida a la cohesión de sus moléculas mediante abundantes puentes de hidrógeno. -->
-- [ ] B) Baja densidad del hielo
+- [ ] A) Baja densidad del hielo
   <!-- feedback: Incorrecto. Este concepto hace referencia a un proceso o estructura biológica diferente. -->
 - [ ] C) Elevado calor específico
   <!-- feedback: Incorrecto. No corresponde con la descripción dada. Revisa la teoría de estructura de la materia y enlace químico. -->
@@ -405,11 +405,11 @@ La respuesta correcta es Alta tensión superficial del agua. Científicamente, e
 Al realizar experimentos sobre estructura de la materia y enlace químico y estudiar teoría que predice la geometría molecular basándose en la repulsión de los pares de electrones externos, ¿cuál es la opción que identifica correctamente el concepto o proceso estudiado?
 
 ### Opciones
-- [x] A) La teoría de repulsión de pares electrónicos (vsepr)
+- [x] C) La teoría de repulsión de pares electrónicos (vsepr)
   <!-- feedback: Excelente. Esta es la respuesta correcta ya que corresponde precisamente a teoría que predice la geometría molecular basándose en la repulsión de los pares de electrones externos. -->
-- [ ] B) La teoría del enlace de valencia
+- [ ] A) La teoría del enlace de valencia
   <!-- feedback: Incorrecto. Este concepto hace referencia a un proceso o estructura biológica diferente. -->
-- [ ] C) La teoría de orbitales moleculares
+- [ ] B) La teoría de orbitales moleculares
   <!-- feedback: Incorrecto. No corresponde con la descripción dada. Revisa la teoría de estructura de la materia y enlace químico. -->
 - [ ] D) La ley de proporciones definidas
   <!-- feedback: Incorrecto. Es un distractor conceptual incorrecto para este caso de estudio. -->
@@ -430,13 +430,13 @@ La respuesta correcta es La teoría de repulsión de pares electrónicos (vsepr)
 Al realizar experimentos sobre estructura de la materia y enlace químico y estudiar hibridación del átomo de Carbono en el metano (CH4) que adopta una geometría molecular tetraédrica, ¿cuál es la opción que identifica correctamente el concepto o proceso estudiado?
 
 ### Opciones
-- [x] A) Hibridación sp3
+- [x] D) Hibridación sp3
   <!-- feedback: Excelente. Esta es la respuesta correcta ya que corresponde precisamente a hibridación del átomo de Carbono en el metano (CH4) que adopta una geometría molecular tetraédrica. -->
-- [ ] B) Hibridación sp2
+- [ ] A) Hibridación sp2
   <!-- feedback: Incorrecto. Este concepto hace referencia a un proceso o estructura biológica diferente. -->
-- [ ] C) Hibridación sp
+- [ ] B) Hibridación sp
   <!-- feedback: Incorrecto. No corresponde con la descripción dada. Revisa la teoría de estructura de la materia y enlace químico. -->
-- [ ] D) Hibridación dsp2
+- [ ] C) Hibridación dsp2
   <!-- feedback: Incorrecto. Es un distractor conceptual incorrecto para este caso de estudio. -->
 
 ### Explicacion Pedagogica
@@ -455,13 +455,13 @@ La respuesta correcta es Hibridación sp3. Científicamente, esto se explica por
 Al realizar experimentos sobre estructura de la materia y enlace químico y estudiar geometría molecular de la molécula de agua debido a la presencia de dos pares de electrones no enlazantes, ¿cuál es la opción que identifica correctamente el concepto o proceso estudiado?
 
 ### Opciones
-- [x] A) Geometría angular (agua)
+- [x] D) Geometría angular (agua)
   <!-- feedback: Excelente. Esta es la respuesta correcta ya que corresponde precisamente a geometría molecular de la molécula de agua debido a la presencia de dos pares de electrones no enlazantes. -->
-- [ ] B) Geometría lineal (co2)
+- [ ] A) Geometría lineal (co2)
   <!-- feedback: Incorrecto. Este concepto hace referencia a un proceso o estructura biológica diferente. -->
-- [ ] C) Geometría piramidal (amoniaco)
+- [ ] B) Geometría piramidal (amoniaco)
   <!-- feedback: Incorrecto. No corresponde con la descripción dada. Revisa la teoría de estructura de la materia y enlace químico. -->
-- [ ] D) Geometría trigonal plana
+- [ ] C) Geometría trigonal plana
   <!-- feedback: Incorrecto. Es un distractor conceptual incorrecto para este caso de estudio. -->
 
 ### Explicacion Pedagogica

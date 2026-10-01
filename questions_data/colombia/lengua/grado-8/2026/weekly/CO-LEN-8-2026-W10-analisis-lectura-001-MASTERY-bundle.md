@@ -33,8 +33,8 @@ creador: "Jules-Agent"
 ¿Cómo se denomina al narrador que participa en la historia como personaje principal y cuenta los hechos desde su propio punto de vista utilizando la primera persona?
 
 ### Opciones
-- [ ] A) Narrador omnisciente <!-- feedback: El narrador omnisciente lo sabe todo pero no participa en la acción y suele usar la tercera persona. -->
-- [x] B) Narrador protagonista <!-- feedback: Correcto. El protagonista narra sus propias vivencias en primera persona. -->
+- [ ] B) Narrador omnisciente <!-- feedback: El narrador omnisciente lo sabe todo pero no participa en la acción y suele usar la tercera persona. -->
+- [x] A) Narrador protagonista <!-- feedback: Correcto. El protagonista narra sus propias vivencias en primera persona. -->
 - [ ] C) Narrador testigo <!-- feedback: El testigo participa o presencia la historia pero cuenta la vida de otro, no la suya como foco principal. -->
 - [ ] D) Narrador en segunda persona <!-- feedback: Este narrador se dirige a un "tú", creando un efecto de diálogo o apelación, pero no es el más común en relatos de vivencias personales. -->
 
@@ -54,8 +54,8 @@ El uso del narrador protagonista es común en las crónicas personales y diarios
 ¿Cuál es la función principal de un texto que describe detalladamente las características geográficas y climáticas de una región recién descubierta?
 
 ### Opciones
-- [ ] A) Función apelativa <!-- feedback: La función apelativa busca convencer o dar órdenes al lector. -->
-- [x] B) Función referencial o informativa <!-- feedback: Correcto. Busca informar sobre la realidad de manera objetiva. -->
+- [ ] B) Función apelativa <!-- feedback: La función apelativa busca convencer o dar órdenes al lector. -->
+- [x] A) Función referencial o informativa <!-- feedback: Correcto. Busca informar sobre la realidad de manera objetiva. -->
 - [ ] C) Función emotiva <!-- feedback: La función emotiva se centra en los sentimientos del emisor. -->
 - [ ] D) Función poética <!-- feedback: La función poética busca crear belleza estética a través del lenguaje. -->
 
@@ -96,8 +96,8 @@ Los relatos de creación suelen utilizar un lenguaje performativo, donde la pala
 Al leer el fragmento de Colón, ¿qué actitud se infiere en el narrador frente a lo que está observando por primera vez?
 
 ### Opciones
-- [ ] A) Indiferencia total por la naturaleza. <!-- feedback: La mención detallada de árboles, aguas y frutas indica interés. -->
-- [x] B) Asombro y curiosidad ante lo desconocido y exótico. <!-- feedback: Correcto. Colón resalta la diferencia con lo conocido en Europa. -->
+- [ ] B) Indiferencia total por la naturaleza. <!-- feedback: La mención detallada de árboles, aguas y frutas indica interés. -->
+- [x] A) Asombro y curiosidad ante lo desconocido y exótico. <!-- feedback: Correcto. Colón resalta la diferencia con lo conocido en Europa. -->
 - [ ] C) Miedo extremo hacia los habitantes de la isla. <!-- feedback: La descripción es descriptiva y comparativa, no muestra signos de terror en este fragmento. -->
 - [ ] D) Arrepentimiento por haber realizado el viaje. <!-- feedback: El tono es de descubrimiento y registro de lo hallado. -->
 
@@ -118,8 +118,8 @@ Si un autor colonial escribe que "es obligación de la Corona proteger a los ind
 
 ### Opciones
 - [ ] A) La Corona española no tiene dinero para la conquista. <!-- feedback: El argumento se centra en la condición humana, no en la economía. -->
-- [ ] B) Los indígenas deben aprender a leer y escribir español rápidamente. <!-- feedback: No se menciona la educación en el argumento dado. -->
-- [x] C) La defensa de la dignidad humana de los indígenas como base de su protección legal. <!-- feedback: Correcto. El autor vincula la humanidad del indígena con el deber de protección. -->
+- [ ] C) Los indígenas deben aprender a leer y escribir español rápidamente. <!-- feedback: No se menciona la educación en el argumento dado. -->
+- [x] B) La defensa de la dignidad humana de los indígenas como base de su protección legal. <!-- feedback: Correcto. El autor vincula la humanidad del indígena con el deber de protección. -->
 - [ ] D) El rey de España es el dueño de todas las almas del mundo. <!-- feedback: La tesis se enfoca en el derecho del indígena, no en el poder totalitario del rey. -->
 
 ### Explicacion Pedagogica
@@ -203,8 +203,8 @@ La personificación en los mitos ayuda a los pueblos a relacionarse con el unive
 ### Opciones
 - [ ] A) Los códices son más fáciles de leer para personas que no saben hablar. <!-- feedback: Leer glifos requiere un conocimiento profundo del lenguaje y la cultura. -->
 - [ ] B) Los dibujos sirven solo de adorno y no tienen ningún significado real. <!-- feedback: En los códices, la imagen es parte esencial de la información narrada. -->
-- [x] C) Permiten una comunicación más rica que incluye símbolos visuales, colores y conceptos complejos simultáneamente. <!-- feedback: Correcto. La multimodalidad amplía las capas de significado del mensaje. -->
-- [ ] D) Que se pueden imprimir más rápido en las imprentas modernas. <!-- feedback: Los códices eran hechos a mano; la rapidez de impresión no es una ventaja de su formato original. -->
+- [x] D) Permiten una comunicación más rica que incluye símbolos visuales, colores y conceptos complejos simultáneamente. <!-- feedback: Correcto. La multimodalidad amplía las capas de significado del mensaje. -->
+- [ ] C) Que se pueden imprimir más rápido en las imprentas modernas. <!-- feedback: Los códices eran hechos a mano; la rapidez de impresión no es una ventaja de su formato original. -->
 
 ### Explicacion Pedagogica
 La lectura crítica de textos multimodales requiere entender cómo la imagen y la palabra se complementan para crear un mensaje completo.
@@ -224,8 +224,8 @@ Si un cronista español describe a los indígenas como "niños que necesitan ser
 ### Opciones
 - [ ] A) Una visión de igualdad total entre todas las razas del mundo. <!-- feedback: La comparación con niños implica una jerarquía, no igualdad. -->
 - [ ] B) Un profundo respeto por la autonomía y sabiduría de los jefes indígenas. <!-- feedback: Llamarlos "niños" despoja a los líderes de su autoridad adulta y política. -->
-- [x] C) Una visión paternalista que justifica la dominación y el control sobre el otro. <!-- feedback: Correcto. Al infantilizar al indígena, se justifica la necesidad de un "tutor" o dominador. -->
-- [ ] D) Una crítica científica sobre la baja estatura de los habitantes de América. <!-- feedback: El término es metafórico/social, no una observación biológica sobre el crecimiento. -->
+- [x] D) Una visión paternalista que justifica la dominación y el control sobre el otro. <!-- feedback: Correcto. Al infantilizar al indígena, se justifica la necesidad de un "tutor" o dominador. -->
+- [ ] C) Una crítica científica sobre la baja estatura de los habitantes de América. <!-- feedback: El término es metafórico/social, no una observación biológica sobre el crecimiento. -->
 
 ### Explicacion Pedagogica
 El lenguaje no es neutro; el uso de metáforas como la infancia para referirse a pueblos enteros es una herramienta poderosa de justificación política y social.
@@ -244,8 +244,8 @@ Cuando un poeta moderno escribe un poema sobre el "descubrimiento de sí mismo" 
 
 ### Opciones
 - [ ] A) Una copia ilegal (plagio) que debe ser denunciada. <!-- feedback: El uso de metáforas comunes para temas distintos es intertextualidad, no necesariamente plagio. -->
-- [ ] B) Un error de anacronismo por usar palabras viejas en temas nuevos. <!-- feedback: La literatura a menudo reutiliza símbolos antiguos para darles nuevos significados. -->
-- [x] C) Una relación intertextual que enriquece el poema moderno con el peso histórico del viaje original. <!-- feedback: Correcto. Conecta la experiencia personal con el gran relato del descubrimiento. -->
+- [ ] C) Un error de anacronismo por usar palabras viejas en temas nuevos. <!-- feedback: La literatura a menudo reutiliza símbolos antiguos para darles nuevos significados. -->
+- [x] B) Una relación intertextual que enriquece el poema moderno con el peso histórico del viaje original. <!-- feedback: Correcto. Conecta la experiencia personal con el gran relato del descubrimiento. -->
 - [ ] D) Una demostración de que el poeta moderno no tiene imaginación propia. <!-- feedback: La intertextualidad es un recurso literario sofisticado, no una falta de creatividad. -->
 
 ### Explicacion Pedagogica

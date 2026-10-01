@@ -35,8 +35,8 @@ creador: "Jules-Agent"
 Objectivity is the practice of reporting news without being influenced by personal feelings or opinions.
 
 ### Opciones
-- [ ] A) Bias <!-- feedback: Incorrect. Bias is the opposite of objectivity. -->
-- [x] B) Objectivity <!-- feedback: Correct. The core ethical principle of impartial reporting. -->
+- [ ] B) Bias <!-- feedback: Incorrect. Bias is the opposite of objectivity. -->
+- [x] A) Objectivity <!-- feedback: Correct. The core ethical principle of impartial reporting. -->
 - [ ] C) Sensationalism <!-- feedback: Incorrect. Focuses on shocking/exciting news. -->
 - [ ] D) Clickbait <!-- feedback: Incorrect. Focuses on attracting clicks. -->
 
@@ -75,8 +75,8 @@ The passive voice 'are verified' focuses on the status of the sources being auth
 If the reporter had checked the facts, the newspaper wouldn't have been sued for defamation.
 
 ### Opciones
-- [ ] A) checked <!-- feedback: Incorrect. Second conditional. -->
-- [x] B) had checked <!-- feedback: Correct. Third conditional for hypothetical past. -->
+- [ ] B) checked <!-- feedback: Incorrect. Second conditional. -->
+- [x] A) had checked <!-- feedback: Correct. Third conditional for hypothetical past. -->
 - [ ] C) has checked <!-- feedback: Incorrect. Present perfect. -->
 - [ ] D) would check <!-- feedback: Incorrect. 'Would' not in 'if' clause. -->
 
@@ -95,10 +95,10 @@ The third conditional is used to speculate about how a past ethical failure led 
 The text suggests that public figures also have a right to privacy, although it is often balanced against the public's right to know.
 
 ### Opciones
-- [x] A) balanced against <!-- feedback: Correct. To balance against means to compare or contrast to show the relative importance. -->
-- [ ] B) ignored by <!-- feedback: Incorrect. While sometimes true, 'balanced against' describes the ethical framework. -->
-- [ ] C) identical to <!-- feedback: Incorrect. They are two different rights. -->
-- [ ] D) replaced by <!-- feedback: Incorrect. One doesn't necessarily eliminate the other. -->
+- [x] D) balanced against <!-- feedback: Correct. To balance against means to compare or contrast to show the relative importance. -->
+- [ ] A) ignored by <!-- feedback: Incorrect. While sometimes true, 'balanced against' describes the ethical framework. -->
+- [ ] B) identical to <!-- feedback: Incorrect. They are two different rights. -->
+- [ ] C) replaced by <!-- feedback: Incorrect. One doesn't necessarily eliminate the other. -->
 
 ### Explicacion Pedagogica
 'Balanced against' is the standard legal and ethical term for weighing two competing rights or interests.
@@ -116,8 +116,8 @@ The text suggests that public figures also have a right to privacy, although it 
 
 ### Opciones
 - [ ] A) accidental <!-- feedback: Incorrect. Fake news is 'deliberate'. -->
-- [x] B) deliberate <!-- feedback: Correct. Deliberate means done consciously and intentionally. -->
-- [ ] C) factual <!-- feedback: Incorrect. Fake news is false. -->
+- [x] C) deliberate <!-- feedback: Correct. Deliberate means done consciously and intentionally. -->
+- [ ] B) factual <!-- feedback: Incorrect. Fake news is false. -->
 - [ ] D) objective <!-- feedback: Incorrect. Fake news is biased. -->
 
 ### Explicacion Pedagogica
@@ -196,9 +196,9 @@ The code of ethics stated that journalists shouldn't accept gifts from the peopl
 
 ### Opciones
 - [ ] A) don't <!-- feedback: Incorrect. Backshifted in reported speech. -->
-- [x] B) shouldn't <!-- feedback: Correct. Backshifted from 'should not' or expressing advice within the past statement. -->
-- [ ] C) won't <!-- feedback: Incorrect. -->
-- [ ] D) can't <!-- feedback: Incorrect. -->
+- [x] D) shouldn't <!-- feedback: Correct. Backshifted from 'should not' or expressing advice within the past statement. -->
+- [ ] B) won't <!-- feedback: Incorrect. -->
+- [ ] C) can't <!-- feedback: Incorrect. -->
 
 ### Explicacion Pedagogica
 In reported guidelines, 'shouldn't' is used to express the negative advice or requirement contained in the original code.
@@ -216,8 +216,8 @@ Native advertising is deceptive if it is not clearly labeled, as it blurs the li
 
 ### Opciones
 - [ ] A) clarifies <!-- feedback: Incorrect. It makes it harder to see. -->
-- [x] B) blurs <!-- feedback: Correct. To blur means to make less distinct or clear. -->
-- [ ] C) emphasizes <!-- feedback: Incorrect. Opposite of blurring. -->
+- [x] C) blurs <!-- feedback: Correct. To blur means to make less distinct or clear. -->
+- [ ] B) emphasizes <!-- feedback: Incorrect. Opposite of blurring. -->
 - [ ] D) eliminates <!-- feedback: Incorrect. The line still exists but is hard to see. -->
 
 ### Explicacion Pedagogica
@@ -236,9 +236,9 @@ Plagiarism is the practice of taking someone else's work or ideas and passing th
 
 ### Opciones
 - [ ] A) Research <!-- feedback: Incorrect. Research is ethical study. -->
-- [x] B) Plagiarism <!-- feedback: Correct. Specific term for academic/creative theft. -->
-- [ ] C) Paraphrasing <!-- feedback: Incorrect. Restating in your own words (which still needs citation). -->
-- [ ] D) Editing <!-- feedback: Incorrect. Improving existing text. -->
+- [x] D) Plagiarism <!-- feedback: Correct. Specific term for academic/creative theft. -->
+- [ ] B) Paraphrasing <!-- feedback: Incorrect. Restating in your own words (which still needs citation). -->
+- [ ] C) Editing <!-- feedback: Incorrect. Improving existing text. -->
 
 ### Explicacion Pedagogica
 'Plagiarism' is the core ethical violation involving the theft of intellectual property.
@@ -255,8 +255,8 @@ Plagiarism is the practice of taking someone else's work or ideas and passing th
 By next year, stricter regulations will have been implemented to combat online harassment.
 
 ### Opciones
-- [ ] A) will implement <!-- feedback: Incorrect. Active voice. -->
-- [x] B) will have been implemented <!-- feedback: Correct. Future perfect passive for a completed state in the future. -->
+- [ ] B) will implement <!-- feedback: Incorrect. Active voice. -->
+- [x] A) will have been implemented <!-- feedback: Correct. Future perfect passive for a completed state in the future. -->
 - [ ] C) are implemented <!-- feedback: Incorrect. Present. -->
 - [ ] D) implementing <!-- feedback: Incorrect. Gerund. -->
 
@@ -336,9 +336,9 @@ A conflict of interest occurs when a journalist's personal involvement in a stor
 
 ### Opciones
 - [ ] A) resolution <!-- feedback: Incorrect. -->
-- [x] B) conflict <!-- feedback: Correct. Specific term for personal interest interfering with duty. -->
-- [ ] C) success <!-- feedback: Incorrect. -->
-- [ ] D) agreement <!-- feedback: Incorrect. -->
+- [x] D) conflict <!-- feedback: Correct. Specific term for personal interest interfering with duty. -->
+- [ ] B) success <!-- feedback: Incorrect. -->
+- [ ] C) agreement <!-- feedback: Incorrect. -->
 
 ### Explicacion Pedagogica
 'Conflict of interest' is the standard term for when professional duty is at risk due to personal ties or benefits.
@@ -375,8 +375,8 @@ The 'wish + past perfect' structure allows for the expression of ethical regret 
 Journalistic integrity involves a commitment to accuracy, fairness, and ethical behavior in reporting.
 
 ### Opciones
-- [ ] A) Greed <!-- feedback: Incorrect. Negative. -->
-- [x] B) integrity <!-- feedback: Correct. The quality of being honest and having strong moral principles. -->
+- [ ] B) Greed <!-- feedback: Incorrect. Negative. -->
+- [x] A) integrity <!-- feedback: Correct. The quality of being honest and having strong moral principles. -->
 - [ ] C) Popularity <!-- feedback: Incorrect. Ratings-focused. -->
 - [ ] D) Speed <!-- feedback: Incorrect. Often sacrifices accuracy. -->
 
@@ -415,10 +415,10 @@ In reported speech, we backshift the tense of the original statement to show it 
 Ultimately, media ethics is the cornerstone of a healthy and functioning democracy.
 
 ### Opciones
-- [x] A) cornerstone <!-- feedback: Correct. Metaphor for an essential foundation. -->
-- [ ] B) byproduct <!-- feedback: Incorrect. Secondary result. -->
-- [ ] C) obstacle <!-- feedback: Incorrect. It helps, not hinders. -->
-- [ ] D) secret <!-- feedback: Incorrect. Ethics should be public. -->
+- [x] D) cornerstone <!-- feedback: Correct. Metaphor for an essential foundation. -->
+- [ ] A) byproduct <!-- feedback: Incorrect. Secondary result. -->
+- [ ] B) obstacle <!-- feedback: Incorrect. It helps, not hinders. -->
+- [ ] C) secret <!-- feedback: Incorrect. Ethics should be public. -->
 
 ### Explicacion Pedagogica
 'Cornerstone' correctly identifies the essential, foundational role of ethical media in a democratic society.

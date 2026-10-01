@@ -29,8 +29,8 @@ bundle_index: 1
 ¿Cual es la forma general de una ecuacion cuadratica con una incognita $x$?
 
 ### Opciones
-- [ ] A) $ax + b = 0$ <!-- feedback: Esta es la forma general de una ecuacion lineal de primer grado. -->
-- [x] B) $ax^2 + bx + c = 0$ <!-- feedback: ¡Correcto! Una ecuacion cuadratica tiene como mayor exponente el 2. -->
+- [ ] B) $ax + b = 0$ <!-- feedback: Esta es la forma general de una ecuacion lineal de primer grado. -->
+- [x] A) $ax^2 + bx + c = 0$ <!-- feedback: ¡Correcto! Una ecuacion cuadratica tiene como mayor exponente el 2. -->
 - [ ] C) $ax^3 + bx^2 + cx + d = 0$ <!-- feedback: Esta es la forma de una ecuacion cubica o de tercer grado. -->
 - [ ] D) $a^2 + b^2 = c^2$ <!-- feedback: Este es el teorema de Pitagoras, no la forma de una ecuacion cuadratica. -->
 
@@ -49,8 +49,8 @@ Una ecuacion cuadratica o de segundo grado es aquella en la que el mayor exponen
 
 ### Opciones
 - [ ] A) Coeficiente principal <!-- feedback: El coeficiente principal es el numero 'a'. -->
-- [x] B) Discriminante <!-- feedback: ¡Correcto! El discriminante determina la naturaleza de las raices de la ecuacion. -->
-- [ ] C) Termino independiente <!-- feedback: El termino independiente es la constante 'c'. -->
+- [x] C) Discriminante <!-- feedback: ¡Correcto! El discriminante determina la naturaleza de las raices de la ecuacion. -->
+- [ ] B) Termino independiente <!-- feedback: El termino independiente es la constante 'c'. -->
 - [ ] D) Vertice <!-- feedback: El vertice es el punto maximo o minimo de la parabola asociada. -->
 
 ### Explicacion Pedagogica
@@ -69,8 +69,8 @@ El discriminante ($\Delta$) es fundamental porque su signo nos indica cuantas so
 ### Opciones
 - [ ] A) $x = 3$ <!-- feedback: 3 es una solucion, pero falta la solucion negativa. -->
 - [ ] B) $x = 9$ y $x = -9$ <!-- feedback: El cuadrado de 9 es 81, no 9. -->
-- [x] C) $x = 3$ y $x = -3$ <!-- feedback: ¡Correcto! Al despejar queda $x^2 = 9$, por lo que $x = \pm\sqrt{9} = \pm 3$. -->
-- [ ] D) No tiene soluciones reales. <!-- feedback: Al ser un numero positivo bajo la raiz, si tiene soluciones. -->
+- [x] D) $x = 3$ y $x = -3$ <!-- feedback: ¡Correcto! Al despejar queda $x^2 = 9$, por lo que $x = \pm\sqrt{9} = \pm 3$. -->
+- [ ] C) No tiene soluciones reales. <!-- feedback: Al ser un numero positivo bajo la raiz, si tiene soluciones. -->
 
 ### Explicacion Pedagogica
 Las ecuaciones de la forma $x^2 + c = 0$ se pueden resolver despejando directamente la $x$ y obteniendo la raiz cuadrada. Siempre generan dos soluciones de igual valor absoluto pero signo contrario (si $-c$ es positivo).
@@ -86,10 +86,10 @@ Las ecuaciones de la forma $x^2 + c = 0$ se pueden resolver despejando directame
 ¿Cual es una de las soluciones de la ecuacion $x^2 + 5x = 0$?
 
 ### Opciones
-- [x] A) $x = 0$ <!-- feedback: ¡Correcto! Al factorizar $x(x+5)=0$, una de las raices es siempre 0 en este tipo de ecuaciones. -->
-- [ ] B) $x = 5$ <!-- feedback: Si x=5, tendriamos $25 + 25 = 50$, no 0. -->
-- [ ] C) $x = 1$ <!-- feedback: Si x=1, tendriamos $1 + 5 = 6$, no 0. -->
-- [ ] D) No tiene solucion. <!-- feedback: Esta ecuacion siempre tiene dos soluciones reales. -->
+- [x] D) $x = 0$ <!-- feedback: ¡Correcto! Al factorizar $x(x+5)=0$, una de las raices es siempre 0 en este tipo de ecuaciones. -->
+- [ ] A) $x = 5$ <!-- feedback: Si x=5, tendriamos $25 + 25 = 50$, no 0. -->
+- [ ] B) $x = 1$ <!-- feedback: Si x=1, tendriamos $1 + 5 = 6$, no 0. -->
+- [ ] C) No tiene solucion. <!-- feedback: Esta ecuacion siempre tiene dos soluciones reales. -->
 
 ### Explicacion Pedagogica
 En las ecuaciones incompletas de la forma $ax^2 + bx = 0$, siempre es posible extraer factor comun $x$, obteniendo $x(ax + b) = 0$. Esto implica que una solucion es $x = 0$ y la otra es $x = -b/a$.
@@ -124,8 +124,8 @@ Cuando $\Delta = 0$, en la formula general estamos sumando y restando cero, lo q
 Si el ancho es $x$, ¿cual es la ecuacion cuadratica que modela esta situacion?
 
 ### Opciones
-- [ ] A) $x + (x + 2) = 24$ <!-- feedback: Esto es una ecuacion lineal que suma dimensiones, no area. -->
-- [x] B) $x^2 + 2x - 24 = 0$ <!-- feedback: ¡Correcto! $x(x + 2) = 24 \rightarrow x^2 + 2x = 24$. -->
+- [ ] B) $x + (x + 2) = 24$ <!-- feedback: Esto es una ecuacion lineal que suma dimensiones, no area. -->
+- [x] A) $x^2 + 2x - 24 = 0$ <!-- feedback: ¡Correcto! $x(x + 2) = 24 \rightarrow x^2 + 2x = 24$. -->
 - [ ] C) $x^2 - 2x + 24 = 0$ <!-- feedback: Los signos del planteamiento son incorrectos. -->
 - [ ] D) $2x + 2 = 24$ <!-- feedback: Error en el planteamiento de la formula del area. -->
 
@@ -163,9 +163,9 @@ Para trinomios con coeficiente principal 1, buscamos dos numeros que multiplicad
 
 ### Opciones
 - [ ] A) $x = 4$ <!-- feedback: Falta la raiz negativa y extraer la raiz cuadrada de 4. -->
-- [x] B) $x = 2, x = -2$ <!-- feedback: ¡Correcto! $3x^2 = 12 \rightarrow x^2 = 4 \rightarrow x = \pm 2$. -->
-- [ ] C) $x = 3, x = -3$ <!-- feedback: Error al dividir 12 entre 3. -->
-- [ ] D) $x = 12, x = -12$ <!-- feedback: No se ha despejado correctamente el coeficiente 3. -->
+- [x] D) $x = 2, x = -2$ <!-- feedback: ¡Correcto! $3x^2 = 12 \rightarrow x^2 = 4 \rightarrow x = \pm 2$. -->
+- [ ] B) $x = 3, x = -3$ <!-- feedback: Error al dividir 12 entre 3. -->
+- [ ] C) $x = 12, x = -12$ <!-- feedback: No se ha despejado correctamente el coeficiente 3. -->
 
 ### Explicacion Pedagogica
 Primero aislamos el termino con $x^2$ dividiendo por 3. Obtenemos $x^2 = 4$. Al aplicar la raiz cuadrada en ambos lados, obtenemos dos valores reales que satisfacen la ecuacion.
@@ -201,9 +201,9 @@ Completar el cuadrado permite convertir un trinomio en una potencia perfecta igu
 
 ### Opciones
 - [ ] A) $-b/a$ <!-- feedback: Esta es la suma de las raices. -->
-- [x] B) $c/a$ <!-- feedback: ¡Correcto! Segun las relaciones de Vieta, el producto es el termino independiente entre el principal. -->
-- [ ] C) $-c/a$ <!-- feedback: No lleva signo negativo en la formula del producto. -->
-- [ ] D) $b/a$ <!-- feedback: Error conceptual en la relacion de coeficientes. -->
+- [x] D) $c/a$ <!-- feedback: ¡Correcto! Segun las relaciones de Vieta, el producto es el termino independiente entre el principal. -->
+- [ ] B) $-c/a$ <!-- feedback: No lleva signo negativo en la formula del producto. -->
+- [ ] C) $b/a$ <!-- feedback: Error conceptual en la relacion de coeficientes. -->
 
 ### Explicacion Pedagogica
 Las formulas de Vieta vinculan las soluciones de un polinomio con sus coeficientes. Para una ecuacion de segundo grado, la suma es $-b/a$ y el producto es $c/a$.
@@ -220,8 +220,8 @@ Las formulas de Vieta vinculan las soluciones de un polinomio con sus coeficient
 
 ### Opciones
 - [ ] A) Solo a los $4$ segundos. <!-- feedback: Falta el tiempo inicial del lanzamiento. -->
-- [x] B) A los $0$ y a los $4$ segundos. <!-- feedback: ¡Correcto! Al factorizar $-5t(t-4)=0$, obtenemos t=0 y t=4. -->
-- [ ] C) A los $0$ y a los $20$ segundos. <!-- feedback: Error al factorizar el coeficiente 5. -->
+- [x] C) A los $0$ y a los $4$ segundos. <!-- feedback: ¡Correcto! Al factorizar $-5t(t-4)=0$, obtenemos t=0 y t=4. -->
+- [ ] B) A los $0$ y a los $20$ segundos. <!-- feedback: Error al factorizar el coeficiente 5. -->
 - [ ] D) A los $2$ segundos. <!-- feedback: Este es el tiempo donde alcanza la altura maxima, no donde cae. -->
 
 ### Explicacion Pedagogica
@@ -238,8 +238,8 @@ Resolver para $h=0$ en un modelo de proyectiles significa encontrar los puntos d
 Encuentra las soluciones de la ecuacion $2x^2 - 4x - 6 = 0$.
 
 ### Opciones
-- [ ] A) $x = 1, x = -3$ <!-- feedback: Los signos estan invertidos. -->
-- [x] B) $x = 3, x = -1$ <!-- feedback: ¡Correcto! Tras simplificar la ecuacion a $x^2 - 2x - 3 = 0$, obtenemos (x-3)(x+1)=0. -->
+- [ ] B) $x = 1, x = -3$ <!-- feedback: Los signos estan invertidos. -->
+- [x] A) $x = 3, x = -1$ <!-- feedback: ¡Correcto! Tras simplificar la ecuacion a $x^2 - 2x - 3 = 0$, obtenemos (x-3)(x+1)=0. -->
 - [ ] C) $x = 2, x = -1$ <!-- feedback: No satisfacen la igualdad. -->
 - [ ] D) $x = 3, x = 1$ <!-- feedback: Error en el signo de una de las raices. -->
 
@@ -258,8 +258,8 @@ Para la ecuacion $x^2 - kx + 4 = 0$, ¿para que valor de $k$ la ecuacion tiene u
 
 ### Opciones
 - [ ] A) $k = 0$ <!-- feedback: El discriminante seria -16, no tendria soluciones reales. -->
-- [x] B) $k = 4$ (o $k = -4$) <!-- feedback: ¡Correcto! El discriminante es $k^2 - 16$. Para tener una sola solucion, $k^2 - 16 = 0$. -->
-- [ ] C) $k = 2$ <!-- feedback: El discriminante seria $4 - 16 = -12$. -->
+- [x] C) $k = 4$ (o $k = -4$) <!-- feedback: ¡Correcto! El discriminante es $k^2 - 16$. Para tener una sola solucion, $k^2 - 16 = 0$. -->
+- [ ] B) $k = 2$ <!-- feedback: El discriminante seria $4 - 16 = -12$. -->
 - [ ] D) $k = 16$ <!-- feedback: El discriminante seria positivo, dando dos soluciones. -->
 
 ### Explicacion Pedagogica
@@ -276,9 +276,9 @@ Una ecuacion cuadratica tiene una solucion unica (doble) si su discriminante es 
 ¿Cuantas veces cruza la presion el valor cero (eje del tiempo)?
 
 ### Opciones
-- [ ] A) Dos veces. <!-- feedback: No, el discriminante no es positivo. -->
-- [ ] B) Una vez. <!-- feedback: No, el discriminante no es cero. -->
-- [x] C) Ninguna vez. <!-- feedback: ¡Correcto! El discriminante es $36 - 40 = -4$. Al ser negativo, no hay raices reales. -->
+- [ ] B) Dos veces. <!-- feedback: No, el discriminante no es positivo. -->
+- [ ] C) Una vez. <!-- feedback: No, el discriminante no es cero. -->
+- [x] A) Ninguna vez. <!-- feedback: ¡Correcto! El discriminante es $36 - 40 = -4$. Al ser negativo, no hay raices reales. -->
 - [ ] D) Infinitas veces. <!-- feedback: Una parabola solo puede cruzar el eje un maximo de dos veces. -->
 
 ### Explicacion Pedagogica
@@ -315,9 +315,9 @@ Primero despejamos $x^2$ multiplicando por 2 en ambos lados. Luego aplicamos la 
 
 ### Opciones
 - [ ] A) $x = 5$ <!-- feedback: $25 + 50 + 25 = 100$, no 0. -->
-- [x] B) $x = -5$ <!-- feedback: ¡Correcto! Es un trinomio cuadrado perfecto: $(x+5)^2 = 0$. -->
-- [ ] C) $x = 0$ <!-- feedback: No satisface la ecuacion. -->
-- [ ] D) $x = -10$ <!-- feedback: No satisface la ecuacion. -->
+- [x] D) $x = -5$ <!-- feedback: ¡Correcto! Es un trinomio cuadrado perfecto: $(x+5)^2 = 0$. -->
+- [ ] B) $x = 0$ <!-- feedback: No satisface la ecuacion. -->
+- [ ] C) $x = -10$ <!-- feedback: No satisface la ecuacion. -->
 
 ### Explicacion Pedagogica
 Cuando un trinomio es un cuadrado perfecto (como $x^2 + 10x + 25$), el discriminante es siempre cero y la ecuacion tiene una solucion unica que se halla directamente factorizando el binomio al cuadrado.
@@ -353,8 +353,8 @@ Si conocemos las raices $r_1$ y $r_2$, la ecuacion es $(x - r_1)(x - r_2) = 0$. 
 
 ### Opciones
 - [ ] A) $\{1, 4\}$ <!-- feedback: Estas son las soluciones para x^2, falta extraer la raiz. -->
-- [x] B) $\{1, -1, 2, -2\}$ <!-- feedback: ¡Correcto! Haciendo $u=x^2$ queda $u^2-5u+4=0 \rightarrow u=1, u=4$. Entonces $x=\pm 1, x=\pm 2$. -->
-- [ ] C) $\{1, 2\}$ <!-- feedback: Faltan las soluciones negativas. -->
+- [x] C) $\{1, -1, 2, -2\}$ <!-- feedback: ¡Correcto! Haciendo $u=x^2$ queda $u^2-5u+4=0 \rightarrow u=1, u=4$. Entonces $x=\pm 1, x=\pm 2$. -->
+- [ ] B) $\{1, 2\}$ <!-- feedback: Faltan las soluciones negativas. -->
 - [ ] D) No tiene soluciones reales. <!-- feedback: Si tiene, ya que los valores intermedios de u son positivos. -->
 
 ### Explicacion Pedagogica
@@ -390,9 +390,9 @@ Planteamos la ecuacion restando dos veces el ancho $x$ a cada dimension exterior
 ¿Cuales son esos dos numeros?
 
 ### Opciones
-- [ ] A) $1$ y $2$ <!-- feedback: $1 + 4 = 5$, no 25. -->
-- [ ] B) $2$ y $3$ <!-- feedback: $4 + 9 = 13$, no 25. -->
-- [x] C) $3$ y $4$ <!-- feedback: ¡Correcto! $3^2 + 4^2 = 9 + 16 = 25$. -->
+- [ ] B) $1$ y $2$ <!-- feedback: $1 + 4 = 5$, no 25. -->
+- [ ] C) $2$ y $3$ <!-- feedback: $4 + 9 = 13$, no 25. -->
+- [x] A) $3$ y $4$ <!-- feedback: ¡Correcto! $3^2 + 4^2 = 9 + 16 = 25$. -->
 - [ ] D) $4$ y $5$ <!-- feedback: $16 + 25 = 41$, no 25. -->
 
 ### Explicacion Pedagogica

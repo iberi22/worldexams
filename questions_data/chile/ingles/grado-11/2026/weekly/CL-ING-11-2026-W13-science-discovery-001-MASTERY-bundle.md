@@ -36,9 +36,9 @@ A hypothesis is a proposed explanation made on the basis of limited evidence as 
 
 ### Opciones
 - [ ] A) conclusion <!-- feedback: Incorrect. A conclusion is reached at the end. -->
-- [x] B) hypothesis <!-- feedback: Correct. A hypothesis is an initial, testable explanation. -->
-- [ ] C) fact <!-- feedback: Incorrect. A fact is something known to be true. -->
-- [ ] D) theorem <!-- feedback: Incorrect. A theorem is a proven statement in mathematics. -->
+- [x] D) hypothesis <!-- feedback: Correct. A hypothesis is an initial, testable explanation. -->
+- [ ] B) fact <!-- feedback: Incorrect. A fact is something known to be true. -->
+- [ ] C) theorem <!-- feedback: Incorrect. A theorem is a proven statement in mathematics. -->
 
 ### Explicacion Pedagogica
 'Hypothesis' is the fundamental term for a tentative explanation in the scientific method.
@@ -76,8 +76,8 @@ If the project had received more funding, the researchers would have completed t
 
 ### Opciones
 - [ ] A) received <!-- feedback: Incorrect. Second conditional. -->
-- [x] B) had received <!-- feedback: Correct. Third conditional for hypothetical past condition. -->
-- [ ] C) has received <!-- feedback: Incorrect. Present perfect. -->
+- [x] C) had received <!-- feedback: Correct. Third conditional for hypothetical past condition. -->
+- [ ] B) has received <!-- feedback: Incorrect. Present perfect. -->
 - [ ] D) would receive <!-- feedback: Incorrect. 'Would' not used in 'if' clause. -->
 
 ### Explicacion Pedagogica
@@ -95,9 +95,9 @@ The third conditional (if + past perfect) describes a past situation that did no
 Gene editing allows scientists to modify an organism's DNA with unprecedented precision.
 
 ### Opciones
-- [x] A) precision <!-- feedback: Correct. Precision means the quality of being exact and accurate. -->
-- [ ] B) confusion <!-- feedback: Incorrect. Science aims for the opposite of confusion. -->
-- [ ] C) neglect <!-- feedback: Incorrect. Neglect is lack of care. -->
+- [x] C) precision <!-- feedback: Correct. Precision means the quality of being exact and accurate. -->
+- [ ] A) confusion <!-- feedback: Incorrect. Science aims for the opposite of confusion. -->
+- [ ] B) neglect <!-- feedback: Incorrect. Neglect is lack of care. -->
 - [ ] D) isolation <!-- feedback: Incorrect. Precision is the key feature of CRISPR mentioned in the text. -->
 
 ### Explicacion Pedagogica
@@ -116,8 +116,8 @@ The rapid development of artificial intelligence raises fundamental questions ab
 
 ### Opciones
 - [ ] A) answers <!-- feedback: Incorrect. It's causing people to ask new questions. -->
-- [x] B) raises <!-- feedback: Correct. To 'raise a question' means to bring it up for discussion. -->
-- [ ] C) ignores <!-- feedback: Incorrect. The text focuses on the questions being asked. -->
+- [x] C) raises <!-- feedback: Correct. To 'raise a question' means to bring it up for discussion. -->
+- [ ] B) ignores <!-- feedback: Incorrect. The text focuses on the questions being asked. -->
 - [ ] D) avoids <!-- feedback: Incorrect. The development forces us to confront these questions. -->
 
 ### Explicacion Pedagogica
@@ -136,8 +136,8 @@ It is mandatory to wear protective goggles while performing chemical experiments
 
 ### Opciones
 - [ ] A) optional <!-- feedback: Incorrect. Goggles are required for safety. -->
-- [x] B) mandatory <!-- feedback: Correct. Mandatory means required by law or rules. -->
-- [ ] C) creative <!-- feedback: Incorrect. Safety is a rule, not a creative choice. -->
+- [x] C) mandatory <!-- feedback: Correct. Mandatory means required by law or rules. -->
+- [ ] B) creative <!-- feedback: Incorrect. Safety is a rule, not a creative choice. -->
 - [ ] D) incidental <!-- feedback: Incorrect. Incidental means happening by chance. -->
 
 ### Explicacion Pedagogica
@@ -176,9 +176,9 @@ The Mars rover is equipped with sensors to detect signs of water and past life o
 
 ### Opciones
 - [ ] A) conceal <!-- feedback: Incorrect. To conceal means to hide. -->
-- [x] B) detect <!-- feedback: Correct. To detect means to discover or identify the presence of something. -->
-- [ ] C) fabricate <!-- feedback: Incorrect. To fabricate means to invent or fake. -->
-- [ ] D) destroy <!-- feedback: Incorrect. The rover is there to find, not destroy. -->
+- [x] D) detect <!-- feedback: Correct. To detect means to discover or identify the presence of something. -->
+- [ ] B) fabricate <!-- feedback: Incorrect. To fabricate means to invent or fake. -->
+- [ ] C) destroy <!-- feedback: Incorrect. The rover is there to find, not destroy. -->
 
 ### Explicacion Pedagogica
 'Detect' is the scientific term for finding or sensing something that is not immediately visible.
@@ -196,8 +196,8 @@ The experiment would have been more successful if the temperature had remained c
 
 ### Opciones
 - [ ] A) would be <!-- feedback: Incorrect. Second conditional. -->
-- [x] B) would have been <!-- feedback: Correct. Third conditional for hypothetical past result. -->
-- [ ] C) will be <!-- feedback: Incorrect. Future tense. -->
+- [x] C) would have been <!-- feedback: Correct. Third conditional for hypothetical past result. -->
+- [ ] B) will be <!-- feedback: Incorrect. Future tense. -->
 - [ ] D) was <!-- feedback: Incorrect. Past tense. -->
 
 ### Explicacion Pedagogica
@@ -215,8 +215,8 @@ The third conditional 'would have been' describes a past outcome that would have
 Pseudoscience consists of statements that claim to be both scientific and factual but are incompatible with the scientific method.
 
 ### Opciones
-- [ ] A) aligned <!-- feedback: Incorrect. Align means consistent with. -->
-- [x] B) incompatible <!-- feedback: Correct. Incompatible means not able to work together or be consistent. -->
+- [ ] B) aligned <!-- feedback: Incorrect. Align means consistent with. -->
+- [x] A) incompatible <!-- feedback: Correct. Incompatible means not able to work together or be consistent. -->
 - [ ] C) identical <!-- feedback: Incorrect. They are very different. -->
 - [ ] D) superior <!-- feedback: Incorrect. Pseudoscience is considered inferior to real science. -->
 
@@ -235,8 +235,8 @@ Pseudoscience consists of statements that claim to be both scientific and factua
 Empirical evidence is information received by means of the senses, particularly by observation and documentation of patterns.
 
 ### Opciones
-- [ ] A) Theoretical <!-- feedback: Incorrect. Theoretical is based on ideas, not direct observation. -->
-- [x] B) Empirical <!-- feedback: Correct. Empirical evidence is based on direct observation or experience. -->
+- [ ] B) Theoretical <!-- feedback: Incorrect. Theoretical is based on ideas, not direct observation. -->
+- [x] A) Empirical <!-- feedback: Correct. Empirical evidence is based on direct observation or experience. -->
 - [ ] C) Anecdotal <!-- feedback: Incorrect. Anecdotal is based on individual stories, not systematic observation. -->
 - [ ] D) Hypothetical <!-- feedback: Incorrect. Based on hypotheses. -->
 
@@ -256,9 +256,9 @@ A new species of orchid has been discovered in the depths of the Andes.
 
 ### Opciones
 - [ ] A) has discovered <!-- feedback: Incorrect. Active voice. -->
-- [x] B) has been discovered <!-- feedback: Correct. Present perfect passive for a recent discovery. -->
-- [ ] C) discovered <!-- feedback: Incorrect. Past simple. -->
-- [ ] D) is discovering <!-- feedback: Incorrect. Active voice. -->
+- [x] D) has been discovered <!-- feedback: Correct. Present perfect passive for a recent discovery. -->
+- [ ] B) discovered <!-- feedback: Incorrect. Past simple. -->
+- [ ] C) is discovering <!-- feedback: Incorrect. Active voice. -->
 
 ### Explicacion Pedagogica
 The present perfect passive 'has been discovered' links a past event (the discovery) with the present fact of its existence.
@@ -275,8 +275,8 @@ The present perfect passive 'has been discovered' links a past event (the discov
 The clinical trial was halted because the researchers found the risks to be disproportionate to the potential benefits.
 
 ### Opciones
-- [ ] A) equal <!-- feedback: Incorrect. If they were equal, the trial might continue. -->
-- [x] B) disproportionate <!-- feedback: Correct. Disproportionate means too large or too small in comparison with something else. -->
+- [ ] B) equal <!-- feedback: Incorrect. If they were equal, the trial might continue. -->
+- [x] A) disproportionate <!-- feedback: Correct. Disproportionate means too large or too small in comparison with something else. -->
 - [ ] C) minimal <!-- feedback: Incorrect. If risks were minimal, they wouldn't halt the trial. -->
 - [ ] D) invisible <!-- feedback: Incorrect. Risks are identified, not invisible. -->
 
@@ -296,9 +296,9 @@ If scientists hadn't collaborated globally, the vaccine wouldn't have been devel
 
 ### Opciones
 - [ ] A) wouldn't develop <!-- feedback: Incorrect. Second conditional. -->
-- [x] B) wouldn't have been developed <!-- feedback: Correct. Third conditional passive for hypothetical past result. -->
-- [ ] C) won't be developed <!-- feedback: Incorrect. Future. -->
-- [ ] D) isn't developed <!-- feedback: Incorrect. Present. -->
+- [x] D) wouldn't have been developed <!-- feedback: Correct. Third conditional passive for hypothetical past result. -->
+- [ ] B) won't be developed <!-- feedback: Incorrect. Future. -->
+- [ ] C) isn't developed <!-- feedback: Incorrect. Present. -->
 
 ### Explicacion Pedagogica
 The third conditional passive indicates that a past achievement resulted from a specific past condition.
@@ -315,10 +315,10 @@ The third conditional passive indicates that a past achievement resulted from a 
 The author concludes that the new telescope will revolutionize our understanding of the early universe.
 
 ### Opciones
-- [x] A) revolutionize <!-- feedback: Correct. To revolutionize means to change something fundamentally or completely. -->
-- [ ] B) confirm <!-- feedback: Incorrect. It will do more than just confirm; it will change our view. -->
-- [ ] C) limit <!-- feedback: Incorrect. It will expand our knowledge, not limit it. -->
-- [ ] D) ignore <!-- feedback: Incorrect. Telescopes help us see, not ignore. -->
+- [x] D) revolutionize <!-- feedback: Correct. To revolutionize means to change something fundamentally or completely. -->
+- [ ] A) confirm <!-- feedback: Incorrect. It will do more than just confirm; it will change our view. -->
+- [ ] B) limit <!-- feedback: Incorrect. It will expand our knowledge, not limit it. -->
+- [ ] C) ignore <!-- feedback: Incorrect. Telescopes help us see, not ignore. -->
 
 ### Explicacion Pedagogica
 'Revolutionize' is the appropriate verb for a development that significantly changes a field of study.
@@ -336,9 +336,9 @@ A vaccine is a substance used to stimulate the production of antibodies and prov
 
 ### Opciones
 - [ ] A) poison <!-- feedback: Incorrect. Poison causes harm. -->
-- [x] B) vaccine <!-- feedback: Correct. This is the biological function of a vaccine. -->
-- [ ] C) placebo <!-- feedback: Incorrect. A placebo has no active effect. -->
-- [ ] D) virus <!-- feedback: Incorrect. A virus is the cause of disease, not the treatment (though vaccines can be made from them). -->
+- [x] D) vaccine <!-- feedback: Correct. This is the biological function of a vaccine. -->
+- [ ] B) placebo <!-- feedback: Incorrect. A placebo has no active effect. -->
+- [ ] C) virus <!-- feedback: Incorrect. A virus is the cause of disease, not the treatment (though vaccines can be made from them). -->
 
 ### Explicacion Pedagogica
 'Vaccine' is the term for the biological preparation that provides immunity.
@@ -356,9 +356,9 @@ The study showed that the new drug was more effective than the previous treatmen
 
 ### Opciones
 - [ ] A) is <!-- feedback: Incorrect. Backshifted in reported speech. -->
-- [x] B) was <!-- feedback: Correct. Backshifted from 'is' to 'was'. -->
-- [ ] C) has been <!-- feedback: Incorrect. Present perfect. -->
-- [ ] D) will be <!-- feedback: Incorrect. Future. -->
+- [x] D) was <!-- feedback: Correct. Backshifted from 'is' to 'was'. -->
+- [ ] B) has been <!-- feedback: Incorrect. Present perfect. -->
+- [ ] C) will be <!-- feedback: Incorrect. Future. -->
 
 ### Explicacion Pedagogica
 In reported findings, it is standard to backshift the tense to the past.
@@ -376,9 +376,9 @@ Peer review is the evaluation of work by one or more people of similar competenc
 
 ### Opciones
 - [ ] A) Gossip <!-- feedback: Incorrect. Informal talk. -->
-- [x] B) Peer review <!-- feedback: Correct. This is the quality control system in science. -->
-- [ ] C) Censorship <!-- feedback: Incorrect. Restricting information. -->
-- [ ] D) Promotion <!-- feedback: Incorrect. Advertising. -->
+- [x] D) Peer review <!-- feedback: Correct. This is the quality control system in science. -->
+- [ ] B) Censorship <!-- feedback: Incorrect. Restricting information. -->
+- [ ] C) Promotion <!-- feedback: Incorrect. Advertising. -->
 
 ### Explicacion Pedagogica
 'Peer review' is the professional evaluation process used in the scientific community.
@@ -396,9 +396,9 @@ By next month, I will have been studying marine biology for three years.
 
 ### Opciones
 - [ ] A) will study <!-- feedback: Incorrect. Simple future. -->
-- [x] B) will have been studying <!-- feedback: Correct. Future perfect continuous for duration up to a future point. -->
-- [ ] C) have been studying <!-- feedback: Incorrect. Present perfect continuous. -->
-- [ ] D) study <!-- feedback: Incorrect. Present simple. -->
+- [x] D) will have been studying <!-- feedback: Correct. Future perfect continuous for duration up to a future point. -->
+- [ ] B) have been studying <!-- feedback: Incorrect. Present perfect continuous. -->
+- [ ] C) study <!-- feedback: Incorrect. Present simple. -->
 
 ### Explicacion Pedagogica
 The future perfect continuous describes the length of an action at a certain time in the future.

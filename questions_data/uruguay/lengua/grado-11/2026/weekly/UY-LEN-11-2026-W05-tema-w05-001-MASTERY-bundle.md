@@ -60,9 +60,9 @@ La prosopografía se concentra en el aspecto físico y exterior de las personas,
 ### Opciones
 - [ ] A) Prosopografía facial.
   <!-- feedback: Incorrecto. No se hace mención de su rostro, cabellos o aspecto corporal físico visible. -->
-- [ ] B) Topografía áulica.
+- [ ] C) Topografía áulica.
   <!-- feedback: Incorrecto. No se describe el plano geográfico o de diseño físico del aula del liceo. -->
-- [x] C) Etopeya.
+- [x] B) Etopeya.
   <!-- feedback: ¡Correcto! La etopeya es la descripción del carácter, de las cualidades morales, psicológicas, virtudes, vicios o costumbres internas de una persona de ficción o real. -->
 - [ ] D) Caricatura física.
   <!-- feedback: Incorrecto. La caricatura deforma y ridiculiza de manera grotesca; aquí hay una descripción seria y elogiosa de su temperamento psíquico. -->
@@ -132,9 +132,9 @@ Los pilares sintácticos del texto descriptivo son los adjetivos calificativos, 
 ### Opciones
 - [ ] A) Prosopografía pura exenta de rasgos psicológicos.
   <!-- feedback: Incorrecto. El texto va más allá del aspecto físico; habla de su 'carácter inquebrantable' y su 'templanza', rasgos típicamente morales de etopeya. -->
-- [ ] B) Etopeya abstracta desprovista de vestimenta visible.
+- [ ] C) Etopeya abstracta desprovista de vestimenta visible.
   <!-- feedback: Incorrecto. Se detalla de forma explícita su vestimenta azul, botas de cuero curtido y rostro bajo el sol de la Banda Oriental. -->
-- [x] C) Retrato, dado que fusiona la prosopografía (rasgos físicos externos, vestimenta curtida) con la etopeya (temperamento, carácter templado de caudillo federal) de manera integrada.
+- [x] B) Retrato, dado que fusiona la prosopografía (rasgos físicos externos, vestimenta curtida) con la etopeya (temperamento, carácter templado de caudillo federal) de manera integrada.
   <!-- feedback: ¡Correcto! El retrato literario completo es la combinación equilibrada de la descripción física (prosopografía) y la descripción moral (etopeya) de un mismo personaje. -->
 - [ ] D) Caricatura deformante de un soldado del Éxodo.
   <!-- feedback: Incorrecto. La descripción respeta la figura histórica con solemnidad institucional; no deforma o ridiculiza su semblanza. -->
@@ -156,9 +156,9 @@ El retrato literario amalgama lo exterior visible del cuerpo con lo interior inv
 ### Opciones
 - [ ] A) Porque indica que las acciones descritas ocurrieron en un futuro incierto de la historia.
   <!-- feedback: Incorrecto. El imperfecto es un tiempo del pasado, no del porvenir temporal de la diégesis. -->
-- [x] B) Porque presenta la acción en su desarrollo transcurrente, sin marcar límites de inicio o fin, deteniendo el dinamismo del tiempo de la historia para crear un cuadro o estado contemplativo prolongado.
+- [x] C) Porque presenta la acción en su desarrollo transcurrente, sin marcar límites de inicio o fin, deteniendo el dinamismo del tiempo de la historia para crear un cuadro o estado contemplativo prolongado.
   <!-- feedback: ¡Correcto! El aspecto imperfectivo presenta los hechos como no terminados en el pasado (durativos), lo que resulta ideal para pintar ambientes o caracterizar personajes estáticos sin que la cadena de acciones avance en el reloj cronológico. -->
-- [ ] C) Porque obliga al lector a descodificar el texto con un diccionario de raíces latinas medievales.
+- [ ] B) Porque obliga al lector a descodificar el texto con un diccionario de raíces latinas medievales.
   <!-- feedback: Incorrecto. Es un tiempo ordinario de la conjugación española, asimilado de forma intuitiva por los hablantes rioplatenses. -->
 - [ ] D) Porque denota mandatos imperativos directos al receptor de la obra.
   <!-- feedback: Incorrecto. El imperativo es el tiempo del mandato apelativo; el imperfecto describe estados o hábitos retrospectivos. -->
@@ -180,11 +180,11 @@ El pretérito imperfecto posee un aspecto durativo y no delimitado que suspende 
 ### Opciones
 - [ ] A) Sustantivos de maquinaria pesada, adjetivos de velocidad vértigo, y metáforas industriales de contaminación acústica montevideana.
   <!-- feedback: Incorrecto. Estos recursos evocarían un ambiente hostil, estresante y fabril, incompatible con la nostalgia y la serenidad de la costa. -->
-- [x] B) Sustantivos evocadores ('crepúsculo', 'rambla', 'horizonte', 'calma'), adjetivos de tono suave y melancólico ('dorado', 'silencioso', 'pausado') y comparaciones líricas ('el río como un espejo templado que atesora los últimos destellos del día').
+- [x] D) Sustantivos evocadores ('crepúsculo', 'rambla', 'horizonte', 'calma'), adjetivos de tono suave y melancólico ('dorado', 'silencioso', 'pausado') y comparaciones líricas ('el río como un espejo templado que atesora los últimos destellos del día').
   <!-- feedback: ¡Correcto! Lograr una atmósfera descriptiva (pintura del entorno) exige seleccionar un vocabulario coherente. El atardecer montevideano se evoca con colores cálidos-apagados, sustantivos de sosiego y símiles poéticos de quietud contemplativa. -->
-- [ ] C) Uso exclusivo de verbos de movimiento imperativo que exijan al turista correr por la vereda.
+- [ ] B) Uso exclusivo de verbos de movimiento imperativo que exijan al turista correr por la vereda.
   <!-- feedback: Incorrecto. El imperativo connota prisa y mandato apelativo; rompe el cuadro estático de serenidad nostálgica que se desea pintar en la rambla. -->
-- [ ] D) La descripción científica rigurosa de las tuberías de drenaje pluvial de la rambla montevideana.
+- [ ] C) La descripción científica rigurosa de las tuberías de drenaje pluvial de la rambla montevideana.
   <!-- feedback: Incorrecto. Aunque verídica, la descripción de ingeniería pluvial es ajena a la intención estética y emocional de la guía lírica de turismo. -->
 
 ### Explicacion Pedagogica
@@ -204,11 +204,11 @@ La descripción de ambientes (cronografía o topografía estilizada) descansa en
 ### Opciones
 - [ ] A) Prosopografía laudatoria solemne.
   <!-- feedback: Incorrecto. El texto está muy alejado de la solemnidad o el elogio; busca ridiculizar de manera humorística. -->
-- [x] B) Caricatura.
+- [x] D) Caricatura.
   <!-- feedback: ¡Correcto! La caricatura literaria es una descripción de carácter satírico y humorístico que deforma de manera grotesca, hiperbólica y ridícula los rasgos físicos y de temperamento de un personaje. -->
-- [ ] C) Topografía urbana de oficinas.
+- [ ] B) Topografía urbana de oficinas.
   <!-- feedback: Incorrecto. No describe el relieve físico del edificio o el mapa de la oficina, sino la fisonomía risible del funcionario. -->
-- [ ] D) Etopeya seria de virtudes públicas.
+- [ ] C) Etopeya seria de virtudes públicas.
   <!-- feedback: Incorrecto. Es un retrato de rasgos externos deformados con burla, lo opuesto a una etopeya seria de cualidades morales íntimas. -->
 
 ### Explicacion Pedagogica
@@ -226,9 +226,9 @@ La caricatura utiliza la hipérbole (exageración desmedida: 'lentes de culo de 
 ¿A qué se refiere este tipo específico de tipología descriptiva dentro del estudio de los textos?
 
 ### Opciones
-- [ ] A) A la descripción minuciosa del mecanismo interno de los relojes de pared antiguos del liceo.
+- [ ] B) A la descripción minuciosa del mecanismo interno de los relojes de pared antiguos del liceo.
   <!-- feedback: Incorrecto. No describe engranajes mecánicos; se enfoca en el tiempo cultural, social o natural histórico. -->
-- [x] B) A la descripción de una época, de un período de tiempo histórico o de una estación del año, detallando sus costumbres, atmósfera y rasgos culturales distintivos.
+- [x] A) A la descripción de una época, de un período de tiempo histórico o de una estación del año, detallando sus costumbres, atmósfera y rasgos culturales distintivos.
   <!-- feedback: ¡Correcto! La cronografía es la pintura descriptiva del tiempo: de un siglo, una estación o un momento de la historia (como describir el ambiente otoñal montevideano o el Carnaval uruguayo de principios de siglo XX). -->
 - [ ] C) Al reporte cronológico de las batallas de la independencia nacional de Uruguay.
   <!-- feedback: Incorrecto. Eso es un relato de hechos históricos en orden temporal (narración histórica), no una descripción de la atmósfera de una época (cronografía). -->
@@ -251,9 +251,9 @@ La cronografía nos permite capturar el espíritu de un tiempo (un instante, un 
 ¿Qué figura retórica descriptiva destaca en la última oración del fragmento y qué imagen sensorial proyecta?
 
 ### Opciones
-- [ ] A) La personificación del tren que viaja alegre hacia el norte fronterizo.
+- [ ] B) La personificación del tren que viaja alegre hacia el norte fronterizo.
   <!-- feedback: Incorrecto. No hay trenes en movimiento alegre personificados en la estación de Peñarol muerta. -->
-- [x] B) La comparación o símil ('como hilos mudos de un tejido...'), que evoca una imagen sensorial visual de melancolía, abandono y soledad material sobre el tendido ferroviario.
+- [x] A) La comparación o símil ('como hilos mudos de un tejido...'), que evoca una imagen sensorial visual de melancolía, abandono y soledad material sobre el tendido ferroviario.
   <!-- feedback: ¡Correcto! La conjunción 'como' introduce una comparación que asocia de forma lírica las vías con hilos de un tejido inconcluso. Proyecta una fuerte imagen visual cargada de desolación y silencio poético. -->
 - [ ] C) Una hipérbole que describe el tamaño descomunal de la maleza de Peñarol de forma monstruosa.
   <!-- feedback: Incorrecto. El texto es sobrio y realista; no deforma monstruosamente el tamaño biológico de la hierba silvestre. -->
@@ -327,9 +327,9 @@ La topografía literaria de la penillanura uruguaya (característica de las cuch
 ### Opciones
 - [ ] A) No hay diferencias de recursos; ambos textos deben emplear las mismas comparaciones poéticas para describir las tuberías de plomo.
   <!-- feedback: Incorrecto. Las intenciones guían los recursos: un aviso comercial veta la melancolía tétrica de la novela de misterio. -->
-- [x] B) La descripción literaria de la novela es subjetiva y estética, usando adjetivos evocadores, metáforas y penumbras para generar suspenso; la descripción inmobiliaria es de carácter denotativo e informativo, usando adjetivos valorativos positivos, medidas exactas y términos objetivos para atraer al comprador.
+- [x] C) La descripción literaria de la novela es subjetiva y estética, usando adjetivos evocadores, metáforas y penumbras para generar suspenso; la descripción inmobiliaria es de carácter denotativo e informativo, usando adjetivos valorativos positivos, medidas exactas y términos objetivos para atraer al comprador.
   <!-- feedback: ¡Correcto! La descripción de la novela persigue un fin estético y artístico, jugando con la subjetividad del lenguaje; el aviso de la inmobiliaria tiene un fin comercial mercantil, por lo que su léxico es denotativo, claro, realza lo positivo y brinda datos exactos verídicos. -->
-- [ ] C) La novela policial prohíbe el uso de sustantivos comunes y el aviso clasificado utiliza únicamente la función poética.
+- [ ] B) La novela policial prohíbe el uso de sustantivos comunes y el aviso clasificado utiliza únicamente la función poética.
   <!-- feedback: Incorrecto. La novela requiere sustantivos y el aviso inmobiliario evita desvíos de metáforas oscuras que confundan el precio de venta real. -->
 - [ ] D) La diferencia radica en que la novela policial se escribe en un registro informal de voseo fronterizo de Rivera.
   <!-- feedback: Incorrecto. El registro policial puede ser formal montevideano; lo determinante es la intencionalidad de intriga estética frente al interés comercial de la propiedad. -->
@@ -352,11 +352,11 @@ Analizá la función del espacio descriptivo en la reconstrucción de la memoria
 ### Opciones
 - [ ] A) El espacio carece de valor porque las baldosas ajedrezadas son un inventario caótico que distrae al lector del examen de lengua.
   <!-- feedback: Incorrecto. El espacio es altamente evocador de atmósfera y asienta la memoria sensible del liceo abandonado. -->
-- [x] B) Los detalles visuales de deterioro ('baldosas comidas por la humedad', 'aljibe ciego', 'malvones resecos') actúan como indicios de ruina, deteniendo el devenir cronológico para materializar la atmósfera de abandono, vejez y nostalgia que envuelve el recuerdo escolar del emisor.
+- [x] D) Los detalles visuales de deterioro ('baldosas comidas por la humedad', 'aljibe ciego', 'malvones resecos') actúan como indicios de ruina, deteniendo el devenir cronológico para materializar la atmósfera de abandono, vejez y nostalgia que envuelve el recuerdo escolar del emisor.
   <!-- feedback: ¡Correcto! La selección de los objetos del patio (el ajedrezado del piso gastado, el aljibe que ya no tiene agua, las flores secas) conforma un cuadro descriptivo estático melancólico que asienta físicamente el sentimiento de nostalgia por el tiempo ido. -->
-- [ ] C) Se utiliza un registro de caricatura cómica destinada a ridiculizar las baldosas de Paysandú.
+- [ ] B) Se utiliza un registro de caricatura cómica destinada a ridiculizar las baldosas de Paysandú.
   <!-- feedback: Incorrecto. El tono es serio, evocador, melancólico e íntimo; no busca la risa o la sátira grotesca de la caricatura. -->
-- [ ] D) Es una descripción topográfica militar que sirve para guiar el asalto a una trinchera del siglo XIX.
+- [ ] C) Es una descripción topográfica militar que sirve para guiar el asalto a una trinchera del siglo XIX.
   <!-- feedback: Incorrecto. Es una evocación pacífica, nostálgica de un patio de liceo viejo; no tiene fines de estrategia bélica militar. -->
 
 ### Explicacion Pedagogica
@@ -376,9 +376,9 @@ En la literatura de la evocación o el recuerdo, la descripción de interiores g
 ### Opciones
 - [ ] A) Exige que el escritor haga una lista exhaustiva e infinita de absolutamente todos los átomos, granos de arena, ladrillos y moléculas del espacio sin omitir ningún detalle físico.
   <!-- feedback: Incorrecto. Una descripción hiperdetallada infinita asfixiaría el interés del relato y es prácticamente imposible de concretar de forma inteligible. -->
-- [x] B) Consiste en elegir únicamente aquellos rasgos físicos, morales o espaciales significativos que aportan a la atmósfera de la obra, despiertan la imaginación activa del lector y resultan coherentes con la intencionalidad estética de la diégesis.
+- [x] C) Consiste en elegir únicamente aquellos rasgos físicos, morales o espaciales significativos que aportan a la atmósfera de la obra, despiertan la imaginación activa del lector y resultan coherentes con la intencionalidad estética de la diégesis.
   <!-- feedback: ¡Correcto! El autor no puede describirlo todo. El éxito del texto descriptivo estriba en la economía expresiva: seleccionar pinceladas significativas que sugieran al lector la totalidad de la escena, manteniendo la coherencia de la intriga. -->
-- [ ] C) Obliga al autor a omitir todos los adjetivos y pronombres para que la descripción se resuelva en un plano de palabras inconexas.
+- [ ] B) Obliga al autor a omitir todos los adjetivos y pronombres para que la descripción se resuelva en un plano de palabras inconexas.
   <!-- feedback: Incorrecto. La omisión radical de adjetivos desarticularía la estructura básica atributiva del texto descriptivo ordinario. -->
 - [ ] D) La relevancia descriptiva es un concepto militar uruguayo que sirve para mapear las costas del Río de la Plata.
   <!-- feedback: Incorrecto. Es una categoría de la retórica y la teoría de la redacción literaria universal, no un tecnicismo de cartografía militar. -->
@@ -426,9 +426,9 @@ Evaluá críticamente la integración de la topografía del hogar con el retrato
 ### Opciones
 - [ ] A) El mármol de la casa de Quiroga actúa como un remedio médico curativo que devuelve la vitalidad biológica a Alicia de forma verosímil.
   <!-- feedback: Incorrecto. El mármol frío y las columnas gélidas acentúan el desgaste y la enfermedad de Alicia, no su cura médica. -->
-- [x] B) El espacio físico del hogar (la casa de mármol frío, gélida, muda y silenciosa) es un reflejo o correlato objetivo de la dureza del marido Jordán y del aislamiento psíquico de Alicia, actuando como un espacio carcelario hostil que devora y extingue la vitalidad de la protagonista de forma física y gótica.
+- [x] C) El espacio físico del hogar (la casa de mármol frío, gélida, muda y silenciosa) es un reflejo o correlato objetivo de la dureza del marido Jordán y del aislamiento psíquico de Alicia, actuando como un espacio carcelario hostil que devora y extingue la vitalidad de la protagonista de forma física y gótica.
   <!-- feedback: ¡Correcto! En Quiroga, el espacio de la casa es semántico. El gélido mármol, los patios mudos y las columnas góticas silenciosas mimetizan el temperamento rígido de Jordán y acorralan la timidez de Alicia. La topografía de la mansión es cómplice de la extinción física de la joven, actuando en sintonía con el monstruo aviar silencioso del almohadón de plumas. -->
-- [ ] C) La descripción demuestra que la casa era cómoda, ventilada, propicia para reuniones alegres con los gurises de Misiones.
+- [ ] B) La descripción demuestra que la casa era cómoda, ventilada, propicia para reuniones alegres con los gurises de Misiones.
   <!-- feedback: Incorrecto. La topografía connota exactamente lo opuesto: una solemnidad sepulcral y un vacío hostil y gélido insoportable para la novia tímida. -->
 - [ ] D) Se utiliza un registro de caricatura humorística para reírse del diseño arquitectónico de la casa de mármol de Montevideo.
   <!-- feedback: Incorrecto. El tono es de horror serio, fúnebre y gótico; la frialdad sepulcral del mármol no persigue fines satíricos o humorísticos de risa. -->
@@ -449,9 +449,9 @@ En la literatura de horror rioplatense (gótico rioplatense), el espacio domést
 Evaluá críticamente la cronografía construida en este fragmento ensayístico. ¿De qué manera los signos históricos y sensoriales transportan al lector al pasado colonial?
 
 ### Opciones
-- [ ] A) El autor fracasa al describir la época dado que utiliza términos informáticos de internet que rompen de manera violenta la verosimilitud colonial de Montevideo.
+- [ ] B) El autor fracasa al describir la época dado que utiliza términos informáticos de internet que rompen de manera violenta la verosimilitud colonial de Montevideo.
   <!-- feedback: Incorrecto. No hay ninguna mención de tecnología moderna, computadoras o internet; el léxico colonial de Montevideo se cuida escrupulosamente de manera histórica. -->
-- [x] B) A través de una minuciosa cronografía de Montevideo que recluta signos materiales ('murallas', 'portones', 'aljibes', 'barro') y auditivos de encierro ('chirriar de portones', 'modorra de campanas'), traduciendo la clausura militar de Montevideo colonial en una experiencia física de encierro y modorra existencial verosímil.
+- [x] A) A través de una minuciosa cronografía de Montevideo que recluta signos materiales ('murallas', 'portones', 'aljibes', 'barro') y auditivos de encierro ('chirriar de portones', 'modorra de campanas'), traduciendo la clausura militar de Montevideo colonial en una experiencia física de encierro y modorra existencial verosímil.
   <!-- feedback: ¡Correcto! El fragmento recrea la atmósfera colonial de Montevideo. Reúne signos históricos concretos de la defensa amurallada montevideana combinándolos con sensaciones acústicas de encierro y monotonía para que el lector palpe el ritmo vital de ese Montevideo amurallado de época. -->
 - [ ] C) La descripción sugiere que Montevideo colonial era una metrópolis ruidosa repleta de trenes de alta velocidad y rascacielos comerciales modernos.
   <!-- feedback: Incorrecto. Se detalla exactamente un pueblo amurallado, modorro, cercado por el barro de la campaña y dominado por campanas, ajeno al desarrollo fabril moderno. -->
@@ -473,9 +473,9 @@ La cronografía lograda funde la materialidad de la arquitectura histórica de M
 ¿Qué objeción teórica fundamental y de análisis crítico se le puede oponer a este postulado pedagógico clásico?
 
 ### Opciones
-- [ ] A) Que los seres humanos carecen de capacidad biológica para percibir los colores de los paisajes que describen en el liceo.
+- [ ] B) Que los seres humanos carecen de capacidad biológica para percibir los colores de los paisajes que describen en el liceo.
   <!-- feedback: Incorrecto. La visión humana es perfectamente capaz de percibir colores de paisajes; la objeción no es fisiológica o de salud visual de la especie. -->
-- [x] B) Que la descripción literaria no persigue un fin científico ni calca de forma neutra la realidad fáctica; es una reconstrucción subjetiva y estética mediada por la sensibilidad del emisor, donde la deformación, la metáfora, la adjetivación connotativa y la selección de detalles operan para crear un mundo posible con su propia verosimilitud estética.
+- [x] A) Que la descripción literaria no persigue un fin científico ni calca de forma neutra la realidad fáctica; es una reconstrucción subjetiva y estética mediada por la sensibilidad del emisor, donde la deformación, la metáfora, la adjetivación connotativa y la selección de detalles operan para crear un mundo posible con su propia verosimilitud estética.
   <!-- feedback: ¡Correcto! Exigir neutralidad y exactitud científica a la descripción literaria es un error teórico grave. La literatura utiliza la descripción con fines estéticos y expresivos, no para dar reportes topográficos de agrimensura o biología de ceibos. El autor distorsiona y connota de manera deliberada para conmover o ambientar su diégesis dramática. -->
 - [ ] C) Que las descripciones técnicas inmobiliarias son superiores estéticamente a las novelas policiales por tener números exactos de metros cuadrados.
   <!-- feedback: Incorrecto. Se confunde el valor comercial práctico e informativo de un aviso de venta con el valor lírico y estético de una obra literaria artística. -->

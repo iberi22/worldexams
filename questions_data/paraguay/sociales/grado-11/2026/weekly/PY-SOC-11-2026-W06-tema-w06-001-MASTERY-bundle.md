@@ -33,9 +33,9 @@ creador: "Jules-Agent"
 ¿Qué tratado de alianza militar y política secreta se firmó el 1 de mayo de 1865 entre los gobiernos de la República Argentina, el Imperio del Brasil y la República Oriental del Uruguay para marchar conjuntamente contra el Paraguay?
 
 ### Opciones
-- [x] A) El Tratado de la Triple Alianza
+- [x] B) El Tratado de la Triple Alianza
   <!-- feedback: Correcto. El Tratado de la Triple Alianza, firmado en secreto en Buenos Aires, unió militarmente a la Argentina, Brasil y Uruguay contra el régimen de Francisco Solano López. -->
-- [ ] B) El Tratado de Tordesillas
+- [ ] A) El Tratado de Tordesillas
   <!-- feedback: Incorrecto. Fue un acuerdo de demarcación territorial colonial entre España y Portugal en el siglo XV (1494), ajeno a la guerra de 1865. -->
 - [ ] C) El Protocolo de Paz del Chaco
   <!-- feedback: Incorrecto. Fue el acuerdo diplomático internacional del siglo XX (1935) que puso fin a las hostilidades bélicas entre Paraguay y Bolivia. -->
@@ -56,11 +56,11 @@ El Tratado de la Triple Alianza de 1865 fijó los objetivos de la guerra: derroc
 ¿En qué histórico paraje y combate de las serranías del Amambay falleció el mariscal Francisco Solano López el 1 de marzo de 1870, poniendo fin a la Guerra de la Triple Alianza?
 
 ### Opciones
-- [x] A) En el combate de Cerro Corá
+- [x] C) En el combate de Cerro Corá
   <!-- feedback: Correcto. El mariscal Francisco Solano López falleció en el combate de Cerro Corá el 1 de marzo de 1870, pronunciando su célebre frase patriótica 'Muero con mi patria'. -->
-- [ ] B) En la batalla de Curupayty
+- [ ] A) En la batalla de Curupayty
   <!-- feedback: Incorrecto. Curupayty fue una colosal victoria militar paraguaya defensiva librada en 1866, donde fallecieron miles de soldados aliados. -->
-- [ ] C) En el asedio fluvial de Humaitá
+- [ ] B) En el asedio fluvial de Humaitá
   <!-- feedback: Incorrecto. Humaitá cayó en 1868 tras un heroico y prolongado asedio de las fuerzas fluviales imperiales brasileñas. -->
 - [ ] D) En la batalla de Paraguarí
   <!-- feedback: Incorrecto. La batalla de Paraguarí ocurrió en 1811 contra la expedición de Manuel Belgrano, durante el inicio del proceso de emancipación nacional. -->
@@ -79,11 +79,11 @@ La batalla de Cerro Corá (1 de marzo de 1870) marcó el sacrificio definitivo d
 ¿Qué causa geopolítica y diplomática detonó de forma directa el conflicto bélico entre el Paraguay y el Imperio del Brasil a finales de 1864?
 
 ### Opciones
-- [x] A) La agresión e intervención armada brasileña en el Uruguay para derrocar al gobierno blanco uruguayo, lo que rompía el equilibrio político del Río de la Plata
+- [x] C) La agresión e intervención armada brasileña en el Uruguay para derrocar al gobierno blanco uruguayo, lo que rompía el equilibrio político del Río de la Plata
   <!-- feedback: Correcto. Paraguay intervino militarmente al considerar que la ocupación brasileña de Uruguay amenazaba de forma inminente su propia soberanía e independencia. -->
-- [ ] B) La exigencia de la corona británica de comprar la totalidad de las minas de oro del cerro Tres Kandu
+- [ ] A) La exigencia de la corona británica de comprar la totalidad de las minas de oro del cerro Tres Kandu
   <!-- feedback: Incorrecto. No existían minas de oro en el cerro Tres Kandu ni Gran Bretaña forzó guerras por concesiones auríferas de ese tipo de forma histórica. -->
-- [ ] C) La firma de una alianza militar de Asunción con las coronas reales del norte de Europa
+- [ ] B) La firma de una alianza militar de Asunción con las coronas reales del norte de Europa
   <!-- feedback: Incorrecto. Paraguay carecía de alianzas con dinastías o cortes europeas septentrionales que incidieran en el estallido del conflicto de 1864. -->
 - [ ] D) La prohibición de circular en carretas por las llanuras del departamento del Chaco
   <!-- feedback: Incorrecto. Es una propuesta descabellada ajena a las complejas y agudas tensiones políticas fronterizas y de libre navegación del Río de la Plata. -->
@@ -217,11 +217,11 @@ El heroísmo de 'Las Residentas' y 'Destinadas' cimentó la supervivencia demogr
 ¿Qué histórico laudo arbitral del presidente de los Estados Unidos Rutherford B. Hayes salvó para la soberanía del Paraguay el territorio chaqueño situado al norte del río Pilcomayo frente a las pretensiones de anexión de la República Argentina?
 
 ### Opciones
-- [x] A) El laudo Hayes de 1878
+- [x] C) El laudo Hayes de 1878
   <!-- feedback: Correcto. El laudo Hayes de 1878 resolvió favorablemente para el Paraguay la disputa territorial con Argentina por el Chaco Boreal, dando nombre al departamento de Presidente Hayes. -->
-- [ ] B) El Tratado secreto de la Triple Alianza de 1865
+- [ ] A) El Tratado secreto de la Triple Alianza de 1865
   <!-- feedback: Incorrecto. Dicho tratado preveía precisamente el reparto y mutilación territorial paraguaya, adjudicando el Chaco a la República Argentina. -->
-- [ ] C) La mediación papal de Juan Pablo II de 1978
+- [ ] B) La mediación papal de Juan Pablo II de 1978
   <!-- feedback: Incorrecto. La mediación papal de Juan Pablo II resolvió las disputas limítrofes australes del canal del Beagle entre Argentina y Chile en el siglo XX. -->
 - [ ] D) El arbitraje comercial de la reina Victoria de Gran Bretaña de 1811
   <!-- feedback: Incorrecto. Gran Bretaña no ejerció arbitrajes territoriales de ese tipo, y el año de 1811 es el de la independencia paraguaya y no de diferendos chaqueños de posguerra de 1870. -->
@@ -240,9 +240,9 @@ El laudo Hayes de 1878 es una de las grandes victorias diplomáticas paraguayas 
 Aparte de Curupayty, ¿cuál de los siguientes combates navales y fluviales resultó decisivo para que las fuerzas de marina de guerra del Imperio del Brasil lograran el control absoluto de la navegación fluvial de los ríos Paraná y Paraguay en 1865?
 
 ### Opciones
-- [x] A) La batalla naval del Riachuelo
+- [x] B) La batalla naval del Riachuelo
   <!-- feedback: Correcto. El combate naval del Riachuelo (11 de junio de 1865) destruyó gran parte de la flotilla fluvial de vapor armada paraguaya, asegurando el control marítimo aliado de la navegación fluvial. -->
-- [ ] B) El combate terrestre de Acosta Ñu
+- [ ] A) El combate terrestre de Acosta Ñu
   <!-- feedback: Incorrecto. Acosta Ñu fue una trágica batalla puramente terrestre de infantería librada en las serranías del este de la Región Oriental en 1869. -->
 - [ ] C) El arbitraje geográfico del presidente estadounidense Hayes
   <!-- feedback: Incorrecto. El laudo Hayes fue un dictamen arbitral diplomático territorial pacífico dictado en Washington en 1878, ajeno a combates de guerra naval. -->
@@ -263,9 +263,9 @@ La derrota naval paraguaya en Riachuelo privó al Mariscal Francisco Solano Lóp
 A diferencia del Paraguay prebélico (libre de acreedores extranjeros), ¿qué gravosa hipoteca financiera impusieron los gobiernos provisionales impuestos por los vencedores de la guerra en la posguerra inmediata?
 
 ### Opciones
-- [x] A) La contratación de ruinosos empréstitos de la banca comercial británica de Londres (empréstitos de 1871 y 1872) y la imposición de onerosas reparaciones de guerra por los aliados
+- [x] B) La contratación de ruinosos empréstitos de la banca comercial británica de Londres (empréstitos de 1871 y 1872) y la imposición de onerosas reparaciones de guerra por los aliados
   <!-- feedback: Correcto. La soberanía financiera e industrial fue liquidada. Los nuevos gobernantes de posguerra sometieron al país a empréstitos abusivos con la banca de Londres, despojándolo de su independencia económica nacional. -->
-- [ ] B) La cesión definitiva del subsuelo para la construcción de gigantescas centrales nucleares de energía eléctrica
+- [ ] A) La cesión definitiva del subsuelo para la construcción de gigantescas centrales nucleares de energía eléctrica
   <!-- feedback: Incorrecto. Planteamiento anacrónico; la energía nuclear no existía en el siglo XIX, el país fue endeudado mediante emisión abusiva de bonos soberanos madereros de papel. -->
 - [ ] C) La venta de la totalidad del Chaco Boreal a los reyes de Portugal a cambio de barcos mercantes
   <!-- feedback: Incorrecto. Brasil era una dinastía monárquica de Braganza independiente de Portugal, y no compró el Chaco mediante acuerdos de ese tipo de posguerra. -->
@@ -286,9 +286,9 @@ Los empréstitos británicos de 1871 y 1872 ataron de pies y manos al Paraguay d
 La campaña de las Cordilleras y la marcha por el interior de la Región Oriental conocidas como 'Vía Crucis' nacional de 1869-1870 se caracterizaron principalmente por:
 
 ### Opciones
-- [x] A) La penosa marcha del ejército remanente paraguayo y miles de civiles hambrientos (Residentas) que seguían al Mariscal López rechazando rendirse ante la ofensiva de ocupación militar aliada
+- [x] B) La penosa marcha del ejército remanente paraguayo y miles de civiles hambrientos (Residentas) que seguían al Mariscal López rechazando rendirse ante la ofensiva de ocupación militar aliada
   <!-- feedback: Correcto. Esta campaña agónica del interior oriental encarna el extremo heroísmo y obstinación paraguaya ante las implacables y destructivas fuerzas imperiales brasileñas de persecución armada. -->
-- [ ] B) La invasión y ocupación militar paraguaya victoriosa de la capital del Imperio del Brasil (Río de Janeiro)
+- [ ] A) La invasión y ocupación militar paraguaya victoriosa de la capital del Imperio del Brasil (Río de Janeiro)
   <!-- feedback: Incorrecto. Al contrario, las tropas aliadas ya habían invadido, saqueado y ocupado Asunción en 1869, forzando la resistencia lopesca en las serranías del norte. -->
 - [ ] C) La entrega amigable del Paraguay a las fuerzas de marina de guerra de los Estados Unidos
   <!-- feedback: Incorrecto. No existió intervención o presencia armada de guerra naval estadounidense en tierra paraguaya durante la agónica campaña final. -->
@@ -309,9 +309,9 @@ La campaña de las Cordilleras de 1869-1870 es un testimonio del heroísmo parag
 Aparte de derrocar a Francisco Solano López, ¿qué cláusula del Tratado Secreto de la Triple Alianza de 1865 amenazaba directamente la integridad del Estado de derecho y soberanía del Paraguay?
 
 ### Opciones
-- [x] A) La cláusula que obligaba al Paraguay sobreviviente a pagar la totalidad de los costos financieros de la guerra de sus vencedores y las reparaciones de daños privados
+- [x] B) La cláusula que obligaba al Paraguay sobreviviente a pagar la totalidad de los costos financieros de la guerra de sus vencedores y las reparaciones de daños privados
   <!-- feedback: Correcto. Esta cláusula leonina impuso al Paraguay derrotado una de las deudas financieras de reparación de guerra más abusivas y asfixiantes de la historia moderna continental. -->
-- [ ] B) La cláusula que obligaba a la población paraguaya a adoptar el idioma portugués brasileño como única lengua nacional oficial
+- [ ] A) La cláusula que obligaba a la población paraguaya a adoptar el idioma portugués brasileño como única lengua nacional oficial
   <!-- feedback: Incorrecto. Aunque intentaron debilitar al país, los aliados no consiguieron erradicar el bilingüismo ni prohibieron legalmente el guaraní o castellano paraguayos de posguerra. -->
 - [ ] C) La anexión completa y de por vida del Paraguay a la corona británica como colonia de Ultramar
   <!-- feedback: Incorrecto. Las intenciones de anexión eran regionales (Argentina y Brasil), pero presiones mutuas y geopolíticas inglesas preservaron la formalidad de un Paraguay independiente. -->
@@ -332,11 +332,11 @@ El Tratado de 1865 de agresión tripartita contemplaba indemnizaciones brutales 
 ¿Qué célebres periódicos impresos de trinchera de guerra nacionalista (como 'Cabichuí' o 'El Centinela') florecieron en los campamentos del ejército de Solano López empleando grabados de madera e idioma guaraní?
 
 ### Opciones
-- [x] A) Eran periódicos patrióticos escritos en castellano y guaraní (jopará) con ilustraciones satíricas que burlaban al enemigo aliado e infundían valor a los combatientes
+- [x] C) Eran periódicos patrióticos escritos en castellano y guaraní (jopará) con ilustraciones satíricas que burlaban al enemigo aliado e infundían valor a los combatientes
   <!-- feedback: Correcto. El periodismo de trinchera paraguayo (especialmente Cabichuí) fue un prodigio cultural impreso en guaraní jopará con xilografías populares que elevaba la moral en las trincheras defensivas. -->
-- [ ] B) Eran boletines imperiales brasileños redactados exclusivamente en idioma portugués por orden del conde de D'Eu
+- [ ] A) Eran boletines imperiales brasileños redactados exclusivamente en idioma portugués por orden del conde de D'Eu
   <!-- feedback: Incorrecto. Cabichuí representaba la resistencia militar paraguaya soberana y combatía intelectual y humorísticamente al imperio esclavista brasileño. -->
-- [ ] C) Eran periódicos editados en Buenos Aires que promovían de forma abierta la rendición armada lopesca
+- [ ] B) Eran periódicos editados en Buenos Aires que promovían de forma abierta la rendición armada lopesca
   <!-- feedback: Incorrecto. Estos periódicos patrióticos se imprimían de forma nómada en las prensas del propio ejército paraguayo de operaciones militares en campaña. -->
 - [ ] D) Eran folletos de traducción de oraciones católicas al latín medieval de la corona española de ultramar
   <!-- feedback: Incorrecto. Los folletos se enfocaban en la propaganda bélica satírica e identitaria popular hispano-guaraní paraguaya. -->
@@ -355,9 +355,9 @@ El periodismo de trinchera paraguayo (Cabichuí, Cacique Lambaré) plasmó el al
 La caída definitiva de la fortaleza de Humaitá en 1868, tras dos años de encarnizados asedios de tierra y combates de guerra naval, representó militarmente para el Paraguay:
 
 ### Opciones
-- [x] A) La pérdida del control estratégico del sur del país, permitiendo a las escuadras aliadas forzar el paso del río Paraguay y avanzar directo a ocupar Asunción
+- [x] B) La pérdida del control estratégico del sur del país, permitiendo a las escuadras aliadas forzar el paso del río Paraguay y avanzar directo a ocupar Asunción
   <!-- feedback: Correcto. El desplome militar del baluarte defensivo de Humaitá dejó desprotegida la navegación fluvial de acceso directo a la capital de la República paraguaya. -->
-- [ ] B) La anexión pacífica e inmediata de toda la Región Oriental al territorio de los Estados Unidos
+- [ ] A) La anexión pacífica e inmediata de toda la Región Oriental al territorio de los Estados Unidos
   <!-- feedback: Incorrecto. EE. UU. no intervino militarmente ni tenía pretensiones de anexarse territorios paraguayos en la cuenca del Plata de posguerra. -->
 - [ ] C) El cese absoluto e inmediato de la resistencia patriótica de Francisco Solano López
   <!-- feedback: Incorrecto. A pesar de perder Humaitá, el Mariscal López replegó sus fuerzas diezmadas hacia el interior para resistir bravamente dos años más en Cordilleras y Amambay. -->
@@ -378,13 +378,13 @@ La fortaleza de Humaitá, con sus cadenas que cruzaban el río Paraguay, bloque�
 Durante la prolongada ocupación militar aliada de Asunción que comenzó en 1869, ¿qué graves atropellos culturales y materiales perpetraron las tropas vencedoras en perjuicio del patrimonio del Paraguay?
 
 ### Opciones
-- [x] A) El saqueo sistemático de los archivos históricos del Estado paraguayo, de iglesias, palacios civiles y la destrucción de la central siderúrgica de Ybycuí
+- [x] D) El saqueo sistemático de los archivos históricos del Estado paraguayo, de iglesias, palacios civiles y la destrucción de la central siderúrgica de Ybycuí
   <!-- feedback: Correcto. El pillaje aliado de Asunción despojó al Paraguay de inestimables archivos y patrimonios, enviando tesoros nacionales a Río de Janeiro y Buenos Aires como trofeos de guerra. -->
-- [ ] B) La venta voluntaria de todo el ferrocarril a vapor de Carlos Antonio López a cambio de reactores nucleares
+- [ ] A) La venta voluntaria de todo el ferrocarril a vapor de Carlos Antonio López a cambio de reactores nucleares
   <!-- feedback: Incorrecto. Es un anacronismo tecnológico delirante; el ferrocarril fue saboteado y controlado por los vencedores sin transacciones atómicas. -->
-- [ ] C) La imposición obligatoria del dialecto alemán menonita plautdietsch en todas las escuelas de Luque
+- [ ] B) La imposición obligatoria del dialecto alemán menonita plautdietsch en todas las escuelas de Luque
   <!-- feedback: Incorrecto. Los menonitas no participaron de la contienda de 1870, arribando al país de forma pacífica recién a partir de la década de 1920. -->
-- [ ] D) La prohibición de toda actividad portuaria sobre el río Paraguay para forzar el transporte de mandioca en globos aerostáticos
+- [ ] C) La prohibición de toda actividad portuaria sobre el río Paraguay para forzar el transporte de mandioca en globos aerostáticos
   <!-- feedback: Incorrecto. Planteamiento fantasioso sin base científica o asidero documental histórico. -->
 
 ### Explicacion Pedagogica
@@ -401,11 +401,11 @@ El pillaje de guerra asunceno representó una de las páginas más oscuras del c
 Al evaluar críticamente la polarizada historiografía sobre Francisco Solano López, ¿cuál de las siguientes conclusiones posee mayor rigor analítico e imparcialidad científica?
 
 ### Opciones
-- [x] A) La historiografía revisionista nacionalista lo exalta como héroe máximo de la resistencia frente al imperialismo vecino, mientras que la corriente liberal clásica critica su aparente personalismo autoritario y fracaso estratégico diplomático militar
+- [x] C) La historiografía revisionista nacionalista lo exalta como héroe máximo de la resistencia frente al imperialismo vecino, mientras que la corriente liberal clásica critica su aparente personalismo autoritario y fracaso estratégico diplomático militar
   <!-- feedback: Correcto. La figura del Mariscal López sintetiza un profundo y permanente debate cívico e historiográfico nacional entre la abnegación heroica soberana y el costo del exterminio demográfico. -->
-- [ ] B) Que fue un vasallo dócil del Imperio del Brasil que acordó en secreto la venta de la soberanía a cambio de tierras de café de São Paulo
+- [ ] A) Que fue un vasallo dócil del Imperio del Brasil que acordó en secreto la venta de la soberanía a cambio de tierras de café de São Paulo
   <!-- feedback: Incorrecto. López defendió de forma intransigente y trágica la causa paraguaya y falleció batiéndose con espada en mano contra tropas brasileñas en Amambay. -->
-- [ ] C) Que gobernó mediante un régimen de elecciones de sufragio universal directo de partidos políticos con voto electrónico
+- [ ] B) Que gobernó mediante un régimen de elecciones de sufragio universal directo de partidos políticos con voto electrónico
   <!-- feedback: Incorrecto. Es un completo anacronismo y tergiversación del sistema autoritario centralizado presidencial de gobierno paraguayo del siglo XIX. -->
 - [ ] D) Que su gobierno careció por completo de ejércitos armados y se rigió por las normas pacíficas de la orden monástica jesuita
   <!-- feedback: Incorrecto. El Paraguay de López contaba con un ejército nacional profesional de primer orden, con arsenales navieros e industrias siderúrgicas de guerra. -->
@@ -424,13 +424,13 @@ El estudio histórico del Mariscal López requiere sopesar las causas geopolíti
 Al juzgar de manera integral el desenlace de la Guerra contra la Triple Alianza, ¿cuál es la mayor crítica de los historiadores latinoamericanos contemporáneos respecto a las consecuencias para el desarrollo soberano del Paraguay?
 
 ### Opciones
-- [x] A) Que desmanteló de forma irreversible un modelo exitoso de desarrollo nacional autónomo libre de deudas coloniales extranjeras, subordinando al Paraguay de posguerra a la dependencia e intereses del capitalismo financiero internacional
+- [x] D) Que desmanteló de forma irreversible un modelo exitoso de desarrollo nacional autónomo libre de deudas coloniales extranjeras, subordinando al Paraguay de posguerra a la dependencia e intereses del capitalismo financiero internacional
   <!-- feedback: Correcto. La guerra liquidó las bases materiales del proyecto soberano y estatista paraguayo del siglo XIX, integrándolo a la fuerza en el engranaje agroexportador periférico dependiente de Londres. -->
-- [ ] B) Que permitió que el Paraguay anexara militarmente de forma pacífica la totalidad del territorio del Brasil portugués
+- [ ] A) Que permitió que el Paraguay anexara militarmente de forma pacífica la totalidad del territorio del Brasil portugués
   <!-- feedback: Incorrecto. Todo lo contrario, Paraguay fue el país derrotado, perdiendo más de 150.000 kilómetros cuadrados de territorio a manos de sus vencedores. -->
-- [ ] C) Que provocó la desaparición definitiva de toda la población mestiza para fundar un imperio monárquico anglo-español
+- [ ] B) Que provocó la desaparición definitiva de toda la población mestiza para fundar un imperio monárquico anglo-español
   <!-- feedback: Incorrecto. La población sobreviviente (en su inmensa mayoría de mujeres y niños paraguayos) sostuvo e hizo renacer de sus cenizas a la patria paraguaya. -->
-- [ ] D) La prohibición gubernamental de cultivar mandioca y yerba mate bajo pena de ejecuciones en Boquerón
+- [ ] C) La prohibición gubernamental de cultivar mandioca y yerba mate bajo pena de ejecuciones en Boquerón
   <!-- feedback: Incorrecto. La mandioca y la yerba mate siguieron sustentando la precaria economía campesina de subsistencia de la posguerra. -->
 
 ### Explicacion Pedagogica
@@ -447,9 +447,9 @@ La destrucción física del Paraguay truncó un proceso de modernización estata
 Al evaluar críticamente las causas que forzaron al gobierno paraguayo a emplear batallones infantiles (Acosta Ñu) en los momentos finales de la contienda de 1869, ¿cuál de las siguientes explicaciones posee mayor veracidad histórica?
 
 ### Opciones
-- [x] A) El absoluto exterminio físico demográfico previo de la población masculina adulta de soldados regulares, sumado a la negativa de Francisco Solano López a rendirse ante las fuerzas aliadas invasoras
+- [x] B) El absoluto exterminio físico demográfico previo de la población masculina adulta de soldados regulares, sumado a la negativa de Francisco Solano López a rendirse ante las fuerzas aliadas invasoras
   <!-- feedback: Correcto. La guarnición de Acosta Ñu reclutó niños, ancianos y convalecientes debido a que el ejército regular paraguayo ya había desaparecido diezmado en la campaña previa de Lomas Valentinas. -->
-- [ ] B) La decisión del mariscal de conformar un ejército infantil pacífico para conmover éticamente a los imperios europeos del siglo XIX
+- [ ] A) La decisión del mariscal de conformar un ejército infantil pacífico para conmover éticamente a los imperios europeos del siglo XIX
   <!-- feedback: Incorrecto. Fue una medida de guerra desesperada de resistencia militar territorial a ultranza, sin intenciones de conmover pacíficamente o apelar a imperios europeos lejanos. -->
 - [ ] C) El adiestramiento especial de niños paraguayos en tácticas secretas de combate nuclear contra la armada de guerra imperial
   <!-- feedback: Incorrecto. Es un anacronismo delirante e insostenible históricamente; el combate se libró con sables, fusiles anticuados y palos de madera. -->

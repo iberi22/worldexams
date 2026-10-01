@@ -29,9 +29,9 @@ bundle_index: 1
 ¿Cómo se define matemáticamente la relación entre dos cantidades que se comparan por medio de un cociente?
 
 ### Opciones
-- [x] A) Razón <!-- feedback: Correcto. Una razón es el cociente entre dos cantidades comparables. -->
-- [ ] B) Proporción <!-- feedback: Una proporción es la igualdad entre dos razones, no la relación individual. -->
-- [ ] C) Porcentaje <!-- feedback: El porcentaje es una razón cuyo denominador es 100, pero no es la definición general. -->
+- [x] C) Razón <!-- feedback: Correcto. Una razón es el cociente entre dos cantidades comparables. -->
+- [ ] A) Proporción <!-- feedback: Una proporción es la igualdad entre dos razones, no la relación individual. -->
+- [ ] B) Porcentaje <!-- feedback: El porcentaje es una razón cuyo denominador es 100, pero no es la definición general. -->
 - [ ] D) Diferencia <!-- feedback: La diferencia es el resultado de una resta, no de un cociente. -->
 
 ### Explicacion Pedagogica
@@ -68,8 +68,8 @@ En una proporción de la forma $a/b = c/d$, ¿cuál es la propiedad fundamental 
 
 ### Opciones
 - [ ] A) La suma de los antecedentes es igual a la de los consecuentes. <!-- feedback: Esta propiedad no es general para verificar proporciones básicas. -->
-- [x] B) El producto de los medios es igual al producto de los extremos ($ad = bc$). <!-- feedback: Correcto. Es la propiedad fundamental de las proporciones. -->
-- [ ] C) Los numeradores deben ser iguales a los denominadores. <!-- feedback: No es necesario; basta con que las fracciones sean equivalentes. -->
+- [x] C) El producto de los medios es igual al producto de los extremos ($ad = bc$). <!-- feedback: Correcto. Es la propiedad fundamental de las proporciones. -->
+- [ ] B) Los numeradores deben ser iguales a los denominadores. <!-- feedback: No es necesario; basta con que las fracciones sean equivalentes. -->
 - [ ] D) La resta de los términos debe ser constante. <!-- feedback: Esto aplicaría a una progresión aritmética, no a una proporción geométrica. -->
 
 ### Explicacion Pedagogica
@@ -86,8 +86,8 @@ La propiedad fundamental de las proporciones establece que en toda proporción, 
 ¿Qué tipo de relación existe entre el número de tejedores (trabajando al mismo ritmo) y el tiempo necesario para terminar un pedido grande?
 
 ### Opciones
-- [ ] A) Proporcionalidad directa <!-- feedback: En la directa, si aumenta una variable, aumenta la otra. Aquí, más tejedores implican menos tiempo. -->
-- [x] B) Proporcionalidad inversa <!-- feedback: Correcto. A mayor número de trabajadores, menor es el tiempo requerido para completar la tarea. -->
+- [ ] B) Proporcionalidad directa <!-- feedback: En la directa, si aumenta una variable, aumenta la otra. Aquí, más tejedores implican menos tiempo. -->
+- [x] A) Proporcionalidad inversa <!-- feedback: Correcto. A mayor número de trabajadores, menor es el tiempo requerido para completar la tarea. -->
 - [ ] C) Relación constante <!-- feedback: Una relación constante implicaría que el tiempo no cambia sin importar los tejedores. -->
 - [ ] D) Proporcionalidad al cuadrado <!-- feedback: No hay evidencia de que la relación sea cuadrática en este contexto laboral estándar. -->
 
@@ -106,9 +106,9 @@ Si el agricultor necesita usar 25 kg de fósforo, ¿cuántos kg de nitrógeno de
 
 ### Opciones
 - [ ] A) $8$ kg <!-- feedback: Incorrecto. $8/25$ no es igual a $4/10$. -->
-- [x] B) $10$ kg <!-- feedback: Correcto. $4/10 = x/25 \Rightarrow 10x = 100 \Rightarrow x = 10$. -->
-- [ ] C) $12$ kg <!-- feedback: Incorrecto. Error al resolver la regla de tres simple. -->
-- [ ] D) $6.25$ kg <!-- feedback: Incorrecto. Se dividió $25$ entre $4$ en lugar de seguir la proporción. -->
+- [x] D) $10$ kg <!-- feedback: Correcto. $4/10 = x/25 \Rightarrow 10x = 100 \Rightarrow x = 10$. -->
+- [ ] B) $12$ kg <!-- feedback: Incorrecto. Error al resolver la regla de tres simple. -->
+- [ ] C) $6.25$ kg <!-- feedback: Incorrecto. Se dividió $25$ entre $4$ en lugar de seguir la proporción. -->
 
 ### Explicacion Pedagogica
 Se aplica una regla de tres simple directa: $\frac{4}{10} = \frac{x}{25}$. Multiplicando cruzado, se obtiene el valor de la incógnita.
@@ -143,8 +143,8 @@ Los porcentajes son razones con denominador 100. Simplificar la fracción $25/10
 Si un turista cambia $\$150.00$, ¿cuántos Quetzales recibirá?
 
 ### Opciones
-- [ ] A) GTQ $1,050.00$ <!-- feedback: Error en la multiplicación de los valores. -->
-- [x] B) GTQ $1,170.00$ <!-- feedback: Correcto. $150 \times 7.80 = 1,170.00$. -->
+- [ ] B) GTQ $1,050.00$ <!-- feedback: Error en la multiplicación de los valores. -->
+- [x] A) GTQ $1,170.00$ <!-- feedback: Correcto. $150 \times 7.80 = 1,170.00$. -->
 - [ ] C) GTQ $1,155.00$ <!-- feedback: Error aritmético durante el cálculo. -->
 - [ ] D) GTQ $19.23$ <!-- feedback: Se dividió en lugar de multiplicar. Esto sería si se cambiaran Quetzales a Dólares. -->
 
@@ -163,9 +163,9 @@ Este es un problema de proporcionalidad directa. A más dólares, más quetzales
 
 ### Opciones
 - [ ] A) $50\%$ <!-- feedback: $50\%$ de 30 sería 15 estudiantes. -->
-- [x] B) $60\%$ <!-- feedback: Correcto. $(18/30) \times 100 = 0.6 \times 100 = 60\%$. -->
-- [ ] C) $18\%$ <!-- feedback: El 18 es la cantidad absoluta, no el porcentaje relativo al total de 30. -->
-- [ ] D) $75\%$ <!-- feedback: $75\%$ de 30 sería 22.5 estudiantes. -->
+- [x] D) $60\%$ <!-- feedback: Correcto. $(18/30) \times 100 = 0.6 \times 100 = 60\%$. -->
+- [ ] B) $18\%$ <!-- feedback: El 18 es la cantidad absoluta, no el porcentaje relativo al total de 30. -->
+- [ ] C) $75\%$ <!-- feedback: $75\%$ de 30 sería 22.5 estudiantes. -->
 
 ### Explicacion Pedagogica
 Para hallar el porcentaje, se divide la parte entre el todo y se multiplica por 100. La fracción $18/30$ se puede simplificar a $3/5$.
@@ -181,9 +181,9 @@ Para hallar el porcentaje, se divide la parte entre el todo y se multiplica por 
 Si para el regreso decide aumentar su velocidad a $100$ km/h, ¿cuánto tiempo tardará en realizar el mismo trayecto?
 
 ### Opciones
-- [x] A) $1.6$ horas <!-- feedback: Correcto. Es proporcionalidad inversa. $80 \times 2 = 100 \times t \Rightarrow 160 = 100t \Rightarrow t = 1.6$. -->
-- [ ] B) $2.5$ horas <!-- feedback: Incorrecto. A mayor velocidad debe tardar menos tiempo, no más. -->
-- [ ] C) $1.8$ horas <!-- feedback: Error al realizar la división de la constante de distancia por la nueva velocidad. -->
+- [x] C) $1.6$ horas <!-- feedback: Correcto. Es proporcionalidad inversa. $80 \times 2 = 100 \times t \Rightarrow 160 = 100t \Rightarrow t = 1.6$. -->
+- [ ] A) $2.5$ horas <!-- feedback: Incorrecto. A mayor velocidad debe tardar menos tiempo, no más. -->
+- [ ] B) $1.8$ horas <!-- feedback: Error al realizar la división de la constante de distancia por la nueva velocidad. -->
 - [ ] D) $1.2$ horas <!-- feedback: Incorrecto. Error en el cálculo proporcional inverso. -->
 
 ### Explicacion Pedagogica
@@ -220,8 +220,8 @@ Si se utilizan $14$ metros cúbicos de arena, ¿cuál es el volumen total de la 
 
 ### Opciones
 - [ ] A) $28$ m³ <!-- feedback: Este es solo el volumen de piedrín. -->
-- [ ] B) $42$ m³ <!-- feedback: Error al sumar las partes proporcionales. -->
-- [x] C) $49$ m³ <!-- feedback: Correcto. Si 2 partes = 14, cada parte = 7. Total partes = $1+2+4=7$. $7 \times 7 = 49$ m³. -->
+- [ ] C) $42$ m³ <!-- feedback: Error al sumar las partes proporcionales. -->
+- [x] B) $49$ m³ <!-- feedback: Correcto. Si 2 partes = 14, cada parte = 7. Total partes = $1+2+4=7$. $7 \times 7 = 49$ m³. -->
 - [ ] D) $56$ m³ <!-- feedback: Error al calcular el valor de cada parte de la razón. -->
 
 ### Explicacion Pedagogica
@@ -240,8 +240,8 @@ En razones múltiples, se identifica el valor de una "parte" dividiendo la canti
 ### Opciones
 - [ ] A) $7\%$ <!-- feedback: 7 es la diferencia absoluta en Quetzales, no el porcentaje. -->
 - [ ] B) $20\%$ <!-- feedback: Error al dividir la diferencia por el precio final en lugar del inicial. -->
-- [x] C) $25\%$ <!-- feedback: Correcto. $((35 - 28) / 28) \times 100 = (7 / 28) \times 100 = 0.25 \times 100 = 25\%$. -->
-- [ ] D) $30\%$ <!-- feedback: Error en el cálculo del porcentaje de variación. -->
+- [x] D) $25\%$ <!-- feedback: Correcto. $((35 - 28) / 28) \times 100 = (7 / 28) \times 100 = 0.25 \times 100 = 25\%$. -->
+- [ ] C) $30\%$ <!-- feedback: Error en el cálculo del porcentaje de variación. -->
 
 ### Explicacion Pedagogica
 El porcentaje de incremento se calcula como la diferencia entre el valor nuevo y el antiguo, dividida por el valor antiguo, todo multiplicado por 100.
@@ -258,9 +258,9 @@ Si la brigada recibe a $10$ personas más, ¿cuántos días durarán los mismos 
 
 ### Opciones
 - [ ] A) $18.75$ días <!-- feedback: Se aplicó proporcionalidad directa, pero a más personas los suministros duran menos tiempo. -->
-- [x] B) $12$ días <!-- feedback: Correcto. Inversa: $40 \times 15 = 50 \times d \Rightarrow 600 = 50d \Rightarrow d = 12$. -->
-- [ ] C) $11.25$ días <!-- feedback: Error al realizar la operación con la nueva cantidad total de personas (50). -->
-- [ ] D) $10$ días <!-- feedback: Estimación incorrecta sin base en el cálculo proporcional. -->
+- [x] D) $12$ días <!-- feedback: Correcto. Inversa: $40 \times 15 = 50 \times d \Rightarrow 600 = 50d \Rightarrow d = 12$. -->
+- [ ] B) $11.25$ días <!-- feedback: Error al realizar la operación con la nueva cantidad total de personas (50). -->
+- [ ] C) $10$ días <!-- feedback: Estimación incorrecta sin base en el cálculo proporcional. -->
 
 ### Explicacion Pedagogica
 Es un problema de regla de tres simple inversa. La cantidad total de personas es $40 + 10 = 50$. El producto de personas por días debe permanecer constante.
@@ -276,8 +276,8 @@ Es un problema de regla de tres simple inversa. La cantidad total de personas es
 ¿Cuál será el monto total (capital + interés) en la cuenta después de $4$ años?
 
 ### Opciones
-- [ ] A) GTQ $10,600.00$ <!-- feedback: Este es el monto después de solo 1 año. -->
-- [x] B) GTQ $12,400.00$ <!-- feedback: Correcto. Interés = $10,000 \times 0.06 \times 4 = 2,400$. Monto = $10,000 + 2,400 = 12,400$. -->
+- [ ] B) GTQ $10,600.00$ <!-- feedback: Este es el monto después de solo 1 año. -->
+- [x] A) GTQ $12,400.00$ <!-- feedback: Correcto. Interés = $10,000 \times 0.06 \times 4 = 2,400$. Monto = $10,000 + 2,400 = 12,400$. -->
 - [ ] C) GTQ $11,200.00$ <!-- feedback: Se calculó el interés para 2 años únicamente. -->
 - [ ] D) GTQ $2,400.00$ <!-- feedback: Este es solo el interés ganado, el enunciado pide el monto total. -->
 
@@ -295,9 +295,9 @@ El interés simple se calcula con la fórmula $I = C \cdot r \cdot t$. El monto 
 ¿Cuántas prendas producirán $10$ máquinas en $3$ horas, asumiendo que todas trabajan al mismo ritmo?
 
 ### Opciones
-- [x] A) $1,500$ prendas <!-- feedback: Correcto. Producción por máquina-hora = $1,200 / (6 \times 4) = 50$. Entonces $10 \times 3 \times 50 = 1,500$. -->
-- [ ] B) $1,800$ prendas <!-- feedback: Error al plantear la regla de tres compuesta. -->
-- [ ] C) $1,250$ prendas <!-- feedback: Error en el cálculo de la eficiencia por unidad de tiempo y máquina. -->
+- [x] C) $1,500$ prendas <!-- feedback: Correcto. Producción por máquina-hora = $1,200 / (6 \times 4) = 50$. Entonces $10 \times 3 \times 50 = 1,500$. -->
+- [ ] A) $1,800$ prendas <!-- feedback: Error al plantear la regla de tres compuesta. -->
+- [ ] B) $1,250$ prendas <!-- feedback: Error en el cálculo de la eficiencia por unidad de tiempo y máquina. -->
 - [ ] D) $2,000$ prendas <!-- feedback: Incorrecto. Sobreestimación por error en la proporcionalidad directa de los factores. -->
 
 ### Explicacion Pedagogica
@@ -314,8 +314,8 @@ Este es un problema de regla de tres compuesta. Se puede resolver encontrando la
 ¿Cuál es el precio final que paga el comerciante?
 
 ### Opciones
-- [ ] A) GTQ $350.00$ <!-- feedback: Se sumaron los porcentajes ($30\%$) incorrectamente. Los descuentos sucesivos no se suman. -->
-- [x] B) GTQ $360.00$ <!-- feedback: Correcto. Primer descuento: $500 \times 0.8 = 400$. Segundo descuento: $400 \times 0.9 = 360$. -->
+- [ ] B) GTQ $350.00$ <!-- feedback: Se sumaron los porcentajes ($30\%$) incorrectamente. Los descuentos sucesivos no se suman. -->
+- [x] A) GTQ $360.00$ <!-- feedback: Correcto. Primer descuento: $500 \times 0.8 = 400$. Segundo descuento: $400 \times 0.9 = 360$. -->
 - [ ] C) GTQ $400.00$ <!-- feedback: Solo se aplicó el primer descuento. -->
 - [ ] D) GTQ $375.00$ <!-- feedback: Error en el cálculo de los descuentos sucesivos. -->
 
@@ -352,8 +352,8 @@ Se debe calcular la cantidad de maíz necesaria para que, junto a la soya presen
 Si se depositan GTQ $8,000.00$, ¿cuál será el saldo después de $2$ años?
 
 ### Opciones
-- [ ] A) GTQ $8,800.00$ <!-- feedback: Este es el resultado usando interés simple. -->
-- [x] B) GTQ $8,820.00$ <!-- feedback: Correcto. Año 1: $8,000 \times 1.05 = 8,400$. Año 2: $8,400 \times 1.05 = 8,820$. -->
+- [ ] B) GTQ $8,800.00$ <!-- feedback: Este es el resultado usando interés simple. -->
+- [x] A) GTQ $8,820.00$ <!-- feedback: Correcto. Año 1: $8,000 \times 1.05 = 8,400$. Año 2: $8,400 \times 1.05 = 8,820$. -->
 - [ ] C) GTQ $9,200.00$ <!-- feedback: Error significativo en el cálculo del interés compuesto. -->
 - [ ] D) GTQ $8,400.00$ <!-- feedback: Solo se calculó el saldo después del primer año. -->
 
@@ -371,9 +371,9 @@ El interés compuesto se diferencia del simple porque los intereses generados en
 ¿Cuánto dinero más recibe el socio que más invirtió en comparación con el que menos invirtió?
 
 ### Opciones
-- [ ] A) GTQ $30,000.00$ <!-- feedback: Esta es la ganancia del socio que menos invirtió. -->
-- [ ] B) GTQ $75,000.00$ <!-- feedback: Esta es la ganancia del socio que más invirtió. -->
-- [x] C) GTQ $45,000.00$ <!-- feedback: Correcto. Total partes = 10. Valor por parte = $15,000$. Socio 1 = $30,000$. Socio 3 = $75,000$. Diferencia = $45,000$. -->
+- [ ] B) GTQ $30,000.00$ <!-- feedback: Esta es la ganancia del socio que menos invirtió. -->
+- [ ] C) GTQ $75,000.00$ <!-- feedback: Esta es la ganancia del socio que más invirtió. -->
+- [x] A) GTQ $45,000.00$ <!-- feedback: Correcto. Total partes = 10. Valor por parte = $15,000$. Socio 1 = $30,000$. Socio 3 = $75,000$. Diferencia = $45,000$. -->
 - [ ] D) GTQ $15,000.00$ <!-- feedback: Este es el valor de una sola parte proporcional, no la diferencia solicitada. -->
 
 ### Explicacion Pedagogica
@@ -391,8 +391,8 @@ Si en el mapa la distancia entre la Ciudad de Guatemala y Antigua Guatemala es d
 
 ### Opciones
 - [ ] A) $4.5$ km <!-- feedback: Error al realizar la conversión de centímetros a kilómetros. -->
-- [x] B) $45$ km <!-- feedback: Correcto. $18 \times 250,000 = 4,500,000$ cm. Dividiendo por 100 para metros (45,000) y por 1,000 para km (45). -->
-- [ ] C) $450$ km <!-- feedback: Error de un orden de magnitud al convertir unidades de longitud. -->
+- [x] C) $45$ km <!-- feedback: Correcto. $18 \times 250,000 = 4,500,000$ cm. Dividiendo por 100 para metros (45,000) y por 1,000 para km (45). -->
+- [ ] B) $450$ km <!-- feedback: Error de un orden de magnitud al convertir unidades de longitud. -->
 - [ ] D) $18$ km <!-- feedback: Se ignoró el factor de escala del mapa. -->
 
 ### Explicacion Pedagogica

@@ -35,11 +35,11 @@ alineadas con los DBA y Estándares Básicos de Competencias del MEN Colombia y 
 ¿Qué relación se establece entre un texto contemporáneo y la obra 'Cien años de soledad' cuando se menciona a Macondo como referente del aislamiento?
 
 ### Opciones
-- [x] A) Una alusión intertextual que evoca la cosmovisión del realismo mágico y la memoria cultural colectiva.
+- [x] C) Una alusión intertextual que evoca la cosmovisión del realismo mágico y la memoria cultural colectiva.
   <!-- feedback: Es correcta porque la alusión dialoga con la tradición literaria enriqueciendo el sentido del nuevo texto. -->
-- [ ] B) Un plagio directo que debe ser sancionado penalmente por violación de derechos de autor.
+- [ ] A) Un plagio directo que debe ser sancionado penalmente por violación de derechos de autor.
   <!-- feedback: Es incorrecta porque la cita o alusión cultural legítima no constituye delito de plagio. -->
-- [ ] C) Una coincidencia fortuita sin ninguna intención estética ni vinculación interpretativa.
+- [ ] B) Una coincidencia fortuita sin ninguna intención estética ni vinculación interpretativa.
   <!-- feedback: Es incorrecta porque la mención de un referente universal como Macondo no es aleatoria. -->
 - [ ] D) Un error ortográfico cometido por el editor del libro en la fase de imprenta.
   <!-- feedback: Es incorrecta porque no se trata de una errata sino de un recurso deliberado. -->
@@ -58,9 +58,9 @@ La intertextualidad por alusión conecta el escrito con el patrimonio cultural y
 ¿De qué manera funciona la parodia cuando se reescribe un fragmento del Himno Nacional en una viñeta satírica?
 
 ### Opciones
-- [x] A) Utiliza la estructura solemne del texto original para subvertir su sentido y denunciar una problemática social actual.
+- [x] B) Utiliza la estructura solemne del texto original para subvertir su sentido y denunciar una problemática social actual.
   <!-- feedback: Es correcta porque la parodia toma la forma reconocida de un texto insigne para distanciar su significado y criticar la coyuntura. -->
-- [ ] B) Busca destruir la lengua española reemplazando las palabras por ruidos inarticulados.
+- [ ] A) Busca destruir la lengua española reemplazando las palabras por ruidos inarticulados.
   <!-- feedback: Es incorrecta porque la sátira utiliza el lenguaje articulado para transmitir un mensaje político refinado. -->
 - [ ] C) Constituye una copia idéntica que rinde homenaje incondicional a los próceres de la independencia.
   <!-- feedback: Es incorrecta porque la parodia justamente altera el sentido para hacer una crítica, no para rendir culto sumiso. -->
@@ -81,11 +81,11 @@ La parodia exige reconocer la tensión entre el texto fuente (hipotexto) y la tr
 ¿Qué función cumple colocar un verso de Aurelio Arturo al inicio de un ensayo sobre el paisaje andino?
 
 ### Opciones
-- [x] A) Establecer la clave de lectura y el tono poético que orientará la interpretación de los capítulos siguientes.
+- [x] C) Establecer la clave de lectura y el tono poético que orientará la interpretación de los capítulos siguientes.
   <!-- feedback: Es correcta porque el epígrafe actúa como un pórtico conceptual que anticipa la atmósfera e ideas del escrito. -->
-- [ ] B) Rellenar el espacio en blanco de la página para que la imprenta no cobre menos por la edición.
+- [ ] A) Rellenar el espacio en blanco de la página para que la imprenta no cobre menos por la edición.
   <!-- feedback: Es incorrecta porque el diseño editorial responde a intenciones expresivas y no a exigencias de cobro vacías. -->
-- [ ] C) Confundir al lector haciéndole creer que el ensayo fue escrito en el siglo XV en Europa.
+- [ ] B) Confundir al lector haciéndole creer que el ensayo fue escrito en el siglo XV en Europa.
   <!-- feedback: Es incorrecta porque la poética de Aurelio Arturo pertenece a la literatura colombiana del siglo XX. -->
 - [ ] D) Proporcionar los datos de contacto del distribuidor comercial del libro.
   <!-- feedback: Es incorrecta porque los datos comerciales se ubican en el colofón o portada, no en los epígrafes. -->
@@ -104,9 +104,9 @@ El epígrafe enmarca la lectura operando como un puente entre la tradición y la
 ¿Por qué es indispensable poner entre comillas una frase de Estanislao Zuleta en un ensayo escolar?
 
 ### Opciones
-- [x] A) Para señalar la autoría ajena respetando la propiedad intelectual y deslindarla del discurso propio.
+- [x] B) Para señalar la autoría ajena respetando la propiedad intelectual y deslindarla del discurso propio.
   <!-- feedback: Es correcta porque la convención de comillas y cita otorga transparencia metodológica y evita el plagio. -->
-- [ ] B) Para avisar al lector que esa frase contiene errores gramaticales que no se deben aprender.
+- [ ] A) Para avisar al lector que esa frase contiene errores gramaticales que no se deben aprender.
   <!-- feedback: Es incorrecta porque se citan autores reconocidos por la calidad de sus aportes, no por erratas. -->
 - [ ] C) Para obligar a quien lee a pronunciar las palabras en voz alta en el salón de clases.
   <!-- feedback: Es incorrecta porque las comas y comillas son marcas gráficas de citación y no instrucciones de declamación. -->
@@ -127,9 +127,9 @@ La cita textual manifiesta la voz del otro dentro del texto propio con honestida
 ¿Qué sucede cuando el personaje de una novela afirma que está cansado de los caprichos del escritor que lo inventó?
 
 ### Opciones
-- [x] A) Se produce un recurso metaficcional que rompe la ilusión narrativa y cuestiona la frontera entre realidad y ficción.
+- [x] B) Se produce un recurso metaficcional que rompe la ilusión narrativa y cuestiona la frontera entre realidad y ficción.
   <!-- feedback: Es correcta porque la metaficción vuelve el discurso sobre sí mismo, revelando los artificios de la literatura. -->
-- [ ] B) Demuestra un fallo grave de la imprenta que mezcló dos libros distintos en el mismo volumen.
+- [ ] A) Demuestra un fallo grave de la imprenta que mezcló dos libros distintos en el mismo volumen.
   <!-- feedback: Es incorrecta porque es una técnica narrativa intencional y no una errata de encuadernación. -->
 - [ ] C) Evidencia que el libro está embrujado y posee vida biológica independiente.
   <!-- feedback: Es incorrecta porque la literatura es una construcción simbólica y no un fenómeno sobrenatural. -->
@@ -150,11 +150,11 @@ La metaficción cuestiona los pactos tradicionales de lectura revelando la arqui
 Al comparar la Odisea de Homero (hipotexto) con el Ulises de James Joyce (hipertexto), ¿qué fenómeno se observa?
 
 ### Opciones
-- [x] A) Una transformación e hipertextualidad compleja donde la epopeya clásica se resignifica en el contexto urbano moderno.
+- [x] C) Una transformación e hipertextualidad compleja donde la epopeya clásica se resignifica en el contexto urbano moderno.
   <!-- feedback: Es correcta porque el hipertexto deriva del hipotexto mediante una transformación creadora de gran envergadura. -->
-- [ ] B) Una copia fotostática que no aporta ningún elemento nuevo a la historia original de Grecia.
+- [ ] A) Una copia fotostática que no aporta ningún elemento nuevo a la historia original de Grecia.
   <!-- feedback: Es incorrecta porque la obra de Joyce es una de las novelas más innovadoras y distintas del siglo XX. -->
-- [ ] C) La demostración de que la literatura antigua no tiene ningún valor para los lectores contemporáneos.
+- [ ] B) La demostración de que la literatura antigua no tiene ningún valor para los lectores contemporáneos.
   <!-- feedback: Es incorrecta porque justamente demuestra la vitalidad y vigencia de los mitos griegos en la modernidad. -->
 - [ ] D) Un resumen infantil de tres páginas pensado para niños que están aprendiendo a leer.
   <!-- feedback: Es incorrecta porque la obra de Joyce es un texto de alta complejidad narrativa para adultos. -->
@@ -173,11 +173,11 @@ La hipertextualidad analiza cómo un texto B deriva o transforma a un texto A an
 ¿En qué consiste el uso del pastiche en la novela 'La tejedora de coronas' de Germán Espinosa?
 
 ### Opciones
-- [x] A) En la recreación consciente de la sintaxis y el léxico barroco del siglo XVIII para ambientar la época.
+- [x] C) En la recreación consciente de la sintaxis y el léxico barroco del siglo XVIII para ambientar la época.
   <!-- feedback: Es correcta porque el pastiche literario recrea el estilo de una época o autor con intención estética y rigurosa. -->
-- [ ] B) En el plagio descarado de fragmentos de enciclopedias francesas sin comillas ni referencias.
+- [ ] A) En el plagio descarado de fragmentos de enciclopedias francesas sin comillas ni referencias.
   <!-- feedback: Es incorrecta porque Germán Espinosa realiza una obra monumental original a través de la recreación formal. -->
-- [ ] C) En la redacción del texto mezclando tres idiomas sin guardar reglas gramaticales de ninguno.
+- [ ] B) En la redacción del texto mezclando tres idiomas sin guardar reglas gramaticales de ninguno.
   <!-- feedback: Es incorrecta porque la obra mantiene un español de filiación barroca magistralmente articulado. -->
 - [ ] D) En la inclusión de imágenes fotográficas de periódicos sensacionalistas del siglo XXI.
   <!-- feedback: Es incorrecta porque la ambientación se logra mediante el lenguaje escrito y no con fotos anacrónicas. -->
@@ -196,13 +196,13 @@ El pastiche literario asimila los códigos de un estilo histórico para refundir
 ¿Qué recurso se emplea cuando un ensayo describe minuciosamente el cuadro 'La violencia' de Alejandro Obregón?
 
 ### Opciones
-- [x] A) Écfrasis, al traducir verbalmente la composición visual para reflexionar sobre la historia nacional.
+- [x] D) Écfrasis, al traducir verbalmente la composición visual para reflexionar sobre la historia nacional.
   <!-- feedback: Es correcta porque la écfrasis es la representación verbal de una obra de arte visual. -->
-- [ ] B) Grafográma, al dibujar las letras del texto con la forma de los personajes de la pintura.
+- [ ] A) Grafográma, al dibujar las letras del texto con la forma de los personajes de la pintura.
   <!-- feedback: Es incorrecta porque el texto no cambia la forma de sus caracteres para hacer caligramas. -->
-- [ ] C) Onomatopeya, al imitar con consonantes el sonido de los pinceles sobre el lienzo.
+- [ ] B) Onomatopeya, al imitar con consonantes el sonido de los pinceles sobre el lienzo.
   <!-- feedback: Es incorrecta porque no se trata de reproducir sonidos de herramientas de pintura. -->
-- [ ] D) Tautología, al repetir tres veces seguidas la misma oración dentro del mismo párrafo.
+- [ ] C) Tautología, al repetir tres veces seguidas la misma oración dentro del mismo párrafo.
   <!-- feedback: Es incorrecta porque la écfrasis aporta una interpretación profunda y no una repetición vacía. -->
 
 ### Explicacion Pedagogica
@@ -219,11 +219,11 @@ La écfrasis articula la dimensión intermedial conectando el lenguaje verbal co
 ¿Por qué la obra 'Antígona González' resuena profundamente en el contexto de Colombia?
 
 ### Opciones
-- [x] A) Porque traslada el mito ético de enterrar a los muertos a la lucha de las familias de personas desaparecidas.
+- [x] C) Porque traslada el mito ético de enterrar a los muertos a la lucha de las familias de personas desaparecidas.
   <!-- feedback: Es correcta porque la actualización del mito clásico ilumina los dilemas éticos y humanitarios de nuestro tiempo. -->
-- [ ] B) Porque enseña a los espectadores a actuar en obras de teatro en Atenas durante las olimpiadas.
+- [ ] A) Porque enseña a los espectadores a actuar en obras de teatro en Atenas durante las olimpiadas.
   <!-- feedback: Es incorrecta porque la obra aborda la realidad sociopolítica latinoamericana actual. -->
-- [ ] C) Porque exige que el público asista vestido con túnicas de lana y sandalias de cuero.
+- [ ] B) Porque exige que el público asista vestido con túnicas de lana y sandalias de cuero.
   <!-- feedback: Es incorrecta porque el vestuario del público no atañe al contenido y fuerza simbólica del drama. -->
 - [ ] D) Porque demuestra que la tragedia griega fue escrita por dramaturgos colombianos del siglo XXI.
   <!-- feedback: Es incorrecta porque reconoce el origen griego de la tragedia pero reivindica su reescritura local. -->
@@ -242,11 +242,11 @@ La reescritura mitológica reactiva dilemas éticos universales para interpelar 
 ¿Qué caracteriza a la novela polifónica según Mijaíl Bajtín?
 
 ### Opciones
-- [x] A) La pluralidad de voces y conciencias independientes e inconfundibles que dialogan en igualdad de condiciones.
+- [x] C) La pluralidad de voces y conciencias independientes e inconfundibles que dialogan en igualdad de condiciones.
   <!-- feedback: Es correcta porque en la polifonía bajtiniana cada personaje es sujeto de su propio discurso y no mero objeto. -->
-- [ ] B) El monopolio absoluto de la voz del narrador que impone su verdad única sobre todos los personajes.
+- [ ] A) El monopolio absoluto de la voz del narrador que impone su verdad única sobre todos los personajes.
   <!-- feedback: Es incorrecta porque describe la novela monológica donde predomina una sola voz autorial imperiosa. -->
-- [ ] C) La ausencia total de diálogos entre los actores de la narración a lo largo del libro.
+- [ ] B) La ausencia total de diálogos entre los actores de la narración a lo largo del libro.
   <!-- feedback: Es incorrecta porque la polifonía promueve la intensificación del diálogo entre conciencias. -->
 - [ ] D) La obligación de leer el texto acompañado por la música de un piano de cola en vivo.
   <!-- feedback: Es incorrecta porque 'polifonía' es una metáfora teórica y no una exigencia de acompañamiento musical real. -->
@@ -311,11 +311,11 @@ La cita de pensamiento político consolida la tesis del articulista conectándol
 ¿Por qué se afirma que 'traducir es siempre traicionar' (traduttore, traditore) en la teoría literaria?
 
 ### Opciones
-- [x] A) Porque todo paso de un idioma a otro exige tomar elecciones semánticas que transforman inevitablemente el matiz del original.
+- [x] C) Porque todo paso de un idioma a otro exige tomar elecciones semánticas que transforman inevitablemente el matiz del original.
   <!-- feedback: Es correcta porque la traducción no es una equivalencia matemática sino un acto de interpretación cultural e intertextual. -->
-- [ ] B) Porque los traductores son personas deshonestas que roban las regalías de los verdaderos autores de los libros.
+- [ ] A) Porque los traductores son personas deshonestas que roban las regalías de los verdaderos autores de los libros.
   <!-- feedback: Es incorrecta porque descalifica éticamente a los traductores sin entender la naturaleza del cambio lingüístico. -->
-- [ ] C) Porque las lenguas humanas no poseen palabras para expresar los mismos sentimientos o pensamientos.
+- [ ] B) Porque las lenguas humanas no poseen palabras para expresar los mismos sentimientos o pensamientos.
   <!-- feedback: Es incorrecta porque si bien difieren en estructura, los idiomas sí permiten expresar conceptos análogos con matices. -->
 - [ ] D) Porque los libros traducidos pierden todo su valor y no deberían ser aceptados en las bibliotecas escolares.
   <!-- feedback: Es incorrecta porque la traducción ha sido el principal vehículo de democratización del conocimiento universal. -->
@@ -357,11 +357,11 @@ La intertextualidad formal adopta métricas, ritmos o estructuras estróficas de
 ¿De qué manera dialoga la novela 'El general en su laberinto' con los documentos de la independencia de Colombia?
 
 ### Opciones
-- [x] A) Humaniza y problematiza la figura de Simón Bolívar confrontando el mito heroico con la vulnerabilidad de sus últimos días.
+- [x] C) Humaniza y problematiza la figura de Simón Bolívar confrontando el mito heroico con la vulnerabilidad de sus últimos días.
   <!-- feedback: Es correcta porque la ficción histórica utiliza el archivo documental para reinterpretar la subjetividad del prócer. -->
-- [ ] B) Copia literalmente el texto de las cartas del Libertador sin agregar una sola palabra de invención narrativa.
+- [ ] A) Copia literalmente el texto de las cartas del Libertador sin agregar una sola palabra de invención narrativa.
   <!-- feedback: Es incorrecta porque García Márquez realiza una recreación novelesca rica en descripciones y diálogos de ficción. -->
-- [ ] C) Demuestra que Simón Bolívar no existió nunca y fue un invento de los historiadores del siglo XX.
+- [ ] B) Demuestra que Simón Bolívar no existió nunca y fue un invento de los historiadores del siglo XX.
   <!-- feedback: Es incorrecta porque la investigación histórica de la novela se apoya en fuentes reales para explorar la dimensión humana. -->
 - [ ] D) Sostiene que la independencia de Colombia fue organizada por un grupo de piratas ingleses en Cartagena.
   <!-- feedback: Es incorrecta porque el texto respeta el marco histórico general de las gestas emancipadoras del continente. -->
@@ -403,13 +403,13 @@ La parodia genérica deconstruye las fórmulas trilladas de los géneros popular
 ¿Cómo dialogan el texto escrito y la ilustración visual en una novela gráfica sobre el conflicto armado?
 
 ### Opciones
-- [x] A) Construyen un significado integral donde la imagen no es mero adorno sino lenguaje narrativo con carga simbólica.
+- [x] D) Construyen un significado integral donde la imagen no es mero adorno sino lenguaje narrativo con carga simbólica.
   <!-- feedback: Es correcta porque la novela gráfica es una forma de hibridación discursiva donde texto e imagen co-construyen el sentido. -->
-- [ ] B) Demuestran que el autor del texto no tenía dinero para pagar la corrección de estilo y puso dibujos para disimular.
+- [ ] A) Demuestran que el autor del texto no tenía dinero para pagar la corrección de estilo y puso dibujos para disimular.
   <!-- feedback: Es incorrecta porque la ilustración en este género exige una compleja planificación visual e intelectual conjunta. -->
-- [ ] C) Obligan al lector a recortar las imágenes con tijeras para pegarlas en un álbum escolar de colección.
+- [ ] B) Obligan al lector a recortar las imágenes con tijeras para pegarlas en un álbum escolar de colección.
   <!-- feedback: Es incorrecta porque destruye la integridad del artefacto cultural interpretándolo como una actividad manual. -->
-- [ ] D) Prueban que los libros con ilustraciones están destinados exclusivamente a la primera infancia.
+- [ ] C) Prueban que los libros con ilustraciones están destinados exclusivamente a la primera infancia.
   <!-- feedback: Es incorrecta porque la novela gráfica aborda temáticas de alta complejidad ética y política para público adulto. -->
 
 ### Explicacion Pedagogica
@@ -449,9 +449,9 @@ El diálogo transatlántico de los modernistas demuestra cómo la apropiación d
 ¿Con qué propósito cita un columnista la frase 'el orden reina en Varsovia' al referirse a la represión de una marcha?
 
 ### Opciones
-- [x] A) Para evocar la ironía histórica de quienes llaman 'orden' a la pacificación forzosa mediante la violencia militar.
+- [x] B) Para evocar la ironía histórica de quienes llaman 'orden' a la pacificación forzosa mediante la violencia militar.
   <!-- feedback: Es correcta porque la famosa frase (atribuida a la represión de 1831) se usa irónicamente para criticar el autoritarismo. -->
-- [ ] B) Para felicitar al gobierno de Polonia por el excelente estado de sus calles y avenidas en el invierno.
+- [ ] A) Para felicitar al gobierno de Polonia por el excelente estado de sus calles y avenidas en el invierno.
   <!-- feedback: Es incorrecta porque confunde la cita histórica politizada con una nota turística o meteorológica de Europa. -->
 - [ ] C) Para enseñar geografía de Europa del Este a los estudiantes de los colegios de secundaria de Cali.
   <!-- feedback: Es incorrecta porque la cita cumple un rol de denuncia política interna y no un fin didáctico de cartografía. -->
@@ -472,13 +472,13 @@ La citación histórica irónica rescata la memoria política para cuestionar lo
 ¿Cuál es el beneficio de identificar las múltiples referencias culturales presentes en una obra compleja?
 
 ### Opciones
-- [x] A) Permite descifrar la riqueza de capas de sentido, dialogar con la tradición y lograr una comprensión crítica profunda.
+- [x] D) Permite descifrar la riqueza de capas de sentido, dialogar con la tradición y lograr una comprensión crítica profunda.
   <!-- feedback: Es correcta porque develar la red intertextual abre las dimensiones simbólicas y la densidad interpretativa del texto. -->
-- [ ] B) Sirve para memorizar una lista de cien nombres de autores antiguos para ganar un concurso de preguntas de televisión.
+- [ ] A) Sirve para memorizar una lista de cien nombres de autores antiguos para ganar un concurso de preguntas de televisión.
   <!-- feedback: Es incorrecta porque la meta de la lectura crítica es la aprehensión del sentido y no la acumulación memorística vacía. -->
-- [ ] C) Demuestra que el libro fue escrito por diez personas distintas que no se conocían entre sí.
+- [ ] B) Demuestra que el libro fue escrito por diez personas distintas que no se conocían entre sí.
   <!-- feedback: Es incorrecta porque la unidad de la obra radica en la orquestación que el autor hace de sus fuentes e influencias. -->
-- [ ] D) Garantiza que el lector no tenga que pensar por sí mismo al estar todo el sentido dicho en otros libros.
+- [ ] C) Garantiza que el lector no tenga que pensar por sí mismo al estar todo el sentido dicho en otros libros.
   <!-- feedback: Es incorrecta porque reconocer referencias exige una postura activa del lector para reconstruir el tejido textual. -->
 
 ### Explicacion Pedagogica

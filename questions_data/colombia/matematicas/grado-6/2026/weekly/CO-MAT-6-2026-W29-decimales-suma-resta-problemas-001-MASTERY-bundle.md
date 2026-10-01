@@ -29,11 +29,11 @@ Este bundle trabaja la lectura, comparación y operación de números decimales 
 ### Enunciado
 ¿Cómo se lee correctamente el número 12.5?
 ### Opciones
-- [x] A) Doce unidades y cinco décimas
+- [x] C) Doce unidades y cinco décimas
   <!-- feedback: Es correcto: la primera cifra después de la coma representa las décimas. -->
-- [ ] B) Doce unidades y cinco centésimas
+- [ ] A) Doce unidades y cinco centésimas
   <!-- feedback: Error conceptual: las centésimas ocupan la segunda posición decimal. -->
-- [ ] C) Doce unidades y cinco milésimas
+- [ ] B) Doce unidades y cinco milésimas
   <!-- feedback: Error conceptual: las milésimas ocupan la tercera posición decimal. -->
 - [ ] D) Doce unidades y cincuenta décimas
   <!-- feedback: Error conceptual: el 5 representa cinco décimas, no cincuenta. -->
@@ -48,13 +48,13 @@ En un número decimal, la primera cifra después del punto corresponde a las dé
 ### Enunciado
 ¿Cuál de los dos números es mayor?
 ### Opciones
-- [x] A) 4.5, porque 0.50 es mayor que 0.45 al comparar décimas y centésimas
+- [x] D) 4.5, porque 0.50 es mayor que 0.45 al comparar décimas y centésimas
   <!-- feedback: Es correcto: 4.50 es mayor que 4.45 porque 50 centésimas superan a 45. -->
-- [ ] B) 4.45, porque tiene más cifras decimales
+- [ ] A) 4.45, porque tiene más cifras decimales
   <!-- feedback: Error conceptual: tener más cifras no significa que el número sea mayor. -->
-- [ ] C) Son iguales
+- [ ] B) Son iguales
   <!-- feedback: Error conceptual: 4.50 y 4.45 difieren en 0.05, así que no son iguales. -->
-- [ ] D) 4.45, porque 45 es mayor que 5
+- [ ] C) 4.45, porque 45 es mayor que 5
   <!-- feedback: Error conceptual: se comparan cifras de distinta posición decimal sin alinearlas. -->
 ### Explicacion Pedagogica
 Para comparar decimales se iguala el número de cifras y se compara posición por posición: 4.50 frente a 4.45. Al alinear los decimales, 4.50 resulta mayor.
@@ -86,9 +86,9 @@ Al sumar decimales se alinean las comas y se completan con ceros: 3.25 + 2.60 = 
 ### Enunciado
 ¿Cuánta agua queda en el tanque?
 ### Opciones
-- [x] A) 10.75 L
+- [x] B) 10.75 L
   <!-- feedback: Es correcto: 15.50 − 4.75 = 10.75 L. -->
-- [ ] B) 11.25 L
+- [ ] A) 11.25 L
   <!-- feedback: Error conceptual: 11.25 resulta de restar mal las centésimas. -->
 - [ ] C) 10.25 L
   <!-- feedback: Error conceptual: 10.25 surge de un error al restar 15.50 − 4.75. -->
@@ -105,9 +105,9 @@ La resta 15.50 − 4.75 = 10.75 L exige alinear las comas y pedir prestado cuand
 ### Enunciado
 ¿Cuál es la longitud total de la cuerda unida?
 ### Opciones
-- [x] A) 7.35 m
+- [x] B) 7.35 m
   <!-- feedback: Es correcto: 2.40 + 1.85 + 3.10 = 7.35 m. -->
-- [ ] B) 7.15 m
+- [ ] A) 7.15 m
   <!-- feedback: Error conceptual: 7.15 surge de un error de acarreo al sumar las centésimas. -->
 - [ ] C) 8.35 m
   <!-- feedback: Error conceptual: 8.35 suma una cantidad adicional que no aparece en los datos. -->
@@ -124,13 +124,13 @@ Se alinean los tres decimales y se suman por columnas: 2.40 + 1.85 + 3.10 = 7.35
 ### Enunciado
 ¿Cuál fue su error y cuál es el resultado correcto?
 ### Opciones
-- [x] A) Alineó mal los decimales; el resultado correcto es 16.05
+- [x] D) Alineó mal los decimales; el resultado correcto es 16.05
   <!-- feedback: Es correcto: 12.40 + 3.65 = 16.05, y sin alinear se obtiene un valor muy distinto. -->
-- [ ] B) No hubo error; el resultado es 4.9
+- [ ] A) No hubo error; el resultado es 4.9
   <!-- feedback: Error conceptual: 4.9 no proviene de sumar dos cantidades mayores que 12 y 3. -->
-- [ ] C) Olvidó sumar; el resultado correcto es 15.9
+- [ ] B) Olvidó sumar; el resultado correcto es 15.9
   <!-- feedback: Error conceptual: 15.9 no corresponde a la suma exacta de 12.40 y 3.65. -->
-- [ ] D) El resultado correcto es 16.5
+- [ ] C) El resultado correcto es 16.5
   <!-- feedback: Error conceptual: 16.5 omite la cifra de las centésimas del segundo número. -->
 ### Explicacion Pedagogica
 El error típico es escribir los números sin alinear las comas. Al alinear 12.40 y 3.65 se obtiene 16.05; revisar el valor posicional previene este fallo.
@@ -143,11 +143,11 @@ El error típico es escribir los números sin alinear las comas. Al alinear 12.4
 ### Enunciado
 ¿Cuánta harina falta y qué operación lo resuelve?
 ### Opciones
-- [x] A) 0.75 kg, con la resta 1.50 − 0.75
+- [x] C) 0.75 kg, con la resta 1.50 − 0.75
   <!-- feedback: Es correcto: 1.50 − 0.75 = 0.75 kg, que es la cantidad pendiente. -->
-- [ ] B) 2.25 kg, con la suma de ambas cantidades
+- [ ] A) 2.25 kg, con la suma de ambas cantidades
   <!-- feedback: Error conceptual: sumar da el total hipotético, no lo que falta por usar. -->
-- [ ] C) 0.75 kg, con la suma 0.75 + 0
+- [ ] B) 0.75 kg, con la suma 0.75 + 0
   <!-- feedback: Error conceptual: el valor coincide, pero la operación correcta es una resta. -->
 - [ ] D) 1.25 kg, con la resta 1.50 − 0.25
   <!-- feedback: Error conceptual: se resta una cantidad equivocada; lo usado es 0.75 kg. -->
@@ -162,13 +162,13 @@ Lo que falta se calcula restando lo usado al total: 1.50 − 0.75 = 0.75 kg. Ide
 ### Enunciado
 ¿Por qué su razonamiento es incorrecto?
 ### Opciones
-- [x] A) Porque debe comparar décimas: 5.70 es mayor que 5.65
+- [x] D) Porque debe comparar décimas: 5.70 es mayor que 5.65
   <!-- feedback: Es correcto: al igualar a centésimas, 570 supera a 565. -->
-- [ ] B) Porque los números enteros de ambos son iguales
+- [ ] A) Porque los números enteros de ambos son iguales
   <!-- feedback: Error conceptual: que la parte entera sea igual no resuelve cuál decimal es mayor. -->
-- [ ] C) Porque 5.7 tiene menos cifras decimales
+- [ ] B) Porque 5.7 tiene menos cifras decimales
   <!-- feedback: Error conceptual: la cantidad de cifras no indica el valor del número. -->
-- [ ] D) Porque hay que sumar los decimales para poder comparar
+- [ ] C) Porque hay que sumar los decimales para poder comparar
   <!-- feedback: Error conceptual: para comparar se alinean las posiciones, no se suman los decimales. -->
 ### Explicacion Pedagogica
 Comparar decimales exige alinear las posiciones: 5.70 frente a 5.65. Comparar "7" con "65" como números enteros ignora el valor posicional y lleva a conclusiones falsas.
@@ -181,11 +181,11 @@ Comparar decimales exige alinear las posiciones: 5.70 frente a 5.65. Comparar "7
 ### Enunciado
 ¿Cuánta leche queda? Selecciona el razonamiento correcto.
 ### Opciones
-- [x] A) 2.0 L, restando 3.5 − 1.25 − 0.25
+- [x] C) 2.0 L, restando 3.5 − 1.25 − 0.25
   <!-- feedback: Es correcto: se restan todas las pérdidas: 3.50 − 1.25 − 0.25 = 2.00 L. -->
-- [ ] B) 2.5 L, restando solo la leche vendida
+- [ ] A) 2.5 L, restando solo la leche vendida
   <!-- feedback: Error conceptual: se omite el derrame de 0.25 L. -->
-- [ ] C) 1.75 L, sumando en vez de restar las pérdidas
+- [ ] B) 1.75 L, sumando en vez de restar las pérdidas
   <!-- feedback: Error conceptual: las pérdidas se restan; sumarlas aleja del resultado correcto. -->
 - [ ] D) 5.0 L, sumando todas las cantidades
   <!-- feedback: Error conceptual: sumar producción y pérdidas no representa lo que queda. -->
@@ -200,9 +200,9 @@ Cuando hay varias pérdidas se restan todas del total: 3.50 − 1.25 − 0.25 = 
 ### Enunciado
 ¿La afirmación es correcta? Justifica tu respuesta.
 ### Opciones
-- [x] A) No, porque 8.30 − 0.75 = 7.55
+- [x] B) No, porque 8.30 − 0.75 = 7.55
   <!-- feedback: Es correcto: al alinear y pedir prestado, 8.30 − 0.75 = 7.55. -->
-- [ ] B) Sí, porque 8.3 − 0.75 = 0.8
+- [ ] A) Sí, porque 8.3 − 0.75 = 0.8
   <!-- feedback: Error conceptual: 0.8 no proviene de la resta; es un error de alineación. -->
 - [ ] C) No, porque el resultado es 8.55
   <!-- feedback: Error conceptual: 8.55 sumaría las cantidades en lugar de restarlas. -->

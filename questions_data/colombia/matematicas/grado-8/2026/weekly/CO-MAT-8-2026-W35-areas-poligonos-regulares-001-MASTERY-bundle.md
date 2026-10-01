@@ -34,9 +34,9 @@ En un polígono regular, ¿cómo se llama el segmento perpendicular que va del c
 ### Opciones
 - [ ] A) Radio lateral
   <!-- feedback: Incorrecto. El radio va del centro a un vértice, no al punto medio del lado ni en forma perpendicular. -->
-- [x] B) Apotema
+- [x] C) Apotema
   <!-- feedback: Correcto. La apotema es la distancia perpendicular del centro al punto medio de cada lado. -->
-- [ ] C) Diagonal
+- [ ] B) Diagonal
   <!-- feedback: Incorrecto. La diagonal une dos vértices no consecutivos y no parte del centro en forma perpendicular. -->
 - [ ] D) Mediana
   <!-- feedback: Incorrecto. La mediana es un concepto de triángulos y de estadística, no la distancia centro-lado del polígono. -->
@@ -54,9 +54,9 @@ Todo polígono regular tiene centro, radio (centro-vértice) y apotema (centro-l
 ### Opciones
 - [ ] A) A = P + a
   <!-- feedback: Incorrecto. Sumar perímetro y apotema mezcla unidades lineales y no produce unidades cuadradas. -->
-- [x] B) A = (P × a) / 2
+- [x] C) A = (P × a) / 2
   <!-- feedback: Correcto. El área es la mitad del producto del perímetro por la apotema. -->
-- [ ] C) A = P × a
+- [ ] B) A = P × a
   <!-- feedback: Incorrecto. Falta dividir entre 2; ese producto duplica el área verdadera. -->
 - [ ] D) A = P² × a
   <!-- feedback: Incorrecto. Elevar el perímetro al cuadrado produce unidades cúbicas incorrectas para un área. -->
@@ -76,9 +76,9 @@ El polígono se divide en n triángulos de base l y altura a: área total = n ×
   <!-- feedback: Incorrecto. Ese valor duplica el lado en vez de elevarlo al cuadrado; es el semiperímetro, no el área. -->
 - [ ] B) 120 cm
   <!-- feedback: Incorrecto. Ese valor es el perímetro (4 × 30) y además está en unidades lineales, no cuadradas. -->
-- [x] C) 900 cm²
+- [x] D) 900 cm²
   <!-- feedback: Correcto. El área del cuadrado es lado al cuadrado: 30 × 30 = 900 cm². -->
-- [ ] D) 90 cm²
+- [ ] C) 90 cm²
   <!-- feedback: Incorrecto. Ese valor multiplica 30 × 3; debes multiplicar 30 × 30. -->
 ### Explicacion Pedagogica
 El cuadrado es un polígono regular de 4 lados y su área es l². Con l = 30 cm, A = 900 cm². También coincide con P × a/2 = 120 × 15/2 = 900, pues su apotema es l/2 = 15 cm.
@@ -92,11 +92,11 @@ El cuadrado es un polígono regular de 4 lados y su área es l². Con l = 30 cm,
 ### Enunciado
 ¿Cuál es el área del patio?
 ### Opciones
-- [x] A) 374,4 m²
+- [x] C) 374,4 m²
   <!-- feedback: Correcto. El perímetro es 72 m y A = (72 × 10,4)/2 = 748,8/2 = 374,4 m². -->
-- [ ] B) 124,8 m²
+- [ ] A) 124,8 m²
   <!-- feedback: Incorrecto. Ese valor es (24 × 10,4)/2; usaste 24 en vez de 72 como perímetro del hexágono. -->
-- [ ] C) 748,8 m²
+- [ ] B) 748,8 m²
   <!-- feedback: Incorrecto. Ese valor es P × a sin dividir entre 2; falta la mitad de la fórmula. -->
 - [ ] D) 62,4 m²
   <!-- feedback: Incorrecto. Ese valor es 6 × 10,4; debes usar el perímetro 72, no el número de lados. -->
@@ -174,9 +174,9 @@ Si el hexágono tiene apotema de 8,7 cm y cada triángulo externo tiene altura d
 ### Opciones
 - [ ] A) 261 cm²
   <!-- feedback: Incorrecto. Esa es solo el área del hexágono (60 × 8,7)/2; faltan los 6 triángulos externos. -->
-- [x] B) 522 cm²
+- [x] C) 522 cm²
   <!-- feedback: Correcto. Hexágono 261 cm² más 6 triángulos de 43,5 cm² cada uno (261 cm²) totalizan 522 cm². -->
-- [ ] C) 435 cm²
+- [ ] B) 435 cm²
   <!-- feedback: Incorrecto. Ese valor suma mal las partes; cada triángulo externo mide (10 × 8,7)/2 = 43,5 cm². -->
 - [ ] D) 783 cm²
   <!-- feedback: Incorrecto. Ese valor triplica el área del hexágono; los triángulos externos suman otros 261 cm², no 522. -->
@@ -192,9 +192,9 @@ Si el hexágono tiene apotema de 8,7 cm y cada triángulo externo tiene altura d
 ### Enunciado
 ¿Cuál es el área de la plaza grande?
 ### Opciones
-- [ ] A) 92,85 m²
+- [ ] B) 92,85 m²
   <!-- feedback: Incorrecto. Ese valor multiplica por 1,5 (razón lineal); las áreas se multiplican por el cuadrado de la razón. -->
-- [x] B) 139,28 m²
+- [x] A) 139,28 m²
   <!-- feedback: Correcto. La razón lineal es 9/6 = 1,5 y la de áreas es 2,25; 61,9 × 2,25 ≈ 139,28 m². -->
 - [ ] C) 123,8 m²
   <!-- feedback: Incorrecto. Ese valor duplica el área pequeña; la razón de áreas es 2,25, no 2. -->
@@ -212,9 +212,9 @@ En figuras semejantes de razón lineal r, las áreas están en razón r². Aquí
 ### Enunciado
 ¿Es correcta la afirmación del operario?
 ### Opciones
-- [ ] A) Sí, porque 4 × 31 = 124
+- [ ] B) Sí, porque 4 × 31 = 124
   <!-- feedback: Incorrecto. Esa multiplicación no corresponde a la fórmula; el perímetro del decágono es 40, no 31. -->
-- [x] B) Sí, porque P = 40 cm y A = (40 × 6,2)/2 = 124 cm²
+- [x] A) Sí, porque P = 40 cm y A = (40 × 6,2)/2 = 124 cm²
   <!-- feedback: Correcto. El cálculo verifica la fórmula: 248/2 = 124 cm², por lo que el operario tiene razón. -->
 - [ ] C) No, el área correcta es 248 cm²
   <!-- feedback: Incorrecto. Ese valor olvida dividir entre 2; el área verdadera es 124 cm². -->
@@ -232,9 +232,9 @@ Evaluar exige verificar: P = 10 × 4 = 40 cm; A = (40 × 6,2)/2 = 124 cm². La a
 ### Enunciado
 ¿Cuál bandeja tiene mayor área y por cuánto se diferencian?
 ### Opciones
-- [ ] A) La hexagonal, por 36,6 cm²
+- [ ] B) La hexagonal, por 36,6 cm²
   <!-- feedback: Incorrecto. El área hexagonal es 1038 cm² y la circular es mayor; el orden está invertido. -->
-- [x] B) La circular, por 218,6 cm²
+- [x] A) La circular, por 218,6 cm²
   <!-- feedback: Correcto. Hexágono: (120 × 17,3)/2 = 1038 cm²; círculo: 3,14 × 400 = 1256 cm²; diferencia 218 cm² a favor del círculo. -->
 - [ ] C) Son iguales, diferencia 0 cm²
   <!-- feedback: Incorrecto. 1038 ≠ 1256; el círculo de radio 20 supera al hexágono de lado 20. -->

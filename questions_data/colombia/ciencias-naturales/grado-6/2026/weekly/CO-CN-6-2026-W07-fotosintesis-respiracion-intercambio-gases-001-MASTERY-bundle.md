@@ -32,13 +32,13 @@ Este bundle de 10 preguntas explica las entradas y salidas de la fotosíntesis, 
 ### Enunciado
 ¿Qué tres elementos necesita la planta para realizar la fotosíntesis?
 ### Opciones
-- [x] A) Luz solar, agua y dióxido de carbono
+- [x] D) Luz solar, agua y dióxido de carbono
   <!-- feedback: Correcto. Esos tres ingredientes permiten fabricar glucosa y liberar oxígeno. -->
-- [ ] B) Oxígeno, carne y tierra seca
+- [ ] A) Oxígeno, carne y tierra seca
   <!-- feedback: Incorrecto. Las plantas no comen carne ni usan oxígeno como ingrediente de la fotosíntesis. -->
-- [ ] C) Azúcar, proteína y grasa
+- [ ] B) Azúcar, proteína y grasa
   <!-- feedback: Incorrecto. Esos son productos o nutrientes de animales, no ingredientes de la fotosíntesis. -->
-- [ ] D) Sal, vinagre y humo
+- [ ] C) Sal, vinagre y humo
   <!-- feedback: Incorrecto. Ninguno de esos elementos participa en la fabricación del alimento vegetal. -->
 ### Explicacion Pedagogica
 La fotosíntesis usa energía luminosa para unir agua y dióxido de carbono y producir glucosa.
@@ -52,13 +52,13 @@ La fotosíntesis usa energía luminosa para unir agua y dióxido de carbono y pr
 ### Enunciado
 ¿Qué gas libera la planta como producto de la fotosíntesis?
 ### Opciones
-- [x] A) Oxígeno, que luego usan los animales para respirar
+- [x] D) Oxígeno, que luego usan los animales para respirar
   <!-- feedback: Correcto. El oxígeno es el gas liberado por la fotosíntesis. -->
-- [ ] B) Dióxido de carbono, que es el alimento de la planta
+- [ ] A) Dióxido de carbono, que es el alimento de la planta
   <!-- feedback: Incorrecto. El dióxido de carbono es ingrediente que entra, no el gas que sale. -->
-- [ ] C) Nitrógeno, que forma las nubes del cielo
+- [ ] B) Nitrógeno, que forma las nubes del cielo
   <!-- feedback: Incorrecto. El nitrógeno abunda en el aire pero no es producto de la fotosíntesis. -->
-- [ ] D) Hidrógeno puro, que explota con el sol
+- [ ] C) Hidrógeno puro, que explota con el sol
   <!-- feedback: Incorrecto. La planta no libera hidrógeno gaseoso puro. -->
 ### Explicacion Pedagogica
 Entran agua y dióxido de carbono; salen glucosa y oxígeno gracias a la luz.
@@ -72,11 +72,11 @@ Entran agua y dióxido de carbono; salen glucosa y oxígeno gracias a la luz.
 ### Enunciado
 ¿Dónde ocurre la fotosíntesis dentro de la hoja de caña y qué pigmento la hace posible?
 ### Opciones
-- [x] A) En los cloroplastos, gracias a la clorofila que capta la luz
+- [x] C) En los cloroplastos, gracias a la clorofila que capta la luz
   <!-- feedback: Correcto. El cloroplasto con clorofila es el sitio exacto de la fotosíntesis. -->
-- [ ] B) En las mitocondrias, gracias a la hemoglobina de la sangre
+- [ ] A) En las mitocondrias, gracias a la hemoglobina de la sangre
   <!-- feedback: Incorrecto. Las mitocondrias respiran y la hemoglobina es de animales, no de plantas. -->
-- [ ] C) En la pared celular, gracias a la madera dura
+- [ ] B) En la pared celular, gracias a la madera dura
   <!-- feedback: Incorrecto. La pared da soporte, pero no capta luz ni fabrica azúcar. -->
 - [ ] D) En la raíz profunda, gracias a la oscuridad del suelo
   <!-- feedback: Incorrecto. Sin luz no hay fotosíntesis; la raíz absorbe agua y sales. -->
@@ -92,13 +92,13 @@ La clorofila dentro del cloroplasto absorbe luz roja y azul y refleja el verde q
 ### Enunciado
 ¿Cómo se llaman esos poros y qué intercambio permiten?
 ### Opciones
-- [x] A) Estomas, que dejan entrar dióxido de carbono y salir oxígeno y vapor de agua
+- [x] D) Estomas, que dejan entrar dióxido de carbono y salir oxígeno y vapor de agua
   <!-- feedback: Correcto. Los estomas regulan el intercambio de gases y la pérdida de agua. -->
-- [ ] B) Bronquios, que llevan aire a los pulmones de la planta
+- [ ] A) Bronquios, que llevan aire a los pulmones de la planta
   <!-- feedback: Incorrecto. Los bronquios son de animales con pulmones, no de plantas. -->
-- [ ] C) Pupilas, que permiten ver la luz del sol
+- [ ] B) Pupilas, que permiten ver la luz del sol
   <!-- feedback: Incorrecto. Las plantas no tienen ojos ni pupilas. -->
-- [ ] D) Raíces aéreas, que absorben tierra sólida
+- [ ] C) Raíces aéreas, que absorben tierra sólida
   <!-- feedback: Incorrecto. Las raíces absorben agua, y los poros de la hoja son los estomas. -->
 ### Explicacion Pedagogica
 Los estomas son poros con células guardianas que se abren de día para fotosintetizar y se cierran para ahorrar agua.
@@ -112,11 +112,11 @@ Los estomas son poros con células guardianas que se abren de día para fotosint
 ### Enunciado
 ¿Qué proceso realiza el atleta en sus músculos al respirar más rápido?
 ### Opciones
-- [x] A) La respiración celular, que usa oxígeno y glucosa para liberar energía
+- [x] C) La respiración celular, que usa oxígeno y glucosa para liberar energía
   <!-- feedback: Correcto. Al respirar rápido lleva más oxígeno para producir energía en las mitocondrias. -->
-- [ ] B) La fotosíntesis, porque suda bajo el sol
+- [ ] A) La fotosíntesis, porque suda bajo el sol
   <!-- feedback: Incorrecto. Los humanos no tienen clorofila ni hacen fotosíntesis. -->
-- [ ] C) La germinación, porque sus piernas crecen como plantas
+- [ ] B) La germinación, porque sus piernas crecen como plantas
   <!-- feedback: Incorrecto. La germinación es el nacimiento de una planta desde la semilla. -->
 - [ ] D) La fermentación del suelo, porque pisa la arena
   <!-- feedback: Incorrecto. Pisar arena no produce energía dentro del músculo. -->
@@ -172,9 +172,9 @@ Sin intercambio gaseoso la hoja no recibe dióxido de carbono para fotosintetiza
 ### Enunciado
 ¿Qué relación entre ambos procesos es correcta?
 ### Opciones
-- [x] A) La fotosíntesis fabrica glucosa y oxígeno de día, y la respiración usa esa glucosa día y noche para dar energía
+- [x] B) La fotosíntesis fabrica glucosa y oxígeno de día, y la respiración usa esa glucosa día y noche para dar energía
   <!-- feedback: Correcto. La planta fotosintetiza con luz pero respira siempre para vivir. -->
-- [ ] B) La planta solo fotosintetiza de noche y solo respira de día
+- [ ] A) La planta solo fotosintetiza de noche y solo respira de día
   <!-- feedback: Incorrecto. La fotosíntesis exige luz; la respiración ocurre las 24 horas. -->
 - [ ] C) La fotosíntesis y la respiración son el mismo proceso con distinto nombre
   <!-- feedback: Incorrecto. Uno construye alimento con luz y el otro libera su energía con oxígeno. -->
@@ -192,9 +192,9 @@ Fotosíntesis y respiración son opuestos y complementarios: una guarda energía
 ### Enunciado
 ¿Qué resultados y juicio confirman ambos procesos en la misma planta?
 ### Opciones
-- [x] A) Con luz el oxígeno aumenta por fotosíntesis mayor que la respiración, y en oscuridad disminuye porque solo respira
+- [x] B) Con luz el oxígeno aumenta por fotosíntesis mayor que la respiración, y en oscuridad disminuye porque solo respira
   <!-- feedback: Correcto. De día predomina la producción de oxígeno; de noche solo hay consumo. -->
-- [ ] B) El oxígeno aumenta igual en luz y oscuridad porque la planta no respira
+- [ ] A) El oxígeno aumenta igual en luz y oscuridad porque la planta no respira
   <!-- feedback: Incorrecto. En oscuridad no hay fotosíntesis y el oxígeno baja por la respiración. -->
 - [ ] C) El oxígeno siempre baja porque la fotosíntesis consume oxígeno
   <!-- feedback: Incorrecto. La fotosíntesis libera oxígeno; la que lo consume es la respiración. -->
@@ -212,11 +212,11 @@ Evaluar curvas de oxígeno demuestra que fotosíntesis y respiración ocurren a 
 ### Enunciado
 ¿Qué evaluación de las tres afirmaciones es científicamente correcta?
 ### Opciones
-- [x] A) La 1 es falsa porque las plantas también respiran, la 2 es verdadera y la 3 es verdadera
+- [x] C) La 1 es falsa porque las plantas también respiran, la 2 es verdadera y la 3 es verdadera
   <!-- feedback: Correcto. Las plantas hacen ambos procesos y dependen de los estomas para los gases. -->
-- [ ] B) Las tres son verdaderas porque las plantas nunca usan oxígeno
+- [ ] A) Las tres son verdaderas porque las plantas nunca usan oxígeno
   <!-- feedback: Incorrecto. Las plantas consumen oxígeno en sus mitocondrias para obtener energía. -->
-- [ ] C) Las tres son falsas porque los estomas no existen en las hojas
+- [ ] B) Las tres son falsas porque los estomas no existen en las hojas
   <!-- feedback: Incorrecto. Los estomas son poros reales visibles al microscopio. -->
 - [ ] D) Solo la 1 es verdadera y las demás son falsas
   <!-- feedback: Incorrecto. La 1 es el error clásico: ignora la respiración vegetal permanente. -->

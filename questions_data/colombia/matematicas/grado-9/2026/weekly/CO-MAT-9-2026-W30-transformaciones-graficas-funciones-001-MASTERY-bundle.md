@@ -52,13 +52,13 @@ Sumar una constante k a f(x) traslada la gráfica verticalmente: con k = 2, todo
 ### Enunciado
 ¿Qué significa la transformación y igual a f(x - 3)?
 ### Opciones
-- [x] A) La gráfica se desplaza 3 unidades a la derecha
+- [x] D) La gráfica se desplaza 3 unidades a la derecha
   <!-- feedback: Correcto. Restar dentro de la función desplaza a la derecha. -->
-- [ ] B) La gráfica se desplaza 3 unidades a la izquierda
+- [ ] A) La gráfica se desplaza 3 unidades a la izquierda
   <!-- feedback: Incorrecto. Eso ocurriría con y igual a f(x + 3). -->
-- [ ] C) La gráfica se desplaza 3 unidades hacia arriba
+- [ ] B) La gráfica se desplaza 3 unidades hacia arriba
   <!-- feedback: Incorrecto. El desplazamiento vertical se escribe fuera de la función. -->
-- [ ] D) La gráfica se desplaza 3 unidades hacia abajo
+- [ ] C) La gráfica se desplaza 3 unidades hacia abajo
   <!-- feedback: Incorrecto. El desplazamiento vertical se escribe fuera de la función. -->
 ### Explicacion Pedagogica
 Los cambios dentro del argumento actúan al contrario de lo esperado: x menos 3 mueve la gráfica 3 lugares a la derecha.
@@ -112,13 +112,13 @@ En y igual a (x menos h) al cuadrado, el vértice es (h, 0); con h = 2 queda (2,
 ### Enunciado
 ¿Qué representa la gráfica de y igual a menos f(x) respecto a la de y igual a f(x)?
 ### Opciones
-- [x] A) Una reflexión respecto al eje x
+- [x] D) Una reflexión respecto al eje x
   <!-- feedback: Correcto. Cambiar el signo de las imágenes invierte la gráfica verticalmente. -->
-- [ ] B) Una reflexión respecto al eje y
+- [ ] A) Una reflexión respecto al eje y
   <!-- feedback: Incorrecto. Eso corresponde a y igual a f(menos x). -->
-- [ ] C) Un giro respecto al origen sin reflexión
+- [ ] B) Un giro respecto al origen sin reflexión
   <!-- feedback: Incorrecto. El giro de media vuelta corresponde a menos f(menos x). -->
-- [ ] D) Una reflexión respecto a la recta y igual a x
+- [ ] C) Una reflexión respecto a la recta y igual a x
   <!-- feedback: Incorrecto. Esa reflexión corresponde a la función inversa. -->
 ### Explicacion Pedagogica
 Multiplicar la función por menos uno cambia el signo de cada y: lo que estaba arriba pasa abajo y viceversa.
@@ -132,11 +132,11 @@ Multiplicar la función por menos uno cambia el signo de cada y: lo que estaba a
 ### Enunciado
 ¿Cuánto vale g(1)?
 ### Opciones
-- [x] A) 6
+- [x] C) 6
   <!-- feedback: Correcto. Se duplica la imagen: 2 por 3 = 6. -->
-- [ ] B) 3
+- [ ] A) 3
   <!-- feedback: Incorrecto. Ese es el valor original de f(1) sin transformar. -->
-- [ ] C) 1.5
+- [ ] B) 1.5
   <!-- feedback: Incorrecto. Dividiste entre 2 en vez de multiplicar por 2. -->
 - [ ] D) 5
   <!-- feedback: Incorrecto. Sumaste 2 en vez de multiplicar por 2. -->
@@ -152,11 +152,11 @@ La transformación y igual a 2 f(x) estira verticalmente al doble: cada imagen q
 ### Enunciado
 ¿Qué relación hay entre las dos gráficas?
 ### Opciones
-- [x] A) La segunda es la primera desplazada 5 unidades a la izquierda
+- [x] C) La segunda es la primera desplazada 5 unidades a la izquierda
   <!-- feedback: Correcto. Sumar 5 dentro del cuadrado mueve la gráfica a la izquierda. -->
-- [ ] B) La segunda es la primera desplazada 5 unidades a la derecha
+- [ ] A) La segunda es la primera desplazada 5 unidades a la derecha
   <!-- feedback: Incorrecto. Eso ocurriría con y igual a (x - 5) al cuadrado. -->
-- [ ] C) La segunda es la primera desplazada 5 unidades hacia arriba
+- [ ] B) La segunda es la primera desplazada 5 unidades hacia arriba
   <!-- feedback: Incorrecto. El desplazamiento vertical se escribe fuera del cuadrado. -->
 - [ ] D) La segunda es la primera desplazada 5 unidades hacia abajo
   <!-- feedback: Incorrecto. El desplazamiento vertical se escribe fuera del cuadrado. -->
@@ -172,13 +172,13 @@ El vértice pasa de (0, 0) a (menos 5, 0): la forma es idéntica, solo cambia la
 ### Enunciado
 ¿Cuál es el valor máximo de esa función?
 ### Opciones
-- [x] A) 1
+- [x] D) 1
   <!-- feedback: Correcto. El vértice es (0, 1) y la parábola abre hacia abajo. -->
-- [ ] B) 0
+- [ ] A) 0
   <!-- feedback: Incorrecto. Ese es el máximo de y igual a menos x al cuadrado, sin el + 1. -->
-- [ ] C) Menos 1
+- [ ] B) Menos 1
   <!-- feedback: Incorrecto. Confundiste el signo del desplazamiento vertical. -->
-- [ ] D) No tiene máximo
+- [ ] C) No tiene máximo
   <!-- feedback: Incorrecto. Toda parábola que abre hacia abajo tiene un máximo en su vértice. -->
 ### Explicacion Pedagogica
 La reflexión invierte la parábola y el + 1 la sube: el punto más alto queda en (0, 1).
@@ -192,11 +192,11 @@ La reflexión invierte la parábola y el + 1 la sube: el punto más alto queda e
 ### Enunciado
 ¿Cuánto vale g(2)?
 ### Opciones
-- [x] A) 2
+- [x] C) 2
   <!-- feedback: Correcto. Se resta 3 a la imagen: 5 menos 3 = 2. -->
-- [ ] B) 5
+- [ ] A) 5
   <!-- feedback: Incorrecto. Ese es el valor de f(2) sin la transformación. -->
-- [ ] C) 8
+- [ ] B) 8
   <!-- feedback: Incorrecto. Sumaste 3 en vez de restar 3. -->
 - [ ] D) Menos 3
   <!-- feedback: Incorrecto. Olvidaste partir del valor f(2) = 5. -->
@@ -212,13 +212,13 @@ Restar 3 fuera de la función baja cada punto 3 unidades: g(2) = f(2) menos 3 = 
 ### Enunciado
 ¿Qué punto de g corresponde al punto (3, 4) de f?
 ### Opciones
-- [x] A) El punto (2, 6)
+- [x] D) El punto (2, 6)
   <!-- feedback: Correcto. La gráfica se mueve 1 a la izquierda y 2 hacia arriba: (2, 6). -->
-- [ ] B) El punto (4, 6)
+- [ ] A) El punto (4, 6)
   <!-- feedback: Incorrecto. Moviste a la derecha en vez de a la izquierda. -->
-- [ ] C) El punto (2, 2)
+- [ ] B) El punto (2, 2)
   <!-- feedback: Incorrecto. Moviste hacia abajo en vez de hacia arriba. -->
-- [ ] D) El punto (4, 2)
+- [ ] C) El punto (4, 2)
   <!-- feedback: Incorrecto. Invertiste ambas direcciones del desplazamiento. -->
 ### Explicacion Pedagogica
 La transformación combina x + 1 (izquierda 1) con + 2 (arriba 2): x pasa de 3 a 2 y y pasa de 4 a 6.
@@ -252,9 +252,9 @@ El factor dentro del argumento acelera la entrada y comprime la gráfica hacia e
 ### Enunciado
 ¿Cuál es el error cometido?
 ### Opciones
-- [x] A) El vértice es (4, 0), porque x - 4 se anula en x = 4
+- [x] B) El vértice es (4, 0), porque x - 4 se anula en x = 4
   <!-- feedback: Correcto. La parábola se desplaza 4 a la derecha, no a la izquierda. -->
-- [ ] B) No hay error: el vértice sí es (menos 4, 0)
+- [ ] A) No hay error: el vértice sí es (menos 4, 0)
   <!-- feedback: Incorrecto. Al evaluar en menos 4 se obtiene 64, no 0. -->
 - [ ] C) El vértice es (0, menos 4)
   <!-- feedback: Incorrecto. Confundiste el desplazamiento horizontal con uno vertical. -->

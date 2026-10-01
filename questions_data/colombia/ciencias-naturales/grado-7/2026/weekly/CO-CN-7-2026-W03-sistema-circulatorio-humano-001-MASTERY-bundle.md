@@ -80,9 +80,9 @@ Las arterias tienen paredes gruesas para soportar alta presión de salida, mient
 ¿Por qué el esfuerzo físico se siente más intenso cuando se llega a la altura de Bogotá?
 
 ### Opciones
-- [ ] A) Porque el corazón deja de bombear sangre en la altura
+- [ ] B) Porque el corazón deja de bombear sangre en la altura
   <!-- feedback: Incorrecta porque el corazón sigue bombeando, aunque trabaja más rápido. -->
-- [x] B) Porque hay menos oxígeno disponible y el corazón y la respiración aceleran su ritmo
+- [x] A) Porque hay menos oxígeno disponible y el corazón y la respiración aceleran su ritmo
   <!-- feedback: Correcta porque la menor presión parcial de oxígeno exige mayor trabajo cardiopulmonar. -->
 - [ ] C) Porque las arterias se convierten en venas con la altura
   <!-- feedback: Incorrecta porque los vasos no cambian de tipo según la altura. -->
@@ -105,9 +105,9 @@ A mayor altura hay menor disponibilidad de oxígeno, de modo que el cuerpo compe
 ### Opciones
 - [ ] A) Las plaquetas, que forman coágulos
   <!-- feedback: Incorrecta porque las plaquetas participan en la coagulación, no en llevar oxígeno. -->
-- [x] B) Los glóbulos rojos con hemoglobina
+- [x] C) Los glóbulos rojos con hemoglobina
   <!-- feedback: Correcta porque la hemoglobina de los glóbulos rojos transporta el oxígeno. -->
-- [ ] C) El plasma sin células
+- [ ] B) El plasma sin células
   <!-- feedback: Incorrecta porque el plasma transporta sustancias disueltas, pero el oxígeno viaja sobre todo en glóbulos rojos. -->
 - [ ] D) Los glóbulos blancos exclusivamente
   <!-- feedback: Incorrecta porque los glóbulos blancos defienden contra infecciones, no transportan oxígeno. -->
@@ -128,9 +128,9 @@ La hemoglobina contiene hierro y fija el oxígeno en los pulmones para liberarlo
 ### Opciones
 - [ ] A) Viajan por los nervios hasta los músculos
   <!-- feedback: Incorrecta porque los nervios llevan impulsos, no nutrientes digeridos. -->
-- [x] B) Pasan del intestino a la sangre y la circulación los distribuye
+- [x] C) Pasan del intestino a la sangre y la circulación los distribuye
   <!-- feedback: Correcta porque los nutrientes absorbidos viajan en la sangre a todo el cuerpo. -->
-- [ ] C) Pasan directo del estómago a las piernas sin usar vasos
+- [ ] B) Pasan directo del estómago a las piernas sin usar vasos
   <!-- feedback: Incorrecta porque todo transporte interno requiere los vasos sanguíneos. -->
 - [ ] D) Se transforman en aire dentro de los pulmones
   <!-- feedback: Incorrecta porque los nutrientes y el aire siguen rutas distintas. -->
@@ -151,11 +151,11 @@ Los nutrientes absorbidos en el intestino delgado entran a capilares y viajan po
 ### Opciones
 - [ ] A) La menor lleva nutrientes al cuerpo y la mayor lleva aire a los pulmones
   <!-- feedback: Incorrecta porque confunde el contenido transportado con el destino del circuito. -->
-- [x] B) La menor intercambia gases en los pulmones y la mayor distribuye oxígeno y recoge dióxido de carbono en el cuerpo
+- [x] D) La menor intercambia gases en los pulmones y la mayor distribuye oxígeno y recoge dióxido de carbono en el cuerpo
   <!-- feedback: Correcta porque diferencia el circuito pulmonar del circuito sistémico por su función. -->
-- [ ] C) Ambas ocurren solo dentro del corazón sin salir a otros órganos
+- [ ] B) Ambas ocurren solo dentro del corazón sin salir a otros órganos
   <!-- feedback: Incorrecta porque ambos circuitos salen del corazón hacia pulmones o cuerpo. -->
-- [ ] D) La mayor ocurre en plantas y la menor en humanos
+- [ ] C) La mayor ocurre en plantas y la menor en humanos
   <!-- feedback: Incorrecta porque ambas circulaciones descritas son del cuerpo humano. -->
 
 ### Explicacion Pedagogica
@@ -172,9 +172,9 @@ La circulación menor oxigena la sangre en los pulmones y la mayor la reparte po
 ¿Por qué aumenta el pulso después del esfuerzo físico?
 
 ### Opciones
-- [ ] A) Porque los huesos empujan la sangre más rápido
+- [ ] B) Porque los huesos empujan la sangre más rápido
   <!-- feedback: Incorrecta porque los huesos no impulsan la sangre. -->
-- [x] B) Porque los músculos necesitan más oxígeno y el corazón late más veces por minuto
+- [x] A) Porque los músculos necesitan más oxígeno y el corazón late más veces por minuto
   <!-- feedback: Correcta porque relaciona demanda de oxígeno con mayor frecuencia cardiaca. -->
 - [ ] C) Porque las venas dejan de devolver sangre al corazón
   <!-- feedback: Incorrecta porque el retorno venoso aumenta con el ejercicio, no se detiene. -->
@@ -195,9 +195,9 @@ El pulso refleja cada contracción cardiaca. Durante el ejercicio, las células 
 ¿Qué hábito ayuda a cuidar los vasos sanguíneos y por qué?
 
 ### Opciones
-- [ ] A) Consumir gaseosa y paquetes todos los días porque dan energía
+- [ ] B) Consumir gaseosa y paquetes todos los días porque dan energía
   <!-- feedback: Incorrecta porque el exceso de sal, azúcar y grasas eleva la presión y daña arterias. -->
-- [x] B) Reducir la sal, hacer actividad física y comer frutas y verduras
+- [x] A) Reducir la sal, hacer actividad física y comer frutas y verduras
   <!-- feedback: Correcta porque estos hábitos mantienen elásticas las arterias y regulan la presión. -->
 - [ ] C) Evitar toda actividad física para no cansar el corazón
   <!-- feedback: Incorrecta porque el sedentarismo debilita el corazón y empeora la circulación. -->
@@ -220,11 +220,11 @@ La presión alta daña el endotelio arterial con el tiempo. La actividad física
 ### Opciones
 - [ ] A) Se acepta porque el limón fabrica glóbulos rojos de inmediato
   <!-- feedback: Incorrecta porque ningún alimento crea glóbulos rojos de forma instantánea. -->
-- [x] B) Se rechaza como receta única porque el cansancio puede tener muchas causas y requiere diagnóstico
+- [x] D) Se rechaza como receta única porque el cansancio puede tener muchas causas y requiere diagnóstico
   <!-- feedback: Correcta porque evalúa la afirmación con criterio médico y evidencia. -->
-- [ ] C) Se acepta porque el agua reemplaza por completo a la sangre
+- [ ] B) Se acepta porque el agua reemplaza por completo a la sangre
   <!-- feedback: Incorrecta porque el agua hidrata, pero no reemplaza las funciones de la sangre. -->
-- [ ] D) Se rechaza porque hidratarse siempre es dañino
+- [ ] C) Se rechaza porque hidratarse siempre es dañino
   <!-- feedback: Incorrecta porque hidratarse es saludable, pero no cura todas las causas del cansancio. -->
 
 ### Explicacion Pedagogica
@@ -241,9 +241,9 @@ El cansancio persistente puede deberse a anemia, infecciones o problemas cardiac
 ¿Cuál es la mejor inversión de ese presupuesto desde la evidencia científica?
 
 ### Opciones
-- [ ] A) Comprar pulseras magnéticas que prometen limpiar la sangre
+- [ ] B) Comprar pulseras magnéticas que prometen limpiar la sangre
   <!-- feedback: Incorrecta porque esos productos carecen de evidencia científica. -->
-- [x] B) Instalar puntos de hidratación, fruta fresca y torneos deportivos semanales
+- [x] A) Instalar puntos de hidratación, fruta fresca y torneos deportivos semanales
   <!-- feedback: Correcta porque promueve hidratación, dieta sana y ejercicio con efecto comprobado. -->
 - [ ] C) Repartir energizantes para rendir más en educación física
   <!-- feedback: Incorrecta porque los energizantes alteran el ritmo cardiaco en menores. -->

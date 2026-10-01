@@ -50,11 +50,11 @@ Describir es presentar las características de algo. En una buena descripción s
 ### Enunciado
 ¿Qué se entiende de la descripción del perro de Tomás?
 ### Opciones
-- [x] A) Que sus rasgos físicos son el tamaño, el color del pelo y las orejas, y que muestra alegría al verlo llegar.
+- [x] C) Que sus rasgos físicos son el tamaño, el color del pelo y las orejas, y que muestra alegría al verlo llegar.
   <!-- feedback: Es correcta porque reúne los rasgos físicos y el comportamiento descritos. -->
-- [ ] B) Que el perro es grande y de pelo negro.
+- [ ] A) Que el perro es grande y de pelo negro.
   <!-- feedback: Es incorrecta porque la descripción dice que es pequeño y de pelo café. -->
-- [ ] C) Que el perro vive en el parque y no con Tomás.
+- [ ] B) Que el perro vive en el parque y no con Tomás.
   <!-- feedback: Es incorrecta porque la descripción no menciona dónde vive el perro. -->
 - [ ] D) Que el perro no reconoce a Tomás cuando llega.
   <!-- feedback: Es incorrecta porque mover la cola indica que sí lo reconoce. -->
@@ -70,9 +70,9 @@ Entender una descripción consiste en separar los rasgos físicos de los de comp
 ### Enunciado
 ¿Cuál descripción permite identificar mejor un borrador?
 ### Opciones
-- [x] A) Es pequeño, rectangular, de caucho blanco y sirve para borrar el lápiz.
+- [x] B) Es pequeño, rectangular, de caucho blanco y sirve para borrar el lápiz.
   <!-- feedback: Es correcta porque menciona forma, material, color y uso del objeto. -->
-- [ ] B) Es un objeto que existe en muchos colores.
+- [ ] A) Es un objeto que existe en muchos colores.
   <!-- feedback: Es incorrecta porque esa idea sirve para casi cualquier objeto y no lo identifica. -->
 - [ ] C) Es algo que se usa en el colegio.
   <!-- feedback: Es incorrecta porque muchos objetos escolares cumplen esa condición. -->
@@ -90,11 +90,11 @@ Aplicar la descripción exige elegir los datos que permitan reconocer el objeto:
 ### Enunciado
 ¿Cuál característica de la descripción indica lo que el loro sabe hacer?
 ### Opciones
-- [x] A) Repetir algunas palabras.
+- [x] C) Repetir algunas palabras.
   <!-- feedback: Es correcta porque repetir palabras describe una acción o habilidad del loro. -->
-- [ ] B) Tener plumas verdes.
+- [ ] A) Tener plumas verdes.
   <!-- feedback: Es incorrecta porque las plumas verdes son un rasgo físico. -->
-- [ ] C) Tener el pico curvo.
+- [ ] B) Tener el pico curvo.
   <!-- feedback: Es incorrecta porque el pico curvo es también un rasgo físico. -->
 - [ ] D) Ser un loro.
   <!-- feedback: Es incorrecta porque esa palabra nombra al animal y no menciona una acción. -->
@@ -110,13 +110,13 @@ Aplicar la descripción implica reconocer qué tipo de dato aporta cada palabra.
 ### Enunciado
 ¿Qué datos de esa descripción ayudan a un estudiante a decidir la compra?
 ### Opciones
-- [x] A) La cantidad de hojas, el tipo de pasta y el precio en pesos.
+- [x] D) La cantidad de hojas, el tipo de pasta y el precio en pesos.
   <!-- feedback: Es correcta porque esos tres datos permiten comparar el cuaderno con otros. -->
-- [ ] B) Solo el nombre de la papelería.
+- [ ] A) Solo el nombre de la papelería.
   <!-- feedback: Es incorrecta porque el nombre del local no describe el cuaderno. -->
-- [ ] C) El día en que llegó el pedido.
+- [ ] B) El día en que llegó el pedido.
   <!-- feedback: Es incorrecta porque la descripción no menciona ese dato. -->
-- [ ] D) El color de la vitrina.
+- [ ] C) El color de la vitrina.
   <!-- feedback: Es incorrecta porque el color de la vitrina no informa sobre el cuaderno. -->
 ### Explicacion Pedagogica
 En la vida diaria describimos objetos para tomar decisiones, como comprar un cuaderno. Los datos útiles son las características del producto: número de hojas, tipo de pasta y precio en pesos colombianos. Aprender a fijarse en esos detalles ayuda a comparar opciones y a elegir mejor.
@@ -130,11 +130,11 @@ En la vida diaria describimos objetos para tomar decisiones, como comprar un cua
 ### Enunciado
 Ana dice: "Es lenta y tiene caparazón duro". Luis dice: "Es un animal que se mueve despacio y lleva su casa encima". ¿Cuál es la diferencia principal entre las dos descripciones?
 ### Opciones
-- [x] A) Que Luis usa una comparación figurada y Ana describe con rasgos directos.
+- [x] C) Que Luis usa una comparación figurada y Ana describe con rasgos directos.
   <!-- feedback: Es correcta porque Luis llama "casa" al caparazón en sentido figurado. -->
-- [ ] B) Que Ana habla de un animal diferente al de Luis.
+- [ ] A) Que Ana habla de un animal diferente al de Luis.
   <!-- feedback: Es incorrecta porque las dos descripciones se refieren a la tortuga. -->
-- [ ] C) Que Luis no conoce a la tortuga de la clase.
+- [ ] B) Que Luis no conoce a la tortuga de la clase.
   <!-- feedback: Es incorrecta porque su descripción coincide con la de Ana. -->
 - [ ] D) Que las dos descripciones usan exactamente las mismas palabras.
   <!-- feedback: Es incorrecta porque cada uno eligió palabras y comparaciones distintas. -->
@@ -150,11 +150,11 @@ Analizar descripciones permite comparar estilos. Ana utiliza rasgos directos, co
 ### Enunciado
 ¿Qué información importante falta en la descripción del aviso para que un comprador decida mejor?
 ### Opciones
-- [x] A) El precio.
+- [x] C) El precio.
   <!-- feedback: Es correcta porque sin el precio el comprador no puede comparar ni decidir. -->
-- [ ] B) El color del ventilador.
+- [ ] A) El color del ventilador.
   <!-- feedback: Es incorrecta porque el aviso sí dice que es blanco. -->
-- [ ] C) La cantidad de velocidades.
+- [ ] B) La cantidad de velocidades.
   <!-- feedback: Es incorrecta porque el aviso menciona que tiene tres velocidades. -->
 - [ ] D) El tipo de aparato que se vende.
   <!-- feedback: Es incorrecta porque el aviso indica claramente que es un ventilador. -->
@@ -170,9 +170,9 @@ Analizar una descripción también implica detectar lo que falta. El aviso infor
 ### Enunciado
 ¿Cuál de las descripciones es la más completa y útil?
 ### Opciones
-- [x] A) Es un termo metálico de color rojo, de veinte centímetros, con tapa y asa, que conserva bebidas frías o calientes.
+- [x] B) Es un termo metálico de color rojo, de veinte centímetros, con tapa y asa, que conserva bebidas frías o calientes.
   <!-- feedback: Es correcta porque reúne material, color, tamaño, partes y uso del objeto. -->
-- [ ] B) Es un objeto rojo y bonito que sirve para muchas cosas.
+- [ ] A) Es un objeto rojo y bonito que sirve para muchas cosas.
   <!-- feedback: Es incorrecta porque no precisa material, tamaño, partes ni uso. -->
 - [ ] C) Es una cosa que la gente usa todos los días.
   <!-- feedback: Es incorrecta porque esa idea podría describir muchísimos objetos. -->

@@ -30,8 +30,8 @@ creador: "Jules-Agent"
 Durante la regulación del equilibrio interno (homeostasis) en Viña del Mar, ¿cuál es el papel fisiológico de centro termorregulador hipotalámico?
 
 ### Opciones
-- [x] A) El hipotálamo integra información térmica y coordina la sudoración y vasomoción. <!-- feedback: ¡Correcto! El hipotálamo integra información térmica y coordina la sudoración y vasomoción. -->
-- [ ] B) Destruir los gradientes iónicos celulares de forma irreversible. <!-- feedback: Incorrecto. No corresponde a una respuesta fisiológica homeostática. -->
+- [x] B) El hipotálamo integra información térmica y coordina la sudoración y vasomoción. <!-- feedback: ¡Correcto! El hipotálamo integra información térmica y coordina la sudoración y vasomoción. -->
+- [ ] A) Destruir los gradientes iónicos celulares de forma irreversible. <!-- feedback: Incorrecto. No corresponde a una respuesta fisiológica homeostática. -->
 - [ ] C) Inactivar la síntesis de ATP en el tejido nervioso. <!-- feedback: Incorrecto. La actividad nerviosa requiere constante consumo metabólico de ATP. -->
 - [ ] D) Bloquear la secreción de todas las glándulas endocrinas. <!-- feedback: Incorrecto. El sistema endocrino actúa coordinadamente con el sistema nervioso. -->
 
@@ -49,10 +49,10 @@ Centro termorregulador hipotalámico: El hipotálamo integra información térmi
 Durante la regulación del equilibrio interno (homeostasis) en Iquique, ¿cuál es el papel fisiológico de potencial de acción neuronal?
 
 ### Opciones
-- [x] A) La despolarización ocurre por la entrada masiva de Na+ por canales dependientes de voltaje. <!-- feedback: ¡Correcto! La despolarización ocurre por la entrada masiva de Na+ por canales dependientes de voltaje. -->
-- [ ] B) Destruir los gradientes iónicos celulares de forma irreversible. <!-- feedback: Incorrecto. No corresponde a una respuesta fisiológica homeostática. -->
-- [ ] C) Inactivar la síntesis de ATP en el tejido nervioso. <!-- feedback: Incorrecto. La actividad nerviosa requiere constante consumo metabólico de ATP. -->
-- [ ] D) Bloquear la secreción de todas las glándulas endocrinas. <!-- feedback: Incorrecto. El sistema endocrino actúa coordinadamente con el sistema nervioso. -->
+- [x] D) La despolarización ocurre por la entrada masiva de Na+ por canales dependientes de voltaje. <!-- feedback: ¡Correcto! La despolarización ocurre por la entrada masiva de Na+ por canales dependientes de voltaje. -->
+- [ ] A) Destruir los gradientes iónicos celulares de forma irreversible. <!-- feedback: Incorrecto. No corresponde a una respuesta fisiológica homeostática. -->
+- [ ] B) Inactivar la síntesis de ATP en el tejido nervioso. <!-- feedback: Incorrecto. La actividad nerviosa requiere constante consumo metabólico de ATP. -->
+- [ ] C) Bloquear la secreción de todas las glándulas endocrinas. <!-- feedback: Incorrecto. El sistema endocrino actúa coordinadamente con el sistema nervioso. -->
 
 ### Explicacion Pedagogica
 Potencial de acción neuronal: La despolarización ocurre por la entrada masiva de Na+ por canales dependientes de voltaje.
@@ -68,9 +68,9 @@ Potencial de acción neuronal: La despolarización ocurre por la entrada masiva 
 Durante la regulación del equilibrio interno (homeostasis) en Rancagua, ¿cuál es el papel fisiológico de sinapsis química?
 
 ### Opciones
-- [x] A) La liberación de neurotransmisores a la hendidura sináptica transmite el impulso. <!-- feedback: ¡Correcto! La liberación de neurotransmisores a la hendidura sináptica transmite el impulso. -->
-- [ ] B) Destruir los gradientes iónicos celulares de forma irreversible. <!-- feedback: Incorrecto. No corresponde a una respuesta fisiológica homeostática. -->
-- [ ] C) Inactivar la síntesis de ATP en el tejido nervioso. <!-- feedback: Incorrecto. La actividad nerviosa requiere constante consumo metabólico de ATP. -->
+- [x] C) La liberación de neurotransmisores a la hendidura sináptica transmite el impulso. <!-- feedback: ¡Correcto! La liberación de neurotransmisores a la hendidura sináptica transmite el impulso. -->
+- [ ] A) Destruir los gradientes iónicos celulares de forma irreversible. <!-- feedback: Incorrecto. No corresponde a una respuesta fisiológica homeostática. -->
+- [ ] B) Inactivar la síntesis de ATP en el tejido nervioso. <!-- feedback: Incorrecto. La actividad nerviosa requiere constante consumo metabólico de ATP. -->
 - [ ] D) Bloquear la secreción de todas las glándulas endocrinas. <!-- feedback: Incorrecto. El sistema endocrino actúa coordinadamente con el sistema nervioso. -->
 
 ### Explicacion Pedagogica
@@ -87,10 +87,10 @@ Sinapsis química: La liberación de neurotransmisores a la hendidura sináptica
 Durante la regulación del equilibrio interno (homeostasis) en Talca, ¿cuál es el papel fisiológico de arco reflejo medular?
 
 ### Opciones
-- [x] A) Vía involuntaria rápida: receptor, vía aferente, integración medular, vía eferente y efector. <!-- feedback: ¡Correcto! Vía involuntaria rápida: receptor, vía aferente, integración medular, vía eferente y efector. -->
-- [ ] B) Destruir los gradientes iónicos celulares de forma irreversible. <!-- feedback: Incorrecto. No corresponde a una respuesta fisiológica homeostática. -->
-- [ ] C) Inactivar la síntesis de ATP en el tejido nervioso. <!-- feedback: Incorrecto. La actividad nerviosa requiere constante consumo metabólico de ATP. -->
-- [ ] D) Bloquear la secreción de todas las glándulas endocrinas. <!-- feedback: Incorrecto. El sistema endocrino actúa coordinadamente con el sistema nervioso. -->
+- [x] D) Vía involuntaria rápida: receptor, vía aferente, integración medular, vía eferente y efector. <!-- feedback: ¡Correcto! Vía involuntaria rápida: receptor, vía aferente, integración medular, vía eferente y efector. -->
+- [ ] A) Destruir los gradientes iónicos celulares de forma irreversible. <!-- feedback: Incorrecto. No corresponde a una respuesta fisiológica homeostática. -->
+- [ ] B) Inactivar la síntesis de ATP en el tejido nervioso. <!-- feedback: Incorrecto. La actividad nerviosa requiere constante consumo metabólico de ATP. -->
+- [ ] C) Bloquear la secreción de todas las glándulas endocrinas. <!-- feedback: Incorrecto. El sistema endocrino actúa coordinadamente con el sistema nervioso. -->
 
 ### Explicacion Pedagogica
 Arco reflejo medular: Vía involuntaria rápida: receptor, vía aferente, integración medular, vía eferente y efector.
@@ -106,10 +106,10 @@ Arco reflejo medular: Vía involuntaria rápida: receptor, vía aferente, integr
 Durante la regulación del equilibrio interno (homeostasis) en Arica, ¿cuál es el papel fisiológico de sistema nervioso simpático?
 
 ### Opciones
-- [x] A) Activa la respuesta de lucha o huida generando taquicardia y broncodilatación. <!-- feedback: ¡Correcto! Activa la respuesta de lucha o huida generando taquicardia y broncodilatación. -->
-- [ ] B) Destruir los gradientes iónicos celulares de forma irreversible. <!-- feedback: Incorrecto. No corresponde a una respuesta fisiológica homeostática. -->
-- [ ] C) Inactivar la síntesis de ATP en el tejido nervioso. <!-- feedback: Incorrecto. La actividad nerviosa requiere constante consumo metabólico de ATP. -->
-- [ ] D) Bloquear la secreción de todas las glándulas endocrinas. <!-- feedback: Incorrecto. El sistema endocrino actúa coordinadamente con el sistema nervioso. -->
+- [x] D) Activa la respuesta de lucha o huida generando taquicardia y broncodilatación. <!-- feedback: ¡Correcto! Activa la respuesta de lucha o huida generando taquicardia y broncodilatación. -->
+- [ ] A) Destruir los gradientes iónicos celulares de forma irreversible. <!-- feedback: Incorrecto. No corresponde a una respuesta fisiológica homeostática. -->
+- [ ] B) Inactivar la síntesis de ATP en el tejido nervioso. <!-- feedback: Incorrecto. La actividad nerviosa requiere constante consumo metabólico de ATP. -->
+- [ ] C) Bloquear la secreción de todas las glándulas endocrinas. <!-- feedback: Incorrecto. El sistema endocrino actúa coordinadamente con el sistema nervioso. -->
 
 ### Explicacion Pedagogica
 Sistema nervioso simpático: Activa la respuesta de lucha o huida generando taquicardia y broncodilatación.
@@ -125,8 +125,8 @@ Sistema nervioso simpático: Activa la respuesta de lucha o huida generando taqu
 Durante la regulación del equilibrio interno (homeostasis) en Puerto Montt, ¿cuál es el papel fisiológico de vaina de mielina?
 
 ### Opciones
-- [x] A) Aislante lipídico que permite la conducción saltatoria veloz en los nodos de Ranvier. <!-- feedback: ¡Correcto! Aislante lipídico que permite la conducción saltatoria veloz en los nodos de Ranvier. -->
-- [ ] B) Destruir los gradientes iónicos celulares de forma irreversible. <!-- feedback: Incorrecto. No corresponde a una respuesta fisiológica homeostática. -->
+- [x] B) Aislante lipídico que permite la conducción saltatoria veloz en los nodos de Ranvier. <!-- feedback: ¡Correcto! Aislante lipídico que permite la conducción saltatoria veloz en los nodos de Ranvier. -->
+- [ ] A) Destruir los gradientes iónicos celulares de forma irreversible. <!-- feedback: Incorrecto. No corresponde a una respuesta fisiológica homeostática. -->
 - [ ] C) Inactivar la síntesis de ATP en el tejido nervioso. <!-- feedback: Incorrecto. La actividad nerviosa requiere constante consumo metabólico de ATP. -->
 - [ ] D) Bloquear la secreción de todas las glándulas endocrinas. <!-- feedback: Incorrecto. El sistema endocrino actúa coordinadamente con el sistema nervioso. -->
 
@@ -144,10 +144,10 @@ Vaina de mielina: Aislante lipídico que permite la conducción saltatoria veloz
 Durante la regulación del equilibrio interno (homeostasis) en Chillán, ¿cuál es el papel fisiológico de regulación pancreática de glicemia?
 
 ### Opciones
-- [x] A) La insulina disminuye la glicemia y el glucagón estimula la glucogenólisis para elevarla. <!-- feedback: ¡Correcto! La insulina disminuye la glicemia y el glucagón estimula la glucogenólisis para elevarla. -->
-- [ ] B) Destruir los gradientes iónicos celulares de forma irreversible. <!-- feedback: Incorrecto. No corresponde a una respuesta fisiológica homeostática. -->
-- [ ] C) Inactivar la síntesis de ATP en el tejido nervioso. <!-- feedback: Incorrecto. La actividad nerviosa requiere constante consumo metabólico de ATP. -->
-- [ ] D) Bloquear la secreción de todas las glándulas endocrinas. <!-- feedback: Incorrecto. El sistema endocrino actúa coordinadamente con el sistema nervioso. -->
+- [x] D) La insulina disminuye la glicemia y el glucagón estimula la glucogenólisis para elevarla. <!-- feedback: ¡Correcto! La insulina disminuye la glicemia y el glucagón estimula la glucogenólisis para elevarla. -->
+- [ ] A) Destruir los gradientes iónicos celulares de forma irreversible. <!-- feedback: Incorrecto. No corresponde a una respuesta fisiológica homeostática. -->
+- [ ] B) Inactivar la síntesis de ATP en el tejido nervioso. <!-- feedback: Incorrecto. La actividad nerviosa requiere constante consumo metabólico de ATP. -->
+- [ ] C) Bloquear la secreción de todas las glándulas endocrinas. <!-- feedback: Incorrecto. El sistema endocrino actúa coordinadamente con el sistema nervioso. -->
 
 ### Explicacion Pedagogica
 Regulación pancreática de glicemia: La insulina disminuye la glicemia y el glucagón estimula la glucogenólisis para elevarla.
@@ -163,9 +163,9 @@ Regulación pancreática de glicemia: La insulina disminuye la glicemia y el glu
 Durante la regulación del equilibrio interno (homeostasis) en Calama, ¿cuál es el papel fisiológico de hormona antidiurética (adh)?
 
 ### Opciones
-- [x] A) Aumenta la reabsorción hídrica en los túbulos colectores de la nefrona renal. <!-- feedback: ¡Correcto! Aumenta la reabsorción hídrica en los túbulos colectores de la nefrona renal. -->
-- [ ] B) Destruir los gradientes iónicos celulares de forma irreversible. <!-- feedback: Incorrecto. No corresponde a una respuesta fisiológica homeostática. -->
-- [ ] C) Inactivar la síntesis de ATP en el tejido nervioso. <!-- feedback: Incorrecto. La actividad nerviosa requiere constante consumo metabólico de ATP. -->
+- [x] C) Aumenta la reabsorción hídrica en los túbulos colectores de la nefrona renal. <!-- feedback: ¡Correcto! Aumenta la reabsorción hídrica en los túbulos colectores de la nefrona renal. -->
+- [ ] A) Destruir los gradientes iónicos celulares de forma irreversible. <!-- feedback: Incorrecto. No corresponde a una respuesta fisiológica homeostática. -->
+- [ ] B) Inactivar la síntesis de ATP en el tejido nervioso. <!-- feedback: Incorrecto. La actividad nerviosa requiere constante consumo metabólico de ATP. -->
 - [ ] D) Bloquear la secreción de todas las glándulas endocrinas. <!-- feedback: Incorrecto. El sistema endocrino actúa coordinadamente con el sistema nervioso. -->
 
 ### Explicacion Pedagogica
@@ -182,9 +182,9 @@ Hormona antidiurética (ADH): Aumenta la reabsorción hídrica en los túbulos c
 Durante la regulación del equilibrio interno (homeostasis) en Valdivia, ¿cuál es el papel fisiológico de sinapsis inhibitoria (ppsi)?
 
 ### Opciones
-- [x] A) Provoca hiperpolarización postsináptica por apertura de canales de Cl- o K+. <!-- feedback: ¡Correcto! Provoca hiperpolarización postsináptica por apertura de canales de Cl- o K+. -->
-- [ ] B) Destruir los gradientes iónicos celulares de forma irreversible. <!-- feedback: Incorrecto. No corresponde a una respuesta fisiológica homeostática. -->
-- [ ] C) Inactivar la síntesis de ATP en el tejido nervioso. <!-- feedback: Incorrecto. La actividad nerviosa requiere constante consumo metabólico de ATP. -->
+- [x] C) Provoca hiperpolarización postsináptica por apertura de canales de Cl- o K+. <!-- feedback: ¡Correcto! Provoca hiperpolarización postsináptica por apertura de canales de Cl- o K+. -->
+- [ ] A) Destruir los gradientes iónicos celulares de forma irreversible. <!-- feedback: Incorrecto. No corresponde a una respuesta fisiológica homeostática. -->
+- [ ] B) Inactivar la síntesis de ATP en el tejido nervioso. <!-- feedback: Incorrecto. La actividad nerviosa requiere constante consumo metabólico de ATP. -->
 - [ ] D) Bloquear la secreción de todas las glándulas endocrinas. <!-- feedback: Incorrecto. El sistema endocrino actúa coordinadamente con el sistema nervioso. -->
 
 ### Explicacion Pedagogica
@@ -201,10 +201,10 @@ Sinapsis inhibitoria (PPSI): Provoca hiperpolarización postsináptica por apert
 Durante la regulación del equilibrio interno (homeostasis) en Santiago, ¿cuál es el papel fisiológico de mecanorreceptores?
 
 ### Opciones
-- [x] A) Receptores sensoriales que detectan deformación física, presión o vibración mecánica. <!-- feedback: ¡Correcto! Receptores sensoriales que detectan deformación física, presión o vibración mecánica. -->
-- [ ] B) Destruir los gradientes iónicos celulares de forma irreversible. <!-- feedback: Incorrecto. No corresponde a una respuesta fisiológica homeostática. -->
-- [ ] C) Inactivar la síntesis de ATP en el tejido nervioso. <!-- feedback: Incorrecto. La actividad nerviosa requiere constante consumo metabólico de ATP. -->
-- [ ] D) Bloquear la secreción de todas las glándulas endocrinas. <!-- feedback: Incorrecto. El sistema endocrino actúa coordinadamente con el sistema nervioso. -->
+- [x] D) Receptores sensoriales que detectan deformación física, presión o vibración mecánica. <!-- feedback: ¡Correcto! Receptores sensoriales que detectan deformación física, presión o vibración mecánica. -->
+- [ ] A) Destruir los gradientes iónicos celulares de forma irreversible. <!-- feedback: Incorrecto. No corresponde a una respuesta fisiológica homeostática. -->
+- [ ] B) Inactivar la síntesis de ATP en el tejido nervioso. <!-- feedback: Incorrecto. La actividad nerviosa requiere constante consumo metabólico de ATP. -->
+- [ ] C) Bloquear la secreción de todas las glándulas endocrinas. <!-- feedback: Incorrecto. El sistema endocrino actúa coordinadamente con el sistema nervioso. -->
 
 ### Explicacion Pedagogica
 Mecanorreceptores: Receptores sensoriales que detectan deformación física, presión o vibración mecánica.
@@ -239,8 +239,8 @@ Centro termorregulador hipotalámico: El hipotálamo integra información térmi
 Durante la regulación del equilibrio interno (homeostasis) en Concepción, ¿cuál es el papel fisiológico de potencial de acción neuronal?
 
 ### Opciones
-- [x] A) La despolarización ocurre por la entrada masiva de Na+ por canales dependientes de voltaje. <!-- feedback: ¡Correcto! La despolarización ocurre por la entrada masiva de Na+ por canales dependientes de voltaje. -->
-- [ ] B) Destruir los gradientes iónicos celulares de forma irreversible. <!-- feedback: Incorrecto. No corresponde a una respuesta fisiológica homeostática. -->
+- [x] B) La despolarización ocurre por la entrada masiva de Na+ por canales dependientes de voltaje. <!-- feedback: ¡Correcto! La despolarización ocurre por la entrada masiva de Na+ por canales dependientes de voltaje. -->
+- [ ] A) Destruir los gradientes iónicos celulares de forma irreversible. <!-- feedback: Incorrecto. No corresponde a una respuesta fisiológica homeostática. -->
 - [ ] C) Inactivar la síntesis de ATP en el tejido nervioso. <!-- feedback: Incorrecto. La actividad nerviosa requiere constante consumo metabólico de ATP. -->
 - [ ] D) Bloquear la secreción de todas las glándulas endocrinas. <!-- feedback: Incorrecto. El sistema endocrino actúa coordinadamente con el sistema nervioso. -->
 
@@ -277,8 +277,8 @@ Sinapsis química: La liberación de neurotransmisores a la hendidura sináptica
 Durante la regulación del equilibrio interno (homeostasis) en Temuco, ¿cuál es el papel fisiológico de arco reflejo medular?
 
 ### Opciones
-- [x] A) Vía involuntaria rápida: receptor, vía aferente, integración medular, vía eferente y efector. <!-- feedback: ¡Correcto! Vía involuntaria rápida: receptor, vía aferente, integración medular, vía eferente y efector. -->
-- [ ] B) Destruir los gradientes iónicos celulares de forma irreversible. <!-- feedback: Incorrecto. No corresponde a una respuesta fisiológica homeostática. -->
+- [x] B) Vía involuntaria rápida: receptor, vía aferente, integración medular, vía eferente y efector. <!-- feedback: ¡Correcto! Vía involuntaria rápida: receptor, vía aferente, integración medular, vía eferente y efector. -->
+- [ ] A) Destruir los gradientes iónicos celulares de forma irreversible. <!-- feedback: Incorrecto. No corresponde a una respuesta fisiológica homeostática. -->
 - [ ] C) Inactivar la síntesis de ATP en el tejido nervioso. <!-- feedback: Incorrecto. La actividad nerviosa requiere constante consumo metabólico de ATP. -->
 - [ ] D) Bloquear la secreción de todas las glándulas endocrinas. <!-- feedback: Incorrecto. El sistema endocrino actúa coordinadamente con el sistema nervioso. -->
 
@@ -296,9 +296,9 @@ Arco reflejo medular: Vía involuntaria rápida: receptor, vía aferente, integr
 Durante la regulación del equilibrio interno (homeostasis) en La Serena, ¿cuál es el papel fisiológico de sistema nervioso simpático?
 
 ### Opciones
-- [x] A) Activa la respuesta de lucha o huida generando taquicardia y broncodilatación. <!-- feedback: ¡Correcto! Activa la respuesta de lucha o huida generando taquicardia y broncodilatación. -->
-- [ ] B) Destruir los gradientes iónicos celulares de forma irreversible. <!-- feedback: Incorrecto. No corresponde a una respuesta fisiológica homeostática. -->
-- [ ] C) Inactivar la síntesis de ATP en el tejido nervioso. <!-- feedback: Incorrecto. La actividad nerviosa requiere constante consumo metabólico de ATP. -->
+- [x] C) Activa la respuesta de lucha o huida generando taquicardia y broncodilatación. <!-- feedback: ¡Correcto! Activa la respuesta de lucha o huida generando taquicardia y broncodilatación. -->
+- [ ] A) Destruir los gradientes iónicos celulares de forma irreversible. <!-- feedback: Incorrecto. No corresponde a una respuesta fisiológica homeostática. -->
+- [ ] B) Inactivar la síntesis de ATP en el tejido nervioso. <!-- feedback: Incorrecto. La actividad nerviosa requiere constante consumo metabólico de ATP. -->
 - [ ] D) Bloquear la secreción de todas las glándulas endocrinas. <!-- feedback: Incorrecto. El sistema endocrino actúa coordinadamente con el sistema nervioso. -->
 
 ### Explicacion Pedagogica
@@ -334,10 +334,10 @@ Vaina de mielina: Aislante lipídico que permite la conducción saltatoria veloz
 Durante la regulación del equilibrio interno (homeostasis) en Iquique, ¿cuál es el papel fisiológico de regulación pancreática de glicemia?
 
 ### Opciones
-- [x] A) La insulina disminuye la glicemia y el glucagón estimula la glucogenólisis para elevarla. <!-- feedback: ¡Correcto! La insulina disminuye la glicemia y el glucagón estimula la glucogenólisis para elevarla. -->
-- [ ] B) Destruir los gradientes iónicos celulares de forma irreversible. <!-- feedback: Incorrecto. No corresponde a una respuesta fisiológica homeostática. -->
-- [ ] C) Inactivar la síntesis de ATP en el tejido nervioso. <!-- feedback: Incorrecto. La actividad nerviosa requiere constante consumo metabólico de ATP. -->
-- [ ] D) Bloquear la secreción de todas las glándulas endocrinas. <!-- feedback: Incorrecto. El sistema endocrino actúa coordinadamente con el sistema nervioso. -->
+- [x] D) La insulina disminuye la glicemia y el glucagón estimula la glucogenólisis para elevarla. <!-- feedback: ¡Correcto! La insulina disminuye la glicemia y el glucagón estimula la glucogenólisis para elevarla. -->
+- [ ] A) Destruir los gradientes iónicos celulares de forma irreversible. <!-- feedback: Incorrecto. No corresponde a una respuesta fisiológica homeostática. -->
+- [ ] B) Inactivar la síntesis de ATP en el tejido nervioso. <!-- feedback: Incorrecto. La actividad nerviosa requiere constante consumo metabólico de ATP. -->
+- [ ] C) Bloquear la secreción de todas las glándulas endocrinas. <!-- feedback: Incorrecto. El sistema endocrino actúa coordinadamente con el sistema nervioso. -->
 
 ### Explicacion Pedagogica
 Regulación pancreática de glicemia: La insulina disminuye la glicemia y el glucagón estimula la glucogenólisis para elevarla.
@@ -353,9 +353,9 @@ Regulación pancreática de glicemia: La insulina disminuye la glicemia y el glu
 Durante la regulación del equilibrio interno (homeostasis) en Rancagua, ¿cuál es el papel fisiológico de hormona antidiurética (adh)?
 
 ### Opciones
-- [x] A) Aumenta la reabsorción hídrica en los túbulos colectores de la nefrona renal. <!-- feedback: ¡Correcto! Aumenta la reabsorción hídrica en los túbulos colectores de la nefrona renal. -->
-- [ ] B) Destruir los gradientes iónicos celulares de forma irreversible. <!-- feedback: Incorrecto. No corresponde a una respuesta fisiológica homeostática. -->
-- [ ] C) Inactivar la síntesis de ATP en el tejido nervioso. <!-- feedback: Incorrecto. La actividad nerviosa requiere constante consumo metabólico de ATP. -->
+- [x] C) Aumenta la reabsorción hídrica en los túbulos colectores de la nefrona renal. <!-- feedback: ¡Correcto! Aumenta la reabsorción hídrica en los túbulos colectores de la nefrona renal. -->
+- [ ] A) Destruir los gradientes iónicos celulares de forma irreversible. <!-- feedback: Incorrecto. No corresponde a una respuesta fisiológica homeostática. -->
+- [ ] B) Inactivar la síntesis de ATP en el tejido nervioso. <!-- feedback: Incorrecto. La actividad nerviosa requiere constante consumo metabólico de ATP. -->
 - [ ] D) Bloquear la secreción de todas las glándulas endocrinas. <!-- feedback: Incorrecto. El sistema endocrino actúa coordinadamente con el sistema nervioso. -->
 
 ### Explicacion Pedagogica
@@ -372,8 +372,8 @@ Hormona antidiurética (ADH): Aumenta la reabsorción hídrica en los túbulos c
 Durante la regulación del equilibrio interno (homeostasis) en Talca, ¿cuál es el papel fisiológico de sinapsis inhibitoria (ppsi)?
 
 ### Opciones
-- [x] A) Provoca hiperpolarización postsináptica por apertura de canales de Cl- o K+. <!-- feedback: ¡Correcto! Provoca hiperpolarización postsináptica por apertura de canales de Cl- o K+. -->
-- [ ] B) Destruir los gradientes iónicos celulares de forma irreversible. <!-- feedback: Incorrecto. No corresponde a una respuesta fisiológica homeostática. -->
+- [x] B) Provoca hiperpolarización postsináptica por apertura de canales de Cl- o K+. <!-- feedback: ¡Correcto! Provoca hiperpolarización postsináptica por apertura de canales de Cl- o K+. -->
+- [ ] A) Destruir los gradientes iónicos celulares de forma irreversible. <!-- feedback: Incorrecto. No corresponde a una respuesta fisiológica homeostática. -->
 - [ ] C) Inactivar la síntesis de ATP en el tejido nervioso. <!-- feedback: Incorrecto. La actividad nerviosa requiere constante consumo metabólico de ATP. -->
 - [ ] D) Bloquear la secreción de todas las glándulas endocrinas. <!-- feedback: Incorrecto. El sistema endocrino actúa coordinadamente con el sistema nervioso. -->
 

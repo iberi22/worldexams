@@ -103,13 +103,13 @@ Aplicar la clasificación de cambios físicos a acciones cotidianas como cortar 
 ¿Cuál es la mejor explicación de que freír el huevo sea un cambio químico?
 
 ### Opciones
-- [x] A) Porque se forma una sustancia nueva que no puede volver a ser un huevo crudo.
+- [x] D) Porque se forma una sustancia nueva que no puede volver a ser un huevo crudo.
   <!-- feedback: La clara y la yema se transforman en sustancias diferentes que ya no regresan a su estado inicial. -->
-- [ ] B) Porque el huevo solo cambia de forma al pasar del sartén al plato.
+- [ ] A) Porque el huevo solo cambia de forma al pasar del sartén al plato.
   <!-- feedback: No es solo la forma: la clara y la yema se convierten en sustancias diferentes. -->
-- [ ] C) Porque el calor hace que el huevo vuelva a ser líquido al enfriarse.
+- [ ] B) Porque el calor hace que el huevo vuelva a ser líquido al enfriarse.
   <!-- feedback: El huevo cocido no vuelve a ser líquido al enfriarse; el cambio químico es permanente. -->
-- [ ] D) Porque el aceite se mezcla con el huevo sin transformarse.
+- [ ] C) Porque el aceite se mezcla con el huevo sin transformarse.
   <!-- feedback: Mezclarse no explica el cambio; lo importante es la sustancia nueva que se forma en el huevo. -->
 
 ### Explicacion Pedagogica
@@ -126,11 +126,11 @@ Explicar por qué la cocción de un alimento implica la formación de sustancias
 ¿Qué tipo de cambio ocurre cuando el agua del jugo se evapora al hervir?
 
 ### Opciones
-- [x] A) Un cambio físico, porque el agua pasa de líquido a vapor y sigue siendo agua.
+- [x] C) Un cambio físico, porque el agua pasa de líquido a vapor y sigue siendo agua.
   <!-- feedback: El vapor de agua es la misma sustancia que el agua líquida; solo cambió de estado. -->
-- [ ] B) Un cambio químico, porque el agua se transforma en una sustancia diferente.
+- [ ] A) Un cambio químico, porque el agua se transforma en una sustancia diferente.
   <!-- feedback: El agua no se transforma en otra sustancia: sigue siendo agua, ahora en estado gaseoso. -->
-- [ ] C) Un cambio químico, porque el agua desaparece por completo.
+- [ ] B) Un cambio químico, porque el agua desaparece por completo.
   <!-- feedback: El agua no desaparece: se convierte en vapor y queda suspendida en el aire. -->
 - [ ] D) Ningún cambio, porque el calor no modifica la materia.
   <!-- feedback: Pasar de líquido a vapor sí es un cambio, y además es un cambio físico. -->
@@ -149,13 +149,13 @@ Explicar el cambio de estado del agua como un cambio físico producido por el ca
 ¿Qué diferencia permite clasificar correctamente estos dos hechos?
 
 ### Opciones
-- [x] A) La oxidación es un cambio químico porque forma una sustancia nueva, y doblar el clavo es un cambio físico porque solo cambia su forma.
+- [x] D) La oxidación es un cambio químico porque forma una sustancia nueva, y doblar el clavo es un cambio físico porque solo cambia su forma.
   <!-- feedback: El óxido es una sustancia nueva; en cambio, el clavo doblado sigue siendo hierro. -->
-- [ ] B) Los dos son cambios químicos porque en ambos el hierro se modifica.
+- [ ] A) Los dos son cambios químicos porque en ambos el hierro se modifica.
   <!-- feedback: Doblar el clavo no forma una sustancia nueva; por eso ese cambio es físico. -->
-- [ ] C) Los dos son cambios físicos porque el hierro sigue presente.
+- [ ] B) Los dos son cambios físicos porque el hierro sigue presente.
   <!-- feedback: La oxidación sí forma una sustancia nueva, el óxido, así que es un cambio químico. -->
-- [ ] D) La oxidación es un cambio físico y doblar el clavo es un cambio químico.
+- [ ] C) La oxidación es un cambio físico y doblar el clavo es un cambio químico.
   <!-- feedback: Es al contrario: la oxidación forma óxido y el doblado solo cambia la forma del clavo. -->
 
 ### Explicacion Pedagogica
@@ -172,9 +172,9 @@ Analizar la diferencia entre un cambio químico que forma sustancias nuevas y un
 Con base en la evidencia que recogió Isabella, ¿cuál conclusión es la más adecuada?
 
 ### Opciones
-- [x] A) La mezcla de vinagre con bicarbonato es un cambio químico porque produjo un gas nuevo, y disolver azúcar es un cambio físico porque no formó una sustancia nueva.
+- [x] B) La mezcla de vinagre con bicarbonato es un cambio químico porque produjo un gas nuevo, y disolver azúcar es un cambio físico porque no formó una sustancia nueva.
   <!-- feedback: Las burbujas indican un gas nuevo formado en el cambio químico; el azúcar disuelto sigue siendo azúcar. -->
-- [ ] B) Las dos mezclas son cambios químicos porque en las dos hubo movimiento.
+- [ ] A) Las dos mezclas son cambios químicos porque en las dos hubo movimiento.
   <!-- feedback: El movimiento por sí solo no indica un cambio químico; lo decisivo es la formación de sustancias nuevas. -->
 - [ ] C) Las dos mezclas son cambios físicos porque se prepararon con líquidos.
   <!-- feedback: El estado líquido no define el tipo de cambio; hay que observar si aparecen sustancias nuevas. -->
@@ -195,9 +195,9 @@ Analizar resultados experimentales para diferenciar un cambio químico con produ
 ¿Cuál afirmación evalúa mejor la diferencia entre las dos formas de conservar el jugo?
 
 ### Opciones
-- [x] A) Guardarlo frío conserva el jugo con un cambio físico, mientras que la fermentación es un cambio químico porque se forman sustancias nuevas.
+- [x] B) Guardarlo frío conserva el jugo con un cambio físico, mientras que la fermentación es un cambio químico porque se forman sustancias nuevas.
   <!-- feedback: Enfriar solo mantiene el jugo igual, pero la fermentación produce sustancias nuevas que cambian su olor y su sabor. -->
-- [ ] B) Las dos son cambios físicos porque el jugo sigue siendo líquido en los dos casos.
+- [ ] A) Las dos son cambios físicos porque el jugo sigue siendo líquido en los dos casos.
   <!-- feedback: Aunque siga líquido, la fermentación forma sustancias nuevas; por eso es un cambio químico. -->
 - [ ] C) La fermentación es un cambio físico porque no se ve ninguna sustancia nueva a simple vista.
   <!-- feedback: Las sustancias nuevas de la fermentación se detectan por el olor y el sabor, aunque no se vean. -->

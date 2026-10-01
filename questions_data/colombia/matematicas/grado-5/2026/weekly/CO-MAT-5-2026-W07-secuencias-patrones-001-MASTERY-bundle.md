@@ -34,11 +34,11 @@ Identificación y extensión de patrones numéricos y geométricos, regularidade
 ¿Cuál es el número que continúa la secuencia 2, 4, 6, 8, ___?
 
 ### Opciones
-- [x] A) 10.
+- [x] C) 10.
   <!-- feedback: La secuencia suma 2 en cada paso: 2 + 2 = 4, 4 + 2 = 6, ..., 8 + 2 = 10. -->
-- [ ] B) 9.
+- [ ] A) 9.
   <!-- feedback: 9 no sigue el patrón de sumar 2 cada vez; el cambio es +2 constante. -->
-- [ ] C) 12.
+- [ ] B) 12.
   <!-- feedback: 12 sería el siguiente después de 10, no el inmediato. -->
 - [ ] D) 14.
   <!-- feedback: 14 está más adelante en la secuencia, no es el siguiente término. -->
@@ -57,11 +57,11 @@ Reconocer el patrón aditivo constante en una secuencia numérica sencilla.
 ¿Qué figura viene después de los tres triángulos en la secuencia descrita?
 
 ### Opciones
-- [x] A) Un cuadrado.
+- [x] C) Un cuadrado.
   <!-- feedback: La secuencia alterna triángulo y cuadrado; después del tercer triángulo viene un cuadrado. -->
-- [ ] B) Un círculo.
+- [ ] A) Un círculo.
   <!-- feedback: El círculo no forma parte del patrón descrito. -->
-- [ ] C) Un triángulo más grande.
+- [ ] B) Un triángulo más grande.
   <!-- feedback: El patrón no indica cambios de tamaño, solo alternancia de figuras. -->
 - [ ] D) Un pentágono.
   <!-- feedback: El pentágono no aparece en la secuencia alterna descrita. -->
@@ -80,11 +80,11 @@ Comprender la regla de un patrón geométrico que alterna dos figuras.
 ¿Cuál es el siguiente término de la secuencia y cuál es la regla que la genera?
 
 ### Opciones
-- [x] A) 25, porque la secuencia suma 5 a cada término.
+- [x] C) 25, porque la secuencia suma 5 a cada término.
   <!-- feedback: 20 + 5 = 25 mantiene el patrón aditivo constante de +5. -->
-- [ ] B) 30, porque la secuencia suma 10 a cada término.
+- [ ] A) 30, porque la secuencia suma 10 a cada término.
   <!-- feedback: Si sumara 10, el patrón sería 5, 15, 25, no 5, 10, 15, 20. -->
-- [ ] C) 24, porque la secuencia resta 1 a cada término.
+- [ ] B) 24, porque la secuencia resta 1 a cada término.
   <!-- feedback: Restar 1 no genera la secuencia descrita en el enunciado. -->
 - [ ] D) 100, porque se multiplica por 5 cada vez.
   <!-- feedback: Multiplicar por 5 produciría 5, 25, 125, no la secuencia dada. -->
@@ -103,9 +103,9 @@ Aplicar la regla aditiva constante para extender una secuencia numérica.
 ¿Cuál es el quinto término de esta secuencia?
 
 ### Opciones
-- [x] A) 48.
+- [x] B) 48.
   <!-- feedback: 24 × 2 = 48, manteniendo la multiplicación por 2 en cada paso. -->
-- [ ] B) 26.
+- [ ] A) 26.
   <!-- feedback: 26 no corresponde a la regla de multiplicar por 2. -->
 - [ ] C) 36.
   <!-- feedback: 36 es 12 × 3, no el siguiente término al multiplicar por 2. -->
@@ -149,13 +149,13 @@ Reconocer un patrón basado en cuadrados perfectos y extender la secuencia.
 ¿Qué diferencia esencial existe entre la secuencia A y la secuencia B?
 
 ### Opciones
-- [x] A) La A es aritmética (suma constante) y la B es geométrica (multiplicación constante).
+- [x] D) La A es aritmética (suma constante) y la B es geométrica (multiplicación constante).
   <!-- feedback: La clave está en el tipo de operación: suma constante frente a producto constante. -->
-- [ ] B) La A es geométrica y la B es aritmética.
+- [ ] A) La A es geométrica y la B es aritmética.
   <!-- feedback: Es al revés: la A suma constante y la B multiplica constante. -->
-- [ ] C) Las dos son aritméticas porque crecen igual.
+- [ ] B) Las dos son aritméticas porque crecen igual.
   <!-- feedback: Aunque ambas crecen, la operación que las genera es distinta. -->
-- [ ] D) Las dos son geométricas porque cambian de valor.
+- [ ] C) Las dos son geométricas porque cambian de valor.
   <!-- feedback: El hecho de cambiar no las hace geométricas; la operación es lo que define el tipo. -->
 
 ### Explicacion Pedagogica
@@ -172,9 +172,9 @@ Comparar secuencias aritméticas y geométricas según la operación constante q
 ¿Cuántos círculos y cuántos triángulos hay en la secuencia de 12 figuras?
 
 ### Opciones
-- [x] A) 6 círculos y 6 triángulos.
+- [x] B) 6 círculos y 6 triángulos.
   <!-- feedback: Al alternar dos figuras, en 12 posiciones hay 6 de cada una. -->
-- [ ] B) 4 círculos y 8 triángulos.
+- [ ] A) 4 círculos y 8 triángulos.
   <!-- feedback: La alternancia uniforme da el mismo número de cada figura. -->
 - [ ] C) 7 círculos y 5 triángulos.
   <!-- feedback: Esta distribución no corresponde a una alternancia perfecta. -->
@@ -195,13 +195,13 @@ Analizar el conteo de elementos en una secuencia que alterna dos figuras.
 ¿Por qué es importante aprender a identificar patrones y secuencias en la vida diaria?
 
 ### Opciones
-- [x] A) Porque permiten predecir resultados, resolver problemas y entender mejor el entorno.
+- [x] D) Porque permiten predecir resultados, resolver problemas y entender mejor el entorno.
   <!-- feedback: Reconocer patrones facilita la toma de decisiones y el análisis en distintos campos. -->
-- [ ] B) Porque los patrones no tienen ninguna aplicación práctica.
+- [ ] A) Porque los patrones no tienen ninguna aplicación práctica.
   <!-- feedback: Los patrones tienen aplicaciones en ciencias, arte y vida cotidiana. -->
-- [ ] C) Porque solo se usan en clases de matemáticas sin utilidad fuera del colegio.
+- [ ] B) Porque solo se usan en clases de matemáticas sin utilidad fuera del colegio.
   <!-- feedback: Las matemáticas escolares son la base para muchos oficios y profesiones. -->
-- [ ] D) Porque identificar patrones impide pensar críticamente.
+- [ ] C) Porque identificar patrones impide pensar críticamente.
   <!-- feedback: Identificar patrones fortalece el pensamiento lógico y crítico. -->
 
 ### Explicacion Pedagogica

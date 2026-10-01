@@ -48,8 +48,8 @@ Las razones trigonométricas son cocientes entre los lados de un triángulo rect
 ¿Cuál es la razón recíproca de la función coseno ($\cos$)?
 
 ### Opciones
-- [ ] A) Cosecante ($\csc$) <!-- feedback: Incorrecto. La cosecante es el recíproco del seno. -->
-- [x] B) Secante ($\sec$) <!-- feedback: Correcto. $\sec(\theta) = 1/\cos(\theta)$. -->
+- [ ] B) Cosecante ($\csc$) <!-- feedback: Incorrecto. La cosecante es el recíproco del seno. -->
+- [x] A) Secante ($\sec$) <!-- feedback: Correcto. $\sec(\theta) = 1/\cos(\theta)$. -->
 - [ ] C) Cotangente ($\cot$) <!-- feedback: Incorrecto. La cotangente es el recíproco de la tangente. -->
 - [ ] D) Seno ($\sin$) <!-- feedback: Incorrecto. El seno y el coseno son funciones complementarias, no recíprocas. -->
 
@@ -67,8 +67,8 @@ Las funciones recíprocas se obtienen invirtiendo la fracción de la razón orig
 ¿Cuál es el valor exacto de $\sin(30^\circ)$?
 
 ### Opciones
-- [x] A) 1/2 <!-- feedback: Correcto. En un triángulo notable 30-60, el cateto opuesto a 30° es la mitad de la hipotenusa. -->
-- [ ] B) $\sqrt{3}/2$ <!-- feedback: Incorrecto. Este es el valor de $\cos(30^\circ)$ o $\sin(60^\circ)$. -->
+- [x] B) 1/2 <!-- feedback: Correcto. En un triángulo notable 30-60, el cateto opuesto a 30° es la mitad de la hipotenusa. -->
+- [ ] A) $\sqrt{3}/2$ <!-- feedback: Incorrecto. Este es el valor de $\cos(30^\circ)$ o $\sin(60^\circ)$. -->
 - [ ] C) $\sqrt{2}/2$ <!-- feedback: Incorrecto. Este es el valor del seno y coseno de 45°. -->
 - [ ] D) 1 <!-- feedback: Incorrecto. El seno solo vale 1 a los 90°. -->
 
@@ -144,8 +144,8 @@ Se desea construir una rampa con un ángulo de inclinación de 30°. Si la rampa
 
 ### Opciones
 - [ ] A) 2 metros <!-- feedback: Incorrecto. La hipotenusa debe ser mayor que el cateto. -->
-- [x] B) 4 metros <!-- feedback: Correcto. $\sin(30^\circ) = \text{Altura} / \text{Largo} \Rightarrow 0.5 = 2 / L \Rightarrow L = 2 / 0.5 = 4$. -->
-- [ ] C) $2\sqrt{3}$ metros <!-- feedback: Incorrecto. Esta sería la longitud de la base horizontal de la rampa. -->
+- [x] C) 4 metros <!-- feedback: Correcto. $\sin(30^\circ) = \text{Altura} / \text{Largo} \Rightarrow 0.5 = 2 / L \Rightarrow L = 2 / 0.5 = 4$. -->
+- [ ] B) $2\sqrt{3}$ metros <!-- feedback: Incorrecto. Esta sería la longitud de la base horizontal de la rampa. -->
 - [ ] D) 6 metros <!-- feedback: Incorrecto. Error en el despeje de la razón del seno. -->
 
 ### Explicacion Pedagogica
@@ -220,8 +220,8 @@ La cotangente es la razón entre el coseno y el seno. Al dividir, racionalizamos
 
 ### Opciones
 - [ ] A) $\tan^2 \theta$ <!-- feedback: Incorrecto. La identidad para la tangente involucra la secante. -->
-- [x] B) 1 <!-- feedback: Correcto. Esta es la Identidad Pitagórica fundamental de la trigonometría. -->
-- [ ] C) 0 <!-- feedback: Incorrecto. La suma de cuadrados de valores reales no nulos no puede ser cero. -->
+- [x] C) 1 <!-- feedback: Correcto. Esta es la Identidad Pitagórica fundamental de la trigonometría. -->
+- [ ] B) 0 <!-- feedback: Incorrecto. La suma de cuadrados de valores reales no nulos no puede ser cero. -->
 - [ ] D) $\sin(2\theta)$ <!-- feedback: Incorrecto. Esta es la fórmula del ángulo doble, no una identidad de suma de cuadrados. -->
 
 ### Explicacion Pedagogica
@@ -239,8 +239,8 @@ La Identidad Pitagórica deriva directamente del Teorema de Pitágoras aplicado 
 
 ### Opciones
 - [ ] A) $\cos \theta$ <!-- feedback: Incorrecto. La tangente contiene al seno en el numerador. -->
-- [x] B) $\sin \theta$ <!-- feedback: Correcto. $\tan \theta = \sin \theta / \cos \theta$. Al multiplicar por $\cos \theta$, los cosenos se cancelan. -->
-- [ ] C) 1 <!-- feedback: Incorrecto. Esto sucedería si se multiplicaran funciones recíprocas como $\sin \cdot \csc$. -->
+- [x] C) $\sin \theta$ <!-- feedback: Correcto. $\tan \theta = \sin \theta / \cos \theta$. Al multiplicar por $\cos \theta$, los cosenos se cancelan. -->
+- [ ] B) 1 <!-- feedback: Incorrecto. Esto sucedería si se multiplicaran funciones recíprocas como $\sin \cdot \csc$. -->
 - [ ] D) $\cot \theta$ <!-- feedback: Incorrecto. La cotangente es la inversa de la tangente. -->
 
 ### Explicacion Pedagogica
@@ -258,8 +258,8 @@ Expresar todas las funciones en términos de seno y coseno es la estrategia est�
 
 ### Opciones
 - [ ] A) $-1/2$ <!-- feedback: Incorrecto. En el segundo cuadrante, el seno es positivo. -->
-- [x] B) 1/2 <!-- feedback: Correcto. El ángulo de referencia es $180^\circ - 150^\circ = 30^\circ$. $\sin(150^\circ) = \sin(30^\circ) = 1/2$. -->
-- [ ] C) $\sqrt{3}/2$ <!-- feedback: Incorrecto. Este es el valor de $\cos(150^\circ)$ en valor absoluto. -->
+- [x] C) 1/2 <!-- feedback: Correcto. El ángulo de referencia es $180^\circ - 150^\circ = 30^\circ$. $\sin(150^\circ) = \sin(30^\circ) = 1/2$. -->
+- [ ] B) $\sqrt{3}/2$ <!-- feedback: Incorrecto. Este es el valor de $\cos(150^\circ)$ en valor absoluto. -->
 - [ ] D) $-\sqrt{3}/2$ <!-- feedback: Incorrecto. Este es el valor de $\cos(150^\circ)$. -->
 
 ### Explicacion Pedagogica
@@ -276,8 +276,8 @@ Para ángulos mayores de 90°, usamos el ángulo de referencia y el signo corres
 ¿En qué cuadrante tanto el seno como el coseno son negativos?
 
 ### Opciones
-- [ ] A) Segundo cuadrante <!-- feedback: Incorrecto. Aquí el seno es positivo. -->
-- [x] B) Tercer cuadrante <!-- feedback: Correcto. En el cuadrante III, tanto las coordenadas x como y son negativas. -->
+- [ ] B) Segundo cuadrante <!-- feedback: Incorrecto. Aquí el seno es positivo. -->
+- [x] A) Tercer cuadrante <!-- feedback: Correcto. En el cuadrante III, tanto las coordenadas x como y son negativas. -->
 - [ ] C) Cuarto cuadrante <!-- feedback: Incorrecto. Aquí el coseno es positivo. -->
 - [ ] D) En ningún cuadrante ocurre eso. <!-- feedback: Incorrecto. El círculo unitario define claramente las regiones de signos. -->
 
@@ -296,9 +296,9 @@ Si $\sin \theta = 3/5$ y el ángulo $\theta$ está en el segundo cuadrante, ¿cu
 
 ### Opciones
 - [ ] A) 4/5 <!-- feedback: Incorrecto. En el segundo cuadrante el coseno debe ser negativo. -->
-- [x] B) -4/5 <!-- feedback: Correcto. $\cos^2 \theta = 1 - (3/5)^2 = 1 - 9/25 = 16/25$. Como está en el II cuadrante, $\cos \theta = -\sqrt{16/25} = -4/5$. -->
-- [ ] C) -3/5 <!-- feedback: Incorrecto. El valor absoluto del coseno no es igual al del seno en este triángulo. -->
-- [ ] D) 4/3 <!-- feedback: Incorrecto. Este valor es mayor que 1, imposible para un coseno real. -->
+- [x] D) -4/5 <!-- feedback: Correcto. $\cos^2 \theta = 1 - (3/5)^2 = 1 - 9/25 = 16/25$. Como está en el II cuadrante, $\cos \theta = -\sqrt{16/25} = -4/5$. -->
+- [ ] B) -3/5 <!-- feedback: Incorrecto. El valor absoluto del coseno no es igual al del seno en este triángulo. -->
+- [ ] C) 4/3 <!-- feedback: Incorrecto. Este valor es mayor que 1, imposible para un coseno real. -->
 
 ### Explicacion Pedagogica
 Usamos la identidad pitagórica y seleccionamos el signo adecuado según la ubicación del ángulo en el plano.
@@ -314,8 +314,8 @@ Usamos la identidad pitagórica y seleccionamos el signo adecuado según la ubic
 ¿A cuántos grados equivalen $\pi/4$ radianes?
 
 ### Opciones
-- [ ] A) 30° <!-- feedback: Incorrecto. 30° equivale a $\pi/6$. -->
-- [x] B) 45° <!-- feedback: Correcto. Como $\pi = 180^\circ$, entonces $180/4 = 45^\circ$. -->
+- [ ] B) 30° <!-- feedback: Incorrecto. 30° equivale a $\pi/6$. -->
+- [x] A) 45° <!-- feedback: Correcto. Como $\pi = 180^\circ$, entonces $180/4 = 45^\circ$. -->
 - [ ] C) 60° <!-- feedback: Incorrecto. 60° equivale a $\pi/3$. -->
 - [ ] D) 90° <!-- feedback: Incorrecto. 90° equivale a $\pi/2$. -->
 
@@ -335,8 +335,8 @@ Desde la cima de un faro de 40 metros de altura, el ángulo de depresión hacia 
 ### Opciones
 - [ ] A) 40 metros <!-- feedback: Incorrecto. Esto sería si el ángulo fuera de 45°. -->
 - [ ] B) 80 metros <!-- feedback: Incorrecto. Esta es la distancia en línea recta visual (hipotenusa). -->
-- [x] C) $40\sqrt{3}$ metros <!-- feedback: Correcto. $\tan(30^\circ) = 40 / d \Rightarrow \sqrt{3}/3 = 40 / d \Rightarrow d = 120 / \sqrt{3} = 40\sqrt{3}$ ($\approx 69.3$ m). -->
-- [ ] D) 20 metros <!-- feedback: Incorrecto. Error al invertir la razón de la tangente. -->
+- [x] D) $40\sqrt{3}$ metros <!-- feedback: Correcto. $\tan(30^\circ) = 40 / d \Rightarrow \sqrt{3}/3 = 40 / d \Rightarrow d = 120 / \sqrt{3} = 40\sqrt{3}$ ($\approx 69.3$ m). -->
+- [ ] C) 20 metros <!-- feedback: Incorrecto. Error al invertir la razón de la tangente. -->
 
 ### Explicacion Pedagogica
 El ángulo de depresión es igual al ángulo de elevación desde el barco. Aplicamos la tangente del ángulo de 30° para hallar la distancia horizontal.
@@ -353,9 +353,9 @@ El ángulo de depresión es igual al ángulo de elevación desde el barco. Aplic
 
 ### Opciones
 - [ ] A) 50 cm² <!-- feedback: Incorrecto. Se olvidó multiplicar por el seno del ángulo. -->
-- [x] B) $25\sqrt{3}$ cm² <!-- feedback: Correcto. Área = $(1/2) \cdot a \cdot b \cdot \sin C = (1/2) \cdot 10 \cdot 10 \cdot \sin(60^\circ) = 50 \cdot \sqrt{3}/2 = 25\sqrt{3}$. -->
-- [ ] C) $100\sqrt{3}$ cm² <!-- feedback: Incorrecto. Se olvidó el factor de un medio en la fórmula del área. -->
-- [ ] D) 25 cm² <!-- feedback: Incorrecto. Valor muy bajo que ignora la altura del triángulo. -->
+- [x] D) $25\sqrt{3}$ cm² <!-- feedback: Correcto. Área = $(1/2) \cdot a \cdot b \cdot \sin C = (1/2) \cdot 10 \cdot 10 \cdot \sin(60^\circ) = 50 \cdot \sqrt{3}/2 = 25\sqrt{3}$. -->
+- [ ] B) $100\sqrt{3}$ cm² <!-- feedback: Incorrecto. Se olvidó el factor de un medio en la fórmula del área. -->
+- [ ] C) 25 cm² <!-- feedback: Incorrecto. Valor muy bajo que ignora la altura del triángulo. -->
 
 ### Explicacion Pedagogica
 El área de cualquier triángulo puede hallarse conociendo dos lados y el ángulo entre ellos. Para un triángulo equilátero, todos los ángulos son de 60°.
@@ -371,9 +371,9 @@ El área de cualquier triángulo puede hallarse conociendo dos lados y el ángul
 ¿A qué es igual el valor de $\cos(-60^\circ)$?
 
 ### Opciones
-- [x] A) 1/2 <!-- feedback: Correcto. El coseno es una función par, por lo que $\cos(-\theta) = \cos \theta$. $\cos(60^\circ) = 1/2$. -->
-- [ ] B) $-1/2$ <!-- feedback: Incorrecto. El coseno es positivo en el cuarto cuadrante (donde está -60°). -->
-- [ ] C) $\sqrt{3}/2$ <!-- feedback: Incorrecto. Este es el valor del seno de 60°. -->
+- [x] C) 1/2 <!-- feedback: Correcto. El coseno es una función par, por lo que $\cos(-\theta) = \cos \theta$. $\cos(60^\circ) = 1/2$. -->
+- [ ] A) $-1/2$ <!-- feedback: Incorrecto. El coseno es positivo en el cuarto cuadrante (donde está -60°). -->
+- [ ] B) $\sqrt{3}/2$ <!-- feedback: Incorrecto. Este es el valor del seno de 60°. -->
 - [ ] D) $-\sqrt{3}/2$ <!-- feedback: Incorrecto. Valor inconsistente con la paridad de la función. -->
 
 ### Explicacion Pedagogica

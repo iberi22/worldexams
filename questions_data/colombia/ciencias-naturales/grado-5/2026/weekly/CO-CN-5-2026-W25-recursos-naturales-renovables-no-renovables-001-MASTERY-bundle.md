@@ -34,9 +34,9 @@ Clasificación de los recursos naturales según su capacidad de renovación, eje
 ¿Qué es un recurso natural?
 
 ### Opciones
-- [x] A) Un elemento de la naturaleza que los seres humanos utilizan para satisfacer sus necesidades.
+- [x] B) Un elemento de la naturaleza que los seres humanos utilizan para satisfacer sus necesidades.
   <!-- feedback: Los recursos naturales provienen del ambiente y son aprovechados por las personas. -->
-- [ ] B) Un objeto fabricado exclusivamente en fábricas.
+- [ ] A) Un objeto fabricado exclusivamente en fábricas.
   <!-- feedback: Los objetos de fábrica son bienes transformados, no recursos naturales. -->
 - [ ] C) Un animal doméstico que vive solo dentro de las casas.
   <!-- feedback: Los animales domésticos son parte de la naturaleza, pero no definen el concepto general. -->
@@ -57,13 +57,13 @@ Reconocer el concepto de recurso natural como aquel elemento de la naturaleza ap
 ¿Cuál de los siguientes ejemplos corresponde a un recurso natural renovable?
 
 ### Opciones
-- [x] A) La energía del sol, porque se recibe de forma continua y no se agota al utilizarla.
+- [x] D) La energía del sol, porque se recibe de forma continua y no se agota al utilizarla.
   <!-- feedback: La radiación solar se renueva cada día y se considera un recurso renovable. -->
-- [ ] B) El carbón extraído de una mina, porque tarda millones de años en formarse.
+- [ ] A) El carbón extraído de una mina, porque tarda millones de años en formarse.
   <!-- feedback: El carbón es un recurso no renovable por su formación geológica muy lenta. -->
-- [ ] C) El petróleo encontrado bajo tierra, porque se extrae y se consume con facilidad.
+- [ ] B) El petróleo encontrado bajo tierra, porque se extrae y se consume con facilidad.
   <!-- feedback: El petróleo es no renovable, ya que sus reservas tardan millones de años en recuperarse. -->
-- [ ] D) Los minerales metálicos como el cobre, porque se obtienen una sola vez de la mina.
+- [ ] C) Los minerales metálicos como el cobre, porque se obtienen una sola vez de la mina.
   <!-- feedback: Los minerales metálicos son no renovables porque se forman en tiempos geológicos muy largos. -->
 
 ### Explicacion Pedagogica
@@ -103,9 +103,9 @@ Aplicar el criterio de renovación natural para distinguir entre recursos renova
 Si la comunidad quiere usar una fuente renovable y menos contaminante, ¿cuál es la opción más adecuada?
 
 ### Opciones
-- [x] A) Paneles solares, porque aprovechan una fuente renovable y producen menos contaminación.
+- [x] B) Paneles solares, porque aprovechan una fuente renovable y producen menos contaminación.
   <!-- feedback: La energía solar es renovable y de bajo impacto ambiental cuando se usa bien. -->
-- [ ] B) Carbón, porque es barato y se encuentra fácilmente en el mercado.
+- [ ] A) Carbón, porque es barato y se encuentra fácilmente en el mercado.
   <!-- feedback: El carbón es no renovable y emite mucho dióxido de carbono al quemarse. -->
 - [ ] C) Leña sin control, porque siempre habrá árboles en el bosque.
   <!-- feedback: Usar leña sin control promueve deforestación y no es sostenible. -->
@@ -126,9 +126,9 @@ Aplicar el criterio de renovación y bajo impacto para elegir una fuente de ener
 ¿Por qué es importante cuidar el agua a pesar de que se considera un recurso natural renovable?
 
 ### Opciones
-- [x] A) Porque, aunque se renueva, la cantidad disponible de agua limpia puede disminuir si se contamina o se usa en exceso.
+- [x] B) Porque, aunque se renueva, la cantidad disponible de agua limpia puede disminuir si se contamina o se usa en exceso.
   <!-- feedback: El agua dulce disponible es limitada y puede agotarse o contaminarse localmente. -->
-- [ ] B) Porque el agua nunca se renueva y ya no queda nada en los ríos.
+- [ ] A) Porque el agua nunca se renueva y ya no queda nada en los ríos.
   <!-- feedback: El agua sí se renueva por el ciclo hidrológico, pero su calidad debe protegerse. -->
 - [ ] C) Porque solo importa cuidar los recursos que cuestan dinero.
   <!-- feedback: El valor del recurso no depende de su precio, sino de su disponibilidad. -->
@@ -172,13 +172,13 @@ Analizar la diferencia entre gestionar un recurso renovable (bosque) y explotar 
 ¿Qué contraste ambiental se puede deducir de la situación descrita?
 
 ### Opciones
-- [x] A) La minería no renovable puede deteriorar ecosistemas, mientras que las áreas protegidas favorecen la renovación de recursos.
+- [x] D) La minería no renovable puede deteriorar ecosistemas, mientras que las áreas protegidas favorecen la renovación de recursos.
   <!-- feedback: La minería contamina y degrada, mientras que las áreas protegidas conservan recursos renovables. -->
-- [ ] B) El oro es un recurso renovable, porque se puede seguir extrayendo sin límites.
+- [ ] A) El oro es un recurso renovable, porque se puede seguir extrayendo sin límites.
   <!-- feedback: El oro es un recurso no renovable, por lo que su extracción debe ser muy controlada. -->
-- [ ] C) Los parques nacionales solo se usan para la recreación, no para la conservación.
+- [ ] B) Los parques nacionales solo se usan para la recreación, no para la conservación.
   <!-- feedback: Los parques nacionales tienen como función principal proteger los ecosistemas. -->
-- [ ] D) La contaminación por mercurio no afecta a los seres vivos del río.
+- [ ] C) La contaminación por mercurio no afecta a los seres vivos del río.
   <!-- feedback: El mercurio es altamente tóxico para personas, animales y plantas. -->
 
 ### Explicacion Pedagogica
@@ -195,13 +195,13 @@ Analizar las consecuencias ambientales del uso de recursos no renovables frente 
 ¿Por qué esta campaña es coherente con el cuidado de los recursos naturales renovables y no renovables?
 
 ### Opciones
-- [x] A) Porque ahorrar agua y luz reduce el uso de recursos renovables y no renovables, y reciclar disminuye la extracción de nuevos materiales.
+- [x] D) Porque ahorrar agua y luz reduce el uso de recursos renovables y no renovables, y reciclar disminuye la extracción de nuevos materiales.
   <!-- feedback: Reducir el consumo y reciclar alivia la presión sobre todo tipo de recursos naturales. -->
-- [ ] B) Porque solo sirve para que el colegio ahorre dinero en los recibos.
+- [ ] A) Porque solo sirve para que el colegio ahorre dinero en los recibos.
   <!-- feedback: El ahorro económico es un beneficio, pero el impacto ambiental es la razón principal. -->
-- [ ] C) Porque se prohíbe a los estudiantes usar cualquier recurso natural.
+- [ ] B) Porque se prohíbe a los estudiantes usar cualquier recurso natural.
   <!-- feedback: La campaña no prohíbe el uso, sino que promueve un consumo responsable. -->
-- [ ] D) Porque reciclar no tiene relación alguna con los recursos naturales.
+- [ ] C) Porque reciclar no tiene relación alguna con los recursos naturales.
   <!-- feedback: Reciclar reduce la necesidad de extraer nuevos recursos naturales. -->
 
 ### Explicacion Pedagogica

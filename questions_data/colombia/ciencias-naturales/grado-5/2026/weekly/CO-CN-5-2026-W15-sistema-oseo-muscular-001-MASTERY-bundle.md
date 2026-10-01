@@ -34,13 +34,13 @@ Huesos, músculos y articulaciones del cuerpo humano, sus funciones y cuidados b
 ¿Cuál es la función principal de los huesos dentro del sistema óseo humano?
 
 ### Opciones
-- [x] A) Dar sostén al cuerpo, proteger órganos vitales y permitir el movimiento junto con los músculos.
+- [x] D) Dar sostén al cuerpo, proteger órganos vitales y permitir el movimiento junto con los músculos.
   <!-- feedback: Los huesos sostienen la estructura corporal, resguardan órganos como el cerebro y sirven de palanca para el movimiento. -->
-- [ ] B) Producir el oxígeno que respiran todas las células del cuerpo.
+- [ ] A) Producir el oxígeno que respiran todas las células del cuerpo.
   <!-- feedback: El oxígeno se obtiene en los pulmones durante la respiración, no lo producen los huesos. -->
-- [ ] C) Transportar la sangre por todo el organismo mediante latidos.
+- [ ] B) Transportar la sangre por todo el organismo mediante latidos.
   <!-- feedback: El transporte de la sangre es función del corazón y los vasos sanguíneos. -->
-- [ ] D) Digerir los alimentos en el estómago y los intestinos.
+- [ ] C) Digerir los alimentos en el estómago y los intestinos.
   <!-- feedback: La digestión corresponde al sistema digestivo, no al sistema óseo. -->
 
 ### Explicacion Pedagogica
@@ -80,9 +80,9 @@ Comprensión de la relación entre la contracción muscular y el desplazamiento 
 ¿Qué estructuras del cuerpo permiten que la rodilla se doble y se extienda con facilidad?
 
 ### Opciones
-- [x] A) Las articulaciones, que unen dos o más huesos y permiten su movimiento.
+- [x] B) Las articulaciones, que unen dos o más huesos y permiten su movimiento.
   <!-- feedback: Las articulaciones son las zonas de unión entre huesos que posibilitan el desplazamiento; la rodilla es una de ellas. -->
-- [ ] B) Los pulmones, que se inflan para empujar la pierna hacia abajo.
+- [ ] A) Los pulmones, que se inflan para empujar la pierna hacia abajo.
   <!-- feedback: Los pulmones intervienen en la respiración y no mueven directamente las piernas. -->
 - [ ] C) Las uñas de los dedos de los pies, que sirven de bisagra.
   <!-- feedback: Las uñas protegen la punta de los dedos y no articulan los huesos de la pierna. -->
@@ -103,9 +103,9 @@ Aplicación del concepto de articulación para explicar el movimiento de las ext
 ¿Qué explica mejor el abultamiento que aparece en el brazo al flexionar el codo?
 
 ### Opciones
-- [x] A) El músculo bíceps se contrae y se acorta, elevando el antebrazo.
+- [x] B) El músculo bíceps se contrae y se acorta, elevando el antebrazo.
   <!-- feedback: Al contraerse, el bíceps se acorta y aumenta de grosor, lo que se percibe como un abultamiento. -->
-- [ ] B) El hueso del brazo crece de repente al doblarse.
+- [ ] A) El hueso del brazo crece de repente al doblarse.
   <!-- feedback: Los huesos no cambian de tamaño durante un movimiento normal del codo. -->
 - [ ] C) La sangre se acumula y endurece la piel del brazo.
   <!-- feedback: Aunque circula más sangre al ejercitar, el abultamiento se debe a la contracción muscular. -->
@@ -126,11 +126,11 @@ Interpretación de la contracción muscular observada en una situación experime
 ¿Cuál es el nutriente que aportan principalmente estos alimentos y que fortalece los huesos?
 
 ### Opciones
-- [x] A) El calcio, mineral esencial para la formación y resistencia de los huesos.
+- [x] C) El calcio, mineral esencial para la formación y resistencia de los huesos.
   <!-- feedback: El calcio se deposita en el tejido óseo y le da dureza y fortaleza. -->
-- [ ] B) El hierro, que colorea de rojo la sangre.
+- [ ] A) El hierro, que colorea de rojo la sangre.
   <!-- feedback: El hierro participa en el transporte de oxígeno en la sangre, no en la dureza del hueso. -->
-- [ ] C) La vitamina C, que evita el escorbuto en las encías.
+- [ ] B) La vitamina C, que evita el escorbuto en las encías.
   <!-- feedback: La vitamina C refuerza las defensas y la piel, pero el mineral clave del hueso es el calcio. -->
 - [ ] D) El azúcar, que endurece el esqueleto al cristalizarse.
   <!-- feedback: El exceso de azúcar no fortalece los huesos; una dieta saludable requiere calcio y vitamina D. -->
@@ -149,9 +149,9 @@ Relación entre la alimentación y los nutrientes que mantienen la salud del sis
 ¿Qué permite que el hueso fracturado vuelva a unirse durante la recuperación?
 
 ### Opciones
-- [x] A) El tejido óseo vivo puede regenerarse y formar nuevo material que une los extremos rotos.
+- [x] B) El tejido óseo vivo puede regenerarse y formar nuevo material que une los extremos rotos.
   <!-- feedback: El hueso es un tejido vivo con células capaces de producir nuevo tejido y soldar la fractura. -->
-- [ ] B) El yeso se convierte en hueso nuevo y reemplaza al que se rompió.
+- [ ] A) El yeso se convierte en hueso nuevo y reemplaza al que se rompió.
   <!-- feedback: El yeso solo inmoviliza la zona; no forma parte del cuerpo ni se transforma en hueso. -->
 - [ ] C) Los músculos circundantes se endurecen y hacen las veces de hueso.
   <!-- feedback: El músculo no se transforma en hueso; su función es mover y estabilizar la zona lesionada. -->

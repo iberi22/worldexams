@@ -57,9 +57,9 @@ La teoría celular, unificadora de la biología, se consolidó en el siglo XIX g
 Al examinar una célula procarionte, ¿en qué estructura específica se localiza de manera libre su molécula de ADN circular genómico?
 
 ### Opciones
-- [x] A) El nucleoide <!-- feedback: ¡Correcto! El nucleoide es la región del citoplasma bacteriano irregular donde se halla condensado el cromosoma único. -->
-- [ ] B) El nucleolo central <!-- feedback: Incorrecto. El nucleolo es un organelo denso nuclear exclusivo de los eucariontes. -->
-- [ ] C) La membrana nuclear externa <!-- feedback: Incorrecto. Las bacterias carecen de membrana nuclear o carioteca. -->
+- [x] C) El nucleoide <!-- feedback: ¡Correcto! El nucleoide es la región del citoplasma bacteriano irregular donde se halla condensado el cromosoma único. -->
+- [ ] A) El nucleolo central <!-- feedback: Incorrecto. El nucleolo es un organelo denso nuclear exclusivo de los eucariontes. -->
+- [ ] B) La membrana nuclear externa <!-- feedback: Incorrecto. Las bacterias carecen de membrana nuclear o carioteca. -->
 - [ ] D) Los plásmidos mitocondriales <!-- feedback: Incorrecto. Los plásmidos son ADN extracromosómico, pero no contienen el genoma celular bacteriano principal. -->
 
 ### Explicacion Pedagogica
@@ -78,8 +78,8 @@ Los procariontes carecen de compartimentación nuclear, por lo que el material g
 ¿Cuál es la función primordial de los ribosomas libres distribuidos en el citosol tanto de células eucariotas como procariotas?
 
 ### Opciones
-- [x] A) Sintetizar proteínas a partir de la traducción del ARN mensajero <!-- feedback: ¡Correcto! Los ribosomas son las fábricas universales encargadas del ensamblaje de cadenas polipeptídicas. -->
-- [ ] B) Producir ATP mediante la degradación aeróbica de la glucosa <!-- feedback: Incorrecto. La síntesis de ATP aeróbica es función mitocondrial en eucariontes. -->
+- [x] B) Sintetizar proteínas a partir de la traducción del ARN mensajero <!-- feedback: ¡Correcto! Los ribosomas son las fábricas universales encargadas del ensamblaje de cadenas polipeptídicas. -->
+- [ ] A) Producir ATP mediante la degradación aeróbica de la glucosa <!-- feedback: Incorrecto. La síntesis de ATP aeróbica es función mitocondrial en eucariontes. -->
 - [ ] C) Sintetizar los fosfolípidos que integran la membrana plasmática <!-- feedback: Incorrecto. Los lípidos de membrana se sintetizan en el retículo endoplasmático liso o equivalentes. -->
 - [ ] D) Empaquetar y distribuir azúcares complejos hacia el exterior <!-- feedback: Incorrecto. Esto corresponde a la vía secretora del aparato de Golgi eucariota. -->
 
@@ -99,8 +99,8 @@ Aunque varían en su tamaño y estructura de subunidades (70S en procariontes y 
 La pared celular bacteriana posee un componente polimérico único que le otorga rigidez mecánica y protección osmótica. ¿De qué sustancia química se compone principalmente?
 
 ### Opciones
-- [x] A) Peptidoglucano (o mureína) <!-- feedback: ¡Correcto! El peptidoglucano es el polímero estructural exclusivo de las paredes celulares de las bacterias verdaderas (eubacterias). -->
-- [ ] B) Celulosa vegetal cristalina <!-- feedback: Incorrecto. La celulosa es el polímero de glucosa que compone la pared celular de las plantas. -->
+- [x] B) Peptidoglucano (o mureína) <!-- feedback: ¡Correcto! El peptidoglucano es el polímero estructural exclusivo de las paredes celulares de las bacterias verdaderas (eubacterias). -->
+- [ ] A) Celulosa vegetal cristalina <!-- feedback: Incorrecto. La celulosa es el polímero de glucosa que compone la pared celular de las plantas. -->
 - [ ] C) Quitina polimérica nitrogenada <!-- feedback: Incorrecto. La quitina compone la pared celular de los hongos y el exoesqueleto de artrópodos. -->
 - [ ] D) Fosfolípidos anfipáticos saturados <!-- feedback: Incorrecto. Los fosfolípidos forman parte de las membranas celulares, no de las paredes rígidas externas. -->
 
@@ -120,8 +120,8 @@ La síntesis de peptidoglucano es el blanco de muchos antibióticos comunes (com
 Si un científico bloquea la formación de la envoltura nuclear durante el ciclo de vida de un linaje celular eucariota, ¿cuál será la consecuencia directa observada?
 
 ### Opciones
-- [x] A) Incapacidad para delimitar y proteger el material genético en un compartimento separado del citoplasma <!-- feedback: ¡Correcto! La carioteca o envoltura nuclear es la doble membrana lipídica que aísla el ADN eucariota, permitiendo la regulación fina de la expresión génica. -->
-- [ ] B) Detención inmediata de la síntesis de ácidos grasos en el retículo endoplasmático liso <!-- feedback: Incorrecto. El REL sintetiza lípidos y no depende de la envoltura nuclear para su funcionamiento enzimático basal. -->
+- [x] B) Incapacidad para delimitar y proteger el material genético en un compartimento separado del citoplasma <!-- feedback: ¡Correcto! La carioteca o envoltura nuclear es la doble membrana lipídica que aísla el ADN eucariota, permitiendo la regulación fina de la expresión génica. -->
+- [ ] A) Detención inmediata de la síntesis de ácidos grasos en el retículo endoplasmático liso <!-- feedback: Incorrecto. El REL sintetiza lípidos y no depende de la envoltura nuclear para su funcionamiento enzimático basal. -->
 - [ ] C) Pérdida absoluta de la capacidad de absorción pasiva de agua celular por ósmosis <!-- feedback: Incorrecto. El flujo osmótico de agua está regulado por la membrana plasmática, no por la carioteca nuclear. -->
 - [ ] D) Lisis osmótica espontánea debido a la acumulación de iones sodio <!-- feedback: Incorrecto. La lisis ocurre por desequilibrios en la membrana plasmática y la osmolaridad del citosol frente al exterior. -->
 
@@ -141,8 +141,8 @@ La envoltura nuclear eucariota posee poros complejos que controlan el paso selec
 ¿Por qué las células eucariotas pueden alcanzar tamaños de volumen significativamente mayores que las células procariotas sin comprometer su eficiencia metabólica?
 
 ### Opciones
-- [x] A) Porque poseen un sistema de endomembranas y organelos especializados que facilitan el transporte interno y compartimentan las reacciones químicas <!-- feedback: ¡Correcto! La compartimentación evita que los reactivos se diluyan, optimizando los procesos en espacios reducidos y reduciendo la dependencia de la difusión simple. -->
-- [ ] B) Porque su membrana plasmática carece de permeabilidad selectiva, permitiendo el ingreso de nutrientes <!-- feedback: Incorrecto. La pérdida de selectividad de la membrana provocaría la muerte celular por desequilibrio homeostático. -->
+- [x] B) Porque poseen un sistema de endomembranas y organelos especializados que facilitan el transporte interno y compartimentan las reacciones químicas <!-- feedback: ¡Correcto! La compartimentación evita que los reactivos se diluyan, optimizando los procesos en espacios reducidos y reduciendo la dependencia de la difusión simple. -->
+- [ ] A) Porque su membrana plasmática carece de permeabilidad selectiva, permitiendo el ingreso de nutrientes <!-- feedback: Incorrecto. La pérdida de selectividad de la membrana provocaría la muerte celular por desequilibrio homeostático. -->
 - [ ] C) Porque su cromosoma circular único está superenrollado con proteínas histonas que aceleran la difusión <!-- feedback: Incorrecto. Las eucariotas tienen múltiples cromosomas lineales, no uno circular, y las histonas empaquetan el ADN pero no aceleran la difusión citoplasmática. -->
 - [ ] D) Porque realizan la respiración celular en el citosol sin requerir de proteínas de membrana <!-- feedback: Incorrecto. La respiración aeróbica eucariota ocurre principalmente en las mitocondrias mediante cadenas transportadoras en su membrana interna. -->
 
@@ -225,10 +225,10 @@ La cápsula bacteriana es una estructura facultativa presente en algunas bacteri
 Si un patólogo analiza una biopsia y observa células con abundante retículo endoplasmático rugoso muy desarrollado y un aparato de Golgi muy desarrollado, ¿cuál es la especialización funcional de ese tejido?
 
 ### Opciones
-- [x] A) La secreción de proteínas de exportación <!-- feedback: ¡Correcto! El RER sintetiza proteínas y el Golgi las procesa y clasifica para su secreción en vesículas, indicando una alta actividad secretora. -->
-- [ ] B) El almacenamiento de triglicéridos y ácidos grasos saturados <!-- feedback: Incorrecto. El almacenamiento lipídico ocurre en adipocitos con vacuolas lipídicas gigantes, sin requerir una maquinaria secretora compleja de proteínas. -->
-- [ ] C) La contracción muscular voluntaria de respuesta rápida <!-- feedback: Incorrecto. Las células musculares se especializan en citoesqueleto contráctil de actina/miosina y retículo sarcoplásmico. -->
-- [ ] D) La absorción pasiva de oxígeno disuelto en la sangre <!-- feedback: Incorrecto. El transporte de oxígeno es mediado por la hemoglobina en eritrocitos maduros (que carecen de estos organelos). -->
+- [x] D) La secreción de proteínas de exportación <!-- feedback: ¡Correcto! El RER sintetiza proteínas y el Golgi las procesa y clasifica para su secreción en vesículas, indicando una alta actividad secretora. -->
+- [ ] A) El almacenamiento de triglicéridos y ácidos grasos saturados <!-- feedback: Incorrecto. El almacenamiento lipídico ocurre en adipocitos con vacuolas lipídicas gigantes, sin requerir una maquinaria secretora compleja de proteínas. -->
+- [ ] B) La contracción muscular voluntaria de respuesta rápida <!-- feedback: Incorrecto. Las células musculares se especializan en citoesqueleto contráctil de actina/miosina y retículo sarcoplásmico. -->
+- [ ] C) La absorción pasiva de oxígeno disuelto en la sangre <!-- feedback: Incorrecto. El transporte de oxígeno es mediado por la hemoglobina en eritrocitos maduros (que carecen de estos organelos). -->
 
 ### Explicacion Pedagogica
 El desarrollo de organelos en una célula refleja directamente su especialización funcional y metabólica dentro del organismo pluricelular.
@@ -246,10 +246,10 @@ El desarrollo de organelos en una célula refleja directamente su especializaci�
 Al estudiar la evolución celular, la teoría endosimbiótica propuesta por Lynn Margulis explica el origen de dos organelos eucariotas fundamentales. ¿Cuáles son estos organelos?
 
 ### Opciones
-- [x] A) Mitocondrias y cloroplastos <!-- feedback: ¡Correcto! Margulis propuso que mitocondrias (de proteobacterias aerobias) y cloroplastos (de cianobacterias fotosintéticas) provienen de antiguas endosimbiosis procariontes. -->
-- [ ] B) Lisosomas y peroxisomas <!-- feedback: Incorrecto. Los lisosomas y peroxisomas pertenecen al sistema de endomembranas y no provienen de endosimbiosis bacteriana. -->
-- [ ] C) Aparato de Golgi y RER <!-- feedback: Incorrecto. Estos organelos de endomembrana surgieron por invaginación de la membrana plasmática ancestral de la célula hospedadora. -->
-- [ ] D) Centrosomas y cilios <!-- feedback: Incorrecto. Los cilios y centrosomas tienen componentes de microtúbulos, pero no tienen el respaldo genético evolutivo de origen endosimbiótico. -->
+- [x] D) Mitocondrias y cloroplastos <!-- feedback: ¡Correcto! Margulis propuso que mitocondrias (de proteobacterias aerobias) y cloroplastos (de cianobacterias fotosintéticas) provienen de antiguas endosimbiosis procariontes. -->
+- [ ] A) Lisosomas y peroxisomas <!-- feedback: Incorrecto. Los lisosomas y peroxisomas pertenecen al sistema de endomembranas y no provienen de endosimbiosis bacteriana. -->
+- [ ] B) Aparato de Golgi y RER <!-- feedback: Incorrecto. Estos organelos de endomembrana surgieron por invaginación de la membrana plasmática ancestral de la célula hospedadora. -->
+- [ ] C) Centrosomas y cilios <!-- feedback: Incorrecto. Los cilios y centrosomas tienen componentes de microtúbulos, pero no tienen el respaldo genético evolutivo de origen endosimbiótico. -->
 
 ### Explicacion Pedagogica
 Las pruebas clave de la endosimbiosis incluyen la presencia de ADN circular propio libre de histonas, ribosomas 70S y doble membrana en mitocondrias y cloroplastos.
@@ -267,8 +267,8 @@ Las pruebas clave de la endosimbiosis incluyen la presencia de ADN circular prop
 Durante un experimento, se trata un cultivo de células eucariotas con un fármaco que inhibe específicamente la polimerización de la actina del citoesqueleto. ¿Qué proceso celular se verá bloqueado en estas condiciones?
 
 ### Opciones
-- [x] A) La citocinesis (división del citoplasma) <!-- feedback: ¡Correcto! Los microfilamentos de actina forman el anillo contráctil durante la división citoplasmática de las células animales. -->
-- [ ] B) La duplicación de los cromosomas lineales dentro del núcleo <!-- feedback: Incorrecto. La replicación depende de enzimas nucleares del complejo de la ADN polimerasa, no de microfilamentos de actina. -->
+- [x] B) La citocinesis (división del citoplasma) <!-- feedback: ¡Correcto! Los microfilamentos de actina forman el anillo contráctil durante la división citoplasmática de las células animales. -->
+- [ ] A) La duplicación de los cromosomas lineales dentro del núcleo <!-- feedback: Incorrecto. La replicación depende de enzimas nucleares del complejo de la ADN polimerasa, no de microfilamentos de actina. -->
 - [ ] C) El batido ciliar y flagelar mediado por los microtúbulos <!-- feedback: Incorrecto. Los cilios y flagelos dependen de microtúbulos organizados en un patrón axonémico (9+2), no de actina. -->
 - [ ] D) La respiración celular mitocondrial <!-- feedback: Incorrecto. Son procesos enzimáticos de las membranas mitocondriales que no involucran el citoesqueleto de actina. -->
 
@@ -288,8 +288,8 @@ La actina es el componente principal de los microfilamentos del citoesqueleto, i
 ¿Qué estructura compuesta de ARN de transferencia y ribosómico se localiza en el interior del núcleo eucariota y es el sitio de ensamblaje de las subunidades de los ribosomas?
 
 ### Opciones
-- [x] A) El nucléolo <!-- feedback: ¡Correcto! El nucléolo es una región densa del núcleo donde se transcriben los genes de ARNr y se empaquetan con proteínas importadas del citoplasma. -->
-- [ ] B) La cromatina condensada <!-- feedback: Incorrecto. La cromatina es el complejo de ADN e histonas que compone los cromosomas, no se especializa únicamente en ensamblar ribosomas. -->
+- [x] B) El nucléolo <!-- feedback: ¡Correcto! El nucléolo es una región densa del núcleo donde se transcriben los genes de ARNr y se empaquetan con proteínas importadas del citoplasma. -->
+- [ ] A) La cromatina condensada <!-- feedback: Incorrecto. La cromatina es el complejo de ADN e histonas que compone los cromosomas, no se especializa únicamente en ensamblar ribosomas. -->
 - [ ] C) La lámina nuclear de filamentos <!-- feedback: Incorrecto. La lámina nuclear es una red proteica de filamentos intermedios que da soporte estructural interno a la carioteca. -->
 - [ ] D) El centrosoma mitótico <!-- feedback: Incorrecto. El centrosoma se localiza en el citoplasma y actúa como organizador de microtúbulos para el huso. -->
 
@@ -309,8 +309,8 @@ El nucléolo no está rodeado por membrana plasmática propia; es un condensado 
 Si comparamos los ribosomas procariotas y eucariotas en base a su coeficiente de sedimentación, ¿cuáles son las proporciones correctas?
 
 ### Opciones
-- [x] A) Procariota 70S (subunidades 50S y 30S) y Eucariota 80S (subunidades 60S y 40S) <!-- feedback: ¡Correcto! Esta diferencia de tamaño y composición molecular es clave para el diseño de fármacos antibióticos selectivos. -->
-- [ ] B) Procariota 80S (subunidades 60S y 40S) y Eucariota 70S (subunidades 50S y 30S) <!-- feedback: Incorrecto. Los valores están invertidos; los procariontes poseen ribosomas más pequeños (70S). -->
+- [x] B) Procariota 70S (subunidades 50S y 30S) y Eucariota 80S (subunidades 60S y 40S) <!-- feedback: ¡Correcto! Esta diferencia de tamaño y composición molecular es clave para el diseño de fármacos antibióticos selectivos. -->
+- [ ] A) Procariota 80S (subunidades 60S y 40S) y Eucariota 70S (subunidades 50S y 30S) <!-- feedback: Incorrecto. Los valores están invertidos; los procariontes poseen ribosomas más pequeños (70S). -->
 - [ ] C) Ambos poseen de forma simétrica ribosomas de 100S integrados por subunidades idénticas de 50S <!-- feedback: Incorrecto. Los ribosomas activos nunca se dividen en dos subunidades idénticas de esa magnitud ni alcanzan los 100S. -->
 - [ ] D) Los procariontes carecen de subunidades ribosomales diferenciadas <!-- feedback: Incorrecto. Todos los ribosomas celulares funcionales constan de dos subunidades distintas (una mayor y una menor) acopladas. -->
 
@@ -330,9 +330,9 @@ El coeficiente de sedimentación (Svedberg, S) mide la velocidad con la que sedi
 Al observar una célula eucariota animal con técnicas de tinción, se visualizan enzimas hidrolíticas ácidas activas únicamente a pH ácido (~5.0). ¿En qué organelo se localizan estas enzimas?
 
 ### Opciones
-- [x] A) Los lisosomas <!-- feedback: ¡Correcto! Los lisosomas contienen hidrolasas ácidas encargadas de la degradación intracelular de macromoléculas y organelos. -->
-- [ ] B) Los cloroplastos <!-- feedback: Incorrecto. Los cloroplastos contienen enzimas asociadas al ciclo de Calvin y la fotosíntesis, no hidrolasas ácidas. -->
-- [ ] C) Los peroxisomas <!-- feedback: Incorrecto. Los peroxisomas albergan oxidasas y catalasas para el metabolismo de ácidos grasos y peróxidos. -->
+- [x] C) Los lisosomas <!-- feedback: ¡Correcto! Los lisosomas contienen hidrolasas ácidas encargadas de la degradación intracelular de macromoléculas y organelos. -->
+- [ ] A) Los cloroplastos <!-- feedback: Incorrecto. Los cloroplastos contienen enzimas asociadas al ciclo de Calvin y la fotosíntesis, no hidrolasas ácidas. -->
+- [ ] B) Los peroxisomas <!-- feedback: Incorrecto. Los peroxisomas albergan oxidasas y catalasas para el metabolismo de ácidos grasos y peróxidos. -->
 - [ ] D) Los ribosomas libres <!-- feedback: Incorrecto. Los ribosomas catalizan la formación de enlaces peptídicos mediante traducción, no la degradación ácida de macromoléculas. -->
 
 ### Explicacion Pedagogica
@@ -351,9 +351,9 @@ La membrana del lisosoma posee bombas de protones que bombean activamente iones 
 Si una célula eucariota vegetal pierde la capacidad de producir clorofila, ¿cuál de los siguientes procesos organelares se verá directamente anulado?
 
 ### Opciones
-- [x] A) La absorción de la energía lumínica en la membrana tilacoidal <!-- feedback: ¡Correcto! La clorofila es el pigmento fotorreceptor encargado de absorber la luz roja y azul para impulsar el flujo electrónico fotosintético. -->
-- [ ] B) La síntesis proteica mitocondrial en el estroma <!-- feedback: Incorrecto. La síntesis en mitocondrias es independiente de la luz solar y ocurre gracias a la maquinaria genética de la mitocondria. -->
-- [ ] C) El ciclo de Krebs en la matriz mitocondrial interna <!-- feedback: Incorrecto. El ciclo de Krebs es un proceso de la respiración celular que ocurre en la matriz mitocondria, no depende de la clorofila. -->
+- [x] C) La absorción de la energía lumínica en la membrana tilacoidal <!-- feedback: ¡Correcto! La clorofila es el pigmento fotorreceptor encargado de absorber la luz roja y azul para impulsar el flujo electrónico fotosintético. -->
+- [ ] A) La síntesis proteica mitocondrial en el estroma <!-- feedback: Incorrecto. La síntesis en mitocondrias es independiente de la luz solar y ocurre gracias a la maquinaria genética de la mitocondria. -->
+- [ ] B) El ciclo de Krebs en la matriz mitocondrial interna <!-- feedback: Incorrecto. El ciclo de Krebs es un proceso de la respiración celular que ocurre en la matriz mitocondria, no depende de la clorofila. -->
 - [ ] D) La digestión proteica en el retículo endoplasmático <!-- feedback: Incorrecto. La síntesis de lípidos se realiza en el REL y la digestión es lisosomal; ninguna requiere clorofila. -->
 
 ### Explicacion Pedagogica
@@ -372,10 +372,10 @@ Los cloroplastos realizan la fotosíntesis convirtiendo energía electromagnéti
 ¿Por qué la presencia de una pared celular rígida en bacterias, hongos y plantas impide que realicen fagocitosis de manera similar a como lo hacen las células animales?
 
 ### Opciones
-- [x] A) Porque la pared celular externa limita la flexibilidad de la membrana plasmática, impidiendo la emisión de pseudópodos <!-- feedback: ¡Correcto! La fagocitosis exige la deformación dinámica del citoesqueleto y de la membrana, lo cual es físicamente restringido por la pared rígida. -->
-- [ ] B) Porque estos reinos carecen por completo de filamentos de actina en su citoesqueleto <!-- feedback: Incorrecto. Todos los eucariontes y muchos procariontes poseen proteínas homólogas o idénticas al citoesqueleto de actina. -->
-- [ ] C) Porque la pared celular destruye químicamente las vesículas de endocitosis mediante enzimas hidrolíticas <!-- feedback: Incorrecto. La pared celular es un soporte inerte de polisacáridos y no secreta enzimas destructivas contra las vesículas de la propia célula. -->
-- [ ] D) Porque la fagocitosis solo puede ocurrir en células que carecen de membrana plasmática <!-- feedback: Incorrecto. Todas las células vivas poseen membrana plasmática selectiva; es el elemento universal homeostático celular. -->
+- [x] D) Porque la pared celular externa limita la flexibilidad de la membrana plasmática, impidiendo la emisión de pseudópodos <!-- feedback: ¡Correcto! La fagocitosis exige la deformación dinámica del citoesqueleto y de la membrana, lo cual es físicamente restringido por la pared rígida. -->
+- [ ] A) Porque estos reinos carecen por completo de filamentos de actina en su citoesqueleto <!-- feedback: Incorrecto. Todos los eucariontes y muchos procariontes poseen proteínas homólogas o idénticas al citoesqueleto de actina. -->
+- [ ] B) Porque la pared celular destruye químicamente las vesículas de endocitosis mediante enzimas hidrolíticas <!-- feedback: Incorrecto. La pared celular es un soporte inerte de polisacáridos y no secreta enzimas destructivas contra las vesículas de la propia célula. -->
+- [ ] C) Porque la fagocitosis solo puede ocurrir en células que carecen de membrana plasmática <!-- feedback: Incorrecto. Todas las células vivas poseen membrana plasmática selectiva; es el elemento universal homeostático celular. -->
 
 ### Explicacion Pedagogica
 La rigidez de la pared celular ofrece soporte mecánico y resistencia, pero restringe los cambios de forma. Por ende, plantas, hongos y bacterias absorben nutrientes solubles.
@@ -393,9 +393,9 @@ La rigidez de la pared celular ofrece soporte mecánico y resistencia, pero rest
 Al analizar la secuencia evolutiva de las células eucariotas, ¿cuál es la explicación más aceptada para la presencia de una doble membrana en las mitocondrias?
 
 ### Opciones
-- [x] A) La membrana interna proviene del procarionte fagocitado y la externa de la vesícula de endocitosis de la célula hospedadora <!-- feedback: ¡Correcto! El proceso de endosimbiosis involucra la envoltura de la bacteria por parte de la membrana de la célula hospedadora primitiva, generando la doble envoltura. -->
-- [ ] B) Ambas membranas se originaron por el superenrollamiento del ADN genómico libre en el citoplasma <!-- feedback: Incorrecto. Las membranas están compuestas de lípidos y proteínas estructuradas en bicapa, no de ácidos nucleicos. -->
-- [ ] C) La membrana externa fue sintetizada por ribosomas de tipo 70S y la interna por ribosomas 80S <!-- feedback: Incorrecto. Los ribosomas sintetizan proteínas, no fosfolípidos directamente, y el origen es de base endosimbionte. -->
+- [x] C) La membrana interna proviene del procarionte fagocitado y la externa de la vesícula de endocitosis de la célula hospedadora <!-- feedback: ¡Correcto! El proceso de endosimbiosis involucra la envoltura de la bacteria por parte de la membrana de la célula hospedadora primitiva, generando la doble envoltura. -->
+- [ ] A) Ambas membranas se originaron por el superenrollamiento del ADN genómico libre en el citoplasma <!-- feedback: Incorrecto. Las membranas están compuestas de lípidos y proteínas estructuradas en bicapa, no de ácidos nucleicos. -->
+- [ ] B) La membrana externa fue sintetizada por ribosomas de tipo 70S y la interna por ribosomas 80S <!-- feedback: Incorrecto. Los ribosomas sintetizan proteínas, no fosfolípidos directamente, y el origen es de base endosimbionte. -->
 - [ ] D) Se formaron a partir del desprendimiento de vesículas lipídicas del aparato de Golgi <!-- feedback: Incorrecto. El sistema de endomembranas no sintetiza ni genera las membranas de mitocondrias, ya que son organelos semiautónomos. -->
 
 ### Explicacion Pedagogica
@@ -414,8 +414,8 @@ La teoría endosimbiótica se ve reforzada por el hecho de que la composición l
 Un investigador encuentra que una célula contiene ribosomas 70S, ADN bicatenario circular y pared celular, pero carece de peptidoglucano y de envoltura nuclear. ¿A qué dominio de la vida pertenece?
 
 ### Opciones
-- [x] A) Dominio Archaea <!-- feedback: ¡Correcto! Las arqueas son procariontes (sin núcleo, con ADN circular y ribosomas 70S) pero carecen de peptidoglucano en su pared celular. -->
-- [ ] B) Dominio Bacteria <!-- feedback: Incorrecto. Las bacterias verdaderas poseen de forma universal peptidoglucano en su pared celular externa de mureína. -->
+- [x] B) Dominio Archaea <!-- feedback: ¡Correcto! Las arqueas son procariontes (sin núcleo, con ADN circular y ribosomas 70S) pero carecen de peptidoglucano en su pared celular. -->
+- [ ] A) Dominio Bacteria <!-- feedback: Incorrecto. Las bacterias verdaderas poseen de forma universal peptidoglucano en su pared celular externa de mureína. -->
 - [ ] C) Dominio Eukarya <!-- feedback: Incorrecto. Los eucariontes poseen envoltura nuclear (núcleo definido) y ribosomas 80S en el citosol. -->
 - [ ] D) Dominio de los Virus <!-- feedback: Incorrecto. Los virus no son células, carecen de ribosomas y de metabolismo independiente. -->
 
@@ -435,9 +435,9 @@ La taxonomía de tres dominios propuesta por Carl Woese clasifica la vida en Bac
 Si un veneno celular bloquea de forma irreversible la actividad de los poros nucleares de una célula eucariota, ¿cuál de los siguientes flujos se verá interrumpido de inmediato?
 
 ### Opciones
-- [x] A) La exportación de ARN mensajero maduro al citoplasma y la importación de proteínas reguladoras de la transcripción <!-- feedback: ¡Correcto! El complejo del poro nuclear regula de manera selectiva el tráfico bidireccional entre el núcleo (donde se transcribe el ARN) y el citoplasma (donde se traduce). -->
-- [ ] B) La difusión libre de moléculas de agua a través de las acuaporinas de la membrana celular externa <!-- feedback: Incorrecto. Las acuaporinas se localizan en la membrana plasmática celular externa, no en la carioteca del núcleo. -->
-- [ ] C) La fosforilación directa de la glucosa en el interior de la matriz mitocondrial interna <!-- feedback: Incorrecto. Este proceso metabólico es independiente del tráfico nuclear y forma parte de la respiración celular. -->
+- [x] C) La exportación de ARN mensajero maduro al citoplasma y la importación de proteínas reguladoras de la transcripción <!-- feedback: ¡Correcto! El complejo del poro nuclear regula de manera selectiva el tráfico bidireccional entre el núcleo (donde se transcribe el ARN) y el citoplasma (donde se traduce). -->
+- [ ] A) La difusión libre de moléculas de agua a través de las acuaporinas de la membrana celular externa <!-- feedback: Incorrecto. Las acuaporinas se localizan en la membrana plasmática celular externa, no en la carioteca del núcleo. -->
+- [ ] B) La fosforilación directa de la glucosa en el interior de la matriz mitocondrial interna <!-- feedback: Incorrecto. Este proceso metabólico es independiente del tráfico nuclear y forma parte de la respiración celular. -->
 - [ ] D) El transporte vesicular secretor de proteínas desde el retículo endoplasmático rugoso hacia el aparato de Golgi <!-- feedback: Incorrecto. Este tránsito ocurre por vesículas de transporte, mediado por el citoesqueleto sin requerir poros nucleares. -->
 
 ### Explicacion Pedagogica

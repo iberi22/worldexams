@@ -34,13 +34,13 @@ calibration: {difficulty_band: "D3-D10", expected_success: 0.65}
 ¿Qué papel o definición histórica le corresponde a La Revolución de 1904 en relación con este contexto en Uruguay?
 
 ### Opciones
-- [x] A) Constituyó el factor decisivo que consolidó la última guerra civil y el fin del caudillismo en beneficio del desarrollo institucional del país.
+- [x] D) Constituyó el factor decisivo que consolidó la última guerra civil y el fin del caudillismo en beneficio del desarrollo institucional del país.
   <!-- feedback: Correcto. La Revolución de 1904 representó precisamente el hecho o concepto que consagró la última guerra civil y el fin del caudillismo. -->
-- [ ] B) Consistió en una reforma fiscal que impuso La asunción militar de Lorenzo Latorre eliminando toda libertad mercantil o política local.
+- [ ] A) Consistió en una reforma fiscal que impuso La asunción militar de Lorenzo Latorre eliminando toda libertad mercantil o política local.
   <!-- feedback: Incorrecto. La asunción militar de Lorenzo Latorre no define la acción histórica de este elemento ni se corresponde con este período. -->
-- [ ] C) Fue un movimiento de oposición promovido por los defensores de La firma del Tratado de límites con Brasil para restablecer el régimen colonial absoluto.
+- [ ] B) Fue un movimiento de oposición promovido por los defensores de La firma del Tratado de límites con Brasil para restablecer el régimen colonial absoluto.
   <!-- feedback: Incorrecto. La firma del Tratado de límites con Brasil responde a otra dinámica o intereses opuestos a los evaluados en este hecho. -->
-- [ ] D) Representó una medida de orden militar que forzó la inmediata adopción de El inicio del militarismo terrista en toda la campaña rural.
+- [ ] C) Representó una medida de orden militar que forzó la inmediata adopción de El inicio del militarismo terrista en toda la campaña rural.
   <!-- feedback: Incorrecto. El inicio del militarismo terrista representa una distracción sin sustento documental o empírico en la historia uruguaya. -->
 
 ### Explicacion Pedagogica
@@ -82,11 +82,11 @@ La identificación precisa de La ley de jornada laboral de ocho horas permite co
 Si analizás la trascendencia de este suceso, ¿cómo se explica la relación causa-efecto entre La ley de divorcio por sola voluntad de la mujer y la legislación social de vanguardia feminista?
 
 ### Opciones
-- [x] A) Que la implantación de La ley de divorcio por sola voluntad de la mujer actuó como la causa principal que posibilitó el desarrollo de la legislación social de vanguardia feminista.
+- [x] C) Que la implantación de La ley de divorcio por sola voluntad de la mujer actuó como la causa principal que posibilitó el desarrollo de la legislación social de vanguardia feminista.
   <!-- feedback: Correcto. Hay una relación causal directa: La ley de divorcio por sola voluntad de la mujer funcionó como cimiento para que se diera la legislación social de vanguardia feminista. -->
-- [ ] B) Que la promoción de La prohibición del matrimonio civil en el país bloqueó de forma absoluta todo efecto de La ley de divorcio por sola voluntad de la mujer sobre la sociedad de la campaña.
+- [ ] A) Que la promoción de La prohibición del matrimonio civil en el país bloqueó de forma absoluta todo efecto de La ley de divorcio por sola voluntad de la mujer sobre la sociedad de la campaña.
   <!-- feedback: Incorrecto. La prohibición del matrimonio civil en el país representa una distracción conceptual que no interfirió de esa forma ni anula el papel de La ley de divorcio por sola voluntad de la mujer. -->
-- [ ] C) Que la imposición de La entrega del control familiar a la Iglesia sustituyó toda actividad rural por un modelo industrial centralizado en Montevideo.
+- [ ] B) Que la imposición de La entrega del control familiar a la Iglesia sustituyó toda actividad rural por un modelo industrial centralizado en Montevideo.
   <!-- feedback: Incorrecto. La entrega del control familiar a la Iglesia es una lectura errónea que tergiversa la base socioeconómica agropecuaria de la Banda Oriental o del Estado uruguayo. -->
 - [ ] D) Que la aplicación de La obligación de contraer matrimonio antes de los 18 resolvió de forma pacífica todas las tensiones sin participación de caudillos agrarios.
   <!-- feedback: Incorrecto. La obligación de contraer matrimonio antes de los 18 representa un supuesto inverosímil que contradice las agudas luchas partidarias y sociales de la época. -->
@@ -106,11 +106,11 @@ La relación entre La ley de divorcio por sola voluntad de la mujer y la legisla
 Si analizás la trascendencia de este suceso, ¿cómo se explica la relación causa-efecto entre La separación de la Iglesia y el Estado y la laicidad de la Constitución de 1917?
 
 ### Opciones
-- [x] A) Que la implantación de La separación de la Iglesia y el Estado actuó como la causa principal que posibilitó el desarrollo de la laicidad de la Constitución de 1917.
+- [x] C) Que la implantación de La separación de la Iglesia y el Estado actuó como la causa principal que posibilitó el desarrollo de la laicidad de la Constitución de 1917.
   <!-- feedback: Correcto. Hay una relación causal directa: La separación de la Iglesia y el Estado funcionó como cimiento para que se diera la laicidad de la Constitución de 1917. -->
-- [ ] B) Que la promoción de La consagración del catolicismo como fe oficial bloqueó de forma absoluta todo efecto de La separación de la Iglesia y el Estado sobre la sociedad de la campaña.
+- [ ] A) Que la promoción de La consagración del catolicismo como fe oficial bloqueó de forma absoluta todo efecto de La separación de la Iglesia y el Estado sobre la sociedad de la campaña.
   <!-- feedback: Incorrecto. La consagración del catolicismo como fe oficial representa una distracción conceptual que no interfirió de esa forma ni anula el papel de La separación de la Iglesia y el Estado. -->
-- [ ] C) Que la imposición de La expulsión forzosa de todos los sacerdotes sustituyó toda actividad rural por un modelo industrial centralizado en Montevideo.
+- [ ] B) Que la imposición de La expulsión forzosa de todos los sacerdotes sustituyó toda actividad rural por un modelo industrial centralizado en Montevideo.
   <!-- feedback: Incorrecto. La expulsión forzosa de todos los sacerdotes es una lectura errónea que tergiversa la base socioeconómica agropecuaria de la Banda Oriental o del Estado uruguayo. -->
 - [ ] D) Que la aplicación de La prohibición del culto católico en privado resolvió de forma pacífica todas las tensiones sin participación de caudillos agrarios.
   <!-- feedback: Incorrecto. La prohibición del culto católico en privado representa un supuesto inverosímil que contradice las agudas luchas partidarias y sociales de la época. -->
@@ -130,13 +130,13 @@ La relación entre La separación de la Iglesia y el Estado y la laicidad de la 
 Si analizás la trascendencia de este suceso, ¿cómo se explica la relación causa-efecto entre El monopolio estatal de seguros, telefonía y electricidad y la creación del Estado empresario?
 
 ### Opciones
-- [x] A) Que la implantación de El monopolio estatal de seguros, telefonía y electricidad actuó como la causa principal que posibilitó el desarrollo de la creación del Estado empresario.
+- [x] D) Que la implantación de El monopolio estatal de seguros, telefonía y electricidad actuó como la causa principal que posibilitó el desarrollo de la creación del Estado empresario.
   <!-- feedback: Correcto. Hay una relación causal directa: El monopolio estatal de seguros, telefonía y electricidad funcionó como cimiento para que se diera la creación del Estado empresario. -->
-- [ ] B) Que la promoción de La privatización total de los recursos naturales bloqueó de forma absoluta todo efecto de El monopolio estatal de seguros, telefonía y electricidad sobre la sociedad de la campaña.
+- [ ] A) Que la promoción de La privatización total de los recursos naturales bloqueó de forma absoluta todo efecto de El monopolio estatal de seguros, telefonía y electricidad sobre la sociedad de la campaña.
   <!-- feedback: Incorrecto. La privatización total de los recursos naturales representa una distracción conceptual que no interfirió de esa forma ni anula el papel de El monopolio estatal de seguros, telefonía y electricidad. -->
-- [ ] C) Que la imposición de La prohibición del comercio exterior privado sustituyó toda actividad rural por un modelo industrial centralizado en Montevideo.
+- [ ] B) Que la imposición de La prohibición del comercio exterior privado sustituyó toda actividad rural por un modelo industrial centralizado en Montevideo.
   <!-- feedback: Incorrecto. La prohibición del comercio exterior privado es una lectura errónea que tergiversa la base socioeconómica agropecuaria de la Banda Oriental o del Estado uruguayo. -->
-- [ ] D) Que la aplicación de La sumisión económica a los monopolios ingleses resolvió de forma pacífica todas las tensiones sin participación de caudillos agrarios.
+- [ ] C) Que la aplicación de La sumisión económica a los monopolios ingleses resolvió de forma pacífica todas las tensiones sin participación de caudillos agrarios.
   <!-- feedback: Incorrecto. La sumisión económica a los monopolios ingleses representa un supuesto inverosímil que contradice las agudas luchas partidarias y sociales de la época. -->
 
 ### Explicacion Pedagogica
@@ -154,11 +154,11 @@ La relación entre El monopolio estatal de seguros, telefonía y electricidad y 
 Si analizás la trascendencia de este suceso, ¿cómo se explica la relación causa-efecto entre El Poder Ejecutivo bicéfalo (Presidente y Consejo) y la fórmula de gobierno pluripersonal?
 
 ### Opciones
-- [x] A) Que la implantación de El Poder Ejecutivo bicéfalo (Presidente y Consejo) actuó como la causa principal que posibilitó el desarrollo de la fórmula de gobierno pluripersonal.
+- [x] C) Que la implantación de El Poder Ejecutivo bicéfalo (Presidente y Consejo) actuó como la causa principal que posibilitó el desarrollo de la fórmula de gobierno pluripersonal.
   <!-- feedback: Correcto. Hay una relación causal directa: El Poder Ejecutivo bicéfalo (Presidente y Consejo) funcionó como cimiento para que se diera la fórmula de gobierno pluripersonal. -->
-- [ ] B) Que la promoción de La dictadura militar concentrada en un caudillo bloqueó de forma absoluta todo efecto de El Poder Ejecutivo bicéfalo (Presidente y Consejo) sobre la sociedad de la campaña.
+- [ ] A) Que la promoción de La dictadura militar concentrada en un caudillo bloqueó de forma absoluta todo efecto de El Poder Ejecutivo bicéfalo (Presidente y Consejo) sobre la sociedad de la campaña.
   <!-- feedback: Incorrecto. La dictadura militar concentrada en un caudillo representa una distracción conceptual que no interfirió de esa forma ni anula el papel de El Poder Ejecutivo bicéfalo (Presidente y Consejo). -->
-- [ ] C) Que la imposición de Un régimen parlamentario absoluto sin presidente sustituyó toda actividad rural por un modelo industrial centralizado en Montevideo.
+- [ ] B) Que la imposición de Un régimen parlamentario absoluto sin presidente sustituyó toda actividad rural por un modelo industrial centralizado en Montevideo.
   <!-- feedback: Incorrecto. Un régimen parlamentario absoluto sin presidente es una lectura errónea que tergiversa la base socioeconómica agropecuaria de la Banda Oriental o del Estado uruguayo. -->
 - [ ] D) Que la aplicación de La unificación del Estado con el poder judicial resolvió de forma pacífica todas las tensiones sin participación de caudillos agrarios.
   <!-- feedback: Incorrecto. La unificación del Estado con el poder judicial representa un supuesto inverosímil que contradice las agudas luchas partidarias y sociales de la época. -->
@@ -178,11 +178,11 @@ La relación entre El Poder Ejecutivo bicéfalo (Presidente y Consejo) y la fór
 Si aplicás este análisis a las tensiones de la época, ¿de qué manera se manifestó el impacto práctico de La creación de la Universidad de Mujeres en la vida cotidiana o en la economía?
 
 ### Opciones
-- [x] A) En que viabilizó el fomento de la educación superior femenina a través del despliegue efectivo de La creación de la Universidad de Mujeres en el territorio nacional.
+- [x] C) En que viabilizó el fomento de la educación superior femenina a través del despliegue efectivo de La creación de la Universidad de Mujeres en el territorio nacional.
   <!-- feedback: Correcto. En el plano práctico, La creación de la Universidad de Mujeres se tradujo directamente en el fomento de la educación superior femenina, transformando las relaciones socioeconómicas reales. -->
-- [ ] B) En que forzó la aplicación estricta de La prohibición del ingreso de mujeres a la UDELAR como el único reglamento de convivencia acatado por los caudillos de la campaña.
+- [ ] A) En que forzó la aplicación estricta de La prohibición del ingreso de mujeres a la UDELAR como el único reglamento de convivencia acatado por los caudillos de la campaña.
   <!-- feedback: Incorrecto. La prohibición del ingreso de mujeres a la UDELAR no constituyó el reglamento acatado por los caudillos agrarios en este plano práctico. -->
-- [ ] C) En que obligó a las aduanas de Montevideo a transferir la totalidad de sus rentas fiscales a favor de La privatización de toda la enseñanza media.
+- [ ] B) En que obligó a las aduanas de Montevideo a transferir la totalidad de sus rentas fiscales a favor de La privatización de toda la enseñanza media.
   <!-- feedback: Incorrecto. La transferencia fiscal absoluta a La privatización de toda la enseñanza media carece de veracidad y fundamento histórico para este período. -->
 - [ ] D) En que provocó el abandono inmediato de las estancias y la adopción generalizada de La disolución de los liceos públicos departamentales por los gauchos.
   <!-- feedback: Incorrecto. La disolución de los liceos públicos departamentales representa un supuesto anacrónico o absurdo que no operó en la realidad cotidiana del campo uruguayo. -->
@@ -226,9 +226,9 @@ La aplicación práctica de La abolición definitiva de la pena de muerte revela
 Si aplicás este análisis a las tensiones de la época, ¿de qué manera se manifestó el impacto práctico de La gratuidad de la enseñanza secundaria y universitaria en la vida cotidiana o en la economía?
 
 ### Opciones
-- [x] A) En que viabilizó la democratización de la educación superior a través del despliegue efectivo de La gratuidad de la enseñanza secundaria y universitaria en el territorio nacional.
+- [x] B) En que viabilizó la democratización de la educación superior a través del despliegue efectivo de La gratuidad de la enseñanza secundaria y universitaria en el territorio nacional.
   <!-- feedback: Correcto. En el plano práctico, La gratuidad de la enseñanza secundaria y universitaria se tradujo directamente en la democratización de la educación superior, transformando las relaciones socioeconómicas reales. -->
-- [ ] B) En que forzó la aplicación estricta de La privatización de todos los liceos del interior como el único reglamento de convivencia acatado por los caudillos de la campaña.
+- [ ] A) En que forzó la aplicación estricta de La privatización de todos los liceos del interior como el único reglamento de convivencia acatado por los caudillos de la campaña.
   <!-- feedback: Incorrecto. La privatización de todos los liceos del interior no constituyó el reglamento acatado por los caudillos agrarios en este plano práctico. -->
 - [ ] C) En que obligó a las aduanas de Montevideo a transferir la totalidad de sus rentas fiscales a favor de La prohibición de la educación técnica del trabajo.
   <!-- feedback: Incorrecto. La transferencia fiscal absoluta a La prohibición de la educación técnica del trabajo carece de veracidad y fundamento histórico para este período. -->
@@ -250,9 +250,9 @@ La aplicación práctica de La gratuidad de la enseñanza secundaria y universit
 Si aplicás este análisis a las tensiones de la época, ¿de qué manera se manifestó el impacto práctico de El 'Alto de Viera' en las reformas batllistas en la vida cotidiana o en la economía?
 
 ### Opciones
-- [x] A) En que viabilizó la pausa reformista por presiones conservadoras a través del despliegue efectivo de El 'Alto de Viera' en las reformas batllistas en el territorio nacional.
+- [x] B) En que viabilizó la pausa reformista por presiones conservadoras a través del despliegue efectivo de El 'Alto de Viera' en las reformas batllistas en el territorio nacional.
   <!-- feedback: Correcto. En el plano práctico, El 'Alto de Viera' en las reformas batllistas se tradujo directamente en la pausa reformista por presiones conservadoras, transformando las relaciones socioeconómicas reales. -->
-- [ ] B) En que forzó la aplicación estricta de La disolución violenta de las Cámaras en 1916 como el único reglamento de convivencia acatado por los caudillos de la campaña.
+- [ ] A) En que forzó la aplicación estricta de La disolución violenta de las Cámaras en 1916 como el único reglamento de convivencia acatado por los caudillos de la campaña.
   <!-- feedback: Incorrecto. La disolución violenta de las Cámaras en 1916 no constituyó el reglamento acatado por los caudillos agrarios en este plano práctico. -->
 - [ ] C) En que obligó a las aduanas de Montevideo a transferir la totalidad de sus rentas fiscales a favor de La prohibición del Partido Colorado por ley de forma forzosa.
   <!-- feedback: Incorrecto. La transferencia fiscal absoluta a La prohibición del Partido Colorado por ley de forma forzosa carece de veracidad y fundamento histórico para este período. -->
@@ -346,9 +346,9 @@ El análisis crítico de La ley de divorcio por sola voluntad de la mujer demues
 ¿Qué contradicción o conflicto de intereses de la sociedad de la época queda en evidencia al analizar las consecuencias de La separación de la Iglesia y el Estado?
 
 ### Opciones
-- [x] A) La fractura social entre los sectores que consolidaron su posición con la laicidad de la Constitución de 1917 gracias a La separación de la Iglesia y el Estado y aquellos que resultaron postergados.
+- [x] B) La fractura social entre los sectores que consolidaron su posición con la laicidad de la Constitución de 1917 gracias a La separación de la Iglesia y el Estado y aquellos que resultaron postergados.
   <!-- feedback: Correcto. El análisis crítico de La separación de la Iglesia y el Estado revela una profunda contradicción en torno a la laicidad de la Constitución de 1917, marcando límites en la integración social. -->
-- [ ] B) El enfrentamiento ideológico entre los defensores de La consagración del catolicismo como fe oficial y los promotores de una monarquía incaica absoluta en Canelones.
+- [ ] A) El enfrentamiento ideológico entre los defensores de La consagración del catolicismo como fe oficial y los promotores de una monarquía incaica absoluta en Canelones.
   <!-- feedback: Incorrecto. Una monarquía incaica en Canelones es un absurdo geográfico e histórico sin relación con los conflictos reales uruguayos. -->
 - [ ] C) La disputa entre los estancieros criollos por prohibir la exportación de cueros y lanas para consagrar La expulsión forzosa de todos los sacerdotes.
   <!-- feedback: Incorrecto. Los hacendados dependían vitalmente de la exportación pecuaria y nunca buscaron prohibir su comercio para imponer La expulsión forzosa de todos los sacerdotes. -->
@@ -370,11 +370,11 @@ El análisis crítico de La separación de la Iglesia y el Estado demuestra que 
 ¿Qué contradicción o conflicto de intereses de la sociedad de la época queda en evidencia al analizar las consecuencias de El monopolio estatal de seguros, telefonía y electricidad?
 
 ### Opciones
-- [x] A) La fractura social entre los sectores que consolidaron su posición con la creación del Estado empresario gracias a El monopolio estatal de seguros, telefonía y electricidad y aquellos que resultaron postergados.
+- [x] C) La fractura social entre los sectores que consolidaron su posición con la creación del Estado empresario gracias a El monopolio estatal de seguros, telefonía y electricidad y aquellos que resultaron postergados.
   <!-- feedback: Correcto. El análisis crítico de El monopolio estatal de seguros, telefonía y electricidad revela una profunda contradicción en torno a la creación del Estado empresario, marcando límites en la integración social. -->
-- [ ] B) El enfrentamiento ideológico entre los defensores de La privatización total de los recursos naturales y los promotores de una monarquía incaica absoluta en Canelones.
+- [ ] A) El enfrentamiento ideológico entre los defensores de La privatización total de los recursos naturales y los promotores de una monarquía incaica absoluta en Canelones.
   <!-- feedback: Incorrecto. Una monarquía incaica en Canelones es un absurdo geográfico e histórico sin relación con los conflictos reales uruguayos. -->
-- [ ] C) La disputa entre los estancieros criollos por prohibir la exportación de cueros y lanas para consagrar La prohibición del comercio exterior privado.
+- [ ] B) La disputa entre los estancieros criollos por prohibir la exportación de cueros y lanas para consagrar La prohibición del comercio exterior privado.
   <!-- feedback: Incorrecto. Los hacendados dependían vitalmente de la exportación pecuaria y nunca buscaron prohibir su comercio para imponer La prohibición del comercio exterior privado. -->
 - [ ] D) La total disolución de las clases sociales que eliminó el influjo de La sumisión económica a los monopolios ingleses y unificó amigablemente a toda la población.
   <!-- feedback: Incorrecto. Postular una armonía absoluta que borrara las tensiones y anulara La sumisión económica a los monopolios ingleses es una lectura idílica e incorrecta de la historia nacional. -->
@@ -394,13 +394,13 @@ El análisis crítico de El monopolio estatal de seguros, telefonía y electrici
 ¿Qué contradicción o conflicto de intereses de la sociedad de la época queda en evidencia al analizar las consecuencias de El Poder Ejecutivo bicéfalo (Presidente y Consejo)?
 
 ### Opciones
-- [x] A) La fractura social entre los sectores que consolidaron su posición con la fórmula de gobierno pluripersonal gracias a El Poder Ejecutivo bicéfalo (Presidente y Consejo) y aquellos que resultaron postergados.
+- [x] D) La fractura social entre los sectores que consolidaron su posición con la fórmula de gobierno pluripersonal gracias a El Poder Ejecutivo bicéfalo (Presidente y Consejo) y aquellos que resultaron postergados.
   <!-- feedback: Correcto. El análisis crítico de El Poder Ejecutivo bicéfalo (Presidente y Consejo) revela una profunda contradicción en torno a la fórmula de gobierno pluripersonal, marcando límites en la integración social. -->
-- [ ] B) El enfrentamiento ideológico entre los defensores de La dictadura militar concentrada en un caudillo y los promotores de una monarquía incaica absoluta en Canelones.
+- [ ] A) El enfrentamiento ideológico entre los defensores de La dictadura militar concentrada en un caudillo y los promotores de una monarquía incaica absoluta en Canelones.
   <!-- feedback: Incorrecto. Una monarquía incaica en Canelones es un absurdo geográfico e histórico sin relación con los conflictos reales uruguayos. -->
-- [ ] C) La disputa entre los estancieros criollos por prohibir la exportación de cueros y lanas para consagrar Un régimen parlamentario absoluto sin presidente.
+- [ ] B) La disputa entre los estancieros criollos por prohibir la exportación de cueros y lanas para consagrar Un régimen parlamentario absoluto sin presidente.
   <!-- feedback: Incorrecto. Los hacendados dependían vitalmente de la exportación pecuaria y nunca buscaron prohibir su comercio para imponer Un régimen parlamentario absoluto sin presidente. -->
-- [ ] D) La total disolución de las clases sociales que eliminó el influjo de La unificación del Estado con el poder judicial y unificó amigablemente a toda la población.
+- [ ] C) La total disolución de las clases sociales que eliminó el influjo de La unificación del Estado con el poder judicial y unificó amigablemente a toda la población.
   <!-- feedback: Incorrecto. Postular una armonía absoluta que borrara las tensiones y anulara La unificación del Estado con el poder judicial es una lectura idílica e incorrecta de la historia nacional. -->
 
 ### Explicacion Pedagogica
@@ -418,13 +418,13 @@ El análisis crítico de El Poder Ejecutivo bicéfalo (Presidente y Consejo) dem
 Al juzgar de manera integral el alcance histórico de La creación de la Universidad de Mujeres, ¿cuál de las siguientes valoraciones cuenta con mayor sustento historiográfico?
 
 ### Opciones
-- [x] A) Que La creación de la Universidad de Mujeres constituyó una respuesta clave que sentó las bases de el fomento de la educación superior femenina, reconfigurando de forma duradera el orden estatal del país.
+- [x] D) Que La creación de la Universidad de Mujeres constituyó una respuesta clave que sentó las bases de el fomento de la educación superior femenina, reconfigurando de forma duradera el orden estatal del país.
   <!-- feedback: Correcto. Una evaluación de largo plazo demuestra que La creación de la Universidad de Mujeres actuó como piedra angular para estructurar el fomento de la educación superior femenina en el Uruguay moderno. -->
-- [ ] B) Que fue un retroceso absoluto porque toda la población uruguaya prefería continuar bajo las antiguas normas coloniales de La prohibición del ingreso de mujeres a la UDELAR.
+- [ ] A) Que fue un retroceso absoluto porque toda la población uruguaya prefería continuar bajo las antiguas normas coloniales de La prohibición del ingreso de mujeres a la UDELAR.
   <!-- feedback: Incorrecto. Las transformaciones republicanas, democráticas o sociales contaban con amplio arraigo e irreversibilidad, descartando el retorno a La prohibición del ingreso de mujeres a la UDELAR. -->
-- [ ] C) Que su único logro de largo plazo fue someter la soberanía nacional al arbitrio y control militar directo de La privatización de toda la enseñanza media.
+- [ ] B) Que su único logro de largo plazo fue someter la soberanía nacional al arbitrio y control militar directo de La privatización de toda la enseñanza media.
   <!-- feedback: Incorrecto. Sostener que La creación de la Universidad de Mujeres solo sirvió para someter el país a La privatización de toda la enseñanza media es una lectura reduccionista que ignora la dinámica interna soberana. -->
-- [ ] D) Que careció de trascendencia práctica real al tratarse de una imitación artificial de La disolución de los liceos públicos departamentales sin ningún tipo de base social en el territorio.
+- [ ] C) Que careció de trascendencia práctica real al tratarse de una imitación artificial de La disolución de los liceos públicos departamentales sin ningún tipo de base social en el territorio.
   <!-- feedback: Incorrecto. A pesar de las influencias conceptuales externas, el modelo uruguayo se adaptó y respondió de forma directa a su propia base social y conflictos de época. -->
 
 ### Explicacion Pedagogica
@@ -442,9 +442,9 @@ La evaluación crítica de la creación de la Universidad de las Mujeres destaca
 Al juzgar de manera integral el alcance histórico de La abolición definitiva de la pena de muerte, ¿cuál de las siguientes valoraciones cuenta con mayor sustento historiográfico?
 
 ### Opciones
-- [x] A) Que La abolición definitiva de la pena de muerte constituyó una respuesta clave que sentó las bases de el humanismo penal del modelo batllista, reconfigurando de forma duradera el orden estatal del país.
+- [x] B) Que La abolición definitiva de la pena de muerte constituyó una respuesta clave que sentó las bases de el humanismo penal del modelo batllista, reconfigurando de forma duradera el orden estatal del país.
   <!-- feedback: Correcto. Una evaluación de largo plazo demuestra que La abolición definitiva de la pena de muerte actuó como piedra angular para estructurar el humanismo penal del modelo batllista en el Uruguay moderno. -->
-- [ ] B) Que fue un retroceso absoluto porque toda la población uruguaya prefería continuar bajo las antiguas normas coloniales de La reinstauración de los fusilamientos militares.
+- [ ] A) Que fue un retroceso absoluto porque toda la población uruguaya prefería continuar bajo las antiguas normas coloniales de La reinstauración de los fusilamientos militares.
   <!-- feedback: Incorrecto. Las transformaciones republicanas, democráticas o sociales contaban con amplio arraigo e irreversibilidad, descartando el retorno a La reinstauración de los fusilamientos militares. -->
 - [ ] C) Que su único logro de largo plazo fue someter la soberanía nacional al arbitrio y control militar directo de La deportación forzosa de los presos políticos.
   <!-- feedback: Incorrecto. Sostener que La abolición definitiva de la pena de muerte solo sirvió para someter el país a La deportación forzosa de los presos políticos es una lectura reduccionista que ignora la dinámica interna soberana. -->
@@ -466,9 +466,9 @@ La evaluación crítica de la abolición de la pena de muerte en 1907 destaca el
 Al juzgar de manera integral el alcance histórico de La gratuidad de la enseñanza secundaria y universitaria, ¿cuál de las siguientes valoraciones cuenta con mayor sustento historiográfico?
 
 ### Opciones
-- [x] A) Que La gratuidad de la enseñanza secundaria y universitaria constituyó una respuesta clave que sentó las bases de la democratización de la educación superior, reconfigurando de forma duradera el orden estatal del país.
+- [x] B) Que La gratuidad de la enseñanza secundaria y universitaria constituyó una respuesta clave que sentó las bases de la democratización de la educación superior, reconfigurando de forma duradera el orden estatal del país.
   <!-- feedback: Correcto. Una evaluación de largo plazo demuestra que La gratuidad de la enseñanza secundaria y universitaria actuó como piedra angular para estructurar la democratización de la educación superior en el Uruguay moderno. -->
-- [ ] B) Que fue un retroceso absoluto porque toda la población uruguaya prefería continuar bajo las antiguas normas coloniales de La privatización de todos los liceos del interior.
+- [ ] A) Que fue un retroceso absoluto porque toda la población uruguaya prefería continuar bajo las antiguas normas coloniales de La privatización de todos los liceos del interior.
   <!-- feedback: Incorrecto. Las transformaciones republicanas, democráticas o sociales contaban con amplio arraigo e irreversibilidad, descartando el retorno a La privatización de todos los liceos del interior. -->
 - [ ] C) Que su único logro de largo plazo fue someter la soberanía nacional al arbitrio y control militar directo de La prohibición de la educación técnica del trabajo.
   <!-- feedback: Incorrecto. Sostener que La gratuidad de la enseñanza secundaria y universitaria solo sirvió para someter el país a La prohibición de la educación técnica del trabajo es una lectura reduccionista que ignora la dinámica interna soberana. -->
@@ -490,11 +490,11 @@ La evaluación crítica de el alto desarrollo del alfabetismo y educación desta
 Al juzgar de manera integral el alcance histórico de El 'Alto de Viera' en las reformas batllistas, ¿cuál de las siguientes valoraciones cuenta con mayor sustento historiográfico?
 
 ### Opciones
-- [x] A) Que El 'Alto de Viera' en las reformas batllistas constituyó una respuesta clave que sentó las bases de la pausa reformista por presiones conservadoras, reconfigurando de forma duradera el orden estatal del país.
+- [x] C) Que El 'Alto de Viera' en las reformas batllistas constituyó una respuesta clave que sentó las bases de la pausa reformista por presiones conservadoras, reconfigurando de forma duradera el orden estatal del país.
   <!-- feedback: Correcto. Una evaluación de largo plazo demuestra que El 'Alto de Viera' en las reformas batllistas actuó como piedra angular para estructurar la pausa reformista por presiones conservadoras en el Uruguay moderno. -->
-- [ ] B) Que fue un retroceso absoluto porque toda la población uruguaya prefería continuar bajo las antiguas normas coloniales de La disolución violenta de las Cámaras en 1916.
+- [ ] A) Que fue un retroceso absoluto porque toda la población uruguaya prefería continuar bajo las antiguas normas coloniales de La disolución violenta de las Cámaras en 1916.
   <!-- feedback: Incorrecto. Las transformaciones republicanas, democráticas o sociales contaban con amplio arraigo e irreversibilidad, descartando el retorno a La disolución violenta de las Cámaras en 1916. -->
-- [ ] C) Que su único logro de largo plazo fue someter la soberanía nacional al arbitrio y control militar directo de La prohibición del Partido Colorado por ley de forma forzosa.
+- [ ] B) Que su único logro de largo plazo fue someter la soberanía nacional al arbitrio y control militar directo de La prohibición del Partido Colorado por ley de forma forzosa.
   <!-- feedback: Incorrecto. Sostener que El 'Alto de Viera' en las reformas batllistas solo sirvió para someter el país a La prohibición del Partido Colorado por ley de forma forzosa es una lectura reduccionista que ignora la dinámica interna soberana. -->
 - [ ] D) Que careció de trascendencia práctica real al tratarse de una imitación artificial de La firma de una alianza económica con Alemania sin ningún tipo de base social en el territorio.
   <!-- feedback: Incorrecto. A pesar de las influencias conceptuales externas, el modelo uruguayo se adaptó y respondió de forma directa a su propia base social y conflictos de época. -->

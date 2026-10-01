@@ -34,11 +34,11 @@ Identificación de propiedades de figuras bidimensionales y cálculo de perímet
 ¿Cuál es el perímetro total del marco de madera construido por el carpintero?
 
 ### Opciones
-- [x] A) 400 cm.
+- [x] C) 400 cm.
   <!-- feedback: El perímetro del rectángulo es la suma de sus cuatro lados: 120 + 80 + 120 + 80 = 400 cm. -->
-- [ ] B) 200 cm.
+- [ ] A) 200 cm.
   <!-- feedback: Se sumó solo un largo y un ancho (120 + 80 = 200), olvidando los otros dos lados del rectángulo. -->
-- [ ] C) 320 cm.
+- [ ] B) 320 cm.
   <!-- feedback: Se multiplicó 80 x 4 omitiendo la medida del largo. -->
 - [ ] D) 9.600 cm.
   <!-- feedback: Se calculó el área (120 x 80) en lugar del perímetro. -->
@@ -57,11 +57,11 @@ El perímetro de cualquier polígono corresponde al contorno total obtenido medi
 Si una persona da una vuelta completa alrededor del borde exterior del parque, ¿cuántos metros recorre en total?
 
 ### Opciones
-- [x] A) 180 metros.
+- [x] C) 180 metros.
   <!-- feedback: Un cuadrado tiene 4 lados iguales, por lo que su perímetro es 45 x 4 = 180 metros. -->
-- [ ] B) 90 metros.
+- [ ] A) 90 metros.
   <!-- feedback: Se sumaron solo dos lados del cuadrado (45 + 45 = 90). -->
-- [ ] C) 135 metros.
+- [ ] B) 135 metros.
   <!-- feedback: Se sumaron únicamente tres lados del parque. -->
 - [ ] D) 2.025 metros.
   <!-- feedback: Se multiplicó 45 x 45 calculando la superficie o área en lugar del contorno. -->
@@ -103,9 +103,9 @@ Los problemas de cerco iterativo exigen hallar primero el perímetro de la figur
 ¿Cuál es la medida del largo de la cancha de baloncesto?
 
 ### Opciones
-- [x] A) 28 metros.
+- [x] B) 28 metros.
   <!-- feedback: Dos anchos suman 15 + 15 = 30 m. Los dos largos deben sumar 86 - 30 = 56 m. El largo mide 56 / 2 = 28 metros. -->
-- [ ] B) 56 metros.
+- [ ] A) 56 metros.
   <!-- feedback: 56 m es la suma de ambos largos, pero se debe dividir entre 2 para hallar la medida de un solo largo. -->
 - [ ] C) 71 metros.
   <!-- feedback: Se restó un solo ancho (15 m) al perímetro total sin dividir entre 2. -->
@@ -126,11 +126,11 @@ Para hallar una dimensión desconocida en un rectángulo a partir del perímetro
 ¿Cuánto mide cada uno de los lados del jardín pentagonal?
 
 ### Opciones
-- [x] A) 50 metros.
+- [x] C) 50 metros.
   <!-- feedback: Al ser un pentágono regular de 5 lados iguales, se divide 250 m entre 5 = 50 metros por lado. -->
-- [ ] B) 62,5 metros.
+- [ ] A) 62,5 metros.
   <!-- feedback: Se dividió 250 entre 4 como si fuese un cuadrado. -->
-- [ ] C) 40 metros.
+- [ ] B) 40 metros.
   <!-- feedback: Se dividió 250 entre 6 como si fuese un hexágono. -->
 - [ ] D) 100 metros.
   <!-- feedback: Se restó 150 a 250 en lugar de realizar la división entre el número de lados. -->
@@ -149,13 +149,13 @@ En polígonos regulares, la longitud de un lado se calcula dividiendo el períme
 ¿Cuál de las siguientes afirmaciones sobre los perímetros de ambos terrenos es correcta?
 
 ### Opciones
-- [x] A) Ambos terrenos tienen exactamente el mismo perímetro (80 metros).
+- [x] D) Ambos terrenos tienen exactamente el mismo perímetro (80 metros).
   <!-- feedback: Terreno A: 20 x 4 = 80 m. Terreno B: (30 x 2) + (10 x 2) = 60 + 20 = 80 m. Sus perímetros son iguales. -->
-- [ ] B) El terreno A tiene mayor perímetro que el terreno B por ser un cuadrado.
+- [ ] A) El terreno A tiene mayor perímetro que el terreno B por ser un cuadrado.
   <!-- feedback: Al realizar las sumas se comprueba que ambos tienen 80 metros de contorno. -->
-- [ ] C) El terreno B tiene mayor perímetro porque su largo mide 30 metros.
+- [ ] B) El terreno B tiene mayor perímetro porque su largo mide 30 metros.
   <!-- feedback: Aunque su largo es mayor, su ancho reducido compensa la suma dando 80 m en total. -->
-- [ ] D) El terreno A tiene un perímetro de 40 metros y el terreno B de 60 metros.
+- [ ] C) El terreno A tiene un perímetro de 40 metros y el terreno B de 60 metros.
   <!-- feedback: Error al considerar solo dos lados en el cálculo de los perímetros. -->
 
 ### Explicacion Pedagogica
@@ -172,13 +172,13 @@ Figuras geométricas con formas y proporciones distintas pueden compartir la mis
 ¿Cuál es el perímetro del contorno exterior de la figura compuesta resultante?
 
 ### Opciones
-- [x] A) 50 cm.
+- [x] D) 50 cm.
   <!-- feedback: El contorno exterior está formado por 3 lados del cuadrado más 2 lados del triángulo (el lado compartido queda en el interior): 5 x 10 = 50 cm. -->
-- [ ] B) 70 cm.
+- [ ] A) 70 cm.
   <!-- feedback: Se sumaron los perímetros de ambas figuras por separado (40 cm + 30 cm) sin descontar el lado interno compartido. -->
-- [ ] C) 60 cm.
+- [ ] B) 60 cm.
   <!-- feedback: Se descontó solo una vez el lado compartido en lugar de excluirlo de ambos perímetros. -->
-- [ ] D) 40 cm.
+- [ ] C) 40 cm.
   <!-- feedback: Corresponde únicamente al perímetro del cuadrado original. -->
 
 ### Explicacion Pedagogica
@@ -195,13 +195,13 @@ Al combinar figuras planas para formar una figura compuesta, los segmentos compa
 ¿Cuáles son las dimensiones exactas del ancho y el largo del terreno?
 
 ### Opciones
-- [x] A) Ancho: 15 metros; Largo: 45 metros.
+- [x] D) Ancho: 15 metros; Largo: 45 metros.
   <!-- feedback: Si el ancho es x y el largo 3x, el semiperímetro (largo + ancho) es x + 3x = 4x. Como el semiperímetro es 120 / 2 = 60 m, 4x = 60 -> x = 15 m (ancho) y 3x = 45 m (largo). Perímetro = 15+45+15+45 = 120 m. -->
-- [ ] B) Ancho: 20 metros; Largo: 60 metros.
+- [ ] A) Ancho: 20 metros; Largo: 60 metros.
   <!-- feedback: Con estas medidas el perímetro sería (20+60) x 2 = 160 metros, superando los 120 metros. -->
-- [ ] C) Ancho: 10 metros; Largo: 30 metros.
+- [ ] B) Ancho: 10 metros; Largo: 30 metros.
   <!-- feedback: Con estas medidas el perímetro sería (10+30) x 2 = 80 metros, inferior a los 120 metros. -->
-- [ ] D) Ancho: 30 metros; Largo: 90 metros.
+- [ ] C) Ancho: 30 metros; Largo: 90 metros.
   <!-- feedback: Se tomaron 120 m como semiperímetro en lugar de perímetro total. -->
 
 ### Explicacion Pedagogica

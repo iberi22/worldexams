@@ -34,11 +34,11 @@ Este bundle de 10 preguntas integra el sistema respiratorio y el circulatorio, m
 ¿Cuál es la vía correcta por la que el aire ingresa al sistema respiratorio?
 
 ### Opciones
-- [x] A) Nariz o boca, faringe, laringe, tráquea, bronquios y pulmones
+- [x] C) Nariz o boca, faringe, laringe, tráquea, bronquios y pulmones
   <!-- feedback: Correcto. Ese es el recorrido del aire hasta los pulmones. -->
-- [ ] B) Boca, esófago, estómago y pulmones
+- [ ] A) Boca, esófago, estómago y pulmones
   <!-- feedback: Incorrecto. El esófago lleva alimento al estómago, no aire. -->
-- [ ] C) Nariz, venas, corazón y pulmones
+- [ ] B) Nariz, venas, corazón y pulmones
   <!-- feedback: Incorrecto. El aire no viaja por las venas. -->
 - [ ] D) Pulmones, bronquios, tráquea y estómago
   <!-- feedback: Incorrecto. El aire no llega al estómago por esa vía. -->
@@ -57,13 +57,13 @@ El aire entra por la nariz o la boca, pasa por la faringe y la laringe, sigue po
 ¿Por qué el corazón late más rápido durante la actividad física?
 
 ### Opciones
-- [x] A) Porque los músculos necesitan más oxígeno y nutrientes, y el corazón debe bombear sangre con mayor rapidez
+- [x] D) Porque los músculos necesitan más oxígeno y nutrientes, y el corazón debe bombear sangre con mayor rapidez
   <!-- feedback: Correcto. El aumento del trabajo muscular exige más sangre. -->
-- [ ] B) Porque el corazón se enfría y necesita moverse
+- [ ] A) Porque el corazón se enfría y necesita moverse
   <!-- feedback: Incorrecto. El corazón late más por la demanda de oxígeno, no por enfriarse. -->
-- [ ] C) Porque los huesos producen más sangre al saltar
+- [ ] B) Porque los huesos producen más sangre al saltar
   <!-- feedback: Incorrecto. Los huesos no producen la sangre que se bombea. -->
-- [ ] D) Porque el aire de la casa tiene más oxígeno que el del patio
+- [ ] C) Porque el aire de la casa tiene más oxígeno que el del patio
   <!-- feedback: Incorrecto. La diferencia está en la demanda del cuerpo, no en el lugar. -->
 
 ### Explicacion Pedagogica
@@ -80,13 +80,13 @@ Durante el ejercicio, los músculos consumen más oxígeno y producen más dióx
 ¿Qué demuestra la presencia de burbujas al soplar por el pitillo?
 
 ### Opciones
-- [x] A) Que el aire que exhalamos ocupa espacio y sale de los pulmones
+- [x] D) Que el aire que exhalamos ocupa espacio y sale de los pulmones
   <!-- feedback: Correcto. El gas exhalado desplaza el agua y forma burbujas. -->
-- [ ] B) Que los pulmones producen agua líquida
+- [ ] A) Que los pulmones producen agua líquida
   <!-- feedback: Incorrecto. Los pulmones no producen el agua del vaso. -->
-- [ ] C) Que el cuerpo no necesita oxígeno
+- [ ] B) Que el cuerpo no necesita oxígeno
   <!-- feedback: Incorrecto. El experimento muestra la exhalación, no la ausencia de necesidad de oxígeno. -->
-- [ ] D) Que el corazón bombea el aire directamente
+- [ ] C) Que el corazón bombea el aire directamente
   <!-- feedback: Incorrecto. El corazón bombea sangre, no aire. -->
 
 ### Explicacion Pedagogica
@@ -103,11 +103,11 @@ Al soplar por el pitillo, el aire que estaba en los pulmones sale y desplaza el 
 ¿Qué estructura impide que el agua o el alimento entren a la tráquea cuando tragamos?
 
 ### Opciones
-- [x] A) La epiglotis, que cierra la entrada de la laringe al tragar
+- [x] C) La epiglotis, que cierra la entrada de la laringe al tragar
   <!-- feedback: Correcto. La epiglotis actúa como una tapa. -->
-- [ ] B) Los bronquios, que filtran el agua antes de llegar al pulmón
+- [ ] A) Los bronquios, que filtran el agua antes de llegar al pulmón
   <!-- feedback: Incorrecto. Los bronquios conducen el aire, no filtran agua. -->
-- [ ] C) El diafragma, que empuja el agua fuera del cuerpo
+- [ ] B) El diafragma, que empuja el agua fuera del cuerpo
   <!-- feedback: Incorrecto. El diafragma participa en la respiración, no en cerrar la vía del aire. -->
 - [ ] D) Las vellosidades del intestino delgado
   <!-- feedback: Incorrecto. Pertenecen al sistema digestivo y no protegen la tráquea. -->
@@ -126,11 +126,11 @@ La epiglotis es una lámina que cubre la entrada de la laringe durante la degluc
 ¿Qué componentes de la sangre transportan el oxígeno y qué función cumple el corazón?
 
 ### Opciones
-- [x] A) Los glóbulos rojos transportan el oxígeno y el corazón impulsa la sangre por todo el cuerpo
+- [x] C) Los glóbulos rojos transportan el oxígeno y el corazón impulsa la sangre por todo el cuerpo
   <!-- feedback: Correcto. Los glóbulos rojos llevan oxígeno y el corazón actúa como bomba. -->
-- [ ] B) Los glóbulos blancos transportan el oxígeno y el corazón lo fabrica
+- [ ] A) Los glóbulos blancos transportan el oxígeno y el corazón lo fabrica
   <!-- feedback: Incorrecto. Los glóbulos blancos defienden el cuerpo, y el corazón no produce oxígeno. -->
-- [ ] C) Las plaquetas transportan el oxígeno y el corazón lo almacena
+- [ ] B) Las plaquetas transportan el oxígeno y el corazón lo almacena
   <!-- feedback: Incorrecto. Las plaquetas participan en la coagulación. -->
 - [ ] D) El plasma transporta el oxígeno y el corazón filtra la sangre
   <!-- feedback: Incorrecto. El plasma transporta nutrientes y sustancias, y el corazón no filtra. -->
@@ -195,9 +195,9 @@ La circulación doble consta de un circuito pulmonar y uno sistémico: la sangre
 ¿Qué análisis explica la relación entre el sistema respiratorio y el circulatorio durante el esfuerzo?
 
 ### Opciones
-- [x] A) Los dos sistemas trabajan coordinados: la respiración capta más oxígeno y la circulación lo distribuye rápidamente a los músculos
+- [x] B) Los dos sistemas trabajan coordinados: la respiración capta más oxígeno y la circulación lo distribuye rápidamente a los músculos
   <!-- feedback: Correcto. Ambos sistemas cooperan para cubrir la demanda de oxígeno. -->
-- [ ] B) Los dos sistemas son independientes y no se afectan entre sí
+- [ ] A) Los dos sistemas son independientes y no se afectan entre sí
   <!-- feedback: Incorrecto. La actividad física altera a ambos de forma coordinada. -->
 - [ ] C) El sistema circulatorio reemplaza al respiratorio al subir
   <!-- feedback: Incorrecto. La circulación no reemplaza la función de los pulmones. -->
@@ -218,9 +218,9 @@ El sistema respiratorio y el circulatorio forman una unidad funcional: los pulmo
 ¿Qué evaluación conjunta de las tres afirmaciones es correcta?
 
 ### Opciones
-- [x] A) La 1 es verdadera, la 2 es verdadera y la 3 es falsa porque el aire espirado tiene menos oxígeno y más dióxido de carbono
+- [x] B) La 1 es verdadera, la 2 es verdadera y la 3 es falsa porque el aire espirado tiene menos oxígeno y más dióxido de carbono
   <!-- feedback: Correcto. Valida los hábitos saludables y corrige el error sobre el aire espirado. -->
-- [ ] B) Las tres son verdaderas porque la respiración no cambia el aire
+- [ ] A) Las tres son verdaderas porque la respiración no cambia el aire
   <!-- feedback: Incorrecto. La respiración sí modifica la composición del aire. -->
 - [ ] C) Solo la 3 es verdadera y las demás son falsas
   <!-- feedback: Incorrecto. La 3 es falsa y las dos primeras son verdaderas. -->
@@ -241,11 +241,11 @@ Evaluar estas afirmaciones exige conocer los efectos reales: fumar deteriora los
 ¿Qué medida conviene priorizar y por qué?
 
 ### Opciones
-- [x] A) Promover actividad física, alimentación saludable y espacios libres de humo, porque actúan sobre causas comunes a ambos sistemas y benefician a la población
+- [x] C) Promover actividad física, alimentación saludable y espacios libres de humo, porque actúan sobre causas comunes a ambos sistemas y benefician a la población
   <!-- feedback: Correcto. La prevención integral reduce factores de riesgo compartidos. -->
-- [ ] B) Comprar equipos costosos que solo sirvan a pocas personas
+- [ ] A) Comprar equipos costosos que solo sirvan a pocas personas
   <!-- feedback: Incorrecto. Un gasto alto y de bajo alcance no es la mejor prioridad. -->
-- [ ] C) Repartir medicamentos sin diagnosticar a toda la comunidad
+- [ ] B) Repartir medicamentos sin diagnosticar a toda la comunidad
   <!-- feedback: Incorrecto. Medicar sin diagnóstico puede ser perjudicial y no previene la enfermedad. -->
 - [ ] D) Esperar a que las enfermedades aparezcan y luego tratarlas
   <!-- feedback: Incorrecto. La prevención es más eficaz y económica que tratar solo cuando ya enfermaron. -->

@@ -32,11 +32,11 @@ Este bundle contiene 10 preguntas sobre **proporcionalidad-inversa** para grado 
 ### Enunciado
 ¿Cuándo dos magnitudes son inversamente proporcionales?
 ### Opciones
-- [x] A) Cuando al aumentar una, la otra disminuye en la misma proporción
+- [x] C) Cuando al aumentar una, la otra disminuye en la misma proporción
   <!-- feedback: Correcto. Esa es la definición de proporcionalidad inversa. -->
-- [ ] B) Cuando al aumentar una, la otra también aumenta
+- [ ] A) Cuando al aumentar una, la otra también aumenta
   <!-- feedback: Incorrecto. Eso describe la proporcionalidad directa. -->
-- [ ] C) Cuando las dos magnitudes siempre valen lo mismo
+- [ ] B) Cuando las dos magnitudes siempre valen lo mismo
   <!-- feedback: Incorrecto. La igualdad de valores no define la proporcionalidad. -->
 - [ ] D) Cuando una de las magnitudes se mantiene constante
   <!-- feedback: Incorrecto. Eso no describe ninguna relación de proporcionalidad. -->
@@ -52,11 +52,11 @@ Dos magnitudes son inversamente proporcionales si su producto es constante: al m
 ### Enunciado
 ¿Cuál de las siguientes situaciones representa una proporcionalidad inversa?
 ### Opciones
-- [x] A) Más obreros en la obra, menos días para terminarla
+- [x] C) Más obreros en la obra, menos días para terminarla
   <!-- feedback: Correcto. Al aumentar los obreros, el tiempo necesario disminuye. -->
-- [ ] B) Más cuadernos comprados, mayor costo total
+- [ ] A) Más cuadernos comprados, mayor costo total
   <!-- feedback: Incorrecto. Ambas magnitudes aumentan juntas: es directa. -->
-- [ ] C) Más velocidad de un carro, mayor distancia recorrida en una hora
+- [ ] B) Más velocidad de un carro, mayor distancia recorrida en una hora
   <!-- feedback: Incorrecto. A mayor velocidad, mayor distancia: es directa. -->
 - [ ] D) Más edad de una persona, mayor estatura siempre
   <!-- feedback: Incorrecto. No hay una relación proporcional constante entre ellas. -->
@@ -92,13 +92,13 @@ El trabajo total es $4 \times 12 = 48$ unidades obrero-día. Con $6$ obreros: $4
 ### Enunciado
 ¿Cuánto tarda el viaje a $90\text{ km/h}$?
 ### Opciones
-- [x] A) $2$ horas
+- [x] D) $2$ horas
   <!-- feedback: Correcto. Distancia $60 \times 3 = 180\text{ km}$; tiempo $180 \div 90 = 2$. -->
-- [ ] B) $1.5$ horas
+- [ ] A) $1.5$ horas
   <!-- feedback: Incorrecto. Error al dividir la distancia constante entre $90$. -->
-- [ ] C) $4.5$ horas
+- [ ] B) $4.5$ horas
   <!-- feedback: Incorrecto. Multiplicaste por el factor en lugar de dividir. -->
-- [ ] D) $3$ horas
+- [ ] C) $3$ horas
   <!-- feedback: Incorrecto. A mayor velocidad, el tiempo debe disminuir. -->
 ### Explicacion Pedagogica
 Velocidad y tiempo son inversamente proporcionales cuando la distancia es fija: $60 \times 3 = 90 \times t$, de donde $t = 2$ horas.
@@ -132,13 +132,13 @@ El volumen equivale a $5 \times 40 = 200$ unidades grifo-minuto. Con $8$ grifos:
 ### Enunciado
 ¿Cuál es la constante de proporcionalidad (obreros $\times$ días)?
 ### Opciones
-- [x] A) $48$
+- [x] D) $48$
   <!-- feedback: Correcto. $2 \times 24 = 48$, $4 \times 12 = 48$ y $8 \times 6 = 48$. -->
-- [ ] B) $26$
+- [ ] A) $26$
   <!-- feedback: Incorrecto. Sumaste $2 + 24$ en lugar de multiplicar. -->
-- [ ] C) $12$
+- [ ] B) $12$
   <!-- feedback: Incorrecto. Tomaste solo uno de los valores de la tabla. -->
-- [ ] D) $24$
+- [ ] C) $24$
   <!-- feedback: Incorrecto. Confundiste un dato de la tabla con la constante. -->
 ### Explicacion Pedagogica
 En la proporcionalidad inversa el producto es constante: $2 \times 24 = 4 \times 12 = 8 \times 6 = 48$.
@@ -152,11 +152,11 @@ En la proporcionalidad inversa el producto es constante: $2 \times 24 = 4 \times
 ### Enunciado
 ¿En cuántos días se completará el pedido con las $6$ máquinas?
 ### Opciones
-- [x] A) $2.5$ días
+- [x] C) $2.5$ días
   <!-- feedback: Correcto. $3 \times 5 = 15$; $15 \div 6 = 2.5$. -->
-- [ ] B) $10$ días
+- [ ] A) $10$ días
   <!-- feedback: Incorrecto. Multiplicaste por $2$ en lugar de dividir. -->
-- [ ] C) $7.5$ días
+- [ ] B) $7.5$ días
   <!-- feedback: Incorrecto. Sumaste días en lugar de repartir la carga constante. -->
 - [ ] D) $3$ días
   <!-- feedback: Incorrecto. Restaste máquinas de días sin usar el producto constante. -->
@@ -172,13 +172,13 @@ La carga total es $3 \times 5 = 15$ unidades máquina-día. Con $6$ máquinas: $
 ### Enunciado
 ¿Qué tabla muestra una proporcionalidad inversa?
 ### Opciones
-- [x] A) $(1, 20)$, $(2, 10)$, $(4, 5)$
+- [x] D) $(1, 20)$, $(2, 10)$, $(4, 5)$
   <!-- feedback: Correcto. Los productos son $20$, $20$ y $20$: la constante se mantiene. -->
-- [ ] B) $(1, 20)$, $(2, 40)$, $(4, 80)$
+- [ ] A) $(1, 20)$, $(2, 40)$, $(4, 80)$
   <!-- feedback: Incorrecto. Aquí el cociente es constante: es proporcionalidad directa. -->
-- [ ] C) $(1, 20)$, $(2, 22)$, $(4, 24)$
+- [ ] B) $(1, 20)$, $(2, 22)$, $(4, 24)$
   <!-- feedback: Incorrecto. Ni el producto ni el cociente se mantienen constantes. -->
-- [ ] D) $(1, 20)$, $(2, 18)$, $(4, 10)$
+- [ ] C) $(1, 20)$, $(2, 18)$, $(4, 10)$
   <!-- feedback: Incorrecto. Los productos $20$, $36$ y $40$ no son iguales. -->
 ### Explicacion Pedagogica
 Solo la tabla A mantiene el producto constante ($A \times B = 20$), condición de la proporcionalidad inversa.

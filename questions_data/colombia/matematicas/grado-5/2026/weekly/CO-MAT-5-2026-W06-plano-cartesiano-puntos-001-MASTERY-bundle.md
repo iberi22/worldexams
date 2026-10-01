@@ -57,13 +57,13 @@ El plano cartesiano está formado por dos rectas numéricas perpendiculares: el 
 Si la casa de Valentina se toma como origen, ¿cuál es el par ordenado que representa la ubicación del parque?
 
 ### Opciones
-- [x] A) (3, 2), donde 3 corresponde al eje x (este) y 2 al eje y (norte).
+- [x] D) (3, 2), donde 3 corresponde al eje x (este) y 2 al eje y (norte).
   <!-- feedback: El primer número del par ordenado es la coordenada en x y el segundo en y. -->
-- [ ] B) (2, 3), porque 2 es el desplazamiento vertical.
+- [ ] A) (2, 3), porque 2 es el desplazamiento vertical.
   <!-- feedback: El orden (x, y) es fijo: primero el horizontal, luego el vertical. -->
-- [ ] C) (-3, -2), porque está al este y al norte.
+- [ ] B) (-3, -2), porque está al este y al norte.
   <!-- feedback: Al este y al norte los valores son positivos, no negativos. -->
-- [ ] D) (0, 0), porque se parte del origen.
+- [ ] C) (0, 0), porque se parte del origen.
   <!-- feedback: El origen es la casa, no el parque. -->
 
 ### Explicacion Pedagogica
@@ -80,11 +80,11 @@ Todo punto en el plano cartesiano se representa mediante un par ordenado (x, y).
 ¿Qué figura geométrica se forma al unir los puntos A, B, C y D en ese orden?
 
 ### Opciones
-- [x] A) Un rectángulo, porque los lados son paralelos a los ejes y los cuatro ángulos son rectos.
+- [x] C) Un rectángulo, porque los lados son paralelos a los ejes y los cuatro ángulos son rectos.
   <!-- feedback: Las coordenadas comparten valores en x o en y, formando lados paralelos a los ejes. -->
-- [ ] B) Un rombo, porque todos los lados miden igual.
+- [ ] A) Un rombo, porque todos los lados miden igual.
   <!-- feedback: Los lados horizontales miden 4, pero los verticales solo 6; no es un rombo. -->
-- [ ] C) Un triángulo, porque el orden de los puntos no cierra una figura.
+- [ ] B) Un triángulo, porque el orden de los puntos no cierra una figura.
   <!-- feedback: Los cuatro puntos, unidos en orden, cierran una figura de cuatro lados. -->
 - [ ] D) Un círculo, porque tiene cuatro esquinas.
   <!-- feedback: El círculo no tiene esquinas; la figura tiene cuatro vértices rectos. -->
@@ -149,13 +149,13 @@ El punto medio entre dos coordenadas se obtiene promediando las abscisas y las o
 ¿Cuál es la relación geométrica entre las bibliotecas B1 y B2 con respecto al eje y?
 
 ### Opciones
-- [x] A) Son simétricas respecto al eje y porque están a igual distancia (1 unidad) y a la misma altura (y = 4).
+- [x] D) Son simétricas respecto al eje y porque están a igual distancia (1 unidad) y a la misma altura (y = 4).
   <!-- feedback: B1(1,4) y B2(-1,4) son reflexiones en el eje y. -->
-- [ ] B) Son puntos idénticos porque comparten coordenada.
+- [ ] A) Son puntos idénticos porque comparten coordenada.
   <!-- feedback: B1 y B2 son distintos porque sus abscisas son diferentes. -->
-- [ ] C) Están alineadas verticalmente, una sobre la otra.
+- [ ] B) Están alineadas verticalmente, una sobre la otra.
   <!-- feedback: Comparten la ordenada, pero sus abscisas difieren; están a la misma altura, no alineadas verticalmente. -->
-- [ ] D) No guardan ninguna relación especial.
+- [ ] C) No guardan ninguna relación especial.
   <!-- feedback: Existe simetría respecto al eje y; eso es una relación geométrica precisa. -->
 
 ### Explicacion Pedagogica
@@ -195,9 +195,9 @@ Reconocer patrones en tablas de coordenadas permite anticipar valores futuros y 
 ¿Qué criterio geométrico es el más adecuado para fijar el origen de un plano cartesiano?
 
 ### Opciones
-- [x] A) Elegir un punto de referencia estable, fácilmente localizable y desde el cual todas las direcciones (positivas y negativas) tengan sentido lógico.
+- [x] B) Elegir un punto de referencia estable, fácilmente localizable y desde el cual todas las direcciones (positivas y negativas) tengan sentido lógico.
   <!-- feedback: Un buen origen debe ser fijo, reconocible y permitir coordenadas positivas y negativas. -->
-- [ ] B) Elegir siempre el extremo superior derecho del mapa.
+- [ ] A) Elegir siempre el extremo superior derecho del mapa.
   <!-- feedback: Ubicarlo en una esquina limita el uso de valores negativos y dificulta la lectura. -->
 - [ ] C) Elegir cualquier punto al azar, porque el origen es arbitrario.
   <!-- feedback: Aunque el origen es convencional, debe cumplir criterios prácticos de estabilidad y claridad. -->

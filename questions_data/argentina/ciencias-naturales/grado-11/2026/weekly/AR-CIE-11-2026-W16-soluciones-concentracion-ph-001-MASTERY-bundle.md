@@ -36,8 +36,8 @@ Este bundle aborda contenidos curriculares prioritarios de Soluciones Químicas,
 Una solución acuosa diluida a $25^\circ\text{C}$ presenta $[\text{H}^+] = 10^{-2}\text{ M}$. ¿Cuál es su valor de pH y la clasificación de la solución?
 
 ### Opciones
-- [x] A) $\text{pH} = 2$, solución ácida <!-- feedback: Correcto. $\text{pH} = -\log_{10}(10^{-2}) = 2$. Un pH de 2 clasifica a la solución como ácida. -->
-- [ ] B) $\text{pH} = -2$, solución ácida <!-- feedback: Incorrecto. El pH se define con el logaritmo negativo, por lo que resulta un número positivo. -->
+- [x] B) $\text{pH} = 2$, solución ácida <!-- feedback: Correcto. $\text{pH} = -\log_{10}(10^{-2}) = 2$. Un pH de 2 clasifica a la solución como ácida. -->
+- [ ] A) $\text{pH} = -2$, solución ácida <!-- feedback: Incorrecto. El pH se define con el logaritmo negativo, por lo que resulta un número positivo. -->
 - [ ] C) $\text{pOH} = 12$, solución no neutra <!-- feedback: Incorrecto. Este valor representa el pOH, no la definición del pH pedido. -->
 - [ ] D) $\text{pH} = 12$, solución saturada <!-- feedback: Incorrecto. Sumó una constante al valor real del logaritmo. -->
 
@@ -57,8 +57,8 @@ El pH se calcula como $\text{pH} = -\log_{10}[\text{H}^+] = -\log_{10}(10^{-2}) 
 Una solución acuosa diluida a $25^\circ\text{C}$ presenta $[\text{H}^+] = 10^{-3}\text{ M}$. ¿Cuál es su valor de pH y la clasificación de la solución?
 
 ### Opciones
-- [x] A) $\text{pH} = 3$, solución ácida <!-- feedback: Correcto. $\text{pH} = -\log_{10}(10^{-3}) = 3$. Un pH de 3 clasifica a la solución como ácida. -->
-- [ ] B) $\text{pH} = -3$, solución ácida <!-- feedback: Incorrecto. El pH se define con el logaritmo negativo, por lo que resulta un número positivo. -->
+- [x] B) $\text{pH} = 3$, solución ácida <!-- feedback: Correcto. $\text{pH} = -\log_{10}(10^{-3}) = 3$. Un pH de 3 clasifica a la solución como ácida. -->
+- [ ] A) $\text{pH} = -3$, solución ácida <!-- feedback: Incorrecto. El pH se define con el logaritmo negativo, por lo que resulta un número positivo. -->
 - [ ] C) $\text{pOH} = 11$, solución no neutra <!-- feedback: Incorrecto. Este valor representa el pOH, no la definición del pH pedido. -->
 - [ ] D) $\text{pH} = 13$, solución saturada <!-- feedback: Incorrecto. Sumó una constante al valor real del logaritmo. -->
 
@@ -78,8 +78,8 @@ El pH se calcula como $\text{pH} = -\log_{10}[\text{H}^+] = -\log_{10}(10^{-3}) 
 Una solución acuosa diluida a $25^\circ\text{C}$ presenta $[\text{H}^+] = 10^{-4}\text{ M}$. ¿Cuál es su valor de pH y la clasificación de la solución?
 
 ### Opciones
-- [x] A) $\text{pH} = 4$, solución ácida <!-- feedback: Correcto. $\text{pH} = -\log_{10}(10^{-4}) = 4$. Un pH de 4 clasifica a la solución como ácida. -->
-- [ ] B) $\text{pH} = -4$, solución ácida <!-- feedback: Incorrecto. El pH se define con el logaritmo negativo, por lo que resulta un número positivo. -->
+- [x] B) $\text{pH} = 4$, solución ácida <!-- feedback: Correcto. $\text{pH} = -\log_{10}(10^{-4}) = 4$. Un pH de 4 clasifica a la solución como ácida. -->
+- [ ] A) $\text{pH} = -4$, solución ácida <!-- feedback: Incorrecto. El pH se define con el logaritmo negativo, por lo que resulta un número positivo. -->
 - [ ] C) $\text{pOH} = 10$, solución no neutra <!-- feedback: Incorrecto. Este valor representa el pOH, no la definición del pH pedido. -->
 - [ ] D) $\text{pH} = 14$, solución saturada <!-- feedback: Incorrecto. Sumó una constante al valor real del logaritmo. -->
 
@@ -99,10 +99,10 @@ El pH se calcula como $\text{pH} = -\log_{10}[\text{H}^+] = -\log_{10}(10^{-4}) 
 Una solución acuosa diluida a $25^\circ\text{C}$ presenta $[\text{H}^+] = 10^{-5}\text{ M}$. ¿Cuál es su valor de pH y la clasificación de la solución?
 
 ### Opciones
-- [x] A) $\text{pH} = 5$, solución ácida <!-- feedback: Correcto. $\text{pH} = -\log_{10}(10^{-5}) = 5$. Un pH de 5 clasifica a la solución como ácida. -->
-- [ ] B) $\text{pH} = -5$, solución ácida <!-- feedback: Incorrecto. El pH se define con el logaritmo negativo, por lo que resulta un número positivo. -->
-- [ ] C) $\text{pOH} = 9$, solución no neutra <!-- feedback: Incorrecto. Este valor representa el pOH, no la definición del pH pedido. -->
-- [ ] D) $\text{pH} = 15$, solución saturada <!-- feedback: Incorrecto. Sumó una constante al valor real del logaritmo. -->
+- [x] D) $\text{pH} = 5$, solución ácida <!-- feedback: Correcto. $\text{pH} = -\log_{10}(10^{-5}) = 5$. Un pH de 5 clasifica a la solución como ácida. -->
+- [ ] A) $\text{pH} = -5$, solución ácida <!-- feedback: Incorrecto. El pH se define con el logaritmo negativo, por lo que resulta un número positivo. -->
+- [ ] B) $\text{pOH} = 9$, solución no neutra <!-- feedback: Incorrecto. Este valor representa el pOH, no la definición del pH pedido. -->
+- [ ] C) $\text{pH} = 15$, solución saturada <!-- feedback: Incorrecto. Sumó una constante al valor real del logaritmo. -->
 
 ### Explicacion Pedagogica
 El pH se calcula como $\text{pH} = -\log_{10}[\text{H}^+] = -\log_{10}(10^{-5}) = 5$. A $25^\circ\text{C}$, $\text{pH} < 7$ es ácido, $=7$ es neutro y $>7$ es básico.
@@ -141,9 +141,9 @@ El pH se calcula como $\text{pH} = -\log_{10}[\text{H}^+] = -\log_{10}(10^{-6}) 
 Una solución acuosa diluida a $25^\circ\text{C}$ presenta $[\text{H}^+] = 10^{-7}\text{ M}$. ¿Cuál es su valor de pH y la clasificación de la solución?
 
 ### Opciones
-- [x] A) $\text{pH} = 7$, solución neutra <!-- feedback: Correcto. $\text{pH} = -\log_{10}(10^{-7}) = 7$. Un pH de 7 clasifica a la solución como neutra. -->
-- [ ] B) $\text{pH} = -7$, solución neutra <!-- feedback: Incorrecto. El pH se define con el logaritmo negativo, por lo que resulta un número positivo. -->
-- [ ] C) $\text{pOH} = 7$, solución no neutra <!-- feedback: Incorrecto. Este valor representa el pOH, no la definición del pH pedido. -->
+- [x] C) $\text{pH} = 7$, solución neutra <!-- feedback: Correcto. $\text{pH} = -\log_{10}(10^{-7}) = 7$. Un pH de 7 clasifica a la solución como neutra. -->
+- [ ] A) $\text{pH} = -7$, solución neutra <!-- feedback: Incorrecto. El pH se define con el logaritmo negativo, por lo que resulta un número positivo. -->
+- [ ] B) $\text{pOH} = 7$, solución no neutra <!-- feedback: Incorrecto. Este valor representa el pOH, no la definición del pH pedido. -->
 - [ ] D) $\text{pH} = 17$, solución saturada <!-- feedback: Incorrecto. Sumó una constante al valor real del logaritmo. -->
 
 ### Explicacion Pedagogica
@@ -162,10 +162,10 @@ El pH se calcula como $\text{pH} = -\log_{10}[\text{H}^+] = -\log_{10}(10^{-7}) 
 Una solución acuosa diluida a $25^\circ\text{C}$ presenta $[\text{H}^+] = 10^{-8}\text{ M}$. ¿Cuál es su valor de pH y la clasificación de la solución?
 
 ### Opciones
-- [x] A) $\text{pH} = 8$, solución alcalina <!-- feedback: Correcto. $\text{pH} = -\log_{10}(10^{-8}) = 8$. Un pH de 8 clasifica a la solución como alcalina. -->
-- [ ] B) $\text{pH} = -8$, solución alcalina <!-- feedback: Incorrecto. El pH se define con el logaritmo negativo, por lo que resulta un número positivo. -->
-- [ ] C) $\text{pOH} = 6$, solución no neutra <!-- feedback: Incorrecto. Este valor representa el pOH, no la definición del pH pedido. -->
-- [ ] D) $\text{pH} = 18$, solución saturada <!-- feedback: Incorrecto. Sumó una constante al valor real del logaritmo. -->
+- [x] D) $\text{pH} = 8$, solución alcalina <!-- feedback: Correcto. $\text{pH} = -\log_{10}(10^{-8}) = 8$. Un pH de 8 clasifica a la solución como alcalina. -->
+- [ ] A) $\text{pH} = -8$, solución alcalina <!-- feedback: Incorrecto. El pH se define con el logaritmo negativo, por lo que resulta un número positivo. -->
+- [ ] B) $\text{pOH} = 6$, solución no neutra <!-- feedback: Incorrecto. Este valor representa el pOH, no la definición del pH pedido. -->
+- [ ] C) $\text{pH} = 18$, solución saturada <!-- feedback: Incorrecto. Sumó una constante al valor real del logaritmo. -->
 
 ### Explicacion Pedagogica
 El pH se calcula como $\text{pH} = -\log_{10}[\text{H}^+] = -\log_{10}(10^{-8}) = 8$. A $25^\circ\text{C}$, $\text{pH} < 7$ es ácido, $=7$ es neutro y $>7$ es básico.
@@ -183,8 +183,8 @@ El pH se calcula como $\text{pH} = -\log_{10}[\text{H}^+] = -\log_{10}(10^{-8}) 
 Una solución acuosa diluida a $25^\circ\text{C}$ presenta $[\text{H}^+] = 10^{-9}\text{ M}$. ¿Cuál es su valor de pH y la clasificación de la solución?
 
 ### Opciones
-- [x] A) $\text{pH} = 9$, solución alcalina <!-- feedback: Correcto. $\text{pH} = -\log_{10}(10^{-9}) = 9$. Un pH de 9 clasifica a la solución como alcalina. -->
-- [ ] B) $\text{pH} = -9$, solución alcalina <!-- feedback: Incorrecto. El pH se define con el logaritmo negativo, por lo que resulta un número positivo. -->
+- [x] B) $\text{pH} = 9$, solución alcalina <!-- feedback: Correcto. $\text{pH} = -\log_{10}(10^{-9}) = 9$. Un pH de 9 clasifica a la solución como alcalina. -->
+- [ ] A) $\text{pH} = -9$, solución alcalina <!-- feedback: Incorrecto. El pH se define con el logaritmo negativo, por lo que resulta un número positivo. -->
 - [ ] C) $\text{pOH} = 5$, solución no neutra <!-- feedback: Incorrecto. Este valor representa el pOH, no la definición del pH pedido. -->
 - [ ] D) $\text{pH} = 19$, solución saturada <!-- feedback: Incorrecto. Sumó una constante al valor real del logaritmo. -->
 
@@ -204,8 +204,8 @@ El pH se calcula como $\text{pH} = -\log_{10}[\text{H}^+] = -\log_{10}(10^{-9}) 
 Una solución acuosa diluida a $25^\circ\text{C}$ presenta $[\text{H}^+] = 10^{-10}\text{ M}$. ¿Cuál es su valor de pH y la clasificación de la solución?
 
 ### Opciones
-- [x] A) $\text{pH} = 10$, solución alcalina <!-- feedback: Correcto. $\text{pH} = -\log_{10}(10^{-10}) = 10$. Un pH de 10 clasifica a la solución como alcalina. -->
-- [ ] B) $\text{pH} = -10$, solución alcalina <!-- feedback: Incorrecto. El pH se define con el logaritmo negativo, por lo que resulta un número positivo. -->
+- [x] B) $\text{pH} = 10$, solución alcalina <!-- feedback: Correcto. $\text{pH} = -\log_{10}(10^{-10}) = 10$. Un pH de 10 clasifica a la solución como alcalina. -->
+- [ ] A) $\text{pH} = -10$, solución alcalina <!-- feedback: Incorrecto. El pH se define con el logaritmo negativo, por lo que resulta un número positivo. -->
 - [ ] C) $\text{pOH} = 4$, solución no neutra <!-- feedback: Incorrecto. Este valor representa el pOH, no la definición del pH pedido. -->
 - [ ] D) $\text{pH} = 20$, solución saturada <!-- feedback: Incorrecto. Sumó una constante al valor real del logaritmo. -->
 
@@ -225,9 +225,9 @@ El pH se calcula como $\text{pH} = -\log_{10}[\text{H}^+] = -\log_{10}(10^{-10})
 Una solución acuosa diluida a $25^\circ\text{C}$ presenta $[\text{H}^+] = 10^{-11}\text{ M}$. ¿Cuál es su valor de pH y la clasificación de la solución?
 
 ### Opciones
-- [x] A) $\text{pH} = 11$, solución alcalina <!-- feedback: Correcto. $\text{pH} = -\log_{10}(10^{-11}) = 11$. Un pH de 11 clasifica a la solución como alcalina. -->
-- [ ] B) $\text{pH} = -11$, solución alcalina <!-- feedback: Incorrecto. El pH se define con el logaritmo negativo, por lo que resulta un número positivo. -->
-- [ ] C) $\text{pOH} = 3$, solución no neutra <!-- feedback: Incorrecto. Este valor representa el pOH, no la definición del pH pedido. -->
+- [x] C) $\text{pH} = 11$, solución alcalina <!-- feedback: Correcto. $\text{pH} = -\log_{10}(10^{-11}) = 11$. Un pH de 11 clasifica a la solución como alcalina. -->
+- [ ] A) $\text{pH} = -11$, solución alcalina <!-- feedback: Incorrecto. El pH se define con el logaritmo negativo, por lo que resulta un número positivo. -->
+- [ ] B) $\text{pOH} = 3$, solución no neutra <!-- feedback: Incorrecto. Este valor representa el pOH, no la definición del pH pedido. -->
 - [ ] D) $\text{pH} = 21$, solución saturada <!-- feedback: Incorrecto. Sumó una constante al valor real del logaritmo. -->
 
 ### Explicacion Pedagogica
@@ -246,10 +246,10 @@ El pH se calcula como $\text{pH} = -\log_{10}[\text{H}^+] = -\log_{10}(10^{-11})
 Una solución acuosa diluida a $25^\circ\text{C}$ presenta $[\text{H}^+] = 10^{-12}\text{ M}$. ¿Cuál es su valor de pH y la clasificación de la solución?
 
 ### Opciones
-- [x] A) $\text{pH} = 12$, solución alcalina <!-- feedback: Correcto. $\text{pH} = -\log_{10}(10^{-12}) = 12$. Un pH de 12 clasifica a la solución como alcalina. -->
-- [ ] B) $\text{pH} = -12$, solución alcalina <!-- feedback: Incorrecto. El pH se define con el logaritmo negativo, por lo que resulta un número positivo. -->
-- [ ] C) $\text{pOH} = 2$, solución no neutra <!-- feedback: Incorrecto. Este valor representa el pOH, no la definición del pH pedido. -->
-- [ ] D) $\text{pH} = 22$, solución saturada <!-- feedback: Incorrecto. Sumó una constante al valor real del logaritmo. -->
+- [x] D) $\text{pH} = 12$, solución alcalina <!-- feedback: Correcto. $\text{pH} = -\log_{10}(10^{-12}) = 12$. Un pH de 12 clasifica a la solución como alcalina. -->
+- [ ] A) $\text{pH} = -12$, solución alcalina <!-- feedback: Incorrecto. El pH se define con el logaritmo negativo, por lo que resulta un número positivo. -->
+- [ ] B) $\text{pOH} = 2$, solución no neutra <!-- feedback: Incorrecto. Este valor representa el pOH, no la definición del pH pedido. -->
+- [ ] C) $\text{pH} = 22$, solución saturada <!-- feedback: Incorrecto. Sumó una constante al valor real del logaritmo. -->
 
 ### Explicacion Pedagogica
 El pH se calcula como $\text{pH} = -\log_{10}[\text{H}^+] = -\log_{10}(10^{-12}) = 12$. A $25^\circ\text{C}$, $\text{pH} < 7$ es ácido, $=7$ es neutro y $>7$ es básico.
@@ -288,10 +288,10 @@ El pH se calcula como $\text{pH} = -\log_{10}[\text{H}^+] = -\log_{10}(10^{-1}) 
 Una solución acuosa diluida a $25^\circ\text{C}$ presenta $[\text{H}^+] = 10^{-2}\text{ M}$. ¿Cuál es su valor de pH y la clasificación de la solución?
 
 ### Opciones
-- [x] A) $\text{pH} = 2$, solución ácida <!-- feedback: Correcto. $\text{pH} = -\log_{10}(10^{-2}) = 2$. Un pH de 2 clasifica a la solución como ácida. -->
-- [ ] B) $\text{pH} = -2$, solución ácida <!-- feedback: Incorrecto. El pH se define con el logaritmo negativo, por lo que resulta un número positivo. -->
-- [ ] C) $\text{pOH} = 12$, solución no neutra <!-- feedback: Incorrecto. Este valor representa el pOH, no la definición del pH pedido. -->
-- [ ] D) $\text{pH} = 12$, solución saturada <!-- feedback: Incorrecto. Sumó una constante al valor real del logaritmo. -->
+- [x] D) $\text{pH} = 2$, solución ácida <!-- feedback: Correcto. $\text{pH} = -\log_{10}(10^{-2}) = 2$. Un pH de 2 clasifica a la solución como ácida. -->
+- [ ] A) $\text{pH} = -2$, solución ácida <!-- feedback: Incorrecto. El pH se define con el logaritmo negativo, por lo que resulta un número positivo. -->
+- [ ] B) $\text{pOH} = 12$, solución no neutra <!-- feedback: Incorrecto. Este valor representa el pOH, no la definición del pH pedido. -->
+- [ ] C) $\text{pH} = 12$, solución saturada <!-- feedback: Incorrecto. Sumó una constante al valor real del logaritmo. -->
 
 ### Explicacion Pedagogica
 El pH se calcula como $\text{pH} = -\log_{10}[\text{H}^+] = -\log_{10}(10^{-2}) = 2$. A $25^\circ\text{C}$, $\text{pH} < 7$ es ácido, $=7$ es neutro y $>7$ es básico.
@@ -309,9 +309,9 @@ El pH se calcula como $\text{pH} = -\log_{10}[\text{H}^+] = -\log_{10}(10^{-2}) 
 Una solución acuosa diluida a $25^\circ\text{C}$ presenta $[\text{H}^+] = 10^{-3}\text{ M}$. ¿Cuál es su valor de pH y la clasificación de la solución?
 
 ### Opciones
-- [x] A) $\text{pH} = 3$, solución ácida <!-- feedback: Correcto. $\text{pH} = -\log_{10}(10^{-3}) = 3$. Un pH de 3 clasifica a la solución como ácida. -->
-- [ ] B) $\text{pH} = -3$, solución ácida <!-- feedback: Incorrecto. El pH se define con el logaritmo negativo, por lo que resulta un número positivo. -->
-- [ ] C) $\text{pOH} = 11$, solución no neutra <!-- feedback: Incorrecto. Este valor representa el pOH, no la definición del pH pedido. -->
+- [x] C) $\text{pH} = 3$, solución ácida <!-- feedback: Correcto. $\text{pH} = -\log_{10}(10^{-3}) = 3$. Un pH de 3 clasifica a la solución como ácida. -->
+- [ ] A) $\text{pH} = -3$, solución ácida <!-- feedback: Incorrecto. El pH se define con el logaritmo negativo, por lo que resulta un número positivo. -->
+- [ ] B) $\text{pOH} = 11$, solución no neutra <!-- feedback: Incorrecto. Este valor representa el pOH, no la definición del pH pedido. -->
 - [ ] D) $\text{pH} = 13$, solución saturada <!-- feedback: Incorrecto. Sumó una constante al valor real del logaritmo. -->
 
 ### Explicacion Pedagogica
@@ -330,10 +330,10 @@ El pH se calcula como $\text{pH} = -\log_{10}[\text{H}^+] = -\log_{10}(10^{-3}) 
 Una solución acuosa diluida a $25^\circ\text{C}$ presenta $[\text{H}^+] = 10^{-4}\text{ M}$. ¿Cuál es su valor de pH y la clasificación de la solución?
 
 ### Opciones
-- [x] A) $\text{pH} = 4$, solución ácida <!-- feedback: Correcto. $\text{pH} = -\log_{10}(10^{-4}) = 4$. Un pH de 4 clasifica a la solución como ácida. -->
-- [ ] B) $\text{pH} = -4$, solución ácida <!-- feedback: Incorrecto. El pH se define con el logaritmo negativo, por lo que resulta un número positivo. -->
-- [ ] C) $\text{pOH} = 10$, solución no neutra <!-- feedback: Incorrecto. Este valor representa el pOH, no la definición del pH pedido. -->
-- [ ] D) $\text{pH} = 14$, solución saturada <!-- feedback: Incorrecto. Sumó una constante al valor real del logaritmo. -->
+- [x] D) $\text{pH} = 4$, solución ácida <!-- feedback: Correcto. $\text{pH} = -\log_{10}(10^{-4}) = 4$. Un pH de 4 clasifica a la solución como ácida. -->
+- [ ] A) $\text{pH} = -4$, solución ácida <!-- feedback: Incorrecto. El pH se define con el logaritmo negativo, por lo que resulta un número positivo. -->
+- [ ] B) $\text{pOH} = 10$, solución no neutra <!-- feedback: Incorrecto. Este valor representa el pOH, no la definición del pH pedido. -->
+- [ ] C) $\text{pH} = 14$, solución saturada <!-- feedback: Incorrecto. Sumó una constante al valor real del logaritmo. -->
 
 ### Explicacion Pedagogica
 El pH se calcula como $\text{pH} = -\log_{10}[\text{H}^+] = -\log_{10}(10^{-4}) = 4$. A $25^\circ\text{C}$, $\text{pH} < 7$ es ácido, $=7$ es neutro y $>7$ es básico.
@@ -351,9 +351,9 @@ El pH se calcula como $\text{pH} = -\log_{10}[\text{H}^+] = -\log_{10}(10^{-4}) 
 Una solución acuosa diluida a $25^\circ\text{C}$ presenta $[\text{H}^+] = 10^{-5}\text{ M}$. ¿Cuál es su valor de pH y la clasificación de la solución?
 
 ### Opciones
-- [x] A) $\text{pH} = 5$, solución ácida <!-- feedback: Correcto. $\text{pH} = -\log_{10}(10^{-5}) = 5$. Un pH de 5 clasifica a la solución como ácida. -->
-- [ ] B) $\text{pH} = -5$, solución ácida <!-- feedback: Incorrecto. El pH se define con el logaritmo negativo, por lo que resulta un número positivo. -->
-- [ ] C) $\text{pOH} = 9$, solución no neutra <!-- feedback: Incorrecto. Este valor representa el pOH, no la definición del pH pedido. -->
+- [x] C) $\text{pH} = 5$, solución ácida <!-- feedback: Correcto. $\text{pH} = -\log_{10}(10^{-5}) = 5$. Un pH de 5 clasifica a la solución como ácida. -->
+- [ ] A) $\text{pH} = -5$, solución ácida <!-- feedback: Incorrecto. El pH se define con el logaritmo negativo, por lo que resulta un número positivo. -->
+- [ ] B) $\text{pOH} = 9$, solución no neutra <!-- feedback: Incorrecto. Este valor representa el pOH, no la definición del pH pedido. -->
 - [ ] D) $\text{pH} = 15$, solución saturada <!-- feedback: Incorrecto. Sumó una constante al valor real del logaritmo. -->
 
 ### Explicacion Pedagogica
@@ -372,9 +372,9 @@ El pH se calcula como $\text{pH} = -\log_{10}[\text{H}^+] = -\log_{10}(10^{-5}) 
 Una solución acuosa diluida a $25^\circ\text{C}$ presenta $[\text{H}^+] = 10^{-6}\text{ M}$. ¿Cuál es su valor de pH y la clasificación de la solución?
 
 ### Opciones
-- [x] A) $\text{pH} = 6$, solución ácida <!-- feedback: Correcto. $\text{pH} = -\log_{10}(10^{-6}) = 6$. Un pH de 6 clasifica a la solución como ácida. -->
-- [ ] B) $\text{pH} = -6$, solución ácida <!-- feedback: Incorrecto. El pH se define con el logaritmo negativo, por lo que resulta un número positivo. -->
-- [ ] C) $\text{pOH} = 8$, solución no neutra <!-- feedback: Incorrecto. Este valor representa el pOH, no la definición del pH pedido. -->
+- [x] C) $\text{pH} = 6$, solución ácida <!-- feedback: Correcto. $\text{pH} = -\log_{10}(10^{-6}) = 6$. Un pH de 6 clasifica a la solución como ácida. -->
+- [ ] A) $\text{pH} = -6$, solución ácida <!-- feedback: Incorrecto. El pH se define con el logaritmo negativo, por lo que resulta un número positivo. -->
+- [ ] B) $\text{pOH} = 8$, solución no neutra <!-- feedback: Incorrecto. Este valor representa el pOH, no la definición del pH pedido. -->
 - [ ] D) $\text{pH} = 16$, solución saturada <!-- feedback: Incorrecto. Sumó una constante al valor real del logaritmo. -->
 
 ### Explicacion Pedagogica
@@ -393,9 +393,9 @@ El pH se calcula como $\text{pH} = -\log_{10}[\text{H}^+] = -\log_{10}(10^{-6}) 
 Una solución acuosa diluida a $25^\circ\text{C}$ presenta $[\text{H}^+] = 10^{-7}\text{ M}$. ¿Cuál es su valor de pH y la clasificación de la solución?
 
 ### Opciones
-- [x] A) $\text{pH} = 7$, solución neutra <!-- feedback: Correcto. $\text{pH} = -\log_{10}(10^{-7}) = 7$. Un pH de 7 clasifica a la solución como neutra. -->
-- [ ] B) $\text{pH} = -7$, solución neutra <!-- feedback: Incorrecto. El pH se define con el logaritmo negativo, por lo que resulta un número positivo. -->
-- [ ] C) $\text{pOH} = 7$, solución no neutra <!-- feedback: Incorrecto. Este valor representa el pOH, no la definición del pH pedido. -->
+- [x] C) $\text{pH} = 7$, solución neutra <!-- feedback: Correcto. $\text{pH} = -\log_{10}(10^{-7}) = 7$. Un pH de 7 clasifica a la solución como neutra. -->
+- [ ] A) $\text{pH} = -7$, solución neutra <!-- feedback: Incorrecto. El pH se define con el logaritmo negativo, por lo que resulta un número positivo. -->
+- [ ] B) $\text{pOH} = 7$, solución no neutra <!-- feedback: Incorrecto. Este valor representa el pOH, no la definición del pH pedido. -->
 - [ ] D) $\text{pH} = 17$, solución saturada <!-- feedback: Incorrecto. Sumó una constante al valor real del logaritmo. -->
 
 ### Explicacion Pedagogica
@@ -414,9 +414,9 @@ El pH se calcula como $\text{pH} = -\log_{10}[\text{H}^+] = -\log_{10}(10^{-7}) 
 Una solución acuosa diluida a $25^\circ\text{C}$ presenta $[\text{H}^+] = 10^{-8}\text{ M}$. ¿Cuál es su valor de pH y la clasificación de la solución?
 
 ### Opciones
-- [x] A) $\text{pH} = 8$, solución alcalina <!-- feedback: Correcto. $\text{pH} = -\log_{10}(10^{-8}) = 8$. Un pH de 8 clasifica a la solución como alcalina. -->
-- [ ] B) $\text{pH} = -8$, solución alcalina <!-- feedback: Incorrecto. El pH se define con el logaritmo negativo, por lo que resulta un número positivo. -->
-- [ ] C) $\text{pOH} = 6$, solución no neutra <!-- feedback: Incorrecto. Este valor representa el pOH, no la definición del pH pedido. -->
+- [x] C) $\text{pH} = 8$, solución alcalina <!-- feedback: Correcto. $\text{pH} = -\log_{10}(10^{-8}) = 8$. Un pH de 8 clasifica a la solución como alcalina. -->
+- [ ] A) $\text{pH} = -8$, solución alcalina <!-- feedback: Incorrecto. El pH se define con el logaritmo negativo, por lo que resulta un número positivo. -->
+- [ ] B) $\text{pOH} = 6$, solución no neutra <!-- feedback: Incorrecto. Este valor representa el pOH, no la definición del pH pedido. -->
 - [ ] D) $\text{pH} = 18$, solución saturada <!-- feedback: Incorrecto. Sumó una constante al valor real del logaritmo. -->
 
 ### Explicacion Pedagogica
@@ -435,10 +435,10 @@ El pH se calcula como $\text{pH} = -\log_{10}[\text{H}^+] = -\log_{10}(10^{-8}) 
 Una solución acuosa diluida a $25^\circ\text{C}$ presenta $[\text{H}^+] = 10^{-9}\text{ M}$. ¿Cuál es su valor de pH y la clasificación de la solución?
 
 ### Opciones
-- [x] A) $\text{pH} = 9$, solución alcalina <!-- feedback: Correcto. $\text{pH} = -\log_{10}(10^{-9}) = 9$. Un pH de 9 clasifica a la solución como alcalina. -->
-- [ ] B) $\text{pH} = -9$, solución alcalina <!-- feedback: Incorrecto. El pH se define con el logaritmo negativo, por lo que resulta un número positivo. -->
-- [ ] C) $\text{pOH} = 5$, solución no neutra <!-- feedback: Incorrecto. Este valor representa el pOH, no la definición del pH pedido. -->
-- [ ] D) $\text{pH} = 19$, solución saturada <!-- feedback: Incorrecto. Sumó una constante al valor real del logaritmo. -->
+- [x] D) $\text{pH} = 9$, solución alcalina <!-- feedback: Correcto. $\text{pH} = -\log_{10}(10^{-9}) = 9$. Un pH de 9 clasifica a la solución como alcalina. -->
+- [ ] A) $\text{pH} = -9$, solución alcalina <!-- feedback: Incorrecto. El pH se define con el logaritmo negativo, por lo que resulta un número positivo. -->
+- [ ] B) $\text{pOH} = 5$, solución no neutra <!-- feedback: Incorrecto. Este valor representa el pOH, no la definición del pH pedido. -->
+- [ ] C) $\text{pH} = 19$, solución saturada <!-- feedback: Incorrecto. Sumó una constante al valor real del logaritmo. -->
 
 ### Explicacion Pedagogica
 El pH se calcula como $\text{pH} = -\log_{10}[\text{H}^+] = -\log_{10}(10^{-9}) = 9$. A $25^\circ\text{C}$, $\text{pH} < 7$ es ácido, $=7$ es neutro y $>7$ es básico.

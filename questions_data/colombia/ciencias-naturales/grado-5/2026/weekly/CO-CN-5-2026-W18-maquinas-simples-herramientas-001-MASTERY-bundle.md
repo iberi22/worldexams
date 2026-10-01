@@ -57,9 +57,9 @@ Recordar el concepto de máquina simple y su función de facilitar el trabajo.
 ¿Por qué una palanca ayuda a levantar una piedra pesada?
 
 ### Opciones
-- [x] A) Porque permite hacer fuerza sobre un punto de apoyo y levantar la piedra con menos esfuerzo.
+- [x] B) Porque permite hacer fuerza sobre un punto de apoyo y levantar la piedra con menos esfuerzo.
   <!-- feedback: La palanca multiplica la fuerza aplicada gracias al punto de apoyo. -->
-- [ ] B) Porque hace que la piedra pese menos de verdad.
+- [ ] A) Porque hace que la piedra pese menos de verdad.
   <!-- feedback: La palanca no reduce el peso real de la piedra, facilita la fuerza. -->
 - [ ] C) Porque convierte la piedra en un material más liviano.
   <!-- feedback: La palanca no cambia el material de la piedra. -->
@@ -103,11 +103,11 @@ Aplicar la identificación del plano inclinado en una situación real del campo 
 ¿Qué máquina simple se usa para subir un balde de agua desde el fondo de un pozo?
 
 ### Opciones
-- [x] A) Una polea.
+- [x] C) Una polea.
   <!-- feedback: La polea, con su rueda y su cuerda, facilita subir cargas. -->
-- [ ] B) Un plano inclinado.
+- [ ] A) Un plano inclinado.
   <!-- feedback: El plano inclinado es una superficie en pendiente, no una cuerda con rueda. -->
-- [ ] C) Una palanca.
+- [ ] B) Una palanca.
   <!-- feedback: La palanca usa un punto de apoyo, no una cuerda con una rueda. -->
 - [ ] D) Un motor eléctrico.
   <!-- feedback: El pozo tradicional usa una polea, no un motor eléctrico. -->
@@ -126,11 +126,11 @@ Aplicar el uso de la polea para levantar cargas en una situación cotidiana.
 ¿Qué máquina simple le permite a la carretilla rodar y transportar la carga con menos esfuerzo?
 
 ### Opciones
-- [x] A) La rueda.
+- [x] C) La rueda.
   <!-- feedback: La rueda reduce la fricción y facilita el transporte de la carga. -->
-- [ ] B) El plano inclinado.
+- [ ] A) El plano inclinado.
   <!-- feedback: La carretilla rueda gracias a la rueda, no a una rampa. -->
-- [ ] C) La polea.
+- [ ] B) La polea.
   <!-- feedback: La carretilla no usa una cuerda con una rueda acanalada. -->
 - [ ] D) La palanca.
   <!-- feedback: Lo que permite rodar la carretilla es la rueda, no el punto de apoyo. -->
@@ -172,13 +172,13 @@ Analizar la combinación de palanca y rueda en el funcionamiento de la carretill
 ¿Por qué es más fácil subir una caja pesada por una rampa que levantarla directamente?
 
 ### Opciones
-- [x] A) Porque el plano inclinado permite repartir el esfuerzo a lo largo de una distancia mayor.
+- [x] D) Porque el plano inclinado permite repartir el esfuerzo a lo largo de una distancia mayor.
   <!-- feedback: Al repartir la fuerza en un recorrido más largo, se necesita menos fuerza en cada momento. -->
-- [ ] B) Porque la rampa hace que la caja desaparezca.
+- [ ] A) Porque la rampa hace que la caja desaparezca.
   <!-- feedback: La caja no desaparece; sigue siendo pesada. -->
-- [ ] C) Porque la rampa le quita el peso a la caja.
+- [ ] B) Porque la rampa le quita el peso a la caja.
   <!-- feedback: La rampa no cambia el peso de la caja. -->
-- [ ] D) Porque la rampa atrae la caja hacia arriba.
+- [ ] C) Porque la rampa atrae la caja hacia arriba.
   <!-- feedback: La rampa no atrae la caja; reduce el esfuerzo al repartirlo. -->
 
 ### Explicacion Pedagogica

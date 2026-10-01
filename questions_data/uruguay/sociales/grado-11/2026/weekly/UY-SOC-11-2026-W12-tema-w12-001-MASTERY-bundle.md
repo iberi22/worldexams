@@ -81,9 +81,9 @@ El INE es el organismo técnico responsable de elaborar los indicadores sociodem
 ### Opciones
 - [ ] A) Descentralización administrativa comarcal.
   <!-- feedback: Incorrecto. La descentralización distribuye funciones fuera de la capital; la concentración es su opuesto. -->
-- [x] B) Macrocefalia urbana (o primacía urbana).
+- [x] C) Macrocefalia urbana (o primacía urbana).
   <!-- feedback: Correcto. La macrocefalia urbana hipertrofia la capital respecto al resto del sistema de ciudades del interior. -->
-- [ ] C) Ruralización espontánea de los servicios públicos.
+- [ ] B) Ruralización espontánea de los servicios públicos.
   <!-- feedback: Incorrecto. Implica hiperurbanización concentrada en la capital, no dispersión rural. -->
 - [ ] D) Distribución espacial perfectamente uniforme.
   <!-- feedback: Incorrecto. La distribución espacial uruguaya es profundamente asimétrica en favor del sur. -->
@@ -102,9 +102,9 @@ La macrocefalia urbana hipertrofia a Montevideo frente al resto del territorio, 
 ¿Qué impacto demográfico directo genera la inmigración reciente de jóvenes y familias sobre la estructura de la población uruguaya?
 
 ### Opciones
-- [ ] A) Acelera el despoblamiento inmediato de las ciudades costeras.
+- [ ] B) Acelera el despoblamiento inmediato de las ciudades costeras.
   <!-- feedback: Incorrecto. La inmigración aporta población a las ciudades receptoras. -->
-- [x] B) Aporta mano de obra en edad activa y contribuye a ralentizar el envejecimiento poblacional.
+- [x] A) Aporta mano de obra en edad activa y contribuye a ralentizar el envejecimiento poblacional.
   <!-- feedback: Correcto. Los inmigrantes predominantemente jóvenes en edad de trabajar rejuvenecen la fuerza laboral y aportan al consumo e impuestos. -->
 - [ ] C) Invalida el uso de censos de población en el territorio nacional.
   <!-- feedback: Incorrecto. Los censos empadronan a toda la población residente independientemente de su origen. -->
@@ -127,11 +127,11 @@ La inmigración internacional reciente de adultos jóvenes oxigena la fuerza de 
 ### Opciones
 - [ ] A) Un incremento exponencial inmediato en la población de edad escolar primaria.
   <!-- feedback: Incorrecto. Un descenso de la fecundidad reduce el número de niños en edad escolar. -->
-- [x] B) La reducción absoluta de la población nativa y el achicamiento de las futuras cohortes en edad de trabajar.
+- [x] D) La reducción absoluta de la población nativa y el achicamiento de las futuras cohortes en edad de trabajar.
   <!-- feedback: Correcto. Al no alcanzar el promedio de 2,1 hijos por mujer, cada nueva generación es numéricamente menor que la anterior, reduciendo la población total. -->
-- [ ] C) La duplicación de la tasa de natalidad cada cinco años.
+- [ ] B) La duplicación de la tasa de natalidad cada cinco años.
   <!-- feedback: Incorrecto. Mantener TGF por debajo de 2,1 disminuye el volumen de nacimientos futuros. -->
-- [ ] D) La erradicación automática de todas las enfermedades crónicas en adultos mayores.
+- [ ] C) La erradicación automática de todas las enfermedades crónicas en adultos mayores.
   <!-- feedback: Incorrecto. La fecundidad no altera la prevalencia epidemiológica individual de enfermedades. -->
 
 ### Explicacion Pedagogica
@@ -150,9 +150,9 @@ Una Tasa Global de Fecundidad por debajo de 2,1 desploma el relevo generacional,
 ### Opciones
 - [ ] A) Pirámide de base ancha y cúspide muy estrecha (expansiva), reflejando alta natalidad y baja esperanza de vida.
   <!-- feedback: Incorrecto. Es el perfil de países jóvenes en fases iniciales de transición demográfica. -->
-- [x] B) Pirámide en forma de 'urna' o bulbo (estacionaria/constrictiva), con base estrecha por baja natalidad y centro-cúspide ensanchados.
+- [x] C) Pirámide en forma de 'urna' o bulbo (estacionaria/constrictiva), con base estrecha por baja natalidad y centro-cúspide ensanchados.
   <!-- feedback: Correcto. La forma de urna con base angosta visibiliza la baja fecundidad y el envejecimiento de la estructura por edades. -->
-- [ ] C) Pirámide triangular perfecta con igual número de personas en todas las edades.
+- [ ] B) Pirámide triangular perfecta con igual número de personas en todas las edades.
   <!-- feedback: Incorrecto. La mortalidad natural impide que haya igual número de ancianos que de niños en pirámides triangulares. -->
 - [ ] D) Pirámide invertida donde el 90% de la población se concentra en menores de 1 año.
   <!-- feedback: Incorrecto. Es biológicamente imposible tener 90% de lactantes sin cohorte de adultos que los engendren y sostengan. -->
@@ -173,11 +173,11 @@ La pirámide uruguaya en forma de urna (constrictiva) refleja el denso envejecim
 ### Opciones
 - [ ] A) Aumenta la carga de dependencia infantil mientras disminuye la de adultos mayores.
   <!-- feedback: Incorrecto. La baja natalidad reduce la dependencia infantil, ocurriendo lo opuesto. -->
-- [x] B) Disminuye la proporción de dependientes infantiles y aumenta significativamente la carga de dependencia de adultos mayores.
+- [x] D) Disminuye la proporción de dependientes infantiles y aumenta significativamente la carga de dependencia de adultos mayores.
   <!-- feedback: Correcto. La menor natalidad contrae el número de niños, desplazando el peso de la relación de dependencia hacia los adultos mayores no activos. -->
-- [ ] C) Elimina la necesidad de financiar pasividades o pensiones en el BPS.
+- [ ] B) Elimina la necesidad de financiar pasividades o pensiones en el BPS.
   <!-- feedback: Incorrecto. El aumento de adultos mayores exige mayor gasto en pensiones y salud pasiva. -->
-- [ ] D) Iguala la tasa de mortalidad infantil con la esperanza de vida al nacer.
+- [ ] C) Iguala la tasa de mortalidad infantil con la esperanza de vida al nacer.
   <!-- feedback: Incorrecto. Son indicadores demográficos conceptualmente distintos. -->
 
 ### Explicacion Pedagogica
@@ -196,9 +196,9 @@ El envejecimiento de la estructura por edades desplaza la demanda de bienes púb
 ### Opciones
 - [ ] A) Porque se ha prohibido el ingreso de jóvenes al mercado de trabajo.
   <!-- feedback: Incorrecto. El mercado laboral incentiva el empleo juvenil. -->
-- [x] B) Porque el veloz aumento de la cohorte de adultos mayores comenzará a superar la contracción de la cohorte juvenil en las próximas décadas.
+- [x] C) Porque el veloz aumento de la cohorte de adultos mayores comenzará a superar la contracción de la cohorte juvenil en las próximas décadas.
   <!-- feedback: Correcto. El envejecimiento acelerado reduce la proporción de población potencialmente activa, cerrando la ventana de bono demográfico. -->
-- [ ] C) Porque el país ha decidido duplicar su territorio mediante conquistas.
+- [ ] B) Porque el país ha decidido duplicar su territorio mediante conquistas.
   <!-- feedback: Incorrecto. El territorio nacional permanece inalterado. -->
 - [ ] D) Porque la esperanza de vida en Uruguay ha descendido a los 40 años.
   <!-- feedback: Incorrecto. La esperanza de vida uruguaya supera los 77 años en promedio. -->
@@ -219,9 +219,9 @@ El cierre del bono demográfico implica que la población en edad de trabajar de
 ### Opciones
 - [ ] A) Aumenta la tasa de natalidad rural de forma acelerada.
   <!-- feedback: Incorrecto. La salida de jóvenes en edad fértil reduce la natalidad rural. -->
-- [x] B) Envejecimiento acentuado, pérdida de capital humano capacitado y vaciamiento del tejido socio-productivo local.
+- [x] C) Envejecimiento acentuado, pérdida de capital humano capacitado y vaciamiento del tejido socio-productivo local.
   <!-- feedback: Correcto. La partida de jóvenes depaupera la fuerza laboral local, envejeciendo la población rural y reduciendo el recambio generacional. -->
-- [ ] C) Un aumento inmediato del valor de la tierra agrícola por falta de uso.
+- [ ] B) Un aumento inmediato del valor de la tierra agrícola por falta de uso.
   <!-- feedback: Incorrecto. El vaciamiento poblacional no eleva el valor productivo del suelo por despoblación. -->
 - [ ] D) La transformación del suelo en arrecifes de coral urbanos.
   <!-- feedback: Incorrecto. No corresponde a la realidad ambiental o geográfica del interior uruguayo. -->
@@ -242,9 +242,9 @@ La migración interna campo-ciudad y del interior hacia Montevideo envejece las 
 ### Opciones
 - [ ] A) Obligar a que las tareas de cuidado sean realizadas exclusivamente por las iglesias.
   <!-- feedback: Incorrecto. El SNIC es una política pública laica e institucional del Estado. -->
-- [x] B) Corresponsabilizar al Estado, la comunidad y el mercado, liberando la carga desproporcionada que recaía sobre las mujeres en los hogares.
+- [x] C) Corresponsabilizar al Estado, la comunidad y el mercado, liberando la carga desproporcionada que recaía sobre las mujeres en los hogares.
   <!-- feedback: Correcto. El SNIC profesionaliza los cuidados como un derecho social, superando la división sexual del trabajo que asignaba el cuidado no pago a las mujeres. -->
-- [ ] C) Prohibir la atención médica a personas mayores de 65 años.
+- [ ] B) Prohibir la atención médica a personas mayores de 65 años.
   <!-- feedback: Incorrecto. Al contrario, promueve la autonomía y atención de adultos mayores dependientes. -->
 - [ ] D) Privatizar todas las escuelas públicas del país.
   <!-- feedback: Incorrecto. No modifica la educación pública; crea servicios específicos de cuidados. -->
@@ -263,9 +263,9 @@ El SNIC reconoce el cuidado como un derecho social, promoviendo la corresponsabi
 ¿Por qué un sistema previsional de reparto puro (donde los trabajadores activos pagan las jubilaciones de los pasivos actuales) sufre desequilibrio financiero en una sociedad envejecida?
 
 ### Opciones
-- [ ] A) Porque aumenta el número de cotizantes activos por cada jubilado.
+- [ ] B) Porque aumenta el número de cotizantes activos por cada jubilado.
   <!-- feedback: Incorrecto. Ocurre lo opuesto: disminuye la relación de cotizantes por jubilado. -->
-- [x] B) Porque disminuye la cantidad de trabajadores activos que aportan y aumenta el número y la expectativa de vida de los jubilados que perciben pasividades.
+- [x] A) Porque disminuye la cantidad de trabajadores activos que aportan y aumenta el número y la expectativa de vida de los jubilados que perciben pasividades.
   <!-- feedback: Correcto. La relación cotizante/jubilado se estrecha, exigiendo mayores transferencias fiscales del Estado para cubrir el déficit previsional. -->
 - [ ] C) Porque los jubilados están obligados a trabajar el doble de horas.
   <!-- feedback: Incorrecto. Las jubilaciones retiran al trabajador del mercado formal laboral. -->
@@ -288,9 +288,9 @@ La alteración de la relación de dependencia previsional (menos aportantes acti
 ### Opciones
 - [ ] A) Incrementa la integración social igualitaria entre diferentes clases socioeconómicas en el espacio público.
   <!-- feedback: Incorrecto. La segregación aísla los grupos sociales impidiendo la interacción mixta. -->
-- [x] B) Homogeneiza la pobreza en barrios periféricos, reduce las redes de contacto laboral y reproduce la desigualdad de oportunidades.
+- [x] C) Homogeneiza la pobreza en barrios periféricos, reduce las redes de contacto laboral y reproduce la desigualdad de oportunidades.
   <!-- feedback: Correcto. La segregación geográfica aísla a los sectores populares en entornos sin servicios de calidad, reproduciendo la exclusión intergeneracional. -->
-- [ ] C) Elimina la brecha educativa entre colegios privados y liceos públicos.
+- [ ] B) Elimina la brecha educativa entre colegios privados y liceos públicos.
   <!-- feedback: Incorrecto. La segregación espacial refuerza la segmentación educativa. -->
 - [ ] D) Aumenta el transporte marítimo gratuito entre barrios periféricos.
   <!-- feedback: Incorrecto. La movilidad urbana periférica suele sufrir déficits de conectividad. -->
@@ -401,13 +401,13 @@ La sobremortalidad masculina en edades intermedias provoca que en la vejez avanz
 ¿Qué dilema de política fiscal y equidad intergeneracional deberá afrontar el país para financiar el gasto en pensiones y salud sin ahogar la productividad de la escasa fuerza laboral joven?
 
 ### Opciones
-- [x] A) Aumentar la edad legal de retiro, revisar las tasas de reemplazo y diversificar las fuentes de financiamiento del Estado más allá de los impuestos al trabajo.
+- [x] D) Aumentar la edad legal de retiro, revisar las tasas de reemplazo y diversificar las fuentes de financiamiento del Estado más allá de los impuestos al trabajo.
   <!-- feedback: Correcto. Para sostener el sistema sin asfixiar tributariamente a los jóvenes activos, se requiere aumentar la edad de jubilación, elevar la productividad y usar impuestos generales. -->
-- [ ] B) Suprimir de inmediato todo el sistema de salud pública y cerrar el BPS.
+- [ ] A) Suprimir de inmediato todo el sistema de salud pública y cerrar el BPS.
   <!-- feedback: Incorrecto. El desmantelamiento total de la protección social quebrantaría la cohesión y paz social. -->
-- [ ] C) Emitir moneda sin respaldo de forma infinita hasta eliminar la inflación.
+- [ ] B) Emitir moneda sin respaldo de forma infinita hasta eliminar la inflación.
   <!-- feedback: Incorrecto. La emisión descontrolada genera hiperinflación, destruyendo el poder adquisitivo de jubilados. -->
-- [ ] D) Obligar a los niños menores de 10 años a aportar al sistema previsional.
+- [ ] C) Obligar a los niños menores de 10 años a aportar al sistema previsional.
   <!-- feedback: Incorrecto. La legislación laboral uruguaya y los convenios de la OIT prohíben el trabajo infantil. -->
 
 ### Explicacion Pedagogica
@@ -426,9 +426,9 @@ El envejecimiento avanzado obliga a reformar los parámetros previsionales e inc
 ### Opciones
 - [ ] A) Que el Estado destina el 100% de su presupuesto a la educación inicial infantil.
   <!-- feedback: Incorrecto. La pobreza infantil persiste a pesar del gasto en educación inicial por fallas estructurales de transferencia a hogares con niños. -->
-- [x] B) Un sistema de protección social históricamente centrado en la cobertura de las pasividades de los adultos, con transferencias familiares a la infancia aún insuficientes para sacar a los hogares vulnerables de la pobreza.
+- [x] C) Un sistema de protección social históricamente centrado en la cobertura de las pasividades de los adultos, con transferencias familiares a la infancia aún insuficientes para sacar a los hogares vulnerables de la pobreza.
   <!-- feedback: Correcto. Las redes del BPS protegieron eficazmente a los ancianos (baja pobreza pasiva), pero los hogares jóvenes con niños concentran informalidad y menores transferencias netas. -->
-- [ ] C) La prohibición legal de que los niños vivan en viviendas con agua potable.
+- [ ] B) La prohibición legal de que los niños vivan en viviendas con agua potable.
   <!-- feedback: Incorrecto. La legislación promueve el acceso a la vivienda digna e infancia protegida. -->
 - [ ] D) El cobro de impuestos excesivos exclusivamente a los recién nacidos.
   <!-- feedback: Incorrecto. Los niños no son sujetos pasivos tributarios directos. -->
@@ -449,9 +449,9 @@ La infantilización de la pobreza en Uruguay responde a un sesgo histórico de l
 ### Opciones
 - [ ] A) Porque las viviendas físicas destruyen la cohesión de las familias.
   <!-- feedback: Incorrecto. La vivienda brinda techo adecuado; el problema radica en la falta de centralidad y servicios. -->
-- [x] B) Porque la inclusión social requiere 'derecho a la ciudad': acceso a redes de empleo, transporte accesible, servicios públicos de calidad e integración en espacios públicos mixtos.
+- [x] C) Porque la inclusión social requiere 'derecho a la ciudad': acceso a redes de empleo, transporte accesible, servicios públicos de calidad e integración en espacios públicos mixtos.
   <!-- feedback: Correcto. Sin conectividad urbana, acceso a empleo formal y servicios de calidad, el realojo periférico perpetúa el aislamiento social y la estigmatización territorial. -->
-- [ ] C) Porque los ciudadanos prefieren vivir sin electricidad ni saneamiento.
+- [ ] B) Porque los ciudadanos prefieren vivir sin electricidad ni saneamiento.
   <!-- feedback: Incorrecto. Todas las familias aspiran a servicios básicos de vivienda digna de calidad. -->
 - [ ] D) Porque las casas periféricas se evaporan por la acción del viento pampero.
   <!-- feedback: Incorrecto. No corresponde a la resistencia física de las construcciones urbanas de materiales firmes. -->
@@ -472,9 +472,9 @@ El derecho a la ciudad trasciende el techo individual; exige integración territ
 ### Opciones
 - [ ] A) Construir mil nuevas escuelas primarias por año en departamentos despoblados.
   <!-- feedback: Incorrecto. El descenso infantil exige consolidar y reconvertir aulas más que expandir edificios escolares masivamente. -->
-- [x] B) Reorientar la inversión desde la expansión cuantitativa de cobertura básica infantil hacia la calidad educativa, reconvirtiendo infraestructuras hacia servicios gerontológicos y cuidados de larga duración.
+- [x] C) Reorientar la inversión desde la expansión cuantitativa de cobertura básica infantil hacia la calidad educativa, reconvirtiendo infraestructuras hacia servicios gerontológicos y cuidados de larga duración.
   <!-- feedback: Correcto. Al haber menos niños y más ancianos, el Estado debe reasignar infraestructuras educativas sobrantes hacia servicios sociosanitarios de adultos mayores y priorizar calidad. -->
-- [ ] C) Abogarse exclusivamente a la construcción de puertos de submarinos en la pradera.
+- [ ] B) Abogarse exclusivamente a la construcción de puertos de submarinos en la pradera.
   <!-- feedback: Incorrecto. No responde a las necesidades demográficas o geográficas de la población. -->
 - [ ] D) Esterilizar a la totalidad de la población joven en edad reproductiva.
   <!-- feedback: Incorrecto. Violenta los derechos humanos fundamentales e intensificaría el colapso demográfico. -->

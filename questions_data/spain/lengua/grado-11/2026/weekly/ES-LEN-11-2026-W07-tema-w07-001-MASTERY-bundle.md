@@ -33,9 +33,9 @@ Este bundle contiene 20 preguntas sobre la estructura clásica del texto argumen
 ¿Qué partes componen la macroestructura estándar de un texto de base argumentativa?
 
 ### Opciones
-- [x] A) La tesis (idea que se defiende), el cuerpo argumentativo (conjunto de razones y pruebas) y la conclusión (síntesis y cierre).
+- [x] B) La tesis (idea que se defiende), el cuerpo argumentativo (conjunto de razones y pruebas) y la conclusión (síntesis y cierre).
   <!-- feedback: Correcto. La estructura clásica de la argumentación consta de tesis inicial o final, el cuerpo argumentativo de pruebas, y la conclusión o síntesis de cierre. -->
-- [ ] B) El planteamiento amoroso, el nudo descriptivo del paisaje de Doñana y la rima asonante final.
+- [ ] A) El planteamiento amoroso, el nudo descriptivo del paisaje de Doñana y la rima asonante final.
   <!-- feedback: Incorrecto. Eso corresponde a la tipología narrativa y lírica, no al discurso argumentativo lógico. -->
 - [ ] C) El glosario de términos botánicos, la definición del latín clásico de la RAE y la elipsis temporal de Valencia.
   <!-- feedback: Incorrecto. No forma parte de la estructura de la argumentación racional culta. -->
@@ -57,13 +57,13 @@ La argumentación formal se organiza en torno a tres pilares: la tesis (opinión
 ¿Qué tipo de argumento se está aplicando en este segmento para persuadir al lector?
 
 ### Opciones
-- [x] A) Argumento de autoridad, al fundamentar la validez de la tesis en la opinión o dictamen de un organismo de prestigio científico reconocido.
+- [x] D) Argumento de autoridad, al fundamentar la validez de la tesis en la opinión o dictamen de un organismo de prestigio científico reconocido.
   <!-- feedback: Correcto. El argumento de autoridad se sirve de citas o declaraciones de expertos, instituciones o personalidades de renombre para respaldar la postura defendida. -->
-- [ ] B) Argumento analógico, porque traza comparaciones con la fauna de Doñana.
+- [ ] A) Argumento analógico, porque traza comparaciones con la fauna de Doñana.
   <!-- feedback: Incorrecto. No establece comparaciones de semejanza entre dos sistemas; cita directamente una declaración experta de salud. -->
-- [ ] C) Falacia ad hominem, que busca descalificar moralmente al director de la OMS en Madrid.
+- [ ] B) Falacia ad hominem, que busca descalificar moralmente al director de la OMS en Madrid.
   <!-- feedback: Incorrecto. Es un argumento legítimo y prestigioso de autoridad, libre de descalificaciones personales ofensivas. -->
-- [ ] D) Argumento ad populum, que se limita a apelar al miedo irracional de los jóvenes.
+- [ ] C) Argumento ad populum, que se limita a apelar al miedo irracional de los jóvenes.
   <!-- feedback: Incorrecto. Cita un dato institucional científico, desvinculado del mero sentir general irracional colectivo. -->
 
 ### Explicacion Pedagogica
@@ -105,11 +105,11 @@ El argumento analógico o por comparación traslada la lógica de un hecho conoc
 ¿Qué tipo de quiebra lógica o falacia argumentativa comete el diputado con su declaración?
 
 ### Opciones
-- [x] A) Falacia ad hominem, que descalifica personalmente al proponente (el señor Martínez) para restar validez a su propuesta en lugar de rebatir el contenido de la ley.
+- [x] C) Falacia ad hominem, que descalifica personalmente al proponente (el señor Martínez) para restar validez a su propuesta en lugar de rebatir el contenido de la ley.
   <!-- feedback: Correcto. La falacia ad hominem ataca directamente a la persona que emite la idea, buscando desacreditarla, en vez de rebatir racionalmente los argumentos lógicos de su propuesta. -->
-- [ ] B) Falacia ad verecundiam, al apelar a la opinión venerable de un clérigo de Toledo.
+- [ ] A) Falacia ad verecundiam, al apelar a la opinión venerable de un clérigo de Toledo.
   <!-- feedback: Incorrecto. La falacia ad verecundiam apela de forma errónea a una falsa autoridad; atacar a la persona es ad hominem. -->
-- [ ] C) Argumento analógico de confianza de Doñana.
+- [ ] B) Argumento analógico de confianza de Doñana.
   <!-- feedback: Incorrecto. No establece analogías legítimas; incurre en un vicio argumentativo ofensivo. -->
 - [ ] D) Falacia ad ignorantiam, por afirmar que las hipotecas no existen en la lengua española.
   <!-- feedback: Incorrecto. La ad ignorantiam sostiene que algo es verdadero solo porque no se ha demostrado su falsedad. -->
@@ -129,11 +129,11 @@ La falacia ad hominem es un error lógico e intelectual severo que atenta contra
 ¿Qué clase de argumento se está aportando al incorporar este porcentaje exacto?
 
 ### Opciones
-- [x] A) Argumento basado en datos y estadísticas, que dota de solidez, objetividad y rigor empírico a la tesis mediante cifras numéricas contrastables.
+- [x] C) Argumento basado en datos y estadísticas, que dota de solidez, objetividad y rigor empírico a la tesis mediante cifras numéricas contrastables.
   <!-- feedback: Correcto. Los argumentos basados en datos reales e indicadores estadísticos cuantificables aportan un gran poder persuasivo y objetividad fáctica de cara a la EBAU. -->
-- [ ] B) Argumento afectivo-emotivo, que busca derramar lágrimas de compasión en el lector por los cables de fibra óptica.
+- [ ] A) Argumento afectivo-emotivo, que busca derramar lágrimas de compasión en el lector por los cables de fibra óptica.
   <!-- feedback: Incorrecto. No busca la conmoción emocional sentimental del lector; es una cifra matemática descriptiva fría y objetiva. -->
-- [ ] C) Falacia ad baculum, que intimida físicamente al lector bajo amenaza de corte de internet.
+- [ ] B) Falacia ad baculum, que intimida físicamente al lector bajo amenaza de corte de internet.
   <!-- feedback: Incorrecto. La falacia ad baculum se sirve del miedo o la fuerza física para imponer la tesis; aquí es un porcentaje real de mercado. -->
 - [ ] D) Un arcaísmo léxico propio de los exámenes de la Edad Media en Soria.
   <!-- feedback: Incorrecto. Son datos sociológicos y tecnológicos modernos contemporáneos. -->
@@ -153,11 +153,11 @@ Los argumentos basados en datos objetivos y estadísticas apelan a la racionalid
 ¿Qué tipo de argumento se aplica al referirse a la ola de calor de Sevilla y Zaragoza?
 
 ### Opciones
-- [x] A) Argumento por ejemplificación, al ilustrar y concretar la tesis general mediante un caso real y específico que el lector puede verificar de forma cercana.
+- [x] C) Argumento por ejemplificación, al ilustrar y concretar la tesis general mediante un caso real y específico que el lector puede verificar de forma cercana.
   <!-- feedback: Correcto. El argumento de ejemplificación sirve para dar un ejemplo concreto de la vida real que demuestra visual y fácticamente la veracidad de la tesis general. -->
-- [ ] B) Argumento de autoridad del Ayuntamiento de Valencia.
+- [ ] A) Argumento de autoridad del Ayuntamiento de Valencia.
   <!-- feedback: Incorrecto. No cita el bando oficial del alcalde de Valencia, describe una ola de calor real de forma ilustrativa. -->
-- [ ] C) Falacia ad hominem, que ataca la moralidad del sol de verano.
+- [ ] B) Falacia ad hominem, que ataca la moralidad del sol de verano.
   <!-- feedback: Incorrecto. No descalifica a ninguna persona; ilustra la tesis meteorológica con un suceso verídico del clima. -->
 - [ ] D) Una nominalización sintáctica medieval que anula los verbos transitivos.
   <!-- feedback: Incorrecto. Es un recurso lógico de nivel de tipología discursiva, ajeno a nominalizaciones. -->
@@ -249,11 +249,11 @@ En los textos de opinión cultos, la tesis puede formularse de manera explícita
 ¿Qué clase de argumento basado en el sentido común de la mayoría comete el vecino?
 
 ### Opciones
-- [x] A) Argumento de sentir general o ad populum, al defender la tesis apelando a la opinión de la mayoría desprovista de demostración científica.
+- [x] C) Argumento de sentir general o ad populum, al defender la tesis apelando a la opinión de la mayoría desprovista de demostración científica.
   <!-- feedback: Correcto. Los argumentos de sentido común o 'ad populum' se apoyan en la opinión supuestamente general o mayoritaria ('todo el mundo sabe que') para persuadir de forma grupal. -->
-- [ ] B) Argumento de autoridad del Ministerio de Fomento de España.
+- [ ] A) Argumento de autoridad del Ministerio de Fomento de España.
   <!-- feedback: Incorrecto. No cita ningún informe técnico ni dictamen del ministerio; apela al parecer popular indeterminado ('todo el mundo sabe'). -->
-- [ ] C) Una falacia ad hominem que insulta al vecino de la acera de enfrente.
+- [ ] B) Una falacia ad hominem que insulta al vecino de la acera de enfrente.
   <!-- feedback: Incorrecto. No descalifica u ofende de forma directa a ningún interlocutor individual del barrio; apela al colectivo indiferenciado. -->
 - [ ] D) Un queísmo morfológico involuntario de Sevilla.
   <!-- feedback: Incorrecto. Es un recurso argumentativo lógico e informal de nivel discursivo, ajeno a desviaciones gramaticales de preposiciones. -->
@@ -321,11 +321,11 @@ La apelación a la autoridad es falaz (ad verecundiam) cuando el prestigio o la 
 Analiza estilística y semánticamente el papel que cumplen estos sintagmas en la persuasión de los lectores.
 
 ### Opciones
-- [x] A) Uso de léxico valorativo o cargado de valoraciones axiológicas (adjetivos apreciativos), que orienta de forma sutil la opinión del receptor hacia el juicio ético del emisor.
+- [x] C) Uso de léxico valorativo o cargado de valoraciones axiológicas (adjetivos apreciativos), que orienta de forma sutil la opinión del receptor hacia el juicio ético del emisor.
   <!-- feedback: Correcto. El léxico valorativo (nefasta, desastrosa, heroica, ejemplar) es subjetivo e indispensable en los textos de opinión para calificar hechos y contagiar sutilmente el juicio del autor. -->
-- [ ] B) Tecnicismos neutros y denotativos propios de la química molecular pura.
+- [ ] A) Tecnicismos neutros y denotativos propios de la química molecular pura.
   <!-- feedback: Incorrecto. Son adjetivos connotativos cargados de opinión axiológica subjetiva, opuestos a la monosemia denotativa neutra de las ciencias. -->
-- [ ] C) Arcaísmos medievales de uso exclusivo en la provincia de Toledo.
+- [ ] B) Arcaísmos medievales de uso exclusivo en la provincia de Toledo.
   <!-- feedback: Incorrecto. Son palabras del vocabulario culto y coloquial estándar actual de España, de vigencia contemporánea plena. -->
 - [ ] D) Marcadores discursivos que exigen de forma obligatoria un dequeísmo sintáctico.
   <!-- feedback: Incorrecto. No guardan relación con la preposición 'de' ni con nexos subordinados; son adjetivos calificativos de valor semántico nominal. -->
@@ -369,13 +369,13 @@ La interrogación retórica es un recurso de fuerte impacto persuasivo en el dis
 Analiza el tipo de argumento lógico que vertebra la argumentación del editorialista.
 
 ### Opciones
-- [x] A) Argumento racional de causa-efecto, al asociar de manera demostrable un hecho precedente (cierre de tráfico) con las consecuencias positivas resultantes (reducción de contaminación e ingresos médicos).
+- [x] D) Argumento racional de causa-efecto, al asociar de manera demostrable un hecho precedente (cierre de tráfico) con las consecuencias positivas resultantes (reducción de contaminación e ingresos médicos).
   <!-- feedback: Correcto. El argumento de causa-efecto establece nexos causales demostrables y racionales entre hechos precedentes e implicaciones lógicas resultantes. -->
-- [ ] B) Falacia ad populum de bajo nivel de éxito de Doñana.
+- [ ] A) Falacia ad populum de bajo nivel de éxito de Doñana.
   <!-- feedback: Incorrecto. Es un razonamiento lógico causa-efecto verosímil, distante de la apelación falaz al sentir de masas o al miedo. -->
-- [ ] C) Argumento por el absurdo, que busca convencer al lector mediante la risa carnavalesca.
+- [ ] B) Argumento por el absurdo, que busca convencer al lector mediante la risa carnavalesca.
   <!-- feedback: Incorrecto. No hay burla ni reducción al absurdo; es un análisis lógico-clínico serio del aire metropolitano. -->
-- [ ] D) Un leísmo de persona directo que suspende la concordancia del pronombre 'lo'.
+- [ ] C) Un leísmo de persona directo que suspende la concordancia del pronombre 'lo'.
   <!-- feedback: Incorrecto. Carece de relación con los pronombres de acusativo masculinos. -->
 
 ### Explicacion Pedagogica
@@ -393,9 +393,9 @@ Los argumentos racionales basados en relaciones de causa y efecto demuestran que
 ¿Qué funciones del lenguaje organizan de forma combinada la comunicación en este discurso argumentativo subjetivo?
 
 ### Opciones
-- [x] A) Las funciones apelativa (persuadir e implicar al receptor en la acción mediante mandatos) y expresiva (exteriorizar el dolor y la indignación subjetiva del orador).
+- [x] B) Las funciones apelativa (persuadir e implicar al receptor en la acción mediante mandatos) y expresiva (exteriorizar el dolor y la indignación subjetiva del orador).
   <!-- feedback: Correcto. En la argumentación subjetiva o mitin predominan de forma coordinada la función apelativa (mover al receptor) y la expresiva (mostrar el compromiso e indignación subjetiva del emisor). -->
-- [ ] B) La función metalingüística de la RAE combinada con la fática de telefonía móvil de Toledo.
+- [ ] A) La función metalingüística de la RAE combinada con la fática de telefonía móvil de Toledo.
   <!-- feedback: Incorrecto. No se explica gramática del castellano ni se comprueba la cobertura física de los teléfonos de los alumnos. -->
 - [ ] C) Predominio exclusivo de la función poética orientada a la descripción botánica forestal de Soria.
   <!-- feedback: Incorrecto. El fin es ético, cívico y de persuasión social contra el acoso escolar, desvinculado de la descripción estética de bosques. -->
@@ -417,11 +417,11 @@ La argumentación de carácter ensayístico u oratorio subjetivo se despliega en
 Evalúa críticamente la falacia argumentativa y el sesgo manipulador empleado en la redacción de esta campaña comercial.
 
 ### Opciones
-- [x] A) Falacia del falso dilema (o falsa dicotomía), al reducir de manera tramposa las opciones de la vida del lector a dos extremos absolutos y opuestos, ignorando deliberadamente que existen múltiples alternativas intermedias para prosperar.
+- [x] C) Falacia del falso dilema (o falsa dicotomía), al reducir de manera tramposa las opciones de la vida del lector a dos extremos absolutos y opuestos, ignorando deliberadamente que existen múltiples alternativas intermedias para prosperar.
   <!-- feedback: Correcto. El falso dilema limita las opciones a dos polos opuestos y radicales ('o te matriculas o fracasas para siempre') para acorralar psicológicamente al comprador, constituyendo una burda falacia manipuladora. -->
-- [ ] B) Falacia ad hominem, que descalifica de forma grosera la fisonomía moral de los hablantes de inglés.
+- [ ] A) Falacia ad hominem, que descalifica de forma grosera la fisonomía moral de los hablantes de inglés.
   <!-- feedback: Incorrecto. No insulta ni descalifica de forma directa al lector; reduce tramposamente sus opciones de futuro a dos caminos. -->
-- [ ] C) Un argumento de ejemplificación botánica de la LOMLOE para la venta de cursos de inglés.
+- [ ] B) Un argumento de ejemplificación botánica de la LOMLOE para la venta de cursos de inglés.
   <!-- feedback: Incorrecto. Es una estrategia de persuasión y coacción comercial falaz, ajena a la didáctica de la botánica escolar. -->
 - [ ] D) Es un uso de la estructura analizante del español canario avalada por la RAE.
   <!-- feedback: Incorrecto. No es un logro estructural ni de variedad diatópica canaria legítima; es un error y sesgo de lógica informal persuasiva. -->
@@ -441,11 +441,11 @@ La falacia del falso dilema es un recurso manipulador de corte propagandístico 
 Evalúa la solidez y consistencia del texto de opinión de acuerdo con las conclusiones del crítico literario.
 
 ### Opciones
-- [x] A) El crítico evalúa correctamente que una argumentación modélica exige solidez lógica, premisas veraces y datos contrastables; la mera acumulación de descalificaciones subjetivas e injurias constituye un vicio argumentativo (falacia ad hominem) que invalida la consistencia intelectual del ensayo.
+- [x] C) El crítico evalúa correctamente que una argumentación modélica exige solidez lógica, premisas veraces y datos contrastables; la mera acumulación de descalificaciones subjetivas e injurias constituye un vicio argumentativo (falacia ad hominem) que invalida la consistencia intelectual del ensayo.
   <!-- feedback: Correcto. Un texto de opinión consistente requiere de argumentos racionales, pruebas o datos válidos. Devaluar la columna a insultos (ad hominem) anula su valor intelectual, justificando la crítica del reseñador. -->
-- [ ] B) El crítico se equivoca porque las columnas de opinión de Barcelona exigen de forma obligatoria el uso de injurias para poder publicarse en el periódico.
+- [ ] A) El crítico se equivoca porque las columnas de opinión de Barcelona exigen de forma obligatoria el uso de injurias para poder publicarse en el periódico.
   <!-- feedback: Incorrecto. La prensa culta de España promueve el debate de ideas con rigor, educación y respeto, desaconsejando el insulto vulgar. -->
-- [ ] C) El ensayo es consistente porque cuantas más falacias ad hominem contenga un escrito, mayor será su perfección sintáctica según la RAE.
+- [ ] B) El ensayo es consistente porque cuantas más falacias ad hominem contenga un escrito, mayor será su perfección sintáctica según la RAE.
   <!-- feedback: Incorrecto. Las falacias lógicas son errores de razonamiento intelectual y no devalúan o aumentan la sintaxis gramatical formal de forma directa, pero destruyen la solidez de la idea defendida. -->
 - [ ] D) Se justifica porque la ley de la LOMLOE prohíbe de forma terminante debatir sobre presupuestos públicos en clase de Lengua.
   <!-- feedback: Incorrecto. La LOMLOE promueve el espíritu crítico, el debate argumentado de ideas y el análisis de la prensa de opinión en los programas escolares de bachillerato. -->
@@ -465,13 +465,13 @@ La solidez de un texto argumentativo se mide por la validez y consistencia lógi
 Evalúa el papel persuasivo y estilístico de la ironía aplicada en este fragmento del editorial.
 
 ### Opciones
-- [x] A) Consiste en dar a entender lo contrario de lo que se dice literalmente, usando la ironía como un recurso indirecto e ingenioso para ridiculizar y refutar la tesis opuesta del rival.
+- [x] D) Consiste en dar a entender lo contrario de lo que se dice literalmente, usando la ironía como un recurso indirecto e ingenioso para ridiculizar y refutar la tesis opuesta del rival.
   <!-- feedback: Correcto. La ironía afirma literalmente lo opuesto de lo que se desea sugerir, sirviendo en el periodismo de opinión para ridiculizar con agudeza estilística y refutar las posturas contrarias sin caer en el insulto soez. -->
-- [ ] B) Es un error ortográfico severo del periodista que confunde de forma sistemática la ironía con las preposiciones.
+- [ ] A) Es un error ortográfico severo del periodista que confunde de forma sistemática la ironía con las preposiciones.
   <!-- feedback: Incorrecto. La ironía es una figura retórica de pensamiento de nivel pragmático, libre de vicios o incorrecciones ortográficas. -->
-- [ ] C) Demuestra que el periodismo de Soria exige de forma obligatoria el cambio de código bilingüe en euskera.
+- [ ] B) Demuestra que el periodismo de Soria exige de forma obligatoria el cambio de código bilingüe en euskera.
   <!-- feedback: Incorrecto. El editorial se halla íntegramente escrito en correcto castellano peninsular estándar, desvinculado de euskera. -->
-- [ ] D) Anula la función de comunicación del editorial, convirtiendo la ironía en un ruido físico de canal.
+- [ ] C) Anula la función de comunicación del editorial, convirtiendo la ironía en un ruido físico de canal.
   <!-- feedback: Incorrecto. No obstaculiza la señal física; enriquece la descodificación mental apelando a la complicidad intelectual del lector avezado. -->
 
 ### Explicacion Pedagogica
@@ -489,11 +489,11 @@ La ironía es un recurso retórico y pragmático de gran sutileza y eficacia arg
 Evalúa el logro y la consistencia estilística del ensayo del estudiante atendiendo al principio de claridad y cohesión pragmática del discurso argumentativo.
 
 ### Opciones
-- [x] A) Es deficiente, ya que la excesiva complejidad sintáctica y el abuso de la subordinación ilimitada sin pausas ortográficas oscurece la claridad de la tesis y satura la capacidad cognitiva del lector, atentando contra la eficacia de la argumentación.
+- [x] C) Es deficiente, ya que la excesiva complejidad sintáctica y el abuso de la subordinación ilimitada sin pausas ortográficas oscurece la claridad de la tesis y satura la capacidad cognitiva del lector, atentando contra la eficacia de la argumentación.
   <!-- feedback: Correcto. Para que un texto argumentativo convenza, debe respetar los principios de claridad, coherencia y concisión en la formulación de la tesis. Una sintaxis asfixiante y confusa sabotea el fin persuasivo. -->
-- [ ] B) Es excelente, ya que cuanto más oscuras e indescifrables resulten las oraciones de Zaragoza, mayor será el mérito intelectual del alumno ante el tribunal de selectividad.
+- [ ] A) Es excelente, ya que cuanto más oscuras e indescifrables resulten las oraciones de Zaragoza, mayor será el mérito intelectual del alumno ante el tribunal de selectividad.
   <!-- feedback: Incorrecto. El tribunal de selectividad exige claridad sintáctica, orden lógico y rigor formal, penalizando severamente la confusión y la prosa incomprensible. -->
-- [ ] C) Se justifica porque las normas ortográficas de la RAE prohíben de forma terminante usar puntos seguidos en los ensayos escolares de bachillerato.
+- [ ] B) Se justifica porque las normas ortográficas de la RAE prohíben de forma terminante usar puntos seguidos en los ensayos escolares de bachillerato.
   <!-- feedback: Incorrecto. El punto seguido es un signo ortográfico indispensable para segmentar ideas, obligatorio para estructurar textos legibles y cohesionados. -->
 - [ ] D) Es un loísmo estructural de tipo condicional canario aceptado en el parlamento de Aragón.
   <!-- feedback: Incorrecto. No guarda relación con anomalías de pronombres de acusativo ni es una estructura parlamentaria lícita. -->

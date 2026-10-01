@@ -34,11 +34,11 @@ Este bundle contiene 20 preguntas sobre **Geometría Analítica** para grado 11,
 ¿Cuál es la distancia exacta entre el punto $A$ y el punto $B$?
 
 ### Opciones
-- [x] A) 5
+- [x] C) 5
   <!-- feedback: Correcto. $d = \sqrt{(4-1)^2 + (6-2)^2} = \sqrt{3^2 + 4^2} = \sqrt{9+16} = 5$. -->
-- [ ] B) 7
+- [ ] A) 7
   <!-- feedback: Incorrecto. Se sumaron las diferencias $(3+4)$ en lugar de elevarlas al cuadrado. -->
-- [ ] C) \sqrt{7}
+- [ ] B) \sqrt{7}
   <!-- feedback: Incorrecto. Se sumaron las diferencias y se les sacó raíz cuadrada. -->
 - [ ] D) 25
   <!-- feedback: Incorrecto. Se olvidó aplicar la raíz cuadrada al final. -->
@@ -57,11 +57,11 @@ La fórmula de distancia entre $(x_1, y_1)$ y $(x_2, y_2)$ es $d = \sqrt{(x_2-x_
 ¿Cuáles son las coordenadas del punto medio $M$?
 
 ### Opciones
-- [x] A) $(2, 6)$
+- [x] C) $(2, 6)$
   <!-- feedback: Correcto. $M = (\frac{-2+6}{2}, \frac{4+8}{2}) = (\frac{4}{2}, \frac{12}{2}) = (2, 6)$. -->
-- [ ] B) $(4, 12)$
+- [ ] A) $(4, 12)$
   <!-- feedback: Incorrecto. Se omitió dividir entre 2 las sumas de las coordenadas. -->
-- [ ] C) $(8, 4)$
+- [ ] B) $(8, 4)$
   <!-- feedback: Incorrecto. Se restaron las coordenadas en lugar de promediarlas. -->
 - [ ] D) $(2, 12)$
   <!-- feedback: Incorrecto. Se dividió únicamente la coordenada $x$ entre 2. -->
@@ -80,11 +80,11 @@ El punto medio es $M(\frac{x_1+x_2}{2}, \frac{y_1+y_2}{2})$. Calculando: $(\frac
 ¿Cuál es el valor de la pendiente $m$?
 
 ### Opciones
-- [x] A) 2
+- [x] C) 2
   <!-- feedback: Correcto. $m = \frac{11 - 5}{5 - 2} = \frac{6}{3} = 2$. -->
-- [ ] B) \frac{1}{2}
+- [ ] A) \frac{1}{2}
   <!-- feedback: Incorrecto. Se invirtió el numerador y el denominador ($\Delta x / \Delta y$). -->
-- [ ] C) 3
+- [ ] B) 3
   <!-- feedback: Incorrecto. Se restaron solo las coordenadas en $x$. -->
 - [ ] D) 6
   <!-- feedback: Incorrecto. Es únicamente la diferencia de ordenadas $\Delta y$. -->
@@ -126,9 +126,9 @@ Sustituyendo en $y = mx + b$: $4 = 3(1) + b \implies b = 1$. La ecuación es $y 
 ¿Cuál es la relación geométrica entre $L_1$ y $L_2$?
 
 ### Opciones
-- [x] A) Son rectas paralelas no coincidentes.
+- [x] B) Son rectas paralelas no coincidentes.
   <!-- feedback: Correcto. Pendiente $m_1 = 2$ y $m_2 = 2$. Como sus ordenadas al origen difieren ($4 \neq -3$), son paralelas. -->
-- [ ] B) Son rectas perpendiculares.
+- [ ] A) Son rectas perpendiculares.
   <!-- feedback: Incorrecto. Para ser perpendiculares el producto de sus pendientes debe ser -1. -->
 - [ ] C) Son rectas coincidentes.
   <!-- feedback: Incorrecto. Tienen diferente término independiente. -->
@@ -149,11 +149,11 @@ $m_1 = 2$, $m_2 = 2$. Al ser $m_1 = m_2$ y tener distinta constante al origen, l
 ¿Cuál es la ecuación de la recta perpendicular?
 
 ### Opciones
-- [x] A) $y = 2x - 3$
+- [x] C) $y = 2x - 3$
   <!-- feedback: Correcto. La pendiente perpendicular es $m = 2$. $y - 1 = 2(x - 2) \implies y = 2x - 3$. -->
-- [ ] B) $y = -2x + 5$
+- [ ] A) $y = -2x + 5$
   <!-- feedback: Incorrecto. Se cambió el signo pero no se invirtió la pendiente. -->
-- [ ] C) $y = 2x + 1$
+- [ ] B) $y = 2x + 1$
   <!-- feedback: Incorrecto. Se omitió restar $4$ al despejar. -->
 - [ ] D) $y = \frac{1}{2}x$
   <!-- feedback: Incorrecto. Se usó el recíproco sin cambiar de signo. -->
@@ -218,9 +218,9 @@ La pendiente es $m = 1$. El ángulo de inclinación satisface $\tan(\theta) = m 
 ¿En qué punto $(x, y)$ se cruzan ambas rectas?
 
 ### Opciones
-- [x] A) $(3, 1)$
+- [x] B) $(3, 1)$
   <!-- feedback: Correcto. Sumando ambas ecuaciones: $3x = 9 \implies x = 3$. Luego $3 - y = 2 \implies y = 1$. -->
-- [ ] B) $(1, 3)$
+- [ ] A) $(1, 3)$
   <!-- feedback: Incorrecto. Se invirtieron las coordenadas $x$ e $y$. -->
 - [ ] C) $(4, -1)$
   <!-- feedback: Incorrecto. No satisface la primera ecuación $2(4) + (-1) = 7$, pero tampoco la segunda correctamente. -->
@@ -241,11 +241,11 @@ Resolviendo el sistema lineal por eliminación: $(2x+y) + (x-y) = 7+2 \implies 3
 Si $a = 0$ y $b \neq 0$, ¿qué tipo de recta representa en el plano?
 
 ### Opciones
-- [x] A) Una recta horizontal paralela al eje $x$.
+- [x] C) Una recta horizontal paralela al eje $x$.
   <!-- feedback: Correcto. $by + c = 0 \implies y = -c/b$, una recta horizontal. -->
-- [ ] B) Una recta vertical paralela al eje $y$.
+- [ ] A) Una recta vertical paralela al eje $y$.
   <!-- feedback: Incorrecto. Una recta vertical tiene $b=0$ y $a \neq 0$. -->
-- [ ] C) Una recta oblicua que pasa por el origen.
+- [ ] B) Una recta oblicua que pasa por el origen.
   <!-- feedback: Incorrecto. Requiere que tanto $a$ como $b$ sean no nulos. -->
 - [ ] D) Un punto aislado en el plano.
   <!-- feedback: Incorrecto. Representa un conjunto infinito de puntos con ordenada constante. -->
@@ -264,9 +264,9 @@ Cuando $a=0$, la ecuación es $y = -c/b$, lo que corresponde a una línea recta 
 ¿Cuál es el área del triángulo en el plano cartesiano?
 
 ### Opciones
-- [x] A) 12
+- [x] B) 12
   <!-- feedback: Correcto. Triángulo rectángulo con base 4 y altura 6: $\text{Área} = \frac{4 \times 6}{2} = 12$. -->
-- [ ] B) 24
+- [ ] A) 24
   <!-- feedback: Incorrecto. Se olvidó dividir entre 2 el producto de la base por la altura. -->
 - [ ] C) 10
   <!-- feedback: Incorrecto. Se sumaron las longitudes de las bases en lugar de multiplicar. -->
@@ -333,9 +333,9 @@ La pendiente es la tangente del ángulo de inclinación: $m = \tan(135^\circ) = 
 ¿Son colineales los puntos $A, B$ y $C$ y cuál es la razón?
 
 ### Opciones
-- [x] A) Sí, porque la pendiente entre $A$ y $B$ ($m_{AB}=2$) es igual a la pendiente entre $B$ y $C$ ($m_{BC}=2$).
+- [x] B) Sí, porque la pendiente entre $A$ y $B$ ($m_{AB}=2$) es igual a la pendiente entre $B$ y $C$ ($m_{BC}=2$).
   <!-- feedback: Correcto. $m_{AB} = \frac{5-1}{3-1} = 2$ y $m_{BC} = \frac{9-5}{5-3} = 2$. Al ser pendientes iguales y compartir el punto B, son colineales. -->
-- [ ] B) No, porque forman un triángulo de área 5.
+- [ ] A) No, porque forman un triángulo de área 5.
   <!-- feedback: Incorrecto. Al ser colineales, el área del triángulo determinado es 0. -->
 - [ ] C) Sí, pero sus pendientes son perpendiculares.
   <!-- feedback: Incorrecto. Las pendientes son idénticas, no perpendiculares. -->
@@ -356,13 +356,13 @@ Tres puntos son colineales si las pendientes de los segmentos formados son igual
 ¿Cuál es la ecuación de la mediatriz?
 
 ### Opciones
-- [x] A) $y = -2x + 5$
+- [x] D) $y = -2x + 5$
   <!-- feedback: Correcto. Punto medio $M(2,1)$. Pendiente del segmento $m = 1/2 \implies m_\perp = -2$. $y - 1 = -2(x - 2) \implies y = -2x + 5$. -->
-- [ ] B) $y = 2x - 3$
+- [ ] A) $y = 2x - 3$
   <!-- feedback: Incorrecto. No se invirtió el signo de la pendiente perpendicular. -->
-- [ ] C) $y = -2x + 1$
+- [ ] B) $y = -2x + 1$
   <!-- feedback: Incorrecto. Se olvidó sustituir el punto medio correctamente. -->
-- [ ] D) $y = -\frac{1}{2}x + 2$
+- [ ] C) $y = -\frac{1}{2}x + 2$
   <!-- feedback: Incorrecto. Se usó la misma pendiente del segmento. -->
 
 ### Explicacion Pedagogica
@@ -379,13 +379,13 @@ Punto medio $M(2,1)$. Pendiente $m_{AB} = \frac{2}{4} = \frac{1}{2}$. Pendiente 
 ¿Cuáles son las coordenadas del punto proyectado $Q$ en la recta?
 
 ### Opciones
-- [x] A) $(2, 1)$
+- [x] D) $(2, 1)$
   <!-- feedback: Correcto. La proyección sobre la recta horizontal $y=1$ conserva la coordenada $x=2$ y fija $y=1$. -->
-- [ ] B) $(0, 1)$
+- [ ] A) $(0, 1)$
   <!-- feedback: Incorrecto. Modificó la coordenada $x$ del punto. -->
-- [ ] C) $(2, 5)$
+- [ ] B) $(2, 5)$
   <!-- feedback: Incorrecto. Es el punto original fuera de la recta. -->
-- [ ] D) $(1, 2)$
+- [ ] C) $(1, 2)$
   <!-- feedback: Incorrecto. Se invirtieron las coordenadas. -->
 
 ### Explicacion Pedagogica
@@ -402,13 +402,13 @@ La proyección ortogonal sobre la recta horizontal $y=1$ baja perpendicularmente
 ¿Es verdadera esta afirmación sobre la distancia entre paralelas?
 
 ### Opciones
-- [x] A) Sí, porque $d = \frac{|C_1 - C_2|}{\sqrt{A^2 + B^2}} = \frac{|5 - (-15)|}{\sqrt{3^2 + (-4)^2}} = \frac{20}{5} = 4$.
+- [x] D) Sí, porque $d = \frac{|C_1 - C_2|}{\sqrt{A^2 + B^2}} = \frac{|5 - (-15)|}{\sqrt{3^2 + (-4)^2}} = \frac{20}{5} = 4$.
   <!-- feedback: Correcto. La fórmula entre paralelas entrega exactamente 4. -->
-- [ ] B) No, la distancia es 20 unidades.
+- [ ] A) No, la distancia es 20 unidades.
   <!-- feedback: Incorrecto. Se omitió dividir por $\sqrt{A^2+B^2}=5$. -->
-- [ ] C) No, la distancia es 2 unidades.
+- [ ] B) No, la distancia es 2 unidades.
   <!-- feedback: Incorrecto. Error al restar $5 - (-15)$. -->
-- [ ] D) Las rectas no son paralelas por lo que se cortan.
+- [ ] C) Las rectas no son paralelas por lo que se cortan.
   <!-- feedback: Incorrecto. Al tener coeficientes iguales en $x$ e $y$, son paralelas. -->
 
 ### Explicacion Pedagogica
@@ -448,11 +448,11 @@ Para este triángulo rectángulo isósceles, $r = a + b - c = 2 + 2 - 2\sqrt{2} 
 ¿Cuál es el ángulo agudo $\alpha$ formado entre ambas rectas?
 
 ### Opciones
-- [x] A) $15^\circ$
+- [x] C) $15^\circ$
   <!-- feedback: Correcto. Ánuglos de inclinación: $\theta_1 = 45^\circ$ y $\theta_2 = 60^\circ$. $\alpha = 60^\circ - 45^\circ = 15^\circ$. -->
-- [ ] B) $30^\circ$
+- [ ] A) $30^\circ$
   <!-- feedback: Incorrecto. Se restaron $60^\circ - 30^\circ$. -->
-- [ ] C) $45^\circ$
+- [ ] B) $45^\circ$
   <!-- feedback: Incorrecto. Es el ángulo de inclinación de la primera recta sola. -->
 - [ ] D) $105^\circ$
   <!-- feedback: Incorrecto. Se sumaron los ángulos en lugar de restarlos para hallar el ángulo comprendido. -->
@@ -471,13 +471,13 @@ $\theta_1 = \arctan(1) = 45^\circ$, $\theta_2 = \arctan(\sqrt{3}) = 60^\circ$. E
 ¿Cuáles son las coordenadas del punto simétrico $P'$?
 
 ### Opciones
-- [x] A) $(4, 3)$
+- [x] D) $(4, 3)$
   <!-- feedback: Correcto. La reflexión sobre la diagonal $y=x$ intercambia las coordenadas $(x, y) \to (y, x)$. -->
-- [ ] B) $(-3, -4)$
+- [ ] A) $(-3, -4)$
   <!-- feedback: Incorrecto. Corresponde a la simetría respecto al origen. -->
-- [ ] C) $(3, -4)$
+- [ ] B) $(3, -4)$
   <!-- feedback: Incorrecto. Corresponde a la simetría respecto al eje $x$. -->
-- [ ] D) $(-4, -3)$
+- [ ] C) $(-4, -3)$
   <!-- feedback: Incorrecto. Intercambió e invirtió signos innecesariamente. -->
 
 ### Explicacion Pedagogica

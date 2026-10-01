@@ -32,11 +32,11 @@ creador: "Jules-Agent"
 ### Opciones
 - [ ] A) Es una sustancia líquida que fluye por los cables eléctricos.
   <!-- feedback: No, la energía no es una sustancia material. -->
-- [x] B) Es la capacidad de los objetos o sistemas para realizar cambios o producir trabajo.
+- [x] D) Es la capacidad de los objetos o sistemas para realizar cambios o producir trabajo.
   <!-- feedback: ¡Correcto! La energía se manifiesta a través de los cambios que produce. -->
-- [ ] C) Es una fuerza invisible que solo los seres vivos poseen.
+- [ ] B) Es una fuerza invisible que solo los seres vivos poseen.
   <!-- feedback: Incorrecto. Los objetos inanimados también tienen y transforman energía. -->
-- [ ] D) Es un tipo de materia que no tiene peso.
+- [ ] C) Es un tipo de materia que no tiene peso.
   <!-- feedback: No, la energía no es materia; son conceptos diferentes. -->
 
 ### Explicación Pedagógica
@@ -57,11 +57,11 @@ La energía no se puede ver ni tocar directamente, pero se reconoce por sus efec
 ### Opciones
 - [ ] A) Energía cinética
   <!-- feedback: No, la energía cinética es la energía del movimiento. En el punto más alto, la velocidad es cero. -->
-- [x] B) Energía potencial gravitatoria
+- [x] D) Energía potencial gravitatoria
   <!-- feedback: ¡Correcto! Es la energía que posee un cuerpo debido a su posición en altura respecto al suelo. -->
-- [ ] C) Energía eléctrica
+- [ ] B) Energía eléctrica
   <!-- feedback: No, una pelota de fútbol no funciona con electricidad. -->
-- [ ] D) Energía nuclear
+- [ ] C) Energía nuclear
   <!-- feedback: Incorrecto. La energía nuclear está contenida en el núcleo de los átomos. -->
 
 ### Explicación Pedagógica
@@ -80,13 +80,13 @@ La energía mecánica total es la suma de la cinética (movimiento) y la potenci
 ¿Cuál es la transformación de energía que ocurre en este proceso?
 
 ### Opciones
-- [x] A) Energía cinética del viento en energía eléctrica.
+- [x] D) Energía cinética del viento en energía eléctrica.
   <!-- feedback: ¡Muy bien! El movimiento de las aspas acciona un generador eléctrico. -->
-- [ ] B) Energía solar en energía química.
+- [ ] A) Energía solar en energía química.
   <!-- feedback: No, esa es la transformación que ocurre en la fotosíntesis. -->
-- [ ] C) Energía eléctrica en energía sonora.
+- [ ] B) Energía eléctrica en energía sonora.
   <!-- feedback: Incorrecto. Eso ocurriría en un parlante o radio. -->
-- [ ] D) Energía potencial en energía calórica directamente.
+- [ ] C) Energía potencial en energía calórica directamente.
   <!-- feedback: No es el proceso principal de un aerogenerador. -->
 
 ### Explicación Pedagógica
@@ -107,11 +107,11 @@ Los aerogeneradores aprovechan la energía cinética (de movimiento) del viento.
 ### Opciones
 - [ ] A) Energía sonora
   <!-- feedback: No, el sol no transmite sonido a través del vacío del espacio. -->
-- [x] B) Energía lumínica (radiante)
+- [x] D) Energía lumínica (radiante)
   <!-- feedback: ¡Exacto! La luz transporta energía que puede concentrarse y transformarse en calor. -->
-- [ ] C) Energía mecánica
+- [ ] B) Energía mecánica
   <!-- feedback: Incorrecto. No hay movimiento físico de objetos involucrado en el rayo de luz. -->
-- [ ] D) Energía hidráulica
+- [ ] C) Energía hidráulica
   <!-- feedback: No, la energía hidráulica es la del agua en movimiento. -->
 
 ### Explicación Pedagógica
@@ -132,9 +132,9 @@ Si ambas lamparitas transforman energía eléctrica en luz, ¿por qué la LED es
 ### Opciones
 - [ ] A) Porque la LED fabrica su propia energía.
   <!-- feedback: Falso. Ningún dispositivo fabrica energía, solo la transforma. -->
-- [x] B) Porque transforma un mayor porcentaje de energía en luz y pierde menos en forma de calor.
+- [x] C) Porque transforma un mayor porcentaje de energía en luz y pierde menos en forma de calor.
   <!-- feedback: ¡Correcto! La eficiencia es la relación entre la energía útil y la energía total consumida. -->
-- [ ] C) Porque la LED no necesita electricidad para funcionar.
+- [ ] B) Porque la LED no necesita electricidad para funcionar.
   <!-- feedback: Incorrecto. Ambos tipos de lámparas necesitan suministro eléctrico. -->
 - [ ] D) Porque las antiguas lamparitas transformaban la luz en electricidad.
   <!-- feedback: No, era al revés: la electricidad se transformaba en luz y (mucha) energía térmica. -->
@@ -157,9 +157,9 @@ En toda transformación de energía hay una parte que no se aprovecha para el fi
 ### Opciones
 - [ ] A) Energía térmica -> Energía química
   <!-- feedback: No, es el proceso inverso al que ocurre en este caso. -->
-- [ ] B) Energía sonora -> Energía lumínica
+- [ ] C) Energía sonora -> Energía lumínica
   <!-- feedback: Incorrecto. No estás produciendo luz al frotar las manos. -->
-- [x] C) Energía química (alimentos) -> Energía cinética (movimiento) -> Energía térmica (calor)
+- [x] B) Energía química (alimentos) -> Energía cinética (movimiento) -> Energía térmica (calor)
   <!-- feedback: ¡Excelente! Usás la energía de los alimentos para mover los músculos y la fricción genera calor. -->
 - [ ] D) Energía potencial -> Energía nuclear
   <!-- feedback: No tiene relación con el frotamiento de las manos. -->
@@ -182,11 +182,11 @@ Tu cuerpo transforma la energía química de los alimentos en energía cinética
 ### Opciones
 - [ ] A) Convección
   <!-- feedback: No, la convección ocurre en líquidos y gases por el movimiento de masas calientes. -->
-- [x] B) Conducción
+- [x] D) Conducción
   <!-- feedback: ¡Correcto! Es la transferencia de calor por contacto directo en materiales sólidos. -->
-- [ ] C) Radiación
+- [ ] B) Radiación
   <!-- feedback: Incorrecto. La radiación no requiere un medio material (ej. el calor del sol). -->
-- [ ] D) Aislamiento
+- [ ] C) Aislamiento
   <!-- feedback: El aislamiento es lo opuesto; es impedir que el calor pase. -->
 
 ### Explicación Pedagógica
@@ -257,11 +257,11 @@ Las energías renovables son fundamentales para la sostenibilidad. A diferencia 
 ### Opciones
 - [ ] A) Que sean buenos conductores térmicos como el hierro.
   <!-- feedback: No, si conducen bien el calor, este se escaparía rápidamente hacia afuera. -->
-- [x] B) Que sean aislantes térmicos con baja conductividad, como el telgopor o la lana de vidrio.
+- [x] D) Que sean aislantes térmicos con baja conductividad, como el telgopor o la lana de vidrio.
   <!-- feedback: ¡Correcto! Estos materiales dificultan el paso del calor, manteniendo la casa caliente. -->
-- [ ] C) Que sean materiales muy brillantes que reflejen la luz solar.
+- [ ] B) Que sean materiales muy brillantes que reflejen la luz solar.
   <!-- feedback: Esto podría ayudar con la radiación, pero para las paredes el problema principal es la conducción. -->
-- [ ] D) Que sean materiales muy densos y pesados para que el viento no los mueva.
+- [ ] C) Que sean materiales muy densos y pesados para que el viento no los mueva.
   <!-- feedback: La densidad no garantiza necesariamente un buen aislamiento térmico. -->
 
 ### Explicación Pedagógica

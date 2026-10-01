@@ -57,9 +57,9 @@ El desarrollo $(a+b)^n = \sum_{k=0}^n \binom{n}{k} a^{n-k} b^k$ abarca los índi
 ¿Cuál es la suma de todos los coeficientes de esta fila del Triángulo de Pascal?
 
 ### Opciones
-- [x] A) 16
+- [x] B) 16
   <!-- feedback: La suma de los coeficientes binomiales de la n-ésima fila es 2^n. Para n = 4, 2^4 = 16. -->
-- [ ] B) 12
+- [ ] A) 12
   <!-- feedback: Sumó incorrectamente los términos centrales. -->
 - [ ] C) 8
   <!-- feedback: Calculó 2^3 en lugar de 2^4. -->
@@ -80,9 +80,9 @@ Evaluando $(1+1)^n = \sum_{k=0}^n \binom{n}{k}$, la suma de la fila $n$ del Tri�
 ¿Qué coeficiente binomial $\binom{n}{k}$ corresponde a este término en el desarrollo?
 
 ### Opciones
-- [x] A) $\binom{5}{2} = 10$
+- [x] B) $\binom{5}{2} = 10$
   <!-- feedback: El coeficiente del término x^(5-2) y^2 es C(5,2) = 10 (igual a C(5,3) por simetría). -->
-- [ ] B) $\binom{5}{1} = 5$
+- [ ] A) $\binom{5}{1} = 5$
   <!-- feedback: Corresponde al coeficiente de x^4 y^1. -->
 - [ ] C) $\binom{5}{0} = 1$
   <!-- feedback: Corresponde al primer término x^5. -->
@@ -103,13 +103,13 @@ En el Teorema del Binomio, el término general es $\binom{n}{k} x^{n-k} y^k$. Pa
 En un grupo de 13 personas en Medellín, ¿cuál es la conclusión garantizada por el principio de Palomar respecto a sus meses de nacimiento?
 
 ### Opciones
-- [x] A) Al menos dos personas nacieron en el mismo mes del año.
+- [x] D) Al menos dos personas nacieron en el mismo mes del año.
   <!-- feedback: Hay 13 personas (objetos) y 12 meses (recipientes). Como 13 > 12, obligatoriamente al menos 2 comparten mes de nacimiento. -->
-- [ ] B) Todas las personas nacieron en meses distintos.
+- [ ] A) Todas las personas nacieron en meses distintos.
   <!-- feedback: Contradice el principio de Palomar dado que hay solo 12 meses posibles. -->
-- [ ] C) Exactamente tres personas nacieron en el mes de enero.
+- [ ] B) Exactamente tres personas nacieron en el mes de enero.
   <!-- feedback: El principio garantiza al menos 2 en algún mes, no especifica qué mes ni que sean 3. -->
-- [ ] D) Ninguna persona nació en diciembre.
+- [ ] C) Ninguna persona nació en diciembre.
   <!-- feedback: El principio no excluye meses del año. -->
 
 ### Explicacion Pedagogica
@@ -127,9 +127,9 @@ ceil = 2$), se garantiza que al menos 2 personas cumplen con haber nacido en el 
 ¿Cuántos empleados practican AL MENOS uno de los dos deportes?
 
 ### Opciones
-- [x] A) 75
+- [x] B) 75
   <!-- feedback: Aplicando inclusión-exclusión: N(F U B) = N(F) + N(B) - N(F n B) = 50 + 40 - 15 = 75. -->
-- [ ] B) 90
+- [ ] A) 90
   <!-- feedback: Sumó las dos categorías sin restar los empleados que practican ambos deportes. -->
 - [ ] C) 65
   <!-- feedback: Restó dos veces el grupo de la intersección. -->
@@ -150,9 +150,9 @@ Por el principio de inclusión-exclusión para dos conjuntos: $|A cup B| = |A| +
 Considere las técnicas de combinación con repetición (barras y estrellas).
 
 ### Opciones
-- [x] A) 35
+- [x] B) 35
   <!-- feedback: Damos 1 dulce a cada uno de los 4 niños (se usan 4 dulces). Quedan 4 dulces idénticos para repartir libremente entre 4 niños: C(4+4-1, 4) = C(7,4) = 35. -->
-- [ ] B) 165
+- [ ] A) 165
   <!-- feedback: Calculó C(4+8-1, 8) = C(11,8) sin asegurar que cada niño recibiera al menos un dulce. -->
 - [ ] C) 70
   <!-- feedback: Calculó C(8,4) por error. -->
@@ -173,9 +173,9 @@ Al entregar primero 1 dulce a cada uno de los $k=4$ niños, restan $n' = 8 - 4 =
 ¿Cuántas claves contienen la letra 'A' al menos una vez?
 
 ### Opciones
-- [x] A) 2097
+- [x] B) 2097
   <!-- feedback: Total de claves posibles: 5^5 = 3125. Claves sin ninguna 'A' (usando B,C,D,E): 4^5 = 1024. Claves con al menos una 'A': 3125 - 1024 = 2097. -->
-- [ ] B) 1024
+- [ ] A) 1024
   <!-- feedback: Corresponde a las claves que NO contienen la letra 'A'. -->
 - [ ] C) 3125
   <!-- feedback: Corresponde al total de claves sin descontar la restricción. -->
@@ -196,11 +196,11 @@ Por el complemento: Total de claves con repetición $= 5^5 = 3125$. Claves forma
 Calcule el número total de arreglos posibles bajo esta restricción.
 
 ### Opciones
-- [x] A) 3600
+- [x] C) 3600
   <!-- feedback: Total sin restricción: 7! = 5040. Arreglos con Juan y María juntos: 6! * 2! = 720 * 2 = 1440. Arreglos no juntos: 5040 - 1440 = 3600. -->
-- [ ] B) 1440
+- [ ] A) 1440
   <!-- feedback: Corresponde al número de arreglos en que Juan y María SÍ están juntos. -->
-- [ ] C) 5040
+- [ ] B) 5040
   <!-- feedback: Es el total de permutaciones 7! sin aplicar ninguna restricción. -->
 - [ ] D) 2520
   <!-- feedback: Dividió 5040 entre 2 por error. -->
@@ -221,9 +221,9 @@ Permutaciones separadas $= 5040 - 1440 = 3600$.
 ¿Cuál es el término independiente (constante sin la variable $x$) de esta expansión?
 
 ### Opciones
-- [x] A) 1
+- [x] B) 1
   <!-- feedback: El término independiente es (-1)^4 = 1. -->
-- [ ] B) -1
+- [ ] A) -1
   <!-- feedback: Olvidó que la potencia par (-1)^4 resulta positiva. -->
 - [ ] C) 16
   <!-- feedback: Corresponde al coeficiente del primer término (2x)^4 = 16x^4. -->
@@ -267,13 +267,13 @@ Cualquier trayecto consta de $4+3=7$ pasos en total. La cantidad de ordenamiento
 ¿Cuál es el número total de estudiantes distintos que participan en la competencia?
 
 ### Opciones
-- [x] A) 185
+- [x] D) 185
   <!-- feedback: Por inclusión-exclusión de 3 conjuntos: |A U B U C| = (100+80+70) - (30+25+20) + 10 = 250 - 75 + 10 = 185. -->
-- [ ] B) 250
+- [ ] A) 250
   <!-- feedback: Sumó las listas simples sin descontar las intersecciones dobles y triples. -->
-- [ ] C) 175
+- [ ] B) 175
   <!-- feedback: Restó la triple intersección en lugar de sumarla al final. -->
-- [ ] D) 200
+- [ ] C) 200
   <!-- feedback: Calculó mal la suma de las intersecciones dobles. -->
 
 ### Explicacion Pedagogica
@@ -292,11 +292,11 @@ $= (100 + 80 + 70) - (30 + 25 + 20) + 10 = 250 - 75 + 10 = 185$.
 ¿Cuántos desarreglos $D_4$ existen para un grupo de 4 elementos ${1, 2, 3, 4}$?
 
 ### Opciones
-- [x] A) 9
+- [x] C) 9
   <!-- feedback: D4 = 4! * (1 - 1 + 1/2 - 1/6 + 1/24) = 24 * (12/24 - 4/24 + 1/24) = 24 * (9/24) = 9. -->
-- [ ] B) 24
+- [ ] A) 24
   <!-- feedback: Corresponde al total de permutaciones 4! sin restricción. -->
-- [ ] C) 12
+- [ ] B) 12
   <!-- feedback: Dividió 24 entre 2. -->
 - [ ] D) 6
   <!-- feedback: Confundió D4 con D3 = 2 o calculó 3!. -->
@@ -342,11 +342,11 @@ ight)^9$.
 ¿Cuál es el término independiente (el término que no contiene a la variable $x$)?
 
 ### Opciones
-- [x] A) 84
+- [x] C) 84
   <!-- feedback: Término general: C(9,k) * (x^2)^(9-k) * (x^(-1))^k = C(9,k) * x^(18 - 3k). Para término independiente: 18 - 3k = 0 -> k = 6. C(9,6) = C(9,3) = (9*8*7)/6 = 84. -->
-- [ ] B) 36
+- [ ] A) 36
   <!-- feedback: Corresponde a C(9,2). -->
-- [ ] C) 126
+- [ ] B) 126
   <!-- feedback: Corresponde a C(9,4). -->
 - [ ] D) 9
   <!-- feedback: Corresponde a C(9,1). -->
@@ -366,9 +366,9 @@ El coeficiente es $\binom{9}{6} = \binom{9}{3} = \frac{9   imes 8   imes 7}{3   
 ¿De cuántas maneras se puede realizar esta partición del conjunto (Número de Stirling de segunda especie $S(6,2)$)?
 
 ### Opciones
-- [x] A) 31
+- [x] B) 31
   <!-- feedback: S(6,2) = (2^5 - 1) = 32 - 1 = 31. O dividiendo (2^6 - 2)/2 = 62/2 = 31. -->
-- [ ] B) 64
+- [ ] A) 64
   <!-- feedback: Calculó 2^6 sin descontar los grupos vacíos ni la indistinguibilidad. -->
 - [ ] C) 32
   <!-- feedback: Olvidó restar el caso de grupo vacío antes de dividir entre 2. -->
@@ -412,13 +412,13 @@ $\binom{n}{2} = \frac{n(n-1)}{2} = 66 Rightarrow n(n-1) = 132$. Resolviendo la e
 ¿Cuántas soluciones enteras positivas existen para esta ecuación?
 
 ### Opciones
-- [x] A) 165
+- [x] D) 165
   <!-- feedback: Hacemos y_i = x_i - 1 >= 0. La ecuación queda y_1 + y_2 + y_3 + y_4 = 12 - 4 = 8. C(8 + 4 - 1, 8) = C(11, 8) = C(11, 3) = (11 * 10 * 9) / 6 = 165. -->
-- [ ] B) 455
+- [ ] A) 455
   <!-- feedback: Calculó C(12+4-1, 12) = C(15,3) para enteros no negativos sin exigir x_i >= 1. -->
-- [ ] C) 220
+- [ ] B) 220
   <!-- feedback: Calculó C(12, 3) por error. -->
-- [ ] D) 84
+- [ ] C) 84
   <!-- feedback: Calculó C(9, 3) por error. -->
 
 ### Explicacion Pedagogica
@@ -435,9 +435,9 @@ Para soluciones en enteros estrictamente positivos, asignamos 1 a cada una de la
 ¿De cuántas maneras se pueden seleccionar 4 cartas de modo que NO HAYA NINGUNA PAREJA completa en la selección?
 
 ### Opciones
-- [x] A) 16
+- [x] B) 16
   <!-- feedback: Para evitar parejas completas, debemos elegir exactamente 1 carta de cada una de las 4 parejas distintas. Como cada pareja tiene 2 cartas, hay 2^4 = 16 formas. -->
-- [ ] B) 70
+- [ ] A) 70
   <!-- feedback: Corresponde a C(8,4) total sin restricciones. -->
 - [ ] C) 48
   <!-- feedback: Calculó C(4,1) * C(4,3) * 2 por error. -->
@@ -458,13 +458,13 @@ Para no tener parejas completas al elegir 4 cartas de 4 parejas, debemos selecci
 Para $n = 3$, verifique la suma de los cuadrados de la fila 3 del Triángulo de Pascal e identifique el valor equivalente $\binom{6}{3}$.
 
 ### Opciones
-- [x] A) $1^2 + 3^2 + 3^2 + 1^2 = 20$, que es igual a $\binom{6}{3} = 20$.
+- [x] D) $1^2 + 3^2 + 3^2 + 1^2 = 20$, que es igual a $\binom{6}{3} = 20$.
   <!-- feedback: 1 + 9 + 9 + 1 = 20. C(6,3) = (6 * 5 * 4) / 6 = 20. La identidad combinatoria de Vandermonde se cumple perfectamente. -->
-- [ ] B) $1^2 + 3^2 + 3^2 + 1^2 = 18$, diferente de $\binom{6}{3} = 20$.
+- [ ] A) $1^2 + 3^2 + 3^2 + 1^2 = 18$, diferente de $\binom{6}{3} = 20$.
   <!-- feedback: Erró en la suma de 1 + 9 + 9 + 1. -->
-- [ ] C) $1 + 3 + 3 + 1 = 8$, que es igual a $2^3$.
+- [ ] B) $1 + 3 + 3 + 1 = 8$, que es igual a $2^3$.
   <!-- feedback: Sumó los coeficientes simples sin elevarlos al cuadrado. -->
-- [ ] D) $1^2 + 3^2 + 3^2 + 1^2 = 36$, que es igual a $6^2$.
+- [ ] C) $1^2 + 3^2 + 3^2 + 1^2 = 36$, que es igual a $6^2$.
   <!-- feedback: Erró gravemente en la elevación de los términos. -->
 
 ### Explicacion Pedagogica

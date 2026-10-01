@@ -32,11 +32,11 @@ Este bundle contiene 20 preguntas sobre **logaritmos** para grado 11, alineadas 
 ### Enunciado
 ¿Cuál es el valor real de $x$ que satisface la ecuación logarítmica $\log_{3}(x - 1) = 3$?
 ### Opciones
-- [x] A) 28
+- [x] C) 28
   <!-- feedback: Correcto. Por definición de logaritmo, $x - 1 = 3^{3} = 27$, por lo que $x = 27 + 1 = 28$. -->
-- [ ] B) 33
+- [ ] A) 33
   <!-- feedback: Incorrecto. Se sumó un valor incorrecto al despejar la variable. -->
-- [ ] C) 25
+- [ ] B) 25
   <!-- feedback: Incorrecto. Se restó en lugar de sumar el término constante 1. -->
 - [ ] D) 55
   <!-- feedback: Incorrecto. Se multiplicó erróneamente el valor de la potencia por 2. -->
@@ -52,9 +52,9 @@ Por la definición de logaritmo $\log_b(A) = c \iff A = b^c$, la ecuación $\log
 ### Enunciado
 ¿Cuál es el valor real de $x$ que satisface la ecuación logarítmica $\log_{2}(x - 2) = 4$?
 ### Opciones
-- [x] A) 18
+- [x] B) 18
   <!-- feedback: Correcto. Por definición de logaritmo, $x - 2 = 2^{4} = 16$, por lo que $x = 16 + 2 = 18$. -->
-- [ ] B) 23
+- [ ] A) 23
   <!-- feedback: Incorrecto. Se sumó un valor incorrecto al despejar la variable. -->
 - [ ] C) 15
   <!-- feedback: Incorrecto. Se restó en lugar de sumar el término constante 2. -->
@@ -72,11 +72,11 @@ Por la definición de logaritmo $\log_b(A) = c \iff A = b^c$, la ecuación $\log
 ### Enunciado
 ¿Cuál es el valor real de $x$ que satisface la ecuación logarítmica $\log_{3}(x - 3) = 5$?
 ### Opciones
-- [x] A) 246
+- [x] C) 246
   <!-- feedback: Correcto. Por definición de logaritmo, $x - 3 = 3^{5} = 243$, por lo que $x = 243 + 3 = 246$. -->
-- [ ] B) 251
+- [ ] A) 251
   <!-- feedback: Incorrecto. Se sumó un valor incorrecto al despejar la variable. -->
-- [ ] C) 243
+- [ ] B) 243
   <!-- feedback: Incorrecto. Se restó en lugar de sumar el término constante 3. -->
 - [ ] D) 489
   <!-- feedback: Incorrecto. Se multiplicó erróneamente el valor de la potencia por 2. -->
@@ -92,11 +92,11 @@ Por la definición de logaritmo $\log_b(A) = c \iff A = b^c$, la ecuación $\log
 ### Enunciado
 ¿Cuál es el valor real de $x$ que satisface la ecuación logarítmica $\log_{2}(x - 4) = 2$?
 ### Opciones
-- [x] A) 8
+- [x] C) 8
   <!-- feedback: Correcto. Por definición de logaritmo, $x - 4 = 2^{2} = 4$, por lo que $x = 4 + 4 = 8$. -->
-- [ ] B) 13
+- [ ] A) 13
   <!-- feedback: Incorrecto. Se sumó un valor incorrecto al despejar la variable. -->
-- [ ] C) 5
+- [ ] B) 5
   <!-- feedback: Incorrecto. Se restó en lugar de sumar el término constante 4. -->
 - [ ] D) 12
   <!-- feedback: Incorrecto. Se multiplicó erróneamente el valor de la potencia por 2. -->
@@ -112,9 +112,9 @@ Por la definición de logaritmo $\log_b(A) = c \iff A = b^c$, la ecuación $\log
 ### Enunciado
 ¿Cuál es el valor real de $x$ que satisface la ecuación logarítmica $\log_{3}(x - 5) = 3$?
 ### Opciones
-- [x] A) 32
+- [x] B) 32
   <!-- feedback: Correcto. Por definición de logaritmo, $x - 5 = 3^{3} = 27$, por lo que $x = 27 + 5 = 32$. -->
-- [ ] B) 37
+- [ ] A) 37
   <!-- feedback: Incorrecto. Se sumó un valor incorrecto al despejar la variable. -->
 - [ ] C) 29
   <!-- feedback: Incorrecto. Se restó en lugar de sumar el término constante 5. -->
@@ -152,9 +152,9 @@ Por la definición de logaritmo $\log_b(A) = c \iff A = b^c$, la ecuación $\log
 ### Enunciado
 ¿Cuál es el valor real de $x$ que satisface la ecuación logarítmica $\log_{3}(x - 7) = 5$?
 ### Opciones
-- [x] A) 250
+- [x] B) 250
   <!-- feedback: Correcto. Por definición de logaritmo, $x - 7 = 3^{5} = 243$, por lo que $x = 243 + 7 = 250$. -->
-- [ ] B) 255
+- [ ] A) 255
   <!-- feedback: Incorrecto. Se sumó un valor incorrecto al despejar la variable. -->
 - [ ] C) 247
   <!-- feedback: Incorrecto. Se restó en lugar de sumar el término constante 7. -->
@@ -172,9 +172,9 @@ Por la definición de logaritmo $\log_b(A) = c \iff A = b^c$, la ecuación $\log
 ### Enunciado
 ¿Cuál es el valor real de $x$ que satisface la ecuación logarítmica $\log_{2}(x - 8) = 2$?
 ### Opciones
-- [x] A) 12
+- [x] B) 12
   <!-- feedback: Correcto. Por definición de logaritmo, $x - 8 = 2^{2} = 4$, por lo que $x = 4 + 8 = 12$. -->
-- [ ] B) 17
+- [ ] A) 17
   <!-- feedback: Incorrecto. Se sumó un valor incorrecto al despejar la variable. -->
 - [ ] C) 9
   <!-- feedback: Incorrecto. Se restó en lugar de sumar el término constante 8. -->
@@ -232,13 +232,13 @@ Por la definición de logaritmo $\log_b(A) = c \iff A = b^c$, la ecuación $\log
 ### Enunciado
 ¿Cuál es el valor real de $x$ que satisface la ecuación logarítmica $\log_{3}(x - 11) = 5$?
 ### Opciones
-- [x] A) 254
+- [x] D) 254
   <!-- feedback: Correcto. Por definición de logaritmo, $x - 11 = 3^{5} = 243$, por lo que $x = 243 + 11 = 254$. -->
-- [ ] B) 259
+- [ ] A) 259
   <!-- feedback: Incorrecto. Se sumó un valor incorrecto al despejar la variable. -->
-- [ ] C) 251
+- [ ] B) 251
   <!-- feedback: Incorrecto. Se restó en lugar de sumar el término constante 11. -->
-- [ ] D) 497
+- [ ] C) 497
   <!-- feedback: Incorrecto. Se multiplicó erróneamente el valor de la potencia por 2. -->
 ### Explicacion Pedagogica
 Por la definición de logaritmo $\log_b(A) = c \iff A = b^c$, la ecuación $\log_{3}(x - 11) = 5$ equivale a $x - 11 = 3^{5} = 243$. Sumando 11 a ambos lados, obtenemos $x = 243 + 11 = 254$.
@@ -252,9 +252,9 @@ Por la definición de logaritmo $\log_b(A) = c \iff A = b^c$, la ecuación $\log
 ### Enunciado
 ¿Cuál es el valor real de $x$ que satisface la ecuación logarítmica $\log_{2}(x - 12) = 2$?
 ### Opciones
-- [x] A) 16
+- [x] B) 16
   <!-- feedback: Correcto. Por definición de logaritmo, $x - 12 = 2^{2} = 4$, por lo que $x = 4 + 12 = 16$. -->
-- [ ] B) 21
+- [ ] A) 21
   <!-- feedback: Incorrecto. Se sumó un valor incorrecto al despejar la variable. -->
 - [ ] C) 13
   <!-- feedback: Incorrecto. Se restó en lugar de sumar el término constante 12. -->
@@ -272,9 +272,9 @@ Por la definición de logaritmo $\log_b(A) = c \iff A = b^c$, la ecuación $\log
 ### Enunciado
 ¿Cuál es el valor real de $x$ que satisface la ecuación logarítmica $\log_{3}(x - 13) = 3$?
 ### Opciones
-- [x] A) 40
+- [x] B) 40
   <!-- feedback: Correcto. Por definición de logaritmo, $x - 13 = 3^{3} = 27$, por lo que $x = 27 + 13 = 40$. -->
-- [ ] B) 45
+- [ ] A) 45
   <!-- feedback: Incorrecto. Se sumó un valor incorrecto al despejar la variable. -->
 - [ ] C) 37
   <!-- feedback: Incorrecto. Se restó en lugar de sumar el término constante 13. -->
@@ -292,13 +292,13 @@ Por la definición de logaritmo $\log_b(A) = c \iff A = b^c$, la ecuación $\log
 ### Enunciado
 ¿Cuál es el valor real de $x$ que satisface la ecuación logarítmica $\log_{2}(x - 14) = 4$?
 ### Opciones
-- [x] A) 30
+- [x] D) 30
   <!-- feedback: Correcto. Por definición de logaritmo, $x - 14 = 2^{4} = 16$, por lo que $x = 16 + 14 = 30$. -->
-- [ ] B) 35
+- [ ] A) 35
   <!-- feedback: Incorrecto. Se sumó un valor incorrecto al despejar la variable. -->
-- [ ] C) 27
+- [ ] B) 27
   <!-- feedback: Incorrecto. Se restó en lugar de sumar el término constante 14. -->
-- [ ] D) 46
+- [ ] C) 46
   <!-- feedback: Incorrecto. Se multiplicó erróneamente el valor de la potencia por 2. -->
 ### Explicacion Pedagogica
 Por la definición de logaritmo $\log_b(A) = c \iff A = b^c$, la ecuación $\log_{2}(x - 14) = 4$ equivale a $x - 14 = 2^{4} = 16$. Sumando 14 a ambos lados, obtenemos $x = 16 + 14 = 30$.
@@ -312,11 +312,11 @@ Por la definición de logaritmo $\log_b(A) = c \iff A = b^c$, la ecuación $\log
 ### Enunciado
 ¿Cuál es el valor real de $x$ que satisface la ecuación logarítmica $\log_{3}(x - 15) = 5$?
 ### Opciones
-- [x] A) 258
+- [x] C) 258
   <!-- feedback: Correcto. Por definición de logaritmo, $x - 15 = 3^{5} = 243$, por lo que $x = 243 + 15 = 258$. -->
-- [ ] B) 263
+- [ ] A) 263
   <!-- feedback: Incorrecto. Se sumó un valor incorrecto al despejar la variable. -->
-- [ ] C) 255
+- [ ] B) 255
   <!-- feedback: Incorrecto. Se restó en lugar de sumar el término constante 15. -->
 - [ ] D) 501
   <!-- feedback: Incorrecto. Se multiplicó erróneamente el valor de la potencia por 2. -->
@@ -332,11 +332,11 @@ Por la definición de logaritmo $\log_b(A) = c \iff A = b^c$, la ecuación $\log
 ### Enunciado
 ¿Cuál es el valor real de $x$ que satisface la ecuación logarítmica $\log_{2}(x - 16) = 2$?
 ### Opciones
-- [x] A) 20
+- [x] C) 20
   <!-- feedback: Correcto. Por definición de logaritmo, $x - 16 = 2^{2} = 4$, por lo que $x = 4 + 16 = 20$. -->
-- [ ] B) 25
+- [ ] A) 25
   <!-- feedback: Incorrecto. Se sumó un valor incorrecto al despejar la variable. -->
-- [ ] C) 17
+- [ ] B) 17
   <!-- feedback: Incorrecto. Se restó en lugar de sumar el término constante 16. -->
 - [ ] D) 24
   <!-- feedback: Incorrecto. Se multiplicó erróneamente el valor de la potencia por 2. -->
@@ -352,11 +352,11 @@ Por la definición de logaritmo $\log_b(A) = c \iff A = b^c$, la ecuación $\log
 ### Enunciado
 ¿Cuál es el valor real de $x$ que satisface la ecuación logarítmica $\log_{3}(x - 17) = 3$?
 ### Opciones
-- [x] A) 44
+- [x] C) 44
   <!-- feedback: Correcto. Por definición de logaritmo, $x - 17 = 3^{3} = 27$, por lo que $x = 27 + 17 = 44$. -->
-- [ ] B) 49
+- [ ] A) 49
   <!-- feedback: Incorrecto. Se sumó un valor incorrecto al despejar la variable. -->
-- [ ] C) 41
+- [ ] B) 41
   <!-- feedback: Incorrecto. Se restó en lugar de sumar el término constante 17. -->
 - [ ] D) 71
   <!-- feedback: Incorrecto. Se multiplicó erróneamente el valor de la potencia por 2. -->
@@ -372,9 +372,9 @@ Por la definición de logaritmo $\log_b(A) = c \iff A = b^c$, la ecuación $\log
 ### Enunciado
 ¿Cuál es el valor real de $x$ que satisface la ecuación logarítmica $\log_{2}(x - 18) = 4$?
 ### Opciones
-- [x] A) 34
+- [x] B) 34
   <!-- feedback: Correcto. Por definición de logaritmo, $x - 18 = 2^{4} = 16$, por lo que $x = 16 + 18 = 34$. -->
-- [ ] B) 39
+- [ ] A) 39
   <!-- feedback: Incorrecto. Se sumó un valor incorrecto al despejar la variable. -->
 - [ ] C) 31
   <!-- feedback: Incorrecto. Se restó en lugar de sumar el término constante 18. -->
@@ -392,9 +392,9 @@ Por la definición de logaritmo $\log_b(A) = c \iff A = b^c$, la ecuación $\log
 ### Enunciado
 ¿Cuál es el valor real de $x$ que satisface la ecuación logarítmica $\log_{3}(x - 19) = 5$?
 ### Opciones
-- [x] A) 262
+- [x] B) 262
   <!-- feedback: Correcto. Por definición de logaritmo, $x - 19 = 3^{5} = 243$, por lo que $x = 243 + 19 = 262$. -->
-- [ ] B) 267
+- [ ] A) 267
   <!-- feedback: Incorrecto. Se sumó un valor incorrecto al despejar la variable. -->
 - [ ] C) 259
   <!-- feedback: Incorrecto. Se restó en lugar de sumar el término constante 19. -->
@@ -412,11 +412,11 @@ Por la definición de logaritmo $\log_b(A) = c \iff A = b^c$, la ecuación $\log
 ### Enunciado
 ¿Cuál es el valor real de $x$ que satisface la ecuación logarítmica $\log_{2}(x - 20) = 2$?
 ### Opciones
-- [x] A) 24
+- [x] C) 24
   <!-- feedback: Correcto. Por definición de logaritmo, $x - 20 = 2^{2} = 4$, por lo que $x = 4 + 20 = 24$. -->
-- [ ] B) 29
+- [ ] A) 29
   <!-- feedback: Incorrecto. Se sumó un valor incorrecto al despejar la variable. -->
-- [ ] C) 21
+- [ ] B) 21
   <!-- feedback: Incorrecto. Se restó en lugar de sumar el término constante 20. -->
 - [ ] D) 28
   <!-- feedback: Incorrecto. Se multiplicó erróneamente el valor de la potencia por 2. -->

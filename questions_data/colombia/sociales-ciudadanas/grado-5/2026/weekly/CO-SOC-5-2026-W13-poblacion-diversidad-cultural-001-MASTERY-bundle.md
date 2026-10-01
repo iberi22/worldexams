@@ -34,9 +34,9 @@ La población colombiana y su diversidad cultural: comunidades afrocolombianas, 
 ¿Qué significa que Colombia sea un país pluricultural y multiétnico?
 
 ### Opciones
-- [x] A) Que en su territorio conviven comunidades con culturas, lenguas y tradiciones diversas.
+- [x] B) Que en su territorio conviven comunidades con culturas, lenguas y tradiciones diversas.
   <!-- feedback: La pluralidad se expresa en la convivencia de pueblos y culturas diferentes en el país. -->
-- [ ] B) Que todos sus habitantes tienen exactamente las mismas costumbres.
+- [ ] A) Que todos sus habitantes tienen exactamente las mismas costumbres.
   <!-- feedback: Precisamente la riqueza del país está en la variedad de sus culturas. -->
 - [ ] C) Que existe una sola etnia en todo el territorio nacional.
   <!-- feedback: El reconocimiento constitucional abarca a varias etnias y culturas. -->
@@ -57,11 +57,11 @@ Reconocimiento del carácter pluricultural y multiétnico de la nación colombia
 ¿Qué aporta a Colombia la comunidad afrocolombiana según el texto?
 
 ### Opciones
-- [x] A) Una herencia cultural con lengua, música, gastronomía y tradiciones propias.
+- [x] C) Una herencia cultural con lengua, música, gastronomía y tradiciones propias.
   <!-- feedback: Los aportes afrocolombianos enriquecen la identidad cultural del país. -->
-- [ ] B) Una sola fiesta nacional sin diferencias regionales.
+- [ ] A) Una sola fiesta nacional sin diferencias regionales.
   <!-- feedback: La comunidad preserva múltiples expresiones culturales, no una única celebración. -->
-- [ ] C) La desaparición de las lenguas indígenas del país.
+- [ ] B) La desaparición de las lenguas indígenas del país.
   <!-- feedback: Las comunidades afro e indígenas coexisten y conservan sus propias tradiciones. -->
 - [ ] D) Un sistema de gobierno distinto al del resto de Colombia.
   <!-- feedback: Las comunidades afrocolombianas forman parte de la nación y su institucionalidad. -->
@@ -103,11 +103,11 @@ Aplicación de la lectura de mapas para reconocer la distribución de los pueblo
 ¿Cuál es un aporte de las comunidades campesinas a la diversidad cultural del país?
 
 ### Opciones
-- [x] A) La conservación de saberes agrícolas, recetas y tradiciones del campo.
+- [x] C) La conservación de saberes agrícolas, recetas y tradiciones del campo.
   <!-- feedback: Los campesinos transmiten conocimientos sobre cultivos, alimentos y vida rural. -->
-- [ ] B) La construcción de grandes ciudades sin zonas rurales.
+- [ ] A) La construcción de grandes ciudades sin zonas rurales.
   <!-- feedback: Las comunidades campesinas habitan y cuidan el campo, no lo eliminan. -->
-- [ ] C) La eliminación de los cultivos de las regiones.
+- [ ] B) La eliminación de los cultivos de las regiones.
   <!-- feedback: Su labor principal es producir alimentos y mantener los cultivos. -->
 - [ ] D) La prohibición de las fiestas municipales.
   <!-- feedback: Las comunidades campesinas participan activamente en las fiestas y tradiciones locales. -->
@@ -126,9 +126,9 @@ Identificación de los aportes de las comunidades campesinas a la cultura y la e
 ¿Qué evidencia la presentación de estos bailes en la escuela?
 
 ### Opciones
-- [x] A) La diversidad de expresiones culturales y musicales de las regiones de Colombia.
+- [x] B) La diversidad de expresiones culturales y musicales de las regiones de Colombia.
   <!-- feedback: Los distintos bailes representan tradiciones de diferentes regiones del país. -->
-- [ ] B) Que solo existe un baile en todo el territorio nacional.
+- [ ] A) Que solo existe un baile en todo el territorio nacional.
   <!-- feedback: La variedad de danzas presentadas demuestra justamente lo contrario. -->
 - [ ] C) Que las tradiciones se pierden y nadie las practica.
   <!-- feedback: La presentación escolar muestra que las tradiciones siguen vivas. -->
@@ -149,13 +149,13 @@ Valoración de la diversidad de expresiones culturales regionales como parte de 
 ¿Qué principio constitucional respalda esta afirmación?
 
 ### Opciones
-- [x] A) La igualdad y el respeto por la diversidad étnica y cultural de la nación.
+- [x] D) La igualdad y el respeto por la diversidad étnica y cultural de la nación.
   <!-- feedback: La Constitución garantiza la igualdad y la protección de la diversidad cultural. -->
-- [ ] B) La superioridad de una cultura sobre todas las demás.
+- [ ] A) La superioridad de una cultura sobre todas las demás.
   <!-- feedback: La Constitución rechaza cualquier forma de discriminación o supremacía cultural. -->
-- [ ] C) La prohibición de las lenguas propias de cada comunidad.
+- [ ] B) La prohibición de las lenguas propias de cada comunidad.
   <!-- feedback: El Estado protege las lenguas y tradiciones de los grupos étnicos. -->
-- [ ] D) La obligación de que todos abandonen sus tradiciones.
+- [ ] C) La obligación de que todos abandonen sus tradiciones.
   <!-- feedback: La diversidad cultural se respeta y se promueve, no se elimina. -->
 
 ### Explicacion Pedagogica
@@ -195,11 +195,11 @@ Análisis de los procesos históricos y sociales que dieron origen a la diversid
 ¿Cuál de las siguientes afirmaciones evalúa mejor estas propuestas?
 
 ### Opciones
-- [x] A) Son valiosas porque promueven el respeto, el reconocimiento y la convivencia entre culturas.
+- [x] C) Son valiosas porque promueven el respeto, el reconocimiento y la convivencia entre culturas.
   <!-- feedback: Reconocer y valorar la diversidad fortalece la convivencia y la identidad colectiva. -->
-- [ ] B) Son innecesarias porque todas las culturas ya son iguales en la práctica.
+- [ ] A) Son innecesarias porque todas las culturas ya son iguales en la práctica.
   <!-- feedback: Persisten situaciones de discriminación que estas acciones buscan superar. -->
-- [ ] C) Son dañinas porque obligan a olvidar las tradiciones propias.
+- [ ] B) Son dañinas porque obligan a olvidar las tradiciones propias.
   <!-- feedback: Las propuestas buscan sumar y reconocer culturas, sin eliminar ninguna. -->
 - [ ] D) Sirven solo para las ciudades grandes y no para el resto del país.
   <!-- feedback: El respeto por la diversidad es importante en todos los territorios del país. -->

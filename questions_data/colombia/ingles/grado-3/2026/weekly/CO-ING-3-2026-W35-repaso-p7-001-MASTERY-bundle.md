@@ -33,11 +33,11 @@ creador: "Jules-Agent"
 What is the English word for: "A place where you live or stay on holiday."
 
 ### Opciones
-- [x] A) accommodation
+- [x] C) accommodation
   <!-- feedback: Correct! 'accommodation' matches the definition. -->
-- [ ] B) transportation
+- [ ] A) transportation
   <!-- feedback: Incorrect. Try again. -->
-- [ ] C) entertainment
+- [ ] B) entertainment
   <!-- feedback: Incorrect. Try again. -->
 - [ ] D) currency
   <!-- feedback: Incorrect. Try again. -->
@@ -79,11 +79,11 @@ The word 'itinerary' is used to describe a detailed plan or route of a journey. 
 What is the English word for: "The place to which someone or something is going or being sent."
 
 ### Opciones
-- [x] A) destination
+- [x] C) destination
   <!-- feedback: Correct! 'destination' matches the definition. -->
-- [ ] B) departure
+- [ ] A) departure
   <!-- feedback: Incorrect. Try again. -->
-- [ ] C) arrival
+- [ ] B) arrival
   <!-- feedback: Incorrect. Try again. -->
 - [ ] D) journey
   <!-- feedback: Incorrect. Try again. -->
@@ -148,11 +148,11 @@ The word 'passenger' is used to describe a traveler on a public or private conve
 What is the English word for: "The place at a port, airport, or frontier where officials check incoming goods, travelers, or luggage."
 
 ### Opciones
-- [x] A) customs
+- [x] C) customs
   <!-- feedback: Correct! 'customs' matches the definition. -->
-- [ ] B) security
+- [ ] A) security
   <!-- feedback: Incorrect. Try again. -->
-- [ ] C) terminal
+- [ ] B) terminal
   <!-- feedback: Incorrect. Try again. -->
 - [ ] D) gate
   <!-- feedback: Incorrect. Try again. -->
@@ -194,13 +194,13 @@ The word 'boarding pass' is used to describe a document provided by an airline d
 What is the English word for: "The activity of visiting places of interest in a particular location."
 
 ### Opciones
-- [x] A) sightseeing
+- [x] D) sightseeing
   <!-- feedback: Correct! 'sightseeing' matches the definition. -->
-- [ ] B) shopping
+- [ ] A) shopping
   <!-- feedback: Incorrect. Try again. -->
-- [ ] C) hiking
+- [ ] B) hiking
   <!-- feedback: Incorrect. Try again. -->
-- [ ] D) camping
+- [ ] C) camping
   <!-- feedback: Incorrect. Try again. -->
 
 ### Explicacion Pedagogica

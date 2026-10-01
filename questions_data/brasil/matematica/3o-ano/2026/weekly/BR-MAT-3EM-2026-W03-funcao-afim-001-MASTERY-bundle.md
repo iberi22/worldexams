@@ -50,8 +50,8 @@ Na função afim $f(x) = ax + b$, o coeficiente $b$ representa o ponto onde a re
 
 ### Opciones
 - [ ] A) Eixo das abscissas ($x$) <!-- feedback: O ponto onde a reta corta o eixo x é a raiz da função, dada por -b/a. -->
-- [x] B) Eixo das ordenadas ($y$) <!-- feedback: Correto. Quando x = 0, f(0) = b, logo o par ordenado é (0, b). -->
-- [ ] C) A bissetriz dos quadrantes ímpares <!-- feedback: O coeficiente b não determina a bissetriz, mas sim o deslocamento vertical da reta. -->
+- [x] C) Eixo das ordenadas ($y$) <!-- feedback: Correto. Quando x = 0, f(0) = b, logo o par ordenado é (0, b). -->
+- [ ] B) A bissetriz dos quadrantes ímpares <!-- feedback: O coeficiente b não determina a bissetriz, mas sim o deslocamento vertical da reta. -->
 - [ ] D) A origem $(0,0)$ <!-- feedback: A reta só passa pela origem se b for igual a zero. -->
 
 ### Explicacion Pedagogica
@@ -68,8 +68,8 @@ O coeficiente linear $b$ indica o valor da função quando $x=0$. Geometricament
 Dada a função $f(x) = -2x + 10$, qual é a raiz (ou zero) desta função?
 
 ### Opciones
-- [ ] A) $x = 10$ <!-- feedback: f(10) = -2(10) + 10 = -10. Não é a raiz. -->
-- [x] B) $x = 5$ <!-- feedback: f(5) = -2(5) + 10 = -10 + 10 = 0. Correto. -->
+- [ ] B) $x = 10$ <!-- feedback: f(10) = -2(10) + 10 = -10. Não é a raiz. -->
+- [x] A) $x = 5$ <!-- feedback: f(5) = -2(5) + 10 = -10 + 10 = 0. Correto. -->
 - [ ] C) $x = -5$ <!-- feedback: f(-5) = -2(-5) + 10 = 10 + 10 = 20. Não é a raiz. -->
 - [ ] D) $x = 2$ <!-- feedback: f(2) = -2(2) + 10 = 6. Não é a raiz. -->
 
@@ -87,8 +87,8 @@ A raiz de uma função é o valor de $x$ que faz $f(x) = 0$. Resolvendo $-2x + 1
 Sobre a função $f(x) = 3x - 4$, é correto afirmar que ela é:
 
 ### Opciones
-- [x] A) Crescente <!-- feedback: O coeficiente angular a = 3 é positivo, o que indica que a função é crescente. -->
-- [ ] B) Decrescente <!-- feedback: Para ser decrescente, o coeficiente angular 'a' deveria ser negativo. -->
+- [x] B) Crescente <!-- feedback: O coeficiente angular a = 3 é positivo, o que indica que a função é crescente. -->
+- [ ] A) Decrescente <!-- feedback: Para ser decrescente, o coeficiente angular 'a' deveria ser negativo. -->
 - [ ] C) Constante <!-- feedback: Uma função constante tem a = 0, o que não é o caso. -->
 - [ ] D) Uma parábola <!-- feedback: Funções afins têm como gráfico uma reta, não uma parábola. -->
 
@@ -107,8 +107,8 @@ Uma reta passa pelos pontos $A(1, 5)$ e $B(3, 9)$. Qual é o coeficiente angular
 
 ### Opciones
 - [ ] A) 4 <!-- feedback: 4 é a diferença entre as ordenadas (9-5), mas deve ser dividida pela diferença das abscissas. -->
-- [x] B) 2 <!-- feedback: m = (y2 - y1) / (x2 - x1) = (9 - 5) / (3 - 1) = 4 / 2 = 2. -->
-- [ ] C) 1 <!-- feedback: Valor incorreto para a taxa de variação. -->
+- [x] C) 2 <!-- feedback: m = (y2 - y1) / (x2 - x1) = (9 - 5) / (3 - 1) = 4 / 2 = 2. -->
+- [ ] B) 1 <!-- feedback: Valor incorreto para a taxa de variação. -->
 - [ ] D) -2 <!-- feedback: O coeficiente é positivo, pois os valores de y aumentam conforme x aumenta. -->
 
 ### Explicacion Pedagogica
@@ -127,8 +127,8 @@ O custo mensal $C$ de um plano de celular é dado por $C(x) = 35 + 0,50x$, onde 
 ### Opciones
 - [ ] A) R\$ 50,00 <!-- feedback: Este é apenas o custo dos minutos (0,50 * 100), esquecendo a taxa fixa de 35. -->
 - [ ] B) R\$ 35,50 <!-- feedback: Erro no cálculo do valor variável. -->
-- [x] C) R\$ 85,00 <!-- feedback: C(100) = 35 + 0,50(100) = 35 + 50 = 85. -->
-- [ ] D) R\$ 135,00 <!-- feedback: Erro na soma dos valores fixos e variáveis. -->
+- [x] D) R\$ 85,00 <!-- feedback: C(100) = 35 + 0,50(100) = 35 + 50 = 85. -->
+- [ ] C) R\$ 135,00 <!-- feedback: Erro na soma dos valores fixos e variáveis. -->
 
 ### Explicacion Pedagogica
 Substituímos $x = 100$ na função custo: $C(100) = 35 + 0,5 \cdot 100$. Calculando o produto primeiro: $0,5 \cdot 100 = 50$. Somando à taxa fixa: $35 + 50 = 85$.
@@ -145,8 +145,8 @@ Um tanque contém 5000 litros de água e é esvaziado à razão de 200 litros po
 
 ### Opciones
 - [ ] A) $V(t) = 5000 + 200t$ <!-- feedback: Esta função representaria um tanque sendo enchido, não esvaziado. -->
-- [x] B) $V(t) = 5000 - 200t$ <!-- feedback: Correto. O volume inicial é 5000 e diminui 200 a cada unidade de tempo t. -->
-- [ ] C) $V(t) = 200t - 5000$ <!-- feedback: Esta função resultaria em valores negativos de volume no início. -->
+- [x] C) $V(t) = 5000 - 200t$ <!-- feedback: Correto. O volume inicial é 5000 e diminui 200 a cada unidade de tempo t. -->
+- [ ] B) $V(t) = 200t - 5000$ <!-- feedback: Esta função resultaria em valores negativos de volume no início. -->
 - [ ] D) $V(t) = 5000t - 200$ <!-- feedback: O tempo t deve multiplicar a taxa de variação, não o valor inicial. -->
 
 ### Explicacion Pedagogica
@@ -183,8 +183,8 @@ O lucro $L$ de um evento é dado por $L(x) = 40x - 2000$, onde $x$ é a quantida
 
 ### Opciones
 - [ ] A) 40 <!-- feedback: L(40) = 40(40) - 2000 = 1600 - 2000 = -400. Ainda há prejuízo. -->
-- [x] B) 50 <!-- feedback: L(50) = 40(50) - 2000 = 2000 - 2000 = 0. Ponto de equilíbrio. -->
-- [ ] C) 60 <!-- feedback: Com 60 ingressos já haveria lucro positivo (400). -->
+- [x] C) 50 <!-- feedback: L(50) = 40(50) - 2000 = 2000 - 2000 = 0. Ponto de equilíbrio. -->
+- [ ] B) 60 <!-- feedback: Com 60 ingressos já haveria lucro positivo (400). -->
 - [ ] D) 100 <!-- feedback: Com 100 ingressos o lucro seria de 2000. -->
 
 ### Explicacion Pedagogica
@@ -220,8 +220,8 @@ O ponto $(0, 3)$ nos dá diretamente o coeficiente linear $b = 3$. O coeficiente
 Duas retas no plano cartesiano, representadas pelas funções $f(x) = 2x + 5$ e $g(x) = -x + 11$, interceptam-se em qual ponto?
 
 ### Opciones
-- [ ] A) $(3, 8)$ <!-- feedback: f(3) = 11 e g(3) = 8. Não é o ponto de interseção. -->
-- [x] B) $(2, 9)$ <!-- feedback: 2x + 5 = -x + 11 => 3x = 6 => x = 2. f(2) = 2(2)+5 = 9. -->
+- [ ] B) $(3, 8)$ <!-- feedback: f(3) = 11 e g(3) = 8. Não é o ponto de interseção. -->
+- [x] A) $(2, 9)$ <!-- feedback: 2x + 5 = -x + 11 => 3x = 6 => x = 2. f(2) = 2(2)+5 = 9. -->
 - [ ] C) $(6, 5)$ <!-- feedback: f(6) = 17 e g(6) = 5. Não é o ponto de interseção. -->
 - [ ] D) $(4, 7)$ <!-- feedback: f(4) = 13 e g(4) = 7. Não é o ponto de interseção. -->
 
@@ -241,8 +241,8 @@ Uma função afim é tal que $f(1) = 4$ e $f(-2) = 10$. Qual é o valor de $f(0)
 ### Opciones
 - [ ] A) 4 <!-- feedback: 4 é o valor de f(1), não de f(0). -->
 - [ ] B) 5 <!-- feedback: Cálculo incorreto dos coeficientes. -->
-- [x] C) 6 <!-- feedback: a = (10 - 4) / (-2 - 1) = 6 / -3 = -2. f(1) = -2(1) + b = 4 => b = 6. f(0) = b = 6. -->
-- [ ] D) 7 <!-- feedback: Cálculo incorreto dos coeficientes. -->
+- [x] D) 6 <!-- feedback: a = (10 - 4) / (-2 - 1) = 6 / -3 = -2. f(1) = -2(1) + b = 4 => b = 6. f(0) = b = 6. -->
+- [ ] C) 7 <!-- feedback: Cálculo incorreto dos coeficientes. -->
 
 ### Explicacion Pedagogica
 Primeiro achamos o coeficiente angular: $a = \frac{10 - 4}{-2 - 1} = \frac{6}{-3} = -2$. Agora usamos $f(1)=4$ para achar $b$: $4 = -2(1) + b \Rightarrow b = 6$. Como $f(0) = b$, o resultado é 6.
@@ -259,9 +259,9 @@ Se o gráfico de uma função afim $f(x) = ax + b$ corta o eixo $x$ em um valor 
 
 ### Opciones
 - [ ] A) $a > 0$ e $b > 0$ <!-- feedback: Se b > 0, o gráfico cortaria o eixo y em um valor positivo. -->
-- [x] B) $a > 0$ e $b < 0$ <!-- feedback: b < 0 (corta y no negativo). Para cortar x no positivo, a reta deve subir, logo a > 0. -->
-- [ ] C) $a < 0$ e $b < 0$ <!-- feedback: Se a < 0 e b < 0, a reta desceria e cortaria o eixo x em um valor negativo. -->
-- [ ] D) $a < 0$ e $b > 0$ <!-- feedback: Cortaria o eixo y no positivo. -->
+- [x] D) $a > 0$ e $b < 0$ <!-- feedback: b < 0 (corta y no negativo). Para cortar x no positivo, a reta deve subir, logo a > 0. -->
+- [ ] B) $a < 0$ e $b < 0$ <!-- feedback: Se a < 0 e b < 0, a reta desceria e cortaria o eixo x em um valor negativo. -->
+- [ ] C) $a < 0$ e $b > 0$ <!-- feedback: Cortaria o eixo y no positivo. -->
 
 ### Explicacion Pedagogica
 O coeficiente $b$ é a interceptação em $y$, logo $b < 0$. A raiz é $-b/a$. Para que $-b/a > 0$, dado que $b$ é negativo, o valor de $a$ deve ser positivo (positivo / positivo = positivo). Portanto, a função é crescente.
@@ -278,8 +278,8 @@ O fundo A cobra R\$ 100,00 de taxa fixa mais 1\% do valor investido. O fundo B c
 
 ### Opciones
 - [ ] A) R\$ 2.500,00 <!-- feedback: Taxa A: 100 + 25 = 125. Taxa B: 50 + 50 = 100. Diferentes. -->
-- [x] B) R\$ 5.000,00 <!-- feedback: 100 + 0,01x = 50 + 0,02x => 50 = 0,01x => x = 5000. -->
-- [ ] C) R\$ 10.000,00 <!-- feedback: Taxa A: 100 + 100 = 200. Taxa B: 50 + 200 = 250. Diferentes. -->
+- [x] C) R\$ 5.000,00 <!-- feedback: 100 + 0,01x = 50 + 0,02x => 50 = 0,01x => x = 5000. -->
+- [ ] B) R\$ 10.000,00 <!-- feedback: Taxa A: 100 + 100 = 200. Taxa B: 50 + 200 = 250. Diferentes. -->
 - [ ] D) R\$ 7.500,00 <!-- feedback: As taxas não serão iguais para este valor. -->
 
 ### Explicacion Pedagogica
@@ -296,8 +296,8 @@ Montamos a equação de igualdade: $100 + 0,01x = 50 + 0,02x$. Isolando $x$: $10
 Sabendo que $0^\circ$C corresponde a $32^\circ$F e $100^\circ$C corresponde a $212^\circ$F, qual é a função afim que converte Celsius ($C$) para Fahrenheit ($F$)?
 
 ### Opciones
-- [ ] A) $F = 1,8C - 32$ <!-- feedback: O coeficiente linear b deve ser 32 positivo, não negativo. -->
-- [x] B) $F = 1,8C + 32$ <!-- feedback: a = (212-32)/(100-0) = 180/100 = 1,8. f(0)=32 => b=32. -->
+- [ ] B) $F = 1,8C - 32$ <!-- feedback: O coeficiente linear b deve ser 32 positivo, não negativo. -->
+- [x] A) $F = 1,8C + 32$ <!-- feedback: a = (212-32)/(100-0) = 180/100 = 1,8. f(0)=32 => b=32. -->
 - [ ] C) $F = 32C + 1,8$ <!-- feedback: Erro na posição dos coeficientes. -->
 - [ ] D) $F = C + 32$ <!-- feedback: A taxa de variação não é 1; a cada 5 graus C variam 9 graus F. -->
 
@@ -315,9 +315,9 @@ Calculamos o coeficiente angular: $a = \frac{212 - 32}{100 - 0} = \frac{180}{100
 Se a função demanda de um produto é $D(p) = 400 - 5p$, onde $p$ é o preço, qual é o preço máximo que pode ser cobrado para que ainda exista demanda (demanda maior que zero)?
 
 ### Opciones
-- [ ] A) R\$ 400,00 <!-- feedback: Com p=400, a demanda seria negativa (400 - 2000). -->
-- [ ] B) R\$ 100,00 <!-- feedback: Com p=100, a demanda seria negativa (400 - 500). -->
-- [x] C) R\$ 80,00 <!-- feedback: 400 - 5p > 0 => 400 > 5p => p < 80. -->
+- [ ] B) R\$ 400,00 <!-- feedback: Com p=400, a demanda seria negativa (400 - 2000). -->
+- [ ] C) R\$ 100,00 <!-- feedback: Com p=100, a demanda seria negativa (400 - 500). -->
+- [x] A) R\$ 80,00 <!-- feedback: 400 - 5p > 0 => 400 > 5p => p < 80. -->
 - [ ] D) R\$ 5,00 <!-- feedback: Este é o preço mínimo sugerido, mas não o máximo. -->
 
 ### Explicacion Pedagogica
@@ -336,8 +336,8 @@ Considere $f(x) = ax + b$. Se $f(f(x)) = 4x + 9$, quais são os possíveis valor
 ### Opciones
 - [ ] A) $a = 4, b = 9$ <!-- feedback: f(f(x)) com a=4 daria 16x. Errado. -->
 - [ ] B) $a = 2, b = 9$ <!-- feedback: Se a=2, f(f(x)) = 2(2x+b)+b = 4x+3b. Se 3b=9, b=3. Não 9. -->
-- [x] C) $a = 2, b = 3$ <!-- feedback: f(f(x)) = a(ax+b)+b = a²x + ab+b. a²=4 => a=2 ou a=-2. Se a=2: 2b+b=9 => 3b=9 => b=3. -->
-- [ ] D) $a = 2, b = 4,5$ <!-- feedback: Incorreto ao aplicar a substituição na composição. -->
+- [x] D) $a = 2, b = 3$ <!-- feedback: f(f(x)) = a(ax+b)+b = a²x + ab+b. a²=4 => a=2 ou a=-2. Se a=2: 2b+b=9 => 3b=9 => b=3. -->
+- [ ] C) $a = 2, b = 4,5$ <!-- feedback: Incorreto ao aplicar a substituição na composição. -->
 
 ### Explicacion Pedagogica
 $f(f(x)) = a(ax+b) + b = a^2x + (ab + b)$. Igualando os coeficientes: $a^2 = 4 \Rightarrow a = 2$ ou $a = -2$. Se $a = 2$, então $2b + b = 9 \Rightarrow 3b = 9 \Rightarrow b = 3$. Se $a = -2$, $-2b + b = 9 \Rightarrow -b = 9 \Rightarrow b = -9$.
@@ -354,8 +354,8 @@ A função $f(x)$ é linear e satisfaz $\sum_{i=1}^{3} f(i) = 15$. Se o coeficie
 
 ### Opciones
 - [ ] A) 5 <!-- feedback: Cálculo incorreto da soma dos termos. -->
-- [x] B) 1 <!-- feedback: f(1)+f(2)+f(3) = (2*1+b) + (2*2+b) + (2*3+b) = 2+4+6 + 3b = 12 + 3b. 12+3b=15 => 3b=3 => b=1. -->
-- [ ] C) 3 <!-- feedback: Cálculo incorreto da soma dos termos. -->
+- [x] C) 1 <!-- feedback: f(1)+f(2)+f(3) = (2*1+b) + (2*2+b) + (2*3+b) = 2+4+6 + 3b = 12 + 3b. 12+3b=15 => 3b=3 => b=1. -->
+- [ ] B) 3 <!-- feedback: Cálculo incorreto da soma dos termos. -->
 - [ ] D) 0 <!-- feedback: Se b=0, a soma seria 12, não 15. -->
 
 ### Explicacion Pedagogica
@@ -372,8 +372,8 @@ Expandimos a soma: $f(1) + f(2) + f(3) = (2(1)+b) + (2(2)+b) + (2(3)+b)$. Somand
 Qual é a área da região triangular limitada pelo gráfico da função $f(x) = -2x + 8$ e pelos eixos coordenados $x$ e $y$?
 
 ### Opciones
-- [ ] A) 32 <!-- feedback: Este seria o produto da base pela altura (4 * 8), esquecendo de dividir por 2. -->
-- [x] B) 16 <!-- feedback: Intercepto y (altura) = 8. Intercepto x (raiz) = 4. Área = (4 * 8) / 2 = 16. -->
+- [ ] B) 32 <!-- feedback: Este seria o produto da base pela altura (4 * 8), esquecendo de dividir por 2. -->
+- [x] A) 16 <!-- feedback: Intercepto y (altura) = 8. Intercepto x (raiz) = 4. Área = (4 * 8) / 2 = 16. -->
 - [ ] C) 8 <!-- feedback: Erro no cálculo das dimensões do triângulo. -->
 - [ ] D) 4 <!-- feedback: Erro no cálculo das dimensões do triângulo. -->
 
@@ -391,9 +391,9 @@ O triângulo tem vértices na origem $(0,0)$, no intercepto $y$ $(0,8)$ e no int
 Considere a família de funções $f_k(x) = (k-1)x + 2k + 3$. Qual é o ponto comum a todas as retas representadas por essa função, independentemente do valor de $k$?
 
 ### Opciones
-- [ ] A) $(0, 5)$ <!-- feedback: Para x=0, f(0) depende de k: 2k+3. -->
-- [ ] B) $(1, 3)$ <!-- feedback: Testando na função, o resultado dependeria de k. -->
-- [x] C) $(-2, 5)$ <!-- feedback: f(-2) = (k-1)(-2) + 2k + 3 = -2k + 2 + 2k + 3 = 5. O valor é constante. -->
+- [ ] B) $(0, 5)$ <!-- feedback: Para x=0, f(0) depende de k: 2k+3. -->
+- [ ] C) $(1, 3)$ <!-- feedback: Testando na função, o resultado dependeria de k. -->
+- [x] A) $(-2, 5)$ <!-- feedback: f(-2) = (k-1)(-2) + 2k + 3 = -2k + 2 + 2k + 3 = 5. O valor é constante. -->
 - [ ] D) $(2, -1)$ <!-- feedback: Testando na função, o resultado dependeria de k. -->
 
 ### Explicacion Pedagogica

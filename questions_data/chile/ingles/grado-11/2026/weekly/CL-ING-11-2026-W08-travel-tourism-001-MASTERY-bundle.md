@@ -36,8 +36,8 @@ An itinerary is a detailed plan or route of a journey.
 
 ### Opciones
 - [ ] A) accommodation <!-- feedback: Incorrect. Accommodation refers to where you stay. -->
-- [x] B) itinerary <!-- feedback: Correct. An itinerary outlines the schedule and locations of a trip. -->
-- [ ] C) souvenir <!-- feedback: Incorrect. A souvenir is a memento. -->
+- [x] C) itinerary <!-- feedback: Correct. An itinerary outlines the schedule and locations of a trip. -->
+- [ ] B) souvenir <!-- feedback: Incorrect. A souvenir is a memento. -->
 - [ ] D) customs <!-- feedback: Incorrect. Customs refers to border control. -->
 
 ### Explicacion Pedagogica
@@ -55,8 +55,8 @@ An itinerary is a detailed plan or route of a journey.
 The landscape was so breathtaking that I couldn't stop taking pictures.
 
 ### Opciones
-- [ ] A) breathless <!-- feedback: Incorrect. Breathless means unable to breathe easily. -->
-- [x] B) breathtaking <!-- feedback: Correct. Breathtaking means astonishing or magnificent. -->
+- [ ] B) breathless <!-- feedback: Incorrect. Breathless means unable to breathe easily. -->
+- [x] A) breathtaking <!-- feedback: Correct. Breathtaking means astonishing or magnificent. -->
 - [ ] C) breathed <!-- feedback: Incorrect. Past tense of breathe. -->
 - [ ] D) breathing <!-- feedback: Incorrect. The act of inhaling/exhaling. -->
 
@@ -95,10 +95,10 @@ Negative adverbials like 'Never' or 'Seldom' require inversion (verb before subj
 Ecotourism aims to minimize the impact of visitors on the environment and support local communities.
 
 ### Opciones
-- [x] A) Ecotourism <!-- feedback: Correct. Ecotourism focuses on ecological preservation. -->
-- [ ] B) Mass tourism <!-- feedback: Incorrect. Mass tourism often has a high environmental impact. -->
-- [ ] C) Business travel <!-- feedback: Incorrect. Focuses on work, not environment. -->
-- [ ] D) Luxury travel <!-- feedback: Incorrect. Focuses on comfort and high cost. -->
+- [x] D) Ecotourism <!-- feedback: Correct. Ecotourism focuses on ecological preservation. -->
+- [ ] A) Mass tourism <!-- feedback: Incorrect. Mass tourism often has a high environmental impact. -->
+- [ ] B) Business travel <!-- feedback: Incorrect. Focuses on work, not environment. -->
+- [ ] C) Luxury travel <!-- feedback: Incorrect. Focuses on comfort and high cost. -->
 
 ### Explicacion Pedagogica
 'Ecotourism' is the specific term for travel that prioritizes environmental and cultural conservation.
@@ -136,9 +136,9 @@ You must check in your luggage at least two hours before your flight departs.
 
 ### Opciones
 - [ ] A) check out <!-- feedback: Incorrect. Check out is for leaving a hotel. -->
-- [x] B) check in <!-- feedback: Correct. To register and hand over luggage at an airport. -->
-- [ ] C) check up <!-- feedback: Incorrect. A medical examination. -->
-- [ ] D) check through <!-- feedback: Incorrect. Less common in this specific context. -->
+- [x] D) check in <!-- feedback: Correct. To register and hand over luggage at an airport. -->
+- [ ] B) check up <!-- feedback: Incorrect. A medical examination. -->
+- [ ] C) check through <!-- feedback: Incorrect. Less common in this specific context. -->
 
 ### Explicacion Pedagogica
 'Check in' is the standard phrasal verb for registering for a flight or hotel.
@@ -156,8 +156,8 @@ If I had brought my camera, I would have taken a picture of the penguin colony.
 
 ### Opciones
 - [ ] A) brought <!-- feedback: Incorrect. Second conditional. -->
-- [x] B) had brought <!-- feedback: Correct. Third conditional for hypothetical past. -->
-- [ ] C) bring <!-- feedback: Incorrect. The third conditional needs the past perfect "had brought"; "bring" is a bare infinitive and marks no past time at all. -->
+- [x] C) had brought <!-- feedback: Correct. Third conditional for hypothetical past. -->
+- [ ] B) bring <!-- feedback: Incorrect. The third conditional needs the past perfect "had brought"; "bring" is a bare infinitive and marks no past time at all. -->
 - [ ] D) would bring <!-- feedback: Incorrect. 'Would' not used in 'if' clause. -->
 
 ### Explicacion Pedagogica
@@ -176,9 +176,9 @@ The hotel offers a wide range of amenities, such as a swimming pool, a gym, and 
 
 ### Opciones
 - [ ] A) necessities <!-- feedback: Incorrect. Amenities are extra comforts, not just basics. -->
-- [x] B) amenities <!-- feedback: Correct. Amenities are useful or desirable features of a place. -->
-- [ ] C) obstacles <!-- feedback: Incorrect. Obstacles are things that block your way. -->
-- [ ] D) chores <!-- feedback: Incorrect. Chores are routine tasks. -->
+- [x] D) amenities <!-- feedback: Correct. Amenities are useful or desirable features of a place. -->
+- [ ] B) obstacles <!-- feedback: Incorrect. Obstacles are things that block your way. -->
+- [ ] C) chores <!-- feedback: Incorrect. Chores are routine tasks. -->
 
 ### Explicacion Pedagogica
 'Amenities' is the professional term for features that increase the comfort of a hotel or apartment.
@@ -196,8 +196,8 @@ More and more people are choosing to travel solo to gain independence and self-c
 
 ### Opciones
 - [ ] A) lonely <!-- feedback: Incorrect. Lonely is a feeling. -->
-- [x] B) solo <!-- feedback: Correct. Solo means alone or unaccompanied. -->
-- [ ] C) unique <!-- feedback: Incorrect. Unique means one of a kind. -->
+- [x] C) solo <!-- feedback: Correct. Solo means alone or unaccompanied. -->
+- [ ] B) unique <!-- feedback: Incorrect. Unique means one of a kind. -->
 - [ ] D) isolated <!-- feedback: Incorrect. Isolated implies being cut off, often negatively. -->
 
 ### Explicacion Pedagogica
@@ -216,9 +216,9 @@ The text suggests that overtourism can erode the very qualities that made a dest
 
 ### Opciones
 - [ ] A) enhance <!-- feedback: Incorrect. Overtourism usually damages qualities. -->
-- [x] B) erode <!-- feedback: Correct. Erode means to gradually wear away or destroy. -->
-- [ ] C) preserve <!-- feedback: Incorrect. Preservation is the opposite of erosion. -->
-- [ ] D) simplify <!-- feedback: Incorrect. It makes management more complex. -->
+- [x] D) erode <!-- feedback: Correct. Erode means to gradually wear away or destroy. -->
+- [ ] B) preserve <!-- feedback: Incorrect. Preservation is the opposite of erosion. -->
+- [ ] C) simplify <!-- feedback: Incorrect. It makes management more complex. -->
 
 ### Explicacion Pedagogica
 'Erode' metaphorically describes the gradual destruction of a location's appeal due to too many visitors.
@@ -236,9 +236,9 @@ A hostel is an inexpensive lodging place for travelers, often with dormitory-sty
 
 ### Opciones
 - [ ] A) resort <!-- feedback: Incorrect. A resort is usually expensive and luxury. -->
-- [x] B) hostel <!-- feedback: Correct. Hostels are budget-friendly and often communal. -->
-- [ ] C) villa <!-- feedback: Incorrect. A villa is a large, private house. -->
-- [ ] D) penthouse <!-- feedback: Incorrect. A penthouse is a luxury apartment. -->
+- [x] D) hostel <!-- feedback: Correct. Hostels are budget-friendly and often communal. -->
+- [ ] B) villa <!-- feedback: Incorrect. A villa is a large, private house. -->
+- [ ] C) penthouse <!-- feedback: Incorrect. A penthouse is a luxury apartment. -->
 
 ### Explicacion Pedagogica
 'Hostel' is the specific term for budget, communal traveler accommodation.
@@ -256,9 +256,9 @@ Passengers whose flights are cancelled are entitled to a full refund or rebookin
 
 ### Opciones
 - [ ] A) who <!-- feedback: Incorrect. 'Who' refers to the subject, but we need possession (their flights). -->
-- [x] B) whose <!-- feedback: Correct. 'Whose' is the possessive relative pronoun. -->
-- [ ] C) which <!-- feedback: Incorrect. Refers to things. -->
-- [ ] D) that <!-- feedback: Incorrect. Relative pronoun, but doesn't show possession. -->
+- [x] D) whose <!-- feedback: Correct. 'Whose' is the possessive relative pronoun. -->
+- [ ] B) which <!-- feedback: Incorrect. Refers to things. -->
+- [ ] C) that <!-- feedback: Incorrect. Relative pronoun, but doesn't show possession. -->
 
 ### Explicacion Pedagogica
 'Whose' is used to show that the flights belong to the passengers.
@@ -275,8 +275,8 @@ Passengers whose flights are cancelled are entitled to a full refund or rebookin
 The mountain village was so secluded that it felt like a different world.
 
 ### Opciones
-- [x] A) secluded <!-- feedback: Correct. Secluded means hidden from view or not frequented by many people. -->
-- [ ] B) public <!-- feedback: Incorrect. Public means open to everyone. -->
+- [x] B) secluded <!-- feedback: Correct. Secluded means hidden from view or not frequented by many people. -->
+- [ ] A) public <!-- feedback: Incorrect. Public means open to everyone. -->
 - [ ] C) urban <!-- feedback: Incorrect. Urban refers to cities. -->
 - [ ] D) accessible <!-- feedback: Incorrect. Accessible means easy to reach. -->
 
@@ -316,9 +316,9 @@ While tourism can bring economic benefits, it can also lead to the commodificati
 
 ### Opciones
 - [ ] A) preservation <!-- feedback: Incorrect. Preservation keeps things as they are. -->
-- [x] B) commodification <!-- feedback: Correct. Making something into an object for trade or profit. -->
-- [ ] C) appreciation <!-- feedback: Incorrect. Appreciation is positive. -->
-- [ ] D) elimination <!-- feedback: Incorrect. The traditions usually remain but change their meaning for profit. -->
+- [x] D) commodification <!-- feedback: Correct. Making something into an object for trade or profit. -->
+- [ ] B) appreciation <!-- feedback: Incorrect. Appreciation is positive. -->
+- [ ] C) elimination <!-- feedback: Incorrect. The traditions usually remain but change their meaning for profit. -->
 
 ### Explicacion Pedagogica
 'Commodification' refers to turning cultural elements into products for sale, often losing their original meaning.
@@ -336,9 +336,9 @@ We spent the whole afternoon sightseeing around the historic center of the city.
 
 ### Opciones
 - [ ] A) commuting <!-- feedback: Incorrect. Commuting is traveling to work. -->
-- [x] B) sightseeing <!-- feedback: Correct. Visiting interesting places. -->
-- [ ] C) migrating <!-- feedback: Incorrect. Moving to a new place to live. -->
-- [ ] D) navigating <!-- feedback: Incorrect. Finding the way. -->
+- [x] D) sightseeing <!-- feedback: Correct. Visiting interesting places. -->
+- [ ] B) migrating <!-- feedback: Incorrect. Moving to a new place to live. -->
+- [ ] C) navigating <!-- feedback: Incorrect. Finding the way. -->
 
 ### Explicacion Pedagogica
 'Sightseeing' is the standard term for visiting tourist attractions.
@@ -356,8 +356,8 @@ By the time we reached the summit, it had been snowing for three hours.
 
 ### Opciones
 - [ ] A) was snowing <!-- feedback: Incorrect. Past continuous. -->
-- [x] B) had been snowing <!-- feedback: Correct. Past perfect continuous for a duration before a past point. -->
-- [ ] C) has been snowing <!-- feedback: Incorrect. Present perfect continuous. -->
+- [x] C) had been snowing <!-- feedback: Correct. Past perfect continuous for a duration before a past point. -->
+- [ ] B) has been snowing <!-- feedback: Incorrect. Present perfect continuous. -->
 - [ ] D) snowed <!-- feedback: Incorrect. The past perfect continuous is "had been snowing"; "snowed" is the past simple and drops the duration that was still ongoing at that past point. -->
 
 ### Explicacion Pedagogica
@@ -376,8 +376,8 @@ Our guide was incredibly knowledgeable and shared many fascinating stories about
 
 ### Opciones
 - [ ] A) ignorant <!-- feedback: Incorrect. Ignorant means not knowing. -->
-- [x] B) knowledgeable <!-- feedback: Correct. Knowledgeable means intelligent and well-informed. -->
-- [ ] C) suspicious <!-- feedback: Incorrect. Suspicious means showing distrust. -->
+- [x] C) knowledgeable <!-- feedback: Correct. Knowledgeable means intelligent and well-informed. -->
+- [ ] B) suspicious <!-- feedback: Incorrect. Suspicious means showing distrust. -->
 - [ ] D) terminal <!-- feedback: Incorrect. Terminal refers to an end point. -->
 
 ### Explicacion Pedagogica
@@ -396,9 +396,9 @@ The travel agent recommended that we book our flights well in advance.
 
 ### Opciones
 - [ ] A) booked <!-- feedback: Incorrect. Doesn't fit the 'that' clause. -->
-- [x] B) book <!-- feedback: Correct. Subjunctive form after 'recommended'. -->
-- [ ] C) to book <!-- feedback: Incorrect. Infinitive doesn't fit the 'that' clause. -->
-- [ ] D) booking <!-- feedback: Incorrect. Gerund doesn't fit here. -->
+- [x] D) book <!-- feedback: Correct. Subjunctive form after 'recommended'. -->
+- [ ] B) to book <!-- feedback: Incorrect. Infinitive doesn't fit the 'that' clause. -->
+- [ ] C) booking <!-- feedback: Incorrect. Gerund doesn't fit here. -->
 
 ### Explicacion Pedagogica
 Verbs of recommendation like 'recommend' take the subjunctive (base form) in a 'that' clause.
@@ -415,9 +415,9 @@ Verbs of recommendation like 'recommend' take the subjunctive (base form) in a '
 Ultimately, travel should be a means of broadening one's horizons and fostering mutual understanding.
 
 ### Opciones
-- [x] A) broadening <!-- feedback: Correct. To broaden one's horizons means to expand one's experience or knowledge. -->
-- [ ] B) narrowing <!-- feedback: Incorrect. Narrowing means making smaller. -->
-- [ ] C) ignoring <!-- feedback: Incorrect. Travel involves paying attention to new things. -->
+- [x] C) broadening <!-- feedback: Correct. To broaden one's horizons means to expand one's experience or knowledge. -->
+- [ ] A) narrowing <!-- feedback: Incorrect. Narrowing means making smaller. -->
+- [ ] B) ignoring <!-- feedback: Incorrect. Travel involves paying attention to new things. -->
 - [ ] D) restricting <!-- feedback: Incorrect. Restricting means limiting. -->
 
 ### Explicacion Pedagogica

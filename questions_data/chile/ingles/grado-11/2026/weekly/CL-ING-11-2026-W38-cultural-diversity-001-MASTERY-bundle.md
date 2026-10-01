@@ -36,9 +36,9 @@ Cultural diversity is the existence of a variety of cultural or ethnic groups wi
 
 ### Opciones
 - [ ] A) Uniformity <!-- feedback: Incorrect. Uniformity means being the same. -->
-- [x] B) Diversity <!-- feedback: Correct. The state of being diverse; variety. -->
-- [ ] C) Isolation <!-- feedback: Incorrect. Isolation is being alone. -->
-- [ ] D) Stagnation <!-- feedback: Incorrect. Stagnation is no change. -->
+- [x] D) Diversity <!-- feedback: Correct. The state of being diverse; variety. -->
+- [ ] B) Isolation <!-- feedback: Incorrect. Isolation is being alone. -->
+- [ ] C) Stagnation <!-- feedback: Incorrect. Stagnation is no change. -->
 
 ### Explicacion Pedagogica
 'Diversity' is the specific term for the presence of multiple different cultures in one area.
@@ -95,10 +95,10 @@ The second conditional describes the imaginary result of a shift in social attit
 A pluralistic society is one where different groups maintain their unique cultural identities while participating in a common social system.
 
 ### Opciones
-- [x] A) pluralistic <!-- feedback: Correct. Pluralism is the coexistence of distinct groups. -->
-- [ ] B) homogeneous <!-- feedback: Incorrect. Homogeneous means all the same. -->
-- [ ] C) isolated <!-- feedback: Incorrect. Groups in this society participate together. -->
-- [ ] D) secret <!-- feedback: Incorrect. -->
+- [x] D) pluralistic <!-- feedback: Correct. Pluralism is the coexistence of distinct groups. -->
+- [ ] A) homogeneous <!-- feedback: Incorrect. Homogeneous means all the same. -->
+- [ ] B) isolated <!-- feedback: Incorrect. Groups in this society participate together. -->
+- [ ] C) secret <!-- feedback: Incorrect. -->
 
 ### Explicacion Pedagogica
 'Pluralistic' is the formal term for a society that values and maintains diverse cultural identities.
@@ -135,8 +135,8 @@ Cultural relativism is the principle that a person's beliefs and activities shou
 Inclusion is the practice or policy of providing equal access to opportunities and resources for people who might otherwise be excluded or marginalized.
 
 ### Opciones
-- [ ] A) Exclusion <!-- feedback: Incorrect. The opposite of inclusion. -->
-- [x] B) Inclusion <!-- feedback: Correct. Active effort to involve everyone. -->
+- [ ] B) Exclusion <!-- feedback: Incorrect. The opposite of inclusion. -->
+- [x] A) Inclusion <!-- feedback: Correct. Active effort to involve everyone. -->
 - [ ] C) Isolation <!-- feedback: Incorrect. -->
 - [ ] D) Silence <!-- feedback: Incorrect. -->
 
@@ -156,9 +156,9 @@ She spoke passionately about the importance of embracing diversity in the workpl
 
 ### Opciones
 - [ ] A) passionate <!-- feedback: Incorrect. Adjective where an adverb is needed. -->
-- [x] B) passionately <!-- feedback: Correct. Adverb modifying the verb 'spoke'. -->
-- [ ] C) passion <!-- feedback: Incorrect. Noun. -->
-- [ ] D) passivity <!-- feedback: Incorrect. Different meaning. -->
+- [x] D) passionately <!-- feedback: Correct. Adverb modifying the verb 'spoke'. -->
+- [ ] B) passion <!-- feedback: Incorrect. Noun. -->
+- [ ] C) passivity <!-- feedback: Incorrect. Different meaning. -->
 
 ### Explicacion Pedagogica
 The adverb 'passionately' describes the manner in which the speaker delivered her message.
@@ -176,9 +176,9 @@ Xenophobia is the dislike of or prejudice against people from other countries.
 
 ### Opciones
 - [ ] A) Philanthropy <!-- feedback: Incorrect. Love of humanity. -->
-- [x] B) Xenophobia <!-- feedback: Correct. Fear or hatred of strangers/foreigners. -->
-- [ ] C) Empathy <!-- feedback: Incorrect. Understanding others. -->
-- [ ] D) Curiosity <!-- feedback: Incorrect. -->
+- [x] D) Xenophobia <!-- feedback: Correct. Fear or hatred of strangers/foreigners. -->
+- [ ] B) Empathy <!-- feedback: Incorrect. Understanding others. -->
+- [ ] C) Curiosity <!-- feedback: Incorrect. -->
 
 ### Explicacion Pedagogica
 'Xenophobia' is the technical term for the negative social attitude described.
@@ -196,9 +196,9 @@ I had never experienced such a vibrant festival before I visited India.
 
 ### Opciones
 - [ ] A) have never experienced <!-- feedback: Incorrect. Present perfect is for past to present. -->
-- [x] B) had never experienced <!-- feedback: Correct. Past perfect for a state before a past point (visiting). -->
-- [ ] C) never experience <!-- feedback: Incorrect. -->
-- [ ] D) experiencing <!-- feedback: Incorrect. -->
+- [x] D) had never experienced <!-- feedback: Correct. Past perfect for a state before a past point (visiting). -->
+- [ ] B) never experience <!-- feedback: Incorrect. -->
+- [ ] C) experiencing <!-- feedback: Incorrect. -->
 
 ### Explicacion Pedagogica
 The past perfect 'had never experienced' establishes the state of the speaker's experience prior to the trip.
@@ -216,8 +216,8 @@ Forced assimilation can lead to the erosion of unique cultural practices and a s
 
 ### Opciones
 - [ ] A) empowerment <!-- feedback: Incorrect. Forced assimilation is disempowering. -->
-- [x] B) erosion <!-- feedback: Correct. Erosion means the gradual destruction or diminution of something. -->
-- [ ] C) preservation <!-- feedback: Incorrect. It destroys, doesn't preserve. -->
+- [x] C) erosion <!-- feedback: Correct. Erosion means the gradual destruction or diminution of something. -->
+- [ ] B) preservation <!-- feedback: Incorrect. It destroys, doesn't preserve. -->
 - [ ] D) celebration <!-- feedback: Incorrect. -->
 
 ### Explicacion Pedagogica
@@ -256,8 +256,8 @@ By next decade, the world will have become even more interconnected through digi
 
 ### Opciones
 - [ ] A) become <!-- feedback: Incorrect. Needs 'will have'. -->
-- [x] B) will have become <!-- feedback: Correct. Future perfect for a completed state in the future. -->
-- [ ] C) becoming <!-- feedback: Incorrect. Gerund. -->
+- [x] C) will have become <!-- feedback: Correct. Future perfect for a completed state in the future. -->
+- [ ] B) becoming <!-- feedback: Incorrect. Gerund. -->
 - [ ] D) became <!-- feedback: Incorrect. Past tense. -->
 
 ### Explicacion Pedagogica
@@ -275,9 +275,9 @@ The future perfect indicates that the state of interconnectedness will be an acc
 Cultivating empathy allows us to bridge the gap between ourselves and those from different cultural backgrounds.
 
 ### Opciones
-- [x] A) bridge <!-- feedback: Correct. To bridge a gap means to connect two different things. -->
-- [ ] B) widen <!-- feedback: Incorrect. We want to close the gap. -->
-- [ ] C) ignore <!-- feedback: Incorrect. -->
+- [x] C) bridge <!-- feedback: Correct. To bridge a gap means to connect two different things. -->
+- [ ] A) widen <!-- feedback: Incorrect. We want to close the gap. -->
+- [ ] B) ignore <!-- feedback: Incorrect. -->
 - [ ] D) create <!-- feedback: Incorrect. -->
 
 ### Explicacion Pedagogica
@@ -296,8 +296,8 @@ If we valued our heritage more, we would spend more resources on its preservatio
 
 ### Opciones
 - [ ] A) value <!-- feedback: Incorrect. First conditional. -->
-- [x] B) valued <!-- feedback: Correct. Second conditional for a hypothetical present change. -->
-- [ ] C) had valued <!-- feedback: Incorrect. Third conditional. -->
+- [x] C) valued <!-- feedback: Correct. Second conditional for a hypothetical present change. -->
+- [ ] B) had valued <!-- feedback: Incorrect. Third conditional. -->
 - [ ] D) would value <!-- feedback: Incorrect. 'Would' not in 'if' clause. -->
 
 ### Explicacion Pedagogica
@@ -316,9 +316,9 @@ The author concludes that embracing cultural diversity is not just an ethical ch
 
 ### Opciones
 - [ ] A) optional <!-- feedback: Incorrect. Author says it's a necessity. -->
-- [x] B) necessity <!-- feedback: Correct. Necessity means the fact of being required or indispensable. -->
-- [ ] C) burden <!-- feedback: Incorrect. Author sees it as a positive requirement. -->
-- [ ] D) secret <!-- feedback: Incorrect. -->
+- [x] D) necessity <!-- feedback: Correct. Necessity means the fact of being required or indispensable. -->
+- [ ] B) burden <!-- feedback: Incorrect. Author sees it as a positive requirement. -->
+- [ ] C) secret <!-- feedback: Incorrect. -->
 
 ### Explicacion Pedagogica
 'Necessity' correctly identify the author's strong evaluation of diversity as essential for modern life.
@@ -356,8 +356,8 @@ I wish everyone would appreciate the beauty of different cultural traditions.
 
 ### Opciones
 - [ ] A) appreciate <!-- feedback: Incorrect. Need 'would' for a desired change in others. -->
-- [x] B) would appreciate <!-- feedback: Correct. 'Wish + would' for a desired change in behavior/situation. -->
-- [ ] C) appreciated <!-- feedback: Incorrect. Present state desire. -->
+- [x] C) would appreciate <!-- feedback: Correct. 'Wish + would' for a desired change in behavior/situation. -->
+- [ ] B) appreciated <!-- feedback: Incorrect. Present state desire. -->
 - [ ] D) have appreciated <!-- feedback: Incorrect. Past regret. -->
 
 ### Explicacion Pedagogica
@@ -375,8 +375,8 @@ I wish everyone would appreciate the beauty of different cultural traditions.
 Cultural hybridity involves the blending of different cultural elements to create something new and unique.
 
 ### Opciones
-- [ ] A) Isolation <!-- feedback: Incorrect. -->
-- [x] B) blending <!-- feedback: Correct. To blend means to mix or combine. -->
+- [ ] B) Isolation <!-- feedback: Incorrect. -->
+- [x] A) blending <!-- feedback: Correct. To blend means to mix or combine. -->
 - [ ] C) destruction <!-- feedback: Incorrect. It's a creative process. -->
 - [ ] D) separation <!-- feedback: Incorrect. -->
 

@@ -57,13 +57,13 @@ Reconocer la rotación como un movimiento que gira una figura alrededor de un pu
 ¿Qué indica que una figura tenga un eje de simetría?
 
 ### Opciones
-- [x] A) Que al doblarla por esa línea, las dos mitades coinciden exactamente.
+- [x] D) Que al doblarla por esa línea, las dos mitades coinciden exactamente.
   <!-- feedback: El eje de simetría divide la figura en dos partes que son reflejo una de la otra. -->
-- [ ] B) Que la figura tiene todos sus lados de diferente longitud.
+- [ ] A) Que la figura tiene todos sus lados de diferente longitud.
   <!-- feedback: Que los lados sean distintos no define un eje de simetría. -->
-- [ ] C) Que la figura no puede girar sobre ningún punto.
+- [ ] B) Que la figura no puede girar sobre ningún punto.
   <!-- feedback: La simetría y la rotación son movimientos independientes entre sí. -->
-- [ ] D) Que la figura cambia de forma al doblarla.
+- [ ] C) Que la figura cambia de forma al doblarla.
   <!-- feedback: La figura no cambia de forma; sus mitades coinciden al doblarla. -->
 
 ### Explicacion Pedagogica
@@ -80,11 +80,11 @@ Comprender el eje de simetría como la línea que divide una figura en dos parte
 ¿Hacia dónde apuntará la flecha después del giro?
 
 ### Opciones
-- [x] A) Hacia el este.
+- [x] C) Hacia el este.
   <!-- feedback: Al girar 90 grados en sentido horario, la flecha que apuntaba al norte pasa a apuntar al este. -->
-- [ ] B) Hacia el sur.
+- [ ] A) Hacia el sur.
   <!-- feedback: Apuntar al sur requeriría un giro de 180 grados, no de 90. -->
-- [ ] C) Hacia el oeste.
+- [ ] B) Hacia el oeste.
   <!-- feedback: El oeste se alcanzaría girando 90 grados en sentido antihorario. -->
 - [ ] D) Seguirá apuntando hacia el norte.
   <!-- feedback: Un giro de 90 grados siempre cambia la dirección en que apunta la flecha. -->
@@ -103,11 +103,11 @@ Aplicar una rotación de 90 grados para determinar la nueva orientación de una 
 ¿Cuántos ejes de simetría tiene un cuadrado?
 
 ### Opciones
-- [x] A) 4 ejes de simetría.
+- [x] C) 4 ejes de simetría.
   <!-- feedback: El cuadrado tiene 2 ejes por los puntos medios de lados opuestos y 2 por sus diagonales. -->
-- [ ] B) 2 ejes de simetría.
+- [ ] A) 2 ejes de simetría.
   <!-- feedback: Son 2 ejes adicionales por las diagonales, para un total de 4. -->
-- [ ] C) 1 eje de simetría.
+- [ ] B) 1 eje de simetría.
   <!-- feedback: Un cuadrado tiene más de un eje; sus diagonales y sus ejes medios también lo dividen. -->
 - [ ] D) 8 ejes de simetría.
   <!-- feedback: Ocho ejes exceden las líneas que realmente dividen el cuadrado en mitades iguales. -->
@@ -149,9 +149,9 @@ Aplicar una rotación de 180 grados y describir el cambio de orientación result
 ¿Cuál es la diferencia principal entre una rotación y una reflexión?
 
 ### Opciones
-- [x] A) La rotación gira la figura alrededor de un punto, mientras la reflexión produce una imagen especular.
+- [x] B) La rotación gira la figura alrededor de un punto, mientras la reflexión produce una imagen especular.
   <!-- feedback: La rotación conserva la orientación girando alrededor de un punto; la reflexión invierte la figura como un espejo. -->
-- [ ] B) La rotación cambia el tamaño de la figura y la reflexión no.
+- [ ] A) La rotación cambia el tamaño de la figura y la reflexión no.
   <!-- feedback: Ninguno de los dos movimientos cambia el tamaño de la figura. -->
 - [ ] C) La reflexión gira la figura y la rotación produce una imagen especular.
   <!-- feedback: Es al contrario: la rotación gira y la reflexión produce la imagen especular. -->
@@ -172,13 +172,13 @@ Analizar las diferencias entre rotación y reflexión como movimientos en el pla
 ¿Es correcta la afirmación del estudiante sobre los ejes de simetría del rectángulo?
 
 ### Opciones
-- [x] A) No, porque el rectángulo tiene 2 ejes de simetría y el cuadrado tiene 4.
+- [x] D) No, porque el rectángulo tiene 2 ejes de simetría y el cuadrado tiene 4.
   <!-- feedback: El rectángulo solo se divide en mitades iguales por sus ejes medios, no por sus diagonales. -->
-- [ ] B) Sí, porque toda figura de cuatro lados tiene 4 ejes de simetría.
+- [ ] A) Sí, porque toda figura de cuatro lados tiene 4 ejes de simetría.
   <!-- feedback: El número de ejes depende de la forma; no toda figura de cuatro lados tiene 4. -->
-- [ ] C) No, porque el rectángulo no tiene ningún eje de simetría.
+- [ ] B) No, porque el rectángulo no tiene ningún eje de simetría.
   <!-- feedback: El rectángulo sí tiene ejes de simetría, aunque menos que el cuadrado. -->
-- [ ] D) Sí, porque las diagonales del rectángulo también son ejes de simetría.
+- [ ] C) Sí, porque las diagonales del rectángulo también son ejes de simetría.
   <!-- feedback: Las diagonales del rectángulo no lo dividen en mitades coincidentes. -->
 
 ### Explicacion Pedagogica
@@ -195,9 +195,9 @@ Analizar y comparar los ejes de simetría del rectángulo con los del cuadrado.
 ¿Por qué es valioso comprender la rotación y la simetría en figuras planas?
 
 ### Opciones
-- [x] A) Porque permite reconocer patrones, diseñar formas y resolver problemas de orientación en objetos reales.
+- [x] B) Porque permite reconocer patrones, diseñar formas y resolver problemas de orientación en objetos reales.
   <!-- feedback: La rotación y la simetría se aplican en diseño, arte y ubicación espacial en la vida cotidiana. -->
-- [ ] B) Porque solo sirve para decorar cuadernos sin ninguna aplicación práctica.
+- [ ] A) Porque solo sirve para decorar cuadernos sin ninguna aplicación práctica.
   <!-- feedback: Estos conceptos tienen aplicaciones amplias en diseño, construcción y tecnología. -->
 - [ ] C) Porque su estudio se limita a dibujar figuras sin analizar sus propiedades.
   <!-- feedback: Estudiar estos movimientos implica analizar propiedades y relaciones espaciales. -->

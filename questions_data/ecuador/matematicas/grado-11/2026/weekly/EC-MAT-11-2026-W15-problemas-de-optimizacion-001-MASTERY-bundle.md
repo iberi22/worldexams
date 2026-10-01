@@ -35,9 +35,9 @@ bundle_index: 1
 En el contexto del cálculo diferencial, ¿qué significa optimizar una función?
 
 ### Opciones
-- [ ] A) Encontrar todos los puntos donde la función cruza el eje x.
+- [ ] B) Encontrar todos los puntos donde la función cruza el eje x.
   <!-- feedback: Incorrecto. Eso es buscar raíces. -->
-- [x] B) Determinar los valores máximos o mínimos de una función bajo ciertas condiciones.
+- [x] A) Determinar los valores máximos o mínimos de una función bajo ciertas condiciones.
   <!-- feedback: Correcto. La optimización busca el "mejor" valor (máximo beneficio, mínimo costo, etc.). -->
 - [ ] C) Simplificar la expresión algebraica de la función.
   <!-- feedback: Incorrecto. Eso es simplificación algebraica, no optimización funcional. -->
@@ -60,11 +60,11 @@ La optimización es la aplicación práctica de los extremos locales y globales 
 Al resolver un problema de optimización, ¿cuál es el propósito de la "función objetivo"?
 
 ### Opciones
-- [x] A) Es la magnitud que se desea maximizar o minimizar.
+- [x] C) Es la magnitud que se desea maximizar o minimizar.
   <!-- feedback: Correcto. Es la función principal sobre la cual aplicaremos la derivada para hallar sus extremos. -->
-- [ ] B) Es la restricción que limita los valores de las variables.
+- [ ] A) Es la restricción que limita los valores de las variables.
   <!-- feedback: Incorrecto. Eso se llama ecuación de restricción o ligadura. -->
-- [ ] C) Es la derivada de la función original.
+- [ ] B) Es la derivada de la función original.
   <!-- feedback: Incorrecto. La derivada es una herramienta, no la función objetivo en sí. -->
 - [ ] D) Es el intervalo de valores permitidos para la variable independiente.
   <!-- feedback: Incorrecto. Eso es el dominio del problema. -->
@@ -87,9 +87,9 @@ Si $x$ es el ancho de los dos lados perpendiculares a la pared, ¿cuál es la ex
 ### Opciones
 - [ ] A) $A = x(40 - x)$
   <!-- feedback: Incorrecto. No consideró que hay dos anchos $x$. -->
-- [x] B) $A = x(40 - 2x)$
+- [x] C) $A = x(40 - 2x)$
   <!-- feedback: Correcto. El largo es $40 - 2x$. El área es ancho por largo: $x(40-2x)$. -->
-- [ ] C) $A = 2x + 2y$
+- [ ] B) $A = 2x + 2y$
   <!-- feedback: Incorrecto. Esta es la fórmula del perímetro, no del área. -->
 - [ ] D) $A = x^2$
   <!-- feedback: Incorrecto. Esto asume un huerto cuadrado sin considerar la restricción de la malla. -->
@@ -141,11 +141,11 @@ Determine el valor de $x$ que maximiza el volumen de la caja.
 ### Opciones
 - [ ] A) $x = 3$ cm
   <!-- feedback: Incorrecto. Este valor anula la derivada pero resulta en un volumen menor o es un extremo del dominio. -->
-- [x] B) $x = 2$ cm
+- [x] D) $x = 2$ cm
   <!-- feedback: Correcto. $V(x) = x(12-2x)^2 = 4x^3 - 48x^2 + 144x$. $V'(x) = 12x^2 - 96x + 144 = 0$. Dividiendo por 12: $x^2 - 8x + 12 = 0 \Rightarrow (x-2)(x-6)=0$. Como $x<6$, la respuesta es 2. -->
-- [ ] C) $x = 4$ cm
+- [ ] B) $x = 4$ cm
   <!-- feedback: Incorrecto. En $x=4$, el volumen es menor que en $x=2$. -->
-- [ ] D) $x = 1$ cm
+- [ ] C) $x = 1$ cm
   <!-- feedback: Incorrecto. El volumen es positivo pero no es el máximo. -->
 
 ### Explicacion Pedagogica
@@ -166,9 +166,9 @@ Resolución del clásico problema de la caja de cartón aplicando el análisis d
 ### Opciones
 - [ ] A) $h = r$
   <!-- feedback: Incorrecto. Esta relación no es óptima para cilindros con tapa. -->
-- [x] B) $h = 2r$
+- [x] C) $h = 2r$
   <!-- feedback: Correcto. Para un volumen dado, el área superficial de un cilindro cerrado se minimiza cuando el diámetro es igual a la altura ($2r = h$). -->
-- [ ] C) $h = 4r$
+- [ ] B) $h = 4r$
   <!-- feedback: Incorrecto. Resulta en una lata muy delgada y alta con exceso de área lateral. -->
 - [ ] D) $h = \pi r$
   <!-- feedback: Incorrecto. Valor sin fundamento matemático en este problema de optimización. -->
@@ -189,9 +189,9 @@ Determinación de proporciones óptimas en envases industriales para reducir el 
 ¿Qué principio de la física se aplica para resolver este problema de optimización del tiempo?
 
 ### Opciones
-- [ ] A) Ley de Gravitación Universal.
+- [ ] B) Ley de Gravitación Universal.
   <!-- feedback: Incorrecto. No hay relación con fuerzas gravitatorias. -->
-- [x] B) Ley de Snell (o principio de tiempo mínimo).
+- [x] A) Ley de Snell (o principio de tiempo mínimo).
   <!-- feedback: Correcto. Aunque es un problema de cálculo, el resultado coincide con la refracción de la luz que busca el camino de menor tiempo. -->
 - [ ] C) Tercera Ley de Newton.
   <!-- feedback: Incorrecto. Relacionada con acción y reacción, no con optimización de rutas. -->
@@ -214,11 +214,11 @@ Conexión entre problemas de optimización de trayectorias y leyes fundamentales
 ¿Cuál es el precio de la entrada que maximiza el ingreso total?
 
 ### Opciones
-- [ ] A) $25
+- [ ] B) $25
   <!-- feedback: Incorrecto. Ingreso: $25 \cdot 450 = 11250$. -->
-- [ ] B) $30
+- [ ] C) $30
   <!-- feedback: Incorrecto. Ingreso: $30 \cdot 400 = 12000$. -->
-- [x] C) $35
+- [x] A) $35
   <!-- feedback: Correcto. Ingreso $I(x) = (20+x)(500-10x) = 10000 + 300x - 10x^2$. Derivada: $300 - 20x = 0 \Rightarrow x = 15$. Precio: $20+15 = 35$. -->
 - [ ] D) $40
   <!-- feedback: Incorrecto. Ingreso: $40 \cdot 300 = 12000$. Es menor que el máximo. -->
@@ -239,11 +239,11 @@ Aplicación del cálculo para encontrar el punto de equilibrio entre el precio u
 ¿Cuál es la variable que generalmente se utiliza para modelar este problema de costo mínimo?
 
 ### Opciones
-- [x] A) La distancia desde el punto directamente opuesto a la planta hasta donde el cable sale del agua.
+- [x] C) La distancia desde el punto directamente opuesto a la planta hasta donde el cable sale del agua.
   <!-- feedback: Correcto. Esta distancia $x$ permite definir el tramo hipotenusa (agua) y el tramo lineal (tierra). -->
-- [ ] B) La profundidad del río en el centro.
+- [ ] A) La profundidad del río en el centro.
   <!-- feedback: Incorrecto. No afecta la longitud del cable en un modelo 2D estándar. -->
-- [ ] C) La corriente del río en m/s.
+- [ ] B) La corriente del río en m/s.
   <!-- feedback: Incorrecto. Es un problema de geometría y costos, no de dinámica de fluidos. -->
 - [ ] D) El grosor del cable.
   <!-- feedback: Incorrecto. Se asume constante para el cálculo de la trayectoria óptima. -->
@@ -266,9 +266,9 @@ Estructuración de modelos de optimización para infraestructura utilizando el T
 ### Opciones
 - [ ] A) 4 m y 9 m
   <!-- feedback: Incorrecto. Perímetro: $2(4+9) = 26$ m. -->
-- [x] B) 6 m y 6 m
+- [x] C) 6 m y 6 m
   <!-- feedback: Correcto. Para un área fija, el rectángulo de perímetro mínimo es el cuadrado. $\sqrt{36} = 6$. Perímetro: $24$ m. -->
-- [ ] C) 3 m y 12 m
+- [ ] B) 3 m y 12 m
   <!-- feedback: Incorrecto. Perímetro: $2(3+12) = 30$ m. -->
 - [ ] D) 2 m y 18 m
   <!-- feedback: Incorrecto. Perímetro: $2(2+18) = 40$ m. -->
@@ -293,9 +293,9 @@ Deducción de que el cuadrado es el polígono de cuatro lados más eficiente en 
 ¿Cuál es el área máxima que puede tener dicho rectángulo?
 
 ### Opciones
-- [ ] A) 6 unidades²
+- [ ] B) 6 unidades²
   <!-- feedback: Incorrecto. Esta es el área del triángulo completo. -->
-- [x] B) 3 unidades²
+- [x] A) 3 unidades²
   <!-- feedback: Correcto. El área máxima de un rectángulo inscrito en un triángulo es siempre la mitad del área del triángulo: $(3 \cdot 4 / 2) / 2 = 3$. -->
 - [ ] C) 4 unidades²
   <!-- feedback: Incorrecto. Excede el límite de optimización para este caso. -->
@@ -320,11 +320,11 @@ Uso de la semejanza de triángulos para establecer la relación entre las variab
 ### Opciones
 - [ ] A) $C(x) = k(x^2 + 4xh)$
   <!-- feedback: Incorrecto. No consideró que la base y tapa son más caras. -->
-- [x] B) $C(x) = k(4x^2 + \frac{4000}{x})$
+- [x] D) $C(x) = k(4x^2 + \frac{4000}{x})$
   <!-- feedback: Correcto. Costo base/tapa: $2x^2 \cdot 2k = 4kx^2$. Costo lateral: $4xh \cdot k$. Como $V = x^2h = 1000 \Rightarrow h = 1000/x^2$. Costo lateral: $4k(1000/x) = 4000k/x$. -->
-- [ ] C) $C(x) = k(2x^2 + 4000/x)$
+- [ ] B) $C(x) = k(2x^2 + 4000/x)$
   <!-- feedback: Incorrecto. Error en la ponderación del costo de las tapas. -->
-- [ ] D) $C(x) = k(x^2 + 1000/x)$
+- [ ] C) $C(x) = k(x^2 + 1000/x)$
   <!-- feedback: Incorrecto. Modelo de costo incompleto. -->
 
 ### Explicacion Pedagogica
@@ -343,9 +343,9 @@ Modelado de problemas de optimización con costos diferenciados por tipo de supe
 ¿Qué función es más conveniente minimizar para simplificar los cálculos?
 
 ### Opciones
-- [ ] A) La función de la parábola $y = x^2$.
+- [ ] B) La función de la parábola $y = x^2$.
   <!-- feedback: Incorrecto. Esta función define la restricción, no el objetivo. -->
-- [x] B) El cuadrado de la distancia: $D^2 = (x-0)^2 + (y-5)^2$.
+- [x] A) El cuadrado de la distancia: $D^2 = (x-0)^2 + (y-5)^2$.
   <!-- feedback: Correcto. Minimizar el cuadrado de la distancia es equivalente a minimizar la distancia y evita trabajar con raíces cuadradas en la derivada. -->
 - [ ] C) La pendiente de la recta normal a la curva.
   <!-- feedback: Incorrecto. Aunque se puede usar para hallar el punto, no es la función objetivo primaria. -->
@@ -370,9 +370,9 @@ Técnica de simplificación de funciones objetivo (uso del cuadrado de la distan
 ### Opciones
 - [ ] A) $45^\circ$
   <!-- feedback: Incorrecto. No es el ángulo de eficiencia máxima para un trapecio. -->
-- [x] B) $60^\circ$
+- [x] C) $60^\circ$
   <!-- feedback: Correcto. El área máxima para un canal de tres lados iguales se obtiene cuando forma la mitad de un hexágono regular, lo que implica ángulos de $60^\circ$. -->
-- [ ] C) $30^\circ$
+- [ ] B) $30^\circ$
   <!-- feedback: Incorrecto. El canal resultaría demasiado ancho y poco profundo. -->
 - [ ] D) $90^\circ$
   <!-- feedback: Incorrecto. Esto formaría un rectángulo, que es menos eficiente que el trapecio óptimo. -->
@@ -393,9 +393,9 @@ Optimización de secciones hidráulicas para maximizar el caudal, aplicando trig
 ¿Cuántas unidades debe producir para obtener la utilidad máxima local?
 
 ### Opciones
-- [ ] A) 50 unidades
+- [ ] B) 50 unidades
   <!-- feedback: Incorrecto. En este punto la utilidad es decreciente. -->
-- [x] B) 150 unidades
+- [x] A) 150 unidades
   <!-- feedback: Correcto. $U'(x) = -3x^2 + 600x - 22500$. Para que 150 sea un punto crítico, la derivada debe ser cero. (Nota: Ajustando valores para raíces exactas). Si $U'(x) = -3(x-50)(x-150) = -3x^2 + 600x - 22500$. El máximo ocurre en $x=150$ ya que la parábola de la derivada abre hacia abajo entre sus raíces. -->
 - [ ] C) 200 unidades
   <!-- feedback: Incorrecto. Valor fuera de la zona de utilidad máxima. -->
@@ -420,11 +420,11 @@ Análisis de funciones de utilidad de tercer grado, identificando el máximo rel
 ### Opciones
 - [ ] A) Para asegurar que el punto crítico es una raíz de la función.
   <!-- feedback: Incorrecto. No buscamos raíces, buscamos extremos. -->
-- [x] B) Para confirmar si el punto hallado es efectivamente un máximo o un mínimo, según lo solicitado.
+- [x] D) Para confirmar si el punto hallado es efectivamente un máximo o un mínimo, según lo solicitado.
   <!-- feedback: Correcto. Un punto crítico solo indica un posible extremo; la concavidad confirma su naturaleza. -->
-- [ ] C) Para simplificar el resultado final.
+- [ ] B) Para simplificar el resultado final.
   <!-- feedback: Incorrecto. No tiene fines de simplificación. -->
-- [ ] D) Para verificar si la función es continua.
+- [ ] C) Para verificar si la función es continua.
   <!-- feedback: Incorrecto. Se asume continuidad para aplicar las reglas de derivación. -->
 
 ### Explicacion Pedagogica
@@ -449,9 +449,9 @@ Importancia del rigor matemático al clasificar puntos críticos para evitar err
 ### Opciones
 - [ ] A) $h = 3$
   <!-- feedback: Incorrecto. Valor igual al radio de la esfera, no optimiza el volumen. -->
-- [x] B) $h = 2\sqrt{3}$
+- [x] C) $h = 2\sqrt{3}$
   <!-- feedback: Correcto. El volumen $V = \pi r^2 h$. Por Pitágoras, $r^2 + (h/2)^2 = R^2 \Rightarrow r^2 = R^2 - h^2/4$. $V(h) = \pi h (R^2 - h^2/4)$. $V'(h) = \pi (R^2 - 3h^2/4) = 0 \Rightarrow h = 2R/\sqrt{3}$. Para $R=3$, $h = 6/\sqrt{3} = 2\sqrt{3}$. -->
-- [ ] C) $h = \sqrt{3}$
+- [ ] B) $h = \sqrt{3}$
   <!-- feedback: Incorrecto. Olvidó el factor 2 en la relación de altura. -->
 - [ ] D) $h = 2$
   <!-- feedback: Incorrecto. Estimación sin fundamento en el análisis de derivadas. -->
@@ -499,11 +499,11 @@ Uso del cálculo diferencial para demostrar leyes físicas clásicas a partir de
 ### Opciones
 - [ ] A) $x = 100$, Costo = $15000$
   <!-- feedback: Incorrecto. El costo unitario por pedido es muy alto. -->
-- [x] B) $x = 500$, Costo = $12000$
+- [x] D) $x = 500$, Costo = $12000$
   <!-- feedback: Correcto. $C'(x) = -500000/x^2 + 2 = 0 \Rightarrow 2x^2 = 500000 \Rightarrow x^2 = 250000 \Rightarrow x = 500$. Costo: $500000/500 + 2(500) + 10000 = 1000 + 1000 + 10000 = 12000$. -->
-- [ ] C) $x = 1000$, Costo = $12500$
+- [ ] B) $x = 1000$, Costo = $12500$
   <!-- feedback: Incorrecto. Supera el punto de equilibrio de costos de almacenamiento. -->
-- [ ] D) $x = 250$, Costo = $12500$
+- [ ] C) $x = 250$, Costo = $12500$
   <!-- feedback: Incorrecto. Costos de pedido demasiado elevados. -->
 
 ### Explicacion Pedagogica

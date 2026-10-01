@@ -36,10 +36,10 @@ Este bundle aborda contenidos curriculares prioritarios de Ecología, Ecosistema
 ¿Cuál de las siguientes definiciones describe correctamente el concepto de $Niveles Tróficos$ en el marco de Biología - Ecología?
 
 ### Opciones
-- [x] A) Constituye un principio fundamental de Biología - Ecología que explica el comportamiento del sistema según las leyes de la naturaleza. <!-- feedback: Correcto. La definición de $Niveles Tróficos$ corresponde con los principios teóricos de Biología - Ecología. -->
-- [ ] B) Representa un fenómeno aislado sin relación con las leyes de conservación en Biología. <!-- feedback: Incorrecto. El concepto de $Niveles Tróficos$ está íntimamente ligado a las leyes de Biología. -->
-- [ ] C) Es una magnitud exclusivamente teórica que no se puede medir experimentalmente en el laboratorio. <!-- feedback: Incorrecto. Es una propiedad medible y verificable. -->
-- [ ] D) Corresponde únicamente a procesos ocurridos a altas temperaturas fuera del MKS. <!-- feedback: Incorrecto. Se aplica de forma general bajo condiciones estándar MKS. -->
+- [x] D) Constituye un principio fundamental de Biología - Ecología que explica el comportamiento del sistema según las leyes de la naturaleza. <!-- feedback: Correcto. La definición de $Niveles Tróficos$ corresponde con los principios teóricos de Biología - Ecología. -->
+- [ ] A) Representa un fenómeno aislado sin relación con las leyes de conservación en Biología. <!-- feedback: Incorrecto. El concepto de $Niveles Tróficos$ está íntimamente ligado a las leyes de Biología. -->
+- [ ] B) Es una magnitud exclusivamente teórica que no se puede medir experimentalmente en el laboratorio. <!-- feedback: Incorrecto. Es una propiedad medible y verificable. -->
+- [ ] C) Corresponde únicamente a procesos ocurridos a altas temperaturas fuera del MKS. <!-- feedback: Incorrecto. Se aplica de forma general bajo condiciones estándar MKS. -->
 
 ### Explicacion Pedagogica
 El estudio de Niveles Tróficos es clave para comprender los fundamentos teóricos y prácticos de Biología - Ecología.
@@ -57,9 +57,9 @@ El estudio de Niveles Tróficos es clave para comprender los fundamentos teóric
 ¿Cuál de las siguientes definiciones describe correctamente el concepto de $Flujo de Energía$ en el marco de Biología - Ecología?
 
 ### Opciones
-- [x] A) Constituye un principio fundamental de Biología - Ecología que explica el comportamiento del sistema según las leyes de la naturaleza. <!-- feedback: Correcto. La definición de $Flujo de Energía$ corresponde con los principios teóricos de Biología - Ecología. -->
-- [ ] B) Representa un fenómeno aislado sin relación con las leyes de conservación en Biología. <!-- feedback: Incorrecto. El concepto de $Flujo de Energía$ está íntimamente ligado a las leyes de Biología. -->
-- [ ] C) Es una magnitud exclusivamente teórica que no se puede medir experimentalmente en el laboratorio. <!-- feedback: Incorrecto. Es una propiedad medible y verificable. -->
+- [x] C) Constituye un principio fundamental de Biología - Ecología que explica el comportamiento del sistema según las leyes de la naturaleza. <!-- feedback: Correcto. La definición de $Flujo de Energía$ corresponde con los principios teóricos de Biología - Ecología. -->
+- [ ] A) Representa un fenómeno aislado sin relación con las leyes de conservación en Biología. <!-- feedback: Incorrecto. El concepto de $Flujo de Energía$ está íntimamente ligado a las leyes de Biología. -->
+- [ ] B) Es una magnitud exclusivamente teórica que no se puede medir experimentalmente en el laboratorio. <!-- feedback: Incorrecto. Es una propiedad medible y verificable. -->
 - [ ] D) Corresponde únicamente a procesos ocurridos a altas temperaturas fuera del MKS. <!-- feedback: Incorrecto. Se aplica de forma general bajo condiciones estándar MKS. -->
 
 ### Explicacion Pedagogica
@@ -78,10 +78,10 @@ El estudio de Flujo de Energía es clave para comprender los fundamentos teóric
 En una experiencia de laboratorio en Buenos Aires, un estudiante analiza el fenómeno de $Ciclos Biogeoquímicos$. ¿Qué comportamiento se espera observar?
 
 ### Opciones
-- [x] A) El sistema responde de forma proporcional a las variables involucradas manteniendo la consistencia teórica de $Ciclos Biogeoquímicos$. <!-- feedback: Correcto. La respuesta del sistema refleja la ley física/química de $Ciclos Biogeoquímicos$. -->
-- [ ] B) El sistema permanece completamente inerte sin registrar variación alguna. <!-- feedback: Incorrecto. Las variables se modifican según las ecuaciones del modelo. -->
-- [ ] C) Se produce una pérdida total de masa violando las leyes de conservación. <!-- feedback: Incorrecto. Las leyes de conservación se cumplen siempre. -->
-- [ ] D) La magnitud medida oscila aleatoriamente sin patrón definido. <!-- feedback: Incorrecto. El fenómeno sigue un patrón determinista bien definido. -->
+- [x] D) El sistema responde de forma proporcional a las variables involucradas manteniendo la consistencia teórica de $Ciclos Biogeoquímicos$. <!-- feedback: Correcto. La respuesta del sistema refleja la ley física/química de $Ciclos Biogeoquímicos$. -->
+- [ ] A) El sistema permanece completamente inerte sin registrar variación alguna. <!-- feedback: Incorrecto. Las variables se modifican según las ecuaciones del modelo. -->
+- [ ] B) Se produce una pérdida total de masa violando las leyes de conservación. <!-- feedback: Incorrecto. Las leyes de conservación se cumplen siempre. -->
+- [ ] C) La magnitud medida oscila aleatoriamente sin patrón definido. <!-- feedback: Incorrecto. El fenómeno sigue un patrón determinista bien definido. -->
 
 ### Explicacion Pedagogica
 Las observaciones experimentales confirman las predicciones del modelo teórico de Ciclos Biogeoquímicos.
@@ -99,10 +99,10 @@ Las observaciones experimentales confirman las predicciones del modelo teórico 
 En una experiencia de laboratorio en Buenos Aires, un estudiante analiza el fenómeno de $Biodiversidad$. ¿Qué comportamiento se espera observar?
 
 ### Opciones
-- [x] A) El sistema responde de forma proporcional a las variables involucradas manteniendo la consistencia teórica de $Biodiversidad$. <!-- feedback: Correcto. La respuesta del sistema refleja la ley física/química de $Biodiversidad$. -->
-- [ ] B) El sistema permanece completamente inerte sin registrar variación alguna. <!-- feedback: Incorrecto. Las variables se modifican según las ecuaciones del modelo. -->
-- [ ] C) Se produce una pérdida total de masa violando las leyes de conservación. <!-- feedback: Incorrecto. Las leyes de conservación se cumplen siempre. -->
-- [ ] D) La magnitud medida oscila aleatoriamente sin patrón definido. <!-- feedback: Incorrecto. El fenómeno sigue un patrón determinista bien definido. -->
+- [x] D) El sistema responde de forma proporcional a las variables involucradas manteniendo la consistencia teórica de $Biodiversidad$. <!-- feedback: Correcto. La respuesta del sistema refleja la ley física/química de $Biodiversidad$. -->
+- [ ] A) El sistema permanece completamente inerte sin registrar variación alguna. <!-- feedback: Incorrecto. Las variables se modifican según las ecuaciones del modelo. -->
+- [ ] B) Se produce una pérdida total de masa violando las leyes de conservación. <!-- feedback: Incorrecto. Las leyes de conservación se cumplen siempre. -->
+- [ ] C) La magnitud medida oscila aleatoriamente sin patrón definido. <!-- feedback: Incorrecto. El fenómeno sigue un patrón determinista bien definido. -->
 
 ### Explicacion Pedagogica
 Las observaciones experimentales confirman las predicciones del modelo teórico de Biodiversidad.
@@ -120,9 +120,9 @@ Las observaciones experimentales confirman las predicciones del modelo teórico 
 Un equipo de investigación en Córdoba aplica el concepto de $Impacto Ambiental y Cambio Climático$ para resolver un problema práctico de Biología - Ecología. ¿Cuál es la relación matemática o lógica correcta?
 
 ### Opciones
-- [x] A) Se aplica la ecuación correspondiente a $Impacto Ambiental y Cambio Climático$, donde las magnitudes se relacionan de forma directa o inversamente proporcional según la ley de Biología. <!-- feedback: Correcto. Refleja la formulación correcta para $Impacto Ambiental y Cambio Climático$. -->
-- [ ] B) Se suman de forma arbitraria todas las variables sin considerar sus unidades de medida. <!-- feedback: Incorrecto. Las unidades deben ser consistentes en el sistema SI. -->
-- [ ] C) Se ignora la influencia de las condiciones iniciales del experimento. <!-- feedback: Incorrecto. Las condiciones iniciales determinan la solución del sistema. -->
+- [x] C) Se aplica la ecuación correspondiente a $Impacto Ambiental y Cambio Climático$, donde las magnitudes se relacionan de forma directa o inversamente proporcional según la ley de Biología. <!-- feedback: Correcto. Refleja la formulación correcta para $Impacto Ambiental y Cambio Climático$. -->
+- [ ] A) Se suman de forma arbitraria todas las variables sin considerar sus unidades de medida. <!-- feedback: Incorrecto. Las unidades deben ser consistentes en el sistema SI. -->
+- [ ] B) Se ignora la influencia de las condiciones iniciales del experimento. <!-- feedback: Incorrecto. Las condiciones iniciales determinan la solución del sistema. -->
 - [ ] D) Se asume que la constante del proceso es igual a cero en todo instante. <!-- feedback: Incorrecto. Las constantes del sistema tienen valores finitos y definidos. -->
 
 ### Explicacion Pedagogica
@@ -141,9 +141,9 @@ La aplicación cuantitativa de Impacto Ambiental y Cambio Climático requiere el
 Un equipo de investigación en Córdoba aplica el concepto de $Niveles Tróficos$ para resolver un problema práctico de Biología - Ecología. ¿Cuál es la relación matemática o lógica correcta?
 
 ### Opciones
-- [x] A) Se aplica la ecuación correspondiente a $Niveles Tróficos$, donde las magnitudes se relacionan de forma directa o inversamente proporcional según la ley de Biología. <!-- feedback: Correcto. Refleja la formulación correcta para $Niveles Tróficos$. -->
-- [ ] B) Se suman de forma arbitraria todas las variables sin considerar sus unidades de medida. <!-- feedback: Incorrecto. Las unidades deben ser consistentes en el sistema SI. -->
-- [ ] C) Se ignora la influencia de las condiciones iniciales del experimento. <!-- feedback: Incorrecto. Las condiciones iniciales determinan la solución del sistema. -->
+- [x] C) Se aplica la ecuación correspondiente a $Niveles Tróficos$, donde las magnitudes se relacionan de forma directa o inversamente proporcional según la ley de Biología. <!-- feedback: Correcto. Refleja la formulación correcta para $Niveles Tróficos$. -->
+- [ ] A) Se suman de forma arbitraria todas las variables sin considerar sus unidades de medida. <!-- feedback: Incorrecto. Las unidades deben ser consistentes en el sistema SI. -->
+- [ ] B) Se ignora la influencia de las condiciones iniciales del experimento. <!-- feedback: Incorrecto. Las condiciones iniciales determinan la solución del sistema. -->
 - [ ] D) Se asume que la constante del proceso es igual a cero en todo instante. <!-- feedback: Incorrecto. Las constantes del sistema tienen valores finitos y definidos. -->
 
 ### Explicacion Pedagogica
@@ -183,9 +183,9 @@ La aplicación cuantitativa de Flujo de Energía requiere el uso riguroso de las
 Un equipo de investigación en Córdoba aplica el concepto de $Ciclos Biogeoquímicos$ para resolver un problema práctico de Biología - Ecología. ¿Cuál es la relación matemática o lógica correcta?
 
 ### Opciones
-- [x] A) Se aplica la ecuación correspondiente a $Ciclos Biogeoquímicos$, donde las magnitudes se relacionan de forma directa o inversamente proporcional según la ley de Biología. <!-- feedback: Correcto. Refleja la formulación correcta para $Ciclos Biogeoquímicos$. -->
-- [ ] B) Se suman de forma arbitraria todas las variables sin considerar sus unidades de medida. <!-- feedback: Incorrecto. Las unidades deben ser consistentes en el sistema SI. -->
-- [ ] C) Se ignora la influencia de las condiciones iniciales del experimento. <!-- feedback: Incorrecto. Las condiciones iniciales determinan la solución del sistema. -->
+- [x] C) Se aplica la ecuación correspondiente a $Ciclos Biogeoquímicos$, donde las magnitudes se relacionan de forma directa o inversamente proporcional según la ley de Biología. <!-- feedback: Correcto. Refleja la formulación correcta para $Ciclos Biogeoquímicos$. -->
+- [ ] A) Se suman de forma arbitraria todas las variables sin considerar sus unidades de medida. <!-- feedback: Incorrecto. Las unidades deben ser consistentes en el sistema SI. -->
+- [ ] B) Se ignora la influencia de las condiciones iniciales del experimento. <!-- feedback: Incorrecto. Las condiciones iniciales determinan la solución del sistema. -->
 - [ ] D) Se asume que la constante del proceso es igual a cero en todo instante. <!-- feedback: Incorrecto. Las constantes del sistema tienen valores finitos y definidos. -->
 
 ### Explicacion Pedagogica
@@ -204,9 +204,9 @@ La aplicación cuantitativa de Ciclos Biogeoquímicos requiere el uso riguroso d
 Un equipo de investigación en Córdoba aplica el concepto de $Biodiversidad$ para resolver un problema práctico de Biología - Ecología. ¿Cuál es la relación matemática o lógica correcta?
 
 ### Opciones
-- [x] A) Se aplica la ecuación correspondiente a $Biodiversidad$, donde las magnitudes se relacionan de forma directa o inversamente proporcional según la ley de Biología. <!-- feedback: Correcto. Refleja la formulación correcta para $Biodiversidad$. -->
-- [ ] B) Se suman de forma arbitraria todas las variables sin considerar sus unidades de medida. <!-- feedback: Incorrecto. Las unidades deben ser consistentes en el sistema SI. -->
-- [ ] C) Se ignora la influencia de las condiciones iniciales del experimento. <!-- feedback: Incorrecto. Las condiciones iniciales determinan la solución del sistema. -->
+- [x] C) Se aplica la ecuación correspondiente a $Biodiversidad$, donde las magnitudes se relacionan de forma directa o inversamente proporcional según la ley de Biología. <!-- feedback: Correcto. Refleja la formulación correcta para $Biodiversidad$. -->
+- [ ] A) Se suman de forma arbitraria todas las variables sin considerar sus unidades de medida. <!-- feedback: Incorrecto. Las unidades deben ser consistentes en el sistema SI. -->
+- [ ] B) Se ignora la influencia de las condiciones iniciales del experimento. <!-- feedback: Incorrecto. Las condiciones iniciales determinan la solución del sistema. -->
 - [ ] D) Se asume que la constante del proceso es igual a cero en todo instante. <!-- feedback: Incorrecto. Las constantes del sistema tienen valores finitos y definidos. -->
 
 ### Explicacion Pedagogica
@@ -225,10 +225,10 @@ La aplicación cuantitativa de Biodiversidad requiere el uso riguroso de las ecu
 Un equipo de investigación en Córdoba aplica el concepto de $Impacto Ambiental y Cambio Climático$ para resolver un problema práctico de Biología - Ecología. ¿Cuál es la relación matemática o lógica correcta?
 
 ### Opciones
-- [x] A) Se aplica la ecuación correspondiente a $Impacto Ambiental y Cambio Climático$, donde las magnitudes se relacionan de forma directa o inversamente proporcional según la ley de Biología. <!-- feedback: Correcto. Refleja la formulación correcta para $Impacto Ambiental y Cambio Climático$. -->
-- [ ] B) Se suman de forma arbitraria todas las variables sin considerar sus unidades de medida. <!-- feedback: Incorrecto. Las unidades deben ser consistentes en el sistema SI. -->
-- [ ] C) Se ignora la influencia de las condiciones iniciales del experimento. <!-- feedback: Incorrecto. Las condiciones iniciales determinan la solución del sistema. -->
-- [ ] D) Se asume que la constante del proceso es igual a cero en todo instante. <!-- feedback: Incorrecto. Las constantes del sistema tienen valores finitos y definidos. -->
+- [x] D) Se aplica la ecuación correspondiente a $Impacto Ambiental y Cambio Climático$, donde las magnitudes se relacionan de forma directa o inversamente proporcional según la ley de Biología. <!-- feedback: Correcto. Refleja la formulación correcta para $Impacto Ambiental y Cambio Climático$. -->
+- [ ] A) Se suman de forma arbitraria todas las variables sin considerar sus unidades de medida. <!-- feedback: Incorrecto. Las unidades deben ser consistentes en el sistema SI. -->
+- [ ] B) Se ignora la influencia de las condiciones iniciales del experimento. <!-- feedback: Incorrecto. Las condiciones iniciales determinan la solución del sistema. -->
+- [ ] C) Se asume que la constante del proceso es igual a cero en todo instante. <!-- feedback: Incorrecto. Las constantes del sistema tienen valores finitos y definidos. -->
 
 ### Explicacion Pedagogica
 La aplicación cuantitativa de Impacto Ambiental y Cambio Climático requiere el uso riguroso de las ecuaciones de Biología - Ecología.
@@ -246,8 +246,8 @@ La aplicación cuantitativa de Impacto Ambiental y Cambio Climático requiere el
 Al analizar detalladamente las variables que intervienen en $Niveles Tróficos$ dentro de Biología - Ecología, se observa una variación en el estado inicial. ¿Cuál es la deducción analítica correcta?
 
 ### Opciones
-- [x] A) El cambio en las variables modifica el estado final según las restricciones impuestas por $Niveles Tróficos$ y las leyes de Biología. <!-- feedback: Correcto. El análisis deductivo confirma el impacto directo sobre el estado final. -->
-- [ ] B) El estado final es independiente de cualquier cambio realizado en el estado inicial. <!-- feedback: Incorrecto. Existe una dependencia funcional entre las condiciones iniciales y finales. -->
+- [x] B) El cambio en las variables modifica el estado final según las restricciones impuestas por $Niveles Tróficos$ y las leyes de Biología. <!-- feedback: Correcto. El análisis deductivo confirma el impacto directo sobre el estado final. -->
+- [ ] A) El estado final es independiente de cualquier cambio realizado en el estado inicial. <!-- feedback: Incorrecto. Existe una dependencia funcional entre las condiciones iniciales y finales. -->
 - [ ] C) Se rompe el equilibrio del sistema de forma irreversible sin posibilidad de balance. <!-- feedback: Incorrecto. El balance se mantiene bajo las leyes de conservación. -->
 - [ ] D) La energía o materia total aumenta exponencialmente sin fuente externa. <!-- feedback: Incorrecto. No se puede crear masa ni energía de la nada. -->
 
@@ -267,10 +267,10 @@ El análisis analítico de Niveles Tróficos demuestra la coherencia interna de 
 Al analizar detalladamente las variables que intervienen en $Flujo de Energía$ dentro de Biología - Ecología, se observa una variación en el estado inicial. ¿Cuál es la deducción analítica correcta?
 
 ### Opciones
-- [x] A) El cambio en las variables modifica el estado final según las restricciones impuestas por $Flujo de Energía$ y las leyes de Biología. <!-- feedback: Correcto. El análisis deductivo confirma el impacto directo sobre el estado final. -->
-- [ ] B) El estado final es independiente de cualquier cambio realizado en el estado inicial. <!-- feedback: Incorrecto. Existe una dependencia funcional entre las condiciones iniciales y finales. -->
-- [ ] C) Se rompe el equilibrio del sistema de forma irreversible sin posibilidad de balance. <!-- feedback: Incorrecto. El balance se mantiene bajo las leyes de conservación. -->
-- [ ] D) La energía o materia total aumenta exponencialmente sin fuente externa. <!-- feedback: Incorrecto. No se puede crear masa ni energía de la nada. -->
+- [x] D) El cambio en las variables modifica el estado final según las restricciones impuestas por $Flujo de Energía$ y las leyes de Biología. <!-- feedback: Correcto. El análisis deductivo confirma el impacto directo sobre el estado final. -->
+- [ ] A) El estado final es independiente de cualquier cambio realizado en el estado inicial. <!-- feedback: Incorrecto. Existe una dependencia funcional entre las condiciones iniciales y finales. -->
+- [ ] B) Se rompe el equilibrio del sistema de forma irreversible sin posibilidad de balance. <!-- feedback: Incorrecto. El balance se mantiene bajo las leyes de conservación. -->
+- [ ] C) La energía o materia total aumenta exponencialmente sin fuente externa. <!-- feedback: Incorrecto. No se puede crear masa ni energía de la nada. -->
 
 ### Explicacion Pedagogica
 El análisis analítico de Flujo de Energía demuestra la coherencia interna de los modelos en Biología - Ecología.
@@ -288,10 +288,10 @@ El análisis analítico de Flujo de Energía demuestra la coherencia interna de 
 Al analizar detalladamente las variables que intervienen en $Ciclos Biogeoquímicos$ dentro de Biología - Ecología, se observa una variación en el estado inicial. ¿Cuál es la deducción analítica correcta?
 
 ### Opciones
-- [x] A) El cambio en las variables modifica el estado final según las restricciones impuestas por $Ciclos Biogeoquímicos$ y las leyes de Biología. <!-- feedback: Correcto. El análisis deductivo confirma el impacto directo sobre el estado final. -->
-- [ ] B) El estado final es independiente de cualquier cambio realizado en el estado inicial. <!-- feedback: Incorrecto. Existe una dependencia funcional entre las condiciones iniciales y finales. -->
-- [ ] C) Se rompe el equilibrio del sistema de forma irreversible sin posibilidad de balance. <!-- feedback: Incorrecto. El balance se mantiene bajo las leyes de conservación. -->
-- [ ] D) La energía o materia total aumenta exponencialmente sin fuente externa. <!-- feedback: Incorrecto. No se puede crear masa ni energía de la nada. -->
+- [x] D) El cambio en las variables modifica el estado final según las restricciones impuestas por $Ciclos Biogeoquímicos$ y las leyes de Biología. <!-- feedback: Correcto. El análisis deductivo confirma el impacto directo sobre el estado final. -->
+- [ ] A) El estado final es independiente de cualquier cambio realizado en el estado inicial. <!-- feedback: Incorrecto. Existe una dependencia funcional entre las condiciones iniciales y finales. -->
+- [ ] B) Se rompe el equilibrio del sistema de forma irreversible sin posibilidad de balance. <!-- feedback: Incorrecto. El balance se mantiene bajo las leyes de conservación. -->
+- [ ] C) La energía o materia total aumenta exponencialmente sin fuente externa. <!-- feedback: Incorrecto. No se puede crear masa ni energía de la nada. -->
 
 ### Explicacion Pedagogica
 El análisis analítico de Ciclos Biogeoquímicos demuestra la coherencia interna de los modelos en Biología - Ecología.
@@ -330,10 +330,10 @@ El análisis analítico de Biodiversidad demuestra la coherencia interna de los 
 Al analizar detalladamente las variables que intervienen en $Impacto Ambiental y Cambio Climático$ dentro de Biología - Ecología, se observa una variación en el estado inicial. ¿Cuál es la deducción analítica correcta?
 
 ### Opciones
-- [x] A) El cambio en las variables modifica el estado final según las restricciones impuestas por $Impacto Ambiental y Cambio Climático$ y las leyes de Biología. <!-- feedback: Correcto. El análisis deductivo confirma el impacto directo sobre el estado final. -->
-- [ ] B) El estado final es independiente de cualquier cambio realizado en el estado inicial. <!-- feedback: Incorrecto. Existe una dependencia funcional entre las condiciones iniciales y finales. -->
-- [ ] C) Se rompe el equilibrio del sistema de forma irreversible sin posibilidad de balance. <!-- feedback: Incorrecto. El balance se mantiene bajo las leyes de conservación. -->
-- [ ] D) La energía o materia total aumenta exponencialmente sin fuente externa. <!-- feedback: Incorrecto. No se puede crear masa ni energía de la nada. -->
+- [x] D) El cambio en las variables modifica el estado final según las restricciones impuestas por $Impacto Ambiental y Cambio Climático$ y las leyes de Biología. <!-- feedback: Correcto. El análisis deductivo confirma el impacto directo sobre el estado final. -->
+- [ ] A) El estado final es independiente de cualquier cambio realizado en el estado inicial. <!-- feedback: Incorrecto. Existe una dependencia funcional entre las condiciones iniciales y finales. -->
+- [ ] B) Se rompe el equilibrio del sistema de forma irreversible sin posibilidad de balance. <!-- feedback: Incorrecto. El balance se mantiene bajo las leyes de conservación. -->
+- [ ] C) La energía o materia total aumenta exponencialmente sin fuente externa. <!-- feedback: Incorrecto. No se puede crear masa ni energía de la nada. -->
 
 ### Explicacion Pedagogica
 El análisis analítico de Impacto Ambiental y Cambio Climático demuestra la coherencia interna de los modelos en Biología - Ecología.
@@ -351,9 +351,9 @@ El análisis analítico de Impacto Ambiental y Cambio Climático demuestra la co
 Al analizar detalladamente las variables que intervienen en $Niveles Tróficos$ dentro de Biología - Ecología, se observa una variación en el estado inicial. ¿Cuál es la deducción analítica correcta?
 
 ### Opciones
-- [x] A) El cambio en las variables modifica el estado final según las restricciones impuestas por $Niveles Tróficos$ y las leyes de Biología. <!-- feedback: Correcto. El análisis deductivo confirma el impacto directo sobre el estado final. -->
-- [ ] B) El estado final es independiente de cualquier cambio realizado en el estado inicial. <!-- feedback: Incorrecto. Existe una dependencia funcional entre las condiciones iniciales y finales. -->
-- [ ] C) Se rompe el equilibrio del sistema de forma irreversible sin posibilidad de balance. <!-- feedback: Incorrecto. El balance se mantiene bajo las leyes de conservación. -->
+- [x] C) El cambio en las variables modifica el estado final según las restricciones impuestas por $Niveles Tróficos$ y las leyes de Biología. <!-- feedback: Correcto. El análisis deductivo confirma el impacto directo sobre el estado final. -->
+- [ ] A) El estado final es independiente de cualquier cambio realizado en el estado inicial. <!-- feedback: Incorrecto. Existe una dependencia funcional entre las condiciones iniciales y finales. -->
+- [ ] B) Se rompe el equilibrio del sistema de forma irreversible sin posibilidad de balance. <!-- feedback: Incorrecto. El balance se mantiene bajo las leyes de conservación. -->
 - [ ] D) La energía o materia total aumenta exponencialmente sin fuente externa. <!-- feedback: Incorrecto. No se puede crear masa ni energía de la nada. -->
 
 ### Explicacion Pedagogica
@@ -372,8 +372,8 @@ El análisis analítico de Niveles Tróficos demuestra la coherencia interna de 
 Se propone un modelo avanzado para evaluar la eficiencia de un proceso basado en $Flujo de Energía$ en Biología - Ecología. Evaluá cuál de las siguientes afirmaciones juzga correctamente la validez del modelo.
 
 ### Opciones
-- [x] A) El modelo es válido porque respeta estrictamente los principios de conservación y las relaciones cuantitativas de $Flujo de Energía$. <!-- feedback: Correcto. La evaluación fundamentada confirma la solidez del modelo para $Flujo de Energía$. -->
-- [ ] B) El modelo es inválido porque invalida las leyes universales de la termodinámica y la masa. <!-- feedback: Incorrecto. El modelo propuesto cumple con los principios universales de la ciencia. -->
+- [x] B) El modelo es válido porque respeta estrictamente los principios de conservación y las relaciones cuantitativas de $Flujo de Energía$. <!-- feedback: Correcto. La evaluación fundamentada confirma la solidez del modelo para $Flujo de Energía$. -->
+- [ ] A) El modelo es inválido porque invalida las leyes universales de la termodinámica y la masa. <!-- feedback: Incorrecto. El modelo propuesto cumple con los principios universales de la ciencia. -->
 - [ ] C) El modelo sólo funciona si se desestiman las unidades del Sistema Internacional. <!-- feedback: Incorrecto. Debe operar de forma consistente en el Sistema Internacional. -->
 - [ ] D) El modelo presenta inconsistencias graves al asumir que el rendimiento puede superar el 100%. <!-- feedback: Incorrecto. El modelo respeta el límite físico del 100% de eficiencia. -->
 
@@ -393,10 +393,10 @@ La evaluación crítica de modelos en Biología - Ecología exige verificar el c
 Se propone un modelo avanzado para evaluar la eficiencia de un proceso basado en $Ciclos Biogeoquímicos$ en Biología - Ecología. Evaluá cuál de las siguientes afirmaciones juzga correctamente la validez del modelo.
 
 ### Opciones
-- [x] A) El modelo es válido porque respeta estrictamente los principios de conservación y las relaciones cuantitativas de $Ciclos Biogeoquímicos$. <!-- feedback: Correcto. La evaluación fundamentada confirma la solidez del modelo para $Ciclos Biogeoquímicos$. -->
-- [ ] B) El modelo es inválido porque invalida las leyes universales de la termodinámica y la masa. <!-- feedback: Incorrecto. El modelo propuesto cumple con los principios universales de la ciencia. -->
-- [ ] C) El modelo sólo funciona si se desestiman las unidades del Sistema Internacional. <!-- feedback: Incorrecto. Debe operar de forma consistente en el Sistema Internacional. -->
-- [ ] D) El modelo presenta inconsistencias graves al asumir que el rendimiento puede superar el 100%. <!-- feedback: Incorrecto. El modelo respeta el límite físico del 100% de eficiencia. -->
+- [x] D) El modelo es válido porque respeta estrictamente los principios de conservación y las relaciones cuantitativas de $Ciclos Biogeoquímicos$. <!-- feedback: Correcto. La evaluación fundamentada confirma la solidez del modelo para $Ciclos Biogeoquímicos$. -->
+- [ ] A) El modelo es inválido porque invalida las leyes universales de la termodinámica y la masa. <!-- feedback: Incorrecto. El modelo propuesto cumple con los principios universales de la ciencia. -->
+- [ ] B) El modelo sólo funciona si se desestiman las unidades del Sistema Internacional. <!-- feedback: Incorrecto. Debe operar de forma consistente en el Sistema Internacional. -->
+- [ ] C) El modelo presenta inconsistencias graves al asumir que el rendimiento puede superar el 100%. <!-- feedback: Incorrecto. El modelo respeta el límite físico del 100% de eficiencia. -->
 
 ### Explicacion Pedagogica
 La evaluación crítica de modelos en Biología - Ecología exige verificar el cumplimiento de los límites teóricos de Ciclos Biogeoquímicos.
@@ -414,8 +414,8 @@ La evaluación crítica de modelos en Biología - Ecología exige verificar el c
 Se propone un modelo avanzado para evaluar la eficiencia de un proceso basado en $Biodiversidad$ en Biología - Ecología. Evaluá cuál de las siguientes afirmaciones juzga correctamente la validez del modelo.
 
 ### Opciones
-- [x] A) El modelo es válido porque respeta estrictamente los principios de conservación y las relaciones cuantitativas de $Biodiversidad$. <!-- feedback: Correcto. La evaluación fundamentada confirma la solidez del modelo para $Biodiversidad$. -->
-- [ ] B) El modelo es inválido porque invalida las leyes universales de la termodinámica y la masa. <!-- feedback: Incorrecto. El modelo propuesto cumple con los principios universales de la ciencia. -->
+- [x] B) El modelo es válido porque respeta estrictamente los principios de conservación y las relaciones cuantitativas de $Biodiversidad$. <!-- feedback: Correcto. La evaluación fundamentada confirma la solidez del modelo para $Biodiversidad$. -->
+- [ ] A) El modelo es inválido porque invalida las leyes universales de la termodinámica y la masa. <!-- feedback: Incorrecto. El modelo propuesto cumple con los principios universales de la ciencia. -->
 - [ ] C) El modelo sólo funciona si se desestiman las unidades del Sistema Internacional. <!-- feedback: Incorrecto. Debe operar de forma consistente en el Sistema Internacional. -->
 - [ ] D) El modelo presenta inconsistencias graves al asumir que el rendimiento puede superar el 100%. <!-- feedback: Incorrecto. El modelo respeta el límite físico del 100% de eficiencia. -->
 
@@ -435,10 +435,10 @@ La evaluación crítica de modelos en Biología - Ecología exige verificar el c
 Se propone un modelo avanzado para evaluar la eficiencia de un proceso basado en $Impacto Ambiental y Cambio Climático$ en Biología - Ecología. Evaluá cuál de las siguientes afirmaciones juzga correctamente la validez del modelo.
 
 ### Opciones
-- [x] A) El modelo es válido porque respeta estrictamente los principios de conservación y las relaciones cuantitativas de $Impacto Ambiental y Cambio Climático$. <!-- feedback: Correcto. La evaluación fundamentada confirma la solidez del modelo para $Impacto Ambiental y Cambio Climático$. -->
-- [ ] B) El modelo es inválido porque invalida las leyes universales de la termodinámica y la masa. <!-- feedback: Incorrecto. El modelo propuesto cumple con los principios universales de la ciencia. -->
-- [ ] C) El modelo sólo funciona si se desestiman las unidades del Sistema Internacional. <!-- feedback: Incorrecto. Debe operar de forma consistente en el Sistema Internacional. -->
-- [ ] D) El modelo presenta inconsistencias graves al asumir que el rendimiento puede superar el 100%. <!-- feedback: Incorrecto. El modelo respeta el límite físico del 100% de eficiencia. -->
+- [x] D) El modelo es válido porque respeta estrictamente los principios de conservación y las relaciones cuantitativas de $Impacto Ambiental y Cambio Climático$. <!-- feedback: Correcto. La evaluación fundamentada confirma la solidez del modelo para $Impacto Ambiental y Cambio Climático$. -->
+- [ ] A) El modelo es inválido porque invalida las leyes universales de la termodinámica y la masa. <!-- feedback: Incorrecto. El modelo propuesto cumple con los principios universales de la ciencia. -->
+- [ ] B) El modelo sólo funciona si se desestiman las unidades del Sistema Internacional. <!-- feedback: Incorrecto. Debe operar de forma consistente en el Sistema Internacional. -->
+- [ ] C) El modelo presenta inconsistencias graves al asumir que el rendimiento puede superar el 100%. <!-- feedback: Incorrecto. El modelo respeta el límite físico del 100% de eficiencia. -->
 
 ### Explicacion Pedagogica
 La evaluación crítica de modelos en Biología - Ecología exige verificar el cumplimiento de los límites teóricos de Impacto Ambiental y Cambio Climático.

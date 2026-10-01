@@ -56,8 +56,8 @@ Many world leaders have been working together to address the urgent issue of cli
 
 ### Opciones
 - [ ] A) are working <!-- feedback: Incorrect. Present continuous. -->
-- [x] B) have been working <!-- feedback: Correct. Present perfect continuous for an ongoing effort. -->
-- [ ] C) worked <!-- feedback: Incorrect. Past simple. -->
+- [x] C) have been working <!-- feedback: Correct. Present perfect continuous for an ongoing effort. -->
+- [ ] B) worked <!-- feedback: Incorrect. Past simple. -->
 - [ ] D) will work <!-- feedback: Incorrect. Future. -->
 
 ### Explicacion Pedagogica
@@ -95,10 +95,10 @@ The third conditional is used to speculate about how a different past action wou
 Servant leadership is a philosophy in which the main goal of the leader is to serve the needs of their team or community.
 
 ### Opciones
-- [x] A) serve <!-- feedback: Correct. The core function of a servant leader. -->
-- [ ] B) ignore <!-- feedback: Incorrect. -->
-- [ ] C) control <!-- feedback: Incorrect. Servant leadership is about support, not just control. -->
-- [ ] D) exploit <!-- feedback: Incorrect. Negative. -->
+- [x] D) serve <!-- feedback: Correct. The core function of a servant leader. -->
+- [ ] A) ignore <!-- feedback: Incorrect. -->
+- [ ] B) control <!-- feedback: Incorrect. Servant leadership is about support, not just control. -->
+- [ ] C) exploit <!-- feedback: Incorrect. Negative. -->
 
 ### Explicacion Pedagogica
 'Serve' is the defining verb for this specific leadership model, which prioritizes the well-being of others.
@@ -115,8 +115,8 @@ Servant leadership is a philosophy in which the main goal of the leader is to se
 Ethical leadership involves leading by example and maintaining high moral standards in all decision-making processes.
 
 ### Opciones
-- [ ] A) by accident <!-- feedback: Incorrect. It should be intentional. -->
-- [x] B) by example <!-- feedback: Correct. Leading by example means showing others how to behave through your own actions. -->
+- [ ] B) by accident <!-- feedback: Incorrect. It should be intentional. -->
+- [x] A) by example <!-- feedback: Correct. Leading by example means showing others how to behave through your own actions. -->
 - [ ] C) by force <!-- feedback: Incorrect. Ethical leadership is based on values, not coercion. -->
 - [ ] D) in secret <!-- feedback: Incorrect. Ethics usually requires transparency. -->
 
@@ -136,9 +136,9 @@ A diplomat is an official representing a country abroad, skilled in negotiation 
 
 ### Opciones
 - [ ] A) pilot <!-- feedback: Incorrect. -->
-- [x] B) diplomat <!-- feedback: Correct. Formal term for a state representative. -->
-- [ ] C) tourist <!-- feedback: Incorrect. -->
-- [ ] D) refugee <!-- feedback: Incorrect. -->
+- [x] D) diplomat <!-- feedback: Correct. Formal term for a state representative. -->
+- [ ] B) tourist <!-- feedback: Incorrect. -->
+- [ ] C) refugee <!-- feedback: Incorrect. -->
 
 ### Explicacion Pedagogica
 'Diplomat' is the specific title for a professional who represents a nation in global leadership contexts.
@@ -175,8 +175,8 @@ The present continuous passive describes the active and current trend of shiftin
 Charismatic leaders possess an extraordinary ability to inspire and motivate others through their personality and communication.
 
 ### Opciones
-- [ ] A) boring <!-- feedback: Incorrect. -->
-- [x] B) Charismatic <!-- feedback: Correct. Having a compelling charm that inspires devotion. -->
+- [ ] B) boring <!-- feedback: Incorrect. -->
+- [x] A) Charismatic <!-- feedback: Correct. Having a compelling charm that inspires devotion. -->
 - [ ] C) Passive <!-- feedback: Incorrect. -->
 - [ ] D) Indifferent <!-- feedback: Incorrect. -->
 
@@ -196,9 +196,9 @@ The leader announced that her team had reached a consensus on the new policy.
 
 ### Opciones
 - [ ] A) has reached <!-- feedback: Incorrect. Backshifted in reported speech. -->
-- [x] B) had reached <!-- feedback: Correct. Backshifted from present perfect to past perfect. -->
-- [ ] C) reach <!-- feedback: Incorrect. -->
-- [ ] D) will reach <!-- feedback: Incorrect. -->
+- [x] D) had reached <!-- feedback: Correct. Backshifted from present perfect to past perfect. -->
+- [ ] B) reach <!-- feedback: Incorrect. -->
+- [ ] C) will reach <!-- feedback: Incorrect. -->
 
 ### Explicacion Pedagogica
 In reported speech, we backshift the tense to show the achievement occurred before the announcement.
@@ -216,8 +216,8 @@ Authoritarianism is a form of government characterized by strong central power a
 
 ### Opciones
 - [ ] A) Democracy <!-- feedback: Incorrect. Characterized by freedom. -->
-- [x] B) Authoritarianism <!-- feedback: Correct. Characterized by central power and restricted freedom. -->
-- [ ] C) Liberalism <!-- feedback: Incorrect. Focuses on individual freedom. -->
+- [x] C) Authoritarianism <!-- feedback: Correct. Characterized by central power and restricted freedom. -->
+- [ ] B) Liberalism <!-- feedback: Incorrect. Focuses on individual freedom. -->
 - [ ] D) Anarchy <!-- feedback: Incorrect. Lack of central power. -->
 
 ### Explicacion Pedagogica
@@ -236,8 +236,8 @@ Integrity is the quality of being honest and having strong moral principles, whi
 
 ### Opciones
 - [ ] A) Greed <!-- feedback: Incorrect. -->
-- [x] B) Integrity <!-- feedback: Correct. Fundamental leadership value. -->
-- [ ] C) Wealth <!-- feedback: Incorrect. -->
+- [x] C) Integrity <!-- feedback: Correct. Fundamental leadership value. -->
+- [ ] B) Wealth <!-- feedback: Incorrect. -->
 - [ ] D) Power <!-- feedback: Incorrect. While related to leadership, 'integrity' is the moral quality described. -->
 
 ### Explicacion Pedagogica
@@ -255,8 +255,8 @@ Integrity is the quality of being honest and having strong moral principles, whi
 By the end of the year, a new global agreement will have been finalized by the participating nations.
 
 ### Opciones
-- [ ] A) will finalize <!-- feedback: Incorrect. Active voice. -->
-- [x] B) will have been finalized <!-- feedback: Correct. Future perfect passive for a completed state in the future. -->
+- [ ] B) will finalize <!-- feedback: Incorrect. Active voice. -->
+- [x] A) will have been finalized <!-- feedback: Correct. Future perfect passive for a completed state in the future. -->
 - [ ] C) is finalized <!-- feedback: Incorrect. Present. -->
 - [ ] D) finalizing <!-- feedback: Incorrect. Gerund. -->
 
@@ -275,9 +275,9 @@ The future perfect passive indicates that the agreement will be a finished achie
 Effective global leadership requires a high degree of collaboration between nations with different interests.
 
 ### Opciones
-- [x] A) collaboration <!-- feedback: Correct. Collaboration means working together. -->
-- [ ] B) isolation <!-- feedback: Incorrect. Opposite of leadership. -->
-- [ ] C) competition <!-- feedback: Incorrect. While competition exists, 'collaboration' is the requirement for *effective global* leadership discussed. -->
+- [x] C) collaboration <!-- feedback: Correct. Collaboration means working together. -->
+- [ ] A) isolation <!-- feedback: Incorrect. Opposite of leadership. -->
+- [ ] B) competition <!-- feedback: Incorrect. While competition exists, 'collaboration' is the requirement for *effective global* leadership discussed. -->
 - [ ] D) secrecy <!-- feedback: Incorrect. -->
 
 ### Explicacion Pedagogica
@@ -315,10 +315,10 @@ The second conditional 'if + past simple' describes the likely result of a hypot
 The author concludes that adaptive leadership is necessary for navigating the complex and unpredictable challenges of the 21st century.
 
 ### Opciones
-- [x] A) adaptive <!-- feedback: Correct. Adaptive means able to adjust to new conditions. -->
-- [ ] B) rigid <!-- feedback: Incorrect. Authoritarian/unyielding. -->
-- [ ] C) simple <!-- feedback: Incorrect. Challenges are complex. -->
-- [ ] D) accidental <!-- feedback: Incorrect. Leadership should be intentional. -->
+- [x] D) adaptive <!-- feedback: Correct. Adaptive means able to adjust to new conditions. -->
+- [ ] A) rigid <!-- feedback: Incorrect. Authoritarian/unyielding. -->
+- [ ] B) simple <!-- feedback: Incorrect. Challenges are complex. -->
+- [ ] C) accidental <!-- feedback: Incorrect. Leadership should be intentional. -->
 
 ### Explicacion Pedagogica
 'Adaptive' correctly identifies the flexible leadership style that the author evaluates as necessary for modern times.
@@ -336,9 +336,9 @@ A mediator is a person who attempts to make people involved in a conflict come t
 
 ### Opciones
 - [ ] A) Fighter <!-- feedback: Incorrect. -->
-- [x] B) Mediator <!-- feedback: Correct. Neutral go-between. -->
-- [ ] C) Judge <!-- feedback: Incorrect. Judges make a decision; mediators help *others* agree. -->
-- [ ] D) Spy <!-- feedback: Incorrect. -->
+- [x] D) Mediator <!-- feedback: Correct. Neutral go-between. -->
+- [ ] B) Judge <!-- feedback: Incorrect. Judges make a decision; mediators help *others* agree. -->
+- [ ] C) Spy <!-- feedback: Incorrect. -->
 
 ### Explicacion Pedagogica
 'Mediator' is the specific title for an individual who facilitates agreement between conflicting parties.
@@ -356,8 +356,8 @@ I wish our leaders were more focused on long-term sustainability rather than sho
 
 ### Opciones
 - [ ] A) are <!-- feedback: Incorrect. Present. -->
-- [x] B) were <!-- feedback: Correct. 'Wish + were' for a present hypothetical desire. -->
-- [ ] C) was <!-- feedback: Incorrect. 'Were' preferred in formal speech. -->
+- [x] C) were <!-- feedback: Correct. 'Wish + were' for a present hypothetical desire. -->
+- [ ] B) was <!-- feedback: Incorrect. 'Were' preferred in formal speech. -->
 - [ ] D) will be <!-- feedback: Incorrect. Future. -->
 
 ### Explicacion Pedagogica
@@ -376,8 +376,8 @@ Soft power relies on the attraction and persuasion of culture and values, rather
 
 ### Opciones
 - [ ] A) Force <!-- feedback: Incorrect. This is 'hard power'. -->
-- [x] B) persuasion <!-- feedback: Correct. To persuade is to convince someone to do something through reasoning or argument. -->
-- [ ] C) threats <!-- feedback: Incorrect. Soft power avoids threats. -->
+- [x] C) persuasion <!-- feedback: Correct. To persuade is to convince someone to do something through reasoning or argument. -->
+- [ ] B) threats <!-- feedback: Incorrect. Soft power avoids threats. -->
 - [ ] D) bribes <!-- feedback: Incorrect. Unethical and usually hard power (economic). -->
 
 ### Explicacion Pedagogica
@@ -396,8 +396,8 @@ The president promised that the government would prioritize education in the nex
 
 ### Opciones
 - [ ] A) will <!-- feedback: Incorrect. Backshifted in reported speech. -->
-- [x] B) would <!-- feedback: Correct. Backshifted from 'will' to 'would' in reported speech. -->
-- [ ] C) should <!-- feedback: Incorrect. Expresses advice. -->
+- [x] C) would <!-- feedback: Correct. Backshifted from 'will' to 'would' in reported speech. -->
+- [ ] B) should <!-- feedback: Incorrect. Expresses advice. -->
 - [ ] D) can <!-- feedback: Incorrect. -->
 
 ### Explicacion Pedagogica

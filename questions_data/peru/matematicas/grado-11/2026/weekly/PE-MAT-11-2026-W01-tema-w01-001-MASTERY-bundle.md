@@ -30,11 +30,11 @@ creador: "Jules-Agent"
 Si se cumple que $x + 4 = 6$, ¿cuál es el valor correspondiente del número real $x$?
 
 ### Opciones
-- [x] A) $2$
+- [x] C) $2$
   <!-- feedback: Correcto. Despejando obtenemos la diferencia exacta. -->
-- [ ] B) $10$
+- [ ] A) $10$
   <!-- feedback: Incorrecto. Se sumaron las constantes en lugar de restar. -->
-- [ ] C) $4$
+- [ ] B) $4$
   <!-- feedback: Incorrecto. Error de cálculo aritmético. -->
 - [ ] D) $0$
   <!-- feedback: Incorrecto. Error de signo al transponer términos. -->
@@ -55,9 +55,9 @@ Para hallar el valor de $x$, restamos 4 a ambos lados de la ecuación: $x = 6 - 
 ¿Cuál es el elemento neutro de la multiplicación en el conjunto de los números reales?
 
 ### Opciones
-- [x] A) $1$
+- [x] B) $1$
   <!-- feedback: Correcto. El número 1 es el elemento neutro multiplicativo porque para cualquier real $a$, $a \cdot 1 = a$. -->
-- [ ] B) $0$
+- [ ] A) $0$
   <!-- feedback: Incorrecto. Cero es el elemento neutro de la adición, no de la multiplicación. -->
 - [ ] C) $-1$
   <!-- feedback: Incorrecto. Al multiplicar por -1 cambia el signo del número. -->
@@ -105,11 +105,11 @@ Para resolver la ecuación, primero eliminamos la constante sumada aplicando la 
 Si un artículo que cuesta S/ 400 se vende con un descuento del 50\%, ¿cuánto se paga finalmente en soles por el artículo?
 
 ### Opciones
-- [x] A) S/ 200.00
+- [x] C) S/ 200.00
   <!-- feedback: Correcto. Se calculó el descuento restando el porcentaje correspondiente de la base. -->
-- [ ] B) S/ 395.00
+- [ ] A) S/ 395.00
   <!-- feedback: Incorrecto. Descuento calculado de forma fija sin usar el porcentaje. -->
-- [ ] C) S/ 600.00
+- [ ] B) S/ 600.00
   <!-- feedback: Incorrecto. Se sumó el descuento en lugar de restarlo de la base original. -->
 - [ ] D) S/ 399.00
   <!-- feedback: Incorrecto. Error en las operaciones aritméticas. -->
@@ -130,9 +130,9 @@ El descuento es de 50\% de S/ 400, lo cual equivale a S/ 200.00. Restando esto d
 Halle el valor de la expresión con potencias de base común: $E = \frac{2^{b+2}}{2^{b}}$.
 
 ### Opciones
-- [x] A) $4$
+- [x] B) $4$
   <!-- feedback: Correcto. Restando exponentes obtenemos la potencia al cuadrado de la base. -->
-- [ ] B) $2$
+- [ ] A) $2$
   <!-- feedback: Incorrecto. Error de simplificación al restar exponentes. -->
 - [ ] C) $12$
   <!-- feedback: Incorrecto. Se multiplicaron base y exponente de forma equivocada. -->
@@ -155,11 +155,11 @@ Por leyes de exponentes de la división de bases iguales, restamos el exponente 
 Si se sabe que $3x < 9$, determine el conjunto solución expresado como intervalo real de la variable $x$.
 
 ### Opciones
-- [x] A) $\langle -\infty, 3 \rangle$
+- [x] C) $\langle -\infty, 3 \rangle$
   <!-- feedback: Correcto. Al dividir entre el número positivo 3 se mantiene el sentido, resultando $x < 3$. -->
-- [ ] B) $\langle 3, +\infty \rangle$
+- [ ] A) $\langle 3, +\infty \rangle$
   <!-- feedback: Incorrecto. Se invirtió erróneamente el sentido de la inecuación lineal. -->
-- [ ] C) $[ -\infty, 3 ]$
+- [ ] B) $[ -\infty, 3 ]$
   <!-- feedback: Incorrecto. El extremo infinito nunca es cerrado y la inecuación es estricta. -->
 - [ ] D) $\langle -\infty, 3 ]$
   <!-- feedback: Incorrecto. Al ser menor estricto ($<$), el extremo superior debe ser abierto. -->
@@ -205,11 +205,11 @@ El gasto total es la suma de ambos rubros: 16 + 16 = 32 soles. El vuelto es la d
 Determine la solución de la inecuación lineal: $2x - 5 \ge 5$.
 
 ### Opciones
-- [x] A) $x \ge 5$
+- [x] C) $x \ge 5$
   <!-- feedback: Correcto. Al sumar 5 a ambos lados y luego dividir por el número positivo 2, el sentido se mantiene. -->
-- [ ] B) $x \le 5$
+- [ ] A) $x \le 5$
   <!-- feedback: Incorrecto. Se invirtió incorrectamente el sentido de la desigualdad. -->
-- [ ] C) $x > 5$
+- [ ] B) $x > 5$
   <!-- feedback: Incorrecto. Se cambió la desigualdad de no estricta a estricta. -->
 - [ ] D) $x \ge 6$
   <!-- feedback: Incorrecto. Error en la división o en la simplificación numérica. -->
@@ -230,13 +230,13 @@ Sumamos 5 a ambos miembros de la inecuación lineal: $2x \ge 10$. Dividimos entr
 ¿Cuál es el valor absoluto de la diferencia de los números reales $3$ y $9$?
 
 ### Opciones
-- [x] A) $6$
+- [x] D) $6$
   <!-- feedback: Correcto. El valor absoluto de la diferencia es el módulo de 3 menos la suma 3 más 6, que resulta en el valor absoluto de menos 6, es decir, 6. -->
-- [ ] B) $-6$
+- [ ] A) $-6$
   <!-- feedback: Incorrecto. El valor absoluto de cualquier expresión real es siempre un número no negativo. -->
-- [ ] C) $12$
+- [ ] B) $12$
   <!-- feedback: Incorrecto. Se sumaron las cantidades en lugar de restarlas. -->
-- [ ] D) $8$
+- [ ] C) $8$
   <!-- feedback: Incorrecto. Error aritmético en la resolución del módulo. -->
 
 ### Explicacion Pedagogica
@@ -255,9 +255,9 @@ La diferencia es $3 - (9) = -6$. El valor absoluto de este resultado negativo es
 Encuentre el valor de la variable $y$ si se sabe que cumple con la proporción lineal: $\frac{y}{4} = \frac{3}{4}$.
 
 ### Opciones
-- [x] A) $3.00$
+- [x] B) $3.00$
   <!-- feedback: Correcto. Multiplicamos de forma cruzada para despejar la variable del numerador. -->
-- [ ] B) $4.00$
+- [ ] A) $4.00$
   <!-- feedback: Incorrecto. Error en la multiplicación de los factores cruzados. -->
 - [ ] C) $2.00$
   <!-- feedback: Incorrecto. Error en la división de los coeficientes. -->
@@ -305,9 +305,9 @@ La suma de coeficientes se halla evaluando el polinomio para la variable en 1: $
 Si el perímetro de un triángulo equilátero es de $9$ metros, ¿cuánto mide cada uno de sus lados en metros?
 
 ### Opciones
-- [x] A) $3$
+- [x] B) $3$
   <!-- feedback: Correcto. Un triángulo equilátero tiene tres lados iguales, por lo que cada lado mide la tercera parte de su perímetro, dando 3. -->
-- [ ] B) $4$
+- [ ] A) $4$
   <!-- feedback: Incorrecto. Longitud inconsistente con la definición de equilátero de este perímetro. -->
 - [ ] C) $6$
   <!-- feedback: Incorrecto. Excede el perímetro total al sumar dos lados de esta medida. -->
@@ -330,13 +330,13 @@ El perímetro de un triángulo equilátero de lado $L$ es $3L$. Sabiendo que el 
 Halle el dominio de la función real: $f(x) = \frac{1}{x - 6}$.
 
 ### Opciones
-- [x] A) $\mathbb{R} - \{6\}$
+- [x] D) $\mathbb{R} - \{6\}$
   <!-- feedback: Correcto. El denominador no puede ser cero, por lo que se debe excluir el valor de x = 6. -->
-- [ ] B) $\mathbb{R}$
+- [ ] A) $\mathbb{R}$
   <!-- feedback: Incorrecto. El valor de x causa una división indeterminada por cero. -->
-- [ ] C) $\langle 6, +\infty \rangle$
+- [ ] B) $\langle 6, +\infty \rangle$
   <!-- feedback: Incorrecto. La función también está perfectamente definida para valores reales menores que 6. -->
-- [ ] D) $\mathbb{R} - \{-6\}$
+- [ ] C) $\mathbb{R} - \{-6\}$
   <!-- feedback: Incorrecto. Error de signo al hallar el punto de discontinuidad del denominador. -->
 
 ### Explicacion Pedagogica
@@ -355,13 +355,13 @@ Para que la función racional esté definida en el campo real, el denominador de
 Determine el valor numérico del polinomio cuadrático $P(y) = y^2 - 5y + 6$ cuando $y = 2$.
 
 ### Opciones
-- [x] A) $0$
+- [x] D) $0$
   <!-- feedback: Correcto. Evaluando el polinomio para y = a resulta cero. -->
-- [ ] B) $2$
+- [ ] A) $2$
   <!-- feedback: Incorrecto. Error de cálculo en los productos parciales. -->
-- [ ] C) $12$
+- [ ] B) $12$
   <!-- feedback: Incorrecto. Error al evaluar o transponer los términos del trinomio. -->
-- [ ] D) $5.0$
+- [ ] C) $5.0$
   <!-- feedback: Incorrecto. Error aritmético en las adiciones. -->
 
 ### Explicacion Pedagogica
@@ -382,11 +382,11 @@ $\begin{cases} x + y = 7 \\ x - y = 1 \end{cases}$
 Indique el valor obtenido para la variable $x$.
 
 ### Opciones
-- [x] A) $4$
+- [x] C) $4$
   <!-- feedback: Correcto. Sumando ambas ecuaciones para eliminar la variable y. -->
-- [ ] B) $3$
+- [ ] A) $3$
   <!-- feedback: Incorrecto. Este corresponde al valor de la variable y, no de x. -->
-- [ ] C) $7$
+- [ ] B) $7$
   <!-- feedback: Incorrecto. Error de resolución al sustituir o sumar los miembros. -->
 - [ ] D) $1$
   <!-- feedback: Incorrecto. Corresponde a la diferencia de las variables, no al valor de x. -->
@@ -407,11 +407,11 @@ Sumamos miembro a miembro las dos ecuaciones lineales del sistema para eliminar 
 ¿Cuál es el valor del discriminante ($\Delta$) de la ecuación de segundo grado $x^2 - 9x + 20 = 0$?
 
 ### Opciones
-- [x] A) $1$
+- [x] C) $1$
   <!-- feedback: Correcto. El discriminante se calcula como b^2 - 4ac. -->
-- [ ] B) $3$
+- [ ] A) $3$
   <!-- feedback: Incorrecto. Error al restar el término cuadrático del discriminante. -->
-- [ ] C) $-1$
+- [ ] B) $-1$
   <!-- feedback: Incorrecto. Error en los signos del producto de los coeficientes. -->
 - [ ] D) $81$
   <!-- feedback: Incorrecto. Se olvidó restar el término de la fórmula fundamental. -->
@@ -432,13 +432,13 @@ El discriminante de una ecuación cuadrática is b^2 - 4ac. Aquí es 81 - 4(20) 
 Si se sabe que la suma de un número real y su inverso multiplicativo es igual a 2.50, determine el producto exacto de dichos números.
 
 ### Opciones
-- [x] A) $1$
+- [x] D) $1$
   <!-- feedback: Correcto. Por definición, el producto de cualquier número real no nulo y su inverso multiplicativo es 1. -->
-- [ ] B) $2$
+- [ ] A) $2$
   <!-- feedback: Incorrecto. Ese es el número original, no el producto con su recíproco. -->
-- [ ] C) $0.50$
+- [ ] B) $0.50$
   <!-- feedback: Incorrecto. Corresponde al inverso aditivo o multiplicativo individual. -->
-- [ ] D) No se puede determinar
+- [ ] C) No se puede determinar
   <!-- feedback: Incorrecto. El producto es constante e independiente del número real elegido. -->
 
 ### Explicacion Pedagogica
@@ -482,11 +482,11 @@ Las relaciones de Cardano-Vieta establecen que para una ecuación cuadrática ax
 Determine el área máxima que puede encerrar un terreno rectangular de perímetro constante e igual a $32$ metros.
 
 ### Opciones
-- [x] A) $64$ metros cuadrados
+- [x] C) $64$ metros cuadrados
   <!-- feedback: Correcto. El área máxima para un perímetro dado se logra cuando la figura es un cuadrado. -->
-- [ ] B) $60$ metros cuadrados
+- [ ] A) $60$ metros cuadrados
   <!-- feedback: Incorrecto. Corresponde a una configuración rectangular desigual subóptima. -->
-- [ ] C) $68$ metros cuadrados
+- [ ] B) $68$ metros cuadrados
   <!-- feedback: Incorrecto. Un perímetro de la magnitud dada no puede encerrar un área rectangular de valor superior al máximo. -->
 - [ ] D) $32.0$ metros cuadrados
   <!-- feedback: Incorrecto. Subestimación del área máxima. -->

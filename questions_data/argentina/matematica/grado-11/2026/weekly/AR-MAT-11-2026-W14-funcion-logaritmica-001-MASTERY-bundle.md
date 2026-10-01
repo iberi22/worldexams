@@ -36,8 +36,8 @@ Este bundle aborda contenidos curriculares prioritarios de Función Logarítmica
 Dada la función logarítmica $f(x) = \log_{3}(2x - 8)$, ¿para qué valores de $x$ está definida en los números reales (dominio)?
 
 ### Opciones
-- [x] A) Intervalo abierto $(4, +\infty)$ <!-- feedback: Correcto. El argumento debe ser positivo: $2x - 8 > 0 \Rightarrow 2x > 8 \Rightarrow x > 4$. -->
-- [ ] B) Intervalo cerrado $[4, +\infty)$ <!-- feedback: Incorrecto. El logaritmo de cero no existe en los reales. -->
+- [x] B) Intervalo abierto $(4, +\infty)$ <!-- feedback: Correcto. El argumento debe ser positivo: $2x - 8 > 0 \Rightarrow 2x > 8 \Rightarrow x > 4$. -->
+- [ ] A) Intervalo cerrado $[4, +\infty)$ <!-- feedback: Incorrecto. El logaritmo de cero no existe en los reales. -->
 - [ ] C) Intervalo abierto $(-\infty, 4)$ <!-- feedback: Incorrecto. Daría argumentos negativos no válidos. -->
 - [ ] D) Intervalo abierto $(0, +\infty)$ <!-- feedback: Incorrecto. No consideró la traslación horizontal. -->
 
@@ -57,8 +57,8 @@ Para que la función logarítmica esté definida, se requiere $2x - 8 > 0 \Right
 Dada la función logarítmica $f(x) = \log_{3}(2x - 10)$, ¿para qué valores de $x$ está definida en los números reales (dominio)?
 
 ### Opciones
-- [x] A) Intervalo abierto $(5, +\infty)$ <!-- feedback: Correcto. El argumento debe ser positivo: $2x - 10 > 0 \Rightarrow 2x > 10 \Rightarrow x > 5$. -->
-- [ ] B) Intervalo cerrado $[5, +\infty)$ <!-- feedback: Incorrecto. El logaritmo de cero no existe en los reales. -->
+- [x] B) Intervalo abierto $(5, +\infty)$ <!-- feedback: Correcto. El argumento debe ser positivo: $2x - 10 > 0 \Rightarrow 2x > 10 \Rightarrow x > 5$. -->
+- [ ] A) Intervalo cerrado $[5, +\infty)$ <!-- feedback: Incorrecto. El logaritmo de cero no existe en los reales. -->
 - [ ] C) Intervalo abierto $(-\infty, 5)$ <!-- feedback: Incorrecto. Daría argumentos negativos no válidos. -->
 - [ ] D) Intervalo abierto $(0, +\infty)$ <!-- feedback: Incorrecto. No consideró la traslación horizontal. -->
 
@@ -78,10 +78,10 @@ Para que la función logarítmica esté definida, se requiere $2x - 10 > 0 \Righ
 Dada la función logarítmica $f(x) = \log_{3}(2x - 12)$, ¿para qué valores de $x$ está definida en los números reales (dominio)?
 
 ### Opciones
-- [x] A) Intervalo abierto $(6, +\infty)$ <!-- feedback: Correcto. El argumento debe ser positivo: $2x - 12 > 0 \Rightarrow 2x > 12 \Rightarrow x > 6$. -->
-- [ ] B) Intervalo cerrado $[6, +\infty)$ <!-- feedback: Incorrecto. El logaritmo de cero no existe en los reales. -->
-- [ ] C) Intervalo abierto $(-\infty, 6)$ <!-- feedback: Incorrecto. Daría argumentos negativos no válidos. -->
-- [ ] D) Intervalo abierto $(0, +\infty)$ <!-- feedback: Incorrecto. No consideró la traslación horizontal. -->
+- [x] D) Intervalo abierto $(6, +\infty)$ <!-- feedback: Correcto. El argumento debe ser positivo: $2x - 12 > 0 \Rightarrow 2x > 12 \Rightarrow x > 6$. -->
+- [ ] A) Intervalo cerrado $[6, +\infty)$ <!-- feedback: Incorrecto. El logaritmo de cero no existe en los reales. -->
+- [ ] B) Intervalo abierto $(-\infty, 6)$ <!-- feedback: Incorrecto. Daría argumentos negativos no válidos. -->
+- [ ] C) Intervalo abierto $(0, +\infty)$ <!-- feedback: Incorrecto. No consideró la traslación horizontal. -->
 
 ### Explicacion Pedagogica
 Para que la función logarítmica esté definida, se requiere $2x - 12 > 0 \Rightarrow 2x > 12 \Rightarrow x > 6$. El dominio es $(6, +\infty)$.
@@ -99,8 +99,8 @@ Para que la función logarítmica esté definida, se requiere $2x - 12 > 0 \Righ
 Dada la función logarítmica $f(x) = \log_{3}(2x - 14)$, ¿para qué valores de $x$ está definida en los números reales (dominio)?
 
 ### Opciones
-- [x] A) Intervalo abierto $(7, +\infty)$ <!-- feedback: Correcto. El argumento debe ser positivo: $2x - 14 > 0 \Rightarrow 2x > 14 \Rightarrow x > 7$. -->
-- [ ] B) Intervalo cerrado $[7, +\infty)$ <!-- feedback: Incorrecto. El logaritmo de cero no existe en los reales. -->
+- [x] B) Intervalo abierto $(7, +\infty)$ <!-- feedback: Correcto. El argumento debe ser positivo: $2x - 14 > 0 \Rightarrow 2x > 14 \Rightarrow x > 7$. -->
+- [ ] A) Intervalo cerrado $[7, +\infty)$ <!-- feedback: Incorrecto. El logaritmo de cero no existe en los reales. -->
 - [ ] C) Intervalo abierto $(-\infty, 7)$ <!-- feedback: Incorrecto. Daría argumentos negativos no válidos. -->
 - [ ] D) Intervalo abierto $(0, +\infty)$ <!-- feedback: Incorrecto. No consideró la traslación horizontal. -->
 
@@ -120,9 +120,9 @@ Para que la función logarítmica esté definida, se requiere $2x - 14 > 0 \Righ
 Dada la función logarítmica $f(x) = \log_{3}(2x - 16)$, ¿para qué valores de $x$ está definida en los números reales (dominio)?
 
 ### Opciones
-- [x] A) Intervalo abierto $(8, +\infty)$ <!-- feedback: Correcto. El argumento debe ser positivo: $2x - 16 > 0 \Rightarrow 2x > 16 \Rightarrow x > 8$. -->
-- [ ] B) Intervalo cerrado $[8, +\infty)$ <!-- feedback: Incorrecto. El logaritmo de cero no existe en los reales. -->
-- [ ] C) Intervalo abierto $(-\infty, 8)$ <!-- feedback: Incorrecto. Daría argumentos negativos no válidos. -->
+- [x] C) Intervalo abierto $(8, +\infty)$ <!-- feedback: Correcto. El argumento debe ser positivo: $2x - 16 > 0 \Rightarrow 2x > 16 \Rightarrow x > 8$. -->
+- [ ] A) Intervalo cerrado $[8, +\infty)$ <!-- feedback: Incorrecto. El logaritmo de cero no existe en los reales. -->
+- [ ] B) Intervalo abierto $(-\infty, 8)$ <!-- feedback: Incorrecto. Daría argumentos negativos no válidos. -->
 - [ ] D) Intervalo abierto $(0, +\infty)$ <!-- feedback: Incorrecto. No consideró la traslación horizontal. -->
 
 ### Explicacion Pedagogica
@@ -141,8 +141,8 @@ Para que la función logarítmica esté definida, se requiere $2x - 16 > 0 \Righ
 Dada la función logarítmica $f(x) = \log_{3}(2x - 18)$, ¿para qué valores de $x$ está definida en los números reales (dominio)?
 
 ### Opciones
-- [x] A) Intervalo abierto $(9, +\infty)$ <!-- feedback: Correcto. El argumento debe ser positivo: $2x - 18 > 0 \Rightarrow 2x > 18 \Rightarrow x > 9$. -->
-- [ ] B) Intervalo cerrado $[9, +\infty)$ <!-- feedback: Incorrecto. El logaritmo de cero no existe en los reales. -->
+- [x] B) Intervalo abierto $(9, +\infty)$ <!-- feedback: Correcto. El argumento debe ser positivo: $2x - 18 > 0 \Rightarrow 2x > 18 \Rightarrow x > 9$. -->
+- [ ] A) Intervalo cerrado $[9, +\infty)$ <!-- feedback: Incorrecto. El logaritmo de cero no existe en los reales. -->
 - [ ] C) Intervalo abierto $(-\infty, 9)$ <!-- feedback: Incorrecto. Daría argumentos negativos no válidos. -->
 - [ ] D) Intervalo abierto $(0, +\infty)$ <!-- feedback: Incorrecto. No consideró la traslación horizontal. -->
 
@@ -162,8 +162,8 @@ Para que la función logarítmica esté definida, se requiere $2x - 18 > 0 \Righ
 Dada la función logarítmica $f(x) = \log_{3}(2x - 20)$, ¿para qué valores de $x$ está definida en los números reales (dominio)?
 
 ### Opciones
-- [x] A) Intervalo abierto $(10, +\infty)$ <!-- feedback: Correcto. El argumento debe ser positivo: $2x - 20 > 0 \Rightarrow 2x > 20 \Rightarrow x > 10$. -->
-- [ ] B) Intervalo cerrado $[10, +\infty)$ <!-- feedback: Incorrecto. El logaritmo de cero no existe en los reales. -->
+- [x] B) Intervalo abierto $(10, +\infty)$ <!-- feedback: Correcto. El argumento debe ser positivo: $2x - 20 > 0 \Rightarrow 2x > 20 \Rightarrow x > 10$. -->
+- [ ] A) Intervalo cerrado $[10, +\infty)$ <!-- feedback: Incorrecto. El logaritmo de cero no existe en los reales. -->
 - [ ] C) Intervalo abierto $(-\infty, 10)$ <!-- feedback: Incorrecto. Daría argumentos negativos no válidos. -->
 - [ ] D) Intervalo abierto $(0, +\infty)$ <!-- feedback: Incorrecto. No consideró la traslación horizontal. -->
 
@@ -246,9 +246,9 @@ Para que la función logarítmica esté definida, se requiere $2x - 26 > 0 \Righ
 Dada la función logarítmica $f(x) = \log_{3}(2x - 28)$, ¿para qué valores de $x$ está definida en los números reales (dominio)?
 
 ### Opciones
-- [x] A) Intervalo abierto $(14, +\infty)$ <!-- feedback: Correcto. El argumento debe ser positivo: $2x - 28 > 0 \Rightarrow 2x > 28 \Rightarrow x > 14$. -->
-- [ ] B) Intervalo cerrado $[14, +\infty)$ <!-- feedback: Incorrecto. El logaritmo de cero no existe en los reales. -->
-- [ ] C) Intervalo abierto $(-\infty, 14)$ <!-- feedback: Incorrecto. Daría argumentos negativos no válidos. -->
+- [x] C) Intervalo abierto $(14, +\infty)$ <!-- feedback: Correcto. El argumento debe ser positivo: $2x - 28 > 0 \Rightarrow 2x > 28 \Rightarrow x > 14$. -->
+- [ ] A) Intervalo cerrado $[14, +\infty)$ <!-- feedback: Incorrecto. El logaritmo de cero no existe en los reales. -->
+- [ ] B) Intervalo abierto $(-\infty, 14)$ <!-- feedback: Incorrecto. Daría argumentos negativos no válidos. -->
 - [ ] D) Intervalo abierto $(0, +\infty)$ <!-- feedback: Incorrecto. No consideró la traslación horizontal. -->
 
 ### Explicacion Pedagogica
@@ -267,10 +267,10 @@ Para que la función logarítmica esté definida, se requiere $2x - 28 > 0 \Righ
 Dada la función logarítmica $f(x) = \log_{3}(2x - 30)$, ¿para qué valores de $x$ está definida en los números reales (dominio)?
 
 ### Opciones
-- [x] A) Intervalo abierto $(15, +\infty)$ <!-- feedback: Correcto. El argumento debe ser positivo: $2x - 30 > 0 \Rightarrow 2x > 30 \Rightarrow x > 15$. -->
-- [ ] B) Intervalo cerrado $[15, +\infty)$ <!-- feedback: Incorrecto. El logaritmo de cero no existe en los reales. -->
-- [ ] C) Intervalo abierto $(-\infty, 15)$ <!-- feedback: Incorrecto. Daría argumentos negativos no válidos. -->
-- [ ] D) Intervalo abierto $(0, +\infty)$ <!-- feedback: Incorrecto. No consideró la traslación horizontal. -->
+- [x] D) Intervalo abierto $(15, +\infty)$ <!-- feedback: Correcto. El argumento debe ser positivo: $2x - 30 > 0 \Rightarrow 2x > 30 \Rightarrow x > 15$. -->
+- [ ] A) Intervalo cerrado $[15, +\infty)$ <!-- feedback: Incorrecto. El logaritmo de cero no existe en los reales. -->
+- [ ] B) Intervalo abierto $(-\infty, 15)$ <!-- feedback: Incorrecto. Daría argumentos negativos no válidos. -->
+- [ ] C) Intervalo abierto $(0, +\infty)$ <!-- feedback: Incorrecto. No consideró la traslación horizontal. -->
 
 ### Explicacion Pedagogica
 Para que la función logarítmica esté definida, se requiere $2x - 30 > 0 \Rightarrow 2x > 30 \Rightarrow x > 15$. El dominio es $(15, +\infty)$.
@@ -330,9 +330,9 @@ Para que la función logarítmica esté definida, se requiere $2x - 34 > 0 \Righ
 Dada la función logarítmica $f(x) = \log_{3}(2x - 36)$, ¿para qué valores de $x$ está definida en los números reales (dominio)?
 
 ### Opciones
-- [x] A) Intervalo abierto $(18, +\infty)$ <!-- feedback: Correcto. El argumento debe ser positivo: $2x - 36 > 0 \Rightarrow 2x > 36 \Rightarrow x > 18$. -->
-- [ ] B) Intervalo cerrado $[18, +\infty)$ <!-- feedback: Incorrecto. El logaritmo de cero no existe en los reales. -->
-- [ ] C) Intervalo abierto $(-\infty, 18)$ <!-- feedback: Incorrecto. Daría argumentos negativos no válidos. -->
+- [x] C) Intervalo abierto $(18, +\infty)$ <!-- feedback: Correcto. El argumento debe ser positivo: $2x - 36 > 0 \Rightarrow 2x > 36 \Rightarrow x > 18$. -->
+- [ ] A) Intervalo cerrado $[18, +\infty)$ <!-- feedback: Incorrecto. El logaritmo de cero no existe en los reales. -->
+- [ ] B) Intervalo abierto $(-\infty, 18)$ <!-- feedback: Incorrecto. Daría argumentos negativos no válidos. -->
 - [ ] D) Intervalo abierto $(0, +\infty)$ <!-- feedback: Incorrecto. No consideró la traslación horizontal. -->
 
 ### Explicacion Pedagogica
@@ -351,9 +351,9 @@ Para que la función logarítmica esté definida, se requiere $2x - 36 > 0 \Righ
 Dada la función logarítmica $f(x) = \log_{3}(2x - 38)$, ¿para qué valores de $x$ está definida en los números reales (dominio)?
 
 ### Opciones
-- [x] A) Intervalo abierto $(19, +\infty)$ <!-- feedback: Correcto. El argumento debe ser positivo: $2x - 38 > 0 \Rightarrow 2x > 38 \Rightarrow x > 19$. -->
-- [ ] B) Intervalo cerrado $[19, +\infty)$ <!-- feedback: Incorrecto. El logaritmo de cero no existe en los reales. -->
-- [ ] C) Intervalo abierto $(-\infty, 19)$ <!-- feedback: Incorrecto. Daría argumentos negativos no válidos. -->
+- [x] C) Intervalo abierto $(19, +\infty)$ <!-- feedback: Correcto. El argumento debe ser positivo: $2x - 38 > 0 \Rightarrow 2x > 38 \Rightarrow x > 19$. -->
+- [ ] A) Intervalo cerrado $[19, +\infty)$ <!-- feedback: Incorrecto. El logaritmo de cero no existe en los reales. -->
+- [ ] B) Intervalo abierto $(-\infty, 19)$ <!-- feedback: Incorrecto. Daría argumentos negativos no válidos. -->
 - [ ] D) Intervalo abierto $(0, +\infty)$ <!-- feedback: Incorrecto. No consideró la traslación horizontal. -->
 
 ### Explicacion Pedagogica
@@ -372,9 +372,9 @@ Para que la función logarítmica esté definida, se requiere $2x - 38 > 0 \Righ
 Dada la función logarítmica $f(x) = \log_{3}(2x - 40)$, ¿para qué valores de $x$ está definida en los números reales (dominio)?
 
 ### Opciones
-- [x] A) Intervalo abierto $(20, +\infty)$ <!-- feedback: Correcto. El argumento debe ser positivo: $2x - 40 > 0 \Rightarrow 2x > 40 \Rightarrow x > 20$. -->
-- [ ] B) Intervalo cerrado $[20, +\infty)$ <!-- feedback: Incorrecto. El logaritmo de cero no existe en los reales. -->
-- [ ] C) Intervalo abierto $(-\infty, 20)$ <!-- feedback: Incorrecto. Daría argumentos negativos no válidos. -->
+- [x] C) Intervalo abierto $(20, +\infty)$ <!-- feedback: Correcto. El argumento debe ser positivo: $2x - 40 > 0 \Rightarrow 2x > 40 \Rightarrow x > 20$. -->
+- [ ] A) Intervalo cerrado $[20, +\infty)$ <!-- feedback: Incorrecto. El logaritmo de cero no existe en los reales. -->
+- [ ] B) Intervalo abierto $(-\infty, 20)$ <!-- feedback: Incorrecto. Daría argumentos negativos no válidos. -->
 - [ ] D) Intervalo abierto $(0, +\infty)$ <!-- feedback: Incorrecto. No consideró la traslación horizontal. -->
 
 ### Explicacion Pedagogica
@@ -393,9 +393,9 @@ Para que la función logarítmica esté definida, se requiere $2x - 40 > 0 \Righ
 Dada la función logarítmica $f(x) = \log_{3}(2x - 42)$, ¿para qué valores de $x$ está definida en los números reales (dominio)?
 
 ### Opciones
-- [x] A) Intervalo abierto $(21, +\infty)$ <!-- feedback: Correcto. El argumento debe ser positivo: $2x - 42 > 0 \Rightarrow 2x > 42 \Rightarrow x > 21$. -->
-- [ ] B) Intervalo cerrado $[21, +\infty)$ <!-- feedback: Incorrecto. El logaritmo de cero no existe en los reales. -->
-- [ ] C) Intervalo abierto $(-\infty, 21)$ <!-- feedback: Incorrecto. Daría argumentos negativos no válidos. -->
+- [x] C) Intervalo abierto $(21, +\infty)$ <!-- feedback: Correcto. El argumento debe ser positivo: $2x - 42 > 0 \Rightarrow 2x > 42 \Rightarrow x > 21$. -->
+- [ ] A) Intervalo cerrado $[21, +\infty)$ <!-- feedback: Incorrecto. El logaritmo de cero no existe en los reales. -->
+- [ ] B) Intervalo abierto $(-\infty, 21)$ <!-- feedback: Incorrecto. Daría argumentos negativos no válidos. -->
 - [ ] D) Intervalo abierto $(0, +\infty)$ <!-- feedback: Incorrecto. No consideró la traslación horizontal. -->
 
 ### Explicacion Pedagogica
@@ -435,8 +435,8 @@ Para que la función logarítmica esté definida, se requiere $2x - 44 > 0 \Righ
 Dada la función logarítmica $f(x) = \log_{3}(2x - 46)$, ¿para qué valores de $x$ está definida en los números reales (dominio)?
 
 ### Opciones
-- [x] A) Intervalo abierto $(23, +\infty)$ <!-- feedback: Correcto. El argumento debe ser positivo: $2x - 46 > 0 \Rightarrow 2x > 46 \Rightarrow x > 23$. -->
-- [ ] B) Intervalo cerrado $[23, +\infty)$ <!-- feedback: Incorrecto. El logaritmo de cero no existe en los reales. -->
+- [x] B) Intervalo abierto $(23, +\infty)$ <!-- feedback: Correcto. El argumento debe ser positivo: $2x - 46 > 0 \Rightarrow 2x > 46 \Rightarrow x > 23$. -->
+- [ ] A) Intervalo cerrado $[23, +\infty)$ <!-- feedback: Incorrecto. El logaritmo de cero no existe en los reales. -->
 - [ ] C) Intervalo abierto $(-\infty, 23)$ <!-- feedback: Incorrecto. Daría argumentos negativos no válidos. -->
 - [ ] D) Intervalo abierto $(0, +\infty)$ <!-- feedback: Incorrecto. No consideró la traslación horizontal. -->
 

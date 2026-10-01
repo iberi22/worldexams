@@ -31,8 +31,8 @@ En la expresión algebraica -5x³y², ¿cuál es el coeficiente numérico?
 
 ### Opciones
 - [ ] A) 5 <!-- feedback: El coeficiente incluye el signo negativo. -->
-- [x] B) -5 <!-- feedback: El coeficiente es el número con su respectivo signo que acompaña a las literales. -->
-- [ ] C) 3 <!-- feedback: Este es el exponente de la literal x. -->
+- [x] C) -5 <!-- feedback: El coeficiente es el número con su respectivo signo que acompaña a las literales. -->
+- [ ] B) 3 <!-- feedback: Este es el exponente de la literal x. -->
 - [ ] D) -5x <!-- feedback: El coeficiente solo incluye la parte numérica, no las variables. -->
 
 ### Explicacion Pedagogica
@@ -52,8 +52,8 @@ Un término algebraico consta de cuatro elementos: signo, coeficiente, literal (
 
 ### Opciones
 - [ ] A) 25 + 5 <!-- feedback: Esto solo suma los precios unitarios, no considera las cantidades. -->
-- [ ] B) 30xy <!-- feedback: No se deben multiplicar las variables entre sí ni por la suma de los precios. -->
-- [x] C) 25x + 5y <!-- feedback: Multiplicamos el precio de cada artículo por su cantidad respectiva y los sumamos. -->
+- [ ] C) 30xy <!-- feedback: No se deben multiplicar las variables entre sí ni por la suma de los precios. -->
+- [x] B) 25x + 5y <!-- feedback: Multiplicamos el precio de cada artículo por su cantidad respectiva y los sumamos. -->
 - [ ] D) (25+5)(x+y) <!-- feedback: Esto multiplicaría la suma de los precios por la suma de las cantidades, lo cual es incorrecto. -->
 
 ### Explicacion Pedagogica
@@ -74,8 +74,8 @@ Para expresar un costo total, multiplicamos el precio unitario de cada producto 
 ### Opciones
 - [ ] A) Monomio <!-- feedback: Un monomio tiene un solo término. -->
 - [ ] B) Binomio <!-- feedback: Un binomio tiene exactamente dos términos. -->
-- [x] C) Trinomio <!-- feedback: La expresión tiene tres términos separados por signos de suma o resta. -->
-- [ ] D) Término independiente <!-- feedback: Esto solo se refiere al número que no tiene variable (el 2). -->
+- [x] D) Trinomio <!-- feedback: La expresión tiene tres términos separados por signos de suma o resta. -->
+- [ ] C) Término independiente <!-- feedback: Esto solo se refiere al número que no tiene variable (el 2). -->
 
 ### Explicacion Pedagogica
 Las expresiones algebraicas se clasifican por la cantidad de términos: Monomio (1), Binomio (2), Trinomio (3) y Polinomio (en general, pero suele usarse para 4 o más). Dado que 3x², -5x y +2 son tres términos distintos, es un trinomio.
@@ -94,8 +94,8 @@ Si el largo del terreno es "L" y el ancho es "A", ¿cuál es la expresión para 
 
 ### Opciones
 - [ ] A) L * A <!-- feedback: Esto representa el área del rectángulo, no el perímetro. -->
-- [x] B) 2L + 2A <!-- feedback: El perímetro es la suma de los cuatro lados: L + L + A + A. -->
-- [ ] C) L + A <!-- feedback: Esto es solo la suma de dos lados (semiperímetro). -->
+- [x] C) 2L + 2A <!-- feedback: El perímetro es la suma de los cuatro lados: L + L + A + A. -->
+- [ ] B) L + A <!-- feedback: Esto es solo la suma de dos lados (semiperímetro). -->
 - [ ] D) L² + A² <!-- feedback: Esto se relaciona con el teorema de Pitágoras, no con el perímetro. -->
 
 ### Explicacion Pedagogica
@@ -135,9 +135,9 @@ Para reducir términos semejantes, sumamos o restamos los coeficientes de los t�
 ¿Cuál es el valor numérico de la expresión 2a² - 3b + 5 cuando a = 3 y b = -2?
 
 ### Opciones
-- [ ] A) 17 <!-- feedback: 2(3)² - 3(-2) + 5 = 2(9) + 6 + 5 = 18 + 6 + 5 = 29. -->
-- [ ] B) 11 <!-- feedback: Error al no elevar al cuadrado o al manejar los signos negativos. -->
-- [x] C) 29 <!-- feedback: 2(9) - 3(-2) + 5 = 18 + 6 + 5 = 29. -->
+- [ ] B) 17 <!-- feedback: 2(3)² - 3(-2) + 5 = 2(9) + 6 + 5 = 18 + 6 + 5 = 29. -->
+- [ ] C) 11 <!-- feedback: Error al no elevar al cuadrado o al manejar los signos negativos. -->
+- [x] A) 29 <!-- feedback: 2(9) - 3(-2) + 5 = 18 + 6 + 5 = 29. -->
 - [ ] D) 7 <!-- feedback: Error en el orden de las operaciones o en la sustitución. -->
 
 ### Explicacion Pedagogica
@@ -157,8 +157,8 @@ Realiza la multiplicación de los siguientes binomios: (x + 3)(x - 5)
 
 ### Opciones
 - [ ] A) x² - 15 <!-- feedback: Falta el término lineal obtenido al multiplicar los términos medios y extremos. -->
-- [x] B) x² - 2x - 15 <!-- feedback: x*x = x²; x*(-5) = -5x; 3*x = 3x; 3*(-5) = -15. Sumando: x² - 2x - 15. -->
-- [ ] C) x² + 2x - 15 <!-- feedback: Error de signo al sumar -5x + 3x. -->
+- [x] C) x² - 2x - 15 <!-- feedback: x*x = x²; x*(-5) = -5x; 3*x = 3x; 3*(-5) = -15. Sumando: x² - 2x - 15. -->
+- [ ] B) x² + 2x - 15 <!-- feedback: Error de signo al sumar -5x + 3x. -->
 - [ ] D) 2x - 2 <!-- feedback: No se realizó la multiplicación correctamente, esto parece una suma. -->
 
 ### Explicacion Pedagogica
@@ -177,8 +177,8 @@ Usamos la propiedad distributiva (método FOIL): multiplicamos los primeros tér
 ¿Cuál es el resultado de dividir (12x⁴ - 8x³ + 4x²) entre 4x²?
 
 ### Opciones
-- [ ] A) 3x⁶ - 2x⁵ + 1 <!-- feedback: En la división los exponentes se restan, no se suman. -->
-- [x] B) 3x² - 2x + 1 <!-- feedback: 12x⁴/4x²=3x²; -8x³/4x²=-2x; 4x²/4x²=1. -->
+- [ ] B) 3x⁶ - 2x⁵ + 1 <!-- feedback: En la división los exponentes se restan, no se suman. -->
+- [x] A) 3x² - 2x + 1 <!-- feedback: 12x⁴/4x²=3x²; -8x³/4x²=-2x; 4x²/4x²=1. -->
 - [ ] C) 3x² - 2x <!-- feedback: Se olvidó incluir el resultado de 4x² / 4x², que es 1. -->
 - [ ] D) 8x² - 4x + 0 <!-- feedback: Error al restar los coeficientes en lugar de dividirlos. -->
 
@@ -198,10 +198,10 @@ Dividimos cada término del polinomio por el monomio 4x². Para los coeficientes
 Identifica el grado absoluto del siguiente polinomio: 5x³y⁴ - 2x⁵y + 8x²y⁶
 
 ### Opciones
-- [ ] A) 5 <!-- feedback: Este es el grado respecto a la variable x. -->
-- [ ] B) 6 <!-- feedback: Este es el mayor exponente individual de la variable y. -->
-- [ ] C) 7 <!-- feedback: Es la suma de exponentes del primer y segundo término, pero no el mayor. -->
-- [x] D) 8 <!-- feedback: El tercer término tiene una suma de exponentes de 2+6=8, que es la mayor. -->
+- [ ] B) 5 <!-- feedback: Este es el grado respecto a la variable x. -->
+- [ ] C) 6 <!-- feedback: Este es el mayor exponente individual de la variable y. -->
+- [ ] D) 7 <!-- feedback: Es la suma de exponentes del primer y segundo término, pero no el mayor. -->
+- [x] A) 8 <!-- feedback: El tercer término tiene una suma de exponentes de 2+6=8, que es la mayor. -->
 
 ### Explicacion Pedagogica
 El grado absoluto de un polinomio es el mayor de los grados de sus términos. Calculamos el grado de cada término sumando sus exponentes: T1 (3+4=7), T2 (5+1=6), T3 (2+6=8). El grado absoluto es 8.
@@ -219,8 +219,8 @@ El grado absoluto de un polinomio es el mayor de los grados de sus términos. Ca
 Desarrolla el siguiente binomio al cuadrado: (2x + 3)²
 
 ### Opciones
-- [ ] A) 4x² + 9 <!-- feedback: Falta el término del doble producto del primero por el segundo. -->
-- [x] B) 4x² + 12x + 9 <!-- feedback: (2x)² + 2(2x)(3) + 3² = 4x² + 12x + 9. -->
+- [ ] B) 4x² + 9 <!-- feedback: Falta el término del doble producto del primero por el segundo. -->
+- [x] A) 4x² + 12x + 9 <!-- feedback: (2x)² + 2(2x)(3) + 3² = 4x² + 12x + 9. -->
 - [ ] C) 4x² + 6x + 9 <!-- feedback: El doble producto es 2*2x*3 = 12x, no 6x. -->
 - [ ] D) 2x² + 12x + 6 <!-- feedback: Error al elevar al cuadrado los términos del binomio. -->
 
@@ -262,8 +262,8 @@ El numerador x² - 9 es una diferencia de cuadrados perfectos. Se factoriza como
 
 ### Opciones
 - [ ] A) (x + 5)² <!-- feedback: Esto resultaría en x² + 10x + 25. -->
-- [x] B) (x - 5)² <!-- feedback: Es un trinomio cuadrado perfecto donde el término medio es negativo. -->
-- [ ] C) (x + 5)(x - 5) <!-- feedback: Esto resultaría en x² - 25. -->
+- [x] C) (x - 5)² <!-- feedback: Es un trinomio cuadrado perfecto donde el término medio es negativo. -->
+- [ ] B) (x + 5)(x - 5) <!-- feedback: Esto resultaría en x² - 25. -->
 - [ ] D) (x - 10)(x - 2.5) <!-- feedback: No corresponde a la factorización de un trinomio cuadrado perfecto. -->
 
 ### Explicacion Pedagogica
@@ -283,9 +283,9 @@ Factoriza completamente la expresión: 6x³y² - 9x²y³ + 3x²y²
 
 ### Opciones
 - [ ] A) 3xy(2x²y - 3xy² + xy) <!-- feedback: El factor común puede ser mayor (3x²y²). -->
-- [x] B) 3x²y²(2x - 3y + 1) <!-- feedback: El Máximo Común Factor es 3x²y². -->
-- [ ] C) 3x²y²(2x - 3y) <!-- feedback: Se olvidó incluir el +1 resultante de dividir el último término por el factor común. -->
-- [ ] D) x²y²(6x - 9y + 3) <!-- feedback: El coeficiente 3 también es un factor común. -->
+- [x] D) 3x²y²(2x - 3y + 1) <!-- feedback: El Máximo Común Factor es 3x²y². -->
+- [ ] B) 3x²y²(2x - 3y) <!-- feedback: Se olvidó incluir el +1 resultante de dividir el último término por el factor común. -->
+- [ ] C) x²y²(6x - 9y + 3) <!-- feedback: El coeficiente 3 también es un factor común. -->
 
 ### Explicacion Pedagogica
 Buscamos el Máximo Común Factor (MCF). Para los coeficientes (6, 9, 3) es 3. Para las literales, tomamos el menor exponente: x² y y². El MCF es 3x²y². Dividimos cada término original por este MCF para obtener los términos dentro del paréntesis.
@@ -304,9 +304,9 @@ Si el área se expresa como el producto de (base * altura), ¿cuáles son las ex
 
 ### Opciones
 - [ ] A) (x + 10) y (x + 1) <!-- feedback: El producto es correcto pero la suma daría 11x, no 7x. -->
-- [x] B) (x + 5) y (x + 2) <!-- feedback: 5 * 2 = 10 y 5 + 2 = 7. Cumple con la forma x² + (a+b)x + ab. -->
-- [ ] C) (x - 5) y (x - 2) <!-- feedback: La suma daría -7x y el producto +10. -->
-- [ ] D) (x + 7) y (x + 10) <!-- feedback: Error en la lógica de factorización. -->
+- [x] D) (x + 5) y (x + 2) <!-- feedback: 5 * 2 = 10 y 5 + 2 = 7. Cumple con la forma x² + (a+b)x + ab. -->
+- [ ] B) (x - 5) y (x - 2) <!-- feedback: La suma daría -7x y el producto +10. -->
+- [ ] C) (x + 7) y (x + 10) <!-- feedback: Error en la lógica de factorización. -->
 
 ### Explicacion Pedagogica
 Factorizamos el trinomio de la forma x² + bx + c. Buscamos dos números que multiplicados den 10 (término constante) y sumados den 7 (coeficiente del término lineal). Esos números son 5 y 2. Por tanto, la expresión factorizada es (x + 5)(x + 2).
@@ -325,8 +325,8 @@ Simplifica la expresión: (2 / x) + (3 / 2x)
 
 ### Opciones
 - [ ] A) 5 / 2x <!-- feedback: Error al sumar numeradores sin tener el mismo denominador común. -->
-- [ ] B) 5 / 3x <!-- feedback: No se pueden sumar denominadores directamente. -->
-- [x] C) 7 / 2x <!-- feedback: Denominador común es 2x. (4/2x) + (3/2x) = 7/2x. -->
+- [ ] C) 5 / 3x <!-- feedback: No se pueden sumar denominadores directamente. -->
+- [x] B) 7 / 2x <!-- feedback: Denominador común es 2x. (4/2x) + (3/2x) = 7/2x. -->
 - [ ] D) 6 / 2x² <!-- feedback: Error en el proceso de suma de fracciones. -->
 
 ### Explicacion Pedagogica
@@ -346,9 +346,9 @@ Para sumar fracciones con distinto denominador, buscamos el mínimo común múlt
 
 ### Opciones
 - [ ] A) (x - 2)³ <!-- feedback: El desarrollo de un cubo de un binomio es más complejo. -->
-- [x] B) (x - 2)(x² + 2x + 4) <!-- feedback: Aplicación correcta de la fórmula a³ - b³ = (a - b)(a² + ab + b²). -->
-- [ ] C) (x - 2)(x² - 2x + 4) <!-- feedback: El signo del segundo término del trinomio debe ser positivo. -->
-- [ ] D) (x + 2)(x² - 2x + 4) <!-- feedback: Esta es la factorización de x³ + 8. -->
+- [x] D) (x - 2)(x² + 2x + 4) <!-- feedback: Aplicación correcta de la fórmula a³ - b³ = (a - b)(a² + ab + b²). -->
+- [ ] B) (x - 2)(x² - 2x + 4) <!-- feedback: El signo del segundo término del trinomio debe ser positivo. -->
+- [ ] C) (x + 2)(x² - 2x + 4) <!-- feedback: Esta es la factorización de x³ + 8. -->
 
 ### Explicacion Pedagogica
 Usamos la fórmula para la diferencia de cubos: a³ - b³ = (a - b)(a² + ab + b²). Aquí a = x y b = 2 (ya que 2³ = 8). Sustituyendo obtenemos: (x - 2)(x² + x(2) + 2²), que simplificado es (x - 2)(x² + 2x + 4).
@@ -366,9 +366,9 @@ Usamos la fórmula para la diferencia de cubos: a³ - b³ = (a - b)(a² + ab + b
 Simplifica totalmente la expresión: [ (x² - 4) / (x² - 4x + 4) ] * [ (x - 2) / (x + 2) ]
 
 ### Opciones
-- [ ] A) x + 2 <!-- feedback: No es el resultado final tras todas las cancelaciones. -->
-- [ ] B) (x - 2) / (x + 2) <!-- feedback: Error en la simplificación de los términos factorizados. -->
-- [x] C) 1 <!-- feedback: [ (x-2)(x+2) / (x-2)² ] * [ (x-2) / (x+2) ] = [ (x+2) / (x-2) ] * [ (x-2) / (x+2) ] = 1. -->
+- [ ] B) x + 2 <!-- feedback: No es el resultado final tras todas las cancelaciones. -->
+- [ ] C) (x - 2) / (x + 2) <!-- feedback: Error en la simplificación de los términos factorizados. -->
+- [x] A) 1 <!-- feedback: [ (x-2)(x+2) / (x-2)² ] * [ (x-2) / (x+2) ] = [ (x+2) / (x-2) ] * [ (x-2) / (x+2) ] = 1. -->
 - [ ] D) (x² - 4) <!-- feedback: Resultado incorrecto. -->
 
 ### Explicacion Pedagogica
@@ -408,8 +408,8 @@ Para completar un trinomio cuadrado perfecto de la forma x² + bx + c, el valor 
 ¿Cuál es el residuo de dividir el polinomio P(x) = x³ - 2x² + x - 5 entre (x - 2)?
 
 ### Opciones
-- [ ] A) 0 <!-- feedback: La división no es exacta. -->
-- [x] B) -3 <!-- feedback: Por el teorema del residuo, evaluamos P(2) = 2³ - 2(2)² + 2 - 5 = 8 - 8 + 2 - 5 = -3. -->
+- [ ] B) 0 <!-- feedback: La división no es exacta. -->
+- [x] A) -3 <!-- feedback: Por el teorema del residuo, evaluamos P(2) = 2³ - 2(2)² + 2 - 5 = 8 - 8 + 2 - 5 = -3. -->
 - [ ] C) -5 <!-- feedback: Error en la evaluación del polinomio. -->
 - [ ] D) 7 <!-- feedback: Error al sustituir el valor en el teorema del residuo. -->
 

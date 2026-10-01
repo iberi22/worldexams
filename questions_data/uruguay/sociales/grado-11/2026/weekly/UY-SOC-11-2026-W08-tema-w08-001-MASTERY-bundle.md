@@ -34,13 +34,13 @@ calibration: {difficulty_band: "D3-D10", expected_success: 0.65}
 ¿Qué papel o definición histórica le corresponde a El gobierno de Luis Batlle Berres en relación con este contexto en Uruguay?
 
 ### Opciones
-- [x] A) Constituyó el factor decisivo que consolidó la era de prosperidad exportadora e industrial en beneficio del desarrollo institucional del país.
+- [x] D) Constituyó el factor decisivo que consolidó la era de prosperidad exportadora e industrial en beneficio del desarrollo institucional del país.
   <!-- feedback: Correcto. El gobierno de Luis Batlle Berres representó precisamente el hecho o concepto que consagró la era de prosperidad exportadora e industrial. -->
-- [ ] B) Consistió en una reforma fiscal que impuso La dictadura militar conservadora del terrismo eliminando toda libertad mercantil o política local.
+- [ ] A) Consistió en una reforma fiscal que impuso La dictadura militar conservadora del terrismo eliminando toda libertad mercantil o política local.
   <!-- feedback: Incorrecto. La dictadura militar conservadora del terrismo no define la acción histórica de este elemento ni se corresponde con este período. -->
-- [ ] C) Fue un movimiento de oposición promovido por los defensores de El fin definitivo del Estado de Bienestar uruguayo para restablecer el régimen colonial absoluto.
+- [ ] B) Fue un movimiento de oposición promovido por los defensores de El fin definitivo del Estado de Bienestar uruguayo para restablecer el régimen colonial absoluto.
   <!-- feedback: Incorrecto. El fin definitivo del Estado de Bienestar uruguayo responde a otra dinámica o intereses opuestos a los evaluados en este hecho. -->
-- [ ] D) Representó una medida de orden militar que forzó la inmediata adopción de La privatización de todos los monopolios públicos en toda la campaña rural.
+- [ ] C) Representó una medida de orden militar que forzó la inmediata adopción de La privatización de todos los monopolios públicos en toda la campaña rural.
   <!-- feedback: Incorrecto. La privatización de todos los monopolios públicos representa una distracción sin sustento documental o empírico en la historia uruguaya. -->
 
 ### Explicacion Pedagogica
@@ -58,13 +58,13 @@ La identificación precisa de El gobierno de Luis Batlle Berres permite comprend
 ¿Qué papel o definición histórica le corresponde a El modelo de sustitución de importaciones (ISI) en relación con este contexto en Uruguay?
 
 ### Opciones
-- [x] A) Constituyó el factor decisivo que consolidó la protección arancelaria a las fábricas de consumo en beneficio del desarrollo institucional del país.
+- [x] D) Constituyó el factor decisivo que consolidó la protección arancelaria a las fábricas de consumo en beneficio del desarrollo institucional del país.
   <!-- feedback: Correcto. El modelo de sustitución de importaciones (ISI) representó precisamente el hecho o concepto que consagró la protección arancelaria a las fábricas de consumo. -->
-- [ ] B) Consistió en una reforma fiscal que impuso La eliminación de todo arancel a los productos ingleses eliminando toda libertad mercantil o política local.
+- [ ] A) Consistió en una reforma fiscal que impuso La eliminación de todo arancel a los productos ingleses eliminando toda libertad mercantil o política local.
   <!-- feedback: Incorrecto. La eliminación de todo arancel a los productos ingleses no define la acción histórica de este elemento ni se corresponde con este período. -->
-- [ ] C) Fue un movimiento de oposición promovido por los defensores de La colectivización de la propiedad rural ganadera para restablecer el régimen colonial absoluto.
+- [ ] B) Fue un movimiento de oposición promovido por los defensores de La colectivización de la propiedad rural ganadera para restablecer el régimen colonial absoluto.
   <!-- feedback: Incorrecto. La colectivización de la propiedad rural ganadera responde a otra dinámica o intereses opuestos a los evaluados en este hecho. -->
-- [ ] D) Representó una medida de orden militar que forzó la inmediata adopción de La prohibición de instalar industrias manufactureras en toda la campaña rural.
+- [ ] C) Representó una medida de orden militar que forzó la inmediata adopción de La prohibición de instalar industrias manufactureras en toda la campaña rural.
   <!-- feedback: Incorrecto. La prohibición de instalar industrias manufactureras representa una distracción sin sustento documental o empírico en la historia uruguaya. -->
 
 ### Explicacion Pedagogica
@@ -82,11 +82,11 @@ La identificación precisa de El modelo de sustitución de importaciones (ISI) p
 Si analizás la trascendencia de este suceso, ¿cómo se explica la relación causa-efecto entre El aumento de precios del cuero y lana por la Guerra de Corea y el auge de las divisas y exportaciones del agro?
 
 ### Opciones
-- [x] A) Que la implantación de El aumento de precios del cuero y lana por la Guerra de Corea actuó como la causa principal que posibilitó el desarrollo de el auge de las divisas y exportaciones del agro.
+- [x] C) Que la implantación de El aumento de precios del cuero y lana por la Guerra de Corea actuó como la causa principal que posibilitó el desarrollo de el auge de las divisas y exportaciones del agro.
   <!-- feedback: Correcto. Hay una relación causal directa: El aumento de precios del cuero y lana por la Guerra de Corea funcionó como cimiento para que se diera el auge de las divisas y exportaciones del agro. -->
-- [ ] B) Que la promoción de La quiebra fiscal del Estado uruguayo en 1950 bloqueó de forma absoluta todo efecto de El aumento de precios del cuero y lana por la Guerra de Corea sobre la sociedad de la campaña.
+- [ ] A) Que la promoción de La quiebra fiscal del Estado uruguayo en 1950 bloqueó de forma absoluta todo efecto de El aumento de precios del cuero y lana por la Guerra de Corea sobre la sociedad de la campaña.
   <!-- feedback: Incorrecto. La quiebra fiscal del Estado uruguayo en 1950 representa una distracción conceptual que no interfirió de esa forma ni anula el papel de El aumento de precios del cuero y lana por la Guerra de Corea. -->
-- [ ] C) Que la imposición de La devaluación masiva de la moneda uruguaya de forma inmediata sustituyó toda actividad rural por un modelo industrial centralizado en Montevideo.
+- [ ] B) Que la imposición de La devaluación masiva de la moneda uruguaya de forma inmediata sustituyó toda actividad rural por un modelo industrial centralizado en Montevideo.
   <!-- feedback: Incorrecto. La devaluación masiva de la moneda uruguaya de forma inmediata es una lectura errónea que tergiversa la base socioeconómica agropecuaria de la Banda Oriental o del Estado uruguayo. -->
 - [ ] D) Que la aplicación de La prohibición de vender carne vacuna a los Aliados resolvió de forma pacífica todas las tensiones sin participación de caudillos agrarios.
   <!-- feedback: Incorrecto. La prohibición de vender carne vacuna a los Aliados representa un supuesto inverosímil que contradice las agudas luchas partidarias y sociales de la época. -->
@@ -106,11 +106,11 @@ La relación entre El aumento de precios del cuero y lana por la Guerra de Corea
 Si analizás la trascendencia de este suceso, ¿cómo se explica la relación causa-efecto entre El Ejecutivo Colegiado de nueve miembros de la Constitución de 1952 y la abolición de la presidencia unipersonal de forma definitiva?
 
 ### Opciones
-- [x] A) Que la implantación de El Ejecutivo Colegiado de nueve miembros de la Constitución de 1952 actuó como la causa principal que posibilitó el desarrollo de la abolición de la presidencia unipersonal de forma definitiva.
+- [x] C) Que la implantación de El Ejecutivo Colegiado de nueve miembros de la Constitución de 1952 actuó como la causa principal que posibilitó el desarrollo de la abolición de la presidencia unipersonal de forma definitiva.
   <!-- feedback: Correcto. Hay una relación causal directa: El Ejecutivo Colegiado de nueve miembros de la Constitución de 1952 funcionó como cimiento para que se diera la abolición de la presidencia unipersonal de forma definitiva. -->
-- [ ] B) Que la promoción de La dictadura unipersonal concentrada en el presidente bloqueó de forma absoluta todo efecto de El Ejecutivo Colegiado de nueve miembros de la Constitución de 1952 sobre la sociedad de la campaña.
+- [ ] A) Que la promoción de La dictadura unipersonal concentrada en el presidente bloqueó de forma absoluta todo efecto de El Ejecutivo Colegiado de nueve miembros de la Constitución de 1952 sobre la sociedad de la campaña.
   <!-- feedback: Incorrecto. La dictadura unipersonal concentrada en el presidente representa una distracción conceptual que no interfirió de esa forma ni anula el papel de El Ejecutivo Colegiado de nueve miembros de la Constitución de 1952. -->
-- [ ] C) Que la imposición de Un régimen monárquico tutelado por el parlamento sustituyó toda actividad rural por un modelo industrial centralizado en Montevideo.
+- [ ] B) Que la imposición de Un régimen monárquico tutelado por el parlamento sustituyó toda actividad rural por un modelo industrial centralizado en Montevideo.
   <!-- feedback: Incorrecto. Un régimen monárquico tutelado por el parlamento es una lectura errónea que tergiversa la base socioeconómica agropecuaria de la Banda Oriental o del Estado uruguayo. -->
 - [ ] D) Que la aplicación de La disolución de las Cámaras de forma forzosa legislativas resolvió de forma pacífica todas las tensiones sin participación de caudillos agrarios.
   <!-- feedback: Incorrecto. La disolución de las Cámaras de forma forzosa legislativas representa un supuesto inverosímil que contradice las agudas luchas partidarias y sociales de la época. -->
@@ -178,9 +178,9 @@ La relación entre La nacionalización de ferrocarriles, aguas y tranvías y la 
 Si aplicás este análisis a las tensiones de la época, ¿de qué manera se manifestó el impacto práctico de El crecimiento sindical bajo las leyes de Consejos de Salarios en la vida cotidiana o en la economía?
 
 ### Opciones
-- [x] A) En que viabilizó la de forma democrática institucionalización de la negociación laboral a través del despliegue efectivo de El crecimiento sindical bajo las leyes de Consejos de Salarios en el territorio nacional.
+- [x] B) En que viabilizó la de forma democrática institucionalización de la negociación laboral a través del despliegue efectivo de El crecimiento sindical bajo las leyes de Consejos de Salarios en el territorio nacional.
   <!-- feedback: Correcto. En el plano práctico, El crecimiento sindical bajo las leyes de Consejos de Salarios se tradujo directamente en la de forma democrática institucionalización de la negociación laboral, transformando las relaciones socioeconómicas reales. -->
-- [ ] B) En que forzó la aplicación estricta de La prohibición por ley de toda asociación de trabajadores como el único reglamento de convivencia acatado por los caudillos de la campaña.
+- [ ] A) En que forzó la aplicación estricta de La prohibición por ley de toda asociación de trabajadores como el único reglamento de convivencia acatado por los caudillos de la campaña.
   <!-- feedback: Incorrecto. La prohibición por ley de toda asociación de trabajadores no constituyó el reglamento acatado por los caudillos agrarios en este plano práctico. -->
 - [ ] C) En que obligó a las aduanas de Montevideo a transferir la totalidad de sus rentas fiscales a favor de La sumisión obrera a los designios de la ARU.
   <!-- feedback: Incorrecto. La transferencia fiscal absoluta a La sumisión obrera a los designios de la ARU carece de veracidad y fundamento histórico para este período. -->
@@ -226,9 +226,9 @@ La aplicación práctica de La expansión del empleo público y el Estado benefa
 Si aplicás este análisis a las tensiones de la época, ¿de qué manera se manifestó el impacto práctico de La Ley de Consejos de Salarios en la vida cotidiana o en la economía?
 
 ### Opciones
-- [x] A) En que viabilizó la negociación tripartita (Estado, patronos, obreros) a través del despliegue efectivo de La Ley de Consejos de Salarios en el territorio nacional.
+- [x] B) En que viabilizó la negociación tripartita (Estado, patronos, obreros) a través del despliegue efectivo de La Ley de Consejos de Salarios en el territorio nacional.
   <!-- feedback: Correcto. En el plano práctico, La Ley de Consejos de Salarios se tradujo directamente en la negociación tripartita (Estado, patronos, obreros), transformando las relaciones socioeconómicas reales. -->
-- [ ] B) En que forzó la aplicación estricta de La fijación de forma unilateral de los salarios por la ARU como el único reglamento de convivencia acatado por los caudillos de la campaña.
+- [ ] A) En que forzó la aplicación estricta de La fijación de forma unilateral de los salarios por la ARU como el único reglamento de convivencia acatado por los caudillos de la campaña.
   <!-- feedback: Incorrecto. La fijación de forma unilateral de los salarios por la ARU no constituyó el reglamento acatado por los caudillos agrarios en este plano práctico. -->
 - [ ] C) En que obligó a las aduanas de Montevideo a transferir la totalidad de sus rentas fiscales a favor de La abolición definitiva de la jornada de ocho horas.
   <!-- feedback: Incorrecto. La transferencia fiscal absoluta a La abolición definitiva de la jornada de ocho horas carece de veracidad y fundamento histórico para este período. -->
@@ -274,11 +274,11 @@ La aplicación práctica de La falta de inversión tecnológica en el agro latif
 Si aplicás este análisis a las tensiones de la época, ¿de qué manera se manifestó el impacto práctico de El gobierno de Luis Batlle Berres en la vida cotidiana o en la economía?
 
 ### Opciones
-- [x] A) En que viabilizó la era de prosperidad exportadora e industrial a través del despliegue efectivo de El gobierno de Luis Batlle Berres en el territorio nacional.
+- [x] C) En que viabilizó la era de prosperidad exportadora e industrial a través del despliegue efectivo de El gobierno de Luis Batlle Berres en el territorio nacional.
   <!-- feedback: Correcto. En el plano práctico, El gobierno de Luis Batlle Berres se tradujo directamente en la era de prosperidad exportadora e industrial, transformando las relaciones socioeconómicas reales. -->
-- [ ] B) En que forzó la aplicación estricta de La dictadura militar conservadora del terrismo como el único reglamento de convivencia acatado por los caudillos de la campaña.
+- [ ] A) En que forzó la aplicación estricta de La dictadura militar conservadora del terrismo como el único reglamento de convivencia acatado por los caudillos de la campaña.
   <!-- feedback: Incorrecto. La dictadura militar conservadora del terrismo no constituyó el reglamento acatado por los caudillos agrarios en este plano práctico. -->
-- [ ] C) En que obligó a las aduanas de Montevideo a transferir la totalidad de sus rentas fiscales a favor de El fin definitivo del Estado de Bienestar uruguayo.
+- [ ] B) En que obligó a las aduanas de Montevideo a transferir la totalidad de sus rentas fiscales a favor de El fin definitivo del Estado de Bienestar uruguayo.
   <!-- feedback: Incorrecto. La transferencia fiscal absoluta a El fin definitivo del Estado de Bienestar uruguayo carece de veracidad y fundamento histórico para este período. -->
 - [ ] D) En que provocó el abandono inmediato de las estancias y la adopción generalizada de La privatización de todos los monopolios públicos por los gauchos.
   <!-- feedback: Incorrecto. La privatización de todos los monopolios públicos representa un supuesto anacrónico o absurdo que no operó en la realidad cotidiana del campo uruguayo. -->
@@ -298,13 +298,13 @@ La aplicación práctica de El gobierno de Luis Batlle Berres revela que el gobi
 Si aplicás este análisis a las tensiones de la época, ¿de qué manera se manifestó el impacto práctico de El modelo de sustitución de importaciones (ISI) en la vida cotidiana o en la economía?
 
 ### Opciones
-- [x] A) En que viabilizó la protección arancelaria a las fábricas de consumo a través del despliegue efectivo de El modelo de sustitución de importaciones (ISI) en el territorio nacional.
+- [x] D) En que viabilizó la protección arancelaria a las fábricas de consumo a través del despliegue efectivo de El modelo de sustitución de importaciones (ISI) en el territorio nacional.
   <!-- feedback: Correcto. En el plano práctico, El modelo de sustitución de importaciones (ISI) se tradujo directamente en la protección arancelaria a las fábricas de consumo, transformando las relaciones socioeconómicas reales. -->
-- [ ] B) En que forzó la aplicación estricta de La eliminación de todo arancel a los productos ingleses como el único reglamento de convivencia acatado por los caudillos de la campaña.
+- [ ] A) En que forzó la aplicación estricta de La eliminación de todo arancel a los productos ingleses como el único reglamento de convivencia acatado por los caudillos de la campaña.
   <!-- feedback: Incorrecto. La eliminación de todo arancel a los productos ingleses no constituyó el reglamento acatado por los caudillos agrarios en este plano práctico. -->
-- [ ] C) En que obligó a las aduanas de Montevideo a transferir la totalidad de sus rentas fiscales a favor de La colectivización de la propiedad rural ganadera.
+- [ ] B) En que obligó a las aduanas de Montevideo a transferir la totalidad de sus rentas fiscales a favor de La colectivización de la propiedad rural ganadera.
   <!-- feedback: Incorrecto. La transferencia fiscal absoluta a La colectivización de la propiedad rural ganadera carece de veracidad y fundamento histórico para este período. -->
-- [ ] D) En que provocó el abandono inmediato de las estancias y la adopción generalizada de La prohibición de instalar industrias manufactureras por los gauchos.
+- [ ] C) En que provocó el abandono inmediato de las estancias y la adopción generalizada de La prohibición de instalar industrias manufactureras por los gauchos.
   <!-- feedback: Incorrecto. La prohibición de instalar industrias manufactureras representa un supuesto anacrónico o absurdo que no operó en la realidad cotidiana del campo uruguayo. -->
 
 ### Explicacion Pedagogica
@@ -322,11 +322,11 @@ La aplicación práctica de El modelo de sustitución de importaciones (ISI) rev
 ¿Qué contradicción o conflicto de intereses de la sociedad de la época queda en evidencia al analizar las consecuencias de El aumento de precios del cuero y lana por la Guerra de Corea?
 
 ### Opciones
-- [x] A) La fractura social entre los sectores que consolidaron su posición con el auge de las divisas y exportaciones del agro gracias a El aumento de precios del cuero y lana por la Guerra de Corea y aquellos que resultaron postergados.
+- [x] C) La fractura social entre los sectores que consolidaron su posición con el auge de las divisas y exportaciones del agro gracias a El aumento de precios del cuero y lana por la Guerra de Corea y aquellos que resultaron postergados.
   <!-- feedback: Correcto. El análisis crítico de El aumento de precios del cuero y lana por la Guerra de Corea revela una profunda contradicción en torno a el auge de las divisas y exportaciones del agro, marcando límites en la integración social. -->
-- [ ] B) El enfrentamiento ideológico entre los defensores de La quiebra fiscal del Estado uruguayo en 1950 y los promotores de una monarquía incaica absoluta en Canelones.
+- [ ] A) El enfrentamiento ideológico entre los defensores de La quiebra fiscal del Estado uruguayo en 1950 y los promotores de una monarquía incaica absoluta en Canelones.
   <!-- feedback: Incorrecto. Una monarquía incaica en Canelones es un absurdo geográfico e histórico sin relación con los conflictos reales uruguayos. -->
-- [ ] C) La disputa entre los estancieros criollos por prohibir la exportación de cueros y lanas para consagrar La devaluación masiva de la moneda uruguaya de forma inmediata.
+- [ ] B) La disputa entre los estancieros criollos por prohibir la exportación de cueros y lanas para consagrar La devaluación masiva de la moneda uruguaya de forma inmediata.
   <!-- feedback: Incorrecto. Los hacendados dependían vitalmente de la exportación pecuaria y nunca buscaron prohibir su comercio para imponer La devaluación masiva de la moneda uruguaya de forma inmediata. -->
 - [ ] D) La total disolución de las clases sociales que eliminó el influjo de La prohibición de vender carne vacuna a los Aliados y unificó amigablemente a toda la población.
   <!-- feedback: Incorrecto. Postular una armonía absoluta que borrara las tensiones y anulara La prohibición de vender carne vacuna a los Aliados es una lectura idílica e incorrecta de la historia nacional. -->
@@ -346,11 +346,11 @@ El análisis crítico de El aumento de precios del cuero y lana por la Guerra de
 ¿Qué contradicción o conflicto de intereses de la sociedad de la época queda en evidencia al analizar las consecuencias de El Ejecutivo Colegiado de nueve miembros de la Constitución de 1952?
 
 ### Opciones
-- [x] A) La fractura social entre los sectores que consolidaron su posición con la abolición de la presidencia unipersonal de forma definitiva gracias a El Ejecutivo Colegiado de nueve miembros de la Constitución de 1952 y aquellos que resultaron postergados.
+- [x] C) La fractura social entre los sectores que consolidaron su posición con la abolición de la presidencia unipersonal de forma definitiva gracias a El Ejecutivo Colegiado de nueve miembros de la Constitución de 1952 y aquellos que resultaron postergados.
   <!-- feedback: Correcto. El análisis crítico de El Ejecutivo Colegiado de nueve miembros de la Constitución de 1952 revela una profunda contradicción en torno a la abolición de la presidencia unipersonal de forma definitiva, marcando límites en la integración social. -->
-- [ ] B) El enfrentamiento ideológico entre los defensores de La dictadura unipersonal concentrada en el presidente y los promotores de una monarquía incaica absoluta en Canelones.
+- [ ] A) El enfrentamiento ideológico entre los defensores de La dictadura unipersonal concentrada en el presidente y los promotores de una monarquía incaica absoluta en Canelones.
   <!-- feedback: Incorrecto. Una monarquía incaica en Canelones es un absurdo geográfico e histórico sin relación con los conflictos reales uruguayos. -->
-- [ ] C) La disputa entre los estancieros criollos por prohibir la exportación de cueros y lanas para consagrar Un régimen monárquico tutelado por el parlamento.
+- [ ] B) La disputa entre los estancieros criollos por prohibir la exportación de cueros y lanas para consagrar Un régimen monárquico tutelado por el parlamento.
   <!-- feedback: Incorrecto. Los hacendados dependían vitalmente de la exportación pecuaria y nunca buscaron prohibir su comercio para imponer Un régimen monárquico tutelado por el parlamento. -->
 - [ ] D) La total disolución de las clases sociales que eliminó el influjo de La disolución de las Cámaras de forma forzosa legislativas y unificó amigablemente a toda la población.
   <!-- feedback: Incorrecto. Postular una armonía absoluta que borrara las tensiones y anulara La disolución de las Cámaras de forma forzosa legislativas es una lectura idílica e incorrecta de la historia nacional. -->
@@ -394,11 +394,11 @@ El análisis crítico de El optimismo social y el alto nivel de bienestar genera
 ¿Qué contradicción o conflicto de intereses de la sociedad de la época queda en evidencia al analizar las consecuencias de La nacionalización de ferrocarriles, aguas y tranvías?
 
 ### Opciones
-- [x] A) La fractura social entre los sectores que consolidaron su posición con la compra estatal de los antiguos servicios británicos gracias a La nacionalización de ferrocarriles, aguas y tranvías y aquellos que resultaron postergados.
+- [x] C) La fractura social entre los sectores que consolidaron su posición con la compra estatal de los antiguos servicios británicos gracias a La nacionalización de ferrocarriles, aguas y tranvías y aquellos que resultaron postergados.
   <!-- feedback: Correcto. El análisis crítico de La nacionalización de ferrocarriles, aguas y tranvías revela una profunda contradicción en torno a la compra estatal de los antiguos servicios británicos, marcando límites en la integración social. -->
-- [ ] B) El enfrentamiento ideológico entre los defensores de La entrega de los servicios públicos a empresas de EE.UU. y los promotores de una monarquía incaica absoluta en Canelones.
+- [ ] A) El enfrentamiento ideológico entre los defensores de La entrega de los servicios públicos a empresas de EE.UU. y los promotores de una monarquía incaica absoluta en Canelones.
   <!-- feedback: Incorrecto. Una monarquía incaica en Canelones es un absurdo geográfico e histórico sin relación con los conflictos reales uruguayos. -->
-- [ ] C) La disputa entre los estancieros criollos por prohibir la exportación de cueros y lanas para consagrar La disolución definitiva de toda la red de forma forzosa ferroviaria.
+- [ ] B) La disputa entre los estancieros criollos por prohibir la exportación de cueros y lanas para consagrar La disolución definitiva de toda la red de forma forzosa ferroviaria.
   <!-- feedback: Incorrecto. Los hacendados dependían vitalmente de la exportación pecuaria y nunca buscaron prohibir su comercio para imponer La disolución definitiva de toda la red de forma forzosa ferroviaria. -->
 - [ ] D) La total disolución de las clases sociales que eliminó el influjo de La privatización de los entes comerciales estatales y unificó amigablemente a toda la población.
   <!-- feedback: Incorrecto. Postular una armonía absoluta que borrara las tensiones y anulara La privatización de los entes comerciales estatales es una lectura idílica e incorrecta de la historia nacional. -->
@@ -442,11 +442,11 @@ La evaluación crítica de el protagonismo de la clase obrera y los sindicatos d
 Al juzgar de manera integral el alcance histórico de La expansión del empleo público y el Estado benefactor, ¿cuál de las siguientes valoraciones cuenta con mayor sustento historiográfico?
 
 ### Opciones
-- [x] A) Que La expansión del empleo público y el Estado benefactor constituyó una respuesta clave que sentó las bases de el de forma clientelar clientelismo político y la estabilidad laboral, reconfigurando de forma duradera el orden estatal del país.
+- [x] C) Que La expansión del empleo público y el Estado benefactor constituyó una respuesta clave que sentó las bases de el de forma clientelar clientelismo político y la estabilidad laboral, reconfigurando de forma duradera el orden estatal del país.
   <!-- feedback: Correcto. Una evaluación de largo plazo demuestra que La expansión del empleo público y el Estado benefactor actuó como piedra angular para estructurar el de forma clientelar clientelismo político y la estabilidad laboral en el Uruguay moderno. -->
-- [ ] B) Que fue un retroceso absoluto porque toda la población uruguaya prefería continuar bajo las antiguas normas coloniales de La reducción drástica de todos los de forma forzosa funcionarios.
+- [ ] A) Que fue un retroceso absoluto porque toda la población uruguaya prefería continuar bajo las antiguas normas coloniales de La reducción drástica de todos los de forma forzosa funcionarios.
   <!-- feedback: Incorrecto. Las transformaciones republicanas, democráticas o sociales contaban con amplio arraigo e irreversibilidad, descartando el retorno a La reducción drástica de todos los de forma forzosa funcionarios. -->
-- [ ] C) Que su único logro de largo plazo fue someter la soberanía nacional al arbitrio y control militar directo de La prohibición del voto a los empleados públicos.
+- [ ] B) Que su único logro de largo plazo fue someter la soberanía nacional al arbitrio y control militar directo de La prohibición del voto a los empleados públicos.
   <!-- feedback: Incorrecto. Sostener que La expansión del empleo público y el Estado benefactor solo sirvió para someter el país a La prohibición del voto a los empleados públicos es una lectura reduccionista que ignora la dinámica interna soberana. -->
 - [ ] D) Que careció de trascendencia práctica real al tratarse de una imitación artificial de La privatización de los entes comerciales autónomos sin ningún tipo de base social en el territorio.
   <!-- feedback: Incorrecto. A pesar de las influencias conceptuales externas, el modelo uruguayo se adaptó y respondió de forma directa a su propia base social y conflictos de época. -->
@@ -466,11 +466,11 @@ La evaluación crítica de el peso del sector público y el empleo estatal desta
 Al juzgar de manera integral el alcance histórico de La Ley de Consejos de Salarios, ¿cuál de las siguientes valoraciones cuenta con mayor sustento historiográfico?
 
 ### Opciones
-- [x] A) Que La Ley de Consejos de Salarios constituyó una respuesta clave que sentó las bases de la negociación tripartita (Estado, patronos, obreros), reconfigurando de forma duradera el orden estatal del país.
+- [x] C) Que La Ley de Consejos de Salarios constituyó una respuesta clave que sentó las bases de la negociación tripartita (Estado, patronos, obreros), reconfigurando de forma duradera el orden estatal del país.
   <!-- feedback: Correcto. Una evaluación de largo plazo demuestra que La Ley de Consejos de Salarios actuó como piedra angular para estructurar la negociación tripartita (Estado, patronos, obreros) en el Uruguay moderno. -->
-- [ ] B) Que fue un retroceso absoluto porque toda la población uruguaya prefería continuar bajo las antiguas normas coloniales de La fijación de forma unilateral de los salarios por la ARU.
+- [ ] A) Que fue un retroceso absoluto porque toda la población uruguaya prefería continuar bajo las antiguas normas coloniales de La fijación de forma unilateral de los salarios por la ARU.
   <!-- feedback: Incorrecto. Las transformaciones republicanas, democráticas o sociales contaban con amplio arraigo e irreversibilidad, descartando el retorno a La fijación de forma unilateral de los salarios por la ARU. -->
-- [ ] C) Que su único logro de largo plazo fue someter la soberanía nacional al arbitrio y control militar directo de La abolición definitiva de la jornada de ocho horas.
+- [ ] B) Que su único logro de largo plazo fue someter la soberanía nacional al arbitrio y control militar directo de La abolición definitiva de la jornada de ocho horas.
   <!-- feedback: Incorrecto. Sostener que La Ley de Consejos de Salarios solo sirvió para someter el país a La abolición definitiva de la jornada de ocho horas es una lectura reduccionista que ignora la dinámica interna soberana. -->
 - [ ] D) Que careció de trascendencia práctica real al tratarse de una imitación artificial de La prohibición de huelga bajo de forma inmediata pena de prisión militar sin ningún tipo de base social en el territorio.
   <!-- feedback: Incorrecto. A pesar de las influencias conceptuales externas, el modelo uruguayo se adaptó y respondió de forma directa a su propia base social y conflictos de época. -->
@@ -490,13 +490,13 @@ La evaluación crítica de la ley de Consejos de Salarios de 1943 destaca el rol
 Al juzgar de manera integral el alcance histórico de La falta de inversión tecnológica en el agro latifundista, ¿cuál de las siguientes valoraciones cuenta con mayor sustento historiográfico?
 
 ### Opciones
-- [x] A) Que La falta de inversión tecnológica en el agro latifundista constituyó una respuesta clave que sentó las bases de la debilidad estructural del modelo industrial protegido, reconfigurando de forma duradera el orden estatal del país.
+- [x] D) Que La falta de inversión tecnológica en el agro latifundista constituyó una respuesta clave que sentó las bases de la debilidad estructural del modelo industrial protegido, reconfigurando de forma duradera el orden estatal del país.
   <!-- feedback: Correcto. Una evaluación de largo plazo demuestra que La falta de inversión tecnológica en el agro latifundista actuó como piedra angular para estructurar la debilidad estructural del modelo industrial protegido en el Uruguay moderno. -->
-- [ ] B) Que fue un retroceso absoluto porque toda la población uruguaya prefería continuar bajo las antiguas normas coloniales de La nacionalización forzosa de todas las estancias del país.
+- [ ] A) Que fue un retroceso absoluto porque toda la población uruguaya prefería continuar bajo las antiguas normas coloniales de La nacionalización forzosa de todas las estancias del país.
   <!-- feedback: Incorrecto. Las transformaciones republicanas, democráticas o sociales contaban con amplio arraigo e irreversibilidad, descartando el retorno a La nacionalización forzosa de todas las estancias del país. -->
-- [ ] C) Que su único logro de largo plazo fue someter la soberanía nacional al arbitrio y control militar directo de La caída de forma drástica del consumo interno de carne vacuna.
+- [ ] B) Que su único logro de largo plazo fue someter la soberanía nacional al arbitrio y control militar directo de La caída de forma drástica del consumo interno de carne vacuna.
   <!-- feedback: Incorrecto. Sostener que La falta de inversión tecnológica en el agro latifundista solo sirvió para someter el país a La caída de forma drástica del consumo interno de carne vacuna es una lectura reduccionista que ignora la dinámica interna soberana. -->
-- [ ] D) Que careció de trascendencia práctica real al tratarse de una imitación artificial de La abolición del patrón oro en las transacciones de forma inmediata sin ningún tipo de base social en el territorio.
+- [ ] C) Que careció de trascendencia práctica real al tratarse de una imitación artificial de La abolición del patrón oro en las transacciones de forma inmediata sin ningún tipo de base social en el territorio.
   <!-- feedback: Incorrecto. A pesar de las influencias conceptuales externas, el modelo uruguayo se adaptó y respondió de forma directa a su propia base social y conflictos de época. -->
 
 ### Explicacion Pedagogica

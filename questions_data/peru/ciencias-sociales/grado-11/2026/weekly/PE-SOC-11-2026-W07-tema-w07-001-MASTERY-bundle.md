@@ -55,13 +55,13 @@ El estudio riguroso del periodo W07 requiere articular la evidencia documental c
 Respecto a los avances conceptuales y analíticos del tema W07 en el programa CNEB/UNMSM, evalúe la proposición 2:
 
 ### Opciones
-- [x] A) La consolidación de las instituciones y el desarrollo sustentable impulsaron el progreso socioeconómico del país en el evento 2
+- [x] D) La consolidación de las instituciones y el desarrollo sustentable impulsaron el progreso socioeconómico del país en el evento 2
   <!-- feedback: Correcto. La integración de políticas públicas y la participación ciudadana fortalecen el orden democrático e institucional. -->
-- [ ] B) La anulación completa de las garantías constitucionales y legales durante el periodo 2
+- [ ] A) La anulación completa de las garantías constitucionales y legales durante el periodo 2
   <!-- feedback: Incorrecto. El marco constitucional garantiza los derechos fundamentales y la continuidad del Estado de derecho. -->
-- [ ] C) La eliminación del comercio interno y la autarquía económica regional en el proceso 2
+- [ ] B) La eliminación del comercio interno y la autarquía económica regional en el proceso 2
   <!-- feedback: Incorrecto. La economía peruana ha mantenido históricamente dinamismo mercantil interregional y abierto. -->
-- [ ] D) La migración forzada de toda la población urbana hacia los valles amazónicos en el hito 2
+- [ ] C) La migración forzada de toda la población urbana hacia los valles amazónicos en el hito 2
   <!-- feedback: Incorrecto. Los flujos migratorios principales en el Perú moderno se han orientado de la sierra hacia la costa y grandes ciudades. -->
 
 ### Explicacion Pedagogica
@@ -80,13 +80,13 @@ El estudio riguroso del periodo W07 requiere articular la evidencia documental c
 Respecto a los avances conceptuales y analíticos del tema W07 en el programa CNEB/UNMSM, evalúe la proposición 3:
 
 ### Opciones
-- [x] A) La consolidación de las instituciones y el desarrollo sustentable impulsaron el progreso socioeconómico del país en el evento 3
+- [x] D) La consolidación de las instituciones y el desarrollo sustentable impulsaron el progreso socioeconómico del país en el evento 3
   <!-- feedback: Correcto. La integración de políticas públicas y la participación ciudadana fortalecen el orden democrático e institucional. -->
-- [ ] B) La anulación completa de las garantías constitucionales y legales durante el periodo 3
+- [ ] A) La anulación completa de las garantías constitucionales y legales durante el periodo 3
   <!-- feedback: Incorrecto. El marco constitucional garantiza los derechos fundamentales y la continuidad del Estado de derecho. -->
-- [ ] C) La eliminación del comercio interno y la autarquía económica regional en el proceso 3
+- [ ] B) La eliminación del comercio interno y la autarquía económica regional en el proceso 3
   <!-- feedback: Incorrecto. La economía peruana ha mantenido históricamente dinamismo mercantil interregional y abierto. -->
-- [ ] D) La migración forzada de toda la población urbana hacia los valles amazónicos en el hito 3
+- [ ] C) La migración forzada de toda la población urbana hacia los valles amazónicos en el hito 3
   <!-- feedback: Incorrecto. Los flujos migratorios principales en el Perú moderno se han orientado de la sierra hacia la costa y grandes ciudades. -->
 
 ### Explicacion Pedagogica
@@ -130,9 +130,9 @@ El estudio riguroso del periodo W07 requiere articular la evidencia documental c
 Respecto a los avances conceptuales y analíticos del tema W07 en el programa CNEB/UNMSM, evalúe la proposición 5:
 
 ### Opciones
-- [x] A) La consolidación de las instituciones y el desarrollo sustentable impulsaron el progreso socioeconómico del país en el evento 5
+- [x] B) La consolidación de las instituciones y el desarrollo sustentable impulsaron el progreso socioeconómico del país en el evento 5
   <!-- feedback: Correcto. La integración de políticas públicas y la participación ciudadana fortalecen el orden democrático e institucional. -->
-- [ ] B) La anulación completa de las garantías constitucionales y legales durante el periodo 5
+- [ ] A) La anulación completa de las garantías constitucionales y legales durante el periodo 5
   <!-- feedback: Incorrecto. El marco constitucional garantiza los derechos fundamentales y la continuidad del Estado de derecho. -->
 - [ ] C) La eliminación del comercio interno y la autarquía económica regional en el proceso 5
   <!-- feedback: Incorrecto. La economía peruana ha mantenido históricamente dinamismo mercantil interregional y abierto. -->
@@ -155,13 +155,13 @@ El estudio riguroso del periodo W07 requiere articular la evidencia documental c
 Respecto a los avances conceptuales y analíticos del tema W07 en el programa CNEB/UNMSM, evalúe la proposición 6:
 
 ### Opciones
-- [x] A) La consolidación de las instituciones y el desarrollo sustentable impulsaron el progreso socioeconómico del país en el evento 6
+- [x] D) La consolidación de las instituciones y el desarrollo sustentable impulsaron el progreso socioeconómico del país en el evento 6
   <!-- feedback: Correcto. La integración de políticas públicas y la participación ciudadana fortalecen el orden democrático e institucional. -->
-- [ ] B) La anulación completa de las garantías constitucionales y legales durante el periodo 6
+- [ ] A) La anulación completa de las garantías constitucionales y legales durante el periodo 6
   <!-- feedback: Incorrecto. El marco constitucional garantiza los derechos fundamentales y la continuidad del Estado de derecho. -->
-- [ ] C) La eliminación del comercio interno y la autarquía económica regional en el proceso 6
+- [ ] B) La eliminación del comercio interno y la autarquía económica regional en el proceso 6
   <!-- feedback: Incorrecto. La economía peruana ha mantenido históricamente dinamismo mercantil interregional y abierto. -->
-- [ ] D) La migración forzada de toda la población urbana hacia los valles amazónicos en el hito 6
+- [ ] C) La migración forzada de toda la población urbana hacia los valles amazónicos en el hito 6
   <!-- feedback: Incorrecto. Los flujos migratorios principales en el Perú moderno se han orientado de la sierra hacia la costa y grandes ciudades. -->
 
 ### Explicacion Pedagogica
@@ -230,11 +230,11 @@ El estudio riguroso del periodo W07 requiere articular la evidencia documental c
 Respecto a los avances conceptuales y analíticos del tema W07 en el programa CNEB/UNMSM, evalúe la proposición 9:
 
 ### Opciones
-- [x] A) La consolidación de las instituciones y el desarrollo sustentable impulsaron el progreso socioeconómico del país en el evento 9
+- [x] C) La consolidación de las instituciones y el desarrollo sustentable impulsaron el progreso socioeconómico del país en el evento 9
   <!-- feedback: Correcto. La integración de políticas públicas y la participación ciudadana fortalecen el orden democrático e institucional. -->
-- [ ] B) La anulación completa de las garantías constitucionales y legales durante el periodo 9
+- [ ] A) La anulación completa de las garantías constitucionales y legales durante el periodo 9
   <!-- feedback: Incorrecto. El marco constitucional garantiza los derechos fundamentales y la continuidad del Estado de derecho. -->
-- [ ] C) La eliminación del comercio interno y la autarquía económica regional en el proceso 9
+- [ ] B) La eliminación del comercio interno y la autarquía económica regional en el proceso 9
   <!-- feedback: Incorrecto. La economía peruana ha mantenido históricamente dinamismo mercantil interregional y abierto. -->
 - [ ] D) La migración forzada de toda la población urbana hacia los valles amazónicos en el hito 9
   <!-- feedback: Incorrecto. Los flujos migratorios principales en el Perú moderno se han orientado de la sierra hacia la costa y grandes ciudades. -->
@@ -255,9 +255,9 @@ El estudio riguroso del periodo W07 requiere articular la evidencia documental c
 Respecto a los avances conceptuales y analíticos del tema W07 en el programa CNEB/UNMSM, evalúe la proposición 10:
 
 ### Opciones
-- [x] A) La consolidación de las instituciones y el desarrollo sustentable impulsaron el progreso socioeconómico del país en el evento 10
+- [x] B) La consolidación de las instituciones y el desarrollo sustentable impulsaron el progreso socioeconómico del país en el evento 10
   <!-- feedback: Correcto. La integración de políticas públicas y la participación ciudadana fortalecen el orden democrático e institucional. -->
-- [ ] B) La anulación completa de las garantías constitucionales y legales durante el periodo 10
+- [ ] A) La anulación completa de las garantías constitucionales y legales durante el periodo 10
   <!-- feedback: Incorrecto. El marco constitucional garantiza los derechos fundamentales y la continuidad del Estado de derecho. -->
 - [ ] C) La eliminación del comercio interno y la autarquía económica regional en el proceso 10
   <!-- feedback: Incorrecto. La economía peruana ha mantenido históricamente dinamismo mercantil interregional y abierto. -->
@@ -280,11 +280,11 @@ El estudio riguroso del periodo W07 requiere articular la evidencia documental c
 Respecto a los avances conceptuales y analíticos del tema W07 en el programa CNEB/UNMSM, evalúe la proposición 11:
 
 ### Opciones
-- [x] A) La consolidación de las instituciones y el desarrollo sustentable impulsaron el progreso socioeconómico del país en el evento 11
+- [x] C) La consolidación de las instituciones y el desarrollo sustentable impulsaron el progreso socioeconómico del país en el evento 11
   <!-- feedback: Correcto. La integración de políticas públicas y la participación ciudadana fortalecen el orden democrático e institucional. -->
-- [ ] B) La anulación completa de las garantías constitucionales y legales durante el periodo 11
+- [ ] A) La anulación completa de las garantías constitucionales y legales durante el periodo 11
   <!-- feedback: Incorrecto. El marco constitucional garantiza los derechos fundamentales y la continuidad del Estado de derecho. -->
-- [ ] C) La eliminación del comercio interno y la autarquía económica regional en el proceso 11
+- [ ] B) La eliminación del comercio interno y la autarquía económica regional en el proceso 11
   <!-- feedback: Incorrecto. La economía peruana ha mantenido históricamente dinamismo mercantil interregional y abierto. -->
 - [ ] D) La migración forzada de toda la población urbana hacia los valles amazónicos en el hito 11
   <!-- feedback: Incorrecto. Los flujos migratorios principales en el Perú moderno se han orientado de la sierra hacia la costa y grandes ciudades. -->
@@ -305,13 +305,13 @@ El estudio riguroso del periodo W07 requiere articular la evidencia documental c
 Respecto a los avances conceptuales y analíticos del tema W07 en el programa CNEB/UNMSM, evalúe la proposición 12:
 
 ### Opciones
-- [x] A) La consolidación de las instituciones y el desarrollo sustentable impulsaron el progreso socioeconómico del país en el evento 12
+- [x] D) La consolidación de las instituciones y el desarrollo sustentable impulsaron el progreso socioeconómico del país en el evento 12
   <!-- feedback: Correcto. La integración de políticas públicas y la participación ciudadana fortalecen el orden democrático e institucional. -->
-- [ ] B) La anulación completa de las garantías constitucionales y legales durante el periodo 12
+- [ ] A) La anulación completa de las garantías constitucionales y legales durante el periodo 12
   <!-- feedback: Incorrecto. El marco constitucional garantiza los derechos fundamentales y la continuidad del Estado de derecho. -->
-- [ ] C) La eliminación del comercio interno y la autarquía económica regional en el proceso 12
+- [ ] B) La eliminación del comercio interno y la autarquía económica regional en el proceso 12
   <!-- feedback: Incorrecto. La economía peruana ha mantenido históricamente dinamismo mercantil interregional y abierto. -->
-- [ ] D) La migración forzada de toda la población urbana hacia los valles amazónicos en el hito 12
+- [ ] C) La migración forzada de toda la población urbana hacia los valles amazónicos en el hito 12
   <!-- feedback: Incorrecto. Los flujos migratorios principales en el Perú moderno se han orientado de la sierra hacia la costa y grandes ciudades. -->
 
 ### Explicacion Pedagogica
@@ -355,9 +355,9 @@ El estudio riguroso del periodo W07 requiere articular la evidencia documental c
 Respecto a los avances conceptuales y analíticos del tema W07 en el programa CNEB/UNMSM, evalúe la proposición 14:
 
 ### Opciones
-- [x] A) La consolidación de las instituciones y el desarrollo sustentable impulsaron el progreso socioeconómico del país en el evento 14
+- [x] B) La consolidación de las instituciones y el desarrollo sustentable impulsaron el progreso socioeconómico del país en el evento 14
   <!-- feedback: Correcto. La integración de políticas públicas y la participación ciudadana fortalecen el orden democrático e institucional. -->
-- [ ] B) La anulación completa de las garantías constitucionales y legales durante el periodo 14
+- [ ] A) La anulación completa de las garantías constitucionales y legales durante el periodo 14
   <!-- feedback: Incorrecto. El marco constitucional garantiza los derechos fundamentales y la continuidad del Estado de derecho. -->
 - [ ] C) La eliminación del comercio interno y la autarquía económica regional en el proceso 14
   <!-- feedback: Incorrecto. La economía peruana ha mantenido históricamente dinamismo mercantil interregional y abierto. -->
@@ -405,9 +405,9 @@ El estudio riguroso del periodo W07 requiere articular la evidencia documental c
 Respecto a los avances conceptuales y analíticos del tema W07 en el programa CNEB/UNMSM, evalúe la proposición 16:
 
 ### Opciones
-- [x] A) La consolidación de las instituciones y el desarrollo sustentable impulsaron el progreso socioeconómico del país en el evento 16
+- [x] B) La consolidación de las instituciones y el desarrollo sustentable impulsaron el progreso socioeconómico del país en el evento 16
   <!-- feedback: Correcto. La integración de políticas públicas y la participación ciudadana fortalecen el orden democrático e institucional. -->
-- [ ] B) La anulación completa de las garantías constitucionales y legales durante el periodo 16
+- [ ] A) La anulación completa de las garantías constitucionales y legales durante el periodo 16
   <!-- feedback: Incorrecto. El marco constitucional garantiza los derechos fundamentales y la continuidad del Estado de derecho. -->
 - [ ] C) La eliminación del comercio interno y la autarquía económica regional en el proceso 16
   <!-- feedback: Incorrecto. La economía peruana ha mantenido históricamente dinamismo mercantil interregional y abierto. -->
@@ -430,9 +430,9 @@ El estudio riguroso del periodo W07 requiere articular la evidencia documental c
 Respecto a los avances conceptuales y analíticos del tema W07 en el programa CNEB/UNMSM, evalúe la proposición 17:
 
 ### Opciones
-- [x] A) La consolidación de las instituciones y el desarrollo sustentable impulsaron el progreso socioeconómico del país en el evento 17
+- [x] B) La consolidación de las instituciones y el desarrollo sustentable impulsaron el progreso socioeconómico del país en el evento 17
   <!-- feedback: Correcto. La integración de políticas públicas y la participación ciudadana fortalecen el orden democrático e institucional. -->
-- [ ] B) La anulación completa de las garantías constitucionales y legales durante el periodo 17
+- [ ] A) La anulación completa de las garantías constitucionales y legales durante el periodo 17
   <!-- feedback: Incorrecto. El marco constitucional garantiza los derechos fundamentales y la continuidad del Estado de derecho. -->
 - [ ] C) La eliminación del comercio interno y la autarquía económica regional en el proceso 17
   <!-- feedback: Incorrecto. La economía peruana ha mantenido históricamente dinamismo mercantil interregional y abierto. -->
@@ -480,13 +480,13 @@ El estudio riguroso del periodo W07 requiere articular la evidencia documental c
 Respecto a los avances conceptuales y analíticos del tema W07 en el programa CNEB/UNMSM, evalúe la proposición 19:
 
 ### Opciones
-- [x] A) La consolidación de las instituciones y el desarrollo sustentable impulsaron el progreso socioeconómico del país en el evento 19
+- [x] D) La consolidación de las instituciones y el desarrollo sustentable impulsaron el progreso socioeconómico del país en el evento 19
   <!-- feedback: Correcto. La integración de políticas públicas y la participación ciudadana fortalecen el orden democrático e institucional. -->
-- [ ] B) La anulación completa de las garantías constitucionales y legales durante el periodo 19
+- [ ] A) La anulación completa de las garantías constitucionales y legales durante el periodo 19
   <!-- feedback: Incorrecto. El marco constitucional garantiza los derechos fundamentales y la continuidad del Estado de derecho. -->
-- [ ] C) La eliminación del comercio interno y la autarquía económica regional en el proceso 19
+- [ ] B) La eliminación del comercio interno y la autarquía económica regional en el proceso 19
   <!-- feedback: Incorrecto. La economía peruana ha mantenido históricamente dinamismo mercantil interregional y abierto. -->
-- [ ] D) La migración forzada de toda la población urbana hacia los valles amazónicos en el hito 19
+- [ ] C) La migración forzada de toda la población urbana hacia los valles amazónicos en el hito 19
   <!-- feedback: Incorrecto. Los flujos migratorios principales en el Perú moderno se han orientado de la sierra hacia la costa y grandes ciudades. -->
 
 ### Explicacion Pedagogica
@@ -505,9 +505,9 @@ El estudio riguroso del periodo W07 requiere articular la evidencia documental c
 Respecto a los avances conceptuales y analíticos del tema W07 en el programa CNEB/UNMSM, evalúe la proposición 20:
 
 ### Opciones
-- [x] A) La consolidación de las instituciones y el desarrollo sustentable impulsaron el progreso socioeconómico del país en el evento 20
+- [x] B) La consolidación de las instituciones y el desarrollo sustentable impulsaron el progreso socioeconómico del país en el evento 20
   <!-- feedback: Correcto. La integración de políticas públicas y la participación ciudadana fortalecen el orden democrático e institucional. -->
-- [ ] B) La anulación completa de las garantías constitucionales y legales durante el periodo 20
+- [ ] A) La anulación completa de las garantías constitucionales y legales durante el periodo 20
   <!-- feedback: Incorrecto. El marco constitucional garantiza los derechos fundamentales y la continuidad del Estado de derecho. -->
 - [ ] C) La eliminación del comercio interno y la autarquía económica regional en el proceso 20
   <!-- feedback: Incorrecto. La economía peruana ha mantenido históricamente dinamismo mercantil interregional y abierto. -->

@@ -33,8 +33,8 @@ La zona metropolitana de la Ciudad de México enfrenta un desafío que crece con
 
 ### Opciones
 - [ ] A) A un cuento de ciencia ficción sobre una ciudad futura. <!-- feedback: Incorrecto. El texto se refiere a una situación real y actual, sin elementos ficticios. -->
-- [ ] B) A un instructivo para reparar tuberías. <!-- feedback: Incorrecto. No presenta pasos ni materiales para una reparación. -->
-- [x] C) A un reportaje informativo que describe un problema actual con datos y explicaciones. <!-- feedback: Correcto. El texto expone causas y consecuencias del desafío hídrico de manera objetiva. -->
+- [ ] C) A un instructivo para reparar tuberías. <!-- feedback: Incorrecto. No presenta pasos ni materiales para una reparación. -->
+- [x] B) A un reportaje informativo que describe un problema actual con datos y explicaciones. <!-- feedback: Correcto. El texto expone causas y consecuencias del desafío hídrico de manera objetiva. -->
 - [ ] D) A una obra de teatro con diálogos entre vecinos. <!-- feedback: Incorrecto. No hay acotaciones ni parlamentos dramáticos. -->
 
 ### Explicacion Pedagogica
@@ -53,8 +53,8 @@ La zona metropolitana de la Ciudad de México enfrenta un desafío que crece con
 Según el reportaje, ¿de dónde proviene una parte del agua que consume la zona metropolitana?
 
 ### Opciones
-- [x] A) De las presas del Sistema Cutzamala, en el Estado de México y Michoacán. <!-- feedback: Correcto. Es el dato explícito que ofrece el texto. -->
-- [ ] B) De los ríos de la península de Yucatán. <!-- feedback: Incorrecto. El texto no menciona esa región. -->
+- [x] B) De las presas del Sistema Cutzamala, en el Estado de México y Michoacán. <!-- feedback: Correcto. Es el dato explícito que ofrece el texto. -->
+- [ ] A) De los ríos de la península de Yucatán. <!-- feedback: Incorrecto. El texto no menciona esa región. -->
 - [ ] C) De las plantas desalinizadoras de Baja California. <!-- feedback: Incorrecto. El reportaje no habla de desalinización. -->
 - [ ] D) De los glaciares del Popocatépetl. <!-- feedback: Incorrecto. No hay tal fuente en el texto. -->
 
@@ -74,8 +74,8 @@ La zona metropolitana de la Ciudad de México enfrenta un desafío que crece con
 ¿Cuál es la idea principal del reportaje?
 
 ### Opciones
-- [ ] A) El agua de la ciudad es la más cara de América Latina. <!-- feedback: Incorrecto. El texto no compara tarifas entre países. -->
-- [x] B) El abasto de agua en la zona metropolitana es un problema serio cuya solución depende tanto de la gestión como de la cantidad disponible. <!-- feedback: Correcto. El texto combina el origen del problema con la urgencia de una mejor gestión. -->
+- [ ] B) El agua de la ciudad es la más cara de América Latina. <!-- feedback: Incorrecto. El texto no compara tarifas entre países. -->
+- [x] A) El abasto de agua en la zona metropolitana es un problema serio cuya solución depende tanto de la gestión como de la cantidad disponible. <!-- feedback: Correcto. El texto combina el origen del problema con la urgencia de una mejor gestión. -->
 - [ ] C) Las alcaldías deben clausurar el Sistema Cutzamala. <!-- feedback: Incorrecto. No se propone cerrar el sistema. -->
 - [ ] D) La sequía es un fenómeno exclusivo de la Ciudad de México. <!-- feedback: Incorrecto. El texto no afirma que sea exclusivo. -->
 
@@ -97,8 +97,8 @@ La zona metropolitana de la Ciudad de México enfrenta un desafío que crece con
 ### Opciones
 - [ ] A) Convencer a los lectores de que compren tinacos. <!-- feedback: Incorrecto. No hay recomendación comercial. -->
 - [ ] B) Narrar la historia de una familia durante un corte de agua. <!-- feedback: Incorrecto. No hay una historia personal narrada. -->
-- [x] C) Informar sobre las causas y consecuencias del problema del agua en la zona metropolitana. <!-- feedback: Correcto. El reportaje expone hechos, causas y soluciones señaladas por especialistas. -->
-- [ ] D) Explicar la construcción de las presas paso a paso. <!-- feedback: Incorrecto. La construcción no es el tema. -->
+- [x] D) Informar sobre las causas y consecuencias del problema del agua en la zona metropolitana. <!-- feedback: Correcto. El reportaje expone hechos, causas y soluciones señaladas por especialistas. -->
+- [ ] C) Explicar la construcción de las presas paso a paso. <!-- feedback: Incorrecto. La construcción no es el tema. -->
 
 ### Explicacion Pedagogica
 El propósito del reportaje es informar: explicar de dónde viene el agua, por qué hay escasez y qué riesgos y soluciones existen, de manera objetiva.
@@ -116,9 +116,9 @@ La zona metropolitana de la Ciudad de México enfrenta un desafío que crece con
 Cuando el texto afirma que "el suelo se hunde de manera irregular", ¿qué quiere decir?
 
 ### Opciones
-- [x] A) Que algunas zonas de la ciudad se hunden más que otras por la extracción desigual de agua. <!-- feedback: Correcto. "De manera irregular" indica que el hundimiento no es parejo. -->
-- [ ] B) Que todas las calles se hunden exactamente igual. <!-- feedback: Incorrecto. "Irregular" niega la uniformidad. -->
-- [ ] C) Que el suelo se hunde solo en temporada de lluvias. <!-- feedback: Incorrecto. El texto vincula el hundimiento a la extracción, no a la lluvia. -->
+- [x] C) Que algunas zonas de la ciudad se hunden más que otras por la extracción desigual de agua. <!-- feedback: Correcto. "De manera irregular" indica que el hundimiento no es parejo. -->
+- [ ] A) Que todas las calles se hunden exactamente igual. <!-- feedback: Incorrecto. "Irregular" niega la uniformidad. -->
+- [ ] B) Que el suelo se hunde solo en temporada de lluvias. <!-- feedback: Incorrecto. El texto vincula el hundimiento a la extracción, no a la lluvia. -->
 - [ ] D) Que el hundimiento es un fenómeno estético sin consecuencias. <!-- feedback: Incorrecto. El texto lo asocia a la fractura de tuberías. -->
 
 ### Explicacion Pedagogica
@@ -158,8 +158,8 @@ La zona metropolitana de la Ciudad de México enfrenta un desafío que crece con
 En el reportaje, la palabra "tandeos" significa:
 
 ### Opciones
-- [ ] A) Reparaciones permanentes de las tuberías. <!-- feedback: Incorrecto. Los tandeos no son trabajos de reparación. -->
-- [x] B) Cortes programados del servicio de agua por periodos. <!-- feedback: Correcto. El propio texto lo aclara: "es decir, cortes programados del servicio". -->
+- [ ] B) Reparaciones permanentes de las tuberías. <!-- feedback: Incorrecto. Los tandeos no son trabajos de reparación. -->
+- [x] A) Cortes programados del servicio de agua por periodos. <!-- feedback: Correcto. El propio texto lo aclara: "es decir, cortes programados del servicio". -->
 - [ ] C) Aumentos de la tarifa del recibo. <!-- feedback: Incorrecto. El texto no los vincula a la tarifa. -->
 - [ ] D) Campañas de ahorro de agua. <!-- feedback: Incorrecto. No son campañas de concientización. -->
 
@@ -179,9 +179,9 @@ En una alcaldía del oriente de la capital, los vecinos organizaron asambleas pa
 En el texto, la palabra "racionamiento" se refiere a:
 
 ### Opciones
-- [ ] A) El aumento del precio del agua. <!-- feedback: Incorrecto. No se trata de un ajuste de precios. -->
-- [ ] B) La venta de agua embotellada. <!-- feedback: Incorrecto. El texto no habla de venta de botellas. -->
-- [x] C) La distribución limitada del agua disponible durante un periodo. <!-- feedback: Correcto. El racionamiento reduce el suministro diario mientras se reparan las fugas. -->
+- [ ] B) El aumento del precio del agua. <!-- feedback: Incorrecto. No se trata de un ajuste de precios. -->
+- [ ] C) La venta de agua embotellada. <!-- feedback: Incorrecto. El texto no habla de venta de botellas. -->
+- [x] A) La distribución limitada del agua disponible durante un periodo. <!-- feedback: Correcto. El racionamiento reduce el suministro diario mientras se reparan las fugas. -->
 - [ ] D) La construcción de nuevas presas. <!-- feedback: Incorrecto. No se menciona construcción de presas. -->
 
 ### Explicacion Pedagogica
@@ -201,8 +201,8 @@ Cada vez que se anuncia una nueva sequía, reaparece la misma pregunta: ¿cómo 
 
 ### Opciones
 - [ ] A) Introducir una objeción a la política hídrica. <!-- feedback: Incorrecto. "Por eso" no objeta; concluye. -->
-- [ ] B) Señalar un contraste entre dos ciudades. <!-- feedback: Incorrecto. No hay contraste de ciudades. -->
-- [x] C) Introducir la conclusión derivada de los argumentos anteriores. <!-- feedback: Correcto. "Por eso" marca que lo siguiente es la consecuencia lógica de lo argumentado. -->
+- [ ] C) Señalar un contraste entre dos ciudades. <!-- feedback: Incorrecto. No hay contraste de ciudades. -->
+- [x] B) Introducir la conclusión derivada de los argumentos anteriores. <!-- feedback: Correcto. "Por eso" marca que lo siguiente es la consecuencia lógica de lo argumentado. -->
 - [ ] D) Ejemplificar con un caso de sequía. <!-- feedback: Incorrecto. No introduce un ejemplo. -->
 
 ### Explicacion Pedagogica
@@ -222,9 +222,9 @@ En el texto, la expresión "Mientras tanto" cumple la función de:
 
 ### Opciones
 - [ ] A) Señalar una causa del racionamiento. <!-- feedback: Incorrecto. No introduce una causa. -->
-- [x] B) Indicar acciones que ocurren de manera paralela a las obras de reparación. <!-- feedback: Correcto. Mientras el organismo trabaja, la asamblea organiza el uso del agua. -->
-- [ ] C) Concluir con una opinión personal de María. <!-- feedback: Incorrecto. No es una conclusión personal. -->
-- [ ] D) Comparar dos alcaldías distintas. <!-- feedback: Incorrecto. No hay comparación entre alcaldías. -->
+- [x] D) Indicar acciones que ocurren de manera paralela a las obras de reparación. <!-- feedback: Correcto. Mientras el organismo trabaja, la asamblea organiza el uso del agua. -->
+- [ ] B) Concluir con una opinión personal de María. <!-- feedback: Incorrecto. No es una conclusión personal. -->
+- [ ] C) Comparar dos alcaldías distintas. <!-- feedback: Incorrecto. No hay comparación entre alcaldías. -->
 
 ### Explicacion Pedagogica
 "Mientras tanto" es un marcador de simultaneidad: conecta lo que ocurre durante las reparaciones (los trabajos del organismo) con lo que la asamblea hace en paralelo (publicar el calendario y vigilar el reparto).
@@ -243,9 +243,9 @@ En una alcaldía del oriente de la capital, los vecinos organizaron asambleas pa
 
 ### Opciones
 - [ ] A) Una alcaldía inaugura una planta potabilizadora. <!-- feedback: Incorrecto. No se menciona ninguna planta. -->
-- [x] B) Ante un racionamiento por reparaciones, los vecinos se organizan y el organismo anuncia plazos. <!-- feedback: Correcto. El resumen integra medida, reacción vecinal y respuesta del organismo. -->
-- [ ] C) Los vecinos exigen que se cancele la temporada de lluvias. <!-- feedback: Incorrecto. Nadie pide eso; la lluvia se menciona como plazo. -->
-- [ ] D) Una familia decide mudarse a otra ciudad. <!-- feedback: Incorrecto. No hay migración en el texto. -->
+- [x] D) Ante un racionamiento por reparaciones, los vecinos se organizan y el organismo anuncia plazos. <!-- feedback: Correcto. El resumen integra medida, reacción vecinal y respuesta del organismo. -->
+- [ ] B) Los vecinos exigen que se cancele la temporada de lluvias. <!-- feedback: Incorrecto. Nadie pide eso; la lluvia se menciona como plazo. -->
+- [ ] C) Una familia decide mudarse a otra ciudad. <!-- feedback: Incorrecto. No hay migración en el texto. -->
 
 ### Explicacion Pedagogica
 Resumir exige conservar los elementos centrales: la medida (racionamiento por reparación de fugas), la organización vecinal y el anuncio de plazos por parte del organismo.
@@ -263,9 +263,9 @@ Cada vez que se anuncia una nueva sequía, reaparece la misma pregunta: ¿cómo 
 ¿Cuál es el propósito principal del artículo de opinión?
 
 ### Opciones
-- [ ] A) Describir el funcionamiento del Sistema Cutzamala. <!-- feedback: Incorrecto. El sistema no es el tema del artículo. -->
-- [ ] B) Informar sobre los precios del agua en pesos. <!-- feedback: Incorrecto. No se discuten tarifas. -->
-- [x] C) Persuadir al lector de que la solución al problema hídrico está en la gestión interna, no solo en traer más agua. <!-- feedback: Correcto. El autor defiende una tesis y busca convencer con argumentos. -->
+- [ ] B) Describir el funcionamiento del Sistema Cutzamala. <!-- feedback: Incorrecto. El sistema no es el tema del artículo. -->
+- [ ] C) Informar sobre los precios del agua en pesos. <!-- feedback: Incorrecto. No se discuten tarifas. -->
+- [x] A) Persuadir al lector de que la solución al problema hídrico está en la gestión interna, no solo en traer más agua. <!-- feedback: Correcto. El autor defiende una tesis y busca convencer con argumentos. -->
 - [ ] D) Narrar la fundación de la ciudad. <!-- feedback: Incorrecto. No hay narración histórica. -->
 
 ### Explicacion Pedagogica
@@ -285,8 +285,8 @@ Cuando el autor dice que "el agua no se crea, se traslada", ¿qué idea se infie
 
 ### Opciones
 - [ ] A) Que las ciudades pueden generar agua con maquinaria. <!-- feedback: Incorrecto. El autor niega que se pueda crear agua. -->
-- [ ] B) Que traer agua de lejos es siempre gratis. <!-- feedback: Incorrecto. El autor señala que cada kilómetro encarece el servicio. -->
-- [x] C) Que el suministro tiene límites físicos y económicos, por lo que conviene gestionar la demanda. <!-- feedback: Correcto. De esa idea se deriva su apuesta por la gestión interna. -->
+- [ ] C) Que traer agua de lejos es siempre gratis. <!-- feedback: Incorrecto. El autor señala que cada kilómetro encarece el servicio. -->
+- [x] B) Que el suministro tiene límites físicos y económicos, por lo que conviene gestionar la demanda. <!-- feedback: Correcto. De esa idea se deriva su apuesta por la gestión interna. -->
 - [ ] D) Que el agua sobrante puede venderse sin costo ambiental. <!-- feedback: Incorrecto. No se afirma nada semejante. -->
 
 ### Explicacion Pedagogica
@@ -306,8 +306,8 @@ En el artículo, ¿qué función cumple la enumeración "reparar las fugas, reca
 
 ### Opciones
 - [ ] A) Describir los pasos de una investigación científica. <!-- feedback: Incorrecto. No es un procedimiento experimental. -->
-- [ ] B) Señalar las causas históricas de la sequía. <!-- feedback: Incorrecto. No son causas, son acciones. -->
-- [x] C) Presentar las medidas concretas que sostienen la alternativa que propone el autor. <!-- feedback: Correcto. La enumeración da contenido a la tesis de la gestión interna. -->
+- [ ] C) Señalar las causas históricas de la sequía. <!-- feedback: Incorrecto. No son causas, son acciones. -->
+- [x] B) Presentar las medidas concretas que sostienen la alternativa que propone el autor. <!-- feedback: Correcto. La enumeración da contenido a la tesis de la gestión interna. -->
 - [ ] D) Criticar a los vecinos que desperdician agua. <!-- feedback: Incorrecto. No hay crítica personal a los vecinos. -->
 
 ### Explicacion Pedagogica
@@ -327,8 +327,8 @@ En una alcaldía del oriente de la capital, los vecinos organizaron asambleas pa
 
 ### Opciones
 - [ ] A) Como una protesta violenta contra el organismo. <!-- feedback: Incorrecto. No hay actos violentos. -->
-- [x] B) Como posturas diversas: unos critican la medida y otros la aceptan como necesaria. <!-- feedback: Correcto. El texto registra ambas reacciones sin tomar partido. -->
-- [ ] C) Como un apoyo unánime e incondicional. <!-- feedback: Incorrecto. Hay críticas explícitas. -->
+- [x] C) Como posturas diversas: unos critican la medida y otros la aceptan como necesaria. <!-- feedback: Correcto. El texto registra ambas reacciones sin tomar partido. -->
+- [ ] B) Como un apoyo unánime e incondicional. <!-- feedback: Incorrecto. Hay críticas explícitas. -->
 - [ ] D) Como una indiferencia total de la comunidad. <!-- feedback: Incorrecto. Los vecinos se organizan en asambleas. -->
 
 ### Explicacion Pedagogica
@@ -369,8 +369,8 @@ Cada vez que se anuncia una nueva sequía, reaparece la misma pregunta: ¿cómo 
 
 ### Opciones
 - [ ] A) La reparación de fugas ha demostrado recuperar volúmenes significativos de agua en varias ciudades. <!-- feedback: Incorrecto. Esto reforzaría la tesis de la gestión interna. -->
-- [ ] B) La captación de lluvia ha reducido la presión sobre los acuíferos en zonas piloto. <!-- feedback: Incorrecto. También apoya la propuesta del autor. -->
-- [x] C) Aun con fugas reparadas, la demanda de la ciudad supera con holgura lo que se puede ahorrar. <!-- feedback: Correcto. Si el ahorro interno no alcanza, la gestión interna sola no resolvería el problema. -->
+- [ ] C) La captación de lluvia ha reducido la presión sobre los acuíferos en zonas piloto. <!-- feedback: Incorrecto. También apoya la propuesta del autor. -->
+- [x] B) Aun con fugas reparadas, la demanda de la ciudad supera con holgura lo que se puede ahorrar. <!-- feedback: Correcto. Si el ahorro interno no alcanza, la gestión interna sola no resolvería el problema. -->
 - [ ] D) El desperdicio doméstico ha disminuido gracias a campañas ciudadanas. <!-- feedback: Incorrecto. Apoya la viabilidad de la propuesta. -->
 
 ### Explicacion Pedagogica
@@ -390,8 +390,8 @@ De las siguientes afirmaciones, ¿cuál es un hecho y cuál una opinión? Identi
 
 ### Opciones
 - [ ] A) Hecho: "el racionamiento es injusto"; opinión: "el organismo anunció la medida". <!-- feedback: Incorrecto. Está invertida la clasificación. -->
-- [ ] B) Hecho: "los vecinos deberían aceptar la medida"; opinión: "el organismo asegura que concluirá antes de la temporada de lluvias". <!-- feedback: Incorrecto. El anuncio del organismo es un hecho reportado, no una opinión. -->
-- [x] C) Hecho: "el organismo anunció un racionamiento mientras repara fugas"; opinión: "el racionamiento es un mal necesario". <!-- feedback: Correcto. El anuncio es verificable; la valoración de "mal necesario" es un juicio. -->
+- [ ] C) Hecho: "los vecinos deberían aceptar la medida"; opinión: "el organismo asegura que concluirá antes de la temporada de lluvias". <!-- feedback: Incorrecto. El anuncio del organismo es un hecho reportado, no una opinión. -->
+- [x] B) Hecho: "el organismo anunció un racionamiento mientras repara fugas"; opinión: "el racionamiento es un mal necesario". <!-- feedback: Correcto. El anuncio es verificable; la valoración de "mal necesario" es un juicio. -->
 - [ ] D) Hecho: "la medida se prolongará para siempre"; opinión: "María preside el comité vecinal". <!-- feedback: Incorrecto. La eternidad de la medida es una especulación, no un hecho, y la presidencia de María es verificable. -->
 
 ### Explicacion Pedagogica
@@ -411,8 +411,8 @@ Si el autor afirma que el agua es "un derecho, sí, pero también un límite", �
 
 ### Opciones
 - [ ] A) Que el derecho al agua exige un consumo ilimitado. <!-- feedback: Incorrecto. El autor lo llama límite, no consumo ilimitado. -->
-- [ ] B) Que el agua es mercancía y puede faltar para quien no pague. <!-- feedback: Incorrecto. El autor no propone excluir a quien no pague. -->
-- [x] C) Que garantizar el acceso al agua debe compatibilizarse con la capacidad real de los ecosistemas. <!-- feedback: Correcto. Reconocer el límite implica que el derecho se ejerce dentro de lo que el territorio puede sostener. -->
+- [ ] C) Que el agua es mercancía y puede faltar para quien no pague. <!-- feedback: Incorrecto. El autor no propone excluir a quien no pague. -->
+- [x] B) Que garantizar el acceso al agua debe compatibilizarse con la capacidad real de los ecosistemas. <!-- feedback: Correcto. Reconocer el límite implica que el derecho se ejerce dentro de lo que el territorio puede sostener. -->
 - [ ] D) Que los derechos se compran y se venden en el mercado. <!-- feedback: Incorrecto. No corresponde a la postura del autor. -->
 
 ### Explicacion Pedagogica

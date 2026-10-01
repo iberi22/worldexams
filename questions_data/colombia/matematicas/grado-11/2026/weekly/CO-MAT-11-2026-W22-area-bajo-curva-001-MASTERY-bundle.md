@@ -34,9 +34,9 @@ Este bundle contiene 20 preguntas sobre **Área Bajo la Curva** para grado 11, a
 ¿Cuál es la integral definida que representa dicha área y cuál es su valor?
 
 ### Opciones
-- [x] A) $\int_0^4 3 \, dx = 12$
+- [x] B) $\int_0^4 3 \, dx = 12$
   <!-- feedback: Correcto. La integral de una constante $c$ de $a$ a $b$ es $c(b-a) = 3(4) = 12$. -->
-- [ ] B) $\int_0^4 3 \, dx = 7$
+- [ ] A) $\int_0^4 3 \, dx = 7$
   <!-- feedback: Incorrecto. Se sumó el límite superior en lugar de multiplicar. -->
 - [ ] C) $\int_0^4 3x \, dx = 24$
   <!-- feedback: Incorrecto. Se integró la constante como si fuera $3x$. -->
@@ -57,9 +57,9 @@ Para una función constante $f(x) = k \ge 0$, el área bajo la curva en $[a, b]$
 Al calcular $\int_0^6 x \, dx$, ¿qué valor de área se obtiene?
 
 ### Opciones
-- [x] A) 18
+- [x] B) 18
   <!-- feedback: Correcto. La antiderivada es $\frac{x^2}{2}$, evaluada de 0 a 6 da $\frac{36}{2} - 0 = 18$. -->
-- [ ] B) 36
+- [ ] A) 36
   <!-- feedback: Incorrecto. Se olvidó dividir por 2 al calcular la antiderivada de $x$. -->
 - [ ] C) 6
   <!-- feedback: Incorrecto. Es el valor del límite superior, no el área. -->
@@ -80,11 +80,11 @@ La integral definida $\int_0^6 x \, dx = \left[ \frac{x^2}{2} \right]_0^6 = \fra
 ¿Cuál es el valor del área?
 
 ### Opciones
-- [x] A) 8
+- [x] C) 8
   <!-- feedback: Correcto. $\int_1^3 2x \, dx = [x^2]_1^3 = 3^2 - 1^2 = 9 - 1 = 8$. -->
-- [ ] B) 9
+- [ ] A) 9
   <!-- feedback: Incorrecto. Se omitió restar la evaluación en el límite inferior $x=1$. -->
-- [ ] C) 6
+- [ ] B) 6
   <!-- feedback: Incorrecto. Se multiplicaron los límites en lugar de integrarlos. -->
 - [ ] D) 10
   <!-- feedback: Incorrecto. Error de cálculo en la diferencia de cuadrados. -->
@@ -103,11 +103,11 @@ La integral de $2x$ es $x^2$. Aplicando el Segundo Teorema Fundamental del Cálc
 ¿Cuál es el área exacta de esta región?
 
 ### Opciones
-- [x] A) 9
+- [x] C) 9
   <!-- feedback: Correcto. $\int_0^3 x^2 \, dx = [\frac{x^3}{3}]_0^3 = \frac{27}{3} = 9$. -->
-- [ ] B) 27
+- [ ] A) 27
   <!-- feedback: Incorrecto. No se dividió entre 3 al antiderivar $x^2$. -->
-- [ ] C) 6
+- [ ] B) 6
   <!-- feedback: Incorrecto. Se confundió la integración con multiplicar $x \cdot 2$. -->
 - [ ] D) 18
   <!-- feedback: Incorrecto. Error en la división del término cúbico. -->
@@ -126,11 +126,11 @@ La antiderivada de $x^2$ es $\frac{x^3}{3}$. Evaluando en 3 resulta $\frac{3^3}{
 ¿Cuál es la medida del área encerrada?
 
 ### Opciones
-- [x] A) $\frac{32}{3}$
+- [x] C) $\frac{32}{3}$
   <!-- feedback: Correcto. $\int_{-2}^2 (4 - x^2) \, dx = [4x - \frac{x^3}{3}]_{-2}^2 = (8 - \frac{8}{3}) - (-8 + \frac{8}{3}) = \frac{32}{3}$. -->
-- [ ] B) $\frac{16}{3}$
+- [ ] A) $\frac{16}{3}$
   <!-- feedback: Incorrecto. Se calculó solo para el intervalo $[0, 2]$ sin multiplicar por 2 por simetría. -->
-- [ ] C) 16
+- [ ] B) 16
   <!-- feedback: Incorrecto. Error al restar la fracción en la integración. -->
 - [ ] D) 8
   <!-- feedback: Incorrecto. Error en la antiderivada de la constante. -->
@@ -172,11 +172,11 @@ Para hallar los límites de integración entre dos curvas, se igualan $f(x) = g(
 ¿Cuál es el área entre las dos curvas?
 
 ### Opciones
-- [x] A) $\frac{9}{2}$
+- [x] C) $\frac{9}{2}$
   <!-- feedback: Correcto. $\int_{-1}^2 ((x+2) - x^2) \, dx = [\frac{x^2}{2} + 2x - \frac{x^3}{3}]_{-1}^2 = \frac{10}{3} - (-\frac{7}{6}) = \frac{9}{2}$. -->
-- [ ] B) $\frac{15}{2}$
+- [ ] A) $\frac{15}{2}$
   <!-- feedback: Incorrecto. Error de signos al restar los términos en el límite inferior. -->
-- [ ] C) 3
+- [ ] B) 3
   <!-- feedback: Incorrecto. Se integraron por separado y se sumaron en vez de restar. -->
 - [ ] D) $\frac{7}{6}$
   <!-- feedback: Incorrecto. Corresponde únicamente a la parte negativa de la evaluación. -->
@@ -195,13 +195,13 @@ El área entre curvas es $\int_a^b (superior - inferior) \, dx$. En este caso $\
 ¿Cuál es el valor exacto del área?
 
 ### Opciones
-- [x] A) $e - 1$
+- [x] D) $e - 1$
   <!-- feedback: Correcto. $\int_0^1 e^x \, dx = [e^x]_0^1 = e^1 - e^0 = e - 1$. -->
-- [ ] B) $e$
+- [ ] A) $e$
   <!-- feedback: Incorrecto. Se olvidó que $e^0 = 1$ en el límite inferior. -->
-- [ ] C) $e + 1$
+- [ ] B) $e + 1$
   <!-- feedback: Incorrecto. Se sumó en lugar de restar el límite inferior. -->
-- [ ] D) 1
+- [ ] C) 1
   <!-- feedback: Incorrecto. Se asumió que la integral de $e^x$ es $x$. -->
 
 ### Explicacion Pedagogica
@@ -218,9 +218,9 @@ La antiderivada de $e^x$ es $e^x$. Evaluando de 0 a 1 obtenemos $e^1 - e^0 = e -
 ¿Cuál es el desplazamiento total (área bajo la curva $v(t)$) en esos 2 segundos?
 
 ### Opciones
-- [x] A) 12 m
+- [x] B) 12 m
   <!-- feedback: Correcto. $\int_0^2 (3t^2 + 2t) \, dt = [t^3 + t^2]_0^2 = 8 + 4 = 12$. -->
-- [ ] B) 16 m
+- [ ] A) 16 m
   <!-- feedback: Incorrecto. Error al evaluar las potencias de $t$. -->
 - [ ] C) 8 m
   <!-- feedback: Incorrecto. Se consideró únicamente el término cúbico $t^3$. -->
@@ -241,13 +241,13 @@ La integral de la velocidad $v(t)$ representa la distancia/desplazamiento: $\int
 ¿Qué valor numérico tiene el área calculada?
 
 ### Opciones
-- [x] A) $\frac{16}{3}$
+- [x] D) $\frac{16}{3}$
   <!-- feedback: Correcto. $\int_0^4 x^{1/2} \, dx = [\frac{2}{3} x^{3/2}]_0^4 = \frac{2}{3}(8) = \frac{16}{3}$. -->
-- [ ] B) 8
+- [ ] A) 8
   <!-- feedback: Incorrecto. Se multiplicó $4 \times 2$ en lugar de aplicar la regla de la potencia para radicales. -->
-- [ ] C) 4
+- [ ] B) 4
   <!-- feedback: Incorrecto. Se evaluó $\sqrt{4} \times 2$ sin antiderivar. -->
-- [ ] D) $\frac{8}{3}$
+- [ ] C) $\frac{8}{3}$
   <!-- feedback: Incorrecto. Falta el factor 2 en $\frac{2}{3}$ de la antiderivada. -->
 
 ### Explicacion Pedagogica
@@ -264,11 +264,11 @@ La antiderivada de $x^{1/2}$ es $\frac{x^{3/2}}{3/2} = \frac{2}{3}x^{3/2}$. Para
 ¿Cuál es el valor total del área encerrada?
 
 ### Opciones
-- [x] A) 2
+- [x] C) 2
   <!-- feedback: Correcto. $\int_0^{\pi} \sin(x) \, dx = [-\cos(x)]_0^{\pi} = -(-1) - (-1) = 2$. -->
-- [ ] B) 0
+- [ ] A) 0
   <!-- feedback: Incorrecto. Se confundió la integración de 0 a $\pi$ con un periodo completo $[0, 2\pi]$. -->
-- [ ] C) 1
+- [ ] B) 1
   <!-- feedback: Incorrecto. Se evaluó solo en $\pi/2$. -->
 - [ ] D) $\pi$
   <!-- feedback: Incorrecto. Se colocó el límite de integración como resultado. -->
@@ -287,13 +287,13 @@ El área bajo la curva seno desde 0 hasta $\pi$ se obtiene mediante $\int_0^\pi 
 Si se requiere el área neta entre la curva y el eje $x$ (área geométrica total), ¿cuál es el resultado?
 
 ### Opciones
-- [x] A) $\frac{1}{2}$
+- [x] D) $\frac{1}{2}$
   <!-- feedback: Correcto. $\int_{-1}^0 (-x^3)\,dx + \int_0^1 x^3\,dx = \frac{1}{4} + \frac{1}{4} = \frac{1}{2}$. -->
-- [ ] B) 0
+- [ ] A) 0
   <!-- feedback: Incorrecto. Este sería el valor de la integral definida directa $\int_{-1}^1 x^3 \, dx$. -->
-- [ ] C) 1
+- [ ] B) 1
   <!-- feedback: Incorrecto. Se duplicó erróneamente el resultado. -->
-- [ ] D) $\frac{1}{4}$
+- [ ] C) $\frac{1}{4}$
   <!-- feedback: Incorrecto. Se calculó solo el área en el primer cuadrante $[0, 1]$. -->
 
 ### Explicacion Pedagogica
@@ -310,13 +310,13 @@ El área geométrica exige tomar el valor absoluto de la función donde es negat
 ¿Cuál es el área de la región que encierran ambas parábolas?
 
 ### Opciones
-- [x] A) $\frac{1}{3}$
+- [x] D) $\frac{1}{3}$
   <!-- feedback: Correcto. Intersección $x=0, 1$. $\int_0^1 (2x - 2x^2) \, dx = [x^2 - \frac{2x^3}{3}]_0^1 = 1 - \frac{2}{3} = \frac{1}{3}$. -->
-- [ ] B) $\frac{2}{3}$
+- [ ] A) $\frac{2}{3}$
   <!-- feedback: Incorrecto. No se simplificó la resta de coeficientes. -->
-- [ ] C) 1
+- [ ] B) 1
   <!-- feedback: Incorrecto. Error al integrar $2x^2$. -->
-- [ ] D) $\frac{1}{6}$
+- [ ] C) $\frac{1}{6}$
   <!-- feedback: Incorrecto. Se dividió por 2 innecesariamente. -->
 
 ### Explicacion Pedagogica
@@ -402,11 +402,11 @@ Como $\cos(x)$ es una función par en $[-\pi/2, \pi/2]$, el área es $2 \int_0^{
 El método A integra respecto a $x$: $2 \int_0^2 (4 - x^2) dx$. El método B integra respecto a $y$: $\int_0^4 2\sqrt{{y}} dy$. ¿Qué se concluye?
 
 ### Opciones
-- [x] A) Ambos métodos son válidos y producen el mismo resultado: $\frac{32}{3}$
+- [x] C) Ambos métodos son válidos y producen el mismo resultado: $\frac{32}{3}$
   <!-- feedback: Correcto. Integrar respecto a $x$ o a $y$ entrega la misma área geométrica. -->
-- [ ] B) Solo el método A es correcto.
+- [ ] A) Solo el método A es correcto.
   <!-- feedback: Incorrecto. La integración respecto a $y$ es completamente válida. -->
-- [ ] C) El método B da 16 y el método A da 8.
+- [ ] B) El método B da 16 y el método A da 8.
   <!-- feedback: Incorrecto. Ambos entregan $\frac{32}{3}$. -->
 - [ ] D) Ninguno de los métodos es correcto.
   <!-- feedback: Incorrecto. Ambos definen la misma región. -->
@@ -425,11 +425,11 @@ Integrando respecto a $y$: $\int_0^4 2 y^{1/2} dy = [\frac{4}{3} y^{3/2}]_0^4 = 
 ¿Cuál es el valor aproximado del área y cómo se compara con el área exacta?
 
 ### Opciones
-- [x] A) Área aproximada = 1; es una subestimación del área exacta ($\frac{8}{3} \approx 2.67$).
+- [x] C) Área aproximada = 1; es una subestimación del área exacta ($\frac{8}{3} \approx 2.67$).
   <!-- feedback: Correcto. Puntos izquierdos en $x=0$ ($f=0$) y $x=1$ ($f=1$). Suma = $1(0)+1(1) = 1 < 2.67$. -->
-- [ ] B) Área aproximada = 5; es sobreestimación.
+- [ ] A) Área aproximada = 5; es sobreestimación.
   <!-- feedback: Incorrecto. 5 corresponde a la suma por la derecha. -->
-- [ ] C) Área aproximada = 2.67; coincide exactamente.
+- [ ] B) Área aproximada = 2.67; coincide exactamente.
   <!-- feedback: Incorrecto. Una suma finita con $n=2$ no es exacta para parábolas. -->
 - [ ] D) Área aproximada = 2.
   <!-- feedback: Incorrecto. El cálculo por la izquierda da 1. -->
@@ -448,11 +448,11 @@ Para $n=2$ en $[0,2]$, $\Delta x = 1$. Suma izquierda $= f(0)(1) + f(1)(1) = 0 +
 ¿Es convergente el área de esta región no acotada y cuál es su valor?
 
 ### Opciones
-- [x] A) Sí, es convergente y el área total es 1.
+- [x] C) Sí, es convergente y el área total es 1.
   <!-- feedback: Correcto. $\lim_{b \to \infty} [-x^{-1}]_1^b = \lim_{b \to \infty} (1 - \frac{1}{b}) = 1$. -->
-- [ ] B) No, el área diverge a infinito.
+- [ ] A) No, el área diverge a infinito.
   <!-- feedback: Incorrecto. Es una integral impropia convergente. -->
-- [ ] C) Sí, es convergente y el área es 0.
+- [ ] B) Sí, es convergente y el área es 0.
   <!-- feedback: Incorrecto. La región suma un área positiva de 1. -->
 - [ ] D) No se puede determinar.
   <!-- feedback: Incorrecto. La regla del límite de integrales impropias entrega 1. -->
@@ -471,9 +471,9 @@ Integral impropia $\int_1^\infty x^{-2} \, dx = \lim_{b \to \infty} [ -1/x ]_1^b
 ¿Cuál es el área de esta región plana?
 
 ### Opciones
-- [x] A) 4
+- [x] B) 4
   <!-- feedback: Correcto. Triángulo con base 4 y altura 2: $\frac{4 \times 2}{2} = 4$. Por integración $2 \int_0^2 (2 - x) dx = 4$. -->
-- [ ] B) 2
+- [ ] A) 2
   <!-- feedback: Incorrecto. Se calculó solo la mitad en el primer cuadrante. -->
 - [ ] C) 8
   <!-- feedback: Incorrecto. Se asumió un rectángulo de $4 \times 2$. -->

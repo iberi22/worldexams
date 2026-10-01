@@ -52,13 +52,13 @@ $3x = 14 + 7 = 21 \implies x = 21 / 3 = 7$.
 ### Enunciado
 ¿Cuál es la solución de la ecuación?
 ### Opciones
-- [x] A) $y = 5$
+- [x] D) $y = 5$
   <!-- feedback: Correcto. $8 + 2 = 4y - 2y \implies 10 = 2y \implies y = 5$. -->
-- [ ] B) $y = 3$
+- [ ] A) $y = 3$
   <!-- feedback: Incorrecto. Error en la resta de constantes $8-2$. -->
-- [ ] C) $y = -5$
+- [ ] B) $y = -5$
   <!-- feedback: Incorrecto. Error de signos al agrupar términos. -->
-- [ ] D) $y = 10$
+- [ ] C) $y = 10$
   <!-- feedback: Incorrecto. Olvidaste dividir entre 2. -->
 ### Explicacion Pedagogica
 Agrupando: $10 = 2y \implies y = 5$.
@@ -92,13 +92,13 @@ Planteamiento: $2x + 15 = 45 \implies 2x = 30 \implies x = 15$.
 ### Enunciado
 ¿Cuál es el mayor de los tres números?
 ### Opciones
-- [x] A) $25$
+- [x] D) $25$
   <!-- feedback: Correcto. $x + (x+1) + (x+2) = 72 \implies 3x + 3 = 72 \implies 3x = 69 \implies x = 23$. Los números son $23, 24, 25$. -->
-- [ ] B) $24$
+- [ ] A) $24$
   <!-- feedback: Incorrecto. $24$ es el número del medio. -->
-- [ ] C) $23$
+- [ ] B) $23$
   <!-- feedback: Incorrecto. $23$ es el menor de los tres. -->
-- [ ] D) $26$
+- [ ] C) $26$
   <!-- feedback: Incorrecto. Suma $24+25+26 = 75 \neq 72$. -->
 ### Explicacion Pedagogica
 $3x + 3 = 72 \implies 3x = 69 \implies x = 23$. El mayor es $x + 2 = 25$.
@@ -112,13 +112,13 @@ $3x + 3 = 72 \implies 3x = 69 \implies x = 23$. El mayor es $x + 2 = 25$.
 ### Enunciado
 ¿Cuál es el valor de $x$?
 ### Opciones
-- [x] A) $x = 10$
+- [x] D) $x = 10$
   <!-- feedback: Correcto. $4x - 8 = 2x + 12 \implies 2x = 20 \implies x = 10$. -->
-- [ ] B) $x = 2$
+- [ ] A) $x = 2$
   <!-- feedback: Incorrecto. Restaste $12 - 8 = 4$. -->
-- [ ] C) $x = 5$
+- [ ] B) $x = 5$
   <!-- feedback: Incorrecto. Error en la división por 2. -->
-- [ ] D) $x = 8$
+- [ ] C) $x = 8$
   <!-- feedback: Incorrecto. Olvidaste multiplicar los paréntesis. -->
 ### Explicacion Pedagogica
 Expandiendo: $4x - 8 = 2x + 12 \implies 2x = 20 \implies x = 10$.
@@ -132,13 +132,13 @@ Expandiendo: $4x - 8 = 2x + 12 \implies 2x = 20 \implies x = 10$.
 ### Enunciado
 ¿Cuál es el conjunto solución?
 ### Opciones
-- [x] A) $x > 4$
+- [x] D) $x > 4$
   <!-- feedback: Correcto. $3x > 12 \implies x > 4$. -->
-- [ ] B) $x < 4$
+- [ ] A) $x < 4$
   <!-- feedback: Incorrecto. Invertiste el sentido de la desigualdad sin multiplicar por negativo. -->
-- [ ] C) $x > 2$
+- [ ] B) $x > 2$
   <!-- feedback: Incorrecto. Error en la resta $9 + 3 = 12$. -->
-- [ ] D) $x > 12$
+- [ ] C) $x > 12$
   <!-- feedback: Incorrecto. Olvidaste dividir por 3. -->
 ### Explicacion Pedagogica
 $5x - 2x > 9 + 3 \implies 3x > 12 \implies x > 4$.
@@ -152,11 +152,11 @@ $5x - 2x > 9 + 3 \implies 3x > 12 \implies x > 4$.
 ### Enunciado
 ¿Cuál es el conjunto solución correcto?
 ### Opciones
-- [x] A) $x \le -5$
+- [x] C) $x \le -5$
   <!-- feedback: Correcto. $-3x \ge 15 \implies x \le -5$ (al dividir por $-3$ la desigualdad se invierte). -->
-- [ ] B) $x \ge -5$
+- [ ] A) $x \ge -5$
   <!-- feedback: Incorrecto. Olvidaste invertir el sentido de la desigualdad al dividir entre un número negativo. -->
-- [ ] C) $x \le 5$
+- [ ] B) $x \le 5$
   <!-- feedback: Incorrecto. Error de signo al calcular $15/(-3)$. -->
 - [ ] D) $x \ge 5$
   <!-- feedback: Incorrecto. Errores combinados de signo y sentido. -->
@@ -172,9 +172,9 @@ $-3x \ge 15$. Al dividir por $-3$, invertimos el símbolo: $x \le -5$.
 ### Enunciado
 ¿Cuál es el valor de $x$?
 ### Opciones
-- [x] A) $x = 12$
+- [x] B) $x = 12$
   <!-- feedback: Correcto. $\frac{5x}{6} = 10 \implies 5x = 60 \implies x = 12$. -->
-- [ ] B) $x = 10$
+- [ ] A) $x = 10$
   <!-- feedback: Incorrecto. Asumiste que la suma de fracciones daba $1$. -->
 - [ ] C) $x = 15$
   <!-- feedback: Incorrecto. Error al multiplicar por el MCM. -->
@@ -192,11 +192,11 @@ MCM $= 6 \implies 2x + 3x = 60 \implies 5x = 60 \implies x = 12$.
 ### Enunciado
 ¿Cuántos minutos adicionales consumió?
 ### Opciones
-- [x] A) $60$ minutos
+- [x] C) $60$ minutos
   <!-- feedback: Correcto. $15.000 + 200m = 27.000 \implies 200m = 12.000 \implies m = 60$. -->
-- [ ] B) $50$ minutos
+- [ ] A) $50$ minutos
   <!-- feedback: Incorrecto. Error en $12.000 / 200$. -->
-- [ ] C) $75$ minutos
+- [ ] B) $75$ minutos
   <!-- feedback: Incorrecto. Dividiste la factura total entre 200 sin restar el cargo fijo. -->
 - [ ] D) $40$ minutos
   <!-- feedback: Incorrecto. Restaste $15.000$ de $23.000$. -->
@@ -232,13 +232,13 @@ Padre $= 3x$, Hijo $= x$. Dentro de $12$ años: $3x + 12 = 2(x + 12) \implies 3x
 ### Enunciado
 ¿Cuál es la solución exacta para $x$?
 ### Opciones
-- [x] A) $x = 7$
+- [x] D) $x = 7$
   <!-- feedback: Correcto. Multiplicando por 6: $2(2x+4) - 3(x-1) = 18 \implies 4x + 8 - 3x + 3 = 18 \implies x + 11 = 18 \implies x = 7$. -->
-- [ ] B) $x = 5$
+- [ ] A) $x = 5$
   <!-- feedback: Incorrecto. Error de signo al distribuir $-3(x-1)$. -->
-- [ ] C) $x = 9$
+- [ ] B) $x = 9$
   <!-- feedback: Incorrecto. Restaste $11$ en vez de restar de $18$. -->
-- [ ] D) $x = 11$
+- [ ] C) $x = 11$
   <!-- feedback: Incorrecto. Tomaste la constante agrupada como respuesta. -->
 ### Explicacion Pedagogica
 $2(2x+4) - 3(x-1) = 18 \implies 4x + 8 - 3x + 3 = 18 \implies x + 11 = 18 \implies x = 7$.

@@ -32,13 +32,13 @@ Este bundle contiene 10 preguntas sobre **lenguaje-algebraico-expresiones** para
 ### Enunciado
 ¿Cuál expresión representa correctamente la frase?
 ### Opciones
-- [x] A) $2x + 5$
+- [x] D) $2x + 5$
   <!-- feedback: Correcto. El doble de $x$ es $2x$ y aumentarlo en $5$ da $2x + 5$. -->
-- [ ] B) $2(x + 5)$
+- [ ] A) $2(x + 5)$
   <!-- feedback: Incorrecto. Esa expresión duplica también el $5$, lo que cambia el significado. -->
-- [ ] C) $x^2 + 5$
+- [ ] B) $x^2 + 5$
   <!-- feedback: Incorrecto. Confundiste "el doble" con "el cuadrado". -->
-- [ ] D) $2x - 5$
+- [ ] C) $2x - 5$
   <!-- feedback: Incorrecto. La frase dice "aumentado", que corresponde a sumar. -->
 ### Explicacion Pedagogica
 "El doble de un número" se escribe $2x$; "aumentado en cinco" se traduce como $+5$. La expresión es $2x + 5$.
@@ -52,11 +52,11 @@ Este bundle contiene 10 preguntas sobre **lenguaje-algebraico-expresiones** para
 ### Enunciado
 ¿Cuál es el valor numérico de la expresión?
 ### Opciones
-- [x] A) $14$
+- [x] C) $14$
   <!-- feedback: Correcto. $3(4) + 2 = 12 + 2 = 14$. -->
-- [ ] B) $12$
+- [ ] A) $12$
   <!-- feedback: Incorrecto. Olvidaste sumar el término constante $2$. -->
-- [ ] C) $20$
+- [ ] B) $20$
   <!-- feedback: Incorrecto. Sumaste $4 + 2$ antes de multiplicar por $3$. -->
 - [ ] D) $9$
   <!-- feedback: Incorrecto. Multiplicaste $3$ por $3$ en lugar de por $4$. -->
@@ -72,9 +72,9 @@ Se sustituye $x = 4$: $3(4) + 2 = 12 + 2 = 14$.
 ### Enunciado
 ¿Cuál expresión algebraica corresponde a la frase?
 ### Opciones
-- [x] A) $3x - \frac{x}{2}$
+- [x] B) $3x - \frac{x}{2}$
   <!-- feedback: Correcto. El triple es $3x$, su mitad es $\frac{x}{2}$ y la diferencia es $3x - \frac{x}{2}$. -->
-- [ ] B) $3\left(x - \frac{x}{2}\right)$
+- [ ] A) $3\left(x - \frac{x}{2}\right)$
   <!-- feedback: Incorrecto. Esa expresión multiplica toda la diferencia por $3$. -->
 - [ ] C) $\frac{3x}{2}$
   <!-- feedback: Incorrecto. Esa es la mitad del triple, no la diferencia pedida. -->
@@ -112,9 +112,9 @@ $2a^2 = 2 \times 9 = 18$ y $3b = 12$. Entonces $18 - 12 = 6$.
 ### Enunciado
 ¿Cuál expresión representa el perímetro del terreno?
 ### Opciones
-- [x] A) $6x + 4$
+- [x] B) $6x + 4$
   <!-- feedback: Correcto. Perímetro $= 2\big((x+2) + 2x\big) = 2(3x + 2) = 6x + 4$. -->
-- [ ] B) $6x + 2$
+- [ ] A) $6x + 2$
   <!-- feedback: Incorrecto. Error al distribuir el factor $2$ sobre el $2$. -->
 - [ ] C) $3x + 2$
   <!-- feedback: Incorrecto. Ese es el semiperímetro, no el perímetro completo. -->
@@ -132,13 +132,13 @@ Perímetro $= 2 \cdot (\text{largo} + \text{ancho}) = 2\big((x+2) + 2x\big) = 6x
 ### Enunciado
 ¿Cuál es la expresión simplificada?
 ### Opciones
-- [x] A) $3x + 7y$
+- [x] D) $3x + 7y$
   <!-- feedback: Correcto. Términos en $x$: $5x - 2x = 3x$; términos en $y$: $3y + 4y = 7y$. -->
-- [ ] B) $7x + 3y$
+- [ ] A) $7x + 3y$
   <!-- feedback: Incorrecto. Intercambiaste los coeficientes de $x$ y de $y$. -->
-- [ ] C) $3x + y$
+- [ ] B) $3x + y$
   <!-- feedback: Incorrecto. Restaste mal los términos en $y$. -->
-- [ ] D) $7xy$
+- [ ] C) $7xy$
   <!-- feedback: Incorrecto. No se pueden combinar términos de variables distintas en un producto. -->
 ### Explicacion Pedagogica
 Se agrupan términos semejantes: $(5x - 2x) + (3y + 4y) = 3x + 7y$.
@@ -152,13 +152,13 @@ Se agrupan términos semejantes: $(5x - 2x) + (3y + 4y) = 3x + 7y$.
 ### Enunciado
 ¿Cuál expresión representa el costo total del viaje?
 ### Opciones
-- [x] A) $5000 + 2000k$
+- [x] D) $5000 + 2000k$
   <!-- feedback: Correcto. La base fija es $5000$ y el cobro variable es $2000$ por $k$ kilómetros. -->
-- [ ] B) $7000k$
+- [ ] A) $7000k$
   <!-- feedback: Incorrecto. Multiplicaste la tarifa base por la distancia. -->
-- [ ] C) $2000 + 5000k$
+- [ ] B) $2000 + 5000k$
   <!-- feedback: Incorrecto. Invertiste la tarifa base con el cobro por kilómetro. -->
-- [ ] D) $5000k + 2000k$
+- [ ] C) $5000k + 2000k$
   <!-- feedback: Incorrecto. La tarifa base no depende de los kilómetros. -->
 ### Explicacion Pedagogica
 El costo total combina una parte fija y una variable: $5000 + 2000k$.
@@ -172,11 +172,11 @@ El costo total combina una parte fija y una variable: $5000 + 2000k$.
 ### Enunciado
 ¿Cuál expresión es equivalente a la dada?
 ### Opciones
-- [x] A) $6x - 12$
+- [x] C) $6x - 12$
   <!-- feedback: Correcto. $4(x-3) + 2x = 4x - 12 + 2x = 6x - 12$. -->
-- [ ] B) $6x - 3$
+- [ ] A) $6x - 3$
   <!-- feedback: Incorrecto. No distribuiste el $4$ sobre el $-3$. -->
-- [ ] C) $4x - 12$
+- [ ] B) $4x - 12$
   <!-- feedback: Incorrecto. Olvidaste sumar el término $2x$. -->
 - [ ] D) $6x + 12$
   <!-- feedback: Incorrecto. Error de signo al distribuir el $4$. -->
@@ -192,9 +192,9 @@ Se distribuye y se reducen términos semejantes: $4x - 12 + 2x = 6x - 12$.
 ### Enunciado
 ¿Cuál expresión permite calcular el término que ocupa la posición $n$?
 ### Opciones
-- [x] A) $3n + 2$
+- [x] B) $3n + 2$
   <!-- feedback: Correcto. La diferencia es $3$ y para $n=1$: $3(1) + 2 = 5$. -->
-- [ ] B) $3n + 5$
+- [ ] A) $3n + 5$
   <!-- feedback: Incorrecto. Con $n=1$ daría $8$, que no es el primer término. -->
 - [ ] C) $2n + 3$
   <!-- feedback: Incorrecto. La diferencia constante es $3$, no $2$. -->
@@ -212,9 +212,9 @@ El patrón tiene diferencia constante $3$ y primer término $5$. La expresión e
 ### Enunciado
 ¿Cuál expresión representa el área del triángulo?
 ### Opciones
-- [x] A) $x^2 + 2x$
+- [x] B) $x^2 + 2x$
   <!-- feedback: Correcto. Área $= \frac{1}{2}(2x+4)(x) = (x+2)(x) = x^2 + 2x$. -->
-- [ ] B) $x^2 + 4x$
+- [ ] A) $x^2 + 4x$
   <!-- feedback: Incorrecto. No aplicaste el factor $\frac{1}{2}$ correctamente. -->
 - [ ] C) $2x^2 + 4x$
   <!-- feedback: Incorrecto. Olvidaste multiplicar por $\frac{1}{2}$. -->

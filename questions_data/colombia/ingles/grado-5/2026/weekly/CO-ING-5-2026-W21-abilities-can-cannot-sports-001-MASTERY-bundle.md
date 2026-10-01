@@ -34,9 +34,9 @@ Use of modal verbs "can" and "cannot" to talk about abilities in sports, basic s
 Which word in English means the ability to do something?
 
 ### Opciones
-- [x] A) "Can".
+- [x] B) "Can".
   <!-- feedback: "Can" expresses ability in English (e.g., I can swim). -->
-- [ ] B) "Must".
+- [ ] A) "Must".
   <!-- feedback: "Must" expresses obligation, not ability. -->
 - [ ] C) "Should".
   <!-- feedback: "Should" is used to give advice, not to talk about ability. -->
@@ -57,11 +57,11 @@ Reconocer el modal "can" como el verbo que expresa habilidad en inglés.
 Why does Camila say she cannot play tennis?
 
 ### Opciones
-- [x] A) Because she does not have a racket, so she is not able to play tennis.
+- [x] C) Because she does not have a racket, so she is not able to play tennis.
   <!-- feedback: "Cannot" expresses lack of ability or the impossibility of doing something. -->
-- [ ] B) Because tennis is a very easy sport.
+- [ ] A) Because tennis is a very easy sport.
   <!-- feedback: Difficulty is not mentioned; the reason is the missing racket. -->
-- [ ] C) Because she wants to play soccer all day.
+- [ ] B) Because she wants to play soccer all day.
   <!-- feedback: The text focuses on the racket, not on her preferences. -->
 - [ ] D) Because tennis is only for adults.
   <!-- feedback: The text does not say tennis is only for adults. -->
@@ -80,13 +80,13 @@ Comprender el uso de "can" y "cannot" para hablar de habilidades reales.
 Which sentence correctly describes Juan's ability?
 
 ### Opciones
-- [x] A) Juan cannot ride a bike.
+- [x] D) Juan cannot ride a bike.
   <!-- feedback: "Cannot" shows that Juan does not have the ability to ride a bike. -->
-- [ ] B) Juan can ride a bike.
+- [ ] A) Juan can ride a bike.
   <!-- feedback: According to the text, Juan cannot ride a bike. -->
-- [ ] C) Juan cans ride a bike.
+- [ ] B) Juan cans ride a bike.
   <!-- feedback: "Can" does not take a final -s; we say "Juan can ride". -->
-- [ ] D) Juan don't can ride a bike.
+- [ ] C) Juan don't can ride a bike.
   <!-- feedback: The correct negative is "cannot" or "can't", not "don't can". -->
 
 ### Explicacion Pedagogica
@@ -103,11 +103,11 @@ Aplicar la forma negativa "cannot" para describir lo que alguien no sabe hacer.
 Which is the correct short answer when a student cannot play basketball?
 
 ### Opciones
-- [x] A) No, I can't.
+- [x] C) No, I can't.
   <!-- feedback: "No, I can't" is the standard short negative answer with "can". -->
-- [ ] B) Yes, I can't.
+- [ ] A) Yes, I can't.
   <!-- feedback: "Yes" contradicts the negative "can't"; they cannot be used together. -->
-- [ ] C) No, I don't can.
+- [ ] B) No, I don't can.
   <!-- feedback: "Don't can" is not grammatical in English. -->
 - [ ] D) No, I not can.
   <!-- feedback: The correct negative is "cannot" or "can't", not "not can". -->
@@ -126,11 +126,11 @@ Aplicar respuestas cortas afirmativas y negativas con "can" en conversaciones se
 Complete the sentence: "My sister can _____ , but she cannot ski."
 
 ### Opciones
-- [x] A) play volleyball.
+- [x] C) play volleyball.
   <!-- feedback: The text says she can play volleyball, so this option fits the sentence. -->
-- [ ] B) ski.
+- [ ] A) ski.
   <!-- feedback: The sentence already says she cannot ski, so this option contradicts it. -->
-- [ ] C) fly a plane.
+- [ ] B) fly a plane.
   <!-- feedback: Flying a plane is not mentioned among her abilities. -->
 - [ ] D) write a novel.
   <!-- feedback: Writing a novel is not related to the sports abilities described. -->
@@ -149,13 +149,13 @@ Aplicar la información del texto para completar oraciones con "can" y "cannot".
 What ability do Andres and Mariana have in common?
 
 ### Opciones
-- [x] A) Both can play at least one sport, but their abilities are different.
+- [x] D) Both can play at least one sport, but their abilities are different.
   <!-- feedback: Andres can play soccer and Mariana can swim and play tennis; both are able to do sports. -->
-- [ ] B) Neither of them can do any sport.
+- [ ] A) Neither of them can do any sport.
   <!-- feedback: Both can do at least one sport, so this is incorrect. -->
-- [ ] C) Both can ride a horse.
+- [ ] B) Both can ride a horse.
   <!-- feedback: Only Mariana can ride a horse; Andres is not mentioned as able to. -->
-- [ ] D) Both cannot swim.
+- [ ] C) Both cannot swim.
   <!-- feedback: Mariana can swim, so it is not true that both cannot swim. -->
 
 ### Explicacion Pedagogica
@@ -172,9 +172,9 @@ Analizar habilidades comunes y diferentes usando "can" y "cannot".
 Which conclusion can you draw from the text about Daniel's abilities?
 
 ### Opciones
-- [x] A) Daniel has the ability to play basketball, but lacks time to practice tennis, so he cannot play it well.
+- [x] B) Daniel has the ability to play basketball, but lacks time to practice tennis, so he cannot play it well.
   <!-- feedback: The text shows ability for basketball and a practical limitation for tennis. -->
-- [ ] B) Daniel is unable to do any kind of sport.
+- [ ] A) Daniel is unable to do any kind of sport.
   <!-- feedback: The text clearly states Daniel can play basketball. -->
 - [ ] C) Daniel can play tennis better than basketball.
   <!-- feedback: The text says he cannot play tennis, so this is not a valid conclusion. -->

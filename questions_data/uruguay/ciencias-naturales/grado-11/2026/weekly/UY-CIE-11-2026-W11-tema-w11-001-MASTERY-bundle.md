@@ -33,13 +33,13 @@ calibration: {difficulty_band: "D3-D10", expected_success: 0.65}
 ¿Qué concepto ecológico define el número de individuos de una especie por unidad de superficie o volumen en un área y tiempo determinados?
 
 ### Opciones
-- [x] A) Densidad poblacional.
+- [x] D) Densidad poblacional.
   <!-- feedback: Correcto. La densidad poblacional mide la abundancia de individuos en relación a la superficie o volumen ocupado. -->
-- [ ] B) Capacidad de carga ecosistémica.
+- [ ] A) Capacidad de carga ecosistémica.
   <!-- feedback: Incorrecto. La capacidad de carga se refiere al límite máximo sustentable de población en un hábitat. -->
-- [ ] C) Nicho ecológico fundamental.
+- [ ] B) Nicho ecológico fundamental.
   <!-- feedback: Incorrecto. El nicho ecológico describe la función y rango de condiciones que requiere una especie. -->
-- [ ] D) Tasa intrínseca de natalidad.
+- [ ] C) Tasa intrínseca de natalidad.
   <!-- feedback: Incorrecto. La tasa de natalidad indica la proporción de nacimientos en la población por unidad de tiempo. -->
 
 ### Explicacion Pedagogica
@@ -81,9 +81,9 @@ En ecología de poblaciones, $K$ representa la asíntota del crecimiento logíst
 ### Opciones
 - [ ] A) Comensalismo.
   <!-- feedback: Incorrecto. En el comensalismo, una especie se beneficia y la otra permanece neutral sin perjuicio ni beneficio. -->
-- [x] B) Mutualismo.
+- [x] C) Mutualismo.
   <!-- feedback: Correcto. El mutualismo es la interacción biológica en la que ambos simbiontes obtienen ventajas fisiológicas y reproductivas. -->
-- [ ] C) Amensalismo.
+- [ ] B) Amensalismo.
   <!-- feedback: Incorrecto. En el amensalismo, una especie resulta perjudicada mientras que la otra no se ve afectada. -->
 - [ ] D) Parasitismo.
   <!-- feedback: Incorrecto. En el parasitismo, un organismo se beneficia a expensas de causar daño al huésped. -->
@@ -102,9 +102,9 @@ El mutualismo entre el hongo (que brinda estructura y retención de humedad) y e
 ¿Qué principio ecológico explica que ambas especies de aves puedan coexistir en la misma laguna sin eliminarse por competencia?
 
 ### Opciones
-- [ ] A) Tienen el mismo nicho ecológico y comparten idéntico nivel trófico.
+- [ ] B) Tienen el mismo nicho ecológico y comparten idéntico nivel trófico.
   <!-- feedback: Incorrecto. Si tuviesen el mismo nicho ecológico entrarían en competencia directa según el principio de Gause. -->
-- [x] B) Ocupan el mismo hábitat pero poseen diferentes nichos ecológicos.
+- [x] A) Ocupan el mismo hábitat pero poseen diferentes nichos ecológicos.
   <!-- feedback: Correcto. Comparten el espacio físico (hábitat), pero difieren en su dieta, comportamiento y uso de recursos (nicho). -->
 - [ ] C) Presentan una relación de parasitismo obligado entre ambas poblaciones.
   <!-- feedback: Incorrecto. No existe interacción parásita; ambas especies utilizan recursos alimentarios distintos. -->
@@ -150,11 +150,11 @@ Si ambas poblaciones consumen exactamente el mismo tipo de pasto y este es escas
 ### Opciones
 - [ ] A) Aumento inmediato de la tasa intrínseca de incremento ($r$) en ambas poblaciones.
   <!-- feedback: Incorrecto. La escasez de recursos disminuye la natalidad y reduce la tasa de incremento $r$. -->
-- [x] B) Reducción en la densidad o desplazamiento del nicho de la especie competitivamente inferior.
+- [x] D) Reducción en la densidad o desplazamiento del nicho de la especie competitivamente inferior.
   <!-- feedback: Correcto. La competencia interespecífica severa provoca disminución poblacional o divergencia en el uso del recurso. -->
-- [ ] C) Transformación del proceso competitivo en un parasitismo recíproco obligatorio.
+- [ ] B) Transformación del proceso competitivo en un parasitismo recíproco obligatorio.
   <!-- feedback: Incorrecto. Las interacciones competitivas no se convierten espontáneamente en parasitismo. -->
-- [ ] D) Inexistencia de selección natural ya que el recurso es abiótico.
+- [ ] C) Inexistencia de selección natural ya que el recurso es abiótico.
   <!-- feedback: Incorrecto. El alimento es un recurso vital y actúa como presión selectiva directa. -->
 
 ### Explicacion Pedagogica
@@ -173,9 +173,9 @@ La competencia por recursos limitados impone resistencia ambiental, reduciendo l
 ### Opciones
 - [ ] A) El pico de abundancia del depredador precede temporalmente al pico de abundancia de la presa.
   <!-- feedback: Incorrecto. El depredador aumenta su población en respuesta al incremento previo de presas, no antes. -->
-- [x] B) Las oscilaciones de la población de depredadores siguen en fase con un desfase temporal a las de la presa.
+- [x] C) Las oscilaciones de la población de depredadores siguen en fase con un desfase temporal a las de la presa.
   <!-- feedback: Correcto. Al aumentar las presas aumenta la comida para el depredador; tras subir los depredadores, caen las presas y subsecuentemente los depredadores. -->
-- [ ] C) Ambas poblaciones crecen de forma exponencial indefinida sin afectar sus densidades.
+- [ ] B) Ambas poblaciones crecen de forma exponencial indefinida sin afectar sus densidades.
   <!-- feedback: Incorrecto. Las interacciones tróficas imponen límites denso-dependientes que generan oscilaciones. -->
 - [ ] D) La población de la presa cae a cero de forma inmediata en el primer ciclo reproductivo.
   <!-- feedback: Incorrecto. En sistemas estables, presa y depredador coexisten mediante ciclos acoplados. -->
@@ -242,11 +242,11 @@ La teoría de la selección $r/K$ contrapone especies adaptadas a ambientes ines
 ### Opciones
 - [ ] A) Sucesión ecológica primaria protagonizada por árboles del monte alto.
   <!-- feedback: Incorrecto. La sucesión primaria ocurre sobre sustratos sin suelo previo, como rocas desnudas o lava. -->
-- [x] B) Sucesión ecológica secundaria iniciada por especies vegetales pioneras herbáceas y gramíneas.
+- [x] D) Sucesión ecológica secundaria iniciada por especies vegetales pioneras herbáceas y gramíneas.
   <!-- feedback: Correcto. Al permanecer el suelo con su banco de semillas y materia orgánica, ocurre una sucesión secundaria con rápida colonización de herbáceas pioneras. -->
-- [ ] C) Clímax ecológico inmediato dominado por líquenes y musgos primitivos.
+- [ ] B) Clímax ecológico inmediato dominado por líquenes y musgos primitivos.
   <!-- feedback: Incorrecto. El clímax es el estado final de estabilidad, no la etapa inicial tras una perturbación. -->
-- [ ] D) Desertificación irreversible sin reemplazo de especies en la comunidad.
+- [ ] C) Desertificación irreversible sin reemplazo de especies en la comunidad.
   <!-- feedback: Incorrecto. La presencia de suelo estructurado permite el desarrollo de la sucesión secundaria. -->
 
 ### Explicacion Pedagogica
@@ -263,9 +263,9 @@ La sucesión secundaria ocurre tras una perturbación en ecosistemas donde el su
 Si graficás el número de sobrevivientes (escala logarítmica) en función de la edad relativa, ¿qué tipo de curva de supervivencia caracteriza a los grandes mamíferos con alto cuidado parental?
 
 ### Opciones
-- [x] A) Curva Tipo I: alta supervivencia en etapas juveniles y adultas, con mortalidad concentrada en edades avanzadas.
+- [x] B) Curva Tipo I: alta supervivencia en etapas juveniles y adultas, con mortalidad concentrada en edades avanzadas.
   <!-- feedback: Correcto. La curva Tipo I es típica de mamíferos que cuidan a sus crías, teniendo baja mortalidad juvenil. -->
-- [ ] B) Curva Tipo III: altísima mortalidad en estadios tempranos y tasa constante en la madurez.
+- [ ] A) Curva Tipo III: altísima mortalidad en estadios tempranos y tasa constante en la madurez.
   <!-- feedback: Incorrecto. La curva Tipo III es típica de invertebrados y peces sin cuidado parental. -->
 - [ ] C) Curva Tipo II: tasa de mortalidad constante e independentista de la edad a lo largo de toda la vida.
   <!-- feedback: Incorrecto. La curva Tipo II se observa en algunas aves y reptiles donde la probabilidad de morir es uniforme. -->
@@ -332,9 +332,9 @@ El Principio de Exclusión Competitiva señala que dos especies que compiten por
 ¿Qué interpretación demográfica sobre el futuro a corto plazo de esta población es biológicamente correcta?
 
 ### Opciones
-- [ ] A) La población está en una fase de rápida expansión demográfica por alto reclutamiento de juveniles.
+- [ ] B) La población está en una fase de rápida expansión demográfica por alto reclutamiento de juveniles.
   <!-- feedback: Incorrecto. Una base estrecha indica pocos individuos juveniles (baja natalidad o reclutamiento). -->
-- [x] B) La población está envejeciendo y en proceso de declive, con un bajo reemplazo generacional.
+- [x] A) La población está envejeciendo y en proceso de declive, con un bajo reemplazo generacional.
   <!-- feedback: Correcto. La escasez de individuos jóvenes frente a adultos maduros presagia una reducción poblacional futura por bajo reemplazo. -->
 - [ ] C) La población ha alcanzado la tasa máxima de mutación positiva en individuos seniles.
   <!-- feedback: Incorrecto. Las pirámides de edad miden proporciones de cohortes de edad, no tasas mutacionales. -->
@@ -380,9 +380,9 @@ La coevolución ocurre cuando dos o más especies ejercen presiones selectivas m
 ### Opciones
 - [ ] A) Incrementa el flujo génico entre poblaciones aisladas de parches distantes.
   <!-- feedback: Incorrecto. La fragmentación interrumpe los corredores biológicos y reduce el flujo génico. -->
-- [x] B) Altera las condiciones microclimáticas de las orillas y facilita la invasión de especies oportunistas o depredadores.
+- [x] C) Altera las condiciones microclimáticas de las orillas y facilita la invasión de especies oportunistas o depredadores.
   <!-- feedback: Correcto. El efecto borde modifica la luz, humedad y viento en los márgenes, aumentando la vulnerabilidad de especies especialista de interior. -->
-- [ ] C) Eleva la capacidad de carga $K$ de todas las especies autóctonas especialistas.
+- [ ] B) Eleva la capacidad de carga $K$ de todas las especies autóctonas especialistas.
   <!-- feedback: Incorrecto. El microhábitat de interior se reduce, disminuyendo la capacidad de carga para especies sensibles. -->
 - [ ] D) Elimina por completo el riesgo de deriva genética en las poblaciones pequeñas.
   <!-- feedback: Incorrecto. Las poblaciones pequeñas en parches fragmentados sufren mayor deriva genética e inbreeding. -->
@@ -401,9 +401,9 @@ El efecto borde altera la temperatura, radiación y desecación en los límites 
 Si una severa sequía reduce de forma permanente la capacidad de carga $K$ a $600$ individuos, ¿cuál será el valor instantáneo de $\frac{dN}{dt}$ inmediatamente después de la reducción de $K$ y qué ocurrirá con la población?
 
 ### Opciones
-- [x] A) $\frac{dN}{dt} = -26{,}67\text{ ind/año}$; la población decrecerá hasta ajustarse a la nueva capacidad de carga de 600.
+- [x] B) $\frac{dN}{dt} = -26{,}67\text{ ind/año}$; la población decrecerá hasta ajustarse a la nueva capacidad de carga de 600.
   <!-- feedback: Correcto. Sustituyendo $N=800$ y $K=600$: $\frac{dN}{dt} = 0{,}1 \cdot 800 \cdot (1 - 800/600) = 80 \cdot (-1/3) = -26{,}67\text{ ind/año}$. Al ser negativo, la población disminuye. -->
-- [ ] B) $\frac{dN}{dt} = +16{,}00\text{ ind/año}$; la población continuará creciendo hacia 1000 individuos.
+- [ ] A) $\frac{dN}{dt} = +16{,}00\text{ ind/año}$; la población continuará creciendo hacia 1000 individuos.
   <!-- feedback: Incorrecto. Si $N > K$, el término $(1 - N/K)$ resulta negativo y la tasa de cambio es negativa. -->
 - [ ] C) $\frac{dN}{dt} = 0\text{ ind/año}$; la población permanecerá congelada en 800 individuos de forma indefinida.
   <!-- feedback: Incorrecto. La tasa de cambio es cero únicamente cuando $N = K$ o $N = 0$. -->
@@ -424,9 +424,9 @@ Cuando $N > K$, la resistencia ambiental supera la tasa de reemplazo, $(1 - N/K)
 ¿Qué impacto en cascada sobre los distintos niveles tróficos se produce al eliminar al depredador ápice en un sistema estuarino o fluvial?
 
 ### Opciones
-- [ ] A) Disminución de los herbívoros y aumento drástico de la biomasa de los productores primarios.
+- [ ] B) Disminución de los herbívoros y aumento drástico de la biomasa de los productores primarios.
   <!-- feedback: Incorrecto. Sin depredador, los herbívoros aumentan, lo que incrementa el consumo de vegetación primaria. -->
-- [x] B) Aumento descontrolado de herbívoros (liberación de la depredación) y sobrepastoreo destructivo de los productores primarios.
+- [x] A) Aumento descontrolado de herbívoros (liberación de la depredación) y sobrepastoreo destructivo de los productores primarios.
   <!-- feedback: Correcto. La pérdida del depredador ápice libera a los herbívoros de la regulación superior, provocando sobrepastoreo y degradación de la flora. -->
 - [ ] C) Extinción inmediata de los descomponedores del suelo y colapso de la energía solar incidente.
   <!-- feedback: Incorrecto. Los descomponedores consumen materia orgánica muerta y la radiación solar es independiente del sistema trófico. -->
@@ -449,11 +449,11 @@ Las cascadas tróficas descendentes (*top-down*) muestran cómo la regulación p
 ### Opciones
 - [ ] A) Las macrófitas absorben el fósforo del sedimento e impiden el crecimiento de algas suspendidas.
   <!-- feedback: Incorrecto. Este es el mecanismo de retroalimentación que mantiene el estado claro, no el turbio. -->
-- [x] B) El fitoplancton en alta densidad sombrea el fondo impidiendo la fotosíntesis de macrófitas, lo que resuspende sedimentos y libera más nutrientes para las algas.
+- [x] D) El fitoplancton en alta densidad sombrea el fondo impidiendo la fotosíntesis de macrófitas, lo que resuspende sedimentos y libera más nutrientes para las algas.
   <!-- feedback: Correcto. La turbidez bloquea la luz para las plantas arraigadas; al morir estas, el viento resuspende sedimento y recicla fósforo, perpetuando la turbidez. -->
-- [ ] C) El aumento de luz solar en el fondo estimula la fijación de nitrógeno por plantas sumergidas.
+- [ ] B) El aumento de luz solar en el fondo estimula la fijación de nitrógeno por plantas sumergidas.
   <!-- feedback: Incorrecto. En el estado turbio la luz no penetra hasta el fondo debido a la biomasa algal. -->
-- [ ] D) Los peces herbívoros consumen todo el fitoplancton aclarando el agua cíclicamente.
+- [ ] C) Los peces herbívoros consumen todo el fitoplancton aclarando el agua cíclicamente.
   <!-- feedback: Incorrecto. En estados turbios suele haber dominancia de peces zooplanctívoros o bentívoros que agravan la turbidez. -->
 
 ### Explicacion Pedagogica
@@ -472,11 +472,11 @@ Si el Arroyo A presenta $H' = 3{,}2$ y $J' = 0{,}88$, mientras que el Arroyo B p
 ### Opciones
 - [ ] A) El Arroyo B exhibe mayor salud ecológica debido a la alta dominancia y especialización de *Tubifex*.
   <!-- feedback: Incorrecto. La dominancia extrema por especies tolerantes indica perturbación orgánica y baja biodiversidad. -->
-- [x] B) El Arroyo A posee alta diversidad y equitabilidad en la distribución de abundancias, reflejando menor perturbación ambiental que el Arroyo B.
+- [x] D) El Arroyo A posee alta diversidad y equitabilidad en la distribución de abundancias, reflejando menor perturbación ambiental que el Arroyo B.
   <!-- feedback: Correcto. Valores elevados de $H'$ y $J'$ indican una comunidad rica con abundancias repartidas de forma pareja, típica de sistemas poco contaminados. -->
-- [ ] C) Ambos arroyos presentan idéntico grado de estrés ecológico ya que el índice de Shannon no depende de la riqueza de especies.
+- [ ] B) Ambos arroyos presentan idéntico grado de estrés ecológico ya que el índice de Shannon no depende de la riqueza de especies.
   <!-- feedback: Incorrecto. $H'$ integra riqueza y equitabilidad; sus valores contrastantes (3,2 vs 1,1) demuestran condiciones ecológicas muy distintas. -->
-- [ ] D) El Arroyo A está desprovisto de nichos ecológicos al no haber una especie claramente dominante.
+- [ ] C) El Arroyo A está desprovisto de nichos ecológicos al no haber una especie claramente dominante.
   <!-- feedback: Incorrecto. La elevada equitabilidad revela una red trófica compleja con múltiples nichos ocupados. -->
 
 ### Explicacion Pedagogica

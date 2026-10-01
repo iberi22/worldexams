@@ -35,9 +35,9 @@ creador: "Jules-Agent"
 According to recent reports, global temperatures have risen by 1.1 degrees Celsius since the late 19th century.
 
 ### Opciones
-- [x] A) have risen <!-- feedback: Correct. The present perfect is used for actions starting in the past and continuing to the present. -->
-- [ ] B) rose <!-- feedback: Incorrect. This would imply the rising finished at a specific point in the past. -->
-- [ ] C) are rising <!-- feedback: Incorrect. While they are rising, the sentence specifies "since the late 19th century." -->
+- [x] C) have risen <!-- feedback: Correct. The present perfect is used for actions starting in the past and continuing to the present. -->
+- [ ] A) rose <!-- feedback: Incorrect. This would imply the rising finished at a specific point in the past. -->
+- [ ] B) are rising <!-- feedback: Incorrect. While they are rising, the sentence specifies "since the late 19th century." -->
 - [ ] D) had risen <!-- feedback: Incorrect. The past perfect is used for an action completed before another past action. -->
 
 ### Explicacion Pedagogica
@@ -56,8 +56,8 @@ Transitioning to renewable energy sources is crucial to mitigate the effects of 
 
 ### Opciones
 - [ ] A) finite <!-- feedback: Incorrect. Finite means limited, which refers to fossil fuels. -->
-- [x] B) renewable <!-- feedback: Correct. Renewable sources like solar and wind are key to sustainability. -->
-- [ ] C) fossil <!-- feedback: Incorrect. Fossil fuels are the primary cause of the emissions being discussed. -->
+- [x] C) renewable <!-- feedback: Correct. Renewable sources like solar and wind are key to sustainability. -->
+- [ ] B) fossil <!-- feedback: Incorrect. Fossil fuels are the primary cause of the emissions being discussed. -->
 - [ ] D) depleted <!-- feedback: Incorrect. Depleted means used up. -->
 
 ### Explicacion Pedagogica
@@ -75,8 +75,8 @@ Transitioning to renewable energy sources is crucial to mitigate the effects of 
 By the year 2050, many countries will have aimed to achieve net-zero carbon emissions.
 
 ### Opciones
-- [ ] A) will hope <!-- feedback: Incorrect. This expresses a simple future hope rather than a projected completion. -->
-- [x] B) will have aimed <!-- feedback: Correct. The future perfect is used to describe an action that will be completed by a certain point in the future. -->
+- [ ] B) will hope <!-- feedback: Incorrect. This expresses a simple future hope rather than a projected completion. -->
+- [x] A) will have aimed <!-- feedback: Correct. The future perfect is used to describe an action that will be completed by a certain point in the future. -->
 - [ ] C) are aiming <!-- feedback: Incorrect. This describes a current action, not one relative to 2050. -->
 - [ ] D) aimed <!-- feedback: Incorrect. This is the past tense. -->
 
@@ -96,8 +96,8 @@ The extinction of certain species often leads to a domino effect, disrupting ent
 
 ### Opciones
 - [ ] A) static <!-- feedback: Incorrect. Static means unchanging. -->
-- [x] B) domino <!-- feedback: Correct. A domino effect occurs when one event sets off a chain of similar events. -->
-- [ ] C) isolated <!-- feedback: Incorrect. The text describes disruption across "entire ecosystems," not in isolation. -->
+- [x] C) domino <!-- feedback: Correct. A domino effect occurs when one event sets off a chain of similar events. -->
+- [ ] B) isolated <!-- feedback: Incorrect. The text describes disruption across "entire ecosystems," not in isolation. -->
 - [ ] D) reversible <!-- feedback: Incorrect. Extinction is usually permanent and the resulting disruptions are difficult to reverse. -->
 
 ### Explicacion Pedagogica
@@ -136,9 +136,9 @@ The rapid growth of cities, known as urbanization, presents challenges for infra
 
 ### Opciones
 - [ ] A) ruralization <!-- feedback: Incorrect. This is the opposite of city growth. -->
-- [x] B) urbanization <!-- feedback: Correct. Urbanization refers to the process of making an area more urban. -->
-- [ ] C) migration <!-- feedback: Incorrect. While migration causes urbanization, the term for city growth itself is urbanization. -->
-- [ ] D) congestion <!-- feedback: Incorrect. Congestion is a symptom of urbanization, not the name of the process. -->
+- [x] D) urbanization <!-- feedback: Correct. Urbanization refers to the process of making an area more urban. -->
+- [ ] B) migration <!-- feedback: Incorrect. While migration causes urbanization, the term for city growth itself is urbanization. -->
+- [ ] C) congestion <!-- feedback: Incorrect. Congestion is a symptom of urbanization, not the name of the process. -->
 
 ### Explicacion Pedagogica
 Urbanization is the standard sociological and geographical term for the expansion and development of cities.
@@ -195,9 +195,9 @@ The digital divide specifically concerns the inequality in access to computers, 
 Reducing our carbon footprint is one of the most effective ways individuals can contribute to fighting climate change.
 
 ### Opciones
-- [x] A) footprint <!-- feedback: Correct. A carbon footprint is the total amount of greenhouse gases produced by an individual or entity. -->
-- [ ] B) track <!-- feedback: Incorrect. 'Track' is not the standard term used with 'carbon' in this context. -->
-- [ ] C) impact <!-- feedback: Incorrect. While we reduce our 'impact', the specific idiomatic term is 'footprint'. -->
+- [x] C) footprint <!-- feedback: Correct. A carbon footprint is the total amount of greenhouse gases produced by an individual or entity. -->
+- [ ] A) track <!-- feedback: Incorrect. 'Track' is not the standard term used with 'carbon' in this context. -->
+- [ ] B) impact <!-- feedback: Incorrect. While we reduce our 'impact', the specific idiomatic term is 'footprint'. -->
 - [ ] D) shadow <!-- feedback: Incorrect. 'Shadow' is not used in this scientific context. -->
 
 ### Explicacion Pedagogica
@@ -236,8 +236,8 @@ The United Nations was established in 1945 to promote international cooperation.
 
 ### Opciones
 - [ ] A) is <!-- feedback: Incorrect. The UN was established in the past. -->
-- [x] B) was <!-- feedback: Correct. Use the past simple passive for a completed action in the past. -->
-- [ ] C) has been <!-- feedback: Incorrect. This would imply it is still in the process of being established. -->
+- [x] C) was <!-- feedback: Correct. Use the past simple passive for a completed action in the past. -->
+- [ ] B) has been <!-- feedback: Incorrect. This would imply it is still in the process of being established. -->
 - [ ] D) were <!-- feedback: Incorrect. 'The United Nations' is treated as a singular organization. -->
 
 ### Explicacion Pedagogica
@@ -256,8 +256,8 @@ Food insecurity occurs when people lack regular access to enough safe and nutrit
 
 ### Opciones
 - [ ] A) Malnutrition <!-- feedback: Incorrect. Malnutrition is the result, but the state of lacking access is food insecurity. -->
-- [ ] B) Famine <!-- feedback: Incorrect. Famine is an extreme and widespread scarcity of food. -->
-- [x] C) Food insecurity <!-- feedback: Correct. This is the formal term for lacking consistent access to food. -->
+- [ ] C) Famine <!-- feedback: Incorrect. Famine is an extreme and widespread scarcity of food. -->
+- [x] B) Food insecurity <!-- feedback: Correct. This is the formal term for lacking consistent access to food. -->
 - [ ] D) Poverty <!-- feedback: Incorrect. Poverty is a cause, but not the specific definition of the food situation. -->
 
 ### Explicacion Pedagogica
@@ -275,9 +275,9 @@ Food insecurity is the technical term for the condition described.
 Many refugees had left their homes due to conflict before the international community provided aid.
 
 ### Opciones
-- [ ] A) leave <!-- feedback: Incorrect. Present tense. -->
-- [ ] B) have left <!-- feedback: Incorrect. Present perfect is for past to present. -->
-- [x] C) had left <!-- feedback: Correct. The past perfect is used for an action that happened before another past action. -->
+- [ ] B) leave <!-- feedback: Incorrect. Present tense. -->
+- [ ] C) have left <!-- feedback: Incorrect. Present perfect is for past to present. -->
+- [x] A) had left <!-- feedback: Correct. The past perfect is used for an action that happened before another past action. -->
 - [ ] D) were leaving <!-- feedback: Incorrect. This describes an action in progress. -->
 
 ### Explicacion Pedagogica
@@ -296,8 +296,8 @@ The primary driver of deforestation in the Amazon is the expansion of agricultur
 
 ### Opciones
 - [ ] A) consequence <!-- feedback: Incorrect. The text lists ranching as the cause. -->
-- [x] B) driver <!-- feedback: Correct. In this context, 'driver' means the main cause or force behind a process. -->
-- [ ] C) solution <!-- feedback: Incorrect. Agriculture is the problem. -->
+- [x] C) driver <!-- feedback: Correct. In this context, 'driver' means the main cause or force behind a process. -->
+- [ ] B) solution <!-- feedback: Incorrect. Agriculture is the problem. -->
 - [ ] D) obstacle <!-- feedback: Incorrect. Deforestation is the process. -->
 
 ### Explicacion Pedagogica
@@ -316,8 +316,8 @@ The author implies that while globalization has increased wealth globally, it ha
 
 ### Opciones
 - [ ] A) eliminated <!-- feedback: Incorrect. Inequality may have worsened. -->
-- [x] B) exacerbated <!-- feedback: Correct. To exacerbate means to make a problem or bad situation worse. -->
-- [ ] C) stabilized <!-- feedback: Incorrect. Stabilization would mean it stopped changing. -->
+- [x] C) exacerbated <!-- feedback: Correct. To exacerbate means to make a problem or bad situation worse. -->
+- [ ] B) stabilized <!-- feedback: Incorrect. Stabilization would mean it stopped changing. -->
 - [ ] D) ignored <!-- feedback: Incorrect. Globalization isn't a sentient being. -->
 
 ### Explicacion Pedagogica
@@ -336,9 +336,9 @@ The Universal Declaration of Human Rights states that everyone is entitled to li
 
 ### Opciones
 - [ ] A) allowed <!-- feedback: Incorrect. 'Entitled' is stronger. -->
-- [x] B) entitled <!-- feedback: Correct. To be entitled to something means to have a right to it. -->
-- [ ] C) requested <!-- feedback: Incorrect. These are fundamental rights. -->
-- [ ] D) supposed <!-- feedback: Incorrect. This implies a weak expectation. -->
+- [x] D) entitled <!-- feedback: Correct. To be entitled to something means to have a right to it. -->
+- [ ] B) requested <!-- feedback: Incorrect. These are fundamental rights. -->
+- [ ] C) supposed <!-- feedback: Incorrect. This implies a weak expectation. -->
 
 ### Explicacion Pedagogica
 'Entitled' is the formal term used in legal and rights-based contexts.
@@ -356,8 +356,8 @@ We must use less plastic if we want to protect our oceans from further pollution
 
 ### Opciones
 - [ ] A) might <!-- feedback: Incorrect. This expresses a weak possibility. -->
-- [ ] B) would <!-- feedback: Incorrect. This is conditional. -->
-- [x] C) must <!-- feedback: Correct. 'Must' expresses strong obligation or necessity. -->
+- [ ] C) would <!-- feedback: Incorrect. This is conditional. -->
+- [x] B) must <!-- feedback: Correct. 'Must' expresses strong obligation or necessity. -->
 - [ ] D) could <!-- feedback: Incorrect. This expresses ability or possibility. -->
 
 ### Explicacion Pedagogica
@@ -376,9 +376,9 @@ A circular economy aims to eliminate waste by keeping products and materials in 
 
 ### Opciones
 - [ ] A) generate <!-- feedback: Incorrect. The goal is the opposite. -->
-- [x] B) eliminate <!-- feedback: Correct. The goal of a circular economy is to design out waste. -->
-- [ ] C) ignore <!-- feedback: Incorrect. The circular economy is a strategy to manage materials. -->
-- [ ] D) export <!-- feedback: Incorrect. Exporting waste is not the same. -->
+- [x] D) eliminate <!-- feedback: Correct. The goal of a circular economy is to design out waste. -->
+- [ ] B) ignore <!-- feedback: Incorrect. The circular economy is a strategy to manage materials. -->
+- [ ] C) export <!-- feedback: Incorrect. Exporting waste is not the same. -->
 
 ### Explicacion Pedagogica
 The core principle of a circular economy is to minimize or eliminate waste through better design and reuse.
@@ -395,9 +395,9 @@ The core principle of a circular economy is to minimize or eliminate waste throu
 Many regions are facing severe water shortages, leading to conflicts over access to clean drinking water.
 
 ### Opciones
-- [ ] A) abundance <!-- feedback: Incorrect. Abundance means plenty. -->
-- [ ] B) surplus <!-- feedback: Incorrect. Surplus means an extra amount. -->
-- [x] C) shortages <!-- feedback: Correct. A shortage is a state where something needed cannot be obtained in sufficient amounts. -->
+- [ ] B) abundance <!-- feedback: Incorrect. Abundance means plenty. -->
+- [ ] C) surplus <!-- feedback: Incorrect. Surplus means an extra amount. -->
+- [x] A) shortages <!-- feedback: Correct. A shortage is a state where something needed cannot be obtained in sufficient amounts. -->
 - [ ] D) flows <!-- feedback: Incorrect. 'Flows' refers to the movement of water. -->
 
 ### Explicacion Pedagogica
@@ -417,8 +417,8 @@ The author concludes that systemic change is required to address the root causes
 ### Opciones
 - [ ] A) hide <!-- feedback: Incorrect. The author wants to solve the problem. -->
 - [ ] B) maintain <!-- feedback: Incorrect. The author wants to change the system. -->
-- [x] C) address <!-- feedback: Correct. In this context, to 'address' means to think about and begin to deal with an issue. -->
-- [ ] D) witness <!-- feedback: Incorrect. 'Witnessing' is passive. -->
+- [x] D) address <!-- feedback: Correct. In this context, to 'address' means to think about and begin to deal with an issue. -->
+- [ ] C) witness <!-- feedback: Incorrect. 'Witnessing' is passive. -->
 
 ### Explicacion Pedagogica
 'Address' is the appropriate verb for dealing with complex social issues.

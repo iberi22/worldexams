@@ -33,13 +33,13 @@ Este bundle contiene 20 preguntas sobre la estructura y elementos constitutivos 
 ¿Cuál es la diferencia fundamental entre la 'estructura externa' y la 'estructura interna' de un texto narrativo?
 
 ### Opciones
-- [x] A) La estructura externa se organiza formalmente en capítulos, párrafos o tratados; mientras que la interna se refiere al orden del contenido (planteamiento, nudo y desenlace).
+- [x] D) La estructura externa se organiza formalmente en capítulos, párrafos o tratados; mientras que la interna se refiere al orden del contenido (planteamiento, nudo y desenlace).
   <!-- feedback: Correcto. La estructura externa es el armazón formal visible (capítulos, partes), mientras que la interna atañe a la disposición dramática de la trama. -->
-- [ ] B) La externa se refiere al color del papel impreso del libro y la interna son las pesadillas secretas del novelista.
+- [ ] A) La externa se refiere al color del papel impreso del libro y la interna son las pesadillas secretas del novelista.
   <!-- feedback: Incorrecto. Es una distinción absurda sin base científica en la teoría de los textos. -->
-- [ ] C) Ambas estructuras son idénticas y el análisis literario moderno desaconseja diferenciarlas en bachillerato.
+- [ ] B) Ambas estructuras son idénticas y el análisis literario moderno desaconseja diferenciarlas en bachillerato.
   <!-- feedback: Incorrecto. La distinción es un estándar clave del comentario de texto de selectividad en España. -->
-- [ ] D) La estructura externa es exclusiva de los poemas rimados y la interna atañe solo a las fórmulas de física y química.
+- [ ] C) La estructura externa es exclusiva de los poemas rimados y la interna atañe solo a las fórmulas de física y química.
   <!-- feedback: Incorrecto. Los textos narrativos tienen ambas estructuras de forma intrínseca en su prosa. -->
 
 ### Explicacion Pedagogica
@@ -57,11 +57,11 @@ La estructura externa organiza el libro físicamente (capítulos, tomos, escenas
 ¿Qué tipo de narrador protagoniza este relato de acuerdo con su punto de vista?
 
 ### Opciones
-- [x] A) Narrador omnisciente o heterodiegético, que narra en tercera persona y posee un conocimiento total de los hechos y la psicología de los personajes.
+- [x] C) Narrador omnisciente o heterodiegético, que narra en tercera persona y posee un conocimiento total de los hechos y la psicología de los personajes.
   <!-- feedback: Correcto. El narrador omnisciente se sitúa fuera de la diégesis (heterodiegético) y tiene un saber absoluto y sabelotodo del universo narrativo. -->
-- [ ] B) Narrador protagonista u homodiegético, que escribe su diario íntimo en primera persona del plural.
+- [ ] A) Narrador protagonista u homodiegético, que escribe su diario íntimo en primera persona del plural.
   <!-- feedback: Incorrecto. Si fuera protagonista narraría sus propias andanzas en primera persona, no se mantendría fuera con omnisciencia sobre otros. -->
-- [ ] C) Narrador testigo de bajo nivel de éxito de Doñana.
+- [ ] B) Narrador testigo de bajo nivel de éxito de Doñana.
   <!-- feedback: Incorrecto. El narrador testigo observa desde dentro pero carece de acceso a la mente de los demás personajes. -->
 - [ ] D) Narrador ausente que prohíbe de forma terminante usar adjetivos calificativos.
   <!-- feedback: Incorrecto. El narrador omnisciente es una figura activa que modula el tono mediante valoraciones y adjetivos. -->
@@ -81,13 +81,13 @@ El narrador omnisciente (heterodiegético de tercera persona) no participa en lo
 ¿Cómo se denominan estos dos planos temporales en la teoría de la narración?
 
 ### Opciones
-- [x] A) El tiempo de la historia (los sucesos en orden cronológico real) y el tiempo del discurso (el orden en que el narrador dispone los hechos en el texto).
+- [x] D) El tiempo de la historia (los sucesos en orden cronológico real) y el tiempo del discurso (el orden en que el narrador dispone los hechos en el texto).
   <!-- feedback: Correcto. El tiempo de la historia es la secuencia cronológica lineal de los acontecimientos; el del discurso es la disposición artística y anacrónica de los mismos en la novela. -->
-- [ ] B) El tiempo meteorológico de la estación de Atocha y el tiempo sintáctico del subjuntivo.
+- [ ] A) El tiempo meteorológico de la estación de Atocha y el tiempo sintáctico del subjuntivo.
   <!-- feedback: Incorrecto. No confundir el tiempo climatológico o gramatical con los tiempos de la narratología. -->
-- [ ] C) El tiempo de la física cuántica medieval y el tiempo de la RAE.
+- [ ] B) El tiempo de la física cuántica medieval y el tiempo de la RAE.
   <!-- feedback: Incorrecto. Son conceptos narratológicos estandarizados ajenos a la física cuántica medieval. -->
-- [ ] D) Son idénticos, puesto que un texto literario tiene prohibido alterar el orden del reloj físico.
+- [ ] C) Son idénticos, puesto que un texto literario tiene prohibido alterar el orden del reloj físico.
   <!-- feedback: Incorrecto. La literatura se sirve de la manipulación temporal (anacronías) de forma libre y habitual para generar suspense. -->
 
 ### Explicacion Pedagogica
@@ -105,9 +105,9 @@ La narratología separa el tiempo de la historia (la lógica cronológica de la 
 ¿Qué recurso de aceleración temporal o manipulación del tiempo del discurso se está empleando en este salto temporal?
 
 ### Opciones
-- [x] A) Elipsis narrativa, que consiste en omitir un periodo de tiempo que carece de interés para la trama, acelerando el ritmo.
+- [x] B) Elipsis narrativa, que consiste en omitir un periodo de tiempo que carece de interés para la trama, acelerando el ritmo.
   <!-- feedback: Correcto. La elipsis narrativa silencia un lapso temporal de la historia, permitiendo al discurso dar un salto inmediato hacia adelante. -->
-- [ ] B) Digresión moral, que consiste en meter diálogos en catalán sobre la gastronomía local.
+- [ ] A) Digresión moral, que consiste en meter diálogos en catalán sobre la gastronomía local.
   <!-- feedback: Incorrecto. La digresión interrumpe la trama para dar una opinión reflexiva, no causa un salto en la acción física. -->
 - [ ] C) Un leísmo sintáctico de persona que suspende la acción del sujeto.
   <!-- feedback: Incorrecto. Es un fenómeno estructural narrativo de carácter temporal, no un error pronominal de acusativo. -->
@@ -153,9 +153,9 @@ La analepsis (término narratológico para el 'flashback') interrumpe la línea 
 ¿Qué punto de vista y tipo de narrador presenta el texto citado?
 
 ### Opciones
-- [x] A) Primera persona singular, con narrador protagonista u homodiegético, que participa directamente como personaje central de la acción.
+- [x] B) Primera persona singular, con narrador protagonista u homodiegético, que participa directamente como personaje central de la acción.
   <!-- feedback: Correcto. El uso de la primera persona ('subí', 'mis huesos', 'mi abrigo') indica que el narrador es el protagonista de sus propios acontecimientos (homodiegético). -->
-- [ ] B) Tercera persona omnisciente, heterodiegético, que observa desde las nubes de Galicia.
+- [ ] A) Tercera persona omnisciente, heterodiegético, que observa desde las nubes de Galicia.
   <!-- feedback: Incorrecto. El narrador habla desde su propia subjetividad y experiencia en primera persona, no como un ser omnisciente ajeno a la acción física. -->
 - [ ] C) Segunda persona apelativa, que ordena de forma directa al lector que suba las escaleras.
   <!-- feedback: Incorrecto. El texto dice 'subí' (primera persona), no 'sube tú' (segunda persona). -->
@@ -177,11 +177,11 @@ El narrador homodiegético es aquel que forma parte de la historia (diégesis) c
 ¿Cómo se clasifica a este personaje según la complejidad de su caracterización y desarrollo?
 
 ### Opciones
-- [x] A) Personaje plano, por estar definido por un solo rasgo o idea y carecer de evolución psicológica o transformación a lo largo de la obra.
+- [x] C) Personaje plano, por estar definido por un solo rasgo o idea y carecer de evolución psicológica o transformación a lo largo de la obra.
   <!-- feedback: Correcto. Los personajes planos (o caricaturescos) se diseñan en torno a una idea única o rasgo fijo, sin complejidad ni evolución dramática. -->
-- [ ] B) Personaje redondo, debido a su profunda y tortuosa contradicción interna existencial.
+- [ ] A) Personaje redondo, debido a su profunda y tortuosa contradicción interna existencial.
   <!-- feedback: Incorrecto. Los redondos muestran múltiples facetas, evolucionan con los acontecimientos y resultan psicológicamente complejos. -->
-- [ ] C) Protagonista absoluto, puesto que las novelas de Sevilla giran únicamente en torno al Tío Paco.
+- [ ] B) Protagonista absoluto, puesto que las novelas de Sevilla giran únicamente en torno al Tío Paco.
   <!-- feedback: Incorrecto. El Tío Paco se define como un personaje secundario o comparsa menor, no como el protagonista. -->
 - [ ] D) Antagonista de la RAE, que busca destruir de forma voluntaria la ortografía de la lengua española.
   <!-- feedback: Incorrecto. Los personajes planos no representan villanos ortográficos de instituciones académicas de forma obligatoria. -->
@@ -201,13 +201,13 @@ E.M. Forster propuso clasificar a los personajes en 'planos' (aquellos construid
 ¿Qué recurso temporal de anacronía dramática organiza este célebre fragmento literario?
 
 ### Opciones
-- [x] A) Prolepsis o flashforward, ya que la narración se anticipa en el tiempo para contar un hecho que ocurrirá en el futuro de la historia.
+- [x] D) Prolepsis o flashforward, ya que la narración se anticipa en el tiempo para contar un hecho que ocurrirá en el futuro de la historia.
   <!-- feedback: Correcto. El enunciado sitúa momentáneamente el discurso en un punto futuro ('Muchos años después, frente al pelotón...') antes de replegarse al pasado de la historia ('aquella tarde remota...'). Es una anticipación proléptica compleja. -->
-- [ ] B) Elipsis absoluta, porque se eliminan todos los verbos del modo subjuntivo peninsular.
+- [ ] A) Elipsis absoluta, porque se eliminan todos los verbos del modo subjuntivo peninsular.
   <!-- feedback: Incorrecto. Los verbos se mantienen perfectamente; no hay supresión formal del modo sino un salto narrativo. -->
-- [ ] C) Sincronía pura, porque el coronel Buendía vive físicamente en el Metro de Madrid en el mismo instante.
+- [ ] B) Sincronía pura, porque el coronel Buendía vive físicamente en el Metro de Madrid en el mismo instante.
   <!-- feedback: Incorrecto. Es una anacronía literaria (prolepsis de futuro), no un suceso sincrónico cotidiano. -->
-- [ ] D) Dequeísmo gramatical por omitir la preposición 'de' antes del pronombre 'que'.
+- [ ] C) Dequeísmo gramatical por omitir la preposición 'de' antes del pronombre 'que'.
   <!-- feedback: Incorrecto. El fragmento es sintácticamente modélico, libre de dequeísmo o queísmo. -->
 
 ### Explicacion Pedagogica
@@ -297,11 +297,11 @@ En el discurso narrativo, los tiempos verbales del pasado se distribuyen con fun
 ¿Qué técnica de apertura narrativa se manifiesta en este célebre inicio?
 
 ### Opciones
-- [x] A) In media res, que consiste en comenzar el relato directamente en mitad de la acción dramática o conflicto, sin presentación previa de personajes o antecedentes.
+- [x] C) In media res, que consiste en comenzar el relato directamente en mitad de la acción dramática o conflicto, sin presentación previa de personajes o antecedentes.
   <!-- feedback: Correcto. El inicio 'in media res' (en mitad del asunto) omite el planteamiento tradicional y arroja al lector en el núcleo del conflicto. -->
-- [ ] B) Apertura in extremis, porque la historia empieza obligatoriamente por el entierro final del protagonista en Zaragoza.
+- [ ] A) Apertura in extremis, porque la historia empieza obligatoriamente por el entierro final del protagonista en Zaragoza.
   <!-- feedback: Incorrecto. 'In extremis' es empezar por el mismísimo desenlace o fin cronológico absoluto de la vida del protagonista, lo cual no ocurre aquí. -->
-- [ ] C) Comienzo de caja china, ya que se describe la vida de las hormigas de Madrid de manera científica.
+- [ ] B) Comienzo de caja china, ya que se describe la vida de las hormigas de Madrid de manera científica.
   <!-- feedback: Incorrecto. Gregor se despierta convertido en insecto de forma literaria y no como un tratado de entomología. -->
 - [ ] D) Elipsis estructural, puesto que el narrador ha suprimido el abecedario español completo para ahorrar tinta de la RAE.
   <!-- feedback: Incorrecto. Se emplean las letras normales en castellano; la elipsis narrativa no suprime caracteres gráficos. -->
@@ -321,13 +321,13 @@ El comienzo 'in media res' es un recurso clásico que dinamiza el interés del r
 ¿Qué estilo se utiliza para reproducir las palabras de la mujer y qué aporta al ritmo narrativo frente a otras alternativas?
 
 ### Opciones
-- [x] A) Estilo directo, introducido por un guion de diálogo; aporta inmediatez dramática y vivacidad al dar voz directa y autónoma al personaje.
+- [x] D) Estilo directo, introducido por un guion de diálogo; aporta inmediatez dramática y vivacidad al dar voz directa y autónoma al personaje.
   <!-- feedback: Correcto. El estilo directo reproduce textualmente las palabras del personaje mediante guiones o comillas, dinamizando el ritmo dramático de la escena. -->
-- [ ] B) Estilo indirecto tradicional, caracterizado por fundir la voz en un nexo subordinado con la conjunción 'que'.
+- [ ] A) Estilo indirecto tradicional, caracterizado por fundir la voz en un nexo subordinado con la conjunción 'que'.
   <!-- feedback: Incorrecto. El estilo indirecto diría: 'Ella afirmó con sequedad que no pensaba ir...', perdiendo la inmediatez de la voz directa. -->
-- [ ] C) Monólogo interior existencial madrileño que suprime los signos de interrogación.
+- [ ] B) Monólogo interior existencial madrileño que suprime los signos de interrogación.
   <!-- feedback: Incorrecto. Es un diálogo interactivo interpersonal en estilo directo, no una reflexión interior asilada sin interlocutor. -->
-- [ ] D) Un vulgarismo fonético causado por el desuso de los verbos transitivos en Sevilla.
+- [ ] C) Un vulgarismo fonético causado por el desuso de los verbos transitivos en Sevilla.
   <!-- feedback: Incorrecto. La frase es sintácticamente impecable. -->
 
 ### Explicacion Pedagogica
@@ -345,11 +345,11 @@ El estilo directo permite al escritor dar la palabra a sus personajes sin interm
 Desde la perspectiva simbólica del espacio en la narrativa, ¿cómo influye la descripción de este entorno en la trama?
 
 ### Opciones
-- [x] A) Actúa como un espacio subjetivo u homólogo, donde las condiciones climatológicas y el paisaje reflejan y amplifican el estado de ánimo atormentado del personaje.
+- [x] C) Actúa como un espacio subjetivo u homólogo, donde las condiciones climatológicas y el paisaje reflejan y amplifican el estado de ánimo atormentado del personaje.
   <!-- feedback: Correcto. En la literatura romántica y realista, el paisaje funciona a menudo como proyección simbólica o subjetiva de los sentimientos íntimos de los personajes. -->
-- [ ] B) Se trata de un tratado científico de meteorología forestal de la Comunidad de Galicia.
+- [ ] A) Se trata de un tratado científico de meteorología forestal de la Comunidad de Galicia.
   <!-- feedback: Incorrecto. El fin es literario-estético, no describir objetivamente la nubosidad gallega con rigor botánico. -->
-- [ ] C) Representa un ruido de canal físico que impide al protagonista leer la nota de su amada.
+- [ ] B) Representa un ruido de canal físico que impide al protagonista leer la nota de su amada.
   <!-- feedback: Incorrecto. La niebla y tormenta son ficticias del relato y no perturban la lectura física del receptor de carne y hueso. -->
 - [ ] D) Es un loísmo espacial prohibido por las normas ortográficas vigentes de la RAE.
   <!-- feedback: Incorrecto. Los espacios y descripciones simbólicas de la literatura escapan a las censuras pronominales de leísmo/loísmo. -->
@@ -369,11 +369,11 @@ El espacio narrativo trasciende el mero decorado geográfico. Con frecuencia, en
 ¿Qué efecto persigue y qué variedad lingüística está aprovechando de manera intencionada el escritor?
 
 ### Opciones
-- [x] A) Buscar el verosimilitud y el realismo costumbrista, aprovechando las variedades diastráticas (sociales) y diatópicas (geográficas) para dar voz auténtica a los personajes.
+- [x] C) Buscar el verosimilitud y el realismo costumbrista, aprovechando las variedades diastráticas (sociales) y diatópicas (geográficas) para dar voz auténtica a los personajes.
   <!-- feedback: Correcto. Insertar de manera controlada rasgos lingüísticos coloquiales o vulgares dota de autenticidad dramática a la caracterización social de los personajes del entorno rural. -->
-- [ ] B) Enseñar a los labradores gramática prescriptiva de la RAE mediante la función poética.
+- [ ] A) Enseñar a los labradores gramática prescriptiva de la RAE mediante la función poética.
   <!-- feedback: Incorrecto. El fin de la literatura de ficción es recrear la realidad estética de forma verosímil y no impartir lecciones normativas del diccionario académico. -->
-- [ ] C) Demostrar que los habitantes de Soria carecen de competencia lingüística elemental.
+- [ ] B) Demostrar que los habitantes de Soria carecen de competencia lingüística elemental.
   <!-- feedback: Incorrecto. Se recrea una variedad social o registro popular lícito, carente de prejuicios destructivos contra Soria. -->
 - [ ] D) Es un dequeísmo literario de carácter obligatorio en las novelas de misterio.
   <!-- feedback: Incorrecto. El costumbrismo lingüístico no se limita ni se asocia obligatoriamente con el dequeísmo. -->
@@ -465,9 +465,9 @@ Las distorsiones temporales (anacronías) son herramientas de modulación estil�
 Evalúa el uso del tiempo presente de indicativo (presente histórico) empleado en la narración de hechos pasados.
 
 ### Opciones
-- [x] A) Es un uso estilístico lícito y dinámico del presente histórico que acerca los hechos pasados al receptor, dándoles un carácter de inmediatez y actualidad dramática.
+- [x] B) Es un uso estilístico lícito y dinámico del presente histórico que acerca los hechos pasados al receptor, dándoles un carácter de inmediatez y actualidad dramática.
   <!-- feedback: Correcto. El presente histórico traslada hechos acontecidos en el pasado a la forma del presente gramatical, logrando que el receptor perciba la escena con mayor cercanía dramática y realismo visual. -->
-- [ ] B) Es un error sintáctico atroz del periodista por no saber que los sucesos pasados exigen de forma obligatoria el modo subjuntivo.
+- [ ] A) Es un error sintáctico atroz del periodista por no saber que los sucesos pasados exigen de forma obligatoria el modo subjuntivo.
   <!-- feedback: Incorrecto. El presente histórico es un recurso discursivo estándar en el periodismo y la literatura, plenamente correcto y normativo para narrar pasados. -->
 - [ ] C) Demuestra la presencia de un dequeísmo temporal provocado por la conjugación de los verbos transitivos.
   <!-- feedback: Incorrecto. No hay ninguna preposición 'de' antes del nexo 'que'; es un recurso de aspecto y tiempo verbal lícito. -->
@@ -489,11 +489,11 @@ El presente histórico es un recurso discursivo por el cual se emplean formas de
 Evalúa críticamente la afirmación del estudiante basándote en la técnica estructural del relato enmarcado (cajas chinas) de la literatura clásica española.
 
 ### Opciones
-- [x] A) Es errónea, ya que la estructura de relatos enmarcados es una técnica clásica consagrada que utiliza el cuento interior (ejemplo de Patronio) como recurso argumentativo y pedagógico para resolver el conflicto del marco exterior (el conde), logrando una perfecta cohesión de fines.
+- [x] C) Es errónea, ya que la estructura de relatos enmarcados es una técnica clásica consagrada que utiliza el cuento interior (ejemplo de Patronio) como recurso argumentativo y pedagógico para resolver el conflicto del marco exterior (el conde), logrando una perfecta cohesión de fines.
   <!-- feedback: Correcto. El relato enmarcado o 'mise en abyme' engarza historias secundarias de manera complementaria e instrumental, sirviendo el cuento interior de ejemplo práctico y didáctico para resolver la intriga de la trama exterior del marco. -->
-- [ ] B) Es correcta, ya que la literatura medieval española carecía de normas ortográficas y se escribía mezclando folletos de manera caótica.
+- [ ] A) Es correcta, ya que la literatura medieval española carecía de normas ortográficas y se escribía mezclando folletos de manera caótica.
   <!-- feedback: Incorrecto. Don Juan Manuel diseñó la obra con un rigor estilístico y didáctico matemático, constituyendo un hito de la prosa de ficción castellana medieval. -->
-- [ ] C) Es correcta porque la RAE prohíbe de forma terminante que los personajes secundarios cuenten cuentos a sus señores feudales.
+- [ ] B) Es correcta porque la RAE prohíbe de forma terminante que los personajes secundarios cuenten cuentos a sus señores feudales.
   <!-- feedback: Incorrecto. La RAE codifica la gramática moderna, ajena a prohibiciones sobre recursos creativos de estructura narrativa medieval. -->
 - [ ] D) Se justifica porque Patronio comete dequeísmo reiterado al aconsejar de forma secreta al conde.
   <!-- feedback: Incorrecto. El estilo didáctico de Patronio es de una impecable corrección formal acorde al español del siglo XIV. -->

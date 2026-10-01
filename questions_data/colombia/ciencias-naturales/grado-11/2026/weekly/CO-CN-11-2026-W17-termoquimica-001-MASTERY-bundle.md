@@ -34,11 +34,11 @@ Este bundle contiene 20 preguntas sobre **Termoquímica y Entalpía de Reacción
 ¿Qué magnitud termodinámica representa el calor intercambiado por un sistema en un proceso a presión constante ($q_p$)?
 
 ### Opciones
-- [x] A) Variación de entalpía ($\Delta H$).
+- [x] C) Variación de entalpía ($\Delta H$).
   <!-- feedback: Correcto. Por definición termodinámica, $\Delta H = q_p$ a presión constante. -->
-- [ ] B) Energía libre de Helmholtz ($\Delta A$).
+- [ ] A) Energía libre de Helmholtz ($\Delta A$).
   <!-- feedback: Incorrecto. Representa el trabajo a volumen y temperatura constantes. -->
-- [ ] C) Trabajo eléctrico no expansivo.
+- [ ] B) Trabajo eléctrico no expansivo.
   <!-- feedback: Incorrecto. $q_p$ es transferencia de calor térmico. -->
 - [ ] D) Entropía molar estándar ($S^\circ$).
   <!-- feedback: Incorrecto. La entropía mide la dispersión de energía, no la transferencia de calor. -->
@@ -80,13 +80,13 @@ Si la entalpía de los productos es mayor que la de los reactivos ($\Delta H > 0
 ¿Qué ley enuncia que si una reacción se efectúa en varias etapas, la variación de entalpía total es la suma de las variaciones de entalpía de cada etapa?
 
 ### Opciones
-- [x] A) Ley de Hess.
+- [x] D) Ley de Hess.
   <!-- feedback: Correcto. La Ley de Hess establece que la entalpía es una función de estado independiente de la ruta. -->
-- [ ] B) Ley de Charles.
+- [ ] A) Ley de Charles.
   <!-- feedback: Incorrecto. Describe la relación entre volumen y temperatura en gases. -->
-- [ ] C) Ley de Henry.
+- [ ] B) Ley de Henry.
   <!-- feedback: Incorrecto. Describe la solubilidad de un gas en un líquido. -->
-- [ ] D) Ley de Faraday.
+- [ ] C) Ley de Faraday.
   <!-- feedback: Incorrecto. Relaciona la electrólisis con la carga eléctrica. -->
 
 ### Explicacion Pedagogica
@@ -103,13 +103,13 @@ La Ley de Hess se basa en que la entalpía es una función de estado; por ende, 
 ¿Cuál es el valor por convención de la entalpía estándar de formación de cualquier elemento químico en su forma alotrópica más estable?
 
 ### Opciones
-- [x] A) $0 \text{ kJ/mol}$.
+- [x] D) $0 \text{ kJ/mol}$.
   <!-- feedback: Correcto. Por convención termoquímica internacional, $\Delta H_f^\circ = 0$ para elementos puros en su estado estándar. -->
-- [ ] B) $100 \text{ kJ/mol}$.
+- [ ] A) $100 \text{ kJ/mol}$.
   <!-- feedback: Incorrecto. No se le asigna un valor positivo arbitrario. -->
-- [ ] C) $-285.8 \text{ kJ/mol}$.
+- [ ] B) $-285.8 \text{ kJ/mol}$.
   <!-- feedback: Incorrecto. Ese valor corresponde a la formación del agua líquida. -->
-- [ ] D) Depende de la masa molar del elemento.
+- [ ] C) Depende de la masa molar del elemento.
   <!-- feedback: Incorrecto. Es cero por definición para todos los elementos en estado de referencia. -->
 
 ### Explicacion Pedagogica
@@ -126,13 +126,13 @@ La entalpía de formación de un elemento puro en su estado termodinámico está
 ¿Cuál es la entalpía estándar de combustión ($\Delta H_{rxn}^\circ$) de un mol de metano?
 
 ### Opciones
-- [x] A) $-890.3 \text{ kJ/mol}$.
+- [x] D) $-890.3 \text{ kJ/mol}$.
   <!-- feedback: Correcto. $\Delta H_{rxn} = [-393.5 + 2(-285.8)] - [-74.8 + 0] = [-393.5 - 571.6] + 74.8 = -965.1 + 74.8 = -890.3 \text{ kJ/mol}$. -->
-- [ ] B) $+890.3 \text{ kJ/mol}$.
+- [ ] A) $+890.3 \text{ kJ/mol}$.
   <!-- feedback: Incorrecto. Las combustiones son exotérmicas y tienen signo negativo. -->
-- [ ] C) $-604.5 \text{ kJ/mol}$.
+- [ ] B) $-604.5 \text{ kJ/mol}$.
   <!-- feedback: Incorrecto. Olvidó multiplicar la formación del agua por su coeficiente estequiométrico de 2. -->
-- [ ] D) $-965.1 \text{ kJ/mol}$.
+- [ ] C) $-965.1 \text{ kJ/mol}$.
   <!-- feedback: Incorrecto. No restó la entalpía de formación del reactivo $CH_4$. -->
 
 ### Explicacion Pedagogica
@@ -149,11 +149,11 @@ $\Delta H_{rxn} = \sum n \Delta H_f^\circ(\text{productos}) - \sum m \Delta H_f^
 ¿Cuál es la entalpía molar de combustión del propano estimada a partir de estos datos?
 
 ### Opciones
-- [x] A) $-2200 \text{ kJ/mol}$.
+- [x] C) $-2200 \text{ kJ/mol}$.
   <!-- feedback: Correcto. Moles de propano $= 4/44 = 0.0909 \text{ mol}$. $\Delta H = -200 \text{ kJ} / 0.0909 \text{ mol} = -2200 \text{ kJ/mol}$. -->
-- [ ] B) $-880 \text{ kJ/mol}$.
+- [ ] A) $-880 \text{ kJ/mol}$.
   <!-- feedback: Incorrecto. Multiplicó 200 por 4.4 en lugar de dividir adecuadamente. -->
-- [ ] C) $-50 \text{ kJ/mol}$.
+- [ ] B) $-50 \text{ kJ/mol}$.
   <!-- feedback: Incorrecto. Dividió 200 kJ entre los 4 gramos obteniendo kJ/g, no kJ/mol. -->
 - [ ] D) $-4400 \text{ kJ/mol}$.
   <!-- feedback: Incorrecto. Error de factor 2 en el cálculo molar. -->
@@ -172,13 +172,13 @@ Moles $= 4/44 = 0.0909 \text{ mol}$. Entalpía molar $= -200 / 0.0909 = -2200 \t
 ¿Cuál es la variación de energía libre de Gibbs ($\Delta G$) a la temperatura de ebullición ($373.15 \text{ K}$)?
 
 ### Opciones
-- [x] A) $0 \text{ kJ/mol}$ (estado de equilibrio de fase).
+- [x] D) $0 \text{ kJ/mol}$ (estado de equilibrio de fase).
   <!-- feedback: Correcto. En el punto de cambio de fase ($100^\circ\text{C}$), las fases líquida y vapor están en equilibrio, por lo que $\Delta G = 0$. -->
-- [ ] B) $-40.7 \text{ kJ/mol}$.
+- [ ] A) $-40.7 \text{ kJ/mol}$.
   <!-- feedback: Incorrecto. $\Delta G$ no es igual a $-\Delta H$. -->
-- [ ] C) $+40.7 \text{ kJ/mol}$.
+- [ ] B) $+40.7 \text{ kJ/mol}$.
   <!-- feedback: Incorrecto. En el punto de ebullición el proceso no es imposible ni espontáneo en una sola dirección. -->
-- [ ] D) $-40660 \text{ kJ/mol}$.
+- [ ] C) $-40660 \text{ kJ/mol}$.
   <!-- feedback: Incorrecto. Error al no convertir Julios a kilojulios. -->
 
 ### Explicacion Pedagogica
@@ -218,13 +218,13 @@ Para $\Delta H < 0$ y $\Delta S < 0$, la reacción es espontánea solo por debaj
 ¿Cuál es la energía del enlace individual C-H en el metano?
 
 ### Opciones
-- [x] A) $415 \text{ kJ/mol}$.
+- [x] D) $415 \text{ kJ/mol}$.
   <!-- feedback: Correcto. La molécula de metano posee 4 enlaces equivalentes C-H: $1660 / 4 = 415 \text{ kJ/mol}$. -->
-- [ ] B) $1660 \text{ kJ/mol}$.
+- [ ] A) $1660 \text{ kJ/mol}$.
   <!-- feedback: Incorrecto. Es la energía requerida para romper los 4 enlaces de la molécula. -->
-- [ ] C) $830 \text{ kJ/mol}$.
+- [ ] B) $830 \text{ kJ/mol}$.
   <!-- feedback: Incorrecto. Dividió únicamente entre 2. -->
-- [ ] D) $332 \text{ kJ/mol}$.
+- [ ] C) $332 \text{ kJ/mol}$.
   <!-- feedback: Incorrecto. Dividió entre 5. -->
 
 ### Explicacion Pedagogica
@@ -241,9 +241,9 @@ Energía de enlace C-H $= 1660 \text{ kJ/mol} / 4 \text{ enlaces} = 415 \text{ k
 ¿Qué cantidad de calor liberó la disolución de $NaOH$? (Tome capacidad calorífica del agua $c = 4.18 \text{ J/(g }^\circ\text{C)}$ y masa de solución $110 \text{ g}$).
 
 ### Opciones
-- [x] A) $10,115.6 \text{ Julios} (10.11 \text{ kJ})$.
+- [x] B) $10,115.6 \text{ Julios} (10.11 \text{ kJ})$.
   <!-- feedback: Correcto. $q = m \cdot c \cdot \Delta T = 110 \text{ g} \times 4.18 \text{ J/(g }^\circ\text{C)} \times 22^\circ\text{C} = 10,115.6 \text{ J}$. -->
-- [ ] B) $9,196.0 \text{ Julios}$.
+- [ ] A) $9,196.0 \text{ Julios}$.
   <!-- feedback: Incorrecto. Usó únicamente la masa de agua (100 g) sin sumar el soluto (110 g). -->
 - [ ] C) $4,598.0 \text{ Julios}$.
   <!-- feedback: Incorrecto. Usó un incremento de temperatura de $11^\circ\text{C}$. -->
@@ -264,9 +264,9 @@ $q = m_{solución} \cdot c \cdot \Delta T = 110 \times 4.18 \times 22 = 10,115.6
 ¿Qué establece la Tercera Ley de la Termodinámica respecto a la entropía de un cristal perfecto?
 
 ### Opciones
-- [x] A) La entropía de una sustancia cristalina pura y perfecta es exactamente cero al cero absoluto ($0 \text{ K}$).
+- [x] B) La entropía de una sustancia cristalina pura y perfecta es exactamente cero al cero absoluto ($0 \text{ K}$).
   <!-- feedback: Correcto. A 0 K cesa el movimiento térmico y existe un único microestado ordenado ($S = k ln 1 = 0$). -->
-- [ ] B) La entropía del universo disminuye en todo proceso espontáneo.
+- [ ] A) La entropía del universo disminuye en todo proceso espontáneo.
   <!-- feedback: Incorrecto. La Segunda Ley establece que la entropía del universo *aumenta*. -->
 - [ ] C) El calor no puede fluir de un cuerpo frío a uno caliente sin trabajo.
   <!-- feedback: Incorrecto. Es una formulación de la Segunda Ley (Clausius). -->
@@ -287,11 +287,11 @@ La Tercera Ley fija el punto de referencia nulo de la entropía: $S = 0$ a $T = 
 ¿A partir de qué temperatura mínima aproximada se vuelve espontánea la descomposición industrial del $CaCO_3$?
 
 ### Opciones
-- [x] A) $1112.5 \text{ K} (839.35^\circ\text{C})$.
+- [x] C) $1112.5 \text{ K} (839.35^\circ\text{C})$.
   <!-- feedback: Correcto. $\Delta G = \Delta H - TDelta S = 0 Rightarrow T = \frac{\Delta H}{\Delta S} = \frac{178,000 \text{ J}}{160 \text{ J/K}} = 1112.5 \text{ K}$. -->
-- [ ] B) $298.15 \text{ K} (25^\circ\text{C})$.
+- [ ] A) $298.15 \text{ K} (25^\circ\text{C})$.
   <!-- feedback: Incorrecto. A temperatura ambiente $\Delta G > 0$ y el carbonato es estable. -->
-- [ ] C) $500.0 \text{ K}$.
+- [ ] B) $500.0 \text{ K}$.
   <!-- feedback: Incorrecto. A 500 K $\Delta G = 178 - 500(0.16) = +98 \text{ kJ/mol} > 0$. -->
 - [ ] D) $2000.0 \text{ K}$.
   <!-- feedback: Incorrecto. La reacción se vuelve espontánea mucho antes, a 1112.5 K. -->
@@ -334,9 +334,9 @@ El ácido débil requiere energía de disociación ($\Delta H_{disociación} > 0
 Si la pendiente de la recta $\ln K$ vs $1/T$ es negativa, ¿qué se concluye sobre la entalpía de la reacción?
 
 ### Opciones
-- [x] A) La reacción es endotérmica ($\Delta H^\circ > 0$).
+- [x] B) La reacción es endotérmica ($\Delta H^\circ > 0$).
   <!-- feedback: Correcto. Como la pendiente es $-\Delta H^\circ / R$, una pendiente negativa implica $-\Delta H^\circ < 0 Rightarrow \Delta H^\circ > 0$. -->
-- [ ] B) La reacción es exotérmica ($\Delta H^\circ < 0$).
+- [ ] A) La reacción es exotérmica ($\Delta H^\circ < 0$).
   <!-- feedback: Incorrecto. Para una reacción exotérmica la pendiente $-\Delta H^\circ / R$ sería positiva. -->
 - [ ] C) La reacción no altera la concentración de reactivos.
   <!-- feedback: Incorrecto. La constante $K$ cambia con la temperatura según van 't Hoff. -->
@@ -357,9 +357,9 @@ De la ecuación de van 't Hoff, Pendiente $= -\Delta H^\circ / R$. Una pendiente
 ¿Por qué la vaporización del etanol aumenta la entropía del sistema ($\Delta S_{sistema} > 0$)?
 
 ### Opciones
-- [x] A) Las moléculas en fase gaseosa tienen mayor libertad de movimiento y volumen de dispersión que en fase líquida.
+- [x] B) Las moléculas en fase gaseosa tienen mayor libertad de movimiento y volumen de dispersión que en fase líquida.
   <!-- feedback: Correcto. El paso de líquido a gas incrementa drásticamente el número de microestados accesibles. -->
-- [ ] B) Los átomos de carbono se convierten en fotones de luz.
+- [ ] A) Los átomos de carbono se convierten en fotones de luz.
   <!-- feedback: Incorrecto. La vaporización es un cambio de fase físico sin transmutación atómica. -->
 - [ ] C) El etanol gaseoso destruye los enlaces covalentes C-C.
   <!-- feedback: Incorrecto. El gas mantiene intacta la estructura molecular del etanol. -->
@@ -380,9 +380,9 @@ El estado gaseoso presenta un número mucho mayor de microestados y desorden esp
 Usando la Ley de Hess, ¿cuál es el cambio de entalpía para la transición alótropa $C_{(\text{grafito})} \rightarrow C_{(\text{diamante})}$?
 
 ### Opciones
-- [x] A) $+1.91 \text{ kJ/mol}$.
+- [x] B) $+1.91 \text{ kJ/mol}$.
   <!-- feedback: Correcto. Restando las ecuaciones: $\Delta H = \Delta H_1 - \Delta H_2 = -393.51 - (-395.41) = +1.91 \text{ kJ/mol}$. -->
-- [ ] B) $-788.92 \text{ kJ/mol}$.
+- [ ] A) $-788.92 \text{ kJ/mol}$.
   <!-- feedback: Incorrecto. Sumó ambas combustiones sin invertir la segunda reacción. -->
 - [ ] C) $-1.91 \text{ kJ/mol}$.
   <!-- feedback: Incorrecto. Errores de signo en la aplicación de la Ley de Hess. -->
@@ -403,11 +403,11 @@ $\Delta H_{transición} = -393.51 - (-395.41) = +1.91 \text{ kJ/mol}$. El grafit
 Dado que la reacción es exotérmica, aumentar la temperatura reduce el rendimiento de equilibrio ($K_p$ menor). ¿Por qué en la industria se opera a una alta temperatura de $450^\circ\text{C}$ en lugar de temperatura ambiente?
 
 ### Opciones
-- [x] A) Para lograr una velocidad de reacción cinéticamente viable impulsada por la energía de activación, usando un catalizador de hierro.
+- [x] C) Para lograr una velocidad de reacción cinéticamente viable impulsada por la energía de activación, usando un catalizador de hierro.
   <!-- feedback: Correcto. A temperatura ambiente la velocidad es impracticable lenta. Se sacrifica rendimiento de equilibrio para obtener alta velocidad cinética. -->
-- [ ] B) Porque a $450^\circ\text{C}$ la reacción se vuelve 100% irreversible.
+- [ ] A) Porque a $450^\circ\text{C}$ la reacción se vuelve 100% irreversible.
   <!-- feedback: Incorrecto. El equilibrio sigue existiendo. -->
-- [ ] C) Porque el nitrógeno se convierte en helio a esa temperatura.
+- [ ] B) Porque el nitrógeno se convierte en helio a esa temperatura.
   <!-- feedback: Incorrecto. No hay reacciones nucleares en catálisis de Haber-Bosch. -->
 - [ ] D) Porque la entalpía cambia de signo a positiva.
   <!-- feedback: Incorrecto. $\Delta H^\circ$ se mantiene negativa. -->
@@ -426,13 +426,13 @@ El proceso Haber-Bosch es un compromiso entre cinética (alta velocidad a $450^\
 Si el límite teórico de trabajo eléctrico útil de la celda está dado por la variación de energía libre de Gibbs ($\Delta G^\circ = -237.1 \text{ kJ/mol}$) y no por la entalpía total ($\Delta H^\circ = -285.8 \text{ kJ/mol}$), ¿cuál es el rendimiento termodinámico teórico máximo de esta celda?
 
 ### Opciones
-- [x] A) 83.0%.
+- [x] D) 83.0%.
   <!-- feedback: Correcto. Rendimiento máximo $= (\Delta G^\circ / \Delta H^circ) \times 100\% = (237.1 / 285.8) \times 100\% = 82.96\% \approx 83.0\%$. -->
-- [ ] B) 100.0%.
+- [ ] A) 100.0%.
   <!-- feedback: Incorrecto. El término $TDelta S$ disipado impide alcanzar el 100%. -->
-- [ ] C) 40.0%.
+- [ ] B) 40.0%.
   <!-- feedback: Incorrecto. Subestima la capacidad de conversión electroquímica de la celda de combustible. -->
-- [ ] D) 50.0%.
+- [ ] C) 50.0%.
   <!-- feedback: Incorrecto. Error en la división de los parámetros termodinámicos. -->
 
 ### Explicacion Pedagogica

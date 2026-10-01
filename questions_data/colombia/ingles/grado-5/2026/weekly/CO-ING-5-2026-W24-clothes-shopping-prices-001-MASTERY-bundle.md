@@ -34,13 +34,13 @@ Vocabulario de prendas de vestir, formulación y respuesta a preguntas sobre pre
 Which word in English names the item of clothing you wear on your feet with socks?
 
 ### Opciones
-- [x] A) Shoes.
+- [x] D) Shoes.
   <!-- feedback: "Shoes" (or sneakers) are worn on feet over socks. -->
-- [ ] B) Hat.
+- [ ] A) Hat.
   <!-- feedback: A hat is worn on the head, not on the feet. -->
-- [ ] C) Scarf.
+- [ ] B) Scarf.
   <!-- feedback: A scarf is worn around the neck to keep warm. -->
-- [ ] D) Gloves.
+- [ ] C) Gloves.
   <!-- feedback: Gloves are worn on hands, not on feet. -->
 
 ### Explicacion Pedagogica
@@ -80,9 +80,9 @@ Comprender la función comunicativa de la pregunta "How much is...?" para indaga
 Which question is grammatically correct to ask for the price of plural clothes like jeans?
 
 ### Opciones
-- [x] A) How much are these jeans?
+- [x] B) How much are these jeans?
   <!-- feedback: "Jeans" is plural, so it requires the plural verb "are" and demonstrative "these". -->
-- [ ] B) How much is these jeans?
+- [ ] A) How much is these jeans?
   <!-- feedback: "Is" is singular and cannot be used with plural subject "these jeans". -->
 - [ ] C) How many price is this jeans?
   <!-- feedback: "How many" asks about countable quantity, not monetary price. -->
@@ -129,13 +129,13 @@ Clerk: "It is $28.000 COP."
 Which sentence best completes Lucía's dialogue?
 
 ### Opciones
-- [x] A) How much is it?
+- [x] D) How much is it?
   <!-- feedback: "How much is it?" fits naturally to ask the price of the singular red cap. -->
-- [ ] B) What is your name?
+- [ ] A) What is your name?
   <!-- feedback: Asking the clerk's name does not prompt a price answer. -->
-- [ ] C) Where is the bus stop?
+- [ ] B) Where is the bus stop?
   <!-- feedback: Asking for bus directions does not match the shopping dialogue context. -->
-- [ ] D) How old are you?
+- [ ] C) How old are you?
   <!-- feedback: Asking about age is irrelevant to purchasing a cap. -->
 
 ### Explicacion Pedagogica
@@ -156,9 +156,9 @@ Completar intercambios comunicativos en situaciones cotidianas de compra utiliza
 Based on the price board, which analysis is correct?
 
 ### Opciones
-- [x] A) The White T-shirt is the cheapest item, and the Black Jacket is the most expensive item.
+- [x] B) The White T-shirt is the cheapest item, and the Black Jacket is the most expensive item.
   <!-- feedback: $25.000 COP is the lowest price (cheapest) and $90.000 COP is the highest price (most expensive). -->
-- [ ] B) The Summer Dress is more expensive than the Black Jacket.
+- [ ] A) The Summer Dress is more expensive than the Black Jacket.
   <!-- feedback: The Summer Dress ($45.000 COP) is cheaper than the Black Jacket ($90.000 COP). -->
 - [ ] C) The Blue Shirt and the White T-shirt have the same price.
   <!-- feedback: The Blue Shirt costs $45.000 COP while the White T-shirt costs $25.000 COP. -->
@@ -180,9 +180,9 @@ Analizar y comparar precios utilizando adjetivos comparativos y superlativos ("c
 Why can David NOT buy the sunglasses on the same day?
 
 ### Opciones
-- [x] A) Because he spent $60.000 COP and only has $40.000 COP left, which is not enough for the $50.000 COP sunglasses.
+- [x] B) Because he spent $60.000 COP and only has $40.000 COP left, which is not enough for the $50.000 COP sunglasses.
   <!-- feedback: Total spent: $38.000 + $22.000 = $60.000 COP. Money left: $100.000 - $60.000 = $40.000 COP. The sunglasses cost $50.000 COP, so he is short by $10.000 COP. -->
-- [ ] B) Because the store does not sell sunglasses to children.
+- [ ] A) Because the store does not sell sunglasses to children.
   <!-- feedback: The text indicates a budget limitation, not a store policy restriction. -->
 - [ ] C) Because he has $70.000 COP left and the sunglasses cost $100.000 COP.
   <!-- feedback: He spent $60.000 COP, leaving $40.000 COP, not $70.000 COP. -->
@@ -205,13 +205,13 @@ Análisis de situaciones de compra y presupuesto en inglés, calculando gastos a
 Which evaluation correctly explains which offer fits María's budget?
 
 ### Opciones
-- [x] A) Offer A fits her budget because the total is $75.000 COP, while Offer B costs $84.000 COP and exceeds her budget.
+- [x] D) Offer A fits her budget because the total is $75.000 COP, while Offer B costs $84.000 COP and exceeds her budget.
   <!-- feedback: Offer A: $55.000 + $20.000 = $75.000 COP (<= $80.000 COP). Offer B: $42.000 * 2 = $84.000 COP (> $80.000 COP). -->
-- [ ] B) Offer B fits her budget because two shirts cost only $42.000 COP in total.
+- [ ] A) Offer B fits her budget because two shirts cost only $42.000 COP in total.
   <!-- feedback: Offer B specifies $42.000 COP EACH, so two shirts cost $84.000 COP, exceeding her $80.000 COP budget. -->
-- [ ] C) Both offers fit her budget because neither exceeds $70.000 COP.
+- [ ] B) Both offers fit her budget because neither exceeds $70.000 COP.
   <!-- feedback: Offer A is $75.000 COP and Offer B is $84.000 COP; Offer B exceeds the $80.000 COP budget. -->
-- [ ] D) Neither offer fits her budget because Offer A costs $95.000 COP.
+- [ ] C) Neither offer fits her budget because Offer A costs $95.000 COP.
   <!-- feedback: Offer A costs $75.000 COP ($55.000 + $20.000), which is within her $80.000 COP budget. -->
 
 ### Explicacion Pedagogica

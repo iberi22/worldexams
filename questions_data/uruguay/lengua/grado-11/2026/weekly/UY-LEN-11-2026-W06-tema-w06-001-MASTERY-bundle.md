@@ -34,9 +34,9 @@ calibration: {difficulty_band: "D3-D10", expected_success: 0.65}
 ¿Qué tipo de recurso lingüístico propio de la tipología expositiva-explicativa se está empleando predominantemente en el fragmento anterior?
 
 ### Opciones
-- [ ] A) Metáfora poética.
+- [ ] B) Metáfora poética.
   <!-- feedback: Incorrecto. No hay intención estética ni figuras ornamentales; la descripción es denotativa y científica. -->
-- [x] B) Definición.
+- [x] A) Definición.
   <!-- feedback: ¡Correcto! La definición es el recurso expositivo básico que delimita, delimita y conceptualiza de forma unívoca un término o fenómeno del mundo de manera descriptiva objetiva. -->
 - [ ] C) Reformulación coloquial.
   <!-- feedback: Incorrecto. La reformulación explica con otras palabras más sencillas un concepto previo; aquí se enuncia la definición formal original. -->
@@ -60,9 +60,9 @@ La definición delimita conceptualmente al referente de forma unívoca, sentando
 ### Opciones
 - [ ] A) Persuadir al lector para que adopte un carpincho como mascota doméstica.
   <!-- feedback: Incorrecto. El texto es de carácter científico zoológico denotativo; no da órdenes apelativas de comportamiento doméstico. -->
-- [x] B) Exponer e informar de manera objetiva sobre las características biológicas y el hábitat de una especie autóctona.
+- [x] C) Exponer e informar de manera objetiva sobre las características biológicas y el hábitat de una especie autóctona.
   <!-- feedback: ¡Correcto! El texto expositivo-explicativo tiene como meta informar, transmitir saberes organizados y conceptualizar un aspecto de la realidad objetiva con total neutralidad afectiva. -->
-- [ ] C) Relatar una leyenda fantástica sobre carpinchos gigantes en el norte uruguayo.
+- [ ] B) Relatar una leyenda fantástica sobre carpinchos gigantes en el norte uruguayo.
   <!-- feedback: Incorrecto. No hay un narrador ni una secuencia de acciones ficcionales; es una descripción anatómica biológica verídica. -->
 - [ ] D) Criticar de manera satírica a las autoridades sanitarias de Paysandú.
   <!-- feedback: Incorrecto. Es un texto botánico-zoológico informativo de biodiversidad, exento de opiniones o juicios de valor políticos. -->
@@ -82,9 +82,9 @@ La tipología expositiva-explicativa tiene como fin pragmático informar de mane
 ¿Qué recursos explicativos se despliegan sucesivamente en este pasaje para facilitar la comprensión del lector?
 
 ### Opciones
-- [x] A) Una metáfora explicativa de analogía ('gigantescas esponjas naturales') seguida de una reformulación aclaratoria introducida por el conector 'es decir'.
+- [x] B) Una metáfora explicativa de analogía ('gigantescas esponjas naturales') seguida de una reformulación aclaratoria introducida por el conector 'es decir'.
   <!-- feedback: ¡Correcto! El texto recurre a una analogía visual ('esponjas') para aproximar el funcionamiento técnico de los humedales, y de inmediato introduce una reformulación explicativa con el conector aclaratorio 'es decir' para desglosar científicamente el fenómeno de absorción hídrica. -->
-- [ ] B) Una caricatura satírica de las lluvias seguida de un diálogo dramático en portuñol.
+- [ ] A) Una caricatura satírica de las lluvias seguida de un diálogo dramático en portuñol.
   <!-- feedback: Incorrecto. No hay intenciones humorísticas ni diálogos; es una explicación ecológica seria de biodiversidad y humedales. -->
 - [ ] C) Un mandato apelativo directo que exige al agricultor drenar los campos de Rocha de forma urgente.
   <!-- feedback: Incorrecto. No se emiten órdenes imperativas; se explica objetivamente el comportamiento de los ecosistemas. -->
@@ -106,9 +106,9 @@ Los textos explicativos integran analogías descriptivas y reformulaciones ('es 
 ¿Qué recurso expositivo explicativo destaca en la segunda oración del fragmento anterior y qué rol cumple?
 
 ### Opciones
-- [ ] A) Definición científica de la palabra 'emigración'.
+- [ ] B) Definición científica de la palabra 'emigración'.
   <!-- feedback: Incorrecto. La primera oración da la definición conceptual general; la segunda desciende a un nivel concreto de ilustración de época. -->
-- [x] B) Ejemplificación, introducida por el conector 'Por ejemplo', que ilustra y concreta de forma real el concepto abstracto general de la emigración forzada de las familias orientales.
+- [x] A) Ejemplificación, introducida por el conector 'Por ejemplo', que ilustra y concreta de forma real el concepto abstracto general de la emigración forzada de las familias orientales.
   <!-- feedback: ¡Correcto! La ejemplificación es el recurso que transita del plano abstracto general de la explicación al plano concreto observable real ('Por ejemplo...'), facilitando que el lector palpe la verdad de los conceptos históricos expuestos. -->
 - [ ] C) Reformulación técnica de las leyes de patentes del cabildo.
   <!-- feedback: Incorrecto. No se reformulan leyes comerciales administrativas; se ilustra la vida de las familias en carros. -->
@@ -133,9 +133,9 @@ La ejemplificación es un recurso de gran valor pedagógico en los textos exposi
 ### Opciones
 - [ ] A) El uso constante de la primera persona del singular para plasmar las dudas personales del historiador uruguayo.
   <!-- feedback: Incorrecto. El texto expositivo serio evita la primera persona singular ('yo') para asegurar la imparcialidad despersonalizada de la ciencia. -->
-- [ ] B) El uso del voseo afectivo informal para convencer a los jóvenes de Tala de votar a favor de las nacionalizaciones estatales.
+- [ ] C) El uso del voseo afectivo informal para convencer a los jóvenes de Tala de votar a favor de las nacionalizaciones estatales.
   <!-- feedback: Incorrecto. Es un texto histórico explicativo de divulgación formal, libre de intenciones persuasivas partidarias o voseo coloquial áulico. -->
-- [x] C) La ausencia de juicios de valor personales, el uso de la tercera persona singular impersonal y un léxico denotativo y preciso que describe hechos históricos comprobables de manera neutral.
+- [x] B) La ausencia de juicios de valor personales, el uso de la tercera persona singular impersonal y un léxico denotativo y preciso que describe hechos históricos comprobables de manera neutral.
   <!-- feedback: ¡Correcto! El texto expositivo-explicativo se caracteriza estilísticamente por la despersonalización del discurso: tercera persona gramatical impersonal, ausencia de adjetivos afectivos subjetivos, léxico denotativo e imparcialidad científica descriptiva frente a los sucesos de época descritos. -->
 - [ ] D) La preeminencia de oraciones exclamativas líricas y de figuras poéticas de misterio para exaltar la figura de Batlle.
   <!-- feedback: Incorrecto. El tono es neutro, expositivo, académico y desapasionado, coherente con la disciplina histórica formal escolar. -->
@@ -159,11 +159,11 @@ Texto 2: 'Me partió el alma ver las fotos del venado de campo. Pobrecito animal
 ### Opciones
 - [ ] A) Ambos son textos poéticos literarios líricos por tratar sobre animales tiernos de la fauna del país.
   <!-- feedback: Incorrecto. El tratamiento es abismalmente diferente: el Texto 1 es objetivo e informativo; el Texto 2 es afectivo y persuasivo. -->
-- [x] B) El Texto 1 es expositivo-explicativo debido a su léxico denotativo científico, objetividad y propósito puramente informativo; el Texto 2 es argumentativo-emotivo, centrado en expresar un sentimiento subjetivo y apelar a la acción del receptor.
+- [x] D) El Texto 1 es expositivo-explicativo debido a su léxico denotativo científico, objetividad y propósito puramente informativo; el Texto 2 es argumentativo-emotivo, centrado en expresar un sentimiento subjetivo y apelar a la acción del receptor.
   <!-- feedback: ¡Correcto! El Texto 1 presenta datos zoológicos objetivos de forma neutra y denotativa (expositivo). El Texto 2 despliega la función expresiva ('me partió el alma', 'pobrecito') y apelativa ('tenemos que hacer algo') de manera subjetiva y pasional, buscando movilizar la conducta ajena (argumentación emocional). -->
-- [ ] C) El Texto 1 es un relato narrativo fantástico de misterio y el Texto 2 es un memorándum administrativo de Secundaria.
+- [ ] B) El Texto 1 es un relato narrativo fantástico de misterio y el Texto 2 es un memorándum administrativo de Secundaria.
   <!-- feedback: Incorrecto. El Texto 1 no cuenta una fábula fantástica de ficción; describe científicamente el estado biológico real de conservación de un cérvido autóctono de biodiversidad uruguaya. -->
-- [ ] D) No hay diferencias científicas de tipología, ambos pertenecen a la categoría de ensayos de astronomía de Secundaria.
+- [ ] C) No hay diferencias científicas de tipología, ambos pertenecen a la categoría de ensayos de astronomía de Secundaria.
   <!-- feedback: Incorrecto. Ninguno aborda astros, planetas o física cósmica general orbital. -->
 
 ### Explicacion Pedagogica
@@ -181,9 +181,9 @@ Un mismo referente de la realidad (el venado de campo de biodiversidad uruguaya)
 ¿Cuál de los siguientes esquemas organizativos resulta idóneo para estructurar tu texto expositivo explicativo de forma lógica?
 
 ### Opciones
-- [ ] A) Comenzar con una fábula fantástica sobre dioses del viento, luego incluir un diálogo entre dos amigos tomando mate, y terminar con un poema lírico de invierno.
+- [ ] B) Comenzar con una fábula fantástica sobre dioses del viento, luego incluir un diálogo entre dos amigos tomando mate, y terminar con un poema lírico de invierno.
   <!-- feedback: Incorrecto. Este esquema es propio del género literario y narrativo de entretenimiento; no cumple de manera eficaz con la función explicativa técnica de divulgación de energía eólica. -->
-- [x] B) Introducción (presentación del tema de energía eólica en el país), Desarrollo (explicación de la dinámica física de las aspas y los aerogeneradores utilizando analogías sencillas, definiciones precisas y ejemplificación de parques locales) y Conclusión (resumen del impacto ambiental e industrial positivo de esta matriz energética).
+- [x] A) Introducción (presentación del tema de energía eólica en el país), Desarrollo (explicación de la dinámica física de las aspas y los aerogeneradores utilizando analogías sencillas, definiciones precisas y ejemplificación de parques locales) y Conclusión (resumen del impacto ambiental e industrial positivo de esta matriz energética).
   <!-- feedback: ¡Correcto! La estructura clásica de la tipología expositiva-explicativa consta de Introducción, Desarrollo de conceptos (recursos de definición, ejemplificación, analogía) y Conclusión. Este diseño asegura que la información técnica fluya de forma lógica, comprensible e instructiva para el lector general. -->
 - [ ] C) Redactar un memorándum administrativo de Secundaria exigiendo el pago inmediato de multas de tránsito por el uso de cometas en las dunas costeras.
   <!-- feedback: Incorrecto. Las multas de tránsito de cometas en dunas de Cabo Polonio son ajenas a un informe científico expositivo sobre la física de la generación de energía eólica. -->
@@ -207,9 +207,9 @@ Analizá la terminología y estructura del texto. ¿Qué tipo de léxico predomi
 ### Opciones
 - [ ] A) Léxico coloquial rioplatense, destinado a familiarizar al lector de Florida mediante el uso del voseo de cercanía.
   <!-- feedback: Incorrecto. No hay voseo o términos informales coloquiales; el léxico es formal, internacional y preciso de botánica. -->
-- [x] B) Léxico científico-técnico (o tecnicismos como 'autótrofo', 'clorofila', 'dióxido de carbono', 'carbohidratos'), indispensable para asegurar la precisión terminológica, la univocidad semántica y la seriedad explicativa de la disciplina botánica.
+- [x] C) Léxico científico-técnico (o tecnicismos como 'autótrofo', 'clorofila', 'dióxido de carbono', 'carbohidratos'), indispensable para asegurar la precisión terminológica, la univocidad semántica y la seriedad explicativa de la disciplina botánica.
   <!-- feedback: ¡Correcto! Los textos expositivos explicativos de corte científico recurren a tecnicismos específicos de la disciplina de estudio. El léxico técnico garantiza la univocidad (un solo significado estable) para evitar ambigüedades en la transmisión de saberes científicos botánicos. -->
-- [ ] C) Léxico literario figurado para embellecer estéticamente el crecimiento de las plantas de los jardines de Florida.
+- [ ] B) Léxico literario figurado para embellecer estéticamente el crecimiento de las plantas de los jardines de Florida.
   <!-- feedback: Incorrecto. Se explican procesos químicos bioquímicos con denotación exacta; no hay intenciones ornamentales líricas de adorno literario. -->
 - [ ] D) Léxico fronterizo portuñol norteño para unificar el dialecto ganadero del país.
   <!-- feedback: Incorrecto. El lenguaje es español académico formal estándar de botánica general, ajeno al habla fronteriza luso-uruguaya. -->
@@ -231,11 +231,11 @@ Los tecnicismos son indispensables en el texto de ciencia y tecnología. Garanti
 ### Opciones
 - [ ] A) Una elipsis de datos históricos que deja con dudas al lector sobre el caudal del río Uruguay.
   <!-- feedback: Incorrecto. No se omiten datos de forma que frustre la lectura; se busca aclarar de manera didáctica el rol del río. -->
-- [x] B) Una analogía o comparación explicativa ('como una gran arteria circulatoria...'), destinada a transferir un concepto geográfico complejo a un modelo biológico intuitivo familiar para facilitar la asimilación del receptor.
+- [x] D) Una analogía o comparación explicativa ('como una gran arteria circulatoria...'), destinada a transferir un concepto geográfico complejo a un modelo biológico intuitivo familiar para facilitar la asimilación del receptor.
   <!-- feedback: ¡Correcto! La analogía asocia el río con el sistema circulatorio humano (arteria). Este recurso explicativo ayuda al lector a asimilar un concepto abstracto o geográfico de gran escala relacionándolo con un proceso corporal simple que ya comprende. -->
-- [ ] C) Un desvió gramatical de concordancia dialectal de Rocha que distorsiona la sintaxis del río.
+- [ ] B) Un desvió gramatical de concordancia dialectal de Rocha que distorsiona la sintaxis del río.
   <!-- feedback: Incorrecto. La sintaxis y la concordancia morfológica son estándar rioplatense impecable y formal. -->
-- [ ] D) Una definición taxonómica científica rigurosa que utiliza nombres en latín de peces de agua dulce.
+- [ ] C) Una definición taxonómica científica rigurosa que utiliza nombres en latín de peces de agua dulce.
   <!-- feedback: Incorrecto. La comparación con una arteria humana es un símil pedagógico descriptivo, no una nomenclatura taxonómica de fauna ictícola. -->
 
 ### Explicacion Pedagogica
@@ -255,9 +255,9 @@ La analogía o comparación pedagógica es un puente conceptual clave en la tipo
 ### Opciones
 - [ ] A) Un conector de reformulación poética destinado a embellecer estéticamente el nitrógeno y el potasio del suelo.
   <!-- feedback: Incorrecto. No hay fines poéticos ornamentales en listar minerales químicos agrícolas verídicos de manera directa. -->
-- [x] B) El marcador comparativo de especificación e ilustración 'como' que introduce una clasificación o enumeración ordenada de elementos químicos esenciales, concretando el concepto genérico de 'nutrientes clave' de forma rigurosa.
+- [x] C) El marcador comparativo de especificación e ilustración 'como' que introduce una clasificación o enumeración ordenada de elementos químicos esenciales, concretando el concepto genérico de 'nutrientes clave' de forma rigurosa.
   <!-- feedback: ¡Correcto! El conector comparativo de especificación 'como' introduce en este contexto una enumeración de componentes químicos específicos (nitrógeno, fósforo, potasio), actuando como un recurso lógico de taxonomía y especificación aclaratoria indispensable para la ciencia agrícola. -->
-- [ ] C) Una orden apelativa imperativa dirigida al agricultor de Salto exigiendo la compra de fertilizantes químicos industriales.
+- [ ] B) Una orden apelativa imperativa dirigida al agricultor de Salto exigiendo la compra de fertilizantes químicos industriales.
   <!-- feedback: Incorrecto. No se emiten directivas de comportamiento comercial; se expone objetivamente la necesidad mineral del cultivo. -->
 - [ ] D) Un arcaísmo diacrónico que copia la gramática castellana medieval de agricultura tradicional.
   <!-- feedback: Incorrecto. El lenguaje es contemporáneo, ágil y de vanguardia técnica agronómica moderna. -->
@@ -278,11 +278,11 @@ La enumeración y la clasificación conectorizadas son recursos lógicos fundame
 Identificá los recursos explicativos y los marcadores de reformulación presentes en el fragmento de biodiversidad uruguaya.
 
 ### Opciones
-- [x] A) La mención del nombre científico zoológico en latín, la reformulación léxica introducida por el marcador aditivo-aclaratorio 'también llamada pasionaria', la descripción morfológica objetiva de la flor y fruto, y la explicación de su rol ecológico como recurso alimentario nativo.
+- [x] C) La mención del nombre científico zoológico en latín, la reformulación léxica introducida por el marcador aditivo-aclaratorio 'también llamada pasionaria', la descripción morfológica objetiva de la flor y fruto, y la explicación de su rol ecológico como recurso alimentario nativo.
   <!-- feedback: ¡Correcto! El texto de biodiversidad despliega de forma armónica recursos expositivos: taxonomía científica ('Passiflora caerulea'), reformulación léxica aclarante ('también llamada pasionaria'), caracterización morfológica objetiva de biodiversidad y explicación de su función ecológica real alimentaria nativa. -->
-- [ ] B) El uso del voseo de Rivera para generar cercanía poética de biodiversidad con los gurises de la frontera norte.
+- [ ] A) El uso del voseo de Rivera para generar cercanía poética de biodiversidad con los gurises de la frontera norte.
   <!-- feedback: Incorrecto. El texto de biodiversidad mantiene el rigor neutro expositivo formal de la botánica, exento de voseo coloquial de cercanía. -->
-- [ ] C) Un mandato apelativo conativo que prohíbe comer mburucuyá en todo el territorio de Secundaria.
+- [ ] B) Un mandato apelativo conativo que prohíbe comer mburucuyá en todo el territorio de Secundaria.
   <!-- feedback: Incorrecto. No hay prohibiciones administrativas o mandatos imperativos; se afirma objetivamente que el fruto de biodiversidad es comestible. -->
 - [ ] D) La personificación poética lírica del fruto globoso que llora por el frío de las sierras de Rocha.
   <!-- feedback: Incorrecto. Es una descripción de biodiversidad denotativa botánica; no hay intenciones de atribuir sentimientos líricos humanos de llanto al fruto. -->
@@ -329,9 +329,9 @@ Analizá la estructura del texto. ¿Qué tipo de secuencia discursiva secundaria
 ### Opciones
 - [ ] A) Se introduce una secuencia poética lírica destinada a lamentar estéticamente el destino del interior rural uruguayo.
   <!-- feedback: Incorrecto. El tono se mantiene académico e histórico; no hay figuras poéticas líricas de lamento existencial personal. -->
-- [x] B) Se introduce una secuencia argumentativa-crítica, la cual expone un contraste de perspectivas o debate historiográfico sobre la centralización del sistema de salud pública en Montevideo.
+- [x] C) Se introduce una secuencia argumentativa-crítica, la cual expone un contraste de perspectivas o debate historiográfico sobre la centralización del sistema de salud pública en Montevideo.
   <!-- feedback: ¡Correcto! El conector adversativo 'Sin embargo' introduce un matiz crítico de contraste o polémica (secuencia argumentativa secundaria) común en la divulgación de las ciencias sociales, enriqueciendo la mera exposición plana de datos con el debate de ideas. -->
-- [ ] C) Se introduce un diálogo directo en estilo directo de los médicos del cabildo montevideano del siglo XIX.
+- [ ] B) Se introduce un diálogo directo en estilo directo de los médicos del cabildo montevideano del siglo XIX.
   <!-- feedback: Incorrecto. No hay rayas de diálogo ni voces en estilo directo; la exposición discurre en la tercera persona del discurso formal. -->
 - [ ] D) Se interrumpe la explicación histórica debido a un error técnico de concordancia pronominal voseante.
   <!-- feedback: Incorrecto. La carta sintáctica y la concordancia morfosintáctica se mantienen impecables en la norma escrita formal. -->
@@ -353,9 +353,9 @@ En los textos de historia y ciencias sociales, la exposición de hechos suele ac
 ### Opciones
 - [ ] A) Tienen el rol exclusivo de alargar la cantidad de palabras del examen escrito para confundir al docente corrector del liceo.
   <!-- feedback: Incorrecto. No tienen fines de redundancia vana; cumplen una función de traducción cognitiva crucial para el aprendizaje didáctico. -->
-- [x] B) Actúan como facilitadores cognitivos que traducen un concepto técnico o formulación abstracta densa a un registro semántico más accesible para el receptor, reajustando el caudal de información para optimizar la comprensión sin alterar la precisión del referente.
+- [x] C) Actúan como facilitadores cognitivos que traducen un concepto técnico o formulación abstracta densa a un registro semántico más accesible para el receptor, reajustando el caudal de información para optimizar la comprensión sin alterar la precisión del referente.
   <!-- feedback: ¡Correcto! La reformulación cognitiva es clave en la didáctica. Permite presentar el mismo saber científico abstracto bajo dos formulaciones semánticas diferentes (una técnica formal densa y otra explicativa simplificada de apoyo), facilitando la asimilación intelectual de los estudiantes de Secundaria. -->
-- [ ] C) Anulan la objetividad de la ciencia obligando al lector a interpretar el texto de forma lírica poética subjetiva.
+- [ ] B) Anulan la objetividad de la ciencia obligando al lector a interpretar el texto de forma lírica poética subjetiva.
   <!-- feedback: Incorrecto. La reformulación conserva la verdad y objetividad denotativa del hecho; simplifica la sintaxis, no añade metáforas místicas subjetivas. -->
 - [ ] D) Obligan al uso del voseo informal familiar en los trabajos de ciencias de Secundaria de forma prescriptiva.
   <!-- feedback: Incorrecto. Las reformulaciones se redactan respetando de forma escrupulosa la norma culta formal escrita de Secundaria, sin exigir coloquialismos. -->
@@ -403,11 +403,11 @@ La progresión temática en la tipología expositiva-explicativa organiza de for
 ### Opciones
 - [ ] A) Estructura de problema-solución, sugiriendo medidas urgentes de ingeniería planetaria para enfriar los polos con reflectores solares.
   <!-- feedback: Incorrecto. El texto describe la dinámica física del mar caliente; no propone soluciones técnicas o políticas de mitigación en este pasaje. -->
-- [x] B) Estructura de causa-efecto (o causal explicativa), donde se enuncia el fenómeno de aumento del nivel del mar y de inmediato se desglosan de forma ordenada las dos causas físicas subyacentes (aporte de deshielo y expansión térmica molecular).
+- [x] D) Estructura de causa-efecto (o causal explicativa), donde se enuncia el fenómeno de aumento del nivel del mar y de inmediato se desglosan de forma ordenada las dos causas físicas subyacentes (aporte de deshielo y expansión térmica molecular).
   <!-- feedback: ¡Correcto! La tipología expositiva explicativa recurre frecuentemente a la estructura de causa-efecto. Identifica un hecho físico y desmenuza de forma lógica y secuencial las causas u orígenes científicos de ese fenómeno para que el lector asimile el porqué de la realidad descrita. -->
-- [ ] C) Estructura de narración cronológica lineal propia de las novelas de misterio de época de Montevideo.
+- [ ] B) Estructura de narración cronológica lineal propia de las novelas de misterio de época de Montevideo.
   <!-- feedback: Incorrecto. No hay personajes de ficción de época de Montevideo actuando en una línea temporal dramática; es física geofísica contemporánea. -->
-- [ ] D) Una clasificación etopeyica centrada en la maldad de los iceberg del océano atlántico.
+- [ ] C) Una clasificación etopeyica centrada en la maldad de los iceberg del océano atlántico.
   <!-- feedback: Incorrecto. Los iceberg son masas de hielo físicas exentas de moral, temperamento psíquico o maldad íntima. -->
 
 ### Explicacion Pedagogica
@@ -451,9 +451,9 @@ Las campañas de profilaxis de salud pública articulan la tipología expositiva
 Evaluá críticamente el tratamiento histórico y los recursos explicativos del fragmento. ¿Qué recurso destaca para matizar la exposición plana de datos constitucionales de 1830?
 
 ### Opciones
-- [ ] A) La invención de un diálogo ficticio en estilo directo entre los legisladores montevideanos de 1830.
+- [ ] B) La invención de un diálogo ficticio en estilo directo entre los legisladores montevideanos de 1830.
   <!-- feedback: Incorrecto. No hay diálogos ficcionales ni rayas de discurso directo de legisladores de época de 1830; se mantiene la prosa de ciencias sociales de Secundaria. -->
-- [x] B) La articulación de una secuencia expositiva de hechos (la proclamación de la carta constitucional de 1830) acoplada con una secuencia crítico-argumentativa (la exclusión socioeconómica del voto de peones y soldados), desvelando que la explicación histórica seria requiere contextualizar las leyes de 1830 frente a la realidad social de época para su plena veracidad cognitiva.
+- [x] A) La articulación de una secuencia expositiva de hechos (la proclamación de la carta constitucional de 1830) acoplada con una secuencia crítico-argumentativa (la exclusión socioeconómica del voto de peones y soldados), desvelando que la explicación histórica seria requiere contextualizar las leyes de 1830 frente a la realidad social de época para su plena veracidad cognitiva.
   <!-- feedback: ¡Correcto! El fragmento no se limita a dar un informe escolar plano de leyes de 1830. Analiza de manera crítica el alcance real de la carta magna de 1830 confrontando la letra formal con la realidad socioeconómica de los trabajadores rurales de la Banda Oriental de 1830, optimizando la comprensión profunda de la historia nacional de Secundaria. -->
 - [ ] C) El uso del voseo informal familiar para acusar de forma personal a los redactores de la constitución de 1830.
   <!-- feedback: Incorrecto. Se mantiene la tercera persona gramatical impersonal despersonalizada objetiva de las ciencias sociales escritas de Secundaria. -->
@@ -477,9 +477,9 @@ La tipología de las ciencias sociales e historia de Secundaria asocia la exposi
 ### Opciones
 - [ ] A) El postulado es válido porque el cerebro de los estudiantes de Secundaria solo comprende fórmulas matemáticas complejas puras sin necesidad de palabras aclaratorias escritas.
   <!-- feedback: Incorrecto. Pedagógicamente, los estudiantes de Secundaria requieren andamiajes didácticos para asimilar conceptos abstractos densos de ciencias naturales. -->
-- [x] B) El postulado confunde el rigor de la producción científica especializada con las exigencias pedagógicas de la didáctica y la divulgación escolar. Los recursos explicativos (analogías, reformulaciones, comparaciones) no deforma de manera violenta la ciencia; actúan como andamiajes didácticos indispensables para hacer comprensibles los conceptos abstractos sin perder el rigor del referente.
+- [x] C) El postulado confunde el rigor de la producción científica especializada con las exigencias pedagógicas de la didáctica y la divulgación escolar. Los recursos explicativos (analogías, reformulaciones, comparaciones) no deforma de manera violenta la ciencia; actúan como andamiajes didácticos indispensables para hacer comprensibles los conceptos abstractos sin perder el rigor del referente.
   <!-- feedback: ¡Correcto! La meta de la didáctica escolar de Secundaria es que los estudiantes asimilen el saber estructurado. Prohibir recursos aclaratorios como analogías o reformulaciones haría los textos de ciencias naturales incomprensibles de forma pedagógica, atentando contra el propio fin de la tipología expositiva explicativa didáctica. -->
-- [ ] C) El postulado es correcto ya que las comparaciones poéticas están reservadas exclusivamente al portuñol de Rivera por ley del cabildo montevideano.
+- [ ] B) El postulado es correcto ya que las comparaciones poéticas están reservadas exclusivamente al portuñol de Rivera por ley del cabildo montevideano.
   <!-- feedback: Incorrecto. Las comparaciones didácticas son universales de la retórica y redacción escolar escrita de Secundaria, sin limitaciones fronterizas de Rivera. -->
 - [ ] D) La diferencia radica en que las analogías solo se escriben empleando el voseo coloquial fronterizo de Rivera.
   <!-- feedback: Incorrecto. Las analogías didácticas formales se expresan respetando de forma estricta la gramática y ortografía formal de Secundaria. -->
@@ -501,11 +501,11 @@ Desde el punto de vista del análisis de la tipología textual expositiva explic
 ### Opciones
 - [ ] A) Sustituir la frase con un poema descriptivo lírico sobre la belleza melancólica del agua del río Santa Lucía.
   <!-- feedback: Incorrecto. Un poema lírico sigue violando las exigencias de objetividad y despersonalización del género monográfico científico escolar de Secundaria. -->
-- [x] B) Sustituir los adjetivos afectivos y la primera persona ('Nos pareció una lástima', 'pesticidas malos') por enunciados impersonales u oraciones con pasiva refleja, empleando léxico denotativo y preciso fundamentado en datos objetivos de contaminación química, y proponer recomendaciones técnicas de mitigación con verbos de posibilidad lógica en modo condicional formal.
+- [x] D) Sustituir los adjetivos afectivos y la primera persona ('Nos pareció una lástima', 'pesticidas malos') por enunciados impersonales u oraciones con pasiva refleja, empleando léxico denotativo y preciso fundamentado en datos objetivos de contaminación química, y proponer recomendaciones técnicas de mitigación con verbos de posibilidad lógica en modo condicional formal.
   <!-- feedback: ¡Correcto! La monografía científica escolar de Secundaria veta el sentimentalismo afectivo, la primera persona plural subjetiva ('nos pareció') y la adjetivación moral ('pesticidas malos'). Debe reformularse con impersonalidad ('se constató la presencia de agroquímicos'), léxico denotativo técnico y recomendaciones de mitigación argumentadas de forma lógica y objetiva de Secundaria. -->
-- [ ] C) Redactar la conclusión empleando el voseo coloquial informal de cercanía para conmover afectivamente al docente corrector del liceo.
+- [ ] B) Redactar la conclusión empleando el voseo coloquial informal de cercanía para conmover afectivamente al docente corrector del liceo.
   <!-- feedback: Incorrecto. El voseo familiar informal coloquial viola la adecuación de registro monográfico científico formal de Secundaria que exige la asignatura Lengua. -->
-- [ ] D) Omitir por completo el capítulo de conclusiones y entregar la monografía inconclusa para evitar correcciones de Secundaria.
+- [ ] C) Omitir por completo el capítulo de conclusiones y entregar la monografía inconclusa para evitar correcciones de Secundaria.
   <!-- feedback: Incorrecto. Las monografías escolares de Secundaria exigen un capítulo formal de conclusiones y recomendaciones para su plena validez de evaluación. -->
 
 ### Explicacion Pedagogica

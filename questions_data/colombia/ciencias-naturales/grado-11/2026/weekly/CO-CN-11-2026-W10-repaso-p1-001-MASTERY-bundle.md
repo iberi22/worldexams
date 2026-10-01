@@ -103,11 +103,11 @@ Bajo la acción exclusiva de fuerzas conservativas como la gravedad, la energía
 ¿Cuál es el orden correcto de llenado de los subniveles atómicos $3s$, $3p$, $4s$ y $3d$?
 
 ### Opciones
-- [x] A) $3s \rightarrow 3p \rightarrow 4s \rightarrow 3d$
+- [x] C) $3s \rightarrow 3p \rightarrow 4s \rightarrow 3d$
   <!-- feedback: Correcto. Según la regla de $(n+l)$, el subnivel $4s$ ($n+l = 4+0 = 4$) se llena antes que el $3d$ ($n+l = 3+2 = 5$). -->
-- [ ] B) $3s \rightarrow 3p \rightarrow 3d \rightarrow 4s$
+- [ ] A) $3s \rightarrow 3p \rightarrow 3d \rightarrow 4s$
   <!-- feedback: Incorrecto. Secuencia numérica engañosa que ignora la regla de energía $(n+l)$. -->
-- [ ] C) $4s \rightarrow 3s \rightarrow 3p \rightarrow 3d$
+- [ ] B) $4s \rightarrow 3s \rightarrow 3p \rightarrow 3d$
   <!-- feedback: Incorrecto. Los niveles inferiores $n=3$ se llenan antes que $n=4$. -->
 - [ ] D) $3d \rightarrow 4s \rightarrow 3p \rightarrow 3s$
   <!-- feedback: Incorrecto. Llenado inverso a la energía de subnivel. -->
@@ -126,11 +126,11 @@ El Principio de Auf-bau establece que los orbitales se llenan en orden creciente
 ¿Cuál es la altura máxima alcanzada por el proyectil?
 
 ### Opciones
-- [x] A) $5\text{ metros}$
+- [x] C) $5\text{ metros}$
   <!-- feedback: Correcto. $v_{y0} = 20 \sin(30^circ) = 10\text{ m/s}$. $h_{max} = \frac{v_{y0}^2}{2g} = \frac{100}{20} = 5\text{ m}$. -->
-- [ ] B) $10\text{ metros}$
+- [ ] A) $10\text{ metros}$
   <!-- feedback: Incorrecto. Se omitió dividir entre 2 la constante $g$. -->
-- [ ] C) $20\text{ metros}$
+- [ ] B) $20\text{ metros}$
   <!-- feedback: Incorrecto. Se calculó usando la velocidad total inicial en lugar de la componente vertical. -->
 - [ ] D) $2.5\text{ metros}$
   <!-- feedback: Incorrecto. Error de escala al dividir entre 40. -->
@@ -149,9 +149,9 @@ La componente vertical inicial de la velocidad es $v_{y0} = v_0 \sin\theta = 20 
 ¿Cuál es la magnitud de la fuerza aplada $F$?
 
 ### Opciones
-- [x] A) $25\text{ N}$
+- [x] B) $25\text{ N}$
   <!-- feedback: Correcto. Segunda ley de Newton: $F - f_k = m a \implies F - 5 = 10 \times 2 \implies F = 20 + 5 = 25\text{ N}$. -->
-- [ ] B) $20\text{ N}$
+- [ ] A) $20\text{ N}$
   <!-- feedback: Incorrecto. $20\text{ N}$ es la fuerza neta $m \cdot a$ sin compensar la fricción. -->
 - [ ] C) $15\text{ N}$
   <!-- feedback: Incorrecto. Resta errónea de la fricción en lugar de sumarla. -->
@@ -195,9 +195,9 @@ En la molécula de $C_5H_{10}$: Hay 10 enlaces sencillos $C-H$ ($\sigma$), 3 enl
 ¿Cuál de las tres especies químicas posee el MENOR tamaño o radio?
 
 ### Opciones
-- [x] A) $Ca^{2+}$, porque posee la mayor carga nuclear ($Z=20$) sobre la misma cantidad de electrones (18 $e^-$).
+- [x] B) $Ca^{2+}$, porque posee la mayor carga nuclear ($Z=20$) sobre la misma cantidad de electrones (18 $e^-$).
   <!-- feedback: Correcto. En especies isoelectrónicas, a mayor número de protones ($Z$), mayor atracción sobre la nube y menor radio. -->
-- [ ] B) $S^{2-}$, porque la carga negativa contrae el núcleo.
+- [ ] A) $S^{2-}$, porque la carga negativa contrae el núcleo.
   <!-- feedback: Incorrecto. La carga negativa expande la nube electrónica por repulsión interelectrónica. -->
 - [ ] C) El átomo neutro de $S$, porque no posee carga eléctrica.
   <!-- feedback: Incorrecto. El $S$ neutro tiene 16 electrones pero un radio mayor que el $Ca^{2+}$. -->
@@ -218,9 +218,9 @@ Al comparar especies isoelectrónicas con 18 electrones ($S^{2-}$ y $Ca^{2+}$), 
 ¿Cuál es la potencia media desarrollada por la grúa durante el izaje?
 
 ### Opciones
-- [x] A) $6000\text{ Watts}$ ($6\text{ kW}$)
+- [x] B) $6000\text{ Watts}$ ($6\text{ kW}$)
   <!-- feedback: Correcto. Trabajo $W = m g h = 500 \times 10 \times 12 = 60000\text{ J}$. Potencia $P = \frac{W}{t} = \frac{60000}{10} = 6000\text{ W}$. -->
-- [ ] B) $600\text{ Watts}$
+- [ ] A) $600\text{ Watts}$
   <!-- feedback: Incorrecto. Se omitió multiplicar por la constante de gravedad $g$. -->
 - [ ] C) $60000\text{ Watts}$
   <!-- feedback: Incorrecto. Es el trabajo total realizado en Joules, no la potencia por segundo. -->
@@ -241,13 +241,13 @@ La potencia mecánica es la tasa de realización de trabajo: $P = \frac{W}{\Delt
 ¿Cuál es el juego de números cuánticos $(n, l, m_l, m_s)$ para el electrón diferenciador del Sodio ($3s^1$)?
 
 ### Opciones
-- [x] A) $(3, 0, 0, +1/2)$
+- [x] D) $(3, 0, 0, +1/2)$
   <!-- feedback: Correcto. Subnivel $3s^1 \implies n=3$, $l=0$ (orbital s), $m_l=0$, primer electrón con $m_s=+1/2$. -->
-- [ ] B) $(3, 1, 0, +1/2)$
+- [ ] A) $(3, 1, 0, +1/2)$
   <!-- feedback: Incorrecto. $l=1$ corresponde al subnivel $p$, no al $s$. -->
-- [ ] C) $(2, 0, 0, -1/2)$
+- [ ] B) $(2, 0, 0, -1/2)$
   <!-- feedback: Incorrecto. Nivel $n=2$ completo en la capa interna. -->
-- [ ] D) $(3, 0, 1, -1/2)$
+- [ ] C) $(3, 0, 1, -1/2)$
   <!-- feedback: Incorrecto. Para $l=0$, $m_l$ solo puede tomar el valor $0$. -->
 
 ### Explicacion Pedagogica
@@ -264,11 +264,11 @@ El electrón diferenciador del Sodio ($Z=11$) ocupa el orbital $3s^1$. Por tanto
 ¿Cuáles son las velocidades de las esferas A y B tras el choque elástico entre masas idénticas?
 
 ### Opciones
-- [x] A) Esfera A = $2\text{ m/s}$ hacia la izquierda; Esfera B = $6\text{ m/s}$ hacia la derecha.
+- [x] C) Esfera A = $2\text{ m/s}$ hacia la izquierda; Esfera B = $6\text{ m/s}$ hacia la derecha.
   <!-- feedback: Correcto. En una colisión elástica unidimensional entre masas iguales, los cuerpos intercambian sus velocidades vectoriales completas ($v_{Af} = -2\text{ m/s}$, $v_{Bf} = +6\text{ m/s}$). -->
-- [ ] B) Esfera A = $6\text{ m/s}$ hacia la izquierda; Esfera B = $2\text{ m/s}$ hacia la derecha.
+- [ ] A) Esfera A = $6\text{ m/s}$ hacia la izquierda; Esfera B = $2\text{ m/s}$ hacia la derecha.
   <!-- feedback: Incorrecto. Simplemente invierte los signos sin intercambiar los valores entre masas. -->
-- [ ] C) Ambas esferas quedan en reposo.
+- [ ] B) Ambas esferas quedan en reposo.
   <!-- feedback: Incorrecto. Ocurriría solo si chocaran inelásticamente con velocidades opuestas e iguales. -->
 - [ ] D) Ambas avanzan juntas a $2\text{ m/s}$ hacia la derecha.
   <!-- feedback: Incorrecto. Eso caracterizaría a un choque perfectamente inelástico. -->
@@ -287,9 +287,9 @@ En colisiones frontales perfectamente elásticas entre dos masas exactamente igu
 ¿Por qué el punto de ebullición aumenta de forma constante al incrementar la longitud de la cadena hidrocarbonada lineal?
 
 ### Opciones
-- [x] A) Porque aumenta la masa molar y la superficie molecular, fortaleciendo la intensidad de las fuerzas de dispersión de London.
+- [x] B) Porque aumenta la masa molar y la superficie molecular, fortaleciendo la intensidad de las fuerzas de dispersión de London.
   <!-- feedback: Correcto. Las moléculas más grandes tienen mayor área de contacto e inducen dipolos instantáneos más intensos (fuerzas de London). -->
-- [ ] B) Porque se forman puentes de hidrógeno entre los metilos terminales.
+- [ ] A) Porque se forman puentes de hidrógeno entre los metilos terminales.
   <!-- feedback: Incorrecto. Los alcanos apolares carecen de puentes de hidrógeno. -->
 - [ ] C) Porque el enlace C-C se vuelve progresivamente iónico.
   <!-- feedback: Incorrecto. Los enlaces carbono-carbono son covalentes no polares pura. -->
@@ -310,13 +310,13 @@ Al aumentar la longitud de la cadena lineal en alcanos, la masa molecular y la s
 ¿Cuánto trabajo en Joules realizó la fuerza de fricción durante el descenso del bloque?
 
 ### Opciones
-- [x] A) $-110\text{ Joules}$
+- [x] D) $-110\text{ Joules}$
   <!-- feedback: Correcto. $E_{pi} = m g h = 5 \times 10 \times 4 = 200\text{ J}$. $E_{kf} = \frac{1}{2} m v^2 = \frac{1}{2}(5)(36) = 90\text{ J}$. Trabajo de fricción $W_{friccion} = E_{kf} - E_{pi} = 90 - 200 = -110\text{ J}$. -->
-- [ ] B) $-200\text{ Joules}$
+- [ ] A) $-200\text{ Joules}$
   <!-- feedback: Incorrecto. Es la energía potencial inicial total disipada hipotéticamente. -->
-- [ ] C) $-90\text{ Joules}$
+- [ ] B) $-90\text{ Joules}$
   <!-- feedback: Incorrecto. Es la energía cinética final adquirida por el cuerpo. -->
-- [ ] D) $0\text{ Joules}$
+- [ ] C) $0\text{ Joules}$
   <!-- feedback: Incorrecto. Si no hubiera fricción la velocidad final habría sido $\sqrt{80} \approx 8.94\text{ m/s}$. -->
 
 ### Explicacion Pedagogica
@@ -335,12 +335,12 @@ u_B = 3 \times 10^{14}\text{ Hz}$).
 ¿Cuál es la relación entre la energía del fotón A ($E_A$) y la energía del fotón B ($E_B$)?
 
 ### Opciones
-- [x] A) $E_A = 2 E_B$
+- [x] B) $E_A = 2 E_B$
   <!-- feedback: Correcto. Por la ecuación de Planck $E = h
 u$, la energía es directamente proporcional a la frecuencia. Al ser $
 u_A = 2
 u_B$, resulta $E_A = 2 E_B$. -->
-- [ ] B) $E_A = \frac{1}{2} E_B$
+- [ ] A) $E_A = \frac{1}{2} E_B$
   <!-- feedback: Incorrecto. Relación inversamente proporcional errónea. -->
 - [ ] C) $E_A = 4 E_B$
   <!-- feedback: Incorrecto. Supone dependencia cuadrática de la frecuencia. -->
@@ -365,14 +365,14 @@ u_B$), su energía es el doble ($E_A = 2 E_B$).
 eq 0$) y cuál tiene momento dipolar nulo ($mu = 0$)?
 
 ### Opciones
-- [x] A) El isómero *cis* es polar ($mu
+- [x] D) El isómero *cis* es polar ($mu
 eq 0$) y el isómero *trans* es apolar ($mu = 0$).
   <!-- feedback: Correcto. En el isómero *trans*, los vectores dipolo C-Cl apuntan en sentidos opuestos cancelándose. En el *cis* apuntan al mismo lado sumándose. -->
-- [ ] B) El isómero *trans* es polar y el *cis* es apolar.
+- [ ] A) El isómero *trans* es polar y el *cis* es apolar.
   <!-- feedback: Incorrecto. Asignación espacial invertida de los dipolos de enlace. -->
-- [ ] C) Ambos isómeros son estrictamente apolares.
+- [ ] B) Ambos isómeros son estrictamente apolares.
   <!-- feedback: Incorrecto. El enlace C-Cl es polar y en la conformación *cis* sus vectores se suman. -->
-- [ ] D) Ambos isómeros poseen el mismo momento dipolar no nulo.
+- [ ] C) Ambos isómeros poseen el mismo momento dipolar no nulo.
   <!-- feedback: Incorrecto. La simetría del isómero *trans* anula el dipolo. -->
 
 ### Explicacion Pedagogica
@@ -390,11 +390,11 @@ eq 0$).
 ¿Cuál es el nuevo período de oscilación del péndulo alargado?
 
 ### Opciones
-- [x] A) $4.0\text{ segundos}$
+- [x] C) $4.0\text{ segundos}$
   <!-- feedback: Correcto. Como $T propto \sqrt{L}$, al quadruplicar la longitud $L \rightarrow 4L$, el período se multiplica por $\sqrt{4} = 2$. $T' = 2 \times 2.0 = 4.0\text{ s}$. -->
-- [ ] B) $8.0\text{ segundos}$
+- [ ] A) $8.0\text{ segundos}$
   <!-- feedback: Incorrecto. Asume una relación de proporcionalidad directa sin raíz cuadrada. -->
-- [ ] C) $1.0\text{ segundo}$
+- [ ] B) $1.0\text{ segundo}$
   <!-- feedback: Incorrecto. El período aumenta al alargar la cuerda, no disminuye. -->
 - [ ] D) $2.0\text{ segundos}$
   <!-- feedback: Incorrecto. El período es sensible a la longitud de la cuerda. -->
@@ -414,11 +414,11 @@ El período de un péndulo es $T = 2\pi \sqrt{\frac{L}{g}}$. Si la longitud camb
 u$)?
 
 ### Opciones
-- [x] A) Ruptura homolítica de la molécula de $Cl_2$ formando dos radicales libres de cloro.
+- [x] C) Ruptura homolítica de la molécula de $Cl_2$ formando dos radicales libres de cloro.
   <!-- feedback: Correcto. La luz fotoliza el enlace covalente $Cl-Cl$ repartiendo equitativamente los electrones para generar dos radicales libres de cloro. -->
-- [ ] B) Ruptura heterolítica del metano generando un catión metilo y un hidruro.
+- [ ] A) Ruptura heterolítica del metano generando un catión metilo y un hidruro.
   <!-- feedback: Incorrecto. Ocurre en reacciones iónicas polarizadas, no radicalarias iniciadas por luz. -->
-- [ ] C) Ataque directo del $Cl_2$ neutro sobre el enlace $C-H$ sin intermediarios.
+- [ ] B) Ataque directo del $Cl_2$ neutro sobre el enlace $C-H$ sin intermediarios.
   <!-- feedback: Incorrecto. Requiere la formación inicial de los radicales libres propagadores. -->
 - [ ] D) Combustión completa del metano produciendo $CO_2$ y agua.
   <!-- feedback: Incorrecto. Reacción de oxidación térmica no sustitutiva. -->
@@ -438,13 +438,13 @@ u$ por la molécula de halógeno ($Cl_2$), provocando la escisión homolítica d
 ¿En qué posición $x_{CM}$ se localiza el centro de masa del sistema?
 
 ### Opciones
-- [x] A) $x_{CM} = 4.0\text{ metros}$
+- [x] D) $x_{CM} = 4.0\text{ metros}$
   <!-- feedback: Correcto. $x_{CM} = \frac{m_1 x_1 + m_2 x_2 + m_3 x_3}{m_1 + m_2 + m_3} = \frac{(1 \times 0) + (2 \times 3) + (3 \times 6)}{1 + 2 + 3} = \frac{0 + 6 + 18}{6} = \frac{24}{6} = 4.0\text{ m}$. -->
-- [ ] B) $x_{CM} = 3.0\text{ metros}$
+- [ ] A) $x_{CM} = 3.0\text{ metros}$
   <!-- feedback: Incorrecto. Promedio aritmético simple de las posiciones sin ponderar por la masa. -->
-- [ ] C) $x_{CM} = 4.5\text{ metros}$
+- [ ] B) $x_{CM} = 4.5\text{ metros}$
   <!-- feedback: Incorrecto. Error de cálculo en el numerador. -->
-- [ ] D) $x_{CM} = 2.0\text{ metros}$
+- [ ] C) $x_{CM} = 2.0\text{ metros}$
   <!-- feedback: Incorrecto. Desplazamiento erróneo hacia la masa menor. -->
 
 ### Explicacion Pedagogica
@@ -461,9 +461,9 @@ La coordenada del centro de masa para una distribución discreta de masas unidim
 ¿Cuál es el núcleo hijo ($X$) resultante tras la emisión de una partícula alfa ($^4_2He$)?
 
 ### Opciones
-- [x] A) Torio-234 ($^{234}_{90}Th$)
+- [x] B) Torio-234 ($^{234}_{90}Th$)
   <!-- feedback: Correcto. La emisión alfa resta 4 a la masa atómica $A$ ($238 - 4 = 234$) y resta 2 al número atómico $Z$ ($92 - 2 = 90$, Torio). -->
-- [ ] B) Torio-238 ($^{238}_{90}Th$)
+- [ ] A) Torio-238 ($^{238}_{90}Th$)
   <!-- feedback: Incorrecto. La emisión alfa reduce la masa en 4 unidades. -->
 - [ ] C) Plutonio-242 ($^{242}_{94}Pu$)
   <!-- feedback: Incorrecto. Corresponde a una fusión nuclear hipotética. -->

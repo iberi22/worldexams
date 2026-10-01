@@ -34,13 +34,13 @@ calibration: {difficulty_band: "D3-D10", expected_success: 0.65}
 ¿Qué papel o definición histórica le corresponde a La Batalla de Carpintería de 1836 en relación con este contexto en Uruguay?
 
 ### Opciones
-- [x] A) Constituyó el factor decisivo que consolidó el origen de las divisas Blanca y Colorada en beneficio del desarrollo institucional del país.
+- [x] D) Constituyó el factor decisivo que consolidó el origen de las divisas Blanca y Colorada en beneficio del desarrollo institucional del país.
   <!-- feedback: Correcto. La Batalla de Carpintería de 1836 representó precisamente el hecho o concepto que consagró el origen de las divisas Blanca y Colorada. -->
-- [ ] B) Consistió en una reforma fiscal que impuso La firma de la primera constitución federal eliminando toda libertad mercantil o política local.
+- [ ] A) Consistió en una reforma fiscal que impuso La firma de la primera constitución federal eliminando toda libertad mercantil o política local.
   <!-- feedback: Incorrecto. La firma de la primera constitución federal no define la acción histórica de este elemento ni se corresponde con este período. -->
-- [ ] C) Fue un movimiento de oposición promovido por los defensores de La declaración de guerra al Imperio brasileño para restablecer el régimen colonial absoluto.
+- [ ] B) Fue un movimiento de oposición promovido por los defensores de La declaración de guerra al Imperio brasileño para restablecer el régimen colonial absoluto.
   <!-- feedback: Incorrecto. La declaración de guerra al Imperio brasileño responde a otra dinámica o intereses opuestos a los evaluados en este hecho. -->
-- [ ] D) Representó una medida de orden militar que forzó la inmediata adopción de La asunción de José Pedro Varela en toda la campaña rural.
+- [ ] C) Representó una medida de orden militar que forzó la inmediata adopción de La asunción de José Pedro Varela en toda la campaña rural.
   <!-- feedback: Incorrecto. La asunción de José Pedro Varela representa una distracción sin sustento documental o empírico en la historia uruguaya. -->
 
 ### Explicacion Pedagogica
@@ -82,9 +82,9 @@ La identificación precisa de Las tensiones por el control del Estado y la campa
 Si analizás la trascendencia de este suceso, ¿cómo se explica la relación causa-efecto entre La Guerra Grande y el largo conflicto de alcance regional?
 
 ### Opciones
-- [x] A) Que la implantación de La Guerra Grande actuó como la causa principal que posibilitó el desarrollo de el largo conflicto de alcance regional.
+- [x] B) Que la implantación de La Guerra Grande actuó como la causa principal que posibilitó el desarrollo de el largo conflicto de alcance regional.
   <!-- feedback: Correcto. Hay una relación causal directa: La Guerra Grande funcionó como cimiento para que se diera el largo conflicto de alcance regional. -->
-- [ ] B) Que la promoción de La guerra de independencia contra España bloqueó de forma absoluta todo efecto de La Guerra Grande sobre la sociedad de la campaña.
+- [ ] A) Que la promoción de La guerra de independencia contra España bloqueó de forma absoluta todo efecto de La Guerra Grande sobre la sociedad de la campaña.
   <!-- feedback: Incorrecto. La guerra de independencia contra España representa una distracción conceptual que no interfirió de esa forma ni anula el papel de La Guerra Grande. -->
 - [ ] C) Que la imposición de La invasión luso-brasileña del norte sustituyó toda actividad rural por un modelo industrial centralizado en Montevideo.
   <!-- feedback: Incorrecto. La invasión luso-brasileña del norte es una lectura errónea que tergiversa la base socioeconómica agropecuaria de la Banda Oriental o del Estado uruguayo. -->
@@ -106,11 +106,11 @@ La relación entre La Guerra Grande y el largo conflicto de alcance regional es 
 Si analizás la trascendencia de este suceso, ¿cómo se explica la relación causa-efecto entre El Sitio de Montevideo y la coexistencia de dos gobiernos simultáneos?
 
 ### Opciones
-- [x] A) Que la implantación de El Sitio de Montevideo actuó como la causa principal que posibilitó el desarrollo de la coexistencia de dos gobiernos simultáneos.
+- [x] C) Que la implantación de El Sitio de Montevideo actuó como la causa principal que posibilitó el desarrollo de la coexistencia de dos gobiernos simultáneos.
   <!-- feedback: Correcto. Hay una relación causal directa: El Sitio de Montevideo funcionó como cimiento para que se diera la coexistencia de dos gobiernos simultáneos. -->
-- [ ] B) Que la promoción de La rendición pacífica de la ciudad amurallada bloqueó de forma absoluta todo efecto de El Sitio de Montevideo sobre la sociedad de la campaña.
+- [ ] A) Que la promoción de La rendición pacífica de la ciudad amurallada bloqueó de forma absoluta todo efecto de El Sitio de Montevideo sobre la sociedad de la campaña.
   <!-- feedback: Incorrecto. La rendición pacífica de la ciudad amurallada representa una distracción conceptual que no interfirió de esa forma ni anula el papel de El Sitio de Montevideo. -->
-- [ ] C) Que la imposición de La anexión uruguaya al Imperio francés sustituyó toda actividad rural por un modelo industrial centralizado en Montevideo.
+- [ ] B) Que la imposición de La anexión uruguaya al Imperio francés sustituyó toda actividad rural por un modelo industrial centralizado en Montevideo.
   <!-- feedback: Incorrecto. La anexión uruguaya al Imperio francés es una lectura errónea que tergiversa la base socioeconómica agropecuaria de la Banda Oriental o del Estado uruguayo. -->
 - [ ] D) Que la aplicación de La disolución definitiva del Partido Blanco resolvió de forma pacífica todas las tensiones sin participación de caudillos agrarios.
   <!-- feedback: Incorrecto. La disolución definitiva del Partido Blanco representa un supuesto inverosímil que contradice las agudas luchas partidarias y sociales de la época. -->
@@ -130,11 +130,11 @@ La relación entre El Sitio de Montevideo y la coexistencia de dos gobiernos sim
 Si analizás la trascendencia de este suceso, ¿cómo se explica la relación causa-efecto entre El Gobierno de la Defensa y el bando de corte urbano e internacionalista?
 
 ### Opciones
-- [x] A) Que la implantación de El Gobierno de la Defensa actuó como la causa principal que posibilitó el desarrollo de el bando de corte urbano e internacionalista.
+- [x] C) Que la implantación de El Gobierno de la Defensa actuó como la causa principal que posibilitó el desarrollo de el bando de corte urbano e internacionalista.
   <!-- feedback: Correcto. Hay una relación causal directa: El Gobierno de la Defensa funcionó como cimiento para que se diera el bando de corte urbano e internacionalista. -->
-- [ ] B) Que la promoción de La administración rural de Manuel Oribe bloqueó de forma absoluta todo efecto de El Gobierno de la Defensa sobre la sociedad de la campaña.
+- [ ] A) Que la promoción de La administración rural de Manuel Oribe bloqueó de forma absoluta todo efecto de El Gobierno de la Defensa sobre la sociedad de la campaña.
   <!-- feedback: Incorrecto. La administración rural de Manuel Oribe representa una distracción conceptual que no interfirió de esa forma ni anula el papel de El Gobierno de la Defensa. -->
-- [ ] C) Que la imposición de El protectorado militar de Juan Manuel de Rosas sustituyó toda actividad rural por un modelo industrial centralizado en Montevideo.
+- [ ] B) Que la imposición de El protectorado militar de Juan Manuel de Rosas sustituyó toda actividad rural por un modelo industrial centralizado en Montevideo.
   <!-- feedback: Incorrecto. El protectorado militar de Juan Manuel de Rosas es una lectura errónea que tergiversa la base socioeconómica agropecuaria de la Banda Oriental o del Estado uruguayo. -->
 - [ ] D) Que la aplicación de El régimen absolutista español en el sur resolvió de forma pacífica todas las tensiones sin participación de caudillos agrarios.
   <!-- feedback: Incorrecto. El régimen absolutista español en el sur representa un supuesto inverosímil que contradice las agudas luchas partidarias y sociales de la época. -->
@@ -154,9 +154,9 @@ La relación entre El Gobierno de la Defensa y el bando de corte urbano e intern
 Si analizás la trascendencia de este suceso, ¿cómo se explica la relación causa-efecto entre El Gobierno del Cerrito y la administración de la campaña y las aduanas?
 
 ### Opciones
-- [x] A) Que la implantación de El Gobierno del Cerrito actuó como la causa principal que posibilitó el desarrollo de la administración de la campaña y las aduanas.
+- [x] B) Que la implantación de El Gobierno del Cerrito actuó como la causa principal que posibilitó el desarrollo de la administración de la campaña y las aduanas.
   <!-- feedback: Correcto. Hay una relación causal directa: El Gobierno del Cerrito funcionó como cimiento para que se diera la administración de la campaña y las aduanas. -->
-- [ ] B) Que la promoción de La defensa del libre comercio internacional inglés bloqueó de forma absoluta todo efecto de El Gobierno del Cerrito sobre la sociedad de la campaña.
+- [ ] A) Que la promoción de La defensa del libre comercio internacional inglés bloqueó de forma absoluta todo efecto de El Gobierno del Cerrito sobre la sociedad de la campaña.
   <!-- feedback: Incorrecto. La defensa del libre comercio internacional inglés representa una distracción conceptual que no interfirió de esa forma ni anula el papel de El Gobierno del Cerrito. -->
 - [ ] C) Que la imposición de El control marítimo del puerto de Montevideo sustituyó toda actividad rural por un modelo industrial centralizado en Montevideo.
   <!-- feedback: Incorrecto. El control marítimo del puerto de Montevideo es una lectura errónea que tergiversa la base socioeconómica agropecuaria de la Banda Oriental o del Estado uruguayo. -->
@@ -178,9 +178,9 @@ La relación entre El Gobierno del Cerrito y la administración de la campaña y
 Si aplicás este análisis a las tensiones de la época, ¿de qué manera se manifestó el impacto práctico de La fórmula de 'no hubo vencidos ni vencedores' en la vida cotidiana o en la economía?
 
 ### Opciones
-- [x] A) En que viabilizó el fin de la Guerra Grande sin anexión porteña a través del despliegue efectivo de La fórmula de 'no hubo vencidos ni vencedores' en el territorio nacional.
+- [x] B) En que viabilizó el fin de la Guerra Grande sin anexión porteña a través del despliegue efectivo de La fórmula de 'no hubo vencidos ni vencedores' en el territorio nacional.
   <!-- feedback: Correcto. En el plano práctico, La fórmula de 'no hubo vencidos ni vencedores' se tradujo directamente en el fin de la Guerra Grande sin anexión porteña, transformando las relaciones socioeconómicas reales. -->
-- [ ] B) En que forzó la aplicación estricta de La entrega de la mitad del territorio a Brasil como el único reglamento de convivencia acatado por los caudillos de la campaña.
+- [ ] A) En que forzó la aplicación estricta de La entrega de la mitad del territorio a Brasil como el único reglamento de convivencia acatado por los caudillos de la campaña.
   <!-- feedback: Incorrecto. La entrega de la mitad del territorio a Brasil no constituyó el reglamento acatado por los caudillos agrarios en este plano práctico. -->
 - [ ] C) En que obligó a las aduanas de Montevideo a transferir la totalidad de sus rentas fiscales a favor de La disolución de las divisas tradicionales.
   <!-- feedback: Incorrecto. La transferencia fiscal absoluta a La disolución de las divisas tradicionales carece de veracidad y fundamento histórico para este período. -->
@@ -226,9 +226,9 @@ La aplicación práctica de Los saladeros de carne vacuna revela que los salader
 Si aplicás este análisis a las tensiones de la época, ¿de qué manera se manifestó el impacto práctico de Los caudillos como nexos de orden en la campaña en la vida cotidiana o en la economía?
 
 ### Opciones
-- [x] A) En que viabilizó el poder informal de base agraria a través del despliegue efectivo de Los caudillos como nexos de orden en la campaña en el territorio nacional.
+- [x] B) En que viabilizó el poder informal de base agraria a través del despliegue efectivo de Los caudillos como nexos de orden en la campaña en el territorio nacional.
   <!-- feedback: Correcto. En el plano práctico, Los caudillos como nexos de orden en la campaña se tradujo directamente en el poder informal de base agraria, transformando las relaciones socioeconómicas reales. -->
-- [ ] B) En que forzó la aplicación estricta de El dominio administrativo de los jueces de paz urbanos como el único reglamento de convivencia acatado por los caudillos de la campaña.
+- [ ] A) En que forzó la aplicación estricta de El dominio administrativo de los jueces de paz urbanos como el único reglamento de convivencia acatado por los caudillos de la campaña.
   <!-- feedback: Incorrecto. El dominio administrativo de los jueces de paz urbanos no constituyó el reglamento acatado por los caudillos agrarios en este plano práctico. -->
 - [ ] C) En que obligó a las aduanas de Montevideo a transferir la totalidad de sus rentas fiscales a favor de La abolición de la ganadería extensiva.
   <!-- feedback: Incorrecto. La transferencia fiscal absoluta a La abolición de la ganadería extensiva carece de veracidad y fundamento histórico para este período. -->
@@ -274,9 +274,9 @@ La aplicación práctica de Juan Manuel de Rosas y su apoyo a Manuel Oribe revel
 Si aplicás este análisis a las tensiones de la época, ¿de qué manera se manifestó el impacto práctico de La Batalla de Carpintería de 1836 en la vida cotidiana o en la economía?
 
 ### Opciones
-- [x] A) En que viabilizó el origen de las divisas Blanca y Colorada a través del despliegue efectivo de La Batalla de Carpintería de 1836 en el territorio nacional.
+- [x] B) En que viabilizó el origen de las divisas Blanca y Colorada a través del despliegue efectivo de La Batalla de Carpintería de 1836 en el territorio nacional.
   <!-- feedback: Correcto. En el plano práctico, La Batalla de Carpintería de 1836 se tradujo directamente en el origen de las divisas Blanca y Colorada, transformando las relaciones socioeconómicas reales. -->
-- [ ] B) En que forzó la aplicación estricta de La firma de la primera constitución federal como el único reglamento de convivencia acatado por los caudillos de la campaña.
+- [ ] A) En que forzó la aplicación estricta de La firma de la primera constitución federal como el único reglamento de convivencia acatado por los caudillos de la campaña.
   <!-- feedback: Incorrecto. La firma de la primera constitución federal no constituyó el reglamento acatado por los caudillos agrarios en este plano práctico. -->
 - [ ] C) En que obligó a las aduanas de Montevideo a transferir la totalidad de sus rentas fiscales a favor de La declaración de guerra al Imperio brasileño.
   <!-- feedback: Incorrecto. La transferencia fiscal absoluta a La declaración de guerra al Imperio brasileño carece de veracidad y fundamento histórico para este período. -->
@@ -322,11 +322,11 @@ La aplicación práctica de Las tensiones por el control del Estado y la campañ
 ¿Qué contradicción o conflicto de intereses de la sociedad de la época queda en evidencia al analizar las consecuencias de La Guerra Grande?
 
 ### Opciones
-- [x] A) La fractura social entre los sectores que consolidaron su posición con el largo conflicto de alcance regional gracias a La Guerra Grande y aquellos que resultaron postergados.
+- [x] C) La fractura social entre los sectores que consolidaron su posición con el largo conflicto de alcance regional gracias a La Guerra Grande y aquellos que resultaron postergados.
   <!-- feedback: Correcto. El análisis crítico de La Guerra Grande revela una profunda contradicción en torno a el largo conflicto de alcance regional, marcando límites en la integración social. -->
-- [ ] B) El enfrentamiento ideológico entre los defensores de La guerra de independencia contra España y los promotores de una monarquía incaica absoluta en Canelones.
+- [ ] A) El enfrentamiento ideológico entre los defensores de La guerra de independencia contra España y los promotores de una monarquía incaica absoluta en Canelones.
   <!-- feedback: Incorrecto. Una monarquía incaica en Canelones es un absurdo geográfico e histórico sin relación con los conflictos reales uruguayos. -->
-- [ ] C) La disputa entre los estancieros criollos por prohibir la exportación de cueros y lanas para consagrar La invasión luso-brasileña del norte.
+- [ ] B) La disputa entre los estancieros criollos por prohibir la exportación de cueros y lanas para consagrar La invasión luso-brasileña del norte.
   <!-- feedback: Incorrecto. Los hacendados dependían vitalmente de la exportación pecuaria y nunca buscaron prohibir su comercio para imponer La invasión luso-brasileña del norte. -->
 - [ ] D) La total disolución de las clases sociales que eliminó el influjo de La sublevación agraria del artiguismo y unificó amigablemente a toda la población.
   <!-- feedback: Incorrecto. Postular una armonía absoluta que borrara las tensiones y anulara La sublevación agraria del artiguismo es una lectura idílica e incorrecta de la historia nacional. -->
@@ -346,9 +346,9 @@ El análisis crítico de La Guerra Grande demuestra que la Guerra Grande (1839-1
 ¿Qué contradicción o conflicto de intereses de la sociedad de la época queda en evidencia al analizar las consecuencias de El Sitio de Montevideo?
 
 ### Opciones
-- [x] A) La fractura social entre los sectores que consolidaron su posición con la coexistencia de dos gobiernos simultáneos gracias a El Sitio de Montevideo y aquellos que resultaron postergados.
+- [x] B) La fractura social entre los sectores que consolidaron su posición con la coexistencia de dos gobiernos simultáneos gracias a El Sitio de Montevideo y aquellos que resultaron postergados.
   <!-- feedback: Correcto. El análisis crítico de El Sitio de Montevideo revela una profunda contradicción en torno a la coexistencia de dos gobiernos simultáneos, marcando límites en la integración social. -->
-- [ ] B) El enfrentamiento ideológico entre los defensores de La rendición pacífica de la ciudad amurallada y los promotores de una monarquía incaica absoluta en Canelones.
+- [ ] A) El enfrentamiento ideológico entre los defensores de La rendición pacífica de la ciudad amurallada y los promotores de una monarquía incaica absoluta en Canelones.
   <!-- feedback: Incorrecto. Una monarquía incaica en Canelones es un absurdo geográfico e histórico sin relación con los conflictos reales uruguayos. -->
 - [ ] C) La disputa entre los estancieros criollos por prohibir la exportación de cueros y lanas para consagrar La anexión uruguaya al Imperio francés.
   <!-- feedback: Incorrecto. Los hacendados dependían vitalmente de la exportación pecuaria y nunca buscaron prohibir su comercio para imponer La anexión uruguaya al Imperio francés. -->
@@ -370,11 +370,11 @@ El análisis crítico de El Sitio de Montevideo demuestra que el Sitio de Montev
 ¿Qué contradicción o conflicto de intereses de la sociedad de la época queda en evidencia al analizar las consecuencias de El Gobierno de la Defensa?
 
 ### Opciones
-- [x] A) La fractura social entre los sectores que consolidaron su posición con el bando de corte urbano e internacionalista gracias a El Gobierno de la Defensa y aquellos que resultaron postergados.
+- [x] C) La fractura social entre los sectores que consolidaron su posición con el bando de corte urbano e internacionalista gracias a El Gobierno de la Defensa y aquellos que resultaron postergados.
   <!-- feedback: Correcto. El análisis crítico de El Gobierno de la Defensa revela una profunda contradicción en torno a el bando de corte urbano e internacionalista, marcando límites en la integración social. -->
-- [ ] B) El enfrentamiento ideológico entre los defensores de La administración rural de Manuel Oribe y los promotores de una monarquía incaica absoluta en Canelones.
+- [ ] A) El enfrentamiento ideológico entre los defensores de La administración rural de Manuel Oribe y los promotores de una monarquía incaica absoluta en Canelones.
   <!-- feedback: Incorrecto. Una monarquía incaica en Canelones es un absurdo geográfico e histórico sin relación con los conflictos reales uruguayos. -->
-- [ ] C) La disputa entre los estancieros criollos por prohibir la exportación de cueros y lanas para consagrar El protectorado militar de Juan Manuel de Rosas.
+- [ ] B) La disputa entre los estancieros criollos por prohibir la exportación de cueros y lanas para consagrar El protectorado militar de Juan Manuel de Rosas.
   <!-- feedback: Incorrecto. Los hacendados dependían vitalmente de la exportación pecuaria y nunca buscaron prohibir su comercio para imponer El protectorado militar de Juan Manuel de Rosas. -->
 - [ ] D) La total disolución de las clases sociales que eliminó el influjo de El régimen absolutista español en el sur y unificó amigablemente a toda la población.
   <!-- feedback: Incorrecto. Postular una armonía absoluta que borrara las tensiones y anulara El régimen absolutista español en el sur es una lectura idílica e incorrecta de la historia nacional. -->
@@ -418,11 +418,11 @@ El análisis crítico de El Gobierno del Cerrito demuestra que el Gobierno del C
 Al juzgar de manera integral el alcance histórico de La fórmula de 'no hubo vencidos ni vencedores', ¿cuál de las siguientes valoraciones cuenta con mayor sustento historiográfico?
 
 ### Opciones
-- [x] A) Que La fórmula de 'no hubo vencidos ni vencedores' constituyó una respuesta clave que sentó las bases de el fin de la Guerra Grande sin anexión porteña, reconfigurando de forma duradera el orden estatal del país.
+- [x] C) Que La fórmula de 'no hubo vencidos ni vencedores' constituyó una respuesta clave que sentó las bases de el fin de la Guerra Grande sin anexión porteña, reconfigurando de forma duradera el orden estatal del país.
   <!-- feedback: Correcto. Una evaluación de largo plazo demuestra que La fórmula de 'no hubo vencidos ni vencedores' actuó como piedra angular para estructurar el fin de la Guerra Grande sin anexión porteña en el Uruguay moderno. -->
-- [ ] B) Que fue un retroceso absoluto porque toda la población uruguaya prefería continuar bajo las antiguas normas coloniales de La entrega de la mitad del territorio a Brasil.
+- [ ] A) Que fue un retroceso absoluto porque toda la población uruguaya prefería continuar bajo las antiguas normas coloniales de La entrega de la mitad del territorio a Brasil.
   <!-- feedback: Incorrecto. Las transformaciones republicanas, democráticas o sociales contaban con amplio arraigo e irreversibilidad, descartando el retorno a La entrega de la mitad del territorio a Brasil. -->
-- [ ] C) Que su único logro de largo plazo fue someter la soberanía nacional al arbitrio y control militar directo de La disolución de las divisas tradicionales.
+- [ ] B) Que su único logro de largo plazo fue someter la soberanía nacional al arbitrio y control militar directo de La disolución de las divisas tradicionales.
   <!-- feedback: Incorrecto. Sostener que La fórmula de 'no hubo vencidos ni vencedores' solo sirvió para someter el país a La disolución de las divisas tradicionales es una lectura reduccionista que ignora la dinámica interna soberana. -->
 - [ ] D) Que careció de trascendencia práctica real al tratarse de una imitación artificial de La instauración del militarismo latorrista sin ningún tipo de base social en el territorio.
   <!-- feedback: Incorrecto. A pesar de las influencias conceptuales externas, el modelo uruguayo se adaptó y respondió de forma directa a su propia base social y conflictos de época. -->
@@ -466,13 +466,13 @@ La evaluación crítica de los saladeros de carne en el siglo XIX destaca el rol
 Al juzgar de manera integral el alcance histórico de Los caudillos como nexos de orden en la campaña, ¿cuál de las siguientes valoraciones cuenta con mayor sustento historiográfico?
 
 ### Opciones
-- [x] A) Que Los caudillos como nexos de orden en la campaña constituyó una respuesta clave que sentó las bases de el poder informal de base agraria, reconfigurando de forma duradera el orden estatal del país.
+- [x] D) Que Los caudillos como nexos de orden en la campaña constituyó una respuesta clave que sentó las bases de el poder informal de base agraria, reconfigurando de forma duradera el orden estatal del país.
   <!-- feedback: Correcto. Una evaluación de largo plazo demuestra que Los caudillos como nexos de orden en la campaña actuó como piedra angular para estructurar el poder informal de base agraria en el Uruguay moderno. -->
-- [ ] B) Que fue un retroceso absoluto porque toda la población uruguaya prefería continuar bajo las antiguas normas coloniales de El dominio administrativo de los jueces de paz urbanos.
+- [ ] A) Que fue un retroceso absoluto porque toda la población uruguaya prefería continuar bajo las antiguas normas coloniales de El dominio administrativo de los jueces de paz urbanos.
   <!-- feedback: Incorrecto. Las transformaciones republicanas, democráticas o sociales contaban con amplio arraigo e irreversibilidad, descartando el retorno a El dominio administrativo de los jueces de paz urbanos. -->
-- [ ] C) Que su único logro de largo plazo fue someter la soberanía nacional al arbitrio y control militar directo de La abolición de la ganadería extensiva.
+- [ ] B) Que su único logro de largo plazo fue someter la soberanía nacional al arbitrio y control militar directo de La abolición de la ganadería extensiva.
   <!-- feedback: Incorrecto. Sostener que Los caudillos como nexos de orden en la campaña solo sirvió para someter el país a La abolición de la ganadería extensiva es una lectura reduccionista que ignora la dinámica interna soberana. -->
-- [ ] D) Que careció de trascendencia práctica real al tratarse de una imitación artificial de La sumisión voluntaria al ejército brasileño sin ningún tipo de base social en el territorio.
+- [ ] C) Que careció de trascendencia práctica real al tratarse de una imitación artificial de La sumisión voluntaria al ejército brasileño sin ningún tipo de base social en el territorio.
   <!-- feedback: Incorrecto. A pesar de las influencias conceptuales externas, el modelo uruguayo se adaptó y respondió de forma directa a su propia base social y conflictos de época. -->
 
 ### Explicacion Pedagogica
@@ -490,13 +490,13 @@ La evaluación crítica de el papel de los caudillos en la campaña destaca el r
 Al juzgar de manera integral el alcance histórico de Juan Manuel de Rosas y su apoyo a Manuel Oribe, ¿cuál de las siguientes valoraciones cuenta con mayor sustento historiográfico?
 
 ### Opciones
-- [x] A) Que Juan Manuel de Rosas y su apoyo a Manuel Oribe constituyó una respuesta clave que sentó las bases de la intervención del federalismo porteño, reconfigurando de forma duradera el orden estatal del país.
+- [x] D) Que Juan Manuel de Rosas y su apoyo a Manuel Oribe constituyó una respuesta clave que sentó las bases de la intervención del federalismo porteño, reconfigurando de forma duradera el orden estatal del país.
   <!-- feedback: Correcto. Una evaluación de largo plazo demuestra que Juan Manuel de Rosas y su apoyo a Manuel Oribe actuó como piedra angular para estructurar la intervención del federalismo porteño en el Uruguay moderno. -->
-- [ ] B) Que fue un retroceso absoluto porque toda la población uruguaya prefería continuar bajo las antiguas normas coloniales de La defensa del puerto de Montevideo por Rosas.
+- [ ] A) Que fue un retroceso absoluto porque toda la población uruguaya prefería continuar bajo las antiguas normas coloniales de La defensa del puerto de Montevideo por Rosas.
   <!-- feedback: Incorrecto. Las transformaciones republicanas, democráticas o sociales contaban con amplio arraigo e irreversibilidad, descartando el retorno a La defensa del puerto de Montevideo por Rosas. -->
-- [ ] C) Que su único logro de largo plazo fue someter la soberanía nacional al arbitrio y control militar directo de La invasión de las milicias de Buenos Aires.
+- [ ] B) Que su único logro de largo plazo fue someter la soberanía nacional al arbitrio y control militar directo de La invasión de las milicias de Buenos Aires.
   <!-- feedback: Incorrecto. Sostener que Juan Manuel de Rosas y su apoyo a Manuel Oribe solo sirvió para someter el país a La invasión de las milicias de Buenos Aires es una lectura reduccionista que ignora la dinámica interna soberana. -->
-- [ ] D) Que careció de trascendencia práctica real al tratarse de una imitación artificial de La firma de la paz de forma definitiva con Inglaterra sin ningún tipo de base social en el territorio.
+- [ ] C) Que careció de trascendencia práctica real al tratarse de una imitación artificial de La firma de la paz de forma definitiva con Inglaterra sin ningún tipo de base social en el territorio.
   <!-- feedback: Incorrecto. A pesar de las influencias conceptuales externas, el modelo uruguayo se adaptó y respondió de forma directa a su propia base social y conflictos de época. -->
 
 ### Explicacion Pedagogica

@@ -50,13 +50,13 @@ La sílaba tónica es la que recibe mayor fuerza de voz al pronunciar una palabr
 ### Enunciado
 La palabra "café" se separa en sílabas como ca - fé. ¿Qué se entiende sobre su sílaba tónica y su tilde?
 ### Opciones
-- [x] A) Que la fuerza de voz está en la última sílaba y por eso lleva tilde.
+- [x] D) Que la fuerza de voz está en la última sílaba y por eso lleva tilde.
   <!-- feedback: Es correcta porque "fé" es la sílaba tónica y la palabra es aguda terminada en vocal. -->
-- [ ] B) Que la fuerza de voz está en la primera sílaba.
+- [ ] A) Que la fuerza de voz está en la primera sílaba.
   <!-- feedback: Es incorrecta porque "ca" se pronuncia más suave que "fé". -->
-- [ ] C) Que la tilde se escribe solo por gusto del que escribe.
+- [ ] B) Que la tilde se escribe solo por gusto del que escribe.
   <!-- feedback: Es incorrecta porque las tildes siguen reglas fijas de acentuación. -->
-- [ ] D) Que la palabra cambia de significado según la tilde.
+- [ ] C) Que la palabra cambia de significado según la tilde.
   <!-- feedback: Es incorrecta porque en "café" la tilde no cambia el significado de la palabra. -->
 ### Explicacion Pedagogica
 Entender la acentuación implica ubicar la sílaba tónica y revisar la terminación de la palabra. "Café" es aguda porque su fuerza de voz está en la última sílaba, y las palabras agudas terminadas en vocal llevan tilde. Esta regla explica por qué escribimos "café", "papá" y "sofá" con tilde.
@@ -70,9 +70,9 @@ Entender la acentuación implica ubicar la sílaba tónica y revisar la terminac
 ### Enunciado
 ¿Cuál de las tres palabras es aguda, es decir, tiene la fuerza de voz en la última sílaba?
 ### Opciones
-- [x] A) Violín.
+- [x] B) Violín.
   <!-- feedback: Es correcta porque su fuerza de voz está en "lín", la última sílaba. -->
-- [ ] B) Lápiz.
+- [ ] A) Lápiz.
   <!-- feedback: Es incorrecta porque su fuerza de voz está en "lá", la penúltima sílaba. -->
 - [ ] C) Música.
   <!-- feedback: Es incorrecta porque su fuerza de voz está en "mú", la antepenúltima sílaba. -->
@@ -90,13 +90,13 @@ Aplicar la clasificación de palabras exige separar cada una en sílabas y escuc
 ### Enunciado
 La palabra "árbol" es grave porque su fuerza de voz está en la penúltima sílaba. Según esa información, ¿cómo debe escribirse correctamente?
 ### Opciones
-- [x] A) Árbol, con tilde en la primera sílaba porque termina en consonante distinta de n o s.
+- [x] D) Árbol, con tilde en la primera sílaba porque termina en consonante distinta de n o s.
   <!-- feedback: Es correcta porque las palabras graves que no terminan en n o s llevan tilde. -->
-- [ ] B) Arbol, sin tilde porque las palabras graves nunca llevan tilde.
+- [ ] A) Arbol, sin tilde porque las palabras graves nunca llevan tilde.
   <!-- feedback: Es incorrecta porque muchas palabras graves sí llevan tilde. -->
-- [ ] C) Arbol, con tilde en la última sílaba.
+- [ ] B) Arbol, con tilde en la última sílaba.
   <!-- feedback: Es incorrecta porque la fuerza de voz no está en la última sílaba. -->
-- [ ] D) Àrbol, con acento en la consonante final.
+- [ ] C) Àrbol, con acento en la consonante final.
   <!-- feedback: Es incorrecta porque las tildes se marcan sobre vocales, no sobre consonantes. -->
 ### Explicacion Pedagogica
 Aplicar las reglas de acentuación requiere revisar dos datos: la sílaba tónica y la letra final. "Árbol" es una palabra grave terminada en la consonante "l", y las graves terminadas en consonante distinta de n o s llevan tilde. Escribir con cuidado estas palabras mejora la claridad de los textos escolares.
@@ -110,13 +110,13 @@ Aplicar las reglas de acentuación requiere revisar dos datos: la sílaba tónic
 ### Enunciado
 ¿Qué ocurre con las tildes de las tres palabras de la lista?
 ### Opciones
-- [x] A) Las tres llevan tilde: "papá" y "mamá" son agudas y "sábado" es esdrújula.
+- [x] D) Las tres llevan tilde: "papá" y "mamá" son agudas y "sábado" es esdrújula.
   <!-- feedback: Es correcta porque las agudas terminadas en vocal y todas las esdrújulas llevan tilde. -->
-- [ ] B) Solo "sábado" lleva tilde porque es la palabra más larga.
+- [ ] A) Solo "sábado" lleva tilde porque es la palabra más larga.
   <!-- feedback: Es incorrecta porque la longitud de la palabra no decide si lleva tilde. -->
-- [ ] C) Ninguna lleva tilde porque son palabras conocidas.
+- [ ] B) Ninguna lleva tilde porque son palabras conocidas.
   <!-- feedback: Es incorrecta porque las tres cumplen reglas de acentuación. -->
-- [ ] D) Solo "papá" lleva tilde porque termina en vocal.
+- [ ] C) Solo "papá" lleva tilde porque termina en vocal.
   <!-- feedback: Es incorrecta porque "mamá" también es aguda terminada en vocal. -->
 ### Explicacion Pedagogica
 Aplicar la acentuación en listas cotidianas permite comprobar dos reglas al mismo tiempo: las palabras agudas terminadas en vocal llevan tilde, como "papá" y "mamá", y las palabras esdrújulas siempre llevan tilde, como "sábado". Revisar la lista antes de usarla ayuda a escribir con mayor seguridad.
@@ -130,13 +130,13 @@ Aplicar la acentuación en listas cotidianas permite comprobar dos reglas al mis
 ### Enunciado
 Ana dice: "examen se escribe sin tilde". Luis dice: "examen debe llevar tilde porque suena fuerte al final". ¿Quién tiene razón y por qué?
 ### Opciones
-- [x] A) Ana, porque "examen" es grave terminada en "n" y las graves terminadas en n no llevan tilde.
+- [x] D) Ana, porque "examen" es grave terminada en "n" y las graves terminadas en n no llevan tilde.
   <!-- feedback: Es correcta porque la fuerza de voz está en la penúltima sílaba y termina en n. -->
-- [ ] B) Luis, porque todas las palabras terminadas en "n" llevan tilde.
+- [ ] A) Luis, porque todas las palabras terminadas en "n" llevan tilde.
   <!-- feedback: Es incorrecta porque muchas palabras terminadas en n no llevan tilde. -->
-- [ ] C) Luis, porque la fuerza de voz está en la última sílaba.
+- [ ] B) Luis, porque la fuerza de voz está en la última sílaba.
   <!-- feedback: Es incorrecta porque en "examen" la fuerza de voz está en la penúltima sílaba. -->
-- [ ] D) Ana, porque "examen" es una palabra aguda.
+- [ ] C) Ana, porque "examen" es una palabra aguda.
   <!-- feedback: Es incorrecta porque la palabra es grave, aunque la conclusión sobre la tilde sea correcta. -->
 ### Explicacion Pedagogica
 Analizar una discusión ortográfica exige comprobar cada afirmación con las reglas. "Examen" es grave porque su fuerza de voz cae en "xa", la penúltima sílaba, y termina en "n", por lo que no lleva tilde. Comparar los argumentos y verificar la regla permite defender la escritura correcta con razones y no con opiniones.
@@ -150,13 +150,13 @@ Analizar una discusión ortográfica exige comprobar cada afirmación con las re
 ### Enunciado
 ¿Qué se puede concluir sobre las tildes de las palabras "café" y "más" en el cartel?
 ### Opciones
-- [x] A) Las dos llevan tilde, pero por razones diferentes: "café" es aguda y "más" se distingue de "mas".
+- [x] D) Las dos llevan tilde, pero por razones diferentes: "café" es aguda y "más" se distingue de "mas".
   <!-- feedback: Es correcta porque cada tilde responde a una regla distinta. -->
-- [ ] B) Solo "café" lleva tilde porque es la única palabra que suena fuerte.
+- [ ] A) Solo "café" lleva tilde porque es la única palabra que suena fuerte.
   <!-- feedback: Es incorrecta porque "más" también aparece con tilde en el cartel. -->
-- [ ] C) Ninguna de las dos lleva tilde porque son palabras cortas.
+- [ ] B) Ninguna de las dos lleva tilde porque son palabras cortas.
   <!-- feedback: Es incorrecta porque la cantidad de letras no decide la acentuación. -->
-- [ ] D) Solo "más" lleva tilde porque termina en "s".
+- [ ] C) Solo "más" lleva tilde porque termina en "s".
   <!-- feedback: Es incorrecta porque "café" también lleva tilde en el cartel. -->
 ### Explicacion Pedagogica
 Analizar tildes exige distinguir el motivo de cada una. "Café" lleva tilde porque es aguda terminada en vocal, mientras que "más" la lleva para diferenciarse de "mas", que significa "pero". Reconocer que no todas las tildes obedecen a la misma regla amplía la comprensión de la ortografía.
@@ -170,9 +170,9 @@ Analizar tildes exige distinguir el motivo de cada una. "Café" lleva tilde porq
 ### Enunciado
 ¿Cuál de las oraciones está escrita correctamente según las reglas de acentuación?
 ### Opciones
-- [x] A) El lápiz está sobre la mesa y el árbol del patio crece mucho.
+- [x] B) El lápiz está sobre la mesa y el árbol del patio crece mucho.
   <!-- feedback: Es correcta porque "lápiz" y "árbol" son graves terminadas en consonante distinta de n o s. -->
-- [ ] B) El lapiz está sobre la mesa y el arbol del patio crece mucho.
+- [ ] A) El lapiz está sobre la mesa y el arbol del patio crece mucho.
   <!-- feedback: Es incorrecta porque omite las tildes de dos palabras graves. -->
 - [ ] C) El lápiz está sobre la mesa y el arbol del patio crece mucho.
   <!-- feedback: Es incorrecta porque deja sin tilde la palabra "árbol". -->

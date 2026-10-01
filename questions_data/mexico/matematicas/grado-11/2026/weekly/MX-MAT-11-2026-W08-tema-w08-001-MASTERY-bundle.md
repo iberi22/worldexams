@@ -30,13 +30,13 @@ creador: "Jules-Agent"
 Dada la función cuadrática f(x) = x² - 6x + 8, ¿cuáles son las coordenadas del vértice de la parábola asociada?
 
 ### Opciones
-- [x] A) (3, -1)
+- [x] D) (3, -1)
   <!-- feedback: ¡Correcto! La coordenada x del vértice es h = -b / (2a) = -(-6) / (2*1) = 3. Evaluando f(3) = 3² - 6(3) + 8 = 9 - 18 + 8 = -1. Por lo tanto, el vértice es (3, -1). -->
-- [ ] B) (-3, 35)
+- [ ] A) (-3, 35)
   <!-- feedback: Incorrecto. Se cometió un error al no considerar el signo de b en la fórmula del vértice. -->
-- [ ] C) (3, 8)
+- [ ] B) (3, 8)
   <!-- feedback: Incorrecto. Se tomó erróneamente el valor de la ordenada al origen c como coordenada y del vértice. -->
-- [ ] D) (2, 0)
+- [ ] C) (2, 0)
   <!-- feedback: Incorrecto. Esta es una de las intersecciones con el eje x, no el vértice de la parábola. -->
 
 ### Explicacion Pedagogica
@@ -53,13 +53,13 @@ Para una parábola y = ax² + bx + c, el vértice (h, k) se calcula con h = -b/(
 La altura del cohete sigue la función cuadrática h(t) = -2t² + 12t. ¿Cuál es la altura máxima en metros alcanzada por el cohete?
 
 ### Opciones
-- [x] A) 18 metros
+- [x] D) 18 metros
   <!-- feedback: ¡Correcto! El tiempo para la altura máxima es t = -12 / (2 * -2) = 3 segundos. Sustituyendo t = 3 en h(t): h(3) = -2(3)² + 12(3) = -18 + 36 = 18 metros. -->
-- [ ] B) 12 metros
+- [ ] A) 12 metros
   <!-- feedback: Incorrecto. Este valor corresponde a un tiempo de evaluación diferente al del vértice. -->
-- [ ] C) 24 metros
+- [ ] B) 24 metros
   <!-- feedback: Incorrecto. Error común al duplicar el valor de la ordenada sin realizar el cálculo cuadrático. -->
-- [ ] D) 16 metros
+- [ ] C) 16 metros
   <!-- feedback: Incorrecto. Se cometió un error en las operaciones de elevación al cuadrado. -->
 
 ### Explicacion Pedagogica
@@ -76,9 +76,9 @@ La función de altura es h(t) = -2t² + 12t. Dado que a < 0, la parábola abre h
 Determina si la parábola asociada a la función cuadrática f(x) = 3x² - 4x + 1 abre hacia arriba o hacia abajo.
 
 ### Opciones
-- [x] A) Abre hacia arriba porque el coeficiente principal es positivo.
+- [x] B) Abre hacia arriba porque el coeficiente principal es positivo.
   <!-- feedback: ¡Correcto! Dado que a > 0 en la función cuadrática, la parábola abre hacia arriba y presenta un valor mínimo en su vértice. -->
-- [ ] B) Abre hacia abajo porque el coeficiente principal es negativo.
+- [ ] A) Abre hacia abajo porque el coeficiente principal es negativo.
   <!-- feedback: Incorrecto. El coeficiente del término de segundo grado es un número estrictamente positivo. -->
 - [ ] C) Abre hacia la derecha de manera horizontal.
   <!-- feedback: Incorrecto. Las funciones cuadráticas de la forma y = ax² + bx + c solo abren verticalmente. -->
@@ -99,13 +99,13 @@ La concavidad de la parábola depende del signo del coeficiente principal a (té
 Determina si la parábola asociada a la función cuadrática f(x) = 4x² - 4x + 1 abre hacia arriba o hacia abajo.
 
 ### Opciones
-- [x] A) Abre hacia arriba porque el coeficiente principal es positivo.
+- [x] D) Abre hacia arriba porque el coeficiente principal es positivo.
   <!-- feedback: ¡Correcto! Dado que a > 0 en la función cuadrática, la parábola abre hacia arriba y presenta un valor mínimo en su vértice. -->
-- [ ] B) Abre hacia abajo porque el coeficiente principal es negativo.
+- [ ] A) Abre hacia abajo porque el coeficiente principal es negativo.
   <!-- feedback: Incorrecto. El coeficiente del término de segundo grado es un número estrictamente positivo. -->
-- [ ] C) Abre hacia la derecha de manera horizontal.
+- [ ] B) Abre hacia la derecha de manera horizontal.
   <!-- feedback: Incorrecto. Las funciones cuadráticas de la forma y = ax² + bx + c solo abren verticalmente. -->
-- [ ] D) Abre hacia la izquierda de manera horizontal.
+- [ ] C) Abre hacia la izquierda de manera horizontal.
   <!-- feedback: Incorrecto. Esta orientación no corresponde a una función cuadrática clásica de variable real. -->
 
 ### Explicacion Pedagogica
@@ -122,11 +122,11 @@ La concavidad de la parábola depende del signo del coeficiente principal a (té
 Determina si la parábola asociada a la función cuadrática f(x) = 5x² - 4x + 1 abre hacia arriba o hacia abajo.
 
 ### Opciones
-- [x] A) Abre hacia arriba porque el coeficiente principal es positivo.
+- [x] C) Abre hacia arriba porque el coeficiente principal es positivo.
   <!-- feedback: ¡Correcto! Dado que a > 0 en la función cuadrática, la parábola abre hacia arriba y presenta un valor mínimo en su vértice. -->
-- [ ] B) Abre hacia abajo porque el coeficiente principal es negativo.
+- [ ] A) Abre hacia abajo porque el coeficiente principal es negativo.
   <!-- feedback: Incorrecto. El coeficiente del término de segundo grado es un número estrictamente positivo. -->
-- [ ] C) Abre hacia la derecha de manera horizontal.
+- [ ] B) Abre hacia la derecha de manera horizontal.
   <!-- feedback: Incorrecto. Las funciones cuadráticas de la forma y = ax² + bx + c solo abren verticalmente. -->
 - [ ] D) Abre hacia la izquierda de manera horizontal.
   <!-- feedback: Incorrecto. Esta orientación no corresponde a una función cuadrática clásica de variable real. -->
@@ -145,9 +145,9 @@ La concavidad de la parábola depende del signo del coeficiente principal a (té
 Determina si la parábola asociada a la función cuadrática f(x) = 6x² - 4x + 1 abre hacia arriba o hacia abajo.
 
 ### Opciones
-- [x] A) Abre hacia arriba porque el coeficiente principal es positivo.
+- [x] B) Abre hacia arriba porque el coeficiente principal es positivo.
   <!-- feedback: ¡Correcto! Dado que a > 0 en la función cuadrática, la parábola abre hacia arriba y presenta un valor mínimo en su vértice. -->
-- [ ] B) Abre hacia abajo porque el coeficiente principal es negativo.
+- [ ] A) Abre hacia abajo porque el coeficiente principal es negativo.
   <!-- feedback: Incorrecto. El coeficiente del término de segundo grado es un número estrictamente positivo. -->
 - [ ] C) Abre hacia la derecha de manera horizontal.
   <!-- feedback: Incorrecto. Las funciones cuadráticas de la forma y = ax² + bx + c solo abren verticalmente. -->
@@ -168,11 +168,11 @@ La concavidad de la parábola depende del signo del coeficiente principal a (té
 Determina si la parábola asociada a la función cuadrática f(x) = 7x² - 4x + 1 abre hacia arriba o hacia abajo.
 
 ### Opciones
-- [x] A) Abre hacia arriba porque el coeficiente principal es positivo.
+- [x] C) Abre hacia arriba porque el coeficiente principal es positivo.
   <!-- feedback: ¡Correcto! Dado que a > 0 en la función cuadrática, la parábola abre hacia arriba y presenta un valor mínimo en su vértice. -->
-- [ ] B) Abre hacia abajo porque el coeficiente principal es negativo.
+- [ ] A) Abre hacia abajo porque el coeficiente principal es negativo.
   <!-- feedback: Incorrecto. El coeficiente del término de segundo grado es un número estrictamente positivo. -->
-- [ ] C) Abre hacia la derecha de manera horizontal.
+- [ ] B) Abre hacia la derecha de manera horizontal.
   <!-- feedback: Incorrecto. Las funciones cuadráticas de la forma y = ax² + bx + c solo abren verticalmente. -->
 - [ ] D) Abre hacia la izquierda de manera horizontal.
   <!-- feedback: Incorrecto. Esta orientación no corresponde a una función cuadrática clásica de variable real. -->
@@ -191,13 +191,13 @@ La concavidad de la parábola depende del signo del coeficiente principal a (té
 Determina si la parábola asociada a la función cuadrática f(x) = 8x² - 4x + 1 abre hacia arriba o hacia abajo.
 
 ### Opciones
-- [x] A) Abre hacia arriba porque el coeficiente principal es positivo.
+- [x] D) Abre hacia arriba porque el coeficiente principal es positivo.
   <!-- feedback: ¡Correcto! Dado que a > 0 en la función cuadrática, la parábola abre hacia arriba y presenta un valor mínimo en su vértice. -->
-- [ ] B) Abre hacia abajo porque el coeficiente principal es negativo.
+- [ ] A) Abre hacia abajo porque el coeficiente principal es negativo.
   <!-- feedback: Incorrecto. El coeficiente del término de segundo grado es un número estrictamente positivo. -->
-- [ ] C) Abre hacia la derecha de manera horizontal.
+- [ ] B) Abre hacia la derecha de manera horizontal.
   <!-- feedback: Incorrecto. Las funciones cuadráticas de la forma y = ax² + bx + c solo abren verticalmente. -->
-- [ ] D) Abre hacia la izquierda de manera horizontal.
+- [ ] C) Abre hacia la izquierda de manera horizontal.
   <!-- feedback: Incorrecto. Esta orientación no corresponde a una función cuadrática clásica de variable real. -->
 
 ### Explicacion Pedagogica
@@ -214,9 +214,9 @@ La concavidad de la parábola depende del signo del coeficiente principal a (té
 Determina si la parábola asociada a la función cuadrática f(x) = 9x² - 4x + 1 abre hacia arriba o hacia abajo.
 
 ### Opciones
-- [x] A) Abre hacia arriba porque el coeficiente principal es positivo.
+- [x] B) Abre hacia arriba porque el coeficiente principal es positivo.
   <!-- feedback: ¡Correcto! Dado que a > 0 en la función cuadrática, la parábola abre hacia arriba y presenta un valor mínimo en su vértice. -->
-- [ ] B) Abre hacia abajo porque el coeficiente principal es negativo.
+- [ ] A) Abre hacia abajo porque el coeficiente principal es negativo.
   <!-- feedback: Incorrecto. El coeficiente del término de segundo grado es un número estrictamente positivo. -->
 - [ ] C) Abre hacia la derecha de manera horizontal.
   <!-- feedback: Incorrecto. Las funciones cuadráticas de la forma y = ax² + bx + c solo abren verticalmente. -->
@@ -237,11 +237,11 @@ La concavidad de la parábola depende del signo del coeficiente principal a (té
 Determina si la parábola asociada a la función cuadrática f(x) = 10x² - 4x + 1 abre hacia arriba o hacia abajo.
 
 ### Opciones
-- [x] A) Abre hacia arriba porque el coeficiente principal es positivo.
+- [x] C) Abre hacia arriba porque el coeficiente principal es positivo.
   <!-- feedback: ¡Correcto! Dado que a > 0 en la función cuadrática, la parábola abre hacia arriba y presenta un valor mínimo en su vértice. -->
-- [ ] B) Abre hacia abajo porque el coeficiente principal es negativo.
+- [ ] A) Abre hacia abajo porque el coeficiente principal es negativo.
   <!-- feedback: Incorrecto. El coeficiente del término de segundo grado es un número estrictamente positivo. -->
-- [ ] C) Abre hacia la derecha de manera horizontal.
+- [ ] B) Abre hacia la derecha de manera horizontal.
   <!-- feedback: Incorrecto. Las funciones cuadráticas de la forma y = ax² + bx + c solo abren verticalmente. -->
 - [ ] D) Abre hacia la izquierda de manera horizontal.
   <!-- feedback: Incorrecto. Esta orientación no corresponde a una función cuadrática clásica de variable real. -->
@@ -260,11 +260,11 @@ La concavidad de la parábola depende del signo del coeficiente principal a (té
 Determina si la parábola asociada a la función cuadrática f(x) = 11x² - 4x + 1 abre hacia arriba o hacia abajo.
 
 ### Opciones
-- [x] A) Abre hacia arriba porque el coeficiente principal es positivo.
+- [x] C) Abre hacia arriba porque el coeficiente principal es positivo.
   <!-- feedback: ¡Correcto! Dado que a > 0 en la función cuadrática, la parábola abre hacia arriba y presenta un valor mínimo en su vértice. -->
-- [ ] B) Abre hacia abajo porque el coeficiente principal es negativo.
+- [ ] A) Abre hacia abajo porque el coeficiente principal es negativo.
   <!-- feedback: Incorrecto. El coeficiente del término de segundo grado es un número estrictamente positivo. -->
-- [ ] C) Abre hacia la derecha de manera horizontal.
+- [ ] B) Abre hacia la derecha de manera horizontal.
   <!-- feedback: Incorrecto. Las funciones cuadráticas de la forma y = ax² + bx + c solo abren verticalmente. -->
 - [ ] D) Abre hacia la izquierda de manera horizontal.
   <!-- feedback: Incorrecto. Esta orientación no corresponde a una función cuadrática clásica de variable real. -->
@@ -283,9 +283,9 @@ La concavidad de la parábola depende del signo del coeficiente principal a (té
 Determina si la parábola asociada a la función cuadrática f(x) = 12x² - 4x + 1 abre hacia arriba o hacia abajo.
 
 ### Opciones
-- [x] A) Abre hacia arriba porque el coeficiente principal es positivo.
+- [x] B) Abre hacia arriba porque el coeficiente principal es positivo.
   <!-- feedback: ¡Correcto! Dado que a > 0 en la función cuadrática, la parábola abre hacia arriba y presenta un valor mínimo en su vértice. -->
-- [ ] B) Abre hacia abajo porque el coeficiente principal es negativo.
+- [ ] A) Abre hacia abajo porque el coeficiente principal es negativo.
   <!-- feedback: Incorrecto. El coeficiente del término de segundo grado es un número estrictamente positivo. -->
 - [ ] C) Abre hacia la derecha de manera horizontal.
   <!-- feedback: Incorrecto. Las funciones cuadráticas de la forma y = ax² + bx + c solo abren verticalmente. -->
@@ -306,11 +306,11 @@ La concavidad de la parábola depende del signo del coeficiente principal a (té
 Determina si la parábola asociada a la función cuadrática f(x) = 13x² - 4x + 1 abre hacia arriba o hacia abajo.
 
 ### Opciones
-- [x] A) Abre hacia arriba porque el coeficiente principal es positivo.
+- [x] C) Abre hacia arriba porque el coeficiente principal es positivo.
   <!-- feedback: ¡Correcto! Dado que a > 0 en la función cuadrática, la parábola abre hacia arriba y presenta un valor mínimo en su vértice. -->
-- [ ] B) Abre hacia abajo porque el coeficiente principal es negativo.
+- [ ] A) Abre hacia abajo porque el coeficiente principal es negativo.
   <!-- feedback: Incorrecto. El coeficiente del término de segundo grado es un número estrictamente positivo. -->
-- [ ] C) Abre hacia la derecha de manera horizontal.
+- [ ] B) Abre hacia la derecha de manera horizontal.
   <!-- feedback: Incorrecto. Las funciones cuadráticas de la forma y = ax² + bx + c solo abren verticalmente. -->
 - [ ] D) Abre hacia la izquierda de manera horizontal.
   <!-- feedback: Incorrecto. Esta orientación no corresponde a una función cuadrática clásica de variable real. -->
@@ -352,9 +352,9 @@ La concavidad de la parábola depende del signo del coeficiente principal a (té
 Determina si la parábola asociada a la función cuadrática f(x) = 15x² - 4x + 1 abre hacia arriba o hacia abajo.
 
 ### Opciones
-- [x] A) Abre hacia arriba porque el coeficiente principal es positivo.
+- [x] B) Abre hacia arriba porque el coeficiente principal es positivo.
   <!-- feedback: ¡Correcto! Dado que a > 0 en la función cuadrática, la parábola abre hacia arriba y presenta un valor mínimo en su vértice. -->
-- [ ] B) Abre hacia abajo porque el coeficiente principal es negativo.
+- [ ] A) Abre hacia abajo porque el coeficiente principal es negativo.
   <!-- feedback: Incorrecto. El coeficiente del término de segundo grado es un número estrictamente positivo. -->
 - [ ] C) Abre hacia la derecha de manera horizontal.
   <!-- feedback: Incorrecto. Las funciones cuadráticas de la forma y = ax² + bx + c solo abren verticalmente. -->
@@ -375,11 +375,11 @@ La concavidad de la parábola depende del signo del coeficiente principal a (té
 Determina si la parábola asociada a la función cuadrática f(x) = 16x² - 4x + 1 abre hacia arriba o hacia abajo.
 
 ### Opciones
-- [x] A) Abre hacia arriba porque el coeficiente principal es positivo.
+- [x] C) Abre hacia arriba porque el coeficiente principal es positivo.
   <!-- feedback: ¡Correcto! Dado que a > 0 en la función cuadrática, la parábola abre hacia arriba y presenta un valor mínimo en su vértice. -->
-- [ ] B) Abre hacia abajo porque el coeficiente principal es negativo.
+- [ ] A) Abre hacia abajo porque el coeficiente principal es negativo.
   <!-- feedback: Incorrecto. El coeficiente del término de segundo grado es un número estrictamente positivo. -->
-- [ ] C) Abre hacia la derecha de manera horizontal.
+- [ ] B) Abre hacia la derecha de manera horizontal.
   <!-- feedback: Incorrecto. Las funciones cuadráticas de la forma y = ax² + bx + c solo abren verticalmente. -->
 - [ ] D) Abre hacia la izquierda de manera horizontal.
   <!-- feedback: Incorrecto. Esta orientación no corresponde a una función cuadrática clásica de variable real. -->
@@ -398,9 +398,9 @@ La concavidad de la parábola depende del signo del coeficiente principal a (té
 Determina si la parábola asociada a la función cuadrática f(x) = 17x² - 4x + 1 abre hacia arriba o hacia abajo.
 
 ### Opciones
-- [x] A) Abre hacia arriba porque el coeficiente principal es positivo.
+- [x] B) Abre hacia arriba porque el coeficiente principal es positivo.
   <!-- feedback: ¡Correcto! Dado que a > 0 en la función cuadrática, la parábola abre hacia arriba y presenta un valor mínimo en su vértice. -->
-- [ ] B) Abre hacia abajo porque el coeficiente principal es negativo.
+- [ ] A) Abre hacia abajo porque el coeficiente principal es negativo.
   <!-- feedback: Incorrecto. El coeficiente del término de segundo grado es un número estrictamente positivo. -->
 - [ ] C) Abre hacia la derecha de manera horizontal.
   <!-- feedback: Incorrecto. Las funciones cuadráticas de la forma y = ax² + bx + c solo abren verticalmente. -->
@@ -421,11 +421,11 @@ La concavidad de la parábola depende del signo del coeficiente principal a (té
 Determina si la parábola asociada a la función cuadrática f(x) = 18x² - 4x + 1 abre hacia arriba o hacia abajo.
 
 ### Opciones
-- [x] A) Abre hacia arriba porque el coeficiente principal es positivo.
+- [x] C) Abre hacia arriba porque el coeficiente principal es positivo.
   <!-- feedback: ¡Correcto! Dado que a > 0 en la función cuadrática, la parábola abre hacia arriba y presenta un valor mínimo en su vértice. -->
-- [ ] B) Abre hacia abajo porque el coeficiente principal es negativo.
+- [ ] A) Abre hacia abajo porque el coeficiente principal es negativo.
   <!-- feedback: Incorrecto. El coeficiente del término de segundo grado es un número estrictamente positivo. -->
-- [ ] C) Abre hacia la derecha de manera horizontal.
+- [ ] B) Abre hacia la derecha de manera horizontal.
   <!-- feedback: Incorrecto. Las funciones cuadráticas de la forma y = ax² + bx + c solo abren verticalmente. -->
 - [ ] D) Abre hacia la izquierda de manera horizontal.
   <!-- feedback: Incorrecto. Esta orientación no corresponde a una función cuadrática clásica de variable real. -->
@@ -444,13 +444,13 @@ La concavidad de la parábola depende del signo del coeficiente principal a (té
 Determina si la parábola asociada a la función cuadrática f(x) = 19x² - 4x + 1 abre hacia arriba o hacia abajo.
 
 ### Opciones
-- [x] A) Abre hacia arriba porque el coeficiente principal es positivo.
+- [x] D) Abre hacia arriba porque el coeficiente principal es positivo.
   <!-- feedback: ¡Correcto! Dado que a > 0 en la función cuadrática, la parábola abre hacia arriba y presenta un valor mínimo en su vértice. -->
-- [ ] B) Abre hacia abajo porque el coeficiente principal es negativo.
+- [ ] A) Abre hacia abajo porque el coeficiente principal es negativo.
   <!-- feedback: Incorrecto. El coeficiente del término de segundo grado es un número estrictamente positivo. -->
-- [ ] C) Abre hacia la derecha de manera horizontal.
+- [ ] B) Abre hacia la derecha de manera horizontal.
   <!-- feedback: Incorrecto. Las funciones cuadráticas de la forma y = ax² + bx + c solo abren verticalmente. -->
-- [ ] D) Abre hacia la izquierda de manera horizontal.
+- [ ] C) Abre hacia la izquierda de manera horizontal.
   <!-- feedback: Incorrecto. Esta orientación no corresponde a una función cuadrática clásica de variable real. -->
 
 ### Explicacion Pedagogica

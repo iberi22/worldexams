@@ -57,11 +57,11 @@ Identificación de los nombres estandarizados de las transiciones de fase de la 
 ¿Qué característica distingue al estado líquido frente al estado sólido respecto a la forma que adoptan?
 
 ### Opciones
-- [x] A) El líquido no tiene forma propia y se adapta al recipiente que lo contiene, mientras el sólido mantiene forma definida.
+- [x] C) El líquido no tiene forma propia y se adapta al recipiente que lo contiene, mientras el sólido mantiene forma definida.
   <!-- feedback: Los líquidos fluyen y toman la forma del recipiente; los sólidos conservan su forma y volumen. -->
-- [ ] B) El líquido mantiene siempre una forma cúbica sin importar el vaso.
+- [ ] A) El líquido mantiene siempre una forma cúbica sin importar el vaso.
   <!-- feedback: Los líquidos carecen de forma fija propia. -->
-- [ ] C) El sólido se expande para ocupar todo el espacio disponible en el salón.
+- [ ] B) El sólido se expande para ocupar todo el espacio disponible en el salón.
   <!-- feedback: La expansión total para ocupar el volumen es propia de los gases, no de los sólidos. -->
 - [ ] D) El líquido es completamente invisible a la vista humana.
   <!-- feedback: Los líquidos son visibles y poseen volumen determinado. -->
@@ -103,13 +103,13 @@ Aplicación del modelo corpuscular para explicar la compresibilidad de los gases
 ¿En qué momento ocurre el cambio de estado conocido como ebullición?
 
 ### Opciones
-- [x] A) Cuando el líquido alcanza la temperatura de ebullición y se transforma masivamente en gas en toda su masa.
+- [x] D) Cuando el líquido alcanza la temperatura de ebullición y se transforma masivamente en gas en toda su masa.
   <!-- feedback: La ebullición es la vaporización rápida y tumultuosa en toda la masa del líquido al alcanzar su punto de ebullición. -->
-- [ ] B) Cuando el agua alcanza los 0 °C y se congela rápidamente.
+- [ ] A) Cuando el agua alcanza los 0 °C y se congela rápidamente.
   <!-- feedback: 0 °C a nivel del mar es la temperatura de congelación (solidificación). -->
-- [ ] C) Únicamente cuando la olla está tapada con hule transparente.
+- [ ] B) Únicamente cuando la olla está tapada con hule transparente.
   <!-- feedback: La ebullición depende de la temperatura y la presión, no del material de la tapa. -->
-- [ ] D) Cuando las partículas de líquido dejan de moverse por completo.
+- [ ] C) Cuando las partículas de líquido dejan de moverse por completo.
   <!-- feedback: El paso a gas aumenta la energía cinética y movimiento de las partículas. -->
 
 ### Explicacion Pedagogica
@@ -126,9 +126,9 @@ Diferenciación entre evaporación superficial y ebullición masiva como modalid
 ¿Qué fenómeno físico explica la formación de estas gotas de agua en los vidrios fríos?
 
 ### Opciones
-- [x] A) Condensación del vapor de agua del aire al entrar en contacto con la superficie fría del vidrio.
+- [x] B) Condensación del vapor de agua del aire al entrar en contacto con la superficie fría del vidrio.
   <!-- feedback: El vapor de agua gaseoso en el aire pierde calor al tocar el vidrio frío y pasa a líquido. -->
-- [ ] B) Fusión de la madera del marco de la ventana por la luz solar.
+- [ ] A) Fusión de la madera del marco de la ventana por la luz solar.
   <!-- feedback: Las gotas son de agua condensada, no de madera fundida. -->
 - [ ] C) Filtración del agua del grifo a través del vidrio sólido.
   <!-- feedback: El vidrio no es poroso para dejar filtrar agua del grifo de la casa. -->
@@ -172,13 +172,13 @@ Análisis de datos de cambios de fase para comprender el concepto de calor laten
 ¿En cuál de las tres sustancias las fuerzas de atracción entre sus partículas son más intensas?
 
 ### Opciones
-- [x] A) En el hierro, porque sus partículas forman una red rígida compacta.
+- [x] D) En el hierro, porque sus partículas forman una red rígida compacta.
   <!-- feedback: Los sólidos presentan las fuerzas de cohesión interparticular más fuertes, manteniendo posiciones fijas. -->
-- [ ] B) En el oxígeno, porque flota libremente en la atmósfera.
+- [ ] A) En el oxígeno, porque flota libremente en la atmósfera.
   <!-- feedback: En los gases las fuerzas de atracción son casi nulas, permitiendo que las partículas se separen. -->
-- [ ] C) En el aceite, porque es una sustancia viscosa sin partículas.
+- [ ] B) En el aceite, porque es una sustancia viscosa sin partículas.
   <!-- feedback: Toda la materia está compuesta por partículas; los líquidos tienen fuerzas intermedias. -->
-- [ ] D) Las fuerzas de atracción son idénticas en todas las sustancias del universo.
+- [ ] C) Las fuerzas de atracción son idénticas en todas las sustancias del universo.
   <!-- feedback: La magnitud de las fuerzas interparticulares determina el estado físico de la materia. -->
 
 ### Explicacion Pedagogica
@@ -195,11 +195,11 @@ Análisis comparativo de la intensidad de las fuerzas interparticulares según e
 ¿Cuál es la explicación científica que evalúa correctamente este comportamiento?
 
 ### Opciones
-- [x] A) Ocurre sublimación directa, donde la naftalina sólida pasa al estado gaseoso sin pasar por el estado líquido.
+- [x] C) Ocurre sublimación directa, donde la naftalina sólida pasa al estado gaseoso sin pasar por el estado líquido.
   <!-- feedback: La sublimación es la transición directa de la fase sólida a la fase gaseosa. -->
-- [ ] B) La naftalina se disuelve en los hilos de la ropa cambiando de color.
+- [ ] A) La naftalina se disuelve en los hilos de la ropa cambiando de color.
   <!-- feedback: La ropa no disuelve la naftalina; el sólido se evapora directamente al aire. -->
-- [ ] C) Los insectos se comieron todo el sólido sin dejar residuos.
+- [ ] B) Los insectos se comieron todo el sólido sin dejar residuos.
   <!-- feedback: La naftalina justamente repele a las polillas mediante su gas volátil tóxico. -->
 - [ ] D) Ocurre condensación instantánea por falta de luz solar en el armario.
   <!-- feedback: La condensación es el paso de gas a líquido, no de sólido a gas. -->

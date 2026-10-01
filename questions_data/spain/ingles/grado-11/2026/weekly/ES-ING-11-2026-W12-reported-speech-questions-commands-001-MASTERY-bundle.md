@@ -32,9 +32,9 @@ bundle_index: 1
 What is the English word for: "A place where you live or stay on holiday."
 
 ### Opciones
-- [x] A) accommodation
+- [x] B) accommodation
   <!-- feedback: Correct! 'accommodation' matches the definition. -->
-- [ ] B) transportation
+- [ ] A) transportation
   <!-- feedback: Incorrect. Try again. -->
 - [ ] C) entertainment
   <!-- feedback: Incorrect. Try again. -->
@@ -55,9 +55,9 @@ The word 'accommodation' is used to describe a place where you live or stay on h
 What is the English word for: "A detailed plan or route of a journey."
 
 ### Opciones
-- [x] A) itinerary
+- [x] B) itinerary
   <!-- feedback: Correct! 'itinerary' matches the definition. -->
-- [ ] B) baggage
+- [ ] A) baggage
   <!-- feedback: Incorrect. Try again. -->
 - [ ] C) destination
   <!-- feedback: Incorrect. Try again. -->
@@ -124,11 +124,11 @@ The word 'luggage' is used to describe suitcases or other bags in which to pack 
 What is the English word for: "A traveler on a public or private conveyance other than the driver, pilot, or crew."
 
 ### Opciones
-- [x] A) passenger
+- [x] C) passenger
   <!-- feedback: Correct! 'passenger' matches the definition. -->
-- [ ] B) pedestrian
+- [ ] A) pedestrian
   <!-- feedback: Incorrect. Try again. -->
-- [ ] C) commuter
+- [ ] B) commuter
   <!-- feedback: Incorrect. Try again. -->
 - [ ] D) tourist
   <!-- feedback: Incorrect. Try again. -->
@@ -147,13 +147,13 @@ The word 'passenger' is used to describe a traveler on a public or private conve
 What is the English word for: "The place at a port, airport, or frontier where officials check incoming goods, travelers, or luggage."
 
 ### Opciones
-- [x] A) customs
+- [x] D) customs
   <!-- feedback: Correct! 'customs' matches the definition. -->
-- [ ] B) security
+- [ ] A) security
   <!-- feedback: Incorrect. Try again. -->
-- [ ] C) terminal
+- [ ] B) terminal
   <!-- feedback: Incorrect. Try again. -->
-- [ ] D) gate
+- [ ] C) gate
   <!-- feedback: Incorrect. Try again. -->
 
 ### Explicacion Pedagogica
@@ -170,11 +170,11 @@ The word 'customs' is used to describe the place at a port, airport, or frontier
 What is the English word for: "A document provided by an airline during check-in, giving a passenger permission to board the airplane."
 
 ### Opciones
-- [x] A) boarding pass
+- [x] C) boarding pass
   <!-- feedback: Correct! 'boarding pass' matches the definition. -->
-- [ ] B) visa
+- [ ] A) visa
   <!-- feedback: Incorrect. Try again. -->
-- [ ] C) receipt
+- [ ] B) receipt
   <!-- feedback: Incorrect. Try again. -->
 - [ ] D) brochure
   <!-- feedback: Incorrect. Try again. -->
@@ -285,9 +285,9 @@ The word 'check-in' is used to describe the act of reporting one's presence and 
 What is the English word for: "A period of rest or waiting before a further stage in a journey."
 
 ### Opciones
-- [x] A) layover
+- [x] B) layover
   <!-- feedback: Correct! 'layover' matches the definition. -->
-- [ ] B) stopover
+- [ ] A) stopover
   <!-- feedback: Incorrect. Try again. -->
 - [ ] C) transfer
   <!-- feedback: Incorrect. Try again. -->
@@ -308,11 +308,11 @@ The word 'layover' is used to describe a period of rest or waiting before a furt
 What is the English word for: "A system of money in general use in a particular country."
 
 ### Opciones
-- [x] A) currency
+- [x] C) currency
   <!-- feedback: Correct! 'currency' matches the definition. -->
-- [ ] B) coin
+- [ ] A) coin
   <!-- feedback: Incorrect. Try again. -->
-- [ ] C) banknote
+- [ ] B) banknote
   <!-- feedback: Incorrect. Try again. -->
 - [ ] D) cash
   <!-- feedback: Incorrect. Try again. -->
@@ -331,13 +331,13 @@ The word 'currency' is used to describe a system of money in general use in a pa
 What is the English word for: "A book of information about a place designed for the use of visitors or tourists."
 
 ### Opciones
-- [x] A) guidebook
+- [x] D) guidebook
   <!-- feedback: Correct! 'guidebook' matches the definition. -->
-- [ ] B) map
+- [ ] A) map
   <!-- feedback: Incorrect. Try again. -->
-- [ ] C) dictionary
+- [ ] B) dictionary
   <!-- feedback: Incorrect. Try again. -->
-- [ ] D) encyclopedia
+- [ ] C) encyclopedia
   <!-- feedback: Incorrect. Try again. -->
 
 ### Explicacion Pedagogica
@@ -377,11 +377,11 @@ The word 'backpack' is used to describe a bag with shoulder straps that allow it
 What is the English word for: "In or to a foreign country, especially one across the sea."
 
 ### Opciones
-- [x] A) overseas
+- [x] C) overseas
   <!-- feedback: Correct! 'overseas' matches the definition. -->
-- [ ] B) domestic
+- [ ] A) domestic
   <!-- feedback: Incorrect. Try again. -->
-- [ ] C) local
+- [ ] B) local
   <!-- feedback: Incorrect. Try again. -->
 - [ ] D) national
   <!-- feedback: Incorrect. Try again. -->
@@ -400,9 +400,9 @@ The word 'overseas' is used to describe in or to a foreign country, especially o
 What is the English word for: "An estimate of income and expenditure for a set period of time."
 
 ### Opciones
-- [x] A) budget
+- [x] B) budget
   <!-- feedback: Correct! 'budget' matches the definition. -->
-- [ ] B) expense
+- [ ] A) expense
   <!-- feedback: Incorrect. Try again. -->
 - [ ] C) cost
   <!-- feedback: Incorrect. Try again. -->
@@ -446,9 +446,9 @@ The word 'insurance' is used to describe a practice or arrangement by which a co
 What is the English word for: "Treatment with a vaccine to produce immunity against a disease."
 
 ### Opciones
-- [x] A) vaccination
+- [x] B) vaccination
   <!-- feedback: Correct! 'vaccination' matches the definition. -->
-- [ ] B) medication
+- [ ] A) medication
   <!-- feedback: Incorrect. Try again. -->
 - [ ] C) prescription
   <!-- feedback: Incorrect. Try again. -->
@@ -469,13 +469,13 @@ The word 'vaccination' is used to describe treatment with a vaccine to produce i
 What is the English word for: "Extreme tiredness and other physical effects felt by a person after a long flight across several time zones."
 
 ### Opciones
-- [x] A) jet lag
+- [x] D) jet lag
   <!-- feedback: Correct! 'jet lag' matches the definition. -->
-- [ ] B) fatigue
+- [ ] A) fatigue
   <!-- feedback: Incorrect. Try again. -->
-- [ ] C) exhaustion
+- [ ] B) exhaustion
   <!-- feedback: Incorrect. Try again. -->
-- [ ] D) insomnia
+- [ ] C) insomnia
   <!-- feedback: Incorrect. Try again. -->
 
 ### Explicacion Pedagogica

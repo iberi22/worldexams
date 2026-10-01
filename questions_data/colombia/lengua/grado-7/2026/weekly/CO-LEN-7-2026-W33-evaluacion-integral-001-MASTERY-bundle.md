@@ -31,9 +31,9 @@ creador: "Jules-Agent"
 
 ### Opciones
 - [ ] A) Que todos son textos informativos de carácter científico. <!-- feedback: La caricatura y la publicidad no son necesariamente científicas. -->
-- [x] B) Que combinan el lenguaje verbal con otros sistemas de signos (imágenes, gráficos, colores). <!-- feedback: La multimodalidad es la característica compartida que requiere habilidades de lectura visual y textual. -->
-- [ ] C) Que todos fueron inventados después de la creación de internet. <!-- feedback: La caricatura y la publicidad existen desde mucho antes que internet. -->
-- [ ] D) Que no utilizan palabras para transmitir sus mensajes. <!-- feedback: Todos estos textos utilizan palabras, pero las combinan con otros modos. -->
+- [x] D) Que combinan el lenguaje verbal con otros sistemas de signos (imágenes, gráficos, colores). <!-- feedback: La multimodalidad es la característica compartida que requiere habilidades de lectura visual y textual. -->
+- [ ] B) Que todos fueron inventados después de la creación de internet. <!-- feedback: La caricatura y la publicidad existen desde mucho antes que internet. -->
+- [ ] C) Que no utilizan palabras para transmitir sus mensajes. <!-- feedback: Todos estos textos utilizan palabras, pero las combinan con otros modos. -->
 
 ### Explicacion Pedagogica
 Los textos multimodales integran diversos modos semióticos. Para comprenderlos integralmente, el lector debe ser capaz de relacionar lo que dicen las palabras con lo que muestran las imágenes o gráficos.
@@ -49,9 +49,9 @@ Los textos multimodales integran diversos modos semióticos. Para comprenderlos 
 ¿A qué tipo de texto multimodal corresponde la estructura descrita?
 
 ### Opciones
-- [ ] A) Noticia periodística. <!-- feedback: Una noticia suele tener lead y cuerpo, no un eslogan de marca. -->
-- [ ] B) Infografía técnica. <!-- feedback: Una infografía suele tener un cuerpo con datos y procesos, no solo una imagen de producto. -->
-- [x] C) Texto publicitario. <!-- feedback: El eslogan y la imagen de producto son elementos distintivos de la publicidad. -->
+- [ ] B) Noticia periodística. <!-- feedback: Una noticia suele tener lead y cuerpo, no un eslogan de marca. -->
+- [ ] C) Infografía técnica. <!-- feedback: Una infografía suele tener un cuerpo con datos y procesos, no solo una imagen de producto. -->
+- [x] A) Texto publicitario. <!-- feedback: El eslogan y la imagen de producto son elementos distintivos de la publicidad. -->
 - [ ] D) Gráfico de barras. <!-- feedback: Un gráfico representa datos numéricos, no usa eslóganes. -->
 
 ### Explicacion Pedagogica
@@ -69,9 +69,9 @@ Cada tipo de texto multimodal tiene una silueta o estructura característica que
 
 ### Opciones
 - [ ] A) La caricatura desmiente los datos de la noticia. <!-- feedback: La caricatura apoya visualmente el concepto de la noticia mediante una metáfora. -->
-- [x] B) La caricatura ilustra y critica el dato estadístico mediante una metáfora visual del globo. <!-- feedback: La imagen ayuda a comprender la "presión" de la inflación que menciona la cifra. -->
-- [ ] C) Son dos temas completamente diferentes que no deberían estar juntos. <!-- feedback: Ambos tratan sobre el aumento de precios y la situación económica. -->
-- [ ] D) El texto es serio y la imagen es solo para que los niños entiendan. <!-- feedback: La caricatura es un género de opinión para adultos y jóvenes, no solo un recurso infantil. -->
+- [x] D) La caricatura ilustra y critica el dato estadístico mediante una metáfora visual del globo. <!-- feedback: La imagen ayuda a comprender la "presión" de la inflación que menciona la cifra. -->
+- [ ] B) Son dos temas completamente diferentes que no deberían estar juntos. <!-- feedback: Ambos tratan sobre el aumento de precios y la situación económica. -->
+- [ ] C) El texto es serio y la imagen es solo para que los niños entiendan. <!-- feedback: La caricatura es un género de opinión para adultos y jóvenes, no solo un recurso infantil. -->
 
 ### Explicacion Pedagogica
 En el periodismo, los diferentes géneros (noticia y caricatura de opinión) suelen complementarse para ofrecer una visión de los hechos y una interpretación crítica de los mismos.
@@ -87,8 +87,8 @@ En el periodismo, los diferentes géneros (noticia y caricatura de opinión) sue
 ¿Por qué se dice que el lenguaje de la infografía es "sintético"?
 
 ### Opciones
-- [ ] A) Porque está hecho de materiales artificiales. <!-- feedback: Es una confusión con el sentido químico de la palabra. -->
-- [x] B) Porque resume y condensa la información para que sea rápida de leer. <!-- feedback: La síntesis es la capacidad de expresar lo esencial con pocos elementos, en este caso, visuales y textuales. -->
+- [ ] B) Porque está hecho de materiales artificiales. <!-- feedback: Es una confusión con el sentido químico de la palabra. -->
+- [x] A) Porque resume y condensa la información para que sea rápida de leer. <!-- feedback: La síntesis es la capacidad de expresar lo esencial con pocos elementos, en este caso, visuales y textuales. -->
 - [ ] C) Porque utiliza palabras muy difíciles que solo los expertos entienden. <!-- feedback: Al contrario, busca la claridad y la accesibilidad para un público amplio. -->
 - [ ] D) Porque solo utiliza colores primarios. <!-- feedback: La síntesis se refiere a la brevedad y precisión de la información, no a la paleta de colores. -->
 
@@ -108,8 +108,8 @@ La lectura de textos sintéticos requiere que el lector sea capaz de extraer el 
 ### Opciones
 - [ ] A) Un solo gráfico de torta con los porcentajes de basura. <!-- feedback: El gráfico no informa los días ni hace la denuncia de manera clara. -->
 - [ ] B) Una caricatura de un vecino tirando escombros. <!-- feedback: Cumple con la denuncia, pero no informa sobre los horarios de recolección. -->
-- [x] C) Una infografía con los horarios y una caricatura crítica sobre el manejo de escombros. <!-- feedback: Esta combinación utiliza el género informativo (infografía) y el de opinión (caricatura) para cubrir ambos propósitos. -->
-- [ ] D) Un anuncio publicitario que venda bolsas de basura. <!-- feedback: El objetivo no es vender un producto, sino informar y concienciar a la comunidad. -->
+- [x] D) Una infografía con los horarios y una caricatura crítica sobre el manejo de escombros. <!-- feedback: Esta combinación utiliza el género informativo (infografía) y el de opinión (caricatura) para cubrir ambos propósitos. -->
+- [ ] C) Un anuncio publicitario que venda bolsas de basura. <!-- feedback: El objetivo no es vender un producto, sino informar y concienciar a la comunidad. -->
 
 ### Explicacion Pedagogica
 La selección de géneros textuales depende de la intención comunicativa. Para propósitos múltiples, a menudo es necesario combinar diferentes formatos que se adapten a la naturaleza de cada mensaje.
@@ -146,8 +146,8 @@ La publicidad "toma prestados" recursos de otros géneros (como los gráficos es
 ### Opciones
 - [ ] A) El colegio es el mejor en Matemáticas porque el promedio subió. <!-- feedback: La conclusión es incompleta porque ignora el dato del 40% de ausentes. -->
 - [ ] B) Las Matemáticas son muy fáciles según los datos presentados. <!-- feedback: Los datos de una tabla no califican la dificultad de una asignatura en sí. -->
-- [x] C) El aumento del promedio podría no ser representativo de todo el colegio debido a la alta inasistencia. <!-- feedback: La nota al pie ofrece un contexto crítico que matiza o pone en duda la tendencia positiva de la tabla principal. -->
-- [ ] D) La nota al pie de página es un error de impresión y no debe leerse. <!-- feedback: Las notas al pie son información fundamental para la interpretación correcta de los datos. -->
+- [x] D) El aumento del promedio podría no ser representativo de todo el colegio debido a la alta inasistencia. <!-- feedback: La nota al pie ofrece un contexto crítico que matiza o pone en duda la tendencia positiva de la tabla principal. -->
+- [ ] C) La nota al pie de página es un error de impresión y no debe leerse. <!-- feedback: Las notas al pie son información fundamental para la interpretación correcta de los datos. -->
 
 ### Explicacion Pedagogica
 La lectura crítica de tablas exige integrar la información principal con las aclaraciones o notas marginales, las cuales suelen contener los límites o condiciones de los datos presentados.
@@ -164,9 +164,9 @@ La lectura crítica de tablas exige integrar la información principal con las a
 
 ### Opciones
 - [ ] A) Que los periodistas deberían estudiar más sobre hormigas e insectos. <!-- feedback: Es una interpretación literal que ignora el sentido metafórico de la caricatura. -->
-- [x] B) Que el periodismo a veces se enfoca en detalles insignificantes o sensacionalistas y pierde de vista lo verdaderamente importante. <!-- feedback: La lupa sobre la hormiga simboliza la pérdida de perspectiva y la distorsión del hecho principal. -->
-- [ ] C) Que las lupas son herramientas necesarias para que los periodistas vean mejor. <!-- feedback: La lupa es aquí un símbolo de la atención selectiva y sesgada del comunicador. -->
-- [ ] D) Que no hay noticias interesantes, por eso hay que inventarlas con hormigas. <!-- feedback: El tema es la jerarquización y el enfoque de la información, no la falta de noticias. -->
+- [x] D) Que el periodismo a veces se enfoca en detalles insignificantes o sensacionalistas y pierde de vista lo verdaderamente importante. <!-- feedback: La lupa sobre la hormiga simboliza la pérdida de perspectiva y la distorsión del hecho principal. -->
+- [ ] B) Que las lupas son herramientas necesarias para que los periodistas vean mejor. <!-- feedback: La lupa es aquí un símbolo de la atención selectiva y sesgada del comunicador. -->
+- [ ] C) Que no hay noticias interesantes, por eso hay que inventarlas con hormigas. <!-- feedback: El tema es la jerarquización y el enfoque de la información, no la falta de noticias. -->
 
 ### Explicacion Pedagogica
 La meta-comunicación (comunicación sobre la comunicación) es común en la caricatura periodística. El análisis crítico permite identificar los vicios o errores de los medios denunciados por los humoristas gráficos.
@@ -184,8 +184,8 @@ Desde la perspectiva de la lectura crítica de textos multimodales, ¿por qué e
 ### Opciones
 - [ ] A) Para saber si los colores utilizados están de moda. <!-- feedback: La estética no es el punto central del análisis crítico de fuentes. -->
 - [ ] B) Para poder llamar al diseñador y felicitarlo por su trabajo. <!-- feedback: El análisis busca evaluar el mensaje, no establecer contacto personal. -->
-- [x] C) Para identificar posibles conflictos de interés y sesgos que busquen favorecer una postura política. <!-- feedback: Si quien emite el mensaje es el mismo que se beneficia de él, la objetividad de la infografía es cuestionable. -->
-- [ ] D) Porque el nombre de la fuente siempre garantiza que los datos son reales. <!-- feedback: La fuente indica el origen y la intención, pero no es una garantía automática de veracidad absoluta. -->
+- [x] D) Para identificar posibles conflictos de interés y sesgos que busquen favorecer una postura política. <!-- feedback: Si quien emite el mensaje es el mismo que se beneficia de él, la objetividad de la infografía es cuestionable. -->
+- [ ] C) Porque el nombre de la fuente siempre garantiza que los datos son reales. <!-- feedback: La fuente indica el origen y la intención, pero no es una garantía automática de veracidad absoluta. -->
 
 ### Explicacion Pedagogica
 La procedencia de un texto (quién lo escribe y por qué) es un dato clave para evaluar su confiabilidad. En los textos multimodales, los sesgos pueden estar ocultos en la elección de los iconos o el diseño de los gráficos.

@@ -37,8 +37,8 @@ Este bundle explora las progresiones geométricas, desde la razón común hasta 
 Una población de bacterias se duplica cada hora. Si inicialmente hay 100 bacterias, la secuencia es: 100, 200, 400, 800... ¿Cuál es el valor de la razón común ($r$) de esta sucesión?
 
 ### Opciones
-- [ ] A) 100 <!-- feedback: Incorrecto. Este es el primer término, no la razón. -->
-- [x] B) 2 <!-- feedback: Correcto. La razón se obtiene dividiendo un término entre el anterior: 200/100 = 2. -->
+- [ ] B) 100 <!-- feedback: Incorrecto. Este es el primer término, no la razón. -->
+- [x] A) 2 <!-- feedback: Correcto. La razón se obtiene dividiendo un término entre el anterior: 200/100 = 2. -->
 - [ ] C) 0.5 <!-- feedback: Incorrecto. Si la razón fuera 0.5, la población disminuiría a la mitad. -->
 - [ ] D) 200 <!-- feedback: Incorrecto. Este es el segundo término. -->
 
@@ -59,8 +59,8 @@ En una sucesión geométrica, la razón común ($r$) es el factor constante por 
 
 ### Opciones
 - [ ] A) 5, 10, 15, 20... <!-- feedback: Incorrecto. Esta es una progresión aritmética (suma 5). -->
-- [x] B) 3, 9, 27, 81... <!-- feedback: Correcto. Cada término se multiplica por 3 (razón común r=3). -->
-- [ ] C) 1, 4, 9, 16... <!-- feedback: Incorrecto. Esta es la sucesión de cuadrados perfectos, no es geométrica. -->
+- [x] C) 3, 9, 27, 81... <!-- feedback: Correcto. Cada término se multiplica por 3 (razón común r=3). -->
+- [ ] B) 1, 4, 9, 16... <!-- feedback: Incorrecto. Esta es la sucesión de cuadrados perfectos, no es geométrica. -->
 - [ ] D) 10, 8, 6, 4... <!-- feedback: Incorrecto. Es una progresión aritmética descendente (resta 2). -->
 
 ### Explicacion Pedagogica
@@ -100,8 +100,8 @@ Usamos la fórmula del término general $a_n = a_1 \cdot r^{n-1}$. Para el cuart
 Una pelota rebota hasta los 2/3 de la altura desde la cual cae. Si se deja caer desde 27 metros, ¿cuál es la altura alcanzada en el segundo rebote?
 
 ### Opciones
-- [ ] A) 18 m <!-- feedback: Incorrecto. Esta es la altura del primer rebote. -->
-- [x] B) 12 m <!-- feedback: Correcto. Primer rebote: 27 * (2/3) = 18. Segundo rebote: 18 * (2/3) = 12. -->
+- [ ] B) 18 m <!-- feedback: Incorrecto. Esta es la altura del primer rebote. -->
+- [x] A) 12 m <!-- feedback: Correcto. Primer rebote: 27 * (2/3) = 18. Segundo rebote: 18 * (2/3) = 12. -->
 - [ ] C) 9 m <!-- feedback: Incorrecto. Cálculo erróneo de la fracción. -->
 - [ ] D) 8 m <!-- feedback: Incorrecto. Has calculado el tercer rebote. -->
 
@@ -121,8 +121,8 @@ El primer término después de la caída es $a_1 = 18$ (primer rebote). La razó
 Dada la sucesión geométrica $2, -6, 18, -54...$, ¿cuál es la expresión del término general $a_n$?
 
 ### Opciones
-- [ ] A) $a_n = 2(3)^{n-1}$ <!-- feedback: Incorrecto. La razón debe ser negativa porque los signos alternan. -->
-- [x] B) $a_n = 2(-3)^{n-1}$ <!-- feedback: Correcto. a_1 = 2, r = -6/2 = -3. La fórmula es a_1 * r^(n-1). -->
+- [ ] B) $a_n = 2(3)^{n-1}$ <!-- feedback: Incorrecto. La razón debe ser negativa porque los signos alternan. -->
+- [x] A) $a_n = 2(-3)^{n-1}$ <!-- feedback: Correcto. a_1 = 2, r = -6/2 = -3. La fórmula es a_1 * r^(n-1). -->
 - [ ] C) $a_n = -3(2)^{n-1}$ <!-- feedback: Incorrecto. Has intercambiado el primer término y la razón. -->
 - [ ] D) $a_n = 2(-3)^n$ <!-- feedback: Incorrecto. El exponente debe ser n-1 para que el primer término (n=1) sea 2. -->
 
@@ -164,8 +164,8 @@ En una sucesión geométrica de términos positivos, el segundo término es 6 y 
 
 ### Opciones
 - [ ] A) 9 <!-- feedback: Incorrecto. 9 es el cociente entre a_4 y a_2, que equivale a r^2. -->
-- [x] B) 3 <!-- feedback: Correcto. a_4 = a_2 * r^2 => 54 = 6 * r^2 => r^2 = 9 => r = 3 (términos positivos). -->
-- [ ] C) 2 <!-- feedback: Incorrecto. Revisa la división de 54/6. -->
+- [x] C) 3 <!-- feedback: Correcto. a_4 = a_2 * r^2 => 54 = 6 * r^2 => r^2 = 9 => r = 3 (términos positivos). -->
+- [ ] B) 2 <!-- feedback: Incorrecto. Revisa la división de 54/6. -->
 - [ ] D) 24 <!-- feedback: Incorrecto. Cálculo sin fundamento matemático. -->
 
 ### Explicacion Pedagogica
@@ -185,8 +185,8 @@ Una tienda en Monterrey aplica un descuento del 20% sobre el precio ya rebajado 
 
 ### Opciones
 - [ ] A) 0.20 <!-- feedback: Incorrecto. 0.20 es la fracción que se resta, no el factor multiplicativo. -->
-- [x] B) 0.80 <!-- feedback: Correcto. Si se descuenta el 20%, el precio nuevo es el 80% del anterior (1 - 0.20 = 0.80). -->
-- [ ] C) 1.20 <!-- feedback: Incorrecto. Esto indicaría un aumento del 20%. -->
+- [x] C) 0.80 <!-- feedback: Correcto. Si se descuenta el 20%, el precio nuevo es el 80% del anterior (1 - 0.20 = 0.80). -->
+- [ ] B) 1.20 <!-- feedback: Incorrecto. Esto indicaría un aumento del 20%. -->
 - [ ] D) 0.08 <!-- feedback: Incorrecto. Error de posición decimal. -->
 
 ### Explicacion Pedagogica
@@ -206,8 +206,8 @@ Un descuento del 20% equivale a multiplicar por $(1 - 0.20)$, lo cual da una raz
 
 ### Opciones
 - [ ] A) 30 <!-- feedback: Incorrecto. Valor cercano pero no es el límite infinito. -->
-- [x] B) 32 <!-- feedback: Correcto. S_inf = a_1 / (1 - r). a_1 = 16, r = 0.5. S_inf = 16 / (1 - 0.5) = 16 / 0.5 = 32. -->
-- [ ] C) 24 <!-- feedback: Incorrecto. Error en la aplicación de la fórmula. -->
+- [x] C) 32 <!-- feedback: Correcto. S_inf = a_1 / (1 - r). a_1 = 16, r = 0.5. S_inf = 16 / (1 - 0.5) = 16 / 0.5 = 32. -->
+- [ ] B) 24 <!-- feedback: Incorrecto. Error en la aplicación de la fórmula. -->
 - [ ] D) No tiene suma finita <!-- feedback: Incorrecto. Como |r| < 1, la serie sí converge. -->
 
 ### Explicacion Pedagogica
@@ -289,8 +289,8 @@ Hay 4 términos en total. $a_4 = a_1 \cdot r^3 \rightarrow 192 = 3 \cdot r^3 \ri
 El número decimal periódico $0.777...$ puede verse como una suma infinita: $0.7 + 0.07 + 0.007...$ ¿Cuál es su valor en forma de fracción?
 
 ### Opciones
-- [ ] A) 7/10 <!-- feedback: Incorrecto. Esto es solo 0.7. -->
-- [x] B) 7/9 <!-- feedback: Correcto. a_1 = 0.7, r = 0.1. S_inf = 0.7 / (1 - 0.1) = 0.7 / 0.9 = 7/9. -->
+- [ ] B) 7/10 <!-- feedback: Incorrecto. Esto es solo 0.7. -->
+- [x] A) 7/9 <!-- feedback: Correcto. a_1 = 0.7, r = 0.1. S_inf = 0.7 / (1 - 0.1) = 0.7 / 0.9 = 7/9. -->
 - [ ] C) 77/100 <!-- feedback: Incorrecto. Esto es 0.77. -->
 - [ ] D) 1/7 <!-- feedback: Incorrecto. Valor muy pequeño. -->
 
@@ -310,8 +310,8 @@ Es una serie geométrica con $a_1 = 7/10$ y $r = 1/10$. La suma es $\frac{7/10}{
 Si $\log(x), \log(x^2), \log(x^4)...$ es una sucesión, ¿cuál de las siguientes afirmaciones es correcta?
 
 ### Opciones
-- [ ] A) Es una sucesión aritmética con diferencia $d = \log(x)$. <!-- feedback: Incorrecto. La diferencia entre términos no es constante. -->
-- [x] B) Es una sucesión geométrica con razón $r = 2$. <!-- feedback: Correcto. Al aplicar propiedades de logaritmos, los términos son $\log(x), 2\log(x), 4\log(x)...$ El cociente entre ellos es constante e igual a 2. -->
+- [ ] B) Es una sucesión aritmética con diferencia $d = \log(x)$. <!-- feedback: Incorrecto. La diferencia entre términos no es constante. -->
+- [x] A) Es una sucesión geométrica con razón $r = 2$. <!-- feedback: Correcto. Al aplicar propiedades de logaritmos, los términos son $\log(x), 2\log(x), 4\log(x)...$ El cociente entre ellos es constante e igual a 2. -->
 - [ ] C) Es una sucesión aritmética con diferencia $d = 2$. <!-- feedback: Incorrecto. -->
 - [ ] D) No es una progresión conocida. <!-- feedback: Incorrecto. -->
 
@@ -353,8 +353,8 @@ Una maquinaria de $200,000 pesos pierde el 15% de su valor cada año. ¿Cuál es
 
 ### Opciones
 - [ ] A) $V = 200,000 - 0.15n$ <!-- feedback: Incorrecto. Esto es depreciación lineal (aritmética). -->
-- [x] B) $V = 200,000(0.85)^n$ <!-- feedback: Correcto. Si pierde 15%, conserva el 85% (razón r=0.85). -->
-- [ ] C) $V = 200,000(0.15)^n$ <!-- feedback: Incorrecto. Esto diría que el valor cae al 15% en el primer año. -->
+- [x] C) $V = 200,000(0.85)^n$ <!-- feedback: Correcto. Si pierde 15%, conserva el 85% (razón r=0.85). -->
+- [ ] B) $V = 200,000(0.15)^n$ <!-- feedback: Incorrecto. Esto diría que el valor cae al 15% en el primer año. -->
 - [ ] D) $V = 200,000(1.15)^n$ <!-- feedback: Incorrecto. Esto indicaría que el valor aumenta. -->
 
 ### Explicacion Pedagogica
@@ -374,9 +374,9 @@ En una sucesión geométrica de 5 términos, el tercer término es 4. ¿Cuál es
 
 ### Opciones
 - [ ] A) 20 <!-- feedback: Incorrecto. Has multiplicado el término por el número de términos. -->
-- [x] B) 1024 <!-- feedback: Correcto. El producto de una PG de n términos es (a_1 * a_n)^(n/2). También se cumple que a_3^5 = 4^5 = 1024 debido a la simetría. -->
-- [ ] C) 256 <!-- feedback: Incorrecto. Has calculado 4^4. -->
-- [ ] D) 512 <!-- feedback: Incorrecto. -->
+- [x] D) 1024 <!-- feedback: Correcto. El producto de una PG de n términos es (a_1 * a_n)^(n/2). También se cumple que a_3^5 = 4^5 = 1024 debido a la simetría. -->
+- [ ] B) 256 <!-- feedback: Incorrecto. Has calculado 4^4. -->
+- [ ] C) 512 <!-- feedback: Incorrecto. -->
 
 ### Explicacion Pedagogica
 En una PG, el término central $a_c$ cumple que el producto de $n$ términos es $a_c^n$ (si $n$ es impar). Aquí $4^5 = 1024$.
@@ -395,9 +395,9 @@ Si $x-2, x+2, x+10$ son los tres primeros términos de una progresión geométri
 
 ### Opciones
 - [ ] A) 4 <!-- feedback: Incorrecto. Al sustituir daría 2, 6, 14 (no es PG). -->
-- [x] B) 6 <!-- feedback: Correcto. (x+2)/(x-2) = (x+10)/(x+2) => (x+2)^2 = (x-2)(x+10) => x^2+4x+4 = x^2+8x-20 => 4x = 24 => x=6. -->
-- [ ] C) 2 <!-- feedback: Incorrecto. El primer término sería 0. -->
-- [ ] D) 10 <!-- feedback: Incorrecto. -->
+- [x] D) 6 <!-- feedback: Correcto. (x+2)/(x-2) = (x+10)/(x+2) => (x+2)^2 = (x-2)(x+10) => x^2+4x+4 = x^2+8x-20 => 4x = 24 => x=6. -->
+- [ ] B) 2 <!-- feedback: Incorrecto. El primer término sería 0. -->
+- [ ] C) 10 <!-- feedback: Incorrecto. -->
 
 ### Explicacion Pedagogica
 La propiedad de la PG dice que $b^2 = a \cdot c$. Resolvemos $(x+2)^2 = (x-2)(x+10)$, lo que nos lleva a una ecuación lineal simple $x=6$.
@@ -416,9 +416,9 @@ En un cuadrado de área 1, se sombrea la mitad. En la mitad no sombreada, se som
 
 ### Opciones
 - [ ] A) 0.5 <!-- feedback: Incorrecto. Este es solo el primer paso. -->
-- [x] B) 1 <!-- feedback: Correcto. La suma es 1/2 + 1/4 + 1/8... que es una serie geométrica con a_1=1/2 y r=1/2. S = (1/2)/(1-1/2) = 1. -->
-- [ ] C) 2 <!-- feedback: Incorrecto. El área total del cuadrado es 1, no puede excederla. -->
-- [ ] D) Infinito <!-- feedback: Incorrecto. La serie converge. -->
+- [x] D) 1 <!-- feedback: Correcto. La suma es 1/2 + 1/4 + 1/8... que es una serie geométrica con a_1=1/2 y r=1/2. S = (1/2)/(1-1/2) = 1. -->
+- [ ] B) 2 <!-- feedback: Incorrecto. El área total del cuadrado es 1, no puede excederla. -->
+- [ ] C) Infinito <!-- feedback: Incorrecto. La serie converge. -->
 
 ### Explicacion Pedagogica
 Es la suma de $1/2^n$. Representa la división sucesiva del área total. Matemáticamente: $S = \frac{0.5}{1 - 0.5} = 1$.
@@ -436,9 +436,9 @@ Es la suma de $1/2^n$. Representa la división sucesiva del área total. Matemá
 Si $a, b, c$ forman una progresión aritmética de diferencia 2, y $a, b, c+1$ forman una progresión geométrica, ¿cuál es el valor de $a$?
 
 ### Opciones
-- [x] A) 4 <!-- feedback: Correcto. Los términos de la PA son $a, a+2, a+4$. Los de la PG son $a, a+2, a+5$. Por la propiedad del término medio: $(a+2)^2 = a(a+5)$, lo que simplifica a $a=4$. -->
-- [ ] B) 8 <!-- feedback: Incorrecto. -->
-- [ ] C) 2 <!-- feedback: Incorrecto. -->
+- [x] C) 4 <!-- feedback: Correcto. Los términos de la PA son $a, a+2, a+4$. Los de la PG son $a, a+2, a+5$. Por la propiedad del término medio: $(a+2)^2 = a(a+5)$, lo que simplifica a $a=4$. -->
+- [ ] A) 8 <!-- feedback: Incorrecto. -->
+- [ ] B) 2 <!-- feedback: Incorrecto. -->
 - [ ] D) 6 <!-- feedback: Incorrecto. -->
 
 ### Explicacion Pedagogica

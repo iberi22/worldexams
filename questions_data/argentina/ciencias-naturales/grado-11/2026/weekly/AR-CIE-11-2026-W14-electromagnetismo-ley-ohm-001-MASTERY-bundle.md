@@ -36,9 +36,9 @@ Este bundle aborda contenidos curriculares prioritarios de Electromagnetismo, Ci
 Un aparato eléctrico conectado a $220\text{ V}$ presenta una resistencia de $R = 10\text{ \Omega}$. ¿Qué corriente circula y qué potencia disipa?
 
 ### Opciones
-- [x] A) Corriente = $22,00\text{ A}$, Potencia = $4840,0\text{ W}$ <!-- feedback: Correcto. $I = 220 / 10 = 22,00\text{ A}$. $P = V \cdot I = 4840,0\text{ W}$. -->
-- [ ] B) Corriente = $44,00\text{ A}$, Potencia = $4840,0\text{ W}$ <!-- feedback: Incorrecto. Duplicó la corriente de manera errónea. -->
-- [ ] C) Corriente = $22,00\text{ A}$, Potencia = $2420,0\text{ W}$ <!-- feedback: Incorrecto. Dividió la potencia por dos. -->
+- [x] C) Corriente = $22,00\text{ A}$, Potencia = $4840,0\text{ W}$ <!-- feedback: Correcto. $I = 220 / 10 = 22,00\text{ A}$. $P = V \cdot I = 4840,0\text{ W}$. -->
+- [ ] A) Corriente = $44,00\text{ A}$, Potencia = $4840,0\text{ W}$ <!-- feedback: Incorrecto. Duplicó la corriente de manera errónea. -->
+- [ ] B) Corriente = $22,00\text{ A}$, Potencia = $2420,0\text{ W}$ <!-- feedback: Incorrecto. Dividió la potencia por dos. -->
 - [ ] D) Corriente = $10\text{ A}$, Potencia = $1000\text{ W}$ <!-- feedback: Incorrecto. Valores fijos que no responden a la resistencia dada. -->
 
 ### Explicacion Pedagogica
@@ -57,8 +57,8 @@ Por la Ley de Ohm, $I = \frac{V}{R} = \frac{220}{10} = 22,00\text{ A}$. La poten
 Un aparato eléctrico conectado a $220\text{ V}$ presenta una resistencia de $R = 20\text{ \Omega}$. ¿Qué corriente circula y qué potencia disipa?
 
 ### Opciones
-- [x] A) Corriente = $11,00\text{ A}$, Potencia = $2420,0\text{ W}$ <!-- feedback: Correcto. $I = 220 / 20 = 11,00\text{ A}$. $P = V \cdot I = 2420,0\text{ W}$. -->
-- [ ] B) Corriente = $22,00\text{ A}$, Potencia = $2420,0\text{ W}$ <!-- feedback: Incorrecto. Duplicó la corriente de manera errónea. -->
+- [x] B) Corriente = $11,00\text{ A}$, Potencia = $2420,0\text{ W}$ <!-- feedback: Correcto. $I = 220 / 20 = 11,00\text{ A}$. $P = V \cdot I = 2420,0\text{ W}$. -->
+- [ ] A) Corriente = $22,00\text{ A}$, Potencia = $2420,0\text{ W}$ <!-- feedback: Incorrecto. Duplicó la corriente de manera errónea. -->
 - [ ] C) Corriente = $11,00\text{ A}$, Potencia = $1210,0\text{ W}$ <!-- feedback: Incorrecto. Dividió la potencia por dos. -->
 - [ ] D) Corriente = $10\text{ A}$, Potencia = $1000\text{ W}$ <!-- feedback: Incorrecto. Valores fijos que no responden a la resistencia dada. -->
 
@@ -78,8 +78,8 @@ Por la Ley de Ohm, $I = \frac{V}{R} = \frac{220}{20} = 11,00\text{ A}$. La poten
 Un aparato eléctrico conectado a $220\text{ V}$ presenta una resistencia de $R = 30\text{ \Omega}$. ¿Qué corriente circula y qué potencia disipa?
 
 ### Opciones
-- [x] A) Corriente = $7,33\text{ A}$, Potencia = $1613,3\text{ W}$ <!-- feedback: Correcto. $I = 220 / 30 = 7,33\text{ A}$. $P = V \cdot I = 1613,3\text{ W}$. -->
-- [ ] B) Corriente = $14,67\text{ A}$, Potencia = $1613,3\text{ W}$ <!-- feedback: Incorrecto. Duplicó la corriente de manera errónea. -->
+- [x] B) Corriente = $7,33\text{ A}$, Potencia = $1613,3\text{ W}$ <!-- feedback: Correcto. $I = 220 / 30 = 7,33\text{ A}$. $P = V \cdot I = 1613,3\text{ W}$. -->
+- [ ] A) Corriente = $14,67\text{ A}$, Potencia = $1613,3\text{ W}$ <!-- feedback: Incorrecto. Duplicó la corriente de manera errónea. -->
 - [ ] C) Corriente = $7,33\text{ A}$, Potencia = $806,7\text{ W}$ <!-- feedback: Incorrecto. Dividió la potencia por dos. -->
 - [ ] D) Corriente = $10\text{ A}$, Potencia = $1000\text{ W}$ <!-- feedback: Incorrecto. Valores fijos que no responden a la resistencia dada. -->
 
@@ -99,9 +99,9 @@ Por la Ley de Ohm, $I = \frac{V}{R} = \frac{220}{30} = 7,33\text{ A}$. La potenc
 Un aparato eléctrico conectado a $220\text{ V}$ presenta una resistencia de $R = 40\text{ \Omega}$. ¿Qué corriente circula y qué potencia disipa?
 
 ### Opciones
-- [x] A) Corriente = $5,50\text{ A}$, Potencia = $1210,0\text{ W}$ <!-- feedback: Correcto. $I = 220 / 40 = 5,50\text{ A}$. $P = V \cdot I = 1210,0\text{ W}$. -->
-- [ ] B) Corriente = $11,00\text{ A}$, Potencia = $1210,0\text{ W}$ <!-- feedback: Incorrecto. Duplicó la corriente de manera errónea. -->
-- [ ] C) Corriente = $5,50\text{ A}$, Potencia = $605,0\text{ W}$ <!-- feedback: Incorrecto. Dividió la potencia por dos. -->
+- [x] C) Corriente = $5,50\text{ A}$, Potencia = $1210,0\text{ W}$ <!-- feedback: Correcto. $I = 220 / 40 = 5,50\text{ A}$. $P = V \cdot I = 1210,0\text{ W}$. -->
+- [ ] A) Corriente = $11,00\text{ A}$, Potencia = $1210,0\text{ W}$ <!-- feedback: Incorrecto. Duplicó la corriente de manera errónea. -->
+- [ ] B) Corriente = $5,50\text{ A}$, Potencia = $605,0\text{ W}$ <!-- feedback: Incorrecto. Dividió la potencia por dos. -->
 - [ ] D) Corriente = $10\text{ A}$, Potencia = $1000\text{ W}$ <!-- feedback: Incorrecto. Valores fijos que no responden a la resistencia dada. -->
 
 ### Explicacion Pedagogica
@@ -120,9 +120,9 @@ Por la Ley de Ohm, $I = \frac{V}{R} = \frac{220}{40} = 5,50\text{ A}$. La potenc
 Un aparato eléctrico conectado a $220\text{ V}$ presenta una resistencia de $R = 50\text{ \Omega}$. ¿Qué corriente circula y qué potencia disipa?
 
 ### Opciones
-- [x] A) Corriente = $4,40\text{ A}$, Potencia = $968,0\text{ W}$ <!-- feedback: Correcto. $I = 220 / 50 = 4,40\text{ A}$. $P = V \cdot I = 968,0\text{ W}$. -->
-- [ ] B) Corriente = $8,80\text{ A}$, Potencia = $968,0\text{ W}$ <!-- feedback: Incorrecto. Duplicó la corriente de manera errónea. -->
-- [ ] C) Corriente = $4,40\text{ A}$, Potencia = $484,0\text{ W}$ <!-- feedback: Incorrecto. Dividió la potencia por dos. -->
+- [x] C) Corriente = $4,40\text{ A}$, Potencia = $968,0\text{ W}$ <!-- feedback: Correcto. $I = 220 / 50 = 4,40\text{ A}$. $P = V \cdot I = 968,0\text{ W}$. -->
+- [ ] A) Corriente = $8,80\text{ A}$, Potencia = $968,0\text{ W}$ <!-- feedback: Incorrecto. Duplicó la corriente de manera errónea. -->
+- [ ] B) Corriente = $4,40\text{ A}$, Potencia = $484,0\text{ W}$ <!-- feedback: Incorrecto. Dividió la potencia por dos. -->
 - [ ] D) Corriente = $10\text{ A}$, Potencia = $1000\text{ W}$ <!-- feedback: Incorrecto. Valores fijos que no responden a la resistencia dada. -->
 
 ### Explicacion Pedagogica
@@ -141,8 +141,8 @@ Por la Ley de Ohm, $I = \frac{V}{R} = \frac{220}{50} = 4,40\text{ A}$. La potenc
 Un aparato eléctrico conectado a $220\text{ V}$ presenta una resistencia de $R = 60\text{ \Omega}$. ¿Qué corriente circula y qué potencia disipa?
 
 ### Opciones
-- [x] A) Corriente = $3,67\text{ A}$, Potencia = $806,7\text{ W}$ <!-- feedback: Correcto. $I = 220 / 60 = 3,67\text{ A}$. $P = V \cdot I = 806,7\text{ W}$. -->
-- [ ] B) Corriente = $7,33\text{ A}$, Potencia = $806,7\text{ W}$ <!-- feedback: Incorrecto. Duplicó la corriente de manera errónea. -->
+- [x] B) Corriente = $3,67\text{ A}$, Potencia = $806,7\text{ W}$ <!-- feedback: Correcto. $I = 220 / 60 = 3,67\text{ A}$. $P = V \cdot I = 806,7\text{ W}$. -->
+- [ ] A) Corriente = $7,33\text{ A}$, Potencia = $806,7\text{ W}$ <!-- feedback: Incorrecto. Duplicó la corriente de manera errónea. -->
 - [ ] C) Corriente = $3,67\text{ A}$, Potencia = $403,3\text{ W}$ <!-- feedback: Incorrecto. Dividió la potencia por dos. -->
 - [ ] D) Corriente = $10\text{ A}$, Potencia = $1000\text{ W}$ <!-- feedback: Incorrecto. Valores fijos que no responden a la resistencia dada. -->
 
@@ -162,10 +162,10 @@ Por la Ley de Ohm, $I = \frac{V}{R} = \frac{220}{60} = 3,67\text{ A}$. La potenc
 Un aparato eléctrico conectado a $220\text{ V}$ presenta una resistencia de $R = 70\text{ \Omega}$. ¿Qué corriente circula y qué potencia disipa?
 
 ### Opciones
-- [x] A) Corriente = $3,14\text{ A}$, Potencia = $691,4\text{ W}$ <!-- feedback: Correcto. $I = 220 / 70 = 3,14\text{ A}$. $P = V \cdot I = 691,4\text{ W}$. -->
-- [ ] B) Corriente = $6,29\text{ A}$, Potencia = $691,4\text{ W}$ <!-- feedback: Incorrecto. Duplicó la corriente de manera errónea. -->
-- [ ] C) Corriente = $3,14\text{ A}$, Potencia = $345,7\text{ W}$ <!-- feedback: Incorrecto. Dividió la potencia por dos. -->
-- [ ] D) Corriente = $10\text{ A}$, Potencia = $1000\text{ W}$ <!-- feedback: Incorrecto. Valores fijos que no responden a la resistencia dada. -->
+- [x] D) Corriente = $3,14\text{ A}$, Potencia = $691,4\text{ W}$ <!-- feedback: Correcto. $I = 220 / 70 = 3,14\text{ A}$. $P = V \cdot I = 691,4\text{ W}$. -->
+- [ ] A) Corriente = $6,29\text{ A}$, Potencia = $691,4\text{ W}$ <!-- feedback: Incorrecto. Duplicó la corriente de manera errónea. -->
+- [ ] B) Corriente = $3,14\text{ A}$, Potencia = $345,7\text{ W}$ <!-- feedback: Incorrecto. Dividió la potencia por dos. -->
+- [ ] C) Corriente = $10\text{ A}$, Potencia = $1000\text{ W}$ <!-- feedback: Incorrecto. Valores fijos que no responden a la resistencia dada. -->
 
 ### Explicacion Pedagogica
 Por la Ley de Ohm, $I = \frac{V}{R} = \frac{220}{70} = 3,14\text{ A}$. La potencia es $P = V \cdot I = 220 \cdot 3.14 = 691,4\text{ W}$.
@@ -183,8 +183,8 @@ Por la Ley de Ohm, $I = \frac{V}{R} = \frac{220}{70} = 3,14\text{ A}$. La potenc
 Un aparato eléctrico conectado a $220\text{ V}$ presenta una resistencia de $R = 80\text{ \Omega}$. ¿Qué corriente circula y qué potencia disipa?
 
 ### Opciones
-- [x] A) Corriente = $2,75\text{ A}$, Potencia = $605,0\text{ W}$ <!-- feedback: Correcto. $I = 220 / 80 = 2,75\text{ A}$. $P = V \cdot I = 605,0\text{ W}$. -->
-- [ ] B) Corriente = $5,50\text{ A}$, Potencia = $605,0\text{ W}$ <!-- feedback: Incorrecto. Duplicó la corriente de manera errónea. -->
+- [x] B) Corriente = $2,75\text{ A}$, Potencia = $605,0\text{ W}$ <!-- feedback: Correcto. $I = 220 / 80 = 2,75\text{ A}$. $P = V \cdot I = 605,0\text{ W}$. -->
+- [ ] A) Corriente = $5,50\text{ A}$, Potencia = $605,0\text{ W}$ <!-- feedback: Incorrecto. Duplicó la corriente de manera errónea. -->
 - [ ] C) Corriente = $2,75\text{ A}$, Potencia = $302,5\text{ W}$ <!-- feedback: Incorrecto. Dividió la potencia por dos. -->
 - [ ] D) Corriente = $10\text{ A}$, Potencia = $1000\text{ W}$ <!-- feedback: Incorrecto. Valores fijos que no responden a la resistencia dada. -->
 
@@ -204,10 +204,10 @@ Por la Ley de Ohm, $I = \frac{V}{R} = \frac{220}{80} = 2,75\text{ A}$. La potenc
 Un aparato eléctrico conectado a $220\text{ V}$ presenta una resistencia de $R = 90\text{ \Omega}$. ¿Qué corriente circula y qué potencia disipa?
 
 ### Opciones
-- [x] A) Corriente = $2,44\text{ A}$, Potencia = $537,8\text{ W}$ <!-- feedback: Correcto. $I = 220 / 90 = 2,44\text{ A}$. $P = V \cdot I = 537,8\text{ W}$. -->
-- [ ] B) Corriente = $4,89\text{ A}$, Potencia = $537,8\text{ W}$ <!-- feedback: Incorrecto. Duplicó la corriente de manera errónea. -->
-- [ ] C) Corriente = $2,44\text{ A}$, Potencia = $268,9\text{ W}$ <!-- feedback: Incorrecto. Dividió la potencia por dos. -->
-- [ ] D) Corriente = $10\text{ A}$, Potencia = $1000\text{ W}$ <!-- feedback: Incorrecto. Valores fijos que no responden a la resistencia dada. -->
+- [x] D) Corriente = $2,44\text{ A}$, Potencia = $537,8\text{ W}$ <!-- feedback: Correcto. $I = 220 / 90 = 2,44\text{ A}$. $P = V \cdot I = 537,8\text{ W}$. -->
+- [ ] A) Corriente = $4,89\text{ A}$, Potencia = $537,8\text{ W}$ <!-- feedback: Incorrecto. Duplicó la corriente de manera errónea. -->
+- [ ] B) Corriente = $2,44\text{ A}$, Potencia = $268,9\text{ W}$ <!-- feedback: Incorrecto. Dividió la potencia por dos. -->
+- [ ] C) Corriente = $10\text{ A}$, Potencia = $1000\text{ W}$ <!-- feedback: Incorrecto. Valores fijos que no responden a la resistencia dada. -->
 
 ### Explicacion Pedagogica
 Por la Ley de Ohm, $I = \frac{V}{R} = \frac{220}{90} = 2,44\text{ A}$. La potencia es $P = V \cdot I = 220 \cdot 2.44 = 537,8\text{ W}$.
@@ -225,10 +225,10 @@ Por la Ley de Ohm, $I = \frac{V}{R} = \frac{220}{90} = 2,44\text{ A}$. La potenc
 Un aparato eléctrico conectado a $220\text{ V}$ presenta una resistencia de $R = 100\text{ \Omega}$. ¿Qué corriente circula y qué potencia disipa?
 
 ### Opciones
-- [x] A) Corriente = $2,20\text{ A}$, Potencia = $484,0\text{ W}$ <!-- feedback: Correcto. $I = 220 / 100 = 2,20\text{ A}$. $P = V \cdot I = 484,0\text{ W}$. -->
-- [ ] B) Corriente = $4,40\text{ A}$, Potencia = $484,0\text{ W}$ <!-- feedback: Incorrecto. Duplicó la corriente de manera errónea. -->
-- [ ] C) Corriente = $2,20\text{ A}$, Potencia = $242,0\text{ W}$ <!-- feedback: Incorrecto. Dividió la potencia por dos. -->
-- [ ] D) Corriente = $10\text{ A}$, Potencia = $1000\text{ W}$ <!-- feedback: Incorrecto. Valores fijos que no responden a la resistencia dada. -->
+- [x] D) Corriente = $2,20\text{ A}$, Potencia = $484,0\text{ W}$ <!-- feedback: Correcto. $I = 220 / 100 = 2,20\text{ A}$. $P = V \cdot I = 484,0\text{ W}$. -->
+- [ ] A) Corriente = $4,40\text{ A}$, Potencia = $484,0\text{ W}$ <!-- feedback: Incorrecto. Duplicó la corriente de manera errónea. -->
+- [ ] B) Corriente = $2,20\text{ A}$, Potencia = $242,0\text{ W}$ <!-- feedback: Incorrecto. Dividió la potencia por dos. -->
+- [ ] C) Corriente = $10\text{ A}$, Potencia = $1000\text{ W}$ <!-- feedback: Incorrecto. Valores fijos que no responden a la resistencia dada. -->
 
 ### Explicacion Pedagogica
 Por la Ley de Ohm, $I = \frac{V}{R} = \frac{220}{100} = 2,20\text{ A}$. La potencia es $P = V \cdot I = 220 \cdot 2.20 = 484,0\text{ W}$.
@@ -246,10 +246,10 @@ Por la Ley de Ohm, $I = \frac{V}{R} = \frac{220}{100} = 2,20\text{ A}$. La poten
 Un aparato eléctrico conectado a $220\text{ V}$ presenta una resistencia de $R = 110\text{ \Omega}$. ¿Qué corriente circula y qué potencia disipa?
 
 ### Opciones
-- [x] A) Corriente = $2,00\text{ A}$, Potencia = $440,0\text{ W}$ <!-- feedback: Correcto. $I = 220 / 110 = 2,00\text{ A}$. $P = V \cdot I = 440,0\text{ W}$. -->
-- [ ] B) Corriente = $4,00\text{ A}$, Potencia = $440,0\text{ W}$ <!-- feedback: Incorrecto. Duplicó la corriente de manera errónea. -->
-- [ ] C) Corriente = $2,00\text{ A}$, Potencia = $220,0\text{ W}$ <!-- feedback: Incorrecto. Dividió la potencia por dos. -->
-- [ ] D) Corriente = $10\text{ A}$, Potencia = $1000\text{ W}$ <!-- feedback: Incorrecto. Valores fijos que no responden a la resistencia dada. -->
+- [x] D) Corriente = $2,00\text{ A}$, Potencia = $440,0\text{ W}$ <!-- feedback: Correcto. $I = 220 / 110 = 2,00\text{ A}$. $P = V \cdot I = 440,0\text{ W}$. -->
+- [ ] A) Corriente = $4,00\text{ A}$, Potencia = $440,0\text{ W}$ <!-- feedback: Incorrecto. Duplicó la corriente de manera errónea. -->
+- [ ] B) Corriente = $2,00\text{ A}$, Potencia = $220,0\text{ W}$ <!-- feedback: Incorrecto. Dividió la potencia por dos. -->
+- [ ] C) Corriente = $10\text{ A}$, Potencia = $1000\text{ W}$ <!-- feedback: Incorrecto. Valores fijos que no responden a la resistencia dada. -->
 
 ### Explicacion Pedagogica
 Por la Ley de Ohm, $I = \frac{V}{R} = \frac{220}{110} = 2,00\text{ A}$. La potencia es $P = V \cdot I = 220 \cdot 2.00 = 440,0\text{ W}$.
@@ -288,9 +288,9 @@ Por la Ley de Ohm, $I = \frac{V}{R} = \frac{220}{120} = 1,83\text{ A}$. La poten
 Un aparato eléctrico conectado a $220\text{ V}$ presenta una resistencia de $R = 130\text{ \Omega}$. ¿Qué corriente circula y qué potencia disipa?
 
 ### Opciones
-- [x] A) Corriente = $1,69\text{ A}$, Potencia = $372,3\text{ W}$ <!-- feedback: Correcto. $I = 220 / 130 = 1,69\text{ A}$. $P = V \cdot I = 372,3\text{ W}$. -->
-- [ ] B) Corriente = $3,38\text{ A}$, Potencia = $372,3\text{ W}$ <!-- feedback: Incorrecto. Duplicó la corriente de manera errónea. -->
-- [ ] C) Corriente = $1,69\text{ A}$, Potencia = $186,2\text{ W}$ <!-- feedback: Incorrecto. Dividió la potencia por dos. -->
+- [x] C) Corriente = $1,69\text{ A}$, Potencia = $372,3\text{ W}$ <!-- feedback: Correcto. $I = 220 / 130 = 1,69\text{ A}$. $P = V \cdot I = 372,3\text{ W}$. -->
+- [ ] A) Corriente = $3,38\text{ A}$, Potencia = $372,3\text{ W}$ <!-- feedback: Incorrecto. Duplicó la corriente de manera errónea. -->
+- [ ] B) Corriente = $1,69\text{ A}$, Potencia = $186,2\text{ W}$ <!-- feedback: Incorrecto. Dividió la potencia por dos. -->
 - [ ] D) Corriente = $10\text{ A}$, Potencia = $1000\text{ W}$ <!-- feedback: Incorrecto. Valores fijos que no responden a la resistencia dada. -->
 
 ### Explicacion Pedagogica
@@ -330,8 +330,8 @@ Por la Ley de Ohm, $I = \frac{V}{R} = \frac{220}{140} = 1,57\text{ A}$. La poten
 Un aparato eléctrico conectado a $220\text{ V}$ presenta una resistencia de $R = 150\text{ \Omega}$. ¿Qué corriente circula y qué potencia disipa?
 
 ### Opciones
-- [x] A) Corriente = $1,47\text{ A}$, Potencia = $322,7\text{ W}$ <!-- feedback: Correcto. $I = 220 / 150 = 1,47\text{ A}$. $P = V \cdot I = 322,7\text{ W}$. -->
-- [ ] B) Corriente = $2,93\text{ A}$, Potencia = $322,7\text{ W}$ <!-- feedback: Incorrecto. Duplicó la corriente de manera errónea. -->
+- [x] B) Corriente = $1,47\text{ A}$, Potencia = $322,7\text{ W}$ <!-- feedback: Correcto. $I = 220 / 150 = 1,47\text{ A}$. $P = V \cdot I = 322,7\text{ W}$. -->
+- [ ] A) Corriente = $2,93\text{ A}$, Potencia = $322,7\text{ W}$ <!-- feedback: Incorrecto. Duplicó la corriente de manera errónea. -->
 - [ ] C) Corriente = $1,47\text{ A}$, Potencia = $161,3\text{ W}$ <!-- feedback: Incorrecto. Dividió la potencia por dos. -->
 - [ ] D) Corriente = $10\text{ A}$, Potencia = $1000\text{ W}$ <!-- feedback: Incorrecto. Valores fijos que no responden a la resistencia dada. -->
 
@@ -372,8 +372,8 @@ Por la Ley de Ohm, $I = \frac{V}{R} = \frac{220}{160} = 1,38\text{ A}$. La poten
 Un aparato eléctrico conectado a $220\text{ V}$ presenta una resistencia de $R = 170\text{ \Omega}$. ¿Qué corriente circula y qué potencia disipa?
 
 ### Opciones
-- [x] A) Corriente = $1,29\text{ A}$, Potencia = $284,7\text{ W}$ <!-- feedback: Correcto. $I = 220 / 170 = 1,29\text{ A}$. $P = V \cdot I = 284,7\text{ W}$. -->
-- [ ] B) Corriente = $2,59\text{ A}$, Potencia = $284,7\text{ W}$ <!-- feedback: Incorrecto. Duplicó la corriente de manera errónea. -->
+- [x] B) Corriente = $1,29\text{ A}$, Potencia = $284,7\text{ W}$ <!-- feedback: Correcto. $I = 220 / 170 = 1,29\text{ A}$. $P = V \cdot I = 284,7\text{ W}$. -->
+- [ ] A) Corriente = $2,59\text{ A}$, Potencia = $284,7\text{ W}$ <!-- feedback: Incorrecto. Duplicó la corriente de manera errónea. -->
 - [ ] C) Corriente = $1,29\text{ A}$, Potencia = $142,4\text{ W}$ <!-- feedback: Incorrecto. Dividió la potencia por dos. -->
 - [ ] D) Corriente = $10\text{ A}$, Potencia = $1000\text{ W}$ <!-- feedback: Incorrecto. Valores fijos que no responden a la resistencia dada. -->
 
@@ -393,9 +393,9 @@ Por la Ley de Ohm, $I = \frac{V}{R} = \frac{220}{170} = 1,29\text{ A}$. La poten
 Un aparato eléctrico conectado a $220\text{ V}$ presenta una resistencia de $R = 180\text{ \Omega}$. ¿Qué corriente circula y qué potencia disipa?
 
 ### Opciones
-- [x] A) Corriente = $1,22\text{ A}$, Potencia = $268,9\text{ W}$ <!-- feedback: Correcto. $I = 220 / 180 = 1,22\text{ A}$. $P = V \cdot I = 268,9\text{ W}$. -->
-- [ ] B) Corriente = $2,44\text{ A}$, Potencia = $268,9\text{ W}$ <!-- feedback: Incorrecto. Duplicó la corriente de manera errónea. -->
-- [ ] C) Corriente = $1,22\text{ A}$, Potencia = $134,4\text{ W}$ <!-- feedback: Incorrecto. Dividió la potencia por dos. -->
+- [x] C) Corriente = $1,22\text{ A}$, Potencia = $268,9\text{ W}$ <!-- feedback: Correcto. $I = 220 / 180 = 1,22\text{ A}$. $P = V \cdot I = 268,9\text{ W}$. -->
+- [ ] A) Corriente = $2,44\text{ A}$, Potencia = $268,9\text{ W}$ <!-- feedback: Incorrecto. Duplicó la corriente de manera errónea. -->
+- [ ] B) Corriente = $1,22\text{ A}$, Potencia = $134,4\text{ W}$ <!-- feedback: Incorrecto. Dividió la potencia por dos. -->
 - [ ] D) Corriente = $10\text{ A}$, Potencia = $1000\text{ W}$ <!-- feedback: Incorrecto. Valores fijos que no responden a la resistencia dada. -->
 
 ### Explicacion Pedagogica
@@ -414,8 +414,8 @@ Por la Ley de Ohm, $I = \frac{V}{R} = \frac{220}{180} = 1,22\text{ A}$. La poten
 Un aparato eléctrico conectado a $220\text{ V}$ presenta una resistencia de $R = 190\text{ \Omega}$. ¿Qué corriente circula y qué potencia disipa?
 
 ### Opciones
-- [x] A) Corriente = $1,16\text{ A}$, Potencia = $254,7\text{ W}$ <!-- feedback: Correcto. $I = 220 / 190 = 1,16\text{ A}$. $P = V \cdot I = 254,7\text{ W}$. -->
-- [ ] B) Corriente = $2,32\text{ A}$, Potencia = $254,7\text{ W}$ <!-- feedback: Incorrecto. Duplicó la corriente de manera errónea. -->
+- [x] B) Corriente = $1,16\text{ A}$, Potencia = $254,7\text{ W}$ <!-- feedback: Correcto. $I = 220 / 190 = 1,16\text{ A}$. $P = V \cdot I = 254,7\text{ W}$. -->
+- [ ] A) Corriente = $2,32\text{ A}$, Potencia = $254,7\text{ W}$ <!-- feedback: Incorrecto. Duplicó la corriente de manera errónea. -->
 - [ ] C) Corriente = $1,16\text{ A}$, Potencia = $127,4\text{ W}$ <!-- feedback: Incorrecto. Dividió la potencia por dos. -->
 - [ ] D) Corriente = $10\text{ A}$, Potencia = $1000\text{ W}$ <!-- feedback: Incorrecto. Valores fijos que no responden a la resistencia dada. -->
 
@@ -435,9 +435,9 @@ Por la Ley de Ohm, $I = \frac{V}{R} = \frac{220}{190} = 1,16\text{ A}$. La poten
 Un aparato eléctrico conectado a $220\text{ V}$ presenta una resistencia de $R = 200\text{ \Omega}$. ¿Qué corriente circula y qué potencia disipa?
 
 ### Opciones
-- [x] A) Corriente = $1,10\text{ A}$, Potencia = $242,0\text{ W}$ <!-- feedback: Correcto. $I = 220 / 200 = 1,10\text{ A}$. $P = V \cdot I = 242,0\text{ W}$. -->
-- [ ] B) Corriente = $2,20\text{ A}$, Potencia = $242,0\text{ W}$ <!-- feedback: Incorrecto. Duplicó la corriente de manera errónea. -->
-- [ ] C) Corriente = $1,10\text{ A}$, Potencia = $121,0\text{ W}$ <!-- feedback: Incorrecto. Dividió la potencia por dos. -->
+- [x] C) Corriente = $1,10\text{ A}$, Potencia = $242,0\text{ W}$ <!-- feedback: Correcto. $I = 220 / 200 = 1,10\text{ A}$. $P = V \cdot I = 242,0\text{ W}$. -->
+- [ ] A) Corriente = $2,20\text{ A}$, Potencia = $242,0\text{ W}$ <!-- feedback: Incorrecto. Duplicó la corriente de manera errónea. -->
+- [ ] B) Corriente = $1,10\text{ A}$, Potencia = $121,0\text{ W}$ <!-- feedback: Incorrecto. Dividió la potencia por dos. -->
 - [ ] D) Corriente = $10\text{ A}$, Potencia = $1000\text{ W}$ <!-- feedback: Incorrecto. Valores fijos que no responden a la resistencia dada. -->
 
 ### Explicacion Pedagogica

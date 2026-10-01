@@ -42,9 +42,9 @@ En "Mamita Yunai", el autor utiliza un lenguaje crudo para describir la vida en 
 ### Opciones
 - [ ] A) Exaltar la belleza exótica del Caribe costarricense.
   <!-- feedback: Incorrecto. Aunque describe el paisaje, la obra se centra en el conflicto humano. -->
-- [x] B) Denunciar las injusticias sociales y la explotación de los trabajadores por las compañías extranjeras.
+- [x] C) Denunciar las injusticias sociales y la explotación de los trabajadores por las compañías extranjeras.
   <!-- feedback: ¡Correcto! Es una de las novelas de denuncia social más importantes de Costa Rica. -->
-- [ ] C) Explicar científicamente el proceso de cultivo del banano.
+- [ ] B) Explicar científicamente el proceso de cultivo del banano.
   <!-- feedback: Incorrecto. La obra es literaria y narrativa, no un tratado técnico. -->
 - [ ] D) Promover la inversión extranjera en la zona norte del país.
   <!-- feedback: Incorrecto. Al contrario, critica la influencia de los enclaves bananeros. -->
@@ -67,11 +67,11 @@ Identificar la intención comunicativa de los grandes autores nacionales es clav
 ### Opciones
 - [ ] A) El joven tico demostro un espiritu muy dinamico.
   <!-- feedback: Incorrecto. "espiritu" y "dinamico" son esdrújulas y deben tildarse siempre. -->
-- [x] B) Es fundamental realizar un análisis técnico del área de logística.
+- [x] D) Es fundamental realizar un análisis técnico del área de logística.
   <!-- feedback: ¡Correcto! "análisis" y "técnico" son esdrújulas y llevan tilde según la regla. -->
-- [ ] C) El periodico publico una noticia sobre la economia nacional.
+- [ ] B) El periodico publico una noticia sobre la economia nacional.
   <!-- feedback: Incorrecto. "periodico" es esdrújula y debe llevar tilde (periódico). -->
-- [ ] D) Debemos cuidar los oceanos para proteger la biodiversidad.
+- [ ] C) Debemos cuidar los oceanos para proteger la biodiversidad.
   <!-- feedback: Incorrecto. "oceanos" es esdrújula (o-cé-a-nos) y debe tildarse (océanos). -->
 
 ### Explicacion Pedagogica
@@ -92,9 +92,9 @@ Eunice Odio es reconocida como una de las voces más singulares de la poesía co
 ### Opciones
 - [ ] A) Realismo regionalista
   <!-- feedback: Incorrecto. Su obra trasciende la descripción de costumbres locales. -->
-- [ ] B) Neoclasicismo
+- [ ] C) Neoclasicismo
   <!-- feedback: Incorrecto. El neoclasicismo es racionalista; Eunice es profundamente imaginativa. -->
-- [x] C) Vanguardismo / Surrealismo
+- [x] B) Vanguardismo / Surrealismo
   <!-- feedback: ¡Correcto! Su poesía es innovadora, compleja y cargada de una estética vanguardista. -->
 - [ ] D) Romanticismo tradicional
   <!-- feedback: Incorrecto. Su voz rompe con el sentimentalismo romántico del siglo XIX. -->
@@ -142,11 +142,11 @@ El uso de conectores lógicos garantiza la cohesión textual, permitiendo al lec
 ### Opciones
 - [ ] A) El agua de la pícina está muy limpia.
   <!-- feedback: Incorrecto. Se escribe "piscina". -->
-- [x] B) Los científicos analizaron la efervescencia de la muestra.
+- [x] D) Los científicos analizaron la efervescencia de la muestra.
   <!-- feedback: ¡Correcto! Ambas palabras están correctamente escritas con 'sc'. -->
-- [ ] C) Es necesario dicipar las dudas sobre el proyecto.
+- [ ] B) Es necesario dicipar las dudas sobre el proyecto.
   <!-- feedback: Incorrecto. Se escribe "disipar" (solo con 's'). -->
-- [ ] D) La facinación por la tecnología crece en los jóvenes.
+- [ ] C) La facinación por la tecnología crece en los jóvenes.
   <!-- feedback: Incorrecto. Se escribe "fascinación" (con 'sc'). -->
 
 ### Explicacion Pedagogica
@@ -215,9 +215,9 @@ El español de Costa Rica posee modismos y expresiones que refuerzan la identida
 ¿Qué opción presenta el registro lingüístico más adecuado para dirigirse a una autoridad académica?
 
 ### Opciones
-- [ ] A) Hola profe, no pude ir porque me sentía mal, ahí le mando el papel.
+- [ ] B) Hola profe, no pude ir porque me sentía mal, ahí le mando el papel.
   <!-- feedback: Incorrecto. Registro demasiado informal para una comunicación oficial. -->
-- [x] B) Estimada Dirección: Por este medio adjunto el comprobante médico que justifica mi ausencia del día de ayer.
+- [x] A) Estimada Dirección: Por este medio adjunto el comprobante médico que justifica mi ausencia del día de ayer.
   <!-- feedback: ¡Correcto! Usa un tono formal, léxico preciso y estructura de comunicación oficial. -->
 - [ ] C) Diay profe, viera que me enfermé y no pude llegar a clases.
   <!-- feedback: Incorrecto. Uso de interjecciones coloquiales ("diay", "viera que") inapropiadas para el contexto. -->
@@ -292,9 +292,9 @@ Siguiendo las normas básicas de redacción, ¿cuál es el orden correcto de los
 ### Opciones
 - [ ] A) Título, Autor, Editorial, Año.
   <!-- feedback: Incorrecto. El autor suele ir al inicio para facilitar el orden alfabético. -->
-- [ ] B) Año, Autor, Título, Ciudad.
+- [ ] C) Año, Autor, Título, Ciudad.
   <!-- feedback: Incorrecto. No es el formato estándar más reconocido. -->
-- [x] C) Apellido, Nombre del autor. (Año). Título del libro. Editorial.
+- [x] B) Apellido, Nombre del autor. (Año). Título del libro. Editorial.
   <!-- feedback: ¡Correcto! Es la estructura base del sistema APA, ampliamente utilizado en Costa Rica. -->
 - [ ] D) Editorial, Año, Autor, Título.
   <!-- feedback: Incorrecto. Orden poco práctico para la búsqueda bibliográfica. -->
@@ -317,11 +317,11 @@ La sistematización de las fuentes de información es fundamental para la ética
 ### Opciones
 - [ ] A) Metonimia
   <!-- feedback: Incorrecto. No se sustituye un término por otro con el que tiene relación de proximidad. -->
-- [x] B) Prosopopeya / Personificación
+- [x] D) Prosopopeya / Personificación
   <!-- feedback: ¡Correcto! Se le otorgan partes del cuerpo (brazos) y acciones humanas (abrazar) a un elemento inanimado. -->
-- [ ] C) Hipérbaton
+- [ ] B) Hipérbaton
   <!-- feedback: Incorrecto. El orden sintáctico es bastante regular. -->
-- [ ] D) Oxímoron
+- [ ] C) Oxímoron
   <!-- feedback: Incorrecto. No hay una contradicción de términos opuestos en la misma frase (como "hielo abrasador"). -->
 
 ### Explicacion Pedagogica
@@ -367,11 +367,11 @@ Si el texto menciona que "el Teatro Nacional fue financiado mediante un impuesto
 ### Opciones
 - [ ] A) El teatro fue construido por los mismos campesinos que recogían el café.
   <!-- feedback: Incorrecto. El texto habla del financiamiento, no de la mano de obra física. -->
-- [x] B) En esa época, el sector cafetalero tenía un gran poder político y económico para decidir sobre grandes obras públicas.
+- [x] D) En esa época, el sector cafetalero tenía un gran poder político y económico para decidir sobre grandes obras públicas.
   <!-- feedback: ¡Correcto! El origen del financiamiento implica el poder de ese grupo social. -->
-- [ ] C) A los ticos de entonces no les gustaba el café y por eso le pusieron impuestos.
+- [ ] B) A los ticos de entonces no les gustaba el café y por eso le pusieron impuestos.
   <!-- feedback: Incorrecto. El impuesto era a la exportación, no al consumo interno por desagrado. -->
-- [ ] D) El teatro es hoy en día un beneficio para las empresas de café.
+- [ ] C) El teatro es hoy en día un beneficio para las empresas de café.
   <!-- feedback: Incorrecto. El texto habla del pasado histórico de su construcción. -->
 
 ### Explicacion Pedagogica
@@ -392,9 +392,9 @@ Inferir es leer "entre líneas", conectando los datos explícitos con el context
 ### Opciones
 - [ ] A) El volcán; emitió cenizas esta mañana.
   <!-- feedback: Incorrecto. Separa el sujeto del verbo, lo cual es un error. -->
-- [ ] B) Los turistas llegaron temprano; pero no pudieron ver el cráter.
+- [ ] C) Los turistas llegaron temprano; pero no pudieron ver el cráter.
   <!-- feedback: Incorrecto. Antes de "pero" suele ir una coma, no punto y coma en frases cortas. -->
-- [x] C) El clima en San Carlos es muy húmedo; por las tardes suelen presentarse fuertes aguaceros.
+- [x] B) El clima en San Carlos es muy húmedo; por las tardes suelen presentarse fuertes aguaceros.
   <!-- feedback: ¡Correcto! Son dos ideas completas con una relación de continuidad temática. -->
 - [ ] D) Visitamos: La Fortuna; Zarcero y Naranjo.
   <!-- feedback: Incorrecto. Uso inadecuado de signos para una lista simple. -->
@@ -417,9 +417,9 @@ El punto y coma es un signo de puntuación avanzado que permite organizar ideas 
 ### Opciones
 - [ ] A) Catarsis
   <!-- feedback: Incorrecto. Es la purificación de las emociones en el espectador. -->
-- [x] B) Hamartia
+- [x] C) Hamartia
   <!-- feedback: ¡Correcto! Es el "error trágico" o debilidad del protagonista que desencadena la desgracia. -->
-- [ ] C) Anagnórisis
+- [ ] B) Anagnórisis
   <!-- feedback: Incorrecto. Es el momento del reconocimiento o descubrimiento de la verdad. -->
 - [ ] D) Soliloquio
   <!-- feedback: Incorrecto. Es un discurso que el personaje dice para sí mismo. -->
@@ -442,11 +442,11 @@ El editorial afirma: "No podemos seguir formando profesionales para un mundo que
 ### Opciones
 - [ ] A) Hipérbole
   <!-- feedback: Incorrecto. No hay una exageración de cantidad, sino una metáfora temporal. -->
-- [x] B) Antítesis / Contraste
+- [x] D) Antítesis / Contraste
   <!-- feedback: ¡Correcto! Contrapone la formación actual ("profesionales") con una realidad desaparecida ("mundo que ya no existe"). -->
-- [ ] C) Aliteración
+- [ ] B) Aliteración
   <!-- feedback: Incorrecto. No se repiten sonidos para crear efectos auditivos. -->
-- [ ] D) Epíteto
+- [ ] C) Epíteto
   <!-- feedback: Incorrecto. No se añaden adjetivos innecesarios para resaltar cualidades obvias. -->
 
 ### Explicacion Pedagogica
@@ -492,9 +492,9 @@ La precisión léxica enriquece el texto y demuestra un dominio superior del idi
 ### Opciones
 - [ ] A) No hay diferencia, ambos solo querían escribir poemas de amor.
   <!-- feedback: Incorrecto. Ignora el profundo cambio temático entre movimientos. -->
-- [x] B) El Modernismo buscaba la evasión estética; el Repertorio Americano buscaba el compromiso social, la identidad latinoamericana y la crítica política.
+- [x] C) El Modernismo buscaba la evasión estética; el Repertorio Americano buscaba el compromiso social, la identidad latinoamericana y la crítica política.
   <!-- feedback: ¡Correcto! Se pasa del "arte por el arte" al arte como herramienta de transformación social. -->
-- [ ] C) Los modernistas escribían en verso y los del repertorio solo en prosa.
+- [ ] B) Los modernistas escribían en verso y los del repertorio solo en prosa.
   <!-- feedback: Incorrecto. Ambos movimientos utilizaron diversos formatos literarios. -->
 - [ ] D) El Modernismo nació en Costa Rica y el Repertorio Americano en Francia.
   <!-- feedback: Incorrecto. El Modernismo es un movimiento continental; el Repertorio es una revista fundamental fundada en Costa Rica. -->
@@ -517,11 +517,11 @@ Entender las corrientes literarias ayuda a ver cómo los escritores costarricens
 ### Opciones
 - [ ] A) Que el lector es un receptor pasivo de información.
   <!-- feedback: Incorrecto. La frase sugiere un papel activo de "conversación" y "puesta a prueba". -->
-- [x] B) Que el lector debe ser un agente crítico y reflexivo que cuestiona lo que lee y su propia forma de pensar.
+- [x] D) Que el lector debe ser un agente crítico y reflexivo que cuestiona lo que lee y su propia forma de pensar.
   <!-- feedback: ¡Correcto! La lectura se ve como un proceso dialéctico y de autoconocimiento. -->
-- [ ] C) Que para leer bien no se debe hablar en voz alta.
+- [ ] B) Que para leer bien no se debe hablar en voz alta.
   <!-- feedback: Incorrecto. Interpretación literal y errónea de "conversación silenciosa". -->
-- [ ] D) Que el autor siempre tiene la razón y el lector debe aprenderla.
+- [ ] C) Que el autor siempre tiene la razón y el lector debe aprenderla.
   <!-- feedback: Incorrecto. La frase habla de poner a prueba prejuicios, lo que implica una interacción simétrica. -->
 
 ### Explicacion Pedagogica

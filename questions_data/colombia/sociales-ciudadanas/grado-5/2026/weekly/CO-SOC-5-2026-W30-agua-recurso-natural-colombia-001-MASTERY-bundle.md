@@ -36,9 +36,9 @@ El agua como recurso vital, los ríos y páramos de Colombia, sus usos en la vid
 ### Opciones
 - [ ] A) Porque solo sirve para decorar las casas y los parques.
   <!-- feedback: La decoración es un uso menor; el agua es vital para beber, cultivar y vivir. -->
-- [x] B) Porque todos los seres vivos la necesitan para beber, alimentarse, cultivar y mantener la higiene.
+- [x] C) Porque todos los seres vivos la necesitan para beber, alimentarse, cultivar y mantener la higiene.
   <!-- feedback: Sin agua no hay vida: las personas, los animales y las plantas dependen de ella. -->
-- [ ] C) Porque únicamente la usan las fábricas de gaseosas.
+- [ ] B) Porque únicamente la usan las fábricas de gaseosas.
   <!-- feedback: Las fábricas son solo uno de los muchos usuarios del agua. -->
 - [ ] D) Porque es un recurso que nunca se puede agotar ni contaminar.
   <!-- feedback: El agua sí se puede agotar y contaminar, por eso hay que cuidarla. -->
@@ -57,9 +57,9 @@ Reconocer el agua como un recurso vital del que dependen todos los seres vivos.
 ¿Cuáles son algunos de los ríos más importantes de Colombia?
 
 ### Opciones
-- [ ] A) El Nilo, el Amazonas brasileño y el río Bravo.
+- [ ] B) El Nilo, el Amazonas brasileño y el río Bravo.
   <!-- feedback: El Nilo está en África y el Bravo en Norteamérica; no son ríos colombianos. -->
-- [x] B) El Magdalena, el Cauca, el Atrato y el Amazonas en su paso por Colombia.
+- [x] A) El Magdalena, el Cauca, el Atrato y el Amazonas en su paso por Colombia.
   <!-- feedback: Esos ríos nacen o recorren el territorio colombiano y sostienen regiones enteras. -->
 - [ ] C) El Sena, el Támesis y el Danubio.
   <!-- feedback: Esos son ríos de Europa, muy lejos de Colombia. -->
@@ -80,9 +80,9 @@ Identificar los grandes ríos que forman la riqueza hídrica de Colombia.
 ¿Cuáles son los usos responsables del agua en el hogar?
 
 ### Opciones
-- [x] A) Beber, cocinar, asearse, lavar y regar las plantas usando solo la cantidad necesaria.
+- [x] B) Beber, cocinar, asearse, lavar y regar las plantas usando solo la cantidad necesaria.
   <!-- feedback: Esos son los usos cotidianos del agua cuando se aprovecha sin desperdiciarla. -->
-- [ ] B) Dejar todas las llaves abiertas durante todo el día.
+- [ ] A) Dejar todas las llaves abiertas durante todo el día.
   <!-- feedback: Dejar las llaves abiertas desperdicia un recurso que a otros les puede faltar. -->
 - [ ] C) Lavar el carro con la manguera durante horas cada semana.
   <!-- feedback: Ese uso gasta muchísima agua; es mejor usar balde y solo lo necesario. -->
@@ -103,9 +103,9 @@ Aplicar el uso responsable del agua a las actividades diarias del hogar.
 ¿Por qué los páramos son llamados las fábricas de agua de Colombia?
 
 ### Opciones
-- [ ] A) Porque en los páramos hay fábricas que producen agua embotellada.
+- [ ] B) Porque en los páramos hay fábricas que producen agua embotellada.
   <!-- feedback: No hay fábricas allí; es la naturaleza del páramo la que guarda y entrega el agua. -->
-- [x] B) Porque capturan y almacenan el agua de la lluvia y la niebla, y la reparten a los ríos y acueductos.
+- [x] A) Porque capturan y almacenan el agua de la lluvia y la niebla, y la reparten a los ríos y acueductos.
   <!-- feedback: La vegetación y el suelo del páramo funcionan como una esponja que regula el agua. -->
 - [ ] C) Porque son desiertos donde nunca llueve ni hay agua.
   <!-- feedback: Al contrario, los páramos son zonas muy húmedas y ricas en agua. -->
@@ -149,9 +149,9 @@ Comprender que el pago del servicio de agua depende del consumo y promueve el ah
 ¿Qué diferencia clave existe entre las dos veredas?
 
 ### Opciones
-- [ ] A) En las dos veredas el agua está igual de limpia y sana.
+- [ ] B) En las dos veredas el agua está igual de limpia y sana.
   <!-- feedback: La quebrada que recibe basuras y aguas sucias se contamina y enferma. -->
-- [x] B) La primera vereda conserva su fuente de agua con acciones de cuidado; la segunda la contamina y pone en riesgo la salud.
+- [x] A) La primera vereda conserva su fuente de agua con acciones de cuidado; la segunda la contamina y pone en riesgo la salud.
   <!-- feedback: Proteger las orillas y no contaminar mantiene el agua apta para la comunidad. -->
 - [ ] C) La primera vereda desperdicia el agua y la segunda la cuida.
   <!-- feedback: Es al contrario: sembrar árboles y no arrojar basuras es cuidar el agua. -->
@@ -197,9 +197,9 @@ Analizar el acueducto como un servicio esencial que sostiene la vida diaria de l
 ### Opciones
 - [ ] A) Porque el agua es un recurso infinito que nunca se acaba.
   <!-- feedback: El agua potable es limitada y cada vez cuesta más llevarla a todas las personas. -->
-- [ ] B) Porque cuidar el agua solo es deber de los campesinos.
+- [ ] C) Porque cuidar el agua solo es deber de los campesinos.
   <!-- feedback: El cuidado del agua es responsabilidad de todos: ciudad y campo. -->
-- [x] C) Porque es un bien común y limitado: cuidarla hoy garantiza la vida y el bienestar de las futuras generaciones.
+- [x] B) Porque es un bien común y limitado: cuidarla hoy garantiza la vida y el bienestar de las futuras generaciones.
   <!-- feedback: Cada gota ahorrada y cada río protegido es un regalo para quienes vienen después. -->
 - [ ] D) Porque si sobra agua se puede vender a otros planetas.
   <!-- feedback: El agua debe cuidarse para la vida en la Tierra, no para ideas imposibles. -->

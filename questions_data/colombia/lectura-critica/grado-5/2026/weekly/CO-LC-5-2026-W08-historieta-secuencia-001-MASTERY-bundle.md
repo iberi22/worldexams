@@ -57,11 +57,11 @@ Reconocer los elementos básicos que componen una historieta.
 ¿Por qué es importante seguir el orden de las viñetas al leer una historieta?
 
 ### Opciones
-- [x] A) Porque el orden de las viñetas determina la secuencia lógica de la historia narrada.
+- [x] C) Porque el orden de las viñetas determina la secuencia lógica de la historia narrada.
   <!-- feedback: Cambiar el orden altera el significado y la coherencia de la historieta. -->
-- [ ] B) Porque el orden solo importa al final del libro.
+- [ ] A) Porque el orden solo importa al final del libro.
   <!-- feedback: El orden importa en toda la lectura, no solo al final. -->
-- [ ] C) Porque el orden no influye en la comprensión del relato.
+- [ ] B) Porque el orden no influye en la comprensión del relato.
   <!-- feedback: El orden de las viñetas es clave para entender la historia. -->
 - [ ] D) Porque las viñetas siempre se leen en sentido contrario.
   <!-- feedback: En la tradición occidental, las viñetas se leen de izquierda a derecha y arriba hacia abajo. -->
@@ -80,9 +80,9 @@ Comprender la importancia del orden secuencial de las viñetas en una historieta
 ¿Cuál es el orden lógico de las viñetas en esta historieta?
 
 ### Opciones
-- [x] A) El niño juega con su perro, luego lo busca llorando y al final lo encuentra por un aviso.
+- [x] B) El niño juega con su perro, luego lo busca llorando y al final lo encuentra por un aviso.
   <!-- feedback: El orden sigue una secuencia lógica: inicio, conflicto y desenlace. -->
-- [ ] B) El niño encuentra al perro, luego lo busca y después juega con él.
+- [ ] A) El niño encuentra al perro, luego lo busca y después juega con él.
   <!-- feedback: Este orden altera la lógica temporal del relato. -->
 - [ ] C) El niño busca al perro, lo encuentra sin buscarlo y finalmente lo pierde otra vez.
   <!-- feedback: El orden debe respetar la progresión natural de los hechos. -->
@@ -103,9 +103,9 @@ Aplicar el orden lógico de una secuencia narrativa en una historieta.
 ¿Qué indica un globo con borde dentado en una historieta?
 
 ### Opciones
-- [x] A) Que el personaje está gritando o expresando una emoción intensa.
+- [x] B) Que el personaje está gritando o expresando una emoción intensa.
   <!-- feedback: Los bordes dentados suelen indicar gritos o emociones fuertes. -->
-- [ ] B) Que el personaje está durmiendo profundamente.
+- [ ] A) Que el personaje está durmiendo profundamente.
   <!-- feedback: El sueño se representa de otra manera, no con borde dentado. -->
 - [ ] C) Que el personaje está leyendo un libro en silencio.
   <!-- feedback: La lectura silenciosa no se asocia con bordes dentados. -->
@@ -126,11 +126,11 @@ Identificar el significado de los distintos tipos de globos de texto en una hist
 ¿Qué recurso narrativo se está usando en esa viñeta?
 
 ### Opciones
-- [x] A) Una onomatopeya para representar un sonido fuerte del golpe.
+- [x] C) Una onomatopeya para representar un sonido fuerte del golpe.
   <!-- feedback: "¡ZAS!" es una onomatopeya que reproduce un golpe o impacto. -->
-- [ ] B) Un pensamiento profundo del personaje.
+- [ ] A) Un pensamiento profundo del personaje.
   <!-- feedback: Los pensamientos suelen ir en nubes suaves, no con gritos fuertes. -->
-- [ ] C) Un diálogo en voz baja.
+- [ ] B) Un diálogo en voz baja.
   <!-- feedback: Los diálogos no se escriben con onomatopeyas como "¡ZAS!". -->
 - [ ] D) Una indicación para doblar la página.
   <!-- feedback: Las indicaciones de doblar página no aparecen dentro de las viñetas. -->
@@ -172,11 +172,11 @@ Comparar la estructura de dos historietas según la cantidad de viñetas y la re
 ¿Qué efecto busca el autor al encuadrar un rostro en primer plano?
 
 ### Opciones
-- [x] A) Intensificar la emoción del personaje y captar la atención del lector.
+- [x] C) Intensificar la emoción del personaje y captar la atención del lector.
   <!-- feedback: El primer plano acerca al lector a las emociones del personaje. -->
-- [ ] B) Ocultar completamente la emoción del personaje.
+- [ ] A) Ocultar completamente la emoción del personaje.
   <!-- feedback: El primer plano muestra la emoción, no la oculta. -->
-- [ ] C) Cambiar el orden de las viñetas en la página.
+- [ ] B) Cambiar el orden de las viñetas en la página.
   <!-- feedback: El encuadre no altera el orden, sino el enfoque visual. -->
 - [ ] D) Eliminar el uso de globos de texto.
   <!-- feedback: El primer plano no reemplaza los textos; los complementa. -->
@@ -195,11 +195,11 @@ Analizar el efecto del encuadre en primer plano dentro de una historieta.
 ¿Por qué es valioso leer historietas en la escuela primaria?
 
 ### Opciones
-- [x] A) Porque desarrollan la comprensión narrativa, la lectura de imágenes y el gusto por la lectura en distintos formatos.
+- [x] C) Porque desarrollan la comprensión narrativa, la lectura de imágenes y el gusto por la lectura en distintos formatos.
   <!-- feedback: Las historietas son un recurso valioso para formar lectores competentes y críticos. -->
-- [ ] B) Porque las historietas no aportan nada a la formación lectora.
+- [ ] A) Porque las historietas no aportan nada a la formación lectora.
   <!-- feedback: Las historietas aportan mucho al desarrollo de la lectura y la interpretación visual. -->
-- [ ] C) Porque son solo para entretenimiento sin valor educativo.
+- [ ] B) Porque son solo para entretenimiento sin valor educativo.
   <!-- feedback: Las historietas tienen valor educativo y cultural, no solo entretenimiento. -->
 - [ ] D) Porque deberían sustituir completamente a los libros de texto.
   <!-- feedback: Las historietas complementan, no sustituyen, a otros materiales de lectura. -->

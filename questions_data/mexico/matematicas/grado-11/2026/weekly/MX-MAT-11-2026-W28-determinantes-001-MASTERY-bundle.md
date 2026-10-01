@@ -32,9 +32,9 @@ creador: "Jules-Agent"
 
 ### Opciones
 - [ ] A) A cualquier matriz rectangular. <!-- feedback: Incorrecto. Solo un subconjunto específico de matrices tiene determinante. -->
-- [x] B) Únicamente a matrices cuadradas (mismo número de filas y columnas). <!-- feedback: Correcto. El determinante es un valor escalar definido solo para estructuras cuadradas. -->
-- [ ] C) Solo a matrices que tienen ceros en su diagonal. <!-- feedback: Incorrecto. Cualquier matriz cuadrada puede tener determinante. -->
-- [ ] D) Únicamente a matrices de orden $2 \times 2$. <!-- feedback: Incorrecto. Se puede calcular para cualquier orden n x n. -->
+- [x] D) Únicamente a matrices cuadradas (mismo número de filas y columnas). <!-- feedback: Correcto. El determinante es un valor escalar definido solo para estructuras cuadradas. -->
+- [ ] B) Solo a matrices que tienen ceros en su diagonal. <!-- feedback: Incorrecto. Cualquier matriz cuadrada puede tener determinante. -->
+- [ ] C) Únicamente a matrices de orden $2 \times 2$. <!-- feedback: Incorrecto. Se puede calcular para cualquier orden n x n. -->
 
 ### Explicacion Pedagogica
 El determinante es una propiedad exclusiva de las matrices cuadradas. Es un número que resume varias propiedades importantes de la matriz, como si tiene inversa o si los vectores que la forman son linealmente independientes.
@@ -54,8 +54,8 @@ Si $A$ es una matriz, ¿cuál es la notación común para representar su determi
 
 ### Opciones
 - [ ] A) $[A]$ <!-- feedback: Incorrecto. Los corchetes suelen representar a la matriz misma. -->
-- [ ] B) $\{A\}$ <!-- feedback: Incorrecto. Las llaves se usan para conjuntos o elementos de la matriz. -->
-- [x] C) $|A|$ o $\det(A)$ <!-- feedback: Correcto. Se usan barras verticales (similares al valor absoluto) o la abreviatura det. -->
+- [ ] C) $\{A\}$ <!-- feedback: Incorrecto. Las llaves se usan para conjuntos o elementos de la matriz. -->
+- [x] B) $|A|$ o $\det(A)$ <!-- feedback: Correcto. Se usan barras verticales (similares al valor absoluto) o la abreviatura det. -->
 - [ ] D) $A^2$ <!-- feedback: Incorrecto. Esto representa la potencia de la matriz. -->
 
 ### Explicacion Pedagogica
@@ -76,9 +76,9 @@ Dada la matriz $A = \begin{pmatrix} a & b \\ c & d \end{pmatrix}$, ¿cuál es la
 
 ### Opciones
 - [ ] A) $ad + bc$ <!-- feedback: Incorrecto. La operación entre los productos de las diagonales debe ser una resta. -->
-- [x] B) $ad - bc$ <!-- feedback: Correcto. Es el producto de la diagonal principal menos el producto de la diagonal secundaria. -->
-- [ ] C) $ac - bd$ <!-- feedback: Incorrecto. Mezcló los elementos de las filas y columnas de forma errónea. -->
-- [ ] D) $ab - cd$ <!-- feedback: Incorrecto. Multiplicó los elementos de las filas en lugar de las diagonales. -->
+- [x] D) $ad - bc$ <!-- feedback: Correcto. Es el producto de la diagonal principal menos el producto de la diagonal secundaria. -->
+- [ ] B) $ac - bd$ <!-- feedback: Incorrecto. Mezcló los elementos de las filas y columnas de forma errónea. -->
+- [ ] C) $ab - cd$ <!-- feedback: Incorrecto. Multiplicó los elementos de las filas en lugar de las diagonales. -->
 
 ### Explicacion Pedagogica
 Para una matriz $2 \times 2$, el determinante se obtiene multiplicando los elementos de la diagonal principal (de arriba-izquierda a abajo-derecha) y restándole el producto de los elementos de la diagonal secundaria.
@@ -120,8 +120,8 @@ Calcule el determinante de la matriz $M = \begin{pmatrix} 3 & 4 \\ 2 & 5 \end{pm
 
 ### Opciones
 - [ ] A) 23 <!-- feedback: Incorrecto. Sumó los productos (15 + 8) en lugar de restarlos. -->
-- [x] B) 7 <!-- feedback: Correcto. det(M) = (3*5) - (4*2) = 15 - 8 = 7. -->
-- [ ] C) -7 <!-- feedback: Incorrecto. Restó en el orden inverso (8 - 15). -->
+- [x] C) 7 <!-- feedback: Correcto. det(M) = (3*5) - (4*2) = 15 - 8 = 7. -->
+- [ ] B) -7 <!-- feedback: Incorrecto. Restó en el orden inverso (8 - 15). -->
 - [ ] D) 15 <!-- feedback: Incorrecto. Olvidó restar el producto de la diagonal secundaria. -->
 
 ### Explicacion Pedagogica
@@ -142,8 +142,8 @@ Determine el valor de $\begin{vmatrix} -2 & 6 \\ 1 & -4 \end{vmatrix}$.
 
 ### Opciones
 - [ ] A) 14 <!-- feedback: Incorrecto. Error de signos: (-2 * -4) es 8 positivo, y se resta 6. -->
-- [x] B) 2 <!-- feedback: Correcto. (-2 * -4) - (6 * 1) = 8 - 6 = 2. -->
-- [ ] C) -2 <!-- feedback: Incorrecto. Posible confusión con los signos de los productos. -->
+- [x] C) 2 <!-- feedback: Correcto. (-2 * -4) - (6 * 1) = 8 - 6 = 2. -->
+- [ ] B) -2 <!-- feedback: Incorrecto. Posible confusión con los signos de los productos. -->
 - [ ] D) 10 <!-- feedback: Incorrecto. Sumó los valores absolutos en lugar de seguir la fórmula. -->
 
 ### Explicacion Pedagogica
@@ -163,8 +163,8 @@ Al manejar números negativos, debemos ser cuidadosos con la ley de los signos. 
 ¿Cuál es el primer paso recomendado para aplicar la Regla de Sarrus en una matriz $3 \times 3$?
 
 ### Opciones
-- [ ] A) Multiplicar solo la diagonal principal. <!-- feedback: Incorrecto. Sarrus requiere tres productos en cada sentido. -->
-- [x] B) Repetir las dos primeras filas o columnas debajo o a la derecha de la matriz. <!-- feedback: Correcto. Esta extensión visual facilita identificar las tres diagonales completas en ambos sentidos. -->
+- [ ] B) Multiplicar solo la diagonal principal. <!-- feedback: Incorrecto. Sarrus requiere tres productos en cada sentido. -->
+- [x] A) Repetir las dos primeras filas o columnas debajo o a la derecha de la matriz. <!-- feedback: Correcto. Esta extensión visual facilita identificar las tres diagonales completas en ambos sentidos. -->
 - [ ] C) Eliminar la fila y columna del primer elemento. <!-- feedback: Incorrecto. Este es el método de cofactores, no la Regla de Sarrus. -->
 - [ ] D) Cambiar todos los signos de la matriz. <!-- feedback: Incorrecto. La regla no requiere cambios de signo iniciales. -->
 
@@ -186,8 +186,8 @@ Sin realizar cálculos extensos, determine el determinante de $A = \begin{pmatri
 
 ### Opciones
 - [ ] A) 6 <!-- feedback: Incorrecto. Una propiedad fundamental hace que el resultado sea inmediato. -->
-- [x] B) 0 <!-- feedback: Correcto. Si una matriz tiene una fila o columna completa de ceros, su determinante es automáticamente cero. -->
-- [ ] C) -1 <!-- feedback: Incorrecto. No hay elementos que justifiquen este valor. -->
+- [x] C) 0 <!-- feedback: Correcto. Si una matriz tiene una fila o columna completa de ceros, su determinante es automáticamente cero. -->
+- [ ] B) -1 <!-- feedback: Incorrecto. No hay elementos que justifiquen este valor. -->
 - [ ] D) 15 <!-- feedback: Incorrecto. No es la suma de los elementos de las otras filas. -->
 
 ### Explicacion Pedagogica
@@ -208,8 +208,8 @@ Existen propiedades de los determinantes que permiten ahorrar tiempo. Una de ell
 
 ### Opciones
 - [ ] A) 0 <!-- feedback: Incorrecto. La matriz identidad siempre tiene un determinante distinto de cero. -->
-- [ ] B) 3 <!-- feedback: Incorrecto. No es la suma de los unos de la diagonal. -->
-- [x] C) 1 <!-- feedback: Correcto. En cualquier matriz identidad, el producto de la diagonal principal es 1 y todos los demás términos son 0. -->
+- [ ] C) 3 <!-- feedback: Incorrecto. No es la suma de los unos de la diagonal. -->
+- [x] B) 1 <!-- feedback: Correcto. En cualquier matriz identidad, el producto de la diagonal principal es 1 y todos los demás términos son 0. -->
 - [ ] D) -1 <!-- feedback: Incorrecto. El determinante de la identidad es positivo. -->
 
 ### Explicacion Pedagogica
@@ -229,8 +229,8 @@ Para cualquier matriz diagonal o triangular (donde los elementos fuera de la dia
 Encuentre el valor de $x$ para que el determinante de $\begin{pmatrix} x & 6 \\ 2 & 4 \end{pmatrix}$ sea igual a 0.
 
 ### Opciones
-- [ ] A) 2 <!-- feedback: Incorrecto. Si x=2, el det es 8 - 12 = -4. -->
-- [x] B) 3 <!-- feedback: Correcto. det = 4x - 12. Para que sea 0: 4x = 12 => x = 3. -->
+- [ ] B) 2 <!-- feedback: Incorrecto. Si x=2, el det es 8 - 12 = -4. -->
+- [x] A) 3 <!-- feedback: Correcto. det = 4x - 12. Para que sea 0: 4x = 12 => x = 3. -->
 - [ ] C) 0 <!-- feedback: Incorrecto. Si x=0, el det es -12. -->
 - [ ] D) 4 <!-- feedback: Incorrecto. Si x=4, el det es 16 - 12 = 4. -->
 
@@ -274,8 +274,8 @@ Si $\det(A) = 4$ y $\det(B) = -2$, ¿cuál es el valor de $\det(A \cdot B)$?
 
 ### Opciones
 - [ ] A) 2 <!-- feedback: Incorrecto. No se deben sumar los determinantes. -->
-- [ ] B) 6 <!-- feedback: Incorrecto. No se deben restar ni sumar los valores. -->
-- [x] C) -8 <!-- feedback: Correcto. Por propiedad: det(A * B) = det(A) * det(B). Entonces 4 * (-2) = -8. -->
+- [ ] C) 6 <!-- feedback: Incorrecto. No se deben restar ni sumar los valores. -->
+- [x] B) -8 <!-- feedback: Correcto. Por propiedad: det(A * B) = det(A) * det(B). Entonces 4 * (-2) = -8. -->
 - [ ] D) -2 <!-- feedback: Incorrecto. El producto de determinantes es multiplicativo. -->
 
 ### Explicacion Pedagogica
@@ -296,8 +296,8 @@ La propiedad distributiva del determinante respecto a la multiplicación estable
 
 ### Opciones
 - [ ] A) 13 <!-- feedback: Incorrecto. Posible error al calcular los signos de los cofactores. -->
-- [x] B) 9 <!-- feedback: Correcto. Expandiendo por la primera fila: 1*(-1*1 - 2*1) + 2*(3*2 - 0*-1) = 1*(-3) + 2*(6) = -3 + 12 = 9. -->
-- [ ] C) 5 <!-- feedback: Incorrecto. Olvidó el factor 2 del tercer elemento de la primera fila. -->
+- [x] C) 9 <!-- feedback: Correcto. Expandiendo por la primera fila: 1*(-1*1 - 2*1) + 2*(3*2 - 0*-1) = 1*(-3) + 2*(6) = -3 + 12 = 9. -->
+- [ ] B) 5 <!-- feedback: Incorrecto. Olvidó el factor 2 del tercer elemento de la primera fila. -->
 - [ ] D) 0 <!-- feedback: Incorrecto. La matriz no es singular. -->
 
 ### Explicacion Pedagogica
@@ -318,8 +318,8 @@ Si $A$ es una matriz de $2 \times 2$ con $\det(A) = 5$, ¿cuál es el valor de $
 
 ### Opciones
 - [ ] A) 15 <!-- feedback: Incorrecto. El escalar no sale del determinante de forma lineal si afecta a toda la matriz. -->
-- [x] B) 45 <!-- feedback: Correcto. Para una matriz de orden n, det(k*A) = k^n * det(A). Aquí 3^2 * 5 = 9 * 5 = 45. -->
-- [ ] C) 5 <!-- feedback: Incorrecto. Multiplicar la matriz por un escalar siempre cambia el valor del determinante. -->
+- [x] C) 45 <!-- feedback: Correcto. Para una matriz de orden n, det(k*A) = k^n * det(A). Aquí 3^2 * 5 = 9 * 5 = 45. -->
+- [ ] B) 5 <!-- feedback: Incorrecto. Multiplicar la matriz por un escalar siempre cambia el valor del determinante. -->
 - [ ] D) 25 <!-- feedback: Incorrecto. Elevó el determinante al cuadrado en lugar del escalar. -->
 
 ### Explicacion Pedagogica
@@ -339,10 +339,10 @@ Cuando multiplicamos una matriz por un escalar $k$, cada fila es multiplicada po
 ¿Cuál es la relación entre el determinante de una matriz $A$ y el determinante de su transpuesta $A^T$?
 
 ### Opciones
-- [x] A) Son iguales ($\det(A) = \det(A^T)$). <!-- feedback: Correcto. La operación de transponer no altera el valor del determinante de una matriz cuadrada. -->
-- [ ] B) Tienen signos opuestos. <!-- feedback: Incorrecto. Eso sucede al intercambiar filas, no al transponer. -->
-- [ ] C) El determinante de la transpuesta es el recíproco. <!-- feedback: Incorrecto. Esto sucede con la matriz inversa. -->
-- [ ] D) El determinante de la transpuesta es siempre mayor. <!-- feedback: Incorrecto. Son idénticos. -->
+- [x] D) Son iguales ($\det(A) = \det(A^T)$). <!-- feedback: Correcto. La operación de transponer no altera el valor del determinante de una matriz cuadrada. -->
+- [ ] A) Tienen signos opuestos. <!-- feedback: Incorrecto. Eso sucede al intercambiar filas, no al transponer. -->
+- [ ] B) El determinante de la transpuesta es el recíproco. <!-- feedback: Incorrecto. Esto sucede con la matriz inversa. -->
+- [ ] C) El determinante de la transpuesta es siempre mayor. <!-- feedback: Incorrecto. Son idénticos. -->
 
 ### Explicacion Pedagogica
 Esta propiedad demuestra la simetría entre filas y columnas respecto al determinante. Cualquier propiedad que sea cierta para las filas de un determinante también lo será para sus columnas.
@@ -362,8 +362,8 @@ Determine el determinante de $\begin{pmatrix} 2 & 5 & 7 \\ 0 & 4 & 1 \\ 0 & 0 & 
 
 ### Opciones
 - [ ] A) 0 <!-- feedback: Incorrecto. La matriz no es singular aunque tenga varios ceros. -->
-- [ ] B) 9 <!-- feedback: Incorrecto. Sumó los elementos de la diagonal. -->
-- [x] C) 24 <!-- feedback: Correcto. En matrices triangulares, el determinante es el producto de la diagonal principal: 2 * 4 * 3 = 24. -->
+- [ ] C) 9 <!-- feedback: Incorrecto. Sumó los elementos de la diagonal. -->
+- [x] B) 24 <!-- feedback: Correcto. En matrices triangulares, el determinante es el producto de la diagonal principal: 2 * 4 * 3 = 24. -->
 - [ ] D) 14 <!-- feedback: Incorrecto. Olvidó multiplicar por el último elemento de la diagonal. -->
 
 ### Explicacion Pedagogica
@@ -383,9 +383,9 @@ En las matrices triangulares (superior o inferior), todos los elementos por enci
 Si el determinante de $A$ es 0.25, ¿cuál es el determinante de su matriz inversa $A^{-1}$?
 
 ### Opciones
-- [ ] A) 0.25 <!-- feedback: Incorrecto. La matriz inversa no conserva el mismo determinante. -->
-- [ ] B) -0.25 <!-- feedback: Incorrecto. No cambia de signo. -->
-- [x] C) 4 <!-- feedback: Correcto. Por propiedad: det(A^-1) = 1 / det(A). Entonces 1 / 0.25 = 4. -->
+- [ ] B) 0.25 <!-- feedback: Incorrecto. La matriz inversa no conserva el mismo determinante. -->
+- [ ] C) -0.25 <!-- feedback: Incorrecto. No cambia de signo. -->
+- [x] A) 4 <!-- feedback: Correcto. Por propiedad: det(A^-1) = 1 / det(A). Entonces 1 / 0.25 = 4. -->
 - [ ] D) 0 <!-- feedback: Incorrecto. Si el determinante fuera 0, la inversa ni siquiera existiría. -->
 
 ### Explicacion Pedagogica
@@ -406,9 +406,9 @@ En un sistema de ecuaciones $Ax = B$, para hallar el valor de la incógnita $x_1
 
 ### Opciones
 - [ ] A) El determinante de la matriz transpuesta. <!-- feedback: Incorrecto. No tiene relación directa con la Regla de Cramer. -->
-- [x] B) El determinante de la matriz obtenida reemplazando la columna 1 de $A$ por el vector de términos constantes $B$. <!-- feedback: Correcto. Esta es la definición de la Regla de Cramer para cada variable. -->
-- [ ] C) El determinante de la matriz identidad. <!-- feedback: Incorrecto. El resultado sería simplemente 1/det(A). -->
-- [ ] D) El producto de los determinantes de todas las filas. <!-- feedback: Incorrecto. Cramer utiliza sustitución de columnas. -->
+- [x] D) El determinante de la matriz obtenida reemplazando la columna 1 de $A$ por el vector de términos constantes $B$. <!-- feedback: Correcto. Esta es la definición de la Regla de Cramer para cada variable. -->
+- [ ] B) El determinante de la matriz identidad. <!-- feedback: Incorrecto. El resultado sería simplemente 1/det(A). -->
+- [ ] C) El producto de los determinantes de todas las filas. <!-- feedback: Incorrecto. Cramer utiliza sustitución de columnas. -->
 
 ### Explicacion Pedagogica
 La Regla de Cramer es una aplicación directa de los determinantes para resolver sistemas lineales. Se basa en comparar qué tanto "pesa" el vector de resultados en cada una de las dimensiones (columnas) de la matriz de coeficientes.
@@ -427,9 +427,9 @@ La Regla de Cramer es una aplicación directa de los determinantes para resolver
 Si dos filas de una matriz cuadrada son idénticas, ¿cuál es el valor de su determinante?
 
 ### Opciones
-- [x] A) 0 <!-- feedback: Correcto. Si hay filas idénticas (o proporcionales), la matriz es singular y su determinante es nulo. -->
-- [ ] B) 1 <!-- feedback: Incorrecto. Filas idénticas implican dependencia lineal, lo que anula el determinante. -->
-- [ ] C) El valor del elemento repetido. <!-- feedback: Incorrecto. No depende de los valores individuales sino de la relación entre líneas. -->
+- [x] C) 0 <!-- feedback: Correcto. Si hay filas idénticas (o proporcionales), la matriz es singular y su determinante es nulo. -->
+- [ ] A) 1 <!-- feedback: Incorrecto. Filas idénticas implican dependencia lineal, lo que anula el determinante. -->
+- [ ] B) El valor del elemento repetido. <!-- feedback: Incorrecto. No depende de los valores individuales sino de la relación entre líneas. -->
 - [ ] D) No se puede calcular. <!-- feedback: Incorrecto. Sí se puede calcular y el resultado siempre es cero. -->
 
 ### Explicacion Pedagogica

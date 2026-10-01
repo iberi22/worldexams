@@ -32,9 +32,9 @@ Este bundle contiene 12 preguntas sobre **probabilidad-experimental** para grado
 ### Enunciado
 ¿Cómo se calcula la probabilidad experimental de obtener cara en ese experimento?
 ### Opciones
-- [x] A) Dividiendo el número de veces que salió cara entre el número total de lanzamientos: 27/50.
+- [x] B) Dividiendo el número de veces que salió cara entre el número total de lanzamientos: 27/50.
   <!-- feedback: Correcto. La probabilidad experimental es la frecuencia relativa del resultado observado. -->
-- [ ] B) Dividiendo 1 entre 2, sin tener en cuenta los resultados del experimento.
+- [ ] A) Dividiendo 1 entre 2, sin tener en cuenta los resultados del experimento.
   <!-- feedback: Incorrecto. Eso es la probabilidad teórica, no la experimental. -->
 - [ ] C) Sumando 27 + 50 y dividiendo entre 100.
   <!-- feedback: Incorrecto. La probabilidad experimental no se calcula con esa suma. -->
@@ -72,11 +72,11 @@ La probabilidad teórica se calcula como casos favorables sobre casos posibles s
 ### Enunciado
 ¿Cuál es la probabilidad experimental de obtener 3 en ese experimento?
 ### Opciones
-- [ ] A) 1/6
+- [ ] B) 1/6
   <!-- feedback: Incorrecto. 1/6 es la probabilidad teórica de cada cara del dado. -->
-- [ ] B) 12/48
+- [ ] C) 12/48
   <!-- feedback: Incorrecto. El denominador debe ser el total de lanzamientos, 60, no 48. -->
-- [x] C) 12/60, es decir, 1/5 o 0,2.
+- [x] A) 12/60, es decir, 1/5 o 0,2.
   <!-- feedback: Correcto. Se divide la frecuencia del 3 (12) entre el total de lanzamientos (60). -->
 - [ ] D) 60/12, es decir, 5.
   <!-- feedback: Incorrecto. La probabilidad no puede ser mayor que 1 y el cociente está invertido. -->
@@ -94,9 +94,9 @@ Frecuencia relativa = 12/60. Al simplificar dividiendo entre 12 se obtiene 1/5, 
 ### Opciones
 - [ ] A) 80/120, y significa que la próxima balota será roja con seguridad.
   <!-- feedback: Incorrecto. El denominador debe ser 200 y ninguna probabilidad menor que 1 da seguridad. -->
-- [x] B) 80/200 = 2/5, y significa que se estima que 2 de cada 5 extracciones serán rojas.
+- [x] C) 80/200 = 2/5, y significa que se estima que 2 de cada 5 extracciones serán rojas.
   <!-- feedback: Correcto. La frecuencia relativa estima la tendencia, sin garantizar el próximo resultado. -->
-- [ ] C) 200/80, y significa que saldrán 200 rojas en 80 intentos.
+- [ ] B) 200/80, y significa que saldrán 200 rojas en 80 intentos.
   <!-- feedback: Incorrecto. El cociente está invertido y la interpretación no tiene sentido. -->
 - [ ] D) 80/200 = 2/5, y significa que las próximas 5 extracciones darán exactamente 2 rojas.
   <!-- feedback: Incorrecto. La estimación describe una tendencia global, no un resultado exacto en 5 intentos. -->
@@ -116,9 +116,9 @@ Si cada giro para participar cuesta 2.000 COP, ¿cuál es la probabilidad experi
   <!-- feedback: Incorrecto. El total de giros es 120, no 90. -->
 - [ ] B) 30/120 = 1/4 y se esperarían exactamente 10 ganadores con seguridad.
   <!-- feedback: Incorrecto. El cálculo de la probabilidad es correcto, pero la predicción es una estimación, no un valor seguro. -->
-- [x] C) 30/120 = 1/4 y se esperarían alrededor de 10 ganadores en 40 giros.
+- [x] D) 30/120 = 1/4 y se esperarían alrededor de 10 ganadores en 40 giros.
   <!-- feedback: Correcto. La frecuencia relativa es 1/4 y 40 por 1/4 da una estimación de 10. -->
-- [ ] D) 120/30 = 4 y se esperarían 160 ganadores.
+- [ ] C) 120/30 = 4 y se esperarían 160 ganadores.
   <!-- feedback: Incorrecto. El cociente está invertido y una probabilidad no puede valer 4. -->
 ### Explicacion Pedagogica
 Probabilidad experimental = 30/120 = 1/4 = 25 %. Para estimar resultados futuros se multiplica el número de repeticiones por esa frecuencia: 40 × 1/4 = 10. Es un valor esperado aproximado, no una garantía.
@@ -134,9 +134,9 @@ Probabilidad experimental = 30/120 = 1/4 = 25 %. Para estimar resultados futuros
 ### Opciones
 - [ ] A) 160/400 = 2/5
   <!-- feedback: Incorrecto. Esa es la probabilidad de pagar con tarjeta. -->
-- [x] B) 240/400 = 3/5
+- [x] C) 240/400 = 3/5
   <!-- feedback: Correcto. En efectivo pagaron 400 − 160 = 240 clientes, luego 240/400 = 3/5. -->
-- [ ] C) 160/240
+- [ ] B) 160/240
   <!-- feedback: Incorrecto. Ese cociente compara tarjeta con efectivo, no con el total. -->
 - [ ] D) 400/240
   <!-- feedback: Incorrecto. El cociente está invertido y supera el valor máximo de 1. -->
@@ -172,9 +172,9 @@ Por la ley de los grandes números, al aumentar las repeticiones la frecuencia r
 ### Enunciado
 ¿Qué conclusión se sostiene con los datos?
 ### Opciones
-- [ ] A) El dado está cargado porque el lunes la frecuencia fue 9/30 = 0,3.
+- [ ] B) El dado está cargado porque el lunes la frecuencia fue 9/30 = 0,3.
   <!-- feedback: Incorrecto. Con solo 30 lanzamientos hay mucha variabilidad y no basta para afirmar que está cargado. -->
-- [x] B) Los datos del viernes (55/300, aproximadamente 0,183) se acercan más al valor teórico y sugieren que el dado se comporta de forma regular.
+- [x] A) Los datos del viernes (55/300, aproximadamente 0,183) se acercan más al valor teórico y sugieren que el dado se comporta de forma regular.
   <!-- feedback: Correcto. La muestra grande da 0,183, valor cercano a 0,167, compatible con un dado legal. -->
 - [ ] C) El experimento del lunes es mejor porque 0,3 está más cerca de 0,167 que 0,183.
   <!-- feedback: Incorrecto. 0,3 está más lejos de 0,167 que 0,183. -->
@@ -214,9 +214,9 @@ La variabilidad de la frecuencia relativa disminuye cuando crece el número de r
 ### Opciones
 - [ ] A) La afirmación es correcta porque 5/10 = 1/2 coincide con la teoría.
   <!-- feedback: Incorrecto. Una muestra de 10 es demasiado pequeña para concluir que la moneda es legal. -->
-- [x] B) La afirmación queda refutada porque 380/500 = 0,76 se aleja demasiado de 1/2 en una muestra grande.
+- [x] C) La afirmación queda refutada porque 380/500 = 0,76 se aleja demasiado de 1/2 en una muestra grande.
   <!-- feedback: Correcto. Con 500 lanzamientos, una frecuencia de 0,76 es evidencia fuerte de sesgo. -->
-- [ ] C) Ambos experimentos tienen el mismo peso y se anulan entre sí.
+- [ ] B) Ambos experimentos tienen el mismo peso y se anulan entre sí.
   <!-- feedback: Incorrecto. El experimento de 500 repeticiones tiene mucho más peso estadístico. -->
 - [ ] D) No se puede decir nada porque la probabilidad experimental nunca sirve para evaluar monedas.
   <!-- feedback: Incorrecto. Con muestras grandes, la frecuencia relativa sí permite detectar sesgos. -->
@@ -232,9 +232,9 @@ En 10 lanzamientos, obtener 5 caras es compatible con el azar aunque la moneda e
 ### Enunciado
 Si el curso contacta a 1.200 personas, ¿qué proyección de ingresos es razonable usando la probabilidad experimental y qué advertencia debe incluirse?
 ### Opciones
-- [ ] A) 75/300 = 1/4; ingresos de 300 por 5.000 = 1.500.000 COP garantizados.
+- [ ] B) 75/300 = 1/4; ingresos de 300 por 5.000 = 1.500.000 COP garantizados.
   <!-- feedback: Incorrecto. La proyección numérica es correcta, pero no se puede hablar de ingresos garantizados. -->
-- [x] B) 75/300 = 1/4; se esperan unos 300 compradores y 1.500.000 COP, entendiendo que es una estimación sujeta a variación.
+- [x] A) 75/300 = 1/4; se esperan unos 300 compradores y 1.500.000 COP, entendiendo que es una estimación sujeta a variación.
   <!-- feedback: Correcto. 1.200 por 1/4 = 300 compradores y 300 por 5.000 = 1.500.000 COP como valor esperado. -->
 - [ ] C) 300/75 = 4; se esperan 4.800 compradores y 24.000.000 COP.
   <!-- feedback: Incorrecto. El cociente está invertido y el resultado supera el total de contactados. -->
@@ -252,11 +252,11 @@ Probabilidad experimental de compra = 75/300 = 1/4 = 25 %. Compradores esperados
 ### Enunciado
 ¿Qué error comete la estudiante y cuál es la evaluación correcta?
 ### Opciones
-- [ ] A) No comete ningún error: si no salió, la probabilidad es 0 y el suceso es imposible.
+- [ ] B) No comete ningún error: si no salió, la probabilidad es 0 y el suceso es imposible.
   <!-- feedback: Incorrecto. Una frecuencia de cero en una muestra pequeña no demuestra imposibilidad. -->
-- [ ] B) El error es aritmético: 0/12 es indefinido y no se puede calcular.
+- [ ] C) El error es aritmético: 0/12 es indefinido y no se puede calcular.
   <!-- feedback: Incorrecto. 0/12 sí está definido y vale 0; el problema es la interpretación, no la división. -->
-- [x] C) Confunde frecuencia cero en una muestra pequeña con imposibilidad: 0/12 describe lo observado, pero no prueba que el 1 no pueda salir.
+- [x] A) Confunde frecuencia cero en una muestra pequeña con imposibilidad: 0/12 describe lo observado, pero no prueba que el 1 no pueda salir.
   <!-- feedback: Correcto. La ausencia en 12 intentos es compatible con el azar en un dado legal. -->
 - [ ] D) El error es usar probabilidad experimental en dados, que solo admite probabilidad teórica.
   <!-- feedback: Incorrecto. Ambos enfoques son válidos y complementarios para un dado. -->

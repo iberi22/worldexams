@@ -33,9 +33,9 @@ calibration: {difficulty_band: "D3-D10", expected_success: 0.65}
 
 ### Opciones
 - [ ] A) La inauguración de un nuevo paseo comercial en la ciudad de Salto. <!-- feedback: Incorrecto. El texto habla del paseo costero inundado, no de inauguraciones. -->
-- [x] B) La crecida del río Uruguay y la consecuente evacuación preventiva de familias en Salto. <!-- feedback: ¡Correcto! El fragmento informa de forma directa sobre la crecida de dos metros y las evacuaciones resultantes. -->
-- [ ] C) La construcción de una represa hidroeléctrica en el río Uruguay. <!-- feedback: Incorrecto. No se hace mención a la construcción de represas. -->
-- [ ] D) Un festival deportivo náutico suspendido por mal tiempo. <!-- feedback: Incorrecto. No hay referencias a competencias ni eventos deportivos. -->
+- [x] D) La crecida del río Uruguay y la consecuente evacuación preventiva de familias en Salto. <!-- feedback: ¡Correcto! El fragmento informa de forma directa sobre la crecida de dos metros y las evacuaciones resultantes. -->
+- [ ] B) La construcción de una represa hidroeléctrica en el río Uruguay. <!-- feedback: Incorrecto. No se hace mención a la construcción de represas. -->
+- [ ] C) Un festival deportivo náutico suspendido por mal tiempo. <!-- feedback: Incorrecto. No hay referencias a competencias ni eventos deportivos. -->
 
 ### Explicación Pedagógica
 La idea central explicita los hechos fundamentales reportados: el aumento del caudal del río y las consecuencias humanas directas en la costa de Salto.
@@ -70,8 +70,8 @@ Los conectores concesivos (*a pesar de*, *pese a*) articulan una objeción que r
 ¿Qué función sintáctica desempeña el adverbio "meticulosamente" en el enunciado?
 
 ### Opciones
-- [ ] A) Atributo del sujeto. <!-- feedback: Incorrecto. "Meticulosamente" no es un adjetivo atributivo. -->
-- [x] B) Complemento Circunstancial de Modo. <!-- feedback: ¡Correcto! Modifica al verbo "analizaron" indicando la manera en que se realizó la acción. -->
+- [ ] B) Atributo del sujeto. <!-- feedback: Incorrecto. "Meticulosamente" no es un adjetivo atributivo. -->
+- [x] A) Complemento Circunstancial de Modo. <!-- feedback: ¡Correcto! Modifica al verbo "analizaron" indicando la manera en que se realizó la acción. -->
 - [ ] C) Complemento Directo del verbo. <!-- feedback: Incorrecto. El complemento directo es "el informe presupuestario de la Intendencia". -->
 - [ ] D) Modificador directo del sustantivo "ediles". <!-- feedback: Incorrecto. Los adverbios no modifican a los sustantivos. -->
 
@@ -89,8 +89,8 @@ El adverbio terminado en *-mente* actúa como complemento circunstancial modal d
 ¿Qué recurso expresivo o figura literaria se utiliza al atribuirle al viento la acción de "aullar"?
 
 ### Opciones
-- [ ] A) Metáfora pura. <!-- feedback: Incorrecto. No se sustituye un término por otro en una relación de equivalencia. -->
-- [x] B) Personificación (o prosopopeya). <!-- feedback: ¡Correcto! Se atribuye un rasgo animal/humano (aullar) a un fenómeno inanimado de la naturaleza (el viento). -->
+- [ ] B) Metáfora pura. <!-- feedback: Incorrecto. No se sustituye un término por otro en una relación de equivalencia. -->
+- [x] A) Personificación (o prosopopeya). <!-- feedback: ¡Correcto! Se atribuye un rasgo animal/humano (aullar) a un fenómeno inanimado de la naturaleza (el viento). -->
 - [ ] C) Hipérbole. <!-- feedback: Incorrecto. No es una exageración cuantitativa deliberada. -->
 - [ ] D) Antítesis. <!-- feedback: Incorrecto. No contrapone dos ideas u opuestos. -->
 
@@ -108,10 +108,10 @@ La personificación asigna propiedades, acciones o pasiones propias de los seres
 ¿Qué figura retórica se configura mediante la repetición deliberada de la palabra "Caminaron" al comienzo de cada oración?
 
 ### Opciones
-- [x] A) Anáfora. <!-- feedback: ¡Correcto! La anáfora consiste en la repetición de una o más palabras al inicio de versos u oraciones consecutivas. -->
-- [ ] B) Epífora. <!-- feedback: Incorrecto. La epífora repite palabras al final de las cláusulas. -->
-- [ ] C) Aliteración. <!-- feedback: Incorrecto. La aliteración repite sonidos fonéticos, no palabras completas. -->
-- [ ] D) Encabalgamiento. <!-- feedback: Incorrecto. El encabalgamiento es un recurso métrico poético que rompe la unidad sintáctica al final del verso. -->
+- [x] D) Anáfora. <!-- feedback: ¡Correcto! La anáfora consiste en la repetición de una o más palabras al inicio de versos u oraciones consecutivas. -->
+- [ ] A) Epífora. <!-- feedback: Incorrecto. La epífora repite palabras al final de las cláusulas. -->
+- [ ] B) Aliteración. <!-- feedback: Incorrecto. La aliteración repite sonidos fonéticos, no palabras completas. -->
+- [ ] C) Encabalgamiento. <!-- feedback: Incorrecto. El encabalgamiento es un recurso métrico poético que rompe la unidad sintáctica al final del verso. -->
 
 ### Explicación Pedagógica
 La anáfora es una figura de dicción que enfatiza la perseverancia de una acción mediante el ritmo repetitivo al inicio de las unidades sintácticas.
@@ -128,9 +128,9 @@ La anáfora es una figura de dicción que enfatiza la perseverancia de una acci�
 
 ### Opciones
 - [ ] A) Poética y metalingüística. <!-- feedback: Incorrecto. No hay elaboración estética ni reflexión sobre la lengua. -->
-- [x] B) Apelativa (o conativa) y referencial (o informativa). <!-- feedback: ¡Correcto! "alcanzame" busca actuar sobre el oyente (apelativa) y "el agua... ya está hirviendo" transmite datos del entorno (referencial). -->
-- [ ] C) Fática y emotiva exclusivamente. <!-- feedback: Incorrecto. Aunque hay emotividad, la orden directa marca el predominio apelativo. -->
-- [ ] D) Referencial pura sin apelación. <!-- feedback: Incorrecto. La presencia del imperativo marca una clara intención apelativa. -->
+- [x] D) Apelativa (o conativa) y referencial (o informativa). <!-- feedback: ¡Correcto! "alcanzame" busca actuar sobre el oyente (apelativa) y "el agua... ya está hirviendo" transmite datos del entorno (referencial). -->
+- [ ] B) Fática y emotiva exclusivamente. <!-- feedback: Incorrecto. Aunque hay emotividad, la orden directa marca el predominio apelativo. -->
+- [ ] C) Referencial pura sin apelación. <!-- feedback: Incorrecto. La presencia del imperativo marca una clara intención apelativa. -->
 
 ### Explicación Pedagógica
 El enunciado combina el mandato directo dirigido al interlocutor (función apelativa) con la transmisión de un estado fáctico de la realidad (función referencial).
@@ -146,8 +146,8 @@ El enunciado combina el mandato directo dirigido al interlocutor (función apela
 ¿Qué clase de subordinada es "que la sequía afectó severamente la producción del último trimestre"?
 
 ### Opciones
-- [ ] A) Subordinada adjetiva especificativa. <!-- feedback: Incorrecto. No modifica a ningún sustantivo antecedente. -->
-- [x] B) Subordinada sustantiva en función de complemento directo. <!-- feedback: ¡Correcto! Equivale a "lo declararon" (o "declararon *eso*"), funcionando como CD del verbo "declararon". -->
+- [ ] B) Subordinada adjetiva especificativa. <!-- feedback: Incorrecto. No modifica a ningún sustantivo antecedente. -->
+- [x] A) Subordinada sustantiva en función de complemento directo. <!-- feedback: ¡Correcto! Equivale a "lo declararon" (o "declararon *eso*"), funcionando como CD del verbo "declararon". -->
 - [ ] C) Subordinada adverbial de causa. <!-- feedback: Incorrecto. No está introducida por un conector causal como "porque". -->
 - [ ] D) Subordinada sustantiva en función de sujeto. <!-- feedback: Incorrecto. El sujeto de "declararon" es "Los productores lecheros de San José". -->
 
@@ -166,9 +166,9 @@ Las cláusulas introducidas por la conjunción completiva *que* tras verbos de l
 
 ### Opciones
 - [ ] A) Causa e implicación directa. <!-- feedback: Incorrecto. No señala la causa de la primera afirmación. -->
-- [x] B) Oposición o contraste rectificativo. <!-- feedback: ¡Correcto! Niega la primera interpretación y afirma la opción opuesta correcta. -->
-- [ ] C) Concesión parcial sin negación. <!-- feedback: Incorrecto. Hay una negación explícita previa (*no busca...*). -->
-- [ ] D) Suma de argumentos equivalentes. <!-- feedback: Incorrecto. No es un conector aditivo. -->
+- [x] D) Oposición o contraste rectificativo. <!-- feedback: ¡Correcto! Niega la primera interpretación y afirma la opción opuesta correcta. -->
+- [ ] B) Concesión parcial sin negación. <!-- feedback: Incorrecto. Hay una negación explícita previa (*no busca...*). -->
+- [ ] C) Suma de argumentos equivalentes. <!-- feedback: Incorrecto. No es un conector aditivo. -->
 
 ### Explicación Pedagógica
 Los conectores adversativos rectificativos (*por el contrario*, *antes bien*) sirven para desestimar una premisa y reemplazarla por la afirmación considerada certera.
@@ -184,8 +184,8 @@ Los conectores adversativos rectificativos (*por el contrario*, *antes bien*) si
 ¿Qué tipo de articulación discursiva organiza la relación entre ambos enunciados?
 
 ### Opciones
-- [x] A) Causa-Efecto (o causa-consecuencia). <!-- feedback: ¡Correcto! La contaminación es la causa y la presencia de microplásticos en la fauna es la consecuencia lógica introducida por "En consecuencia". -->
-- [ ] B) Comparación analógica entre dos regiones costeras. <!-- feedback: Incorrecto. No se comparan dos lugares distintos. -->
+- [x] B) Causa-Efecto (o causa-consecuencia). <!-- feedback: ¡Correcto! La contaminación es la causa y la presencia de microplásticos en la fauna es la consecuencia lógica introducida por "En consecuencia". -->
+- [ ] A) Comparación analógica entre dos regiones costeras. <!-- feedback: Incorrecto. No se comparan dos lugares distintos. -->
 - [ ] C) Problema-Solución con resolución tecnológica. <!-- feedback: Incorrecto. No se plantea la solución al problema ambiental. -->
 - [ ] D) Cronología histórica descriptiva. <!-- feedback: Incorrecto. No es una mera lista temporal de hechos. -->
 
@@ -203,8 +203,8 @@ El conector explicativo "En consecuencia" explicita que el segundo enunciado der
 ¿Qué figura estilística se configura al identificar directamente "Su mirada" con "un mar embravecido"?
 
 ### Opciones
-- [ ] A) Símil (o comparación explícita). <!-- feedback: Incorrecto. Carece del nexo comparativo explícito (*como*, *cual*). -->
-- [x] B) Metáfora en idéntica relación atributiva (A es B). <!-- feedback: ¡Correcto! Se establece una identificación directa entre el término real (mirada) y el evocado (mar embravecido) sin nexo comparativo. -->
+- [ ] B) Símil (o comparación explícita). <!-- feedback: Incorrecto. Carece del nexo comparativo explícito (*como*, *cual*). -->
+- [x] A) Metáfora en idéntica relación atributiva (A es B). <!-- feedback: ¡Correcto! Se establece una identificación directa entre el término real (mirada) y el evocado (mar embravecido) sin nexo comparativo. -->
 - [ ] C) Metonimia por contigüidad espacial. <!-- feedback: Incorrecto. La relación no es de inclusión o causa-efecto material. -->
 - [ ] D) Sinestesia. <!-- feedback: Incorrecto. No hay cruce de impresiones sensoriales distintas (gusto/oído, etc.). -->
 
@@ -223,9 +223,9 @@ La metáfora impura en forma copulativa (A es B) equipara directamente dos domin
 
 ### Opciones
 - [ ] A) Sinonimia absoluta. <!-- feedback: Incorrecto. No son palabras con idéntico significado. -->
-- [x] B) Hiperonimia e hiponimia (hiperónimo: peces; hipónimos: dorados, sábalos, pejerreyes). <!-- feedback: ¡Correcto! "Peces" es un término de mayor extensión semántica (hiperónimo) que engloba a las especies específicas (hipónimos). -->
-- [ ] C) Antonimia complementaria. <!-- feedback: Incorrecto. No se oponen en significado. -->
-- [ ] D) Homonimia sintáctica. <!-- feedback: Incorrecto. No son palabras de distinta raíz que suenan igual. -->
+- [x] D) Hiperonimia e hiponimia (hiperónimo: peces; hipónimos: dorados, sábalos, pejerreyes). <!-- feedback: ¡Correcto! "Peces" es un término de mayor extensión semántica (hiperónimo) que engloba a las especies específicas (hipónimos). -->
+- [ ] B) Antonimia complementaria. <!-- feedback: Incorrecto. No se oponen en significado. -->
+- [ ] C) Homonimia sintáctica. <!-- feedback: Incorrecto. No son palabras de distinta raíz que suenan igual. -->
 
 ### Explicación Pedagógica
 La inclusión jerárquica entre un término genérico (hiperónimo) y sus especies particulares (hipónimos) garantiza la variabilidad léxica y la cohesión del texto.
@@ -243,8 +243,8 @@ La inclusión jerárquica entre un término genérico (hiperónimo) y sus especi
 ¿Qué transformación sintáctica y qué cambio de foco informativo se produce al pasar de la oración 1 a la 2?
 
 ### Opciones
-- [ ] A) La oración 1 es pasiva y la 2 es activa reflexiva, focalizando en las obras. <!-- feedback: Incorrecto. La 1 es activa y la 2 es pasiva perifrástica. -->
-- [x] B) Pasaje de voz activa a voz pasiva perifrástica, desplazando el foco de atención hacia el objeto afectado ("el impacto ambiental") que pasa a ser sujeto paciente. <!-- feedback: ¡Correcto! La voz pasiva tematiza el complemento directo de la activa convirtiéndolo en sujeto paciente. -->
+- [ ] B) La oración 1 es pasiva y la 2 es activa reflexiva, focalizando en las obras. <!-- feedback: Incorrecto. La 1 es activa y la 2 es pasiva perifrástica. -->
+- [x] A) Pasaje de voz activa a voz pasiva perifrástica, desplazando el foco de atención hacia el objeto afectado ("el impacto ambiental") que pasa a ser sujeto paciente. <!-- feedback: ¡Correcto! La voz pasiva tematiza el complemento directo de la activa convirtiéndolo en sujeto paciente. -->
 - [ ] C) Cambio de modo verbal de indicativo a subjuntivo. <!-- feedback: Incorrecto. Ambas oraciones están en modo indicativo. -->
 - [ ] D) Eliminación del complemento agente sin alterar la estructura sintáctica. <!-- feedback: Incorrecto. El complemento agente ("por el comité técnico") está explícito en la voz pasiva. -->
 
@@ -263,9 +263,9 @@ La pasivización reorganiza la jerarquía de la información (tematización): en
 
 ### Opciones
 - [ ] A) Generan un tono cómico y festivo sobre la vida portuaria. <!-- feedback: Incorrecto. La niebla, el silencio y los galpones abandonados no construyen comicidad. -->
-- [x] B) Construyen un clima de desolación, misterio y aislamiento mediante adjetivación sensorial ("niebla", "silencio denso", "galpones abandonados"). <!-- feedback: ¡Correcto! El vocabulario seleccionado apela a lo auditivo y visual para crear una atmósfera introspectiva y solitaria. -->
-- [ ] C) Muestran un ritmo narrativo acelerado propio de una novela de acción policial. <!-- feedback: Incorrecto. El ritmo descriptivo es pausado y contemplativo. -->
-- [ ] D) Presentan una crítica socioeconómica explícita a la industria frigorífica. <!-- feedback: Incorrecto. El pasaje es poético-descriptivo, no un ensayo de crítica social explícita. -->
+- [x] D) Construyen un clima de desolación, misterio y aislamiento mediante adjetivación sensorial ("niebla", "silencio denso", "galpones abandonados"). <!-- feedback: ¡Correcto! El vocabulario seleccionado apela a lo auditivo y visual para crear una atmósfera introspectiva y solitaria. -->
+- [ ] B) Muestran un ritmo narrativo acelerado propio de una novela de acción policial. <!-- feedback: Incorrecto. El ritmo descriptivo es pausado y contemplativo. -->
+- [ ] C) Presentan una crítica socioeconómica explícita a la industria frigorífica. <!-- feedback: Incorrecto. El pasaje es poético-descriptivo, no un ensayo de crítica social explícita. -->
 
 ### Explicación Pedagógica
 La selección del léxico sensorial y la adjetivación en los pasajes descriptivos funcionan como herramientas para modelar el espacio y la carga afectiva o psicológica del texto.
@@ -281,8 +281,8 @@ La selección del léxico sensorial y la adjetivación en los pasajes descriptiv
 ¿Cuál es la estrategia discursiva utilizada por el autor para validar su postura sobre la descentralización?
 
 ### Opciones
-- [ ] A) Ataque personal a las autoridades de la capital. <!-- feedback: Incorrecto. No realiza descalificaciones personales (ad hominem). -->
-- [x] B) Refutación de la contraargumentación mediante la aportación de datos empíricos contrastables. <!-- feedback: ¡Correcto! Expone el argumento contrario ("diluye la calidad") y lo invalida mostrando evidencia de rendimiento en sedes regionales. -->
+- [ ] B) Ataque personal a las autoridades de la capital. <!-- feedback: Incorrecto. No realiza descalificaciones personales (ad hominem). -->
+- [x] A) Refutación de la contraargumentación mediante la aportación de datos empíricos contrastables. <!-- feedback: ¡Correcto! Expone el argumento contrario ("diluye la calidad") y lo invalida mostrando evidencia de rendimiento en sedes regionales. -->
 - [ ] C) Apelación a la emotividad del lector para despertar piedad. <!-- feedback: Incorrecto. Fundamenta su discurso en datos académicos, no en sentimentalismos. -->
 - [ ] D) Cita de autoridad de filósofos griegos antiguos. <!-- feedback: Incorrecto. No recurre a citas de autoridad clásicas. -->
 
@@ -338,8 +338,8 @@ El modo subjuntivo es la categoría gramatical de la irrealidad, la duda, la pos
 Evaluá la solidez del argumento del ensayista sobre el impacto de las tecnologías digitales en la lectura.
 
 ### Opciones
-- [ ] A) El argumento es irrefutable porque se basa en una verdad divina indiscutible. <!-- feedback: Incorrecto. No apela a dogmas religiosos. -->
-- [x] B) Plantea una hipótesis crítica sobre la transformación cognitiva de la lectura, sugiriendo una causalidad directa entre la brevedad del formato digital y la atrofia de la atención profunda. <!-- feedback: ¡Correcto! Evalúa de forma crítica la relación de causa-efecto entre el hábito de consumo digital y el desarrollo de competencias lectoras analíticas. -->
+- [ ] B) El argumento es irrefutable porque se basa en una verdad divina indiscutible. <!-- feedback: Incorrecto. No apela a dogmas religiosos. -->
+- [x] A) Plantea una hipótesis crítica sobre la transformación cognitiva de la lectura, sugiriendo una causalidad directa entre la brevedad del formato digital y la atrofia de la atención profunda. <!-- feedback: ¡Correcto! Evalúa de forma crítica la relación de causa-efecto entre el hábito de consumo digital y el desarrollo de competencias lectoras analíticas. -->
 - [ ] C) Demuestra cuantitativamente que los jóvenes uruguayos no leen ningún libro al año. <!-- feedback: Incorrecto. El texto no aporta cifras porcentuales concretas. -->
 - [ ] D) Defiende las redes sociales como el mejor medio pedagógico para la enseñanza de la literatura. <!-- feedback: Incorrecto. El ensayista sostiene una postura crítica hacia las redes, no de defensa. -->
 
@@ -377,9 +377,9 @@ La sociolingüística moderna se opone al purismo prescriptivo, demostrando que 
 
 ### Opciones
 - [ ] A) El modelo de la escritura como mera transcripción automática del pensamiento. <!-- feedback: Incorrecto. El texto descarta que sea volcar un pensamiento ya perfecto. -->
-- [x] B) El modelo epistémico y procesual de la escritura, que la concibe como una herramienta de desarrollo cognitivo e indagación reflexiva. <!-- feedback: ¡Correcto! Entiende la composición como un proceso dinámico (planificación-revisión) donde el lenguaje actúa como motor del pensamiento. -->
-- [ ] C) La teoría del genio inspirado que redacta de un solo tirón sin corregir. <!-- feedback: Incorrecto. El modelo procesual exige reescritura y revisión. -->
-- [ ] D) La exigencia de memorizar el diccionario antes de comenzar a escribir. <!-- feedback: Incorrecto. No tiene relación con el modelo epistémico de redacción. -->
+- [x] D) El modelo epistémico y procesual de la escritura, que la concibe como una herramienta de desarrollo cognitivo e indagación reflexiva. <!-- feedback: ¡Correcto! Entiende la composición como un proceso dinámico (planificación-revisión) donde el lenguaje actúa como motor del pensamiento. -->
+- [ ] B) La teoría del genio inspirado que redacta de un solo tirón sin corregir. <!-- feedback: Incorrecto. El modelo procesual exige reescritura y revisión. -->
+- [ ] C) La exigencia de memorizar el diccionario antes de comenzar a escribir. <!-- feedback: Incorrecto. No tiene relación con el modelo epistémico de redacción. -->
 
 ### Explicación Pedagógica
 La concepción epistémica de la escritura sostiene que redactar no es solo comunicar lo que ya se sabe, sino un medio para construir, transformar y profundizar el conocimiento a través del ciclo de revisión.

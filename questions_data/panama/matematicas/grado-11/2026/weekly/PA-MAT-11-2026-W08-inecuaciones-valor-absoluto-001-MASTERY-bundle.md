@@ -51,9 +51,9 @@ Si el costo total $C$ debe ser menor o igual a $\$50.00$ balboas, ¿cuál es la 
 
 ### Opciones
 - [ ] A) $C < 50$ <!-- feedback: Incorrecto. Este símbolo excluye el valor exacto de 50 balboas de la solución. -->
-- [x] B) $C \leq 50$ <!-- feedback: Correcto. El símbolo representa "menor o igual que", incluyendo el límite superior del presupuesto. -->
-- [ ] C) $C > 50$ <!-- feedback: Incorrecto. Este símbolo representa la condición opuesta (mayor que cincuenta). -->
-- [ ] D) $C \geq 50$ <!-- feedback: Incorrecto. Este símbolo representaría un presupuesto mínimo de cincuenta balboas. -->
+- [x] D) $C \leq 50$ <!-- feedback: Correcto. El símbolo representa "menor o igual que", incluyendo el límite superior del presupuesto. -->
+- [ ] B) $C > 50$ <!-- feedback: Incorrecto. Este símbolo representa la condición opuesta (mayor que cincuenta). -->
+- [ ] C) $C \geq 50$ <!-- feedback: Incorrecto. Este símbolo representaría un presupuesto mínimo de cincuenta balboas. -->
 
 ### Explicacion Pedagogica
 Uso de símbolos de desigualdad para modelar restricciones de la vida real mediante inecuaciones.
@@ -71,8 +71,8 @@ Uso de símbolos de desigualdad para modelar restricciones de la vida real media
 ¿Cuál es el valor resultante de calcular $|-15.5|$?
 
 ### Opciones
-- [ ] A) $-15.5$ <!-- feedback: Incorrecto. El valor absoluto representa una distancia y por lo tanto nunca es negativo. -->
-- [x] B) $15.5$ <!-- feedback: Correcto. El valor absoluto es la magnitud numérica del dato prescindiendo de su signo algebraico. -->
+- [ ] B) $-15.5$ <!-- feedback: Incorrecto. El valor absoluto representa una distancia y por lo tanto nunca es negativo. -->
+- [x] A) $15.5$ <!-- feedback: Correcto. El valor absoluto es la magnitud numérica del dato prescindiendo de su signo algebraico. -->
 - [ ] C) $0$ <!-- feedback: Incorrecto. Solo el valor absoluto del número cero es igual a la unidad nula. -->
 - [ ] D) $\sqrt{15.5}$ <!-- feedback: Incorrecto. El concepto de valor absoluto no guarda relación directa con la operación de radicación. -->
 
@@ -134,8 +134,8 @@ Aplicación de la regla de inversión del signo de desigualdad al operar con fac
 Resuelve la inecuación con valor absoluto fundamental: $|x| \leq 3$.
 
 ### Opciones
-- [ ] A) $x \leq 3$ <!-- feedback: Incompleto. Se omitieron todos los valores negativos cuyo valor absoluto también es menor a tres. -->
-- [x] B) $-3 \leq x \leq 3$ <!-- feedback: Correcto. Por definición el valor absoluto menor que una constante define un intervalo cerrado central. -->
+- [ ] B) $x \leq 3$ <!-- feedback: Incompleto. Se omitieron todos los valores negativos cuyo valor absoluto también es menor a tres. -->
+- [x] A) $-3 \leq x \leq 3$ <!-- feedback: Correcto. Por definición el valor absoluto menor que una constante define un intervalo cerrado central. -->
 - [ ] C) $x \geq -3$ <!-- feedback: Incompleto. Falta establecer el límite superior del conjunto de soluciones posibles. -->
 - [ ] D) $|x| < 3$ <!-- feedback: Incorrecto. La respuesta debe eliminar la notación de valor absoluto para ser una solución. -->
 
@@ -155,8 +155,8 @@ Resolución de inecuaciones fundamentales con valor absoluto (menor o igual).
 Halla el conjunto solución de la inecuación: $3x - 4 \geq 11$.
 
 ### Opciones
-- [ ] A) $x \geq 7/3$ <!-- feedback: Incorrecto. Se restó la constante en lugar de sumarla al miembro de la derecha. -->
-- [x] B) $x \geq 5$ <!-- feedback: Correcto. Trasponiendo: 3x >= 15, por lo tanto x es mayor o igual que cinco. -->
+- [ ] B) $x \geq 7/3$ <!-- feedback: Incorrecto. Se restó la constante en lugar de sumarla al miembro de la derecha. -->
+- [x] A) $x \geq 5$ <!-- feedback: Correcto. Trasponiendo: 3x >= 15, por lo tanto x es mayor o igual que cinco. -->
 - [ ] C) $x \leq 5$ <!-- feedback: Incorrecto. Se invirtió el sentido de la desigualdad de forma innecesaria en este proceso. -->
 - [ ] D) $x > 5$ <!-- feedback: Incorrecto. El signo original incluye la posibilidad de igualdad, la cual se omitió aquí. -->
 
@@ -177,9 +177,9 @@ Resuelve la inecuación con valor absoluto de alejamiento: $|x| > 5$.
 
 ### Opciones
 - [ ] A) $-5 < x < 5$ <!-- feedback: Incorrecto. Este intervalo correspondería al caso en que el valor absoluto fuera menor a cinco. -->
-- [x] B) $x < -5$ o $x > 5$ <!-- feedback: Correcto. Indica que el número se encuentra alejado del origen más de cinco unidades en cualquier sentido. -->
-- [ ] C) $x > 5$ únicamente <!-- feedback: Incompleto. Se olvidaron los números negativos cuya magnitud también supera el valor de cinco. -->
-- [ ] D) $x = \pm 5$ <!-- feedback: Incorrecto. El resultado de la inecuación no son puntos aislados sino intervalos de la recta. -->
+- [x] D) $x < -5$ o $x > 5$ <!-- feedback: Correcto. Indica que el número se encuentra alejado del origen más de cinco unidades en cualquier sentido. -->
+- [ ] B) $x > 5$ únicamente <!-- feedback: Incompleto. Se olvidaron los números negativos cuya magnitud también supera el valor de cinco. -->
+- [ ] C) $x = \pm 5$ <!-- feedback: Incorrecto. El resultado de la inecuación no son puntos aislados sino intervalos de la recta. -->
 
 ### Explicacion Pedagogica
 Resolución de inecuaciones fundamentales con valor absoluto (mayor que).
@@ -240,9 +240,9 @@ Halla la solución de la inecuación: $|2x - 4| < 6$.
 
 ### Opciones
 - [ ] A) $x < 5$ <!-- feedback: Incompleto. Falta considerar la restricción inferior impuesta por la definición de distancia. -->
-- [x] B) $-1 < x < 5$ <!-- feedback: Correcto. -6 < 2x-4 < 6 implica -2 < 2x < 10, por lo tanto el rango es de menos uno a cinco. -->
-- [ ] C) $x < -1$ o $x > 5$ <!-- feedback: Incorrecto. Este conjunto de soluciones correspondería al caso de mayor que seis. -->
-- [ ] D) $1 < x < 5$ <!-- feedback: Incorrecto. Error de signos al resolver la parte negativa de la desigualdad absoluta. -->
+- [x] D) $-1 < x < 5$ <!-- feedback: Correcto. -6 < 2x-4 < 6 implica -2 < 2x < 10, por lo tanto el rango es de menos uno a cinco. -->
+- [ ] B) $x < -1$ o $x > 5$ <!-- feedback: Incorrecto. Este conjunto de soluciones correspondería al caso de mayor que seis. -->
+- [ ] C) $1 < x < 5$ <!-- feedback: Incorrecto. Error de signos al resolver la parte negativa de la desigualdad absoluta. -->
 
 ### Explicacion Pedagogica
 Resolución de inecuaciones de valor absoluto de la forma |ax + b| < c.
@@ -261,9 +261,9 @@ Determina el intervalo de solución para: $|3 - x| \geq 2$.
 
 ### Opciones
 - [ ] A) $[1, 5]$ <!-- feedback: Incorrecto. Este intervalo representa los valores que no cumplen la condición de alejamiento. -->
-- [x] B) $x \leq 1$ o $x \geq 5$ <!-- feedback: Correcto. Resolviendo los dos casos de la desigualdad se obtienen estos dos semi-intervalos. -->
-- [ ] C) $1 \leq x \leq 5$ <!-- feedback: Incorrecto. Confusión entre las reglas de resolución para menor que y mayor que en valor absoluto. -->
-- [ ] D) $x < 1$ o $x > 5$ <!-- feedback: Incorrecto. Se omitieron los puntos extremos que sí satisfacen la igualdad del signo original. -->
+- [x] D) $x \leq 1$ o $x \geq 5$ <!-- feedback: Correcto. Resolviendo los dos casos de la desigualdad se obtienen estos dos semi-intervalos. -->
+- [ ] B) $1 \leq x \leq 5$ <!-- feedback: Incorrecto. Confusión entre las reglas de resolución para menor que y mayor que en valor absoluto. -->
+- [ ] C) $x < 1$ o $x > 5$ <!-- feedback: Incorrecto. Se omitieron los puntos extremos que sí satisfacen la igualdad del signo original. -->
 
 ### Explicacion Pedagogica
 Análisis y resolución de inecuaciones de valor absoluto de la forma |ax + b| >= c.
@@ -281,9 +281,9 @@ Análisis y resolución de inecuaciones de valor absoluto de la forma |ax + b| >
 ¿Cuál es la solución de la inecuación: $2(x - 1) - 3(x + 2) \leq 4$?
 
 ### Opciones
-- [x] A) $x \geq -12$ <!-- feedback: Correcto. 2x-2-3x-6 <= 4 resulta en -x-8 <= 4, por lo que -x <= 12 y x >= -12. -->
-- [ ] B) $x \leq -12$ <!-- feedback: Incorrecto. Se olvidó invertir el signo de desigualdad al tratar con el coeficiente negativo de x. -->
-- [ ] C) $x \leq 12$ <!-- feedback: Incorrecto. Error cometido en el signo de la constante final tras realizar los despejes. -->
+- [x] C) $x \geq -12$ <!-- feedback: Correcto. 2x-2-3x-6 <= 4 resulta en -x-8 <= 4, por lo que -x <= 12 y x >= -12. -->
+- [ ] A) $x \leq -12$ <!-- feedback: Incorrecto. Se olvidó invertir el signo de desigualdad al tratar con el coeficiente negativo de x. -->
+- [ ] B) $x \leq 12$ <!-- feedback: Incorrecto. Error cometido en el signo de la constante final tras realizar los despejes. -->
 - [ ] D) $x \geq 0$ <!-- feedback: Incorrecto. Se cometió un error en la reducción de los términos numéricos independientes. -->
 
 ### Explicacion Pedagogica
@@ -302,9 +302,9 @@ Resolución de inecuaciones lineales complejas con paréntesis y coeficientes ne
 Determina el conjunto solución para la expresión: $|x - 4| < -2$.
 
 ### Opciones
-- [ ] A) $x < 2$ <!-- feedback: Incorrecto. No es posible resolver la inecuación ignorando el signo de la constante negativa. -->
-- [ ] B) $2 < x < 6$ <!-- feedback: Incorrecto. Ningún valor absoluto puede resultar en un número inferior a cero. -->
-- [x] C) Conjunto vacío <!-- feedback: Correcto. Por definición un valor absoluto es siempre no negativo y no puede ser menor a -2. -->
+- [ ] B) $x < 2$ <!-- feedback: Incorrecto. No es posible resolver la inecuación ignorando el signo de la constante negativa. -->
+- [ ] C) $2 < x < 6$ <!-- feedback: Incorrecto. Ningún valor absoluto puede resultar en un número inferior a cero. -->
+- [x] A) Conjunto vacío <!-- feedback: Correcto. Por definición un valor absoluto es siempre no negativo y no puede ser menor a -2. -->
 - [ ] D) Todos los reales <!-- feedback: Incorrecto. Esta respuesta sería válida si la desigualdad fuera de tipo "mayor que". -->
 
 ### Explicacion Pedagogica
@@ -324,8 +324,8 @@ Resuelve la inecuación: $| 1/x | > 2$ considerando que $x$ es distinto de cero.
 
 ### Opciones
 - [ ] A) $x < 1/2$ <!-- feedback: Incompleto. No considera la restricción del límite inferior ni la exclusión del valor nulo. -->
-- [x] B) $-1/2 < x < 1/2$ (con $x \neq 0$) <!-- feedback: Correcto. Equivale a decir que el valor absoluto de x es menor que un medio pero sin ser cero. -->
-- [ ] C) $x > 1/2$ o $x < -1/2$ <!-- feedback: Incorrecto. Se confundió la regla de inversión al trabajar con los recíprocos de la variable. -->
+- [x] C) $-1/2 < x < 1/2$ (con $x \neq 0$) <!-- feedback: Correcto. Equivale a decir que el valor absoluto de x es menor que un medio pero sin ser cero. -->
+- [ ] B) $x > 1/2$ o $x < -1/2$ <!-- feedback: Incorrecto. Se confundió la regla de inversión al trabajar con los recíprocos de la variable. -->
 - [ ] D) No tiene solución <!-- feedback: Incorrecto. El conjunto de soluciones es infinito dentro del rango especificado. -->
 
 ### Explicacion Pedagogica
@@ -344,10 +344,10 @@ Resolución de inecuaciones racionales simples involucrando conceptos de valor a
 ¿Para qué valores de $x$ se cumple la inecuación: $|x - 5| \leq |x + 3|$?
 
 ### Opciones
-- [x] A) $x \geq 1$ <!-- feedback: Correcto. Elevando al cuadrado: (x-5)^2 <= (x+3)^2, lo que reduce a -10x+25 <= 6x+9, resultando x >= 1. -->
-- [ ] B) $x \leq 1$ <!-- feedback: Incorrecto. Estos valores representan puntos que se encuentran más cercanos al valor -3 que al 5. -->
-- [ ] C) $x = 1$ únicamente <!-- feedback: Incorrecto. Al ser una inecuación la solución es un intervalo de puntos, no un dato aislado. -->
-- [ ] D) $x > 0$ <!-- feedback: Incorrecto. Aunque incluye parte de la solución, el límite exacto del conjunto comienza en la unidad. -->
+- [x] D) $x \geq 1$ <!-- feedback: Correcto. Elevando al cuadrado: (x-5)^2 <= (x+3)^2, lo que reduce a -10x+25 <= 6x+9, resultando x >= 1. -->
+- [ ] A) $x \leq 1$ <!-- feedback: Incorrecto. Estos valores representan puntos que se encuentran más cercanos al valor -3 que al 5. -->
+- [ ] B) $x = 1$ únicamente <!-- feedback: Incorrecto. Al ser una inecuación la solución es un intervalo de puntos, no un dato aislado. -->
+- [ ] C) $x > 0$ <!-- feedback: Incorrecto. Aunque incluye parte de la solución, el límite exacto del conjunto comienza en la unidad. -->
 
 ### Explicacion Pedagogica
 Resolución de inecuaciones con valor absoluto en ambos miembros mediante análisis de distancias.
@@ -366,9 +366,9 @@ Halla la solución para la inecuación: $x - 1 < 2x + 3 \leq 3x + 7$.
 
 ### Opciones
 - [ ] A) $x > -4$ <!-- feedback: Incompleto. Representa solo una de las dos condiciones que deben cumplirse simultáneamente. -->
-- [x] B) $x \geq -4$ <!-- feedback: Correcto. Ambas partes de la inecuación doble resultan en x >= -4 (o mayor que), siendo esta la solución común. -->
-- [ ] C) $x \leq -4$ <!-- feedback: Incorrecto. Error en los procesos de trasposición de términos en las desigualdades parciales. -->
-- [ ] D) Conjunto vacío <!-- feedback: Incorrecto. Existe un rango de valores que satisface ambas condiciones de forma concurrente. -->
+- [x] D) $x \geq -4$ <!-- feedback: Correcto. Ambas partes de la inecuación doble resultan en x >= -4 (o mayor que), siendo esta la solución común. -->
+- [ ] B) $x \leq -4$ <!-- feedback: Incorrecto. Error en los procesos de trasposición de términos en las desigualdades parciales. -->
+- [ ] C) Conjunto vacío <!-- feedback: Incorrecto. Existe un rango de valores que satisface ambas condiciones de forma concurrente. -->
 
 ### Explicacion Pedagogica
 Resolución de sistemas de inecuaciones lineales concatenadas o dobles.

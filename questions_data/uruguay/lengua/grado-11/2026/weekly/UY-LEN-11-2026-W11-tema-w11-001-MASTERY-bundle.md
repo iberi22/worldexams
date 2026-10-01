@@ -33,9 +33,9 @@ calibration: {difficulty_band: "D3-D10", expected_success: 0.65}
 
 ### Opciones
 - [ ] A) Las fachadas de la Ciudad Vieja son únicamente de interés para coleccionistas. <!-- feedback: Incorrecto. El autor rechaza explícitamente que sea un simple capricho de coleccionistas. -->
-- [x] B) La conservación de las fachadas históricas de Montevideo es un imperativo cívico clave para la memoria e identidad urbana. <!-- feedback: ¡Correcto! El texto afirma de forma explícita que la preservación es un imperativo cívico e idéntico a la memoria colectiva. -->
-- [ ] C) Las empresas inmobiliarias deben demoler todo el patrimonio colonial para construir torres. <!-- feedback: Incorrecto. El texto critica el avance indiscriminado de la especulación inmobiliaria. -->
-- [ ] D) La Ciudad Vieja carece de valor arquitectónico relevante en el contexto moderno. <!-- feedback: Incorrecto. El fragmento resalta la importancia histórica y cultural del patrimonio del barrio. -->
+- [x] D) La conservación de las fachadas históricas de Montevideo es un imperativo cívico clave para la memoria e identidad urbana. <!-- feedback: ¡Correcto! El texto afirma de forma explícita que la preservación es un imperativo cívico e idéntico a la memoria colectiva. -->
+- [ ] B) Las empresas inmobiliarias deben demoler todo el patrimonio colonial para construir torres. <!-- feedback: Incorrecto. El texto critica el avance indiscriminado de la especulación inmobiliaria. -->
+- [ ] C) La Ciudad Vieja carece de valor arquitectónico relevante en el contexto moderno. <!-- feedback: Incorrecto. El fragmento resalta la importancia histórica y cultural del patrimonio del barrio. -->
 
 ### Explicación Pedagógica
 La tesis central se explicita en la segunda oración: la preservación histórica representa un imperativo cívico indispensable para la identidad colectiva.
@@ -51,10 +51,10 @@ La tesis central se explicita en la segunda oración: la preservación históric
 ¿A qué factor contrapone el autor la preservación del patrimonio arquitectónico de la capital?
 
 ### Opciones
-- [x] A) Al avance indiscriminado de especulaciones inmobiliarias. <!-- feedback: ¡Correcto! La última frase menciona explícitamente el riesgo frente al "avance indiscriminado de especulaciones inmobiliarias". -->
-- [ ] B) A las obras teatrales del Solís. <!-- feedback: Incorrecto. No se menciona el Teatro Solís ni actividades escénicas en el pasaje. -->
-- [ ] C) Al transporte colectivo de pasajeros. <!-- feedback: Incorrecto. No hay alusiones al tránsito o colectivos montevideanos. -->
-- [ ] D) A las leyes de protección ambiental de la costa. <!-- feedback: Incorrecto. Aunque es un tema urbano, el fragmento se enfoca en las inmobiliarias. -->
+- [x] D) Al avance indiscriminado de especulaciones inmobiliarias. <!-- feedback: ¡Correcto! La última frase menciona explícitamente el riesgo frente al "avance indiscriminado de especulaciones inmobiliarias". -->
+- [ ] A) A las obras teatrales del Solís. <!-- feedback: Incorrecto. No se menciona el Teatro Solís ni actividades escénicas en el pasaje. -->
+- [ ] B) Al transporte colectivo de pasajeros. <!-- feedback: Incorrecto. No hay alusiones al tránsito o colectivos montevideanos. -->
+- [ ] C) A las leyes de protección ambiental de la costa. <!-- feedback: Incorrecto. Aunque es un tema urbano, el fragmento se enfoca en las inmobiliarias. -->
 
 ### Explicación Pedagógica
 El texto contrapone la función identitaria de la arquitectura histórica frente a la amenaza de las especulaciones del mercado inmobiliario.
@@ -89,8 +89,8 @@ Los conectores concesivos (como *aunque*, *a pesar de que*) introducen un obstá
 ¿Cuál es el núcleo del sujeto en la oración anterior?
 
 ### Opciones
-- [ ] A) uruguayos <!-- feedback: Incorrecto. "uruguayos" es un adjetivo modificador directo del núcleo. -->
-- [x] B) investigadores <!-- feedback: ¡Correcto! El sustantivo "investigadores" es la palabra principal que concuerda con el verbo "publicaron". -->
+- [ ] B) uruguayos <!-- feedback: Incorrecto. "uruguayos" es un adjetivo modificador directo del núcleo. -->
+- [x] A) investigadores <!-- feedback: ¡Correcto! El sustantivo "investigadores" es la palabra principal que concuerda con el verbo "publicaron". -->
 - [ ] C) informe <!-- feedback: Incorrecto. "informe" es el núcleo del complemento directo. -->
 - [ ] D) agua <!-- feedback: Incorrecto. "agua" forma parte del término de un complemento preposicional. -->
 
@@ -109,9 +109,9 @@ En el sintagma nominal sujeto "Los investigadores uruguayos", el sustantivo "inv
 
 ### Opciones
 - [ ] A) Un libro abierto al público. <!-- feedback: Incorrecto. No se utiliza la metáfora de libro abierto en el texto. -->
-- [x] B) Un espejo transparente de la realidad. <!-- feedback: ¡Correcto! La metáfora "espejo transparente" se usa de forma negativa para afirmar que ningún periódico refleja la realidad sin filtros. -->
-- [ ] C) Una ventana sin cristales. <!-- feedback: Incorrecto. Esa imagen no aparece en la cita. -->
-- [ ] D) Un faro en medio del océano. <!-- feedback: Incorrecto. Tampoco figura en el pasaje. -->
+- [x] D) Un espejo transparente de la realidad. <!-- feedback: ¡Correcto! La metáfora "espejo transparente" se usa de forma negativa para afirmar que ningún periódico refleja la realidad sin filtros. -->
+- [ ] B) Una ventana sin cristales. <!-- feedback: Incorrecto. Esa imagen no aparece en la cita. -->
+- [ ] C) Un faro en medio del océano. <!-- feedback: Incorrecto. Tampoco figura en el pasaje. -->
 
 ### Explicación Pedagógica
 La figura retórica negada "espejo transparente de la realidad" sirve para sostener que la mediación informativa implica selección e interpretación.
@@ -127,9 +127,9 @@ La figura retórica negada "espejo transparente de la realidad" sirve para soste
 ¿Qué rasgo característico del español uruguayo (rioplatense) se evidencia en el enunciado?
 
 ### Opciones
-- [x] A) El voseo pronominal y verbal con formas agudas ("Mirá", "precisás", "avisame"). <!-- feedback: ¡Correcto! El uso de "mirá", "precisás" y "avisame" es típico del voseo rioplatense uruguayo. -->
-- [ ] B) El tuteo formal peninsular. <!-- feedback: Incorrecto. El tuteo emplearía "mira", "necesitas", "avísame". -->
-- [ ] C) El leísmo de persona propio de España. <!-- feedback: Incorrecto. No hay leísmo; se usa "te" y "los" correctamente. -->
+- [x] C) El voseo pronominal y verbal con formas agudas ("Mirá", "precisás", "avisame"). <!-- feedback: ¡Correcto! El uso de "mirá", "precisás" y "avisame" es típico del voseo rioplatense uruguayo. -->
+- [ ] A) El tuteo formal peninsular. <!-- feedback: Incorrecto. El tuteo emplearía "mira", "necesitas", "avísame". -->
+- [ ] B) El leísmo de persona propio de España. <!-- feedback: Incorrecto. No hay leísmo; se usa "te" y "los" correctamente. -->
 - [ ] D) El uso del pretérito perfecto compuesto para acciones recientes. <!-- feedback: Incorrecto. No se utiliza el pretérito perfecto compuesto. -->
 
 ### Explicación Pedagógica
@@ -146,8 +146,8 @@ El voseo rioplatense combina el pronombre "vos" (implícito o explícito) con co
 ¿Qué función sintáctica cumple el grupo preposicional "a una obra..." en la oración?
 
 ### Opciones
-- [ ] A) Sujeto <!-- feedback: Incorrecto. El sujeto explícito es "El jurado". -->
-- [x] B) Complemento Indirecto <!-- feedback: ¡Correcto! Es el destinatario de la acción verbal "otorgó" (duplicable por *le*: "Le otorgó el premio a una obra"). -->
+- [ ] B) Sujeto <!-- feedback: Incorrecto. El sujeto explícito es "El jurado". -->
+- [x] A) Complemento Indirecto <!-- feedback: ¡Correcto! Es el destinatario de la acción verbal "otorgó" (duplicable por *le*: "Le otorgó el premio a una obra"). -->
 - [ ] C) Complemento Directo <!-- feedback: Incorrecto. El complemento directo es "el premio de ensayo" (lo otorgó). -->
 - [ ] D) Complemento Circunstancial de lugar <!-- feedback: Incorrecto. No expresa el lugar físico de la acción. -->
 
@@ -166,8 +166,8 @@ El verbo "otorgar" es bitransitivo: "el premio de ensayo" es el complemento dire
 
 ### Opciones
 - [ ] A) Declarativa, con el fin de informar neutralmente sobre el volumen del recipiente. <!-- feedback: Incorrecto. No hay una mera exposición objetiva de datos. -->
-- [x] B) Imperativa (o apelativa), orientada a persuadir e interpelar directamente al consumidor para que compre el producto. <!-- feedback: ¡Correcto! Las formas verbales en imperativo voseante ("Proba", "Mantené") apelante buscan mover al receptor a la acción. -->
-- [ ] C) Exclamativa lírica, para expresar emociones poéticas del autor sobre la yerba mate. <!-- feedback: Incorrecto. Es un texto mercantil apelativo, no poesía subjetiva. -->
+- [x] C) Imperativa (o apelativa), orientada a persuadir e interpelar directamente al consumidor para que compre el producto. <!-- feedback: ¡Correcto! Las formas verbales en imperativo voseante ("Proba", "Mantené") apelante buscan mover al receptor a la acción. -->
+- [ ] B) Exclamativa lírica, para expresar emociones poéticas del autor sobre la yerba mate. <!-- feedback: Incorrecto. Es un texto mercantil apelativo, no poesía subjetiva. -->
 - [ ] D) Dubitativa, planteando dudas sobre si cebar mate es saludable. <!-- feedback: Incorrecto. No hay marcas de duda o incertidumbre. -->
 
 ### Explicación Pedagógica
@@ -185,8 +185,8 @@ En la publicidad comercial predomina la función apelativa (o conativa) mediante
 
 ### Opciones
 - [ ] A) Argumento de autoridad mediante cita de un científico internacional. <!-- feedback: Incorrecto. No se cita a ningún autor o institución. -->
-- [x] B) Argumento de redefinición o replanteamiento conceptual, transformando la premisa de destrucción en reestructuración cualitativa. <!-- feedback: ¡Correcto! Se reformula la hipótesis negativa planteando una redefinición positiva del perfil laboral. -->
-- [ ] C) Falacia ad hominem contra los trabajadores industriales. <!-- feedback: Incorrecto. No hay descalificación ni ataque personal. -->
+- [x] C) Argumento de redefinición o replanteamiento conceptual, transformando la premisa de destrucción en reestructuración cualitativa. <!-- feedback: ¡Correcto! Se reformula la hipótesis negativa planteando una redefinición positiva del perfil laboral. -->
+- [ ] B) Falacia ad hominem contra los trabajadores industriales. <!-- feedback: Incorrecto. No hay descalificación ni ataque personal. -->
 - [ ] D) Argumento de analogía con la agricultura del siglo XIX. <!-- feedback: Incorrecto. No se establece comparación con épocas pasadas. -->
 
 ### Explicación Pedagógica
@@ -203,8 +203,8 @@ El autor rebate una postura contrapuesta modificando la perspectiva del problema
 ¿Qué tipo de relación condicional se establece entre las proposiciones?
 
 ### Opciones
-- [x] A) Condicional hipotética de realización posible o improbable en el futuro. <!-- feedback: ¡Correcto! El uso del subjuntivo "aprobase" y condicional "dispondrían" plantea un escenario hipotético pendiente de resolución. -->
-- [ ] B) Condicional real de cumplimiento obligatorio e inmediato. <!-- feedback: Incorrecto. Requeriría indicativo ("Si aprueba... dispondrán"). -->
+- [x] B) Condicional hipotética de realización posible o improbable en el futuro. <!-- feedback: ¡Correcto! El uso del subjuntivo "aprobase" y condicional "dispondrían" plantea un escenario hipotético pendiente de resolución. -->
+- [ ] A) Condicional real de cumplimiento obligatorio e inmediato. <!-- feedback: Incorrecto. Requeriría indicativo ("Si aprueba... dispondrán"). -->
 - [ ] C) Condicional imposible referida al pasado. <!-- feedback: Incorrecto. Para el pasado usaría "hubiera aprobado... habrían dispuesto". -->
 - [ ] D) Oración consecutiva pura sin hipótesis. <!-- feedback: Incorrecto. Hay una clara estructura subordinada condicional (*Si...*). -->
 
@@ -223,9 +223,9 @@ El período condicional expresado con pretérito imperfecto de subjuntivo en la 
 
 ### Opciones
 - [ ] A) Falacia ad verecundiam (apelación a la falsa autoridad). <!-- feedback: Incorrecto. No se apela a la autoridad de un famoso. -->
-- [x] B) Falacia de la causa falsa (o causa única/simplificación causal). <!-- feedback: ¡Correcto! Atribuir un fenómeno complejo a un único factor aislado cuando existen múltiples causas intervinientes. -->
-- [ ] C) Falacia ad populum (apelación a la mayoría). <!-- feedback: Incorrecto. No se argumenta sobre la opinión de la mayoría. -->
-- [ ] D) Argumento de pendiente resbaladiza. <!-- feedback: Incorrecto. No se proyecta una cadena catastrófica insostenible. -->
+- [x] D) Falacia de la causa falsa (o causa única/simplificación causal). <!-- feedback: ¡Correcto! Atribuir un fenómeno complejo a un único factor aislado cuando existen múltiples causas intervinientes. -->
+- [ ] B) Falacia ad populum (apelación a la mayoría). <!-- feedback: Incorrecto. No se argumenta sobre la opinión de la mayoría. -->
+- [ ] C) Argumento de pendiente resbaladiza. <!-- feedback: Incorrecto. No se proyecta una cadena catastrófica insostenible. -->
 
 ### Explicación Pedagógica
 La falacia de causa falsa (o reducción causal) comete el sesgo de aislar una sola variable como causa determinante de un fenómeno multivariable complejo.
@@ -241,8 +241,8 @@ La falacia de causa falsa (o reducción causal) comete el sesgo de aislar una so
 ¿Qué recurso estilístico predomina en el verso "bajo el cielo de plomo" y qué significado aporta?
 
 ### Opciones
-- [ ] A) Hipérbole, exagerando el peso del aire sobre la pradera. <!-- feedback: Incorrecto. No es una exageración cuantitativa de peso físico. -->
-- [x] B) Metáfora, asociando el color gris denso y la pesadez de las nubes de tormenta con el plomo. <!-- feedback: ¡Correcto! Transfiere las propiedades ópticas del metal grisáceo al estado atmosférico del cielo. -->
+- [ ] B) Hipérbole, exagerando el peso del aire sobre la pradera. <!-- feedback: Incorrecto. No es una exageración cuantitativa de peso físico. -->
+- [x] A) Metáfora, asociando el color gris denso y la pesadez de las nubes de tormenta con el plomo. <!-- feedback: ¡Correcto! Transfiere las propiedades ópticas del metal grisáceo al estado atmosférico del cielo. -->
 - [ ] C) Personificación, atribuyendo vida al cielo. <!-- feedback: Incorrecto. El plomo es un elemento inanimado, no transmite atributos humanos. -->
 - [ ] D) Anáfora, repitiendo palabras al inicio de cada verso. <!-- feedback: Incorrecto. No hay repetición de términos iniciales. -->
 
@@ -261,8 +261,8 @@ La metáfora implícita "cielo de plomo" identifica la densidad cromática y la 
 
 ### Opciones
 - [ ] A) Secuencia cronológica narrativa. <!-- feedback: Incorrecto. No se relatan hechos sucesivos en una línea temporal. -->
-- [x] B) Estructura de contraste u oposición de perspectivas (desarrollo de pros y contras). <!-- feedback: ¡Correcto! El texto confronta el beneficio económico (divisas/PIB) frente al costo ambiental (biodiversidad/acidificación). -->
-- [ ] C) Descripción enumerativa de especímenes marinos. <!-- feedback: Incorrecto. No es un inventario taxonómico de especies de moluscos. -->
+- [x] C) Estructura de contraste u oposición de perspectivas (desarrollo de pros y contras). <!-- feedback: ¡Correcto! El texto confronta el beneficio económico (divisas/PIB) frente al costo ambiental (biodiversidad/acidificación). -->
+- [ ] B) Descripción enumerativa de especímenes marinos. <!-- feedback: Incorrecto. No es un inventario taxonómico de especies de moluscos. -->
 - [ ] D) Esquema de problema-solución con resolución definitiva. <!-- feedback: Incorrecto. No se plantea la resolución final del dilema. -->
 
 ### Explicación Pedagógica
@@ -282,9 +282,9 @@ Los textos argumentativos y de opinión organizan con frecuencia la información
 
 ### Opciones
 - [ ] A) La oración 1 es informal y la 2 es propia del lenguaje formal científico. <!-- feedback: Incorrecto. Las cláusulas absolutas de participio son formales e institucionales. -->
-- [x] B) La oración 1 emplea una cláusula absoluta de participio (estilo sintético y formal), mientras que la 2 utiliza una subordinada causal explícita. <!-- feedback: ¡Correcto! El participio absoluto "Aprobadas las normas..." sintetiza la relación causal-temporal con mayor densidad sintáctica. -->
-- [ ] C) La oración 1 expresa una condición futura e incierta y la 2 un hecho pasado comprobado. <!-- feedback: Incorrecto. Ambas expresan hechos consumados pasados. -->
-- [ ] D) La oración 2 es agramatical en el español estándar. <!-- feedback: Incorrecto. Ambas son perfectamente gramaticales y normativas. -->
+- [x] D) La oración 1 emplea una cláusula absoluta de participio (estilo sintético y formal), mientras que la 2 utiliza una subordinada causal explícita. <!-- feedback: ¡Correcto! El participio absoluto "Aprobadas las normas..." sintetiza la relación causal-temporal con mayor densidad sintáctica. -->
+- [ ] B) La oración 1 expresa una condición futura e incierta y la 2 un hecho pasado comprobado. <!-- feedback: Incorrecto. Ambas expresan hechos consumados pasados. -->
+- [ ] C) La oración 2 es agramatical en el español estándar. <!-- feedback: Incorrecto. Ambas son perfectamente gramaticales y normativas. -->
 
 ### Explicación Pedagógica
 Las cláusulas absolutas con participio en posición inicial otorgan concisión y registro formal-culto al discurso escrito, equivaliendo a subordinadas temporales o causales.
@@ -300,10 +300,10 @@ Las cláusulas absolutas con participio en posición inicial otorgan concisión 
 ¿Qué tipo de subordinación sintáctica representa la proposición "que los estudiantes universitarios desarrollen competencias de escritura académica"?
 
 ### Opciones
-- [x] A) Subordinada sustantiva en función de sujeto del adjetivo atributivo "imprescindible". <!-- feedback: ¡Correcto! La proposición subordinada equivale a "eso" ("Es imprescindible *eso*"), actuando como sujeto de la oración principal impersonalitativa. -->
-- [ ] B) Subordinada adjetiva de relativo explicativa. <!-- feedback: Incorrecto. No modifica a ningún sustantivo antecedente. -->
-- [ ] C) Subordinada adverbial sustantiva de modo. <!-- feedback: Incorrecto. No existe la categoría de "sustantiva de modo". -->
-- [ ] D) Complemento directo del verbo "ser". <!-- feedback: Incorrecto. El verbo atributivo copulativo "es" no lleva complemento directo. -->
+- [x] D) Subordinada sustantiva en función de sujeto del adjetivo atributivo "imprescindible". <!-- feedback: ¡Correcto! La proposición subordinada equivale a "eso" ("Es imprescindible *eso*"), actuando como sujeto de la oración principal impersonalitativa. -->
+- [ ] A) Subordinada adjetiva de relativo explicativa. <!-- feedback: Incorrecto. No modifica a ningún sustantivo antecedente. -->
+- [ ] B) Subordinada adverbial sustantiva de modo. <!-- feedback: Incorrecto. No existe la categoría de "sustantiva de modo". -->
+- [ ] C) Complemento directo del verbo "ser". <!-- feedback: Incorrecto. El verbo atributivo copulativo "es" no lleva complemento directo. -->
 
 ### Explicación Pedagógica
 En estructuras atributivas del tipo *Es necesario / imprescindible / conveniente + que...*, la cláusula introducida por *que* actúa gramaticalmente como sujeto de la oración.
@@ -320,8 +320,8 @@ En estructuras atributivas del tipo *Es necesario / imprescindible / conveniente
 
 ### Opciones
 - [ ] A) Conector disyuntivo excluyente. <!-- feedback: Incorrecto. No presenta alternativas incompatibles (o/o). -->
-- [x] B) Conector correlativo aditivo de intensidad ("no solo... sino que..."). <!-- feedback: ¡Correcto! Enfatiza la adición de un hecho de mayor gravedad que el primero. -->
-- [ ] C) Conector restrictivo de rectificación. <!-- feedback: Incorrecto. No rectifica el primer enunciado, suma acusaciones. -->
+- [x] C) Conector correlativo aditivo de intensidad ("no solo... sino que..."). <!-- feedback: ¡Correcto! Enfatiza la adición de un hecho de mayor gravedad que el primero. -->
+- [ ] B) Conector restrictivo de rectificación. <!-- feedback: Incorrecto. No rectifica el primer enunciado, suma acusaciones. -->
 - [ ] D) Conector comparativo de igualdad. <!-- feedback: Incorrecto. No compara características entre dos entidades. -->
 
 ### Explicación Pedagógica
@@ -357,8 +357,8 @@ El análisis valorativo de la crítica de arte evalúa la tensión entre la dime
 Evaluá el concepto de "mitología fundacional" en la interpretación de Real de Azúa. ¿Qué función le atribuye en el devenir del país?
 
 ### Opciones
-- [ ] A) Un engaño malintencionado diseñado por los partidos tradicionales para destruir la democracia. <!-- feedback: Incorrecto. No se juzga como conspiración malintencionada sino como construcción identitaria. -->
-- [x] B) Una narrativa simbólica integradora que ayudó a amortiguar las tensiones de clase y fortalecer la cohesión del modelo cívico. <!-- feedback: ¡Correcto! Funciona como una representación compartida que garantizó la estabilidad republicana. -->
+- [ ] B) Un engaño malintencionado diseñado por los partidos tradicionales para destruir la democracia. <!-- feedback: Incorrecto. No se juzga como conspiración malintencionada sino como construcción identitaria. -->
+- [x] A) Una narrativa simbólica integradora que ayudó a amortiguar las tensiones de clase y fortalecer la cohesión del modelo cívico. <!-- feedback: ¡Correcto! Funciona como una representación compartida que garantizó la estabilidad republicana. -->
 - [ ] C) Una leyenda folclórica sobre los orígenes de la ganadería colonial. <!-- feedback: Incorrecto. El ensayo aborda la sociología política moderna del país, no cuentos rurales. -->
 - [ ] D) Una teoría económica sobre el comercio exterior del puerto de Montevideo. <!-- feedback: Incorrecto. Se enfoca en la dimensión sociocultural y política del país. -->
 
@@ -376,8 +376,8 @@ El concepto de "mitología fundacional" en la sociología uruguaya analiza las f
 ¿Qué cambio epistemológico propone el texto respecto al abordaje de la gramática escolar?
 
 ### Opciones
-- [ ] A) Eliminar la enseñanza del español para reemplazarlo por la enseñanza de lenguas extranjeras. <!-- feedback: Incorrecto. No sugiere eliminar el estudio de la lengua materna. -->
-- [x] B) Transitar de una didáctica prescriptiva y memorística hacia una gramática reflexiva y orientada al uso en contexto. <!-- feedback: ¡Correcto! Promueve concebir la norma como herramienta viva de análisis crítico y producción de sentido. -->
+- [ ] B) Eliminar la enseñanza del español para reemplazarlo por la enseñanza de lenguas extranjeras. <!-- feedback: Incorrecto. No sugiere eliminar el estudio de la lengua materna. -->
+- [x] A) Transitar de una didáctica prescriptiva y memorística hacia una gramática reflexiva y orientada al uso en contexto. <!-- feedback: ¡Correcto! Promueve concebir la norma como herramienta viva de análisis crítico y producción de sentido. -->
 - [ ] C) Prohibir el uso del voseo en la escritura de ensayos académicos. <!-- feedback: Incorrecto. No aborda prescripciones dialectales específicas. -->
 - [ ] D) Limitar el estudio sintáctico exclusivamente a la poesía gauchesca del siglo XIX. <!-- feedback: Incorrecto. No restringe el corpus a un solo género histórico. -->
 
@@ -395,9 +395,9 @@ La lingüística educativa contemporánea enfatiza la reflexión metalingüísti
 Evaluá la postura poética expresada en el manifiesto respecto a la función del arte narrativo.
 
 ### Opciones
-- [x] A) Defiende la autonomía de la creación artística y la supremacía de la verosimilitud estética sobre la mera mímesis o copia documental. <!-- feedback: ¡Correcto! Reivindica el poder creador del lenguaje por encima de la reproducción servil del entorno cotidiano. -->
-- [ ] B) Exige a los escritores uruguayos describir con precisión documental la geografía de los departamentos del interior. <!-- feedback: Incorrecto. El manifiesto rechaza explícitamente el "inventario de costumbres provincianas". -->
-- [ ] C) Sostiene que las novelas deben contener morales didácticas para educar al pueblo. <!-- feedback: Incorrecto. No se adjudica un rol pedagógico-moral a la literatura. -->
+- [x] C) Defiende la autonomía de la creación artística y la supremacía de la verosimilitud estética sobre la mera mímesis o copia documental. <!-- feedback: ¡Correcto! Reivindica el poder creador del lenguaje por encima de la reproducción servil del entorno cotidiano. -->
+- [ ] A) Exige a los escritores uruguayos describir con precisión documental la geografía de los departamentos del interior. <!-- feedback: Incorrecto. El manifiesto rechaza explícitamente el "inventario de costumbres provincianas". -->
+- [ ] B) Sostiene que las novelas deben contener morales didácticas para educar al pueblo. <!-- feedback: Incorrecto. No se adjudica un rol pedagógico-moral a la literatura. -->
 - [ ] D) Declara la muerte de la novela como género sustituido por la fotografía digital. <!-- feedback: Incorrecto. No aboga por el fin de la literatura sino por una narrativa antimimética. -->
 
 ### Explicación Pedagógica

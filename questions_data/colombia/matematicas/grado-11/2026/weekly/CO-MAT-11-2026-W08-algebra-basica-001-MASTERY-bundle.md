@@ -32,11 +32,11 @@ Este bundle contiene 20 preguntas sobre **algebra-basica** para grado 11, alinea
 ### Enunciado
 ¿Cuál es la simplificación de la expresión $\frac{x^2 - 4}{x + 2}$ para $x \neq -2$?
 ### Opciones
-- [x] A) $x - 2$
+- [x] C) $x - 2$
   <!-- feedback: Correcto. Factorizando el numerador como diferencia de cuadrados $(x - 2)(x + 2)$, se cancela $(x + 2)$. -->
-- [ ] B) $x + 2$
+- [ ] A) $x + 2$
   <!-- feedback: Incorrecto. Cancelaste erróneamente el término $(x - p)$. -->
-- [ ] C) $x^2 - 2$
+- [ ] B) $x^2 - 2$
   <!-- feedback: Incorrecto. No dividiste el término de grado 2. -->
 - [ ] D) $2$
   <!-- feedback: Incorrecto. Restaste la variable x de forma errónea. -->
@@ -52,11 +52,11 @@ La diferencia de cuadrados se factoriza como $x^2 - 4 = (x - 2)(x + 2)$. Al divi
 ### Enunciado
 ¿Cuál es la simplificación de la expresión $\frac{x^2 - 9}{x + 3}$ para $x \neq -3$?
 ### Opciones
-- [x] A) $x - 3$
+- [x] C) $x - 3$
   <!-- feedback: Correcto. Factorizando el numerador como diferencia de cuadrados $(x - 3)(x + 3)$, se cancela $(x + 3)$. -->
-- [ ] B) $x + 3$
+- [ ] A) $x + 3$
   <!-- feedback: Incorrecto. Cancelaste erróneamente el término $(x - p)$. -->
-- [ ] C) $x^2 - 3$
+- [ ] B) $x^2 - 3$
   <!-- feedback: Incorrecto. No dividiste el término de grado 2. -->
 - [ ] D) $3$
   <!-- feedback: Incorrecto. Restaste la variable x de forma errónea. -->
@@ -72,11 +72,11 @@ La diferencia de cuadrados se factoriza como $x^2 - 9 = (x - 3)(x + 3)$. Al divi
 ### Enunciado
 ¿Cuál es la simplificación de la expresión $\frac{x^2 - 16}{x + 4}$ para $x \neq -4$?
 ### Opciones
-- [x] A) $x - 4$
+- [x] C) $x - 4$
   <!-- feedback: Correcto. Factorizando el numerador como diferencia de cuadrados $(x - 4)(x + 4)$, se cancela $(x + 4)$. -->
-- [ ] B) $x + 4$
+- [ ] A) $x + 4$
   <!-- feedback: Incorrecto. Cancelaste erróneamente el término $(x - p)$. -->
-- [ ] C) $x^2 - 4$
+- [ ] B) $x^2 - 4$
   <!-- feedback: Incorrecto. No dividiste el término de grado 2. -->
 - [ ] D) $4$
   <!-- feedback: Incorrecto. Restaste la variable x de forma errónea. -->
@@ -132,9 +132,9 @@ La diferencia de cuadrados se factoriza como $x^2 - 36 = (x - 6)(x + 6)$. Al div
 ### Enunciado
 ¿Cuál es la simplificación de la expresión $\frac{x^2 - 49}{x + 7}$ para $x \neq -7$?
 ### Opciones
-- [x] A) $x - 7$
+- [x] B) $x - 7$
   <!-- feedback: Correcto. Factorizando el numerador como diferencia de cuadrados $(x - 7)(x + 7)$, se cancela $(x + 7)$. -->
-- [ ] B) $x + 7$
+- [ ] A) $x + 7$
   <!-- feedback: Incorrecto. Cancelaste erróneamente el término $(x - p)$. -->
 - [ ] C) $x^2 - 7$
   <!-- feedback: Incorrecto. No dividiste el término de grado 2. -->
@@ -152,9 +152,9 @@ La diferencia de cuadrados se factoriza como $x^2 - 49 = (x - 7)(x + 7)$. Al div
 ### Enunciado
 ¿Cuál es la simplificación de la expresión $\frac{x^2 - 64}{x + 8}$ para $x \neq -8$?
 ### Opciones
-- [x] A) $x - 8$
+- [x] B) $x - 8$
   <!-- feedback: Correcto. Factorizando el numerador como diferencia de cuadrados $(x - 8)(x + 8)$, se cancela $(x + 8)$. -->
-- [ ] B) $x + 8$
+- [ ] A) $x + 8$
   <!-- feedback: Incorrecto. Cancelaste erróneamente el término $(x - p)$. -->
 - [ ] C) $x^2 - 8$
   <!-- feedback: Incorrecto. No dividiste el término de grado 2. -->
@@ -172,9 +172,9 @@ La diferencia de cuadrados se factoriza como $x^2 - 64 = (x - 8)(x + 8)$. Al div
 ### Enunciado
 ¿Cuál es la simplificación de la expresión $\frac{x^2 - 81}{x + 9}$ para $x \neq -9$?
 ### Opciones
-- [x] A) $x - 9$
+- [x] B) $x - 9$
   <!-- feedback: Correcto. Factorizando el numerador como diferencia de cuadrados $(x - 9)(x + 9)$, se cancela $(x + 9)$. -->
-- [ ] B) $x + 9$
+- [ ] A) $x + 9$
   <!-- feedback: Incorrecto. Cancelaste erróneamente el término $(x - p)$. -->
 - [ ] C) $x^2 - 9$
   <!-- feedback: Incorrecto. No dividiste el término de grado 2. -->
@@ -212,13 +212,13 @@ La diferencia de cuadrados se factoriza como $x^2 - 100 = (x - 10)(x + 10)$. Al 
 ### Enunciado
 ¿Cuál es la simplificación de la expresión $\frac{x^2 - 121}{x + 11}$ para $x \neq -11$?
 ### Opciones
-- [x] A) $x - 11$
+- [x] D) $x - 11$
   <!-- feedback: Correcto. Factorizando el numerador como diferencia de cuadrados $(x - 11)(x + 11)$, se cancela $(x + 11)$. -->
-- [ ] B) $x + 11$
+- [ ] A) $x + 11$
   <!-- feedback: Incorrecto. Cancelaste erróneamente el término $(x - p)$. -->
-- [ ] C) $x^2 - 11$
+- [ ] B) $x^2 - 11$
   <!-- feedback: Incorrecto. No dividiste el término de grado 2. -->
-- [ ] D) $11$
+- [ ] C) $11$
   <!-- feedback: Incorrecto. Restaste la variable x de forma errónea. -->
 ### Explicacion Pedagogica
 La diferencia de cuadrados se factoriza como $x^2 - 121 = (x - 11)(x + 11)$. Al dividir entre $(x + 11)$, la expresión simplificada es $x - 11$.
@@ -232,9 +232,9 @@ La diferencia de cuadrados se factoriza como $x^2 - 121 = (x - 11)(x + 11)$. Al 
 ### Enunciado
 ¿Cuál es la simplificación de la expresión $\frac{x^2 - 144}{x + 12}$ para $x \neq -12$?
 ### Opciones
-- [x] A) $x - 12$
+- [x] B) $x - 12$
   <!-- feedback: Correcto. Factorizando el numerador como diferencia de cuadrados $(x - 12)(x + 12)$, se cancela $(x + 12)$. -->
-- [ ] B) $x + 12$
+- [ ] A) $x + 12$
   <!-- feedback: Incorrecto. Cancelaste erróneamente el término $(x - p)$. -->
 - [ ] C) $x^2 - 12$
   <!-- feedback: Incorrecto. No dividiste el término de grado 2. -->
@@ -252,13 +252,13 @@ La diferencia de cuadrados se factoriza como $x^2 - 144 = (x - 12)(x + 12)$. Al 
 ### Enunciado
 ¿Cuál es la simplificación de la expresión $\frac{x^2 - 169}{x + 13}$ para $x \neq -13$?
 ### Opciones
-- [x] A) $x - 13$
+- [x] D) $x - 13$
   <!-- feedback: Correcto. Factorizando el numerador como diferencia de cuadrados $(x - 13)(x + 13)$, se cancela $(x + 13)$. -->
-- [ ] B) $x + 13$
+- [ ] A) $x + 13$
   <!-- feedback: Incorrecto. Cancelaste erróneamente el término $(x - p)$. -->
-- [ ] C) $x^2 - 13$
+- [ ] B) $x^2 - 13$
   <!-- feedback: Incorrecto. No dividiste el término de grado 2. -->
-- [ ] D) $13$
+- [ ] C) $13$
   <!-- feedback: Incorrecto. Restaste la variable x de forma errónea. -->
 ### Explicacion Pedagogica
 La diferencia de cuadrados se factoriza como $x^2 - 169 = (x - 13)(x + 13)$. Al dividir entre $(x + 13)$, la expresión simplificada es $x - 13$.
@@ -272,9 +272,9 @@ La diferencia de cuadrados se factoriza como $x^2 - 169 = (x - 13)(x + 13)$. Al 
 ### Enunciado
 ¿Cuál es la simplificación de la expresión $\frac{x^2 - 196}{x + 14}$ para $x \neq -14$?
 ### Opciones
-- [x] A) $x - 14$
+- [x] B) $x - 14$
   <!-- feedback: Correcto. Factorizando el numerador como diferencia de cuadrados $(x - 14)(x + 14)$, se cancela $(x + 14)$. -->
-- [ ] B) $x + 14$
+- [ ] A) $x + 14$
   <!-- feedback: Incorrecto. Cancelaste erróneamente el término $(x - p)$. -->
 - [ ] C) $x^2 - 14$
   <!-- feedback: Incorrecto. No dividiste el término de grado 2. -->
@@ -292,9 +292,9 @@ La diferencia de cuadrados se factoriza como $x^2 - 196 = (x - 14)(x + 14)$. Al 
 ### Enunciado
 ¿Cuál es la simplificación de la expresión $\frac{x^2 - 225}{x + 15}$ para $x \neq -15$?
 ### Opciones
-- [x] A) $x - 15$
+- [x] B) $x - 15$
   <!-- feedback: Correcto. Factorizando el numerador como diferencia de cuadrados $(x - 15)(x + 15)$, se cancela $(x + 15)$. -->
-- [ ] B) $x + 15$
+- [ ] A) $x + 15$
   <!-- feedback: Incorrecto. Cancelaste erróneamente el término $(x - p)$. -->
 - [ ] C) $x^2 - 15$
   <!-- feedback: Incorrecto. No dividiste el término de grado 2. -->
@@ -332,13 +332,13 @@ La diferencia de cuadrados se factoriza como $x^2 - 256 = (x - 16)(x + 16)$. Al 
 ### Enunciado
 ¿Cuál es la simplificación de la expresión $\frac{x^2 - 289}{x + 17}$ para $x \neq -17$?
 ### Opciones
-- [x] A) $x - 17$
+- [x] D) $x - 17$
   <!-- feedback: Correcto. Factorizando el numerador como diferencia de cuadrados $(x - 17)(x + 17)$, se cancela $(x + 17)$. -->
-- [ ] B) $x + 17$
+- [ ] A) $x + 17$
   <!-- feedback: Incorrecto. Cancelaste erróneamente el término $(x - p)$. -->
-- [ ] C) $x^2 - 17$
+- [ ] B) $x^2 - 17$
   <!-- feedback: Incorrecto. No dividiste el término de grado 2. -->
-- [ ] D) $17$
+- [ ] C) $17$
   <!-- feedback: Incorrecto. Restaste la variable x de forma errónea. -->
 ### Explicacion Pedagogica
 La diferencia de cuadrados se factoriza como $x^2 - 289 = (x - 17)(x + 17)$. Al dividir entre $(x + 17)$, la expresión simplificada es $x - 17$.
@@ -352,13 +352,13 @@ La diferencia de cuadrados se factoriza como $x^2 - 289 = (x - 17)(x + 17)$. Al 
 ### Enunciado
 ¿Cuál es la simplificación de la expresión $\frac{x^2 - 324}{x + 18}$ para $x \neq -18$?
 ### Opciones
-- [x] A) $x - 18$
+- [x] D) $x - 18$
   <!-- feedback: Correcto. Factorizando el numerador como diferencia de cuadrados $(x - 18)(x + 18)$, se cancela $(x + 18)$. -->
-- [ ] B) $x + 18$
+- [ ] A) $x + 18$
   <!-- feedback: Incorrecto. Cancelaste erróneamente el término $(x - p)$. -->
-- [ ] C) $x^2 - 18$
+- [ ] B) $x^2 - 18$
   <!-- feedback: Incorrecto. No dividiste el término de grado 2. -->
-- [ ] D) $18$
+- [ ] C) $18$
   <!-- feedback: Incorrecto. Restaste la variable x de forma errónea. -->
 ### Explicacion Pedagogica
 La diferencia de cuadrados se factoriza como $x^2 - 324 = (x - 18)(x + 18)$. Al dividir entre $(x + 18)$, la expresión simplificada es $x - 18$.
@@ -392,9 +392,9 @@ La diferencia de cuadrados se factoriza como $x^2 - 361 = (x - 19)(x + 19)$. Al 
 ### Enunciado
 ¿Cuál es la simplificación de la expresión $\frac{x^2 - 400}{x + 20}$ para $x \neq -20$?
 ### Opciones
-- [x] A) $x - 20$
+- [x] B) $x - 20$
   <!-- feedback: Correcto. Factorizando el numerador como diferencia de cuadrados $(x - 20)(x + 20)$, se cancela $(x + 20)$. -->
-- [ ] B) $x + 20$
+- [ ] A) $x + 20$
   <!-- feedback: Incorrecto. Cancelaste erróneamente el término $(x - p)$. -->
 - [ ] C) $x^2 - 20$
   <!-- feedback: Incorrecto. No dividiste el término de grado 2. -->
@@ -412,9 +412,9 @@ La diferencia de cuadrados se factoriza como $x^2 - 400 = (x - 20)(x + 20)$. Al 
 ### Enunciado
 ¿Cuál es la simplificación de la expresión $\frac{x^2 - 441}{x + 21}$ para $x \neq -21$?
 ### Opciones
-- [x] A) $x - 21$
+- [x] B) $x - 21$
   <!-- feedback: Correcto. Factorizando el numerador como diferencia de cuadrados $(x - 21)(x + 21)$, se cancela $(x + 21)$. -->
-- [ ] B) $x + 21$
+- [ ] A) $x + 21$
   <!-- feedback: Incorrecto. Cancelaste erróneamente el término $(x - p)$. -->
 - [ ] C) $x^2 - 21$
   <!-- feedback: Incorrecto. No dividiste el término de grado 2. -->

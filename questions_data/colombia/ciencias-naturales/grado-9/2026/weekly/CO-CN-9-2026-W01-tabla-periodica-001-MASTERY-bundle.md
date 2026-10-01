@@ -32,11 +32,11 @@ Este bundle contiene 12 preguntas sobre **tabla-periodica** para grado 9, alinea
 ### Enunciado
 ¿Cuántos electrones de valencia posee el átomo de Sodio en su capa más externa?
 ### Opciones
-- [x] A) $1$ electrón de valencia
+- [x] C) $1$ electrón de valencia
   <!-- feedback: Correcto. Configuración $1s^2 2s^2 2p^6 3s^1 \implies 1$ electrón en el nivel 3 (Grupo IA). -->
-- [ ] B) $2$ electrones de valencia
+- [ ] A) $2$ electrones de valencia
   <!-- feedback: Incorrecto. Corresponde al Magnesio ($Z=12$). -->
-- [ ] C) $8$ electrones de valencia
+- [ ] B) $8$ electrones de valencia
   <!-- feedback: Incorrecto. Corresponde al Neón ($Z=10$). -->
 - [ ] D) $7$ electrones de valencia
   <!-- feedback: Incorrecto. Corresponde al Cloro ($Z=17$). -->
@@ -52,13 +52,13 @@ El Sodio ($Z=11$) termina en $3s^1$, teniendo $1$ electrón de valencia.
 ### Enunciado
 ¿Cuál es el criterio de ordenamiento de los elementos químicos en la tabla periódica actual?
 ### Opciones
-- [x] A) Número atómico creciente ($Z$, número de protones)
+- [x] D) Número atómico creciente ($Z$, número de protones)
   <!-- feedback: Correcto. Ley Periódica de Moseley basada en $Z$ creciente. -->
-- [ ] B) Masa atómica creciente ($A$)
+- [ ] A) Masa atómica creciente ($A$)
   <!-- feedback: Incorrecto. La masa atómica fue el criterio de Mendeleiev, superado por la Ley de Moseley. -->
-- [ ] C) Número de neutrones en el núcleo
+- [ ] B) Número de neutrones en el núcleo
   <!-- feedback: Incorrecto. Los isótopos varían en neutrones sin cambiar de posición en la tabla. -->
-- [ ] D) Abundancia porcentual en la corteza terrestre
+- [ ] C) Abundancia porcentual en la corteza terrestre
   <!-- feedback: Incorrecto. La abundancia no determina la periodicidad química. -->
 ### Explicacion Pedagogica
 La tabla periódica moderna se organiza en orden creciente del número atómico ($Z$).
@@ -72,13 +72,13 @@ La tabla periódica moderna se organiza en orden creciente del número atómico 
 ### Enunciado
 ¿Cómo varía la electronegatividad al avanzar de izquierda a derecha en un mismo periodo de la tabla periódica?
 ### Opciones
-- [x] A) Aumenta gradualmente debido al incremento de la carga nuclear efectiva.
+- [x] D) Aumenta gradualmente debido al incremento de la carga nuclear efectiva.
   <!-- feedback: Correcto. Mayor $Z$ atrae con más fuerza los electrones de enlace. -->
-- [ ] B) Disminuye constantemente al aumentarse los niveles de energía.
+- [ ] A) Disminuye constantemente al aumentarse los niveles de energía.
   <!-- feedback: Incorrecto. El número de niveles de energía se mantiene constante en el mismo periodo. -->
-- [ ] C) Permanece estrictamente constante.
+- [ ] B) Permanece estrictamente constante.
   <!-- feedback: Incorrecto. La electronegatividad es una propiedad periódica altamente variable. -->
-- [ ] D) Aumenta y luego cae a cero en los halógenos.
+- [ ] C) Aumenta y luego cae a cero en los halógenos.
   <!-- feedback: Incorrecto. Los halógenos tienen las mayores electronegatividades. -->
 ### Explicacion Pedagogica
 En un periodo, de izquierda a derecha, la electronegatividad aumenta al subir la carga nuclear efectiva ($Z_{eff}$) sin cambiar de nivel.
@@ -92,9 +92,9 @@ En un periodo, de izquierda a derecha, la electronegatividad aumenta al subir la
 ### Enunciado
 ¿Cómo cambia el radio atómico a medida que se desciende en un mismo grupo de la tabla periódica?
 ### Opciones
-- [x] A) Aumenta debido a la adición de nuevos niveles principales de energía ($n$).
+- [x] B) Aumenta debido a la adición de nuevos niveles principales de energía ($n$).
   <!-- feedback: Correcto. Al descender en un grupo se añade una capa o nivel de electrones extra. -->
-- [ ] B) Disminuye por la mayor atracción de los protones centrales.
+- [ ] A) Disminuye por la mayor atracción de los protones centrales.
   <!-- feedback: Incorrecto. El apantallamiento de capas internas domina y el radio aumenta. -->
 - [ ] C) Se mantiene exactamente idéntico en todo el grupo.
   <!-- feedback: Incorrecto. Los átomos de abajo tienen más capas electrónicas. -->
@@ -112,11 +112,11 @@ Al bajar en un grupo, $n$ aumenta (más capas electrónicas), incrementando la d
 ### Enunciado
 ¿Cuál es la configuración electrónica completa del elemento Calcio en su estado fundamental?
 ### Opciones
-- [x] A) $1s^2 2s^2 2p^6 3s^2 3p^6 4s^2$
+- [x] C) $1s^2 2s^2 2p^6 3s^2 3p^6 4s^2$
   <!-- feedback: Correcto. Suma de electrones $= 2+2+6+2+6+2 = 20$. -->
-- [ ] B) $1s^2 2s^2 2p^6 3s^2 3p^8$
+- [ ] A) $1s^2 2s^2 2p^6 3s^2 3p^8$
   <!-- feedback: Incorrecto. El subnivel $p$ alberga máximo 6 electrones. -->
-- [ ] C) $1s^2 2s^2 2p^6 3s^2 3d^8$
+- [ ] B) $1s^2 2s^2 2p^6 3s^2 3d^8$
   <!-- feedback: Incorrecto. Según el principio de Aufbau, se llena primero $3p$ y $4s$ antes que $3d$. -->
 - [ ] D) $1s^2 2s^2 2p^6 3s^4 4s^6$
   <!-- feedback: Incorrecto. Capacidad máxima de $s$ es 2 electrones. -->
@@ -132,11 +132,11 @@ Principio de Aufbau para $Z=20$: $1s^2 2s^2 2p^6 3s^2 3p^6 4s^2$.
 ### Enunciado
 ¿Qué tipo de enlace químico se forma predominantemente entre el Sodio y el Cloro?
 ### Opciones
-- [x] A) Enlace iónico (transferencia completa de electrones)
+- [x] C) Enlace iónico (transferencia completa de electrones)
   <!-- feedback: Correcto. $\Delta EN > 1.7$ origina transferencia electrónica formando $Na^+$ y $Cl^-$. -->
-- [ ] B) Enlace covalente no polar
+- [ ] A) Enlace covalente no polar
   <!-- feedback: Incorrecto. Requiere $\Delta EN \approx 0$. -->
-- [ ] C) Enlace covalente polar
+- [ ] B) Enlace covalente polar
   <!-- feedback: Incorrecto. Se da en diferencias entre $0.4$ y $1.7$. -->
 - [ ] D) Enlace metálico
   <!-- feedback: Incorrecto. Ocurre entre átomos metálicos idénticos o aleaciones. -->
@@ -172,9 +172,9 @@ Isótopos $=$ átomos del mismo elemento (igual $Z$, protones) con diferente nú
 ### Enunciado
 ¿Cómo se denomina esta propiedad periódica?
 ### Opciones
-- [x] A) Energía de Ionización (o Potencial de Ionización)
+- [x] B) Energía de Ionización (o Potencial de Ionización)
   <!-- feedback: Correcto. $X_{(g)} + E_i \rightarrow X^+_{(g)} + e^-$. -->
-- [ ] B) Afinidad Electrónica
+- [ ] A) Afinidad Electrónica
   <!-- feedback: Incorrecto. La afinidad electrónica es la energía liberada al capturar un electrón. -->
 - [ ] C) Electronegatividad
   <!-- feedback: Incorrecto. Es la tendencia a atraer electrones compartidos en un enlace. -->
@@ -192,11 +192,11 @@ La energía de ionización es la mínima energía necesaria para arrancar el ele
 ### Enunciado
 ¿A qué periodo y grupo de la tabla periódica pertenece este elemento?
 ### Opciones
-- [x] A) Periodo 3, Grupo VIA (16, Calcógenos/Anfígenos)
+- [x] C) Periodo 3, Grupo VIA (16, Calcógenos/Anfígenos)
   <!-- feedback: Correcto. Nivel $n=3 \implies$ Periodo 3. Valencias $3s^2 3p^4 \implies 2+4=6 \implies$ Grupo VIA. -->
-- [ ] B) Periodo 4, Grupo IVA (14)
+- [ ] A) Periodo 4, Grupo IVA (14)
   <!-- feedback: Incorrecto. Nivel principal es 3, no 4. -->
-- [ ] C) Periodo 3, Grupo IVB (4)
+- [ ] B) Periodo 3, Grupo IVB (4)
   <!-- feedback: Incorrecto. Pertenece al bloque $p$ (elementos representativos A). -->
 - [ ] D) Periodo 2, Grupo VIIA (17)
   <!-- feedback: Incorrecto. Nivel $n=3$ y $6$ electrones de valencia. -->
@@ -212,13 +212,13 @@ Termina en $3s^2 3p^4$: Periodo $=$ mayor $n = 3$. Electrones de valencia $= 2 +
 ### Enunciado
 ¿Por qué el radio iónico del catión $Na^+$ es significativamente menor que el radio atómico del $Na$ neutro?
 ### Opciones
-- [x] A) Porque el $Na^+$ pierde su capa externa más lejana ($n=3$) y aumenta la atracción efectiva de los protones sobre los electrones restantes.
+- [x] D) Porque el $Na^+$ pierde su capa externa más lejana ($n=3$) y aumenta la atracción efectiva de los protones sobre los electrones restantes.
   <!-- feedback: Correcto. Al perder $3s^1$, disminuye una capa de electrones completa y se reduce la repulsión interelectrónica. -->
-- [ ] B) Porque el $Na^+$ pierde protones en el núcleo atómico.
+- [ ] A) Porque el $Na^+$ pierde protones en el núcleo atómico.
   <!-- feedback: Incorrecto. Los protones nucleares permanecen inalterados ($11$). -->
-- [ ] C) Porque se ganan electrones aumentando la repulsión electrónica.
+- [ ] B) Porque se ganan electrones aumentando la repulsión electrónica.
   <!-- feedback: Incorrecto. Un catión pierde electrones, no los gana. -->
-- [ ] D) Porque la masa de los electrones perdidos colapsa el núcleo.
+- [ ] C) Porque la masa de los electrones perdidos colapsa el núcleo.
   <!-- feedback: Incorrecto. La masa de electrones es despreciable. -->
 ### Explicacion Pedagogica
 Al formarse el catión $Na^+$ ($1s^2 2s^2 2p^6$), se pierde la capa $n=3$ y la carga nuclear atrae con más fuerza a los $10$ electrones restantes.
@@ -232,9 +232,9 @@ Al formarse el catión $Na^+$ ($1s^2 2s^2 2p^6$), se pierde la capa $n=3$ y la c
 ### Enunciado
 ¿Cuál de estos elementos presenta la menor energía de ionización?
 ### Opciones
-- [x] A) Elemento $Z$
+- [x] B) Elemento $Z$
   <!-- feedback: Correcto. $Z$ (Sodio, $n=3$) tiene su electrón de valencia más alejado del núcleo que $W$ ($n=2$), requiriendo la menor energía para removerlo. -->
-- [ ] B) Elemento $Y$
+- [ ] A) Elemento $Y$
   <!-- feedback: Incorrecto. $Y$ es un gas noble (Neón) con capa llena y máxima energía de ionización. -->
 - [ ] C) Elemento $X$
   <!-- feedback: Incorrecto. $X$ (Flúor) es muy electronegativo con alta energía de ionización. -->
@@ -252,9 +252,9 @@ La energía de ionización disminuye al bajar en un grupo (mayor $n$). Entre $W$
 ### Enunciado
 ¿Qué tipo de red cristalina y enlace químico explica estas propiedades macroscópicas?
 ### Opciones
-- [x] A) Red cristalina iónica con atracciones electrostáticas intensas entre cationes y aniones.
+- [x] B) Red cristalina iónica con atracciones electrostáticas intensas entre cationes y aniones.
   <!-- feedback: Correcto. Puntos de fusión elevados y conductividad en solución/fundido son firma de redes iónicas. -->
-- [ ] B) Sólido covalente molecular con fuerzas de Van der Waals débiles.
+- [ ] A) Sólido covalente molecular con fuerzas de Van der Waals débiles.
   <!-- feedback: Incorrecto. Los compuestos covalentes moleculares suelen tener bajos puntos de fusión y no conducen en solución. -->
 - [ ] C) Sólido metálico con mar de electrones libres.
   <!-- feedback: Incorrecto. Los metales conducen en estado sólido rígido. -->

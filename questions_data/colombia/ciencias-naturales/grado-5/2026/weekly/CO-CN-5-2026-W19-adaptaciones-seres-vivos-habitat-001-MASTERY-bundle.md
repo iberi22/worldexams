@@ -34,11 +34,11 @@ Cómo las características de los seres vivos les permiten sobrevivir en su háb
 ¿Qué es una adaptación de los seres vivos?
 
 ### Opciones
-- [x] A) Una característica que ayuda al ser vivo a sobrevivir en su hábitat.
+- [x] C) Una característica que ayuda al ser vivo a sobrevivir en su hábitat.
   <!-- feedback: Las adaptaciones son rasgos como el pelaje, las espinas o el color que favorecen la supervivencia. -->
-- [ ] B) Un cambio que ocurre solamente en los animales domésticos.
+- [ ] A) Un cambio que ocurre solamente en los animales domésticos.
   <!-- feedback: Las adaptaciones ocurren en plantas, animales y otros seres vivos, silvestres o domésticos. -->
-- [ ] C) Una enfermedad que afecta a las plantas en clima frío.
+- [ ] B) Una enfermedad que afecta a las plantas en clima frío.
   <!-- feedback: Una adaptación no es una enfermedad, sino una característica que ayuda a sobrevivir. -->
 - [ ] D) Un alimento que solo consumen las ranas.
   <!-- feedback: El alimento es parte de la dieta, no una característica adaptativa del cuerpo. -->
@@ -80,11 +80,11 @@ Interpretar cómo la forma de las hojas del frailejón responde a la baja dispon
 ¿Qué ventaja le da al cactus tener espinas en lugar de hojas grandes?
 
 ### Opciones
-- [x] A) Reduce la pérdida de agua, porque las espinas transpiran menos que las hojas.
+- [x] C) Reduce la pérdida de agua, porque las espinas transpiran menos que las hojas.
   <!-- feedback: Al reducir la superficie, el cactus pierde menos agua y sobrevive en el desierto. -->
-- [ ] B) Aumenta la cantidad de agua que pierde por las hojas.
+- [ ] A) Aumenta la cantidad de agua que pierde por las hojas.
   <!-- feedback: Ocurre lo contrario: el cactus busca perder la menor cantidad de agua posible. -->
-- [ ] C) Le permite crecer más rápido en lugares muy húmedos.
+- [ ] B) Le permite crecer más rápido en lugares muy húmedos.
   <!-- feedback: El cactus está adaptado a zonas secas; la humedad excesiva no es su ambiente típico. -->
 - [ ] D) Le sirve para atrapar insectos y alimentarse de ellos.
   <!-- feedback: Las espinas protegen a la planta; no son una trampa para alimentarse. -->
@@ -103,11 +103,11 @@ Aplicar el concepto de adaptación para explicar la reducción de la pérdida de
 ¿Qué condición del hábitat es más importante para mantener viva a la rana dorada?
 
 ### Opciones
-- [x] A) Un ambiente húmedo y limpio, parecido a su bosque natural.
+- [x] C) Un ambiente húmedo y limpio, parecido a su bosque natural.
   <!-- feedback: La rana dorada depende de la humedad y la limpieza de su bosque para respirar y reproducirse. -->
-- [ ] B) Una jaula seca y con mucha luz directa del sol.
+- [ ] A) Una jaula seca y con mucha luz directa del sol.
   <!-- feedback: La sequedad y el sol directo afectan la piel húmeda de la rana y su supervivencia. -->
-- [ ] C) Agua con detergente para mantenerla siempre limpia.
+- [ ] B) Agua con detergente para mantenerla siempre limpia.
   <!-- feedback: El detergente es un contaminante que daña la piel de la rana y el agua de su hábitat. -->
 - [ ] D) Temperaturas bajo cero durante todo el año.
   <!-- feedback: Las temperaturas bajo cero no corresponden al ambiente cálido y húmedo de esta rana. -->
@@ -126,9 +126,9 @@ Aplicar el concepto de hábitat para seleccionar las condiciones que una especie
 ¿Cómo se explica que el frailejón resista mejor el frío del páramo?
 
 ### Opciones
-- [x] A) Sus hojas peludas y su tallo grueso lo protegen de las bajas temperaturas.
+- [x] B) Sus hojas peludas y su tallo grueso lo protegen de las bajas temperaturas.
   <!-- feedback: La cubierta peluda y el tallo actúan como aislantes frente al frío extremo del páramo. -->
-- [ ] B) Porque cambia de color según la temporada de lluvias.
+- [ ] A) Porque cambia de color según la temporada de lluvias.
   <!-- feedback: El color del frailejón no es lo que lo protege del frío; el cambio de color no explica su resistencia. -->
 - [ ] C) Porque sus raíces flotan sobre el agua de la niebla.
   <!-- feedback: Las raíces están ancladas al suelo; no flotan sobre la niebla. -->
@@ -172,13 +172,13 @@ Analizar cómo dos especies con hábitats opuestos desarrollan adaptaciones dist
 ¿Por qué la destrucción del hábitat es una amenaza grave para la rana dorada?
 
 ### Opciones
-- [x] A) Porque la rana depende de las condiciones específicas de su bosque húmedo y no puede vivir en cualquier lugar.
+- [x] D) Porque la rana depende de las condiciones específicas de su bosque húmedo y no puede vivir en cualquier lugar.
   <!-- feedback: Al desaparecer su bosque, la rana pierde el ambiente húmedo y limpio que necesita para vivir. -->
-- [ ] B) Porque el veneno de su piel deja de funcionar fuera del bosque.
+- [ ] A) Porque el veneno de su piel deja de funcionar fuera del bosque.
   <!-- feedback: El veneno proviene de su alimentación, pero el problema central es la pérdida del hábitat. -->
-- [ ] C) Porque los depredadores aprenden a comer ranas venenosas.
+- [ ] B) Porque los depredadores aprenden a comer ranas venenosas.
   <!-- feedback: Los depredadores evitan a la rana por su veneno; la amenaza principal es el hábitat destruido. -->
-- [ ] D) Porque su color brillante desaparece cuando cambia de ambiente.
+- [ ] C) Porque su color brillante desaparece cuando cambia de ambiente.
   <!-- feedback: El color brillante hace parte de su cuerpo; no es la razón de la amenaza. -->
 
 ### Explicacion Pedagogica
@@ -195,13 +195,13 @@ Analizar la relación entre la supervivencia de una especie y la conservación d
 ¿Cuál es la mejor decisión para conservar estas especies?
 
 ### Opciones
-- [x] A) Proteger y conservar los hábitats naturales donde viven.
+- [x] D) Proteger y conservar los hábitats naturales donde viven.
   <!-- feedback: Conservar el hábitat mantiene las condiciones que cada especie necesita para sobrevivir. -->
-- [ ] B) Llevar todas las especies a un solo hábitat para agruparlas.
+- [ ] A) Llevar todas las especies a un solo hábitat para agruparlas.
   <!-- feedback: Cada especie necesita su propio ambiente; reunirlas las pondría en riesgo. -->
-- [ ] C) Cambiar el clima de cada región para que todas vivan igual.
+- [ ] B) Cambiar el clima de cada región para que todas vivan igual.
   <!-- feedback: Cambiar el clima alteraría los hábitats y afectaría a las especies adaptadas a ellos. -->
-- [ ] D) Capturar ejemplares y mantenerlos en jaulas individuales.
+- [ ] C) Capturar ejemplares y mantenerlos en jaulas individuales.
   <!-- feedback: Sacarlas de su hábitat reduce su bienestar y no resuelve la pérdida del ambiente natural. -->
 
 ### Explicacion Pedagogica

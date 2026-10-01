@@ -32,11 +32,11 @@ Este bundle contiene 12 preguntas sobre **simplificacion-expresiones-algebraicas
 ### Enunciado
 ¿Qué son términos semejantes y cuáles lo son en 5x + 3y + 2x + 7?
 ### Opciones
-- [x] A) Son términos con la misma parte literal; 5x y 2x son semejantes.
+- [x] C) Son términos con la misma parte literal; 5x y 2x son semejantes.
   <!-- feedback: Correcto. Ambos tienen la misma variable x con el mismo exponente. -->
-- [ ] B) Son términos con distinto signo; 5x y 3y son semejantes.
+- [ ] A) Son términos con distinto signo; 5x y 3y son semejantes.
   <!-- feedback: Incorrecto. 5x y 3y tienen distinta parte literal. -->
-- [ ] C) Son todos los números sin variable; 3y y 7 son semejantes.
+- [ ] B) Son todos los números sin variable; 3y y 7 son semejantes.
   <!-- feedback: Incorrecto. 3y tiene variable y 7 es constante; no son semejantes. -->
 - [ ] D) Son términos con la misma parte literal; 5x y 7 son semejantes.
   <!-- feedback: Incorrecto. 7 es un término independiente, sin parte literal x. -->
@@ -52,9 +52,9 @@ Dos términos son semejantes cuando tienen exactamente la misma parte literal, e
 ### Enunciado
 ¿Cuál es el resultado de simplificar 4a + 6a?
 ### Opciones
-- [ ] A) 10a al cuadrado
+- [ ] B) 10a al cuadrado
   <!-- feedback: Incorrecto. Al sumar no se multiplican las variables ni se elevan exponentes. -->
-- [x] B) 10a
+- [x] A) 10a
   <!-- feedback: Correcto. Se suman los coeficientes 4 + 6 y se conserva la parte literal a. -->
 - [ ] C) 24a
   <!-- feedback: Incorrecto. Eso sería el producto 4 por 6, no la suma. -->
@@ -94,9 +94,9 @@ Simplificar es expresar la misma cantidad con menos términos, combinando los se
 ### Opciones
 - [ ] A) 10
   <!-- feedback: Incorrecto. Se perdieron las variables al simplificar. -->
-- [x] B) 10x
+- [x] C) 10x
   <!-- feedback: Correcto. Se suman los cuatro coeficientes: 3 + 2 + 3 + 2 = 10. -->
-- [ ] C) 12x al cuadrado
+- [ ] B) 12x al cuadrado
   <!-- feedback: Incorrecto. Esa sería una expresión de área con producto, no de perímetro. -->
 - [ ] D) 5x + 5x al cuadrado
   <!-- feedback: Incorrecto. No se pueden inventar exponentes al combinar términos lineales. -->
@@ -112,9 +112,9 @@ Todos los términos son semejantes en x. Al sumarlos: (3 + 2 + 3 + 2)x = 10x. Es
 ### Enunciado
 ¿Cuál es la expresión simplificada de los gastos?
 ### Opciones
-- [ ] A) 5m + 5.000
+- [ ] B) 5m + 5.000
   <!-- feedback: Incorrecto. Falta sumar las dos constantes 5.000 y 12.000. -->
-- [x] B) 5m + 17.000
+- [x] A) 5m + 17.000
   <!-- feedback: Correcto. Se combinan 8m − 3m = 5m y 5.000 + 12.000 = 17.000. -->
 - [ ] C) 11m + 17.000
   <!-- feedback: Incorrecto. Los términos 8m y −3m se restan, no se suman. -->
@@ -134,11 +134,11 @@ Al aplicar la propiedad distributiva, ¿a qué equivale 3(x + 2)?
 ### Opciones
 - [ ] A) 3x + 2
   <!-- feedback: Incorrecto. El 3 debe multiplicar también al 2. -->
-- [x] B) 3x + 6
+- [x] D) 3x + 6
   <!-- feedback: Correcto. Se multiplica 3 por x y 3 por 2. -->
-- [ ] C) 5x + 2
+- [ ] B) 5x + 2
   <!-- feedback: Incorrecto. No se suman el factor 3 con la variable x. -->
-- [ ] D) 3x + 12
+- [ ] C) 3x + 12
   <!-- feedback: Incorrecto. El producto 3 por 2 es 6, no 12. -->
 ### Explicacion Pedagogica
 La propiedad distributiva indica que 3(x + 2) = 3·x + 3·2 = 3x + 6. Cada término dentro del paréntesis se multiplica por el factor externo.
@@ -172,9 +172,9 @@ Primero se distribuye: 2(3a + 4) = 6a + 8. Luego se combina con −5a: 6a − 5a
 ### Enunciado
 ¿Cuál es la forma simplificada correcta?
 ### Opciones
-- [ ] A) 5x³ + 5
+- [ ] B) 5x³ + 5
   <!-- feedback: Incorrecto. Al combinar 7x² − 2x² el exponente se conserva en 2, no cambia a 3. -->
-- [x] B) 5x² + 5
+- [x] A) 5x² + 5
   <!-- feedback: Correcto. Se combinan 7x² − 2x² = 5x² y 3x − 3x = 0, quedando 5x² + 5. -->
 - [ ] C) 5x² + 6x + 5
   <!-- feedback: Incorrecto. Los términos 3x y −3x se cancelan, no se suman. -->
@@ -232,9 +232,9 @@ Solo se pueden combinar los términos con idéntica parte literal. Aquí 4x + 2x
 ### Enunciado
 ¿Cuál es la expresión simplificada del ingreso y cuánto se recibe por 10 anchetas?
 ### Opciones
-- [ ] A) 30.000n − 3.000 y por 10 anchetas 297.000 COP.
+- [ ] B) 30.000n − 3.000 y por 10 anchetas 297.000 COP.
   <!-- feedback: Incorrecto. Esa combinación no distribuye bien el 5.000 en el paréntesis. -->
-- [x] B) 30.000n − 8.000 y por 10 anchetas 292.000 COP.
+- [x] A) 30.000n − 8.000 y por 10 anchetas 292.000 COP.
   <!-- feedback: Correcto. Se distribuye 5.000n − 5.000 y se combinan constantes y términos en n. -->
 - [ ] C) 30.000n − 8.000 y por 10 anchetas 300.000 COP.
   <!-- feedback: Incorrecto. La expresión es correcta, pero 30.000 por 10 − 8.000 = 292.000, no 300.000. -->
@@ -254,9 +254,9 @@ Se distribuye: 5.000(n − 1) = 5.000n − 5.000. Luego 25.000n − 3.000 + 5.00
 ### Opciones
 - [ ] A) Verdadera y equivale a 8x para todo x.
   <!-- feedback: Incorrecto. La simplificación correcta elimina la x por completo. -->
-- [x] B) Falsa como está escrita: la expresión equivale a 8x, que solo vale 8 cuando x = 1.
+- [x] C) Falsa como está escrita: la expresión equivale a 8x, que solo vale 8 cuando x = 1.
   <!-- feedback: Correcto. Al distribuir queda 2x² + 8x − 2x² = 8x, no la constante 8. -->
-- [ ] C) Verdadera: 2x² + 8x − 2x² = 8 para todo x.
+- [ ] B) Verdadera: 2x² + 8x − 2x² = 8 para todo x.
   <!-- feedback: Incorrecto. Los términos que se cancelan son los cuadráticos, no los lineales. -->
 - [ ] D) Falsa: la expresión no se puede simplificar porque tiene paréntesis.
   <!-- feedback: Incorrecto. La propiedad distributiva sí permite eliminar el paréntesis. -->
