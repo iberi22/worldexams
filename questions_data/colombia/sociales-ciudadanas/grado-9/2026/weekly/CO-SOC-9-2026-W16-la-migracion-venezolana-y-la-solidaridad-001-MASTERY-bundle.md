@@ -36,7 +36,7 @@ Este bundle reune 12 preguntas sobre la migración venezolana en Colombia Evalua
 ### Opciones
 - [ ] A) Elafi )$Aumento del ecoturismo y la busqueda de destinos turisticos en la frontera.
   <!-- feedback: Incorrecto. El turismo no explica una migración masiva, y las causas son de caracter economico, politico y social. -->
-- [x] B) La crisis economica, la incertidumbre politica y la falta de acceso a servicios y oportunidades en Venezuela.
+- [x] B) La crisis economica, la incertidumbre política y la falta de acceso a servicios y oportunidades en Venezuela.
   <!-- feedback: Correcto. La combinacion de crisis economica, crisis política y falta de servicios explica el desplazamiento de millones de personas. -->
 - [ ] C) La apertura de la frontera comercial del pais, que habria VPS incentivado el desplazamiento de families enteras.
   <!-- feedback: Incorrecto. La migración no fue una decisión de apertura comercial, y sus causas son internas al país de origen. -->
@@ -56,7 +56,7 @@ Las migraciones casi nunca tienen una sola causa. La migración venezolana se ex
 ### Enunciado
  Que es el Estatuto Temporal de protección para Migrantes Venezolanos?
 ### Opciones
-- [ ] A) Es un permiso de trabajo permanente que garantiza la ciudadania de quien lo obtiene.
+- [ ] A) Es un permiso de trabajo permanente que garantiza la ciudadanía de quien lo obtiene.
   <!-- feedback: Incorrecto. El Estatuto ofrece protección temporal y habilita permisos, y no concede la ciudadanía por si mismo. -->
 - [x] B) Es un mecanismo legal que ofrece proteccion, regularizacion y permisos por un tiempo determinado a personas refugiadas en Colombia.
   <!-- feedback: Correcto. El Estatuto habilita el acceso a servicios, la regularizacion y permisos de trabajo por un periodo definido. -->
@@ -73,15 +73,15 @@ El Estatuto de protección para Migrantes Venezolanos es una respuesta legal del
 **Bloom:** Apply
 **ICFES:** Ciudadano
 **Expected_Success:** 0.85
-**Contexto:** Una madre venezolana radicada en el municipio de Maipo solicita la matricula de su hija de 8 anos en un colegio publico.
+**Contexto:** Una madre venezolana radicada en el municipio de Maipo solicita la matricula de su hija de 8 anos en un colegio público.
 
 ### Enunciado
- Que derecho de la nina esta en juego y como debe responder la institucion?
+ Que derecho de la nina esta en juego y como debe responder la institución?
 
 ### Opciones
 - [ ] A) El derecho a la libertad de expresion, que se protege si la colegio le permite hablar su idioma_native.
   <!-- feedback: Incorrecto. El idioma es parte de la identidad, y el derecho central en este caso es el acceso a la educación. -->
-- [x] B) El derecho a la educacion, y la institucion debe matricularla sin discriminationar por su origen o por no tener cedula.
+- [x] B) El derecho a la educación, y la institución debe matricularla sin discriminationar por su origen o por no tener cedula.
   <!-- feedback: Correcto. La educación es un derecho del nino, y la condicion de migrante no puede usarse para excluirla. -->
 - [ ] C) El derecho a la propiedad, porque la matricula depende de documentos que pertenecen a la familia.
   <!-- feedback: Incorrecto. La propiedad de documentos es un asunto administrativo, y el derecho en juego es la educación. -->
@@ -89,7 +89,7 @@ El Estatuto de protección para Migrantes Venezolanos es una respuesta legal del
   <!-- feedback: Incorrecto. La salud es un derecho importante, y el motivo de la matricula y el derecho a la educación de la nina. -->
 
 ### Explicacion Pedagogica
-El acceso a la educación no puede condicionarse a la nacionalidad ni al estatus migratorio. Una institucion educativa debe matricular a las ninas y ninos que viven en su territorio, y la falta de cedula no es un impedimento valido. Comprender este principio evita que la burocracia se convierta en una via de exclusion. Es la aplicacion concreta del principio de no discriminacion en el ámbito educativo.
+El acceso a la educación no puede condicionarse a la nacionalidad ni al estatus migratorio. Una institución educativa debe matricular a las ninas y ninos que viven en su territorio, y la falta de cedula no es un impedimento valido. Comprender este principio evita que la burocracia se convierta en una via de exclusion. Es la aplicacion concreta del principio de no discriminacion en el ámbito educativo.
 
 ## Question 4 [D5-D6]
 **ID:** CO-SOC-9-2026-W16-la-migracion-venezolana-y-la-solidaridad-001-MASTERY-bundle-v4
@@ -102,7 +102,7 @@ El acceso a la educación no puede condicionarse a la nacionalidad ni al estatus
  Que principio de la Carta Internacional se invoca para exigir que no se discrimine a una persona por su condicion de migrante?
 
 ### Opciones
-- [ ] A) El principio de la intervencion del Estado en la economia para proteger a los trabajadores nacionales.
+- [ ] A) El principio de la intervencion del Estado en la economía para proteger a los trabajadores nacionales.
   <!-- feedback: Incorrecto. Ese principio pertenece a la economía, y el que se invoca ante la discriminacion es el de igualdad y no discriminacion. -->
 - [ ] B) El principio de la soberania nacional para definir quien puede entrar al pais.
   <!-- feedback: Incorrecto. La soberania regula la admision de personas, y no autoriza discriminarlas una vez que estan en el territorio. -->
@@ -181,14 +181,14 @@ La xenofobia aumenta cuando se combinan la concentracion de personas, la presion
   <!-- feedback: Incorrecto. La constitución reconoce el derecho de los extranjeros, y no existe tal restriccion exclusiva. -->
 
 ### Explicacion Pedagogica
-Discutir la migración como una simple carga conduce a respuestas basadas en el miedo. Las personas migrantes son titulares de derechos, y su presencia obliga al Estado a garantizar educación, salud y seguridad. Reconocer ese hecho cambia el marco de la discusion: de la amenaza a la responsabilidad publica. Es un ejercicio de argumentacion que cualquier estudiante puede aplicar en su comunidad.
+Discutir la migración como una simple carga conduce a respuestas basadas en el miedo. Las personas migrantes son titulares de derechos, y su presencia obliga al Estado a garantizar educación, salud y seguridad. Reconocer ese hecho cambia el marco de la discusion: de la amenaza a la responsabilidad pública. Es un ejercicio de argumentacion que cualquier estudiante puede aplicar en su comunidad.
 
 ## Question 8 [D7-D8]
 **ID:** CO-SOC-9-2026-W16-la-migracion-venezolana-y-la-solidaridad-001-MASTERY-bundle-v8
 **Bloom:** Analyze
 **ICFES:** Convivencia y paz
 **Expected_Success:** 0.70
-**Contexto:** Un investigador de Manizales compara como se aplican las politicas de atencion a migrantes en dos ciudades del país.
+**Contexto:** Un investigador de Manizales compara como se aplican las políticas de atencion a migrantes en dos ciudades del país.
 
 ### Enunciado
  Que diferencia existe entre una política de tolerancia y una política de convivencia con migrantes?
@@ -220,7 +220,7 @@ Diferenciar tolerancia y convivencia no es un matiz de estilo: cambia la políti
 - [ ] C) Porque traen una inversion de capital que se incorpora al comercio y crea una demanda nueva.
   <!-- feedback: Incorrecto. Su economía se explica por su trabajo y su consumo, y no por una inversion de capital significativa. -->
 - [ ] B) Porque ocupan los empleos locales, y de ese modo reducen el desempleo de los trabajadores locales.
-  <!-- feedback: Incorrecto. Ocupar los empleos de otros no es una fortaleza economica, y ademas los datos muestran lo contrario. -->
+  <!-- feedback: Incorrecto. Ocupar los empleos de otros no es una fortaleza economica, y además los datos muestran lo contrario. -->
 - [x] D) Porque amplian la mano de obra disponible y el consumo en el comercio, generando ingreso y empleo nuevos.
   <!-- feedback: Correcto. La llegada de migrantes expande el consumo local y cubre puestos de trabajo en sectores deficitarios. -->
 - [ ] A) Porque reciben subsidios publicos que despues inyectan en el comercio mediante el consumo.
@@ -263,17 +263,17 @@ Una campana de convivencia es pertinente cuando habilita el encuentro y respeta 
  Por que esa participación es pertinente desde el punto de vista democratico?
 
 ### Opciones
-- [ ] A) Porque las personas migrantes contributions un voto adicional que compensa su ausencia de ciudadania.
+- [ ] A) Porque las personas migrantes aportan un voto adicional que compensa su ausencia de ciudadanía.
   <!-- feedback: Incorrecto. La participación en consejos se hace en calidad de vecinos, y no como un voto adicional ni por titulo de ciudadanía. -->
 - [x] B) Porque quien vive en un territorio conoce sus problemas reales, y excluirlo hace peor la respuesta institucional.
-  <!-- feedback: Correcto. La participación de quien vive el problema mejora la calidad de la decisión publica y respeta su dignidad. -->
+  <!-- feedback: Correcto. La participación de quien vive el problema mejora la calidad de la decisión pública y respeta su dignidad. -->
 - [ ] C) Porque sin esa participacion la poblacion local no puede aprobar los presupuestos municipales.
   <!-- feedback: Incorrecto. La participación de los migrantes no es un requisito para aprobar los presupuestos, y esa relacion es inventada. -->
 - [ ] D) Porque la participacion garantiza que todos los migrantes se queden en la ciudad donde hoy viven.
   <!-- feedback: Incorrecto. Nadie puede garantizar la permanencia de otra persona, y la participación no tiene ese efecto. -->
 
 ### Explicacion Pedagogica
-Abrir espacios de participación a quienes viven en el territorio mejora la calidad de la democracy. Las personas migrantes conocen de cerca los problemas de acceso a servicios y de convivencia, y su experiencia es información publica valiosa. Ademas, incluirlas es un reconocimiento de su dignidad y de su calidad de vecinos. Es un criterio que aplica a cualquier proceso de participación local en una ciudad receptora.
+Abrir espacios de participación a quienes viven en el territorio mejora la calidad de la democracy. Las personas migrantes conocen de cerca los problemas de acceso a servicios y de convivencia, y su experiencia es información pública valiosa. Ademas, incluirlas es un reconocimiento de su dignidad y de su calidad de vecinos. Es un criterio que aplica a cualquier proceso de participación local en una ciudad receptora.
 
 ## Question 12 [D9-D10]
 **ID:** CO-SOC-9-2026-W16-la-migracion-venezolana-y-la-solidaridad-001-MASTERY-bundle-v12
@@ -288,7 +288,7 @@ Abrir espacios de participación a quienes viven en el territorio mejora la cali
 ### Opciones
 - [x] A) Presentar voces diversas, incluidos los migrantes, y contrastar fuentes para que la audiencia pueda formarse un juicio propio.
   <!-- feedback: Correcto. Dar espacio a las voces afectadas y contrastar fuentes permite al oyente construir un criterio propio. -->
-- [ ] B) Presentar un solo numero oficial, porque una cifra unica basta para resolver cualquier discusion.
+- [ ] B) Presentar un solo número oficial, porque una cifra unica basta para resolver cualquier discusion.
   <!-- feedback: Incorrecto. Una cifra aislada no explica causas ni consecuencias, y la funcion pedagogica exige contexto. -->
 - [ ] C) Presentar el lado mas adaptado de la situacion, porque la emocion positiva educa mejor que el analisis.
   <!-- feedback: Incorrecto. Omitir la complejidad para dar una imagen positiva es manipulacion, y no educación. -->

@@ -108,7 +108,7 @@ En Colombia la constitución reconoce los tratados de derechos humanos y les da 
   <!-- feedback: Correcto. La no discriminacion prohibe cualquier trato desigual por motivos como el origen, la raza o la condicion social. -->
 - [ ] C) El derecho a la libertad de expresion, porque no puede hablar cuando quiere.
   <!-- feedback: Incorrecto. La exclusion no le impide expresarse en general, sino que vulnera la igualdad y la no discriminacion. -->
-- [ ] D) El derecho a la educacion, porque el Estado le impidio matricularse en la institution.
+- [ ] D) El derecho a la educación, porque el Estado le impidio matricularse en la institution.
   <!-- feedback: Incorrecto. La exclusion viene de companeros, y no de una decisión del Estado, aunque vulnere la igualdad. -->
 
 ### Explicacion Pedagogica
@@ -119,7 +119,7 @@ La no discriminacion es un principio transversal de toda la Carta Internacional.
 **Bloom:** Apply
 **ICFES:** Convivencia y paz
 **Expected_Success:** 0.80
-**Contexto:** En una escuela de Sincelejo, un estudiante de 16 anos es amenazado por un companero dentro de las instalaciones de la institucion.
+**Contexto:** En una escuela de Sincelejo, un estudiante de 16 anos es amenazado por un companero dentro de las instalaciones de la institución.
 
 ### Enunciado
  Que instrumento de la Carta Internacional resulta pertinente en esta situacion y por que?
@@ -130,11 +130,11 @@ La no discriminacion es un principio transversal de toda la Carta Internacional.
   <!-- feedback: Incorrecto. El asunto no es la propiedad de objetos, sino la seguridad y la no violencia. -->
 - [x] B) El derecho a la vida y a la integridad personal, porque una amenaza constituye una vulneracion grave.
   <!-- feedback: Correcto. La Carta protege la vida y la integridad de toda persona, y una amenaza vulnera ese derecho. -->
-- [ ] D) El derecho a la educacion, porque el estudiante podria dejar de asistir a clases.
+- [ ] D) El derecho a la educación, porque el estudiante podria dejar de asistir a clases.
   <!-- feedback: Incorrecto. La educación esta relacionada, pero el instrumento que protege frente a una amenaza directa es la integridad personal. -->
 
 ### Explicacion Pedagogica
-La Carta Internacional protege a la persona frente a distintas formas deAGO violencia. Una amenaza dentro de un centro educativo vulnera el derecho a la vida y a la integridad personal, y activa la obligacion del Estado de proteger. Reconocer que la amenaza es una violacion y no un simple conflicto de convivencia permite activar los canales correctos. Es la base para entender la relacion entre derechos humanos y seguridad escolar.
+La Carta Internacional protege a la persona frente a distintas formas de violencia. Una amenaza dentro de un centro educativo vulnera el derecho a la vida y a la integridad personal, y activa la obligacion del Estado de proteger. Reconocer que la amenaza es una violacion y no un simple conflicto de convivencia permite activar los canales correctos. Es la base para entender la relacion entre derechos humanos y seguridad escolar.
 
 ## Question 6 [D7-D8]
 **ID:** CO-SOC-9-2026-W15-la-carta-internacional-de-derechos-humanos-001-MASTERY-bundle-v6
@@ -251,22 +251,22 @@ La Carta admite que algunos derechos se limiten, pero exige que la limitacion se
 **Bloom:** Evaluate
 **ICFES:** Pluralidad, identidad y desigualdad
 **Expected_Success:** 0.62
-**Contexto:** Un.selectiva admission de una universidad en Medellin rechaza a una postulante por no tener una certificacion deTD restringido identidad que exigianLocale a todos los#
+**Contexto:** Un.selectiva admission de una universidad en Medellin rechaza a una postulante por no tener una certificacion de restringido identidad que exigianLocale a todos los#
 
 ### Enunciado
  Que valoracion es más adecuada de esa decisión de admision?
 ### Opciones
 - [x] A) Es adil discriminatoria si esa certificacion no guarda relacion con las competencias exigidas por el cargo.
-  <!-- feedback: Correcto. Poner una condicion que no se relaciona con el cargo convierte una seleccion en una practica discriminatoria. -->
+  <!-- feedback: Correcto. Poner una condicion que no se relaciona con el cargo convierte una selección en una practica discriminatoria. -->
 - [ ] B) Es licita, porque la universidad puede definir freely los requisitos de admision de sus programas.
   <!-- feedback: Incorrecto. La autonomia universitaria permite definir criterios, pero no admite condiciones arbitrarias o ajenas al cargo. -->
-- [ ] C) Es licita, porque la identidad de la persona es relevante en todo proceso de seleccion.
+- [ ] C) Es licita, porque la identidad de la persona es relevante en todo proceso de selección.
   <!-- feedback: Incorrecto. La identidad es relevante solo cuando tiene relacion directa con el cargo, y nunca de forma abusiva. -->
 - [ ] D) Es indiferente, porque la postulante no ha alcanzado todavia la mayoria de edad.
   <!-- feedback: Incorrecto. La igualdad y la no discriminacion no dependen de la edad: se aplican a todas las personas. -->
 
 ### Explicacion Pedagogica
-El principio de no discriminacion exige que los criterios de seleccion se relacionen con el cargo y no con condiciones personales ajenas a el. Exigir una certificacion sin relacion con las competencias exigidas transforma una seleccion en una practica excluyente. Por eso la evaluacion responsable distingue entre requisitos pertinentes y condiciones abusivas. Es el criterio con que se evalua cualquier política de admision o de empleo.
+El principio de no discriminacion exige que los criterios de selección se relacionen con el cargo y no con condiciones personales ajenas a el. Exigir una certificacion sin relacion con las competencias exigidas transforma una selección en una practica excluyente. Por eso la evaluacion responsable distingue entre requisitos pertinentes y condiciones abusivas. Es el criterio con que se evalua cualquier política de admision o de empleo.
 
 ## Question 12 [D9-D10]
 **ID:** CO-SOC-9-2026-W15-la-carta-internacional-de-derechos-humanos-001-MASTERY-bundle-v12
@@ -283,7 +283,7 @@ El principio de no discriminacion exige que los criterios de seleccion se relaci
   <!-- feedback: Correcto. Una buena propuesta combina evidencia, participación de los afectados y respeto por las personas. -->
 - [ ] B) Es pertinente, porque cualquier denuncia sobre situaciones vulnerables autoriza represalias.
   <!-- feedback: Incorrecto. La denuncia no autoriza represalias, y el principio de no represalia protege a quienes participan. -->
-- [ ] C) Es insuficiente, porque la problematica de los migrantes exige soluciones Rock in the Am Officials, y no puede estudiarse desde la escuela.
+- [ ] C) Es insuficiente, porque la problemática de los migrantes exige soluciones de nivel nacional, y no puede estudiarse desde la escuela.
   <!-- feedback: Incorrecto. La escuela puede y debe estudiar estas problematicas, y esa es precisamente la funcion de la educación en derechos. -->
 - [ ] D) Es insuficiente, porque las personas migrantes no son ciudadanas colombianas y sus derechos no se discuten en clase.
   <!-- feedback: Incorrecto. Los derechos humanos son universales y no dependen de la ciudadanía: se discuten justamente por eso. -->

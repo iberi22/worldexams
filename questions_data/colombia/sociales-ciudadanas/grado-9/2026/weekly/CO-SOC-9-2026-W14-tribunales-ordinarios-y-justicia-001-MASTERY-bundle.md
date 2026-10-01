@@ -21,7 +21,7 @@ creador: "Jules-Agent"
 
 # Bundle MASTERY: Los tribunales ordinarios y como se aplica la justicia en Colombia - Grado 9
 
-Este bundle reune 12 preguntas sobre los tribunales ordinarios y la administracion de justicia en Colombia. Evalua la estructura de la rama judicial, el debido proceso, la accion de tutela, la presuncion de inocencia, la oralidad, la conciliacion y los limites entre justicia y tecnologia. Los escenarios parten de casos reales de ciudades colombianas.
+Este bundle reune 12 preguntas sobre los tribunales ordinarios y la administracion de justicia en Colombia. Evalua la estructura de la rama judicial, el debido proceso, la accion de tutela, la presuncion de inocencia, la oralidad, la conciliacion y los limites entre justicia y tecnología. Los escenarios parten de casos reales de ciudades colombianas.
 
 ## Question 1 [D3-D4]
 **ID:** CO-SOC-9-2026-W14-tribunales-ordinarios-y-justicia-001-MASTERY-bundle-v1
@@ -44,7 +44,7 @@ Este bundle reune 12 preguntas sobre los tribunales ordinarios y la administraci
   <!-- feedback: Incorrecto. Los comites de conciliacion resuelven por acuerdo, pero no son tribunales y no dictan sentencias. -->
 
 ### Explicacion Pedagogica
-Los tribunales ordinarios son la via institucional para resolver conflictos y aplicar la ley. Administrar justicia significa que el Estado ofrece una respuesta formal a partir de normas, pruebas y debido proceso, y no de la fuerza. Entender que la justicia es una funcion publica y no un castigo permite explicar con precision la diferencia entre una infraccion administrativa y un delito. Es el punto de partida para comprender la estructura de la rama judicial en Colombia.
+Los tribunales ordinarios son la via institucional para resolver conflictos y aplicar la ley. Administrar justicia significa que el Estado ofrece una respuesta formal a partir de normas, pruebas y debido proceso, y no de la fuerza. Entender que la justicia es una funcion pública y no un castigo permite explicar con precision la diferencia entre una infraccion administrativa y un delito. Es el punto de partida para comprender la estructura de la rama judicial en Colombia.
 
 ## Question 2 [D3-D4]
 **ID:** CO-SOC-9-2026-W14-tribunales-ordinarios-y-justicia-001-MASTERY-bundle-v2
@@ -57,13 +57,13 @@ Los tribunales ordinarios son la via institucional para resolver conflictos y ap
  Que garantiza el principio de contradiccion en un proceso judicial?
 
 ### Opciones
-- [ ] A) Que el proceso se resuelva en el menor tiempo posible, aunque con informacion incompleta.
+- [ ] A) Que el proceso se resuelva en el menor tiempo posible, aunque con información incompleta.
   <!-- feedback: Incorrecto. La rapidez no es el objetivo de la contradiccion: lo que se protege es que las partes puedan responder a lo que se les imputa. -->
 - [ ] B) Que el juez tenga la facultad de decidir sin consultar documentos, para mantener la celeridad del expediente.
   <!-- feedback: Incorrecto. El juez dirige el proceso, pero decide con base en lo que las partes aportan y demuestran. -->
 - [x] C) Que las partes puedan conocer y refutar lo que la otra parte afirma, y que la decision no se tomara a sus espaldas.
   <!-- feedback: Correcto. La contradiccion exige que nadie sea condenado sin derecho a saber lo que se le imputa y a responder por ello. -->
-- [ ] D) Que el proceso se adelante en privado, de modo que la opinion publica no interfiera con la decision.
+- [ ] D) Que el proceso se adelante en privado, de modo que la opinion pública no interfiera con la decision.
   <!-- feedback: Incorrecto. La publicidad del proceso es otro principio; la contradiccion protege a las partes, no el secreto. -->
 
 ### Explicacion Pedagogica
@@ -90,7 +90,7 @@ El debido proceso se sostiene en principios que tienen rango constitucional. La 
   <!-- feedback: Correcto. El juez de primera instancia, llamado juez de conocimiento, es la puerta de entrada del proceso y aplica la ley a los hechos. -->
 
 ### Explicacion Pedagogica
-Saber a que instancia corresponde un caso es la aplicacion más basica de la organizacion judicial. El juez de primera instancia o de conocimiento es la puerta de entrada del proceso. El juez civil comercial maneja disputas patrimoniales, y el juez de familia, procesos de familia y menores. Identificar la instancia correcta evita que un caso se presente ante la autoridad incompetente.
+Saber a que instancia corresponde un caso es la aplicacion más basica de la organización judicial. El juez de primera instancia o de conocimiento es la puerta de entrada del proceso. El juez civil comercial maneja disputas patrimoniales, y el juez de familia, procesos de familia y menores. Identificar la instancia correcta evita que un caso se presente ante la autoridad incompetente.
 
 ## Question 4 [D5-D6]
 **ID:** CO-SOC-9-2026-W14-tribunales-ordinarios-y-justicia-001-MASTERY-bundle-v4
@@ -100,7 +100,7 @@ Saber a que instancia corresponde un caso es la aplicacion más basica de la org
 **Contexto:** En un municipio de Boyaca, un menor de 17 anos fue notificado de un proceso en el que se le atribuye no cumplir una medida de protección impuesta por un juez de familia.
 
 ### Enunciado
- Que institucion aplica la ley en un proceso como el descrito?
+ Que institución aplica la ley en un proceso como el descrito?
 
 ### Opciones
 - [ ] A) Un juez civil comercial, porque el proceso se origina en una relacion economica previa.
@@ -220,7 +220,7 @@ La justicia no se mide solo por el resultado, sino por el camino que lleva a el.
 ### Opciones
 - [ ] A) El juez imparte justicia y el sistema aplica mecanicamente las normas sin intervencion humana.
   <!-- feedback: Incorrecto. Un sistema computacional ordena y clasifica información, pero no imparte justicia ni evalua responsabilidades. -->
-- [x] B) El juez aplica la ley a un caso concreto con pruebas y responde por su decision, y el sistema solo ordena informacion.
+- [x] B) El juez aplica la ley a un caso concreto con pruebas y responde por su decision, y el sistema solo ordena información.
   <!-- feedback: Correcto. La diferencia es esencial: uno resuelve un caso individual con pruebas, y el otro organiza datos sin decidir sobre personas. -->
 - [ ] C) El juez decide con base en tecnica, y el sistema informatico decide con base en derecho.
   <!-- feedback: Incorrecto. Es exactamente al reves: el juez decide con base en pruebas y derecho, y el sistema funciona con tecnica. -->
@@ -245,7 +245,7 @@ Esta pregunta exige distinguir las herramientas tecnologicas de las institucione
   <!-- feedback: Incorrecto. La transparencia es importante, pero puede entrar en conflicto con la privacidad y con la reserva legal. -->
 - [ ] B) Si, porque los expedientes judiciales son documentos publicos desde el momento en que se Createan.
   <!-- feedback: Incorrecto. La publicidad de un expediente no es automatica, y la reserva protege datos personales y pruebas protegidas. -->
-- [x] C) Si, pero solo es aceptable si se protege la informacion sensible: datos de menores, victimas y datos personales de las partes.
+- [x] C) Si, pero solo es aceptable si se protege la información sensible: datos de menores, victimas y datos personales de las partes.
   <!-- feedback: Correcto. La transparencia judicial es legitima cuando respeta los derechos de las partes y protege la información sensible. -->
 - [ ] D) No, porque la transparencia no es un valor de la Constitucion y no puede sostenerse ningun argumento a su favor.
   <!-- feedback: Incorrecto. La transparencia es un principio constitucional, y su limite esta en los otros derechos, no en su negacion. -->
@@ -258,7 +258,7 @@ La transparencia judicial es un principio constitucional que obliga al Estado a 
 **Bloom:** Evaluate
 **ICFES:** Ciudadano
 **Expected_Success:** 0.62
-**Contexto:** Una organizacion de defensa de derechos en Tunja presenta recurso frente a una sentencia de primera instancia que la organizacion considera equivocada.
+**Contexto:** Una organización de defensa de derechos en Tunja presenta recurso frente a una sentencia de primera instancia que la organización considera equivocada.
 
 ### Enunciado
  Cual es la via procesal adecuada para impugnar esa sentencia?
@@ -281,21 +281,21 @@ Cada via procesal responde a un problema distinto. La tutela protege derechos fu
 **Bloom:** Evaluate
 **ICFES:** Reflexión ética y política
 **Expected_Success:** 0.60
-**Contexto:** Un tribunal de Cartagena evalua un proyecto que combina tecnologia digital, mediadores comunitarios y puertas de atencion más cercanas.
+**Contexto:** Un tribunal de Cartagena evalua un proyecto que combina tecnología digital, mediadores comunitarios y puertas de atencion más cercanas.
 
 ### Enunciado
  Que evaluacion de ese proyecto es más responsable?
 
 ### Opciones
-- [x] A) Es pertinente, siempre que la tecnologia no se convierta en la unica via, los mediadores no reemplacen la atencion personalizada.
-  <!-- feedback: Correcto. La tecnologia y los mediadores son utiles si se combinan con atencion personalizada para quien la necesita. -->
+- [x] A) Es pertinente, siempre que la tecnología no se convierta en la unica via, los mediadores no reemplacen la atencion personalizada.
+  <!-- feedback: Correcto. La tecnología y los mediadores son utiles si se combinan con atencion personalizada para quien la necesita. -->
 - [ ] B) Es innecesario, porque la justicia ya tiene suficientes recursos y no necesita modernizarse.
   <!-- feedback: Incorrecto. El acceso a la justicia tiene problemas reales de cobertura, y negar la necesidad de modernizacion Ignora la evidencia. -->
-- [ ] C) Es suficiente por si solo, porque la tecnologia por si sola garantiza el acceso universal a la justicia.
-  <!-- feedback: Incorrecto. La tecnologia sola no garantiza acceso universal: hay personas sin conectividad y sin alfabetizacion digital. -->
+- [ ] C) Es suficiente por si solo, porque la tecnología por si sola garantiza el acceso universal a la justicia.
+  <!-- feedback: Incorrecto. La tecnología sola no garantiza acceso universal: hay personas sin conectividad y sin alfabetizacion digital. -->
 - [ ] D) Es inaceptable, porque los mediadores comunitarios no pueden participar en la administracion de justicia.
   <!-- feedback: Incorrecto. Los mecanismos consensuales como la conciliacion son vias previstas por la propia ley, y si son legitimas. -->
 
 ### Explicacion Pedagogica
-Un proyecto publico de acceso a la justicia debe evaluarse por sus efectos reales, no por su tecnologia. La digitalizacion mejora la cobertura, pero deja fuera a quien no tiene conectividad ni alfabetizacion digital. Los mediadores comunitarios ayudan, pero deben articularse con la via judicial y no sustituirla. La respuesta responsable combina innovacion con inclusion y con respeto por la dignidad de las personas.
+Un proyecto público de acceso a la justicia debe evaluarse por sus efectos reales, no por su tecnología. La digitalizacion mejora la cobertura, pero deja fuera a quien no tiene conectividad ni alfabetizacion digital. Los mediadores comunitarios ayudan, pero deben articularse con la via judicial y no sustituirla. La respuesta responsable combina innovacion con inclusion y con respeto por la dignidad de las personas.
 
