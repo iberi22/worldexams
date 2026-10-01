@@ -864,7 +864,77 @@ const gluedTokenCases = [
 try {
   // A case may carry content as a string (already written out) or as
    // buildContent, a function that assembles it. Keep whichever it has.
-   const allCases = [...ctxCases, ...foreignScriptCases, ...gluedTokenCases].map((c) => ({
+   
+// option-letters: four options must be A, B, C, D once each. A model that drifts
+// mid-option writes two rows with the same letter, and every other rule passes:
+// four rows, four feedbacks, one correct marker. The strings here are the exact
+// shapes found in the corpus (CABC, BABC, ABDD).
+const buildWithLetters = (letters) => {
+  const ctx = 'Estudiantes de San Miguel discuten la constitucion de 1821.';
+  const stemLine = 'Que principio inspira esa constitucion?';
+  const options = [
+    { text: 'La soberania popular', fb: 'Correcto. La soberania del pueblo ordena todo el documento.' },
+    { text: 'La herededad del trono', fb: 'Incorrecto. La nobleza por nacimiento no es fuente de autoridad.' },
+    { text: 'El comercio sin tasa', fb: 'Incorrecto. Esa exoneracion pertenece a otras leyes posteriores.' },
+    { text: 'La union con Guatemala', fb: 'Incorrecto. La union con Guatemala es un episodio posterior.' },
+  ];
+  const q = (n, ctxLine, ls) =>
+    `## Question ${n} [D3-D4]\n` +
+    `**ID:** ${ID}-v${n}\n` +
+    `**Bloom:** Apply\n` +
+    `**ICFES:** Numerico\n` +
+    `**Expected_Success:** 0.80\n` +
+    `**Contexto:** ${ctxLine}\n` +
+    `### Enunciado\n${stemLine}\n\n` +
+    `### Opciones\n` +
+    options
+      .map((o, i) => {
+        const mark = ls[i] === 'A' ? 'x' : ' ';
+        return `- [${mark}] ${ls[i]}) ${o.text} <!-- feedback: ${o.fb} -->`;
+      })
+      .join('\n') +
+    `\n\n### Explicacion Pedagogica\nExplicacion pedagogica de la pregunta ${n}, con suficiente longitud para superar el umbral de detalle exigido por el validador de calidad.\n\n`;
+  return `${LABEL_FM}\n\n${[q(1, ctx, letters.slice(0, 4)), q(2, 'Otra aula trabaja la misma fecha.', 'ABCD'), ...FILLERS].join('\n\n')}`;
+};
+
+const optionLetterCases = [
+  {
+    name: 'two options sharing the letter C is rejected',
+    expect: 'reject',
+    rule: /option-letters/,
+    buildContent: () => buildWithLetters('CABC'),
+  },
+  {
+    name: 'two options sharing the letter D is rejected',
+    expect: 'reject',
+    rule: /option-letters/,
+    buildContent: () => buildWithLetters('ABDD'),
+  },
+  {
+    name: 'four options labelled A B C D are accepted',
+    expect: 'accept',
+    rule: /option-letters/,
+    buildContent: () => buildWithLetters('ABCD'),
+  },
+  {
+    // Regression guard. The first version of this rule tested "letters != ABCD",
+    // which flagged every reordered question in the corpus -- 4160 hits in 334
+    // files that had never been broken. A permutation still addresses each
+    // option uniquely, so it must stay silent; only a repeated letter is a defect.
+    name: 'options in a different order (D C B A) are accepted: permutation is not a defect',
+    expect: 'accept',
+    rule: /option-letters/,
+    buildContent: () => buildWithLetters('DCBA'),
+  },
+  {
+    name: 'options in a different order (B A C D) are accepted: permutation is not a defect',
+    expect: 'accept',
+    rule: /option-letters/,
+    buildContent: () => buildWithLetters('BACD'),
+  },
+];
+
+const allCases = [...ctxCases, ...foreignScriptCases, ...gluedTokenCases, ...optionLetterCases].map((c) => ({
      ...c,
      // ctxCases carries its expectation in `rule` as a plain string; the newer
      // blocks carry it as a RegExp. Only fill `hit` when the case did not set

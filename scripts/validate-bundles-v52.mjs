@@ -1,3 +1,33 @@
+// Four options must be labelled A, B, C and D, once each. A model that drifts
+// mid-option emits two rows with the same letter -- "C A B C" -- and nothing else
+// notices: the shape rules count four rows and four feedbacks, the duplicate
+// rules hash the option texts, and the correct marker still sits on exactly one
+// of them. The question becomes unanswerable, because two rows answer to the
+// same letter and the answer key names only one of them.
+//
+// The rows are counted per question section, not per line: an option can wrap,
+// and grouping by line would report a four-line question as four single-option
+// questions instead of one bad question.
+function detectOptionLetters(content) {
+  const results = [];
+  const sections = content.split(/^##\s+Question\s+\d+/m).slice(1);
+  sections.forEach((section, i) => {
+    const letters = [...section.matchAll(/^\s*-\s*\[[ xX]\]\s*([A-Z])\)/gm)].map((m) => m[1]);
+    if (letters.length < 2) return;
+    const repeated = letters.filter((l, j) => letters.indexOf(l) !== j);
+    // Only a repeated letter is the defect. A permutation such as BACD or DABC
+    // still addresses each option uniquely, so the question is answerable; the
+    // reading order is a separate concern that answer-letter-bias reports.
+    // Testing for "not ABCD" instead of "has a duplicate" flags every
+    // reordered question in the corpus: 4160 hits across 334 files, all of them
+    // permutations that were never broken.
+    if (repeated.length) {
+      results.push({ question: i + 1, letters: letters.join(""), repeated: [...new Set(repeated)].join("") });
+    }
+  });
+  return results;
+}
+
 import fs from 'node:fs';
 import path from 'node:path';
 import crypto from 'node:crypto';
@@ -442,6 +472,10 @@ export function validateFile(file, opts = { strictQuality: false, corpusHashMap:
   // occasional curly quote. Anything in the Cyrillic, CJK, Kana or Hangul
   // blocks is corruption, and a Spanish letter glued onto a Cyrillic one
   // ("voseoGg", "weakhens") is the same defect in a harder-to-see form.
+  for (const o of detectOptionLetters(content)) {
+    errors.push(`ERROR [option-letters] ${relative}: Question ${o.question}: option letter(s) ${o.repeated} appear more than once (letters: ${o.letters})`);
+  }
+
   for (const t of detectGluedTokens(content)) {
     errors.push(`ERROR [glued-token] ${relative}:${t.line} token pegado: "${t.token}"`);
   }

@@ -220,7 +220,7 @@ Si la acción valía inicialmente $100$ €, ¿cuál es su valor tras estos dos 
 ### Opciones
 - [ ] A) $100$ € <!-- feedback: Error común. La bajada del 10% se aplica sobre 110, no sobre los 100 originales. -->
 - [x] B) $99$ € <!-- feedback: Correcto. $100 + 10\% = 110$. El $10\%$ de $110$ es $11$. $110 - 11 = 99$. -->
-- [ ] D) $110$ € <!-- feedback: Este es solo el valor tras la primera subida. -->
+- [ ] C) $110$ € <!-- feedback: Este es solo el valor tras la primera subida. -->
 - [ ] D) $90$ € <!-- feedback: Este sería el valor si solo hubiera bajado un 10% desde el inicio. -->
 
 ### Explicacion Pedagogica
