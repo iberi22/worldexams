@@ -147,20 +147,20 @@ $-3.5$ puede expresarse como la fracción $-7/2$, por lo tanto, es un número ra
 **Expected_Success:** 0.74
 **Contexto:** En la ciudad de Manta, un grupo de estudiantes de la Unidad Educativa Bolívar analizan un problema práctico de matemáticas.
 ### Enunciado
-Un termómetro ambiental en la ciudad de Cuenca registra una temperatura de $-3.5^\circ\text{C}$. ¿Cuál es la clasificación más precisa de este número dentro de los conjuntos numéricos?
+Un termómetro ambiental en la ciudad de Riobamba registra una temperatura de $-27.5^\circ\text{C}$. ¿Cuál es la clasificación más precisa de este número dentro de los conjuntos numéricos?
 
 ### Opciones
-- [ ] A) Número natural negativo
-  <!-- feedback: En $\mathbb{N}$ no existen los números negativos, y menos aún con parte decimal como $-3.5$. -->
-- [ ] B) Número entero negativo
-  <!-- feedback: $-3.5$ no es entero porque tiene parte decimal .5; los enteros son $\ldots, -3, -2, -1, 0, 1, \ldots$. -->
+- [ ] A) Número entero negativo
+  <!-- feedback: Aunque $-27.5$ tiene signo negativo, no es entero: la parte decimal $.5$ lo impide. -->
+- [ ] B) Número irracional negativo
+  <!-- feedback: Un decimal finito siempre es racional, porque se puede escribir como fracción: $-27.5 = -55/2$. -->
 - [x] C) Número decimal racional negativo
-  <!-- feedback: Correcto. $-3.5$ es negativo, tiene parte decimal finita y por eso es racional: exactamente $\frac{-7}{2}$. -->
-- [ ] D) Número irracional negativo
-  <!-- feedback: Un decimal finito siempre es racional: $-3.5 = -7/2$. Los irracionales negativos, como $-\sqrt{2}$, tienen decimales infinitos. -->
+  <!-- feedback: Correcto. $-27.5$ es negativo, tiene parte decimal finita y equivale a $\frac{-55}{2}$, de modo que es racional. -->
+- [ ] D) Número natural negativo
+  <!-- feedback: En $\mathbb{N}$ no existen los negativos; además un decimal finito nunca es natural. -->
 
 ### Explicacion Pedagogica
-$-3.5$ puede expresarse como la fracción $-7/2$, por lo tanto, es un número racional decimal. No es entero porque tiene parte decimal no nula.
+El número $-27.5$ se puede expresar como la fracción exacta $-55/2$, de manera que pertenece a $\mathbb{Q}$. Como tiene parte decimal distinta de cero, no es entero y por tanto tampoco es natural. Tampoco es irracional, porque todo decimal finito es el cociente de dos enteros. La clasificación más precisa es, entonces, decimal racional negativo.
 
 ---
 
@@ -459,20 +459,20 @@ La ecuación $x^2 + 4 = 0$ tiene soluciones $x = \pm 2i$, que no pertenecen a lo
 **Expected_Success:** 0.28
 **Contexto:** En la ciudad de Machala, un grupo de estudiantes de la Colegio Vicente Rocafuerte analizan un problema práctico de matemáticas.
 ### Enunciado
-Considere el conjunto de números definidos por la solución de la ecuación cuadrática $x^2 + 4 = 0$. ¿A qué conjunto numérico pertenecen estas soluciones en el contexto de la ampliación de los números reales para resolver problemas de ingeniería en Machala?
+Considere el conjunto de números definidos por la solución de la ecuación cuadrática $x^2 - 9 = 0$. ¿A qué conjunto numérico pertenecen estas soluciones en el contexto del cálculo de anclajes de una presa en el Guayas?
 
 ### Opciones
-- [ ] A) Al conjunto de los números racionales ($\mathbb{Q}$)
-  <!-- feedback: Las racionales son reales, y $x^2 = -4$ no tiene ninguna solución real: el cuadrado de un número real nunca es negativo. La raíz es $2i$, no un racional. -->
+- [x] A) Al conjunto de los números racionales ($\mathbb{Q}$)
+  <!-- feedback: Correcto. De $x^2 = 9$ salen $x = 3$ y $x = -3$, y ambos enteros son racionales. -->
 - [ ] B) Al conjunto de los números irracionales ($\mathbb{I}$)
-  <!-- feedback: Un irracional es un número real que no puede escribirse como fracción; aquí la solución $2i$ es imaginaria pura, no real, así que no pertenece a $\mathbb{I}$. -->
-- [x] C) Al conjunto de los números complejos ($\mathbb{C}$)
-  <!-- feedback: Correcto. $x^2 = -4$ no tiene soluciones reales, por eso $x = \pm\sqrt{-4} = \pm 2i$, que pertenece a los números complejos. -->
-- [ ] D) Al conjunto de los números naturales ($\mathbb{N}$)
-  <!-- feedback: En $\mathbb{N}$ todos los elementos son positivos y su cuadrado nunca es $-4$; de hecho el enunciado pide ampliar los reales, y para eso están los complejos. -->
+  <!-- feedback: Un irracional no puede escribirse como fracción de enteros, pero $3$ y $-3$ sí lo son, así que no corresponde. -->
+- [ ] C) Al conjunto de los números naturales ($\mathbb{N}$)
+  <!-- feedback: La raíz negativa $-3$ no pertenece a $\mathbb{N}$, de modo que el conjunto solución completo no cabe ahí. -->
+- [ ] D) Al conjunto de los números imaginarios puros
+  <!-- feedback: La raíz imaginaria $i$ aparece solo cuando el discriminante es negativo; aquí $x^2 = 9 > 0$ da raíces reales. -->
 
 ### Explicacion Pedagogica
-La ecuación $x^2 + 4 = 0$ tiene soluciones $x = \pm 2i$, que no pertenecen a los números reales $\mathbb{R}$, sino al conjunto de los números complejos $\mathbb{C}$.
+Al despejar, $x^2 - 9 = 0$ se reduce a $x^2 = 9$, cuyas soluciones son $x = 3$ y $x = -3$. Ambas son enteros, y todo entero es el cociente de dos enteros, así que las dos raíces pertenecen al conjunto de los racionales $\mathbb{Q}$. No hace falta recurrir a los imaginarios porque el discriminante es positivo.
 
 ---
 

@@ -387,20 +387,20 @@ Multiplicamos la segunda ecuación por 3: $9x - 3y = 21$. Sumamos a la primera: 
 **Expected_Success:** 0.39
 **Contexto:** En la ciudad de Machala, un grupo de estudiantes de la Unidad Educativa Santo Domingo analizan un problema práctico de matemáticas.
 ### Enunciado
-Resuelva el sistema lineal para las tarifas de transporte: $\begin{cases} 2x + 3y = 12 \\ 3x - y = 7 \end{cases}$.
+Resuelva el sistema lineal para las tarifas de un puente peatonal: $\begin{cases} 2x + 3y = 16 \\ x + y = 5 \end{cases}$.
 
 ### Opciones
-- [ ] A) $x = 4, y = 1$
-  <!-- feedback: Al comprobar: $2(4) + 3(1) = 11$ en la primera, y $3(4) - 1 = 11$ en la segunda. Ninguna de las dos da $12$ y $7$. -->
-- [x] B) $x = 3, y = 2$
-  <!-- feedback: Correcto. De $3x - y = 7$ sale $y = 3x - 7$; al sustituir, $2x + 3(3x - 7) = 12$, o sea $11x = 33$, y entonces $x = 3$ e $y = 2$. -->
-- [ ] C) $x = 2, y = 3$
-  <!-- feedback: Al comprobar en la primera ecuación se obtiene $2(2) + 3(3) = 4 + 9 = 13$, y el lado derecho es $12$; por eso el par no sirve. -->
-- [ ] D) $x = 1, y = 5$
-  <!-- feedback: Al comprobar en la primera: $2(1) + 3(5) = 2 + 15 = 17$, y el lado derecho es $12$; ese par no resuelve el sistema. -->
+- [ ] A) $x = 6, y = -1$
+  <!-- feedback: Es el par con las variables intercambiadas; al comprobar en la primera ecuación, $2(6) + 3(-1) = 12 - 3 = 9$, y el lado derecho es $16$. -->
+- [ ] B) $x = 4, y = 1$
+  <!-- feedback: Cumple $x + y = 5$, pero en la primera da $2(4) + 3(1) = 8 + 3 = 11$, muy por debajo de $16$. -->
+- [x] C) $x = -1, y = 6$
+  <!-- feedback: Correcto. De $x + y = 5$ sale $y = 5 - x$; al sustituir, $2x + 3(5 - x) = 16$, o sea $-x + 15 = 16$, luego $x = -1$ e $y = 6$. -->
+- [ ] D) $x = 2, y = 4$
+  <!-- feedback: Resuelve la primera ecuación, $2(2) + 3(4) = 4 + 12 = 16$, pero en la segunda $2 + 4 = 6$ y el lado derecho es $5$. -->
 
 ### Explicacion Pedagogica
-Multiplicamos la segunda ecuación por 3: $9x - 3y = 21$. Sumamos a la primera: $11x = 33 \Rightarrow x = 3$. Sustituyendo: $3(3) - y = 7 \Rightarrow 9 - y = 7 \Rightarrow y = 2$.
+De la segunda ecuación despejamos $y = 5 - x$ y lo sustituimos en la primera: $2x + 3(5 - x) = 16$, que se reduce a $2x + 15 - 3x = 16$, es decir $-x = 1$ y por tanto $x = -1$. Reemplazando, $y = 5 - (-1) = 6$. Ambas ecuaciones se verifican: $2(-1) + 3(6) = -2 + 18 = 16$ y $-1 + 6 = 5$.
 
 ---
 
