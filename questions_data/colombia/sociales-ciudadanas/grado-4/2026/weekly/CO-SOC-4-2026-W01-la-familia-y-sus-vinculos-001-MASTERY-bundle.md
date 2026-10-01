@@ -34,13 +34,13 @@ Estas ocho preguntas del área de Sociales y Ciudadanas evaluan cómo entienden 
 Según lo que aprendiste en clase, ¿quiénes forman parte de la familia Ramírez?
 
 ### Opciones
-- [x] A) Doña Marta, don Jorge y sus dos hijos, Camila y Juan
+- [x] D) Doña Marta, don Jorge y sus dos hijos, Camila y Juan
   <!-- feedback: Correcto. La familia está formada por las personas unidas por un lazo de sangre, un matrimonio o una adopción, y entre estos cuatro sí existe ese vínculo. -->
-- [ ] B) Solo don Jorge, porque es el único que trabaja fuera de la casa
+- [ ] A) Solo don Jorge, porque es el único que trabaja fuera de la casa
   <!-- feedback: Incorrecto. Confundiste trabajar afuera con ser parte de la familia: quien trabaja fuera sigue siendo miembro del hogar, y además los otros tres también lo son. -->
-- [ ] C) Los vecinos de la cuadra, porque comparten el mismo barrio
+- [ ] B) Los vecinos de la cuadra, porque comparten el mismo barrio
   <!-- feedback: Incorrecto. Compartir el barrio es vecindad, no familia: los vecinos viven cerca, pero entre ellos no hay lazo de sangre, matrimonio ni adopción. -->
-- [ ] D) Los amigos del colegio de Juan, porque estudian en la misma aula
+- [ ] C) Los amigos del colegio de Juan, porque estudian en la misma aula
   <!-- feedback: Incorrecto. Estudiar juntos crea amistad, no familia: la amistad se elige y se puede cambiar, mientras que el lazo de familia se hereda o se construye con un compromiso. -->
 
 ### Explicacion Pedagogica
@@ -80,11 +80,11 @@ La familia se puede construir de varias maneras: con un lazo de sangre, con un m
 Si en esa casa quieren tomar una decisión donde nadie quede por fuera, ¿qué deben hacer?
 
 ### Opciones
-- [x] A) Escuchar la idea de cada persona y buscar un acuerdo que tenga en cuenta a todas
+- [x] C) Escuchar la idea de cada persona y buscar un acuerdo que tenga en cuenta a todas
   <!-- feedback: Correcto. Un acuerdo se construye escuchando a todos: si la opinión de la abuela se tiene en cuenta, ella no queda afuera y la decisión se sostiene mejor. -->
-- [ ] B) Decidir solo lo que propone la mamá, porque ella organiza la casa
+- [ ] A) Decidir solo lo que propone la mamá, porque ella organiza la casa
   <!-- feedback: Incorrecto. Organizar el hogar no da permiso para decidir sola: un acuerdo pierde legitimidad cuando solo cuenta la opinión de una persona. -->
-- [ ] C) Votar y aceptar el resultado, aunque la abuela haya quedado molesta
+- [ ] B) Votar y aceptar el resultado, aunque la abuela haya quedado molesta
   <!-- feedback: Incorrecto. Votar no equivale a escuchar: contar manos sirve, pero si alguien queda molesto sin ser escuchado, el acuerdo no trae paz a la casa. -->
 - [ ] D) Esperar a que la abuela se canse de pedir y resolver el asunto sin preguntarle
   <!-- feedback: Incorrecto. Esperar a que alguien se canse equivale a dejar su voz por fuera, y así el acuerdo se toma sin respetar a quien también vive ahí. -->
@@ -126,13 +126,13 @@ Cuando una familia separa una cantidad de dinero, cada compra que hace es una re
 ¿Qué diferencia hay entre pedir un favor y exigir algo amenazando a la otra persona?
 
 ### Opciones
-- [x] A) Pedir un favor propone y respeta la respuesta; la amenaza usa el miedo para imponer la voluntad
+- [x] D) Pedir un favor propone y respeta la respuesta; la amenaza usa el miedo para imponer la voluntad
   <!-- feedback: Correcto. Un favor se pide con respeto y acepta un sí o un no, mientras la amenaza usa el miedo para que la persona ceda y así le quita la libertad de elegir. -->
-- [ ] B) No hay ninguna diferencia, porque en los dos casos Andrés quiere ver televisión
+- [ ] A) No hay ninguna diferencia, porque en los dos casos Andrés quiere ver televisión
   <!-- feedback: Incorrecto. Querer lo mismo no define el tipo de acción: lo que cambia es si se respeta la respuesta del otro o se le presiona con una amenaza. -->
-- [ ] C) Amenazar funciona mejor, porque así la hermana entiende que Andrés tiene razón
+- [ ] B) Amenazar funciona mejor, porque así la hermana entiende que Andrés tiene razón
   <!-- feedback: Incorrecto. El miedo no equivale a tener razón: obligar con una amenaza da la sensación de ganar, pero rompe la confianza y daña la convivencia en la casa. -->
-- [ ] D) Solo hay diferencia si la hermana es de la familia, porque con los desconocidos no se pide
+- [ ] C) Solo hay diferencia si la hermana es de la familia, porque con los desconocidos no se pide
   <!-- feedback: Incorrecto. Pedir con respeto es una forma de convivencia y se usa con cualquiera: no depende de que la otra persona sea de la familia ni del barrio. -->
 
 ### Explicacion Pedagogica
@@ -172,9 +172,9 @@ En Colombia las familias son muy diversas: nuclear, extensa, con abuelos, con un
 ¿Qué respuesta respeta el acuerdo y también la dignidad de su hermana?
 
 ### Opciones
-- [x] A) Luis reconoce que gritó, pide disculpas y luego conversan tranquilos
+- [x] B) Luis reconoce que gritó, pide disculpas y luego conversan tranquilos
   <!-- feedback: Correcto. Reconocer el error y pedir disculpas cumple el acuerdo, porque un acuerdo también obliga al que se equivocó a reparar el daño causado. -->
-- [ ] B) Luis responde que el acuerdo no vale cuando está enojado
+- [ ] A) Luis responde que el acuerdo no vale cuando está enojado
   <!-- feedback: Incorrecto. Si el acuerdo solo sirve cuando uno está tranquilo, deja de ser un acuerdo: su valor está justamente en respetarlo en los momentos difíciles. -->
 - [ ] C) Luis espera a que su hermana salga del cuarto para dejar de gritar
   <!-- feedback: Incorrecto. Evitar el grito esperándola fuera del cuarto no resuelve nada: el problema sigue igual y la hermana se queda sin poder hablar. -->
@@ -195,11 +195,11 @@ Un acuerdo de convivencia vale sobre todo cuando hay conflicto, porque ahí es c
 ¿Qué acción muestra mejor que esos niños son ciudadanos responsables de su comunidad?
 
 ### Opciones
-- [x] A) Organizan una jornada de reciclaje y ayudan a cuidar los espacios comunes del barrio
+- [x] C) Organizan una jornada de reciclaje y ayudan a cuidar los espacios comunes del barrio
   <!-- feedback: Correcto. Un ciudadano no solo recibe de su comunidad: también participa y cuida, y recoger la basura es una acción que mejora el bien de todos los vecinos. -->
-- [ ] B) Esperan a que un adulto recoja toda la basura sin participar
+- [ ] A) Esperan a que un adulto recoja toda la basura sin participar
   <!-- feedback: Incorrecto. Esperar sin hacer nada deja el parque igual de sucio: ser ciudadano significa que cada persona asume una parte de la tarea común. -->
-- [ ] C) Tiran la basura en otro barrio para que allá la recojan
+- [ ] B) Tiran la basura en otro barrio para que allá la recojan
   <!-- feedback: Incorrecto. Botar la basura en otro barrio no resuelve nada: el problema se traslada y ese barrio también pierde, aunque sea el de al lado. -->
 - [ ] D) Le cuentan a un vecino mayor que él se encargue solo del problema
   <!-- feedback: Incorrecto. Dejarle el problema a un solo vecino no es participar: el cuidado de la comunidad se comparte entre todos, no se delega a uno. -->

@@ -34,13 +34,13 @@ Estas ocho preguntas evaluan qué son los derechos de los niños, cómo se prote
 ¿Cuál de estas es una situación en la que se está respetando el derecho de Ana?
 
 ### Opciones
-- [x] A) Ana estudia en el colegio y su mamá la lleva al médico cuando está enferma
+- [x] D) Ana estudia en el colegio y su mamá la lleva al médico cuando está enferma
   <!-- feedback: Correcto. Ir al colegio y recibir atención médica son derechos que valen para todos los niños, sin importar su edad ni dónde vivan. -->
-- [ ] B) Ana no va al colegio porque ella no quiere aprender a leer
+- [ ] A) Ana no va al colegio porque ella no quiere aprender a leer
   <!-- feedback: Incorrecto. No querer algo no cancela un derecho: la educación sigue siendo un derecho de todo niño y la familia debe ayudar a que la aproveche. -->
-- [ ] C) Ana trabaja todas las tardes para aportar dinero en la casa
+- [ ] B) Ana trabaja todas las tardes para aportar dinero en la casa
   <!-- feedback: Incorrecto. Hacer trabajo para tener con qué vivir vulnera los derechos de la infancia, porque ningún niño debe trabajar en lugar de estudiar. -->
-- [ ] D) Ana vive en la calle porque no tiene casa donde dormir
+- [ ] C) Ana vive en la calle porque no tiene casa donde dormir
   <!-- feedback: Incorrecto. No tener vivienda viola el derecho a un lugar seguro: la familia y el Estado están obligados a cuidar a ese niño. -->
 
 ### Explicacion Pedagogica
@@ -57,11 +57,11 @@ Los derechos de los niños están escritos en un documento llamado Declaración 
 ¿Por qué un país tiene leyes y normas que todos deben cumplir?
 
 ### Opciones
-- [x] A) Porque organizan la vida de todos y protegen los derechos de las personas
+- [x] C) Porque organizan la vida de todos y protegen los derechos de las personas
   <!-- feedback: Correcto. Las leyes sirven para ordenar la convivencia y para proteger los derechos de todos, no solo de algunos. -->
-- [ ] B) Porque las leyes sirven para castigar siempre a la gente
+- [ ] A) Porque las leyes sirven para castigar siempre a la gente
   <!-- feedback: Incorrecto. Castigar es solo una parte: lo principal de la ley es proteger, porque sin reglas claras nadie tiene garantizado su derecho. -->
-- [ ] C) Porque las leyes sirven para que cada persona haga lo que quiera
+- [ ] B) Porque las leyes sirven para que cada persona haga lo que quiera
   <!-- feedback: Incorrecto. La ley no deja hacer cualquier cosa: pone límites justos, y esos límites son los que permiten que los derechos de todos se respeten. -->
 - [ ] D) Porque las leyes solo son para que las cumplan los adultos
   <!-- feedback: Incorrecto. Las leyes alcanzan a todos por igual, y los niños también tienen responsabilidades que cumplir junto con sus derechos. -->
@@ -80,13 +80,13 @@ En Colombia las normas están escritas en la Constitución y en las leyes. Ellas
 Si un castigo parece muy duro, ¿qué pueden hacer esos estudiantes?
 
 ### Opciones
-- [x] A) Pedir que se revise el castigo hablando con la directora, porque también existe un reglamento
+- [x] D) Pedir que se revise el castigo hablando con la directora, porque también existe un reglamento
   <!-- feedback: Correcto. Cuando una norma parece injusta lo correcto es pedir que se revise por la vía institucional, porque el reglamento también tiene límites. -->
-- [ ] B) Quedarse callados, porque los adultos siempre tienen la razón
+- [ ] A) Quedarse callados, porque los adultos siempre tienen la razón
   <!-- feedback: Incorrecto. Callarse equivale a aceptar que todo está bien, pero los estudiantes también pueden pedir una revisión y tienen derecho a ser escuchados. -->
-- [ ] C) Dejar de ir al colegio durante unos días
+- [ ] B) Dejar de ir al colegio durante unos días
   <!-- feedback: Incorrecto. No ir al colegio rompe el derecho a la educación, que es justamente lo que un niño debe proteger cuando reclama algo justo. -->
-- [ ] D) Contárselo a sus compañeros para que todos hagan lo mismo
+- [ ] C) Contárselo a sus compañeros para que todos hagan lo mismo
   <!-- feedback: Incorrecto. Copiar el castigo solo agranda el problema y daña el derecho de los demás: lo correcto es pedir la revisión por la vía correcta. -->
 
 ### Explicacion Pedagogica
@@ -126,13 +126,13 @@ Entre los derechos de los niños está el de crecer en un lugar sano, y eso incl
 ¿Qué muestra mejor por qué todos esos niños necesitan que sus derechos sean respetados por igual?
 
 ### Opciones
-- [x] A) Que todos los niños valen igual, sin importar con quién viven ni cuánto dinero tiene su familia
+- [x] D) Que todos los niños valen igual, sin importar con quién viven ni cuánto dinero tiene su familia
   <!-- feedback: Correcto. Los derechos son iguales para todos los niños del mundo, y reconocer eso es justamente lo que evita que unos queden desfavorecidos. -->
-- [ ] B) Que los niños que viven con menos personas necesitan más derechos que los demás
+- [ ] A) Que los niños que viven con menos personas necesitan más derechos que los demás
   <!-- feedback: Incorrecto. El número de personas que viven en la casa no cambia los derechos: todos los niños tienen los mismos, y por eso el trato debe ser igual. -->
-- [ ] C) Que los niños de los municipios pequeños son menos importantes que los de las ciudades
+- [ ] B) Que los niños de los municipios pequeños son menos importantes que los de las ciudades
   <!-- feedback: Incorrecto. El lugar de nacimiento no le quita derechos a nadie: todos los niños son iguales ante la ley, en la ciudad y en el campo. -->
-- [ ] D) Que solo los niños que estudian en colegios privados tienen derechos
+- [ ] C) Que solo los niños que estudian en colegios privados tienen derechos
   <!-- feedback: Incorrecto. Tener derechos no depende del colegio: un niño que estudia en una escuela pública tiene exactamente los mismos que uno de colegio privado. -->
 
 ### Explicacion Pedagogica
@@ -149,11 +149,11 @@ Los derechos de los niños se escribieron pensando en todos los niños del mundo
 ¿Por qué esa situación preocupa tanto a los adultos del barrio?
 
 ### Opciones
-- [x] A) Porque un niño pequeño no tiene cómo protegerse de un accidente y su seguridad es lo más importante
+- [x] C) Porque un niño pequeño no tiene cómo protegerse de un accidente y su seguridad es lo más importante
   <!-- feedback: Correcto. Un niño de siete años no puede cuidar solo su seguridad ante un accidente, por eso dejarlo sin adulto en la casa es un riesgo grave. -->
-- [ ] B) Porque el niño se aburre mucho en la casa sin compañía
+- [ ] A) Porque el niño se aburre mucho en la casa sin compañía
   <!-- feedback: Incorrecto. El aburrimiento es un motivo pequeño: lo grave es el riesgo de un accidente o de que algo le pase sin que nadie lo sepa. -->
-- [ ] C) Porque el niño debería estar jugando en la calle todo el día
+- [ ] B) Porque el niño debería estar jugando en la calle todo el día
   <!-- feedback: Incorrecto. Jugar en la calle no es obligatorio para un niño pequeño: lo que se necesita es un adulto que vigile, no más tiempo sin supervisión. -->
 - [ ] D) Porque la casa queda silenciosa sin un niño en ella
   <!-- feedback: Incorrecto. El ruido de la casa no es el problema: lo grave es que el niño está sin protección en un lugar donde no puede defenderse. -->
@@ -195,9 +195,9 @@ El derecho a la salud de los niños se respeta con una atención médica adecuad
 ¿Qué sería un uso adecuado del derecho a participar?
 
 ### Opciones
-- [x] A) Reunirse, explicar lo que piden con respeto y llevar la propuesta a quien decide
+- [x] B) Reunirse, explicar lo que piden con respeto y llevar la propuesta a quien decide
   <!-- feedback: Correcto. Participar es expresar una opinión y llevarla por las vías correctas, y eso se hace mejor con respeto y sin dañar a nadie. -->
-- [ ] B) Romper las sillas del patio para que los adultos los escuchen
+- [ ] A) Romper las sillas del patio para que los adultos los escuchen
   <!-- feedback: Incorrecto. Dañar el patio daña a todos los estudiantes y quita la razón de la petición: el diálogo no necesita violencia para ser eficaz. -->
 - [ ] C) No ir a clases hasta que acepten lo que piden
   <!-- feedback: Incorrecto. Dejar de ir a clases rompe el derecho a la educación, que es otro derecho de ellos mismos, y no cambia la norma que quieren cambiar. -->
