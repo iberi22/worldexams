@@ -32,47 +32,38 @@ const positional = process.argv.slice(2).filter((a) => !a.startsWith('--'));
 const SCRIPTS = positional[0] ? path.resolve(ROOT, positional[0]) : path.join(ROOT, 'scripts');
 
 // Feedback the quality gate rejects, verbatim in the generator source. A
-// generator that ships any of these cannot produce a passing bundle.
+// generator that ships any of these cannot produce a passing bundle. No trailing
+// word boundary: these strings end in punctuation, so a \b after "Correct!" can
+// never match and would silently drop two of the four commonest ones.
 const REJECTED_FEEDBACK =
   /\b(Correct!|Correcto!|¡Correcto!|Incorrect\.|Incorrecto\.|Review the concept|Revisa el concepto|Well done|¡Muy bien!|Excelente!)/;
 
-// No trailing word boundary: these strings end in punctuation, and a \b after
-// "Correct!" can never match because ! is not a word character, so the boundary
-// silently dropped two of the four most common ones.
 // The generator that grades itself. Any literal score table is a self-assessment
 // with no measurement behind it.
 const SELF_SCORING = /(Technical|Curricular)\s*\|\s*\d+\/\d+/;
 
+const isGenerator = (n) => n.startsWith('gen') && n.endsWith('.py');
+
 const findings = [];
 
 for (const name of fs.readdirSync(SCRIPTS).sort()) {
-  if (!name.startsWith('gen') || !name.endsWith('.py')) continue;
-  const abs = path.join(SCRIPTS, name);
-  const text = fs.readFileSync(abs, 'utf8');
+  if (!isGenerator(name)) continue;
+  const text = fs.readFileSync(path.join(SCRIPTS, name), 'utf8');
 
-  const rejected = [...new Set((text.match(new RegExp(REJECTED_FEEDBACK.source, 'g')) || [])
-    .map((s) => s.trim()))];
+  const rejected = [...new Set((text.match(new RegExp(REJECTED_FEEDBACK.source, 'g')) || []).map((s) => s.trim()))];
   const writesBundles = /\.md["']/.test(text) || /MASTERY-bundle/.test(text);
   const validates = /validate-bundles|validate_content|validate-bundles-v52/.test(text);
-  const selfScores = SELF_SCORING.test(text);
 
   const problems = [];
-  if (writesBundles && rejected.length) {
-    problems.push(`ships rejected feedback: ${rejected.slice(0, 4).join(', ')}`);
-  }
-  if (writesBundles && !validates) {
-    problems.push('writes bundles and never runs the validator');
-  }
-  if (selfScores) {
-    problems.push('contains a self-assigned quality score table');
-  }
-  if (problems.length) {
-    findings.push({ script: `scripts/${name}`, writesBundles, problems });
-  }
+  if (writesBundles && rejected.length) problems.push(`ships rejected feedback: ${rejected.slice(0, 4).join(', ')}`);
+  if (writesBundles && !validates) problems.push('writes bundles and never runs the validator');
+  if (SELF_SCORING.test(text)) problems.push('contains a self-assigned quality score table');
+  if (problems.length) findings.push({ script: path.join(path.basename(SCRIPTS), name), writesBundles, problems });
 }
 
+const scanned = fs.readdirSync(SCRIPTS).filter(isGenerator).length;
+
 if (asJson) {
-  const scanned = fs.readdirSync(SCRIPTS).filter((n) => n.startsWith('gen') && n.endsWith('.py')).length;
   console.log(JSON.stringify({ scanned, findings }, null, 2));
 } else if (!findings.length) {
   console.log('OK  every generator either does not write bundles or can pass the gate');
