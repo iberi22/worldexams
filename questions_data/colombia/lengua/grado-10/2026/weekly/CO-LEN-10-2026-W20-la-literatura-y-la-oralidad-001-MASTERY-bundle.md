@@ -210,10 +210,10 @@ Fijar un relato por escrito es una decisión con consecuencias para la tradició
 **Bloom:** Analyze
 **ICFES:** Discursivo
 **Expected_Success:** 0.74
-**Contexto:** En un taller de edición de Barranquilla, el grupo revisa un texto que mezcla la voz propia con la de un ancestor.
+**Contexto:** En un taller de edición de Barranquilla, el grupo revisa un texto que mezcla la voz propia con la de un antepasado.
 
 ### Enunciado
-Un narrador intercala en su relato la voz de un ancestro que recounts otra versión de la misma historia. ¿Qué efecto tiene esa estructura?
+Un narrador intercala en su relato la voz de un ancestro que relata otra versión de la misma historia. ¿Qué efecto tiene esa estructura?
 
 ### Opciones
 - [x] A)  Permite contrastar dos versiones del mismo asunto dentro del mismo texto
