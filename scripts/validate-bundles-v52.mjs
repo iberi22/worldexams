@@ -326,6 +326,21 @@ export function validateFile(file, opts = { strictQuality: false }) {
     errors.push(`ERROR [control-chars] ${relative}:${c.line} contiene caracter de control ASCII`);
   }
 
+  // A row that looks like an option but does not close the marker is not an
+  // option -- and it must not be invisible. Every parser here matches
+  // `- [ ] B)`, so a row written `- [ ] B]` was skipped in silence: the bundle
+  // reported "expected 4 options, found 2" for a question whose four rows were
+  // all present and correct. Two bundles in the last-26 batch were diagnosed as
+  // "missing options" when the options were all there. Fail loudly instead.
+  const malformedOptions = [...content.matchAll(/^- \[[ xX]\]\s*[A-D][^)\s][^\n]*/gm)];
+  for (const m of malformedOptions.slice(0, 3)) {
+    const line = content.slice(0, m.index).split('\n').length;
+    errors.push(
+      `ERROR [malformed-option-row] ${relative}:${line} fila de opcion mal formada ` +
+        `(falta ")"): ${m[0].trim().slice(0, 60)}`
+    );
+  }
+
   const mojibakeLines = detectMojibakeLines(content);
   for (const m of mojibakeLines) {
     errors.push(`ERROR [encoding] ${relative}:${m.line} contiene mojibake ("${m.sequence}"); repara a UTF-8 antes de publicar.`);
