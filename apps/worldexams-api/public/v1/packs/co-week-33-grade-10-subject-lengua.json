@@ -1,0 +1,563 @@
+{
+  "metadata": {
+    "grade": 10,
+    "subject": "lengua",
+    "country": "co",
+    "pack_id": "co-week-33-grade-10-subject-lengua",
+    "generated_at": "2026-10-01T15:21:15.640Z"
+  },
+  "questions": [
+    {
+      "id": "CO-LEN-10-2026-W33-el-resumen-y-la-sintesis-textual-001-MASTERY-bundle-v1",
+      "statement": "¿Cuál de las siguientes definiciones corresponde exactamente al concepto de resumen de un texto?",
+      "context": "En el Colegio San Juan de Dios de Tunja, la guía de lectura de grado 10 abre con la pregunta: ¿qué es un resumen?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es una versión reducida del texto original que conserva la idea central y los datos esenciales, redactada con las palabras de quien resume.",
+          "is_correct": true,
+          "feedback": "Correcto. El resumen es una reducción que conserva el núcleo informativo y reformula con palabras propias; por eso puede ser más corto y sigue siendo fiel a la fuente."
+        },
+        {
+          "letter": "B",
+          "text": "Es una copia del texto original en la que solo se cambian algunas palabras por sinónimos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Cambiar palabras por sinónimos sin seleccionar la idea central produce una paráfrasis superficial, no un resumen: el texto conserva la misma extensión y la misma estructura."
+        },
+        {
+          "letter": "C",
+          "text": "Es un listado de las opiniones del autor separadas por viñetas, sin ningún tipo de narración.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese formato es una ficha de slaughtered sin criterio, no una síntesis: un resumen debe reescribir en prosa la información central, no fragmentarla en ítems."
+        },
+        {
+          "letter": "D",
+          "text": "Es un texto nuevo que expresa la opinión personal del estudiante sobre lo que leyó.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Mezclar la voz del estudiante con la del autor es el error más grave en resumen: rompe el principio de fidelidad y ya no sirve como síntesis de la fuente."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El resumen es una operación de reducción y reformulación: identifica la idea central y los datos que la sostienen, y los escribe con vocabulario propio. No copia, no parafrasea palabra por palabra y no añade juicios del resumidor. Reconocer esta diferencia es la base de todo el trabajo de síntesis que sigue en el bundle.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Semantico",
+      "expected_success": 0.85,
+      "bundle_id": "CO-LEN-10-2026-W33-el-resumen-y-la-sintesis-textual-001-MASTERY-bundle",
+      "periodo": 33,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-10-2026-W33-el-resumen-y-la-sintesis-textual-001-MASTERY-bundle-v2",
+      "statement": "Al reducir ese texto a un resumen de cinco líneas, ¿qué información debe ser la última en eliminarse para que el resumen siga siendo comprensible?",
+      "context": "En un Colegio de Bogotá, una alumna resumió un texto de 400 palabras organizado en tres párrafos: problema, datos y propuesta.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Las cifras y los porcentajes, porque un resumen debe tener un tono narrativo, no estadístico.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los datos son precisamente el sustento de la idea central; al quitarlos primero, el resumen queda como una afirmación sin respaldo y el lector no puede verificar nada."
+        },
+        {
+          "letter": "B",
+          "text": "Las digresiones, las anécdotas personales y las repeticiones del mismo contenido.",
+          "is_correct": true,
+          "feedback": "Correcto. Estos elementos ocupan espacio pero no agregan información: eliminarlos al final conserva la estructura del texto (problema, datos, propuesta) sin perder su sentido."
+        },
+        {
+          "letter": "C",
+          "text": "El nombre y el cargo del autor, porque toda síntesis se escribe de forma anónima.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La autoría no es una digresión: identifica la fuente y da contexto a lo afirmado. Solo puede omitirse si el formato de la consigna lo pide de manera expresa."
+        },
+        {
+          "letter": "D",
+          "text": "El título original, porque todo resumen debe inventar un encabezado nuevo que describa el contenido.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El título no ocupa parte del cuerpo argumental y ayuda a orientar al lector; cambiarlo sin necesidad no mejora la síntesis y puede alterar la interpretación."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Al resumir hay un orden: primero se conserva la estructura lógica del texto (planteamiento, desarrollo, cierre) y sus datosadobe; después se recortan repeticiones, digresiones y ejemplos secundarios. Quitar primero la evidencia deja un resumen sin base, aunque por su tamaño parezca más claro.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Textual",
+      "expected_success": 0.83,
+      "bundle_id": "CO-LEN-10-2026-W33-el-resumen-y-la-sintesis-textual-001-MASTERY-bundle",
+      "periodo": 33,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-10-2026-W33-el-resumen-y-la-sintesis-textual-001-MASTERY-bundle-v3",
+      "statement": "¿Qué elemento del resumen garantiza que se mantenga la relación lógica entre la tesis que defiende el autor y las razones que la sustentan?",
+      "context": "En el Colegio Marco Polo de Cali, el grupo de grado 10 resumió un texto argumentativo sobre el transporte público de la ciudad.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La repetición literal de todos los adjetivos que usa el autor en el texto original.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Repetir adjetivos no reconstruye relaciones lógicas: alarga el resumen sin explicar por qué el autor sostiene lo que sostiene, y lo convierte en una cita parcial."
+        },
+        {
+          "letter": "B",
+          "text": "La ampliación de los ejemplos hasta ocupar el doble de páginas que el texto original.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Un resumen no amplía, reduce. Agregar ejemplos aumenta la extensión y desplaza el peso del texto hacia los casos particulares, en lugar de la tesis general."
+        },
+        {
+          "letter": "C",
+          "text": "La conservación explícita de los nexos que unen tesis y razones, con conectores como \"por lo tanto\", \"porque\" o \"en consecuencia\".",
+          "is_correct": true,
+          "feedback": "Correcto. Los conectores son el andamiaje del texto argumentativo: al conservarlos en el resumen, el lector sigue la cadena causa-consecuencia y entiende por qué el autor llega a esa conclusión."
+        },
+        {
+          "letter": "D",
+          "text": "La sustitución de la tesis del autor por la opinión de quien resume.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Cambiar la tesis por un juicio propio invierte el sentido del texto y destruye la argumentación: lo que era una posición del autor se presenta como conclusión del resumidor."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La coherencia en un resumen se apoya en los conectores lógicos. Al reescribir con palabras propias hay que conservar de forma explícita el \"por qué\": si se pierden los nexos, las ideas quedan sueltas y el lector solo ve afirmaciones, no argumentos. Este es el punto que más se evalúa en el componente de lectura del Saber 11.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Discursivo",
+      "expected_success": 0.8,
+      "bundle_id": "CO-LEN-10-2026-W33-el-resumen-y-la-sintesis-textual-001-MASTERY-bundle",
+      "periodo": 33,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-10-2026-W33-el-resumen-y-la-sintesis-textual-001-MASTERY-bundle-v4",
+      "statement": "¿Cuál de los siguientes es el procedimiento correcto para construir el resumen de ese informe?",
+      "context": "En el Colegio Francisco de Paula Santander de Bucaramanga, un estudiante debe resumir un informe de dos páginas para la reunión de“My plan”.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Copiar el texto completo y borrar las frases que resulten difíciles de entender.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Borrar por dificultad produce un texto mutilado donde se pierden justamente los datos técnicos; además deja un estilo entrecortado que no es un resumen reformulado."
+        },
+        {
+          "letter": "B",
+          "text": "Dividir el texto en cuatro partes iguales y eliminar una de esas partes para reducir el volumen.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Dividir y descartar por extensión no responde a la estructura del texto: se pierde la mitad de los hallazgos y no hay garantía de que la idea central sobreviva en lo que queda."
+        },
+        {
+          "letter": "C",
+          "text": "Subrayar todas las palabras técnicas y largas, y escribir en el resumen solamente esas palabras.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Un resumen no es un glosario: acumular tecnicismos sin explicación deja al lector sin understanding, porque los términos aparecen sin la relación que el informe establece entre ellos."
+        },
+        {
+          "letter": "D",
+          "text": "Reconocer la idea central de cada párrafo, eliminar detalles y ejemplos secundarios, y redactar el resultado con las palabras del resumidor.",
+          "is_correct": true,
+          "feedback": "Correcto. Ese es el procedimiento: comprensión antes de redacción. Se lee por partes, se marca qué es esencial y se reescribe, de modo que el resumen conserva el contenido útil y pierde el relleno."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "El orden correcto es comprender antes de escribir. Primero se identifica la idea central párrafo por párrafo; después se descartan detalles, anécdotas y ejemplos secundarios; por último se redacta con lenguaje propio. Aplicar este procedimiento evita el error más común: resumir por eliminación ciega, que hace que el texto_resultante pierda su sentido.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Pragmatico",
+      "expected_success": 0.78,
+      "bundle_id": "CO-LEN-10-2026-W33-el-resumen-y-la-sintesis-textual-001-MASTERY-bundle",
+      "periodo": 33,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-10-2026-W33-el-resumen-y-la-sintesis-textual-001-MASTERY-bundle-v5",
+      "statement": "El resumen de ese grupo dice: \"la temperatura promedio subió 0,4 grados y el CO2 alcanzó 420 partes por millón\". ¿Qué problema de la síntesis identifica usted?",
+      "context": "En el Colegio Los Andes de Medellín, un grupo redujo un artículo sobre cambio climático a dos frases con datos numéricos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La pérdida del sentido: las cifras quedan sin la relación con la idea que el autor construye a partir de ellas.",
+          "is_correct": true,
+          "feedback": "Correcto. Sin la explicación de qué significa ese aumento y a qué se atribuye, los datos flotan sin contexto. Un resumen debe devolver la relación entre evidencia y conclusión, no la cifra aislada."
+        },
+        {
+          "letter": "B",
+          "text": "El exceso de objetividad, porque el resumen debe conservar siempre las cargas afectivas del texto.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Un texto informativo no tiene por qué conservar su tono valorativo: lo objectionable es haber quitado el vínculo lógico entre los datos y la idea central, no haber suprimido la emoción."
+        },
+        {
+          "letter": "C",
+          "text": "La omisión de la fuente, porque todo resumen debe incluir la referencia completa y la edición del libro.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Citar la fuente es una buena práctica, pero no resuelve el problema detectado: aunque se añadiera el pie de página, las cifras seguirían sin explicación para el lector."
+        },
+        {
+          "letter": "D",
+          "text": "El aumento del vocabulario, porque un buen resumen debe usar más palabras técnicas que el texto original.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Un resumen no amplía el diccionario del original; con dos frases no hay problema de extensión, sino de reconstrucción de sentido. La dificultad está en lo que falta, no en lo que sobra."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Un dato aislado no es una síntesis: es un fragmento. Cuando el resumen conserva las cifras pero elimina la relación que el autor establece entre ellas, el lector recibe información sin interpretación. Evaluar un resumen exige preguntar si se puede reconstruir la tesis del texto original a partir de lo que quedó.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Semantico",
+      "expected_success": 0.75,
+      "bundle_id": "CO-LEN-10-2026-W33-el-resumen-y-la-sintesis-textual-001-MASTERY-bundle",
+      "periodo": 33,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-10-2026-W33-el-resumen-y-la-sintesis-textual-001-MASTERY-bundle-v6",
+      "statement": "El estudiante respetó la progresión temática del reportaje (planteamiento del problema, evidencia gathered, posición del autor), perojy QUESTRIED interlecó dos frases de opinión propia. ¿Qué juicio técnico corresponde a ese resumen?",
+      "context": "En un Colegio Normal Superior de Tunja, un estudiante resumió un reportaje sobre lasutas de bullying en colegios de Bogotá.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El resumen es válido, porque toda síntesis admite alguna intervención del resumidor para darle claridad.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La claridad no se achieve con:add judgments; lo que se busca es representar el texto tal como está. La intervención personal rompe el principio de fidelidad a la fuente."
+        },
+        {
+          "letter": "B",
+          "text": "El resumen pierde veracidad, porque insertar juicios propios altera la posición del autor y mezcla dos voces que el lector no puede distinguir.",
+          "is_correct": true,
+          "feedback": "Correcto. La veracidad exige separar la voz del texto original de la voz de quien resume. Cuando el juicio propio se mezcla con la evidencia, el lector atribuye al autor una opinión que nuncaiedad expresó."
+        },
+        {
+          "letter": "C",
+          "text": "El resumen es válido siempre que las frases propias se escriban en segunda persona, para que se note que son del resumidor.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La persona gramatical no resuelve el problema: una opinión en segunda persona sigue siendo una opinión insertada dentro de una síntesis que debe ser neutra y fiel."
+        },
+        {
+          "letter": "D",
+          "text": "El resumen debe reescribirse por completo, porque la progresión temática solo tiene sentido en textos narrativos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La progresión temática es precisamente lo que da orden al resumen en cualquier género. El defecto no está en conservar la estructura, sino en añadir contenido que no está en la fuente."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Fidelidad significa que todo lo que aparece en el resumen está en el texto original, y que nada del original esencial se pierde. Un buen resumen puede ser más breve y estar redactado en otra persona, pero jamás agrega la voz del resumidor. Mezclar las dos voces es el error de fondo que separa una síntesis de una opinión disguise.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Textual",
+      "expected_success": 0.72,
+      "bundle_id": "CO-LEN-10-2026-W33-el-resumen-y-la-sintesis-textual-001-MASTERY-bundle",
+      "periodo": 33,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-10-2026-W33-el-resumen-y-la-sintesis-textual-001-MASTERY-bundle-v7",
+      "statement": "Santiago conservó la tesis, dos datos de soporte y la conclusión del texto. Valentina conservó detalles biográficos del autor, tres anécdotas y omitió la conclusión. ¿Cuál de los dos resúmenes cumple mejor con las características de una síntesis útil y por qué?",
+      "context": "En el Colegio Rufino Cuervo de Cali, dos estudiantes resumieron el mismo texto sobre energías renovables.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El de Santiago, porque un buen resumen debe eliminar siempre la conclusión para no condicionar la lectura.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La conclusión es la posición final del autor, uno de los elementos imprescindibles. Omitirla deja al lector sin la conclusión del texto, que es justamente lo que se necesita para reconstruir el argumento."
+        },
+        {
+          "letter": "B",
+          "text": "El de Valentina, porque las anécdotas hacen el resumen más interesante y-engaging para el lector.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La anécdota personal del autor es un detalle secundario: ocupa la mayor parte del resumen mientras el contenido argumental desaparece. Interesante no es sinónimo de útil."
+        },
+        {
+          "letter": "C",
+          "text": "El de Santiago, porque conserva la idea central, los datos que la sostienen y la posición final del autor.",
+          "is_correct": true,
+          "feedback": "Correcto. Ese resumen reúne los tres elementos imprescindibles de una síntesis útil: tesis, evidencia central y conclusión. Puede reconstruirse el argumento completo del texto original a partir de lo que escribió Santiago."
+        },
+        {
+          "letter": "D",
+          "text": "Ninguno de los dos cumple, porque una síntesisUviene obligatoria mantener la extensión del texto original.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La reducción es justamente la essence del resumen. Si el resumen tuviera la misma extensión, el problema sería de copia, no de síntesis."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Evaluar un resumen consiste en verificar tres cosas: que esté la idea central, que incluya los datos que la sostienen y que conserve la posición del autor. Santiago cumple las tres; Valentina cambia el orden de las ideas y convierte la síntesis en una colección de anécdotas que no permite entender qué sostiene el texto.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Discursivo",
+      "expected_success": 0.7,
+      "bundle_id": "CO-LEN-10-2026-W33-el-resumen-y-la-sintesis-textual-001-MASTERY-bundle",
+      "periodo": 33,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-10-2026-W33-el-resumen-y-la-sintesis-textual-001-MASTERY-bundle-v8",
+      "statement": "El texto A afirma que el transporte eléctrico disminuye la contaminación; el texto B objeta que el costo de esos vehículos no se sostiene con la red de carga actual. ¿Qué debe hacer quien construye la síntesis de los dos textos?",
+      "context": "En un Colegio de Bogotá, un semillero compara dos textos sobre movilidad urbana en ciudades colombianas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Elegir solo el texto A, porque un texto que objeta siempre es menos confiable que el que afirma.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Descartar un texto porque contradice a otro no es un criterio: ambos son fuentes legítimas. La síntesis no elige un ganador, muestra qué se coincide y qué se discute."
+        },
+        {
+          "letter": "B",
+          "text": "Unir ambos en una sola conclusión sin advertir la contradicción, para que el lector avance más rápido.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ocultar el desacuerdo produce un texto confuso: si el lector solo ve una conclusión, no puede saber que hay dos posiciones opuestas sobre la misma solución."
+        },
+        {
+          "letter": "C",
+          "text": "Omitir el texto B, porque presentar objeciones en un resumen distrae al lector de la idea central.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La objeción no es una distracción, es parte del debate sobre el tema. Retirarla convierte la síntesis en una propaganda a favor de una sola postura."
+        },
+        {
+          "letter": "D",
+          "text": "Presentar la síntesis conservando la tensión: coincidencia en el diagnóstico y desacuerdo sobre la solución.",
+          "is_correct": true,
+          "feedback": "Correcto: la síntesis intertextual muestra el consenso y también el conflicto. Registrar qué comparten los textos y en qué punto se separan es lo que permite al lector juzgar por sí mismo la discusión."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Comparar textos exige mantener visibles tanto los acuerdos como las contradicciones. Una síntesis intertextual de calidad no resuelve la dispute por el resumidor: organiza lo que varios autores sostienen y marca dónde sus posiciones se oponen, para que la valoración final sea del lector.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Critico-Intertextual",
+      "expected_success": 0.68,
+      "bundle_id": "CO-LEN-10-2026-W33-el-resumen-y-la-sintesis-textual-001-MASTERY-bundle",
+      "periodo": 33,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-10-2026-W33-el-resumen-y-la-sintesis-textual-001-MASTERY-bundle-v9",
+      "statement": "¿Qué criterio debe guiar la síntesis de Elena para que sirva a ese lector y a ese tiempo asignado?",
+      "context": "En el Colegio Antonia Santos de Bucaramanga, Elena debe resumir un informe de ocho páginas para un comité directivo que dispone de cinco minutos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Priorizar las recomendaciones y los datos que sustentan decisiones,arik because the destinatario necesita actuar, no recorrer el informe completo.",
+          "is_correct": true,
+          "feedback": "Correcto. La síntesis responde al propósito y al lector: un resumen ejecutivo destaca lo accionable y deja fuera el desarrollo metodológico que no ayuda a decidir en cinco minutos."
+        },
+        {
+          "letter": "B",
+          "text": "Mantener la extensión del informe para no perder ningún dato, porque una síntesis completa no puede reducir el volumen.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Resumir no es transcribir completo: ocho páginas en cinco minutos no se pueden leer, y el comité no alcanzará ninguna conclusión práctica."
+        },
+        {
+          "letter": "C",
+          "text": "Eliminar todos los datos numéricos para facilitar la lectura en voz alta durante la presentación.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los datos son el sustento de las recomendaciones; quitarlos deja afirmaciones sin base y contradice el propósito de un resumen ejecutivo, que es fundar decisiones."
+        },
+        {
+          "letter": "D",
+          "text": "Traducir el informe a lenguaje coloquial y publicarlo en redes sociales para que la comunidad lo conozca.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Cambia el destinatario: un comité directivo no es una audiencia de redes. El registro debe ajustarse a quien lee, no simplificarse para un público que no es el contemplated."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La síntesis se escribe para alguien concreto y con una función concreta. Cuando el lector debe decidir, el resumen prioriza recomendaciones, cifras de impacto y plazos; cuando el lector debe aprender, prioriza explicaciones y conceptos. Reconocer el propósito del lector es lo que separa un resumen útil de uno meramente corto.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Pragmatico",
+      "expected_success": 0.66,
+      "bundle_id": "CO-LEN-10-2026-W33-el-resumen-y-la-sintesis-textual-001-MASTERY-bundle",
+      "periodo": 33,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-10-2026-W33-el-resumen-y-la-sintesis-textual-001-MASTERY-bundle-v10",
+      "statement": "Su resumen menciona el concepto \"materia orgánica\" dos veces, sin explicarlo en ningún momento. ¿Qué defecto de la síntesis impide que un lector de grado 10 comprenda el texto?",
+      "context": "En el Colegio Colombia de Bogotá, una alumna resumió un texto científico sobre la erosión del suelo en la Sabana.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El uso de conectores lógicos, que vuelven el texto menos fluido y por eso no conviene en la lectura en voz alta.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los conectores no restan fluidez: sin ellos las ideas quedan sueltas. Además, en este caso el problema no está en los nexos sino en la presencia de un término sin definir."
+        },
+        {
+          "letter": "B",
+          "text": "La pérdida de coherencia local: un concepto central aparece sin definición ni contexto y el lector no puede reconstruir la relación explicativa.",
+          "is_correct": true,
+          "feedback": "Correcto. La coherencia exige que cada elemento del resumen se entienda en la relación con los demás. Un término repetido pero no explicado rompe ese contrato y deja al lector sin la relación causal del texto."
+        },
+        {
+          "letter": "C",
+          "text": "El exceso de concisión, que produce incomprensión en cualquier texto sin importar cómo se selev,[b]selected.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ser conciso no es defectuoso por sí mismo: un resumen puede ser breve y comprensible. Aquí el daño está en una omisión concreta (la definición), no en la extensión."
+        },
+        {
+          "letter": "D",
+          "text": "La ausencia de comas, que altera el sentido de las oraciones y confunde al lector de grado 10.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un detalle de puntuación, no un problema de síntesis. Aunque se corrigieran todas las comas, el término seguiría sin explicarse y la incomprensión permanecería intacta."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La coherencia local se construye cuando cada elemento del resumen es comprensible en relación con los demás. Si un concepto técnico aparece sin definición, el lector no puede reconstruir el razonamiento del autor y el resumen falla, aunque sea muy corto y esté bien escrito.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Evaluativo",
+      "expected_success": 0.64,
+      "bundle_id": "CO-LEN-10-2026-W33-el-resumen-y-la-sintesis-textual-001-MASTERY-bundle",
+      "periodo": 33,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-10-2026-W33-el-resumen-y-la-sintesis-textual-001-MASTERY-bundle-v11",
+      "statement": "Los textos son: un reporte técnico con alta densidad de datos, una columna de opinión con énfasis subjetivo y un artículo de prensa de divulgación. ¿Cuál de estas estrategias de síntesis intertextual es defendible y verificable?",
+      "context": "En el Colegio La Salle de Medellín, un grupo de grado 10 compara tres textos sobre el agua en Colombia.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Presentar como hechos las opiniones del columnista, porque fueron publicadas en un medio de reconocimiento.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Publicación no es verificación: una columna expresa la posición de su autor, y convertirla en dato comprobable es una operación dePseudo-objetividad que deforma la comparación."
+        },
+        {
+          "letter": "B",
+          "text": "Omitir el reporte técnico, porque sus datos son difíciles de explicar en unas pocas líneas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Descartar la fuente más incómoda por ENGINEERING de redacción empobrece la síntesis. Los datos se pueden condensar sin perderlos: lo que no cabe en pocas líneas se reduce, no se suprime."
+        },
+        {
+          "letter": "C",
+          "text": "Separar los planos: datos verificados del reporte, posición argumental de la columna y propósito divulgativo del artículo, explicitando qué clase de afirmación es cada una.",
+          "is_correct": true,
+          "feedback": "Correcto. Distinguir el tipo de enunciación de cada fuente permite comparar sin homologar. El lector sabe qué es dato medido, qué es opinión sostenida y qué es explicación dirigida al público general."
+        },
+        {
+          "letter": "D",
+          "text": "Unir los tres en un solo bloque sin encabezados, porque así se evita la repetición y el texto resulta más fluido.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Homogenizar las fuentes en un bloque sin marcar procedencia borra las diferencias de género y de intención, y el lector ya no puede saber quién sostiene cada afirmación."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Una síntesis intertextual no equipara las fuentes: cada una responde a una intención distinta. Señalar explícitamente el tipo de afirmación (dato verificado, posición argumental, divulgación) mantiene la comparación honesta y permite que el lector valore la solidez de cada postura.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Critico-Intertextual",
+      "expected_success": 0.62,
+      "bundle_id": "CO-LEN-10-2026-W33-el-resumen-y-la-sintesis-textual-001-MASTERY-bundle",
+      "periodo": 33,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-10-2026-W33-el-resumen-y-la-sintesis-textual-001-MASTERY-bundle-v12",
+      "statement": "El evaluador afirma que la síntesis es \"completa\" porque cita los cinco textos y ocupa una página. ¿Cuál es el juicio técnicamente correcto?",
+      "context": "En el Colegio San Francisco de Cali, un equipo de grado 10 produce una síntesis de consulta sobre seguridad vial en Bogotá a partir de cinco textos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El evaluador tiene razón, porque citar todas las fuentes garantiza que la síntesis sea útil para el lector.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La cita de fuentes es una garantía de trazabilidad, no de utilidad. Un texto puede citar cinco fuentes y noJerarquizar sus ideas, con lo cual el lector no obtiene ninguna síntesis."
+        },
+        {
+          "letter": "B",
+          "text": "El evaluador tiene razón, siempre que la extensión se limite a una página, porque la brevedad es el criterio principal.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La extensión es un requisito secondary y no un criterio de calidad: una página puede estar vacía de contenido o saturada de datos sin jerarquizar. Lo que se mide es la recuperación del sentido."
+        },
+        {
+          "letter": "C",
+          "text": "La síntesis es completa si mantiene el orden de lectura de las cinco fuentes, porque eso respeta la estructura del archivo documental.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Respetar el orden del archivo no equivale a sintetizar: ese es el orden en que aparecieron los textos, no el orden de importancia temática que el lector necesita. La síntesis se organiza por ideas, no por secuencia de las fuentes."
+        },
+        {
+          "letter": "D",
+          "text": "La síntesis no es necesariamente útil: la completitud se mide por recuperación de la idea central, coherencia interna y fidelidad, no por el número de fuentes citadas ni por la extensión.",
+          "is_correct": true,
+          "feedback": "Correcto. Estos son los criterios reales de evaluación: que se reconstruya la tesis del conjunto, que las ideas queden conectadas lógicamente y que no hayadles información ajena al corpus. Citar mucho y escribir poco no garantiza nada de eso."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Evaluar una síntesis exige aplicar criterios de fondo: recuperación de la idea central del conjunto, coherencia interna de los fragmentos y fidelidad a las fuentes. Los indicadores de forma, como el número de citas o el número de páginas, no dicen nada sobre la calidad del trabajo intellectual que representa.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Evaluativo",
+      "expected_success": 0.6,
+      "bundle_id": "CO-LEN-10-2026-W33-el-resumen-y-la-sintesis-textual-001-MASTERY-bundle",
+      "periodo": 33,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 10,
+      "country": "co"
+    }
+  ]
+}
