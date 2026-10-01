@@ -34,15 +34,14 @@ creador: "Jules-Agent"
 Which word names the piece of furniture where you sit and watch television?
 
 ### Opciones
-### Opciones
 - [x] D) sofa
-  <!-- feedback: el sofa es el mueble de tres o cuatro plazas donde una familia se sienta a ver la television. -->
+  <!-- feedback: The sofa is the three or four seat piece of furniture where a family sits to watch television. -->
 - [ ] A) bed
-  <!-- feedback: la cama sirve para dormir y no para sentarse frente al televisor. -->
+  <!-- feedback: The bed is for sleeping and not for sitting in front of the television. -->
 - [ ] B) wardrobe
-  <!-- feedback: el armario guarda ropa y no se usa como asiento. -->
+  <!-- feedback: The wardrobe stores clothes and is not used as a seat. -->
 - [ ] C) fridge
-  <!-- feedback: la nevera conserva alimentos y no es un mueble donde sentarse. -->
+  <!-- feedback: The fridge keeps food cold and is not a piece of furniture where you sit. -->
 
 ### Explicacion Pedagogica
 Los muebles de la sala se distinguen por su funcion: sofa para sentarse, armchair para una sola persona y coffee table para apoyar objetos. Cuando el enunciado describe una accion, como ver television, se elige el mueble disenado para ella.
@@ -58,15 +57,14 @@ Los muebles de la sala se distinguen por su funcion: sofa para sentarse, armchai
 Complete the sentence with the best word: "I sleep in my ___. It is next to the window."
 
 ### Opciones
-### Opciones
 - [ ] A) kitchen
-  <!-- feedback: la cocina es un espacio de la casa, pero no es un mueble donde alguien duerme. -->
+  <!-- feedback: The kitchen is a space of the house, but it is not a piece of furniture where someone sleeps. -->
 - [x] D) wardrobe
-  <!-- feedback: bed es el nombre correcto en ingles, y el enunciado dice que uno duerme en ese mueble. -->
+  <!-- feedback: bed is the correct word in English, and the sentence says that one sleeps in that piece of furniture. -->
 - [ ] B) mirror
-  <!-- feedback: el espejo cuelga en la pared y no tiene funcion de descanso. -->
+  <!-- feedback: The mirror hangs on the wall and has no function of rest. -->
 - [ ] C) garden
-  <!-- feedback: el jardin es un area exterior de la casa, no un mueble del dormitorio. -->
+  <!-- feedback: The garden is an outdoor area of the house, not a piece of furniture in the bedroom. -->
 
 ### Explicacion Pedagogica
 Repasando el vocabulario de la casa conviene separar espacios de casa como kitchen y garden de muebles como bed y wardrobe. El enunciado pide un mueble, y esa distincion de categoria descarta las dos opciones que nombran lugares.
@@ -82,15 +80,14 @@ Repasando el vocabulario de la casa conviene separar espacios de casa como kitch
 Read: "There is a small table in the kitchen and a big table in the dining room." How many tables are there?
 
 ### Opciones
-### Opciones
 - [ ] A) One
-  <!-- feedback: uno seria la respuesta si el texto mencionara una sola mesa. -->
+  <!-- feedback: One would be the answer if the text mentioned a single table. -->
 - [x] C) Two
-  <!-- feedback: el texto nombra dos mesas distintas, una en la cocina y otra en el comedor. -->
+  <!-- feedback: The text names two different tables, one in the kitchen and another in the dining room. -->
 - [ ] B) Three
-  <!-- feedback: tres exigiria una tercera mesa que el texto no menciona. -->
+  <!-- feedback: Three would require a third table that the text does not mention. -->
 - [ ] D) Four
-  <!-- feedback: cuatro excede lo que el enunciado enumera, que se limita a dos mesas. -->
+  <!-- feedback: Four goes beyond what the sentence lists, which is limited to two tables. -->
 
 ### Explicacion Pedagogica
 Contar objetos que aparecen en dos lugares distintos es una comprension numerica basica. La estrategia es identificar cada mencion y anotarla antes de totalizar, porque en los textos cortos es facil perder de vista el segundo elemento.
@@ -103,18 +100,17 @@ Contar objetos que aparecen en dos lugares distintos es una comprension numerica
 **Contexto:** Actividad de escritura de una lista de los muebles de un salon.
 
 ### Enunciado
-Which sentence is correct?
+Which sentence uses the correct verb with the plural subject 'the shelves'?
 
 ### Opciones
-### Opciones
 - [ ] B) There is two armchairs in the living room.
-  <!-- feedback: con dos sillones el verbo debe ser are, porque el sujeto two armchairs es plural. -->
+  <!-- feedback: With two armchairs the verb must be are, because the subject two armchairs is plural. -->
 - [ ] C) The wardrobe are next to the door.
-  <!-- feedback: el sujeto the wardrobe es singular y por eso lleva el verbo is. -->
+  <!-- feedback: The subject the wardrobe is singular and therefore takes the verb is. -->
 - [x] A) The shelves are above the TV.
-  <!-- feedback: el sujeto the shelves es plural y por eso concuerda con are. -->
+  <!-- feedback: The subject the shelves is plural and therefore agrees with are. -->
 - [ ] D) A lamp are on the table.
-  <!-- feedback: con el sujeto singular a lamp el verbo tiene que ser is y no are. -->
+  <!-- feedback: With the singular subject a lamp the verb has to be is and not are. -->
 
 ### Explicacion Pedagogica
 La concordancia entre sujeto y verbo se comprueba mirando si el sustantivo lleva articulo plural o numeral mayor que uno. Las tres opciones incorrectas fallan en ese mismo punto, por lo que un solo ejercicio de revision de la concordancia resuelve toda la pregunta.
@@ -130,15 +126,14 @@ La concordancia entre sujeto y verbo se comprueba mirando si el sustantivo lleva
 Which word names the piece of furniture where clothes hang?
 
 ### Opciones
-### Opciones
 - [ ] B) bookshelf
-  <!-- feedback: el estante de libros guarda libros y no ropa colgando. -->
+  <!-- feedback: The bookshelf stores books and not hanging clothes. -->
 - [x] A) wardrobe
-  <!-- feedback: el armario tiene una barra donde la ropa cuelga y es el mueble que pide el enunciado. -->
+  <!-- feedback: The wardrobe has a rail where the clothes hang and it is the piece of furniture the sentence asks for. -->
 - [ ] C) nightstand
-  <!-- feedback: la mesa de noche sostiene objetos pequenos como una lampara o un vaso. -->
+  <!-- feedback: The nightstand holds small objects such as a lamp or a glass. -->
 - [ ] D) oven
-  <!-- feedback: el horno es un electrodomestico de la cocina y no almacena ropa. -->
+  <!-- feedback: The oven is a kitchen appliance and does not store clothes. -->
 
 ### Explicacion Pedagogica
 Cada mueble de la casa tiene un contenido caracteristico: el armario recibe ropa, el estante recibe libros y la nevera recibe alimentos. Esta association mueble y contenido es la que permite responder preguntas de vocabulario de la casa con rapidez.
@@ -154,15 +149,14 @@ Cada mueble de la casa tiene un contenido caracteristico: el armario recibe ropa
 Complete the dialogue: "Where is the remote control?" "It is ___ the sofa."
 
 ### Opciones
-### Opciones
 - [x] B) on
-  <!-- feedback: on describe un objeto apoyado sobre la superficie de otro, como el control sobre el sofa. -->
+  <!-- feedback: on describes an object resting on the surface of another, like the remote on the sofa. -->
 - [ ] A) in
-  <!-- feedback: in indicaria que el control esta dentro del sofa, lo cual no es posible porque es un mueble solido. -->
+  <!-- feedback: in would indicate the remote is inside the sofa, which is impossible because it is a solid piece of furniture. -->
 - [ ] C) under
-  <!-- feedback: under significaria que el control esta debajo del mueble y la pregunta no indica esa posicion. -->
+  <!-- feedback: under would mean the remote is below the furniture and the question does not indicate that position. -->
 - [ ] D) between
-  <!-- feedback: between exige dos objetos que flanqueen el control y aqui solo se menciona el sofa. -->
+  <!-- feedback: between requires two objects flanking the remote, and here only the sofa is mentioned. -->
 
 ### Explicacion Pedagogica
 En una habitacion los objetos pequeños suelen aparecer en las superficies horizontales, y por eso se localizan con on. La combinacion mas frecuente en dialogos domésticos es on the table, on the sofa y on the shelf.
@@ -178,15 +172,14 @@ En una habitacion los objetos pequeños suelen aparecer en las superficies horiz
 Read: "The house has three bedrooms, one kitchen and two bathrooms." How many rooms does the house have in total?
 
 ### Opciones
-### Opciones
 - [ ] A) Five
-  <!-- feedback: cinco seria el resultado de sumar solo las habitaciones y las cocinas, sin los banos. -->
+  <!-- feedback: Five would be the result of adding only the bedrooms and the kitchens, without the bathrooms. -->
 - [x] B) Six
-  <!-- feedback: 3 + 1 + 2 = 6, y las tres categorias del anuncio suman exactamente seis espacios. -->
+  <!-- feedback: 3 + 1 + 2 = 6, and the three categories in the advert add up to exactly six spaces. -->
 - [ ] C) Four
-  <!-- feedback: cuatro cuenta las categorias de habitacion, no el total de espacios. -->
+  <!-- feedback: Four counts the categories of room, not the total number of spaces. -->
 - [ ] D) Seven
-  <!-- feedback: siete exigiria un dato adicional que el anuncio no incluye. -->
+  <!-- feedback: Seven would require an extra piece of information that the advert does not include. -->
 
 ### Explicacion Pedagogica
 El anuncio proves numeros en tres categorias distintas, y sumarlos es un ejercicio de comprension numerica en contexto. La respuesta debe mostrar la operacion para que el estudiante compruebe que no omitio ninguna de las categorias enumeradas.
@@ -202,15 +195,14 @@ El anuncio proves numeros en tres categorias distintas, y sumarlos es un ejercic
 Which group contains only furniture from a house?
 
 ### Opciones
-### Opciones
 - [ ] A) Kitchen, garden, bathroom
-  <!-- feedback: esas tres palabras nombran espacios de la casa, no muebles. -->
+  <!-- feedback: Those three words name spaces of the house, not pieces of furniture. -->
 - [ ] B) Sofa, bed, television
-  <!-- feedback: el televisor es un aparato y no un mueble, por lo que el grupo no es correcto. -->
+  <!-- feedback: The television is an appliance and not a piece of furniture, so the group is not correct. -->
 - [x] C) Bookshelf, wardrobe, coffee table
-  <!-- feedback: los tres son muebles que se usan para guardar o apoyar objetos dentro de una vivienda. -->
+  <!-- feedback: The three are pieces of furniture used to store or support objects inside a home. -->
 - [ ] D) Car, sofa, lamp
-  <!-- feedback: el carro no pertenece al interior de una casa y rompe la clasificacion. -->
+  <!-- feedback: The car does not belong inside a house and breaks the classification. -->
 
 ### Explicacion Pedagogica
 Distinguir espacios, muebles y electrodomésticos es una clasificacion basica que aparece en las pruebas. Los muebles sostienen o guardan objetos, mientras que un televisor o una lampara funcionan por si mismos, y esa funcion los separa del resto.

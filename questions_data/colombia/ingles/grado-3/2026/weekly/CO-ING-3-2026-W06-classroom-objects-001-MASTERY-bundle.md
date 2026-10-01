@@ -34,15 +34,14 @@ creador: "Jules-Agent"
 Which word names the object you use to write your name on the paper?
 
 ### Opciones
-### Opciones
 - [x] D) pencil
-  <!-- feedback: un lapiz se usa para escribir nombres y respuestas sobre el papel, que es lo que describe el enunciado. -->
+  <!-- feedback: A pencil is used to write names and answers on the paper, which is what the sentence describes. -->
 - [ ] A) eraser
-  <!-- feedback: el sacapuntas borra lo que ya esta escrito y no se usa para escribir el nombre por primera vez. -->
+  <!-- feedback: The eraser removes what is already written and is not used to write the name the first time. -->
 - [ ] B) ruler
-  <!-- feedback: la regla mide segmentos y no escribe nada sobre el papel. -->
+  <!-- feedback: The ruler measures segments and does not write anything on the paper. -->
 - [ ] C) sharpener
-  <!-- feedback: el portalapices afila el lapiz y no participa en el momento de escribir. -->
+  <!-- feedback: The sharpener sharpens the pencil and does not take part in the moment of writing. -->
 
 ### Explicacion Pedagogica
 Los utiles escolares se agrupan segun su funcion: escribir con pencil o pen, borrar con eraser, medir con ruler y afilar con sharpener. Cuando el enunciado describe una accion concreta, la palabra buscada es la que nombra esa accion.
@@ -58,15 +57,14 @@ Los utiles escolares se agrupan segun su funcion: escribir con pencil o pen, bor
 The books are not on the desk. They are on the shelf. Which word describes where the books are?
 
 ### Opciones
-### Opciones
 - [ ] A) on
-  <!-- feedback: on indicaria que los libros estan apoyados en una superficie, y el enunciado dice que estan en el estante. -->
+  <!-- feedback: on would indicate the books are resting on a surface, and the sentence says they are on the shelf. -->
 - [x] D) in
-  <!-- feedback: in describe estar dentro de un mueble como el estante, donde los libros quedan guardados. -->
+  <!-- feedback: in describes being inside a piece of furniture such as the shelf, where the books are kept. -->
 - [ ] B) under
-  <!-- feedback: under significaria que los libros estan por debajo del escritorio, y el texto los ubica en otro mueble. -->
+  <!-- feedback: under would mean the books are below the desk, and the text places them in another piece of furniture. -->
 - [ ] C) between
-  <!-- feedback: between necesita dos objetos a los lados, y aqui solo se menciona el estante. -->
+  <!-- feedback: between needs two objects at the sides, and here only the shelf is mentioned. -->
 
 ### Explicacion Pedagogica
 Los muebles de almacenamiento como el estante, el cajon o el armario se describen con in porque el objeto queda dentro de un espacio cerrado. La distincion con on aparece cuando el objeto esta apoyado y visible sobre la superficie.
@@ -82,15 +80,14 @@ Los muebles de almacenamiento como el estante, el cajon o el armario se describe
 Read: "There is a big clock on the wall and many chairs in the room." What is on the wall?
 
 ### Opciones
-### Opciones
 - [x] C) The clock
-  <!-- feedback: el texto dice literalmente que hay un reloj grande en la pared. -->
+  <!-- feedback: The text says literally that there is a big clock on the wall. -->
 - [ ] A) The chairs
-  <!-- feedback: las sillas estan en la habitacion, no en la pared, segun la segunda parte del texto. -->
+  <!-- feedback: The chairs are in the room, not on the wall, according to the second part of the text. -->
 - [ ] B) The board
-  <!-- feedback: el pizatron no aparece en el texto, que solo menciona el reloj y las sillas. -->
+  <!-- feedback: The board does not appear in the text, which mentions only the clock and the chairs. -->
 - [ ] D) The door
-  <!-- feedback: la puerta tampoco se menciona en el enunciado. -->
+  <!-- feedback: The door is not mentioned in the sentence either. -->
 
 ### Explicacion Pedagogica
 Este ejercicio de lectura exige seguir la preposicion del texto: cuando el enunciado pregunta por un lugar, la respuesta es el sustantivo que va inmediatamente despues de on the wall. Es una practica eficaz paraGrath comprension de texto en grado tercero.
@@ -106,15 +103,14 @@ Este ejercicio de lectura exige seguir la preposicion del texto: cuando el enunc
 Choose the correct sentence: "Please pass me the ___, the object I use to draw lines and shapes."
 
 ### Opciones
-### Opciones
 - [x] A) ruler
-  <!-- feedback: la regla es el instrumento con el que se trazan lineas rectas y figuras geometricas en el cuaderno. -->
+  <!-- feedback: The ruler is the instrument used to draw straight lines and geometric shapes in the notebook. -->
 - [ ] B) pencil
-  <!-- feedback: el lapiz escribe, pero no sirve para trazar lineas rectas de medida exacta como las de la regla. -->
+  <!-- feedback: The pencil writes, but it is not used to draw straight lines of exact measurement like those of the ruler. -->
 - [ ] C) glue
-  <!-- feedback: el pegamento une papeles y no dibuja lineas ni figuras de ningun tipo. -->
+  <!-- feedback: The glue joins papers and does not draw lines or shapes of any kind. -->
 - [ ] D) scissors
-  <!-- feedback: las tijeras cortan materiales y su funcion no tiene relacion con dibujar trazos. -->
+  <!-- feedback: The scissors cut materials and their function has nothing to do with drawing lines. -->
 
 ### Explicacion Pedagogica
 La pista del enunciado es funcional: describe para que sirve el objeto antes de nombrarlo. Esa estrategia, definir por la funcion y luego escoger el sustantivo, es la que permite entender vocabulario nuevo sin depender de la traduccion palabra por palabra.
@@ -130,15 +126,14 @@ La pista del enunciado es funcional: describe para que sirve el objeto antes de 
 The teacher says: "Put the ___ back in the drawer when you finish." Which word fits the sentence?
 
 ### Opciones
-### Opciones
 - [ ] B) book
-  <!-- feedback: los libros se guardan en el estante o en la mochila, no en un cajon, y el enunciado pide el cajon. -->
+  <!-- feedback: Books are kept on the shelf or in the backpack, not in a drawer, and the sentence asks for the drawer. -->
 - [x] A) scissors
-  <!-- feedback: las tijeras se guardan en un cajon o en un estuche para no dejarlas al alcance, y el enunciado menciona un cajon. -->
+  <!-- feedback: The scissors are kept in a drawer or in a case so they are not left within reach, and the sentence mentions a drawer. -->
 - [ ] C) window
-  <!-- feedback: la ventana es parte del muro y no puede guardarse dentro de un mueble. -->
+  <!-- feedback: The window is part of the wall and cannot be stored inside a piece of furniture. -->
 - [ ] D) clock
-  <!-- feedback: el reloj esta fijo en la pared y no se guarda en ningun cajon. -->
+  <!-- feedback: The clock is fixed on the wall and is not stored in any drawer. -->
 
 ### Explicacion Pedagogica
 Cada objeto del aula tiene un lugar de almacenamiento que responde a su tamano y a su seguridad. Los objetos cortantes como las tijeras van en el cajon, los libros en el estante y los objetos fijos como el reloj y la ventana no se guardan.
@@ -154,15 +149,14 @@ Cada objeto del aula tiene un lugar de almacenamiento que responde a su tamano y
 Which group has only school supplies?
 
 ### Opciones
-### Opciones
 - [ ] A) A notebook, a computer and a book
-  <!-- feedback: la computadora es un aparato electronico y no es un util escolar de escritura. -->
+  <!-- feedback: The computer is an electronic device and not a school supply for writing. -->
 - [x] B) A notebook, a pencil and a ruler
-  <!-- feedback: el cuaderno, el lapiz y la regla son los tres utiles escolares clasicos de la lista. -->
+  <!-- feedback: The notebook, the pencil and the ruler are the three classic school supplies in the list. -->
 - [ ] C) A bag, a chair and a door
-  <!-- feedback: la silla y la puerta son parte del mobiliario del salon y no objetos que el estudiante lleve. -->
+  <!-- feedback: The chair and the door are part of the classroom furniture and not objects the student brings. -->
 - [ ] D) A pen, a ball and a bicycle
-  <!-- feedback: el balon y la bicicleta son objetos de juego o de transporte, no utiles escolares. -->
+  <!-- feedback: The ball and the bicycle are play or transport objects, not school supplies. -->
 
 ### Explicacion Pedagogica
 Distinguir utiles de mobiliario o de objetos de juego es una clasificacion basica que aparece en las pruebas. Los tres elementos correctos cumplen una funcion academica: escribir, dibujar lineas y organizar notas.
@@ -178,15 +172,14 @@ Distinguir utiles de mobiliario o de objetos de juego es una clasificacion basic
 Look at the picture: four pencils are inside the pencil case. What is the correct plural of "pencil" in English?
 
 ### Opciones
-### Opciones
 - [ ] A) pencilies
-  <!-- feedback: pencilies no existe en ingles; los sustantivos terminados en -l forman su plural con -s y no con -ies. -->
+  <!-- feedback: pencilies does not exist in English; nouns ending in -l form their plural with -s and not with -ies. -->
 - [ ] C) penciles
-  <!-- feedback: penciles tampoco es una palabra inglesa y refleja una terminacion propia del espanol. -->
+  <!-- feedback: penciles is not an English word either and reflects an ending that belongs to Spanish. -->
 - [ ] D) pencilers
-  <!-- feedback: pencilers seria el plural de penciler, que es un lapiz automatico, y no de pencil. -->
+  <!-- feedback: pencilers would be the plural of penciler, which is a mechanical pencil, and not of pencil. -->
 - [x] B) pencils
-  <!-- feedback: el plural regular se forma anadiendo -s a la base, y pencil da pencils. -->
+  <!-- feedback: The regular plural is formed by adding -s to the base, and pencil gives pencils. -->
 
 ### Explicacion Pedagogica
 El plural regular en ingles se construye anadiendo -s a la base, y los sustantivos que terminan en -l siguen esa misma regla. Conocer la base evita inventar terminaciones que suenan parecidas al espanol pero no existen en la lengua inglesa.
@@ -202,15 +195,14 @@ El plural regular en ingles se construye anadiendo -s a la base, y los sustantiv
 Look at the sentence: "I need a ___ because my pencil broke." Which object does the student need?
 
 ### Opciones
-### Opciones
 - [x] C) sharpener
-  <!-- feedback: cuando un lapiz se rompe o pierde la punta, lo que hace falta es el portalapices. -->
+  <!-- feedback: When a pencil breaks or loses its point, what is needed is the sharpener. -->
 - [ ] A) eraser
-  <!-- feedback: el sacapuntas no borra lo escrito, afila el grafito, que es exactamente lo que le falta al lapiz del enunciado. -->
+  <!-- feedback: The eraser does not remove writing, it sharpens the graphite, which is exactly what the pencil in the sentence lacks. -->
 - [ ] B) backpack
-  <!-- feedback: la mochila sirve para cargar utiles, no para arreglar un lapiz que se rompio. -->
+  <!-- feedback: The backpack is for carrying supplies, not for repairing a pencil that broke. -->
 - [ ] D) notebook
-  <!-- feedback: el cuaderno recibe lo que se escribe y no repara el lapiz danado. -->
+  <!-- feedback: The notebook receives what is written and does not repair the damaged pencil. -->
 
 ### Explicacion Pedagogica
 Comprender la relacion causa y efecto dentro del aula es una forma temprana de comprension pragmatica: el lapiz roto produce la necesidad de un afilador. El estudiante que identifica la consecuencia practica escolle el objeto correcto sin necesitar el diccionario.

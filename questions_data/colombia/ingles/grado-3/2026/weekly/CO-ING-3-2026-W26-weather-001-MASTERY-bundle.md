@@ -35,13 +35,13 @@ Which word names the weather in the picture? It is falling from the clouds and t
 
 ### Opciones
 - [x] A) rainy
-  <!-- feedback: rainy describe el clima con agua cayendo de las nubes, y los paraguas del dibujo lo confirman. -->
+  <!-- feedback: rainy describes the weather with water falling from the clouds, and the umbrellas in the picture confirm it. -->
 - [ ] B) sunny
-  <!-- feedback: sunny significa que brilla el sol; si hubiera sol los estudiantes no necesitarian paraguas. -->
+  <!-- feedback: sunny means the sun is shining; if there were sun the students would not need umbrellas. -->
 - [ ] C) windy
-  <!-- feedback: windy habla de aire fuerte que mueve las ramas, y no de agua en el cielo. -->
+  <!-- feedback: windy talks about strong air that moves the branches, and not about water in the sky. -->
 - [ ] D) snowy
-  <!-- feedback: snowy significa que nieva y el agua cae como copos de hielo, no como lluvia liquida. -->
+  <!-- feedback: snowy means it is snowing and the water falls as ice flakes, not as liquid rain. -->
 
 ### Explicacion Pedagogica
 Los niños de tercer grado clasifican el clima con palabras cortas formadas a partir de sustantivos: rain da rainy, sun da sunny, snow da snowy y wind da windy. La pista visual del enunciado es el paraguas, que solo se necesita cuando hay lluvia o sol muy fuerte.
@@ -58,13 +58,13 @@ Complete the sentence with the right word: "We are going to the park on Saturday
 
 ### Opciones
 - [ ] A) hot
-  <!-- feedback: hot significa que hace calor y hace falta ropa ligera, no un impermeable. -->
+  <!-- feedback: hot means it is warm and light clothing is needed, not a raincoat. -->
 - [ ] B) cold
-  <!-- feedback: cold significa que hace frio, y en ese caso se lleva un abrigo grueso, no un impermeable. -->
+  <!-- feedback: cold means it is cold, and in that case you wear a thick coat, not a raincoat. -->
 - [x] C) rainy
-  <!-- feedback: rainy es la unica palabra que justifica llevar un impermeable para protegerse del agua. -->
+  <!-- feedback: rainy is the only word that justifies wearing a raincoat to protect yourself from the water. -->
 - [ ] D) windy
-  <!-- feedback: windy justifica sujetarse el sombrero, pero no explica la necesidad de una chaqueta impermeable. -->
+  <!-- feedback: windy justifies holding on to your hat, but it does not explain the need for a waterproof jacket. -->
 
 ### Explicacion Pedagogica
 La actividad de conectar el clima con la ropa que se necesita es una estrategia de comprension: cada palabra del clima arrastra una consecuencia concreta. Esta logica de causa y efecto es la que permite al estudiante entender el vocabulario sin memorizar la palabra aislada.
@@ -81,13 +81,13 @@ Read the notice: "Bring a jacket, a hat and sunglasses." What kind of weather is
 
 ### Opciones
 - [x] A) hot and sunny
-  <!-- feedback: un sombrero para el sol y unas gafas de sol son objetos tipicos de un dia caluroso con sol fuerte. -->
+  <!-- feedback: A sun hat and sunglasses are typical objects for a hot day with strong sun. -->
 - [ ] B) rainy
-  <!-- feedback: con lluvia se pide un paraguas o un impermeable, y ninguno de los dos aparece en el aviso. -->
+  <!-- feedback: When it rains you are asked for an umbrella or a raincoat, and neither appears in the notice. -->
 - [ ] C) windy
-  <!-- feedback: el viento justificaria pedir una bufanda o un abrigo grueso para no sentir frio, no unas gafas de sol. -->
+  <!-- feedback: Wind would justify asking for a scarf or a thick coat to avoid feeling cold, not for sunglasses. -->
 - [ ] D) snowy
-  <!-- feedback: en un dia de nieve se piden guantes, bufanda y abrigo termico, que es lo contrario de un sombrero y gafas. -->
+  <!-- feedback: On a snowy day you are asked for gloves, a scarf and a warm coat, which is the opposite of a hat and sunglasses. -->
 
 ### Explicacion Pedagogica
 Comprender un aviso corto exige relacionar cada objeto con la condicion climatica que lo hace necesario. Las gafas de sol y el sombrero son la pista decisiva: ningun otro clima los necesita con la misma frecuencia, y esa combinacion descarta de una vez la lluvia, el viento y la nieve.
@@ -104,13 +104,13 @@ Ana asks: "How is the weather today?" Choose the best answer.
 
 ### Opciones
 - [ ] A) It is rainy today.
-  <!-- feedback: la respuesta es valida en general, pero el ejercicio pide hablar del clima soleado que describe el enunciado. -->
+  <!-- feedback: That answer is valid in general, but the exercise asks about the sunny weather that the sentence describes. -->
 - [ ] B) It is windy today.
-  <!-- feedback: windy habla de viento fuerte y el enunciado no menciona que nada se este moviendo. -->
+  <!-- feedback: windy talks about strong wind and the sentence does not mention anything moving. -->
 - [ ] C) It is hot today.
-  <!-- feedback: hot describe la temperatura, no el estado del cielo, y el tema del ejercicio es el clima. -->
+  <!-- feedback: hot describes the temperature, not the state of the sky, and the topic of the exercise is the weather. -->
 - [x] D) It is sunny today.
-  <!-- feedback: sunny responde directamente como esta el cielo y es la opcion esperada para este ejercicio de revision. -->
+  <!-- feedback: sunny answers directly how the sky is and is the expected option for this review exercise. -->
 
 ### Explicacion Pedagogica
 La pregunta How is the weather? pide un adjetivo que describa el cielo en ese momento, no la temperatura ni la sensacion termica. La respuesta completa y natural es It is sunny today, porque repite el tema en presente y usa el verbo to be, que los estudiantes de tercer grado ya dominan.
@@ -127,13 +127,13 @@ Which sentence describes a snowy day correctly?
 
 ### Opciones
 - [ ] A) It is rainy. We wear raincoats.
-  <!-- feedback: esa frase describe un dia de lluvia con impermeable, y no un dia de nieve. -->
+  <!-- feedback: That sentence describes a rainy day with a raincoat, and not a snowy day. -->
 - [x] B) It is snowy. We make a snowman.
-  <!-- feedback: snowy describe la caida de copos de hielo, y el muneco de nieve es la actividad tipica de ese dia. -->
+  <!-- feedback: snowy describes the falling of ice flakes, and the snowman is the typical activity of that day. -->
 - [ ] C) It is sunny. We wear sunglasses.
-  <!-- feedback: sunglasses y sol describen un dia caluroso y despejado, no un dia de nieve. -->
+  <!-- feedback: sunglasses and sun describe a hot and clear day, not a snowy day. -->
 - [ ] D) It is windy. Our hat flies away.
-  <!-- feedback: esa frase es correcta en si, pero habla de viento fuerte y no de nieve. -->
+  <!-- feedback: That sentence is correct in itself, but it talks about strong wind and not about snow. -->
 
 ### Explicacion Pedagogica
 Este tipo de pregunta empareja dos partes: la palabra del clima y la actividad o el objeto que confirma ese clima. El estudiante que reconoce que un muneco de nieve solo puede hacerse con nieve elige la frase completa y coherente, no solo la palabra correcta aislada.
@@ -150,13 +150,13 @@ The teacher asks every morning: "What's the weather like?" Which question is a g
 
 ### Opciones
 - [ ] A) My name is Camila.
-  <!-- feedback: el nombre personal no responde nada sobre el clima, asi que no completa la ronda de preguntas. -->
+  <!-- feedback: A personal name says nothing about the weather, so it does not complete the round of questions. -->
 - [ ] B) I am eight years old.
-  <!-- feedback: la edad no describe el cielo ni la temperatura, y no responde a la pregunta del docente. -->
+  <!-- feedback: An age describes neither the sky nor the temperature, and it does not answer the teacher's question. -->
 - [x] C) It's cloudy today.
-  <!-- feedback: cloudy describe el estado del cielo con nubes y responde exactamente a lo que el docente pregunto. -->
+  <!-- feedback: cloudy describes the state of the sky with clouds and answers exactly what the teacher asked. -->
 - [ ] D) Yes, it does.
-  <!-- feedback: Yes, it does responde a una pregunta con verbo auxiliar, y aqui la pregunta no tiene verbo. -->
+  <!-- feedback: Yes, it does answers a question with an auxiliary verb, and here the question has no verb. -->
 
 ### Explicacion Pedagogica
 La respuesta corta It is cloudy today muestra la estructura minima de una respuesta de clima: el verbo to be en tercera persona mas el adjetivo. Reconocer que la pregunta no lleva verbo auxiliar descarta la respuesta Yes, it does, que es la confusion mas frecuente al inicio del curso.
@@ -173,13 +173,13 @@ The forecast says it will rain in the afternoon. Which group of things should th
 
 ### Opciones
 - [ ] A) Sunglasses, a hat and a water bottle
-  <!-- feedback: esos objetos sirven para un dia de sol intenso y calor, no para una tarde de lluvia. -->
+  <!-- feedback: Those objects are for a day of intense sun and heat, not for a rainy afternoon. -->
 - [x] B) An umbrella, a raincoat and rubber boots
-  <!-- feedback: paraguas, impermeable y botas de caucho son los tres objetos que protegen del agua que caera por la tarde. -->
+  <!-- feedback: An umbrella, a raincoat and rubber boots are the three objects that protect against the rain that will fall in the afternoon. -->
 - [ ] C) A scarf, gloves and a heavy coat
-  <!-- feedback: bufanda, guantes y abrigo grueso protegen del frio intenso, y no de la lluvia. -->
+  <!-- feedback: A scarf, gloves and a thick coat protect against intense cold, and not against rain. -->
 - [ ] D) Shorts, a cap and a swimsuit
-  <!-- feedback: ropa de playa y traje de banador se Preparan para calor alto, que es justo lo contrario de un dia lluvioso. -->
+  <!-- feedback: Beach clothes and a swimsuit are for high heat, which is exactly the opposite of a rainy day. -->
 
 ### Explicacion Pedagogica
 El ejercicio de emparejar clima y equipo convierte el vocabulario en una decision practica. La clave de seleccion es la funcion del objeto: reproducir el agua o el aire indica lluvia, aislar del frio indica nieve o invierno y bloquear el sol indica calor. Cada grupo esta ligado a un clima distinto.
@@ -196,13 +196,13 @@ Read: "In the mountains near our city, December is cold and it often snows." Wha
 
 ### Opciones
 - [ ] A) It is hot and sunny.
-  <!-- feedback: hot y sunny describen temperaturas altas con sol, y el articulo dice que hace frio y nieva. -->
+  <!-- feedback: hot and sunny describe high temperatures with sun, and the article says it is cold and snowy. -->
 - [ ] B) It is rainy all day.
-  <!-- feedback: rainy no aparece en el articulo, que habla de frio y de nieve en diciembre. -->
+  <!-- feedback: rainy does not appear in the article, which talks about cold and snow in December. -->
 - [x] C) It is cold and snowy.
-  <!-- feedback: el articulo dice literalmente que diciembre es frio y que nieva con frecuencia, que es cold and snowy. -->
+  <!-- feedback: The article says literally that December is cold and that it snows often, which is cold and snowy. -->
 - [ ] D) It is windy and dry.
-  <!-- feedback: windy and dry describe un clima seco con viento fuerte, y el articulo no menciona ninguno de los dos. -->
+  <!-- feedback: windy and dry describe a dry climate with strong wind, and the article mentions neither of the two. -->
 
 ### Explicacion Pedagogica
 El ejercicio de lectura busca la idea principal en dos frases cortas: la primera da la temperatura y la segunda el estado del cielo. El estudiante que combina las dos ideas en una sola respuesta obtiene exactamente la informacion que el texto transmite y evita responder con un solo dato.

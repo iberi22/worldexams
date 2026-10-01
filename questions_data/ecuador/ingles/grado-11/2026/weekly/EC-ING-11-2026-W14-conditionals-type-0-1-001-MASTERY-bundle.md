@@ -17,466 +17,507 @@ tier: "legacy"
 creador: "Jules-Agent"
 bundle_index: 1
 ---
-# MASTERY Bundle - Ingles: Conditionals Type 0 1 (W14)
-**20 preguntas | Ingles | BGU - Ministerio de Educacion**
+# MASTERY Bundle - Ingles: conditionals-type-0-1 (W14)
+**20 preguntas | Ingles | Curriculo de Ingles**
 
 ---
-## Question 1 [D3]
-**ID:** EC-ING-11-2026-W14-conditionals-type-0-1-001-MASTERY-v1
-**Bloom:** Remember
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
 
-### Enunciado
-What is the English word for: "A place where you live or stay on holiday."
-
-### Opciones
-- [x] A) accommodation
-  <!-- feedback: Correct! 'accommodation' matches the definition. -->
-- [ ] B) transportation
-  <!-- feedback: Incorrect. Try again. -->
-- [ ] C) entertainment
-  <!-- feedback: Incorrect. Try again. -->
-- [ ] D) currency
-  <!-- feedback: Incorrect. Try again. -->
-
-### Explicacion Pedagogica
-The word 'accommodation' is used to describe a place where you live or stay on holiday. This is an important vocabulary word in English.
----
-## Question 2 [D4]
-**ID:** EC-ING-11-2026-W14-conditionals-type-0-1-001-MASTERY-v2
-**Bloom:** Remember
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
-
-### Enunciado
-What is the English word for: "A detailed plan or route of a journey."
-
-### Opciones
-- [x] D) itinerary
-  <!-- feedback: Correct! 'itinerary' matches the definition. -->
-- [ ] A) baggage
-  <!-- feedback: Incorrect. Try again. -->
-- [ ] B) destination
-  <!-- feedback: Incorrect. Try again. -->
-- [ ] C) passport
-  <!-- feedback: Incorrect. Try again. -->
-
-### Explicacion Pedagogica
-The word 'itinerary' is used to describe a detailed plan or route of a journey. This is an important vocabulary word in English.
----
-## Question 3 [D3]
-**ID:** EC-ING-11-2026-W14-conditionals-type-0-1-001-MASTERY-v3
-**Bloom:** Understand
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
-
-### Enunciado
-What is the English word for: "The place to which someone or something is going or being sent."
-
-### Opciones
-- [x] A) destination
-  <!-- feedback: Correct! 'destination' matches the definition. -->
-- [ ] B) departure
-  <!-- feedback: Incorrect. Try again. -->
-- [ ] C) arrival
-  <!-- feedback: Incorrect. Try again. -->
-- [ ] D) journey
-  <!-- feedback: Incorrect. Try again. -->
-
-### Explicacion Pedagogica
-The word 'destination' is used to describe the place to which someone or something is going or being sent. This is an important vocabulary word in English.
----
-## Question 4 [D4]
-**ID:** EC-ING-11-2026-W14-conditionals-type-0-1-001-MASTERY-v4
-**Bloom:** Understand
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
-
-### Enunciado
-What is the English word for: "Suitcases or other bags in which to pack personal belongings for traveling."
-
-### Opciones
-- [x] C) luggage
-  <!-- feedback: Correct! 'luggage' matches the definition. -->
-- [ ] A) ticket
-  <!-- feedback: Incorrect. Try again. -->
-- [ ] B) flight
-  <!-- feedback: Incorrect. Try again. -->
-- [ ] D) reservation
-  <!-- feedback: Incorrect. Try again. -->
-
-### Explicacion Pedagogica
-The word 'luggage' is used to describe suitcases or other bags in which to pack personal belongings for traveling. This is an important vocabulary word in English.
----
-## Question 5 [D5]
-**ID:** EC-ING-11-2026-W14-conditionals-type-0-1-001-MASTERY-v5
-**Bloom:** Understand
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
-
-### Enunciado
-What is the English word for: "A traveler on a public or private conveyance other than the driver, pilot, or crew."
-
-### Opciones
-- [x] B) passenger
-  <!-- feedback: Correct! 'passenger' matches the definition. -->
-- [ ] A) pedestrian
-  <!-- feedback: Incorrect. Try again. -->
-- [ ] C) commuter
-  <!-- feedback: Incorrect. Try again. -->
-- [ ] D) tourist
-  <!-- feedback: Incorrect. Try again. -->
-
-### Explicacion Pedagogica
-The word 'passenger' is used to describe a traveler on a public or private conveyance other than the driver, pilot, or crew. This is an important vocabulary word in English.
----
-## Question 6 [D6]
-**ID:** EC-ING-11-2026-W14-conditionals-type-0-1-001-MASTERY-v6
-**Bloom:** Understand
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
-
-### Enunciado
-What is the English word for: "The place at a port, airport, or frontier where officials check incoming goods, travelers, or luggage."
-
-### Opciones
-- [x] C) customs
-  <!-- feedback: Correct! 'customs' matches the definition. -->
-- [ ] A) security
-  <!-- feedback: Incorrect. Try again. -->
-- [ ] B) terminal
-  <!-- feedback: Incorrect. Try again. -->
-- [ ] D) gate
-  <!-- feedback: Incorrect. Try again. -->
-
-### Explicacion Pedagogica
-The word 'customs' is used to describe the place at a port, airport, or frontier where officials check incoming goods, travelers, or luggage. This is an important vocabulary word in English.
----
-## Question 7 [D5]
-**ID:** EC-ING-11-2026-W14-conditionals-type-0-1-001-MASTERY-v7
-**Bloom:** Apply
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
-
-### Enunciado
-What is the English word for: "A document provided by an airline during check-in, giving a passenger permission to board the airplane."
-
-### Opciones
-- [x] B) boarding pass
-  <!-- feedback: Correct! 'boarding pass' matches the definition. -->
-- [ ] A) visa
-  <!-- feedback: Incorrect. Try again. -->
-- [ ] C) receipt
-  <!-- feedback: Incorrect. Try again. -->
-- [ ] D) brochure
-  <!-- feedback: Incorrect. Try again. -->
-
-### Explicacion Pedagogica
-The word 'boarding pass' is used to describe a document provided by an airline during check-in, giving a passenger permission to board the airplane. This is an important vocabulary word in English.
----
-## Question 8 [D6]
-**ID:** EC-ING-11-2026-W14-conditionals-type-0-1-001-MASTERY-v8
-**Bloom:** Apply
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
-
-### Enunciado
-What is the English word for: "The activity of visiting places of interest in a particular location."
-
-### Opciones
-- [x] C) sightseeing
-  <!-- feedback: Correct! 'sightseeing' matches the definition. -->
-- [ ] A) shopping
-  <!-- feedback: Incorrect. Try again. -->
-- [ ] B) hiking
-  <!-- feedback: Incorrect. Try again. -->
-- [ ] D) camping
-  <!-- feedback: Incorrect. Try again. -->
-
-### Explicacion Pedagogica
-The word 'sightseeing' is used to describe the activity of visiting places of interest in a particular location. This is an important vocabulary word in English.
----
-## Question 9 [D5]
-**ID:** EC-ING-11-2026-W14-conditionals-type-0-1-001-MASTERY-v9
-**Bloom:** Apply
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
-
-### Enunciado
-What is the English word for: "A thing that is kept as a reminder of a person, place, or event."
-
-### Opciones
-- [x] D) souvenir
-  <!-- feedback: Correct! 'souvenir' matches the definition. -->
-- [ ] A) gift
-  <!-- feedback: Incorrect. Try again. -->
-- [ ] B) award
-  <!-- feedback: Incorrect. Try again. -->
-- [ ] C) prize
-  <!-- feedback: Incorrect. Try again. -->
-
-### Explicacion Pedagogica
-The word 'souvenir' is used to describe a thing that is kept as a reminder of a person, place, or event. This is an important vocabulary word in English.
----
-## Question 10 [D6]
-**ID:** EC-ING-11-2026-W14-conditionals-type-0-1-001-MASTERY-v10
-**Bloom:** Apply
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
-
-### Enunciado
-What is the English word for: "A period of time by which something is late or postponed."
-
-### Opciones
-- [x] C) delay
-  <!-- feedback: Correct! 'delay' matches the definition. -->
-- [ ] A) cancellation
-  <!-- feedback: Incorrect. Try again. -->
-- [ ] B) departure
-  <!-- feedback: Incorrect. Try again. -->
-- [ ] D) arrival
-  <!-- feedback: Incorrect. Try again. -->
-
-### Explicacion Pedagogica
-The word 'delay' is used to describe a period of time by which something is late or postponed. This is an important vocabulary word in English.
----
-## Question 11 [D7]
-**ID:** EC-ING-11-2026-W14-conditionals-type-0-1-001-MASTERY-v11
-**Bloom:** Apply
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
-
-### Enunciado
-What is the English word for: "The act of reporting one's presence and registering, typically at an airport or hotel."
-
-### Opciones
-- [x] C) check-in
-  <!-- feedback: Correct! 'check-in' matches the definition. -->
-- [ ] A) check-out
-  <!-- feedback: Incorrect. Try again. -->
-- [ ] B) booking
-  <!-- feedback: Incorrect. Try again. -->
-- [ ] D) reservation
-  <!-- feedback: Incorrect. Try again. -->
-
-### Explicacion Pedagogica
-The word 'check-in' is used to describe the act of reporting one's presence and registering, typically at an airport or hotel. This is an important vocabulary word in English.
----
-## Question 12 [D8]
-**ID:** EC-ING-11-2026-W14-conditionals-type-0-1-001-MASTERY-v12
-**Bloom:** Apply
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
-
-### Enunciado
-What is the English word for: "A period of rest or waiting before a further stage in a journey."
-
-### Opciones
-- [x] B) layover
-  <!-- feedback: Correct! 'layover' matches the definition. -->
-- [ ] A) stopover
-  <!-- feedback: Incorrect. Try again. -->
-- [ ] C) transfer
-  <!-- feedback: Incorrect. Try again. -->
-- [ ] D) transit
-  <!-- feedback: Incorrect. Try again. -->
-
-### Explicacion Pedagogica
-The word 'layover' is used to describe a period of rest or waiting before a further stage in a journey. This is an important vocabulary word in English.
----
-## Question 13 [D7]
-**ID:** EC-ING-11-2026-W14-conditionals-type-0-1-001-MASTERY-v13
+## Question 1 [D3-D4]
+**ID:** EC-ING-11-2026-W14-conditionals-type-0-1-001-MASTERY-bundle-v1
 **Bloom:** Analyze
-**EJE:** Lexico
+**EJE:** Grammatical Knowledge
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Practica de condicionales, Quito, grado 11.
 
 ### Enunciado
-What is the English word for: "A system of money in general use in a particular country."
+Which sentence expresses the zero conditional?
 
 ### Opciones
-- [x] C) currency
-  <!-- feedback: Correct! 'currency' matches the definition. -->
-- [ ] A) coin
-  <!-- feedback: Incorrect. Try again. -->
-- [ ] B) banknote
-  <!-- feedback: Incorrect. Try again. -->
-- [ ] D) cash
-  <!-- feedback: Incorrect. Try again. -->
+- [ ] A) If you had heated ice, it would have melted.
+  <!-- feedback: That is the third conditional, referring to an unreal past situation. -->
+- [ ] B) If you heat ice, it would melt.
+  <!-- feedback: That is the first conditional, describing a possible future situation. -->
+- [x] C) If you heat ice, it melts.
+  <!-- feedback: 'If' plus present plus present states a general truth. -->
+- [ ] D) If you would heat ice, it melts.
+  <!-- feedback: 'Would' after 'if' belongs to a hypothetical conditional, not the zero. -->
 
 ### Explicacion Pedagogica
-The word 'currency' is used to describe a system of money in general use in a particular country. This is an important vocabulary word in English.
+El condicional cero expresa una relacion general siempre verdadera: 'If + presente, presente'.
+
 ---
-## Question 14 [D8]
-**ID:** EC-ING-11-2026-W14-conditionals-type-0-1-001-MASTERY-v14
+
+## Question 2 [D3-D4]
+**ID:** EC-ING-11-2026-W14-conditionals-type-0-1-001-MASTERY-bundle-v2
+**Bloom:** Apply
+**EJE:** Grammatical Knowledge
+**Expected_Success:** 0.80
+**Contexto:** Condicional tipo uno, Guayaquil.
+
+### Enunciado
+Complete the first conditional: 'If it ____ tomorrow, we will cancel the trip.'
+
+### Opciones
+- [ ] A) will rain
+  <!-- feedback: 'Will' belongs to the main clause, not to the 'if' clause of this conditional. -->
+- [ ] B) is raining
+  <!-- feedback: The present continuous suggests a currently temporary situation, not a future condition. -->
+- [x] C) rains
+  <!-- feedback: 'If it rains' plus 'we will cancel' is the standard first conditional. -->
+- [ ] D) rained
+  <!-- feedback: The simple past in the 'if' clause would indicate the third conditional. -->
+
+### Explicacion Pedagogica
+En el condicional tipo uno la clausula de 'if' va en presente simple y la principal en 'will' mas verbo base.
+
+---
+
+## Question 3 [D3-D4]
+**ID:** EC-ING-11-2026-W14-conditionals-type-0-1-001-MASTERY-bundle-v3
+**Bloom:** Understand
+**EJE:** Grammatical Knowledge
+**Expected_Success:** 0.80
+**Contexto:** Uso de las condicionales, Cuenca.
+
+### Enunciado
+What does the first conditional express?
+
+### Opciones
+- [ ] A) An impossible situation in the past
+  <!-- feedback: An unreal past situation is expressed by the third conditional. -->
+- [x] B) A possible situation and its likely result in the future
+  <!-- feedback: That is the meaning of the first conditional. -->
+- [ ] C) A general truth that is always valid
+  <!-- feedback: A general truth belongs to the zero conditional. -->
+- [ ] D) A regret about the past
+  <!-- feedback: Regret is expressed with 'wish' plus the past perfect. -->
+
+### Explicacion Pedagogica
+El condicional tipo uno describe una situacion posible y su consecuencia probable en el futuro.
+
+---
+
+## Question 4 [D5-D6]
+**ID:** EC-ING-11-2026-W14-conditionals-type-0-1-001-MASTERY-bundle-v4
 **Bloom:** Analyze
-**EJE:** Lexico
+**EJE:** Grammatical Knowledge
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Condicional tipo dos, Quito.
 
 ### Enunciado
-What is the English word for: "A book of information about a place designed for the use of visitors or tourists."
+Which sentence expresses the second conditional?
 
 ### Opciones
-- [x] C) guidebook
-  <!-- feedback: Correct! 'guidebook' matches the definition. -->
-- [ ] A) map
-  <!-- feedback: Incorrect. Try again. -->
-- [ ] B) dictionary
-  <!-- feedback: Incorrect. Try again. -->
-- [ ] D) encyclopedia
-  <!-- feedback: Incorrect. Try again. -->
+- [ ] A) If I have more time, I would learn another language.
+  <!-- feedback: That is the first conditional structure, not the second. -->
+- [x] B) If I had more time, I would learn another language.
+  <!-- feedback: 'If' plus past simple plus 'would' base is the second conditional. -->
+- [ ] C) If I had more time, I will learn another language.
+  <!-- feedback: 'Will' does not belong to the second conditional's main clause. -->
+- [ ] D) If I would have more time, I learn another language.
+  <!-- feedback: 'Would' cannot follow 'if' in this pattern. -->
 
 ### Explicacion Pedagogica
-The word 'guidebook' is used to describe a book of information about a place designed for the use of visitors or tourists. This is an important vocabulary word in English.
+El condicional tipo dos usa 'If' mas pasado simple y 'would' mas verbo base para una hipotesis no real del presente.
+
 ---
-## Question 15 [D7]
-**ID:** EC-ING-11-2026-W14-conditionals-type-0-1-001-MASTERY-v15
+
+## Question 5 [D5-D6]
+**ID:** EC-ING-11-2026-W14-conditionals-type-0-1-001-MASTERY-bundle-v5
 **Bloom:** Analyze
-**EJE:** Lexico
+**EJE:** Grammatical Knowledge
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Condicional tipo tres, Guayaquil.
 
 ### Enunciado
-What is the English word for: "A bag with shoulder straps that allow it to be carried on one's back."
+Choose the sentence that is correct in the third conditional.
 
 ### Opciones
-- [x] C) backpack
-  <!-- feedback: Correct! 'backpack' matches the definition. -->
-- [ ] A) suitcase
-  <!-- feedback: Incorrect. Try again. -->
-- [ ] B) briefcase
-  <!-- feedback: Incorrect. Try again. -->
-- [ ] D) handbag
-  <!-- feedback: Incorrect. Try again. -->
+- [ ] A) If she studies harder, she would have passed the exam.
+  <!-- feedback: That mixes the first conditional's 'if' clause with the third's main clause. -->
+- [ ] B) If she had studied harder, she will have passed the exam.
+  <!-- feedback: 'Will have' does not belong to the third conditional. -->
+- [ ] C) If she would have studied, she would have passed the exam.
+  <!-- feedback: 'Would have' cannot be used in the 'if' clause of the third conditional. -->
+- [x] D) If she had studied harder, she would have passed the exam.
+  <!-- feedback: 'Had studied' plus 'would have passed' is the third conditional. -->
 
 ### Explicacion Pedagogica
-The word 'backpack' is used to describe a bag with shoulder straps that allow it to be carried on one's back. This is an important vocabulary word in English.
+El condicional tipo tres emplea 'If' mas pasado perfecto y 'would have' mas participio.
+
 ---
-## Question 16 [D8]
-**ID:** EC-ING-11-2026-W14-conditionals-type-0-1-001-MASTERY-v16
+
+## Question 6 [D5-D6]
+**ID:** EC-ING-11-2026-W14-conditionals-type-0-1-001-MASTERY-bundle-v6
+**Bloom:** Apply
+**EJE:** Grammatical Knowledge
+**Expected_Success:** 0.80
+**Contexto:** Uso de 'were' en condicionales, Quito.
+
+### Enunciado
+Complete the sentence: 'If I ____ you, I would accept the offer.'
+
+### Opciones
+- [ ] A) am
+  <!-- feedback: 'Am' is the simple present of 'to be', which does not fit the hypothetical structure. -->
+- [ ] B) was
+  <!-- feedback: 'Was' is used with he, she and it, but 'I' takes 'were' in this conditional. -->
+- [x] C) were
+  <!-- feedback: 'Were' is the standard form in the second conditional for every person. -->
+- [ ] D) will be
+  <!-- feedback: 'Will be' does not appear in the 'if' clause of the second conditional. -->
+
+### Explicacion Pedagogica
+En el condicional tipo dos se usa 'were' para todas las personas, incluso para 'I'.
+
+---
+
+## Question 7 [D5-D6]
+**ID:** EC-ING-11-2026-W14-conditionals-type-0-1-001-MASTERY-bundle-v7
 **Bloom:** Analyze
-**EJE:** Lexico
+**EJE:** Grammatical Knowledge
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Comparacion de condicionales, Guayaquil.
 
 ### Enunciado
-What is the English word for: "In or to a foreign country, especially one across the sea."
+What is the difference between the first and the second conditional?
 
 ### Opciones
-- [x] A) overseas
-  <!-- feedback: Correct! 'overseas' matches the definition. -->
-- [ ] B) domestic
-  <!-- feedback: Incorrect. Try again. -->
-- [ ] C) local
-  <!-- feedback: Incorrect. Try again. -->
-- [ ] D) national
-  <!-- feedback: Incorrect. Try again. -->
+- [ ] A) Both express the same probability
+  <!-- feedback: The two conditionals differ precisely in how likely they consider the situation. -->
+- [x] B) The first is a likely future possibility; the second is a hypothetical one
+  <!-- feedback: The distinction is real likelihood versus imagined situation. -->
+- [ ] C) The first refers to the past and the second to the present
+  <!-- feedback: The first is about the future; the third, not the second, is about the past. -->
+- [ ] D) The second is used only in questions
+  <!-- feedback: Both appear in statements and in questions. -->
 
 ### Explicacion Pedagogica
-The word 'overseas' is used to describe in or to a foreign country, especially one across the sea. This is an important vocabulary word in English.
+El tipo uno trata de una posibilidad real en el futuro; el tipo dos, de una hipotesis menos probable o imaginaria en el presente.
+
 ---
-## Question 17 [D9]
-**ID:** EC-ING-11-2026-W14-conditionals-type-0-1-001-MASTERY-v17
-**Bloom:** Evaluate
-**EJE:** Lexico
+
+## Question 8 [D3-D4]
+**ID:** EC-ING-11-2026-W14-conditionals-type-0-1-001-MASTERY-bundle-v8
+**Bloom:** Analyze
+**EJE:** Grammatical Knowledge
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Deteccion de errores, Cuenca.
 
 ### Enunciado
-What is the English word for: "An estimate of income and expenditure for a set period of time."
+Look at the sentence: 'If it will rain, we will stay home.' What is the error?
 
 ### Opciones
-- [x] C) budget
-  <!-- feedback: Correct! 'budget' matches the definition. -->
-- [ ] A) expense
-  <!-- feedback: Incorrect. Try again. -->
-- [ ] B) cost
-  <!-- feedback: Incorrect. Try again. -->
-- [ ] D) price
-  <!-- feedback: Incorrect. Try again. -->
+- [ ] A) Nothing is wrong with the sentence
+  <!-- feedback: Some informal speech allows it, but the standard school form excludes 'will' after 'if'. -->
+- [ ] B) 'Stay' must be 'stayed'
+  <!-- feedback: 'Will stay' is the correct form for the main clause. -->
+- [ ] C) 'Rain' must be 'rained'
+  <!-- feedback: The verb must be in the present simple without the -ed ending. -->
+- [x] D) 'If' plus 'will' is incorrect; it should be 'If it rains'
+  <!-- feedback: The 'if' clause of the first conditional uses the present simple. -->
 
 ### Explicacion Pedagogica
-The word 'budget' is used to describe an estimate of income and expenditure for a set period of time. This is an important vocabulary word in English.
+En el condicional tipo uno la clausula de 'if' no lleva 'will'; se usa el presente simple.
+
 ---
-## Question 18 [D10]
-**ID:** EC-ING-11-2026-W14-conditionals-type-0-1-001-MASTERY-v18
-**Bloom:** Evaluate
-**EJE:** Lexico
+
+## Question 9 [D5-D6]
+**ID:** EC-ING-11-2026-W14-conditionals-type-0-1-001-MASTERY-bundle-v9
+**Bloom:** Analyze
+**EJE:** Grammatical Knowledge
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Identificacion de condicionales, Quito.
 
 ### Enunciado
-What is the English word for: "A practice or arrangement by which a company or government agency provides a guarantee of compensation for specified loss, damage, illness, or death in return for payment of a premium."
+Read the text: 'If you mix blue and yellow, you get green.' What type of conditional is this?
 
 ### Opciones
-- [x] C) insurance
-  <!-- feedback: Correct! 'insurance' matches the definition. -->
-- [ ] A) warranty
-  <!-- feedback: Incorrect. Try again. -->
-- [ ] B) guarantee
-  <!-- feedback: Incorrect. Try again. -->
-- [ ] D) policy
-  <!-- feedback: Incorrect. Try again. -->
+- [x] A) The zero conditional, because it states a general truth
+  <!-- feedback: 'If' plus present plus present expresses an always valid rule. -->
+- [ ] B) The first conditional, because it refers to the future
+  <!-- feedback: No future time is mentioned; the statement is always true. -->
+- [ ] C) The second conditional, because it is hypothetical
+  <!-- feedback: The second conditional describes an unreal present situation. -->
+- [ ] D) The third conditional, because it refers to the past
+  <!-- feedback: No past event appears in the sentence. -->
 
 ### Explicacion Pedagogica
-The word 'insurance' is used to describe a practice or arrangement by which a company or government agency provides a guarantee of compensation for specified loss, damage, illness, or death in return for payment of a premium. This is an important vocabulary word in English.
+La oracion expresa una relacion cientifica siempre verdadera, que corresponde al condicional cero.
+
 ---
-## Question 19 [D9]
-**ID:** EC-ING-11-2026-W14-conditionals-type-0-1-001-MASTERY-v19
-**Bloom:** Evaluate
-**EJE:** Lexico
+
+## Question 10 [D3-D4]
+**ID:** EC-ING-11-2026-W14-conditionals-type-0-1-001-MASTERY-bundle-v10
+**Bloom:** Apply
+**EJE:** Grammatical Knowledge
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Condicional tipo dos, Quito.
 
 ### Enunciado
-What is the English word for: "Treatment with a vaccine to produce immunity against a disease."
+Complete the second conditional: 'If I ____ a doctor, I would work in a hospital.'
 
 ### Opciones
-- [x] C) vaccination
-  <!-- feedback: Correct! 'vaccination' matches the definition. -->
-- [ ] A) medication
-  <!-- feedback: Incorrect. Try again. -->
-- [ ] B) prescription
-  <!-- feedback: Incorrect. Try again. -->
-- [ ] D) infection
-  <!-- feedback: Incorrect. Try again. -->
+- [ ] A) am
+  <!-- feedback: 'Am' is the simple present of 'to be' with 'I'. -->
+- [ ] B) will be
+  <!-- feedback: 'Will be' belongs to the first conditional's main clause. -->
+- [x] C) were
+  <!-- feedback: 'Were' is the form used for every person in the second conditional. -->
+- [ ] D) had been
+  <!-- feedback: The past perfect would place the condition before another past moment. -->
 
 ### Explicacion Pedagogica
-The word 'vaccination' is used to describe treatment with a vaccine to produce immunity against a disease. This is an important vocabulary word in English.
+La hipotesis del condicional tipo dos se enuncia con el pasado simple del verbo 'be'.
+
 ---
-## Question 20 [D10]
-**ID:** EC-ING-11-2026-W14-conditionals-type-0-1-001-MASTERY-v20
-**Bloom:** Evaluate
-**EJE:** Lexico
+
+## Question 11 [D3-D4]
+**ID:** EC-ING-11-2026-W14-conditionals-type-0-1-001-MASTERY-bundle-v11
+**Bloom:** Apply
+**EJE:** Grammatical Knowledge
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Condicional tipo dos, Cuenca.
 
 ### Enunciado
-What is the English word for: "Extreme tiredness and other physical effects felt by a person after a long flight across several time zones."
+Complete the sentence: 'If I ____ a car, I would drive to the coast.'
 
 ### Opciones
-- [x] A) jet lag
-  <!-- feedback: Correct! 'jet lag' matches the definition. -->
-- [ ] B) fatigue
-  <!-- feedback: Incorrect. Try again. -->
-- [ ] C) exhaustion
-  <!-- feedback: Incorrect. Try again. -->
-- [ ] D) insomnia
-  <!-- feedback: Incorrect. Try again. -->
+- [ ] A) will have
+  <!-- feedback: 'Will have' belongs to the future perfect, not to this conditional. -->
+- [ ] B) have
+  <!-- feedback: The present 'have' would make this the first conditional. -->
+- [ ] C) would have
+  <!-- feedback: 'Would' cannot open the 'if' clause of the second conditional. -->
+- [x] D) had
+  <!-- feedback: 'Had' is the simple past of 'have' and fits the second conditional. -->
 
 ### Explicacion Pedagogica
-The word 'jet lag' is used to describe extreme tiredness and other physical effects felt by a person after a long flight across several time zones. This is an important vocabulary word in English.
+La hipotesis se expresa con pasado simple: 'If I had a car'. Esta estructura se repite con otros verbos del mismo grupo.
+
+---
+
+## Question 12 [D5-D6]
+**ID:** EC-ING-11-2026-W14-conditionals-type-0-1-001-MASTERY-bundle-v12
+**Bloom:** Analyze
+**EJE:** Grammatical Knowledge
+**Expected_Success:** 0.80
+**Contexto:** Uso de 'wish' para el arrepentimiento, Guayaquil.
+
+### Enunciado
+Which sentence expresses a regret about a past action?
+
+### Opciones
+- [ ] A) I wish I would book the flight earlier.
+  <!-- feedback: 'Would' plus base form expresses a future wish, not past regret. -->
+- [x] B) I wish I had booked the flight earlier.
+  <!-- feedback: 'Wish' plus past perfect expresses regret about a past action. -->
+- [ ] C) I wish I have booked the flight earlier.
+  <!-- feedback: The present perfect does not combine with 'wish' for past regret. -->
+- [ ] D) I wish the flight would be booked earlier.
+  <!-- feedback: That construction does not express the standard regret pattern. -->
+
+### Explicacion Pedagogica
+'Wish' mas pasado perfecto expresa el deseo de que algo pasado hubiera ocurrido. Es uno de los puntos mas frecuentes de las pruebas de esta unidad.
+
+---
+
+## Question 13 [D5-D6]
+**ID:** EC-ING-11-2026-W14-conditionals-type-0-1-001-MASTERY-bundle-v13
+**Bloom:** Understand
+**EJE:** Grammatical Knowledge
+**Expected_Success:** 0.80
+**Contexto:** Analisis del condicional, Quito.
+
+### Enunciado
+What does 'would' express in the sentence 'If she studied more, she would improve'?
+
+### Opciones
+- [x] A) A hypothetical result that may not happen
+  <!-- feedback: 'Would' marks the consequence of an imagined condition. -->
+- [ ] B) A certain future event
+  <!-- feedback: Certainty would require the first conditional with 'will'. -->
+- [ ] C) A past event
+  <!-- feedback: The whole conditional is oriented to the present, not the past. -->
+- [ ] D) An obligation
+  <!-- feedback: Obligation would be expressed with 'must' or 'should'. -->
+
+### Explicacion Pedagogica
+'Would' introduce la consecuencia hipotetica del condicional tipo dos, sin afirmar que ocurra.
+
+---
+
+## Question 14 [D5-D6]
+**ID:** EC-ING-11-2026-W14-conditionals-type-0-1-001-MASTERY-bundle-v14
+**Bloom:** Evaluate
+**EJE:** Grammatical Knowledge
+**Expected_Success:** 0.80
+**Contexto:** Consolidacion del condicional cero, Guayaquil.
+
+### Enunciado
+Choose the sentence that is correct in the zero conditional.
+
+### Opciones
+- [ ] A) Water will freeze at zero degrees, so ice would form on the surface.
+  <!-- feedback: That mixes the first and second conditionals without reason. -->
+- [x] B) Water freezes at zero degrees, so ice forms on the surface.
+  <!-- feedback: 'If' is not needed for this general truth, and the present simple is correct throughout. -->
+- [ ] C) Water would freeze at zero degrees, so ice had formed on the surface.
+  <!-- feedback: That mixes the second and third conditionals. -->
+- [ ] D) Water froze at zero degrees, so ice had formed on the surface.
+  <!-- feedback: That describes a single past event, not a general truth. -->
+
+### Explicacion Pedagogica
+El condicional cero usa presente simple en ambas clausulas y expresa una relacion general.
+
+---
+
+## Question 15 [D5-D6]
+**ID:** EC-ING-11-2026-W14-conditionals-type-0-1-001-MASTERY-bundle-v15
+**Bloom:** Apply
+**EJE:** Grammatical Knowledge
+**Expected_Success:** 0.80
+**Contexto:** Aplicacion del condicional tipo dos, Quito.
+
+### Enunciado
+Look at the question and answer it correctly: 'If you had a chance, what would you do?' The answer should be:
+
+### Opciones
+- [x] A) I would visit the Galapagos Islands.
+  <!-- feedback: 'Would visit' keeps the hypothetical frame of the question. -->
+- [ ] B) I visited the Galapagos Islands last year.
+  <!-- feedback: That answers a question about the past, not about a hypothetical present chance. -->
+- [ ] C) I will visit the Galapagos Islands next year.
+  <!-- feedback: 'Will' states a future plan rather than the hypothetical answer. -->
+- [ ] D) I visit the Galapagos Islands every year.
+  <!-- feedback: The simple present describes a habit, not a hypothetical situation. -->
+
+### Explicacion Pedagogica
+Una respuesta coherente con el condicional tipo dos mantiene la forma hipotetica con 'would'.
+
+---
+
+## Question 16 [D5-D6]
+**ID:** EC-ING-11-2026-W14-conditionals-type-0-1-001-MASTERY-bundle-v16
+**Bloom:** Analyze
+**EJE:** Grammatical Knowledge
+**Expected_Success:** 0.80
+**Contexto:** Revision de condicionales, Cuenca.
+
+### Enunciado
+Which sentence is NOT correct?
+
+### Opciones
+- [ ] A) If he were taller, he would play basketball.
+  <!-- feedback: 'Were' plus 'would' base is the correct second conditional. -->
+- [ ] B) If he is taller, he will play basketball.
+  <!-- feedback: That is the first conditional structure, which is also valid. -->
+- [x] C) If he would be taller, he would play basketball.
+  <!-- feedback: 'Would' cannot open the 'if' clause of the second conditional. -->
+- [ ] D) If he played taller, he would play basketball.
+  <!-- feedback: 'Played taller' is semantically wrong, but the tense frame is the second conditional. -->
+
+### Explicacion Pedagogica
+En el condicional tipo dos la clausula de 'if' lleva pasado simple, nunca 'would'.
+
+---
+
+## Question 17 [D5-D6]
+**ID:** EC-ING-11-2026-W14-conditionals-type-0-1-001-MASTERY-bundle-v17
+**Bloom:** Apply
+**EJE:** Grammatical Knowledge
+**Expected_Success:** 0.80
+**Contexto:** Condicional tipo tres, Guayaquil.
+
+### Enunciado
+Complete the third conditional: 'If they ____ earlier, they would have arrived on time.'
+
+### Opciones
+- [x] A) had left
+  <!-- feedback: 'Had left' is the past perfect required in the third conditional's 'if' clause. -->
+- [ ] B) left
+  <!-- feedback: The simple past in the 'if' clause would not express the unreal condition properly. -->
+- [ ] C) would leave
+  <!-- feedback: 'Would' cannot appear in the 'if' clause of the third conditional. -->
+- [ ] D) have left
+  <!-- feedback: The present perfect refers to the present, not to an unreal past condition. -->
+
+### Explicacion Pedagogica
+En el condicional tipo tres la condicion no cumplida en el pasado se expresa con pasado perfecto.
+
+---
+
+## Question 18 [D5-D6]
+**ID:** EC-ING-11-2026-W14-conditionals-type-0-1-001-MASTERY-bundle-v18
+**Bloom:** Analyze
+**EJE:** Grammatical Knowledge
+**Expected_Success:** 0.80
+**Contexto:** Inferencia sobre un condicional, Quito.
+
+### Enunciado
+Read the text: 'If you heat water to 100 degrees at sea level, it boils.' What does this statement assume?
+
+### Opciones
+- [ ] A) That water always boils at the same temperature everywhere
+  <!-- feedback: The added condition shows that the temperature is not always the same. -->
+- [ ] B) That heating is unnecessary
+  <!-- feedback: Heating is the condition of the statement, so it is necessary. -->
+- [ ] C) That sea level is the only place with water
+  <!-- feedback: The phrase refers to altitude, not to the existence of water. -->
+- [x] D) That the altitude matters, since boiling point changes with pressure
+  <!-- feedback: The added condition limits the general truth stated in the sentence. -->
+
+### Explicacion Pedagogica
+La frase 'at sea level' limita el alcance del enunciado, porque la altura altera el punto de ebullicion.
+
+---
+
+## Question 19 [D5-D6]
+**ID:** EC-ING-11-2026-W14-conditionals-type-0-1-001-MASTERY-bundle-v19
+**Bloom:** Analyze
+**EJE:** Grammatical Knowledge
+**Expected_Success:** 0.80
+**Contexto:** Uso de 'unless', Cuenca.
+
+### Enunciado
+What does 'unless' mean in 'Unless you hurry, you will miss the bus'?
+
+### Opciones
+- [x] A) If you do not hurry
+  <!-- feedback: 'Unless' is equivalent to 'if not' plus the base verb. -->
+- [ ] B) If you hurry
+  <!-- feedback: That reverses the condition given in the sentence. -->
+- [ ] C) When you hurry
+  <!-- feedback: 'When' introduces time, not a negative condition. -->
+- [ ] D) Because you hurry
+  <!-- feedback: 'Because' introduces a cause, not a condition. -->
+
+### Explicacion Pedagogica
+'Unless' equivale a 'if not', de modo que la condicion se invierte respecto de lo que se enuncia.
+
+---
+
+## Question 20 [D5-D6]
+**ID:** EC-ING-11-2026-W14-conditionals-type-0-1-001-MASTERY-bundle-v20
+**Bloom:** Evaluate
+**EJE:** Grammatical Knowledge
+**Expected_Success:** 0.80
+**Contexto:** Comparacion aplicada, Guayaquil.
+
+### Enunciado
+Choose the sentence that correctly contrasts the first and the second conditional.
+
+### Opciones
+- [ ] A) If it rains, we will stay in; if we were in Quito, we will stay at home
+  <!-- feedback: The second clause uses 'will', which belongs to the first conditional. -->
+- [ ] B) If it will rain, we stay in; if we were in Quito, we would stay at home
+  <!-- feedback: The first clause incorrectly puts 'will' after 'if'. -->
+- [ ] C) If it rained, we would stay in; if we were in Quito, we stay at home
+  <!-- feedback: The second clause uses the simple present, breaking the hypothetical frame. -->
+- [x] D) If it rains, we will stay in; if we were in Quito, we would stay at home
+  <!-- feedback: First conditional for the real possibility, second for the hypothetical situation. -->
+
+### Explicacion Pedagogica
+La primera oracion expresa posibilidad real y la segunda una hipotesis no realizada en el presente.
+
+---

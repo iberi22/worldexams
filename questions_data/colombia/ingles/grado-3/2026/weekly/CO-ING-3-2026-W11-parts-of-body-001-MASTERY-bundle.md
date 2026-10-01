@@ -18,190 +18,207 @@ license: "FREE"
 tier: "legacy"
 creador: "Jules-Agent"
 ---
-# MASTERY Bundle - Ingles: Parts Of Body (W11)
-**8 preguntas | Ingles | {alignment}**
+# MASTERY Bundle - Ingles: parts-of-body (W11)
+**8 preguntas | Ingles | DBA MEN Colombia**
 
 ---
+
 ## Question 1 [D3-D4]
 **ID:** CO-ING-3-2026-W11-parts-of-body-001-MASTERY-bundle-v1
 **Bloom:** Remember
-**ICFES:** Lexico
+**ICFES:** Lexical Knowledge
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Vocabulario del cuerpo, grado 3.
 
 ### Enunciado
-What is the English word for: "A place where you live or stay on holiday."
+Which word means the part of the body you use to hear?
 
 ### Opciones
-- [x] D) accommodation
-  <!-- feedback: Correct! 'accommodation' matches the definition. -->
-- [ ] A) transportation
-  <!-- feedback: Incorrect. Try again. -->
-- [ ] B) entertainment
-  <!-- feedback: Incorrect. Try again. -->
-- [ ] C) currency
-  <!-- feedback: Incorrect. Try again. -->
+- [ ] A) eye
+  <!-- feedback: 'Eye' is used for seeing, not for hearing. -->
+- [ ] B) mouth
+  <!-- feedback: 'Mouth' is used for eating and speaking. -->
+- [x] C) ear
+  <!-- feedback: 'Ear' is the organ used for hearing. -->
+- [ ] D) hand
+  <!-- feedback: 'Hand' is used for touching and holding objects. -->
 
 ### Explicacion Pedagogica
-The word 'accommodation' is used to describe a place where you live or stay on holiday. This is an important vocabulary word in English.
+'Ear' es el organo de la audicion; 'eye' se usa para ver. Esta forma se practica tambien con los otros verbos de la misma serie.
+
 ---
+
 ## Question 2 [D3-D4]
 **ID:** CO-ING-3-2026-W11-parts-of-body-001-MASTERY-bundle-v2
-**Bloom:** Understand
-**ICFES:** Lexico
+**Bloom:** Apply
+**ICFES:** Lexical Knowledge
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Vocabulario del cuerpo, grado 3.
 
 ### Enunciado
-What is the English word for: "A detailed plan or route of a journey."
+Complete: 'She has long ____ and she brushes them every night.'
 
 ### Opciones
-- [x] A) itinerary
-  <!-- feedback: Correct! 'itinerary' matches the definition. -->
-- [ ] B) baggage
-  <!-- feedback: Incorrect. Try again. -->
-- [ ] C) destination
-  <!-- feedback: Incorrect. Try again. -->
-- [ ] D) passport
-  <!-- feedback: Incorrect. Try again. -->
+- [ ] A) hand
+  <!-- feedback: 'Hand' would take 'it' in the singular, not 'them'. -->
+- [ ] B) foot
+  <!-- feedback: 'Foot' does not match the plural pronoun 'them' used here. -->
+- [x] C) hair
+  <!-- feedback: 'Hair' is brushed daily and takes the plural pronoun 'them' in this loose sense. -->
+- [ ] D) leg
+  <!-- feedback: 'Leg' would normally take 'his' or 'her legs', not 'them'. -->
 
 ### Explicacion Pedagogica
-The word 'itinerary' is used to describe a detailed plan or route of a journey. This is an important vocabulary word in English.
+Lo que se cepilla todas las noches es el pelo, y el pronombre 'them' confirma que es plural.
+
 ---
-## Question 3 [D5-D6]
+
+## Question 3 [D3-D4]
 **ID:** CO-ING-3-2026-W11-parts-of-body-001-MASTERY-bundle-v3
-**Bloom:** Apply
-**ICFES:** Lexico
+**Bloom:** Understand
+**ICFES:** Lexical Knowledge
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Vocabulario del cuerpo, grado 3.
 
 ### Enunciado
-What is the English word for: "The place to which someone or something is going or being sent."
+Which word means the part you use to walk?
 
 ### Opciones
-- [x] D) destination
-  <!-- feedback: Correct! 'destination' matches the definition. -->
-- [ ] A) departure
-  <!-- feedback: Incorrect. Try again. -->
-- [ ] B) arrival
-  <!-- feedback: Incorrect. Try again. -->
-- [ ] C) journey
-  <!-- feedback: Incorrect. Try again. -->
+- [ ] A) knee
+  <!-- feedback: 'Knee' bends the leg but does not touch the ground when walking. -->
+- [ ] B) shoulder
+  <!-- feedback: 'Shoulder' is in the upper body and does not help walking directly. -->
+- [ ] C) toe
+  <!-- feedback: 'Toe' is part of the foot but is not the main organ used to walk. -->
+- [x] D) foot
+  <!-- feedback: 'Foot' is the part that supports walking and running. -->
 
 ### Explicacion Pedagogica
-The word 'destination' is used to describe the place to which someone or something is going or being sent. This is an important vocabulary word in English.
+'Foot' y 'leg' forman parte del aparato locomotor; 'foot' es el que se apoya al caminar.
+
 ---
-## Question 4 [D5-D6]
+
+## Question 4 [D3-D4]
 **ID:** CO-ING-3-2026-W11-parts-of-body-001-MASTERY-bundle-v4
-**Bloom:** Apply
-**ICFES:** Lexico
+**Bloom:** Understand
+**ICFES:** Lexical Knowledge
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Pronombres posesivos, grado 3.
 
 ### Enunciado
-What is the English word for: "Suitcases or other bags in which to pack personal belongings for traveling."
+Look at the sentence: 'He hurt his finger while cooking.' What does 'his' refer to?
 
 ### Opciones
-- [x] C) luggage
-  <!-- feedback: Correct! 'luggage' matches the definition. -->
-- [ ] A) ticket
-  <!-- feedback: Incorrect. Try again. -->
-- [ ] B) flight
-  <!-- feedback: Incorrect. Try again. -->
-- [ ] D) reservation
-  <!-- feedback: Incorrect. Try again. -->
+- [ ] A) It refers to the finger.
+  <!-- feedback: 'His' cannot refer to a body part in this construction. -->
+- [x] B) It refers to the boy.
+  <!-- feedback: The possessive 'his' agrees with the male subject 'he'. -->
+- [ ] C) It refers to the kitchen.
+  <!-- feedback: The possessive does not point to a place. -->
+- [ ] D) It refers to cooking.
+  <!-- feedback: 'His' refers to a person, not to an activity. -->
 
 ### Explicacion Pedagogica
-The word 'luggage' is used to describe suitcases or other bags in which to pack personal belongings for traveling. This is an important vocabulary word in English.
+'His' se refiere a 'he', el sujeto de la oracion. El mismo criterio se aplica al resto del vocabulario del tema.
+
 ---
-## Question 5 [D7-D8]
+
+## Question 5 [D3-D4]
 **ID:** CO-ING-3-2026-W11-parts-of-body-001-MASTERY-bundle-v5
-**Bloom:** Analyze
-**ICFES:** Lexico
+**Bloom:** Apply
+**ICFES:** Lexical Knowledge
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Vocabulario del cuerpo, grado 3.
 
 ### Enunciado
-What is the English word for: "A traveler on a public or private conveyance other than the driver, pilot, or crew."
+Choose the correct word: 'I brush my ____ twice a day.'
 
 ### Opciones
-- [x] D) passenger
-  <!-- feedback: Correct! 'passenger' matches the definition. -->
-- [ ] A) pedestrian
-  <!-- feedback: Incorrect. Try again. -->
-- [ ] B) commuter
-  <!-- feedback: Incorrect. Try again. -->
-- [ ] C) tourist
-  <!-- feedback: Incorrect. Try again. -->
+- [x] A) teeth
+  <!-- feedback: 'Teeth' is the regular plural of 'tooth' and fits 'my' before it. -->
+- [ ] B) teeths
+  <!-- feedback: The regular plural of 'tooth' is 'teeth', never 'teeths'. -->
+- [ ] C) tooths
+  <!-- feedback: That plural form does not exist in English. -->
+- [ ] D) tooth
+  <!-- feedback: 'My tooth' would refer to a single tooth, which 'twice a day' contradicts. -->
 
 ### Explicacion Pedagogica
-The word 'passenger' is used to describe a traveler on a public or private conveyance other than the driver, pilot, or crew. This is an important vocabulary word in English.
+Las acciones de cepillado se aplican a los dientes, y el articulo 'my' concuerda en singular.
+
 ---
-## Question 6 [D7-D8]
+
+## Question 6 [D3-D4]
 **ID:** CO-ING-3-2026-W11-parts-of-body-001-MASTERY-bundle-v6
 **Bloom:** Analyze
-**ICFES:** Lexico
+**ICFES:** Lexical Knowledge
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Sintaxis con partes del cuerpo, grado 3.
 
 ### Enunciado
-What is the English word for: "The place at a port, airport, or frontier where officials check incoming goods, travelers, or luggage."
+Which sentence is correct?
 
 ### Opciones
-- [x] A) customs
-  <!-- feedback: Correct! 'customs' matches the definition. -->
-- [ ] B) security
-  <!-- feedback: Incorrect. Try again. -->
-- [ ] C) terminal
-  <!-- feedback: Incorrect. Try again. -->
-- [ ] D) gate
-  <!-- feedback: Incorrect. Try again. -->
+- [ ] A) My brother don't like his new shoes.
+  <!-- feedback: 'Do not' cannot agree with the singular 'brother'. -->
+- [x] B) My brother does not like his new shoes.
+  <!-- feedback: 'Does not' goes with the third person singular 'brother'. -->
+- [ ] C) My brother not like his new shoes.
+  <!-- feedback: The auxiliary 'does' is missing before 'not'. -->
+- [ ] D) My brother does not likes his new shoes.
+  <!-- feedback: After 'does not' the verb must be in the base form 'like'. -->
 
 ### Explicacion Pedagogica
-The word 'customs' is used to describe the place at a port, airport, or frontier where officials check incoming goods, travelers, or luggage. This is an important vocabulary word in English.
+En la forma negativa se usa 'do not' o 'does not' segun el sujeto, con el verbo en forma base.
+
 ---
-## Question 7 [D9-D10]
+
+## Question 7 [D3-D4]
 **ID:** CO-ING-3-2026-W11-parts-of-body-001-MASTERY-bundle-v7
-**Bloom:** Evaluate
-**ICFES:** Lexico
+**Bloom:** Apply
+**ICFES:** Lexical Knowledge
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Vocabulario del cuerpo en accion, grado 3.
 
 ### Enunciado
-What is the English word for: "A document provided by an airline during check-in, giving a passenger permission to board the airplane."
+What do you use to hold a pencil?
 
 ### Opciones
-- [x] D) boarding pass
-  <!-- feedback: Correct! 'boarding pass' matches the definition. -->
-- [ ] A) visa
-  <!-- feedback: Incorrect. Try again. -->
-- [ ] B) receipt
-  <!-- feedback: Incorrect. Try again. -->
-- [ ] C) brochure
-  <!-- feedback: Incorrect. Try again. -->
+- [ ] A) my head
+  <!-- feedback: 'Head' carries thoughts; it does not hold a pencil. -->
+- [ ] B) my back
+  <!-- feedback: 'Back' supports the body, not a pencil. -->
+- [ ] C) my chin
+  <!-- feedback: 'Chin' is part of the face and plays no role in holding objects. -->
+- [x] D) my hand
+  <!-- feedback: 'Hand' is the body part used to grip and hold objects. -->
 
 ### Explicacion Pedagogica
-The word 'boarding pass' is used to describe a document provided by an airline during check-in, giving a passenger permission to board the airplane. This is an important vocabulary word in English.
+'Hand' es la parte del cuerpo que sostiene un lapiz u otro objeto pequeno. Esta estructura se repite con otros sustantivos del mismo grupo.
+
 ---
-## Question 8 [D9-D10]
+
+## Question 8 [D3-D4]
 **ID:** CO-ING-3-2026-W11-parts-of-body-001-MASTERY-bundle-v8
-**Bloom:** Evaluate
-**ICFES:** Lexico
+**Bloom:** Analyze
+**ICFES:** Lexical Knowledge
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Descripcion de partes del cuerpo, grado 3.
 
 ### Enunciado
-What is the English word for: "The activity of visiting places of interest in a particular location."
+Complete the sentence: 'The pupils of my eyes are ____ in bright light.'
 
 ### Opciones
-- [x] C) sightseeing
-  <!-- feedback: Correct! 'sightseeing' matches the definition. -->
-- [ ] A) shopping
-  <!-- feedback: Incorrect. Try again. -->
-- [ ] B) hiking
-  <!-- feedback: Incorrect. Try again. -->
-- [ ] D) camping
-  <!-- feedback: Incorrect. Try again. -->
+- [x] A) small
+  <!-- feedback: Bright light makes the pupil contract, so it becomes small. -->
+- [ ] B) bigger
+  <!-- feedback: In darkness the pupil dilates and becomes bigger. -->
+- [ ] C) black
+  <!-- feedback: 'Black' describes the colour of the pupil, not its size in this sentence. -->
+- [ ] D) long
+  <!-- feedback: 'Long' does not apply to the pupil, which is round. -->
 
 ### Explicacion Pedagogica
-The word 'sightseeing' is used to describe the activity of visiting places of interest in a particular location. This is an important vocabulary word in English.
+La pupila se contrae con la luz intensa, de modo que 'small' es el adjetivo correcto.
+
+---
