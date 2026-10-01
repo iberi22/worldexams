@@ -110,7 +110,11 @@ const GRAMMAR_LABEL = new RegExp(
   '|^(?:\\s*[a-z]+\\s*){1,3}(?:tense|aspect|mood|voice|pronoun|clause|phrase|form)\\s*$',
   'i',
 );
-const MIN_REASON_CHARS = 15;
+// Praise with no reason attached. The only thing the length floor was ever
+// catching in practice: "Well done" appeared 400 times in the merged corpus
+// and nothing else short was junk. So the rule is now this list, not a length.
+const SHORT_PRAISE =
+  /^\s*(well done|nice work|great job|good job|very good|excellent|perfect|great|nice|good|bravo|excelente|muy bien|perfecto|bien hecho|felicidades|correct|right|wrong|ok|okay|yes|no|si|así es|eso es|justo eso)\b[\s.!¡!]*$/i;
 
 function feedbackReason(feedback) {
   return (feedback || '')
@@ -141,8 +145,16 @@ export function feedbackProblem(feedback) {
   if (/\b\d/.test(reason) && /\b(es|son|valen|equivale|significa|da|son)\b/i.test(reason)) return null;
   if (/\b\d+\s*(m|km|g|kg|cm|mm|mol|mols|L|l|ml|°C|°F|K|Pa|Hz|N|J|W|V|A|%|x)\b/.test(reason)) return null;
   if (VAGUE_ONLY.test(reason)) return 'feedback only tells the student to look again, it does not explain why';
-  if (reason.length < MIN_REASON_CHARS) {
-    return `feedback gives no usable reason (${reason.length} chars): "${reason}"`;
+  // A short but specific reason is a reason. The character floor rejected
+  // "Missing 'to'", "2⁴ é 16", "Not mentioned" and "Error de signo", all of them
+  // correct explanations of 9 to 15 characters, while accepting "This is the
+  // wrong tense and you should review it" at 46. Length measures nothing about
+  // whether an explanation explains; only two things disqualify feedback, and
+  // both are checked above: a bare verdict with nothing after it, and an
+  // instruction to look again with no reason. Everything else is judged on
+  // whether it names the thing that is wrong, which a length test cannot do.
+  if (SHORT_PRAISE.test(reason)) {
+    return `feedback is praise without a reason, it does not explain why: "${reason}"`;
   }
   return null;
 }
