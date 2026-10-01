@@ -8,6 +8,24 @@
 // The rows are counted per question section, not per line: an option can wrap,
 // and grouping by line would report a four-line question as four single-option
 // questions instead of one bad question.
+// A bundle whose declared tema is not about vocabulary must not be filled with
+// "What is the English word for: ..." questions. Those twenty questions are
+// genuinely distinct from each other, so duplicate-question and
+// duplicate-ignoring-context stay silent; within one file everything is
+// coherent. The incoherence only appears when the tema is compared against the
+// body, which no rule did: 187 bundles named past-continuous or
+// reported-speech carried a full travel-vocabulary set.
+const VOCAB_QUESTION = /What is the English word for/i;
+const VOCAB_TEMA = /vocab|lexic|word/i;
+
+function detectTemaCoherence(content, tema) {
+  const matches = content.match(new RegExp(VOCAB_QUESTION.source, 'gi'));
+  const count = matches ? matches.length : 0;
+  if (count < 10) return [];
+  if (tema && VOCAB_TEMA.test(tema)) return [];
+  return [{ count, tema: tema || '(sin tema en el frontmatter)' }];
+}
+
 function detectOptionLetters(content) {
   const results = [];
   const sections = content.split(/^##\s+Question\s+\d+/m).slice(1);
@@ -507,6 +525,10 @@ export function validateFile(file, opts = { strictQuality: false, corpusHashMap:
   }
 
   const fm = parseFrontmatter(content);
+
+  for (const t of detectTemaCoherence(content, fm && fm.tema)) {
+    errors.push(`ERROR [tema-coherente] ${relative}: ${t.count} questions ask "What is the English word for", but the declared tema is "${t.tema}"`);
+  }
 
   if (!relative.startsWith('questions_data/')) errors.push('File is outside questions_data/');
   if (!/-001-MASTERY-bundle\.md$/.test(base)) errors.push('Filename must end with -001-MASTERY-bundle.md');
