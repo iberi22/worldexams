@@ -21,462 +21,464 @@ bundle_index: 1
 **20 preguntas | Ingles | Curriculo de Ingles**
 
 ---
+
 ## Question 1 [D3]
 **ID:** HN-ING-11-2026-W35-repaso-p4-001-MASTERY-bundle-v1
-**Bloom:** Remember
-**EJE:** Lexico
+**Bloom:** Apply
+**EJE:** Gramatica
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** A review of the second term covers irregular verbs, modals, phrasal verbs and the passive voice.
 
 ### Enunciado
-What is the English word for: "A place where you live or stay on holiday."
+Choose the sentence with the correct past simple form of 'to go'.
 
 ### Opciones
-- [x] A) accommodation
-  <!-- feedback: 'accommodation' is the word for a place where you live or stay, including on holiday. -->
-- [ ] B) transportation
-  <!-- feedback: 'transportation' means the way you travel, such as buses or planes, not where you stay. -->
-- [ ] C) entertainment
-  <!-- feedback: 'entertainment' is the activity of enjoying shows, films or games, not a place to live. -->
-- [ ] D) currency
-  <!-- feedback: 'currency' is the money of a country, such as the colon; a place to stay is not money. -->
+- [x] A) They went to the coast last Saturday.
+  <!-- feedback: Correct! 'Went' is the past simple of the irregular verb 'go'. -->
+- [ ] B) They goed to the coast last Saturday.
+  <!-- feedback: 'Goed' does not exist in English; irregular verbs have a fixed past form. -->
+- [ ] C) They gone to the coast last Saturday.
+  <!-- feedback: 'Gone' is the past participle, which needs 'have' or 'be' before it. -->
+- [ ] D) They going to the coast last Saturday.
+  <!-- feedback: 'Going' is the present participle, which needs 'be' before it. -->
 
 ### Explicacion Pedagogica
-The word 'accommodation' is used to describe a place where you live or stay on holiday. This is an important vocabulary word in English.
+Irregular verbs must be learned in three forms. 'Went' is the past simple, used alone with a finished time expression.
 ---
-## Question 2 [D4]
+## Question 2 [D3]
 **ID:** HN-ING-11-2026-W35-repaso-p4-001-MASTERY-bundle-v2
-**Bloom:** Remember
-**EJE:** Lexico
+**Bloom:** Apply
+**EJE:** Gramatica
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** A review of the second term covers the verb tenses used for actions in progress.
 
 ### Enunciado
-What is the English word for: "A detailed plan or route of a journey."
+Choose the correct sentence with the present perfect continuous.
 
 ### Opciones
-- [x] B) itinerary
-  <!-- feedback: 'itinerary' is a detailed plan of a journey, listing the route and the stops along the way. -->
-- [ ] A) baggage
-  <!-- feedback: 'baggage' is the suitcases and bags you travel with, not the plan of the trip. -->
-- [ ] C) destination
-  <!-- feedback: 'destination' is only the place you are going to; the plan of the route is the itinerary. -->
-- [ ] D) passport
-  <!-- feedback: 'passport' is the travel document you show at the border, not the plan of a journey. -->
+- [ ] A) She is wait for the bus for twenty minutes.
+  <!-- feedback: 'Is wait' mixes the auxiliary 'is' with the base form, which is not a possible combination. -->
+- [x] B) She has been waiting for the bus for twenty minutes.
+  <!-- feedback: Correct! 'Has been waiting' is the present perfect continuous and the verb 'wait' takes no object here. -->
+- [ ] C) She has waited the bus for twenty minutes.
+  <!-- feedback: 'Waited' cannot be used with 'for' plus a duration in this structure, and a bus cannot be waited as an object here. -->
+- [ ] D) She have been waiting the bus since twenty minutes.
+  <!-- feedback: 'Have' does not agree with the third person subject 'she'. -->
 
 ### Explicacion Pedagogica
-The word 'itinerary' is used to describe a detailed plan or route of a journey. This is an important vocabulary word in English.
+The present perfect continuous is 'have been' plus a gerund, and it is used with 'for' plus a period or 'since' plus a point of time.
 ---
-## Question 3 [D3]
+## Question 3 [D4]
 **ID:** HN-ING-11-2026-W35-repaso-p4-001-MASTERY-bundle-v3
-**Bloom:** Understand
-**EJE:** Lexico
+**Bloom:** Apply
+**EJE:** Gramatica
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** A review of the second term includes the formation of the passive voice in the past simple.
 
 ### Enunciado
-What is the English word for: "The place to which someone or something is going or being sent."
+Choose the correct passive sentence.
 
 ### Opciones
-- [x] A) destination
-  <!-- feedback: 'destination' names the place a person or thing is going or being sent to. -->
-- [ ] B) departure
-  <!-- feedback: 'departure' is the action of leaving, not the place you leave for. -->
-- [ ] C) arrival
-  <!-- feedback: 'arrival' is the moment of reaching a place, not the place itself. -->
-- [ ] D) journey
-  <!-- feedback: 'journey' is the whole trip from one place to another, not the place at the end of it. -->
+- [ ] A) The new library was build in 1998.
+  <!-- feedback: 'Was build' uses the base form after the auxiliary, which is wrong in the passive. -->
+- [ ] B) The new library is built in 1998.
+  <!-- feedback: 'Is built' is the present passive, and the text refers to a completed event in the past. -->
+- [x] C) The new library was built in 1998.
+  <!-- feedback: Correct! 'Was built' is the past simple passive, formed with 'was' plus the past participle. -->
+- [ ] D) The new library has build in 1998.
+  <!-- feedback: 'Has build' needs the past participle 'built' after 'has'. -->
 
 ### Explicacion Pedagogica
-The word 'destination' is used to describe the place to which someone or something is going or being sent. This is an important vocabulary word in English.
+The passive is formed with a form of 'be' followed by the past participle of the main verb. The two elements must agree in tense.
 ---
 ## Question 4 [D4]
 **ID:** HN-ING-11-2026-W35-repaso-p4-001-MASTERY-bundle-v4
-**Bloom:** Understand
-**EJE:** Lexico
+**Bloom:** Analyze
+**EJE:** Gramatica
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** A review of the second term includes modal verbs in their function of drawing conclusions.
 
 ### Enunciado
-What is the English word for: "Suitcases or other bags in which to pack personal belongings for traveling."
+Choose the sentence with a correct modal of deduction.
 
 ### Opciones
-- [x] D) luggage
-  <!-- feedback: 'luggage' is the collective word for the suitcases and bags you pack for a trip. -->
-- [ ] A) ticket
-  <!-- feedback: 'ticket' is the document you buy that admits you to the journey. -->
-- [ ] B) flight
-  <!-- feedback: 'flight' is the plane or the scheduled trip itself, not the bags you carry. -->
-- [ ] C) reservation
-  <!-- feedback: 'reservation' is the booking you hold for a seat or a room. -->
+- [ ] A) The wet floor means somebody must spilled water.
+  <!-- feedback: 'Must spilled' combines a modal with a past participle directly, which is not a possible form. -->
+- [ ] B) The wet floor means somebody has must spill water.
+  <!-- feedback: 'Has must' places two auxiliaries in the wrong order and in the wrong tense. -->
+- [ ] C) The wet floor means somebody must to spill water.
+  <!-- feedback: 'Must to' adds an infinitive marker after a modal, which is not allowed. -->
+- [x] D) The wet floor means somebody must have spilled water.
+  <!-- feedback: Correct! A deduction about the past takes the modal 'must' plus 'have' plus the past participle. -->
 
 ### Explicacion Pedagogica
-The word 'luggage' is used to describe suitcases or other bags in which to pack personal belongings for traveling. This is an important vocabulary word in English.
+The form 'must have' plus a participle is a single structure. A modal never takes 'to' and never takes a participle on its own.
 ---
-## Question 5 [D5]
+## Question 5 [D3]
 **ID:** HN-ING-11-2026-W35-repaso-p4-001-MASTERY-bundle-v5
-**Bloom:** Understand
-**EJE:** Lexico
+**Bloom:** Apply
+**EJE:** Gramatica
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** A review of the second term includes the conditionals.
 
 ### Enunciado
-What is the English word for: "A traveler on a public or private conveyance other than the driver, pilot, or crew."
+Choose the sentence with a correct first conditional.
 
 ### Opciones
-- [x] B) passenger
-  <!-- feedback: 'passenger' is anyone travelling on a vehicle who is not the driver, the pilot or the crew. -->
-- [ ] A) pedestrian
-  <!-- feedback: 'pedestrian' is a person who travels on foot, not on a bus, a train or a plane. -->
-- [ ] C) commuter
-  <!-- feedback: 'commuter' is someone who travels regularly between home and work, a narrower idea than passenger. -->
-- [ ] D) tourist
-  <!-- feedback: 'tourist' is defined by travelling for pleasure and may also be the driver of a rented car; 'passenger' covers every rider who is not crew. -->
+- [x] A) If it rains, we will cancel the match.
+  <!-- feedback: Correct! The first conditional uses 'if' plus the present simple and 'will' plus the base form. -->
+- [ ] B) If it will rain, we cancel the match.
+  <!-- feedback: 'If it will rain' is not a possible clause; the present simple is required after 'if'. -->
+- [ ] C) If it rains, we cancel the match tomorrow.
+  <!-- feedback: 'We cancel' in the main clause would express a habit rather than a future result. -->
+- [ ] D) If it rained, we will cancel the match.
+  <!-- feedback: 'If it rained' is the second conditional, and the main clause with 'will' does not match it. -->
 
 ### Explicacion Pedagogica
-The word 'passenger' is used to describe a traveler on a public or private conveyance other than the driver, pilot, or crew. This is an important vocabulary word in English.
+In the first conditional the two halves carry different tenses: present simple for the condition and 'will' for the result.
 ---
-## Question 6 [D6]
+## Question 6 [D4]
 **ID:** HN-ING-11-2026-W35-repaso-p4-001-MASTERY-bundle-v6
-**Bloom:** Understand
-**EJE:** Lexico
+**Bloom:** Analyze
+**EJE:** Gramatica
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** A review of the second term includes question tags used in conversation.
 
 ### Enunciado
-What is the English word for: "The place at a port, airport, or frontier where officials check incoming goods, travelers, or luggage."
+Choose the correct question tag.
 
 ### Opciones
-- [x] B) customs
-  <!-- feedback: 'customs' is the office where officials check the goods, the luggage and the travellers entering a country. -->
-- [ ] A) security
-  <!-- feedback: 'security' refers to the staff and the measures that keep the airport safe, not to the goods check. -->
-- [ ] C) terminal
-  <!-- feedback: 'terminal' is the building where you wait for and board your flight. -->
-- [ ] D) gate
-  <!-- feedback: 'gate' is the door you board the plane through, not the place where officials check luggage. -->
+- [ ] A) The film was long, wasn't it being?
+  <!-- feedback: 'Wasn't it being' would add a progressive that the statement does not contain. -->
+- [x] B) The film was long, wasn't it?
+  <!-- feedback: Correct! A positive statement takes a negative tag with the auxiliary of the main clause. -->
+- [ ] C) The film was long, wasn't it has?
+  <!-- feedback: 'Wasn't it has' mixes two auxiliaries, which is not a possible tag. -->
+- [ ] D) The film was long, wasn't it did?
+  <!-- feedback: 'Wasn't it did' places a past auxiliary after the subject, which no tag does. -->
 
 ### Explicacion Pedagogica
-The word 'customs' is used to describe the place at a port, airport, or frontier where officials check incoming goods, travelers, or luggage. This is an important vocabulary word in English.
+The tag reuses the auxiliary and the subject of the statement, and its polarity is the opposite of the statement.
 ---
-## Question 7 [D5]
+## Question 7 [D4]
 **ID:** HN-ING-11-2026-W35-repaso-p4-001-MASTERY-bundle-v7
 **Bloom:** Apply
-**EJE:** Lexico
+**EJE:** Gramatica
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** A review of the second term includes defining relative clauses.
 
 ### Enunciado
-What is the English word for: "A document provided by an airline during check-in, giving a passenger permission to board the airplane."
+Choose the sentence with a correct relative pronoun.
 
 ### Opciones
-- [x] B) boarding pass
-  <!-- feedback: 'boarding pass' is the slip the airline hands over at check-in that lets you board the plane. -->
-- [ ] A) visa
-  <!-- feedback: 'visa' is the official permission to enter and stay in a foreign country. -->
-- [ ] C) receipt
-  <!-- feedback: 'receipt' is the proof of payment for the ticket, not the document that lets you board. -->
-- [ ] D) brochure
-  <!-- feedback: 'brochure' is a small booklet with tourist information, not a travel document. -->
+- [ ] A) The teacher what helped me is leaving the school.
+  <!-- feedback: 'What' introduces a clause that acts as the subject, and it cannot refer to a person here. -->
+- [ ] B) The teacher which helped me is leaving the school.
+  <!-- feedback: 'Which' is used for things in this structure, and the teacher is a person. -->
+- [x] C) The teacher who helped me is leaving the school.
+  <!-- feedback: Correct! 'Who' is the relative pronoun used for people when the clause has its own subject and verb. -->
+- [ ] D) The teacher where helped me is leaving the school.
+  <!-- feedback: 'Where' introduces a clause about a place and would require no verb of its own. -->
 
 ### Explicacion Pedagogica
-The word 'boarding pass' is used to describe a document provided by an airline during check-in, giving a passenger permission to board the airplane. This is an important vocabulary word in English.
+The choice among 'who', 'which', 'what' and 'where' depends on what the pronoun refers to and on whether the clause carries a verb.
 ---
-## Question 8 [D6]
+## Question 8 [D3]
 **ID:** HN-ING-11-2026-W35-repaso-p4-001-MASTERY-bundle-v8
 **Bloom:** Apply
-**EJE:** Lexico
+**EJE:** Gramatica
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** A review of the second term includes phrasal verbs and their particles.
 
 ### Enunciado
-What is the English word for: "The activity of visiting places of interest in a particular location."
+Choose the sentence with a correct phrasal verb.
 
 ### Opciones
-- [x] B) sightseeing
-  <!-- feedback: 'sightseeing' is visiting the places of interest of a location in order to look at them. -->
-- [ ] A) shopping
-  <!-- feedback: 'shopping' is buying things, which is a different activity from visiting sights. -->
-- [ ] C) hiking
-  <!-- feedback: 'hiking' is walking in the countryside along a trail, usually for exercise. -->
-- [ ] D) camping
-  <!-- feedback: 'camping' means spending the night outdoors in a tent. -->
+- [ ] A) Please turn of the light before you leave.
+  <!-- feedback: 'Turn of' is a misspelling, and a phrasal verb particle is a word, not a suffix. -->
+- [ ] B) Please turn off light before you leave.
+  <!-- feedback: 'Turn off light' without the article is not acceptable before a single countable noun. -->
+- [ ] C) Please turn the light off of before you leave.
+  <!-- feedback: 'Turn the light off of' adds a preposition that does not belong to this phrasal verb. -->
+- [x] D) Please turn off the light before you leave.
+  <!-- feedback: Correct! 'Turn off' is the phrasal verb that means to switch a device off. -->
 
 ### Explicacion Pedagogica
-The word 'sightseeing' is used to describe the activity of visiting places of interest in a particular location. This is an important vocabulary word in English.
+A phrasal verb is a fixed unit: the particle cannot be replaced by a similar word and does not take an extra preposition.
 ---
-## Question 9 [D5]
+## Question 9 [D4]
 **ID:** HN-ING-11-2026-W35-repaso-p4-001-MASTERY-bundle-v9
-**Bloom:** Apply
-**EJE:** Lexico
+**Bloom:** Analyze
+**EJE:** Gramatica
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** A review of the second term includes reported speech and the backshift of tenses.
 
 ### Enunciado
-What is the English word for: "A thing that is kept as a reminder of a person, place, or event."
+Choose the correct reported question.
 
 ### Opciones
-- [x] D) souvenir
-  <!-- feedback: 'souvenir' is an object kept because it reminds you of a person, a place or an event. -->
-- [ ] A) gift
-  <!-- feedback: 'gift' is anything given to someone else; a souvenir is kept by the buyer as a reminder. -->
-- [ ] B) award
-  <!-- feedback: 'award' is a distinction given for a merit or an achievement. -->
-- [ ] C) prize
-  <!-- feedback: 'prize' is what is won in a competition, not an object bought to remember a trip. -->
+- [x] A) She asked where the library was.
+  <!-- feedback: Correct! An embedded question restores the declarative order, so the subject comes before the verb. -->
+- [ ] B) She asked where was the library.
+  <!-- feedback: 'Where was the library' keeps the order of a direct question, which does not belong after 'asked'. -->
+- [ ] C) She asked where the library is.
+  <!-- feedback: 'The library is' would not apply the backshift required by the past reporting verb. -->
+- [ ] D) She asked the library where was.
+  <!-- feedback: 'The library where was' places the subject before the question word, which no English structure allows. -->
 
 ### Explicacion Pedagogica
-The word 'souvenir' is used to describe a thing that is kept as a reminder of a person, place, or event. This is an important vocabulary word in English.
+Two changes happen when a question becomes reported: the order is inverted back, and the tense moves one step back.
 ---
-## Question 10 [D6]
+## Question 10 [D3]
 **ID:** HN-ING-11-2026-W35-repaso-p4-001-MASTERY-bundle-v10
 **Bloom:** Apply
-**EJE:** Lexico
+**EJE:** Gramatica
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** A review of the second term includes comparatives and superlatives.
 
 ### Enunciado
-What is the English word for: "A period of time by which something is late or postponed."
+Choose the correct comparative structure.
 
 ### Opciones
-- [x] D) delay
-  <!-- feedback: 'delay' is the extra period of time by which something becomes late or is postponed. -->
-- [ ] A) cancellation
-  <!-- feedback: 'cancellation' ends the booking or the trip altogether rather than pushing it back. -->
-- [ ] B) departure
-  <!-- feedback: 'departure' is the time a vehicle is scheduled to leave, not a postponement. -->
-- [ ] C) arrival
-  <!-- feedback: 'arrival' is the moment you reach the destination, not the waiting time. -->
+- [ ] A) This road is more wide than the one through the mountain.
+  <!-- feedback: 'More wide' mixes the two systems of comparison, which is not correct for this adjective. -->
+- [x] B) This road is wider than the one through the mountain.
+  <!-- feedback: Correct! 'Wider' is the comparative of a short adjective and 'than' introduces the second term of the comparison. -->
+- [ ] C) This road is the widest than the one through the mountain.
+  <!-- feedback: 'The widest' is the superlative and would need 'of' plus a group, not 'than'. -->
+- [ ] D) This road is wider as the one through the mountain.
+  <!-- feedback: 'Wider as' is not a comparison of equality; that structure is 'as ... as'. -->
 
 ### Explicacion Pedagogica
-The word 'delay' is used to describe a period of time by which something is late or postponed. This is an important vocabulary word in English.
+The length of the adjective decides the system: short adjectives take '-er' and 'most', long ones take 'more' and 'most'.
 ---
-## Question 11 [D7]
+## Question 11 [D4]
 **ID:** HN-ING-11-2026-W35-repaso-p4-001-MASTERY-bundle-v11
 **Bloom:** Apply
-**EJE:** Lexico
+**EJE:** Gramatica
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** A review of the second term includes the verbs that link a subject to a description.
 
 ### Enunciado
-What is the English word for: "The act of reporting one's presence and registering, typically at an airport or hotel."
+Choose the sentence with a correct linking verb.
 
 ### Opciones
-- [x] C) check-in
-  <!-- feedback: 'check-in' is reporting your presence at the airport or the hotel and registering. -->
-- [ ] A) check-out
-  <!-- feedback: 'check-out' is the opposite moment: leaving the hotel and settling the bill. -->
-- [ ] B) booking
-  <!-- feedback: 'booking' is reserving the room or the seat in advance, which happens before you arrive. -->
-- [ ] D) reservation
-  <!-- feedback: 'reservation' is the record of that booking, not the act of reporting your presence. -->
+- [ ] A) The result of the experiment was surprising to the researchers.
+  <!-- feedback: 'Were' would not agree with the singular subject 'the result'. -->
+- [ ] B) The result of the experiment were surprising.
+  <!-- feedback: The verb 'were' here also fails, because the subject 'the result' is singular. -->
+- [x] C) The result of the experiment was surprising.
+  <!-- feedback: Correct! 'Was' links a singular subject to an adjective, which is the form this sentence needs. -->
+- [ ] D) The result of the experiment has surprising.
+  <!-- feedback: 'Has' cannot be followed directly by an adjective, so 'has surprising' is not a possible structure. -->
 
 ### Explicacion Pedagogica
-The word 'check-in' is used to describe the act of reporting one's presence and registering, typically at an airport or hotel. This is an important vocabulary word in English.
+'Be' agrees with its subject and is followed by an adjective, never by another verb form.
 ---
-## Question 12 [D8]
+## Question 12 [D4]
 **ID:** HN-ING-11-2026-W35-repaso-p4-001-MASTERY-bundle-v12
-**Bloom:** Apply
-**EJE:** Lexico
+**Bloom:** Analyze
+**EJE:** Gramatica
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** A review of the second term includes expressions for past habits and states.
 
 ### Enunciado
-What is the English word for: "A period of rest or waiting before a further stage in a journey."
+Choose the sentence that uses 'used to' correctly.
 
 ### Opciones
-- [x] C) layover
-  <!-- feedback: 'layover' is the rest or the waiting period between two stages of a journey. -->
-- [ ] A) stopover
-  <!-- feedback: 'stopover' is a break in a journey during which you leave the vehicle, often overnight. -->
-- [ ] B) transfer
-  <!-- feedback: 'transfer' is the change from one vehicle or flight to another, the act rather than the waiting time. -->
-- [ ] D) transit
-  <!-- feedback: 'transit' means passage through a place or the system that carries people, not the pause itself. -->
+- [ ] A) He used living in the countryside.
+  <!-- feedback: 'Used living' needs the infinitive after 'to', which is missing. -->
+- [ ] B) He use to live in the countryside.
+  <!-- feedback: 'Use to' without the -d is not the past form of the verb. -->
+- [ ] C) He is used to live in the countryside.
+  <!-- feedback: 'Is used to' is followed by a gerund or a noun, not by an infinitive, and it means something else. -->
+- [x] D) He used to live in the countryside.
+  <!-- feedback: Correct! 'Used to' plus the base form describes a habit or a state that existed in the past and no longer does. -->
 
 ### Explicacion Pedagogica
-The word 'layover' is used to describe a period of rest or waiting before a further stage in a journey. This is an important vocabulary word in English.
+'Used to' plus an infinitive describes the past. 'Be used to' plus a gerund describes what a person is accustomed to, which is a different meaning.
 ---
-## Question 13 [D7]
+## Question 13 [D3]
 **ID:** HN-ING-11-2026-W35-repaso-p4-001-MASTERY-bundle-v13
-**Bloom:** Analyze
-**EJE:** Lexico
+**Bloom:** Apply
+**EJE:** Gramatica
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** A review of the second term includes the formation of questions with question words.
 
 ### Enunciado
-What is the English word for: "A system of money in general use in a particular country."
+Choose the correct word order in a question with a prepositional phrase.
 
 ### Opciones
-- [x] D) currency
-  <!-- feedback: 'currency' is the whole money system in general use in a particular country. -->
-- [ ] A) coin
-  <!-- feedback: 'coin' is a single round piece of metal money, only one part of a currency. -->
-- [ ] B) banknote
-  <!-- feedback: 'banknote' is a paper note, again only one part of a country's money system. -->
-- [ ] C) cash
-  <!-- feedback: 'cash' is money in coins and notes seen as a form of payment, not the system a country has. -->
+- [x] A) Where did you put the keys?
+  <!-- feedback: Correct! A wh-question places the question word first, then the auxiliary, then the subject, then the verb and the object. -->
+- [ ] B) Where you did put the keys?
+  <!-- feedback: 'Where you did put' inverts the subject and the auxiliary wrongly for a question. -->
+- [ ] C) Where put you the keys?
+  <!-- feedback: 'Put you' places the main verb before the subject, which no English question does. -->
+- [ ] D) Where did the keys you put?
+  <!-- feedback: 'Where did the keys you put' leaves the direct object before the verb, which is not English word order. -->
 
 ### Explicacion Pedagogica
-The word 'currency' is used to describe a system of money in general use in a particular country. This is an important vocabulary word in English.
+The fixed order of a wh-question is question word, auxiliary, subject, verb, complement. The rule applies to every element that follows.
 ---
-## Question 14 [D8]
+## Question 14 [D3]
 **ID:** HN-ING-11-2026-W35-repaso-p4-001-MASTERY-bundle-v14
-**Bloom:** Analyze
-**EJE:** Lexico
+**Bloom:** Apply
+**EJE:** Gramatica
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** A review of the second term includes infinitives of purpose.
 
 ### Enunciado
-What is the English word for: "A book of information about a place designed for the use of visitors or tourists."
+Choose the sentence with a correct infinitive after a verb of purpose.
 
 ### Opciones
-- [x] B) guidebook
-  <!-- feedback: 'guidebook' is a book of information about a place written for the use of visitors. -->
-- [ ] A) map
-  <!-- feedback: 'map' is a drawing of the area, not a book of information. -->
-- [ ] C) dictionary
-  <!-- feedback: 'dictionary' explains the words of a language, not the places of a region. -->
-- [ ] D) encyclopedia
-  <!-- feedback: 'encyclopedia' covers all branches of knowledge, not one destination for tourists. -->
+- [ ] A) She called the clinic for make an appointment.
+  <!-- feedback: 'For make' mixes a preposition with a base form, which is not a possible combination. -->
+- [x] B) She called the clinic to make an appointment.
+  <!-- feedback: Correct! 'To make' is the infinitive of purpose and it explains why the call was made. -->
+- [ ] C) She called the clinic making an appointment.
+  <!-- feedback: 'Making' is a gerund, and a gerund cannot serve as the purpose complement in this structure. -->
+- [ ] D) She called the clinic made an appointment.
+  <!-- feedback: 'Made' is a past form and cannot follow the verb of calling in that slot. -->
 
 ### Explicacion Pedagogica
-The word 'guidebook' is used to describe a book of information about a place designed for the use of visitors or tourists. This is an important vocabulary word in English.
+The infinitive of purpose answers the question 'why'. It is placed after the main clause, not after a preposition.
 ---
-## Question 15 [D7]
+## Question 15 [D3]
 **ID:** HN-ING-11-2026-W35-repaso-p4-001-MASTERY-bundle-v15
-**Bloom:** Analyze
-**EJE:** Lexico
+**Bloom:** Apply
+**EJE:** Gramatica
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** A review of the second term includes negative forms of the simple present and the simple past.
 
 ### Enunciado
-What is the English word for: "A bag with shoulder straps that allow it to be carried on one's back."
+Choose the sentence with a correct negative form.
 
 ### Opciones
-- [x] C) backpack
-  <!-- feedback: 'backpack' has shoulder straps and is carried on the back. -->
-- [ ] A) suitcase
-  <!-- feedback: 'suitcase' is a case with a handle that is pulled along, not one worn on the back. -->
-- [ ] B) briefcase
-  <!-- feedback: 'briefcase' is a flat case for documents that you carry by hand at work. -->
-- [ ] D) handbag
-  <!-- feedback: 'handbag' is a small bag held in the hand, usually for personal items. -->
+- [ ] A) He don't have any brothers.
+  <!-- feedback: 'Don't' does not agree with the third person subject 'he'. -->
+- [ ] B) He doesn't has any brothers.
+  <!-- feedback: 'Doesn't has' would place a base form after the auxiliary, which is wrong in the negative. -->
+- [x] C) He doesn't have any brothers.
+  <!-- feedback: Correct! The auxiliary 'does' takes the negative particle 'not', and the main verb keeps its base form. -->
+- [ ] D) He not have any brothers.
+  <!-- feedback: 'Not' cannot be used on its own as the negative of a simple present clause. -->
 
 ### Explicacion Pedagogica
-The word 'backpack' is used to describe a bag with shoulder straps that allow it to be carried on one's back. This is an important vocabulary word in English.
+In the negative, the auxiliary carries the negation and the main verb returns to its base form. The two elements work together.
 ---
-## Question 16 [D8]
+## Question 16 [D4]
 **ID:** HN-ING-11-2026-W35-repaso-p4-001-MASTERY-bundle-v16
-**Bloom:** Analyze
-**EJE:** Lexico
+**Bloom:** Apply
+**EJE:** Gramatica
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** A review of the second term includes the future forms.
 
 ### Enunciado
-What is the English word for: "In or to a foreign country, especially one across the sea."
+Choose the correct sentence with a future form.
 
 ### Opciones
-- [x] D) overseas
-  <!-- feedback: 'overseas' means in or to a foreign country, especially one across the sea. -->
-- [ ] A) domestic
-  <!-- feedback: 'domestic' means inside the same country, which is the opposite of overseas. -->
-- [ ] B) local
-  <!-- feedback: 'local' means belonging to a small area nearby, not to a foreign country. -->
-- [ ] C) national
-  <!-- feedback: 'national' means concerning the whole nation and says nothing about being abroad. -->
+- [ ] A) I will meeting the guide at six.
+  <!-- feedback: 'Will meeting' combines a modal with a gerund, which is not a possible form. -->
+- [ ] B) I meeting the guide at six.
+  <!-- feedback: 'I meeting' has no auxiliary, so the clause is not finite. -->
+- [ ] C) I am meet the guide at six.
+  <!-- feedback: 'Am meet' places a base form after the auxiliary, which is not allowed. -->
+- [x] D) I am meeting the guide at six.
+  <!-- feedback: Correct! The present continuous can express a fixed arrangement in the near future. -->
 
 ### Explicacion Pedagogica
-The word 'overseas' is used to describe in or to a foreign country, especially one across the sea. This is an important vocabulary word in English.
+The present continuous with 'be' plus a gerund describes a plan already arranged, which is one of its uses in the future meaning.
 ---
-## Question 17 [D9]
+## Question 17 [D4]
 **ID:** HN-ING-11-2026-W35-repaso-p4-001-MASTERY-bundle-v17
-**Bloom:** Evaluate
-**EJE:** Lexico
+**Bloom:** Apply
+**EJE:** Gramatica
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** A review of the second term includes verbs followed by a gerund and by an infinitive.
 
 ### Enunciado
-What is the English word for: "An estimate of income and expenditure for a set period of time."
+Choose the correct sentence with a gerund after a preposition.
 
 ### Opciones
-- [x] A) budget
-  <!-- feedback: 'budget' is an estimate of income and expenditure planned for a set period. -->
-- [ ] B) expense
-  <!-- feedback: 'expense' is a single amount of money that is spent, not the plan for a whole period. -->
-- [ ] C) cost
-  <!-- feedback: 'cost' is what one item or one service costs, again not an estimate for a period. -->
-- [ ] D) price
-  <!-- feedback: 'price' is the sum a customer pays for one product; a budget covers income and spending together. -->
+- [x] A) She is good at solving problems.
+  <!-- feedback: Correct! 'At' is followed by a gerund, so 'solving' is the correct form. -->
+- [ ] B) She is good at solve problems.
+  <!-- feedback: 'At solve' places a base form after a preposition, which is not allowed in English. -->
+- [ ] C) She is good for solving problems.
+  <!-- feedback: 'Good for' expresses suitability for a purpose, which is not what the sentence means. -->
+- [ ] D) She is good solving problems.
+  <!-- feedback: The gerund is required after 'good at', and here it is missing. -->
 
 ### Explicacion Pedagogica
-The word 'budget' is used to describe an estimate of income and expenditure for a set period of time. This is an important vocabulary word in English.
+A preposition is always followed by a gerund, never by an infinitive. Verbs differ, and the preposition does not.
 ---
-## Question 18 [D10]
+## Question 18 [D4]
 **ID:** HN-ING-11-2026-W35-repaso-p4-001-MASTERY-bundle-v18
-**Bloom:** Evaluate
-**EJE:** Lexico
+**Bloom:** Analyze
+**EJE:** Gramatica
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** A review of the second term includes the sequence of past tenses.
 
 ### Enunciado
-What is the English word for: "A practice or arrangement by which a company or government agency provides a guarantee of compensation for specified loss, damage, illness, or death in return for payment of a premium."
+Choose the sentence that reports a past action in the past perfect.
 
 ### Opciones
-- [x] B) insurance
-  <!-- feedback: 'insurance' is the arrangement in which a company pays compensation for a loss in exchange for a premium. -->
-- [ ] A) warranty
-  <!-- feedback: 'warranty' is the maker's promise to repair or replace a faulty product, normally free of charge. -->
-- [ ] C) guarantee
-  <!-- feedback: 'guarantee' is a general promise of quality and does not involve paying a premium. -->
-- [ ] D) policy
-  <!-- feedback: 'policy' is the written document that states what an insurance contract covers. -->
+- [ ] A) By the time we arrived, the film has already started.
+  <!-- feedback: 'Has started' is the present perfect, and it cannot describe a moment before a past arrival. -->
+- [x] B) By the time we arrived, the film had already started.
+  <!-- feedback: Correct! 'Had started' is the past perfect, which places an action before another past action. -->
+- [ ] C) By the time we arrived, the film was already start.
+  <!-- feedback: 'Was already start' places a base form after a form of 'be', which is not allowed. -->
+- [ ] D) By the time we arrived, the film had already start.
+  <!-- feedback: 'Had already start' needs the past participle 'started' after the auxiliary 'had'. -->
 
 ### Explicacion Pedagogica
-The word 'insurance' is used to describe a practice or arrangement by which a company or government agency provides a guarantee of compensation for specified loss, damage, illness, or death in return for payment of a premium. This is an important vocabulary word in English.
+The past perfect expresses the earlier of two past events. Its form is 'had' plus the past participle.
 ---
-## Question 19 [D9]
+## Question 19 [D4]
 **ID:** HN-ING-11-2026-W35-repaso-p4-001-MASTERY-bundle-v19
-**Bloom:** Evaluate
-**EJE:** Lexico
+**Bloom:** Apply
+**EJE:** Gramatica
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** A review of the second term includes the use of articles with geographical names.
 
 ### Enunciado
-What is the English word for: "Treatment with a vaccine to produce immunity against a disease."
+Choose the sentence with a correct use of the article.
 
 ### Opciones
-- [x] B) vaccination
-  <!-- feedback: 'vaccination' is the treatment with a vaccine that makes the body immune to a disease. -->
-- [ ] A) medication
-  <!-- feedback: 'medication' is a drug taken to treat an illness, not to prevent one. -->
-- [ ] C) prescription
-  <!-- feedback: 'prescription' is the written order that authorises a medicine, not the treatment itself. -->
-- [ ] D) infection
-  <!-- feedback: 'infection' is the disease itself, the opposite of the protection a vaccination gives. -->
+- [ ] A) Sun rose over mountains at six.
+  <!-- feedback: Omitting both articles leaves the sentence without the determiners the nouns require. -->
+- [ ] B) The sun rose over mountains at six.
+  <!-- feedback: The first article is correct but the range of mountains also needs a definite article in this use. -->
+- [x] C) The sun rose over the mountains at six.
+  <!-- feedback: Correct! Definite articles are used for the sun and for a mountain range treated as a single whole. -->
+- [ ] D) A sun rose over the mountains at six.
+  <!-- feedback: 'A sun' would introduce one sun among several, which is not the meaning here. -->
 
 ### Explicacion Pedagogica
-The word 'vaccination' is used to describe treatment with a vaccine to produce immunity against a disease. This is an important vocabulary word in English.
+Some nouns in English always take 'the', among them the sun, the sea and names of mountain ranges, whatever their length.
 ---
-## Question 20 [D10]
+## Question 20 [D3]
 **ID:** HN-ING-11-2026-W35-repaso-p4-001-MASTERY-bundle-v20
-**Bloom:** Evaluate
-**EJE:** Lexico
+**Bloom:** Apply
+**EJE:** Gramatica
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** A review of the second term includes the modals of obligation, advice and permission.
 
 ### Enunciado
-What is the English word for: "Extreme tiredness and other physical effects felt by a person after a long flight across several time zones."
+Choose the sentence with a correct modal of obligation.
 
 ### Opciones
-- [x] B) jet lag
-  <!-- feedback: 'jet lag' is the tiredness and the disturbed sleep caused by crossing several time zones on a flight. -->
-- [ ] A) fatigue
-  <!-- feedback: 'fatigue' is tiredness that can come from any long effort, not specifically from a flight. -->
-- [ ] C) exhaustion
-  <!-- feedback: 'exhaustion' is the extreme form of tiredness after hard work or a lack of sleep. -->
-- [ ] D) insomnia
-  <!-- feedback: 'insomnia' is the inability to fall asleep, which has many causes besides travel. -->
+- [ ] A) All applicants must to submit a copy of the document.
+  <!-- feedback: 'Must to submit' adds an infinitive marker after a modal, which is not allowed. -->
+- [ ] B) All applicants must submits a copy of the document.
+  <!-- feedback: 'Must submits' adds an -s ending to a verb that must stay in the base form after a modal. -->
+- [ ] C) All applicants are must submit a copy of the document.
+  <!-- feedback: 'Are must' places two auxiliaries in one clause, which is not a possible structure. -->
+- [x] D) All applicants must submit a copy of the document.
+  <!-- feedback: Correct! A modal of obligation is followed by the base form of the main verb. -->
 
 ### Explicacion Pedagogica
-The word 'jet lag' is used to describe extreme tiredness and other physical effects felt by a person after a long flight across several time zones. This is an important vocabulary word in English.
+A modal never changes form and never takes an infinitive marker, so the verb that follows it must be a bare infinitive.
+---

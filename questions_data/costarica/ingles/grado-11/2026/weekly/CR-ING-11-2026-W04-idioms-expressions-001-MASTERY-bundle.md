@@ -20,463 +20,464 @@ bundle_index: 1
 # MASTERY Bundle - Ingles: Idioms Expressions (W04)
 **20 preguntas | Ingles | Curriculo de Ingles**
 
+
 ---
 ## Question 1 [D3]
-**ID:** CR-ING-11-2026-W04-idioms-expressions-001-MASTERY-bundle-v1
-**Bloom:** Remember
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
-
-### Enunciado
-What is the English word for: "A place where you live or stay on holiday."
-
-### Opciones
-- [x] C) accommodation
-  <!-- feedback: Correct! 'accommodation' is the place where you live or stay, especially on holiday, and it is the word the definition asks for. -->
-- [ ] A) transportation
-  <!-- feedback: 'transportation' is the system that moves people or goods (buses, trains, taxis), not a place where you live or stay. -->
-- [ ] B) entertainment
-  <!-- feedback: 'entertainment' means the shows, music and activities that amuse you, so it names an experience rather than a place. -->
-- [ ] D) currency
-  <!-- feedback: 'currency' is the money system of a country, such as the dollar or the colon, so it has nothing to do with a place to stay. -->
-
-### Explicacion Pedagogica
-The word 'accommodation' is used to describe a place where you live or stay on holiday. This is an important vocabulary word in English.
----
-## Question 2 [D4]
-**ID:** CR-ING-11-2026-W04-idioms-expressions-001-MASTERY-bundle-v2
-**Bloom:** Remember
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
-
-### Enunciado
-What is the English word for: "A detailed plan or route of a journey."
-
-### Opciones
-- [x] C) itinerary
-  <!-- feedback: Correct! An 'itinerary' is the detailed plan or route of a journey: it lists the places, stops and times in order. -->
-- [ ] A) baggage
-  <!-- feedback: 'baggage' means the suitcases and bags you travel with, not the plan that organises the trip. -->
-- [ ] B) destination
-  <!-- feedback: 'destination' is the place you are travelling to, one single stop of the plan rather than the plan itself. -->
-- [ ] D) passport
-  <!-- feedback: 'passport' is the official travel document you show at the border, not a description of the journey route. -->
-
-### Explicacion Pedagogica
-The word 'itinerary' is used to describe a detailed plan or route of a journey. This is an important vocabulary word in English.
----
-## Question 3 [D3]
-**ID:** CR-ING-11-2026-W04-idioms-expressions-001-MASTERY-bundle-v3
+**ID:** CR-ING-11-2026-W04-idioms-expressions-v1
 **Bloom:** Understand
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**EJE:** Linguistic Competence
+**Expected_Success:** 0.85
+**Contexto:** The mechanic told the driver: 'Your engine is smoking. I would not drive that car if I were you.'
 
 ### Enunciado
-What is the English word for: "The place to which someone or something is going or being sent."
+The idiom 'not my cup of tea' means what?
 
 ### Opciones
-- [x] D) destination
-  <!-- feedback: Correct! A 'destination' is the place to which someone or something is going or being sent. -->
-- [ ] A) departure
-  <!-- feedback: 'departure' is the act of leaving, the opposite side of the trip; the definition asks for the place, not the action. -->
-- [ ] B) arrival
-  <!-- feedback: 'arrival' is the event of getting there, but a definition needs the place itself, not the moment of reaching it. -->
-- [ ] C) journey
-  <!-- feedback: 'journey' is the whole trip from one place to another, whereas the definition names only where it ends. -->
+- [x] B) Something the speaker does not enjoy
+  <!-- feedback: 'Not my cup of tea' is an informal British borrowing used in Latin America too, and it describes a dislike without hostility. -->
+- [ ] C) Something the speaker is afraid of
+  <!-- feedback: The idiom has no element of fear; 'afraid of' is expressed with a different set of words entirely. -->
+- [ ] D) Something the speaker has never heard of
+  <!-- feedback: Ignorance is expressed as 'I've never heard of it', and the speaker in the context knows the idiom well. -->
+- [ ] A) Something the speaker considers a duty
+  <!-- feedback: A duty is expressed with 'my job' or 'my responsibility', not with this phrase. -->
 
 ### Explicacion Pedagogica
-The word 'destination' is used to describe the place to which someone or something is going or being sent. This is an important vocabulary word in English.
+Idioms cannot be decoded word by word, so the learner has to store the whole expression. 'Not my cup of tea' comes from British tea-drinking culture and is widely used in informal English to decline something without giving a strong reason.
+---
+## Question 2 [D3]
+**ID:** CR-ING-11-2026-W04-idioms-expressions-v2
+**Bloom:** Apply
+**EJE:** Linguistic Competence
+**Expected_Success:** 0.85
+**Contexto:** A farmer says his crop failed because of the dry season.
+
+### Enunciado
+Which sentence uses the idiom correctly?
+
+### Opciones
+- [x] A) The harvest went down the drain after three months without rain.
+  <!-- feedback: 'Go down the drain' means to be lost or ruined, which is exactly what happened to the harvest. -->
+- [ ] B) The harvest went down the drain where the teacher sits.
+  <!-- feedback: The idiom has no relation to the location of a teacher, so the prepositional tail is ungrammatical. -->
+- [ ] C) The harvest went down the drain how the rain fell.
+  <!-- feedback: The idiom is not a clause about the rain, and it cannot be followed by a manner clause beginning with 'how'. -->
+- [ ] D) The harvest went down the drain that rain fell.
+  <!-- feedback: The relative clause with 'that' has no subject of its own inside this fixed expression. -->
+
+### Explicacion Pedagogica
+Idioms are fixed expressions: their prepositions cannot be replaced and their internal syntax cannot be extended. The three broken options show what happens when a learner treats the phrase as ordinary vocabulary and tries to insert a clause inside it.
+---
+## Question 3 [D4]
+**ID:** CR-ING-11-2026-W04-idioms-expressions-v3
+**Bloom:** Analyze
+**EJE:** Linguistic Competence
+**Expected_Success:** 0.8
+**Contexto:** A student says about the school debate: 'I was dying to hear what the other team would say.'
+
+### Enunciado
+What does the idiom 'to be dying to' mean?
+
+### Opciones
+- [x] C) To want something very much
+  <!-- feedback: 'Be dying to' plus an infinitive expresses strong desire, and hearing the debate was what the student wanted. -->
+- [ ] D) To be close to dying
+  <!-- feedback: The literal reading about illness has no support in the context, which is about a school debate. -->
+- [ ] A) To be very tired
+  <!-- feedback: Extreme tiredness would be expressed by 'be exhausted', which names tiredness rather than desire. -->
+- [ ] B) To refuse to do something
+  <!-- feedback: Refusal is expressed by 'refuse to' or 'be unwilling to', neither of which appears here. -->
+
+### Explicacion Pedagogica
+The expression is a hyperbole: the speaker is not ill, only extremely eager. Learners who know the idiom can use it in informal speech to explain enthusiasm, and they can also recognise it in a reading passage.
 ---
 ## Question 4 [D4]
-**ID:** CR-ING-11-2026-W04-idioms-expressions-001-MASTERY-bundle-v4
+**ID:** CR-ING-11-2026-W04-idioms-expressions-v4
 **Bloom:** Understand
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**EJE:** Linguistic Competence
+**Expected_Success:** 0.8
+**Contexto:** Two friends are talking about final examinations: 'We have to bite the bullet and study all night.'
 
 ### Enunciado
-What is the English word for: "Suitcases or other bags in which to pack personal belongings for traveling."
+What does the idiom 'to bite the bullet' mean?
 
 ### Opciones
-- [x] C) luggage
-  <!-- feedback: Correct! 'luggage' is the collective word for the suitcases and bags in which personal belongings are packed for travelling. -->
-- [ ] A) ticket
-  <!-- feedback: a 'ticket' is the document that gives you the right to travel; it carries nothing at all. -->
-- [ ] B) flight
-  <!-- feedback: a 'flight' is the trip itself by plane, not the bags you pack for it. -->
-- [ ] D) reservation
-  <!-- feedback: a 'reservation' is the booking held for a seat or a room, not the container where clothes go. -->
+- [x] B) To accept something unpleasant with courage
+  <!-- feedback: 'Bite the bullet' means to endure an unpleasant necessity, which is what studying all night after a whole term requires. -->
+- [ ] C) To eat a hard object by accident
+  <!-- feedback: The literal reading of eating something hard is not intended; the expression comes from old military surgery. -->
+- [ ] D) To speak very loudly about a problem
+  <!-- feedback: Speaking loudly is described by 'speak up' or 'raise one's voice', which is a different phrase. -->
+- [ ] A) To avoid a difficult decision for ever
+  <!-- feedback: Avoiding the decision forever is the opposite of what the idiom expresses, which is acceptance. -->
 
 ### Explicacion Pedagogica
-The word 'luggage' is used to describe suitcases or other bags in which to pack personal belongings for traveling. This is an important vocabulary word in English.
+The origin is a field operation without anaesthesia, where a soldier bit on a leather strap during surgery. In modern English the phrase names stoicism under necessity, which is why it appears in school and workplace conversations alike.
 ---
-## Question 5 [D5]
-**ID:** CR-ING-11-2026-W04-idioms-expressions-001-MASTERY-bundle-v5
-**Bloom:** Understand
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+## Question 5 [D4]
+**ID:** CR-ING-11-2026-W04-idioms-expressions-v5
+**Bloom:** Analyze
+**EJE:** Linguistic Competence
+**Expected_Success:** 0.8
+**Contexto:** A news report describes a vote in the congress: only three deputies turned up.
 
 ### Enunciado
-What is the English word for: "A traveler on a public or private conveyance other than the driver, pilot, or crew."
+The news report says the session was a ____, because nobody came.
 
 ### Opciones
-- [x] D) passenger
-  <!-- feedback: Correct! A 'passenger' is a traveller on a public or private conveyance who is neither the driver, the pilot nor the crew. -->
-- [ ] A) pedestrian
-  <!-- feedback: a 'pedestrian' travels on foot, so there is no driver, pilot or crew in the vehicle at all. -->
-- [ ] B) commuter
-  <!-- feedback: a 'commuter' is defined by the regular trip to work or study, not by riding any conveyance. -->
-- [ ] C) tourist
-  <!-- feedback: a 'tourist' travels for pleasure and visits places of interest; the definition here is about the role on the vehicle. -->
+- [x] B) farce
+  <!-- feedback: 'A farce' is a piece of theatre written for comic effect, and calling an empty session a farce is a sarcastic comment. -->
+- [ ] C) purchase
+  <!-- feedback: 'Purchase' names a commercial transaction and has no idiomatic use with 'session'. -->
+- [ ] D) harvest
+  <!-- feedback: 'Harvest' is the gathering of crops, and a congress session is not a farm activity. -->
+- [ ] A) shortage
+  <!-- feedback: 'Shortage' names a lack of quantity, but 'shortage' is not a word that describes a session as absurd. -->
 
 ### Explicacion Pedagogica
-The word 'passenger' is used to describe a traveler on a public or private conveyance other than the driver, pilot, or crew. This is an important vocabulary word in English.
+English uses nouns from theatrical and legal registers to characterise events metaphorically. A session with almost no deputies is a farce; a court case with no evidence is a travesty; both belong to the same family of figurative labels that an advanced reader should recognise.
 ---
-## Question 6 [D6]
-**ID:** CR-ING-11-2026-W04-idioms-expressions-001-MASTERY-bundle-v6
-**Bloom:** Understand
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+## Question 6 [D5]
+**ID:** CR-ING-11-2026-W04-idioms-expressions-v6
+**Bloom:** Apply
+**EJE:** Linguistic Competence
+**Expected_Success:** 0.8
+**Contexto:** A carpenter explains that a screw, once rusted into the wood, cannot be removed easily.
 
 ### Enunciado
-What is the English word for: "The place at a port, airport, or frontier where officials check incoming goods, travelers, or luggage."
+Which phrase describes what happened to the screw?
 
 ### Opciones
-- [x] B) customs
-  <!-- feedback: Correct! 'customs' is the place at a port, airport or frontier where officials check incoming goods, travellers and luggage. -->
-- [ ] A) security
-  <!-- feedback: 'security' staff prevent accidents and crime inside the building; the officials who check goods and travellers are customs. -->
-- [ ] C) terminal
-  <!-- feedback: a 'terminal' is the building where passengers wait for a departure, not the office where the checks are done. -->
-- [ ] D) gate
-  <!-- feedback: a 'gate' is the door or boarding point on the aircraft, not the place where officials inspect your belongings. -->
+- [x] C) stuck in a rut
+  <!-- feedback: 'In a rut' means to be trapped in an unchanging routine, and the screw is fixed in the same groove. -->
+- [ ] D) stuck in a rat
+  <!-- feedback: 'A rat' is a rodent and has no idiomatic use with 'stuck'. -->
+- [ ] A) stuck in a hut
+  <!-- feedback: 'A hut' is a small house, so the phrase would describe a building, not a screw. -->
+- [ ] B) stuck in a nut
+  <!-- feedback: 'A nut' is a piece of hardware, but 'stuck in a nut' is not an English expression. -->
 
 ### Explicacion Pedagogica
-The word 'customs' is used to describe the place at a port, airport, or frontier where officials check incoming goods, travelers, or luggage. This is an important vocabulary word in English.
+'In a rut' is one of the smallest idioms in English: two ordinary words that cannot be rearranged. It describes both a physical groove and, by extension, a habit or routine that a person cannot leave.
 ---
 ## Question 7 [D5]
-**ID:** CR-ING-11-2026-W04-idioms-expressions-001-MASTERY-bundle-v7
-**Bloom:** Apply
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**ID:** CR-ING-11-2026-W04-idioms-expressions-v7
+**Bloom:** Analyze
+**EJE:** Linguistic Competence
+**Expected_Success:** 0.8
+**Contexto:** A journalist writes that the government has ignored every warning about the river pollution.
 
 ### Enunciado
-What is the English word for: "A document provided by an airline during check-in, giving a passenger permission to board the airplane."
+Which idiom best describes the government in the article?
 
 ### Opciones
-- [x] C) boarding pass
-  <!-- feedback: Correct! A 'boarding pass' is the document the airline issues at check-in that gives the passenger permission to board. -->
-- [ ] A) visa
-  <!-- feedback: a 'visa' is the permission to enter a country, obtained before the trip and not from the airline. -->
-- [ ] B) receipt
-  <!-- feedback: a 'receipt' only proves that you paid; it does not let you board the plane. -->
-- [ ] D) brochure
-  <!-- feedback: a 'brochure' is printed information about the airline or the destination, not a travel document. -->
+- [x] D) turned a deaf ear
+  <!-- feedback: 'Turn a deaf ear' means to refuse to listen, which matches warnings that were ignored. -->
+- [ ] A) turned a blind eye to it
+  <!-- feedback: 'Turn a blind eye' means to pretend not to see, which is close but requires a visible event rather than words heard. -->
+- [ ] B) turned a deaf eye and a blind ear to it
+  <!-- feedback: Joining both idioms in one clause produces a blend that no speaker uses and that sounds like a translation. -->
+- [ ] C) turned a deaf year
+  <!-- feedback: 'A deaf year' is not an English expression and cannot follow 'turned'. -->
 
 ### Explicacion Pedagogica
-The word 'boarding pass' is used to describe a document provided by an airline during check-in, giving a passenger permission to board the airplane. This is an important vocabulary word in English.
+English has separate idioms for refusing to hear and for pretending not to see, and learners often blend them because Spanish uses a single verb for both. This item asks the student to keep the two apart and to reject invented combinations.
 ---
-## Question 8 [D6]
-**ID:** CR-ING-11-2026-W04-idioms-expressions-001-MASTERY-bundle-v8
-**Bloom:** Apply
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+## Question 8 [D5]
+**ID:** CR-ING-11-2026-W04-idioms-expressions-v8
+**Bloom:** Evaluate
+**EJE:** Linguistic Competence
+**Expected_Success:** 0.8
+**Contexto:** A coach tells the team before the final: 'The match will be tough, but we can handle it.'
 
 ### Enunciado
-What is the English word for: "The activity of visiting places of interest in a particular location."
+Which idiom in the coach's words expresses confidence in the team's ability?
 
 ### Opciones
-- [x] B) sightseeing
-  <!-- feedback: Correct! 'sightseeing' is the activity of visiting the places of interest of a location. -->
-- [ ] A) shopping
-  <!-- feedback: 'shopping' is buying things in stores, not the general activity of visiting a place's sights. -->
-- [ ] C) hiking
-  <!-- feedback: 'hiking' is one specific outdoor walk in nature, only one kind of activity out of many. -->
-- [ ] D) camping
-  <!-- feedback: 'camping' means staying outdoors in a tent, which is not what a visitor does in a city or landmark. -->
+- [x] D) handle it
+  <!-- feedback: 'Handle it' means to manage a difficult situation successfully, which is the sense of the coach's confidence. -->
+- [ ] A) handle the sky
+  <!-- feedback: 'Handle the sky' is not an English idiom; the sky is not something a team can control. -->
+- [ ] B) hand it over
+  <!-- feedback: 'Hand it over' means to surrender something to another person, which is the opposite of managing it. -->
+- [ ] C) hang it up
+  <!-- feedback: 'Hang it up' means to stop an activity, as in hanging up the phone, and would end the effort. -->
 
 ### Explicacion Pedagogica
-The word 'sightseeing' is used to describe the activity of visiting places of interest in a particular location. This is an important vocabulary word in English.
+Every idiom here begins with the same verb, so the test isolates the particle. Only 'handle it' expresses the ability to cope, and the three distractors reuse the same verb in unrelated senses, which is the typical confusion in exam options.
 ---
 ## Question 9 [D5]
-**ID:** CR-ING-11-2026-W04-idioms-expressions-001-MASTERY-bundle-v9
-**Bloom:** Apply
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**ID:** CR-ING-11-2026-W04-idioms-expressions-v9
+**Bloom:** Understand
+**EJE:** Linguistic Competence
+**Expected_Success:** 0.75
+**Contexto:** After the storm, the family found their garden in ruins and had to rebuild everything.
 
 ### Enunciado
-What is the English word for: "A thing that is kept as a reminder of a person, place, or event."
+The idiom 'to pull one's fingers out' means what?
 
 ### Opciones
-- [x] C) souvenir
-  <!-- feedback: Correct! A 'souvenir' is the object that is kept as a reminder of a person, place or event. -->
-- [ ] A) gift
-  <!-- feedback: a 'gift' is something given to someone, but it is not necessarily kept as a reminder of a place or an event. -->
-- [ ] B) award
-  <!-- feedback: an 'award' is an honour granted by an institution for merit, not a keepsake. -->
-- [ ] D) prize
-  <!-- feedback: a 'prize' is the reward of a competition; the definition describes an object kept as a memento. -->
+- [x] A) To work hard instead of being lazy
+  <!-- feedback: 'Pull one's fingers out' means to make an effort and stop being idle, which is what rebuilding required. -->
+- [ ] B) To examine one's hands carefully
+  <!-- feedback: The literal reference to hands is figurative and does not describe an inspection of fingers. -->
+- [ ] C) To plant vegetables again
+  <!-- feedback: Planting vegetables would be described by verbs such as 'plant' or 'sow', which is a different activity. -->
+- [ ] D) To count the days until the storm returns
+  <!-- feedback: Waiting for the storm to return is described by waiting, and the phrase carries no idea of time. -->
 
 ### Explicacion Pedagogica
-The word 'souvenir' is used to describe a thing that is kept as a reminder of a person, place, or event. This is an important vocabulary word in English.
+The idiom comes from the military command to stop fiddling and start working. In British and Latin American English it is a fairly direct reminder to stop being lazy, and it appears frequently in workplace and school conversations.
 ---
-## Question 10 [D6]
-**ID:** CR-ING-11-2026-W04-idioms-expressions-001-MASTERY-bundle-v10
-**Bloom:** Apply
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
-
-### Enunciado
-What is the English word for: "A period of time by which something is late or postponed."
-
-### Opciones
-- [x] A) delay
-  <!-- feedback: Correct! A 'delay' is the extra period of time by which something ends up late or postponed. -->
-- [ ] B) cancellation
-  <!-- feedback: a 'cancellation' means the trip or event will not happen at all, not that it happens later. -->
-- [ ] C) departure
-  <!-- feedback: 'departure' is simply the moment of leaving, which can be perfectly punctual. -->
-- [ ] D) arrival
-  <!-- feedback: 'arrival' is the moment of reaching the place, and it says nothing about being late. -->
-
-### Explicacion Pedagogica
-The word 'delay' is used to describe a period of time by which something is late or postponed. This is an important vocabulary word in English.
----
-## Question 11 [D7]
-**ID:** CR-ING-11-2026-W04-idioms-expressions-001-MASTERY-bundle-v11
-**Bloom:** Apply
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
-
-### Enunciado
-What is the English word for: "The act of reporting one's presence and registering, typically at an airport or hotel."
-
-### Opciones
-- [x] A) check-in
-  <!-- feedback: Correct! 'Check-in' is the act of reporting your presence and registering at an airport or hotel counter. -->
-- [ ] B) check-out
-  <!-- feedback: 'check-out' is the opposite moment, when you pay and hand the room key back before leaving. -->
-- [ ] C) booking
-  <!-- feedback: 'booking' is the reservation made beforehand; check-in is what you do on arrival. -->
-- [ ] D) reservation
-  <!-- feedback: a 'reservation' is the earlier record of your booking, not the act of registering your presence. -->
-
-### Explicacion Pedagogica
-The word 'check-in' is used to describe the act of reporting one's presence and registering, typically at an airport or hotel. This is an important vocabulary word in English.
----
-## Question 12 [D8]
-**ID:** CR-ING-11-2026-W04-idioms-expressions-001-MASTERY-bundle-v12
-**Bloom:** Apply
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
-
-### Enunciado
-What is the English word for: "A period of rest or waiting before a further stage in a journey."
-
-### Opciones
-- [x] C) layover
-  <!-- feedback: Correct! A 'layover' is a period of rest or waiting between two further stages of a journey. -->
-- [ ] A) stopover
-  <!-- feedback: 'stopover' is used mainly for trains and usually for a longer, often overnight, break on a rail journey. -->
-- [ ] B) transfer
-  <!-- feedback: a 'transfer' is the change from one vehicle or flight to another, not the pause itself. -->
-- [ ] D) transit
-  <!-- feedback: 'transit' means the action of passing through a place, with no idea of resting between stages. -->
-
-### Explicacion Pedagogica
-The word 'layover' is used to describe a period of rest or waiting before a further stage in a journey. This is an important vocabulary word in English.
----
-## Question 13 [D7]
-**ID:** CR-ING-11-2026-W04-idioms-expressions-001-MASTERY-bundle-v13
-**Bloom:** Analyze
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
-
-### Enunciado
-What is the English word for: "A system of money in general use in a particular country."
-
-### Opciones
-- [x] A) currency
-  <!-- feedback: Correct! 'Currency' is the money system in general use in a particular country. -->
-- [ ] B) coin
-  <!-- feedback: a 'coin' is one single piece of money, not the whole system used in the country. -->
-- [ ] C) banknote
-  <!-- feedback: a 'banknote' is one single paper note of that system, not the system itself. -->
-- [ ] D) cash
-  <!-- feedback: 'cash' means money in coins and notes in general, not the specific monetary system of a country. -->
-
-### Explicacion Pedagogica
-The word 'currency' is used to describe a system of money in general use in a particular country. This is an important vocabulary word in English.
----
-## Question 14 [D8]
-**ID:** CR-ING-11-2026-W04-idioms-expressions-001-MASTERY-bundle-v14
-**Bloom:** Analyze
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
-
-### Enunciado
-What is the English word for: "A book of information about a place designed for the use of visitors or tourists."
-
-### Opciones
-- [x] D) guidebook
-  <!-- feedback: Correct! A 'guidebook' is a book of information about a place written for the use of visitors and tourists. -->
-- [ ] A) map
-  <!-- feedback: a 'map' shows the layout of streets and places, but it is a drawing rather than a book of information. -->
-- [ ] B) dictionary
-  <!-- feedback: a 'dictionary' gives the meaning of words, not details about a destination for travellers. -->
-- [ ] C) encyclopedia
-  <!-- feedback: an encyclopedia covers all branches of knowledge rather than one particular place for visitors. -->
-
-### Explicacion Pedagogica
-The word 'guidebook' is used to describe a book of information about a place designed for the use of visitors or tourists. This is an important vocabulary word in English.
----
-## Question 15 [D7]
-**ID:** CR-ING-11-2026-W04-idioms-expressions-001-MASTERY-bundle-v15
-**Bloom:** Analyze
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
-
-### Enunciado
-What is the English word for: "A bag with shoulder straps that allow it to be carried on one's back."
-
-### Opciones
-- [x] A) backpack
-  <!-- feedback: Correct! A 'backpack' has shoulder straps and is designed to be carried on one's back. -->
-- [ ] B) suitcase
-  <!-- feedback: a 'suitcase' is dragged by a handle beside the body; it has no shoulder straps. -->
-- [ ] C) briefcase
-  <!-- feedback: a 'briefcase' is a case for documents and a laptop that is carried in the hand. -->
-- [ ] D) handbag
-  <!-- feedback: a 'handbag' is a small bag held in the hand, not carried on the back. -->
-
-### Explicacion Pedagogica
-The word 'backpack' is used to describe a bag with shoulder straps that allow it to be carried on one's back. This is an important vocabulary word in English.
----
-## Question 16 [D8]
-**ID:** CR-ING-11-2026-W04-idioms-expressions-001-MASTERY-bundle-v16
-**Bloom:** Analyze
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
-
-### Enunciado
-What is the English word for: "In or to a foreign country, especially one across the sea."
-
-### Opciones
-- [x] A) overseas
-  <!-- feedback: Correct! 'Overseas' means in or to a foreign country, especially one reached across the sea. -->
-- [ ] B) domestic
-  <!-- feedback: 'domestic' means inside the same country, which is the opposite of overseas. -->
-- [ ] C) local
-  <!-- feedback: 'local' means belonging to the area where you already are, again the opposite meaning. -->
-- [ ] D) national
-  <!-- feedback: 'national' refers to the nation as a whole, but it does not mean being abroad. -->
-
-### Explicacion Pedagogica
-The word 'overseas' is used to describe in or to a foreign country, especially one across the sea. This is an important vocabulary word in English.
----
-## Question 17 [D9]
-**ID:** CR-ING-11-2026-W04-idioms-expressions-001-MASTERY-bundle-v17
+## Question 10 [D5]
+**ID:** CR-ING-11-2026-W04-idioms-expressions-v10
 **Bloom:** Evaluate
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**EJE:** Linguistic Competence
+**Expected_Success:** 0.75
+**Contexto:** Two classmates discuss a difficult exam they could not finish.
 
 ### Enunciado
-What is the English word for: "An estimate of income and expenditure for a set period of time."
+Which sentence uses an idiom in the way English speakers use it?
 
 ### Opciones
-- [x] A) budget
-  <!-- feedback: Correct! A 'budget' is an estimate of income and expenditure planned for a set period of time. -->
-- [ ] B) expense
-  <!-- feedback: an 'expense' is a single cost; a budget gathers all income and spending over a period. -->
-- [ ] C) cost
-  <!-- feedback: 'cost' is the amount paid for one thing, not an estimate for a whole period. -->
-- [ ] D) price
-  <!-- feedback: 'price' is the figure written on a product, not a plan of income and expenditure. -->
+- [x] C) We were out of our depth with the last section of the paper.
+  <!-- feedback: 'Out of one's depth' describes being in a situation beyond one's ability, which fits an exam section they could not finish. -->
+- [ ] D) We were out of our depth at the bottom of the swimming pool.
+  <!-- feedback: The swimming pool reading is the literal image behind the idiom, but it is not the idiomatic use. -->
+- [ ] A) We were out of our depth of the swimming pool.
+  <!-- feedback: A preposition cannot be replaced: the phrase is 'out of', not 'out of of'. -->
+- [ ] B) We were out of our depths with the last section of the paper.
+  <!-- feedback: 'Depths' is plural here, while the idiom requires the singular form after 'one's'. -->
 
 ### Explicacion Pedagogica
-The word 'budget' is used to describe an estimate of income and expenditure for a set period of time. This is an important vocabulary word in English.
+The idiom grew out of the image of a swimmer in water too deep to stand in, and it now describes any task that exceeds a person's competence. The item keeps the metaphor available but marks it as non-idiomatic in the answer.
 ---
-## Question 18 [D10]
-**ID:** CR-ING-11-2026-W04-idioms-expressions-001-MASTERY-bundle-v18
-**Bloom:** Evaluate
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+## Question 11 [D6]
+**ID:** CR-ING-11-2026-W04-idioms-expressions-v11
+**Bloom:** Apply
+**EJE:** Linguistic Competence
+**Expected_Success:** 0.75
+**Contexto:** A worker says about her new job: 'The first month was hell.'
 
 ### Enunciado
-What is the English word for: "A practice or arrangement by which a company or government agency provides a guarantee of compensation for specified loss, damage, illness, or death in return for payment of a premium."
+Which word completes the idiom correctly?
 
 ### Opciones
-- [x] A) insurance
-  <!-- feedback: Correct! 'Insurance' is the arrangement by which a company or agency guarantees compensation for specified loss, damage, illness or death in return for a premium. -->
-- [ ] B) warranty
-  <!-- feedback: a 'warranty' is the maker's guarantee of a product, normally for a short period and against defects only. -->
-- [ ] C) guarantee
-  <!-- feedback: a 'guarantee' is the promise itself, without the payment of a premium that defines an insurance arrangement. -->
-- [ ] D) policy
-  <!-- feedback: a 'policy' is the written document of the contract, not the practice of insuring itself. -->
+- [x] D) hell
+  <!-- feedback: 'Hell' is the correct word in this informal idiom, meaning a very difficult experience. -->
+- [ ] A) shell
+  <!-- feedback: 'Shell' is the hard outer layer of an egg, and 'a shell month' is not English. -->
+- [ ] B) heel
+  <!-- feedback: A heel is the back part of the foot, so the word has no place in this expression. -->
+- [ ] C) hellum
+  <!-- feedback: 'Hellum' is not an English word at all and appears only as an invented distractor. -->
 
 ### Explicacion Pedagogica
-The word 'insurance' is used to describe a practice or arrangement by which a company or government agency provides a guarantee of compensation for specified loss, damage, illness, or death in return for payment of a premium. This is an important vocabulary word in English.
+The exercise tests spelling inside a colloquial expression, because students often hear the phrase and then write a near-homophone. 'It was hell' is informal, dramatic and very common among Costa Rican students when they describe a demanding semester.
 ---
-## Question 19 [D9]
-**ID:** CR-ING-11-2026-W04-idioms-expressions-001-MASTERY-bundle-v19
-**Bloom:** Evaluate
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+## Question 12 [D6]
+**ID:** CR-ING-11-2026-W04-idioms-expressions-v12
+**Bloom:** Analyze
+**EJE:** Linguistic Competence
+**Expected_Success:** 0.75
+**Contexto:** A report says that one company controls most of the banana exports from the country.
 
 ### Enunciado
-What is the English word for: "Treatment with a vaccine to produce immunity against a disease."
+Which idiom best describes that situation?
 
 ### Opciones
-- [x] D) vaccination
-  <!-- feedback: Correct! 'Vaccination' is the treatment with a vaccine that produces immunity against a disease. -->
-- [ ] A) medication
-  <!-- feedback: 'medication' treats the symptoms of a disease; it does not create immunity against it. -->
-- [ ] B) prescription
-  <!-- feedback: a 'prescription' is the doctor's written order for a medicine, not the vaccine treatment itself. -->
-- [ ] C) infection
-  <!-- feedback: an 'infection' is the invasion of the body by a pathogen, the opposite of being protected against disease. -->
+- [x] A) has a stranglehold on
+  <!-- feedback: A 'stranglehold' is a tight grip, and the metaphor of choking expresses total control over a market. -->
+- [ ] B) has a handshake on
+  <!-- feedback: A handshake suggests cooperation or agreement, not domination. -->
+- [ ] C) has a sandbox on
+  <!-- feedback: A sandbox is a children's play area and has no figurative meaning here. -->
+- [ ] D) has a staircase on
+  <!-- feedback: A staircase is a set of steps and cannot describe control over exports. -->
 
 ### Explicacion Pedagogica
-The word 'vaccination' is used to describe treatment with a vaccine to produce immunity against a disease. This is an important vocabulary word in English.
+Idioms give abstract power a physical image. A stranglehold is an especially strong choice for market control, and recognising it lets a student understand economic journalism that uses vivid language instead of statistics.
 ---
-## Question 20 [D10]
-**ID:** CR-ING-11-2026-W04-idioms-expressions-001-MASTERY-bundle-v20
+## Question 13 [D6]
+**ID:** CR-ING-11-2026-W04-idioms-expressions-v13
 **Bloom:** Evaluate
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**EJE:** Linguistic Competence
+**Expected_Success:** 0.75
+**Contexto:** A teenager tells her grandmother that she will call her when she gets home at midnight.
 
 ### Enunciado
-What is the English word for: "Extreme tiredness and other physical effects felt by a person after a long flight across several time zones."
+Which sentence uses the idiom naturally?
 
 ### Opciones
-- [x] A) jet lag
-  <!-- feedback: Correct! 'Jet lag' is the extreme tiredness and other physical effects felt after a long flight across several time zones. -->
-- [ ] B) fatigue
-  <!-- feedback: 'fatigue' is tiredness from any cause, such as a lack of sleep or effort, not specifically from time zones. -->
-- [ ] C) exhaustion
-  <!-- feedback: 'exhaustion' is a total lack of energy from any cause, more general and more severe than the effect of crossing time zones. -->
-- [ ] D) insomnia
-  <!-- feedback: 'insomnia' is the difficulty of falling or staying asleep, only one symptom and not the whole set of effects after a long flight. -->
+- [x] B) She promised to keep her grandmother posted.
+  <!-- feedback: 'Keep someone posted' means to inform them regularly, and that is what the teenager is promising. -->
+- [ ] C) She promised to keep her grandmother posted up.
+  <!-- feedback: The particle 'up' is not part of the idiom and cannot be added to it. -->
+- [ ] D) She promised to post her grandmother.
+  <!-- feedback: Posting a person is not an English combination; posting applies to letters and parcels. -->
+- [ ] A) She promised to keep her grandmother in the post.
+  <!-- feedback: The prepositional phrase has been broken, leaving the idiom ungrammatical. -->
 
 ### Explicacion Pedagogica
-The word 'jet lag' is used to describe extreme tiredness and other physical effects felt by a person after a long flight across several time zones. This is an important vocabulary word in English.
+'Keep someone posted' is one of the most useful idioms for family and school communication, since it means to share news as it happens. The options show the two classic learner errors: adding a particle and reversing the word order.
+---
+## Question 14 [D6]
+**ID:** CR-ING-11-2026-W04-idioms-expressions-v14
+**Bloom:** Analyze
+**EJE:** Linguistic Competence
+**Expected_Success:** 0.75
+**Contexto:** A historian explains why a nineteenth-century canal is still in use.
+
+### Enunciado
+The canal is described as a ____ of nineteenth-century engineering because it works exactly as designed.
+
+### Opciones
+- [x] C) monument
+  <!-- feedback: 'A monument to engineering' is the natural collocation, and the canal survives as a lasting example of that period. -->
+- [ ] D) monkey
+  <!-- feedback: 'Monkey' is an animal and cannot be modified to name a structure of historical importance. -->
+- [ ] A) monumental of
+  <!-- feedback: 'Monumental of' is not an English phrase; the preposition 'to' is required. -->
+- [ ] B) moment
+  <!-- feedback: 'Moment' names a very short space of time and does not describe a lasting work of engineering. -->
+
+### Explicacion Pedagogica
+A monument is normally described with 'a monument to' plus an achievement, and historians use it whenever a structure survives its original purpose. The item sets the correct collocation against a homophone and a broken prepositional phrase.
+---
+## Question 15 [D6]
+**ID:** CR-ING-11-2026-W04-idioms-expressions-v15
+**Bloom:** Understand
+**EJE:** Linguistic Competence
+**Expected_Success:** 0.75
+**Contexto:** A friend says: 'Do not worry about the exam. You have done enough.'
+
+### Enunciado
+Which phrase would mean the opposite of what the speaker says?
+
+### Opciones
+- [x] D) You are in over your head
+  <!-- feedback: 'In over your head' means to be in a situation more difficult than one can manage, which is the opposite of reassurance. -->
+- [ ] A) You have done enough
+  <!-- feedback: This phrase repeats the speaker's own reassurance, so it cannot express the opposite. -->
+- [ ] B) You are on cloud nine
+  <!-- feedback: 'On cloud nine' means to be very happy, a different idea rather than the opposite of encouragement. -->
+- [ ] C) You are down to earth
+  <!-- feedback: 'Down to earth' means to be practical and sensible, which is neither the opposite nor a related idiom. -->
+
+### Explicacion Pedagogica
+Idioms are graded in meaning: some intensify a positive state and some describe being overwhelmed. This item asks the learner to invert the force of the original message, which requires knowing the semantic field of each expression rather than translating it.
+---
+## Question 16 [D7]
+**ID:** CR-ING-11-2026-W04-idioms-expressions-v16
+**Bloom:** Evaluate
+**EJE:** Linguistic Competence
+**Expected_Success:** 0.7
+**Contexto:** A supervisor tells a new employee: 'You will have to learn the ropes before you work alone.'
+
+### Enunciado
+What does the idiom 'to learn the ropes' mean?
+
+### Opciones
+- [x] A) To learn how a job is done
+  <!-- feedback: The expression comes from sailing ships, where new crew were taught the ropes of the vessel, and it now means learning any job. -->
+- [ ] B) To learn to tie nautical knots
+  <!-- feedback: Knots are related to sailing, but the idiom does not name knots in modern English. -->
+- [ ] C) To learn how to climb a mast
+  <!-- feedback: Climbing a mast was a task on a ship, yet the phrase has no reference to height or rigging. -->
+- [ ] D) To learn how to sew sails
+  <!-- feedback: Sewing sails was sailmaking, a separate trade, and the idiom never described it. -->
+
+### Explicacion Pedagogica
+A useful family of idioms shares this sailing origin: 'know the ropes', 'a rope to hang on' and 'three sheets in the wind'. Knowing the shared origin makes the whole group memorable instead of a list of unrelated phrases.
+---
+## Question 17 [D7]
+**ID:** CR-ING-11-2026-W04-idioms-expressions-v17
+**Bloom:** Analyze
+**EJE:** Linguistic Competence
+**Expected_Success:** 0.7
+**Contexto:** A school principal announces that classes will start at seven instead of eight this term.
+
+### Enunciado
+Which sentence reports the change correctly?
+
+### Opciones
+- [x] D) Classes will now start an hour earlier
+  <!-- feedback: Moving from eight to seven means an earlier hour, which is the plain meaning of the announcement. -->
+- [ ] A) Classes will now start an hour later
+  <!-- feedback: Starting at seven instead of eight is not later, so this contradicts the notice. -->
+- [ ] B) Classes will now start an hour afterwards
+  <!-- feedback: 'Afterwards' refers to a sequence after another event, and it would reverse the change announced. -->
+- [ ] C) Classes will now start an hour heavier
+  <!-- feedback: 'Heavier' cannot describe an hour; it is a weight adjective and has no time meaning. -->
+
+### Explicacion Pedagogica
+This item uses a common exam technique: the options differ by one word that carries the direction of the change. Reading for the direction, rather than for the topic, is what prevents a student from choosing the option that merely sounds plausible.
+---
+## Question 18 [D7]
+**ID:** CR-ING-11-2026-W04-idioms-expressions-v18
+**Bloom:** Evaluate
+**EJE:** Linguistic Competence
+**Expected_Success:** 0.7
+**Contexto:** An article criticises a government plan that will not solve the water problem.
+
+### Enunciado
+Which idiomatic phrase means that the plan will fail completely?
+
+### Opciones
+- [x] B) will not cut the mustard
+  <!-- feedback: 'Cut the mustard' is the standard phrase for failing to meet a required standard. -->
+- [ ] C) will not cut the grass
+  <!-- feedback: Grass has no idiom of this kind; the expression cannot be invented word by word. -->
+- [ ] D) will not cut the cheese
+  <!-- feedback: Cheese is a food and appears in no idiomatic combination with 'cut' here. -->
+- [ ] A) will not cut the smoke
+  <!-- feedback: Smoke cannot be cut, so the option is not an English expression at all. -->
+
+### Explicacion Pedagogica
+Idioms resist literal construction, so the learner must retrieve 'cut the mustard' as a whole. The three distractors replace the noun with an object that makes the image absurd, which exposes learners who build phrases from the individual words.
+---
+## Question 19 [D7]
+**ID:** CR-ING-11-2026-W04-idioms-expressions-v19
+**Bloom:** Analyze
+**EJE:** Linguistic Competence
+**Expected_Success:** 0.7
+**Contexto:** A nurse tells a worried visitor that the patient will be fine after the operation.
+
+### Enunciado
+Which phrase means that there is nothing to worry about?
+
+### Opciones
+- [x] A) There is no need to fret
+  <!-- feedback: 'Fret' means to worry, so 'no need to fret' states that the worry is unnecessary. -->
+- [ ] B) There is no need to free
+  <!-- feedback: 'Free' means to release or to be at liberty, and it has nothing to do with worry. -->
+- [ ] C) There is no need to eat
+  <!-- feedback: Eating is unrelated to the reassurance the nurse is offering. -->
+- [ ] D) There is no need to freeze
+  <!-- feedback: 'Freeze' means to become very cold or to stop moving with water, and it does not express reassurance. -->
+
+### Explicacion Pedagogica
+A common exam format offers a real word and three homophones of the key word, testing whether the student knows the meaning of the expression or only its spelling. Recognising that 'fret' is the only verb of worry among the four resolves the item.
+---
+## Question 20 [D7]
+**ID:** CR-ING-11-2026-W04-idioms-expressions-v20
+**Bloom:** Evaluate
+**EJE:** Linguistic Competence
+**Expected_Success:** 0.7
+**Contexto:** A student reviews her exam results: 'I studied for hours, and thankfully I passed by a hair.'
+
+### Enunciado
+What does the idiom 'by a hair' mean?
+
+### Opciones
+- [x] C) By a very small margin
+  <!-- feedback: The idiom compares the margin to a hair's width, so it means by a very small amount. -->
+- [ ] D) By a short haircut
+  <!-- feedback: A haircut is not what the expression means, since it is a figurative measurement. -->
+- [ ] A) By one whole point
+  <!-- feedback: One whole point would be described as a point, not as a hair. -->
+- [ ] B) By a large margin
+  <!-- feedback: A large margin is the opposite of what 'by a hair' says. -->
+
+### Explicacion Pedagogica
+Idioms that borrow a physical object work as units of measurement: 'by a hair', 'by a whisker', 'by a nose'. A student who knows the family can infer the degree from any member, which is faster than memorising each phrase separately.

@@ -23,460 +23,460 @@ bundle_index: 1
 ---
 ## Question 1 [D3]
 **ID:** HN-ING-11-2026-W08-wishes-regrets-001-MASTERY-bundle-v1
-**Bloom:** Remember
-**EJE:** Lexico
+**Bloom:** Apply
+**EJE:** Grammatical Knowledge
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** A wish about something that has not happened yet.
 
 ### Enunciado
-What is the English word for: "A place where you live or stay on holiday."
+I wish we ___ more time before the trip.
 
 ### Opciones
-- [x] D) accommodation
-  <!-- feedback: Correct! 'Accommodation' is the word for a place where you live or stay temporarily while you are away from home. -->
-- [ ] A) transportation
-  <!-- feedback: Wrong. 'Transportation' names the way you travel, such as buses, trains or planes, not the place where you stay. -->
-- [ ] B) entertainment
-  <!-- feedback: Wrong. 'Entertainment' is the activity of enjoying shows, films or games, not a place where you sleep. -->
-- [ ] C) currency
-  <!-- feedback: Wrong. 'Currency' is the money used in a country, which has nothing to do with lodging. -->
+- [x] A) had
+  <!-- feedback: Correct! Wish about an unreal past situation takes if plus had plus participle, which often means if only. -->
+- [ ] B) will have
+  <!-- feedback: A future perfect would suggest the time is already secured, and the wish is about a possibility that failed. -->
+- [ ] C) have
+  <!-- feedback: A bare present perfect would state a fact rather than express the wish for a different outcome. -->
+- [ ] D) were having
+  <!-- feedback: A past continuous would describe a duration in progress, which is not what the sentence regrets. -->
 
 ### Explicacion Pedagogica
-The word 'accommodation' is used to describe a place where you live or stay on holiday. This is an important vocabulary word in English.
+Wish plus had plus participle expresses regret about a situation in the past. Adding only to if strengthens the emotional pressure of the wish.
 ---
-## Question 2 [D4]
+## Question 2 [D3]
 **ID:** HN-ING-11-2026-W08-wishes-regrets-001-MASTERY-bundle-v2
-**Bloom:** Remember
-**EJE:** Lexico
+**Bloom:** Apply
+**EJE:** Grammatical Knowledge
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** A wish about a present situation that is not the case.
 
 ### Enunciado
-What is the English word for: "A detailed plan or route of a journey."
+I wish I ___ a car. Right now I travel by bus.
 
 ### Opciones
-- [x] B) itinerary
-  <!-- feedback: Correct! An 'itinerary' is the planned route of a journey together with the places and times along the way. -->
-- [ ] A) baggage
-  <!-- feedback: Wrong. 'Baggage' is the suitcases and bags themselves, not the plan of the trip. -->
-- [ ] C) destination
-  <!-- feedback: Wrong. A 'destination' is only the place where the journey ends, while an itinerary lists the whole route. -->
-- [ ] D) passport
-  <!-- feedback: Wrong. A 'passport' is the travel document that proves who you are, not the plan of the journey. -->
+- [x] B) had
+  <!-- feedback: Correct! Wish about a present situation takes the past simple in the that clause. -->
+- [ ] A) will have
+  <!-- feedback: A future perfect would place the ownership in a possible future, but the wish is about the present. -->
+- [ ] C) have
+  <!-- feedback: A bare present would state an entitlement rather than express the wish for a different situation. -->
+- [ ] D) had had
+  <!-- feedback: Had had would express a wish about a situation in the past, and owning a car is a present concern. -->
 
 ### Explicacion Pedagogica
-The word 'itinerary' is used to describe a detailed plan or route of a journey. This is an important vocabulary word in English.
+Wish plus a simple past expresses an unreal present. The bus travel in the second clause is the actual situation the speaker is contrasting with the wish.
 ---
 ## Question 3 [D3]
 **ID:** HN-ING-11-2026-W08-wishes-regrets-001-MASTERY-bundle-v3
-**Bloom:** Understand
-**EJE:** Lexico
+**Bloom:** Apply
+**EJE:** Grammatical Knowledge
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** A polite request using the word would.
 
 ### Enunciado
-What is the English word for: "The place to which someone or something is going or being sent."
+___ you mind opening the window? It is quite hot.
 
 ### Opciones
-- [x] A) destination
-  <!-- feedback: Correct! A 'destination' is the place someone or something is going to or being sent to. -->
-- [ ] B) departure
-  <!-- feedback: Wrong. A 'departure' is the act of leaving and the place you leave from, the opposite end of the trip. -->
-- [ ] C) arrival
-  <!-- feedback: Wrong. An 'arrival' is the event of getting there, not the place that is being travelled to. -->
-- [ ] D) journey
-  <!-- feedback: Wrong. A 'journey' is the whole trip from start to finish, not the place at the end of it. -->
+- [x] C) Would
+  <!-- feedback: Correct! Would you mind plus -ing is a standard polite request in English. -->
+- [ ] A) Do
+  <!-- feedback: Do you mind is possible, but would you mind is the more polite and more common form for a request. -->
+- [ ] B) Are
+  <!-- feedback: A form of be would need a different structure, and it does not produce a request. -->
+- [ ] D) Must
+  <!-- feedback: Must expresses obligation and cannot be used to ask a favour politely. -->
 
 ### Explicacion Pedagogica
-The word 'destination' is used to describe the place to which someone or something is going or being sent. This is an important vocabulary word in English.
+Would you mind and could you mind are the two polite request structures. Both are followed by the -ing form, never by a base form or a to infinitive.
 ---
-## Question 4 [D4]
+## Question 4 [D3]
 **ID:** HN-ING-11-2026-W08-wishes-regrets-001-MASTERY-bundle-v4
-**Bloom:** Understand
-**EJE:** Lexico
+**Bloom:** Apply
+**EJE:** Grammatical Knowledge
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** A wish about an action one would do, without a past reference.
 
 ### Enunciado
-What is the English word for: "Suitcases or other bags in which to pack personal belongings for traveling."
+I wish I ___ visit the museum with you next week.
 
 ### Opciones
-- [x] A) luggage
-  <!-- feedback: Correct! 'Luggage' is the collective word for the suitcases and bags you pack your belongings in. -->
-- [ ] B) ticket
-  <!-- feedback: Wrong. A 'ticket' is the document that pays for and authorises a journey, not the bag you pack. -->
-- [ ] C) flight
-  <!-- feedback: Wrong. A 'flight' is the journey by plane itself, not the bags carried on it. -->
-- [ ] D) reservation
-  <!-- feedback: Wrong. A 'reservation' is the booking you make for a seat or a room, not the baggage itself. -->
+- [x] D) could
+  <!-- feedback: Correct! Wish plus could plus base verb expresses a wish about a possible future action. -->
+- [ ] A) had
+  <!-- feedback: Had would place the visiting in the past, and next week is still ahead. -->
+- [ ] B) will
+  <!-- feedback: A future form would state a plan rather than a wish, and wish signals an unreal desire. -->
+- [ ] C) must
+  <!-- feedback: Must expresses obligation, and the sentence is about a desire rather than a duty. -->
 
 ### Explicacion Pedagogica
-The word 'luggage' is used to describe suitcases or other bags in which to pack personal belongings for traveling. This is an important vocabulary word in English.
+Wish plus could or would plus base verb expresses a wish about the future. When no time is mentioned, could is the most natural choice.
 ---
-## Question 5 [D5]
+## Question 5 [D3]
 **ID:** HN-ING-11-2026-W08-wishes-regrets-001-MASTERY-bundle-v5
-**Bloom:** Understand
-**EJE:** Lexico
+**Bloom:** Apply
+**EJE:** Grammatical Knowledge
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** The word that expresses regret about the past with extra emphasis.
 
 ### Enunciado
-What is the English word for: "A traveler on a public or private conveyance other than the driver, pilot, or crew."
+___ I had checked the weather before we left. The road was flooded.
 
 ### Opciones
-- [x] B) passenger
-  <!-- feedback: Correct! A 'passenger' is anyone travelling in a vehicle who is not the one driving or piloting it. -->
-- [ ] A) pedestrian
-  <!-- feedback: Wrong. A 'pedestrian' travels on foot, so they are not aboard any conveyance at all. -->
-- [ ] C) commuter
-  <!-- feedback: Wrong. A 'commuter' is defined by making the same trip regularly to work or school, not by being a passenger in general. -->
-- [ ] D) tourist
-  <!-- feedback: Wrong. A 'tourist' is defined by travelling for pleasure, not simply by riding in a vehicle. -->
+- [x] A) If only
+  <!-- feedback: Correct! If only expresses strong regret about something that was not done. -->
+- [ ] B) If
+  <!-- feedback: A plain if would open a neutral conditional, and the emotional weight of the sentence needs the stronger form. -->
+- [ ] C) Although
+  <!-- feedback: Although introduces a concession and cannot carry the regret the sentence expresses. -->
+- [ ] D) Even though
+  <!-- feedback: Even though introduces a contrast, and the sentence has no contrast to concede. -->
 
 ### Explicacion Pedagogica
-The word 'passenger' is used to describe a traveler on a public or private conveyance other than the driver, pilot, or crew. This is an important vocabulary word in English.
+If only plus had plus participle is the strongest and most emotional form of past regret. It appears in wishes, regrets and apologies.
 ---
-## Question 6 [D6]
+## Question 6 [D4]
 **ID:** HN-ING-11-2026-W08-wishes-regrets-001-MASTERY-bundle-v6
-**Bloom:** Understand
-**EJE:** Lexico
+**Bloom:** Apply
+**EJE:** Grammatical Knowledge
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** The structure used to say what one would do in a past situation.
 
 ### Enunciado
-What is the English word for: "The place at a port, airport, or frontier where officials check incoming goods, travelers, or luggage."
+If I ___ you, I would have taken the job in Managua.
 
 ### Opciones
-- [x] C) customs
-  <!-- feedback: Correct! 'Customs' is the office where officials check the goods and the people coming in from abroad. -->
-- [ ] A) security
-  <!-- feedback: Wrong. 'Security' is the police or staff who keep order, while customs staff collect duties on goods. -->
-- [ ] B) terminal
-  <!-- feedback: Wrong. A 'terminal' is the building where you arrive or depart, not the office that checks imports. -->
-- [ ] D) gate
-  <!-- feedback: Wrong. A 'gate' is the door you pass through to reach the plane; customs is the check itself. -->
+- [x] B) were
+  <!-- feedback: Correct! If I were you is the fixed expression for advice about a choice that no longer exists. -->
+- [ ] A) had been
+  <!-- feedback: Had been would turn the advice into a third conditional about a different past event. -->
+- [ ] C) am
+  <!-- feedback: A present form cannot be inverted into this expression, which requires the past subjunctive were. -->
+- [ ] D) will be
+  <!-- feedback: A future form has no place in an expression about a decision already made. -->
 
 ### Explicacion Pedagogica
-The word 'customs' is used to describe the place at a port, airport, or frontier where officials check incoming goods, travelers, or luggage. This is an important vocabulary word in English.
+If I were you is a set phrase, and were is never replaced by was in careful English. The result clause always takes would have plus participle for a past decision.
 ---
-## Question 7 [D5]
+## Question 7 [D3]
 **ID:** HN-ING-11-2026-W08-wishes-regrets-001-MASTERY-bundle-v7
 **Bloom:** Apply
-**EJE:** Lexico
+**EJE:** Grammatical Knowledge
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** A wish that something will not happen.
 
 ### Enunciado
-What is the English word for: "A document provided by an airline during check-in, giving a passenger permission to board the airplane."
+I hope the storm ___ before we reach the coast.
 
 ### Opciones
-- [x] C) boarding pass
-  <!-- feedback: Correct! A 'boarding pass' is the document the airline hands you at check-in that lets you board the plane. -->
-- [ ] A) visa
-  <!-- feedback: Wrong. A 'visa' is the official permission a government gives to enter a country, granted before you travel. -->
-- [ ] B) receipt
-  <!-- feedback: Wrong. A 'receipt' only proves that you paid for something; it does not admit you to the aircraft. -->
-- [ ] D) brochure
-  <!-- feedback: Wrong. A 'brochure' is advertising material about destinations, not a travel document for boarding. -->
+- [x] C) doesn't
+  <!-- feedback: Correct! Hope plus a negative clause in the present simple expresses a wish against a future event. -->
+- [ ] A) doesn't stop
+  <!-- feedback: That would wish the opposite of what is wanted, because stopping is what the sentence hopes for. -->
+- [ ] B) didn't stop
+  <!-- feedback: The past simple would refer to a storm that had already passed, and the coast is still ahead. -->
+- [ ] D) hadn't stopped
+  <!-- feedback: A past perfect would place the storm's end before another past point, which does not exist here. -->
 
 ### Explicacion Pedagogica
-The word 'boarding pass' is used to describe a document provided by an airline during check-in, giving a passenger permission to board the airplane. This is an important vocabulary word in English.
+Hope takes an ordinary clause rather than a conditional structure. A wish about the future simply keeps the present simple with a negative, and the verb form agrees with the subject.
 ---
-## Question 8 [D6]
+## Question 8 [D3]
 **ID:** HN-ING-11-2026-W08-wishes-regrets-001-MASTERY-bundle-v8
 **Bloom:** Apply
-**EJE:** Lexico
+**EJE:** Grammatical Knowledge
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** A wish about something someone else did.
 
 ### Enunciado
-What is the English word for: "The activity of visiting places of interest in a particular location."
+She wishes her brother ___ listen to her advice.
 
 ### Opciones
-- [x] D) sightseeing
-  <!-- feedback: Correct! 'Sightseeing' means going round and looking at the famous sights of a place as a visitor. -->
-- [ ] A) shopping
-  <!-- feedback: Wrong. 'Shopping' is buying things in a city, a different activity from visiting its places of interest. -->
-- [ ] B) hiking
-  <!-- feedback: Wrong. 'Hiking' is walking long distances in the countryside on marked trails, not touring the sights of a location. -->
-- [ ] C) camping
-  <!-- feedback: Wrong. 'Camping' means staying the night outdoors in a tent, not a day of visiting places of interest. -->
+- [x] D) would
+  <!-- feedback: Correct! Wish about a third party's non-action takes would plus base verb. -->
+- [ ] A) had
+  <!-- feedback: Had would place the listening in the past, and the wish is about his present behaviour. -->
+- [ ] B) will
+  <!-- feedback: A future form would state a prediction rather than a wish, and wish does not work that way. -->
+- [ ] C) must
+  <!-- feedback: Must expresses obligation on the listener's part, and a wish is not a demand. -->
 
 ### Explicacion Pedagogica
-The word 'sightseeing' is used to describe the activity of visiting places of interest in a particular location. This is an important vocabulary word in English.
+Wish about other people's present behaviour uses would plus base verb. The subject of the wish and the subject of the that clause are deliberately different.
 ---
-## Question 9 [D5]
+## Question 9 [D4]
 **ID:** HN-ING-11-2026-W08-wishes-regrets-001-MASTERY-bundle-v9
 **Bloom:** Apply
-**EJE:** Lexico
+**EJE:** Grammatical Knowledge
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** A regret about not having done something.
 
 ### Enunciado
-What is the English word for: "A thing that is kept as a reminder of a person, place, or event."
+I regret ___ you about the change of plans earlier.
 
 ### Opciones
-- [x] A) souvenir
-  <!-- feedback: Correct! A 'souvenir' is an object kept afterwards as a reminder of the trip and of the people or places on it. -->
-- [ ] B) gift
-  <!-- feedback: Wrong. A 'gift' is chosen to be given to somebody else, while a souvenir is kept by the traveller. -->
-- [ ] C) award
-  <!-- feedback: Wrong. An 'award' is a distinction given for an achievement, not a keepsake bought on a trip. -->
-- [ ] D) prize
-  <!-- feedback: Wrong. A 'prize' is what a competitor wins in a contest; it says nothing about remembering a journey. -->
+- [x] A) not informing
+  <!-- feedback: Correct! Regret plus a gerund expresses regret about an action that was not carried out. -->
+- [ ] B) to inform
+  <!-- feedback: Regret plus to plus base verb is possible, but the sense is of a future action now regretted, which the earlier denies. -->
+- [ ] C) not to inform
+  <!-- feedback: A negative to infinitive would point to a decision not to act, and the speaker simply did not inform anyone. -->
+- [ ] D) for not inform
+  <!-- feedback: For plus a bare base form is not a valid structure, because the form after for must be a gerund or a noun. -->
 
 ### Explicacion Pedagogica
-The word 'souvenir' is used to describe a thing that is kept as a reminder of a person, place, or event. This is an important vocabulary word in English.
+Regret plus gerund describes an action missed in the past. Regret plus to plus base verb describes a decision now regretted, so the meaning of the two forms differs.
 ---
-## Question 10 [D6]
+## Question 10 [D3]
 **ID:** HN-ING-11-2026-W08-wishes-regrets-001-MASTERY-bundle-v10
 **Bloom:** Apply
-**EJE:** Lexico
+**EJE:** Grammatical Knowledge
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** The response to an apology.
 
 ### Enunciado
-What is the English word for: "A period of time by which something is late or postponed."
+You are sorry about the noise? That's OK. I ___ not mind at all.
 
 ### Opciones
-- [x] C) delay
-  <!-- feedback: Correct! A 'delay' is the extra period of time by which a departure or arrival is postponed. -->
-- [ ] A) cancellation
-  <!-- feedback: Wrong. A 'cancellation' calls the plan off entirely, whereas a delay only postpones it by some hours. -->
-- [ ] B) departure
-  <!-- feedback: Wrong. 'Departure' is simply the moment of leaving; the lateness is measured separately from it. -->
-- [ ] D) arrival
-  <!-- feedback: Wrong. An 'arrival' is the moment of getting there, not the amount of time a plan runs late. -->
+- [x] B) don't
+  <!-- feedback: Correct! A short reassurance about the present takes don't plus mind, with the negative before the main verb. -->
+- [ ] A) didn't
+  <!-- feedback: Didn't would refer to a single past moment, and the reassurance is about the present feeling. -->
+- [ ] C) won't
+  <!-- feedback: A future form would promise not to mind about a later situation, which the sentence does not need. -->
+- [ ] D) mustn't
+  <!-- feedback: Mustn't expresses prohibition and cannot be used to reassure anyone about their noise. -->
 
 ### Explicacion Pedagogica
-The word 'delay' is used to describe a period of time by which something is late or postponed. This is an important vocabulary word in English.
+A reassurance such as I do not mind is a present statement and takes the present simple negative. There is no past event to refer back to in this exchange.
 ---
-## Question 11 [D7]
+## Question 11 [D3]
 **ID:** HN-ING-11-2026-W08-wishes-regrets-001-MASTERY-bundle-v11
 **Bloom:** Apply
-**EJE:** Lexico
+**EJE:** Grammatical Knowledge
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** A wish that had not happened, in a formal register.
 
 ### Enunciado
-What is the English word for: "The act of reporting one's presence and registering, typically at an airport or hotel."
+If only we ___ the decision last year. Everything would be simpler now.
 
 ### Opciones
-- [x] A) check-in
-  <!-- feedback: Correct! 'Check-in' is when you arrive and register, and the desk records your presence and gives you your pass. -->
-- [ ] B) check-out
-  <!-- feedback: Wrong. 'Check-out' is the opposite moment, when you pay and hand back the room key before leaving. -->
-- [ ] C) booking
-  <!-- feedback: Wrong. A 'booking' is the reservation made earlier, while check-in is the reporting of your arrival. -->
-- [ ] D) reservation
-  <!-- feedback: Wrong. A 'reservation' holds a room or a seat for you in advance, not the act of registering on arrival. -->
+- [x] C) had challenged
+  <!-- feedback: Correct! If only plus had plus participle regrets a past action that did not happen. -->
+- [ ] A) would challenge
+  <!-- feedback: A would without had would place the challenging in an imagined present, and last year fixes it in the past. -->
+- [ ] B) have challenged
+  <!-- feedback: A present perfect would leave the action inside the present period, ignoring the stated past year. -->
+- [ ] D) had challenge
+  <!-- feedback: The participle of challenge needs the -ed ending, so the base form is not correct here. -->
 
 ### Explicacion Pedagogica
-The word 'check-in' is used to describe the act of reporting one's presence and registering, typically at an airport or hotel. This is an important vocabulary word in English.
+The irregular and regular participles behave the same way after had. Challenge becomes challenged with -ed, exactly as lose becomes lost without it.
 ---
-## Question 12 [D8]
+## Question 12 [D3]
 **ID:** HN-ING-11-2026-W08-wishes-regrets-001-MASTERY-bundle-v12
 **Bloom:** Apply
-**EJE:** Lexico
+**EJE:** Grammatical Knowledge
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** A wish about a place or a time the speaker would rather be.
 
 ### Enunciado
-What is the English word for: "A period of rest or waiting before a further stage in a journey."
+It is raining hard. I wish we ___ at home with a hot drink.
 
 ### Opciones
-- [x] C) layover
-  <!-- feedback: Correct! A 'layover' is the wait between two flights, usually at the connecting airport, before you continue. -->
-- [ ] A) stopover
-  <!-- feedback: Wrong. A 'stopover' is a deliberate break in a long journey to spend extra time at a place, not a wait between flights. -->
-- [ ] B) transfer
-  <!-- feedback: Wrong. A 'transfer' is the flight or vehicle that moves you from one place to another, not the waiting itself. -->
-- [ ] D) transit
-  <!-- feedback: Wrong. 'Transit' names the general passing through an area or a country, not a specific rest between stages. -->
+- [x] D) were
+  <!-- feedback: Correct! Wish plus were expresses an unreal present situation about place or company. -->
+- [ ] A) will be
+  <!-- feedback: A future form would state a prediction about a later moment, and the wish is about the weather now. -->
+- [ ] B) had been
+  <!-- feedback: Had been would regret a past situation, but the rain is happening at the moment of speaking. -->
+- [ ] C) are
+  <!-- feedback: A present form after wish would state a fact rather than express the unreal situation. -->
 
 ### Explicacion Pedagogica
-The word 'layover' is used to describe a period of rest or waiting before a further stage in a journey. This is an important vocabulary word in English.
+I wish I were there is the standard expression for being somewhere else. Were covers the whole unreal present situation, including the place and the company.
 ---
-## Question 13 [D7]
+## Question 13 [D4]
 **ID:** HN-ING-11-2026-W08-wishes-regrets-001-MASTERY-bundle-v13
-**Bloom:** Analyze
-**EJE:** Lexico
+**Bloom:** Apply
+**EJE:** Grammatical Knowledge
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** A wish about the past with a negative.
 
 ### Enunciado
-What is the English word for: "A system of money in general use in a particular country."
+He wishes he ___ not spent so much on the holiday.
 
 ### Opciones
-- [x] C) currency
-  <!-- feedback: Correct! 'Currency' is the whole monetary system a country uses, not any single object. -->
-- [ ] A) coin
-  <!-- feedback: Wrong. A 'coin' is one round metal piece of money, while the definition covers the entire money system. -->
-- [ ] B) banknote
-  <!-- feedback: Wrong. A 'banknote' is a single paper note, while the definition is about the money system of a whole country. -->
-- [ ] D) cash
-  <!-- feedback: Wrong. 'Cash' is the money in coins and notes that you are holding, regardless of any country's system. -->
+- [x] A) had
+  <!-- feedback: Correct! A negative wish about the past takes had plus not plus participle. -->
+- [ ] B) has
+  <!-- feedback: A present perfect would keep the spending inside the present period, but the regret concerns a completed holiday. -->
+- [ ] C) did
+  <!-- feedback: Did cannot combine with a wish, because wish does not take an auxiliary in this structure. -->
+- [ ] D) would
+  <!-- feedback: Would would place the spending in a hypothetical present, and the holiday is already over. -->
 
 ### Explicacion Pedagogica
-The word 'currency' is used to describe a system of money in general use in a particular country. This is an important vocabulary word in English.
+Wish plus had plus not plus participle is the negative form of past regret. The same three-part structure as the affirmative, with not inserted after had.
 ---
-## Question 14 [D8]
+## Question 14 [D3]
 **ID:** HN-ING-11-2026-W08-wishes-regrets-001-MASTERY-bundle-v14
-**Bloom:** Analyze
-**EJE:** Lexico
+**Bloom:** Apply
+**EJE:** Grammatical Knowledge
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** An invitation softened with would.
 
 ### Enunciado
-What is the English word for: "A book of information about a place designed for the use of visitors or tourists."
+Would you ___ to join our study group on Fridays?
 
 ### Opciones
-- [x] C) guidebook
-  <!-- feedback: Correct! A 'guidebook' is a book written about a place to help visitors find their way around it. -->
-- [ ] A) map
-  <!-- feedback: Wrong. A 'map' is a single drawing of an area, not the book of practical information about the place. -->
-- [ ] B) dictionary
-  <!-- feedback: Wrong. A 'dictionary' lists words and their meanings, not practical details about a destination. -->
-- [ ] D) encyclopedia
-  <!-- feedback: Wrong. An 'encyclopedia' covers all knowledge on a subject, while a guidebook is written about one specific place. -->
+- [x] B) like
+  <!-- feedback: Correct! Would you like to plus base verb is the standard polite invitation. -->
+- [ ] A) liking
+  <!-- feedback: The -ing form cannot follow the to of like to, and the infinitive structure needs the base form. -->
+- [ ] C) prefer
+  <!-- feedback: Prefer would need a comparison, such as prefer to study, and it changes the meaning of the invitation. -->
+- [ ] D) love
+  <!-- feedback: Love would also be possible in a different register, but the neutral polite invitation is would you like to. -->
 
 ### Explicacion Pedagogica
-The word 'guidebook' is used to describe a book of information about a place designed for the use of visitors or tourists. This is an important vocabulary word in English.
+Like to and love to are both acceptable after would you. The whole phrase is a fixed invitation pattern, and the base form is required after to.
 ---
-## Question 15 [D7]
+## Question 15 [D3]
 **ID:** HN-ING-11-2026-W08-wishes-regrets-001-MASTERY-bundle-v15
-**Bloom:** Analyze
-**EJE:** Lexico
+**Bloom:** Apply
+**EJE:** Grammatical Knowledge
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** A hope about what will happen, with a specific subject.
 
 ### Enunciado
-What is the English word for: "A bag with shoulder straps that allow it to be carried on one's back."
+I hope the committee ___ the proposal this afternoon.
 
 ### Opciones
-- [x] A) backpack
-  <!-- feedback: Correct! A 'backpack' has two shoulder straps and is designed to be carried on your back. -->
-- [ ] B) suitcase
-  <!-- feedback: Wrong. A 'suitcase' is a flat box with a handle that you pull along beside you. -->
-- [ ] C) briefcase
-  <!-- feedback: Wrong. A 'briefcase' is a stiff case for papers that you carry in your hand at work. -->
-- [ ] D) handbag
-  <!-- feedback: Wrong. A 'handbag' is held in the hand and has no straps at all. -->
+- [x] C) approves
+  <!-- feedback: Correct! A hope about a future event takes the present simple, with the verb agreeing with the subject. -->
+- [ ] A) will approve
+  <!-- feedback: A future form is not used after hope, because the uncertainty is already expressed by the verb itself. -->
+- [ ] B) is approving
+  <!-- feedback: A present continuous would suggest the approval is already under way, and this afternoon is still ahead. -->
+- [ ] D) has approved
+  <!-- feedback: The present perfect would state a completed action, which contradicts the afternoon still to come. -->
 
 ### Explicacion Pedagogica
-The word 'backpack' is used to describe a bag with shoulder straps that allow it to be carried on one's back. This is an important vocabulary word in English.
+Hope and wish differ in tense behaviour. Hope takes an ordinary clause, so the present simple is what the sentence needs, and the third person singular form is used.
 ---
-## Question 16 [D8]
+## Question 16 [D4]
 **ID:** HN-ING-11-2026-W08-wishes-regrets-001-MASTERY-bundle-v16
-**Bloom:** Analyze
-**EJE:** Lexico
+**Bloom:** Apply
+**EJE:** Grammatical Knowledge
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** The present perfect version of a wish about a past situation.
 
 ### Enunciado
-What is the English word for: "In or to a foreign country, especially one across the sea."
+I wish I ___ the message you sent this morning.
 
 ### Opciones
-- [x] B) overseas
-  <!-- feedback: Correct! 'Overseas' means to or in another country reached by crossing the sea. -->
-- [ ] A) domestic
-  <!-- feedback: Wrong. 'Domestic' means inside the borders of your own country, which is the opposite of overseas. -->
-- [ ] C) local
-  <!-- feedback: Wrong. 'Local' means in a particular small area or town, which may well be inside your own country. -->
-- [ ] D) national
-  <!-- feedback: Wrong. 'National' means concerning the nation as a whole, not travelling away from it across the sea. -->
+- [x] D) had seen
+  <!-- feedback: Correct! The wish refers to a past situation, so had plus participle is the correct form. -->
+- [ ] A) have seen
+  <!-- feedback: A present perfect would suggest the seeing might still happen or might still matter, and the morning is already over. -->
+- [ ] B) see
+  <!-- feedback: A base form would state a simple present, which is not what a wish about the past uses. -->
+- [ ] C) will see
+  <!-- feedback: A future form would contradict the morning that has already passed. -->
 
 ### Explicacion Pedagogica
-The word 'overseas' is used to describe in or to a foreign country, especially one across the sea. This is an important vocabulary word in English.
+When the wished-for situation belongs to a period that has closed, the past perfect is used. The time reference in this sentence is that closed morning, not now.
 ---
-## Question 17 [D9]
+## Question 17 [D3]
 **ID:** HN-ING-11-2026-W08-wishes-regrets-001-MASTERY-bundle-v17
-**Bloom:** Evaluate
-**EJE:** Lexico
+**Bloom:** Apply
+**EJE:** Grammatical Knowledge
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** A regret that cannot be changed, stated formally.
 
 ### Enunciado
-What is the English word for: "An estimate of income and expenditure for a set period of time."
+If only we ___ the earlier flight, we would have made the connection.
 
 ### Opciones
-- [x] D) budget
-  <!-- feedback: Correct! A 'budget' estimates planned income and spending over a set period such as a month or a year. -->
-- [ ] A) expense
-  <!-- feedback: Wrong. An 'expense' is a single outgoing payment, not a plan covering a whole period. -->
-- [ ] B) cost
-  <!-- feedback: Wrong. The 'cost' is the price of one thing or service, with no timeframe attached to it. -->
-- [ ] C) price
-  <!-- feedback: Wrong. A 'price' is the amount a single item sells for, not an estimate of a period's finances. -->
+- [x] A) had taken
+  <!-- feedback: Correct! A third conditional with if only expresses regret about a past choice. -->
+- [ ] B) have taken
+  <!-- feedback: A present perfect would leave the flight inside the present period, and the flight is long past. -->
+- [ ] C) would take
+  <!-- feedback: A would without had would place the taking in an imagined present, which contradicts the earlier flight. -->
+- [ ] D) had take
+  <!-- feedback: After had the verb must be a past participle, and take does not serve as its own participle. -->
 
 ### Explicacion Pedagogica
-The word 'budget' is used to describe an estimate of income and expenditure for a set period of time. This is an important vocabulary word in English.
+Take is a regular verb, so its participle is taken with the -ed ending. The three-part structure of the third conditional is unchanged by the regularity of the verb.
 ---
-## Question 18 [D10]
+## Question 18 [D3]
 **ID:** HN-ING-11-2026-W08-wishes-regrets-001-MASTERY-bundle-v18
-**Bloom:** Evaluate
-**EJE:** Lexico
+**Bloom:** Apply
+**EJE:** Grammatical Knowledge
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** A wish about not having to do something in the future.
 
 ### Enunciado
-What is the English word for: "A practice or arrangement by which a company or government agency provides a guarantee of compensation for specified loss, damage, illness, or death in return for payment of a premium."
+I wish I ___ have to work on Sunday.
 
 ### Opciones
-- [x] D) insurance
-  <!-- feedback: Correct! 'Insurance' is the arrangement where a company pays compensation for a specified loss in exchange for a premium. -->
-- [ ] A) warranty
-  <!-- feedback: Wrong. A 'warranty' covers a defective product for a limited time and is given by the maker, not for illness or death. -->
-- [ ] B) guarantee
-  <!-- feedback: Wrong. A 'guarantee' is a promise about the quality of a product or service, with no payment of a premium. -->
-- [ ] C) policy
-  <!-- feedback: Wrong. A 'policy' is the written document that records an insurance contract, not the practice of compensation itself. -->
+- [x] B) didn't
+  <!-- feedback: Correct! Wish plus did not plus have to plus base verb expresses a wish about a future obligation. -->
+- [ ] A) don't
+  <!-- feedback: A present negative would state a present fact about the obligation, and the wish is about Sunday. -->
+- [ ] C) won't
+  <!-- feedback: A future form would promise not to work, and it cannot appear after wish. -->
+- [ ] D) hadn't
+  <!-- feedback: Had not would place the obligation in the past, and Sunday has not arrived yet. -->
 
 ### Explicacion Pedagogica
-The word 'insurance' is used to describe a practice or arrangement by which a company or government agency provides a guarantee of compensation for specified loss, damage, illness, or death in return for payment of a premium. This is an important vocabulary word in English.
+A wish about a future obligation uses wish plus did not plus have to plus base verb. The did is a past form used to make the wish rather than a past event.
 ---
-## Question 19 [D9]
+## Question 19 [D4]
 **ID:** HN-ING-11-2026-W08-wishes-regrets-001-MASTERY-bundle-v19
-**Bloom:** Evaluate
-**EJE:** Lexico
+**Bloom:** Apply
+**EJE:** Grammatical Knowledge
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** A wish that is being made now about an unfinished past situation.
 
 ### Enunciado
-What is the English word for: "Treatment with a vaccine to produce immunity against a disease."
+We wish we ___ the earlier bus. We are still waiting for it.
 
 ### Opciones
-- [x] D) vaccination
-  <!-- feedback: Correct! 'Vaccination' is the administration of a vaccine that makes the immune system ready against a disease. -->
-- [ ] A) medication
-  <!-- feedback: Wrong. 'Medication' treats the symptoms of an illness you already have; it does not create immunity beforehand. -->
-- [ ] B) prescription
-  <!-- feedback: Wrong. A 'prescription' is the doctor's written order for a medicine, not the vaccine itself. -->
-- [ ] C) infection
-  <!-- feedback: Wrong. An 'infection' is the invasion of the body by a pathogen, which is the opposite of preventing it. -->
+- [x] C) had caught
+  <!-- feedback: Correct! The missed bus is a past situation, and the waiting in the present does not make it present. -->
+- [ ] A) have caught
+  <!-- feedback: A present perfect would suggest the catching might still happen, but the bus has already gone. -->
+- [ ] B) are catching
+  <!-- feedback: A present continuous would describe an action under way now, and nothing is under way. -->
+- [ ] D) had catching
+  <!-- feedback: After had the verb must be a past participle, and catching is the -ing form. -->
 
 ### Explicacion Pedagogica
-The word 'vaccination' is used to describe treatment with a vaccine to produce immunity against a disease. This is an important vocabulary word in English.
+Still waiting does not move the reference point of the wish. What is regretted is a past opportunity, and the present consequence only explains why the wish is being made now.
 ---
-## Question 20 [D10]
+## Question 20 [D4]
 **ID:** HN-ING-11-2026-W08-wishes-regrets-001-MASTERY-bundle-v20
-**Bloom:** Evaluate
-**EJE:** Lexico
+**Bloom:** Apply
+**EJE:** Grammatical Knowledge
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** The apology that accompanies a regret.
 
 ### Enunciado
-What is the English word for: "Extreme tiredness and other physical effects felt by a person after a long flight across several time zones."
+I'm sorry I ___ you wait so long. The answer was hard to find.
 
 ### Opciones
-- [x] C) jet lag
-  <!-- feedback: Correct! 'Jet lag' is the tiredness and disturbed body clock caused by crossing several time zones in a flight. -->
-- [ ] A) fatigue
-  <!-- feedback: Wrong. 'Fatigue' is general tiredness from any cause, such as hard work, not specifically from time zones. -->
-- [ ] B) exhaustion
-  <!-- feedback: Wrong. 'Exhaustion' is extreme tiredness from physical effort or illness, not from a change of time zone. -->
-- [ ] D) insomnia
-  <!-- feedback: Wrong. 'Insomnia' is simply difficulty sleeping, which can come from many causes unrelated to flying. -->
+- [x] D) made
+  <!-- feedback: Correct! An apology uses the past simple, because the apology itself is made in the present about a past action. -->
+- [ ] A) have made
+  <!-- feedback: A present perfect is possible in an apology, but the plain past simple is the standard neutral form here. -->
+- [ ] B) am making
+  <!-- feedback: A present continuous would say the waiting is happening now, but the waiting is over. -->
+- [ ] C) had made
+  <!-- feedback: A past perfect would place the making before another past event, and there is no such earlier point here. -->
 
 ### Explicacion Pedagogica
-The word 'jet lag' is used to describe extreme tiredness and other physical effects felt by a person after a long flight across several time zones. This is an important vocabulary word in English.
+In an apology the important thing is the action being apologised for, and that is always past. The tense of the apology itself stays simple, whether it is a direct apology or a that clause.

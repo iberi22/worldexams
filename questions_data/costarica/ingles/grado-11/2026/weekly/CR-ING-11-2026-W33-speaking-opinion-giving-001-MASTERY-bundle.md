@@ -17,466 +17,509 @@ tier: "legacy"
 creador: "Jules-Agent"
 bundle_index: 1
 ---
-# MASTERY Bundle - Ingles: Speaking Opinion Giving (W33)
-**20 preguntas | Ingles | Curriculo de Ingles**
+# Bundle MASTERY: Speaking Opinion Giving - Grado 11
+
+Este bundle contiene 20 preguntas sobre **speaking-opinion-giving** para grado 11,
+alineadas con el programa de estudios del MEP Costa Rica para Bachillerato 2026.
 
 ---
+
 ## Question 1 [D3]
 **ID:** CR-ING-11-2026-W33-speaking-opinion-giving-001-MASTERY-bundle-v1
 **Bloom:** Remember
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**EJE:** Linguistic Competence
+**Expected_Success:** 0.85
+**Contexto:** Mariana, a student in Cartago, is talking about her school cafeteria lunch.
 
 ### Enunciado
-What is the English word for: "A place where you live or stay on holiday."
+Which phrase gives a personal opinion in a friendly way?
 
 ### Opciones
-- [x] B) accommodation
-  <!-- feedback: Correct! 'accommodation' is the place where you live or stay, especially on holiday, and it is the word the definition asks for. -->
-- [ ] A) transportation
-  <!-- feedback: 'transportation' is the system that moves people or goods (buses, trains, taxis), not a place where you live or stay. -->
-- [ ] C) entertainment
-  <!-- feedback: 'entertainment' means the shows, music and activities that amuse you, so it names an experience rather than a place. -->
-- [ ] D) currency
-  <!-- feedback: 'currency' is the money system of a country, such as the dollar or the colon, so it has nothing to do with a place to stay. -->
+- [x] A) In my opinion, the cafeteria food is delicious.
+  <!-- feedback: This works: 'In my opinion' labels the idea as the speaker's own view and keeps the tone polite. -->
+- [ ] B) The cafeteria opens at eleven.
+  <!-- feedback: This reports a fact about the schedule, so it expresses no opinion about the food at all. -->
+- [ ] C) Do you think the cafeteria food is delicious?
+  <!-- feedback: This asks the listener for an opinion instead of giving one, so it does not answer the prompt. -->
+- [ ] D) The cafeteria food is not delicious.
+  <!-- feedback: This states a flat negative claim with no softener, so it can sound blunt to a classmate. -->
 
 ### Explicacion Pedagogica
-The word 'accommodation' is used to describe a place where you live or stay on holiday. This is an important vocabulary word in English.
+Opinions are usually softened with markers such as In my opinion or I think, so the speaker sounds personal and polite rather than dogmatic.
+
 ---
-## Question 2 [D4]
+
+## Question 2 [D3]
 **ID:** CR-ING-11-2026-W33-speaking-opinion-giving-001-MASTERY-bundle-v2
 **Bloom:** Remember
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**EJE:** Linguistic Competence
+**Expected_Success:** 0.85
+**Contexto:** A group of students in Heredia discusses the bus to San Jose during a trip.
 
 ### Enunciado
-What is the English word for: "A detailed plan or route of a journey."
+Which expression introduces a view that may differ from someone else's?
 
 ### Opciones
-- [x] D) itinerary
-  <!-- feedback: Correct! An 'itinerary' is the detailed plan or route of a journey: it lists the places, stops and times in order. -->
-- [ ] A) baggage
-  <!-- feedback: 'baggage' means the suitcases and bags you travel with, not the plan that organises the trip. -->
-- [ ] B) destination
-  <!-- feedback: 'destination' is the place you are travelling to, one single stop of the plan rather than the plan itself. -->
-- [ ] C) passport
-  <!-- feedback: 'passport' is the official travel document you show at the border, not a description of the journey route. -->
+- [ ] A) I have finished my homework.
+  <!-- feedback: This reports a completed action about homework, so it carries no opinion on the bus service. -->
+- [ ] B) The bus leaves at six.
+  <!-- feedback: This is a checkable fact about the timetable, not a stance anyone can disagree with. -->
+- [x] C) As far as I am concerned, the bus is always late.
+  <!-- feedback: 'As far as I am concerned' marks a personal stance and admits others may see things differently. -->
+- [ ] D) Could you close the window?
+  <!-- feedback: This is a polite request in the interrogative form, so it asks for action rather than a view. -->
 
 ### Explicacion Pedagogica
-The word 'itinerary' is used to describe a detailed plan or route of a journey. This is an important vocabulary word in English.
+Stance markers such as as far as I am concerned or personally speaking frame an opinion and warn the listener that other views may exist.
+
 ---
-## Question 3 [D3]
+
+## Question 3 [D4]
 **ID:** CR-ING-11-2026-W33-speaking-opinion-giving-001-MASTERY-bundle-v3
 **Bloom:** Understand
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**EJE:** Linguistic Competence
+**Expected_Success:** 0.85
+**Contexto:** Luis, from San Jose, wants to sound polite when he disagrees with his teacher.
 
 ### Enunciado
-What is the English word for: "The place to which someone or something is going or being sent."
+Which sentence gives an opinion politely in a class discussion?
 
 ### Opciones
-- [x] A) destination
-  <!-- feedback: Correct! A 'destination' is the place to which someone or something is going or being sent. -->
-- [ ] B) departure
-  <!-- feedback: 'departure' is the act of leaving, the opposite side of the trip; the definition asks for the place, not the action. -->
-- [ ] C) arrival
-  <!-- feedback: 'arrival' is the event of getting there, but a definition needs the place itself, not the moment of reaching it. -->
-- [ ] D) journey
-  <!-- feedback: 'journey' is the whole trip from one place to another, whereas the definition names only where it ends. -->
+- [ ] A) That opinion is wrong, and you know it.
+  <!-- feedback: The second person with 'and you know it' attacks the other speaker, so the tone is aggressive, not polite. -->
+- [x] B) I see what you mean, but in my view the deadline is too tight.
+  <!-- feedback: The concession 'I see what you mean' accepts the other view before 'but in my view' adds the speaker's own position. -->
+- [ ] C) Nobody agrees with you here.
+  <!-- feedback: 'Nobody' makes a sweeping claim that cannot be supported and dismisses the other speaker outright. -->
+- [ ] D) I do not care what you think about it.
+  <!-- feedback: The clause rejects the other person's view directly, so the disagreement becomes hostile and personal. -->
 
 ### Explicacion Pedagogica
-The word 'destination' is used to describe the place to which someone or something is going or being sent. This is an important vocabulary word in English.
+Polite disagreement follows concession plus contrast: acknowledge the other view first, then introduce your own with but and in my view.
+
 ---
+
 ## Question 4 [D4]
 **ID:** CR-ING-11-2026-W33-speaking-opinion-giving-001-MASTERY-bundle-v4
 **Bloom:** Understand
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**EJE:** Linguistic Competence
+**Expected_Success:** 0.85
+**Contexto:** At a student meeting in Alajuela, Sofia must open her own side of a debate.
 
 ### Enunciado
-What is the English word for: "Suitcases or other bags in which to pack personal belongings for traveling."
+Which opening best introduces her personal argument in a debate?
 
 ### Opciones
-- [x] B) luggage
-  <!-- feedback: Correct! 'luggage' is the collective word for the suitcases and bags in which personal belongings are packed for travelling. -->
-- [ ] A) ticket
-  <!-- feedback: a 'ticket' is the document that gives you the right to travel; it carries nothing at all. -->
-- [ ] C) flight
-  <!-- feedback: a 'flight' is the trip itself by plane, not the bags you pack for it. -->
-- [ ] D) reservation
-  <!-- feedback: a 'reservation' is the booking held for a seat or a room, not the container where clothes go. -->
+- [ ] A) It is none of your business what I think.
+  <!-- feedback: The phrase 'none of your business' is rude and never actually states a position on the project. -->
+- [ ] B) Whatever you say, the project is bad.
+  <!-- feedback: 'Whatever you say' shows contempt, and the claim carries no reason a judge could weigh. -->
+- [ ] C) Nobody in this room agrees with the project.
+  <!-- feedback: This claims a group opinion that nobody can prove, so her own argument is left unstated. -->
+- [x] D) In my opinion, the project needs a better budget because of the materials.
+  <!-- feedback: The stance marker 'In my opinion' plus 'because' supplies the reason, which is exactly what a debate opening needs. -->
 
 ### Explicacion Pedagogica
-The word 'luggage' is used to describe suitcases or other bags in which to pack personal belongings for traveling. This is an important vocabulary word in English.
+A debate opening needs a stance marker, a clear claim and a reason introduced by because, so listeners can follow and weigh the argument.
+
 ---
-## Question 5 [D5]
+
+## Question 5 [D4]
 **ID:** CR-ING-11-2026-W33-speaking-opinion-giving-001-MASTERY-bundle-v5
 **Bloom:** Understand
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**EJE:** Linguistic Competence
+**Expected_Success:** 0.85
+**Contexto:** Two students in Puntarenas argue about using cell phones during class.
 
 ### Enunciado
-What is the English word for: "A traveler on a public or private conveyance other than the driver, pilot, or crew."
+Which sentence uses the standard pattern opinion plus reason?
 
 ### Opciones
-- [x] A) passenger
-  <!-- feedback: Correct! A 'passenger' is a traveller on a public or private conveyance who is neither the driver, the pilot nor the crew. -->
-- [ ] B) pedestrian
-  <!-- feedback: a 'pedestrian' travels on foot, so there is no driver, pilot or crew in the vehicle at all. -->
-- [ ] C) commuter
-  <!-- feedback: a 'commuter' is defined by the regular trip to work or study, not by riding any conveyance. -->
-- [ ] D) tourist
-  <!-- feedback: a 'tourist' travels for pleasure and visits places of interest; the definition here is about the role on the vehicle. -->
+- [x] A) I think that phones should be banned because they distract students.
+  <!-- feedback: This order is correct: opinion clause first, then 'because' and the reason that supports it. -->
+- [ ] B) Because phones distract students, I think that in my opinion.
+  <!-- feedback: The opinion clause trails behind the reason and 'in my opinion' has no clause to attach to, so it is broken. -->
+- [ ] C) Phones distract students, that is why in my opinion.
+  <!-- feedback: Here the reason comes first and the stance marker dangles at the end, leaving the clause unfinished. -->
+- [ ] D) In my opinion phones, that is because they distract students.
+  <!-- feedback: After 'In my opinion' no full clause ever arrives, so the complement of the stance marker is missing. -->
 
 ### Explicacion Pedagogica
-The word 'passenger' is used to describe a traveler on a public or private conveyance other than the driver, pilot, or crew. This is an important vocabulary word in English.
+The safest pattern is 'I think that + clause + because + reason'; a stance marker such as in my opinion must be followed by a complete clause.
+
 ---
-## Question 6 [D6]
+
+## Question 6 [D5]
 **ID:** CR-ING-11-2026-W33-speaking-opinion-giving-001-MASTERY-bundle-v6
-**Bloom:** Understand
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Bloom:** Apply
+**EJE:** Linguistic Competence
+**Expected_Success:** 0.85
+**Contexto:** A student needs to disagree with a classmate in a seminar without causing conflict.
 
 ### Enunciado
-What is the English word for: "The place at a port, airport, or frontier where officials check incoming goods, travelers, or luggage."
+Which sentence softens disagreement while still giving a clear opinion?
 
 ### Opciones
-- [x] C) customs
-  <!-- feedback: Correct! 'customs' is the place at a port, airport or frontier where officials check incoming goods, travellers and luggage. -->
-- [ ] A) security
-  <!-- feedback: 'security' staff prevent accidents and crime inside the building; the officials who check goods and travellers are customs. -->
-- [ ] B) terminal
-  <!-- feedback: a 'terminal' is the building where passengers wait for a departure, not the office where the checks are done. -->
-- [ ] D) gate
-  <!-- feedback: a 'gate' is the door or boarding point on the aircraft, not the place where officials inspect your belongings. -->
+- [ ] A) That is simply a bad idea and everyone knows it.
+  <!-- feedback: The absolute wording attacks the idea directly and invites the other speaker to defend themselves personally. -->
+- [x] B) I understand your point, but I would argue that the budget needs more detail.
+  <!-- feedback: Correct! Acknowledging the other point before contradicting it keeps the disagreement polite while the opinion stays firm. -->
+- [ ] C) You are wrong about the budget, I am sure of that.
+  <!-- feedback: Attacking the person rather than the argument turns a disagreement in a seminar into a conflict. -->
+- [ ] D) Nobody sensible would agree with that budget.
+  <!-- feedback: The sweeping judgement about other people is dismissive, and it gives no reason for the objection. -->
 
 ### Explicacion Pedagogica
-The word 'customs' is used to describe the place at a port, airport, or frontier where officials check incoming goods, travelers, or luggage. This is an important vocabulary word in English.
+In academic discussion a disagreement is expressed with the position first and the reason attached, never with an insult. Hedges such as 'I would argue' and 'it seems to me' mark the view as the speaker's own, which softens it without weakening it.
+
 ---
+
 ## Question 7 [D5]
 **ID:** CR-ING-11-2026-W33-speaking-opinion-giving-001-MASTERY-bundle-v7
 **Bloom:** Apply
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**EJE:** Linguistic Competence
+**Expected_Success:** 0.85
+**Contexto:** A student answers a teacher's question about uniform policy in an oral exam.
 
 ### Enunciado
-What is the English word for: "A document provided by an airline during check-in, giving a passenger permission to board the airplane."
+Which answer gives an opinion with a supporting reason in one clear structure?
 
 ### Opciones
-- [x] A) boarding pass
-  <!-- feedback: Correct! A 'boarding pass' is the document the airline issues at check-in that gives the passenger permission to board. -->
-- [ ] B) visa
-  <!-- feedback: a 'visa' is the permission to enter a country, obtained before the trip and not from the airline. -->
-- [ ] C) receipt
-  <!-- feedback: a 'receipt' only proves that you paid; it does not let you board the plane. -->
-- [ ] D) brochure
-  <!-- feedback: a 'brochure' is printed information about the airline or the destination, not a travel document. -->
+- [x] A) In my view, uniforms should be optional, mainly because they cost families money every year.
+  <!-- feedback: Correct! The opinion marker opens the answer and the reason follows with 'mainly because', so the structure is easy to follow. -->
+- [ ] B) Uniforms, in my view, because they cost money, should be optional.
+  <!-- feedback: The word order scatters the sentence, since the opinion marker and the reason interrupt the subject and its verb. -->
+- [ ] C) Should be optional, in my view, because of the money, of course.
+  <!-- feedback: The answer begins with a verb fragment, so it cannot stand as a full sentence in an oral response. -->
+- [ ] D) In my view uniforms are a good idea, but maybe not for families.
+  <!-- feedback: The reason is left unfinished with 'maybe not', so the justification never actually arrives. -->
 
 ### Explicacion Pedagogica
-The word 'boarding pass' is used to describe a document provided by an airline during check-in, giving a passenger permission to board the airplane. This is an important vocabulary word in English.
+A well-formed opinion in speech needs the marker, the claim and the justification in that order. Placing the marker at the front and the reason at the end is the pattern that keeps the answer coherent when spoken aloud.
+
 ---
+
 ## Question 8 [D6]
 **ID:** CR-ING-11-2026-W33-speaking-opinion-giving-001-MASTERY-bundle-v8
-**Bloom:** Apply
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Bloom:** Analyze
+**EJE:** Linguistic Competence
+**Expected_Success:** 0.85
+**Contexto:** Two classmates compare how assertive they sound when writing an essay.
 
 ### Enunciado
-What is the English word for: "The activity of visiting places of interest in a particular location."
+How does "I feel that the deadline is unrealistic" differ from "The deadline is unrealistic"?
 
 ### Opciones
-- [x] C) sightseeing
-  <!-- feedback: Correct! 'sightseeing' is the activity of visiting the places of interest of a location. -->
-- [ ] A) shopping
-  <!-- feedback: 'shopping' is buying things in stores, not the general activity of visiting a place's sights. -->
-- [ ] B) hiking
-  <!-- feedback: 'hiking' is one specific outdoor walk in nature, only one kind of activity out of many. -->
-- [ ] D) camping
-  <!-- feedback: 'camping' means staying outdoors in a tent, which is not what a visitor does in a city or landmark. -->
+- [ ] A) They mean exactly the same, so the difference is only in length.
+  <!-- feedback: The two are not interchangeable, because only one of them commits the writer to the claim. -->
+- [ ] B) The first is a question that asks the reader for agreement.
+  <!-- feedback: 'I feel that' introduces a statement, not a question, so no agreement is being requested. -->
+- [x] C) The first presents the claim as a personal judgement; the second asserts it as fact.
+  <!-- feedback: Correct! 'I feel that' frames the evaluation as the writer's opinion, whereas the bare sentence asserts it as an established fact. -->
+- [ ] D) The second is grammatically incorrect because 'deadline' has no article.
+  <!-- feedback: The article is used correctly in both sentences, so nothing is wrong with the noun phrase. -->
 
 ### Explicacion Pedagogica
-The word 'sightseeing' is used to describe the activity of visiting places of interest in a particular location. This is an important vocabulary word in English.
+English offers two ways of presenting a judgement. A bare assertion treats it as objective, while a first-person frame such as 'I feel that' or 'in my view' presents it as one reader's evaluation, which is the honest choice for subjective matters.
+
 ---
-## Question 9 [D5]
+
+## Question 9 [D6]
 **ID:** CR-ING-11-2026-W33-speaking-opinion-giving-001-MASTERY-bundle-v9
-**Bloom:** Apply
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Bloom:** Analyze
+**EJE:** Linguistic Competence
+**Expected_Success:** 0.85
+**Contexto:** A language class studies which phrases invite agreement rather than assert a view.
 
 ### Enunciado
-What is the English word for: "A thing that is kept as a reminder of a person, place, or event."
+Which expression asks the listener for their view instead of giving one?
 
 ### Opciones
-- [x] C) souvenir
-  <!-- feedback: Correct! A 'souvenir' is the object that is kept as a reminder of a person, place or event. -->
-- [ ] A) gift
-  <!-- feedback: a 'gift' is something given to someone, but it is not necessarily kept as a reminder of a place or an event. -->
-- [ ] B) award
-  <!-- feedback: an 'award' is an honour granted by an institution for merit, not a keepsake. -->
-- [ ] D) prize
-  <!-- feedback: a 'prize' is the reward of a competition; the definition describes an object kept as a memento. -->
+- [ ] A) In my opinion, the plan will fail.
+  <!-- feedback: 'In my opinion' states the speaker's view directly, so it gives an opinion rather than asking for one. -->
+- [ ] B) I am convinced that the plan will fail.
+  <!-- feedback: 'I am convinced' is a very strong assertion of the speaker's belief, with no request for agreement. -->
+- [ ] C) There is no doubt that the plan will fail.
+  <!-- feedback: 'There is no doubt' closes the discussion rather than opening it to the listener. -->
+- [x] D) Do you not think the plan will fail?
+  <!-- feedback: Correct! A negative question invites the listener to supply an opinion, so the speaker gives none of its own. -->
 
 ### Explicacion Pedagogica
-The word 'souvenir' is used to describe a thing that is kept as a reminder of a person, place, or event. This is an important vocabulary word in English.
+Giving and inviting an opinion use different forms. Opinion-giving uses a declarative with a marker such as 'in my opinion', while opinion-inviting uses a question, often a negative one, which offers the floor to the other participant.
+
 ---
-## Question 10 [D6]
+
+## Question 10 [D7]
 **ID:** CR-ING-11-2026-W33-speaking-opinion-giving-001-MASTERY-bundle-v10
-**Bloom:** Apply
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Bloom:** Analyze
+**EJE:** Linguistic Competence
+**Expected_Success:** 0.85
+**Contexto:** A student writes a paragraph on public transport and needs to link her opinion to a reason.
 
 ### Enunciado
-What is the English word for: "A period of time by which something is late or postponed."
+Which connector correctly introduces a reason for the opinion just stated?
 
 ### Opciones
-- [x] D) delay
-  <!-- feedback: Correct! A 'delay' is the extra period of time by which something ends up late or postponed. -->
-- [ ] A) cancellation
-  <!-- feedback: a 'cancellation' means the trip or event will not happen at all, not that it happens later. -->
-- [ ] B) departure
-  <!-- feedback: 'departure' is simply the moment of leaving, which can be perfectly punctual. -->
-- [ ] C) arrival
-  <!-- feedback: 'arrival' is the moment of reaching the place, and it says nothing about being late. -->
+- [ ] A) However, the buses are always late.
+  <!-- feedback: 'However' signals a contrast with what was just said, not a supporting reason for it. -->
+- [x] B) Above all, the service is unreliable after ten at night.
+  <!-- feedback: Correct! 'Above all' marks the strongest of several reasons, so it adds support to the opinion that precedes it. -->
+- [ ] C) Whereas the buses are always late.
+  <!-- feedback: 'Whereas' contrasts two elements and is normally used to compare two parallel clauses. -->
+- [ ] D) For example, the buses are always late.
+  <!-- feedback: 'For example' introduces an illustration of the opinion, not a justification of it. -->
 
 ### Explicacion Pedagogica
-The word 'delay' is used to describe a period of time by which something is late or postponed. This is an important vocabulary word in English.
+Connectors carry the logical relation between clauses, so the wrong one reverses it. Markers of justification such as 'above all', 'mainly because' and 'the reason is that' add support, while 'however' and 'whereas' mark contrast.
+
 ---
+
 ## Question 11 [D7]
 **ID:** CR-ING-11-2026-W33-speaking-opinion-giving-001-MASTERY-bundle-v11
-**Bloom:** Apply
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Bloom:** Analyze
+**EJE:** Linguistic Competence
+**Expected_Success:** 0.85
+**Contexto:** A candidate must defend an opinion in an oral exam where the examiner pushes back.
 
 ### Enunciado
-What is the English word for: "The act of reporting one's presence and registering, typically at an airport or hotel."
+Which response to a challenge keeps the speaker's position without becoming rude?
 
 ### Opciones
-- [x] B) check-in
-  <!-- feedback: Correct! 'Check-in' is the act of reporting your presence and registering at an airport or hotel counter. -->
-- [ ] A) check-out
-  <!-- feedback: 'check-out' is the opposite moment, when you pay and hand the room key back before leaving. -->
-- [ ] C) booking
-  <!-- feedback: 'booking' is the reservation made beforehand; check-in is what you do on arrival. -->
-- [ ] D) reservation
-  <!-- feedback: a 'reservation' is the earlier record of your booking, not the act of registering your presence. -->
+- [ ] A) That is wrong, and you should know better.
+  <!-- feedback: The flat contradiction is rude and it offers no evidence, so the examiner learns nothing from it. -->
+- [ ] B) I do not have to explain anything to you.
+  <!-- feedback: Refusing to argue is not a defence of the position; it abandons the claim entirely. -->
+- [x] C) I see the point, but the figures I read suggest the opposite conclusion.
+  <!-- feedback: Correct! Acknowledging the point before citing evidence keeps the tone professional and the position intact. -->
+- [ ] D) Whatever, forget it.
+  <!-- feedback: Dismissing the challenge ends the exchange without defending the opinion at all. -->
 
 ### Explicacion Pedagogica
-The word 'check-in' is used to describe the act of reporting one's presence and registering, typically at an airport or hotel. This is an important vocabulary word in English.
+Defending a position means acknowledging what the other party said and then supplying evidence. The concession costs nothing, because it shows that the speaker has understood the challenge rather than dismissed it.
+
 ---
+
 ## Question 12 [D8]
 **ID:** CR-ING-11-2026-W33-speaking-opinion-giving-001-MASTERY-bundle-v12
-**Bloom:** Apply
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Bloom:** Evaluate
+**EJE:** Linguistic Competence
+**Expected_Success:** 0.85
+**Contexto:** A writing teacher criticises an opinion paragraph in a student's essay.
 
 ### Enunciado
-What is the English word for: "A period of rest or waiting before a further stage in a journey."
+Which criticism of "Public transport is bad. Also, it is inconvenient and slow." is most accurate?
 
 ### Opciones
-- [x] D) layover
-  <!-- feedback: Correct! A 'layover' is a period of rest or waiting between two further stages of a journey. -->
-- [ ] A) stopover
-  <!-- feedback: 'stopover' is used mainly for trains and usually for a longer, often overnight, break on a rail journey. -->
-- [ ] B) transfer
-  <!-- feedback: a 'transfer' is the change from one vehicle or flight to another, not the pause itself. -->
-- [ ] C) transit
-  <!-- feedback: 'transit' means the action of passing through a place, with no idea of resting between stages. -->
+- [x] A) The opinion is repeated instead of supported, so no reason or evidence is ever added.
+  <!-- feedback: Correct! Each sentence restates the same judgement with a near synonym, so the reader gets no new support for it. -->
+- [ ] B) The paragraph uses too many opinion markers in the first sentence.
+  <!-- feedback: Only one opinion marker appears in the first sentence, so the number of markers is not the problem. -->
+- [ ] C) The word 'bad' is too technical for a grade 11 essay.
+  <!-- feedback: 'Bad' is an ordinary word at this level, and the objection is not about technical vocabulary. -->
+- [ ] D) The paragraph should be written in the passive voice to sound objective.
+  <!-- feedback: The passive voice would weaken rather than clarify the position, since opinion is by nature personal. -->
 
 ### Explicacion Pedagogica
-The word 'layover' is used to describe a period of rest or waiting before a further stage in a journey. This is an important vocabulary word in English.
+An opinion paragraph needs reasons or evidence after the claim. Replacing the claim with a synonym, as in 'bad', 'inconvenient' and 'slow', adds length but no support, so the reader is left unconvinced.
+
 ---
-## Question 13 [D7]
+
+## Question 13 [D8]
 **ID:** CR-ING-11-2026-W33-speaking-opinion-giving-001-MASTERY-bundle-v13
-**Bloom:** Analyze
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Bloom:** Evaluate
+**EJE:** Linguistic Competence
+**Expected_Success:** 0.85
+**Contexto:** A student plans a speaking task that requires giving and justifying an opinion.
 
 ### Enunciado
-What is the English word for: "A system of money in general use in a particular country."
+What makes an opinion answer effective in a speaking task?
 
 ### Opciones
-- [x] B) currency
-  <!-- feedback: Correct! 'Currency' is the money system in general use in a particular country. -->
-- [ ] A) coin
-  <!-- feedback: a 'coin' is one single piece of money, not the whole system used in the country. -->
-- [ ] C) banknote
-  <!-- feedback: a 'banknote' is one single paper note of that system, not the system itself. -->
-- [ ] D) cash
-  <!-- feedback: 'cash' means money in coins and notes in general, not the specific monetary system of a country. -->
+- [ ] A) It should avoid opinion markers so that the speaker sounds objective.
+  <!-- feedback: Without an opinion marker the claim sounds like a fact and loses the honesty of a personal view. -->
+- [ ] B) It should express disagreement with whoever spoke before.
+  <!-- feedback: Disagreement is not the objective of the task, and forcing it would make the answer sound argumentative. -->
+- [ ] C) It should contain as many reasons as possible in a single sentence.
+  <!-- feedback: Cramming several reasons into one sentence reduces clarity, because the listener can only follow one argument at a time. -->
+- [x] D) It should state the position clearly and attach at least one relevant reason to it.
+  <!-- feedback: Correct! The two elements that matter are a clearly stated position and a reason that supports it. -->
 
 ### Explicacion Pedagogica
-The word 'currency' is used to describe a system of money in general use in a particular country. This is an important vocabulary word in English.
+The speaking rubric rewards a clear position and a justification, in that order and in separate sentences. Structure matters as much as content, because a listener cannot follow two arguments compressed into a single clause.
+
 ---
-## Question 14 [D8]
+
+## Question 14 [D9]
 **ID:** CR-ING-11-2026-W33-speaking-opinion-giving-001-MASTERY-bundle-v14
-**Bloom:** Analyze
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Bloom:** Evaluate
+**EJE:** Linguistic Competence
+**Expected_Success:** 0.85
+**Contexto:** An examiner asks why a candidate qualifies every sentence with a personal frame.
 
 ### Enunciado
-What is the English word for: "A book of information about a place designed for the use of visitors or tourists."
+Why is "In my view... I believe... it seems to me... I feel that..." a problem in an essay?
 
 ### Opciones
-- [x] D) guidebook
-  <!-- feedback: Correct! A 'guidebook' is a book of information about a place written for the use of visitors and tourists. -->
-- [ ] A) map
-  <!-- feedback: a 'map' shows the layout of streets and places, but it is a drawing rather than a book of information. -->
-- [ ] B) dictionary
-  <!-- feedback: a 'dictionary' gives the meaning of words, not details about a destination for travellers. -->
-- [ ] C) encyclopedia
-  <!-- feedback: an encyclopedia covers all branches of knowledge rather than one particular place for visitors. -->
+- [ ] A) Because personal frames are only allowed in speech and never in writing.
+  <!-- feedback: Personal frames are perfectly suitable in writing, where they clearly mark a judgement as a judgement. -->
+- [x] B) Because the repeated hedging blurs the writer's actual position and makes the argument look uncertain.
+  <!-- feedback: Correct! Marking every claim as a personal view leaves the reader unsure whether the writer actually holds the view at all. -->
+- [ ] C) Because each frame adds too many words to the paragraph.
+  <!-- feedback: Word count is a minor concern, and the frames are short enough not to distort the paragraph's length. -->
+- [ ] D) Because the frames appear after the opening sentence rather than before it.
+  <!-- feedback: The position of the frames is not the issue; their number and repetition are what weaken the argument. -->
 
 ### Explicacion Pedagogica
-The word 'guidebook' is used to describe a book of information about a place designed for the use of visitors or tourists. This is an important vocabulary word in English.
+A marker is most effective once per paragraph, where it establishes that the argument is a personal evaluation. Repeating it in every sentence turns the whole essay into a series of guesses and gives the writer no authority over their own view.
+
 ---
-## Question 15 [D7]
+
+## Question 15 [D10]
 **ID:** CR-ING-11-2026-W33-speaking-opinion-giving-001-MASTERY-bundle-v15
-**Bloom:** Analyze
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Bloom:** Evaluate
+**EJE:** Linguistic Competence
+**Expected_Success:** 0.85
+**Contexto:** An advanced writing candidate must judge whether a hedged opinion can stand as a conclusion.
 
 ### Enunciado
-What is the English word for: "A bag with shoulder straps that allow it to be carried on one's back."
+Is "Perhaps the problem might be that the schedule is too tight" an adequate statement of opinion?
 
 ### Opciones
-- [x] A) backpack
-  <!-- feedback: Correct! A 'backpack' has shoulder straps and is designed to be carried on one's back. -->
-- [ ] B) suitcase
-  <!-- feedback: a 'suitcase' is dragged by a handle beside the body; it has no shoulder straps. -->
-- [ ] C) briefcase
-  <!-- feedback: a 'briefcase' is a case for documents and a laptop that is carried in the hand. -->
-- [ ] D) handbag
-  <!-- feedback: a 'handbag' is a small bag held in the hand, not carried on the back. -->
+- [x] A) No. The stack of 'perhaps' and 'might' hedges the view so far that no position is actually taken.
+  <!-- feedback: Correct! Two stacked hedges make the claim impossible to defend, so the reader cannot tell what the writer actually holds. -->
+- [ ] B) Yes. Two hedges are appropriate, because they show that the speaker is careful about the evidence.
+  <!-- feedback: Carefulness comes from giving evidence, not from accumulating qualifiers that cancel the claim itself. -->
+- [ ] C) Yes. The sentence gives an opinion and a reason, so it satisfies the task on its own.
+  <!-- feedback: The sentence gives no reason beyond the restatement, so it neither states a clear view nor supports it. -->
+- [ ] D) No. The sentence is wrong because an opinion may not be expressed with a modal verb.
+  <!-- feedback: Modals express degrees of certainty perfectly well, so the objection about modal verbs is unfounded. -->
 
 ### Explicacion Pedagogica
-The word 'backpack' is used to describe a bag with shoulder straps that allow it to be carried on one's back. This is an important vocabulary word in English.
+Hedging has a legitimate function: marking a claim as less than certain when the evidence warrants it. Stacking hedges in one sentence, however, cancels the opinion and leaves the argument with nothing to defend.
+
 ---
+
 ## Question 16 [D8]
 **ID:** CR-ING-11-2026-W33-speaking-opinion-giving-001-MASTERY-bundle-v16
-**Bloom:** Analyze
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Bloom:** Apply
+**EJE:** Linguistic Competence
+**Expected_Success:** 0.85
+**Contexto:** A student answers a question about school starting times in an open interview.
 
 ### Enunciado
-What is the English word for: "In or to a foreign country, especially one across the sea."
+Which answer gives the speaker's view and its reason in the right order?
 
 ### Opciones
-- [x] C) overseas
-  <!-- feedback: Correct! 'Overseas' means in or to a foreign country, especially one reached across the sea. -->
-- [ ] A) domestic
-  <!-- feedback: 'domestic' means inside the same country, which is the opposite of overseas. -->
-- [ ] B) local
-  <!-- feedback: 'local' means belonging to the area where you already are, again the opposite meaning. -->
-- [ ] D) national
-  <!-- feedback: 'national' refers to the nation as a whole, but it does not mean being abroad. -->
+- [ ] A) Later starts would help, the reason is that teenagers need more sleep.
+  <!-- feedback: The clause introduced by 'because' cannot serve as the support for the claim it precedes, because the claim has not yet been stated. -->
+- [ ] B) The reason is that teenagers need more sleep, later starts would help.
+  <!-- feedback: Leading with the reason reverses the expected order, so the position itself arrives last and unstressed. -->
+- [ ] C) Because teenagers need more sleep, which is the reason for later starts.
+  <!-- feedback: A relative clause introduced by 'which' cannot stand as the justification for a claim, and the sentence has no subject of its own. -->
+- [x] D) I believe later starts would help, mainly because teenagers need more sleep.
+  <!-- feedback: Correct! The marker introduces the position first and the reason follows with 'mainly because', which is the natural order in speech. -->
 
 ### Explicacion Pedagogica
-The word 'overseas' is used to describe in or to a foreign country, especially one across the sea. This is an important vocabulary word in English.
+English puts the claim first and the justification second, both in speech and in writing. That order lets the listener prepare for the explanation, which is why trained speakers place 'I believe' or 'in my view' at the start of the answer.
+
 ---
+
 ## Question 17 [D9]
 **ID:** CR-ING-11-2026-W33-speaking-opinion-giving-001-MASTERY-bundle-v17
-**Bloom:** Evaluate
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Bloom:** Analyze
+**EJE:** Linguistic Competence
+**Expected_Success:** 0.85
+**Contexto:** A seminar compares how strongly an opinion is expressed across three sentences.
 
 ### Enunciado
-What is the English word for: "An estimate of income and expenditure for a set period of time."
+Which ranking is correct, from the most tentative to the most assertive?
 
 ### Opciones
-- [x] C) budget
-  <!-- feedback: Correct! A 'budget' is an estimate of income and expenditure planned for a set period of time. -->
-- [ ] A) expense
-  <!-- feedback: an 'expense' is a single cost; a budget gathers all income and spending over a period. -->
-- [ ] B) cost
-  <!-- feedback: 'cost' is the amount paid for one thing, not an estimate for a whole period. -->
-- [ ] D) price
-  <!-- feedback: 'price' is the figure written on a product, not a plan of income and expenditure. -->
+- [ ] A) I am certain, I think, and maybe.
+  <!-- feedback: The order is inverted, since 'I am certain' is the strongest of the three expressions. -->
+- [ ] B) Maybe, I think, and I am certain.
+  <!-- feedback: The middle position of 'I think' is acceptable, but the sequence as a whole does not climb. -->
+- [x] C) It may be, I suppose, and there is no doubt.
+  <!-- feedback: Correct! 'It may be' hedges, 'I suppose' takes a middle position and 'there is no doubt' closes the door on any alternative. -->
+- [ ] D) I suppose, there is no doubt, and it may be.
+  <!-- feedback: The assertive phrase is placed in the middle, which breaks the progression. -->
 
 ### Explicacion Pedagogica
-The word 'budget' is used to describe an estimate of income and expenditure for a set period of time. This is an important vocabulary word in English.
+English marks degrees of certainty on a single scale, from the open hedge through the moderate guess to the closed assertion. Placing two such markers together would be inconsistent, but selecting one commits the speaker to a precise level of confidence.
+
 ---
-## Question 18 [D10]
+
+## Question 18 [D9]
 **ID:** CR-ING-11-2026-W33-speaking-opinion-giving-001-MASTERY-bundle-v18
 **Bloom:** Evaluate
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**EJE:** Linguistic Competence
+**Expected_Success:** 0.85
+**Contexto:** A candidate must correct a paragraph where the opinion is never justified.
 
 ### Enunciado
-What is the English word for: "A practice or arrangement by which a company or government agency provides a guarantee of compensation for specified loss, damage, illness, or death in return for payment of a premium."
+The paragraph reads "School should start later. School should start later." What is the main fault?
 
 ### Opciones
-- [x] C) insurance
-  <!-- feedback: Correct! 'Insurance' is the arrangement by which a company or agency guarantees compensation for specified loss, damage, illness or death in return for a premium. -->
-- [ ] A) warranty
-  <!-- feedback: a 'warranty' is the maker's guarantee of a product, normally for a short period and against defects only. -->
-- [ ] B) guarantee
-  <!-- feedback: a 'guarantee' is the promise itself, without the payment of a premium that defines an insurance arrangement. -->
-- [ ] D) policy
-  <!-- feedback: a 'policy' is the written document of the contract, not the practice of insuring itself. -->
+- [ ] A) The claim uses the modal 'should', which cannot express an opinion.
+  <!-- feedback: The modal 'should' is in fact the standard way to recommend a change, so the objection is mistaken. -->
+- [ ] B) The paragraph is too long for the time available in the exam.
+  <!-- feedback: The fault is the content, not the length, and no timing problem could be inferred from these two sentences. -->
+- [ ] C) The claim needs a capital letter at the beginning of the second sentence.
+  <!-- feedback: Capitalisation is correct in both sentences, so there is no mechanical error of that kind. -->
+- [x] D) The claim is repeated without any reason, so the paragraph gives the reader nothing to evaluate.
+  <!-- feedback: Correct! Repeating a claim without evidence adds no value, and the reader is left without grounds for accepting it. -->
 
 ### Explicacion Pedagogica
-The word 'insurance' is used to describe a practice or arrangement by which a company or government agency provides a guarantee of compensation for specified loss, damage, illness, or death in return for payment of a premium. This is an important vocabulary word in English.
+A claim in an opinion paragraph is a promise to support it. Repeating the claim in different words satisfies the word count without honouring that promise, which is why examiners treat unsupported repetition as an empty paragraph.
+
 ---
-## Question 19 [D9]
+
+## Question 19 [D10]
 **ID:** CR-ING-11-2026-W33-speaking-opinion-giving-001-MASTERY-bundle-v19
 **Bloom:** Evaluate
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**EJE:** Linguistic Competence
+**Expected_Success:** 0.85
+**Contexto:** A debate captain prepares her team to answer challenges respectfully.
 
 ### Enunciado
-What is the English word for: "Treatment with a vaccine to produce immunity against a disease."
+Which principle best describes how an opinion should be defended in a formal debate?
 
 ### Opciones
-- [x] D) vaccination
-  <!-- feedback: Correct! 'Vaccination' is the treatment with a vaccine that produces immunity against a disease. -->
-- [ ] A) medication
-  <!-- feedback: 'medication' treats the symptoms of a disease; it does not create immunity against it. -->
-- [ ] B) prescription
-  <!-- feedback: a 'prescription' is the doctor's written order for a medicine, not the vaccine treatment itself. -->
-- [ ] C) infection
-  <!-- feedback: an 'infection' is the invasion of the body by a pathogen, the opposite of being protected against disease. -->
+- [ ] A) The speaker with the strongest vocabulary should win regardless of the evidence.
+  <!-- feedback: Vocabulary is not evidence; a fluent argument without support should not decide a debate. -->
+- [x] B) The speaker should acknowledge the opposing point and then supply evidence for the position held.
+  <!-- feedback: Correct! Conceding a valid point and answering with evidence is the accepted method, because it tests the argument rather than the speaker. -->
+- [ ] C) Speakers should avoid acknowledging opposing arguments, because that weakens their case.
+  <!-- feedback: Ignoring an opposing argument leaves it standing unanswered, which is precisely what an effective rebuttal exists to prevent. -->
+- [ ] D) Every speaker should change their position as soon as an argument is challenged.
+  <!-- feedback: Changing position under pressure concedes the debate by abandoning the reasoning that was being tested. -->
 
 ### Explicacion Pedagogica
-The word 'vaccination' is used to describe treatment with a vaccine to produce immunity against a disease. This is an important vocabulary word in English.
+Debate evaluates reasoning rather than volume. The winning move is to show that the opposing argument has been understood and then to answer it with evidence, which is a far stronger demonstration than any attempt to talk past the challenge.
+
 ---
+
 ## Question 20 [D10]
 **ID:** CR-ING-11-2026-W33-speaking-opinion-giving-001-MASTERY-bundle-v20
 **Bloom:** Evaluate
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**EJE:** Linguistic Competence
+**Expected_Success:** 0.85
+**Contexto:** An exam candidate must choose the wording that presents a balanced personal view.
 
 ### Enunciado
-What is the English word for: "Extreme tiredness and other physical effects felt by a person after a long flight across several time zones."
+Which sentence gives an opinion that is clearly personal yet not overstated?
 
 ### Opciones
-- [x] B) jet lag
-  <!-- feedback: Correct! 'Jet lag' is the extreme tiredness and other physical effects felt after a long flight across several time zones. -->
-- [ ] A) fatigue
-  <!-- feedback: 'fatigue' is tiredness from any cause, such as a lack of sleep or effort, not specifically from time zones. -->
-- [ ] C) exhaustion
-  <!-- feedback: 'exhaustion' is a total lack of energy from any cause, more general and more severe than the effect of crossing time zones. -->
-- [ ] D) insomnia
-  <!-- feedback: 'insomnia' is the difficulty of falling or staying asleep, only one symptom and not the whole set of effects after a long flight. -->
+- [x] A) As far as I can tell, small classes help students more than large ones.
+  <!-- feedback: Correct! 'As far as I can tell' marks the view as the writer's own and limited reading, without claiming more than the writer can support. -->
+- [ ] B) Obviously, small classes are the only real solution to the problem.
+  <!-- feedback: 'Obviously' tells the reader not to think, which is exactly what an opinion paragraph must avoid. -->
+- [ ] C) Everyone knows that small classes are the answer.
+  <!-- feedback: 'Everyone knows' claims universal agreement, so no reasoning is offered and none is expected. -->
+- [ ] D) Small classes help students more than large ones, without any doubt at all.
+  <!-- feedback: The absolute phrase 'without any doubt' asserts the claim as fact and contradicts its own hedging. -->
 
 ### Explicacion Pedagogica
-The word 'jet lag' is used to describe extreme tiredness and other physical effects felt by a person after a long flight across several time zones. This is an important vocabulary word in English.
+Responsible opinion writing marks the source of the judgement and the limits of the evidence. A frame such as 'as far as I can tell' does both jobs in four words, which is why experienced writers prefer it to absolute language.
+
+---
