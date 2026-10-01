@@ -330,8 +330,13 @@ export function extractContexto(qText) {
   return normalizeForHash(m ? m[1] : '');
 }
 
-export function calculateQuestionHash(qText) {
-  const components = [extractContexto(qText), extractStem(qText), ...optionRows(qText).map((o) => o.text)];
+export function calculateQuestionHash(qText, opts = {}) {
+  // `ignoreContexto` exists for one caller: duplicate-ignoring-context, which
+  // wants to know whether two questions differ in anything a student would see
+  // as the question itself. The default keeps the contexto in, because two
+  // questions about different scenarios are genuinely different items.
+  const contexto = opts.ignoreContexto ? '' : extractContexto(qText);
+  const components = [contexto, extractStem(qText), ...optionRows(qText).map((o) => o.text)];
   // JSON.stringify keeps the component boundaries, so a literal pipe inside a
   // stem or an option cannot be confused with the separator.
   const key = JSON.stringify(components);
@@ -456,6 +461,42 @@ export function validateFile(file, opts = { strictQuality: false, corpusHashMap:
   const questions = questionBlocks(content);
   if (expected && questions.length !== expected) errors.push(`Expected ${expected} questions, found ${questions.length}`);
 
+  // Two questions can share a stem and all four options and still be counted as
+  // distinct by calculateQuestionHash, because that hash includes the Contexto
+  // line. In practice the only difference is a school, a city and a student's
+  // first name: "Colegio Nacional Potosi de Oruro, el estudiante Ramiro" versus
+  // "Colegio Nacional Trinidad de Cobija, el estudiante Jaime", with the same
+  // equation, the same four answers and the same four feedbacks.
+  //
+  // A student cannot tell those two questions apart, so the difference is not a
+  // real one. The context-carrying case is excluded on purpose: when the data
+  // the question needs lives in the Contexto ("3 vacas y 2 ovejas" versus "3
+  // vacas y 3 ovejas"), the same stem and the same options are two genuinely
+  // different questions, and rejecting them would be wrong.
+  //
+  // So this rule fires only when the contexto changes in a way that carries no
+  // data: two different people and two different places, same numbers. That is
+  // what a scenario-only rewrite looks like, and it is the shape the corpus
+  // actually contains.
+  const sameDataDifferentScene = (a, b) => {
+    const numbers = (t) => (t.match(/\d+/g) || []).sort();
+    return JSON.stringify(numbers(a)) === JSON.stringify(numbers(b));
+  };
+  const seenIgnoringContext = new Map();
+  questions.forEach((q, index) => {
+    const key = calculateQuestionHash(q.text, { ignoreContexto: true });
+    const selfNum = q.number || (index + 1);
+    const prev = seenIgnoringContext.get(key);
+    if (prev !== undefined) {
+      if (sameDataDifferentScene(prev.contexto, extractContexto(q.text))) {
+        errors.push(
+          `ERROR [duplicate-ignoring-context] Question ${selfNum}: identical to Question ${prev.num} except for the Contexto line, and neither contexto carries data (stem and all four options match)`
+        );
+      }
+    } else {
+      seenIgnoringContext.set(key, { num: selfNum, contexto: extractContexto(q.text) });
+    }
+  });
 
   const correctAnswers = [];
   const allExplanations = [];
