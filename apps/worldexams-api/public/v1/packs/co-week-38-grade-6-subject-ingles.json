@@ -16,25 +16,25 @@
           "letter": "A",
           "text": "water",
           "is_correct": true,
-          "feedback": "Correct! Well done."
+          "feedback": "Correct. Water is a drink, and 'a glass of water' is the standard way to ask for it."
         },
         {
           "letter": "B",
           "text": "chicken",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "Chicken is food you eat with a fork, not a liquid you drink from a glass."
         },
         {
           "letter": "C",
           "text": "pizza",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "Pizza is a meal served on a plate; it is not poured into a glass."
         },
         {
           "letter": "D",
           "text": "bread",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "Bread is a solid food and it cannot be measured in glasses."
         }
       ],
       "correct_answer": "A",
@@ -62,25 +62,25 @@
           "letter": "A",
           "text": "It's meat.",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "Meat comes from animals; an apple grows on a tree and is not meat."
         },
         {
           "letter": "B",
           "text": "It's a fruit.",
           "is_correct": true,
-          "feedback": "Correct! Well done."
+          "feedback": "Correct. An apple is the fruit of the apple tree, and fruits are the sweet or seed-bearing parts of a plant."
         },
         {
           "letter": "C",
           "text": "It's a drink.",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "A drink is a liquid such as juice or milk; an apple is a solid food."
         },
         {
           "letter": "D",
           "text": "It's a vegetable.",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "Vegetables are the edible parts of plants such as carrots and lettuce; an apple is classified as a fruit."
         }
       ],
       "correct_answer": "B",
@@ -108,25 +108,25 @@
           "letter": "A",
           "text": "read",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "You 'read' books, magazines or messages, not coffee."
         },
         {
           "letter": "B",
           "text": "eat",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "You 'eat' solid food, and coffee is drunk, not eaten."
         },
         {
           "letter": "C",
           "text": "play",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "You 'play' games or sports; none of these verbs goes with coffee."
         },
         {
           "letter": "D",
           "text": "drinking",
           "is_correct": true,
-          "feedback": "Correct! Well done."
+          "feedback": "Correct. 'Drink' is the verb used with liquids, and 'Do you like drinking coffee?' uses the -ing form after 'like'."
         }
       ],
       "correct_answer": "D",
@@ -154,25 +154,25 @@
           "letter": "A",
           "text": "dish",
           "is_correct": true,
-          "feedback": "Correct! Well done."
+          "feedback": "Correct. A dish is a complete prepared food: rice with beans is the classic everyday plate in Colombia."
         },
         {
           "letter": "B",
           "text": "fruit",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "A fruit is something sweet that grows on a plant, like an apple or a mango."
         },
         {
           "letter": "C",
           "text": "snack",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "A snack is a small food eaten between meals, so a full plate of rice and beans is more than that."
         },
         {
           "letter": "D",
           "text": "dessert",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "A dessert is something sweet served at the end of a meal, like ice cream or flan."
         }
       ],
       "correct_answer": "A",
@@ -200,25 +200,25 @@
           "letter": "A",
           "text": "A spoon.",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "A spoon is used to lift liquid or soft food, and it has no cutting edge."
         },
         {
           "letter": "B",
           "text": "A glass.",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "A glass is for drinking; it cannot cut anything."
         },
         {
           "letter": "C",
           "text": "A knife.",
           "is_correct": true,
-          "feedback": "Correct! Well done."
+          "feedback": "Correct. A knife has a sharp metal edge, which is what separates pieces of meat."
         },
         {
           "letter": "D",
           "text": "A plate.",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "A plate holds food; it is not a tool with an edge that cuts."
         }
       ],
       "correct_answer": "C",
@@ -246,25 +246,25 @@
           "letter": "A",
           "text": "drinks",
           "is_correct": true,
-          "feedback": "Correct! Well done."
+          "feedback": "Correct. Both milk and juice are liquids you swallow, so they belong to the group of drinks."
         },
         {
           "letter": "B",
           "text": "foods",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "Foods are things you chew, like bread or rice; milk and juice are not eaten with a fork."
         },
         {
           "letter": "C",
           "text": "colors",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "Colors describe how something looks, not what kind of substance it is."
         },
         {
           "letter": "D",
           "text": "sports",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "Sports are activities you play, like football or swimming; they do not describe a liquid."
         }
       ],
       "correct_answer": "A",
@@ -292,25 +292,25 @@
           "letter": "A",
           "text": "eggs",
           "is_correct": true,
-          "feedback": "Correct! Well done."
+          "feedback": "Correct. Eggs are a common breakfast food, eaten in the morning together with bread or cereal."
         },
         {
           "letter": "B",
           "text": "shampoo",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "Shampoo is used to wash hair; it is not a food."
         },
         {
           "letter": "C",
           "text": "a chair",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "A chair is furniture you sit on, not something you can eat."
         },
         {
           "letter": "D",
           "text": "dinner",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "Dinner is the evening meal; breakfast is eaten earlier, in the morning."
         }
       ],
       "correct_answer": "A",
@@ -338,25 +338,25 @@
           "letter": "A",
           "text": "bitter",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "Bitter is the taste of coffee or lemon; sugar is the opposite of bitter."
         },
         {
           "letter": "B",
           "text": "salty",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "Salty is the taste of chips or sea water, which is what salt gives."
         },
         {
           "letter": "C",
           "text": "sour",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "Sour is the taste of a lemon or vinegar."
         },
         {
           "letter": "D",
           "text": "sweet",
           "is_correct": true,
-          "feedback": "Correct! Well done."
+          "feedback": "Correct. Sugar tastes sweet, which is the quality that makes it a sweetener."
         }
       ],
       "correct_answer": "D",
@@ -384,25 +384,25 @@
           "letter": "A",
           "text": "bread",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "Bread is made from flour and is not animal flesh, so chicken and beef cannot be bread."
         },
         {
           "letter": "B",
           "text": "vegetables",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "Vegetables are the edible parts of plants, and meat comes from animals."
         },
         {
           "letter": "C",
           "text": "fruits",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "Fruits grow on plants, and meat comes from animals."
         },
         {
           "letter": "D",
           "text": "meat",
           "is_correct": true,
-          "feedback": "Correct! Well done."
+          "feedback": "Correct. Meat is the flesh of animals eaten as food, and chicken and beef are two of the common kinds."
         }
       ],
       "correct_answer": "D",
@@ -430,25 +430,25 @@
           "letter": "A",
           "text": "At the supermarket.",
           "is_correct": true,
-          "feedback": "Correct! Well done."
+          "feedback": "Correct. A supermarket is the shop where food and household products are sold, so that is where you buy it."
         },
         {
           "letter": "B",
           "text": "At the park.",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "A park is a green space for walking and playing; nothing is sold there."
         },
         {
           "letter": "C",
           "text": "At the bank.",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "A bank handles money and accounts; it does not sell food."
         },
         {
           "letter": "D",
           "text": "At the hospital.",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "A hospital treats sick people; food is not bought there."
         }
       ],
       "correct_answer": "A",

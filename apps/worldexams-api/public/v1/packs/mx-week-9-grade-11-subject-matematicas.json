@@ -613,7 +613,7 @@
           "letter": "C",
           "text": "\\$2x^3 + 5x^2 + 6x + 15$",
           "is_correct": false,
-          "feedback": "Revisa los signos de los productos."
+          "feedback": "Al multiplicar (x² + 3)(2x − 5), los productos con segundo factor negativo conservan el signo menos: quedan −5x² y −15, no positivos."
         },
         {
           "letter": "D",

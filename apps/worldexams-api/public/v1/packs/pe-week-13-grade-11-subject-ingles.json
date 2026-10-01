@@ -8,37 +8,37 @@
   },
   "questions": [
     {
-      "id": "PE-ING-11-2026-W13-countable-uncountable-001-MASTERY-v1",
-      "statement": "What is the English word for: \"A place where you live or stay on holiday.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "id": "PE-ING-11-2026-W13-countable-uncountable-001-MASTERY-bundle-v1",
+      "statement": "Which of these nouns is uncountable?",
+      "context": "Sustantivos contables e incontables, Lima, grado 11.",
       "options": [
         {
-          "letter": "B",
-          "text": "accommodation",
+          "letter": "A",
+          "text": "information",
           "is_correct": true,
-          "feedback": "Correct! 'accommodation' matches the definition."
+          "feedback": "'Information' is uncountable: no plural form and no indefinite article."
         },
         {
-          "letter": "A",
-          "text": "transportation",
+          "letter": "B",
+          "text": "apple",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "'Apple' is a countable noun with a regular plural 'apples'."
         },
         {
           "letter": "C",
-          "text": "entertainment",
+          "text": "book",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "'Book' is countable and takes the plural 'books'."
         },
         {
           "letter": "D",
-          "text": "currency",
+          "text": "chair",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "'Chair' is countable and takes the plural 'chairs'."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "The word 'accommodation' is used to describe a place where you live or stay on holiday. This is an important vocabulary word in English.\n---",
+      "correct_answer": "A",
+      "explanation": "'Information', 'advice', 'furniture' y 'equipment' son incontables y no tienen forma plural.\n\n---",
       "difficulty": "4",
       "images": [],
       "tags": [],
@@ -53,41 +53,41 @@
       "country": "pe"
     },
     {
-      "id": "PE-ING-11-2026-W13-countable-uncountable-001-MASTERY-v2",
-      "statement": "What is the English word for: \"A detailed plan or route of a journey.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "id": "PE-ING-11-2026-W13-countable-uncountable-001-MASTERY-bundle-v2",
+      "statement": "Choose the correct sentence.",
+      "context": "Aplicacion de contables e incontables, Arequipa.",
       "options": [
         {
-          "letter": "B",
-          "text": "itinerary",
-          "is_correct": true,
-          "feedback": "Correct! 'itinerary' matches the definition."
+          "letter": "A",
+          "text": "I need a information about the course.",
+          "is_correct": false,
+          "feedback": "Uncountable nouns never take the indefinite article 'a'."
         },
         {
-          "letter": "A",
-          "text": "baggage",
+          "letter": "B",
+          "text": "I need many information about the course.",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "'Many' requires a plural count noun."
         },
         {
           "letter": "C",
-          "text": "destination",
+          "text": "I need informations about the course.",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "'Informations' is not a standard English plural."
         },
         {
           "letter": "D",
-          "text": "passport",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "text": "I need some information about the course.",
+          "is_correct": true,
+          "feedback": "'Some information' is the correct treatment for an uncountable noun."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "The word 'itinerary' is used to describe a detailed plan or route of a journey. This is an important vocabulary word in English.\n---",
+      "correct_answer": "D",
+      "explanation": "Los sustantivos incontables no llevan 'a/an' y se miden con 'some', 'much' o 'a lot of'.\n\n---",
       "difficulty": "4",
       "images": [],
       "tags": [],
-      "bloom": "Remember",
+      "bloom": "Analyze",
       "expected_success": 0.8,
       "bundle_id": "PE-ING-11-2026-W13-countable-uncountable-001-MASTERY-bundle",
       "periodo": 13,
@@ -98,41 +98,86 @@
       "country": "pe"
     },
     {
-      "id": "PE-ING-11-2026-W13-countable-uncountable-001-MASTERY-v3",
-      "statement": "What is the English word for: \"The place to which someone or something is going or being sent.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "id": "PE-ING-11-2026-W13-countable-uncountable-001-MASTERY-bundle-v3",
+      "statement": "Complete: 'How ____ sugar do you need?'",
+      "context": "Cuantificadores, Trujillo.",
       "options": [
         {
-          "letter": "C",
-          "text": "destination",
-          "is_correct": true,
-          "feedback": "Correct! 'destination' matches the definition."
-        },
-        {
           "letter": "A",
-          "text": "departure",
+          "text": "many",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "'How many' is used with plural countable nouns."
         },
         {
           "letter": "B",
-          "text": "arrival",
+          "text": "much",
+          "is_correct": true,
+          "feedback": "'How much' is the correct quantifier for an uncountable noun."
+        },
+        {
+          "letter": "C",
+          "text": "several",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "'Several' requires a plural count noun."
         },
         {
           "letter": "D",
-          "text": "journey",
+          "text": "a few",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "'A few' requires a plural count noun and means a small number."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Con sustantivos incontables se usa 'much' en preguntas y preguntas negativas. Es uno de los puntos mas frecuentes de las pruebas de esta unidad.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.8,
+      "bundle_id": "PE-ING-11-2026-W13-countable-uncountable-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-ING-11-2026-W13-countable-uncountable-001-MASTERY-bundle-v4",
+      "statement": "Which sentence uses 'a piece of' correctly?",
+      "context": "Expresiones de cantidad, Piura.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "She bought a piece of furnitures for the flat.",
+          "is_correct": false,
+          "feedback": "'Furnitures' does not exist; the base form is uncountable."
+        },
+        {
+          "letter": "B",
+          "text": "She bought piece of furniture for the flat.",
+          "is_correct": false,
+          "feedback": "The article 'a' is missing before 'piece'."
+        },
+        {
+          "letter": "C",
+          "text": "She bought a piece of furniture for the flat.",
+          "is_correct": true,
+          "feedback": "'A piece of furniture' makes an uncountable noun countable."
+        },
+        {
+          "letter": "D",
+          "text": "She bought a piece furniture for the flat.",
+          "is_correct": false,
+          "feedback": "The preposition 'of' is required between 'piece' and the noun."
         }
       ],
       "correct_answer": "C",
-      "explanation": "The word 'destination' is used to describe the place to which someone or something is going or being sent. This is an important vocabulary word in English.\n---",
+      "explanation": "'A piece of' convierte un sustantivo incontable en una unidad contable. Esta es la unica forma de convertir en contable un sustantivo que no admite plural.\n\n---",
       "difficulty": "4",
       "images": [],
       "tags": [],
-      "bloom": "Understand",
+      "bloom": "Apply",
       "expected_success": 0.8,
       "bundle_id": "PE-ING-11-2026-W13-countable-uncountable-001-MASTERY-bundle",
       "periodo": 13,
@@ -143,41 +188,41 @@
       "country": "pe"
     },
     {
-      "id": "PE-ING-11-2026-W13-countable-uncountable-001-MASTERY-v4",
-      "statement": "What is the English word for: \"Suitcases or other bags in which to pack personal belongings for traveling.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "id": "PE-ING-11-2026-W13-countable-uncountable-001-MASTERY-bundle-v5",
+      "statement": "Which noun is countable?",
+      "context": "Clasificacion de sustantivos, Cusco.",
       "options": [
         {
+          "letter": "A",
+          "text": "furniture",
+          "is_correct": false,
+          "feedback": "'Furniture' is uncountable and has no plural form."
+        },
+        {
           "letter": "B",
+          "text": "chair",
+          "is_correct": true,
+          "feedback": "'Chair' is countable: 'a chair', 'two chairs'."
+        },
+        {
+          "letter": "C",
+          "text": "advice",
+          "is_correct": false,
+          "feedback": "'Advice' is uncountable and is never pluralised."
+        },
+        {
+          "letter": "D",
           "text": "luggage",
-          "is_correct": true,
-          "feedback": "Correct! 'luggage' matches the definition."
-        },
-        {
-          "letter": "A",
-          "text": "ticket",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "C",
-          "text": "flight",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "D",
-          "text": "reservation",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "'Luggage' is uncountable and takes no indefinite article."
         }
       ],
       "correct_answer": "B",
-      "explanation": "The word 'luggage' is used to describe suitcases or other bags in which to pack personal belongings for traveling. This is an important vocabulary word in English.\n---",
+      "explanation": "'Chair', 'table', 'book' y 'window' son contables y pueden pluralizarse. Los sustantivos que nombran objetos fisicos suelen ser contables y por eso llevan plural.\n\n---",
       "difficulty": "4",
       "images": [],
       "tags": [],
-      "bloom": "Understand",
+      "bloom": "Analyze",
       "expected_success": 0.8,
       "bundle_id": "PE-ING-11-2026-W13-countable-uncountable-001-MASTERY-bundle",
       "periodo": 13,
@@ -188,86 +233,41 @@
       "country": "pe"
     },
     {
-      "id": "PE-ING-11-2026-W13-countable-uncountable-001-MASTERY-v5",
-      "statement": "What is the English word for: \"A traveler on a public or private conveyance other than the driver, pilot, or crew.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "id": "PE-ING-11-2026-W13-countable-uncountable-001-MASTERY-bundle-v6",
+      "statement": "Look at the sentence: 'I bought three advices from the teacher.' What is the error?",
+      "context": "Deteccion de errores, Lima.",
       "options": [
         {
-          "letter": "B",
-          "text": "passenger",
-          "is_correct": true,
-          "feedback": "Correct! 'passenger' matches the definition."
-        },
-        {
           "letter": "A",
-          "text": "pedestrian",
+          "text": "Nothing is wrong with the sentence",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "C",
-          "text": "commuter",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "D",
-          "text": "tourist",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        }
-      ],
-      "correct_answer": "B",
-      "explanation": "The word 'passenger' is used to describe a traveler on a public or private conveyance other than the driver, pilot, or crew. This is an important vocabulary word in English.\n---",
-      "difficulty": "6",
-      "images": [],
-      "tags": [],
-      "bloom": "Understand",
-      "expected_success": 0.8,
-      "bundle_id": "PE-ING-11-2026-W13-countable-uncountable-001-MASTERY-bundle",
-      "periodo": 13,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ingles",
-      "grade": 11,
-      "country": "pe"
-    },
-    {
-      "id": "PE-ING-11-2026-W13-countable-uncountable-001-MASTERY-v6",
-      "statement": "What is the English word for: \"The place at a port, airport, or frontier where officials check incoming goods, travelers, or luggage.\"",
-      "context": "Choose the correct English word for the given definition.",
-      "options": [
-        {
-          "letter": "D",
-          "text": "customs",
-          "is_correct": true,
-          "feedback": "Correct! 'customs' matches the definition."
-        },
-        {
-          "letter": "A",
-          "text": "security",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Pluralising an uncountable noun is a standard error."
         },
         {
           "letter": "B",
-          "text": "terminal",
+          "text": "'Bought' must be 'buy'",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "'Bought' is correct in the simple past."
         },
         {
           "letter": "C",
-          "text": "gate",
+          "text": "'Teacher' must be plural",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "The teacher here is a single person and agrees with 'from'."
+        },
+        {
+          "letter": "D",
+          "text": "'Advices' should be 'a piece of advice'",
+          "is_correct": true,
+          "feedback": "Uncountable nouns are quantified with 'a piece of' rather than a plural."
         }
       ],
       "correct_answer": "D",
-      "explanation": "The word 'customs' is used to describe the place at a port, airport, or frontier where officials check incoming goods, travelers, or luggage. This is an important vocabulary word in English.\n---",
+      "explanation": "'Advice' es incontable, de modo que no admite plural ni numeracion directa. Conviene practicarlo con otros ejemplos antes del examen.\n\n---",
       "difficulty": "6",
       "images": [],
       "tags": [],
-      "bloom": "Understand",
+      "bloom": "Analyze",
       "expected_success": 0.8,
       "bundle_id": "PE-ING-11-2026-W13-countable-uncountable-001-MASTERY-bundle",
       "periodo": 13,
@@ -278,128 +278,38 @@
       "country": "pe"
     },
     {
-      "id": "PE-ING-11-2026-W13-countable-uncountable-001-MASTERY-v7",
-      "statement": "What is the English word for: \"A document provided by an airline during check-in, giving a passenger permission to board the airplane.\"",
-      "context": "Choose the correct English word for the given definition.",
-      "options": [
-        {
-          "letter": "B",
-          "text": "boarding pass",
-          "is_correct": true,
-          "feedback": "Correct! 'boarding pass' matches the definition."
-        },
-        {
-          "letter": "A",
-          "text": "visa",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "C",
-          "text": "receipt",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "D",
-          "text": "brochure",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        }
-      ],
-      "correct_answer": "B",
-      "explanation": "The word 'boarding pass' is used to describe a document provided by an airline during check-in, giving a passenger permission to board the airplane. This is an important vocabulary word in English.\n---",
-      "difficulty": "6",
-      "images": [],
-      "tags": [],
-      "bloom": "Apply",
-      "expected_success": 0.8,
-      "bundle_id": "PE-ING-11-2026-W13-countable-uncountable-001-MASTERY-bundle",
-      "periodo": 13,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ingles",
-      "grade": 11,
-      "country": "pe"
-    },
-    {
-      "id": "PE-ING-11-2026-W13-countable-uncountable-001-MASTERY-v8",
-      "statement": "What is the English word for: \"The activity of visiting places of interest in a particular location.\"",
-      "context": "Choose the correct English word for the given definition.",
-      "options": [
-        {
-          "letter": "B",
-          "text": "sightseeing",
-          "is_correct": true,
-          "feedback": "Correct! 'sightseeing' matches the definition."
-        },
-        {
-          "letter": "A",
-          "text": "shopping",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "C",
-          "text": "hiking",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "D",
-          "text": "camping",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        }
-      ],
-      "correct_answer": "B",
-      "explanation": "The word 'sightseeing' is used to describe the activity of visiting places of interest in a particular location. This is an important vocabulary word in English.\n---",
-      "difficulty": "6",
-      "images": [],
-      "tags": [],
-      "bloom": "Apply",
-      "expected_success": 0.8,
-      "bundle_id": "PE-ING-11-2026-W13-countable-uncountable-001-MASTERY-bundle",
-      "periodo": 13,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ingles",
-      "grade": 11,
-      "country": "pe"
-    },
-    {
-      "id": "PE-ING-11-2026-W13-countable-uncountable-001-MASTERY-v9",
-      "statement": "What is the English word for: \"A thing that is kept as a reminder of a person, place, or event.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "id": "PE-ING-11-2026-W13-countable-uncountable-001-MASTERY-bundle-v7",
+      "statement": "Complete the sentence: 'There is ____ water left in the bottle.'",
+      "context": "Cuantificadores con sustantivos incontables, Arequipa.",
       "options": [
         {
           "letter": "A",
-          "text": "souvenir",
+          "text": "some",
           "is_correct": true,
-          "feedback": "Correct! 'souvenir' matches the definition."
+          "feedback": "'Some water' is the correct quantifier in an affirmative statement."
         },
         {
           "letter": "B",
-          "text": "gift",
+          "text": "a",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Uncountable nouns never take the indefinite article 'a'."
         },
         {
           "letter": "C",
-          "text": "award",
+          "text": "many",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "'Many' requires a plural count noun."
         },
         {
           "letter": "D",
-          "text": "prize",
+          "text": "a few",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "'A few' requires a plural count noun and means a small number."
         }
       ],
       "correct_answer": "A",
-      "explanation": "The word 'souvenir' is used to describe a thing that is kept as a reminder of a person, place, or event. This is an important vocabulary word in English.\n---",
-      "difficulty": "6",
+      "explanation": "En afirmativas y preguntas se usa 'some' con sustantivos incontables. Las preguntas con 'how much' siguen el mismo criterio de cantidad no numerable.\n\n---",
+      "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Apply",
@@ -413,41 +323,41 @@
       "country": "pe"
     },
     {
-      "id": "PE-ING-11-2026-W13-countable-uncountable-001-MASTERY-v10",
-      "statement": "What is the English word for: \"A period of time by which something is late or postponed.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "id": "PE-ING-11-2026-W13-countable-uncountable-001-MASTERY-bundle-v8",
+      "statement": "Which sentence is correct with 'much' or 'many'?",
+      "context": "Contraste de cuantificadores, Trujillo.",
       "options": [
         {
-          "letter": "B",
-          "text": "delay",
-          "is_correct": true,
-          "feedback": "Correct! 'delay' matches the definition."
+          "letter": "A",
+          "text": "There isn't many time left, but there are much tourists.",
+          "is_correct": false,
+          "feedback": "Both quantifiers are used with the wrong type of noun."
         },
         {
-          "letter": "A",
-          "text": "cancellation",
+          "letter": "B",
+          "text": "There isn't much times left, but there are many tourist.",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "'Times' and 'tourist' would both be incorrect plurals."
         },
         {
           "letter": "C",
-          "text": "departure",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "text": "There isn't much time left, but there are many tourists.",
+          "is_correct": true,
+          "feedback": "'Much time' is uncountable and 'many tourists' is a plural count noun."
         },
         {
           "letter": "D",
-          "text": "arrival",
+          "text": "There isn't a much time left, but there are many tourists.",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "'Much' cannot be preceded by the article 'a'."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "The word 'delay' is used to describe a period of time by which something is late or postponed. This is an important vocabulary word in English.\n---",
-      "difficulty": "6",
+      "correct_answer": "C",
+      "explanation": "'Much' acompaña a sustantivos incontables y 'many' a plurales contables. Los articulos 'a' y 'an' solo pueden preceder a sustantivos contables en singular.\n\n---",
+      "difficulty": "4",
       "images": [],
       "tags": [],
-      "bloom": "Apply",
+      "bloom": "Evaluate",
       "expected_success": 0.8,
       "bundle_id": "PE-ING-11-2026-W13-countable-uncountable-001-MASTERY-bundle",
       "periodo": 13,
@@ -458,83 +368,83 @@
       "country": "pe"
     },
     {
-      "id": "PE-ING-11-2026-W13-countable-uncountable-001-MASTERY-v11",
-      "statement": "What is the English word for: \"The act of reporting one's presence and registering, typically at an airport or hotel.\"",
-      "context": "Choose the correct English word for the given definition.",
-      "options": [
-        {
-          "letter": "D",
-          "text": "check-in",
-          "is_correct": true,
-          "feedback": "Correct! 'check-in' matches the definition."
-        },
-        {
-          "letter": "A",
-          "text": "check-out",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "B",
-          "text": "booking",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "C",
-          "text": "reservation",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        }
-      ],
-      "correct_answer": "D",
-      "explanation": "The word 'check-in' is used to describe the act of reporting one's presence and registering, typically at an airport or hotel. This is an important vocabulary word in English.\n---",
-      "difficulty": "8",
-      "images": [],
-      "tags": [],
-      "bloom": "Apply",
-      "expected_success": 0.8,
-      "bundle_id": "PE-ING-11-2026-W13-countable-uncountable-001-MASTERY-bundle",
-      "periodo": 13,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ingles",
-      "grade": 11,
-      "country": "pe"
-    },
-    {
-      "id": "PE-ING-11-2026-W13-countable-uncountable-001-MASTERY-v12",
-      "statement": "What is the English word for: \"A period of rest or waiting before a further stage in a journey.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "id": "PE-ING-11-2026-W13-countable-uncountable-001-MASTERY-bundle-v9",
+      "statement": "What happens when an uncountable noun is used with 'many'?",
+      "context": "Analisis gramatical, Piura.",
       "options": [
         {
           "letter": "A",
-          "text": "layover",
+          "text": "The sentence is ungrammatical because 'many' requires a plural count noun",
           "is_correct": true,
-          "feedback": "Correct! 'layover' matches the definition."
+          "feedback": "That is why 'much' or 'a lot of' is used instead."
         },
         {
           "letter": "B",
-          "text": "stopover",
+          "text": "The sentence is correct because 'many' works with all plural-looking nouns",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "'Many' is restricted to count nouns, regardless of appearance."
         },
         {
           "letter": "C",
-          "text": "transfer",
+          "text": "The sentence is correct if the verb is plural",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Agreement does not repair the wrong quantifier."
         },
         {
           "letter": "D",
-          "text": "transit",
+          "text": "The sentence becomes a question",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "The quantifier choice does not change the sentence type."
         }
       ],
       "correct_answer": "A",
-      "explanation": "The word 'layover' is used to describe a period of rest or waiting before a further stage in a journey. This is an important vocabulary word in English.\n---",
-      "difficulty": "8",
+      "explanation": "El uso de 'many' con un sustantivo incontable es incorrecto porque 'many' exige plurales contables.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.8,
+      "bundle_id": "PE-ING-11-2026-W13-countable-uncountable-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-ING-11-2026-W13-countable-uncountable-001-MASTERY-bundle-v10",
+      "statement": "Complete: 'She gave me some very useful ____ about the project.'",
+      "context": "Sustantivos incontables en contexto, Cusco.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "advices",
+          "is_correct": false,
+          "feedback": "'Advices' does not exist in standard English."
+        },
+        {
+          "letter": "B",
+          "text": "advice",
+          "is_correct": true,
+          "feedback": "'Some useful advice' is the natural collocation in English."
+        },
+        {
+          "letter": "C",
+          "text": "information",
+          "is_correct": false,
+          "feedback": "'Some information' is also correct, but the adjective position differs by convention."
+        },
+        {
+          "letter": "D",
+          "text": "informations",
+          "is_correct": false,
+          "feedback": "The plural of 'information' is not used in this sense."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "'Advice' e 'information' son incontables y encajan con el articulo indefinido singular tras 'some'.\n\n---",
+      "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Apply",
@@ -548,308 +458,128 @@
       "country": "pe"
     },
     {
-      "id": "PE-ING-11-2026-W13-countable-uncountable-001-MASTERY-v13",
-      "statement": "What is the English word for: \"A system of money in general use in a particular country.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "id": "PE-ING-11-2026-W13-countable-uncountable-001-MASTERY-bundle-v11",
+      "statement": "Which sentence uses 'fewer' and 'less' correctly?",
+      "context": "Cuantificadores comparativos, Juliaca.",
       "options": [
         {
-          "letter": "C",
-          "text": "currency",
-          "is_correct": true,
-          "feedback": "Correct! 'currency' matches the definition."
-        },
-        {
           "letter": "A",
-          "text": "coin",
+          "text": "There are less students and there is fewer water.",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Both quantifiers are attached to the wrong type of noun."
         },
         {
           "letter": "B",
-          "text": "banknote",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "D",
-          "text": "cash",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        }
-      ],
-      "correct_answer": "C",
-      "explanation": "The word 'currency' is used to describe a system of money in general use in a particular country. This is an important vocabulary word in English.\n---",
-      "difficulty": "8",
-      "images": [],
-      "tags": [],
-      "bloom": "Analyze",
-      "expected_success": 0.8,
-      "bundle_id": "PE-ING-11-2026-W13-countable-uncountable-001-MASTERY-bundle",
-      "periodo": 13,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ingles",
-      "grade": 11,
-      "country": "pe"
-    },
-    {
-      "id": "PE-ING-11-2026-W13-countable-uncountable-001-MASTERY-v14",
-      "statement": "What is the English word for: \"A book of information about a place designed for the use of visitors or tourists.\"",
-      "context": "Choose the correct English word for the given definition.",
-      "options": [
-        {
-          "letter": "C",
-          "text": "guidebook",
+          "text": "There are fewer students and there is less water.",
           "is_correct": true,
-          "feedback": "Correct! 'guidebook' matches the definition."
-        },
-        {
-          "letter": "A",
-          "text": "map",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "B",
-          "text": "dictionary",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "D",
-          "text": "encyclopedia",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        }
-      ],
-      "correct_answer": "C",
-      "explanation": "The word 'guidebook' is used to describe a book of information about a place designed for the use of visitors or tourists. This is an important vocabulary word in English.\n---",
-      "difficulty": "8",
-      "images": [],
-      "tags": [],
-      "bloom": "Analyze",
-      "expected_success": 0.8,
-      "bundle_id": "PE-ING-11-2026-W13-countable-uncountable-001-MASTERY-bundle",
-      "periodo": 13,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ingles",
-      "grade": 11,
-      "country": "pe"
-    },
-    {
-      "id": "PE-ING-11-2026-W13-countable-uncountable-001-MASTERY-v15",
-      "statement": "What is the English word for: \"A bag with shoulder straps that allow it to be carried on one's back.\"",
-      "context": "Choose the correct English word for the given definition.",
-      "options": [
-        {
-          "letter": "C",
-          "text": "backpack",
-          "is_correct": true,
-          "feedback": "Correct! 'backpack' matches the definition."
-        },
-        {
-          "letter": "A",
-          "text": "suitcase",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "B",
-          "text": "briefcase",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "D",
-          "text": "handbag",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        }
-      ],
-      "correct_answer": "C",
-      "explanation": "The word 'backpack' is used to describe a bag with shoulder straps that allow it to be carried on one's back. This is an important vocabulary word in English.\n---",
-      "difficulty": "8",
-      "images": [],
-      "tags": [],
-      "bloom": "Analyze",
-      "expected_success": 0.8,
-      "bundle_id": "PE-ING-11-2026-W13-countable-uncountable-001-MASTERY-bundle",
-      "periodo": 13,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ingles",
-      "grade": 11,
-      "country": "pe"
-    },
-    {
-      "id": "PE-ING-11-2026-W13-countable-uncountable-001-MASTERY-v16",
-      "statement": "What is the English word for: \"In or to a foreign country, especially one across the sea.\"",
-      "context": "Choose the correct English word for the given definition.",
-      "options": [
-        {
-          "letter": "C",
-          "text": "overseas",
-          "is_correct": true,
-          "feedback": "Correct! 'overseas' matches the definition."
-        },
-        {
-          "letter": "A",
-          "text": "domestic",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "B",
-          "text": "local",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "D",
-          "text": "national",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        }
-      ],
-      "correct_answer": "C",
-      "explanation": "The word 'overseas' is used to describe in or to a foreign country, especially one across the sea. This is an important vocabulary word in English.\n---",
-      "difficulty": "8",
-      "images": [],
-      "tags": [],
-      "bloom": "Analyze",
-      "expected_success": 0.8,
-      "bundle_id": "PE-ING-11-2026-W13-countable-uncountable-001-MASTERY-bundle",
-      "periodo": 13,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ingles",
-      "grade": 11,
-      "country": "pe"
-    },
-    {
-      "id": "PE-ING-11-2026-W13-countable-uncountable-001-MASTERY-v17",
-      "statement": "What is the English word for: \"An estimate of income and expenditure for a set period of time.\"",
-      "context": "Choose the correct English word for the given definition.",
-      "options": [
-        {
-          "letter": "D",
-          "text": "budget",
-          "is_correct": true,
-          "feedback": "Correct! 'budget' matches the definition."
-        },
-        {
-          "letter": "A",
-          "text": "expense",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "B",
-          "text": "cost",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "'Fewer students' and 'less water' match the countability of each noun."
         },
         {
           "letter": "C",
-          "text": "price",
+          "text": "There are fewer water and there is less students.",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        }
-      ],
-      "correct_answer": "D",
-      "explanation": "The word 'budget' is used to describe an estimate of income and expenditure for a set period of time. This is an important vocabulary word in English.\n---",
-      "difficulty": "10",
-      "images": [],
-      "tags": [],
-      "bloom": "Evaluate",
-      "expected_success": 0.8,
-      "bundle_id": "PE-ING-11-2026-W13-countable-uncountable-001-MASTERY-bundle",
-      "periodo": 13,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ingles",
-      "grade": 11,
-      "country": "pe"
-    },
-    {
-      "id": "PE-ING-11-2026-W13-countable-uncountable-001-MASTERY-v18",
-      "statement": "What is the English word for: \"A practice or arrangement by which a company or government agency provides a guarantee of compensation for specified loss, damage, illness, or death in return for payment of a premium.\"",
-      "context": "Choose the correct English word for the given definition.",
-      "options": [
-        {
-          "letter": "C",
-          "text": "insurance",
-          "is_correct": true,
-          "feedback": "Correct! 'insurance' matches the definition."
-        },
-        {
-          "letter": "A",
-          "text": "warranty",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "B",
-          "text": "guarantee",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "The quantifiers are again reversed with respect to countability."
         },
         {
           "letter": "D",
-          "text": "policy",
+          "text": "There are less students and there is less water.",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        }
-      ],
-      "correct_answer": "C",
-      "explanation": "The word 'insurance' is used to describe a practice or arrangement by which a company or government agency provides a guarantee of compensation for specified loss, damage, illness, or death in return for payment of a premium. This is an important vocabulary word in English.\n---",
-      "difficulty": "10",
-      "images": [],
-      "tags": [],
-      "bloom": "Evaluate",
-      "expected_success": 0.8,
-      "bundle_id": "PE-ING-11-2026-W13-countable-uncountable-001-MASTERY-bundle",
-      "periodo": 13,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ingles",
-      "grade": 11,
-      "country": "pe"
-    },
-    {
-      "id": "PE-ING-11-2026-W13-countable-uncountable-001-MASTERY-v19",
-      "statement": "What is the English word for: \"Treatment with a vaccine to produce immunity against a disease.\"",
-      "context": "Choose the correct English word for the given definition.",
-      "options": [
-        {
-          "letter": "B",
-          "text": "vaccination",
-          "is_correct": true,
-          "feedback": "Correct! 'vaccination' matches the definition."
-        },
-        {
-          "letter": "A",
-          "text": "medication",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "C",
-          "text": "prescription",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "D",
-          "text": "infection",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "'Less' is incorrect before the plural noun 'students'."
         }
       ],
       "correct_answer": "B",
-      "explanation": "The word 'vaccination' is used to describe treatment with a vaccine to produce immunity against a disease. This is an important vocabulary word in English.\n---",
-      "difficulty": "10",
+      "explanation": "'Fewer' se usa con plurales contables y 'less' con sustantivos incontables. Este matiz se comprueba comparando con el resto de opciones.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.8,
+      "bundle_id": "PE-ING-11-2026-W13-countable-uncountable-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-ING-11-2026-W13-countable-uncountable-001-MASTERY-bundle-v12",
+      "statement": "Read the sentence: 'How much rice did you cook?' What type of noun does 'rice' behave as here?",
+      "context": "Sustantivos que cambian de categoria, Puno.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "It behaves as a countable noun",
+          "is_correct": false,
+          "feedback": "The -s ending is misleading; the noun is treated as a mass noun."
+        },
+        {
+          "letter": "B",
+          "text": "It behaves as a proper noun",
+          "is_correct": false,
+          "feedback": "A proper noun is a name, and 'rice' is a common noun."
+        },
+        {
+          "letter": "C",
+          "text": "It behaves as an uncountable noun",
+          "is_correct": true,
+          "feedback": "Grains such as 'rice' and 'flour' take 'much', not 'many'."
+        },
+        {
+          "letter": "D",
+          "text": "It behaves as a gerund",
+          "is_correct": false,
+          "feedback": "The word functions as a noun, not as a verb form."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Aunque 'rice' termina en -s, se comporta como incontable y por eso lleva 'much'. Es uno de los puntos mas frecuentes de las pruebas de esta unidad.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.8,
+      "bundle_id": "PE-ING-11-2026-W13-countable-uncountable-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-ING-11-2026-W13-countable-uncountable-001-MASTERY-bundle-v13",
+      "statement": "Which sentence applies the articles and countability rules correctly?",
+      "context": "Consolidacion, Huaraz.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "He bought two loafs of bread and a piece of cheese.",
+          "is_correct": false,
+          "feedback": "'Loafs' is the wrong plural; it is 'loaves'."
+        },
+        {
+          "letter": "B",
+          "text": "He bought two loafes of bread and a cheeses.",
+          "is_correct": false,
+          "feedback": "Both the plural of 'loaf' and the plural of 'cheese' are incorrect here."
+        },
+        {
+          "letter": "C",
+          "text": "He bought two bread and a piece of cheese.",
+          "is_correct": false,
+          "feedback": "'Bread' is uncountable and cannot be quantified with 'two'."
+        },
+        {
+          "letter": "D",
+          "text": "He bought two loaves of bread and a piece of cheese.",
+          "is_correct": true,
+          "feedback": "'Two loaves' and 'a piece of cheese' both follow correct quantification."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "El sustantivo incontables lleva 'a piece of' y el contable lleva el numeral de forma directa.\n\n---",
+      "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Evaluate",
@@ -863,38 +593,308 @@
       "country": "pe"
     },
     {
-      "id": "PE-ING-11-2026-W13-countable-uncountable-001-MASTERY-v20",
-      "statement": "What is the English word for: \"Extreme tiredness and other physical effects felt by a person after a long flight across several time zones.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "id": "PE-ING-11-2026-W13-countable-uncountable-001-MASTERY-bundle-v14",
+      "statement": "Complete: 'We have ____ work to do today.'",
+      "context": "Cuantificadores en el trabajo, Lima.",
       "options": [
         {
-          "letter": "C",
-          "text": "jet lag",
-          "is_correct": true,
-          "feedback": "Correct! 'jet lag' matches the definition."
-        },
-        {
           "letter": "A",
-          "text": "fatigue",
+          "text": "a",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Uncountable nouns never take the indefinite article 'a'."
         },
         {
           "letter": "B",
-          "text": "exhaustion",
+          "text": "many",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "'Many' requires a plural count noun."
+        },
+        {
+          "letter": "C",
+          "text": "a lot of",
+          "is_correct": true,
+          "feedback": "'A lot of work' is the correct quantifier for this uncountable noun."
         },
         {
           "letter": "D",
-          "text": "insomnia",
+          "text": "a few",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "'A few' requires a plural count noun and means a small number."
         }
       ],
       "correct_answer": "C",
-      "explanation": "The word 'jet lag' is used to describe extreme tiredness and other physical effects felt by a person after a long flight across several time zones. This is an important vocabulary word in English.",
-      "difficulty": "10",
+      "explanation": "'Work' en este sentido es incontable y por eso no lleva 'a' ni plural. El sufijo -s no convierte automaticamente un sustantivo en contable.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.8,
+      "bundle_id": "PE-ING-11-2026-W13-countable-uncountable-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-ING-11-2026-W13-countable-uncountable-001-MASTERY-bundle-v15",
+      "statement": "Which sentence uses an uncountable noun correctly?",
+      "context": "Uso de incontables, Trujillo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "A traffic is heavy during the rush hour.",
+          "is_correct": false,
+          "feedback": "Uncountable nouns cannot take the indefinite article."
+        },
+        {
+          "letter": "B",
+          "text": "The traffics are heavy during the rush hour.",
+          "is_correct": false,
+          "feedback": "There is no plural form of 'traffic'."
+        },
+        {
+          "letter": "C",
+          "text": "Traffic is heavy during the rush hour.",
+          "is_correct": true,
+          "feedback": "'Traffic' is uncountable: no article, no plural, singular verb."
+        },
+        {
+          "letter": "D",
+          "text": "Many traffics are heavy during the rush hour.",
+          "is_correct": false,
+          "feedback": "'Many' cannot modify an uncountable noun."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "'Traffic' es incontable y por eso se usa sin articulo y en singular. El contexto determina con frecuencia si la palabra se usa en masa o en unidades.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.8,
+      "bundle_id": "PE-ING-11-2026-W13-countable-uncountable-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-ING-11-2026-W13-countable-uncountable-001-MASTERY-bundle-v16",
+      "statement": "What does 'bread' mean when it is used as a countable noun in the expression 'a bread roll'?",
+      "context": "Cambio de categoria, Arequipa.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "It becomes a countable unit, a type of bread",
+          "is_correct": true,
+          "feedback": "A modifier can shift a mass noun into a countable category."
+        },
+        {
+          "letter": "B",
+          "text": "It becomes a different kind of sugar",
+          "is_correct": false,
+          "feedback": "No lexical change to 'sugar' occurs in this expression."
+        },
+        {
+          "letter": "C",
+          "text": "It becomes an uncountable noun",
+          "is_correct": false,
+          "feedback": "Adding a specific noun makes the phrase countable."
+        },
+        {
+          "letter": "D",
+          "text": "It becomes a proper noun",
+          "is_correct": false,
+          "feedback": "No proper name is involved in the expression."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Añadir un especificador como 'roll' convierte 'bread' en un sustantivo contable y medible.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.8,
+      "bundle_id": "PE-ING-11-2026-W13-countable-uncountable-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-ING-11-2026-W13-countable-uncountable-001-MASTERY-bundle-v17",
+      "statement": "Which option correctly completes the sentence: 'There were ____ people waiting outside the theatre.'",
+      "context": "Cuantificadores con plurales, Piura.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "much",
+          "is_correct": false,
+          "feedback": "'Much' cannot modify a plural count noun."
+        },
+        {
+          "letter": "B",
+          "text": "many",
+          "is_correct": true,
+          "feedback": "'Many people' is correct because 'people' is a countable plural."
+        },
+        {
+          "letter": "C",
+          "text": "a few peoples",
+          "is_correct": false,
+          "feedback": "The plural of 'person' is 'people', not 'peoples'."
+        },
+        {
+          "letter": "D",
+          "text": "a little",
+          "is_correct": false,
+          "feedback": "'A little' is used with uncountable nouns only."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "'People' es un plural contable, por lo que admite 'many' y nunca 'much'. Las sustantivos terminados en -s pueden ser contables o incontables segun su uso.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.8,
+      "bundle_id": "PE-ING-11-2026-W13-countable-uncountable-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-ING-11-2026-W13-countable-uncountable-001-MASTERY-bundle-v18",
+      "statement": "Read: 'The restaurant serves several local dishes and a wide range of wines.' What can you conclude?",
+      "context": "Inferencia sobre sustantivos, Cusco.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Dishes are countable, and the range of wines refers to a collection",
+          "is_correct": true,
+          "feedback": "The quantifiers reveal the countability of each noun phrase."
+        },
+        {
+          "letter": "B",
+          "text": "Both nouns are uncountable",
+          "is_correct": false,
+          "feedback": "'Several' is used with countable plurals, so that reading is impossible."
+        },
+        {
+          "letter": "C",
+          "text": "The dishes are uncountable",
+          "is_correct": false,
+          "feedback": "The presence of 'several' shows they are countable."
+        },
+        {
+          "letter": "D",
+          "text": "The wines cannot be counted",
+          "is_correct": false,
+          "feedback": "A 'range of' refers to a collection of countable items."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "'Several' modifica un plural contable ('dishes') y 'a wide range of' introduce un conjunto de articulos contables.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.8,
+      "bundle_id": "PE-ING-11-2026-W13-countable-uncountable-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-ING-11-2026-W13-countable-uncountable-001-MASTERY-bundle-v19",
+      "statement": "Which sentence is NOT correct?",
+      "context": "Revision de contables e incontables, Lima.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "There is some furniture in the room.",
+          "is_correct": false,
+          "feedback": "'Some furniture' is the correct treatment for an uncountable noun."
+        },
+        {
+          "letter": "B",
+          "text": "There is a piece of furniture in the room.",
+          "is_correct": false,
+          "feedback": "'A piece of furniture' makes the noun countable."
+        },
+        {
+          "letter": "C",
+          "text": "There is much furniture in the room.",
+          "is_correct": false,
+          "feedback": "'Much furniture' is acceptable in negative and interrogative contexts."
+        },
+        {
+          "letter": "D",
+          "text": "There is a furniture in the room.",
+          "is_correct": true,
+          "feedback": "Uncountable nouns cannot take the indefinite article 'a'."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "El sustantivo 'furniture' es incontable, de modo que no admite el articulo 'a'. Conviene practicarlo con otros ejemplos antes del examen.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.8,
+      "bundle_id": "PE-ING-11-2026-W13-countable-uncountable-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-ING-11-2026-W13-countable-uncountable-001-MASTERY-bundle-v20",
+      "statement": "Choose the sentence that uses quantifiers correctly throughout.",
+      "context": "Evaluacion de cuantificadores, Huanuco.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "She bought few apples, some breads and many sugar.",
+          "is_correct": false,
+          "feedback": "'Few' without 'a' and the plurals 'breads' and the wrong quantifier for 'sugar'."
+        },
+        {
+          "letter": "B",
+          "text": "She bought a few apple, some bread and much sugars.",
+          "is_correct": false,
+          "feedback": "'Apple' needs the plural for 'a few', and 'sugars' is not standard."
+        },
+        {
+          "letter": "C",
+          "text": "She bought a few apples, some bread and many sugar.",
+          "is_correct": false,
+          "feedback": "'Many' cannot modify the uncountable noun 'sugar'."
+        },
+        {
+          "letter": "D",
+          "text": "She bought a few apples, some bread and much sugar.",
+          "is_correct": true,
+          "feedback": "'A few' with the plural, 'some' and 'much' with the uncountables."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Cada cuantificador se ajusta al rasgo de countable del sustantivo que modifica. Este matiz se comprueba comparando con el resto de opciones.\n\n---",
+      "difficulty": "6",
       "images": [],
       "tags": [],
       "bloom": "Evaluate",

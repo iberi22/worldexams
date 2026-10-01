@@ -826,25 +826,25 @@
           "letter": "A",
           "text": "$f(x) = x^2 + 5$",
           "is_correct": false,
-          "feedback": "Substituindo x por 2x+1 teríamos (2x+1)² + 5 = 4x² + 4x + 6, diferente do dado."
+          "feedback": "Substituindo: $(2x+1)^2 + 5 = 4x^2 + 4x + 1 + 5 = 4x^2 + 4x + 6$, e o enunciado pede $4x^2 + 4x + 5$."
         },
         {
           "letter": "B",
           "text": "$f(x) = x^2 + 4$",
           "is_correct": true,
-          "feedback": "(2x + 1)² + 4 = (4x² + 4x + 1) + 4 = 4x² + 4x + 5. Correto."
+          "feedback": "$(2x+1)^2 + 4 = 4x^2 + 4x + 1 + 4 = 4x^2 + 4x + 5$, que é exatamente o lado direito da equação."
         },
         {
           "letter": "C",
           "text": "$f(x) = 2x^2 + 3$",
           "is_correct": false,
-          "feedback": "Incorreto ao testar a substituição da variável."
+          "feedback": "Substituindo: $(2x+1)^2 + 3 = 4x^2 + 4x + 4$, e o termo constante ficaria $4$ em vez de $5$."
         },
         {
           "letter": "D",
           "text": "$f(x) = x^2 + 2x + 1$",
           "is_correct": false,
-          "feedback": "Incorreto ao testar a substituição da variável."
+          "feedback": "O termo em $x$ está dobrado: $f(2x+1) = (2x+1)^2 + 2(2x+1) + 1 = 4x^2 + 8x + 4$, que não é o enunciado."
         }
       ],
       "correct_answer": "B",

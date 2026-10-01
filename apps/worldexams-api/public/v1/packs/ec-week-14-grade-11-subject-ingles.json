@@ -8,172 +8,127 @@
   },
   "questions": [
     {
-      "id": "EC-ING-11-2026-W14-conditionals-type-0-1-001-MASTERY-v1",
-      "statement": "What is the English word for: \"A place where you live or stay on holiday.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "id": "EC-ING-11-2026-W14-conditionals-type-0-1-001-MASTERY-bundle-v1",
+      "statement": "Which sentence expresses the zero conditional?",
+      "context": "Practica de condicionales, Quito, grado 11.",
       "options": [
         {
           "letter": "A",
-          "text": "accommodation",
-          "is_correct": true,
-          "feedback": "Correct! 'accommodation' matches the definition."
+          "text": "If you had heated ice, it would have melted.",
+          "is_correct": false,
+          "feedback": "That is the third conditional, referring to an unreal past situation."
         },
         {
           "letter": "B",
-          "text": "transportation",
+          "text": "If you heat ice, it would melt.",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "That is the first conditional, describing a possible future situation."
         },
         {
           "letter": "C",
-          "text": "entertainment",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "D",
-          "text": "currency",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "The word 'accommodation' is used to describe a place where you live or stay on holiday. This is an important vocabulary word in English.\n---",
-      "difficulty": "3",
-      "images": [],
-      "tags": [],
-      "bloom": "Remember",
-      "expected_success": 0.8,
-      "bundle_id": "EC-ING-11-2026-W14-conditionals-type-0-1-001-MASTERY-bundle",
-      "periodo": 14,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ingles",
-      "grade": 11,
-      "country": "ec"
-    },
-    {
-      "id": "EC-ING-11-2026-W14-conditionals-type-0-1-001-MASTERY-v2",
-      "statement": "What is the English word for: \"A detailed plan or route of a journey.\"",
-      "context": "Choose the correct English word for the given definition.",
-      "options": [
-        {
-          "letter": "D",
-          "text": "itinerary",
+          "text": "If you heat ice, it melts.",
           "is_correct": true,
-          "feedback": "Correct! 'itinerary' matches the definition."
-        },
-        {
-          "letter": "A",
-          "text": "baggage",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "B",
-          "text": "destination",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "C",
-          "text": "passport",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        }
-      ],
-      "correct_answer": "D",
-      "explanation": "The word 'itinerary' is used to describe a detailed plan or route of a journey. This is an important vocabulary word in English.\n---",
-      "difficulty": "4",
-      "images": [],
-      "tags": [],
-      "bloom": "Remember",
-      "expected_success": 0.8,
-      "bundle_id": "EC-ING-11-2026-W14-conditionals-type-0-1-001-MASTERY-bundle",
-      "periodo": 14,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ingles",
-      "grade": 11,
-      "country": "ec"
-    },
-    {
-      "id": "EC-ING-11-2026-W14-conditionals-type-0-1-001-MASTERY-v3",
-      "statement": "What is the English word for: \"The place to which someone or something is going or being sent.\"",
-      "context": "Choose the correct English word for the given definition.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "destination",
-          "is_correct": true,
-          "feedback": "Correct! 'destination' matches the definition."
-        },
-        {
-          "letter": "B",
-          "text": "departure",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "C",
-          "text": "arrival",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "'If' plus present plus present states a general truth."
         },
         {
           "letter": "D",
-          "text": "journey",
+          "text": "If you would heat ice, it melts.",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "The word 'destination' is used to describe the place to which someone or something is going or being sent. This is an important vocabulary word in English.\n---",
-      "difficulty": "3",
-      "images": [],
-      "tags": [],
-      "bloom": "Understand",
-      "expected_success": 0.8,
-      "bundle_id": "EC-ING-11-2026-W14-conditionals-type-0-1-001-MASTERY-bundle",
-      "periodo": 14,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ingles",
-      "grade": 11,
-      "country": "ec"
-    },
-    {
-      "id": "EC-ING-11-2026-W14-conditionals-type-0-1-001-MASTERY-v4",
-      "statement": "What is the English word for: \"Suitcases or other bags in which to pack personal belongings for traveling.\"",
-      "context": "Choose the correct English word for the given definition.",
-      "options": [
-        {
-          "letter": "C",
-          "text": "luggage",
-          "is_correct": true,
-          "feedback": "Correct! 'luggage' matches the definition."
-        },
-        {
-          "letter": "A",
-          "text": "ticket",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "B",
-          "text": "flight",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "D",
-          "text": "reservation",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "'Would' after 'if' belongs to a hypothetical conditional, not the zero."
         }
       ],
       "correct_answer": "C",
-      "explanation": "The word 'luggage' is used to describe suitcases or other bags in which to pack personal belongings for traveling. This is an important vocabulary word in English.\n---",
+      "explanation": "El condicional cero expresa una relacion general siempre verdadera: 'If + presente, presente'.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.8,
+      "bundle_id": "EC-ING-11-2026-W14-conditionals-type-0-1-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-ING-11-2026-W14-conditionals-type-0-1-001-MASTERY-bundle-v2",
+      "statement": "Complete the first conditional: 'If it ____ tomorrow, we will cancel the trip.'",
+      "context": "Condicional tipo uno, Guayaquil.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "will rain",
+          "is_correct": false,
+          "feedback": "'Will' belongs to the main clause, not to the 'if' clause of this conditional."
+        },
+        {
+          "letter": "B",
+          "text": "is raining",
+          "is_correct": false,
+          "feedback": "The present continuous suggests a currently temporary situation, not a future condition."
+        },
+        {
+          "letter": "C",
+          "text": "rains",
+          "is_correct": true,
+          "feedback": "'If it rains' plus 'we will cancel' is the standard first conditional."
+        },
+        {
+          "letter": "D",
+          "text": "rained",
+          "is_correct": false,
+          "feedback": "The simple past in the 'if' clause would indicate the third conditional."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "En el condicional tipo uno la clausula de 'if' va en presente simple y la principal en 'will' mas verbo base.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.8,
+      "bundle_id": "EC-ING-11-2026-W14-conditionals-type-0-1-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-ING-11-2026-W14-conditionals-type-0-1-001-MASTERY-bundle-v3",
+      "statement": "What does the first conditional express?",
+      "context": "Uso de las condicionales, Cuenca.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "An impossible situation in the past",
+          "is_correct": false,
+          "feedback": "An unreal past situation is expressed by the third conditional."
+        },
+        {
+          "letter": "B",
+          "text": "A possible situation and its likely result in the future",
+          "is_correct": true,
+          "feedback": "That is the meaning of the first conditional."
+        },
+        {
+          "letter": "C",
+          "text": "A general truth that is always valid",
+          "is_correct": false,
+          "feedback": "A general truth belongs to the zero conditional."
+        },
+        {
+          "letter": "D",
+          "text": "A regret about the past",
+          "is_correct": false,
+          "feedback": "Regret is expressed with 'wish' plus the past perfect."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El condicional tipo uno describe una situacion posible y su consecuencia probable en el futuro.\n\n---",
       "difficulty": "4",
       "images": [],
       "tags": [],
@@ -188,86 +143,41 @@
       "country": "ec"
     },
     {
-      "id": "EC-ING-11-2026-W14-conditionals-type-0-1-001-MASTERY-v5",
-      "statement": "What is the English word for: \"A traveler on a public or private conveyance other than the driver, pilot, or crew.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "id": "EC-ING-11-2026-W14-conditionals-type-0-1-001-MASTERY-bundle-v4",
+      "statement": "Which sentence expresses the second conditional?",
+      "context": "Condicional tipo dos, Quito.",
       "options": [
         {
-          "letter": "B",
-          "text": "passenger",
-          "is_correct": true,
-          "feedback": "Correct! 'passenger' matches the definition."
+          "letter": "A",
+          "text": "If I have more time, I would learn another language.",
+          "is_correct": false,
+          "feedback": "That is the first conditional structure, not the second."
         },
         {
-          "letter": "A",
-          "text": "pedestrian",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "letter": "B",
+          "text": "If I had more time, I would learn another language.",
+          "is_correct": true,
+          "feedback": "'If' plus past simple plus 'would' base is the second conditional."
         },
         {
           "letter": "C",
-          "text": "commuter",
+          "text": "If I had more time, I will learn another language.",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "'Will' does not belong to the second conditional's main clause."
         },
         {
           "letter": "D",
-          "text": "tourist",
+          "text": "If I would have more time, I learn another language.",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "'Would' cannot follow 'if' in this pattern."
         }
       ],
       "correct_answer": "B",
-      "explanation": "The word 'passenger' is used to describe a traveler on a public or private conveyance other than the driver, pilot, or crew. This is an important vocabulary word in English.\n---",
-      "difficulty": "5",
-      "images": [],
-      "tags": [],
-      "bloom": "Understand",
-      "expected_success": 0.8,
-      "bundle_id": "EC-ING-11-2026-W14-conditionals-type-0-1-001-MASTERY-bundle",
-      "periodo": 14,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ingles",
-      "grade": 11,
-      "country": "ec"
-    },
-    {
-      "id": "EC-ING-11-2026-W14-conditionals-type-0-1-001-MASTERY-v6",
-      "statement": "What is the English word for: \"The place at a port, airport, or frontier where officials check incoming goods, travelers, or luggage.\"",
-      "context": "Choose the correct English word for the given definition.",
-      "options": [
-        {
-          "letter": "C",
-          "text": "customs",
-          "is_correct": true,
-          "feedback": "Correct! 'customs' matches the definition."
-        },
-        {
-          "letter": "A",
-          "text": "security",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "B",
-          "text": "terminal",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "D",
-          "text": "gate",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        }
-      ],
-      "correct_answer": "C",
-      "explanation": "The word 'customs' is used to describe the place at a port, airport, or frontier where officials check incoming goods, travelers, or luggage. This is an important vocabulary word in English.\n---",
+      "explanation": "El condicional tipo dos usa 'If' mas pasado simple y 'would' mas verbo base para una hipotesis no real del presente.\n\n---",
       "difficulty": "6",
       "images": [],
       "tags": [],
-      "bloom": "Understand",
+      "bloom": "Analyze",
       "expected_success": 0.8,
       "bundle_id": "EC-ING-11-2026-W14-conditionals-type-0-1-001-MASTERY-bundle",
       "periodo": 14,
@@ -278,131 +188,41 @@
       "country": "ec"
     },
     {
-      "id": "EC-ING-11-2026-W14-conditionals-type-0-1-001-MASTERY-v7",
-      "statement": "What is the English word for: \"A document provided by an airline during check-in, giving a passenger permission to board the airplane.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "id": "EC-ING-11-2026-W14-conditionals-type-0-1-001-MASTERY-bundle-v5",
+      "statement": "Choose the sentence that is correct in the third conditional.",
+      "context": "Condicional tipo tres, Guayaquil.",
       "options": [
         {
-          "letter": "B",
-          "text": "boarding pass",
-          "is_correct": true,
-          "feedback": "Correct! 'boarding pass' matches the definition."
-        },
-        {
           "letter": "A",
-          "text": "visa",
+          "text": "If she studies harder, she would have passed the exam.",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "C",
-          "text": "receipt",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "D",
-          "text": "brochure",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        }
-      ],
-      "correct_answer": "B",
-      "explanation": "The word 'boarding pass' is used to describe a document provided by an airline during check-in, giving a passenger permission to board the airplane. This is an important vocabulary word in English.\n---",
-      "difficulty": "5",
-      "images": [],
-      "tags": [],
-      "bloom": "Apply",
-      "expected_success": 0.8,
-      "bundle_id": "EC-ING-11-2026-W14-conditionals-type-0-1-001-MASTERY-bundle",
-      "periodo": 14,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ingles",
-      "grade": 11,
-      "country": "ec"
-    },
-    {
-      "id": "EC-ING-11-2026-W14-conditionals-type-0-1-001-MASTERY-v8",
-      "statement": "What is the English word for: \"The activity of visiting places of interest in a particular location.\"",
-      "context": "Choose the correct English word for the given definition.",
-      "options": [
-        {
-          "letter": "C",
-          "text": "sightseeing",
-          "is_correct": true,
-          "feedback": "Correct! 'sightseeing' matches the definition."
-        },
-        {
-          "letter": "A",
-          "text": "shopping",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "That mixes the first conditional's 'if' clause with the third's main clause."
         },
         {
           "letter": "B",
-          "text": "hiking",
+          "text": "If she had studied harder, she will have passed the exam.",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "D",
-          "text": "camping",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        }
-      ],
-      "correct_answer": "C",
-      "explanation": "The word 'sightseeing' is used to describe the activity of visiting places of interest in a particular location. This is an important vocabulary word in English.\n---",
-      "difficulty": "6",
-      "images": [],
-      "tags": [],
-      "bloom": "Apply",
-      "expected_success": 0.8,
-      "bundle_id": "EC-ING-11-2026-W14-conditionals-type-0-1-001-MASTERY-bundle",
-      "periodo": 14,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ingles",
-      "grade": 11,
-      "country": "ec"
-    },
-    {
-      "id": "EC-ING-11-2026-W14-conditionals-type-0-1-001-MASTERY-v9",
-      "statement": "What is the English word for: \"A thing that is kept as a reminder of a person, place, or event.\"",
-      "context": "Choose the correct English word for the given definition.",
-      "options": [
-        {
-          "letter": "D",
-          "text": "souvenir",
-          "is_correct": true,
-          "feedback": "Correct! 'souvenir' matches the definition."
-        },
-        {
-          "letter": "A",
-          "text": "gift",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "B",
-          "text": "award",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "'Will have' does not belong to the third conditional."
         },
         {
           "letter": "C",
-          "text": "prize",
+          "text": "If she would have studied, she would have passed the exam.",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "'Would have' cannot be used in the 'if' clause of the third conditional."
+        },
+        {
+          "letter": "D",
+          "text": "If she had studied harder, she would have passed the exam.",
+          "is_correct": true,
+          "feedback": "'Had studied' plus 'would have passed' is the third conditional."
         }
       ],
       "correct_answer": "D",
-      "explanation": "The word 'souvenir' is used to describe a thing that is kept as a reminder of a person, place, or event. This is an important vocabulary word in English.\n---",
-      "difficulty": "5",
+      "explanation": "El condicional tipo tres emplea 'If' mas pasado perfecto y 'would have' mas participio.\n\n---",
+      "difficulty": "6",
       "images": [],
       "tags": [],
-      "bloom": "Apply",
+      "bloom": "Analyze",
       "expected_success": 0.8,
       "bundle_id": "EC-ING-11-2026-W14-conditionals-type-0-1-001-MASTERY-bundle",
       "periodo": 14,
@@ -413,37 +233,37 @@
       "country": "ec"
     },
     {
-      "id": "EC-ING-11-2026-W14-conditionals-type-0-1-001-MASTERY-v10",
-      "statement": "What is the English word for: \"A period of time by which something is late or postponed.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "id": "EC-ING-11-2026-W14-conditionals-type-0-1-001-MASTERY-bundle-v6",
+      "statement": "Complete the sentence: 'If I ____ you, I would accept the offer.'",
+      "context": "Uso de 'were' en condicionales, Quito.",
       "options": [
         {
-          "letter": "C",
-          "text": "delay",
-          "is_correct": true,
-          "feedback": "Correct! 'delay' matches the definition."
-        },
-        {
           "letter": "A",
-          "text": "cancellation",
+          "text": "am",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "'Am' is the simple present of 'to be', which does not fit the hypothetical structure."
         },
         {
           "letter": "B",
-          "text": "departure",
+          "text": "was",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "'Was' is used with he, she and it, but 'I' takes 'were' in this conditional."
+        },
+        {
+          "letter": "C",
+          "text": "were",
+          "is_correct": true,
+          "feedback": "'Were' is the standard form in the second conditional for every person."
         },
         {
           "letter": "D",
-          "text": "arrival",
+          "text": "will be",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "'Will be' does not appear in the 'if' clause of the second conditional."
         }
       ],
       "correct_answer": "C",
-      "explanation": "The word 'delay' is used to describe a period of time by which something is late or postponed. This is an important vocabulary word in English.\n---",
+      "explanation": "En el condicional tipo dos se usa 'were' para todas las personas, incluso para 'I'. Es uno de los puntos mas frecuentes de las pruebas de esta unidad.\n\n---",
       "difficulty": "6",
       "images": [],
       "tags": [],
@@ -458,83 +278,173 @@
       "country": "ec"
     },
     {
-      "id": "EC-ING-11-2026-W14-conditionals-type-0-1-001-MASTERY-v11",
-      "statement": "What is the English word for: \"The act of reporting one's presence and registering, typically at an airport or hotel.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "id": "EC-ING-11-2026-W14-conditionals-type-0-1-001-MASTERY-bundle-v7",
+      "statement": "What is the difference between the first and the second conditional?",
+      "context": "Comparacion de condicionales, Guayaquil.",
       "options": [
         {
-          "letter": "C",
-          "text": "check-in",
-          "is_correct": true,
-          "feedback": "Correct! 'check-in' matches the definition."
-        },
-        {
           "letter": "A",
-          "text": "check-out",
+          "text": "Both express the same probability",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "The two conditionals differ precisely in how likely they consider the situation."
         },
         {
           "letter": "B",
-          "text": "booking",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "D",
-          "text": "reservation",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        }
-      ],
-      "correct_answer": "C",
-      "explanation": "The word 'check-in' is used to describe the act of reporting one's presence and registering, typically at an airport or hotel. This is an important vocabulary word in English.\n---",
-      "difficulty": "7",
-      "images": [],
-      "tags": [],
-      "bloom": "Apply",
-      "expected_success": 0.8,
-      "bundle_id": "EC-ING-11-2026-W14-conditionals-type-0-1-001-MASTERY-bundle",
-      "periodo": 14,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ingles",
-      "grade": 11,
-      "country": "ec"
-    },
-    {
-      "id": "EC-ING-11-2026-W14-conditionals-type-0-1-001-MASTERY-v12",
-      "statement": "What is the English word for: \"A period of rest or waiting before a further stage in a journey.\"",
-      "context": "Choose the correct English word for the given definition.",
-      "options": [
-        {
-          "letter": "B",
-          "text": "layover",
+          "text": "The first is a likely future possibility; the second is a hypothetical one",
           "is_correct": true,
-          "feedback": "Correct! 'layover' matches the definition."
-        },
-        {
-          "letter": "A",
-          "text": "stopover",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "The distinction is real likelihood versus imagined situation."
         },
         {
           "letter": "C",
-          "text": "transfer",
+          "text": "The first refers to the past and the second to the present",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "The first is about the future; the third, not the second, is about the past."
         },
         {
           "letter": "D",
-          "text": "transit",
+          "text": "The second is used only in questions",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Both appear in statements and in questions."
         }
       ],
       "correct_answer": "B",
-      "explanation": "The word 'layover' is used to describe a period of rest or waiting before a further stage in a journey. This is an important vocabulary word in English.\n---",
-      "difficulty": "8",
+      "explanation": "El tipo uno trata de una posibilidad real en el futuro; el tipo dos, de una hipotesis menos probable o imaginaria en el presente.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.8,
+      "bundle_id": "EC-ING-11-2026-W14-conditionals-type-0-1-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-ING-11-2026-W14-conditionals-type-0-1-001-MASTERY-bundle-v8",
+      "statement": "Look at the sentence: 'If it will rain, we will stay home.' What is the error?",
+      "context": "Deteccion de errores, Cuenca.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Nothing is wrong with the sentence",
+          "is_correct": false,
+          "feedback": "Some informal speech allows it, but the standard school form excludes 'will' after 'if'."
+        },
+        {
+          "letter": "B",
+          "text": "'Stay' must be 'stayed'",
+          "is_correct": false,
+          "feedback": "'Will stay' is the correct form for the main clause."
+        },
+        {
+          "letter": "C",
+          "text": "'Rain' must be 'rained'",
+          "is_correct": false,
+          "feedback": "The verb must be in the present simple without the -ed ending."
+        },
+        {
+          "letter": "D",
+          "text": "'If' plus 'will' is incorrect; it should be 'If it rains'",
+          "is_correct": true,
+          "feedback": "The 'if' clause of the first conditional uses the present simple."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "En el condicional tipo uno la clausula de 'if' no lleva 'will'; se usa el presente simple.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.8,
+      "bundle_id": "EC-ING-11-2026-W14-conditionals-type-0-1-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-ING-11-2026-W14-conditionals-type-0-1-001-MASTERY-bundle-v9",
+      "statement": "Read the text: 'If you mix blue and yellow, you get green.' What type of conditional is this?",
+      "context": "Identificacion de condicionales, Quito.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "The zero conditional, because it states a general truth",
+          "is_correct": true,
+          "feedback": "'If' plus present plus present expresses an always valid rule."
+        },
+        {
+          "letter": "B",
+          "text": "The first conditional, because it refers to the future",
+          "is_correct": false,
+          "feedback": "No future time is mentioned; the statement is always true."
+        },
+        {
+          "letter": "C",
+          "text": "The second conditional, because it is hypothetical",
+          "is_correct": false,
+          "feedback": "The second conditional describes an unreal present situation."
+        },
+        {
+          "letter": "D",
+          "text": "The third conditional, because it refers to the past",
+          "is_correct": false,
+          "feedback": "No past event appears in the sentence."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La oracion expresa una relacion cientifica siempre verdadera, que corresponde al condicional cero.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.8,
+      "bundle_id": "EC-ING-11-2026-W14-conditionals-type-0-1-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-ING-11-2026-W14-conditionals-type-0-1-001-MASTERY-bundle-v10",
+      "statement": "Complete the second conditional: 'If I ____ a doctor, I would work in a hospital.'",
+      "context": "Condicional tipo dos, Quito.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "am",
+          "is_correct": false,
+          "feedback": "'Am' is the simple present of 'to be' with 'I'."
+        },
+        {
+          "letter": "B",
+          "text": "will be",
+          "is_correct": false,
+          "feedback": "'Will be' belongs to the first conditional's main clause."
+        },
+        {
+          "letter": "C",
+          "text": "were",
+          "is_correct": true,
+          "feedback": "'Were' is the form used for every person in the second conditional."
+        },
+        {
+          "letter": "D",
+          "text": "had been",
+          "is_correct": false,
+          "feedback": "The past perfect would place the condition before another past moment."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La hipotesis del condicional tipo dos se enuncia con el pasado simple del verbo 'be'.\n\n---",
+      "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Apply",
@@ -548,38 +458,83 @@
       "country": "ec"
     },
     {
-      "id": "EC-ING-11-2026-W14-conditionals-type-0-1-001-MASTERY-v13",
-      "statement": "What is the English word for: \"A system of money in general use in a particular country.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "id": "EC-ING-11-2026-W14-conditionals-type-0-1-001-MASTERY-bundle-v11",
+      "statement": "Complete the sentence: 'If I ____ a car, I would drive to the coast.'",
+      "context": "Condicional tipo dos, Cuenca.",
       "options": [
         {
-          "letter": "C",
-          "text": "currency",
-          "is_correct": true,
-          "feedback": "Correct! 'currency' matches the definition."
-        },
-        {
           "letter": "A",
-          "text": "coin",
+          "text": "will have",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "'Will have' belongs to the future perfect, not to this conditional."
         },
         {
           "letter": "B",
-          "text": "banknote",
+          "text": "have",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "The present 'have' would make this the first conditional."
+        },
+        {
+          "letter": "C",
+          "text": "would have",
+          "is_correct": false,
+          "feedback": "'Would' cannot open the 'if' clause of the second conditional."
         },
         {
           "letter": "D",
-          "text": "cash",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "text": "had",
+          "is_correct": true,
+          "feedback": "'Had' is the simple past of 'have' and fits the second conditional."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "The word 'currency' is used to describe a system of money in general use in a particular country. This is an important vocabulary word in English.\n---",
-      "difficulty": "7",
+      "correct_answer": "D",
+      "explanation": "La hipotesis se expresa con pasado simple: 'If I had a car'. Esta estructura se repite con otros verbos del mismo grupo.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.8,
+      "bundle_id": "EC-ING-11-2026-W14-conditionals-type-0-1-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-ING-11-2026-W14-conditionals-type-0-1-001-MASTERY-bundle-v12",
+      "statement": "Which sentence expresses a regret about a past action?",
+      "context": "Uso de 'wish' para el arrepentimiento, Guayaquil.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "I wish I would book the flight earlier.",
+          "is_correct": false,
+          "feedback": "'Would' plus base form expresses a future wish, not past regret."
+        },
+        {
+          "letter": "B",
+          "text": "I wish I had booked the flight earlier.",
+          "is_correct": true,
+          "feedback": "'Wish' plus past perfect expresses regret about a past action."
+        },
+        {
+          "letter": "C",
+          "text": "I wish I have booked the flight earlier.",
+          "is_correct": false,
+          "feedback": "The present perfect does not combine with 'wish' for past regret."
+        },
+        {
+          "letter": "D",
+          "text": "I wish the flight would be booked earlier.",
+          "is_correct": false,
+          "feedback": "That construction does not express the standard regret pattern."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "'Wish' mas pasado perfecto expresa el deseo de que algo pasado hubiera ocurrido. Es uno de los puntos mas frecuentes de las pruebas de esta unidad.\n\n---",
+      "difficulty": "6",
       "images": [],
       "tags": [],
       "bloom": "Analyze",
@@ -593,128 +548,173 @@
       "country": "ec"
     },
     {
-      "id": "EC-ING-11-2026-W14-conditionals-type-0-1-001-MASTERY-v14",
-      "statement": "What is the English word for: \"A book of information about a place designed for the use of visitors or tourists.\"",
-      "context": "Choose the correct English word for the given definition.",
-      "options": [
-        {
-          "letter": "C",
-          "text": "guidebook",
-          "is_correct": true,
-          "feedback": "Correct! 'guidebook' matches the definition."
-        },
-        {
-          "letter": "A",
-          "text": "map",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "B",
-          "text": "dictionary",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "D",
-          "text": "encyclopedia",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        }
-      ],
-      "correct_answer": "C",
-      "explanation": "The word 'guidebook' is used to describe a book of information about a place designed for the use of visitors or tourists. This is an important vocabulary word in English.\n---",
-      "difficulty": "8",
-      "images": [],
-      "tags": [],
-      "bloom": "Analyze",
-      "expected_success": 0.8,
-      "bundle_id": "EC-ING-11-2026-W14-conditionals-type-0-1-001-MASTERY-bundle",
-      "periodo": 14,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ingles",
-      "grade": 11,
-      "country": "ec"
-    },
-    {
-      "id": "EC-ING-11-2026-W14-conditionals-type-0-1-001-MASTERY-v15",
-      "statement": "What is the English word for: \"A bag with shoulder straps that allow it to be carried on one's back.\"",
-      "context": "Choose the correct English word for the given definition.",
-      "options": [
-        {
-          "letter": "C",
-          "text": "backpack",
-          "is_correct": true,
-          "feedback": "Correct! 'backpack' matches the definition."
-        },
-        {
-          "letter": "A",
-          "text": "suitcase",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "B",
-          "text": "briefcase",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "D",
-          "text": "handbag",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        }
-      ],
-      "correct_answer": "C",
-      "explanation": "The word 'backpack' is used to describe a bag with shoulder straps that allow it to be carried on one's back. This is an important vocabulary word in English.\n---",
-      "difficulty": "7",
-      "images": [],
-      "tags": [],
-      "bloom": "Analyze",
-      "expected_success": 0.8,
-      "bundle_id": "EC-ING-11-2026-W14-conditionals-type-0-1-001-MASTERY-bundle",
-      "periodo": 14,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ingles",
-      "grade": 11,
-      "country": "ec"
-    },
-    {
-      "id": "EC-ING-11-2026-W14-conditionals-type-0-1-001-MASTERY-v16",
-      "statement": "What is the English word for: \"In or to a foreign country, especially one across the sea.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "id": "EC-ING-11-2026-W14-conditionals-type-0-1-001-MASTERY-bundle-v13",
+      "statement": "What does 'would' express in the sentence 'If she studied more, she would improve'?",
+      "context": "Analisis del condicional, Quito.",
       "options": [
         {
           "letter": "A",
-          "text": "overseas",
+          "text": "A hypothetical result that may not happen",
           "is_correct": true,
-          "feedback": "Correct! 'overseas' matches the definition."
+          "feedback": "'Would' marks the consequence of an imagined condition."
         },
         {
           "letter": "B",
-          "text": "domestic",
+          "text": "A certain future event",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Certainty would require the first conditional with 'will'."
         },
         {
           "letter": "C",
-          "text": "local",
+          "text": "A past event",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "The whole conditional is oriented to the present, not the past."
         },
         {
           "letter": "D",
-          "text": "national",
+          "text": "An obligation",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Obligation would be expressed with 'must' or 'should'."
         }
       ],
       "correct_answer": "A",
-      "explanation": "The word 'overseas' is used to describe in or to a foreign country, especially one across the sea. This is an important vocabulary word in English.\n---",
-      "difficulty": "8",
+      "explanation": "'Would' introduce la consecuencia hipotetica del condicional tipo dos, sin afirmar que ocurra.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.8,
+      "bundle_id": "EC-ING-11-2026-W14-conditionals-type-0-1-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-ING-11-2026-W14-conditionals-type-0-1-001-MASTERY-bundle-v14",
+      "statement": "Choose the sentence that is correct in the zero conditional.",
+      "context": "Consolidacion del condicional cero, Guayaquil.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Water will freeze at zero degrees, so ice would form on the surface.",
+          "is_correct": false,
+          "feedback": "That mixes the first and second conditionals without reason."
+        },
+        {
+          "letter": "B",
+          "text": "Water freezes at zero degrees, so ice forms on the surface.",
+          "is_correct": true,
+          "feedback": "'If' is not needed for this general truth, and the present simple is correct throughout."
+        },
+        {
+          "letter": "C",
+          "text": "Water would freeze at zero degrees, so ice had formed on the surface.",
+          "is_correct": false,
+          "feedback": "That mixes the second and third conditionals."
+        },
+        {
+          "letter": "D",
+          "text": "Water froze at zero degrees, so ice had formed on the surface.",
+          "is_correct": false,
+          "feedback": "That describes a single past event, not a general truth."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El condicional cero usa presente simple en ambas clausulas y expresa una relacion general.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.8,
+      "bundle_id": "EC-ING-11-2026-W14-conditionals-type-0-1-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-ING-11-2026-W14-conditionals-type-0-1-001-MASTERY-bundle-v15",
+      "statement": "Look at the question and answer it correctly: 'If you had a chance, what would you do?' The answer should be:",
+      "context": "Aplicacion del condicional tipo dos, Quito.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "I would visit the Galapagos Islands.",
+          "is_correct": true,
+          "feedback": "'Would visit' keeps the hypothetical frame of the question."
+        },
+        {
+          "letter": "B",
+          "text": "I visited the Galapagos Islands last year.",
+          "is_correct": false,
+          "feedback": "That answers a question about the past, not about a hypothetical present chance."
+        },
+        {
+          "letter": "C",
+          "text": "I will visit the Galapagos Islands next year.",
+          "is_correct": false,
+          "feedback": "'Will' states a future plan rather than the hypothetical answer."
+        },
+        {
+          "letter": "D",
+          "text": "I visit the Galapagos Islands every year.",
+          "is_correct": false,
+          "feedback": "The simple present describes a habit, not a hypothetical situation."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Una respuesta coherente con el condicional tipo dos mantiene la forma hipotetica con 'would'.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.8,
+      "bundle_id": "EC-ING-11-2026-W14-conditionals-type-0-1-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-ING-11-2026-W14-conditionals-type-0-1-001-MASTERY-bundle-v16",
+      "statement": "Which sentence is NOT correct?",
+      "context": "Revision de condicionales, Cuenca.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "If he were taller, he would play basketball.",
+          "is_correct": false,
+          "feedback": "'Were' plus 'would' base is the correct second conditional."
+        },
+        {
+          "letter": "B",
+          "text": "If he is taller, he will play basketball.",
+          "is_correct": false,
+          "feedback": "That is the first conditional structure, which is also valid."
+        },
+        {
+          "letter": "C",
+          "text": "If he would be taller, he would play basketball.",
+          "is_correct": true,
+          "feedback": "'Would' cannot open the 'if' clause of the second conditional."
+        },
+        {
+          "letter": "D",
+          "text": "If he played taller, he would play basketball.",
+          "is_correct": false,
+          "feedback": "'Played taller' is semantically wrong, but the tense frame is the second conditional."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "En el condicional tipo dos la clausula de 'if' lleva pasado simple, nunca 'would'. Es uno de los puntos mas frecuentes de las pruebas de esta unidad.\n\n---",
+      "difficulty": "6",
       "images": [],
       "tags": [],
       "bloom": "Analyze",
@@ -728,173 +728,173 @@
       "country": "ec"
     },
     {
-      "id": "EC-ING-11-2026-W14-conditionals-type-0-1-001-MASTERY-v17",
-      "statement": "What is the English word for: \"An estimate of income and expenditure for a set period of time.\"",
-      "context": "Choose the correct English word for the given definition.",
-      "options": [
-        {
-          "letter": "C",
-          "text": "budget",
-          "is_correct": true,
-          "feedback": "Correct! 'budget' matches the definition."
-        },
-        {
-          "letter": "A",
-          "text": "expense",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "B",
-          "text": "cost",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "D",
-          "text": "price",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        }
-      ],
-      "correct_answer": "C",
-      "explanation": "The word 'budget' is used to describe an estimate of income and expenditure for a set period of time. This is an important vocabulary word in English.\n---",
-      "difficulty": "9",
-      "images": [],
-      "tags": [],
-      "bloom": "Evaluate",
-      "expected_success": 0.8,
-      "bundle_id": "EC-ING-11-2026-W14-conditionals-type-0-1-001-MASTERY-bundle",
-      "periodo": 14,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ingles",
-      "grade": 11,
-      "country": "ec"
-    },
-    {
-      "id": "EC-ING-11-2026-W14-conditionals-type-0-1-001-MASTERY-v18",
-      "statement": "What is the English word for: \"A practice or arrangement by which a company or government agency provides a guarantee of compensation for specified loss, damage, illness, or death in return for payment of a premium.\"",
-      "context": "Choose the correct English word for the given definition.",
-      "options": [
-        {
-          "letter": "C",
-          "text": "insurance",
-          "is_correct": true,
-          "feedback": "Correct! 'insurance' matches the definition."
-        },
-        {
-          "letter": "A",
-          "text": "warranty",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "B",
-          "text": "guarantee",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "D",
-          "text": "policy",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        }
-      ],
-      "correct_answer": "C",
-      "explanation": "The word 'insurance' is used to describe a practice or arrangement by which a company or government agency provides a guarantee of compensation for specified loss, damage, illness, or death in return for payment of a premium. This is an important vocabulary word in English.\n---",
-      "difficulty": "10",
-      "images": [],
-      "tags": [],
-      "bloom": "Evaluate",
-      "expected_success": 0.8,
-      "bundle_id": "EC-ING-11-2026-W14-conditionals-type-0-1-001-MASTERY-bundle",
-      "periodo": 14,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ingles",
-      "grade": 11,
-      "country": "ec"
-    },
-    {
-      "id": "EC-ING-11-2026-W14-conditionals-type-0-1-001-MASTERY-v19",
-      "statement": "What is the English word for: \"Treatment with a vaccine to produce immunity against a disease.\"",
-      "context": "Choose the correct English word for the given definition.",
-      "options": [
-        {
-          "letter": "C",
-          "text": "vaccination",
-          "is_correct": true,
-          "feedback": "Correct! 'vaccination' matches the definition."
-        },
-        {
-          "letter": "A",
-          "text": "medication",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "B",
-          "text": "prescription",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "D",
-          "text": "infection",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        }
-      ],
-      "correct_answer": "C",
-      "explanation": "The word 'vaccination' is used to describe treatment with a vaccine to produce immunity against a disease. This is an important vocabulary word in English.\n---",
-      "difficulty": "9",
-      "images": [],
-      "tags": [],
-      "bloom": "Evaluate",
-      "expected_success": 0.8,
-      "bundle_id": "EC-ING-11-2026-W14-conditionals-type-0-1-001-MASTERY-bundle",
-      "periodo": 14,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ingles",
-      "grade": 11,
-      "country": "ec"
-    },
-    {
-      "id": "EC-ING-11-2026-W14-conditionals-type-0-1-001-MASTERY-v20",
-      "statement": "What is the English word for: \"Extreme tiredness and other physical effects felt by a person after a long flight across several time zones.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "id": "EC-ING-11-2026-W14-conditionals-type-0-1-001-MASTERY-bundle-v17",
+      "statement": "Complete the third conditional: 'If they ____ earlier, they would have arrived on time.'",
+      "context": "Condicional tipo tres, Guayaquil.",
       "options": [
         {
           "letter": "A",
-          "text": "jet lag",
+          "text": "had left",
           "is_correct": true,
-          "feedback": "Correct! 'jet lag' matches the definition."
+          "feedback": "'Had left' is the past perfect required in the third conditional's 'if' clause."
         },
         {
           "letter": "B",
-          "text": "fatigue",
+          "text": "left",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "The simple past in the 'if' clause would not express the unreal condition properly."
         },
         {
           "letter": "C",
-          "text": "exhaustion",
+          "text": "would leave",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "'Would' cannot appear in the 'if' clause of the third conditional."
         },
         {
           "letter": "D",
-          "text": "insomnia",
+          "text": "have left",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "The present perfect refers to the present, not to an unreal past condition."
         }
       ],
       "correct_answer": "A",
-      "explanation": "The word 'jet lag' is used to describe extreme tiredness and other physical effects felt by a person after a long flight across several time zones. This is an important vocabulary word in English.",
-      "difficulty": "10",
+      "explanation": "En el condicional tipo tres la condicion no cumplida en el pasado se expresa con pasado perfecto.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.8,
+      "bundle_id": "EC-ING-11-2026-W14-conditionals-type-0-1-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-ING-11-2026-W14-conditionals-type-0-1-001-MASTERY-bundle-v18",
+      "statement": "Read the text: 'If you heat water to 100 degrees at sea level, it boils.' What does this statement assume?",
+      "context": "Inferencia sobre un condicional, Quito.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "That water always boils at the same temperature everywhere",
+          "is_correct": false,
+          "feedback": "The added condition shows that the temperature is not always the same."
+        },
+        {
+          "letter": "B",
+          "text": "That heating is unnecessary",
+          "is_correct": false,
+          "feedback": "Heating is the condition of the statement, so it is necessary."
+        },
+        {
+          "letter": "C",
+          "text": "That sea level is the only place with water",
+          "is_correct": false,
+          "feedback": "The phrase refers to altitude, not to the existence of water."
+        },
+        {
+          "letter": "D",
+          "text": "That the altitude matters, since boiling point changes with pressure",
+          "is_correct": true,
+          "feedback": "The added condition limits the general truth stated in the sentence."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "La frase 'at sea level' limita el alcance del enunciado, porque la altura altera el punto de ebullicion.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.8,
+      "bundle_id": "EC-ING-11-2026-W14-conditionals-type-0-1-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-ING-11-2026-W14-conditionals-type-0-1-001-MASTERY-bundle-v19",
+      "statement": "What does 'unless' mean in 'Unless you hurry, you will miss the bus'?",
+      "context": "Uso de 'unless', Cuenca.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "If you do not hurry",
+          "is_correct": true,
+          "feedback": "'Unless' is equivalent to 'if not' plus the base verb."
+        },
+        {
+          "letter": "B",
+          "text": "If you hurry",
+          "is_correct": false,
+          "feedback": "That reverses the condition given in the sentence."
+        },
+        {
+          "letter": "C",
+          "text": "When you hurry",
+          "is_correct": false,
+          "feedback": "'When' introduces time, not a negative condition."
+        },
+        {
+          "letter": "D",
+          "text": "Because you hurry",
+          "is_correct": false,
+          "feedback": "'Because' introduces a cause, not a condition."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "'Unless' equivale a 'if not', de modo que la condicion se invierte respecto de lo que se enuncia.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.8,
+      "bundle_id": "EC-ING-11-2026-W14-conditionals-type-0-1-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-ING-11-2026-W14-conditionals-type-0-1-001-MASTERY-bundle-v20",
+      "statement": "Choose the sentence that correctly contrasts the first and the second conditional.",
+      "context": "Comparacion aplicada, Guayaquil.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "If it rains, we will stay in; if we were in Quito, we will stay at home",
+          "is_correct": false,
+          "feedback": "The second clause uses 'will', which belongs to the first conditional."
+        },
+        {
+          "letter": "B",
+          "text": "If it will rain, we stay in; if we were in Quito, we would stay at home",
+          "is_correct": false,
+          "feedback": "The first clause incorrectly puts 'will' after 'if'."
+        },
+        {
+          "letter": "C",
+          "text": "If it rained, we would stay in; if we were in Quito, we stay at home",
+          "is_correct": false,
+          "feedback": "The second clause uses the simple present, breaking the hypothetical frame."
+        },
+        {
+          "letter": "D",
+          "text": "If it rains, we will stay in; if we were in Quito, we would stay at home",
+          "is_correct": true,
+          "feedback": "First conditional for the real possibility, second for the hypothetical situation."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "La primera oracion expresa posibilidad real y la segunda una hipotesis no realizada en el presente.\n\n---",
+      "difficulty": "6",
       "images": [],
       "tags": [],
       "bloom": "Evaluate",

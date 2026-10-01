@@ -9,41 +9,41 @@
   "questions": [
     {
       "id": "CO-ING-3-2026-W15-repaso-p3-001-MASTERY-bundle-v1",
-      "statement": "What is the English word for: \"A place where you live or stay on holiday.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Choose the correct sentence in the present simple.",
+      "context": "Repaso de presente simple, grado 3.",
       "options": [
         {
-          "letter": "D",
-          "text": "accommodation",
-          "is_correct": true,
-          "feedback": "Correct! 'accommodation' matches the definition."
-        },
-        {
           "letter": "A",
-          "text": "transportation",
+          "text": "She play tennis every Saturday.",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "The -s is missing after the third person singular subject."
         },
         {
           "letter": "B",
-          "text": "entertainment",
+          "text": "She is play tennis every Saturday.",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "The auxiliary 'is' and the base verb cannot be combined."
         },
         {
           "letter": "C",
-          "text": "currency",
+          "text": "She plays tennis every Saturday.",
+          "is_correct": true,
+          "feedback": "'She plays' carries the third person singular -s."
+        },
+        {
+          "letter": "D",
+          "text": "She playing tennis every Saturday.",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "A gerund alone cannot be the verb of the sentence."
         }
       ],
-      "correct_answer": "D",
-      "explanation": "The word 'accommodation' is used to describe a place where you live or stay on holiday. This is an important vocabulary word in English.\n---",
+      "correct_answer": "C",
+      "explanation": "El presente simple exige la terminacion -s cuando el sujeto es 'he', 'she' o 'it'. Es uno de los puntos mas frecuentes de las pruebas de esta unidad.\n\n---",
       "difficulty": "4",
       "images": [],
       "tags": [],
-      "bloom": "Remember",
-      "icfes_type": "Lexico",
+      "bloom": "Analyze",
+      "icfes_type": "Grammatical Knowledge",
       "expected_success": 0.8,
       "bundle_id": "CO-ING-3-2026-W15-repaso-p3-001-MASTERY-bundle",
       "periodo": 15,
@@ -55,41 +55,41 @@
     },
     {
       "id": "CO-ING-3-2026-W15-repaso-p3-001-MASTERY-bundle-v2",
-      "statement": "What is the English word for: \"A detailed plan or route of a journey.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "What colour do you get when you mix blue and yellow?",
+      "context": "Colores en clase de artes, grado 3.",
       "options": [
         {
           "letter": "A",
-          "text": "itinerary",
+          "text": "green",
           "is_correct": true,
-          "feedback": "Correct! 'itinerary' matches the definition."
+          "feedback": "Blue plus yellow gives green in the colour mixture."
         },
         {
           "letter": "B",
-          "text": "baggage",
+          "text": "purple",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Red plus blue gives purple, not blue plus yellow."
         },
         {
           "letter": "C",
-          "text": "destination",
+          "text": "orange",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Red plus yellow gives orange."
         },
         {
           "letter": "D",
-          "text": "passport",
+          "text": "brown",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Brown results from mixing complementary colours such as orange and blue."
         }
       ],
       "correct_answer": "A",
-      "explanation": "The word 'itinerary' is used to describe a detailed plan or route of a journey. This is an important vocabulary word in English.\n---",
+      "explanation": "En la mezcla de colores, azul y amarillo producen verde. La regla se aprende junto con los demas ejemplos de la unidad.\n\n---",
       "difficulty": "4",
       "images": [],
       "tags": [],
-      "bloom": "Understand",
-      "icfes_type": "Lexico",
+      "bloom": "Remember",
+      "icfes_type": "Grammatical Knowledge",
       "expected_success": 0.8,
       "bundle_id": "CO-ING-3-2026-W15-repaso-p3-001-MASTERY-bundle",
       "periodo": 15,
@@ -101,41 +101,41 @@
     },
     {
       "id": "CO-ING-3-2026-W15-repaso-p3-001-MASTERY-bundle-v3",
-      "statement": "What is the English word for: \"The place to which someone or something is going or being sent.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Complete: 'She is ____ than her brother.'",
+      "context": "Comparativos, grado 3.",
       "options": [
         {
           "letter": "A",
-          "text": "destination",
-          "is_correct": true,
-          "feedback": "Correct! 'destination' matches the definition."
+          "text": "tall",
+          "is_correct": false,
+          "feedback": "The bare adjective is used for the superlative 'the tallest', not the comparative."
         },
         {
           "letter": "B",
-          "text": "departure",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "text": "taller",
+          "is_correct": true,
+          "feedback": "'Taller than' is the correct comparative form for height."
         },
         {
           "letter": "C",
-          "text": "arrival",
+          "text": "tallest",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "'The tallest' is the superlative and requires 'the'."
         },
         {
           "letter": "D",
-          "text": "journey",
+          "text": "more tall",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "The base adjective 'tall' takes '-er', not 'more'."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'destination' is used to describe the place to which someone or something is going or being sent. This is an important vocabulary word in English.\n---",
-      "difficulty": "6",
+      "correct_answer": "B",
+      "explanation": "En comparaciones con dos sujetos se usa 'than' y el adjetivo en su forma mas corta con -er.\n\n---",
+      "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Apply",
-      "icfes_type": "Lexico",
+      "icfes_type": "Grammatical Knowledge",
       "expected_success": 0.8,
       "bundle_id": "CO-ING-3-2026-W15-repaso-p3-001-MASTERY-bundle",
       "periodo": 15,
@@ -147,41 +147,41 @@
     },
     {
       "id": "CO-ING-3-2026-W15-repaso-p3-001-MASTERY-bundle-v4",
-      "statement": "What is the English word for: \"Suitcases or other bags in which to pack personal belongings for traveling.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Which word is the plural of 'child'?",
+      "context": "Plurales irregulares, grado 3.",
       "options": [
         {
-          "letter": "D",
-          "text": "luggage",
-          "is_correct": true,
-          "feedback": "Correct! 'luggage' matches the definition."
-        },
-        {
           "letter": "A",
-          "text": "ticket",
+          "text": "childs",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Regular -s plural is not used with 'child'."
         },
         {
           "letter": "B",
-          "text": "flight",
+          "text": "childrens",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "The plural 'children' is already irregular and takes no -s."
         },
         {
           "letter": "C",
-          "text": "reservation",
+          "text": "childrens'",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "A possessive form is not a plural in this slot."
+        },
+        {
+          "letter": "D",
+          "text": "children",
+          "is_correct": true,
+          "feedback": "'Children' is the irregular plural of 'child'."
         }
       ],
       "correct_answer": "D",
-      "explanation": "The word 'luggage' is used to describe suitcases or other bags in which to pack personal belongings for traveling. This is an important vocabulary word in English.\n---",
-      "difficulty": "6",
+      "explanation": "'Child' tiene un plural irregular: 'children'. Es uno de los puntos mas frecuentes de las pruebas de esta unidad.\n\n---",
+      "difficulty": "4",
       "images": [],
       "tags": [],
-      "bloom": "Apply",
-      "icfes_type": "Lexico",
+      "bloom": "Remember",
+      "icfes_type": "Grammatical Knowledge",
       "expected_success": 0.8,
       "bundle_id": "CO-ING-3-2026-W15-repaso-p3-001-MASTERY-bundle",
       "periodo": 15,
@@ -193,41 +193,41 @@
     },
     {
       "id": "CO-ING-3-2026-W15-repaso-p3-001-MASTERY-bundle-v5",
-      "statement": "What is the English word for: \"A traveler on a public or private conveyance other than the driver, pilot, or crew.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Look at the sentence: 'I am happy and my sister is happy ____.' Choose the word.",
+      "context": "Concordancia del verbo be, grado 3.",
       "options": [
         {
-          "letter": "D",
-          "text": "passenger",
-          "is_correct": true,
-          "feedback": "Correct! 'passenger' matches the definition."
-        },
-        {
           "letter": "A",
-          "text": "pedestrian",
+          "text": "are",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "'Are' goes with plural subjects such as 'my sisters'."
         },
         {
           "letter": "B",
-          "text": "commuter",
+          "text": "am",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "'Am' is used only with 'I'."
         },
         {
           "letter": "C",
-          "text": "tourist",
+          "text": "is",
+          "is_correct": true,
+          "feedback": "'Is' agrees with the singular subject 'my sister'."
+        },
+        {
+          "letter": "D",
+          "text": "be",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "The bare infinitive cannot be the verb of a statement."
         }
       ],
-      "correct_answer": "D",
-      "explanation": "The word 'passenger' is used to describe a traveler on a public or private conveyance other than the driver, pilot, or crew. This is an important vocabulary word in English.\n---",
-      "difficulty": "8",
+      "correct_answer": "C",
+      "explanation": "Con 'my sister' el verbo 'to be' va en tercera persona singular: 'is'. Conviene practicarlo con otros ejemplos antes del examen.\n\n---",
+      "difficulty": "4",
       "images": [],
       "tags": [],
-      "bloom": "Analyze",
-      "icfes_type": "Lexico",
+      "bloom": "Apply",
+      "icfes_type": "Grammatical Knowledge",
       "expected_success": 0.8,
       "bundle_id": "CO-ING-3-2026-W15-repaso-p3-001-MASTERY-bundle",
       "periodo": 15,
@@ -239,41 +239,41 @@
     },
     {
       "id": "CO-ING-3-2026-W15-repaso-p3-001-MASTERY-bundle-v6",
-      "statement": "What is the English word for: \"The place at a port, airport, or frontier where officials check incoming goods, travelers, or luggage.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Which is the correct question?",
+      "context": "Interrogacion en presente simple, grado 3.",
       "options": [
         {
-          "letter": "D",
-          "text": "customs",
-          "is_correct": true,
-          "feedback": "Correct! 'customs' matches the definition."
-        },
-        {
           "letter": "A",
-          "text": "security",
+          "text": "Do he like music?",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "'Do' cannot agree with the third person singular 'he'."
         },
         {
           "letter": "B",
-          "text": "terminal",
+          "text": "Does he likes music?",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "After 'does' the verb must remain in the base form 'like'."
         },
         {
           "letter": "C",
-          "text": "gate",
+          "text": "Is he like music?",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "'Is' cannot be followed by the verb 'like' in this structure."
+        },
+        {
+          "letter": "D",
+          "text": "Does he like music?",
+          "is_correct": true,
+          "feedback": "'Does' plus subject plus base verb is the correct interrogative."
         }
       ],
       "correct_answer": "D",
-      "explanation": "The word 'customs' is used to describe the place at a port, airport, or frontier where officials check incoming goods, travelers, or luggage. This is an important vocabulary word in English.\n---",
-      "difficulty": "8",
+      "explanation": "Para preguntar en presente simple con 'he' se usa 'Does' seguido del verbo en forma base.\n\n---",
+      "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Analyze",
-      "icfes_type": "Lexico",
+      "icfes_type": "Grammatical Knowledge",
       "expected_success": 0.8,
       "bundle_id": "CO-ING-3-2026-W15-repaso-p3-001-MASTERY-bundle",
       "periodo": 15,
@@ -285,41 +285,41 @@
     },
     {
       "id": "CO-ING-3-2026-W15-repaso-p3-001-MASTERY-bundle-v7",
-      "statement": "What is the English word for: \"A document provided by an airline during check-in, giving a passenger permission to board the airplane.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "What time is it? Choose the correct sentence.",
+      "context": "Expresion de la hora, grado 3.",
       "options": [
         {
           "letter": "A",
-          "text": "boarding pass",
-          "is_correct": true,
-          "feedback": "Correct! 'boarding pass' matches the definition."
+          "text": "It is three of fifteen.",
+          "is_correct": false,
+          "feedback": "'Of' is not used with the minutes in English."
         },
         {
           "letter": "B",
-          "text": "visa",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "text": "It is three fifteen.",
+          "is_correct": true,
+          "feedback": "'Three fifteen' states the hour and the minutes directly."
         },
         {
           "letter": "C",
-          "text": "receipt",
+          "text": "It is fifteen three.",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "The hour must come first: three fifteen, not fifteen three."
         },
         {
           "letter": "D",
-          "text": "brochure",
+          "text": "It is three and a half.",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "'A half' would mean three thirty, a different time."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'boarding pass' is used to describe a document provided by an airline during check-in, giving a passenger permission to board the airplane. This is an important vocabulary word in English.\n---",
-      "difficulty": "10",
+      "correct_answer": "B",
+      "explanation": "Para las tres y cuarto se dice 'It is three fifteen', o 'a quarter past three'. Esta forma se practica tambien con los otros verbos de la misma serie.\n\n---",
+      "difficulty": "4",
       "images": [],
       "tags": [],
-      "bloom": "Evaluate",
-      "icfes_type": "Lexico",
+      "bloom": "Apply",
+      "icfes_type": "Grammatical Knowledge",
       "expected_success": 0.8,
       "bundle_id": "CO-ING-3-2026-W15-repaso-p3-001-MASTERY-bundle",
       "periodo": 15,
@@ -331,41 +331,41 @@
     },
     {
       "id": "CO-ING-3-2026-W15-repaso-p3-001-MASTERY-bundle-v8",
-      "statement": "What is the English word for: \"The activity of visiting places of interest in a particular location.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Choose the correct preposition: 'The cat is ____ the table.'",
+      "context": "Preposiciones de lugar, grado 3.",
       "options": [
         {
-          "letter": "D",
-          "text": "sightseeing",
-          "is_correct": true,
-          "feedback": "Correct! 'sightseeing' matches the definition."
-        },
-        {
           "letter": "A",
-          "text": "shopping",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "text": "under",
+          "is_correct": true,
+          "feedback": "'Under' describes a position below the table."
         },
         {
           "letter": "B",
-          "text": "hiking",
+          "text": "between",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "'Between' requires two objects: 'between the table and the chair'."
         },
         {
           "letter": "C",
-          "text": "camping",
+          "text": "among",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "'Among' is used for more than two items in a group."
+        },
+        {
+          "letter": "D",
+          "text": "along",
+          "is_correct": false,
+          "feedback": "'Along' describes movement following the length of something."
         }
       ],
-      "correct_answer": "D",
-      "explanation": "The word 'sightseeing' is used to describe the activity of visiting places of interest in a particular location. This is an important vocabulary word in English.",
-      "difficulty": "10",
+      "correct_answer": "A",
+      "explanation": "Cuando se describe la posicion de un objeto respecto de otro se usa 'under' para debajo.\n\n---",
+      "difficulty": "4",
       "images": [],
       "tags": [],
-      "bloom": "Evaluate",
-      "icfes_type": "Lexico",
+      "bloom": "Apply",
+      "icfes_type": "Grammatical Knowledge",
       "expected_success": 0.8,
       "bundle_id": "CO-ING-3-2026-W15-repaso-p3-001-MASTERY-bundle",
       "periodo": 15,

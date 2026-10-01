@@ -16,25 +16,25 @@
           "letter": "A",
           "text": "It is eight o'clock",
           "is_correct": true,
-          "feedback": "Correct!"
+          "feedback": "8:00 is spoken as 'It is eight o'clock', because the minutes are zero."
         },
         {
           "letter": "B",
           "text": "It is eight minutes",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "8:00 has no minutes to name, so nothing is said after 'eight'."
         },
         {
           "letter": "C",
           "text": "It is eight hours",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "You do not say the time in hours like that; the hour is named once, as 'eight'."
         },
         {
           "letter": "D",
           "text": "It is eight seconds",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "Seconds are far too small a unit to describe a whole hour."
         }
       ],
       "correct_answer": "A",
@@ -62,25 +62,25 @@
           "letter": "A",
           "text": "months",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "Months are a unit of the calendar, not something a clock hand shows."
         },
         {
           "letter": "B",
           "text": "minutes",
           "is_correct": true,
-          "feedback": "Correct!"
+          "feedback": "The long (minute) hand completes one turn per hour and shows the minutes."
         },
         {
           "letter": "C",
           "text": "hours",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "The short (hour) hand shows the hours; the long hand is the one that shows minutes."
         },
         {
           "letter": "D",
           "text": "days",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "Days are counted by the calendar, not read off a clock face."
         }
       ],
       "correct_answer": "B",
@@ -108,25 +108,25 @@
           "letter": "A",
           "text": "3:12",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "3:12 would need the long hand on the 2, but it is on the 12."
         },
         {
           "letter": "B",
           "text": "6:00",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "6:00 is when the short hand points to the 6, and here it is on the 3."
         },
         {
           "letter": "C",
           "text": "3:00",
           "is_correct": true,
-          "feedback": "Correct!"
+          "feedback": "Short hand on 3 and long hand on 12 is three o'clock, written 3:00."
         },
         {
           "letter": "D",
           "text": "12:03",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "12:03 reads as twelve past three only if the hands were swapped; here it is 3:00."
         }
       ],
       "correct_answer": "C",
@@ -154,25 +154,25 @@
           "letter": "A",
           "text": "afternoon",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "Afternoon is marked PM, because it comes after midday (12:00 PM)."
         },
         {
           "letter": "B",
           "text": "night",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "Night hours are marked PM as well, so AM does not cover them."
         },
         {
           "letter": "C",
           "text": "evening",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "Evening comes after midday, so it is PM."
         },
         {
           "letter": "D",
           "text": "morning",
           "is_correct": true,
-          "feedback": "Correct!"
+          "feedback": "AM is for the hours between midnight and midday, that is, the morning."
         }
       ],
       "correct_answer": "D",
@@ -200,25 +200,25 @@
           "letter": "A",
           "text": "afternoon and night",
           "is_correct": true,
-          "feedback": "Correct!"
+          "feedback": "PM covers the hours from midday to midnight, which is the afternoon and the night."
         },
         {
           "letter": "B",
           "text": "morning",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "Morning is AM, before midday."
         },
         {
           "letter": "C",
           "text": "sunrise",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "Sunrise is an event, not a block of hours labelled PM."
         },
         {
           "letter": "D",
           "text": "breakfast time",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "Breakfast time is in the morning, so it is AM."
         }
       ],
       "correct_answer": "A",
@@ -246,25 +246,25 @@
           "letter": "A",
           "text": "100",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "An hour has 60 minutes; 100 is not the number of minutes."
         },
         {
           "letter": "B",
           "text": "60",
           "is_correct": true,
-          "feedback": "Correct!"
+          "feedback": "There are 60 minutes in one hour."
         },
         {
           "letter": "C",
           "text": "12",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "12 is the number of months in a year, not the minutes in an hour."
         },
         {
           "letter": "D",
           "text": "24",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "24 is the number of hours in a day, not the minutes in an hour."
         }
       ],
       "correct_answer": "B",
@@ -292,25 +292,25 @@
           "letter": "A",
           "text": "6:00 AM",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "6:00 AM is early morning, long before midday."
         },
         {
           "letter": "B",
           "text": "6:00 PM",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "6:00 PM is early evening, six hours after midday."
         },
         {
           "letter": "C",
           "text": "12:00 PM",
           "is_correct": true,
-          "feedback": "Correct!"
+          "feedback": "Midday is 12:00 PM, the moment the 12-hour clock wraps around."
         },
         {
           "letter": "D",
           "text": "12:00 AM",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "12:00 AM is midnight, the start of the day, not midday."
         }
       ],
       "correct_answer": "C",
@@ -338,25 +338,25 @@
           "letter": "A",
           "text": "12:00 PM",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "12:00 PM is midday, when the sun is highest, not midnight."
         },
         {
           "letter": "B",
           "text": "1:00 AM",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "1:00 AM is one hour after midnight, not midnight itself."
         },
         {
           "letter": "C",
           "text": "11:00 PM",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "11:00 PM is one hour before midnight, so it is nearly, but not, midnight."
         },
         {
           "letter": "D",
           "text": "12:00 AM",
           "is_correct": true,
-          "feedback": "Correct!"
+          "feedback": "Midnight is 12:00 AM, the moment the day changes."
         }
       ],
       "correct_answer": "D",

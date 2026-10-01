@@ -16,25 +16,25 @@
           "letter": "A",
           "text": "nose",
           "is_correct": true,
-          "feedback": "Correct!"
+          "feedback": "The nose is in the middle of the face and its two nostrils let air in so we can breathe."
         },
         {
           "letter": "B",
           "text": "mouth",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "The mouth is for eating and talking, not for breathing."
         },
         {
           "letter": "C",
           "text": "ear",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "An ear is on the side of the head and it is used for hearing, not for breathing."
         },
         {
           "letter": "D",
           "text": "eye",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "An eye is used for seeing; breathing happens through the nose and the mouth."
         }
       ],
       "correct_answer": "A",
@@ -62,25 +62,25 @@
           "letter": "A",
           "text": "cheek",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "A cheek is the round part of the face beside the mouth; it does not eat or talk."
         },
         {
           "letter": "B",
           "text": "mouth",
           "is_correct": true,
-          "feedback": "Correct!"
+          "feedback": "The mouth is the opening we use to eat and to speak, so it completes the sentence."
         },
         {
           "letter": "C",
           "text": "nose",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "The nose is for breathing and smelling, not for eating and talking."
         },
         {
           "letter": "D",
           "text": "forehead",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "The forehead is the skin above the eyes; it is not a mouth."
         }
       ],
       "correct_answer": "B",
@@ -108,25 +108,25 @@
           "letter": "A",
           "text": "chins",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "A chin is the bottom part of the face, below the mouth, and there is only one."
         },
         {
           "letter": "B",
           "text": "ears",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "An ear is on the side of the head, not above the eye."
         },
         {
           "letter": "C",
           "text": "eyebrows",
           "is_correct": true,
-          "feedback": "Correct!"
+          "feedback": "Eyebrows are the two strips of hair above the eyes, so \"eyebrows\" completes the sentence."
         },
         {
           "letter": "D",
           "text": "lips",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "Lips are below the nose and they form the mouth, not the area above the eyes."
         }
       ],
       "correct_answer": "C",
@@ -154,25 +154,25 @@
           "letter": "A",
           "text": "eyes",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "Eyes are on the outside of the face and you see with them; they are not inside the mouth."
         },
         {
           "letter": "B",
           "text": "ears",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "Ears are on the sides of the head and they are not inside the mouth."
         },
         {
           "letter": "C",
           "text": "cheeks",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "Cheeks are the round parts of the face beside the mouth, and they are not white teeth."
         },
         {
           "letter": "D",
           "text": "teeth",
           "is_correct": true,
-          "feedback": "Correct!"
+          "feedback": "Teeth are inside the mouth and they are white, so \"teeth\" completes the sentence."
         }
       ],
       "correct_answer": "D",
@@ -200,25 +200,25 @@
           "letter": "A",
           "text": "my tongue",
           "is_correct": true,
-          "feedback": "Correct!"
+          "feedback": "The tongue is the organ inside the mouth that lets us taste the food we eat."
         },
         {
           "letter": "B",
           "text": "my nose",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "The nose smells and breathes; we taste food with the tongue, not with the nose."
         },
         {
           "letter": "C",
           "text": "my ear",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "An ear is used for hearing, not for tasting food."
         },
         {
           "letter": "D",
           "text": "my hair",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "Hair grows on the head; it has nothing to do with taste."
         }
       ],
       "correct_answer": "A",
@@ -246,25 +246,25 @@
           "letter": "A",
           "text": "shoes",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "Shoes are worn on the feet, so they are not on the head."
         },
         {
           "letter": "B",
           "text": "hair",
           "is_correct": true,
-          "feedback": "Correct!"
+          "feedback": "Hair grows on top of the head, so \"hair\" completes the sentence."
         },
         {
           "letter": "C",
           "text": "fingers",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "Fingers are at the end of the hands, not on the head."
         },
         {
           "letter": "D",
           "text": "toes",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "Toes are at the end of the feet, so they are not on the head."
         }
       ],
       "correct_answer": "B",
@@ -292,25 +292,25 @@
           "letter": "A",
           "text": "noses",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "Each person has one nose in the middle of the face, not noses on the sides of the head."
         },
         {
           "letter": "B",
           "text": "lips",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "Lips are in the mouth area, not on the sides of the head."
         },
         {
           "letter": "C",
           "text": "ears",
           "is_correct": true,
-          "feedback": "Correct!"
+          "feedback": "The two ears are on the sides of the head, so \"ears\" completes the sentence."
         },
         {
           "letter": "D",
           "text": "eyes",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "The eyes are in the front of the face, not on the sides of the head."
         }
       ],
       "correct_answer": "C",
@@ -338,25 +338,25 @@
           "letter": "A",
           "text": "mouth",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "People sleep with the mouth closed; it is the eyes we close."
         },
         {
           "letter": "B",
           "text": "ears",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "We hear with the ears and keep them open during sleep."
         },
         {
           "letter": "C",
           "text": "nose",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "The nose keeps working while we sleep, so we breathe through it with the mouth closed."
         },
         {
           "letter": "D",
           "text": "eyes",
           "is_correct": true,
-          "feedback": "Correct!"
+          "feedback": "The eyes are the parts we close when we sleep, so \"eyes\" completes the sentence."
         }
       ],
       "correct_answer": "D",

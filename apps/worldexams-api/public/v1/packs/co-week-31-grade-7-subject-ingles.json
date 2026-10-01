@@ -292,25 +292,25 @@
           "letter": "B",
           "text": "mustn't",
           "is_correct": false,
-          "feedback": "Incorrect. Prohibition."
+          "feedback": "'Mustn't' expresses prohibition, and the sentence sets a condition you have to meet, not one you must avoid."
         },
         {
           "letter": "A",
           "text": "must",
           "is_correct": true,
-          "feedback": "Correct! Expresses a strong personal or parental obligation."
+          "feedback": "'Must' expresses the strong obligation implied by 'before you go out'."
         },
         {
           "letter": "C",
           "text": "don't have to",
           "is_correct": false,
-          "feedback": "Incorrect. Contradicts the condition for going out."
+          "feedback": "'Don't have to' removes the requirement, but the sentence says the room must be clean first."
         },
         {
           "letter": "D",
           "text": "are",
           "is_correct": false,
-          "feedback": "Incorrect. Missing auxiliary."
+          "feedback": "'Are' would need a present participle after it; the blank calls for a modal verb."
         }
       ],
       "correct_answer": "A",

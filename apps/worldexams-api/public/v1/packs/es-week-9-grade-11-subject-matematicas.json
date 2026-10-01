@@ -163,13 +163,13 @@
           "letter": "C",
           "text": "Hacia la derecha.",
           "is_correct": false,
-          "feedback": "Las funciones de tipo y=f(x) no abren lateralmente."
+          "feedback": "Con $a<0$ la parábola se abre hacia abajo y hacia la derecha en el eje, no hacia la derecha en el plano."
         },
         {
           "letter": "D",
           "text": "Hacia la izquierda.",
           "is_correct": false,
-          "feedback": "Las funciones de tipo y=f(x) no abren lateralmente."
+          "feedback": "Las funciones $y=f(x)$ no abren lateralmente; la dirección depende del signo de $a$ en el eje vertical."
         }
       ],
       "correct_answer": "A",

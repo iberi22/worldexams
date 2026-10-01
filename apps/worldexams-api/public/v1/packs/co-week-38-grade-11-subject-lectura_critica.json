@@ -568,25 +568,25 @@
           "letter": "A",
           "text": "Involucrar al oyente en la reflexión y encuadrar el tema antes de la respuesta argumentativa.",
           "is_correct": true,
-          "feedback": "Activa la reflexión."
+          "feedback": "Activa la reflexión de la audiencia y encuadra el tema antes de que el orador desarrolle su argumento."
         },
         {
           "letter": "B",
           "text": "Solicitar respuesta inmediata del público.",
           "is_correct": false,
-          "feedback": "Es retórica, no diálogo."
+          "feedback": "Las preguntas retóricas no buscan una respuesta del público: el orador es quien responde después."
         },
         {
           "letter": "C",
           "text": "Evadir la respuesta del orador.",
           "is_correct": false,
-          "feedback": "El orador responde."
+          "feedback": "El orador sí responde a su propia pregunta retórica, no la evade."
         },
         {
           "letter": "D",
           "text": "Confundir al lector con ambigüedad.",
           "is_correct": false,
-          "feedback": "Aclara."
+          "feedback": "La pregunta retórica despeja el punto, no lo vuelve ambiguo para el oyente."
         }
       ],
       "correct_answer": "A",

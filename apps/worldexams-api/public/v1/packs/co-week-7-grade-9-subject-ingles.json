@@ -200,7 +200,7 @@
           "letter": "A",
           "text": "will announce",
           "is_correct": false,
-          "feedback": "Incorrect. Active voice."
+          "feedback": "\"Will announce\" is the active voice: it would say that the winners themselves announce the news. Here the news is announced about them, so the sentence needs the passive."
         },
         {
           "letter": "D",
@@ -212,7 +212,7 @@
           "letter": "B",
           "text": "are going to announce",
           "is_correct": false,
-          "feedback": "Incorrect. Active voice."
+          "feedback": "\"Are going to announce\" is also active and would make the winners the ones announcing, not the ones being announced."
         },
         {
           "letter": "C",

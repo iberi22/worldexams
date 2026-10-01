@@ -9,41 +9,41 @@
   "questions": [
     {
       "id": "CO-ING-3-2026-W03-numbers-1-20-001-MASTERY-bundle-v1",
-      "statement": "What is the English word for: \"A place where you live or stay on holiday.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Which number is 'thirteen'?",
+      "context": "Practica de numeros del 1 al 20, grado 3.",
       "options": [
         {
-          "letter": "D",
-          "text": "accommodation",
-          "is_correct": true,
-          "feedback": "Correct! 'accommodation' matches the definition."
-        },
-        {
           "letter": "A",
-          "text": "transportation",
+          "text": "30",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "'Thirty' is the word for 30, a different number entirely."
         },
         {
           "letter": "B",
-          "text": "entertainment",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "text": "13",
+          "is_correct": true,
+          "feedback": "'Thirteen' is the number after twelve: 10 + 3 = 13."
         },
         {
           "letter": "C",
-          "text": "currency",
+          "text": "3",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "That is 'three', not 'thirteen'."
+        },
+        {
+          "letter": "D",
+          "text": "11",
+          "is_correct": false,
+          "feedback": "That is 'eleven', the number before twelve."
         }
       ],
-      "correct_answer": "D",
-      "explanation": "The word 'accommodation' is used to describe a place where you live or stay on holiday. This is an important vocabulary word in English.\n---",
+      "correct_answer": "B",
+      "explanation": "'Thirteen' se escribe con vocal inicial y es el numero inmediatamente despues de 'twelve'.\n\n---",
       "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Remember",
-      "icfes_type": "Lexico",
+      "icfes_type": "Lexical Knowledge",
       "expected_success": 0.8,
       "bundle_id": "CO-ING-3-2026-W03-numbers-1-20-001-MASTERY-bundle",
       "periodo": 3,
@@ -55,41 +55,41 @@
     },
     {
       "id": "CO-ING-3-2026-W03-numbers-1-20-001-MASTERY-bundle-v2",
-      "statement": "What is the English word for: \"A detailed plan or route of a journey.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Complete the sentence: 'I have ____ pencils in my bag.'",
+      "context": "Numeros en contexto, grado 3.",
       "options": [
         {
-          "letter": "C",
-          "text": "itinerary",
-          "is_correct": true,
-          "feedback": "Correct! 'itinerary' matches the definition."
-        },
-        {
           "letter": "A",
-          "text": "baggage",
+          "text": "twelveth",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "'Twelveth' is not an English number."
         },
         {
           "letter": "B",
-          "text": "destination",
+          "text": "twelves",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "'Twelves' is not a standard plural of 'twelve'."
+        },
+        {
+          "letter": "C",
+          "text": "twelf",
+          "is_correct": false,
+          "feedback": "'Twelf' is not an English word."
         },
         {
           "letter": "D",
-          "text": "passport",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "text": "twelve",
+          "is_correct": true,
+          "feedback": "'Twelve pencils' is a plural count that matches the noun 'pencils'."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "The word 'itinerary' is used to describe a detailed plan or route of a journey. This is an important vocabulary word in English.\n---",
+      "correct_answer": "D",
+      "explanation": "Los lapices se cuentan en plural, por eso el enunciado requiere un numero mayor de uno.\n\n---",
       "difficulty": "4",
       "images": [],
       "tags": [],
-      "bloom": "Understand",
-      "icfes_type": "Lexico",
+      "bloom": "Apply",
+      "icfes_type": "Lexical Knowledge",
       "expected_success": 0.8,
       "bundle_id": "CO-ING-3-2026-W03-numbers-1-20-001-MASTERY-bundle",
       "periodo": 3,
@@ -101,41 +101,41 @@
     },
     {
       "id": "CO-ING-3-2026-W03-numbers-1-20-001-MASTERY-bundle-v3",
-      "statement": "What is the English word for: \"The place to which someone or something is going or being sent.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Which number comes after nineteen?",
+      "context": "Secuencia numerica del 1 al 20, grado 3.",
       "options": [
         {
-          "letter": "D",
-          "text": "destination",
-          "is_correct": true,
-          "feedback": "Correct! 'destination' matches the definition."
-        },
-        {
           "letter": "A",
-          "text": "departure",
+          "text": "nineteen",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "That is the number before, not the one after."
         },
         {
           "letter": "B",
-          "text": "arrival",
+          "text": "twenty-one",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "'Twenty-one' would be the number after twenty."
         },
         {
           "letter": "C",
-          "text": "journey",
+          "text": "ten",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "'Ten' restarts the tens in the sequence."
+        },
+        {
+          "letter": "D",
+          "text": "twenty",
+          "is_correct": true,
+          "feedback": "Nineteen is followed by twenty in the natural counting sequence."
         }
       ],
       "correct_answer": "D",
-      "explanation": "The word 'destination' is used to describe the place to which someone or something is going or being sent. This is an important vocabulary word in English.\n---",
-      "difficulty": "6",
+      "explanation": "La serie del 1 al 20 termina en 19 followed by 20, que se escribe 'twenty'. Esta forma se practica tambien con los otros verbos de la misma serie.\n\n---",
+      "difficulty": "4",
       "images": [],
       "tags": [],
-      "bloom": "Apply",
-      "icfes_type": "Lexico",
+      "bloom": "Understand",
+      "icfes_type": "Lexical Knowledge",
       "expected_success": 0.8,
       "bundle_id": "CO-ING-3-2026-W03-numbers-1-20-001-MASTERY-bundle",
       "periodo": 3,
@@ -147,41 +147,41 @@
     },
     {
       "id": "CO-ING-3-2026-W03-numbers-1-20-001-MASTERY-bundle-v4",
-      "statement": "What is the English word for: \"Suitcases or other bags in which to pack personal belongings for traveling.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Look at the number 45. How do you read it?",
+      "context": "Lectura de numeros de dos cifras, grado 3.",
       "options": [
         {
-          "letter": "B",
-          "text": "luggage",
+          "letter": "A",
+          "text": "forty-five",
           "is_correct": true,
-          "feedback": "Correct! 'luggage' matches the definition."
+          "feedback": "Forty is the tens digit and five is the units digit: 40 + 5 = 45."
         },
         {
-          "letter": "A",
-          "text": "ticket",
+          "letter": "B",
+          "text": "fifty-four",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "That reads 54, with the digits in the wrong order."
         },
         {
           "letter": "C",
-          "text": "flight",
+          "text": "four-five",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "'Four-five' is how a number is read digit by digit, not as a value."
         },
         {
           "letter": "D",
-          "text": "reservation",
+          "text": "fourteen-five",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "'Fourteen' has no place in this two-digit number."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "The word 'luggage' is used to describe suitcases or other bags in which to pack personal belongings for traveling. This is an important vocabulary word in English.\n---",
-      "difficulty": "6",
+      "correct_answer": "A",
+      "explanation": "En ingles el 45 se lee 'forty-five': la decena primero y la unidad despues, con guion.\n\n---",
+      "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Apply",
-      "icfes_type": "Lexico",
+      "icfes_type": "Lexical Knowledge",
       "expected_success": 0.8,
       "bundle_id": "CO-ING-3-2026-W03-numbers-1-20-001-MASTERY-bundle",
       "periodo": 3,
@@ -193,41 +193,41 @@
     },
     {
       "id": "CO-ING-3-2026-W03-numbers-1-20-001-MASTERY-bundle-v5",
-      "statement": "What is the English word for: \"A traveler on a public or private conveyance other than the driver, pilot, or crew.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Which word means 'the number 100'?",
+      "context": "Numeros redondos, grado 3.",
       "options": [
         {
-          "letter": "B",
-          "text": "passenger",
-          "is_correct": true,
-          "feedback": "Correct! 'passenger' matches the definition."
+          "letter": "A",
+          "text": "one thousand",
+          "is_correct": false,
+          "feedback": "'One thousand' is 1,000, ten times larger."
         },
         {
-          "letter": "A",
-          "text": "pedestrian",
+          "letter": "B",
+          "text": "ten hundred",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Ten hundreds would be 1,000, not 100."
         },
         {
           "letter": "C",
-          "text": "commuter",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "text": "one hundred",
+          "is_correct": true,
+          "feedback": "'One hundred' is 100 in English."
         },
         {
           "letter": "D",
-          "text": "tourist",
+          "text": "hundred",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "'Hundred' alone needs the determiner 'one' or 'a' in this sense."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "The word 'passenger' is used to describe a traveler on a public or private conveyance other than the driver, pilot, or crew. This is an important vocabulary word in English.\n---",
-      "difficulty": "8",
+      "correct_answer": "C",
+      "explanation": "'One hundred' o 'a hundred' equivalen a 100; 'thousand' es 1,000. El mismo criterio se aplica al resto del vocabulario del tema.\n\n---",
+      "difficulty": "4",
       "images": [],
       "tags": [],
-      "bloom": "Analyze",
-      "icfes_type": "Lexico",
+      "bloom": "Remember",
+      "icfes_type": "Lexical Knowledge",
       "expected_success": 0.8,
       "bundle_id": "CO-ING-3-2026-W03-numbers-1-20-001-MASTERY-bundle",
       "periodo": 3,
@@ -239,41 +239,41 @@
     },
     {
       "id": "CO-ING-3-2026-W03-numbers-1-20-001-MASTERY-bundle-v6",
-      "statement": "What is the English word for: \"The place at a port, airport, or frontier where officials check incoming goods, travelers, or luggage.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Complete the dialogue: 'A: How many books do you have? B: ____ fifteen.'",
+      "context": "Interrogacion sobre cantidades, grado 3.",
       "options": [
         {
-          "letter": "C",
-          "text": "customs",
-          "is_correct": true,
-          "feedback": "Correct! 'customs' matches the definition."
-        },
-        {
           "letter": "A",
-          "text": "security",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "text": "I have",
+          "is_correct": true,
+          "feedback": "'I have fifteen books' answers the question and keeps the plural noun."
         },
         {
           "letter": "B",
-          "text": "terminal",
+          "text": "I am",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "'I am' cannot be followed by a counted object."
+        },
+        {
+          "letter": "C",
+          "text": "I has",
+          "is_correct": false,
+          "feedback": "With 'I' the verb is always 'have', never 'has'."
         },
         {
           "letter": "D",
-          "text": "gate",
+          "text": "I having",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "'Having' is a gerund and does not answer the question."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "The word 'customs' is used to describe the place at a port, airport, or frontier where officials check incoming goods, travelers, or luggage. This is an important vocabulary word in English.\n---",
-      "difficulty": "8",
+      "correct_answer": "A",
+      "explanation": "La respuesta a 'How many' con un numero mayor de uno lleva el plural 'books': 'fifteen books'.\n\n---",
+      "difficulty": "4",
       "images": [],
       "tags": [],
-      "bloom": "Analyze",
-      "icfes_type": "Lexico",
+      "bloom": "Apply",
+      "icfes_type": "Lexical Knowledge",
       "expected_success": 0.8,
       "bundle_id": "CO-ING-3-2026-W03-numbers-1-20-001-MASTERY-bundle",
       "periodo": 3,
@@ -285,41 +285,41 @@
     },
     {
       "id": "CO-ING-3-2026-W03-numbers-1-20-001-MASTERY-bundle-v7",
-      "statement": "What is the English word for: \"A document provided by an airline during check-in, giving a passenger permission to board the airplane.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Which is the correct order from the largest to the smallest?",
+      "context": "Comparacion de cantidades, grado 3.",
       "options": [
         {
-          "letter": "B",
-          "text": "boarding pass",
-          "is_correct": true,
-          "feedback": "Correct! 'boarding pass' matches the definition."
+          "letter": "A",
+          "text": "9, 12, 20",
+          "is_correct": false,
+          "feedback": "That is the ascending order, not the descending one."
         },
         {
-          "letter": "A",
-          "text": "visa",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "letter": "B",
+          "text": "20, 12, 9",
+          "is_correct": true,
+          "feedback": "Each number is smaller than the one before it, so the order is descending."
         },
         {
           "letter": "C",
-          "text": "receipt",
+          "text": "12, 20, 9",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Twelve is smaller than twenty, so the order breaks."
         },
         {
           "letter": "D",
-          "text": "brochure",
+          "text": "20, 9, 12",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Nine is smaller than twelve, so this order breaks."
         }
       ],
       "correct_answer": "B",
-      "explanation": "The word 'boarding pass' is used to describe a document provided by an airline during check-in, giving a passenger permission to board the airplane. This is an important vocabulary word in English.\n---",
-      "difficulty": "10",
+      "explanation": "El orden descendente correcto es 20, 12 y luego 9, porque cada numero es menor que el anterior.\n\n---",
+      "difficulty": "4",
       "images": [],
       "tags": [],
-      "bloom": "Evaluate",
-      "icfes_type": "Lexico",
+      "bloom": "Analyze",
+      "icfes_type": "Lexical Knowledge",
       "expected_success": 0.8,
       "bundle_id": "CO-ING-3-2026-W03-numbers-1-20-001-MASTERY-bundle",
       "periodo": 3,
@@ -331,41 +331,41 @@
     },
     {
       "id": "CO-ING-3-2026-W03-numbers-1-20-001-MASTERY-bundle-v8",
-      "statement": "What is the English word for: \"The activity of visiting places of interest in a particular location.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "What number comes after ninety-nine?",
+      "context": "Secuencia numerica, grado 3.",
       "options": [
         {
-          "letter": "C",
-          "text": "sightseeing",
-          "is_correct": true,
-          "feedback": "Correct! 'sightseeing' matches the definition."
-        },
-        {
           "letter": "A",
-          "text": "shopping",
+          "text": "ninety-eight",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "That is the number before ninety-nine."
         },
         {
           "letter": "B",
-          "text": "hiking",
+          "text": "ninety",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Ninety comes earlier, as part of the teens and eighties."
+        },
+        {
+          "letter": "C",
+          "text": "one hundred",
+          "is_correct": true,
+          "feedback": "Ninety-nine plus one is one hundred."
         },
         {
           "letter": "D",
-          "text": "camping",
+          "text": "one hundred one",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "'One hundred one' would be the number after one hundred."
         }
       ],
       "correct_answer": "C",
-      "explanation": "The word 'sightseeing' is used to describe the activity of visiting places of interest in a particular location. This is an important vocabulary word in English.",
-      "difficulty": "10",
+      "explanation": "Despues de 99 viene 100, que en ingles se escribe 'one hundred' o simply 'a hundred'.\n\n---",
+      "difficulty": "4",
       "images": [],
       "tags": [],
-      "bloom": "Evaluate",
-      "icfes_type": "Lexico",
+      "bloom": "Understand",
+      "icfes_type": "Lexical Knowledge",
       "expected_success": 0.8,
       "bundle_id": "CO-ING-3-2026-W03-numbers-1-20-001-MASTERY-bundle",
       "periodo": 3,

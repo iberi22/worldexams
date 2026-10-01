@@ -1069,7 +1069,7 @@
           "letter": "D",
           "text": "$S_n = n \\cdot r$",
           "is_correct": false,
-          "feedback": "Incorreto."
+          "feedback": "A fórmula correta é Sₙ = n(a₁ + aₙ)/2; a razão é a diferença entre termos, e ela não aparece isolada na soma."
         }
       ],
       "correct_answer": "A",
@@ -1339,7 +1339,7 @@
           "letter": "D",
           "text": "2",
           "is_correct": false,
-          "feedback": "Incorreto."
+          "feedback": "Com 3 meios aritméticos são 5 termos no total, e 21 − 5 = 16 = 4r dá r = 4, e não 2."
         }
       ],
       "correct_answer": "A",
@@ -1366,7 +1366,7 @@
           "letter": "A",
           "text": "$a_1 = 3, r = 3$",
           "is_correct": false,
-          "feedback": "Incorreto."
+          "feedback": "O primeiro termo está certo, mas S₂ = 2² + 2·2 = 8 dá a₂ = 5 e portanto r = 5 − 3 = 2, e não 3."
         },
         {
           "letter": "D",
@@ -1501,7 +1501,7 @@
           "letter": "B",
           "text": "5",
           "is_correct": false,
-          "feedback": "Incorreto."
+          "feedback": "Os termos equidistantes dos extremos somam o mesmo valor: a₁ + a₉ = a₅ + a₅ = 20, então a₅ = 10, e não 5."
         },
         {
           "letter": "A",
@@ -1654,7 +1654,7 @@
           "letter": "D",
           "text": "Somente para $x = 2$.",
           "is_correct": false,
-          "feedback": "Incorreto."
+          "feedback": "A razão é log(2x) − log(x) = log 2, constante para qualquer x, então vale para todo x > 0 e não só para x = 2."
         }
       ],
       "correct_answer": "A",
@@ -1744,7 +1744,7 @@
           "letter": "C",
           "text": "12",
           "is_correct": false,
-          "feedback": "Incorreto."
+          "feedback": "Os lados ficam (3r, 4r, 5r) e a área 6r² = 24 dá r = 2, então a hipotenusa é 10, e não 12."
         }
       ],
       "correct_answer": "D",

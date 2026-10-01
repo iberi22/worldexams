@@ -16,25 +16,25 @@
           "letter": "A",
           "text": "In the kitchen",
           "is_correct": true,
-          "feedback": "Correct!"
+          "feedback": "Correct. The kitchen is the room where the stove is, so it is where dinner is cooked."
         },
         {
           "letter": "B",
           "text": "In the bathroom",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "The bathroom has a shower and a toilet, but no stove for cooking."
         },
         {
           "letter": "C",
           "text": "In the bedroom",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "The bedroom is for sleeping and resting, not for preparing a meal."
         },
         {
           "letter": "D",
           "text": "In the garage",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "The garage is where the car is kept, and cooking is not done there."
         }
       ],
       "correct_answer": "A",
@@ -62,25 +62,25 @@
           "letter": "A",
           "text": "A door",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "A 'door' is what you walk through; you do not sit on one."
         },
         {
           "letter": "B",
           "text": "A chair",
           "is_correct": true,
-          "feedback": "Correct!"
+          "feedback": "Correct. A chair is a piece of furniture built for a person to sit on."
         },
         {
           "letter": "C",
           "text": "A table",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "A 'table' is a flat top that goes with a chair, but the thing you sit on is the chair itself."
         },
         {
           "letter": "D",
           "text": "A window",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "A 'window' is glass in a wall, and it cannot carry a person's weight."
         }
       ],
       "correct_answer": "B",
@@ -108,25 +108,25 @@
           "letter": "A",
           "text": "Have dinner",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "Dinner is the evening meal, not the first thing of the day."
         },
         {
           "letter": "B",
           "text": "Do homework",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "Homework is schoolwork done after class, not the first action on waking."
         },
         {
           "letter": "C",
           "text": "Wake up",
           "is_correct": true,
-          "feedback": "Correct!"
+          "feedback": "Correct. Waking up is the first thing that happens in the morning, before anything else."
         },
         {
           "letter": "D",
           "text": "Go to bed",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "Going to bed ends the day, so it cannot be the first thing in the morning."
         }
       ],
       "correct_answer": "C",
@@ -154,25 +154,25 @@
           "letter": "A",
           "text": "It is five o'watch",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "'o'watch' is not a real English word; the hour is followed by 'o'clock'."
         },
         {
           "letter": "B",
           "text": "It is five o'time",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "'o'time' is not a real English word either."
         },
         {
           "letter": "C",
           "text": "It is five o'day",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "'o'day' is not how English spells out a time of day."
         },
         {
           "letter": "D",
           "text": "It is five o'clock",
           "is_correct": true,
-          "feedback": "Correct!"
+          "feedback": "Correct. English says 'five o'clock': the number followed by the word 'o'clock'."
         }
       ],
       "correct_answer": "D",
@@ -200,25 +200,25 @@
           "letter": "A",
           "text": "teeth",
           "is_correct": true,
-          "feedback": "Correct!"
+          "feedback": "Correct. You brush your teeth with a toothbrush to remove the food and keep them clean."
         },
         {
           "letter": "B",
           "text": "nose",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "You blow your nose with a tissue, you do not brush it."
         },
         {
           "letter": "C",
           "text": "eyes",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "You should never brush your eyes with a brush; they are only cleaned with water."
         },
         {
           "letter": "D",
           "text": "ears",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "Ears are cleaned gently, not brushed with a toothbrush."
         }
       ],
       "correct_answer": "A",
@@ -246,25 +246,25 @@
           "letter": "A",
           "text": "toilet",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "A 'toilet' is in the bathroom, and books are not kept on it."
         },
         {
           "letter": "B",
           "text": "bookshelf",
           "is_correct": true,
-          "feedback": "Correct!"
+          "feedback": "Correct. A bookshelf is a piece of furniture built to hold books standing up."
         },
         {
           "letter": "C",
           "text": "stove",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "A 'stove' is for cooking food on, not for storing books."
         },
         {
           "letter": "D",
           "text": "fridge",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "A 'fridge' keeps food cold, so books do not go in it."
         }
       ],
       "correct_answer": "B",
@@ -292,25 +292,25 @@
           "letter": "A",
           "text": "In the afternoon",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "Breakfast is eaten in the morning; afternoon comes after lunch."
         },
         {
           "letter": "B",
           "text": "At midnight",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "Midnight is the middle of the night, hours away from breakfast."
         },
         {
           "letter": "C",
           "text": "In the morning",
           "is_correct": true,
-          "feedback": "Correct!"
+          "feedback": "Correct. In English 'in the morning' names the early part of the day, which is when breakfast is eaten."
         },
         {
           "letter": "D",
           "text": "At night",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "At night is after dinner, so it is not breakfast time."
         }
       ],
       "correct_answer": "C",
@@ -338,25 +338,25 @@
           "letter": "A",
           "text": "feet",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "'Feet' belong to a person, and a clock has no feet to walk on."
         },
         {
           "letter": "B",
           "text": "arms",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "'Arms' are human limbs, not the pointers on a clock face."
         },
         {
           "letter": "C",
           "text": "legs",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "'Legs' are also human limbs, and a clock does not stand on legs."
         },
         {
           "letter": "D",
           "text": "hands",
           "is_correct": true,
-          "feedback": "Correct!"
+          "feedback": "Correct. The two pointers that show the hours and the minutes on a clock are called its hands."
         }
       ],
       "correct_answer": "D",

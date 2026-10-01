@@ -691,25 +691,25 @@
           "letter": "A",
           "text": "Desplazando la gráfica una unidad hacia abajo.",
           "is_correct": false,
-          "feedback": "Incorrecto. Eso daría la función $2^x - 1$."
+          "feedback": "Bajar la gráfica una unidad produce $f(x) - 1 = 2^x - 1$, no $-2^x$."
         },
         {
           "letter": "D",
           "text": "Reflejando la gráfica respecto del eje $x$.",
           "is_correct": true,
-          "feedback": "Correcto. Multiplicar toda la función por $-1$ produce una simetría vertical respecto del eje de las abscisas (eje $x$)."
+          "feedback": "Multiplicar toda la función por $-1$ invierte el signo de cada ordenada, y eso es exactamente una reflexión respecto del eje $x$."
         },
         {
           "letter": "B",
           "text": "Reflejando la gráfica respecto del eje $y$.",
           "is_correct": false,
-          "feedback": "Incorrecto. Eso daría la función $2^{-x}$."
+          "feedback": "Reflejar respecto del eje $y$ cambia $x$ por $-x$ y daría $2^{-x}$."
         },
         {
           "letter": "C",
           "text": "Desplazando la gráfica una unidad a la izquierda.",
           "is_correct": false,
-          "feedback": "Incorrecto. Eso daría la función $2^{x+1}$."
+          "feedback": "Desplazar a la izquierda una unidad sustituye $x$ por $x+1$ y daría $2^{x+1}$."
         }
       ],
       "correct_answer": "D",

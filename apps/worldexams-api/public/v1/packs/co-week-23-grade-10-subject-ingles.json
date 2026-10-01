@@ -28,13 +28,13 @@
           "letter": "B",
           "text": "what",
           "is_correct": false,
-          "feedback": "Incorrect meaning."
+          "feedback": "\"What\" asks for the thing itself, but the question \"Did you understand...?\" is a yes/no question, so a reported form is needed."
         },
         {
           "letter": "D",
           "text": "when",
           "is_correct": false,
-          "feedback": "Incorrect."
+          "feedback": "\"When\" asks about a time, while the teacher asked about a fact, which takes a yes/no reported form."
         }
       ],
       "correct_answer": "C",
@@ -62,7 +62,7 @@
           "letter": "B",
           "text": "meeting",
           "is_correct": false,
-          "feedback": "Incorrect."
+          "feedback": "\"Meeting\" has no \"to\" before it and would need a subject of its own; a reported command after \"told\" takes \"to\" plus the infinitive."
         },
         {
           "letter": "A",
@@ -74,13 +74,13 @@
           "letter": "C",
           "text": "that meet",
           "is_correct": false,
-          "feedback": "Incorrect syntax."
+          "feedback": "\"That meet\" would need a that-clause, but \"told\" reports a command, which takes \"to\" plus the infinitive."
         },
         {
           "letter": "D",
           "text": "meet",
           "is_correct": false,
-          "feedback": "Incorrect."
+          "feedback": "The bare infinitive \"meet\" is used after modal verbs or \"can\", but \"told someone to do\" requires the \"to\" infinitive."
         }
       ],
       "correct_answer": "A",
@@ -114,13 +114,13 @@
           "letter": "A",
           "text": "where",
           "is_correct": false,
-          "feedback": "Incorrect meaning."
+          "feedback": "\"Where\" asks about a place, while the question was about whether it had ever happened."
         },
         {
           "letter": "B",
           "text": "that",
           "is_correct": false,
-          "feedback": "Incorrect."
+          "feedback": "\"That\" introduces a statement, not the yes/no reported question that \"asked\" requires."
         },
         {
           "letter": "D",
@@ -154,7 +154,7 @@
           "letter": "A",
           "text": "if / are going",
           "is_correct": false,
-          "feedback": "Incorrect backshifting."
+          "feedback": "\"If / are going\" keeps the future unchanged, but a reported question backshifts the tense to the past."
         },
         {
           "letter": "C",
@@ -172,7 +172,7 @@
           "letter": "D",
           "text": "when / had",
           "is_correct": false,
-          "feedback": "Incorrect."
+          "feedback": "\"When / had\" asks about a time, while the journalist asked whether the leaders were going to sign."
         }
       ],
       "correct_answer": "C",
@@ -304,13 +304,13 @@
           "letter": "C",
           "text": "that / will review",
           "is_correct": false,
-          "feedback": "Incorrect."
+          "feedback": "\"That / will review\" keeps the future tense and adds a that-clause; a reported question needs an interrogative word and a backshifted tense."
         },
         {
           "letter": "D",
           "text": "when / reviewed",
           "is_correct": false,
-          "feedback": "Incorrect."
+          "feedback": "\"When / reviewed\" would ask about a time rather than requesting clarification, and the reported tense does not match the deadline being asked about."
         }
       ],
       "correct_answer": "A",
@@ -338,7 +338,7 @@
           "letter": "A",
           "text": "learning",
           "is_correct": false,
-          "feedback": "Incorrect."
+          "feedback": "\"Advise\" does not take a bare gerund without \"to\"; the standard pattern is advise + object + to-infinitive."
         },
         {
           "letter": "C",
@@ -356,7 +356,7 @@
           "letter": "D",
           "text": "learn",
           "is_correct": false,
-          "feedback": "Incorrect."
+          "feedback": "The bare infinitive \"learn\" only works after a modal; after \"advised the students\" the verb needs \"to\"."
         }
       ],
       "correct_answer": "C",
@@ -396,7 +396,7 @@
           "letter": "B",
           "text": "what / evaluates",
           "is_correct": false,
-          "feedback": "Incorrect backshifting."
+          "feedback": "\"What / evaluates\" asks for the thing and leaves the verb in the present, but both the question word and the tense have to be adjusted when a question is reported."
         },
         {
           "letter": "D",
@@ -436,7 +436,7 @@
           "letter": "A",
           "text": "is / are",
           "is_correct": false,
-          "feedback": "Incorrect."
+          "feedback": "\"Is / are\" is the indicative, but \"requested that\" introduces the subjunctive, so the base form \"be\" is required."
         },
         {
           "letter": "C",
@@ -448,7 +448,7 @@
           "letter": "D",
           "text": "being / been",
           "is_correct": false,
-          "feedback": "Incorrect."
+          "feedback": "\"Being / been\" are non-finite forms; the subjunctive slot after \"requested that\" needs a finite base form like \"be\"."
         }
       ],
       "correct_answer": "B",
@@ -476,7 +476,7 @@
           "letter": "B",
           "text": "what / will take",
           "is_correct": false,
-          "feedback": "Incorrect backshifting."
+          "feedback": "\"Will take\" is not backshifted, so the reported question would still be pointing at the future instead of the moment of asking."
         },
         {
           "letter": "A",
@@ -488,7 +488,7 @@
           "letter": "C",
           "text": "if / took",
           "is_correct": false,
-          "feedback": "Incorrect meaning."
+          "feedback": "\"If / took\" uses the past simple, which would report a completed action rather than the intended future action."
         },
         {
           "letter": "D",
@@ -528,13 +528,13 @@
           "letter": "B",
           "text": "if / were analyzed",
           "is_correct": false,
-          "feedback": "Incorrect."
+          "feedback": "\"If\" introduces a yes/no conditional, and \"were analyzed\" is the simple past passive rather than the backshifted future perfect passive the deadline requires."
         },
         {
           "letter": "C",
           "text": "what / would analyze",
           "is_correct": false,
-          "feedback": "Incorrect."
+          "feedback": "\"What\" asks for the thing itself, not for a yes/no answer, and \"would analyze\" is active while the results are what gets analyzed."
         },
         {
           "letter": "D",

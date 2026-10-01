@@ -16,25 +16,25 @@
           "letter": "A",
           "text": "dog",
           "is_correct": true,
-          "feedback": "Correct!"
+          "feedback": "A dog barks, and \"woof woof\" is the sound a dog makes."
         },
         {
           "letter": "B",
           "text": "cat",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "A cat says \"meow\", not \"woof woof\"."
         },
         {
           "letter": "C",
           "text": "bird",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "A bird sings or chirps; it does not say \"woof woof\"."
         },
         {
           "letter": "D",
           "text": "fish",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "A fish is silent and lives in water; it cannot bark."
         }
       ],
       "correct_answer": "A",
@@ -62,25 +62,25 @@
           "letter": "A",
           "text": "hamster",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "A hamster squeaks and runs on a wheel; it does not say \"meow\"."
         },
         {
           "letter": "B",
           "text": "cat",
           "is_correct": true,
-          "feedback": "Correct!"
+          "feedback": "A cat says \"meow\", so \"cat\" completes the sentence."
         },
         {
           "letter": "C",
           "text": "dog",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "A dog barks with \"woof woof\", not \"meow\"."
         },
         {
           "letter": "D",
           "text": "rabbit",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "A rabbit makes a soft grunting sound; it does not say \"meow\"."
         }
       ],
       "correct_answer": "B",
@@ -108,25 +108,25 @@
           "letter": "A",
           "text": "A dog",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "A dog runs on four legs and barks; it cannot fly or sing."
         },
         {
           "letter": "B",
           "text": "A fish",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "A fish swims and does not sing; it cannot fly out of the water."
         },
         {
           "letter": "C",
           "text": "A bird",
           "is_correct": true,
-          "feedback": "Correct!"
+          "feedback": "A bird has wings so it can fly, and it sings, so both clues point to a bird."
         },
         {
           "letter": "D",
           "text": "A cat",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "A cat jumps and purrs but it cannot fly."
         }
       ],
       "correct_answer": "C",
@@ -154,25 +154,25 @@
           "letter": "A",
           "text": "A rabbit",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "A rabbit lives on land in a hutch or burrow, not in water."
         },
         {
           "letter": "B",
           "text": "A dog",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "A dog lives on land with people; it does not live in water."
         },
         {
           "letter": "C",
           "text": "A hamster",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "A hamster lives in a cage on land, not in water."
         },
         {
           "letter": "D",
           "text": "A fish",
           "is_correct": true,
-          "feedback": "Correct!"
+          "feedback": "A fish has gills and lives in water, so \"a fish\" completes the sentence."
         }
       ],
       "correct_answer": "D",
@@ -200,25 +200,25 @@
           "letter": "A",
           "text": "rabbit",
           "is_correct": true,
-          "feedback": "Correct!"
+          "feedback": "A rabbit has long ears and loves carrots, so \"rabbit\" completes the sentence."
         },
         {
           "letter": "B",
           "text": "cat",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "A cat has small round ears and eats meat, not carrots."
         },
         {
           "letter": "C",
           "text": "dog",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "A dog has floppy ears and needs meat and biscuits, not carrots."
         },
         {
           "letter": "D",
           "text": "bird",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "A bird has feathers and eats seeds; its ears are not long like a rabbit's."
         }
       ],
       "correct_answer": "A",
@@ -246,25 +246,25 @@
           "letter": "A",
           "text": "A pig",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "A pig is a farm animal that is too big to live in a small cage with a wheel."
         },
         {
           "letter": "B",
           "text": "A hamster",
           "is_correct": true,
-          "feedback": "Correct!"
+          "feedback": "A hamster is a tiny pet that runs on a wheel inside its cage, so that is the answer."
         },
         {
           "letter": "C",
           "text": "A horse",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "A horse is a large farm animal that runs on legs, not on a wheel."
         },
         {
           "letter": "D",
           "text": "A cow",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "A cow is a big farm animal kept outside, not a small pet with a wheel."
         }
       ],
       "correct_answer": "B",
@@ -292,25 +292,25 @@
           "letter": "A",
           "text": "canary",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "A canary is a small bird that sings; it does not play with a ball."
         },
         {
           "letter": "B",
           "text": "turtle",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "A turtle is a pet that walks slowly with its shell; it does not play with a ball."
         },
         {
           "letter": "C",
           "text": "dog",
           "is_correct": true,
-          "feedback": "Correct!"
+          "feedback": "A dog loves to chase and fetch a ball, so \"dog\" completes the sentence."
         },
         {
           "letter": "D",
           "text": "goldfish",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "A goldfish swims in a bowl and is a quiet pet, not a ball player."
         }
       ],
       "correct_answer": "C",
@@ -338,25 +338,25 @@
           "letter": "A",
           "text": "A rabbit",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "A rabbit hops quickly on its long back legs; it is not known for moving slowly."
         },
         {
           "letter": "B",
           "text": "A cat",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "A cat walks and pounces; it is not the animal known for a very slow pace."
         },
         {
           "letter": "C",
           "text": "A bird",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "A bird flies fast in the sky, so it does not move slowly."
         },
         {
           "letter": "D",
           "text": "A turtle",
           "is_correct": true,
-          "feedback": "Correct!"
+          "feedback": "A turtle moves very slowly because its heavy shell makes walking hard, so that is the answer."
         }
       ],
       "correct_answer": "D",

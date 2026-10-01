@@ -16,7 +16,7 @@
           "letter": "A",
           "text": "because",
           "is_correct": false,
-          "feedback": "Needs a full clause."
+          "feedback": "\"Because\" must be followed by a full clause with a subject and a verb, but the blank is followed by the noun phrase \"the reduction of tariffs and transport costs\"."
         },
         {
           "letter": "D",
@@ -28,7 +28,7 @@
           "letter": "B",
           "text": "as",
           "is_correct": false,
-          "feedback": "Needs a full clause."
+          "feedback": "\"As\" either introduces a clause or means \"in the role of\"; neither sense connects a noun phrase as the cause of the increase."
         },
         {
           "letter": "C",
@@ -74,13 +74,13 @@
           "letter": "C",
           "text": "for",
           "is_correct": false,
-          "feedback": "Incorrect meaning."
+          "feedback": "\"Because of\" states a cause, but studying languages here is done for a purpose, and it is not followed by the clause a cause would need."
         },
         {
           "letter": "D",
           "text": "because of",
           "is_correct": false,
-          "feedback": "Incorrect meaning."
+          "feedback": "\"Because of\" is a causal preposition followed by a noun; the sentence expresses purpose, not a reason that already existed."
         }
       ],
       "correct_answer": "A",
@@ -108,7 +108,7 @@
           "letter": "A",
           "text": "However",
           "is_correct": false,
-          "feedback": "Incorrect (contrast)."
+          "feedback": "\"However\" introduces a contrast, but the second clause is a result of the first one, not a contrast with it."
         },
         {
           "letter": "B",
@@ -120,7 +120,7 @@
           "letter": "C",
           "text": "Moreover",
           "is_correct": false,
-          "feedback": "Incorrect (addition)."
+          "feedback": "\"Moreover\" adds information, while the sentence needs a connector that draws a consequence from the closing businesses."
         },
         {
           "letter": "D",
@@ -172,7 +172,7 @@
           "letter": "D",
           "text": "for fear of",
           "is_correct": false,
-          "feedback": "Incorrect meaning."
+          "feedback": "\"For fear of\" expresses a reason for avoiding something, but the sentence states the goal the nomads are travelling for."
         }
       ],
       "correct_answer": "B",
@@ -218,7 +218,7 @@
           "letter": "D",
           "text": "because",
           "is_correct": false,
-          "feedback": "Incorrect."
+          "feedback": "\"Because\" introduces a reason, but the clause after it states a purpose: what the regulations are meant to achieve."
         }
       ],
       "correct_answer": "C",
@@ -246,7 +246,7 @@
           "letter": "A",
           "text": "Furthermore",
           "is_correct": false,
-          "feedback": "Incorrect."
+          "feedback": "\"Furthermore\" adds new information, but the investors' caution is a consequence of the unstable market."
         },
         {
           "letter": "D",
@@ -258,13 +258,13 @@
           "letter": "B",
           "text": "Nevertheless",
           "is_correct": false,
-          "feedback": "Incorrect (contrast)."
+          "feedback": "\"Nevertheless\" introduces a contrast, while the clause states what follows from the instability."
         },
         {
           "letter": "C",
           "text": "Likewise",
           "is_correct": false,
-          "feedback": "Incorrect (similarity)."
+          "feedback": "\"Likewise\" links two similar statements, and there is no earlier point here to be similar to."
         }
       ],
       "correct_answer": "D",
@@ -310,7 +310,7 @@
           "letter": "C",
           "text": "so as to",
           "is_correct": false,
-          "feedback": "Incorrect."
+          "feedback": "\"So as to\" needs an infinitive, but the blank is followed by the noun \"its failure to comply\"."
         }
       ],
       "correct_answer": "D",
@@ -338,7 +338,7 @@
           "letter": "B",
           "text": "so as to",
           "is_correct": false,
-          "feedback": "Needs an infinitive."
+          "feedback": "\"So as to\" requires an infinitive, but the blank is followed by the gerund \"improving\"."
         },
         {
           "letter": "A",
@@ -350,13 +350,13 @@
           "letter": "C",
           "text": "in order to",
           "is_correct": false,
-          "feedback": "Needs an infinitive."
+          "feedback": "\"In order to\" also requires an infinitive after it, and \"improving\" is a gerund, so the connector does not fit."
         },
         {
           "letter": "D",
           "text": "since",
           "is_correct": false,
-          "feedback": "Incorrect."
+          "feedback": "\"Since\" introduces a reason, while the sentence states the purpose of adopting the greener practices."
         }
       ],
       "correct_answer": "A",
@@ -396,13 +396,13 @@
           "letter": "B",
           "text": "Moreover",
           "is_correct": false,
-          "feedback": "Incorrect."
+          "feedback": "\"Moreover\" adds extra information to what came before, while the sentence needs a connector that draws a consequence from the mixed results."
         },
         {
           "letter": "C",
           "text": "Provided",
           "is_correct": false,
-          "feedback": "Incorrect."
+          "feedback": "\"Provided\" introduces a condition and needs a full clause with a subject and verb, so it cannot link the result stated here."
         }
       ],
       "correct_answer": "D",
@@ -442,7 +442,7 @@
           "letter": "B",
           "text": "pervasive / as",
           "is_correct": false,
-          "feedback": "Incorrect."
+          "feedback": "\"As\" cannot open the result clause of a \"so ... that\" structure; that role belongs to \"that\"."
         },
         {
           "letter": "C",
@@ -476,13 +476,13 @@
           "letter": "A",
           "text": "because of",
           "is_correct": false,
-          "feedback": "Incorrect."
+          "feedback": "\"Because of\" gives a plain cause with a noun phrase; the connector expected in this formal register also signals extent, which is what \"insofar as\" does."
         },
         {
           "letter": "B",
           "text": "owing to",
           "is_correct": false,
-          "feedback": "Incorrect."
+          "feedback": "\"Owing to\" marks a straightforward cause and carries none of the formal, qualified tone the sentence uses here."
         },
         {
           "letter": "C",
@@ -494,7 +494,7 @@
           "letter": "D",
           "text": "so as to",
           "is_correct": false,
-          "feedback": "Incorrect."
+          "feedback": "\"So as to\" expresses purpose and needs an infinitive, so it cannot introduce the reason clause that follows."
         }
       ],
       "correct_answer": "C",
@@ -528,19 +528,19 @@
           "letter": "A",
           "text": "Since / as",
           "is_correct": false,
-          "feedback": "Incorrect."
+          "feedback": "\"Since\" placed first would be read as giving a reason, and \"as\" cannot serve as the second half of a concession paired with a result."
         },
         {
           "letter": "B",
           "text": "Even if / so",
           "is_correct": false,
-          "feedback": "Incorrect."
+          "feedback": "\"Even if\" introduces a hypothetical condition, and \"so\" cannot open the result half of this structure after the concession."
         },
         {
           "letter": "D",
           "text": "Although / then",
           "is_correct": false,
-          "feedback": "Incorrect."
+          "feedback": "\"Although\" is a valid concessive, but \"then\" cannot function as the result connector that completes this sentence."
         }
       ],
       "correct_answer": "C",

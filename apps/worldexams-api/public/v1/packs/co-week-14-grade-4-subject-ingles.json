@@ -16,25 +16,25 @@
           "letter": "A",
           "text": "come back",
           "is_correct": true,
-          "feedback": "Correct!"
+          "feedback": "Correct. 'Come back' describes returning to a place, and 2:00 PM is the time of the return."
         },
         {
           "letter": "B",
           "text": "leave",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "'Leave' means going away from home, which is the opposite of coming back."
         },
         {
           "letter": "C",
           "text": "wake up",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "'Wake up' is the moment you open your eyes at the start of the day, not the moment you return."
         },
         {
           "letter": "D",
           "text": "wash",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "'Wash' needs an object, as in 'wash my hands'; on its own it does not mean arriving somewhere."
         }
       ],
       "correct_answer": "A",
@@ -62,25 +62,25 @@
           "letter": "A",
           "text": "watch",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "You watch a movie, a game or TV, not homework."
         },
         {
           "letter": "B",
           "text": "do",
           "is_correct": true,
-          "feedback": "Correct!"
+          "feedback": "Correct. In English homework is 'done': 'I do my homework'."
         },
         {
           "letter": "C",
           "text": "make",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "You make something out of materials, like a cake or a kite; for homework we say 'do'."
         },
         {
           "letter": "D",
           "text": "play",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "You play a game or a sport; homework is not something you play."
         }
       ],
       "correct_answer": "B",
@@ -108,25 +108,25 @@
           "letter": "A",
           "text": "look",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "You 'look at' a thing, but for television the fixed expression is 'watch TV'."
         },
         {
           "letter": "B",
           "text": "see",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "'See' is used for something that comes into view by itself, as in 'I see a bird'; television is chosen, not spotted."
         },
         {
           "letter": "C",
           "text": "watch",
           "is_correct": true,
-          "feedback": "Correct!"
+          "feedback": "Correct. 'Watch TV' is the standard expression for what you do with a television."
         },
         {
           "letter": "D",
           "text": "listen",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "You listen to a person or a radio; a television is watched."
         }
       ],
       "correct_answer": "C",
@@ -154,25 +154,25 @@
           "letter": "A",
           "text": "study",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "You study with books or at school, alone; with friends in a park you are playing."
         },
         {
           "letter": "B",
           "text": "work",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "'Work' refers to a job or a task, not to what you do with friends in a park."
         },
         {
           "letter": "C",
           "text": "cook",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "'Cook' takes food as its object, as in 'cook rice'."
         },
         {
           "letter": "D",
           "text": "play",
           "is_correct": true,
-          "feedback": "Correct!"
+          "feedback": "Correct. 'Play with' is the phrase used for spending time doing an activity together."
         }
       ],
       "correct_answer": "D",
@@ -200,25 +200,25 @@
           "letter": "A",
           "text": "have",
           "is_correct": true,
-          "feedback": "Correct!"
+          "feedback": "Correct. Meals are 'had' in British and Colombian usage: 'I have dinner with my family'."
         },
         {
           "letter": "B",
           "text": "do",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "'Do' is used for tasks and homework, as in 'do my homework', but meals are 'had'."
         },
         {
           "letter": "C",
           "text": "make",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "You make a dish; the act of eating that meal is expressed with 'have'."
         },
         {
           "letter": "D",
           "text": "go",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "'Go' needs a destination, as in 'go home'; you do not 'go dinner'."
         }
       ],
       "correct_answer": "A",
@@ -246,25 +246,25 @@
           "letter": "A",
           "text": "buy",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "'Buy' is for getting something at a shop, not for changing clothes in the bedroom."
         },
         {
           "letter": "B",
           "text": "put on",
           "is_correct": true,
-          "feedback": "Correct!"
+          "feedback": "Correct. 'Put on' is the phrasal verb for clothing yourself in something, as in 'put on my pajamas'."
         },
         {
           "letter": "C",
           "text": "take off",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "'Take off' is the opposite: it means removing a garment you are already wearing."
         },
         {
           "letter": "D",
           "text": "wash",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "'Wash' is for cleaning clothes with water, which is a different action."
         }
       ],
       "correct_answer": "B",
@@ -292,25 +292,25 @@
           "letter": "A",
           "text": "speak",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "You speak a language; speaking a story aloud to yourself is not the expression for this."
         },
         {
           "letter": "B",
           "text": "listen",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "You listen to a story when someone else tells it, but reading means following the words yourself."
         },
         {
           "letter": "C",
           "text": "read",
           "is_correct": true,
-          "feedback": "Correct!"
+          "feedback": "Correct. 'Read' is used when you follow the words of a story in a book, which is what happens before sleep."
         },
         {
           "letter": "D",
           "text": "write",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "'Write' means creating the text yourself, not following the words of someone else's story."
         }
       ],
       "correct_answer": "C",
@@ -338,25 +338,25 @@
           "letter": "A",
           "text": "come",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "'Come to sleep' is not the standard phrase; English uses the phrasal verb 'go to sleep'."
         },
         {
           "letter": "B",
           "text": "wake up",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "'Wake up' is the opposite: it means starting your day, not ending it."
         },
         {
           "letter": "C",
           "text": "stay",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "'Stay' means continuing to be somewhere, which does not fit going to bed."
         },
         {
           "letter": "D",
           "text": "go",
           "is_correct": true,
-          "feedback": "Correct!"
+          "feedback": "Correct. 'Go to sleep' is the standard expression, and 9:00 PM is a typical bedtime."
         }
       ],
       "correct_answer": "D",

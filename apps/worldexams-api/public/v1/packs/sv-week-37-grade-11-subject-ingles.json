@@ -9,36 +9,36 @@
   "questions": [
     {
       "id": "SV-ING-11-2026-W37-writing-essays-001-MASTERY-bundle-v1",
-      "statement": "Choose the correct option: 'I ___ reading a book right now.'",
-      "context": "English class in San Miguel, SV.",
+      "statement": "Which is the best opening sentence for an argumentative essay?",
+      "context": "Redaccion de ensayos argumentativos, San Salvador.",
       "options": [
         {
-          "letter": "B",
-          "text": "am",
+          "letter": "A",
+          "text": "School uniforms should be replaced by a dress code based on comfort.",
           "is_correct": true,
-          "feedback": "Correct!"
+          "feedback": "It states the topic and the writer's position in one clear thesis."
         },
         {
-          "letter": "A",
-          "text": "is",
+          "letter": "B",
+          "text": "There are many opinions about school clothes.",
           "is_correct": false,
-          "feedback": "Incorrect. Review the concept."
+          "feedback": "It only announces a topic without taking a position."
         },
         {
           "letter": "C",
-          "text": "are",
+          "text": "This essay will talk about uniforms.",
           "is_correct": false,
-          "feedback": "Incorrect. Review the concept."
+          "feedback": "A metadiscourse announcement adds no content."
         },
         {
           "letter": "D",
-          "text": "be",
+          "text": "Uniforms are worn every day by millions of students.",
           "is_correct": false,
-          "feedback": "Incorrect. Review the concept."
+          "feedback": "It gives a fact but does not present an argument."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "Present continuous: I am + verb-ing.",
+      "correct_answer": "A",
+      "explanation": "Una buena tesis presenta el tema y anticipa la posicion del autor de forma clara y directa.\n\n---",
       "difficulty": "4",
       "images": [],
       "tags": [],
@@ -54,36 +54,36 @@
     },
     {
       "id": "SV-ING-11-2026-W37-writing-essays-001-MASTERY-bundle-v2",
-      "statement": "What does 'benevolent' mean?",
-      "context": "English class in Soyapango, SV.",
+      "statement": "What does a thesis statement do in an argumentative essay?",
+      "context": "Estructura del ensayo, San Salvador.",
       "options": [
         {
-          "letter": "B",
-          "text": "Kind and generous",
-          "is_correct": true,
-          "feedback": "Correct!"
+          "letter": "A",
+          "text": "It lists every source used.",
+          "is_correct": false,
+          "feedback": "References belong in the bibliography, not in the thesis."
         },
         {
-          "letter": "A",
-          "text": "Mean and cruel",
+          "letter": "B",
+          "text": "It concludes the argument with a summary.",
           "is_correct": false,
-          "feedback": "Incorrect. Review the concept."
+          "feedback": "That is the role of the conclusion."
         },
         {
           "letter": "C",
-          "text": "Quick and fast",
-          "is_correct": false,
-          "feedback": "Incorrect. Review the concept."
+          "text": "It states the central argument of the essay.",
+          "is_correct": true,
+          "feedback": "The thesis is the claim the whole text supports."
         },
         {
           "letter": "D",
-          "text": "Slow and lazy",
+          "text": "It introduces the author's biography.",
           "is_correct": false,
-          "feedback": "Incorrect. Review the concept."
+          "feedback": "Biographical information is not part of the thesis."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "'Benevolent' means kind, generous, or charitable.",
+      "correct_answer": "C",
+      "explanation": "La tesis declara la posicion central del ensayo y guia todo el desarrollo posterior.\n\n---",
       "difficulty": "4",
       "images": [],
       "tags": [],
@@ -99,41 +99,41 @@
     },
     {
       "id": "SV-ING-11-2026-W37-writing-essays-001-MASTERY-bundle-v3",
-      "statement": "Identify the main idea: 'The text describes how bees help pollinate flowers and produce honey.'",
-      "context": "English class in Santa Ana, SV.",
+      "statement": "Choose the best linking word: 'The policy is expensive. ____, it improves results.'",
+      "context": "Conectores en el ensayo, San Miguel.",
       "options": [
         {
-          "letter": "C",
-          "text": "Bees are important for pollination and honey",
-          "is_correct": true,
-          "feedback": "Correct!"
-        },
-        {
           "letter": "A",
-          "text": "Bees are dangerous insects",
+          "text": "Therefore",
           "is_correct": false,
-          "feedback": "Incorrect. Review the concept."
+          "feedback": "'Therefore' would draw a conclusion, not a contrast."
         },
         {
           "letter": "B",
-          "text": "Honey is the only product bees make",
+          "text": "However",
+          "is_correct": true,
+          "feedback": "'However' introduces a contrast between cost and improved results."
+        },
+        {
+          "letter": "C",
+          "text": "Besides",
           "is_correct": false,
-          "feedback": "Incorrect. Review the concept."
+          "feedback": "'Besides' adds supporting information, which is not the relation here."
         },
         {
           "letter": "D",
-          "text": "Flowers don't need bees",
+          "text": "For example",
           "is_correct": false,
-          "feedback": "Incorrect. Review the concept."
+          "feedback": "'For example' introduces an illustration, not an opposing idea."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "The main idea summarizes the key points about bees: pollination and honey.",
+      "correct_answer": "B",
+      "explanation": "'However' introduce una idea opuesta: el costo se opone al beneficio. Los conectores de contraste aunque pueden ser 'nevertheless' o 'yet'.\n\n---",
       "difficulty": "4",
       "images": [],
       "tags": [],
-      "bloom": "Analyze",
-      "expected_success": 0.7,
+      "bloom": "Apply",
+      "expected_success": 0.8,
       "bundle_id": "SV-ING-11-2026-W37-writing-essays-001-MASTERY-bundle",
       "periodo": 37,
       "protocol_version": "5.2",
@@ -144,41 +144,41 @@
     },
     {
       "id": "SV-ING-11-2026-W37-writing-essays-001-MASTERY-bundle-v4",
-      "statement": "Which is the correct past form of 'go'?",
-      "context": "English class in Mejicanos, SV.",
+      "statement": "Which is the best concluding sentence?",
+      "context": "Conclusion del ensayo, San Salvador.",
       "options": [
         {
-          "letter": "C",
-          "text": "went",
-          "is_correct": true,
-          "feedback": "Correct!"
-        },
-        {
           "letter": "A",
-          "text": "goed",
+          "text": "There are many reasons to think about school uniforms.",
           "is_correct": false,
-          "feedback": "Incorrect. Review the concept."
+          "feedback": "That is a vague repetition, not a conclusion."
         },
         {
           "letter": "B",
-          "text": "gone",
+          "text": "I will now write about the second reason.",
           "is_correct": false,
-          "feedback": "Incorrect. Review the concept."
+          "feedback": "That is a metadiscourse remark and breaks the conclusion."
+        },
+        {
+          "letter": "C",
+          "text": "For these reasons, schools should adopt flexible dress codes.",
+          "is_correct": true,
+          "feedback": "It restates the argument and closes the essay without new evidence."
         },
         {
           "letter": "D",
-          "text": "going",
+          "text": "Uniforms cost ten dollars per year.",
           "is_correct": false,
-          "feedback": "Incorrect. Review the concept."
+          "feedback": "A new fact at the end distracts from the argument."
         }
       ],
       "correct_answer": "C",
-      "explanation": "'Go' is an irregular verb: go → went (past simple).",
-      "difficulty": "4",
+      "explanation": "Una buena conclusion retoma la tesis y la amplia con una implicacion, sin introducir argumentos nuevos.\n\n---",
+      "difficulty": "6",
       "images": [],
       "tags": [],
-      "bloom": "Remember",
-      "expected_success": 0.85,
+      "bloom": "Apply",
+      "expected_success": 0.8,
       "bundle_id": "SV-ING-11-2026-W37-writing-essays-001-MASTERY-bundle",
       "periodo": 37,
       "protocol_version": "5.2",
@@ -189,41 +189,41 @@
     },
     {
       "id": "SV-ING-11-2026-W37-writing-essays-001-MASTERY-bundle-v5",
-      "statement": "Which sentence uses the present simple correctly?",
-      "context": "English class in San Miguel, SV.",
+      "statement": "What is the main purpose of a counterargument paragraph?",
+      "context": "Estructura argumentativa, San Salvador.",
       "options": [
         {
-          "letter": "D",
-          "text": "She goes to school every day.",
-          "is_correct": true,
-          "feedback": "Correct!"
-        },
-        {
           "letter": "A",
-          "text": "She go to school every day.",
+          "text": "To weaken the essay by confusing the reader.",
           "is_correct": false,
-          "feedback": "Incorrect. Review the concept."
+          "feedback": "The purpose is to strengthen, not to confuse."
         },
         {
           "letter": "B",
-          "text": "She going to school every day.",
-          "is_correct": false,
-          "feedback": "Incorrect. Review the concept."
+          "text": "To present the strongest objection and then answer it.",
+          "is_correct": true,
+          "feedback": "Addressing an objection makes the argument more convincing."
         },
         {
           "letter": "C",
-          "text": "She gone to school every day.",
+          "text": "To repeat the thesis in other words.",
           "is_correct": false,
-          "feedback": "Incorrect. Review the concept."
+          "feedback": "Repetition of the thesis is not a counterargument."
+        },
+        {
+          "letter": "D",
+          "text": "To list unrelated sources.",
+          "is_correct": false,
+          "feedback": "Sources are cited to support a position, not listed randomly."
         }
       ],
-      "correct_answer": "D",
-      "explanation": "Present simple: subject + verb(-s for he/she/it).",
+      "correct_answer": "B",
+      "explanation": "El contraargumento presenta la objecion mas fuerte y la refuta, fortaleciendo la tesis del autor.\n\n---",
       "difficulty": "6",
       "images": [],
       "tags": [],
-      "bloom": "Remember",
-      "expected_success": 0.85,
+      "bloom": "Understand",
+      "expected_success": 0.8,
       "bundle_id": "SV-ING-11-2026-W37-writing-essays-001-MASTERY-bundle",
       "periodo": 37,
       "protocol_version": "5.2",
@@ -234,40 +234,40 @@
     },
     {
       "id": "SV-ING-11-2026-W37-writing-essays-001-MASTERY-bundle-v6",
-      "statement": "Choose the correct option: 'I ___ reading a book right now.'",
-      "context": "English class in San Miguel, SV.",
+      "statement": "Choose the best thesis statement for an essay about remote learning.",
+      "context": "Redaccion de tesis, San Miguel.",
       "options": [
         {
-          "letter": "C",
-          "text": "am",
-          "is_correct": true,
-          "feedback": "Correct!"
-        },
-        {
           "letter": "A",
-          "text": "is",
+          "text": "Remote learning is a topic that many people discuss.",
           "is_correct": false,
-          "feedback": "Incorrect. Review the concept."
+          "feedback": "It only announces a topic and cannot be argued."
         },
         {
           "letter": "B",
-          "text": "are",
+          "text": "Remote learning is used in many countries.",
           "is_correct": false,
-          "feedback": "Incorrect. Review the concept."
+          "feedback": "It is a fact, not a debatable claim."
+        },
+        {
+          "letter": "C",
+          "text": "Remote learning changed education.",
+          "is_correct": false,
+          "feedback": "It is too vague to serve as an argument."
         },
         {
           "letter": "D",
-          "text": "be",
-          "is_correct": false,
-          "feedback": "Incorrect. Review the concept."
+          "text": "Remote learning improves independence but requires better internet access.",
+          "is_correct": true,
+          "feedback": "It takes a clear position that can be defended with evidence on both sides."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "Present continuous: I am + verb-ing.",
+      "correct_answer": "D",
+      "explanation": "Una tesis argumentative debe ser una afirmacion clara, discutible y sostenida por argumentos.\n\n---",
       "difficulty": "6",
       "images": [],
       "tags": [],
-      "bloom": "Apply",
+      "bloom": "Analyze",
       "expected_success": 0.8,
       "bundle_id": "SV-ING-11-2026-W37-writing-essays-001-MASTERY-bundle",
       "periodo": 37,
@@ -279,40 +279,40 @@
     },
     {
       "id": "SV-ING-11-2026-W37-writing-essays-001-MASTERY-bundle-v7",
-      "statement": "What does 'benevolent' mean?",
-      "context": "English class in Soyapango, SV.",
+      "statement": "Which sentence is the most objective in a formal argumentative essay?",
+      "context": "Registro formal, San Salvador.",
       "options": [
         {
-          "letter": "D",
-          "text": "Kind and generous",
-          "is_correct": true,
-          "feedback": "Correct!"
-        },
-        {
           "letter": "A",
-          "text": "Mean and cruel",
+          "text": "The terrible old system never worked for anyone.",
           "is_correct": false,
-          "feedback": "Incorrect. Review the concept."
+          "feedback": "'Terrible' and 'never' are judgements, not evidence."
         },
         {
           "letter": "B",
-          "text": "Quick and fast",
-          "is_correct": false,
-          "feedback": "Incorrect. Review the concept."
+          "text": "Two studies published in 2020 reported improved attendance.",
+          "is_correct": true,
+          "feedback": "It presents verifiable data with no emotional judgement."
         },
         {
           "letter": "C",
-          "text": "Slow and lazy",
+          "text": "Everyone knows that online classes are fantastic.",
           "is_correct": false,
-          "feedback": "Incorrect. Review the concept."
+          "feedback": "'Everyone knows' and 'fantastic' are subjective and unverified."
+        },
+        {
+          "letter": "D",
+          "text": "Obviously, the new method is the best option.",
+          "is_correct": false,
+          "feedback": "'Obviously' assumes the conclusion instead of arguing it."
         }
       ],
-      "correct_answer": "D",
-      "explanation": "'Benevolent' means kind, generous, or charitable.",
+      "correct_answer": "B",
+      "explanation": "La objetividad se expresa con datos verificables y sin adjetivos valorativos; las otras opciones contienen juicios.\n\n---",
       "difficulty": "6",
       "images": [],
       "tags": [],
-      "bloom": "Understand",
+      "bloom": "Evaluate",
       "expected_success": 0.8,
       "bundle_id": "SV-ING-11-2026-W37-writing-essays-001-MASTERY-bundle",
       "periodo": 37,
@@ -324,41 +324,41 @@
     },
     {
       "id": "SV-ING-11-2026-W37-writing-essays-001-MASTERY-bundle-v8",
-      "statement": "Identify the main idea: 'The text describes how bees help pollinate flowers and produce honey.'",
-      "context": "English class in Mejicanos, SV.",
+      "statement": "What does the phrase 'In conclusion' signal to the reader?",
+      "context": "Estructura del ensayo, San Salvador.",
       "options": [
         {
-          "letter": "C",
-          "text": "Bees are important for pollination and honey",
-          "is_correct": true,
-          "feedback": "Correct!"
-        },
-        {
           "letter": "A",
-          "text": "Bees are dangerous insects",
+          "text": "The writer is starting a new paragraph.",
           "is_correct": false,
-          "feedback": "Incorrect. Review the concept."
+          "feedback": "It signals the end, not the beginning."
         },
         {
           "letter": "B",
-          "text": "Honey is the only product bees make",
+          "text": "The writer is quoting a source.",
           "is_correct": false,
-          "feedback": "Incorrect. Review the concept."
+          "feedback": "Quotations need reference markers, not a linking phrase."
+        },
+        {
+          "letter": "C",
+          "text": "The writer is summarising the argument.",
+          "is_correct": true,
+          "feedback": "'In conclusion' marks the synthesising part of the text."
         },
         {
           "letter": "D",
-          "text": "Flowers don't need bees",
+          "text": "The writer is asking a question.",
           "is_correct": false,
-          "feedback": "Incorrect. Review the concept."
+          "feedback": "Questions use question forms, not this connective."
         }
       ],
       "correct_answer": "C",
-      "explanation": "The main idea summarizes the key points about bees: pollination and honey.",
-      "difficulty": "6",
+      "explanation": "La expresion anuncia el cierre del ensayo y la sintesis final de los argumentos. Es uno de los puntos mas frecuentes de las pruebas de esta unidad.\n\n---",
+      "difficulty": "4",
       "images": [],
       "tags": [],
-      "bloom": "Analyze",
-      "expected_success": 0.7,
+      "bloom": "Understand",
+      "expected_success": 0.8,
       "bundle_id": "SV-ING-11-2026-W37-writing-essays-001-MASTERY-bundle",
       "periodo": 37,
       "protocol_version": "5.2",
@@ -369,41 +369,41 @@
     },
     {
       "id": "SV-ING-11-2026-W37-writing-essays-001-MASTERY-bundle-v9",
-      "statement": "Which is the correct past form of 'go'?",
-      "context": "English class in Mejicanos, SV.",
+      "statement": "Which evidence is most appropriate for an essay arguing that schools should recycle more?",
+      "context": "Seleccion de evidencia, San Miguel.",
       "options": [
         {
-          "letter": "D",
-          "text": "went",
-          "is_correct": true,
-          "feedback": "Correct!"
-        },
-        {
           "letter": "A",
-          "text": "goed",
+          "text": "Recycling is a wonderful idea.",
           "is_correct": false,
-          "feedback": "Incorrect. Review the concept."
+          "feedback": "That is an opinion repeated from the thesis."
         },
         {
           "letter": "B",
-          "text": "gone",
+          "text": "I think everyone should recycle.",
           "is_correct": false,
-          "feedback": "Incorrect. Review the concept."
+          "feedback": "A personal preference does not support an argument."
         },
         {
           "letter": "C",
-          "text": "going",
+          "text": "Some people do not like bins in the corridors.",
           "is_correct": false,
-          "feedback": "Incorrect. Review the concept."
+          "feedback": "An irrelevant personal reaction, not evidence."
+        },
+        {
+          "letter": "D",
+          "text": "The amount of electricity saved by recycling paper last year.",
+          "is_correct": true,
+          "feedback": "Measurable data directly supports the claim."
         }
       ],
       "correct_answer": "D",
-      "explanation": "'Go' is an irregular verb: go → went (past simple).",
+      "explanation": "Una cifra sobre kilowatios de energia ahorrada es evidencia cuantitativa y verificable; las demas son opiniones.\n\n---",
       "difficulty": "6",
       "images": [],
       "tags": [],
-      "bloom": "Remember",
-      "expected_success": 0.85,
+      "bloom": "Evaluate",
+      "expected_success": 0.8,
       "bundle_id": "SV-ING-11-2026-W37-writing-essays-001-MASTERY-bundle",
       "periodo": 37,
       "protocol_version": "5.2",
@@ -414,41 +414,41 @@
     },
     {
       "id": "SV-ING-11-2026-W37-writing-essays-001-MASTERY-bundle-v10",
-      "statement": "Which sentence uses the present simple correctly?",
-      "context": "English class in Mejicanos, SV.",
+      "statement": "Choose the best transition between paragraphs on different aspects of the same topic.",
+      "context": "Coherencia entre parrafos, San Salvador.",
       "options": [
         {
           "letter": "A",
-          "text": "She goes to school every day.",
+          "text": "Furthermore, schools should reduce paper waste.",
           "is_correct": true,
-          "feedback": "Correct!"
+          "feedback": "It adds a further point without breaking the topic."
         },
         {
           "letter": "B",
-          "text": "She go to school every day.",
+          "text": "In conclusion, recycling is a good practice.",
           "is_correct": false,
-          "feedback": "Incorrect. Review the concept."
+          "feedback": "That signals the end, which is not a mid-text transition."
         },
         {
           "letter": "C",
-          "text": "She going to school every day.",
+          "text": "For example, I have three brothers.",
           "is_correct": false,
-          "feedback": "Incorrect. Review the concept."
+          "feedback": "The personal detail breaks the line of argument."
         },
         {
           "letter": "D",
-          "text": "She gone to school every day.",
+          "text": "On the other hand, that was a different school.",
           "is_correct": false,
-          "feedback": "Incorrect. Review the concept."
+          "feedback": "The contrast introduces an unrelated setting."
         }
       ],
       "correct_answer": "A",
-      "explanation": "Present simple: subject + verb(-s for he/she/it).",
+      "explanation": "'Furthermore' anade un argumento adicional al ya presentado dentro del mismo tema. Es uno de los puntos mas frecuentes de las pruebas de esta unidad.\n\n---",
       "difficulty": "6",
       "images": [],
       "tags": [],
-      "bloom": "Remember",
-      "expected_success": 0.85,
+      "bloom": "Apply",
+      "expected_success": 0.8,
       "bundle_id": "SV-ING-11-2026-W37-writing-essays-001-MASTERY-bundle",
       "periodo": 37,
       "protocol_version": "5.2",
@@ -459,40 +459,40 @@
     },
     {
       "id": "SV-ING-11-2026-W37-writing-essays-001-MASTERY-bundle-v11",
-      "statement": "Choose the correct option: 'I ___ reading a book right now.'",
-      "context": "English class in Santa Ana, SV.",
+      "statement": "What is the main difference between an argumentative and a descriptive essay?",
+      "context": "Tipos de ensayo, San Salvador.",
       "options": [
         {
           "letter": "A",
-          "text": "am",
-          "is_correct": true,
-          "feedback": "Correct!"
+          "text": "The descriptive essay always includes statistics.",
+          "is_correct": false,
+          "feedback": "Statistics belong to argumentative texts."
         },
         {
           "letter": "B",
-          "text": "is",
+          "text": "The argumentative essay has no structure.",
           "is_correct": false,
-          "feedback": "Incorrect. Review the concept."
+          "feedback": "Both genres require an organised structure."
         },
         {
           "letter": "C",
-          "text": "are",
+          "text": "The descriptive essay presents a conclusion.",
           "is_correct": false,
-          "feedback": "Incorrect. Review the concept."
+          "feedback": "Both genres normally end with a closing paragraph."
         },
         {
           "letter": "D",
-          "text": "be",
-          "is_correct": false,
-          "feedback": "Incorrect. Review the concept."
+          "text": "An argumentative essay defends a position; a descriptive one explains characteristics.",
+          "is_correct": true,
+          "feedback": "The first argues, the second depicts."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "Present continuous: I am + verb-ing.",
-      "difficulty": "8",
+      "correct_answer": "D",
+      "explanation": "El ensayo argumentativo defiende una posicion con razones; el descriptivo explica caracteristicas de algo.\n\n---",
+      "difficulty": "6",
       "images": [],
       "tags": [],
-      "bloom": "Apply",
+      "bloom": "Analyze",
       "expected_success": 0.8,
       "bundle_id": "SV-ING-11-2026-W37-writing-essays-001-MASTERY-bundle",
       "periodo": 37,
@@ -504,217 +504,37 @@
     },
     {
       "id": "SV-ING-11-2026-W37-writing-essays-001-MASTERY-bundle-v12",
-      "statement": "What does 'benevolent' mean?",
-      "context": "English class in Santa Ana, SV.",
+      "statement": "Which sentence is a clear topic sentence for a paragraph about renewable energy?",
+      "context": "Oraciones de tema, San Salvador.",
       "options": [
         {
           "letter": "A",
-          "text": "Kind and generous",
+          "text": "Solar panels convert sunlight into electricity.",
           "is_correct": true,
-          "feedback": "Correct!"
+          "feedback": "It announces the general idea the paragraph will develop."
         },
         {
           "letter": "B",
-          "text": "Mean and cruel",
+          "text": "My uncle installed panels on his roof.",
           "is_correct": false,
-          "feedback": "Incorrect. Review the concept."
+          "feedback": "A single specific case is too narrow for a topic sentence."
         },
         {
           "letter": "C",
-          "text": "Quick and fast",
+          "text": "Panels are useful because they reduce bills and emissions.",
           "is_correct": false,
-          "feedback": "Incorrect. Review the concept."
+          "feedback": "This already gives the reasons, which belong after the topic sentence."
         },
         {
           "letter": "D",
-          "text": "Slow and lazy",
+          "text": "Panels.",
           "is_correct": false,
-          "feedback": "Incorrect. Review the concept."
+          "feedback": "A single word cannot announce the content of a paragraph."
         }
       ],
       "correct_answer": "A",
-      "explanation": "'Benevolent' means kind, generous, or charitable.",
-      "difficulty": "8",
-      "images": [],
-      "tags": [],
-      "bloom": "Understand",
-      "expected_success": 0.8,
-      "bundle_id": "SV-ING-11-2026-W37-writing-essays-001-MASTERY-bundle",
-      "periodo": 37,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ingles",
-      "grade": 11,
-      "country": "sv"
-    },
-    {
-      "id": "SV-ING-11-2026-W37-writing-essays-001-MASTERY-bundle-v13",
-      "statement": "Identify the main idea: 'The text describes how bees help pollinate flowers and produce honey.'",
-      "context": "English class in Mejicanos, SV.",
-      "options": [
-        {
-          "letter": "D",
-          "text": "Bees are important for pollination and honey",
-          "is_correct": true,
-          "feedback": "Correct!"
-        },
-        {
-          "letter": "A",
-          "text": "Bees are dangerous insects",
-          "is_correct": false,
-          "feedback": "Incorrect. Review the concept."
-        },
-        {
-          "letter": "B",
-          "text": "Honey is the only product bees make",
-          "is_correct": false,
-          "feedback": "Incorrect. Review the concept."
-        },
-        {
-          "letter": "C",
-          "text": "Flowers don't need bees",
-          "is_correct": false,
-          "feedback": "Incorrect. Review the concept."
-        }
-      ],
-      "correct_answer": "D",
-      "explanation": "The main idea summarizes the key points about bees: pollination and honey.",
-      "difficulty": "8",
-      "images": [],
-      "tags": [],
-      "bloom": "Analyze",
-      "expected_success": 0.7,
-      "bundle_id": "SV-ING-11-2026-W37-writing-essays-001-MASTERY-bundle",
-      "periodo": 37,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ingles",
-      "grade": 11,
-      "country": "sv"
-    },
-    {
-      "id": "SV-ING-11-2026-W37-writing-essays-001-MASTERY-bundle-v14",
-      "statement": "Which is the correct past form of 'go'?",
-      "context": "English class in Mejicanos, SV.",
-      "options": [
-        {
-          "letter": "C",
-          "text": "went",
-          "is_correct": true,
-          "feedback": "Correct!"
-        },
-        {
-          "letter": "A",
-          "text": "goed",
-          "is_correct": false,
-          "feedback": "Incorrect. Review the concept."
-        },
-        {
-          "letter": "B",
-          "text": "gone",
-          "is_correct": false,
-          "feedback": "Incorrect. Review the concept."
-        },
-        {
-          "letter": "D",
-          "text": "going",
-          "is_correct": false,
-          "feedback": "Incorrect. Review the concept."
-        }
-      ],
-      "correct_answer": "C",
-      "explanation": "'Go' is an irregular verb: go → went (past simple).",
-      "difficulty": "8",
-      "images": [],
-      "tags": [],
-      "bloom": "Remember",
-      "expected_success": 0.85,
-      "bundle_id": "SV-ING-11-2026-W37-writing-essays-001-MASTERY-bundle",
-      "periodo": 37,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ingles",
-      "grade": 11,
-      "country": "sv"
-    },
-    {
-      "id": "SV-ING-11-2026-W37-writing-essays-001-MASTERY-bundle-v15",
-      "statement": "Which sentence uses the present simple correctly?",
-      "context": "English class in Santa Ana, SV.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "She goes to school every day.",
-          "is_correct": true,
-          "feedback": "Correct!"
-        },
-        {
-          "letter": "B",
-          "text": "She go to school every day.",
-          "is_correct": false,
-          "feedback": "Incorrect. Review the concept."
-        },
-        {
-          "letter": "C",
-          "text": "She going to school every day.",
-          "is_correct": false,
-          "feedback": "Incorrect. Review the concept."
-        },
-        {
-          "letter": "D",
-          "text": "She gone to school every day.",
-          "is_correct": false,
-          "feedback": "Incorrect. Review the concept."
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "Present simple: subject + verb(-s for he/she/it).",
-      "difficulty": "8",
-      "images": [],
-      "tags": [],
-      "bloom": "Remember",
-      "expected_success": 0.85,
-      "bundle_id": "SV-ING-11-2026-W37-writing-essays-001-MASTERY-bundle",
-      "periodo": 37,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ingles",
-      "grade": 11,
-      "country": "sv"
-    },
-    {
-      "id": "SV-ING-11-2026-W37-writing-essays-001-MASTERY-bundle-v16",
-      "statement": "Choose the correct option: 'I ___ reading a book right now.'",
-      "context": "English class in Santa Ana, SV.",
-      "options": [
-        {
-          "letter": "C",
-          "text": "am",
-          "is_correct": true,
-          "feedback": "Correct!"
-        },
-        {
-          "letter": "A",
-          "text": "is",
-          "is_correct": false,
-          "feedback": "Incorrect. Review the concept."
-        },
-        {
-          "letter": "B",
-          "text": "are",
-          "is_correct": false,
-          "feedback": "Incorrect. Review the concept."
-        },
-        {
-          "letter": "D",
-          "text": "be",
-          "is_correct": false,
-          "feedback": "Incorrect. Review the concept."
-        }
-      ],
-      "correct_answer": "C",
-      "explanation": "Present continuous: I am + verb-ing.",
-      "difficulty": "8",
+      "explanation": "Una oracion de tema anuncia de forma general lo que el parrafo va a explicar. Suele ocupar la primera frase del parrafo.\n\n---",
+      "difficulty": "6",
       "images": [],
       "tags": [],
       "bloom": "Apply",
@@ -728,41 +548,221 @@
       "country": "sv"
     },
     {
-      "id": "SV-ING-11-2026-W37-writing-essays-001-MASTERY-bundle-v17",
-      "statement": "What does 'benevolent' mean?",
-      "context": "English class in Santa Ana, SV.",
+      "id": "SV-ING-11-2026-W37-writing-essays-001-MASTERY-bundle-v13",
+      "statement": "Why should an essay include a short introduction of the topic before the thesis?",
+      "context": "Introduccion del ensayo, San Salvador.",
       "options": [
         {
-          "letter": "C",
-          "text": "Kind and generous",
-          "is_correct": true,
-          "feedback": "Correct!"
-        },
-        {
           "letter": "A",
-          "text": "Mean and cruel",
+          "text": "To fill space so the essay looks longer.",
           "is_correct": false,
-          "feedback": "Incorrect. Review the concept."
+          "feedback": "Padding is not a rhetorical reason."
         },
         {
           "letter": "B",
-          "text": "Quick and fast",
+          "text": "To give the reader background so the thesis makes sense.",
+          "is_correct": true,
+          "feedback": "Context first, claim second is the standard order."
+        },
+        {
+          "letter": "C",
+          "text": "To list all the sources used.",
           "is_correct": false,
-          "feedback": "Incorrect. Review the concept."
+          "feedback": "Sources are cited in the body, not listed as background."
         },
         {
           "letter": "D",
-          "text": "Slow and lazy",
+          "text": "To repeat the conclusion twice.",
           "is_correct": false,
-          "feedback": "Incorrect. Review the concept."
+          "feedback": "Repeating a conclusion is not a function of the introduction."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La introduccion situacion el tema en su contexto para que la tesis tenga sentido para el lector.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.8,
+      "bundle_id": "SV-ING-11-2026-W37-writing-essays-001-MASTERY-bundle",
+      "periodo": 37,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 11,
+      "country": "sv"
+    },
+    {
+      "id": "SV-ING-11-2026-W37-writing-essays-001-MASTERY-bundle-v14",
+      "statement": "Which verb is more precise in an academic essay: 'The results ____ a clear improvement.'",
+      "context": "Registro academico, San Miguel.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "show",
+          "is_correct": true,
+          "feedback": "'Show' indicates evidence without claiming absolute proof."
+        },
+        {
+          "letter": "B",
+          "text": "prove",
+          "is_correct": false,
+          "feedback": "'Prove' claims certainty, which empirical results rarely support."
+        },
+        {
+          "letter": "C",
+          "text": "guess",
+          "is_correct": false,
+          "feedback": "'Guess' contradicts the factual register of the sentence."
+        },
+        {
+          "letter": "D",
+          "text": "feel",
+          "is_correct": false,
+          "feedback": "'Feel' is subjective and does not fit academic writing."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "'Show' presenta evidencia visible; 'prove' es demasiado fuerte para datos que podrian tener otra explicacion.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.8,
+      "bundle_id": "SV-ING-11-2026-W37-writing-essays-001-MASTERY-bundle",
+      "periodo": 37,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 11,
+      "country": "sv"
+    },
+    {
+      "id": "SV-ING-11-2026-W37-writing-essays-001-MASTERY-bundle-v15",
+      "statement": "Identify the error in this thesis: 'Recycling should definitely be good for everyone everywhere.'",
+      "context": "Deteccion de errores en la tesis, San Salvador.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "The thesis is too short to be valid.",
+          "is_correct": false,
+          "feedback": "Length does not determine the validity of a thesis."
+        },
+        {
+          "letter": "B",
+          "text": "It should end with a question mark.",
+          "is_correct": false,
+          "feedback": "A thesis is a statement, not a question."
+        },
+        {
+          "letter": "C",
+          "text": "The absolutes make the claim impossible to argue precisely.",
+          "is_correct": true,
+          "feedback": "'Definitely', 'good' and 'everyone' remove any space for qualification."
+        },
+        {
+          "letter": "D",
+          "text": "It needs a quotation in the middle.",
+          "is_correct": false,
+          "feedback": "Quotations belong to the body of the essay."
         }
       ],
       "correct_answer": "C",
-      "explanation": "'Benevolent' means kind, generous, or charitable.",
-      "difficulty": "10",
+      "explanation": "La tesis es demasiado absoluta y general: 'definitely', 'good' y 'everyone' impiden argumentar con precision.\n\n---",
+      "difficulty": "6",
       "images": [],
       "tags": [],
-      "bloom": "Understand",
+      "bloom": "Evaluate",
+      "expected_success": 0.8,
+      "bundle_id": "SV-ING-11-2026-W37-writing-essays-001-MASTERY-bundle",
+      "periodo": 37,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 11,
+      "country": "sv"
+    },
+    {
+      "id": "SV-ING-11-2026-W37-writing-essays-001-MASTERY-bundle-v16",
+      "statement": "Choose the best way to refute an opponent's argument.",
+      "context": "Refutacion de argumentos, San Miguel.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Repeat the opponent's words louder.",
+          "is_correct": false,
+          "feedback": "Volume does not refute an argument logically."
+        },
+        {
+          "letter": "B",
+          "text": "Change the subject quickly.",
+          "is_correct": false,
+          "feedback": "Avoiding the issue leaves the objection unanswered."
+        },
+        {
+          "letter": "C",
+          "text": "Call the author a poor writer.",
+          "is_correct": false,
+          "feedback": "Personal attacks are a fallacy, not an argument."
+        },
+        {
+          "letter": "D",
+          "text": "Point out that its evidence does not support its conclusion.",
+          "is_correct": true,
+          "feedback": "A refutation attacks the link between evidence and claim."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Una refutacion solida se apoya en la logica del argumento contrario: se muestra que la evidencia presentada no sostiene la conclusion que el oponente extrae, sin recurrir a insultos ni a cambios de tema.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.8,
+      "bundle_id": "SV-ING-11-2026-W37-writing-essays-001-MASTERY-bundle",
+      "periodo": 37,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 11,
+      "country": "sv"
+    },
+    {
+      "id": "SV-ING-11-2026-W37-writing-essays-001-MASTERY-bundle-v17",
+      "statement": "Which paragraph usually contains the main argument in a five-paragraph essay?",
+      "context": "Estructura del ensayo de cinco parrafos, San Salvador.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "The second paragraph.",
+          "is_correct": true,
+          "feedback": "The body paragraph carries the thesis and its supporting evidence."
+        },
+        {
+          "letter": "B",
+          "text": "The first paragraph.",
+          "is_correct": false,
+          "feedback": "The first paragraph is the introduction."
+        },
+        {
+          "letter": "C",
+          "text": "The last paragraph.",
+          "is_correct": false,
+          "feedback": "The last paragraph is the conclusion."
+        },
+        {
+          "letter": "D",
+          "text": "Any paragraph at random.",
+          "is_correct": false,
+          "feedback": "Structure follows a deliberate order, not randomness."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "En el esquema clasico, el segundo parrafo es el cuerpo donde se desarrolla la tesis con evidencias.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
       "expected_success": 0.8,
       "bundle_id": "SV-ING-11-2026-W37-writing-essays-001-MASTERY-bundle",
       "periodo": 37,
@@ -774,41 +774,41 @@
     },
     {
       "id": "SV-ING-11-2026-W37-writing-essays-001-MASTERY-bundle-v18",
-      "statement": "Identify the main idea: 'The text describes how bees help pollinate flowers and produce honey.'",
-      "context": "English class in Mejicanos, SV.",
+      "statement": "What should you avoid when quoting a source in an academic essay?",
+      "context": "Cita academica, San Miguel.",
       "options": [
         {
-          "letter": "D",
-          "text": "Bees are important for pollination and honey",
-          "is_correct": true,
-          "feedback": "Correct!"
-        },
-        {
           "letter": "A",
-          "text": "Bees are dangerous insects",
+          "text": "Quoting a sentence of fewer than eight words.",
           "is_correct": false,
-          "feedback": "Incorrect. Review the concept."
+          "feedback": "Short quotations are acceptable when they are attributed."
         },
         {
           "letter": "B",
-          "text": "Honey is the only product bees make",
+          "text": "Using a quote to support your own argument.",
           "is_correct": false,
-          "feedback": "Incorrect. Review the concept."
+          "feedback": "That is a legitimate and common use of evidence."
         },
         {
           "letter": "C",
-          "text": "Flowers don't need bees",
+          "text": "Quoting without naming the author or the year.",
+          "is_correct": true,
+          "feedback": "An unattributed quote cannot be verified by the reader."
+        },
+        {
+          "letter": "D",
+          "text": "Introducing the quote with a colon.",
           "is_correct": false,
-          "feedback": "Incorrect. Review the concept."
+          "feedback": "A colon is the standard way to introduce a quotation."
         }
       ],
-      "correct_answer": "D",
-      "explanation": "The main idea summarizes the key points about bees: pollination and honey.",
-      "difficulty": "10",
+      "correct_answer": "C",
+      "explanation": "Una cita sin autor ni ano es una cita no verificable; ademas debe integrarse en la propia redaccion.\n\n---",
+      "difficulty": "6",
       "images": [],
       "tags": [],
       "bloom": "Analyze",
-      "expected_success": 0.7,
+      "expected_success": 0.8,
       "bundle_id": "SV-ING-11-2026-W37-writing-essays-001-MASTERY-bundle",
       "periodo": 37,
       "protocol_version": "5.2",
@@ -819,41 +819,41 @@
     },
     {
       "id": "SV-ING-11-2026-W37-writing-essays-001-MASTERY-bundle-v19",
-      "statement": "Which is the correct past form of 'go'?",
-      "context": "English class in San Salvador, SV.",
+      "statement": "Choose the best title for an essay about the benefits of public transport.",
+      "context": "Titulo del ensayo, San Salvador.",
       "options": [
         {
-          "letter": "B",
-          "text": "went",
-          "is_correct": true,
-          "feedback": "Correct!"
+          "letter": "A",
+          "text": "Essay About Transport",
+          "is_correct": false,
+          "feedback": "It is too vague to inform the reader of the content."
         },
         {
-          "letter": "A",
-          "text": "goed",
-          "is_correct": false,
-          "feedback": "Incorrect. Review the concept."
+          "letter": "B",
+          "text": "Why Buses Beat Cars in City Streets",
+          "is_correct": true,
+          "feedback": "It names the topic and signals a comparative argument."
         },
         {
           "letter": "C",
-          "text": "gone",
+          "text": "The Second Essay of the Year",
           "is_correct": false,
-          "feedback": "Incorrect. Review the concept."
+          "feedback": "It refers to the assignment, not to the content."
         },
         {
           "letter": "D",
-          "text": "going",
+          "text": "Things I Like",
           "is_correct": false,
-          "feedback": "Incorrect. Review the concept."
+          "feedback": "It does not identify the subject matter at all."
         }
       ],
       "correct_answer": "B",
-      "explanation": "'Go' is an irregular verb: go → went (past simple).",
-      "difficulty": "10",
+      "explanation": "Un buen titulo anuncia el tema y el enfoque del texto de forma breve y precisa. Es uno de los puntos mas frecuentes de las pruebas de esta unidad.\n\n---",
+      "difficulty": "4",
       "images": [],
       "tags": [],
-      "bloom": "Remember",
-      "expected_success": 0.85,
+      "bloom": "Apply",
+      "expected_success": 0.8,
       "bundle_id": "SV-ING-11-2026-W37-writing-essays-001-MASTERY-bundle",
       "periodo": 37,
       "protocol_version": "5.2",
@@ -864,41 +864,41 @@
     },
     {
       "id": "SV-ING-11-2026-W37-writing-essays-001-MASTERY-bundle-v20",
-      "statement": "Which sentence uses the present simple correctly?",
-      "context": "English class in San Salvador, SV.",
+      "statement": "Which sentence expresses an opinion clearly and appropriately for an argumentative essay?",
+      "context": "Expresion de opiniones, San Salvador.",
       "options": [
         {
-          "letter": "D",
-          "text": "She goes to school every day.",
-          "is_correct": true,
-          "feedback": "Correct!"
-        },
-        {
           "letter": "A",
-          "text": "She go to school every day.",
+          "text": "Later start times are obviously the truth.",
           "is_correct": false,
-          "feedback": "Incorrect. Review the concept."
+          "feedback": "'Obviously' asserts the claim as fact and gives no reason."
         },
         {
           "letter": "B",
-          "text": "She going to school every day.",
+          "text": "Everyone knows that teenagers prefer late classes.",
           "is_correct": false,
-          "feedback": "Incorrect. Review the concept."
+          "feedback": "'Everyone knows' is an unsupported generalisation."
         },
         {
           "letter": "C",
-          "text": "She gone to school every day.",
+          "text": "Later start times reduce stress.",
           "is_correct": false,
-          "feedback": "Incorrect. Review the concept."
+          "feedback": "Stated alone, it reads as a fact rather than an argued opinion."
+        },
+        {
+          "letter": "D",
+          "text": "In my view, later start times would reduce stress for teenagers.",
+          "is_correct": true,
+          "feedback": "It marks the position as an opinion and gives a reason."
         }
       ],
       "correct_answer": "D",
-      "explanation": "Present simple: subject + verb(-s for he/she/it).",
-      "difficulty": "10",
+      "explanation": "Una opinion argumentative se enuncia con 'In my view' y se apoya en una razon, no como un hecho aislado.\n\n---",
+      "difficulty": "6",
       "images": [],
       "tags": [],
-      "bloom": "Remember",
-      "expected_success": 0.85,
+      "bloom": "Evaluate",
+      "expected_success": 0.8,
       "bundle_id": "SV-ING-11-2026-W37-writing-essays-001-MASTERY-bundle",
       "periodo": 37,
       "protocol_version": "5.2",

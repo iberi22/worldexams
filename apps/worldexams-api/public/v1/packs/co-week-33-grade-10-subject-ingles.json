@@ -16,7 +16,7 @@
           "letter": "B",
           "text": "must have had",
           "is_correct": false,
-          "feedback": "Incorrect meaning."
+          "feedback": "\"Must have had\" says the standards were definitely there, which contradicts the fact that the story was published unverified."
         },
         {
           "letter": "A",
@@ -62,7 +62,7 @@
           "letter": "A",
           "text": "should check",
           "is_correct": false,
-          "feedback": "Incorrect tense."
+          "feedback": "\"Should check\" is about what ought to happen, while the sentence describes what she actually did for hours."
         },
         {
           "letter": "B",
@@ -74,7 +74,7 @@
           "letter": "C",
           "text": "can't check",
           "is_correct": false,
-          "feedback": "Incorrect."
+          "feedback": "The present continuous \"is checking\" states what she did, so denying the possibility of it contradicts the sentence."
         },
         {
           "letter": "D",
@@ -108,7 +108,7 @@
           "letter": "A",
           "text": "must be / avoided",
           "is_correct": false,
-          "feedback": "Incorrect syntax."
+          "feedback": "The third conditional needs two past modals, so \"must be\" cannot complete it; the whole clause would have to be \"must have been / avoided\"."
         },
         {
           "letter": "B",
@@ -120,13 +120,13 @@
           "letter": "C",
           "text": "can be / avoided",
           "is_correct": false,
-          "feedback": "Incorrect tense."
+          "feedback": "\"Can be avoided\" is about present possibility, but the past perfect \"had been\" points to a past outcome that never happened."
         },
         {
           "letter": "D",
           "text": "should be / avoided",
           "is_correct": false,
-          "feedback": "Incorrect tense."
+          "feedback": "\"Should be avoided\" is advice about the present; a third conditional needs the past modal \"could have been\"."
         }
       ],
       "correct_answer": "B",
@@ -154,7 +154,7 @@
           "letter": "B",
           "text": "must leak",
           "is_correct": false,
-          "feedback": "Incorrect tense."
+          "feedback": "\"Must leak\" states a present obligation, while the sentence speculates about what motivated the whistleblower in the past."
         },
         {
           "letter": "A",
@@ -166,7 +166,7 @@
           "letter": "C",
           "text": "should leak",
           "is_correct": false,
-          "feedback": "Incorrect tense."
+          "feedback": "\"Should leak\" is advice about what ought to happen, not a speculation about a past action."
         },
         {
           "letter": "D",
@@ -200,7 +200,7 @@
           "letter": "A",
           "text": "must pay",
           "is_correct": false,
-          "feedback": "Incorrect tense."
+          "feedback": "\"Must pay\" expresses present obligation; the criticism is about what the editor failed to do in the past."
         },
         {
           "letter": "C",
@@ -212,7 +212,7 @@
           "letter": "B",
           "text": "could pay",
           "is_correct": false,
-          "feedback": "Incorrect tense."
+          "feedback": "\"Could pay\" describes present or future possibility; a past failure calls for \"should have paid\"."
         },
         {
           "letter": "D",
@@ -258,13 +258,13 @@
           "letter": "B",
           "text": "might have been",
           "is_correct": false,
-          "feedback": "Incorrect meaning."
+          "feedback": "\"Might have been\" leaves the possibility open, but the wrong details make reliability impossible, not merely doubtful."
         },
         {
           "letter": "D",
           "text": "should have been",
           "is_correct": false,
-          "feedback": "Incorrect meaning."
+          "feedback": "\"Should have been\" expresses an expectation about what ought to happen, not the deduction that it was impossible."
         }
       ],
       "correct_answer": "C",
@@ -292,7 +292,7 @@
           "letter": "B",
           "text": "must offend",
           "is_correct": false,
-          "feedback": "Incorrect tense."
+          "feedback": "\"Must offend\" is the present active; the sentence is about a past state and the celebrity is the one offended, so a past passive modal is needed."
         },
         {
           "letter": "A",
@@ -304,13 +304,13 @@
           "letter": "C",
           "text": "can't have been offended",
           "is_correct": false,
-          "feedback": "Incorrect meaning."
+          "feedback": "The angry reaction confirms he was offended, so denying that it was possible contradicts the evidence in the sentence."
         },
         {
           "letter": "D",
           "text": "should have offended",
           "is_correct": false,
-          "feedback": "Incorrect meaning."
+          "feedback": "\"Should have offended\" is a judgement about what was appropriate, not a deduction about what he actually felt."
         }
       ],
       "correct_answer": "A",
@@ -338,7 +338,7 @@
           "letter": "A",
           "text": "could risk",
           "is_correct": false,
-          "feedback": "Incorrect tense."
+          "feedback": "\"Could risk\" is present or future possibility; the footage already exists, so any risk belongs to the past."
         },
         {
           "letter": "D",
@@ -350,13 +350,13 @@
           "letter": "B",
           "text": "must risk",
           "is_correct": false,
-          "feedback": "Incorrect tense."
+          "feedback": "\"Must risk\" states present obligation, not the past possibility the sentence describes."
         },
         {
           "letter": "C",
           "text": "shouldn't risk",
           "is_correct": false,
-          "feedback": "Incorrect meaning."
+          "feedback": "\"Shouldn't risk\" is advice about what not to do, while the sentence states what he actually risked to get the footage."
         }
       ],
       "correct_answer": "D",
@@ -384,7 +384,7 @@
           "letter": "A",
           "text": "can reach",
           "is_correct": false,
-          "feedback": "Incorrect."
+          "feedback": "\"Can reach\" is about present or future ability, but the spread is described as a completed past action."
         },
         {
           "letter": "B",
@@ -396,13 +396,13 @@
           "letter": "C",
           "text": "should have reached",
           "is_correct": false,
-          "feedback": "Incorrect meaning."
+          "feedback": "\"Should have reached\" is a judgement about what ought to have happened, not a statement about how the story spread."
         },
         {
           "letter": "D",
           "text": "might reach",
           "is_correct": false,
-          "feedback": "Incorrect tense."
+          "feedback": "\"Might reach\" is present or future possibility, whereas the debunking has already happened, so the past is required."
         }
       ],
       "correct_answer": "B",
@@ -442,7 +442,7 @@
           "letter": "B",
           "text": "was / imagining",
           "is_correct": false,
-          "feedback": "Incorrect."
+          "feedback": "Inverted \"Hardly\" takes a past form, and the second verb needs the perfect, so the pair is \"had ... realised\"."
         },
         {
           "letter": "D",
@@ -476,13 +476,13 @@
           "letter": "B",
           "text": "must have presented",
           "is_correct": false,
-          "feedback": "Incorrect."
+          "feedback": "\"Must have presented\" asserts that he definitely did present it, which contradicts the clause saying he focused on only one side."
         },
         {
           "letter": "C",
           "text": "can't have presented",
           "is_correct": false,
-          "feedback": "Incorrect."
+          "feedback": "\"Can't have presented\" denies it outright, while the sentence states he made a deliberate choice to show only one side."
         },
         {
           "letter": "A",
@@ -534,13 +534,13 @@
           "letter": "C",
           "text": "If it was / had accused",
           "is_correct": false,
-          "feedback": "Incorrect syntax."
+          "feedback": "\"If it was\" is not the inversion the third conditional requires; the clause must open with \"Had\" followed by the subject."
         },
         {
           "letter": "D",
           "text": "Had / must have accused",
           "is_correct": false,
-          "feedback": "Incorrect syntax."
+          "feedback": "After the inverted \"Had\" the pattern must continue with \"they would have accused\"; \"must have accused\" breaks it."
         }
       ],
       "correct_answer": "B",

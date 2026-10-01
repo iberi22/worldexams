@@ -16,25 +16,25 @@
           "letter": "A",
           "text": "read",
           "is_correct": true,
-          "feedback": "Correct!"
+          "feedback": "You read books with your eyes; \"read\" is the verb that completes \"I like to... books\"."
         },
         {
           "letter": "B",
           "text": "dance",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "You dance to music; you do not dance books, so it does not fit."
         },
         {
           "letter": "C",
           "text": "swim",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "You swim in water, not in a book, so \"swim\" does not complete the sentence."
         },
         {
           "letter": "D",
           "text": "run",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "You run on your feet; you do not run books."
         }
       ],
       "correct_answer": "A",
@@ -62,25 +62,25 @@
           "letter": "A",
           "text": "eat",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "You eat food, not music, so \"eat\" does not complete the sentence."
         },
         {
           "letter": "B",
           "text": "listen to",
           "is_correct": true,
-          "feedback": "Correct!"
+          "feedback": "\"Listen to\" is the verb phrase for hearing music, so it completes the sentence."
         },
         {
           "letter": "C",
           "text": "watch",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "You watch a film or a show; you watch music, which is not correct usage."
         },
         {
           "letter": "D",
           "text": "play",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "You play an instrument, not music itself, so \"play\" is not the right collocation here."
         }
       ],
       "correct_answer": "B",
@@ -108,25 +108,25 @@
           "letter": "A",
           "text": "sing",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "You sing songs; video games are not sung, so \"sing\" does not fit."
         },
         {
           "letter": "B",
           "text": "cook",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "You cook food; video games are not cooked."
         },
         {
           "letter": "C",
           "text": "play",
           "is_correct": true,
-          "feedback": "Correct!"
+          "feedback": "\"Play\" is the verb used with video games, so it completes the sentence."
         },
         {
           "letter": "D",
           "text": "write",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "You write words or stories; video games are not written."
         }
       ],
       "correct_answer": "C",
@@ -154,25 +154,25 @@
           "letter": "A",
           "text": "listen",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "You listen to music; you do not listen to pictures."
         },
         {
           "letter": "B",
           "text": "swim",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "You swim in water; a picture is not something you swim in."
         },
         {
           "letter": "C",
           "text": "sleep",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "You sleep in bed; pictures are not slept in."
         },
         {
           "letter": "D",
           "text": "draw",
           "is_correct": true,
-          "feedback": "Correct!"
+          "feedback": "You draw pictures with a pencil, so \"draw\" completes the sentence."
         }
       ],
       "correct_answer": "D",
@@ -200,25 +200,25 @@
           "letter": "A",
           "text": "swim",
           "is_correct": true,
-          "feedback": "Correct!"
+          "feedback": "You jump on the floor or a mat; a pool is where you swim, not jump."
         },
         {
           "letter": "B",
           "text": "jump",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "You swim in the water of a pool, so \"swim\" completes the sentence."
         },
         {
           "letter": "C",
           "text": "drive",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "You drive a vehicle, so \"drive\" does not fit with a pool."
         },
         {
           "letter": "D",
           "text": "climb",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "You climb a ladder, a wall or a tree; you do not climb in a pool."
         }
       ],
       "correct_answer": "A",
@@ -246,25 +246,25 @@
           "letter": "A",
           "text": "run",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "You run on a track or field; you do not run songs."
         },
         {
           "letter": "B",
           "text": "sing",
           "is_correct": true,
-          "feedback": "Correct!"
+          "feedback": "You sing songs with your voice, so \"sing\" completes the sentence."
         },
         {
           "letter": "C",
           "text": "draw",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "You draw pictures; you do not draw songs."
         },
         {
           "letter": "D",
           "text": "read",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "You read books; you do not read songs."
         }
       ],
       "correct_answer": "B",
@@ -292,25 +292,25 @@
           "letter": "A",
           "text": "study",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "You study at school or at a desk; studying is not done in the kitchen."
         },
         {
           "letter": "B",
           "text": "sing",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "You sing songs; singing is not the activity shared with mom in the kitchen."
         },
         {
           "letter": "C",
           "text": "cook",
           "is_correct": true,
-          "feedback": "Correct!"
+          "feedback": "Cooking food is the kitchen activity you do with your mom, so \"cook\" completes the sentence."
         },
         {
           "letter": "D",
           "text": "sleep",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "You sleep in bed at night; sleep does not belong in the kitchen."
         }
       ],
       "correct_answer": "C",
@@ -338,25 +338,25 @@
           "letter": "A",
           "text": "work",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "You work in an office; a disco is for dancing and music."
         },
         {
           "letter": "B",
           "text": "read",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "Reading is a quiet activity done at home or in a library, not in a disco."
         },
         {
           "letter": "C",
           "text": "cook",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "Cooking happens in the kitchen; it is not what people do in a disco."
         },
         {
           "letter": "D",
           "text": "dance",
           "is_correct": true,
-          "feedback": "Correct!"
+          "feedback": "You dance in a disco, so \"dance\" completes the sentence."
         }
       ],
       "correct_answer": "D",

@@ -476,25 +476,25 @@
           "letter": "B",
           "text": "It's a friendly suggestion with no consequences.",
           "is_correct": false,
-          "feedback": "Incorrect. \"Had better\" implies consequences."
+          "feedback": "'Had better' carries a warning about consequences, so the tone is not a consequence-free suggestion."
         },
         {
           "letter": "A",
           "text": "It's a strong warning; there might be trouble if you are late.",
           "is_correct": true,
-          "feedback": "Correct! \"Had better\" is used for warnings."
+          "feedback": "'You'd better not' warns that being late will have consequences, which matches the strong tone described."
         },
         {
           "letter": "C",
           "text": "It's an invitation to a party.",
           "is_correct": false,
-          "feedback": "Incorrect."
+          "feedback": "Nothing in the sentence invites or mentions a party; the boss is giving an instruction about punctuality."
         },
         {
           "letter": "D",
           "text": "The boss is asking for your opinion about the time.",
           "is_correct": false,
-          "feedback": "Incorrect."
+          "feedback": "The boss is not asking for an opinion; 'you'd better not' is a directive."
         }
       ],
       "correct_answer": "A",

@@ -16,25 +16,25 @@
           "letter": "A",
           "text": "wings",
           "is_correct": true,
-          "feedback": "Correct!"
+          "feedback": "A bird does not have human arms; its forelimbs are modified into wings."
         },
         {
           "letter": "B",
           "text": "arms",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "Correct. Birds have two wings, the limbs they beat to lift themselves off the ground and fly."
         },
         {
           "letter": "C",
           "text": "legs",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "'Legs' are what a bird stands on; they are not what makes it fly."
         },
         {
           "letter": "D",
           "text": "ears",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "'Ears' are used for hearing, and birds do not use them to fly."
         }
       ],
       "correct_answer": "A",
@@ -62,25 +62,25 @@
           "letter": "A",
           "text": "hair",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "A fish has no hair; hair is a covering of mammals."
         },
         {
           "letter": "B",
           "text": "fins",
           "is_correct": true,
-          "feedback": "Correct!"
+          "feedback": "Correct. Fins are the flat limbs a fish uses to push against the water and move forward."
         },
         {
           "letter": "C",
           "text": "wings",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "'Wings' belong to birds and insects, not to fish."
         },
         {
           "letter": "D",
           "text": "hands",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "'Hands' are human limbs with fingers, and fish do not have them."
         }
       ],
       "correct_answer": "B",
@@ -108,25 +108,25 @@
           "letter": "A",
           "text": "fin",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "A 'fin' is a fish part for swimming, and an elephant has no fins."
         },
         {
           "letter": "B",
           "text": "feather",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "A 'feather' covers a bird, not an elephant."
         },
         {
           "letter": "C",
           "text": "trunk",
           "is_correct": true,
-          "feedback": "Correct!"
+          "feedback": "Correct. The trunk is the elephant's long nose, which it uses to breathe, smell and pick things up."
         },
         {
           "letter": "D",
           "text": "wing",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "A 'wing' belongs to a bird, not to an elephant."
         }
       ],
       "correct_answer": "C",
@@ -154,25 +154,25 @@
           "letter": "A",
           "text": "toes",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "'Toes' are at the end of a foot, not on an animal's face."
         },
         {
           "letter": "B",
           "text": "fingers",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "'Fingers' are human digits used for gripping, not what a cat has on its face."
         },
         {
           "letter": "C",
           "text": "arms",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "'Arms' are human limbs; a cat has front legs."
         },
         {
           "letter": "D",
           "text": "whiskers",
           "is_correct": true,
-          "feedback": "Correct!"
+          "feedback": "Correct. Whiskers are the long stiff hairs on a cat's face that help it judge narrow spaces."
         }
       ],
       "correct_answer": "D",
@@ -200,25 +200,25 @@
           "letter": "A",
           "text": "feathers",
           "is_correct": true,
-          "feedback": "Correct!"
+          "feedback": "'Fur' is the hairy coat of mammals such as dogs and cats; birds are not mammals."
         },
         {
           "letter": "B",
           "text": "fur",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "Correct. A bird's body is covered in feathers, which are its characteristic outer covering."
         },
         {
           "letter": "C",
           "text": "scales",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "'Scales' cover fish and reptiles, not birds."
         },
         {
           "letter": "D",
           "text": "skin",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "A bird's skin is thin and mostly hidden under its feathers, so it is not its covering."
         }
       ],
       "correct_answer": "A",
@@ -246,25 +246,25 @@
           "letter": "A",
           "text": "blue",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "'Blue' is not a colour of any real tiger; tigers are orange and black."
         },
         {
           "letter": "B",
           "text": "striped",
           "is_correct": true,
-          "feedback": "Correct!"
+          "feedback": "Correct. A tiger's fur has orange and black stripes running along its body."
         },
         {
           "letter": "C",
           "text": "spotted",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "'Spotted' describes a leopard, not a tiger."
         },
         {
           "letter": "D",
           "text": "plain",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "'Plain' means with no pattern, and a tiger's fur is clearly patterned with stripes."
         }
       ],
       "correct_answer": "B",
@@ -292,25 +292,25 @@
           "letter": "A",
           "text": "plain",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "'Plain' means without a pattern; a leopard is covered with spots."
         },
         {
           "letter": "B",
           "text": "red",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "'Red' is not the colour of a leopard's coat; its spots are dark on a pale coat."
         },
         {
           "letter": "C",
           "text": "spotted",
           "is_correct": true,
-          "feedback": "Correct!"
+          "feedback": "Correct. A leopard's fur is covered in dark round spots, which is its natural camouflage pattern."
         },
         {
           "letter": "D",
           "text": "striped",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "'Striped' describes a tiger or a zebra, whereas a leopard's pattern is made of spots."
         }
       ],
       "correct_answer": "C",
@@ -338,25 +338,25 @@
           "letter": "A",
           "text": "trunk",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "A 'trunk' is an elephant's nose, and a dog does not have one."
         },
         {
           "letter": "B",
           "text": "wing",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "A 'wing' belongs to a bird, not to a dog."
         },
         {
           "letter": "C",
           "text": "fin",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "A 'fin' is a fish part for swimming, and dogs do not have fins."
         },
         {
           "letter": "D",
           "text": "tail",
           "is_correct": true,
-          "feedback": "Correct!"
+          "feedback": "Correct. A dog's tail is the part it wags from side to side when it is happy."
         }
       ],
       "correct_answer": "D",

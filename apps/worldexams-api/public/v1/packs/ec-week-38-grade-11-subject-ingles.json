@@ -8,86 +8,41 @@
   },
   "questions": [
     {
-      "id": "EC-ING-11-2026-W38-reading-detail-inference-001-MASTERY-v1",
-      "statement": "What is the English word for: \"A place where you live or stay on holiday.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "id": "EC-ING-11-2026-W38-reading-detail-inference-001-MASTERY-bundle-v1",
+      "statement": "Read the text: 'The Galapagos Islands were declared a marine reserve in 1978.' When did this happen?",
+      "context": "Lectura de detalles, Quito, grado 11.",
       "options": [
         {
-          "letter": "B",
-          "text": "accommodation",
-          "is_correct": true,
-          "feedback": "Correct! 'accommodation' matches the definition."
+          "letter": "A",
+          "text": "In 1958",
+          "is_correct": false,
+          "feedback": "The figure is 1978, not 1958."
         },
         {
-          "letter": "A",
-          "text": "transportation",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "letter": "B",
+          "text": "In 1978",
+          "is_correct": true,
+          "feedback": "The text states 'in 1978' directly."
         },
         {
           "letter": "C",
-          "text": "entertainment",
+          "text": "In 1878",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "The figure is 1978, not 1878."
         },
         {
           "letter": "D",
-          "text": "currency",
+          "text": "In 1988",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "The figure is 1978, not 1988."
         }
       ],
       "correct_answer": "B",
-      "explanation": "The word 'accommodation' is used to describe a place where you live or stay on holiday. This is an important vocabulary word in English.\n---",
-      "difficulty": "3",
-      "images": [],
-      "tags": [],
-      "bloom": "Remember",
-      "expected_success": 0.8,
-      "bundle_id": "EC-ING-11-2026-W38-reading-detail-inference-001-MASTERY-bundle",
-      "periodo": 38,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ingles",
-      "grade": 11,
-      "country": "ec"
-    },
-    {
-      "id": "EC-ING-11-2026-W38-reading-detail-inference-001-MASTERY-v2",
-      "statement": "What is the English word for: \"A detailed plan or route of a journey.\"",
-      "context": "Choose the correct English word for the given definition.",
-      "options": [
-        {
-          "letter": "B",
-          "text": "itinerary",
-          "is_correct": true,
-          "feedback": "Correct! 'itinerary' matches the definition."
-        },
-        {
-          "letter": "A",
-          "text": "baggage",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "C",
-          "text": "destination",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "D",
-          "text": "passport",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        }
-      ],
-      "correct_answer": "B",
-      "explanation": "The word 'itinerary' is used to describe a detailed plan or route of a journey. This is an important vocabulary word in English.\n---",
+      "explanation": "La fecha indicada de forma explicita en el texto es 1978. Es uno de los puntos mas frecuentes de las pruebas de esta unidad.\n\n---",
       "difficulty": "4",
       "images": [],
       "tags": [],
-      "bloom": "Remember",
+      "bloom": "Understand",
       "expected_success": 0.8,
       "bundle_id": "EC-ING-11-2026-W38-reading-detail-inference-001-MASTERY-bundle",
       "periodo": 38,
@@ -98,41 +53,41 @@
       "country": "ec"
     },
     {
-      "id": "EC-ING-11-2026-W38-reading-detail-inference-001-MASTERY-v3",
-      "statement": "What is the English word for: \"The place to which someone or something is going or being sent.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "id": "EC-ING-11-2026-W38-reading-detail-inference-001-MASTERY-bundle-v2",
+      "statement": "Read the text: 'Visitors must stay on the marked paths to protect the endemic species.' What is the reason for the rule?",
+      "context": "Inferencia sobre una causa, Quito.",
       "options": [
         {
-          "letter": "C",
-          "text": "destination",
-          "is_correct": true,
-          "feedback": "Correct! 'destination' matches the definition."
-        },
-        {
           "letter": "A",
-          "text": "departure",
+          "text": "To reduce the number of visitors",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "The text gives no reason related to visitor numbers."
         },
         {
           "letter": "B",
-          "text": "arrival",
+          "text": "To speed up the tours",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Nothing in the text concerns the pace of tours."
+        },
+        {
+          "letter": "C",
+          "text": "To protect the endemic species",
+          "is_correct": true,
+          "feedback": "'To protect' states the purpose of the rule directly."
         },
         {
           "letter": "D",
-          "text": "journey",
+          "text": "To raise the entrance fee",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "No fee is mentioned in the text."
         }
       ],
       "correct_answer": "C",
-      "explanation": "The word 'destination' is used to describe the place to which someone or something is going or being sent. This is an important vocabulary word in English.\n---",
-      "difficulty": "3",
+      "explanation": "La razon se expresa con 'to protect', es decir, la proteccion de las especies endemicas.\n\n---",
+      "difficulty": "6",
       "images": [],
       "tags": [],
-      "bloom": "Understand",
+      "bloom": "Analyze",
       "expected_success": 0.8,
       "bundle_id": "EC-ING-11-2026-W38-reading-detail-inference-001-MASTERY-bundle",
       "periodo": 38,
@@ -143,37 +98,82 @@
       "country": "ec"
     },
     {
-      "id": "EC-ING-11-2026-W38-reading-detail-inference-001-MASTERY-v4",
-      "statement": "What is the English word for: \"Suitcases or other bags in which to pack personal belongings for traveling.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "id": "EC-ING-11-2026-W38-reading-detail-inference-001-MASTERY-bundle-v3",
+      "statement": "Read the text: 'Although the region receives little rainfall, its soil is very fertile.' What does 'although' signal?",
+      "context": "Analisis de conectores, Guayaquil.",
       "options": [
         {
-          "letter": "D",
-          "text": "luggage",
-          "is_correct": true,
-          "feedback": "Correct! 'luggage' matches the definition."
-        },
-        {
           "letter": "A",
-          "text": "ticket",
+          "text": "A cause and its effect",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "The connector used for cause and effect would be 'because' or 'therefore'."
         },
         {
           "letter": "B",
-          "text": "flight",
+          "text": "A sequence of events in time",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Time sequence requires 'then', 'after that' or similar markers."
         },
         {
           "letter": "C",
-          "text": "reservation",
+          "text": "An addition of similar information",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "An additive connector would be 'also', 'moreover' or 'besides'."
+        },
+        {
+          "letter": "D",
+          "text": "A contrast between two facts",
+          "is_correct": true,
+          "feedback": "'Although' sets up a concession that partly contradicts the main clause."
         }
       ],
       "correct_answer": "D",
-      "explanation": "The word 'luggage' is used to describe suitcases or other bags in which to pack personal belongings for traveling. This is an important vocabulary word in English.\n---",
+      "explanation": "'Although' introduce un contraste entre la escasez de lluvia y la fertilidad del suelo.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.8,
+      "bundle_id": "EC-ING-11-2026-W38-reading-detail-inference-001-MASTERY-bundle",
+      "periodo": 38,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-ING-11-2026-W38-reading-detail-inference-001-MASTERY-bundle-v4",
+      "statement": "Read the text: 'The survey included 250 households from three provinces.' What is the exact size of the sample?",
+      "context": "Lectura de datos cuantitativos, Cuenca.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "250 households",
+          "is_correct": true,
+          "feedback": "'250 households' is the figure stated in the text."
+        },
+        {
+          "letter": "B",
+          "text": "253 households",
+          "is_correct": false,
+          "feedback": "The province count is not part of the household figure."
+        },
+        {
+          "letter": "C",
+          "text": "500 households",
+          "is_correct": false,
+          "feedback": "That would double the stated figure without basis."
+        },
+        {
+          "letter": "D",
+          "text": "25 households",
+          "is_correct": false,
+          "feedback": "The text states two hundred and fifty, not twenty-five."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El texto indica un total de 250 hogares,provenientes de tres provincias. Conviene practicarlo con otros ejemplos antes del examen.\n\n---",
       "difficulty": "4",
       "images": [],
       "tags": [],
@@ -188,41 +188,41 @@
       "country": "ec"
     },
     {
-      "id": "EC-ING-11-2026-W38-reading-detail-inference-001-MASTERY-v5",
-      "statement": "What is the English word for: \"A traveler on a public or private conveyance other than the driver, pilot, or crew.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "id": "EC-ING-11-2026-W38-reading-detail-inference-001-MASTERY-bundle-v5",
+      "statement": "Read the text: 'Fewer students enrolled in 2023 than in 2022.' What can be inferred?",
+      "context": "Inferencia a partir de comparaciones, Quito.",
       "options": [
         {
-          "letter": "B",
-          "text": "passenger",
-          "is_correct": true,
-          "feedback": "Correct! 'passenger' matches the definition."
+          "letter": "A",
+          "text": "Enrolment increased between the two years",
+          "is_correct": false,
+          "feedback": "That is the opposite of what 'fewer' states."
         },
         {
-          "letter": "A",
-          "text": "pedestrian",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "letter": "B",
+          "text": "Enrolment decreased between the two years",
+          "is_correct": true,
+          "feedback": "'Fewer ... than' expresses a smaller number in 2023."
         },
         {
           "letter": "C",
-          "text": "commuter",
+          "text": "Enrolment stayed the same in both years",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "'Fewer' excludes equality between the two years."
         },
         {
           "letter": "D",
-          "text": "tourist",
+          "text": "No data exist for 2022",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "The sentence compares both years, so both have data."
         }
       ],
       "correct_answer": "B",
-      "explanation": "The word 'passenger' is used to describe a traveler on a public or private conveyance other than the driver, pilot, or crew. This is an important vocabulary word in English.\n---",
-      "difficulty": "5",
+      "explanation": "'Fewer' establece una comparacion decreciente entre dos anos consecutivos. Este matiz se comprueba comparando con el resto de opciones.\n\n---",
+      "difficulty": "6",
       "images": [],
       "tags": [],
-      "bloom": "Understand",
+      "bloom": "Analyze",
       "expected_success": 0.8,
       "bundle_id": "EC-ING-11-2026-W38-reading-detail-inference-001-MASTERY-bundle",
       "periodo": 38,
@@ -233,37 +233,82 @@
       "country": "ec"
     },
     {
-      "id": "EC-ING-11-2026-W38-reading-detail-inference-001-MASTERY-v6",
-      "statement": "What is the English word for: \"The place at a port, airport, or frontier where officials check incoming goods, travelers, or luggage.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "id": "EC-ING-11-2026-W38-reading-detail-inference-001-MASTERY-bundle-v6",
+      "statement": "Read the text: 'The bridge cost two million dollars, a huge sum for a country of three million people.' What does the last part add?",
+      "context": "Funcion del contexto numerico, Guayaquil.",
       "options": [
         {
           "letter": "A",
-          "text": "customs",
-          "is_correct": true,
-          "feedback": "Correct! 'customs' matches the definition."
+          "text": "It explains how the bridge was built",
+          "is_correct": false,
+          "feedback": "No construction method is mentioned in the text."
         },
         {
           "letter": "B",
-          "text": "security",
+          "text": "It gives the number of workers involved",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "The population is not a figure of workers."
         },
         {
           "letter": "C",
-          "text": "terminal",
+          "text": "It proves the bridge is dangerous",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "No danger is mentioned in the text."
         },
         {
           "letter": "D",
-          "text": "gate",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "text": "It puts the cost in proportion to the size of the country",
+          "is_correct": true,
+          "feedback": "The population figure makes the expenditure meaningful as a share of national wealth."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'customs' is used to describe the place at a port, airport, or frontier where officials check incoming goods, travelers, or luggage. This is an important vocabulary word in English.\n---",
+      "correct_answer": "D",
+      "explanation": "La cifra de la poblacion convierte el costo en un dato relativo y muestra su gran impacto.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.8,
+      "bundle_id": "EC-ING-11-2026-W38-reading-detail-inference-001-MASTERY-bundle",
+      "periodo": 38,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-ING-11-2026-W38-reading-detail-inference-001-MASTERY-bundle-v7",
+      "statement": "Read the text: 'Historians disagree about the cause of the conflict.' What does 'disagree' indicate?",
+      "context": "Vocabulario academico, Cuenca.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "They all agree on the cause",
+          "is_correct": false,
+          "feedback": "That is the opposite of what 'disagree' states."
+        },
+        {
+          "letter": "B",
+          "text": "They hold different opinions",
+          "is_correct": true,
+          "feedback": "'Disagree' indicates a lack of consensus among historians."
+        },
+        {
+          "letter": "C",
+          "text": "They refuse to study the conflict",
+          "is_correct": false,
+          "feedback": "The text says they study it and simply differ in opinion."
+        },
+        {
+          "letter": "D",
+          "text": "They have no sources at all",
+          "is_correct": false,
+          "feedback": "Sources are not discussed in the text."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "'Disagree' significa no compartir la misma opinion; por eso existen varias interpretaciones.\n\n---",
       "difficulty": "6",
       "images": [],
       "tags": [],
@@ -278,38 +323,173 @@
       "country": "ec"
     },
     {
-      "id": "EC-ING-11-2026-W38-reading-detail-inference-001-MASTERY-v7",
-      "statement": "What is the English word for: \"A document provided by an airline during check-in, giving a passenger permission to board the airplane.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "id": "EC-ING-11-2026-W38-reading-detail-inference-001-MASTERY-bundle-v8",
+      "statement": "Look at the sentence: 'The factory was closed in 1998. It now houses a science museum.' What happened to the building?",
+      "context": "Cambio de funcion, Guayaquil.",
       "options": [
         {
-          "letter": "D",
-          "text": "boarding pass",
-          "is_correct": true,
-          "feedback": "Correct! 'boarding pass' matches the definition."
-        },
-        {
           "letter": "A",
-          "text": "visa",
+          "text": "It was destroyed in 1998",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "The text says the factory was closed, not destroyed."
         },
         {
           "letter": "B",
-          "text": "receipt",
+          "text": "It still produces goods",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "The text states that it now houses a museum."
         },
         {
           "letter": "C",
-          "text": "brochure",
+          "text": "It changed from industrial to educational use",
+          "is_correct": true,
+          "feedback": "'Closed' as a factory and 'now houses a museum' describe a change of function."
+        },
+        {
+          "letter": "D",
+          "text": "It was sold to another factory",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "No sale to another factory is mentioned in the text."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El edificio cambio de uso: dejo de ser fabrica y ahora alberga un museo de ciencias.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.8,
+      "bundle_id": "EC-ING-11-2026-W38-reading-detail-inference-001-MASTERY-bundle",
+      "periodo": 38,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-ING-11-2026-W38-reading-detail-inference-001-MASTERY-bundle-v9",
+      "statement": "Read the text: 'The ceremony will take place unless it rains.' What will happen if it rains?",
+      "context": "Condicionales en lectura, Quito.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "The ceremony will take place",
+          "is_correct": false,
+          "feedback": "The sentence states the opposite condition for the event to happen."
+        },
+        {
+          "letter": "B",
+          "text": "The ceremony will start late",
+          "is_correct": false,
+          "feedback": "No delay clause appears in the text."
+        },
+        {
+          "letter": "C",
+          "text": "The ceremony will not take place",
+          "is_correct": true,
+          "feedback": "'Unless' means 'if not', so rain cancels the event."
+        },
+        {
+          "letter": "D",
+          "text": "The ceremony will move indoors",
+          "is_correct": false,
+          "feedback": "That detail is not mentioned in the text."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "'Unless' equivale a 'if not', de modo que la lluvia cancelaria la ceremonia. Es uno de los puntos mas frecuentes de las pruebas de esta unidad.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.8,
+      "bundle_id": "EC-ING-11-2026-W38-reading-detail-inference-001-MASTERY-bundle",
+      "periodo": 38,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-ING-11-2026-W38-reading-detail-inference-001-MASTERY-bundle-v10",
+      "statement": "Which question best tests inference rather than explicit recall?",
+      "context": "Tipos de preguntas de comprension, Cuenca.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "What date appears in the first paragraph?",
+          "is_correct": false,
+          "feedback": "That asks for information stated explicitly."
+        },
+        {
+          "letter": "B",
+          "text": "How many words does the text contain?",
+          "is_correct": false,
+          "feedback": "That is a mechanical count, not an interpretation."
+        },
+        {
+          "letter": "C",
+          "text": "What is the title of the text?",
+          "is_correct": false,
+          "feedback": "That is retrieval of a literal element."
+        },
+        {
+          "letter": "D",
+          "text": "What can be inferred from the author's choice of examples?",
+          "is_correct": true,
+          "feedback": "It asks the reader to derive meaning beyond the literal words."
         }
       ],
       "correct_answer": "D",
-      "explanation": "The word 'boarding pass' is used to describe a document provided by an airline during check-in, giving a passenger permission to board the airplane. This is an important vocabulary word in English.\n---",
-      "difficulty": "5",
+      "explanation": "Una pregunta de inferencia exige deducir una consecuencia que el texto no enuncia de forma literal.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.8,
+      "bundle_id": "EC-ING-11-2026-W38-reading-detail-inference-001-MASTERY-bundle",
+      "periodo": 38,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-ING-11-2026-W38-reading-detail-inference-001-MASTERY-bundle-v11",
+      "statement": "Read: 'The museum opens at ten, but on Sundays it opens at noon.' When does it open on Sundays?",
+      "context": "Seguimiento de informacion, Guayaquil.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "At ten",
+          "is_correct": false,
+          "feedback": "Ten is the general opening time, overridden on Sundays."
+        },
+        {
+          "letter": "B",
+          "text": "At noon",
+          "is_correct": true,
+          "feedback": "'On Sundays it opens at noon' states the specific exception."
+        },
+        {
+          "letter": "C",
+          "text": "At midnight",
+          "is_correct": false,
+          "feedback": "No midnight opening is mentioned in the text."
+        },
+        {
+          "letter": "D",
+          "text": "It does not open on Sundays",
+          "is_correct": false,
+          "feedback": "The text says it opens at noon on Sundays."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La excepcion para los domingos aparece despues de 'but' y es la que prevalece. Conviene practicarlo con otros ejemplos antes del examen.\n\n---",
+      "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Apply",
@@ -323,37 +503,37 @@
       "country": "ec"
     },
     {
-      "id": "EC-ING-11-2026-W38-reading-detail-inference-001-MASTERY-v8",
-      "statement": "What is the English word for: \"The activity of visiting places of interest in a particular location.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "id": "EC-ING-11-2026-W38-reading-detail-inference-001-MASTERY-bundle-v12",
+      "statement": "Which word best replaces 'beneficial' in the sentence: 'Exercise is beneficial for cardiovascular health'?",
+      "context": "Sustitucion de sinonimos, Quito.",
       "options": [
         {
           "letter": "A",
-          "text": "sightseeing",
-          "is_correct": true,
-          "feedback": "Correct! 'sightseeing' matches the definition."
+          "text": "delicate",
+          "is_correct": false,
+          "feedback": "'Delicate' describes something fragile, which is not the meaning here."
         },
         {
           "letter": "B",
-          "text": "shopping",
+          "text": "distant",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "'Distant' refers to distance, not to benefit."
         },
         {
           "letter": "C",
-          "text": "hiking",
+          "text": "dormant",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "'Dormant' means inactive, the opposite sense."
         },
         {
           "letter": "D",
-          "text": "camping",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "text": "favourable",
+          "is_correct": true,
+          "feedback": "'Favourable' is a close synonym of 'beneficial' in this context."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'sightseeing' is used to describe the activity of visiting places of interest in a particular location. This is an important vocabulary word in English.\n---",
+      "correct_answer": "D",
+      "explanation": "'Beneficial' significa favorable o util; las demas opciones no expresan una idea de ventaja.\n\n---",
       "difficulty": "6",
       "images": [],
       "tags": [],
@@ -368,86 +548,41 @@
       "country": "ec"
     },
     {
-      "id": "EC-ING-11-2026-W38-reading-detail-inference-001-MASTERY-v9",
-      "statement": "What is the English word for: \"A thing that is kept as a reminder of a person, place, or event.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "id": "EC-ING-11-2026-W38-reading-detail-inference-001-MASTERY-bundle-v13",
+      "statement": "Read the text: 'Few students disagreed with the proposal, which suggests broad support.' What does this suggest?",
+      "context": "Inferencia sobre una frase, Cuenca.",
       "options": [
         {
           "letter": "A",
-          "text": "souvenir",
-          "is_correct": true,
-          "feedback": "Correct! 'souvenir' matches the definition."
+          "text": "The proposal was rejected",
+          "is_correct": false,
+          "feedback": "Rejection would require many students to disagree."
         },
         {
           "letter": "B",
-          "text": "gift",
+          "text": "Only a few students attended the vote",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Attendance is not mentioned in the text."
         },
         {
           "letter": "C",
-          "text": "award",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "D",
-          "text": "prize",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "The word 'souvenir' is used to describe a thing that is kept as a reminder of a person, place, or event. This is an important vocabulary word in English.\n---",
-      "difficulty": "5",
-      "images": [],
-      "tags": [],
-      "bloom": "Apply",
-      "expected_success": 0.8,
-      "bundle_id": "EC-ING-11-2026-W38-reading-detail-inference-001-MASTERY-bundle",
-      "periodo": 38,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ingles",
-      "grade": 11,
-      "country": "ec"
-    },
-    {
-      "id": "EC-ING-11-2026-W38-reading-detail-inference-001-MASTERY-v10",
-      "statement": "What is the English word for: \"A period of time by which something is late or postponed.\"",
-      "context": "Choose the correct English word for the given definition.",
-      "options": [
-        {
-          "letter": "B",
-          "text": "delay",
+          "text": "Most students supported the proposal",
           "is_correct": true,
-          "feedback": "Correct! 'delay' matches the definition."
-        },
-        {
-          "letter": "A",
-          "text": "cancellation",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "C",
-          "text": "departure",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Few disagreeing students implies a majority in favour."
         },
         {
           "letter": "D",
-          "text": "arrival",
+          "text": "The proposal caused an argument",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "An argument would be signalled by many disagreements, not few."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "The word 'delay' is used to describe a period of time by which something is late or postponed. This is an important vocabulary word in English.\n---",
+      "correct_answer": "C",
+      "explanation": "Que pocos estudiantes estuvieran en desacuerdo indica que la propuesta tuvo amplia aceptacion.\n\n---",
       "difficulty": "6",
       "images": [],
       "tags": [],
-      "bloom": "Apply",
+      "bloom": "Analyze",
       "expected_success": 0.8,
       "bundle_id": "EC-ING-11-2026-W38-reading-detail-inference-001-MASTERY-bundle",
       "periodo": 38,
@@ -458,128 +593,38 @@
       "country": "ec"
     },
     {
-      "id": "EC-ING-11-2026-W38-reading-detail-inference-001-MASTERY-v11",
-      "statement": "What is the English word for: \"The act of reporting one's presence and registering, typically at an airport or hotel.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "id": "EC-ING-11-2026-W38-reading-detail-inference-001-MASTERY-bundle-v14",
+      "statement": "Read the text: 'Local schools have introduced recycling bins. The city expects to cut waste by a third.' What is the main idea?",
+      "context": "Identificacion de la idea principal, Guayaquil.",
       "options": [
         {
           "letter": "A",
-          "text": "check-in",
+          "text": "A city plan aims to reduce waste through school recycling",
           "is_correct": true,
-          "feedback": "Correct! 'check-in' matches the definition."
+          "feedback": "Both sentences support this overall purpose."
         },
         {
           "letter": "B",
-          "text": "check-out",
+          "text": "Schools have more recycling bins than before",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "That is only the first detail, not the main idea."
         },
         {
           "letter": "C",
-          "text": "booking",
+          "text": "The city will build a new waste plant",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "No new plant is mentioned in the text."
         },
         {
           "letter": "D",
-          "text": "reservation",
+          "text": "Students should separate paper from glass",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "That recommendation is not stated in the text."
         }
       ],
       "correct_answer": "A",
-      "explanation": "The word 'check-in' is used to describe the act of reporting one's presence and registering, typically at an airport or hotel. This is an important vocabulary word in English.\n---",
-      "difficulty": "7",
-      "images": [],
-      "tags": [],
-      "bloom": "Apply",
-      "expected_success": 0.8,
-      "bundle_id": "EC-ING-11-2026-W38-reading-detail-inference-001-MASTERY-bundle",
-      "periodo": 38,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ingles",
-      "grade": 11,
-      "country": "ec"
-    },
-    {
-      "id": "EC-ING-11-2026-W38-reading-detail-inference-001-MASTERY-v12",
-      "statement": "What is the English word for: \"A period of rest or waiting before a further stage in a journey.\"",
-      "context": "Choose the correct English word for the given definition.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "layover",
-          "is_correct": true,
-          "feedback": "Correct! 'layover' matches the definition."
-        },
-        {
-          "letter": "B",
-          "text": "stopover",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "C",
-          "text": "transfer",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "D",
-          "text": "transit",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "The word 'layover' is used to describe a period of rest or waiting before a further stage in a journey. This is an important vocabulary word in English.\n---",
-      "difficulty": "8",
-      "images": [],
-      "tags": [],
-      "bloom": "Apply",
-      "expected_success": 0.8,
-      "bundle_id": "EC-ING-11-2026-W38-reading-detail-inference-001-MASTERY-bundle",
-      "periodo": 38,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ingles",
-      "grade": 11,
-      "country": "ec"
-    },
-    {
-      "id": "EC-ING-11-2026-W38-reading-detail-inference-001-MASTERY-v13",
-      "statement": "What is the English word for: \"A system of money in general use in a particular country.\"",
-      "context": "Choose the correct English word for the given definition.",
-      "options": [
-        {
-          "letter": "D",
-          "text": "currency",
-          "is_correct": true,
-          "feedback": "Correct! 'currency' matches the definition."
-        },
-        {
-          "letter": "A",
-          "text": "coin",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "B",
-          "text": "banknote",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "C",
-          "text": "cash",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        }
-      ],
-      "correct_answer": "D",
-      "explanation": "The word 'currency' is used to describe a system of money in general use in a particular country. This is an important vocabulary word in English.\n---",
-      "difficulty": "7",
+      "explanation": "La idea central es que el reciclaje escolar forma parte de un plan para reducir los residuos.\n\n---",
+      "difficulty": "6",
       "images": [],
       "tags": [],
       "bloom": "Analyze",
@@ -593,41 +638,221 @@
       "country": "ec"
     },
     {
-      "id": "EC-ING-11-2026-W38-reading-detail-inference-001-MASTERY-v14",
-      "statement": "What is the English word for: \"A book of information about a place designed for the use of visitors or tourists.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "id": "EC-ING-11-2026-W38-reading-detail-inference-001-MASTERY-bundle-v15",
+      "statement": "Which detail would you look for to verify the claim in the text: 'Recycling reduces landfill use by 40 percent'?",
+      "context": "Evaluacion de evidencia, Quito.",
       "options": [
         {
-          "letter": "B",
-          "text": "guidebook",
-          "is_correct": true,
-          "feedback": "Correct! 'guidebook' matches the definition."
+          "letter": "A",
+          "text": "The colour of the recycling bins",
+          "is_correct": false,
+          "feedback": "The colour has no bearing on the statistical claim."
         },
         {
-          "letter": "A",
-          "text": "map",
+          "letter": "B",
+          "text": "The names of the schools involved",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "The list of schools does not verify a statistical percentage."
         },
         {
           "letter": "C",
-          "text": "dictionary",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "text": "The source and the year of the measurement",
+          "is_correct": true,
+          "feedback": "A percentage requires a documented source and a date to be credible."
         },
         {
           "letter": "D",
-          "text": "encyclopedia",
+          "text": "The number of bins in each school",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "The bin count does not establish the landfill reduction figure."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Para verificar una cifra hace falta la fuente, la unidad de medida y el periodo de tiempo del estudio.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.8,
+      "bundle_id": "EC-ING-11-2026-W38-reading-detail-inference-001-MASTERY-bundle",
+      "periodo": 38,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-ING-11-2026-W38-reading-detail-inference-001-MASTERY-bundle-v16",
+      "statement": "Read: 'The 2019 survey found that two thirds of respondents preferred remote work.' What does 'two thirds' mean?",
+      "context": "Comprension de fracciones, Cuenca.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Two out of every three respondents",
+          "is_correct": true,
+          "feedback": "'Two thirds' expresses a proportion of two in every three."
+        },
+        {
+          "letter": "B",
+          "text": "Two respondents out of three surveyed in 2019",
+          "is_correct": false,
+          "feedback": "The sentence gives no total sample size, so this reading is not supported."
+        },
+        {
+          "letter": "C",
+          "text": "Two percent of the respondents",
+          "is_correct": false,
+          "feedback": "That would be 'two per cent', a much smaller proportion."
+        },
+        {
+          "letter": "D",
+          "text": "Three respondents out of two",
+          "is_correct": false,
+          "feedback": "The fraction is inverted in that reading."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "'Two thirds' significa dos partes de cada tres, es decir, aproximadamente el 66,7 por ciento.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.8,
+      "bundle_id": "EC-ING-11-2026-W38-reading-detail-inference-001-MASTERY-bundle",
+      "periodo": 38,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-ING-11-2026-W38-reading-detail-inference-001-MASTERY-bundle-v17",
+      "statement": "Choose the statement that best summarises the author's attitude in: 'Unfortunately, the programme was cancelled twice.'",
+      "context": "Actitud del autor, Guayaquil.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "The author considers the programme a success",
+          "is_correct": false,
+          "feedback": "That would be signalled by 'fortunately' or 'luckily'."
+        },
+        {
+          "letter": "B",
+          "text": "The author is indifferent to the cancellations",
+          "is_correct": false,
+          "feedback": "Indifference would not be marked with 'unfortunately'."
+        },
+        {
+          "letter": "C",
+          "text": "The author blames the participants",
+          "is_correct": false,
+          "feedback": "No blame is expressed in this short sentence."
+        },
+        {
+          "letter": "D",
+          "text": "The author considers the cancellations regrettable",
+          "is_correct": true,
+          "feedback": "'Unfortunately' signals the author's negative judgement."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "El adverbio 'unfortunately' revela una valoracion negativa del autor ante la cancelacion.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.8,
+      "bundle_id": "EC-ING-11-2026-W38-reading-detail-inference-001-MASTERY-bundle",
+      "periodo": 38,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-ING-11-2026-W38-reading-detail-inference-001-MASTERY-bundle-v18",
+      "statement": "Read the text: 'The results were promising, although the sample was small.' Why does the author add the second clause?",
+      "context": "Funcion del contraste en el texto, Quito.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "To introduce a limitation that qualifies the positive claim",
+          "is_correct": true,
+          "feedback": "'Although' signals a concession that weakens the praise."
+        },
+        {
+          "letter": "B",
+          "text": "To state an additional positive result",
+          "is_correct": false,
+          "feedback": "The second clause is a limitation, not a further positive finding."
+        },
+        {
+          "letter": "C",
+          "text": "To repeat the first clause in other words",
+          "is_correct": false,
+          "feedback": "The two clauses are in contrast, not in paraphrase."
+        },
+        {
+          "letter": "D",
+          "text": "To describe the method in detail",
+          "is_correct": false,
+          "feedback": "The clause only mentions the sample size briefly."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La segunda clausula matiza la valoracion positiva introduciendo una limitacion metodologica.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.8,
+      "bundle_id": "EC-ING-11-2026-W38-reading-detail-inference-001-MASTERY-bundle",
+      "periodo": 38,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-ING-11-2026-W38-reading-detail-inference-001-MASTERY-bundle-v19",
+      "statement": "Which inference is best supported by the text: 'The bus service was suspended for three months during the flood'?",
+      "context": "Inferencia Logical, Guayaquil.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "The flood lasted exactly three months",
+          "is_correct": false,
+          "feedback": "The text gives the duration of the suspension, not of the flood."
+        },
+        {
+          "letter": "B",
+          "text": "Passengers had to find alternative transport during that period",
+          "is_correct": true,
+          "feedback": "A three-month suspension necessarily displaced regular service users."
+        },
+        {
+          "letter": "C",
+          "text": "The bus service was never restored",
+          "is_correct": false,
+          "feedback": "The text does not state whether service resumed."
+        },
+        {
+          "letter": "D",
+          "text": "No other transport options existed",
+          "is_correct": false,
+          "feedback": "The text does not exclude alternatives such as trains or taxis."
         }
       ],
       "correct_answer": "B",
-      "explanation": "The word 'guidebook' is used to describe a book of information about a place designed for the use of visitors or tourists. This is an important vocabulary word in English.\n---",
-      "difficulty": "8",
+      "explanation": "La suspension durante tres meses implica que los pasajeros debieron buscar Alternatives durante ese periodo.\n\n---",
+      "difficulty": "6",
       "images": [],
       "tags": [],
-      "bloom": "Analyze",
+      "bloom": "Evaluate",
       "expected_success": 0.8,
       "bundle_id": "EC-ING-11-2026-W38-reading-detail-inference-001-MASTERY-bundle",
       "periodo": 38,
@@ -638,266 +863,41 @@
       "country": "ec"
     },
     {
-      "id": "EC-ING-11-2026-W38-reading-detail-inference-001-MASTERY-v15",
-      "statement": "What is the English word for: \"A bag with shoulder straps that allow it to be carried on one's back.\"",
-      "context": "Choose the correct English word for the given definition.",
-      "options": [
-        {
-          "letter": "D",
-          "text": "backpack",
-          "is_correct": true,
-          "feedback": "Correct! 'backpack' matches the definition."
-        },
-        {
-          "letter": "A",
-          "text": "suitcase",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "B",
-          "text": "briefcase",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "C",
-          "text": "handbag",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        }
-      ],
-      "correct_answer": "D",
-      "explanation": "The word 'backpack' is used to describe a bag with shoulder straps that allow it to be carried on one's back. This is an important vocabulary word in English.\n---",
-      "difficulty": "7",
-      "images": [],
-      "tags": [],
-      "bloom": "Analyze",
-      "expected_success": 0.8,
-      "bundle_id": "EC-ING-11-2026-W38-reading-detail-inference-001-MASTERY-bundle",
-      "periodo": 38,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ingles",
-      "grade": 11,
-      "country": "ec"
-    },
-    {
-      "id": "EC-ING-11-2026-W38-reading-detail-inference-001-MASTERY-v16",
-      "statement": "What is the English word for: \"In or to a foreign country, especially one across the sea.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "id": "EC-ING-11-2026-W38-reading-detail-inference-001-MASTERY-bundle-v20",
+      "statement": "What is the purpose of a heading in a reading text?",
+      "context": "Estrategia de lectura, Quito.",
       "options": [
         {
           "letter": "A",
-          "text": "overseas",
+          "text": "To give an idea of what the section is about",
           "is_correct": true,
-          "feedback": "Correct! 'overseas' matches the definition."
+          "feedback": "A heading works as a preview of the content."
         },
         {
           "letter": "B",
-          "text": "domestic",
+          "text": "To present the full argument with evidence",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "That is the function of the body of the text, not of a heading."
         },
         {
           "letter": "C",
-          "text": "local",
+          "text": "To list the sources consulted",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Sources appear in the bibliography, not in a heading."
         },
         {
           "letter": "D",
-          "text": "national",
+          "text": "To introduce the author of the text",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "That information belongs in a byline, not in a heading."
         }
       ],
       "correct_answer": "A",
-      "explanation": "The word 'overseas' is used to describe in or to a foreign country, especially one across the sea. This is an important vocabulary word in English.\n---",
-      "difficulty": "8",
+      "explanation": "El encabezado anticipa el tema y orienta la lectura del contenido que sigue. Este matiz se comprueba comparando con el resto de opciones.\n\n---",
+      "difficulty": "4",
       "images": [],
       "tags": [],
-      "bloom": "Analyze",
-      "expected_success": 0.8,
-      "bundle_id": "EC-ING-11-2026-W38-reading-detail-inference-001-MASTERY-bundle",
-      "periodo": 38,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ingles",
-      "grade": 11,
-      "country": "ec"
-    },
-    {
-      "id": "EC-ING-11-2026-W38-reading-detail-inference-001-MASTERY-v17",
-      "statement": "What is the English word for: \"An estimate of income and expenditure for a set period of time.\"",
-      "context": "Choose the correct English word for the given definition.",
-      "options": [
-        {
-          "letter": "B",
-          "text": "budget",
-          "is_correct": true,
-          "feedback": "Correct! 'budget' matches the definition."
-        },
-        {
-          "letter": "A",
-          "text": "expense",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "C",
-          "text": "cost",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "D",
-          "text": "price",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        }
-      ],
-      "correct_answer": "B",
-      "explanation": "The word 'budget' is used to describe an estimate of income and expenditure for a set period of time. This is an important vocabulary word in English.\n---",
-      "difficulty": "9",
-      "images": [],
-      "tags": [],
-      "bloom": "Evaluate",
-      "expected_success": 0.8,
-      "bundle_id": "EC-ING-11-2026-W38-reading-detail-inference-001-MASTERY-bundle",
-      "periodo": 38,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ingles",
-      "grade": 11,
-      "country": "ec"
-    },
-    {
-      "id": "EC-ING-11-2026-W38-reading-detail-inference-001-MASTERY-v18",
-      "statement": "What is the English word for: \"A practice or arrangement by which a company or government agency provides a guarantee of compensation for specified loss, damage, illness, or death in return for payment of a premium.\"",
-      "context": "Choose the correct English word for the given definition.",
-      "options": [
-        {
-          "letter": "D",
-          "text": "insurance",
-          "is_correct": true,
-          "feedback": "Correct! 'insurance' matches the definition."
-        },
-        {
-          "letter": "A",
-          "text": "warranty",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "B",
-          "text": "guarantee",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "C",
-          "text": "policy",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        }
-      ],
-      "correct_answer": "D",
-      "explanation": "The word 'insurance' is used to describe a practice or arrangement by which a company or government agency provides a guarantee of compensation for specified loss, damage, illness, or death in return for payment of a premium. This is an important vocabulary word in English.\n---",
-      "difficulty": "10",
-      "images": [],
-      "tags": [],
-      "bloom": "Evaluate",
-      "expected_success": 0.8,
-      "bundle_id": "EC-ING-11-2026-W38-reading-detail-inference-001-MASTERY-bundle",
-      "periodo": 38,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ingles",
-      "grade": 11,
-      "country": "ec"
-    },
-    {
-      "id": "EC-ING-11-2026-W38-reading-detail-inference-001-MASTERY-v19",
-      "statement": "What is the English word for: \"Treatment with a vaccine to produce immunity against a disease.\"",
-      "context": "Choose the correct English word for the given definition.",
-      "options": [
-        {
-          "letter": "D",
-          "text": "vaccination",
-          "is_correct": true,
-          "feedback": "Correct! 'vaccination' matches the definition."
-        },
-        {
-          "letter": "A",
-          "text": "medication",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "B",
-          "text": "prescription",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "C",
-          "text": "infection",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        }
-      ],
-      "correct_answer": "D",
-      "explanation": "The word 'vaccination' is used to describe treatment with a vaccine to produce immunity against a disease. This is an important vocabulary word in English.\n---",
-      "difficulty": "9",
-      "images": [],
-      "tags": [],
-      "bloom": "Evaluate",
-      "expected_success": 0.8,
-      "bundle_id": "EC-ING-11-2026-W38-reading-detail-inference-001-MASTERY-bundle",
-      "periodo": 38,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ingles",
-      "grade": 11,
-      "country": "ec"
-    },
-    {
-      "id": "EC-ING-11-2026-W38-reading-detail-inference-001-MASTERY-v20",
-      "statement": "What is the English word for: \"Extreme tiredness and other physical effects felt by a person after a long flight across several time zones.\"",
-      "context": "Choose the correct English word for the given definition.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "jet lag",
-          "is_correct": true,
-          "feedback": "Correct! 'jet lag' matches the definition."
-        },
-        {
-          "letter": "B",
-          "text": "fatigue",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "C",
-          "text": "exhaustion",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "D",
-          "text": "insomnia",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "The word 'jet lag' is used to describe extreme tiredness and other physical effects felt by a person after a long flight across several time zones. This is an important vocabulary word in English.",
-      "difficulty": "10",
-      "images": [],
-      "tags": [],
-      "bloom": "Evaluate",
+      "bloom": "Understand",
       "expected_success": 0.8,
       "bundle_id": "EC-ING-11-2026-W38-reading-detail-inference-001-MASTERY-bundle",
       "periodo": 38,

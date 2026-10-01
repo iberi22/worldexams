@@ -196,25 +196,25 @@
           "letter": "B",
           "text": "Monomio",
           "is_correct": false,
-          "feedback": "Incorrecto. Tiene 3 términos."
+          "feedback": "Un monomio tiene un solo término, y aquí hay tres: $x^2$, $-5x$ y $6$."
         },
         {
           "letter": "C",
           "text": "Binomio",
           "is_correct": false,
-          "feedback": "Incorrecto. Tiene 3 términos."
+          "feedback": "Un binomio tiene dos términos, y aquí hay tres sumandos con exponentes distintos."
         },
         {
           "letter": "A",
           "text": "Trinomio",
           "is_correct": true,
-          "feedback": "Correcto. Polinomio de exactamente tres términos."
+          "feedback": "Un trinomio tiene exactamente tres términos, y $x^2$, $-5x$ y $6$ son los tres."
         },
         {
           "letter": "D",
           "text": "Grado 1",
           "is_correct": false,
-          "feedback": "Incorrecto. Es grado 2."
+          "feedback": "El grado es 2 porque el mayor exponente es el 2; el 1 corresponde a un polinomio lineal."
         }
       ],
       "correct_answer": "A",

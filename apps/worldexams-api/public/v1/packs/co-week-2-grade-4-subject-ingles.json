@@ -16,25 +16,25 @@
           "letter": "A",
           "text": "Ten",
           "is_correct": true,
-          "feedback": "Correct!"
+          "feedback": "Ten is the English word for the numeral 10."
         },
         {
           "letter": "B",
           "text": "Two",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "'Two' is the word for 2, not for 10."
         },
         {
           "letter": "C",
           "text": "Twelve",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "'Twelve' is the word for 12, one more than ten."
         },
         {
           "letter": "D",
           "text": "Twenty",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "'Twenty' is the word for 20, which is 10 more than ten."
         }
       ],
       "correct_answer": "A",
@@ -62,25 +62,25 @@
           "letter": "A",
           "text": "Nine",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "5 + 5 is not nine; the two numbers must be added, and 5 plus 5 is 10."
         },
         {
           "letter": "B",
           "text": "Ten",
           "is_correct": true,
-          "feedback": "Correct!"
+          "feedback": "5 + 5 = 10, so the sum is 'Ten'."
         },
         {
           "letter": "C",
           "text": "Six",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "'Six' is not the result of adding 5 and 5; adding them gives ten."
         },
         {
           "letter": "D",
           "text": "Eleven",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "'Eleven' is 10 + 1, but nothing adds one more to the 5s."
         }
       ],
       "correct_answer": "B",
@@ -108,25 +108,25 @@
           "letter": "A",
           "text": "Thirty",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "'Thirty' is ten more than nineteen, but the number immediately after 19 is 20."
         },
         {
           "letter": "B",
           "text": "Twelve",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "'Twelve' is smaller than nineteen, so it cannot come after it."
         },
         {
           "letter": "C",
           "text": "Twenty",
           "is_correct": true,
-          "feedback": "Correct!"
+          "feedback": "Counting on from nineteen (19) gives twenty (20), the next multiple of ten."
         },
         {
           "letter": "D",
           "text": "Eighteen",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "'Eighteen' is the number before nineteen, not the one after it."
         }
       ],
       "correct_answer": "C",
@@ -154,25 +154,25 @@
           "letter": "A",
           "text": "Fifteen",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "'Fifteen' is the number 15, not 50."
         },
         {
           "letter": "B",
           "text": "Five",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "'Five' is the number 5, not 50."
         },
         {
           "letter": "C",
           "text": "Five-zero",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "'Five-zero' is how you read a telephone number, such as 5-0-0; 50 is fifty."
         },
         {
           "letter": "D",
           "text": "Fifty",
           "is_correct": true,
-          "feedback": "Correct!"
+          "feedback": "Fifty is 50: five tens, written 50 without a hyphen."
         }
       ],
       "correct_answer": "D",
@@ -200,25 +200,25 @@
           "letter": "A",
           "text": "100",
           "is_correct": true,
-          "feedback": "Correct!"
+          "feedback": "One hundred is written 100: a 1 followed by two zeros."
         },
         {
           "letter": "B",
           "text": "10",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "10 is ten, not one hundred."
         },
         {
           "letter": "C",
           "text": "1000",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "1000 is one thousand, which has three zeros."
         },
         {
           "letter": "D",
           "text": "1",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "1 is just one, not one hundred."
         }
       ],
       "correct_answer": "A",
@@ -246,25 +246,25 @@
           "letter": "A",
           "text": "Fifty",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "'Fifty' is ten more than forty-three, so it comes after, not between."
         },
         {
           "letter": "B",
           "text": "Forty-two",
           "is_correct": true,
-          "feedback": "Correct!"
+          "feedback": "Forty-two sits exactly between forty-one and forty-three."
         },
         {
           "letter": "C",
           "text": "Forty",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "'Forty' comes before forty-one, so it cannot be in the middle."
         },
         {
           "letter": "D",
           "text": "Forty-four",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "'Forty-four' is greater than forty-three, so it comes after the pair."
         }
       ],
       "correct_answer": "B",
@@ -292,25 +292,25 @@
           "letter": "A",
           "text": "Forty-one",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "'Forty-one' is not a round ten, and the series counts by tens."
         },
         {
           "letter": "B",
           "text": "Seventy",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "'Seventy' skips past the missing term; sixty follows the gap."
         },
         {
           "letter": "C",
           "text": "Fifty",
           "is_correct": true,
-          "feedback": "Correct!"
+          "feedback": "The series counts 20, 30, 40, then 50, then 60, so the missing number is fifty."
         },
         {
           "letter": "D",
           "text": "Ten",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "'Ten' is far below the series; each term is ten more than the last."
         }
       ],
       "correct_answer": "C",
@@ -338,25 +338,25 @@
           "letter": "A",
           "text": "Eighty-nine",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "Eighty-nine is 100 minus 11, not the result of 100 minus 1."
         },
         {
           "letter": "B",
           "text": "Ninety-one",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "Ninety-one is 100 minus 9, not 100 minus 1."
         },
         {
           "letter": "C",
           "text": "One hundred",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "'One hundred' would be the answer if nothing were being subtracted."
         },
         {
           "letter": "D",
           "text": "Ninety-nine",
           "is_correct": true,
-          "feedback": "Correct!"
+          "feedback": "100 minus 1 leaves 99, which is written 'ninety-nine'."
         }
       ],
       "correct_answer": "D",

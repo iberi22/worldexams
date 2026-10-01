@@ -556,25 +556,25 @@
           "letter": "B",
           "text": "$10$ m",
           "is_correct": false,
-          "feedback": "Incorrecto."
+          "feedback": "El $10$ m sale de tomar la mitad de los $20$ m, pero en un ángulo de $45^\\circ$ los catetos son iguales."
         },
         {
           "letter": "A",
           "text": "$20$ m",
           "is_correct": true,
-          "feedback": "Correcto. Para $45^\\circ$, el opuesto es igual al adyacente."
+          "feedback": "Como $\\tan 45^\\circ = 1$, el cateto opuesto es igual al adyacente, así que la altura del árbol es $20$ m."
         },
         {
           "letter": "C",
           "text": "$20\\sqrt{2}$ m",
           "is_correct": false,
-          "feedback": "Esta sería la distancia visual (hipotenusa), no la altura."
+          "feedback": "El $20\\sqrt{2}$ m es la hipotenusa, o sea la distancia visual desde el observador, no la altura."
         },
         {
           "letter": "D",
           "text": "$14.14$ m",
           "is_correct": false,
-          "feedback": "Valor incorrecto para la relación de catetos en un triángulo de $45^\\circ$."
+          "feedback": "El $14.14$ m corresponde a $\\tan 35^\\circ$, no a un ángulo de $45^\\circ$."
         }
       ],
       "correct_answer": "A",
@@ -601,25 +601,25 @@
           "letter": "A",
           "text": "$0$",
           "is_correct": false,
-          "feedback": "Incorrecto."
+          "feedback": "La suma de cuadrados de seno y coseno vale $1$, nunca $0$; $0$ sólo saldría de $\\sin \\theta = \\cos \\theta = 0$, lo cual es imposible."
         },
         {
           "letter": "B",
           "text": "$1$",
           "is_correct": true,
-          "feedback": "Correcto. Según la identidad pitagórica fundamental $\\sin^2\\theta + \\cos^2\\theta = 1$ para cualquier ángulo."
+          "feedback": "Por la identidad fundamental $\\sin^2\\theta + \\cos^2\\theta = 1$, sin importar el valor de $\\theta$."
         },
         {
           "letter": "C",
           "text": "$\\tan^2(35^\\circ)$",
           "is_correct": false,
-          "feedback": "Incorrecto."
+          "feedback": "$\\tan^2\\theta$ no es constante: para $\\theta = 35^\\circ$ vale aproximadamente $0.49$, y para $\\theta = 0$ vale $0$."
         },
         {
           "letter": "D",
           "text": "$2$",
           "is_correct": false,
-          "feedback": "Incorrecto."
+          "feedback": "El $2$ saldría de sumar los dos términos sin normalizarlos, pero los valores van de $0$ a $1$ y su suma es $1$."
         }
       ],
       "correct_answer": "B",
@@ -691,25 +691,25 @@
           "letter": "B",
           "text": "$14.56$ m",
           "is_correct": false,
-          "feedback": "Multiplicaste en lugar de dividir. La distancia debe ser mayor que la altura para un ángulo de $20^\\circ$."
+          "feedback": "El $14.56$ m resulta de multiplicar $40 \\times 0.364$, pero como $\\tan 20^\\circ < 1$ la distancia horizontal debe ser mayor que la altura."
         },
         {
           "letter": "A",
           "text": "$109.89$ m",
           "is_correct": true,
-          "feedback": "Correcto. Distancia = Altura / $\\tan(20^\\circ) = 40 / 0.364 \\approx 109.89$."
+          "feedback": "En el triángulo rectángulo, $\\tan 20^\\circ = \\frac{40}{d}$, de donde $d = \\frac{40}{0.364} \\approx 109.89$ m."
         },
         {
           "letter": "C",
           "text": "$80.20$ m",
           "is_correct": false,
-          "feedback": "Error aritmético en la división."
+          "feedback": "Los $80.20$ m salen de una división mal calculada; $40 / 0.364$ no da ese resultado."
         },
         {
           "letter": "D",
           "text": "$42.50$ m",
           "is_correct": false,
-          "feedback": "Incorrecto."
+          "feedback": "Los $42.50$ m no salen de $\\frac{40}{0.364}$, que es la operación que impone el enunciado."
         }
       ],
       "correct_answer": "A",
@@ -736,25 +736,25 @@
           "letter": "A",
           "text": "$30$ m",
           "is_correct": false,
-          "feedback": "La hipotenusa debe ser el lado más largo."
+          "feedback": "En un triángulo rectángulo la hipotenusa es siempre el lado mayor, así que no puede medir lo mismo que un cateto de $30$ m."
         },
         {
           "letter": "C",
           "text": "$60$ m",
           "is_correct": true,
-          "feedback": "Correcto. $\\sin(30^\\circ) = 30 / \\text{Hipotenusa} \\Rightarrow 0.5 = 30 / \\text{Hip} \\Rightarrow \\text{Hip} = 60$."
+          "feedback": "El ángulo de Riga basta: $\\sin 30^\\circ = \\frac{30}{H}$, luego $0.5 = 30/H$ y $H = 60$ m."
         },
         {
           "letter": "B",
           "text": "$30\\sqrt{3}$ m",
           "is_correct": false,
-          "feedback": "Esta es la distancia horizontal por el suelo."
+          "feedback": "El $30\\sqrt{3}$ m es el cateto horizontal sobre el suelo, calculado como $30 / \\tan 30^\\circ$."
         },
         {
           "letter": "D",
           "text": "$45$ m",
           "is_correct": false,
-          "feedback": "Incorrecto."
+          "feedback": "Los $45$ m no salen de $\\frac{30}{\\sin 30^\\circ}$, que da $60$ m."
         }
       ],
       "correct_answer": "C",
@@ -826,25 +826,25 @@
           "letter": "D",
           "text": "$30^\\circ$",
           "is_correct": true,
-          "feedback": "Correcto. $\\tan(\\theta) = 2 / (2\\sqrt{3}) = 1/\\sqrt{3}$. El ángulo cuya tangente es $1/\\sqrt{3}$ es $30^\\circ$."
+          "feedback": "$\\tan \\theta = \\frac{2}{2\\sqrt{3}} = \\frac{1}{\\sqrt{3}}$, y el ángulo cuya tangente es $\\frac{1}{\\sqrt{3}}$ mide $30^\\circ$."
         },
         {
           "letter": "A",
           "text": "$60^\\circ$",
           "is_correct": false,
-          "feedback": "Para $60^\\circ$, la sombra debería ser más corta que la altura ($2/\\sqrt{3}$)."
+          "feedback": "Para $60^\\circ$ la sombra tendría que medir $\\frac{2}{\\sqrt{3}}$ m, y aquí mide más que la altura."
         },
         {
           "letter": "B",
           "text": "$45^\\circ$",
           "is_correct": false,
-          "feedback": "Para $45^\\circ$, la sombra y la altura deben ser iguales."
+          "feedback": "Para $45^\\circ$ la sombra y la altura serían iguales, y aquí la sombra es mayor que el poste."
         },
         {
           "letter": "C",
           "text": "$15^\\circ$",
           "is_correct": false,
-          "feedback": "Incorrecto."
+          "feedback": "El $15^\\circ$ corresponde a una tangente de unos $0.27$, mientras que aquí la razón es $0.577$."
         }
       ],
       "correct_answer": "D",

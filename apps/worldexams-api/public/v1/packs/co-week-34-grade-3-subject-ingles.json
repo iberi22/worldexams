@@ -16,25 +16,25 @@
           "letter": "D",
           "text": "soccer",
           "is_correct": true,
-          "feedback": "soccer es el deporte en el que se patea un balon y se busca anotar en una porteria."
+          "feedback": "Soccer is the sport in which a ball is kicked and you try to score in a goal."
         },
         {
           "letter": "A",
           "text": "basketball",
           "is_correct": false,
-          "feedback": "en basketball el balon se introduce con las manos y la canasta esta en alto, no en una porteria."
+          "feedback": "In basketball the ball goes in with the hands and the hoop is up high, not in a goal."
         },
         {
           "letter": "B",
           "text": "swimming",
           "is_correct": false,
-          "feedback": "en natacion el jugador se desplaza en el agua y no existe ningun goal donde anotar."
+          "feedback": "In swimming the player moves through the water and there is no goal to score in."
         },
         {
           "letter": "C",
           "text": "tennis",
           "is_correct": false,
-          "feedback": "en tenis la pelota se golpea con una raqueta y el punto no se marca en una porteria."
+          "feedback": "In tennis the ball is hit with a racket and the point is not scored in a goal."
         }
       ],
       "correct_answer": "D",
@@ -55,32 +55,32 @@
     },
     {
       "id": "CO-ING-3-2026-W34-sports-001-MASTERY-bundle-v2",
-      "statement": "Which sentence is correct?",
+      "statement": "Which sentence correctly pairs the sport with the place where it is played?",
       "context": "Ejercicio de emparejamiento de deportes con el lugar donde se practican.",
       "options": [
         {
           "letter": "A",
           "text": "We swim in the swimming pool.",
           "is_correct": false,
-          "feedback": "la frase es correcta, pero el enunciado ya dice que el estudiante juega soccer, y esta opcion cambia el deporte."
+          "feedback": "Swimming in a pool is a correct pairing in itself, but it is swimming and not basketball, so it does not match the sport the prompt is asking about."
         },
         {
           "letter": "D",
           "text": "We play basketball on the court.",
           "is_correct": true,
-          "feedback": "basketball se juega en la cancha, y on the court es la combinacion que usan los estudiantes en ingles."
+          "feedback": "Basketball is played on a court, and on the court is the combination students use in English."
         },
         {
           "letter": "B",
           "text": "We play soccer in the swimming pool.",
           "is_correct": false,
-          "feedback": "soccer se juega en un campo de futbol, no en una piscina, aunque las dos palabras sean reales."
+          "feedback": "Soccer is played on a football pitch, not in a swimming pool, even though both words are real."
         },
         {
           "letter": "C",
           "text": "We play tennis in the ring.",
           "is_correct": false,
-          "feedback": "el tenis se juega en una cancha y con una raqueta; the ring no es ningun espacio de juego."
+          "feedback": "Tennis is played on a court and with a racket; the ring is not a playing space at all."
         }
       ],
       "correct_answer": "D",
@@ -108,25 +108,25 @@
           "letter": "A",
           "text": "Because she wants to win a race",
           "is_correct": false,
-          "feedback": "el texto no menciona ninguna carrera ni querer ganar una competencia."
+          "feedback": "The text does not mention a race or wanting to win a competition."
         },
         {
           "letter": "B",
           "text": "Because she likes the pool",
           "is_correct": false,
-          "feedback": "el texto no habla de la piscina ni de que le guste el lugar donde nada."
+          "feedback": "The text does not talk about the pool or about liking the place where she swims."
         },
         {
           "letter": "C",
           "text": "Because she wants to be healthy",
           "is_correct": true,
-          "feedback": "la segunda parte del texto dice literalmente que ella quiere estar sana."
+          "feedback": "The second part of the text says literally that she wants to be healthy."
         },
         {
           "letter": "D",
           "text": "Because her friends swim with her",
           "is_correct": false,
-          "feedback": "no se menciona a ningun amigo ni a la compania en el enunciado."
+          "feedback": "No friend or company is mentioned in the sentence."
         }
       ],
       "correct_answer": "C",
@@ -154,25 +154,25 @@
           "letter": "B",
           "text": "Do you like ice cream?",
           "is_correct": false,
-          "feedback": "la pregunta es sobre comida y no tiene relacion con los deportes ni con los equipos."
+          "feedback": "That question is about food and has nothing to do with sports or teams."
         },
         {
           "letter": "A",
           "text": "Do you play on a team?",
           "is_correct": true,
-          "feedback": "on a team define un deporte de equipo, y esa pregunta identifica exactamente la caracteristica buscada."
+          "feedback": "On a team defines a team sport, and that question identifies exactly the feature being looked for."
         },
         {
           "letter": "C",
           "text": "Is your bedroom big?",
           "is_correct": false,
-          "feedback": "la pregunta trata sobre la casa del estudiante y no sobre la practica deportiva."
+          "feedback": "That question is about the student's house and not about sporting practice."
         },
         {
           "letter": "D",
           "text": "How old is your brother?",
           "is_correct": false,
-          "feedback": "esa pregunta pide la edad de un familiar y no permite saber nada sobre el deporte."
+          "feedback": "That question asks for the age of a relative and gives no information at all about the sport."
         }
       ],
       "correct_answer": "A",
@@ -200,25 +200,25 @@
           "letter": "A",
           "text": "A ball",
           "is_correct": true,
-          "feedback": "el balon es el objeto que se patea en el futbol, que es exactamente lo que pide el enunciado."
+          "feedback": "The ball is the object that is kicked in football, which is exactly what the sentence asks for."
         },
         {
           "letter": "B",
           "text": "A racket",
           "is_correct": false,
-          "feedback": "la raqueta se usa en tenis y en badmin, y no tiene ninguna funcion en el futbol."
+          "feedback": "The racket is used in tennis and badminton, and it has no function in football."
         },
         {
           "letter": "C",
           "text": "A net",
           "is_correct": false,
-          "feedback": "la red se coloca en la valla o en el campo, pero no es el objeto que el jugador golpea."
+          "feedback": "The net is placed on the goal or across the pitch, but it is not the object the player hits."
         },
         {
           "letter": "D",
           "text": "A bat",
           "is_correct": false,
-          "feedback": "el bate pertenece a beisbol y a softball, deportes en los que se golpea con las manos."
+          "feedback": "The bat belongs to baseball and softball, sports in which the ball is hit with the hands."
         }
       ],
       "correct_answer": "A",
@@ -246,25 +246,25 @@
           "letter": "A",
           "text": "comes",
           "is_correct": false,
-          "feedback": "comes concuerda con un sujeto en tercera persona, y el enunciado se dirige a los estudiantes."
+          "feedback": "comes agrees with a third person subject, and the sentence is addressed to the students."
         },
         {
           "letter": "B",
           "text": "come",
           "is_correct": true,
-          "feedback": "come es la forma del presente que concuerda con el grupo de estudiantes al que el docente se dirige."
+          "feedback": "come is the present form that agrees with the group of students the teacher is addressing."
         },
         {
           "letter": "C",
           "text": "coming",
           "is_correct": false,
-          "feedback": "coming es la forma en -ing y necesita un verbo auxiliar delante, como is coming."
+          "feedback": "coming is the -ing form and needs an auxiliary verb in front of it, like is coming."
         },
         {
           "letter": "D",
           "text": "to came",
           "is_correct": false,
-          "feedback": "el verbo to come es irregular y su pasado es came, pero el enunciado esta en presente."
+          "feedback": "The verb to come is irregular and its past is came, but the sentence is in the present."
         }
       ],
       "correct_answer": "B",
@@ -292,25 +292,25 @@
           "letter": "A",
           "text": "Getting good grades",
           "is_correct": false,
-          "feedback": "el texto no menciona calificaciones ni el rendimiento escolar."
+          "feedback": "The text does not mention grades or school performance."
         },
         {
           "letter": "B",
           "text": "Staying strong and feeling happy",
           "is_correct": true,
-          "feedback": "el texto nombra exactamente esos dos beneficios, fuerte y feliz."
+          "feedback": "The text names exactly those two benefits, strong and happy."
         },
         {
           "letter": "C",
           "text": "Making new friends",
           "is_correct": false,
-          "feedback": "no se habla de amistades ni de relaciones sociales en el texto."
+          "feedback": "The text does not talk about friendships or social relationships."
         },
         {
           "letter": "D",
           "text": "Learning to swim fast",
           "is_correct": false,
-          "feedback": "la natacion no aparece en el texto, que habla de los deportes en general."
+          "feedback": "Swimming does not appear in the text, which talks about sports in general."
         }
       ],
       "correct_answer": "B",
@@ -338,25 +338,25 @@
           "letter": "A",
           "text": "I play basketball.",
           "is_correct": false,
-          "feedback": "esa respuesta nombra un deporte distinto del que el enunciado asigna al estudiante."
+          "feedback": "That answer names a sport different from the one the prompt gives to the student."
         },
         {
           "letter": "B",
           "text": "I like sports very much.",
           "is_correct": false,
-          "feedback": "esa frase muestra una opinion general y no identifica ningun deporte concreto."
+          "feedback": "That sentence shows a general opinion and does not identify any specific sport."
         },
         {
           "letter": "D",
           "text": "I go swimming on Mondays.",
           "is_correct": false,
-          "feedback": "esa respuesta incluye un dia y un deporte que no coinciden con los sabados ni con el futbol."
+          "feedback": "That answer includes a day and a sport that do not match Saturdays or football."
         },
         {
           "letter": "C",
           "text": "I play soccer on Saturdays.",
           "is_correct": true,
-          "feedback": "la respuesta repite el deporte y el dia del enunciado, que es la forma de presentar la informacion completa."
+          "feedback": "The answer repeats the sport and the day from the prompt, which is how to present the complete information."
         }
       ],
       "correct_answer": "C",

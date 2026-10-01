@@ -154,7 +154,7 @@
           "letter": "A",
           "text": "are / wouldn't give",
           "is_correct": false,
-          "feedback": "Mixed conditional, possible but B is for past-to-past."
+          "feedback": "'Are ... wouldn't give' is a mixed conditional; it would describe a habit that still holds, not the specific past mistake being recounted."
         },
         {
           "letter": "B",
@@ -166,13 +166,13 @@
           "letter": "C",
           "text": "were / won't give",
           "is_correct": false,
-          "feedback": "Incorrect."
+          "feedback": "'Were ... won't give' mixes a hypothetical past with a future consequence, so the two halves belong to different conditionals."
         },
         {
           "letter": "D",
           "text": "are / don't give",
           "is_correct": false,
-          "feedback": "Zero Conditional (general truth)."
+          "feedback": "'Are ... don't give' is the zero conditional for a general truth, which loses the past event the sentence describes."
         }
       ],
       "correct_answer": "B",
@@ -246,7 +246,7 @@
           "letter": "A",
           "text": "will be / used",
           "is_correct": false,
-          "feedback": "Incorrect tense."
+          "feedback": "'Will be' states the theft as a certainty, but the sentence warns about a risk that may or may not happen."
         },
         {
           "letter": "C",
@@ -258,13 +258,13 @@
           "letter": "B",
           "text": "was / used",
           "is_correct": false,
-          "feedback": "Incorrect tense."
+          "feedback": "'Was' points to a completed past event and 'used' is past tense, so the sentence would describe something that already happened rather than a general risk."
         },
         {
           "letter": "D",
           "text": "would be / use",
           "is_correct": false,
-          "feedback": "Incorrect."
+          "feedback": "'Would be' belongs to the second conditional for a hypothetical case, not to a general warning about behaviour that could happen to anyone."
         }
       ],
       "correct_answer": "C",
@@ -292,7 +292,7 @@
           "letter": "A",
           "text": "looked up / click",
           "is_correct": false,
-          "feedback": "Incorrect meaning."
+          "feedback": "'Looked up' means to consult a reference or check a definition, not to examine a message from end to end."
         },
         {
           "letter": "B",
@@ -304,13 +304,13 @@
           "letter": "C",
           "text": "broke into / look after",
           "is_correct": false,
-          "feedback": "Incorrect."
+          "feedback": "'Broke into' means to enter a place or system illegally, and 'look after' means to care for someone, so neither fits either blank."
         },
         {
           "letter": "D",
           "text": "set up / log on",
           "is_correct": false,
-          "feedback": "Incorrect."
+          "feedback": "'Set up' means to arrange or install something, and 'log on' is to sign in with a password, so the pair does not describe examining an email."
         }
       ],
       "correct_answer": "B",
@@ -338,7 +338,7 @@
           "letter": "B",
           "text": "set off / let",
           "is_correct": false,
-          "feedback": "Incorrect."
+          "feedback": "'Set off' means to set something alight or to start a journey, and 'let' would permit the hackers rather than stop them."
         },
         {
           "letter": "A",
@@ -350,13 +350,13 @@
           "letter": "C",
           "text": "brought up / stop",
           "is_correct": false,
-          "feedback": "Incorrect."
+          "feedback": "'Brought up' means to raise a topic, and 'stop' is too general for the specific function of a firewall."
         },
         {
           "letter": "D",
           "text": "broke down / prevent",
           "is_correct": false,
-          "feedback": "Incorrect."
+          "feedback": "'Broke down' means to stop working or to fall apart, the opposite of installing something that is meant to protect the server."
         }
       ],
       "correct_answer": "A",
@@ -384,7 +384,7 @@
           "letter": "A",
           "text": "implement / would remain",
           "is_correct": false,
-          "feedback": "Incorrect."
+          "feedback": "'Would remain' is the second conditional for a hypothetical, whereas 'unless' here introduces a condition that is expected to hold."
         },
         {
           "letter": "D",
@@ -396,13 +396,13 @@
           "letter": "B",
           "text": "implemented / will remain",
           "is_correct": false,
-          "feedback": "Incorrect tense."
+          "feedback": "'Implemented' is past tense, so it would say the company already installed it rather than stating the ongoing requirement."
         },
         {
           "letter": "C",
           "text": "had implemented / remained",
           "is_correct": false,
-          "feedback": "Incorrect."
+          "feedback": "'Had implemented ... remained' is a past-to-past pair that fits the third conditional, not an 'unless' clause about current practice."
         }
       ],
       "correct_answer": "D",
@@ -436,19 +436,19 @@
           "letter": "A",
           "text": "use / will",
           "is_correct": false,
-          "feedback": "Incorrect syntax for 'Only by'."
+          "feedback": "'Only by' is followed by a gerund, since 'by' takes a noun or an -ing form, so the bare 'use' is wrong."
         },
         {
           "letter": "B",
           "text": "using / -",
           "is_correct": false,
-          "feedback": "Missing auxiliary for inversion."
+          "feedback": "With 'only' first, the subject and auxiliary have to invert, so the clause cannot end without an auxiliary such as 'can'."
         },
         {
           "letter": "C",
           "text": "used / did",
           "is_correct": false,
-          "feedback": "Incorrect."
+          "feedback": "'Used' is a past participle and 'did' would be needed for an inversion of the past, which is not the form this sentence requires."
         }
       ],
       "correct_answer": "D",
@@ -476,7 +476,7 @@
           "letter": "A",
           "text": "must not leave",
           "is_correct": false,
-          "feedback": "Incorrect tense."
+          "feedback": "'Must not leave' can only describe a rule for the present or future, so it cannot criticise the past act described in the sentence."
         },
         {
           "letter": "B",
@@ -494,7 +494,7 @@
           "letter": "D",
           "text": "might not have left",
           "is_correct": false,
-          "feedback": "Incorrect meaning."
+          "feedback": "'Might not have left' leaves open the possibility that he did not leave his computer unattended, which contradicts the semicolon clause that states it happened."
         }
       ],
       "correct_answer": "C",
@@ -522,7 +522,7 @@
           "letter": "A",
           "text": "was / wouldn't suffer",
           "is_correct": false,
-          "feedback": "Second conditional."
+          "feedback": "'Was ... wouldn't suffer' is the second conditional for a hypothetical in the past, but the sentence describes a consequence that is still going on today."
         },
         {
           "letter": "C",
@@ -534,13 +534,13 @@
           "letter": "B",
           "text": "had been / wouldn't have suffered",
           "is_correct": false,
-          "feedback": "Third conditional (Past result)."
+          "feedback": "'Wouldn't have suffered' closes the third conditional with a finished past result, whereas the damage here is an ongoing present condition."
         },
         {
           "letter": "D",
           "text": "were / didn't suffer",
           "is_correct": false,
-          "feedback": "Incorrect."
+          "feedback": "'Were ... didn't suffer' is a second conditional with a negative result and does not convey a situation that is still ongoing."
         }
       ],
       "correct_answer": "C",

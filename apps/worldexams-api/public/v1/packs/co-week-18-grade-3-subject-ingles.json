@@ -9,41 +9,41 @@
   "questions": [
     {
       "id": "CO-ING-3-2026-W18-fruits-vegetables-001-MASTERY-bundle-v1",
-      "statement": "What is the English word for: \"A place where you live or stay on holiday.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Which word is a fruit?",
+      "context": "Clase de ingles de tercer grado en la que los estudiantes observan una bandeja de frutas.",
       "options": [
         {
-          "letter": "D",
-          "text": "accommodation",
-          "is_correct": true,
-          "feedback": "Correct! 'accommodation' matches the definition."
-        },
-        {
           "letter": "A",
-          "text": "transportation",
+          "text": "carrot",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "A carrot is a root vegetable that grows underground, so it is not a fruit."
         },
         {
           "letter": "B",
-          "text": "entertainment",
+          "text": "potato",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "A potato is a tuber and belongs to the group of vegetables."
+        },
+        {
+          "letter": "D",
+          "text": "banana",
+          "is_correct": true,
+          "feedback": "A banana grows on a plant and is the fruit of that plant, so it is a fruit."
         },
         {
           "letter": "C",
-          "text": "currency",
+          "text": "onion",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "An onion is a bulb vegetable and does not belong with the fruits."
         }
       ],
       "correct_answer": "D",
-      "explanation": "The word 'accommodation' is used to describe a place where you live or stay on holiday. This is an important vocabulary word in English.\n---",
+      "explanation": "La distincion entre fruta y vegetal se apoya en la parte de la planta que se come. Las frutas son el fruto y crecen sobre la planta, mientras que los vegetales incluyen raices, tuberculos, hojas y tallos. Esa regla botanica sencilla resuelve la clasificacion.",
       "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Remember",
-      "icfes_type": "Lexico",
+      "icfes_type": "Uso de la lengua",
       "expected_success": 0.8,
       "bundle_id": "CO-ING-3-2026-W18-fruits-vegetables-001-MASTERY-bundle",
       "periodo": 18,
@@ -55,41 +55,41 @@
     },
     {
       "id": "CO-ING-3-2026-W18-fruits-vegetables-001-MASTERY-bundle-v2",
-      "statement": "What is the English word for: \"A detailed plan or route of a journey.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Choose the category where you would find a tomato.",
+      "context": "Ejercicio de compra simulada en la tienda del barrio.",
       "options": [
         {
-          "letter": "B",
-          "text": "itinerary",
-          "is_correct": true,
-          "feedback": "Correct! 'itinerary' matches the definition."
-        },
-        {
           "letter": "A",
-          "text": "baggage",
+          "text": "The fruit section",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "C",
-          "text": "destination",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "In this unit the tomato is classified as a vegetable and not as a fruit."
         },
         {
           "letter": "D",
-          "text": "passport",
+          "text": "The vegetable section",
+          "is_correct": true,
+          "feedback": "The tomato is studied here as a vegetable because its edible part is the botanical fruit but it is eaten as a vegetable."
+        },
+        {
+          "letter": "B",
+          "text": "The meat section",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "The meat section does not include any product of plant origin."
+        },
+        {
+          "letter": "C",
+          "text": "The bread section",
+          "is_correct": false,
+          "feedback": "Bread and flour have nothing to do with a tomato."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "The word 'itinerary' is used to describe a detailed plan or route of a journey. This is an important vocabulary word in English.\n---",
+      "correct_answer": "D",
+      "explanation": "Algunas palabras cruzan el limite entre fruta y vegetal segun el uso culinario. El tomate es el ejemplo clasico: botanicamente es un fruto, pero en la cocina y en esta unidad se trata como vegetal.",
       "difficulty": "4",
       "images": [],
       "tags": [],
-      "bloom": "Understand",
-      "icfes_type": "Lexico",
+      "bloom": "Apply",
+      "icfes_type": "Uso de la lengua",
       "expected_success": 0.8,
       "bundle_id": "CO-ING-3-2026-W18-fruits-vegetables-001-MASTERY-bundle",
       "periodo": 18,
@@ -101,42 +101,42 @@
     },
     {
       "id": "CO-ING-3-2026-W18-fruits-vegetables-001-MASTERY-bundle-v3",
-      "statement": "What is the English word for: \"The place to which someone or something is going or being sent.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Read: \"Marco eats bananas and oranges, but he does not eat vegetables.\" What does Marco like to eat?",
+      "context": "Lectura de un texto sobre la alimentacion de un personaje infantil.",
       "options": [
         {
           "letter": "C",
-          "text": "destination",
+          "text": "Fruits",
           "is_correct": true,
-          "feedback": "Correct! 'destination' matches the definition."
+          "feedback": "The two foods he eats are fruits and no vegetables at all."
         },
         {
           "letter": "A",
-          "text": "departure",
+          "text": "Vegetables",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "The text says expressly that he does not eat vegetables."
         },
         {
           "letter": "B",
-          "text": "arrival",
+          "text": "Meat",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "No meat or food of that kind is mentioned in the text."
         },
         {
           "letter": "D",
-          "text": "journey",
+          "text": "Fish",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Fish does not appear in the sentence either."
         }
       ],
       "correct_answer": "C",
-      "explanation": "The word 'destination' is used to describe the place to which someone or something is going or being sent. This is an important vocabulary word in English.\n---",
-      "difficulty": "6",
+      "explanation": "La palabra but opone lo que el personaje come a lo que no come, y esa estructura permite responder con una categoria general. Nombrar bananas y oranges como frutas es la unica conclusion que el texto sostiene.",
+      "difficulty": "4",
       "images": [],
       "tags": [],
-      "bloom": "Apply",
-      "icfes_type": "Lexico",
-      "expected_success": 0.8,
+      "bloom": "Understand",
+      "icfes_type": "Uso de la lengua",
+      "expected_success": 0.85,
       "bundle_id": "CO-ING-3-2026-W18-fruits-vegetables-001-MASTERY-bundle",
       "periodo": 18,
       "protocol_version": "5.2",
@@ -147,42 +147,42 @@
     },
     {
       "id": "CO-ING-3-2026-W18-fruits-vegetables-001-MASTERY-bundle-v4",
-      "statement": "What is the English word for: \"Suitcases or other bags in which to pack personal belongings for traveling.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Which group contains only vegetables?",
+      "context": "Ejercicio de escritura de la lista de la despensa del hogar.",
       "options": [
         {
-          "letter": "B",
-          "text": "luggage",
+          "letter": "A",
+          "text": "Carrot, broccoli and lettuce",
           "is_correct": true,
-          "feedback": "Correct! 'luggage' matches the definition."
+          "feedback": "The three words name a root vegetable, a flower vegetable and a leaf vegetable respectively."
         },
         {
-          "letter": "A",
-          "text": "ticket",
+          "letter": "B",
+          "text": "Banana, mango and apple",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Those three are fruits, so the group does not correspond to vegetables."
         },
         {
           "letter": "C",
-          "text": "flight",
+          "text": "Bread, rice and pasta",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Bread, rice and pasta are starchy foods and not vegetables."
         },
         {
           "letter": "D",
-          "text": "reservation",
+          "text": "Milk, cheese and butter",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Those three products are of animal origin and do not belong with vegetables."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "The word 'luggage' is used to describe suitcases or other bags in which to pack personal belongings for traveling. This is an important vocabulary word in English.\n---",
-      "difficulty": "6",
+      "correct_answer": "A",
+      "explanation": "Comparar grupos completos es una estrategia de seleccion de vocabulario muy eficaz. Cada opcion falla por una razon distinta, y reconocer si la falla es una fruta, un alimento de almidon o un producto animal ayuda a organizar el vocabulario en categorias.",
+      "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Apply",
-      "icfes_type": "Lexico",
-      "expected_success": 0.8,
+      "icfes_type": "Uso de la lengua",
+      "expected_success": 0.85,
       "bundle_id": "CO-ING-3-2026-W18-fruits-vegetables-001-MASTERY-bundle",
       "periodo": 18,
       "protocol_version": "5.2",
@@ -193,41 +193,41 @@
     },
     {
       "id": "CO-ING-3-2026-W18-fruits-vegetables-001-MASTERY-bundle-v5",
-      "statement": "What is the English word for: \"A traveler on a public or private conveyance other than the driver, pilot, or crew.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Which word is the vegetable in this sentence? \"I eat an apple, a tomato and rice.\"",
+      "context": "Actividad de dibujo de un Plato de comida sano.",
       "options": [
         {
-          "letter": "D",
-          "text": "passenger",
-          "is_correct": true,
-          "feedback": "Correct! 'passenger' matches the definition."
-        },
-        {
-          "letter": "A",
-          "text": "pedestrian",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
           "letter": "B",
-          "text": "commuter",
+          "text": "Apple",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "An apple is a fruit according to the classification used in this unit."
         },
         {
           "letter": "C",
-          "text": "tourist",
+          "text": "Rice",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Rice is a starchy food made from grains, not a vegetable."
+        },
+        {
+          "letter": "A",
+          "text": "Tomato",
+          "is_correct": true,
+          "feedback": "The tomato is classified here as a vegetable and is the only option that meets that condition."
+        },
+        {
+          "letter": "D",
+          "text": "Plate",
+          "is_correct": false,
+          "feedback": "The word plate is the container and not a food, and it does not appear in the sentence."
         }
       ],
-      "correct_answer": "D",
-      "explanation": "The word 'passenger' is used to describe a traveler on a public or private conveyance other than the driver, pilot, or crew. This is an important vocabulary word in English.\n---",
-      "difficulty": "8",
+      "correct_answer": "A",
+      "explanation": "Dentro de una enumeracion es posible identificar el elemento buscado por la combinacion de la palabra y la funcion que cumple en la frase. Ese recurso ahorra tener que clasificar la oracion completa antes de responder.",
+      "difficulty": "4",
       "images": [],
       "tags": [],
-      "bloom": "Analyze",
-      "icfes_type": "Lexico",
+      "bloom": "Understand",
+      "icfes_type": "Uso de la lengua",
       "expected_success": 0.8,
       "bundle_id": "CO-ING-3-2026-W18-fruits-vegetables-001-MASTERY-bundle",
       "periodo": 18,
@@ -239,42 +239,42 @@
     },
     {
       "id": "CO-ING-3-2026-W18-fruits-vegetables-001-MASTERY-bundle-v6",
-      "statement": "What is the English word for: \"The place at a port, airport, or frontier where officials check incoming goods, travelers, or luggage.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Complete the dialogue: \"What do you want? I want two ___, please.\"",
+      "context": "Ejercicio de conversacion en el mercado sobre la compra semanal.",
       "options": [
         {
-          "letter": "B",
-          "text": "customs",
-          "is_correct": true,
-          "feedback": "Correct! 'customs' matches the definition."
-        },
-        {
           "letter": "A",
-          "text": "security",
+          "text": "bread",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Bread is countable, but the sentence needs an article because two goes with it as a specifier."
         },
         {
           "letter": "C",
-          "text": "terminal",
+          "text": "milk",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Milk is uncountable, so it cannot take the numeral two in front of it."
         },
         {
           "letter": "D",
-          "text": "gate",
+          "text": "rice",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Rice is also an uncountable food and does not accept the numeral two."
+        },
+        {
+          "letter": "B",
+          "text": "apples",
+          "is_correct": true,
+          "feedback": "Apples is countable and plural, so it accepts the specifier two when shopping."
         }
       ],
       "correct_answer": "B",
-      "explanation": "The word 'customs' is used to describe the place at a port, airport, or frontier where officials check incoming goods, travelers, or luggage. This is an important vocabulary word in English.\n---",
-      "difficulty": "8",
+      "explanation": "Los numerales solo pueden acompanar a sustantivos contables. Como las frutas y los vegetales son contables, dos y tres funcionan con ellos, mientras que alimentos como la leche, el arroz o el aceite requieren una cantidad y un sustantivo como litres o kilos.",
+      "difficulty": "4",
       "images": [],
       "tags": [],
-      "bloom": "Analyze",
-      "icfes_type": "Lexico",
-      "expected_success": 0.8,
+      "bloom": "Apply",
+      "icfes_type": "Uso de la lengua",
+      "expected_success": 0.85,
       "bundle_id": "CO-ING-3-2026-W18-fruits-vegetables-001-MASTERY-bundle",
       "periodo": 18,
       "protocol_version": "5.2",
@@ -285,41 +285,41 @@
     },
     {
       "id": "CO-ING-3-2026-W18-fruits-vegetables-001-MASTERY-bundle-v7",
-      "statement": "What is the English word for: \"A document provided by an airline during check-in, giving a passenger permission to board the airplane.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Why is it good to eat fruits and vegetables?",
+      "context": "Reflexion sobre la importancia de comer frutas y vegetales todos los dias.",
       "options": [
         {
-          "letter": "C",
-          "text": "boarding pass",
-          "is_correct": true,
-          "feedback": "Correct! 'boarding pass' matches the definition."
-        },
-        {
           "letter": "A",
-          "text": "visa",
+          "text": "Because they are expensive",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "A high price does not by itself explain a health benefit."
         },
         {
           "letter": "B",
-          "text": "receipt",
+          "text": "Because they give the body vitamins and energy",
+          "is_correct": true,
+          "feedback": "The vitamins and the energy those foods provide are the correct reason."
+        },
+        {
+          "letter": "C",
+          "text": "Because they are stored in the fridge",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "The place of storage is a characteristic of the product, not a reason of health."
         },
         {
           "letter": "D",
-          "text": "brochure",
+          "text": "Because they are cheap to buy",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Price is an economic matter and does not explain why they are worth eating."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "The word 'boarding pass' is used to describe a document provided by an airline during check-in, giving a passenger permission to board the airplane. This is an important vocabulary word in English.\n---",
-      "difficulty": "10",
+      "correct_answer": "B",
+      "explanation": "Una pregunta de tipo Why exige una causa related con el tema, no una caracteristica comercial. Descartar las opciones que responden a otra pregunta, como where o how much, es el paso previo a identificar la razon correcta.",
+      "difficulty": "4",
       "images": [],
       "tags": [],
-      "bloom": "Evaluate",
-      "icfes_type": "Lexico",
+      "bloom": "Understand",
+      "icfes_type": "Uso de la lengua",
       "expected_success": 0.8,
       "bundle_id": "CO-ING-3-2026-W18-fruits-vegetables-001-MASTERY-bundle",
       "periodo": 18,
@@ -331,41 +331,41 @@
     },
     {
       "id": "CO-ING-3-2026-W18-fruits-vegetables-001-MASTERY-bundle-v8",
-      "statement": "What is the English word for: \"The activity of visiting places of interest in a particular location.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Choose the correct sentence.",
+      "context": "Actividad final en la que los estudiantes preparan una fruta para un compañero.",
       "options": [
         {
           "letter": "A",
-          "text": "sightseeing",
-          "is_correct": true,
-          "feedback": "Correct! 'sightseeing' matches the definition."
+          "text": "I eat an apple and an banana.",
+          "is_correct": false,
+          "feedback": "After the vowel a, n is used before the article, so it should be written an apple and not a banana."
         },
         {
           "letter": "B",
-          "text": "shopping",
+          "text": "I eat a apple and a banana.",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Before a noun that starts with a vowel you use an and not a, because that avoids the harder sound."
         },
         {
           "letter": "C",
-          "text": "hiking",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "text": "I eat an apple and a banana.",
+          "is_correct": true,
+          "feedback": "An goes before the noun apple because of its initial vowel, and a goes before banana because of its initial consonant."
         },
         {
           "letter": "D",
-          "text": "camping",
+          "text": "I eat the a apple and the a banana.",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "The article the cannot be combined with a, and the sentence would also be redundant."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'sightseeing' is used to describe the activity of visiting places of interest in a particular location. This is an important vocabulary word in English.",
-      "difficulty": "10",
+      "correct_answer": "C",
+      "explanation": "La eleccion entre a y an depende de como se pronuncia la palabra, no de como se escribe. Si el sonido inicial es vocal se usa an y si es consonante se usa a, una regla que se verifica leyendo la palabra en voz alta y no solo mirandola.",
+      "difficulty": "4",
       "images": [],
       "tags": [],
-      "bloom": "Evaluate",
-      "icfes_type": "Lexico",
+      "bloom": "Apply",
+      "icfes_type": "Uso de la lengua",
       "expected_success": 0.8,
       "bundle_id": "CO-ING-3-2026-W18-fruits-vegetables-001-MASTERY-bundle",
       "periodo": 18,

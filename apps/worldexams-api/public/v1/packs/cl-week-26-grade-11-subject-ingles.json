@@ -61,25 +61,25 @@
           "letter": "A",
           "text": "are protecting",
           "is_correct": false,
-          "feedback": "Incorrect. Active voice."
+          "feedback": "'Are protecting' is the active voice and would make the human rights do the protecting."
         },
         {
           "letter": "B",
           "text": "are being protected",
           "is_correct": true,
-          "feedback": "Correct. Present continuous passive for an ongoing state."
+          "feedback": "Correct. 'Are being protected' is the present continuous passive, used for protection that is under way at the moment."
         },
         {
           "letter": "C",
           "text": "protected",
           "is_correct": false,
-          "feedback": "Incorrect. Past simple."
+          "feedback": "'Protected' on its own would be past simple, but the protection is happening now."
         },
         {
           "letter": "D",
           "text": "have protected",
           "is_correct": false,
-          "feedback": "Incorrect. Active voice."
+          "feedback": "'Have protected' is the Present Perfect active, which would require the rights to be the ones doing the protecting."
         }
       ],
       "correct_answer": "B",
@@ -466,25 +466,25 @@
           "letter": "A",
           "text": "Apathy",
           "is_correct": false,
-          "feedback": "Incorrect. Lack of interest."
+          "feedback": "'Apathy' is the absence of interest or concern, the opposite of understanding others."
         },
         {
           "letter": "C",
           "text": "Empathy",
           "is_correct": true,
-          "feedback": "Correct. Ability to understand others."
+          "feedback": "Correct. 'Empathy' is the ability to understand and share what people from other backgrounds are feeling."
         },
         {
           "letter": "B",
           "text": "Envy",
           "is_correct": false,
-          "feedback": "Incorrect. Jealousy."
+          "feedback": "'Envy' is jealousy of what someone else has, which has nothing to do with understanding them."
         },
         {
           "letter": "D",
           "text": "Greed",
           "is_correct": false,
-          "feedback": "Incorrect. Selfish desire."
+          "feedback": "'Greed' is a selfish desire for more, which also works against empathy."
         }
       ],
       "correct_answer": "C",
@@ -511,25 +511,25 @@
           "letter": "A",
           "text": "who",
           "is_correct": false,
-          "feedback": "Incorrect. Subject pronoun."
+          "feedback": "'Who' is used as a subject pronoun, but the blank needs to show possession of 'safety'."
         },
         {
           "letter": "D",
           "text": "whose",
           "is_correct": true,
-          "feedback": "Correct. Possessive relative pronoun for 'migrants' safety'."
+          "feedback": "Correct. 'Whose' is the possessive relative pronoun that links the migrants to the safety that is at risk."
         },
         {
           "letter": "B",
           "text": "that",
           "is_correct": false,
-          "feedback": "Incorrect."
+          "feedback": "'That' introduces a defining clause about 'migrants' themselves and cannot express possession."
         },
         {
           "letter": "C",
           "text": "which",
           "is_correct": false,
-          "feedback": "Incorrect."
+          "feedback": "'Which' is used for things, not for people, and it does not express possession either."
         }
       ],
       "correct_answer": "D",
@@ -556,25 +556,25 @@
           "letter": "A",
           "text": "wealth",
           "is_correct": false,
-          "feedback": "Incorrect. Money-focused."
+          "feedback": "'Wealth' refers to money and property, and the definition is about rights and chances rather than possessions."
         },
         {
           "letter": "B",
           "text": "opportunities",
           "is_correct": true,
-          "feedback": "Correct. Refers to chances for success."
+          "feedback": "Correct. 'Opportunities' is part of the definition: social justice means everyone gets a fair chance at success."
         },
         {
           "letter": "C",
           "text": "outcomes",
           "is_correct": false,
-          "feedback": "Incorrect. Not the standard phrase."
+          "feedback": "'Outcomes' is not the standard word in this definition; the sentence names the chances people are given, not the results."
         },
         {
           "letter": "D",
           "text": "status",
           "is_correct": false,
-          "feedback": "Incorrect. Position."
+          "feedback": "'Status' means social position or rank, and social justice is about equal rights rather than rank."
         }
       ],
       "correct_answer": "B",
@@ -601,25 +601,25 @@
           "letter": "B",
           "text": "if",
           "is_correct": false,
-          "feedback": "Incorrect. 'If you understand' would mean don't judge if you *do* understand."
+          "feedback": "'If' would reverse the logic and mean 'do not judge in the case that you understand', which is not what the sentence says."
         },
         {
           "letter": "A",
           "text": "unless",
           "is_correct": true,
-          "feedback": "Correct. 'Unless' means 'if not'."
+          "feedback": "Correct. 'Unless' means 'if not', so the sentence says you should not judge until you understand the context."
         },
         {
           "letter": "C",
           "text": "although",
           "is_correct": false,
-          "feedback": "Incorrect. Contrast."
+          "feedback": "'Although' expresses a contrast between two true statements, not the condition the sentence sets."
         },
         {
           "letter": "D",
           "text": "whether",
           "is_correct": false,
-          "feedback": "Incorrect. Choice."
+          "feedback": "'Whether' introduces a choice between possibilities and does not express the condition described."
         }
       ],
       "correct_answer": "A",
@@ -646,25 +646,25 @@
           "letter": "B",
           "text": "ignoring",
           "is_correct": false,
-          "feedback": "Incorrect. Opposite of active."
+          "feedback": "'Ignoring' the well-being of others is the opposite of taking an active role."
         },
         {
           "letter": "A",
           "text": "taking responsibility",
           "is_correct": true,
-          "feedback": "Correct. Implies active care and effort."
+          "feedback": "Correct. 'Taking responsibility' means accepting an active duty to care for others, which is what the conclusion describes."
         },
         {
           "letter": "C",
           "text": "avoiding",
           "is_correct": false,
-          "feedback": "Incorrect. Negative."
+          "feedback": "'Avoiding' the community means staying out of it, which is not active citizenship."
         },
         {
           "letter": "D",
           "text": "resenting",
           "is_correct": false,
-          "feedback": "Incorrect. Negative feeling."
+          "feedback": "'Resenting' is a hostile feeling towards others, not the commitment the sentence describes."
         }
       ],
       "correct_answer": "A",
@@ -691,25 +691,25 @@
           "letter": "A",
           "text": "fact",
           "is_correct": false,
-          "feedback": "Incorrect."
+          "feedback": "'Fact' means something true and verifiable; the definition given is of an idea that is not accurate."
         },
         {
           "letter": "D",
           "text": "stereotype",
           "is_correct": true,
-          "feedback": "Correct. Oversimplified and often biased idea."
+          "feedback": "Correct. A 'stereotype' is a fixed, oversimplified idea about a group of people that people hold widely."
         },
         {
           "letter": "B",
           "text": "news",
           "is_correct": false,
-          "feedback": "Incorrect."
+          "feedback": "'News' is a report of recent events and says nothing about a held image of a kind of person."
         },
         {
           "letter": "C",
           "text": "slogan",
           "is_correct": false,
-          "feedback": "Incorrect."
+          "feedback": "'A slogan' is a short catchy phrase, not a belief about a type of person."
         }
       ],
       "correct_answer": "D",
@@ -871,25 +871,25 @@
           "letter": "D",
           "text": "humanity",
           "is_correct": true,
-          "feedback": "Correct. The quality of being human."
+          "feedback": "Correct. 'Humanity' is the quality of being human, and the sentence argues that this shared nature matters more than national or cultural divisions."
         },
         {
           "letter": "A",
           "text": "wealth",
           "is_correct": false,
-          "feedback": "Incorrect. Unrelated to the social point."
+          "feedback": "'Wealth' is money and property, and the sentence contrasts shared humanity with national and cultural differences, not with riches."
         },
         {
           "letter": "B",
           "text": "power",
           "is_correct": false,
-          "feedback": "Incorrect. Power often divides."
+          "feedback": "'Power' tends to divide people rather than unite them, which is the opposite of the common humanity the sentence defends."
         },
         {
           "letter": "C",
           "text": "greed",
           "is_correct": false,
-          "feedback": "Incorrect. Negative."
+          "feedback": "'Greed' is a selfish desire, and the sentence is arguing for a shared bond rather than for selfish interest."
         }
       ],
       "correct_answer": "D",

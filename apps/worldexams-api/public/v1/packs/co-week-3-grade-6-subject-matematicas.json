@@ -384,25 +384,25 @@
           "letter": "B",
           "text": "$\\sqrt{16} = 4$.",
           "is_correct": false,
-          "feedback": "Correcta. $4^2 = 16$."
+          "feedback": "Sí es correcta: $4^2 = 16$, y la raíz principal de 16 es 4."
         },
         {
           "letter": "C",
           "text": "$(-2)^3 = -8$.",
           "is_correct": false,
-          "feedback": "Correcta. El cubo conserva el signo."
+          "feedback": "Sí es correcta: un exponente impar conserva el signo de la base, y $(-2)^3 = -8$."
         },
         {
           "letter": "A",
           "text": "$\\sqrt{25} = -5$.",
           "is_correct": true,
-          "feedback": "Correcta es 5. La raíz principal es positiva."
+          "feedback": "Ésta es la igualdad incorrecta: la raíz cuadrada principal de 25 es $5$, nunca $-5$, porque la raíz devuelve el valor no negativo."
         },
         {
           "letter": "D",
           "text": "$2^4 = 16$.",
           "is_correct": false,
-          "feedback": "Correcta."
+          "feedback": "Sí es correcta: $2^4 = 2 \\cdot 2 \\cdot 2 \\cdot 2 = 16$."
         }
       ],
       "correct_answer": "A",

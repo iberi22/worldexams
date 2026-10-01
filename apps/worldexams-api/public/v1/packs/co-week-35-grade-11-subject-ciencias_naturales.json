@@ -660,25 +660,25 @@
           "letter": "A",
           "text": "0.092 J/(g·°C).",
           "is_correct": false,
-          "feedback": "Revisa el balance de energía."
+          "feedback": "Ese valor corresponde al agua, no al metal: al dividir la energía absorbida entre la masa del agua se obtiene 4.186 J/(g·°C), pero aquí el metal cede calor."
         },
         {
           "letter": "B",
           "text": "0.418 J/(g·°C).",
           "is_correct": true,
-          "feedback": "m_metal·c_metal·(95-25) = 500·4.186·(25-20) → c ≈ 0.418 J/(g·°C)."
+          "feedback": "$200 \\cdot c \\cdot (95-25) = 500 \\cdot 4.186 \\cdot (25-20) \\Rightarrow c = 20930/14000 \\approx 0.418$ J/(g·°C)."
         },
         {
           "letter": "C",
           "text": "4.186 J/(g·°C).",
           "is_correct": false,
-          "feedback": "Ese es el calor específico del agua."
+          "feedback": "Ese es el calor específico del agua, no el del metal; el metal cede calor y su calor específico es mucho menor."
         },
         {
           "letter": "D",
           "text": "41.8 J/(g·°C).",
           "is_correct": false,
-          "feedback": "Error de unidades (kJ)."
+          "feedback": "Ese valor sale de confundir kJ con J: $41.8$ es el resultado si se toma mal la constante del agua, no el calor específico del metal."
         }
       ],
       "correct_answer": "B",

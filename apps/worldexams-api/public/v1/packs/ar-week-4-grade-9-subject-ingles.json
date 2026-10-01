@@ -16,25 +16,25 @@
           "letter": "A",
           "text": "can't / can",
           "is_correct": false,
-          "feedback": "Esto diría que no sabés tocar la guitarra pero sí nadar; gramaticalmente es posible pero 'can' suele ser la primera opción para habilidades positivas."
+          "feedback": "This pair reverses the meaning: it says she cannot play the guitar but can swim, which contradicts the sentence."
         },
         {
           "letter": "D",
           "text": "can / can't",
           "is_correct": true,
-          "feedback": "¡Correcto! 'Can' se usa para habilidades y 'can't' para la falta de habilidad."
+          "feedback": "Correct. 'Can' states an ability and 'can't' denies it: the guitar is the skill she has and swimming is the one she lacks, so 'can / can't' is the right pair."
         },
         {
           "letter": "B",
           "text": "could / couldn't",
           "is_correct": false,
-          "feedback": "Estas son las formas de pasado, pero Martina habla de sus habilidades actuales."
+          "feedback": "'Could' and 'couldn't' refer to ability in the past, but Martina is talking about what she can do now."
         },
         {
           "letter": "C",
           "text": "must / mustn't",
           "is_correct": false,
-          "feedback": "'Must' indica obligación, no habilidad física o mental."
+          "feedback": "'Must' and 'mustn't' express obligation or prohibition, never physical or mental ability."
         }
       ],
       "correct_answer": "D",
@@ -61,25 +61,25 @@
           "letter": "A",
           "text": "don't have to",
           "is_correct": false,
-          "feedback": "Esto significa que no es necesario hacerlo, pero no que esté prohibido."
+          "feedback": "'Don't have to' says it is not necessary, which leaves the action optional instead of forbidden."
         },
         {
           "letter": "C",
           "text": "mustn't",
           "is_correct": true,
-          "feedback": "¡Muy bien! 'Mustn't' es el verbo para las prohibiciones y reglas estrictas."
+          "feedback": "Correct. 'Mustn't' is the modal for a strong prohibition, and museum rules forbid touching the paintings under any circumstance."
         },
         {
           "letter": "B",
           "text": "shouldn't",
           "is_correct": false,
-          "feedback": "'Shouldn't' es un consejo, pero en un museo tocar las obras está directamente prohibido."
+          "feedback": "'Shouldn't' gives advice not to touch the paintings, which is weaker than a rule that forbids it outright."
         },
         {
           "letter": "D",
           "text": "can't",
           "is_correct": false,
-          "feedback": "Aunque se usa informalmente, 'mustn't' es la forma específica para prohibiciones oficiales."
+          "feedback": "'Can't' states a physical impossibility. It does appear on informal signs, but 'mustn't' is the form used for an official prohibition."
         }
       ],
       "correct_answer": "C",
@@ -106,25 +106,25 @@
           "letter": "A",
           "text": "must",
           "is_correct": false,
-          "feedback": "Suena demasiado fuerte, como una orden de un superior más que un consejo entre amigos."
+          "feedback": "'Must' makes the advice sound like an order from someone in authority rather than a tip between friends."
         },
         {
           "letter": "C",
           "text": "should",
           "is_correct": true,
-          "feedback": "¡Exacto! 'Should' es el verbo estándar para dar consejos y sugerencias."
+          "feedback": "Correct. 'Should' is the standard modal for giving advice and suggestions; it works like the Spanish 'deberías'."
         },
         {
           "letter": "B",
           "text": "can",
           "is_correct": false,
-          "feedback": "Indica posibilidad, pero no la recomendación de hacerlo."
+          "feedback": "'Can' expresses ability or possibility, and it does not recommend anything to the listener."
         },
         {
           "letter": "D",
           "text": "have to",
           "is_correct": false,
-          "feedback": "Indica una obligación externa, no un consejo personal."
+          "feedback": "'Have to' marks an obligation imposed from outside, while the sentence offers personal advice."
         }
       ],
       "correct_answer": "C",
@@ -151,25 +151,25 @@
           "letter": "B",
           "text": "should",
           "is_correct": false,
-          "feedback": "Mostrar el documento no es un consejo, es obligatorio."
+          "feedback": "'Should' would make showing the ID a mere recommendation, but the airport requires it, so that is too weak."
         },
         {
           "letter": "C",
           "text": "can",
           "is_correct": false,
-          "feedback": "No es una opción, es algo requerido por la ley."
+          "feedback": "'Can' states ability or possibility; showing a document at the gate is required, not optional."
         },
         {
           "letter": "A",
           "text": "have to",
           "is_correct": true,
-          "feedback": "¡Correcto! 'Have to' se usa para obligaciones impuestas por reglas externas o leyes."
+          "feedback": "Correct. 'Have to' expresses an obligation that comes from an external rule or law, and the ID requirement at the gate is exactly that."
         },
         {
           "letter": "D",
           "text": "might",
           "is_correct": false,
-          "feedback": "Esto indica una posibilidad remota, no una obligación."
+          "feedback": "'Might' expresses a remote possibility, which would wrongly suggest the passport is optional."
         }
       ],
       "correct_answer": "A",
@@ -196,25 +196,25 @@
           "letter": "A",
           "text": "must / must",
           "is_correct": false,
-          "feedback": "Esto indicaría obligación, no duda."
+          "feedback": "Repeating 'must' states a strong obligation twice, which cannot express doubt about a weekend plan."
         },
         {
           "letter": "C",
           "text": "might / might",
           "is_correct": true,
-          "feedback": "¡Muy bien! 'Might' se usa para posibilidades de las que no estamos seguros."
+          "feedback": "Correct. 'Might' marks a possibility the speaker is not sure about, and both halves of the sentence need that uncertainty."
         },
         {
           "letter": "B",
           "text": "should / should",
           "is_correct": false,
-          "feedback": "Esto sería darte consejos a vos mismo, no expresar duda sobre un plan."
+          "feedback": "'Should' in both blanks would give advice to yourself instead of admitting that you have not decided."
         },
         {
           "letter": "D",
           "text": "can't / can't",
           "is_correct": false,
-          "feedback": "Esto negaría ambas opciones por completo."
+          "feedback": "'Can't' in both blanks would rule out both options completely, which is the opposite of being undecided."
         }
       ],
       "correct_answer": "C",
@@ -241,25 +241,25 @@
           "letter": "B",
           "text": "mustn't",
           "is_correct": false,
-          "feedback": "Esto significaría que está prohibido apurarse, lo cual no tiene sentido."
+          "feedback": "'Mustn't' would say you are forbidden to hurry, and nothing in the sentence suggests that."
         },
         {
           "letter": "A",
           "text": "don't have to",
           "is_correct": true,
-          "feedback": "¡Exacto! Significa que no es necesario apurarse, no hay obligación."
+          "feedback": "Correct. 'Don't have to' says it is not necessary to hurry, which matches having plenty of time."
         },
         {
           "letter": "C",
           "text": "shouldn't",
           "is_correct": false,
-          "feedback": "Sería un consejo de no apurarse, pero 'don't have to' es más preciso para la falta de necesidad."
+          "feedback": "'Shouldn't' is advice against hurrying; 'don't have to' is more precise because the need itself does not exist."
         },
         {
           "letter": "D",
           "text": "can't",
           "is_correct": false,
-          "feedback": "Significa que no tenés la capacidad física de apurarte."
+          "feedback": "'Can't' claims you are physically unable to hurry, which is a completely different claim from the one the sentence makes."
         }
       ],
       "correct_answer": "A",
@@ -286,25 +286,25 @@
           "letter": "B",
           "text": "I must buy a present for my mom's birthday.",
           "is_correct": true,
-          "feedback": "¡Muy bien! 'Must' suele usarse para obligaciones que uno se impone a sí mismo por sentimiento o deber interno."
+          "feedback": "Correct. 'Must' expresses an obligation the speaker feels from the inside, and buying a present for your mother's birthday fits that sense of duty."
         },
         {
           "letter": "A",
           "text": "I have to wear a uniform at school.",
           "is_correct": false,
-          "feedback": "Esto es una regla impuesta por la institución, no una decisión personal."
+          "feedback": "'Have to' states an obligation imposed by the institution, so it describes a rule rather than a personal feeling."
         },
         {
           "letter": "C",
           "text": "I should buy a present.",
           "is_correct": false,
-          "feedback": "Esto es un consejo, no una obligación sentida como necesaria."
+          "feedback": "'Should' would only recommend the action, which is weaker than the necessity the sentence expresses."
         },
         {
           "letter": "D",
           "text": "I can buy a present.",
           "is_correct": false,
-          "feedback": "Solo indica que tenés la capacidad o el dinero para hacerlo."
+          "feedback": "'Can' merely states that you have the ability or the money, not that you feel you must."
         }
       ],
       "correct_answer": "B",
@@ -331,25 +331,25 @@
           "letter": "B",
           "text": "can",
           "is_correct": false,
-          "feedback": "Indica posibilidad general, pero queremos expresar que estamos casi seguros."
+          "feedback": "'Can' expresses general possibility, and here the evidence makes the speaker almost certain."
         },
         {
           "letter": "A",
           "text": "must",
           "is_correct": true,
-          "feedback": "¡Correcto! 'Must' se usa para deducciones lógicas donde estamos casi convencidos de algo."
+          "feedback": "Correct. 'Must' is the modal used for a strong logical deduction, and the Messi jersey plus the celebration are strong evidence."
         },
         {
           "letter": "C",
           "text": "should",
           "is_correct": false,
-          "feedback": "'Should' se usa para lo que esperamos que pase, no para una deducción sobre el presente."
+          "feedback": "'Should' is used for what we expect to happen, not for a deduction about what is true now."
         },
         {
           "letter": "D",
           "text": "might",
           "is_correct": false,
-          "feedback": "Esto indicaría que hay una chance remota, pero la evidencia de la camiseta es muy fuerte."
+          "feedback": "'Might' leaves room for doubt, and the evidence is far stronger than that."
         }
       ],
       "correct_answer": "A",
@@ -376,25 +376,25 @@
           "letter": "B",
           "text": "mustn't",
           "is_correct": false,
-          "feedback": "'Mustn't' es para prohibiciones, no se usa para deducciones lógicas negativas."
+          "feedback": "'Mustn't' expresses prohibition, which has no use in a deduction about the present."
         },
         {
           "letter": "A",
           "text": "can't",
           "is_correct": true,
-          "feedback": "¡Excelente! 'Can't' es el verbo para decir \"es imposible que sea así\" (deducción negativa)."
+          "feedback": "Correct. 'Can't' is the modal for a negative deduction: it states that it is impossible for her to be from Buenos Aires."
         },
         {
           "letter": "C",
           "text": "shouldn't",
           "is_correct": false,
-          "feedback": "Esto sería un consejo de no ser de Buenos Aires, lo cual no tiene sentido."
+          "feedback": "'Shouldn't' would be advice about where she ought to live, which is not what the sentence is doing."
         },
         {
           "letter": "D",
           "text": "might not",
           "is_correct": false,
-          "feedback": "Indica una duda, pero acá la sorpresa sugiere que estamos casi seguros de que NO es de ahí."
+          "feedback": "'Might not' expresses doubt, and here the speaker is close to certain that it is not the case."
         }
       ],
       "correct_answer": "A",
@@ -421,25 +421,25 @@
           "letter": "A",
           "text": "Can I go to the bathroom?",
           "is_correct": false,
-          "feedback": "Es la forma más común y aceptable, pero no la más formal."
+          "feedback": "'Can I?' is the everyday way to ask permission and is fine with friends, but it is not the most formal form."
         },
         {
           "letter": "C",
           "text": "Could I go to the bathroom?",
           "is_correct": false,
-          "feedback": "Es más educada que 'can', pero todavía hay una opción superior en formalidad."
+          "feedback": "'Could I?' is politer than 'can I' and is often used to soften a request, but a more formal option exists."
         },
         {
           "letter": "B",
           "text": "May I go to the bathroom?",
           "is_correct": true,
-          "feedback": "¡Correcto! 'May' es el verbo modal más formal y respetuoso para pedir permiso."
+          "feedback": "Correct. 'May I' is the most formal and respectful way to ask permission, and it is used with teachers and elders."
         },
         {
           "letter": "D",
           "text": "Must I go to the bathroom?",
           "is_correct": false,
-          "feedback": "Esto significaría preguntarte a vos mismo si tenés la obligación de ir, lo cual es muy raro."
+          "feedback": "'Must I?' asks whether you yourself are obliged to go, which is not a request for permission at all."
         }
       ],
       "correct_answer": "B",
@@ -466,25 +466,25 @@
           "letter": "D",
           "text": "1 is an urgent necessity/order; 2 is a friendly recommendation.",
           "is_correct": true,
-          "feedback": "¡Exacto! 'Must' transmite mucha más urgencia y autoridad que 'should'."
+          "feedback": "Correct. 'Must' carries urgency and authority, so sentence 1 is a necessity while 'should' in sentence 2 is only a friendly recommendation."
         },
         {
           "letter": "A",
           "text": "1 is about the past; 2 is about the future.",
           "is_correct": false,
-          "feedback": "Ambos se refieren al presente o futuro cercano."
+          "feedback": "Both sentences are about what should happen now or soon, so neither one refers to the past."
         },
         {
           "letter": "B",
           "text": "1 is a rule from a book; 2 is a personal feeling.",
           "is_correct": false,
-          "feedback": "No necesariamente; 'must' puede ser un sentimiento muy fuerte de urgencia."
+          "feedback": "'Must' can come from a personal sense of duty, not only from a rule written in a book."
         },
         {
           "letter": "C",
           "text": "Both have exactly the same level of intensity.",
           "is_correct": false,
-          "feedback": "No, 'must' es mucho más fuerte e imperativo."
+          "feedback": "The two are not equally strong: 'must' is far more urgent and authoritative than 'should'."
         }
       ],
       "correct_answer": "D",
@@ -511,25 +511,25 @@
           "letter": "A",
           "text": "shouldn't eat",
           "is_correct": false,
-          "feedback": "Esto es para el presente o futuro; para el pasado necesitamos otra estructura."
+          "feedback": "'Shouldn't eat' refers to the present or the future, but the eating already happened yesterday."
         },
         {
           "letter": "B",
           "text": "shouldn't have eaten",
           "is_correct": true,
-          "feedback": "¡Excelente! 'Shouldn't have' + participio se usa para lamentar o criticar algo que ya pasó."
+          "feedback": "Correct. 'Shouldn't have' plus the past participle criticises or regrets an action that is already finished."
         },
         {
           "letter": "C",
           "text": "mustn't have eaten",
           "is_correct": false,
-          "feedback": "Esto se usa para deducciones negativas sobre el pasado, no para críticas."
+          "feedback": "'Mustn't have' is used to conclude that something did not happen, not to criticise what somebody did."
         },
         {
           "letter": "D",
           "text": "couldn't have eaten",
           "is_correct": false,
-          "feedback": "Significaría que era imposible que comieras tanto, no es una crítica."
+          "feedback": "'Couldn't have' would say it was impossible that you ate that much, which is a different claim."
         }
       ],
       "correct_answer": "B",

@@ -16,25 +16,25 @@
           "letter": "A",
           "text": "bus",
           "is_correct": true,
-          "feedback": "Correct!"
+          "feedback": "A bus is a road vehicle that takes many students to school, so it completes the sentence."
         },
         {
           "letter": "B",
           "text": "boat",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "A boat travels on water; it does not take you to school on the road."
         },
         {
           "letter": "C",
           "text": "plane",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "A plane flies, so it is not the means of transport used on the road to school."
         },
         {
           "letter": "D",
           "text": "helicopter",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "A helicopter flies too; students do not go to school in one."
         }
       ],
       "correct_answer": "A",
@@ -62,25 +62,25 @@
           "letter": "A",
           "text": "bike",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "A bike has two wheels and travels on land with the pedals."
         },
         {
           "letter": "B",
           "text": "ship",
           "is_correct": true,
-          "feedback": "Correct!"
+          "feedback": "A ship is a big vehicle that travels on the sea, so it completes the sentence."
         },
         {
           "letter": "C",
           "text": "car",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "A car travels on roads and streets, not on the sea."
         },
         {
           "letter": "D",
           "text": "train",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "A train travels on rails; it does not travel on the sea."
         }
       ],
       "correct_answer": "B",
@@ -108,25 +108,25 @@
           "letter": "A",
           "text": "taxi",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "A taxi is a car that travels on the ground, not in the sky."
         },
         {
           "letter": "B",
           "text": "van",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "A van is a road vehicle for carrying goods or people on land."
         },
         {
           "letter": "C",
           "text": "plane",
           "is_correct": true,
-          "feedback": "Correct!"
+          "feedback": "A plane has wings and flies through the sky, so it completes the sentence."
         },
         {
           "letter": "D",
           "text": "truck",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "A truck drives on roads; it does not travel in the sky."
         }
       ],
       "correct_answer": "C",
@@ -154,25 +154,25 @@
           "letter": "A",
           "text": "motorbike",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "A motorbike has wheels and travels on the road, not on tracks."
         },
         {
           "letter": "B",
           "text": "scooter",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "A scooter is a small vehicle pushed or ridden on the pavement, not on rails."
         },
         {
           "letter": "C",
           "text": "car",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "A car runs on wheels over roads, not on tracks."
         },
         {
           "letter": "D",
           "text": "train",
           "is_correct": true,
-          "feedback": "Correct!"
+          "feedback": "A train has steel wheels that run on rails, so \"train\" completes the sentence."
         }
       ],
       "correct_answer": "D",
@@ -200,25 +200,25 @@
           "letter": "A",
           "text": "bicycle",
           "is_correct": true,
-          "feedback": "Correct!"
+          "feedback": "A bicycle has two thin wheels and you pedal it, so it matches the clue and completes the sentence."
         },
         {
           "letter": "B",
           "text": "bus",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "A bus is a big road vehicle; you do not ride it in the park."
         },
         {
           "letter": "C",
           "text": "subway",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "A subway travels underground on rails, not in the park."
         },
         {
           "letter": "D",
           "text": "ambulance",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "An ambulance is an emergency car, not something you ride for fun."
         }
       ],
       "correct_answer": "A",
@@ -246,25 +246,25 @@
           "letter": "A",
           "text": "raft",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "A raft floats on a river; your father does not drive one."
         },
         {
           "letter": "B",
           "text": "car",
           "is_correct": true,
-          "feedback": "Correct!"
+          "feedback": "A car is a vehicle with four wheels that a person drives on the road, so it completes the sentence."
         },
         {
           "letter": "C",
           "text": "rocket",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "A rocket flies into space; nobody drives it down a street."
         },
         {
           "letter": "D",
           "text": "canoe",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "A canoe is paddled on water; your father does not drive it."
         }
       ],
       "correct_answer": "B",
@@ -292,25 +292,25 @@
           "letter": "A",
           "text": "bus",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "A bus carries students and passengers on a regular route, not in an emergency."
         },
         {
           "letter": "B",
           "text": "plane",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "A plane transports passengers across long distances; it is not the emergency vehicle for a hospital."
         },
         {
           "letter": "C",
           "text": "ambulance",
           "is_correct": true,
-          "feedback": "Correct!"
+          "feedback": "An ambulance has a siren and takes injured people to the hospital, so it completes the sentence."
         },
         {
           "letter": "D",
           "text": "truck",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "A truck carries goods; it is not equipped for emergencies."
         }
       ],
       "correct_answer": "C",
@@ -338,25 +338,25 @@
           "letter": "A",
           "text": "car",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "A car has four wheels and is driven by a motor, but it does not match \"two wheels\"."
         },
         {
           "letter": "B",
           "text": "bus",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "A bus has many wheels and is a big vehicle, not a two-wheeled one."
         },
         {
           "letter": "C",
           "text": "train",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "A train runs on rails with many wheels; it has no handlebars."
         },
         {
           "letter": "D",
           "text": "motorcycle",
           "is_correct": true,
-          "feedback": "Correct!"
+          "feedback": "A motorcycle has exactly two wheels and an engine, so \"motorcycle\" completes the sentence."
         }
       ],
       "correct_answer": "D",

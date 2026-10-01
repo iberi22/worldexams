@@ -511,7 +511,7 @@
           "letter": "A",
           "text": "have lost",
           "is_correct": false,
-          "feedback": "Incorrect. Active voice."
+          "feedback": "\"Have lost\" is the active voice and would mean the sector itself lost the jobs. The jobs are what was lost, so the sentence needs the passive."
         },
         {
           "letter": "B",
@@ -523,7 +523,7 @@
           "letter": "C",
           "text": "are losing",
           "is_correct": false,
-          "feedback": "Incorrect. Active voice."
+          "feedback": "\"Are losing\" is the present continuous, which would describe a loss happening now; the decade-long process already concluded, so the present perfect passive is right."
         },
         {
           "letter": "D",

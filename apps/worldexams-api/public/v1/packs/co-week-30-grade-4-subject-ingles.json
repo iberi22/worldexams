@@ -16,25 +16,25 @@
           "letter": "A",
           "text": "on",
           "is_correct": true,
-          "feedback": "on indica que un objeto descansa sobre una superficie y la toca, que es exactamente lo que muestra el dibujo."
+          "feedback": "on indicates that an object rests on a surface and touches it, which is exactly what the picture shows."
         },
         {
           "letter": "B",
           "text": "in",
           "is_correct": false,
-          "feedback": "in significa dentro de algo cerrado; el libro esta encima del escritorio, no dentro de el."
+          "feedback": "in means inside something closed; the book is on top of the desk, not inside it."
         },
         {
           "letter": "C",
           "text": "under",
           "is_correct": false,
-          "feedback": "under significa debajo de algo; el libro esta sobre el escritorio y no por debajo."
+          "feedback": "under means below something; the book is on the desk and not underneath it."
         },
         {
           "letter": "D",
           "text": "at",
           "is_correct": false,
-          "feedback": "at se usa para puntos precisos como una esquina o un punto de reunion, no para una superficie completa."
+          "feedback": "at is used for precise points such as a corner or a meeting point, not for a whole surface."
         }
       ],
       "correct_answer": "A",
@@ -62,25 +62,25 @@
           "letter": "A",
           "text": "on",
           "is_correct": false,
-          "feedback": "on describe algo apoyado encima; el gato esta en el piso, debajo de la cama, no encima."
+          "feedback": "on describes something resting on top; the cat is on the floor, below the bed, not on top of it."
         },
         {
           "letter": "B",
           "text": "under",
           "is_correct": true,
-          "feedback": "under significa debajo de algo, y el enunciado dice explicitamente que el gato esta por debajo de la cama."
+          "feedback": "under means below something, and the sentence says explicitly that the cat is below the bed."
         },
         {
           "letter": "C",
           "text": "between",
           "is_correct": false,
-          "feedback": "between exige dos elementos a cada lado, como entre la cama y la mesa; aqui solo hay una referencia."
+          "feedback": "between requires two elements on each side, like between the bed and the table; here there is only one reference."
         },
         {
           "letter": "D",
           "text": "near",
           "is_correct": false,
-          "feedback": "near solo dice que algo esta cerca, sin indicar si esta encima, debajo o al lado."
+          "feedback": "near only says that something is close by, without saying whether it is above, below or beside."
         }
       ],
       "correct_answer": "B",
@@ -108,25 +108,25 @@
           "letter": "A",
           "text": "at",
           "is_correct": false,
-          "feedback": "at se usa con lugares pequenos o puntos de referencia; una cocina es un espacio cerrado, por eso se usa in."
+          "feedback": "at is used with small places or reference points; a kitchen is a closed space, so in is used."
         },
         {
           "letter": "B",
           "text": "on",
           "is_correct": false,
-          "feedback": "on indica apoyo sobre una superficie; aqui no hay superficie sino un espacio interior."
+          "feedback": "on indicates support on a surface; here there is no surface but an interior space."
         },
         {
           "letter": "C",
           "text": "in",
           "is_correct": true,
-          "feedback": "in describe estar dentro de un espacio cerrado, como una cocina o una habitacion."
+          "feedback": "in describes being inside a closed space, such as a kitchen or a bedroom."
         },
         {
           "letter": "D",
           "text": "under",
           "is_correct": false,
-          "feedback": "under significa debajo de algo; no hay ningun objeto sobre el que la madre quede por debajo."
+          "feedback": "under means below something; there is no object under which the mother would be."
         }
       ],
       "correct_answer": "C",
@@ -154,25 +154,25 @@
           "letter": "A",
           "text": "in",
           "is_correct": false,
-          "feedback": "in serviria para algo metido dentro de la pared, pero el cartel esta a la vista, no empotrado."
+          "feedback": "in would be for something built into the wall, but the poster is in view, not embedded."
         },
         {
           "letter": "B",
           "text": "under",
           "is_correct": false,
-          "feedback": "under indica estar debajo de algo; el cartel esta a la altura de la pared, no debajo del piso."
+          "feedback": "under indicates being below something; the poster is at the height of the wall, not under the floor."
         },
         {
           "letter": "C",
           "text": "above",
           "is_correct": false,
-          "feedback": "above necesita un punto de comparacion mas alto y aqui se busca una posicion fija sobre la pared."
+          "feedback": "above needs a higher point of comparison, and here a fixed position on the wall is being sought."
         },
         {
           "letter": "D",
           "text": "on",
           "is_correct": true,
-          "feedback": "on se usa para objetos aplanados apoyados en una superficie vertical, como un cartel o un cuadro."
+          "feedback": "on is used for flat objects resting on a vertical surface, such as a poster or a picture."
         }
       ],
       "correct_answer": "D",
@@ -200,25 +200,25 @@
           "letter": "A",
           "text": "at",
           "is_correct": true,
-          "feedback": "at school es la forma fija del ingles para indicar que alguien esta en un centro educativo, sin nombrar el aula."
+          "feedback": "at school is the fixed English way to say that someone is at an educational centre, without naming the classroom."
         },
         {
           "letter": "B",
           "text": "in",
           "is_correct": false,
-          "feedback": "in se usaria con in the classroom o in the library, pero no con la palabra school sola."
+          "feedback": "in would be used with in the classroom or in the library, but not with the word school on its own."
         },
         {
           "letter": "C",
           "text": "on",
           "is_correct": false,
-          "feedback": "on school no existe en ingles; esa secuencia solo aparece en palabras compuestas como online."
+          "feedback": "on school does not exist in English; that sequence only appears in compound words such as online."
         },
         {
           "letter": "D",
           "text": "to",
           "is_correct": false,
-          "feedback": "to indica destino o movimiento, y aqui la frase describe una posicion estable."
+          "feedback": "to indicates destination or movement, and here the sentence describes a stable position."
         }
       ],
       "correct_answer": "A",
@@ -246,25 +246,25 @@
           "letter": "A",
           "text": "on",
           "is_correct": false,
-          "feedback": "on indicaria que los lapices descansan encima de la cartuchera, cosa que no ocurre."
+          "feedback": "on would indicate the pencils are resting on top of the pencil case, which does not happen."
         },
         {
           "letter": "B",
           "text": "in",
           "is_correct": true,
-          "feedback": "in describe estar dentro de un recipiente, y la cartuchera es un recipiente que contiene los objetos."
+          "feedback": "in describes being inside a container, and the pencil case is a container that holds the objects."
         },
         {
           "letter": "C",
           "text": "above",
           "is_correct": false,
-          "feedback": "above solo compara alturas y ademas necesita un referente mas alto, como above the desk."
+          "feedback": "above only compares heights and also needs a higher referent, like above the desk."
         },
         {
           "letter": "D",
           "text": "between",
           "is_correct": false,
-          "feedback": "between requiere dos elementos que la separan, como between the book and the bag."
+          "feedback": "between requires two elements that separate it, like between the book and the bag."
         }
       ],
       "correct_answer": "B",
@@ -292,25 +292,25 @@
           "letter": "A",
           "text": "The dog is above the table.",
           "is_correct": false,
-          "feedback": "above dice que el perro esta mas alto que la mesa, y en el texto esta claramente mas abajo."
+          "feedback": "above says the dog is higher than the table, and in the text it is clearly lower."
         },
         {
           "letter": "B",
           "text": "The dog is next to the table.",
           "is_correct": false,
-          "feedback": "next to solo indica que estan al lado uno del otro, pero el texto dice que esta debajo."
+          "feedback": "next to only indicates they are side by side, but the text says it is below."
         },
         {
           "letter": "C",
           "text": "The dog is below the table.",
           "is_correct": true,
-          "feedback": "under y below describen la misma relacion vertical: lo que esta por debajo, y el perro evita el piso caliente."
+          "feedback": "under and below describe the same vertical relationship: what is underneath, and the dog avoids the hot floor."
         },
         {
           "letter": "D",
           "text": "The dog is inside the table.",
           "is_correct": false,
-          "feedback": "inside describe un espacio cerrado como una caja; una mesa no tiene interior donde quepa un perro."
+          "feedback": "inside describes a closed space such as a box; a piece of furniture has no interior where a dog could fit."
         }
       ],
       "correct_answer": "C",
@@ -338,25 +338,25 @@
           "letter": "A",
           "text": "between",
           "is_correct": false,
-          "feedback": "between requiere dos objetos a los lados; aqui solo hay una silla como referencia."
+          "feedback": "between requires two objects on the sides; here there is only one chair as a reference."
         },
         {
           "letter": "B",
           "text": "under",
           "is_correct": false,
-          "feedback": "under significaria que el morral quedo por debajo de la silla, y el texto no dice eso."
+          "feedback": "under would mean the bag ended up below the chair, and the text does not say that."
         },
         {
           "letter": "C",
           "text": "near",
           "is_correct": false,
-          "feedback": "near no precisa la posicion; podria estar al lado, en el piso o sobre la silla."
+          "feedback": "near does not pin down the position; it could be beside it, on the floor or on the chair."
         },
         {
           "letter": "D",
           "text": "on",
           "is_correct": true,
-          "feedback": "on es la preposicion para objetos que descansan sobre la superficie de otro objeto, como un bolso en una silla."
+          "feedback": "on is the preposition for objects that rest on the surface of another object, like a bag on a chair."
         }
       ],
       "correct_answer": "D",

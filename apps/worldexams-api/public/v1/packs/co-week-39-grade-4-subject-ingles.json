@@ -16,25 +16,25 @@
           "letter": "A",
           "text": "fast",
           "is_correct": true,
-          "feedback": "Correct!"
+          "feedback": "Correct. Planes travel hundreds of kilometers per hour, so they are very fast."
         },
         {
           "letter": "B",
           "text": "slow",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "A plane crosses a country in a few hours, so it is not slow."
         },
         {
           "letter": "C",
           "text": "small",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "Planes are large machines with space for many passengers, not small ones."
         },
         {
           "letter": "D",
           "text": "quiet",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "Plane engines are very loud, so 'quiet' is the opposite of the truth."
         }
       ],
       "correct_answer": "A",
@@ -62,25 +62,25 @@
           "letter": "A",
           "text": "loud",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "Turtles move quietly and make almost no sound."
         },
         {
           "letter": "B",
           "text": "slow",
           "is_correct": true,
-          "feedback": "Correct!"
+          "feedback": "Correct. A turtle walks only a few steps at a time with its shell on its back, so it is very slow."
         },
         {
           "letter": "C",
           "text": "fast",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "Nothing about a turtle is fast; it is one of the slowest animals."
         },
         {
           "letter": "D",
           "text": "big",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "Some turtles are large, but what describes them all is their slow movement."
         }
       ],
       "correct_answer": "B",
@@ -108,25 +108,25 @@
           "letter": "A",
           "text": "tiny",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "An elephant is the largest land animal, the opposite of tiny."
         },
         {
           "letter": "B",
           "text": "thin",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "An elephant has a massive body held up by thick legs, not a thin one."
         },
         {
           "letter": "C",
           "text": "big",
           "is_correct": true,
-          "feedback": "Correct!"
+          "feedback": "Correct. Elephants weigh several tons, so they are big."
         },
         {
           "letter": "D",
           "text": "small",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "Small is the opposite of what an elephant is."
         }
       ],
       "correct_answer": "C",
@@ -154,25 +154,25 @@
           "letter": "A",
           "text": "big",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "A mouse fits in your hand, so it cannot be described as big."
         },
         {
           "letter": "B",
           "text": "huge",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "A mouse weighs only a few grams, which is not huge at all."
         },
         {
           "letter": "C",
           "text": "large",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "A large animal such as an elephant or a horse is the opposite of a mouse."
         },
         {
           "letter": "D",
           "text": "small",
           "is_correct": true,
-          "feedback": "Correct!"
+          "feedback": "Correct. A mouse weighs less than an apple, so it is small."
         }
       ],
       "correct_answer": "D",
@@ -200,25 +200,25 @@
           "letter": "A",
           "text": "hard",
           "is_correct": true,
-          "feedback": "Correct!"
+          "feedback": "Correct. Rock is one of the hardest natural materials; you cannot scratch it with a fingernail."
         },
         {
           "letter": "B",
           "text": "soft",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "Soft materials bend or mark easily, like cloth or rubber, which rock does not."
         },
         {
           "letter": "C",
           "text": "liquid",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "Rock is solid, and liquids flow, so 'liquid' cannot describe it."
         },
         {
           "letter": "D",
           "text": "fluffy",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "Fluffy describes something light and airy with a soft pile, like a towel, not a rock."
         }
       ],
       "correct_answer": "A",
@@ -246,25 +246,25 @@
           "letter": "A",
           "text": "rough",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "Rough means bumpy and unpleasant to the touch, the opposite of how a pillow feels."
         },
         {
           "letter": "B",
           "text": "soft",
           "is_correct": true,
-          "feedback": "Correct!"
+          "feedback": "Correct. A pillow is filled with feathers or foam so the head sinks into it, which makes it soft."
         },
         {
           "letter": "C",
           "text": "hard",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "A hard pillow would not be comfortable to sleep on."
         },
         {
           "letter": "D",
           "text": "sharp",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "Sharp means having a hard point, and a pillow has no point."
         }
       ],
       "correct_answer": "B",
@@ -292,25 +292,25 @@
           "letter": "A",
           "text": "round",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "A round shape has no edge, and the working part of a knife is its edge."
         },
         {
           "letter": "B",
           "text": "square",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "A knife blade is not square; what matters is its cutting edge."
         },
         {
           "letter": "C",
           "text": "sharp",
           "is_correct": true,
-          "feedback": "Correct!"
+          "feedback": "Correct. A knife is sharp because its thin edge cuts easily."
         },
         {
           "letter": "D",
           "text": "blunt",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "A blunt knife has a dull edge that does not cut, which is the opposite."
         }
       ],
       "correct_answer": "C",
@@ -338,25 +338,25 @@
           "letter": "A",
           "text": "light",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "A light box is easy to lift; this one takes effort to carry."
         },
         {
           "letter": "B",
           "text": "fast",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "Speed applies to things that move, and a box stays where it is put."
         },
         {
           "letter": "C",
           "text": "loud",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "Loud describes sound, and a closed box makes almost none."
         },
         {
           "letter": "D",
           "text": "heavy",
           "is_correct": true,
-          "feedback": "Correct!"
+          "feedback": "Correct. If the box needs two hands or two people to lift, it is heavy."
         }
       ],
       "correct_answer": "D",

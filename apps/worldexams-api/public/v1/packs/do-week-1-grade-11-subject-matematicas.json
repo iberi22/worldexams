@@ -421,25 +421,25 @@
           "letter": "A",
           "text": "Números Racionales",
           "is_correct": false,
-          "feedback": "Incorrecto. Son cerrados."
+          "feedback": "Los racionales sí son cerrados bajo la división: si $a$ y $b$ son racionales con $b \\neq 0$, entonces $a/b$ también es racional."
         },
         {
           "letter": "D",
           "text": "Números Enteros",
           "is_correct": true,
-          "feedback": "Correcto. 5/2 no es entero."
+          "feedback": "Los enteros no son cerrados bajo la división, porque $5 / 2 = 2.5$ no es un entero aunque $5$ y $2$ sí lo sean."
         },
         {
           "letter": "B",
           "text": "Números Reales",
           "is_correct": false,
-          "feedback": "Incorrecto. Son cerrados."
+          "feedback": "Los reales son cerrados: el cociente de dos reales con divisor distinto de cero sigue siendo real."
         },
         {
           "letter": "C",
           "text": "Números Complejos",
           "is_correct": false,
-          "feedback": "Incorrecto. Son cerrados."
+          "feedback": "Los complejos también son cerrados bajo la división, con la única condición de que el divisor no sea cero."
         }
       ],
       "correct_answer": "D",
@@ -556,25 +556,25 @@
           "letter": "B",
           "text": "-2",
           "is_correct": false,
-          "feedback": "Incorrecto. (-2)^2 es 4."
+          "feedback": "El $-2$ es la raíz de $4$, porque $(-2)^2 = 4$, no de $-4$."
         },
         {
           "letter": "C",
           "text": "2",
           "is_correct": false,
-          "feedback": "Incorrecto. 2^2 es 4."
+          "feedback": "El $2$ también resuelve $4$; ninguna raíz real puede dar un cuadrado negativo."
         },
         {
           "letter": "A",
           "text": "$2i$",
           "is_correct": true,
-          "feedback": "Correcto. Raíz de negativo usa unidad i."
+          "feedback": "Como no hay real cuyo cuadrado sea $-4$, se usa la unidad imaginaria: $2i$ cumple $(2i)^2 = 4i^2 = -4$."
         },
         {
           "letter": "D",
           "text": "No existe",
           "is_correct": false,
-          "feedback": "Incorrecto. Existe en complejos."
+          "feedback": "Sí existe dentro de los complejos, que es justamente lo que permite escribir $\\sqrt{-4} = 2i$."
         }
       ],
       "correct_answer": "A",
@@ -601,25 +601,25 @@
           "letter": "A",
           "text": "Todo entero es racional.",
           "is_correct": false,
-          "feedback": "Verdadero. n = n/1."
+          "feedback": "Es verdadera: todo entero $n$ se escribe como $n/1$, y $1$ es entero, así que $n$ es racional."
         },
         {
           "letter": "D",
           "text": "Algunos irracionales son racionales.",
           "is_correct": true,
-          "feedback": "Falso. Son conjuntos disjuntos."
+          "feedback": "Es la falsa: $\\mathbb{Q}$ e irracionales son conjuntos disjuntos por definición, así que ningún irracional puede ser racional."
         },
         {
           "letter": "B",
           "text": "Cero es real.",
           "is_correct": false,
-          "feedback": "Verdadero. Está en la recta."
+          "feedback": "Es verdadera: el $0$ pertenece a $\\mathbb{R}$ y ocupa el origen de la recta real."
         },
         {
           "letter": "C",
           "text": "$\\sqrt{2}$ es real.",
           "is_correct": false,
-          "feedback": "Verdadero. Está en la recta."
+          "feedback": "Es verdadera: $\\sqrt{2}$ es un real irracional, pertenece a la recta real y no es entero."
         }
       ],
       "correct_answer": "D",
@@ -646,25 +646,25 @@
           "letter": "A",
           "text": "Números Enteros",
           "is_correct": false,
-          "feedback": "Incorrecto. Hay uno menor."
+          "feedback": "El resultado es $2$, que también es natural, y $\\mathbb{N}$ está contenido en $\\mathbb{Z}$, así que $\\mathbb{Z}$ no es el conjunto más pequeño."
         },
         {
           "letter": "C",
           "text": "Números Naturales",
           "is_correct": true,
-          "feedback": "Correcto. Resultado es 2."
+          "feedback": "Como $\\frac{\\sqrt{16}}{2} + \\pi - \\pi = 4/2 = 2$, y $2$ es natural, el conjunto más pequeño que lo contiene es $\\mathbb{N}$."
         },
         {
           "letter": "B",
           "text": "Números Racionales",
           "is_correct": false,
-          "feedback": "Incorrecto. Hay uno menor."
+          "feedback": "Los racionales contienen a los naturales, así que no es el conjunto más pequeño."
         },
         {
           "letter": "D",
           "text": "Números Irracionales",
           "is_correct": false,
-          "feedback": "Incorrecto. El pi se cancela."
+          "feedback": "Los $\\pi$ se cancelan entre sí y queda un número racional, de modo que el resultado no es irracional."
         }
       ],
       "correct_answer": "C",
@@ -781,25 +781,25 @@
           "letter": "A",
           "text": "Naturales",
           "is_correct": false,
-          "feedback": "Incorrecto. Empieza en 1."
+          "feedback": "Los naturales tienen primer elemento: el $1$ (o el $0$, según la convención)."
         },
         {
           "letter": "D",
           "text": "Enteros",
           "is_correct": true,
-          "feedback": "Correcto. Infinitos hacia negativos."
+          "feedback": "Los enteros se extienden hacia abajo sin límite: siempre hay un entero menor que cualquier otro, así que no tienen primer elemento."
         },
         {
           "letter": "B",
           "text": "Primos",
           "is_correct": false,
-          "feedback": "Incorrecto. Empieza en 2."
+          "feedback": "Los primos empiezan en $2$, que es el menor primo."
         },
         {
           "letter": "C",
           "text": "Enteros pos.",
           "is_correct": false,
-          "feedback": "Incorrecto. Empieza en 1."
+          "feedback": "Los enteros positivos empiezan en $1$, que es su menor elemento."
         }
       ],
       "correct_answer": "D",
@@ -871,25 +871,25 @@
           "letter": "A",
           "text": "Siempre irracional.",
           "is_correct": false,
-          "feedback": "Incorrecto. pi/pi = 1."
+          "feedback": "No es siempre irracional: $\\pi / \\pi = 1$ es racional, y ambos factores son irracionales."
         },
         {
           "letter": "B",
           "text": "Siempre racional.",
           "is_correct": false,
-          "feedback": "Incorrecto. r(6)/r(2)=r(3)."
+          "feedback": "Tampoco es siempre racional: $\\frac{\\sqrt{6}}{\\sqrt{2}} = \\sqrt{3}$ es irracional, aunque $\\sqrt{6}$ y $\\sqrt{2}$ sean racionales irracional."
         },
         {
           "letter": "C",
           "text": "Puede ser racional o irracional.",
           "is_correct": true,
-          "feedback": "Correcto. Depende de los valores."
+          "feedback": "Depende de los valores elegidos: el cociente puede ser racional, como $\\pi/\\pi = 1$, o irracional, como $\\frac{\\sqrt{6}}{\\sqrt{2}} = \\sqrt{3}$."
         },
         {
           "letter": "D",
           "text": "Siempre imaginario.",
           "is_correct": false,
-          "feedback": "Incorrecto. Es real."
+          "feedback": "El cociente de dos reales es real, y por tanto nunca imaginario; $\\sqrt{3}$ es irracional pero real."
         }
       ],
       "correct_answer": "C",
