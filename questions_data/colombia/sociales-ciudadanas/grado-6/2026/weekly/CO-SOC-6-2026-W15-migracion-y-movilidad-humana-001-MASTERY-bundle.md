@@ -33,14 +33,14 @@ Se evalúa la migración y la movilidad humana, sus causas y la convivencia de p
 ¿Cual de las siguientes opciones describe mejor a una persona migrante?
 
 ### Opciones
-- [x] A) Una persona que se traslada de un lugar a otro, ya sea dentro de su pais o a otro pais, buscando mejores condiciones de vida
-  <!-- feedback: Correcto. La migracion es el movimiento de personas de un lugar a otro; puede ser interna (dentro del pais) o internacional (hacia otro pais). -->
-- [ ] B) Una persona que viaja de vacaciones a otro lugar por diversion
+- [ ] A) Una persona que viaja de vacaciones a otro lugar por diversion
   <!-- feedback: Incorrecto. Las vacaciones son un viaje temporal de recreo, no una migracion; el migrante busca establecerse en el nuevo lugar. -->
-- [ ] C) Una persona que vive siempre en el mismo lugar donde nacio
+- [ ] B) Una persona que vive siempre en el mismo lugar donde nacio
   <!-- feedback: Incorrecto. Una persona que nunca se muda no es migrante; la migracion implica un cambio de residencia. -->
-- [ ] D) Una persona que trabaja en un lugar pero vive en otro
+- [ ] C) Una persona que trabaja en un lugar pero vive en otro
   <!-- feedback: Incorrecto. Trabajar en un lugar y vivir en otro es un desplazamiento laboral diario, no una migracion; no hay cambio de residencia. -->
+- [x] D) Una persona que se traslada de un lugar a otro, ya sea dentro de su pais o a otro pais, buscando mejores condiciones de vida
+  <!-- feedback: Correcto. La migracion es el movimiento de personas de un lugar a otro; puede ser interna (dentro del pais) o internacional (hacia otro pais). -->
 
 ### Explicacion Pedagogica
 La migracion es un fenomeno social que consiste en el movimiento de personas desde su lugar de origen hacia otro destino, ya sea dentro del mismo pais (migracion interna) o hacia otro pais (migracion internacional). Las personas migran por diferentes razones: buscar mejores oportunidades economicas, huir de la violencia, reunirse con sus familias o escapar de desastres naturales. La migracion es un derecho humano reconocido en la Declaracion Universal de los Derechos Humanos.
@@ -79,10 +79,10 @@ La migracion rural-urbana es un fenomeno que ha marcado la historia de Colombia.
 ¿Cual de las siguientes opciones describe un "factor de atraccion" para los migrantes venezolanos en Colombia?
 
 ### Opciones
-- [x] A) La existencia de oportunidades laborales y de estudio que no tienen en su pais de origen
-  <!-- feedback: Correcto. Los factores de atraccion son las condiciones que ofrece el lugar de destino y que atraen a los migrantes, como empleo, educacion y seguridad. -->
-- [ ] B) La obligacion de los venezolanos de abandonar su pais por ley
+- [ ] A) La obligacion de los venezolanos de abandonar su pais por ley
   <!-- feedback: Incorrecto. No existe ninguna ley que obligue a los venezolanos a migrar; la migracion es una decision personal impulsada por las condiciones de su pais. -->
+- [x] B) La existencia de oportunidades laborales y de estudio que no tienen en su pais de origen
+  <!-- feedback: Correcto. Los factores de atraccion son las condiciones que ofrece el lugar de destino y que atraen a los migrantes, como empleo, educacion y seguridad. -->
 - [ ] C) El deseo de los venezolanos de cambiar su nacionalidad por la colombiana
   <!-- feedback: Incorrecto. Aunque algunos migrantes pueden cambiar de nacionalidad, este no es el motivo principal de la migracion; las personas migran por necesidades economicas y sociales. -->
 - [ ] D) La existencia de un tratado que obliga a Colombia a recibir venezolanos
@@ -102,12 +102,12 @@ La migracion se explica por la combinacion de "factores de expulsion" (condicion
 ¿Cual es el principal desafio que enfrentan los migrantes haitianos en Colombia?
 
 ### Opciones
-- [x] A) La barrera del idioma, ya que el haitiano y el criollo haitiano son diferentes al español
-  <!-- feedback: Correcto. El idioma es una barrera importante para los migrantes haitianos, ya que la mayoria no habla español y esto dificulta su acceso a servicios y empleo. -->
-- [ ] B) El clima frio de Barranquilla, que es muy diferente del clima de Haiti
+- [ ] A) El clima frio de Barranquilla, que es muy diferente del clima de Haiti
   <!-- feedback: Incorrecto. Barranquilla tiene un clima tropical similar al de Haiti; el clima no es un desafio significativo para los migrantes haitianos. -->
-- [ ] C) La falta de comida en Colombia, que es peor que en Haiti
+- [ ] B) La falta de comida en Colombia, que es peor que en Haiti
   <!-- feedback: Incorrecto. Colombia no tiene escasez de comida; el desafio de los migrantes es el acceso a recursos, no la disponibilidad de alimentos. -->
+- [x] C) La barrera del idioma, ya que el haitiano y el criollo haitiano son diferentes al español
+  <!-- feedback: Correcto. El idioma es una barrera importante para los migrantes haitianos, ya que la mayoria no habla español y esto dificulta su acceso a servicios y empleo. -->
 - [ ] D) La prohibicion de los haitianos de trabajar en Colombia
   <!-- feedback: Incorrecto. No existe una prohibicion legal para que los haitianos trabajen en Colombia; el desafio es el idioma y la regularizacion de su situacion migratoria. -->
 
@@ -125,10 +125,10 @@ Los migrantes enfrentan multiples desafios en el pais de destino: el idioma, la 
 ¿Cual de las siguientes opciones describe un "factor de expulsion" para los colombianos que migran a otros paises?
 
 ### Opciones
-- [x] A) La falta de oportunidades laborales y la inseguridad en algunas regiones de Colombia
-  <!-- feedback: Correcto. Los factores de expulsion son las condiciones negativas del lugar de origen que empujan a las personas a migrar, como la falta de empleo y la violencia. -->
-- [ ] B) El deseo de los colombianos de conocer otros paises por turismo
+- [ ] A) El deseo de los colombianos de conocer otros paises por turismo
   <!-- feedback: Incorrecto. El turismo es un viaje temporal, no una migracion; los factores de expulsion son condiciones negativas que obligan a las personas a dejar su pais. -->
+- [x] B) La falta de oportunidades laborales y la inseguridad en algunas regiones de Colombia
+  <!-- feedback: Correcto. Los factores de expulsion son las condiciones negativas del lugar de origen que empujan a las personas a migrar, como la falta de empleo y la violencia. -->
 - [ ] C) La obligacion del gobierno colombiano de enviar ciudadanos al exterior
   <!-- feedback: Incorrecto. El gobierno no obliga a los colombianos a migrar; la migracion es una decisión personal impulsada por las condiciones del pais. -->
 - [ ] D) La existencia de un programa que regala casas en el extranjero
@@ -148,12 +148,12 @@ Los factores de expulsion son las condiciones negativas del lugar de origen que 
 ¿Cual es la relacion entre la migracion y la informalidad laboral en Colombia?
 
 ### Opciones
-- [x] A) Los migrantes suelen trabajar en el sector informal porque enfrentan barreras para acceder a empleos formales, como la falta de documentos o el desconocimiento de sus derechos
-  <!-- feedback: Correcto. La informalidad laboral es una realidad para muchos migrantes porque no tienen documentos, no conocen sus derechos o enfrentan discriminacion en el mercado laboral. -->
-- [ ] B) Los migrantes prefieren trabajar en el sector informal porque pagan menos impuestos
+- [ ] A) Los migrantes prefieren trabajar en el sector informal porque pagan menos impuestos
   <!-- feedback: Incorrecto. Los migrantes no eligen la informalidad por preferencia; la informalidad es una consecuencia de las barreras que enfrentan para acceder a empleos formales. -->
-- [ ] C) Los migrantes no pueden trabajar en el sector formal porque son ilegales
+- [ ] B) Los migrantes no pueden trabajar en el sector formal porque son ilegales
   <!-- feedback: Incorrecto. No todos los migrantes son irregulares; muchos tienen documentos pero enfrentan otras barreras como la discriminacion o el desconocimiento de sus derechos. -->
+- [x] C) Los migrantes suelen trabajar en el sector informal porque enfrentan barreras para acceder a empleos formales, como la falta de documentos o el desconocimiento de sus derechos
+  <!-- feedback: Correcto. La informalidad laboral es una realidad para muchos migrantes porque no tienen documentos, no conocen sus derechos o enfrentan discriminacion en el mercado laboral. -->
 - [ ] D) Los migrantes solo trabajan en el sector informal porque no saben hacer otro tipo de trabajo
   <!-- feedback: Incorrecto. Los migrantes tienen diversas habilidades y profesiones; la informalidad no es por falta de capacidad, sino por barreras estructurales. -->
 
@@ -194,14 +194,14 @@ La migracion puede clasificarse segun el motivo: migracion economica (buscar mej
 ¿Cual es el impacto de la diaspora colombiana en el pais?
 
 ### Opciones
-- [x] A) Las remesas (dinero que envian los migrantes a sus familias) son una fuente importante de ingresos para muchas familias colombianas
-  <!-- feedback: Correcto. Las remesas son transferencias de dinero que los migrantes envian a sus familias en Colombia; representan una fuente vital de ingresos para millones de hogares. -->
-- [ ] B) La diaspora colombiana ha reducido la poblacion del pais a niveles criticos
+- [ ] A) La diaspora colombiana ha reducido la poblacion del pais a niveles criticos
   <!-- feedback: Incorrecto. Aunque millones de colombianos viven en el extranjero, la poblacion del pais sigue creciendo; la diaspora no ha reducido la poblacion a niveles criticos. -->
-- [ ] C) Los colombianos en el extranjero pierden completamente su identidad cultural
+- [ ] B) Los colombianos en el extranjero pierden completamente su identidad cultural
   <!-- feedback: Incorrecto. Los migrantes mantienen vinculos con su pais y su cultura; la diaspora no implica la perdida de la identidad, sino su transformacion. -->
-- [ ] D) La diaspora colombiana ha eliminado la pobreza en las regiones de origen
+- [ ] C) La diaspora colombiana ha eliminado la pobreza en las regiones de origen
   <!-- feedback: Incorrecto. Las remesas ayudan a muchas familias, pero no han eliminado la pobreza; la migracion es una estrategia de supervivencia, no una solucion estructural. -->
+- [x] D) Las remesas (dinero que envian los migrantes a sus familias) son una fuente importante de ingresos para muchas familias colombianas
+  <!-- feedback: Correcto. Las remesas son transferencias de dinero que los migrantes envian a sus familias en Colombia; representan una fuente vital de ingresos para millones de hogares. -->
 
 ### Explicacion Pedagogica
 La diaspora colombiana es uno de los fenomenos migratorios mas importantes del pais. Millones de colombianos viven en el extranjero, principalmente en España, Estados Unidos, Venezuela y Ecuador. Las remesas que envian son una fuente vital de ingresos para muchas familias, pero también plantean desafios: la separacion familiar, la perdida de talento y la dependencia economica. El Estado debe fortalecer los vinculos con la diaspora y crear oportunidades para que los colombianos no tengan que migrar por necesidad.
@@ -217,14 +217,14 @@ La diaspora colombiana es uno de los fenomenos migratorios mas importantes del p
 ¿Cual es la posicion etica mas frente a este debate?
 
 ### Opciones
-- [x] A) Colombia debe garantizar los derechos de los migrantes y buscar integrarlos a la sociedad, sin cerrar las fronteras
-  <!-- feedback: Correcto. Los derechos humanos no tienen fronteras; Colombia debe garantizar los derechos de los migrantes y buscar su integracion, no su exclusion. -->
-- [ ] B) Colombia debe cerrar sus fronteras porque los migrantes quitan empleos a los colombianos
+- [ ] A) Colombia debe cerrar sus fronteras porque los migrantes quitan empleos a los colombianos
   <!-- feedback: Incorrecto. Cerrar las fronteras viola el derecho humano a migrar y no resuelve los problemas economicos; la integracion es mas efectiva que la exclusion. -->
-- [ ] C) Colombia debe permitir la migracion solo de personas con estudios universitarios
+- [ ] B) Colombia debe permitir la migracion solo de personas con estudios universitarios
   <!-- feedback: Incorrecto. Restringir la migracion por nivel educativo es discriminatorio; los derechos humanos no dependen del nivel de estudios de las personas. -->
-- [ ] D) Colombia debe deportar a todos los migrantes venezolanos para proteger la economia nacional
+- [ ] C) Colombia debe deportar a todos los migrantes venezolanos para proteger la economia nacional
   <!-- feedback: Incorrecto. La deportacion masiva viola los derechos humanos y el principio de no devolucion; los migrantes tienen derecho a un trato digno y a un proceso justo. -->
+- [x] D) Colombia debe garantizar los derechos de los migrantes y buscar integrarlos a la sociedad, sin cerrar las fronteras
+  <!-- feedback: Correcto. Los derechos humanos no tienen fronteras; Colombia debe garantizar los derechos de los migrantes y buscar su integracion, no su exclusion. -->
 
 ### Explicacion Pedagogica
 El debate sobre la migracion es complejo y requiere equilibrar los derechos de los migrantes con los intereses del pais de destino. La etica de los derechos humanos establece que todas las personas tienen derecho a migrar y a ser tratadas con dignidad, independientemente de su nacionalidad. Cerrar las fronteras o deportar masivamente viola estos derechos y no resuelve los problemas economicos. La integracion de los migrantes, con acceso a educacion, salud y empleo formal, es la estrategia mas justa y efectiva.

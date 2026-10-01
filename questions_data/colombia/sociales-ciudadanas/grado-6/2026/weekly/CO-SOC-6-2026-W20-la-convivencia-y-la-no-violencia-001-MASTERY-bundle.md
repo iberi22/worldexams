@@ -33,14 +33,14 @@ Se evalúa la convivencia, la no violencia y las vías pacíficas para resolver 
 ¿Qué es la convivencia?
 
 ### Opciones
-- [x] A) Vivir con otros de forma respetuosa, cumpliendo acuerdos que permiten compartir los espacios
-  <!-- feedback: Correcto. Convivir significa compartir con respeto, porque en el patio eso se ve cuando se ayuda al caído y se siguen las reglas del juego. -->
-- [ ] B) Vivir solo sin hablar con nadie para evitar problemas
+- [ ] A) Vivir solo sin hablar con nadie para evitar problemas
   <!-- feedback: Incorrecto. Aislarse evita el contacto pero no enseña a compartir, porque convivir exige tratar con otros y resolver diferencias con respeto. -->
-- [ ] C) Hacer siempre lo que uno quiere sin importar los demás
+- [ ] B) Hacer siempre lo que uno quiere sin importar los demás
   <!-- feedback: Incorrecto. Actuar sin importar los demás rompe la vida en común, porque convivir pide pensar también en el compañero que usa el mismo patio. -->
-- [ ] D) Obedecer por miedo al castigo aunque no se entienda la norma
+- [ ] C) Obedecer por miedo al castigo aunque no se entienda la norma
   <!-- feedback: Incorrecto. Obedecer por miedo no crea respeto, porque convivir se basa en comprender el acuerdo y cumplirlo por convicción. -->
+- [x] D) Vivir con otros de forma respetuosa, cumpliendo acuerdos que permiten compartir los espacios
+  <!-- feedback: Correcto. Convivir significa compartir con respeto, porque en el patio eso se ve cuando se ayuda al caído y se siguen las reglas del juego. -->
 
 ### Explicacion Pedagogica
 La convivencia es la capacidad de vivir con otras personas compartiendo espacios, tiempos y reglas de forma respetuosa. No significa ausencia de diferencias, sino manejo adecuado de ellas. En el colegio se practica en el juego, la fila y el salón, donde cada acto de respeto sostiene la vida en común.
@@ -58,10 +58,10 @@ La convivencia es la capacidad de vivir con otras personas compartiendo espacios
 ### Opciones
 - [ ] A) Gritar más fuerte para que el otro se asuste y se vaya
   <!-- feedback: Incorrecto. Gritar asusta pero no repara el daño, porque la solución pacífica busca entender y reparar, no imponer por miedo. -->
-- [x] B) Dialogar para reconocer el daño y acordar cómo repararlo
-  <!-- feedback: Correcto. Dialogar permite escuchar y pactar la reparación, porque reconocer que se rompieron las matas y ofrecer reponerlas restaura la relación. -->
-- [ ] C) Pelear a golpes para ver quién tiene la razón
+- [ ] B) Pelear a golpes para ver quién tiene la razón
   <!-- feedback: Incorrecto. Golpear hiere y agrava el problema, porque la razón no la da la fuerza sino el acuerdo sobre lo ocurrido y su reparación. -->
+- [x] C) Dialogar para reconocer el daño y acordar cómo repararlo
+  <!-- feedback: Correcto. Dialogar permite escuchar y pactar la reparación, porque reconocer que se rompieron las matas y ofrecer reponerlas restaura la relación. -->
 - [ ] D) No volverse a hablar nunca más en la vida
   <!-- feedback: Incorrecto. Romper la relación deja el conflicto abierto, porque la salida pacífica necesita conversar y pactar, no huir del vecino. -->
 
@@ -127,10 +127,10 @@ El juego es un pacto: todos aceptan reglas y una autoridad que las aplica. El in
 ### Opciones
 - [ ] A) Seguir riéndose para que aprenda a hablar como los demás
   <!-- feedback: Incorrecto. Reírse para corregir humilla, porque burlarse del acento niega la identidad de la compañera y la excluye del grupo. -->
-- [x] B) Recibirla con respeto, escucharla y aprender de su vereda
-  <!-- feedback: Correcto. Acoger con respeto incluye y enriquece, porque escuchar su historia reconoce su dignidad y aporta nuevas experiencias al salón. -->
-- [ ] C) Ignorarla por completo para no tener problemas
+- [ ] B) Ignorarla por completo para no tener problemas
   <!-- feedback: Incorrecto. Ignorar también excluye, porque dejarla sola sin hablarle le niega la amistad y la participación en el grupo. -->
+- [x] C) Recibirla con respeto, escucharla y aprender de su vereda
+  <!-- feedback: Correcto. Acoger con respeto incluye y enriquece, porque escuchar su historia reconoce su dignidad y aporta nuevas experiencias al salón. -->
 - [ ] D) Pedir que la cambien de salón para no acostumbrarse a su acento
   <!-- feedback: Incorrecto. Sacarla traslada el problema, porque convivir exige aceptar la diferencia y no apartar a quien habla distinto. -->
 
@@ -148,10 +148,10 @@ La diferencia regional, de acento o de costumbre no es un defecto sino una rique
 ¿Cuál es el análisis más justo de este conflicto?
 
 ### Opciones
-- [ ] A) Que gana quien grite más fuerte en el patio
-  <!-- feedback: Incorrecto. Gritar no prueba ningún derecho, porque la fuerza de la voz no reemplaza el horario acordado por la coordinación. -->
-- [x] B) Que el horario firmado es la prueba que ordena el uso y ambos deben respetarlo
+- [x] A) Que el horario firmado es la prueba que ordena el uso y ambos deben respetarlo
   <!-- feedback: Correcto. El acuerdo escrito resuelve con imparcialidad, porque muestra a quién le toca cada día y evita que decida el más fuerte. -->
+- [ ] B) Que gana quien grite más fuerte en el patio
+  <!-- feedback: Incorrecto. Gritar no prueba ningún derecho, porque la fuerza de la voz no reemplaza el horario acordado por la coordinación. -->
 - [ ] C) Que la cancha debe cerrarse para siempre para que nadie pelee
   <!-- feedback: Incorrecto. Cerrar castiga a todos por igual, porque quita el juego en lugar de aplicar el acuerdo que ya ordena los turnos. -->
 - [ ] D) Que el curso más grande tiene derecho a quedarse con la cancha
@@ -171,10 +171,10 @@ Muchos conflictos nacen de versiones enfrentadas sin prueba. El horario firmado 
 ¿Qué daño causó actuar sin verificar?
 
 ### Opciones
-- [x] A) Dañó su buen nombre y la confianza del grupo, porque el insulto sin pruebas hiere aunque después se pida perdón
-  <!-- feedback: Correcto. El daño es a la dignidad y a la confianza, porque acusar sin pruebas deja una herida que la disculpa posterior no borra del todo. -->
-- [ ] B) No causó daño, porque en internet todo se olvida rápido
+- [ ] A) No causó daño, porque en internet todo se olvida rápido
   <!-- feedback: Incorrecto. Lo publicado deja huella en la memoria del grupo, porque quien fue acusado recuerda el insulto aunque el mensaje se borre. -->
+- [x] B) Dañó su buen nombre y la confianza del grupo, porque el insulto sin pruebas hiere aunque después se pida perdón
+  <!-- feedback: Correcto. El daño es a la dignidad y a la confianza, porque acusar sin pruebas deja una herida que la disculpa posterior no borra del todo. -->
 - [ ] C) Solo dañó el celular, porque lo demás no importa
   <!-- feedback: Incorrecto. El celular apareció intacto, porque lo dañado fue la reputación del compañero y la amistad del salón. -->
 - [ ] D) Benefició al grupo, porque así todos tienen más cuidado
@@ -196,12 +196,12 @@ Acusar sin pruebas es una forma de violencia que daña el buen nombre, que es un
 ### Opciones
 - [ ] A) Porque las patadas cansan mucho al que las da
   <!-- feedback: Incorrecto. El cansancio no es el criterio, porque el problema es usar el cuerpo para dañar al otro y romper las reglas del juego. -->
-- [x] B) Porque usa el daño físico como estrategia para ganar, rompiendo el juego limpio
-  <!-- feedback: Correcto. La no violencia rechaza dañar para vencer, porque el deporte exige disputar con habilidad y respeto, no con agresión. -->
-- [ ] C) Porque el árbitro podría no darse cuenta de las patadas
+- [ ] B) Porque el árbitro podría no darse cuenta de las patadas
   <!-- feedback: Incorrecto. Que no lo vean no lo vuelve correcto, porque la falta existe aunque nadie la sancione y daña igual al rival. -->
-- [ ] D) Porque perder un partido es lo peor que puede pasar
+- [ ] C) Porque perder un partido es lo peor que puede pasar
   <!-- feedback: Incorrecto. Perder hace parte del juego, porque aceptar la derrota con dignidad enseña más que ganar con trampas y golpes. -->
+- [x] D) Porque usa el daño físico como estrategia para ganar, rompiendo el juego limpio
+  <!-- feedback: Correcto. La no violencia rechaza dañar para vencer, porque el deporte exige disputar con habilidad y respeto, no con agresión. -->
 
 ### Explicacion Pedagogica
 La no violencia rechaza el daño físico como medio para lograr fines, incluso en el deporte. Dar patadas para asustar convierte al rival en enemigo y destruye el juego limpio. Mantener la habilidad y el respeto aunque se vaya perdiendo es la victoria de la convivencia.
@@ -221,10 +221,10 @@ La no violencia rechaza el daño físico como medio para lograr fines, incluso e
   <!-- feedback: Incorrecto. El miedo contiene un día pero no enseña, porque sin diálogo el estudiante no comprende el daño ni aprende a reparar. -->
 - [ ] B) Separar a los cursos para que nunca se encuentren
   <!-- feedback: Incorrecto. Separar evita el roce pero impide aprender, porque convivir exige encontrarse y resolver, no aislarse para siempre. -->
-- [x] C) Formar mediadores que escuchen a las partes y ayuden a firmar acuerdos
-  <!-- feedback: Correcto. Mediar enseña a dialogar y a reparar, porque escuchar reconoce a cada uno y el acuerdo firmado compromete a cumplirlo. -->
-- [ ] D) Dejar que los estudiantes arreglen todo a golpes para que se acostumbren
+- [ ] C) Dejar que los estudiantes arreglen todo a golpes para que se acostumbren
   <!-- feedback: Incorrecto. Normalizar los golpes perpetúa la violencia, porque acostumbrarse a pegar enseña que la fuerza decide y destruye la paz. -->
+- [x] D) Formar mediadores que escuchen a las partes y ayuden a firmar acuerdos
+  <!-- feedback: Correcto. Mediar enseña a dialogar y a reparar, porque escuchar reconoce a cada uno y el acuerdo firmado compromete a cumplirlo. -->
 
 ### Explicacion Pedagogica
 La paz escolar no se logra solo con castigo ni con separación, sino con mecanismos que enseñan a resolver: la mediación. Un mediador escucha sin tomar partido, ayuda a nombrar el daño y acompaña el acuerdo. Evaluar las salidas muestra que solo la que forma en diálogo construye convivencia duradera.
@@ -240,12 +240,12 @@ La paz escolar no se logra solo con castigo ni con separación, sino con mecanis
 ¿Cuál plan expresa mejor la no violencia?
 
 ### Opciones
-- [x] A) La jornada cooperativa con trueque y perdón, porque une sin humillar y repara los vínculos
-  <!-- feedback: Correcto. Ese plan practica la paz positiva, porque cooperar incluye a todos, compartir libros crea lazos y pedir perdón cierra heridas. -->
-- [ ] B) El torneo con humillación, porque así los perdedores aprenden a ganar
+- [ ] A) El torneo con humillación, porque así los perdedores aprenden a ganar
   <!-- feedback: Incorrecto. Humillar no enseña a ganar, porque avergonzar en público hiere la dignidad y siembra rencor en lugar de amistad. -->
-- [ ] C) Los dos valen igual porque ambos reúnen gente
+- [ ] B) Los dos valen igual porque ambos reúnen gente
   <!-- feedback: Incorrecto. Reunir no basta para la paz, porque un encuentro que humilla divide y uno que coopera y perdona une de verdad. -->
+- [x] C) La jornada cooperativa con trueque y perdón, porque une sin humillar y repara los vínculos
+  <!-- feedback: Correcto. Ese plan practica la paz positiva, porque cooperar incluye a todos, compartir libros crea lazos y pedir perdón cierra heridas. -->
 - [ ] D) Ninguno, porque la convivencia no necesita encuentros
   <!-- feedback: Incorrecto. Sin encuentros no hay comunidad, porque la convivencia se construye compartiendo juegos, palabras y acuerdos cara a cara. -->
 

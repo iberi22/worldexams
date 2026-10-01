@@ -33,12 +33,12 @@ Se evalúa la protección de los derechos humanos y de la dignidad de las person
 ¿Cual de las siguientes caracteristicas define a los derechos humanos?
 
 ### Opciones
-- [x] A) Son universales, porque pertenecen a todas las personas por el simple hecho de ser humanas
-  <!-- feedback: Correcto. La universalidad es la caracteristica esencial de los derechos humanos: todas las personas los poseen sin discriminacion de ningun tipo. -->
-- [ ] B) Son temporales, porque solo se aplican durante un periodo determinado de la vida
+- [ ] A) Son temporales, porque solo se aplican durante un periodo determinado de la vida
   <!-- feedback: Incorrecto. Los derechos humanos son permanentes y acompañan a la persona desde el nacimiento hasta la muerte, no son temporales. -->
-- [ ] C) Son exclusivos, porque solo algunas personas los merecen segun su comportamiento
+- [ ] B) Son exclusivos, porque solo algunas personas los merecen segun su comportamiento
   <!-- feedback: Incorrecto. Los derechos humanos no se pierden por mal comportamiento; incluso las personas que han cometido delitos conservan derechos fundamentales. -->
+- [x] C) Son universales, porque pertenecen a todas las personas por el simple hecho de ser humanas
+  <!-- feedback: Correcto. La universalidad es la caracteristica esencial de los derechos humanos: todas las personas los poseen sin discriminacion de ningun tipo. -->
 - [ ] D) Son negociables, porque dependen de la voluntad de cada gobierno para reconocerlos
   <!-- feedback: Incorrecto. Los derechos humanos son anteriores a los gobiernos; estos tienen la obligacion de respetarlos y garantizarlos, no de concederlos. -->
 
@@ -56,14 +56,14 @@ Los derechos humanos son universales, inalienables e inviolables. La universalid
 ¿Cual es el derecho fundamental que se viola cuando una persona es obligada a abandonar su hogar por causa de la violencia?
 
 ### Opciones
-- [x] A) El derecho a la libertad de residencia y a no ser desplazado forzadamente
-  <!-- feedback: Correcto. El desplazamiento forzado viola el derecho de las personas a vivir libremente en su hogar y a no ser obligadas a abandonarlo por la violencia. -->
-- [ ] B) El derecho a la propiedad privada sobre la tierra
+- [ ] A) El derecho a la propiedad privada sobre la tierra
   <!-- feedback: Incorrecto. Aunque el desplazamiento afecta la propiedad, el derecho fundamental violado es la libertad de residencia y la integridad de la persona. -->
-- [ ] C) El derecho a la educacion de los hijos
+- [ ] B) El derecho a la educacion de los hijos
   <!-- feedback: Incorrecto. El desplazamiento también afecta la educacion, pero el derecho principal violado es el de no ser obligado a abandonar el hogar. -->
-- [ ] D) El derecho a la libertad de expresion
+- [ ] C) El derecho a la libertad de expresion
   <!-- feedback: Incorrecto. El desplazamiento forzado no se relaciona directamente con la libertad de expresion; viola derechos como la residencia y la integridad personal. -->
+- [x] D) El derecho a la libertad de residencia y a no ser desplazado forzadamente
+  <!-- feedback: Correcto. El desplazamiento forzado viola el derecho de las personas a vivir libremente en su hogar y a no ser obligadas a abandonarlo por la violencia. -->
 
 ### Explicacion Pedagogica
 El desplazamiento forzado es una violacion grave de los derechos humanos que afecta a millones de personas en Colombia. Las personas desplazadas pierden no solo sus bienes materiales, sino también su comunidad, sus redes de apoyo y su proyecto de vida. La Constitucion colombiana y los derechos humanos reconocen el derecho de todas las personas a no ser desplazadas forzadamente y a recibir proteccion del Estado.
@@ -102,10 +102,10 @@ La educacion es un derecho humano fundamental reconocido en la Constitucion colo
 ¿Cuales derechos humanos se ven afectados por la contaminacion del rio Magdalena en esta comunidad?
 
 ### Opciones
-- [x] A) El derecho a la salud, al ambiente sano y al trabajo de los pescadores
-  <!-- feedback: Correcto. La contaminacion afecta la salud de las personas, el derecho a un ambiente sano y el trabajo de quienes viven de los recursos del rio. -->
-- [ ] B) El derecho a la libertad de culto, porque los pescadores no pueden ir a la iglesia
+- [ ] A) El derecho a la libertad de culto, porque los pescadores no pueden ir a la iglesia
   <!-- feedback: Incorrecto. La contaminacion no afecta directamente la libertad de culto; afecta derechos como la salud, el ambiente y el trabajo. -->
+- [x] B) El derecho a la salud, al ambiente sano y al trabajo de los pescadores
+  <!-- feedback: Correcto. La contaminacion afecta la salud de las personas, el derecho a un ambiente sano y el trabajo de quienes viven de los recursos del rio. -->
 - [ ] C) El derecho a la libertad de expresion, porque los pescadores no pueden hablar
   <!-- feedback: Incorrecto. La contaminacion no impide que las personas hablen o expresen sus opiniones; afecta otros derechos como la salud y el ambiente. -->
 - [ ] D) El derecho a la educacion, porque los niños no pueden ir al colegio
@@ -125,10 +125,10 @@ La contaminacion ambiental viola multiples derechos humanos: el derecho a la sal
 ¿Cual es el derecho fundamental que se viola cuando una niña es victima de bullying en el colegio?
 
 ### Opciones
-- [x] A) El derecho a la integridad personal y a la dignidad, que incluye estar libre de maltrato y acoso
-  <!-- feedback: Correcto. El bullying viola el derecho de la niña a su integridad personal y a su dignidad; ninguna persona debe ser sometida a tratos crueles o degradantes. -->
-- [ ] B) El derecho a la educacion, porque la niña no puede aprender
+- [ ] A) El derecho a la educacion, porque la niña no puede aprender
   <!-- feedback: Incorrecto. Aunque el bullying afecta el aprendizaje, el derecho directamente violado es la integridad personal y la dignidad de la niña. -->
+- [x] B) El derecho a la integridad personal y a la dignidad, que incluye estar libre de maltrato y acoso
+  <!-- feedback: Correcto. El bullying viola el derecho de la niña a su integridad personal y a su dignidad; ninguna persona debe ser sometida a tratos crueles o degradantes. -->
 - [ ] C) El derecho a la libertad de movimiento, porque la niña no puede salir del colegio
   <!-- feedback: Incorrecto. El bullying no restringe fisicamente el movimiento de la niña; afecta su integridad emocional y su dignidad. -->
 - [ ] D) El derecho a la propiedad, porque la niña pierde sus pertenencias
@@ -148,12 +148,12 @@ El bullying o acoso escolar es una violacion de los derechos humanos de los niñ
 ¿Cuales derechos fundamentales se violan cuando una persona es detenida sin orden judicial y sin saber de que se le acusa?
 
 ### Opciones
-- [x] A) El derecho a la libertad personal, al debido proceso y a la presuncion de inocencia
-  <!-- feedback: Correcto. Toda persona tiene derecho a no ser detenida sin orden judicial, a conocer los cargos en su contra y a ser considerada inocente hasta que se demuestre lo contrario. -->
-- [ ] B) El derecho a la educacion, al trabajo y a la vivienda
+- [ ] A) El derecho a la educacion, al trabajo y a la vivienda
   <!-- feedback: Incorrecto. La detencion arbitraria no afecta directamente estos derechos; viola derechos como la libertad personal y el debido proceso. -->
-- [ ] C) El derecho a la libertad de expresion y a la libertad de culto
+- [ ] B) El derecho a la libertad de expresion y a la libertad de culto
   <!-- feedback: Incorrecto. La detencion arbitraria no se relaciona con la libertad de expresion o de culto; viola el derecho a la libertad personal y al debido proceso. -->
+- [x] C) El derecho a la libertad personal, al debido proceso y a la presuncion de inocencia
+  <!-- feedback: Correcto. Toda persona tiene derecho a no ser detenida sin orden judicial, a conocer los cargos en su contra y a ser considerada inocente hasta que se demuestre lo contrario. -->
 - [ ] D) El derecho a la propiedad y a la libertad de empresa
   <!-- feedback: Incorrecto. La detencion arbitraria no afecta la propiedad ni la libertad de empresa; viola derechos fundamentales como la libertad y el debido proceso. -->
 
@@ -171,14 +171,14 @@ El debido proceso es un derecho fundamental que garantiza que ninguna persona pu
 ¿Cual es el conflicto de derechos que se presenta entre la empresa minera y la comunidad campesina?
 
 ### Opciones
-- [x] A) El derecho al agua y al ambiente sano de la comunidad versus el derecho a la actividad economica de la empresa
-  <!-- feedback: Correcto. La comunidad tiene derecho al agua y a un ambiente sano, mientras la empresa tiene derecho a la actividad economica; el Estado debe buscar un equilibrio que proteja los derechos de todos. -->
-- [ ] B) El derecho a la educacion versus el derecho a la salud
+- [ ] A) El derecho a la educacion versus el derecho a la salud
   <!-- feedback: Incorrecto. El conflicto no es entre educacion y salud; es entre el derecho al agua y al ambiente de la comunidad y el derecho a la actividad economica de la empresa. -->
-- [ ] C) El derecho a la libertad de expresion versus el derecho a la propiedad
+- [ ] B) El derecho a la libertad de expresion versus el derecho a la propiedad
   <!-- feedback: Incorrecto. El conflicto no involucra la libertad de expresion; es un conflicto entre derechos ambientales y derechos economicos. -->
-- [ ] D) El derecho al trabajo versus el derecho a la vivienda
+- [ ] C) El derecho al trabajo versus el derecho a la vivienda
   <!-- feedback: Incorrecto. El conflicto no es entre trabajo y vivienda; es entre el acceso al agua de la comunidad y la actividad economica de la empresa. -->
+- [x] D) El derecho al agua y al ambiente sano de la comunidad versus el derecho a la actividad economica de la empresa
+  <!-- feedback: Correcto. La comunidad tiene derecho al agua y a un ambiente sano, mientras la empresa tiene derecho a la actividad economica; el Estado debe buscar un equilibrio que proteja los derechos de todos. -->
 
 ### Explicacion Pedagogica
 Los conflictos entre derechos son situaciones donde dos o más derechos legítimos entran en tension. En este caso, la comunidad tiene derecho al agua y a un ambiente sano (derechos colectivos), mientras la empresa tiene derecho a desarrollar actividades economicas (derecho individual). El Estado debe mediar para encontrar un equilibrio que proteja los derechos de todos, priorizando los derechos fundamentales y el bienestar de la comunidad.
@@ -217,12 +217,12 @@ La Constitucion colombiana reconoce la diversidad etnica y cultural del país y 
 ¿Cual es el criterio etico que debe guiar la decision del gobierno en este caso?
 
 ### Opciones
-- [x] A) El principio de proporcionalidad, que busca equilibrar el bienestar de la mayoria con el respeto a los derechos de las minorias
-  <!-- feedback: Correcto. El principio de proporcionalidad exige que las medidas que afectan a una minoria sean necesarias, adecuadas y no exista una alternativa menos lesiva para sus derechos. -->
-- [ ] B) El principio de mayoria, porque lo que decida la mayoria siempre es lo correcto
+- [ ] A) El principio de mayoria, porque lo que decida la mayoria siempre es lo correcto
   <!-- feedback: Incorrecto. La regla de la mayoria no puede violar los derechos fundamentales de las minorias; la democracia protege también a las minorias. -->
-- [ ] C) El principio de economia, porque la decision mas barata siempre es la mejor
+- [ ] B) El principio de economia, porque la decision mas barata siempre es la mejor
   <!-- feedback: Incorrecto. El costo economico no puede ser el unico criterio; los derechos humanos y la dignidad de las personas son prioritarios sobre la economia. -->
+- [x] C) El principio de proporcionalidad, que busca equilibrar el bienestar de la mayoria con el respeto a los derechos de las minorias
+  <!-- feedback: Correcto. El principio de proporcionalidad exige que las medidas que afectan a una minoria sean necesarias, adecuadas y no exista una alternativa menos lesiva para sus derechos. -->
 - [ ] D) El principio de autoridad, porque el gobierno siempre tiene la razon
   <!-- feedback: Incorrecto. La autoridad no es un criterio etico; las decisiones del gobierno deben justificarse en principios de justicia y respeto a los derechos. -->
 
@@ -240,14 +240,14 @@ Los conflictos entre el bienestar colectivo y los derechos de las minorias son u
 ¿Por que es importante que existan mecanismos de denuncia de violaciones de derechos humanos dentro del colegio?
 
 ### Opciones
-- [x] A) Porque garantizan que las violaciones de derechos no queden impunes y que las victimas tengan un espacio seguro para ser escuchadas
-  <!-- feedback: Correcto. Los mecanismos de denuncia permiten identificar y corregir las violaciones de derechos, proteger a las victimas y prevenir que los hechos se repitan. -->
-- [ ] B) Porque permiten que los estudiantes castiguen a quienes consideran que han faltado a las normas
+- [ ] A) Porque permiten que los estudiantes castiguen a quienes consideran que han faltado a las normas
   <!-- feedback: Incorrecto. El tribunal no es un espacio de castigo entre estudiantes; es un mecanismo de proteccion de derechos, no de venganza. -->
-- [ ] C) Porque reemplazan la necesidad de que los profesores y directivos se encarguen de la disciplina
+- [ ] B) Porque reemplazan la necesidad de que los profesores y directivos se encarguen de la disciplina
   <!-- feedback: Incorrecto. El tribunal complementa la labor de los adultos, no la reemplaza; la disciplina escolar sigue siendo responsabilidad de toda la comunidad educativa. -->
-- [ ] D) Porque asi los estudiantes pueden evitar que se apliquen las normas del colegio
+- [ ] C) Porque asi los estudiantes pueden evitar que se apliquen las normas del colegio
   <!-- feedback: Incorrecto. El tribunal no busca evadir las normas; busca garantizar que las normas respeten los derechos humanos de todos los estudiantes. -->
+- [x] D) Porque garantizan que las violaciones de derechos no queden impunes y que las victimas tengan un espacio seguro para ser escuchadas
+  <!-- feedback: Correcto. Los mecanismos de denuncia permiten identificar y corregir las violaciones de derechos, proteger a las victimas y prevenir que los hechos se repitan. -->
 
 ### Explicacion Pedagogica
 Los mecanismos de denuncia son esenciales para la proteccion de los derechos humanos en cualquier institucion. En el colegio, un espacio donde los estudiantes puedan denunciar violaciones de derechos (como discriminacion, acoso o maltrato) permite que estos hechos no queden impunes, que las victimas reciban apoyo y que la institucion tome medidas para prevenir que se repitan. Esto forma estudiantes conscientes de sus derechos y responsables con los demas.

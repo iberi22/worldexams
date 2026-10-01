@@ -33,12 +33,12 @@ Se evalúa el uso responsable de la tecnología y de los medios de comunicación
 ¿Qué son los medios de comunicación en la sociedad?
 
 ### Opciones
-- [x] A) Canales que transmiten información e ideas entre las personas, como la radio, la prensa y las redes sociales
-  <!-- feedback: Correcto. Los medios se definen porque transportan mensajes de un emisor a muchas personas, y por eso la emisora escolar cumple la misma función que una emisora comercial. -->
-- [ ] B) Aparatos que solo sirven para jugar videojuegos en la casa
+- [ ] A) Aparatos que solo sirven para jugar videojuegos en la casa
   <!-- feedback: Incorrecto. Confundiste el aparato con el medio: el videojuego entretiene a quien juega, mientras que el medio transmite un mensaje a una comunidad porque su función es comunicar. -->
-- [ ] C) Las personas que escuchan las noticias cada mañana
+- [ ] B) Las personas que escuchan las noticias cada mañana
   <!-- feedback: Incorrecto. Quienes escuchan son la audiencia que recibe el mensaje, no el canal, porque el medio es la emisora o el periódico que lleva la información. -->
+- [x] C) Canales que transmiten información e ideas entre las personas, como la radio, la prensa y las redes sociales
+  <!-- feedback: Correcto. Los medios se definen porque transportan mensajes de un emisor a muchas personas, y por eso la emisora escolar cumple la misma función que una emisora comercial. -->
 - [ ] D) Los cables de energía que iluminan las calles del barrio
   <!-- feedback: Incorrecto. Los cables llevan electricidad que permite encender aparatos, pero no llevan mensajes, porque un medio se reconoce porque transporta información con significado. -->
 
@@ -56,10 +56,10 @@ Los medios de comunicación son los canales que permiten que un mensaje llegue a
 ¿Por qué la tecnología puede ser una herramienta de participación ciudadana?
 
 ### Opciones
-- [ ] A) Porque reemplaza a las personas y decide por ellas sin que opinen
-  <!-- feedback: Incorrecto. La tecnología no decide por la gente: es una herramienta que recoge opiniones, porque participar significa que las personas expresan y las autoridades escuchan. -->
-- [x] B) Porque permite que más personas expresen sus opiniones y propongan soluciones ante las autoridades
+- [x] A) Porque permite que más personas expresen sus opiniones y propongan soluciones ante las autoridades
   <!-- feedback: Correcto. La participación crece cuando el canal facilita el mensaje, porque el portal permite que un vecino reporte y proponga sin desplazarse hasta la alcaldía. -->
+- [ ] B) Porque reemplaza a las personas y decide por ellas sin que opinen
+  <!-- feedback: Incorrecto. La tecnología no decide por la gente: es una herramienta que recoge opiniones, porque participar significa que las personas expresan y las autoridades escuchan. -->
 - [ ] C) Porque solo sirve para que las autoridades publiquen fotos de sus obras
   <!-- feedback: Incorrecto. Publicar fotos es solo informar en una dirección, mientras que participar exige diálogo, porque la participación existe cuando el ciudadano también propone y es escuchado. -->
 - [ ] D) Porque obliga a todos los ciudadanos a tener teléfono inteligente
@@ -83,10 +83,10 @@ La participación ciudadana es el derecho y la posibilidad de intervenir en las 
   <!-- feedback: Incorrecto. Reenviar sin comprobar multiplica el error, porque una cadena sin fuente puede ser falsa y deja a muchos estudiantes desinformados. -->
 - [ ] B) Borrarlo sin decir nada, porque lo mejor es no usar tecnología
   <!-- feedback: Incorrecto. Abandonar la tecnología no corrige el rumor, porque los demás lo seguirán recibiendo y la desinformación continúa aunque tú la ignores. -->
-- [x] C) Verificar la información en la página oficial del colegio o de la alcaldía antes de compartirla
-  <!-- feedback: Correcto. Verificar en la fuente oficial distingue el dato comprobado del rumor, porque solo la institución educativa o la autoridad confirma una suspensión de clases. -->
-- [ ] D) Agregarle un comentario propio y publicarlo como si fuera noticia confirmada
+- [ ] C) Agregarle un comentario propio y publicarlo como si fuera noticia confirmada
   <!-- feedback: Incorrecto. Añadir una opinión no convierte el rumor en verdad, porque la veracidad depende de la fuente oficial y no de quien lo comparte. -->
+- [x] D) Verificar la información en la página oficial del colegio o de la alcaldía antes de compartirla
+  <!-- feedback: Correcto. Verificar en la fuente oficial distingue el dato comprobado del rumor, porque solo la institución educativa o la autoridad confirma una suspensión de clases. -->
 
 ### Explicacion Pedagogica
 Compartir información exige responsabilidad. Ante una cadena sin fuente, el procedimiento ciudadano es verificar el origen, contrastar con la institución responsable y solo entonces difundir. Este hábito protege a la comunidad educativa de decisiones equivocadas y forma usuarios críticos de la tecnología.
@@ -102,10 +102,10 @@ Compartir información exige responsabilidad. Ante una cadena sin fuente, el pro
 ¿Cuál es el uso más adecuado de los medios en esta situación?
 
 ### Opciones
-- [x] A) Usar la emisora para explicar el riesgo y enviar la carta con las firmas a la autoridad competente
-  <!-- feedback: Correcto. Esa combinación informa a la comunidad y lleva la petición al canal formal, porque participar exige comunicar el problema y dirigirse a quien puede resolverlo. -->
-- [ ] B) Publicar insultos contra los conductores en redes sociales para que sientan vergüenza
+- [ ] A) Publicar insultos contra los conductores en redes sociales para que sientan vergüenza
   <!-- feedback: Incorrecto. El insulto daña la convivencia y no resuelve el problema, porque agredir verbalmente vulnera el respeto que exige toda participación democrática. -->
+- [x] B) Usar la emisora para explicar el riesgo y enviar la carta con las firmas a la autoridad competente
+  <!-- feedback: Correcto. Esa combinación informa a la comunidad y lleva la petición al canal formal, porque participar exige comunicar el problema y dirigirse a quien puede resolverlo. -->
 - [ ] C) Inventar un accidente grave para que las autoridades actúen por miedo
   <!-- feedback: Incorrecto. Inventar hechos destruye la confianza en el mensaje, porque una petición ciudadana solo es legítima cuando se apoya en datos verdaderos. -->
 - [ ] D) Guardar silencio y esperar que otra persona reclame el semáforo
@@ -127,12 +127,12 @@ Los medios sirven a la participación cuando informan con veracidad y canalizan 
 ### Opciones
 - [ ] A) No hay diferencia, porque ambos llegaron por el mismo teléfono
   <!-- feedback: Incorrecto. El aparato no define el mensaje, porque una noticia informa con datos verificables mientras el meme busca burlarse y no aporta información. -->
-- [x] B) La noticia informa con datos que se pueden comprobar y el meme expresa una burla sin sustento
-  <!-- feedback: Correcto. La diferencia está en la función del mensaje, porque informar presenta hechos verificables y burlarse solo ridiculiza sin explicar nada. -->
-- [ ] C) El meme es más confiable porque tiene más dibujos y colores
+- [ ] B) El meme es más confiable porque tiene más dibujos y colores
   <!-- feedback: Incorrecto. Los colores no dan veracidad al contenido, porque la confiabilidad depende de la fuente y de los datos, no del diseño llamativo. -->
-- [ ] D) La noticia es falsa porque es aburrida y el meme es verdadero porque divierte
+- [ ] C) La noticia es falsa porque es aburrida y el meme es verdadero porque divierte
   <!-- feedback: Incorrecto. Confundiste diversión con verdad, porque un mensaje divierte por su humor y es verdadero solo cuando sus datos se pueden comprobar. -->
+- [x] D) La noticia informa con datos que se pueden comprobar y el meme expresa una burla sin sustento
+  <!-- feedback: Correcto. La diferencia está en la función del mensaje, porque informar presenta hechos verificables y burlarse solo ridiculiza sin explicar nada. -->
 
 ### Explicacion Pedagogica
 No todo lo que circula por el teléfono es información. La noticia periodística presenta hechos con fuente y fecha que se pueden contrastar, mientras que el meme opina o se burla sin ofrecer pruebas. Distinguir ambas funciones es el primer paso para usar la tecnología con criterio ciudadano.
@@ -171,12 +171,12 @@ La tecnología acelera la circulación de mensajes: un rumor puede llegar a cien
 ¿Qué conclusión se puede sacar sobre el acceso a la tecnología en esos dos lugares?
 
 ### Opciones
-- [ ] A) Que a la vereda no le interesa participar en las decisiones de la ciudad
-  <!-- feedback: Incorrecto. La falta de señal no significa desinterés, porque la vereda sí se informa por radio y participa por otros canales aunque no tenga internet. -->
-- [ ] B) Que la radio es un medio atrasado que debería desaparecer
-  <!-- feedback: Incorrecto. La radio sigue siendo valiosa donde no llega internet, porque transmite con ondas que alcanzan zonas apartadas y cumple la misma función de informar. -->
-- [x] C) Que existe una brecha de acceso y por eso cada comunidad participa con los medios que tiene a su alcance
+- [x] A) Que existe una brecha de acceso y por eso cada comunidad participa con los medios que tiene a su alcance
   <!-- feedback: Correcto. La conclusión reconoce la desigualdad técnica, porque el centro usa video en línea y la vereda usa radio, y ambas formas permiten informarse y opinar. -->
+- [ ] B) Que a la vereda no le interesa participar en las decisiones de la ciudad
+  <!-- feedback: Incorrecto. La falta de señal no significa desinterés, porque la vereda sí se informa por radio y participa por otros canales aunque no tenga internet. -->
+- [ ] C) Que la radio es un medio atrasado que debería desaparecer
+  <!-- feedback: Incorrecto. La radio sigue siendo valiosa donde no llega internet, porque transmite con ondas que alcanzan zonas apartadas y cumple la misma función de informar. -->
 - [ ] D) Que solo quienes tienen internet son ciudadanos de verdad
   <!-- feedback: Incorrecto. La ciudadanía no depende del aparato, porque ser ciudadano significa tener derechos y participar, y eso se ejerce también por radio, carta o asamblea. -->
 
@@ -194,10 +194,10 @@ El acceso a la tecnología no es igual en todo el país: las ciudades tienen int
 ¿Qué efecto puede tener esa forma de presentar la tecnología?
 
 ### Opciones
-- [x] A) Refuerza el estereotipo de que la tecnología es solo para hombres, porque la repetición hace que parezca normal
-  <!-- feedback: Correcto. El efecto es la naturalización del estereotipo, porque ver siempre la misma imagen convence a las niñas de que esos oficios no son para ellas. -->
-- [ ] B) Describe fielmente la realidad y por eso no produce ningún efecto
+- [ ] A) Describe fielmente la realidad y por eso no produce ningún efecto
   <!-- feedback: Incorrecto. Aunque hubiera pocas ingenieras, repetir esa imagen sí produce efecto, porque los medios forman ideas y no solo reflejan lo que ya existe. -->
+- [x] B) Refuerza el estereotipo de que la tecnología es solo para hombres, porque la repetición hace que parezca normal
+  <!-- feedback: Correcto. El efecto es la naturalización del estereotipo, porque ver siempre la misma imagen convence a las niñas de que esos oficios no son para ellas. -->
 - [ ] C) Solo afecta a la televisión y nunca a lo que piensan los estudiantes
   <!-- feedback: Incorrecto. Los medios sí influyen en las ideas, porque los estudiantes aprenden modelos de lo que pueden ser a partir de lo que ven repetidamente. -->
 - [ ] D) Obliga por ley a las niñas a no estudiar ingeniería
