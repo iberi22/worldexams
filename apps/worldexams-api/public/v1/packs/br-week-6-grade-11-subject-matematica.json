@@ -331,25 +331,25 @@
           "letter": "A",
           "text": "5",
           "is_correct": false,
-          "feedback": "Este é apenas o expoente do logaritmando."
+          "feedback": "O 5 é apenas o expoente do logaritmando; o logaritmo ainda precisa ser calculado."
         },
         {
           "letter": "B",
           "text": "8",
           "is_correct": false,
-          "feedback": "Incorreto."
+          "feedback": "O 8 é a base do logaritmo, não o resultado: $\\log_2 8 = 3$ é o que multiplica o expoente."
         },
         {
           "letter": "C",
           "text": "15",
           "is_correct": true,
-          "feedback": "log_2(8⁵) = 5 * log_2(8) = 5 * 3 = 15."
+          "feedback": "Pela propriedade da potência, $\\log_2(8^5) = 5 \\cdot \\log_2 8 = 5 \\cdot 3 = 15$."
         },
         {
           "letter": "D",
           "text": "40",
           "is_correct": false,
-          "feedback": "Erro ao multiplicar 8 por 5."
+          "feedback": "O 40 vem de multiplicar $8 \\cdot 5$, o que trata a base como se fosse o resultado do logaritmo."
         }
       ],
       "correct_answer": "C",
@@ -556,25 +556,25 @@
           "letter": "A",
           "text": "Eixo $x$",
           "is_correct": false,
-          "feedback": "Simetria em relação ao eixo x ocorre quando trocamos f(x) por -f(x)."
+          "feedback": "Simetria em relação ao eixo $x$ corresponde a trocar $f(x)$ por $-f(x)$, e não a inverter a função."
         },
         {
           "letter": "B",
           "text": "Eixo $y$",
           "is_correct": false,
-          "feedback": "Simetria em relação ao eixo y ocorre quando trocamos x por -x."
+          "feedback": "Simetria em relação ao eixo $y$ corresponde a substituir $x$ por $-x$, o que não acontece aqui."
         },
         {
           "letter": "C",
           "text": "Reta $y = x$",
           "is_correct": true,
-          "feedback": "Correto. Gráficos de funções inversas são sempre simétricos em relação à bissetriz dos quadrantes ímpares."
+          "feedback": "Como $g = f^{-1}$, os gráficos de uma função e de sua inversa são simétricos em relação à bissetriz do primeiro quadrante, a reta $y = x$."
         },
         {
           "letter": "D",
           "text": "Reta $y = -x$",
           "is_correct": false,
-          "feedback": "Incorreto."
+          "feedback": "A reta $y = -x$ é simétrica em relação à origem, não à bissetriz; os gráficos de $10^x$ e $\\log x$ não se espelham nela."
         }
       ],
       "correct_answer": "C",
@@ -736,25 +736,25 @@
           "letter": "A",
           "text": "$2x + x = 3x$",
           "is_correct": false,
-          "feedback": "Erro ao aplicar a propriedade da potência no primeiro termo."
+          "feedback": "Não se distribui a potência: $e^{2\\ln x} = (e^{\\ln x})^2 = x^2$, e não $2x$."
         },
         {
           "letter": "B",
           "text": "$e^{x^2} + 10^x$",
           "is_correct": false,
-          "feedback": "Incorreto."
+          "feedback": "O expoente não se aplica ao argumento: $e^{2 \\ln x} = x^2$, e não $e^{x^2}$."
         },
         {
           "letter": "C",
           "text": "$x^2 + x$",
           "is_correct": true,
-          "feedback": "e^(ln x²) = x² e 10^(log x) = x. Logo, x² + x."
+          "feedback": "Como $e^{\\ln x} = x$, temos $e^{2\\ln x} = (e^{\\ln x})^2 = x^2$; e $10^{\\log x} = x$, logo a soma é $x^2 + x$."
         },
         {
           "letter": "D",
           "text": "$x^2 + \\log x$",
           "is_correct": false,
-          "feedback": "Incorreto."
+          "feedback": "O segundo termo é $10^{\\log x} = x$, e não $\\log x$: falta aplicar a propriedade fundamental da base 10."
         }
       ],
       "correct_answer": "C",
@@ -826,25 +826,25 @@
           "letter": "A",
           "text": "32",
           "is_correct": false,
-          "feedback": "Incorreto."
+          "feedback": "O 32 é o último argumento da cadeia, mas na mudança de base os fatores intermediários se cancelam e resta $\\log_2 32 = 5$."
         },
         {
           "letter": "B",
           "text": "5",
           "is_correct": true,
-          "feedback": "Mudança de base: (log 3 / log 2) * (log 4 / log 3) * ... * (log 32 / log 31) = log 32 / log 2 = log_2(32) = 5."
+          "feedback": "Pela mudança de base, $\\frac{\\log 3}{\\log 2} \\cdot \\frac{\\log 4}{\\log 3} \\cdots \\frac{\\log 32}{\\log 31}$ se cancela telescopicamente e resta $\\frac{\\log 32}{\\log 2} = \\log_2 32 = 5$."
         },
         {
           "letter": "C",
           "text": "$\\log 32$",
           "is_correct": false,
-          "feedback": "O logaritmo resultante está na base 2."
+          "feedback": "Esse é o valor intermediário da cadeia, mas o resultado final já está convertido: $\\log_2 32 = 5$."
         },
         {
           "letter": "D",
           "text": "1",
           "is_correct": false,
-          "feedback": "Incorreto."
+          "feedback": "O produto não é 1 porque os fatores intermediários se cancelam mas sobra a razão entre os extremos, que é $\\log_2 32 = 5$."
         }
       ],
       "correct_answer": "B",

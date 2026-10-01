@@ -9,40 +9,40 @@
   "questions": [
     {
       "id": "PR-ING-11-2026-W12-modal-verbs-possibility-probability-001-MASTERY-bundle-v1",
-      "statement": "What is the English word for: \"A place where you live or stay on holiday.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Which sentence expresses a possibility of about fifty per cent?",
+      "context": "Modales de posibilidad, San Juan, grado 11.",
       "options": [
         {
-          "letter": "D",
-          "text": "accommodation",
-          "is_correct": true,
-          "feedback": "Correct! 'accommodation' matches the definition."
-        },
-        {
           "letter": "A",
-          "text": "transportation",
+          "text": "It may rain later this afternoon.",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "'May' is a standard possibility form and is also acceptable here."
         },
         {
           "letter": "B",
-          "text": "entertainment",
+          "text": "It must rain later this afternoon.",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "'Must' expresses strong deduction, not a fifty per cent chance."
         },
         {
           "letter": "C",
-          "text": "currency",
+          "text": "It might rain later this afternoon.",
+          "is_correct": true,
+          "feedback": "'Might' suggests a lower probability than 'may'."
+        },
+        {
+          "letter": "D",
+          "text": "It cannot rain later this afternoon.",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "'Cannot' expresses impossibility."
         }
       ],
-      "correct_answer": "D",
-      "explanation": "The word 'accommodation' is used to describe a place where you live or stay on holiday. This is an important vocabulary word in English.\n---",
-      "difficulty": "3",
+      "correct_answer": "C",
+      "explanation": "'May' expresa posibilidad en general, mientras 'might' sugiere una probabilidad menor.\n\n---",
+      "difficulty": "6",
       "images": [],
       "tags": [],
-      "bloom": "Remember",
+      "bloom": "Analyze",
       "expected_success": 0.8,
       "bundle_id": "PR-ING-11-2026-W12-modal-verbs-possibility-probability-001-MASTERY-bundle",
       "periodo": 12,
@@ -54,262 +54,37 @@
     },
     {
       "id": "PR-ING-11-2026-W12-modal-verbs-possibility-probability-001-MASTERY-bundle-v2",
-      "statement": "What is the English word for: \"A detailed plan or route of a journey.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Complete: 'You ____ be right, but I doubt it.' The speaker thinks it is unlikely.",
+      "context": "Modales de probabilidad, Ponce, grado 11.",
       "options": [
         {
-          "letter": "B",
-          "text": "itinerary",
-          "is_correct": true,
-          "feedback": "Correct! 'itinerary' matches the definition."
-        },
-        {
           "letter": "A",
-          "text": "baggage",
+          "text": "must",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "C",
-          "text": "destination",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "D",
-          "text": "passport",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        }
-      ],
-      "correct_answer": "B",
-      "explanation": "The word 'itinerary' is used to describe a detailed plan or route of a journey. This is an important vocabulary word in English.\n---",
-      "difficulty": "4",
-      "images": [],
-      "tags": [],
-      "bloom": "Remember",
-      "expected_success": 0.8,
-      "bundle_id": "PR-ING-11-2026-W12-modal-verbs-possibility-probability-001-MASTERY-bundle",
-      "periodo": 12,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ingles",
-      "grade": 11,
-      "country": "pr"
-    },
-    {
-      "id": "PR-ING-11-2026-W12-modal-verbs-possibility-probability-001-MASTERY-bundle-v3",
-      "statement": "What is the English word for: \"The place to which someone or something is going or being sent.\"",
-      "context": "Choose the correct English word for the given definition.",
-      "options": [
-        {
-          "letter": "C",
-          "text": "destination",
-          "is_correct": true,
-          "feedback": "Correct! 'destination' matches the definition."
-        },
-        {
-          "letter": "A",
-          "text": "departure",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "'Must' would assert certainty."
         },
         {
           "letter": "B",
-          "text": "arrival",
+          "text": "should",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "D",
-          "text": "journey",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        }
-      ],
-      "correct_answer": "C",
-      "explanation": "The word 'destination' is used to describe the place to which someone or something is going or being sent. This is an important vocabulary word in English.\n---",
-      "difficulty": "3",
-      "images": [],
-      "tags": [],
-      "bloom": "Understand",
-      "expected_success": 0.8,
-      "bundle_id": "PR-ING-11-2026-W12-modal-verbs-possibility-probability-001-MASTERY-bundle",
-      "periodo": 12,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ingles",
-      "grade": 11,
-      "country": "pr"
-    },
-    {
-      "id": "PR-ING-11-2026-W12-modal-verbs-possibility-probability-001-MASTERY-bundle-v4",
-      "statement": "What is the English word for: \"Suitcases or other bags in which to pack personal belongings for traveling.\"",
-      "context": "Choose the correct English word for the given definition.",
-      "options": [
-        {
-          "letter": "B",
-          "text": "luggage",
-          "is_correct": true,
-          "feedback": "Correct! 'luggage' matches the definition."
-        },
-        {
-          "letter": "A",
-          "text": "ticket",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "'Should' expresses expectation or recommendation, not the speaker's doubt."
         },
         {
           "letter": "C",
-          "text": "flight",
+          "text": "will",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "'Will' is a future auxiliary and carries no hedging function."
         },
         {
           "letter": "D",
-          "text": "reservation",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        }
-      ],
-      "correct_answer": "B",
-      "explanation": "The word 'luggage' is used to describe suitcases or other bags in which to pack personal belongings for traveling. This is an important vocabulary word in English.\n---",
-      "difficulty": "4",
-      "images": [],
-      "tags": [],
-      "bloom": "Understand",
-      "expected_success": 0.8,
-      "bundle_id": "PR-ING-11-2026-W12-modal-verbs-possibility-probability-001-MASTERY-bundle",
-      "periodo": 12,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ingles",
-      "grade": 11,
-      "country": "pr"
-    },
-    {
-      "id": "PR-ING-11-2026-W12-modal-verbs-possibility-probability-001-MASTERY-bundle-v5",
-      "statement": "What is the English word for: \"A traveler on a public or private conveyance other than the driver, pilot, or crew.\"",
-      "context": "Choose the correct English word for the given definition.",
-      "options": [
-        {
-          "letter": "B",
-          "text": "passenger",
+          "text": "might",
           "is_correct": true,
-          "feedback": "Correct! 'passenger' matches the definition."
-        },
-        {
-          "letter": "A",
-          "text": "pedestrian",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "C",
-          "text": "commuter",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "D",
-          "text": "tourist",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        }
-      ],
-      "correct_answer": "B",
-      "explanation": "The word 'passenger' is used to describe a traveler on a public or private conveyance other than the driver, pilot, or crew. This is an important vocabulary word in English.\n---",
-      "difficulty": "5",
-      "images": [],
-      "tags": [],
-      "bloom": "Understand",
-      "expected_success": 0.8,
-      "bundle_id": "PR-ING-11-2026-W12-modal-verbs-possibility-probability-001-MASTERY-bundle",
-      "periodo": 12,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ingles",
-      "grade": 11,
-      "country": "pr"
-    },
-    {
-      "id": "PR-ING-11-2026-W12-modal-verbs-possibility-probability-001-MASTERY-bundle-v6",
-      "statement": "What is the English word for: \"The place at a port, airport, or frontier where officials check incoming goods, travelers, or luggage.\"",
-      "context": "Choose the correct English word for the given definition.",
-      "options": [
-        {
-          "letter": "D",
-          "text": "customs",
-          "is_correct": true,
-          "feedback": "Correct! 'customs' matches the definition."
-        },
-        {
-          "letter": "A",
-          "text": "security",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "B",
-          "text": "terminal",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "C",
-          "text": "gate",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "'Might' conveys the speaker's own low confidence in the statement."
         }
       ],
       "correct_answer": "D",
-      "explanation": "The word 'customs' is used to describe the place at a port, airport, or frontier where officials check incoming goods, travelers, or luggage. This is an important vocabulary word in English.\n---",
+      "explanation": "Una conjetura que el hablante considera poco probable se expresa con 'might be'. Es uno de los puntos mas frecuentes de las pruebas de esta unidad.\n\n---",
       "difficulty": "6",
-      "images": [],
-      "tags": [],
-      "bloom": "Understand",
-      "expected_success": 0.8,
-      "bundle_id": "PR-ING-11-2026-W12-modal-verbs-possibility-probability-001-MASTERY-bundle",
-      "periodo": 12,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ingles",
-      "grade": 11,
-      "country": "pr"
-    },
-    {
-      "id": "PR-ING-11-2026-W12-modal-verbs-possibility-probability-001-MASTERY-bundle-v7",
-      "statement": "What is the English word for: \"A document provided by an airline during check-in, giving a passenger permission to board the airplane.\"",
-      "context": "Choose the correct English word for the given definition.",
-      "options": [
-        {
-          "letter": "C",
-          "text": "boarding pass",
-          "is_correct": true,
-          "feedback": "Correct! 'boarding pass' matches the definition."
-        },
-        {
-          "letter": "A",
-          "text": "visa",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "B",
-          "text": "receipt",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "D",
-          "text": "brochure",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        }
-      ],
-      "correct_answer": "C",
-      "explanation": "The word 'boarding pass' is used to describe a document provided by an airline during check-in, giving a passenger permission to board the airplane. This is an important vocabulary word in English.\n---",
-      "difficulty": "5",
       "images": [],
       "tags": [],
       "bloom": "Apply",
@@ -323,37 +98,262 @@
       "country": "pr"
     },
     {
-      "id": "PR-ING-11-2026-W12-modal-verbs-possibility-probability-001-MASTERY-bundle-v8",
-      "statement": "What is the English word for: \"The activity of visiting places of interest in a particular location.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "id": "PR-ING-11-2026-W12-modal-verbs-possibility-probability-001-MASTERY-bundle-v3",
+      "statement": "What does 'must' mean in the sentence 'She must be exhausted; she has been working all day'?",
+      "context": "Modales de deduccion, Mayaguez, grado 11.",
       "options": [
         {
-          "letter": "C",
-          "text": "sightseeing",
-          "is_correct": true,
-          "feedback": "Correct! 'sightseeing' matches the definition."
-        },
-        {
           "letter": "A",
-          "text": "shopping",
+          "text": "The speaker is giving an order",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "An order requires a different pattern, not this declarative use."
         },
         {
           "letter": "B",
-          "text": "hiking",
+          "text": "The speaker is almost certain, based on the evidence",
+          "is_correct": true,
+          "feedback": "'Must' marks a deduction from the facts given."
+        },
+        {
+          "letter": "C",
+          "text": "The speaker is not certain at all",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "That reading would require 'might' or 'could'."
         },
         {
           "letter": "D",
-          "text": "camping",
+          "text": "The speaker is certain the opposite is true",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "'Cannot' would express that reading instead."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "En presente, 'must' expresa una conclusion logica a partir de la evidencia disponible.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.8,
+      "bundle_id": "PR-ING-11-2026-W12-modal-verbs-possibility-probability-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 11,
+      "country": "pr"
+    },
+    {
+      "id": "PR-ING-11-2026-W12-modal-verbs-possibility-probability-001-MASTERY-bundle-v4",
+      "statement": "Choose the sentence that uses 'cannot' correctly.",
+      "context": "Uso de modales, Humacao, grado 11.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "That cannot be true; the numbers do not match.",
+          "is_correct": true,
+          "feedback": "'Cannot be' expresses that the situation is impossible."
+        },
+        {
+          "letter": "B",
+          "text": "That can not be true is obvious.",
+          "is_correct": false,
+          "feedback": "Splitting 'cannot' and inverting the order breaks the grammar."
+        },
+        {
+          "letter": "C",
+          "text": "That cannot be true is obvious.",
+          "is_correct": false,
+          "feedback": "The word order after 'cannot' is inverted without cause."
+        },
+        {
+          "letter": "D",
+          "text": "That cannot be being true.",
+          "is_correct": false,
+          "feedback": "The progressive is not compatible with this modal use."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "'Cannot' expresa imposibilidad y mantiene el mismo orden que los demas modales. Es uno de los puntos mas frecuentes de las pruebas de esta unidad.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.8,
+      "bundle_id": "PR-ING-11-2026-W12-modal-verbs-possibility-probability-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 11,
+      "country": "pr"
+    },
+    {
+      "id": "PR-ING-11-2026-W12-modal-verbs-possibility-probability-001-MASTERY-bundle-v5",
+      "statement": "Complete: 'You ____ have told me earlier; I would have cancelled the trip.'",
+      "context": "Modales en contexto, Caguas, grado 11.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "would",
+          "is_correct": false,
+          "feedback": "'Would have' describes an unreal past result, not a reproach."
+        },
+        {
+          "letter": "B",
+          "text": "should",
+          "is_correct": true,
+          "feedback": "'Should have' expresses reproach about something not done in the past."
+        },
+        {
+          "letter": "C",
+          "text": "can",
+          "is_correct": false,
+          "feedback": "'Can have' does not carry that function."
+        },
+        {
+          "letter": "D",
+          "text": "must",
+          "is_correct": false,
+          "feedback": "'Must have' would express a deduction about the past, not blame."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La expresion reprocha una omision pasada, asi que el modal corresponde al pasado: 'should have'.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.8,
+      "bundle_id": "PR-ING-11-2026-W12-modal-verbs-possibility-probability-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 11,
+      "country": "pr"
+    },
+    {
+      "id": "PR-ING-11-2026-W12-modal-verbs-possibility-probability-001-MASTERY-bundle-v6",
+      "statement": "What is the difference between 'could' and 'was able to'?",
+      "context": "Comparacion de modales, Arecibo, grado 11.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "'Could' is general ability; 'was able to' is a specific past occasion",
+          "is_correct": true,
+          "feedback": "'Was able to' points to one realised instance."
+        },
+        {
+          "letter": "B",
+          "text": "They mean exactly the same thing in every context",
+          "is_correct": false,
+          "feedback": "They overlap in many sentences but differ in this focus."
+        },
+        {
+          "letter": "C",
+          "text": "'Could' is only used in questions",
+          "is_correct": false,
+          "feedback": "'Could' is common in statements as well."
+        },
+        {
+          "letter": "D",
+          "text": "'Was able to' refers to the future",
+          "is_correct": false,
+          "feedback": "'Was able to' is a past form."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "'Could' expresa habilidad general o posibilidad, mientras 'was able to' se refiere a un caso concreto.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.8,
+      "bundle_id": "PR-ING-11-2026-W12-modal-verbs-possibility-probability-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 11,
+      "country": "pr"
+    },
+    {
+      "id": "PR-ING-11-2026-W12-modal-verbs-possibility-probability-001-MASTERY-bundle-v7",
+      "statement": "Read: 'You may want to check the figures before the meeting.' What is the speaker doing?",
+      "context": "Comprension de intencion, Guaynabo, grado 11.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Issuing a strict order",
+          "is_correct": false,
+          "feedback": "An order would use 'must' or 'have to'."
+        },
+        {
+          "letter": "B",
+          "text": "Expressing a doubt about the figures",
+          "is_correct": false,
+          "feedback": "'May' here softens the suggestion rather than expressing doubt."
+        },
+        {
+          "letter": "C",
+          "text": "Making a prediction about the meeting",
+          "is_correct": false,
+          "feedback": "No future prediction is made in the sentence."
+        },
+        {
+          "letter": "D",
+          "text": "Offering a polite suggestion",
+          "is_correct": true,
+          "feedback": "'May want to' softens the advice so the listener can decide."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "'May want to' expresa una sugerencia prudente al oyente sin imponerla. Es uno de los puntos mas frecuentes de las pruebas de esta unidad.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.8,
+      "bundle_id": "PR-ING-11-2026-W12-modal-verbs-possibility-probability-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 11,
+      "country": "pr"
+    },
+    {
+      "id": "PR-ING-11-2026-W12-modal-verbs-possibility-probability-001-MASTERY-bundle-v8",
+      "statement": "Complete: 'She ____ be at the office by now; she left an hour ago.'",
+      "context": "Deduccion sobre el presente, Vega Baja, grado 11.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "might",
+          "is_correct": false,
+          "feedback": "'Might' would weaken a deduction the speaker considers solid."
+        },
+        {
+          "letter": "B",
+          "text": "should",
+          "is_correct": false,
+          "feedback": "'Should' expresses expectation, which is weaker than the evidence warrants here."
+        },
+        {
+          "letter": "C",
+          "text": "must",
+          "is_correct": true,
+          "feedback": "'Must be' expresses the deduction the evidence supports."
+        },
+        {
+          "letter": "D",
+          "text": "will",
+          "is_correct": false,
+          "feedback": "'Will' is a future auxiliary and carries no deductive meaning."
         }
       ],
       "correct_answer": "C",
-      "explanation": "The word 'sightseeing' is used to describe the activity of visiting places of interest in a particular location. This is an important vocabulary word in English.\n---",
+      "explanation": "Los datos apresentados sostienen una conclusion logica en presente, que corresponde a 'must be'.\n\n---",
       "difficulty": "6",
       "images": [],
       "tags": [],
@@ -369,40 +369,40 @@
     },
     {
       "id": "PR-ING-11-2026-W12-modal-verbs-possibility-probability-001-MASTERY-bundle-v9",
-      "statement": "What is the English word for: \"A thing that is kept as a reminder of a person, place, or event.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Which sentence expresses certainty about a past situation?",
+      "context": "Modales en pasado, Jayuya, grado 11.",
       "options": [
         {
           "letter": "A",
-          "text": "souvenir",
-          "is_correct": true,
-          "feedback": "Correct! 'souvenir' matches the definition."
+          "text": "He must forget the appointment.",
+          "is_correct": false,
+          "feedback": "The bare infinitive refers to a present or future obligation."
         },
         {
           "letter": "B",
-          "text": "gift",
+          "text": "He will have forget the appointment.",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "The future perfect requires a participle, not the base form."
         },
         {
           "letter": "C",
-          "text": "award",
+          "text": "He must been the appointment.",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "That sequence is not grammatical."
         },
         {
           "letter": "D",
-          "text": "prize",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "text": "He must have forgotten the appointment.",
+          "is_correct": true,
+          "feedback": "'Must have' plus participle marks a firm conclusion about the past."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'souvenir' is used to describe a thing that is kept as a reminder of a person, place, or event. This is an important vocabulary word in English.\n---",
-      "difficulty": "5",
+      "correct_answer": "D",
+      "explanation": "'Must have' seguido de participio expresa una conclusion firme sobre el pasado. Es uno de los puntos mas frecuentes de las pruebas de esta unidad.\n\n---",
+      "difficulty": "6",
       "images": [],
       "tags": [],
-      "bloom": "Apply",
+      "bloom": "Analyze",
       "expected_success": 0.8,
       "bundle_id": "PR-ING-11-2026-W12-modal-verbs-possibility-probability-001-MASTERY-bundle",
       "periodo": 12,
@@ -414,40 +414,40 @@
     },
     {
       "id": "PR-ING-11-2026-W12-modal-verbs-possibility-probability-001-MASTERY-bundle-v10",
-      "statement": "What is the English word for: \"A period of time by which something is late or postponed.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Look at the sentence: 'She must to leave early.' What is the error?",
+      "context": "Deteccion de errores, Yauco, grado 11.",
       "options": [
         {
           "letter": "A",
-          "text": "delay",
+          "text": "'To' must be removed after 'must'",
           "is_correct": true,
-          "feedback": "Correct! 'delay' matches the definition."
+          "feedback": "Modal verbs are followed directly by the base form."
         },
         {
           "letter": "B",
-          "text": "cancellation",
+          "text": "Nothing is wrong with the sentence",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "The infinitive after 'must' is a standard error."
         },
         {
           "letter": "C",
-          "text": "departure",
+          "text": "'Must' must be 'will'",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Neither modal takes an infinitive, so that change would not fix it."
         },
         {
           "letter": "D",
-          "text": "arrival",
+          "text": "'Leave' must be 'leaving'",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "After a modal the base form is required, not the -ing form."
         }
       ],
       "correct_answer": "A",
-      "explanation": "The word 'delay' is used to describe a period of time by which something is late or postponed. This is an important vocabulary word in English.\n---",
-      "difficulty": "6",
+      "explanation": "Tras un modal no se usa 'to' ni ningun otro auxiliar. Es uno de los puntos mas frecuentes de las pruebas de esta unidad.\n\n---",
+      "difficulty": "4",
       "images": [],
       "tags": [],
-      "bloom": "Apply",
+      "bloom": "Analyze",
       "expected_success": 0.8,
       "bundle_id": "PR-ING-11-2026-W12-modal-verbs-possibility-probability-001-MASTERY-bundle",
       "periodo": 12,
@@ -459,37 +459,37 @@
     },
     {
       "id": "PR-ING-11-2026-W12-modal-verbs-possibility-probability-001-MASTERY-bundle-v11",
-      "statement": "What is the English word for: \"The act of reporting one's presence and registering, typically at an airport or hotel.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Complete: 'I ____ rather stay at home tonight.'",
+      "context": "Preferencias, Barceloneta, grado 11.",
       "options": [
         {
-          "letter": "D",
-          "text": "check-in",
-          "is_correct": true,
-          "feedback": "Correct! 'check-in' matches the definition."
-        },
-        {
           "letter": "A",
-          "text": "check-out",
+          "text": "will",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "'Will rather' is not a standard construction."
         },
         {
           "letter": "B",
-          "text": "booking",
+          "text": "must",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "'Must' expresses obligation, not preference."
         },
         {
           "letter": "C",
-          "text": "reservation",
+          "text": "could",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "'Could rather' is not idiomatic in this position."
+        },
+        {
+          "letter": "D",
+          "text": "would",
+          "is_correct": true,
+          "feedback": "'Would rather' expresses a preference between two options."
         }
       ],
       "correct_answer": "D",
-      "explanation": "The word 'check-in' is used to describe the act of reporting one's presence and registering, typically at an airport or hotel. This is an important vocabulary word in English.\n---",
-      "difficulty": "7",
+      "explanation": "'Would rather' expresa preferencia y va seguido de la forma base del verbo. Es uno de los puntos mas frecuentes de las pruebas de esta unidad.\n\n---",
+      "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Apply",
@@ -504,40 +504,40 @@
     },
     {
       "id": "PR-ING-11-2026-W12-modal-verbs-possibility-probability-001-MASTERY-bundle-v12",
-      "statement": "What is the English word for: \"A period of rest or waiting before a further stage in a journey.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Which sentence uses 'have to' correctly?",
+      "context": "Obligacion, Maunabo, grado 11.",
       "options": [
         {
-          "letter": "C",
-          "text": "layover",
-          "is_correct": true,
-          "feedback": "Correct! 'layover' matches the definition."
-        },
-        {
           "letter": "A",
-          "text": "stopover",
+          "text": "Students must to wear a uniform at this school.",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "No infinitive may follow a modal verb."
         },
         {
           "letter": "B",
-          "text": "transfer",
+          "text": "Students are having to wear a uniform to school.",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "The progressive is not used with 'have to' in this meaning."
+        },
+        {
+          "letter": "C",
+          "text": "Students have to wear a uniform at this school.",
+          "is_correct": true,
+          "feedback": "'Have to' marks an externally imposed obligation."
         },
         {
           "letter": "D",
-          "text": "transit",
+          "text": "Students have wear a uniform at this school.",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "'Have' requires the base form, not the bare infinitive."
         }
       ],
       "correct_answer": "C",
-      "explanation": "The word 'layover' is used to describe a period of rest or waiting before a further stage in a journey. This is an important vocabulary word in English.\n---",
-      "difficulty": "8",
+      "explanation": "'Have to' expresa obligacion externa impuesta por una norma o una tercera persona. Es uno de los puntos mas frecuentes de las pruebas de esta unidad.\n\n---",
+      "difficulty": "4",
       "images": [],
       "tags": [],
-      "bloom": "Apply",
+      "bloom": "Analyze",
       "expected_success": 0.8,
       "bundle_id": "PR-ING-11-2026-W12-modal-verbs-possibility-probability-001-MASTERY-bundle",
       "periodo": 12,
@@ -549,37 +549,37 @@
     },
     {
       "id": "PR-ING-11-2026-W12-modal-verbs-possibility-probability-001-MASTERY-bundle-v13",
-      "statement": "What is the English word for: \"A system of money in general use in a particular country.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Read: 'The concert may be sold out by tonight.' What can you conclude?",
+      "context": "Inferencia sobre una prediccion, Naguabo, grado 11.",
       "options": [
         {
-          "letter": "B",
-          "text": "currency",
+          "letter": "A",
+          "text": "There is a chance that all tickets have been sold",
           "is_correct": true,
-          "feedback": "Correct! 'currency' matches the definition."
+          "feedback": "'May' keeps the possibility open without confirming it."
         },
         {
-          "letter": "A",
-          "text": "coin",
+          "letter": "B",
+          "text": "All tickets have certainly been sold",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Certainty would require 'must be' or a plain statement."
         },
         {
           "letter": "C",
-          "text": "banknote",
+          "text": "No tickets have been sold",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "'Cannot be sold out' would express that reading."
         },
         {
           "letter": "D",
-          "text": "cash",
+          "text": "The concert has been cancelled",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "No mention of a cancellation appears in the sentence."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "The word 'currency' is used to describe a system of money in general use in a particular country. This is an important vocabulary word in English.\n---",
-      "difficulty": "7",
+      "correct_answer": "A",
+      "explanation": "'May be' deja abierta la posibilidad de que ya no queden entradas, sin asegurarlo. Es uno de los puntos mas frecuentes de las pruebas de esta unidad.\n\n---",
+      "difficulty": "6",
       "images": [],
       "tags": [],
       "bloom": "Analyze",
@@ -594,40 +594,40 @@
     },
     {
       "id": "PR-ING-11-2026-W12-modal-verbs-possibility-probability-001-MASTERY-bundle-v14",
-      "statement": "What is the English word for: \"A book of information about a place designed for the use of visitors or tourists.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Complete: 'You ____ have seen the doctor; you look feverish.'",
+      "context": "Consejo, Ciales, grado 11.",
       "options": [
         {
-          "letter": "D",
-          "text": "guidebook",
-          "is_correct": true,
-          "feedback": "Correct! 'guidebook' matches the definition."
-        },
-        {
           "letter": "A",
-          "text": "map",
+          "text": "must",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "'Must have' would turn the recommendation into a deduction."
         },
         {
           "letter": "B",
-          "text": "dictionary",
+          "text": "can",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "'Can have' does not express advice."
         },
         {
           "letter": "C",
-          "text": "encyclopedia",
+          "text": "should",
+          "is_correct": true,
+          "feedback": "'Should have seen' is a recommendation about what ought to have happened."
+        },
+        {
+          "letter": "D",
+          "text": "will",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "'Will have' is a future perfect form with no advisory sense."
         }
       ],
-      "correct_answer": "D",
-      "explanation": "The word 'guidebook' is used to describe a book of information about a place designed for the use of visitors or tourists. This is an important vocabulary word in English.\n---",
-      "difficulty": "8",
+      "correct_answer": "C",
+      "explanation": "'Should' expresa recomendacion y no una afirmacion sobre el pasado. Es uno de los puntos mas frecuentes de las pruebas de esta unidad.\n\n---",
+      "difficulty": "4",
       "images": [],
       "tags": [],
-      "bloom": "Analyze",
+      "bloom": "Apply",
       "expected_success": 0.8,
       "bundle_id": "PR-ING-11-2026-W12-modal-verbs-possibility-probability-001-MASTERY-bundle",
       "periodo": 12,
@@ -639,37 +639,37 @@
     },
     {
       "id": "PR-ING-11-2026-W12-modal-verbs-possibility-probability-001-MASTERY-bundle-v15",
-      "statement": "What is the English word for: \"A bag with shoulder straps that allow it to be carried on one's back.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Which sentence is NOT correct?",
+      "context": "Revision de modales, Juana Diaz, grado 11.",
       "options": [
         {
-          "letter": "C",
-          "text": "backpack",
-          "is_correct": true,
-          "feedback": "Correct! 'backpack' matches the definition."
-        },
-        {
           "letter": "A",
-          "text": "suitcase",
+          "text": "I would like a cup of coffee.",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "The fixed expression 'would like' is complete here."
         },
         {
           "letter": "B",
-          "text": "briefcase",
+          "text": "I would a cup of coffee like.",
+          "is_correct": true,
+          "feedback": "The auxiliary 'would' cannot be separated from 'like'."
+        },
+        {
+          "letter": "C",
+          "text": "I would like to have a cup of coffee.",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "'Would like to' plus the infinitive is correct."
         },
         {
           "letter": "D",
-          "text": "handbag",
+          "text": "I would like a coffee cup.",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "'Would like' plus a noun phrase is also correct."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "The word 'backpack' is used to describe a bag with shoulder straps that allow it to be carried on one's back. This is an important vocabulary word in English.\n---",
-      "difficulty": "7",
+      "correct_answer": "B",
+      "explanation": "Las dos palabras 'would like' funcionan como un bloque y no deben separarse por un sustantivo.\n\n---",
+      "difficulty": "6",
       "images": [],
       "tags": [],
       "bloom": "Analyze",
@@ -684,37 +684,127 @@
     },
     {
       "id": "PR-ING-11-2026-W12-modal-verbs-possibility-probability-001-MASTERY-bundle-v16",
-      "statement": "What is the English word for: \"In or to a foreign country, especially one across the sea.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "What does 'ought to' express?",
+      "context": "Marco conceptual, Luquillo, grado 11.",
       "options": [
         {
-          "letter": "D",
-          "text": "overseas",
-          "is_correct": true,
-          "feedback": "Correct! 'overseas' matches the definition."
-        },
-        {
           "letter": "A",
-          "text": "domestic",
+          "text": "Past obligation only",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "'Ought to have' covers the past, but the plain form is present."
         },
         {
           "letter": "B",
-          "text": "local",
+          "text": "Certainty about the past",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "That is 'must have'."
         },
         {
           "letter": "C",
-          "text": "national",
+          "text": "Obligation or advice, close to 'should'",
+          "is_correct": true,
+          "feedback": "'Ought to' is the formal equivalent of 'should'."
+        },
+        {
+          "letter": "D",
+          "text": "Probability of about fifty per cent",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "That is 'may' or 'might'."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "'Ought to' expresa obligacion o recomendacion y equivale a 'should'. Es uno de los puntos mas frecuentes de las pruebas de esta unidad.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.8,
+      "bundle_id": "PR-ING-11-2026-W12-modal-verbs-possibility-probability-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 11,
+      "country": "pr"
+    },
+    {
+      "id": "PR-ING-11-2026-W12-modal-verbs-possibility-probability-001-MASTERY-bundle-v17",
+      "statement": "Complete: 'You ____ not smoke in the hospital; it is against the rules.'",
+      "context": "Prohibicion, Caguas, grado 11.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "should",
+          "is_correct": false,
+          "feedback": "'Should not' would express advice rather than a prohibition."
+        },
+        {
+          "letter": "B",
+          "text": "might",
+          "is_correct": false,
+          "feedback": "'Might not' expresses a low probability, not a rule."
+        },
+        {
+          "letter": "C",
+          "text": "could",
+          "is_correct": false,
+          "feedback": "'Could not' expresses inability rather than prohibition."
+        },
+        {
+          "letter": "D",
+          "text": "must",
+          "is_correct": true,
+          "feedback": "'Must not' expresses a prohibition grounded in a rule."
         }
       ],
       "correct_answer": "D",
-      "explanation": "The word 'overseas' is used to describe in or to a foreign country, especially one across the sea. This is an important vocabulary word in English.\n---",
-      "difficulty": "8",
+      "explanation": "Una prohibicion formulada con 'must' se expresa en negativo con 'must not'. Es uno de los puntos mas frecuentes de las pruebas de esta unidad.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.8,
+      "bundle_id": "PR-ING-11-2026-W12-modal-verbs-possibility-probability-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 11,
+      "country": "pr"
+    },
+    {
+      "id": "PR-ING-11-2026-W12-modal-verbs-possibility-probability-001-MASTERY-bundle-v18",
+      "statement": "Which sentence correctly reports a past obligation?",
+      "context": "Obligacion pasada, Cayey, grado 11.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "We should leave earlier to avoid the traffic.",
+          "is_correct": false,
+          "feedback": "The bare 'should' refers to the present or future."
+        },
+        {
+          "letter": "B",
+          "text": "We should have left earlier to avoid the traffic.",
+          "is_correct": true,
+          "feedback": "'Should have' expresses a past obligation that was not met."
+        },
+        {
+          "letter": "C",
+          "text": "We will have left earlier to avoid the traffic.",
+          "is_correct": false,
+          "feedback": "The future perfect refers to a future reference point."
+        },
+        {
+          "letter": "D",
+          "text": "We must have left earlier to avoid the traffic.",
+          "is_correct": false,
+          "feedback": "'Must have' would express a deduction, not an obligation."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "'Should have' u 'ought to have' expresa una obligacion retrospectiva sobre algo no hecho.\n\n---",
+      "difficulty": "6",
       "images": [],
       "tags": [],
       "bloom": "Analyze",
@@ -728,131 +818,41 @@
       "country": "pr"
     },
     {
-      "id": "PR-ING-11-2026-W12-modal-verbs-possibility-probability-001-MASTERY-bundle-v17",
-      "statement": "What is the English word for: \"An estimate of income and expenditure for a set period of time.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "id": "PR-ING-11-2026-W12-modal-verbs-possibility-probability-001-MASTERY-bundle-v19",
+      "statement": "Read the sentence: 'He can play three languages, but he cannot write in all of them.' What does the modal convey?",
+      "context": "Habilidad, Yauco, grado 11.",
       "options": [
         {
           "letter": "A",
-          "text": "budget",
+          "text": "Ability that exists in one direction but not the other",
           "is_correct": true,
-          "feedback": "Correct! 'budget' matches the definition."
+          "feedback": "'Can' grants the skill and 'cannot' withholds it in writing."
         },
         {
           "letter": "B",
-          "text": "expense",
+          "text": "A possibility that depends on time",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "'Can' expresses ability here, not a temporal condition."
         },
         {
           "letter": "C",
-          "text": "cost",
+          "text": "A prohibition on writing",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Prohibition would require a modal of obligation, not 'cannot' as ability."
         },
         {
           "letter": "D",
-          "text": "price",
+          "text": "A deduction about the past",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Past deduction requires 'must have'."
         }
       ],
       "correct_answer": "A",
-      "explanation": "The word 'budget' is used to describe an estimate of income and expenditure for a set period of time. This is an important vocabulary word in English.\n---",
-      "difficulty": "9",
+      "explanation": "La pareja 'can' y 'cannot' delimita hasta donde llega la capacidad del hablante. Es uno de los puntos mas frecuentes de las pruebas de esta unidad.\n\n---",
+      "difficulty": "6",
       "images": [],
       "tags": [],
-      "bloom": "Evaluate",
-      "expected_success": 0.8,
-      "bundle_id": "PR-ING-11-2026-W12-modal-verbs-possibility-probability-001-MASTERY-bundle",
-      "periodo": 12,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ingles",
-      "grade": 11,
-      "country": "pr"
-    },
-    {
-      "id": "PR-ING-11-2026-W12-modal-verbs-possibility-probability-001-MASTERY-bundle-v18",
-      "statement": "What is the English word for: \"A practice or arrangement by which a company or government agency provides a guarantee of compensation for specified loss, damage, illness, or death in return for payment of a premium.\"",
-      "context": "Choose the correct English word for the given definition.",
-      "options": [
-        {
-          "letter": "B",
-          "text": "insurance",
-          "is_correct": true,
-          "feedback": "Correct! 'insurance' matches the definition."
-        },
-        {
-          "letter": "A",
-          "text": "warranty",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "C",
-          "text": "guarantee",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "D",
-          "text": "policy",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        }
-      ],
-      "correct_answer": "B",
-      "explanation": "The word 'insurance' is used to describe a practice or arrangement by which a company or government agency provides a guarantee of compensation for specified loss, damage, illness, or death in return for payment of a premium. This is an important vocabulary word in English.\n---",
-      "difficulty": "10",
-      "images": [],
-      "tags": [],
-      "bloom": "Evaluate",
-      "expected_success": 0.8,
-      "bundle_id": "PR-ING-11-2026-W12-modal-verbs-possibility-probability-001-MASTERY-bundle",
-      "periodo": 12,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ingles",
-      "grade": 11,
-      "country": "pr"
-    },
-    {
-      "id": "PR-ING-11-2026-W12-modal-verbs-possibility-probability-001-MASTERY-bundle-v19",
-      "statement": "What is the English word for: \"Treatment with a vaccine to produce immunity against a disease.\"",
-      "context": "Choose the correct English word for the given definition.",
-      "options": [
-        {
-          "letter": "B",
-          "text": "vaccination",
-          "is_correct": true,
-          "feedback": "Correct! 'vaccination' matches the definition."
-        },
-        {
-          "letter": "A",
-          "text": "medication",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "C",
-          "text": "prescription",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "D",
-          "text": "infection",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        }
-      ],
-      "correct_answer": "B",
-      "explanation": "The word 'vaccination' is used to describe treatment with a vaccine to produce immunity against a disease. This is an important vocabulary word in English.\n---",
-      "difficulty": "9",
-      "images": [],
-      "tags": [],
-      "bloom": "Evaluate",
+      "bloom": "Analyze",
       "expected_success": 0.8,
       "bundle_id": "PR-ING-11-2026-W12-modal-verbs-possibility-probability-001-MASTERY-bundle",
       "periodo": 12,
@@ -864,37 +864,37 @@
     },
     {
       "id": "PR-ING-11-2026-W12-modal-verbs-possibility-probability-001-MASTERY-bundle-v20",
-      "statement": "What is the English word for: \"Extreme tiredness and other physical effects felt by a person after a long flight across several time zones.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Choose the sentence that uses 'might' in the correct register and form.",
+      "context": "Registro y forma, Vega Baja, grado 11.",
       "options": [
         {
-          "letter": "D",
-          "text": "jet lag",
-          "is_correct": true,
-          "feedback": "Correct! 'jet lag' matches the definition."
-        },
-        {
           "letter": "A",
-          "text": "fatigue",
+          "text": "You might wanting to reconsider the offer.",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "The -ing form cannot follow a modal verb."
         },
         {
           "letter": "B",
-          "text": "exhaustion",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "text": "You might want to reconsider the offer.",
+          "is_correct": true,
+          "feedback": "'Might' hedges the suggestion politely and is fully standard."
         },
         {
           "letter": "C",
-          "text": "insomnia",
+          "text": "You might to reconsider the offer.",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "No infinitive marker may follow a modal."
+        },
+        {
+          "letter": "D",
+          "text": "You might reconsiders the offer.",
+          "is_correct": false,
+          "feedback": "The base form must follow the modal."
         }
       ],
-      "correct_answer": "D",
-      "explanation": "The word 'jet lag' is used to describe extreme tiredness and other physical effects felt by a person after a long flight across several time zones. This is an important vocabulary word in English.",
-      "difficulty": "10",
+      "correct_answer": "B",
+      "explanation": "'Might' es la forma correcta para expresar una posibilidad menor y suena mas diplomático que 'may'.\n\n---",
+      "difficulty": "6",
       "images": [],
       "tags": [],
       "bloom": "Evaluate",

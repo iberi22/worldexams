@@ -16,25 +16,25 @@
           "letter": "A",
           "text": "aunt",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "'Aunt' is the wife of your uncle, but your mother's brother is a man, so he is her brother, not her husband."
         },
         {
           "letter": "B",
           "text": "grandfather",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "A grandfather is the father of one of your parents; your mother's brother is the same generation as your mother."
         },
         {
           "letter": "C",
           "text": "nephew",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "A nephew is your sister's son, a generation below you, not a generation above."
         },
         {
           "letter": "D",
           "text": "uncle",
           "is_correct": true,
-          "feedback": "Correct! Well done."
+          "feedback": "Correct. An uncle is the brother of one of your parents, and your mother's brother is exactly that."
         }
       ],
       "correct_answer": "D",
@@ -62,25 +62,25 @@
           "letter": "A",
           "text": "daughter",
           "is_correct": true,
-          "feedback": "Correct! Well done."
+          "feedback": "Correct. A daughter is the female child of someone, and your sister is your parents' daughter."
         },
         {
           "letter": "B",
           "text": "son",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "A son is the male child, so it would refer to your brother and not to your sister."
         },
         {
           "letter": "C",
           "text": "cousin",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "A cousin is the child of your aunt or uncle, a relation one step removed from your parents, not a child of them."
         },
         {
           "letter": "D",
           "text": "niece",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "A niece is your brother's or sister's daughter, so she is a generation below you, not your parents' child."
         }
       ],
       "correct_answer": "A",
@@ -108,25 +108,25 @@
           "letter": "A",
           "text": "brother",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "A brother is a male sibling of your own generation; your father's father belongs to the generation above you."
         },
         {
           "letter": "B",
           "text": "uncle",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "An uncle is the brother of one of your parents, which is the same generation as your father, not above it."
         },
         {
           "letter": "C",
           "text": "grandfather",
           "is_correct": true,
-          "feedback": "Correct! Well done."
+          "feedback": "Correct. Your father's father is one generation above your father, so he is your grandfather."
         },
         {
           "letter": "D",
           "text": "grandmother",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "Your grandmother is your father's mother; the male parent of your father is not your grandmother."
         }
       ],
       "correct_answer": "C",
@@ -154,25 +154,25 @@
           "letter": "A",
           "text": "brother",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "You and your uncle's children are the same generation, so you cannot be his brother."
         },
         {
           "letter": "B",
           "text": "son",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "A son is the male child of someone, but you and your uncle belong to the same generation, not his child."
         },
         {
           "letter": "C",
           "text": "niece",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "A niece is the daughter of one's brother or sister; the male equivalent used here is 'nephew'."
         },
         {
           "letter": "D",
           "text": "nephew",
           "is_correct": true,
-          "feedback": "Correct! Well done."
+          "feedback": "Correct. You are the son of your uncle's sibling, so from his point of view you are his nephew."
         }
       ],
       "correct_answer": "D",
@@ -200,25 +200,25 @@
           "letter": "A",
           "text": "mother",
           "is_correct": true,
-          "feedback": "Correct! Well done."
+          "feedback": "Correct. The wife of your father is your mother, unless the question said 'other than my mother', which it does not."
         },
         {
           "letter": "B",
           "text": "aunt",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "An aunt is the wife of your uncle or the sister of one of your parents; your father's wife is his own wife."
         },
         {
           "letter": "C",
           "text": "cousin",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "A cousin is the child of your aunt or uncle, a relation one generation removed from your parents."
         },
         {
           "letter": "D",
           "text": "sister",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "A sister is a female sibling of your own generation; your father's wife belongs to the generation above you."
         }
       ],
       "correct_answer": "A",
@@ -246,25 +246,25 @@
           "letter": "A",
           "text": "sisters",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "Sisters would be the female children of your own parents, not of your aunt."
         },
         {
           "letter": "B",
           "text": "brothers",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "Brothers would be the male children of your own parents, not of your aunt."
         },
         {
           "letter": "C",
           "text": "cousins",
           "is_correct": true,
-          "feedback": "Correct! Well done."
+          "feedback": "Correct. The children of your aunt are your cousins, because their parents are your parents' siblings."
         },
         {
           "letter": "D",
           "text": "uncles",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "Uncles are the brothers of your parents; your aunt's children are a generation below your parents, not beside them."
         }
       ],
       "correct_answer": "C",
@@ -292,25 +292,25 @@
           "letter": "A",
           "text": "uncles",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "Uncles are the brothers of your parents; a brother and a sister of your own are not uncles."
         },
         {
           "letter": "B",
           "text": "siblings",
           "is_correct": true,
-          "feedback": "Correct! Well done."
+          "feedback": "Correct. 'Siblings' is the word for the children of the same parents, so it covers a brother and a sister together."
         },
         {
           "letter": "C",
           "text": "parents",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "Parents are the adults who have you as their children, so they cannot be described as your brother and sister."
         },
         {
           "letter": "D",
           "text": "cousins",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "Cousins are the children of your aunts and uncles, who belong to a different family branch."
         }
       ],
       "correct_answer": "B",
@@ -338,25 +338,25 @@
           "letter": "A",
           "text": "nephew",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "A nephew is your sister's son or your brother's son, so you would be the aunt or uncle, not the nephew."
         },
         {
           "letter": "B",
           "text": "grandson",
           "is_correct": true,
-          "feedback": "Correct! Well done."
+          "feedback": "Correct. A grandson is the son of your daughter, so your daughter's son is your grandson."
         },
         {
           "letter": "C",
           "text": "son",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "A son is your child; your daughter's son is your daughter's child, one generation below you."
         },
         {
           "letter": "D",
           "text": "granddaughter",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "A granddaughter is the daughter of your daughter or son, so it would be your daughter's daughter."
         }
       ],
       "correct_answer": "B",
@@ -384,25 +384,25 @@
           "letter": "A",
           "text": "sister",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "A sister is your sibling of the same generation, and cannot be a parent."
         },
         {
           "letter": "B",
           "text": "daughter",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "A daughter is your child, the opposite generation from a parent."
         },
         {
           "letter": "C",
           "text": "father",
           "is_correct": true,
-          "feedback": "Correct! Well done."
+          "feedback": "Correct. 'Father' is the word for the male parent."
         },
         {
           "letter": "D",
           "text": "mother",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "A mother is the female parent, so it is the other half of the pair."
         }
       ],
       "correct_answer": "C",
@@ -430,25 +430,25 @@
           "letter": "A",
           "text": "cousin",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "A cousin is the child of your aunt or uncle; your brother's daughter belongs to your own family branch."
         },
         {
           "letter": "B",
           "text": "niece",
           "is_correct": true,
-          "feedback": "Correct! Well done."
+          "feedback": "Correct. Your brother's daughter is your niece, because she is the female child of your sibling."
         },
         {
           "letter": "C",
           "text": "sister",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "A sister shares your parents; your brother's daughter is your child, not your sibling."
         },
         {
           "letter": "D",
           "text": "nephew",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "A nephew is the male child of your sibling, and your brother's daughter is a girl, not a boy."
         }
       ],
       "correct_answer": "B",

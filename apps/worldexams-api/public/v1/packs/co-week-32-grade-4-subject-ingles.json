@@ -16,25 +16,25 @@
           "letter": "A",
           "text": "rainy",
           "is_correct": true,
-          "feedback": "Correct!"
+          "feedback": "Rain is falling when you need an umbrella, so the day is rainy."
         },
         {
           "letter": "B",
           "text": "sunny",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "Sunny means the sun is shining, so you would not need an umbrella."
         },
         {
           "letter": "C",
           "text": "windy",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "In windy weather the umbrella helps against the wind, not against rain."
         },
         {
           "letter": "D",
           "text": "dry",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "Dry weather means there is no water at all, so no umbrella is needed."
         }
       ],
       "correct_answer": "A",
@@ -62,25 +62,25 @@
           "letter": "A",
           "text": "foggy",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "Foggy weather hides the sun behind thick mist."
         },
         {
           "letter": "B",
           "text": "sunny",
           "is_correct": true,
-          "feedback": "Correct!"
+          "feedback": "When the sun is out, the weather is sunny."
         },
         {
           "letter": "C",
           "text": "snowy",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "Snowy weather means snow is falling, not that the sun is shining."
         },
         {
           "letter": "D",
           "text": "cloudy",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "In cloudy weather the sun is hidden behind clouds."
         }
       ],
       "correct_answer": "B",
@@ -108,25 +108,25 @@
           "letter": "A",
           "text": "warm",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "You do not wear a jacket in warm weather."
         },
         {
           "letter": "B",
           "text": "sunny",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "Sunny days are usually warm, so a jacket is not needed."
         },
         {
           "letter": "C",
           "text": "cold",
           "is_correct": true,
-          "feedback": "Correct!"
+          "feedback": "You wear a jacket to keep warm when it is cold."
         },
         {
           "letter": "D",
           "text": "hot",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "Nobody wears a jacket when it is hot."
         }
       ],
       "correct_answer": "C",
@@ -154,25 +154,25 @@
           "letter": "A",
           "text": "winter",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "Winter is the cold season, so it is not very hot and there is no beach weather."
         },
         {
           "letter": "B",
           "text": "autumn",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "Autumn is mild and cool, not the hot season."
         },
         {
           "letter": "C",
           "text": "spring",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "Spring is mild and rainy, not the hottest season."
         },
         {
           "letter": "D",
           "text": "summer",
           "is_correct": true,
-          "feedback": "Correct!"
+          "feedback": "Summer is the hot season, when people go to the beach."
         }
       ],
       "correct_answer": "D",
@@ -200,25 +200,25 @@
           "letter": "A",
           "text": "winter",
           "is_correct": true,
-          "feedback": "Correct!"
+          "feedback": "Winter is the cold season, and it snows in some places."
         },
         {
           "letter": "B",
           "text": "summer",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "Summer is hot; snow never falls in summer."
         },
         {
           "letter": "C",
           "text": "spring",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "Spring is mild and wet, not the season when it snows."
         },
         {
           "letter": "D",
           "text": "autumn",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "Autumn is cool and dry; snow belongs to winter."
         }
       ],
       "correct_answer": "A",
@@ -246,25 +246,25 @@
           "letter": "A",
           "text": "clear",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "'Clear' describes the sky with no wind; the stem already tells us the wind is blowing."
         },
         {
           "letter": "B",
           "text": "windy",
           "is_correct": true,
-          "feedback": "Correct!"
+          "feedback": "Wind is blowing, so the weather is windy."
         },
         {
           "letter": "C",
           "text": "calm",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "'Calm' is the opposite of windy: it means the air is still."
         },
         {
           "letter": "D",
           "text": "hot",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "'Hot' is a temperature, not a description of moving air."
         }
       ],
       "correct_answer": "B",
@@ -292,25 +292,25 @@
           "letter": "A",
           "text": "bright",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "If the sun were bright you would see it, so 'bright' does not fit."
         },
         {
           "letter": "B",
           "text": "hot",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "Hot weather has nothing to do with not being able to see the sun."
         },
         {
           "letter": "C",
           "text": "cloudy",
           "is_correct": true,
-          "feedback": "Correct!"
+          "feedback": "Clouds hide the sun, so on a cloudy day you cannot see it."
         },
         {
           "letter": "D",
           "text": "sunny",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "On a sunny day the sun is visible."
         }
       ],
       "correct_answer": "C",
@@ -338,25 +338,25 @@
           "letter": "A",
           "text": "cold",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "Nobody wears shorts when it is cold."
         },
         {
           "letter": "B",
           "text": "snowy",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "Snowy weather is cold, so shorts would be uncomfortable."
         },
         {
           "letter": "C",
           "text": "icy",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "Ice makes the ground cold, so shorts would not be sensible."
         },
         {
           "letter": "D",
           "text": "hot",
           "is_correct": true,
-          "feedback": "Correct!"
+          "feedback": "Shorts are worn when it is hot."
         }
       ],
       "correct_answer": "D",

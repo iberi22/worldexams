@@ -8,41 +8,86 @@
   },
   "questions": [
     {
-      "id": "PE-ING-11-2026-W05-present-perfect-001-MASTERY-v1",
-      "statement": "What is the English word for: \"A place where you live or stay on holiday.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "id": "PE-ING-11-2026-W05-present-perfect-001-MASTERY-bundle-v1",
+      "statement": "Choose the sentence that correctly uses the present perfect.",
+      "context": "Practica de presente perfecto, Lima, grado 11.",
       "options": [
         {
-          "letter": "B",
-          "text": "accommodation",
+          "letter": "A",
+          "text": "I have visited Cusco twice.",
           "is_correct": true,
-          "feedback": "Correct! 'accommodation' matches the definition."
+          "feedback": "Auxiliary 'have' plus past participle is the correct structure."
         },
         {
-          "letter": "A",
-          "text": "transportation",
+          "letter": "B",
+          "text": "I have visit Cusco twice.",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "After 'have' the verb must be the past participle 'visited'."
         },
         {
           "letter": "C",
-          "text": "entertainment",
+          "text": "I visited have Cusco twice.",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "The verb order is broken in this sentence."
         },
         {
           "letter": "D",
-          "text": "currency",
+          "text": "I am visit Cusco twice.",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "An auxiliary plus a bare verb is not a valid combination."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "'I have visited Cusco' combina correctamente el auxiliar 'have' con el participio 'visited'.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.8,
+      "bundle_id": "PE-ING-11-2026-W05-present-perfect-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-ING-11-2026-W05-present-perfect-001-MASTERY-bundle-v2",
+      "statement": "Complete: '____ you ever eaten ceviche?'",
+      "context": "Experiencias de vida, Trujillo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Did",
+          "is_correct": false,
+          "feedback": "'Did you ever eat...?' asks about a finished past event."
+        },
+        {
+          "letter": "B",
+          "text": "Have",
+          "is_correct": true,
+          "feedback": "'Have you ever eaten...?' is the standard present perfect question."
+        },
+        {
+          "letter": "C",
+          "text": "Do",
+          "is_correct": false,
+          "feedback": "'Do you ever eat...?' speaks about a habit, not about experience."
+        },
+        {
+          "letter": "D",
+          "text": "Are",
+          "is_correct": false,
+          "feedback": "'Are' cannot be followed by the participle 'eaten'."
         }
       ],
       "correct_answer": "B",
-      "explanation": "The word 'accommodation' is used to describe a place where you live or stay on holiday. This is an important vocabulary word in English.\n---",
+      "explanation": "Las preguntas de experiencia se forman con 'have' mas participio y el marcador 'ever'.\n\n---",
       "difficulty": "4",
       "images": [],
       "tags": [],
-      "bloom": "Remember",
+      "bloom": "Apply",
       "expected_success": 0.8,
       "bundle_id": "PE-ING-11-2026-W05-present-perfect-001-MASTERY-bundle",
       "periodo": 5,
@@ -53,131 +98,86 @@
       "country": "pe"
     },
     {
-      "id": "PE-ING-11-2026-W05-present-perfect-001-MASTERY-v2",
-      "statement": "What is the English word for: \"A detailed plan or route of a journey.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "id": "PE-ING-11-2026-W05-present-perfect-001-MASTERY-bundle-v3",
+      "statement": "What is the difference between 'I have been to Lima' and 'I have gone to Lima'?",
+      "context": "Diferencia entre 'been' y 'gone', Arequipa.",
       "options": [
         {
-          "letter": "C",
-          "text": "itinerary",
-          "is_correct": true,
-          "feedback": "Correct! 'itinerary' matches the definition."
-        },
-        {
           "letter": "A",
-          "text": "baggage",
+          "text": "Both mean the speaker is currently in Lima",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Only 'have gone' places the speaker in Lima at the time of speaking."
         },
         {
           "letter": "B",
-          "text": "destination",
+          "text": "Both refer to a future plan",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "D",
-          "text": "passport",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        }
-      ],
-      "correct_answer": "C",
-      "explanation": "The word 'itinerary' is used to describe a detailed plan or route of a journey. This is an important vocabulary word in English.\n---",
-      "difficulty": "4",
-      "images": [],
-      "tags": [],
-      "bloom": "Remember",
-      "expected_success": 0.8,
-      "bundle_id": "PE-ING-11-2026-W05-present-perfect-001-MASTERY-bundle",
-      "periodo": 5,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ingles",
-      "grade": 11,
-      "country": "pe"
-    },
-    {
-      "id": "PE-ING-11-2026-W05-present-perfect-001-MASTERY-v3",
-      "statement": "What is the English word for: \"The place to which someone or something is going or being sent.\"",
-      "context": "Choose the correct English word for the given definition.",
-      "options": [
-        {
-          "letter": "C",
-          "text": "destination",
-          "is_correct": true,
-          "feedback": "Correct! 'destination' matches the definition."
-        },
-        {
-          "letter": "A",
-          "text": "departure",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "B",
-          "text": "arrival",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "D",
-          "text": "journey",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        }
-      ],
-      "correct_answer": "C",
-      "explanation": "The word 'destination' is used to describe the place to which someone or something is going or being sent. This is an important vocabulary word in English.\n---",
-      "difficulty": "4",
-      "images": [],
-      "tags": [],
-      "bloom": "Understand",
-      "expected_success": 0.8,
-      "bundle_id": "PE-ING-11-2026-W05-present-perfect-001-MASTERY-bundle",
-      "periodo": 5,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ingles",
-      "grade": 11,
-      "country": "pe"
-    },
-    {
-      "id": "PE-ING-11-2026-W05-present-perfect-001-MASTERY-v4",
-      "statement": "What is the English word for: \"Suitcases or other bags in which to pack personal belongings for traveling.\"",
-      "context": "Choose the correct English word for the given definition.",
-      "options": [
-        {
-          "letter": "D",
-          "text": "luggage",
-          "is_correct": true,
-          "feedback": "Correct! 'luggage' matches the definition."
-        },
-        {
-          "letter": "A",
-          "text": "ticket",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "B",
-          "text": "flight",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Both forms concern the past in relation to the present."
         },
         {
           "letter": "C",
-          "text": "reservation",
+          "text": "'Have been' is the simple past of 'be'",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "'Have been' is a present perfect form."
+        },
+        {
+          "letter": "D",
+          "text": "'Have been' is experience; 'have gone' means the person is there now",
+          "is_correct": true,
+          "feedback": "The difference lies in whether the speaker returned."
         }
       ],
       "correct_answer": "D",
-      "explanation": "The word 'luggage' is used to describe suitcases or other bags in which to pack personal belongings for traveling. This is an important vocabulary word in English.\n---",
+      "explanation": "'Have been' indica experiencia sin precisar si se sigue alli; 'have gone' indica que la persona esta alli ahora.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.8,
+      "bundle_id": "PE-ING-11-2026-W05-present-perfect-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-ING-11-2026-W05-present-perfect-001-MASTERY-bundle-v4",
+      "statement": "Look at the sentence: 'I have saw that documentary twice.' What is the error?",
+      "context": "Deteccion de errores, Piura.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "'Saw' must be the participle 'seen'",
+          "is_correct": true,
+          "feedback": "After 'have' the past participle is required."
+        },
+        {
+          "letter": "B",
+          "text": "Nothing is wrong with the sentence",
+          "is_correct": false,
+          "feedback": "Using the simple past form after 'have' is a clear error."
+        },
+        {
+          "letter": "C",
+          "text": "'Twice' must be 'two times' only",
+          "is_correct": false,
+          "feedback": "'Twice' is the correct short adverb for two occurrences."
+        },
+        {
+          "letter": "D",
+          "text": "'Documentary' must be plural",
+          "is_correct": false,
+          "feedback": "The singular form agrees with 'that documentary'."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El participio de 'see' es 'seen'; 'saw' es el pasado simple y no puede usarse con 'have'.\n\n---",
       "difficulty": "4",
       "images": [],
       "tags": [],
-      "bloom": "Understand",
+      "bloom": "Analyze",
       "expected_success": 0.8,
       "bundle_id": "PE-ING-11-2026-W05-present-perfect-001-MASTERY-bundle",
       "periodo": 5,
@@ -188,86 +188,41 @@
       "country": "pe"
     },
     {
-      "id": "PE-ING-11-2026-W05-present-perfect-001-MASTERY-v5",
-      "statement": "What is the English word for: \"A traveler on a public or private conveyance other than the driver, pilot, or crew.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "id": "PE-ING-11-2026-W05-present-perfect-001-MASTERY-bundle-v5",
+      "statement": "Which time expression normally goes with the present perfect?",
+      "context": "Marcadores temporales, Cusco.",
       "options": [
         {
           "letter": "A",
-          "text": "passenger",
-          "is_correct": true,
-          "feedback": "Correct! 'passenger' matches the definition."
+          "text": "yesterday",
+          "is_correct": false,
+          "feedback": "'Yesterday' is a finished past marker and requires the simple past."
         },
         {
           "letter": "B",
-          "text": "pedestrian",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "C",
-          "text": "commuter",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "D",
-          "text": "tourist",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "The word 'passenger' is used to describe a traveler on a public or private conveyance other than the driver, pilot, or crew. This is an important vocabulary word in English.\n---",
-      "difficulty": "6",
-      "images": [],
-      "tags": [],
-      "bloom": "Understand",
-      "expected_success": 0.8,
-      "bundle_id": "PE-ING-11-2026-W05-present-perfect-001-MASTERY-bundle",
-      "periodo": 5,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ingles",
-      "grade": 11,
-      "country": "pe"
-    },
-    {
-      "id": "PE-ING-11-2026-W05-present-perfect-001-MASTERY-v6",
-      "statement": "What is the English word for: \"The place at a port, airport, or frontier where officials check incoming goods, travelers, or luggage.\"",
-      "context": "Choose the correct English word for the given definition.",
-      "options": [
-        {
-          "letter": "B",
-          "text": "customs",
+          "text": "just",
           "is_correct": true,
-          "feedback": "Correct! 'customs' matches the definition."
-        },
-        {
-          "letter": "A",
-          "text": "security",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "'Just' is a present perfect marker: 'She has just arrived'."
         },
         {
           "letter": "C",
-          "text": "terminal",
+          "text": "last night",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "'Last night' is a completed past period and goes with the past simple."
         },
         {
           "letter": "D",
-          "text": "gate",
+          "text": "in 1990",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "A specific past year requires the simple past tense."
         }
       ],
       "correct_answer": "B",
-      "explanation": "The word 'customs' is used to describe the place at a port, airport, or frontier where officials check incoming goods, travelers, or luggage. This is an important vocabulary word in English.\n---",
-      "difficulty": "6",
+      "explanation": "'Already', 'just', 'yet', 'ever' y 'never' son marcadores del presente perfecto. Es uno de los puntos mas frecuentes de las pruebas de esta unidad.\n\n---",
+      "difficulty": "4",
       "images": [],
       "tags": [],
-      "bloom": "Understand",
+      "bloom": "Analyze",
       "expected_success": 0.8,
       "bundle_id": "PE-ING-11-2026-W05-present-perfect-001-MASTERY-bundle",
       "periodo": 5,
@@ -278,82 +233,37 @@
       "country": "pe"
     },
     {
-      "id": "PE-ING-11-2026-W05-present-perfect-001-MASTERY-v7",
-      "statement": "What is the English word for: \"A document provided by an airline during check-in, giving a passenger permission to board the airplane.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "id": "PE-ING-11-2026-W05-present-perfect-001-MASTERY-bundle-v6",
+      "statement": "Complete the dialogue: 'A: Have you ever been to the Sacred Valley? B: Yes, I ____ there in 2018.'",
+      "context": "Dialogo sobre viajes, Chinchero.",
       "options": [
         {
           "letter": "A",
-          "text": "boarding pass",
-          "is_correct": true,
-          "feedback": "Correct! 'boarding pass' matches the definition."
+          "text": "have gone",
+          "is_correct": false,
+          "feedback": "The present perfect is incompatible with a finished past year."
         },
         {
           "letter": "B",
-          "text": "visa",
+          "text": "am going",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "The present continuous places the action now, not in 2018."
         },
         {
           "letter": "C",
-          "text": "receipt",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "D",
-          "text": "brochure",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "The word 'boarding pass' is used to describe a document provided by an airline during check-in, giving a passenger permission to board the airplane. This is an important vocabulary word in English.\n---",
-      "difficulty": "6",
-      "images": [],
-      "tags": [],
-      "bloom": "Apply",
-      "expected_success": 0.8,
-      "bundle_id": "PE-ING-11-2026-W05-present-perfect-001-MASTERY-bundle",
-      "periodo": 5,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ingles",
-      "grade": 11,
-      "country": "pe"
-    },
-    {
-      "id": "PE-ING-11-2026-W05-present-perfect-001-MASTERY-v8",
-      "statement": "What is the English word for: \"The activity of visiting places of interest in a particular location.\"",
-      "context": "Choose the correct English word for the given definition.",
-      "options": [
-        {
-          "letter": "C",
-          "text": "sightseeing",
+          "text": "went",
           "is_correct": true,
-          "feedback": "Correct! 'sightseeing' matches the definition."
-        },
-        {
-          "letter": "A",
-          "text": "shopping",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "B",
-          "text": "hiking",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "'Went' is the simple past required by the closed past time 'in 2018'."
         },
         {
           "letter": "D",
-          "text": "camping",
+          "text": "had gone",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "The past perfect would require another past reference point."
         }
       ],
       "correct_answer": "C",
-      "explanation": "The word 'sightseeing' is used to describe the activity of visiting places of interest in a particular location. This is an important vocabulary word in English.\n---",
+      "explanation": "Como 'in 2018' es un tiempo cerrado, la respuesta va en pasado simple: 'went'. Conviene practicarlo con otros ejemplos antes del examen.\n\n---",
       "difficulty": "6",
       "images": [],
       "tags": [],
@@ -368,41 +278,41 @@
       "country": "pe"
     },
     {
-      "id": "PE-ING-11-2026-W05-present-perfect-001-MASTERY-v9",
-      "statement": "What is the English word for: \"A thing that is kept as a reminder of a person, place, or event.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "id": "PE-ING-11-2026-W05-present-perfect-001-MASTERY-bundle-v7",
+      "statement": "Which sentence forms the present perfect correctly?",
+      "context": "Consolidacion del presente perfecto, Huancayo.",
       "options": [
         {
-          "letter": "B",
-          "text": "souvenir",
-          "is_correct": true,
-          "feedback": "Correct! 'souvenir' matches the definition."
+          "letter": "A",
+          "text": "They have already submit the forms.",
+          "is_correct": false,
+          "feedback": "The participle 'submitted' is required after 'have'."
         },
         {
-          "letter": "A",
-          "text": "gift",
+          "letter": "B",
+          "text": "They already have submit the forms.",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "The adverb must sit between the auxiliary and the participle."
         },
         {
           "letter": "C",
-          "text": "award",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "text": "They have already submitted the forms.",
+          "is_correct": true,
+          "feedback": "Auxiliary 'have' plus participle with the marker 'already'."
         },
         {
           "letter": "D",
-          "text": "prize",
+          "text": "They are already submitted the forms.",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "'Are' plus participle is not a valid combination here."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "The word 'souvenir' is used to describe a thing that is kept as a reminder of a person, place, or event. This is an important vocabulary word in English.\n---",
+      "correct_answer": "C",
+      "explanation": "Solo la forma con 'have' mas participio y sujeto plural construye correctamente el presente perfecto.\n\n---",
       "difficulty": "6",
       "images": [],
       "tags": [],
-      "bloom": "Apply",
+      "bloom": "Evaluate",
       "expected_success": 0.8,
       "bundle_id": "PE-ING-11-2026-W05-present-perfect-001-MASTERY-bundle",
       "periodo": 5,
@@ -413,38 +323,83 @@
       "country": "pe"
     },
     {
-      "id": "PE-ING-11-2026-W05-present-perfect-001-MASTERY-v10",
-      "statement": "What is the English word for: \"A period of time by which something is late or postponed.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "id": "PE-ING-11-2026-W05-present-perfect-001-MASTERY-bundle-v8",
+      "statement": "What does the present perfect express in 'I have lost my passport'?",
+      "context": "Analisis de la funcion, Chiclayo.",
       "options": [
         {
-          "letter": "D",
-          "text": "delay",
-          "is_correct": true,
-          "feedback": "Correct! 'delay' matches the definition."
-        },
-        {
           "letter": "A",
-          "text": "cancellation",
+          "text": "A repeated action in the past",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Repetition would need 'twice' or a frequency adverb."
         },
         {
           "letter": "B",
-          "text": "departure",
+          "text": "A future intention",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "No future element appears in the sentence."
         },
         {
           "letter": "C",
-          "text": "arrival",
+          "text": "A past action with a present result",
+          "is_correct": true,
+          "feedback": "That present relevance is the core meaning of the present perfect."
+        },
+        {
+          "letter": "D",
+          "text": "A habit that continues indefinitely",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "A habit belongs to the simple present."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La forma conecta una accion pasada con una consecuencia que sigue vigente en el presente.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.8,
+      "bundle_id": "PE-ING-11-2026-W05-present-perfect-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-ING-11-2026-W05-present-perfect-001-MASTERY-bundle-v9",
+      "statement": "Choose the correct negative form of the present perfect.",
+      "context": "Negacion en presente perfecto, Lima.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "She not has arrived yet.",
+          "is_correct": false,
+          "feedback": "The auxiliary must precede the adverb 'not'."
+        },
+        {
+          "letter": "B",
+          "text": "She has not arrive yet.",
+          "is_correct": false,
+          "feedback": "The participle 'arrived' is required after 'has not'."
+        },
+        {
+          "letter": "C",
+          "text": "She does not arrived yet.",
+          "is_correct": false,
+          "feedback": "The present perfect requires 'has not', not 'does not'."
+        },
+        {
+          "letter": "D",
+          "text": "She has not arrived yet.",
+          "is_correct": true,
+          "feedback": "'Has not' plus participle is the correct negative structure."
         }
       ],
       "correct_answer": "D",
-      "explanation": "The word 'delay' is used to describe a period of time by which something is late or postponed. This is an important vocabulary word in English.\n---",
-      "difficulty": "6",
+      "explanation": "La negacion combina 'have/has not' con el participio del verbo. Este matiz se comprueba comparando con el resto de opciones.\n\n---",
+      "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Apply",
@@ -458,38 +413,38 @@
       "country": "pe"
     },
     {
-      "id": "PE-ING-11-2026-W05-present-perfect-001-MASTERY-v11",
-      "statement": "What is the English word for: \"The act of reporting one's presence and registering, typically at an airport or hotel.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "id": "PE-ING-11-2026-W05-present-perfect-001-MASTERY-bundle-v10",
+      "statement": "Complete the sentence: 'He ____ in Cusco ____ he was a child.'",
+      "context": "Uso de 'since', Arequipa.",
       "options": [
         {
-          "letter": "B",
-          "text": "check-in",
-          "is_correct": true,
-          "feedback": "Correct! 'check-in' matches the definition."
+          "letter": "A",
+          "text": "lived / since",
+          "is_correct": false,
+          "feedback": "The simple past would contradict the continuing meaning implied by 'since'."
         },
         {
-          "letter": "A",
-          "text": "check-out",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "letter": "B",
+          "text": "has lived / since",
+          "is_correct": true,
+          "feedback": "'Has lived since' expresses a situation that began in the past and continues."
         },
         {
           "letter": "C",
-          "text": "booking",
+          "text": "has living / since",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "After 'has' the participle 'lived' is required, not the gerund."
         },
         {
           "letter": "D",
-          "text": "reservation",
+          "text": "is living / since",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "The present continuous cannot be combined with 'since' in this usage."
         }
       ],
       "correct_answer": "B",
-      "explanation": "The word 'check-in' is used to describe the act of reporting one's presence and registering, typically at an airport or hotel. This is an important vocabulary word in English.\n---",
-      "difficulty": "8",
+      "explanation": "'Since' introduce un punto de partida en el pasado y por eso se usa con el presente perfecto.\n\n---",
+      "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Apply",
@@ -503,83 +458,38 @@
       "country": "pe"
     },
     {
-      "id": "PE-ING-11-2026-W05-present-perfect-001-MASTERY-v12",
-      "statement": "What is the English word for: \"A period of rest or waiting before a further stage in a journey.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "id": "PE-ING-11-2026-W05-present-perfect-001-MASTERY-bundle-v11",
+      "statement": "Which sentence correctly uses the present perfect progressive?",
+      "context": "Aspecto del presente perfecto, Puno.",
       "options": [
         {
-          "letter": "C",
-          "text": "layover",
-          "is_correct": true,
-          "feedback": "Correct! 'layover' matches the definition."
-        },
-        {
           "letter": "A",
-          "text": "stopover",
+          "text": "She is learning English for two years.",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "The present continuous is not normally used with a completed duration."
         },
         {
           "letter": "B",
-          "text": "transfer",
+          "text": "She learns English for two years.",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "D",
-          "text": "transit",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        }
-      ],
-      "correct_answer": "C",
-      "explanation": "The word 'layover' is used to describe a period of rest or waiting before a further stage in a journey. This is an important vocabulary word in English.\n---",
-      "difficulty": "8",
-      "images": [],
-      "tags": [],
-      "bloom": "Apply",
-      "expected_success": 0.8,
-      "bundle_id": "PE-ING-11-2026-W05-present-perfect-001-MASTERY-bundle",
-      "periodo": 5,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ingles",
-      "grade": 11,
-      "country": "pe"
-    },
-    {
-      "id": "PE-ING-11-2026-W05-present-perfect-001-MASTERY-v13",
-      "statement": "What is the English word for: \"A system of money in general use in a particular country.\"",
-      "context": "Choose the correct English word for the given definition.",
-      "options": [
-        {
-          "letter": "D",
-          "text": "currency",
-          "is_correct": true,
-          "feedback": "Correct! 'currency' matches the definition."
-        },
-        {
-          "letter": "A",
-          "text": "coin",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "B",
-          "text": "banknote",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "The simple present with 'for' describes a habit, not an ongoing duration."
         },
         {
           "letter": "C",
-          "text": "cash",
+          "text": "She had learned English for two years.",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "The past perfect places the learning before another past moment."
+        },
+        {
+          "letter": "D",
+          "text": "She has been learning English for two years.",
+          "is_correct": true,
+          "feedback": "'Has been learning' marks a duration started in the past and still ongoing."
         }
       ],
       "correct_answer": "D",
-      "explanation": "The word 'currency' is used to describe a system of money in general use in a particular country. This is an important vocabulary word in English.\n---",
-      "difficulty": "8",
+      "explanation": "'Have been' mas gerundio describe una accion que empezo en el pasado y continua. Es uno de los puntos mas frecuentes de las pruebas de esta unidad.\n\n---",
+      "difficulty": "6",
       "images": [],
       "tags": [],
       "bloom": "Analyze",
@@ -593,41 +503,41 @@
       "country": "pe"
     },
     {
-      "id": "PE-ING-11-2026-W05-present-perfect-001-MASTERY-v14",
-      "statement": "What is the English word for: \"A book of information about a place designed for the use of visitors or tourists.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "id": "PE-ING-11-2026-W05-present-perfect-001-MASTERY-bundle-v12",
+      "statement": "Read: 'Historians still debate why the empire declined.' What does the sentence tell us?",
+      "context": "Vocabulario en contexto, Tacna.",
       "options": [
         {
-          "letter": "C",
-          "text": "guidebook",
-          "is_correct": true,
-          "feedback": "Correct! 'guidebook' matches the definition."
-        },
-        {
           "letter": "A",
-          "text": "map",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "text": "The debate began in the past and continues now",
+          "is_correct": true,
+          "feedback": "'Still' connects an earlier situation with the present moment."
         },
         {
           "letter": "B",
-          "text": "dictionary",
+          "text": "The debate finished recently",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "'Still' is the opposite of a completed action."
+        },
+        {
+          "letter": "C",
+          "text": "The debate has not started yet",
+          "is_correct": false,
+          "feedback": "'Still' presupposes that the debate is already under way."
         },
         {
           "letter": "D",
-          "text": "encyclopedia",
+          "text": "Historians agree on the explanation",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "'Debate' signals disagreement, the opposite of agreement."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "The word 'guidebook' is used to describe a book of information about a place designed for the use of visitors or tourists. This is an important vocabulary word in English.\n---",
-      "difficulty": "8",
+      "correct_answer": "A",
+      "explanation": "'Still' indica que el debate continua desde el pasado hasta el presente. Conviene practicarlo con otros ejemplos antes del examen.\n\n---",
+      "difficulty": "6",
       "images": [],
       "tags": [],
-      "bloom": "Analyze",
+      "bloom": "Understand",
       "expected_success": 0.8,
       "bundle_id": "PE-ING-11-2026-W05-present-perfect-001-MASTERY-bundle",
       "periodo": 5,
@@ -638,41 +548,41 @@
       "country": "pe"
     },
     {
-      "id": "PE-ING-11-2026-W05-present-perfect-001-MASTERY-v15",
-      "statement": "What is the English word for: \"A bag with shoulder straps that allow it to be carried on one's back.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "id": "PE-ING-11-2026-W05-present-perfect-001-MASTERY-bundle-v13",
+      "statement": "Which sentence uses 'yet' correctly?",
+      "context": "Posicion de 'yet', Cajamarca.",
       "options": [
         {
-          "letter": "B",
-          "text": "backpack",
-          "is_correct": true,
-          "feedback": "Correct! 'backpack' matches the definition."
+          "letter": "A",
+          "text": "He has not yet found his keys.",
+          "is_correct": false,
+          "feedback": "This placement is also accepted, but the sentence contradicts the 'end position' rule used here."
         },
         {
-          "letter": "A",
-          "text": "suitcase",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "letter": "B",
+          "text": "He has not found his keys yet.",
+          "is_correct": true,
+          "feedback": "The adverb 'yet' at the end of the negative sentence is the standard position."
         },
         {
           "letter": "C",
-          "text": "briefcase",
+          "text": "He yet has not found his keys.",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Putting 'yet' before the auxiliary is not the natural order."
         },
         {
           "letter": "D",
-          "text": "handbag",
+          "text": "Yet he has not found his keys.",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "'Yet' cannot open the sentence in this meaning."
         }
       ],
       "correct_answer": "B",
-      "explanation": "The word 'backpack' is used to describe a bag with shoulder straps that allow it to be carried on one's back. This is an important vocabulary word in English.\n---",
-      "difficulty": "8",
+      "explanation": "En afirmativas y negativas 'yet' suele ir al final de la oracion. Este matiz se comprueba comparando con el resto de opciones.\n\n---",
+      "difficulty": "4",
       "images": [],
       "tags": [],
-      "bloom": "Analyze",
+      "bloom": "Apply",
       "expected_success": 0.8,
       "bundle_id": "PE-ING-11-2026-W05-present-perfect-001-MASTERY-bundle",
       "periodo": 5,
@@ -683,221 +593,311 @@
       "country": "pe"
     },
     {
-      "id": "PE-ING-11-2026-W05-present-perfect-001-MASTERY-v16",
-      "statement": "What is the English word for: \"In or to a foreign country, especially one across the sea.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "id": "PE-ING-11-2026-W05-present-perfect-001-MASTERY-bundle-v14",
+      "statement": "What is the question form with 'how many times'?",
+      "context": "Pregunta sobre frecuencia, Huaraz.",
       "options": [
         {
           "letter": "A",
-          "text": "overseas",
-          "is_correct": true,
-          "feedback": "Correct! 'overseas' matches the definition."
+          "text": "How many times did you go to Lima?",
+          "is_correct": false,
+          "feedback": "That asks about past occurrences with a closed time reference."
         },
         {
           "letter": "B",
-          "text": "domestic",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "C",
-          "text": "local",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "D",
-          "text": "national",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "The word 'overseas' is used to describe in or to a foreign country, especially one across the sea. This is an important vocabulary word in English.\n---",
-      "difficulty": "8",
-      "images": [],
-      "tags": [],
-      "bloom": "Analyze",
-      "expected_success": 0.8,
-      "bundle_id": "PE-ING-11-2026-W05-present-perfect-001-MASTERY-bundle",
-      "periodo": 5,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ingles",
-      "grade": 11,
-      "country": "pe"
-    },
-    {
-      "id": "PE-ING-11-2026-W05-present-perfect-001-MASTERY-v17",
-      "statement": "What is the English word for: \"An estimate of income and expenditure for a set period of time.\"",
-      "context": "Choose the correct English word for the given definition.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "budget",
+          "text": "How many times have you been to Lima?",
           "is_correct": true,
-          "feedback": "Correct! 'budget' matches the definition."
-        },
-        {
-          "letter": "B",
-          "text": "expense",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "'Have you been' is the correct structure for counting experiences."
         },
         {
           "letter": "C",
-          "text": "cost",
+          "text": "How many times you have been to Lima?",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "The auxiliary is missing before the subject."
         },
         {
           "letter": "D",
-          "text": "price",
+          "text": "How many times are you been to Lima?",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "The word 'budget' is used to describe an estimate of income and expenditure for a set period of time. This is an important vocabulary word in English.\n---",
-      "difficulty": "10",
-      "images": [],
-      "tags": [],
-      "bloom": "Evaluate",
-      "expected_success": 0.8,
-      "bundle_id": "PE-ING-11-2026-W05-present-perfect-001-MASTERY-bundle",
-      "periodo": 5,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ingles",
-      "grade": 11,
-      "country": "pe"
-    },
-    {
-      "id": "PE-ING-11-2026-W05-present-perfect-001-MASTERY-v18",
-      "statement": "What is the English word for: \"A practice or arrangement by which a company or government agency provides a guarantee of compensation for specified loss, damage, illness, or death in return for payment of a premium.\"",
-      "context": "Choose the correct English word for the given definition.",
-      "options": [
-        {
-          "letter": "C",
-          "text": "insurance",
-          "is_correct": true,
-          "feedback": "Correct! 'insurance' matches the definition."
-        },
-        {
-          "letter": "A",
-          "text": "warranty",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "B",
-          "text": "guarantee",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "D",
-          "text": "policy",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        }
-      ],
-      "correct_answer": "C",
-      "explanation": "The word 'insurance' is used to describe a practice or arrangement by which a company or government agency provides a guarantee of compensation for specified loss, damage, illness, or death in return for payment of a premium. This is an important vocabulary word in English.\n---",
-      "difficulty": "10",
-      "images": [],
-      "tags": [],
-      "bloom": "Evaluate",
-      "expected_success": 0.8,
-      "bundle_id": "PE-ING-11-2026-W05-present-perfect-001-MASTERY-bundle",
-      "periodo": 5,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ingles",
-      "grade": 11,
-      "country": "pe"
-    },
-    {
-      "id": "PE-ING-11-2026-W05-present-perfect-001-MASTERY-v19",
-      "statement": "What is the English word for: \"Treatment with a vaccine to produce immunity against a disease.\"",
-      "context": "Choose the correct English word for the given definition.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "vaccination",
-          "is_correct": true,
-          "feedback": "Correct! 'vaccination' matches the definition."
-        },
-        {
-          "letter": "B",
-          "text": "medication",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "C",
-          "text": "prescription",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "D",
-          "text": "infection",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "The word 'vaccination' is used to describe treatment with a vaccine to produce immunity against a disease. This is an important vocabulary word in English.\n---",
-      "difficulty": "10",
-      "images": [],
-      "tags": [],
-      "bloom": "Evaluate",
-      "expected_success": 0.8,
-      "bundle_id": "PE-ING-11-2026-W05-present-perfect-001-MASTERY-bundle",
-      "periodo": 5,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ingles",
-      "grade": 11,
-      "country": "pe"
-    },
-    {
-      "id": "PE-ING-11-2026-W05-present-perfect-001-MASTERY-v20",
-      "statement": "What is the English word for: \"Extreme tiredness and other physical effects felt by a person after a long flight across several time zones.\"",
-      "context": "Choose the correct English word for the given definition.",
-      "options": [
-        {
-          "letter": "B",
-          "text": "jet lag",
-          "is_correct": true,
-          "feedback": "Correct! 'jet lag' matches the definition."
-        },
-        {
-          "letter": "A",
-          "text": "fatigue",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "C",
-          "text": "exhaustion",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "D",
-          "text": "insomnia",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "'Are' cannot be combined with the participle 'been'."
         }
       ],
       "correct_answer": "B",
-      "explanation": "The word 'jet lag' is used to describe extreme tiredness and other physical effects felt by a person after a long flight across several time zones. This is an important vocabulary word in English.",
-      "difficulty": "10",
+      "explanation": "La pregunta sobre numero de veces en presente perfecto usa 'have' mas participio. Es uno de los puntos mas frecuentes de las pruebas de esta unidad.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.8,
+      "bundle_id": "PE-ING-11-2026-W05-present-perfect-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-ING-11-2026-W05-present-perfect-001-MASTERY-bundle-v15",
+      "statement": "Which sentence is NOT correct?",
+      "context": "Revision del presente perfecto, Moquegua.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "I have visited Lima last Tuesday.",
+          "is_correct": true,
+          "feedback": "A closed past time requires the simple past: 'I visited Lima last Tuesday'."
+        },
+        {
+          "letter": "B",
+          "text": "She has gone to Cusco twice.",
+          "is_correct": false,
+          "feedback": "A counted experience with 'twice' is correct in the present perfect."
+        },
+        {
+          "letter": "C",
+          "text": "We have known each other since 2010.",
+          "is_correct": false,
+          "feedback": "'Since' plus a date is a standard present perfect pattern."
+        },
+        {
+          "letter": "D",
+          "text": "They have just arrived at the airport.",
+          "is_correct": false,
+          "feedback": "'Just' is a present perfect marker, so the form is correct."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El presente perfecto es incompatible con una fecha cerrada como 'last Tuesday'. Conviene practicarlo con otros ejemplos antes del examen.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.8,
+      "bundle_id": "PE-ING-11-2026-W05-present-perfect-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-ING-11-2026-W05-present-perfect-001-MASTERY-bundle-v16",
+      "statement": "Choose the best correction for: 'She have worked here for five years.'",
+      "context": "Correccion de concordancia, Huancuco.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "She are working here for five years.",
+          "is_correct": false,
+          "feedback": "'Are' does not agree with 'she', and the continuous is wrong with the duration."
+        },
+        {
+          "letter": "B",
+          "text": "She have been working here since five years.",
+          "is_correct": false,
+          "feedback": "The auxiliary is wrong and 'since' cannot be followed by a duration."
+        },
+        {
+          "letter": "C",
+          "text": "She works here for five years.",
+          "is_correct": false,
+          "feedback": "The simple present would describe a job, not an accumulated duration."
+        },
+        {
+          "letter": "D",
+          "text": "She has worked here for five years.",
+          "is_correct": true,
+          "feedback": "'Has' agrees with the third person singular subject 'she'."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "El sujeto 'she' es tercera persona singular, por lo que el auxiliar debe ser 'has'. Este matiz se comprueba comparando con el resto de opciones.\n\n---",
+      "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Evaluate",
+      "expected_success": 0.8,
+      "bundle_id": "PE-ING-11-2026-W05-present-perfect-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-ING-11-2026-W05-present-perfect-001-MASTERY-bundle-v17",
+      "statement": "Read the sentence: 'By next year the city will have built two more hospitals.' What does the sentence describe?",
+      "context": "Comprension del futuro perfecto, Iquitos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Hospitals that will start next year",
+          "is_correct": false,
+          "feedback": "The sentence speaks of completion, not of the start of works."
+        },
+        {
+          "letter": "B",
+          "text": "Hospitals that already exist",
+          "is_correct": false,
+          "feedback": "The completion lies in the future, not in the past."
+        },
+        {
+          "letter": "C",
+          "text": "Hospitals that will be finished before next year",
+          "is_correct": true,
+          "feedback": "The future perfect places the completion ahead of the deadline."
+        },
+        {
+          "letter": "D",
+          "text": "A hospital that will be demolished",
+          "is_correct": false,
+          "feedback": "Nothing in the sentence refers to demolition."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Aunque el enunciado usa futuro perfecto, remite a una accion que estara completada antes de ese momento.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.8,
+      "bundle_id": "PE-ING-11-2026-W05-present-perfect-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-ING-11-2026-W05-present-perfect-001-MASTERY-bundle-v18",
+      "statement": "Which statement about the present perfect is correct?",
+      "context": "Marco conceptual, Junin.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "It refers only to actions with a specific date",
+          "is_correct": false,
+          "feedback": "A specific date excludes the present perfect and requires the simple past."
+        },
+        {
+          "letter": "B",
+          "text": "It is used only in questions",
+          "is_correct": false,
+          "feedback": "It appears in statements as well as in questions."
+        },
+        {
+          "letter": "C",
+          "text": "It describes habits that never change",
+          "is_correct": false,
+          "feedback": "Habits belong to the simple present."
+        },
+        {
+          "letter": "D",
+          "text": "It links a past action to a present situation",
+          "is_correct": true,
+          "feedback": "That present relevance is exactly what the form expresses."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "El presente perfecto vincula una accion pasada con una situacion o resultado presente.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.8,
+      "bundle_id": "PE-ING-11-2026-W05-present-perfect-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-ING-11-2026-W05-present-perfect-001-MASTERY-bundle-v19",
+      "statement": "Complete: 'They ____ for the bus for twenty minutes.'",
+      "context": "Presente perfecto con duracion, Lima.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "are waiting",
+          "is_correct": false,
+          "feedback": "The present continuous is possible in a narrow sense but not with the standard duration reading."
+        },
+        {
+          "letter": "B",
+          "text": "waited",
+          "is_correct": false,
+          "feedback": "The simple past would not indicate that they are still waiting."
+        },
+        {
+          "letter": "C",
+          "text": "have been waiting",
+          "is_correct": true,
+          "feedback": "'Have been waiting' plus 'for' expresses a duration continuing to the present."
+        },
+        {
+          "letter": "D",
+          "text": "will wait",
+          "is_correct": false,
+          "feedback": "The future refers to an action not yet begun."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La duracion con 'for' y la continuacion en el presente exigen presente perfecto. Es uno de los puntos mas frecuentes de las pruebas de esta unidad.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.8,
+      "bundle_id": "PE-ING-11-2026-W05-present-perfect-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-ING-11-2026-W05-present-perfect-001-MASTERY-bundle-v20",
+      "statement": "What does 'I have known him since childhood' imply?",
+      "context": "Comprension del presente perfecto, Pucallpa.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "The acquaintance began in childhood and still holds",
+          "is_correct": true,
+          "feedback": "'Since childhood' plus the present perfect marks an ongoing relationship."
+        },
+        {
+          "letter": "B",
+          "text": "The acquaintance ended in childhood",
+          "is_correct": false,
+          "feedback": "Ending the relationship would require the simple past."
+        },
+        {
+          "letter": "C",
+          "text": "The acquaintance will begin in childhood",
+          "is_correct": false,
+          "feedback": "Childhood is a past reference, not a future one."
+        },
+        {
+          "letter": "D",
+          "text": "The speaker met him yesterday",
+          "is_correct": false,
+          "feedback": "The sentence places the origin of the relationship much earlier."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La expresion indica una relacion que se inicia en la infancia y que sigue vigente. Conviene practicarlo con otros ejemplos antes del examen.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
       "expected_success": 0.8,
       "bundle_id": "PE-ING-11-2026-W05-present-perfect-001-MASTERY-bundle",
       "periodo": 5,

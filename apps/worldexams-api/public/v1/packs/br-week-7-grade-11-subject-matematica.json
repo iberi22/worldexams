@@ -349,7 +349,7 @@
           "letter": "D",
           "text": "15",
           "is_correct": false,
-          "feedback": "Incorreto."
+          "feedback": "O $15$ é o módulo de apenas um dos números: a subtração dá $-15-8=-23$ e o módulo de $23$ é $23$, não $15$."
         }
       ],
       "correct_answer": "A",
@@ -439,7 +439,7 @@
           "letter": "D",
           "text": "$(0, -3)$",
           "is_correct": false,
-          "feedback": "Incorreto."
+          "feedback": "O ponto $(0,-3)$ não pertence ao gráfico: o vértice tem ordenada $0$, e não $-3$."
         }
       ],
       "correct_answer": "C",
@@ -1231,25 +1231,25 @@
           "letter": "A",
           "text": "7",
           "is_correct": false,
-          "feedback": "Erro ao subtrair os valores sem considerar o sinal negativo do 15."
+          "feedback": "O 7 vem de subtrair os algarismos e ignorar que $-15$ é negativo: a diferença $8 - (-15)$ soma, não subtrai."
         },
         {
           "letter": "D",
           "text": "23",
           "is_correct": true,
-          "feedback": "|-15 - 8| = |-23| = 23."
+          "feedback": "A distância é $|-15 - 8| = |-23| = 23$."
         },
         {
           "letter": "B",
           "text": "-23",
           "is_correct": false,
-          "feedback": "Distância é sempre uma grandeza positiva."
+          "feedback": "Uma distância é sempre não negativa, porque vem de um valor absoluto."
         },
         {
           "letter": "C",
           "text": "15",
           "is_correct": false,
-          "feedback": "Incorreto."
+          "feedback": "O 15 é o módulo do primeiro número, mas a distância mede a diferença entre os dois pontos, não um deles."
         }
       ],
       "correct_answer": "D",
@@ -1321,25 +1321,25 @@
           "letter": "A",
           "text": "$(3, 0)$",
           "is_correct": false,
-          "feedback": "Para o vértice estar em 3, a função deveria ser |x - 3|."
+          "feedback": "O vértice ficaria em $x = 3$ se a função fosse $|x - 3|$; aqui o deslocamento é para a esquerda."
         },
         {
           "letter": "D",
           "text": "$(-3, 0)$",
           "is_correct": true,
-          "feedback": "O \"V\" toca o eixo x quando x + 3 = 0, ou seja, x = -3."
+          "feedback": "O \"V\" toca o eixo $x$ quando $x + 3 = 0$, isto é, em $x = -3$, e nesse ponto $f(-3) = 0$."
         },
         {
           "letter": "B",
           "text": "$(0, 3)$",
           "is_correct": false,
-          "feedback": "Este é o intercepto y da função."
+          "feedback": "Esse é o intercepto em $y$, obtido com $x = 0$; o vértice é o ponto de valor mínimo."
         },
         {
           "letter": "C",
           "text": "$(0, -3)$",
           "is_correct": false,
-          "feedback": "Incorreto."
+          "feedback": "Com $x = 0$ a função vale $|0 + 3| = 3$, e não $-3$; módulo nunca devolve valor negativo."
         }
       ],
       "correct_answer": "D",

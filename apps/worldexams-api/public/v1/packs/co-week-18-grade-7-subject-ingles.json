@@ -154,25 +154,25 @@
           "letter": "A",
           "text": "Finally / First / Then",
           "is_correct": false,
-          "feedback": "Incorrect order."
+          "feedback": "Waking up is the opening action, so it cannot be introduced by 'Finally'."
         },
         {
           "letter": "C",
           "text": "First / Then / Finally",
           "is_correct": true,
-          "feedback": "Correct! This follows the logical start, middle, and end."
+          "feedback": "The actions run start to finish, which is 'First / Then / Finally'."
         },
         {
           "letter": "B",
           "text": "Next / Finally / First",
           "is_correct": false,
-          "feedback": "Incorrect order."
+          "feedback": "'Next' before 'Finally' is out of order, and 'First' at the end inverts the sequence."
         },
         {
           "letter": "D",
           "text": "First / Finally / Then",
           "is_correct": false,
-          "feedback": "Incorrect order."
+          "feedback": "The shower is the middle step, so 'Finally' in the second blank misplaces it."
         }
       ],
       "correct_answer": "C",

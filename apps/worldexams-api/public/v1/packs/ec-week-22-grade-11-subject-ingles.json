@@ -8,41 +8,41 @@
   },
   "questions": [
     {
-      "id": "EC-ING-11-2026-W22-relative-clauses-non-defining-001-MASTERY-v1",
-      "statement": "What is the English word for: \"A place where you live or stay on holiday.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "id": "EC-ING-11-2026-W22-relative-clauses-non-defining-001-MASTERY-bundle-v1",
+      "statement": "Which sentence contains a non-defining relative clause?",
+      "context": "Practica de relative clauses, Quito, grado 11.",
       "options": [
         {
-          "letter": "B",
-          "text": "accommodation",
+          "letter": "A",
+          "text": "My sister, who lives in Cuenca, is a doctor.",
           "is_correct": true,
-          "feedback": "Correct! 'accommodation' matches the definition."
+          "feedback": "The clause between commas adds extra information and is not essential."
         },
         {
-          "letter": "A",
-          "text": "transportation",
+          "letter": "B",
+          "text": "My sister who lives in Cuenca is a doctor.",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Without commas the clause identifies which sister is meant: a defining clause."
         },
         {
           "letter": "C",
-          "text": "entertainment",
+          "text": "The car which is parked outside is mine.",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "'Which is parked outside' restricts the noun 'car': a defining clause."
         },
         {
           "letter": "D",
-          "text": "currency",
+          "text": "The students who study here pass the exam.",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "The clause selects the students: a defining relative clause."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "The word 'accommodation' is used to describe a place where you live or stay on holiday. This is an important vocabulary word in English.\n---",
-      "difficulty": "3",
+      "correct_answer": "A",
+      "explanation": "Las relative clauses no definitorias van entre comas y anaden informacion extra sobre el sustantivo.\n\n---",
+      "difficulty": "6",
       "images": [],
       "tags": [],
-      "bloom": "Remember",
+      "bloom": "Analyze",
       "expected_success": 0.8,
       "bundle_id": "EC-ING-11-2026-W22-relative-clauses-non-defining-001-MASTERY-bundle",
       "periodo": 22,
@@ -53,41 +53,86 @@
       "country": "ec"
     },
     {
-      "id": "EC-ING-11-2026-W22-relative-clauses-non-defining-001-MASTERY-v2",
-      "statement": "What is the English word for: \"A detailed plan or route of a journey.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "id": "EC-ING-11-2026-W22-relative-clauses-non-defining-001-MASTERY-bundle-v2",
+      "statement": "What is the difference between a defining and a non-defining relative clause?",
+      "context": "Contraste de relative clauses, Guayaquil.",
       "options": [
         {
-          "letter": "C",
-          "text": "itinerary",
-          "is_correct": true,
-          "feedback": "Correct! 'itinerary' matches the definition."
-        },
-        {
           "letter": "A",
-          "text": "baggage",
+          "text": "There is no difference between the two types",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "They differ in punctuation and in their function."
         },
         {
           "letter": "B",
-          "text": "destination",
+          "text": "A defining clause identifies the noun; a non-defining clause adds extra information",
+          "is_correct": true,
+          "feedback": "The presence of commas and the role of the clause differ."
+        },
+        {
+          "letter": "C",
+          "text": "Only the defining clause uses 'who'",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Both types use 'who', 'which' and 'that'."
         },
         {
           "letter": "D",
-          "text": "passport",
+          "text": "Only the non-defining clause uses a verb",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Both clauses contain verbs, as any clause does."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "The word 'itinerary' is used to describe a detailed plan or route of a journey. This is an important vocabulary word in English.\n---",
+      "correct_answer": "B",
+      "explanation": "La clausula definitoria identifica al sustantivo y no lleva comas; la no definitoria aporta informacion adicional.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.8,
+      "bundle_id": "EC-ING-11-2026-W22-relative-clauses-non-defining-001-MASTERY-bundle",
+      "periodo": 22,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-ING-11-2026-W22-relative-clauses-non-defining-001-MASTERY-bundle-v3",
+      "statement": "Which pronoun should be used for a non-defining clause about people?",
+      "context": "Pronombres relativos, Cuenca.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "which",
+          "is_correct": false,
+          "feedback": "'Which' is used for things, not for people, even in a non-defining clause."
+        },
+        {
+          "letter": "B",
+          "text": "that",
+          "is_correct": false,
+          "feedback": "Defining clauses allow 'that'; non-defining clauses normally do not."
+        },
+        {
+          "letter": "C",
+          "text": "what",
+          "is_correct": false,
+          "feedback": "'What' introduces a noun clause, not a relative clause about a noun."
+        },
+        {
+          "letter": "D",
+          "text": "who",
+          "is_correct": true,
+          "feedback": "'Who' is used in a non-defining clause that adds extra information about people."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "En las clausulas no definitorias sobre personas se usa 'who' porque se trata de informacion adicional, no de identificacion.\n\n---",
       "difficulty": "4",
       "images": [],
       "tags": [],
-      "bloom": "Remember",
+      "bloom": "Apply",
       "expected_success": 0.8,
       "bundle_id": "EC-ING-11-2026-W22-relative-clauses-non-defining-001-MASTERY-bundle",
       "periodo": 22,
@@ -98,38 +143,668 @@
       "country": "ec"
     },
     {
-      "id": "EC-ING-11-2026-W22-relative-clauses-non-defining-001-MASTERY-v3",
-      "statement": "What is the English word for: \"The place to which someone or something is going or being sent.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "id": "EC-ING-11-2026-W22-relative-clauses-non-defining-001-MASTERY-bundle-v4",
+      "statement": "Complete the sentence: 'My car, ____ is very old, still runs well.'",
+      "context": "Aplicacion de relative clauses, Quito.",
       "options": [
         {
-          "letter": "B",
-          "text": "destination",
+          "letter": "A",
+          "text": "which",
           "is_correct": true,
-          "feedback": "Correct! 'destination' matches the definition."
+          "feedback": "'Which' with commas introduces non-essential information about 'car'."
         },
         {
-          "letter": "A",
-          "text": "departure",
+          "letter": "B",
+          "text": "who",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "'Who' is for people, not for a car."
         },
         {
           "letter": "C",
-          "text": "arrival",
+          "text": "what",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "'What' cannot be the relative pronoun of a noun in this structure."
         },
         {
           "letter": "D",
-          "text": "journey",
+          "text": "whose",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "'Whose' expresses possession, which is not the relation here."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La clausula va entre comas y se refiere a un sustantivo, por lo que se usa 'which' o 'that' con comas.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.8,
+      "bundle_id": "EC-ING-11-2026-W22-relative-clauses-non-defining-001-MASTERY-bundle",
+      "periodo": 22,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-ING-11-2026-W22-relative-clauses-non-defining-001-MASTERY-bundle-v5",
+      "statement": "Which sentence is correct?",
+      "context": "Correccion de relative clauses, Guayaquil.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "The teacher, that is from Quito, will retire.",
+          "is_correct": false,
+          "feedback": "Non-defining clauses do not use 'that' in standard usage."
+        },
+        {
+          "letter": "B",
+          "text": "The teacher, who is from Quito, will retire.",
+          "is_correct": true,
+          "feedback": "A non-defining clause with 'who' between commas is correct."
+        },
+        {
+          "letter": "C",
+          "text": "The teacher which is from Quito will retire.",
+          "is_correct": false,
+          "feedback": "'Which' refers to objects; for people one uses 'who'."
+        },
+        {
+          "letter": "D",
+          "text": "The teacher, who is from Quito will retire, retire.",
+          "is_correct": false,
+          "feedback": "The comma placement makes the sentence ungrammatical."
         }
       ],
       "correct_answer": "B",
-      "explanation": "The word 'destination' is used to describe the place to which someone or something is going or being sent. This is an important vocabulary word in English.\n---",
-      "difficulty": "3",
+      "explanation": "En una clausula no definitoria no se usa 'that'; ademas, la clausula va entre comas.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.8,
+      "bundle_id": "EC-ING-11-2026-W22-relative-clauses-non-defining-001-MASTERY-bundle",
+      "periodo": 22,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-ING-11-2026-W22-relative-clauses-non-defining-001-MASTERY-bundle-v6",
+      "statement": "What does the pronoun 'who' refer to in this sentence: 'Maria, who lives abroad, called her mother'?",
+      "context": "Seguimiento de referencias, Cuenca.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "It refers to the mother",
+          "is_correct": false,
+          "feedback": "The mother appears later in the sentence and is not the antecedent."
+        },
+        {
+          "letter": "B",
+          "text": "It refers to both people",
+          "is_correct": false,
+          "feedback": "A non-defining clause refers to a single antecedent."
+        },
+        {
+          "letter": "C",
+          "text": "It has no referent",
+          "is_correct": false,
+          "feedback": "The antecedent is clearly identified by position and by commas."
+        },
+        {
+          "letter": "D",
+          "text": "It refers to Maria",
+          "is_correct": true,
+          "feedback": "'Who lives abroad' adds information about Maria, not about the mother."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "La clausula entre comas se refiere a 'Maria', que es la unica persona mencionada como sujeto de la oracion.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.8,
+      "bundle_id": "EC-ING-11-2026-W22-relative-clauses-non-defining-001-MASTERY-bundle",
+      "periodo": 22,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-ING-11-2026-W22-relative-clauses-non-defining-001-MASTERY-bundle-v7",
+      "statement": "Which sentence uses a defining relative clause correctly?",
+      "context": "Clausula definitoria, Quito.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "The students who study in the library pass the exam.",
+          "is_correct": true,
+          "feedback": "The clause selects a subgroup of students: a defining clause."
+        },
+        {
+          "letter": "B",
+          "text": "The students, who study in the library, pass the exam.",
+          "is_correct": false,
+          "feedback": "With commas the clause becomes non-defining and changes the meaning."
+        },
+        {
+          "letter": "C",
+          "text": "The students which study in the library pass the exam.",
+          "is_correct": false,
+          "feedback": "'Which' refers to objects; 'students' is a person noun."
+        },
+        {
+          "letter": "D",
+          "text": "The students what study in the library pass the exam.",
+          "is_correct": false,
+          "feedback": "'What' does not function as a relative pronoun here."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Una clausula definitoria no lleva comas y restringe el significado del sustantivo. Es uno de los puntos mas frecuentes de las pruebas de esta unidad.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.8,
+      "bundle_id": "EC-ING-11-2026-W22-relative-clauses-non-defining-001-MASTERY-bundle",
+      "periodo": 22,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-ING-11-2026-W22-relative-clauses-non-defining-001-MASTERY-bundle-v8",
+      "statement": "Which sentence contains a relative clause about a thing?",
+      "context": "Relative clauses con 'which', Guayaquil.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "The museum, who was built in 1990, is free on Sundays.",
+          "is_correct": false,
+          "feedback": "'Who' is reserved for people."
+        },
+        {
+          "letter": "B",
+          "text": "The museum, which was built in 1990, is free on Sundays.",
+          "is_correct": true,
+          "feedback": "'Which' refers to 'the museum', a thing: a non-defining clause."
+        },
+        {
+          "letter": "C",
+          "text": "The museum, what was built in 1990, is free on Sundays.",
+          "is_correct": false,
+          "feedback": "'What' cannot serve as the relative pronoun of 'the museum'."
+        },
+        {
+          "letter": "D",
+          "text": "The museum, whose was built in 1990, is free on Sundays.",
+          "is_correct": false,
+          "feedback": "'Whose' expresses possession and needs a following noun."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "'Which' se usa para referirse a sustantivos no humanos como 'the museum'. Es el pronombre relativo estandar para sustantivos no humanos dentro de una oracion.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.8,
+      "bundle_id": "EC-ING-11-2026-W22-relative-clauses-non-defining-001-MASTERY-bundle",
+      "periodo": 22,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-ING-11-2026-W22-relative-clauses-non-defining-001-MASTERY-bundle-v9",
+      "statement": "Why are commas necessary in 'My brother, who is a doctor, works at the hospital'?",
+      "context": "Puntuacion en relative clauses, Cuenca.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "They mark a list of items",
+          "is_correct": false,
+          "feedback": "Only one item is listed; commas here do not enumerate."
+        },
+        {
+          "letter": "B",
+          "text": "They are required by the verb 'works'",
+          "is_correct": false,
+          "feedback": "Punctuation follows the type of clause, not the verb."
+        },
+        {
+          "letter": "C",
+          "text": "They are optional and carry no meaning",
+          "is_correct": false,
+          "feedback": "Removing them changes the meaning of the sentence."
+        },
+        {
+          "letter": "D",
+          "text": "They mark the clause as additional, non-essential information",
+          "is_correct": true,
+          "feedback": "The commas signal that the main clause stands without the relative clause."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Las comas delimitan la clausula y su caracter no esencial dentro de la oracion principal.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.8,
+      "bundle_id": "EC-ING-11-2026-W22-relative-clauses-non-defining-001-MASTERY-bundle",
+      "periodo": 22,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-ING-11-2026-W22-relative-clauses-non-defining-001-MASTERY-bundle-v10",
+      "statement": "Which sentence is grammatically incorrect?",
+      "context": "Deteccion de errores, Quito.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "The book, which I borrowed, is on the table.",
+          "is_correct": false,
+          "feedback": "A non-defining clause with 'which' between commas is correct."
+        },
+        {
+          "letter": "B",
+          "text": "The book, that I borrowed, is on the table.",
+          "is_correct": true,
+          "feedback": "Non-defining clauses do not use 'that' in standard English."
+        },
+        {
+          "letter": "C",
+          "text": "The book which I borrowed is on the table.",
+          "is_correct": false,
+          "feedback": "A defining clause with 'which' and no commas is correct."
+        },
+        {
+          "letter": "D",
+          "text": "The books, which I borrowed, are on the table.",
+          "is_correct": false,
+          "feedback": "A non-defining clause with 'which' is also correct here."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "'That' no puede usarse en una clausula relativa no definitoria entre comas. Es uno de los puntos mas frecuentes de las pruebas de esta unidad.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.8,
+      "bundle_id": "EC-ING-11-2026-W22-relative-clauses-non-defining-001-MASTERY-bundle",
+      "periodo": 22,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-ING-11-2026-W22-relative-clauses-non-defining-001-MASTERY-bundle-v11",
+      "statement": "What is the function of the relative clause in 'The man who called you is my neighbour'?",
+      "context": "Analisis de la funcion, Guayaquil.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "It adds optional information about the neighbour",
+          "is_correct": false,
+          "feedback": "Without the clause the sentence would not identify the man."
+        },
+        {
+          "letter": "B",
+          "text": "It describes the neighbour's job",
+          "is_correct": false,
+          "feedback": "The clause gives no information about his occupation."
+        },
+        {
+          "letter": "C",
+          "text": "It identifies which man is meant",
+          "is_correct": true,
+          "feedback": "Removing the clause would leave the reference ambiguous."
+        },
+        {
+          "letter": "D",
+          "text": "It explains why the man called",
+          "is_correct": false,
+          "feedback": "The clause states who called, not the reason for the call."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La clausula identifica exactamente que hombre se menciona, de modo que es restrictiva o definitoria.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.8,
+      "bundle_id": "EC-ING-11-2026-W22-relative-clauses-non-defining-001-MASTERY-bundle",
+      "periodo": 22,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-ING-11-2026-W22-relative-clauses-non-defining-001-MASTERY-bundle-v12",
+      "statement": "Complete the sentence: 'The house, ____ roof is made of tile, is very old.'",
+      "context": "Relative clauses con posesion, Cuenca.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "who",
+          "is_correct": false,
+          "feedback": "'Who' refers to people and cannot express possession here."
+        },
+        {
+          "letter": "B",
+          "text": "whose",
+          "is_correct": true,
+          "feedback": "'Whose roof' expresses possession within a non-defining clause."
+        },
+        {
+          "letter": "C",
+          "text": "which",
+          "is_correct": false,
+          "feedback": "'Which' cannot be followed by a noun in this possessive construction."
+        },
+        {
+          "letter": "D",
+          "text": "what",
+          "is_correct": false,
+          "feedback": "'What' does not express possession in this structure."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Para expresar posesion en una clausula no definitoria se usa 'whose' seguido del sustantivo.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.8,
+      "bundle_id": "EC-ING-11-2026-W22-relative-clauses-non-defining-001-MASTERY-bundle",
+      "periodo": 22,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-ING-11-2026-W22-relative-clauses-non-defining-001-MASTERY-bundle-v13",
+      "statement": "Read the text: 'Quito, which lies at 2,850 metres above sea level, has a cool climate.' What can be inferred?",
+      "context": "Inferencia a partir de una relative clause, Quito.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "The climate is the cause of the altitude",
+          "is_correct": false,
+          "feedback": "The causal relation runs from altitude to climate."
+        },
+        {
+          "letter": "B",
+          "text": "Quito is the highest city in the world",
+          "is_correct": false,
+          "feedback": "The text gives the altitude but makes no comparative claim."
+        },
+        {
+          "letter": "C",
+          "text": "The altitude explains the cool climate",
+          "is_correct": true,
+          "feedback": "The relative clause supplies the reason for the stated effect."
+        },
+        {
+          "letter": "D",
+          "text": "Quito has no warm seasons",
+          "is_correct": false,
+          "feedback": "The text mentions a cool climate without denying warm periods."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La altura explicada en la clausula es la causa del clima frio que menciona la oracion principal.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.8,
+      "bundle_id": "EC-ING-11-2026-W22-relative-clauses-non-defining-001-MASTERY-bundle",
+      "periodo": 22,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-ING-11-2026-W22-relative-clauses-non-defining-001-MASTERY-bundle-v14",
+      "statement": "Which sentence uses 'which' correctly to refer to an entire preceding clause?",
+      "context": "Relative clause sobre una oracion, Guayaquil.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "She passed the exam which surprised everyone.",
+          "is_correct": false,
+          "feedback": "Placed immediately after the noun, 'which' would refer to the exam itself."
+        },
+        {
+          "letter": "B",
+          "text": "She passed which the exam everyone.",
+          "is_correct": false,
+          "feedback": "The word order is not grammatical."
+        },
+        {
+          "letter": "C",
+          "text": "She passed the exam, who surprised everyone.",
+          "is_correct": false,
+          "feedback": "'Who' refers to people and cannot stand for an entire clause."
+        },
+        {
+          "letter": "D",
+          "text": "She passed the exam, which surprised everyone.",
+          "is_correct": true,
+          "feedback": "'Which' refers to the whole preceding statement, not to a noun."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Cuando 'which' se refiere a todo lo anterior, se coloca despues de una coma y no de un sustantivo.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.8,
+      "bundle_id": "EC-ING-11-2026-W22-relative-clauses-non-defining-001-MASTERY-bundle",
+      "periodo": 22,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-ING-11-2026-W22-relative-clauses-non-defining-001-MASTERY-bundle-v15",
+      "statement": "Which sentence correctly uses a non-defining relative clause after a proper noun?",
+      "context": "Nombres propios y relative clauses, Cuenca.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Ecuador which is in South America has 24 provinces.",
+          "is_correct": false,
+          "feedback": "The clause here defines the country, which the proper name already does."
+        },
+        {
+          "letter": "B",
+          "text": "Ecuador, that is in South America, has 24 provinces.",
+          "is_correct": false,
+          "feedback": "Non-defining clauses do not use 'that'."
+        },
+        {
+          "letter": "C",
+          "text": "Ecuador, which is in South America, has 24 provinces.",
+          "is_correct": true,
+          "feedback": "Because 'Ecuador' already identifies the referent, the clause adds extra information."
+        },
+        {
+          "letter": "D",
+          "text": "Ecuador, who is in South America, has 24 provinces.",
+          "is_correct": false,
+          "feedback": "'Who' refers to people and cannot be used for a country."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Los nombres propios ya identifican al referente, de modo que la clausula entre comas solo puede ser no definitoria.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.8,
+      "bundle_id": "EC-ING-11-2026-W22-relative-clauses-non-defining-001-MASTERY-bundle",
+      "periodo": 22,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-ING-11-2026-W22-relative-clauses-non-defining-001-MASTERY-bundle-v16",
+      "statement": "Which sentence is NOT correct?",
+      "context": "Revision de relative clauses, Quito.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "The hotel, that overlooks the park, is cheap.",
+          "is_correct": true,
+          "feedback": "'That' is not permitted in a non-defining clause."
+        },
+        {
+          "letter": "B",
+          "text": "The hotel, which overlooks the park, is cheap.",
+          "is_correct": false,
+          "feedback": "This is the correct non-defining form with 'which'."
+        },
+        {
+          "letter": "C",
+          "text": "The hotel which overlooks the park is cheap.",
+          "is_correct": false,
+          "feedback": "This is a correct defining clause without commas."
+        },
+        {
+          "letter": "D",
+          "text": "The hotels, which overlook the park, are cheap.",
+          "is_correct": false,
+          "feedback": "A plural non-defining clause with 'which' is also correct."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Una clausula no definitoria nunca empieza con 'that', porque ese pronombre solo se usa en clausulas definitorias.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.8,
+      "bundle_id": "EC-ING-11-2026-W22-relative-clauses-non-defining-001-MASTERY-bundle",
+      "periodo": 22,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-ING-11-2026-W22-relative-clauses-non-defining-001-MASTERY-bundle-v17",
+      "statement": "Choose the best completion: 'I have three siblings, ____ live in the United States.'",
+      "context": "Aplicacion con 'siblings', Cuenca.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "which",
+          "is_correct": false,
+          "feedback": "'Which' is not used for people."
+        },
+        {
+          "letter": "B",
+          "text": "that",
+          "is_correct": false,
+          "feedback": "'That' cannot introduce a non-defining clause."
+        },
+        {
+          "letter": "C",
+          "text": "who",
+          "is_correct": true,
+          "feedback": "'Who' refers to the people mentioned and adds non-essential information."
+        },
+        {
+          "letter": "D",
+          "text": "whose",
+          "is_correct": false,
+          "feedback": "'Whose' would express possession, which is not the relation described."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La oracion principal ya identifica a los hermanos, y la clausula entre comas anade informacion sobre algunos de ellos.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.8,
+      "bundle_id": "EC-ING-11-2026-W22-relative-clauses-non-defining-001-MASTERY-bundle",
+      "periodo": 22,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-ING-11-2026-W22-relative-clauses-non-defining-001-MASTERY-bundle-v18",
+      "statement": "Which statement about non-defining relative clauses is correct?",
+      "context": "Marco conceptual, Quito.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "They never use commas",
+          "is_correct": false,
+          "feedback": "They are usually enclosed in commas in standard punctuation."
+        },
+        {
+          "letter": "B",
+          "text": "They only modify verbs",
+          "is_correct": false,
+          "feedback": "Relative clauses modify nouns, not verbs."
+        },
+        {
+          "letter": "C",
+          "text": "They can only follow proper nouns",
+          "is_correct": false,
+          "feedback": "They can follow any noun, common or proper."
+        },
+        {
+          "letter": "D",
+          "text": "They are always set off by commas",
+          "is_correct": true,
+          "feedback": "The commas mark the clause as optional extra information."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Las clausulas no definitorias requieren comas porque anaden informacion que no es necesaria para identificar el sustantivo.\n\n---",
+      "difficulty": "6",
       "images": [],
       "tags": [],
       "bloom": "Understand",
@@ -143,37 +818,37 @@
       "country": "ec"
     },
     {
-      "id": "EC-ING-11-2026-W22-relative-clauses-non-defining-001-MASTERY-v4",
-      "statement": "What is the English word for: \"Suitcases or other bags in which to pack personal belongings for traveling.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "id": "EC-ING-11-2026-W22-relative-clauses-non-defining-001-MASTERY-bundle-v19",
+      "statement": "Read the sentence: 'The volcano, which erupted last week, sent ash over the capital.' What does the clause tell us?",
+      "context": "Comprension de la clausula, Guayaquil.",
       "options": [
         {
           "letter": "A",
-          "text": "luggage",
-          "is_correct": true,
-          "feedback": "Correct! 'luggage' matches the definition."
+          "text": "That the volcano is the largest in the country",
+          "is_correct": false,
+          "feedback": "No size comparison appears in the sentence."
         },
         {
           "letter": "B",
-          "text": "ticket",
+          "text": "That the capital has no other volcanoes",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "The clause says nothing about other volcanoes."
         },
         {
           "letter": "C",
-          "text": "flight",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "text": "That the eruption happened last week",
+          "is_correct": true,
+          "feedback": "'Which erupted last week' supplies a time detail about the eruption."
         },
         {
           "letter": "D",
-          "text": "reservation",
+          "text": "That the ash damaged the houses",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "The sentence mentions ash over the capital, not damage to houses."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'luggage' is used to describe suitcases or other bags in which to pack personal belongings for traveling. This is an important vocabulary word in English.\n---",
+      "correct_answer": "C",
+      "explanation": "La clausula entre comas aporta un dato adicional sobre la erupcion que la oracion principal no necesita.\n\n---",
       "difficulty": "4",
       "images": [],
       "tags": [],
@@ -188,716 +863,41 @@
       "country": "ec"
     },
     {
-      "id": "EC-ING-11-2026-W22-relative-clauses-non-defining-001-MASTERY-v5",
-      "statement": "What is the English word for: \"A traveler on a public or private conveyance other than the driver, pilot, or crew.\"",
-      "context": "Choose the correct English word for the given definition.",
-      "options": [
-        {
-          "letter": "C",
-          "text": "passenger",
-          "is_correct": true,
-          "feedback": "Correct! 'passenger' matches the definition."
-        },
-        {
-          "letter": "A",
-          "text": "pedestrian",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "B",
-          "text": "commuter",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "D",
-          "text": "tourist",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        }
-      ],
-      "correct_answer": "C",
-      "explanation": "The word 'passenger' is used to describe a traveler on a public or private conveyance other than the driver, pilot, or crew. This is an important vocabulary word in English.\n---",
-      "difficulty": "5",
-      "images": [],
-      "tags": [],
-      "bloom": "Understand",
-      "expected_success": 0.8,
-      "bundle_id": "EC-ING-11-2026-W22-relative-clauses-non-defining-001-MASTERY-bundle",
-      "periodo": 22,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ingles",
-      "grade": 11,
-      "country": "ec"
-    },
-    {
-      "id": "EC-ING-11-2026-W22-relative-clauses-non-defining-001-MASTERY-v6",
-      "statement": "What is the English word for: \"The place at a port, airport, or frontier where officials check incoming goods, travelers, or luggage.\"",
-      "context": "Choose the correct English word for the given definition.",
-      "options": [
-        {
-          "letter": "C",
-          "text": "customs",
-          "is_correct": true,
-          "feedback": "Correct! 'customs' matches the definition."
-        },
-        {
-          "letter": "A",
-          "text": "security",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "B",
-          "text": "terminal",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "D",
-          "text": "gate",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        }
-      ],
-      "correct_answer": "C",
-      "explanation": "The word 'customs' is used to describe the place at a port, airport, or frontier where officials check incoming goods, travelers, or luggage. This is an important vocabulary word in English.\n---",
-      "difficulty": "6",
-      "images": [],
-      "tags": [],
-      "bloom": "Understand",
-      "expected_success": 0.8,
-      "bundle_id": "EC-ING-11-2026-W22-relative-clauses-non-defining-001-MASTERY-bundle",
-      "periodo": 22,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ingles",
-      "grade": 11,
-      "country": "ec"
-    },
-    {
-      "id": "EC-ING-11-2026-W22-relative-clauses-non-defining-001-MASTERY-v7",
-      "statement": "What is the English word for: \"A document provided by an airline during check-in, giving a passenger permission to board the airplane.\"",
-      "context": "Choose the correct English word for the given definition.",
-      "options": [
-        {
-          "letter": "B",
-          "text": "boarding pass",
-          "is_correct": true,
-          "feedback": "Correct! 'boarding pass' matches the definition."
-        },
-        {
-          "letter": "A",
-          "text": "visa",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "C",
-          "text": "receipt",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "D",
-          "text": "brochure",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        }
-      ],
-      "correct_answer": "B",
-      "explanation": "The word 'boarding pass' is used to describe a document provided by an airline during check-in, giving a passenger permission to board the airplane. This is an important vocabulary word in English.\n---",
-      "difficulty": "5",
-      "images": [],
-      "tags": [],
-      "bloom": "Apply",
-      "expected_success": 0.8,
-      "bundle_id": "EC-ING-11-2026-W22-relative-clauses-non-defining-001-MASTERY-bundle",
-      "periodo": 22,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ingles",
-      "grade": 11,
-      "country": "ec"
-    },
-    {
-      "id": "EC-ING-11-2026-W22-relative-clauses-non-defining-001-MASTERY-v8",
-      "statement": "What is the English word for: \"The activity of visiting places of interest in a particular location.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "id": "EC-ING-11-2026-W22-relative-clauses-non-defining-001-MASTERY-bundle-v20",
+      "statement": "Which sentence uses a defining relative clause where one is required?",
+      "context": "Identificacion de clausulas, Cuenca.",
       "options": [
         {
           "letter": "A",
-          "text": "sightseeing",
+          "text": "Do you like the book that I recommended?",
           "is_correct": true,
-          "feedback": "Correct! 'sightseeing' matches the definition."
+          "feedback": "The clause specifies which book is meant among several."
         },
         {
           "letter": "B",
-          "text": "shopping",
+          "text": "Do you like the book, which I recommended?",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "The commas make the clause non-defining and remove that specification."
         },
         {
           "letter": "C",
-          "text": "hiking",
+          "text": "Do you like the book, what I recommended?",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "'What' cannot be a relative pronoun here."
         },
         {
           "letter": "D",
-          "text": "camping",
+          "text": "Do you like the book, who I recommended?",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "'Who' refers to people and cannot be used here."
         }
       ],
       "correct_answer": "A",
-      "explanation": "The word 'sightseeing' is used to describe the activity of visiting places of interest in a particular location. This is an important vocabulary word in English.\n---",
+      "explanation": "Cuando hay varios objetos y solo uno cumple una condicion, la clausula debe ser definitoria para identificarlo.\n\n---",
       "difficulty": "6",
       "images": [],
       "tags": [],
-      "bloom": "Apply",
-      "expected_success": 0.8,
-      "bundle_id": "EC-ING-11-2026-W22-relative-clauses-non-defining-001-MASTERY-bundle",
-      "periodo": 22,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ingles",
-      "grade": 11,
-      "country": "ec"
-    },
-    {
-      "id": "EC-ING-11-2026-W22-relative-clauses-non-defining-001-MASTERY-v9",
-      "statement": "What is the English word for: \"A thing that is kept as a reminder of a person, place, or event.\"",
-      "context": "Choose the correct English word for the given definition.",
-      "options": [
-        {
-          "letter": "D",
-          "text": "souvenir",
-          "is_correct": true,
-          "feedback": "Correct! 'souvenir' matches the definition."
-        },
-        {
-          "letter": "A",
-          "text": "gift",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "B",
-          "text": "award",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "C",
-          "text": "prize",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        }
-      ],
-      "correct_answer": "D",
-      "explanation": "The word 'souvenir' is used to describe a thing that is kept as a reminder of a person, place, or event. This is an important vocabulary word in English.\n---",
-      "difficulty": "5",
-      "images": [],
-      "tags": [],
-      "bloom": "Apply",
-      "expected_success": 0.8,
-      "bundle_id": "EC-ING-11-2026-W22-relative-clauses-non-defining-001-MASTERY-bundle",
-      "periodo": 22,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ingles",
-      "grade": 11,
-      "country": "ec"
-    },
-    {
-      "id": "EC-ING-11-2026-W22-relative-clauses-non-defining-001-MASTERY-v10",
-      "statement": "What is the English word for: \"A period of time by which something is late or postponed.\"",
-      "context": "Choose the correct English word for the given definition.",
-      "options": [
-        {
-          "letter": "B",
-          "text": "delay",
-          "is_correct": true,
-          "feedback": "Correct! 'delay' matches the definition."
-        },
-        {
-          "letter": "A",
-          "text": "cancellation",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "C",
-          "text": "departure",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "D",
-          "text": "arrival",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        }
-      ],
-      "correct_answer": "B",
-      "explanation": "The word 'delay' is used to describe a period of time by which something is late or postponed. This is an important vocabulary word in English.\n---",
-      "difficulty": "6",
-      "images": [],
-      "tags": [],
-      "bloom": "Apply",
-      "expected_success": 0.8,
-      "bundle_id": "EC-ING-11-2026-W22-relative-clauses-non-defining-001-MASTERY-bundle",
-      "periodo": 22,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ingles",
-      "grade": 11,
-      "country": "ec"
-    },
-    {
-      "id": "EC-ING-11-2026-W22-relative-clauses-non-defining-001-MASTERY-v11",
-      "statement": "What is the English word for: \"The act of reporting one's presence and registering, typically at an airport or hotel.\"",
-      "context": "Choose the correct English word for the given definition.",
-      "options": [
-        {
-          "letter": "C",
-          "text": "check-in",
-          "is_correct": true,
-          "feedback": "Correct! 'check-in' matches the definition."
-        },
-        {
-          "letter": "A",
-          "text": "check-out",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "B",
-          "text": "booking",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "D",
-          "text": "reservation",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        }
-      ],
-      "correct_answer": "C",
-      "explanation": "The word 'check-in' is used to describe the act of reporting one's presence and registering, typically at an airport or hotel. This is an important vocabulary word in English.\n---",
-      "difficulty": "7",
-      "images": [],
-      "tags": [],
-      "bloom": "Apply",
-      "expected_success": 0.8,
-      "bundle_id": "EC-ING-11-2026-W22-relative-clauses-non-defining-001-MASTERY-bundle",
-      "periodo": 22,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ingles",
-      "grade": 11,
-      "country": "ec"
-    },
-    {
-      "id": "EC-ING-11-2026-W22-relative-clauses-non-defining-001-MASTERY-v12",
-      "statement": "What is the English word for: \"A period of rest or waiting before a further stage in a journey.\"",
-      "context": "Choose the correct English word for the given definition.",
-      "options": [
-        {
-          "letter": "D",
-          "text": "layover",
-          "is_correct": true,
-          "feedback": "Correct! 'layover' matches the definition."
-        },
-        {
-          "letter": "A",
-          "text": "stopover",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "B",
-          "text": "transfer",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "C",
-          "text": "transit",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        }
-      ],
-      "correct_answer": "D",
-      "explanation": "The word 'layover' is used to describe a period of rest or waiting before a further stage in a journey. This is an important vocabulary word in English.\n---",
-      "difficulty": "8",
-      "images": [],
-      "tags": [],
-      "bloom": "Apply",
-      "expected_success": 0.8,
-      "bundle_id": "EC-ING-11-2026-W22-relative-clauses-non-defining-001-MASTERY-bundle",
-      "periodo": 22,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ingles",
-      "grade": 11,
-      "country": "ec"
-    },
-    {
-      "id": "EC-ING-11-2026-W22-relative-clauses-non-defining-001-MASTERY-v13",
-      "statement": "What is the English word for: \"A system of money in general use in a particular country.\"",
-      "context": "Choose the correct English word for the given definition.",
-      "options": [
-        {
-          "letter": "B",
-          "text": "currency",
-          "is_correct": true,
-          "feedback": "Correct! 'currency' matches the definition."
-        },
-        {
-          "letter": "A",
-          "text": "coin",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "C",
-          "text": "banknote",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "D",
-          "text": "cash",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        }
-      ],
-      "correct_answer": "B",
-      "explanation": "The word 'currency' is used to describe a system of money in general use in a particular country. This is an important vocabulary word in English.\n---",
-      "difficulty": "7",
-      "images": [],
-      "tags": [],
       "bloom": "Analyze",
-      "expected_success": 0.8,
-      "bundle_id": "EC-ING-11-2026-W22-relative-clauses-non-defining-001-MASTERY-bundle",
-      "periodo": 22,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ingles",
-      "grade": 11,
-      "country": "ec"
-    },
-    {
-      "id": "EC-ING-11-2026-W22-relative-clauses-non-defining-001-MASTERY-v14",
-      "statement": "What is the English word for: \"A book of information about a place designed for the use of visitors or tourists.\"",
-      "context": "Choose the correct English word for the given definition.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "guidebook",
-          "is_correct": true,
-          "feedback": "Correct! 'guidebook' matches the definition."
-        },
-        {
-          "letter": "B",
-          "text": "map",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "C",
-          "text": "dictionary",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "D",
-          "text": "encyclopedia",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "The word 'guidebook' is used to describe a book of information about a place designed for the use of visitors or tourists. This is an important vocabulary word in English.\n---",
-      "difficulty": "8",
-      "images": [],
-      "tags": [],
-      "bloom": "Analyze",
-      "expected_success": 0.8,
-      "bundle_id": "EC-ING-11-2026-W22-relative-clauses-non-defining-001-MASTERY-bundle",
-      "periodo": 22,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ingles",
-      "grade": 11,
-      "country": "ec"
-    },
-    {
-      "id": "EC-ING-11-2026-W22-relative-clauses-non-defining-001-MASTERY-v15",
-      "statement": "What is the English word for: \"A bag with shoulder straps that allow it to be carried on one's back.\"",
-      "context": "Choose the correct English word for the given definition.",
-      "options": [
-        {
-          "letter": "D",
-          "text": "backpack",
-          "is_correct": true,
-          "feedback": "Correct! 'backpack' matches the definition."
-        },
-        {
-          "letter": "A",
-          "text": "suitcase",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "B",
-          "text": "briefcase",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "C",
-          "text": "handbag",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        }
-      ],
-      "correct_answer": "D",
-      "explanation": "The word 'backpack' is used to describe a bag with shoulder straps that allow it to be carried on one's back. This is an important vocabulary word in English.\n---",
-      "difficulty": "7",
-      "images": [],
-      "tags": [],
-      "bloom": "Analyze",
-      "expected_success": 0.8,
-      "bundle_id": "EC-ING-11-2026-W22-relative-clauses-non-defining-001-MASTERY-bundle",
-      "periodo": 22,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ingles",
-      "grade": 11,
-      "country": "ec"
-    },
-    {
-      "id": "EC-ING-11-2026-W22-relative-clauses-non-defining-001-MASTERY-v16",
-      "statement": "What is the English word for: \"In or to a foreign country, especially one across the sea.\"",
-      "context": "Choose the correct English word for the given definition.",
-      "options": [
-        {
-          "letter": "D",
-          "text": "overseas",
-          "is_correct": true,
-          "feedback": "Correct! 'overseas' matches the definition."
-        },
-        {
-          "letter": "A",
-          "text": "domestic",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "B",
-          "text": "local",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "C",
-          "text": "national",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        }
-      ],
-      "correct_answer": "D",
-      "explanation": "The word 'overseas' is used to describe in or to a foreign country, especially one across the sea. This is an important vocabulary word in English.\n---",
-      "difficulty": "8",
-      "images": [],
-      "tags": [],
-      "bloom": "Analyze",
-      "expected_success": 0.8,
-      "bundle_id": "EC-ING-11-2026-W22-relative-clauses-non-defining-001-MASTERY-bundle",
-      "periodo": 22,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ingles",
-      "grade": 11,
-      "country": "ec"
-    },
-    {
-      "id": "EC-ING-11-2026-W22-relative-clauses-non-defining-001-MASTERY-v17",
-      "statement": "What is the English word for: \"An estimate of income and expenditure for a set period of time.\"",
-      "context": "Choose the correct English word for the given definition.",
-      "options": [
-        {
-          "letter": "B",
-          "text": "budget",
-          "is_correct": true,
-          "feedback": "Correct! 'budget' matches the definition."
-        },
-        {
-          "letter": "A",
-          "text": "expense",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "C",
-          "text": "cost",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "D",
-          "text": "price",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        }
-      ],
-      "correct_answer": "B",
-      "explanation": "The word 'budget' is used to describe an estimate of income and expenditure for a set period of time. This is an important vocabulary word in English.\n---",
-      "difficulty": "9",
-      "images": [],
-      "tags": [],
-      "bloom": "Evaluate",
-      "expected_success": 0.8,
-      "bundle_id": "EC-ING-11-2026-W22-relative-clauses-non-defining-001-MASTERY-bundle",
-      "periodo": 22,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ingles",
-      "grade": 11,
-      "country": "ec"
-    },
-    {
-      "id": "EC-ING-11-2026-W22-relative-clauses-non-defining-001-MASTERY-v18",
-      "statement": "What is the English word for: \"A practice or arrangement by which a company or government agency provides a guarantee of compensation for specified loss, damage, illness, or death in return for payment of a premium.\"",
-      "context": "Choose the correct English word for the given definition.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "insurance",
-          "is_correct": true,
-          "feedback": "Correct! 'insurance' matches the definition."
-        },
-        {
-          "letter": "B",
-          "text": "warranty",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "C",
-          "text": "guarantee",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "D",
-          "text": "policy",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "The word 'insurance' is used to describe a practice or arrangement by which a company or government agency provides a guarantee of compensation for specified loss, damage, illness, or death in return for payment of a premium. This is an important vocabulary word in English.\n---",
-      "difficulty": "10",
-      "images": [],
-      "tags": [],
-      "bloom": "Evaluate",
-      "expected_success": 0.8,
-      "bundle_id": "EC-ING-11-2026-W22-relative-clauses-non-defining-001-MASTERY-bundle",
-      "periodo": 22,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ingles",
-      "grade": 11,
-      "country": "ec"
-    },
-    {
-      "id": "EC-ING-11-2026-W22-relative-clauses-non-defining-001-MASTERY-v19",
-      "statement": "What is the English word for: \"Treatment with a vaccine to produce immunity against a disease.\"",
-      "context": "Choose the correct English word for the given definition.",
-      "options": [
-        {
-          "letter": "B",
-          "text": "vaccination",
-          "is_correct": true,
-          "feedback": "Correct! 'vaccination' matches the definition."
-        },
-        {
-          "letter": "A",
-          "text": "medication",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "C",
-          "text": "prescription",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "D",
-          "text": "infection",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        }
-      ],
-      "correct_answer": "B",
-      "explanation": "The word 'vaccination' is used to describe treatment with a vaccine to produce immunity against a disease. This is an important vocabulary word in English.\n---",
-      "difficulty": "9",
-      "images": [],
-      "tags": [],
-      "bloom": "Evaluate",
-      "expected_success": 0.8,
-      "bundle_id": "EC-ING-11-2026-W22-relative-clauses-non-defining-001-MASTERY-bundle",
-      "periodo": 22,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ingles",
-      "grade": 11,
-      "country": "ec"
-    },
-    {
-      "id": "EC-ING-11-2026-W22-relative-clauses-non-defining-001-MASTERY-v20",
-      "statement": "What is the English word for: \"Extreme tiredness and other physical effects felt by a person after a long flight across several time zones.\"",
-      "context": "Choose the correct English word for the given definition.",
-      "options": [
-        {
-          "letter": "C",
-          "text": "jet lag",
-          "is_correct": true,
-          "feedback": "Correct! 'jet lag' matches the definition."
-        },
-        {
-          "letter": "A",
-          "text": "fatigue",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "B",
-          "text": "exhaustion",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "D",
-          "text": "insomnia",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        }
-      ],
-      "correct_answer": "C",
-      "explanation": "The word 'jet lag' is used to describe extreme tiredness and other physical effects felt by a person after a long flight across several time zones. This is an important vocabulary word in English.",
-      "difficulty": "10",
-      "images": [],
-      "tags": [],
-      "bloom": "Evaluate",
       "expected_success": 0.8,
       "bundle_id": "EC-ING-11-2026-W22-relative-clauses-non-defining-001-MASTERY-bundle",
       "periodo": 22,

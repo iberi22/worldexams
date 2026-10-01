@@ -9,36 +9,36 @@
   "questions": [
     {
       "id": "SV-ING-11-2026-W25-vocabulary-travel-001-MASTERY-bundle-v1",
-      "statement": "Choose the correct option: 'I ___ reading a book right now.'",
-      "context": "English class in Santa Ana, SV.",
+      "statement": "Choose the correct word: 'You must show your ____ at the airport check-in counter.'",
+      "context": "Vocabulario de viajes en San Salvador.",
       "options": [
         {
           "letter": "A",
-          "text": "am",
-          "is_correct": true,
-          "feedback": "Correct!"
+          "text": "visa",
+          "is_correct": false,
+          "feedback": "'Visa' authorises entry to a particular country and is attached to the passport."
         },
         {
           "letter": "B",
-          "text": "is",
+          "text": "ticket",
           "is_correct": false,
-          "feedback": "Incorrect. Review the concept."
+          "feedback": "'Ticket' is the document that pays for the journey, not the identity document."
         },
         {
           "letter": "C",
-          "text": "are",
+          "text": "receipt",
           "is_correct": false,
-          "feedback": "Incorrect. Review the concept."
+          "feedback": "'Receipt' proves payment after the transaction."
         },
         {
           "letter": "D",
-          "text": "be",
-          "is_correct": false,
-          "feedback": "Incorrect. Review the concept."
+          "text": "passport",
+          "is_correct": true,
+          "feedback": "'Passport' is the travel document presented at check-in and immigration."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "Present continuous: I am + verb-ing.",
+      "correct_answer": "D",
+      "explanation": "'Passport' es el documento de identidad que permite viajar al exterior; la 'visa' autoriza la entrada a un pais concreto.\n\n---",
       "difficulty": "4",
       "images": [],
       "tags": [],
@@ -54,40 +54,40 @@
     },
     {
       "id": "SV-ING-11-2026-W25-vocabulary-travel-001-MASTERY-bundle-v2",
-      "statement": "What does 'benevolent' mean?",
-      "context": "English class in San Salvador, SV.",
+      "statement": "Complete the sentence: 'The flight was ____ for two hours because of the storm.'",
+      "context": "Vocabulario de viajes, San Miguel.",
       "options": [
         {
-          "letter": "D",
-          "text": "Kind and generous",
-          "is_correct": true,
-          "feedback": "Correct!"
-        },
-        {
           "letter": "A",
-          "text": "Mean and cruel",
+          "text": "canceled",
           "is_correct": false,
-          "feedback": "Incorrect. Review the concept."
+          "feedback": "'Canceled' means the flight will not depart at all."
         },
         {
           "letter": "B",
-          "text": "Quick and fast",
+          "text": "boarded",
           "is_correct": false,
-          "feedback": "Incorrect. Review the concept."
+          "feedback": "'Boarded' means passengers got on the plane."
         },
         {
           "letter": "C",
-          "text": "Slow and lazy",
+          "text": "delayed",
+          "is_correct": true,
+          "feedback": "'Delayed' means it left later than scheduled."
+        },
+        {
+          "letter": "D",
+          "text": "arrived",
           "is_correct": false,
-          "feedback": "Incorrect. Review the concept."
+          "feedback": "'Arrived' refers to the end of the journey, not to a late departure."
         }
       ],
-      "correct_answer": "D",
-      "explanation": "'Benevolent' means kind, generous, or charitable.",
+      "correct_answer": "C",
+      "explanation": "'Delayed' describe un vuelo que sale mas tarde de lo previsto; 'canceled' indica que no sale en absoluto.\n\n---",
       "difficulty": "4",
       "images": [],
       "tags": [],
-      "bloom": "Understand",
+      "bloom": "Apply",
       "expected_success": 0.8,
       "bundle_id": "SV-ING-11-2026-W25-vocabulary-travel-001-MASTERY-bundle",
       "periodo": 25,
@@ -99,41 +99,41 @@
     },
     {
       "id": "SV-ING-11-2026-W25-vocabulary-travel-001-MASTERY-bundle-v3",
-      "statement": "Identify the main idea: 'The text describes how bees help pollinate flowers and produce honey.'",
-      "context": "English class in Mejicanos, SV.",
+      "statement": "What do you call the person who welcomes passengers on board and helps during the flight?",
+      "context": "Vocabulario de viaje, San Salvador.",
       "options": [
         {
           "letter": "A",
-          "text": "Bees are important for pollination and honey",
-          "is_correct": true,
-          "feedback": "Correct!"
+          "text": "a pilot",
+          "is_correct": false,
+          "feedback": "The pilot is in charge of the aircraft, not of passenger service."
         },
         {
           "letter": "B",
-          "text": "Bees are dangerous insects",
-          "is_correct": false,
-          "feedback": "Incorrect. Review the concept."
+          "text": "a flight attendant",
+          "is_correct": true,
+          "feedback": "'Flight attendant' works on board, helping passengers during the flight."
         },
         {
           "letter": "C",
-          "text": "Honey is the only product bees make",
+          "text": "a tour guide",
           "is_correct": false,
-          "feedback": "Incorrect. Review the concept."
+          "feedback": "A tour guide shows visitors around a place; that is not an onboard role."
         },
         {
           "letter": "D",
-          "text": "Flowers don't need bees",
+          "text": "a porter",
           "is_correct": false,
-          "feedback": "Incorrect. Review the concept."
+          "feedback": "A porter carries luggage at a hotel or station, not on a plane."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The main idea summarizes the key points about bees: pollination and honey.",
+      "correct_answer": "B",
+      "explanation": "El 'flight attendant' atiende a los pasajeros a bordo; quien controla documentos en tierra es el personal de tierra del aeropuerto.\n\n---",
       "difficulty": "4",
       "images": [],
       "tags": [],
-      "bloom": "Analyze",
-      "expected_success": 0.7,
+      "bloom": "Understand",
+      "expected_success": 0.8,
       "bundle_id": "SV-ING-11-2026-W25-vocabulary-travel-001-MASTERY-bundle",
       "periodo": 25,
       "protocol_version": "5.2",
@@ -144,41 +144,41 @@
     },
     {
       "id": "SV-ING-11-2026-W25-vocabulary-travel-001-MASTERY-bundle-v4",
-      "statement": "Which is the correct past form of 'go'?",
-      "context": "English class in Soyapango, SV.",
+      "statement": "Choose the correct word: 'We need to book a ____ room for two nights.'",
+      "context": "Reservas y alojamiento, San Miguel.",
       "options": [
         {
-          "letter": "B",
-          "text": "went",
-          "is_correct": true,
-          "feedback": "Correct!"
+          "letter": "A",
+          "text": "double's",
+          "is_correct": false,
+          "feedback": "A possessive form is not used for room types."
         },
         {
-          "letter": "A",
-          "text": "goed",
+          "letter": "B",
+          "text": "doubly",
           "is_correct": false,
-          "feedback": "Incorrect. Review the concept."
+          "feedback": "'Doubly' is an adverb and does not modify a room category."
         },
         {
           "letter": "C",
-          "text": "gone",
+          "text": "doubling",
           "is_correct": false,
-          "feedback": "Incorrect. Review the concept."
+          "feedback": "'Doubling' is a gerund form and cannot modify a room category."
         },
         {
           "letter": "D",
-          "text": "going",
-          "is_correct": false,
-          "feedback": "Incorrect. Review the concept."
+          "text": "double",
+          "is_correct": true,
+          "feedback": "'A double room' is a room for two people."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "'Go' is an irregular verb: go → went (past simple).",
+      "correct_answer": "D",
+      "explanation": "'A double room' es una habitacion para dos personas; 'double' funciona como sustantivo en esta construccion.\n\n---",
       "difficulty": "4",
       "images": [],
       "tags": [],
-      "bloom": "Remember",
-      "expected_success": 0.85,
+      "bloom": "Apply",
+      "expected_success": 0.8,
       "bundle_id": "SV-ING-11-2026-W25-vocabulary-travel-001-MASTERY-bundle",
       "periodo": 25,
       "protocol_version": "5.2",
@@ -189,41 +189,41 @@
     },
     {
       "id": "SV-ING-11-2026-W25-vocabulary-travel-001-MASTERY-bundle-v5",
-      "statement": "Which sentence uses the present simple correctly?",
-      "context": "English class in Soyapango, SV.",
+      "statement": "What do you call the sheet that gives you permission to board the plane?",
+      "context": "Vocabulario de aeropuerto, San Salvador.",
       "options": [
         {
           "letter": "A",
-          "text": "She goes to school every day.",
-          "is_correct": true,
-          "feedback": "Correct!"
+          "text": "a boarding card",
+          "is_correct": false,
+          "feedback": "That is not standard English; the accepted term is 'boarding pass'."
         },
         {
           "letter": "B",
-          "text": "She go to school every day.",
-          "is_correct": false,
-          "feedback": "Incorrect. Review the concept."
+          "text": "a boarding pass",
+          "is_correct": true,
+          "feedback": "'Boarding pass' is the document that authorises boarding."
         },
         {
           "letter": "C",
-          "text": "She going to school every day.",
+          "text": "an embarkation",
           "is_correct": false,
-          "feedback": "Incorrect. Review the concept."
+          "feedback": "'Embarkation' is the formal noun for boarding a ship, not the document."
         },
         {
           "letter": "D",
-          "text": "She gone to school every day.",
+          "text": "a gate pass",
           "is_correct": false,
-          "feedback": "Incorrect. Review the concept."
+          "feedback": "'Gate pass' is not a standard travel document."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "Present simple: subject + verb(-s for he/she/it).",
-      "difficulty": "6",
+      "correct_answer": "B",
+      "explanation": "El 'boarding pass' se entrega en el mostrador de registro y permite abordar el avion.\n\n---",
+      "difficulty": "4",
       "images": [],
       "tags": [],
-      "bloom": "Remember",
-      "expected_success": 0.85,
+      "bloom": "Understand",
+      "expected_success": 0.8,
       "bundle_id": "SV-ING-11-2026-W25-vocabulary-travel-001-MASTERY-bundle",
       "periodo": 25,
       "protocol_version": "5.2",
@@ -234,40 +234,40 @@
     },
     {
       "id": "SV-ING-11-2026-W25-vocabulary-travel-001-MASTERY-bundle-v6",
-      "statement": "Choose the correct option: 'I ___ reading a book right now.'",
-      "context": "English class in San Miguel, SV.",
+      "statement": "What does 'one-way ticket' mean?",
+      "context": "Comprension de vocabulario turistico, San Miguel.",
       "options": [
         {
-          "letter": "B",
-          "text": "am",
-          "is_correct": true,
-          "feedback": "Correct!"
+          "letter": "A",
+          "text": "A ticket for a single passenger.",
+          "is_correct": false,
+          "feedback": "'Single' is the British term for one passenger, but 'one-way' is about direction."
         },
         {
-          "letter": "A",
-          "text": "is",
-          "is_correct": false,
-          "feedback": "Incorrect. Review the concept."
+          "letter": "B",
+          "text": "A ticket that allows travel only in one direction.",
+          "is_correct": true,
+          "feedback": "'One-way' means there is no return journey included."
         },
         {
           "letter": "C",
-          "text": "are",
+          "text": "A ticket that can be used on any airline.",
           "is_correct": false,
-          "feedback": "Incorrect. Review the concept."
+          "feedback": "That describes a flexible ticket, not a one-way ticket."
         },
         {
           "letter": "D",
-          "text": "be",
+          "text": "A ticket that must be paid in one payment.",
           "is_correct": false,
-          "feedback": "Incorrect. Review the concept."
+          "feedback": "'One-way' does not refer to payment terms."
         }
       ],
       "correct_answer": "B",
-      "explanation": "Present continuous: I am + verb-ing.",
-      "difficulty": "6",
+      "explanation": "Un billete de ida no incluye el viaje de regreso, a diferencia del 'return ticket' o 'round-trip ticket'.\n\n---",
+      "difficulty": "4",
       "images": [],
       "tags": [],
-      "bloom": "Apply",
+      "bloom": "Understand",
       "expected_success": 0.8,
       "bundle_id": "SV-ING-11-2026-W25-vocabulary-travel-001-MASTERY-bundle",
       "periodo": 25,
@@ -279,217 +279,37 @@
     },
     {
       "id": "SV-ING-11-2026-W25-vocabulary-travel-001-MASTERY-bundle-v7",
-      "statement": "What does 'benevolent' mean?",
-      "context": "English class in Mejicanos, SV.",
+      "statement": "Choose the word that means 'luggage': 'Please keep your ____ with you at all times.'",
+      "context": "Vocabulario de viaje, San Salvador.",
       "options": [
         {
-          "letter": "C",
-          "text": "Kind and generous",
-          "is_correct": true,
-          "feedback": "Correct!"
-        },
-        {
           "letter": "A",
-          "text": "Mean and cruel",
+          "text": "luggage",
           "is_correct": false,
-          "feedback": "Incorrect. Review the concept."
+          "feedback": "'Luggage' is uncountable and cannot be used with the article 'your' in this way."
         },
         {
           "letter": "B",
-          "text": "Quick and fast",
-          "is_correct": false,
-          "feedback": "Incorrect. Review the concept."
-        },
-        {
-          "letter": "D",
-          "text": "Slow and lazy",
-          "is_correct": false,
-          "feedback": "Incorrect. Review the concept."
-        }
-      ],
-      "correct_answer": "C",
-      "explanation": "'Benevolent' means kind, generous, or charitable.",
-      "difficulty": "6",
-      "images": [],
-      "tags": [],
-      "bloom": "Understand",
-      "expected_success": 0.8,
-      "bundle_id": "SV-ING-11-2026-W25-vocabulary-travel-001-MASTERY-bundle",
-      "periodo": 25,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ingles",
-      "grade": 11,
-      "country": "sv"
-    },
-    {
-      "id": "SV-ING-11-2026-W25-vocabulary-travel-001-MASTERY-bundle-v8",
-      "statement": "Identify the main idea: 'The text describes how bees help pollinate flowers and produce honey.'",
-      "context": "English class in Santa Ana, SV.",
-      "options": [
-        {
-          "letter": "B",
-          "text": "Bees are important for pollination and honey",
+          "text": "baggage",
           "is_correct": true,
-          "feedback": "Correct!"
-        },
-        {
-          "letter": "A",
-          "text": "Bees are dangerous insects",
-          "is_correct": false,
-          "feedback": "Incorrect. Review the concept."
+          "feedback": "'Baggage' is the countable and common term for suitcases and bags."
         },
         {
           "letter": "C",
-          "text": "Honey is the only product bees make",
+          "text": "bagages",
           "is_correct": false,
-          "feedback": "Incorrect. Review the concept."
+          "feedback": "'Bagages' is not a word; the correct form is 'baggage' or 'bags'."
         },
         {
           "letter": "D",
-          "text": "Flowers don't need bees",
+          "text": "baggage's",
           "is_correct": false,
-          "feedback": "Incorrect. Review the concept."
+          "feedback": "A possessive form is not needed in this request."
         }
       ],
       "correct_answer": "B",
-      "explanation": "The main idea summarizes the key points about bees: pollination and honey.",
-      "difficulty": "6",
-      "images": [],
-      "tags": [],
-      "bloom": "Analyze",
-      "expected_success": 0.7,
-      "bundle_id": "SV-ING-11-2026-W25-vocabulary-travel-001-MASTERY-bundle",
-      "periodo": 25,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ingles",
-      "grade": 11,
-      "country": "sv"
-    },
-    {
-      "id": "SV-ING-11-2026-W25-vocabulary-travel-001-MASTERY-bundle-v9",
-      "statement": "Which is the correct past form of 'go'?",
-      "context": "English class in Mejicanos, SV.",
-      "options": [
-        {
-          "letter": "C",
-          "text": "went",
-          "is_correct": true,
-          "feedback": "Correct!"
-        },
-        {
-          "letter": "A",
-          "text": "goed",
-          "is_correct": false,
-          "feedback": "Incorrect. Review the concept."
-        },
-        {
-          "letter": "B",
-          "text": "gone",
-          "is_correct": false,
-          "feedback": "Incorrect. Review the concept."
-        },
-        {
-          "letter": "D",
-          "text": "going",
-          "is_correct": false,
-          "feedback": "Incorrect. Review the concept."
-        }
-      ],
-      "correct_answer": "C",
-      "explanation": "'Go' is an irregular verb: go → went (past simple).",
-      "difficulty": "6",
-      "images": [],
-      "tags": [],
-      "bloom": "Remember",
-      "expected_success": 0.85,
-      "bundle_id": "SV-ING-11-2026-W25-vocabulary-travel-001-MASTERY-bundle",
-      "periodo": 25,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ingles",
-      "grade": 11,
-      "country": "sv"
-    },
-    {
-      "id": "SV-ING-11-2026-W25-vocabulary-travel-001-MASTERY-bundle-v10",
-      "statement": "Which sentence uses the present simple correctly?",
-      "context": "English class in San Salvador, SV.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "She goes to school every day.",
-          "is_correct": true,
-          "feedback": "Correct!"
-        },
-        {
-          "letter": "B",
-          "text": "She go to school every day.",
-          "is_correct": false,
-          "feedback": "Incorrect. Review the concept."
-        },
-        {
-          "letter": "C",
-          "text": "She going to school every day.",
-          "is_correct": false,
-          "feedback": "Incorrect. Review the concept."
-        },
-        {
-          "letter": "D",
-          "text": "She gone to school every day.",
-          "is_correct": false,
-          "feedback": "Incorrect. Review the concept."
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "Present simple: subject + verb(-s for he/she/it).",
-      "difficulty": "6",
-      "images": [],
-      "tags": [],
-      "bloom": "Remember",
-      "expected_success": 0.85,
-      "bundle_id": "SV-ING-11-2026-W25-vocabulary-travel-001-MASTERY-bundle",
-      "periodo": 25,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ingles",
-      "grade": 11,
-      "country": "sv"
-    },
-    {
-      "id": "SV-ING-11-2026-W25-vocabulary-travel-001-MASTERY-bundle-v11",
-      "statement": "Choose the correct option: 'I ___ reading a book right now.'",
-      "context": "English class in Santa Ana, SV.",
-      "options": [
-        {
-          "letter": "D",
-          "text": "am",
-          "is_correct": true,
-          "feedback": "Correct!"
-        },
-        {
-          "letter": "A",
-          "text": "is",
-          "is_correct": false,
-          "feedback": "Incorrect. Review the concept."
-        },
-        {
-          "letter": "B",
-          "text": "are",
-          "is_correct": false,
-          "feedback": "Incorrect. Review the concept."
-        },
-        {
-          "letter": "C",
-          "text": "be",
-          "is_correct": false,
-          "feedback": "Incorrect. Review the concept."
-        }
-      ],
-      "correct_answer": "D",
-      "explanation": "Present continuous: I am + verb-ing.",
-      "difficulty": "8",
+      "explanation": "'Baggage' es el termino general y contable para maletas; 'luggage' es incontable y no lleva articulo.\n\n---",
+      "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Apply",
@@ -503,38 +323,83 @@
       "country": "sv"
     },
     {
-      "id": "SV-ING-11-2026-W25-vocabulary-travel-001-MASTERY-bundle-v12",
-      "statement": "What does 'benevolent' mean?",
-      "context": "English class in San Miguel, SV.",
+      "id": "SV-ING-11-2026-W25-vocabulary-travel-001-MASTERY-bundle-v8",
+      "statement": "Complete the sentence: 'I visited ____ last summer: Paris, Rome and Athens.'",
+      "context": "Vocabulario de viaje, San Miguel.",
       "options": [
         {
-          "letter": "D",
-          "text": "Kind and generous",
-          "is_correct": true,
-          "feedback": "Correct!"
-        },
-        {
           "letter": "A",
-          "text": "Mean and cruel",
-          "is_correct": false,
-          "feedback": "Incorrect. Review the concept."
+          "text": "countries",
+          "is_correct": true,
+          "feedback": "'Countries' is the plural of 'country' with the -ies ending."
         },
         {
           "letter": "B",
-          "text": "Quick and fast",
+          "text": "country's",
           "is_correct": false,
-          "feedback": "Incorrect. Review the concept."
+          "feedback": "That is a possessive form, not a plural noun."
         },
         {
           "letter": "C",
-          "text": "Slow and lazy",
+          "text": "countrys",
           "is_correct": false,
-          "feedback": "Incorrect. Review the concept."
+          "feedback": "The spelling is wrong; English doubles the 'r' and uses -ies."
+        },
+        {
+          "letter": "D",
+          "text": "countryes",
+          "is_correct": false,
+          "feedback": "The plural ending is -ies, not -eyes."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La lista de paises visitados requiere el plural 'countries', con terminacion -ies. Es uno de los puntos mas frecuentes de las pruebas de esta unidad.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.8,
+      "bundle_id": "SV-ING-11-2026-W25-vocabulary-travel-001-MASTERY-bundle",
+      "periodo": 25,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 11,
+      "country": "sv"
+    },
+    {
+      "id": "SV-ING-11-2026-W25-vocabulary-travel-001-MASTERY-bundle-v9",
+      "statement": "What does 'connecting flight' mean?",
+      "context": "Vocabulario de viajes aereos, San Salvador.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "A flight that uses Wi-Fi during the trip.",
+          "is_correct": false,
+          "feedback": "'Connecting' here has nothing to do with internet access."
+        },
+        {
+          "letter": "B",
+          "text": "A flight that connects two cities without stops.",
+          "is_correct": false,
+          "feedback": "That is a direct flight, the opposite of a connection."
+        },
+        {
+          "letter": "C",
+          "text": "A flight that connects the passenger by phone.",
+          "is_correct": false,
+          "feedback": "The term refers to the transport connection, not telephone contact."
+        },
+        {
+          "letter": "D",
+          "text": "A flight that requires a change of plane.",
+          "is_correct": true,
+          "feedback": "'Connecting' links two flight segments of one journey."
         }
       ],
       "correct_answer": "D",
-      "explanation": "'Benevolent' means kind, generous, or charitable.",
-      "difficulty": "8",
+      "explanation": "Un vuelo de conexion es el segundo tramo de un itinerario en el que el pasajero cambia de avion.\n\n---",
+      "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Understand",
@@ -548,42 +413,177 @@
       "country": "sv"
     },
     {
-      "id": "SV-ING-11-2026-W25-vocabulary-travel-001-MASTERY-bundle-v13",
-      "statement": "Identify the main idea: 'The text describes how bees help pollinate flowers and produce honey.'",
-      "context": "English class in Mejicanos, SV.",
+      "id": "SV-ING-11-2026-W25-vocabulary-travel-001-MASTERY-bundle-v10",
+      "statement": "Choose the correct noun: 'The committee had to make a ____ before Friday.'",
+      "context": "Collocaciones de decision, San Salvador.",
       "options": [
         {
-          "letter": "B",
-          "text": "Bees are important for pollination and honey",
-          "is_correct": true,
-          "feedback": "Correct!"
+          "letter": "A",
+          "text": "determine",
+          "is_correct": false,
+          "feedback": "'Determine' is a verb, not a noun in this pattern."
         },
         {
-          "letter": "A",
-          "text": "Bees are dangerous insects",
+          "letter": "B",
+          "text": "definite",
           "is_correct": false,
-          "feedback": "Incorrect. Review the concept."
+          "feedback": "'Definite' is an adjective and does not fill the noun slot."
         },
         {
           "letter": "C",
-          "text": "Honey is the only product bees make",
-          "is_correct": false,
-          "feedback": "Incorrect. Review the concept."
+          "text": "decision",
+          "is_correct": true,
+          "feedback": "'Make a decision' is a standard collocation meaning to choose."
         },
         {
           "letter": "D",
-          "text": "Flowers don't need bees",
+          "text": "decision-making",
           "is_correct": false,
-          "feedback": "Incorrect. Review the concept."
+          "feedback": "That is a gerund noun and would require a different construction."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "The main idea summarizes the key points about bees: pollination and honey.",
-      "difficulty": "8",
+      "correct_answer": "C",
+      "explanation": "'Make a decision' es la collocation estandar; 'do a decision' no existe en ingles. Es uno de los puntos mas frecuentes de las pruebas de esta unidad.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.8,
+      "bundle_id": "SV-ING-11-2026-W25-vocabulary-travel-001-MASTERY-bundle",
+      "periodo": 25,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 11,
+      "country": "sv"
+    },
+    {
+      "id": "SV-ING-11-2026-W25-vocabulary-travel-001-MASTERY-bundle-v11",
+      "statement": "What is the difference between a 'tour' and a 'trip'?",
+      "context": "Vocabulario de viaje, San Salvador.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "A tour visits several places; a trip is any journey.",
+          "is_correct": true,
+          "feedback": "The distinction is the sightseeing connotation of the tour."
+        },
+        {
+          "letter": "B",
+          "text": "They are exactly the same word.",
+          "is_correct": false,
+          "feedback": "They are distinct: one implies a route with several stops."
+        },
+        {
+          "letter": "C",
+          "text": "A trip is always longer than a tour.",
+          "is_correct": false,
+          "feedback": "Duration does not define the difference between the two words."
+        },
+        {
+          "letter": "D",
+          "text": "A tour is only for business travel.",
+          "is_correct": false,
+          "feedback": "'Tour' is normally leisure travel, the opposite of this claim."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Un 'tour' normalmente incluye la visita a varios lugares de un mismo destino; un 'trip' es cualquier viaje.\n\n---",
+      "difficulty": "6",
       "images": [],
       "tags": [],
       "bloom": "Analyze",
-      "expected_success": 0.7,
+      "expected_success": 0.8,
+      "bundle_id": "SV-ING-11-2026-W25-vocabulary-travel-001-MASTERY-bundle",
+      "periodo": 25,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 11,
+      "country": "sv"
+    },
+    {
+      "id": "SV-ING-11-2026-W25-vocabulary-travel-001-MASTERY-bundle-v12",
+      "statement": "Complete: 'Our flight leaves at 8 a.m., so we must get to the airport ____ early.'",
+      "context": "Vocabulario de viajes en el aeropuerto, San Salvador.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "in front",
+          "is_correct": false,
+          "feedback": "'In front of' expresses position relative to something, not time."
+        },
+        {
+          "letter": "B",
+          "text": "on advance",
+          "is_correct": false,
+          "feedback": "'On advance' is not an English phrase; the preposition is 'in'."
+        },
+        {
+          "letter": "C",
+          "text": "in advance",
+          "is_correct": true,
+          "feedback": "'In advance' means earlier than needed, which is the sense required here."
+        },
+        {
+          "letter": "D",
+          "text": "with advance",
+          "is_correct": false,
+          "feedback": "'With advance' is not an English prepositional phrase."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "'In advance' significa con anticipacion y es la expresion adecuada para llegar antes de la hora limite.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.8,
+      "bundle_id": "SV-ING-11-2026-W25-vocabulary-travel-001-MASTERY-bundle",
+      "periodo": 25,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 11,
+      "country": "sv"
+    },
+    {
+      "id": "SV-ING-11-2026-W25-vocabulary-travel-001-MASTERY-bundle-v13",
+      "statement": "Choose the best word: 'The hotel offers breakfast ____ $15 per person.'",
+      "context": "Vocabulario de alojamiento, San Miguel.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "of",
+          "is_correct": false,
+          "feedback": "'Of' follows prices in other contexts, as in 'a third of the price'."
+        },
+        {
+          "letter": "B",
+          "text": "for",
+          "is_correct": true,
+          "feedback": "'For $15 per person' is the standard way to express a price rate."
+        },
+        {
+          "letter": "C",
+          "text": "in",
+          "is_correct": false,
+          "feedback": "'In $15 per person' is not idiomatic English."
+        },
+        {
+          "letter": "D",
+          "text": "at",
+          "is_correct": false,
+          "feedback": "'At $15' would refer to a single amount, not to a per-person rate."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La preposicion que indica un precio por persona es 'for'. Se usa 'at' para un precio unico, como 'at $15'.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.8,
       "bundle_id": "SV-ING-11-2026-W25-vocabulary-travel-001-MASTERY-bundle",
       "periodo": 25,
       "protocol_version": "5.2",
@@ -594,41 +594,41 @@
     },
     {
       "id": "SV-ING-11-2026-W25-vocabulary-travel-001-MASTERY-bundle-v14",
-      "statement": "Which is the correct past form of 'go'?",
-      "context": "English class in Santa Ana, SV.",
+      "statement": "Look at the traveller's sentence and identify the mistake: 'I visited in Spain last summer and I loved the food.'",
+      "context": "Deteccion de errores con preposiciones, San Salvador.",
       "options": [
         {
-          "letter": "D",
-          "text": "went",
-          "is_correct": true,
-          "feedback": "Correct!"
-        },
-        {
           "letter": "A",
-          "text": "goed",
+          "text": "The article 'in' is wrong: countries take no article.",
           "is_correct": false,
-          "feedback": "Incorrect. Review the concept."
+          "feedback": "English uses 'in Spain', but 'in' is a preposition, not an article."
         },
         {
           "letter": "B",
-          "text": "gone",
+          "text": "'Visited' is wrong; it should be 'visit'.",
           "is_correct": false,
-          "feedback": "Incorrect. Review the concept."
+          "feedback": "'Visited' is correct as the simple past of 'visit'."
         },
         {
           "letter": "C",
-          "text": "going",
+          "text": "Nothing is wrong in the sentence.",
+          "is_correct": true,
+          "feedback": "Nothing at all is wrong: 'I visited in Spain' is grammatical, with the same meaning."
+        },
+        {
+          "letter": "D",
+          "text": "'Spain' should be in lower case.",
           "is_correct": false,
-          "feedback": "Incorrect. Review the concept."
+          "feedback": "Country names are always written with a capital letter."
         }
       ],
-      "correct_answer": "D",
-      "explanation": "'Go' is an irregular verb: go → went (past simple).",
-      "difficulty": "8",
+      "correct_answer": "C",
+      "explanation": "Con paises se usa la preposicion 'in', pero sin articulo: la forma correcta es 'I visited Spain'.\n\n---",
+      "difficulty": "6",
       "images": [],
       "tags": [],
-      "bloom": "Remember",
-      "expected_success": 0.85,
+      "bloom": "Analyze",
+      "expected_success": 0.8,
       "bundle_id": "SV-ING-11-2026-W25-vocabulary-travel-001-MASTERY-bundle",
       "periodo": 25,
       "protocol_version": "5.2",
@@ -639,41 +639,41 @@
     },
     {
       "id": "SV-ING-11-2026-W25-vocabulary-travel-001-MASTERY-bundle-v15",
-      "statement": "Which sentence uses the present simple correctly?",
-      "context": "English class in Santa Ana, SV.",
+      "statement": "Which of these words means 'a place where you can stay overnight'?",
+      "context": "Vocabulario de alojamiento, San Salvador.",
       "options": [
         {
-          "letter": "B",
-          "text": "She goes to school every day.",
-          "is_correct": true,
-          "feedback": "Correct!"
+          "letter": "A",
+          "text": "baggage",
+          "is_correct": false,
+          "feedback": "'Baggage' means the suitcases and bags of a traveller."
         },
         {
-          "letter": "A",
-          "text": "She go to school every day.",
+          "letter": "B",
+          "text": "itinerary",
           "is_correct": false,
-          "feedback": "Incorrect. Review the concept."
+          "feedback": "'Itinerary' is the plan of a journey, not the place where you sleep."
         },
         {
           "letter": "C",
-          "text": "She going to school every day.",
+          "text": "boarding pass",
           "is_correct": false,
-          "feedback": "Incorrect. Review the concept."
+          "feedback": "'Boarding pass' is the document that allows boarding the plane."
         },
         {
           "letter": "D",
-          "text": "She gone to school every day.",
-          "is_correct": false,
-          "feedback": "Incorrect. Review the concept."
+          "text": "accommodation",
+          "is_correct": true,
+          "feedback": "'Accommodation' means a place where a traveller can stay."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "Present simple: subject + verb(-s for he/she/it).",
-      "difficulty": "8",
+      "correct_answer": "D",
+      "explanation": "'Accommodation' designa un lugar para pernoctar; 'baggage' y 'itinerary' tienen otro significado.\n\n---",
+      "difficulty": "4",
       "images": [],
       "tags": [],
-      "bloom": "Remember",
-      "expected_success": 0.85,
+      "bloom": "Understand",
+      "expected_success": 0.8,
       "bundle_id": "SV-ING-11-2026-W25-vocabulary-travel-001-MASTERY-bundle",
       "periodo": 25,
       "protocol_version": "5.2",
@@ -684,37 +684,37 @@
     },
     {
       "id": "SV-ING-11-2026-W25-vocabulary-travel-001-MASTERY-bundle-v16",
-      "statement": "Choose the correct option: 'I ___ reading a book right now.'",
-      "context": "English class in San Salvador, SV.",
+      "statement": "Complete: 'We had to change planes in Panama, so it was a ____ flight.'",
+      "context": "Vocabulario de viajes aereos, San Miguel.",
       "options": [
         {
-          "letter": "B",
-          "text": "am",
+          "letter": "A",
+          "text": "connecting",
           "is_correct": true,
-          "feedback": "Correct!"
+          "feedback": "'Connecting flight' describes a journey with a change of aircraft."
         },
         {
-          "letter": "A",
-          "text": "is",
+          "letter": "B",
+          "text": "continued",
           "is_correct": false,
-          "feedback": "Incorrect. Review the concept."
+          "feedback": "'Continued' refers to something that keeps going, not to a change of plane."
         },
         {
           "letter": "C",
-          "text": "are",
+          "text": "connectingly",
           "is_correct": false,
-          "feedback": "Incorrect. Review the concept."
+          "feedback": "'Connectingly' is an adverb and does not modify a noun."
         },
         {
           "letter": "D",
-          "text": "be",
+          "text": "connected",
           "is_correct": false,
-          "feedback": "Incorrect. Review the concept."
+          "feedback": "'Connected' would suggest a general relationship, not a flight change."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "Present continuous: I am + verb-ing.",
-      "difficulty": "8",
+      "correct_answer": "A",
+      "explanation": "Cambiar de avion en una escala hace que el vuelo sea de conexion. El cambio ocurre en una escala, no en el destino final.\n\n---",
+      "difficulty": "6",
       "images": [],
       "tags": [],
       "bloom": "Apply",
@@ -729,37 +729,37 @@
     },
     {
       "id": "SV-ING-11-2026-W25-vocabulary-travel-001-MASTERY-bundle-v17",
-      "statement": "What does 'benevolent' mean?",
-      "context": "English class in San Salvador, SV.",
+      "statement": "What does the word 'abroad' mean?",
+      "context": "Vocabulario de viaje, San Salvador.",
       "options": [
         {
-          "letter": "D",
-          "text": "Kind and generous",
-          "is_correct": true,
-          "feedback": "Correct!"
-        },
-        {
           "letter": "A",
-          "text": "Mean and cruel",
+          "text": "At home",
           "is_correct": false,
-          "feedback": "Incorrect. Review the concept."
+          "feedback": "'Abroad' means the opposite of 'at home'."
         },
         {
           "letter": "B",
-          "text": "Quick and fast",
+          "text": "Near the airport",
           "is_correct": false,
-          "feedback": "Incorrect. Review the concept."
+          "feedback": "'Abroad' has no relation to proximity to an airport."
         },
         {
           "letter": "C",
-          "text": "Slow and lazy",
+          "text": "In a country other than one's own.",
+          "is_correct": true,
+          "feedback": "'Abroad' is an adverb and takes no preposition."
+        },
+        {
+          "letter": "D",
+          "text": "Outside the city",
           "is_correct": false,
-          "feedback": "Incorrect. Review the concept."
+          "feedback": "That would be 'out of town', which is different from 'abroad'."
         }
       ],
-      "correct_answer": "D",
-      "explanation": "'Benevolent' means kind, generous, or charitable.",
-      "difficulty": "10",
+      "correct_answer": "C",
+      "explanation": "'Abroad' significa fuera del pais de origen; se usa como adverbio y no lleva preposicion.\n\n---",
+      "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Understand",
@@ -774,41 +774,41 @@
     },
     {
       "id": "SV-ING-11-2026-W25-vocabulary-travel-001-MASTERY-bundle-v18",
-      "statement": "Identify the main idea: 'The text describes how bees help pollinate flowers and produce honey.'",
-      "context": "English class in Mejicanos, SV.",
+      "statement": "Choose the correct word: 'Please keep your ____ handy; the officer needs to examine it.'",
+      "context": "Vocabulario de viajes y control fronterizo, San Salvador.",
       "options": [
         {
-          "letter": "B",
-          "text": "Bees are important for pollination and honey",
+          "letter": "A",
+          "text": "handy",
           "is_correct": true,
-          "feedback": "Correct!"
+          "feedback": "'Keep it handy' means to have it ready and within reach."
         },
         {
-          "letter": "A",
-          "text": "Bees are dangerous insects",
+          "letter": "B",
+          "text": "hand",
           "is_correct": false,
-          "feedback": "Incorrect. Review the concept."
+          "feedback": "'Keep your passport hand' is not idiomatic; 'hand' needs an adjective after it."
         },
         {
           "letter": "C",
-          "text": "Honey is the only product bees make",
+          "text": "handful",
           "is_correct": false,
-          "feedback": "Incorrect. Review the concept."
+          "feedback": "'Handful' describes a quantity, not readiness."
         },
         {
           "letter": "D",
-          "text": "Flowers don't need bees",
+          "text": "handing",
           "is_correct": false,
-          "feedback": "Incorrect. Review the concept."
+          "feedback": "'Handing' is a gerund and does not fit this pattern."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "The main idea summarizes the key points about bees: pollination and honey.",
-      "difficulty": "10",
+      "correct_answer": "A",
+      "explanation": "'Keep X handy' significa tenerlo a mano para la inspeccion. Es la forma mas natural en ingles colloquial.\n\n---",
+      "difficulty": "6",
       "images": [],
       "tags": [],
-      "bloom": "Analyze",
-      "expected_success": 0.7,
+      "bloom": "Apply",
+      "expected_success": 0.8,
       "bundle_id": "SV-ING-11-2026-W25-vocabulary-travel-001-MASTERY-bundle",
       "periodo": 25,
       "protocol_version": "5.2",
@@ -819,41 +819,41 @@
     },
     {
       "id": "SV-ING-11-2026-W25-vocabulary-travel-001-MASTERY-bundle-v19",
-      "statement": "Which is the correct past form of 'go'?",
-      "context": "English class in San Salvador, SV.",
+      "statement": "Which sentence describes a traveller correctly?",
+      "context": "Consolidacion del vocabulario de viajes, San Salvador.",
       "options": [
         {
-          "letter": "C",
-          "text": "went",
-          "is_correct": true,
-          "feedback": "Correct!"
-        },
-        {
           "letter": "A",
-          "text": "goed",
+          "text": "She arrived to her destination, reserved a flight and gathered her luggage.",
           "is_correct": false,
-          "feedback": "Incorrect. Review the concept."
+          "feedback": "'Arrive' takes 'at', not 'to', for a place."
         },
         {
           "letter": "B",
-          "text": "gone",
+          "text": "She reached in her destination, booked the flight and packed her baggages.",
           "is_correct": false,
-          "feedback": "Incorrect. Review the concept."
+          "feedback": "'Reach' does not take 'in'; 'baggages' is not a standard plural."
+        },
+        {
+          "letter": "C",
+          "text": "She arrived at her destination, made a flight and filled her luggage.",
+          "is_correct": false,
+          "feedback": "'Make a flight' is not idiomatic and luggage cannot be filled."
         },
         {
           "letter": "D",
-          "text": "going",
-          "is_correct": false,
-          "feedback": "Incorrect. Review the concept."
+          "text": "She arrived at her destination, booked a flight and packed her luggage.",
+          "is_correct": true,
+          "feedback": "'Arrive at', 'book a flight' and 'pack luggage' are all standard collocations."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "'Go' is an irregular verb: go → went (past simple).",
-      "difficulty": "10",
+      "correct_answer": "D",
+      "explanation": "En esta oracion, 'destination', 'flight' y 'luggage' se usan con sus verbos naturales: 'arrive at', 'book' y 'pack'.\n\n---",
+      "difficulty": "6",
       "images": [],
       "tags": [],
-      "bloom": "Remember",
-      "expected_success": 0.85,
+      "bloom": "Evaluate",
+      "expected_success": 0.8,
       "bundle_id": "SV-ING-11-2026-W25-vocabulary-travel-001-MASTERY-bundle",
       "periodo": 25,
       "protocol_version": "5.2",
@@ -864,41 +864,41 @@
     },
     {
       "id": "SV-ING-11-2026-W25-vocabulary-travel-001-MASTERY-bundle-v20",
-      "statement": "Which sentence uses the present simple correctly?",
-      "context": "English class in San Miguel, SV.",
+      "statement": "What word completes the sentence? 'The tour guide recommended ____ at the local market.'",
+      "context": "Vocabulario de viaje y recomendaciones, San Salvador.",
       "options": [
         {
           "letter": "A",
-          "text": "She goes to school every day.",
+          "text": "a local market",
           "is_correct": true,
-          "feedback": "Correct!"
+          "feedback": "'Recommend a place' suggests where travellers should go."
         },
         {
           "letter": "B",
-          "text": "She go to school every day.",
+          "text": "recommending the market",
           "is_correct": false,
-          "feedback": "Incorrect. Review the concept."
+          "feedback": "The gerund would need no object after it; the sentence structure is different."
         },
         {
           "letter": "C",
-          "text": "She going to school every day.",
+          "text": "to the local market",
           "is_correct": false,
-          "feedback": "Incorrect. Review the concept."
+          "feedback": "'Recommend' does not take 'to' plus object."
         },
         {
           "letter": "D",
-          "text": "She gone to school every day.",
+          "text": "recommend at the market",
           "is_correct": false,
-          "feedback": "Incorrect. Review the concept."
+          "feedback": "'At' cannot introduce the object of 'recommend'."
         }
       ],
       "correct_answer": "A",
-      "explanation": "Present simple: subject + verb(-s for he/she/it).",
-      "difficulty": "10",
+      "explanation": "'Recommend a noun' es un patron valido cuando el objeto es una persona o una actividad concreta.\n\n---",
+      "difficulty": "6",
       "images": [],
       "tags": [],
-      "bloom": "Remember",
-      "expected_success": 0.85,
+      "bloom": "Apply",
+      "expected_success": 0.8,
       "bundle_id": "SV-ING-11-2026-W25-vocabulary-travel-001-MASTERY-bundle",
       "periodo": 25,
       "protocol_version": "5.2",

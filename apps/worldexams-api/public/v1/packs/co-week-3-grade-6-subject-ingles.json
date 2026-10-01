@@ -16,25 +16,25 @@
           "letter": "C",
           "text": "is",
           "is_correct": true,
-          "feedback": "Correct! Well done."
+          "feedback": "'Am' goes with 'I', and the subject here is 'she'."
         },
         {
           "letter": "A",
           "text": "am",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "'Are' goes with 'you', 'we', 'they' and plural nouns, but not with 'she'."
         },
         {
           "letter": "B",
           "text": "are",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "Correct. The present simple of 'be' is 'is' for the third person singular, which is 'she'."
         },
         {
           "letter": "D",
           "text": "be",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "'Be' is the base form, used after modals or in the infinitive, not on its own in a statement."
         }
       ],
       "correct_answer": "C",
@@ -62,25 +62,25 @@
           "letter": "C",
           "text": "are",
           "is_correct": true,
-          "feedback": "Correct! Well done."
+          "feedback": "'Am' goes with 'I', and the subject here is 'we'."
         },
         {
           "letter": "A",
           "text": "am",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "Correct. 'Are' is the form of 'be' used with 'we', so 'We are' is correct."
         },
         {
           "letter": "B",
           "text": "be",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "'Be' is the infinitive form and cannot stand alone in a simple statement."
         },
         {
           "letter": "D",
           "text": "is",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "'Is' is used with a singular subject like 'he' or 'it', not with 'we'."
         }
       ],
       "correct_answer": "C",
@@ -108,25 +108,25 @@
           "letter": "B",
           "text": "Do",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "'Do' builds questions with main verbs such as 'do you like', not with the verb 'be'."
         },
         {
           "letter": "A",
           "text": "Are",
           "is_correct": true,
-          "feedback": "Correct! Well done."
+          "feedback": "Correct. A question made with 'be' inverts it, so 'Are they' is the correct form here."
         },
         {
           "letter": "C",
           "text": "Is",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "'Is' goes with a singular subject, and 'they' is plural."
         },
         {
           "letter": "D",
           "text": "Am",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "'Am' goes with 'I', and the subject of the question is 'they'."
         }
       ],
       "correct_answer": "A",
@@ -154,25 +154,25 @@
           "letter": "A",
           "text": "is",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "'Is' goes with 'he', 'she' or 'it', and the subject here is 'I'."
         },
         {
           "letter": "C",
           "text": "be",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "'Be' is the infinitive and does not agree with a subject on its own."
         },
         {
           "letter": "D",
           "text": "are",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "'Are' goes with plural subjects, and 'I' is always singular."
         },
         {
           "letter": "B",
           "text": "am",
           "is_correct": true,
-          "feedback": "Correct! Well done."
+          "feedback": "Correct. With the pronoun 'I' the present simple of 'be' is always 'am'."
         }
       ],
       "correct_answer": "B",
@@ -200,25 +200,25 @@
           "letter": "A",
           "text": "is",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "'Is' is for a single subject, and 'the books' is plural."
         },
         {
           "letter": "C",
           "text": "are",
           "is_correct": true,
-          "feedback": "Correct! Well done."
+          "feedback": "'Am' goes with 'I', and the subject is 'the books'."
         },
         {
           "letter": "B",
           "text": "am",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "Correct. 'The books' is plural, so it takes 'are' in the present simple."
         },
         {
           "letter": "D",
           "text": "was",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "'Was' is the past tense; the books are on the desk now, so the present simple is needed."
         }
       ],
       "correct_answer": "C",
@@ -246,25 +246,25 @@
           "letter": "A",
           "text": "is",
           "is_correct": true,
-          "feedback": "Correct! Well done."
+          "feedback": "'Are' goes with plural subjects, and 'my dog' is singular."
         },
         {
           "letter": "B",
           "text": "are",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "'Am' goes with 'I', and the subject is 'my dog'."
         },
         {
           "letter": "C",
           "text": "am",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "Correct. 'My dog' is a single animal, so it takes 'is'."
         },
         {
           "letter": "D",
           "text": "be",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "'Be' is the infinitive and cannot stand alone in a simple statement."
         }
       ],
       "correct_answer": "A",
@@ -292,25 +292,25 @@
           "letter": "B",
           "text": "Are",
           "is_correct": true,
-          "feedback": "Correct! Well done."
+          "feedback": "'Am' goes with 'I', and the subject of this question is 'you'."
         },
         {
           "letter": "A",
           "text": "Am",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "Correct. A question with 'be' inverts the order, so 'Are you' is the correct form."
         },
         {
           "letter": "C",
           "text": "Is",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "'Is' goes with a singular subject such as 'he' or 'it', but not with 'you'."
         },
         {
           "letter": "D",
           "text": "Do",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "'Do' is used to make questions with main verbs, such as 'do you play'."
         }
       ],
       "correct_answer": "B",
@@ -338,25 +338,25 @@
           "letter": "D",
           "text": "is",
           "is_correct": true,
-          "feedback": "Correct! Well done."
+          "feedback": "'Are' goes with plural subjects, and 'Bogota' is one single city."
         },
         {
           "letter": "A",
           "text": "are",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "'Stay' is an action verb and the sentence needs the verb 'be'."
         },
         {
           "letter": "B",
           "text": "stay",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "'Am' goes with 'I', and the subject is 'Bogota'."
         },
         {
           "letter": "C",
           "text": "am",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "Correct. 'Bogota' is a single place, so the third person singular form 'is' is used."
         }
       ],
       "correct_answer": "D",
@@ -384,25 +384,25 @@
           "letter": "D",
           "text": "are",
           "is_correct": true,
-          "feedback": "Correct! Well done."
+          "feedback": "'Be' is the infinitive and cannot stand alone here."
         },
         {
           "letter": "A",
           "text": "be",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "'Is' goes with a singular subject, but 'they' is plural."
         },
         {
           "letter": "B",
           "text": "is",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "'Is being' is the continuous form and does not fit this simple statement."
         },
         {
           "letter": "C",
           "text": "is being",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "Correct. 'They' is plural, so it takes 'are' with an adjective in the present simple."
         }
       ],
       "correct_answer": "D",
@@ -430,25 +430,25 @@
           "letter": "A",
           "text": "am",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "'Am' goes with 'I', and the subject here is 'it'."
         },
         {
           "letter": "B",
           "text": "is",
           "is_correct": true,
-          "feedback": "Correct! Well done."
+          "feedback": "Correct. 'It' is a third person singular subject, so it takes 'is'."
         },
         {
           "letter": "C",
           "text": "has",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "'Has' is used for possession, such as 'it has a car', not for a description with an adjective."
         },
         {
           "letter": "D",
           "text": "are",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "'Are' goes with plural subjects, and 'it' is singular."
         }
       ],
       "correct_answer": "B",

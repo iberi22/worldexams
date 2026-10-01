@@ -286,7 +286,7 @@
           "letter": "A",
           "text": "is analyzing",
           "is_correct": false,
-          "feedback": "Incorrect. Active voice."
+          "feedback": "\"Is analyzing\" is the active voice: it would make the data the thing doing the analyzing. The astronomers are the ones analysing, so the sentence needs the passive."
         },
         {
           "letter": "C",
@@ -304,7 +304,7 @@
           "letter": "D",
           "text": "have analyzed",
           "is_correct": false,
-          "feedback": "Incorrect. Active voice."
+          "feedback": "\"Have analyzed\" is the active voice and a perfect form; here the analysis is still under way, and the data is what receives the analysis."
         }
       ],
       "correct_answer": "C",

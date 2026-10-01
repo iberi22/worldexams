@@ -157,7 +157,7 @@
           "letter": "B",
           "text": "ignored",
           "is_correct": false,
-          "feedback": "Incorrect. Opposite of the goal."
+          "feedback": "'Ignored' means the listener failed to pay attention, which defeats the whole purpose of the technique."
         },
         {
           "letter": "C",
@@ -169,7 +169,7 @@
           "letter": "D",
           "text": "silenced",
           "is_correct": false,
-          "feedback": "Incorrect. Opposite of the goal."
+          "feedback": "'Silenced' means the listener stopped the speaker from talking, the opposite of making that speaker feel heard."
         }
       ],
       "correct_answer": "A",
@@ -241,7 +241,7 @@
           "letter": "A",
           "text": "fight",
           "is_correct": false,
-          "feedback": "Incorrect. Conflict."
+          "feedback": "A fight is the armed clash itself, not the written agreement made to end it; 'fight' also takes no formal object such as 'a treaty'."
         },
         {
           "letter": "D",
@@ -286,7 +286,7 @@
           "letter": "B",
           "text": "are discussing",
           "is_correct": false,
-          "feedback": "Incorrect. Active voice."
+          "feedback": "'Are discussing' is active, so the legal teams would have to be the subject, but the sentence makes the terms the thing being discussed."
         },
         {
           "letter": "A",
@@ -304,7 +304,7 @@
           "letter": "D",
           "text": "have discussed",
           "is_correct": false,
-          "feedback": "Incorrect. Active voice."
+          "feedback": "'Have discussed' is an active present perfect, which would mean the teams already finished this week's talks."
         }
       ],
       "correct_answer": "A",
@@ -466,7 +466,7 @@
           "letter": "A",
           "text": "Hatred",
           "is_correct": false,
-          "feedback": "Incorrect."
+          "feedback": "Hatred is a strong dislike, and it would block a mediator from seeing any other side's point of view."
         },
         {
           "letter": "B",
@@ -478,13 +478,13 @@
           "letter": "C",
           "text": "Greed",
           "is_correct": false,
-          "feedback": "Incorrect."
+          "feedback": "Greed is a selfish desire for more, which is the opposite of the concern for others this definition describes."
         },
         {
           "letter": "D",
           "text": "Apathy",
           "is_correct": false,
-          "feedback": "Incorrect."
+          "feedback": "Apathy is a lack of interest in the matter, whereas the definition stresses actively understanding every perspective."
         }
       ],
       "correct_answer": "B",
@@ -556,7 +556,7 @@
           "letter": "B",
           "text": "Aggression",
           "is_correct": false,
-          "feedback": "Incorrect."
+          "feedback": "Aggression is hostile behaviour that damages relations, so it is the opposite of the healing this term names."
         },
         {
           "letter": "A",
@@ -574,7 +574,7 @@
           "letter": "D",
           "text": "Competition",
           "is_correct": false,
-          "feedback": "Incorrect."
+          "feedback": "Competition sets parties against each other to win, which continues the division instead of repairing it."
         }
       ],
       "correct_answer": "A",
@@ -697,13 +697,13 @@
           "letter": "D",
           "text": "neutral",
           "is_correct": true,
-          "feedback": "Correct. Impartial."
+          "feedback": "Correct. Neutral is the exact term for someone who takes no side in the argument, so it matches the definition word for word."
         },
         {
           "letter": "B",
           "text": "hostile",
           "is_correct": false,
-          "feedback": "Incorrect. Unfriendly."
+          "feedback": "Hostile means unfriendly and ready to fight, which is the opposite of staying out of the dispute."
         },
         {
           "letter": "C",

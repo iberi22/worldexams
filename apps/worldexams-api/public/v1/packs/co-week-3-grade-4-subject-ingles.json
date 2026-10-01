@@ -16,25 +16,25 @@
           "letter": "A",
           "text": "pencil",
           "is_correct": true,
-          "feedback": "Correct!"
+          "feedback": "Correct. A pencil is the tool you use to write letters and numbers in a notebook."
         },
         {
           "letter": "B",
           "text": "chair",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "'Chair' is something you sit on, so it cannot be the thing you write with."
         },
         {
           "letter": "C",
           "text": "window",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "'Window' is the glass opening in a wall, not a writing tool."
         },
         {
           "letter": "D",
           "text": "door",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "'Door' is what you walk through to enter a room, not something that writes."
         }
       ],
       "correct_answer": "A",
@@ -62,25 +62,25 @@
           "letter": "A",
           "text": "floor",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "'Floor' is the bottom surface of the room; a teacher writes on a board, not on the ground."
         },
         {
           "letter": "B",
           "text": "board",
           "is_correct": true,
-          "feedback": "Correct!"
+          "feedback": "Correct. A board is the flat surface at the front of the class where a teacher writes with chalk or a marker."
         },
         {
           "letter": "C",
           "text": "desk",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "'Desk' is where a student puts books; the teacher's writing surface in a classroom is called a board."
         },
         {
           "letter": "D",
           "text": "book",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "A 'book' has pages you read, it is not a surface that gets written on."
         }
       ],
       "correct_answer": "B",
@@ -108,25 +108,25 @@
           "letter": "A",
           "text": "On the ceiling",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "The ceiling is above you, so supplies would fall; school things are stored at desk height."
         },
         {
           "letter": "B",
           "text": "In my shoe",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "A shoe is for a foot, so a backpack would never fit inside it."
         },
         {
           "letter": "C",
           "text": "In my backpack",
           "is_correct": true,
-          "feedback": "Correct!"
+          "feedback": "Correct. A backpack is the bag made to carry books and pencils, which is what the question asks."
         },
         {
           "letter": "D",
           "text": "In my lunchbox",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "A lunchbox is made for food, and books and pencils do not fit in one."
         }
       ],
       "correct_answer": "C",
@@ -154,25 +154,25 @@
           "letter": "A",
           "text": "ruler",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "A ruler measures lengths, it does not remove pencil marks from the paper."
         },
         {
           "letter": "B",
           "text": "glue",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "Glue sticks things together, it cannot erase a pencil line."
         },
         {
           "letter": "C",
           "text": "scissors",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "Scissors cut paper, they do not take away pencil marks."
         },
         {
           "letter": "D",
           "text": "eraser",
           "is_correct": true,
-          "feedback": "Correct!"
+          "feedback": "Correct. An eraser rubs the graphite of a pencil line off the paper, which is what the sentence describes."
         }
       ],
       "correct_answer": "D",
@@ -200,25 +200,25 @@
           "letter": "A",
           "text": "book",
           "is_correct": true,
-          "feedback": "Correct!"
+          "feedback": "Correct. A book is a set of pages with a story written on them, and a story is what you read."
         },
         {
           "letter": "B",
           "text": "pen",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "A 'pen' is a writing tool, not the thing that holds a story."
         },
         {
           "letter": "C",
           "text": "sharpener",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "A 'sharpener' makes pencils sharper; it is a tool, not the place of a story."
         },
         {
           "letter": "D",
           "text": "ruler",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "A 'ruler' measures lengths, and you do not read a story on a ruler."
         }
       ],
       "correct_answer": "A",
@@ -246,25 +246,25 @@
           "letter": "A",
           "text": "map",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "A 'map' hangs on a wall and is looked at, nobody sits at it."
         },
         {
           "letter": "B",
           "text": "desk",
           "is_correct": true,
-          "feedback": "Correct!"
+          "feedback": "Correct. A desk is a table for working, and the teacher sits at the desk while teaching."
         },
         {
           "letter": "C",
           "text": "bag",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "A 'bag' is carried on the back, it is not a surface you sit at."
         },
         {
           "letter": "D",
           "text": "paper",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "'Paper' is a sheet for writing on, not furniture to sit on."
         }
       ],
       "correct_answer": "B",
@@ -292,25 +292,25 @@
           "letter": "A",
           "text": "markers",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "Markers draw ink lines, they cannot cut a sheet of paper."
         },
         {
           "letter": "B",
           "text": "notebooks",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "A 'notebook' is the paper itself, so it cannot be the thing that cuts it."
         },
         {
           "letter": "C",
           "text": "scissors",
           "is_correct": true,
-          "feedback": "Correct!"
+          "feedback": "Correct. Scissors have two blades that cut when they close, which is exactly what cutting paper needs."
         },
         {
           "letter": "D",
           "text": "crayons",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "Crayons draw colour on paper, they do not cut it."
         }
       ],
       "correct_answer": "C",
@@ -338,25 +338,25 @@
           "letter": "A",
           "text": "table",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "A 'table' is where you put things or eat, but you do not sit directly on it."
         },
         {
           "letter": "B",
           "text": "clock",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "A 'clock' tells the time and hangs on the wall, it is not for sitting on."
         },
         {
           "letter": "C",
           "text": "computer",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "A 'computer' is an electronic machine you type on, not a seat."
         },
         {
           "letter": "D",
           "text": "chair",
           "is_correct": true,
-          "feedback": "Correct!"
+          "feedback": "Correct. A chair is a piece of furniture built for one person to sit on."
         }
       ],
       "correct_answer": "D",

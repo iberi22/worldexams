@@ -74,13 +74,13 @@
           "letter": "B",
           "text": "where",
           "is_correct": false,
-          "feedback": "Incorrect."
+          "feedback": "\"Where\" points to a place, but \"this is the book\" refers to a thing, not to a location."
         },
         {
           "letter": "C",
           "text": "whom",
           "is_correct": false,
-          "feedback": "Incorrect."
+          "feedback": "\"Whom\" is used for people in the object position; the antecedent here is a book, so it cannot take \"whom\"."
         }
       ],
       "correct_answer": "D",
@@ -120,13 +120,13 @@
           "letter": "B",
           "text": "who",
           "is_correct": false,
-          "feedback": "Incorrect."
+          "feedback": "\"Who\" is used for people, and a library is a place, so it needs the locative relative pronoun."
         },
         {
           "letter": "D",
           "text": "that",
           "is_correct": false,
-          "feedback": "Incorrect."
+          "feedback": "\"That\" can join things to clauses, but after \"a place\" the clause describes a location, which is what \"where\" does."
         }
       ],
       "correct_answer": "C",
@@ -166,7 +166,7 @@
           "letter": "B",
           "text": "where",
           "is_correct": false,
-          "feedback": "Incorrect."
+          "feedback": "\"Where\" marks a place, but the relative pronoun here refers to the condor, which is an animal."
         },
         {
           "letter": "C",
@@ -212,13 +212,13 @@
           "letter": "B",
           "text": "which",
           "is_correct": false,
-          "feedback": "Incorrect."
+          "feedback": "\"Which\" introduces a thing, not a person; the clause here describes a student's father."
         },
         {
           "letter": "D",
           "text": "whom",
           "is_correct": false,
-          "feedback": "Incorrect."
+          "feedback": "\"Whom\" marks the object of a preposition for people, but possession is expressed with \"whose\"."
         }
       ],
       "correct_answer": "C",
@@ -246,13 +246,13 @@
           "letter": "A",
           "text": "who",
           "is_correct": false,
-          "feedback": "Incorrect."
+          "feedback": "\"Who\" refers to a person, and an arepa is a food, so it cannot be the antecedent of \"who\"."
         },
         {
           "letter": "B",
           "text": "where",
           "is_correct": false,
-          "feedback": "Incorrect."
+          "feedback": "\"Where\" marks a place, but the clause describes what the arepa is made from, not where it is."
         },
         {
           "letter": "D",
@@ -264,7 +264,7 @@
           "letter": "C",
           "text": "when",
           "is_correct": false,
-          "feedback": "Incorrect."
+          "feedback": "\"When\" marks a time, and the clause about corn states an ingredient rather than a moment."
         }
       ],
       "correct_answer": "D",
@@ -338,7 +338,7 @@
           "letter": "A",
           "text": "It describes where the child lives.",
           "is_correct": false,
-          "feedback": "Incorrect."
+          "feedback": "The clause says nothing about where the child lives; it identifies the parents as the ones who are dead."
         },
         {
           "letter": "D",
@@ -356,7 +356,7 @@
           "letter": "C",
           "text": "It tells us the name of the child.",
           "is_correct": false,
-          "feedback": "Incorrect."
+          "feedback": "The clause never gives a name, so it cannot be telling us who the child is called."
         }
       ],
       "correct_answer": "D",
@@ -396,13 +396,13 @@
           "letter": "C",
           "text": "I lost the watch where my grandmother gave to me.",
           "is_correct": false,
-          "feedback": "Incorrect."
+          "feedback": "\"Where\" marks a place, but the clause explains the origin of the watch, which points to a thing."
         },
         {
           "letter": "D",
           "text": "I lost the watch whose my grandmother gave to me.",
           "is_correct": false,
-          "feedback": "Incorrect."
+          "feedback": "\"Whose\" shows possession, and the grandmother gave the watch; she is not claiming to own it beforehand."
         }
       ],
       "correct_answer": "B",
@@ -494,7 +494,7 @@
           "letter": "D",
           "text": "Pen is a place where words are.",
           "is_correct": false,
-          "feedback": "Incorrect. Illogical."
+          "feedback": "A pen is an instrument used for writing, not a location, so calling it a place where words are reverses its meaning."
         }
       ],
       "correct_answer": "C",

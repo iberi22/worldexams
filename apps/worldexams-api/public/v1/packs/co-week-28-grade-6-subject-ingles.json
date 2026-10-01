@@ -8,227 +8,43 @@
   },
   "questions": [
     {
-      "id": "CO-ING-6-2026-W28-telling-time-001-v1",
-      "statement": "This is a review question about telling-time.",
-      "context": "Scenario about telling-time in a Colombian school or city context.",
+      "id": "CO-ING-6-2026-W28-telling-time-001-MASTERY-bundle-v1",
+      "statement": "What time is it? Choose the correct question to ask for the time.",
+      "context": "Clase de ingles de sexto grado en la que se repasa la manera de preguntar y decir la hora.",
       "options": [
         {
           "letter": "A",
-          "text": "Option A (Correct)",
-          "is_correct": true,
-          "feedback": "Correct! Well done."
-        },
-        {
-          "letter": "B",
-          "text": "Option D",
+          "text": "How old are you?",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "That question asks for an age, not for the time, so it cannot be used to ask the time."
         },
         {
           "letter": "C",
-          "text": "Option C",
-          "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
-        },
-        {
-          "letter": "D",
-          "text": "Option B",
-          "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "This question evaluates the student's ability to remember the topic of Telling the Time at an A2 level. It focuses on Colombian contexts and standard A2 grammar.\n\n---",
-      "difficulty": "4",
-      "images": [],
-      "tags": [],
-      "bloom": "Remember",
-      "icfes_type": "Reading Comprehension",
-      "expected_success": 0.75,
-      "bundle_id": "CO-ING-6-2026-W28-telling-time-001-MASTERY-bundle",
-      "periodo": 28,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ingles",
-      "grade": 6,
-      "country": "co"
-    },
-    {
-      "id": "CO-ING-6-2026-W28-telling-time-002-v1",
-      "statement": "Select the correct A2 level use for telling-time.",
-      "context": "Scenario about telling-time in a Colombian school or city context.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "Structure 1 (Correct)",
+          "text": "What time is it?",
           "is_correct": true,
-          "feedback": "Correct! Well done."
+          "feedback": "What time is it is the standard way to ask the time in English."
         },
         {
           "letter": "B",
-          "text": "Structure 3",
+          "text": "How much is it?",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
-        },
-        {
-          "letter": "C",
-          "text": "Structure 2",
-          "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "That question asks for a price and has a different structure from the one about the time."
         },
         {
           "letter": "D",
-          "text": "Structure 4",
+          "text": "Where is it?",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "This question evaluates the student's ability to remember the topic of Telling the Time at an A2 level. It focuses on Colombian contexts and standard A2 grammar.\n\n---",
-      "difficulty": "4",
-      "images": [],
-      "tags": [],
-      "bloom": "Remember",
-      "icfes_type": "Reading Comprehension",
-      "expected_success": 0.75,
-      "bundle_id": "CO-ING-6-2026-W28-telling-time-001-MASTERY-bundle",
-      "periodo": 28,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ingles",
-      "grade": 6,
-      "country": "co"
-    },
-    {
-      "id": "CO-ING-6-2026-W28-telling-time-003-v1",
-      "statement": "Identify the appropriate vocabulary for telling-time.",
-      "context": "Scenario about telling-time in a Colombian school or city context.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "Word 2",
-          "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
-        },
-        {
-          "letter": "B",
-          "text": "Word 1 (Correct)",
-          "is_correct": true,
-          "feedback": "Correct! Well done."
-        },
-        {
-          "letter": "C",
-          "text": "Word 4",
-          "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
-        },
-        {
-          "letter": "D",
-          "text": "Word 3",
-          "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
-        }
-      ],
-      "correct_answer": "B",
-      "explanation": "This question evaluates the student's ability to understand the topic of Telling the Time at an A2 level. It focuses on Colombian contexts and standard A2 grammar.\n\n---",
-      "difficulty": "6",
-      "images": [],
-      "tags": [],
-      "bloom": "Understand",
-      "icfes_type": "Reading Comprehension",
-      "expected_success": 0.75,
-      "bundle_id": "CO-ING-6-2026-W28-telling-time-001-MASTERY-bundle",
-      "periodo": 28,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ingles",
-      "grade": 6,
-      "country": "co"
-    },
-    {
-      "id": "CO-ING-6-2026-W28-telling-time-004-v1",
-      "statement": "Complete the sentence about telling-time.",
-      "context": "Scenario about telling-time in a Colombian school or city context.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "Phrase B",
-          "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
-        },
-        {
-          "letter": "B",
-          "text": "Phrase C",
-          "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
-        },
-        {
-          "letter": "C",
-          "text": "Phrase D",
-          "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
-        },
-        {
-          "letter": "D",
-          "text": "Phrase A (Correct)",
-          "is_correct": true,
-          "feedback": "Correct! Well done."
-        }
-      ],
-      "correct_answer": "D",
-      "explanation": "This question evaluates the student's ability to understand the topic of Telling the Time at an A2 level. It focuses on Colombian contexts and standard A2 grammar.\n\n---",
-      "difficulty": "6",
-      "images": [],
-      "tags": [],
-      "bloom": "Understand",
-      "icfes_type": "Reading Comprehension",
-      "expected_success": 0.75,
-      "bundle_id": "CO-ING-6-2026-W28-telling-time-001-MASTERY-bundle",
-      "periodo": 28,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ingles",
-      "grade": 6,
-      "country": "co"
-    },
-    {
-      "id": "CO-ING-6-2026-W28-telling-time-005-v1",
-      "statement": "What is the best way to express telling-time?",
-      "context": "Scenario about telling-time in a Colombian school or city context.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "Incorrect way",
-          "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
-        },
-        {
-          "letter": "B",
-          "text": "That way",
-          "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
-        },
-        {
-          "letter": "C",
-          "text": "This way (Correct)",
-          "is_correct": true,
-          "feedback": "Correct! Well done."
-        },
-        {
-          "letter": "D",
-          "text": "Other way",
-          "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "That question asks for a place and has nothing to do with the clock."
         }
       ],
       "correct_answer": "C",
-      "explanation": "This question evaluates the student's ability to apply the topic of Telling the Time at an A2 level. It focuses on Colombian contexts and standard A2 grammar.\n\n---",
-      "difficulty": "6",
+      "explanation": "What time is it se usa con el reloj analogico o digital y se responde con una estructura como It is seven o It is half past seven. Como la hora tiene un uso propio, conviene memorizarla como bloque y no construirla por partes.",
+      "difficulty": "4",
       "images": [],
       "tags": [],
-      "bloom": "Apply",
-      "icfes_type": "Reading Comprehension",
-      "expected_success": 0.75,
+      "bloom": "Understand",
+      "icfes_type": "Uso de la lengua",
+      "expected_success": 0.8,
       "bundle_id": "CO-ING-6-2026-W28-telling-time-001-MASTERY-bundle",
       "periodo": 28,
       "protocol_version": "5.2",
@@ -238,43 +54,43 @@
       "country": "co"
     },
     {
-      "id": "CO-ING-6-2026-W28-telling-time-006-v1",
-      "statement": "Find the error in this telling-time sentence.",
-      "context": "Scenario about telling-time in a Colombian school or city context.",
+      "id": "CO-ING-6-2026-W28-telling-time-001-MASTERY-bundle-v2",
+      "statement": "The minute hand points to 12 and the hour hand points to 3. What time is it?",
+      "context": "Ejercicio de lectura de un reloj en una actividad sobre la rutina diaria.",
       "options": [
         {
+          "letter": "D",
+          "text": "Three o'clock",
+          "is_correct": true,
+          "feedback": "When the minute hand points to 12, the exact hour is the one the hour hand shows, and that one points to 3."
+        },
+        {
           "letter": "A",
-          "text": "No error",
+          "text": "Twelve o'clock",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "Twelve o'clock would be the position the hour hand would be in, not the minute hand."
         },
         {
           "letter": "B",
-          "text": "Wrong error",
+          "text": "Half past three",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "Half past three is three thirty, and at that moment the minute hand would be on the 6."
         },
         {
           "letter": "C",
-          "text": "Different error",
+          "text": "A quarter past three",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
-        },
-        {
-          "letter": "D",
-          "text": "The error is here (Correct)",
-          "is_correct": true,
-          "feedback": "Correct! Well done."
+          "feedback": "A quarter past three is three fifteen, and the minute hand would point to 3, not to 12."
         }
       ],
       "correct_answer": "D",
-      "explanation": "This question evaluates the student's ability to apply the topic of Telling the Time at an A2 level. It focuses on Colombian contexts and standard A2 grammar.\n\n---",
-      "difficulty": "8",
+      "explanation": "En las horas en punto la aguja de minutos esta siempre en el 12 y la aguja de horas indica el numero. Reconocer esa configuracion es lo que permite distinguir las tres en punto de las tres y media o las tres y cuarto.",
+      "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Apply",
-      "icfes_type": "Reading Comprehension",
-      "expected_success": 0.75,
+      "icfes_type": "Uso de la lengua",
+      "expected_success": 0.8,
       "bundle_id": "CO-ING-6-2026-W28-telling-time-001-MASTERY-bundle",
       "periodo": 28,
       "protocol_version": "5.2",
@@ -284,43 +100,43 @@
       "country": "co"
     },
     {
-      "id": "CO-ING-6-2026-W28-telling-time-007-v1",
-      "statement": "Match the term with the definition of telling-time.",
-      "context": "Scenario about telling-time in a Colombian school or city context.",
+      "id": "CO-ING-6-2026-W28-telling-time-001-MASTERY-bundle-v3",
+      "statement": "Convert 15:00 to the twelve-hour clock.",
+      "context": "Ejercicio de conversion de la hora militar a la hora de reloj.",
       "options": [
         {
           "letter": "A",
-          "text": "Non-matching",
+          "text": "13:00",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "13:00 corresponds to one o'clock and not to fifteen in the 24-hour format."
         },
         {
           "letter": "B",
-          "text": "Matching term (Correct)",
-          "is_correct": true,
-          "feedback": "Correct! Well done."
-        },
-        {
-          "letter": "C",
-          "text": "Irrelevant",
+          "text": "15:00 p.m.",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "On a 12-hour clock the number cannot reach fifteen, because the cycle runs from one to twelve."
         },
         {
           "letter": "D",
-          "text": "Opposite",
+          "text": "3:00 p.m.",
+          "is_correct": true,
+          "feedback": "15:00 in the 24-hour format equals three in the afternoon on a 12-hour clock."
+        },
+        {
+          "letter": "C",
+          "text": "3:00 a.m.",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "Three in the early morning is 3:00 a.m., not 15:00."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "This question evaluates the student's ability to apply the topic of Telling the Time at an A2 level. It focuses on Colombian contexts and standard A2 grammar.\n\n---",
-      "difficulty": "8",
+      "correct_answer": "D",
+      "explanation": "Para pasar de 24 a 12 horas se toma el numero, se le restan doce cuando supera el doce y se conserva el sufijo. La confusion entre a.m. y p.m. es el error mas frecuente y se resuelve recordando que a.m. va de medianoche a mediodia.",
+      "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Apply",
-      "icfes_type": "Reading Comprehension",
-      "expected_success": 0.75,
+      "icfes_type": "Uso de la lengua",
+      "expected_success": 0.85,
       "bundle_id": "CO-ING-6-2026-W28-telling-time-001-MASTERY-bundle",
       "periodo": 28,
       "protocol_version": "5.2",
@@ -330,43 +146,43 @@
       "country": "co"
     },
     {
-      "id": "CO-ING-6-2026-W28-telling-time-008-v1",
-      "statement": "Choose the synonym for a word related to telling-time.",
-      "context": "Scenario about telling-time in a Colombian school or city context.",
+      "id": "CO-ING-6-2026-W28-telling-time-001-MASTERY-bundle-v4",
+      "statement": "Read: \"The school bell rings at half past seven.\" At what time does it ring?",
+      "context": "Lectura de un horario de actividades escolares.",
       "options": [
         {
-          "letter": "A",
-          "text": "Synonym (Correct)",
-          "is_correct": true,
-          "feedback": "Correct! Well done."
+          "letter": "B",
+          "text": "7:00",
+          "is_correct": false,
+          "feedback": "7:00 would be the exact hour, but the text says half past seven."
         },
         {
-          "letter": "B",
-          "text": "Antonym",
-          "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "letter": "A",
+          "text": "7:30",
+          "is_correct": true,
+          "feedback": "Half past seven means seven thirty, which is written 7:30."
         },
         {
           "letter": "C",
-          "text": "Unrelated",
+          "text": "7:15",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "7:15 is quarter past seven, or seven fifteen, not half past seven."
         },
         {
           "letter": "D",
-          "text": "Homonym",
+          "text": "8:30",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "8:30 would be half past eight, and the text is talking about seven thirty."
         }
       ],
       "correct_answer": "A",
-      "explanation": "This question evaluates the student's ability to analyze the topic of Telling the Time at an A2 level. It focuses on Colombian contexts and standard A2 grammar.\n\n---",
-      "difficulty": "8",
+      "explanation": "Half past seven y quarter to eight describen el mismo instante con dos estructuras distintas: siete y media y ocho menos cuarto. Saber que ambas expresiones coinciden ayuda a entender la hora tanto si se oye half past como si se oye quarter to.",
+      "difficulty": "4",
       "images": [],
       "tags": [],
-      "bloom": "Analyze",
-      "icfes_type": "Reading Comprehension",
-      "expected_success": 0.75,
+      "bloom": "Understand",
+      "icfes_type": "Uso de la lengua",
+      "expected_success": 0.85,
       "bundle_id": "CO-ING-6-2026-W28-telling-time-001-MASTERY-bundle",
       "periodo": 28,
       "protocol_version": "5.2",
@@ -376,43 +192,135 @@
       "country": "co"
     },
     {
-      "id": "CO-ING-6-2026-W28-telling-time-009-v1",
-      "statement": "Which of these belongs to telling-time?",
-      "context": "Scenario about telling-time in a Colombian school or city context.",
+      "id": "CO-ING-6-2026-W28-telling-time-001-MASTERY-bundle-v5",
+      "statement": "How do you say 09:45 in English?",
+      "context": "Ejercicio de escritura de la hora en un cuaderno de actividades.",
       "options": [
         {
           "letter": "A",
-          "text": "Neither",
-          "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "text": "A quarter to ten",
+          "is_correct": true,
+          "feedback": "A quarter to ten is nine forty-five, which is exactly what the exercise asks for."
         },
         {
           "letter": "B",
-          "text": "This one (Correct)",
-          "is_correct": true,
-          "feedback": "Correct! Well done."
+          "text": "A quarter past nine",
+          "is_correct": false,
+          "feedback": "A quarter past nine is nine fifteen, and not nine forty-five."
         },
         {
           "letter": "C",
-          "text": "Not this one",
+          "text": "Half past nine",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "Half past nine is nine thirty, and the clock shows forty-five minutes."
         },
         {
           "letter": "D",
-          "text": "Both",
+          "text": "Ten o'clock",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "Ten o'clock would leave the forty-five minutes unexplained, so it does not reach the time asked for."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Los minutos entre el 45 y el 60 se expresan con quarter to o to, que cuentan hacia la hora siguiente. En este caso los 45 minutos equivalen a un cuarto para las diez, y por eso la respuesta correcta es a quarter to ten.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Uso de la lengua",
+      "expected_success": 0.8,
+      "bundle_id": "CO-ING-6-2026-W28-telling-time-001-MASTERY-bundle",
+      "periodo": 28,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-6-2026-W28-telling-time-001-MASTERY-bundle-v6",
+      "statement": "Read: \"We leave home at seven and arrive at school at half past seven.\" How long is the trip?",
+      "context": "Actividad de conversacion sobre la hora de llegada a la escuela.",
+      "options": [
+        {
+          "letter": "B",
+          "text": "One hour",
+          "is_correct": false,
+          "feedback": "One hour would be the trip if the arrival were at eight o'clock."
+        },
+        {
+          "letter": "A",
+          "text": "Half an hour",
+          "is_correct": true,
+          "feedback": "Half an hour goes from seven to seven thirty, which is exactly the difference in the text."
+        },
+        {
+          "letter": "C",
+          "text": "Thirty minutes to nine",
+          "is_correct": false,
+          "feedback": "That expression equals eight thirty, an hour that does not appear in the text."
+        },
+        {
+          "letter": "D",
+          "text": "Two hours",
+          "is_correct": false,
+          "feedback": "Two hours would double the difference that the question states."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Calcular una duracion a partir de dos horas es un ejercicio de comprension numerica disfrazado de ejercicio de reloj. La estrategia es restar la hora de llegada a la hora de partida y expresar el resultado con una de las estructuras de minutos.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Uso de la lengua",
+      "expected_success": 0.8,
+      "bundle_id": "CO-ING-6-2026-W28-telling-time-001-MASTERY-bundle",
+      "periodo": 28,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-6-2026-W28-telling-time-001-MASTERY-bundle-v7",
+      "statement": "Choose the correct sentence to propose a time.",
+      "context": "Ejercicio de negociacion de la hora de una reunion entre companeros.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Is at four o'clock possible for you?",
+          "is_correct": false,
+          "feedback": "The sentence is missing the subject and the auxiliary of the interrogative present simple."
+        },
+        {
+          "letter": "B",
+          "text": "Is four o'clock possible for you?",
+          "is_correct": true,
+          "feedback": "The structure Is four o'clock possible is built as a question with the verb to be at the front."
+        },
+        {
+          "letter": "C",
+          "text": "Four o'clock is possible for you?",
+          "is_correct": false,
+          "feedback": "Placing the question word at the end without a verb produces a sentence that is not a correct question."
+        },
+        {
+          "letter": "D",
+          "text": "Are four o'clock possible for you?",
+          "is_correct": false,
+          "feedback": "The plural verb to be does not agree with the singular subject four o'clock."
         }
       ],
       "correct_answer": "B",
-      "explanation": "This question evaluates the student's ability to analyze the topic of Telling the Time at an A2 level. It focuses on Colombian contexts and standard A2 grammar.\n\n---",
-      "difficulty": "10",
+      "explanation": "Las preguntas que empiezan por el verbo to be colocan el verbo delante del sujeto. Esa inversion, junto con la concordancia entre are e is, es lo que se revisa en la unidad de preguntas del presente simple.",
+      "difficulty": "4",
       "images": [],
       "tags": [],
-      "bloom": "Analyze",
-      "icfes_type": "Reading Comprehension",
-      "expected_success": 0.75,
+      "bloom": "Apply",
+      "icfes_type": "Uso de la lengua",
+      "expected_success": 0.85,
       "bundle_id": "CO-ING-6-2026-W28-telling-time-001-MASTERY-bundle",
       "periodo": 28,
       "protocol_version": "5.2",
@@ -422,43 +330,135 @@
       "country": "co"
     },
     {
-      "id": "CO-ING-6-2026-W28-telling-time-010-v1",
-      "statement": "Predict the next word in the telling-time context.",
-      "context": "Scenario about telling-time in a Colombian school or city context.",
+      "id": "CO-ING-6-2026-W28-telling-time-001-MASTERY-bundle-v8",
+      "statement": "Read: \"The dance starts at five and the football match finishes at a quarter to seven.\" What time does the football match finish?",
+      "context": "Lectura de un programa de actividades de una tarde de festival escolar.",
       "options": [
         {
-          "letter": "A",
-          "text": "Correct prediction",
+          "letter": "B",
+          "text": "6:45",
           "is_correct": true,
-          "feedback": "Correct! Well done."
+          "feedback": "6:45 is quarter to seven, which is exactly what the text says."
         },
         {
-          "letter": "B",
-          "text": "Maybe",
+          "letter": "A",
+          "text": "7:15",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "7:15 is quarter past seven and would be a different result from the one in the sentence."
         },
         {
           "letter": "C",
-          "text": "Impossible",
+          "text": "6:15",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "6:15 is quarter past six and does not correspond to a quarter to seven."
         },
         {
           "letter": "D",
-          "text": "Wrong prediction",
+          "text": "7:45",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "7:45 is quarter to eight and describes an hour later than the one in the text."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "This question evaluates the student's ability to evaluate the topic of Telling the Time at an A2 level. It focuses on Colombian contexts and standard A2 grammar.\n\n---",
-      "difficulty": "10",
+      "correct_answer": "B",
+      "explanation": "Convertir quarter to seven en su forma numerica exige calcular un cuarto antes de las siete, es decir, 15 minutos menos de 60 en la hora. Ese calculo separa las cuatro expresiones que suele confundir a los estudiantes.",
+      "difficulty": "4",
       "images": [],
       "tags": [],
-      "bloom": "Evaluate",
-      "icfes_type": "Reading Comprehension",
-      "expected_success": 0.75,
+      "bloom": "Understand",
+      "icfes_type": "Uso de la lengua",
+      "expected_success": 0.8,
+      "bundle_id": "CO-ING-6-2026-W28-telling-time-001-MASTERY-bundle",
+      "periodo": 28,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-6-2026-W28-telling-time-001-MASTERY-bundle-v9",
+      "statement": "Which sentence uses the twelve-hour clock correctly?",
+      "context": "Ejercicio de descripcion del horario de la vida diaria de un estudiante.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "The library closes at 19:00.",
+          "is_correct": false,
+          "feedback": "A 12-hour clock does not reach nineteen, because its cycle runs from one to twelve."
+        },
+        {
+          "letter": "B",
+          "text": "The library closes at 7:00 p.m.",
+          "is_correct": true,
+          "feedback": "19:00 in the 24-hour format is written 7:00 p.m. on a 12-hour clock."
+        },
+        {
+          "letter": "C",
+          "text": "The library closes at 19:00 p.m.",
+          "is_correct": false,
+          "feedback": "Combining a number greater than twelve with the p.m. suffix repeats the information and is incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "The library closes at 7:00 p.m. in the morning.",
+          "is_correct": false,
+          "feedback": "The p.m. suffix means in the afternoon and cannot be accompanied by the phrase in the morning."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El sufijo p.m. reemplaza por completo la notacion de 24 horas y por eso jamas se combina con un numero mayor que doce ni con una frase que contradiga el momento del dia.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Uso de la lengua",
+      "expected_success": 0.8,
+      "bundle_id": "CO-ING-6-2026-W28-telling-time-001-MASTERY-bundle",
+      "periodo": 28,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-6-2026-W28-telling-time-001-MASTERY-bundle-v10",
+      "statement": "Which question asks about the time correctly?",
+      "context": "Actividad final de la unidad en la que se redacta la agenda personal de cada estudiante.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "At time you arrive?",
+          "is_correct": false,
+          "feedback": "The At at the beginning is redundant in a question and leaves the sentence incomplete."
+        },
+        {
+          "letter": "C",
+          "text": "What time do you arrive?",
+          "is_correct": true,
+          "feedback": "What time do you arrive asks for the hour of arrival with the standard present simple structure."
+        },
+        {
+          "letter": "B",
+          "text": "How time do you arrive?",
+          "is_correct": false,
+          "feedback": "How is not used to ask the time, so that question is incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "Do you arrive what time?",
+          "is_correct": false,
+          "feedback": "The question cannot end with the wh-phrase without an auxiliary verb."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Las preguntas de tiempo en presente simple siguen el orden What time mas verbo mas sujeto, y no admiten How porque esa palabra interrogativa no existe para este uso. El orden de los elementos es lo que distingue una pregunta bien formada.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Uso de la lengua",
+      "expected_success": 0.85,
       "bundle_id": "CO-ING-6-2026-W28-telling-time-001-MASTERY-bundle",
       "periodo": 28,
       "protocol_version": "5.2",

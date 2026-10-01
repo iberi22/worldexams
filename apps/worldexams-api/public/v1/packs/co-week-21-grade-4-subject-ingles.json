@@ -16,25 +16,25 @@
           "letter": "A",
           "text": "A cow",
           "is_correct": true,
-          "feedback": "Correct!"
+          "feedback": "Cows are the farm animals that produce the milk we drink, so this is the answer."
         },
         {
           "letter": "B",
           "text": "A dog",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "A dog is a pet that barks; it does not give us milk."
         },
         {
           "letter": "C",
           "text": "A lion",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "A lion lives in the wild and hunts other animals; it does not give us milk."
         },
         {
           "letter": "D",
           "text": "A bird",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "A bird lays eggs; it does not produce milk."
         }
       ],
       "correct_answer": "A",
@@ -62,25 +62,25 @@
           "letter": "A",
           "text": "A monkey",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "A monkey is brown or black, without black and white stripes."
         },
         {
           "letter": "B",
           "text": "A zebra",
           "is_correct": true,
-          "feedback": "Correct!"
+          "feedback": "A zebra has black and white stripes all over its body, so this is the answer."
         },
         {
           "letter": "C",
           "text": "A giraffe",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "A giraffe is yellow with brown spots, not striped."
         },
         {
           "letter": "D",
           "text": "An elephant",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "An elephant is grey and has no stripes."
         }
       ],
       "correct_answer": "B",
@@ -108,25 +108,25 @@
           "letter": "A",
           "text": "Oink",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "A pig says \"oink\", not the sound a cat makes."
         },
         {
           "letter": "B",
           "text": "Quack",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "A duck says \"quack\"; a cat says \"meow\"."
         },
         {
           "letter": "C",
           "text": "Meow",
           "is_correct": true,
-          "feedback": "Correct!"
+          "feedback": "A cat says \"meow\", so this is the answer."
         },
         {
           "letter": "D",
           "text": "Woof",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "A dog says \"woof\", not \"meow\"."
         }
       ],
       "correct_answer": "C",
@@ -154,25 +154,25 @@
           "letter": "A",
           "text": "A bear",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "A bear has a short neck; the animal with a very long neck is the giraffe."
         },
         {
           "letter": "B",
           "text": "A tiger",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "A tiger has a normal-length neck and a striped body."
         },
         {
           "letter": "C",
           "text": "A horse",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "A horse has a long neck compared to a person, but the animal famous for its extremely long neck is the giraffe."
         },
         {
           "letter": "D",
           "text": "A giraffe",
           "is_correct": true,
-          "feedback": "Correct!"
+          "feedback": "A giraffe stretches its very long neck up to the highest leaves of a tree, so this is the answer."
         }
       ],
       "correct_answer": "D",
@@ -200,25 +200,25 @@
           "letter": "A",
           "text": "wings",
           "is_correct": true,
-          "feedback": "Correct!"
+          "feedback": "Wings are the flat feathers on the sides of a bird that it beats to lift off and fly."
         },
         {
           "letter": "B",
           "text": "feet",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "A bird uses its feet to stand and to perch, not to fly."
         },
         {
           "letter": "C",
           "text": "tail",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "The tail helps steer and balance; it is not the part that lifts the bird into the air."
         },
         {
           "letter": "D",
           "text": "trunk",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "A trunk is an elephant's nose; birds do not have trunks."
         }
       ],
       "correct_answer": "A",
@@ -246,25 +246,25 @@
           "letter": "A",
           "text": "a car",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "A fish cannot live in a car; it needs water to breathe with its gills."
         },
         {
           "letter": "B",
           "text": "water",
           "is_correct": true,
-          "feedback": "Correct!"
+          "feedback": "Water is where fish live and breathe, so \"water\" completes the sentence."
         },
         {
           "letter": "C",
           "text": "a house",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "A fish cannot live in a house; it needs water."
         },
         {
           "letter": "D",
           "text": "a tree",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "A fish cannot live in a tree; it needs water to breathe."
         }
       ],
       "correct_answer": "B",
@@ -292,25 +292,25 @@
           "letter": "A",
           "text": "wings",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "A rabbit has no wings; it hops on its back legs."
         },
         {
           "letter": "B",
           "text": "tails",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "A rabbit's tail is very short and round, so it is not described by \"long\"."
         },
         {
           "letter": "C",
           "text": "ears",
           "is_correct": true,
-          "feedback": "Correct!"
+          "feedback": "A rabbit has two long ears that turn to catch sounds, so \"ears\" completes the sentence."
         },
         {
           "letter": "D",
           "text": "noses",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "A rabbit has one small nose on its face; its nose is not long."
         }
       ],
       "correct_answer": "C",
@@ -338,25 +338,25 @@
           "letter": "A",
           "text": "domestic",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "A \"domestic\" animal lives with people at home, like a dog; a lion is not domestic."
         },
         {
           "letter": "B",
           "text": "small",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "A lion is a big animal, not a small one."
         },
         {
           "letter": "C",
           "text": "pet",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "A \"pet\" animal is kept at home; a lion lives in the wild."
         },
         {
           "letter": "D",
           "text": "wild",
           "is_correct": true,
-          "feedback": "Correct!"
+          "feedback": "A lion hunts in nature and no one keeps it as a pet, so it is a \"wild\" animal."
         }
       ],
       "correct_answer": "D",

@@ -384,25 +384,25 @@
           "letter": "A",
           "text": "been",
           "is_correct": false,
-          "feedback": "Incorrect. \"Been\" means she went and came back."
+          "feedback": "'Been' says she went and came back, but she has not returned yet."
         },
         {
           "letter": "B",
           "text": "gone",
           "is_correct": true,
-          "feedback": "Correct! \"Gone\" means she is still at the destination or on her way there."
+          "feedback": "Correct. 'Has gone to' says she left and is still at the destination or on her way, which matches 'she'll be back in ten minutes'."
         },
         {
           "letter": "C",
           "text": "went",
           "is_correct": false,
-          "feedback": "Incorrect. We need a participle after \"has\" ('s)."
+          "feedback": "'Went' is the past simple form; after 'has' the verb must be a past participle."
         },
         {
           "letter": "D",
           "text": "go",
           "is_correct": false,
-          "feedback": "Incorrect."
+          "feedback": "'Go' is the base form, and the Present Perfect needs the past participle 'gone' after 'has'."
         }
       ],
       "correct_answer": "B",

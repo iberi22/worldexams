@@ -1429,7 +1429,7 @@
           "letter": "D",
           "text": "$x < -3$",
           "is_correct": false,
-          "feedback": "Incorreto."
+          "feedback": "Como a base 1/2 é menor que 1, a desigualdade inverte o sentido e vale x > 3, e não x < −3."
         }
       ],
       "correct_answer": "B",
@@ -1726,13 +1726,13 @@
           "letter": "A",
           "text": "$x > 2$",
           "is_correct": false,
-          "feedback": "Esta é apenas uma parte da solução."
+          "feedback": "x > 2 é só uma das partes da solução. Como a parábola x² + x - 6 é positiva fora das raízes, também vale todo x < -3."
         },
         {
           "letter": "B",
           "text": "$x < -3$",
           "is_correct": false,
-          "feedback": "Esta é apenas uma parte da solução."
+          "feedback": "x < -3 é apenas metade da solução: a desigualdade x² + x - 6 > 0 também é satisfeita para x > 2."
         },
         {
           "letter": "D",

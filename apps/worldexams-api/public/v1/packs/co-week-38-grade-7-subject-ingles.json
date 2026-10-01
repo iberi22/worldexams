@@ -62,25 +62,25 @@
           "letter": "B",
           "text": "Base form (e.g., eat)",
           "is_correct": false,
-          "feedback": "Incorrect."
+          "feedback": "The base form follows 'do', 'does' or a modal such as 'can', not the auxiliary 'have'."
         },
         {
           "letter": "C",
           "text": "Past form (e.g., ate)",
           "is_correct": false,
-          "feedback": "Incorrect."
+          "feedback": "The past form is used on its own in the Past Simple, as in 'I ate', not after 'have'."
         },
         {
           "letter": "A",
           "text": "Past Participle (e.g., eaten)",
           "is_correct": true,
-          "feedback": "Correct! We use the third column of verbs (past participle)."
+          "feedback": "Correct. The Present Perfect is built with 'have' or 'has' followed by the past participle, the third column of the verb table."
         },
         {
           "letter": "D",
           "text": "Continuous form (e.g., eating)",
           "is_correct": false,
-          "feedback": "Incorrect."
+          "feedback": "The continuous form needs 'be' plus 'ing', as in 'I am eating', which is the Present Perfect Continuous."
         }
       ],
       "correct_answer": "A",
@@ -108,25 +108,25 @@
           "letter": "B",
           "text": "have saw",
           "is_correct": false,
-          "feedback": "Incorrect. \"Saw\" is the past form; \"seen\" is the participle."
+          "feedback": "'Saw' is the past form used in the Past Simple; the participle of 'see' is 'seen'."
         },
         {
           "letter": "A",
           "text": "have seen",
           "is_correct": true,
-          "feedback": "Correct! Auxiliary \"have\" + past participle \"seen\"."
+          "feedback": "Correct. The Present Perfect is 'have' plus the past participle 'seen'."
         },
         {
           "letter": "C",
           "text": "has seen",
           "is_correct": false,
-          "feedback": "Incorrect. \"Has\" is for third person singular."
+          "feedback": "'Has' goes with a third person singular subject such as 'she', but the subject here is 'I'."
         },
         {
           "letter": "D",
           "text": "am seen",
           "is_correct": false,
-          "feedback": "Incorrect structure."
+          "feedback": "The Present Perfect needs the auxiliary 'have' or 'has'; 'am' only appears with continuous forms."
         }
       ],
       "correct_answer": "A",

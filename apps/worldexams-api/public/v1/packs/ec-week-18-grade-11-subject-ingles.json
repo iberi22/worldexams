@@ -8,172 +8,127 @@
   },
   "questions": [
     {
-      "id": "EC-ING-11-2026-W18-causative-have-get-001-MASTERY-v1",
-      "statement": "What is the English word for: \"A place where you live or stay on holiday.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "id": "EC-ING-11-2026-W18-causative-have-get-001-MASTERY-bundle-v1",
+      "statement": "Which sentence uses the causative correctly?",
+      "context": "Practica del causative, Quito, grado 11.",
       "options": [
         {
-          "letter": "D",
-          "text": "accommodation",
-          "is_correct": true,
-          "feedback": "Correct! 'accommodation' matches the definition."
-        },
-        {
           "letter": "A",
-          "text": "transportation",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "text": "She had her hair cut at the salon.",
+          "is_correct": true,
+          "feedback": "'Have something done' expresses that someone else performs the action."
         },
         {
           "letter": "B",
-          "text": "entertainment",
+          "text": "She had cut her hair at the salon.",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "'Had cut' would mean she performed the action herself in the past."
         },
         {
           "letter": "C",
-          "text": "currency",
+          "text": "She has cut her hair at the salon.",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "That says she cut it herself, without causative meaning."
+        },
+        {
+          "letter": "D",
+          "text": "She is hair cut at the salon.",
+          "is_correct": false,
+          "feedback": "'Is' plus participle does not express the causative structure."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La estructura causative causative indica que una persona Provoca una accion realize otra persona.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.8,
+      "bundle_id": "EC-ING-11-2026-W18-causative-have-get-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-ING-11-2026-W18-causative-have-get-001-MASTERY-bundle-v2",
+      "statement": "Complete: 'They are building a new library; the contractor ____ it for the city council.'",
+      "context": "Causative en construccion, Quito.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "has built",
+          "is_correct": true,
+          "feedback": "'Is building' with 'has built' means the contractor performs the building."
+        },
+        {
+          "letter": "B",
+          "text": "is building",
+          "is_correct": false,
+          "feedback": "That would mean the city council itself is doing the work."
+        },
+        {
+          "letter": "C",
+          "text": "builds",
+          "is_correct": false,
+          "feedback": "A bare verb gives no causative meaning."
+        },
+        {
+          "letter": "D",
+          "text": "built",
+          "is_correct": false,
+          "feedback": "The past simple refers to a completed past action, not to the ongoing one."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La forma causative exige 'have/get' mas objeto mas participio, y el presente coincide con la accion en curso.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.8,
+      "bundle_id": "EC-ING-11-2026-W18-causative-have-get-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-ING-11-2026-W18-causative-have-get-001-MASTERY-bundle-v3",
+      "statement": "What does 'I got my car repaired' mean?",
+      "context": "Comprension del causative, Guayaquil.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "The speaker repaired the car personally",
+          "is_correct": false,
+          "feedback": "That would be 'I repaired my car'."
+        },
+        {
+          "letter": "B",
+          "text": "The car was stolen",
+          "is_correct": false,
+          "feedback": "Nothing in the sentence refers to theft."
+        },
+        {
+          "letter": "C",
+          "text": "The speaker bought a new car",
+          "is_correct": false,
+          "feedback": "'Repaired' means fixed, not replaced."
+        },
+        {
+          "letter": "D",
+          "text": "The speaker had someone else repair the car",
+          "is_correct": true,
+          "feedback": "'Got it repaired' means the repair was done by another person."
         }
       ],
       "correct_answer": "D",
-      "explanation": "The word 'accommodation' is used to describe a place where you live or stay on holiday. This is an important vocabulary word in English.\n---",
-      "difficulty": "3",
-      "images": [],
-      "tags": [],
-      "bloom": "Remember",
-      "expected_success": 0.8,
-      "bundle_id": "EC-ING-11-2026-W18-causative-have-get-001-MASTERY-bundle",
-      "periodo": 18,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ingles",
-      "grade": 11,
-      "country": "ec"
-    },
-    {
-      "id": "EC-ING-11-2026-W18-causative-have-get-001-MASTERY-v2",
-      "statement": "What is the English word for: \"A detailed plan or route of a journey.\"",
-      "context": "Choose the correct English word for the given definition.",
-      "options": [
-        {
-          "letter": "B",
-          "text": "itinerary",
-          "is_correct": true,
-          "feedback": "Correct! 'itinerary' matches the definition."
-        },
-        {
-          "letter": "A",
-          "text": "baggage",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "C",
-          "text": "destination",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "D",
-          "text": "passport",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        }
-      ],
-      "correct_answer": "B",
-      "explanation": "The word 'itinerary' is used to describe a detailed plan or route of a journey. This is an important vocabulary word in English.\n---",
-      "difficulty": "4",
-      "images": [],
-      "tags": [],
-      "bloom": "Remember",
-      "expected_success": 0.8,
-      "bundle_id": "EC-ING-11-2026-W18-causative-have-get-001-MASTERY-bundle",
-      "periodo": 18,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ingles",
-      "grade": 11,
-      "country": "ec"
-    },
-    {
-      "id": "EC-ING-11-2026-W18-causative-have-get-001-MASTERY-v3",
-      "statement": "What is the English word for: \"The place to which someone or something is going or being sent.\"",
-      "context": "Choose the correct English word for the given definition.",
-      "options": [
-        {
-          "letter": "C",
-          "text": "destination",
-          "is_correct": true,
-          "feedback": "Correct! 'destination' matches the definition."
-        },
-        {
-          "letter": "A",
-          "text": "departure",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "B",
-          "text": "arrival",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "D",
-          "text": "journey",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        }
-      ],
-      "correct_answer": "C",
-      "explanation": "The word 'destination' is used to describe the place to which someone or something is going or being sent. This is an important vocabulary word in English.\n---",
-      "difficulty": "3",
-      "images": [],
-      "tags": [],
-      "bloom": "Understand",
-      "expected_success": 0.8,
-      "bundle_id": "EC-ING-11-2026-W18-causative-have-get-001-MASTERY-bundle",
-      "periodo": 18,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ingles",
-      "grade": 11,
-      "country": "ec"
-    },
-    {
-      "id": "EC-ING-11-2026-W18-causative-have-get-001-MASTERY-v4",
-      "statement": "What is the English word for: \"Suitcases or other bags in which to pack personal belongings for traveling.\"",
-      "context": "Choose the correct English word for the given definition.",
-      "options": [
-        {
-          "letter": "D",
-          "text": "luggage",
-          "is_correct": true,
-          "feedback": "Correct! 'luggage' matches the definition."
-        },
-        {
-          "letter": "A",
-          "text": "ticket",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "B",
-          "text": "flight",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "C",
-          "text": "reservation",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        }
-      ],
-      "correct_answer": "D",
-      "explanation": "The word 'luggage' is used to describe suitcases or other bags in which to pack personal belongings for traveling. This is an important vocabulary word in English.\n---",
+      "explanation": "'Get' mas objeto mas participio expresa que el hablante llevo el coche a un taller sin ejecutarlo el mismo.\n\n---",
       "difficulty": "4",
       "images": [],
       "tags": [],
@@ -188,41 +143,41 @@
       "country": "ec"
     },
     {
-      "id": "EC-ING-11-2026-W18-causative-have-get-001-MASTERY-v5",
-      "statement": "What is the English word for: \"A traveler on a public or private conveyance other than the driver, pilot, or crew.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "id": "EC-ING-11-2026-W18-causative-have-get-001-MASTERY-bundle-v4",
+      "statement": "Which sentence uses 'have' plus participle correctly?",
+      "context": "Aplicacion del causative, Cuenca.",
       "options": [
         {
-          "letter": "D",
-          "text": "passenger",
-          "is_correct": true,
-          "feedback": "Correct! 'passenger' matches the definition."
-        },
-        {
           "letter": "A",
-          "text": "pedestrian",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "text": "I have my windows cleaned every month.",
+          "is_correct": true,
+          "feedback": "The cleaning is performed by another person on a regular basis."
         },
         {
           "letter": "B",
-          "text": "commuter",
+          "text": "I have clean my windows every month.",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "The second verb must be the participle 'cleaned', not the base form."
         },
         {
           "letter": "C",
-          "text": "tourist",
+          "text": "I am clean my windows every month.",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "'Am' cannot be followed by a bare verb in this structure."
+        },
+        {
+          "letter": "D",
+          "text": "I cleaning my windows every month.",
+          "is_correct": false,
+          "feedback": "A gerund alone cannot function as the causative verb group."
         }
       ],
-      "correct_answer": "D",
-      "explanation": "The word 'passenger' is used to describe a traveler on a public or private conveyance other than the driver, pilot, or crew. This is an important vocabulary word in English.\n---",
-      "difficulty": "5",
+      "correct_answer": "A",
+      "explanation": "En la estructura causative el 'have' es el auxiliar y el participio expresa la accion Encargada.\n\n---",
+      "difficulty": "4",
       "images": [],
       "tags": [],
-      "bloom": "Understand",
+      "bloom": "Analyze",
       "expected_success": 0.8,
       "bundle_id": "EC-ING-11-2026-W18-causative-have-get-001-MASTERY-bundle",
       "periodo": 18,
@@ -233,37 +188,262 @@
       "country": "ec"
     },
     {
-      "id": "EC-ING-11-2026-W18-causative-have-get-001-MASTERY-v6",
-      "statement": "What is the English word for: \"The place at a port, airport, or frontier where officials check incoming goods, travelers, or luggage.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "id": "EC-ING-11-2026-W18-causative-have-get-001-MASTERY-bundle-v5",
+      "statement": "Look at the sentence: 'I had cut my hair very short.' What does it mean?",
+      "context": "Deteccion de errores, Quito.",
       "options": [
         {
-          "letter": "B",
-          "text": "customs",
-          "is_correct": true,
-          "feedback": "Correct! 'customs' matches the definition."
+          "letter": "A",
+          "text": "A hairdresser cut the speaker's hair",
+          "is_correct": false,
+          "feedback": "That requires the causative 'had it cut'."
         },
         {
-          "letter": "A",
-          "text": "security",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "letter": "B",
+          "text": "The speaker cut the speaker's own hair",
+          "is_correct": true,
+          "feedback": "'Had cut' without a following participle is the simple past perfect of 'cut'."
         },
         {
           "letter": "C",
-          "text": "terminal",
+          "text": "The speaker will cut the hair tomorrow",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Nothing in the sentence refers to the future."
         },
         {
           "letter": "D",
-          "text": "gate",
+          "text": "The hair was cut by the speaker last week",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "The sentence does not specify last week; it only uses the past perfect."
         }
       ],
       "correct_answer": "B",
-      "explanation": "The word 'customs' is used to describe the place at a port, airport, or frontier where officials check incoming goods, travelers, or luggage. This is an important vocabulary word in English.\n---",
+      "explanation": "Sin el participio, 'had cut' significa que el hablante se corto el pelo el mismo, no que se lo cortaron.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.8,
+      "bundle_id": "EC-ING-11-2026-W18-causative-have-get-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-ING-11-2026-W18-causative-have-get-001-MASTERY-bundle-v6",
+      "statement": "Complete the causative question: 'Where did you ____ your phone repaired?'",
+      "context": "Pregunta causative, Guayaquil.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "did get",
+          "is_correct": false,
+          "feedback": "Repeating 'did' makes the sentence ungrammatical."
+        },
+        {
+          "letter": "B",
+          "text": "getting",
+          "is_correct": false,
+          "feedback": "A gerund cannot open a past question with 'did'."
+        },
+        {
+          "letter": "C",
+          "text": "be",
+          "is_correct": false,
+          "feedback": "'Be' plus participle forms the passive voice, not the causative question."
+        },
+        {
+          "letter": "D",
+          "text": "get",
+          "is_correct": true,
+          "feedback": "'Did you get it repaired?' is a standard causative question."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "En pasado el causative usa 'did' mas objeto mas 'have' mas participio, o directamente 'get' mas participio.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.8,
+      "bundle_id": "EC-ING-11-2026-W18-causative-have-get-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-ING-11-2026-W18-causative-have-get-001-MASTERY-bundle-v7",
+      "statement": "Which sentence expresses the causative in the future?",
+      "context": "Causative con 'will', Cuenca.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "I will paint the kitchen next month.",
+          "is_correct": false,
+          "feedback": "That says the speaker will do the painting personally."
+        },
+        {
+          "letter": "B",
+          "text": "I will have the kitchen painted next month.",
+          "is_correct": true,
+          "feedback": "'Will have' plus participle expresses a future causative arrangement."
+        },
+        {
+          "letter": "C",
+          "text": "I have the kitchen painted next month.",
+          "is_correct": false,
+          "feedback": "The simple present would place the arrangement in a habitual sense, not clearly in the future."
+        },
+        {
+          "letter": "D",
+          "text": "I am painting the kitchen next month.",
+          "is_correct": false,
+          "feedback": "The present continuous plus 'next month' is awkward; the causative frame is required."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Para expresar el causative en el futuro se usa 'will have' mas objeto mas participio.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.8,
+      "bundle_id": "EC-ING-11-2026-W18-causative-have-get-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-ING-11-2026-W18-causative-have-get-001-MASTERY-bundle-v8",
+      "statement": "What is the difference between 'have' and 'get' in the causative?",
+      "context": "Analisis del causative, Quito.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "'Get' expresses the speaker doing the action",
+          "is_correct": false,
+          "feedback": "Both forms place the action in someone else's hands."
+        },
+        {
+          "letter": "B",
+          "text": "'Have' is only used in questions",
+          "is_correct": false,
+          "feedback": "The causative with 'have' appears mainly in statements."
+        },
+        {
+          "letter": "C",
+          "text": "They are completely unrelated in meaning",
+          "is_correct": false,
+          "feedback": "They are variants of the same causative structure."
+        },
+        {
+          "letter": "D",
+          "text": "'Have' is standard; 'get' is a common informal alternative",
+          "is_correct": true,
+          "feedback": "Both express that another person performs the action."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "'Have something done' es la forma estandar; 'get something done' es mas coloquial y significa lo mismo.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.8,
+      "bundle_id": "EC-ING-11-2026-W18-causative-have-get-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-ING-11-2026-W18-causative-have-get-001-MASTERY-bundle-v9",
+      "statement": "Choose the sentence that correctly uses the causative passive.",
+      "context": "Causative y pasiva, Guayaquil.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "They had repair the roof before the rains.",
+          "is_correct": false,
+          "feedback": "The second verb must be a participle, not the base form 'repair'."
+        },
+        {
+          "letter": "B",
+          "text": "They had the roof repair before the rains.",
+          "is_correct": false,
+          "feedback": "The bare 'repair' lacks the passive form 'repaired'."
+        },
+        {
+          "letter": "C",
+          "text": "They had the roof repaired before the rains.",
+          "is_correct": true,
+          "feedback": "'Roof repaired' is the passive participle of the action done to the roof."
+        },
+        {
+          "letter": "D",
+          "text": "They got the roof to repair before the rains.",
+          "is_correct": false,
+          "feedback": "'Get' plus infinitive does not express the causative here."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "En el causative pasivo el 'have/get' va seguido de un participio pasivo que describe la accion sobre un objeto.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.8,
+      "bundle_id": "EC-ING-11-2026-W18-causative-have-get-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-ING-11-2026-W18-causative-have-get-001-MASTERY-bundle-v10",
+      "statement": "Read the text: 'After the storm, the family had the roof repaired and the walls repainted.' What is the meaning?",
+      "context": "Comprension lectora, Cuenca.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "The family repaired and repainted everything themselves",
+          "is_correct": false,
+          "feedback": "That would require the simple past 'repaired' without 'had'."
+        },
+        {
+          "letter": "B",
+          "text": "The family built a new house",
+          "is_correct": false,
+          "feedback": "The text mentions repairs, not a new construction."
+        },
+        {
+          "letter": "C",
+          "text": "The family moved to another house",
+          "is_correct": false,
+          "feedback": "No change of residence is mentioned in the text."
+        },
+        {
+          "letter": "D",
+          "text": "Other people repaired the roof and repainted the walls",
+          "is_correct": true,
+          "feedback": "The causative 'had done' assigns the work to hired professionals."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Ambas acciones fueron realizadas por otras personas hired, no por la familia misma. Es uno de los puntos mas frecuentes de las pruebas de esta unidad.\n\n---",
       "difficulty": "6",
       "images": [],
       "tags": [],
@@ -278,38 +458,83 @@
       "country": "ec"
     },
     {
-      "id": "EC-ING-11-2026-W18-causative-have-get-001-MASTERY-v7",
-      "statement": "What is the English word for: \"A document provided by an airline during check-in, giving a passenger permission to board the airplane.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "id": "EC-ING-11-2026-W18-causative-have-get-001-MASTERY-bundle-v11",
+      "statement": "Which sentence is NOT a causative construction?",
+      "context": "Reconocimiento de estructuras, Quito.",
       "options": [
         {
-          "letter": "C",
-          "text": "boarding pass",
-          "is_correct": true,
-          "feedback": "Correct! 'boarding pass' matches the definition."
-        },
-        {
           "letter": "A",
-          "text": "visa",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "text": "They had a good time at the party.",
+          "is_correct": true,
+          "feedback": "'Have a good time' is an idiom meaning 'enjoy yourself', not a causative."
         },
         {
           "letter": "B",
-          "text": "receipt",
+          "text": "They had the car washed.",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "'Had the car washed' is a causative with a passive participle."
+        },
+        {
+          "letter": "C",
+          "text": "He had his photograph taken.",
+          "is_correct": false,
+          "feedback": "'Had his photograph taken' is a causative structure."
         },
         {
           "letter": "D",
-          "text": "brochure",
+          "text": "We had the walls painted.",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "'Had the walls painted' is a causative structure."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La frase 'have a good time' es una expresion idiomatica y no una estructura causative.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.8,
+      "bundle_id": "EC-ING-11-2026-W18-causative-have-get-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-ING-11-2026-W18-causative-have-get-001-MASTERY-bundle-v12",
+      "statement": "Complete the sentence: 'The office ____ its carpets cleaned every week.'",
+      "context": "Causative en contexto de servicios, Guayaquil.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "have",
+          "is_correct": false,
+          "feedback": "'Have' does not agree with the singular subject 'the office'."
+        },
+        {
+          "letter": "B",
+          "text": "is",
+          "is_correct": false,
+          "feedback": "'Is' plus 'cleaning' would mean the office cleans the carpets itself."
+        },
+        {
+          "letter": "C",
+          "text": "has",
+          "is_correct": true,
+          "feedback": "'Has' agrees with the singular subject and fits the habitual causative."
+        },
+        {
+          "letter": "D",
+          "text": "are",
+          "is_correct": false,
+          "feedback": "'Are' does not agree with the singular subject 'the office'."
         }
       ],
       "correct_answer": "C",
-      "explanation": "The word 'boarding pass' is used to describe a document provided by an airline during check-in, giving a passenger permission to board the airplane. This is an important vocabulary word in English.\n---",
-      "difficulty": "5",
+      "explanation": "El sujeto 'the office' encarga el trabajo y el auxiliar 'has' concuerda con el presente habitual.\n\n---",
+      "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Apply",
@@ -323,37 +548,82 @@
       "country": "ec"
     },
     {
-      "id": "EC-ING-11-2026-W18-causative-have-get-001-MASTERY-v8",
-      "statement": "What is the English word for: \"The activity of visiting places of interest in a particular location.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "id": "EC-ING-11-2026-W18-causative-have-get-001-MASTERY-bundle-v13",
+      "statement": "Which sentence correctly uses the causative with 'get' in the past?",
+      "context": "Causative en pasado, Cuenca.",
       "options": [
         {
-          "letter": "B",
-          "text": "sightseeing",
+          "letter": "A",
+          "text": "She got her computer fixed at the shop.",
           "is_correct": true,
-          "feedback": "Correct! 'sightseeing' matches the definition."
+          "feedback": "'Got it fixed' is a standard past causative with 'get'."
         },
         {
-          "letter": "A",
-          "text": "shopping",
+          "letter": "B",
+          "text": "She got fix her computer at the shop.",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "After 'got' the verb must be the participle 'fixed'."
         },
         {
           "letter": "C",
-          "text": "hiking",
+          "text": "She gets fix her computer at the shop.",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "The base form after the participle position is wrong here."
         },
         {
           "letter": "D",
-          "text": "camping",
+          "text": "She is get her computer fixed at the shop.",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "'Is' cannot be combined with 'get' in the causative."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "The word 'sightseeing' is used to describe the activity of visiting places of interest in a particular location. This is an important vocabulary word in English.\n---",
+      "correct_answer": "A",
+      "explanation": "En pasado, 'get' mas objeto mas participio aparece con 'did' o directamente en la oracion afirmativa.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.8,
+      "bundle_id": "EC-ING-11-2026-W18-causative-have-get-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-ING-11-2026-W18-causative-have-get-001-MASTERY-bundle-v14",
+      "statement": "Look at the question: 'Did you have your car serviced before the trip?' How should it be answered?",
+      "context": "Comprension de preguntas causative, Quito.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Yes, I serviced it on Monday.",
+          "is_correct": false,
+          "feedback": "That says the speaker did the work, which loses the causative meaning."
+        },
+        {
+          "letter": "B",
+          "text": "Yes, I am servicing it on Monday.",
+          "is_correct": false,
+          "feedback": "The present continuous does not answer a past question."
+        },
+        {
+          "letter": "C",
+          "text": "Yes, I had it serviced on Monday.",
+          "is_correct": true,
+          "feedback": "'Had it serviced' keeps the causative frame and the past time."
+        },
+        {
+          "letter": "D",
+          "text": "Yes, it was serviced by me.",
+          "is_correct": false,
+          "feedback": "The passive here suggests the speaker did it, contradicting the causative question."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Una respuesta coherente mantiene el pasado y aclara si el trabajo lo hizo alguien mas.\n\n---",
       "difficulty": "6",
       "images": [],
       "tags": [],
@@ -368,38 +638,83 @@
       "country": "ec"
     },
     {
-      "id": "EC-ING-11-2026-W18-causative-have-get-001-MASTERY-v9",
-      "statement": "What is the English word for: \"A thing that is kept as a reminder of a person, place, or event.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "id": "EC-ING-11-2026-W18-causative-have-get-001-MASTERY-bundle-v15",
+      "statement": "Which statement about the causative is correct?",
+      "context": "Marco conceptual, Guayaquil.",
       "options": [
         {
-          "letter": "D",
-          "text": "souvenir",
-          "is_correct": true,
-          "feedback": "Correct! 'souvenir' matches the definition."
-        },
-        {
           "letter": "A",
-          "text": "gift",
+          "text": "It describes an action performed by the subject itself",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "That is the plain active voice, not the causative."
         },
         {
           "letter": "B",
-          "text": "award",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "text": "It describes making someone else perform an action",
+          "is_correct": true,
+          "feedback": "That is precisely the meaning of the causative structure."
         },
         {
           "letter": "C",
-          "text": "prize",
+          "text": "It describes an action that did not happen",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "A hypothetical is expressed with conditionals, not with the causative."
+        },
+        {
+          "letter": "D",
+          "text": "It is used only with animate subjects",
+          "is_correct": false,
+          "feedback": "Inanimate subjects such as 'the office' appear frequently in causative sentences."
         }
       ],
-      "correct_answer": "D",
-      "explanation": "The word 'souvenir' is used to describe a thing that is kept as a reminder of a person, place, or event. This is an important vocabulary word in English.\n---",
-      "difficulty": "5",
+      "correct_answer": "B",
+      "explanation": "El causativehift describe una accion en la que el sujeto Provoca que otro la realice.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.8,
+      "bundle_id": "EC-ING-11-2026-W18-causative-have-get-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-ING-11-2026-W18-causative-have-get-001-MASTERY-bundle-v16",
+      "statement": "Choose the correct passive participle: 'She had her dress ____ before the party.'",
+      "context": "Participio pasivo, Cuenca.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "maked",
+          "is_correct": false,
+          "feedback": "'Maked' is not an English participle."
+        },
+        {
+          "letter": "B",
+          "text": "made",
+          "is_correct": true,
+          "feedback": "'Made' is the correct past participle of 'make' for this passive construction."
+        },
+        {
+          "letter": "C",
+          "text": "make",
+          "is_correct": false,
+          "feedback": "'Make' is the base form and does not work after the causative auxiliary."
+        },
+        {
+          "letter": "D",
+          "text": "making",
+          "is_correct": false,
+          "feedback": "'Making' is the gerund and does not fit this position."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El participio pasivo de 'make' para una prenda es 'made', y la frase completa expresa el causative.\n\n---",
+      "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Apply",
@@ -413,37 +728,127 @@
       "country": "ec"
     },
     {
-      "id": "EC-ING-11-2026-W18-causative-have-get-001-MASTERY-v10",
-      "statement": "What is the English word for: \"A period of time by which something is late or postponed.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "id": "EC-ING-11-2026-W18-causative-have-get-001-MASTERY-bundle-v17",
+      "statement": "Which sentence uses the causative correctly with a time expression?",
+      "context": "Causative y tiempo, Quito.",
       "options": [
         {
-          "letter": "C",
-          "text": "delay",
-          "is_correct": true,
-          "feedback": "Correct! 'delay' matches the definition."
-        },
-        {
           "letter": "A",
-          "text": "cancellation",
+          "text": "We have the generator installed last semester.",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "The present perfect is incompatible with the closed time 'last semester'."
         },
         {
           "letter": "B",
-          "text": "departure",
+          "text": "We had install the generator last semester.",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "After 'had' the verb must be the participle 'installed'."
+        },
+        {
+          "letter": "C",
+          "text": "We are having install the generator last semester.",
+          "is_correct": false,
+          "feedback": "The present continuous cannot be combined with a closed past time."
         },
         {
           "letter": "D",
-          "text": "arrival",
+          "text": "We had the generator installed last semester.",
+          "is_correct": true,
+          "feedback": "'Had installed' with a closed past time is a correct causative."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "El causative en pasado con un tiempo cerrado se enuncia con 'had' mas participio, sin auxiliares adicionales.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.8,
+      "bundle_id": "EC-ING-11-2026-W18-causative-have-get-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-ING-11-2026-W18-causative-have-get-001-MASTERY-bundle-v18",
+      "statement": "Read the sentence: 'The hotel had the rooms renovated in 2018.' What does 'renovated' express?",
+      "context": "Analisis de la oracion, Guayaquil.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "The action performed by the guests",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "The guests are not the ones who renovate; the causative assigns it to others."
+        },
+        {
+          "letter": "B",
+          "text": "The action performed to the rooms by someone else",
+          "is_correct": true,
+          "feedback": "The passive participle marks the action done to the object."
+        },
+        {
+          "letter": "C",
+          "text": "A future intention of the hotel",
+          "is_correct": false,
+          "feedback": "The time 'in 2018' is past, not future."
+        },
+        {
+          "letter": "D",
+          "text": "A refusal to renovate",
+          "is_correct": false,
+          "feedback": "The sentence states the renovation took place."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "'Renovated' es el participio pasivo que describe la accion ejecutada sobre las habitaciones.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.8,
+      "bundle_id": "EC-ING-11-2026-W18-causative-have-get-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-ING-11-2026-W18-causative-have-get-001-MASTERY-bundle-v19",
+      "statement": "Which option correctly completes: 'They are getting the generator ____ before the storm arrives.'",
+      "context": "Causative en presente continuo, Cuenca.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "to check",
+          "is_correct": false,
+          "feedback": "'To check' would be an infinitive, not the required participle."
+        },
+        {
+          "letter": "B",
+          "text": "check",
+          "is_correct": false,
+          "feedback": "The bare base form does not fit the causative structure."
+        },
+        {
+          "letter": "C",
+          "text": "checked",
+          "is_correct": true,
+          "feedback": "'Getting it checked' presents the check as an action in progress."
+        },
+        {
+          "letter": "D",
+          "text": "for checking",
+          "is_correct": false,
+          "feedback": "The preposition is not part of this structure."
         }
       ],
       "correct_answer": "C",
-      "explanation": "The word 'delay' is used to describe a period of time by which something is late or postponed. This is an important vocabulary word in English.\n---",
+      "explanation": "En presente continuo el causative usa 'getting' mas objeto mas participio para una accion que se esta Realizando.\n\n---",
       "difficulty": "6",
       "images": [],
       "tags": [],
@@ -458,446 +863,41 @@
       "country": "ec"
     },
     {
-      "id": "EC-ING-11-2026-W18-causative-have-get-001-MASTERY-v11",
-      "statement": "What is the English word for: \"The act of reporting one's presence and registering, typically at an airport or hotel.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "id": "EC-ING-11-2026-W18-causative-have-get-001-MASTERY-bundle-v20",
+      "statement": "What does the causative allow the speaker to emphasise?",
+      "context": "Analisis de la funcion, Quito.",
       "options": [
         {
-          "letter": "C",
-          "text": "check-in",
-          "is_correct": true,
-          "feedback": "Correct! 'check-in' matches the definition."
-        },
-        {
           "letter": "A",
-          "text": "check-out",
+          "text": "The identity of the worker",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "The worker is usually anonymous in the causative structure."
         },
         {
           "letter": "B",
-          "text": "booking",
+          "text": "The place where the action takes place",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Location is expressed by prepositional phrases, not by the causative."
+        },
+        {
+          "letter": "C",
+          "text": "The result obtained, rather than the person who performs the action",
+          "is_correct": true,
+          "feedback": "The causative foregrounds the result of having something done."
         },
         {
           "letter": "D",
-          "text": "reservation",
+          "text": "The exact price of the service",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Cost would appear in a separate sentence about payment."
         }
       ],
       "correct_answer": "C",
-      "explanation": "The word 'check-in' is used to describe the act of reporting one's presence and registering, typically at an airport or hotel. This is an important vocabulary word in English.\n---",
-      "difficulty": "7",
-      "images": [],
-      "tags": [],
-      "bloom": "Apply",
-      "expected_success": 0.8,
-      "bundle_id": "EC-ING-11-2026-W18-causative-have-get-001-MASTERY-bundle",
-      "periodo": 18,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ingles",
-      "grade": 11,
-      "country": "ec"
-    },
-    {
-      "id": "EC-ING-11-2026-W18-causative-have-get-001-MASTERY-v12",
-      "statement": "What is the English word for: \"A period of rest or waiting before a further stage in a journey.\"",
-      "context": "Choose the correct English word for the given definition.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "layover",
-          "is_correct": true,
-          "feedback": "Correct! 'layover' matches the definition."
-        },
-        {
-          "letter": "B",
-          "text": "stopover",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "C",
-          "text": "transfer",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "D",
-          "text": "transit",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "The word 'layover' is used to describe a period of rest or waiting before a further stage in a journey. This is an important vocabulary word in English.\n---",
-      "difficulty": "8",
-      "images": [],
-      "tags": [],
-      "bloom": "Apply",
-      "expected_success": 0.8,
-      "bundle_id": "EC-ING-11-2026-W18-causative-have-get-001-MASTERY-bundle",
-      "periodo": 18,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ingles",
-      "grade": 11,
-      "country": "ec"
-    },
-    {
-      "id": "EC-ING-11-2026-W18-causative-have-get-001-MASTERY-v13",
-      "statement": "What is the English word for: \"A system of money in general use in a particular country.\"",
-      "context": "Choose the correct English word for the given definition.",
-      "options": [
-        {
-          "letter": "D",
-          "text": "currency",
-          "is_correct": true,
-          "feedback": "Correct! 'currency' matches the definition."
-        },
-        {
-          "letter": "A",
-          "text": "coin",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "B",
-          "text": "banknote",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "C",
-          "text": "cash",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        }
-      ],
-      "correct_answer": "D",
-      "explanation": "The word 'currency' is used to describe a system of money in general use in a particular country. This is an important vocabulary word in English.\n---",
-      "difficulty": "7",
+      "explanation": "El causative destaca el resultado y la accion del objeto, mas que la persona que la ejecuta.\n\n---",
+      "difficulty": "6",
       "images": [],
       "tags": [],
       "bloom": "Analyze",
-      "expected_success": 0.8,
-      "bundle_id": "EC-ING-11-2026-W18-causative-have-get-001-MASTERY-bundle",
-      "periodo": 18,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ingles",
-      "grade": 11,
-      "country": "ec"
-    },
-    {
-      "id": "EC-ING-11-2026-W18-causative-have-get-001-MASTERY-v14",
-      "statement": "What is the English word for: \"A book of information about a place designed for the use of visitors or tourists.\"",
-      "context": "Choose the correct English word for the given definition.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "guidebook",
-          "is_correct": true,
-          "feedback": "Correct! 'guidebook' matches the definition."
-        },
-        {
-          "letter": "B",
-          "text": "map",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "C",
-          "text": "dictionary",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "D",
-          "text": "encyclopedia",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "The word 'guidebook' is used to describe a book of information about a place designed for the use of visitors or tourists. This is an important vocabulary word in English.\n---",
-      "difficulty": "8",
-      "images": [],
-      "tags": [],
-      "bloom": "Analyze",
-      "expected_success": 0.8,
-      "bundle_id": "EC-ING-11-2026-W18-causative-have-get-001-MASTERY-bundle",
-      "periodo": 18,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ingles",
-      "grade": 11,
-      "country": "ec"
-    },
-    {
-      "id": "EC-ING-11-2026-W18-causative-have-get-001-MASTERY-v15",
-      "statement": "What is the English word for: \"A bag with shoulder straps that allow it to be carried on one's back.\"",
-      "context": "Choose the correct English word for the given definition.",
-      "options": [
-        {
-          "letter": "C",
-          "text": "backpack",
-          "is_correct": true,
-          "feedback": "Correct! 'backpack' matches the definition."
-        },
-        {
-          "letter": "A",
-          "text": "suitcase",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "B",
-          "text": "briefcase",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "D",
-          "text": "handbag",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        }
-      ],
-      "correct_answer": "C",
-      "explanation": "The word 'backpack' is used to describe a bag with shoulder straps that allow it to be carried on one's back. This is an important vocabulary word in English.\n---",
-      "difficulty": "7",
-      "images": [],
-      "tags": [],
-      "bloom": "Analyze",
-      "expected_success": 0.8,
-      "bundle_id": "EC-ING-11-2026-W18-causative-have-get-001-MASTERY-bundle",
-      "periodo": 18,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ingles",
-      "grade": 11,
-      "country": "ec"
-    },
-    {
-      "id": "EC-ING-11-2026-W18-causative-have-get-001-MASTERY-v16",
-      "statement": "What is the English word for: \"In or to a foreign country, especially one across the sea.\"",
-      "context": "Choose the correct English word for the given definition.",
-      "options": [
-        {
-          "letter": "B",
-          "text": "overseas",
-          "is_correct": true,
-          "feedback": "Correct! 'overseas' matches the definition."
-        },
-        {
-          "letter": "A",
-          "text": "domestic",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "C",
-          "text": "local",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "D",
-          "text": "national",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        }
-      ],
-      "correct_answer": "B",
-      "explanation": "The word 'overseas' is used to describe in or to a foreign country, especially one across the sea. This is an important vocabulary word in English.\n---",
-      "difficulty": "8",
-      "images": [],
-      "tags": [],
-      "bloom": "Analyze",
-      "expected_success": 0.8,
-      "bundle_id": "EC-ING-11-2026-W18-causative-have-get-001-MASTERY-bundle",
-      "periodo": 18,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ingles",
-      "grade": 11,
-      "country": "ec"
-    },
-    {
-      "id": "EC-ING-11-2026-W18-causative-have-get-001-MASTERY-v17",
-      "statement": "What is the English word for: \"An estimate of income and expenditure for a set period of time.\"",
-      "context": "Choose the correct English word for the given definition.",
-      "options": [
-        {
-          "letter": "B",
-          "text": "budget",
-          "is_correct": true,
-          "feedback": "Correct! 'budget' matches the definition."
-        },
-        {
-          "letter": "A",
-          "text": "expense",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "C",
-          "text": "cost",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "D",
-          "text": "price",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        }
-      ],
-      "correct_answer": "B",
-      "explanation": "The word 'budget' is used to describe an estimate of income and expenditure for a set period of time. This is an important vocabulary word in English.\n---",
-      "difficulty": "9",
-      "images": [],
-      "tags": [],
-      "bloom": "Evaluate",
-      "expected_success": 0.8,
-      "bundle_id": "EC-ING-11-2026-W18-causative-have-get-001-MASTERY-bundle",
-      "periodo": 18,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ingles",
-      "grade": 11,
-      "country": "ec"
-    },
-    {
-      "id": "EC-ING-11-2026-W18-causative-have-get-001-MASTERY-v18",
-      "statement": "What is the English word for: \"A practice or arrangement by which a company or government agency provides a guarantee of compensation for specified loss, damage, illness, or death in return for payment of a premium.\"",
-      "context": "Choose the correct English word for the given definition.",
-      "options": [
-        {
-          "letter": "D",
-          "text": "insurance",
-          "is_correct": true,
-          "feedback": "Correct! 'insurance' matches the definition."
-        },
-        {
-          "letter": "A",
-          "text": "warranty",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "B",
-          "text": "guarantee",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "C",
-          "text": "policy",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        }
-      ],
-      "correct_answer": "D",
-      "explanation": "The word 'insurance' is used to describe a practice or arrangement by which a company or government agency provides a guarantee of compensation for specified loss, damage, illness, or death in return for payment of a premium. This is an important vocabulary word in English.\n---",
-      "difficulty": "10",
-      "images": [],
-      "tags": [],
-      "bloom": "Evaluate",
-      "expected_success": 0.8,
-      "bundle_id": "EC-ING-11-2026-W18-causative-have-get-001-MASTERY-bundle",
-      "periodo": 18,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ingles",
-      "grade": 11,
-      "country": "ec"
-    },
-    {
-      "id": "EC-ING-11-2026-W18-causative-have-get-001-MASTERY-v19",
-      "statement": "What is the English word for: \"Treatment with a vaccine to produce immunity against a disease.\"",
-      "context": "Choose the correct English word for the given definition.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "vaccination",
-          "is_correct": true,
-          "feedback": "Correct! 'vaccination' matches the definition."
-        },
-        {
-          "letter": "B",
-          "text": "medication",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "C",
-          "text": "prescription",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "D",
-          "text": "infection",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "The word 'vaccination' is used to describe treatment with a vaccine to produce immunity against a disease. This is an important vocabulary word in English.\n---",
-      "difficulty": "9",
-      "images": [],
-      "tags": [],
-      "bloom": "Evaluate",
-      "expected_success": 0.8,
-      "bundle_id": "EC-ING-11-2026-W18-causative-have-get-001-MASTERY-bundle",
-      "periodo": 18,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ingles",
-      "grade": 11,
-      "country": "ec"
-    },
-    {
-      "id": "EC-ING-11-2026-W18-causative-have-get-001-MASTERY-v20",
-      "statement": "What is the English word for: \"Extreme tiredness and other physical effects felt by a person after a long flight across several time zones.\"",
-      "context": "Choose the correct English word for the given definition.",
-      "options": [
-        {
-          "letter": "B",
-          "text": "jet lag",
-          "is_correct": true,
-          "feedback": "Correct! 'jet lag' matches the definition."
-        },
-        {
-          "letter": "A",
-          "text": "fatigue",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "C",
-          "text": "exhaustion",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "D",
-          "text": "insomnia",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        }
-      ],
-      "correct_answer": "B",
-      "explanation": "The word 'jet lag' is used to describe extreme tiredness and other physical effects felt by a person after a long flight across several time zones. This is an important vocabulary word in English.",
-      "difficulty": "10",
-      "images": [],
-      "tags": [],
-      "bloom": "Evaluate",
       "expected_success": 0.8,
       "bundle_id": "EC-ING-11-2026-W18-causative-have-get-001-MASTERY-bundle",
       "periodo": 18,

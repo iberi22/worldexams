@@ -16,25 +16,25 @@
           "letter": "A",
           "text": "In the bedroom",
           "is_correct": true,
-          "feedback": "Correct!"
+          "feedback": "Correct. The bedroom is the room built for sleeping, so that is where you sleep."
         },
         {
           "letter": "B",
           "text": "In the kitchen",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "The kitchen is for cooking and eating, not for sleeping."
         },
         {
           "letter": "C",
           "text": "In the bathroom",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "The bathroom is for washing and using the toilet, not for sleeping."
         },
         {
           "letter": "D",
           "text": "In the garage",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "The garage is where the car is kept, and nobody sleeps there."
         }
       ],
       "correct_answer": "A",
@@ -62,25 +62,25 @@
           "letter": "A",
           "text": "In the dining room",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "The dining room is where the family eats together, not where the food is prepared."
         },
         {
           "letter": "B",
           "text": "In the kitchen",
           "is_correct": true,
-          "feedback": "Correct!"
+          "feedback": "Correct. The kitchen is the room with the stove and the utensils where food is cooked."
         },
         {
           "letter": "C",
           "text": "In the garden",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "A garden is outside and grows plants, it is not a room for cooking."
         },
         {
           "letter": "D",
           "text": "In the attic",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "An attic is a space at the top of the roof for storage, not a kitchen."
         }
       ],
       "correct_answer": "B",
@@ -108,25 +108,25 @@
           "letter": "A",
           "text": "hallway",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "A hallway is a corridor for walking through, not a room with a sofa."
         },
         {
           "letter": "B",
           "text": "pantry",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "A pantry is a small room where food is stored, not for watching television."
         },
         {
           "letter": "C",
           "text": "living room",
           "is_correct": true,
-          "feedback": "Correct!"
+          "feedback": "Correct. The living room is where the family sits to watch television together."
         },
         {
           "letter": "D",
           "text": "bathroom",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "The bathroom is for washing, not for watching television."
         }
       ],
       "correct_answer": "C",
@@ -154,25 +154,25 @@
           "letter": "A",
           "text": "kitchen",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "A kitchen is for cooking food, so the shower is not there."
         },
         {
           "letter": "B",
           "text": "bedroom",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "A bedroom is for sleeping and resting, not for washing."
         },
         {
           "letter": "C",
           "text": "office",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "An office is a room with a desk for working, not a place with a shower."
         },
         {
           "letter": "D",
           "text": "bathroom",
           "is_correct": true,
-          "feedback": "Correct!"
+          "feedback": "Correct. A bathroom is the room with the shower and the taps where you wash."
         }
       ],
       "correct_answer": "D",
@@ -200,25 +200,25 @@
           "letter": "A",
           "text": "In the garage",
           "is_correct": true,
-          "feedback": "Correct!"
+          "feedback": "Correct. A garage is the building or room where a car is kept and parked."
         },
         {
           "letter": "B",
           "text": "In the kitchen",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "A kitchen is for cooking, a car cannot be parked in it."
         },
         {
           "letter": "C",
           "text": "In the living room",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "The living room is a sitting room, not a place for a car."
         },
         {
           "letter": "D",
           "text": "On the roof",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "A roof is the top of a house, and no car is parked up there."
         }
       ],
       "correct_answer": "A",
@@ -246,25 +246,25 @@
           "letter": "A",
           "text": "closet",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "A closet is a small space for hanging clothes, not a place to sit down for dinner."
         },
         {
           "letter": "B",
           "text": "dining room",
           "is_correct": true,
-          "feedback": "Correct!"
+          "feedback": "Correct. The dining room is the room with the table where the family eats the evening meal."
         },
         {
           "letter": "C",
           "text": "bedroom",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "A bedroom is where you sleep, and dinner is not eaten there."
         },
         {
           "letter": "D",
           "text": "laundry room",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "A laundry room is where clothes are washed, not a place to share a meal."
         }
       ],
       "correct_answer": "B",
@@ -292,25 +292,25 @@
           "letter": "A",
           "text": "ceiling",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "A 'ceiling' is the flat surface overhead, it is not an outdoor place with plants."
         },
         {
           "letter": "B",
           "text": "floor",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "A 'floor' is the ground inside a room, not a place where flowers grow."
         },
         {
           "letter": "C",
           "text": "garden",
           "is_correct": true,
-          "feedback": "Correct!"
+          "feedback": "Correct. A garden is the outdoor area of a house where flowers and plants are grown."
         },
         {
           "letter": "D",
           "text": "staircase",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "A 'staircase' is the set of steps between floors, not a place with flowers."
         }
       ],
       "correct_answer": "C",
@@ -338,25 +338,25 @@
           "letter": "A",
           "text": "window",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "A window is an opening in the wall for light and air, not the main way in."
         },
         {
           "letter": "B",
           "text": "wall",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "A wall is a solid side of the house, you cannot walk through it."
         },
         {
           "letter": "C",
           "text": "chimney",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "A chimney is the pipe that takes smoke out of a fireplace, not an entrance."
         },
         {
           "letter": "D",
           "text": "door",
           "is_correct": true,
-          "feedback": "Correct!"
+          "feedback": "Correct. The door is the movable part of the entrance that a person opens to go in."
         }
       ],
       "correct_answer": "D",

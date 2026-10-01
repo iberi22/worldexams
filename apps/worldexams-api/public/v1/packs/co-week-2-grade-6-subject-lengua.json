@@ -292,25 +292,25 @@
           "letter": "A",
           "text": "Kinésica.",
           "is_correct": false,
-          "feedback": "Incorrecto. Estudia los movimientos corporales."
+          "feedback": "La kinésica estudia los movimientos del cuerpo (gestos, postura y expresión facial), no el uso del espacio."
         },
         {
           "letter": "B",
           "text": "Proxémica.",
           "is_correct": true,
-          "feedback": "Correcto. Estudia cómo las personas usan el espacio físico y las distancias para comunicarse."
+          "feedback": "Correcto. La proxémica estudia cómo las personas usan el espacio físico y las distancias para comunicarse."
         },
         {
           "letter": "C",
           "text": "Paralenguaje.",
           "is_correct": false,
-          "feedback": "Incorrecto. Estudia los aspectos no verbales de la voz (tono, ritmo)."
+          "feedback": "El paralenguaje estudia los aspectos no verbales de la voz, como el tono, el volumen y el ritmo."
         },
         {
           "letter": "D",
           "text": "Semiótica lingüística.",
           "is_correct": false,
-          "feedback": "Incorrecto. Es un término general para el estudio de los signos."
+          "feedback": "La semiótica lingüística es el estudio general de los signos, no específicamente del espacio y la distancia."
         }
       ],
       "correct_answer": "B",

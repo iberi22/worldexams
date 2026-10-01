@@ -691,13 +691,13 @@
           "letter": "B",
           "text": "Enteros",
           "is_correct": false,
-          "feedback": "Incorrecto. Subconjunto de reales."
+          "feedback": "Los enteros son un subconjunto de los racionales y por tanto de los reales: no añaden raíces de números negativos."
         },
         {
           "letter": "C",
           "text": "Racionales",
           "is_correct": false,
-          "feedback": "Incorrecto. Subconjunto de reales."
+          "feedback": "Los racionales también están contenidos en los reales; ningún número racional aporta la raíz cuadrada de un negativo."
         },
         {
           "letter": "A",

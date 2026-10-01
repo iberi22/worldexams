@@ -9,40 +9,40 @@
   "questions": [
     {
       "id": "SV-SOC-11-2026-W01-identidad-cultural-sv-001-MASTERY-bundle-v1",
-      "statement": "¿Qué documento establece la organización del Estado?",
-      "context": "Clase de ciencias sociales en Santa Ana estudiando identidad cultural sv.",
+      "statement": "Cual de los siguientes grupos es un pueblo indigena de El Salvador?",
+      "context": "Clase de Estudio Social en San Salvador, grado 11.",
       "options": [
         {
-          "letter": "D",
-          "text": "La Constitución",
-          "is_correct": true,
-          "feedback": "¡Correcto!"
-        },
-        {
           "letter": "A",
-          "text": "Una ley ordinaria",
-          "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "text": "Los nahuas y los pipiles",
+          "is_correct": true,
+          "feedback": "Ambos pueblos originarios aparecen en las fuentes historicas del territorio."
         },
         {
           "letter": "B",
-          "text": "Un decreto presidencial",
+          "text": "Los ascendientes de los colonizadores europeos",
           "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "feedback": "El grupo colonial llego con la conquista y no es un pueblo indigena."
         },
         {
           "letter": "C",
-          "text": "Un tratado internacional",
+          "text": "Los trabajadores de las plantaciones del siglo XX",
           "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "feedback": "Ese grupo se formo durante el periodo colonial posterior."
+        },
+        {
+          "letter": "D",
+          "text": "Las comunidades de la diaspora africana en el exterior",
+          "is_correct": false,
+          "feedback": "La diaspora no es la base de la identidad interna del territorio."
         }
       ],
-      "correct_answer": "D",
-      "explanation": "La Constitución es la norma suprema que organiza el Estado y garantiza derechos.",
+      "correct_answer": "A",
+      "explanation": "Los nahuas y los pipiles son los pueblos originarios que habitaban el territorio salvadoreño antes de la conquista.\n\n---",
       "difficulty": "4",
       "images": [],
       "tags": [],
-      "bloom": "Understand",
+      "bloom": "Analyze",
       "expected_success": 0.8,
       "bundle_id": "SV-SOC-11-2026-W01-identidad-cultural-sv-001-MASTERY-bundle",
       "periodo": 1,
@@ -54,41 +54,41 @@
     },
     {
       "id": "SV-SOC-11-2026-W01-identidad-cultural-sv-001-MASTERY-bundle-v2",
-      "statement": "¿Cómo cambió la Revolución Industrial la sociedad del siglo XIX?",
-      "context": "Clase de ciencias sociales en San Miguel estudiando identidad cultural sv.",
+      "statement": "Por que se afirma que la cultura es un proceso de construccion social?",
+      "context": "Analisis del concepto de cultura, San Miguel.",
       "options": [
         {
-          "letter": "B",
-          "text": "Urbanización masiva y nuevas clases sociales",
-          "is_correct": true,
-          "feedback": "¡Correcto!"
+          "letter": "A",
+          "text": "Porque todas las culturas son falsas",
+          "is_correct": false,
+          "feedback": "Esa afirmacion no explica por que cambian ni como se construyen."
         },
         {
-          "letter": "A",
-          "text": "Retorno a la vida agrícola",
+          "letter": "B",
+          "text": "Porque no tiene origen historico",
           "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "feedback": "Los hechos culturales si tienen origenes historicos identificables."
         },
         {
           "letter": "C",
-          "text": "Disminución del comercio global",
-          "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "text": "Porque se construye mediante practicas que las generaciones se transmiten",
+          "is_correct": true,
+          "feedback": "Cada grupo produce y reproduce sus propias formas culturales."
         },
         {
           "letter": "D",
-          "text": "Eliminación del trabajo manual",
+          "text": "Porque solo sobreviven las Practicas utiles",
           "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "feedback": "La utilidad no es el criterio de permanencia de una forma cultural."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "La Revolución Industrial causó migración a ciudades y creó nuevas clases sociales.",
-      "difficulty": "4",
+      "correct_answer": "C",
+      "explanation": "La cultura se construye mediante practicas compartidas y transmitidas, no es algo fijo ni .\n\n---",
+      "difficulty": "6",
       "images": [],
       "tags": [],
       "bloom": "Analyze",
-      "expected_success": 0.7,
+      "expected_success": 0.8,
       "bundle_id": "SV-SOC-11-2026-W01-identidad-cultural-sv-001-MASTERY-bundle",
       "periodo": 1,
       "protocol_version": "5.2",
@@ -99,41 +99,41 @@
     },
     {
       "id": "SV-SOC-11-2026-W01-identidad-cultural-sv-001-MASTERY-bundle-v3",
-      "statement": "¿Qué derechos protegen la Constitución de un país democrático?",
-      "context": "Clase de ciencias sociales en Soyapango estudiando identidad cultural sv.",
+      "statement": "El surgimiento de la categoria 'ladino' en El Salvador ilustra el proceso de:",
+      "context": "Historia social, San Salvador.",
       "options": [
         {
           "letter": "A",
-          "text": "Derechos humanos fundamentales",
-          "is_correct": true,
-          "feedback": "¡Correcto!"
+          "text": "Aislamiento de un mismo grupo humano",
+          "is_correct": false,
+          "feedback": "El aislamiento impediria justamente la mezcla que origina al ladino."
         },
         {
           "letter": "B",
-          "text": "Solo derechos de propiedad",
+          "text": "Migracion masiva del siglo XX",
           "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "feedback": "La migracion es posterior al proceso que dio origen a la categoria."
         },
         {
           "letter": "C",
-          "text": "Únicamente derechos políticos",
+          "text": "Imposicion de una lengua sin mezcla",
           "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "feedback": "Una imposicion sin mezcla no genera una categoria intermedia."
         },
         {
           "letter": "D",
-          "text": "Derechos exclusivos del gobierno",
-          "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "text": "Mezcla de poblaciones y lenguas tras la conquista",
+          "is_correct": true,
+          "feedback": "El mestizaje produce categorias intermedias como el ladino."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "Las constituciones democráticas protegen derechos humanos fundamentales.",
-      "difficulty": "4",
+      "correct_answer": "D",
+      "explanation": "La categoria de ladino nace del cruce demografico y linguistico entre indigenas y espanolles.\n\n---",
+      "difficulty": "6",
       "images": [],
       "tags": [],
-      "bloom": "Understand",
-      "expected_success": 0.85,
+      "bloom": "Analyze",
+      "expected_success": 0.8,
       "bundle_id": "SV-SOC-11-2026-W01-identidad-cultural-sv-001-MASTERY-bundle",
       "periodo": 1,
       "protocol_version": "5.2",
@@ -144,40 +144,40 @@
     },
     {
       "id": "SV-SOC-11-2026-W01-identidad-cultural-sv-001-MASTERY-bundle-v4",
-      "statement": "Si un país exporta más de lo que importa, ¿qué tiene?",
-      "context": "Clase de ciencias sociales en San Miguel estudiando identidad cultural sv.",
+      "statement": "Cual de los siguientes valores se asocia directamente con la identidad cultural?",
+      "context": "Valores culturales, La Libertad.",
       "options": [
         {
           "letter": "A",
-          "text": "Superávit comercial",
-          "is_correct": true,
-          "feedback": "¡Correcto!"
+          "text": "El aislamiento",
+          "is_correct": false,
+          "feedback": "El aislamiento rompe el tejido social que sostiene una identidad compartida."
         },
         {
           "letter": "B",
-          "text": "Déficit comercial",
+          "text": "La discriminacion",
           "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "feedback": "La discriminacion excluye a los grupos y debilita la identidad comun."
         },
         {
           "letter": "C",
-          "text": "Balanza equilibrada",
-          "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "text": "La tolerancia",
+          "is_correct": true,
+          "feedback": "La tolerancia sostiene la convivencia de los grupos que comparten territorio."
         },
         {
           "letter": "D",
-          "text": "Crisis económica",
+          "text": "La indiferencia",
           "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "feedback": "La indiferencia tampoco permite mantener vinculos entre los miembros de una sociedad."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "Exportar más que importar genera superávit comercial favorable.",
+      "correct_answer": "C",
+      "explanation": "La tolerancia es el valor que permite la convivencia de grupos con costumbres distintas en un mismo territorio.\n\n---",
       "difficulty": "4",
       "images": [],
       "tags": [],
-      "bloom": "Apply",
+      "bloom": "Understand",
       "expected_success": 0.8,
       "bundle_id": "SV-SOC-11-2026-W01-identidad-cultural-sv-001-MASTERY-bundle",
       "periodo": 1,
@@ -189,41 +189,41 @@
     },
     {
       "id": "SV-SOC-11-2026-W01-identidad-cultural-sv-001-MASTERY-bundle-v5",
-      "statement": "¿Cuál fue una causa importante de la Primera Guerra Mundial?",
-      "context": "Clase de ciencias sociales en San Salvador estudiando identidad cultural sv.",
+      "statement": "Que caracteriza la festandizuacion de una sociedad?",
+      "context": "Comprension lectora, Santa Ana.",
       "options": [
         {
           "letter": "A",
-          "text": "El asesinato del Archiduque Francisco Fernando",
-          "is_correct": true,
-          "feedback": "¡Correcto!"
+          "text": "La copia exacta de una tradicion europea",
+          "is_correct": false,
+          "feedback": "Las fiestas no son copias, sino combinaciones propias."
         },
         {
           "letter": "B",
-          "text": "El Tratado de Versalles",
+          "text": "La eliminacion de todas las tradiciones",
           "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "feedback": "La fusion conserva elementos de ambas tradiciones."
         },
         {
           "letter": "C",
-          "text": "La Revolución Rusa",
+          "text": "La importacion directa de una fiesta extranjera",
           "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "feedback": "Ningun caso del texto corresponde a una importacion directa."
         },
         {
           "letter": "D",
-          "text": "La invención del avión",
-          "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "text": "La fusion de tradiciones distintas en una celebracion propia",
+          "is_correct": true,
+          "feedback": "Las fiestas combinan elementos indigenas y espanoles en una forma nueva."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "El asesinato en Sarajevo (1914) desencadenó el sistema de alianzas que llevó a la guerra.",
-      "difficulty": "6",
+      "correct_answer": "D",
+      "explanation": "La festandizuacion combina tradiciones de distintos origenes en una celebracion propia y nueva.\n\n---",
+      "difficulty": "4",
       "images": [],
       "tags": [],
-      "bloom": "Remember",
-      "expected_success": 0.85,
+      "bloom": "Understand",
+      "expected_success": 0.8,
       "bundle_id": "SV-SOC-11-2026-W01-identidad-cultural-sv-001-MASTERY-bundle",
       "periodo": 1,
       "protocol_version": "5.2",
@@ -234,40 +234,40 @@
     },
     {
       "id": "SV-SOC-11-2026-W01-identidad-cultural-sv-001-MASTERY-bundle-v6",
-      "statement": "¿Qué documento establece la organización del Estado?",
-      "context": "Clase de ciencias sociales en Soyapango estudiando identidad cultural sv.",
+      "statement": "Por que una lengua minoritaria puede sentirse amenazada por una lengua nacional unica?",
+      "context": "Sociolinguisitica, El Salvador.",
       "options": [
         {
-          "letter": "C",
-          "text": "La Constitución",
-          "is_correct": true,
-          "feedback": "¡Correcto!"
-        },
-        {
           "letter": "A",
-          "text": "Una ley ordinaria",
+          "text": "Porque las lenguas siempre son inferiores",
           "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "feedback": "Esa valoracion no es un argumento sociolinguisitico."
         },
         {
           "letter": "B",
-          "text": "Un decreto presidencial",
+          "text": "Porque el uso unico reduce el espacio de transmision de la otra lengua",
+          "is_correct": true,
+          "feedback": "Sin contextos de uso, una lengua deja de aprenderse en la familia."
+        },
+        {
+          "letter": "C",
+          "text": "Porque sus hablantes siempre estan equivocados",
           "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "feedback": "La lengua no se mide por el numero de hablantes sino por su uso."
         },
         {
           "letter": "D",
-          "text": "Un tratado internacional",
+          "text": "Porque no pueden aprenderse",
           "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "feedback": "Cualquier lengua puede aprendirse; el problema es el uso real."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "La Constitución es la norma suprema que organiza el Estado y garantiza derechos.",
+      "correct_answer": "B",
+      "explanation": "Al reducirse los espacios de uso, la lengua deja de transmitirse a las nuevas generacions.\n\n---",
       "difficulty": "6",
       "images": [],
       "tags": [],
-      "bloom": "Understand",
+      "bloom": "Analyze",
       "expected_success": 0.8,
       "bundle_id": "SV-SOC-11-2026-W01-identidad-cultural-sv-001-MASTERY-bundle",
       "periodo": 1,
@@ -279,41 +279,41 @@
     },
     {
       "id": "SV-SOC-11-2026-W01-identidad-cultural-sv-001-MASTERY-bundle-v7",
-      "statement": "¿Cómo cambió la Revolución Industrial la sociedad del siglo XIX?",
-      "context": "Clase de ciencias sociales en Mejicanos estudiando identidad cultural sv.",
+      "statement": "Cuando una festindad tradicional se celebra hoy en El Salvador, ese hecho primarily demuestra:",
+      "context": "Persistencia cultural, San Salvador.",
       "options": [
         {
-          "letter": "B",
-          "text": "Urbanización masiva y nuevas clases sociales",
-          "is_correct": true,
-          "feedback": "¡Correcto!"
+          "letter": "A",
+          "text": "Que la tradicion se congelo en el pasado",
+          "is_correct": false,
+          "feedback": "Seguir celebrandola prueba que sigue vigente."
         },
         {
-          "letter": "A",
-          "text": "Retorno a la vida agrícola",
+          "letter": "B",
+          "text": "Que ya no tiene sentido en la sociedad actual",
           "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "feedback": "La supervivencia de la fiesta indica que conserva significados."
         },
         {
           "letter": "C",
-          "text": "Disminución del comercio global",
-          "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "text": "Que la tradicion se adapta y permanece viva",
+          "is_correct": true,
+          "feedback": "La celebracion contemporanea demuestra continuidad con capacidad de cambio."
         },
         {
           "letter": "D",
-          "text": "Eliminación del trabajo manual",
+          "text": "Que solo interesa a los visitantes extranjeros",
           "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "feedback": "El texto no distingue entre asistentes nacionales y extranjeros."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "La Revolución Industrial causó migración a ciudades y creó nuevas clases sociales.",
+      "correct_answer": "C",
+      "explanation": "La continuidad de la celebracion en el presente demuestra que el hecho cultural se adapta y permanece vivo.\n\n---",
       "difficulty": "6",
       "images": [],
       "tags": [],
       "bloom": "Analyze",
-      "expected_success": 0.7,
+      "expected_success": 0.8,
       "bundle_id": "SV-SOC-11-2026-W01-identidad-cultural-sv-001-MASTERY-bundle",
       "periodo": 1,
       "protocol_version": "5.2",
@@ -324,41 +324,41 @@
     },
     {
       "id": "SV-SOC-11-2026-W01-identidad-cultural-sv-001-MASTERY-bundle-v8",
-      "statement": "¿Qué derechos protegen la Constitución de un país democrático?",
-      "context": "Clase de ciencias sociales en San Miguel estudiando identidad cultural sv.",
+      "statement": "Que caracteriza a un estereotipo social?",
+      "context": "Estudio de la identidad, San Miguel.",
       "options": [
         {
           "letter": "A",
-          "text": "Derechos humanos fundamentales",
-          "is_correct": true,
-          "feedback": "¡Correcto!"
+          "text": "Una descripcion exacta de cada individuo",
+          "is_correct": false,
+          "feedback": "Una descripcion exacta no es la simplificacion propia del estereotipo."
         },
         {
           "letter": "B",
-          "text": "Solo derechos de propiedad",
-          "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "text": "Una idea simplificada y general sobre un grupo de personas",
+          "is_correct": true,
+          "feedback": "El estereotipo reduce a todos los miembros de un grupo a una misma caracteristica."
         },
         {
           "letter": "C",
-          "text": "Únicamente derechos políticos",
+          "text": "Un estudio cientifico sobre la poblacion",
           "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "feedback": "El estereotipo es lo contrario de un estudio riguroso."
         },
         {
           "letter": "D",
-          "text": "Derechos exclusivos del gobierno",
+          "text": "Una ley que protege a un grupo",
           "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "feedback": "Una ley no es una idea generalizada sobre un grupo."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "Las constituciones democráticas protegen derechos humanos fundamentales.",
-      "difficulty": "6",
+      "correct_answer": "B",
+      "explanation": "Un estereotipo es una imagen simplificada y generalizada sobre un grupo, sin considerar las diferencias individuales.\n\n---",
+      "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Understand",
-      "expected_success": 0.85,
+      "expected_success": 0.8,
       "bundle_id": "SV-SOC-11-2026-W01-identidad-cultural-sv-001-MASTERY-bundle",
       "periodo": 1,
       "protocol_version": "5.2",
@@ -369,40 +369,40 @@
     },
     {
       "id": "SV-SOC-11-2026-W01-identidad-cultural-sv-001-MASTERY-bundle-v9",
-      "statement": "Si un país exporta más de lo que importa, ¿qué tiene?",
-      "context": "Clase de ciencias sociales en Santa Ana estudiando identidad cultural sv.",
+      "statement": "Cual es la relacion entre identidad cultural y globalizacion?",
+      "context": "Analisis de procesos actuales, San Salvador.",
       "options": [
         {
           "letter": "A",
-          "text": "Superávit comercial",
-          "is_correct": true,
-          "feedback": "¡Correcto!"
+          "text": "La globalizacion elimina todas las culturas locales",
+          "is_correct": false,
+          "feedback": "Las culturas locales se transforman, no desaparecen de golpe."
         },
         {
           "letter": "B",
-          "text": "Déficit comercial",
+          "text": "La globalizacion impide el surgimiento de identidades nuevas",
           "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "feedback": "Surgen identidades hibridas precisamente por la globalizacion."
         },
         {
           "letter": "C",
-          "text": "Balanza equilibrada",
+          "text": "Identidad cultural y globalizacion son el mismo proceso",
           "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "feedback": "Una es un proceso local de identificacion y la otra uno global de influencia."
         },
         {
           "letter": "D",
-          "text": "Crisis económica",
-          "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "text": "La globalizacion difunde formas culturales y genera a la vez respuestas locales",
+          "is_correct": true,
+          "feedback": "Ambos procesos coexisten: influencia externa y apropiacion interna."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "Exportar más que importar genera superávit comercial favorable.",
+      "correct_answer": "D",
+      "explanation": "La globalizacion difunde formas culturales y al mismo tiempo genera respuestas locales de afirmacion.\n\n---",
       "difficulty": "6",
       "images": [],
       "tags": [],
-      "bloom": "Apply",
+      "bloom": "Evaluate",
       "expected_success": 0.8,
       "bundle_id": "SV-SOC-11-2026-W01-identidad-cultural-sv-001-MASTERY-bundle",
       "periodo": 1,
@@ -414,41 +414,41 @@
     },
     {
       "id": "SV-SOC-11-2026-W01-identidad-cultural-sv-001-MASTERY-bundle-v10",
-      "statement": "¿Cuál fue una causa importante de la Primera Guerra Mundial?",
-      "context": "Clase de ciencias sociales en Soyapango estudiando identidad cultural sv.",
+      "statement": "La arquitectura colonial de un pueblo/badge en San Vicente evidencia sobre su identidad que:",
+      "context": "Patrimonio cultural, Santa Ana.",
       "options": [
         {
-          "letter": "D",
-          "text": "El asesinato del Archiduque Francisco Fernando",
-          "is_correct": true,
-          "feedback": "¡Correcto!"
-        },
-        {
           "letter": "A",
-          "text": "El Tratado de Versalles",
+          "text": "Que el pueblo fue fundado ayer",
           "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "feedback": "La arquitectura colonial es por definicion antigua."
         },
         {
           "letter": "B",
-          "text": "La Revolución Rusa",
-          "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "text": "Que conserva formas del periodo colonial",
+          "is_correct": true,
+          "feedback": "Los materiales y la construccion reflejan la epoca en que se levanto."
         },
         {
           "letter": "C",
-          "text": "La invención del avión",
+          "text": "Que no hay tradicion en ese lugar",
           "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "feedback": "Un monumento colonial es precisamente una tradicion conservada."
+        },
+        {
+          "letter": "D",
+          "text": "Que toda la poblacion es descendiente de indigenas",
+          "is_correct": false,
+          "feedback": "La arquitectura no informa sobre la ascendencia de los habitantes."
         }
       ],
-      "correct_answer": "D",
-      "explanation": "El asesinato en Sarajevo (1914) desencadenó el sistema de alianzas que llevó a la guerra.",
+      "correct_answer": "B",
+      "explanation": "La arquitectura colonial conserva formas del periodo de la conquista y funciona como huella material del pasado.\n\n---",
       "difficulty": "6",
       "images": [],
       "tags": [],
-      "bloom": "Remember",
-      "expected_success": 0.85,
+      "bloom": "Analyze",
+      "expected_success": 0.8,
       "bundle_id": "SV-SOC-11-2026-W01-identidad-cultural-sv-001-MASTERY-bundle",
       "periodo": 1,
       "protocol_version": "5.2",
@@ -459,40 +459,40 @@
     },
     {
       "id": "SV-SOC-11-2026-W01-identidad-cultural-sv-001-MASTERY-bundle-v11",
-      "statement": "¿Qué documento establece la organización del Estado?",
-      "context": "Clase de ciencias sociales en Soyapango estudiando identidad cultural sv.",
+      "statement": "En una sociedad pluricultural, el reconocimiento de la diferencia implica:",
+      "context": "Ciudadania y diversidad, San Salvador.",
       "options": [
         {
-          "letter": "B",
-          "text": "La Constitución",
-          "is_correct": true,
-          "feedback": "¡Correcto!"
+          "letter": "A",
+          "text": "Separar el pais en estados independientes",
+          "is_correct": false,
+          "feedback": "La convivencia cultural no implica division politica."
         },
         {
-          "letter": "A",
-          "text": "Una ley ordinaria",
+          "letter": "B",
+          "text": "Ocultar las practicas de los grupos minoritarios",
           "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "feedback": "Ocultar Practicas es lo contrario de reconocerlas."
         },
         {
           "letter": "C",
-          "text": "Un decreto presidencial",
+          "text": "Imponer una sola practica a todos los ciudadanos",
           "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "feedback": "Imponer una unica practica contradice el reconocimiento de la diferencia."
         },
         {
           "letter": "D",
-          "text": "Un tratado internacional",
-          "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "text": "Aceptar que conviven grupos con practicas distintas",
+          "is_correct": true,
+          "feedback": "El reconocimiento no exige renunciar a una identidad compartida."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "La Constitución es la norma suprema que organiza el Estado y garantiza derechos.",
-      "difficulty": "8",
+      "correct_answer": "D",
+      "explanation": "Reconocer la diferencia implica aceptar que conviven grupos distintos con practicas propias dentro de un mismo Estado.\n\n---",
+      "difficulty": "6",
       "images": [],
       "tags": [],
-      "bloom": "Understand",
+      "bloom": "Evaluate",
       "expected_success": 0.8,
       "bundle_id": "SV-SOC-11-2026-W01-identidad-cultural-sv-001-MASTERY-bundle",
       "periodo": 1,
@@ -504,41 +504,41 @@
     },
     {
       "id": "SV-SOC-11-2026-W01-identidad-cultural-sv-001-MASTERY-bundle-v12",
-      "statement": "¿Cómo cambió la Revolución Industrial la sociedad del siglo XIX?",
-      "context": "Clase de ciencias sociales en Mejicanos estudiando identidad cultural sv.",
+      "statement": "Que efecto tiene la discriminacion sobre la identidad de un grupo?",
+      "context": "Estudio de la discriminacion, La Libertad.",
       "options": [
         {
-          "letter": "C",
-          "text": "Urbanización masiva y nuevas clases sociales",
-          "is_correct": true,
-          "feedback": "¡Correcto!"
-        },
-        {
           "letter": "A",
-          "text": "Retorno a la vida agrícola",
+          "text": "Refuerza la unidad de todo el grupo",
           "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "feedback": "La discriminacion divide en lugar de fortalecer."
         },
         {
           "letter": "B",
-          "text": "Disminución del comercio global",
+          "text": "No tiene ningun efecto sobre la identidad",
           "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "feedback": "La discriminacion tiene efectos profundos sobre la pertenencia."
+        },
+        {
+          "letter": "C",
+          "text": "Aumenta el respeto hacia sus practicas",
+          "is_correct": false,
+          "feedback": "La discriminacion reduce el respeto en lugar de aumentarlo."
         },
         {
           "letter": "D",
-          "text": "Eliminación del trabajo manual",
-          "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "text": "Debilita la pertenencia y la participacion de sus miembros",
+          "is_correct": true,
+          "feedback": "La exclusion reduce el sentido de comunidad y de participacion."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "La Revolución Industrial causó migración a ciudades y creó nuevas clases sociales.",
-      "difficulty": "8",
+      "correct_answer": "D",
+      "explanation": "La discriminacion debilita la pertenencia porque excluye a las personas del derecho a reconocerse como parte del conjunto.\n\n---",
+      "difficulty": "6",
       "images": [],
       "tags": [],
       "bloom": "Analyze",
-      "expected_success": 0.7,
+      "expected_success": 0.8,
       "bundle_id": "SV-SOC-11-2026-W01-identidad-cultural-sv-001-MASTERY-bundle",
       "periodo": 1,
       "protocol_version": "5.2",
@@ -549,41 +549,41 @@
     },
     {
       "id": "SV-SOC-11-2026-W01-identidad-cultural-sv-001-MASTERY-bundle-v13",
-      "statement": "¿Qué derechos protegen la Constitución de un país democrático?",
-      "context": "Clase de ciencias sociales en Mejicanos estudiando identidad cultural sv.",
+      "statement": "Si una leyenda se transmite oralmente cambiando detalles, esto demuestra que:",
+      "context": "Tradicion oral, San Salvador.",
       "options": [
         {
-          "letter": "C",
-          "text": "Derechos humanos fundamentales",
-          "is_correct": true,
-          "feedback": "¡Correcto!"
-        },
-        {
           "letter": "A",
-          "text": "Solo derechos de propiedad",
-          "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "text": "La cultura es un proceso vivo que se adapta",
+          "is_correct": true,
+          "feedback": "La transformacion del relato evidencia la creatividad de la tradicion oral."
         },
         {
           "letter": "B",
-          "text": "Únicamente derechos políticos",
+          "text": "La leyenda es falsa porque cambia",
           "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "feedback": "La variabilidad no invalida el valor cultural del relato."
+        },
+        {
+          "letter": "C",
+          "text": "La tradicion oral no existe",
+          "is_correct": false,
+          "feedback": "La existencia de variaciones prueba que la tradicion oral si existe."
         },
         {
           "letter": "D",
-          "text": "Derechos exclusivos del gobierno",
+          "text": "Los relatores no recuerdan bien",
           "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "feedback": "Los cambios responden a factores culturales, no solo a fallos de memoria."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "Las constituciones democráticas protegen derechos humanos fundamentales.",
-      "difficulty": "8",
+      "correct_answer": "A",
+      "explanation": "La variacion en la transmision oral muestra que la cultura es un proceso vivo que se adapta.\n\n---",
+      "difficulty": "6",
       "images": [],
       "tags": [],
-      "bloom": "Understand",
-      "expected_success": 0.85,
+      "bloom": "Analyze",
+      "expected_success": 0.8,
       "bundle_id": "SV-SOC-11-2026-W01-identidad-cultural-sv-001-MASTERY-bundle",
       "periodo": 1,
       "protocol_version": "5.2",
@@ -594,40 +594,40 @@
     },
     {
       "id": "SV-SOC-11-2026-W01-identidad-cultural-sv-001-MASTERY-bundle-v14",
-      "statement": "Si un país exporta más de lo que importa, ¿qué tiene?",
-      "context": "Clase de ciencias sociales en San Salvador estudiando identidad cultural sv.",
+      "statement": "Que distingue la identidad nacional de la identidad cultural?",
+      "context": "Conceptos de identidad, San Salvador.",
       "options": [
         {
-          "letter": "D",
-          "text": "Superávit comercial",
-          "is_correct": true,
-          "feedback": "¡Correcto!"
-        },
-        {
           "letter": "A",
-          "text": "Déficit comercial",
+          "text": "Son exactamente lo mismo",
           "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "feedback": "Se relacionan, pero no son equivalentes."
         },
         {
           "letter": "B",
-          "text": "Balanza equilibrada",
+          "text": "La cultural se basa solo en el escudo nacional",
           "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "feedback": "La identidad cultural no se limita a los simbolos del Estado."
         },
         {
           "letter": "C",
-          "text": "Crisis económica",
+          "text": "La nacional se apoya en el Estado; la cultural, en practicas y lenguas",
+          "is_correct": true,
+          "feedback": "Los dos ambitos son distintos, aunque puedan coincidir en un mismo pueblo."
+        },
+        {
+          "letter": "D",
+          "text": "La nacional desaparece cuando hay varias culturas",
           "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "feedback": "La identidad nacional convive con la pluralidad cultural."
         }
       ],
-      "correct_answer": "D",
-      "explanation": "Exportar más que importar genera superávit comercial favorable.",
-      "difficulty": "8",
+      "correct_answer": "C",
+      "explanation": "La identidad nacional se apoya en lo politico y el territorio; la cultural, en las practicas y lenguas compartidas.\n\n---",
+      "difficulty": "6",
       "images": [],
       "tags": [],
-      "bloom": "Apply",
+      "bloom": "Analyze",
       "expected_success": 0.8,
       "bundle_id": "SV-SOC-11-2026-W01-identidad-cultural-sv-001-MASTERY-bundle",
       "periodo": 1,
@@ -639,41 +639,41 @@
     },
     {
       "id": "SV-SOC-11-2026-W01-identidad-cultural-sv-001-MASTERY-bundle-v15",
-      "statement": "¿Cuál fue una causa importante de la Primera Guerra Mundial?",
-      "context": "Clase de ciencias sociales en San Miguel estudiando identidad cultural sv.",
+      "statement": "Cuando un migrante incorpora su gastronomia al pais receptor, ocurre que:",
+      "context": "Migracion y cultura, San Salvador.",
       "options": [
         {
-          "letter": "C",
-          "text": "El asesinato del Archiduque Francisco Fernando",
-          "is_correct": true,
-          "feedback": "¡Correcto!"
-        },
-        {
           "letter": "A",
-          "text": "El Tratado de Versalles",
+          "text": "La cultura del migrante desaparece sin rastro",
           "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "feedback": "La adopcion de su gastronomia es la prueba de que permanece."
         },
         {
           "letter": "B",
-          "text": "La Revolución Rusa",
+          "text": "La cultura del pais receptor incorpora tradiciones del lugar de origen",
+          "is_correct": true,
+          "feedback": "La comida es un vehiculo THROUGH que las migraciones aportan."
+        },
+        {
+          "letter": "C",
+          "text": "El pais receptor pierde su identidad",
           "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "feedback": "Sumar practicas no elimina la identidad previa."
         },
         {
           "letter": "D",
-          "text": "La invención del avión",
+          "text": "La migracion impide el intercambio cultural",
           "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "feedback": "El intercambio es un efecto caracteristico de la migracion."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "El asesinato en Sarajevo (1914) desencadenó el sistema de alianzas que llevó a la guerra.",
-      "difficulty": "8",
+      "correct_answer": "B",
+      "explanation": "La adopcion de la gastronomia muestra como las migraciones enriquecen el repertorio cultural del pais de llegada.\n\n---",
+      "difficulty": "6",
       "images": [],
       "tags": [],
-      "bloom": "Remember",
-      "expected_success": 0.85,
+      "bloom": "Analyze",
+      "expected_success": 0.8,
       "bundle_id": "SV-SOC-11-2026-W01-identidad-cultural-sv-001-MASTERY-bundle",
       "periodo": 1,
       "protocol_version": "5.2",
@@ -684,37 +684,37 @@
     },
     {
       "id": "SV-SOC-11-2026-W01-identidad-cultural-sv-001-MASTERY-bundle-v16",
-      "statement": "¿Qué documento establece la organización del Estado?",
-      "context": "Clase de ciencias sociales en Santa Ana estudiando identidad cultural sv.",
+      "statement": "Que es el multiculturalismo?",
+      "context": "Marco conceptual, Santa Ana.",
       "options": [
         {
-          "letter": "B",
-          "text": "La Constitución",
+          "letter": "A",
+          "text": "La convivencia legitima de varias culturas en un mismo territorio",
           "is_correct": true,
-          "feedback": "¡Correcto!"
+          "feedback": "La definicion central es la coexistencia de culturas diferentes."
         },
         {
-          "letter": "A",
-          "text": "Una ley ordinaria",
+          "letter": "B",
+          "text": "La ausencia de cualquier cultura dominante",
           "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "feedback": "No elimina las culturas dominantes, solo limita su exclusividad."
         },
         {
           "letter": "C",
-          "text": "Un decreto presidencial",
+          "text": "La supresion de las culturas minoritarias",
           "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "feedback": "La supresion es lo contrario de lo que el multiculturalismo propone."
         },
         {
           "letter": "D",
-          "text": "Un tratado internacional",
+          "text": "La mezcla total hasta perder cada cultura",
           "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "feedback": "La convivencia no exige la fusion completa de las culturas."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "La Constitución es la norma suprema que organiza el Estado y garantiza derechos.",
-      "difficulty": "8",
+      "correct_answer": "A",
+      "explanation": "El multiculturalismo sostiene que en un mismo territorio conviven varias culturas con practicas legitimas.\n\n---",
+      "difficulty": "6",
       "images": [],
       "tags": [],
       "bloom": "Understand",
@@ -729,41 +729,41 @@
     },
     {
       "id": "SV-SOC-11-2026-W01-identidad-cultural-sv-001-MASTERY-bundle-v17",
-      "statement": "¿Cómo cambió la Revolución Industrial la sociedad del siglo XIX?",
-      "context": "Clase de ciencias sociales en Santa Ana estudiando identidad cultural sv.",
+      "statement": "Que papel cumplen los bienes patrimonio cultural en la construccion de identidad?",
+      "context": "Patrimonio e identidad, San Salvador.",
       "options": [
         {
-          "letter": "C",
-          "text": "Urbanización masiva y nuevas clases sociales",
-          "is_correct": true,
-          "feedback": "¡Correcto!"
-        },
-        {
           "letter": "A",
-          "text": "Retorno a la vida agrícola",
+          "text": "Son objetos sin valor simbolico",
           "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "feedback": "El patrimonio tiene un valor symbolic ademas de material."
         },
         {
           "letter": "B",
-          "text": "Disminución del comercio global",
+          "text": "Dan soporte material y simbolico a la memoria colectiva",
+          "is_correct": true,
+          "feedback": "Los bienes conservados anclan la identidad en el tiempo."
+        },
+        {
+          "letter": "C",
+          "text": "Son reservas de uso exclusivo para el turismo",
           "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "feedback": "Su valor principal es identitario y comunitario."
         },
         {
           "letter": "D",
-          "text": "Eliminación del trabajo manual",
+          "text": "Desplazan a las practicas actuales",
           "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "feedback": "El patrimonio convive con las practicas del presente."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "La Revolución Industrial causó migración a ciudades y creó nuevas clases sociales.",
-      "difficulty": "10",
+      "correct_answer": "B",
+      "explanation": "El patrimonio cultural tangible e intangible da soporte material y simbolico a la memoria colectiva de un pueblo.\n\n---",
+      "difficulty": "6",
       "images": [],
       "tags": [],
-      "bloom": "Analyze",
-      "expected_success": 0.7,
+      "bloom": "Evaluate",
+      "expected_success": 0.8,
       "bundle_id": "SV-SOC-11-2026-W01-identidad-cultural-sv-001-MASTERY-bundle",
       "periodo": 1,
       "protocol_version": "5.2",
@@ -774,41 +774,41 @@
     },
     {
       "id": "SV-SOC-11-2026-W01-identidad-cultural-sv-001-MASTERY-bundle-v18",
-      "statement": "¿Qué derechos protegen la Constitución de un país democrático?",
-      "context": "Clase de ciencias sociales en San Salvador estudiando identidad cultural sv.",
+      "statement": "Si una comunidad pierde su lengua por falta de transmision, esto significa que:",
+      "context": "Sociolinguisitica, San Salvador.",
       "options": [
         {
-          "letter": "D",
-          "text": "Derechos humanos fundamentales",
-          "is_correct": true,
-          "feedback": "¡Correcto!"
-        },
-        {
           "letter": "A",
-          "text": "Solo derechos de propiedad",
-          "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "text": "Se pierde una parte del patrimonio cultural de esa comunidad",
+          "is_correct": true,
+          "feedback": "La lengua es uno de los elementos centrales del patrimonio inmaterial."
         },
         {
           "letter": "B",
-          "text": "Únicamente derechos políticos",
+          "text": "La comunidad deja de existir",
           "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "feedback": "La comunidad puede continuar aunque cambie su lengua."
         },
         {
           "letter": "C",
-          "text": "Derechos exclusivos del gobierno",
+          "text": "La lengua sigue viva en los adultos mayores",
           "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "feedback": "Los adultos mayores pueden hablarla, pero no se esta transmitiendo."
+        },
+        {
+          "letter": "D",
+          "text": "El patrimonio material tambien se destruye",
+          "is_correct": false,
+          "feedback": "La lengua y los bienes materiales son componentes distintos del patrimonio."
         }
       ],
-      "correct_answer": "D",
-      "explanation": "Las constituciones democráticas protegen derechos humanos fundamentales.",
-      "difficulty": "10",
+      "correct_answer": "A",
+      "explanation": "Sin transmision generacional la lengua deja de aprenderse y con ella se pierde parte del patrimonio inmaterial.\n\n---",
+      "difficulty": "6",
       "images": [],
       "tags": [],
-      "bloom": "Understand",
-      "expected_success": 0.85,
+      "bloom": "Analyze",
+      "expected_success": 0.8,
       "bundle_id": "SV-SOC-11-2026-W01-identidad-cultural-sv-001-MASTERY-bundle",
       "periodo": 1,
       "protocol_version": "5.2",
@@ -819,40 +819,40 @@
     },
     {
       "id": "SV-SOC-11-2026-W01-identidad-cultural-sv-001-MASTERY-bundle-v19",
-      "statement": "Si un país exporta más de lo que importa, ¿qué tiene?",
-      "context": "Clase de ciencias sociales en Soyapango estudiando identidad cultural sv.",
+      "statement": "Que establece la Constitucion salvadoreña sobre los derechos de las comunidades culturales?",
+      "context": "Marco legal, San Salvador.",
       "options": [
         {
-          "letter": "B",
-          "text": "Superávit comercial",
-          "is_correct": true,
-          "feedback": "¡Correcto!"
+          "letter": "A",
+          "text": "La prohibicion de ciertos grupos culturales",
+          "is_correct": false,
+          "feedback": "La prohibicion contradice el principio de igualdad."
         },
         {
-          "letter": "A",
-          "text": "Déficit comercial",
+          "letter": "B",
+          "text": "La prioridad de una sola cultura oficial",
           "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "feedback": "La Constitucion no establece una cultura unica con preferencia legal."
         },
         {
           "letter": "C",
-          "text": "Balanza equilibrada",
-          "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "text": "El reconocimiento de la diversidad y la igualdad de derechos de todos",
+          "is_correct": true,
+          "feedback": "El texto garantiza igualdad sin distincion de origen."
         },
         {
           "letter": "D",
-          "text": "Crisis económica",
+          "text": "La exencion de obligaciones para ciertos grupos",
           "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "feedback": "La Constitucion no exime a nadie de sus obligaciones."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "Exportar más que importar genera superávit comercial favorable.",
-      "difficulty": "10",
+      "correct_answer": "C",
+      "explanation": "La Constitucion reconoce la diversidad cultural como hecho de la sociedad y garantiza la igualdad de derechos de sus miembros.\n\n---",
+      "difficulty": "6",
       "images": [],
       "tags": [],
-      "bloom": "Apply",
+      "bloom": "Remember",
       "expected_success": 0.8,
       "bundle_id": "SV-SOC-11-2026-W01-identidad-cultural-sv-001-MASTERY-bundle",
       "periodo": 1,
@@ -864,41 +864,41 @@
     },
     {
       "id": "SV-SOC-11-2026-W01-identidad-cultural-sv-001-MASTERY-bundle-v20",
-      "statement": "¿Cuál fue una causa importante de la Primera Guerra Mundial?",
-      "context": "Clase de ciencias sociales en Mejicanos estudiando identidad cultural sv.",
+      "statement": "Que diferencia hay entre tolerancia y respeto en el trato entre culturas?",
+      "context": "Analisis de conceptos, San Miguel.",
       "options": [
         {
-          "letter": "B",
-          "text": "El asesinato del Archiduque Francisco Fernando",
+          "letter": "A",
+          "text": "El respeto valora la diferencia; la tolerancia solo la permite",
           "is_correct": true,
-          "feedback": "¡Correcto!"
+          "feedback": "El respeto incluye una valoracion positiva de la otra practica."
         },
         {
-          "letter": "A",
-          "text": "El Tratado de Versalles",
+          "letter": "B",
+          "text": "Son terminos exactamente iguales",
           "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "feedback": "Se relacionan, pero los niveles de valoracion son distintos."
         },
         {
           "letter": "C",
-          "text": "La Revolución Rusa",
+          "text": "La tolerancia obliga a compartir Practicas",
           "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "feedback": "La tolerancia no exige adoptar las practicas ajenas."
         },
         {
           "letter": "D",
-          "text": "La invención del avión",
+          "text": "El respeto impone las propias Practicas",
           "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "feedback": "El respeto no obliga a nadie a dejar sus propias practicas."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "El asesinato en Sarajevo (1914) desencadenó el sistema de alianzas que llevó a la guerra.",
-      "difficulty": "10",
+      "correct_answer": "A",
+      "explanation": "La tolerancia permite la existencia de la diferencia; el respeto la valoriza positivamente.\n\n---",
+      "difficulty": "6",
       "images": [],
       "tags": [],
-      "bloom": "Remember",
-      "expected_success": 0.85,
+      "bloom": "Evaluate",
+      "expected_success": 0.8,
       "bundle_id": "SV-SOC-11-2026-W01-identidad-cultural-sv-001-MASTERY-bundle",
       "periodo": 1,
       "protocol_version": "5.2",

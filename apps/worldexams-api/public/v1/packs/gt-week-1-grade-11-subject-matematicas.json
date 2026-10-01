@@ -736,25 +736,25 @@
           "letter": "A",
           "text": "Todo número racional tiene una expansión decimal periódica o finita.",
           "is_correct": false,
-          "feedback": "Esta es una proposición verdadera."
+          "feedback": "Es verdadera: la expansión decimal de un racional es finita o periódica, y a la inversa todadecimal así es racional."
         },
         {
           "letter": "C",
           "text": "La suma de un número racional y uno irracional es siempre irracional.",
           "is_correct": false,
-          "feedback": "Esta es una proposición verdadera."
+          "feedback": "Es verdadera: sumar un racional a un irracional da irracional, porque si fuera racional, al restar el racional se obtendría un irracional racional."
         },
         {
           "letter": "B",
           "text": "El producto de dos números irracionales es siempre un número irracional.",
           "is_correct": true,
-          "feedback": "Correcto. Esta es la proposición falsa. Por ejemplo, $\\sqrt{2} \\times \\sqrt{2} = 2$, que es racional."
+          "feedback": "Es la proposición falsa: $\\sqrt{2} \\cdot \\sqrt{2} = 2$ es racional, y el mismo argumento sirve con $\\sqrt{2}$ y $\\frac{1}{\\sqrt{2}}$."
         },
         {
           "letter": "D",
           "text": "No existe un número racional cuyo cuadrado sea exactamente 2.",
           "is_correct": false,
-          "feedback": "Esta es una proposición verdadera (prueba de la irracionalidad de $\\sqrt{2}$)."
+          "feedback": "Es verdadera: si $\\sqrt{2}$ fuera racional, el $\\gcd$ de numerador y denominador daría un entero positivo cuyo cuadrado es 2, y no existe."
         }
       ],
       "correct_answer": "B",

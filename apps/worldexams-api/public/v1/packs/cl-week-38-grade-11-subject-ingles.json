@@ -61,25 +61,25 @@
           "letter": "A",
           "text": "are promoting",
           "is_correct": false,
-          "feedback": "Incorrect. Active voice."
+          "feedback": "Active voice makes the universities the agents doing the promoting, but the sentence describes an initiative that is being carried out on many fronts rather than by one named actor."
         },
         {
           "letter": "B",
           "text": "are being promoted",
           "is_correct": true,
-          "feedback": "Correct. Present continuous passive for an ongoing initiative."
+          "feedback": "The present continuous passive ('are being promoted') marks an ongoing initiative and keeps the universities in the background, which is how the sentence presents the programme."
         },
         {
           "letter": "C",
           "text": "promoted",
           "is_correct": false,
-          "feedback": "Incorrect. Past simple."
+          "feedback": "'Promoted' alone is a past participle with no auxiliary, so it cannot form a tense here."
         },
         {
           "letter": "D",
           "text": "have promoted",
           "is_correct": false,
-          "feedback": "Incorrect. Active voice."
+          "feedback": "'Have promoted' is the present perfect active, which would mean the universities finished the promotion; the promotion is still under way."
         }
       ],
       "correct_answer": "B",
@@ -151,25 +151,25 @@
           "letter": "D",
           "text": "pluralistic",
           "is_correct": true,
-          "feedback": "Correct. Pluralism is the coexistence of distinct groups."
+          "feedback": "Pluralistic describes a society in which distinct groups keep their own identities, which is exactly what the definition says."
         },
         {
           "letter": "A",
           "text": "homogeneous",
           "is_correct": false,
-          "feedback": "Incorrect. Homogeneous means all the same."
+          "feedback": "Homogeneous means uniform, with all groups the same, the opposite of maintaining unique identities."
         },
         {
           "letter": "B",
           "text": "isolated",
           "is_correct": false,
-          "feedback": "Incorrect. Groups in this society participate together."
+          "feedback": "Isolated means separated from one another, while this society has its groups participating in a common system."
         },
         {
           "letter": "C",
           "text": "secret",
           "is_correct": false,
-          "feedback": "Incorrect."
+          "feedback": "Nothing in the definition concerns keeping identities hidden; secrecy is not what pluralism requires."
         }
       ],
       "correct_answer": "D",
@@ -241,25 +241,25 @@
           "letter": "B",
           "text": "Exclusion",
           "is_correct": false,
-          "feedback": "Incorrect. The opposite of inclusion."
+          "feedback": "Exclusion is the opposite practice: it is the barrier that the definition says inclusion is designed to remove."
         },
         {
           "letter": "A",
           "text": "Inclusion",
           "is_correct": true,
-          "feedback": "Correct. Active effort to involve everyone."
+          "feedback": "Inclusion is providing equal access to people who might otherwise be left out, which is the practice described."
         },
         {
           "letter": "C",
           "text": "Isolation",
           "is_correct": false,
-          "feedback": "Incorrect."
+          "feedback": "Isolation means keeping people apart from one another, which is the effect the definition argues against, not the policy itself."
         },
         {
           "letter": "D",
           "text": "Silence",
           "is_correct": false,
-          "feedback": "Incorrect."
+          "feedback": "Silence means saying nothing; the definition is about access to opportunities and resources, not about staying quiet."
         }
       ],
       "correct_answer": "A",
@@ -286,25 +286,25 @@
           "letter": "A",
           "text": "passionate",
           "is_correct": false,
-          "feedback": "Incorrect. Adjective where an adverb is needed."
+          "feedback": "'Passionate' is an adjective and cannot modify the verb 'spoke' directly in this construction."
         },
         {
           "letter": "D",
           "text": "passionately",
           "is_correct": true,
-          "feedback": "Correct. Adverb modifying the verb 'spoke'."
+          "feedback": "'Passionately' is the adverb that says in what manner she spoke, so it is the form the sentence needs."
         },
         {
           "letter": "B",
           "text": "passion",
           "is_correct": false,
-          "feedback": "Incorrect. Noun."
+          "feedback": "'Passion' is a noun, so it cannot describe how the verb 'spoke' was performed."
         },
         {
           "letter": "C",
           "text": "passivity",
           "is_correct": false,
-          "feedback": "Incorrect. Different meaning."
+          "feedback": "'Passivity' means being passive, which is the opposite of speaking passionately about something."
         }
       ],
       "correct_answer": "D",
@@ -331,25 +331,25 @@
           "letter": "A",
           "text": "Philanthropy",
           "is_correct": false,
-          "feedback": "Incorrect. Love of humanity."
+          "feedback": "Philanthropy is love of humanity, the opposite attitude to the prejudice described."
         },
         {
           "letter": "D",
           "text": "Xenophobia",
           "is_correct": true,
-          "feedback": "Correct. Fear or hatred of strangers/foreigners."
+          "feedback": "Xenophobia means dislike of and prejudice against people from other countries, which matches the definition."
         },
         {
           "letter": "B",
           "text": "Empathy",
           "is_correct": false,
-          "feedback": "Incorrect. Understanding others."
+          "feedback": "Empathy is the ability to understand other people's feelings, not a negative attitude towards foreigners."
         },
         {
           "letter": "C",
           "text": "Curiosity",
           "is_correct": false,
-          "feedback": "Incorrect."
+          "feedback": "Curiosity is a desire to know or learn about something, which carries no negative judgement."
         }
       ],
       "correct_answer": "D",
@@ -376,25 +376,25 @@
           "letter": "A",
           "text": "have never experienced",
           "is_correct": false,
-          "feedback": "Incorrect. Present perfect is for past to present."
+          "feedback": "The present perfect connects a past action to the present, but the past point here is the visit, so an earlier tense is needed."
         },
         {
           "letter": "D",
           "text": "had never experienced",
           "is_correct": true,
-          "feedback": "Correct. Past perfect for a state before a past point (visiting)."
+          "feedback": "The past perfect sets the speaker's experience before the past moment of visiting India, which is what 'before I visited' requires."
         },
         {
           "letter": "B",
           "text": "never experience",
           "is_correct": false,
-          "feedback": "Incorrect."
+          "feedback": "'Never experience' is the base form with no tense marker, so it cannot fill the verb slot."
         },
         {
           "letter": "C",
           "text": "experiencing",
           "is_correct": false,
-          "feedback": "Incorrect."
+          "feedback": "'Experiencing' is an -ing form and needs a helper verb, which the blank does not have."
         }
       ],
       "correct_answer": "D",
@@ -421,25 +421,25 @@
           "letter": "A",
           "text": "empowerment",
           "is_correct": false,
-          "feedback": "Incorrect. Forced assimilation is disempowering."
+          "feedback": "Empowerment means giving people power and control, but forced assimilation takes their distinct practices away."
         },
         {
           "letter": "C",
           "text": "erosion",
           "is_correct": true,
-          "feedback": "Correct. Erosion means the gradual destruction or diminution of something."
+          "feedback": "Erosion is the gradual wearing down of something, which matches the slow loss of cultural practices under pressure."
         },
         {
           "letter": "B",
           "text": "preservation",
           "is_correct": false,
-          "feedback": "Incorrect. It destroys, doesn't preserve."
+          "feedback": "Preservation means keeping something safe; the sentence describes what happens to those practices, not their protection."
         },
         {
           "letter": "D",
           "text": "celebration",
           "is_correct": false,
-          "feedback": "Incorrect."
+          "feedback": "Celebration is marking something with joy, and nothing here marks the practices as worth celebrating; they are being lost."
         }
       ],
       "correct_answer": "C",
@@ -466,25 +466,25 @@
           "letter": "A",
           "text": "Hatred",
           "is_correct": false,
-          "feedback": "Incorrect."
+          "feedback": "Hatred is a strong dislike, which is the opposite of being willing to accept opinions one disagrees with."
         },
         {
           "letter": "B",
           "text": "Tolerance",
           "is_correct": true,
-          "feedback": "Correct. Acceptance of difference."
+          "feedback": "Tolerance is the willingness to accept the existence of opinions or behaviour one does not share, exactly as defined."
         },
         {
           "letter": "C",
           "text": "Envy",
           "is_correct": false,
-          "feedback": "Incorrect."
+          "feedback": "Envy is wanting what someone else has; the definition is about accepting difference, not about wanting others' possessions."
         },
         {
           "letter": "D",
           "text": "Greed",
           "is_correct": false,
-          "feedback": "Incorrect."
+          "feedback": "Greed is wanting to acquire more than one needs, which is unrelated to tolerating other people's views."
         }
       ],
       "correct_answer": "B",
@@ -556,25 +556,25 @@
           "letter": "C",
           "text": "bridge",
           "is_correct": true,
-          "feedback": "Correct. To bridge a gap means to connect two different things."
+          "feedback": "To bridge a gap is to connect two sides that are apart, which is what cultivating empathy does between groups."
         },
         {
           "letter": "A",
           "text": "widen",
           "is_correct": false,
-          "feedback": "Incorrect. We want to close the gap."
+          "feedback": "To widen a gap makes it larger, while the sentence says empathy lets us close the distance."
         },
         {
           "letter": "B",
           "text": "ignore",
           "is_correct": false,
-          "feedback": "Incorrect."
+          "feedback": "To ignore is to refuse to pay attention, which cannot bring anyone closer to anyone else."
         },
         {
           "letter": "D",
           "text": "create",
           "is_correct": false,
-          "feedback": "Incorrect."
+          "feedback": "To create a gap means to open a distance, the opposite of the connection described."
         }
       ],
       "correct_answer": "C",
@@ -646,25 +646,25 @@
           "letter": "A",
           "text": "optional",
           "is_correct": false,
-          "feedback": "Incorrect. Author says it's a necessity."
+          "feedback": "Calling it optional contradicts the author, who says it is required, not merely a choice."
         },
         {
           "letter": "D",
           "text": "necessity",
           "is_correct": true,
-          "feedback": "Correct. Necessity means the fact of being required or indispensable."
+          "feedback": "A necessity is something that is needed or indispensable, matching the author's claim about a globalized world."
         },
         {
           "letter": "B",
           "text": "burden",
           "is_correct": false,
-          "feedback": "Incorrect. Author sees it as a positive requirement."
+          "feedback": "A burden is a heavy, unwelcome duty, but the author presents diversity positively rather than as an encumbrance."
         },
         {
           "letter": "C",
           "text": "secret",
           "is_correct": false,
-          "feedback": "Incorrect."
+          "feedback": "There is nothing hidden about the conclusion; the author states the judgement openly."
         }
       ],
       "correct_answer": "D",
@@ -691,25 +691,25 @@
           "letter": "A",
           "text": "Facts",
           "is_correct": false,
-          "feedback": "Incorrect."
+          "feedback": "Facts are verified pieces of information; the sentence describes ideas formed from ignorance, which is the opposite."
         },
         {
           "letter": "B",
           "text": "Stereotypes",
           "is_correct": true,
-          "feedback": "Correct. Oversimplified and often biased ideas."
+          "feedback": "Stereotypes are oversimplified and biased generalizations about groups, which is what leads to unfair treatment."
         },
         {
           "letter": "C",
           "text": "Truths",
           "is_correct": false,
-          "feedback": "Incorrect."
+          "feedback": "Truths are accurate statements of fact, not the reductive ideas the sentence is warning about."
         },
         {
           "letter": "D",
           "text": "News",
           "is_correct": false,
-          "feedback": "Incorrect."
+          "feedback": "News is information reported from events; it is not a term for the biased generalizations described."
         }
       ],
       "correct_answer": "B",
@@ -781,25 +781,25 @@
           "letter": "B",
           "text": "Isolation",
           "is_correct": false,
-          "feedback": "Incorrect."
+          "feedback": "Isolation means keeping cultures apart, whereas hybridity is about combining them."
         },
         {
           "letter": "A",
           "text": "blending",
           "is_correct": true,
-          "feedback": "Correct. To blend means to mix or combine."
+          "feedback": "Blending is mixing different elements into something new, which is what cultural hybridity involves."
         },
         {
           "letter": "C",
           "text": "destruction",
           "is_correct": false,
-          "feedback": "Incorrect. It's a creative process."
+          "feedback": "Destruction would end the elements rather than combine them, and the definition describes a creative result."
         },
         {
           "letter": "D",
           "text": "separation",
           "is_correct": false,
-          "feedback": "Incorrect."
+          "feedback": "Separation means keeping things apart, the opposite of the blending that defines hybridity."
         }
       ],
       "correct_answer": "A",
@@ -826,25 +826,25 @@
           "letter": "A",
           "text": "engage",
           "is_correct": true,
-          "feedback": "Correct. Subjunctive base form after 'advised'."
+          "feedback": "After 'advised that' the subjunctive takes the base form, so the verb appears as 'engage'."
         },
         {
           "letter": "B",
           "text": "engages",
           "is_correct": false,
-          "feedback": "Incorrect."
+          "feedback": "'Engages' is the third-person form, but a subjunctive clause does not agree with the subject in this way."
         },
         {
           "letter": "C",
           "text": "to engage",
           "is_correct": false,
-          "feedback": "Incorrect. Doesn't fit 'that' clause."
+          "feedback": "'To engage' would need the bare infinitive marker after 'advised', and the sentence uses 'that', which takes a full clause."
         },
         {
           "letter": "D",
           "text": "engaging",
           "is_correct": false,
-          "feedback": "Incorrect."
+          "feedback": "'Engaging' is a participle and would need 'should be' or a relative clause; it cannot fill this bare position."
         }
       ],
       "correct_answer": "A",
@@ -871,25 +871,25 @@
           "letter": "A",
           "text": "source of strength",
           "is_correct": true,
-          "feedback": "Correct. Something that provides power or support."
+          "feedback": "A source of strength is what provides power or support, which is how the sentence presents diversity."
         },
         {
           "letter": "B",
           "text": "reason for conflict",
           "is_correct": false,
-          "feedback": "Incorrect. While it can cause conflict, the author frames it positively as 'strength'."
+          "feedback": "It can be read as reason for conflict, but the author deliberately frames it positively as 'strength'."
         },
         {
           "letter": "C",
           "text": "burden to society",
           "is_correct": false,
-          "feedback": "Incorrect. Negative."
+          "feedback": "A burden to society is a heavy negative cost, which contradicts the positive framing of the sentence."
         },
         {
           "letter": "D",
           "text": "barrier to progress",
           "is_correct": false,
-          "feedback": "Incorrect. It helps progress by adding perspectives."
+          "feedback": "A barrier to progress blocks progress; diversity adds perspectives that help solve problems instead."
         }
       ],
       "correct_answer": "A",

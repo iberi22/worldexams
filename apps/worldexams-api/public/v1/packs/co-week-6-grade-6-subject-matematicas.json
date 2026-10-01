@@ -212,7 +212,7 @@
           "letter": "B",
           "text": "20 m².",
           "is_correct": false,
-          "feedback": "Incorrecto. Sumaste."
+          "feedback": "El área es base por altura divididas entre dos: (12 × 8) / 2 = 48. Sumar 12 + 8 = 20 no da el área."
         },
         {
           "letter": "D",
@@ -246,7 +246,7 @@
           "letter": "B",
           "text": "81 cm².",
           "is_correct": true,
-          "feedback": "Correcto. $9^2 = 81$."
+          "feedback": "El área de un cuadrado es lado por lado, así que 9 cm × 9 cm = 81 cm²."
         },
         {
           "letter": "A",
@@ -350,7 +350,7 @@
           "letter": "B",
           "text": "Permanece igual.",
           "is_correct": false,
-          "feedback": "Incorrecto. Cambia."
+          "feedback": "El área depende del cuadrado del lado, así que al duplicar el lado pasa de l² a (2l)² = 4l² y cambia."
         },
         {
           "letter": "C",
@@ -402,7 +402,7 @@
           "letter": "C",
           "text": "80.",
           "is_correct": false,
-          "feedback": "Incorrecto. Multiplicaste."
+          "feedback": "Las baldosas se obtienen dividiendo el área entre el área de cada baldosa: 20 / 0.5 = 40. Multiplicar 20 × 0.5 daría 10, no 80."
         }
       ],
       "correct_answer": "D",

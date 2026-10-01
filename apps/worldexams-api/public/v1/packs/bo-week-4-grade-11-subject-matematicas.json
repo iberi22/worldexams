@@ -61,25 +61,25 @@
           "letter": "D",
           "text": "(x - y)(x + y)",
           "is_correct": true,
-          "feedback": "¡Correcto! La diferencia de cuadrados de dos términos es igual al producto de la suma por la diferencia de dichos términos."
+          "feedback": "La diferencia de cuadrados se factoriza como el producto de la suma por la diferencia: $(x-y)(x+y) = x^2 - y^2$."
         },
         {
           "letter": "A",
           "text": "(x - y)^2",
           "is_correct": false,
-          "feedback": "Incorrecto. Esto expande a x^2 - 2xy + y^2, no a x^2 - y^2."
+          "feedback": "$(x-y)^2$ se desarrolla como $x^2 - 2xy + y^2$, que tiene término cruzado, no $x^2 - y^2$."
         },
         {
           "letter": "B",
           "text": "(x + y)^2",
           "is_correct": false,
-          "feedback": "Incorrecto. Esto expande a x^2 + 2xy + y^2, no a x^2 - y^2."
+          "feedback": "$(x+y)^2$ se desarrolla como $x^2 + 2xy + y^2$, con término cruzado, así que no sirve."
         },
         {
           "letter": "C",
           "text": "x^2 - 2xy + y^2",
           "is_correct": false,
-          "feedback": "Incorrecto. Esta expresión es el trinomio de un binomio al cuadrado, no la forma factorizada."
+          "feedback": "$x^2 - 2xy + y^2$ es el desarrollo de un cuadrado perfecto, no la forma factorizada de $x^2 - y^2$."
         }
       ],
       "correct_answer": "D",

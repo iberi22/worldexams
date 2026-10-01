@@ -16,25 +16,25 @@
           "letter": "A",
           "text": "Red",
           "is_correct": true,
-          "feedback": "Correct!"
+          "feedback": "An apple is usually bright red, so \"red\" is the color students learn first for this fruit."
         },
         {
           "letter": "B",
           "text": "Blue",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "Blue is not a color of apples; it is the color the sky often has, not this fruit."
         },
         {
           "letter": "C",
           "text": "Purple",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "Blue is not a color of apples; it is the color the sky often has, not this fruit."
         },
         {
           "letter": "D",
           "text": "Grey",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "Grey is not an apple color; it describes clouds or an overcast sky."
         }
       ],
       "correct_answer": "A",
@@ -62,25 +62,25 @@
           "letter": "A",
           "text": "yellow",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "The sun is yellow, not the sky, so \"yellow\" does not complete the sentence."
         },
         {
           "letter": "B",
           "text": "blue",
           "is_correct": true,
-          "feedback": "Correct!"
+          "feedback": "On a sunny day the sky is blue, so \"blue\" completes the sentence."
         },
         {
           "letter": "C",
           "text": "green",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "Green is the color of grass and leaves, not of a clear sunny sky."
         },
         {
           "letter": "D",
           "text": "black",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "Black is not the sky's color on a sunny day; that is what the sky looks like during a storm."
         }
       ],
       "correct_answer": "B",
@@ -108,25 +108,25 @@
           "letter": "A",
           "text": "orange",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "Oranges are orange; a banana is yellow when it is ripe."
         },
         {
           "letter": "B",
           "text": "white",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "White is the color of milk, not of a banana peel."
         },
         {
           "letter": "C",
           "text": "yellow",
           "is_correct": true,
-          "feedback": "Correct!"
+          "feedback": "A banana is yellow when it is ripe, so \"yellow\" completes the sentence."
         },
         {
           "letter": "D",
           "text": "pink",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "Pink is a color for flowers or bubble gum, not for bananas."
         }
       ],
       "correct_answer": "C",
@@ -154,25 +154,25 @@
           "letter": "A",
           "text": "Circle",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "A circle has no corners and no sides at all, so it cannot have 4 equal sides."
         },
         {
           "letter": "B",
           "text": "Triangle",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "A triangle has 3 sides, not 4."
         },
         {
           "letter": "C",
           "text": "Heart",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "A heart shape has 2 curved sides and a point, not 4 equal straight sides."
         },
         {
           "letter": "D",
           "text": "Square",
           "is_correct": true,
-          "feedback": "Correct!"
+          "feedback": "A square has 4 sides of the same length, so it is the shape described."
         }
       ],
       "correct_answer": "D",
@@ -200,25 +200,25 @@
           "letter": "A",
           "text": "circle",
           "is_correct": true,
-          "feedback": "Correct!"
+          "feedback": "A ball is round, so it has the shape of a circle."
         },
         {
           "letter": "B",
           "text": "rectangle",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "A rectangle has 4 straight sides and corners, not the round shape of a ball."
         },
         {
           "letter": "C",
           "text": "star",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "A star has points, not the round shape of a ball."
         },
         {
           "letter": "D",
           "text": "square",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "A square has flat sides and corners, not the round shape of a ball."
         }
       ],
       "correct_answer": "A",
@@ -246,25 +246,25 @@
           "letter": "A",
           "text": "Brown",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "Red and yellow mix to make orange, not brown; brown comes from mixing other colors."
         },
         {
           "letter": "B",
           "text": "Orange",
           "is_correct": true,
-          "feedback": "Correct!"
+          "feedback": "Mixing the primary colors red and yellow gives orange, which is the answer."
         },
         {
           "letter": "C",
           "text": "Green",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "Green comes from mixing blue and yellow, not from red and yellow."
         },
         {
           "letter": "D",
           "text": "Purple",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "Purple comes from mixing red and blue, not from red and yellow."
         }
       ],
       "correct_answer": "B",
@@ -292,25 +292,25 @@
           "letter": "A",
           "text": "green",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "Green clouds are something we see in stories; real rain clouds are grey."
         },
         {
           "letter": "B",
           "text": "red",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "Red is the color of a sunset or a stop sign, not of rain clouds."
         },
         {
           "letter": "C",
           "text": "grey",
           "is_correct": true,
-          "feedback": "Correct!"
+          "feedback": "Rain clouds look grey, so \"grey\" completes the sentence."
         },
         {
           "letter": "D",
           "text": "pink",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "Pink is the color of flowers or cotton candy, not of rain clouds."
         }
       ],
       "correct_answer": "C",
@@ -338,25 +338,25 @@
           "letter": "A",
           "text": "square",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "A pizza is round, so it is not cut into a square shape."
         },
         {
           "letter": "B",
           "text": "oval",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "An oval is round like the whole pizza; it is not the shape of one slice."
         },
         {
           "letter": "C",
           "text": "diamond",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "A diamond is a shape with 4 corners; a pizza slice has 3."
         },
         {
           "letter": "D",
           "text": "triangle",
           "is_correct": true,
-          "feedback": "Correct!"
+          "feedback": "A slice has 3 straight edges, so it is a triangle."
         }
       ],
       "correct_answer": "D",

@@ -61,25 +61,25 @@
           "letter": "A",
           "text": "6",
           "is_correct": false,
-          "feedback": "Error al multiplicar los grados en lugar de sumarlos."
+          "feedback": "El grado del producto se obtiene sumando, no multiplicando, los grados de los factores."
         },
         {
           "letter": "B",
           "text": "5",
           "is_correct": true,
-          "feedback": "Correcto. Al multiplicar monomios de la misma base, se suman los exponentes. $x^2 \\cdot x^3 = x^5$."
+          "feedback": "Al multiplicar monomios de la misma base los exponentes se suman: $x^2 \\cdot x^3 = x^{2+3} = x^5$, y el producto tiene grado $2 + 3 = 5$."
         },
         {
           "letter": "C",
           "text": "3",
           "is_correct": false,
-          "feedback": "El grado resultante debe ser mayor que el de los factores."
+          "feedback": "El grado del producto siempre es mayor o igual que el de cada factor, porque los grados se suman: $2 + 3 = 5 > 3$."
         },
         {
           "letter": "D",
           "text": "2",
           "is_correct": false,
-          "feedback": "El grado resultante debe ser mayor que el de los factores."
+          "feedback": "El grado del producto no puede ser menor que el de un factor; aquí se obtiene $2 + 3 = 5$, no $2$."
         }
       ],
       "correct_answer": "B",

@@ -80,7 +80,7 @@
           "letter": "D",
           "text": "when / improve",
           "is_correct": false,
-          "feedback": "Incorrect meaning."
+          "feedback": "'When' marks a point in time rather than a condition, so it would say the improvement happens at some moment rather than making the result depend on it."
         }
       ],
       "correct_answer": "A",
@@ -108,7 +108,7 @@
           "letter": "A",
           "text": "Unless / apply",
           "is_correct": false,
-          "feedback": "Incorrect meaning."
+          "feedback": "'Unless' means 'if not', so it would invert the logic of the sentence. And 'apply' needs 'will' for a future event."
         },
         {
           "letter": "C",
@@ -120,13 +120,13 @@
           "letter": "B",
           "text": "If / applied",
           "is_correct": false,
-          "feedback": "Incorrect."
+          "feedback": "'If' is possible, but 'applied' is past tense while the graduation and the master's degree are still ahead."
         },
         {
           "letter": "D",
           "text": "When / apply",
           "is_correct": false,
-          "feedback": "Incorrect. Needs future tense in the main clause."
+          "feedback": "This pair is right except for the main clause: a definite future event needs 'will apply', not the bare infinitive."
         }
       ],
       "correct_answer": "C",
@@ -154,7 +154,7 @@
           "letter": "B",
           "text": "lost / learned",
           "is_correct": false,
-          "feedback": "Incorrect."
+          "feedback": "'Lost' and 'learned' are both past tense, so this reads as a past-to-past account rather than as what will happen."
         },
         {
           "letter": "A",
@@ -166,13 +166,13 @@
           "letter": "C",
           "text": "lose / will learn",
           "is_correct": false,
-          "feedback": "Incorrect placement of 'will'."
+          "feedback": "This reverses the clauses: 'lose' describes what happens if the condition is met, but 'will learn' wrongly puts the future in the 'unless' clause."
         },
         {
           "letter": "D",
           "text": "would lose / learn",
           "is_correct": false,
-          "feedback": "Incorrect."
+          "feedback": "'Would lose' belongs to the second conditional (hypothetical, often imagined), while the sentence states a real condition that will probably be met."
         }
       ],
       "correct_answer": "A",
@@ -200,7 +200,7 @@
           "letter": "A",
           "text": "helped / when",
           "is_correct": false,
-          "feedback": "Incorrect."
+          "feedback": "'Helped' is past tense and 'when' introduces a time clause, not a condition, so the two do not pair here."
         },
         {
           "letter": "C",
@@ -212,13 +212,13 @@
           "letter": "B",
           "text": "help / unless",
           "is_correct": false,
-          "feedback": "Incorrect."
+          "feedback": "'Unless' means 'if not', which would make the meaning the opposite of what the sentence needs."
         },
         {
           "letter": "D",
           "text": "would help / if",
           "is_correct": false,
-          "feedback": "Incorrect tense."
+          "feedback": "'Would help' is the second conditional for a hypothetical; the speaker is stating a concrete future promise, so 'will help' and 'if' fit."
         }
       ],
       "correct_answer": "C",
@@ -246,7 +246,7 @@
           "letter": "A",
           "text": "will want / need",
           "is_correct": false,
-          "feedback": "Incorrect."
+          "feedback": "'Will want' puts the future tense in the if-clause, but a first conditional keeps present tense there and places 'will' in the main clause."
         },
         {
           "letter": "B",
@@ -292,7 +292,7 @@
           "letter": "A",
           "text": "signs / unless",
           "is_correct": false,
-          "feedback": "Incorrect."
+          "feedback": "'Signs ... unless' states that the contract is signed when the check does not pass, which is the reverse of the intended condition."
         },
         {
           "letter": "C",
@@ -304,13 +304,13 @@
           "letter": "B",
           "text": "will sign / unless",
           "is_correct": false,
-          "feedback": "Correct if the check is passed, but B is a more direct focus for 'if'."
+          "feedback": "'Will sign ... unless' says the contract is signed only if the candidate does NOT pass, which inverts the condition."
         },
         {
           "letter": "D",
           "text": "won't sign / unless",
           "is_correct": false,
-          "feedback": "Incorrect. Double negative logic."
+          "feedback": "'Won't sign ... unless' is contradictory: not signing unless the check passes asserts the opposite outcome for a failing candidate."
         }
       ],
       "correct_answer": "C",
@@ -338,7 +338,7 @@
           "letter": "A",
           "text": "offers / refuses",
           "is_correct": false,
-          "feedback": "Incorrect."
+          "feedback": "'Offers' is active, but nobody offers a salary to themselves here; the company offers it, so the receiving side must be passive."
         },
         {
           "letter": "D",
@@ -356,7 +356,7 @@
           "letter": "C",
           "text": "has offered / refuses",
           "is_correct": false,
-          "feedback": "Incorrect."
+          "feedback": "'Has offered' is a present perfect with an active subject, and 'refuses' is present simple, which does not match a future outcome."
         }
       ],
       "correct_answer": "D",
@@ -436,19 +436,19 @@
           "letter": "A",
           "text": "decided / would prepare",
           "is_correct": false,
-          "feedback": "Incorrect syntax for this inversion."
+          "feedback": "After the conditional 'Should you decide', the main clause needs a future form; 'decided' is past tense and does not pair with this inversion."
         },
         {
           "letter": "C",
           "text": "will decide / prepare",
           "is_correct": false,
-          "feedback": "Incorrect."
+          "feedback": "'Will decide' belongs in the 'should' clause, not the main clause, and 'prepare' is left without an auxiliary."
         },
         {
           "letter": "D",
           "text": "decides / will prepare",
           "is_correct": false,
-          "feedback": "Incorrect."
+          "feedback": "With 'Should' inverted from 'If you should', the clause takes the bare infinitive 'decide'; the third-person 'decides' does not follow a modal."
         }
       ],
       "correct_answer": "B",
@@ -482,7 +482,7 @@
           "letter": "B",
           "text": "built / was",
           "is_correct": false,
-          "feedback": "Incorrect."
+          "feedback": "'Built' and 'was' are both past, so this reads as a past condition and past result rather than a principle about career prospects."
         },
         {
           "letter": "D",
@@ -494,7 +494,7 @@
           "letter": "C",
           "text": "has built / is",
           "is_correct": false,
-          "feedback": "Incorrect."
+          "feedback": "'Has built' is present perfect and pairs with 'is', which makes the sentence a statement of fact about the present, not a conditional principle."
         }
       ],
       "correct_answer": "D",
@@ -528,19 +528,19 @@
           "letter": "A",
           "text": "maintains / she will",
           "is_correct": false,
-          "feedback": "Incorrect. Missing inversion."
+          "feedback": "This leaves the subject 'she' in place, so the inversion that 'only if' requires is missing."
         },
         {
           "letter": "B",
           "text": "maintained / would",
           "is_correct": false,
-          "feedback": "Second Conditional inversion."
+          "feedback": "With 'only if' inverted the subject comes first and the auxiliary follows, as in 'only if she maintains her pace will she succeed'."
         },
         {
           "letter": "C",
           "text": "will maintain / she",
           "is_correct": false,
-          "feedback": "Incorrect."
+          "feedback": "'Maintained' is past tense and 'would' belongs to the second conditional; 'only if' inverted takes present tense plus 'will'."
         }
       ],
       "correct_answer": "D",

@@ -8,43 +8,43 @@
   },
   "questions": [
     {
-      "id": "CO-ING-6-2026-W33-how-much-many-001-v1",
-      "statement": "This is a review question about how-much-many.",
-      "context": "Scenario about how-much-many in a Colombian school or city context.",
+      "id": "CO-ING-6-2026-W33-how-much-many-001-MASTERY-bundle-v1",
+      "statement": "Which question is correct?",
+      "context": "Clase de ingles de sexto grado en la que se repasa cuando usar How much y How many.",
       "options": [
         {
           "letter": "A",
-          "text": "Option B",
+          "text": "How much books do you have?",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
-        },
-        {
-          "letter": "B",
-          "text": "Option A (Correct)",
-          "is_correct": true,
-          "feedback": "Correct! Well done."
+          "feedback": "how much is used with uncountable nouns, and books is a countable noun."
         },
         {
           "letter": "C",
-          "text": "Option D",
+          "text": "How many books do you have?",
+          "is_correct": true,
+          "feedback": "how many is used with countable nouns, and books can be counted, so the question is correct."
+        },
+        {
+          "letter": "B",
+          "text": "How much are the books?",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "That structure with are goes with uncountable nouns such as money or water."
         },
         {
           "letter": "D",
-          "text": "Option C",
+          "text": "How many is there money?",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "The question mixes how many with an uncountable noun and its verb is the wrong choice."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "This question evaluates the student's ability to remember the topic of Quantifiers: How much / How many at an A2 level. It focuses on Colombian contexts and standard A2 grammar.\n\n---",
+      "correct_answer": "C",
+      "explanation": "La eleccion entre how much y how many depende de una sola pregunta: se puede contar el sustantivo con numeros. Los libros se cuentan, la moneda no, y esa comprobacion resuelve practicamente todos los casos de la unidad.",
       "difficulty": "4",
       "images": [],
       "tags": [],
-      "bloom": "Remember",
-      "icfes_type": "Reading Comprehension",
-      "expected_success": 0.75,
+      "bloom": "Understand",
+      "icfes_type": "Uso de la lengua",
+      "expected_success": 0.8,
       "bundle_id": "CO-ING-6-2026-W33-how-much-many-001-MASTERY-bundle",
       "periodo": 33,
       "protocol_version": "5.2",
@@ -54,43 +54,43 @@
       "country": "co"
     },
     {
-      "id": "CO-ING-6-2026-W33-how-much-many-002-v1",
-      "statement": "Select the correct A2 level use for how-much-many.",
-      "context": "Scenario about how-much-many in a Colombian school or city context.",
+      "id": "CO-ING-6-2026-W33-how-much-many-001-MASTERY-bundle-v2",
+      "statement": "Choose the correct question: \"___ sugar do you need?\"",
+      "context": "Ejercicio de compra en la tienda de la esquina.",
       "options": [
         {
           "letter": "A",
-          "text": "Structure 1 (Correct)",
-          "is_correct": true,
-          "feedback": "Correct! Well done."
-        },
-        {
-          "letter": "B",
-          "text": "Structure 4",
+          "text": "How many",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
-        },
-        {
-          "letter": "C",
-          "text": "Structure 2",
-          "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "how many cannot go before sugar because the units of sugar are not counted."
         },
         {
           "letter": "D",
-          "text": "Structure 3",
+          "text": "How much",
+          "is_correct": true,
+          "feedback": "how much goes before uncountable nouns such as sugar, water or milk."
+        },
+        {
+          "letter": "B",
+          "text": "How long",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "how long asks for a length of time, not for a quantity."
+        },
+        {
+          "letter": "C",
+          "text": "How old",
+          "is_correct": false,
+          "feedback": "how old asks for an age and has nothing to do with a quantity."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "This question evaluates the student's ability to remember the topic of Quantifiers: How much / How many at an A2 level. It focuses on Colombian contexts and standard A2 grammar.\n\n---",
+      "correct_answer": "D",
+      "explanation": "Los sustantivos incontables en inglesExpressan la cantidad con una unidad de medida en lugar de con un numeral. Por eso se dice how much sugar pero two kilos of sugar, y mezclar ambas estructuras es el error habitual.",
       "difficulty": "4",
       "images": [],
       "tags": [],
-      "bloom": "Remember",
-      "icfes_type": "Reading Comprehension",
-      "expected_success": 0.75,
+      "bloom": "Apply",
+      "icfes_type": "Uso de la lengua",
+      "expected_success": 0.8,
       "bundle_id": "CO-ING-6-2026-W33-how-much-many-001-MASTERY-bundle",
       "periodo": 33,
       "protocol_version": "5.2",
@@ -100,43 +100,43 @@
       "country": "co"
     },
     {
-      "id": "CO-ING-6-2026-W33-how-much-many-003-v1",
-      "statement": "Identify the appropriate vocabulary for how-much-many.",
-      "context": "Scenario about how-much-many in a Colombian school or city context.",
+      "id": "CO-ING-6-2026-W33-how-much-many-001-MASTERY-bundle-v3",
+      "statement": "Read: \"We need some rice, some milk and two cans of tuna.\" What can be counted?",
+      "context": "Lectura de un aviso sobre la donacion de alimentos a un banco de alimentos.",
       "options": [
         {
-          "letter": "A",
-          "text": "Word 1 (Correct)",
+          "letter": "D",
+          "text": "The cans of tuna",
           "is_correct": true,
-          "feedback": "Correct! Well done."
+          "feedback": "Cans of tuna takes the numeral two, which shows that the cans are counted."
+        },
+        {
+          "letter": "A",
+          "text": "The rice",
+          "is_correct": false,
+          "feedback": "Rice goes with some and with a unit of weight, and not with a direct numeral."
         },
         {
           "letter": "B",
-          "text": "Word 2",
+          "text": "The milk",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "Milk is uncountable and therefore does not accept a numeral such as two."
         },
         {
           "letter": "C",
-          "text": "Word 3",
+          "text": "The food in general",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
-        },
-        {
-          "letter": "D",
-          "text": "Word 4",
-          "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "The text allows you to separate what is counted from what is not, and that generality does not answer the question."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "This question evaluates the student's ability to understand the topic of Quantifiers: How much / How many at an A2 level. It focuses on Colombian contexts and standard A2 grammar.\n\n---",
-      "difficulty": "6",
+      "correct_answer": "D",
+      "explanation": "Identificar en el texto que elementos aparecen con numeral y cuales con some o some mucho permite deducir la regla sin necesidad de explicarla de antemano. Esa observacion inductiva es la que consolida el criterio de contable e incontable.",
+      "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Understand",
-      "icfes_type": "Reading Comprehension",
-      "expected_success": 0.75,
+      "icfes_type": "Uso de la lengua",
+      "expected_success": 0.85,
       "bundle_id": "CO-ING-6-2026-W33-how-much-many-001-MASTERY-bundle",
       "periodo": 33,
       "protocol_version": "5.2",
@@ -146,273 +146,43 @@
       "country": "co"
     },
     {
-      "id": "CO-ING-6-2026-W33-how-much-many-004-v1",
-      "statement": "Complete the sentence about how-much-many.",
-      "context": "Scenario about how-much-many in a Colombian school or city context.",
+      "id": "CO-ING-6-2026-W33-how-much-many-001-MASTERY-bundle-v4",
+      "statement": "Which sentence uses the right quantifier for a plural countable subject?",
+      "context": "Ejercicio de descripcion de una habitacion en el examen de grado sexto.",
       "options": [
         {
-          "letter": "A",
-          "text": "Phrase D",
+          "letter": "B",
+          "text": "There aren't much chairs in the room.",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "chairs is countable, so the plural quantifier many is required and much cannot go before it."
         },
         {
-          "letter": "B",
-          "text": "Phrase A (Correct)",
+          "letter": "A",
+          "text": "There aren't many chairs in the room.",
           "is_correct": true,
-          "feedback": "Correct! Well done."
+          "feedback": "Chairs is countable, so the negative quantifier is many and the sentence becomes aren't many chairs."
         },
         {
           "letter": "C",
-          "text": "Phrase B",
+          "text": "There aren't many chair in the room.",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "The noun chair is in the singular and does not agree with the plural are."
         },
         {
           "letter": "D",
-          "text": "Phrase C",
+          "text": "There isn't much chairs in the room.",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
-        }
-      ],
-      "correct_answer": "B",
-      "explanation": "This question evaluates the student's ability to understand the topic of Quantifiers: How much / How many at an A2 level. It focuses on Colombian contexts and standard A2 grammar.\n\n---",
-      "difficulty": "6",
-      "images": [],
-      "tags": [],
-      "bloom": "Understand",
-      "icfes_type": "Reading Comprehension",
-      "expected_success": 0.75,
-      "bundle_id": "CO-ING-6-2026-W33-how-much-many-001-MASTERY-bundle",
-      "periodo": 33,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ingles",
-      "grade": 6,
-      "country": "co"
-    },
-    {
-      "id": "CO-ING-6-2026-W33-how-much-many-005-v1",
-      "statement": "What is the best way to express how-much-many?",
-      "context": "Scenario about how-much-many in a Colombian school or city context.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "That way",
-          "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
-        },
-        {
-          "letter": "B",
-          "text": "This way (Correct)",
-          "is_correct": true,
-          "feedback": "Correct! Well done."
-        },
-        {
-          "letter": "C",
-          "text": "Other way",
-          "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
-        },
-        {
-          "letter": "D",
-          "text": "Incorrect way",
-          "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
-        }
-      ],
-      "correct_answer": "B",
-      "explanation": "This question evaluates the student's ability to apply the topic of Quantifiers: How much / How many at an A2 level. It focuses on Colombian contexts and standard A2 grammar.\n\n---",
-      "difficulty": "6",
-      "images": [],
-      "tags": [],
-      "bloom": "Apply",
-      "icfes_type": "Reading Comprehension",
-      "expected_success": 0.75,
-      "bundle_id": "CO-ING-6-2026-W33-how-much-many-001-MASTERY-bundle",
-      "periodo": 33,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ingles",
-      "grade": 6,
-      "country": "co"
-    },
-    {
-      "id": "CO-ING-6-2026-W33-how-much-many-006-v1",
-      "statement": "Find the error in this how-much-many sentence.",
-      "context": "Scenario about how-much-many in a Colombian school or city context.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "No error",
-          "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
-        },
-        {
-          "letter": "B",
-          "text": "Wrong error",
-          "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
-        },
-        {
-          "letter": "C",
-          "text": "Different error",
-          "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
-        },
-        {
-          "letter": "D",
-          "text": "The error is here (Correct)",
-          "is_correct": true,
-          "feedback": "Correct! Well done."
-        }
-      ],
-      "correct_answer": "D",
-      "explanation": "This question evaluates the student's ability to apply the topic of Quantifiers: How much / How many at an A2 level. It focuses on Colombian contexts and standard A2 grammar.\n\n---",
-      "difficulty": "8",
-      "images": [],
-      "tags": [],
-      "bloom": "Apply",
-      "icfes_type": "Reading Comprehension",
-      "expected_success": 0.75,
-      "bundle_id": "CO-ING-6-2026-W33-how-much-many-001-MASTERY-bundle",
-      "periodo": 33,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ingles",
-      "grade": 6,
-      "country": "co"
-    },
-    {
-      "id": "CO-ING-6-2026-W33-how-much-many-007-v1",
-      "statement": "Match the term with the definition of how-much-many.",
-      "context": "Scenario about how-much-many in a Colombian school or city context.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "Non-matching",
-          "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
-        },
-        {
-          "letter": "B",
-          "text": "Matching term (Correct)",
-          "is_correct": true,
-          "feedback": "Correct! Well done."
-        },
-        {
-          "letter": "C",
-          "text": "Opposite",
-          "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
-        },
-        {
-          "letter": "D",
-          "text": "Irrelevant",
-          "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
-        }
-      ],
-      "correct_answer": "B",
-      "explanation": "This question evaluates the student's ability to apply the topic of Quantifiers: How much / How many at an A2 level. It focuses on Colombian contexts and standard A2 grammar.\n\n---",
-      "difficulty": "8",
-      "images": [],
-      "tags": [],
-      "bloom": "Apply",
-      "icfes_type": "Reading Comprehension",
-      "expected_success": 0.75,
-      "bundle_id": "CO-ING-6-2026-W33-how-much-many-001-MASTERY-bundle",
-      "periodo": 33,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ingles",
-      "grade": 6,
-      "country": "co"
-    },
-    {
-      "id": "CO-ING-6-2026-W33-how-much-many-008-v1",
-      "statement": "Choose the synonym for a word related to how-much-many.",
-      "context": "Scenario about how-much-many in a Colombian school or city context.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "Antonym",
-          "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
-        },
-        {
-          "letter": "B",
-          "text": "Homonym",
-          "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
-        },
-        {
-          "letter": "C",
-          "text": "Unrelated",
-          "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
-        },
-        {
-          "letter": "D",
-          "text": "Synonym (Correct)",
-          "is_correct": true,
-          "feedback": "Correct! Well done."
-        }
-      ],
-      "correct_answer": "D",
-      "explanation": "This question evaluates the student's ability to analyze the topic of Quantifiers: How much / How many at an A2 level. It focuses on Colombian contexts and standard A2 grammar.\n\n---",
-      "difficulty": "8",
-      "images": [],
-      "tags": [],
-      "bloom": "Analyze",
-      "icfes_type": "Reading Comprehension",
-      "expected_success": 0.75,
-      "bundle_id": "CO-ING-6-2026-W33-how-much-many-001-MASTERY-bundle",
-      "periodo": 33,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ingles",
-      "grade": 6,
-      "country": "co"
-    },
-    {
-      "id": "CO-ING-6-2026-W33-how-much-many-009-v1",
-      "statement": "Which of these belongs to how-much-many?",
-      "context": "Scenario about how-much-many in a Colombian school or city context.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "This one (Correct)",
-          "is_correct": true,
-          "feedback": "Correct! Well done."
-        },
-        {
-          "letter": "B",
-          "text": "Neither",
-          "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
-        },
-        {
-          "letter": "C",
-          "text": "Not this one",
-          "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
-        },
-        {
-          "letter": "D",
-          "text": "Both",
-          "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "That option combines the singular verb isn't with a plural noun, and it also uses much with a countable noun."
         }
       ],
       "correct_answer": "A",
-      "explanation": "This question evaluates the student's ability to analyze the topic of Quantifiers: How much / How many at an A2 level. It focuses on Colombian contexts and standard A2 grammar.\n\n---",
-      "difficulty": "10",
+      "explanation": "En la negacion many y much anteponen el verbo al sustantivo, y por eso el orden de la oracion cambia respecto a la afirmativa. Revisar a la vez la concordancia del verbo y el criterio contable resuelve las tres errores en una sola comprobacion.",
+      "difficulty": "4",
       "images": [],
       "tags": [],
-      "bloom": "Analyze",
-      "icfes_type": "Reading Comprehension",
-      "expected_success": 0.75,
+      "bloom": "Apply",
+      "icfes_type": "Uso de la lengua",
+      "expected_success": 0.85,
       "bundle_id": "CO-ING-6-2026-W33-how-much-many-001-MASTERY-bundle",
       "periodo": 33,
       "protocol_version": "5.2",
@@ -422,43 +192,273 @@
       "country": "co"
     },
     {
-      "id": "CO-ING-6-2026-W33-how-much-many-010-v1",
-      "statement": "Predict the next word in the how-much-many context.",
-      "context": "Scenario about how-much-many in a Colombian school or city context.",
+      "id": "CO-ING-6-2026-W33-how-much-many-001-MASTERY-bundle-v5",
+      "statement": "Read: \"A sandwich costs three dollars and a juice costs two dollars.\" How much does a sandwich cost?",
+      "context": "Ejercicio de lectura de precios en un menu de cafeteria escolar.",
       "options": [
         {
           "letter": "A",
-          "text": "Impossible",
-          "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "text": "Three dollars",
+          "is_correct": true,
+          "feedback": "The text says literally that the sandwich costs three dollars."
         },
         {
           "letter": "B",
-          "text": "Wrong prediction",
+          "text": "Two dollars",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "Two dollars is the price of the juice and not of the sandwich."
         },
         {
           "letter": "C",
-          "text": "Maybe",
+          "text": "Five dollars",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "Five dollars would be the sum of the two prices, and the question asks for one only."
         },
         {
           "letter": "D",
-          "text": "Correct prediction",
-          "is_correct": true,
-          "feedback": "Correct! Well done."
+          "text": "One dollar",
+          "is_correct": false,
+          "feedback": "One dollar does not appear in the text as the price of any item."
         }
       ],
-      "correct_answer": "D",
-      "explanation": "This question evaluates the student's ability to evaluate the topic of Quantifiers: How much / How many at an A2 level. It focuses on Colombian contexts and standard A2 grammar.\n\n---",
-      "difficulty": "10",
+      "correct_answer": "A",
+      "explanation": "Cuando un texto presenta dos precios y la pregunta pide solo uno, el riesgo mayor es sumar. Localizar la palabra clave sandwich en la pregunta y buscarla en el texto evita esa confusion de manera inmediata.",
+      "difficulty": "4",
       "images": [],
       "tags": [],
-      "bloom": "Evaluate",
-      "icfes_type": "Reading Comprehension",
-      "expected_success": 0.75,
+      "bloom": "Understand",
+      "icfes_type": "Uso de la lengua",
+      "expected_success": 0.8,
+      "bundle_id": "CO-ING-6-2026-W33-how-much-many-001-MASTERY-bundle",
+      "periodo": 33,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-6-2026-W33-how-much-many-001-MASTERY-bundle-v6",
+      "statement": "Complete the sentence: \"___ students are in the library this morning.\"",
+      "context": "Ejercicio de escritura de un anuncio para el tablón del salon.",
+      "options": [
+        {
+          "letter": "B",
+          "text": "Much",
+          "is_correct": false,
+          "feedback": "much does not accept a countable plural noun such as students."
+        },
+        {
+          "letter": "A",
+          "text": "Many",
+          "is_correct": true,
+          "feedback": "many goes before countable nouns in the plural, and students is one of them."
+        },
+        {
+          "letter": "C",
+          "text": "Long",
+          "is_correct": false,
+          "feedback": "long qualifies nouns and does not go in front of a noun such as students."
+        },
+        {
+          "letter": "D",
+          "text": "Little",
+          "is_correct": false,
+          "feedback": "little goes before uncountable nouns and is used in negative sentences."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Los cuantificadores del ingles tienen restricciones de categoria: many con contables plurales, much con incontables, little con incontables en negativo y few con contables en negativo. Conocer esa tabla evita casi todos los errores de la unidad.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Uso de la lengua",
+      "expected_success": 0.85,
+      "bundle_id": "CO-ING-6-2026-W33-how-much-many-001-MASTERY-bundle",
+      "periodo": 33,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-6-2026-W33-how-much-many-001-MASTERY-bundle-v7",
+      "statement": "Which sentence uses little correctly?",
+      "context": "Reflexion sobre el uso de los cuantificadores poco y mucho.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "There is little water in the bottle.",
+          "is_correct": false,
+          "feedback": "That sentence would be correct in Spanish, but in English little is used in the negative."
+        },
+        {
+          "letter": "B",
+          "text": "There isn't much water in the bottle.",
+          "is_correct": true,
+          "feedback": "much is the quantifier that goes with uncountable nouns in the negative."
+        },
+        {
+          "letter": "C",
+          "text": "There aren't little students in the class.",
+          "is_correct": false,
+          "feedback": "little does not go before countable nouns such as students."
+        },
+        {
+          "letter": "D",
+          "text": "There is a little book in the desk.",
+          "is_correct": false,
+          "feedback": "a little does go before a countable singular noun, but the question asks for the form little."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "En ingles a little admite un sustantivo singular contable, pero little a secas solo aparece en frases negativas. El enunciado pide justamente la forma little, y por eso la unica respuesta que la contiene de manera correcta es la opcion B.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Uso de la lengua",
+      "expected_success": 0.8,
+      "bundle_id": "CO-ING-6-2026-W33-how-much-many-001-MASTERY-bundle",
+      "periodo": 33,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-6-2026-W33-how-much-many-001-MASTERY-bundle-v8",
+      "statement": "Translate to English: \"Hay mucha gente en el parque.\"",
+      "context": "Ejercicio de traduccion de un aviso escolar del espanol al ingles.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "There are many people at the park.",
+          "is_correct": false,
+          "feedback": "People is countable because it accepts the numerals one person and two people, so it needs many."
+        },
+        {
+          "letter": "C",
+          "text": "There is many people at the park.",
+          "is_correct": false,
+          "feedback": "The verb is does not agree with the plural subject people."
+        },
+        {
+          "letter": "D",
+          "text": "There are much people at the park.",
+          "is_correct": false,
+          "feedback": "much is used with uncountables and people is a countable noun."
+        },
+        {
+          "letter": "B",
+          "text": "There are a lot of people at the park.",
+          "is_correct": true,
+          "feedback": "a lot of accepts both countable and uncountable nouns, so it works with people."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "People es un sustantivo peculiar porque es plural en forma pero se puede contar con one person. Esa caracteristica hace que many sea la opcion natural, y a lot of es la alternativa equally valida cuando no se quiere insistir en la cantidad exacta.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Uso de la lengua",
+      "expected_success": 0.85,
+      "bundle_id": "CO-ING-6-2026-W33-how-much-many-001-MASTERY-bundle",
+      "periodo": 33,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-6-2026-W33-how-much-many-001-MASTERY-bundle-v9",
+      "statement": "Read: \"You should drink two litres of water every day.\" How much water is recommended?",
+      "context": "Ejercicio de lectura de un articulo sobre el consumo responsable de agua.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Two bottles",
+          "is_correct": false,
+          "feedback": "The text speaks of litres and not of bottles, so that unit does not appear in the original."
+        },
+        {
+          "letter": "B",
+          "text": "Two litres of water",
+          "is_correct": true,
+          "feedback": "The text indicates two litres of water, which is exactly the amount recommended."
+        },
+        {
+          "letter": "C",
+          "text": "Two litres of milk",
+          "is_correct": false,
+          "feedback": "The substance is water and the text does not mention milk."
+        },
+        {
+          "letter": "D",
+          "text": "One litre of water",
+          "is_correct": false,
+          "feedback": "One litre would be half the amount the article recommends."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Los incontables se expresan con la unidad delante del sustantivo, como two litres of water, y no con el sustantivo en plural. Reconocer que el agua no tiene forma plural es lo que permite descartar la opcion de la leche y entender la estructura completa.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Uso de la lengua",
+      "expected_success": 0.8,
+      "bundle_id": "CO-ING-6-2026-W33-how-much-many-001-MASTERY-bundle",
+      "periodo": 33,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-6-2026-W33-how-much-many-001-MASTERY-bundle-v10",
+      "statement": "Which question asks for the price correctly?",
+      "context": "Prueba corta de la unidad para cerrar el trimestre.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "How many is the bag?",
+          "is_correct": false,
+          "feedback": "how many is used with countable nouns, and the question is looking for a price, not a quantity."
+        },
+        {
+          "letter": "B",
+          "text": "How much are the bag?",
+          "is_correct": false,
+          "feedback": "The verb are does not agree with the singular subject the bag."
+        },
+        {
+          "letter": "C",
+          "text": "How much is the bag?",
+          "is_correct": true,
+          "feedback": "To ask for the price of an object you use how much with the verb to be."
+        },
+        {
+          "letter": "D",
+          "text": "How old is the bag?",
+          "is_correct": false,
+          "feedback": "how old asks for an age and not for the purchase price."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Cuando how much acompana al verbo to be, la pregunta pide un precio y el sustantivo puede ser contable o incontables. Esa combinacion es la que se usa en las tiendas y es diferente de how much are para sustantivos incontables en plural.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Uso de la lengua",
+      "expected_success": 0.85,
       "bundle_id": "CO-ING-6-2026-W33-how-much-many-001-MASTERY-bundle",
       "periodo": 33,
       "protocol_version": "5.2",

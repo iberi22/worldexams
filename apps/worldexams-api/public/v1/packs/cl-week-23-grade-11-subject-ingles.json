@@ -124,7 +124,7 @@
           "letter": "C",
           "text": "would question",
           "is_correct": false,
-          "feedback": "Incorrect."
+          "feedback": "'Would question' is the second conditional form, which sets up an imagined situation, whereas 'if only' plus 'would have' states a real regret about what really did not happen."
         }
       ],
       "correct_answer": "D",
@@ -484,7 +484,7 @@
           "letter": "C",
           "text": "Question",
           "is_correct": false,
-          "feedback": "Incorrect."
+          "feedback": "A question asks for information and is an open problem; an axiom is a starting point that is accepted as true without being proved."
         }
       ],
       "correct_answer": "D",
@@ -691,7 +691,7 @@
           "letter": "A",
           "text": "Fact",
           "is_correct": false,
-          "feedback": "Incorrect."
+          "feedback": "A fact is something known to be true with no contradiction in it, which is exactly what a paradox is not."
         },
         {
           "letter": "D",
@@ -703,13 +703,13 @@
           "letter": "B",
           "text": "Slogan",
           "is_correct": false,
-          "feedback": "Incorrect."
+          "feedback": "A slogan is a short catchy phrase used for advertising, not a statement that contradicts itself."
         },
         {
           "letter": "C",
           "text": "Myth",
           "is_correct": false,
-          "feedback": "Incorrect."
+          "feedback": "A myth is a traditional story believed to be true, but it involves no internal contradiction, so it is not a paradox."
         }
       ],
       "correct_answer": "D",

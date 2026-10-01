@@ -16,25 +16,25 @@
           "letter": "A",
           "text": "school",
           "is_correct": true,
-          "feedback": "Correct!"
+          "feedback": "You go to school to study."
         },
         {
           "letter": "B",
           "text": "park",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "A park is for playing and relaxing, not for lessons."
         },
         {
           "letter": "C",
           "text": "cinema",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "The cinema is where films are shown."
         },
         {
           "letter": "D",
           "text": "zoo",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "The zoo is where wild animals are kept for people to see."
         }
       ],
       "correct_answer": "A",
@@ -62,25 +62,25 @@
           "letter": "A",
           "text": "bank",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "A bank holds your money; it is not where you are treated for illness."
         },
         {
           "letter": "B",
           "text": "hospital",
           "is_correct": true,
-          "feedback": "Correct!"
+          "feedback": "You go to the hospital when you are sick."
         },
         {
           "letter": "C",
           "text": "supermarket",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "A supermarket sells food, and you visit it to shop, not to be treated."
         },
         {
           "letter": "D",
           "text": "library",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "A library lends books, and it is not a place of medical care."
         }
       ],
       "correct_answer": "B",
@@ -108,25 +108,25 @@
           "letter": "A",
           "text": "church",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "A church is a place of worship, not a place where food is sold."
         },
         {
           "letter": "B",
           "text": "gym",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "A gym is for exercise, not for buying groceries."
         },
         {
           "letter": "C",
           "text": "supermarket",
           "is_correct": true,
-          "feedback": "Correct!"
+          "feedback": "You buy food at the supermarket."
         },
         {
           "letter": "D",
           "text": "police station",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "A police station is where the police work, not where groceries are sold."
         }
       ],
       "correct_answer": "C",
@@ -154,25 +154,25 @@
           "letter": "A",
           "text": "bakery",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "A bakery sells bread and cakes; films are not shown there."
         },
         {
           "letter": "B",
           "text": "pharmacy",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "A pharmacy sells medicines."
         },
         {
           "letter": "C",
           "text": "museum",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "A museum shows old objects and paintings, not films."
         },
         {
           "letter": "D",
           "text": "cinema",
           "is_correct": true,
-          "feedback": "Correct!"
+          "feedback": "You watch movies at the cinema."
         }
       ],
       "correct_answer": "D",
@@ -200,25 +200,25 @@
           "letter": "A",
           "text": "park",
           "is_correct": true,
-          "feedback": "Correct!"
+          "feedback": "You play with your friends at the park."
         },
         {
           "letter": "B",
           "text": "office",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "An office is a place where people work, not where children play outside."
         },
         {
           "letter": "C",
           "text": "factory",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "A factory makes things with machines."
         },
         {
           "letter": "D",
           "text": "station",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "A station is a stop for trains or buses."
         }
       ],
       "correct_answer": "A",
@@ -246,25 +246,25 @@
           "letter": "A",
           "text": "pet shop",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "A pet shop sells animals and their food, not bread."
         },
         {
           "letter": "B",
           "text": "bakery",
           "is_correct": true,
-          "feedback": "Correct!"
+          "feedback": "You buy bread at the bakery."
         },
         {
           "letter": "C",
           "text": "shoe shop",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "A shoe shop sells footwear."
         },
         {
           "letter": "D",
           "text": "toy shop",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "A toy shop sells toys, not food."
         }
       ],
       "correct_answer": "B",
@@ -292,25 +292,25 @@
           "letter": "A",
           "text": "stadium",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "A stadium is where sports matches are played."
         },
         {
           "letter": "B",
           "text": "airport",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "An airport is where planes take off and land."
         },
         {
           "letter": "C",
           "text": "library",
           "is_correct": true,
-          "feedback": "Correct!"
+          "feedback": "You borrow books from the library."
         },
         {
           "letter": "D",
           "text": "bookstore",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "A bookstore sells books to buy; a library lends them."
         }
       ],
       "correct_answer": "C",
@@ -338,25 +338,25 @@
           "letter": "A",
           "text": "restaurant",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "A restaurant is where you go to eat a meal, not to keep savings."
         },
         {
           "letter": "B",
           "text": "hotel",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "A hotel is where you stay when you travel."
         },
         {
           "letter": "C",
           "text": "pool",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "A pool is where you swim."
         },
         {
           "letter": "D",
           "text": "bank",
           "is_correct": true,
-          "feedback": "Correct!"
+          "feedback": "You save your money in the bank."
         }
       ],
       "correct_answer": "D",

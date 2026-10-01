@@ -8,86 +8,41 @@
   },
   "questions": [
     {
-      "id": "EC-ING-11-2026-W26-articles-definite-indefinite-001-MASTERY-v1",
-      "statement": "What is the English word for: \"A place where you live or stay on holiday.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "id": "EC-ING-11-2026-W26-articles-definite-indefinite-001-MASTERY-bundle-v1",
+      "statement": "Choose the correct article: 'She works as ____ engineer in a public company.'",
+      "context": "Practica de articulos, Quito, grado 11.",
       "options": [
         {
-          "letter": "B",
-          "text": "accommodation",
-          "is_correct": true,
-          "feedback": "Correct! 'accommodation' matches the definition."
-        },
-        {
           "letter": "A",
-          "text": "transportation",
+          "text": "a",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "C",
-          "text": "entertainment",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "D",
-          "text": "currency",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        }
-      ],
-      "correct_answer": "B",
-      "explanation": "The word 'accommodation' is used to describe a place where you live or stay on holiday. This is an important vocabulary word in English.\n---",
-      "difficulty": "3",
-      "images": [],
-      "tags": [],
-      "bloom": "Remember",
-      "expected_success": 0.8,
-      "bundle_id": "EC-ING-11-2026-W26-articles-definite-indefinite-001-MASTERY-bundle",
-      "periodo": 26,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ingles",
-      "grade": 11,
-      "country": "ec"
-    },
-    {
-      "id": "EC-ING-11-2026-W26-articles-definite-indefinite-001-MASTERY-v2",
-      "statement": "What is the English word for: \"A detailed plan or route of a journey.\"",
-      "context": "Choose the correct English word for the given definition.",
-      "options": [
-        {
-          "letter": "C",
-          "text": "itinerary",
-          "is_correct": true,
-          "feedback": "Correct! 'itinerary' matches the definition."
-        },
-        {
-          "letter": "A",
-          "text": "baggage",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "'A' is used before consonants, not before the vowel sound of 'engineer'."
         },
         {
           "letter": "B",
-          "text": "destination",
+          "text": "the",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "'The' would imply a specific engineer already mentioned."
+        },
+        {
+          "letter": "C",
+          "text": "no article",
+          "is_correct": false,
+          "feedback": "A countable singular profession requires a determiner."
         },
         {
           "letter": "D",
-          "text": "passport",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "text": "an",
+          "is_correct": true,
+          "feedback": "'Engineer' begins with a vowel sound, so the indefinite article is 'an'."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "The word 'itinerary' is used to describe a detailed plan or route of a journey. This is an important vocabulary word in English.\n---",
+      "correct_answer": "D",
+      "explanation": "Las professions se introducen con articulo indefinido 'a' cuando se habla en general.\n\n---",
       "difficulty": "4",
       "images": [],
       "tags": [],
-      "bloom": "Remember",
+      "bloom": "Apply",
       "expected_success": 0.8,
       "bundle_id": "EC-ING-11-2026-W26-articles-definite-indefinite-001-MASTERY-bundle",
       "periodo": 26,
@@ -98,38 +53,353 @@
       "country": "ec"
     },
     {
-      "id": "EC-ING-11-2026-W26-articles-definite-indefinite-001-MASTERY-v3",
-      "statement": "What is the English word for: \"The place to which someone or something is going or being sent.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "id": "EC-ING-11-2026-W26-articles-definite-indefinite-001-MASTERY-bundle-v2",
+      "statement": "Complete: 'Mountains are ____ important source of clean water.'",
+      "context": "Articulos y concordancia, Guayaquil.",
       "options": [
         {
           "letter": "A",
-          "text": "destination",
+          "text": "an",
           "is_correct": true,
-          "feedback": "Correct! 'destination' matches the definition."
+          "feedback": "'An important source' agrees with the singular predicate noun 'source'."
         },
         {
           "letter": "B",
-          "text": "departure",
+          "text": "a source",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "The indefinite article is required before the singular vowel-initial noun."
         },
         {
           "letter": "C",
-          "text": "arrival",
+          "text": "many important",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "'Many' cannot modify a singular noun such as 'source'."
         },
         {
           "letter": "D",
-          "text": "journey",
+          "text": "no article",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "The singular predicate noun requires the determiner 'an'."
         }
       ],
       "correct_answer": "A",
-      "explanation": "The word 'destination' is used to describe the place to which someone or something is going or being sent. This is an important vocabulary word in English.\n---",
-      "difficulty": "3",
+      "explanation": "El sujeto es plural pero el predicado es singular, por eso el articulo corresponde a 'source'.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.8,
+      "bundle_id": "EC-ING-11-2026-W26-articles-definite-indefinite-001-MASTERY-bundle",
+      "periodo": 26,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-ING-11-2026-W26-articles-definite-indefinite-001-MASTERY-bundle-v3",
+      "statement": "Which sentence uses 'the' correctly?",
+      "context": "Uso del articulo definido, Cuenca.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "The sun rises in the east.",
+          "is_correct": true,
+          "feedback": "'The sun' is unique for all speakers, so the definite article is required."
+        },
+        {
+          "letter": "B",
+          "text": "A sun rises in the east.",
+          "is_correct": false,
+          "feedback": "'A sun' would suggest one among many, which is incorrect here."
+        },
+        {
+          "letter": "C",
+          "text": "Sun rises in the east.",
+          "is_correct": false,
+          "feedback": "A count noun needs an article even in a general statement."
+        },
+        {
+          "letter": "D",
+          "text": "The a sun rises in the east.",
+          "is_correct": false,
+          "feedback": "Two articles cannot be combined in a noun phrase."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "'The sun' es un referente unico y conocido, por lo que exige articulo definido. Es una de las estructuras mas frecuentes en el examen.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.8,
+      "bundle_id": "EC-ING-11-2026-W26-articles-definite-indefinite-001-MASTERY-bundle",
+      "periodo": 26,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-ING-11-2026-W26-articles-definite-indefinite-001-MASTERY-bundle-v4",
+      "statement": "What is the difference between 'a glass of water' and 'the glass of water'?",
+      "context": "Articulos en contraste, Quito.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Both articles mean exactly the same thing here",
+          "is_correct": false,
+          "feedback": "The two articles carry different definiteness values."
+        },
+        {
+          "letter": "B",
+          "text": "'The' is only used with plural nouns",
+          "is_correct": false,
+          "feedback": "'The' is used with both singular and plural nouns."
+        },
+        {
+          "letter": "C",
+          "text": "'A' can only appear before uncountable nouns",
+          "is_correct": false,
+          "feedback": "'A' appears before countable singular nouns such as 'glass'."
+        },
+        {
+          "letter": "D",
+          "text": "'A' introduces something not yet identified; 'the' points to a known one",
+          "is_correct": true,
+          "feedback": "The choice of article depends on whether the referent is known."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "'A glass' introduce un objeto no identificado; 'the glass' se refiere a uno ya conocido o determinado.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.8,
+      "bundle_id": "EC-ING-11-2026-W26-articles-definite-indefinite-001-MASTERY-bundle",
+      "periodo": 26,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-ING-11-2026-W26-articles-definite-indefinite-001-MASTERY-bundle-v5",
+      "statement": "Complete the sentence: 'I would like ____ apple and some bread, please.'",
+      "context": "Articulos con contables e incontables, Guayaquil.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "a",
+          "is_correct": false,
+          "feedback": "'A' is not used before a vowel sound."
+        },
+        {
+          "letter": "B",
+          "text": "an",
+          "is_correct": true,
+          "feedback": "'An apple' is the correct singular count form, contrasting with 'some bread'."
+        },
+        {
+          "letter": "C",
+          "text": "some",
+          "is_correct": false,
+          "feedback": "'Some' cannot modify the countable singular 'apple'."
+        },
+        {
+          "letter": "D",
+          "text": "many",
+          "is_correct": false,
+          "feedback": "'Many' requires a plural count noun."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "'Apple' es contable singular y empieza por vocal, de modo que lleva 'an'; 'bread' ya lleva 'some'.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.8,
+      "bundle_id": "EC-ING-11-2026-W26-articles-definite-indefinite-001-MASTERY-bundle",
+      "periodo": 26,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-ING-11-2026-W26-articles-definite-indefinite-001-MASTERY-bundle-v6",
+      "statement": "Which sentence uses the zero article correctly?",
+      "context": "Articulo cero, Cuenca.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "She studies the mathematics at the university.",
+          "is_correct": false,
+          "feedback": "'The mathematics' would refer to a specific field or a textbook."
+        },
+        {
+          "letter": "B",
+          "text": "She studies a mathematics at the university.",
+          "is_correct": false,
+          "feedback": "'A' cannot be used with an uncountable subject name."
+        },
+        {
+          "letter": "C",
+          "text": "She studies of mathematics at the university.",
+          "is_correct": false,
+          "feedback": "The preposition 'of' is not part of this construction."
+        },
+        {
+          "letter": "D",
+          "text": "She studies mathematics at the university.",
+          "is_correct": true,
+          "feedback": "'Mathematics' as a subject takes the zero article in this general sense."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Los nombres de disciplinas se usan sin articulo cuando se consideran en general. Conviene memorizar esta combinacion como una sola unidad.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.8,
+      "bundle_id": "EC-ING-11-2026-W26-articles-definite-indefinite-001-MASTERY-bundle",
+      "periodo": 26,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-ING-11-2026-W26-articles-definite-indefinite-001-MASTERY-bundle-v7",
+      "statement": "Look at the sentence: 'He is ____ best player of the team.' Choose the correct article.",
+      "context": "Superlativos y articulos, Quito.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "a",
+          "is_correct": false,
+          "feedback": "'A' cannot introduce a superlative comparison."
+        },
+        {
+          "letter": "B",
+          "text": "an",
+          "is_correct": false,
+          "feedback": "'An' cannot introduce a superlative comparison."
+        },
+        {
+          "letter": "C",
+          "text": "the",
+          "is_correct": true,
+          "feedback": "Superlative adjectives require the definite article 'the'."
+        },
+        {
+          "letter": "D",
+          "text": "no article",
+          "is_correct": false,
+          "feedback": "The definite article is obligatory before a superlative."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El superlativo lleva siempre articulo definido: 'the best player'. Este matiz se comprueba comparando con el resto de opciones.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.8,
+      "bundle_id": "EC-ING-11-2026-W26-articles-definite-indefinite-001-MASTERY-bundle",
+      "periodo": 26,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-ING-11-2026-W26-articles-definite-indefinite-001-MASTERY-bundle-v8",
+      "statement": "Choose the sentence with the correct use of the articles.",
+      "context": "Evaluacion del uso de articulos, Guayaquil.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "He waited for hour and a half at airport.",
+          "is_correct": false,
+          "feedback": "Both articles are missing from the countable nouns."
+        },
+        {
+          "letter": "B",
+          "text": "He waited for an hour and a half at the airport.",
+          "is_correct": true,
+          "feedback": "'An hour and a half' and 'the airport' both take the correct articles."
+        },
+        {
+          "letter": "C",
+          "text": "He waited for a hour and half at the airport.",
+          "is_correct": false,
+          "feedback": "'Half' as a noun also requires a determiner: 'a half'."
+        },
+        {
+          "letter": "D",
+          "text": "He waited for an hour and a half at a airport.",
+          "is_correct": false,
+          "feedback": "'The airport' is specific here, so the indefinite article is wrong."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Cada sustantivo contable singular lleva el articulo que le corresponde segun el contexto.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.8,
+      "bundle_id": "EC-ING-11-2026-W26-articles-definite-indefinite-001-MASTERY-bundle",
+      "periodo": 26,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-ING-11-2026-W26-articles-definite-indefinite-001-MASTERY-bundle-v9",
+      "statement": "Why does the noun 'the' appear before 'the Equator'?",
+      "context": "Nombres geograficos, Quito.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "It identifies a single unique feature on the planet",
+          "is_correct": true,
+          "feedback": "The Equator is one unique line, so the definite article is required."
+        },
+        {
+          "letter": "B",
+          "text": "It indicates that the Equator is plural",
+          "is_correct": false,
+          "feedback": "The article does not change the number of the name."
+        },
+        {
+          "letter": "C",
+          "text": "It shows that the Equator belongs to a country",
+          "is_correct": false,
+          "feedback": "The Equator crosses several countries and is not owned by any of them."
+        },
+        {
+          "letter": "D",
+          "text": "It replaces the preposition 'on'",
+          "is_correct": false,
+          "feedback": "The article is a determiner and does not replace prepositions."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Los nombres geograficos que designan un unico objeto del planeta llevan articulo definido.\n\n---",
+      "difficulty": "6",
       "images": [],
       "tags": [],
       "bloom": "Understand",
@@ -143,37 +413,442 @@
       "country": "ec"
     },
     {
-      "id": "EC-ING-11-2026-W26-articles-definite-indefinite-001-MASTERY-v4",
-      "statement": "What is the English word for: \"Suitcases or other bags in which to pack personal belongings for traveling.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "id": "EC-ING-11-2026-W26-articles-definite-indefinite-001-MASTERY-bundle-v10",
+      "statement": "Complete: 'Water is ____ of the most important natural resources.'",
+      "context": "Superlativos con 'of', Guayaquil.",
       "options": [
         {
-          "letter": "D",
-          "text": "luggage",
-          "is_correct": true,
-          "feedback": "Correct! 'luggage' matches the definition."
-        },
-        {
           "letter": "A",
-          "text": "ticket",
+          "text": "a",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "'A of the' is not a valid construction in English."
         },
         {
           "letter": "B",
-          "text": "flight",
+          "text": "an",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "'An of the' is grammatically impossible."
         },
         {
           "letter": "C",
-          "text": "reservation",
+          "text": "many",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "'Many' is used with plural count nouns and not before 'of the'."
+        },
+        {
+          "letter": "D",
+          "text": "one",
+          "is_correct": true,
+          "feedback": "'One of the most important' is the standard superlative construction."
         }
       ],
       "correct_answer": "D",
-      "explanation": "The word 'luggage' is used to describe suitcases or other bags in which to pack personal belongings for traveling. This is an important vocabulary word in English.\n---",
+      "explanation": "La estructura correcta de comparacion superlativa es 'one of the most' mas el sustantivo.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.8,
+      "bundle_id": "EC-ING-11-2026-W26-articles-definite-indefinite-001-MASTERY-bundle",
+      "periodo": 26,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-ING-11-2026-W26-articles-definite-indefinite-001-MASTERY-bundle-v11",
+      "statement": "What is the function of the article in 'She is playing the piano'?",
+      "context": "Articulos y actividades musicales, Cuenca.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "It marks the activity as a unique skill or function",
+          "is_correct": true,
+          "feedback": "'The piano' in this idiomatic use refers to the activity of playing."
+        },
+        {
+          "letter": "B",
+          "text": "It refers to a specific piano owned by the speaker",
+          "is_correct": false,
+          "feedback": "The idiomatic meaning is the activity, not a particular instrument."
+        },
+        {
+          "letter": "C",
+          "text": "It indicates plurality",
+          "is_correct": false,
+          "feedback": "The article has no plural function here."
+        },
+        {
+          "letter": "D",
+          "text": "It replaces the verb 'playing'",
+          "is_correct": false,
+          "feedback": "An article cannot replace the main verb of the sentence."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Aqui el articulo definido se usa porque el sustantivo designa una actividad o una ability unica en el contexto.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.8,
+      "bundle_id": "EC-ING-11-2026-W26-articles-definite-indefinite-001-MASTERY-bundle",
+      "periodo": 26,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-ING-11-2026-W26-articles-definite-indefinite-001-MASTERY-bundle-v12",
+      "statement": "Which sentence uses articles incorrectly?",
+      "context": "Deteccion de errores, Quito.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "She borrowed a library book.",
+          "is_correct": false,
+          "feedback": "'A library book' is correct before the consonant sound."
+        },
+        {
+          "letter": "B",
+          "text": "She borrowed an library book.",
+          "is_correct": true,
+          "feedback": "A consonant sound requires 'a', never 'an'."
+        },
+        {
+          "letter": "C",
+          "text": "She borrowed the library book.",
+          "is_correct": false,
+          "feedback": "'The' is possible if the book was already identified."
+        },
+        {
+          "letter": "D",
+          "text": "She borrowed some library books.",
+          "is_correct": false,
+          "feedback": "'Some' with a plural countable noun is correct."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "'An' no puede usarse delante de un sonido consonante como el de 'library'. Es una de las estructuras mas frecuentes en el examen.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.8,
+      "bundle_id": "EC-ING-11-2026-W26-articles-definite-indefinite-001-MASTERY-bundle",
+      "periodo": 26,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-ING-11-2026-W26-articles-definite-indefinite-001-MASTERY-bundle-v13",
+      "statement": "Complete the question: '____ is the capital of Ecuador?'",
+      "context": "Interrogacion con articulo, Quito.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Which",
+          "is_correct": false,
+          "feedback": "'Which' selects among a limited set already named."
+        },
+        {
+          "letter": "B",
+          "text": "Whose",
+          "is_correct": false,
+          "feedback": "'Whose' asks about possession."
+        },
+        {
+          "letter": "C",
+          "text": "Where",
+          "is_correct": false,
+          "feedback": "'Where' asks about a place rather than a name."
+        },
+        {
+          "letter": "D",
+          "text": "What",
+          "is_correct": true,
+          "feedback": "'What is the capital of Ecuador?' is the standard neutral question."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "La pregunta se refiere a un objeto unico y conocido, por eso corresponde 'What' con 'the'.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.8,
+      "bundle_id": "EC-ING-11-2026-W26-articles-definite-indefinite-001-MASTERY-bundle",
+      "periodo": 26,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-ING-11-2026-W26-articles-definite-indefinite-001-MASTERY-bundle-v14",
+      "statement": "Read the text: 'An old man lives next door. The man never sleeps.' What does the second 'the' do?",
+      "context": "Articulos en un texto, Guayaquil.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "It refers to a different old man",
+          "is_correct": false,
+          "feedback": "The text presents only one old man in the neighbourhood."
+        },
+        {
+          "letter": "B",
+          "text": "It marks the sentence as a question",
+          "is_correct": false,
+          "feedback": "The article has no interrogative function."
+        },
+        {
+          "letter": "C",
+          "text": "It refers back to the old man already mentioned",
+          "is_correct": true,
+          "feedback": "The definite article signals a known referent in the second mention."
+        },
+        {
+          "letter": "D",
+          "text": "It indicates that the man is unique in the world",
+          "is_correct": false,
+          "feedback": "The article marks knownness, not global uniqueness."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La segunda mencion vuelve a un referente ya presentado, por eso requiere el articulo definido.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.8,
+      "bundle_id": "EC-ING-11-2026-W26-articles-definite-indefinite-001-MASTERY-bundle",
+      "periodo": 26,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-ING-11-2026-W26-articles-definite-indefinite-001-MASTERY-bundle-v15",
+      "statement": "Which sentence uses 'a' correctly?",
+      "context": "Articulo indefinido, Cuenca.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "A cars broke down on the highway.",
+          "is_correct": false,
+          "feedback": "The indefinite article cannot be placed before a plural noun."
+        },
+        {
+          "letter": "B",
+          "text": "The car break down on the highway.",
+          "is_correct": false,
+          "feedback": "That combines the definite article with an incorrect verb form."
+        },
+        {
+          "letter": "C",
+          "text": "A car broke down on the highway.",
+          "is_correct": true,
+          "feedback": "'A car' introduces one unspecified car, which is the correct use."
+        },
+        {
+          "letter": "D",
+          "text": "A of car broke down on the highway.",
+          "is_correct": false,
+          "feedback": "The preposition 'of' does not belong in this phrase."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El articulo indefinido precede a un sustantivo contable singular no identificado. Conviene memorizar esta combinacion como una sola unidad.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.8,
+      "bundle_id": "EC-ING-11-2026-W26-articles-definite-indefinite-001-MASTERY-bundle",
+      "periodo": 26,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-ING-11-2026-W26-articles-definite-indefinite-001-MASTERY-bundle-v16",
+      "statement": "What is wrong with the sentence 'She has the beautiful brown eyes'?",
+      "context": "Revision de pronombres y articulos, Quito.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Nothing is wrong with the sentence",
+          "is_correct": false,
+          "feedback": "Placing a determiner between adjectives is not standard English."
+        },
+        {
+          "letter": "B",
+          "text": "The articles should not separate the adjectives from the noun",
+          "is_correct": true,
+          "feedback": "English places the determiners before the whole adjective+noun phrase."
+        },
+        {
+          "letter": "C",
+          "text": "'Beautiful' should be a noun",
+          "is_correct": false,
+          "feedback": "'Beautiful' is an adjective and belongs in the adjective chain."
+        },
+        {
+          "letter": "D",
+          "text": "'Eyes' should be singular",
+          "is_correct": false,
+          "feedback": "The plural is required because the possessive indicates more than one."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "En ingles los adjetivos atributivos se colocación antes del sustantivo: no se usa 'the' entre ellos.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.8,
+      "bundle_id": "EC-ING-11-2026-W26-articles-definite-indefinite-001-MASTERY-bundle",
+      "periodo": 26,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-ING-11-2026-W26-articles-definite-indefinite-001-MASTERY-bundle-v17",
+      "statement": "Which sentence correctly uses 'of' after a noun?",
+      "context": "Construcciones con 'of', Guayaquil.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "She drank a cup tea.",
+          "is_correct": false,
+          "feedback": "The preposition 'of' is missing in this construction."
+        },
+        {
+          "letter": "B",
+          "text": "She drank a of cup tea.",
+          "is_correct": false,
+          "feedback": "The order of the nouns around 'of' is reversed."
+        },
+        {
+          "letter": "C",
+          "text": "She drank a cup of tea.",
+          "is_correct": true,
+          "feedback": "'A cup of tea' follows the standard noun-plus-'of' pattern."
+        },
+        {
+          "letter": "D",
+          "text": "She drank the cup of the tea.",
+          "is_correct": false,
+          "feedback": "That adds a definite article that is not part of the standard phrase."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "'A cup of tea' es la construccion estandar con 'of' entre dos sustantivos. Este matiz se comprueba comparando con el resto de opciones.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.8,
+      "bundle_id": "EC-ING-11-2026-W26-articles-definite-indefinite-001-MASTERY-bundle",
+      "periodo": 26,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-ING-11-2026-W26-articles-definite-indefinite-001-MASTERY-bundle-v18",
+      "statement": "Choose the sentence that uses articles consistently throughout.",
+      "context": "Consolidacion de articulos, Cuenca.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "He is mechanic and works in garage on some weekends.",
+          "is_correct": false,
+          "feedback": "The countable nouns 'mechanic' and 'garage' lack their articles."
+        },
+        {
+          "letter": "B",
+          "text": "He is a mechanic and works in the garage on some weekends.",
+          "is_correct": true,
+          "feedback": "Each determiner matches the countability and definiteness of its noun."
+        },
+        {
+          "letter": "C",
+          "text": "He is the mechanic and works in a garage on some weekends.",
+          "is_correct": false,
+          "feedback": "'The mechanic' would imply a mechanic already mentioned."
+        },
+        {
+          "letter": "D",
+          "text": "He is a mechanic and works in an garage on some weekends.",
+          "is_correct": false,
+          "feedback": "'An' cannot be used before the consonant sound of 'garage'."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La oracion correcta aplica 'a' a la profession, 'the' a las lugares ya identificados y 'some' al sustantivo incontable.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.8,
+      "bundle_id": "EC-ING-11-2026-W26-articles-definite-indefinite-001-MASTERY-bundle",
+      "periodo": 26,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-ING-11-2026-W26-articles-definite-indefinite-001-MASTERY-bundle-v19",
+      "statement": "Which noun is used without an article in the fixed expression 'go to bed'?",
+      "context": "Expresiones fijas, Quito.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "bed",
+          "is_correct": true,
+          "feedback": "'Go to bed' is a fixed expression in which 'bed' takes the zero article."
+        },
+        {
+          "letter": "B",
+          "text": "the bed",
+          "is_correct": false,
+          "feedback": "'The bed' would refer to a specific bed already mentioned."
+        },
+        {
+          "letter": "C",
+          "text": "a bed",
+          "is_correct": false,
+          "feedback": "'A bed' would mean any bed, not the activity of sleeping."
+        },
+        {
+          "letter": "D",
+          "text": "my bed",
+          "is_correct": false,
+          "feedback": "'My bed' refers to the speaker's own bed, which the expression does not require."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "En las expresiones fijas del uso cotidiano, 'bed' aparece sin articulo. Es una de las estructuras mas frecuentes en el examen.\n\n---",
       "difficulty": "4",
       "images": [],
       "tags": [],
@@ -188,716 +863,41 @@
       "country": "ec"
     },
     {
-      "id": "EC-ING-11-2026-W26-articles-definite-indefinite-001-MASTERY-v5",
-      "statement": "What is the English word for: \"A traveler on a public or private conveyance other than the driver, pilot, or crew.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "id": "EC-ING-11-2026-W26-articles-definite-indefinite-001-MASTERY-bundle-v20",
+      "statement": "Read the sentence: 'The students in the first group finished earlier than the ones in the second.' What does 'the ones' refer to?",
+      "context": "Uso de 'the ones', Guayaquil.",
       "options": [
         {
-          "letter": "C",
-          "text": "passenger",
-          "is_correct": true,
-          "feedback": "Correct! 'passenger' matches the definition."
-        },
-        {
           "letter": "A",
-          "text": "pedestrian",
+          "text": "The students in the first group",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "The first group is named explicitly and does not need a substitute."
         },
         {
           "letter": "B",
-          "text": "commuter",
+          "text": "The teacher of the second group",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "No teacher is mentioned in the sentence."
         },
-        {
-          "letter": "D",
-          "text": "tourist",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        }
-      ],
-      "correct_answer": "C",
-      "explanation": "The word 'passenger' is used to describe a traveler on a public or private conveyance other than the driver, pilot, or crew. This is an important vocabulary word in English.\n---",
-      "difficulty": "5",
-      "images": [],
-      "tags": [],
-      "bloom": "Understand",
-      "expected_success": 0.8,
-      "bundle_id": "EC-ING-11-2026-W26-articles-definite-indefinite-001-MASTERY-bundle",
-      "periodo": 26,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ingles",
-      "grade": 11,
-      "country": "ec"
-    },
-    {
-      "id": "EC-ING-11-2026-W26-articles-definite-indefinite-001-MASTERY-v6",
-      "statement": "What is the English word for: \"The place at a port, airport, or frontier where officials check incoming goods, travelers, or luggage.\"",
-      "context": "Choose the correct English word for the given definition.",
-      "options": [
         {
           "letter": "C",
-          "text": "customs",
+          "text": "The students in the second group",
           "is_correct": true,
-          "feedback": "Correct! 'customs' matches the definition."
-        },
-        {
-          "letter": "A",
-          "text": "security",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "B",
-          "text": "terminal",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "'The ones' stands for 'the students' with the second group's modifier."
         },
         {
           "letter": "D",
-          "text": "gate",
+          "text": "The lessons of the second group",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Only students, not lessons, are referred to as plural entities here."
         }
       ],
       "correct_answer": "C",
-      "explanation": "The word 'customs' is used to describe the place at a port, airport, or frontier where officials check incoming goods, travelers, or luggage. This is an important vocabulary word in English.\n---",
+      "explanation": "'The ones' sustituye a un sustantivo ya mencionado y por eso lleva el articulo definido.\n\n---",
       "difficulty": "6",
       "images": [],
       "tags": [],
-      "bloom": "Understand",
-      "expected_success": 0.8,
-      "bundle_id": "EC-ING-11-2026-W26-articles-definite-indefinite-001-MASTERY-bundle",
-      "periodo": 26,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ingles",
-      "grade": 11,
-      "country": "ec"
-    },
-    {
-      "id": "EC-ING-11-2026-W26-articles-definite-indefinite-001-MASTERY-v7",
-      "statement": "What is the English word for: \"A document provided by an airline during check-in, giving a passenger permission to board the airplane.\"",
-      "context": "Choose the correct English word for the given definition.",
-      "options": [
-        {
-          "letter": "B",
-          "text": "boarding pass",
-          "is_correct": true,
-          "feedback": "Correct! 'boarding pass' matches the definition."
-        },
-        {
-          "letter": "A",
-          "text": "visa",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "C",
-          "text": "receipt",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "D",
-          "text": "brochure",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        }
-      ],
-      "correct_answer": "B",
-      "explanation": "The word 'boarding pass' is used to describe a document provided by an airline during check-in, giving a passenger permission to board the airplane. This is an important vocabulary word in English.\n---",
-      "difficulty": "5",
-      "images": [],
-      "tags": [],
-      "bloom": "Apply",
-      "expected_success": 0.8,
-      "bundle_id": "EC-ING-11-2026-W26-articles-definite-indefinite-001-MASTERY-bundle",
-      "periodo": 26,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ingles",
-      "grade": 11,
-      "country": "ec"
-    },
-    {
-      "id": "EC-ING-11-2026-W26-articles-definite-indefinite-001-MASTERY-v8",
-      "statement": "What is the English word for: \"The activity of visiting places of interest in a particular location.\"",
-      "context": "Choose the correct English word for the given definition.",
-      "options": [
-        {
-          "letter": "B",
-          "text": "sightseeing",
-          "is_correct": true,
-          "feedback": "Correct! 'sightseeing' matches the definition."
-        },
-        {
-          "letter": "A",
-          "text": "shopping",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "C",
-          "text": "hiking",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "D",
-          "text": "camping",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        }
-      ],
-      "correct_answer": "B",
-      "explanation": "The word 'sightseeing' is used to describe the activity of visiting places of interest in a particular location. This is an important vocabulary word in English.\n---",
-      "difficulty": "6",
-      "images": [],
-      "tags": [],
-      "bloom": "Apply",
-      "expected_success": 0.8,
-      "bundle_id": "EC-ING-11-2026-W26-articles-definite-indefinite-001-MASTERY-bundle",
-      "periodo": 26,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ingles",
-      "grade": 11,
-      "country": "ec"
-    },
-    {
-      "id": "EC-ING-11-2026-W26-articles-definite-indefinite-001-MASTERY-v9",
-      "statement": "What is the English word for: \"A thing that is kept as a reminder of a person, place, or event.\"",
-      "context": "Choose the correct English word for the given definition.",
-      "options": [
-        {
-          "letter": "C",
-          "text": "souvenir",
-          "is_correct": true,
-          "feedback": "Correct! 'souvenir' matches the definition."
-        },
-        {
-          "letter": "A",
-          "text": "gift",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "B",
-          "text": "award",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "D",
-          "text": "prize",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        }
-      ],
-      "correct_answer": "C",
-      "explanation": "The word 'souvenir' is used to describe a thing that is kept as a reminder of a person, place, or event. This is an important vocabulary word in English.\n---",
-      "difficulty": "5",
-      "images": [],
-      "tags": [],
-      "bloom": "Apply",
-      "expected_success": 0.8,
-      "bundle_id": "EC-ING-11-2026-W26-articles-definite-indefinite-001-MASTERY-bundle",
-      "periodo": 26,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ingles",
-      "grade": 11,
-      "country": "ec"
-    },
-    {
-      "id": "EC-ING-11-2026-W26-articles-definite-indefinite-001-MASTERY-v10",
-      "statement": "What is the English word for: \"A period of time by which something is late or postponed.\"",
-      "context": "Choose the correct English word for the given definition.",
-      "options": [
-        {
-          "letter": "C",
-          "text": "delay",
-          "is_correct": true,
-          "feedback": "Correct! 'delay' matches the definition."
-        },
-        {
-          "letter": "A",
-          "text": "cancellation",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "B",
-          "text": "departure",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "D",
-          "text": "arrival",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        }
-      ],
-      "correct_answer": "C",
-      "explanation": "The word 'delay' is used to describe a period of time by which something is late or postponed. This is an important vocabulary word in English.\n---",
-      "difficulty": "6",
-      "images": [],
-      "tags": [],
-      "bloom": "Apply",
-      "expected_success": 0.8,
-      "bundle_id": "EC-ING-11-2026-W26-articles-definite-indefinite-001-MASTERY-bundle",
-      "periodo": 26,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ingles",
-      "grade": 11,
-      "country": "ec"
-    },
-    {
-      "id": "EC-ING-11-2026-W26-articles-definite-indefinite-001-MASTERY-v11",
-      "statement": "What is the English word for: \"The act of reporting one's presence and registering, typically at an airport or hotel.\"",
-      "context": "Choose the correct English word for the given definition.",
-      "options": [
-        {
-          "letter": "D",
-          "text": "check-in",
-          "is_correct": true,
-          "feedback": "Correct! 'check-in' matches the definition."
-        },
-        {
-          "letter": "A",
-          "text": "check-out",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "B",
-          "text": "booking",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "C",
-          "text": "reservation",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        }
-      ],
-      "correct_answer": "D",
-      "explanation": "The word 'check-in' is used to describe the act of reporting one's presence and registering, typically at an airport or hotel. This is an important vocabulary word in English.\n---",
-      "difficulty": "7",
-      "images": [],
-      "tags": [],
-      "bloom": "Apply",
-      "expected_success": 0.8,
-      "bundle_id": "EC-ING-11-2026-W26-articles-definite-indefinite-001-MASTERY-bundle",
-      "periodo": 26,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ingles",
-      "grade": 11,
-      "country": "ec"
-    },
-    {
-      "id": "EC-ING-11-2026-W26-articles-definite-indefinite-001-MASTERY-v12",
-      "statement": "What is the English word for: \"A period of rest or waiting before a further stage in a journey.\"",
-      "context": "Choose the correct English word for the given definition.",
-      "options": [
-        {
-          "letter": "C",
-          "text": "layover",
-          "is_correct": true,
-          "feedback": "Correct! 'layover' matches the definition."
-        },
-        {
-          "letter": "A",
-          "text": "stopover",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "B",
-          "text": "transfer",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "D",
-          "text": "transit",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        }
-      ],
-      "correct_answer": "C",
-      "explanation": "The word 'layover' is used to describe a period of rest or waiting before a further stage in a journey. This is an important vocabulary word in English.\n---",
-      "difficulty": "8",
-      "images": [],
-      "tags": [],
-      "bloom": "Apply",
-      "expected_success": 0.8,
-      "bundle_id": "EC-ING-11-2026-W26-articles-definite-indefinite-001-MASTERY-bundle",
-      "periodo": 26,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ingles",
-      "grade": 11,
-      "country": "ec"
-    },
-    {
-      "id": "EC-ING-11-2026-W26-articles-definite-indefinite-001-MASTERY-v13",
-      "statement": "What is the English word for: \"A system of money in general use in a particular country.\"",
-      "context": "Choose the correct English word for the given definition.",
-      "options": [
-        {
-          "letter": "C",
-          "text": "currency",
-          "is_correct": true,
-          "feedback": "Correct! 'currency' matches the definition."
-        },
-        {
-          "letter": "A",
-          "text": "coin",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "B",
-          "text": "banknote",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "D",
-          "text": "cash",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        }
-      ],
-      "correct_answer": "C",
-      "explanation": "The word 'currency' is used to describe a system of money in general use in a particular country. This is an important vocabulary word in English.\n---",
-      "difficulty": "7",
-      "images": [],
-      "tags": [],
       "bloom": "Analyze",
-      "expected_success": 0.8,
-      "bundle_id": "EC-ING-11-2026-W26-articles-definite-indefinite-001-MASTERY-bundle",
-      "periodo": 26,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ingles",
-      "grade": 11,
-      "country": "ec"
-    },
-    {
-      "id": "EC-ING-11-2026-W26-articles-definite-indefinite-001-MASTERY-v14",
-      "statement": "What is the English word for: \"A book of information about a place designed for the use of visitors or tourists.\"",
-      "context": "Choose the correct English word for the given definition.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "guidebook",
-          "is_correct": true,
-          "feedback": "Correct! 'guidebook' matches the definition."
-        },
-        {
-          "letter": "B",
-          "text": "map",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "C",
-          "text": "dictionary",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "D",
-          "text": "encyclopedia",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "The word 'guidebook' is used to describe a book of information about a place designed for the use of visitors or tourists. This is an important vocabulary word in English.\n---",
-      "difficulty": "8",
-      "images": [],
-      "tags": [],
-      "bloom": "Analyze",
-      "expected_success": 0.8,
-      "bundle_id": "EC-ING-11-2026-W26-articles-definite-indefinite-001-MASTERY-bundle",
-      "periodo": 26,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ingles",
-      "grade": 11,
-      "country": "ec"
-    },
-    {
-      "id": "EC-ING-11-2026-W26-articles-definite-indefinite-001-MASTERY-v15",
-      "statement": "What is the English word for: \"A bag with shoulder straps that allow it to be carried on one's back.\"",
-      "context": "Choose the correct English word for the given definition.",
-      "options": [
-        {
-          "letter": "C",
-          "text": "backpack",
-          "is_correct": true,
-          "feedback": "Correct! 'backpack' matches the definition."
-        },
-        {
-          "letter": "A",
-          "text": "suitcase",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "B",
-          "text": "briefcase",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "D",
-          "text": "handbag",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        }
-      ],
-      "correct_answer": "C",
-      "explanation": "The word 'backpack' is used to describe a bag with shoulder straps that allow it to be carried on one's back. This is an important vocabulary word in English.\n---",
-      "difficulty": "7",
-      "images": [],
-      "tags": [],
-      "bloom": "Analyze",
-      "expected_success": 0.8,
-      "bundle_id": "EC-ING-11-2026-W26-articles-definite-indefinite-001-MASTERY-bundle",
-      "periodo": 26,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ingles",
-      "grade": 11,
-      "country": "ec"
-    },
-    {
-      "id": "EC-ING-11-2026-W26-articles-definite-indefinite-001-MASTERY-v16",
-      "statement": "What is the English word for: \"In or to a foreign country, especially one across the sea.\"",
-      "context": "Choose the correct English word for the given definition.",
-      "options": [
-        {
-          "letter": "B",
-          "text": "overseas",
-          "is_correct": true,
-          "feedback": "Correct! 'overseas' matches the definition."
-        },
-        {
-          "letter": "A",
-          "text": "domestic",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "C",
-          "text": "local",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "D",
-          "text": "national",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        }
-      ],
-      "correct_answer": "B",
-      "explanation": "The word 'overseas' is used to describe in or to a foreign country, especially one across the sea. This is an important vocabulary word in English.\n---",
-      "difficulty": "8",
-      "images": [],
-      "tags": [],
-      "bloom": "Analyze",
-      "expected_success": 0.8,
-      "bundle_id": "EC-ING-11-2026-W26-articles-definite-indefinite-001-MASTERY-bundle",
-      "periodo": 26,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ingles",
-      "grade": 11,
-      "country": "ec"
-    },
-    {
-      "id": "EC-ING-11-2026-W26-articles-definite-indefinite-001-MASTERY-v17",
-      "statement": "What is the English word for: \"An estimate of income and expenditure for a set period of time.\"",
-      "context": "Choose the correct English word for the given definition.",
-      "options": [
-        {
-          "letter": "C",
-          "text": "budget",
-          "is_correct": true,
-          "feedback": "Correct! 'budget' matches the definition."
-        },
-        {
-          "letter": "A",
-          "text": "expense",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "B",
-          "text": "cost",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "D",
-          "text": "price",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        }
-      ],
-      "correct_answer": "C",
-      "explanation": "The word 'budget' is used to describe an estimate of income and expenditure for a set period of time. This is an important vocabulary word in English.\n---",
-      "difficulty": "9",
-      "images": [],
-      "tags": [],
-      "bloom": "Evaluate",
-      "expected_success": 0.8,
-      "bundle_id": "EC-ING-11-2026-W26-articles-definite-indefinite-001-MASTERY-bundle",
-      "periodo": 26,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ingles",
-      "grade": 11,
-      "country": "ec"
-    },
-    {
-      "id": "EC-ING-11-2026-W26-articles-definite-indefinite-001-MASTERY-v18",
-      "statement": "What is the English word for: \"A practice or arrangement by which a company or government agency provides a guarantee of compensation for specified loss, damage, illness, or death in return for payment of a premium.\"",
-      "context": "Choose the correct English word for the given definition.",
-      "options": [
-        {
-          "letter": "D",
-          "text": "insurance",
-          "is_correct": true,
-          "feedback": "Correct! 'insurance' matches the definition."
-        },
-        {
-          "letter": "A",
-          "text": "warranty",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "B",
-          "text": "guarantee",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "C",
-          "text": "policy",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        }
-      ],
-      "correct_answer": "D",
-      "explanation": "The word 'insurance' is used to describe a practice or arrangement by which a company or government agency provides a guarantee of compensation for specified loss, damage, illness, or death in return for payment of a premium. This is an important vocabulary word in English.\n---",
-      "difficulty": "10",
-      "images": [],
-      "tags": [],
-      "bloom": "Evaluate",
-      "expected_success": 0.8,
-      "bundle_id": "EC-ING-11-2026-W26-articles-definite-indefinite-001-MASTERY-bundle",
-      "periodo": 26,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ingles",
-      "grade": 11,
-      "country": "ec"
-    },
-    {
-      "id": "EC-ING-11-2026-W26-articles-definite-indefinite-001-MASTERY-v19",
-      "statement": "What is the English word for: \"Treatment with a vaccine to produce immunity against a disease.\"",
-      "context": "Choose the correct English word for the given definition.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "vaccination",
-          "is_correct": true,
-          "feedback": "Correct! 'vaccination' matches the definition."
-        },
-        {
-          "letter": "B",
-          "text": "medication",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "C",
-          "text": "prescription",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "D",
-          "text": "infection",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "The word 'vaccination' is used to describe treatment with a vaccine to produce immunity against a disease. This is an important vocabulary word in English.\n---",
-      "difficulty": "9",
-      "images": [],
-      "tags": [],
-      "bloom": "Evaluate",
-      "expected_success": 0.8,
-      "bundle_id": "EC-ING-11-2026-W26-articles-definite-indefinite-001-MASTERY-bundle",
-      "periodo": 26,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ingles",
-      "grade": 11,
-      "country": "ec"
-    },
-    {
-      "id": "EC-ING-11-2026-W26-articles-definite-indefinite-001-MASTERY-v20",
-      "statement": "What is the English word for: \"Extreme tiredness and other physical effects felt by a person after a long flight across several time zones.\"",
-      "context": "Choose the correct English word for the given definition.",
-      "options": [
-        {
-          "letter": "B",
-          "text": "jet lag",
-          "is_correct": true,
-          "feedback": "Correct! 'jet lag' matches the definition."
-        },
-        {
-          "letter": "A",
-          "text": "fatigue",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "C",
-          "text": "exhaustion",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "D",
-          "text": "insomnia",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        }
-      ],
-      "correct_answer": "B",
-      "explanation": "The word 'jet lag' is used to describe extreme tiredness and other physical effects felt by a person after a long flight across several time zones. This is an important vocabulary word in English.",
-      "difficulty": "10",
-      "images": [],
-      "tags": [],
-      "bloom": "Evaluate",
       "expected_success": 0.8,
       "bundle_id": "EC-ING-11-2026-W26-articles-definite-indefinite-001-MASTERY-bundle",
       "periodo": 26,

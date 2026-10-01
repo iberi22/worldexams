@@ -703,13 +703,13 @@
           "letter": "C",
           "text": "$a = 2$",
           "is_correct": false,
-          "feedback": "Incorreto ao resolver a equação do ponto dado."
+          "feedback": "Substituindo (0, 3) na forma canônica: 3 = a(0-2)² - 1 dá 4 = 4a, logo a = 1. Com a = 2, a parábola chega a y = 7 em x = 0, e não a y = 3."
         },
         {
           "letter": "D",
           "text": "$a = 0,5$",
           "is_correct": false,
-          "feedback": "Incorreto ao resolver a equação do ponto dado."
+          "feedback": "Substituindo (0, 3) na forma canônica: 3 = a(0-2)² - 1 dá 4 = 4a, logo a = 1. O valor 0,5 corresponderia a y = -1/4 no ponto x = 0."
         }
       ],
       "correct_answer": "B",
@@ -1603,13 +1603,13 @@
           "letter": "C",
           "text": "$a = 2$",
           "is_correct": false,
-          "feedback": "Incorreto ao resolver a equação do ponto dado."
+          "feedback": "Com $a=2$: $f(2)=2(4)-1=7$, que não é $-1$; o vértice não fica na altura correta."
         },
         {
           "letter": "D",
           "text": "$a = 0,5$",
           "is_correct": false,
-          "feedback": "Incorreto ao resolver a equação do ponto dado."
+          "feedback": "Com $a=0{,}5$: $f(2)=0{,}5(4)-1=1$, e o sinal está errado, pois o ponto pedido está abaixo do vértice."
         }
       ],
       "correct_answer": "B",

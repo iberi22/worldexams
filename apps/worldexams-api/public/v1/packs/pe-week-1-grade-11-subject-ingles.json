@@ -8,353 +8,38 @@
   },
   "questions": [
     {
-      "id": "PE-ING-11-2026-W01-present-simple-001-MASTERY-v1",
-      "statement": "What is the English word for: \"A place where you live or stay on holiday.\"",
-      "context": "Choose the correct English word for the given definition.",
-      "options": [
-        {
-          "letter": "C",
-          "text": "accommodation",
-          "is_correct": true,
-          "feedback": "Correct! 'accommodation' matches the definition."
-        },
-        {
-          "letter": "A",
-          "text": "transportation",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "B",
-          "text": "entertainment",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "D",
-          "text": "currency",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        }
-      ],
-      "correct_answer": "C",
-      "explanation": "The word 'accommodation' is used to describe a place where you live or stay on holiday. This is an important vocabulary word in English.\n---",
-      "difficulty": "4",
-      "images": [],
-      "tags": [],
-      "bloom": "Remember",
-      "expected_success": 0.8,
-      "bundle_id": "PE-ING-11-2026-W01-present-simple-001-MASTERY-bundle",
-      "periodo": 1,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ingles",
-      "grade": 11,
-      "country": "pe"
-    },
-    {
-      "id": "PE-ING-11-2026-W01-present-simple-001-MASTERY-v2",
-      "statement": "What is the English word for: \"A detailed plan or route of a journey.\"",
-      "context": "Choose the correct English word for the given definition.",
-      "options": [
-        {
-          "letter": "C",
-          "text": "itinerary",
-          "is_correct": true,
-          "feedback": "Correct! 'itinerary' matches the definition."
-        },
-        {
-          "letter": "A",
-          "text": "baggage",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "B",
-          "text": "destination",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "D",
-          "text": "passport",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        }
-      ],
-      "correct_answer": "C",
-      "explanation": "The word 'itinerary' is used to describe a detailed plan or route of a journey. This is an important vocabulary word in English.\n---",
-      "difficulty": "4",
-      "images": [],
-      "tags": [],
-      "bloom": "Remember",
-      "expected_success": 0.8,
-      "bundle_id": "PE-ING-11-2026-W01-present-simple-001-MASTERY-bundle",
-      "periodo": 1,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ingles",
-      "grade": 11,
-      "country": "pe"
-    },
-    {
-      "id": "PE-ING-11-2026-W01-present-simple-001-MASTERY-v3",
-      "statement": "What is the English word for: \"The place to which someone or something is going or being sent.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "id": "PE-ING-11-2026-W01-present-simple-001-MASTERY-bundle-v1",
+      "statement": "Choose the sentence in the present simple: 'My father ____ to Lima every year for the Fair.'",
+      "context": "Practica de presente simple, Lima, grado 11.",
       "options": [
         {
           "letter": "A",
-          "text": "destination",
-          "is_correct": true,
-          "feedback": "Correct! 'destination' matches the definition."
+          "text": "travel",
+          "is_correct": false,
+          "feedback": "The base form is used with I, you, we and they."
         },
         {
           "letter": "B",
-          "text": "departure",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "C",
-          "text": "arrival",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "D",
-          "text": "journey",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "The word 'destination' is used to describe the place to which someone or something is going or being sent. This is an important vocabulary word in English.\n---",
-      "difficulty": "4",
-      "images": [],
-      "tags": [],
-      "bloom": "Understand",
-      "expected_success": 0.8,
-      "bundle_id": "PE-ING-11-2026-W01-present-simple-001-MASTERY-bundle",
-      "periodo": 1,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ingles",
-      "grade": 11,
-      "country": "pe"
-    },
-    {
-      "id": "PE-ING-11-2026-W01-present-simple-001-MASTERY-v4",
-      "statement": "What is the English word for: \"Suitcases or other bags in which to pack personal belongings for traveling.\"",
-      "context": "Choose the correct English word for the given definition.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "luggage",
+          "text": "travels",
           "is_correct": true,
-          "feedback": "Correct! 'luggage' matches the definition."
-        },
-        {
-          "letter": "B",
-          "text": "ticket",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Third person singular takes -s in the present simple."
         },
         {
           "letter": "C",
-          "text": "flight",
+          "text": "is travel",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "An auxiliary and a bare verb cannot be combined this way."
         },
         {
           "letter": "D",
-          "text": "reservation",
+          "text": "traveling",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "The word 'luggage' is used to describe suitcases or other bags in which to pack personal belongings for traveling. This is an important vocabulary word in English.\n---",
-      "difficulty": "4",
-      "images": [],
-      "tags": [],
-      "bloom": "Understand",
-      "expected_success": 0.8,
-      "bundle_id": "PE-ING-11-2026-W01-present-simple-001-MASTERY-bundle",
-      "periodo": 1,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ingles",
-      "grade": 11,
-      "country": "pe"
-    },
-    {
-      "id": "PE-ING-11-2026-W01-present-simple-001-MASTERY-v5",
-      "statement": "What is the English word for: \"A traveler on a public or private conveyance other than the driver, pilot, or crew.\"",
-      "context": "Choose the correct English word for the given definition.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "passenger",
-          "is_correct": true,
-          "feedback": "Correct! 'passenger' matches the definition."
-        },
-        {
-          "letter": "B",
-          "text": "pedestrian",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "C",
-          "text": "commuter",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "D",
-          "text": "tourist",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "The word 'passenger' is used to describe a traveler on a public or private conveyance other than the driver, pilot, or crew. This is an important vocabulary word in English.\n---",
-      "difficulty": "6",
-      "images": [],
-      "tags": [],
-      "bloom": "Understand",
-      "expected_success": 0.8,
-      "bundle_id": "PE-ING-11-2026-W01-present-simple-001-MASTERY-bundle",
-      "periodo": 1,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ingles",
-      "grade": 11,
-      "country": "pe"
-    },
-    {
-      "id": "PE-ING-11-2026-W01-present-simple-001-MASTERY-v6",
-      "statement": "What is the English word for: \"The place at a port, airport, or frontier where officials check incoming goods, travelers, or luggage.\"",
-      "context": "Choose the correct English word for the given definition.",
-      "options": [
-        {
-          "letter": "D",
-          "text": "customs",
-          "is_correct": true,
-          "feedback": "Correct! 'customs' matches the definition."
-        },
-        {
-          "letter": "A",
-          "text": "security",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "B",
-          "text": "terminal",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "C",
-          "text": "gate",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        }
-      ],
-      "correct_answer": "D",
-      "explanation": "The word 'customs' is used to describe the place at a port, airport, or frontier where officials check incoming goods, travelers, or luggage. This is an important vocabulary word in English.\n---",
-      "difficulty": "6",
-      "images": [],
-      "tags": [],
-      "bloom": "Understand",
-      "expected_success": 0.8,
-      "bundle_id": "PE-ING-11-2026-W01-present-simple-001-MASTERY-bundle",
-      "periodo": 1,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ingles",
-      "grade": 11,
-      "country": "pe"
-    },
-    {
-      "id": "PE-ING-11-2026-W01-present-simple-001-MASTERY-v7",
-      "statement": "What is the English word for: \"A document provided by an airline during check-in, giving a passenger permission to board the airplane.\"",
-      "context": "Choose the correct English word for the given definition.",
-      "options": [
-        {
-          "letter": "D",
-          "text": "boarding pass",
-          "is_correct": true,
-          "feedback": "Correct! 'boarding pass' matches the definition."
-        },
-        {
-          "letter": "A",
-          "text": "visa",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "B",
-          "text": "receipt",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "C",
-          "text": "brochure",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        }
-      ],
-      "correct_answer": "D",
-      "explanation": "The word 'boarding pass' is used to describe a document provided by an airline during check-in, giving a passenger permission to board the airplane. This is an important vocabulary word in English.\n---",
-      "difficulty": "6",
-      "images": [],
-      "tags": [],
-      "bloom": "Apply",
-      "expected_success": 0.8,
-      "bundle_id": "PE-ING-11-2026-W01-present-simple-001-MASTERY-bundle",
-      "periodo": 1,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ingles",
-      "grade": 11,
-      "country": "pe"
-    },
-    {
-      "id": "PE-ING-11-2026-W01-present-simple-001-MASTERY-v8",
-      "statement": "What is the English word for: \"The activity of visiting places of interest in a particular location.\"",
-      "context": "Choose the correct English word for the given definition.",
-      "options": [
-        {
-          "letter": "B",
-          "text": "sightseeing",
-          "is_correct": true,
-          "feedback": "Correct! 'sightseeing' matches the definition."
-        },
-        {
-          "letter": "A",
-          "text": "shopping",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "C",
-          "text": "hiking",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "D",
-          "text": "camping",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "The gerund alone cannot function as the verb of the clause."
         }
       ],
       "correct_answer": "B",
-      "explanation": "The word 'sightseeing' is used to describe the activity of visiting places of interest in a particular location. This is an important vocabulary word in English.\n---",
-      "difficulty": "6",
+      "explanation": "El sujeto 'my father' es tercera persona singular, por eso el verbo lleva -s. Es uno de los puntos mas frecuentes de las pruebas de esta unidad.\n\n---",
+      "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Apply",
@@ -368,38 +53,128 @@
       "country": "pe"
     },
     {
-      "id": "PE-ING-11-2026-W01-present-simple-001-MASTERY-v9",
-      "statement": "What is the English word for: \"A thing that is kept as a reminder of a person, place, or event.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "id": "PE-ING-11-2026-W01-present-simple-001-MASTERY-bundle-v2",
+      "statement": "What does 'Water boils at 100 degrees Celsius at sea level' describe?",
+      "context": "Comprension del presente simple, Arequipa.",
       "options": [
         {
-          "letter": "B",
-          "text": "souvenir",
-          "is_correct": true,
-          "feedback": "Correct! 'souvenir' matches the definition."
+          "letter": "A",
+          "text": "An action happening right now",
+          "is_correct": false,
+          "feedback": "That would require the present continuous."
         },
         {
-          "letter": "A",
-          "text": "gift",
+          "letter": "B",
+          "text": "A finished action in the past",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "That would require the simple past."
         },
         {
           "letter": "C",
-          "text": "award",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "text": "A permanent scientific fact",
+          "is_correct": true,
+          "feedback": "General truths are always expressed in the present simple."
         },
         {
           "letter": "D",
-          "text": "prize",
+          "text": "A probable future event",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "That would require 'will' or a modal verb."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La oracion expresa una verdad cientifica permanente, propia del presente simple. Conviene practicarlo con otros ejemplos antes del examen.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.8,
+      "bundle_id": "PE-ING-11-2026-W01-present-simple-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-ING-11-2026-W01-present-simple-001-MASTERY-bundle-v3",
+      "statement": "Choose the correct question: '____ your sister work in the Amazon region?'",
+      "context": "Interrogacion en presente simple, Trujillo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Do",
+          "is_correct": false,
+          "feedback": "'Do' goes with I, you, we and they, but 'your sister' is singular here."
+        },
+        {
+          "letter": "B",
+          "text": "Does",
+          "is_correct": true,
+          "feedback": "'Does' plus subject plus base verb is the correct interrogative."
+        },
+        {
+          "letter": "C",
+          "text": "Is",
+          "is_correct": false,
+          "feedback": "'Is' cannot open a question with the main verb 'work'."
+        },
+        {
+          "letter": "D",
+          "text": "Does your sister works",
+          "is_correct": false,
+          "feedback": "After 'does' the verb must remain in the base form."
         }
       ],
       "correct_answer": "B",
-      "explanation": "The word 'souvenir' is used to describe a thing that is kept as a reminder of a person, place, or event. This is an important vocabulary word in English.\n---",
-      "difficulty": "6",
+      "explanation": "Con 'your sister' la pregunta se forma con 'Does' y el verbo en forma base. Este matiz se comprueba comparando con el resto de opciones.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.8,
+      "bundle_id": "PE-ING-11-2026-W01-present-simple-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-ING-11-2026-W01-present-simple-001-MASTERY-bundle-v4",
+      "statement": "Complete the sentence: 'They ____ traditional clothes when they perform at the festival.'",
+      "context": "Contexto cultural, Cusco.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "wears",
+          "is_correct": false,
+          "feedback": "The -s ending belongs to he, she or it."
+        },
+        {
+          "letter": "B",
+          "text": "are wear",
+          "is_correct": false,
+          "feedback": "Two verb forms cannot be stacked in that order."
+        },
+        {
+          "letter": "C",
+          "text": "wear",
+          "is_correct": true,
+          "feedback": "A plural subject takes the base form in the present simple."
+        },
+        {
+          "letter": "D",
+          "text": "were wearing",
+          "is_correct": false,
+          "feedback": "The past continuous refers to a past situation in progress."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El sujeto 'they' es plural y la descripcion es una costumbre habitual, por eso corresponde el presente simple con forma base.\n\n---",
+      "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Apply",
@@ -413,38 +188,128 @@
       "country": "pe"
     },
     {
-      "id": "PE-ING-11-2026-W01-present-simple-001-MASTERY-v10",
-      "statement": "What is the English word for: \"A period of time by which something is late or postponed.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "id": "PE-ING-11-2026-W01-present-simple-001-MASTERY-bundle-v5",
+      "statement": "What is the difference between 'I usually walk to school' and 'I am walking to school'?",
+      "context": "Contraste de tiempos, Lima.",
       "options": [
         {
           "letter": "A",
-          "text": "delay",
+          "text": "One is a habit and the other an action now",
           "is_correct": true,
-          "feedback": "Correct! 'delay' matches the definition."
+          "feedback": "Time reference, not grammar, separates the two forms."
         },
         {
           "letter": "B",
-          "text": "cancellation",
+          "text": "Both describe the same moment",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "They differ precisely in their time reference."
         },
         {
           "letter": "C",
-          "text": "departure",
+          "text": "The second is ungrammatical",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Both forms are grammatical in their own contexts."
         },
         {
           "letter": "D",
-          "text": "arrival",
+          "text": "The first describes a future event",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "The simple present describes habits and general truths."
         }
       ],
       "correct_answer": "A",
-      "explanation": "The word 'delay' is used to describe a period of time by which something is late or postponed. This is an important vocabulary word in English.\n---",
+      "explanation": "El presente simple describe una rutina habitual; el presente continuo describe la accion ahora.\n\n---",
       "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.8,
+      "bundle_id": "PE-ING-11-2026-W01-present-simple-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-ING-11-2026-W01-present-simple-001-MASTERY-bundle-v6",
+      "statement": "Look at the sentence: 'She do not like spicy food.' What is the error?",
+      "context": "Deteccion de errores, Piura.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Nothing is wrong with the sentence",
+          "is_correct": false,
+          "feedback": "The auxiliary agreement is wrong in this sentence."
+        },
+        {
+          "letter": "B",
+          "text": "'Spicy' must be 'spicier'",
+          "is_correct": false,
+          "feedback": "The adjective is correct in this sentence."
+        },
+        {
+          "letter": "C",
+          "text": "'Like' must be 'likes'",
+          "is_correct": false,
+          "feedback": "After 'does not' the verb stays in the base form."
+        },
+        {
+          "letter": "D",
+          "text": "'Do not' must be 'does not'",
+          "is_correct": true,
+          "feedback": "The auxiliary must agree with the third person singular subject."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Con 'she' la negacion requiere 'does not' y no 'do not'. Es uno de los puntos mas frecuentes de las pruebas de esta unidad.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.8,
+      "bundle_id": "PE-ING-11-2026-W01-present-simple-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-ING-11-2026-W01-present-simple-001-MASTERY-bundle-v7",
+      "statement": "Complete the dialogue: 'A: What time does the train leave? B: It ____ at seven.'",
+      "context": "Horarios, Chiclayo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "leaves",
+          "is_correct": true,
+          "feedback": "'It leaves' agrees with the singular subject 'it'."
+        },
+        {
+          "letter": "B",
+          "text": "leave",
+          "is_correct": false,
+          "feedback": "A plural or second person subject would take the base form."
+        },
+        {
+          "letter": "C",
+          "text": "is leaving",
+          "is_correct": false,
+          "feedback": "That would mean the train is leaving at this moment."
+        },
+        {
+          "letter": "D",
+          "text": "leaving",
+          "is_correct": false,
+          "feedback": "A gerund alone cannot answer the question."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El verbo 'leave' con el sujeto 'it' va en tercera persona singular: 'leaves'. Conviene practicarlo con otros ejemplos antes del examen.\n\n---",
+      "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Apply",
@@ -458,38 +323,173 @@
       "country": "pe"
     },
     {
-      "id": "PE-ING-11-2026-W01-present-simple-001-MASTERY-v11",
-      "statement": "What is the English word for: \"The act of reporting one's presence and registering, typically at an airport or hotel.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "id": "PE-ING-11-2026-W01-present-simple-001-MASTERY-bundle-v8",
+      "statement": "Which sentence uses the present simple correctly with a time expression?",
+      "context": "Marcadores temporales, Huancayo.",
       "options": [
         {
-          "letter": "B",
-          "text": "check-in",
-          "is_correct": true,
-          "feedback": "Correct! 'check-in' matches the definition."
+          "letter": "A",
+          "text": "The market is opening every Sunday at six.",
+          "is_correct": false,
+          "feedback": "The present continuous with 'every' describes a temporary arrangement."
         },
         {
-          "letter": "A",
-          "text": "check-out",
+          "letter": "B",
+          "text": "The market opened every Sunday at six.",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "The simple past is incompatible with a habit that still holds."
         },
         {
           "letter": "C",
-          "text": "booking",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "text": "The market opens every Sunday at six.",
+          "is_correct": true,
+          "feedback": "'Every Sunday' marks a recurring habit, so the present simple is required."
         },
         {
           "letter": "D",
-          "text": "reservation",
+          "text": "The market will open every Sunday at six.",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "'Will' points to the future, not to a standing schedule."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "'Every' introduce una accion habitual y por eso exige el presente simple. Este matiz se comprueba comparando con el resto de opciones.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.8,
+      "bundle_id": "PE-ING-11-2026-W01-present-simple-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-ING-11-2026-W01-present-simple-001-MASTERY-bundle-v9",
+      "statement": "Which sentence correctly negates a third person singular statement?",
+      "context": "Negacion en presente simple, Iquitos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "He do not need a visa for that trip.",
+          "is_correct": false,
+          "feedback": "The auxiliary must agree with 'he', which is 'does'."
+        },
+        {
+          "letter": "B",
+          "text": "He does not need a visa for that trip.",
+          "is_correct": true,
+          "feedback": "'Does not' plus base verb is the correct negative structure."
+        },
+        {
+          "letter": "C",
+          "text": "He not needs a visa for that trip.",
+          "is_correct": false,
+          "feedback": "The auxiliary must precede the adverb 'not'."
+        },
+        {
+          "letter": "D",
+          "text": "He does not needs a visa for that trip.",
+          "is_correct": false,
+          "feedback": "After 'does not' the verb returns to the base form 'need'."
         }
       ],
       "correct_answer": "B",
-      "explanation": "The word 'check-in' is used to describe the act of reporting one's presence and registering, typically at an airport or hotel. This is an important vocabulary word in English.\n---",
-      "difficulty": "8",
+      "explanation": "La negacion requiere 'does not' seguido del verbo en forma base cuando el sujeto es singular de tercera persona.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.8,
+      "bundle_id": "PE-ING-11-2026-W01-present-simple-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-ING-11-2026-W01-present-simple-001-MASTERY-bundle-v10",
+      "statement": "What does 'The Inca empire covered much of the Andean region' tell us about the verb form?",
+      "context": "Analisis de un texto historico, Lima.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "It is the simple past, used for a historical statement",
+          "is_correct": true,
+          "feedback": "The verb 'covered' is the simple past form, as history requires."
+        },
+        {
+          "letter": "B",
+          "text": "It is the present simple describing a current fact",
+          "is_correct": false,
+          "feedback": "The empire no longer exists, so the tense is not present."
+        },
+        {
+          "letter": "C",
+          "text": "It is the present perfect",
+          "is_correct": false,
+          "feedback": "'Covered' is not a participle; the form would be 'has covered'."
+        },
+        {
+          "letter": "D",
+          "text": "It is the past continuous",
+          "is_correct": false,
+          "feedback": "There is no auxiliary to build a continuous form here."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Aunque el enunciado describe el pasado, la forma 'covered' es pasado simple por el valor historico de la afirmacion.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.8,
+      "bundle_id": "PE-ING-11-2026-W01-present-simple-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-ING-11-2026-W01-present-simple-001-MASTERY-bundle-v11",
+      "statement": "Complete: 'Machu Picchu ____ thousands of visitors every year.'",
+      "context": "Turismo, Cusco.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "attracts",
+          "is_correct": true,
+          "feedback": "'Machu Picchu attracts' agrees with the singular subject."
+        },
+        {
+          "letter": "B",
+          "text": "attract",
+          "is_correct": false,
+          "feedback": "The base form does not agree with a singular third person subject."
+        },
+        {
+          "letter": "C",
+          "text": "is attract",
+          "is_correct": false,
+          "feedback": "An auxiliary plus a bare verb is not a valid combination."
+        },
+        {
+          "letter": "D",
+          "text": "attracting",
+          "is_correct": false,
+          "feedback": "A gerund cannot serve as the verb of a declarative sentence."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Los lugares y Monetary singulares en tercera persona llevan -s en presente simple. Es uno de los puntos mas frecuentes de las pruebas de esta unidad.\n\n---",
+      "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Apply",
@@ -503,38 +503,38 @@
       "country": "pe"
     },
     {
-      "id": "PE-ING-11-2026-W01-present-simple-001-MASTERY-v12",
-      "statement": "What is the English word for: \"A period of rest or waiting before a further stage in a journey.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "id": "PE-ING-11-2026-W01-present-simple-001-MASTERY-bundle-v12",
+      "statement": "Complete: 'The children ____ to school by seven every morning.'",
+      "context": "Rutina escolar, Lima.",
       "options": [
         {
           "letter": "A",
-          "text": "layover",
-          "is_correct": true,
-          "feedback": "Correct! 'layover' matches the definition."
+          "text": "goes",
+          "is_correct": false,
+          "feedback": "The -s ending belongs to he, she or it."
         },
         {
           "letter": "B",
-          "text": "stopover",
+          "text": "are go",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "An auxiliary plus a bare verb is not a valid combination."
         },
         {
           "letter": "C",
-          "text": "transfer",
+          "text": "going",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "A gerund alone cannot function as the verb of the clause."
         },
         {
           "letter": "D",
-          "text": "transit",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "text": "go",
+          "is_correct": true,
+          "feedback": "A plural subject takes the base form 'go' in the present simple."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'layover' is used to describe a period of rest or waiting before a further stage in a journey. This is an important vocabulary word in English.\n---",
-      "difficulty": "8",
+      "correct_answer": "D",
+      "explanation": "El sujeto 'the children' es plural y la rutina es habitual, de modo que el verbo va en forma base del presente simple.\n\n---",
+      "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Apply",
@@ -548,38 +548,38 @@
       "country": "pe"
     },
     {
-      "id": "PE-ING-11-2026-W01-present-simple-001-MASTERY-v13",
-      "statement": "What is the English word for: \"A system of money in general use in a particular country.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "id": "PE-ING-11-2026-W01-present-simple-001-MASTERY-bundle-v13",
+      "statement": "Which sentence expresses a negative with the auxiliary 'do'?",
+      "context": "Auxiliares en presente simple, Tacna.",
       "options": [
         {
-          "letter": "C",
-          "text": "currency",
-          "is_correct": true,
-          "feedback": "Correct! 'currency' matches the definition."
-        },
-        {
           "letter": "A",
-          "text": "coin",
+          "text": "We does not have a gym at school.",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "'Does' is the third person singular auxiliary."
         },
         {
           "letter": "B",
-          "text": "banknote",
+          "text": "We do not have a gym at school.",
+          "is_correct": true,
+          "feedback": "'Do not' plus base verb agrees with the plural subject 'we'."
+        },
+        {
+          "letter": "C",
+          "text": "We do not has a gym at school.",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "After 'do not' the verb must be the base form 'have'."
         },
         {
           "letter": "D",
-          "text": "cash",
+          "text": "We not do have a gym at school.",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "The auxiliary must precede the adverb 'not'."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "The word 'currency' is used to describe a system of money in general use in a particular country. This is an important vocabulary word in English.\n---",
-      "difficulty": "8",
+      "correct_answer": "B",
+      "explanation": "Con 'I', 'you', 'we' o 'they' la negacion usa 'do not' y el verbo en forma base. Conviene practicarlo con otros ejemplos antes del examen.\n\n---",
+      "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Analyze",
@@ -593,38 +593,128 @@
       "country": "pe"
     },
     {
-      "id": "PE-ING-11-2026-W01-present-simple-001-MASTERY-v14",
-      "statement": "What is the English word for: \"A book of information about a place designed for the use of visitors or tourists.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "id": "PE-ING-11-2026-W01-present-simple-001-MASTERY-bundle-v14",
+      "statement": "Read the text: 'Rosa works in a clinic and helps elderly patients every morning.' What is the main idea?",
+      "context": "Comprension lectora, Moquegua.",
       "options": [
         {
-          "letter": "C",
-          "text": "guidebook",
-          "is_correct": true,
-          "feedback": "Correct! 'guidebook' matches the definition."
-        },
-        {
           "letter": "A",
-          "text": "map",
+          "text": "Rosa studies medicine at the university",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "The text mentions a clinic, not a university."
         },
         {
           "letter": "B",
-          "text": "dictionary",
+          "text": "Elderly patients live near the clinic",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "The text says nothing about where patients live."
+        },
+        {
+          "letter": "C",
+          "text": "Rosa works in a clinic helping elderly patients",
+          "is_correct": true,
+          "feedback": "Both sentences describe the same routine."
         },
         {
           "letter": "D",
-          "text": "encyclopedia",
+          "text": "Rosa works only in the afternoons",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "The text says every morning, not afternoons."
         }
       ],
       "correct_answer": "C",
-      "explanation": "The word 'guidebook' is used to describe a book of information about a place designed for the use of visitors or tourists. This is an important vocabulary word in English.\n---",
-      "difficulty": "8",
+      "explanation": "La idea central es la rutina laboral de Rosa con pacientes mayores en una clinica. Este matiz se comprueba comparando con el resto de opciones.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.8,
+      "bundle_id": "PE-ING-11-2026-W01-present-simple-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-ING-11-2026-W01-present-simple-001-MASTERY-bundle-v15",
+      "statement": "Choose the correct sentence.",
+      "context": "Consolidacion del presente simple, Cajamarca.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "The Amazon river flowing through two countries.",
+          "is_correct": false,
+          "feedback": "There is no finite verb: 'flowing' cannot close the clause."
+        },
+        {
+          "letter": "B",
+          "text": "The Amazon river is flow through two countries.",
+          "is_correct": false,
+          "feedback": "'Flow' is not a progressive form; use 'flows'."
+        },
+        {
+          "letter": "C",
+          "text": "The Amazon river flows the most of two countries.",
+          "is_correct": false,
+          "feedback": "'Most' does not belong in this statement about extent."
+        },
+        {
+          "letter": "D",
+          "text": "The Amazon river flows through two countries.",
+          "is_correct": true,
+          "feedback": "Correct agreement plus a general geographical fact."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Solo la oracion con un verbo finito y correctamente concordado cierra la estructura del presente simple.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.8,
+      "bundle_id": "PE-ING-11-2026-W01-present-simple-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-ING-11-2026-W01-present-simple-001-MASTERY-bundle-v16",
+      "statement": "What does the adverb 'always' tell us about the verb tense?",
+      "context": "Adverbios de frecuencia, Ayacucho.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "It indicates an action in progress",
+          "is_correct": false,
+          "feedback": "That is the function of 'at the moment' with the continuous form."
+        },
+        {
+          "letter": "B",
+          "text": "It indicates a permanent habit, which fits the present simple",
+          "is_correct": true,
+          "feedback": "Frequency adverbs of this kind normally accompany the simple present."
+        },
+        {
+          "letter": "C",
+          "text": "It indicates a finished past action",
+          "is_correct": false,
+          "feedback": "Frequency adverbs do not fix a past time."
+        },
+        {
+          "letter": "D",
+          "text": "It indicates a future intention",
+          "is_correct": false,
+          "feedback": "'Always' is not a marker of future time."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Un adverbio de frecuencia absoluta como 'always' indica una costumbre permanente y por eso se combina con el presente simple.\n\n---",
+      "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Analyze",
@@ -638,38 +728,83 @@
       "country": "pe"
     },
     {
-      "id": "PE-ING-11-2026-W01-present-simple-001-MASTERY-v15",
-      "statement": "What is the English word for: \"A bag with shoulder straps that allow it to be carried on one's back.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "id": "PE-ING-11-2026-W01-present-simple-001-MASTERY-bundle-v17",
+      "statement": "Complete the question: 'What time ____ the library open on weekdays?'",
+      "context": "Pregunta sobre horarios, Puno.",
       "options": [
         {
           "letter": "A",
-          "text": "backpack",
-          "is_correct": true,
-          "feedback": "Correct! 'backpack' matches the definition."
+          "text": "do",
+          "is_correct": false,
+          "feedback": "'Do' does not agree with the singular subject 'the library'."
         },
         {
           "letter": "B",
-          "text": "suitcase",
+          "text": "is",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "'Is' cannot be followed by the main verb 'open' in this structure."
         },
         {
           "letter": "C",
-          "text": "briefcase",
+          "text": "does it opens",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "After 'does' the verb must stay in the base form 'open'."
         },
         {
           "letter": "D",
-          "text": "handbag",
+          "text": "does",
+          "is_correct": true,
+          "feedback": "'Does' plus subject plus base verb forms the question correctly."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "El sujeto 'the library' es singular, por eso la pregunta requiere 'does' y el verbo en forma base.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.8,
+      "bundle_id": "PE-ING-11-2026-W01-present-simple-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-ING-11-2026-W01-present-simple-001-MASTERY-bundle-v18",
+      "statement": "Which sentence is grammatically incorrect?",
+      "context": "Analisis de errores, Huaraz.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "My parents wants to visit Machu Picchu.",
+          "is_correct": true,
+          "feedback": "A plural subject requires the base form 'want', not 'wants'."
+        },
+        {
+          "letter": "B",
+          "text": "My parents want to visit Machu Picchu.",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "The plural subject correctly takes the base form."
+        },
+        {
+          "letter": "C",
+          "text": "My parent wants to visit Machu Picchu.",
+          "is_correct": false,
+          "feedback": "The singular subject correctly takes 'wants'."
+        },
+        {
+          "letter": "D",
+          "text": "My parents are wanting to visit Machu Picchu.",
+          "is_correct": false,
+          "feedback": "That form is not used in the present simple in standard English."
         }
       ],
       "correct_answer": "A",
-      "explanation": "The word 'backpack' is used to describe a bag with shoulder straps that allow it to be carried on one's back. This is an important vocabulary word in English.\n---",
-      "difficulty": "8",
+      "explanation": "Con el sujeto 'my parents' el verbo va en forma base; 'wants' lleva la -s que corresponde a otra persona.\n\n---",
+      "difficulty": "6",
       "images": [],
       "tags": [],
       "bloom": "Analyze",
@@ -683,221 +818,86 @@
       "country": "pe"
     },
     {
-      "id": "PE-ING-11-2026-W01-present-simple-001-MASTERY-v16",
-      "statement": "What is the English word for: \"In or to a foreign country, especially one across the sea.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "id": "PE-ING-11-2026-W01-present-simple-001-MASTERY-bundle-v19",
+      "statement": "Complete: 'The bus to Puno ____ every thirty minutes.'",
+      "context": "Transporte, Juliaca.",
       "options": [
         {
-          "letter": "C",
-          "text": "overseas",
-          "is_correct": true,
-          "feedback": "Correct! 'overseas' matches the definition."
-        },
-        {
           "letter": "A",
-          "text": "domestic",
+          "text": "leave",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "The base form does not agree with the singular subject."
         },
         {
           "letter": "B",
-          "text": "local",
+          "text": "is leaving",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "The present continuous would suggest a single trip in progress."
+        },
+        {
+          "letter": "C",
+          "text": "leaves",
+          "is_correct": true,
+          "feedback": "A singular subject with habitual frequency takes the -s form."
         },
         {
           "letter": "D",
-          "text": "national",
+          "text": "left",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "The simple past would suggest the service has ended."
         }
       ],
       "correct_answer": "C",
-      "explanation": "The word 'overseas' is used to describe in or to a foreign country, especially one across the sea. This is an important vocabulary word in English.\n---",
-      "difficulty": "8",
+      "explanation": "El sujeto 'the bus' es singular y la frecuencia es habitual, de modo que corresponde 'leaves'.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.8,
+      "bundle_id": "PE-ING-11-2026-W01-present-simple-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-ING-11-2026-W01-present-simple-001-MASTERY-bundle-v20",
+      "statement": "What is the difference between 'usually' and 'always'?",
+      "context": "Adverbios de frecuencia, Huanuco.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Both mean 'never'",
+          "is_correct": false,
+          "feedback": "Neither adverb expresses zero frequency."
+        },
+        {
+          "letter": "B",
+          "text": "'Usually' refers to the past",
+          "is_correct": false,
+          "feedback": "Both are frequency adverbs without a specific time reference."
+        },
+        {
+          "letter": "C",
+          "text": "'Always' refers to the future",
+          "is_correct": false,
+          "feedback": "Neither adverb fixes the time of the action."
+        },
+        {
+          "letter": "D",
+          "text": "'Always' is absolute; 'usually' allows exceptions",
+          "is_correct": true,
+          "feedback": "The two adverbs sit at different points on the frequency scale."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "'Always' afirma frecuencia total; 'usually' indica frecuencia alta pero con excepciones.\n\n---",
+      "difficulty": "6",
       "images": [],
       "tags": [],
       "bloom": "Analyze",
-      "expected_success": 0.8,
-      "bundle_id": "PE-ING-11-2026-W01-present-simple-001-MASTERY-bundle",
-      "periodo": 1,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ingles",
-      "grade": 11,
-      "country": "pe"
-    },
-    {
-      "id": "PE-ING-11-2026-W01-present-simple-001-MASTERY-v17",
-      "statement": "What is the English word for: \"An estimate of income and expenditure for a set period of time.\"",
-      "context": "Choose the correct English word for the given definition.",
-      "options": [
-        {
-          "letter": "D",
-          "text": "budget",
-          "is_correct": true,
-          "feedback": "Correct! 'budget' matches the definition."
-        },
-        {
-          "letter": "A",
-          "text": "expense",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "B",
-          "text": "cost",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "C",
-          "text": "price",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        }
-      ],
-      "correct_answer": "D",
-      "explanation": "The word 'budget' is used to describe an estimate of income and expenditure for a set period of time. This is an important vocabulary word in English.\n---",
-      "difficulty": "10",
-      "images": [],
-      "tags": [],
-      "bloom": "Evaluate",
-      "expected_success": 0.8,
-      "bundle_id": "PE-ING-11-2026-W01-present-simple-001-MASTERY-bundle",
-      "periodo": 1,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ingles",
-      "grade": 11,
-      "country": "pe"
-    },
-    {
-      "id": "PE-ING-11-2026-W01-present-simple-001-MASTERY-v18",
-      "statement": "What is the English word for: \"A practice or arrangement by which a company or government agency provides a guarantee of compensation for specified loss, damage, illness, or death in return for payment of a premium.\"",
-      "context": "Choose the correct English word for the given definition.",
-      "options": [
-        {
-          "letter": "C",
-          "text": "insurance",
-          "is_correct": true,
-          "feedback": "Correct! 'insurance' matches the definition."
-        },
-        {
-          "letter": "A",
-          "text": "warranty",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "B",
-          "text": "guarantee",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "D",
-          "text": "policy",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        }
-      ],
-      "correct_answer": "C",
-      "explanation": "The word 'insurance' is used to describe a practice or arrangement by which a company or government agency provides a guarantee of compensation for specified loss, damage, illness, or death in return for payment of a premium. This is an important vocabulary word in English.\n---",
-      "difficulty": "10",
-      "images": [],
-      "tags": [],
-      "bloom": "Evaluate",
-      "expected_success": 0.8,
-      "bundle_id": "PE-ING-11-2026-W01-present-simple-001-MASTERY-bundle",
-      "periodo": 1,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ingles",
-      "grade": 11,
-      "country": "pe"
-    },
-    {
-      "id": "PE-ING-11-2026-W01-present-simple-001-MASTERY-v19",
-      "statement": "What is the English word for: \"Treatment with a vaccine to produce immunity against a disease.\"",
-      "context": "Choose the correct English word for the given definition.",
-      "options": [
-        {
-          "letter": "D",
-          "text": "vaccination",
-          "is_correct": true,
-          "feedback": "Correct! 'vaccination' matches the definition."
-        },
-        {
-          "letter": "A",
-          "text": "medication",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "B",
-          "text": "prescription",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "C",
-          "text": "infection",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        }
-      ],
-      "correct_answer": "D",
-      "explanation": "The word 'vaccination' is used to describe treatment with a vaccine to produce immunity against a disease. This is an important vocabulary word in English.\n---",
-      "difficulty": "10",
-      "images": [],
-      "tags": [],
-      "bloom": "Evaluate",
-      "expected_success": 0.8,
-      "bundle_id": "PE-ING-11-2026-W01-present-simple-001-MASTERY-bundle",
-      "periodo": 1,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ingles",
-      "grade": 11,
-      "country": "pe"
-    },
-    {
-      "id": "PE-ING-11-2026-W01-present-simple-001-MASTERY-v20",
-      "statement": "What is the English word for: \"Extreme tiredness and other physical effects felt by a person after a long flight across several time zones.\"",
-      "context": "Choose the correct English word for the given definition.",
-      "options": [
-        {
-          "letter": "C",
-          "text": "jet lag",
-          "is_correct": true,
-          "feedback": "Correct! 'jet lag' matches the definition."
-        },
-        {
-          "letter": "A",
-          "text": "fatigue",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "B",
-          "text": "exhaustion",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "D",
-          "text": "insomnia",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        }
-      ],
-      "correct_answer": "C",
-      "explanation": "The word 'jet lag' is used to describe extreme tiredness and other physical effects felt by a person after a long flight across several time zones. This is an important vocabulary word in English.",
-      "difficulty": "10",
-      "images": [],
-      "tags": [],
-      "bloom": "Evaluate",
       "expected_success": 0.8,
       "bundle_id": "PE-ING-11-2026-W01-present-simple-001-MASTERY-bundle",
       "periodo": 1,

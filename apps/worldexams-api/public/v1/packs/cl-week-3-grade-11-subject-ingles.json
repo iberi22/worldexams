@@ -511,7 +511,7 @@
           "letter": "A",
           "text": "are developing",
           "is_correct": false,
-          "feedback": "Incorrect. Active voice."
+          "feedback": "\"Are developing\" is the active voice: it would make the scientists the ones developing the vaccines. Here the vaccines are the thing being developed, so the sentence needs the passive."
         },
         {
           "letter": "B",
@@ -523,13 +523,13 @@
           "letter": "C",
           "text": "have developed",
           "is_correct": false,
-          "feedback": "Incorrect. Active voice."
+          "feedback": "\"Have developed\" is active and describes a finished action by someone; the report describes an ongoing process, and the vaccines are what is being developed."
         },
         {
           "letter": "D",
           "text": "develop",
           "is_correct": false,
-          "feedback": "Incorrect. Active voice."
+          "feedback": "The bare infinitive \"develop\" cannot complete the sentence and would be the active voice, not the passive the situation calls for."
         }
       ],
       "correct_answer": "B",
@@ -826,7 +826,7 @@
           "letter": "A",
           "text": "will feel",
           "is_correct": false,
-          "feedback": "Incorrect. Present/future."
+          "feedback": "\"Would feel\" is required because the sentence describes an unreal past situation; \"will feel\" would state a prediction about the present."
         },
         {
           "letter": "B",

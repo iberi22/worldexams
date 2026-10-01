@@ -34,7 +34,7 @@
           "letter": "C",
           "text": "are should",
           "is_correct": false,
-          "feedback": "Incorrect."
+          "feedback": "This stacks two verbs with 'are' in front of the modal. A modal such as 'should' is already the complete verb, so nothing can precede it here."
         }
       ],
       "correct_answer": "D",
@@ -80,7 +80,7 @@
           "letter": "D",
           "text": "am / riding",
           "is_correct": false,
-          "feedback": "Incorrect."
+          "feedback": "'Am riding' is the present continuous and describes an action happening now. The word 'never' plus 'before' asks about a whole life experience, which is present perfect."
         }
       ],
       "correct_answer": "B",
@@ -126,7 +126,7 @@
           "letter": "D",
           "text": "where",
           "is_correct": false,
-          "feedback": "Incorrect."
+          "feedback": "'Where' asks about a place and would turn the sentence into a question, which it is not here."
         }
       ],
       "correct_answer": "B",
@@ -212,13 +212,13 @@
           "letter": "B",
           "text": "during",
           "is_correct": false,
-          "feedback": "Incorrect."
+          "feedback": "'During' marks a specific period or event, as in 'during the war'. The present perfect with a starting point needs 'since'."
         },
         {
           "letter": "D",
           "text": "ago",
           "is_correct": false,
-          "feedback": "Incorrect."
+          "feedback": "'Ago' counts backwards from now, as in 'two years ago', and is normally used with a past tense, not with 'has worked'."
         }
       ],
       "correct_answer": "C",
@@ -264,7 +264,7 @@
           "letter": "D",
           "text": "must",
           "is_correct": false,
-          "feedback": "Incorrect."
+          "feedback": "'Must' is the affirmative form: it would say smoking is required. The clause says the opposite, that it is strictly forbidden."
         }
       ],
       "correct_answer": "A",
@@ -292,7 +292,7 @@
           "letter": "A",
           "text": "who",
           "is_correct": false,
-          "feedback": "Incorrect."
+          "feedback": "'Who' cannot come before a noun to show possession. To say the brother of the girl, the relative pronoun used is 'whose'."
         },
         {
           "letter": "B",
@@ -304,13 +304,13 @@
           "letter": "C",
           "text": "which",
           "is_correct": false,
-          "feedback": "Incorrect."
+          "feedback": "'Which' is only used for things, and a brother is a person."
         },
         {
           "letter": "D",
           "text": "whom",
           "is_correct": false,
-          "feedback": "Incorrect."
+          "feedback": "'Whom' is the object form, as in 'the boy whom I met'. Here the blank comes before 'brother' and has to show ownership, which is what 'whose' does."
         }
       ],
       "correct_answer": "B",
@@ -338,7 +338,7 @@
           "letter": "A",
           "text": "if",
           "is_correct": false,
-          "feedback": "Incorrect."
+          "feedback": "'If' would make it a straight condition, so the sentence would say the call will be made in every case that is an emergency, which is the opposite of the meaning."
         },
         {
           "letter": "B",
@@ -350,13 +350,13 @@
           "letter": "C",
           "text": "when",
           "is_correct": false,
-          "feedback": "Incorrect."
+          "feedback": "'When' marks any time at all, including ordinary times, so it would promise to call you whenever something happened, not only in an emergency."
         },
         {
           "letter": "D",
           "text": "already",
           "is_correct": false,
-          "feedback": "Incorrect."
+          "feedback": "'Already' is an adverb of time and cannot introduce the clause that carries the condition here."
         }
       ],
       "correct_answer": "B",

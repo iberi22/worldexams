@@ -556,25 +556,25 @@
           "letter": "A",
           "text": "Siempre tiene $n$ soluciones reales.",
           "is_correct": false,
-          "feedback": "Algunas pueden ser complejas."
+          "feedback": "El grado $n$ fija el número total de raíces contando multiplicidad sobre los complejos, pero algunas pueden ser complejas y no reales."
         },
         {
           "letter": "C",
           "text": "Como máximo $n$ soluciones reales.",
           "is_correct": true,
-          "feedback": "Correcto. El grado marca el límite superior de raíces."
+          "feedback": "Como máximo $n$: el grado es el límite superior de soluciones reales, y en los reales puede haber menos o ninguna."
         },
         {
           "letter": "B",
           "text": "Siempre tiene al menos una solución real.",
           "is_correct": false,
-          "feedback": "No para grados pares (ej. x^2+1=0)."
+          "feedback": "No es cierto: una ecuación de grado par como $x^2 + 1 = 0$ no tiene ninguna solución real."
         },
         {
           "letter": "D",
           "text": "$n-1$ soluciones.",
           "is_correct": false,
-          "feedback": "Incorrecto."
+          "feedback": "El límite superior es $n$ y no $n-1$: una ecuación de grado $n$ puede alcanzar exactamente $n$ raíces reales distintas."
         }
       ],
       "correct_answer": "C",

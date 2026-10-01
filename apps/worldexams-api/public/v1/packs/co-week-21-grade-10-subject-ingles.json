@@ -16,7 +16,7 @@
           "letter": "B",
           "text": "However",
           "is_correct": false,
-          "feedback": "Incorrect contrast connector."
+          "feedback": "'However' introduces contrast, but the second clause here adds a further benefit that supports the first."
         },
         {
           "letter": "A",
@@ -28,13 +28,13 @@
           "letter": "C",
           "text": "Nevertheless",
           "is_correct": false,
-          "feedback": "Incorrect contrast connector."
+          "feedback": "'Nevertheless' introduces contrast, which is the opposite of the supporting link the sentence needs."
         },
         {
           "letter": "D",
           "text": "On the contrary",
           "is_correct": false,
-          "feedback": "Incorrect."
+          "feedback": "'On the contrary' states that the second clause denies the first, but here it supports it."
         }
       ],
       "correct_answer": "A",
@@ -62,7 +62,7 @@
           "letter": "A",
           "text": "In addition",
           "is_correct": false,
-          "feedback": "Incorrect addition connector."
+          "feedback": "'In addition' adds supporting information, but the second clause introduces a problem, not more support."
         },
         {
           "letter": "B",
@@ -74,13 +74,13 @@
           "letter": "C",
           "text": "Moreover",
           "is_correct": false,
-          "feedback": "Incorrect addition connector."
+          "feedback": "'Moreover' also adds information rather than contrasting, and the clause here is a counter-argument."
         },
         {
           "letter": "D",
           "text": "Consequently",
           "is_correct": false,
-          "feedback": "Incorrect cause-effect connector."
+          "feedback": "'Consequently' expresses cause and effect, but the sentence sets an objection against the first statement."
         }
       ],
       "correct_answer": "B",
@@ -108,7 +108,7 @@
           "letter": "B",
           "text": "Yet",
           "is_correct": false,
-          "feedback": "Incorrect contrast."
+          "feedback": "'Yet' introduces contrast, whereas the second clause adds another advantage of solar energy."
         },
         {
           "letter": "A",
@@ -120,13 +120,13 @@
           "letter": "C",
           "text": "Despite",
           "is_correct": false,
-          "feedback": "Incorrect preposition."
+          "feedback": "'Despite' is a preposition and needs a noun phrase after it, so it cannot stand alone here."
         },
         {
           "letter": "D",
           "text": "Instead",
           "is_correct": false,
-          "feedback": "Incorrect."
+          "feedback": "'Instead' contrasts two alternatives and would need a following clause of its own."
         }
       ],
       "correct_answer": "A",
@@ -154,7 +154,7 @@
           "letter": "A",
           "text": "Although",
           "is_correct": false,
-          "feedback": "Needs a full clause."
+          "feedback": "'Although' is a conjunction and would need a full clause after it, as in 'although maintenance is costly', but the blank is followed directly by the noun phrase 'the high cost'."
         },
         {
           "letter": "D",
@@ -166,7 +166,7 @@
           "letter": "B",
           "text": "Even though",
           "is_correct": false,
-          "feedback": "Needs a full clause."
+          "feedback": "'Even though' also needs a complete clause with a subject and verb, which the noun phrase 'the high cost of maintenance' cannot supply."
         },
         {
           "letter": "C",
@@ -200,7 +200,7 @@
           "letter": "A",
           "text": "in addition",
           "is_correct": false,
-          "feedback": "Incorrect."
+          "feedback": "'In addition' only adds information; the sentence sets two opposing views against each other."
         },
         {
           "letter": "C",
@@ -212,13 +212,13 @@
           "letter": "B",
           "text": "besides",
           "is_correct": false,
-          "feedback": "Incorrect addition."
+          "feedback": "'Besides' adds information, whereas the clause after it presents a different and opposing opinion."
         },
         {
           "letter": "D",
           "text": "despite",
           "is_correct": false,
-          "feedback": "Incorrect."
+          "feedback": "'Despite' is a preposition that needs a noun phrase, so it cannot join two clauses like this."
         }
       ],
       "correct_answer": "C",
@@ -246,7 +246,7 @@
           "letter": "B",
           "text": "Furthermore",
           "is_correct": false,
-          "feedback": "Incorrect."
+          "feedback": "'Furthermore' adds supporting information, but the second clause admits the policy failed."
         },
         {
           "letter": "A",
@@ -258,13 +258,13 @@
           "letter": "C",
           "text": "Likewise",
           "is_correct": false,
-          "feedback": "Incorrect similarity connector."
+          "feedback": "'Likewise' signals similarity between two things, and the two clauses are opposed."
         },
         {
           "letter": "D",
           "text": "As a result",
           "is_correct": false,
-          "feedback": "Incorrect cause-effect."
+          "feedback": "'As a result' links a cause to its effect, while the second clause contradicts the first."
         }
       ],
       "correct_answer": "A",
@@ -298,13 +298,13 @@
           "letter": "B",
           "text": "in addition",
           "is_correct": false,
-          "feedback": "Incorrect."
+          "feedback": "'In addition' would add a further benefit, but the clause here states a loss."
         },
         {
           "letter": "D",
           "text": "therefore",
           "is_correct": false,
-          "feedback": "Incorrect cause-effect."
+          "feedback": "'Therefore' draws a conclusion from the first clause, which is not what the sentence does."
         },
         {
           "letter": "C",
@@ -338,7 +338,7 @@
           "letter": "B",
           "text": "Although",
           "is_correct": false,
-          "feedback": "Incorrect syntax."
+          "feedback": "'Although' is a conjunction and would need a full clause after it to show the contrast."
         },
         {
           "letter": "A",
@@ -350,13 +350,13 @@
           "letter": "C",
           "text": "As well as",
           "is_correct": false,
-          "feedback": "Incorrect grammar."
+          "feedback": "'As well as' joins two nouns or adds information; it cannot introduce a contrasting clause."
         },
         {
           "letter": "D",
           "text": "Even if",
           "is_correct": false,
-          "feedback": "Incorrect."
+          "feedback": "'Even if' introduces a conditional clause, not a concession contrasting with the first statement."
         }
       ],
       "correct_answer": "A",
@@ -384,7 +384,7 @@
           "letter": "A",
           "text": "Similarly",
           "is_correct": false,
-          "feedback": "Incorrect similarity."
+          "feedback": "'Similarly' links two similar points, but the second clause warns of a different, negative point."
         },
         {
           "letter": "B",
@@ -402,7 +402,7 @@
           "letter": "D",
           "text": "On the contrary",
           "is_correct": false,
-          "feedback": "Incorrect."
+          "feedback": "'On the contrary' denies the first clause outright, which is stronger than the warning the sentence gives."
         }
       ],
       "correct_answer": "B",
@@ -436,19 +436,19 @@
           "letter": "B",
           "text": "Neither / nor",
           "is_correct": false,
-          "feedback": "Incorrect negative."
+          "feedback": "'Neither... nor' states that both items are untrue, which is the opposite of the emphasis intended."
         },
         {
           "letter": "C",
           "text": "Either / or",
           "is_correct": false,
-          "feedback": "Incorrect choice."
+          "feedback": "'Either... or' offers a choice between two options, and the sentence asserts both things."
         },
         {
           "letter": "D",
           "text": "Both / and",
           "is_correct": false,
-          "feedback": "Incorrect syntax for 'vowed'."
+          "feedback": "'Both... and' adds two items but cannot form the negative inversion the sentence begins with."
         }
       ],
       "correct_answer": "A",
@@ -476,13 +476,13 @@
           "letter": "B",
           "text": "Furthermore",
           "is_correct": false,
-          "feedback": "Incorrect addition."
+          "feedback": "'Furthermore' adds supporting information, but the second clause points to a contradiction in practice."
         },
         {
           "letter": "C",
           "text": "Correspondingly",
           "is_correct": false,
-          "feedback": "Incorrect similarity."
+          "feedback": "'Correspondingly' links something that matches or follows from the first, not something that clashes with it."
         },
         {
           "letter": "A",
@@ -494,7 +494,7 @@
           "letter": "D",
           "text": "Consequently",
           "is_correct": false,
-          "feedback": "Incorrect."
+          "feedback": "'Consequently' introduces a result, whereas the second clause shows an unexpected inconsistency."
         }
       ],
       "correct_answer": "A",
@@ -522,7 +522,7 @@
           "letter": "A",
           "text": "No matter",
           "is_correct": false,
-          "feedback": "Needs 'what'."
+          "feedback": "'No matter' is followed by 'what' plus a clause, for example 'no matter what the benefits', which does not fit here."
         },
         {
           "letter": "B",
@@ -534,13 +534,13 @@
           "letter": "C",
           "text": "Although",
           "is_correct": false,
-          "feedback": "Incorrect syntax."
+          "feedback": "'Although' is a conjunction and needs a full clause, whereas the blank only takes an adjective."
         },
         {
           "letter": "D",
           "text": "Nevertheless",
           "is_correct": false,
-          "feedback": "Incorrect syntax."
+          "feedback": "'Nevertheless' is an adverb and cannot be followed directly by the subject 'the long-term risks' in this inversion."
         }
       ],
       "correct_answer": "B",

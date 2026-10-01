@@ -61,7 +61,7 @@
           "letter": "A",
           "text": "are altering",
           "is_correct": false,
-          "feedback": "Incorrect. Active voice."
+          "feedback": "\"Are altering\" is the active voice: it would make the perceptions the thing doing the altering. Here it is the perceptions that receive the effect, so the passive is needed."
         },
         {
           "letter": "C",
@@ -79,7 +79,7 @@
           "letter": "D",
           "text": "have altered",
           "is_correct": false,
-          "feedback": "Incorrect. Active voice."
+          "feedback": "\"Have altered\" is active and perfect; the effect described is still under way, and the perceptions are what is being altered."
         }
       ],
       "correct_answer": "C",
@@ -286,7 +286,7 @@
           "letter": "A",
           "text": "is reporting",
           "is_correct": false,
-          "feedback": "Incorrect. Active voice."
+          "feedback": "\"Is reporting\" is active and present; the scandal was being covered in the past, so the past continuous passive is required."
         },
         {
           "letter": "C",
@@ -304,7 +304,7 @@
           "letter": "D",
           "text": "has reported",
           "is_correct": false,
-          "feedback": "Incorrect. Active voice."
+          "feedback": "\"Has reported\" is active and present perfect; the outlets were the ones reporting in the past, so the sentence needs the past passive."
         }
       ],
       "correct_answer": "C",
@@ -511,7 +511,7 @@
           "letter": "A",
           "text": "are integrating",
           "is_correct": false,
-          "feedback": "Incorrect. Active voice."
+          "feedback": "\"Are integrating\" is active and would make the experiences the thing doing the integrating; here it is the experiences that receive virtual reality."
         },
         {
           "letter": "D",
@@ -523,13 +523,13 @@
           "letter": "B",
           "text": "integrate",
           "is_correct": false,
-          "feedback": "Incorrect. Active voice."
+          "feedback": "The bare infinitive \"integrate\" would be the active voice and needs no \"to be\", which is what \"likely to\" requires."
         },
         {
           "letter": "C",
           "text": "having been integrated",
           "is_correct": false,
-          "feedback": "Incorrect."
+          "feedback": "A perfect passive participle needs its own auxiliary (\"having been\") and cannot follow \"likely to\", which takes a plain passive infinitive."
         }
       ],
       "correct_answer": "D",
@@ -619,7 +619,7 @@
           "letter": "D",
           "text": "whether",
           "is_correct": false,
-          "feedback": "Incorrect. Choice."
+          "feedback": "\"Whether\" introduces a free relative clause and would need a verb of its own; the correlative here is \"unless\", which pairs with \"shouldn't\"."
         }
       ],
       "correct_answer": "A",
@@ -793,13 +793,13 @@
           "letter": "B",
           "text": "conflict",
           "is_correct": false,
-          "feedback": "Incorrect. Negative."
+          "feedback": "\"Conflict\" is the opposite of the harmony that makes influencer marketing work, so it does not fit."
         },
         {
           "letter": "D",
           "text": "ignorance",
           "is_correct": false,
-          "feedback": "Incorrect. Negative."
+          "feedback": "\"Ignorance\" means not knowing about something, the opposite of the trust the creators build with followers."
         }
       ],
       "correct_answer": "C",
@@ -883,7 +883,7 @@
           "letter": "C",
           "text": "ignorant",
           "is_correct": false,
-          "feedback": "Incorrect. Negative."
+          "feedback": "Being a proactive consumer means judging what you read, the opposite of staying ignorant of how media shapes it."
         },
         {
           "letter": "D",

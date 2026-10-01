@@ -8,172 +8,127 @@
   },
   "questions": [
     {
-      "id": "EC-ING-11-2026-W30-phrasal-verbs-inseparable-001-MASTERY-v1",
-      "statement": "What is the English word for: \"A place where you live or stay on holiday.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "id": "EC-ING-11-2026-W30-phrasal-verbs-inseparable-001-MASTERY-bundle-v1",
+      "statement": "Choose the correct phrasal verb: 'Please ____ the lights before you leave the classroom.'",
+      "context": "Practica de phrasal verbs, Quito, grado 11.",
       "options": [
         {
           "letter": "A",
-          "text": "accommodation",
-          "is_correct": true,
-          "feedback": "Correct! 'accommodation' matches the definition."
+          "text": "turn of",
+          "is_correct": false,
+          "feedback": "'Of' alone is not a phrasal verb in this sense."
         },
         {
           "letter": "B",
-          "text": "transportation",
+          "text": "turn off of",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "'Off of' adds an unneeded preposition here."
         },
         {
           "letter": "C",
-          "text": "entertainment",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "D",
-          "text": "currency",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "The word 'accommodation' is used to describe a place where you live or stay on holiday. This is an important vocabulary word in English.\n---",
-      "difficulty": "3",
-      "images": [],
-      "tags": [],
-      "bloom": "Remember",
-      "expected_success": 0.8,
-      "bundle_id": "EC-ING-11-2026-W30-phrasal-verbs-inseparable-001-MASTERY-bundle",
-      "periodo": 30,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ingles",
-      "grade": 11,
-      "country": "ec"
-    },
-    {
-      "id": "EC-ING-11-2026-W30-phrasal-verbs-inseparable-001-MASTERY-v2",
-      "statement": "What is the English word for: \"A detailed plan or route of a journey.\"",
-      "context": "Choose the correct English word for the given definition.",
-      "options": [
-        {
-          "letter": "D",
-          "text": "itinerary",
+          "text": "turn off",
           "is_correct": true,
-          "feedback": "Correct! 'itinerary' matches the definition."
-        },
-        {
-          "letter": "A",
-          "text": "baggage",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "B",
-          "text": "destination",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "C",
-          "text": "passport",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        }
-      ],
-      "correct_answer": "D",
-      "explanation": "The word 'itinerary' is used to describe a detailed plan or route of a journey. This is an important vocabulary word in English.\n---",
-      "difficulty": "4",
-      "images": [],
-      "tags": [],
-      "bloom": "Remember",
-      "expected_success": 0.8,
-      "bundle_id": "EC-ING-11-2026-W30-phrasal-verbs-inseparable-001-MASTERY-bundle",
-      "periodo": 30,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ingles",
-      "grade": 11,
-      "country": "ec"
-    },
-    {
-      "id": "EC-ING-11-2026-W30-phrasal-verbs-inseparable-001-MASTERY-v3",
-      "statement": "What is the English word for: \"The place to which someone or something is going or being sent.\"",
-      "context": "Choose the correct English word for the given definition.",
-      "options": [
-        {
-          "letter": "B",
-          "text": "destination",
-          "is_correct": true,
-          "feedback": "Correct! 'destination' matches the definition."
-        },
-        {
-          "letter": "A",
-          "text": "departure",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "C",
-          "text": "arrival",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "'Turn off' is the standard phrasal verb for switching off lights."
         },
         {
           "letter": "D",
-          "text": "journey",
+          "text": "turn in",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        }
-      ],
-      "correct_answer": "B",
-      "explanation": "The word 'destination' is used to describe the place to which someone or something is going or being sent. This is an important vocabulary word in English.\n---",
-      "difficulty": "3",
-      "images": [],
-      "tags": [],
-      "bloom": "Understand",
-      "expected_success": 0.8,
-      "bundle_id": "EC-ING-11-2026-W30-phrasal-verbs-inseparable-001-MASTERY-bundle",
-      "periodo": 30,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ingles",
-      "grade": 11,
-      "country": "ec"
-    },
-    {
-      "id": "EC-ING-11-2026-W30-phrasal-verbs-inseparable-001-MASTERY-v4",
-      "statement": "What is the English word for: \"Suitcases or other bags in which to pack personal belongings for traveling.\"",
-      "context": "Choose the correct English word for the given definition.",
-      "options": [
-        {
-          "letter": "C",
-          "text": "luggage",
-          "is_correct": true,
-          "feedback": "Correct! 'luggage' matches the definition."
-        },
-        {
-          "letter": "A",
-          "text": "ticket",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "B",
-          "text": "flight",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "D",
-          "text": "reservation",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "'Turn in' means to submit or switch to another channel."
         }
       ],
       "correct_answer": "C",
-      "explanation": "The word 'luggage' is used to describe suitcases or other bags in which to pack personal belongings for traveling. This is an important vocabulary word in English.\n---",
+      "explanation": "'Turn off' significa apagar; el phrasal verb inseparable mantiene la relacion directa con el objeto.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.8,
+      "bundle_id": "EC-ING-11-2026-W30-phrasal-verbs-inseparable-001-MASTERY-bundle",
+      "periodo": 30,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-ING-11-2026-W30-phrasal-verbs-inseparable-001-MASTERY-bundle-v2",
+      "statement": "Which sentence uses the phrasal verb correctly?",
+      "context": "Aplicacion de phrasal verbs, Guayaquil.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "She looks after after her younger brother.",
+          "is_correct": false,
+          "feedback": "Repeating 'after' produces a grammatically incorrect sentence."
+        },
+        {
+          "letter": "B",
+          "text": "She looks her younger brother after of.",
+          "is_correct": false,
+          "feedback": "The adverbial particle must precede the object in this phrasal verb."
+        },
+        {
+          "letter": "C",
+          "text": "She looks after her younger brother.",
+          "is_correct": true,
+          "feedback": "'Looks after' takes the object directly, without an extra preposition."
+        },
+        {
+          "letter": "D",
+          "text": "She look after her younger brother.",
+          "is_correct": false,
+          "feedback": "The third person singular requires 'looks', not the base form."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "En 'look after', la preposicion es parte del verbo y por eso el objeto va detras sin preposicion adicional.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.8,
+      "bundle_id": "EC-ING-11-2026-W30-phrasal-verbs-inseparable-001-MASTERY-bundle",
+      "periodo": 30,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-ING-11-2026-W30-phrasal-verbs-inseparable-001-MASTERY-bundle-v3",
+      "statement": "What does 'put off' mean?",
+      "context": "Comprension de phrasal verbs, Cuenca.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "To take off clothing",
+          "is_correct": false,
+          "feedback": "'Take off' is a different phrasal verb meaning to remove clothing."
+        },
+        {
+          "letter": "B",
+          "text": "To turn something on",
+          "is_correct": false,
+          "feedback": "'Put on' means to wear or to switch on, the opposite of 'put off'."
+        },
+        {
+          "letter": "C",
+          "text": "To tolerate something",
+          "is_correct": false,
+          "feedback": "'Put up with' means to tolerate, not 'put off'."
+        },
+        {
+          "letter": "D",
+          "text": "To postpone something",
+          "is_correct": true,
+          "feedback": "'Put off a meeting' means to delay it to a later date."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "'Put off' significa aplazar o posponer una accion hasta mas tarde. Conviene memorizar esta combinacion como una sola unidad.\n\n---",
       "difficulty": "4",
       "images": [],
       "tags": [],
@@ -188,38 +143,128 @@
       "country": "ec"
     },
     {
-      "id": "EC-ING-11-2026-W30-phrasal-verbs-inseparable-001-MASTERY-v5",
-      "statement": "What is the English word for: \"A traveler on a public or private conveyance other than the driver, pilot, or crew.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "id": "EC-ING-11-2026-W30-phrasal-verbs-inseparable-001-MASTERY-bundle-v4",
+      "statement": "Complete the sentence: 'I need to ____ my assignment because the deadline is tomorrow.'",
+      "context": "Phrasal verb con necessity, Guayaquil.",
       "options": [
         {
           "letter": "A",
-          "text": "passenger",
+          "text": "hand in",
           "is_correct": true,
-          "feedback": "Correct! 'passenger' matches the definition."
+          "feedback": "'Hand in' means to submit an assignment before the deadline."
         },
         {
           "letter": "B",
-          "text": "pedestrian",
+          "text": "hand out",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "'Hand out' means to distribute something to other people."
         },
         {
           "letter": "C",
-          "text": "commuter",
+          "text": "hand over",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "'Hand over' means to transfer control or possession to someone."
         },
         {
           "letter": "D",
-          "text": "tourist",
+          "text": "hand up",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "'Hand up' usually means to raise a hand in class."
         }
       ],
       "correct_answer": "A",
-      "explanation": "The word 'passenger' is used to describe a traveler on a public or private conveyance other than the driver, pilot, or crew. This is an important vocabulary word in English.\n---",
-      "difficulty": "5",
+      "explanation": "El contexto de una fecha limite indica que la accion debeaise realizarse pronto: 'hand in' o 'finish'.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.8,
+      "bundle_id": "EC-ING-11-2026-W30-phrasal-verbs-inseparable-001-MASTERY-bundle",
+      "periodo": 30,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-ING-11-2026-W30-phrasal-verbs-inseparable-001-MASTERY-bundle-v5",
+      "statement": "Which sentence uses 'look up' correctly?",
+      "context": "Phrasal verbs de busqueda, Quito.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Look the word up in the dictionary.",
+          "is_correct": false,
+          "feedback": "Separating the particle from the object is wrong for this phrasal verb."
+        },
+        {
+          "letter": "B",
+          "text": "Look up the word in the dictionary.",
+          "is_correct": true,
+          "feedback": "'Look up' means to consult a word's meaning or spelling."
+        },
+        {
+          "letter": "C",
+          "text": "Look up of the word in the dictionary.",
+          "is_correct": false,
+          "feedback": "The preposition 'of' does not belong in this construction."
+        },
+        {
+          "letter": "D",
+          "text": "Look up the word on the dictionary.",
+          "is_correct": false,
+          "feedback": "'In' is the correct preposition when referring to a dictionary as a source."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "'Look up' significa consultar una palabra en un diccionario o diccionario de datos. Este matiz se comprueba comparando con el resto de opciones.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.8,
+      "bundle_id": "EC-ING-11-2026-W30-phrasal-verbs-inseparable-001-MASTERY-bundle",
+      "periodo": 30,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-ING-11-2026-W30-phrasal-verbs-inseparable-001-MASTERY-bundle-v6",
+      "statement": "What is the meaning of 'give up'?",
+      "context": "Vocabulario de phrasal verbs, Guayaquil.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "To give something to another person",
+          "is_correct": false,
+          "feedback": "That would be 'give away' or simply 'give'."
+        },
+        {
+          "letter": "B",
+          "text": "To clean or wash something",
+          "is_correct": false,
+          "feedback": "That would be 'wash up' or 'clean up'."
+        },
+        {
+          "letter": "C",
+          "text": "To start doing something",
+          "is_correct": false,
+          "feedback": "The opposite of 'give up' is 'take up'."
+        },
+        {
+          "letter": "D",
+          "text": "To stop trying or abandon an activity",
+          "is_correct": true,
+          "feedback": "'Give up smoking' means to stop that habit."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "'Give up' significa abandonar una actividad o cesar de intentarlo. Es una de las estructuras mas frecuentes en el examen.\n\n---",
+      "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Understand",
@@ -233,37 +278,532 @@
       "country": "ec"
     },
     {
-      "id": "EC-ING-11-2026-W30-phrasal-verbs-inseparable-001-MASTERY-v6",
-      "statement": "What is the English word for: \"The place at a port, airport, or frontier where officials check incoming goods, travelers, or luggage.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "id": "EC-ING-11-2026-W30-phrasal-verbs-inseparable-001-MASTERY-bundle-v7",
+      "statement": "Choose the best completion: 'The meeting was ____ because the director had another appointment.'",
+      "context": "Phrasal verbs en contexto profesional, Cuenca.",
       "options": [
         {
-          "letter": "B",
-          "text": "customs",
-          "is_correct": true,
-          "feedback": "Correct! 'customs' matches the definition."
+          "letter": "A",
+          "text": "called on",
+          "is_correct": false,
+          "feedback": "'Called on' means to visit someone briefly or to ask them to contribute."
         },
         {
-          "letter": "A",
-          "text": "security",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "letter": "B",
+          "text": "called off",
+          "is_correct": true,
+          "feedback": "'Called off' means cancelled or postponed by the organisers."
         },
         {
           "letter": "C",
-          "text": "terminal",
+          "text": "called out",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "'Called out' means to shout or to require someone's attention urgently."
         },
         {
           "letter": "D",
-          "text": "gate",
+          "text": "called in",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "'Called in' means to telephone or to request someone's presence."
         }
       ],
       "correct_answer": "B",
-      "explanation": "The word 'customs' is used to describe the place at a port, airport, or frontier where officials check incoming goods, travelers, or luggage. This is an important vocabulary word in English.\n---",
+      "explanation": "'Called off' significa suspendido o cancelado por decision de los organizadores. Conviene memorizar esta combinacion como una sola unidad.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.8,
+      "bundle_id": "EC-ING-11-2026-W30-phrasal-verbs-inseparable-001-MASTERY-bundle",
+      "periodo": 30,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-ING-11-2026-W30-phrasal-verbs-inseparable-001-MASTERY-bundle-v8",
+      "statement": "Which sentence is correct?",
+      "context": "Consolidacion de phrasal verbs, Quito.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "She picked up the parcel at the post office.",
+          "is_correct": true,
+          "feedback": "'Picked up' with the object following is the standard arrangement."
+        },
+        {
+          "letter": "B",
+          "text": "She picked up the parcel of the post office.",
+          "is_correct": false,
+          "feedback": "'At', not 'of', introduces the place where the parcel was collected."
+        },
+        {
+          "letter": "C",
+          "text": "She picked the parcel up of the post office.",
+          "is_correct": false,
+          "feedback": "With this separable phrasal verb the adverbial particle cannot stand between object and 'of'."
+        },
+        {
+          "letter": "D",
+          "text": "She pick up the parcel at the post office.",
+          "is_correct": false,
+          "feedback": "The simple past requires the -ed form 'picked'."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "'Pick up' admite el objeto de forma separada, pero en este caso la colocacion entre el objeto es la natural.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.8,
+      "bundle_id": "EC-ING-11-2026-W30-phrasal-verbs-inseparable-001-MASTERY-bundle",
+      "periodo": 30,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-ING-11-2026-W30-phrasal-verbs-inseparable-001-MASTERY-bundle-v9",
+      "statement": "What does 'run out of' mean?",
+      "context": "Phrasal verbs de cantidad, Guayaquil.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "To run towards a place",
+          "is_correct": false,
+          "feedback": "That would be 'run to' or simply 'run'."
+        },
+        {
+          "letter": "B",
+          "text": "To use up completely, so nothing is left",
+          "is_correct": true,
+          "feedback": "'We ran out of milk' means the supply was exhausted."
+        },
+        {
+          "letter": "C",
+          "text": "To escape from a place",
+          "is_correct": false,
+          "feedback": "That would be 'run away from'."
+        },
+        {
+          "letter": "D",
+          "text": "To refuse to participate",
+          "is_correct": false,
+          "feedback": "That would be 'refuse to take part'."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "'Run out of' significa agotarse un recurso, de modo que ya no queda. Este matiz se comprueba comparando con el resto de opciones.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.8,
+      "bundle_id": "EC-ING-11-2026-W30-phrasal-verbs-inseparable-001-MASTERY-bundle",
+      "periodo": 30,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-ING-11-2026-W30-phrasal-verbs-inseparable-001-MASTERY-bundle-v10",
+      "statement": "Complete the dialogue: 'A: Why are you late? B: I ____ the bus and arrived twenty minutes later.'",
+      "context": "Phrasal verbs en dialogo, Quito.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "missed",
+          "is_correct": true,
+          "feedback": "'Miss the bus' means the person was unable to board it in time."
+        },
+        {
+          "letter": "B",
+          "text": "lost",
+          "is_correct": false,
+          "feedback": "'Lose a bus' is not a standard expression in this meaning."
+        },
+        {
+          "letter": "C",
+          "text": "left",
+          "is_correct": false,
+          "feedback": "'Leave the bus' would mean getting off the vehicle, which is different."
+        },
+        {
+          "letter": "D",
+          "text": "dropped",
+          "is_correct": false,
+          "feedback": "'Drop a bus' is not an English phrasal verb."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La causa del retraso es no haber alcanzado el autobus: 'missed the bus'. Es una de las estructuras mas frecuentes en el examen.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.8,
+      "bundle_id": "EC-ING-11-2026-W30-phrasal-verbs-inseparable-001-MASTERY-bundle",
+      "periodo": 30,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-ING-11-2026-W30-phrasal-verbs-inseparable-001-MASTERY-bundle-v11",
+      "statement": "Look at the sentence: 'She looked the answer up of her notebook.' What is the error?",
+      "context": "Deteccion de errores, Guayaquil.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Nothing is wrong with the sentence",
+          "is_correct": false,
+          "feedback": "'Of' cannot follow 'look up' in any accepted usage."
+        },
+        {
+          "letter": "B",
+          "text": "'Looked' must be 'looks'",
+          "is_correct": false,
+          "feedback": "The sentence is in the past simple, where 'looked' is correct."
+        },
+        {
+          "letter": "C",
+          "text": "'Of' is not part of the phrasal verb 'look up'",
+          "is_correct": true,
+          "feedback": "The preposition 'of' does not belong after this phrasal verb."
+        },
+        {
+          "letter": "D",
+          "text": "'Answer' must be 'answers'",
+          "is_correct": false,
+          "feedback": "The singular 'answer' agrees with 'the answer' as given."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "'Look up' no lleva la preposicion 'of'; ademas, la partícula puede separarse del objeto, pero no|precederse de 'of'.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.8,
+      "bundle_id": "EC-ING-11-2026-W30-phrasal-verbs-inseparable-001-MASTERY-bundle",
+      "periodo": 30,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-ING-11-2026-W30-phrasal-verbs-inseparable-001-MASTERY-bundle-v12",
+      "statement": "Which sentence uses a three-part phrasal verb correctly?",
+      "context": "Phrasal verbs de tres elementos, Quito.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Get on your homework with.",
+          "is_correct": false,
+          "feedback": "The word order reverses the structure of the phrasal verb."
+        },
+        {
+          "letter": "B",
+          "text": "Get with on your homework.",
+          "is_correct": false,
+          "feedback": "The particle order 'on with' cannot be rearranged freely."
+        },
+        {
+          "letter": "C",
+          "text": "Get on of with your homework.",
+          "is_correct": false,
+          "feedback": "No extra preposition 'of' belongs in this structure."
+        },
+        {
+          "letter": "D",
+          "text": "Get on with your homework.",
+          "is_correct": true,
+          "feedback": "'Get on with' is a three-part phrasal verb plus object."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "'Get on with' es un phrasal verb de tres elementos y el objeto va directamente despues.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.8,
+      "bundle_id": "EC-ING-11-2026-W30-phrasal-verbs-inseparable-001-MASTERY-bundle",
+      "periodo": 30,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-ING-11-2026-W30-phrasal-verbs-inseparable-001-MASTERY-bundle-v13",
+      "statement": "Read the text: 'The team had to work overtime because they were running out of time.' What does the phrasal verb express?",
+      "context": "Comprension en contexto, Cuenca.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "That the available time was being exhausted",
+          "is_correct": true,
+          "feedback": "'Run out of' describes the depletion of a resource."
+        },
+        {
+          "letter": "B",
+          "text": "That the team rested too much",
+          "is_correct": false,
+          "feedback": "'Running out' has nothing to do with resting."
+        },
+        {
+          "letter": "C",
+          "text": "That the team arrived early",
+          "is_correct": false,
+          "feedback": "The text states the opposite: they lacked time."
+        },
+        {
+          "letter": "D",
+          "text": "That the team finished ahead of schedule",
+          "is_correct": false,
+          "feedback": "Working overtime indicates they were behind schedule."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "'Running out of time' indica que el tiempo disponible se estaba agotando. Conviene memorizar esta combinacion como una sola unidad.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.8,
+      "bundle_id": "EC-ING-11-2026-W30-phrasal-verbs-inseparable-001-MASTERY-bundle",
+      "periodo": 30,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-ING-11-2026-W30-phrasal-verbs-inseparable-001-MASTERY-bundle-v14",
+      "statement": "Choose the word that completes: 'Please ____ the music; it is too loud.'",
+      "context": "Phrasal verb de volumen, Guayaquil.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "turn of",
+          "is_correct": false,
+          "feedback": "'Of' is not the particle of this phrasal verb."
+        },
+        {
+          "letter": "B",
+          "text": "turn down",
+          "is_correct": true,
+          "feedback": "'Turn down' is the standard phrasal verb for reducing volume or intensity."
+        },
+        {
+          "letter": "C",
+          "text": "turn off of",
+          "is_correct": false,
+          "feedback": "'Off of' introduces an extra preposition that is not required."
+        },
+        {
+          "letter": "D",
+          "text": "turn in",
+          "is_correct": false,
+          "feedback": "'Turn in' means to submit or to reduce speed, not volume here."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "'Turn down' significa bajar el volumen o la intensidad. Este matiz se comprueba comparando con el resto de opciones.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.8,
+      "bundle_id": "EC-ING-11-2026-W30-phrasal-verbs-inseparable-001-MASTERY-bundle",
+      "periodo": 30,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-ING-11-2026-W30-phrasal-verbs-inseparable-001-MASTERY-bundle-v15",
+      "statement": "Which sentence uses 'carry out' correctly?",
+      "context": "Phrasal verbs de realizacion, Quito.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "They carried out of the survey in three schools.",
+          "is_correct": false,
+          "feedback": "'Out' does not take the preposition 'of' here."
+        },
+        {
+          "letter": "B",
+          "text": "They carried the survey out of three schools.",
+          "is_correct": false,
+          "feedback": "The particle cannot be followed by 'of' introducing the place."
+        },
+        {
+          "letter": "C",
+          "text": "They carried out the survey in three schools.",
+          "is_correct": true,
+          "feedback": "'Carry out the survey' means they performed it."
+        },
+        {
+          "letter": "D",
+          "text": "They carry out the survey in three schools.",
+          "is_correct": false,
+          "feedback": "The past simple 'carried' is required by the time expression described."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "'Carry out' significa realizar o ejecutar una tarea, y el objeto va directamente despues.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.8,
+      "bundle_id": "EC-ING-11-2026-W30-phrasal-verbs-inseparable-001-MASTERY-bundle",
+      "periodo": 30,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-ING-11-2026-W30-phrasal-verbs-inseparable-001-MASTERY-bundle-v16",
+      "statement": "What is the difference between 'look for' and 'look up'?",
+      "context": "Contraste de phrasal verbs, Guayaquil.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Both mean to consult a dictionary",
+          "is_correct": false,
+          "feedback": "Only 'look up' refers to consulting information."
+        },
+        {
+          "letter": "B",
+          "text": "Both mean to stop searching",
+          "is_correct": false,
+          "feedback": "Neither verb means to stop searching."
+        },
+        {
+          "letter": "C",
+          "text": "They are exactly the same verb",
+          "is_correct": false,
+          "feedback": "They have distinct meanings, as these pairs usually do."
+        },
+        {
+          "letter": "D",
+          "text": "'Look for' searches for something; 'look up' consults a source",
+          "is_correct": true,
+          "feedback": "The two verbs differ in the object and the purpose."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "'Look for' significa buscar un objeto; 'look up' significa consultar un dato en una fuente.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.8,
+      "bundle_id": "EC-ING-11-2026-W30-phrasal-verbs-inseparable-001-MASTERY-bundle",
+      "periodo": 30,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-ING-11-2026-W30-phrasal-verbs-inseparable-001-MASTERY-bundle-v17",
+      "statement": "Which sentence uses 'break down' correctly?",
+      "context": "Phrasal verb de fallo mecanico, Quito.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "The van broke down on the road.",
+          "is_correct": true,
+          "feedback": "'Broke down' describes a mechanical failure of the vehicle."
+        },
+        {
+          "letter": "B",
+          "text": "The van broke the down on the road.",
+          "is_correct": false,
+          "feedback": "The particle cannot be separated from the verb in this phrasal combination."
+        },
+        {
+          "letter": "C",
+          "text": "The van broke down of the road.",
+          "is_correct": false,
+          "feedback": "'On', not 'of', introduces the place where the failure occurred."
+        },
+        {
+          "letter": "D",
+          "text": "The van is breaking down the road.",
+          "is_correct": false,
+          "feedback": "'Breaking down the road' would not describe a failure of the van."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "'Break down' describe una falla mecanica que impide el funcionamiento de un vehiculo o una maquina.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.8,
+      "bundle_id": "EC-ING-11-2026-W30-phrasal-verbs-inseparable-001-MASTERY-bundle",
+      "periodo": 30,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-ING-11-2026-W30-phrasal-verbs-inseparable-001-MASTERY-bundle-v18",
+      "statement": "Read: 'After the experiment failed, the team analysed the data again to find out what had gone wrong.' What does 'find out' mean?",
+      "context": "Analisis del significado, Guayaquil.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "To repeat the experiment",
+          "is_correct": false,
+          "feedback": "The text says they analysed the data, not that they repeated the experiment."
+        },
+        {
+          "letter": "B",
+          "text": "To discover the cause",
+          "is_correct": true,
+          "feedback": "'Find out what had gone wrong' means to establish the reason for the failure."
+        },
+        {
+          "letter": "C",
+          "text": "To forget the results",
+          "is_correct": false,
+          "feedback": "'Find out' is about discovering, the opposite of forgetting."
+        },
+        {
+          "letter": "D",
+          "text": "To publish the findings",
+          "is_correct": false,
+          "feedback": "No publication is mentioned in the text."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "'Find out' significa averiguar la causa del problema mediante el analisis. Es una de las estructuras mas frecuentes en el examen.\n\n---",
       "difficulty": "6",
       "images": [],
       "tags": [],
@@ -278,490 +818,40 @@
       "country": "ec"
     },
     {
-      "id": "EC-ING-11-2026-W30-phrasal-verbs-inseparable-001-MASTERY-v7",
-      "statement": "What is the English word for: \"A document provided by an airline during check-in, giving a passenger permission to board the airplane.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "id": "EC-ING-11-2026-W30-phrasal-verbs-inseparable-001-MASTERY-bundle-v19",
+      "statement": "Which sentence is NOT correct?",
+      "context": "Revision de phrasal verbs, Cuenca.",
       "options": [
         {
-          "letter": "B",
-          "text": "boarding pass",
-          "is_correct": true,
-          "feedback": "Correct! 'boarding pass' matches the definition."
-        },
-        {
           "letter": "A",
-          "text": "visa",
+          "text": "She gave up the attempt to negotiate.",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "C",
-          "text": "receipt",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "D",
-          "text": "brochure",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        }
-      ],
-      "correct_answer": "B",
-      "explanation": "The word 'boarding pass' is used to describe a document provided by an airline during check-in, giving a passenger permission to board the airplane. This is an important vocabulary word in English.\n---",
-      "difficulty": "5",
-      "images": [],
-      "tags": [],
-      "bloom": "Apply",
-      "expected_success": 0.8,
-      "bundle_id": "EC-ING-11-2026-W30-phrasal-verbs-inseparable-001-MASTERY-bundle",
-      "periodo": 30,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ingles",
-      "grade": 11,
-      "country": "ec"
-    },
-    {
-      "id": "EC-ING-11-2026-W30-phrasal-verbs-inseparable-001-MASTERY-v8",
-      "statement": "What is the English word for: \"The activity of visiting places of interest in a particular location.\"",
-      "context": "Choose the correct English word for the given definition.",
-      "options": [
-        {
-          "letter": "C",
-          "text": "sightseeing",
-          "is_correct": true,
-          "feedback": "Correct! 'sightseeing' matches the definition."
-        },
-        {
-          "letter": "A",
-          "text": "shopping",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "'Gave up' plus object is the standard phrasal verb pattern."
         },
         {
           "letter": "B",
-          "text": "hiking",
+          "text": "She gave the attempt up to negotiate.",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "The particle can separate the object, though 'gave up the attempt' is more usual."
+        },
+        {
+          "letter": "C",
+          "text": "She will give up the attempt to negotiate.",
+          "is_correct": false,
+          "feedback": "The future form 'will give up' is perfectly valid here."
         },
         {
           "letter": "D",
-          "text": "camping",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "text": "She gave of up the attempt to negotiate.",
+          "is_correct": true,
+          "feedback": "'Give up' does not take the preposition 'of'; it must be 'gave up'."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "The word 'sightseeing' is used to describe the activity of visiting places of interest in a particular location. This is an important vocabulary word in English.\n---",
+      "correct_answer": "D",
+      "explanation": "'Give up' es separable: el objeto puede ir entre el verbo y la particula, pero no puede llevar la preposicion 'of'.\n\n---",
       "difficulty": "6",
       "images": [],
       "tags": [],
-      "bloom": "Apply",
-      "expected_success": 0.8,
-      "bundle_id": "EC-ING-11-2026-W30-phrasal-verbs-inseparable-001-MASTERY-bundle",
-      "periodo": 30,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ingles",
-      "grade": 11,
-      "country": "ec"
-    },
-    {
-      "id": "EC-ING-11-2026-W30-phrasal-verbs-inseparable-001-MASTERY-v9",
-      "statement": "What is the English word for: \"A thing that is kept as a reminder of a person, place, or event.\"",
-      "context": "Choose the correct English word for the given definition.",
-      "options": [
-        {
-          "letter": "D",
-          "text": "souvenir",
-          "is_correct": true,
-          "feedback": "Correct! 'souvenir' matches the definition."
-        },
-        {
-          "letter": "A",
-          "text": "gift",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "B",
-          "text": "award",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "C",
-          "text": "prize",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        }
-      ],
-      "correct_answer": "D",
-      "explanation": "The word 'souvenir' is used to describe a thing that is kept as a reminder of a person, place, or event. This is an important vocabulary word in English.\n---",
-      "difficulty": "5",
-      "images": [],
-      "tags": [],
-      "bloom": "Apply",
-      "expected_success": 0.8,
-      "bundle_id": "EC-ING-11-2026-W30-phrasal-verbs-inseparable-001-MASTERY-bundle",
-      "periodo": 30,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ingles",
-      "grade": 11,
-      "country": "ec"
-    },
-    {
-      "id": "EC-ING-11-2026-W30-phrasal-verbs-inseparable-001-MASTERY-v10",
-      "statement": "What is the English word for: \"A period of time by which something is late or postponed.\"",
-      "context": "Choose the correct English word for the given definition.",
-      "options": [
-        {
-          "letter": "B",
-          "text": "delay",
-          "is_correct": true,
-          "feedback": "Correct! 'delay' matches the definition."
-        },
-        {
-          "letter": "A",
-          "text": "cancellation",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "C",
-          "text": "departure",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "D",
-          "text": "arrival",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        }
-      ],
-      "correct_answer": "B",
-      "explanation": "The word 'delay' is used to describe a period of time by which something is late or postponed. This is an important vocabulary word in English.\n---",
-      "difficulty": "6",
-      "images": [],
-      "tags": [],
-      "bloom": "Apply",
-      "expected_success": 0.8,
-      "bundle_id": "EC-ING-11-2026-W30-phrasal-verbs-inseparable-001-MASTERY-bundle",
-      "periodo": 30,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ingles",
-      "grade": 11,
-      "country": "ec"
-    },
-    {
-      "id": "EC-ING-11-2026-W30-phrasal-verbs-inseparable-001-MASTERY-v11",
-      "statement": "What is the English word for: \"The act of reporting one's presence and registering, typically at an airport or hotel.\"",
-      "context": "Choose the correct English word for the given definition.",
-      "options": [
-        {
-          "letter": "D",
-          "text": "check-in",
-          "is_correct": true,
-          "feedback": "Correct! 'check-in' matches the definition."
-        },
-        {
-          "letter": "A",
-          "text": "check-out",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "B",
-          "text": "booking",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "C",
-          "text": "reservation",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        }
-      ],
-      "correct_answer": "D",
-      "explanation": "The word 'check-in' is used to describe the act of reporting one's presence and registering, typically at an airport or hotel. This is an important vocabulary word in English.\n---",
-      "difficulty": "7",
-      "images": [],
-      "tags": [],
-      "bloom": "Apply",
-      "expected_success": 0.8,
-      "bundle_id": "EC-ING-11-2026-W30-phrasal-verbs-inseparable-001-MASTERY-bundle",
-      "periodo": 30,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ingles",
-      "grade": 11,
-      "country": "ec"
-    },
-    {
-      "id": "EC-ING-11-2026-W30-phrasal-verbs-inseparable-001-MASTERY-v12",
-      "statement": "What is the English word for: \"A period of rest or waiting before a further stage in a journey.\"",
-      "context": "Choose the correct English word for the given definition.",
-      "options": [
-        {
-          "letter": "B",
-          "text": "layover",
-          "is_correct": true,
-          "feedback": "Correct! 'layover' matches the definition."
-        },
-        {
-          "letter": "A",
-          "text": "stopover",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "C",
-          "text": "transfer",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "D",
-          "text": "transit",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        }
-      ],
-      "correct_answer": "B",
-      "explanation": "The word 'layover' is used to describe a period of rest or waiting before a further stage in a journey. This is an important vocabulary word in English.\n---",
-      "difficulty": "8",
-      "images": [],
-      "tags": [],
-      "bloom": "Apply",
-      "expected_success": 0.8,
-      "bundle_id": "EC-ING-11-2026-W30-phrasal-verbs-inseparable-001-MASTERY-bundle",
-      "periodo": 30,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ingles",
-      "grade": 11,
-      "country": "ec"
-    },
-    {
-      "id": "EC-ING-11-2026-W30-phrasal-verbs-inseparable-001-MASTERY-v13",
-      "statement": "What is the English word for: \"A system of money in general use in a particular country.\"",
-      "context": "Choose the correct English word for the given definition.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "currency",
-          "is_correct": true,
-          "feedback": "Correct! 'currency' matches the definition."
-        },
-        {
-          "letter": "B",
-          "text": "coin",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "C",
-          "text": "banknote",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "D",
-          "text": "cash",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "The word 'currency' is used to describe a system of money in general use in a particular country. This is an important vocabulary word in English.\n---",
-      "difficulty": "7",
-      "images": [],
-      "tags": [],
-      "bloom": "Analyze",
-      "expected_success": 0.8,
-      "bundle_id": "EC-ING-11-2026-W30-phrasal-verbs-inseparable-001-MASTERY-bundle",
-      "periodo": 30,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ingles",
-      "grade": 11,
-      "country": "ec"
-    },
-    {
-      "id": "EC-ING-11-2026-W30-phrasal-verbs-inseparable-001-MASTERY-v14",
-      "statement": "What is the English word for: \"A book of information about a place designed for the use of visitors or tourists.\"",
-      "context": "Choose the correct English word for the given definition.",
-      "options": [
-        {
-          "letter": "C",
-          "text": "guidebook",
-          "is_correct": true,
-          "feedback": "Correct! 'guidebook' matches the definition."
-        },
-        {
-          "letter": "A",
-          "text": "map",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "B",
-          "text": "dictionary",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "D",
-          "text": "encyclopedia",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        }
-      ],
-      "correct_answer": "C",
-      "explanation": "The word 'guidebook' is used to describe a book of information about a place designed for the use of visitors or tourists. This is an important vocabulary word in English.\n---",
-      "difficulty": "8",
-      "images": [],
-      "tags": [],
-      "bloom": "Analyze",
-      "expected_success": 0.8,
-      "bundle_id": "EC-ING-11-2026-W30-phrasal-verbs-inseparable-001-MASTERY-bundle",
-      "periodo": 30,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ingles",
-      "grade": 11,
-      "country": "ec"
-    },
-    {
-      "id": "EC-ING-11-2026-W30-phrasal-verbs-inseparable-001-MASTERY-v15",
-      "statement": "What is the English word for: \"A bag with shoulder straps that allow it to be carried on one's back.\"",
-      "context": "Choose the correct English word for the given definition.",
-      "options": [
-        {
-          "letter": "D",
-          "text": "backpack",
-          "is_correct": true,
-          "feedback": "Correct! 'backpack' matches the definition."
-        },
-        {
-          "letter": "A",
-          "text": "suitcase",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "B",
-          "text": "briefcase",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "C",
-          "text": "handbag",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        }
-      ],
-      "correct_answer": "D",
-      "explanation": "The word 'backpack' is used to describe a bag with shoulder straps that allow it to be carried on one's back. This is an important vocabulary word in English.\n---",
-      "difficulty": "7",
-      "images": [],
-      "tags": [],
-      "bloom": "Analyze",
-      "expected_success": 0.8,
-      "bundle_id": "EC-ING-11-2026-W30-phrasal-verbs-inseparable-001-MASTERY-bundle",
-      "periodo": 30,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ingles",
-      "grade": 11,
-      "country": "ec"
-    },
-    {
-      "id": "EC-ING-11-2026-W30-phrasal-verbs-inseparable-001-MASTERY-v16",
-      "statement": "What is the English word for: \"In or to a foreign country, especially one across the sea.\"",
-      "context": "Choose the correct English word for the given definition.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "overseas",
-          "is_correct": true,
-          "feedback": "Correct! 'overseas' matches the definition."
-        },
-        {
-          "letter": "B",
-          "text": "domestic",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "C",
-          "text": "local",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "D",
-          "text": "national",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "The word 'overseas' is used to describe in or to a foreign country, especially one across the sea. This is an important vocabulary word in English.\n---",
-      "difficulty": "8",
-      "images": [],
-      "tags": [],
-      "bloom": "Analyze",
-      "expected_success": 0.8,
-      "bundle_id": "EC-ING-11-2026-W30-phrasal-verbs-inseparable-001-MASTERY-bundle",
-      "periodo": 30,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ingles",
-      "grade": 11,
-      "country": "ec"
-    },
-    {
-      "id": "EC-ING-11-2026-W30-phrasal-verbs-inseparable-001-MASTERY-v17",
-      "statement": "What is the English word for: \"An estimate of income and expenditure for a set period of time.\"",
-      "context": "Choose the correct English word for the given definition.",
-      "options": [
-        {
-          "letter": "C",
-          "text": "budget",
-          "is_correct": true,
-          "feedback": "Correct! 'budget' matches the definition."
-        },
-        {
-          "letter": "A",
-          "text": "expense",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "B",
-          "text": "cost",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "D",
-          "text": "price",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        }
-      ],
-      "correct_answer": "C",
-      "explanation": "The word 'budget' is used to describe an estimate of income and expenditure for a set period of time. This is an important vocabulary word in English.\n---",
-      "difficulty": "9",
-      "images": [],
-      "tags": [],
       "bloom": "Evaluate",
       "expected_success": 0.8,
       "bundle_id": "EC-ING-11-2026-W30-phrasal-verbs-inseparable-001-MASTERY-bundle",
@@ -773,131 +863,41 @@
       "country": "ec"
     },
     {
-      "id": "EC-ING-11-2026-W30-phrasal-verbs-inseparable-001-MASTERY-v18",
-      "statement": "What is the English word for: \"A practice or arrangement by which a company or government agency provides a guarantee of compensation for specified loss, damage, illness, or death in return for payment of a premium.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "id": "EC-ING-11-2026-W30-phrasal-verbs-inseparable-001-MASTERY-bundle-v20",
+      "statement": "Complete the sentence: 'They are looking ____ the missing keys.'",
+      "context": "Phrasal verbs de busqueda, Quito.",
       "options": [
         {
-          "letter": "C",
-          "text": "insurance",
-          "is_correct": true,
-          "feedback": "Correct! 'insurance' matches the definition."
-        },
-        {
           "letter": "A",
-          "text": "warranty",
+          "text": "up",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "'Look up' means to consult a source, not to search physically for an object."
         },
         {
           "letter": "B",
-          "text": "guarantee",
+          "text": "after",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "'Look after' means to take care of someone or something."
+        },
+        {
+          "letter": "C",
+          "text": "for",
+          "is_correct": true,
+          "feedback": "'Look for' means to search for something that is missing."
         },
         {
           "letter": "D",
-          "text": "policy",
+          "text": "into",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "'Look into' means to investigate a matter, not to search for a physical object."
         }
       ],
       "correct_answer": "C",
-      "explanation": "The word 'insurance' is used to describe a practice or arrangement by which a company or government agency provides a guarantee of compensation for specified loss, damage, illness, or death in return for payment of a premium. This is an important vocabulary word in English.\n---",
-      "difficulty": "10",
+      "explanation": "'Look for' expresa la accion de buscar fisicamente un objeto. Conviene memorizar esta combinacion como una sola unidad.\n\n---",
+      "difficulty": "4",
       "images": [],
       "tags": [],
-      "bloom": "Evaluate",
-      "expected_success": 0.8,
-      "bundle_id": "EC-ING-11-2026-W30-phrasal-verbs-inseparable-001-MASTERY-bundle",
-      "periodo": 30,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ingles",
-      "grade": 11,
-      "country": "ec"
-    },
-    {
-      "id": "EC-ING-11-2026-W30-phrasal-verbs-inseparable-001-MASTERY-v19",
-      "statement": "What is the English word for: \"Treatment with a vaccine to produce immunity against a disease.\"",
-      "context": "Choose the correct English word for the given definition.",
-      "options": [
-        {
-          "letter": "D",
-          "text": "vaccination",
-          "is_correct": true,
-          "feedback": "Correct! 'vaccination' matches the definition."
-        },
-        {
-          "letter": "A",
-          "text": "medication",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "B",
-          "text": "prescription",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "C",
-          "text": "infection",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        }
-      ],
-      "correct_answer": "D",
-      "explanation": "The word 'vaccination' is used to describe treatment with a vaccine to produce immunity against a disease. This is an important vocabulary word in English.\n---",
-      "difficulty": "9",
-      "images": [],
-      "tags": [],
-      "bloom": "Evaluate",
-      "expected_success": 0.8,
-      "bundle_id": "EC-ING-11-2026-W30-phrasal-verbs-inseparable-001-MASTERY-bundle",
-      "periodo": 30,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ingles",
-      "grade": 11,
-      "country": "ec"
-    },
-    {
-      "id": "EC-ING-11-2026-W30-phrasal-verbs-inseparable-001-MASTERY-v20",
-      "statement": "What is the English word for: \"Extreme tiredness and other physical effects felt by a person after a long flight across several time zones.\"",
-      "context": "Choose the correct English word for the given definition.",
-      "options": [
-        {
-          "letter": "C",
-          "text": "jet lag",
-          "is_correct": true,
-          "feedback": "Correct! 'jet lag' matches the definition."
-        },
-        {
-          "letter": "A",
-          "text": "fatigue",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "B",
-          "text": "exhaustion",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "D",
-          "text": "insomnia",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        }
-      ],
-      "correct_answer": "C",
-      "explanation": "The word 'jet lag' is used to describe extreme tiredness and other physical effects felt by a person after a long flight across several time zones. This is an important vocabulary word in English.",
-      "difficulty": "10",
-      "images": [],
-      "tags": [],
-      "bloom": "Evaluate",
+      "bloom": "Apply",
       "expected_success": 0.8,
       "bundle_id": "EC-ING-11-2026-W30-phrasal-verbs-inseparable-001-MASTERY-bundle",
       "periodo": 30,

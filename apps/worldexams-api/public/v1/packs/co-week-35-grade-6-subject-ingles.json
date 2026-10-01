@@ -16,25 +16,25 @@
           "letter": "A",
           "text": "At the hospital.",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "A hospital treats sick people; bread is not bought there."
         },
         {
           "letter": "B",
           "text": "At the park.",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "A park is a green space for walking and playing, not a place that sells bread."
         },
         {
           "letter": "C",
           "text": "At the bakery.",
           "is_correct": true,
-          "feedback": "Correct! Well done."
+          "feedback": "A bakery is the shop that makes and sells bread, so that completes the sentence."
         },
         {
           "letter": "D",
           "text": "At the bank.",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "A bank handles money and accounts; it does not sell bread."
         }
       ],
       "correct_answer": "C",
@@ -62,25 +62,25 @@
           "letter": "A",
           "text": "library",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "A library lends books; films are watched in a cinema."
         },
         {
           "letter": "B",
           "text": "stadium",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "A stadium is where sports matches are played, not where films are shown."
         },
         {
           "letter": "C",
           "text": "cinema",
           "is_correct": true,
-          "feedback": "Correct! Well done."
+          "feedback": "A cinema is the place with the big screen where people go to see movies."
         },
         {
           "letter": "D",
           "text": "church",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "A church is a religious building; movies are not shown there."
         }
       ],
       "correct_answer": "C",
@@ -108,25 +108,25 @@
           "letter": "A",
           "text": "left",
           "is_correct": true,
-          "feedback": "Correct! Well done."
+          "feedback": "\"Turn left\" is the instruction that tells the person which way to turn at the corner, so it completes the sentence."
         },
         {
           "letter": "B",
           "text": "opposite",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "\"Opposite\" names a position relative to something, not the direction of a turn."
         },
         {
           "letter": "C",
           "text": "near",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "\"Near\" describes a short distance, not a movement of turning."
         },
         {
           "letter": "D",
           "text": "straight",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "\"Straight\" means going forward; the sentence needs the direction in which to turn."
         }
       ],
       "correct_answer": "A",
@@ -154,25 +154,25 @@
           "letter": "A",
           "text": "into",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "\"Into\" describes movement from outside to inside, which is not a position."
         },
         {
           "letter": "B",
           "text": "below",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "\"Below\" means at a lower level, which is not the position described here."
         },
         {
           "letter": "C",
           "text": "above",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "\"Above\" means at a higher level, so it does not describe being side by side with the supermarket."
         },
         {
           "letter": "D",
           "text": "across from",
           "is_correct": true,
-          "feedback": "Correct! Well done."
+          "feedback": "\"Across from\" means on the opposite side of a street, which is exactly the position of a hospital next to a supermarket."
         }
       ],
       "correct_answer": "D",
@@ -200,25 +200,25 @@
           "letter": "A",
           "text": "train station",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "A train station is where trains arrive; planes land at an airport."
         },
         {
           "letter": "B",
           "text": "airport",
           "is_correct": true,
-          "feedback": "Correct! Well done."
+          "feedback": "An airport is the place with the runways and terminals where you catch a plane."
         },
         {
           "letter": "C",
           "text": "bus stop",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "A bus stop is where city buses stop, not where planes are boarded."
         },
         {
           "letter": "D",
           "text": "garage",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "A garage is where cars are repaired; it has no runways."
         }
       ],
       "correct_answer": "B",
@@ -246,25 +246,25 @@
           "letter": "A",
           "text": "museum",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "A museum exhibits objects and paintings, and it does not lend books."
         },
         {
           "letter": "B",
           "text": "office",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "An office is a place of work for employees, not a public place to borrow books."
         },
         {
           "letter": "C",
           "text": "bookstore",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "A bookstore sells books; the place where you borrow them is the library."
         },
         {
           "letter": "D",
           "text": "library",
           "is_correct": true,
-          "feedback": "Correct! Well done."
+          "feedback": "A library lends books to readers, so \"library\" completes the sentence."
         }
       ],
       "correct_answer": "D",
@@ -292,25 +292,25 @@
           "letter": "A",
           "text": "factory",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "A factory makes products with machines; it is not open to visitors to see animals."
         },
         {
           "letter": "B",
           "text": "school",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "A school is where students study; it does not keep a collection of animals."
         },
         {
           "letter": "C",
           "text": "zoo",
           "is_correct": true,
-          "feedback": "Correct! Well done."
+          "feedback": "A zoo keeps and shows many kinds of animals, so \"zoo\" completes the sentence."
         },
         {
           "letter": "D",
           "text": "gym",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "A gym is a place for exercise and sports, not for seeing animals."
         }
       ],
       "correct_answer": "C",
@@ -338,25 +338,25 @@
           "letter": "A",
           "text": "bank",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "A bank handles money; it is not where sick people go."
         },
         {
           "letter": "B",
           "text": "hospital",
           "is_correct": true,
-          "feedback": "Correct! Well done."
+          "feedback": "A hospital has doctors and treats sick people, so \"hospital\" completes the sentence."
         },
         {
           "letter": "C",
           "text": "restaurant",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "A restaurant serves food; it does not treat illness."
         },
         {
           "letter": "D",
           "text": "theater",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "A theater is a building for plays, concerts or films, not for medical care."
         }
       ],
       "correct_answer": "B",
@@ -384,25 +384,25 @@
           "letter": "A",
           "text": "square",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "A square is an open public space with shops and monuments; the mayor works in an official building."
         },
         {
           "letter": "B",
           "text": "street",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "A street is a road for traffic; the building where the mayor works is not called a street."
         },
         {
           "letter": "C",
           "text": "hall",
           "is_correct": true,
-          "feedback": "Correct! Well done."
+          "feedback": "A city hall is the official building where the mayor and the city government work, so that completes the sentence."
         },
         {
           "letter": "D",
           "text": "center",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "A center is a general word for a place in the middle of town; the office of the mayor is a specific building."
         }
       ],
       "correct_answer": "C",
@@ -430,25 +430,25 @@
           "letter": "A",
           "text": "police station",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "A police station is where police officers work, not where money is saved."
         },
         {
           "letter": "B",
           "text": "bakery",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "A bakery sells bread and cakes, not banking services."
         },
         {
           "letter": "C",
           "text": "bank",
           "is_correct": true,
-          "feedback": "Correct! Well done."
+          "feedback": "A bank keeps your money safe and offers accounts, so \"bank\" completes the sentence."
         },
         {
           "letter": "D",
           "text": "church",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "A church is a religious building; it does not save money for you."
         }
       ],
       "correct_answer": "C",

@@ -163,7 +163,7 @@
           "letter": "B",
           "text": "rarely",
           "is_correct": false,
-          "feedback": "Incorrect. Unrelated."
+          "feedback": "Comparative advantage is about doing a task more efficiently, and how often something happens says nothing about efficiency."
         },
         {
           "letter": "D",
@@ -241,7 +241,7 @@
           "letter": "A",
           "text": "Gossip",
           "is_correct": false,
-          "feedback": "Incorrect."
+          "feedback": "\"Gossip\" is casual talk about other people's private lives, not the coordination of moving goods and supplies."
         },
         {
           "letter": "B",
@@ -253,13 +253,13 @@
           "letter": "C",
           "text": "Fiction",
           "is_correct": false,
-          "feedback": "Incorrect."
+          "feedback": "\"Fiction\" is an invented story; logistics is the real operational work behind a supply chain."
         },
         {
           "letter": "D",
           "text": "Ritual",
           "is_correct": false,
-          "feedback": "Incorrect."
+          "feedback": "\"Ritual\" is a set of fixed ceremonies or habits, which has nothing to do with coordinating facilities and supplies."
         }
       ],
       "correct_answer": "B",
@@ -286,7 +286,7 @@
           "letter": "B",
           "text": "are exploring",
           "is_correct": false,
-          "feedback": "Incorrect. Active voice."
+          "feedback": "\"Are exploring\" is the active voice and would make the routes the thing doing the exploring; here it is the routes that receive the exploration."
         },
         {
           "letter": "A",
@@ -304,7 +304,7 @@
           "letter": "D",
           "text": "have explored",
           "is_correct": false,
-          "feedback": "Incorrect. Active voice."
+          "feedback": "\"Have explored\" is active and perfect; the exploration described is still going on, and the routes are what is being explored."
         }
       ],
       "correct_answer": "A",
@@ -568,13 +568,13 @@
           "letter": "B",
           "text": "follow",
           "is_correct": false,
-          "feedback": "Incorrect."
+          "feedback": "\"Follow\" means to come after, which would describe exports coming after imports, not exceeding them."
         },
         {
           "letter": "D",
           "text": "ignore",
           "is_correct": false,
-          "feedback": "Incorrect."
+          "feedback": "\"Ignore\" means to pay no attention to; a deficit is defined by comparing the two figures, not disregarding one."
         }
       ],
       "correct_answer": "C",
@@ -709,7 +709,7 @@
           "letter": "D",
           "text": "Fine",
           "is_correct": false,
-          "feedback": "Incorrect. Punishment."
+          "feedback": "A fine is a punishment a company pays for breaking the law, whereas a subsidy is money the state gives it in support."
         }
       ],
       "correct_answer": "A",
@@ -793,7 +793,7 @@
           "letter": "C",
           "text": "matching",
           "is_correct": false,
-          "feedback": "Incorrect."
+          "feedback": "Costs are externalized when they are pushed onto society or the environment instead of appearing in the price, so they are not matched."
         },
         {
           "letter": "D",
@@ -877,7 +877,7 @@
           "letter": "A",
           "text": "greedy",
           "is_correct": false,
-          "feedback": "Incorrect. Negative."
+          "feedback": "A system built on greed distributes its benefits unfairly, while the sentence asks for one that is equitable."
         },
         {
           "letter": "B",

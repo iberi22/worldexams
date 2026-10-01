@@ -349,7 +349,7 @@
           "letter": "C",
           "text": "$a(x + y) + b$",
           "is_correct": false,
-          "feedback": "Incorrecto. Incompleto."
+          "feedback": "El factor a aparece solo en los dos primeros términos, así que el factor común debe ser (x + y) y el resto es b(x + y), no un término suelto."
         }
       ],
       "correct_answer": "D",
@@ -568,7 +568,7 @@
           "letter": "C",
           "text": "$x^3 + 8$",
           "is_correct": false,
-          "feedback": "Incorrecto. Sí es factorizable."
+          "feedback": "$x^3 + 8$ sí factoriza como $(x+2)(x^2 - 2x + 4)$, aplicando la suma de cubos."
         },
         {
           "letter": "D",
@@ -781,7 +781,7 @@
           "letter": "B",
           "text": "$(x^2+9)(x^2-9)$",
           "is_correct": false,
-          "feedback": "Incorrecto. Incompleto."
+          "feedback": "(x²+9) no tiene factores reales, así que esa expresión no es la descomposición completa en Reales de x⁴ − 81."
         },
         {
           "letter": "A",

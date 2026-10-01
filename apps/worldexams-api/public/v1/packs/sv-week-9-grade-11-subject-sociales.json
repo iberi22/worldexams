@@ -9,40 +9,40 @@
   "questions": [
     {
       "id": "SV-SOC-11-2026-W09-siglo-xix-sv-001-MASTERY-bundle-v1",
-      "statement": "¿Qué documento establece la organización del Estado?",
-      "context": "Clase de ciencias sociales en Soyapango estudiando siglo xix sv.",
+      "statement": "La independencia de El Salvador fue proclamada por primera vez el",
+      "context": "Historia Patria, San Salvador.",
       "options": [
         {
           "letter": "A",
-          "text": "La Constitución",
-          "is_correct": true,
-          "feedback": "¡Correcto!"
+          "text": "15 de septiembre de 1810",
+          "is_correct": false,
+          "feedback": "1810 corresponde a los movimientos iniciales en Espana y en America del Norte."
         },
         {
           "letter": "B",
-          "text": "Una ley ordinaria",
+          "text": "15 de septiembre de 1848",
           "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "feedback": "Esa fecha corresponde a la Constitucion de la Republica."
         },
         {
           "letter": "C",
-          "text": "Un decreto presidencial",
+          "text": "15 de septiembre de 1859",
           "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "feedback": "1859 es posterior a la independencia y pertenece a otro proceso."
         },
         {
           "letter": "D",
-          "text": "Un tratado internacional",
-          "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "text": "15 de septiembre de 1821",
+          "is_correct": true,
+          "feedback": "El acta de independencia centroamericana se firmo ese dia en La Libertad."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "La Constitución es la norma suprema que organiza el Estado y garantiza derechos.",
+      "correct_answer": "D",
+      "explanation": "La primera declaracion de independencia se produjo el 15 de septiembre de 1821 en el pueblo de La Libertad.\n\n---",
       "difficulty": "4",
       "images": [],
       "tags": [],
-      "bloom": "Understand",
+      "bloom": "Remember",
       "expected_success": 0.8,
       "bundle_id": "SV-SOC-11-2026-W09-siglo-xix-sv-001-MASTERY-bundle",
       "periodo": 9,
@@ -54,41 +54,41 @@
     },
     {
       "id": "SV-SOC-11-2026-W09-siglo-xix-sv-001-MASTERY-bundle-v2",
-      "statement": "¿Cómo cambió la Revolución Industrial la sociedad del siglo XIX?",
-      "context": "Clase de ciencias sociales en San Miguel estudiando siglo xix sv.",
+      "statement": "Que documento firmo El Salvador al aprobar la independencia centroamericana?",
+      "context": "Actos de independencia, San Salvador.",
       "options": [
         {
-          "letter": "B",
-          "text": "Urbanización masiva y nuevas clases sociales",
-          "is_correct": true,
-          "feedback": "¡Correcto!"
+          "letter": "A",
+          "text": "La Constitucion de 1848",
+          "is_correct": false,
+          "feedback": "La Constitucion de 1848 es un producto posterior del Estado."
         },
         {
-          "letter": "A",
-          "text": "Retorno a la vida agrícola",
-          "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "letter": "B",
+          "text": "El Acta de la Independencia de Centroamerica",
+          "is_correct": true,
+          "feedback": "Ese es el documento fundante del proceso independentista."
         },
         {
           "letter": "C",
-          "text": "Disminución del comercio global",
+          "text": "El Codigo de Indias",
           "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "feedback": "El Codigo de indias es normativa colonial del siglo XVI."
         },
         {
           "letter": "D",
-          "text": "Eliminación del trabajo manual",
+          "text": "Las Leyes de Burgos",
           "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "feedback": "Las Leyes de Burgos son del siglo XVI y regulaban la conquista."
         }
       ],
       "correct_answer": "B",
-      "explanation": "La Revolución Industrial causó migración a ciudades y creó nuevas clases sociales.",
-      "difficulty": "4",
+      "explanation": "El Salvador aprobo y firmo el Acta de la Independencia de Centroamerica el 15 de septiembre de 1821.\n\n---",
+      "difficulty": "6",
       "images": [],
       "tags": [],
-      "bloom": "Analyze",
-      "expected_success": 0.7,
+      "bloom": "Remember",
+      "expected_success": 0.8,
       "bundle_id": "SV-SOC-11-2026-W09-siglo-xix-sv-001-MASTERY-bundle",
       "periodo": 9,
       "protocol_version": "5.2",
@@ -99,41 +99,41 @@
     },
     {
       "id": "SV-SOC-11-2026-W09-siglo-xix-sv-001-MASTERY-bundle-v3",
-      "statement": "¿Qué derechos protegen la Constitución de un país democrático?",
-      "context": "Clase de ciencias sociales en San Salvador estudiando siglo xix sv.",
+      "statement": "Por que el puerto de Acajutla cobre importancia en el siglo XIX?",
+      "context": "Historia economica, San Miguel.",
       "options": [
         {
-          "letter": "D",
-          "text": "Derechos humanos fundamentales",
-          "is_correct": true,
-          "feedback": "¡Correcto!"
-        },
-        {
           "letter": "A",
-          "text": "Solo derechos de propiedad",
+          "text": "Porque exportaba la plata que bajaba de las tierras altas",
           "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "feedback": "La plata no era el producto de salida de ese puerto."
         },
         {
           "letter": "B",
-          "text": "Únicamente derechos políticos",
+          "text": "Porque por el pasaba todo el indigo de Guatemala",
           "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "feedback": "El indigo salia por otros puertos del golfo de Honduras."
         },
         {
           "letter": "C",
-          "text": "Derechos exclusivos del gobierno",
+          "text": "Porque exportaba el cacao que se cultivaba en la region",
+          "is_correct": true,
+          "feedback": "El puerto canalizaba el cacao de la costa hacia el exterior."
+        },
+        {
+          "letter": "D",
+          "text": "Porque era la principal puerta de entrada de manufaturas",
           "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "feedback": "Acajutla exportaba productos, no era un puerto industrial importador."
         }
       ],
-      "correct_answer": "D",
-      "explanation": "Las constituciones democráticas protegen derechos humanos fundamentales.",
-      "difficulty": "4",
+      "correct_answer": "C",
+      "explanation": "Acajutla fue el puerto de salida del cacao, que se cultivaba en la zona y se exportaba hacia el mercado mundial.\n\n---",
+      "difficulty": "6",
       "images": [],
       "tags": [],
-      "bloom": "Understand",
-      "expected_success": 0.85,
+      "bloom": "Analyze",
+      "expected_success": 0.8,
       "bundle_id": "SV-SOC-11-2026-W09-siglo-xix-sv-001-MASTERY-bundle",
       "periodo": 9,
       "protocol_version": "5.2",
@@ -144,40 +144,40 @@
     },
     {
       "id": "SV-SOC-11-2026-W09-siglo-xix-sv-001-MASTERY-bundle-v4",
-      "statement": "Si un país exporta más de lo que importa, ¿qué tiene?",
-      "context": "Clase de ciencias sociales en San Miguel estudiando siglo xix sv.",
+      "statement": "Que paises formaron la Republica Federal de Centroamerica?",
+      "context": "Historia regional, San Salvador.",
       "options": [
         {
-          "letter": "B",
-          "text": "Superávit comercial",
+          "letter": "A",
+          "text": "El Salvador, Guatemala, Honduras, Nicaragua y Costa Rica",
           "is_correct": true,
-          "feedback": "¡Correcto!"
+          "feedback": "Estos cinco estados formaron la Republica Federal."
         },
         {
-          "letter": "A",
-          "text": "Déficit comercial",
+          "letter": "B",
+          "text": "El Salvador, Guatemala, Honduras, Nicaragua y Panama",
           "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "feedback": "Panama no formo parte de la Republica Federal."
         },
         {
           "letter": "C",
-          "text": "Balanza equilibrada",
+          "text": "El Salvador, Honduras, Nicaragua, Costa Rica y Belice",
           "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "feedback": "Belice no estaba incluido en la Republica Federal."
         },
         {
           "letter": "D",
-          "text": "Crisis económica",
+          "text": "Guatemala, Honduras, Nicaragua, Costa Rica y Colombia",
           "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "feedback": "Colombia no formo parte de la Republica Federal."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "Exportar más que importar genera superávit comercial favorable.",
+      "correct_answer": "A",
+      "explanation": "La Republica Federal agrupo a El Salvador, Guatemala, Honduras, Nicaragua y Costa Rica.\n\n---",
       "difficulty": "4",
       "images": [],
       "tags": [],
-      "bloom": "Apply",
+      "bloom": "Remember",
       "expected_success": 0.8,
       "bundle_id": "SV-SOC-11-2026-W09-siglo-xix-sv-001-MASTERY-bundle",
       "periodo": 9,
@@ -189,41 +189,41 @@
     },
     {
       "id": "SV-SOC-11-2026-W09-siglo-xix-sv-001-MASTERY-bundle-v5",
-      "statement": "¿Cuál fue una causa importante de la Primera Guerra Mundial?",
-      "context": "Clase de ciencias sociales en Mejicanos estudiando siglo xix sv.",
+      "statement": "Que ocurrio con El Salvador tras la disolucion de la Republica Federal?",
+      "context": "Historia Patria, San Salvador.",
       "options": [
         {
-          "letter": "B",
-          "text": "El asesinato del Archiduque Francisco Fernando",
-          "is_correct": true,
-          "feedback": "¡Correcto!"
+          "letter": "A",
+          "text": "Siguio siendo miembro de la Republica hasta 1896",
+          "is_correct": false,
+          "feedback": "La Republica se disolvio mucho antes, en 1841."
         },
         {
-          "letter": "A",
-          "text": "El Tratado de Versalles",
+          "letter": "B",
+          "text": "Se incorporo al estado de Guatemala",
           "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "feedback": "El Salvador no quedo incorporado a Guatemala tras la separacion."
         },
         {
           "letter": "C",
-          "text": "La Revolución Rusa",
-          "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "text": "Se separo y se constituyo en Estado Soberano e Independiente",
+          "is_correct": true,
+          "feedback": "La disolucion provoco la aparicion de estados soberanos separados."
         },
         {
           "letter": "D",
-          "text": "La invención del avión",
+          "text": "Perdio su soberania hasta 1884",
           "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "feedback": "El Salvador mantuvo su soberania como Estado desde 1841."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "El asesinato en Sarajevo (1914) desencadenó el sistema de alianzas que llevó a la guerra.",
+      "correct_answer": "C",
+      "explanation": "El Salvador se separo en 1841 y se constituyo despues como Estado Soberano e Independiente.\n\n---",
       "difficulty": "6",
       "images": [],
       "tags": [],
       "bloom": "Remember",
-      "expected_success": 0.85,
+      "expected_success": 0.8,
       "bundle_id": "SV-SOC-11-2026-W09-siglo-xix-sv-001-MASTERY-bundle",
       "periodo": 9,
       "protocol_version": "5.2",
@@ -234,40 +234,40 @@
     },
     {
       "id": "SV-SOC-11-2026-W09-siglo-xix-sv-001-MASTERY-bundle-v6",
-      "statement": "¿Qué documento establece la organización del Estado?",
-      "context": "Clase de ciencias sociales en San Salvador estudiando siglo xix sv.",
+      "statement": "Que reforma introdujo Juan Lindo en Guatemala?",
+      "context": "Historia regional, La Libertad.",
       "options": [
         {
-          "letter": "B",
-          "text": "La Constitución",
+          "letter": "A",
+          "text": "La eliminacion de los bienes de la Iglesia y sus haciendas",
           "is_correct": true,
-          "feedback": "¡Correcto!"
+          "feedback": "La reforma debilio el poder del clero y abrio tierras eclesiasticas."
         },
         {
-          "letter": "A",
-          "text": "Una ley ordinaria",
+          "letter": "B",
+          "text": "La restauracion de los privilegios del clero",
           "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "feedback": "La reforma fue contraria a los intereses eclesiasticos."
         },
         {
           "letter": "C",
-          "text": "Un decreto presidencial",
+          "text": "La creacion de escuelas publicas gratuitas",
           "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "feedback": "La educacion no fue el contenido principal de la reforma."
         },
         {
           "letter": "D",
-          "text": "Un tratado internacional",
+          "text": "La devolucion de tierras a los pueblos indigenas",
           "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "feedback": "La reforma se centro en los bienes eclesiasticos."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "La Constitución es la norma suprema que organiza el Estado y garantiza derechos.",
+      "correct_answer": "A",
+      "explanation": "La reforma de Lindo elimino los bienes eclesiasticos y puso en ejecucion las haciendas de la Iglesia.\n\n---",
       "difficulty": "6",
       "images": [],
       "tags": [],
-      "bloom": "Understand",
+      "bloom": "Analyze",
       "expected_success": 0.8,
       "bundle_id": "SV-SOC-11-2026-W09-siglo-xix-sv-001-MASTERY-bundle",
       "periodo": 9,
@@ -279,41 +279,41 @@
     },
     {
       "id": "SV-SOC-11-2026-W09-siglo-xix-sv-001-MASTERY-bundle-v7",
-      "statement": "¿Cómo cambió la Revolución Industrial la sociedad del siglo XIX?",
-      "context": "Clase de ciencias sociales en Soyapango estudiando siglo xix sv.",
+      "statement": "Que productos definieron la economia de exportacion de El Salvador en el siglo XIX?",
+      "context": "Historia economica, San Salvador.",
       "options": [
         {
-          "letter": "D",
-          "text": "Urbanización masiva y nuevas clases sociales",
-          "is_correct": true,
-          "feedback": "¡Correcto!"
-        },
-        {
           "letter": "A",
-          "text": "Retorno a la vida agrícola",
+          "text": "La extraccion de plata en las tierras altas",
           "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "feedback": "El Salvador no fue un centro productor de plata."
         },
         {
           "letter": "B",
-          "text": "Disminución del comercio global",
-          "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "text": "El indigo y, mas adelante, el cafe",
+          "is_correct": true,
+          "feedback": "Ambos productos definieron la economia de exportacion del pais."
         },
         {
           "letter": "C",
-          "text": "Eliminación del trabajo manual",
+          "text": "La pesca de perlas en el golfo",
           "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "feedback": "La pesca de perlas fue una actividad menor que desaparecio temprano."
+        },
+        {
+          "letter": "D",
+          "text": "La industria textil exportadora",
+          "is_correct": false,
+          "feedback": "La industrializacion ocurrio a lo largo del siglo XX."
         }
       ],
-      "correct_answer": "D",
-      "explanation": "La Revolución Industrial causó migración a ciudades y creó nuevas clases sociales.",
+      "correct_answer": "B",
+      "explanation": "El indigo y luego el cafe fueron los grandes productos de exportacion de esa etapa. Es uno de los puntos mas frecuentes de las pruebas de esta unidad.\n\n---",
       "difficulty": "6",
       "images": [],
       "tags": [],
       "bloom": "Analyze",
-      "expected_success": 0.7,
+      "expected_success": 0.8,
       "bundle_id": "SV-SOC-11-2026-W09-siglo-xix-sv-001-MASTERY-bundle",
       "periodo": 9,
       "protocol_version": "5.2",
@@ -324,41 +324,41 @@
     },
     {
       "id": "SV-SOC-11-2026-W09-siglo-xix-sv-001-MASTERY-bundle-v8",
-      "statement": "¿Qué derechos protegen la Constitución de un país democrático?",
-      "context": "Clase de ciencias sociales en Soyapango estudiando siglo xix sv.",
+      "statement": "Que produjo la crisis del algodon de 1879?",
+      "context": "Historia economica, San Salvador.",
       "options": [
         {
           "letter": "A",
-          "text": "Derechos humanos fundamentales",
-          "is_correct": true,
-          "feedback": "¡Correcto!"
+          "text": "El aumento del precio de los alimentos",
+          "is_correct": false,
+          "feedback": "La crisis redujo los ingresos de las familias rurales."
         },
         {
           "letter": "B",
-          "text": "Solo derechos de propiedad",
+          "text": "La extincion de la produccion de indigo",
           "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "feedback": "El indigo ya estaba en declive antes de esa crisis."
         },
         {
           "letter": "C",
-          "text": "Únicamente derechos políticos",
-          "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "text": "El abandono de fincas y el desplazamiento rural",
+          "is_correct": true,
+          "feedback": "El monocultivo dependia del mercado externo y sufrio cuando cayo."
         },
         {
           "letter": "D",
-          "text": "Derechos exclusivos del gobierno",
+          "text": "La independencia politica inmediata",
           "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "feedback": "La independencia se produjo en fechas posteriores."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "Las constituciones democráticas protegen derechos humanos fundamentales.",
+      "correct_answer": "C",
+      "explanation": "La caida del precio del algodon provoco el abandono de fincas y el desplazamiento de la poblacion rural.\n\n---",
       "difficulty": "6",
       "images": [],
       "tags": [],
-      "bloom": "Understand",
-      "expected_success": 0.85,
+      "bloom": "Analyze",
+      "expected_success": 0.8,
       "bundle_id": "SV-SOC-11-2026-W09-siglo-xix-sv-001-MASTERY-bundle",
       "periodo": 9,
       "protocol_version": "5.2",
@@ -369,40 +369,40 @@
     },
     {
       "id": "SV-SOC-11-2026-W09-siglo-xix-sv-001-MASTERY-bundle-v9",
-      "statement": "Si un país exporta más de lo que importa, ¿qué tiene?",
-      "context": "Clase de ciencias sociales en Soyapango estudiando siglo xix sv.",
+      "statement": "Que bandos se enfrentaron en la Guerra del Roble de 1870?",
+      "context": "Historia Patria, San Salvador.",
       "options": [
         {
-          "letter": "C",
-          "text": "Superávit comercial",
-          "is_correct": true,
-          "feedback": "¡Correcto!"
-        },
-        {
           "letter": "A",
-          "text": "Déficit comercial",
+          "text": "Al gobierno espanol y a los pueblos indigenas",
           "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "feedback": "No hubo participacion espanol en ese conflicto interno."
         },
         {
           "letter": "B",
-          "text": "Balanza equilibrada",
+          "text": "Al gobierno de Barrios y a la opposicion liberal",
+          "is_correct": true,
+          "feedback": "La guerra se decidio en la batalla del Roble, cerca de San Salvador."
+        },
+        {
+          "letter": "C",
+          "text": "A los cafeicultores entre si",
           "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "feedback": "Los cafeicultores no constituyeron bandos armados."
         },
         {
           "letter": "D",
-          "text": "Crisis económica",
+          "text": "A dos pueblos indigenas entre si",
           "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "feedback": "El conflicto fue politico y de partido, no intercomunitario."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "Exportar más que importar genera superávit comercial favorable.",
+      "correct_answer": "B",
+      "explanation": "El conflicto opuso al gobierno de Gerardo Barrios a la opposicion liberal reunida en el canton del Roble.\n\n---",
       "difficulty": "6",
       "images": [],
       "tags": [],
-      "bloom": "Apply",
+      "bloom": "Analyze",
       "expected_success": 0.8,
       "bundle_id": "SV-SOC-11-2026-W09-siglo-xix-sv-001-MASTERY-bundle",
       "periodo": 9,
@@ -414,41 +414,41 @@
     },
     {
       "id": "SV-SOC-11-2026-W09-siglo-xix-sv-001-MASTERY-bundle-v10",
-      "statement": "¿Cuál fue una causa importante de la Primera Guerra Mundial?",
-      "context": "Clase de ciencias sociales en Mejicanos estudiando siglo xix sv.",
+      "statement": "Que cambio politico produjo la muerte de Gerardo Barrios?",
+      "context": "Historia Patria, Santa Ana.",
       "options": [
         {
           "letter": "A",
-          "text": "El asesinato del Archiduque Francisco Fernando",
-          "is_correct": true,
-          "feedback": "¡Correcto!"
+          "text": "El retorno de la monarquia espanola",
+          "is_correct": false,
+          "feedback": "En ningun momento se restablecio la monarquia en el pais."
         },
         {
           "letter": "B",
-          "text": "El Tratado de Versalles",
+          "text": "La independencia de Centroamerica",
           "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "feedback": "La independencia ya se habia consumado en 1821."
         },
         {
           "letter": "C",
-          "text": "La Revolución Rusa",
+          "text": "El fin de las exportaciones de cafe",
           "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "feedback": "El cafe seguia siendo el motor de las exportaciones."
         },
         {
           "letter": "D",
-          "text": "La invención del avión",
-          "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "text": "La participacion mas amplia de los liberales en el poder",
+          "is_correct": true,
+          "feedback": "El gobierno barrista cayo y con el se modifico el equilibrio politico."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "El asesinato en Sarajevo (1914) desencadenó el sistema de alianzas que llevó a la guerra.",
+      "correct_answer": "D",
+      "explanation": "La muerte de Barrios abrio un periodo en el que los liberales participaron de manera mas amplia en el poder.\n\n---",
       "difficulty": "6",
       "images": [],
       "tags": [],
-      "bloom": "Remember",
-      "expected_success": 0.85,
+      "bloom": "Analyze",
+      "expected_success": 0.8,
       "bundle_id": "SV-SOC-11-2026-W09-siglo-xix-sv-001-MASTERY-bundle",
       "periodo": 9,
       "protocol_version": "5.2",
@@ -459,40 +459,40 @@
     },
     {
       "id": "SV-SOC-11-2026-W09-siglo-xix-sv-001-MASTERY-bundle-v11",
-      "statement": "¿Qué documento establece la organización del Estado?",
-      "context": "Clase de ciencias sociales en San Miguel estudiando siglo xix sv.",
+      "statement": "Que cambio institucional trajo la Constitucion de 1884?",
+      "context": "Historia constitucional, San Salvador.",
       "options": [
         {
-          "letter": "C",
-          "text": "La Constitución",
-          "is_correct": true,
-          "feedback": "¡Correcto!"
-        },
-        {
           "letter": "A",
-          "text": "Una ley ordinaria",
-          "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "text": "El cambio del nombre del pais y la adopcion de la Republica",
+          "is_correct": true,
+          "feedback": "El Estado Soberano paso a llamarse Republica con esa Constitucion."
         },
         {
           "letter": "B",
-          "text": "Un decreto presidencial",
+          "text": "La adopcion de un gobierno militar permanente",
           "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "feedback": "La Constitucion establecio separacion de poderes, no unaOverrides."
+        },
+        {
+          "letter": "C",
+          "text": "La eliminacion de toda Constitucion anterior",
+          "is_correct": false,
+          "feedback": "La de 1884 sustituyo a la de 1848 dentro del orden juridico."
         },
         {
           "letter": "D",
-          "text": "Un tratado internacional",
+          "text": "La prohibicion de las elecciones",
           "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "feedback": "La Constitucion establecio un regimen electoral con sufragio."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "La Constitución es la norma suprema que organiza el Estado y garantiza derechos.",
-      "difficulty": "8",
+      "correct_answer": "A",
+      "explanation": "La Constitucion de 1884 cambio el nombre del pais a Republica de El Salvador y fijo el regimen republican.\n\n---",
+      "difficulty": "6",
       "images": [],
       "tags": [],
-      "bloom": "Understand",
+      "bloom": "Analyze",
       "expected_success": 0.8,
       "bundle_id": "SV-SOC-11-2026-W09-siglo-xix-sv-001-MASTERY-bundle",
       "periodo": 9,
@@ -504,41 +504,41 @@
     },
     {
       "id": "SV-SOC-11-2026-W09-siglo-xix-sv-001-MASTERY-bundle-v12",
-      "statement": "¿Cómo cambió la Revolución Industrial la sociedad del siglo XIX?",
-      "context": "Clase de ciencias sociales en San Miguel estudiando siglo xix sv.",
+      "statement": "Quien dirigio la invasion de 1895?",
+      "context": "Historia Patria, San Salvador.",
       "options": [
         {
-          "letter": "B",
-          "text": "Urbanización masiva y nuevas clases sociales",
-          "is_correct": true,
-          "feedback": "¡Correcto!"
+          "letter": "A",
+          "text": "Francisco Morazan",
+          "is_correct": false,
+          "feedback": "Morazan murio en 1842, mas de medio siglo antes de la invasion."
         },
         {
-          "letter": "A",
-          "text": "Retorno a la vida agrícola",
+          "letter": "B",
+          "text": "Gerardo Barrios",
           "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "feedback": "Barrios fue derrocado en 1863 y murio ese mismo ano."
         },
         {
           "letter": "C",
-          "text": "Disminución del comercio global",
+          "text": "Juan Lindo",
           "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "feedback": "Lindo fue un reformador de Guatemala, no un invasor."
         },
         {
           "letter": "D",
-          "text": "Eliminación del trabajo manual",
-          "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "text": "Rafael Antonio Gutierrez",
+          "is_correct": true,
+          "feedback": "Gutierrez asumio la presidencia tras la invasion de 1895."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "La Revolución Industrial causó migración a ciudades y creó nuevas clases sociales.",
-      "difficulty": "8",
+      "correct_answer": "D",
+      "explanation": "La invasion fue dirigida por Rafael Antonio Gutierrez, quien asumio el poder temporalmente.\n\n---",
+      "difficulty": "6",
       "images": [],
       "tags": [],
-      "bloom": "Analyze",
-      "expected_success": 0.7,
+      "bloom": "Remember",
+      "expected_success": 0.8,
       "bundle_id": "SV-SOC-11-2026-W09-siglo-xix-sv-001-MASTERY-bundle",
       "periodo": 9,
       "protocol_version": "5.2",
@@ -549,41 +549,41 @@
     },
     {
       "id": "SV-SOC-11-2026-W09-siglo-xix-sv-001-MASTERY-bundle-v13",
-      "statement": "¿Qué derechos protegen la Constitución de un país democrático?",
-      "context": "Clase de ciencias sociales en San Miguel estudiando siglo xix sv.",
+      "statement": "Como se resolvio la invasion de 1895?",
+      "context": "Historia Patria, San Salvador.",
       "options": [
         {
-          "letter": "B",
-          "text": "Derechos humanos fundamentales",
-          "is_correct": true,
-          "feedback": "¡Correcto!"
+          "letter": "A",
+          "text": "El pais quedo ocupado durante veinte anos",
+          "is_correct": false,
+          "feedback": "La invasion fue derrotada y no hubo ocupacion prolongada."
         },
         {
-          "letter": "A",
-          "text": "Solo derechos de propiedad",
-          "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "letter": "B",
+          "text": "Las fuerzas invasoras fueron derrotadas y el pais conservó su soberania",
+          "is_correct": true,
+          "feedback": "El resultado del conflicto fue el fracaso de la invasion."
         },
         {
           "letter": "C",
-          "text": "Únicamente derechos políticos",
+          "text": "Guatemala absorbio a El Salvador",
           "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "feedback": "Ningun pais absorbio territorio del otro en ese proceso."
         },
         {
           "letter": "D",
-          "text": "Derechos exclusivos del gobierno",
+          "text": "El conflicto termino con una firma internacional en 1902",
           "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "feedback": "El conflicto se resolvio por la accion militar y el reconocimiento diplomatico."
         }
       ],
       "correct_answer": "B",
-      "explanation": "Las constituciones democráticas protegen derechos humanos fundamentales.",
-      "difficulty": "8",
+      "explanation": "La invasion quedo frustrada: las fuerzas invasoras fueron derrotadas por las autoridades salvadoreñas y Guatemala reconocio la frontera.\n\n---",
+      "difficulty": "6",
       "images": [],
       "tags": [],
-      "bloom": "Understand",
-      "expected_success": 0.85,
+      "bloom": "Analyze",
+      "expected_success": 0.8,
       "bundle_id": "SV-SOC-11-2026-W09-siglo-xix-sv-001-MASTERY-bundle",
       "periodo": 9,
       "protocol_version": "5.2",
@@ -594,40 +594,40 @@
     },
     {
       "id": "SV-SOC-11-2026-W09-siglo-xix-sv-001-MASTERY-bundle-v14",
-      "statement": "Si un país exporta más de lo que importa, ¿qué tiene?",
-      "context": "Clase de ciencias sociales en Soyapango estudiando siglo xix sv.",
+      "statement": "Cual es la diferencia entre el Estado Soberano de El Salvador y la Republica de 1884?",
+      "context": "Historia constitucional, San Salvador.",
       "options": [
         {
-          "letter": "C",
-          "text": "Superávit comercial",
-          "is_correct": true,
-          "feedback": "¡Correcto!"
-        },
-        {
           "letter": "A",
-          "text": "Déficit comercial",
-          "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "text": "El Estado Soberano nacio tras la disolucion regional; la Republica fue una renovacion",
+          "is_correct": true,
+          "feedback": "Ambos son formas soberanas, pero con origenes y constituciones distintas."
         },
         {
           "letter": "B",
-          "text": "Balanza equilibrada",
+          "text": "No hay diferencia alguna entre ambos",
           "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "feedback": "Cambio el nombre del Estado y su marco constitucional en 1884."
+        },
+        {
+          "letter": "C",
+          "text": "El Estado Soberano era una colonia portuguesa",
+          "is_correct": false,
+          "feedback": "El Estado Soberano era un Estado independiente, no una colonia."
         },
         {
           "letter": "D",
-          "text": "Crisis económica",
+          "text": "La Republica de 1884 estaba ocupada por una potencia europea",
           "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "feedback": "Ninguna potencia europea ocupo el pais en esa fecha."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "Exportar más que importar genera superávit comercial favorable.",
-      "difficulty": "8",
+      "correct_answer": "A",
+      "explanation": "El Estado Soberano nacio tras la disolucion regional; la Republica de 1884 fue una renovacion constitucional del Estado.\n\n---",
+      "difficulty": "6",
       "images": [],
       "tags": [],
-      "bloom": "Apply",
+      "bloom": "Analyze",
       "expected_success": 0.8,
       "bundle_id": "SV-SOC-11-2026-W09-siglo-xix-sv-001-MASTERY-bundle",
       "periodo": 9,
@@ -639,41 +639,41 @@
     },
     {
       "id": "SV-SOC-11-2026-W09-siglo-xix-sv-001-MASTERY-bundle-v15",
-      "statement": "¿Cuál fue una causa importante de la Primera Guerra Mundial?",
-      "context": "Clase de ciencias sociales en Mejicanos estudiando siglo xix sv.",
+      "statement": "Que sector sufrio la crisis del cafe de 1899?",
+      "context": "Historia economica, San Miguel.",
       "options": [
         {
-          "letter": "C",
-          "text": "El asesinato del Archiduque Francisco Fernando",
-          "is_correct": true,
-          "feedback": "¡Correcto!"
-        },
-        {
           "letter": "A",
-          "text": "El Tratado de Versalles",
+          "text": "El sector azucarero, por un monopolio nuevo",
           "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "feedback": "La crisis se centro en el cafe y no en el azucar."
         },
         {
           "letter": "B",
-          "text": "La Revolución Rusa",
+          "text": "La pesca artesanal de las costas",
           "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "feedback": "La pesca no era un sector de exportacion relevante."
+        },
+        {
+          "letter": "C",
+          "text": "El sector exportador, por la caida del precio del cafe",
+          "is_correct": true,
+          "feedback": "El cafe era el principal producto de exportacion en ese momento."
         },
         {
           "letter": "D",
-          "text": "La invención del avión",
+          "text": "La mineria de las tierras altas",
           "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "feedback": "La mineria era incipiente a finales del siglo XIX."
         }
       ],
       "correct_answer": "C",
-      "explanation": "El asesinato en Sarajevo (1914) desencadenó el sistema de alianzas que llevó a la guerra.",
-      "difficulty": "8",
+      "explanation": "El sector exportador del cafe sufrio una fuerte caida de precios que provoco una crisis nacional.\n\n---",
+      "difficulty": "6",
       "images": [],
       "tags": [],
-      "bloom": "Remember",
-      "expected_success": 0.85,
+      "bloom": "Analyze",
+      "expected_success": 0.8,
       "bundle_id": "SV-SOC-11-2026-W09-siglo-xix-sv-001-MASTERY-bundle",
       "periodo": 9,
       "protocol_version": "5.2",
@@ -684,40 +684,40 @@
     },
     {
       "id": "SV-SOC-11-2026-W09-siglo-xix-sv-001-MASTERY-bundle-v16",
-      "statement": "¿Qué documento establece la organización del Estado?",
-      "context": "Clase de ciencias sociales en San Salvador estudiando siglo xix sv.",
+      "statement": "En que consistio la reforma monetaria de 1893?",
+      "context": "Historia economica, San Salvador.",
       "options": [
         {
-          "letter": "D",
-          "text": "La Constitución",
-          "is_correct": true,
-          "feedback": "¡Correcto!"
-        },
-        {
           "letter": "A",
-          "text": "Una ley ordinaria",
+          "text": "En crear una moneda digital nacional",
           "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "feedback": "La reforma de 1893 es anterior a cualquier moneda electronica."
         },
         {
           "letter": "B",
-          "text": "Un decreto presidencial",
-          "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "text": "En sustituir el peso por el colon como moneda nacional",
+          "is_correct": true,
+          "feedback": "El colon fue la moneda de El Salvador hasta 1933."
         },
         {
           "letter": "C",
-          "text": "Un tratado internacional",
+          "text": "En abandonar el sistema monetario",
           "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "feedback": "La reforma unifico el sistema, no lo abandono."
+        },
+        {
+          "letter": "D",
+          "text": "En adoptar el dolar como moneda",
+          "is_correct": false,
+          "feedback": "El dolar llego oficialmente al pais varias decades despues."
         }
       ],
-      "correct_answer": "D",
-      "explanation": "La Constitución es la norma suprema que organiza el Estado y garantiza derechos.",
-      "difficulty": "8",
+      "correct_answer": "B",
+      "explanation": "La reforma sustituyo el peso por el colon como moneda nacional y unifico la politica monetaria.\n\n---",
+      "difficulty": "6",
       "images": [],
       "tags": [],
-      "bloom": "Understand",
+      "bloom": "Analyze",
       "expected_success": 0.8,
       "bundle_id": "SV-SOC-11-2026-W09-siglo-xix-sv-001-MASTERY-bundle",
       "periodo": 9,
@@ -729,41 +729,41 @@
     },
     {
       "id": "SV-SOC-11-2026-W09-siglo-xix-sv-001-MASTERY-bundle-v17",
-      "statement": "¿Cómo cambió la Revolución Industrial la sociedad del siglo XIX?",
-      "context": "Clase de ciencias sociales en San Salvador estudiando siglo xix sv.",
+      "statement": "Que gasto dejo una deuda externa muy grande a El Salvador?",
+      "context": "Historia Patria, San Salvador.",
       "options": [
         {
-          "letter": "B",
-          "text": "Urbanización masiva y nuevas clases sociales",
-          "is_correct": true,
-          "feedback": "¡Correcto!"
+          "letter": "A",
+          "text": "La construccion de caminos y caminos reales",
+          "is_correct": false,
+          "feedback": "Las obras publicas no generaron esa deuda externa."
         },
         {
-          "letter": "A",
-          "text": "Retorno a la vida agrícola",
+          "letter": "B",
+          "text": "La compra de territorio a Gran Bretana",
           "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "feedback": "El pais no compro territorio a una potencia europea."
         },
         {
           "letter": "C",
-          "text": "Disminución del comercio global",
+          "text": "El aumento de los impuestos a la tierra",
           "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "feedback": "Los impuestos no generan deuda externa, los prestamos si."
         },
         {
           "letter": "D",
-          "text": "Eliminación del trabajo manual",
-          "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "text": "La guerra de 1899, financiada con creditos externos",
+          "is_correct": true,
+          "feedback": "El pago de esa deuda absorbio parte del presupuesto durante anos."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "La Revolución Industrial causó migración a ciudades y creó nuevas clases sociales.",
-      "difficulty": "10",
+      "correct_answer": "D",
+      "explanation": "La guerra de 1899 fue financiada con creditos externos, lo que provoco una deuda que limito los ingresos del pais.\n\n---",
+      "difficulty": "6",
       "images": [],
       "tags": [],
       "bloom": "Analyze",
-      "expected_success": 0.7,
+      "expected_success": 0.8,
       "bundle_id": "SV-SOC-11-2026-W09-siglo-xix-sv-001-MASTERY-bundle",
       "periodo": 9,
       "protocol_version": "5.2",
@@ -774,41 +774,41 @@
     },
     {
       "id": "SV-SOC-11-2026-W09-siglo-xix-sv-001-MASTERY-bundle-v18",
-      "statement": "¿Qué derechos protegen la Constitución de un país democrático?",
-      "context": "Clase de ciencias sociales en San Salvador estudiando siglo xix sv.",
+      "statement": "Que organizacion campesina surge en El Salvador a finales del siglo XIX?",
+      "context": "Historia social, San Salvador.",
       "options": [
         {
-          "letter": "C",
-          "text": "Derechos humanos fundamentales",
-          "is_correct": true,
-          "feedback": "¡Correcto!"
-        },
-        {
           "letter": "A",
-          "text": "Solo derechos de propiedad",
-          "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "text": "La Federacion de Sociedades Campesinas Cristianas (MST)",
+          "is_correct": true,
+          "feedback": "El MST movilizo a campesinos en torno a la reforma agraria."
         },
         {
           "letter": "B",
-          "text": "Únicamente derechos políticos",
+          "text": "La Sociedad de Comerciantes Unidos",
           "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "feedback": "Ese era un grupo mercantil, no campesino."
+        },
+        {
+          "letter": "C",
+          "text": "La Academia Militar de San Vicente",
+          "is_correct": false,
+          "feedback": "Era una institucion de formacion castrense."
         },
         {
           "letter": "D",
-          "text": "Derechos exclusivos del gobierno",
+          "text": "La Compania de Indias Orientales",
           "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "feedback": "Ese nombre no corresponde a ninguna organizacion salvadoreña."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "Las constituciones democráticas protegen derechos humanos fundamentales.",
-      "difficulty": "10",
+      "correct_answer": "A",
+      "explanation": "La Federacion de Sociedades Campesinas Cristianas, conocida como MST, agrupo a campesinos en defensa de la tierra.\n\n---",
+      "difficulty": "6",
       "images": [],
       "tags": [],
-      "bloom": "Understand",
-      "expected_success": 0.85,
+      "bloom": "Remember",
+      "expected_success": 0.8,
       "bundle_id": "SV-SOC-11-2026-W09-siglo-xix-sv-001-MASTERY-bundle",
       "periodo": 9,
       "protocol_version": "5.2",
@@ -819,40 +819,40 @@
     },
     {
       "id": "SV-SOC-11-2026-W09-siglo-xix-sv-001-MASTERY-bundle-v19",
-      "statement": "Si un país exporta más de lo que importa, ¿qué tiene?",
-      "context": "Clase de ciencias sociales en Soyapango estudiando siglo xix sv.",
+      "statement": "Por que es relevante conocer la historia del siglo XIX salvadoreño?",
+      "context": "Sintesis historica, San Salvador.",
       "options": [
         {
           "letter": "A",
-          "text": "Superávit comercial",
-          "is_correct": true,
-          "feedback": "¡Correcto!"
+          "text": "Porque todos los problemas actuales datan de ese siglo",
+          "is_correct": false,
+          "feedback": "La historia es una guia, no una explicacion total."
         },
         {
           "letter": "B",
-          "text": "Déficit comercial",
+          "text": "Porque las cifras de ese periodo son las unicas fiables",
           "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "feedback": "Las fuentes de esa epoca tienen limitaciones que deben considerarse."
         },
         {
           "letter": "C",
-          "text": "Balanza equilibrada",
+          "text": "Porque evita tener que estudiar el presente",
           "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "feedback": "Conocer el pasado complementa, no reemplaza, el analisis presente."
         },
         {
           "letter": "D",
-          "text": "Crisis económica",
-          "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "text": "Porque explica formaciones politicas, economicas y sociales actuales",
+          "is_correct": true,
+          "feedback": "Muchos problemas presentes tienen raiz en las decisiones de ese siglo."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "Exportar más que importar genera superávit comercial favorable.",
-      "difficulty": "10",
+      "correct_answer": "D",
+      "explanation": "El siglo XIX explica buena parte de las formaciones politicas, economicas y sociales del presente.\n\n---",
+      "difficulty": "6",
       "images": [],
       "tags": [],
-      "bloom": "Apply",
+      "bloom": "Evaluate",
       "expected_success": 0.8,
       "bundle_id": "SV-SOC-11-2026-W09-siglo-xix-sv-001-MASTERY-bundle",
       "periodo": 9,
@@ -864,41 +864,41 @@
     },
     {
       "id": "SV-SOC-11-2026-W09-siglo-xix-sv-001-MASTERY-bundle-v20",
-      "statement": "¿Cuál fue una causa importante de la Primera Guerra Mundial?",
-      "context": "Clase de ciencias sociales en Mejicanos estudiando siglo xix sv.",
+      "statement": "Que era una hacienda durante el siglo XIX?",
+      "context": "Historia economica, San Miguel.",
       "options": [
         {
-          "letter": "C",
-          "text": "El asesinato del Archiduque Francisco Fernando",
-          "is_correct": true,
-          "feedback": "¡Correcto!"
-        },
-        {
           "letter": "A",
-          "text": "El Tratado de Versalles",
+          "text": "Una pequena parcela de subsistence",
           "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "feedback": "La hacienda era de gran extension y orientada a la exportacion."
         },
         {
           "letter": "B",
-          "text": "La Revolución Rusa",
+          "text": "Un fundo comunitario de los indigenas",
           "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "feedback": "Ese regimen era el de las tierras comunales, no el de la hacienda."
+        },
+        {
+          "letter": "C",
+          "text": "Una gran propiedad rural dedicada al monocultivo de exportacion",
+          "is_correct": true,
+          "feedback": "La hacienda generaba empleo y era la unidad economica rural principal."
         },
         {
           "letter": "D",
-          "text": "La invención del avión",
+          "text": "Un almacen de la corona para guardar el tributo",
           "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "feedback": "La hacienda era una unidad de produccion, no un deposito."
         }
       ],
       "correct_answer": "C",
-      "explanation": "El asesinato en Sarajevo (1914) desencadenó el sistema de alianzas que llevó a la guerra.",
-      "difficulty": "10",
+      "explanation": "La hacienda era una gran propiedad rural dedicada al monocultivo de exportacion. Es uno de los puntos mas frecuentes de las pruebas de esta unidad.\n\n---",
+      "difficulty": "6",
       "images": [],
       "tags": [],
-      "bloom": "Remember",
-      "expected_success": 0.85,
+      "bloom": "Understand",
+      "expected_success": 0.8,
       "bundle_id": "SV-SOC-11-2026-W09-siglo-xix-sv-001-MASTERY-bundle",
       "periodo": 9,
       "protocol_version": "5.2",

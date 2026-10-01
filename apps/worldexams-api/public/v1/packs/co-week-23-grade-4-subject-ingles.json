@@ -16,25 +16,25 @@
           "letter": "A",
           "text": "apple",
           "is_correct": true,
-          "feedback": "Correct!"
+          "feedback": "An apple is red and round."
         },
         {
           "letter": "B",
           "text": "banana",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "A banana is long and yellow, not round."
         },
         {
           "letter": "C",
           "text": "carrot",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "A carrot is long and orange and grows in the ground."
         },
         {
           "letter": "D",
           "text": "potato",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "A potato is brown and grows underground, so it is not red."
         }
       ],
       "correct_answer": "A",
@@ -62,25 +62,25 @@
           "letter": "A",
           "text": "pear",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "A pear is green or yellow and shaped like a teardrop, not long."
         },
         {
           "letter": "B",
           "text": "carrot",
           "is_correct": true,
-          "feedback": "Correct!"
+          "feedback": "A carrot is orange and long, with the green leaves on top."
         },
         {
           "letter": "C",
           "text": "grape",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "A grape is small, round and purple or green, not long."
         },
         {
           "letter": "D",
           "text": "lemon",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "A lemon is yellow, small and round, not long."
         }
       ],
       "correct_answer": "B",
@@ -108,25 +108,25 @@
           "letter": "A",
           "text": "Pineapples",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "A pineapple is one large fruit with a spiky crown, not small."
         },
         {
           "letter": "B",
           "text": "Onions",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "An onion is a round bulb with papery skin, and it grows underground."
         },
         {
           "letter": "C",
           "text": "Grapes",
           "is_correct": true,
-          "feedback": "Correct!"
+          "feedback": "Grapes are small and come in purple or green."
         },
         {
           "letter": "D",
           "text": "Strawberries",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "Strawberries are small but red, never purple or green."
         }
       ],
       "correct_answer": "C",
@@ -154,25 +154,25 @@
           "letter": "A",
           "text": "watermelon",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "A watermelon is green outside and red inside, so it is not yellow or sour."
         },
         {
           "letter": "B",
           "text": "tomato",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "A tomato is red and mild, not sour."
         },
         {
           "letter": "C",
           "text": "broccoli",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "Broccoli is green and has no sour taste at all."
         },
         {
           "letter": "D",
           "text": "lemon",
           "is_correct": true,
-          "feedback": "Correct!"
+          "feedback": "A lemon is yellow and sour."
         }
       ],
       "correct_answer": "D",
@@ -200,25 +200,25 @@
           "letter": "A",
           "text": "watermelon",
           "is_correct": true,
-          "feedback": "Correct!"
+          "feedback": "A watermelon is big, green on the outside and red inside."
         },
         {
           "letter": "B",
           "text": "cherry",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "A cherry is small and red, with no green skin."
         },
         {
           "letter": "C",
           "text": "peach",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "A peach is soft and fuzzy, with a pink or orange skin."
         },
         {
           "letter": "D",
           "text": "cucumber",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "A cucumber is green on the outside and pale inside, not red."
         }
       ],
       "correct_answer": "A",
@@ -246,25 +246,25 @@
           "letter": "A",
           "text": "coconut",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "A coconut is brown and hard on the outside; it does not go in salads."
         },
         {
           "letter": "B",
           "text": "tomato",
           "is_correct": true,
-          "feedback": "Correct!"
+          "feedback": "A tomato is red and is one of the vegetables we put in salads."
         },
         {
           "letter": "C",
           "text": "plum",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "A plum is purple and is usually eaten as fruit, not in salads."
         },
         {
           "letter": "D",
           "text": "mango",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "A mango is yellow-orange and sweet, a fruit rather than a salad vegetable."
         }
       ],
       "correct_answer": "B",
@@ -292,25 +292,25 @@
           "letter": "A",
           "text": "lettuce",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "Lettuce is green and leafy, so it does not match the description."
         },
         {
           "letter": "B",
           "text": "garlic",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "Garlic is white and made of cloves, and it is used for flavour, not fries."
         },
         {
           "letter": "C",
           "text": "potato",
           "is_correct": true,
-          "feedback": "Correct!"
+          "feedback": "A potato is white inside with brown skin, and we fry it to make French fries."
         },
         {
           "letter": "D",
           "text": "kiwi",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "A kiwi is green inside with black seeds, and it is eaten fresh."
         }
       ],
       "correct_answer": "C",
@@ -338,25 +338,25 @@
           "letter": "A",
           "text": "apple",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "An apple can be red or green, so it is not always orange."
         },
         {
           "letter": "B",
           "text": "banana",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "A banana is yellow when ripe, not orange."
         },
         {
           "letter": "C",
           "text": "pear",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "A pear is green or yellow and does not usually give us juice."
         },
         {
           "letter": "D",
           "text": "orange",
           "is_correct": true,
-          "feedback": "Correct!"
+          "feedback": "An orange is orange and gives us orange juice."
         }
       ],
       "correct_answer": "D",

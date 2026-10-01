@@ -646,25 +646,25 @@
           "letter": "B",
           "text": "x=2, y=6",
           "is_correct": false,
-          "feedback": "Incorrecto. No cumple la segunda ecuación."
+          "feedback": "La segunda ecuación da $2 - 6 = -4 \\neq 2$, así que el par no sirve."
         },
         {
           "letter": "A",
           "text": "x=4, y=2",
           "is_correct": true,
-          "feedback": "¡Correcto! 2(4)+2=10 y 4-2=2."
+          "feedback": "$2(4) + 2 = 10$ y $4 - 2 = 2$ cumple las dos ecuaciones a la vez."
         },
         {
           "letter": "C",
           "text": "x=3, y=4",
           "is_correct": false,
-          "feedback": "Incorrecto. No cumple la segunda ecuación."
+          "feedback": "La segunda ecuación da $3 - 4 = -1 \\neq 2$, así que el par no sirve."
         },
         {
           "letter": "D",
           "text": "x=5, y=0",
           "is_correct": false,
-          "feedback": "Incorrecto. No cumple la segunda ecuación."
+          "feedback": "La primera ecuación da $2(5) + 0 = 10$, pero la segunda da $5 - 0 = 5 \\neq 2$."
         }
       ],
       "correct_answer": "A",

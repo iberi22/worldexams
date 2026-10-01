@@ -16,25 +16,25 @@
           "letter": "D",
           "text": "sofa",
           "is_correct": true,
-          "feedback": "el sofa es el mueble de tres o cuatro plazas donde una familia se sienta a ver la television."
+          "feedback": "The sofa is the three or four seat piece of furniture where a family sits to watch television."
         },
         {
           "letter": "A",
           "text": "bed",
           "is_correct": false,
-          "feedback": "la cama sirve para dormir y no para sentarse frente al televisor."
+          "feedback": "The bed is for sleeping and not for sitting in front of the television."
         },
         {
           "letter": "B",
           "text": "wardrobe",
           "is_correct": false,
-          "feedback": "el armario guarda ropa y no se usa como asiento."
+          "feedback": "The wardrobe stores clothes and is not used as a seat."
         },
         {
           "letter": "C",
           "text": "fridge",
           "is_correct": false,
-          "feedback": "la nevera conserva alimentos y no es un mueble donde sentarse."
+          "feedback": "The fridge keeps food cold and is not a piece of furniture where you sit."
         }
       ],
       "correct_answer": "D",
@@ -62,25 +62,25 @@
           "letter": "A",
           "text": "kitchen",
           "is_correct": false,
-          "feedback": "la cocina es un espacio de la casa, pero no es un mueble donde alguien duerme."
+          "feedback": "The kitchen is a space of the house, but it is not a piece of furniture where someone sleeps."
         },
         {
           "letter": "D",
           "text": "wardrobe",
           "is_correct": true,
-          "feedback": "bed es el nombre correcto en ingles, y el enunciado dice que uno duerme en ese mueble."
+          "feedback": "bed is the correct word in English, and the sentence says that one sleeps in that piece of furniture."
         },
         {
           "letter": "B",
           "text": "mirror",
           "is_correct": false,
-          "feedback": "el espejo cuelga en la pared y no tiene funcion de descanso."
+          "feedback": "The mirror hangs on the wall and has no function of rest."
         },
         {
           "letter": "C",
           "text": "garden",
           "is_correct": false,
-          "feedback": "el jardin es un area exterior de la casa, no un mueble del dormitorio."
+          "feedback": "The garden is an outdoor area of the house, not a piece of furniture in the bedroom."
         }
       ],
       "correct_answer": "D",
@@ -108,25 +108,25 @@
           "letter": "A",
           "text": "One",
           "is_correct": false,
-          "feedback": "uno seria la respuesta si el texto mencionara una sola mesa."
+          "feedback": "One would be the answer if the text mentioned a single table."
         },
         {
           "letter": "C",
           "text": "Two",
           "is_correct": true,
-          "feedback": "el texto nombra dos mesas distintas, una en la cocina y otra en el comedor."
+          "feedback": "The text names two different tables, one in the kitchen and another in the dining room."
         },
         {
           "letter": "B",
           "text": "Three",
           "is_correct": false,
-          "feedback": "tres exigiria una tercera mesa que el texto no menciona."
+          "feedback": "Three would require a third table that the text does not mention."
         },
         {
           "letter": "D",
           "text": "Four",
           "is_correct": false,
-          "feedback": "cuatro excede lo que el enunciado enumera, que se limita a dos mesas."
+          "feedback": "Four goes beyond what the sentence lists, which is limited to two tables."
         }
       ],
       "correct_answer": "C",
@@ -147,32 +147,32 @@
     },
     {
       "id": "CO-ING-3-2026-W14-house-furniture-001-MASTERY-bundle-v4",
-      "statement": "Which sentence is correct?",
+      "statement": "Which sentence uses the correct verb with the plural subject 'the shelves'?",
       "context": "Actividad de escritura de una lista de los muebles de un salon.",
       "options": [
         {
           "letter": "B",
           "text": "There is two armchairs in the living room.",
           "is_correct": false,
-          "feedback": "con dos sillones el verbo debe ser are, porque el sujeto two armchairs es plural."
+          "feedback": "With two armchairs the verb must be are, because the subject two armchairs is plural."
         },
         {
           "letter": "C",
           "text": "The wardrobe are next to the door.",
           "is_correct": false,
-          "feedback": "el sujeto the wardrobe es singular y por eso lleva el verbo is."
+          "feedback": "The subject the wardrobe is singular and therefore takes the verb is."
         },
         {
           "letter": "A",
           "text": "The shelves are above the TV.",
           "is_correct": true,
-          "feedback": "el sujeto the shelves es plural y por eso concuerda con are."
+          "feedback": "The subject the shelves is plural and therefore agrees with are."
         },
         {
           "letter": "D",
           "text": "A lamp are on the table.",
           "is_correct": false,
-          "feedback": "con el sujeto singular a lamp el verbo tiene que ser is y no are."
+          "feedback": "With the singular subject a lamp the verb has to be is and not are."
         }
       ],
       "correct_answer": "A",
@@ -200,25 +200,25 @@
           "letter": "B",
           "text": "bookshelf",
           "is_correct": false,
-          "feedback": "el estante de libros guarda libros y no ropa colgando."
+          "feedback": "The bookshelf stores books and not hanging clothes."
         },
         {
           "letter": "A",
           "text": "wardrobe",
           "is_correct": true,
-          "feedback": "el armario tiene una barra donde la ropa cuelga y es el mueble que pide el enunciado."
+          "feedback": "The wardrobe has a rail where the clothes hang and it is the piece of furniture the sentence asks for."
         },
         {
           "letter": "C",
           "text": "nightstand",
           "is_correct": false,
-          "feedback": "la mesa de noche sostiene objetos pequenos como una lampara o un vaso."
+          "feedback": "The nightstand holds small objects such as a lamp or a glass."
         },
         {
           "letter": "D",
           "text": "oven",
           "is_correct": false,
-          "feedback": "el horno es un electrodomestico de la cocina y no almacena ropa."
+          "feedback": "The oven is a kitchen appliance and does not store clothes."
         }
       ],
       "correct_answer": "A",
@@ -246,25 +246,25 @@
           "letter": "B",
           "text": "on",
           "is_correct": true,
-          "feedback": "on describe un objeto apoyado sobre la superficie de otro, como el control sobre el sofa."
+          "feedback": "on describes an object resting on the surface of another, like the remote on the sofa."
         },
         {
           "letter": "A",
           "text": "in",
           "is_correct": false,
-          "feedback": "in indicaria que el control esta dentro del sofa, lo cual no es posible porque es un mueble solido."
+          "feedback": "in would indicate the remote is inside the sofa, which is impossible because it is a solid piece of furniture."
         },
         {
           "letter": "C",
           "text": "under",
           "is_correct": false,
-          "feedback": "under significaria que el control esta debajo del mueble y la pregunta no indica esa posicion."
+          "feedback": "under would mean the remote is below the furniture and the question does not indicate that position."
         },
         {
           "letter": "D",
           "text": "between",
           "is_correct": false,
-          "feedback": "between exige dos objetos que flanqueen el control y aqui solo se menciona el sofa."
+          "feedback": "between requires two objects flanking the remote, and here only the sofa is mentioned."
         }
       ],
       "correct_answer": "B",
@@ -292,25 +292,25 @@
           "letter": "A",
           "text": "Five",
           "is_correct": false,
-          "feedback": "cinco seria el resultado de sumar solo las habitaciones y las cocinas, sin los banos."
+          "feedback": "Five would be the result of adding only the bedrooms and the kitchens, without the bathrooms."
         },
         {
           "letter": "B",
           "text": "Six",
           "is_correct": true,
-          "feedback": "3 + 1 + 2 = 6, y las tres categorias del anuncio suman exactamente seis espacios."
+          "feedback": "3 + 1 + 2 = 6, and the three categories in the advert add up to exactly six spaces."
         },
         {
           "letter": "C",
           "text": "Four",
           "is_correct": false,
-          "feedback": "cuatro cuenta las categorias de habitacion, no el total de espacios."
+          "feedback": "Four counts the categories of room, not the total number of spaces."
         },
         {
           "letter": "D",
           "text": "Seven",
           "is_correct": false,
-          "feedback": "siete exigiria un dato adicional que el anuncio no incluye."
+          "feedback": "Seven would require an extra piece of information that the advert does not include."
         }
       ],
       "correct_answer": "B",
@@ -338,25 +338,25 @@
           "letter": "A",
           "text": "Kitchen, garden, bathroom",
           "is_correct": false,
-          "feedback": "esas tres palabras nombran espacios de la casa, no muebles."
+          "feedback": "Those three words name spaces of the house, not pieces of furniture."
         },
         {
           "letter": "B",
           "text": "Sofa, bed, television",
           "is_correct": false,
-          "feedback": "el televisor es un aparato y no un mueble, por lo que el grupo no es correcto."
+          "feedback": "The television is an appliance and not a piece of furniture, so the group is not correct."
         },
         {
           "letter": "C",
           "text": "Bookshelf, wardrobe, coffee table",
           "is_correct": true,
-          "feedback": "los tres son muebles que se usan para guardar o apoyar objetos dentro de una vivienda."
+          "feedback": "The three are pieces of furniture used to store or support objects inside a home."
         },
         {
           "letter": "D",
           "text": "Car, sofa, lamp",
           "is_correct": false,
-          "feedback": "el carro no pertenece al interior de una casa y rompe la clasificacion."
+          "feedback": "The car does not belong inside a house and breaks the classification."
         }
       ],
       "correct_answer": "C",

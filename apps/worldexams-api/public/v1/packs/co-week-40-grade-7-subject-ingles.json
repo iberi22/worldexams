@@ -28,13 +28,13 @@
           "letter": "C",
           "text": "Lazy",
           "is_correct": false,
-          "feedback": "Incorrect."
+          "feedback": "Lazy describes unwillingness to work, and a shy person can be either hard-working or lazy, so it is not the opposite of 'shy'."
         },
         {
           "letter": "D",
           "text": "Small",
           "is_correct": false,
-          "feedback": "Incorrect."
+          "feedback": "Small is about size. 'Shy' is about a person's manner with other people, so a size word cannot be its opposite."
         }
       ],
       "correct_answer": "A",
@@ -172,7 +172,7 @@
           "letter": "C",
           "text": "as high",
           "is_correct": false,
-          "feedback": "Incorrect."
+          "feedback": "'As high' introduces a comparison, as in 'as high as Chimborazo'. The blank after 'the' needs the superlative, which is what 'the highest' is."
         }
       ],
       "correct_answer": "D",
@@ -206,7 +206,7 @@
           "letter": "C",
           "text": "behind",
           "is_correct": false,
-          "feedback": "Incorrect."
+          "feedback": "'Behind' says one thing is at the back of another, which would put the bakery to one side, not in the middle."
         },
         {
           "letter": "A",
@@ -218,7 +218,7 @@
           "letter": "D",
           "text": "under",
           "is_correct": false,
-          "feedback": "Incorrect."
+          "feedback": "'Under' says one thing is below another, as in 'under the table', so it describes a vertical position rather than one between two points."
         }
       ],
       "correct_answer": "A",

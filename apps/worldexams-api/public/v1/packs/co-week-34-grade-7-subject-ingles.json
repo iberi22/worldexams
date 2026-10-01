@@ -292,25 +292,25 @@
           "letter": "A",
           "text": "into",
           "is_correct": false,
-          "feedback": "Incorrect. This is for entering."
+          "feedback": "'Into' describes movement from outside to inside, but the instruction asks you to leave the bus."
         },
         {
           "letter": "B",
           "text": "out of",
           "is_correct": true,
-          "feedback": "Correct! \"Out of\" is used for leaving an enclosed space or vehicle."
+          "feedback": "Correct. 'Out of' describes movement from inside an enclosed space or vehicle towards the outside, which is what getting off the bus means."
         },
         {
           "letter": "C",
           "text": "through",
           "is_correct": false,
-          "feedback": "Incorrect. Not appropriate for exiting."
+          "feedback": "'Through' describes movement inside a space from one end to the other, not leaving it."
         },
         {
           "letter": "D",
           "text": "over",
           "is_correct": false,
-          "feedback": "Incorrect."
+          "feedback": "'Over' describes movement above something, for example over a fence, and does not describe getting out of a vehicle."
         }
       ],
       "correct_answer": "B",
@@ -384,25 +384,25 @@
           "letter": "A",
           "text": "Across / Into / Over / Through",
           "is_correct": false,
-          "feedback": "Incorrect order."
+          "feedback": "This puts 'Into' second, but the commentary uses 'through' for the defence, so the second preposition is wrong."
         },
         {
           "letter": "B",
           "text": "Into / Through / Over / Across",
           "is_correct": false,
-          "feedback": "Incorrect order."
+          "feedback": "This starts with 'Into', but the movement across the field comes first, so the order is wrong."
         },
         {
           "letter": "C",
           "text": "Across / Through / Over / Into",
           "is_correct": true,
-          "feedback": "Correct! This matches the sequence: field (across), defense (through), goalkeeper (over), net (into)."
+          "feedback": "Correct. The commentary uses 'across' for the field, 'through' for the defence, 'over' for the goalkeeper and 'into' for the net, in that order."
         },
         {
           "letter": "D",
           "text": "Through / Across / Into / Over",
           "is_correct": false,
-          "feedback": "Incorrect order."
+          "feedback": "This starts with 'Through', but 'through' is the second preposition in the sequence, after 'across'."
         }
       ],
       "correct_answer": "C",

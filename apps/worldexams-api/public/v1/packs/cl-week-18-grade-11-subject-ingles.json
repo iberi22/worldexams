@@ -61,7 +61,7 @@
           "letter": "A",
           "text": "keep",
           "is_correct": false,
-          "feedback": "Incorrect. Active voice."
+          "feedback": "\"Keep\" is the plain form and is the active voice; the advice is about the information being kept secure, not about the users doing the keeping directly in this clause."
         },
         {
           "letter": "C",
@@ -73,7 +73,7 @@
           "letter": "B",
           "text": "keeps",
           "is_correct": false,
-          "feedback": "Incorrect. Active voice."
+          "feedback": "\"Keeps\" has an -s ending for a third person singular subject; the subject here is the uncountable \"information\" inside a that-clause, which needs \"is kept\"."
         },
         {
           "letter": "D",
@@ -241,7 +241,7 @@
           "letter": "A",
           "text": "Software",
           "is_correct": false,
-          "feedback": "Incorrect. Programs."
+          "feedback": "Netiquette is a code of conduct, not a product; the word that completes the pair is \"etiquette\"."
         },
         {
           "letter": "C",
@@ -388,13 +388,13 @@
           "letter": "B",
           "text": "were tracked",
           "is_correct": false,
-          "feedback": "Incorrect. Past simple."
+          "feedback": "\"Were tracked\" is the past simple, which would place the tracking at a finished past moment; the tracking described here is still going on."
         },
         {
           "letter": "C",
           "text": "tracked",
           "is_correct": false,
-          "feedback": "Incorrect. Past simple."
+          "feedback": "The bare past participle \"tracked\" has no auxiliary and cannot complete the sentence on its own."
         }
       ],
       "correct_answer": "D",
@@ -658,13 +658,13 @@
           "letter": "C",
           "text": "isolation",
           "is_correct": false,
-          "feedback": "Incorrect. Negative."
+          "feedback": "\"Isolation\" is the opposite of what an essay on digital ethics argues for; literacy connects people to information and to each other."
         },
         {
           "letter": "D",
           "text": "aggression",
           "is_correct": false,
-          "feedback": "Incorrect. Negative."
+          "feedback": "\"Aggression\" describes hostile behaviour, the opposite of the careful, informed use of digital tools that the author praises."
         }
       ],
       "correct_answer": "A",
@@ -703,13 +703,13 @@
           "letter": "B",
           "text": "Shopping",
           "is_correct": false,
-          "feedback": "Incorrect."
+          "feedback": "\"Shopping\" is the activity of buying things; it has nothing to do with deceiving people online for their passwords."
         },
         {
           "letter": "C",
           "text": "Blogging",
           "is_correct": false,
-          "feedback": "Incorrect."
+          "feedback": "\"Blogging\" is writing posts on a blog; it is not a fraudulent method of stealing credentials."
         }
       ],
       "correct_answer": "D",

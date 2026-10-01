@@ -1,0 +1,471 @@
+{
+  "metadata": {
+    "grade": 6,
+    "subject": "sociales-ciudadanas",
+    "country": "co",
+    "pack_id": "co-week-8-grade-6-subject-sociales_ciudadanas",
+    "generated_at": "2026-10-01T03:37:04.907Z"
+  },
+  "questions": [
+    {
+      "id": "CO-SOC-6-2026-W08-la-urbanizacion-y-la-ciudad-001-MASTERY-bundle-v1",
+      "statement": "¿Cuál de las siguientes situaciones corresponde a la urbanización?",
+      "context": "Villavicencio, capital del Meta, ha crecido todos los años porque llegan familias del campo y de otros departamentos a buscar trabajo y educación.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Cambiar un potrero por zonas de cultivo de café en una finca del Meta",
+          "is_correct": false,
+          "feedback": "Incorrecto. Cambiar el uso de un potrero para sembrar es un cambio en la actividad agrícola del campo, no una urbanización: la urbanización ocurre dentro de las ciudades y se caracteriza por el aumento de sus habitantes y de sus construcciones."
+        },
+        {
+          "letter": "B",
+          "text": "Construir 500 casas nuevas en un municipio que ya tiene habitantes, sin que llegue gente de otro lugar",
+          "is_correct": false,
+          "feedback": "Incorrecto. Construir viviendas sin que lleguen nuevos habitantes no completa la definición de urbanización, porque ese concepto incluye el aumento de la población urbana y no solo la construcción de casas."
+        },
+        {
+          "letter": "C",
+          "text": "El aumento del número de habitantes y de construcciones de una ciudad cuando llegan muchas familias del campo",
+          "is_correct": true,
+          "feedback": "Correcto. La urbanización es el crecimiento de las ciudades: llega más gente del campo y se construyen más viviendas, calles, escuelas, hospitales y redes de agua y energía para atender a esa población."
+        },
+        {
+          "letter": "D",
+          "text": "Trasladar la capital de un país de una ciudad a otra",
+          "is_correct": false,
+          "feedback": "Incorrecto. Cambiar la capital es una decisión administrativa que no modifica el número de habitantes de las ciudades ni sus construcciones, por eso no es un proceso de urbanización."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La urbanización es el proceso por el cual una ciudad crece: aumenta su población, se construyen más viviendas y aparecen nuevos servicios. En Colombia este proceso se ve en ciudades como Villavicencio, Bogotá o Cali, que reciben familias desde los municipios vecinos. Para distinguirla de otros procesos hay que preguntar dos cosas: ¿llegaron más personas? y ¿se construyeron más casas y servicios? Si las dos respuestas son sí, hay urbanización; si solo hay construcción de casas sin llegada de gente, hay expansión urbana sin poblamiento nuevo.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Ciudadano",
+      "expected_success": 0.9,
+      "bundle_id": "CO-SOC-6-2026-W08-la-urbanizacion-y-la-ciudad-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-6-2026-W08-la-urbanizacion-y-la-ciudad-001-MASTERY-bundle-v2",
+      "statement": "¿Cuál es la razón principal por la que muchas personas se mudan del campo a las ciudades de Colombia?",
+      "context": "Un joven de 16 años del municipio de San Gil, en Santander, terminó el colegio y está decidiendo si vive en el campo o si se muda a una ciudad grande.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque en las ciudades el clima siempre es mejor que en el campo",
+          "is_correct": false,
+          "feedback": "Incorrecto. El clima no es la razón principal de la migración urbana: un municipio de la Costa Caribe es más cálido y húmedo que uno de la Sabana de Bogotá, y sin embargo la gente se muda más hacia las ciudades grandes por otras razones."
+        },
+        {
+          "letter": "B",
+          "text": "Porque en las ciudades se concentran las escuelas, los hospitales, el transporte y los puestos de trabajo",
+          "is_correct": true,
+          "feedback": "Correcto. Las oportunidades se agrupan en las ciudades: las instituciones educativas de bachillerato técnico, los hospitales, las rutas de transporte y los empleos quedan cerca, y eso es lo que hace que la ciudad atraiga a quien viene del campo."
+        },
+        {
+          "letter": "C",
+          "text": "Porque en el campo ya no se cultiva ni se producen alimentos",
+          "is_correct": false,
+          "feedback": "Incorrecto. El campo colombiano sigue produciendo café, papa, maíz, banano y ganado, y esa producción sigue siendo necesaria: por eso la razón no es que el campo deje de producir."
+        },
+        {
+          "letter": "D",
+          "text": "Porque el gobierno obliga a las personas del campo a vivir en las ciudades",
+          "is_correct": false,
+          "feedback": "Incorrecto. Nadie está obligado a migrar: el cambio de lugar de residencia es una decisión de cada familia, y esa decisión se toma normalmente por los beneficios que ofrece la ciudad."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Las personas se mudan del campo a la ciudad buscando oportunidades que allí se concentran: educación superior, empleo, atención médica y redes de transporte. La migración rural-urbana en Colombia tiene causas económicas y de servicios, no legales. Reconocer esto ayuda a no idealizar ni estigmatizar la ciudad: quien se muda no busca solo un sueldo, también busca educación, salud y contacto con otras personas.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Economía y recursos naturales",
+      "expected_success": 0.88,
+      "bundle_id": "CO-SOC-6-2026-W08-la-urbanizacion-y-la-ciudad-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-6-2026-W08-la-urbanizacion-y-la-ciudad-001-MASTERY-bundle-v3",
+      "statement": "Con base en la tarjeta, ¿qué conclusión se puede sacar correctamente?",
+      "context": "Una tarjeta de datos de Soacha, en Cundinamarca, muestra que hace diez años la población era de 300.000 habitantes y el municipio tenía 40.000 viviendas; hoy tiene 600.000 habitantes y 44.000 viviendas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La población creció mucho más rápido que las viviendas, por eso hay más personas por casa y más presión sobre los servicios",
+          "is_correct": true,
+          "feedback": "Correcto. Antes había unas 7,5 personas por vivienda (300.000 entre 40.000) y ahora hay unas 13,6 (600.000 entre 44.000): ese aumento de la densidad explica la presión sobre el agua, la energía, las calles y el transporte."
+        },
+        {
+          "letter": "B",
+          "text": "La población de Soacha disminuyó a la mitad durante los últimos diez años",
+          "is_correct": false,
+          "feedback": "Incorrecto. La tarjeta dice lo contrario: la población pasó de 300.000 a 600.000 habitantes, es decir se duplicó, porque a Soacha llegan muchas familias que trabajan en Bogotá."
+        },
+        {
+          "letter": "C",
+          "text": "Soacha construyó viviendas al mismo ritmo al que creció su población",
+          "is_correct": false,
+          "feedback": "Incorrecto. La población se duplicó, de 300.000 a 600.000 habitantes, pero las viviendas pasaron de 40.000 a 44.000: eso significa que muchas más personas comparten las mismas casas, y por eso aparece el hacinamiento."
+        },
+        {
+          "letter": "D",
+          "text": "La tarjeta demuestra que Soacha dejó de ser una ciudad para convertirse en una finca agrícola",
+          "is_correct": false,
+          "feedback": "Incorrecto. La tarjeta solo compara población y viviendas; no registra cultivos ni actividades agrícolas, así que no puede usarse para decir que un municipio urbano se volvió una finca."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Las tarjetas de datos describen variaciones de la población urbana. Este caso muestra el desajuste típico: la población crece más rápido que la oferta de viviendas y servicios. Leer los datos correctamente exige comparar las dos cifras en vez de fijarse en una sola. Cuando el número de personas por vivienda aumenta, aparecen laoccupation del espacio, las filas para pedir transporte y la presión sobre las redes de agua y Saneamiento básico, temas centrales de la planeación urbana.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Ciudadano",
+      "expected_success": 0.85,
+      "bundle_id": "CO-SOC-6-2026-W08-la-urbanizacion-y-la-ciudad-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-6-2026-W08-la-urbanizacion-y-la-ciudad-001-MASTERY-bundle-v4",
+      "statement": "¿Qué medida de planeación urbana ataca la causa del problema y no solamente sus consecuencias?",
+      "context": "En Cali, Valle del Cauca, todas las tardes se forman atascos en la Avenida 6 y en la Calle 15 porque en esas pocas cuadras se concentran los comercios, las oficinas y las entidades públicas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Poner más agentes de tránsito y más cámaras de vigilancia en esas intersecciones",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los agentes de tránsito y las cámaras vigilan y regulan el flujo vehicular, pero no reducen la cantidad de carros que converge al centro: se atiende la consecuencia, no la causa."
+        },
+        {
+          "letter": "B",
+          "text": "Construir más viviendas y más locales en el mismo centro, sin un plan de transporte",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta medida aumenta la causa del problema, porque más viviendas y más locales en el centro hacen que más vehículos lleguen a las mismas cuadras."
+        },
+        {
+          "letter": "C",
+          "text": "Repartir parte de los comercios y las oficinas hacia otras zonas de la ciudad conectadas con transporte público",
+          "is_correct": true,
+          "feedback": "Correcto. La causa es la concentración de actividades en un solo sector; al distribuirlas y ofrecer transporte para moverse, disminuye el número de carros que llegan a las mismas cuatro o cinco cuadras."
+        },
+        {
+          "letter": "D",
+          "text": "Cambiar el nombre de las calles del centro para facilitar la orientación de los visitantes",
+          "is_correct": false,
+          "feedback": "Incorrecto. Cambiar nombres de calles no modifica ni el número de carros ni la cantidad de oficinas: modifica la referencia para ubicarse, no la causa del atasco."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Un problema urbano tiene causas y consecuencias. La concentración de oficinas y comercios en pocas cuadras es la causa; el atasco de la tarde es la consecuencia visible. Una buena medida de planeación actúa sobre la causa, reubicando actividades o conectando zonas con transporte, mientras que las medidas sobre la consecuencia (más agentes, más cámaras) solo cambian el momento del problema, no su origen. Este tipo de razonamiento se repite en física, en biología y en sociales.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Reflexión ética y política",
+      "expected_success": 0.85,
+      "bundle_id": "CO-SOC-6-2026-W08-la-urbanizacion-y-la-ciudad-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-6-2026-W08-la-urbanizacion-y-la-ciudad-001-MASTERY-bundle-v5",
+      "statement": "¿Cuál de estos hechos es un ejemplo de crecimiento urbano no planificado?",
+      "context": "En Turbo, Antioquia, un barrio nuevo se construyó sobre lo que antes era un cauce del río, sin acueducto, ni alcantarillado, ni rutas de buses.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La construcción de un hospital nuevo en el centro del municipio",
+          "is_correct": false,
+          "feedback": "Incorrecto. Un hospital es una obra pública que se proyecta antes de construirse: por eso no es crecimiento no planificado, sino una decisión tomada dentro de la planeación urbana."
+        },
+        {
+          "letter": "B",
+          "text": "Las viviendas levantadas sobre el antiguo cauce del río, sin servicios ni transporte",
+          "is_correct": true,
+          "feedback": "Correcto. El crecimiento no planificado ocurre cuando la población crece más rápido que la planeación: esas casas aparecieron sin reservar suelo para agua, alcantarillado ni transporte, por eso luego generan inundaciones y falta de acceso a servicios."
+        },
+        {
+          "letter": "C",
+          "text": "El traslado de un parque a otra esquina de un barrio ya construido",
+          "is_correct": false,
+          "feedback": "Incorrecto. Mover un parque es un ajuste dentro de una zona que ya estaba construida y planeada: no aumenta el número de habitantes ni el de construcciones."
+        },
+        {
+          "letter": "D",
+          "text": "La ampliación de una escuela que ya tenía muchas matrículas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ampliar una escuela es una respuesta de la planeación a un crecimiento previsto, porque el espacio educativo se aumenta para atender a más estudiantes."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Crecer no planificado significa que las construcciones aparecen antes de que el municipio haya preparado el suelo y los servicios que esas construcciones necesitan. La consecuencia típica son asentamientos en zonas inundables o en laderas, con difficulties para el agua potable y el saneamiento. Reconocer estos casos a tiempo sirve para pedir planificación previa: reservar suelo para vivienda, salud, educación y vías antes de que la población llegue.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Ciudadano",
+      "expected_success": 0.84,
+      "bundle_id": "CO-SOC-6-2026-W08-la-urbanizacion-y-la-ciudad-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-6-2026-W08-la-urbanizacion-y-la-ciudad-001-MASTERY-bundle-v6",
+      "statement": "¿Cuál es la explicación más completa de por qué esos asentamientos aparecen en zonas inundables?",
+      "context": "Muchas familias que llegan a Barranquilla, capital del Atlántico, no encuentran vivienda formal ni trabajo estable, y terminan instalándose en sectores cercanos al río Magdalena y a los caños.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque el río Magdalena se desborda cada año por las lluvias, sin que eso tenga relación con las personas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Que el río se desborde es la consecuencia del problema y no su causa social: sin familias instalándose en esa franja, un terreno inundable no produce un asentamiento humano."
+        },
+        {
+          "letter": "B",
+          "text": "Porque el gobierno municipal nunca ha construido proyectos de vivienda en esa ciudad",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa es solo una parte de la explicación, porque el enunciado muestra que el asunto es que las familias no encuentran vivienda ni trabajo en ninguna zona segura de la ciudad, no solo la falta de un proyecto."
+        },
+        {
+          "letter": "C",
+          "text": "Porque la oferta de vivienda y de trabajo se concentra en pocas zonas y las familias ocupan los terrenos más baratos, que están junto al río",
+          "is_correct": true,
+          "feedback": "Correcto. Las familias buscan lo que pueden pagar; cuando la planeación no reservó suelo para vivienda en zonas seguras, el suelo barato queda en la orilla del río y allí se forma el asentamiento, con riesgo de inundación."
+        },
+        {
+          "letter": "D",
+          "text": "Porque en los sectores inundables los alimentos son más baratos que en el centro de la ciudad",
+          "is_correct": false,
+          "feedback": "Incorrecto. El precio de los alimentos no explica dónde vive la gente: lo que pesa en esa decisión es el costo de la vivienda y la cercanía del trabajo, no el costo de la comida."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Las explicaciones completas de un fenómeno social urbana combinan varios factores: la oferta de suelo y vivienda, la cercanía del trabajo, los precios y las decisiones de planeación. Cuando la planeación no reserva suelo para vivienda en zonas seguras, el mercado ofrece lo más barato, que suele estar en zonas inundables, y allí se concentran las familias con menos recursos. Analizar las causas, en lugar de quedarse con la apariencia del problema (la inundación), permite proponer soluciones que atacan el origen.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Economía y recursos naturales",
+      "expected_success": 0.8,
+      "bundle_id": "CO-SOC-6-2026-W08-la-urbanizacion-y-la-ciudad-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-6-2026-W08-la-urbanizacion-y-la-ciudad-001-MASTERY-bundle-v7",
+      "statement": "¿Qué desigualdad revela esta comparación entre el centro y la periferia de Villavicencio?",
+      "context": "En Villavicencio, los barrios cercanos al río y al centro tienen más comercios, clínicas y rutas de buses, mientras que en los barrios de la periferia hay tiendas pequeñas, pocos buses y un solo colegio por barrio.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Una desigualdad entre la cantidad de autores que escriben en cada barrio",
+          "is_correct": false,
+          "feedback": "Incorrecto. Eso no tiene relación con los datos del enunciado: la comparación habla de comercios, clínicas, buses y colegios, es decir de servicios, no de libros ni de literatura."
+        },
+        {
+          "letter": "B",
+          "text": "Una desigualdad en el acceso a servicios y a oportunidades, porque el centro tiene más recursos que la periferia",
+          "is_correct": true,
+          "feedback": "Correcto. Cuando los servicios y el transporte se concentran en el centro, las personas de la periferia deben recorrer más distancia para estudiar, trabajar o consultar: esa distancia se convierte en tiempo, en costo y en una diferencia real de oportunidades."
+        },
+        {
+          "letter": "C",
+          "text": "Una desigualdad entre el clima de los dos sectores de la ciudad",
+          "is_correct": false,
+          "feedback": "Incorrecto. El enunciado no menciona el clima: los datos que compara son la presencia de comercios, clínicas, buses y colegios, que son servicios urbanos y no condiciones meteorológicas."
+        },
+        {
+          "letter": "D",
+          "text": "Una desigualdad entre la población de origen que vive en cada barrio",
+          "is_correct": false,
+          "feedback": "Incorrecto. El enunciado no habla de orígenes ni de nacionalidades: describe cómo se distribuyen los servicios, y no la composición de las personas que viven allí."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Las desigualdades urbanas no siempre se ven en las leyes: se ven en la distancia entre servicios. Cuandoschools, health y transporte se concentran en un sector, los barrios periféricos acumulan desventajas que se repiten de una generación a otra. Este caso es la base para entender temas como la movilidad y el acceso a la salud en ciudades colombianas, y para relacionar la planeación con el acceso a oportunidades.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Pluralidad, identidad y desigualdad",
+      "expected_success": 0.78,
+      "bundle_id": "CO-SOC-6-2026-W08-la-urbanizacion-y-la-ciudad-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-6-2026-W08-la-urbanizacion-y-la-ciudad-001-MASTERY-bundle-v8",
+      "statement": "¿Cómo ayuda un plan de ordenamiento a reducir los asentamientos improvisados?",
+      "context": "El municipio de Soacha actualizó su plan de ordenamiento y reservó zonas para vivienda, colegios, equipamientos de salud y áreas verdes antes de que se construyera el barrio nuevo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque obliga a todos los habitantes a permanecer en las zonas que ya están construidas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Un plan no prohíbe mudarse: su función es decidir usos del suelo y reservar zonas futuras, por eso la opción confunde planear con inmovilizar a la población."
+        },
+        {
+          "letter": "B",
+          "text": "Porque fija el mismo precio de la tierra en toda la ciudad",
+          "is_correct": false,
+          "feedback": "Incorrecto. Un plan de ordenamiento no es un decreto de precios: su herramienta es decidir dónde y cómo se construye, no cuánto vale cada lote de terreno."
+        },
+        {
+          "letter": "C",
+          "text": "Porque decide por adelantado dónde se construirán viviendas, colegios, salud y zonas verdes, de modo que la ciudad crece con servicios y no después",
+          "is_correct": true,
+          "feedback": "Correcto. Planear es anticipar el crecimiento: si el suelo para vivienda y equipamientos está reservado y conectado con vías, las familias no tienen que improvisar en zonas inundables ni construir sin agua ni saneamiento."
+        },
+        {
+          "letter": "D",
+          "text": "Porque elimina toda posibilidad de que las personas vivan en barrios nuevos",
+          "is_correct": false,
+          "feedback": "Incorrecto. La planeación no prohíbe los barrios nuevos: organiza su crecimiento y reserva los espacios necesarios para que esos barrios tengan servicios, por eso esta opción no describe el plan."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El plan de ordenamiento es la herramienta técnica con la que el municipio decide cómo se va a ocupar el territorio: qué zonas serán vivienda, cuáles serán servicios, cuáles se protegerán como áreas verdes. Cuando el plan existe y se respeta, el crecimiento urbano llega acompañado de escuelas, acueducto y vías. Cuando no existe, las personas construyen donde pueden y los servicios intentan llegar después, lo que produce asentamientos improvisados y problemas ambientales.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Reflexión ética y política",
+      "expected_success": 0.8,
+      "bundle_id": "CO-SOC-6-2026-W08-la-urbanizacion-y-la-ciudad-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-6-2026-W08-la-urbanizacion-y-la-ciudad-001-MASTERY-bundle-v9",
+      "statement": "¿Cuál de los siguientes criterios es el más adecuado para decidir qué propuesta debe tener prioridad?",
+      "context": "El concejo municipal de Chía, en Cundinamarca, discute el presupuesto del año. Un grupo de vecinos propone ampliar el transporte público, otro propone construir un parque y otro grupo propone reparar las calles.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Escoger el proyecto que beneficia a más personas, sin mirar si ese servicio falta en la ciudad",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese criterio mide alcance, pero no necesidad: un proyecto puede tener mucha clientela y seguir siendo menos urgente que otro que resuelve un servicio básico ausente."
+        },
+        {
+          "letter": "B",
+          "text": "Escoger siempre el proyecto más barato, para que el presupuesto rinda más",
+          "is_correct": false,
+          "feedback": "Incorrecto. El precio importa para que el presupuesto alcance, pero por sí solo no demuestra que un proyecto sea necesario ni que el dinero esté bien invertido."
+        },
+        {
+          "letter": "C",
+          "text": "Escoger el proyecto que hace que la ciudad participe en más eventos y actividades culturales",
+          "is_correct": false,
+          "feedback": "Incorrecto. La prioridad se define por la necesidad real de la gente, no por la visibilidad del proyecto, por eso un evento no puede desplazar a un servicio básico que falta."
+        },
+        {
+          "letter": "D",
+          "text": "Priorizar el que resuelve un servicio ausente que afecta a más habitantes, sobre todo en barrios que hoy no lo tienen",
+          "is_correct": true,
+          "feedback": "Correcto. Un buen criterio combina necesidad y alcance: si un servicio falta en barrios periféricos, atenderlo primero reduce una desigualdad visible y mejora las condiciones de vida de más gente."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Evaluar una decisión pública exige un criterio explícito, no una preferencia personal. En planeación urbana los criterios más útiles son la necesidad (¿falta ese servicio?), el alcance (¿a cuántos beneficia?), la equidad y la sostenibilidad con el tiempo. Con estos criterios se pueden comparar proyectos distintos entre sí y se evita que lo más vistoso desplace a lo más necesario. Es un ejercicio de Argumentación que se repite al elegir políticas, no solo obras.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Reflexión ética y política",
+      "expected_success": 0.75,
+      "bundle_id": "CO-SOC-6-2026-W08-la-urbanizacion-y-la-ciudad-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-6-2026-W08-la-urbanizacion-y-la-ciudad-001-MASTERY-bundle-v10",
+      "statement": "¿Cuál es el mejor argumento para que ese adolescente participe en las reuniones del plan?",
+      "context": "El municipio de Mosquera, en Cundinamarca, está consultando la actualización de su plan de ordenamiento y abre reuniones en varios barrios. Un estudiante de grado sexto recibe la invitación y se pregunta si vale la pena asistir.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque su voto es el que elige al alcalde del municipio",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las elecciones en Colombia las hacen las personas que ya cumplen 18 años, y no en reuniones de planeación: la participación de un menor de edad es de información y opinión, no de votación."
+        },
+        {
+          "letter": "B",
+          "text": "Porque solo pueden participar las personas que viven en el centro del municipio",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las consultas de planeación se hacen con los barrios, y los informes incluyen a la periferia: excluir a quien vive lejos sería contrario al sentido de participación que las busca."
+        },
+        {
+          "letter": "C",
+          "text": "Porque en esas reuniones se decide a quién se le entrega la propiedad de los lotes",
+          "is_correct": false,
+          "feedback": "Incorrecto. La propiedad de un lote se define con títulos y documentos, no en reuniones de planeación: ahí se discute el uso del suelo y las reglas de construcción, no la titulación de bienes."
+        },
+        {
+          "letter": "D",
+          "text": "Porque el plan define el uso del suelo donde vive y enterarse a tiempo permite opinar y pedir ajustes",
+          "is_correct": true,
+          "feedback": "Correcto. Participar en la consulta del plan es ejercicio ciudadano concreto: quien conoce el proyecto antes de su aprobación puede señalar lo que falta, por ejemplo una vía segura para el transporte escolar o un espacio verde."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Participar en la vida pública no se limita a votar. En un municipio hay instancias de participación previas, como las consultas sobre el plan de ordenamiento, donde la ciudadanía puede informar y opinar. Entender el proyecto antes de que se apruebe permite pedir los ajustes que la comunidad necesita. Para un adolescente, esto significa aprender a escuchar, comparar argumentos y formular una petición concreta en lugar de solamente asistir.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Ciudadano",
+      "expected_success": 0.72,
+      "bundle_id": "CO-SOC-6-2026-W08-la-urbanizacion-y-la-ciudad-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 6,
+      "country": "co"
+    }
+  ]
+}

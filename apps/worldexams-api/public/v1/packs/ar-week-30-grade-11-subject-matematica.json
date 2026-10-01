@@ -241,13 +241,13 @@
           "letter": "A",
           "text": "Solo x = 3",
           "is_correct": false,
-          "feedback": "Incorrecto. Olvidó el otro valor que anula el denominador."
+          "feedback": "x = 3 es solo uno de los dos ceros del denominador; falta x = -3, que también anula x² - 9."
         },
         {
           "letter": "B",
           "text": "Solo x = -3",
           "is_correct": false,
-          "feedback": "Incorrecto. Olvidó el otro valor que anula el denominador."
+          "feedback": "x = -3 es solo uno de los dos ceros del denominador; falta x = 3, que también anula x² - 9."
         },
         {
           "letter": "C",
@@ -286,13 +286,13 @@
           "letter": "A",
           "text": "Ambas son evitables.",
           "is_correct": false,
-          "feedback": "Incorrecto. Solo una lo es."
+          "feedback": "Solo la discontinuidad en x = -3 es evitable; en x = 3 el límite es infinito y no se puede cancelar."
         },
         {
           "letter": "B",
           "text": "Ambas son asintóticas.",
           "is_correct": false,
-          "feedback": "Incorrecto. Solo una lo es."
+          "feedback": "Solo la discontinuidad en x = 3 es asintótica; en x = -3 el factor (x + 3) se cancela y el límite es finito."
         },
         {
           "letter": "C",

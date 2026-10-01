@@ -286,7 +286,7 @@
           "letter": "A",
           "text": "are designing",
           "is_correct": false,
-          "feedback": "Incorrect. Active voice."
+          "feedback": "'Are designing' is the active continuous, which would make the learning paths do the designing rather than receive it."
         },
         {
           "letter": "B",
@@ -298,13 +298,13 @@
           "letter": "C",
           "text": "design",
           "is_correct": false,
-          "feedback": "Incorrect. Active voice."
+          "feedback": "'Design' is the bare infinitive, but the sentence needs the passive 'to be designed' after 'are likely to'."
         },
         {
           "letter": "D",
           "text": "having been designed",
           "is_correct": false,
-          "feedback": "Incorrect."
+          "feedback": "'Having been designed' is the perfect passive participle, which would need a main verb after it; the sentence needs a passive infinitive."
         }
       ],
       "correct_answer": "B",
@@ -664,7 +664,7 @@
           "letter": "D",
           "text": "boredom",
           "is_correct": false,
-          "feedback": "Incorrect. Negative."
+          "feedback": "'Boredom' is a feeling of having nothing interesting to do, not a professional skill, and it is not what the author values."
         }
       ],
       "correct_answer": "A",
@@ -691,7 +691,7 @@
           "letter": "B",
           "text": "Cash",
           "is_correct": false,
-          "feedback": "Incorrect. Physical."
+          "feedback": "'Cash' means physical banknotes and coins, whereas cryptocurrency is entirely digital and secured by cryptography."
         },
         {
           "letter": "A",

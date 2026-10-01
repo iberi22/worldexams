@@ -16,25 +16,25 @@
           "letter": "A",
           "text": "cow",
           "is_correct": true,
-          "feedback": "Correct!"
+          "feedback": "Correct. Cows produce the milk that people drink and use to make cheese and yogurt."
         },
         {
           "letter": "B",
           "text": "pig",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "Pigs give us meat, not milk."
         },
         {
           "letter": "C",
           "text": "duck",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "Ducks give us eggs and meat; their milk is not used for food."
         },
         {
           "letter": "D",
           "text": "hen",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "A hen lays the eggs we eat, which is what we get from her."
         }
       ],
       "correct_answer": "A",
@@ -62,25 +62,25 @@
           "letter": "A",
           "text": "sheep",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "Sheep give us wool and meat, not eggs."
         },
         {
           "letter": "B",
           "text": "hen",
           "is_correct": true,
-          "feedback": "Correct!"
+          "feedback": "Correct. A hen is an adult female chicken, and she lays the eggs we eat."
         },
         {
           "letter": "C",
           "text": "cow",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "Cows give us milk; eggs come from birds such as hens."
         },
         {
           "letter": "D",
           "text": "horse",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "Horses are used for riding and transport; they do not produce eggs."
         }
       ],
       "correct_answer": "B",
@@ -108,25 +108,25 @@
           "letter": "A",
           "text": "duck",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "A duck says 'Quack' and has flat webbed feet."
         },
         {
           "letter": "B",
           "text": "cow",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "A cow says 'Moo' and is much larger, with no curly tail."
         },
         {
           "letter": "C",
           "text": "pig",
           "is_correct": true,
-          "feedback": "Correct!"
+          "feedback": "Correct. Pigs have a curly tail, and 'Oink' is the sound that identifies one."
         },
         {
           "letter": "D",
           "text": "horse",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "A horse says 'Neigh' and has a long mane and tail."
         }
       ],
       "correct_answer": "C",
@@ -154,25 +154,25 @@
           "letter": "A",
           "text": "goat",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "Goats can give milk, but their hair is not the wool used for clothes."
         },
         {
           "letter": "B",
           "text": "pig",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "Pigs give us meat and bristles, not wool."
         },
         {
           "letter": "C",
           "text": "chicken",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "Chickens give us eggs and meat; wool comes from a mammal, not a bird."
         },
         {
           "letter": "D",
           "text": "sheep",
           "is_correct": true,
-          "feedback": "Correct!"
+          "feedback": "Correct. Sheep are shorn for their soft fleece, which becomes the wool used to knit clothes."
         }
       ],
       "correct_answer": "D",
@@ -200,25 +200,25 @@
           "letter": "A",
           "text": "horse",
           "is_correct": true,
-          "feedback": "Correct!"
+          "feedback": "Correct. A horse is trained to be ridden: its back and height are suited to carrying a person."
         },
         {
           "letter": "B",
           "text": "pig",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "A pig is kept for meat; it is too small and is never trained to carry a rider."
         },
         {
           "letter": "C",
           "text": "duck",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "A duck is a bird that swims and flies; no one rides it."
         },
         {
           "letter": "D",
           "text": "chicken",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "A chicken is a bird kept for eggs and meat, far too small to ride."
         }
       ],
       "correct_answer": "A",
@@ -246,25 +246,25 @@
           "letter": "A",
           "text": "sheep",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "A sheep says 'Baa', the sound a lamb makes."
         },
         {
           "letter": "B",
           "text": "duck",
           "is_correct": true,
-          "feedback": "Correct!"
+          "feedback": "Correct. 'Quack' is the sound a duck makes, and it is how we recognize the animal."
         },
         {
           "letter": "C",
           "text": "hen",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "A hen says 'Cluck', or 'Egg, egg, egg' when she lays an egg."
         },
         {
           "letter": "D",
           "text": "cow",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "A cow says 'Moo'."
         }
       ],
       "correct_answer": "B",
@@ -292,25 +292,25 @@
           "letter": "A",
           "text": "cow",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "A cow says 'Moo' in the morning; it does not wake people with a crow."
         },
         {
           "letter": "B",
           "text": "pig",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "Pigs grunt and have no morning call."
         },
         {
           "letter": "C",
           "text": "rooster",
           "is_correct": true,
-          "feedback": "Correct!"
+          "feedback": "Correct. A rooster crows at dawn, and that call is what wakes people up on the farm."
         },
         {
           "letter": "D",
           "text": "duck",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "A duck quacks, usually around water, and does not announce the sunrise."
         }
       ],
       "correct_answer": "C",
@@ -338,25 +338,25 @@
           "letter": "A",
           "text": "house",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "A house is where people live; farm animals are kept in a separate building."
         },
         {
           "letter": "B",
           "text": "garage",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "A garage is for cars and tools."
         },
         {
           "letter": "C",
           "text": "kitchen",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "A kitchen is the room where food is prepared inside a home."
         },
         {
           "letter": "D",
           "text": "barn",
           "is_correct": true,
-          "feedback": "Correct!"
+          "feedback": "Correct. A barn is the farm building where animals are kept and where hay and tools are stored."
         }
       ],
       "correct_answer": "D",

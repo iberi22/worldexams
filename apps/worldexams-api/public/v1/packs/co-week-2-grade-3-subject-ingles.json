@@ -9,41 +9,41 @@
   "questions": [
     {
       "id": "CO-ING-3-2026-W02-alphabet-spelling-001-MASTERY-bundle-v1",
-      "statement": "What is the English word for: \"A place where you live or stay on holiday.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Which letter comes right after M in the English alphabet?",
+      "context": "Clase de ingles de tercer grado en la que los estudiantes repiten el abecedario en voz alta.",
       "options": [
         {
-          "letter": "C",
-          "text": "accommodation",
-          "is_correct": true,
-          "feedback": "Correct! 'accommodation' matches the definition."
-        },
-        {
           "letter": "A",
-          "text": "transportation",
+          "text": "L",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "B",
-          "text": "entertainment",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "L comes before M in the alphabet, because the order goes L, M and then N."
         },
         {
           "letter": "D",
-          "text": "currency",
+          "text": "N",
+          "is_correct": true,
+          "feedback": "In the English alphabet the letter N comes right after M."
+        },
+        {
+          "letter": "B",
+          "text": "O",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "O comes two letters after M, because N comes between them."
+        },
+        {
+          "letter": "C",
+          "text": "K",
+          "is_correct": false,
+          "feedback": "K is three positions before M in the alphabet, so it does not follow it."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "The word 'accommodation' is used to describe a place where you live or stay on holiday. This is an important vocabulary word in English.\n---",
+      "correct_answer": "D",
+      "explanation": "Memorizar el abecedario en orden facilita deletrear y escribir. La pregunta comprueba la posicion exacta de una letra concreta, y para responder basta con reciting el tramo K, L, M, N y observar que la letra buscada va inmediatamente despues.",
       "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Remember",
-      "icfes_type": "Lexico",
+      "icfes_type": "Uso de la lengua",
       "expected_success": 0.8,
       "bundle_id": "CO-ING-3-2026-W02-alphabet-spelling-001-MASTERY-bundle",
       "periodo": 2,
@@ -55,41 +55,41 @@
     },
     {
       "id": "CO-ING-3-2026-W02-alphabet-spelling-001-MASTERY-bundle-v2",
-      "statement": "What is the English word for: \"A detailed plan or route of a journey.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "How do you spell the letter \"R\" in English?",
+      "context": "Ejercicio de deletreo oral durante la entrega de tarjetas de presentacion.",
       "options": [
         {
-          "letter": "B",
-          "text": "itinerary",
-          "is_correct": true,
-          "feedback": "Correct! 'itinerary' matches the definition."
-        },
-        {
           "letter": "A",
-          "text": "baggage",
+          "text": "Arre",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Arre uses a double r and would be the Spanish name of the letter R, not the English one."
         },
         {
-          "letter": "C",
-          "text": "destination",
+          "letter": "B",
+          "text": "Ere",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Ere is the Spanish name of the letter R and is not the English spelling."
         },
         {
           "letter": "D",
-          "text": "passport",
+          "text": "Are",
+          "is_correct": true,
+          "feedback": "In English the letter R is spelled are, with a vowel first, and that is the spelling used to spell it out."
+        },
+        {
+          "letter": "C",
+          "text": "Ah-re",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "That spelling mixes the initial A with a final r and does not match the letter R of the English alphabet."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "The word 'itinerary' is used to describe a detailed plan or route of a journey. This is an important vocabulary word in English.\n---",
+      "correct_answer": "D",
+      "explanation": "Las letras del abecedario ingles tienen nombres propios que no siempre coinciden con los del espanol. La R inglesa se llama are, mientras que en espanol se escribe erre, y esa diferencia de ortografia es la que este ejercicio comprueba.",
       "difficulty": "4",
       "images": [],
       "tags": [],
-      "bloom": "Understand",
-      "icfes_type": "Lexico",
+      "bloom": "Apply",
+      "icfes_type": "Uso de la lengua",
       "expected_success": 0.8,
       "bundle_id": "CO-ING-3-2026-W02-alphabet-spelling-001-MASTERY-bundle",
       "periodo": 2,
@@ -101,42 +101,42 @@
     },
     {
       "id": "CO-ING-3-2026-W02-alphabet-spelling-001-MASTERY-bundle-v3",
-      "statement": "What is the English word for: \"The place to which someone or something is going or being sent.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Which word is spelled correctly?",
+      "context": "Actividad de escritura del nombre de un compañero en una tarjeta.",
       "options": [
         {
           "letter": "A",
-          "text": "destination",
-          "is_correct": true,
-          "feedback": "Correct! 'destination' matches the definition."
+          "text": "Escuela",
+          "is_correct": false,
+          "feedback": "That word is written with a V instead of an S, and school is spelled with sc."
         },
         {
           "letter": "B",
-          "text": "departure",
+          "text": "Scuel",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "That form drops the second s in school and gives scuel, which is not an English word."
         },
         {
           "letter": "C",
-          "text": "arrival",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "text": "School",
+          "is_correct": true,
+          "feedback": "school is spelled with sh at the start, oo in the middle and l at the end."
         },
         {
           "letter": "D",
-          "text": "journey",
+          "text": "Esquol",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "That form changes the u into an o and gives esquol, which is not the correct spelling."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'destination' is used to describe the place to which someone or something is going or being sent. This is an important vocabulary word in English.\n---",
-      "difficulty": "6",
+      "correct_answer": "C",
+      "explanation": "El deletreo por sonido funciona bien con palabras simples, pero algunas combinaciones inglesas no siguen la regla esperada y deben aprenderse como unidades. La palabra school pertenece a ese grupo, igual que she o science, porque sh y sc se pronuncian igual pero se escriben distinto.",
+      "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Apply",
-      "icfes_type": "Lexico",
-      "expected_success": 0.8,
+      "icfes_type": "Uso de la lengua",
+      "expected_success": 0.85,
       "bundle_id": "CO-ING-3-2026-W02-alphabet-spelling-001-MASTERY-bundle",
       "periodo": 2,
       "protocol_version": "5.2",
@@ -147,41 +147,41 @@
     },
     {
       "id": "CO-ING-3-2026-W02-alphabet-spelling-001-MASTERY-bundle-v4",
-      "statement": "What is the English word for: \"Suitcases or other bags in which to pack personal belongings for traveling.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Read: \"Sofia writes her name as S-O-F-I-A.\" How many letters does she spell?",
+      "context": "Ejercicio de deletreo de su propio nombre completo en la mesa de orientacion.",
       "options": [
         {
           "letter": "B",
-          "text": "luggage",
-          "is_correct": true,
-          "feedback": "Correct! 'luggage' matches the definition."
+          "text": "Four",
+          "is_correct": false,
+          "feedback": "Four would be the total if one letter were missing from the sequence S O F I A."
         },
         {
           "letter": "A",
-          "text": "ticket",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "text": "Five",
+          "is_correct": true,
+          "feedback": "The sequence S O F I A has five letters, which are S, O, F, I and A."
         },
         {
           "letter": "C",
-          "text": "flight",
+          "text": "Six",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Six letters would be one more than the hyphens in the sentence show."
         },
         {
           "letter": "D",
-          "text": "reservation",
+          "text": "Three",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Three counts only the vowels, and the question asks for every letter of the name."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "The word 'luggage' is used to describe suitcases or other bags in which to pack personal belongings for traveling. This is an important vocabulary word in English.\n---",
-      "difficulty": "6",
+      "correct_answer": "A",
+      "explanation": "Contar los elementos de una secuencia separada por guiones es una habilidad de lectura muy util para el deletreo. Cada guion marca un limite, de modo que el numero de guiones mas uno da la cantidad total de letras.",
+      "difficulty": "4",
       "images": [],
       "tags": [],
-      "bloom": "Apply",
-      "icfes_type": "Lexico",
+      "bloom": "Understand",
+      "icfes_type": "Uso de la lengua",
       "expected_success": 0.8,
       "bundle_id": "CO-ING-3-2026-W02-alphabet-spelling-001-MASTERY-bundle",
       "periodo": 2,
@@ -193,42 +193,42 @@
     },
     {
       "id": "CO-ING-3-2026-W02-alphabet-spelling-001-MASTERY-bundle-v5",
-      "statement": "What is the English word for: \"A traveler on a public or private conveyance other than the driver, pilot, or crew.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Which word begins with the letter \"T\"?",
+      "context": "Ejercicio de escritura de las palabras del abecedario en la libreta del curso.",
       "options": [
         {
-          "letter": "A",
-          "text": "passenger",
-          "is_correct": true,
-          "feedback": "Correct! 'passenger' matches the definition."
-        },
-        {
           "letter": "B",
-          "text": "pedestrian",
+          "text": "Cat",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "cat starts with the letter C, not with T."
         },
         {
           "letter": "C",
-          "text": "commuter",
+          "text": "Book",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "book starts with the letter B, not with T."
         },
         {
           "letter": "D",
-          "text": "tourist",
+          "text": "Fish",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "fish starts with the letter F, not with T."
+        },
+        {
+          "letter": "A",
+          "text": "Table",
+          "is_correct": true,
+          "feedback": "table starts with T, which is the letter the question asks for."
         }
       ],
       "correct_answer": "A",
-      "explanation": "The word 'passenger' is used to describe a traveler on a public or private conveyance other than the driver, pilot, or crew. This is an important vocabulary word in English.\n---",
-      "difficulty": "8",
+      "explanation": "Asociar cada letra del abecedario con una palabra que empiece por ella construye un repertorio de vocabulario y reinforce la escritura. Esa estrategia es la que permite escribir palabras nuevas sin tener que consultar el diccionario para cada una.",
+      "difficulty": "4",
       "images": [],
       "tags": [],
-      "bloom": "Analyze",
-      "icfes_type": "Lexico",
-      "expected_success": 0.8,
+      "bloom": "Apply",
+      "icfes_type": "Uso de la lengua",
+      "expected_success": 0.85,
       "bundle_id": "CO-ING-3-2026-W02-alphabet-spelling-001-MASTERY-bundle",
       "periodo": 2,
       "protocol_version": "5.2",
@@ -239,42 +239,42 @@
     },
     {
       "id": "CO-ING-3-2026-W02-alphabet-spelling-001-MASTERY-bundle-v6",
-      "statement": "What is the English word for: \"The place at a port, airport, or frontier where officials check incoming goods, travelers, or luggage.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Read the note: \"My birthday is on the fifth of March.\" Which letter does the month start with?",
+      "context": "Lectura de una tarjeta escrita por un compañero del curso.",
       "options": [
         {
-          "letter": "B",
-          "text": "customs",
-          "is_correct": true,
-          "feedback": "Correct! 'customs' matches the definition."
+          "letter": "A",
+          "text": "F",
+          "is_correct": false,
+          "feedback": "F is the initial of fifth, the word that spells the day."
         },
         {
-          "letter": "A",
-          "text": "security",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "letter": "B",
+          "text": "M",
+          "is_correct": true,
+          "feedback": "The month is March, and that word starts with the letter M."
         },
         {
           "letter": "C",
-          "text": "terminal",
+          "text": "B",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "B is the initial of birthday, which is the noun in the subject of the sentence."
         },
         {
           "letter": "D",
-          "text": "gate",
+          "text": "T",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "T is the initial of the, an article, and does not name any month."
         }
       ],
       "correct_answer": "B",
-      "explanation": "The word 'customs' is used to describe the place at a port, airport, or frontier where officials check incoming goods, travelers, or luggage. This is an important vocabulary word in English.\n---",
-      "difficulty": "8",
+      "explanation": "Leer de izquierda a derecha y localizar la palabra que responde a la pregunta evita confundir palabras similares. El enunciado pide el inicio del mes, y como el mes se escribe March, la inicial buscada es M y no la de otra palabra de la frase.",
+      "difficulty": "4",
       "images": [],
       "tags": [],
-      "bloom": "Analyze",
-      "icfes_type": "Lexico",
-      "expected_success": 0.8,
+      "bloom": "Understand",
+      "icfes_type": "Uso de la lengua",
+      "expected_success": 0.85,
       "bundle_id": "CO-ING-3-2026-W02-alphabet-spelling-001-MASTERY-bundle",
       "periodo": 2,
       "protocol_version": "5.2",
@@ -285,41 +285,41 @@
     },
     {
       "id": "CO-ING-3-2026-W02-alphabet-spelling-001-MASTERY-bundle-v7",
-      "statement": "What is the English word for: \"A document provided by an airline during check-in, giving a passenger permission to board the airplane.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "The letters C, A, R spell a vehicle. What is the word?",
+      "context": "Ejercicio de ordenamiento de letras para formar palabras de la unidad.",
       "options": [
         {
-          "letter": "C",
-          "text": "boarding pass",
-          "is_correct": true,
-          "feedback": "Correct! 'boarding pass' matches the definition."
-        },
-        {
           "letter": "A",
-          "text": "visa",
+          "text": "arc",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "arc uses the three letters, but that word does not name any vehicle."
         },
         {
           "letter": "B",
-          "text": "receipt",
+          "text": "car",
+          "is_correct": true,
+          "feedback": "The letters C, A and R in order spell car, which means vehicle in English."
+        },
+        {
+          "letter": "C",
+          "text": "cra",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "cra is not an English word and does not name any means of transport."
         },
         {
           "letter": "D",
-          "text": "brochure",
+          "text": "rac",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "rac does not exist as a word either and does not name a vehicle."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "The word 'boarding pass' is used to describe a document provided by an airline during check-in, giving a passenger permission to board the airplane. This is an important vocabulary word in English.\n---",
-      "difficulty": "10",
+      "correct_answer": "B",
+      "explanation": "Reordenar letras es una forma de comprobar que se reconoce una palabra y no solo su traducion. Las tres letras C, A y R pueden formar varias combinaciones, y el dato del enunciado sobre el significado es lo que decide que el orden correcto es car.",
+      "difficulty": "4",
       "images": [],
       "tags": [],
-      "bloom": "Evaluate",
-      "icfes_type": "Lexico",
+      "bloom": "Apply",
+      "icfes_type": "Uso de la lengua",
       "expected_success": 0.8,
       "bundle_id": "CO-ING-3-2026-W02-alphabet-spelling-001-MASTERY-bundle",
       "periodo": 2,
@@ -331,41 +331,41 @@
     },
     {
       "id": "CO-ING-3-2026-W02-alphabet-spelling-001-MASTERY-bundle-v8",
-      "statement": "What is the English word for: \"The activity of visiting places of interest in a particular location.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "The teacher writes the days of the week on the board. Which word is a day of the week?",
+      "context": "Actividad final de la unidad en la que cada estudiante escribe su nombre y el de un amigo.",
       "options": [
         {
           "letter": "A",
-          "text": "sightseeing",
-          "is_correct": true,
-          "feedback": "Correct! 'sightseeing' matches the definition."
+          "text": "table",
+          "is_correct": false,
+          "feedback": "table is a piece of furniture and not the name of any day of the week."
         },
         {
           "letter": "B",
-          "text": "shopping",
+          "text": "window",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "C",
-          "text": "hiking",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "window is a window and does not appear in the list of days."
         },
         {
           "letter": "D",
-          "text": "camping",
+          "text": "banana",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "banana is a fruit and has nothing to do with the names of the days."
+        },
+        {
+          "letter": "C",
+          "text": "Tuesday",
+          "is_correct": true,
+          "feedback": "Tuesday is the name of the day after Monday and is part of the week."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'sightseeing' is used to describe the activity of visiting places of interest in a particular location. This is an important vocabulary word in English.",
-      "difficulty": "10",
+      "correct_answer": "C",
+      "explanation": "Reconocer los nombres de los dias es parte del deletreo porque son palabras que el estudiante escribe desde muy temprano. Todos empiezan por mayuscula en ingles y se ordenan de Monday a Sunday, una secuencia que conviene aprender como bloque.",
+      "difficulty": "4",
       "images": [],
       "tags": [],
-      "bloom": "Evaluate",
-      "icfes_type": "Lexico",
+      "bloom": "Understand",
+      "icfes_type": "Uso de la lengua",
       "expected_success": 0.8,
       "bundle_id": "CO-ING-3-2026-W02-alphabet-spelling-001-MASTERY-bundle",
       "periodo": 2,

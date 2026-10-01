@@ -8,41 +8,41 @@
   },
   "questions": [
     {
-      "id": "EC-ING-11-2026-W34-vocabulary-work-careers-001-MASTERY-v1",
-      "statement": "What is the English word for: \"A place where you live or stay on holiday.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "id": "EC-ING-11-2026-W34-vocabulary-work-careers-001-MASTERY-bundle-v1",
+      "statement": "Choose the best word: 'The ____ was responsible for training new employees.'",
+      "context": "Vocabulario de profesiones, Quito, grado 11.",
       "options": [
         {
-          "letter": "B",
-          "text": "accommodation",
-          "is_correct": true,
-          "feedback": "Correct! 'accommodation' matches the definition."
+          "letter": "A",
+          "text": "trainee",
+          "is_correct": false,
+          "feedback": "'Trainee' is the person who receives the training."
         },
         {
-          "letter": "A",
-          "text": "transportation",
+          "letter": "B",
+          "text": "client",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "'Client' is a customer of a service or business."
         },
         {
           "letter": "C",
-          "text": "entertainment",
+          "text": "supplier",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "'Supplier' is a company or person that provides goods or materials."
         },
         {
           "letter": "D",
-          "text": "currency",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "text": "trainer",
+          "is_correct": true,
+          "feedback": "'Trainer' is the person who trains or instructs others."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "The word 'accommodation' is used to describe a place where you live or stay on holiday. This is an important vocabulary word in English.\n---",
-      "difficulty": "3",
+      "correct_answer": "D",
+      "explanation": "Quien se encarga de formar a los empleados nuevos es el responsable de capacitacion.\n\n---",
+      "difficulty": "4",
       "images": [],
       "tags": [],
-      "bloom": "Remember",
+      "bloom": "Apply",
       "expected_success": 0.8,
       "bundle_id": "EC-ING-11-2026-W34-vocabulary-work-careers-001-MASTERY-bundle",
       "periodo": 34,
@@ -53,37 +53,37 @@
       "country": "ec"
     },
     {
-      "id": "EC-ING-11-2026-W34-vocabulary-work-careers-001-MASTERY-v2",
-      "statement": "What is the English word for: \"A detailed plan or route of a journey.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "id": "EC-ING-11-2026-W34-vocabulary-work-careers-001-MASTERY-bundle-v2",
+      "statement": "Which profession is responsible for diagnosing medical conditions?",
+      "context": "Vocabulario medico-laboral, Guayaquil.",
       "options": [
         {
-          "letter": "C",
-          "text": "itinerary",
-          "is_correct": true,
-          "feedback": "Correct! 'itinerary' matches the definition."
-        },
-        {
           "letter": "A",
-          "text": "baggage",
+          "text": "nurse",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "A nurse assists patients and administers treatment under medical supervision."
         },
         {
           "letter": "B",
-          "text": "destination",
+          "text": "pharmacist",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "A pharmacist prepares and dispenses medicines."
+        },
+        {
+          "letter": "C",
+          "text": "doctor",
+          "is_correct": true,
+          "feedback": "A doctor diagnoses conditions and prescribes treatment."
         },
         {
           "letter": "D",
-          "text": "passport",
+          "text": "surgeon",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "A surgeon operates, which is a specific part of a doctor's work."
         }
       ],
       "correct_answer": "C",
-      "explanation": "The word 'itinerary' is used to describe a detailed plan or route of a journey. This is an important vocabulary word in English.\n---",
+      "explanation": "El diagnostico de enfermedades corresponde al medico; la enfermera asiste y aplica tratamientos.\n\n---",
       "difficulty": "4",
       "images": [],
       "tags": [],
@@ -98,41 +98,41 @@
       "country": "ec"
     },
     {
-      "id": "EC-ING-11-2026-W34-vocabulary-work-careers-001-MASTERY-v3",
-      "statement": "What is the English word for: \"The place to which someone or something is going or being sent.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "id": "EC-ING-11-2026-W34-vocabulary-work-careers-001-MASTERY-bundle-v3",
+      "statement": "Complete the sentence: 'She works as a ____ and teaches mathematics to secondary students.'",
+      "context": "Vocabulario de profesiones, Cuenca.",
       "options": [
         {
-          "letter": "D",
-          "text": "destination",
-          "is_correct": true,
-          "feedback": "Correct! 'destination' matches the definition."
-        },
-        {
           "letter": "A",
-          "text": "departure",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "text": "teacher",
+          "is_correct": true,
+          "feedback": "'Teacher' is the standard word for someone who teaches at a school."
         },
         {
           "letter": "B",
-          "text": "arrival",
+          "text": "engineer",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "An engineer designs or builds technical systems."
         },
         {
           "letter": "C",
-          "text": "journey",
+          "text": "accountant",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "An accountant records and analyses financial transactions."
+        },
+        {
+          "letter": "D",
+          "text": "lawyer",
+          "is_correct": false,
+          "feedback": "A lawyer advises clients on legal matters and represents them in court."
         }
       ],
-      "correct_answer": "D",
-      "explanation": "The word 'destination' is used to describe the place to which someone or something is going or being sent. This is an important vocabulary word in English.\n---",
-      "difficulty": "3",
+      "correct_answer": "A",
+      "explanation": "La persona que ensena matematicas en secundaria es docente o profesor. Es uno de los puntos mas frecuentes de las pruebas de esta unidad.\n\n---",
+      "difficulty": "4",
       "images": [],
       "tags": [],
-      "bloom": "Understand",
+      "bloom": "Apply",
       "expected_success": 0.8,
       "bundle_id": "EC-ING-11-2026-W34-vocabulary-work-careers-001-MASTERY-bundle",
       "periodo": 34,
@@ -143,37 +143,37 @@
       "country": "ec"
     },
     {
-      "id": "EC-ING-11-2026-W34-vocabulary-work-careers-001-MASTERY-v4",
-      "statement": "What is the English word for: \"Suitcases or other bags in which to pack personal belongings for traveling.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "id": "EC-ING-11-2026-W34-vocabulary-work-careers-001-MASTERY-bundle-v4",
+      "statement": "What does a receptionist do?",
+      "context": "Vocabulario de oficina, Quito.",
       "options": [
         {
           "letter": "A",
-          "text": "luggage",
+          "text": "Welcomes visitors and manages incoming calls",
           "is_correct": true,
-          "feedback": "Correct! 'luggage' matches the definition."
+          "feedback": "That is the core administrative function of the role."
         },
         {
           "letter": "B",
-          "text": "ticket",
+          "text": "Develops new software programs",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "That is the work of a software developer or programmer."
         },
         {
           "letter": "C",
-          "text": "flight",
+          "text": "Performs medical examinations",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "That is the work of a doctor or nurse."
         },
         {
           "letter": "D",
-          "text": "reservation",
+          "text": "Drives goods between cities",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "That is the work of a truck driver or courier."
         }
       ],
       "correct_answer": "A",
-      "explanation": "The word 'luggage' is used to describe suitcases or other bags in which to pack personal belongings for traveling. This is an important vocabulary word in English.\n---",
+      "explanation": "La recepcionista atiende a los visitantes, responde el telefono y organiza la agenda.\n\n---",
       "difficulty": "4",
       "images": [],
       "tags": [],
@@ -188,443 +188,83 @@
       "country": "ec"
     },
     {
-      "id": "EC-ING-11-2026-W34-vocabulary-work-careers-001-MASTERY-v5",
-      "statement": "What is the English word for: \"A traveler on a public or private conveyance other than the driver, pilot, or crew.\"",
-      "context": "Choose the correct English word for the given definition.",
-      "options": [
-        {
-          "letter": "D",
-          "text": "passenger",
-          "is_correct": true,
-          "feedback": "Correct! 'passenger' matches the definition."
-        },
-        {
-          "letter": "A",
-          "text": "pedestrian",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "B",
-          "text": "commuter",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "C",
-          "text": "tourist",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        }
-      ],
-      "correct_answer": "D",
-      "explanation": "The word 'passenger' is used to describe a traveler on a public or private conveyance other than the driver, pilot, or crew. This is an important vocabulary word in English.\n---",
-      "difficulty": "5",
-      "images": [],
-      "tags": [],
-      "bloom": "Understand",
-      "expected_success": 0.8,
-      "bundle_id": "EC-ING-11-2026-W34-vocabulary-work-careers-001-MASTERY-bundle",
-      "periodo": 34,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ingles",
-      "grade": 11,
-      "country": "ec"
-    },
-    {
-      "id": "EC-ING-11-2026-W34-vocabulary-work-careers-001-MASTERY-v6",
-      "statement": "What is the English word for: \"The place at a port, airport, or frontier where officials check incoming goods, travelers, or luggage.\"",
-      "context": "Choose the correct English word for the given definition.",
-      "options": [
-        {
-          "letter": "D",
-          "text": "customs",
-          "is_correct": true,
-          "feedback": "Correct! 'customs' matches the definition."
-        },
-        {
-          "letter": "A",
-          "text": "security",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "B",
-          "text": "terminal",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "C",
-          "text": "gate",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        }
-      ],
-      "correct_answer": "D",
-      "explanation": "The word 'customs' is used to describe the place at a port, airport, or frontier where officials check incoming goods, travelers, or luggage. This is an important vocabulary word in English.\n---",
-      "difficulty": "6",
-      "images": [],
-      "tags": [],
-      "bloom": "Understand",
-      "expected_success": 0.8,
-      "bundle_id": "EC-ING-11-2026-W34-vocabulary-work-careers-001-MASTERY-bundle",
-      "periodo": 34,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ingles",
-      "grade": 11,
-      "country": "ec"
-    },
-    {
-      "id": "EC-ING-11-2026-W34-vocabulary-work-careers-001-MASTERY-v7",
-      "statement": "What is the English word for: \"A document provided by an airline during check-in, giving a passenger permission to board the airplane.\"",
-      "context": "Choose the correct English word for the given definition.",
-      "options": [
-        {
-          "letter": "D",
-          "text": "boarding pass",
-          "is_correct": true,
-          "feedback": "Correct! 'boarding pass' matches the definition."
-        },
-        {
-          "letter": "A",
-          "text": "visa",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "B",
-          "text": "receipt",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "C",
-          "text": "brochure",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        }
-      ],
-      "correct_answer": "D",
-      "explanation": "The word 'boarding pass' is used to describe a document provided by an airline during check-in, giving a passenger permission to board the airplane. This is an important vocabulary word in English.\n---",
-      "difficulty": "5",
-      "images": [],
-      "tags": [],
-      "bloom": "Apply",
-      "expected_success": 0.8,
-      "bundle_id": "EC-ING-11-2026-W34-vocabulary-work-careers-001-MASTERY-bundle",
-      "periodo": 34,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ingles",
-      "grade": 11,
-      "country": "ec"
-    },
-    {
-      "id": "EC-ING-11-2026-W34-vocabulary-work-careers-001-MASTERY-v8",
-      "statement": "What is the English word for: \"The activity of visiting places of interest in a particular location.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "id": "EC-ING-11-2026-W34-vocabulary-work-careers-001-MASTERY-bundle-v5",
+      "statement": "Choose the correct word: 'A ____ designs the structure of a new building.'",
+      "context": "Vocabulario de oficios, Guayaquil.",
       "options": [
         {
           "letter": "A",
-          "text": "sightseeing",
-          "is_correct": true,
-          "feedback": "Correct! 'sightseeing' matches the definition."
+          "text": "carpenter",
+          "is_correct": false,
+          "feedback": "A carpenter builds furniture and works with wood in construction."
         },
         {
           "letter": "B",
-          "text": "shopping",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "C",
-          "text": "hiking",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "D",
-          "text": "camping",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "The word 'sightseeing' is used to describe the activity of visiting places of interest in a particular location. This is an important vocabulary word in English.\n---",
-      "difficulty": "6",
-      "images": [],
-      "tags": [],
-      "bloom": "Apply",
-      "expected_success": 0.8,
-      "bundle_id": "EC-ING-11-2026-W34-vocabulary-work-careers-001-MASTERY-bundle",
-      "periodo": 34,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ingles",
-      "grade": 11,
-      "country": "ec"
-    },
-    {
-      "id": "EC-ING-11-2026-W34-vocabulary-work-careers-001-MASTERY-v9",
-      "statement": "What is the English word for: \"A thing that is kept as a reminder of a person, place, or event.\"",
-      "context": "Choose the correct English word for the given definition.",
-      "options": [
-        {
-          "letter": "C",
-          "text": "souvenir",
+          "text": "architect",
           "is_correct": true,
-          "feedback": "Correct! 'souvenir' matches the definition."
-        },
-        {
-          "letter": "A",
-          "text": "gift",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "B",
-          "text": "award",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "D",
-          "text": "prize",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        }
-      ],
-      "correct_answer": "C",
-      "explanation": "The word 'souvenir' is used to describe a thing that is kept as a reminder of a person, place, or event. This is an important vocabulary word in English.\n---",
-      "difficulty": "5",
-      "images": [],
-      "tags": [],
-      "bloom": "Apply",
-      "expected_success": 0.8,
-      "bundle_id": "EC-ING-11-2026-W34-vocabulary-work-careers-001-MASTERY-bundle",
-      "periodo": 34,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ingles",
-      "grade": 11,
-      "country": "ec"
-    },
-    {
-      "id": "EC-ING-11-2026-W34-vocabulary-work-careers-001-MASTERY-v10",
-      "statement": "What is the English word for: \"A period of time by which something is late or postponed.\"",
-      "context": "Choose the correct English word for the given definition.",
-      "options": [
-        {
-          "letter": "C",
-          "text": "delay",
-          "is_correct": true,
-          "feedback": "Correct! 'delay' matches the definition."
-        },
-        {
-          "letter": "A",
-          "text": "cancellation",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "B",
-          "text": "departure",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "D",
-          "text": "arrival",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        }
-      ],
-      "correct_answer": "C",
-      "explanation": "The word 'delay' is used to describe a period of time by which something is late or postponed. This is an important vocabulary word in English.\n---",
-      "difficulty": "6",
-      "images": [],
-      "tags": [],
-      "bloom": "Apply",
-      "expected_success": 0.8,
-      "bundle_id": "EC-ING-11-2026-W34-vocabulary-work-careers-001-MASTERY-bundle",
-      "periodo": 34,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ingles",
-      "grade": 11,
-      "country": "ec"
-    },
-    {
-      "id": "EC-ING-11-2026-W34-vocabulary-work-careers-001-MASTERY-v11",
-      "statement": "What is the English word for: \"The act of reporting one's presence and registering, typically at an airport or hotel.\"",
-      "context": "Choose the correct English word for the given definition.",
-      "options": [
-        {
-          "letter": "D",
-          "text": "check-in",
-          "is_correct": true,
-          "feedback": "Correct! 'check-in' matches the definition."
-        },
-        {
-          "letter": "A",
-          "text": "check-out",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "B",
-          "text": "booking",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "'Architect' designs buildings and their structures."
         },
         {
           "letter": "C",
-          "text": "reservation",
+          "text": "surveyor",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        }
-      ],
-      "correct_answer": "D",
-      "explanation": "The word 'check-in' is used to describe the act of reporting one's presence and registering, typically at an airport or hotel. This is an important vocabulary word in English.\n---",
-      "difficulty": "7",
-      "images": [],
-      "tags": [],
-      "bloom": "Apply",
-      "expected_success": 0.8,
-      "bundle_id": "EC-ING-11-2026-W34-vocabulary-work-careers-001-MASTERY-bundle",
-      "periodo": 34,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ingles",
-      "grade": 11,
-      "country": "ec"
-    },
-    {
-      "id": "EC-ING-11-2026-W34-vocabulary-work-careers-001-MASTERY-v12",
-      "statement": "What is the English word for: \"A period of rest or waiting before a further stage in a journey.\"",
-      "context": "Choose the correct English word for the given definition.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "layover",
-          "is_correct": true,
-          "feedback": "Correct! 'layover' matches the definition."
-        },
-        {
-          "letter": "B",
-          "text": "stopover",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "C",
-          "text": "transfer",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "A surveyor measures land and buildings for legal or technical purposes."
         },
         {
           "letter": "D",
-          "text": "transit",
+          "text": "electrician",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "The word 'layover' is used to describe a period of rest or waiting before a further stage in a journey. This is an important vocabulary word in English.\n---",
-      "difficulty": "8",
-      "images": [],
-      "tags": [],
-      "bloom": "Apply",
-      "expected_success": 0.8,
-      "bundle_id": "EC-ING-11-2026-W34-vocabulary-work-careers-001-MASTERY-bundle",
-      "periodo": 34,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ingles",
-      "grade": 11,
-      "country": "ec"
-    },
-    {
-      "id": "EC-ING-11-2026-W34-vocabulary-work-careers-001-MASTERY-v13",
-      "statement": "What is the English word for: \"A system of money in general use in a particular country.\"",
-      "context": "Choose the correct English word for the given definition.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "currency",
-          "is_correct": true,
-          "feedback": "Correct! 'currency' matches the definition."
-        },
-        {
-          "letter": "B",
-          "text": "coin",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "C",
-          "text": "banknote",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "D",
-          "text": "cash",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "The word 'currency' is used to describe a system of money in general use in a particular country. This is an important vocabulary word in English.\n---",
-      "difficulty": "7",
-      "images": [],
-      "tags": [],
-      "bloom": "Analyze",
-      "expected_success": 0.8,
-      "bundle_id": "EC-ING-11-2026-W34-vocabulary-work-careers-001-MASTERY-bundle",
-      "periodo": 34,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ingles",
-      "grade": 11,
-      "country": "ec"
-    },
-    {
-      "id": "EC-ING-11-2026-W34-vocabulary-work-careers-001-MASTERY-v14",
-      "statement": "What is the English word for: \"A book of information about a place designed for the use of visitors or tourists.\"",
-      "context": "Choose the correct English word for the given definition.",
-      "options": [
-        {
-          "letter": "B",
-          "text": "guidebook",
-          "is_correct": true,
-          "feedback": "Correct! 'guidebook' matches the definition."
-        },
-        {
-          "letter": "A",
-          "text": "map",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "C",
-          "text": "dictionary",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "D",
-          "text": "encyclopedia",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "An electrician installs and repairs electrical systems."
         }
       ],
       "correct_answer": "B",
-      "explanation": "The word 'guidebook' is used to describe a book of information about a place designed for the use of visitors or tourists. This is an important vocabulary word in English.\n---",
-      "difficulty": "8",
+      "explanation": "El profesional que proyecta la estructura de un edificio es el arquitecto. Conviene practicarlo con otros ejemplos antes del examen.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.8,
+      "bundle_id": "EC-ING-11-2026-W34-vocabulary-work-careers-001-MASTERY-bundle",
+      "periodo": 34,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-ING-11-2026-W34-vocabulary-work-careers-001-MASTERY-bundle-v6",
+      "statement": "What is the difference between 'a job' and 'a career'?",
+      "context": "Vocabulario de trabajo, Quito.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Both words refer to the same single position",
+          "is_correct": false,
+          "feedback": "The words differ in scope: one is a role, the other a trajectory."
+        },
+        {
+          "letter": "B",
+          "text": "A job is a single position; a career is a long professional path",
+          "is_correct": true,
+          "feedback": "Career covers many jobs and the person's development."
+        },
+        {
+          "letter": "C",
+          "text": "A job is what you study; a career is what you do",
+          "is_correct": false,
+          "feedback": "Both terms refer to work, not to formal study alone."
+        },
+        {
+          "letter": "D",
+          "text": "A career is a form of unpaid work",
+          "is_correct": false,
+          "feedback": "A career can be paid, unpaid or any professional path."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Un trabajo es una ocupacion concreta; una carrera es la trayectoria profesional larga de una persona.\n\n---",
+      "difficulty": "6",
       "images": [],
       "tags": [],
       "bloom": "Analyze",
@@ -638,41 +278,41 @@
       "country": "ec"
     },
     {
-      "id": "EC-ING-11-2026-W34-vocabulary-work-careers-001-MASTERY-v15",
-      "statement": "What is the English word for: \"A bag with shoulder straps that allow it to be carried on one's back.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "id": "EC-ING-11-2026-W34-vocabulary-work-careers-001-MASTERY-bundle-v7",
+      "statement": "Complete the dialogue: 'A: Why did he change ____? B: He wanted a better salary.'",
+      "context": "Vocabulario laboral, Guayaquil.",
       "options": [
         {
-          "letter": "C",
-          "text": "backpack",
-          "is_correct": true,
-          "feedback": "Correct! 'backpack' matches the definition."
-        },
-        {
           "letter": "A",
-          "text": "suitcase",
+          "text": "career",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "'Change one's career' would imply leaving a professional field entirely."
         },
         {
           "letter": "B",
-          "text": "briefcase",
+          "text": "hand",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "'Change one's hand' would mean adjusting one's grip."
+        },
+        {
+          "letter": "C",
+          "text": "job",
+          "is_correct": true,
+          "feedback": "'Change one's job' is the natural collocation for moving to another position."
         },
         {
           "letter": "D",
-          "text": "handbag",
+          "text": "mind",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "'Change one's mind' means deciding differently, not moving positions."
         }
       ],
       "correct_answer": "C",
-      "explanation": "The word 'backpack' is used to describe a bag with shoulder straps that allow it to be carried on one's back. This is an important vocabulary word in English.\n---",
-      "difficulty": "7",
+      "explanation": "La palabra 'job' significa empleo o puesto de trabajo y encaja con la idea de un cambio de trabajo.\n\n---",
+      "difficulty": "4",
       "images": [],
       "tags": [],
-      "bloom": "Analyze",
+      "bloom": "Apply",
       "expected_success": 0.8,
       "bundle_id": "EC-ING-11-2026-W34-vocabulary-work-careers-001-MASTERY-bundle",
       "periodo": 34,
@@ -683,86 +323,41 @@
       "country": "ec"
     },
     {
-      "id": "EC-ING-11-2026-W34-vocabulary-work-careers-001-MASTERY-v16",
-      "statement": "What is the English word for: \"In or to a foreign country, especially one across the sea.\"",
-      "context": "Choose the correct English word for the given definition.",
-      "options": [
-        {
-          "letter": "C",
-          "text": "overseas",
-          "is_correct": true,
-          "feedback": "Correct! 'overseas' matches the definition."
-        },
-        {
-          "letter": "A",
-          "text": "domestic",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "B",
-          "text": "local",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "D",
-          "text": "national",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        }
-      ],
-      "correct_answer": "C",
-      "explanation": "The word 'overseas' is used to describe in or to a foreign country, especially one across the sea. This is an important vocabulary word in English.\n---",
-      "difficulty": "8",
-      "images": [],
-      "tags": [],
-      "bloom": "Analyze",
-      "expected_success": 0.8,
-      "bundle_id": "EC-ING-11-2026-W34-vocabulary-work-careers-001-MASTERY-bundle",
-      "periodo": 34,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ingles",
-      "grade": 11,
-      "country": "ec"
-    },
-    {
-      "id": "EC-ING-11-2026-W34-vocabulary-work-careers-001-MASTERY-v17",
-      "statement": "What is the English word for: \"An estimate of income and expenditure for a set period of time.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "id": "EC-ING-11-2026-W34-vocabulary-work-careers-001-MASTERY-bundle-v8",
+      "statement": "Which sentence uses 'apply for' correctly?",
+      "context": "Vocabulario de solicitudes, Cuenca.",
       "options": [
         {
           "letter": "A",
-          "text": "budget",
+          "text": "She applied for the position at the bank.",
           "is_correct": true,
-          "feedback": "Correct! 'budget' matches the definition."
+          "feedback": "'Applied for the position' is the standard collocation for job applications."
         },
         {
           "letter": "B",
-          "text": "expense",
+          "text": "She applied the position at the bank.",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "The preposition 'for' is required after 'apply' in this sense."
         },
         {
           "letter": "C",
-          "text": "cost",
+          "text": "She applied of the position at the bank.",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "'Apply' does not take 'of' in this construction."
         },
         {
           "letter": "D",
-          "text": "price",
+          "text": "She applies for applied the position.",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "The verb forms are mixed incorrectly in the same clause."
         }
       ],
       "correct_answer": "A",
-      "explanation": "The word 'budget' is used to describe an estimate of income and expenditure for a set period of time. This is an important vocabulary word in English.\n---",
-      "difficulty": "9",
+      "explanation": "'Apply for' significa presentar una solicitud para obtener un puesto o un beneficio.\n\n---",
+      "difficulty": "6",
       "images": [],
       "tags": [],
-      "bloom": "Evaluate",
+      "bloom": "Analyze",
       "expected_success": 0.8,
       "bundle_id": "EC-ING-11-2026-W34-vocabulary-work-careers-001-MASTERY-bundle",
       "periodo": 34,
@@ -773,41 +368,41 @@
       "country": "ec"
     },
     {
-      "id": "EC-ING-11-2026-W34-vocabulary-work-careers-001-MASTERY-v18",
-      "statement": "What is the English word for: \"A practice or arrangement by which a company or government agency provides a guarantee of compensation for specified loss, damage, illness, or death in return for payment of a premium.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "id": "EC-ING-11-2026-W34-vocabulary-work-careers-001-MASTERY-bundle-v9",
+      "statement": "What does 'be hired' mean?",
+      "context": "Vocabulario de contratacion, Quito.",
       "options": [
         {
-          "letter": "C",
-          "text": "insurance",
-          "is_correct": true,
-          "feedback": "Correct! 'insurance' matches the definition."
-        },
-        {
           "letter": "A",
-          "text": "warranty",
+          "text": "To rent an apartment for a period",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "That would be 'rent' or 'lease'."
         },
         {
           "letter": "B",
-          "text": "guarantee",
+          "text": "To be employed by a company",
+          "is_correct": true,
+          "feedback": "Hiring is the employer's decision to offer a job."
+        },
+        {
+          "letter": "C",
+          "text": "To be dismissed from a position",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "That is the opposite: 'be fired' or 'be dismissed'."
         },
         {
           "letter": "D",
-          "text": "policy",
+          "text": "To resign from a job voluntarily",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Quitting is the opposite of being hired."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "The word 'insurance' is used to describe a practice or arrangement by which a company or government agency provides a guarantee of compensation for specified loss, damage, illness, or death in return for payment of a premium. This is an important vocabulary word in English.\n---",
-      "difficulty": "10",
+      "correct_answer": "B",
+      "explanation": "'Be hired' significa ser contratado por una empresa tras un proceso de seleccion. Este matiz se comprueba comparando con el resto de opciones.\n\n---",
+      "difficulty": "4",
       "images": [],
       "tags": [],
-      "bloom": "Evaluate",
+      "bloom": "Understand",
       "expected_success": 0.8,
       "bundle_id": "EC-ING-11-2026-W34-vocabulary-work-careers-001-MASTERY-bundle",
       "periodo": 34,
@@ -818,41 +413,41 @@
       "country": "ec"
     },
     {
-      "id": "EC-ING-11-2026-W34-vocabulary-work-careers-001-MASTERY-v19",
-      "statement": "What is the English word for: \"Treatment with a vaccine to produce immunity against a disease.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "id": "EC-ING-11-2026-W34-vocabulary-work-careers-001-MASTERY-bundle-v10",
+      "statement": "Which profession works primarily with children in a classroom?",
+      "context": "Vocabulario de profesiones, Guayaquil.",
       "options": [
         {
-          "letter": "C",
-          "text": "vaccination",
-          "is_correct": true,
-          "feedback": "Correct! 'vaccination' matches the definition."
-        },
-        {
           "letter": "A",
-          "text": "medication",
+          "text": "university lecturer",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "A lecturer teaches adults at higher-education level."
         },
         {
           "letter": "B",
-          "text": "prescription",
+          "text": "veterinarian",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "A veterinarian treats animals."
+        },
+        {
+          "letter": "C",
+          "text": "civil engineer",
+          "is_correct": false,
+          "feedback": "A civil engineer designs roads, bridges and buildings."
         },
         {
           "letter": "D",
-          "text": "infection",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "text": "primary school teacher",
+          "is_correct": true,
+          "feedback": "That is the profession that teaches young children in the classroom."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "The word 'vaccination' is used to describe treatment with a vaccine to produce immunity against a disease. This is an important vocabulary word in English.\n---",
-      "difficulty": "9",
+      "correct_answer": "D",
+      "explanation": "El docente de primaria trabaja con ninos en el aula durante la etapa escolar inicial.\n\n---",
+      "difficulty": "4",
       "images": [],
       "tags": [],
-      "bloom": "Evaluate",
+      "bloom": "Remember",
       "expected_success": 0.8,
       "bundle_id": "EC-ING-11-2026-W34-vocabulary-work-careers-001-MASTERY-bundle",
       "periodo": 34,
@@ -863,38 +458,443 @@
       "country": "ec"
     },
     {
-      "id": "EC-ING-11-2026-W34-vocabulary-work-careers-001-MASTERY-v20",
-      "statement": "What is the English word for: \"Extreme tiredness and other physical effects felt by a person after a long flight across several time zones.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "id": "EC-ING-11-2026-W34-vocabulary-work-careers-001-MASTERY-bundle-v11",
+      "statement": "Look at the sentence: 'He was fired from his job because he arrived late every day.' What does 'fired' mean?",
+      "context": "Vocabulario laboral, Cuenca.",
       "options": [
         {
-          "letter": "C",
-          "text": "jet lag",
-          "is_correct": true,
-          "feedback": "Correct! 'jet lag' matches the definition."
-        },
-        {
           "letter": "A",
-          "text": "fatigue",
+          "text": "Hired by the employer",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "That would be 'hired', the opposite of 'fired'."
         },
         {
           "letter": "B",
-          "text": "exhaustion",
+          "text": "Promoted by the employer",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "A promotion would be described as 'promoted' or 'given a raise'."
+        },
+        {
+          "letter": "C",
+          "text": "Dismissed by the employer",
+          "is_correct": true,
+          "feedback": "'Fired' is informal for being dismissed from employment."
         },
         {
           "letter": "D",
-          "text": "insomnia",
+          "text": "Resigned by the employee",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Resigning is a voluntary act by the worker."
         }
       ],
       "correct_answer": "C",
-      "explanation": "The word 'jet lag' is used to describe extreme tiredness and other physical effects felt by a person after a long flight across several time zones. This is an important vocabulary word in English.",
-      "difficulty": "10",
+      "explanation": "'Fired' es el ingles coloquial para ser despedido por decision del empleador. Es uno de los puntos mas frecuentes de las pruebas de esta unidad.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.8,
+      "bundle_id": "EC-ING-11-2026-W34-vocabulary-work-careers-001-MASTERY-bundle",
+      "periodo": 34,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-ING-11-2026-W34-vocabulary-work-careers-001-MASTERY-bundle-v12",
+      "statement": "Complete the sentence: 'She is looking for a job in the ____ sector, where she can use her degree.'",
+      "context": "Vocabulario de sectores, Quito.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "private",
+          "is_correct": true,
+          "feedback": "'The private sector' refers to companies outside the state."
+        },
+        {
+          "letter": "B",
+          "text": "publicity",
+          "is_correct": false,
+          "feedback": "'Publicity' means promotion, not a sector of employment."
+        },
+        {
+          "letter": "C",
+          "text": "publishing",
+          "is_correct": false,
+          "feedback": "'Publishing' is one specific industry, but the sentence describes a sector generally."
+        },
+        {
+          "letter": "D",
+          "text": "public",
+          "is_correct": false,
+          "feedback": "'The public sector' is also a sector, but it is opposed to the private one."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El termino 'sector' se usa para nombrar areas de la economia o de la actividad profesional.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.8,
+      "bundle_id": "EC-ING-11-2026-W34-vocabulary-work-careers-001-MASTERY-bundle",
+      "periodo": 34,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-ING-11-2026-W34-vocabulary-work-careers-001-MASTERY-bundle-v13",
+      "statement": "What skills does a job advertisement usually list besides the job title?",
+      "context": "Comprension de anuncios de empleo, Guayaquil.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "The applicant's family history",
+          "is_correct": false,
+          "feedback": "Personal background is not part of a job advertisement."
+        },
+        {
+          "letter": "B",
+          "text": "The weather forecast for the week",
+          "is_correct": false,
+          "feedback": "Weather has no place in a job advertisement."
+        },
+        {
+          "letter": "C",
+          "text": "Responsibilities and required skills",
+          "is_correct": true,
+          "feedback": "These are the two standard sections of any job advertisement."
+        },
+        {
+          "letter": "D",
+          "text": "The names of the applicant's parents",
+          "is_correct": false,
+          "feedback": "Family data is neither relevant nor requested in hiring."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Los anuncios de empleo suelen enumerar responsabilidades y competencias requeridas para el puesto.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.8,
+      "bundle_id": "EC-ING-11-2026-W34-vocabulary-work-careers-001-MASTERY-bundle",
+      "periodo": 34,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-ING-11-2026-W34-vocabulary-work-careers-001-MASTERY-bundle-v14",
+      "statement": "Which sentence uses 'deadline' correctly?",
+      "context": "Vocabulario de trabajo, Cuenca.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "The report is a deadline for Friday.",
+          "is_correct": false,
+          "feedback": "'Deadline' is a noun, not an adjective describing the report."
+        },
+        {
+          "letter": "B",
+          "text": "The deadline report is on Friday.",
+          "is_correct": false,
+          "feedback": "The word order turns the noun into an attributive modifier incorrectly."
+        },
+        {
+          "letter": "C",
+          "text": "I deadline the report every Friday.",
+          "is_correct": false,
+          "feedback": "'Deadline' is not used as a verb in this sense."
+        },
+        {
+          "letter": "D",
+          "text": "The deadline for the report is Friday at five.",
+          "is_correct": true,
+          "feedback": "'Deadline' marks the latest moment for completing a task."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "'Deadline' es la fecha limite hasta la cual se debe entregar un trabajo. Conviene practicarlo con otros ejemplos antes del examen.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.8,
+      "bundle_id": "EC-ING-11-2026-W34-vocabulary-work-careers-001-MASTERY-bundle",
+      "periodo": 34,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-ING-11-2026-W34-vocabulary-work-careers-001-MASTERY-bundle-v15",
+      "statement": "Which word means the opposite of 'employer'?",
+      "context": "Vocabulario laboral, Guayaquil.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "manager",
+          "is_correct": false,
+          "feedback": "A manager is a specific role within the organisation, not the direct antonym."
+        },
+        {
+          "letter": "B",
+          "text": "employee",
+          "is_correct": true,
+          "feedback": "'Employee' is the person who works for the employer."
+        },
+        {
+          "letter": "C",
+          "text": "customer",
+          "is_correct": false,
+          "feedback": "A customer buys the organisation's products or services."
+        },
+        {
+          "letter": "D",
+          "text": "partner",
+          "is_correct": false,
+          "feedback": "'Partner' describes a business relation, not the employment relation."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El empleador es quien contrata; la persona contratada es el empleado o trabajador. Este matiz se comprueba comparando con el resto de opciones.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.8,
+      "bundle_id": "EC-ING-11-2026-W34-vocabulary-work-careers-001-MASTERY-bundle",
+      "periodo": 34,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-ING-11-2026-W34-vocabulary-work-careers-001-MASTERY-bundle-v16",
+      "statement": "Complete: 'The company offered him a ____ position with a better salary.'",
+      "context": "Adjetivos de empleo, Cuenca.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "high-paying",
+          "is_correct": false,
+          "feedback": "'High-paying' describes pay in absolute terms without comparison."
+        },
+        {
+          "letter": "B",
+          "text": "most-paying",
+          "is_correct": false,
+          "feedback": "'Most' is not the comparative form used with 'pay'."
+        },
+        {
+          "letter": "C",
+          "text": "paying-most",
+          "is_correct": false,
+          "feedback": "The word order does not form a valid adjective in English."
+        },
+        {
+          "letter": "D",
+          "text": "higher-paying",
+          "is_correct": true,
+          "feedback": "'Higher-paying' compares salary level with a previous position."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "La palabra que describe una posicion profesional mejor remunerada es 'higher-paying'.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.8,
+      "bundle_id": "EC-ING-11-2026-W34-vocabulary-work-careers-001-MASTERY-bundle",
+      "periodo": 34,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-ING-11-2026-W34-vocabulary-work-careers-001-MASTERY-bundle-v17",
+      "statement": "What is the role of a 'supervisor' in a workplace?",
+      "context": "Vocabulario de roles, Quito.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Performs the same tasks as the assistants",
+          "is_correct": false,
+          "feedback": "The supervisor manages rather than carries out the routine work."
+        },
+        {
+          "letter": "B",
+          "text": "Owns the company and sets its long-term strategy",
+          "is_correct": false,
+          "feedback": "That is the role of an owner or chief executive."
+        },
+        {
+          "letter": "C",
+          "text": "Directs the daily work of a team",
+          "is_correct": true,
+          "feedback": "A supervisor coordinates staff and checks their work."
+        },
+        {
+          "letter": "D",
+          "text": "Is hired to recruit new staff",
+          "is_correct": false,
+          "feedback": "Recruitment is the responsibility of human resources or a recruiter."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El supervisor dirige el trabajo cotidiano del equipo y responde ante el responsable de mayor rango.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.8,
+      "bundle_id": "EC-ING-11-2026-W34-vocabulary-work-careers-001-MASTERY-bundle",
+      "periodo": 34,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-ING-11-2026-W34-vocabulary-work-careers-001-MASTERY-bundle-v18",
+      "statement": "Which sentence uses 'work experience' correctly?",
+      "context": "Vocabulario de experiencia laboral, Guayaquil.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "She has five years of works experience in sales.",
+          "is_correct": false,
+          "feedback": "'Works' would require a plural noun after it."
+        },
+        {
+          "letter": "B",
+          "text": "She has five years of work experience in sales.",
+          "is_correct": true,
+          "feedback": "'Work experience' is used in this standard singular sense."
+        },
+        {
+          "letter": "C",
+          "text": "She has five years of work experiences in sales.",
+          "is_correct": false,
+          "feedback": "The plural form is not used for this concept in standard English."
+        },
+        {
+          "letter": "D",
+          "text": "She has five years of experience works in sales.",
+          "is_correct": false,
+          "feedback": "The word order is incorrect in this noun phrase."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "'Work experience' designa la experiencia laboral y se usa en singular como concepto general.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.8,
+      "bundle_id": "EC-ING-11-2026-W34-vocabulary-work-careers-001-MASTERY-bundle",
+      "periodo": 34,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-ING-11-2026-W34-vocabulary-work-careers-001-MASTERY-bundle-v19",
+      "statement": "Read the sentence: 'He was promoted after only one year on the job.' What does 'promoted' mean?",
+      "context": "Analisis del vocabulario laboral, Cuenca.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "He was given a higher position in the same company",
+          "is_correct": true,
+          "feedback": "'Promoted' describes an internal upward move."
+        },
+        {
+          "letter": "B",
+          "text": "He was dismissed from the company",
+          "is_correct": false,
+          "feedback": "'Promoted' is the opposite of being dismissed."
+        },
+        {
+          "letter": "C",
+          "text": "He left the company to start a business",
+          "is_correct": false,
+          "feedback": "That would be 'resigned' or 'left to start'."
+        },
+        {
+          "letter": "D",
+          "text": "He was hired by a different company",
+          "is_correct": false,
+          "feedback": "Changing employer is not a promotion."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Un ascenso supone una mejora de puesto, responsabilidades o salario dentro de la misma empresa.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.8,
+      "bundle_id": "EC-ING-11-2026-W34-vocabulary-work-careers-001-MASTERY-bundle",
+      "periodo": 34,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-ING-11-2026-W34-vocabulary-work-careers-001-MASTERY-bundle-v20",
+      "statement": "Which sentence is grammatically and logically correct?",
+      "context": "Consolidacion del vocabulario de profesiones, Quito.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "The engineers and the technician checks the machines every morning.",
+          "is_correct": false,
+          "feedback": "With a compound plural subject the verb must be 'check'."
+        },
+        {
+          "letter": "B",
+          "text": "The engineer and the technicians check the machines every morning.",
+          "is_correct": false,
+          "feedback": "The subject is plural, so 'check' is right, but 'engineer' must be plural too."
+        },
+        {
+          "letter": "C",
+          "text": "The engineers and the technicians is checking the machines every morning.",
+          "is_correct": false,
+          "feedback": "The singular auxiliary 'is' does not agree with the plural subject."
+        },
+        {
+          "letter": "D",
+          "text": "The engineers and the technicians check the machines every morning.",
+          "is_correct": true,
+          "feedback": "Both professions are named correctly and 'check' agrees with the plural subject."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Cada profesion se nombra con el termino correcto y el verbo se concuerda con el sujeto plural.\n\n---",
+      "difficulty": "6",
       "images": [],
       "tags": [],
       "bloom": "Evaluate",

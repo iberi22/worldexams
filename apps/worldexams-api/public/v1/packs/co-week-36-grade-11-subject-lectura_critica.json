@@ -614,25 +614,25 @@
           "letter": "D",
           "text": "Utiliza encuadres, planos y secuencias para construir la narrativa visual.",
           "is_correct": true,
-          "feedback": "Hay un lenguaje secuencial común."
+          "feedback": "La novela gráfica organiza la narración en viñetas que funcionan como planos y secuencias, igual que el montaje cinematográfico."
         },
         {
           "letter": "A",
           "text": "Es animada.",
           "is_correct": false,
-          "feedback": "Es estática."
+          "feedback": "La novela gráfica es una secuencia de imágenes fijas impresas, no una producción animada."
         },
         {
           "letter": "B",
           "text": "Tiene banda sonora obligatoria.",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "La banda sonora es propia del cine; la novela gráfica se lee en silencio y el sonido es un recurso opcional, no obligatorio."
         },
         {
           "letter": "C",
           "text": "No tiene texto.",
           "is_correct": false,
-          "feedback": "Sí incluye texto."
+          "feedback": "La novela gráfica sí integra texto: los bocadillos y los cartelos son parte de la narración."
         }
       ],
       "correct_answer": "D",

@@ -16,25 +16,25 @@
           "letter": "A",
           "text": "fruit",
           "is_correct": true,
-          "feedback": "Correct!"
+          "feedback": "Correct. An apple grows on a tree and is eaten as a fruit, the food group that comes from plants."
         },
         {
           "letter": "B",
           "text": "vegetable",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "Vegetables are the parts of plants eaten as side dishes, like carrots or lettuce, and they are not usually sweet."
         },
         {
           "letter": "C",
           "text": "drink",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "A drink is a liquid you swallow, and an apple is a solid food."
         },
         {
           "letter": "D",
           "text": "meat",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "Meat comes from animals; an apple comes from a plant."
         }
       ],
       "correct_answer": "A",
@@ -62,25 +62,25 @@
           "letter": "A",
           "text": "toy",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "A toy is an object for playing; a carrot is food."
         },
         {
           "letter": "B",
           "text": "vegetable",
           "is_correct": true,
-          "feedback": "Correct!"
+          "feedback": "Correct. A carrot is the root of a plant and is eaten as a vegetable, usually in a salad or a soup."
         },
         {
           "letter": "C",
           "text": "fruit",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "Fruits are generally sweet and come from flowers; a carrot is the root and is not sweet."
         },
         {
           "letter": "D",
           "text": "candy",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "Candy is a sweet made from sugar; a carrot is a fresh food."
         }
       ],
       "correct_answer": "B",
@@ -108,25 +108,25 @@
           "letter": "A",
           "text": "Chicken",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "Chicken is a food you eat, not a drink you choose."
         },
         {
           "letter": "B",
           "text": "Salad",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "Salad is a dish of vegetables and it is eaten, not drunk."
         },
         {
           "letter": "C",
           "text": "Orange juice",
           "is_correct": true,
-          "feedback": "Correct!"
+          "feedback": "Correct. Orange juice is a liquid drink made from the juice of oranges, so it answers the question."
         },
         {
           "letter": "D",
           "text": "A sandwich",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "A sandwich is bread with a filling; it is a food and not a drink."
         }
       ],
       "correct_answer": "C",
@@ -154,25 +154,25 @@
           "letter": "A",
           "text": "afternoon",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "The afternoon is after lunch; breakfast is eaten before that."
         },
         {
           "letter": "B",
           "text": "night",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "At night you eat dinner, not breakfast."
         },
         {
           "letter": "C",
           "text": "evening",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "In the evening you have dinner, while breakfast comes at the start of the day."
         },
         {
           "letter": "D",
           "text": "morning",
           "is_correct": true,
-          "feedback": "Correct!"
+          "feedback": "Correct. Breakfast is the meal eaten in the morning, when you wake up."
         }
       ],
       "correct_answer": "D",
@@ -200,25 +200,25 @@
           "letter": "A",
           "text": "ice cream",
           "is_correct": true,
-          "feedback": "Correct!"
+          "feedback": "Correct. 'Yummy' describes something sweet and tasty, which is exactly what ice cream is."
         },
         {
           "letter": "B",
           "text": "a rock",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "A rock is not food, so it cannot be yummy no matter how it looks."
         },
         {
           "letter": "C",
           "text": "trash",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "Trash is waste, so nobody would say it is yummy."
         },
         {
           "letter": "D",
           "text": "mud",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "Mud is dirt from the ground; it is not food and it is not tasty."
         }
       ],
       "correct_answer": "A",
@@ -246,25 +246,25 @@
           "letter": "A",
           "text": "ruler",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "A ruler measures; it is not part of a place setting."
         },
         {
           "letter": "B",
           "text": "knife",
           "is_correct": true,
-          "feedback": "Correct!"
+          "feedback": "Correct. A knife cuts the meat into pieces and a fork holds those pieces while you eat."
         },
         {
           "letter": "C",
           "text": "spoon",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "A spoon is used for liquid food such as soup; meat needs a sharp edge and a fork."
         },
         {
           "letter": "D",
           "text": "pencil",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "A pencil writes; it is not a tool for eating."
         }
       ],
       "correct_answer": "B",
@@ -292,25 +292,25 @@
           "letter": "A",
           "text": "black",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "Milk is not black; it is the pale liquid that comes from cows."
         },
         {
           "letter": "B",
           "text": "green",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "Milk is not green; fresh milk is white or slightly yellowish."
         },
         {
           "letter": "C",
           "text": "white",
           "is_correct": true,
-          "feedback": "Correct!"
+          "feedback": "Correct. Fresh cow's milk is white, which is why very pale skin is called 'milk-white'."
         },
         {
           "letter": "D",
           "text": "red",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "Milk is not red; blood is the red liquid in the body, and milk is not blood."
         }
       ],
       "correct_answer": "C",
@@ -338,25 +338,25 @@
           "letter": "A",
           "text": "juice",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "Juice is a liquid pressed from fruit; potatoes are not pressed into juice."
         },
         {
           "letter": "B",
           "text": "cake",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "Cakes are baked from flour, sugar and eggs, not from potatoes."
         },
         {
           "letter": "C",
           "text": "ice cream",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "Ice cream is a frozen sweet mixture; potatoes are not used to make it."
         },
         {
           "letter": "D",
           "text": "French fries",
           "is_correct": true,
-          "feedback": "Correct!"
+          "feedback": "Correct. A potato is cut into strips and fried, and that is how French fries are made."
         }
       ],
       "correct_answer": "D",

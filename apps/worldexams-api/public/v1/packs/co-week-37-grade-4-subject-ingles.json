@@ -16,25 +16,25 @@
           "letter": "A",
           "text": "kind",
           "is_correct": true,
-          "feedback": "Correct!"
+          "feedback": "'Mean' is unkind, which is the opposite of helping everyone."
         },
         {
           "letter": "B",
           "text": "mean",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "'Lazy' means not wanting to work, and that is not what helping everyone shows."
         },
         {
           "letter": "C",
           "text": "lazy",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "'Quiet' means saying little; it describes how someone talks, not how they treat others."
         },
         {
           "letter": "D",
           "text": "quiet",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "Correct. Helping everyone is the behaviour we call kindness, so the adjective is kind."
         }
       ],
       "correct_answer": "A",
@@ -62,25 +62,25 @@
           "letter": "A",
           "text": "scared",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "'Scared' means afraid, and nothing in the sentence suggests fear."
         },
         {
           "letter": "B",
           "text": "polite",
           "is_correct": true,
-          "feedback": "Correct!"
+          "feedback": "Correct. Saying 'please' and 'thank you' is exactly the behaviour called politeness."
         },
         {
           "letter": "C",
           "text": "rude",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "'Rude' is the opposite of using those words."
         },
         {
           "letter": "D",
           "text": "angry",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "'Angry' means cross or annoyed, which polite behaviour is not."
         }
       ],
       "correct_answer": "B",
@@ -108,25 +108,25 @@
           "letter": "A",
           "text": "sad",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "'Sad' means unhappy, which is not what telling jokes indicates."
         },
         {
           "letter": "B",
           "text": "boring",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "'Boring' means uninteresting, the opposite of someone who tells jokes."
         },
         {
           "letter": "C",
           "text": "funny",
           "is_correct": true,
-          "feedback": "Correct!"
+          "feedback": "Correct. Telling jokes makes other people laugh, which is what being funny means."
         },
         {
           "letter": "D",
           "text": "serious",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "'Serious' means solemn and not joking, the opposite of the sentence."
         }
       ],
       "correct_answer": "C",
@@ -154,25 +154,25 @@
           "letter": "A",
           "text": "silly",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "'Silly' means foolish, which is not what a 10 on every test shows."
         },
         {
           "letter": "B",
           "text": "unfriendly",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "'Unfriendly' means not kind to others, and there is no sign of that here."
         },
         {
           "letter": "C",
           "text": "clumsy",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "'Clumsy' means careless and likely to drop things."
         },
         {
           "letter": "D",
           "text": "intelligent",
           "is_correct": true,
-          "feedback": "Correct!"
+          "feedback": "Correct. Getting a 10 on all her tests shows that she learns easily and understands well, which is intelligence."
         }
       ],
       "correct_answer": "D",
@@ -200,25 +200,25 @@
           "letter": "A",
           "text": "lazy",
           "is_correct": true,
-          "feedback": "Correct!"
+          "feedback": "'Hard-working' means working a lot, the opposite of not liking to work."
         },
         {
           "letter": "B",
           "text": "hard-working",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "'Active' means busy and energetic, and that is not what the sentence describes."
         },
         {
           "letter": "C",
           "text": "active",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "'Busy' means having a lot to do, not an unwillingness to work."
         },
         {
           "letter": "D",
           "text": "busy",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "Correct. Not wanting to work is the definition of laziness."
         }
       ],
       "correct_answer": "A",
@@ -246,25 +246,25 @@
           "letter": "A",
           "text": "talkative",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "'Talkative' means talking a lot, which is the opposite of talking little."
         },
         {
           "letter": "B",
           "text": "quiet",
           "is_correct": true,
-          "feedback": "Correct!"
+          "feedback": "Correct. Someone who speaks very little is described as quiet."
         },
         {
           "letter": "C",
           "text": "noisy",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "'Noisy' means making a lot of sound, which is not the same as being silent."
         },
         {
           "letter": "D",
           "text": "loud",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "'Loud' also means making a lot of noise, so it contradicts 'doesn't talk much'."
         }
       ],
       "correct_answer": "B",
@@ -292,25 +292,25 @@
           "letter": "A",
           "text": "greedy",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "'Greedy' means wanting to keep more for yourself, so sharing contradicts it."
         },
         {
           "letter": "B",
           "text": "mean",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "'Mean' means unkind about sharing, which contradicts the sentence."
         },
         {
           "letter": "C",
           "text": "generous",
           "is_correct": true,
-          "feedback": "Correct!"
+          "feedback": "Correct. Sharing your toys with others is the behaviour called generosity."
         },
         {
           "letter": "D",
           "text": "selfish",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "'Selfish' means caring only about yourself, which is the opposite of sharing."
         }
       ],
       "correct_answer": "C",
@@ -338,25 +338,25 @@
           "letter": "A",
           "text": "scared",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "'Scared' means afraid, and the sentence says the opposite."
         },
         {
           "letter": "B",
           "text": "cowardly",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "'Cowardly' also means afraid to face danger, which contradicts 'never afraid'."
         },
         {
           "letter": "C",
           "text": "nervous",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "'Nervous' means anxious about something, which is not the mood described."
         },
         {
           "letter": "D",
           "text": "brave",
           "is_correct": true,
-          "feedback": "Correct!"
+          "feedback": "Correct. Never being afraid of something is exactly what bravery means."
         }
       ],
       "correct_answer": "D",

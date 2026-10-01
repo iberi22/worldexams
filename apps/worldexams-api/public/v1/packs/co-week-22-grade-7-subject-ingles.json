@@ -200,25 +200,25 @@
           "letter": "A",
           "text": "a / an / some",
           "is_correct": false,
-          "feedback": "Incorrect. Bread is uncountable."
+          "feedback": "Bread is uncountable, so 'a bread' is not possible; it needs 'some bread'."
         },
         {
           "letter": "B",
           "text": "some / an / some",
           "is_correct": true,
-          "feedback": "Correct! Some bread (uncountable), an egg (singular countable), some milk (uncountable)."
+          "feedback": "Correct. 'Some' fits the uncountable bread, 'an' fits the singular countable egg, and 'some' fits the uncountable milk."
         },
         {
           "letter": "C",
           "text": "some / a / a",
           "is_correct": false,
-          "feedback": "Incorrect. Egg starts with a vowel and milk is uncountable."
+          "feedback": "'A' cannot go before 'egg' here because the singular countable egg needs 'an', and milk is uncountable so it cannot take 'a'."
         },
         {
           "letter": "D",
           "text": "a / some / some",
           "is_correct": false,
-          "feedback": "Incorrect. Bread is uncountable."
+          "feedback": "Bread is uncountable, so the first blank cannot be 'a'; it has to be 'some'."
         }
       ],
       "correct_answer": "B",
@@ -338,25 +338,25 @@
           "letter": "A",
           "text": "A piece of bread.",
           "is_correct": false,
-          "feedback": "Correct structure."
+          "feedback": "'A piece of' is the standard way to count bread, so the structure is correct."
         },
         {
           "letter": "B",
           "text": "A glass of water.",
           "is_correct": false,
-          "feedback": "Correct structure."
+          "feedback": "'A glass of' is the standard container word used to count water, so the structure is correct."
         },
         {
           "letter": "C",
           "text": "A milk.",
           "is_correct": true,
-          "feedback": "Incorrect! You cannot use \"a\" with an uncountable noun like milk without a container word."
+          "feedback": "Correct. 'Milk' is uncountable, so 'a milk' is wrong; English needs a container word such as 'a glass of milk'."
         },
         {
           "letter": "D",
           "text": "A bottle of milk.",
           "is_correct": false,
-          "feedback": "Correct structure."
+          "feedback": "'A bottle of' is the standard container word used to count milk, so the structure is correct."
         }
       ],
       "correct_answer": "C",

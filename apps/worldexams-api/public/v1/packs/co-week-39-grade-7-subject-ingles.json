@@ -34,7 +34,7 @@
           "letter": "C",
           "text": "is ride",
           "is_correct": false,
-          "feedback": "Incorrect structure."
+          "feedback": "The third person singular takes \"is\", and a main verb needs the base form \"ride\", not the bare infinitive after an auxiliary."
         }
       ],
       "correct_answer": "D",
@@ -114,13 +114,13 @@
           "letter": "A",
           "text": "mustn't",
           "is_correct": false,
-          "feedback": "Incorrect. Contradicts the advice."
+          "feedback": "\"Mustn't\" forbids the action outright, whereas the sentence recommends going to the doctor."
         },
         {
           "letter": "B",
           "text": "shouldn't",
           "is_correct": false,
-          "feedback": "Incorrect. Contradicts the advice."
+          "feedback": "The modal has to be positive here, because the sentence advises the action instead of warning against it."
         },
         {
           "letter": "C",
@@ -172,7 +172,7 @@
           "letter": "D",
           "text": "will going to",
           "is_correct": false,
-          "feedback": "Incorrect structure."
+          "feedback": "\"Going to\" already contains its own auxiliary \"will go\", so doubling them produces \"will going to\"."
         }
       ],
       "correct_answer": "A",

@@ -16,25 +16,25 @@
           "letter": "A",
           "text": "am",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "\"Am\" is used with the pronoun \"I\"; the subject here is \"she\", so it needs \"is\"."
         },
         {
           "letter": "B",
           "text": "are",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "\"Are\" is used with you, we and they, not with \"she\"."
         },
         {
           "letter": "C",
           "text": "be",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "\"Be\" is the plain infinitive, used after modals like \"can\"; a simple statement needs the conjugated form."
         },
         {
           "letter": "D",
           "text": "is",
           "is_correct": true,
-          "feedback": "Correct! Well done."
+          "feedback": "With the third person singular subject \"she\", the verb \"be\" in the present simple is \"is\"."
         }
       ],
       "correct_answer": "D",
@@ -62,25 +62,25 @@
           "letter": "A",
           "text": "be",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "\"Be\" is the plain form and needs a modal before it; the sentence has no modal, so it needs a conjugated verb."
         },
         {
           "letter": "B",
           "text": "are",
           "is_correct": true,
-          "feedback": "Correct! Well done."
+          "feedback": "With the plural subject \"we\", the verb \"be\" in the present simple is \"are\"."
         },
         {
           "letter": "C",
           "text": "am",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "\"Am\" is used only with the pronoun \"I\", not with \"we\"."
         },
         {
           "letter": "D",
           "text": "is",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "\"Is\" is used with a singular subject such as he, she or it; \"we\" is plural."
         }
       ],
       "correct_answer": "B",
@@ -108,25 +108,25 @@
           "letter": "A",
           "text": "Am",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "\"Am\" goes with \"I\"; the subject of this question is \"they\"."
         },
         {
           "letter": "B",
           "text": "Do",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "\"Do\" is the auxiliary of another verb, but the verb in this sentence is \"be\", so it is not needed."
         },
         {
           "letter": "C",
           "text": "Are",
           "is_correct": true,
-          "feedback": "Correct! Well done."
+          "feedback": "\"Are\" is the present simple question form of \"be\" with the plural subject \"they\"."
         },
         {
           "letter": "D",
           "text": "Is",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "\"Is\" goes with a singular subject; \"they\" is plural."
         }
       ],
       "correct_answer": "C",
@@ -154,25 +154,25 @@
           "letter": "A",
           "text": "is",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "\"Is\" goes with he, she or it; the subject of this sentence is \"I\"."
         },
         {
           "letter": "B",
           "text": "be",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "\"Be\" is the plain form and cannot stand in a simple negative statement on its own."
         },
         {
           "letter": "C",
           "text": "am",
           "is_correct": true,
-          "feedback": "Correct! Well done."
+          "feedback": "With the pronoun \"I\", the verb \"be\" is \"am\", so it completes the sentence."
         },
         {
           "letter": "D",
           "text": "are",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "\"Are\" goes with you, we and they, not with \"I\"."
         }
       ],
       "correct_answer": "C",
@@ -200,25 +200,25 @@
           "letter": "A",
           "text": "am",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "\"Am\" goes with \"I\"; the subject here is the plural noun \"books\"."
         },
         {
           "letter": "B",
           "text": "are",
           "is_correct": true,
-          "feedback": "Correct! Well done."
+          "feedback": "With a plural subject like \"books\", the verb \"be\" in the present simple is \"are\"."
         },
         {
           "letter": "C",
           "text": "was",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "\"Was\" is the past simple; the sentence here is in the present and describes a current situation."
         },
         {
           "letter": "D",
           "text": "is",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "\"Is\" goes with a singular subject; \"books\" is plural."
         }
       ],
       "correct_answer": "B",
@@ -246,25 +246,25 @@
           "letter": "A",
           "text": "are",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "\"Are\" goes with you, we and they; the subject here is \"my dog\", which is singular."
         },
         {
           "letter": "B",
           "text": "be",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "\"Be\" is the plain form and needs a modal before it in a short statement."
         },
         {
           "letter": "C",
           "text": "am",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "\"Am\" goes with \"I\"; the subject here is \"my dog\"."
         },
         {
           "letter": "D",
           "text": "is",
           "is_correct": true,
-          "feedback": "Correct! Well done."
+          "feedback": "\"My dog\" is a singular noun, so it takes \"is\" in the present simple."
         }
       ],
       "correct_answer": "D",
@@ -292,25 +292,25 @@
           "letter": "A",
           "text": "Are",
           "is_correct": true,
-          "feedback": "Correct! Well done."
+          "feedback": "The pronoun \"you\" takes \"are\" in questions, so that completes the sentence."
         },
         {
           "letter": "B",
           "text": "Am",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "\"Am\" goes with \"I\", not with \"you\"."
         },
         {
           "letter": "C",
           "text": "Do",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "\"Do\" is the auxiliary of other verbs; this question uses the verb \"be\", not another verb."
         },
         {
           "letter": "D",
           "text": "Is",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "\"Is\" goes with he, she or it; the subject of this question is \"you\"."
         }
       ],
       "correct_answer": "A",
@@ -338,25 +338,25 @@
           "letter": "A",
           "text": "is",
           "is_correct": true,
-          "feedback": "Correct! Well done."
+          "feedback": "\"Bogota\" is a singular proper noun, so it takes \"is\" in the present simple."
         },
         {
           "letter": "B",
           "text": "stay",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "\"Stay\" is a verb of action and does not describe what a city is."
         },
         {
           "letter": "C",
           "text": "are",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "\"Are\" goes with a plural subject; \"Bogota\" is one single city."
         },
         {
           "letter": "D",
           "text": "am",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "\"Am\" goes with \"I\", not with a place name."
         }
       ],
       "correct_answer": "A",
@@ -384,25 +384,25 @@
           "letter": "A",
           "text": "is being",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "\"Is being\" goes with a singular subject; \"they\" is plural and needs a simple present form."
         },
         {
           "letter": "B",
           "text": "is",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "\"Is\" goes with he, she or it; the subject here is \"they\"."
         },
         {
           "letter": "C",
           "text": "are",
           "is_correct": true,
-          "feedback": "Correct! Well done."
+          "feedback": "With the plural subject \"they\", the verb \"be\" in the present simple is \"are\"."
         },
         {
           "letter": "D",
           "text": "be",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "\"Be\" is the plain form and needs a modal before it in a simple statement."
         }
       ],
       "correct_answer": "C",
@@ -430,25 +430,25 @@
           "letter": "A",
           "text": "is",
           "is_correct": true,
-          "feedback": "Correct! Well done."
+          "feedback": "\"It\" is a singular subject, so it takes \"is\" in the present simple."
         },
         {
           "letter": "B",
           "text": "has",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "\"Has\" is the verb of possession, used here with people and objects, not with \"it\" for weather or a day."
         },
         {
           "letter": "C",
           "text": "am",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "\"Am\" goes with \"I\"; the subject here is \"it\"."
         },
         {
           "letter": "D",
           "text": "are",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "\"Are\" goes with a plural subject; \"it\" is singular."
         }
       ],
       "correct_answer": "A",

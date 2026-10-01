@@ -601,25 +601,25 @@
           "letter": "A",
           "text": "$10\\sqrt{3} \\text{ cm}$",
           "is_correct": false,
-          "feedback": "Valor incorrecto."
+          "feedback": "El $10\\sqrt{3}$ correspondería a $\\frac{b}{\\sin 60^\\circ}$, pero el ángulo $B$ del enunciado es $45^\\circ$, no $60^\\circ$."
         },
         {
           "letter": "D",
           "text": "$10\\sqrt{2} \\text{ cm}$",
           "is_correct": true,
-          "feedback": "Correcto. $10/\\text{sen}(30) = b/\\text{sen}(45) \\Rightarrow 10/0,5 = b/(\\sqrt{2}/2) \\Rightarrow 20 = 2b/\\sqrt{2} \\Rightarrow b = 10\\sqrt{2}$."
+          "feedback": "Por el teorema del seno, $\\frac{10}{\\sen 30^\\circ} = \\frac{b}{\\sen 45^\\circ}$, de donde $20 = b / 0.7071$ y $b = 10\\sqrt{2}$ cm."
         },
         {
           "letter": "B",
           "text": "$5 \\text{ cm}$",
           "is_correct": false,
-          "feedback": "El lado b debe ser mayor que a ya que el ángulo B es mayor que A."
+          "feedback": "Como $B = 45^\\circ > A = 30^\\circ$, el lado $b$ debe ser mayor que $a = 10$ cm, y $5$ cm es menor."
         },
         {
           "letter": "C",
           "text": "$20 \\text{ cm}$",
           "is_correct": false,
-          "feedback": "Valor incorrecto."
+          "feedback": "El $20$ cm duplicaría $a$ sin razón, porque $\\sen 45^\\circ / \\sen 30^\\circ = 0.7071 / 0.5 = \\sqrt{2} \\approx 1.41$."
         }
       ],
       "correct_answer": "D",
@@ -736,25 +736,25 @@
           "letter": "A",
           "text": "$\\text{sen}^2(x)$",
           "is_correct": false,
-          "feedback": "Simplificación incorrecta."
+          "feedback": "Al distribuir, $\\cos^2(x) \\cdot 1$ queda como factor, así que la expresión no se reduce a $\\sen^2(x)$."
         },
         {
           "letter": "B",
           "text": "$\\cos(x)$",
           "is_correct": false,
-          "feedback": "Simplificación incorrecta."
+          "feedback": "El factor $\\cos^2(x)$ desaparece al simplificar el corchete, no queda un $\\cos(x)$ solo."
         },
         {
           "letter": "C",
           "text": "1",
           "is_correct": true,
-          "feedback": "Correcto. $1 + \\text{tg}^2(x) = 1/\\cos^2(x)$. Al multiplicar por $\\cos^2(x)$, el resultado es 1."
+          "feedback": "Como $1 + \\tg^2 x = \\frac{1}{\\cos^2 x}$, al multiplicar por $\\cos^2 x$ queda exactamente $1$."
         },
         {
           "letter": "D",
           "text": "0",
           "is_correct": false,
-          "feedback": "La expresión nunca se anula."
+          "feedback": "El $0$ aparecería sólo si $\\cos^2 x$ fuera $0$, y en ese punto la expresión no está definida."
         }
       ],
       "correct_answer": "C",

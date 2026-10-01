@@ -16,25 +16,25 @@
           "letter": "A",
           "text": "dislikes",
           "is_correct": false,
-          "feedback": "dislikes expresa rechazo y la accion de visitarla cada domingo indica un afecto positivo."
+          "feedback": "dislikes expresses rejection, and the action of visiting her every Sunday shows positive affection."
         },
         {
           "letter": "B",
           "text": "am not liking",
           "is_correct": false,
-          "feedback": "am not liking no es una forma correcta; el presente simple con negacion es do not like o dont like."
+          "feedback": "am not liking is not a correct form; the negative present simple is do not like or don't like."
         },
         {
           "letter": "D",
           "text": "like",
           "is_correct": true,
-          "feedback": "la accion habitual de visitarla los domingos indica que la preferencia es positiva: I like my grandmother."
+          "feedback": "The habitual action of visiting her on Sundays shows that the preference is positive: I like my grandmother."
         },
         {
           "letter": "C",
           "text": "am liking",
           "is_correct": false,
-          "feedback": "am liking sugiere una preferencia temporal y no es la forma estandar para expresar que algo te gusta en general."
+          "feedback": "Am liking suggests a temporary preference and is not the standard way to say that you like something in general."
         }
       ],
       "correct_answer": "D",
@@ -62,25 +62,25 @@
           "letter": "D",
           "text": "He likes one sport and dislikes another",
           "is_correct": true,
-          "feedback": "el texto dice que le gusta el futbol y que no le gusta la natacion, exactamente eso."
+          "feedback": "The text says he likes football and that he does not like swimming, which is exactly that."
         },
         {
           "letter": "A",
           "text": "He likes both sports",
           "is_correct": false,
-          "feedback": "si le gustaran ambos, el texto no tendria la negacion doesn't like swimming."
+          "feedback": "If he liked both, the text would not have the negation doesn't like swimming."
         },
         {
           "letter": "B",
           "text": "He dislikes both sports",
           "is_correct": false,
-          "feedback": "la primera parte dice claramente que le gusta el futbol."
+          "feedback": "The first part clearly says he likes football."
         },
         {
           "letter": "C",
           "text": "He likes swimming only",
           "is_correct": false,
-          "feedback": "es la negacion del texto: el texto dice justamente que no le gusta nadar."
+          "feedback": "It is the opposite of the text: the text says precisely that he does not like swimming."
         }
       ],
       "correct_answer": "D",
@@ -108,25 +108,25 @@
           "letter": "A",
           "text": "Tom likes carrots a lot.",
           "is_correct": false,
-          "feedback": "esa frase afirma lo contrario de lo que dice el enunciado."
+          "feedback": "That sentence states the opposite of what the prompt says."
         },
         {
           "letter": "C",
           "text": "Tom doesn't like carrots.",
           "is_correct": true,
-          "feedback": "no le gustan las zanahorias es Tom doesn't like carrots."
+          "feedback": "Not liking carrots is Tom doesn't like carrots."
         },
         {
           "letter": "B",
           "text": "Tom likes carrots and vegetables.",
           "is_correct": false,
-          "feedback": "esa frase expresa una pasion y contradice la informacion original."
+          "feedback": "That sentence expresses a passion and contradicts the original information."
         },
         {
           "letter": "D",
           "text": "Tom doesn't eat vegetables at all.",
           "is_correct": false,
-          "feedback": "el enunciado se refiere solo a las zanahorias y ampliar el alcance a todas las verduras es incorreto."
+          "feedback": "The prompt refers only to carrots, and widening the scope to all vegetables is incorrect."
         }
       ],
       "correct_answer": "C",
@@ -147,32 +147,32 @@
     },
     {
       "id": "CO-ING-3-2026-W22-likes-dislikes-001-MASTERY-bundle-v4",
-      "statement": "Which sentence is correct?",
+      "statement": "Which sentence adds the -s correctly in the present simple with the subject 'we'?",
       "context": "Dialogo entre dos estudiantes sobre el tiempo libre del fin de semana.",
       "options": [
         {
           "letter": "B",
           "text": "I likes reading books.",
           "is_correct": false,
-          "feedback": "con el sujeto I el verbo lleva -s en el presente simple, y por eso no puede ser likes."
+          "feedback": "With the subject I the verb takes -s in the present simple, so it cannot be likes."
         },
         {
           "letter": "C",
           "text": "She don't like apples.",
           "is_correct": false,
-          "feedback": "con el sujeto she el verbo debe ser doesnt, y la forma dont corresponde a I o you."
+          "feedback": "With the subject she the verb must be doesn't, and the form don't goes with I or you."
         },
         {
           "letter": "A",
           "text": "We like drawing.",
           "is_correct": true,
-          "feedback": "con el sujeto we el verbo aparece en su forma base, sin -s."
+          "feedback": "With the subject we the verb appears in its base form, without -s."
         },
         {
           "letter": "D",
           "text": "They doesn't like soccer.",
           "is_correct": false,
-          "feedback": "con el sujeto they el verbo de tercera persona es dont, y doesnt corresponde a he o she."
+          "feedback": "With the subject they the third person verb is don't, and doesn't goes with he or she."
         }
       ],
       "correct_answer": "A",
@@ -200,25 +200,25 @@
           "letter": "B",
           "text": "Fish",
           "is_correct": false,
-          "feedback": "el pescado no aparece en la oracion, que solo nombra arroz y pollo."
+          "feedback": "Fish does not appear in the sentence, which names only rice and chicken."
         },
         {
           "letter": "C",
           "text": "Soup",
           "is_correct": false,
-          "feedback": "la sopa tampoco se menciona en la enumeracion del enunciado."
+          "feedback": "Soup is not mentioned in the list in the prompt either."
         },
         {
           "letter": "D",
           "text": "Beans",
           "is_correct": false,
-          "feedback": "los frijoles no forman parte de la lista de alimentos del enunciado."
+          "feedback": "Beans are not part of the list of foods in the prompt."
         },
         {
           "letter": "A",
           "text": "Chicken",
           "is_correct": true,
-          "feedback": "el pollo es uno de los dos alimentos enumerados despues de and."
+          "feedback": "The chicken is one of the two foods listed after and."
         }
       ],
       "correct_answer": "A",
@@ -246,25 +246,25 @@
           "letter": "A",
           "text": "likes",
           "is_correct": false,
-          "feedback": "likes concuerda con un sujeto en tercera persona, y aqui el sujeto es I."
+          "feedback": "likes agrees with a third person subject, and here the subject is I."
         },
         {
           "letter": "B",
           "text": "like",
           "is_correct": true,
-          "feedback": "despues de don't el verbo aparece en su forma base, sin -s."
+          "feedback": "After don't the verb appears in its base form, without -s."
         },
         {
           "letter": "C",
           "text": "liking",
           "is_correct": false,
-          "feedback": "liking es la forma en -ing y no puede seguir a un auxiliar de negacion como don't."
+          "feedback": "liking is the -ing form and cannot follow a negative auxiliary such as don't."
         },
         {
           "letter": "D",
           "text": "am like",
           "is_correct": false,
-          "feedback": "am like no es una estructura del ingles; la negacion del presente simple es do not más el verbo base."
+          "feedback": "am like is not an English structure; the negative present simple is do not plus the base verb."
         }
       ],
       "correct_answer": "B",
@@ -292,25 +292,25 @@
           "letter": "A",
           "text": "The mother",
           "is_correct": false,
-          "feedback": "la madre ama la fruta segun el texto, y no se menciona que prefiera las verduras."
+          "feedback": "The mother loves fruit according to the text, and it does not say she prefers vegetables."
         },
         {
           "letter": "B",
           "text": "The father",
           "is_correct": true,
-          "feedback": "el texto dice literalmente que el padre prefiere las verduras."
+          "feedback": "The text says literally that the father prefers vegetables."
         },
         {
           "letter": "C",
           "text": "Both parents",
           "is_correct": false,
-          "feedback": "solo el padre las prefiere y la madre es la que ama la fruta."
+          "feedback": "Only the father prefers them and the mother is the one who loves fruit."
         },
         {
           "letter": "D",
           "text": "Nobody",
           "is_correct": false,
-          "feedback": "el texto identifica claramente al padre como quien prefiere las verduras."
+          "feedback": "The text clearly identifies the father as the one who prefers vegetables."
         }
       ],
       "correct_answer": "B",
@@ -338,25 +338,25 @@
           "letter": "A",
           "text": "No, I don't like ice cream.",
           "is_correct": false,
-          "feedback": "esa respuesta da una preferencia negativa y solo seria correcta si al estudiante no le gustara."
+          "feedback": "That answer gives a negative preference and would only be correct if the student did not like it."
         },
         {
           "letter": "B",
           "text": "Because it is cold and sweet.",
           "is_correct": false,
-          "feedback": "la palabra because responde a la pregunta why, y no a la pregunta si te gusta."
+          "feedback": "The word because answers the question why, and not the question of whether you like it."
         },
         {
           "letter": "C",
           "text": "Yes, I like ice cream very much.",
           "is_correct": true,
-          "feedback": "la estructura Yes, I like responde con si o no y acompania la respuesta con el grado de la preferencia."
+          "feedback": "The structure Yes, I like answers with yes or no and accompanies the answer with the degree of the preference."
         },
         {
           "letter": "D",
           "text": "Ice cream is in the kitchen.",
           "is_correct": false,
-          "feedback": "esa oracion informa donde esta el alimento y no expresa ninguna preferencia."
+          "feedback": "That sentence says where the food is and does not express any preference."
         }
       ],
       "correct_answer": "C",

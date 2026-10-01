@@ -114,13 +114,13 @@
           "letter": "A",
           "text": "mustn't",
           "is_correct": false,
-          "feedback": "Incorrect. Contradicts the advice."
+          "feedback": "\"Mustn't\" states a strict prohibition, which is far stronger than the recommendation to stay home and rest."
         },
         {
           "letter": "B",
           "text": "shouldn't",
           "is_correct": false,
-          "feedback": "Incorrect. Contradicts the advice."
+          "feedback": "The sentence advises staying home, so a negative modal works against the meaning rather than with it."
         },
         {
           "letter": "D",
@@ -166,13 +166,13 @@
           "letter": "C",
           "text": "What",
           "is_correct": false,
-          "feedback": "Incorrect."
+          "feedback": "\"What can I get to...?\" is not a working question phrase; the speaker is asking for the way, not for a thing."
         },
         {
           "letter": "D",
           "text": "When",
           "is_correct": false,
-          "feedback": "Incorrect."
+          "feedback": "\"When\" asks about time, but the speaker needs directions and a means of transport."
         }
       ],
       "correct_answer": "B",
@@ -310,7 +310,7 @@
           "letter": "D",
           "text": "under",
           "is_correct": false,
-          "feedback": "Incorrect."
+          "feedback": "\"Under\" would put you below the street, while the preposition for walking alongside a street is \"along\"."
         }
       ],
       "correct_answer": "C",

@@ -9,40 +9,40 @@
   "questions": [
     {
       "id": "SV-SOC-11-2026-W05-conquista-espanola-001-MASTERY-bundle-v1",
-      "statement": "¿Qué documento establece la organización del Estado?",
-      "context": "Clase de ciencias sociales en San Miguel estudiando conquista espanola.",
+      "statement": "En el periodo colonial, las encomiendas tenian por funcion principal:",
+      "context": "Historia de El Salvador, San Salvador.",
       "options": [
         {
           "letter": "A",
-          "text": "La Constitución",
-          "is_correct": true,
-          "feedback": "¡Correcto!"
+          "text": "Repartir tierras entre los colonos por igual",
+          "is_correct": false,
+          "feedback": "La encomienda no era un reparto de propiedad territorial."
         },
         {
           "letter": "B",
-          "text": "Una ley ordinaria",
+          "text": "Financiar el comercio con otras colonias",
           "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "feedback": "La encomienda era una institucion interna de la corona."
         },
         {
           "letter": "C",
-          "text": "Un decreto presidencial",
-          "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "text": "Cobrar tributo de los pueblos indigenas asignados",
+          "is_correct": true,
+          "feedback": "El encomendero recibia la renta del trabajo de los indigenas."
         },
         {
           "letter": "D",
-          "text": "Un tratado internacional",
+          "text": "Organizar el gobierno politico de los pueblos",
           "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "feedback": "El gobierno politico formal lo ejercen las autoridades reales."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "La Constitución es la norma suprema que organiza el Estado y garantiza derechos.",
+      "correct_answer": "C",
+      "explanation": "La encomienda asignaba a un espanol el derecho a cobrar tributo de los pueblos indigenas que le eran asignados.\n\n---",
       "difficulty": "4",
       "images": [],
       "tags": [],
-      "bloom": "Understand",
+      "bloom": "Remember",
       "expected_success": 0.8,
       "bundle_id": "SV-SOC-11-2026-W05-conquista-espanola-001-MASTERY-bundle",
       "periodo": 5,
@@ -54,41 +54,41 @@
     },
     {
       "id": "SV-SOC-11-2026-W05-conquista-espanola-001-MASTERY-bundle-v2",
-      "statement": "¿Cómo cambió la Revolución Industrial la sociedad del siglo XIX?",
-      "context": "Clase de ciencias sociales en Mejicanos estudiando conquista espanola.",
+      "statement": "Que medida de las Leyes de Indias resulta claramente discriminatoria al evaluarla desde hoy?",
+      "context": "Fuentes historicas, San Salvador.",
       "options": [
         {
           "letter": "A",
-          "text": "Urbanización masiva y nuevas clases sociales",
+          "text": "Separar a los casados por raza para impedir la mezcla",
           "is_correct": true,
-          "feedback": "¡Correcto!"
+          "feedback": "La propuesta fundaba la exclusion en el origen de sangre."
         },
         {
           "letter": "B",
-          "text": "Retorno a la vida agrícola",
+          "text": "Establecer la igualdad de derechos entre los habitantes",
           "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "feedback": "Eso seria una medida igualitaria, no discriminatoria."
         },
         {
           "letter": "C",
-          "text": "Disminución del comercio global",
+          "text": "Proteger la lengua originaria",
           "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "feedback": "La proteccion linguistica no es lo que esas reglas propusieron."
         },
         {
           "letter": "D",
-          "text": "Eliminación del trabajo manual",
+          "text": "Crear escuelas para indigenas y espanoles",
           "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "feedback": "La educacion no era el contenido central de la propuesta."
         }
       ],
       "correct_answer": "A",
-      "explanation": "La Revolución Industrial causó migración a ciudades y creó nuevas clases sociales.",
-      "difficulty": "4",
+      "explanation": "Las Leyes de Indias separaban a los casados por razon de sangre para evitar la mezcla, una medida fundada en la exclusion.\n\n---",
+      "difficulty": "6",
       "images": [],
       "tags": [],
       "bloom": "Analyze",
-      "expected_success": 0.7,
+      "expected_success": 0.8,
       "bundle_id": "SV-SOC-11-2026-W05-conquista-espanola-001-MASTERY-bundle",
       "periodo": 5,
       "protocol_version": "5.2",
@@ -99,41 +99,41 @@
     },
     {
       "id": "SV-SOC-11-2026-W05-conquista-espanola-001-MASTERY-bundle-v3",
-      "statement": "¿Qué derechos protegen la Constitución de un país democrático?",
-      "context": "Clase de ciencias sociales en San Miguel estudiando conquista espanola.",
+      "statement": "Que factor explico que algunos pueblos indigenas se aliaran con los espanolles?",
+      "context": "Conquista espanola, Ahuachapan.",
       "options": [
         {
           "letter": "A",
-          "text": "Derechos humanos fundamentales",
-          "is_correct": true,
-          "feedback": "¡Correcto!"
+          "text": "El deseo de abandonar definitivamente sus tierras",
+          "is_correct": false,
+          "feedback": "Los aliados combatieron para controlar sus propias tierras, no para abandonarlas."
         },
         {
           "letter": "B",
-          "text": "Solo derechos de propiedad",
-          "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "text": "Las rivalidades entre pueblos y el rechazo al dominio de otras capitales",
+          "is_correct": true,
+          "feedback": "Los aliados buscaban completar su propia autonomia frente a sus rivales."
         },
         {
           "letter": "C",
-          "text": "Únicamente derechos políticos",
+          "text": "La promesa de independencia total inmediata",
           "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "feedback": "La independencia total no fue prometida por los espanolles."
         },
         {
           "letter": "D",
-          "text": "Derechos exclusivos del gobierno",
+          "text": "La falta de contacto con la corte",
           "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "feedback": "Los contactos con la corte se intensificaron durante la conquista."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "Las constituciones democráticas protegen derechos humanos fundamentales.",
-      "difficulty": "4",
+      "correct_answer": "B",
+      "explanation": "Las rivalidades entre pueblos y el rechazo al dominio de otras capitales facilitaron esas alianzas.\n\n---",
+      "difficulty": "6",
       "images": [],
       "tags": [],
-      "bloom": "Understand",
-      "expected_success": 0.85,
+      "bloom": "Analyze",
+      "expected_success": 0.8,
       "bundle_id": "SV-SOC-11-2026-W05-conquista-espanola-001-MASTERY-bundle",
       "periodo": 5,
       "protocol_version": "5.2",
@@ -144,40 +144,40 @@
     },
     {
       "id": "SV-SOC-11-2026-W05-conquista-espanola-001-MASTERY-bundle-v4",
-      "statement": "Si un país exporta más de lo que importa, ¿qué tiene?",
-      "context": "Clase de ciencias sociales en Santa Ana estudiando conquista espanola.",
+      "statement": "Que efecto demografico directo produjo la conquista?",
+      "context": "Demografia historica, San Salvador.",
       "options": [
         {
           "letter": "A",
-          "text": "Superávit comercial",
-          "is_correct": true,
-          "feedback": "¡Correcto!"
+          "text": "Un aumento inmediato de la poblacion nativa",
+          "is_correct": false,
+          "feedback": "La mortalidad fue muy alta entre las comunidades indigenas."
         },
         {
           "letter": "B",
-          "text": "Déficit comercial",
-          "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "text": "Una fuerte reduccion de la poblacion por epidemias y guerra",
+          "is_correct": true,
+          "feedback": "LasPLIED africana y la guerra disminuyeron drásticamente las comunidades indigenas."
         },
         {
           "letter": "C",
-          "text": "Balanza equilibrada",
+          "text": "La aparicion de una nueva lengua europea",
           "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "feedback": "La lengua europea llego con los colonos, pero eso no es un efecto demografico."
         },
         {
           "letter": "D",
-          "text": "Crisis económica",
+          "text": "El fin inmediato de toda actividad agricola",
           "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "feedback": "La agricultura se reorganizo, pero no desaparecio de inmediato."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "Exportar más que importar genera superávit comercial favorable.",
+      "correct_answer": "B",
+      "explanation": "La guerra continua y las epidemias provocaron una fuerte reduccion de la poblacion indígena.\n\n---",
       "difficulty": "4",
       "images": [],
       "tags": [],
-      "bloom": "Apply",
+      "bloom": "Analyze",
       "expected_success": 0.8,
       "bundle_id": "SV-SOC-11-2026-W05-conquista-espanola-001-MASTERY-bundle",
       "periodo": 5,
@@ -189,41 +189,41 @@
     },
     {
       "id": "SV-SOC-11-2026-W05-conquista-espanola-001-MASTERY-bundle-v5",
-      "statement": "¿Cuál fue una causa importante de la Primera Guerra Mundial?",
-      "context": "Clase de ciencias sociales en San Miguel estudiando conquista espanola.",
+      "statement": "Que establecio el Codigo de Indias sobre la muerte de un encomendero?",
+      "context": "Fuentes historicas coloniales, San Salvador.",
       "options": [
         {
-          "letter": "B",
-          "text": "El asesinato del Archiduque Francisco Fernando",
+          "letter": "A",
+          "text": "Que sus indigenas volvian a la encomienda de la corona",
           "is_correct": true,
-          "feedback": "¡Correcto!"
+          "feedback": "La corona recuperaba asi la renta de la encomienda."
         },
         {
-          "letter": "A",
-          "text": "El Tratado de Versalles",
+          "letter": "B",
+          "text": "Que los indigenas quedaban libres de inmediato",
           "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "feedback": "La libertad no venia con la muerte del encomendero."
         },
         {
           "letter": "C",
-          "text": "La Revolución Rusa",
+          "text": "Que la encomienda pasaba al heredero de la corona",
           "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "feedback": "La corona, no un heredero particular, era la receptora."
         },
         {
           "letter": "D",
-          "text": "La invención del avión",
+          "text": "Que la encomienda se dividia entre los indigenas",
           "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "feedback": "La division estaba lejos de contemplarse."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "El asesinato en Sarajevo (1914) desencadenó el sistema de alianzas que llevó a la guerra.",
+      "correct_answer": "A",
+      "explanation": "El Codigo de indias establecio que a la muerte del encomendero sus indigenas regresaban a la encomienda de la corona.\n\n---",
       "difficulty": "6",
       "images": [],
       "tags": [],
       "bloom": "Remember",
-      "expected_success": 0.85,
+      "expected_success": 0.8,
       "bundle_id": "SV-SOC-11-2026-W05-conquista-espanola-001-MASTERY-bundle",
       "periodo": 5,
       "protocol_version": "5.2",
@@ -234,40 +234,40 @@
     },
     {
       "id": "SV-SOC-11-2026-W05-conquista-espanola-001-MASTERY-bundle-v6",
-      "statement": "¿Qué documento establece la organización del Estado?",
-      "context": "Clase de ciencias sociales en Mejicanos estudiando conquista espanola.",
+      "statement": "Como se llamo al proceso por el cual los pueblos indigenas adoptaron la cultura espanola?",
+      "context": "Procesos de transculturacion, San Salvador.",
       "options": [
         {
           "letter": "A",
-          "text": "La Constitución",
-          "is_correct": true,
-          "feedback": "¡Correcto!"
+          "text": "Reparto",
+          "is_correct": false,
+          "feedback": "El reparto era una institucion laboral, no un proceso cultural."
         },
         {
           "letter": "B",
-          "text": "Una ley ordinaria",
+          "text": "Mita",
           "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "feedback": "La mita era el trabajo forzado en las minas."
         },
         {
           "letter": "C",
-          "text": "Un decreto presidencial",
-          "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "text": "Castellanizacion",
+          "is_correct": true,
+          "feedback": "La castellanizacion describe la adopcion de la lengua castellana."
         },
         {
           "letter": "D",
-          "text": "Un tratado internacional",
+          "text": "Conquista material",
           "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "feedback": "Ese termino se usa para la economia, no para la adopcion cultural."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "La Constitución es la norma suprema que organiza el Estado y garantiza derechos.",
-      "difficulty": "6",
+      "correct_answer": "C",
+      "explanation": "Ese proceso se denomina castellanizacion: la adopcion de la lengua y las practicas espanolas.\n\n---",
+      "difficulty": "4",
       "images": [],
       "tags": [],
-      "bloom": "Understand",
+      "bloom": "Remember",
       "expected_success": 0.8,
       "bundle_id": "SV-SOC-11-2026-W05-conquista-espanola-001-MASTERY-bundle",
       "periodo": 5,
@@ -279,41 +279,41 @@
     },
     {
       "id": "SV-SOC-11-2026-W05-conquista-espanola-001-MASTERY-bundle-v7",
-      "statement": "¿Cómo cambió la Revolución Industrial la sociedad del siglo XIX?",
-      "context": "Clase de ciencias sociales en San Salvador estudiando conquista espanola.",
+      "statement": "Cual era el objetivo principal de la evangelizacion catolica?",
+      "context": "Misioneros, Santa Ana.",
       "options": [
         {
-          "letter": "D",
-          "text": "Urbanización masiva y nuevas clases sociales",
-          "is_correct": true,
-          "feedback": "¡Correcto!"
-        },
-        {
           "letter": "A",
-          "text": "Retorno a la vida agrícola",
+          "text": "Documentar las lenguas indigenas",
           "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "feedback": "Los misioneros documentaron, pero su fin era la conversion."
         },
         {
           "letter": "B",
-          "text": "Disminución del comercio global",
-          "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "text": "Convertir a la poblacion al cristianismo",
+          "is_correct": true,
+          "feedback": "Ese era el objetivo religioso declarado de las misiones."
         },
         {
           "letter": "C",
-          "text": "Eliminación del trabajo manual",
+          "text": "Restablecer el gobierno de los caciques",
           "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "feedback": "Los caciques fueron desplazados por el gobierno colonial."
+        },
+        {
+          "letter": "D",
+          "text": "Asegurar el intercambio comercial",
+          "is_correct": false,
+          "feedback": "El comercio fue un motivo economico de la colonizacion, no de la evangelizacion."
         }
       ],
-      "correct_answer": "D",
-      "explanation": "La Revolución Industrial causó migración a ciudades y creó nuevas clases sociales.",
+      "correct_answer": "B",
+      "explanation": "La evangelizacion pretendia convertir a la poblacion al cristianismo para integrarla al orden colonial.\n\n---",
       "difficulty": "6",
       "images": [],
       "tags": [],
-      "bloom": "Analyze",
-      "expected_success": 0.7,
+      "bloom": "Understand",
+      "expected_success": 0.8,
       "bundle_id": "SV-SOC-11-2026-W05-conquista-espanola-001-MASTERY-bundle",
       "periodo": 5,
       "protocol_version": "5.2",
@@ -324,41 +324,41 @@
     },
     {
       "id": "SV-SOC-11-2026-W05-conquista-espanola-001-MASTERY-bundle-v8",
-      "statement": "¿Qué derechos protegen la Constitución de un país democrático?",
-      "context": "Clase de ciencias sociales en Santa Ana estudiando conquista espanola.",
+      "statement": "Por que se instalaron pueblos de indigenas en zonas altas?",
+      "context": "Fundacion de pueblos, Chalatenango.",
       "options": [
         {
           "letter": "A",
-          "text": "Derechos humanos fundamentales",
-          "is_correct": true,
-          "feedback": "¡Correcto!"
+          "text": "Para evitar la entrada de los colonos",
+          "is_correct": false,
+          "feedback": "No era una zona inaccesible para los espanoles."
         },
         {
           "letter": "B",
-          "text": "Solo derechos de propiedad",
-          "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "text": "Para facilitar el control y la obediencia de la poblacion",
+          "is_correct": true,
+          "feedback": "La concentracion hacia mas dificil la resistencia."
         },
         {
           "letter": "C",
-          "text": "Únicamente derechos políticos",
+          "text": "Porque ahi habia mas oro",
           "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "feedback": "Las zonas de oro estaban en el litoral, no en las alturas."
         },
         {
           "letter": "D",
-          "text": "Derechos exclusivos del gobierno",
+          "text": "Para mejorar el clima de los colonos",
           "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "feedback": "El clima no era el criterio de fundacion de los pueblos."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "Las constituciones democráticas protegen derechos humanos fundamentales.",
+      "correct_answer": "B",
+      "explanation": "La concentracion de la poblacion en zonas altas facilitaba el control y la obediencia al nuevo orden colonial.\n\n---",
       "difficulty": "6",
       "images": [],
       "tags": [],
-      "bloom": "Understand",
-      "expected_success": 0.85,
+      "bloom": "Analyze",
+      "expected_success": 0.8,
       "bundle_id": "SV-SOC-11-2026-W05-conquista-espanola-001-MASTERY-bundle",
       "periodo": 5,
       "protocol_version": "5.2",
@@ -369,40 +369,40 @@
     },
     {
       "id": "SV-SOC-11-2026-W05-conquista-espanola-001-MASTERY-bundle-v9",
-      "statement": "Si un país exporta más de lo que importa, ¿qué tiene?",
-      "context": "Clase de ciencias sociales en San Miguel estudiando conquista espanola.",
+      "statement": "Que se entiende por trabajo forzado o mita en el periodo colonial?",
+      "context": "Trabajo colonial, San Miguel.",
       "options": [
         {
-          "letter": "B",
-          "text": "Superávit comercial",
-          "is_correct": true,
-          "feedback": "¡Correcto!"
+          "letter": "A",
+          "text": "Un salario pagado por la corona",
+          "is_correct": false,
+          "feedback": "El trabajo forzado no incluia remuneracion."
         },
         {
-          "letter": "A",
-          "text": "Déficit comercial",
+          "letter": "B",
+          "text": "Un impuesto pagado en dinero",
           "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "feedback": "El pago en dinero no es propio del trabajo forzado."
         },
         {
           "letter": "C",
-          "text": "Balanza equilibrada",
+          "text": "Un servicio militar voluntario",
           "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "feedback": "La imitacion militar era otra institucion, no el trabajo forzado."
         },
         {
           "letter": "D",
-          "text": "Crisis económica",
-          "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "text": "El trabajo forzado sin remuneracion adecuada",
+          "is_correct": true,
+          "feedback": "Es la definicion clasica de la mita y del repartimiento."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "Exportar más que importar genera superávit comercial favorable.",
+      "correct_answer": "D",
+      "explanation": "Era el trabajo que los indigenas debian prestar a los espanolles sin remuneracion adecuada.\n\n---",
       "difficulty": "6",
       "images": [],
       "tags": [],
-      "bloom": "Apply",
+      "bloom": "Understand",
       "expected_success": 0.8,
       "bundle_id": "SV-SOC-11-2026-W05-conquista-espanola-001-MASTERY-bundle",
       "periodo": 5,
@@ -414,41 +414,41 @@
     },
     {
       "id": "SV-SOC-11-2026-W05-conquista-espanola-001-MASTERY-bundle-v10",
-      "statement": "¿Cuál fue una causa importante de la Primera Guerra Mundial?",
-      "context": "Clase de ciencias sociales en Soyapango estudiando conquista espanola.",
+      "statement": "Que estaba permitido hacer a una autoridad indigena en el periodo colonial?",
+      "context": "Derecho colonial, San Salvador.",
       "options": [
         {
-          "letter": "B",
-          "text": "El asesinato del Archiduque Francisco Fernando",
-          "is_correct": true,
-          "feedback": "¡Correcto!"
+          "letter": "A",
+          "text": "Cambiar las leyes del imperio espanol",
+          "is_correct": false,
+          "feedback": "Ningun sector colonial tenía facultad para modificar las leyes del imperio."
         },
         {
-          "letter": "A",
-          "text": "El Tratado de Versalles",
+          "letter": "B",
+          "text": "Negarse a pagar el tributo",
           "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "feedback": "El tributo era una obligacion obligatoria para la poblacion indígena."
         },
         {
           "letter": "C",
-          "text": "La Revolución Rusa",
-          "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "text": "Administrar los asuntos internos de su comunidad",
+          "is_correct": true,
+          "feedback": "Los pueblos indigenas conservaron autoridades propias con competencias delimitadas."
         },
         {
           "letter": "D",
-          "text": "La invención del avión",
+          "text": "Conducir la politica exterior del virreinato",
           "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "feedback": "La politica exterior era un atributo exclusivo de la corona."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "El asesinato en Sarajevo (1914) desencadenó el sistema de alianzas que llevó a la guerra.",
+      "correct_answer": "C",
+      "explanation": "Las autoridades indigenas conservaron ciertas competencias civiles y religiosas dentro de su comunidad, aunque el dominio espanol era completo.\n\n---",
       "difficulty": "6",
       "images": [],
       "tags": [],
-      "bloom": "Remember",
-      "expected_success": 0.85,
+      "bloom": "Analyze",
+      "expected_success": 0.8,
       "bundle_id": "SV-SOC-11-2026-W05-conquista-espanola-001-MASTERY-bundle",
       "periodo": 5,
       "protocol_version": "5.2",
@@ -459,40 +459,40 @@
     },
     {
       "id": "SV-SOC-11-2026-W05-conquista-espanola-001-MASTERY-bundle-v11",
-      "statement": "¿Qué documento establece la organización del Estado?",
-      "context": "Clase de ciencias sociales en Mejicanos estudiando conquista espanola.",
+      "statement": "Que cambio produjo el cultivo del indigo en la economia de El Salvador?",
+      "context": "Economia colonial, San Salvador.",
       "options": [
         {
-          "letter": "B",
-          "text": "La Constitución",
+          "letter": "A",
+          "text": "Hizo del indigo un gran articulo de exportacion",
           "is_correct": true,
-          "feedback": "¡Correcto!"
+          "feedback": "La produccion se organizo para el mercado mundial."
         },
         {
-          "letter": "A",
-          "text": "Una ley ordinaria",
+          "letter": "B",
+          "text": "Elimino toda la agricultura de subsistencia",
           "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "feedback": "La subsistence no desaparecio con el monocultivo."
         },
         {
           "letter": "C",
-          "text": "Un decreto presidencial",
+          "text": "Hizo depender la economia del oro",
           "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "feedback": "El oro no fue el recurso central de la colonia salvadoreña."
         },
         {
           "letter": "D",
-          "text": "Un tratado internacional",
+          "text": "Redujo la participacion de la poblacion en el trabajo",
           "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "feedback": "El indigo aumento la demanda de mano de obra."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "La Constitución es la norma suprema que organiza el Estado y garantiza derechos.",
-      "difficulty": "8",
+      "correct_answer": "A",
+      "explanation": "El indigo se convirtio en el principal articulo de exportacion y transformo el uso de la tierra.\n\n---",
+      "difficulty": "6",
       "images": [],
       "tags": [],
-      "bloom": "Understand",
+      "bloom": "Analyze",
       "expected_success": 0.8,
       "bundle_id": "SV-SOC-11-2026-W05-conquista-espanola-001-MASTERY-bundle",
       "periodo": 5,
@@ -504,41 +504,41 @@
     },
     {
       "id": "SV-SOC-11-2026-W05-conquista-espanola-001-MASTERY-bundle-v12",
-      "statement": "¿Cómo cambió la Revolución Industrial la sociedad del siglo XIX?",
-      "context": "Clase de ciencias sociales en Soyapango estudiando conquista espanola.",
+      "statement": "Cual fue la consecuencia principal de la crisis del algodon a finales del siglo XIX?",
+      "context": "Historia economica, La Libertad.",
       "options": [
         {
-          "letter": "B",
-          "text": "Urbanización masiva y nuevas clases sociales",
-          "is_correct": true,
-          "feedback": "¡Correcto!"
+          "letter": "A",
+          "text": "El aumento del precio de los alimentos",
+          "is_correct": false,
+          "feedback": "La crisis redujo los ingresos, no los aumento."
         },
         {
-          "letter": "A",
-          "text": "Retorno a la vida agrícola",
+          "letter": "B",
+          "text": "La desapareccion del indigo",
           "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "feedback": "El indigo ya estaba en declive antes de la crisis del algodon."
         },
         {
           "letter": "C",
-          "text": "Disminución del comercio global",
+          "text": "La independencia politica inmediata",
           "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "feedback": "La independencia se produce en fechas posteriores."
         },
         {
           "letter": "D",
-          "text": "Eliminación del trabajo manual",
-          "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "text": "El cierre de fincas y el abandono de las zonas rurales",
+          "is_correct": true,
+          "feedback": "La poblacion rural se desplazo hacia la ciudad o al extranjero."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "La Revolución Industrial causó migración a ciudades y creó nuevas clases sociales.",
-      "difficulty": "8",
+      "correct_answer": "D",
+      "explanation": "La caida del precio del algodon provoco el cierre de fincas y el exodo rural. Es uno de los puntos mas frecuentes de las pruebas de esta unidad.\n\n---",
+      "difficulty": "6",
       "images": [],
       "tags": [],
       "bloom": "Analyze",
-      "expected_success": 0.7,
+      "expected_success": 0.8,
       "bundle_id": "SV-SOC-11-2026-W05-conquista-espanola-001-MASTERY-bundle",
       "periodo": 5,
       "protocol_version": "5.2",
@@ -549,41 +549,41 @@
     },
     {
       "id": "SV-SOC-11-2026-W05-conquista-espanola-001-MASTERY-bundle-v13",
-      "statement": "¿Qué derechos protegen la Constitución de un país democrático?",
-      "context": "Clase de ciencias sociales en Mejicanos estudiando conquista espanola.",
+      "statement": "Que representa la figura de Francisco Morazan en el imaginario salvadoreño?",
+      "context": "Simbolos nacionales, San Salvador.",
       "options": [
         {
-          "letter": "C",
-          "text": "Derechos humanos fundamentales",
-          "is_correct": true,
-          "feedback": "¡Correcto!"
-        },
-        {
           "letter": "A",
-          "text": "Solo derechos de propiedad",
-          "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "text": "La unidad centroamericana y el heroismo de la independencia",
+          "is_correct": true,
+          "feedback": "Su figura se asocia a la lucha unificadora de los pueblos."
         },
         {
           "letter": "B",
-          "text": "Únicamente derechos políticos",
+          "text": "La defensa del poder colonial espanol",
           "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "feedback": "Morazan se opuso al dominio colonial, no lo defendio."
+        },
+        {
+          "letter": "C",
+          "text": "La introduccion del cafe en el pais",
+          "is_correct": false,
+          "feedback": "Su figura se asocia a la lucha politica, no a la introduccion de cultivos."
         },
         {
           "letter": "D",
-          "text": "Derechos exclusivos del gobierno",
+          "text": "La creacion de la educacion publica",
           "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "feedback": "La educacion nacional se desarrollo en etapas posteriores."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "Las constituciones democráticas protegen derechos humanos fundamentales.",
-      "difficulty": "8",
+      "correct_answer": "A",
+      "explanation": "Francisco Morazan encarna la idea de unidad centroamericana y el heroismo de la independencia.\n\n---",
+      "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Understand",
-      "expected_success": 0.85,
+      "expected_success": 0.8,
       "bundle_id": "SV-SOC-11-2026-W05-conquista-espanola-001-MASTERY-bundle",
       "periodo": 5,
       "protocol_version": "5.2",
@@ -594,40 +594,40 @@
     },
     {
       "id": "SV-SOC-11-2026-W05-conquista-espanola-001-MASTERY-bundle-v14",
-      "statement": "Si un país exporta más de lo que importa, ¿qué tiene?",
-      "context": "Clase de ciencias sociales en San Salvador estudiando conquista espanola.",
+      "statement": "Por que es importante el analisis de fuentes primarias para el estudio de la conquista?",
+      "context": "Metodo historico, Santa Ana.",
       "options": [
         {
           "letter": "A",
-          "text": "Superávit comercial",
-          "is_correct": true,
-          "feedback": "¡Correcto!"
+          "text": "Reemplazan toda la investigacion academica posterior",
+          "is_correct": false,
+          "feedback": "Las fuentes primarias se complementan con los estudios academicos."
         },
         {
           "letter": "B",
-          "text": "Déficit comercial",
+          "text": "Muestran siempre la verdad completa",
           "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "feedback": "Toda fuente tiene una perspectiva que debe evaluarse."
         },
         {
           "letter": "C",
-          "text": "Balanza equilibrada",
-          "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "text": "Permiten contrastar interpretaciones y detectar los sesgos de la epoca",
+          "is_correct": true,
+          "feedback": "Las fuentes reflejan los intereses de quienes las escribieron."
         },
         {
           "letter": "D",
-          "text": "Crisis económica",
+          "text": "Son inutiles porque estan escritas porvenes",
           "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "feedback": "Las cronicas de la epoca son fuentes esenciales pese a sus limites."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "Exportar más que importar genera superávit comercial favorable.",
-      "difficulty": "8",
+      "correct_answer": "C",
+      "explanation": "Las fuentes primarias permiten contrastar interpretaciones y detectar los sesgos del discurso de la epoca.\n\n---",
+      "difficulty": "6",
       "images": [],
       "tags": [],
-      "bloom": "Apply",
+      "bloom": "Analyze",
       "expected_success": 0.8,
       "bundle_id": "SV-SOC-11-2026-W05-conquista-espanola-001-MASTERY-bundle",
       "periodo": 5,
@@ -639,41 +639,41 @@
     },
     {
       "id": "SV-SOC-11-2026-W05-conquista-espanola-001-MASTERY-bundle-v15",
-      "statement": "¿Cuál fue una causa importante de la Primera Guerra Mundial?",
-      "context": "Clase de ciencias sociales en Soyapango estudiando conquista espanola.",
+      "statement": "Que fue el repartimiento para los indigenas?",
+      "context": "Trabajo colonial, Ahuachapan.",
       "options": [
         {
-          "letter": "C",
-          "text": "El asesinato del Archiduque Francisco Fernando",
-          "is_correct": true,
-          "feedback": "¡Correcto!"
-        },
-        {
           "letter": "A",
-          "text": "El Tratado de Versalles",
+          "text": "Un sistema de educacion gratuita",
           "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "feedback": "El repartimiento no tenia ninguna funcion educativa."
         },
         {
           "letter": "B",
-          "text": "La Revolución Rusa",
+          "text": "Un impuesto pagado en alimentos",
           "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "feedback": "El trabajo asignado no se pagaba en alimentos."
+        },
+        {
+          "letter": "C",
+          "text": "Una forma de WahlHelpersTrader comercio libre",
+          "is_correct": false,
+          "feedback": "El repartimiento restringia, no liberalizaba, el trabajo."
         },
         {
           "letter": "D",
-          "text": "La invención del avión",
-          "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "text": "Una obligacion de trabajar en minas y haciendas de colonos",
+          "is_correct": true,
+          "feedback": "El repartimiento asignaba mano de obra forzada a los particulares."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "El asesinato en Sarajevo (1914) desencadenó el sistema de alianzas que llevó a la guerra.",
-      "difficulty": "8",
+      "correct_answer": "D",
+      "explanation": "El repartimiento obligaba a los indigenas a trabajar en las minas y haciendas de los colonos.\n\n---",
+      "difficulty": "6",
       "images": [],
       "tags": [],
       "bloom": "Remember",
-      "expected_success": 0.85,
+      "expected_success": 0.8,
       "bundle_id": "SV-SOC-11-2026-W05-conquista-espanola-001-MASTERY-bundle",
       "periodo": 5,
       "protocol_version": "5.2",
@@ -684,40 +684,40 @@
     },
     {
       "id": "SV-SOC-11-2026-W05-conquista-espanola-001-MASTERY-bundle-v16",
-      "statement": "¿Qué documento establece la organización del Estado?",
-      "context": "Clase de ciencias sociales en Soyapango estudiando conquista espanola.",
+      "statement": "En la estratificacion colonial, el termino 'criollo' designaba a:",
+      "context": "Estratificacion colonial, San Salvador.",
       "options": [
         {
-          "letter": "B",
-          "text": "La Constitución",
-          "is_correct": true,
-          "feedback": "¡Correcto!"
+          "letter": "A",
+          "text": "EspañolesGK llegados directamente de la peninsula",
+          "is_correct": false,
+          "feedback": "Esos eran los peninsulares, no los criollos."
         },
         {
-          "letter": "A",
-          "text": "Una ley ordinaria",
+          "letter": "B",
+          "text": "Indigenas convertidos al cristianismo",
           "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "feedback": "Los indigenas conversos no adoptaron la categoria de criollo."
         },
         {
           "letter": "C",
-          "text": "Un decreto presidencial",
-          "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "text": "Hijos de espanolles nacidos en America",
+          "is_correct": true,
+          "feedback": "Tenian acceso a cargos negados a indigenas y mestizos."
         },
         {
           "letter": "D",
-          "text": "Un tratado internacional",
+          "text": "Mestizos de ascendencia africana",
           "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "feedback": "Esa categoria corresponde a otros grupos de la sociedad colonial."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "La Constitución es la norma suprema que organiza el Estado y garantiza derechos.",
-      "difficulty": "8",
+      "correct_answer": "C",
+      "explanation": "Los criollos eran hijos de espanolles nacidos en America, con derechos que los diferenciaban del resto.\n\n---",
+      "difficulty": "6",
       "images": [],
       "tags": [],
-      "bloom": "Understand",
+      "bloom": "Remember",
       "expected_success": 0.8,
       "bundle_id": "SV-SOC-11-2026-W05-conquista-espanola-001-MASTERY-bundle",
       "periodo": 5,
@@ -729,41 +729,41 @@
     },
     {
       "id": "SV-SOC-11-2026-W05-conquista-espanola-001-MASTERY-bundle-v17",
-      "statement": "¿Cómo cambió la Revolución Industrial la sociedad del siglo XIX?",
-      "context": "Clase de ciencias sociales en Mejicanos estudiando conquista espanola.",
+      "statement": "Que impacto tuvo la imposicion del castellano sobre las lenguas indigenas?",
+      "context": "Lengua y conquista, San Salvador.",
       "options": [
         {
-          "letter": "D",
-          "text": "Urbanización masiva y nuevas clases sociales",
-          "is_correct": true,
-          "feedback": "¡Correcto!"
-        },
-        {
           "letter": "A",
-          "text": "Retorno a la vida agrícola",
+          "text": "Las lenguas indigenas conservaron los mismos espacios publicos",
           "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "feedback": "La imposicion cambio los espacios de uso oficial."
         },
         {
           "letter": "B",
-          "text": "Disminución del comercio global",
+          "text": "El castellano sustituyo al nahua en un solo ano",
           "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "feedback": "El cambio fue gradual a lo largo de generaciones."
         },
         {
           "letter": "C",
-          "text": "Eliminación del trabajo manual",
+          "text": "Las lenguas indigenas fueron prohibidas por completo",
           "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "feedback": "Se prohibieron en algunos ambitos, no en todos los contextos."
+        },
+        {
+          "letter": "D",
+          "text": "El castellano se impuso como lengua oficial y las lenguas indigenas quedaron en el uso doméstico",
+          "is_correct": true,
+          "feedback": "La perdida de espacios publicos restringio el uso de las lenguas originarias."
         }
       ],
       "correct_answer": "D",
-      "explanation": "La Revolución Industrial causó migración a ciudades y creó nuevas clases sociales.",
-      "difficulty": "10",
+      "explanation": "El castellano se impuso como lengua oficial y las lenguas indigenas quedaron relegadas al uso doméstico.\n\n---",
+      "difficulty": "6",
       "images": [],
       "tags": [],
       "bloom": "Analyze",
-      "expected_success": 0.7,
+      "expected_success": 0.8,
       "bundle_id": "SV-SOC-11-2026-W05-conquista-espanola-001-MASTERY-bundle",
       "periodo": 5,
       "protocol_version": "5.2",
@@ -774,41 +774,41 @@
     },
     {
       "id": "SV-SOC-11-2026-W05-conquista-espanola-001-MASTERY-bundle-v18",
-      "statement": "¿Qué derechos protegen la Constitución de un país democrático?",
-      "context": "Clase de ciencias sociales en Mejicanos estudiando conquista espanola.",
+      "statement": "Que se entiende por 'tierras comunales' en la epoca colonial?",
+      "context": "Tenencia de la tierra, San Miguel.",
       "options": [
         {
           "letter": "A",
-          "text": "Derechos humanos fundamentales",
-          "is_correct": true,
-          "feedback": "¡Correcto!"
+          "text": "Grandes haciendas de los colonos",
+          "is_correct": false,
+          "feedback": "Las haciendas eran propiedad privada, lo contrario al regimen comun."
         },
         {
           "letter": "B",
-          "text": "Solo derechos de propiedad",
-          "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "text": "Terrenos de uso colectivo no sujetos a propiedad privada",
+          "is_correct": true,
+          "feedback": "El regimen comunario impedia la apropiacion privada de esas tierras."
         },
         {
           "letter": "C",
-          "text": "Únicamente derechos políticos",
+          "text": "Bosques reservados para los espanyoles en propiedad",
           "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "feedback": "El regimen comun excluia la apropiacion individual."
         },
         {
           "letter": "D",
-          "text": "Derechos exclusivos del gobierno",
+          "text": "Zonas sin inhabitants permanente",
           "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "feedback": "Las tierras comunales estaban habitadas y cultivadas."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "Las constituciones democráticas protegen derechos humanos fundamentales.",
-      "difficulty": "10",
+      "correct_answer": "B",
+      "explanation": "Eran terrenos de uso colectivo donde los indigenas podian cultivar sin que fueran propiedad privada.\n\n---",
+      "difficulty": "6",
       "images": [],
       "tags": [],
       "bloom": "Understand",
-      "expected_success": 0.85,
+      "expected_success": 0.8,
       "bundle_id": "SV-SOC-11-2026-W05-conquista-espanola-001-MASTERY-bundle",
       "periodo": 5,
       "protocol_version": "5.2",
@@ -819,40 +819,40 @@
     },
     {
       "id": "SV-SOC-11-2026-W05-conquista-espanola-001-MASTERY-bundle-v19",
-      "statement": "Si un país exporta más de lo que importa, ¿qué tiene?",
-      "context": "Clase de ciencias sociales en Soyapango estudiando conquista espanola.",
+      "statement": "Cual de estas afirmaciones sobre la conquista es historicamente mas precisa?",
+      "context": "Sintesis historica, San Salvador.",
       "options": [
         {
-          "letter": "C",
-          "text": "Superávit comercial",
-          "is_correct": true,
-          "feedback": "¡Correcto!"
-        },
-        {
           "letter": "A",
-          "text": "Déficit comercial",
-          "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "text": "Fue un proceso extenso que combino violencia, resistencia y pactos",
+          "is_correct": true,
+          "feedback": "La guerra duro mas de una decada y tuvo fases muy distintas."
         },
         {
           "letter": "B",
-          "text": "Balanza equilibrada",
+          "text": "Fue un unico combate entre dos ejercitos",
           "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "feedback": "Hubo Epidemias, Alonso Garcia y Pedro de Alvarado, que no fue una batalla."
+        },
+        {
+          "letter": "C",
+          "text": "Se produjo en una sola semana",
+          "is_correct": false,
+          "feedback": "El proceso duro mas de una decada."
         },
         {
           "letter": "D",
-          "text": "Crisis económica",
+          "text": "No hubo resistencia indigena",
           "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "feedback": "La resistencia fue amplia y se extendio por todo el territorio."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "Exportar más que importar genera superávit comercial favorable.",
-      "difficulty": "10",
+      "correct_answer": "A",
+      "explanation": "La conquista fue un proceso extenso que combino violencia, resistencia y pactos, no un acto unico.\n\n---",
+      "difficulty": "6",
       "images": [],
       "tags": [],
-      "bloom": "Apply",
+      "bloom": "Evaluate",
       "expected_success": 0.8,
       "bundle_id": "SV-SOC-11-2026-W05-conquista-espanola-001-MASTERY-bundle",
       "periodo": 5,
@@ -864,41 +864,41 @@
     },
     {
       "id": "SV-SOC-11-2026-W05-conquista-espanola-001-MASTERY-bundle-v20",
-      "statement": "¿Cuál fue una causa importante de la Primera Guerra Mundial?",
-      "context": "Clase de ciencias sociales en Mejicanos estudiando conquista espanola.",
+      "statement": "Por que el siglo XVIII aparece en la historia de El Salvador como periodo de cambios?",
+      "context": "Historia patria, San Salvador.",
       "options": [
         {
-          "letter": "C",
-          "text": "El asesinato del Archiduque Francisco Fernando",
-          "is_correct": true,
-          "feedback": "¡Correcto!"
-        },
-        {
           "letter": "A",
-          "text": "El Tratado de Versalles",
+          "text": "La fundacion de las primeras escuelas publicas",
           "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "feedback": "La educacion nacional se desarrollo mas adelante en el siglo XIX."
         },
         {
           "letter": "B",
-          "text": "La Revolución Rusa",
+          "text": "El descubrimiento de las minas de plata",
           "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "feedback": "El Salvador no fue un centro de extraccion de plata."
+        },
+        {
+          "letter": "C",
+          "text": "La aparicion de la industria textil",
+          "is_correct": false,
+          "feedback": "La industrializacion ocurrio en etapas posteriores."
         },
         {
           "letter": "D",
-          "text": "La invención del avión",
-          "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "text": "La entrada de los Borbones genero crisis que desembocaron en la independencia",
+          "is_correct": true,
+          "feedback": "Los problemas del siglo napoleonico trajeron el fin del dominio espanol."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "El asesinato en Sarajevo (1914) desencadenó el sistema de alianzas que llevó a la guerra.",
-      "difficulty": "10",
+      "correct_answer": "D",
+      "explanation": "La entrada de los Borbones y el de los problemas de la generacion napoleonica generaron crisis.\n\n---",
+      "difficulty": "6",
       "images": [],
       "tags": [],
-      "bloom": "Remember",
-      "expected_success": 0.85,
+      "bloom": "Analyze",
+      "expected_success": 0.8,
       "bundle_id": "SV-SOC-11-2026-W05-conquista-espanola-001-MASTERY-bundle",
       "periodo": 5,
       "protocol_version": "5.2",

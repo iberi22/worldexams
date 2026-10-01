@@ -16,25 +16,25 @@
           "letter": "A",
           "text": "At the bakery",
           "is_correct": true,
-          "feedback": "Correct!"
+          "feedback": "Correct. A bakery is the shop that bakes and sells bread, so that is where you go to buy it."
         },
         {
           "letter": "B",
           "text": "At the bank",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "A bank handles money and accounts; it does not sell food."
         },
         {
           "letter": "C",
           "text": "At the hospital",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "A hospital treats sick people; bread is not sold there."
         },
         {
           "letter": "D",
           "text": "At the park",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "A park is a green space for walking and playing, and it has no bread for sale."
         }
       ],
       "correct_answer": "A",
@@ -62,25 +62,25 @@
           "letter": "A",
           "text": "A chef",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "A chef cooks food in a kitchen and does not fly."
         },
         {
           "letter": "B",
           "text": "A pilot",
           "is_correct": true,
-          "feedback": "Correct!"
+          "feedback": "Correct. A pilot is the trained person who flies an aircraft and controls it in the air."
         },
         {
           "letter": "C",
           "text": "A doctor",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "A doctor works in a hospital and looks after patients."
         },
         {
           "letter": "D",
           "text": "A teacher",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "A teacher works in a school and helps students learn."
         }
       ],
       "correct_answer": "B",
@@ -108,25 +108,25 @@
           "letter": "A",
           "text": "By rocket",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "A rocket is a spacecraft that leaves the Earth; it is not a way to travel to school."
         },
         {
           "letter": "B",
           "text": "By submarine",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "A submarine travels under the sea, which is not how a child goes to school."
         },
         {
           "letter": "C",
           "text": "By bus",
           "is_correct": true,
-          "feedback": "Correct!"
+          "feedback": "Correct. 'By bus' is the standard way in English to say which transport you use to travel to school."
         },
         {
           "letter": "D",
           "text": "By ship",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "A ship is a large sea vessel, not the everyday transport for going to school."
         }
       ],
       "correct_answer": "C",
@@ -154,25 +154,25 @@
           "letter": "A",
           "text": "On the ceiling",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "On the ceiling is high up above the room, where pencils are not kept."
         },
         {
           "letter": "B",
           "text": "Under the ground",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "Under the ground is below the surface, and a pencil is kept in something you carry."
         },
         {
           "letter": "C",
           "text": "Above the clouds",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "Above the clouds is the sky, far above where a pencil would be."
         },
         {
           "letter": "D",
           "text": "In the backpack",
           "is_correct": true,
-          "feedback": "Correct!"
+          "feedback": "Correct. A backpack is the bag you carry to school, and pencils are kept inside it."
         }
       ],
       "correct_answer": "D",
@@ -200,25 +200,25 @@
           "letter": "A",
           "text": "farmer",
           "is_correct": true,
-          "feedback": "Correct!"
+          "feedback": "Correct. A farmer works with animals and crops on a farm, which is exactly the job described."
         },
         {
           "letter": "B",
           "text": "police officer",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "A police officer protects people and enforces the law, usually in a town."
         },
         {
           "letter": "C",
           "text": "pilot",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "A pilot flies an aircraft."
         },
         {
           "letter": "D",
           "text": "waiter",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "A waiter serves food in a restaurant or a hotel."
         }
       ],
       "correct_answer": "A",
@@ -246,25 +246,25 @@
           "letter": "A",
           "text": "plane",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "A plane travels in the air."
         },
         {
           "letter": "B",
           "text": "boat",
           "is_correct": true,
-          "feedback": "Correct!"
+          "feedback": "Correct. A boat is built to float and move across water, so it travels on water."
         },
         {
           "letter": "C",
           "text": "car",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "A car travels on roads."
         },
         {
           "letter": "D",
           "text": "train",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "A train travels on rails."
         }
       ],
       "correct_answer": "B",
@@ -292,25 +292,25 @@
           "letter": "A",
           "text": "on",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "'On' is used with a street, as in 'on Fifth Avenue'; here the relation is between two buildings."
         },
         {
           "letter": "B",
           "text": "at",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "'At' is used with a specific address or point, as in 'at the corner'."
         },
         {
           "letter": "C",
           "text": "next",
           "is_correct": true,
-          "feedback": "Correct!"
+          "feedback": "Correct. 'Next to' is the preposition that shows one thing stands right beside another with nothing between them."
         },
         {
           "letter": "D",
           "text": "in",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "'In' shows something inside a container, as in 'in the bag'."
         }
       ],
       "correct_answer": "C",
@@ -338,25 +338,25 @@
           "letter": "A",
           "text": "hospital",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "Hospitals treat sick people; movies are not shown there."
         },
         {
           "letter": "B",
           "text": "bank",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "A bank provides money services, not movie screenings."
         },
         {
           "letter": "C",
           "text": "church",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "A church is a religious building, not a place where films are screened."
         },
         {
           "letter": "D",
           "text": "cinema",
           "is_correct": true,
-          "feedback": "Correct!"
+          "feedback": "Correct. A cinema is the building where people pay to watch movies on a big screen."
         }
       ],
       "correct_answer": "D",

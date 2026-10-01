@@ -9,40 +9,40 @@
   "questions": [
     {
       "id": "PR-ING-11-2026-W08-future-will-be-going-to-001-MASTERY-bundle-v1",
-      "statement": "What is the English word for: \"A place where you live or stay on holiday.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Which sentence expresses a future plan decided in advance?",
+      "context": "Future forms, San Juan, grado 11.",
       "options": [
         {
           "letter": "A",
-          "text": "accommodation",
-          "is_correct": true,
-          "feedback": "Correct! 'accommodation' matches the definition."
+          "text": "I will study medicine yesterday.",
+          "is_correct": false,
+          "feedback": "'Will' plus a past time reference is contradictory."
         },
         {
           "letter": "B",
-          "text": "transportation",
+          "text": "I am studying medicine tomorrow.",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "'Tomorrow' needs a future form, not the present continuous."
         },
         {
           "letter": "C",
-          "text": "entertainment",
+          "text": "I went to study medicine.",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "That reports a past action, not a plan."
         },
         {
           "letter": "D",
-          "text": "currency",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "text": "I am going to study medicine.",
+          "is_correct": true,
+          "feedback": "'Going to' signals a pre-decided intention."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'accommodation' is used to describe a place where you live or stay on holiday. This is an important vocabulary word in English.\n---",
-      "difficulty": "3",
+      "correct_answer": "D",
+      "explanation": "'Going to' expresa una intencion o un plan ya decidido antes del momento de hablar. Es uno de los puntos mas frecuentes de las pruebas de esta unidad.\n\n---",
+      "difficulty": "4",
       "images": [],
       "tags": [],
-      "bloom": "Remember",
+      "bloom": "Analyze",
       "expected_success": 0.8,
       "bundle_id": "PR-ING-11-2026-W08-future-will-be-going-to-001-MASTERY-bundle",
       "periodo": 8,
@@ -54,40 +54,40 @@
     },
     {
       "id": "PR-ING-11-2026-W08-future-will-be-going-to-001-MASTERY-bundle-v2",
-      "statement": "What is the English word for: \"A detailed plan or route of a journey.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Complete: 'Look at those clouds! It ____ rain.'",
+      "context": "Future with present evidence, Ponce, grado 11.",
       "options": [
         {
-          "letter": "D",
-          "text": "itinerary",
-          "is_correct": true,
-          "feedback": "Correct! 'itinerary' matches the definition."
-        },
-        {
           "letter": "A",
-          "text": "baggage",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "text": "is going to",
+          "is_correct": true,
+          "feedback": "Present visible evidence plus 'be going to' predicts the immediate outcome."
         },
         {
           "letter": "B",
-          "text": "destination",
+          "text": "will",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "'Will' is also possible here, but the visible evidence favours 'going to'."
         },
         {
           "letter": "C",
-          "text": "passport",
+          "text": "is",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "'Is' alone has no future meaning."
+        },
+        {
+          "letter": "D",
+          "text": "was",
+          "is_correct": false,
+          "feedback": "The simple past cannot express a prediction."
         }
       ],
-      "correct_answer": "D",
-      "explanation": "The word 'itinerary' is used to describe a detailed plan or route of a journey. This is an important vocabulary word in English.\n---",
+      "correct_answer": "A",
+      "explanation": "Las nubes darkened son evidencia presente, por lo que se usa 'be going to'. Es uno de los puntos mas frecuentes de las pruebas de esta unidad.\n\n---",
       "difficulty": "4",
       "images": [],
       "tags": [],
-      "bloom": "Remember",
+      "bloom": "Apply",
       "expected_success": 0.8,
       "bundle_id": "PR-ING-11-2026-W08-future-will-be-going-to-001-MASTERY-bundle",
       "periodo": 8,
@@ -99,40 +99,40 @@
     },
     {
       "id": "PR-ING-11-2026-W08-future-will-be-going-to-001-MASTERY-bundle-v3",
-      "statement": "What is the English word for: \"The place to which someone or something is going or being sent.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "What is the difference between 'will' and 'going to'?",
+      "context": "Comparacion de formas futuras, Mayaguez, grado 11.",
       "options": [
         {
-          "letter": "C",
-          "text": "destination",
-          "is_correct": true,
-          "feedback": "Correct! 'destination' matches the definition."
-        },
-        {
           "letter": "A",
-          "text": "departure",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "text": "'Will' is spontaneous or predictive; 'going to' is pre-planned or evidence-based",
+          "is_correct": true,
+          "feedback": "The two forms differ in the origin of the decision."
         },
         {
           "letter": "B",
-          "text": "arrival",
+          "text": "They are always interchangeable",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "The choice carries different meanings in many contexts."
+        },
+        {
+          "letter": "C",
+          "text": "'Going to' is only used in questions",
+          "is_correct": false,
+          "feedback": "Both forms appear in statements and questions."
         },
         {
           "letter": "D",
-          "text": "journey",
+          "text": "'Will' is used only with 'I'",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "'Will' works with every subject."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "The word 'destination' is used to describe the place to which someone or something is going or being sent. This is an important vocabulary word in English.\n---",
-      "difficulty": "3",
+      "correct_answer": "A",
+      "explanation": "'Will' expresa una decision espontanea o una prediccion; 'going to' una intencion previa o basada en evidencia.\n\n---",
+      "difficulty": "6",
       "images": [],
       "tags": [],
-      "bloom": "Understand",
+      "bloom": "Analyze",
       "expected_success": 0.8,
       "bundle_id": "PR-ING-11-2026-W08-future-will-be-going-to-001-MASTERY-bundle",
       "periodo": 8,
@@ -144,40 +144,40 @@
     },
     {
       "id": "PR-ING-11-2026-W08-future-will-be-going-to-001-MASTERY-bundle-v4",
-      "statement": "What is the English word for: \"Suitcases or other bags in which to pack personal belongings for traveling.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Complete the sentence: 'They ____ get married next June; the date is already set.'",
+      "context": "Planes para el futuro, Aguadilla, grado 11.",
       "options": [
         {
           "letter": "A",
-          "text": "luggage",
-          "is_correct": true,
-          "feedback": "Correct! 'luggage' matches the definition."
+          "text": "will",
+          "is_correct": false,
+          "feedback": "'Will' would suggest a decision taken at the moment of speaking."
         },
         {
           "letter": "B",
-          "text": "ticket",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "text": "are going to",
+          "is_correct": true,
+          "feedback": "'Are going to' marks a pre-arranged intention."
         },
         {
           "letter": "C",
-          "text": "flight",
+          "text": "are",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "The simple present cannot carry the future meaning here."
         },
         {
           "letter": "D",
-          "text": "reservation",
+          "text": "was going to",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "The simple past would refer to an abandoned intention."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'luggage' is used to describe suitcases or other bags in which to pack personal belongings for traveling. This is an important vocabulary word in English.\n---",
+      "correct_answer": "B",
+      "explanation": "La fecha ya esta fijada, de modo que la intencion es previa y corresponde a 'going to'.\n\n---",
       "difficulty": "4",
       "images": [],
       "tags": [],
-      "bloom": "Understand",
+      "bloom": "Apply",
       "expected_success": 0.8,
       "bundle_id": "PR-ING-11-2026-W08-future-will-be-going-to-001-MASTERY-bundle",
       "periodo": 8,
@@ -189,40 +189,40 @@
     },
     {
       "id": "PR-ING-11-2026-W08-future-will-be-going-to-001-MASTERY-bundle-v5",
-      "statement": "What is the English word for: \"A traveler on a public or private conveyance other than the driver, pilot, or crew.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Which sentence uses the future continuous correctly?",
+      "context": "Future continuous, Humacao, grado 11.",
       "options": [
         {
           "letter": "A",
-          "text": "passenger",
-          "is_correct": true,
-          "feedback": "Correct! 'passenger' matches the definition."
+          "text": "This time tomorrow I fly to Madrid.",
+          "is_correct": false,
+          "feedback": "The simple future does not convey the ongoing reading."
         },
         {
           "letter": "B",
-          "text": "pedestrian",
+          "text": "This time tomorrow I am flying to Madrid.",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "The present continuous refers to now, not to tomorrow."
         },
         {
           "letter": "C",
-          "text": "commuter",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "text": "This time tomorrow I will be flying to Madrid.",
+          "is_correct": true,
+          "feedback": "'Will be flying' sets an action in progress at a future moment."
         },
         {
           "letter": "D",
-          "text": "tourist",
+          "text": "This time tomorrow I flew to Madrid.",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "The simple past refers to a past moment."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'passenger' is used to describe a traveler on a public or private conveyance other than the driver, pilot, or crew. This is an important vocabulary word in English.\n---",
-      "difficulty": "5",
+      "correct_answer": "C",
+      "explanation": "El futuro continuo describe una accion que estarà en curso en un momento futuro. Es uno de los puntos mas frecuentes de las pruebas de esta unidad.\n\n---",
+      "difficulty": "6",
       "images": [],
       "tags": [],
-      "bloom": "Understand",
+      "bloom": "Analyze",
       "expected_success": 0.8,
       "bundle_id": "PR-ING-11-2026-W08-future-will-be-going-to-001-MASTERY-bundle",
       "periodo": 8,
@@ -234,40 +234,40 @@
     },
     {
       "id": "PR-ING-11-2026-W08-future-will-be-going-to-001-MASTERY-bundle-v6",
-      "statement": "What is the English word for: \"The place at a port, airport, or frontier where officials check incoming goods, travelers, or luggage.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Complete: 'I think it ____ tomorrow afternoon.'",
+      "context": "Prediccion, Caguas, grado 11.",
       "options": [
         {
-          "letter": "C",
-          "text": "customs",
-          "is_correct": true,
-          "feedback": "Correct! 'customs' matches the definition."
-        },
-        {
           "letter": "A",
-          "text": "security",
+          "text": "is going to rain",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "'Going to' would require earlier evidence, which the sentence lacks."
         },
         {
           "letter": "B",
-          "text": "terminal",
+          "text": "rains",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "The simple present with a future time word needs 'will'."
+        },
+        {
+          "letter": "C",
+          "text": "rained",
+          "is_correct": false,
+          "feedback": "The simple past is not a future form."
         },
         {
           "letter": "D",
-          "text": "gate",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "text": "will rain",
+          "is_correct": true,
+          "feedback": "'Will' presents the speaker's prediction as a spontaneous opinion."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "The word 'customs' is used to describe the place at a port, airport, or frontier where officials check incoming goods, travelers, or luggage. This is an important vocabulary word in English.\n---",
-      "difficulty": "6",
+      "correct_answer": "D",
+      "explanation": "Una opinion expresada en el momento de hablar se formula con 'will'. Es uno de los puntos mas frecuentes de las pruebas de esta unidad.\n\n---",
+      "difficulty": "4",
       "images": [],
       "tags": [],
-      "bloom": "Understand",
+      "bloom": "Apply",
       "expected_success": 0.8,
       "bundle_id": "PR-ING-11-2026-W08-future-will-be-going-to-001-MASTERY-bundle",
       "periodo": 8,
@@ -279,40 +279,40 @@
     },
     {
       "id": "PR-ING-11-2026-W08-future-will-be-going-to-001-MASTERY-bundle-v7",
-      "statement": "What is the English word for: \"A document provided by an airline during check-in, giving a passenger permission to board the airplane.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Read: 'The flight is going to be delayed because of the storm.' What does 'going to' tell us?",
+      "context": "Prediccion basada en evidencia, Arecibo, grado 11.",
       "options": [
         {
-          "letter": "B",
-          "text": "boarding pass",
-          "is_correct": true,
-          "feedback": "Correct! 'boarding pass' matches the definition."
+          "letter": "A",
+          "text": "The delay was decided months ago",
+          "is_correct": false,
+          "feedback": "A fixed plan would more naturally use 'will' or a scheduled form."
         },
         {
-          "letter": "A",
-          "text": "visa",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "letter": "B",
+          "text": "The delay is predicted from evidence that already exists",
+          "is_correct": true,
+          "feedback": "The storm is the visible evidence behind the prediction."
         },
         {
           "letter": "C",
-          "text": "receipt",
+          "text": "The flight has already been delayed",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "The sentence predicts a delay rather than reporting it."
         },
         {
           "letter": "D",
-          "text": "brochure",
+          "text": "The delay will certainly not happen",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "The prediction is negative, the opposite of what is stated."
         }
       ],
       "correct_answer": "B",
-      "explanation": "The word 'boarding pass' is used to describe a document provided by an airline during check-in, giving a passenger permission to board the airplane. This is an important vocabulary word in English.\n---",
-      "difficulty": "5",
+      "explanation": "La tormenta ya visible justifica la prediccion y por eso se usa 'going to'. Es uno de los puntos mas frecuentes de las pruebas de esta unidad.\n\n---",
+      "difficulty": "6",
       "images": [],
       "tags": [],
-      "bloom": "Apply",
+      "bloom": "Analyze",
       "expected_success": 0.8,
       "bundle_id": "PR-ING-11-2026-W08-future-will-be-going-to-001-MASTERY-bundle",
       "periodo": 8,
@@ -324,40 +324,40 @@
     },
     {
       "id": "PR-ING-11-2026-W08-future-will-be-going-to-001-MASTERY-bundle-v8",
-      "statement": "What is the English word for: \"The activity of visiting places of interest in a particular location.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Which sentence uses the future perfect correctly?",
+      "context": "Future perfect, Guaynabo, grado 11.",
       "options": [
         {
-          "letter": "C",
-          "text": "sightseeing",
-          "is_correct": true,
-          "feedback": "Correct! 'sightseeing' matches the definition."
-        },
-        {
           "letter": "A",
-          "text": "shopping",
+          "text": "By June I will graduate.",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "The simple future does not mark completion before that point."
         },
         {
           "letter": "B",
-          "text": "hiking",
+          "text": "By June I graduated.",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "The simple past would refer to a real past point."
+        },
+        {
+          "letter": "C",
+          "text": "By June I will have graduated.",
+          "is_correct": true,
+          "feedback": "'Will have graduated' shows the action completed before a future point."
         },
         {
           "letter": "D",
-          "text": "camping",
+          "text": "By June I am graduating.",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "The present continuous refers to now."
         }
       ],
       "correct_answer": "C",
-      "explanation": "The word 'sightseeing' is used to describe the activity of visiting places of interest in a particular location. This is an important vocabulary word in English.\n---",
+      "explanation": "El futuro perfecto muestra una accion terminada antes de un momento futuro. Es uno de los puntos mas frecuentes de las pruebas de esta unidad.\n\n---",
       "difficulty": "6",
       "images": [],
       "tags": [],
-      "bloom": "Apply",
+      "bloom": "Analyze",
       "expected_success": 0.8,
       "bundle_id": "PR-ING-11-2026-W08-future-will-be-going-to-001-MASTERY-bundle",
       "periodo": 8,
@@ -369,37 +369,37 @@
     },
     {
       "id": "PR-ING-11-2026-W08-future-will-be-going-to-001-MASTERY-bundle-v9",
-      "statement": "What is the English word for: \"A thing that is kept as a reminder of a person, place, or event.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Complete: 'By the time we arrive, the film ____.'",
+      "context": "Future perfect, Vega Baja, grado 11.",
       "options": [
         {
-          "letter": "D",
-          "text": "souvenir",
-          "is_correct": true,
-          "feedback": "Correct! 'souvenir' matches the definition."
-        },
-        {
           "letter": "A",
-          "text": "gift",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "text": "will have finished",
+          "is_correct": true,
+          "feedback": "'Will have finished' places the completion before the arrival."
         },
         {
           "letter": "B",
-          "text": "award",
+          "text": "is finishing",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "The present continuous refers to now."
         },
         {
           "letter": "C",
-          "text": "prize",
+          "text": "finished",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "The simple past would place the event entirely in the past."
+        },
+        {
+          "letter": "D",
+          "text": "will finish",
+          "is_correct": false,
+          "feedback": "The simple future does not mark prior completion."
         }
       ],
-      "correct_answer": "D",
-      "explanation": "The word 'souvenir' is used to describe a thing that is kept as a reminder of a person, place, or event. This is an important vocabulary word in English.\n---",
-      "difficulty": "5",
+      "correct_answer": "A",
+      "explanation": "La pelicula ya habra terminado cuando lleguen, por eso va en futuro perfecto. Es uno de los puntos mas frecuentes de las pruebas de esta unidad.\n\n---",
+      "difficulty": "6",
       "images": [],
       "tags": [],
       "bloom": "Apply",
@@ -414,40 +414,40 @@
     },
     {
       "id": "PR-ING-11-2026-W08-future-will-be-going-to-001-MASTERY-bundle-v10",
-      "statement": "What is the English word for: \"A period of time by which something is late or postponed.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "What does the sentence 'I will have been working here for ten years' express?",
+      "context": "Futuro perfecto continuo, Jayuya, grado 11.",
       "options": [
         {
-          "letter": "C",
-          "text": "delay",
-          "is_correct": true,
-          "feedback": "Correct! 'delay' matches the definition."
-        },
-        {
           "letter": "A",
-          "text": "cancellation",
+          "text": "An action that stops right now",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "The continuous element indicates ongoing duration."
         },
         {
           "letter": "B",
-          "text": "departure",
+          "text": "A past duration that has already ended",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "The reference point is future, not past."
+        },
+        {
+          "letter": "C",
+          "text": "A duration that will be completed by a future moment",
+          "is_correct": true,
+          "feedback": "'Will have been' combines completion and duration."
         },
         {
           "letter": "D",
-          "text": "arrival",
+          "text": "A repeated past habit",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Repetition would require 'for ten years' plus a simple past."
         }
       ],
       "correct_answer": "C",
-      "explanation": "The word 'delay' is used to describe a period of time by which something is late or postponed. This is an important vocabulary word in English.\n---",
+      "explanation": "La forma expresa una duracion que estara cumplida en un momento futuro. Es uno de los puntos mas frecuentes de las pruebas de esta unidad.\n\n---",
       "difficulty": "6",
       "images": [],
       "tags": [],
-      "bloom": "Apply",
+      "bloom": "Analyze",
       "expected_success": 0.8,
       "bundle_id": "PR-ING-11-2026-W08-future-will-be-going-to-001-MASTERY-bundle",
       "periodo": 8,
@@ -459,40 +459,40 @@
     },
     {
       "id": "PR-ING-11-2026-W08-future-will-be-going-to-001-MASTERY-bundle-v11",
-      "statement": "What is the English word for: \"The act of reporting one's presence and registering, typically at an airport or hotel.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Choose the sentence that correctly uses 'going to' with a present verb.",
+      "context": "Revisjon de formas, Yauco, grado 11.",
       "options": [
         {
-          "letter": "D",
-          "text": "check-in",
-          "is_correct": true,
-          "feedback": "Correct! 'check-in' matches the definition."
-        },
-        {
           "letter": "A",
-          "text": "check-out",
+          "text": "We are going to visited the museum on Sunday.",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "The past participle is not allowed after 'going to'."
         },
         {
           "letter": "B",
-          "text": "booking",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "text": "We are going to visit the museum on Sunday.",
+          "is_correct": true,
+          "feedback": "'Visit' in the base form is correct after 'going to'."
         },
         {
           "letter": "C",
-          "text": "reservation",
+          "text": "We are going to visiting the museum on Sunday.",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "The -ing form is not allowed after 'going to'."
+        },
+        {
+          "letter": "D",
+          "text": "We are going to visits the museum on Sunday.",
+          "is_correct": false,
+          "feedback": "The third person form is not allowed after 'going to'."
         }
       ],
-      "correct_answer": "D",
-      "explanation": "The word 'check-in' is used to describe the act of reporting one's presence and registering, typically at an airport or hotel. This is an important vocabulary word in English.\n---",
-      "difficulty": "7",
+      "correct_answer": "B",
+      "explanation": "'Be going to' siempre va seguido de la forma base del verbo, nunca de un tiempo marcado.\n\n---",
+      "difficulty": "4",
       "images": [],
       "tags": [],
-      "bloom": "Apply",
+      "bloom": "Evaluate",
       "expected_success": 0.8,
       "bundle_id": "PR-ING-11-2026-W08-future-will-be-going-to-001-MASTERY-bundle",
       "periodo": 8,
@@ -504,37 +504,82 @@
     },
     {
       "id": "PR-ING-11-2026-W08-future-will-be-going-to-001-MASTERY-bundle-v12",
-      "statement": "What is the English word for: \"A period of rest or waiting before a further stage in a journey.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Look at the sentence: 'I will meeting my aunt tonight.' What is the error?",
+      "context": "Deteccion de errores, Barceloneta, grado 11.",
       "options": [
         {
-          "letter": "B",
-          "text": "layover",
-          "is_correct": true,
-          "feedback": "Correct! 'layover' matches the definition."
+          "letter": "A",
+          "text": "Nothing is wrong with the sentence",
+          "is_correct": false,
+          "feedback": "The -ing form after 'will' is a standard error."
         },
         {
-          "letter": "A",
-          "text": "stopover",
+          "letter": "B",
+          "text": "'Will' must be 'going to'",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Either form works grammatically; the problem is the -ing form."
         },
         {
           "letter": "C",
-          "text": "transfer",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "text": "'Meeting' must be 'meet'",
+          "is_correct": true,
+          "feedback": "'Will' must be followed by the bare infinitive."
         },
         {
           "letter": "D",
-          "text": "transit",
+          "text": "'My aunt' must be plural",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "'Aunt' is singular and agrees with 'my'."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "The word 'layover' is used to describe a period of rest or waiting before a further stage in a journey. This is an important vocabulary word in English.\n---",
-      "difficulty": "8",
+      "correct_answer": "C",
+      "explanation": "Tras 'will' solo puede aparecer la forma base del verbo. Es uno de los puntos mas frecuentes de las pruebas de esta unidad.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.8,
+      "bundle_id": "PR-ING-11-2026-W08-future-will-be-going-to-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 11,
+      "country": "pr"
+    },
+    {
+      "id": "PR-ING-11-2026-W08-future-will-be-going-to-001-MASTERY-bundle-v13",
+      "statement": "Complete: 'She ____ to Europe next semester; she has already bought the ticket.'",
+      "context": "Intencion previa, Maunabo, grado 11.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "will",
+          "is_correct": false,
+          "feedback": "'Will' would mark a decision made now, not one already settled."
+        },
+        {
+          "letter": "B",
+          "text": "goes",
+          "is_correct": false,
+          "feedback": "The simple present cannot express this future intention."
+        },
+        {
+          "letter": "C",
+          "text": "is",
+          "is_correct": false,
+          "feedback": "'Is' alone has no future meaning."
+        },
+        {
+          "letter": "D",
+          "text": "is going",
+          "is_correct": true,
+          "feedback": "'Is going' marks an intention already taken."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "El viaje ya esta decidido por la compra del billete, de modo que la intencion es previa.\n\n---",
+      "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Apply",
@@ -548,86 +593,41 @@
       "country": "pr"
     },
     {
-      "id": "PR-ING-11-2026-W08-future-will-be-going-to-001-MASTERY-bundle-v13",
-      "statement": "What is the English word for: \"A system of money in general use in a particular country.\"",
-      "context": "Choose the correct English word for the given definition.",
-      "options": [
-        {
-          "letter": "C",
-          "text": "currency",
-          "is_correct": true,
-          "feedback": "Correct! 'currency' matches the definition."
-        },
-        {
-          "letter": "A",
-          "text": "coin",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "B",
-          "text": "banknote",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "D",
-          "text": "cash",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        }
-      ],
-      "correct_answer": "C",
-      "explanation": "The word 'currency' is used to describe a system of money in general use in a particular country. This is an important vocabulary word in English.\n---",
-      "difficulty": "7",
-      "images": [],
-      "tags": [],
-      "bloom": "Analyze",
-      "expected_success": 0.8,
-      "bundle_id": "PR-ING-11-2026-W08-future-will-be-going-to-001-MASTERY-bundle",
-      "periodo": 8,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ingles",
-      "grade": 11,
-      "country": "pr"
-    },
-    {
       "id": "PR-ING-11-2026-W08-future-will-be-going-to-001-MASTERY-bundle-v14",
-      "statement": "What is the English word for: \"A book of information about a place designed for the use of visitors or tourists.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Which statement about the future perfect is correct?",
+      "context": "Marco conceptual, Naguabo, grado 11.",
       "options": [
         {
-          "letter": "C",
-          "text": "guidebook",
-          "is_correct": true,
-          "feedback": "Correct! 'guidebook' matches the definition."
-        },
-        {
           "letter": "A",
-          "text": "map",
+          "text": "It shows an action happening at the moment of speaking",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "That is the present continuous."
         },
         {
           "letter": "B",
-          "text": "dictionary",
+          "text": "It shows a repeated habit in the future",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Habits use 'will' plus the base form."
+        },
+        {
+          "letter": "C",
+          "text": "It shows an action completed before a future reference point",
+          "is_correct": true,
+          "feedback": "That is the defining function of the form."
         },
         {
           "letter": "D",
-          "text": "encyclopedia",
+          "text": "It shows an action that started in the past and stopped",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "The present perfect covers that reading instead."
         }
       ],
       "correct_answer": "C",
-      "explanation": "The word 'guidebook' is used to describe a book of information about a place designed for the use of visitors or tourists. This is an important vocabulary word in English.\n---",
-      "difficulty": "8",
+      "explanation": "El futuro perfecto situa la conclusion de una accion antes de un instante futuro. Es uno de los puntos mas frecuentes de las pruebas de esta unidad.\n\n---",
+      "difficulty": "6",
       "images": [],
       "tags": [],
-      "bloom": "Analyze",
+      "bloom": "Understand",
       "expected_success": 0.8,
       "bundle_id": "PR-ING-11-2026-W08-future-will-be-going-to-001-MASTERY-bundle",
       "periodo": 8,
@@ -639,37 +639,37 @@
     },
     {
       "id": "PR-ING-11-2026-W08-future-will-be-going-to-001-MASTERY-bundle-v15",
-      "statement": "What is the English word for: \"A bag with shoulder straps that allow it to be carried on one's back.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Read the dialogue: 'A: Are you joining the trip? B: I ____ to sign up tomorrow.' Choose the best option.",
+      "context": "Decisiones en el momento, Ciales, grado 11.",
       "options": [
         {
-          "letter": "D",
-          "text": "backpack",
-          "is_correct": true,
-          "feedback": "Correct! 'backpack' matches the definition."
-        },
-        {
           "letter": "A",
-          "text": "suitcase",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "text": "will",
+          "is_correct": true,
+          "feedback": "A decision taken at the moment of speaking takes 'will'."
         },
         {
           "letter": "B",
-          "text": "briefcase",
+          "text": "am going to",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "'Going to' would suggest the decision was made earlier."
         },
         {
           "letter": "C",
-          "text": "handbag",
+          "text": "am",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "The simple present has no future meaning here."
+        },
+        {
+          "letter": "D",
+          "text": "was going to",
+          "is_correct": false,
+          "feedback": "The past form would refer to an intention previously abandoned."
         }
       ],
-      "correct_answer": "D",
-      "explanation": "The word 'backpack' is used to describe a bag with shoulder straps that allow it to be carried on one's back. This is an important vocabulary word in English.\n---",
-      "difficulty": "7",
+      "correct_answer": "A",
+      "explanation": "La decision se toma al hablar, asi que 'will' encaja mejor que 'going to'. Es uno de los puntos mas frecuentes de las pruebas de esta unidad.\n\n---",
+      "difficulty": "6",
       "images": [],
       "tags": [],
       "bloom": "Analyze",
@@ -684,40 +684,40 @@
     },
     {
       "id": "PR-ING-11-2026-W08-future-will-be-going-to-001-MASTERY-bundle-v16",
-      "statement": "What is the English word for: \"In or to a foreign country, especially one across the sea.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Complete: 'By the end of this year, we ____ in this house for ten years.'",
+      "context": "Duracion futura, Juana Diaz, grado 11.",
       "options": [
         {
-          "letter": "B",
-          "text": "overseas",
-          "is_correct": true,
-          "feedback": "Correct! 'overseas' matches the definition."
+          "letter": "A",
+          "text": "will be",
+          "is_correct": false,
+          "feedback": "'Will be' marks an action in progress at a future moment, not its completion."
         },
         {
-          "letter": "A",
-          "text": "domestic",
+          "letter": "B",
+          "text": "have been",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "The present perfect refers to the present."
         },
         {
           "letter": "C",
-          "text": "local",
+          "text": "are",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "The simple present refers to now."
         },
         {
           "letter": "D",
-          "text": "national",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "text": "will have been",
+          "is_correct": true,
+          "feedback": "'Will have been' combines a future reference with a completed duration."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "The word 'overseas' is used to describe in or to a foreign country, especially one across the sea. This is an important vocabulary word in English.\n---",
-      "difficulty": "8",
+      "correct_answer": "D",
+      "explanation": "La duracion cumplida en un momento futuro requiere el futuro perfecto continuo. Es uno de los puntos mas frecuentes de las pruebas de esta unidad.\n\n---",
+      "difficulty": "6",
       "images": [],
       "tags": [],
-      "bloom": "Analyze",
+      "bloom": "Apply",
       "expected_success": 0.8,
       "bundle_id": "PR-ING-11-2026-W08-future-will-be-going-to-001-MASTERY-bundle",
       "periodo": 8,
@@ -729,37 +729,37 @@
     },
     {
       "id": "PR-ING-11-2026-W08-future-will-be-going-to-001-MASTERY-bundle-v17",
-      "statement": "What is the English word for: \"An estimate of income and expenditure for a set period of time.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Which sentence correctly contrasts 'will' and 'going to'?",
+      "context": "Aplicacion comparada, Luquillo, grado 11.",
       "options": [
         {
           "letter": "A",
-          "text": "budget",
-          "is_correct": true,
-          "feedback": "Correct! 'budget' matches the definition."
+          "text": "I will cook tonight, so we are going to need a takeaway",
+          "is_correct": false,
+          "feedback": "Both forms are correct, but the consequence inverts the logic."
         },
         {
           "letter": "B",
-          "text": "expense",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "text": "I am going to cook tonight, so we will not need a takeaway",
+          "is_correct": true,
+          "feedback": "The plan is set in the first clause and the consequence follows."
         },
         {
           "letter": "C",
-          "text": "cost",
+          "text": "I am going to be cooking tonight, so we will need a takeaway",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "'Be going to be' would mark a later change of plan."
         },
         {
           "letter": "D",
-          "text": "price",
+          "text": "I will be cooking tonight, so we are going to order a pizza",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "The meanings are attached to the wrong clauses."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'budget' is used to describe an estimate of income and expenditure for a set period of time. This is an important vocabulary word in English.\n---",
-      "difficulty": "9",
+      "correct_answer": "B",
+      "explanation": "La primera oracion expresa una intencion previa y la segunda una prediccion espontanea.\n\n---",
+      "difficulty": "6",
       "images": [],
       "tags": [],
       "bloom": "Evaluate",
@@ -774,40 +774,40 @@
     },
     {
       "id": "PR-ING-11-2026-W08-future-will-be-going-to-001-MASTERY-bundle-v18",
-      "statement": "What is the English word for: \"A practice or arrangement by which a company or government agency provides a guarantee of compensation for specified loss, damage, illness, or death in return for payment of a premium.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "What does 'be going to' usually express when it appears in the present continuous form?",
+      "context": "Analisis gramatical, Ciales, grado 11.",
       "options": [
         {
-          "letter": "C",
-          "text": "insurance",
-          "is_correct": true,
-          "feedback": "Correct! 'insurance' matches the definition."
-        },
-        {
           "letter": "A",
-          "text": "warranty",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "text": "A pre-existing intention or an evidence-based prediction",
+          "is_correct": true,
+          "feedback": "That is the standard present use of the form."
         },
         {
           "letter": "B",
-          "text": "guarantee",
+          "text": "An action happening right now",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "That is the plain present continuous."
+        },
+        {
+          "letter": "C",
+          "text": "An action completed in the past",
+          "is_correct": false,
+          "feedback": "That would be the present perfect."
         },
         {
           "letter": "D",
-          "text": "policy",
+          "text": "A past habit",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "That would be 'used to' plus the base form."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "The word 'insurance' is used to describe a practice or arrangement by which a company or government agency provides a guarantee of compensation for specified loss, damage, illness, or death in return for payment of a premium. This is an important vocabulary word in English.\n---",
-      "difficulty": "10",
+      "correct_answer": "A",
+      "explanation": "En presente, 'be going to' expresa un plan, una intencion previa o una prediccion basada en evidencia.\n\n---",
+      "difficulty": "6",
       "images": [],
       "tags": [],
-      "bloom": "Evaluate",
+      "bloom": "Understand",
       "expected_success": 0.8,
       "bundle_id": "PR-ING-11-2026-W08-future-will-be-going-to-001-MASTERY-bundle",
       "periodo": 8,
@@ -819,40 +819,40 @@
     },
     {
       "id": "PR-ING-11-2026-W08-future-will-be-going-to-001-MASTERY-bundle-v19",
-      "statement": "What is the English word for: \"Treatment with a vaccine to produce immunity against a disease.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Complete: 'They ____ probably arrive late, since the roads are blocked.'",
+      "context": "Prediccion con evidencia, Caguas, grado 11.",
       "options": [
         {
-          "letter": "B",
-          "text": "vaccination",
-          "is_correct": true,
-          "feedback": "Correct! 'vaccination' matches the definition."
+          "letter": "A",
+          "text": "have arrived",
+          "is_correct": false,
+          "feedback": "The present perfect refers to a past result, not a prediction."
         },
         {
-          "letter": "A",
-          "text": "medication",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "letter": "B",
+          "text": "are going to",
+          "is_correct": true,
+          "feedback": "'Are going to' predicts from present evidence."
         },
         {
           "letter": "C",
-          "text": "prescription",
+          "text": "will be arrived",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "'Will be arrived' is not a standard construction with this verb."
         },
         {
           "letter": "D",
-          "text": "infection",
+          "text": "are arriving yesterday",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "A past time marker cannot follow a present progressive."
         }
       ],
       "correct_answer": "B",
-      "explanation": "The word 'vaccination' is used to describe treatment with a vaccine to produce immunity against a disease. This is an important vocabulary word in English.\n---",
-      "difficulty": "9",
+      "explanation": "El bloqueo de las carreteras es evidencia presente que sostiene la prediccion. Es uno de los puntos mas frecuentes de las pruebas de esta unidad.\n\n---",
+      "difficulty": "6",
       "images": [],
       "tags": [],
-      "bloom": "Evaluate",
+      "bloom": "Apply",
       "expected_success": 0.8,
       "bundle_id": "PR-ING-11-2026-W08-future-will-be-going-to-001-MASTERY-bundle",
       "periodo": 8,
@@ -864,40 +864,40 @@
     },
     {
       "id": "PR-ING-11-2026-W08-future-will-be-going-to-001-MASTERY-bundle-v20",
-      "statement": "What is the English word for: \"Extreme tiredness and other physical effects felt by a person after a long flight across several time zones.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Choose the sentence with a correct future perfect question.",
+      "context": "Interrogacion con futuro perfecto, Cayey, grado 11.",
       "options": [
         {
-          "letter": "B",
-          "text": "jet lag",
-          "is_correct": true,
-          "feedback": "Correct! 'jet lag' matches the definition."
+          "letter": "A",
+          "text": "You will have finished the report by six?",
+          "is_correct": false,
+          "feedback": "Without the auxiliary at the front this is not a question."
         },
         {
-          "letter": "A",
-          "text": "fatigue",
+          "letter": "B",
+          "text": "Have you will finished the report by six?",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "The modals cannot be reordered like that."
         },
         {
           "letter": "C",
-          "text": "exhaustion",
+          "text": "Will you finished the report by six?",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "'Will' must be followed by the participle, not the past form."
         },
         {
           "letter": "D",
-          "text": "insomnia",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "text": "Will you have finished the report by six?",
+          "is_correct": true,
+          "feedback": "'Will' precedes the subject and the participle follows."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "The word 'jet lag' is used to describe extreme tiredness and other physical effects felt by a person after a long flight across several time zones. This is an important vocabulary word in English.",
-      "difficulty": "10",
+      "correct_answer": "D",
+      "explanation": "La pregunta con futuro perfecto invierte el orden del auxiliar y el sujeto. Es uno de los puntos mas frecuentes de las pruebas de esta unidad.\n\n---",
+      "difficulty": "6",
       "images": [],
       "tags": [],
-      "bloom": "Evaluate",
+      "bloom": "Analyze",
       "expected_success": 0.8,
       "bundle_id": "PR-ING-11-2026-W08-future-will-be-going-to-001-MASTERY-bundle",
       "periodo": 8,

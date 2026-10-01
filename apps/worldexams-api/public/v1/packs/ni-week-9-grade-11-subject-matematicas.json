@@ -691,7 +691,7 @@
           "letter": "B",
           "text": "$(3, 4)$",
           "is_correct": false,
-          "feedback": "Incorrecto. No satisface la segunda ecuación."
+          "feedback": "Sustituyendo en $y=-x+5$: $-3+5=2\\neq4$, así que el punto no pertenece a la segunda recta."
         },
         {
           "letter": "A",
@@ -703,7 +703,7 @@
           "letter": "C",
           "text": "$(1, 2)$",
           "is_correct": false,
-          "feedback": "Incorrecto. No satisface la segunda ecuación."
+          "feedback": "Sustituyendo en $y=-x+5$: $-1+5=4\\neq2$, de modo que el punto no está en la segunda recta."
         },
         {
           "letter": "D",

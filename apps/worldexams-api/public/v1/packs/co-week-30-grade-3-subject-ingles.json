@@ -16,25 +16,25 @@
           "letter": "A",
           "text": "go",
           "is_correct": false,
-          "feedback": "go es la forma del presente; la palabra Last Saturday fija la accion en el pasado."
+          "feedback": "go is the present form; the words Last Saturday place the action in the past."
         },
         {
           "letter": "D",
           "text": "went",
           "is_correct": true,
-          "feedback": "went es el pasado simple irregular de go y el enunciado habla de una accion ya terminada."
+          "feedback": "went is the irregular past simple of go, and the sentence talks about an action that already happened."
         },
         {
           "letter": "B",
           "text": "am going",
           "is_correct": false,
-          "feedback": "am going es el presente continuo y describe una accion en curso, no algo que ya ocurrio."
+          "feedback": "am going is the present continuous and describes an action in progress, not something that already happened."
         },
         {
           "letter": "C",
           "text": "will go",
           "is_correct": false,
-          "feedback": "will go expresa un plan o una prediccion futura, y el enunciado ya situa la accion en el pasado."
+          "feedback": "will go expresses a plan or a future prediction, and the sentence already places the action in the past."
         }
       ],
       "correct_answer": "D",
@@ -62,25 +62,25 @@
           "letter": "A",
           "text": "One",
           "is_correct": false,
-          "feedback": "one seria la respuesta si el texto mencionara un solo tipo de fruta."
+          "feedback": "One would be the answer if the text mentioned a single type of fruit."
         },
         {
           "letter": "D",
           "text": "Two",
           "is_correct": true,
-          "feedback": "el texto nombra dos frutas distintas, una manzana y un platano."
+          "feedback": "The text names two different fruits, an apple and a banana."
         },
         {
           "letter": "B",
           "text": "Three",
           "is_correct": false,
-          "feedback": "tres exigiria un tercer alimento en la enumeracion, y el enunciado solo lista dos."
+          "feedback": "Three would require a third food in the list, and the sentence only lists two."
         },
         {
           "letter": "C",
           "text": "Four",
           "is_correct": false,
-          "feedback": "cuatro exceede lo que el texto enumera, que se limita a dos frutas por colacion."
+          "feedback": "Four goes beyond what the text enumerates, which is limited to two fruits for the snack."
         }
       ],
       "correct_answer": "D",
@@ -108,25 +108,25 @@
           "letter": "A",
           "text": "What time do you go to bed?",
           "is_correct": false,
-          "feedback": "esa pregunta se hace por la noche, al final del dia, no a la tarde con el sol aun arriba."
+          "feedback": "That question is asked at night, at the end of the day, and not in the afternoon with the sun still up."
         },
         {
           "letter": "C",
           "text": "What time is it now?",
           "is_correct": true,
-          "feedback": "What time is it now pregunta la hora actual, que es justo lo que el estudiante quiere saber a la tarde."
+          "feedback": "What time is it now asks for the current hour, which is exactly what the student wants to know in the afternoon."
         },
         {
           "letter": "B",
           "text": "When did you wake up?",
           "is_correct": false,
-          "feedback": "esa pregunta se hace por la manana para saber la hora del despertar, y no al mediodia."
+          "feedback": "That question is asked in the morning to find out the time of waking up, and not at noon."
         },
         {
           "letter": "D",
           "text": "How long do you sleep?",
           "is_correct": false,
-          "feedback": "esa pregunta pide una duracion de tiempo en horas, y no pide la hora en punto de este momento."
+          "feedback": "That question asks for a length of time in hours, and not for the time of day at this moment."
         }
       ],
       "correct_answer": "C",
@@ -154,25 +154,25 @@
           "letter": "B",
           "text": "Two hours",
           "is_correct": false,
-          "feedback": "dos horas no corresponden a la diferencia entre las siete y las cuatro."
+          "feedback": "Two hours do not correspond to the difference between seven and four."
         },
         {
           "letter": "A",
           "text": "Nine hours",
           "is_correct": true,
-          "feedback": "de 7:00 a 16:00 hay nueve horas, que es lo que dura la jornada escolar del texto."
+          "feedback": "From 7:00 to 16:00 there are nine hours, which is how long the school day in the text lasts."
         },
         {
           "letter": "C",
           "text": "Twenty-four hours",
           "is_correct": false,
-          "feedback": "veinticuatro horas es un dia completo y no el tiempo que el hermano pasa en la escuela."
+          "feedback": "Twenty-four hours is a full day and not the time the brother spends at school."
         },
         {
           "letter": "D",
           "text": "Eleven hours",
           "is_correct": false,
-          "feedback": "once seria la cuenta desde medianoche hasta las once, que es otra forma de medir el mismo horario."
+          "feedback": "Eleven would be the count from midnight to eleven, which is another way of measuring the same schedule."
         }
       ],
       "correct_answer": "A",
@@ -200,25 +200,25 @@
           "letter": "A",
           "text": "at ... at",
           "is_correct": true,
-          "feedback": "las horas en punto se preceden con at, tanto a las ocho como a las doce."
+          "feedback": "Exact hours are preceded by at, both at eight and at twelve."
         },
         {
           "letter": "B",
           "text": "in ... in",
           "is_correct": false,
-          "feedback": "in se usa con expresiones mas amplias como in the morning, no con una hora exacta como las ocho."
+          "feedback": "in is used with broader expressions like in the morning, not with an exact hour like eight."
         },
         {
           "letter": "C",
           "text": "on ... on",
           "is_correct": false,
-          "feedback": "on se usa con dias y fechas, como on Monday, y no con horas del reloj."
+          "feedback": "on is used with days and dates, like on Monday, and not with hours of the clock."
         },
         {
           "letter": "D",
           "text": "to ... to",
           "is_correct": false,
-          "feedback": "to indica destino o intervalo entre dos puntos, y no introduce la hora de inicio de una clase."
+          "feedback": "to indicates destination or the interval between two points, and does not introduce the starting hour of a class."
         }
       ],
       "correct_answer": "A",
@@ -246,25 +246,25 @@
           "letter": "A",
           "text": "The hen",
           "is_correct": false,
-          "feedback": "la gallina pone huevos y no produce leche."
+          "feedback": "The hen lays eggs and does not produce milk."
         },
         {
           "letter": "B",
           "text": "The cow",
           "is_correct": true,
-          "feedback": "la vaca es el animal dari que obtenemos la leche que consumimos."
+          "feedback": "The cow is the animal from which we get the milk we drink."
         },
         {
           "letter": "C",
           "text": "The horse",
           "is_correct": false,
-          "feedback": "el caballo se usa para montar y para transporte, no para producir leche."
+          "feedback": "The horse is used for riding and for transport, not for producing milk."
         },
         {
           "letter": "D",
           "text": "The sheep",
           "is_correct": false,
-          "feedback": "la oveja da lana y carne, y su leche no es el alimento diario del que habla el ejercicio."
+          "feedback": "The sheep gives wool and meat, and its milk is not the daily food the exercise talks about."
         }
       ],
       "correct_answer": "B",
@@ -292,25 +292,25 @@
           "letter": "A",
           "text": "Are",
           "is_correct": false,
-          "feedback": "are combina con un participio como eaten y se usa con el verbo to be, no con el verbo to have."
+          "feedback": "are combines with a participle like eaten and is used with the verb to be, not with the verb to have."
         },
         {
           "letter": "B",
           "text": "Have",
           "is_correct": true,
-          "feedback": "haveever forma el presente perfecto con el participio eaten, que es la estructura que pide el ejercicio."
+          "feedback": "haveever forms the present perfect with the participle eaten, which is the structure the exercise asks for."
         },
         {
           "letter": "C",
           "text": "Do",
           "is_correct": false,
-          "feedback": "do sirve para el presente simple, como Do you like sushi, y no para un participio."
+          "feedback": "do is used for the present simple, like Do you like sushi, and not for a participle."
         },
         {
           "letter": "D",
           "text": "Did",
           "is_correct": false,
-          "feedback": "did forma el pasado simple interrogativo y necesita el verbo base, no la forma eaten."
+          "feedback": "did forms the interrogative past simple and needs the base verb, not the form eaten."
         }
       ],
       "correct_answer": "B",
@@ -338,25 +338,25 @@
           "letter": "A",
           "text": "Ten",
           "is_correct": false,
-          "feedback": "diez seria el total si los numeros fueran siete y tres, pero hay que sumar los dos grupos."
+          "feedback": "Ten would be the total if the numbers were seven and three, but the two groups have to be added."
         },
         {
           "letter": "B",
           "text": "Nine",
           "is_correct": false,
-          "feedback": "nueve corresponde solo a los lapices mas dos de mas, y no suma los tres sacapuntas."
+          "feedback": "Nine corresponds only to the pencils plus two extra, and it does not add the three erasers."
         },
         {
           "letter": "C",
           "text": "Seven plus three, ten in total",
           "is_correct": true,
-          "feedback": "7 + 3 = 10, y la opcion muestra la operacion que justifica el total."
+          "feedback": "7 + 3 = 10, and the option shows the operation that justifies the total."
         },
         {
           "letter": "D",
           "text": "Three",
           "is_correct": false,
-          "feedback": "tres es solo la cantidad de sacapuntas y deja fuera el grupo de siete lapices."
+          "feedback": "Three is only the number of erasers and leaves out the group of seven pencils."
         }
       ],
       "correct_answer": "C",

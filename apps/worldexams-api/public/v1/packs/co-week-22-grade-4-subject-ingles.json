@@ -16,25 +16,25 @@
           "letter": "A",
           "text": "water",
           "is_correct": true,
-          "feedback": "Correct!"
+          "feedback": "Correct. Water is the drink you take when you are thirsty; it quenches thirst and hydrates the body."
         },
         {
           "letter": "B",
           "text": "bread",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "Bread is a solid food that you eat, not something you drink."
         },
         {
           "letter": "C",
           "text": "pizza",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "Pizza is a meal to eat and it does not quench thirst."
         },
         {
           "letter": "D",
           "text": "cheese",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "Cheese is a solid dairy food, so it is eaten and not drunk."
         }
       ],
       "correct_answer": "A",
@@ -62,25 +62,25 @@
           "letter": "A",
           "text": "fish",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "Monkeys mainly eat fruit, leaves and seeds; fish is not part of their diet."
         },
         {
           "letter": "B",
           "text": "bananas",
           "is_correct": true,
-          "feedback": "Correct!"
+          "feedback": "Correct. Bananas grow in the tropical forests where monkeys live, and they are one of their favorite fruits."
         },
         {
           "letter": "C",
           "text": "meat",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "Most monkeys are mainly fruit-eaters, so meat is not their main food."
         },
         {
           "letter": "D",
           "text": "eggs",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "Eggs are an occasional food for some monkeys, but bananas are what they are known for eating."
         }
       ],
       "correct_answer": "B",
@@ -108,25 +108,25 @@
           "letter": "A",
           "text": "A shoe",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "A shoe is not food; it is worn on the foot."
         },
         {
           "letter": "B",
           "text": "A book",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "A book is read, not eaten."
         },
         {
           "letter": "C",
           "text": "Cereal and milk",
           "is_correct": true,
-          "feedback": "Correct!"
+          "feedback": "Correct. Cereal with milk is a typical breakfast food, eaten in the morning."
         },
         {
           "letter": "D",
           "text": "A pencil",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "A pencil is used to write; it is not edible."
         }
       ],
       "correct_answer": "C",
@@ -154,25 +154,25 @@
           "letter": "A",
           "text": "chocolate",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "Chocolate is a sweet made for humans and would harm a rabbit."
         },
         {
           "letter": "B",
           "text": "coffee",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "Coffee is a drink made from roasted beans for people; rabbits should not have it."
         },
         {
           "letter": "C",
           "text": "soda",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "Soda is a sugary fizzy drink for people, not food for rabbits."
         },
         {
           "letter": "D",
           "text": "carrots",
           "is_correct": true,
-          "feedback": "Correct!"
+          "feedback": "Correct. Rabbits have front teeth that grow continuously, and they gnaw raw vegetables such as carrots."
         }
       ],
       "correct_answer": "D",
@@ -200,25 +200,25 @@
           "letter": "A",
           "text": "Pizza",
           "is_correct": true,
-          "feedback": "Correct!"
+          "feedback": "Correct. Pizza originated in Naples, Italy, and is the dish that identifies Italian food worldwide."
         },
         {
           "letter": "B",
           "text": "Rice",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "Rice is eaten in Italy too, but it does not identify Italian cooking the way pizza does."
         },
         {
           "letter": "C",
           "text": "Hamburger",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "The hamburger comes from the United States."
         },
         {
           "letter": "D",
           "text": "Soup",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "Soup is found in every cuisine, so it does not belong to one country in particular."
         }
       ],
       "correct_answer": "A",
@@ -246,25 +246,25 @@
           "letter": "A",
           "text": "milk",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "Milk is a drink poured into a glass, not something you spread on bread."
         },
         {
           "letter": "B",
           "text": "butter",
           "is_correct": true,
-          "feedback": "Correct!"
+          "feedback": "Correct. Butter is soft and spreads easily, so it is what goes on bread."
         },
         {
           "letter": "C",
           "text": "juice",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "Juice is a drink poured in a glass, not spread on bread."
         },
         {
           "letter": "D",
           "text": "tea",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "Tea is a hot drink: you drink it, you do not put it on bread."
         }
       ],
       "correct_answer": "B",
@@ -292,25 +292,25 @@
           "letter": "A",
           "text": "knife",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "A knife is for cutting; soup is not cut but scooped."
         },
         {
           "letter": "B",
           "text": "straw",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "A straw is for drinking liquids such as juice or soda."
         },
         {
           "letter": "C",
           "text": "spoon",
           "is_correct": true,
-          "feedback": "Correct!"
+          "feedback": "Correct. A spoon holds and lifts liquid food like soup in its bowl."
         },
         {
           "letter": "D",
           "text": "fork",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "A fork is for solid pieces that can be pronged, not for liquid soup."
         }
       ],
       "correct_answer": "C",
@@ -338,25 +338,25 @@
           "letter": "A",
           "text": "Water",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "Water is clear and comes from rivers, wells or rain, not from cows."
         },
         {
           "letter": "B",
           "text": "Soda",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "Soda is a fizzy drink mixed with flavoring and water; it does not come from cows."
         },
         {
           "letter": "C",
           "text": "Orange juice",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "Orange juice is orange and is pressed from oranges."
         },
         {
           "letter": "D",
           "text": "Milk",
           "is_correct": true,
-          "feedback": "Correct!"
+          "feedback": "Correct. Milk is white and comes from cows, which is why it is a dairy drink."
         }
       ],
       "correct_answer": "D",

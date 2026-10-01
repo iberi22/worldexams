@@ -16,25 +16,25 @@
           "letter": "A",
           "text": "will go",
           "is_correct": false,
-          "feedback": "'Will' se usa más para decisiones espontáneas o promesas, no para planes con reservas hechas."
+          "feedback": "\"Will\" is used for spontaneous decisions and promises made at the moment of speaking, not for a plan whose tickets are already bought."
         },
         {
           "letter": "B",
           "text": "are going",
           "is_correct": true,
-          "feedback": "¡Correcto! El presente continuo se usa para planes fijos (arrangements) con fecha y lugar decididos."
+          "feedback": "A fixed plan with the date and place already arranged takes the present continuous, \"are going\", and the bought tickets are the proof of that arrangement."
         },
         {
           "letter": "C",
           "text": "go",
           "is_correct": false,
-          "feedback": "El presente simple solo se usa para horarios oficiales, no para planes personales de vacaciones."
+          "feedback": "The bare present simple is used for timetables such as train departures, not for a personal holiday plan."
         },
         {
           "letter": "D",
           "text": "going",
           "is_correct": false,
-          "feedback": "Falta el verbo auxiliar 'are' para formar el presente continuo con sentido de futuro."
+          "feedback": "The present continuous needs both parts: the auxiliary \"are\" plus the -ing form, so \"going\" alone leaves the verb unfinished."
         }
       ],
       "correct_answer": "B",
@@ -61,25 +61,25 @@
           "letter": "A",
           "text": "will go",
           "is_correct": true,
-          "feedback": "¡Muy bien! Usamos 'will' para decisiones que tomamos justo en el momento en que hablamos."
+          "feedback": "\"Will\" is the form used for a decision taken at the very moment of speaking, which is exactly what happens when the yerba mate is found to be missing."
         },
         {
           "letter": "B",
           "text": "am going to go",
           "is_correct": false,
-          "feedback": "'Be going to' se usa para intenciones que ya teníamos pensadas de antes."
+          "feedback": "\"Be going to\" expresses an intention you already had before speaking, but here the plan is made on the spot."
         },
         {
           "letter": "C",
           "text": "am going",
           "is_correct": false,
-          "feedback": "El presente continuo sugiere un plan organizado, pero acá la decisión fue repentina."
+          "feedback": "The present continuous marks an organized arrangement, and this decision was sudden, so it does not fit."
         },
         {
           "letter": "D",
           "text": "goes",
           "is_correct": false,
-          "feedback": "El presente simple no se usa para decisiones espontáneas sobre el futuro."
+          "feedback": "The bare present simple is not used for spontaneous decisions about the future."
         }
       ],
       "correct_answer": "A",
@@ -106,25 +106,25 @@
           "letter": "A",
           "text": "will",
           "is_correct": false,
-          "feedback": "'Will' se usa para predicciones basadas en opinión o conocimiento general, no necesariamente en evidencia visual inmediata."
+          "feedback": "\"Will\" carries predictions based on opinion or general knowledge; here the evidence is right in front of the speaker, so \"is going to\" is preferred."
         },
         {
           "letter": "D",
           "text": "is going to",
           "is_correct": true,
-          "feedback": "¡Exacto! Usamos 'be going to' para predicciones cuando vemos señales claras de que algo va a pasar."
+          "feedback": "\"Be going to\" is the structure for a prediction based on visible evidence, and the dark clouds are exactly that evidence."
         },
         {
           "letter": "B",
           "text": "is raining",
           "is_correct": false,
-          "feedback": "Esto diría que ya está lloviendo, pero las nubes indican que va a pasar en breves."
+          "feedback": "\"Is raining\" states that it is already raining, but the clouds only show that it is about to happen."
         },
         {
           "letter": "C",
           "text": "rains",
           "is_correct": false,
-          "feedback": "El presente simple no se usa para predicciones climáticas inmediatas."
+          "feedback": "The bare present simple is not used for an immediate weather prediction."
         }
       ],
       "correct_answer": "D",
@@ -151,25 +151,25 @@
           "letter": "A",
           "text": "will",
           "is_correct": false,
-          "feedback": "Suena más a una promesa o decisión del momento que a una meta planeada."
+          "feedback": "\"Will\" sounds like a promise made on the spot rather than a goal that has been planned for years."
         },
         {
           "letter": "C",
           "text": "am going to",
           "is_correct": true,
-          "feedback": "¡Correcto! 'Be going to' es la forma ideal para hablar de intenciones y proyectos personales."
+          "feedback": "\"Be going to\" is the form used for intentions and personal projects that have not been fully organized yet."
         },
         {
           "letter": "B",
           "text": "study",
           "is_correct": false,
-          "feedback": "Falta la marca de futuro; esto suena a una rutina presente."
+          "feedback": "The bare present simple would describe a current routine, and the sentence has no marker of future time in the verb."
         },
         {
           "letter": "D",
           "text": "am studying",
           "is_correct": false,
-          "feedback": "Esto sugeriría que ya tiene todo el cronograma y la inscripción cerrada como un arreglo fijo."
+          "feedback": "\"Am studying\" would suggest an arrangement already settled, with the enrolment closed and a full schedule."
         }
       ],
       "correct_answer": "C",
@@ -196,25 +196,25 @@
           "letter": "A",
           "text": "am bringing",
           "is_correct": false,
-          "feedback": "No es un plan organizado previamente, es una respuesta a un pedido."
+          "feedback": "\"Am bringing\" points to an arrangement already planned, but this is a reply to a customer's order."
         },
         {
           "letter": "C",
           "text": "will bring",
           "is_correct": true,
-          "feedback": "¡Muy bien! 'Will' se usa para ofrecerse a hacer algo o para promesas inmediatas."
+          "feedback": "\"Will\" is the form used for an offer to do something or an immediate promise, which is what the waiter is making here."
         },
         {
           "letter": "B",
           "text": "bring",
           "is_correct": false,
-          "feedback": "El presente simple no suena natural para una promesa de acción futura en este contexto."
+          "feedback": "The bare present simple does not sound natural for a promise of a future action in this service context."
         },
         {
           "letter": "D",
           "text": "am going to bring",
           "is_correct": false,
-          "feedback": "Aunque se entiende, 'will' es más común para este tipo de ofrecimientos de servicio."
+          "feedback": "It would be understood, but \"will\" is far more common for this kind of service offer than \"am going to\"."
         }
       ],
       "correct_answer": "C",
@@ -241,25 +241,25 @@
           "letter": "B",
           "text": "will have / will buy",
           "is_correct": false,
-          "feedback": "Suena muy incierto para algo que ya están organizando y hasta hablaron con el carnicero."
+          "feedback": "\"Will\" sounds too uncertain for a barbecue that is already being organised, with the butcher already spoken to."
         },
         {
           "letter": "A",
           "text": "are having / am going to buy",
           "is_correct": true,
-          "feedback": "¡Exacto! El asado es un evento social organizado (present continuous) y comprar la carne es la intención planeada."
+          "feedback": "The social event with a fixed day uses the present continuous \"are having\", and buying the meat is a firm intention, \"am going to buy\"."
         },
         {
           "letter": "C",
           "text": "have / buy",
           "is_correct": false,
-          "feedback": "Esto describe rutinas, no un evento específico para este domingo."
+          "feedback": "\"Have\" and \"buy\" with no auxiliary describe routines, not one specific event planned for this Sunday."
         },
         {
           "letter": "D",
           "text": "are going to have / will buy",
           "is_correct": false,
-          "feedback": "Podría ser, pero la segunda parte es más una intención firme que una decisión espontánea."
+          "feedback": "It could work, but the second half is more a firm intention than a decision taken spontaneously, so it is not the best pair."
         }
       ],
       "correct_answer": "A",
@@ -286,25 +286,25 @@
           "letter": "B",
           "text": "will be",
           "is_correct": true,
-          "feedback": "¡Correcto! Usamos 'will' con verbos de opinión como 'I think' para predicciones a largo plazo."
+          "feedback": "\"Will\" is the form used after verbs of opinion such as \"I think\" for long-range predictions."
         },
         {
           "letter": "A",
           "text": "are going to be",
           "is_correct": false,
-          "feedback": "'Going to' se prefiere para el futuro cercano o con evidencia, no para opiniones abstractas."
+          "feedback": "\"Going to\" is preferred for the near future or when there is evidence, not for abstract opinions about 2050."
         },
         {
           "letter": "C",
           "text": "are being",
           "is_correct": false,
-          "feedback": "Esto es presente continuo y no tiene sentido para una predicción de 2050."
+          "feedback": "\"Are being\" is a present continuous form and makes no sense in a prediction set in the year 2050."
         },
         {
           "letter": "D",
           "text": "be",
           "is_correct": false,
-          "feedback": "Gramaticalmente incorrecto; le falta el auxiliar de futuro."
+          "feedback": "The bare infinitive \"be\" has no future auxiliary, so the sentence would be grammatically incomplete."
         }
       ],
       "correct_answer": "B",
@@ -331,25 +331,25 @@
           "letter": "A",
           "text": "I am leaving for Mendoza tomorrow morning.",
           "is_correct": false,
-          "feedback": "Es un plan personal, por lo que usa presente continuo."
+          "feedback": "\"I am leaving\" is a personal plan, so it correctly uses the present continuous rather than a timetable."
         },
         {
           "letter": "C",
           "text": "The train to Tigre leaves in ten minutes from Retiro station.",
           "is_correct": true,
-          "feedback": "¡Muy bien! Los horarios de transporte público (trenes, colectivos) usan presente simple."
+          "feedback": "Public transport timetables use the present simple for departures, which is exactly what this sentence does."
         },
         {
           "letter": "B",
           "text": "I think it leaves later.",
           "is_correct": false,
-          "feedback": "Aunque usa presente simple, la frase 'I think' sugiere una opinión más que un dato de horario oficial."
+          "feedback": "It does use the present simple, but \"I think\" marks an opinion rather than the official schedule."
         },
         {
           "letter": "D",
           "text": "The train will leave soon.",
           "is_correct": false,
-          "feedback": "Esto es una predicción general, no el uso específico de horarios fijos."
+          "feedback": "\"Will leave\" is a general prediction, not the specific use of a fixed timetable."
         }
       ],
       "correct_answer": "C",
@@ -376,25 +376,25 @@
           "letter": "A",
           "text": "Sentence 1",
           "is_correct": true,
-          "feedback": "¡Correcto! 'Will' es el tiempo verbal para las promesas y los ofrecimientos espontáneos."
+          "feedback": "\"Will\" is the tense used for promises and for offers made spontaneously at the moment of speaking, which is what sentence 1 does."
         },
         {
           "letter": "B",
           "text": "Sentence 2",
           "is_correct": false,
-          "feedback": "Esto suena más a que ya tenías planeado ayudar antes de que te lo pidieran."
+          "feedback": "Sentence 2 sounds like a plan you had already decided on before being asked."
         },
         {
           "letter": "C",
           "text": "Both are exactly the same.",
           "is_correct": false,
-          "feedback": "No, el matiz de intención previa vs. compromiso del momento es diferente."
+          "feedback": "They are not identical: \"will\" commits at the moment of speaking while \"am going to\" points to a prior intention."
         },
         {
           "letter": "D",
           "text": "Neither is correct.",
           "is_correct": false,
-          "feedback": "Ambas son gramaticalmente correctas, solo cambia el matiz comunicativo."
+          "feedback": "Both sentences are grammatically correct; only the communicative nuance differs."
         }
       ],
       "correct_answer": "A",
@@ -421,25 +421,25 @@
           "letter": "B",
           "text": "will",
           "is_correct": false,
-          "feedback": "No es una predicción lejana u opinión; es algo que está a punto de pasar por lo que ves."
+          "feedback": "\"Will\" would carry a distant prediction or an opinion, but here the danger is visible and about to happen."
         },
         {
           "letter": "A",
           "text": "are going to",
           "is_correct": true,
-          "feedback": "¡Exacto! Para peligros inmediatos que estamos viendo, usamos 'be going to'."
+          "feedback": "For an immediate danger that the speaker can already see, English uses \"be going to\", so that completes the warning."
         },
         {
           "letter": "C",
           "text": "falling",
           "is_correct": false,
-          "feedback": "Gramaticalmente incompleto."
+          "feedback": "\"Falling\" on its own leaves the verb with no auxiliary, so the sentence is grammatically incomplete."
         },
         {
           "letter": "D",
           "text": "are falling",
           "is_correct": false,
-          "feedback": "Esto significaría que ya estás en el aire cayendo."
+          "feedback": "\"Are falling\" would mean the person is already in mid-air, not that it is about to happen."
         }
       ],
       "correct_answer": "A",
@@ -466,25 +466,25 @@
           "letter": "B",
           "text": "The verb should be 'traveling'.",
           "is_correct": false,
-          "feedback": "No es necesario si se quiere usar 'will'."
+          "feedback": "The -ing form is not needed here; the future \"will\" already carries the tense of the verb."
         },
         {
           "letter": "A",
           "text": "The word order is wrong; it should be 'When will you travel...?'.",
           "is_correct": true,
-          "feedback": "¡Exacto! En las preguntas con 'will', el auxiliar debe ir antes del sujeto."
+          "feedback": "In a question with \"will\" the auxiliary comes before the subject, so it must be \"When will you travel...?\""
         },
         {
           "letter": "C",
           "text": "You cannot use 'will' with 'travel'.",
           "is_correct": false,
-          "feedback": "Por supuesto que se puede; es un uso muy común."
+          "feedback": "\"Will\" can absolutely be used with \"travel\"; it is one of the most common future forms in English."
         },
         {
           "letter": "D",
           "text": "It needs the auxiliary 'do'.",
           "is_correct": false,
-          "feedback": "'Will' ya es el auxiliar de futuro, no necesita a 'do'."
+          "feedback": "\"Will\" is already the future auxiliary, so it does not need the help of \"do\"."
         }
       ],
       "correct_answer": "A",
@@ -511,25 +511,25 @@
           "letter": "A",
           "text": "will arrive / will call",
           "is_correct": false,
-          "feedback": "Después de conectores de tiempo como 'as soon as' o 'when', no se usa 'will' para el futuro."
+          "feedback": "After a time connector such as \"as soon as\" or \"when\", the present simple is normally used, not \"will\"."
         },
         {
           "letter": "D",
           "text": "arrive / will call",
           "is_correct": true,
-          "feedback": "¡Excelente! Usamos presente simple en la cláusula de tiempo y 'will' en la cláusula principal."
+          "feedback": "With \"as soon as\", the time clause takes the present simple (\"arrive\") and the main clause takes \"will\" (\"will call\")."
         },
         {
           "letter": "B",
           "text": "will arrive / call",
           "is_correct": false,
-          "feedback": "La regla es al revés; el presente va con el conector de tiempo."
+          "feedback": "The rule works the other way round: it is the time clause that uses the present, not the main clause."
         },
         {
           "letter": "C",
           "text": "am arriving / am going to call",
           "is_correct": false,
-          "feedback": "Aunque se entiende, la estructura estándar para estas condiciones de tiempo es Presente/Futuro."
+          "feedback": "It could be understood, but the standard structure for this kind of time condition is present in the time clause and future in the main clause."
         }
       ],
       "correct_answer": "D",

@@ -9,41 +9,41 @@
   "questions": [
     {
       "id": "CO-ING-3-2026-W38-describing-objects-001-MASTERY-bundle-v1",
-      "statement": "What is the English word for: \"A place where you live or stay on holiday.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Which adjective describes a very big object?",
+      "context": "Actividad de descripcion oral en la que cada estudiante presenta un objeto de su casa.",
       "options": [
         {
-          "letter": "B",
-          "text": "accommodation",
-          "is_correct": true,
-          "feedback": "Correct! 'accommodation' matches the definition."
-        },
-        {
           "letter": "A",
-          "text": "transportation",
+          "text": "small",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "small means little in size and is the opposite of what the question asks for."
         },
         {
-          "letter": "C",
-          "text": "entertainment",
+          "letter": "B",
+          "text": "long",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "long measures the length along the object and not its overall size."
         },
         {
           "letter": "D",
-          "text": "currency",
+          "text": "big",
+          "is_correct": true,
+          "feedback": "big means large and describes the overall size of an object."
+        },
+        {
+          "letter": "C",
+          "text": "old",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "old refers to how long a person has lived or how old a thing is, not to its size."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "The word 'accommodation' is used to describe a place where you live or stay on holiday. This is an important vocabulary word in English.\n---",
+      "correct_answer": "D",
+      "explanation": "Los adjetivos de tamano, edad y longitud se confunden con frecuencia porque en espanol el adjective pequeno tambien puede describir longitud. En ingles big y small miden tamano, long mide extension y old mide tiempo.",
       "difficulty": "4",
       "images": [],
       "tags": [],
-      "bloom": "Remember",
-      "icfes_type": "Lexico",
+      "bloom": "Understand",
+      "icfes_type": "Uso de la lengua",
       "expected_success": 0.8,
       "bundle_id": "CO-ING-3-2026-W38-describing-objects-001-MASTERY-bundle",
       "periodo": 38,
@@ -55,41 +55,41 @@
     },
     {
       "id": "CO-ING-3-2026-W38-describing-objects-001-MASTERY-bundle-v2",
-      "statement": "What is the English word for: \"A detailed plan or route of a journey.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Look at the picture: the streets are shiny and everything feels damp. Which adjective fits?",
+      "context": "Ejercicio de descripcion de las condiciones de un dia de lluvia.",
       "options": [
         {
-          "letter": "D",
-          "text": "itinerary",
-          "is_correct": true,
-          "feedback": "Correct! 'itinerary' matches the definition."
+          "letter": "A",
+          "text": "dry",
+          "is_correct": false,
+          "feedback": "dry means the opposite of wet and contradicts the picture of wet streets."
         },
         {
-          "letter": "A",
-          "text": "baggage",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "letter": "D",
+          "text": "wet",
+          "is_correct": true,
+          "feedback": "wet describes something soaked or damp, which is exactly what the picture shows."
         },
         {
           "letter": "B",
-          "text": "destination",
+          "text": "hot",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "hot is a temperature sensation and does not describe how damp the street is."
         },
         {
           "letter": "C",
-          "text": "passport",
+          "text": "clean",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "clean speaks about the absence of dirt, not about dampness."
         }
       ],
       "correct_answer": "D",
-      "explanation": "The word 'itinerary' is used to describe a detailed plan or route of a journey. This is an important vocabulary word in English.\n---",
+      "explanation": "Elegir un adjetivo a partir de una imagen exige relacionar la pista visual con la palabra. Las calles brillantes y la sensacion de humedad remiten a wet, mientras que las demas opciones describen condiciones que la imagen no presenta.",
       "difficulty": "4",
       "images": [],
       "tags": [],
-      "bloom": "Understand",
-      "icfes_type": "Lexico",
+      "bloom": "Apply",
+      "icfes_type": "Uso de la lengua",
       "expected_success": 0.8,
       "bundle_id": "CO-ING-3-2026-W38-describing-objects-001-MASTERY-bundle",
       "periodo": 38,
@@ -101,42 +101,42 @@
     },
     {
       "id": "CO-ING-3-2026-W38-describing-objects-001-MASTERY-bundle-v3",
-      "statement": "What is the English word for: \"The place to which someone or something is going or being sent.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Read: \"My grandfather gave me an old watch that still works.\" What is old in this sentence?",
+      "context": "Lectura de un texto breve sobre un objeto encontrado en la playa.",
       "options": [
         {
-          "letter": "D",
-          "text": "destination",
-          "is_correct": true,
-          "feedback": "Correct! 'destination' matches the definition."
-        },
-        {
           "letter": "A",
-          "text": "departure",
+          "text": "The watch",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "B",
-          "text": "arrival",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "The question asks which element is old, and the word that names it on its own is not a complete answer."
         },
         {
           "letter": "C",
-          "text": "journey",
+          "text": "The watch is old.",
+          "is_correct": true,
+          "feedback": "The text qualifies the watch as old, and that complete phrase answers the question."
+        },
+        {
+          "letter": "B",
+          "text": "My grandfather",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "The grandfather is the one who gives the object, but the text does not say he is old."
+        },
+        {
+          "letter": "D",
+          "text": "The beach",
+          "is_correct": false,
+          "feedback": "The beach is not mentioned in the text, so it cannot be the old element."
         }
       ],
-      "correct_answer": "D",
-      "explanation": "The word 'destination' is used to describe the place to which someone or something is going or being sent. This is an important vocabulary word in English.\n---",
-      "difficulty": "6",
+      "correct_answer": "C",
+      "explanation": "Los adjetivos se anaden al sustantivo que califican, y en una oracion con varios sustantivos es facil atribuir el adjetivo al equivocado. Localizar el sustantivo que sigue inmediatamente a old resuelve la pregunta sin ambiguedad.",
+      "difficulty": "4",
       "images": [],
       "tags": [],
-      "bloom": "Apply",
-      "icfes_type": "Lexico",
-      "expected_success": 0.8,
+      "bloom": "Understand",
+      "icfes_type": "Uso de la lengua",
+      "expected_success": 0.85,
       "bundle_id": "CO-ING-3-2026-W38-describing-objects-001-MASTERY-bundle",
       "periodo": 38,
       "protocol_version": "5.2",
@@ -147,42 +147,42 @@
     },
     {
       "id": "CO-ING-3-2026-W38-describing-objects-001-MASTERY-bundle-v4",
-      "statement": "What is the English word for: \"Suitcases or other bags in which to pack personal belongings for traveling.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Choose the sentence that is correct.",
+      "context": "Ejercicio de produccion escrita para describir los utiles de un escritorio.",
       "options": [
         {
-          "letter": "D",
-          "text": "luggage",
-          "is_correct": true,
-          "feedback": "Correct! 'luggage' matches the definition."
-        },
-        {
-          "letter": "A",
-          "text": "ticket",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
           "letter": "B",
-          "text": "flight",
+          "text": "The book is red and small.",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "That sentence is grammatically correct, but the exercise asks for the option that best matches the prompt, and that is not this combination."
         },
         {
           "letter": "C",
-          "text": "reservation",
+          "text": "The books red and small is.",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "The word order is disturbed and the verb is cannot open the sentence."
+        },
+        {
+          "letter": "A",
+          "text": "The pencils are long and new.",
+          "is_correct": true,
+          "feedback": "The subject is plural, so it takes are, and both adjectives agree with it correctly."
+        },
+        {
+          "letter": "D",
+          "text": "A pencils are long and new.",
+          "is_correct": false,
+          "feedback": "The article a cannot go with a plural noun such as pencils."
         }
       ],
-      "correct_answer": "D",
-      "explanation": "The word 'luggage' is used to describe suitcases or other bags in which to pack personal belongings for traveling. This is an important vocabulary word in English.\n---",
-      "difficulty": "6",
+      "correct_answer": "A",
+      "explanation": "Una oracion descriptiva necesita concordancia entre sujeto y verbo y entre articulo y sustantivo. La opcion correcta cumple las dos reglas, mientras que las demas fallan en el orden de los elementos o en el numero del sujeto.",
+      "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Apply",
-      "icfes_type": "Lexico",
-      "expected_success": 0.8,
+      "icfes_type": "Uso de la lengua",
+      "expected_success": 0.85,
       "bundle_id": "CO-ING-3-2026-W38-describing-objects-001-MASTERY-bundle",
       "periodo": 38,
       "protocol_version": "5.2",
@@ -193,41 +193,41 @@
     },
     {
       "id": "CO-ING-3-2026-W38-describing-objects-001-MASTERY-bundle-v5",
-      "statement": "What is the English word for: \"A traveler on a public or private conveyance other than the driver, pilot, or crew.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Read the label: \"This jacket is new and it is not cheap.\" What does the label say about the price?",
+      "context": "Ejercicio de lectura de la etiqueta de una prenda de ropa en una tienda.",
       "options": [
         {
-          "letter": "A",
-          "text": "passenger",
-          "is_correct": true,
-          "feedback": "Correct! 'passenger' matches the definition."
+          "letter": "B",
+          "text": "It is cheap.",
+          "is_correct": false,
+          "feedback": "The text says the opposite with the negation not cheap, which means expensive."
         },
         {
-          "letter": "B",
-          "text": "pedestrian",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "letter": "A",
+          "text": "It is expensive.",
+          "is_correct": true,
+          "feedback": "Not cheap means expensive in this context, so the text does indicate that it is expensive."
         },
         {
           "letter": "C",
-          "text": "commuter",
+          "text": "It is free.",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "free means at no cost and the text does not say the price is zero."
         },
         {
           "letter": "D",
-          "text": "tourist",
+          "text": "It is unknown.",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "The second sentence of the label gives information about the price, so it is not unknown."
         }
       ],
       "correct_answer": "A",
-      "explanation": "The word 'passenger' is used to describe a traveler on a public or private conveyance other than the driver, pilot, or crew. This is an important vocabulary word in English.\n---",
-      "difficulty": "8",
+      "explanation": "Interpretar not cheap requiere reconocer la doble negacion semantica que produce el anglicismo. Esa comprension se comprueba mejor en espanol, donde no es posible decir que algo no es barato, y esa diferencia es justamente lo que la pregunta evalua.",
+      "difficulty": "4",
       "images": [],
       "tags": [],
-      "bloom": "Analyze",
-      "icfes_type": "Lexico",
+      "bloom": "Apply",
+      "icfes_type": "Uso de la lengua",
       "expected_success": 0.8,
       "bundle_id": "CO-ING-3-2026-W38-describing-objects-001-MASTERY-bundle",
       "periodo": 38,
@@ -239,41 +239,41 @@
     },
     {
       "id": "CO-ING-3-2026-W38-describing-objects-001-MASTERY-bundle-v6",
-      "statement": "What is the English word for: \"The place at a port, airport, or frontier where officials check incoming goods, travelers, or luggage.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Which question would you ask to know the colour of an object?",
+      "context": "Actividad de reflexion escrita en la que los estudiantes describen su objeto preferido.",
       "options": [
         {
-          "letter": "C",
-          "text": "customs",
-          "is_correct": true,
-          "feedback": "Correct! 'customs' matches the definition."
+          "letter": "A",
+          "text": "How old is it?",
+          "is_correct": false,
+          "feedback": "That question asks for the age of the object and not for its colour."
         },
         {
-          "letter": "A",
-          "text": "security",
+          "letter": "C",
+          "text": "Where is it from?",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "That question asks for the place of origin and does not describe how the object looks."
         },
         {
           "letter": "B",
-          "text": "terminal",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "text": "What colour is it?",
+          "is_correct": true,
+          "feedback": "What colour is the way to ask for the colour of something in English."
         },
         {
           "letter": "D",
-          "text": "gate",
+          "text": "How many are there?",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "That question asks for a quantity, and the prompt is looking for a visual property."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "The word 'customs' is used to describe the place at a port, airport, or frontier where officials check incoming goods, travelers, or luggage. This is an important vocabulary word in English.\n---",
-      "difficulty": "8",
+      "correct_answer": "B",
+      "explanation": "Cada propiedad del objeto tiene su palabra interrogativa: What colour para el color, How old para la edad y How big para el tamano. Elegir la pregunta correcta es un paso previo a construir la oracion de respuesta.",
+      "difficulty": "4",
       "images": [],
       "tags": [],
-      "bloom": "Analyze",
-      "icfes_type": "Lexico",
+      "bloom": "Understand",
+      "icfes_type": "Uso de la lengua",
       "expected_success": 0.8,
       "bundle_id": "CO-ING-3-2026-W38-describing-objects-001-MASTERY-bundle",
       "periodo": 38,
@@ -285,42 +285,42 @@
     },
     {
       "id": "CO-ING-3-2026-W38-describing-objects-001-MASTERY-bundle-v7",
-      "statement": "What is the English word for: \"A document provided by an airline during check-in, giving a passenger permission to board the airplane.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Which sentence describes the correct comparison?",
+      "context": "Ejercicio de descripcion comparada entre dos objetos de uso escolar.",
       "options": [
         {
-          "letter": "B",
-          "text": "boarding pass",
-          "is_correct": true,
-          "feedback": "Correct! 'boarding pass' matches the definition."
+          "letter": "A",
+          "text": "A pen is bigger than a pencil case.",
+          "is_correct": false,
+          "feedback": "A pen cannot be bigger than a pencil case, so the comparison is impossible."
         },
         {
-          "letter": "A",
-          "text": "visa",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "letter": "B",
+          "text": "A pencil case is bigger than a pen.",
+          "is_correct": true,
+          "feedback": "A pencil case really is bigger than a pen, and the comparative bigger is used correctly."
         },
         {
           "letter": "C",
-          "text": "receipt",
+          "text": "A pencil case is more big than a pen.",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Comparatives in English are formed with -er or with more, but never with both at once."
         },
         {
           "letter": "D",
-          "text": "brochure",
+          "text": "A pencil case is the big than a pen.",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "The comparative is bigER and not big, because the -er form is used with short adjectives."
         }
       ],
       "correct_answer": "B",
-      "explanation": "The word 'boarding pass' is used to describe a document provided by an airline during check-in, giving a passenger permission to board the airplane. This is an important vocabulary word in English.\n---",
-      "difficulty": "10",
+      "explanation": "Los comparativos en ingles tienen dos caminos: anadir -er en adjetivos cortos como big, o anteponer more con adjetivos largos como interesting. Mezclar ambas formas o usar el grado positivo es el error tipico cuando el espanol resuelve todo con el mismo termino.",
+      "difficulty": "4",
       "images": [],
       "tags": [],
-      "bloom": "Evaluate",
-      "icfes_type": "Lexico",
-      "expected_success": 0.8,
+      "bloom": "Apply",
+      "icfes_type": "Uso de la lengua",
+      "expected_success": 0.85,
       "bundle_id": "CO-ING-3-2026-W38-describing-objects-001-MASTERY-bundle",
       "periodo": 38,
       "protocol_version": "5.2",
@@ -331,41 +331,41 @@
     },
     {
       "id": "CO-ING-3-2026-W38-describing-objects-001-MASTERY-bundle-v8",
-      "statement": "What is the English word for: \"The activity of visiting places of interest in a particular location.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Read: \"This chair is made of wood and that cup is made of glass.\" What is the cup made of?",
+      "context": "Lectura de un articulo sobre los materiales con que se fabrican los objetos cotidianos.",
       "options": [
         {
-          "letter": "B",
-          "text": "sightseeing",
+          "letter": "C",
+          "text": "Glass",
           "is_correct": true,
-          "feedback": "Correct! 'sightseeing' matches the definition."
+          "feedback": "The text says literally that that cup is made of glass."
         },
         {
           "letter": "A",
-          "text": "shopping",
+          "text": "Wood",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Wood is the material of the chair according to the first part of the text."
         },
         {
-          "letter": "C",
-          "text": "hiking",
+          "letter": "B",
+          "text": "Plastic",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Plastic is not mentioned in the text."
         },
         {
           "letter": "D",
-          "text": "camping",
+          "text": "Metal",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Metal does not appear in the sentence either, so it cannot be the answer."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "The word 'sightseeing' is used to describe the activity of visiting places of interest in a particular location. This is an important vocabulary word in English.",
-      "difficulty": "10",
+      "correct_answer": "C",
+      "explanation": "En un texto con dos objetos y dos materiales, el lector debe emparejar cada elemento con su pareja correspondiente. Confundir los pares es el error tipico, y el estrategia preventiva es subrayar cada pareja en cuanto aparece en el texto.",
+      "difficulty": "4",
       "images": [],
       "tags": [],
-      "bloom": "Evaluate",
-      "icfes_type": "Lexico",
+      "bloom": "Understand",
+      "icfes_type": "Uso de la lengua",
       "expected_success": 0.8,
       "bundle_id": "CO-ING-3-2026-W38-describing-objects-001-MASTERY-bundle",
       "periodo": 38,

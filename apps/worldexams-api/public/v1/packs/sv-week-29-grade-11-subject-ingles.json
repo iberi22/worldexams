@@ -9,40 +9,40 @@
   "questions": [
     {
       "id": "SV-ING-11-2026-W29-reading-details-001-MASTERY-bundle-v1",
-      "statement": "Choose the correct option: 'I ___ reading a book right now.'",
-      "context": "English class in Mejicanos, SV.",
+      "statement": "Read the text: 'The Lienzo de Muralla was painted in the 16th century and later moved to its present location.' What happened first?",
+      "context": "Comprension de detalles, San Salvador.",
       "options": [
         {
-          "letter": "B",
-          "text": "am",
-          "is_correct": true,
-          "feedback": "Correct!"
+          "letter": "A",
+          "text": "The painting was moved.",
+          "is_correct": false,
+          "feedback": "'Later moved' is the second event in the chronology."
         },
         {
-          "letter": "A",
-          "text": "is",
-          "is_correct": false,
-          "feedback": "Incorrect. Review the concept."
+          "letter": "B",
+          "text": "The painting was created.",
+          "is_correct": true,
+          "feedback": "'Was painted in the 16th century' comes first in the sequence described."
         },
         {
           "letter": "C",
-          "text": "are",
+          "text": "The painting was restored.",
           "is_correct": false,
-          "feedback": "Incorrect. Review the concept."
+          "feedback": "Restoration is not mentioned in the text."
         },
         {
           "letter": "D",
-          "text": "be",
+          "text": "The painting was exhibited abroad.",
           "is_correct": false,
-          "feedback": "Incorrect. Review the concept."
+          "feedback": "An exhibition abroad is not mentioned in the text."
         }
       ],
       "correct_answer": "B",
-      "explanation": "Present continuous: I am + verb-ing.",
+      "explanation": "El texto presenta dos acciones en orden cronologico: primero se pinto el cuadro en el siglo XVI y despues fue trasladado.\n\n---",
       "difficulty": "4",
       "images": [],
       "tags": [],
-      "bloom": "Apply",
+      "bloom": "Understand",
       "expected_success": 0.8,
       "bundle_id": "SV-ING-11-2026-W29-reading-details-001-MASTERY-bundle",
       "periodo": 29,
@@ -54,36 +54,36 @@
     },
     {
       "id": "SV-ING-11-2026-W29-reading-details-001-MASTERY-bundle-v2",
-      "statement": "What does 'benevolent' mean?",
-      "context": "English class in Santa Ana, SV.",
+      "statement": "Read the text: 'Volunteers collected 400 kilograms of rubbish from the beach on Saturday.' How much rubbish was collected?",
+      "context": "Lectura de datos cuantitativos, San Miguel.",
       "options": [
         {
-          "letter": "D",
-          "text": "Kind and generous",
-          "is_correct": true,
-          "feedback": "Correct!"
-        },
-        {
           "letter": "A",
-          "text": "Mean and cruel",
+          "text": "40 kilograms",
           "is_correct": false,
-          "feedback": "Incorrect. Review the concept."
+          "feedback": "The figure is 400, not 40."
         },
         {
           "letter": "B",
-          "text": "Quick and fast",
-          "is_correct": false,
-          "feedback": "Incorrect. Review the concept."
+          "text": "400 kilograms",
+          "is_correct": true,
+          "feedback": "The text states '400 kilograms of rubbish'."
         },
         {
           "letter": "C",
-          "text": "Slow and lazy",
+          "text": "4,000 kilograms",
           "is_correct": false,
-          "feedback": "Incorrect. Review the concept."
+          "feedback": "The figure is 400, not 4,000."
+        },
+        {
+          "letter": "D",
+          "text": "900 kilograms",
+          "is_correct": false,
+          "feedback": "The figure is 400, not 900."
         }
       ],
-      "correct_answer": "D",
-      "explanation": "'Benevolent' means kind, generous, or charitable.",
+      "correct_answer": "B",
+      "explanation": "La cantidad indicada de forma explicita en el texto es 400 kilogramos. La cifra aparece escrita, no calculada.\n\n---",
       "difficulty": "4",
       "images": [],
       "tags": [],
@@ -99,41 +99,41 @@
     },
     {
       "id": "SV-ING-11-2026-W29-reading-details-001-MASTERY-bundle-v3",
-      "statement": "Identify the main idea: 'The text describes how bees help pollinate flowers and produce honey.'",
-      "context": "English class in Soyapango, SV.",
+      "statement": "Read the text: 'The library closes at six p.m. on weekdays.' When does it stay open until nine?",
+      "context": "Inferencia a partir del texto, San Salvador.",
       "options": [
         {
           "letter": "A",
-          "text": "Bees are important for pollination and honey",
-          "is_correct": true,
-          "feedback": "Correct!"
+          "text": "On Fridays at nine p.m.",
+          "is_correct": false,
+          "feedback": "That information does not appear in the text."
         },
         {
           "letter": "B",
-          "text": "Bees are dangerous insects",
-          "is_correct": false,
-          "feedback": "Incorrect. Review the concept."
+          "text": "The text does not say.",
+          "is_correct": true,
+          "feedback": "Only the weekday closing time is given, so nothing can be concluded about Friday."
         },
         {
           "letter": "C",
-          "text": "Honey is the only product bees make",
+          "text": "Every day at nine p.m.",
           "is_correct": false,
-          "feedback": "Incorrect. Review the concept."
+          "feedback": "The text says the opposite: it closes at six on weekdays."
         },
         {
           "letter": "D",
-          "text": "Flowers don't need bees",
+          "text": "On Saturdays at nine p.m.",
           "is_correct": false,
-          "feedback": "Incorrect. Review the concept."
+          "feedback": "Saturday hours are not mentioned at all."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The main idea summarizes the key points about bees: pollination and honey.",
-      "difficulty": "4",
+      "correct_answer": "B",
+      "explanation": "El texto solo menciona el cierre a las seis en dias hables, de modo que no puede afirmarse nada sobre el viernes por la tarde.\n\n---",
+      "difficulty": "6",
       "images": [],
       "tags": [],
       "bloom": "Analyze",
-      "expected_success": 0.7,
+      "expected_success": 0.8,
       "bundle_id": "SV-ING-11-2026-W29-reading-details-001-MASTERY-bundle",
       "periodo": 29,
       "protocol_version": "5.2",
@@ -144,41 +144,41 @@
     },
     {
       "id": "SV-ING-11-2026-W29-reading-details-001-MASTERY-bundle-v4",
-      "statement": "Which is the correct past form of 'go'?",
-      "context": "English class in San Miguel, SV.",
+      "statement": "Read the text: 'Although the volcano erupts often, the villages below are rarely damaged.' What does 'rarely' mean here?",
+      "context": "Vocabulario en contexto, San Salvador.",
       "options": [
         {
-          "letter": "B",
-          "text": "went",
-          "is_correct": true,
-          "feedback": "Correct!"
+          "letter": "A",
+          "text": "Very often.",
+          "is_correct": false,
+          "feedback": "That would be the opposite of the meaning of 'rarely'."
         },
         {
-          "letter": "A",
-          "text": "goed",
+          "letter": "B",
+          "text": "Always.",
           "is_correct": false,
-          "feedback": "Incorrect. Review the concept."
+          "feedback": "'Always' is the opposite of 'rarely'."
         },
         {
           "letter": "C",
-          "text": "gone",
+          "text": "Immediately.",
           "is_correct": false,
-          "feedback": "Incorrect. Review the concept."
+          "feedback": "'Immediately' refers to time, not to frequency."
         },
         {
           "letter": "D",
-          "text": "going",
-          "is_correct": false,
-          "feedback": "Incorrect. Review the concept."
+          "text": "Not often.",
+          "is_correct": true,
+          "feedback": "'Rarely' is the formal equivalent of 'not often'."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "'Go' is an irregular verb: go → went (past simple).",
-      "difficulty": "4",
+      "correct_answer": "D",
+      "explanation": "'Rarely' significa pocas veces y por eso contrasta con 'often' en la primera parte de la oracion.\n\n---",
+      "difficulty": "6",
       "images": [],
       "tags": [],
-      "bloom": "Remember",
-      "expected_success": 0.85,
+      "bloom": "Understand",
+      "expected_success": 0.8,
       "bundle_id": "SV-ING-11-2026-W29-reading-details-001-MASTERY-bundle",
       "periodo": 29,
       "protocol_version": "5.2",
@@ -189,41 +189,41 @@
     },
     {
       "id": "SV-ING-11-2026-W29-reading-details-001-MASTERY-bundle-v5",
-      "statement": "Which sentence uses the present simple correctly?",
-      "context": "English class in San Miguel, SV.",
+      "statement": "Read the text: 'Maria works at a clinic. She helps children who are sick.' What is Maria's job?",
+      "context": "Identificacion de informacion principal, San Salvador.",
       "options": [
         {
           "letter": "A",
-          "text": "She goes to school every day.",
+          "text": "A nurse or a doctor.",
           "is_correct": true,
-          "feedback": "Correct!"
+          "feedback": "Working in a clinic and helping sick children indicates a health profession."
         },
         {
           "letter": "B",
-          "text": "She go to school every day.",
+          "text": "A teacher.",
           "is_correct": false,
-          "feedback": "Incorrect. Review the concept."
+          "feedback": "A teacher works in a school, not in a clinic."
         },
         {
           "letter": "C",
-          "text": "She going to school every day.",
+          "text": "A cook.",
           "is_correct": false,
-          "feedback": "Incorrect. Review the concept."
+          "feedback": "Cooking has no connection with a clinic or with sick children."
         },
         {
           "letter": "D",
-          "text": "She gone to school every day.",
+          "text": "A journalist.",
           "is_correct": false,
-          "feedback": "Incorrect. Review the concept."
+          "feedback": "Journalists report news; nothing in the text points to that profession."
         }
       ],
       "correct_answer": "A",
-      "explanation": "Present simple: subject + verb(-s for he/she/it).",
-      "difficulty": "6",
+      "explanation": "Trabaja en una clinica assisting a ninos enfermos, de modo que su profesion esta relacionada con la salud.\n\n---",
+      "difficulty": "4",
       "images": [],
       "tags": [],
-      "bloom": "Remember",
-      "expected_success": 0.85,
+      "bloom": "Understand",
+      "expected_success": 0.8,
       "bundle_id": "SV-ING-11-2026-W29-reading-details-001-MASTERY-bundle",
       "periodo": 29,
       "protocol_version": "5.2",
@@ -234,40 +234,40 @@
     },
     {
       "id": "SV-ING-11-2026-W29-reading-details-001-MASTERY-bundle-v6",
-      "statement": "Choose the correct option: 'I ___ reading a book right now.'",
-      "context": "English class in San Salvador, SV.",
+      "statement": "Read the text: 'The train leaves at 7:45. The platform closes ten minutes before departure.' When should passengers arrive?",
+      "context": "Razonamiento con datos numericos, San Miguel.",
       "options": [
         {
           "letter": "A",
-          "text": "am",
+          "text": "Before 7:35.",
           "is_correct": true,
-          "feedback": "Correct!"
+          "feedback": "7:45 minus ten minutes is 7:35, so passengers must arrive before that."
         },
         {
           "letter": "B",
-          "text": "is",
+          "text": "Before 8:00.",
           "is_correct": false,
-          "feedback": "Incorrect. Review the concept."
+          "feedback": "That would be after the platform has already closed."
         },
         {
           "letter": "C",
-          "text": "are",
+          "text": "After 7:45.",
           "is_correct": false,
-          "feedback": "Incorrect. Review the concept."
+          "feedback": "Arriving after departure would be too late for the train."
         },
         {
           "letter": "D",
-          "text": "be",
+          "text": "Before 6:45.",
           "is_correct": false,
-          "feedback": "Incorrect. Review the concept."
+          "feedback": "That would be an hour early, which the text does not require."
         }
       ],
       "correct_answer": "A",
-      "explanation": "Present continuous: I am + verb-ing.",
+      "explanation": "Si el anden cierra diez minutos antes de las 7:45, el limite para llegar es 7:35. Es uno de los puntos mas frecuentes de las pruebas de esta unidad.\n\n---",
       "difficulty": "6",
       "images": [],
       "tags": [],
-      "bloom": "Apply",
+      "bloom": "Analyze",
       "expected_success": 0.8,
       "bundle_id": "SV-ING-11-2026-W29-reading-details-001-MASTERY-bundle",
       "periodo": 29,
@@ -279,40 +279,40 @@
     },
     {
       "id": "SV-ING-11-2026-W29-reading-details-001-MASTERY-bundle-v7",
-      "statement": "What does 'benevolent' mean?",
-      "context": "English class in San Miguel, SV.",
+      "statement": "Read the text: 'The museum was built in 1890. It is one of the oldest buildings in the city.' What can be inferred?",
+      "context": "Inferencia sobre una fecha, San Salvador.",
       "options": [
         {
-          "letter": "C",
-          "text": "Kind and generous",
-          "is_correct": true,
-          "feedback": "Correct!"
-        },
-        {
           "letter": "A",
-          "text": "Mean and cruel",
+          "text": "The museum was rebuilt in 1890.",
           "is_correct": false,
-          "feedback": "Incorrect. Review the concept."
+          "feedback": "The text says it was built then, not rebuilt."
         },
         {
           "letter": "B",
-          "text": "Quick and fast",
+          "text": "The city has only one museum.",
           "is_correct": false,
-          "feedback": "Incorrect. Review the concept."
+          "feedback": "Nothing in the text limits the number of museums."
+        },
+        {
+          "letter": "C",
+          "text": "The city itself is quite old.",
+          "is_correct": true,
+          "feedback": "A building of 1890 described as among the oldest implies a long history for the city."
         },
         {
           "letter": "D",
-          "text": "Slow and lazy",
+          "text": "The building was damaged in 1890.",
           "is_correct": false,
-          "feedback": "Incorrect. Review the concept."
+          "feedback": "No damage is mentioned in the text."
         }
       ],
       "correct_answer": "C",
-      "explanation": "'Benevolent' means kind, generous, or charitable.",
+      "explanation": "Si el museo fue construido en 1890 y es de los mas antiguos, la ciudad tiene una historia larga.\n\n---",
       "difficulty": "6",
       "images": [],
       "tags": [],
-      "bloom": "Understand",
+      "bloom": "Analyze",
       "expected_success": 0.8,
       "bundle_id": "SV-ING-11-2026-W29-reading-details-001-MASTERY-bundle",
       "periodo": 29,
@@ -324,41 +324,41 @@
     },
     {
       "id": "SV-ING-11-2026-W29-reading-details-001-MASTERY-bundle-v8",
-      "statement": "Identify the main idea: 'The text describes how bees help pollinate flowers and produce honey.'",
-      "context": "English class in San Miguel, SV.",
+      "statement": "Read the text: 'Students must bring a notebook, but pens are provided by the school.' What should a student bring?",
+      "context": "Deteccion de informacion explicita, San Salvador.",
       "options": [
         {
           "letter": "A",
-          "text": "Bees are important for pollination and honey",
-          "is_correct": true,
-          "feedback": "Correct!"
+          "text": "A pen.",
+          "is_correct": false,
+          "feedback": "'Pens are provided by the school', so students do not bring them."
         },
         {
           "letter": "B",
-          "text": "Bees are dangerous insects",
+          "text": "Both a notebook and a pen.",
           "is_correct": false,
-          "feedback": "Incorrect. Review the concept."
+          "feedback": "Only the notebook is required from the student."
         },
         {
           "letter": "C",
-          "text": "Honey is the only product bees make",
+          "text": "Neither a notebook nor a pen.",
           "is_correct": false,
-          "feedback": "Incorrect. Review the concept."
+          "feedback": "The notebook is explicitly required."
         },
         {
           "letter": "D",
-          "text": "Flowers don't need bees",
-          "is_correct": false,
-          "feedback": "Incorrect. Review the concept."
+          "text": "A notebook.",
+          "is_correct": true,
+          "feedback": "'Must bring a notebook' is the explicit requirement."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The main idea summarizes the key points about bees: pollination and honey.",
-      "difficulty": "6",
+      "correct_answer": "D",
+      "explanation": "El texto indica que el cuaderno es obligatorio y que los lapices los provee el colegio.\n\n---",
+      "difficulty": "4",
       "images": [],
       "tags": [],
-      "bloom": "Analyze",
-      "expected_success": 0.7,
+      "bloom": "Understand",
+      "expected_success": 0.8,
       "bundle_id": "SV-ING-11-2026-W29-reading-details-001-MASTERY-bundle",
       "periodo": 29,
       "protocol_version": "5.2",
@@ -369,41 +369,41 @@
     },
     {
       "id": "SV-ING-11-2026-W29-reading-details-001-MASTERY-bundle-v9",
-      "statement": "Which is the correct past form of 'go'?",
-      "context": "English class in Soyapango, SV.",
+      "statement": "Read the text: 'The new bridge is longer than the old one, but it carries heavier trucks.' What is the difference between the two bridges?",
+      "context": "Comparacion dentro del texto, San Miguel.",
       "options": [
         {
-          "letter": "C",
-          "text": "went",
-          "is_correct": true,
-          "feedback": "Correct!"
-        },
-        {
           "letter": "A",
-          "text": "goed",
+          "text": "The new bridge is shorter and lighter.",
           "is_correct": false,
-          "feedback": "Incorrect. Review the concept."
+          "feedback": "The text says the new bridge is longer, not shorter."
         },
         {
           "letter": "B",
-          "text": "gone",
+          "text": "The new bridge is longer; the old one carried lighter loads.",
+          "is_correct": true,
+          "feedback": "The text contrasts length and load capacity."
+        },
+        {
+          "letter": "C",
+          "text": "Both bridges have the same length.",
           "is_correct": false,
-          "feedback": "Incorrect. Review the concept."
+          "feedback": "The explicit comparison is 'longer than', so they are not equal."
         },
         {
           "letter": "D",
-          "text": "going",
+          "text": "The old bridge is longer than the new one.",
           "is_correct": false,
-          "feedback": "Incorrect. Review the concept."
+          "feedback": "That reverses the comparison in the text."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "'Go' is an irregular verb: go → went (past simple).",
+      "correct_answer": "B",
+      "explanation": "La comparacion del texto es doble: el nuevo es mas largo y el anterior soportaba menor carga.\n\n---",
       "difficulty": "6",
       "images": [],
       "tags": [],
-      "bloom": "Remember",
-      "expected_success": 0.85,
+      "bloom": "Analyze",
+      "expected_success": 0.8,
       "bundle_id": "SV-ING-11-2026-W29-reading-details-001-MASTERY-bundle",
       "periodo": 29,
       "protocol_version": "5.2",
@@ -414,41 +414,41 @@
     },
     {
       "id": "SV-ING-11-2026-W29-reading-details-001-MASTERY-bundle-v10",
-      "statement": "Which sentence uses the present simple correctly?",
-      "context": "English class in San Miguel, SV.",
+      "statement": "Read the text: 'Researchers found that students who sleep eight hours remember more words.' What does the text say about sleep?",
+      "context": "Relacion causa y conclusion, San Salvador.",
       "options": [
         {
-          "letter": "D",
-          "text": "She goes to school every day.",
-          "is_correct": true,
-          "feedback": "Correct!"
-        },
-        {
           "letter": "A",
-          "text": "She go to school every day.",
+          "text": "Sleep causes students to forget words.",
           "is_correct": false,
-          "feedback": "Incorrect. Review the concept."
+          "feedback": "The text says the opposite: more sleep went with better memory."
         },
         {
           "letter": "B",
-          "text": "She going to school every day.",
+          "text": "Sleep has no effect on memory.",
           "is_correct": false,
-          "feedback": "Incorrect. Review the concept."
+          "feedback": "The text reports a clear relationship between sleep and memory."
         },
         {
           "letter": "C",
-          "text": "She gone to school every day.",
+          "text": "More sleep was associated with better memory.",
+          "is_correct": true,
+          "feedback": "'Found that' reports a correlation, not a proven cause."
+        },
+        {
+          "letter": "D",
+          "text": "Students who sleep less remember more.",
           "is_correct": false,
-          "feedback": "Incorrect. Review the concept."
+          "feedback": "That would invert the relationship described in the text."
         }
       ],
-      "correct_answer": "D",
-      "explanation": "Present simple: subject + verb(-s for he/she/it).",
+      "correct_answer": "C",
+      "explanation": "El texto establece una correlacion entre dormir ocho horas y recordar mejor, sin afirmar causalidad directa.\n\n---",
       "difficulty": "6",
       "images": [],
       "tags": [],
-      "bloom": "Remember",
-      "expected_success": 0.85,
+      "bloom": "Analyze",
+      "expected_success": 0.8,
       "bundle_id": "SV-ING-11-2026-W29-reading-details-001-MASTERY-bundle",
       "periodo": 29,
       "protocol_version": "5.2",
@@ -459,40 +459,40 @@
     },
     {
       "id": "SV-ING-11-2026-W29-reading-details-001-MASTERY-bundle-v11",
-      "statement": "Choose the correct option: 'I ___ reading a book right now.'",
-      "context": "English class in Santa Ana, SV.",
+      "statement": "Read the text: 'Water freezes at zero degrees, but it remains liquid at five degrees in the freezer.' What is true in the freezer?",
+      "context": "Contraste de condiciones fisicas, San Salvador.",
       "options": [
         {
-          "letter": "D",
-          "text": "am",
-          "is_correct": true,
-          "feedback": "Correct!"
-        },
-        {
           "letter": "A",
-          "text": "is",
-          "is_correct": false,
-          "feedback": "Incorrect. Review the concept."
+          "text": "The water is still liquid.",
+          "is_correct": true,
+          "feedback": "The text explicitly states it remains liquid at five degrees in the freezer."
         },
         {
           "letter": "B",
-          "text": "are",
+          "text": "The water is frozen.",
           "is_correct": false,
-          "feedback": "Incorrect. Review the concept."
+          "feedback": "If it were frozen the text would say it changes to ice at that temperature."
         },
         {
           "letter": "C",
-          "text": "be",
+          "text": "The water has evaporated.",
           "is_correct": false,
-          "feedback": "Incorrect. Review the concept."
+          "feedback": "Evaporation is not mentioned in the text."
+        },
+        {
+          "letter": "D",
+          "text": "The water has boiled.",
+          "is_correct": false,
+          "feedback": "Boiling is not mentioned and would require heat rather than cold."
         }
       ],
-      "correct_answer": "D",
-      "explanation": "Present continuous: I am + verb-ing.",
-      "difficulty": "8",
+      "correct_answer": "A",
+      "explanation": "El texto establece que a cinco grados el agua sigue liquida, de modo que no se ha congelado.\n\n---",
+      "difficulty": "6",
       "images": [],
       "tags": [],
-      "bloom": "Apply",
+      "bloom": "Analyze",
       "expected_success": 0.8,
       "bundle_id": "SV-ING-11-2026-W29-reading-details-001-MASTERY-bundle",
       "periodo": 29,
@@ -504,37 +504,82 @@
     },
     {
       "id": "SV-ING-11-2026-W29-reading-details-001-MASTERY-bundle-v12",
-      "statement": "What does 'benevolent' mean?",
-      "context": "English class in Mejicanos, SV.",
+      "statement": "Read the text: 'Although the shop was crowded, Ana found the shoes she wanted quickly.' What is the emphasis of the sentence?",
+      "context": "Analisis de conectores, San Salvador.",
       "options": [
         {
-          "letter": "B",
-          "text": "Kind and generous",
-          "is_correct": true,
-          "feedback": "Correct!"
+          "letter": "A",
+          "text": "A cause produces an effect.",
+          "is_correct": false,
+          "feedback": "The sentence shows contrast, not cause and effect."
         },
         {
-          "letter": "A",
-          "text": "Mean and cruel",
+          "letter": "B",
+          "text": "Two facts are added together.",
           "is_correct": false,
-          "feedback": "Incorrect. Review the concept."
+          "feedback": "'Although' is a contrastive conjunction, not an additive one."
         },
         {
           "letter": "C",
-          "text": "Quick and fast",
+          "text": "A condition restricts a fact.",
           "is_correct": false,
-          "feedback": "Incorrect. Review the concept."
+          "feedback": "'If' would express restriction; 'although' expresses contrast."
         },
         {
           "letter": "D",
-          "text": "Slow and lazy",
-          "is_correct": false,
-          "feedback": "Incorrect. Review the concept."
+          "text": "A difficult situation was overcome.",
+          "is_correct": true,
+          "feedback": "'Although' sets up a concession: the crowd was overcome."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "'Benevolent' means kind, generous, or charitable.",
-      "difficulty": "8",
+      "correct_answer": "D",
+      "explanation": "'Although' introduce un contraste: la multitud era un obstaculo, pero el resultado fue rapido y favorable.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.8,
+      "bundle_id": "SV-ING-11-2026-W29-reading-details-001-MASTERY-bundle",
+      "periodo": 29,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 11,
+      "country": "sv"
+    },
+    {
+      "id": "SV-ING-11-2026-W29-reading-details-001-MASTERY-bundle-v13",
+      "statement": "Read the text: 'The report was written in plain language so that everyone could understand it.' Why was it written in plain language?",
+      "context": "Relacion de purpose, San Salvador.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "To show the writer's vocabulary.",
+          "is_correct": false,
+          "feedback": "Nothing in the text suggests the aim was to display vocabulary."
+        },
+        {
+          "letter": "B",
+          "text": "To reduce the number of pages.",
+          "is_correct": false,
+          "feedback": "Length is not mentioned in the text."
+        },
+        {
+          "letter": "C",
+          "text": "To make it understandable to everyone.",
+          "is_correct": true,
+          "feedback": "'So that' states the purpose: everyone should understand it."
+        },
+        {
+          "letter": "D",
+          "text": "To impress the government officials.",
+          "is_correct": false,
+          "feedback": "The stated audience is everyone, not officials."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La expresion 'so that' introduce el proposito de la eleccion linguistica: la comprension del publico.\n\n---",
+      "difficulty": "6",
       "images": [],
       "tags": [],
       "bloom": "Understand",
@@ -548,87 +593,42 @@
       "country": "sv"
     },
     {
-      "id": "SV-ING-11-2026-W29-reading-details-001-MASTERY-bundle-v13",
-      "statement": "Identify the main idea: 'The text describes how bees help pollinate flowers and produce honey.'",
-      "context": "English class in San Miguel, SV.",
+      "id": "SV-ING-11-2026-W29-reading-details-001-MASTERY-bundle-v14",
+      "statement": "Read the text: 'Fewer than 20 students passed the exam this year, compared with 45 last year.' How many failed?",
+      "context": "Calculo a partir de informacion textual, San Miguel.",
       "options": [
         {
-          "letter": "B",
-          "text": "Bees are important for pollination and honey",
-          "is_correct": true,
-          "feedback": "Correct!"
+          "letter": "A",
+          "text": "20",
+          "is_correct": false,
+          "feedback": "'Fewer than 20' is the number who passed, not the number who failed."
         },
         {
-          "letter": "A",
-          "text": "Bees are dangerous insects",
+          "letter": "B",
+          "text": "45",
           "is_correct": false,
-          "feedback": "Incorrect. Review the concept."
+          "feedback": "'45' refers to the previous year, not to failures this year."
         },
         {
           "letter": "C",
-          "text": "Honey is the only product bees make",
-          "is_correct": false,
-          "feedback": "Incorrect. Review the concept."
+          "text": "It cannot be determined from the text.",
+          "is_correct": true,
+          "feedback": "The total number of students is missing, so failures cannot be computed."
         },
         {
           "letter": "D",
-          "text": "Flowers don't need bees",
+          "text": "25",
           "is_correct": false,
-          "feedback": "Incorrect. Review the concept."
+          "feedback": "That subtraction would assume 45 students this year, which the text does not state."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "The main idea summarizes the key points about bees: pollination and honey.",
-      "difficulty": "8",
+      "correct_answer": "C",
+      "explanation": "El total de estudiantes no aparece en el texto, por eso no puede calcularse el numero de reprobados.\n\n---",
+      "difficulty": "6",
       "images": [],
       "tags": [],
       "bloom": "Analyze",
-      "expected_success": 0.7,
-      "bundle_id": "SV-ING-11-2026-W29-reading-details-001-MASTERY-bundle",
-      "periodo": 29,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ingles",
-      "grade": 11,
-      "country": "sv"
-    },
-    {
-      "id": "SV-ING-11-2026-W29-reading-details-001-MASTERY-bundle-v14",
-      "statement": "Which is the correct past form of 'go'?",
-      "context": "English class in Santa Ana, SV.",
-      "options": [
-        {
-          "letter": "B",
-          "text": "went",
-          "is_correct": true,
-          "feedback": "Correct!"
-        },
-        {
-          "letter": "A",
-          "text": "goed",
-          "is_correct": false,
-          "feedback": "Incorrect. Review the concept."
-        },
-        {
-          "letter": "C",
-          "text": "gone",
-          "is_correct": false,
-          "feedback": "Incorrect. Review the concept."
-        },
-        {
-          "letter": "D",
-          "text": "going",
-          "is_correct": false,
-          "feedback": "Incorrect. Review the concept."
-        }
-      ],
-      "correct_answer": "B",
-      "explanation": "'Go' is an irregular verb: go → went (past simple).",
-      "difficulty": "8",
-      "images": [],
-      "tags": [],
-      "bloom": "Remember",
-      "expected_success": 0.85,
+      "expected_success": 0.8,
       "bundle_id": "SV-ING-11-2026-W29-reading-details-001-MASTERY-bundle",
       "periodo": 29,
       "protocol_version": "5.2",
@@ -639,82 +639,37 @@
     },
     {
       "id": "SV-ING-11-2026-W29-reading-details-001-MASTERY-bundle-v15",
-      "statement": "Which sentence uses the present simple correctly?",
-      "context": "English class in San Miguel, SV.",
-      "options": [
-        {
-          "letter": "C",
-          "text": "She goes to school every day.",
-          "is_correct": true,
-          "feedback": "Correct!"
-        },
-        {
-          "letter": "A",
-          "text": "She go to school every day.",
-          "is_correct": false,
-          "feedback": "Incorrect. Review the concept."
-        },
-        {
-          "letter": "B",
-          "text": "She going to school every day.",
-          "is_correct": false,
-          "feedback": "Incorrect. Review the concept."
-        },
-        {
-          "letter": "D",
-          "text": "She gone to school every day.",
-          "is_correct": false,
-          "feedback": "Incorrect. Review the concept."
-        }
-      ],
-      "correct_answer": "C",
-      "explanation": "Present simple: subject + verb(-s for he/she/it).",
-      "difficulty": "8",
-      "images": [],
-      "tags": [],
-      "bloom": "Remember",
-      "expected_success": 0.85,
-      "bundle_id": "SV-ING-11-2026-W29-reading-details-001-MASTERY-bundle",
-      "periodo": 29,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ingles",
-      "grade": 11,
-      "country": "sv"
-    },
-    {
-      "id": "SV-ING-11-2026-W29-reading-details-001-MASTERY-bundle-v16",
-      "statement": "Choose the correct option: 'I ___ reading a book right now.'",
-      "context": "English class in Santa Ana, SV.",
+      "statement": "Which word best replaces 'abundant' in this sentence? 'The region has abundant rainfall during the rainy season.'",
+      "context": "Sustitucion de sinonimos en contexto, San Salvador.",
       "options": [
         {
           "letter": "A",
-          "text": "am",
+          "text": "plentiful",
           "is_correct": true,
-          "feedback": "Correct!"
+          "feedback": "'Plentiful' is a direct synonym of 'abundant'."
         },
         {
           "letter": "B",
-          "text": "is",
+          "text": "delicate",
           "is_correct": false,
-          "feedback": "Incorrect. Review the concept."
+          "feedback": "'Delicate' describes something fragile or subtle, the opposite sense here."
         },
         {
           "letter": "C",
-          "text": "are",
+          "text": "distant",
           "is_correct": false,
-          "feedback": "Incorrect. Review the concept."
+          "feedback": "'Distant' refers to distance, not to quantity."
         },
         {
           "letter": "D",
-          "text": "be",
+          "text": "dormant",
           "is_correct": false,
-          "feedback": "Incorrect. Review the concept."
+          "feedback": "'Dormant' means inactive, which does not fit rainfall."
         }
       ],
       "correct_answer": "A",
-      "explanation": "Present continuous: I am + verb-ing.",
-      "difficulty": "8",
+      "explanation": "'Abundant' significa abundante o plentiful; las demas opciones no expresan cantidad.\n\n---",
+      "difficulty": "6",
       "images": [],
       "tags": [],
       "bloom": "Apply",
@@ -728,41 +683,86 @@
       "country": "sv"
     },
     {
-      "id": "SV-ING-11-2026-W29-reading-details-001-MASTERY-bundle-v17",
-      "statement": "What does 'benevolent' mean?",
-      "context": "English class in Mejicanos, SV.",
+      "id": "SV-ING-11-2026-W29-reading-details-001-MASTERY-bundle-v16",
+      "statement": "Read the text: 'The ceremony will take place unless it rains.' What will happen if it rains?",
+      "context": "Condicionales expresadas con 'unless', San Miguel.",
       "options": [
         {
-          "letter": "C",
-          "text": "Kind and generous",
-          "is_correct": true,
-          "feedback": "Correct!"
-        },
-        {
           "letter": "A",
-          "text": "Mean and cruel",
+          "text": "The ceremony will take place.",
           "is_correct": false,
-          "feedback": "Incorrect. Review the concept."
+          "feedback": "The sentence states the opposite condition for the ceremony to happen."
         },
         {
           "letter": "B",
-          "text": "Quick and fast",
+          "text": "The ceremony will not take place.",
+          "is_correct": true,
+          "feedback": "'Unless' means 'if not', so rain cancels the ceremony."
+        },
+        {
+          "letter": "C",
+          "text": "The ceremony will start late.",
           "is_correct": false,
-          "feedback": "Incorrect. Review the concept."
+          "feedback": "No delay clause appears in the text."
         },
         {
           "letter": "D",
-          "text": "Slow and lazy",
+          "text": "The ceremony will move indoors.",
           "is_correct": false,
-          "feedback": "Incorrect. Review the concept."
+          "feedback": "That detail is not mentioned in the text."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "'Benevolent' means kind, generous, or charitable.",
-      "difficulty": "10",
+      "correct_answer": "B",
+      "explanation": "'Unless' equivale a 'if not', por lo que la condicion es la inversa de la formulada literalmente.\n\n---",
+      "difficulty": "6",
       "images": [],
       "tags": [],
-      "bloom": "Understand",
+      "bloom": "Analyze",
+      "expected_success": 0.8,
+      "bundle_id": "SV-ING-11-2026-W29-reading-details-001-MASTERY-bundle",
+      "periodo": 29,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 11,
+      "country": "sv"
+    },
+    {
+      "id": "SV-ING-11-2026-W29-reading-details-001-MASTERY-bundle-v17",
+      "statement": "Read the text: 'The factory was closed in 1998. It now houses a science museum.' What happened to the building?",
+      "context": "Cambio de funcion de un edificio, San Salvador.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "It was destroyed in 1998.",
+          "is_correct": false,
+          "feedback": "The text says the factory was closed, not destroyed."
+        },
+        {
+          "letter": "B",
+          "text": "It still produces goods.",
+          "is_correct": false,
+          "feedback": "The text states that it now houses a museum."
+        },
+        {
+          "letter": "C",
+          "text": "It was sold to another factory.",
+          "is_correct": false,
+          "feedback": "No sale to another factory is mentioned in the text."
+        },
+        {
+          "letter": "D",
+          "text": "It changed from industrial to educational use.",
+          "is_correct": true,
+          "feedback": "'Closed' as a factory and 'now houses a museum' describe a change of function."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "El edificio cambio de uso: dejo de ser fabrica y ahora alberga un museo de ciencias.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
       "expected_success": 0.8,
       "bundle_id": "SV-ING-11-2026-W29-reading-details-001-MASTERY-bundle",
       "periodo": 29,
@@ -774,41 +774,41 @@
     },
     {
       "id": "SV-ING-11-2026-W29-reading-details-001-MASTERY-bundle-v18",
-      "statement": "Identify the main idea: 'The text describes how bees help pollinate flowers and produce honey.'",
-      "context": "English class in San Salvador, SV.",
+      "statement": "Read the text: 'Local schools have introduced recycling bins. The city expects to cut waste by a third.' What is the main idea?",
+      "context": "Identificacion de la idea principal, San Salvador.",
       "options": [
         {
-          "letter": "C",
-          "text": "Bees are important for pollination and honey",
-          "is_correct": true,
-          "feedback": "Correct!"
-        },
-        {
           "letter": "A",
-          "text": "Bees are dangerous insects",
+          "text": "Schools have more recycling bins than before.",
           "is_correct": false,
-          "feedback": "Incorrect. Review the concept."
+          "feedback": "That is only the first detail, not the main idea."
         },
         {
           "letter": "B",
-          "text": "Honey is the only product bees make",
+          "text": "The city will build a new waste plant.",
           "is_correct": false,
-          "feedback": "Incorrect. Review the concept."
+          "feedback": "No new plant is mentioned in the text."
+        },
+        {
+          "letter": "C",
+          "text": "A city plan aims to reduce waste through school recycling.",
+          "is_correct": true,
+          "feedback": "Both sentences support this overall purpose."
         },
         {
           "letter": "D",
-          "text": "Flowers don't need bees",
+          "text": "Students should separate paper from glass.",
           "is_correct": false,
-          "feedback": "Incorrect. Review the concept."
+          "feedback": "That recommendation is not stated in the text."
         }
       ],
       "correct_answer": "C",
-      "explanation": "The main idea summarizes the key points about bees: pollination and honey.",
-      "difficulty": "10",
+      "explanation": "La idea central es que el reciclaje escolar forma parte de un plan para reducir los residuos.\n\n---",
+      "difficulty": "6",
       "images": [],
       "tags": [],
       "bloom": "Analyze",
-      "expected_success": 0.7,
+      "expected_success": 0.8,
       "bundle_id": "SV-ING-11-2026-W29-reading-details-001-MASTERY-bundle",
       "periodo": 29,
       "protocol_version": "5.2",
@@ -819,41 +819,41 @@
     },
     {
       "id": "SV-ING-11-2026-W29-reading-details-001-MASTERY-bundle-v19",
-      "statement": "Which is the correct past form of 'go'?",
-      "context": "English class in San Miguel, SV.",
+      "statement": "Read the text: 'The committee has not decided yet, so the meeting was postponed.' What does 'yet' indicate here?",
+      "context": "Uso de marcadores en lectura, San Salvador.",
       "options": [
         {
-          "letter": "C",
-          "text": "went",
-          "is_correct": true,
-          "feedback": "Correct!"
-        },
-        {
           "letter": "A",
-          "text": "goed",
+          "text": "A decision was made a long time ago.",
           "is_correct": false,
-          "feedback": "Incorrect. Review the concept."
+          "feedback": "'Yet' negates the idea of an earlier decision."
         },
         {
           "letter": "B",
-          "text": "gone",
+          "text": "The decision will be made next year.",
           "is_correct": false,
-          "feedback": "Incorrect. Review the concept."
+          "feedback": "Nothing in the sentence refers to a future date."
+        },
+        {
+          "letter": "C",
+          "text": "The committee refused to make any decision.",
+          "is_correct": false,
+          "feedback": "'Not decided yet' means pending, not refused."
         },
         {
           "letter": "D",
-          "text": "going",
-          "is_correct": false,
-          "feedback": "Incorrect. Review the concept."
+          "text": "Up to now, no decision has been made.",
+          "is_correct": true,
+          "feedback": "'Yet' places the absence of a decision at the present moment."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "'Go' is an irregular verb: go → went (past simple).",
-      "difficulty": "10",
+      "correct_answer": "D",
+      "explanation": "'Yet' indica que la decision no se ha tomado hasta el momento actual, y por eso la reunion se pospuso.\n\n---",
+      "difficulty": "6",
       "images": [],
       "tags": [],
-      "bloom": "Remember",
-      "expected_success": 0.85,
+      "bloom": "Analyze",
+      "expected_success": 0.8,
       "bundle_id": "SV-ING-11-2026-W29-reading-details-001-MASTERY-bundle",
       "periodo": 29,
       "protocol_version": "5.2",
@@ -864,41 +864,41 @@
     },
     {
       "id": "SV-ING-11-2026-W29-reading-details-001-MASTERY-bundle-v20",
-      "statement": "Which sentence uses the present simple correctly?",
-      "context": "English class in San Miguel, SV.",
+      "statement": "Choose the sentence that correctly matches the text: 'The hotel is only two hundred metres from the beach.'",
+      "context": "Relacion espacial en lectura, San Salvador.",
       "options": [
         {
-          "letter": "C",
-          "text": "She goes to school every day.",
-          "is_correct": true,
-          "feedback": "Correct!"
-        },
-        {
           "letter": "A",
-          "text": "She go to school every day.",
-          "is_correct": false,
-          "feedback": "Incorrect. Review the concept."
+          "text": "You can walk to the beach in a few minutes.",
+          "is_correct": true,
+          "feedback": "Two hundred metres is a short walking distance."
         },
         {
           "letter": "B",
-          "text": "She going to school every day.",
+          "text": "You need a bus to reach the beach.",
           "is_correct": false,
-          "feedback": "Incorrect. Review the concept."
+          "feedback": "A bus would not be needed for such a short distance."
+        },
+        {
+          "letter": "C",
+          "text": "The beach is far from the hotel.",
+          "is_correct": false,
+          "feedback": "That contradicts the stated distance."
         },
         {
           "letter": "D",
-          "text": "She gone to school every day.",
+          "text": "The hotel is on the beach.",
           "is_correct": false,
-          "feedback": "Incorrect. Review the concept."
+          "feedback": "'Two hundred metres from' means near, not on."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "Present simple: subject + verb(-s for he/she/it).",
-      "difficulty": "10",
+      "correct_answer": "A",
+      "explanation": "El texto indica que el hotel esta muy cerca de la playa, a doscientos metros. La distancia se expresa con 'from'.\n\n---",
+      "difficulty": "4",
       "images": [],
       "tags": [],
-      "bloom": "Remember",
-      "expected_success": 0.85,
+      "bloom": "Apply",
+      "expected_success": 0.8,
       "bundle_id": "SV-ING-11-2026-W29-reading-details-001-MASTERY-bundle",
       "periodo": 29,
       "protocol_version": "5.2",

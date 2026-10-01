@@ -196,13 +196,13 @@
           "letter": "A",
           "text": "They's",
           "is_correct": false,
-          "feedback": "Incorrect."
+          "feedback": "A contraction joins the last letter of the first word to the first letter of the next, so 'they are' becomes 'they're' with an apostrophe and the 'a' of 'are'."
         },
         {
           "letter": "B",
           "text": "They'm",
           "is_correct": false,
-          "feedback": "Incorrect."
+          "feedback": "This looks like the pattern of 'I am', where 'I'm' drops the 'a'. English does not follow that pattern for 'they'."
         },
         {
           "letter": "C",
@@ -214,7 +214,7 @@
           "letter": "D",
           "text": "They are not",
           "is_correct": false,
-          "feedback": "Incorrect."
+          "feedback": "This is the negative form 'they are not', and a negative is not a contraction of 'they are'."
         }
       ],
       "correct_answer": "C",
@@ -253,13 +253,13 @@
           "letter": "C",
           "text": "Are",
           "is_correct": false,
-          "feedback": "Incorrect."
+          "feedback": "'Are' pairs with 'you', 'we' and 'they', but 'have got' is the verb that follows 'you' in a question."
         },
         {
           "letter": "D",
           "text": "Is",
           "is_correct": false,
-          "feedback": "Incorrect."
+          "feedback": "'Is' is the form used with 'he', 'she' and 'it', not with 'you'."
         }
       ],
       "correct_answer": "B",
@@ -304,7 +304,7 @@
           "letter": "D",
           "text": "are",
           "is_correct": false,
-          "feedback": "Incorrect."
+          "feedback": "'Are' describes a quality shared by two or more people or things. Here the subject is the single person 'my sister', and what she has is hair."
         }
       ],
       "correct_answer": "B",
@@ -382,7 +382,7 @@
           "letter": "B",
           "text": "How old have you?",
           "is_correct": false,
-          "feedback": "Incorrect."
+          "feedback": "English does not use 'have' for age: 'how old' is an adjective followed by the verb 'to be', so the question needs 'How old are you?'"
         },
         {
           "letter": "C",
@@ -439,7 +439,7 @@
           "letter": "D",
           "text": "are",
           "is_correct": false,
-          "feedback": "Incorrect."
+          "feedback": "'Are' would need a plural subject to match. The school is one single thing, and what it has is a playground."
         }
       ],
       "correct_answer": "B",

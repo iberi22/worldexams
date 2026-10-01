@@ -16,25 +16,25 @@
           "letter": "A",
           "text": "Five",
           "is_correct": true,
-          "feedback": "Correct!"
+          "feedback": "Correct. One hand has five fingers: thumb, index, middle, ring and little."
         },
         {
           "letter": "B",
           "text": "One",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "Each finger has one fingernail, but a whole hand has five fingers, so one is too few."
         },
         {
           "letter": "C",
           "text": "Ten",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "Ten is the number of fingers on both hands together, and the question asks about one hand only."
         },
         {
           "letter": "D",
           "text": "Zero",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "A hand always has its fingers; zero would mean a hand with no fingers at all."
         }
       ],
       "correct_answer": "A",
@@ -62,25 +62,25 @@
           "letter": "A",
           "text": "Orange",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "Orange is the color of oranges and carrots, not of grass."
         },
         {
           "letter": "B",
           "text": "Green",
           "is_correct": true,
-          "feedback": "Correct!"
+          "feedback": "Correct. Grass is green because it contains chlorophyll, the pigment that gives plants their color."
         },
         {
           "letter": "C",
           "text": "Red",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "Red is the color of apples and tomatoes, not of grass."
         },
         {
           "letter": "D",
           "text": "Blue",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "Blue is the color of the sky and the sea, not of grass."
         }
       ],
       "correct_answer": "B",
@@ -108,25 +108,25 @@
           "letter": "A",
           "text": "Under the bed",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "Under the bed is where a lost object may fall, but a pencil is kept in a pencil case."
         },
         {
           "letter": "B",
           "text": "In the trash",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "The trash is for things you throw away, and a pencil is still useful."
         },
         {
           "letter": "C",
           "text": "In the pencil case",
           "is_correct": true,
-          "feedback": "Correct!"
+          "feedback": "Correct. A pencil case is made to hold pencils and keeps them from rolling away or breaking."
         },
         {
           "letter": "D",
           "text": "In the fridge",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "A fridge keeps food cold; a pencil would be ruined inside it."
         }
       ],
       "correct_answer": "C",
@@ -154,25 +154,25 @@
           "letter": "A",
           "text": "Hola",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "'Hola' is the Spanish for 'Hello', which is the opposite end of a conversation."
         },
         {
           "letter": "B",
           "text": "Por favor",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "'Por favor' means 'please' and is used to make a polite request."
         },
         {
           "letter": "C",
           "text": "Gracias",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "'Gracias' means 'thanks' and is used to show gratitude."
         },
         {
           "letter": "D",
           "text": "Adiós",
           "is_correct": true,
-          "feedback": "Correct!"
+          "feedback": "Correct. 'Goodbye' corresponds to 'Adiós', the Spanish farewell used when leaving or ending a conversation."
         }
       ],
       "correct_answer": "D",
@@ -200,25 +200,25 @@
           "letter": "A",
           "text": "15",
           "is_correct": true,
-          "feedback": "Correct!"
+          "feedback": "Correct. Counting on from 14 you reach 15 and then 16, so 15 sits exactly between them."
         },
         {
           "letter": "B",
           "text": "10",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "10 is smaller than 14, so it cannot lie between 14 and 16."
         },
         {
           "letter": "C",
           "text": "20",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "20 is bigger than 16, so it comes after the pair instead of between them."
         },
         {
           "letter": "D",
           "text": "5",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "5 is far below 14, so it is not located between the two numbers."
         }
       ],
       "correct_answer": "A",
@@ -246,25 +246,25 @@
           "letter": "A",
           "text": "flat",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "A circle has no flat faces, so 'flat' does not describe it."
         },
         {
           "letter": "B",
           "text": "round",
           "is_correct": true,
-          "feedback": "Correct!"
+          "feedback": "Correct. A circle is round: every point on its edge is the same distance from the center."
         },
         {
           "letter": "C",
           "text": "square",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "A square has four straight sides and four corners; a circle has neither."
         },
         {
           "letter": "D",
           "text": "pointed",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "A circle has no corners or points, unlike shapes such as triangles or stars."
         }
       ],
       "correct_answer": "B",
@@ -292,25 +292,25 @@
           "letter": "A",
           "text": "are",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "'Are' is used with 'you', 'we' and 'they', while the subject of this sentence is 'I'."
         },
         {
           "letter": "B",
           "text": "be",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "'Be' is the bare infinitive and needs a conjugated form to complete the sentence."
         },
         {
           "letter": "C",
           "text": "am",
           "is_correct": true,
-          "feedback": "Correct!"
+          "feedback": "Correct. 'Am' is the present simple of 'be' used with 'I', so 'I am a student' is right."
         },
         {
           "letter": "D",
           "text": "is",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "'Is' is used with 'he', 'she' and 'it' in the present simple, not with 'I'."
         }
       ],
       "correct_answer": "C",
@@ -338,25 +338,25 @@
           "letter": "A",
           "text": "blue",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "Blue is the color of the sky, which the sunlight passes through, not of the sun itself."
         },
         {
           "letter": "B",
           "text": "green",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "Green is the color of grass and leaves; the sun is not green."
         },
         {
           "letter": "C",
           "text": "pink",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "Pink is a pale red used for flowers or cheeks, not for the sun."
         },
         {
           "letter": "D",
           "text": "yellow",
           "is_correct": true,
-          "feedback": "Correct!"
+          "feedback": "Correct. The sun appears yellow because its light is extremely bright and slightly warm in color."
         }
       ],
       "correct_answer": "D",

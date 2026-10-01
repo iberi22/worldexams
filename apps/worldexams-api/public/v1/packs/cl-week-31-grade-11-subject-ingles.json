@@ -286,25 +286,25 @@
           "letter": "A",
           "text": "use to",
           "is_correct": false,
-          "feedback": "Incorrect grammar."
+          "feedback": "'Use to' is not correct English; the past-habit structure is always 'used to'."
         },
         {
           "letter": "D",
           "text": "is used to",
           "is_correct": true,
-          "feedback": "Correct. 'Be used to + -ing' means 'accustomed to'."
+          "feedback": "Correct. 'Is used to' followed by a gerund means 'is accustomed to', which is the present state the sentence describes."
         },
         {
           "letter": "B",
           "text": "used to",
           "is_correct": false,
-          "feedback": "Incorrect. Refers to a past habit."
+          "feedback": "'Used to' on its own marks a past habit that no longer holds, and the sentence describes a habit she still has."
         },
         {
           "letter": "C",
           "text": "used",
           "is_correct": false,
-          "feedback": "Incorrect."
+          "feedback": "'Used' is only part of the phrase and cannot stand alone after 'she is'."
         }
       ],
       "correct_answer": "D",
@@ -376,25 +376,25 @@
           "letter": "B",
           "text": "are inspiring",
           "is_correct": false,
-          "feedback": "Incorrect. Active voice."
+          "feedback": "'Are inspiring' is the active voice and would make the stories do the inspiring."
         },
         {
           "letter": "A",
           "text": "are being inspired",
           "is_correct": true,
-          "feedback": "Correct. Present continuous passive for an ongoing process."
+          "feedback": "Correct. 'Are being inspired' is the present continuous passive, used for an influence that is happening continuously now."
         },
         {
           "letter": "C",
           "text": "inspired",
           "is_correct": false,
-          "feedback": "Incorrect. Past simple."
+          "feedback": "'Inspired' on its own would be past simple, but the influencing goes on every day."
         },
         {
           "letter": "D",
           "text": "have inspired",
           "is_correct": false,
-          "feedback": "Incorrect. Active voice."
+          "feedback": "'Have inspired' is the Present Perfect active, which would make the stories the source of the inspiration."
         }
       ],
       "correct_answer": "A",
@@ -466,25 +466,25 @@
           "letter": "A",
           "text": "Script",
           "is_correct": false,
-          "feedback": "Incorrect. A written plan."
+          "feedback": "A 'script' is the written text of a play or film, not a category of artistic work."
         },
         {
           "letter": "B",
           "text": "Genre",
           "is_correct": true,
-          "feedback": "Correct. A category like mystery, romance, or sci-fi."
+          "feedback": "Correct. A 'genre' is a category such as mystery, romance or science fiction, defined by shared form, style or subject."
         },
         {
           "letter": "C",
           "text": "Prompt",
           "is_correct": false,
-          "feedback": "Incorrect."
+          "feedback": "A 'prompt' is a question or instruction given to a writer, not a class of compositions."
         },
         {
           "letter": "D",
           "text": "Review",
           "is_correct": false,
-          "feedback": "Incorrect. An evaluation."
+          "feedback": "A 'review' is an evaluation of a work, not the category the work belongs to."
         }
       ],
       "correct_answer": "B",
@@ -736,25 +736,25 @@
           "letter": "D",
           "text": "experiment",
           "is_correct": true,
-          "feedback": "Correct. Subjunctive base form after 'suggested'."
+          "feedback": "'Experiments' is the third person form; after 'suggested that' the subjunctive takes the base form."
         },
         {
           "letter": "A",
           "text": "experiments",
           "is_correct": false,
-          "feedback": "Incorrect."
+          "feedback": "'To experiment' is the infinitive, which does not appear after 'that' in this construction."
         },
         {
           "letter": "B",
           "text": "to experiment",
           "is_correct": false,
-          "feedback": "Incorrect. Doesn't fit 'that' clause."
+          "feedback": "'Experimenting' is a gerund, which would need a different structure such as 'suggested experimenting'."
         },
         {
           "letter": "C",
           "text": "experimenting",
           "is_correct": false,
-          "feedback": "Incorrect."
+          "feedback": "Correct. After 'suggested that' the base form is used, because the subjunctive makes the proposal, not a statement of fact."
         }
       ],
       "correct_answer": "D",
@@ -871,25 +871,25 @@
           "letter": "B",
           "text": "self-expression",
           "is_correct": true,
-          "feedback": "Correct. Expression of one's own personality, feelings, or ideas."
+          "feedback": "Correct. 'Self-expression' means putting one's own feelings and ideas into a form, which is what the sentence describes."
         },
         {
           "letter": "A",
           "text": "isolation",
           "is_correct": false,
-          "feedback": "Incorrect. Writing aims to connect."
+          "feedback": "'Isolation' is separation from others, but the sentence says writing lets us share with them."
         },
         {
           "letter": "C",
           "text": "confusion",
           "is_correct": false,
-          "feedback": "Incorrect. Writing aims for clarity of vision."
+          "feedback": "'Confusion' is a lack of clarity, and the sentence values the clarity of a vision."
         },
         {
           "letter": "D",
           "text": "greed",
           "is_correct": false,
-          "feedback": "Incorrect. Unrelated."
+          "feedback": "'Greed' is a selfish desire for more, which has nothing to do with sharing a vision."
         }
       ],
       "correct_answer": "B",

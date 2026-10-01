@@ -16,25 +16,25 @@
           "letter": "A",
           "text": "doctor",
           "is_correct": true,
-          "feedback": "Correct!"
+          "feedback": "A pilot flies an airplane and does not treat sick people."
         },
         {
           "letter": "B",
           "text": "pilot",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "Correct. A doctor is trained to diagnose and treat illness in people."
         },
         {
           "letter": "C",
           "text": "chef",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "A chef cooks food in a restaurant, not in a clinic."
         },
         {
           "letter": "D",
           "text": "singer",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "A singer performs music and does not help sick people."
         }
       ],
       "correct_answer": "A",
@@ -62,25 +62,25 @@
           "letter": "A",
           "text": "artist",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "An artist paints and draws; teaching students at school is a different job."
         },
         {
           "letter": "B",
           "text": "teacher",
           "is_correct": true,
-          "feedback": "Correct!"
+          "feedback": "Correct. A teacher works at a school and is paid to teach its students."
         },
         {
           "letter": "C",
           "text": "driver",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "A driver transports people or goods, but does not teach a class."
         },
         {
           "letter": "D",
           "text": "dancer",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "A dancer performs on a stage, not in front of a class of pupils."
         }
       ],
       "correct_answer": "B",
@@ -108,25 +108,25 @@
           "letter": "A",
           "text": "firefighter",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "A firefighter puts out fires, and does not normally catch criminals."
         },
         {
           "letter": "B",
           "text": "vet",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "A vet treats sick animals, not people in a city."
         },
         {
           "letter": "C",
           "text": "police officer",
           "is_correct": true,
-          "feedback": "Correct!"
+          "feedback": "Correct. A police officer protects the population and is the one who catches criminals."
         },
         {
           "letter": "D",
           "text": "farmer",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "A farmer works the land and grows food, not a city police force."
         }
       ],
       "correct_answer": "C",
@@ -154,25 +154,25 @@
           "letter": "A",
           "text": "waiter",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "A waiter serves food in a restaurant and has nothing to do with fires."
         },
         {
           "letter": "B",
           "text": "lawyer",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "A lawyer defends people in court, not at a fire."
         },
         {
           "letter": "C",
           "text": "dentist",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "A dentist cares for teeth, and is not trained to fight fires."
         },
         {
           "letter": "D",
           "text": "firefighter",
           "is_correct": true,
-          "feedback": "Correct!"
+          "feedback": "Correct. A firefighter is trained to enter burning buildings and extinguish fires with water or foam."
         }
       ],
       "correct_answer": "D",
@@ -200,25 +200,25 @@
           "letter": "A",
           "text": "pilot",
           "is_correct": true,
-          "feedback": "Correct!"
+          "feedback": "A mechanic repairs engines in a garage, not aircraft in flight."
         },
         {
           "letter": "B",
           "text": "mechanic",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "Correct. A pilot is the person trained to fly and steer an airplane."
         },
         {
           "letter": "C",
           "text": "nurse",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "A nurse cares for sick patients in a hospital or clinic."
         },
         {
           "letter": "D",
           "text": "clerk",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "A clerk does office paperwork; they do not operate an aircraft."
         }
       ],
       "correct_answer": "A",
@@ -246,25 +246,25 @@
           "letter": "A",
           "text": "scientist",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "A scientist studies and researches, he does not cook in a restaurant kitchen."
         },
         {
           "letter": "B",
           "text": "chef",
           "is_correct": true,
-          "feedback": "Correct!"
+          "feedback": "Correct. A chef is trained to prepare and cook the dishes a restaurant serves."
         },
         {
           "letter": "C",
           "text": "soldier",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "A soldier serves in the armed forces, not in a restaurant kitchen."
         },
         {
           "letter": "D",
           "text": "builder",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "A builder constructs walls and buildings, and does not cook."
         }
       ],
       "correct_answer": "B",
@@ -292,25 +292,25 @@
           "letter": "A",
           "text": "librarian",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "A librarian looks after books and lends them from a library."
         },
         {
           "letter": "B",
           "text": "guard",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "A 'guard' watches and protects a building or an entrance."
         },
         {
           "letter": "C",
           "text": "vet",
           "is_correct": true,
-          "feedback": "Correct!"
+          "feedback": "Correct. A vet, or veterinarian, is the doctor who treats sick animals."
         },
         {
           "letter": "D",
           "text": "postman",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "A postman delivers letters and packages."
         }
       ],
       "correct_answer": "C",
@@ -338,25 +338,25 @@
           "letter": "A",
           "text": "manager",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "A manager runs a business or a team, he does not work the land."
         },
         {
           "letter": "B",
           "text": "actor",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "An actor performs in films or on stage, not on a farm."
         },
         {
           "letter": "C",
           "text": "secretary",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "A secretary handles office documents and calls."
         },
         {
           "letter": "D",
           "text": "farmer",
           "is_correct": true,
-          "feedback": "Correct!"
+          "feedback": "Correct. A farmer works the land to grow crops and raise animals for food."
         }
       ],
       "correct_answer": "D",

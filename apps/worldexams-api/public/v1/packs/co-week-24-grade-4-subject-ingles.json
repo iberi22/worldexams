@@ -16,25 +16,25 @@
           "letter": "A",
           "text": "breakfast",
           "is_correct": true,
-          "feedback": "Correct!"
+          "feedback": "Lunch is the midday meal, not the first one of the day."
         },
         {
           "letter": "B",
           "text": "lunch",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "Dinner is the evening meal, so it does not belong to the morning."
         },
         {
           "letter": "C",
           "text": "dinner",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "A 'snack' is a small food break, not a full meal of the day."
         },
         {
           "letter": "D",
           "text": "a snack",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "Correct. Breakfast is the name of the morning meal, the first meal of the day."
         }
       ],
       "correct_answer": "A",
@@ -62,25 +62,25 @@
           "letter": "A",
           "text": "supper",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "Supper is an evening word; at midday the meal is called lunch."
         },
         {
           "letter": "B",
           "text": "lunch",
           "is_correct": true,
-          "feedback": "Correct!"
+          "feedback": "Correct. Lunch is the meal eaten at midday, which is 12:00 PM."
         },
         {
           "letter": "C",
           "text": "breakfast",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "Breakfast is eaten in the morning, not at 12:00 PM."
         },
         {
           "letter": "D",
           "text": "dinner",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "Dinner is the last meal of the day, eaten at night."
         }
       ],
       "correct_answer": "B",
@@ -108,25 +108,25 @@
           "letter": "A",
           "text": "lunch",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "Lunch is the midday meal, and the sentence says the meal is at night."
         },
         {
           "letter": "B",
           "text": "brunch",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "'Brunch' combines breakfast and lunch and is served late in the morning, not at night."
         },
         {
           "letter": "C",
           "text": "dinner",
           "is_correct": true,
-          "feedback": "Correct!"
+          "feedback": "Correct. Dinner is the evening meal, the one a family shares at night."
         },
         {
           "letter": "D",
           "text": "breakfast",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "Breakfast is the morning meal, so it cannot be the meal at night."
         }
       ],
       "correct_answer": "C",
@@ -154,25 +154,25 @@
           "letter": "A",
           "text": "feast",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "A 'feast' is a large celebration with lots of food, not a small bite between meals."
         },
         {
           "letter": "B",
           "text": "breakfast",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "Breakfast is the morning meal, not a food eaten between lunch and dinner."
         },
         {
           "letter": "C",
           "text": "lunch",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "Lunch is the midday meal itself, and the sentence describes something smaller after it."
         },
         {
           "letter": "D",
           "text": "snack",
           "is_correct": true,
-          "feedback": "Correct!"
+          "feedback": "Correct. A snack is a small amount of food eaten between two main meals."
         }
       ],
       "correct_answer": "D",
@@ -200,25 +200,25 @@
           "letter": "A",
           "text": "Rice, beans, and meat",
           "is_correct": true,
-          "feedback": "Correct!"
+          "feedback": "Rice, beans and meat together form the main dish of a lunch, which is the typical answer."
         },
         {
           "letter": "B",
           "text": "Milk and cereal",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "Milk and cereal are eaten at breakfast in the morning."
         },
         {
           "letter": "C",
           "text": "A sandwich",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "A sandwich is food too, but it is a single item rather than a full lunch dish."
         },
         {
           "letter": "D",
           "text": "Fruit",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "Fruit is a food, but on its own it is not what a lunch consists of."
         }
       ],
       "correct_answer": "A",
@@ -246,25 +246,25 @@
           "letter": "A",
           "text": "Snack",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "A 'snack' is small and is not a named meal of the day."
         },
         {
           "letter": "B",
           "text": "Breakfast",
           "is_correct": true,
-          "feedback": "Correct!"
+          "feedback": "Correct. 7:00 AM is early morning time, and the meal eaten then is breakfast."
         },
         {
           "letter": "C",
           "text": "Lunch",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "Lunch is eaten at midday, around 12:00 PM."
         },
         {
           "letter": "D",
           "text": "Dinner",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "Dinner is eaten in the evening, around 7:00 PM."
         }
       ],
       "correct_answer": "B",
@@ -292,25 +292,25 @@
           "letter": "A",
           "text": "Lunch",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "Lunch is the midday meal, around 12:00 PM, not 7:00 PM."
         },
         {
           "letter": "B",
           "text": "Brunch",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "'Brunch' is served late in the morning, before midday."
         },
         {
           "letter": "C",
           "text": "Dinner",
           "is_correct": true,
-          "feedback": "Correct!"
+          "feedback": "Correct. 7:00 PM is evening time, and the evening meal is dinner."
         },
         {
           "letter": "D",
           "text": "Breakfast",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "Breakfast is eaten in the morning, around 7:00 AM."
         }
       ],
       "correct_answer": "C",
@@ -338,25 +338,25 @@
           "letter": "A",
           "text": "pizza",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "'Pizza' is usually a lunch or dinner food, not a morning food."
         },
         {
           "letter": "B",
           "text": "hamburger",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "A 'hamburger' is an evening or lunchtime food."
         },
         {
           "letter": "C",
           "text": "steak",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "'Steak' is a dinner food, and it is not eaten in the morning."
         },
         {
           "letter": "D",
           "text": "eggs and toast",
           "is_correct": true,
-          "feedback": "Correct!"
+          "feedback": "Correct. Eggs and toast are typical breakfast foods eaten in the morning."
         }
       ],
       "correct_answer": "D",

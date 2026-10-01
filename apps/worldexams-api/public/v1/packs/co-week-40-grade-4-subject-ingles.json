@@ -16,25 +16,25 @@
           "letter": "A",
           "text": "Hello",
           "is_correct": true,
-          "feedback": "Correct!"
+          "feedback": "'Hola' is Spanish for 'Hello'."
         },
         {
           "letter": "B",
           "text": "Goodbye",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "'Goodbye' is said when you leave, which is the opposite of a greeting."
         },
         {
           "letter": "C",
           "text": "Please",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "'Please' is used when you ask for something politely."
         },
         {
           "letter": "D",
           "text": "Thanks",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "'Thanks' is said when someone helps you or gives you something."
         }
       ],
       "correct_answer": "A",
@@ -62,25 +62,25 @@
           "letter": "A",
           "text": "Forty",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "10 + 10 is twenty, not forty."
         },
         {
           "letter": "B",
           "text": "Twenty",
           "is_correct": true,
-          "feedback": "Correct!"
+          "feedback": "10 + 10 = 20, which is 'Twenty'."
         },
         {
           "letter": "C",
           "text": "Ten",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "Ten is only one of the two tens being added."
         },
         {
           "letter": "D",
           "text": "Thirty",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "Thirty would need three tens, not two."
         }
       ],
       "correct_answer": "B",
@@ -108,25 +108,25 @@
           "letter": "A",
           "text": "A pig",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "A pig is a mammal on a farm; it does not give us eggs."
         },
         {
           "letter": "B",
           "text": "A horse",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "A horse is a mammal used for riding."
         },
         {
           "letter": "C",
           "text": "A hen",
           "is_correct": true,
-          "feedback": "Correct!"
+          "feedback": "A hen is a female chicken, and chickens are the farm animals that lay eggs."
         },
         {
           "letter": "D",
           "text": "A cow",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "A cow gives us milk, not eggs."
         }
       ],
       "correct_answer": "C",
@@ -154,25 +154,25 @@
           "letter": "A",
           "text": "In the kitchen",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "The kitchen is where we cook and eat, not where we sleep."
         },
         {
           "letter": "B",
           "text": "In the bathroom",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "The bathroom is where we wash."
         },
         {
           "letter": "C",
           "text": "In the garage",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "The garage is where the car is kept."
         },
         {
           "letter": "D",
           "text": "In the bedroom",
           "is_correct": true,
-          "feedback": "Correct!"
+          "feedback": "You sleep in the bedroom."
         }
       ],
       "correct_answer": "D",
@@ -200,25 +200,25 @@
           "letter": "A",
           "text": "Blue",
           "is_correct": true,
-          "feedback": "Correct!"
+          "feedback": "On a clear day the sky is blue, because the air scatters the blue light of the sun."
         },
         {
           "letter": "B",
           "text": "Green",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "Grass and leaves are green; the sky is not."
         },
         {
           "letter": "C",
           "text": "Red",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "The sky is not red except at sunrise or sunset."
         },
         {
           "letter": "D",
           "text": "Yellow",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "Yellow is the colour of the sun, not the sky."
         }
       ],
       "correct_answer": "A",
@@ -246,25 +246,25 @@
           "letter": "A",
           "text": "A chef",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "A chef cooks food and does not treat patients."
         },
         {
           "letter": "B",
           "text": "A doctor",
           "is_correct": true,
-          "feedback": "Correct!"
+          "feedback": "A doctor helps sick people, which is exactly what the sentence asks about."
         },
         {
           "letter": "C",
           "text": "A teacher",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "A teacher helps students learn at school."
         },
         {
           "letter": "D",
           "text": "A pilot",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "A pilot flies an aircraft."
         }
       ],
       "correct_answer": "B",
@@ -292,25 +292,25 @@
           "letter": "A",
           "text": "swim",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "You swim in the pool or the sea."
         },
         {
           "letter": "B",
           "text": "run",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "You run on the track or the field, not over books."
         },
         {
           "letter": "C",
           "text": "read",
           "is_correct": true,
-          "feedback": "Correct!"
+          "feedback": "You read books."
         },
         {
           "letter": "D",
           "text": "dance",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "You dance with music, not with books."
         }
       ],
       "correct_answer": "C",
@@ -338,25 +338,25 @@
           "letter": "A",
           "text": "sunny",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "Sunny means the sun is shining, so you would not need an umbrella."
         },
         {
           "letter": "B",
           "text": "windy",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "In windy weather an umbrella keeps the wind off you, but the clue is rain."
         },
         {
           "letter": "C",
           "text": "dry",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "Dry weather means no rain at all."
         },
         {
           "letter": "D",
           "text": "rainy",
           "is_correct": true,
-          "feedback": "Correct!"
+          "feedback": "Rain is falling, so the day is rainy and you need your umbrella."
         }
       ],
       "correct_answer": "D",

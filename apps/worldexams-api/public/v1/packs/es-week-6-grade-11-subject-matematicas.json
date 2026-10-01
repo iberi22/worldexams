@@ -529,7 +529,7 @@
           "letter": "D",
           "text": "$x=1, y=3, z=2$",
           "is_correct": false,
-          "feedback": "No cumple la tercera ecuación."
+          "feedback": "Con z = 2 la tercera ecuación se cumple, pero y = 3 haría que y + z = 5, no lo que pide la segunda ecuación."
         }
       ],
       "correct_answer": "B",

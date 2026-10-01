@@ -241,25 +241,25 @@
           "letter": "A",
           "text": "Celebration",
           "is_correct": false,
-          "feedback": "Incorrect."
+          "feedback": "A 'celebration' is a happy event marked with a party, the opposite of a punitive refusal."
         },
         {
           "letter": "D",
           "text": "Boycott",
           "is_correct": true,
-          "feedback": "Correct. Specific term for refusing to buy or participate as a form of protest."
+          "feedback": "Correct. A 'boycott' is a collective refusal to buy from or deal with someone as a form of protest."
         },
         {
           "letter": "B",
           "text": "Subsidy",
           "is_correct": false,
-          "feedback": "Incorrect. Financial aid."
+          "feedback": "A 'subsidy' is financial aid given by a government to support an industry, the opposite of a ban."
         },
         {
           "letter": "C",
           "text": "Dividend",
           "is_correct": false,
-          "feedback": "Incorrect."
+          "feedback": "A 'dividend' is a share of profit paid to shareholders, not a refusal to trade."
         }
       ],
       "correct_answer": "D",
@@ -286,25 +286,25 @@
           "letter": "A",
           "text": "is highlighting",
           "is_correct": false,
-          "feedback": "Incorrect. Active voice."
+          "feedback": "'Is highlighting' is the active voice and would make the importance do the highlighting."
         },
         {
           "letter": "D",
           "text": "is being highlighted",
           "is_correct": true,
-          "feedback": "Correct. Present continuous passive for an ongoing awareness effort."
+          "feedback": "Correct. 'Is being highlighted' is the present continuous passive, used for an effort that is under way now."
         },
         {
           "letter": "B",
           "text": "highlighted",
           "is_correct": false,
-          "feedback": "Incorrect. Past simple."
+          "feedback": "'Highlighted' on its own would be past simple, but the effort is current."
         },
         {
           "letter": "C",
           "text": "have highlighted",
           "is_correct": false,
-          "feedback": "Incorrect. Active voice."
+          "feedback": "'Have highlighted' is the Present Perfect active, which would make the importance the one doing the work."
         }
       ],
       "correct_answer": "D",
@@ -331,25 +331,25 @@
           "letter": "A",
           "text": "Isolation",
           "is_correct": false,
-          "feedback": "Incorrect. Opposite of unity."
+          "feedback": "'Isolation' means being separate from others, the opposite of unity."
         },
         {
           "letter": "B",
           "text": "Solidarity",
           "is_correct": true,
-          "feedback": "Correct. Core principle of social movements."
+          "feedback": "Correct. 'Solidarity' means unity and mutual support among people who share an interest or a goal."
         },
         {
           "letter": "C",
           "text": "Conflict",
           "is_correct": false,
-          "feedback": "Incorrect. Solidarity aims for internal unity."
+          "feedback": "'Conflict' means disagreement or fighting, whereas solidarity means agreement."
         },
         {
           "letter": "D",
           "text": "Apathy",
           "is_correct": false,
-          "feedback": "Incorrect."
+          "feedback": "'Apathy' means a lack of interest or concern, the opposite of acting together."
         }
       ],
       "correct_answer": "B",
@@ -646,25 +646,25 @@
           "letter": "A",
           "text": "ignored",
           "is_correct": false,
-          "feedback": "Incorrect."
+          "feedback": "'Ignored' means left out of account, which is the opposite of being amplified."
         },
         {
           "letter": "C",
           "text": "amplified",
           "is_correct": true,
-          "feedback": "Correct. To amplify means to make larger, greater, or stronger."
+          "feedback": "'Restricted' means limited or reduced, whereas the sentence says individual actions grow through group effort."
         },
         {
           "letter": "B",
           "text": "restricted",
           "is_correct": false,
-          "feedback": "Incorrect."
+          "feedback": "'Hidden' means concealed, which is the opposite of being made stronger."
         },
         {
           "letter": "D",
           "text": "hidden",
           "is_correct": false,
-          "feedback": "Incorrect."
+          "feedback": "Correct. 'Amplified' means to make something larger or stronger, which is how collective effort increases the impact of single actions."
         }
       ],
       "correct_answer": "C",
