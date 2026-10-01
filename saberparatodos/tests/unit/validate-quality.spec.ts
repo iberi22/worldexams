@@ -135,10 +135,10 @@ creador: Jules-Agent
 **Bloom:** Remember
 **ICFES:** Pensamiento Espacial
 **Expected_Success:** 0.70
-**Contexto:** Un granjero tiene 3 vacas y 2 ovejas.
+**Contexto:** El granjero de la granja ${num} tiene 3 vacas y 2 ovejas.
 
 ### Enunciado
-¿Cuántos animales tiene en total?
+¿Cuántos animales tiene en total en la granja ${num}?
 
 ### Opciones
 - [${letter === 'A' ? 'X' : ' '}] A) 5
