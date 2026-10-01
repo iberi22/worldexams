@@ -51,29 +51,31 @@ export function detectControlChars(content) {
 // accented Latin, the inverted marks used in Spanish, and the curly quotes an
 // English bundle may carry. Everything else is a generator that leaked its own
 // alphabet into the prose.
-const FOREIGN_BLOCKS = [
-  { name: 'cirilico', re: /[\u0400-\u04FF\u0500-\u052F]/g },
-  { name: 'CJK', re: /[\u4E00-\u9FFF\u3400-\u4DBF]/g },
-  { name: 'kana', re: /[\u3040-\u30FF]/g },
-  { name: 'hangul', re: /[\uAC00-\uD7AF\u1100-\u11FF]/g },
-];
-
 function detectForeignScript(content) {
-  const lines = content.split(/\r?\n/);
+  const FOREIGN_BLOCKS = /[\u0400-\u04FF\u0500-\u052F\u4E00-\u9FFF\u3400-\u4DBF\u3040-\u30FF\uAC00-\uD7AF\u1100-\u11FF]/g;
+  const NAMES = {
+    '\u0400': 'cirilico', '\u0500': 'cirilico',
+    '\u4E00': 'CJK', '\u3400': 'CJK',
+    '\u3040': 'kana',
+    '\uAC00': 'hangul', '\u1100': 'hangul',
+  };
+  const name = (ch) => NAMES[ch[0]] ?? 'cirilico';
+
   const results = [];
-  for (const block of FOREIGN_BLOCKS) {
-    for (let i = 0; i < lines.length; i++) {
-      const hits = lines[i].match(block.re);
-      if (!hits) continue;
-      // Trim to the offending word so the message names the token, not the line.
-      const around = lines[i];
-      const first = around.search(block.re);
-      const start = Math.max(0, first - 12);
-      const sample = around.slice(start, first + 20).trim();
-      results.push({ line: i + 1, block: block.name, count: hits.length, sample });
+  content.split(/\r?\n/).forEach((line, i) => {
+    // Copy the per-line list, not the regex: the same regex object carries
+    // lastIndex between calls, and a shared one silently skips characters.
+    for (const m of line.matchAll(new RegExp(FOREIGN_BLOCKS))) {
+      // Trim to the offending token so the message names the word, not the line.
+      const start = Math.max(0, m.index - 12);
+      results.push({
+        line: i + 1,
+        block: name(m[0]),
+        sample: line.slice(start, m.index + m[0].length + 8).trim(),
+      });
     }
-  }
-  return results.sort((a, b) => a.line - b.line);
+  });
+  return results;
 }
 
 export function detectPlaceholder(content, fm, base) {
@@ -171,12 +173,6 @@ const VAGUE_ONLY =
 // says nothing. Same instruction, same emptiness, in the other language.
 const VAGUE_EN =
   /^\s*(please\s+|por favor\s+)?(review|revise|revisit|read again|go back|check|look again|practise|practice|try again|see again|consult|estudie|leia|releia|consulte)\b[\s\wáéíóúñ]{0,40}$/i;
-// Filler the generator emitted instead of a question. These are not weak
-// feedback, they are absent content: the option text is the label itself.
-const PLACEHOLDER_OPTION =
-  /^\s*opci[oó]n\s+[A-D]\s*(\(correcto\)|\(correct\))?\s*$/i;
-const PLACEHOLDER_STEM =
-  /^\s*this is a (review )?question about\b/i;
 const UNFILLED_TOKEN = /\{[a-z_]+\}/i;
 // A category label: the name of the tense, voice, mood, part of speech, semantic
 // relation or vocabulary register that an option belongs to. In language
@@ -423,10 +419,9 @@ export function validateFile(file, opts = { strictQuality: false, corpusHashMap:
   // occasional curly quote. Anything in the Cyrillic, CJK, Kana or Hangul
   // blocks is corruption, and a Spanish letter glued onto a Cyrillic one
   // ("voseoGg", "weakhens") is the same defect in a harder-to-see form.
-  const foreignScript = detectForeignScript(content);
-  for (const f of foreignScript) {
+  for (const f of detectForeignScript(content)) {
     errors.push(
-      `ERROR [foreign-script] ${relative}:${f.line} contiene ${f.count} caracter(es) de ${f.block}: "${f.sample}"`
+      `ERROR [foreign-script] ${relative}:${f.line} ${f.block}: "${f.sample}"`
     );
   }
 
