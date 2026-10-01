@@ -821,8 +821,58 @@ const foreignScriptCases = [
   },
 ];
 
+// glued-token: a model that drifted mid-generation splices a fragment of
+// another word into the prose. The bundle keeps its shape, so nothing else sees
+// it. These are the exact strings found in the corpus, not invented ones.
+const gluedTokenCases = [
+  {
+    name: 'glued capitals inside a Spanish option are rejected (real corpus string)',
+    expect: 'reject',
+    rule: /glued-token/,
+    buildContent: () =>
+      buildCtxPair(
+        'Un grupo de estudiantes de grado 11 debate una tesis en el aula de Barranquilla.',
+        'Otra aula analiza el mismo texto.',
+        'Que rasgo tiene el argumento del autor?',
+        [
+          { text: 'Pondera un riesgo contra un costo', fb: 'Correcto. La comparacion de magnitudes es un argumento tipico de la deliberacion.' },
+          { text: 'Una tesis general resulta m\u00e1sTZ inclusiva', fb: 'Incorrecto. La palabra tiene un fragmento en mayusculas pegado al final y no es espanol.' },
+          { text: 'Afirma sin matizar', fb: 'Incorrecto. El texto matiza cada afirmacion, no las presenta como definitivas.' },
+          { text: 'Recurre a la emotion', fb: 'Incorrecto. Apoyarse en la emocion es un recurso apelativo, no deliberativo.' },
+        ]
+      ),
+  },
+  {
+    name: 'a real English acronym and a normal word are NOT glued tokens',
+    expect: 'accept',
+    rule: /glued-token/,
+    buildContent: () =>
+      buildCtxPair(
+        'The ONG filed report 14 about the NASA launch scheduled for March from Bogota.',
+        'The ONG filed report 27 about the NASA launch scheduled for August from Medellin.',
+        'What does the report say?',
+        [
+          { text: 'The ONG deployed a new satellite', fb: 'Correct. The verb deployed describes putting the satellite in use, and the acronym ONG is a normal uppercase run at the start of a token.' },
+          { text: 'The NGO studied a Star', fb: 'Incorrect. A star is a celestial body, which is not what the text says was launched.' },
+          { text: 'The ONG built a bridge', fb: 'Incorrect. The report describes a satellite launch, not construction work of any kind.' },
+          { text: 'The ONG found a fossil', fb: 'Incorrect. Fossils are not mentioned anywhere in the report at all.' },
+        ]
+      ),
+  },
+];
+
 try {
-  for (const c of [...ctxCases, ...foreignScriptCases.map((c) => ({ ...c, hit: c.rule, content: c.buildContent }))]) {
+  // A case may carry content as a string (already written out) or as
+   // buildContent, a function that assembles it. Keep whichever it has.
+   const allCases = [...ctxCases, ...foreignScriptCases, ...gluedTokenCases].map((c) => ({
+     ...c,
+     // ctxCases carries its expectation in `rule` as a plain string; the newer
+     // blocks carry it as a RegExp. Only fill `hit` when the case did not set
+     // one, so an existing string is not overwritten with undefined.
+     hit: c.hit ?? c.rule,
+     content: c.content ?? c.buildContent,
+   }));
+   for (const c of allCases) {
     fs.writeFileSync(FILE, c.content(), 'utf8');
     let verdict = 'accept';
     let msg = '';
