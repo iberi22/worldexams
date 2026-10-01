@@ -69,7 +69,7 @@ Al reducir ese texto a un resumen de cinco líneas, ¿qué información debe ser
   <!-- feedback: Incorrecto. El título no ocupa parte del cuerpo argumental y ayuda a orientar al lector; cambiarlo sin necesidad no mejora la síntesis y puede alterar la interpretación. -->
 
 ### Explicacion Pedagogica
-Al resumir hay un orden: primero se conserva la estructura lógica del texto (planteamiento, desarrollo, cierre) y sus datosadobe; después se recortan repeticiones, digresiones y ejemplos secundarios. Quitar primero la evidencia deja un resumen sin base, aunque por su tamaño parezca más claro.
+Al resumir hay un orden: primero se conserva la estructura lógica del texto (planteamiento, desarrollo, cierre) y sus datos de apoyo; después se recortan repeticiones, digresiones y ejemplos secundarios. Quitar primero la evidencia deja un resumen sin base, aunque por su tamaño parezca más claro.
 
 ## Question 3 [D5-D6]
 **ID:** CO-LEN-10-2026-W33-el-resumen-y-la-sintesis-textual-001-MASTERY-bundle-v3
@@ -99,7 +99,7 @@ La coherencia en un resumen se apoya en los conectores lógicos. Al reescribir c
 **Bloom:** Apply
 **ICFES:** Pragmatico
 **Expected_Success:** 0.78
-**Contexto:** En el Colegio Francisco de Paula Santander de Bucaramanga, un estudiante debe resumir un informe de dos páginas para la reunión de“My plan”.
+**Contexto:** En el Colegio Francisco de Paula Santander de Bucaramanga, un estudiante debe resumir un informe de dos páginas para la reunión del plan de trabajo.
 
 ### Enunciado
 ¿Cuál de los siguientes es el procedimiento correcto para construir el resumen de ese informe?
@@ -247,7 +247,7 @@ Su resumen menciona el concepto "materia orgánica" dos veces, sin explicarlo en
   <!-- feedback: Incorrecto. Los conectores no restan fluidez: sin ellos las ideas quedan sueltas. Además, en este caso el problema no está en los nexos sino en la presencia de un término sin definir. -->
 - [x] B) La pérdida de coherencia local: un concepto central aparece sin definición ni contexto y el lector no puede reconstruir la relación explicativa.
   <!-- feedback: Correcto. La coherencia exige que cada elemento del resumen se entienda en la relación con los demás. Un término repetido pero no explicado rompe ese contrato y deja al lector sin la relación causal del texto. -->
-- [ ] C) El exceso de concisión, que produce incomprensión en cualquier texto sin importar cómo se selev,[b]selected.
+- [ ] C) El exceso de concisión, que produce incomprensión en cualquier texto sin importar cómo se selections.
   <!-- feedback: Incorrecto. Ser conciso no es defectuoso por sí mismo: un resumen puede ser breve y comprensible. Aquí el daño está en una omisión concreta (la definición), no en la extensión. -->
 - [ ] D) La ausencia de comas, que altera el sentido de las oraciones y confunde al lector de grado 10.
   <!-- feedback: Incorrecto. Es un detalle de puntuación, no un problema de síntesis. Aunque se corrigieran todas las comas, el término seguiría sin explicarse y la incomprensión permanecería intacta. -->
@@ -269,7 +269,7 @@ Los textos son: un reporte técnico con alta densidad de datos, una columna de o
 - [ ] A) Presentar como hechos las opiniones del columnista, porque fueron publicadas en un medio de reconocimiento.
   <!-- feedback: Incorrecto. Publicación no es verificación: una columna expresa la posición de su autor, y convertirla en dato comprobable es una operación dePseudo-objetividad que deforma la comparación. -->
 - [ ] B) Omitir el reporte técnico, porque sus datos son difíciles de explicar en unas pocas líneas.
-  <!-- feedback: Incorrecto. Descartar la fuente más incómoda por ENGINEERING de redacción empobrece la síntesis. Los datos se pueden condensar sin perderlos: lo que no cabe en pocas líneas se reduce, no se suprime. -->
+  <!-- feedback: Incorrecto. Descartar la fuente más incómoda por easiest de redacción empobrece la síntesis. Los datos se pueden condensar sin perderlos: lo que no cabe en pocas líneas se reduce, no se suprime. -->
 - [x] C) Separar los planos: datos verificados del reporte, posición argumental de la columna y propósito divulgativo del artículo, explicitando qué clase de afirmación es cada una.
   <!-- feedback: Correcto. Distinguir el tipo de enunciación de cada fuente permite comparar sin homologar. El lector sabe qué es dato medido, qué es opinión sostenida y qué es explicación dirigida al público general. -->
 - [ ] D) Unir los tres en un solo bloque sin encabezados, porque así se evita la repetición y el texto resulta más fluido.
@@ -292,7 +292,7 @@ El evaluador afirma que la síntesis es "completa" porque cita los cinco textos 
 - [ ] A) El evaluador tiene razón, porque citar todas las fuentes garantiza que la síntesis sea útil para el lector.
   <!-- feedback: Incorrecto. La cita de fuentes es una garantía de trazabilidad, no de utilidad. Un texto puede citar cinco fuentes y noJerarquizar sus ideas, con lo cual el lector no obtiene ninguna síntesis. -->
 - [ ] B) El evaluador tiene razón, siempre que la extensión se limite a una página, porque la brevedad es el criterio principal.
-  <!-- feedback: Incorrecto. La extensión es un requisito secondary y no un criterio de calidad: una página puede estar vacía de contenido o saturada de datos sin jerarquizar. Lo que se mide es la recuperación del sentido. -->
+  <!-- feedback: Incorrecto. La extensión es un requisito secundario y no un criterio de calidad: una página puede estar vacía de contenido o saturada de datos sin jerarquizar. Lo que se mide es la recuperación del sentido. -->
 - [ ] C) La síntesis es completa si mantiene el orden de lectura de las cinco fuentes, porque eso respeta la estructura del archivo documental.
   <!-- feedback: Incorrecto. Respetar el orden del archivo no equivale a sintetizar: ese es el orden en que aparecieron los textos, no el orden de importancia temática que el lector necesita. La síntesis se organiza por ideas, no por secuencia de las fuentes. -->
 - [x] D) La síntesis no es necesariamente útil: la completitud se mide por recuperación de la idea central, coherencia interna y fidelidad, no por el número de fuentes citadas ni por la extensión.
