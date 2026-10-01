@@ -202,10 +202,10 @@ Compare these two sentences:
 Which one sounds like a formal promise or an offer made right now?
 
 ### Opciones
-- [x] A) Sentence 1 <!-- feedback: "Will" is the tense used for promises and for offers made spontaneously at the moment of speaking, which is what sentence 1 does. -->
-- [ ] B) Sentence 2 <!-- feedback: Sentence 2 sounds like a plan you had already decided on before being asked. -->
-- [ ] C) Both are exactly the same. <!-- feedback: They are not identical: "will" commits at the moment of speaking while "am going to" points to a prior intention. -->
-- [ ] D) Neither is correct. <!-- feedback: Both sentences are grammatically correct; only the communicative nuance differs. -->
+- [x] A) "I will help you with your homework later." <!-- feedback: "Will" is the tense used for promises and for offers made spontaneously at the moment of speaking, which is exactly what this sentence does. -->
+- [ ] B) "I am going to help you with your homework later." <!-- feedback: "Am going to" points to a plan you had already decided on before being asked, so it sounds less like a promise made in this moment. -->
+- [ ] C) Both sound exactly the same. <!-- feedback: They are not identical: "will" commits at the moment of speaking while "am going to" points back to a prior intention. -->
+- [ ] D) Neither one is grammatical. <!-- feedback: Both sentences are perfectly grammatical; only the communicative nuance between the promise and the prior plan differs. -->
 
 ### Explicacion Pedagogica
 Si querés quedar bien y prometerle algo a alguien en el momento ("Te prometo que te ayudo"), usás "will". El "going to" suena más a un plan que ya tenías en la agenda. ¡Usá "will" para ser servicial!

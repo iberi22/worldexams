@@ -129,7 +129,18 @@ Explicacion completa del concepto evaluado.
 ```
 
 Reglas:
-- Usar `## Question N [D#]`, no `## Pregunta`.
+- **El feedback de la opcion CORRECTA no puede contradecir su marca `[x]`.** Si la
+  opcion marcada dice que su propio metodo, formula o palabra no aplica al problema,
+  el bundle esta mal aunque el gate pase. Ocurre: en CL-MAT-11-2026-W06 la opcion
+  `[x]` "Factorizacion de Primos" lleva un feedback que dice que ese metodo no
+  sirve para sistemas de ecuaciones. Ninguna regla automatica lo detecta todavia.
+- **El feedback va en el idioma del bundle.** En un bundle de ingles, las cuatro
+  explicaciones son de ingles. Se comprueba con `node scripts/check-feedback-language.mjs`.
+- **Un calculo es la explicacion, y puede ser corta.** `F = ma = 2×3 = 6 N` son 16
+  caracteres y son la razon entera. Lo que no vale es `Revisa el concepto`: eso no
+  nombra ningun concepto. El largo no es el criterio; que diga algo, si.
+
+
 - Usar `### Enunciado`, `### Opciones`, `### Explicacion Pedagogica`.
 - Eje evaluado por pais: `**ICFES:**` es EXCLUSIVO de Colombia. Todos los demas paises usan `**EJE:**` (eje/componente evaluado). La entidad de cada pais (PAES, EXANI, ENEM, CNEB, Aprender...) va solo en el frontmatter `alignment`, nunca como marca dentro de las preguntas.
 - Exactamente 4 opciones A-D.

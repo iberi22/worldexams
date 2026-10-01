@@ -68,7 +68,7 @@ Complete the sentence: "I eat ________ apple every morning."
 - [ ] B) some
   <!-- feedback: Incorrect. While possible for plural, "an" is used for one specific apple. -->
 - [ ] C) the some
-  <!-- feedback: Incorrect structure. -->
+  <!-- feedback: Incorrect. The determiner and the pronoun cannot be stacked: "the" already fixes one particular apple, so the extra "some" makes the phrase ungrammatical. -->
 
 ### Explicacion Pedagogica
 The student remembers the rule for indefinite articles.
@@ -194,7 +194,7 @@ The student applies reading strategies to calculate frequency from specific data
 - [ ] B) some
   <!-- feedback: Incorrect. Not used with "How" for this question type. -->
 - [ ] D) any
-  <!-- feedback: Incorrect. Not used with "How" for this question type. -->
+  <!-- feedback: Incorrect. "Any" belongs to negative and interrogative contexts, so in this affirmative question for a countable plural it does not fit. -->
 
 ### Explicacion Pedagogica
 The student applies the correct interrogative quantifier for countable nouns.
@@ -217,7 +217,7 @@ The student applies the correct interrogative quantifier for countable nouns.
 - [x] B) a little
   <!-- feedback: Correct! "A little" is for a small amount of an uncountable noun. -->
 - [ ] C) many
-  <!-- feedback: Incorrect. Money is uncountable. -->
+  <!-- feedback: Incorrect. "Many" counts separate items, but money is an uncountable noun, so it can only be measured with "much" or "a little". -->
 - [ ] D) any
   <!-- feedback: Incorrect. "Any" is for zero in negative/questions. -->
 

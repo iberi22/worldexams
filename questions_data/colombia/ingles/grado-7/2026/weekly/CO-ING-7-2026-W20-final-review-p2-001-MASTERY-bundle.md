@@ -87,13 +87,13 @@ The student distinguishes between regular and irregular verb categories.
 
 ### Opciones
 - [ ] A) Finally / First / Then
-  <!-- feedback: Incorrect order. -->
+  <!-- feedback: Incorrect. "Finally" must mark the last of the three events, and here it puts packing the suitcase after leaving for the airport. -->
 - [x] C) First / Then / Finally
   <!-- feedback: Correct! Logical sequence of events. -->
 - [ ] B) Next / After that / Finally
   <!-- feedback: Incorrect. A sequence shouldn't start with "Next" if the first step is given. -->
 - [ ] D) First / Next / First
-  <!-- feedback: Incorrect order. -->
+  <!-- feedback: Incorrect. The sequence repeats "First" and has no word for the last event, so the arrival in Cartagena has no place in the order. -->
 
 ### Explicacion Pedagogica
 The student understands the chronological flow provided by sequence connectors.

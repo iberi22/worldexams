@@ -101,7 +101,7 @@ We will go to the beach ________ it rains.
 - [ ] A) if <!-- feedback: Incorrect. If it rains, you usually don't go to the beach. -->
 - [x] B) unless <!-- feedback: Correct! "Unless" means "if not" or "except if". -->
 - [ ] C) when <!-- feedback: Incorrect. This would mean you only go when it is raining. -->
-- [ ] D) as <!-- feedback: Incorrect. -->
+- [ ] D) as <!-- feedback: Incorrect. "As" introduces a comparison or a reason, so "as it rains" would explain the plan instead of setting the condition for it. -->
 
 ### Explicación Pedagógica
 "Unless" funciona como "a menos que". Gramaticalmente equivale a decir "if ... not".
@@ -121,7 +121,7 @@ If I finish my project early, I ________ go to the park, but I'm not sure.
 ### Opciones
 - [ ] A) will <!-- feedback: Incorrect. "Will" expresses certainty, but the speaker says "I'm not sure". -->
 - [x] D) might <!-- feedback: Correct! "Might" is used in conditionals to show a possibility instead of a certainty. -->
-- [ ] B) am <!-- feedback: Incorrect. -->
+- [ ] B) am <!-- feedback: Incorrect. "I am go to the park" has no infinitive after "am", and the modal slot needs a modal verb or a bare infinitive. -->
 - [ ] C) must <!-- feedback: Incorrect. This would be an obligation. -->
 
 ### Explicación Pedagógica
@@ -163,7 +163,7 @@ Which sentence is grammatically correct?
 ### Opciones
 - [ ] A) If you will study hard, you will pass. <!-- feedback: Incorrect. No "will" in the "if" clause. -->
 - [x] D) You will pass the exam if you study hard. <!-- feedback: Correct! The order can be result + if + condition (no comma needed). -->
-- [ ] B) You pass the exam if you will study hard. <!-- feedback: Incorrect. -->
+- [ ] B) You pass the exam if you will study hard. <!-- feedback: Incorrect. The present simple of the main clause is used, and "will study" in the "if" clause would state a fact about studying. -->
 - [ ] C) If you study hard you will pass. <!-- feedback: Incorrect. Needs a comma when "if" starts the sentence. -->
 
 ### Explicación Pedagógica
@@ -185,10 +185,10 @@ Se puede cambiar el orden de las cláusulas: [Condition], [Result] (con coma) o 
 What is the difference?
 
 ### Opciones
-- [ ] A) There is no difference in meaning. <!-- feedback: Incorrect. -->
+- [ ] A) There is no difference in meaning. <!-- feedback: Incorrect. The two sentences differ: A states a rule that always holds, while B announces what will happen in one particular case. -->
 - [x] B) A is a general allergy (always true); B is a prediction for this specific moment. <!-- feedback: Correct! A is Zero Conditional, B is First Conditional. -->
 - [ ] C) A is about the past; B is about the future. <!-- feedback: Incorrect. Both are in present/future context. -->
-- [ ] D) B is more polite than A. <!-- feedback: Incorrect. -->
+- [ ] D) B is more polite than A. <!-- feedback: Incorrect. Both are plain statements in the same neutral register, and politeness is not what distinguishes them. -->
 
 ### Explicación Pedagógica
 El Condicional Cero (A) describe una ley general o hábito. El Primer Condicional (B) describe lo que pasará en un caso particular en el futuro.
@@ -208,7 +208,7 @@ If you feel dizzy, ________ some water and rest.
 ### Opciones
 - [ ] A) you will drink <!-- feedback: Incorrect. A bit long for a direct instruction. -->
 - [x] D) drink <!-- feedback: Correct! We can use an imperative in the result clause for instructions. -->
-- [ ] B) drinking <!-- feedback: Incorrect. -->
+- [ ] B) drinking <!-- feedback: Incorrect. The slot is a full clause, not a participle, and "If you feel dizzy, drinking some water" has no finite verb of its own. -->
 - [ ] C) you should to drink <!-- feedback: Incorrect. "Should" is not followed by "to". -->
 
 ### Explicación Pedagógica

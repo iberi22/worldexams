@@ -118,7 +118,7 @@ ________ that the situation was dangerous, the explorers decided to return to th
 - [ ] B) Having realized
   <!-- feedback: Incorrect. While possible, "Realizing" fits the immediate cause better. -->
 - [ ] C) To realize
-  <!-- feedback: Incorrect. -->
+  <!-- feedback: Incorrect. An infinitive would make the explorers arrive already having realised something, and it cannot express the reason as a cause. -->
 
 ### Explicacion Pedagogica
 Una oración de participio de presente puede usarse para explicar la razón de la acción principal. Equivale a decir "Because they realized...".
@@ -143,7 +143,7 @@ There are several documents in the archive ________ the history of the independe
 - [ ] C) having described
   <!-- feedback: Incorrect. Too complex for this context. -->
 - [ ] D) to describe
-  <!-- feedback: Incorrect. -->
+  <!-- feedback: Incorrect. An infinitive after a noun needs a subject of its own, so the documents would have to be doing the describing. -->
 
 ### Explicacion Pedagogica
 El participio de presente se usa frecuentemente para sustituir oraciones de relativo activas.
@@ -162,13 +162,13 @@ ________ at the foot of the mountains, the town was isolated from most trade rou
 
 ### Opciones
 - [ ] A) Locating
-  <!-- feedback: Incorrect. Active meaning. -->
+  <!-- feedback: Incorrect. "Locating" is active, so it would make the town the one doing the placing of itself at the foot of the mountains. -->
 - [x] C) Located
   <!-- feedback: Correct! Past participle shows the passive state or situation. -->
 - [ ] B) Having located
   <!-- feedback: Incorrect. Active meaning. -->
 - [ ] D) Being located
-  <!-- feedback: Incorrect. -->
+  <!-- feedback: Incorrect. The -ing form marks an action in progress, and the sentence describes a finished situation, not one still happening. -->
 
 ### Explicacion Pedagogica
 Usamos el participio pasado al inicio de la oración para describir una circunstancia o estado pasivo del sujeto principal.
@@ -193,7 +193,7 @@ Which sentence is grammatically correct?
 - [ ] B) Walked through the museum, I saw many paintings.
   <!-- feedback: Incorrect. Passive meaning for "walked". -->
 - [ ] D) Having walking through the museum, I saw many paintings.
-  <!-- feedback: Incorrect. -->
+  <!-- feedback: Incorrect. "Having" must be followed by a past participle, so the correct form of "walked" would be needed after it. -->
 
 ### Explicacion Pedagogica
 El sujeto de la oración principal debe ser el mismo que realiza la acción expresada por el participio.
@@ -213,13 +213,13 @@ What does this imply?
 
 ### Opciones
 - [ ] A) He submitted it while he was finishing it.
-  <!-- feedback: Incorrect. -->
+  <!-- feedback: Incorrect. "Having finished" places the completion of the report before the submission, not at the same time as it. -->
 - [x] B) He submitted it only after he had completely finished it.
   <!-- feedback: Correct! "Having + past participle" emphasizes completion of the first action. -->
 - [ ] C) He finished it because he submitted it.
-  <!-- feedback: Incorrect. -->
+  <!-- feedback: Incorrect. The clause gives the reason for submitting, while "having finished" gives the moment of the first action. -->
 - [ ] D) He submitted it to help him finish it.
-  <!-- feedback: Incorrect. -->
+  <!-- feedback: Incorrect. That would make the submission come first, and the sentence presents the report as already finished before it was sent. -->
 
 ### Explicacion Pedagogica
 El participio de perfecto (*Having finished*) indica prioridad temporal entre dos acciones pasadas.
@@ -242,9 +242,9 @@ ________ enough evidence to prove his theory, the scientist continued his resear
 - [x] A) Not having
   <!-- feedback: Correct! Negative participle clauses start with "Not" followed by the participle. -->
 - [ ] C) Don't having
-  <!-- feedback: Incorrect. -->
+  <!-- feedback: Incorrect. The negative here belongs to the participle clause, which takes "not", and the auxiliary "do" never appears in that structure. -->
 - [ ] D) Not had
-  <!-- feedback: Incorrect. -->
+  <!-- feedback: Incorrect. A participle clause needs the -ing form, so after "not" the sentence needs "having", and "not had" is a plain verb form. -->
 
 ### Explicacion Pedagogica
 Para formar la versión negativa de una oración de participio, colocamos *not* delante del participio.
@@ -264,11 +264,11 @@ Identify the error in this paragraph:
 
 ### Opciones
 - [ ] A) Growing up
-  <!-- feedback: Incorrect. Correct use. -->
+  <!-- feedback: Incorrect. This is a correct present participle clause describing when the city changed, so it is not the error. -->
 - [ ] C) Built
-  <!-- feedback: Incorrect. Correct use. -->
+  <!-- feedback: Incorrect. This is a correct past participle clause about the location of the factories, so it is not the error. -->
 - [ ] D) Having been
-  <!-- feedback: Incorrect. Correct use. -->
+  <!-- feedback: Incorrect. This is a correct perfect participle clause, and the fault of the sentence lies in the word that follows it. -->
 - [x] B) becoming
   <!-- feedback: Correct! This should be a finite verb (became) because it is the main verb of the sentence. -->
 
@@ -291,11 +291,11 @@ Which sentence is the most formal way to report a historical event?
 - [ ] B) The king was defeated and then he went into exile.
   <!-- feedback: Incorrect. Too simple. -->
 - [ ] C) When the king was defeated, he went into exile.
-  <!-- feedback: Incorrect. -->
+  <!-- feedback: Incorrect. The two full clauses joined by "when" are wordier, and a participle clause is the formal compressed form. -->
 - [x] A) Defeated in battle, the king went into exile.
   <!-- feedback: Correct! Uses a past participle clause for conciseness. -->
 - [ ] D) The king, who was defeated, went into exile.
-  <!-- feedback: Incorrect. -->
+  <!-- feedback: Incorrect. A relative clause still needs a full subject and verb, so it is no more formal than a participle clause. -->
 
 ### Explicacion Pedagogica
 El uso de oraciones de participio es una característica del lenguaje académico e histórico formal.
@@ -314,13 +314,13 @@ El uso de oraciones de participio es una característica del lenguaje académico
 
 ### Opciones
 - [ ] A) asked
-  <!-- feedback: Incorrect. -->
+  <!-- feedback: Incorrect. The past participle has no passive meaning here, so the messenger would be doing the asking rather than asking while he travelled. -->
 - [x] B) asking
   <!-- feedback: Correct! Present participle for simultaneous action. -->
 - [ ] C) to have asked
-  <!-- feedback: Incorrect. -->
+  <!-- feedback: Incorrect. An infinitive cannot open the second clause of a sentence whose main verb is already in the past. -->
 - [ ] D) having asked
-  <!-- feedback: Incorrect. -->
+  <!-- feedback: Incorrect. That would place the asking before the journey and after the understanding, and so it would destroy the simultaneity. -->
 
 ### Explicacion Pedagogica
 El uso de participios permite crear una narrativa histórica fluida y de nivel avanzado.
