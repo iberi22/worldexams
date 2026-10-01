@@ -9,42 +9,42 @@
   "questions": [
     {
       "id": "CO-ING-6-2026-W39-final-review-1-001-v1",
-      "statement": "This is a review question about final-review-1.",
-      "context": "Scenario about final-review-1 in a Colombian school or city context.",
+      "statement": "Which sentence is correct?",
+      "context": "Reviewing the present simple across the year.",
       "options": [
         {
           "letter": "A",
-          "text": "Option C",
+          "text": "My sister studying in Medellín.",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "The -ing form needs an auxiliary such as is to form a verb, so it cannot stand alone here."
         },
         {
           "letter": "B",
-          "text": "Option A (Correct)",
-          "is_correct": true,
-          "feedback": "Correct! Well done."
+          "text": "My sister study in Medellín.",
+          "is_correct": false,
+          "feedback": "The base form study does not agree with a third person singular subject, which requires studies."
         },
         {
           "letter": "C",
-          "text": "Option B",
-          "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "text": "My sister studies in Medellín.",
+          "is_correct": true,
+          "feedback": "The third person singular of the present simple is studies, which agrees with the subject my sister."
         },
         {
           "letter": "D",
-          "text": "Option D",
+          "text": "My sister is study in Medellín.",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "After the auxiliary is the bare infinitive is required, so the verb should be study without the -ing form."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "This question evaluates the student's ability to remember the topic of Final Comprehensive Review 1 at an A2 level. It focuses on Colombian contexts and standard A2 grammar.\n\n---",
-      "difficulty": "4",
+      "correct_answer": "C",
+      "explanation": "The correct answer is \"My sister studies in Medellín\". The present simple with the third person -s is the most frequently tested structure across the whole year, from routines through hobbies to the final review, and it is worth one item here at the confident end of the scale. Including it early in the bundle lets the student settle into the review with something secure before the harder tenses and readings come.",
+      "difficulty": "3",
       "images": [],
       "tags": [],
       "bloom": "Remember",
-      "icfes_type": "Reading Comprehension",
-      "expected_success": 0.75,
+      "icfes_type": "Grammatical Knowledge",
+      "expected_success": 0.82,
       "bundle_id": "CO-ING-6-2026-W39-final-review-1-001-MASTERY-bundle",
       "periodo": 39,
       "protocol_version": "5.2",
@@ -55,42 +55,42 @@
     },
     {
       "id": "CO-ING-6-2026-W39-final-review-1-002-v1",
-      "statement": "Select the correct A2 level use for final-review-1.",
-      "context": "Scenario about final-review-1 in a Colombian school or city context.",
+      "statement": "You want to know how much something costs. Which question do you use?",
+      "context": "Reviewing the vocabulary of the final period.",
       "options": [
         {
           "letter": "A",
-          "text": "Structure 3",
-          "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "text": "How much is it?",
+          "is_correct": true,
+          "feedback": "How much asks for a price, and that is the information the question is requesting."
         },
         {
           "letter": "B",
-          "text": "Structure 2",
+          "text": "How many is it?",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "How many asks for a number of things, and a price is not expressed as a count."
         },
         {
           "letter": "C",
-          "text": "Structure 1 (Correct)",
-          "is_correct": true,
-          "feedback": "Correct! Well done."
+          "text": "Where is it?",
+          "is_correct": false,
+          "feedback": "Where asks for a location, which tells the listener nothing about the cost."
         },
         {
           "letter": "D",
-          "text": "Structure 4",
+          "text": "What is it?",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "What asks for the name or nature of a thing rather than its price."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "This question evaluates the student's ability to remember the topic of Final Comprehensive Review 1 at an A2 level. It focuses on Colombian contexts and standard A2 grammar.\n\n---",
-      "difficulty": "4",
+      "correct_answer": "A",
+      "explanation": "The correct answer is \"How much is it?\". The question words were introduced in the direction and shopping weeks and are used in every transaction a student will ever have in English, so they are worth consolidating before the year ends. Choosing the question word that matches the information you actually want is a small habit that prevents a surprisingly large number of misunderstandings.",
+      "difficulty": "3",
       "images": [],
       "tags": [],
       "bloom": "Remember",
-      "icfes_type": "Reading Comprehension",
-      "expected_success": 0.75,
+      "icfes_type": "Lexical Knowledge",
+      "expected_success": 0.8,
       "bundle_id": "CO-ING-6-2026-W39-final-review-1-001-MASTERY-bundle",
       "periodo": 39,
       "protocol_version": "5.2",
@@ -101,42 +101,42 @@
     },
     {
       "id": "CO-ING-6-2026-W39-final-review-1-003-v1",
-      "statement": "Identify the appropriate vocabulary for final-review-1.",
-      "context": "Scenario about final-review-1 in a Colombian school or city context.",
+      "statement": "Read: \"Last year Camila lived in Ibagué. This year she lives in Bogotá and she is studying engineering.\" Where does Camila live now?",
+      "context": "Reading a short review text with several tenses in it.",
       "options": [
         {
           "letter": "A",
-          "text": "Word 2",
+          "text": "In Ibagué.",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "Ibagué is where she lived last year, which is a different period from the present."
         },
         {
           "letter": "B",
-          "text": "Word 3",
+          "text": "The text does not say.",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "The second sentence states her present city directly, so the answer is given in the text."
         },
         {
           "letter": "C",
-          "text": "Word 1 (Correct)",
-          "is_correct": true,
-          "feedback": "Correct! Well done."
+          "text": "In Ibagué and Bogotá.",
+          "is_correct": false,
+          "feedback": "She cannot live in two cities at once, and the text marks one as the past and the other as the present."
         },
         {
           "letter": "D",
-          "text": "Word 4",
-          "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "text": "In Bogotá.",
+          "is_correct": true,
+          "feedback": "The present simple lives in the second sentence places her in Bogotá now, and the past tense marks Ibagué as over."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "This question evaluates the student's ability to understand the topic of Final Comprehensive Review 1 at an A2 level. It focuses on Colombian contexts and standard A2 grammar.\n\n---",
-      "difficulty": "6",
+      "correct_answer": "D",
+      "explanation": "The correct answer is \"In Bogotá\". Two tenses in two sentences mark two different periods, and a reader who ignores the tense markers will answer with the past information. Tracking which facts belong to now and which belonged to before is the central reading skill of this review, and it is what every longer text in the exam depends on.",
+      "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Understand",
       "icfes_type": "Reading Comprehension",
-      "expected_success": 0.75,
+      "expected_success": 0.78,
       "bundle_id": "CO-ING-6-2026-W39-final-review-1-001-MASTERY-bundle",
       "periodo": 39,
       "protocol_version": "5.2",
@@ -147,42 +147,42 @@
     },
     {
       "id": "CO-ING-6-2026-W39-final-review-1-004-v1",
-      "statement": "Complete the sentence about final-review-1.",
-      "context": "Scenario about final-review-1 in a Colombian school or city context.",
+      "statement": "Which sentence reports an action that is happening at this moment?",
+      "context": "Using the present continuous at the right moment.",
       "options": [
         {
           "letter": "A",
-          "text": "Phrase A (Correct)",
-          "is_correct": true,
-          "feedback": "Correct! Well done."
+          "text": "The students take a test every day.",
+          "is_correct": false,
+          "feedback": "This describes a repeated routine rather than an action happening at this particular moment."
         },
         {
           "letter": "B",
-          "text": "Phrase B",
-          "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "text": "The students are taking a test right now.",
+          "is_correct": true,
+          "feedback": "The present continuous with are taking reports an activity under way, and right now confirms the timing."
         },
         {
           "letter": "C",
-          "text": "Phrase D",
+          "text": "The students took a test yesterday.",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "The past simple places the test before now, so it does not report the current moment."
         },
         {
           "letter": "D",
-          "text": "Phrase C",
+          "text": "The students are take a test right now.",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "After the auxiliary are the -ing form is required, so the verb should be taking rather than take."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "This question evaluates the student's ability to understand the topic of Final Comprehensive Review 1 at an A2 level. It focuses on Colombian contexts and standard A2 grammar.\n\n---",
-      "difficulty": "6",
+      "correct_answer": "B",
+      "explanation": "The correct answer is \"The students are taking a test right now\". Choosing between the present tenses is a judgement about time rather than a rule to recite, and the time expression is the evidence a student should be using. The distractor that is a perfectly correct sentence about a different time is the most useful of the four, because it shows both forms working and the time expression choosing between them.",
+      "difficulty": "4",
       "images": [],
       "tags": [],
-      "bloom": "Understand",
-      "icfes_type": "Reading Comprehension",
-      "expected_success": 0.75,
+      "bloom": "Apply",
+      "icfes_type": "Grammatical Knowledge",
+      "expected_success": 0.76,
       "bundle_id": "CO-ING-6-2026-W39-final-review-1-001-MASTERY-bundle",
       "periodo": 39,
       "protocol_version": "5.2",
@@ -193,42 +193,42 @@
     },
     {
       "id": "CO-ING-6-2026-W39-final-review-1-005-v1",
-      "statement": "What is the best way to express final-review-1?",
-      "context": "Scenario about final-review-1 in a Colombian school or city context.",
+      "statement": "Which sentence correctly says that there are three books on the shelf?",
+      "context": "Using there is to describe what a room contains.",
       "options": [
         {
           "letter": "A",
-          "text": "Other way",
-          "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "text": "There are three books on the shelf.",
+          "is_correct": true,
+          "feedback": "The plural subject three books takes the plural verb are in the existential construction."
         },
         {
           "letter": "B",
-          "text": "That way",
+          "text": "There is three books on the shelf.",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "The verb is singular while the subject is plural, so the two do not agree with each other."
         },
         {
           "letter": "C",
-          "text": "Incorrect way",
+          "text": "There are three book on the shelf.",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "After the number three the noun must be plural, so the singular book is not the form this needs."
         },
         {
           "letter": "D",
-          "text": "This way (Correct)",
-          "is_correct": true,
-          "feedback": "Correct! Well done."
+          "text": "It is three books on the shelf.",
+          "is_correct": false,
+          "feedback": "Saying it names an existing thing rather than what a place contains, which is what there is expresses."
         }
       ],
-      "correct_answer": "D",
-      "explanation": "This question evaluates the student's ability to apply the topic of Final Comprehensive Review 1 at an A2 level. It focuses on Colombian contexts and standard A2 grammar.\n\n---",
-      "difficulty": "6",
+      "correct_answer": "A",
+      "explanation": "The correct answer is \"There are three books on the shelf\". The existential there with the verb to be runs through the whole year's material about rooms, furniture and quantities, and it is worth consolidating in its plural form where the agreement is most often wrong. Each distractor breaks a different part of the same structure, so ruling them out teaches the construction as a whole rather than as a phrase.",
+      "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Apply",
-      "icfes_type": "Reading Comprehension",
-      "expected_success": 0.75,
+      "icfes_type": "Grammatical Knowledge",
+      "expected_success": 0.74,
       "bundle_id": "CO-ING-6-2026-W39-final-review-1-001-MASTERY-bundle",
       "periodo": 39,
       "protocol_version": "5.2",
@@ -239,42 +239,42 @@
     },
     {
       "id": "CO-ING-6-2026-W39-final-review-1-006-v1",
-      "statement": "Find the error in this final-review-1 sentence.",
-      "context": "Scenario about final-review-1 in a Colombian school or city context.",
+      "statement": "Which sentence correctly uses the present simple with a third person singular subject?",
+      "context": "Choosing between a countable and an uncountable noun in a shopping sentence.",
       "options": [
         {
           "letter": "A",
-          "text": "Different error",
+          "text": "I need many apple and much bread.",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "Many goes with countable plurals and much with mass nouns, so the two are the other way round here."
         },
         {
           "letter": "B",
-          "text": "No error",
+          "text": "I need two bread and some apples.",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "The two nouns have the opposite requirements, since bread cannot take a number and apples can."
         },
         {
           "letter": "C",
-          "text": "Wrong error",
+          "text": "I need two breads and some apple.",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "Bread has no plural in English and apples should be plural after some in this usage, so both nouns are wrong here."
         },
         {
           "letter": "D",
-          "text": "The error is here (Correct)",
+          "text": "I need two apples and some bread.",
           "is_correct": true,
-          "feedback": "Correct! Well done."
+          "feedback": "Apples is countable and takes a number, while bread is a mass noun and takes some."
         }
       ],
       "correct_answer": "D",
-      "explanation": "This question evaluates the student's ability to apply the topic of Final Comprehensive Review 1 at an A2 level. It focuses on Colombian contexts and standard A2 grammar.\n\n---",
-      "difficulty": "8",
+      "explanation": "The correct answer is \"I need two apples and some bread\". The countable and uncountable rule applies to every noun a student buys or eats, and pairing one of each in a single sentence is the most efficient way to practise the contrast. A sentence that has to be right about two different noun types at once is exactly the demand the final review is preparing the student for.",
+      "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Apply",
-      "icfes_type": "Reading Comprehension",
-      "expected_success": 0.75,
+      "icfes_type": "Lexical Knowledge",
+      "expected_success": 0.72,
       "bundle_id": "CO-ING-6-2026-W39-final-review-1-001-MASTERY-bundle",
       "periodo": 39,
       "protocol_version": "5.2",
@@ -285,42 +285,42 @@
     },
     {
       "id": "CO-ING-6-2026-W39-final-review-1-007-v1",
-      "statement": "Match the term with the definition of final-review-1.",
-      "context": "Scenario about final-review-1 in a Colombian school or city context.",
+      "statement": "A classmate asks: \"What do you do after school?\" Which answer is most useful?",
+      "context": "Producing a coherent short answer in a real exchange.",
       "options": [
         {
           "letter": "A",
-          "text": "Non-matching",
+          "text": "I go home.",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "This answers where rather than what, and it names no activity that would be done there."
         },
         {
           "letter": "B",
-          "text": "Matching term (Correct)",
+          "text": "I usually play football and then I do my homework.",
           "is_correct": true,
-          "feedback": "Correct! Well done."
+          "feedback": "This names two activities, one social and one academic, and the adverb usually marks it as a routine."
         },
         {
           "letter": "C",
-          "text": "Irrelevant",
+          "text": "After school I am tired.",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "This describes a state rather than an activity, and it does not say what the speaker does."
         },
         {
           "letter": "D",
-          "text": "Opposite",
+          "text": "Sometimes I do something.",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "The word something names no activity at all, so the listener learns nothing about the routine."
         }
       ],
       "correct_answer": "B",
-      "explanation": "This question evaluates the student's ability to apply the topic of Final Comprehensive Review 1 at an A2 level. It focuses on Colombian contexts and standard A2 grammar.\n\n---",
-      "difficulty": "8",
+      "explanation": "The correct answer is \"I usually play football and then I do my homework\". A useful answer to what do you do needs actual activities, and the sequence of then is what makes it sound like a real description of an evening. The distractors each fail by answering a different question, by being vague or by describing a state, so choosing correctly means attending to exactly what was asked.",
+      "difficulty": "5",
       "images": [],
       "tags": [],
       "bloom": "Apply",
-      "icfes_type": "Reading Comprehension",
-      "expected_success": 0.75,
+      "icfes_type": "Pragmatic Competence",
+      "expected_success": 0.7,
       "bundle_id": "CO-ING-6-2026-W39-final-review-1-001-MASTERY-bundle",
       "periodo": 39,
       "protocol_version": "5.2",
@@ -331,42 +331,42 @@
     },
     {
       "id": "CO-ING-6-2026-W39-final-review-1-008-v1",
-      "statement": "Choose the synonym for a word related to final-review-1.",
-      "context": "Scenario about final-review-1 in a Colombian school or city context.",
+      "statement": "Read: \"My uncle lives in Pereira. He visits us every year and he always brings coffee.\" What does the text state?",
+      "context": "Reading a text and separating what it states from what it does not.",
       "options": [
         {
           "letter": "A",
-          "text": "Synonym (Correct)",
+          "text": "The uncle brings coffee when he visits.",
           "is_correct": true,
-          "feedback": "Correct! Well done."
+          "feedback": "The text says he visits every year and always brings coffee, which links the two facts as stated."
         },
         {
           "letter": "B",
-          "text": "Unrelated",
+          "text": "The uncle lives in Medellín.",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "The text names Pereira as the town, and Medellín appears nowhere in it."
         },
         {
           "letter": "C",
-          "text": "Homonym",
+          "text": "The uncle lives with the speaker.",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "The text says he visits, which means he does not live there, so this contradicts the text."
         },
         {
           "letter": "D",
-          "text": "Antonym",
+          "text": "The uncle never brings anything.",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "The word always states the opposite of never, so this directly contradicts the text."
         }
       ],
       "correct_answer": "A",
-      "explanation": "This question evaluates the student's ability to analyze the topic of Final Comprehensive Review 1 at an A2 level. It focuses on Colombian contexts and standard A2 grammar.\n\n---",
-      "difficulty": "8",
+      "explanation": "The correct answer is \"The uncle brings coffee when he visits\". One distractor invents a place, one reverses the meaning of visits and one negates an always, so each fails in a different way and the student has to check rather than pattern-match. Separating what a text says from what it merely permits is the discipline the comprehension section rewards most consistently.",
+      "difficulty": "5",
       "images": [],
       "tags": [],
       "bloom": "Analyze",
       "icfes_type": "Reading Comprehension",
-      "expected_success": 0.75,
+      "expected_success": 0.68,
       "bundle_id": "CO-ING-6-2026-W39-final-review-1-001-MASTERY-bundle",
       "periodo": 39,
       "protocol_version": "5.2",
@@ -377,42 +377,42 @@
     },
     {
       "id": "CO-ING-6-2026-W39-final-review-1-009-v1",
-      "statement": "Which of these belongs to final-review-1?",
-      "context": "Scenario about final-review-1 in a Colombian school or city context.",
+      "statement": "A student writes: \"Yesterday I go to the cinema with my cousins.\" What is the problem?",
+      "context": "Finding the single error in a longer sentence.",
       "options": [
         {
           "letter": "A",
-          "text": "Not this one",
+          "text": "The preposition with is wrong before a family word.",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "With is the correct preposition for naming the people someone does something with."
         },
         {
           "letter": "B",
-          "text": "Neither",
+          "text": "The plural cousins is incorrect.",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "Cousins is correctly plural because the student is going with more than one cousin."
         },
         {
           "letter": "C",
-          "text": "Both",
+          "text": "Cinema needs an article in English.",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "Cinema is used without an article in this general reference, so nothing is missing there."
         },
         {
           "letter": "D",
-          "text": "This one (Correct)",
+          "text": "The verb is in the present simple for a past event.",
           "is_correct": true,
-          "feedback": "Correct! Well done."
+          "feedback": "Yesterday places the event in the past, so the verb has to be went rather than go."
         }
       ],
       "correct_answer": "D",
-      "explanation": "This question evaluates the student's ability to analyze the topic of Final Comprehensive Review 1 at an A2 level. It focuses on Colombian contexts and standard A2 grammar.\n\n---",
-      "difficulty": "10",
+      "explanation": "The correct answer is \"The verb is in the present simple for a past event\". The sentence has one fault and the three distractors each name something that is already correct, which is the pattern a student needs to recognise before a final exam. Isolating a single error in a sentence that is otherwise sound is the last and most useful habit this review can build.",
+      "difficulty": "5",
       "images": [],
       "tags": [],
       "bloom": "Analyze",
-      "icfes_type": "Reading Comprehension",
-      "expected_success": 0.75,
+      "icfes_type": "Grammatical Knowledge",
+      "expected_success": 0.65,
       "bundle_id": "CO-ING-6-2026-W39-final-review-1-001-MASTERY-bundle",
       "periodo": 39,
       "protocol_version": "5.2",
@@ -423,42 +423,42 @@
     },
     {
       "id": "CO-ING-6-2026-W39-final-review-1-010-v1",
-      "statement": "Predict the next word in the final-review-1 context.",
-      "context": "Scenario about final-review-1 in a Colombian school or city context.",
+      "statement": "You must introduce yourself and your hobbies in a class presentation. Which opening is best?",
+      "context": "Deciding which paragraph is the best introduction to a school presentation.",
       "options": [
         {
           "letter": "A",
-          "text": "Maybe",
+          "text": "Things that people like are very interesting to me.",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "This is a general reflection rather than an introduction, and it names no hobby of the speaker."
         },
         {
           "letter": "B",
-          "text": "Correct prediction",
-          "is_correct": true,
-          "feedback": "Correct! Well done."
+          "text": "Everyone here is eleven years old and we all like things.",
+          "is_correct": false,
+          "feedback": "This speaks about everybody rather than about the speaker, so it introduces nobody in particular."
         },
         {
           "letter": "C",
-          "text": "Wrong prediction",
-          "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "text": "My name is Julián and I am eleven years old. In my free time I play chess and I also like drawing.",
+          "is_correct": true,
+          "feedback": "This gives the basic personal details and then the hobbies, so the class knows who he is and what he does."
         },
         {
           "letter": "D",
-          "text": "Impossible",
+          "text": "My name is Julián but I do not like to talk about myself in public.",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "This refuses the task instead of completing it, and the class learns nothing about his hobbies."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "This question evaluates the student's ability to evaluate the topic of Final Comprehensive Review 1 at an A2 level. It focuses on Colombian contexts and standard A2 grammar.\n\n---",
-      "difficulty": "10",
+      "correct_answer": "C",
+      "explanation": "The correct answer is the one that gives the personal details and then the hobbies. An introduction has a known structure, name, age and interests, and judging whether a paragraph actually performs that structure is the evaluative task. The three distractors each substitute a general statement or a refusal for the personal information the task requires, which is the mistake students most often make under time pressure.\n\n---",
+      "difficulty": "5",
       "images": [],
       "tags": [],
       "bloom": "Evaluate",
-      "icfes_type": "Reading Comprehension",
-      "expected_success": 0.75,
+      "icfes_type": "Pragmatic Competence",
+      "expected_success": 0.62,
       "bundle_id": "CO-ING-6-2026-W39-final-review-1-001-MASTERY-bundle",
       "periodo": 39,
       "protocol_version": "5.2",

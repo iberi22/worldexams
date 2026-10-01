@@ -9,42 +9,42 @@
   "questions": [
     {
       "id": "CO-ING-6-2026-W30-p3-final-review-001-v1",
-      "statement": "This is a review question about p3-final-review.",
-      "context": "Scenario about p3-final-review in a Colombian school or city context.",
+      "statement": "Complete the sentence: \"My brother ________ a student at the National School.\"",
+      "context": "Reviewing the verb to be with the third person singular.",
       "options": [
         {
           "letter": "A",
-          "text": "Option C",
+          "text": "are",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "Are goes with you, we and they, and it does not agree with a singular third person subject."
         },
         {
           "letter": "B",
-          "text": "Option D",
-          "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "text": "is",
+          "is_correct": true,
+          "feedback": "The subject my brother is third person singular, and the present simple of to be in that form is is."
         },
         {
           "letter": "C",
-          "text": "Option A (Correct)",
-          "is_correct": true,
-          "feedback": "Correct! Well done."
+          "text": "am",
+          "is_correct": false,
+          "feedback": "Am goes only with the subject I, and the subject of this sentence is my brother."
         },
         {
           "letter": "D",
-          "text": "Option B",
+          "text": "be",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "The bare infinitive be has no subject attached to it, so the sentence would have no finite verb."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "This question evaluates the student's ability to remember the topic of Period 3 Final Review at an A2 level. It focuses on Colombian contexts and standard A2 grammar.\n\n---",
-      "difficulty": "4",
+      "correct_answer": "B",
+      "explanation": "The correct answer is \"is\". The agreement of the verb to be is the foundation the whole third period builds on, from routines through frequency to hobbies, and it is the item a student is most likely to have already internalised. Including it in the review is a deliberate anchor: the harder items that follow assume the student can place a form of to be without thinking.",
+      "difficulty": "3",
       "images": [],
       "tags": [],
       "bloom": "Remember",
-      "icfes_type": "Reading Comprehension",
-      "expected_success": 0.75,
+      "icfes_type": "Grammatical Knowledge",
+      "expected_success": 0.82,
       "bundle_id": "CO-ING-6-2026-W30-p3-final-review-001-MASTERY-bundle",
       "periodo": 30,
       "protocol_version": "5.2",
@@ -55,42 +55,42 @@
     },
     {
       "id": "CO-ING-6-2026-W30-p3-final-review-002-v1",
-      "statement": "Select the correct A2 level use for p3-final-review.",
-      "context": "Scenario about p3-final-review in a Colombian school or city context.",
+      "statement": "What time is it when the sun comes up?",
+      "context": "Reviewing time expressions used in a daily routine.",
       "options": [
         {
-          "letter": "B",
-          "text": "Structure 2",
+          "letter": "A",
+          "text": "in the night",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "Night is the period after sunset, which is the opposite of the time when the sun comes up."
         },
         {
-          "letter": "A",
-          "text": "Structure 1 (Correct)",
-          "is_correct": true,
-          "feedback": "Correct! Well done."
+          "letter": "B",
+          "text": "at morning",
+          "is_correct": false,
+          "feedback": "At does not combine with the word morning in English, which requires the preposition in."
         },
         {
           "letter": "C",
-          "text": "Structure 3",
+          "text": "on morning",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "On is used with days and dates, and it does not take morning without the word every."
         },
         {
           "letter": "D",
-          "text": "Structure 4",
-          "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "text": "in the morning",
+          "is_correct": true,
+          "feedback": "The sun comes up in the morning, and the preposition in is the one English uses for that part of the day."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "This question evaluates the student's ability to remember the topic of Period 3 Final Review at an A2 level. It focuses on Colombian contexts and standard A2 grammar.\n\n---",
-      "difficulty": "4",
+      "correct_answer": "D",
+      "explanation": "The correct answer is \"in the morning\". Time expressions are the vocabulary the third period adds through routines and telling the time, and the preposition in front of the parts of the day is the single most reliable rule to hold on to. Everything else in this section, the clock times, the daily verbs and the free-time activities, is built on the same framework.",
+      "difficulty": "3",
       "images": [],
       "tags": [],
       "bloom": "Remember",
-      "icfes_type": "Reading Comprehension",
-      "expected_success": 0.75,
+      "icfes_type": "Lexical Knowledge",
+      "expected_success": 0.8,
       "bundle_id": "CO-ING-6-2026-W30-p3-final-review-001-MASTERY-bundle",
       "periodo": 30,
       "protocol_version": "5.2",
@@ -101,42 +101,42 @@
     },
     {
       "id": "CO-ING-6-2026-W30-p3-final-review-003-v1",
-      "statement": "Identify the appropriate vocabulary for p3-final-review.",
-      "context": "Scenario about p3-final-review in a Colombian school or city context.",
+      "statement": "Read: \"Every day Camila gets up at six, goes to school at seven and does her homework at night.\" When does she do her homework?",
+      "context": "Reading a short text about a student's daily routine.",
       "options": [
         {
           "letter": "A",
-          "text": "Word 2",
-          "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
-        },
-        {
-          "letter": "C",
-          "text": "Word 1 (Correct)",
+          "text": "At night.",
           "is_correct": true,
-          "feedback": "Correct! Well done."
+          "feedback": "The text says she does her homework at night, which is the last activity in the sequence given."
         },
         {
           "letter": "B",
-          "text": "Word 4",
+          "text": "At seven in the morning.",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "Seven is when she goes to school, which is a different part of the routine."
+        },
+        {
+          "letter": "C",
+          "text": "At six in the morning.",
+          "is_correct": false,
+          "feedback": "Six is when she gets up, not when she does the homework."
         },
         {
           "letter": "D",
-          "text": "Word 3",
+          "text": "At school.",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "The text places the homework at night rather than at school, so this is not supported."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "This question evaluates the student's ability to understand the topic of Period 3 Final Review at an A2 level. It focuses on Colombian contexts and standard A2 grammar.\n\n---",
-      "difficulty": "6",
+      "correct_answer": "A",
+      "explanation": "The correct answer is \"At night\". A routine text presents several activities in order, and finding the one that matches the question means holding the whole sequence in mind. Students who skim for the first time they recognise will pick six or seven, so the item trains the habit of reading the whole text before answering, which the exam rewards heavily.",
+      "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Understand",
       "icfes_type": "Reading Comprehension",
-      "expected_success": 0.75,
+      "expected_success": 0.78,
       "bundle_id": "CO-ING-6-2026-W30-p3-final-review-001-MASTERY-bundle",
       "periodo": 30,
       "protocol_version": "5.2",
@@ -147,42 +147,42 @@
     },
     {
       "id": "CO-ING-6-2026-W30-p3-final-review-004-v1",
-      "statement": "Complete the sentence about p3-final-review.",
-      "context": "Scenario about p3-final-review in a Colombian school or city context.",
+      "statement": "Which sentence correctly says that a student always has breakfast?",
+      "context": "Using an adverb of frequency with a daily routine verb.",
       "options": [
         {
           "letter": "A",
-          "text": "Phrase C",
+          "text": "She has breakfast always at seven.",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
-        },
-        {
-          "letter": "D",
-          "text": "Phrase A (Correct)",
-          "is_correct": true,
-          "feedback": "Correct! Well done."
+          "feedback": "Placing the adverb after the noun breaks the pattern that puts it directly before the verb."
         },
         {
           "letter": "B",
-          "text": "Phrase B",
+          "text": "She has always breakfast at seven.",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "The adverb belongs before the main verb, and placing it after it breaks the required word order."
         },
         {
           "letter": "C",
-          "text": "Phrase D",
+          "text": "She always has breakfast at seven.",
+          "is_correct": true,
+          "feedback": "With the main verb has the frequency adverb goes before the verb, which is where always sits in this sentence."
+        },
+        {
+          "letter": "D",
+          "text": "Always she has breakfast at seven.",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "An adverb of frequency does not open the sentence in front of the subject in this pattern."
         }
       ],
-      "correct_answer": "D",
-      "explanation": "This question evaluates the student's ability to understand the topic of Period 3 Final Review at an A2 level. It focuses on Colombian contexts and standard A2 grammar.\n\n---",
-      "difficulty": "6",
+      "correct_answer": "C",
+      "explanation": "The correct answer is \"She always has breakfast at seven\". Combining the frequency adverb with a routine verb and a time expression is the compound demand the third period sets, and each of those three elements has to be in the right place at once. Practising them together now is what makes the individual rules usable in a full sentence rather than as isolated facts.",
+      "difficulty": "4",
       "images": [],
       "tags": [],
-      "bloom": "Understand",
-      "icfes_type": "Reading Comprehension",
-      "expected_success": 0.75,
+      "bloom": "Apply",
+      "icfes_type": "Grammatical Knowledge",
+      "expected_success": 0.76,
       "bundle_id": "CO-ING-6-2026-W30-p3-final-review-001-MASTERY-bundle",
       "periodo": 30,
       "protocol_version": "5.2",
@@ -193,42 +193,42 @@
     },
     {
       "id": "CO-ING-6-2026-W30-p3-final-review-005-v1",
-      "statement": "What is the best way to express p3-final-review?",
-      "context": "Scenario about p3-final-review in a Colombian school or city context.",
+      "statement": "Which of these is a free-time activity?",
+      "context": "Choosing the activity that belongs to a student's free time.",
       "options": [
         {
-          "letter": "B",
-          "text": "Incorrect way",
-          "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "letter": "A",
+          "text": "playing video games",
+          "is_correct": true,
+          "feedback": "Playing video games is a chosen leisure activity, which is what a free-time activity is."
         },
         {
-          "letter": "A",
-          "text": "This way (Correct)",
-          "is_correct": true,
-          "feedback": "Correct! Well done."
+          "letter": "B",
+          "text": "going to class",
+          "is_correct": false,
+          "feedback": "Attending class is part of the school timetable rather than something chosen as a pastime."
         },
         {
           "letter": "C",
-          "text": "Other way",
+          "text": "doing the dishes",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "The dishes are a household chore with an obligation attached, not a chosen leisure activity."
         },
         {
           "letter": "D",
-          "text": "That way",
+          "text": "going to bed early",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "Sleeping is part of the daily routine rather than a hobby, since nobody picks it as a pastime."
         }
       ],
       "correct_answer": "A",
-      "explanation": "This question evaluates the student's ability to apply the topic of Period 3 Final Review at an A2 level. It focuses on Colombian contexts and standard A2 grammar.\n\n---",
-      "difficulty": "6",
+      "explanation": "The correct answer is \"playing video games\". A free-time activity is something a person chooses to do because they enjoy it, and the three distractors are all things a student has to do or must do to keep the day running. Being able to separate chosen from obligatory is what lets a student answer the what do you like doing questions that appear in reading and in speaking tasks.",
+      "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Apply",
-      "icfes_type": "Reading Comprehension",
-      "expected_success": 0.75,
+      "icfes_type": "Lexical Knowledge",
+      "expected_success": 0.74,
       "bundle_id": "CO-ING-6-2026-W30-p3-final-review-001-MASTERY-bundle",
       "periodo": 30,
       "protocol_version": "5.2",
@@ -239,42 +239,42 @@
     },
     {
       "id": "CO-ING-6-2026-W30-p3-final-review-006-v1",
-      "statement": "Find the error in this p3-final-review sentence.",
-      "context": "Scenario about p3-final-review in a Colombian school or city context.",
+      "statement": "Which sentence correctly asks what time it is?",
+      "context": "Saying what time it is with the verb to be.",
       "options": [
         {
           "letter": "A",
-          "text": "Wrong error",
+          "text": "Which time is it?",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
-        },
-        {
-          "letter": "D",
-          "text": "The error is here (Correct)",
-          "is_correct": true,
-          "feedback": "Correct! Well done."
+          "feedback": "Which asks for a selection from a stated set, and the time of day has not been presented as a list here."
         },
         {
           "letter": "B",
-          "text": "No error",
+          "text": "What hour is it?",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "Hour names the unit rather than the question, and English asks what time rather than what hour."
         },
         {
           "letter": "C",
-          "text": "Different error",
+          "text": "How time is it?",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "How asks about a manner or a measurement such as how long, and it is not used for the hour of the day."
+        },
+        {
+          "letter": "D",
+          "text": "What time is it?",
+          "is_correct": true,
+          "feedback": "What time is the standard English question for asking about the hour and the minutes on a clock."
         }
       ],
       "correct_answer": "D",
-      "explanation": "This question evaluates the student's ability to apply the topic of Period 3 Final Review at an A2 level. It focuses on Colombian contexts and standard A2 grammar.\n\n---",
-      "difficulty": "8",
+      "explanation": "The correct answer is \"What time is it?\". The fixed question for the time of day is worth learning as a whole phrase rather than assembled from parts, because students who build it word by word reliably produce what hour or how time. It is a short item, but the phrase is used constantly in the classroom and it is the doorway to the rest of the time material.",
+      "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Apply",
-      "icfes_type": "Reading Comprehension",
-      "expected_success": 0.75,
+      "icfes_type": "Grammatical Knowledge",
+      "expected_success": 0.72,
       "bundle_id": "CO-ING-6-2026-W30-p3-final-review-001-MASTERY-bundle",
       "periodo": 30,
       "protocol_version": "5.2",
@@ -285,42 +285,42 @@
     },
     {
       "id": "CO-ING-6-2026-W30-p3-final-review-007-v1",
-      "statement": "Match the term with the definition of p3-final-review.",
-      "context": "Scenario about p3-final-review in a Colombian school or city context.",
+      "statement": "You want to tell a new student about your classmate. Which description is most useful?",
+      "context": "Describing a classmate's routine to someone who has not met her.",
       "options": [
         {
           "letter": "A",
-          "text": "Irrelevant",
+          "text": "She is very nice and friendly.",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "This is an opinion about her character and says nothing about her daily life."
         },
         {
           "letter": "B",
-          "text": "Opposite",
-          "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "text": "She gets up at six, has breakfast with her family and takes the bus to school.",
+          "is_correct": true,
+          "feedback": "This gives three specific times and activities, so the listener can picture an actual day for her."
         },
         {
           "letter": "C",
-          "text": "Matching term (Correct)",
-          "is_correct": true,
-          "feedback": "Correct! Well done."
+          "text": "She goes to a school.",
+          "is_correct": false,
+          "feedback": "This is the most general possible statement and gives no time, activity or detail at all."
         },
         {
           "letter": "D",
-          "text": "Non-matching",
+          "text": "She has a routine like everybody.",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "Saying she is like everybody conveys no information, since the listener has nobody else to compare her with."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "This question evaluates the student's ability to apply the topic of Period 3 Final Review at an A2 level. It focuses on Colombian contexts and standard A2 grammar.\n\n---",
-      "difficulty": "8",
+      "correct_answer": "B",
+      "explanation": "The correct answer is the one with three specific times and activities. A useful description of a routine has to give the listener information they could repeat, and the three distractors each substitute a general statement for real detail. Choosing specifics over generalities is the same judgement the exam applies to written descriptions, so it is worth establishing here.",
+      "difficulty": "5",
       "images": [],
       "tags": [],
       "bloom": "Apply",
-      "icfes_type": "Reading Comprehension",
-      "expected_success": 0.75,
+      "icfes_type": "Pragmatic Competence",
+      "expected_success": 0.7,
       "bundle_id": "CO-ING-6-2026-W30-p3-final-review-001-MASTERY-bundle",
       "periodo": 30,
       "protocol_version": "5.2",
@@ -331,42 +331,42 @@
     },
     {
       "id": "CO-ING-6-2026-W30-p3-final-review-008-v1",
-      "statement": "Choose the synonym for a word related to p3-final-review.",
-      "context": "Scenario about p3-final-review in a Colombian school or city context.",
+      "statement": "Read: \"A: I walk to school and it takes me 15 minutes. B: I take the bus and it takes me 30 minutes.\" What can you say?",
+      "context": "Comparing the routines of two students from a short text.",
       "options": [
         {
           "letter": "A",
-          "text": "Antonym",
-          "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
-        },
-        {
-          "letter": "C",
-          "text": "Unrelated",
-          "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
-        },
-        {
-          "letter": "D",
-          "text": "Homonym",
-          "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "text": "The bus takes longer than walking.",
+          "is_correct": true,
+          "feedback": "The bus takes 30 minutes against 15 for walking, so the bus journey is the longer of the two."
         },
         {
           "letter": "B",
-          "text": "Synonym (Correct)",
-          "is_correct": true,
-          "feedback": "Correct! Well done."
+          "text": "Walking takes longer than the bus.",
+          "is_correct": false,
+          "feedback": "This reverses the comparison, since walking is 15 minutes and the bus is 30."
+        },
+        {
+          "letter": "C",
+          "text": "They both take 30 minutes.",
+          "is_correct": false,
+          "feedback": "The times are 15 and 30 minutes, so only one of them takes half an hour."
+        },
+        {
+          "letter": "D",
+          "text": "The text does not say how long either takes.",
+          "is_correct": false,
+          "feedback": "Both journeys are given an explicit number of minutes, so the comparison can be made directly."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "This question evaluates the student's ability to analyze the topic of Period 3 Final Review at an A2 level. It focuses on Colombian contexts and standard A2 grammar.\n\n---",
-      "difficulty": "8",
+      "correct_answer": "A",
+      "explanation": "The correct answer is \"The bus takes longer than walking\". Two numbers in one text have to be matched to the right means of transport before they can be compared, and swapping them is the classic error. Reading which figure belongs to which subject is the same care needed everywhere in the exam, and it costs nothing to practise deliberately.",
+      "difficulty": "5",
       "images": [],
       "tags": [],
       "bloom": "Analyze",
       "icfes_type": "Reading Comprehension",
-      "expected_success": 0.75,
+      "expected_success": 0.68,
       "bundle_id": "CO-ING-6-2026-W30-p3-final-review-001-MASTERY-bundle",
       "periodo": 30,
       "protocol_version": "5.2",
@@ -377,42 +377,42 @@
     },
     {
       "id": "CO-ING-6-2026-W30-p3-final-review-009-v1",
-      "statement": "Which of these belongs to p3-final-review?",
-      "context": "Scenario about p3-final-review in a Colombian school or city context.",
+      "statement": "A student writes: \"My sister get up at five every morning.\" What is the problem?",
+      "context": "Finding the error in a sentence about a student's routine.",
       "options": [
         {
           "letter": "A",
-          "text": "Neither",
+          "text": "The preposition before the time is wrong.",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "At five is the standard English way to give a clock time, so the preposition is correct here."
         },
         {
           "letter": "B",
-          "text": "Both",
+          "text": "The adverb every should come after the verb.",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
-        },
-        {
-          "letter": "D",
-          "text": "Not this one",
-          "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "Every morning belongs with the time expression, and its position here is already correct."
         },
         {
           "letter": "C",
-          "text": "This one (Correct)",
+          "text": "The time five is too early to be true.",
+          "is_correct": false,
+          "feedback": "Five in the morning is early but entirely possible, so the time is not what makes the sentence wrong."
+        },
+        {
+          "letter": "D",
+          "text": "The verb is not in the third person singular.",
           "is_correct": true,
-          "feedback": "Correct! Well done."
+          "feedback": "The subject my sister is third person singular, so the present simple verb has to be gets rather than get."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "This question evaluates the student's ability to analyze the topic of Period 3 Final Review at an A2 level. It focuses on Colombian contexts and standard A2 grammar.\n\n---",
-      "difficulty": "10",
+      "correct_answer": "D",
+      "explanation": "The correct answer is \"The verb is not in the third person singular\". The only defect is the missing -s on get, and the three distractors each propose a fault that is not present. The third person -s is the single most frequent error in Grade 6 English, so isolating it in a sentence where everything else is right is the most useful way to make the student notice it in their own writing.",
+      "difficulty": "5",
       "images": [],
       "tags": [],
       "bloom": "Analyze",
-      "icfes_type": "Reading Comprehension",
-      "expected_success": 0.75,
+      "icfes_type": "Grammatical Knowledge",
+      "expected_success": 0.65,
       "bundle_id": "CO-ING-6-2026-W30-p3-final-review-001-MASTERY-bundle",
       "periodo": 30,
       "protocol_version": "5.2",
@@ -423,42 +423,42 @@
     },
     {
       "id": "CO-ING-6-2026-W30-p3-final-review-010-v1",
-      "statement": "Predict the next word in the p3-final-review context.",
-      "context": "Scenario about p3-final-review in a Colombian school or city context.",
+      "statement": "A student plays football on Saturdays and does homework on weekdays. Which plan fits?",
+      "context": "Deciding which of two plans is realistic for a student's free time.",
       "options": [
         {
           "letter": "A",
-          "text": "Wrong prediction",
+          "text": "Do the homework on Saturday, because more time is available.",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "The homework is set for weekdays, so moving it to Saturday conflicts with the plan already described."
         },
         {
           "letter": "B",
-          "text": "Correct prediction",
-          "is_correct": true,
-          "feedback": "Correct! Well done."
+          "text": "Play football every weekday, because the games are on Saturdays.",
+          "is_correct": false,
+          "feedback": "This contradicts itself, since the games are on Saturdays and not on weekdays."
         },
         {
           "letter": "C",
-          "text": "Maybe",
-          "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "text": "Play football on Saturday afternoon, because that is when the games are played.",
+          "is_correct": true,
+          "feedback": "The plan matches the days the student actually has free, so it does not conflict with the weekday homework."
         },
         {
           "letter": "D",
-          "text": "Impossible",
+          "text": "Play football and do the homework at the same time on Saturday.",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "Two activities cannot be done at the same moment, so this plan is not realistic as written."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "This question evaluates the student's ability to evaluate the topic of Period 3 Final Review at an A2 level. It focuses on Colombian contexts and standard A2 grammar.\n\n---",
-      "difficulty": "10",
+      "correct_answer": "C",
+      "explanation": "The correct answer is the one that matches the football games to Saturday. Deciding whether a plan fits the facts a person has already given is exactly the reasoning an exam reading item asks for, and each distractor contradicts a specific piece of the information provided. A student who can check a claim against known facts can check their own plans and answers, which is the transferable skill here.\n\n---",
+      "difficulty": "5",
       "images": [],
       "tags": [],
       "bloom": "Evaluate",
-      "icfes_type": "Reading Comprehension",
-      "expected_success": 0.75,
+      "icfes_type": "Pragmatic Competence",
+      "expected_success": 0.62,
       "bundle_id": "CO-ING-6-2026-W30-p3-final-review-001-MASTERY-bundle",
       "periodo": 30,
       "protocol_version": "5.2",

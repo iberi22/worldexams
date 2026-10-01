@@ -511,25 +511,25 @@
           "letter": "A",
           "text": "has discovered",
           "is_correct": false,
-          "feedback": "Incorrect. Active voice."
+          "feedback": "'Has discovered' is active and would make the orchids the discoverers; nothing in the sentence does that."
         },
         {
           "letter": "D",
           "text": "has been discovered",
           "is_correct": true,
-          "feedback": "Correct. Present perfect passive for a recent discovery."
+          "feedback": "The present perfect passive marks a recent, still-relevant discovery, and 'a new species' is what was discovered."
         },
         {
           "letter": "B",
           "text": "discovered",
           "is_correct": false,
-          "feedback": "Incorrect. Past simple."
+          "feedback": "'Discovered' alone has no auxiliary to form a tense."
         },
         {
           "letter": "C",
           "text": "is discovering",
           "is_correct": false,
-          "feedback": "Incorrect. Active voice."
+          "feedback": "'Is discovering' is active and present continuous, which would need a subject doing the finding."
         }
       ],
       "correct_answer": "D",
@@ -781,25 +781,25 @@
           "letter": "A",
           "text": "Gossip",
           "is_correct": false,
-          "feedback": "Incorrect. Informal talk."
+          "feedback": "Gossip is informal talk about other people, not a formal evaluation procedure."
         },
         {
           "letter": "D",
           "text": "Peer review",
           "is_correct": true,
-          "feedback": "Correct. This is the quality control system in science."
+          "feedback": "Peer review is the evaluation of research by others of comparable expertise, which is exactly the definition given."
         },
         {
           "letter": "B",
           "text": "Censorship",
           "is_correct": false,
-          "feedback": "Incorrect. Restricting information."
+          "feedback": "Censorship means restricting what may be published, the opposite of evaluating the work."
         },
         {
           "letter": "C",
           "text": "Promotion",
           "is_correct": false,
-          "feedback": "Incorrect. Advertising."
+          "feedback": "Promotion means advertising or pushing a product, and nothing is being sold here."
         }
       ],
       "correct_answer": "D",

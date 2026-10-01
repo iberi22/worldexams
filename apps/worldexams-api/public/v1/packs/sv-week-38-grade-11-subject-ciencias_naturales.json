@@ -16,25 +16,25 @@
           "letter": "B",
           "text": "Fotosíntesis",
           "is_correct": true,
-          "feedback": "¡Correcto!"
+          "feedback": "Correcto. La fotosíntesis convierte la energía de la luz solar en energía química almacenada como glucosa."
         },
         {
           "letter": "A",
           "text": "Respiración celular",
           "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "feedback": "La respiración celular libera energía química a partir de la glucosa ya formada, no captura la energía de la luz."
         },
         {
           "letter": "C",
           "text": "Fermentación",
           "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "feedback": "La fermentación produce energía a partir de azúcares sin usar la luz como fuente, así que no corresponde a este proceso."
         },
         {
           "letter": "D",
           "text": "Digestión",
           "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "feedback": "La digestión es la degradación de los alimentos para absorberlos, no la conversión de luz solar en energía química."
         }
       ],
       "correct_answer": "B",
@@ -61,25 +61,25 @@
           "letter": "C",
           "text": "24 N",
           "is_correct": true,
-          "feedback": "¡Correcto!"
+          "feedback": "Correcto. $F = ma = 8 \\times 3 = 24$ N."
         },
         {
           "letter": "A",
           "text": "16 N",
           "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "feedback": "16 N sería $8 \\times 2$, pero la aceleración del enunciado es de 3 m/s²."
         },
         {
           "letter": "B",
           "text": "27 N",
           "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "feedback": "27 N corresponde a $9 \\times 3$, y la masa del objeto es 8 kg y no 9."
         },
         {
           "letter": "D",
           "text": "8 N",
           "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "feedback": "8 N es solo la masa; al multiplicarla por 3 m/s² se obtienen 24 N."
         }
       ],
       "correct_answer": "C",
@@ -106,25 +106,25 @@
           "letter": "C",
           "text": "La piel",
           "is_correct": true,
-          "feedback": "¡Correcto!"
+          "feedback": "Correcto. La piel es el órgano más grande del cuerpo humano: en un adulto ronda los 2 m² y aporta cerca del 15 % del peso total."
         },
         {
           "letter": "A",
           "text": "El hígado",
           "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "feedback": "El hígado es la glándula más grande del cuerpo, pero es un órgano interno que pesa cerca de 1,5 kg, muy por debajo de la piel."
         },
         {
           "letter": "B",
           "text": "El corazón",
           "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "feedback": "El corazón es una bomba muscular pequeña que late en la cavidad torácica, y no llega al 15 % del peso corporal."
         },
         {
           "letter": "D",
           "text": "Los pulmones",
           "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "feedback": "Los pulmones son órganos pares que ocupan la cavidad torácica: su superficie es amplia, pero su masa no supera la de la piel."
         }
       ],
       "correct_answer": "C",
@@ -151,25 +151,25 @@
           "letter": "C",
           "text": "La exposición a la luz",
           "is_correct": true,
-          "feedback": "¡Correcto!"
+          "feedback": "Correcto. La variable independiente es la que el investigador modifica a propósito, y aquí es la cantidad de luz que reciben las plantas."
         },
         {
           "letter": "A",
           "text": "El crecimiento de las plantas",
           "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "feedback": "El crecimiento es la variable dependiente: es la respuesta que se mide cuando cambia la luz."
         },
         {
           "letter": "B",
           "text": "La temperatura ambiente",
           "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "feedback": "La temperatura no se manipuló en el experimento descrito, así que no puede ser la variable independiente."
         },
         {
           "letter": "D",
           "text": "El tipo de planta",
           "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "feedback": "El tipo de planta se mantuvo constante en el experimento, de modo que no es la variable que se hizo variar."
         }
       ],
       "correct_answer": "C",
@@ -196,25 +196,25 @@
           "letter": "B",
           "text": "La célula",
           "is_correct": true,
-          "feedback": "¡Correcto!"
+          "feedback": "Correcto. La célula es la unidad estructural y funcional de todos los seres vivos."
         },
         {
           "letter": "A",
           "text": "El átomo",
           "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "feedback": "El átomo es la unidad básica de la materia en química, no de la vida, y ningún ser vivo es un solo átomo."
         },
         {
           "letter": "C",
           "text": "La molécula",
           "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "feedback": "La molécula es una combinación química de átomos: es un nivel anterior al biológico, no la unidad de la vida."
         },
         {
           "letter": "D",
           "text": "El tejido",
           "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "feedback": "El tejido es un conjunto de células con una función común, es decir un nivel superior dentro del organismo."
         }
       ],
       "correct_answer": "B",
@@ -241,25 +241,25 @@
           "letter": "C",
           "text": "Fotosíntesis",
           "is_correct": true,
-          "feedback": "¡Correcto!"
+          "feedback": "Correcto. La fotosíntesis convierte la energía de la luz solar en energía química almacenada como glucosa."
         },
         {
           "letter": "A",
           "text": "Respiración celular",
           "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "feedback": "La respiración celular libera energía química a partir de la glucosa ya formada, no captura la energía de la luz."
         },
         {
           "letter": "B",
           "text": "Fermentación",
           "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "feedback": "La fermentación produce energía a partir de azúcares sin usar la luz como fuente, así que no corresponde a este proceso."
         },
         {
           "letter": "D",
           "text": "Digestión",
           "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "feedback": "La digestión es la degradación de los alimentos para absorberlos, no la conversión de luz solar en energía química."
         }
       ],
       "correct_answer": "C",
@@ -286,25 +286,25 @@
           "letter": "B",
           "text": "15 N",
           "is_correct": true,
-          "feedback": "¡Correcto!"
+          "feedback": "Correcto. $F = ma = 3 \\times 5 = 15$ N."
         },
         {
           "letter": "A",
           "text": "12 N",
           "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "feedback": "12 N sería $3 \\times 4$, pero la aceleración indicada es de 5 m/s²."
         },
         {
           "letter": "C",
           "text": "20 N",
           "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "feedback": "20 N corresponde a $4 \\times 5$, y la masa del objeto es 3 kg y no 4."
         },
         {
           "letter": "D",
           "text": "3 N",
           "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "feedback": "3 N es la masa, no el producto con la aceleración de 5 m/s²."
         }
       ],
       "correct_answer": "B",
@@ -331,25 +331,25 @@
           "letter": "C",
           "text": "La piel",
           "is_correct": true,
-          "feedback": "¡Correcto!"
+          "feedback": "Correcto. La piel es el órgano más grande del cuerpo humano: en un adulto ronda los 2 m² y aporta cerca del 15 % del peso total."
         },
         {
           "letter": "A",
           "text": "El hígado",
           "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "feedback": "El hígado es la glándula más grande del cuerpo, pero es un órgano interno que pesa cerca de 1,5 kg, muy por debajo de la piel."
         },
         {
           "letter": "B",
           "text": "El corazón",
           "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "feedback": "El corazón es una bomba muscular pequeña que late en la cavidad torácica, y no llega al 15 % del peso corporal."
         },
         {
           "letter": "D",
           "text": "Los pulmones",
           "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "feedback": "Los pulmones son órganos pares que ocupan la cavidad torácica: su superficie es amplia, pero su masa no supera la de la piel."
         }
       ],
       "correct_answer": "C",
@@ -376,25 +376,25 @@
           "letter": "C",
           "text": "La exposición a la luz",
           "is_correct": true,
-          "feedback": "¡Correcto!"
+          "feedback": "Correcto. La variable independiente es la que el investigador modifica a propósito, y aquí es la cantidad de luz que reciben las plantas."
         },
         {
           "letter": "A",
           "text": "El crecimiento de las plantas",
           "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "feedback": "El crecimiento es la variable dependiente: es la respuesta que se mide cuando cambia la luz."
         },
         {
           "letter": "B",
           "text": "La temperatura ambiente",
           "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "feedback": "La temperatura no se manipuló en el experimento descrito, así que no puede ser la variable independiente."
         },
         {
           "letter": "D",
           "text": "El tipo de planta",
           "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "feedback": "El tipo de planta se mantuvo constante en el experimento, de modo que no es la variable que se hizo variar."
         }
       ],
       "correct_answer": "C",
@@ -421,25 +421,25 @@
           "letter": "A",
           "text": "La célula",
           "is_correct": true,
-          "feedback": "¡Correcto!"
+          "feedback": "Correcto. La célula es la unidad estructural y funcional de todos los seres vivos."
         },
         {
           "letter": "B",
           "text": "El átomo",
           "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "feedback": "El átomo es la unidad básica de la materia en química, no de la vida, y ningún ser vivo es un solo átomo."
         },
         {
           "letter": "C",
           "text": "La molécula",
           "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "feedback": "La molécula es una combinación química de átomos: es un nivel anterior al biológico, no la unidad de la vida."
         },
         {
           "letter": "D",
           "text": "El tejido",
           "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "feedback": "El tejido es un conjunto de células con una función común, es decir un nivel superior dentro del organismo."
         }
       ],
       "correct_answer": "A",
@@ -466,25 +466,25 @@
           "letter": "A",
           "text": "Fotosíntesis",
           "is_correct": true,
-          "feedback": "¡Correcto!"
+          "feedback": "Correcto. La fotosíntesis convierte la energía de la luz solar en energía química almacenada como glucosa."
         },
         {
           "letter": "B",
           "text": "Respiración celular",
           "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "feedback": "La respiración celular libera energía química a partir de la glucosa ya formada, no captura la energía de la luz."
         },
         {
           "letter": "C",
           "text": "Fermentación",
           "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "feedback": "La fermentación produce energía a partir de azúcares sin usar la luz como fuente, así que no corresponde a este proceso."
         },
         {
           "letter": "D",
           "text": "Digestión",
           "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "feedback": "La digestión es la degradación de los alimentos para absorberlos, no la conversión de luz solar en energía química."
         }
       ],
       "correct_answer": "A",
@@ -511,25 +511,25 @@
           "letter": "C",
           "text": "10 N",
           "is_correct": true,
-          "feedback": "¡Correcto!"
+          "feedback": "Correcto. $F = ma = 2 \\times 5 = 10$ N."
         },
         {
           "letter": "A",
           "text": "8 N",
           "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "feedback": "8 N sale de $2 \\times 4$, pero la aceleración es de 5 m/s² y no de 4."
         },
         {
           "letter": "B",
           "text": "15 N",
           "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "feedback": "15 N sería $2 \\times 7.5$ o $3 \\times 5$, y los datos del enunciado son 2 kg y 5 m/s²."
         },
         {
           "letter": "D",
           "text": "2 N",
           "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "feedback": "2 N es solo la masa, y falta multiplicarla por la aceleración."
         }
       ],
       "correct_answer": "C",
@@ -556,25 +556,25 @@
           "letter": "B",
           "text": "La piel",
           "is_correct": true,
-          "feedback": "¡Correcto!"
+          "feedback": "Correcto. La piel es el órgano más grande del cuerpo humano: en un adulto ronda los 2 m² y aporta cerca del 15 % del peso total."
         },
         {
           "letter": "A",
           "text": "El hígado",
           "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "feedback": "El hígado es la glándula más grande del cuerpo, pero es un órgano interno que pesa cerca de 1,5 kg, muy por debajo de la piel."
         },
         {
           "letter": "C",
           "text": "El corazón",
           "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "feedback": "El corazón es una bomba muscular pequeña que late en la cavidad torácica, y no llega al 15 % del peso corporal."
         },
         {
           "letter": "D",
           "text": "Los pulmones",
           "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "feedback": "Los pulmones son órganos pares que ocupan la cavidad torácica: su superficie es amplia, pero su masa no supera la de la piel."
         }
       ],
       "correct_answer": "B",
@@ -601,25 +601,25 @@
           "letter": "D",
           "text": "La exposición a la luz",
           "is_correct": true,
-          "feedback": "¡Correcto!"
+          "feedback": "Correcto. La variable independiente es la que el investigador modifica a propósito, y aquí es la cantidad de luz que reciben las plantas."
         },
         {
           "letter": "A",
           "text": "El crecimiento de las plantas",
           "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "feedback": "El crecimiento es la variable dependiente: es la respuesta que se mide cuando cambia la luz."
         },
         {
           "letter": "B",
           "text": "La temperatura ambiente",
           "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "feedback": "La temperatura no se manipuló en el experimento descrito, así que no puede ser la variable independiente."
         },
         {
           "letter": "C",
           "text": "El tipo de planta",
           "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "feedback": "El tipo de planta se mantuvo constante en el experimento, de modo que no es la variable que se hizo variar."
         }
       ],
       "correct_answer": "D",
@@ -646,25 +646,25 @@
           "letter": "D",
           "text": "La célula",
           "is_correct": true,
-          "feedback": "¡Correcto!"
+          "feedback": "Correcto. La célula es la unidad estructural y funcional de todos los seres vivos."
         },
         {
           "letter": "A",
           "text": "El átomo",
           "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "feedback": "El átomo es la unidad básica de la materia en química, no de la vida, y ningún ser vivo es un solo átomo."
         },
         {
           "letter": "B",
           "text": "La molécula",
           "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "feedback": "La molécula es una combinación química de átomos: es un nivel anterior al biológico, no la unidad de la vida."
         },
         {
           "letter": "C",
           "text": "El tejido",
           "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "feedback": "El tejido es un conjunto de células con una función común, es decir un nivel superior dentro del organismo."
         }
       ],
       "correct_answer": "D",
@@ -691,25 +691,25 @@
           "letter": "B",
           "text": "Fotosíntesis",
           "is_correct": true,
-          "feedback": "¡Correcto!"
+          "feedback": "Correcto. La fotosíntesis convierte la energía de la luz solar en energía química almacenada como glucosa."
         },
         {
           "letter": "A",
           "text": "Respiración celular",
           "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "feedback": "La respiración celular libera energía química a partir de la glucosa ya formada, no captura la energía de la luz."
         },
         {
           "letter": "C",
           "text": "Fermentación",
           "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "feedback": "La fermentación produce energía a partir de azúcares sin usar la luz como fuente, así que no corresponde a este proceso."
         },
         {
           "letter": "D",
           "text": "Digestión",
           "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "feedback": "La digestión es la degradación de los alimentos para absorberlos, no la conversión de luz solar en energía química."
         }
       ],
       "correct_answer": "B",
@@ -736,25 +736,25 @@
           "letter": "A",
           "text": "16 N",
           "is_correct": true,
-          "feedback": "¡Correcto!"
+          "feedback": "Correcto. Por $F = ma$: $F = 4 \\times 4 = 16$ N."
         },
         {
           "letter": "B",
           "text": "12 N",
           "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "feedback": "12 N saldría de $4 \\times 3$; el enunciado da una aceleración de 4 m/s², no de 3."
         },
         {
           "letter": "C",
           "text": "20 N",
           "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "feedback": "20 N resulta de $4 \\times 5$, y ningún dato del enunciado vale 5, de modo que ese producto no se sostiene."
         },
         {
           "letter": "D",
           "text": "4 N",
           "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "feedback": "4 N es solo la aceleración, no el producto: la fuerza exige multiplicar la masa por la aceleración."
         }
       ],
       "correct_answer": "A",
@@ -781,25 +781,25 @@
           "letter": "C",
           "text": "La piel",
           "is_correct": true,
-          "feedback": "¡Correcto!"
+          "feedback": "Correcto. La piel es el órgano más grande del cuerpo humano: en un adulto ronda los 2 m² y aporta cerca del 15 % del peso total."
         },
         {
           "letter": "A",
           "text": "El hígado",
           "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "feedback": "El hígado es la glándula más grande del cuerpo, pero es un órgano interno que pesa cerca de 1,5 kg, muy por debajo de la piel."
         },
         {
           "letter": "B",
           "text": "El corazón",
           "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "feedback": "El corazón es una bomba muscular pequeña que late en la cavidad torácica, y no llega al 15 % del peso corporal."
         },
         {
           "letter": "D",
           "text": "Los pulmones",
           "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "feedback": "Los pulmones son órganos pares que ocupan la cavidad torácica: su superficie es amplia, pero su masa no supera la de la piel."
         }
       ],
       "correct_answer": "C",
@@ -826,25 +826,25 @@
           "letter": "B",
           "text": "La exposición a la luz",
           "is_correct": true,
-          "feedback": "¡Correcto!"
+          "feedback": "Correcto. La variable independiente es la que el investigador modifica a propósito, y aquí es la cantidad de luz que reciben las plantas."
         },
         {
           "letter": "A",
           "text": "El crecimiento de las plantas",
           "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "feedback": "El crecimiento es la variable dependiente: es la respuesta que se mide cuando cambia la luz."
         },
         {
           "letter": "C",
           "text": "La temperatura ambiente",
           "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "feedback": "La temperatura no se manipuló en el experimento descrito, así que no puede ser la variable independiente."
         },
         {
           "letter": "D",
           "text": "El tipo de planta",
           "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "feedback": "El tipo de planta se mantuvo constante en el experimento, de modo que no es la variable que se hizo variar."
         }
       ],
       "correct_answer": "B",
@@ -871,25 +871,25 @@
           "letter": "D",
           "text": "La célula",
           "is_correct": true,
-          "feedback": "¡Correcto!"
+          "feedback": "Correcto. La célula es la unidad estructural y funcional de todos los seres vivos."
         },
         {
           "letter": "A",
           "text": "El átomo",
           "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "feedback": "El átomo es la unidad básica de la materia en química, no de la vida, y ningún ser vivo es un solo átomo."
         },
         {
           "letter": "B",
           "text": "La molécula",
           "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "feedback": "La molécula es una combinación química de átomos: es un nivel anterior al biológico, no la unidad de la vida."
         },
         {
           "letter": "C",
           "text": "El tejido",
           "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "feedback": "El tejido es un conjunto de células con una función común, es decir un nivel superior dentro del organismo."
         }
       ],
       "correct_answer": "D",

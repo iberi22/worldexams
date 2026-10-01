@@ -781,7 +781,7 @@
           "letter": "A",
           "text": "$30^\\circ$",
           "is_correct": false,
-          "feedback": "Incorrecto."
+          "feedback": "30 grados exigiría que la tangente del ángulo fuera aproximadamente 0,58. Aquí |(m₂ - m₁)/(1 + m₁m₂)| = |(-3 - 2)/(1 + 2·(-3))| = |-5/-5| = 1, y el ángulo cuya tangente es 1 es 45 grados."
         },
         {
           "letter": "D",
@@ -793,7 +793,7 @@
           "letter": "B",
           "text": "$60^\\circ$",
           "is_correct": false,
-          "feedback": "Incorrecto."
+          "feedback": "60 grados tiene tangente √3, y ese valor no aparece al aplicar la fórmula del ángulo entre rectas a estas dos pendientes."
         },
         {
           "letter": "C",

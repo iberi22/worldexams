@@ -172,7 +172,7 @@
           "letter": "C",
           "text": "To realize",
           "is_correct": false,
-          "feedback": "Incorrect."
+          "feedback": "Incorrect. An infinitive would make the explorers arrive already having realised something, and it cannot express the reason as a cause."
         }
       ],
       "correct_answer": "D",
@@ -218,7 +218,7 @@
           "letter": "D",
           "text": "to describe",
           "is_correct": false,
-          "feedback": "Incorrect."
+          "feedback": "Incorrect. An infinitive after a noun needs a subject of its own, so the documents would have to be doing the describing."
         }
       ],
       "correct_answer": "B",
@@ -246,7 +246,7 @@
           "letter": "A",
           "text": "Locating",
           "is_correct": false,
-          "feedback": "Incorrect. Active meaning."
+          "feedback": "Incorrect. \"Locating\" is active, so it would make the town the one doing the placing of itself at the foot of the mountains."
         },
         {
           "letter": "C",
@@ -264,7 +264,7 @@
           "letter": "D",
           "text": "Being located",
           "is_correct": false,
-          "feedback": "Incorrect."
+          "feedback": "Incorrect. The -ing form marks an action in progress, and the sentence describes a finished situation, not one still happening."
         }
       ],
       "correct_answer": "C",
@@ -310,7 +310,7 @@
           "letter": "D",
           "text": "Having walking through the museum, I saw many paintings.",
           "is_correct": false,
-          "feedback": "Incorrect."
+          "feedback": "Incorrect. \"Having\" must be followed by a past participle, so the correct form of \"walked\" would be needed after it."
         }
       ],
       "correct_answer": "C",
@@ -338,7 +338,7 @@
           "letter": "A",
           "text": "He submitted it while he was finishing it.",
           "is_correct": false,
-          "feedback": "Incorrect."
+          "feedback": "Incorrect. \"Having finished\" places the completion of the report before the submission, not at the same time as it."
         },
         {
           "letter": "B",
@@ -350,13 +350,13 @@
           "letter": "C",
           "text": "He finished it because he submitted it.",
           "is_correct": false,
-          "feedback": "Incorrect."
+          "feedback": "Incorrect. The clause gives the reason for submitting, while \"having finished\" gives the moment of the first action."
         },
         {
           "letter": "D",
           "text": "He submitted it to help him finish it.",
           "is_correct": false,
-          "feedback": "Incorrect."
+          "feedback": "Incorrect. That would make the submission come first, and the sentence presents the report as already finished before it was sent."
         }
       ],
       "correct_answer": "B",
@@ -396,13 +396,13 @@
           "letter": "C",
           "text": "Don't having",
           "is_correct": false,
-          "feedback": "Incorrect."
+          "feedback": "Incorrect. The negative here belongs to the participle clause, which takes \"not\", and the auxiliary \"do\" never appears in that structure."
         },
         {
           "letter": "D",
           "text": "Not had",
           "is_correct": false,
-          "feedback": "Incorrect."
+          "feedback": "Incorrect. A participle clause needs the -ing form, so after \"not\" the sentence needs \"having\", and \"not had\" is a plain verb form."
         }
       ],
       "correct_answer": "A",
@@ -430,19 +430,19 @@
           "letter": "A",
           "text": "Growing up",
           "is_correct": false,
-          "feedback": "Incorrect. Correct use."
+          "feedback": "Incorrect. This is a correct present participle clause describing when the city changed, so it is not the error."
         },
         {
           "letter": "C",
           "text": "Built",
           "is_correct": false,
-          "feedback": "Incorrect. Correct use."
+          "feedback": "Incorrect. This is a correct past participle clause about the location of the factories, so it is not the error."
         },
         {
           "letter": "D",
           "text": "Having been",
           "is_correct": false,
-          "feedback": "Incorrect. Correct use."
+          "feedback": "Incorrect. This is a correct perfect participle clause, and the fault of the sentence lies in the word that follows it."
         },
         {
           "letter": "B",
@@ -482,7 +482,7 @@
           "letter": "C",
           "text": "When the king was defeated, he went into exile.",
           "is_correct": false,
-          "feedback": "Incorrect."
+          "feedback": "Incorrect. The two full clauses joined by \"when\" are wordier, and a participle clause is the formal compressed form."
         },
         {
           "letter": "A",
@@ -494,7 +494,7 @@
           "letter": "D",
           "text": "The king, who was defeated, went into exile.",
           "is_correct": false,
-          "feedback": "Incorrect."
+          "feedback": "Incorrect. A relative clause still needs a full subject and verb, so it is no more formal than a participle clause."
         }
       ],
       "correct_answer": "A",
@@ -522,7 +522,7 @@
           "letter": "A",
           "text": "asked",
           "is_correct": false,
-          "feedback": "Incorrect."
+          "feedback": "Incorrect. The past participle has no passive meaning here, so the messenger would be doing the asking rather than asking while he travelled."
         },
         {
           "letter": "B",
@@ -534,13 +534,13 @@
           "letter": "C",
           "text": "to have asked",
           "is_correct": false,
-          "feedback": "Incorrect."
+          "feedback": "Incorrect. An infinitive cannot open the second clause of a sentence whose main verb is already in the past."
         },
         {
           "letter": "D",
           "text": "having asked",
           "is_correct": false,
-          "feedback": "Incorrect."
+          "feedback": "Incorrect. That would place the asking before the journey and after the understanding, and so it would destroy the simultaneity."
         }
       ],
       "correct_answer": "B",

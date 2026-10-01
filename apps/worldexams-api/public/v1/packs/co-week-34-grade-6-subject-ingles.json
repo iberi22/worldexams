@@ -9,42 +9,42 @@
   "questions": [
     {
       "id": "CO-ING-6-2026-W34-likes-dislikes-001-v1",
-      "statement": "This is a review question about likes-dislikes.",
-      "context": "Scenario about likes-dislikes in a Colombian school or city context.",
+      "statement": "Which verb says that a student likes playing football?",
+      "context": "Choosing the verb that expresses a like in the present simple.",
       "options": [
         {
           "letter": "A",
-          "text": "Option B",
+          "text": "like",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "The base form like goes with I, you, we and they, and it does not agree with a third person subject."
         },
         {
           "letter": "B",
-          "text": "Option D",
-          "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "text": "likes",
+          "is_correct": true,
+          "feedback": "The third person singular of the verb to like is likes, and it takes the gerund playing for the activity."
         },
         {
           "letter": "C",
-          "text": "Option C",
+          "text": "liking",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "Liking is the -ing form, which needs an auxiliary such as am to form a verb in this sentence."
         },
         {
           "letter": "D",
-          "text": "Option A (Correct)",
-          "is_correct": true,
-          "feedback": "Correct! Well done."
+          "text": "liked",
+          "is_correct": false,
+          "feedback": "Liked is the past form, and it would place the preference in the past rather than the present."
         }
       ],
-      "correct_answer": "D",
-      "explanation": "This question evaluates the student's ability to remember the topic of Expressing Likes and Dislikes at an A2 level. It focuses on Colombian contexts and standard A2 grammar.\n\n---",
-      "difficulty": "4",
+      "correct_answer": "B",
+      "explanation": "The correct answer is \"likes\". Expressing a like in English is a compact pattern with three moving parts, the subject, the correctly inflected verb of liking and the gerund of the activity, and all three have to be right. Practising the pattern as a whole is what stops a student producing likes playing for someone else and liking for a third person, which is how the errors actually appear in their writing.",
+      "difficulty": "3",
       "images": [],
       "tags": [],
       "bloom": "Remember",
-      "icfes_type": "Reading Comprehension",
-      "expected_success": 0.75,
+      "icfes_type": "Grammatical Knowledge",
+      "expected_success": 0.82,
       "bundle_id": "CO-ING-6-2026-W34-likes-dislikes-001-MASTERY-bundle",
       "periodo": 34,
       "protocol_version": "5.2",
@@ -55,42 +55,42 @@
     },
     {
       "id": "CO-ING-6-2026-W34-likes-dislikes-002-v1",
-      "statement": "Select the correct A2 level use for likes-dislikes.",
-      "context": "Scenario about likes-dislikes in a Colombian school or city context.",
+      "statement": "Which sentence says that a student does not like fish?",
+      "context": "Forming a negative with does not.",
       "options": [
         {
           "letter": "A",
-          "text": "Structure 3",
+          "text": "She not like fish.",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "A negative in English needs an auxiliary do or does, and not on its own cannot make this sentence."
         },
         {
           "letter": "B",
-          "text": "Structure 2",
+          "text": "She doesn't likes fish.",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "The auxiliary doesn't already carries the third person, so the main verb has to be the base form like."
         },
         {
           "letter": "C",
-          "text": "Structure 1 (Correct)",
-          "is_correct": true,
-          "feedback": "Correct! Well done."
+          "text": "She don't like fish.",
+          "is_correct": false,
+          "feedback": "Do not goes with I, you, we and they, and it does not agree with the subject she."
         },
         {
           "letter": "D",
-          "text": "Structure 4",
-          "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "text": "She doesn't like fish.",
+          "is_correct": true,
+          "feedback": "The third person negative is doesn't followed by the base form of the main verb, so the verb is like rather than likes."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "This question evaluates the student's ability to remember the topic of Expressing Likes and Dislikes at an A2 level. It focuses on Colombian contexts and standard A2 grammar.\n\n---",
-      "difficulty": "4",
+      "correct_answer": "D",
+      "explanation": "The correct answer is \"She doesn't like fish\". The negative with the third person is where most of the period's errors live, because the -s moves from the main verb to the auxiliary and is then dropped. Making that transfer visible in one short sentence is the most efficient way to teach it, and it is the same transfer required for the doesn't questions the week also needs.",
+      "difficulty": "3",
       "images": [],
       "tags": [],
       "bloom": "Remember",
-      "icfes_type": "Reading Comprehension",
-      "expected_success": 0.75,
+      "icfes_type": "Grammatical Knowledge",
+      "expected_success": 0.8,
       "bundle_id": "CO-ING-6-2026-W34-likes-dislikes-001-MASTERY-bundle",
       "periodo": 34,
       "protocol_version": "5.2",
@@ -101,42 +101,42 @@
     },
     {
       "id": "CO-ING-6-2026-W34-likes-dislikes-003-v1",
-      "statement": "Identify the appropriate vocabulary for likes-dislikes.",
-      "context": "Scenario about likes-dislikes in a Colombian school or city context.",
+      "statement": "Read: \"Ana likes mango but she doesn't like papaya. Luis doesn't like mango either.\" Who likes mango?",
+      "context": "Reading what two students say about a food.",
       "options": [
         {
           "letter": "A",
-          "text": "Word 4",
-          "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "text": "Ana likes mango.",
+          "is_correct": true,
+          "feedback": "The text says Ana likes mango directly, while both other statements are dislikes that do not change hers."
         },
         {
           "letter": "B",
-          "text": "Word 2",
+          "text": "Nobody likes mango.",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "Ana says she likes mango, so at least one person does, and the question is not settled by Luis's dislike."
         },
         {
           "letter": "C",
-          "text": "Word 1 (Correct)",
-          "is_correct": true,
-          "feedback": "Correct! Well done."
+          "text": "Luis likes mango.",
+          "is_correct": false,
+          "feedback": "The text says Luis doesn't like mango, which is the opposite of what this option claims."
         },
         {
           "letter": "D",
-          "text": "Word 3",
+          "text": "Ana and Luis like mango.",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "Luis is explicitly given as not liking mango, so the two do not share the preference."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "This question evaluates the student's ability to understand the topic of Expressing Likes and Dislikes at an A2 level. It focuses on Colombian contexts and standard A2 grammar.\n\n---",
-      "difficulty": "6",
+      "correct_answer": "A",
+      "explanation": "The correct answer is \"Ana likes mango\". The text contains two negatives and one positive, and students who read quickly reverse one of the negatives and answer wrongly. Following each statement to the person it belongs to is the skill this item builds, and it is the same careful tracking that longer texts about preferences require.",
+      "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Understand",
       "icfes_type": "Reading Comprehension",
-      "expected_success": 0.75,
+      "expected_success": 0.78,
       "bundle_id": "CO-ING-6-2026-W34-likes-dislikes-001-MASTERY-bundle",
       "periodo": 34,
       "protocol_version": "5.2",
@@ -147,42 +147,42 @@
     },
     {
       "id": "CO-ING-6-2026-W34-likes-dislikes-004-v1",
-      "statement": "Complete the sentence about likes-dislikes.",
-      "context": "Scenario about likes-dislikes in a Colombian school or city context.",
+      "statement": "Which sentence correctly says that a student likes reading?",
+      "context": "Using the gerund after the verb to like.",
       "options": [
         {
           "letter": "A",
-          "text": "Phrase A (Correct)",
-          "is_correct": true,
-          "feedback": "Correct! Well done."
+          "text": "She likes to reads books.",
+          "is_correct": false,
+          "feedback": "There is an -s on the verb after to, and a to form here would also need the article that this sentence lacks."
         },
         {
           "letter": "B",
-          "text": "Phrase C",
+          "text": "She likes read books.",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "The bare infinitive read is not used after likes, which takes the -ing form in this pattern."
         },
         {
           "letter": "C",
-          "text": "Phrase D",
-          "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "text": "She likes reading books.",
+          "is_correct": true,
+          "feedback": "After likes the gerund reading names the activity, and the object books follows the gerund phrase normally."
         },
         {
           "letter": "D",
-          "text": "Phrase B",
+          "text": "She like reading books.",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "The subject is third person singular, so the verb has to be likes rather than the base form like."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "This question evaluates the student's ability to understand the topic of Expressing Likes and Dislikes at an A2 level. It focuses on Colombian contexts and standard A2 grammar.\n\n---",
-      "difficulty": "6",
+      "correct_answer": "C",
+      "explanation": "The correct answer is \"She likes reading books\". Each distractor introduces exactly one different error, in the verb form, in the to form or in the agreement, which makes them useful rather than random. A student who can say which single thing is wrong with each version is far better placed to check their own sentences than one who only recognises the correct answer.",
+      "difficulty": "4",
       "images": [],
       "tags": [],
-      "bloom": "Understand",
-      "icfes_type": "Reading Comprehension",
-      "expected_success": 0.75,
+      "bloom": "Apply",
+      "icfes_type": "Grammatical Knowledge",
+      "expected_success": 0.76,
       "bundle_id": "CO-ING-6-2026-W34-likes-dislikes-001-MASTERY-bundle",
       "periodo": 34,
       "protocol_version": "5.2",
@@ -193,42 +193,42 @@
     },
     {
       "id": "CO-ING-6-2026-W34-likes-dislikes-005-v1",
-      "statement": "What is the best way to express likes-dislikes?",
-      "context": "Scenario about likes-dislikes in a Colombian school or city context.",
+      "statement": "You want to know whether your friend likes spicy food. Which question do you ask?",
+      "context": "Asking a friend about a preference politely.",
       "options": [
         {
           "letter": "A",
-          "text": "That way",
-          "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "text": "Do you like spicy food?",
+          "is_correct": true,
+          "feedback": "Do you like is the standard question for asking about a preference, and the subject you takes the auxiliary do."
         },
         {
           "letter": "B",
-          "text": "Other way",
+          "text": "Do you likes spicy food?",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "After the auxiliary do the main verb keeps its base form like, so the -s does not belong here."
         },
         {
           "letter": "C",
-          "text": "This way (Correct)",
-          "is_correct": true,
-          "feedback": "Correct! Well done."
+          "text": "Are you like spicy food?",
+          "is_correct": false,
+          "feedback": "Are goes with the verb to be, and it cannot be used to ask about a preference expressed with the verb to like."
         },
         {
           "letter": "D",
-          "text": "Incorrect way",
+          "text": "Do you like to spicy food?",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "An infinitive after like cannot stand directly before a noun, so the phrase would be ungrammatical as written."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "This question evaluates the student's ability to apply the topic of Expressing Likes and Dislikes at an A2 level. It focuses on Colombian contexts and standard A2 grammar.\n\n---",
-      "difficulty": "6",
+      "correct_answer": "A",
+      "explanation": "The correct answer is \"Do you like spicy food?\". Asking a friend about a preference is a genuine social task, and the question form has to be right in three places at once, the auxiliary, the subject and the verb form. Getting it wrong is immediately noticeable to the listener, which makes it worth producing correctly rather than only understanding it when read.",
+      "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Apply",
-      "icfes_type": "Reading Comprehension",
-      "expected_success": 0.75,
+      "icfes_type": "Pragmatic Competence",
+      "expected_success": 0.74,
       "bundle_id": "CO-ING-6-2026-W34-likes-dislikes-001-MASTERY-bundle",
       "periodo": 34,
       "protocol_version": "5.2",
@@ -239,42 +239,42 @@
     },
     {
       "id": "CO-ING-6-2026-W34-likes-dislikes-006-v1",
-      "statement": "Find the error in this likes-dislikes sentence.",
-      "context": "Scenario about likes-dislikes in a Colombian school or city context.",
+      "statement": "Which word says that a person does not like something?",
+      "context": "Choosing the word that expresses a dislike rather than a preference.",
       "options": [
         {
           "letter": "A",
-          "text": "Different error",
+          "text": "enjoy",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "Enjoy is a positive word for taking pleasure in something, so it also names the opposite meaning."
         },
         {
           "letter": "B",
-          "text": "No error",
+          "text": "love",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "Love is the strongest positive preference, so it names the opposite of a dislike."
         },
         {
           "letter": "C",
-          "text": "The error is here (Correct)",
-          "is_correct": true,
-          "feedback": "Correct! Well done."
+          "text": "prefer",
+          "is_correct": false,
+          "feedback": "Prefer names a choice between two options, and it does not simply mean disliking something."
         },
         {
           "letter": "D",
-          "text": "Wrong error",
-          "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "text": "hate",
+          "is_correct": true,
+          "feedback": "To hate is the strongest English word for disliking something, stronger than dislike and much stronger than not like."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "This question evaluates the student's ability to apply the topic of Expressing Likes and Dislikes at an A2 level. It focuses on Colombian contexts and standard A2 grammar.\n\n---",
-      "difficulty": "8",
+      "correct_answer": "D",
+      "explanation": "The correct answer is \"hate\". A small set of verbs carries the whole range of liking and disliking in English, and students who only know like and not like cannot express strength of feeling. Learning love, like, do not like and hate as a scale gives them the vocabulary to answer questions about preferences with the right degree of feeling rather than a flat yes or no.",
+      "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Apply",
-      "icfes_type": "Reading Comprehension",
-      "expected_success": 0.75,
+      "icfes_type": "Lexical Knowledge",
+      "expected_success": 0.72,
       "bundle_id": "CO-ING-6-2026-W34-likes-dislikes-001-MASTERY-bundle",
       "periodo": 34,
       "protocol_version": "5.2",
@@ -285,42 +285,42 @@
     },
     {
       "id": "CO-ING-6-2026-W34-likes-dislikes-007-v1",
-      "statement": "Match the term with the definition of likes-dislikes.",
-      "context": "Scenario about likes-dislikes in a Colombian school or city context.",
+      "statement": "Which sentence correctly says that a student loves pizza?",
+      "context": "Using love with a noun rather than a gerund.",
       "options": [
         {
           "letter": "A",
-          "text": "Opposite",
+          "text": "She loves the pizza.",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "The article makes a general preference sound like a particular one, which is not what the sentence intends."
         },
         {
           "letter": "B",
-          "text": "Matching term (Correct)",
+          "text": "She loves pizza.",
           "is_correct": true,
-          "feedback": "Correct! Well done."
+          "feedback": "A noun can follow the verb to love directly, so pizza needs no gerund form and no article in this general statement."
         },
         {
           "letter": "C",
-          "text": "Irrelevant",
+          "text": "She love pizza.",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "The subject is third person singular, so the verb has to be loves rather than the base form love."
         },
         {
           "letter": "D",
-          "text": "Non-matching",
+          "text": "She loving pizza.",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "The -ing form needs an auxiliary such as loves to form a verb, so it cannot stand alone as the main verb."
         }
       ],
       "correct_answer": "B",
-      "explanation": "This question evaluates the student's ability to apply the topic of Expressing Likes and Dislikes at an A2 level. It focuses on Colombian contexts and standard A2 grammar.\n\n---",
-      "difficulty": "8",
+      "explanation": "The correct answer is \"She loves pizza\". A noun can follow the verb to love directly, whereas a verb activity normally takes the gerund, and students tend to apply one rule to both. Fixing the pattern for each of the two verbs keeps the choice deliberate, and it is a distinction that shows up in every longer piece of student writing.",
+      "difficulty": "5",
       "images": [],
       "tags": [],
       "bloom": "Apply",
-      "icfes_type": "Reading Comprehension",
-      "expected_success": 0.75,
+      "icfes_type": "Grammatical Knowledge",
+      "expected_success": 0.7,
       "bundle_id": "CO-ING-6-2026-W34-likes-dislikes-001-MASTERY-bundle",
       "periodo": 34,
       "protocol_version": "5.2",
@@ -331,42 +331,42 @@
     },
     {
       "id": "CO-ING-6-2026-W34-likes-dislikes-008-v1",
-      "statement": "Choose the synonym for a word related to likes-dislikes.",
-      "context": "Scenario about likes-dislikes in a Colombian school or city context.",
+      "statement": "Read: \"Pedro likes football but he doesn't like basketball. Sara likes both.\" What can you say about Sara?",
+      "context": "Comparing the preferences of two students in a short text.",
       "options": [
         {
           "letter": "A",
-          "text": "Homonym",
-          "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "text": "She likes both football and basketball.",
+          "is_correct": true,
+          "feedback": "The text states that Sara likes both, and both refers to the two sports named just before."
         },
         {
           "letter": "B",
-          "text": "Synonym (Correct)",
-          "is_correct": true,
-          "feedback": "Correct! Well done."
+          "text": "She likes only football.",
+          "is_correct": false,
+          "feedback": "The text says she likes both sports, so she is not limited to football."
         },
         {
           "letter": "C",
-          "text": "Unrelated",
+          "text": "She likes neither sport.",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "Likes both is the opposite of liking neither, so this directly contradicts the text."
         },
         {
           "letter": "D",
-          "text": "Antonym",
+          "text": "She likes basketball only.",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "The text includes football in what she likes, so the exclusive claim is not supported."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "This question evaluates the student's ability to analyze the topic of Expressing Likes and Dislikes at an A2 level. It focuses on Colombian contexts and standard A2 grammar.\n\n---",
-      "difficulty": "8",
+      "correct_answer": "A",
+      "explanation": "The correct answer is \"She likes both football and basketball\". The word both refers back to two nouns mentioned in the previous sentence, and resolving a reference like that is a genuine reading skill rather than a vocabulary question. Students who miss it often answer from memory of the first sentence, which is why the item puts the pronoun in a different sentence from the things it refers to.",
+      "difficulty": "5",
       "images": [],
       "tags": [],
       "bloom": "Analyze",
       "icfes_type": "Reading Comprehension",
-      "expected_success": 0.75,
+      "expected_success": 0.68,
       "bundle_id": "CO-ING-6-2026-W34-likes-dislikes-001-MASTERY-bundle",
       "periodo": 34,
       "protocol_version": "5.2",
@@ -377,42 +377,42 @@
     },
     {
       "id": "CO-ING-6-2026-W34-likes-dislikes-009-v1",
-      "statement": "Which of these belongs to likes-dislikes?",
-      "context": "Scenario about likes-dislikes in a Colombian school or city context.",
+      "statement": "A student writes: \"My brother don't like horror films.\" What is the problem?",
+      "context": "Finding the error in a sentence about a preference.",
       "options": [
         {
           "letter": "A",
-          "text": "Both",
+          "text": "Horror films is the wrong kind of noun.",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "Films is a correct plural noun here, and the noun is not what makes the sentence wrong."
         },
         {
           "letter": "B",
-          "text": "This one (Correct)",
-          "is_correct": true,
-          "feedback": "Correct! Well done."
+          "text": "A dislike needs the verb to hate.",
+          "is_correct": false,
+          "feedback": "Not liking is a perfectly ordinary way to express a dislike, and the verb to like is correct here."
         },
         {
           "letter": "C",
-          "text": "Not this one",
+          "text": "The verb should be likes with the don't.",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "After the auxiliary do the main verb keeps the base form, so the problem is the auxiliary rather than the main verb."
         },
         {
           "letter": "D",
-          "text": "Neither",
-          "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "text": "The auxiliary should be does rather than do.",
+          "is_correct": true,
+          "feedback": "The subject my brother is third person singular, so the negative auxiliary has to be doesn't rather than don't."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "This question evaluates the student's ability to analyze the topic of Expressing Likes and Dislikes at an A2 level. It focuses on Colombian contexts and standard A2 grammar.\n\n---",
-      "difficulty": "10",
+      "correct_answer": "D",
+      "explanation": "The correct answer is \"The auxiliary should be does rather than do\". The sentence has exactly one fault, and the three distractors each propose a different problem that is not there. This is the error a student makes most often in written work, so isolating it in a sentence where the noun, the main verb and the meaning are all correct is the most direct way to eliminate it.",
+      "difficulty": "5",
       "images": [],
       "tags": [],
       "bloom": "Analyze",
-      "icfes_type": "Reading Comprehension",
-      "expected_success": 0.75,
+      "icfes_type": "Grammatical Knowledge",
+      "expected_success": 0.65,
       "bundle_id": "CO-ING-6-2026-W34-likes-dislikes-001-MASTERY-bundle",
       "periodo": 34,
       "protocol_version": "5.2",
@@ -423,42 +423,42 @@
     },
     {
       "id": "CO-ING-6-2026-W34-likes-dislikes-010-v1",
-      "statement": "Predict the next word in the likes-dislikes context.",
-      "context": "Scenario about likes-dislikes in a Colombian school or city context.",
+      "statement": "You are asked what food you like best. Which answer is the most natural?",
+      "context": "Choosing the best way to state a strong preference to a class.",
       "options": [
         {
           "letter": "A",
-          "text": "Correct prediction",
-          "is_correct": true,
-          "feedback": "Correct! Well done."
+          "text": "I like like everything.",
+          "is_correct": false,
+          "feedback": "The repeated like is ungrammatical, and claiming to like everything names no preference either."
         },
         {
           "letter": "B",
-          "text": "Wrong prediction",
+          "text": "Food is food.",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "This is a general remark that expresses no preference at all, so it does not answer the question."
         },
         {
           "letter": "C",
-          "text": "Maybe",
-          "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "text": "I love empanadas, especially the ones from my grandmother's kitchen.",
+          "is_correct": true,
+          "feedback": "This gives a clear preference, says the verb love and adds a specific detail that makes the answer personal."
         },
         {
           "letter": "D",
-          "text": "Impossible",
+          "text": "I am eating empanadas now.",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "The present continuous reports what is happening at this moment rather than stating a lasting preference."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "This question evaluates the student's ability to evaluate the topic of Expressing Likes and Dislikes at an A2 level. It focuses on Colombian contexts and standard A2 grammar.\n\n---",
-      "difficulty": "10",
+      "correct_answer": "C",
+      "explanation": "The correct answer is \"I love empanadas, especially the ones from my grandmother's kitchen\". A good answer to what do you like best states a preference with the right strength and then supports it, and the three distractors each fail to say anything about what the speaker likes. Choosing a specific, supportable answer over a vague one is the judgement the exam rewards, and it is also simply a more useful way to talk to a class.\n\n---",
+      "difficulty": "5",
       "images": [],
       "tags": [],
       "bloom": "Evaluate",
-      "icfes_type": "Reading Comprehension",
-      "expected_success": 0.75,
+      "icfes_type": "Pragmatic Competence",
+      "expected_success": 0.62,
       "bundle_id": "CO-ING-6-2026-W34-likes-dislikes-001-MASTERY-bundle",
       "periodo": 34,
       "protocol_version": "5.2",

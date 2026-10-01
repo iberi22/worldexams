@@ -9,42 +9,42 @@
   "questions": [
     {
       "id": "CO-ING-6-2026-W20-p2-final-review-001-v1",
-      "statement": "This is a review question about p2-final-review.",
-      "context": "Scenario about p2-final-review in a Colombian school or city context.",
+      "statement": "My mother's sister is my ________.",
+      "context": "Naming the family relation between two people.",
       "options": [
         {
           "letter": "A",
-          "text": "Option D",
+          "text": "grandmother",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "A grandmother is one generation above your parents, and a sister of your mother is your own generation."
         },
         {
           "letter": "B",
-          "text": "Option A (Correct)",
-          "is_correct": true,
-          "feedback": "Correct! Well done."
+          "text": "niece",
+          "is_correct": false,
+          "feedback": "A niece is the daughter of your brother or sister, so she belongs to a generation below you."
         },
         {
           "letter": "C",
-          "text": "Option B",
-          "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "text": "aunt",
+          "is_correct": true,
+          "feedback": "The sister of one of your parents is your aunt, and a mother is one of your parents."
         },
         {
           "letter": "D",
-          "text": "Option C",
+          "text": "sister",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "A sister shares your own parents, whereas the person described is the sibling of one of your parents."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "This question evaluates the student's ability to remember the topic of Period 2 Final Review at an A2 level. It focuses on Colombian contexts and standard A2 grammar.\n\n---",
-      "difficulty": "4",
+      "correct_answer": "C",
+      "explanation": "The correct answer is \"aunt\". Family vocabulary is a closed system of relationships, and naming the relation requires tracking generations as much as gender. This is the vocabulary the second period opens with and the one the descriptive weeks build on, since a student who can say how people are related can then describe how they look and how they behave.",
+      "difficulty": "3",
       "images": [],
       "tags": [],
       "bloom": "Remember",
-      "icfes_type": "Reading Comprehension",
-      "expected_success": 0.75,
+      "icfes_type": "Lexical Knowledge",
+      "expected_success": 0.82,
       "bundle_id": "CO-ING-6-2026-W20-p2-final-review-001-MASTERY-bundle",
       "periodo": 20,
       "protocol_version": "5.2",
@@ -55,42 +55,42 @@
     },
     {
       "id": "CO-ING-6-2026-W20-p2-final-review-002-v1",
-      "statement": "Select the correct A2 level use for p2-final-review.",
-      "context": "Scenario about p2-final-review in a Colombian school or city context.",
+      "statement": "Complete the sentence: \"That is my brother and this is ________ wife.\"",
+      "context": "Choosing the correct possessive for each member of a family.",
       "options": [
         {
           "letter": "A",
-          "text": "Structure 2",
-          "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "text": "his",
+          "is_correct": true,
+          "feedback": "His is the possessive for a male owner, and the wife named here belongs to the brother just mentioned."
         },
         {
           "letter": "B",
-          "text": "Structure 3",
+          "text": "her",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "Her would point to a female owner other than the sister, but the sentence names the brother's wife."
         },
         {
           "letter": "C",
-          "text": "Structure 1 (Correct)",
-          "is_correct": true,
-          "feedback": "Correct! Well done."
+          "text": "he",
+          "is_correct": false,
+          "feedback": "He is the subject pronoun, and a possessive is needed to show that the wife belongs to him."
         },
         {
           "letter": "D",
-          "text": "Structure 4",
+          "text": "she",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "She is the subject pronoun, and it cannot be used in front of a noun to show ownership."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "This question evaluates the student's ability to remember the topic of Period 2 Final Review at an A2 level. It focuses on Colombian contexts and standard A2 grammar.\n\n---",
-      "difficulty": "4",
+      "correct_answer": "A",
+      "explanation": "The correct answer is \"his\". Referring back to a person already mentioned and marking the relationship with a possessive is the structure the family vocabulary is normally taught inside, so the two weeks reinforce each other. Tracking the gender and the number of the antecedent is a real comprehension task as well as a grammar one, and both have to succeed for the sentence to work.",
+      "difficulty": "3",
       "images": [],
       "tags": [],
       "bloom": "Remember",
-      "icfes_type": "Reading Comprehension",
-      "expected_success": 0.75,
+      "icfes_type": "Grammatical Knowledge",
+      "expected_success": 0.8,
       "bundle_id": "CO-ING-6-2026-W20-p2-final-review-001-MASTERY-bundle",
       "periodo": 20,
       "protocol_version": "5.2",
@@ -101,42 +101,42 @@
     },
     {
       "id": "CO-ING-6-2026-W20-p2-final-review-003-v1",
-      "statement": "Identify the appropriate vocabulary for p2-final-review.",
-      "context": "Scenario about p2-final-review in a Colombian school or city context.",
+      "statement": "Read: \"Camila is my sister. Her son is my nephew.\" How old is Camila's son?",
+      "context": "Working out a relationship from a short family text.",
       "options": [
         {
           "letter": "A",
-          "text": "Word 3",
+          "text": "He is an adult.",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "A nephew belongs to the generation below the speaker, and the text gives no reason to treat him as an adult."
         },
         {
           "letter": "B",
-          "text": "Word 2",
-          "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "text": "He is a child.",
+          "is_correct": true,
+          "feedback": "A son of a sister is one generation below, so the text places him in childhood rather than adulthood."
         },
         {
           "letter": "C",
-          "text": "Word 1 (Correct)",
-          "is_correct": true,
-          "feedback": "Correct! Well done."
+          "text": "He is Camila's brother.",
+          "is_correct": false,
+          "feedback": "Her son is her child, and her brother would be Camila's own sibling rather than her son."
         },
         {
           "letter": "D",
-          "text": "Word 4",
+          "text": "The text does not say.",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "The relationship nephew is given explicitly, and that relation tells the reader the generation he belongs to."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "This question evaluates the student's ability to understand the topic of Period 2 Final Review at an A2 level. It focuses on Colombian contexts and standard A2 grammar.\n\n---",
-      "difficulty": "6",
+      "correct_answer": "B",
+      "explanation": "The correct answer is \"He is a child\". The text never states an age, so the answer has to be inferred from the kinship term itself, and that inference is the actual reading task. Students who know what nephew means can answer without any other information, and those who have only memorised the word as a label cannot, which is exactly the distinction worth testing.",
+      "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Understand",
       "icfes_type": "Reading Comprehension",
-      "expected_success": 0.75,
+      "expected_success": 0.78,
       "bundle_id": "CO-ING-6-2026-W20-p2-final-review-001-MASTERY-bundle",
       "periodo": 20,
       "protocol_version": "5.2",
@@ -147,42 +147,42 @@
     },
     {
       "id": "CO-ING-6-2026-W20-p2-final-review-004-v1",
-      "statement": "Complete the sentence about p2-final-review.",
-      "context": "Scenario about p2-final-review in a Colombian school or city context.",
+      "statement": "Which sentence describes a grandmother correctly?",
+      "context": "Using the verb to be to describe a family member.",
       "options": [
         {
           "letter": "A",
-          "text": "Phrase C",
+          "text": "My grandmother are my father's fathers.",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "This has two faults at once, the plural verb and the plural noun after a singular possessive word."
         },
         {
           "letter": "B",
-          "text": "Phrase A (Correct)",
-          "is_correct": true,
-          "feedback": "Correct! Well done."
+          "text": "My grandmother are my father's mother.",
+          "is_correct": false,
+          "feedback": "The subject is singular, so it takes is rather than the plural are."
         },
         {
           "letter": "C",
-          "text": "Phrase B",
+          "text": "My grandmother is my father's father.",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "The father of one's father is one's grandfather, so the gender of the parent has been changed here."
         },
         {
           "letter": "D",
-          "text": "Phrase D",
-          "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "text": "My grandmother is my father's mother.",
+          "is_correct": true,
+          "feedback": "The mother of one's father is one's grandmother, and the verb to be agrees with the singular subject."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "This question evaluates the student's ability to understand the topic of Period 2 Final Review at an A2 level. It focuses on Colombian contexts and standard A2 grammar.\n\n---",
-      "difficulty": "6",
+      "correct_answer": "D",
+      "explanation": "The correct answer is \"My grandmother is my father's mother\". The relationship has to be worked out and the sentence has to be built correctly at the same time, and each distractor fails on one of those two fronts. Combining vocabulary and agreement in a single item is what the final review is for, since it is the kind of combined demand the period exam will set.",
+      "difficulty": "4",
       "images": [],
       "tags": [],
-      "bloom": "Understand",
-      "icfes_type": "Reading Comprehension",
-      "expected_success": 0.75,
+      "bloom": "Apply",
+      "icfes_type": "Grammatical Knowledge",
+      "expected_success": 0.76,
       "bundle_id": "CO-ING-6-2026-W20-p2-final-review-001-MASTERY-bundle",
       "periodo": 20,
       "protocol_version": "5.2",
@@ -193,42 +193,42 @@
     },
     {
       "id": "CO-ING-6-2026-W20-p2-final-review-005-v1",
-      "statement": "What is the best way to express p2-final-review?",
-      "context": "Scenario about p2-final-review in a Colombian school or city context.",
+      "statement": "Where is Andrés? Choose the correct sentence.",
+      "context": "Placing a preposition to say where a person is in relation to a place.",
       "options": [
         {
           "letter": "A",
-          "text": "This way (Correct)",
-          "is_correct": true,
-          "feedback": "Correct! Well done."
+          "text": "Andrés is in school.",
+          "is_correct": false,
+          "feedback": "In school describes being inside the building, which is a stronger claim than the sentence intends."
         },
         {
           "letter": "B",
-          "text": "That way",
-          "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "text": "Andrés is at school.",
+          "is_correct": true,
+          "feedback": "At is the preposition used for a specific place or point in English, and school is such a point."
         },
         {
           "letter": "C",
-          "text": "Other way",
+          "text": "Andrés is on school.",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "On would place him on top of the school rather than at it, and it is not the preposition for a place."
         },
         {
           "letter": "D",
-          "text": "Incorrect way",
+          "text": "Andrés is to school.",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "To is the preposition of direction towards a place, not of being located at one."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "This question evaluates the student's ability to apply the topic of Period 2 Final Review at an A2 level. It focuses on Colombian contexts and standard A2 grammar.\n\n---",
-      "difficulty": "6",
+      "correct_answer": "B",
+      "explanation": "The correct answer is \"Andrés is at school\". In, at and on divide places into containers, points and surfaces, and Spanish uses a single preposition where English needs three. The three distractors are the three prepositions a student reaches for in this position, so choosing correctly means knowing the rule rather than guessing the commonest one.",
+      "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Apply",
-      "icfes_type": "Reading Comprehension",
-      "expected_success": 0.75,
+      "icfes_type": "Grammatical Knowledge",
+      "expected_success": 0.74,
       "bundle_id": "CO-ING-6-2026-W20-p2-final-review-001-MASTERY-bundle",
       "periodo": 20,
       "protocol_version": "5.2",
@@ -239,42 +239,42 @@
     },
     {
       "id": "CO-ING-6-2026-W20-p2-final-review-006-v1",
-      "statement": "Find the error in this p2-final-review sentence.",
-      "context": "Scenario about p2-final-review in a Colombian school or city context.",
+      "statement": "A person who is very short of money is called ________.",
+      "context": "Choosing the correct word to describe a person in a short text.",
       "options": [
         {
           "letter": "A",
-          "text": "No error",
-          "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "text": "poor",
+          "is_correct": true,
+          "feedback": "Poor is the ordinary English word for someone who does not have much money."
         },
         {
           "letter": "B",
-          "text": "Different error",
+          "text": "rich",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "Rich is the opposite of poor, and it names someone who has a lot of money rather than very little."
         },
         {
           "letter": "C",
-          "text": "The error is here (Correct)",
-          "is_correct": true,
-          "feedback": "Correct! Well done."
+          "text": "tall",
+          "is_correct": false,
+          "feedback": "Tall describes height rather than wealth, so it has nothing to do with how much money somebody has."
         },
         {
           "letter": "D",
-          "text": "Wrong error",
+          "text": "strong",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "Strong describes physical power or stamina, and it does not describe a person's finances."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "This question evaluates the student's ability to apply the topic of Period 2 Final Review at an A2 level. It focuses on Colombian contexts and standard A2 grammar.\n\n---",
-      "difficulty": "8",
+      "correct_answer": "A",
+      "explanation": "The correct answer is \"poor\". Describing a person in English requires the right category of word, and money words are a category students meet in reading texts long before they feel confident using them. The distractors are drawn from the appearance vocabulary of the previous weeks, which is exactly the confusion that appears when a student reaches for the most familiar adjective instead of the accurate one.",
+      "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Apply",
-      "icfes_type": "Reading Comprehension",
-      "expected_success": 0.75,
+      "icfes_type": "Lexical Knowledge",
+      "expected_success": 0.72,
       "bundle_id": "CO-ING-6-2026-W20-p2-final-review-001-MASTERY-bundle",
       "periodo": 20,
       "protocol_version": "5.2",
@@ -285,42 +285,42 @@
     },
     {
       "id": "CO-ING-6-2026-W20-p2-final-review-007-v1",
-      "statement": "Match the term with the definition of p2-final-review.",
-      "context": "Scenario about p2-final-review in a Colombian school or city context.",
+      "statement": "You want to say to a teacher: \"This is my grandmother.\" Which sentence do you use?",
+      "context": "Introducing a relative to a teacher at school.",
       "options": [
         {
           "letter": "A",
-          "text": "Irrelevant",
+          "text": "This is a grandmother.",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "The indefinite article would suggest one grandmother among others rather than the particular person being introduced."
         },
         {
           "letter": "B",
-          "text": "Non-matching",
+          "text": "This is the grandmother of me.",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "The phrase of me is not how English marks a relation to the speaker, so this sounds wrong throughout."
         },
         {
           "letter": "C",
-          "text": "Matching term (Correct)",
+          "text": "This is my grandmother.",
           "is_correct": true,
-          "feedback": "Correct! Well done."
+          "feedback": "This is the standard introduction, with the possessive marking the relation and the word naming the person."
         },
         {
           "letter": "D",
-          "text": "Opposite",
+          "text": "She is my grandmother's she.",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "The pronoun and the possessive are in the wrong order, and the extra she has nothing to refer to."
         }
       ],
       "correct_answer": "C",
-      "explanation": "This question evaluates the student's ability to apply the topic of Period 2 Final Review at an A2 level. It focuses on Colombian contexts and standard A2 grammar.\n\n---",
-      "difficulty": "8",
+      "explanation": "The correct answer is \"This is my grandmother\". Introducing a family member is a fixed routine in English and the possessive does the work of naming the relationship. The distractor about the indefinite article is worth noticing, because a student who has only practised with a may produce a form that loses the particular person the introduction depends on.",
+      "difficulty": "5",
       "images": [],
       "tags": [],
       "bloom": "Apply",
-      "icfes_type": "Reading Comprehension",
-      "expected_success": 0.75,
+      "icfes_type": "Pragmatic Competence",
+      "expected_success": 0.7,
       "bundle_id": "CO-ING-6-2026-W20-p2-final-review-001-MASTERY-bundle",
       "periodo": 20,
       "protocol_version": "5.2",
@@ -331,42 +331,42 @@
     },
     {
       "id": "CO-ING-6-2026-W20-p2-final-review-008-v1",
-      "statement": "Choose the synonym for a word related to p2-final-review.",
-      "context": "Scenario about p2-final-review in a Colombian school or city context.",
+      "statement": "Read: \"A: My brother is 16. B: My sister is 13.\" Which statement about the two is true?",
+      "context": "Comparing what two short family texts say.",
       "options": [
         {
           "letter": "A",
-          "text": "Unrelated",
-          "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "text": "The brother is 3 years older than the sister.",
+          "is_correct": true,
+          "feedback": "16 minus 13 is 3, so the brother is three years older than the sister."
         },
         {
           "letter": "B",
-          "text": "Synonym (Correct)",
-          "is_correct": true,
-          "feedback": "Correct! Well done."
+          "text": "The sister is older than the brother.",
+          "is_correct": false,
+          "feedback": "The brother is 16 and the sister is 13, so the brother is the older of the two."
         },
         {
           "letter": "C",
-          "text": "Antonym",
+          "text": "The brother and the sister are the same age.",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "The two ages given are 16 and 13, which are three years apart rather than equal."
         },
         {
           "letter": "D",
-          "text": "Homonym",
+          "text": "The text does not give enough information to compare them.",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "Both ages are stated explicitly, so the comparison can be made directly from the numbers given."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "This question evaluates the student's ability to analyze the topic of Period 2 Final Review at an A2 level. It focuses on Colombian contexts and standard A2 grammar.\n\n---",
-      "difficulty": "8",
+      "correct_answer": "A",
+      "explanation": "The correct answer is \"The brother is 3 years older than the sister\". A family text almost always carries ages, and comparing two of them is the first step towards the comparisons the reading section of the exam demands. Two of the distractors contradict the numbers and one claims the text is insufficient when it is not, so the student has to actually use the data rather than judge by its appearance.",
+      "difficulty": "5",
       "images": [],
       "tags": [],
       "bloom": "Analyze",
       "icfes_type": "Reading Comprehension",
-      "expected_success": 0.75,
+      "expected_success": 0.68,
       "bundle_id": "CO-ING-6-2026-W20-p2-final-review-001-MASTERY-bundle",
       "periodo": 20,
       "protocol_version": "5.2",
@@ -377,42 +377,42 @@
     },
     {
       "id": "CO-ING-6-2026-W20-p2-final-review-009-v1",
-      "statement": "Which of these belongs to p2-final-review?",
-      "context": "Scenario about p2-final-review in a Colombian school or city context.",
+      "statement": "A student writes: \"My uncle is my mother's brother.\" The teacher says there is one error. What is it?",
+      "context": "Repairing a sentence in which the relationship is expressed wrongly.",
       "options": [
         {
           "letter": "A",
-          "text": "Not this one",
+          "text": "The verb is missing.",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "There is no verb in this sentence in the original either, and the relationship noun phrase stands correctly without one."
         },
         {
           "letter": "B",
-          "text": "This one (Correct)",
-          "is_correct": true,
-          "feedback": "Correct! Well done."
+          "text": "Uncle should be aunt.",
+          "is_correct": false,
+          "feedback": "Uncle is the correct word, since the person described is a brother rather than a sister of the mother."
         },
         {
           "letter": "C",
-          "text": "Neither",
+          "text": "The possessive should be a plural.",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "My refers to a single mother, and the singular possessive is the correct form here."
         },
         {
           "letter": "D",
-          "text": "Both",
-          "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "text": "There is no error in the sentence.",
+          "is_correct": true,
+          "feedback": "The brother of one's mother is one's uncle, so the relationship named on both sides of the sentence is accurate."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "This question evaluates the student's ability to analyze the topic of Period 2 Final Review at an A2 level. It focuses on Colombian contexts and standard A2 grammar.\n\n---",
-      "difficulty": "10",
+      "correct_answer": "D",
+      "explanation": "The correct answer is \"There is no error in the sentence\". Accepting a correct sentence is a real skill, and this period's topics are exactly where students over-correct and start inventing faults. Each distractor names a plausible-sounding defect that is simply not present, so the student has to verify rather than assume, which is the evaluative habit the hardest items in an exam require.",
+      "difficulty": "5",
       "images": [],
       "tags": [],
       "bloom": "Analyze",
-      "icfes_type": "Reading Comprehension",
-      "expected_success": 0.75,
+      "icfes_type": "Grammatical Knowledge",
+      "expected_success": 0.65,
       "bundle_id": "CO-ING-6-2026-W20-p2-final-review-001-MASTERY-bundle",
       "periodo": 20,
       "protocol_version": "5.2",
@@ -423,42 +423,42 @@
     },
     {
       "id": "CO-ING-6-2026-W20-p2-final-review-010-v1",
-      "statement": "Predict the next word in the p2-final-review context.",
-      "context": "Scenario about p2-final-review in a Colombian school or city context.",
+      "statement": "You have to present your family to the class. Which introduction is best?",
+      "context": "Choosing the best way to present a family to a new class.",
       "options": [
         {
           "letter": "A",
-          "text": "Maybe",
+          "text": "My family is big and I like it.",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "This is an opinion rather than a presentation, and it names none of the family members."
         },
         {
           "letter": "B",
-          "text": "Impossible",
-          "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "text": "In my family there are four people: my father, my mother, my brother and me.",
+          "is_correct": true,
+          "feedback": "This gives the number, the order from oldest to youngest and the relations, so the class can picture the family clearly."
         },
         {
           "letter": "C",
-          "text": "Wrong prediction",
+          "text": "My family is four, and it is very nice.",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "The number is given but no relation is named, so the class learns nothing about the people."
         },
         {
           "letter": "D",
-          "text": "Correct prediction",
-          "is_correct": true,
-          "feedback": "Correct! Well done."
+          "text": "There are my family and my house.",
+          "is_correct": false,
+          "feedback": "This is not a grammatical presentation of the family and it names no individual person."
         }
       ],
-      "correct_answer": "D",
-      "explanation": "This question evaluates the student's ability to evaluate the topic of Period 2 Final Review at an A2 level. It focuses on Colombian contexts and standard A2 grammar.\n\n---",
-      "difficulty": "10",
+      "correct_answer": "B",
+      "explanation": "The correct answer is the one that names each member and their relation. A presentation is judged by whether the listener can reconstruct the family afterwards, and only the full version supplies what is needed. Choosing detail over evaluation is a judgement the exam rewards, and it also consolidates the period's core skill of moving between a relation and the person who holds it.\n\n---",
+      "difficulty": "5",
       "images": [],
       "tags": [],
       "bloom": "Evaluate",
-      "icfes_type": "Reading Comprehension",
-      "expected_success": 0.75,
+      "icfes_type": "Pragmatic Competence",
+      "expected_success": 0.62,
       "bundle_id": "CO-ING-6-2026-W20-p2-final-review-001-MASTERY-bundle",
       "periodo": 20,
       "protocol_version": "5.2",

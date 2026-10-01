@@ -292,25 +292,25 @@
           "letter": "B",
           "text": "shouldn't",
           "is_correct": false,
-          "feedback": "Incorrect. This would be bad advice for sustainability."
+          "feedback": "'Shouldn't use' would advise against solar panels, which is the opposite of what a sustainable home should do."
         },
         {
           "letter": "A",
           "text": "can",
           "is_correct": true,
-          "feedback": "Correct! Shows a possibility that aligns with sustainability goals."
+          "feedback": "'Can use' states a possibility, which is exactly what a sustainable home has: solar panels producing its own electricity."
         },
         {
           "letter": "C",
           "text": "mustn't",
           "is_correct": false,
-          "feedback": "Incorrect. Prohibition."
+          "feedback": "'Mustn't use' forbids solar panels, the opposite of the sustainability goal described."
         },
         {
           "letter": "D",
           "text": "isn't",
           "is_correct": false,
-          "feedback": "Incorrect. Grammatically wrong."
+          "feedback": "'Isn't' is not a modal verb, so it cannot precede the base form 'use' in this structure."
         }
       ],
       "correct_answer": "A",
@@ -430,25 +430,25 @@
           "letter": "A",
           "text": "Using all the available water today because we are thirsty.",
           "is_correct": false,
-          "feedback": "Incorrect. This compromises the future."
+          "feedback": "Using all the water today leaves nothing for future generations, which is what the definition rules out."
         },
         {
           "letter": "B",
           "text": "Cutting down all the forests to build many houses quickly.",
           "is_correct": false,
-          "feedback": "Incorrect. This compromises the future."
+          "feedback": "Cutting down the forests destroys a resource that future generations need to survive."
         },
         {
           "letter": "C",
           "text": "Using resources carefully so that there is enough for people in 50 years.",
           "is_correct": true,
-          "feedback": "Correct! This balances current needs with future needs."
+          "feedback": "Using resources carefully so that there is enough for people in 50 years is exactly what the definition asks for: meeting present needs without compromising future ones."
         },
         {
           "letter": "D",
           "text": "Ignoring the environment because technology will solve everything.",
           "is_correct": false,
-          "feedback": "Incorrect. This is risky and doesn't meet the definition of careful resource management."
+          "feedback": "Ignoring the environment relies on hope rather than on careful management, so it does not meet the definition."
         }
       ],
       "correct_answer": "C",

@@ -523,13 +523,13 @@
           "letter": "B",
           "text": "$Q = 12$",
           "is_correct": false,
-          "feedback": "No satisface la igualdad de las expresiones."
+          "feedback": "Con Q = 12 la oferta da 50 - 2(12) = 26 mientras la demanda da 10 + 3(12) = 46. Los precios no coinciden, así que no hay equilibrio."
         },
         {
           "letter": "C",
           "text": "$Q = 5$",
           "is_correct": false,
-          "feedback": "No satisface la igualdad de las expresiones."
+          "feedback": "Con Q = 5 la oferta da 50 - 2(5) = 40 y la demanda 10 + 3(5) = 25. Como 40 no es igual a 25, tampoco hay equilibrio."
         }
       ],
       "correct_answer": "D",

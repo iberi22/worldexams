@@ -61,7 +61,7 @@
           "letter": "B",
           "text": "Dividiendo.",
           "is_correct": false,
-          "feedback": "Incorrecto. Operación no correspondiente."
+          "feedback": "Dividir no deshace una suma. El término que suma pasa al otro lado restándolo, porque sumar y restar son operaciones inversas."
         },
         {
           "letter": "A",
@@ -73,7 +73,7 @@
           "letter": "C",
           "text": "Multiplicando.",
           "is_correct": false,
-          "feedback": "Incorrecto. Operación no correspondiente."
+          "feedback": "Multiplicar cambiaría la igualdad en lugar de despejarla. La operación inversa de sumar es restar en el lado contrario."
         },
         {
           "letter": "D",
@@ -748,13 +748,13 @@
           "letter": "C",
           "text": "$c - b - a$",
           "is_correct": false,
-          "feedback": "Incorrecto. a divide."
+          "feedback": "En c - b - a el a se resta en vez de dividir: despejar ax + b = c exige restar b y después dividir entre a."
         },
         {
           "letter": "D",
           "text": "$a(c - b)$",
           "is_correct": false,
-          "feedback": "Incorrecto. a divide."
+          "feedback": "Aquí a multiplica a (c - b) cuando lo que corresponde es dividir entre a, porque a es el coeficiente de x."
         }
       ],
       "correct_answer": "B",
@@ -799,7 +799,7 @@
           "letter": "C",
           "text": "RD\\$ 250",
           "is_correct": false,
-          "feedback": "Incorrecto. Insuficiente."
+          "feedback": "Con x = 250 los tres amigos tendrían 250, 500 y 1000, que suman 1750 y no los 3000 del total. El sistema $5x + 500 = 3000$ exige $x = 500$."
         }
       ],
       "correct_answer": "D",

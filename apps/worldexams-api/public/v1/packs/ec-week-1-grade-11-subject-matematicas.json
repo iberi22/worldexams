@@ -16,25 +16,25 @@
           "letter": "A",
           "text": "$\\mathbb{N}$ (Números Naturales)",
           "is_correct": false,
-          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+          "feedback": "$3.75$ tiene parte decimal, y los números naturales no la tienen; además el resultado no es entero."
         },
         {
           "letter": "B",
           "text": "$\\mathbb{I}$ (Números Irracionales)",
           "is_correct": false,
-          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+          "feedback": "Todo decimal finito, como $3.75$, es racional; los irracionales son los decimales infinitos, como $\\sqrt{2}$."
         },
         {
           "letter": "C",
           "text": "$\\mathbb{Z}$ (Números Enteros)",
           "is_correct": false,
-          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+          "feedback": "$3.75$ no es entero porque lleva parte decimal; los enteros no admiten decimales."
         },
         {
           "letter": "D",
           "text": "$\\mathbb{Q}$ (Números Racionales)",
           "is_correct": true,
-          "feedback": "Correcto. ¡Excelente análisis!"
+          "feedback": "Correcto. $15/4 = 3.75$ se puede escribir como fracción de dos enteros, que es la definición de número racional."
         }
       ],
       "correct_answer": "D",
@@ -61,25 +61,25 @@
           "letter": "A",
           "text": "$\\mathbb{I}$ (Números Irracionales)",
           "is_correct": false,
-          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+          "feedback": "Todo decimal finito, como $3.75$, es racional; los irracionales son los decimales infinitos, como $\\sqrt{2}$."
         },
         {
           "letter": "B",
           "text": "$\\mathbb{N}$ (Números Naturales)",
           "is_correct": false,
-          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+          "feedback": "$3.75$ tiene parte decimal, y los números naturales no la tienen; además el resultado no es entero."
         },
         {
           "letter": "C",
           "text": "$\\mathbb{Q}$ (Números Racionales)",
           "is_correct": true,
-          "feedback": "Correcto. ¡Excelente análisis!"
+          "feedback": "Correcto. $15/4 = 3.75$ se puede escribir como fracción de dos enteros, que es la definición de número racional."
         },
         {
           "letter": "D",
           "text": "$\\mathbb{Z}$ (Números Enteros)",
           "is_correct": false,
-          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+          "feedback": "$3.75$ no es entero porque lleva parte decimal; los enteros no admiten decimales."
         }
       ],
       "correct_answer": "C",
@@ -106,25 +106,25 @@
           "letter": "A",
           "text": "$\\mathbb{N}$ (Números Naturales)",
           "is_correct": false,
-          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+          "feedback": "$3.75$ tiene parte decimal, y los números naturales no la tienen; además el resultado no es entero."
         },
         {
           "letter": "B",
           "text": "$\\mathbb{Z}$ (Números Enteros)",
           "is_correct": false,
-          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+          "feedback": "$3.75$ no es entero porque lleva parte decimal; los enteros no admiten decimales."
         },
         {
           "letter": "C",
           "text": "$\\mathbb{I}$ (Números Irracionales)",
           "is_correct": false,
-          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+          "feedback": "Todo decimal finito, como $3.75$, es racional; los irracionales son los decimales infinitos, como $\\sqrt{2}$."
         },
         {
           "letter": "D",
           "text": "$\\mathbb{Q}$ (Números Racionales)",
           "is_correct": true,
-          "feedback": "Correcto. ¡Excelente análisis!"
+          "feedback": "Correcto. $15/4 = 3.75$ se puede escribir como fracción de dos enteros, que es la definición de número racional."
         }
       ],
       "correct_answer": "D",
@@ -151,25 +151,25 @@
           "letter": "A",
           "text": "$\\mathbb{Q}$ (Números Racionales)",
           "is_correct": true,
-          "feedback": "Correcto. ¡Excelente análisis!"
+          "feedback": "Correcto. $15/4 = 3.75$ se puede escribir como fracción de dos enteros, que es la definición de número racional."
         },
         {
           "letter": "B",
           "text": "$\\mathbb{Z}$ (Números Enteros)",
           "is_correct": false,
-          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+          "feedback": "$3.75$ no es entero porque lleva parte decimal; los enteros no admiten decimales."
         },
         {
           "letter": "C",
           "text": "$\\mathbb{I}$ (Números Irracionales)",
           "is_correct": false,
-          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+          "feedback": "Todo decimal finito, como $3.75$, es racional; los irracionales son los decimales infinitos, como $\\sqrt{2}$."
         },
         {
           "letter": "D",
           "text": "$\\mathbb{N}$ (Números Naturales)",
           "is_correct": false,
-          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+          "feedback": "$3.75$ tiene parte decimal, y los números naturales no la tienen; además el resultado no es entero."
         }
       ],
       "correct_answer": "A",
@@ -196,25 +196,25 @@
           "letter": "A",
           "text": "Número natural negativo",
           "is_correct": false,
-          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+          "feedback": "En $\\mathbb{N}$ no existen los números negativos, y menos aún con parte decimal como $-3.5$."
         },
         {
           "letter": "B",
           "text": "Número entero negativo",
           "is_correct": false,
-          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+          "feedback": "$-3.5$ no es entero porque tiene parte decimal .5; los enteros son $\\ldots, -3, -2, -1, 0, 1, \\ldots$."
         },
         {
           "letter": "C",
           "text": "Número decimal racional negativo",
           "is_correct": true,
-          "feedback": "Correcto. ¡Excelente análisis!"
+          "feedback": "Correcto. $-3.5$ es negativo, tiene parte decimal finita y por eso es racional: exactamente $\\frac{-7}{2}$."
         },
         {
           "letter": "D",
           "text": "Número irracional negativo",
           "is_correct": false,
-          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+          "feedback": "Un decimal finito siempre es racional: $-3.5 = -7/2$. Los irracionales negativos, como $-\\sqrt{2}$, tienen decimales infinitos."
         }
       ],
       "correct_answer": "C",
@@ -241,25 +241,25 @@
           "letter": "A",
           "text": "Número natural negativo",
           "is_correct": false,
-          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+          "feedback": "En $\\mathbb{N}$ no existen los números negativos, y menos aún con parte decimal como $-3.5$."
         },
         {
           "letter": "B",
           "text": "Número entero negativo",
           "is_correct": false,
-          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+          "feedback": "$-3.5$ no es entero porque tiene parte decimal .5; los enteros son $\\ldots, -3, -2, -1, 0, 1, \\ldots$."
         },
         {
           "letter": "C",
           "text": "Número decimal racional negativo",
           "is_correct": true,
-          "feedback": "Correcto. ¡Excelente análisis!"
+          "feedback": "Correcto. $-3.5$ es negativo, tiene parte decimal finita y por eso es racional: exactamente $\\frac{-7}{2}$."
         },
         {
           "letter": "D",
           "text": "Número irracional negativo",
           "is_correct": false,
-          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+          "feedback": "Un decimal finito siempre es racional: $-3.5 = -7/2$. Los irracionales negativos, como $-\\sqrt{2}$, tienen decimales infinitos."
         }
       ],
       "correct_answer": "C",
@@ -286,25 +286,25 @@
           "letter": "A",
           "text": "Número decimal racional negativo",
           "is_correct": true,
-          "feedback": "Correcto. ¡Excelente análisis!"
+          "feedback": "Correcto. $-3.5$ es negativo, tiene parte decimal finita y por eso es racional: exactamente $\\frac{-7}{2}$."
         },
         {
           "letter": "B",
           "text": "Número entero negativo",
           "is_correct": false,
-          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+          "feedback": "$-3.5$ no es entero porque tiene parte decimal .5; los enteros son $\\ldots, -3, -2, -1, 0, 1, \\ldots$."
         },
         {
           "letter": "C",
           "text": "Número irracional negativo",
           "is_correct": false,
-          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+          "feedback": "Un decimal finito siempre es racional: $-3.5 = -7/2$. Los irracionales negativos, como $-\\sqrt{2}$, tienen decimales infinitos."
         },
         {
           "letter": "D",
           "text": "Número natural negativo",
           "is_correct": false,
-          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+          "feedback": "En $\\mathbb{N}$ no existen los números negativos, y menos aún con parte decimal como $-3.5$."
         }
       ],
       "correct_answer": "A",
@@ -331,25 +331,25 @@
           "letter": "A",
           "text": "Número decimal racional negativo",
           "is_correct": true,
-          "feedback": "Correcto. ¡Excelente análisis!"
+          "feedback": "Correcto. $-3.5$ es negativo, tiene parte decimal finita y por eso es racional: exactamente $\\frac{-7}{2}$."
         },
         {
           "letter": "B",
           "text": "Número irracional negativo",
           "is_correct": false,
-          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+          "feedback": "Un decimal finito siempre es racional: $-3.5 = -7/2$. Los irracionales negativos, como $-\\sqrt{2}$, tienen decimales infinitos."
         },
         {
           "letter": "C",
           "text": "Número entero negativo",
           "is_correct": false,
-          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+          "feedback": "$-3.5$ no es entero porque tiene parte decimal .5; los enteros son $\\ldots, -3, -2, -1, 0, 1, \\ldots$."
         },
         {
           "letter": "D",
           "text": "Número natural negativo",
           "is_correct": false,
-          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+          "feedback": "En $\\mathbb{N}$ no existen los números negativos, y menos aún con parte decimal como $-3.5$."
         }
       ],
       "correct_answer": "A",
@@ -376,25 +376,25 @@
           "letter": "A",
           "text": "Número entero negativo",
           "is_correct": false,
-          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+          "feedback": "$-3.5$ no es entero porque tiene parte decimal .5; los enteros son $\\ldots, -3, -2, -1, 0, 1, \\ldots$."
         },
         {
           "letter": "B",
           "text": "Número natural negativo",
           "is_correct": false,
-          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+          "feedback": "En $\\mathbb{N}$ no existen los números negativos, y menos aún con parte decimal como $-3.5$."
         },
         {
           "letter": "C",
           "text": "Número irracional negativo",
           "is_correct": false,
-          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+          "feedback": "Un decimal finito siempre es racional: $-3.5 = -7/2$. Los irracionales negativos, como $-\\sqrt{2}$, tienen decimales infinitos."
         },
         {
           "letter": "D",
           "text": "Número decimal racional negativo",
           "is_correct": true,
-          "feedback": "Correcto. ¡Excelente análisis!"
+          "feedback": "Correcto. $-3.5$ es negativo, tiene parte decimal finita y por eso es racional: exactamente $\\frac{-7}{2}$."
         }
       ],
       "correct_answer": "D",
@@ -421,25 +421,25 @@
           "letter": "A",
           "text": "Número natural negativo",
           "is_correct": false,
-          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+          "feedback": "En $\\mathbb{N}$ no existen los números negativos, y menos aún con parte decimal como $-3.5$."
         },
         {
           "letter": "B",
           "text": "Número entero negativo",
           "is_correct": false,
-          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+          "feedback": "$-3.5$ no es entero porque tiene parte decimal .5; los enteros son $\\ldots, -3, -2, -1, 0, 1, \\ldots$."
         },
         {
           "letter": "C",
           "text": "Número irracional negativo",
           "is_correct": false,
-          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+          "feedback": "Un decimal finito siempre es racional: $-3.5 = -7/2$. Los irracionales negativos, como $-\\sqrt{2}$, tienen decimales infinitos."
         },
         {
           "letter": "D",
           "text": "Número decimal racional negativo",
           "is_correct": true,
-          "feedback": "Correcto. ¡Excelente análisis!"
+          "feedback": "Correcto. $-3.5$ es negativo, tiene parte decimal finita y por eso es racional: exactamente $\\frac{-7}{2}$."
         }
       ],
       "correct_answer": "D",
@@ -466,25 +466,25 @@
           "letter": "A",
           "text": "Tanto $P$ como $M$ pertenecen únicamente al conjunto de los números complejos imaginarios.",
           "is_correct": false,
-          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+          "feedback": "$P$ y $M$ son cantidades reales positivas. Ningún número real pertenece al conjunto de los imaginarios puros, así que la afirmación es falsa."
         },
         {
           "letter": "B",
           "text": "La población $P$ pertenece a los números irracionales $\\mathbb{I}$.",
           "is_correct": false,
-          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+          "feedback": "La población se cuenta en personas, y un número de personas siempre es un entero positivo; además todo entero positivo es racional, nunca irracional."
         },
         {
           "letter": "C",
           "text": "Los presupuestos en dólares $M$ solo pueden pertenecer a los números enteros negativos $\\mathbb{Z}^-$.",
           "is_correct": false,
-          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+          "feedback": "Un presupuesto mensual es una cantidad de dinero positiva: pertenece a $\\mathbb{R}^+$, nunca a los enteros negativos."
         },
         {
           "letter": "D",
           "text": "La población $P$ es un subconjunto de los números enteros positivos $\\mathbb{Z}^+$, mientras que los presupuestos $M$ pertenecen a $\\mathbb{R}^+$.",
           "is_correct": true,
-          "feedback": "Correcto. ¡Excelente análisis!"
+          "feedback": "Correcto. La población se cuenta en personas enteras, y cada presupuesto es una cantidad real positiva de dólares, por eso $P \\subset \\mathbb{Z}^+$ y $M \\subset \\mathbb{R}^+$."
         }
       ],
       "correct_answer": "D",
@@ -511,25 +511,25 @@
           "letter": "A",
           "text": "La población $P$ es un subconjunto de los números enteros positivos $\\mathbb{Z}^+$, mientras que los presupuestos $M$ pertenecen a $\\mathbb{R}^+$.",
           "is_correct": true,
-          "feedback": "Correcto. ¡Excelente análisis!"
+          "feedback": "Correcto. La población se cuenta en personas enteras, y cada presupuesto es una cantidad real positiva de dólares, por eso $P \\subset \\mathbb{Z}^+$ y $M \\subset \\mathbb{R}^+$."
         },
         {
           "letter": "B",
           "text": "La población $P$ pertenece a los números irracionales $\\mathbb{I}$.",
           "is_correct": false,
-          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+          "feedback": "La población se cuenta en personas, y un número de personas siempre es un entero positivo; además todo entero positivo es racional, nunca irracional."
         },
         {
           "letter": "C",
           "text": "Los presupuestos en dólares $M$ solo pueden pertenecer a los números enteros negativos $\\mathbb{Z}^-$.",
           "is_correct": false,
-          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+          "feedback": "Un presupuesto mensual es una cantidad de dinero positiva: pertenece a $\\mathbb{R}^+$, nunca a los enteros negativos."
         },
         {
           "letter": "D",
           "text": "Tanto $P$ como $M$ pertenecen únicamente al conjunto de los números complejos imaginarios.",
           "is_correct": false,
-          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+          "feedback": "$P$ y $M$ son cantidades reales positivas. Ningún número real pertenece al conjunto de los imaginarios puros, así que la afirmación es falsa."
         }
       ],
       "correct_answer": "A",
@@ -556,25 +556,25 @@
           "letter": "A",
           "text": "Los presupuestos en dólares $M$ solo pueden pertenecer a los números enteros negativos $\\mathbb{Z}^-$.",
           "is_correct": false,
-          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+          "feedback": "Un presupuesto mensual es una cantidad de dinero positiva: pertenece a $\\mathbb{R}^+$, nunca a los enteros negativos."
         },
         {
           "letter": "B",
           "text": "La población $P$ es un subconjunto de los números enteros positivos $\\mathbb{Z}^+$, mientras que los presupuestos $M$ pertenecen a $\\mathbb{R}^+$.",
           "is_correct": true,
-          "feedback": "Correcto. ¡Excelente análisis!"
+          "feedback": "Correcto. La población se cuenta en personas enteras, y cada presupuesto es una cantidad real positiva de dólares, por eso $P \\subset \\mathbb{Z}^+$ y $M \\subset \\mathbb{R}^+$."
         },
         {
           "letter": "C",
           "text": "La población $P$ pertenece a los números irracionales $\\mathbb{I}$.",
           "is_correct": false,
-          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+          "feedback": "La población se cuenta en personas, y un número de personas siempre es un entero positivo; además todo entero positivo es racional, nunca irracional."
         },
         {
           "letter": "D",
           "text": "Tanto $P$ como $M$ pertenecen únicamente al conjunto de los números complejos imaginarios.",
           "is_correct": false,
-          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+          "feedback": "$P$ y $M$ son cantidades reales positivas. Ningún número real pertenece al conjunto de los imaginarios puros, así que la afirmación es falsa."
         }
       ],
       "correct_answer": "B",
@@ -601,25 +601,25 @@
           "letter": "A",
           "text": "La población $P$ es un subconjunto de los números enteros positivos $\\mathbb{Z}^+$, mientras que los presupuestos $M$ pertenecen a $\\mathbb{R}^+$.",
           "is_correct": true,
-          "feedback": "Correcto. ¡Excelente análisis!"
+          "feedback": "Correcto. La población se cuenta en personas enteras, y cada presupuesto es una cantidad real positiva de dólares, por eso $P \\subset \\mathbb{Z}^+$ y $M \\subset \\mathbb{R}^+$."
         },
         {
           "letter": "B",
           "text": "Tanto $P$ como $M$ pertenecen únicamente al conjunto de los números complejos imaginarios.",
           "is_correct": false,
-          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+          "feedback": "$P$ y $M$ son cantidades reales positivas. Ningún número real pertenece al conjunto de los imaginarios puros, así que la afirmación es falsa."
         },
         {
           "letter": "C",
           "text": "Los presupuestos en dólares $M$ solo pueden pertenecer a los números enteros negativos $\\mathbb{Z}^-$.",
           "is_correct": false,
-          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+          "feedback": "Un presupuesto mensual es una cantidad de dinero positiva: pertenece a $\\mathbb{R}^+$, nunca a los enteros negativos."
         },
         {
           "letter": "D",
           "text": "La población $P$ pertenece a los números irracionales $\\mathbb{I}$.",
           "is_correct": false,
-          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+          "feedback": "La población se cuenta en personas, y un número de personas siempre es un entero positivo; además todo entero positivo es racional, nunca irracional."
         }
       ],
       "correct_answer": "A",
@@ -646,25 +646,25 @@
           "letter": "A",
           "text": "La población $P$ es un subconjunto de los números enteros positivos $\\mathbb{Z}^+$, mientras que los presupuestos $M$ pertenecen a $\\mathbb{R}^+$.",
           "is_correct": true,
-          "feedback": "Correcto. ¡Excelente análisis!"
+          "feedback": "Correcto. La población se cuenta en personas enteras, y cada presupuesto es una cantidad real positiva de dólares, por eso $P \\subset \\mathbb{Z}^+$ y $M \\subset \\mathbb{R}^+$."
         },
         {
           "letter": "B",
           "text": "La población $P$ pertenece a los números irracionales $\\mathbb{I}$.",
           "is_correct": false,
-          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+          "feedback": "La población se cuenta en personas, y un número de personas siempre es un entero positivo; además todo entero positivo es racional, nunca irracional."
         },
         {
           "letter": "C",
           "text": "Tanto $P$ como $M$ pertenecen únicamente al conjunto de los números complejos imaginarios.",
           "is_correct": false,
-          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+          "feedback": "$P$ y $M$ son cantidades reales positivas. Ningún número real pertenece al conjunto de los imaginarios puros, así que la afirmación es falsa."
         },
         {
           "letter": "D",
           "text": "Los presupuestos en dólares $M$ solo pueden pertenecer a los números enteros negativos $\\mathbb{Z}^-$.",
           "is_correct": false,
-          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+          "feedback": "Un presupuesto mensual es una cantidad de dinero positiva: pertenece a $\\mathbb{R}^+$, nunca a los enteros negativos."
         }
       ],
       "correct_answer": "A",
@@ -691,25 +691,25 @@
           "letter": "A",
           "text": "La población $P$ pertenece a los números irracionales $\\mathbb{I}$.",
           "is_correct": false,
-          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+          "feedback": "La población se cuenta en personas, y un número de personas siempre es un entero positivo; además todo entero positivo es racional, nunca irracional."
         },
         {
           "letter": "B",
           "text": "La población $P$ es un subconjunto de los números enteros positivos $\\mathbb{Z}^+$, mientras que los presupuestos $M$ pertenecen a $\\mathbb{R}^+$.",
           "is_correct": true,
-          "feedback": "Correcto. ¡Excelente análisis!"
+          "feedback": "Correcto. La población se cuenta en personas enteras, y cada presupuesto es una cantidad real positiva de dólares, por eso $P \\subset \\mathbb{Z}^+$ y $M \\subset \\mathbb{R}^+$."
         },
         {
           "letter": "C",
           "text": "Los presupuestos en dólares $M$ solo pueden pertenecer a los números enteros negativos $\\mathbb{Z}^-$.",
           "is_correct": false,
-          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+          "feedback": "Un presupuesto mensual es una cantidad de dinero positiva: pertenece a $\\mathbb{R}^+$, nunca a los enteros negativos."
         },
         {
           "letter": "D",
           "text": "Tanto $P$ como $M$ pertenecen únicamente al conjunto de los números complejos imaginarios.",
           "is_correct": false,
-          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+          "feedback": "$P$ y $M$ son cantidades reales positivas. Ningún número real pertenece al conjunto de los imaginarios puros, así que la afirmación es falsa."
         }
       ],
       "correct_answer": "B",
@@ -736,25 +736,25 @@
           "letter": "A",
           "text": "Al conjunto de los números naturales ($\\mathbb{N}$)",
           "is_correct": false,
-          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+          "feedback": "En $\\mathbb{N}$ todos los elementos son positivos y su cuadrado nunca es $-4$; de hecho el enunciado pide ampliar los reales, y para eso están los complejos."
         },
         {
           "letter": "B",
           "text": "Al conjunto de los números racionales ($\\mathbb{Q}$)",
           "is_correct": false,
-          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+          "feedback": "Las racionales son reales, y $x^2 = -4$ no tiene ninguna solución real: el cuadrado de un número real nunca es negativo. La raíz es $2i$, no un racional."
         },
         {
           "letter": "C",
           "text": "Al conjunto de los números irracionales ($\\mathbb{I}$)",
           "is_correct": false,
-          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+          "feedback": "Un irracional es un número real que no puede escribirse como fracción; aquí la solución $2i$ es imaginaria pura, no real, así que no pertenece a $\\mathbb{I}$."
         },
         {
           "letter": "D",
           "text": "Al conjunto de los números complejos ($\\mathbb{C}$)",
           "is_correct": true,
-          "feedback": "Correcto. ¡Excelente análisis!"
+          "feedback": "Correcto. $x^2 = -4$ no tiene soluciones reales, por eso $x = \\pm\\sqrt{-4} = \\pm 2i$, que pertenece a los números complejos."
         }
       ],
       "correct_answer": "D",
@@ -781,25 +781,25 @@
           "letter": "A",
           "text": "Al conjunto de los números racionales ($\\mathbb{Q}$)",
           "is_correct": false,
-          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+          "feedback": "Las racionales son reales, y $x^2 = -4$ no tiene ninguna solución real: el cuadrado de un número real nunca es negativo. La raíz es $2i$, no un racional."
         },
         {
           "letter": "B",
           "text": "Al conjunto de los números irracionales ($\\mathbb{I}$)",
           "is_correct": false,
-          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+          "feedback": "Un irracional es un número real que no puede escribirse como fracción; aquí la solución $2i$ es imaginaria pura, no real, así que no pertenece a $\\mathbb{I}$."
         },
         {
           "letter": "C",
           "text": "Al conjunto de los números complejos ($\\mathbb{C}$)",
           "is_correct": true,
-          "feedback": "Correcto. ¡Excelente análisis!"
+          "feedback": "Correcto. $x^2 = -4$ no tiene soluciones reales, por eso $x = \\pm\\sqrt{-4} = \\pm 2i$, que pertenece a los números complejos."
         },
         {
           "letter": "D",
           "text": "Al conjunto de los números naturales ($\\mathbb{N}$)",
           "is_correct": false,
-          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+          "feedback": "En $\\mathbb{N}$ todos los elementos son positivos y su cuadrado nunca es $-4$; de hecho el enunciado pide ampliar los reales, y para eso están los complejos."
         }
       ],
       "correct_answer": "C",
@@ -826,25 +826,25 @@
           "letter": "A",
           "text": "Al conjunto de los números racionales ($\\mathbb{Q}$)",
           "is_correct": false,
-          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+          "feedback": "Las racionales son reales, y $x^2 = -4$ no tiene ninguna solución real: el cuadrado de un número real nunca es negativo. La raíz es $2i$, no un racional."
         },
         {
           "letter": "B",
           "text": "Al conjunto de los números irracionales ($\\mathbb{I}$)",
           "is_correct": false,
-          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+          "feedback": "Un irracional es un número real que no puede escribirse como fracción; aquí la solución $2i$ es imaginaria pura, no real, así que no pertenece a $\\mathbb{I}$."
         },
         {
           "letter": "C",
           "text": "Al conjunto de los números complejos ($\\mathbb{C}$)",
           "is_correct": true,
-          "feedback": "Correcto. ¡Excelente análisis!"
+          "feedback": "Correcto. $x^2 = -4$ no tiene soluciones reales, por eso $x = \\pm\\sqrt{-4} = \\pm 2i$, que pertenece a los números complejos."
         },
         {
           "letter": "D",
           "text": "Al conjunto de los números naturales ($\\mathbb{N}$)",
           "is_correct": false,
-          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+          "feedback": "En $\\mathbb{N}$ todos los elementos son positivos y su cuadrado nunca es $-4$; de hecho el enunciado pide ampliar los reales, y para eso están los complejos."
         }
       ],
       "correct_answer": "C",
@@ -871,25 +871,25 @@
           "letter": "A",
           "text": "Al conjunto de los números irracionales ($\\mathbb{I}$)",
           "is_correct": false,
-          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+          "feedback": "Un irracional es un número real que no puede escribirse como fracción; aquí la solución $2i$ es imaginaria pura, no real, así que no pertenece a $\\mathbb{I}$."
         },
         {
           "letter": "B",
           "text": "Al conjunto de los números naturales ($\\mathbb{N}$)",
           "is_correct": false,
-          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+          "feedback": "En $\\mathbb{N}$ todos los elementos son positivos y su cuadrado nunca es $-4$; de hecho el enunciado pide ampliar los reales, y para eso están los complejos."
         },
         {
           "letter": "C",
           "text": "Al conjunto de los números racionales ($\\mathbb{Q}$)",
           "is_correct": false,
-          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+          "feedback": "Las racionales son reales, y $x^2 = -4$ no tiene ninguna solución real: el cuadrado de un número real nunca es negativo. La raíz es $2i$, no un racional."
         },
         {
           "letter": "D",
           "text": "Al conjunto de los números complejos ($\\mathbb{C}$)",
           "is_correct": true,
-          "feedback": "Correcto. ¡Excelente análisis!"
+          "feedback": "Correcto. $x^2 = -4$ no tiene soluciones reales, por eso $x = \\pm\\sqrt{-4} = \\pm 2i$, que pertenece a los números complejos."
         }
       ],
       "correct_answer": "D",

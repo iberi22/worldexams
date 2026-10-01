@@ -9,42 +9,42 @@
   "questions": [
     {
       "id": "CO-ING-6-2026-W27-sports-001-v1",
-      "statement": "This is a review question about sports.",
-      "context": "Scenario about sports in a Colombian school or city context.",
+      "statement": "Which piece of equipment do you need to play table tennis?",
+      "context": "Matching a sport to the equipment it needs.",
       "options": [
         {
           "letter": "A",
-          "text": "Option D",
-          "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "text": "a racket",
+          "is_correct": true,
+          "feedback": "A racket is the paddle used to hit the ball in table tennis, so it is the equipment that sport requires."
         },
         {
           "letter": "B",
-          "text": "Option B",
+          "text": "a football",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "A football is the ball used in soccer, not the implement struck in table tennis."
         },
         {
           "letter": "C",
-          "text": "Option C",
+          "text": "a rope",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "A rope is the equipment for tug of war, and it has no role in table tennis."
         },
         {
           "letter": "D",
-          "text": "Option A (Correct)",
-          "is_correct": true,
-          "feedback": "Correct! Well done."
+          "text": "a net",
+          "is_correct": false,
+          "feedback": "A net is used in volleyball and tennis, and table tennis is played with a very small or no net at all."
         }
       ],
-      "correct_answer": "D",
-      "explanation": "This question evaluates the student's ability to remember the topic of Sports and Equipment at an A2 level. It focuses on Colombian contexts and standard A2 grammar.\n\n---",
-      "difficulty": "4",
+      "correct_answer": "A",
+      "explanation": "The correct answer is \"a racket\". Pairing a sport with the equipment it needs is the most reliable way to learn both sets of words, and it works because the equipment is something a student can picture being used. Football is a particularly important sport in Colombia, so distinguishing its vocabulary from the racket sports is a practical need rather than a detail.",
+      "difficulty": "3",
       "images": [],
       "tags": [],
       "bloom": "Remember",
-      "icfes_type": "Reading Comprehension",
-      "expected_success": 0.75,
+      "icfes_type": "Lexical Knowledge",
+      "expected_success": 0.82,
       "bundle_id": "CO-ING-6-2026-W27-sports-001-MASTERY-bundle",
       "periodo": 27,
       "protocol_version": "5.2",
@@ -55,42 +55,42 @@
     },
     {
       "id": "CO-ING-6-2026-W27-sports-002-v1",
-      "statement": "Select the correct A2 level use for sports.",
-      "context": "Scenario about sports in a Colombian school or city context.",
+      "statement": "Which sentence is correct?",
+      "context": "Choosing the correct article with a piece of sports equipment.",
       "options": [
         {
           "letter": "A",
-          "text": "Structure 2",
+          "text": "She plays with the racket of every Saturday.",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "The article is wrong for a first mention and the phrase of every Saturday does not belong in this construction."
         },
         {
           "letter": "B",
-          "text": "Structure 4",
+          "text": "She plays with racket every Saturday.",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "A single countable object needs the article, so leaving it out makes the sentence incomplete."
         },
         {
           "letter": "C",
-          "text": "Structure 3",
+          "text": "She plays with a rackets every Saturday.",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "A single racket takes the singular, and the plural rackets would need a word such as two in front of it."
         },
         {
           "letter": "D",
-          "text": "Structure 1 (Correct)",
+          "text": "She plays with a racket every Saturday.",
           "is_correct": true,
-          "feedback": "Correct! Well done."
+          "feedback": "The first mention of a single piece of equipment takes the indefinite article, and racket begins with a consonant sound."
         }
       ],
       "correct_answer": "D",
-      "explanation": "This question evaluates the student's ability to remember the topic of Sports and Equipment at an A2 level. It focuses on Colombian contexts and standard A2 grammar.\n\n---",
-      "difficulty": "4",
+      "explanation": "The correct answer is \"She plays with a racket every Saturday\". Articles on countable equipment are worth settling because the student will meet them on every description of a sport across this week and the next. Getting the article right at the same time as the preposition with keeps the sentence production work manageable rather than overwhelming.",
+      "difficulty": "3",
       "images": [],
       "tags": [],
       "bloom": "Remember",
-      "icfes_type": "Reading Comprehension",
-      "expected_success": 0.75,
+      "icfes_type": "Grammatical Knowledge",
+      "expected_success": 0.8,
       "bundle_id": "CO-ING-6-2026-W27-sports-001-MASTERY-bundle",
       "periodo": 27,
       "protocol_version": "5.2",
@@ -101,42 +101,42 @@
     },
     {
       "id": "CO-ING-6-2026-W27-sports-003-v1",
-      "statement": "Identify the appropriate vocabulary for sports.",
-      "context": "Scenario about sports in a Colombian school or city context.",
+      "statement": "Read: \"In the 400 metres, runners run around the track. The winner is the first to cross the finish line.\" What is the 400 metres?",
+      "context": "Reading a short text about a school sports day.",
       "options": [
         {
           "letter": "A",
-          "text": "Word 1 (Correct)",
-          "is_correct": true,
-          "feedback": "Correct! Well done."
+          "text": "A jump of 400 metres.",
+          "is_correct": false,
+          "feedback": "The text describes running around a track rather than jumping a distance."
         },
         {
           "letter": "B",
-          "text": "Word 2",
-          "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "text": "A race over a distance of 400 metres.",
+          "is_correct": true,
+          "feedback": "The text describes running a stated distance and finishing first, which together define the event as a 400 metre race."
         },
         {
           "letter": "C",
-          "text": "Word 4",
+          "text": "A team game with 400 players.",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "Nothing in the text mentions teams or a number of players, only a distance and a finish."
         },
         {
           "letter": "D",
-          "text": "Word 3",
+          "text": "A swimming event.",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "The text describes a run on a track, which is the opposite of a swimming event."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "This question evaluates the student's ability to understand the topic of Sports and Equipment at an A2 level. It focuses on Colombian contexts and standard A2 grammar.\n\n---",
-      "difficulty": "6",
+      "correct_answer": "B",
+      "explanation": "The correct answer is \"A race over a distance of 400 metres\". The text never uses the word race, so the student has to build the definition from the two facts given, the distance and the finishing line. Assembling a meaning from separate pieces of a text rather than looking for a single keyword is the comprehension move that the exam's longer items depend on.",
+      "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Understand",
       "icfes_type": "Reading Comprehension",
-      "expected_success": 0.75,
+      "expected_success": 0.78,
       "bundle_id": "CO-ING-6-2026-W27-sports-001-MASTERY-bundle",
       "periodo": 27,
       "protocol_version": "5.2",
@@ -147,42 +147,42 @@
     },
     {
       "id": "CO-ING-6-2026-W27-sports-004-v1",
-      "statement": "Complete the sentence about sports.",
-      "context": "Scenario about sports in a Colombian school or city context.",
+      "statement": "Which sentence correctly says that a student plays football on Mondays?",
+      "context": "Using the present simple to talk about a regular sporting activity.",
       "options": [
         {
           "letter": "A",
-          "text": "Phrase D",
-          "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "text": "She plays football on Mondays.",
+          "is_correct": true,
+          "feedback": "The present simple with a day name describes a regular weekly activity, which is what the sentence states."
         },
         {
           "letter": "B",
-          "text": "Phrase A (Correct)",
-          "is_correct": true,
-          "feedback": "Correct! Well done."
+          "text": "She is playing football on Mondays.",
+          "is_correct": false,
+          "feedback": "The present continuous would suggest something happening now rather than a settled weekly habit."
         },
         {
           "letter": "C",
-          "text": "Phrase C",
+          "text": "She played football on Mondays.",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "The past simple reports a finished event, and this is a repeated routine rather than a single past occasion."
         },
         {
           "letter": "D",
-          "text": "Phrase B",
+          "text": "She play football on Mondays.",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "The subject is third person singular, so the verb has to be plays rather than the base form play."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "This question evaluates the student's ability to understand the topic of Sports and Equipment at an A2 level. It focuses on Colombian contexts and standard A2 grammar.\n\n---",
-      "difficulty": "6",
+      "correct_answer": "A",
+      "explanation": "The correct answer is \"She plays football on Mondays\". Talking about when a sport is practised is almost always about a regular routine, and the present simple is the form that carries that. Each distractor substitutes a different tense or a wrong verb form, so the student has to know not just that the present simple is needed but why each alternative fails here.",
+      "difficulty": "4",
       "images": [],
       "tags": [],
-      "bloom": "Understand",
-      "icfes_type": "Reading Comprehension",
-      "expected_success": 0.75,
+      "bloom": "Apply",
+      "icfes_type": "Grammatical Knowledge",
+      "expected_success": 0.76,
       "bundle_id": "CO-ING-6-2026-W27-sports-001-MASTERY-bundle",
       "periodo": 27,
       "protocol_version": "5.2",
@@ -193,42 +193,42 @@
     },
     {
       "id": "CO-ING-6-2026-W27-sports-005-v1",
-      "statement": "What is the best way to express sports?",
-      "context": "Scenario about sports in a Colombian school or city context.",
+      "statement": "What do you call the people who play a sport?",
+      "context": "Choosing the word for the people who take part in a sport.",
       "options": [
         {
           "letter": "A",
-          "text": "Incorrect way",
+          "text": "judges",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "Judges decide the result of a competition, while the participants are the ones who perform the sport."
         },
         {
           "letter": "B",
-          "text": "That way",
+          "text": "coaches",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "Coaches are the people who train and instruct the team, not the ones who compete in it."
         },
         {
           "letter": "C",
-          "text": "Other way",
-          "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "text": "players",
+          "is_correct": true,
+          "feedback": "Players is the general word for the people who take part in a sport, whichever sport it happens to be."
         },
         {
           "letter": "D",
-          "text": "This way (Correct)",
-          "is_correct": true,
-          "feedback": "Correct! Well done."
+          "text": "fans",
+          "is_correct": false,
+          "feedback": "Fans are the supporters in the crowd, not the people who take part in the sport itself."
         }
       ],
-      "correct_answer": "D",
-      "explanation": "This question evaluates the student's ability to apply the topic of Sports and Equipment at an A2 level. It focuses on Colombian contexts and standard A2 grammar.\n\n---",
-      "difficulty": "6",
+      "correct_answer": "C",
+      "explanation": "The correct answer is \"players\". A school sports unit brings four groups of people close together, and confusing the participants with the coaches, the judges or the supporters is the standard confusion. Naming each role correctly lets a student read a match report or a results table, which is where this vocabulary is most often needed.",
+      "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Apply",
-      "icfes_type": "Reading Comprehension",
-      "expected_success": 0.75,
+      "icfes_type": "Lexical Knowledge",
+      "expected_success": 0.74,
       "bundle_id": "CO-ING-6-2026-W27-sports-001-MASTERY-bundle",
       "periodo": 27,
       "protocol_version": "5.2",
@@ -239,42 +239,42 @@
     },
     {
       "id": "CO-ING-6-2026-W27-sports-006-v1",
-      "statement": "Find the error in this sports sentence.",
-      "context": "Scenario about sports in a Colombian school or city context.",
+      "statement": "A friend just lost a football match. Which response is most appropriate?",
+      "context": "Supporting a friend who has lost a match.",
       "options": [
         {
           "letter": "A",
-          "text": "No error",
+          "text": "I do not understand football.",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "This shifts the conversation to the listener's own knowledge and ignores the friend's disappointment entirely."
         },
         {
           "letter": "B",
-          "text": "Wrong error",
+          "text": "It does not matter, football is not important.",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "This dismisses something the speaker clearly cared about, and it tells the friend their feelings do not count."
         },
         {
           "letter": "C",
-          "text": "Different error",
+          "text": "You are a bad player.",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "This is a direct personal insult rather than a comment on the result, and it would hurt the friend."
         },
         {
           "letter": "D",
-          "text": "The error is here (Correct)",
+          "text": "That's a pity! You played well and you should try again next week.",
           "is_correct": true,
-          "feedback": "Correct! Well done."
+          "feedback": "This acknowledges the disappointment, says something specific about the performance and looks forward, which is what a friend says."
         }
       ],
       "correct_answer": "D",
-      "explanation": "This question evaluates the student's ability to apply the topic of Sports and Equipment at an A2 level. It focuses on Colombian contexts and standard A2 grammar.\n\n---",
-      "difficulty": "8",
+      "explanation": "The correct answer is \"That's a pity! You played well and you should try again next week\". Reacting appropriately to bad news is a language task as well as a social one, and the useful response combines recognition of the feeling, a specific comment and an encouragement. Each distractor fails in a different way, by dismissing, insulting or ignoring, so the item measures judgement about what a response should do.",
+      "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Apply",
-      "icfes_type": "Reading Comprehension",
-      "expected_success": 0.75,
+      "icfes_type": "Pragmatic Competence",
+      "expected_success": 0.72,
       "bundle_id": "CO-ING-6-2026-W27-sports-001-MASTERY-bundle",
       "periodo": 27,
       "protocol_version": "5.2",
@@ -285,42 +285,42 @@
     },
     {
       "id": "CO-ING-6-2026-W27-sports-007-v1",
-      "statement": "Match the term with the definition of sports.",
-      "context": "Scenario about sports in a Colombian school or city context.",
+      "statement": "Which sentence says that a student is not able to swim?",
+      "context": "Using can or cannot to talk about ability in a sport.",
       "options": [
         {
           "letter": "A",
-          "text": "Irrelevant",
+          "text": "She don't swim.",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "Do not is used with the main verb for negatives such as does not play, but ability takes the modal can."
         },
         {
           "letter": "B",
-          "text": "Opposite",
-          "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "text": "She can't swim.",
+          "is_correct": true,
+          "feedback": "Can't is the contracted form of cannot, and it expresses the lack of ability the sentence describes."
         },
         {
           "letter": "C",
-          "text": "Matching term (Correct)",
-          "is_correct": true,
-          "feedback": "Correct! Well done."
+          "text": "She not can swim.",
+          "is_correct": false,
+          "feedback": "A modal verb like cannot is not preceded by not in English, and the word order here is wrong."
         },
         {
           "letter": "D",
-          "text": "Non-matching",
+          "text": "She doesn't can swim.",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "Two auxiliaries cannot be used together in this way, since ability is expressed with can on its own."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "This question evaluates the student's ability to apply the topic of Sports and Equipment at an A2 level. It focuses on Colombian contexts and standard A2 grammar.\n\n---",
-      "difficulty": "8",
+      "correct_answer": "B",
+      "explanation": "The correct answer is \"She can't swim\". Ability in English belongs to the modal can, which has its own negative form and takes no auxiliary do or does, and that is the part students get wrong. Fixing the modal pattern here means they can describe what they and others can and cannot do in any sport without falling back on a main verb.",
+      "difficulty": "5",
       "images": [],
       "tags": [],
       "bloom": "Apply",
-      "icfes_type": "Reading Comprehension",
-      "expected_success": 0.75,
+      "icfes_type": "Grammatical Knowledge",
+      "expected_success": 0.7,
       "bundle_id": "CO-ING-6-2026-W27-sports-001-MASTERY-bundle",
       "periodo": 27,
       "protocol_version": "5.2",
@@ -331,42 +331,42 @@
     },
     {
       "id": "CO-ING-6-2026-W27-sports-008-v1",
-      "statement": "Choose the synonym for a word related to sports.",
-      "context": "Scenario about sports in a Colombian school or city context.",
+      "statement": "Read: \"In the high jump, Valentina cleared 1.60 metres. Juliana cleared 1.70 metres. The bar was set at 1.60 metres.\" Who performed better in the high jump?",
+      "context": "Working out the result of a sports day from a short text.",
       "options": [
         {
           "letter": "A",
-          "text": "Unrelated",
-          "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "text": "Juliana, because she cleared a higher height.",
+          "is_correct": true,
+          "feedback": "1.70 is higher than 1.60, so clearing more height is the better performance in a high jump."
         },
         {
           "letter": "B",
-          "text": "Synonym (Correct)",
-          "is_correct": true,
-          "feedback": "Correct! Well done."
+          "text": "Valentina, because she cleared the bar first.",
+          "is_correct": false,
+          "feedback": "Both cleared the bar, and the bar was cleared by both of them rather than by one alone."
         },
         {
           "letter": "C",
-          "text": "Homonym",
+          "text": "They performed the same.",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "The two heights are different, so the performances cannot be identical."
         },
         {
           "letter": "D",
-          "text": "Antonym",
+          "text": "The text does not say who did better.",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "Both heights are given, and in the high jump the greater height determines the better performance."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "This question evaluates the student's ability to analyze the topic of Sports and Equipment at an A2 level. It focuses on Colombian contexts and standard A2 grammar.\n\n---",
-      "difficulty": "8",
+      "correct_answer": "A",
+      "explanation": "The correct answer is \"Juliana, because she cleared a higher height\". Comparing two measurements and knowing which direction counts as better in the event is a real sport-specific skill, and the direction of comparison is different depending on the sport. Recognising that a high jump rewards more height while a race rewards less time is the kind of detail that makes sports texts genuinely readable.",
+      "difficulty": "5",
       "images": [],
       "tags": [],
       "bloom": "Analyze",
       "icfes_type": "Reading Comprehension",
-      "expected_success": 0.75,
+      "expected_success": 0.68,
       "bundle_id": "CO-ING-6-2026-W27-sports-001-MASTERY-bundle",
       "periodo": 27,
       "protocol_version": "5.2",
@@ -377,42 +377,42 @@
     },
     {
       "id": "CO-ING-6-2026-W27-sports-009-v1",
-      "statement": "Which of these belongs to sports?",
-      "context": "Scenario about sports in a Colombian school or city context.",
+      "statement": "A student writes: \"Yesterday I play football with my friends.\" What is the problem?",
+      "context": "Finding the error in a sentence about playing a sport.",
       "options": [
         {
           "letter": "A",
-          "text": "Not this one",
+          "text": "The preposition is wrong before a sport.",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "With my friends is the correct way to name who someone plays with, so the preposition is not at fault."
         },
         {
           "letter": "B",
-          "text": "Both",
+          "text": "A verb is needed after yesterday.",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "Yesterday is an adverb of time and does not take a verb after it in English."
         },
         {
           "letter": "C",
-          "text": "Neither",
+          "text": "The plural friends is wrong.",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "Friends is correctly plural because the student played with more than one person."
         },
         {
           "letter": "D",
-          "text": "This one (Correct)",
+          "text": "The verb is in the present simple for a past event.",
           "is_correct": true,
-          "feedback": "Correct! Well done."
+          "feedback": "Yesterday places the event in the past, so the verb has to be played rather than play."
         }
       ],
       "correct_answer": "D",
-      "explanation": "This question evaluates the student's ability to analyze the topic of Sports and Equipment at an A2 level. It focuses on Colombian contexts and standard A2 grammar.\n\n---",
-      "difficulty": "10",
+      "explanation": "The correct answer is \"The verb is in the present simple for a past event\". The time marker yesterday is the only clue needed, and the sentence fails because the verb does not match it, which is a clean single-fault item. Recognising that a time marker dictates the verb form is the mechanism behind almost every tense error in English, so it is worth isolating on its own.",
+      "difficulty": "5",
       "images": [],
       "tags": [],
       "bloom": "Analyze",
-      "icfes_type": "Reading Comprehension",
-      "expected_success": 0.75,
+      "icfes_type": "Grammatical Knowledge",
+      "expected_success": 0.65,
       "bundle_id": "CO-ING-6-2026-W27-sports-001-MASTERY-bundle",
       "periodo": 27,
       "protocol_version": "5.2",
@@ -423,42 +423,42 @@
     },
     {
       "id": "CO-ING-6-2026-W27-sports-010-v1",
-      "statement": "Predict the next word in the sports context.",
-      "context": "Scenario about sports in a Colombian school or city context.",
+      "statement": "Your class won a football match 3 goals to 1. Which report is the best?",
+      "context": "Choosing the best way to report the result of a school match.",
       "options": [
         {
           "letter": "A",
-          "text": "Correct prediction",
-          "is_correct": true,
-          "feedback": "Correct! Well done."
+          "text": "Three goals to one was the score of the match.",
+          "is_correct": false,
+          "feedback": "This gives the score but does not say who won, so the essential fact is missing."
         },
         {
           "letter": "B",
-          "text": "Impossible",
+          "text": "The match was good and we liked it.",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "This is an opinion about the match without reporting the result that a report must contain."
         },
         {
           "letter": "C",
-          "text": "Wrong prediction",
-          "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "text": "Our class beat the other team three goals to one in the final match of the school tournament.",
+          "is_correct": true,
+          "feedback": "This gives the result, the score and the context, which is everything a short report of a match needs."
         },
         {
           "letter": "D",
-          "text": "Maybe",
+          "text": "We played football in the school tournament.",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "This says the match happened and names the sport, but it leaves out the result entirely."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "This question evaluates the student's ability to evaluate the topic of Sports and Equipment at an A2 level. It focuses on Colombian contexts and standard A2 grammar.\n\n---",
-      "difficulty": "10",
+      "correct_answer": "C",
+      "explanation": "The correct answer is the one that reports who won, the score and where the match fitted. A report has a fixed set of information, and a student who gives a feeling or a partial detail has not reported the event. Knowing what a sports report must contain is directly useful for reading match summaries, which appear often in the comprehension sections of English exams.\n\n---",
+      "difficulty": "5",
       "images": [],
       "tags": [],
       "bloom": "Evaluate",
-      "icfes_type": "Reading Comprehension",
-      "expected_success": 0.75,
+      "icfes_type": "Pragmatic Competence",
+      "expected_success": 0.62,
       "bundle_id": "CO-ING-6-2026-W27-sports-001-MASTERY-bundle",
       "periodo": 27,
       "protocol_version": "5.2",

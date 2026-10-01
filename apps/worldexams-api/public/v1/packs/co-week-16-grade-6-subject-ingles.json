@@ -16,25 +16,25 @@
           "letter": "A",
           "text": "at",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "Incorrect. \"At\" marks a point, such as a place or a time, and it cannot describe a position relative to a table."
         },
         {
           "letter": "B",
           "text": "to",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "Incorrect. \"To\" marks a destination, as in \"to school\", and it does not express a fixed position."
         },
         {
           "letter": "C",
           "text": "under",
           "is_correct": true,
-          "feedback": "Correct! Well done."
+          "feedback": "Correct! \"Under\" is the preposition that says the cat is below the table and not on top of it or beside it."
         },
         {
           "letter": "D",
           "text": "between",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "Incorrect. \"Between\" needs two reference points, and here there is only the single table."
         }
       ],
       "correct_answer": "C",
@@ -62,25 +62,25 @@
           "letter": "A",
           "text": "on",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "Incorrect. \"On\" means resting on a surface from above, and the book is inside the bag rather than on it."
         },
         {
           "letter": "B",
           "text": "at",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "Incorrect. \"At\" marks a point such as \"at school\", and it does not express a container relationship."
         },
         {
           "letter": "C",
           "text": "in",
           "is_correct": true,
-          "feedback": "Correct! Well done."
+          "feedback": "Correct! \"In\" says the book is inside the backpack, which is exactly what a backpack is for."
         },
         {
           "letter": "D",
           "text": "from",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "Incorrect. \"From\" shows the starting point of a movement, and nothing is moving in this sentence."
         }
       ],
       "correct_answer": "C",
@@ -108,25 +108,25 @@
           "letter": "A",
           "text": "by",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "Incorrect. \"By\" expresses a means, as in \"by bus\", or a close relation, and it does not put one place inside another."
         },
         {
           "letter": "B",
           "text": "at",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "Incorrect. \"At\" is used for a point such as \"at school\", and a city needs the larger area that surrounds it."
         },
         {
           "letter": "C",
           "text": "on",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "Incorrect. \"On\" describes contact with a surface, and a country is not a surface you can rest on."
         },
         {
           "letter": "D",
           "text": "in",
           "is_correct": true,
-          "feedback": "Correct! Well done."
+          "feedback": "Correct! \"In\" is the preposition that places a city inside the larger area of the country it belongs to."
         }
       ],
       "correct_answer": "D",
@@ -154,25 +154,25 @@
           "letter": "A",
           "text": "next to",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "Incorrect. \"Next to\" needs a single reference point, and here the references are the book and the eraser."
         },
         {
           "letter": "B",
           "text": "in front of",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "Incorrect. It describes depth measured from one reference point, not a position between two objects."
         },
         {
           "letter": "C",
           "text": "between",
           "is_correct": true,
-          "feedback": "Correct! Well done."
+          "feedback": "Correct! \"Between\" is the only preposition of the four that takes two references and puts the pen in the middle."
         },
         {
           "letter": "D",
           "text": "behind",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "Incorrect. \"Behind\" needs one object in front to hide behind, and it cannot match two references at once."
         }
       ],
       "correct_answer": "C",
@@ -200,25 +200,25 @@
           "letter": "A",
           "text": "at",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "Incorrect. \"At\" marks a point, as in \"at the door\", and a picture hung flat on a wall is not a point."
         },
         {
           "letter": "B",
           "text": "near",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "Incorrect. \"Near\" says the picture is only close to the wall, which is weaker than saying it hangs on the wall."
         },
         {
           "letter": "C",
           "text": "on",
           "is_correct": true,
-          "feedback": "Correct! Well done."
+          "feedback": "Correct! \"On\" describes contact with the flat surface of a wall, which is how a picture is displayed."
         },
         {
           "letter": "D",
           "text": "in",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "Incorrect. \"In\" describes something inside a container, and a wall is not a container."
         }
       ],
       "correct_answer": "C",
@@ -246,25 +246,25 @@
           "letter": "A",
           "text": "in",
           "is_correct": true,
-          "feedback": "Correct! Well done."
+          "feedback": "Correct! \"In\" places the students inside the classroom, which is the room where the lesson is given."
         },
         {
           "letter": "B",
           "text": "under",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "Incorrect. \"Under\" would put the students below the floor, since a classroom is a room and not an object to look under."
         },
         {
           "letter": "C",
           "text": "above",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "Incorrect. \"Above\" needs a reference surface higher up, and nothing in a room is above the students."
         },
         {
           "letter": "D",
           "text": "on",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "Incorrect. \"On\" describes contact with a surface such as \"on the desk\", and the students are not on a surface."
         }
       ],
       "correct_answer": "A",
@@ -292,25 +292,25 @@
           "letter": "A",
           "text": "between",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "Incorrect. \"Between\" needs two reference points, and here there is only the park to compare the house with."
         },
         {
           "letter": "B",
           "text": "near",
           "is_correct": true,
-          "feedback": "Correct! Well done."
+          "feedback": "Correct! \"Near\" is the preposition that says the house is close to the park without claiming to be inside it."
         },
         {
           "letter": "C",
           "text": "on",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "Incorrect. \"On\" describes contact with a surface, and the house does not stand on top of the park."
         },
         {
           "letter": "D",
           "text": "at",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "Incorrect. \"At\" marks a point, such as \"at the park\", and it cannot express the general closeness described here."
         }
       ],
       "correct_answer": "B",
@@ -338,25 +338,25 @@
           "letter": "A",
           "text": "on",
           "is_correct": true,
-          "feedback": "Correct! Well done."
+          "feedback": "Correct! \"On\" describes a lamp resting on the flat surface of a table, which is the usual position for one."
         },
         {
           "letter": "B",
           "text": "to",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "Incorrect. \"To\" shows a destination or a direction, and the lamp is not moving anywhere."
         },
         {
           "letter": "C",
           "text": "at",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "Incorrect. \"At\" marks a point, and it would suggest the lamp stands in a spot rather than on the table's surface."
         },
         {
           "letter": "D",
           "text": "in",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "Incorrect. \"In\" describes something inside a container, and a lamp placed on a table is not inside it."
         }
       ],
       "correct_answer": "A",
@@ -384,25 +384,25 @@
           "letter": "A",
           "text": "between",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "Incorrect. \"Between\" needs two references, and here the only reference is the single chair."
         },
         {
           "letter": "B",
           "text": "behind",
           "is_correct": true,
-          "feedback": "Correct! Well done."
+          "feedback": "Correct! \"Behind\" is the preposition that places a person at the back of the chair, facing the same way as the chair."
         },
         {
           "letter": "C",
           "text": "on top",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "Incorrect. \"On top of\" describes the upper surface, and standing there would not be standing behind the chair."
         },
         {
           "letter": "D",
           "text": "in",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "Incorrect. \"In\" describes the inside of a container, and a chair is not a container."
         }
       ],
       "correct_answer": "B",
@@ -430,25 +430,25 @@
           "letter": "A",
           "text": "on",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "Incorrect. \"On\" describes contact with a surface, and a city is not a surface you can stand on."
         },
         {
           "letter": "B",
           "text": "at",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "Incorrect. \"At\" is used for a point such as \"at school\", but living in a city needs the preposition of the larger area."
         },
         {
           "letter": "C",
           "text": "from",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "Incorrect. \"From\" shows the origin of a movement, and this sentence is about a permanent place of residence."
         },
         {
           "letter": "D",
           "text": "in",
           "is_correct": true,
-          "feedback": "Correct! Well done."
+          "feedback": "Correct! \"In\" is the preposition that places a person inside the city, which is the standard way to say where you live."
         }
       ],
       "correct_answer": "D",

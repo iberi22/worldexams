@@ -9,42 +9,42 @@
   "questions": [
     {
       "id": "CO-ING-6-2026-W32-countable-uncountable-001-v1",
-      "statement": "This is a review question about countable-uncountable.",
-      "context": "Scenario about countable-uncountable in a Colombian school or city context.",
+      "statement": "Which of these nouns is uncountable in English?",
+      "context": "Deciding whether a noun takes a plural in English.",
       "options": [
         {
           "letter": "A",
-          "text": "Option B",
+          "text": "book",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "A book is a countable object, so it can be counted directly with a number."
         },
         {
           "letter": "B",
-          "text": "Option D",
+          "text": "apple",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "An apple is a countable object, so it takes both a and a plural form such as apples."
         },
         {
           "letter": "C",
-          "text": "Option C",
-          "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "text": "water",
+          "is_correct": true,
+          "feedback": "Water is a mass noun in English, so it has no plural form and takes a container word such as a glass or a bottle."
         },
         {
           "letter": "D",
-          "text": "Option A (Correct)",
-          "is_correct": true,
-          "feedback": "Correct! Well done."
+          "text": "chair",
+          "is_correct": false,
+          "feedback": "A chair is a countable object with a regular plural, so it is not a mass noun."
         }
       ],
-      "correct_answer": "D",
-      "explanation": "This question evaluates the student's ability to remember the topic of Countable and Uncountable Nouns at an A2 level. It focuses on Colombian contexts and standard A2 grammar.\n\n---",
-      "difficulty": "4",
+      "correct_answer": "C",
+      "explanation": "The correct answer is \"water\". The countable and uncountable distinction is the grammar that runs underneath the food, shopping and quantity material of this period, and students who do not have it will keep producing sentences like two waters. Learning which side of the line a noun falls on, rather than trying to memorise a list of exceptions, is what makes the rest of the period's language possible.",
+      "difficulty": "3",
       "images": [],
       "tags": [],
       "bloom": "Remember",
-      "icfes_type": "Reading Comprehension",
-      "expected_success": 0.75,
+      "icfes_type": "Grammatical Knowledge",
+      "expected_success": 0.82,
       "bundle_id": "CO-ING-6-2026-W32-countable-uncountable-001-MASTERY-bundle",
       "periodo": 32,
       "protocol_version": "5.2",
@@ -55,42 +55,42 @@
     },
     {
       "id": "CO-ING-6-2026-W32-countable-uncountable-002-v1",
-      "statement": "Select the correct A2 level use for countable-uncountable.",
-      "context": "Scenario about countable-uncountable in a Colombian school or city context.",
+      "statement": "You want to say that you want some milk. Which request is correct?",
+      "context": "Using a container word with an uncountable noun.",
       "options": [
         {
           "letter": "A",
-          "text": "Structure 2",
-          "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "text": "Can I have some milk, please?",
+          "is_correct": true,
+          "feedback": "Some works with uncountable nouns and asks for an amount, which is what the drink is being requested in."
         },
         {
           "letter": "B",
-          "text": "Structure 4",
+          "text": "Can I have a milk, please?",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "The article a is used for countable nouns, and it does not go before a mass noun such as milk."
         },
         {
           "letter": "C",
-          "text": "Structure 3",
+          "text": "Can I have two milks, please?",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "A mass noun has no plural form, and the number two cannot be placed in front of it directly."
         },
         {
           "letter": "D",
-          "text": "Structure 1 (Correct)",
-          "is_correct": true,
-          "feedback": "Correct! Well done."
+          "text": "Can I have many milk, please?",
+          "is_correct": false,
+          "feedback": "Many goes with countable plural nouns, so it cannot modify the uncountable noun milk."
         }
       ],
-      "correct_answer": "D",
-      "explanation": "This question evaluates the student's ability to remember the topic of Countable and Uncountable Nouns at an A2 level. It focuses on Colombian contexts and standard A2 grammar.\n\n---",
-      "difficulty": "4",
+      "correct_answer": "A",
+      "explanation": "The correct answer is \"Can I have some milk, please?\". Asking for an amount of something uncountable is a real transaction in the school canteen, and some is the word that makes it grammatical. Each distractor uses a determiner or number that belongs to the countable side, so the item makes the boundary visible through the words that cannot cross it.",
+      "difficulty": "3",
       "images": [],
       "tags": [],
       "bloom": "Remember",
-      "icfes_type": "Reading Comprehension",
-      "expected_success": 0.75,
+      "icfes_type": "Grammatical Knowledge",
+      "expected_success": 0.8,
       "bundle_id": "CO-ING-6-2026-W32-countable-uncountable-001-MASTERY-bundle",
       "periodo": 32,
       "protocol_version": "5.2",
@@ -101,42 +101,42 @@
     },
     {
       "id": "CO-ING-6-2026-W32-countable-uncountable-003-v1",
-      "statement": "Identify the appropriate vocabulary for countable-uncountable.",
-      "context": "Scenario about countable-uncountable in a Colombian school or city context.",
+      "statement": "Read the list: \"2 apples, some bread, 1 litre of milk, 3 pencils.\" Which items are countable?",
+      "context": "Reading a shopping list and deciding what to buy.",
       "options": [
         {
           "letter": "A",
-          "text": "Word 1 (Correct)",
-          "is_correct": true,
-          "feedback": "Correct! Well done."
+          "text": "Bread and milk.",
+          "is_correct": false,
+          "feedback": "Bread and milk are both mass nouns, and the list itself marks them with some and a litre rather than a plain number."
         },
         {
           "letter": "B",
-          "text": "Word 2",
+          "text": "Bread and apples.",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "Apples are countable, but bread is a mass noun, so this pair cannot both be countable."
         },
         {
           "letter": "C",
-          "text": "Word 4",
+          "text": "Milk and pencils.",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "Pencils are countable, but milk is a mass noun, so this pair cannot both be countable."
         },
         {
           "letter": "D",
-          "text": "Word 3",
-          "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "text": "Apples and pencils.",
+          "is_correct": true,
+          "feedback": "Apples and pencils are both countable objects, and the list gives each a plain number that can be counted directly."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "This question evaluates the student's ability to understand the topic of Countable and Uncountable Nouns at an A2 level. It focuses on Colombian contexts and standard A2 grammar.\n\n---",
-      "difficulty": "6",
+      "correct_answer": "D",
+      "explanation": "The correct answer is \"Apples and pencils\". The list itself marks the countable items with a bare number and the uncountable ones with some or a measure such as a litre, so the student can use the evidence in the text rather than relying on memory. That is the more reliable method, and it is also the reasoning the exam expects when it asks about quantities.",
+      "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Understand",
       "icfes_type": "Reading Comprehension",
-      "expected_success": 0.75,
+      "expected_success": 0.78,
       "bundle_id": "CO-ING-6-2026-W32-countable-uncountable-001-MASTERY-bundle",
       "periodo": 32,
       "protocol_version": "5.2",
@@ -147,42 +147,42 @@
     },
     {
       "id": "CO-ING-6-2026-W32-countable-uncountable-004-v1",
-      "statement": "Complete the sentence about countable-uncountable.",
-      "context": "Scenario about countable-uncountable in a Colombian school or city context.",
+      "statement": "Which sentence is correct?",
+      "context": "Using a plural noun correctly with a number above one.",
       "options": [
         {
           "letter": "A",
-          "text": "Phrase B",
+          "text": "I have three book in my bag.",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "After the number three the noun must be plural, so book is not the form this sentence needs."
         },
         {
           "letter": "B",
-          "text": "Phrase A (Correct)",
+          "text": "I have three books in my bag.",
           "is_correct": true,
-          "feedback": "Correct! Well done."
+          "feedback": "After a number above one English requires the plural noun, and books is the plural of book."
         },
         {
           "letter": "C",
-          "text": "Phrase D",
+          "text": "I have three book's in my bag.",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "An apostrophe-s shows possession, and it is not the way English forms a plural."
         },
         {
           "letter": "D",
-          "text": "Phrase C",
+          "text": "I have a three book in my bag.",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "The article a belongs with a singular noun, and it conflicts with the number three in this sentence."
         }
       ],
       "correct_answer": "B",
-      "explanation": "This question evaluates the student's ability to understand the topic of Countable and Uncountable Nouns at an A2 level. It focuses on Colombian contexts and standard A2 grammar.\n\n---",
-      "difficulty": "6",
+      "explanation": "The correct answer is \"I have three books in my bag\". The plural after a number above one is a small rule that generates a large share of visible errors in Grade 6 writing. Each distractor is a different way of getting the plurality wrong, from omitting the -s to using the apostrophe form to adding an unnecessary article, and ruling out all three makes the correct form stick.",
+      "difficulty": "4",
       "images": [],
       "tags": [],
-      "bloom": "Understand",
-      "icfes_type": "Reading Comprehension",
-      "expected_success": 0.75,
+      "bloom": "Apply",
+      "icfes_type": "Grammatical Knowledge",
+      "expected_success": 0.76,
       "bundle_id": "CO-ING-6-2026-W32-countable-uncountable-001-MASTERY-bundle",
       "periodo": 32,
       "protocol_version": "5.2",
@@ -193,42 +193,42 @@
     },
     {
       "id": "CO-ING-6-2026-W32-countable-uncountable-005-v1",
-      "statement": "What is the best way to express countable-uncountable?",
-      "context": "Scenario about countable-uncountable in a Colombian school or city context.",
+      "statement": "Which of these foods is countable in English?",
+      "context": "Classifying food nouns as countable or uncountable.",
       "options": [
         {
           "letter": "A",
-          "text": "That way",
-          "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "text": "apple",
+          "is_correct": true,
+          "feedback": "An apple is a countable item that can be counted one by one, and its plural is apples."
         },
         {
           "letter": "B",
-          "text": "This way (Correct)",
-          "is_correct": true,
-          "feedback": "Correct! Well done."
+          "text": "rice",
+          "is_correct": false,
+          "feedback": "Rice is a mass noun in English, so a quantity of it needs a container word such as a bowl rather than a number."
         },
         {
           "letter": "C",
-          "text": "Other way",
+          "text": "sugar",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "Sugar is a mass noun, so it has no plural form and cannot take a number directly."
         },
         {
           "letter": "D",
-          "text": "Incorrect way",
+          "text": "milk",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "Milk is a mass noun as well, and it takes a bottle or a carton rather than a plain number."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "This question evaluates the student's ability to apply the topic of Countable and Uncountable Nouns at an A2 level. It focuses on Colombian contexts and standard A2 grammar.\n\n---",
-      "difficulty": "6",
+      "correct_answer": "A",
+      "explanation": "The correct answer is \"apple\". Food is where students first meet the distinction in a context that matters to them, and the mass nouns here are all things they buy regularly. Recognising that three of the four are measured rather than counted is a step toward speaking about quantities naturally, which is what the shopping and food weeks of this period ask for.",
+      "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Apply",
-      "icfes_type": "Reading Comprehension",
-      "expected_success": 0.75,
+      "icfes_type": "Lexical Knowledge",
+      "expected_success": 0.74,
       "bundle_id": "CO-ING-6-2026-W32-countable-uncountable-001-MASTERY-bundle",
       "periodo": 32,
       "protocol_version": "5.2",
@@ -239,42 +239,42 @@
     },
     {
       "id": "CO-ING-6-2026-W32-countable-uncountable-006-v1",
-      "statement": "Find the error in this countable-uncountable sentence.",
-      "context": "Scenario about countable-uncountable in a Colombian school or city context.",
+      "statement": "You are in a shop and you want two apples. What do you say?",
+      "context": "Asking for two of something in a shop.",
       "options": [
         {
           "letter": "A",
-          "text": "The error is here (Correct)",
-          "is_correct": true,
-          "feedback": "Correct! Well done."
+          "text": "Can I have much apples, please?",
+          "is_correct": false,
+          "feedback": "Much goes with uncountable nouns, and apples is a countable plural, so the determiner is wrong here."
         },
         {
           "letter": "B",
-          "text": "Wrong error",
+          "text": "Can I have two apple, please?",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "The noun has to be plural after the number two, so apple is not the form this request needs."
         },
         {
           "letter": "C",
-          "text": "No error",
+          "text": "Can I have two of apple, please?",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "Of is used with a mass noun to give a portion, and an apple is countable so this phrase is not the right pattern."
         },
         {
           "letter": "D",
-          "text": "Different error",
-          "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "text": "Can I have two apples, please?",
+          "is_correct": true,
+          "feedback": "The number two goes before the plural noun for countable items, which is the standard way to order in English."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "This question evaluates the student's ability to apply the topic of Countable and Uncountable Nouns at an A2 level. It focuses on Colombian contexts and standard A2 grammar.\n\n---",
-      "difficulty": "8",
+      "correct_answer": "D",
+      "explanation": "The correct answer is \"Can I have two apples, please?\". Ordering countable items is the everyday transaction this week's grammar exists for, and the pattern is number then plural noun. The three distractors each misapply a determiner or a number from the other side of the countable line, so choosing correctly means knowing which rule applies rather than trying alternatives until one sounds right.",
+      "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Apply",
-      "icfes_type": "Reading Comprehension",
-      "expected_success": 0.75,
+      "icfes_type": "Pragmatic Competence",
+      "expected_success": 0.72,
       "bundle_id": "CO-ING-6-2026-W32-countable-uncountable-001-MASTERY-bundle",
       "periodo": 32,
       "protocol_version": "5.2",
@@ -285,42 +285,42 @@
     },
     {
       "id": "CO-ING-6-2026-W32-countable-uncountable-007-v1",
-      "statement": "Match the term with the definition of countable-uncountable.",
-      "context": "Scenario about countable-uncountable in a Colombian school or city context.",
+      "statement": "Which sentence correctly says how much sugar a student uses?",
+      "context": "Using a measure word with an uncountable noun.",
       "options": [
         {
           "letter": "A",
-          "text": "Non-matching",
+          "text": "I use two sugars in my coffee.",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "Sugar is a mass noun with no plural form, so a number cannot be placed directly in front of it."
         },
         {
           "letter": "B",
-          "text": "Matching term (Correct)",
+          "text": "I use two spoons of sugar in my coffee.",
           "is_correct": true,
-          "feedback": "Correct! Well done."
+          "feedback": "A measure word such as spoon or cup is how English gives an amount of a mass noun, and the plural of the measure works normally."
         },
         {
           "letter": "C",
-          "text": "Opposite",
+          "text": "I use two sugar in my coffee.",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "A singular mass noun after the number two is ungrammatical, since the count has to attach to a measure word."
         },
         {
           "letter": "D",
-          "text": "Irrelevant",
+          "text": "I use many spoons of sugar in my coffee.",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "Many goes with countable plural nouns, and a measure word such as spoons takes few or a number rather than many."
         }
       ],
       "correct_answer": "B",
-      "explanation": "This question evaluates the student's ability to apply the topic of Countable and Uncountable Nouns at an A2 level. It focuses on Colombian contexts and standard A2 grammar.\n\n---",
-      "difficulty": "8",
+      "explanation": "The correct answer is \"I use two spoons of sugar in my coffee\". The pattern of a number with a measure word and then of plus the mass noun is the standard English solution for quantities of things that cannot be counted, and it is a form students will use constantly in this period's food and shopping material. Learning it as a pattern rather than word by word is what lets them build new sentences with other uncountable nouns.",
+      "difficulty": "5",
       "images": [],
       "tags": [],
       "bloom": "Apply",
-      "icfes_type": "Reading Comprehension",
-      "expected_success": 0.75,
+      "icfes_type": "Grammatical Knowledge",
+      "expected_success": 0.7,
       "bundle_id": "CO-ING-6-2026-W32-countable-uncountable-001-MASTERY-bundle",
       "periodo": 32,
       "protocol_version": "5.2",
@@ -331,42 +331,42 @@
     },
     {
       "id": "CO-ING-6-2026-W32-countable-uncountable-008-v1",
-      "statement": "Choose the synonym for a word related to countable-uncountable.",
-      "context": "Scenario about countable-uncountable in a Colombian school or city context.",
+      "statement": "Read: \"A recipe for four people needs 300 grams of rice, two eggs and a litre of milk.\" How many eggs does it need?",
+      "context": "Working out how much of something a text describes.",
       "options": [
         {
           "letter": "A",
-          "text": "Homonym",
-          "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "text": "Two.",
+          "is_correct": true,
+          "feedback": "The recipe needs two eggs, and eggs are countable so a plain number expresses the amount directly."
         },
         {
           "letter": "B",
-          "text": "Antonym",
+          "text": "300.",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "300 grams is the amount of rice, and grams measure a mass noun rather than a count of eggs."
         },
         {
           "letter": "C",
-          "text": "Synonym (Correct)",
-          "is_correct": true,
-          "feedback": "Correct! Well done."
+          "text": "One.",
+          "is_correct": false,
+          "feedback": "One is the amount of milk, which is given as a litre, so this number belongs to a different ingredient."
         },
         {
           "letter": "D",
-          "text": "Unrelated",
+          "text": "Four.",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "Four is the number of people the recipe serves, not the number of eggs the recipe requires."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "This question evaluates the student's ability to analyze the topic of Countable and Uncountable Nouns at an A2 level. It focuses on Colombian contexts and standard A2 grammar.\n\n---",
-      "difficulty": "8",
+      "correct_answer": "A",
+      "explanation": "The correct answer is \"Two\". A recipe mixes countable and uncountable ingredients in a single line, so the student has to find the right number and check that it is attached to the right noun. Two of the distractors are real numbers from the text and one is not an amount at all, so the item separates reading a number from understanding what it is measuring.",
+      "difficulty": "5",
       "images": [],
       "tags": [],
       "bloom": "Analyze",
       "icfes_type": "Reading Comprehension",
-      "expected_success": 0.75,
+      "expected_success": 0.68,
       "bundle_id": "CO-ING-6-2026-W32-countable-uncountable-001-MASTERY-bundle",
       "periodo": 32,
       "protocol_version": "5.2",
@@ -377,42 +377,42 @@
     },
     {
       "id": "CO-ING-6-2026-W32-countable-uncountable-009-v1",
-      "statement": "Which of these belongs to countable-uncountable?",
-      "context": "Scenario about countable-uncountable in a Colombian school or city context.",
+      "statement": "A student writes: \"I bought three breads at the bakery.\" What is the problem?",
+      "context": "Finding the error in a sentence about quantities.",
       "options": [
         {
           "letter": "A",
-          "text": "This one (Correct)",
-          "is_correct": true,
-          "feedback": "Correct! Well done."
+          "text": "The preposition at should be in.",
+          "is_correct": false,
+          "feedback": "Both at and in can be used with a shop name, and the preposition is not what makes this sentence wrong."
         },
         {
           "letter": "B",
-          "text": "Neither",
+          "text": "Baked bread is not a thing.",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "Bread is a perfectly ordinary thing to buy, so the sentence is not wrong on that account."
         },
         {
           "letter": "C",
-          "text": "Not this one",
+          "text": "Three is too small a number for bread.",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "The problem is the form of the noun rather than the size of the number, and three would be fine for countable items."
         },
         {
           "letter": "D",
-          "text": "Both",
-          "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "text": "Bread is uncountable so it has no plural.",
+          "is_correct": true,
+          "feedback": "Bread is a mass noun in English, so a number cannot be placed in front of it and the plural breads does not exist."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "This question evaluates the student's ability to analyze the topic of Countable and Uncountable Nouns at an A2 level. It focuses on Colombian contexts and standard A2 grammar.\n\n---",
-      "difficulty": "10",
+      "correct_answer": "D",
+      "explanation": "The correct answer is \"Bread is uncountable so it has no plural\". The sentence is otherwise perfectly correct, including the number and the place, so the only fault is the countable and uncountable boundary. Recognising a plural form that does not exist in English is a specific and learnable check, and it applies to bread, rice, sugar, milk and every other mass noun a student meets.",
+      "difficulty": "5",
       "images": [],
       "tags": [],
       "bloom": "Analyze",
-      "icfes_type": "Reading Comprehension",
-      "expected_success": 0.75,
+      "icfes_type": "Grammatical Knowledge",
+      "expected_success": 0.65,
       "bundle_id": "CO-ING-6-2026-W32-countable-uncountable-001-MASTERY-bundle",
       "periodo": 32,
       "protocol_version": "5.2",
@@ -423,42 +423,42 @@
     },
     {
       "id": "CO-ING-6-2026-W32-countable-uncountable-010-v1",
-      "statement": "Predict the next word in the countable-uncountable context.",
-      "context": "Scenario about countable-uncountable in a Colombian school or city context.",
+      "statement": "Which shopping list is written correctly?",
+      "context": "Deciding which of two shopping lists is correctly written.",
       "options": [
         {
           "letter": "A",
-          "text": "Correct prediction",
-          "is_correct": true,
-          "feedback": "Correct! Well done."
+          "text": "Two breads, a milks, three apple and a box of tea.",
+          "is_correct": false,
+          "feedback": "The three mass nouns are given invalid plurals and the countable apple is left singular after the number three."
         },
         {
           "letter": "B",
-          "text": "Wrong prediction",
+          "text": "Two bread, a milk, three apples and a tea.",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "Bread, milk and tea are all mass nouns, so none of them can take a plain number or an article in this list."
         },
         {
           "letter": "C",
-          "text": "Maybe",
-          "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "text": "Two loaves of bread, a litre of milk, three apples and a box of tea.",
+          "is_correct": true,
+          "feedback": "Every item here is handled correctly, with a measure for the mass nouns and a number for the countable ones."
         },
         {
           "letter": "D",
-          "text": "Impossible",
+          "text": "A bread, a milk, three apples and two teas.",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "The mass nouns take articles where they need measures, and the plural teas is a form the language does not have."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "This question evaluates the student's ability to evaluate the topic of Countable and Uncountable Nouns at an A2 level. It focuses on Colombian contexts and standard A2 grammar.\n\n---",
-      "difficulty": "10",
+      "correct_answer": "C",
+      "explanation": "The correct answer is the one that gives every item the right treatment. Judging a whole list means checking each line against the countable and uncountable rule and noticing that the same mistake can appear three times, which is a more demanding task than fixing one sentence. A measure word such as loaf, litre or box is the tool that makes the mass nouns work, and seeing them used consistently is the sign of a student who has understood the rule rather than memorised three phrases.\n\n---",
+      "difficulty": "5",
       "images": [],
       "tags": [],
       "bloom": "Evaluate",
-      "icfes_type": "Reading Comprehension",
-      "expected_success": 0.75,
+      "icfes_type": "Pragmatic Competence",
+      "expected_success": 0.62,
       "bundle_id": "CO-ING-6-2026-W32-countable-uncountable-001-MASTERY-bundle",
       "periodo": 32,
       "protocol_version": "5.2",

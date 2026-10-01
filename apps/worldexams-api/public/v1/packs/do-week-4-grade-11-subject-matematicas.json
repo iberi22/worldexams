@@ -646,13 +646,13 @@
           "letter": "A",
           "text": "2",
           "is_correct": false,
-          "feedback": "Incorrecto. Revisa el exponente final."
+          "feedback": "2 es 2^1, el resultado de olvidar que el cuadrado afecta a todo el paréntesis: (2^3 · 2^-1)^2 = (2^2)^2 = 2^4, y al dividir entre 2^2 queda 2^2 = 4."
         },
         {
           "letter": "B",
           "text": "8",
           "is_correct": false,
-          "feedback": "Incorrecto. Excedió cálculo."
+          "feedback": "8 es 2^3, el valor de 2^3 sin llegar a dividirlo entre el denominador. La expresión completa es 2^4 / 2^2 = 2^2, de modo que 8 es el valor de un solo factor y no el cociente."
         },
         {
           "letter": "D",
@@ -664,7 +664,7 @@
           "letter": "C",
           "text": "16",
           "is_correct": false,
-          "feedback": "Incorrecto. Error en resta."
+          "feedback": "16 es 2^4, el numerador antes de dividir: (2^3 · 2^-1)^2 = (2^2)^2 = 2^4 = 16. Falta dividir entre 2^2, y 16/4 da el resultado correcto."
         }
       ],
       "correct_answer": "D",
@@ -781,25 +781,25 @@
           "letter": "B",
           "text": "$2^{60}$",
           "is_correct": false,
-          "feedback": "Incorrecto. $64^{10}$."
+          "feedback": "Al reducir a exponente 10, $2^{60} = (2^6)^{10} = 64^{10}$. Como su base es 64, queda por debajo de $125^{10}$, que es el valor de $5^{30}$."
         },
         {
           "letter": "C",
           "text": "$3^{40}$",
           "is_correct": false,
-          "feedback": "Incorrecto. $81^{10}$."
+          "feedback": "$3^{40} = (3^4)^{10} = 81^{10}$, y su base 81 queda por debajo de 125, la base de $5^{30}$, que es el mayor de los cuatro."
         },
         {
           "letter": "A",
           "text": "$5^{30}$",
           "is_correct": true,
-          "feedback": "Correcto. $125^{10}$."
+          "feedback": "$5^{30} = (5^3)^{10} = 125^{10}$. Al reducir las cuatro potencias al mismo exponente 10, las bases son 125, 64, 81 y 36, y 125 es la mayor."
         },
         {
           "letter": "D",
           "text": "$6^{20}$",
           "is_correct": false,
-          "feedback": "Incorrecto. $36^{10}$."
+          "feedback": "$6^{20} = (6^2)^{10} = 36^{10}$, la base más pequeña de las cuatro, así que es el menor de todos, no el mayor."
         }
       ],
       "correct_answer": "A",
@@ -844,7 +844,7 @@
           "letter": "D",
           "text": "Infinito",
           "is_correct": false,
-          "feedback": "Incorrecto. Converge."
+          "feedback": "Este radical infinito sí converge: como el radical interior siempre es menor que 2, la sucesión de términos está acotada y tiene límite, que es justamente el valor 2 que se despeja con x² = 2 + x."
         }
       ],
       "correct_answer": "B",

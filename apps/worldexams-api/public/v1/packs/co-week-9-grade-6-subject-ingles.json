@@ -16,25 +16,25 @@
           "letter": "A",
           "text": "window",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "Incorrect. A window is part of the wall of the classroom and has nothing to do with writing on paper."
         },
         {
           "letter": "B",
           "text": "board",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "Incorrect. The board is the large flat surface the teacher writes on, not the instrument in your hand."
         },
         {
           "letter": "C",
           "text": "pencil",
           "is_correct": true,
-          "feedback": "Correct! Well done."
+          "feedback": "Correct! A pencil is the tool you grip in your hand to write inside a notebook."
         },
         {
           "letter": "D",
           "text": "desk",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "Incorrect. A desk is a piece of furniture that you sit at, not something you hold in your hand to write."
         }
       ],
       "correct_answer": "C",
@@ -62,25 +62,25 @@
           "letter": "A",
           "text": "floor",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "Incorrect. The floor is where students stand and walk, and it is not a writing surface."
         },
         {
           "letter": "B",
           "text": "backpack",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "Incorrect. A backpack carries personal belongings, so it is not a surface meant for writing."
         },
         {
           "letter": "C",
           "text": "board",
           "is_correct": true,
-          "feedback": "Correct! Well done."
+          "feedback": "Correct! The board is the wide flat surface at the front of the class that the teacher writes on."
         },
         {
           "letter": "D",
           "text": "chair",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "Incorrect. A chair is for sitting on, and nobody writes on a chair."
         }
       ],
       "correct_answer": "C",
@@ -108,25 +108,25 @@
           "letter": "A",
           "text": "In the classroom.",
           "is_correct": true,
-          "feedback": "Correct! Well done."
+          "feedback": "Correct! \"Study\" is the verb for going to lessons, and those lessons are taught in the classroom."
         },
         {
           "letter": "B",
           "text": "In the bed.",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "Incorrect. Here \"study\" means to go to lessons at school, and a bed belongs to the bedroom at home."
         },
         {
           "letter": "C",
           "text": "In the kitchen.",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "Incorrect. A kitchen is the room where food is cooked, not where lessons are attended."
         },
         {
           "letter": "D",
           "text": "In the park.",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "Incorrect. A park is an outdoor space for exercise, and no class is held there."
         }
       ],
       "correct_answer": "A",
@@ -154,25 +154,25 @@
           "letter": "A",
           "text": "An eraser.",
           "is_correct": true,
-          "feedback": "Correct! Well done."
+          "feedback": "Correct! An eraser is the tool whose whole purpose is to rub out pencil marks on a page."
         },
         {
           "letter": "B",
           "text": "A book.",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "Incorrect. A book holds printed pages to read, and rubbing it would only smear the ink."
         },
         {
           "letter": "C",
           "text": "A sharpener.",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "Incorrect. A sharpener trims a pencil to a point, so it cannot rub graphite off the page."
         },
         {
           "letter": "D",
           "text": "A ruler.",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "Incorrect. A ruler measures length and draws straight lines, so it cannot remove anything."
         }
       ],
       "correct_answer": "A",
@@ -200,25 +200,25 @@
           "letter": "A",
           "text": "backpack",
           "is_correct": true,
-          "feedback": "Correct! Well done."
+          "feedback": "Correct! A backpack is designed to be worn on the back and to carry books and school supplies."
         },
         {
           "letter": "B",
           "text": "wallet",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "Incorrect. A wallet is small and holds money and cards, so it cannot carry books."
         },
         {
           "letter": "C",
           "text": "pocket",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "Incorrect. A pocket holds small items such as keys, and a book is far too large for it."
         },
         {
           "letter": "D",
           "text": "pencil case",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "Incorrect. A pencil case is a small pouch for writing tools, not for books."
         }
       ],
       "correct_answer": "A",
@@ -246,25 +246,25 @@
           "letter": "A",
           "text": "doctor",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "Incorrect. A doctor diagnoses and treats illnesses, not language lessons."
         },
         {
           "letter": "B",
           "text": "pilot",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "Incorrect. A pilot flies an aircraft, so this job has no connection to a classroom."
         },
         {
           "letter": "C",
           "text": "chef",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "Incorrect. A chef cooks and manages a kitchen, which has nothing to do with learning a language."
         },
         {
           "letter": "D",
           "text": "teacher",
           "is_correct": true,
-          "feedback": "Correct! Well done."
+          "feedback": "Correct! The teacher is the person who presents new content and corrects the students' work."
         }
       ],
       "correct_answer": "D",
@@ -292,25 +292,25 @@
           "letter": "A",
           "text": "In the cafeteria.",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "Incorrect. A cafeteria is where students buy and eat their lunch, not where they study math."
         },
         {
           "letter": "B",
           "text": "In the bathroom.",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "Incorrect. A bathroom is for personal hygiene, and no lessons are given there."
         },
         {
           "letter": "C",
           "text": "In the gym.",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "Incorrect. A gym is where the body exercises, while a math class is a lesson given by a teacher."
         },
         {
           "letter": "D",
           "text": "In the classroom.",
           "is_correct": true,
-          "feedback": "Correct! Well done."
+          "feedback": "Correct! A math class is a subject taught in the classroom, with desks, a board and a teacher."
         }
       ],
       "correct_answer": "D",
@@ -338,25 +338,25 @@
           "letter": "A",
           "text": "A scissors.",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "Incorrect. Scissors cut paper or fabric, and in English this would be \"a pair of scissors\"."
         },
         {
           "letter": "B",
           "text": "A pen.",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "Incorrect. A pen does make a line, but with no straight edge as a guide the line can drift and curve."
         },
         {
           "letter": "C",
           "text": "A ruler.",
           "is_correct": true,
-          "feedback": "Correct! Well done."
+          "feedback": "Correct! A ruler has two straight parallel edges, and you draw against one of them to keep the line straight."
         },
         {
           "letter": "D",
           "text": "A glue.",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "Incorrect. Glue joins two surfaces together, and in English this would be \"some glue\"."
         }
       ],
       "correct_answer": "C",
@@ -384,25 +384,25 @@
           "letter": "A",
           "text": "office",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "Incorrect. An office is where the teachers and the staff work, and students do not eat their lunch there."
         },
         {
           "letter": "B",
           "text": "cafeteria",
           "is_correct": true,
-          "feedback": "Correct! Well done."
+          "feedback": "Correct! \"Cafeteria\" is the word for the place in a school where students buy and eat their midday meal."
         },
         {
           "letter": "C",
           "text": "bus",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "Incorrect. A bus is a vehicle rather than a place, and the noun after \"the school\" must name a room or a building."
         },
         {
           "letter": "D",
           "text": "library",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "Incorrect. A library is for reading and borrowing books, and eating is not allowed in it."
         }
       ],
       "correct_answer": "B",
@@ -430,25 +430,25 @@
           "letter": "A",
           "text": "playground",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "Incorrect. A playground is an open outdoor space for sport, and it holds no books at all."
         },
         {
           "letter": "B",
           "text": "closet",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "Incorrect. A closet is a small storage space for coats and cleaning supplies, not a place to keep a library."
         },
         {
           "letter": "C",
           "text": "lab",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "Incorrect. A lab is equipped for science experiments, and its shelves hold equipment rather than a collection of books."
         },
         {
           "letter": "D",
           "text": "library",
           "is_correct": true,
-          "feedback": "Correct! Well done."
+          "feedback": "Correct! A library is the room in a school built to store a large collection of books and to lend them out."
         }
       ],
       "correct_answer": "D",

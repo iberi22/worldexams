@@ -374,27 +374,27 @@
       "options": [
         {
           "letter": "A",
-          "text": "Sentence 1",
+          "text": "\"I will help you with your homework later.\"",
           "is_correct": true,
-          "feedback": "\"Will\" is the tense used for promises and for offers made spontaneously at the moment of speaking, which is what sentence 1 does."
+          "feedback": "\"Will\" is the tense used for promises and for offers made spontaneously at the moment of speaking, which is exactly what this sentence does."
         },
         {
           "letter": "B",
-          "text": "Sentence 2",
+          "text": "\"I am going to help you with your homework later.\"",
           "is_correct": false,
-          "feedback": "Sentence 2 sounds like a plan you had already decided on before being asked."
+          "feedback": "\"Am going to\" points to a plan you had already decided on before being asked, so it sounds less like a promise made in this moment."
         },
         {
           "letter": "C",
-          "text": "Both are exactly the same.",
+          "text": "Both sound exactly the same.",
           "is_correct": false,
-          "feedback": "They are not identical: \"will\" commits at the moment of speaking while \"am going to\" points to a prior intention."
+          "feedback": "They are not identical: \"will\" commits at the moment of speaking while \"am going to\" points back to a prior intention."
         },
         {
           "letter": "D",
-          "text": "Neither is correct.",
+          "text": "Neither one is grammatical.",
           "is_correct": false,
-          "feedback": "Both sentences are grammatically correct; only the communicative nuance differs."
+          "feedback": "Both sentences are perfectly grammatical; only the communicative nuance between the promise and the prior plan differs."
         }
       ],
       "correct_answer": "A",

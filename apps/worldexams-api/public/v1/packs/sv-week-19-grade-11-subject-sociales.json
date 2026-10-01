@@ -16,25 +16,25 @@
           "letter": "A",
           "text": "La Constitución",
           "is_correct": true,
-          "feedback": "¡Correcto!"
+          "feedback": "Correcto: la Constitución es la norma suprema que establece la organización del Estado y los derechos de los ciudadanos."
         },
         {
           "letter": "B",
           "text": "Una ley ordinaria",
           "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "feedback": "una ley ordinaria regula un aspecto concreto, pero no es la norma que estructura los poderes del Estado."
         },
         {
           "letter": "C",
           "text": "Un decreto presidencial",
           "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "feedback": "un decreto es la orden del presidente que aplica una ley; por sí solo no organiza al Estado."
         },
         {
           "letter": "D",
           "text": "Un tratado internacional",
           "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "feedback": "un tratado obliga a dos o más países entre sí y no se ocupa de la organización interna de un Estado."
         }
       ],
       "correct_answer": "A",
@@ -61,25 +61,25 @@
           "letter": "D",
           "text": "Urbanización masiva y nuevas clases sociales",
           "is_correct": true,
-          "feedback": "¡Correcto!"
+          "feedback": "Correcto: las fábricas concentraron el trabajo en las ciudades, lo que provocó una urbanización masiva y el surgimiento de nuevas clases sociales, como la burguesía industrial y el proletariado."
         },
         {
           "letter": "A",
           "text": "Retorno a la vida agrícola",
           "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "feedback": "ocurrió justo lo contrario: los trabajadores pasaron de los campos a las fábricas y la sociedad se hizo más urbana."
         },
         {
           "letter": "B",
           "text": "Disminución del comercio global",
           "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "feedback": "ocurrió lo contrario: el comercio mundial creció con las materias primas y los productos industriales."
         },
         {
           "letter": "C",
           "text": "Eliminación del trabajo manual",
           "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "feedback": "el trabajo manual aumentó con las fábricas, las vías y las ciudades; no llegó a eliminarse."
         }
       ],
       "correct_answer": "D",
@@ -106,25 +106,25 @@
           "letter": "D",
           "text": "Derechos humanos fundamentales",
           "is_correct": true,
-          "feedback": "¡Correcto!"
+          "feedback": "Correcto: la Constitución reconoce los derechos humanos fundamentales de todas las personas, como la vida, la igualdad y la libertad."
         },
         {
           "letter": "A",
           "text": "Solo derechos de propiedad",
           "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "feedback": "la propiedad es uno de los derechos, pero una Constitución democrática no se limita a protegerla."
         },
         {
           "letter": "B",
           "text": "Únicamente derechos políticos",
           "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "feedback": "los derechos políticos son solo una parte; también existen derechos civiles, sociales y económicos."
         },
         {
           "letter": "C",
           "text": "Derechos exclusivos del gobierno",
           "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "feedback": "los derechos son de las personas y limitan al poder, no son privilegio exclusivo del gobierno."
         }
       ],
       "correct_answer": "D",
@@ -151,25 +151,25 @@
           "letter": "A",
           "text": "Superávit comercial",
           "is_correct": true,
-          "feedback": "¡Correcto!"
+          "feedback": "Correcto: si un país exporta más de lo que importa, la diferencia entre ambas cifras es un superávit comercial."
         },
         {
           "letter": "B",
           "text": "Déficit comercial",
           "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "feedback": "el déficit aparece cuando las importaciones superan a las exportaciones, que es el caso contrario al del enunciado."
         },
         {
           "letter": "C",
           "text": "Balanza equilibrada",
           "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "feedback": "la balanza solo está equilibrada cuando las exportaciones y las importaciones son iguales."
         },
         {
           "letter": "D",
           "text": "Crisis económica",
           "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "feedback": "un superávit describe un resultado favorable del comercio exterior, no una crisis."
         }
       ],
       "correct_answer": "A",
@@ -196,25 +196,25 @@
           "letter": "C",
           "text": "El asesinato del Archiduque Francisco Fernando",
           "is_correct": true,
-          "feedback": "¡Correcto!"
+          "feedback": "Correcto: el asesinato del Archiduque en Sarajevo en 1914 fue la chispa que inició la Primera Guerra Mundial."
         },
         {
           "letter": "A",
           "text": "El Tratado de Versalles",
           "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "feedback": "se firmó en 1919 para cerrar la guerra, de modo que fue una consecuencia y no una causa del conflicto."
         },
         {
           "letter": "B",
           "text": "La Revolución Rusa",
           "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "feedback": "se produjo en 1917, cuando la guerra ya había empezado, así que no pudo causarla."
         },
         {
           "letter": "D",
           "text": "La invención del avión",
           "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "feedback": "el avión fue un avance técnico de la época, no una causa política que provocara el conflicto armado."
         }
       ],
       "correct_answer": "C",
@@ -241,25 +241,25 @@
           "letter": "C",
           "text": "La Constitución",
           "is_correct": true,
-          "feedback": "¡Correcto!"
+          "feedback": "Correcto: la Constitución es la norma suprema que establece la organización del Estado y los derechos de los ciudadanos."
         },
         {
           "letter": "A",
           "text": "Una ley ordinaria",
           "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "feedback": "una ley ordinaria regula un aspecto concreto, pero no es la norma que estructura los poderes del Estado."
         },
         {
           "letter": "B",
           "text": "Un decreto presidencial",
           "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "feedback": "un decreto es la orden del presidente que aplica una ley; por sí solo no organiza al Estado."
         },
         {
           "letter": "D",
           "text": "Un tratado internacional",
           "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "feedback": "un tratado obliga a dos o más países entre sí y no se ocupa de la organización interna de un Estado."
         }
       ],
       "correct_answer": "C",
@@ -286,25 +286,25 @@
           "letter": "C",
           "text": "Urbanización masiva y nuevas clases sociales",
           "is_correct": true,
-          "feedback": "¡Correcto!"
+          "feedback": "Correcto: las fábricas concentraron el trabajo en las ciudades, lo que provocó una urbanización masiva y el surgimiento de nuevas clases sociales, como la burguesía industrial y el proletariado."
         },
         {
           "letter": "A",
           "text": "Retorno a la vida agrícola",
           "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "feedback": "ocurrió justo lo contrario: los trabajadores pasaron de los campos a las fábricas y la sociedad se hizo más urbana."
         },
         {
           "letter": "B",
           "text": "Disminución del comercio global",
           "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "feedback": "ocurrió lo contrario: el comercio mundial creció con las materias primas y los productos industriales."
         },
         {
           "letter": "D",
           "text": "Eliminación del trabajo manual",
           "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "feedback": "el trabajo manual aumentó con las fábricas, las vías y las ciudades; no llegó a eliminarse."
         }
       ],
       "correct_answer": "C",
@@ -331,25 +331,25 @@
           "letter": "D",
           "text": "Derechos humanos fundamentales",
           "is_correct": true,
-          "feedback": "¡Correcto!"
+          "feedback": "Correcto: la Constitución reconoce los derechos humanos fundamentales de todas las personas, como la vida, la igualdad y la libertad."
         },
         {
           "letter": "A",
           "text": "Solo derechos de propiedad",
           "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "feedback": "la propiedad es uno de los derechos, pero una Constitución democrática no se limita a protegerla."
         },
         {
           "letter": "B",
           "text": "Únicamente derechos políticos",
           "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "feedback": "los derechos políticos son solo una parte; también existen derechos civiles, sociales y económicos."
         },
         {
           "letter": "C",
           "text": "Derechos exclusivos del gobierno",
           "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "feedback": "los derechos son de las personas y limitan al poder, no son privilegio exclusivo del gobierno."
         }
       ],
       "correct_answer": "D",
@@ -376,25 +376,25 @@
           "letter": "C",
           "text": "Superávit comercial",
           "is_correct": true,
-          "feedback": "¡Correcto!"
+          "feedback": "Correcto: si un país exporta más de lo que importa, la diferencia entre ambas cifras es un superávit comercial."
         },
         {
           "letter": "A",
           "text": "Déficit comercial",
           "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "feedback": "el déficit aparece cuando las importaciones superan a las exportaciones, que es el caso contrario al del enunciado."
         },
         {
           "letter": "B",
           "text": "Balanza equilibrada",
           "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "feedback": "la balanza solo está equilibrada cuando las exportaciones y las importaciones son iguales."
         },
         {
           "letter": "D",
           "text": "Crisis económica",
           "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "feedback": "un superávit describe un resultado favorable del comercio exterior, no una crisis."
         }
       ],
       "correct_answer": "C",
@@ -421,25 +421,25 @@
           "letter": "B",
           "text": "El asesinato del Archiduque Francisco Fernando",
           "is_correct": true,
-          "feedback": "¡Correcto!"
+          "feedback": "Correcto: el asesinato del Archiduque en Sarajevo en 1914 fue la chispa que inició la Primera Guerra Mundial."
         },
         {
           "letter": "A",
           "text": "El Tratado de Versalles",
           "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "feedback": "se firmó en 1919 para cerrar la guerra, de modo que fue una consecuencia y no una causa del conflicto."
         },
         {
           "letter": "C",
           "text": "La Revolución Rusa",
           "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "feedback": "se produjo en 1917, cuando la guerra ya había empezado, así que no pudo causarla."
         },
         {
           "letter": "D",
           "text": "La invención del avión",
           "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "feedback": "el avión fue un avance técnico de la época, no una causa política que provocara el conflicto armado."
         }
       ],
       "correct_answer": "B",
@@ -466,25 +466,25 @@
           "letter": "C",
           "text": "La Constitución",
           "is_correct": true,
-          "feedback": "¡Correcto!"
+          "feedback": "Correcto: la Constitución es la norma suprema que establece la organización del Estado y los derechos de los ciudadanos."
         },
         {
           "letter": "A",
           "text": "Una ley ordinaria",
           "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "feedback": "una ley ordinaria regula un aspecto concreto, pero no es la norma que estructura los poderes del Estado."
         },
         {
           "letter": "B",
           "text": "Un decreto presidencial",
           "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "feedback": "un decreto es la orden del presidente que aplica una ley; por sí solo no organiza al Estado."
         },
         {
           "letter": "D",
           "text": "Un tratado internacional",
           "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "feedback": "un tratado obliga a dos o más países entre sí y no se ocupa de la organización interna de un Estado."
         }
       ],
       "correct_answer": "C",
@@ -511,25 +511,25 @@
           "letter": "B",
           "text": "Urbanización masiva y nuevas clases sociales",
           "is_correct": true,
-          "feedback": "¡Correcto!"
+          "feedback": "Correcto: las fábricas concentraron el trabajo en las ciudades, lo que provocó una urbanización masiva y el surgimiento de nuevas clases sociales, como la burguesía industrial y el proletariado."
         },
         {
           "letter": "A",
           "text": "Retorno a la vida agrícola",
           "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "feedback": "ocurrió justo lo contrario: los trabajadores pasaron de los campos a las fábricas y la sociedad se hizo más urbana."
         },
         {
           "letter": "C",
           "text": "Disminución del comercio global",
           "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "feedback": "ocurrió lo contrario: el comercio mundial creció con las materias primas y los productos industriales."
         },
         {
           "letter": "D",
           "text": "Eliminación del trabajo manual",
           "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "feedback": "el trabajo manual aumentó con las fábricas, las vías y las ciudades; no llegó a eliminarse."
         }
       ],
       "correct_answer": "B",
@@ -556,25 +556,25 @@
           "letter": "D",
           "text": "Derechos humanos fundamentales",
           "is_correct": true,
-          "feedback": "¡Correcto!"
+          "feedback": "Correcto: la Constitución reconoce los derechos humanos fundamentales de todas las personas, como la vida, la igualdad y la libertad."
         },
         {
           "letter": "A",
           "text": "Solo derechos de propiedad",
           "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "feedback": "la propiedad es uno de los derechos, pero una Constitución democrática no se limita a protegerla."
         },
         {
           "letter": "B",
           "text": "Únicamente derechos políticos",
           "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "feedback": "los derechos políticos son solo una parte; también existen derechos civiles, sociales y económicos."
         },
         {
           "letter": "C",
           "text": "Derechos exclusivos del gobierno",
           "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "feedback": "los derechos son de las personas y limitan al poder, no son privilegio exclusivo del gobierno."
         }
       ],
       "correct_answer": "D",
@@ -601,25 +601,25 @@
           "letter": "B",
           "text": "Superávit comercial",
           "is_correct": true,
-          "feedback": "¡Correcto!"
+          "feedback": "Correcto: si un país exporta más de lo que importa, la diferencia entre ambas cifras es un superávit comercial."
         },
         {
           "letter": "A",
           "text": "Déficit comercial",
           "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "feedback": "el déficit aparece cuando las importaciones superan a las exportaciones, que es el caso contrario al del enunciado."
         },
         {
           "letter": "C",
           "text": "Balanza equilibrada",
           "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "feedback": "la balanza solo está equilibrada cuando las exportaciones y las importaciones son iguales."
         },
         {
           "letter": "D",
           "text": "Crisis económica",
           "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "feedback": "un superávit describe un resultado favorable del comercio exterior, no una crisis."
         }
       ],
       "correct_answer": "B",
@@ -646,25 +646,25 @@
           "letter": "C",
           "text": "El asesinato del Archiduque Francisco Fernando",
           "is_correct": true,
-          "feedback": "¡Correcto!"
+          "feedback": "Correcto: el asesinato del Archiduque en Sarajevo en 1914 fue la chispa que inició la Primera Guerra Mundial."
         },
         {
           "letter": "A",
           "text": "El Tratado de Versalles",
           "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "feedback": "se firmó en 1919 para cerrar la guerra, de modo que fue una consecuencia y no una causa del conflicto."
         },
         {
           "letter": "B",
           "text": "La Revolución Rusa",
           "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "feedback": "se produjo en 1917, cuando la guerra ya había empezado, así que no pudo causarla."
         },
         {
           "letter": "D",
           "text": "La invención del avión",
           "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "feedback": "el avión fue un avance técnico de la época, no una causa política que provocara el conflicto armado."
         }
       ],
       "correct_answer": "C",
@@ -691,25 +691,25 @@
           "letter": "A",
           "text": "La Constitución",
           "is_correct": true,
-          "feedback": "¡Correcto!"
+          "feedback": "Correcto: la Constitución es la norma suprema que establece la organización del Estado y los derechos de los ciudadanos."
         },
         {
           "letter": "B",
           "text": "Una ley ordinaria",
           "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "feedback": "una ley ordinaria regula un aspecto concreto, pero no es la norma que estructura los poderes del Estado."
         },
         {
           "letter": "C",
           "text": "Un decreto presidencial",
           "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "feedback": "un decreto es la orden del presidente que aplica una ley; por sí solo no organiza al Estado."
         },
         {
           "letter": "D",
           "text": "Un tratado internacional",
           "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "feedback": "un tratado obliga a dos o más países entre sí y no se ocupa de la organización interna de un Estado."
         }
       ],
       "correct_answer": "A",
@@ -736,25 +736,25 @@
           "letter": "C",
           "text": "Urbanización masiva y nuevas clases sociales",
           "is_correct": true,
-          "feedback": "¡Correcto!"
+          "feedback": "Correcto: las fábricas concentraron el trabajo en las ciudades, lo que provocó una urbanización masiva y el surgimiento de nuevas clases sociales, como la burguesía industrial y el proletariado."
         },
         {
           "letter": "A",
           "text": "Retorno a la vida agrícola",
           "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "feedback": "ocurrió justo lo contrario: los trabajadores pasaron de los campos a las fábricas y la sociedad se hizo más urbana."
         },
         {
           "letter": "B",
           "text": "Disminución del comercio global",
           "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "feedback": "ocurrió lo contrario: el comercio mundial creció con las materias primas y los productos industriales."
         },
         {
           "letter": "D",
           "text": "Eliminación del trabajo manual",
           "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "feedback": "el trabajo manual aumentó con las fábricas, las vías y las ciudades; no llegó a eliminarse."
         }
       ],
       "correct_answer": "C",
@@ -781,25 +781,25 @@
           "letter": "A",
           "text": "Derechos humanos fundamentales",
           "is_correct": true,
-          "feedback": "¡Correcto!"
+          "feedback": "Correcto: la Constitución reconoce los derechos humanos fundamentales de todas las personas, como la vida, la igualdad y la libertad."
         },
         {
           "letter": "B",
           "text": "Solo derechos de propiedad",
           "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "feedback": "la propiedad es uno de los derechos, pero una Constitución democrática no se limita a protegerla."
         },
         {
           "letter": "C",
           "text": "Únicamente derechos políticos",
           "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "feedback": "los derechos políticos son solo una parte; también existen derechos civiles, sociales y económicos."
         },
         {
           "letter": "D",
           "text": "Derechos exclusivos del gobierno",
           "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "feedback": "los derechos son de las personas y limitan al poder, no son privilegio exclusivo del gobierno."
         }
       ],
       "correct_answer": "A",
@@ -826,25 +826,25 @@
           "letter": "D",
           "text": "Superávit comercial",
           "is_correct": true,
-          "feedback": "¡Correcto!"
+          "feedback": "Correcto: si un país exporta más de lo que importa, la diferencia entre ambas cifras es un superávit comercial."
         },
         {
           "letter": "A",
           "text": "Déficit comercial",
           "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "feedback": "el déficit aparece cuando las importaciones superan a las exportaciones, que es el caso contrario al del enunciado."
         },
         {
           "letter": "B",
           "text": "Balanza equilibrada",
           "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "feedback": "la balanza solo está equilibrada cuando las exportaciones y las importaciones son iguales."
         },
         {
           "letter": "C",
           "text": "Crisis económica",
           "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "feedback": "un superávit describe un resultado favorable del comercio exterior, no una crisis."
         }
       ],
       "correct_answer": "D",
@@ -871,25 +871,25 @@
           "letter": "B",
           "text": "El asesinato del Archiduque Francisco Fernando",
           "is_correct": true,
-          "feedback": "¡Correcto!"
+          "feedback": "Correcto: el asesinato del Archiduque en Sarajevo en 1914 fue la chispa que inició la Primera Guerra Mundial."
         },
         {
           "letter": "A",
           "text": "El Tratado de Versalles",
           "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "feedback": "se firmó en 1919 para cerrar la guerra, de modo que fue una consecuencia y no una causa del conflicto."
         },
         {
           "letter": "C",
           "text": "La Revolución Rusa",
           "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "feedback": "se produjo en 1917, cuando la guerra ya había empezado, así que no pudo causarla."
         },
         {
           "letter": "D",
           "text": "La invención del avión",
           "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "feedback": "el avión fue un avance técnico de la época, no una causa política que provocara el conflicto armado."
         }
       ],
       "correct_answer": "B",
