@@ -639,36 +639,36 @@
     },
     {
       "id": "EC-MAT-11-2026-W04-logaritmos-propiedades-001-MASTERY-bundle-v15",
-      "statement": "Resuelva la ecuación logarítmica para $x$ en un modelo de escala sísmica en la provincia de Manabí: $\\log_3(x + 2) = 2$.",
+      "statement": "Resuelva la ecuación logarítmica para $x$ en un modelo de magnitud sísmica en la provincia de Manabí: $\\log_5(x - 4) = 3$.",
       "context": "En la ciudad de Ibarra, un grupo de estudiantes de la Colegio Nacional Mejía analizan un problema práctico de matemáticas.",
       "options": [
         {
           "letter": "A",
-          "text": "8",
+          "text": "128",
           "is_correct": false,
-          "feedback": "8 saldría de restar 1 en lugar de 2, o de no descontar bien el 2 del resultado; el despeje da $x = 9 - 2$."
+          "feedback": "128 es el valor de $x - 4$ antes de despejar, pero $5^3 = 125$ y no $128$, así que ese valor no proviene del exponente pedido."
         },
         {
           "letter": "B",
-          "text": "4",
-          "is_correct": false,
-          "feedback": "4 corresponde a $3^4 = 81$, un exponente equivocado, porque la ecuación pide el exponente 2."
+          "text": "129",
+          "is_correct": true,
+          "feedback": "Correcto. $\\log_5(x-4)=3$ implica $x - 4 = 5^3 = 125$, de donde $x = 125 + 4 = 129$."
         },
         {
           "letter": "C",
-          "text": "9",
+          "text": "121",
           "is_correct": false,
-          "feedback": "9 es el valor de $x+2$ todavía sin despejar; hay que restar 2 para obtener $x = 7$."
+          "feedback": "121 corresponde a restar 4 en lugar de sumarlo: el despeje es $x = 125 + 4$, porque el 4 ya estaba restándose."
         },
         {
           "letter": "D",
-          "text": "7",
-          "is_correct": true,
-          "feedback": "Correcto. $\\log_3(x+2)=2$ implica $x+2 = 3^2 = 9$, de donde $x = 9 - 2 = 7$."
+          "text": "29",
+          "is_correct": false,
+          "feedback": "29 saldría de usar $5^2 = 25$ como exponente, cuando el enunciado pide llegar hasta el exponente 3."
         }
       ],
-      "correct_answer": "D",
-      "explanation": "Aplicando la definición de logaritmo: $x + 2 = 3^2 \\Rightarrow x + 2 = 9 \\Rightarrow x = 7$.\n\n---",
+      "correct_answer": "B",
+      "explanation": "Aplicando la definición de logaritmo en base 5, el argumento de la derecha es $5^3 = 125$: $x - 4 = 125 \\Rightarrow x = 125 + 4 = 129$. El signo del 4 determina la operación final, y como en el enunciado aparece restado, el despeje suma.\n\n---",
       "difficulty": "8",
       "images": [],
       "tags": [],
