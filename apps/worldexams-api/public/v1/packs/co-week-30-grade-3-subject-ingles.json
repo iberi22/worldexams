@@ -9,41 +9,41 @@
   "questions": [
     {
       "id": "CO-ING-3-2026-W30-repaso-p6-001-MASTERY-bundle-v1",
-      "statement": "What is the English word for: \"A place where you live or stay on holiday.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Choose the correct word: \"Last Saturday I ___ to the park with my father.\"",
+      "context": "Repaso del sexto periodo en el que los estudiantes describen su fin de semana.",
       "options": [
         {
-          "letter": "B",
-          "text": "accommodation",
-          "is_correct": true,
-          "feedback": "Correct! 'accommodation' matches the definition."
-        },
-        {
           "letter": "A",
-          "text": "transportation",
+          "text": "go",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "C",
-          "text": "entertainment",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "go es la forma del presente; la palabra Last Saturday fija la accion en el pasado."
         },
         {
           "letter": "D",
-          "text": "currency",
+          "text": "went",
+          "is_correct": true,
+          "feedback": "went es el pasado simple irregular de go y el enunciado habla de una accion ya terminada."
+        },
+        {
+          "letter": "B",
+          "text": "am going",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "am going es el presente continuo y describe una accion en curso, no algo que ya ocurrio."
+        },
+        {
+          "letter": "C",
+          "text": "will go",
+          "is_correct": false,
+          "feedback": "will go expresa un plan o una prediccion futura, y el enunciado ya situa la accion en el pasado."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "The word 'accommodation' is used to describe a place where you live or stay on holiday. This is an important vocabulary word in English.\n---",
+      "correct_answer": "D",
+      "explanation": "El indicio de tiempo es lo que decide el verbo, no el sentido de la oracion. Last Saturday, yesterday y last night obligan al pasado simple, y entre las formas del pasado el verbo to go es irregular, por eso se memoriza como went y no como goed.",
       "difficulty": "4",
       "images": [],
       "tags": [],
-      "bloom": "Remember",
-      "icfes_type": "Lexico",
+      "bloom": "Apply",
+      "icfes_type": "Uso de la lengua",
       "expected_success": 0.8,
       "bundle_id": "CO-ING-3-2026-W30-repaso-p6-001-MASTERY-bundle",
       "periodo": 30,
@@ -55,41 +55,41 @@
     },
     {
       "id": "CO-ING-3-2026-W30-repaso-p6-001-MASTERY-bundle-v2",
-      "statement": "What is the English word for: \"A detailed plan or route of a journey.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Read: \"I eat an apple and a banana for snack every day.\" How many fruits does the child eat?",
+      "context": "Ejercicio de repaso de los snacks y la comida del recreo.",
       "options": [
         {
-          "letter": "C",
-          "text": "itinerary",
-          "is_correct": true,
-          "feedback": "Correct! 'itinerary' matches the definition."
-        },
-        {
           "letter": "A",
-          "text": "baggage",
+          "text": "One",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "B",
-          "text": "destination",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "one seria la respuesta si el texto mencionara un solo tipo de fruta."
         },
         {
           "letter": "D",
-          "text": "passport",
+          "text": "Two",
+          "is_correct": true,
+          "feedback": "el texto nombra dos frutas distintas, una manzana y un platano."
+        },
+        {
+          "letter": "B",
+          "text": "Three",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "tres exigiria un tercer alimento en la enumeracion, y el enunciado solo lista dos."
+        },
+        {
+          "letter": "C",
+          "text": "Four",
+          "is_correct": false,
+          "feedback": "cuatro exceede lo que el texto enumera, que se limita a dos frutas por colacion."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "The word 'itinerary' is used to describe a detailed plan or route of a journey. This is an important vocabulary word in English.\n---",
+      "correct_answer": "D",
+      "explanation": "Contar elementos de una enumeracion escrita es una habilidad de comprension lectora basica y muy usada en las pruebas de grado tercero. La clave esta en identificar la conjunction and, que anuncia que la lista sigue y que hay un elemento mas.",
       "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Understand",
-      "icfes_type": "Lexico",
+      "icfes_type": "Uso de la lengua",
       "expected_success": 0.8,
       "bundle_id": "CO-ING-3-2026-W30-repaso-p6-001-MASTERY-bundle",
       "periodo": 30,
@@ -101,42 +101,42 @@
     },
     {
       "id": "CO-ING-3-2026-W30-repaso-p6-001-MASTERY-bundle-v3",
-      "statement": "What is the English word for: \"The place to which someone or something is going or being sent.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "It is afternoon now and the sun is still up. Choose the better question for your brother.",
+      "context": "Repaso de la hora en que empiezan las actividades de la tarde.",
       "options": [
         {
           "letter": "A",
-          "text": "destination",
-          "is_correct": true,
-          "feedback": "Correct! 'destination' matches the definition."
-        },
-        {
-          "letter": "B",
-          "text": "departure",
+          "text": "What time do you go to bed?",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "esa pregunta se hace por la noche, al final del dia, no a la tarde con el sol aun arriba."
         },
         {
           "letter": "C",
-          "text": "arrival",
+          "text": "What time is it now?",
+          "is_correct": true,
+          "feedback": "What time is it now pregunta la hora actual, que es justo lo que el estudiante quiere saber a la tarde."
+        },
+        {
+          "letter": "B",
+          "text": "When did you wake up?",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "esa pregunta se hace por la manana para saber la hora del despertar, y no al mediodia."
         },
         {
           "letter": "D",
-          "text": "journey",
+          "text": "How long do you sleep?",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "esa pregunta pide una duracion de tiempo en horas, y no pide la hora en punto de este momento."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'destination' is used to describe the place to which someone or something is going or being sent. This is an important vocabulary word in English.\n---",
-      "difficulty": "6",
+      "correct_answer": "C",
+      "explanation": "Repetir la palabra tiempo en ingles no significa que todas las preguntas sean equivalentes: What time is it pide la hora, When pregunta el momento y How long pide una duracion. Diferenciar esos tres usos evita que el estudiante responda con una informacion que no fue solicitada.",
+      "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Apply",
-      "icfes_type": "Lexico",
-      "expected_success": 0.8,
+      "icfes_type": "Uso de la lengua",
+      "expected_success": 0.85,
       "bundle_id": "CO-ING-3-2026-W30-repaso-p6-001-MASTERY-bundle",
       "periodo": 30,
       "protocol_version": "5.2",
@@ -147,41 +147,41 @@
     },
     {
       "id": "CO-ING-3-2026-W30-repaso-p6-001-MASTERY-bundle-v4",
-      "statement": "What is the English word for: \"Suitcases or other bags in which to pack personal belongings for traveling.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Read: \"My brother goes to school at seven and comes home at four.\" How many hours is he at school?",
+      "context": "Lectura de un texto sobre las partes del dia en la rutina de una familia.",
       "options": [
         {
-          "letter": "A",
-          "text": "luggage",
-          "is_correct": true,
-          "feedback": "Correct! 'luggage' matches the definition."
+          "letter": "B",
+          "text": "Two hours",
+          "is_correct": false,
+          "feedback": "dos horas no corresponden a la diferencia entre las siete y las cuatro."
         },
         {
-          "letter": "B",
-          "text": "ticket",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "letter": "A",
+          "text": "Nine hours",
+          "is_correct": true,
+          "feedback": "de 7:00 a 16:00 hay nueve horas, que es lo que dura la jornada escolar del texto."
         },
         {
           "letter": "C",
-          "text": "flight",
+          "text": "Twenty-four hours",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "veinticuatro horas es un dia completo y no el tiempo que el hermano pasa en la escuela."
         },
         {
           "letter": "D",
-          "text": "reservation",
+          "text": "Eleven hours",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "once seria la cuenta desde medianoche hasta las once, que es otra forma de medir el mismo horario."
         }
       ],
       "correct_answer": "A",
-      "explanation": "The word 'luggage' is used to describe suitcases or other bags in which to pack personal belongings for traveling. This is an important vocabulary word in English.\n---",
-      "difficulty": "6",
+      "explanation": "Resolver problemas de reloj convierte un texto en un calculo. La estrategia es restar la hora de llegada a la hora de salida, y en este caso da 16 - 7 = 9. La opcion de once horas es el error tipico cuando el estudiante cuenta el tiempo desde medianoche en lugar de calcular la duracion real.",
+      "difficulty": "4",
       "images": [],
       "tags": [],
-      "bloom": "Apply",
-      "icfes_type": "Lexico",
+      "bloom": "Understand",
+      "icfes_type": "Uso de la lengua",
       "expected_success": 0.8,
       "bundle_id": "CO-ING-3-2026-W30-repaso-p6-001-MASTERY-bundle",
       "periodo": 30,
@@ -193,42 +193,42 @@
     },
     {
       "id": "CO-ING-3-2026-W30-repaso-p6-001-MASTERY-bundle-v5",
-      "statement": "What is the English word for: \"A traveler on a public or private conveyance other than the driver, pilot, or crew.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Choose the correct preposition: \"My English class starts ___ eight o'clock and ends ___ twelve.\"",
+      "context": "Repaso de las preposiciones de tiempo en las expresiones de la vida diaria.",
       "options": [
         {
-          "letter": "B",
-          "text": "passenger",
+          "letter": "A",
+          "text": "at ... at",
           "is_correct": true,
-          "feedback": "Correct! 'passenger' matches the definition."
+          "feedback": "las horas en punto se preceden con at, tanto a las ocho como a las doce."
         },
         {
-          "letter": "A",
-          "text": "pedestrian",
+          "letter": "B",
+          "text": "in ... in",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "in se usa con expresiones mas amplias como in the morning, no con una hora exacta como las ocho."
         },
         {
           "letter": "C",
-          "text": "commuter",
+          "text": "on ... on",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "on se usa con dias y fechas, como on Monday, y no con horas del reloj."
         },
         {
           "letter": "D",
-          "text": "tourist",
+          "text": "to ... to",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "to indica destino o intervalo entre dos puntos, y no introduce la hora de inicio de una clase."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "The word 'passenger' is used to describe a traveler on a public or private conveyance other than the driver, pilot, or crew. This is an important vocabulary word in English.\n---",
-      "difficulty": "8",
+      "correct_answer": "A",
+      "explanation": "La preposicion de tiempo depende de la granularidad del dato: at para horas exactas, in para periodos amplios como la manana o la tarde y on para dias y fechas. En el repaso del sexto periodo los estudiantes ya deben aplicar esa tabla a dos espacios en la misma oracion.",
+      "difficulty": "4",
       "images": [],
       "tags": [],
-      "bloom": "Analyze",
-      "icfes_type": "Lexico",
-      "expected_success": 0.8,
+      "bloom": "Apply",
+      "icfes_type": "Uso de la lengua",
+      "expected_success": 0.85,
       "bundle_id": "CO-ING-3-2026-W30-repaso-p6-001-MASTERY-bundle",
       "periodo": 30,
       "protocol_version": "5.2",
@@ -239,41 +239,41 @@
     },
     {
       "id": "CO-ING-3-2026-W30-repaso-p6-001-MASTERY-bundle-v6",
-      "statement": "What is the English word for: \"The place at a port, airport, or frontier where officials check incoming goods, travelers, or luggage.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Which animal gives us milk?",
+      "context": "Ejercicio de repaso sobre los animales en la granja de la escuela.",
       "options": [
         {
-          "letter": "C",
-          "text": "customs",
-          "is_correct": true,
-          "feedback": "Correct! 'customs' matches the definition."
-        },
-        {
           "letter": "A",
-          "text": "security",
+          "text": "The hen",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "la gallina pone huevos y no produce leche."
         },
         {
           "letter": "B",
-          "text": "terminal",
+          "text": "The cow",
+          "is_correct": true,
+          "feedback": "la vaca es el animal dari que obtenemos la leche que consumimos."
+        },
+        {
+          "letter": "C",
+          "text": "The horse",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "el caballo se usa para montar y para transporte, no para producir leche."
         },
         {
           "letter": "D",
-          "text": "gate",
+          "text": "The sheep",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "la oveja da lana y carne, y su leche no es el alimento diario del que habla el ejercicio."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "The word 'customs' is used to describe the place at a port, airport, or frontier where officials check incoming goods, travelers, or luggage. This is an important vocabulary word in English.\n---",
-      "difficulty": "8",
+      "correct_answer": "B",
+      "explanation": "Asociar un animal con su producto es el contenido principal de esta unidad de repaso: la gallina da huevos, la oveja da lana y la vaca da leche. Este tipo de emparejamiento de vocabulario aparece con frecuencia en las pruebas de grado tercero porque comprueba comprension activa y no solo reconocimiento.",
+      "difficulty": "4",
       "images": [],
       "tags": [],
-      "bloom": "Analyze",
-      "icfes_type": "Lexico",
+      "bloom": "Understand",
+      "icfes_type": "Uso de la lengua",
       "expected_success": 0.8,
       "bundle_id": "CO-ING-3-2026-W30-repaso-p6-001-MASTERY-bundle",
       "periodo": 30,
@@ -285,42 +285,42 @@
     },
     {
       "id": "CO-ING-3-2026-W30-repaso-p6-001-MASTERY-bundle-v7",
-      "statement": "What is the English word for: \"A document provided by an airline during check-in, giving a passenger permission to board the airplane.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Look at the sentence: \"___ you ever eaten sushi?\" Which auxiliary makes the question correct?",
+      "context": "Repaso de las preguntas de experiencia con el verbo have.",
       "options": [
         {
-          "letter": "D",
-          "text": "boarding pass",
-          "is_correct": true,
-          "feedback": "Correct! 'boarding pass' matches the definition."
-        },
-        {
           "letter": "A",
-          "text": "visa",
+          "text": "Are",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "are combina con un participio como eaten y se usa con el verbo to be, no con el verbo to have."
         },
         {
           "letter": "B",
-          "text": "receipt",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "text": "Have",
+          "is_correct": true,
+          "feedback": "haveever forma el presente perfecto con el participio eaten, que es la estructura que pide el ejercicio."
         },
         {
           "letter": "C",
-          "text": "brochure",
+          "text": "Do",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "do sirve para el presente simple, como Do you like sushi, y no para un participio."
+        },
+        {
+          "letter": "D",
+          "text": "Did",
+          "is_correct": false,
+          "feedback": "did forma el pasado simple interrogativo y necesita el verbo base, no la forma eaten."
         }
       ],
-      "correct_answer": "D",
-      "explanation": "The word 'boarding pass' is used to describe a document provided by an airline during check-in, giving a passenger permission to board the airplane. This is an important vocabulary word in English.\n---",
-      "difficulty": "10",
+      "correct_answer": "B",
+      "explanation": "La presencia de un participio como eaten revela que la oracion pide el presente perfecto. El auxiliar que acompaña al participio es have, y el orden correcto es have you ever eaten. Reconocer la forma del participio es la estrategia mas segura para escoger el auxiliar en preguntas de este tipo.",
+      "difficulty": "4",
       "images": [],
       "tags": [],
-      "bloom": "Evaluate",
-      "icfes_type": "Lexico",
-      "expected_success": 0.8,
+      "bloom": "Apply",
+      "icfes_type": "Uso de la lengua",
+      "expected_success": 0.85,
       "bundle_id": "CO-ING-3-2026-W30-repaso-p6-001-MASTERY-bundle",
       "periodo": 30,
       "protocol_version": "5.2",
@@ -331,42 +331,42 @@
     },
     {
       "id": "CO-ING-3-2026-W30-repaso-p6-001-MASTERY-bundle-v8",
-      "statement": "What is the English word for: \"The activity of visiting places of interest in a particular location.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Read: \"There are seven pencils and three erasers on my desk.\" How many objects are on the desk in total?",
+      "context": "Prueba final de repaso del periodo con preguntas sobre el numero y la cantidad.",
       "options": [
         {
-          "letter": "B",
-          "text": "sightseeing",
-          "is_correct": true,
-          "feedback": "Correct! 'sightseeing' matches the definition."
+          "letter": "A",
+          "text": "Ten",
+          "is_correct": false,
+          "feedback": "diez seria el total si los numeros fueran siete y tres, pero hay que sumar los dos grupos."
         },
         {
-          "letter": "A",
-          "text": "shopping",
+          "letter": "B",
+          "text": "Nine",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "nueve corresponde solo a los lapices mas dos de mas, y no suma los tres sacapuntas."
         },
         {
           "letter": "C",
-          "text": "hiking",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "text": "Seven plus three, ten in total",
+          "is_correct": true,
+          "feedback": "7 + 3 = 10, y la opcion muestra la operacion que justifica el total."
         },
         {
           "letter": "D",
-          "text": "camping",
+          "text": "Three",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "tres es solo la cantidad de sacapuntas y deja fuera el grupo de siete lapices."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "The word 'sightseeing' is used to describe the activity of visiting places of interest in a particular location. This is an important vocabulary word in English.",
-      "difficulty": "10",
+      "correct_answer": "C",
+      "explanation": "Mostrar la operacion en la respuesta es una buena estrategia de comprension numerica: permite al docente ver el procedimiento y no solo el resultado. Cuando un total resulta ser mas de diez, conviene expresar la cuenta en dos pasos, siete y luego tres, para evitar errores de suma mental.",
+      "difficulty": "4",
       "images": [],
       "tags": [],
-      "bloom": "Evaluate",
-      "icfes_type": "Lexico",
-      "expected_success": 0.8,
+      "bloom": "Understand",
+      "icfes_type": "Uso de la lengua",
+      "expected_success": 0.85,
       "bundle_id": "CO-ING-3-2026-W30-repaso-p6-001-MASTERY-bundle",
       "periodo": 30,
       "protocol_version": "5.2",

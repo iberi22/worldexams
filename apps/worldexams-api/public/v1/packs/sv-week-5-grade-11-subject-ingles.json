@@ -9,36 +9,81 @@
   "questions": [
     {
       "id": "SV-ING-11-2026-W05-present-perfect-001-MASTERY-bundle-v1",
-      "statement": "Choose the correct option: 'I ___ reading a book right now.'",
-      "context": "English class in San Salvador, SV.",
+      "statement": "Choose the sentence that correctly uses the present perfect.",
+      "context": "Practica del presente perfecto en San Salvador.",
       "options": [
         {
           "letter": "A",
-          "text": "am",
-          "is_correct": true,
-          "feedback": "Correct!"
+          "text": "She have visited San Miguel three times.",
+          "is_correct": false,
+          "feedback": "The auxiliary must agree with 'she': it is 'has', not 'have'."
         },
         {
           "letter": "B",
-          "text": "is",
-          "is_correct": false,
-          "feedback": "Incorrect. Review the concept."
+          "text": "She has visited San Miguel three times.",
+          "is_correct": true,
+          "feedback": "Auxiliary 'has' plus past participle, the correct present perfect structure."
         },
         {
           "letter": "C",
-          "text": "are",
+          "text": "She has visit San Miguel three times.",
           "is_correct": false,
-          "feedback": "Incorrect. Review the concept."
+          "feedback": "After 'has' the second verb must be the past participle 'visited'."
         },
         {
           "letter": "D",
-          "text": "be",
+          "text": "She visiting San Miguel three times.",
           "is_correct": false,
-          "feedback": "Incorrect. Review the concept."
+          "feedback": "A gerund alone cannot form the present perfect."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "Present continuous: I am + verb-ing.",
+      "correct_answer": "B",
+      "explanation": "El presente perfecto se forma con 'have/has' mas participio y sirve para hablar de una accion pasada cuyo efecto sigue vigente.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.8,
+      "bundle_id": "SV-ING-11-2026-W05-present-perfect-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 11,
+      "country": "sv"
+    },
+    {
+      "id": "SV-ING-11-2026-W05-present-perfect-001-MASTERY-bundle-v2",
+      "statement": "Complete the sentence: 'I ____ (never / eat) sushi before.'",
+      "context": "Experiencias de vida, presente perfecto, grado 11.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "have never eat",
+          "is_correct": false,
+          "feedback": "The verb after 'have' must be the past participle 'eaten'."
+        },
+        {
+          "letter": "B",
+          "text": "am never eating",
+          "is_correct": false,
+          "feedback": "Present continuous cannot express a life experience without a specific time."
+        },
+        {
+          "letter": "C",
+          "text": "have never eaten",
+          "is_correct": true,
+          "feedback": "'Have' plus participle 'eaten' matches the life-experience use of the present perfect."
+        },
+        {
+          "letter": "D",
+          "text": "never ate",
+          "is_correct": false,
+          "feedback": "Simple past implies a definite past time, which 'before' here does not fix."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La expresion 'never before' con 'before' describe una experiencia de vida sin tiempo definido, que se expresa en presente perfecto.\n\n---",
       "difficulty": "4",
       "images": [],
       "tags": [],
@@ -53,41 +98,41 @@
       "country": "sv"
     },
     {
-      "id": "SV-ING-11-2026-W05-present-perfect-001-MASTERY-bundle-v2",
-      "statement": "What does 'benevolent' mean?",
-      "context": "English class in Soyapango, SV.",
+      "id": "SV-ING-11-2026-W05-present-perfect-001-MASTERY-bundle-v3",
+      "statement": "Complete the question: '____ you ever been to Europe?'",
+      "context": "Preguntas de experiencia en presente perfecto, grado 11.",
       "options": [
         {
           "letter": "A",
-          "text": "Kind and generous",
+          "text": "Have",
           "is_correct": true,
-          "feedback": "Correct!"
+          "feedback": "'Have you ever been...?' is the standard present perfect question about experience."
         },
         {
           "letter": "B",
-          "text": "Mean and cruel",
+          "text": "Did",
           "is_correct": false,
-          "feedback": "Incorrect. Review the concept."
+          "feedback": "'Did you ever go...?' would ask about a specific finished past event."
         },
         {
           "letter": "C",
-          "text": "Quick and fast",
+          "text": "Are",
           "is_correct": false,
-          "feedback": "Incorrect. Review the concept."
+          "feedback": "'Are' cannot be the auxiliary of a past participle such as 'been'."
         },
         {
           "letter": "D",
-          "text": "Slow and lazy",
+          "text": "Do",
           "is_correct": false,
-          "feedback": "Incorrect. Review the concept."
+          "feedback": "'Do you ever go...?' speaks about a habit, not about a life experience."
         }
       ],
       "correct_answer": "A",
-      "explanation": "'Benevolent' means kind, generous, or charitable.",
+      "explanation": "Para preguntar por experiencias se usa 'Have' mas el participio 'been'; 'ever' confirma que se busca una experiencia vital.\n\n---",
       "difficulty": "4",
       "images": [],
       "tags": [],
-      "bloom": "Understand",
+      "bloom": "Apply",
       "expected_success": 0.8,
       "bundle_id": "SV-ING-11-2026-W05-present-perfect-001-MASTERY-bundle",
       "periodo": 5,
@@ -98,87 +143,42 @@
       "country": "sv"
     },
     {
-      "id": "SV-ING-11-2026-W05-present-perfect-001-MASTERY-bundle-v3",
-      "statement": "Identify the main idea: 'The text describes how bees help pollinate flowers and produce honey.'",
-      "context": "English class in Soyapango, SV.",
+      "id": "SV-ING-11-2026-W05-present-perfect-001-MASTERY-bundle-v4",
+      "statement": "Look at this sentence: 'I have lost my keys. ____ you seen them anywhere?' Choose the correct auxiliary.",
+      "context": "Aplicacion del presente perfecto, San Miguel.",
       "options": [
         {
-          "letter": "C",
-          "text": "Bees are important for pollination and honey",
-          "is_correct": true,
-          "feedback": "Correct!"
-        },
-        {
           "letter": "A",
-          "text": "Bees are dangerous insects",
+          "text": "has",
           "is_correct": false,
-          "feedback": "Incorrect. Review the concept."
+          "feedback": "'Has' goes with he/she/it; with 'you' it would be incorrect."
         },
         {
           "letter": "B",
-          "text": "Honey is the only product bees make",
+          "text": "are",
           "is_correct": false,
-          "feedback": "Incorrect. Review the concept."
+          "feedback": "'Are' plus 'seen' would produce an invalid structure."
+        },
+        {
+          "letter": "C",
+          "text": "have",
+          "is_correct": true,
+          "feedback": "Subject 'you' takes 'have' plus the past participle 'seen'."
         },
         {
           "letter": "D",
-          "text": "Flowers don't need bees",
+          "text": "did",
           "is_correct": false,
-          "feedback": "Incorrect. Review the concept."
+          "feedback": "'Did' belongs to the simple past and would need the base form 'see'."
         }
       ],
       "correct_answer": "C",
-      "explanation": "The main idea summarizes the key points about bees: pollination and honey.",
-      "difficulty": "4",
+      "explanation": "El sujeto de la segunda oracion es 'you', que en presente perfecto exige 'have' mas participio.\n\n---",
+      "difficulty": "6",
       "images": [],
       "tags": [],
-      "bloom": "Analyze",
-      "expected_success": 0.7,
-      "bundle_id": "SV-ING-11-2026-W05-present-perfect-001-MASTERY-bundle",
-      "periodo": 5,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ingles",
-      "grade": 11,
-      "country": "sv"
-    },
-    {
-      "id": "SV-ING-11-2026-W05-present-perfect-001-MASTERY-bundle-v4",
-      "statement": "Which is the correct past form of 'go'?",
-      "context": "English class in Mejicanos, SV.",
-      "options": [
-        {
-          "letter": "D",
-          "text": "went",
-          "is_correct": true,
-          "feedback": "Correct!"
-        },
-        {
-          "letter": "A",
-          "text": "goed",
-          "is_correct": false,
-          "feedback": "Incorrect. Review the concept."
-        },
-        {
-          "letter": "B",
-          "text": "gone",
-          "is_correct": false,
-          "feedback": "Incorrect. Review the concept."
-        },
-        {
-          "letter": "C",
-          "text": "going",
-          "is_correct": false,
-          "feedback": "Incorrect. Review the concept."
-        }
-      ],
-      "correct_answer": "D",
-      "explanation": "'Go' is an irregular verb: go → went (past simple).",
-      "difficulty": "4",
-      "images": [],
-      "tags": [],
-      "bloom": "Remember",
-      "expected_success": 0.85,
+      "bloom": "Apply",
+      "expected_success": 0.8,
       "bundle_id": "SV-ING-11-2026-W05-present-perfect-001-MASTERY-bundle",
       "periodo": 5,
       "protocol_version": "5.2",
@@ -189,41 +189,41 @@
     },
     {
       "id": "SV-ING-11-2026-W05-present-perfect-001-MASTERY-bundle-v5",
-      "statement": "Which sentence uses the present simple correctly?",
-      "context": "English class in San Miguel, SV.",
+      "statement": "Which sentence is correct?",
+      "context": "Consolidacion del presente perfecto, grado 11.",
       "options": [
         {
-          "letter": "B",
-          "text": "She goes to school every day.",
-          "is_correct": true,
-          "feedback": "Correct!"
+          "letter": "A",
+          "text": "They have already finish the assignment.",
+          "is_correct": false,
+          "feedback": "After 'have' the participle 'finished' is required, not the base form."
         },
         {
-          "letter": "A",
-          "text": "She go to school every day.",
-          "is_correct": false,
-          "feedback": "Incorrect. Review the concept."
+          "letter": "B",
+          "text": "They have already finished the assignment.",
+          "is_correct": true,
+          "feedback": "'Have' + participle, with the present perfect marker 'already'."
         },
         {
           "letter": "C",
-          "text": "She going to school every day.",
+          "text": "They already have finish the assignment.",
           "is_correct": false,
-          "feedback": "Incorrect. Review the concept."
+          "feedback": "The adverb sits between the auxiliary and the verb, not before the whole phrase."
         },
         {
           "letter": "D",
-          "text": "She gone to school every day.",
+          "text": "They are already finished the assignment.",
           "is_correct": false,
-          "feedback": "Incorrect. Review the concept."
+          "feedback": "'Are' + participle is not a valid combination for this meaning."
         }
       ],
       "correct_answer": "B",
-      "explanation": "Present simple: subject + verb(-s for he/she/it).",
+      "explanation": "Solo la opcion con auxiliar 'have' y participio 'done' es una estructura de presente perfecto valida.\n\n---",
       "difficulty": "6",
       "images": [],
       "tags": [],
-      "bloom": "Remember",
-      "expected_success": 0.85,
+      "bloom": "Evaluate",
+      "expected_success": 0.8,
       "bundle_id": "SV-ING-11-2026-W05-present-perfect-001-MASTERY-bundle",
       "periodo": 5,
       "protocol_version": "5.2",
@@ -234,37 +234,37 @@
     },
     {
       "id": "SV-ING-11-2026-W05-present-perfect-001-MASTERY-bundle-v6",
-      "statement": "Choose the correct option: 'I ___ reading a book right now.'",
-      "context": "English class in Mejicanos, SV.",
+      "statement": "Choose the correct negative form of the present perfect.",
+      "context": "Negacion en presente perfecto, Santa Ana.",
       "options": [
         {
           "letter": "A",
-          "text": "am",
-          "is_correct": true,
-          "feedback": "Correct!"
+          "text": "He has not receive my message.",
+          "is_correct": false,
+          "feedback": "The participle 'received' is needed after 'has not'."
         },
         {
           "letter": "B",
-          "text": "is",
+          "text": "He not has received my message.",
           "is_correct": false,
-          "feedback": "Incorrect. Review the concept."
+          "feedback": "The auxiliary must precede the adverb 'not' in English."
         },
         {
           "letter": "C",
-          "text": "are",
-          "is_correct": false,
-          "feedback": "Incorrect. Review the concept."
+          "text": "He has not received my message.",
+          "is_correct": true,
+          "feedback": "'Has not' plus participle 'received' is the correct negative."
         },
         {
           "letter": "D",
-          "text": "be",
+          "text": "He does not received my message.",
           "is_correct": false,
-          "feedback": "Incorrect. Review the concept."
+          "feedback": "The present perfect requires 'has not', not 'does not'."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "Present continuous: I am + verb-ing.",
-      "difficulty": "6",
+      "correct_answer": "C",
+      "explanation": "La negacion se forma con 'have/has not' seguido del participio; la estructura correcta conserva el participio.\n\n---",
+      "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Apply",
@@ -279,40 +279,40 @@
     },
     {
       "id": "SV-ING-11-2026-W05-present-perfect-001-MASTERY-bundle-v7",
-      "statement": "What does 'benevolent' mean?",
-      "context": "English class in Soyapango, SV.",
+      "statement": "Which sentence expresses the meaning 'it is important now'?",
+      "context": "Comprension del valor del presente perfecto, grado 11.",
       "options": [
         {
           "letter": "A",
-          "text": "Kind and generous",
-          "is_correct": true,
-          "feedback": "Correct!"
+          "text": "I brushed my teeth, so I can sleep now.",
+          "is_correct": false,
+          "feedback": "Simple past is acceptable only with a definite past time; here the result is what matters."
         },
         {
           "letter": "B",
-          "text": "Mean and cruel",
+          "text": "I am brushing my teeth, so I can sleep now.",
           "is_correct": false,
-          "feedback": "Incorrect. Review the concept."
+          "feedback": "Present continuous would be unusual as a completed preparatory action."
         },
         {
           "letter": "C",
-          "text": "Quick and fast",
+          "text": "I will brush my teeth, so I can sleep now.",
           "is_correct": false,
-          "feedback": "Incorrect. Review the concept."
+          "feedback": "Future tense reverses the order of cause and effect."
         },
         {
           "letter": "D",
-          "text": "Slow and lazy",
-          "is_correct": false,
-          "feedback": "Incorrect. Review the concept."
+          "text": "I have brushed my teeth, so I can sleep now.",
+          "is_correct": true,
+          "feedback": "The past action explains a present consequence, which is exactly the present perfect."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "'Benevolent' means kind, generous, or charitable.",
+      "correct_answer": "D",
+      "explanation": "El presente perfeito conecta una accion pasada con un resultado presente, como en 'I have brushed my teeth' antes de dormir.\n\n---",
       "difficulty": "6",
       "images": [],
       "tags": [],
-      "bloom": "Understand",
+      "bloom": "Analyze",
       "expected_success": 0.8,
       "bundle_id": "SV-ING-11-2026-W05-present-perfect-001-MASTERY-bundle",
       "periodo": 5,
@@ -324,41 +324,41 @@
     },
     {
       "id": "SV-ING-11-2026-W05-present-perfect-001-MASTERY-bundle-v8",
-      "statement": "Identify the main idea: 'The text describes how bees help pollinate flowers and produce honey.'",
-      "context": "English class in San Miguel, SV.",
+      "statement": "Fill in the blank: 'They ____ (not / yet) finish the report.'",
+      "context": "Presente perfecto con 'yet', grado 11.",
       "options": [
         {
-          "letter": "C",
-          "text": "Bees are important for pollination and honey",
-          "is_correct": true,
-          "feedback": "Correct!"
-        },
-        {
           "letter": "A",
-          "text": "Bees are dangerous insects",
-          "is_correct": false,
-          "feedback": "Incorrect. Review the concept."
+          "text": "have not yet finished",
+          "is_correct": true,
+          "feedback": "Plural subject plus 'have not' plus participle 'finished', with 'yet' in the middle."
         },
         {
           "letter": "B",
-          "text": "Honey is the only product bees make",
+          "text": "have not yet finish",
           "is_correct": false,
-          "feedback": "Incorrect. Review the concept."
+          "feedback": "The verb must be the past participle after 'have not'."
+        },
+        {
+          "letter": "C",
+          "text": "did not yet finish",
+          "is_correct": false,
+          "feedback": "'Did' would require the base form and a past time reference."
         },
         {
           "letter": "D",
-          "text": "Flowers don't need bees",
+          "text": "are not yet finishing",
           "is_correct": false,
-          "feedback": "Incorrect. Review the concept."
+          "feedback": "Present continuous cannot express the completion of the report."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "The main idea summarizes the key points about bees: pollination and honey.",
-      "difficulty": "6",
+      "correct_answer": "A",
+      "explanation": "'Yet' es un marcador del presente perfecto y suele ir con 'have/has not' mas participio.\n\n---",
+      "difficulty": "4",
       "images": [],
       "tags": [],
-      "bloom": "Analyze",
-      "expected_success": 0.7,
+      "bloom": "Apply",
+      "expected_success": 0.8,
       "bundle_id": "SV-ING-11-2026-W05-present-perfect-001-MASTERY-bundle",
       "periodo": 5,
       "protocol_version": "5.2",
@@ -369,41 +369,41 @@
     },
     {
       "id": "SV-ING-11-2026-W05-present-perfect-001-MASTERY-bundle-v9",
-      "statement": "Which is the correct past form of 'go'?",
-      "context": "English class in Mejicanos, SV.",
+      "statement": "Choose the sentence that uses 'since' correctly with the present perfect.",
+      "context": "Practica de 'since' y 'for', grado 11.",
       "options": [
         {
-          "letter": "D",
-          "text": "went",
-          "is_correct": true,
-          "feedback": "Correct!"
-        },
-        {
           "letter": "A",
-          "text": "goed",
+          "text": "He lives in Apaneca since 2019.",
           "is_correct": false,
-          "feedback": "Incorrect. Review the concept."
+          "feedback": "'Since' is incompatible with the present simple; the action started in the past."
         },
         {
           "letter": "B",
-          "text": "gone",
-          "is_correct": false,
-          "feedback": "Incorrect. Review the concept."
+          "text": "He has lived in Apaneca since 2019.",
+          "is_correct": true,
+          "feedback": "'Since' + year with 'has lived' is the standard ongoing situation pattern."
         },
         {
           "letter": "C",
-          "text": "going",
+          "text": "He lived in Apaneca since 2019.",
           "is_correct": false,
-          "feedback": "Incorrect. Review the concept."
+          "feedback": "Simple past with 'since' is wrong because the situation continues into the present."
+        },
+        {
+          "letter": "D",
+          "text": "He is living in Apaneca since 2019.",
+          "is_correct": false,
+          "feedback": "Present continuous cannot be combined with 'since' in this usage."
         }
       ],
-      "correct_answer": "D",
-      "explanation": "'Go' is an irregular verb: go → went (past simple).",
+      "correct_answer": "B",
+      "explanation": "'Since' introduce un punto de partida en el tiempo, y esa construccion pertenece al presente perfecto con 'has/have been'.\n\n---",
       "difficulty": "6",
       "images": [],
       "tags": [],
-      "bloom": "Remember",
-      "expected_success": 0.85,
+      "bloom": "Analyze",
+      "expected_success": 0.8,
       "bundle_id": "SV-ING-11-2026-W05-present-perfect-001-MASTERY-bundle",
       "periodo": 5,
       "protocol_version": "5.2",
@@ -414,41 +414,41 @@
     },
     {
       "id": "SV-ING-11-2026-W05-present-perfect-001-MASTERY-bundle-v10",
-      "statement": "Which sentence uses the present simple correctly?",
-      "context": "English class in Mejicanos, SV.",
+      "statement": "Which sentence is NOT correct in the present perfect?",
+      "context": "Deteccion de errores, presente perfecto, San Salvador.",
       "options": [
         {
-          "letter": "D",
-          "text": "She goes to school every day.",
-          "is_correct": true,
-          "feedback": "Correct!"
-        },
-        {
           "letter": "A",
-          "text": "She go to school every day.",
+          "text": "She has gone to Berlin twice.",
           "is_correct": false,
-          "feedback": "Incorrect. Review the concept."
+          "feedback": "Present perfect with a countable experience and 'twice' is correct."
         },
         {
           "letter": "B",
-          "text": "She going to school every day.",
+          "text": "We have known each other for ten years.",
           "is_correct": false,
-          "feedback": "Incorrect. Review the concept."
+          "feedback": "'For' plus duration with the present perfect is correct."
         },
         {
           "letter": "C",
-          "text": "She gone to school every day.",
+          "text": "They have just left the building.",
           "is_correct": false,
-          "feedback": "Incorrect. Review the concept."
+          "feedback": "'Just' is a present perfect marker, so the form is correct."
+        },
+        {
+          "letter": "D",
+          "text": "I have arrived since yesterday.",
+          "is_correct": true,
+          "feedback": "'Since' with a finished past moment requires the simple past: 'I arrived yesterday'."
         }
       ],
       "correct_answer": "D",
-      "explanation": "Present simple: subject + verb(-s for he/she/it).",
+      "explanation": "'Since yesterday' fija un momento del pasado, por lo que se usa el pasado simple y no el presente perfecto.\n\n---",
       "difficulty": "6",
       "images": [],
       "tags": [],
-      "bloom": "Remember",
-      "expected_success": 0.85,
+      "bloom": "Analyze",
+      "expected_success": 0.8,
       "bundle_id": "SV-ING-11-2026-W05-present-perfect-001-MASTERY-bundle",
       "periodo": 5,
       "protocol_version": "5.2",
@@ -459,40 +459,40 @@
     },
     {
       "id": "SV-ING-11-2026-W05-present-perfect-001-MASTERY-bundle-v11",
-      "statement": "Choose the correct option: 'I ___ reading a book right now.'",
-      "context": "English class in Soyapango, SV.",
+      "statement": "Choose the correct question in the present perfect.",
+      "context": "Interrogacion en presente perfecto, grado 11.",
       "options": [
         {
-          "letter": "D",
-          "text": "am",
-          "is_correct": true,
-          "feedback": "Correct!"
-        },
-        {
           "letter": "A",
-          "text": "is",
+          "text": "Is he finished the report yet?",
           "is_correct": false,
-          "feedback": "Incorrect. Review the concept."
+          "feedback": "'Is' cannot be combined with the participle 'finished' in this structure."
         },
         {
           "letter": "B",
-          "text": "are",
+          "text": "Did he finished the report yet?",
           "is_correct": false,
-          "feedback": "Incorrect. Review the concept."
+          "feedback": "'Did' requires the base form 'finish' and belongs to the simple past."
         },
         {
           "letter": "C",
-          "text": "be",
+          "text": "Has he finished the report yet?",
+          "is_correct": true,
+          "feedback": "Auxiliary 'has' before the subject and the participle 'finished' with 'yet'."
+        },
+        {
+          "letter": "D",
+          "text": "Does he finish the report yet?",
           "is_correct": false,
-          "feedback": "Incorrect. Review the concept."
+          "feedback": "'Does' plus base form is the present simple, not the present perfect."
         }
       ],
-      "correct_answer": "D",
-      "explanation": "Present continuous: I am + verb-ing.",
-      "difficulty": "8",
+      "correct_answer": "C",
+      "explanation": "La pregunta en presente perfecto conserva el auxiliar 'have/has' delante del sujeto y el participio al final.\n\n---",
+      "difficulty": "4",
       "images": [],
       "tags": [],
-      "bloom": "Apply",
+      "bloom": "Analyze",
       "expected_success": 0.8,
       "bundle_id": "SV-ING-11-2026-W05-present-perfect-001-MASTERY-bundle",
       "periodo": 5,
@@ -504,217 +504,37 @@
     },
     {
       "id": "SV-ING-11-2026-W05-present-perfect-001-MASTERY-bundle-v12",
-      "statement": "What does 'benevolent' mean?",
-      "context": "English class in Soyapango, SV.",
+      "statement": "Complete the sentence: 'She is not here; she ____ to the library.'",
+      "context": "Inferencia a partir de una situacion presente, grado 11.",
       "options": [
         {
           "letter": "A",
-          "text": "Kind and generous",
-          "is_correct": true,
-          "feedback": "Correct!"
+          "text": "has go",
+          "is_correct": false,
+          "feedback": "The second verb must be the past participle 'gone'."
         },
         {
           "letter": "B",
-          "text": "Mean and cruel",
-          "is_correct": false,
-          "feedback": "Incorrect. Review the concept."
-        },
-        {
-          "letter": "C",
-          "text": "Quick and fast",
-          "is_correct": false,
-          "feedback": "Incorrect. Review the concept."
-        },
-        {
-          "letter": "D",
-          "text": "Slow and lazy",
-          "is_correct": false,
-          "feedback": "Incorrect. Review the concept."
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "'Benevolent' means kind, generous, or charitable.",
-      "difficulty": "8",
-      "images": [],
-      "tags": [],
-      "bloom": "Understand",
-      "expected_success": 0.8,
-      "bundle_id": "SV-ING-11-2026-W05-present-perfect-001-MASTERY-bundle",
-      "periodo": 5,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ingles",
-      "grade": 11,
-      "country": "sv"
-    },
-    {
-      "id": "SV-ING-11-2026-W05-present-perfect-001-MASTERY-bundle-v13",
-      "statement": "Identify the main idea: 'The text describes how bees help pollinate flowers and produce honey.'",
-      "context": "English class in Soyapango, SV.",
-      "options": [
-        {
-          "letter": "C",
-          "text": "Bees are important for pollination and honey",
+          "text": "has gone",
           "is_correct": true,
-          "feedback": "Correct!"
-        },
-        {
-          "letter": "A",
-          "text": "Bees are dangerous insects",
-          "is_correct": false,
-          "feedback": "Incorrect. Review the concept."
-        },
-        {
-          "letter": "B",
-          "text": "Honey is the only product bees make",
-          "is_correct": false,
-          "feedback": "Incorrect. Review the concept."
-        },
-        {
-          "letter": "D",
-          "text": "Flowers don't need bees",
-          "is_correct": false,
-          "feedback": "Incorrect. Review the concept."
-        }
-      ],
-      "correct_answer": "C",
-      "explanation": "The main idea summarizes the key points about bees: pollination and honey.",
-      "difficulty": "8",
-      "images": [],
-      "tags": [],
-      "bloom": "Analyze",
-      "expected_success": 0.7,
-      "bundle_id": "SV-ING-11-2026-W05-present-perfect-001-MASTERY-bundle",
-      "periodo": 5,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ingles",
-      "grade": 11,
-      "country": "sv"
-    },
-    {
-      "id": "SV-ING-11-2026-W05-present-perfect-001-MASTERY-bundle-v14",
-      "statement": "Which is the correct past form of 'go'?",
-      "context": "English class in Santa Ana, SV.",
-      "options": [
-        {
-          "letter": "C",
-          "text": "went",
-          "is_correct": true,
-          "feedback": "Correct!"
-        },
-        {
-          "letter": "A",
-          "text": "goed",
-          "is_correct": false,
-          "feedback": "Incorrect. Review the concept."
-        },
-        {
-          "letter": "B",
-          "text": "gone",
-          "is_correct": false,
-          "feedback": "Incorrect. Review the concept."
-        },
-        {
-          "letter": "D",
-          "text": "going",
-          "is_correct": false,
-          "feedback": "Incorrect. Review the concept."
-        }
-      ],
-      "correct_answer": "C",
-      "explanation": "'Go' is an irregular verb: go → went (past simple).",
-      "difficulty": "8",
-      "images": [],
-      "tags": [],
-      "bloom": "Remember",
-      "expected_success": 0.85,
-      "bundle_id": "SV-ING-11-2026-W05-present-perfect-001-MASTERY-bundle",
-      "periodo": 5,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ingles",
-      "grade": 11,
-      "country": "sv"
-    },
-    {
-      "id": "SV-ING-11-2026-W05-present-perfect-001-MASTERY-bundle-v15",
-      "statement": "Which sentence uses the present simple correctly?",
-      "context": "English class in San Miguel, SV.",
-      "options": [
-        {
-          "letter": "B",
-          "text": "She goes to school every day.",
-          "is_correct": true,
-          "feedback": "Correct!"
-        },
-        {
-          "letter": "A",
-          "text": "She go to school every day.",
-          "is_correct": false,
-          "feedback": "Incorrect. Review the concept."
+          "feedback": "'Has gone' expresses a past movement whose result is still true: she is not here now."
         },
         {
           "letter": "C",
-          "text": "She going to school every day.",
+          "text": "would go",
           "is_correct": false,
-          "feedback": "Incorrect. Review the concept."
+          "feedback": "Conditional form does not match the inference from the present situation."
         },
         {
           "letter": "D",
-          "text": "She gone to school every day.",
+          "text": "is going",
           "is_correct": false,
-          "feedback": "Incorrect. Review the concept."
+          "feedback": "Present continuous would place her on the way there right now."
         }
       ],
       "correct_answer": "B",
-      "explanation": "Present simple: subject + verb(-s for he/she/it).",
-      "difficulty": "8",
-      "images": [],
-      "tags": [],
-      "bloom": "Remember",
-      "expected_success": 0.85,
-      "bundle_id": "SV-ING-11-2026-W05-present-perfect-001-MASTERY-bundle",
-      "periodo": 5,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ingles",
-      "grade": 11,
-      "country": "sv"
-    },
-    {
-      "id": "SV-ING-11-2026-W05-present-perfect-001-MASTERY-bundle-v16",
-      "statement": "Choose the correct option: 'I ___ reading a book right now.'",
-      "context": "English class in San Miguel, SV.",
-      "options": [
-        {
-          "letter": "B",
-          "text": "am",
-          "is_correct": true,
-          "feedback": "Correct!"
-        },
-        {
-          "letter": "A",
-          "text": "is",
-          "is_correct": false,
-          "feedback": "Incorrect. Review the concept."
-        },
-        {
-          "letter": "C",
-          "text": "are",
-          "is_correct": false,
-          "feedback": "Incorrect. Review the concept."
-        },
-        {
-          "letter": "D",
-          "text": "be",
-          "is_correct": false,
-          "feedback": "Incorrect. Review the concept."
-        }
-      ],
-      "correct_answer": "B",
-      "explanation": "Present continuous: I am + verb-ing.",
-      "difficulty": "8",
+      "explanation": "La inferencia sobre una accion pasada con consecuencia presente se expresa con presente perfecto y participio.\n\n---",
+      "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Apply",
@@ -728,38 +548,128 @@
       "country": "sv"
     },
     {
-      "id": "SV-ING-11-2026-W05-present-perfect-001-MASTERY-bundle-v17",
-      "statement": "What does 'benevolent' mean?",
-      "context": "English class in San Salvador, SV.",
+      "id": "SV-ING-11-2026-W05-present-perfect-001-MASTERY-bundle-v13",
+      "statement": "Which sentence uses the present perfect progressive correctly?",
+      "context": "Reconocimiento del aspecto, grado 11.",
       "options": [
         {
-          "letter": "D",
-          "text": "Kind and generous",
-          "is_correct": true,
-          "feedback": "Correct!"
-        },
-        {
           "letter": "A",
-          "text": "Mean and cruel",
+          "text": "He is studying since three hours.",
           "is_correct": false,
-          "feedback": "Incorrect. Review the concept."
+          "feedback": "'Since' needs a starting point, not a duration, and cannot follow 'is studying'."
         },
         {
           "letter": "B",
-          "text": "Quick and fast",
+          "text": "He studies for three hours.",
           "is_correct": false,
-          "feedback": "Incorrect. Review the concept."
+          "feedback": "Simple present plus 'for' describes a habit, not an action in progress."
         },
         {
           "letter": "C",
-          "text": "Slow and lazy",
+          "text": "He had studied for three hours.",
           "is_correct": false,
-          "feedback": "Incorrect. Review the concept."
+          "feedback": "Past perfect places the whole action before another past moment."
+        },
+        {
+          "letter": "D",
+          "text": "He has been studying for three hours.",
+          "is_correct": true,
+          "feedback": "'Has been studying' marks a duration that started in the past and still continues."
         }
       ],
       "correct_answer": "D",
-      "explanation": "'Benevolent' means kind, generous, or charitable.",
-      "difficulty": "10",
+      "explanation": "El presente perfecto progresivo se forma con 'have/has been' mas gerundio y describe una accion que empezo en el pasado y continua.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.8,
+      "bundle_id": "SV-ING-11-2026-W05-present-perfect-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 11,
+      "country": "sv"
+    },
+    {
+      "id": "SV-ING-11-2026-W05-present-perfect-001-MASTERY-bundle-v14",
+      "statement": "Choose the correct answer: 'How long ____ you been working here?'",
+      "context": "Preguntas de duracion con presente perfecto, San Miguel.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "have",
+          "is_correct": true,
+          "feedback": "'Have you been working...?' is the present perfect progressive question."
+        },
+        {
+          "letter": "B",
+          "text": "did",
+          "is_correct": false,
+          "feedback": "'Did you work here?' asks about a finished past period."
+        },
+        {
+          "letter": "C",
+          "text": "do",
+          "is_correct": false,
+          "feedback": "'Do you work here?' speaks about the current job in general, not about its duration."
+        },
+        {
+          "letter": "D",
+          "text": "are",
+          "is_correct": false,
+          "feedback": "'Are you working here?' is a temporary present state without duration."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Para preguntar por un tiempo transcurrido hasta el presente se usa 'have' mas 'been' mas gerundio.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.8,
+      "bundle_id": "SV-ING-11-2026-W05-present-perfect-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 11,
+      "country": "sv"
+    },
+    {
+      "id": "SV-ING-11-2026-W05-present-perfect-001-MASTERY-bundle-v15",
+      "statement": "Look at the text: 'I have lived here since I was a child.' What does this sentence tell us?",
+      "context": "Comprension lectora, presente perfecto, grado 11.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "The speaker still lives there.",
+          "is_correct": true,
+          "feedback": "The action started in the past and has not stopped, so it is still true today."
+        },
+        {
+          "letter": "B",
+          "text": "The speaker lived there for a while and then left.",
+          "is_correct": false,
+          "feedback": "That meaning would require the past simple or the past perfect."
+        },
+        {
+          "letter": "C",
+          "text": "The speaker will move there next year.",
+          "is_correct": false,
+          "feedback": "Nothing in the sentence refers to the future."
+        },
+        {
+          "letter": "D",
+          "text": "The speaker has never lived anywhere else.",
+          "is_correct": false,
+          "feedback": "The sentence does not mention any other place."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El presente perfecto con 'since' indica una situacion que empezo en el pasado y que continua en el presente.\n\n---",
+      "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Understand",
@@ -773,42 +683,132 @@
       "country": "sv"
     },
     {
-      "id": "SV-ING-11-2026-W05-present-perfect-001-MASTERY-bundle-v18",
-      "statement": "Identify the main idea: 'The text describes how bees help pollinate flowers and produce honey.'",
-      "context": "English class in San Salvador, SV.",
+      "id": "SV-ING-11-2026-W05-present-perfect-001-MASTERY-bundle-v16",
+      "statement": "Which of these verbs is irregular and forms its participle with a change of the stem?",
+      "context": "Revision de verbos irregulares, grado 11.",
       "options": [
         {
-          "letter": "B",
-          "text": "Bees are important for pollination and honey",
-          "is_correct": true,
-          "feedback": "Correct!"
+          "letter": "A",
+          "text": "work - worked",
+          "is_correct": false,
+          "feedback": "A regular verb: the participle keeps the stem and adds -ed."
         },
         {
-          "letter": "A",
-          "text": "Bees are dangerous insects",
-          "is_correct": false,
-          "feedback": "Incorrect. Review the concept."
+          "letter": "B",
+          "text": "write - written",
+          "is_correct": true,
+          "feedback": "The stem vowel changes from 'i' to 'i' with the ending '-written', an irregular participle."
         },
         {
           "letter": "C",
-          "text": "Honey is the only product bees make",
+          "text": "play - played",
           "is_correct": false,
-          "feedback": "Incorrect. Review the concept."
+          "feedback": "Regular verb: the past and the participle end in -ed."
         },
         {
           "letter": "D",
-          "text": "Flowers don't need bees",
+          "text": "open - opened",
           "is_correct": false,
-          "feedback": "Incorrect. Review the concept."
+          "feedback": "Regular verb: the participle is formed with -ed."
         }
       ],
       "correct_answer": "B",
-      "explanation": "The main idea summarizes the key points about bees: pollination and honey.",
-      "difficulty": "10",
+      "explanation": "'Write' cambia de 'write' a 'written' en participio, igual que 'drive/driven' o 'take/taken'.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.8,
+      "bundle_id": "SV-ING-11-2026-W05-present-perfect-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 11,
+      "country": "sv"
+    },
+    {
+      "id": "SV-ING-11-2026-W05-present-perfect-001-MASTERY-bundle-v17",
+      "statement": "Choose the correct sentence with 'for'.",
+      "context": "Diferencia entre 'for' y 'since', grado 11.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "We have studied English since six years.",
+          "is_correct": false,
+          "feedback": "'Since' cannot be followed by a duration; it needs a date or a starting event."
+        },
+        {
+          "letter": "B",
+          "text": "We study English for six years.",
+          "is_correct": false,
+          "feedback": "Simple present plus 'for' describes an established habit, not the accumulated time."
+        },
+        {
+          "letter": "C",
+          "text": "We have studied English for six years.",
+          "is_correct": true,
+          "feedback": "'For' + period of time is the correct combination with the present perfect."
+        },
+        {
+          "letter": "D",
+          "text": "We are studying English since six years.",
+          "is_correct": false,
+          "feedback": "Present continuous cannot be combined with 'since' here."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "'For' va seguido de un periodo de tiempo, mientras 'since' va seguido de un punto de partida; el presente perfecto combina con ambos.\n\n---",
+      "difficulty": "6",
       "images": [],
       "tags": [],
       "bloom": "Analyze",
-      "expected_success": 0.7,
+      "expected_success": 0.8,
+      "bundle_id": "SV-ING-11-2026-W05-present-perfect-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 11,
+      "country": "sv"
+    },
+    {
+      "id": "SV-ING-11-2026-W05-present-perfect-001-MASTERY-bundle-v18",
+      "statement": "Complete the dialogue: 'A: Have you ever eaten pupusa? B: Yes, I ____ in Ataco last year.'",
+      "context": "Dialogo sobre experiencias, San Salvador.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "have eaten",
+          "is_correct": false,
+          "feedback": "Present perfect with 'last year' would be contradictory; the time is already closed."
+        },
+        {
+          "letter": "B",
+          "text": "am eating",
+          "is_correct": false,
+          "feedback": "Present continuous places the action now, but the text says 'last year'."
+        },
+        {
+          "letter": "C",
+          "text": "had eaten",
+          "is_correct": false,
+          "feedback": "Past perfect would require another past reference point, which is absent here."
+        },
+        {
+          "letter": "D",
+          "text": "ate",
+          "is_correct": true,
+          "feedback": "'Ate' is the simple past of 'eat', and 'last year' requires a finished past tense."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "'Last year' es un tiempo pasado definido, por lo que la segunda respuesta debe ir en pasado simple, no en presente perfecto.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.8,
       "bundle_id": "SV-ING-11-2026-W05-present-perfect-001-MASTERY-bundle",
       "periodo": 5,
       "protocol_version": "5.2",
@@ -819,41 +819,41 @@
     },
     {
       "id": "SV-ING-11-2026-W05-present-perfect-001-MASTERY-bundle-v19",
-      "statement": "Which is the correct past form of 'go'?",
-      "context": "English class in Santa Ana, SV.",
+      "statement": "What is the function of 'already' in the sentence: 'They have already submitted the form'?",
+      "context": "Analisis de marcadores del presente perfecto, grado 11.",
       "options": [
         {
-          "letter": "B",
-          "text": "went",
-          "is_correct": true,
-          "feedback": "Correct!"
+          "letter": "A",
+          "text": "It shows the action will happen in the future.",
+          "is_correct": false,
+          "feedback": "'Already' points to a completed past action, not to the future."
         },
         {
-          "letter": "A",
-          "text": "goed",
+          "letter": "B",
+          "text": "It shows a repeated action in the past.",
           "is_correct": false,
-          "feedback": "Incorrect. Review the concept."
+          "feedback": "Repetition is expressed by 'every', 'usually' or similar frequency adverbs."
         },
         {
           "letter": "C",
-          "text": "gone",
+          "text": "It shows the action is happening right now.",
           "is_correct": false,
-          "feedback": "Incorrect. Review the concept."
+          "feedback": "That is the function of the present continuous, not of 'already'."
         },
         {
           "letter": "D",
-          "text": "going",
-          "is_correct": false,
-          "feedback": "Incorrect. Review the concept."
+          "text": "It shows the action was completed sooner than expected.",
+          "is_correct": true,
+          "feedback": "'Already' marks completion before the expected moment, a typical present perfect use."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "'Go' is an irregular verb: go → went (past simple).",
-      "difficulty": "10",
+      "correct_answer": "D",
+      "explanation": "'Already' indica que la accion se ha completado antes de lo esperado, y por eso solo aparece con el presente perfecto.\n\n---",
+      "difficulty": "6",
       "images": [],
       "tags": [],
-      "bloom": "Remember",
-      "expected_success": 0.85,
+      "bloom": "Analyze",
+      "expected_success": 0.8,
       "bundle_id": "SV-ING-11-2026-W05-present-perfect-001-MASTERY-bundle",
       "periodo": 5,
       "protocol_version": "5.2",
@@ -864,41 +864,41 @@
     },
     {
       "id": "SV-ING-11-2026-W05-present-perfect-001-MASTERY-bundle-v20",
-      "statement": "Which sentence uses the present simple correctly?",
-      "context": "English class in Mejicanos, SV.",
+      "statement": "Which sentence is grammatically and logically correct?",
+      "context": "Sintesis de presente perfecto, grado 11.",
       "options": [
         {
-          "letter": "C",
-          "text": "She goes to school every day.",
-          "is_correct": true,
-          "feedback": "Correct!"
-        },
-        {
           "letter": "A",
-          "text": "She go to school every day.",
-          "is_correct": false,
-          "feedback": "Incorrect. Review the concept."
+          "text": "The results have not been published yet.",
+          "is_correct": true,
+          "feedback": "Passive present perfect: 'have not been' plus participle 'published'."
         },
         {
           "letter": "B",
-          "text": "She going to school every day.",
+          "text": "The results have not published yet.",
           "is_correct": false,
-          "feedback": "Incorrect. Review the concept."
+          "feedback": "The subject 'the results' cannot publish themselves; the passive is required."
+        },
+        {
+          "letter": "C",
+          "text": "The results not have been published yet.",
+          "is_correct": false,
+          "feedback": "The auxiliary must precede the adverb 'not'."
         },
         {
           "letter": "D",
-          "text": "She gone to school every day.",
+          "text": "The results has not been published yet.",
           "is_correct": false,
-          "feedback": "Incorrect. Review the concept."
+          "feedback": "Plural 'results' requires 'have', not 'has'."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "Present simple: subject + verb(-s for he/she/it).",
-      "difficulty": "10",
+      "correct_answer": "A",
+      "explanation": "La forma de presente perfecto exige auxiliar mas participio; de las cuatro opciones solo la C cumple ambas condiciones.\n\n---",
+      "difficulty": "6",
       "images": [],
       "tags": [],
-      "bloom": "Remember",
-      "expected_success": 0.85,
+      "bloom": "Evaluate",
+      "expected_success": 0.8,
       "bundle_id": "SV-ING-11-2026-W05-present-perfect-001-MASTERY-bundle",
       "periodo": 5,
       "protocol_version": "5.2",

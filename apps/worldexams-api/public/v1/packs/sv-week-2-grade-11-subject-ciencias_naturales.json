@@ -9,36 +9,36 @@
   "questions": [
     {
       "id": "SV-CIE-11-2026-W02-celula-estructura-001-MASTERY-bundle-v1",
-      "statement": "¿Qué proceso conviierte luz solar en energía química en las plantas?",
-      "context": "Clase de ciencias en San Miguel estudiando celula estructura.",
+      "statement": "¿Qué organelo es responsable de producir la mayor parte del ATP en una célula eucariota?",
+      "context": "En el laboratorio de biología de San Miguel, el grupo analiza laminillas de la mejilla y las células de la hoja de elote.",
       "options": [
         {
-          "letter": "B",
-          "text": "Fotosíntesis",
-          "is_correct": true,
-          "feedback": "¡Correcto!"
+          "letter": "A",
+          "text": "El retículo endoplásmico",
+          "is_correct": false,
+          "feedback": "Incorrecto. El retículo endoplásmico sintetiza proteínas y lípidos, pero no genera ATP."
         },
         {
-          "letter": "A",
-          "text": "Respiración celular",
+          "letter": "B",
+          "text": "El aparato de Golgi",
           "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "feedback": "Incorrecto. El aparato de Golgi modifica y empaqueta proteínas; no tiene membrana mitocondrial interna."
         },
         {
           "letter": "C",
-          "text": "Fermentación",
+          "text": "El lisosoma",
           "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "feedback": "Incorrecto. El lisosoma digiere materiales con enzimas hidrolíticas, no produce energía."
         },
         {
           "letter": "D",
-          "text": "Digestión",
-          "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "text": "La mitocondria",
+          "is_correct": true,
+          "feedback": "Correcto. La mitocondria realiza la fosforilación oxidativa y produce ATP."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "La fotosíntesis usa luz, agua y CO₂ para producir glucosa y oxígeno.",
+      "correct_answer": "D",
+      "explanation": "La mitocondria posee membrana interna con crestas donde se encuentra la cadena respiratoria, y en la matriz ocurre el ciclo de Krebs. Ambos procesos generan ATP, la moneda energética de la célula.",
       "difficulty": "4",
       "images": [],
       "tags": [],
@@ -54,81 +54,36 @@
     },
     {
       "id": "SV-CIE-11-2026-W02-celula-estructura-001-MASTERY-bundle-v2",
-      "statement": "Objeto de 8 kg acelera a 5 m/s². ¿Fuerza aplicada? (F=ma)",
-      "context": "Clase de ciencias en Mejicanos estudiando celula estructura.",
+      "statement": "¿Qué estructura regula el paso de sustancias dentro y fuera de la célula?",
+      "context": "El profesor pide a los estudiantes identificar la estructura que rodea a toda la célula y controla qué entra y sale.",
       "options": [
         {
-          "letter": "C",
-          "text": "40 N",
-          "is_correct": true,
-          "feedback": "¡Correcto!"
-        },
-        {
           "letter": "A",
-          "text": "32 N",
-          "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "text": "La membrana plasmática",
+          "is_correct": true,
+          "feedback": "Correcto. La membrana plasmática es selectivamente permeable y controla los intercambios."
         },
         {
           "letter": "B",
-          "text": "45 N",
+          "text": "La pared celular",
           "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "feedback": "Incorrecto. La pared celular da rigidez, pero no regula el paso de sustancias."
         },
-        {
-          "letter": "D",
-          "text": "8 N",
-          "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
-        }
-      ],
-      "correct_answer": "C",
-      "explanation": "F = ma = 8×5 = 40 N.",
-      "difficulty": "4",
-      "images": [],
-      "tags": [],
-      "bloom": "Apply",
-      "expected_success": 0.8,
-      "bundle_id": "SV-CIE-11-2026-W02-celula-estructura-001-MASTERY-bundle",
-      "periodo": 2,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ciencias-naturales",
-      "grade": 11,
-      "country": "sv"
-    },
-    {
-      "id": "SV-CIE-11-2026-W02-celula-estructura-001-MASTERY-bundle-v3",
-      "statement": "¿Cuál es el órgano más grande del cuerpo humano?",
-      "context": "Clase de ciencias en San Salvador estudiando celula estructura.",
-      "options": [
         {
           "letter": "C",
-          "text": "La piel",
-          "is_correct": true,
-          "feedback": "¡Correcto!"
-        },
-        {
-          "letter": "A",
-          "text": "El hígado",
+          "text": "El citoplasma",
           "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
-        },
-        {
-          "letter": "B",
-          "text": "El corazón",
-          "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "feedback": "Incorrecto. El citoplasma es el medio interno donde ocurren las reacciones."
         },
         {
           "letter": "D",
-          "text": "Los pulmones",
+          "text": "El núcleo",
           "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "feedback": "Incorrecto. El núcleo guarda el material genético, no controla los intercambios con el exterior."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "La piel es el órgano más grande, cubriendo y protegiendo todo el cuerpo.",
+      "correct_answer": "A",
+      "explanation": "La membrana plasmática es una bicapa de fosfolípidos con proteínas: deja pasar nutrientes, gases y desechos, pero frena el paso de sustancias que no necesita la célula.",
       "difficulty": "4",
       "images": [],
       "tags": [],
@@ -143,38 +98,83 @@
       "country": "sv"
     },
     {
-      "id": "SV-CIE-11-2026-W02-celula-estructura-001-MASTERY-bundle-v4",
-      "statement": "En un experimento, plantas con luz crecen más que sin luz. ¿Variable independiente?",
-      "context": "Clase de ciencias en Santa Ana estudiando celula estructura.",
+      "id": "SV-CIE-11-2026-W02-celula-estructura-001-MASTERY-bundle-v3",
+      "statement": "¿Qué resultado le permite afirmar que la pared celular es permeable mientras la membrana plasmática es selectiva?",
+      "context": "Un estudiante de segundo grado coloca una célula de cebolla en agua con colorante rojo y observa la pared y el citoplasma teñidos.",
       "options": [
         {
-          "letter": "B",
-          "text": "La exposición a la luz",
-          "is_correct": true,
-          "feedback": "¡Correcto!"
+          "letter": "A",
+          "text": "El colorante no atraviesa ninguna de las dos estructuras",
+          "is_correct": false,
+          "feedback": "Incorrecto. La pared celular es porosa: deja pasar el agua y buena parte de los solutos del medio."
         },
         {
-          "letter": "A",
-          "text": "El crecimiento de las plantas",
-          "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "letter": "B",
+          "text": "El colorante atraviesa la pared pero no entra al citoplasma si la célula está viva",
+          "is_correct": true,
+          "feedback": "Correcto. La pared tiene poros amplios y el colorante llega al citoplasma, mientras la membrana regula la entrada."
         },
         {
           "letter": "C",
-          "text": "La temperatura ambiente",
+          "text": "El colorante tiñe por igual la pared y la membrana",
           "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "feedback": "Incorrecto. Si el colorante pasara libremente por la membrana, esta no sería selectivamente permeable."
         },
         {
           "letter": "D",
-          "text": "El tipo de planta",
+          "text": "Solo la membrana se tiñe y la pared queda incolora",
           "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "feedback": "Incorrecto. Es la pared, estructura porosa, la que deja entrar el colorante en una célula vegetal intacta."
         }
       ],
       "correct_answer": "B",
-      "explanation": "La variable independiente es la que manipula el investigador: la luz.",
-      "difficulty": "4",
+      "explanation": "La diferencia entre pared y membrana es precisamente la permeabilidad: la pared es porosa y rígida; la membrana tiene proteínas transportadoras que deciden qué molécula entra.",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.75,
+      "bundle_id": "SV-CIE-11-2026-W02-celula-estructura-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "sv"
+    },
+    {
+      "id": "SV-CIE-11-2026-W02-celula-estructura-001-MASTERY-bundle-v4",
+      "statement": "¿Qué conclusión es correcta sobre esa organela?",
+      "context": "En el microscopio electrónico, el equipo observa que en algunas células una organela tiene varias membranas y su propia ADN circular.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es un núcleo en miniatura con cromosomas lineales",
+          "is_correct": false,
+          "feedback": "Incorrecto. El núcleo celular tiene ADN lineal y forma la cromatina, no membranas múltiples."
+        },
+        {
+          "letter": "B",
+          "text": "Es un resto de la fagocitosis de una bacteria que la célula conserva para producir ATP",
+          "is_correct": true,
+          "feedback": "Correcto. La mitocondria es de origen endosimbiótico, conserva ADN circular y fabrica ATP."
+        },
+        {
+          "letter": "C",
+          "text": "Es un orgánulo de fotosíntesis heredado de una bacteria y responsable de liberar oxígeno",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa descripción corresponde al cloroplasto; la mitocondria no realiza fotosíntesis."
+        },
+        {
+          "letter": "D",
+          "text": "No es una organela, sino un doblez de la membrana plasmática",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las mitocondrias son organelas propias, no prolongaciones de la membrana."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La mitocondria tiene ADN circular propio, que es la evidencia que sostiene la teoría de que se originó como una bacteria incorporada por una célula ancestral.",
+      "difficulty": "5",
       "images": [],
       "tags": [],
       "bloom": "Analyze",
@@ -189,41 +189,41 @@
     },
     {
       "id": "SV-CIE-11-2026-W02-celula-estructura-001-MASTERY-bundle-v5",
-      "statement": "¿Cuál es la unidad básica de la vida?",
-      "context": "Clase de ciencias en San Miguel estudiando celula estructura.",
+      "statement": "¿Cuál es la diferencia estructural que define a una célula eucariota?",
+      "context": "En la clase de Ahuachapán comparan células procariotas y eucariotas mediante dos esquemas de dibujo.",
       "options": [
         {
-          "letter": "D",
-          "text": "La célula",
-          "is_correct": true,
-          "feedback": "¡Correcto!"
-        },
-        {
           "letter": "A",
-          "text": "El átomo",
+          "text": "Tiene una pared celular hecha de celulosa",
           "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "feedback": "Incorrecto. La pared de celulosa existe solo en plantas y hongos; hay eucariotas sin pared, como los animales."
         },
         {
           "letter": "B",
-          "text": "La molécula",
+          "text": "Realiza la fotosíntesis para producir su propio alimento",
           "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "feedback": "Incorrecto. Solo algunas células eucariotas hacen fotosíntesis; las células animales no."
         },
         {
           "letter": "C",
-          "text": "El tejido",
+          "text": "Posee un núcleo definido que encierra el ADN en una membrana nuclear",
+          "is_correct": true,
+          "feedback": "Correcto. La presencia del núcleo delimitado por membrana es lo que distingue a las células eucariotas."
+        },
+        {
+          "letter": "D",
+          "text": "carece de organelas envueltas por membrana",
           "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "feedback": "Incorrecto. Tener organelas envueltas es precisamente una característica de las eucariotas."
         }
       ],
-      "correct_answer": "D",
-      "explanation": "La célula es la unidad estructural y funcional básica de los seres vivos.",
-      "difficulty": "6",
+      "correct_answer": "C",
+      "explanation": "En las eucariotas el ADN está aislado en un núcleo; en las procariotas está libre en el citoplasma, en una zona llamada nucleoide.",
+      "difficulty": "4",
       "images": [],
       "tags": [],
-      "bloom": "Remember",
-      "expected_success": 0.85,
+      "bloom": "Understand",
+      "expected_success": 0.8,
       "bundle_id": "SV-CIE-11-2026-W02-celula-estructura-001-MASTERY-bundle",
       "periodo": 2,
       "protocol_version": "5.2",
@@ -234,41 +234,41 @@
     },
     {
       "id": "SV-CIE-11-2026-W02-celula-estructura-001-MASTERY-bundle-v6",
-      "statement": "¿Qué proceso conviierte luz solar en energía química en las plantas?",
-      "context": "Clase de ciencias en Santa Ana estudiando celula estructura.",
+      "statement": "¿Qué respuesta inmunitaria explica esos signos en la zona de la herida?",
+      "context": "Una estudiante se lastima el dedo con una hoja de metal limpia. Al otro día la zona está roja, caliente y dolorosa.",
       "options": [
         {
-          "letter": "B",
-          "text": "Fotosíntesis",
-          "is_correct": true,
-          "feedback": "¡Correcto!"
+          "letter": "A",
+          "text": "La producción de anticuerpos que coagulan la sangre del dedo",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los anticuerpos defienden de forma específica, pero no producen la zona roja y caliente."
         },
         {
-          "letter": "A",
-          "text": "Respiración celular",
+          "letter": "B",
+          "text": "La fagocitosis de los glóbulos rojos para tapar la herida",
           "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "feedback": "Incorrecto. Los glóbulos rojos transportan oxígeno, no fagocitan; las células del doliente son leucocitos."
         },
         {
           "letter": "C",
-          "text": "Fermentación",
-          "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "text": "El inicio de una respuesta inflamatoria con aumento del flujo sanguíneo y llegada de leucocitos",
+          "is_correct": true,
+          "feedback": "Correcto. Rubor, calor y dolor son los signos típicos de la inflamación: vasodilatación y llegada de leucocitos."
         },
         {
           "letter": "D",
-          "text": "Digestión",
+          "text": "La división de las neuronas del dedo para cerrar el corte",
           "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "feedback": "Incorrecto. Las neuronas conducen impulsos nerviosos y no participan en cerrar heridas."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "La fotosíntesis usa luz, agua y CO₂ para producir glucosa y oxígeno.",
-      "difficulty": "6",
+      "correct_answer": "C",
+      "explanation": "La respuesta inflamatoria es la primera barrera inespecífica: llega más sangre y leucocitos al tejido dañado, y eso produce calor, rubor, dolor e hinchazón.",
+      "difficulty": "5",
       "images": [],
       "tags": [],
-      "bloom": "Understand",
-      "expected_success": 0.8,
+      "bloom": "Apply",
+      "expected_success": 0.75,
       "bundle_id": "SV-CIE-11-2026-W02-celula-estructura-001-MASTERY-bundle",
       "periodo": 2,
       "protocol_version": "5.2",
@@ -279,41 +279,41 @@
     },
     {
       "id": "SV-CIE-11-2026-W02-celula-estructura-001-MASTERY-bundle-v7",
-      "statement": "Objeto de 2 kg acelera a 3 m/s². ¿Fuerza aplicada? (F=ma)",
-      "context": "Clase de ciencias en San Salvador estudiando celula estructura.",
+      "statement": "¿Qué transformación se está llevando a cabo en el cloroplasto?",
+      "context": "El equipo studia el resultado de un experimento donde los granos de almidón salen del cloroplasto tras varias horas de luz.",
       "options": [
         {
-          "letter": "B",
-          "text": "6 N",
-          "is_correct": true,
-          "feedback": "¡Correcto!"
+          "letter": "A",
+          "text": "La degradación de azúcares para liberar energía en forma de ATP",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese es el proceso de la respiración celular, que ocurre en su mayoría en la mitocondria."
         },
         {
-          "letter": "A",
-          "text": "4 N",
+          "letter": "B",
+          "text": "La síntesis de proteínas a partir de las instrucciones del núcleo",
           "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "feedback": "Incorrecto. La síntesis de proteínas ocurre en los ribosomas, no en el cloroplasto."
         },
         {
           "letter": "C",
-          "text": "9 N",
+          "text": "La recolección de los remanentes de la célula para formar un vacuolo",
           "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "feedback": "Incorrecto. Los cuerpos de degradación similares a vacuolos son estructuras de degradación, no el producto de la fotosíntesis."
         },
         {
           "letter": "D",
-          "text": "2 N",
-          "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "text": "La degradación de agua y CO₂ para formar azúcares, liberando oxígeno",
+          "is_correct": true,
+          "feedback": "Correcto. Es la fotosíntesis: se fija el CO₂ y se libera O₂ como producto secundario."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "F = ma = 2×3 = 6 N.",
-      "difficulty": "6",
+      "correct_answer": "D",
+      "explanation": "La ecuación global es 6CO₂ + 6H₂O + luz → C₆H₁₂O₆ + 6O₂. La energía lumínica se almacena como energía química en los enlaces del azúcar.",
+      "difficulty": "5",
       "images": [],
       "tags": [],
-      "bloom": "Apply",
-      "expected_success": 0.8,
+      "bloom": "Analyze",
+      "expected_success": 0.7,
       "bundle_id": "SV-CIE-11-2026-W02-celula-estructura-001-MASTERY-bundle",
       "periodo": 2,
       "protocol_version": "5.2",
@@ -324,41 +324,41 @@
     },
     {
       "id": "SV-CIE-11-2026-W02-celula-estructura-001-MASTERY-bundle-v8",
-      "statement": "¿Cuál es el órgano más grande del cuerpo humano?",
-      "context": "Clase de ciencias en Soyapango estudiando celula estructura.",
+      "statement": "¿Qué cambio describe mejor lo ocurrido en la mitosis?",
+      "context": "En clase comparan dos imágenes de una misma célula antes y después de un proceso de división.",
       "options": [
         {
           "letter": "A",
-          "text": "La piel",
-          "is_correct": true,
-          "feedback": "¡Correcto!"
+          "text": "El número de cromosomas se reduce a la mitad en cada célula hija",
+          "is_correct": false,
+          "feedback": "Incorrecto. Reducir a la mitad los cromosomas es la meiosis, que ocurre en la formación de gametos."
         },
         {
           "letter": "B",
-          "text": "El hígado",
+          "text": "El ADN se duplica y permanece en un solo núcleo sin separación",
           "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "feedback": "Incorrecto. Si el ADN se duplicara y no se repartiera, la célula perdería material genético en las hijas."
         },
         {
           "letter": "C",
-          "text": "El corazón",
-          "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "text": "El núcleo se divide y se forman dos células con el mismo número de cromosomas que la original",
+          "is_correct": true,
+          "feedback": "Correcto. La mitosis conserva el número de cromosomas: es una división equipartida para crecimiento y reparación."
         },
         {
           "letter": "D",
-          "text": "Los pulmones",
+          "text": "La célula fusiona su material genético con otra célula del mismo tejido",
           "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "feedback": "Incorrecto. La fusión de material genético entre células distintas es la fecundación, no la mitosis."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "La piel es el órgano más grande, cubriendo y protegiendo todo el cuerpo.",
-      "difficulty": "6",
+      "correct_answer": "C",
+      "explanation": "En la mitosis el ADN se replica una vez y se reparte en dos núcleos, por eso las células hijas conservan el mismo complemento cromosómico de la madre.",
+      "difficulty": "5",
       "images": [],
       "tags": [],
-      "bloom": "Remember",
-      "expected_success": 0.85,
+      "bloom": "Analyze",
+      "expected_success": 0.7,
       "bundle_id": "SV-CIE-11-2026-W02-celula-estructura-001-MASTERY-bundle",
       "periodo": 2,
       "protocol_version": "5.2",
@@ -369,41 +369,41 @@
     },
     {
       "id": "SV-CIE-11-2026-W02-celula-estructura-001-MASTERY-bundle-v9",
-      "statement": "En un experimento, plantas con luz crecen más que sin luz. ¿Variable independiente?",
-      "context": "Clase de ciencias en Santa Ana estudiando celula estructura.",
+      "statement": "¿Cuál es la mejor evaluación de esa afirmación?",
+      "context": "Un alumno afirma: «Todas las células de mi cuerpo tienen el mismo número de cromosomas porque todas tienen el mismo ADN».",
       "options": [
         {
-          "letter": "D",
-          "text": "La exposición a la luz",
-          "is_correct": true,
-          "feedback": "¡Correcto!"
-        },
-        {
           "letter": "A",
-          "text": "El crecimiento de las plantas",
+          "text": "Es verdadera: todas las células somáticas del cuerpo humano tienen siempre 23 cromosomas",
           "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "feedback": "Incorrecto. Las células somáticas humanas tienen 46 cromosomas, agrupados en 23 pares."
         },
         {
           "letter": "B",
-          "text": "La temperatura ambiente",
+          "text": "Es verdadera: los gametos son las únicas células con material genético en el cuerpo",
           "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "feedback": "Incorrecto. Todas las células tienen ADN; los gametos son los únicos haploides, pero no los únicos con material genético."
         },
         {
           "letter": "C",
-          "text": "El tipo de planta",
+          "text": "Es falsa porque los espermatozoides llegan a tener hasta 92 cromosomas al formarse",
           "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "feedback": "Incorrecto. El espermatozoide maduro tiene 23 cromosomas; la cifra de 92 corresponde a la célula antes de la meiosis."
+        },
+        {
+          "letter": "D",
+          "text": "Es falsa en parte: las células somáticas tienen 46 cromosomas, pero los gametos tienen 23 porque reducen a la mitad el material genético",
+          "is_correct": true,
+          "feedback": "Correcto. La meiosis genera gametos haploides, con la mitad de los cromosomas de una célula somática."
         }
       ],
       "correct_answer": "D",
-      "explanation": "La variable independiente es la que manipula el investigador: la luz.",
+      "explanation": "Las células del cuerpo humano no son todas iguales en su complemento cromosómico: los gametos son la excepción, con un juego de 23 cromosomas.",
       "difficulty": "6",
       "images": [],
       "tags": [],
-      "bloom": "Analyze",
-      "expected_success": 0.7,
+      "bloom": "Evaluate",
+      "expected_success": 0.65,
       "bundle_id": "SV-CIE-11-2026-W02-celula-estructura-001-MASTERY-bundle",
       "periodo": 2,
       "protocol_version": "5.2",
@@ -414,41 +414,41 @@
     },
     {
       "id": "SV-CIE-11-2026-W02-celula-estructura-001-MASTERY-bundle-v10",
-      "statement": "¿Cuál es la unidad básica de la vida?",
-      "context": "Clase de ciencias en Santa Ana estudiando celula estructura.",
+      "statement": "¿Qué fenómeno ocurrido en esas células explica el citoplasma retraído?",
+      "context": "En el laboratorio Added una disolución de sacarosa a distintas concentraciones y coloca células de papa; al cabo de 30 minutos observa la Pared y el núcleo intactos, pero el citoplasma retraído.",
       "options": [
         {
           "letter": "A",
-          "text": "La célula",
+          "text": "La célula perdió agua por ósmosis y la membrana se separó de la pared",
           "is_correct": true,
-          "feedback": "¡Correcto!"
+          "feedback": "Correcto. En un medio hipertónico la célula pierde agua y se produce plasmólisis."
         },
         {
           "letter": "B",
-          "text": "El átomo",
+          "text": "La célula ganó agua y la membrana se separó de la pared",
           "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "feedback": "Incorrecto. Si ganara agua, la membrana se despegaría de la pared, pero el citoplasma se agrandaría, no se retraería."
         },
         {
           "letter": "C",
-          "text": "La molécula",
+          "text": "La pared celular se disolvió por efecto de la sacarosa",
           "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "feedback": "Incorrecto. La sacarosa no disuelve la celulosa de la pared celular."
         },
         {
           "letter": "D",
-          "text": "El tejido",
+          "text": "El núcleo absorbió toda el agua del citoplasma",
           "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "feedback": "Incorrecto. El núcleo no es el destino del agua; la pérdida de agua ocurre por toda la membrana."
         }
       ],
       "correct_answer": "A",
-      "explanation": "La célula es la unidad estructural y funcional básica de los seres vivos.",
-      "difficulty": "6",
+      "explanation": "En un medio hipertónico, con más soluto fuera que dentro, el agua sale de la célula por ósmosis; la pared rígida no se encoge, y el citoplasma se aleja de ella.",
+      "difficulty": "5",
       "images": [],
       "tags": [],
-      "bloom": "Remember",
-      "expected_success": 0.85,
+      "bloom": "Apply",
+      "expected_success": 0.75,
       "bundle_id": "SV-CIE-11-2026-W02-celula-estructura-001-MASTERY-bundle",
       "periodo": 2,
       "protocol_version": "5.2",
@@ -459,41 +459,41 @@
     },
     {
       "id": "SV-CIE-11-2026-W02-celula-estructura-001-MASTERY-bundle-v11",
-      "statement": "¿Qué proceso conviierte luz solar en energía química en las plantas?",
-      "context": "Clase de ciencias en Santa Ana estudiando celula estructura.",
+      "statement": "¿Qué estructura celular fue afectada directamente por el antibiótico?",
+      "context": "El informe de laboratorio muestra que eltratamiento con un antibiótico dejó de síntesis una proteína de la membrana de la célula bacteriana.",
       "options": [
         {
-          "letter": "C",
-          "text": "Fotosíntesis",
-          "is_correct": true,
-          "feedback": "¡Correcto!"
-        },
-        {
           "letter": "A",
-          "text": "Respiración celular",
-          "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "text": "Los ribosomas, responsables de unir aminoácidos para formar la proteína",
+          "is_correct": true,
+          "feedback": "Correcto. Los ribosomas son la maquinaria de síntesis de proteínas y el objetivo habitual de esos antibióticos."
         },
         {
           "letter": "B",
-          "text": "Fermentación",
+          "text": "El núcleo, donde se transcribe el ARN mensajero",
           "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "feedback": "Incorrecto. Las bacterias no tienen núcleo; su ADN está libre en el citoplasma."
+        },
+        {
+          "letter": "C",
+          "text": "La membrana plasmática, que se desintegra al final",
+          "is_correct": false,
+          "feedback": "Incorrecto. La membrana sigue presente: si se desintegrara, la célula se disolvería de inmediato."
         },
         {
           "letter": "D",
-          "text": "Digestión",
+          "text": "La mitocondria, que produce el ATP del proceso",
           "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "feedback": "Incorrecto. Las bacterias no poseen mitocondrias propias."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "La fotosíntesis usa luz, agua y CO₂ para producir glucosa y oxígeno.",
-      "difficulty": "8",
+      "correct_answer": "A",
+      "explanation": "Las bacterias carecen de organelas envueltas, así que los ribosomas citoplasmáticos son su único sitio de síntesis proteica, y por eso son blanco de antibióticos como la estreptomicina.",
+      "difficulty": "5",
       "images": [],
       "tags": [],
-      "bloom": "Understand",
-      "expected_success": 0.8,
+      "bloom": "Analyze",
+      "expected_success": 0.7,
       "bundle_id": "SV-CIE-11-2026-W02-celula-estructura-001-MASTERY-bundle",
       "periodo": 2,
       "protocol_version": "5.2",
@@ -504,41 +504,41 @@
     },
     {
       "id": "SV-CIE-11-2026-W02-celula-estructura-001-MASTERY-bundle-v12",
-      "statement": "Objeto de 6 kg acelera a 3 m/s². ¿Fuerza aplicada? (F=ma)",
-      "context": "Clase de ciencias en San Miguel estudiando celula estructura.",
+      "statement": "¿Cuál es una estructura presente en la célula vegetal pero ausente en la célula animal?",
+      "context": "La clase de segundo grado dibuja dos modelos de la célula animal y la vegetal para compararlas.",
       "options": [
         {
-          "letter": "C",
-          "text": "18 N",
-          "is_correct": true,
-          "feedback": "¡Correcto!"
-        },
-        {
           "letter": "A",
-          "text": "12 N",
+          "text": "La membrana plasmática",
           "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "feedback": "Incorrecto. La membrana plasmática está en todas las células eucariotas, animales y vegetales."
         },
         {
           "letter": "B",
-          "text": "21 N",
+          "text": "El cloroplasto",
+          "is_correct": true,
+          "feedback": "Correcto. El cloroplasto realiza la fotosíntesis y solo está en células con clorofila."
+        },
+        {
+          "letter": "C",
+          "text": "El núcleo",
           "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "feedback": "Incorrecto. Ambas células tienen núcleo con el material genético."
         },
         {
           "letter": "D",
-          "text": "6 N",
+          "text": "Las mitocondrias",
           "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "feedback": "Incorrecto. Las células animales también poseen mitocondrias para producir ATP."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "F = ma = 6×3 = 18 N.",
-      "difficulty": "8",
+      "correct_answer": "B",
+      "explanation": "Además del cloroplasto, la célula vegetal suele tener pared celular, una vacuola central grande y plastidios; la animal tiene centríolos y lisosomas.",
+      "difficulty": "4",
       "images": [],
       "tags": [],
-      "bloom": "Apply",
-      "expected_success": 0.8,
+      "bloom": "Remember",
+      "expected_success": 0.85,
       "bundle_id": "SV-CIE-11-2026-W02-celula-estructura-001-MASTERY-bundle",
       "periodo": 2,
       "protocol_version": "5.2",
@@ -549,41 +549,41 @@
     },
     {
       "id": "SV-CIE-11-2026-W02-celula-estructura-001-MASTERY-bundle-v13",
-      "statement": "¿Cuál es el órgano más grande del cuerpo humano?",
-      "context": "Clase de ciencias en Mejicanos estudiando celula estructura.",
+      "statement": "¿Qué hecho biológico sostiene esa comparación?",
+      "context": "Un estudiante afirma que las mitocondrias son las «centrales eléctricas» de la célula. El resto del grupo pide justificar la metáfora.",
       "options": [
         {
-          "letter": "D",
-          "text": "La piel",
-          "is_correct": true,
-          "feedback": "¡Correcto!"
-        },
-        {
           "letter": "A",
-          "text": "El hígado",
+          "text": "Las mitocondrias fabrican oxígeno a partir de la luz solar que llega a la célula",
           "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "feedback": "Incorrecto. La producción de oxígeno a partir de la luz es tarea de los cloroplastos."
         },
         {
           "letter": "B",
-          "text": "El corazón",
+          "text": "Las mitocondrias eliminan el material genético que sobra en la división celular",
           "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "feedback": "Incorrecto. El material genético se conserva en el núcleo y en las mitocondrias mismas."
         },
         {
           "letter": "C",
-          "text": "Los pulmones",
+          "text": "Las mitocondrias producen ATP, la energía utilizable que la célula gasta en sus procesos",
+          "is_correct": true,
+          "feedback": "Correcto. Al generar ATP, la mitocondria convierte la energía de los alimentos en energía utilizable."
+        },
+        {
+          "letter": "D",
+          "text": "Las mitocondrias transportan oxígeno desde los pulmones hasta cada célula del cuerpo",
           "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "feedback": "Incorrecto. El oxígeno llega a la sangre por la sangre que transporta los eritrocitos."
         }
       ],
-      "correct_answer": "D",
-      "explanation": "La piel es el órgano más grande, cubriendo y protegiendo todo el cuerpo.",
-      "difficulty": "8",
+      "correct_answer": "C",
+      "explanation": "Como una central eléctrica, la mitocondria no crea energía de la nada: transforma la energía química de los combustibles en ATP, que es lo que la célula gasta.",
+      "difficulty": "5",
       "images": [],
       "tags": [],
-      "bloom": "Remember",
-      "expected_success": 0.85,
+      "bloom": "Analyze",
+      "expected_success": 0.7,
       "bundle_id": "SV-CIE-11-2026-W02-celula-estructura-001-MASTERY-bundle",
       "periodo": 2,
       "protocol_version": "5.2",
@@ -594,41 +594,41 @@
     },
     {
       "id": "SV-CIE-11-2026-W02-celula-estructura-001-MASTERY-bundle-v14",
-      "statement": "En un experimento, plantas con luz crecen más que sin luz. ¿Variable independiente?",
-      "context": "Clase de ciencias en Soyapango estudiando celula estructura.",
+      "statement": "¿Qué característica de los glóbulos rojos del donante causó la reacción?",
+      "context": "Un paciente con anemia recibe una transfusión y su cuerpo reacciona con fiebre y sarpullido.",
       "options": [
         {
-          "letter": "B",
-          "text": "La exposición a la luz",
-          "is_correct": true,
-          "feedback": "¡Correcto!"
+          "letter": "A",
+          "text": "Que los eritrocitos del donante no tienen núcleo y por eso resultan poco habituales",
+          "is_correct": false,
+          "feedback": "Incorrecto. La ausencia de núcleo es propia de los eritrocitos maduros de todos los humanos, no causa rechazo."
         },
         {
-          "letter": "A",
-          "text": "El crecimiento de las plantas",
+          "letter": "B",
+          "text": "Que los eritrocitos contienen hemoglobina de un tipo distinto al del paciente",
           "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "feedback": "Incorrecto. La hemoglobina transporta oxígeno; las diferencias de grupo se deben a los antígenos de la membrana."
         },
         {
           "letter": "C",
-          "text": "La temperatura ambiente",
+          "text": "Que los eritrocitos del donante no pueden transportar oxígeno durante el trayecto",
           "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "feedback": "Incorrecto. Si el donante no pudiera transportar oxígeno, la transfusión no provocaría una reacción inmunitaria."
         },
         {
           "letter": "D",
-          "text": "El tipo de planta",
-          "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "text": "Que los eritrocitos llevan antígenos en su membrana que el sistema inmunitario reconoce como extraños",
+          "is_correct": true,
+          "feedback": "Correcto. Los antígenos de la membrana eritrocitaria provocan que el sistema inmunitario produzca anticuerpos."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "La variable independiente es la que manipula el investigador: la luz.",
-      "difficulty": "8",
+      "correct_answer": "D",
+      "explanation": "La incompatibilidad se produce porque las proteínas de la membrana de los glóbulos rojos son antígenos: el sistema inmunitario del receptor los reconoce como ajenos y reacciona.",
+      "difficulty": "5",
       "images": [],
       "tags": [],
-      "bloom": "Analyze",
-      "expected_success": 0.7,
+      "bloom": "Apply",
+      "expected_success": 0.75,
       "bundle_id": "SV-CIE-11-2026-W02-celula-estructura-001-MASTERY-bundle",
       "periodo": 2,
       "protocol_version": "5.2",
@@ -639,217 +639,37 @@
     },
     {
       "id": "SV-CIE-11-2026-W02-celula-estructura-001-MASTERY-bundle-v15",
-      "statement": "¿Cuál es la unidad básica de la vida?",
-      "context": "Clase de ciencias en Soyapango estudiando celula estructura.",
+      "statement": "¿Qué nombre reciben esas estructuras y qué función cumplen?",
+      "context": "En el microscopio el grupo observa que en el núcleo de una célula hay pequeñas estructuras oscuras que se tiñen con un colorante específico.",
       "options": [
         {
-          "letter": "D",
-          "text": "La célula",
-          "is_correct": true,
-          "feedback": "¡Correcto!"
-        },
-        {
           "letter": "A",
-          "text": "El átomo",
+          "text": "Los nucleolos, que producen el ARN y los ribosomas de la célula",
           "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "feedback": "Incorrecto. Los nucleolos fabrican ARN ribosómico, pero no contienen los genes."
         },
         {
           "letter": "B",
-          "text": "La molécula",
-          "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
-        },
-        {
-          "letter": "C",
-          "text": "El tejido",
-          "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
-        }
-      ],
-      "correct_answer": "D",
-      "explanation": "La célula es la unidad estructural y funcional básica de los seres vivos.",
-      "difficulty": "8",
-      "images": [],
-      "tags": [],
-      "bloom": "Remember",
-      "expected_success": 0.85,
-      "bundle_id": "SV-CIE-11-2026-W02-celula-estructura-001-MASTERY-bundle",
-      "periodo": 2,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ciencias-naturales",
-      "grade": 11,
-      "country": "sv"
-    },
-    {
-      "id": "SV-CIE-11-2026-W02-celula-estructura-001-MASTERY-bundle-v16",
-      "statement": "¿Qué proceso conviierte luz solar en energía química en las plantas?",
-      "context": "Clase de ciencias en Soyapango estudiando celula estructura.",
-      "options": [
-        {
-          "letter": "B",
-          "text": "Fotosíntesis",
+          "text": "Los cromosomas, que llevan los genes y controlan la herencia y la actividad celular",
           "is_correct": true,
-          "feedback": "¡Correcto!"
-        },
-        {
-          "letter": "A",
-          "text": "Respiración celular",
-          "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "feedback": "Correcto. Los cromosomas contienen los genes: la unidad de la herencia."
         },
         {
           "letter": "C",
-          "text": "Fermentación",
+          "text": "Los poros nucleares, que permiten la entrada de moléculas al núcleo",
           "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "feedback": "Incorrecto. Los poros nucleares son huecos de la membrana nuclear, no estructuras internas del núcleo."
         },
         {
           "letter": "D",
-          "text": "Digestión",
+          "text": "Los centriolos, que forman la placa ecuatorial durante la división",
           "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "feedback": "Incorrecto. Los centriolos se ubican en el citoplasma y contribuyen al movimiento de los cromosomas."
         }
       ],
       "correct_answer": "B",
-      "explanation": "La fotosíntesis usa luz, agua y CO₂ para producir glucosa y oxígeno.",
-      "difficulty": "8",
-      "images": [],
-      "tags": [],
-      "bloom": "Understand",
-      "expected_success": 0.8,
-      "bundle_id": "SV-CIE-11-2026-W02-celula-estructura-001-MASTERY-bundle",
-      "periodo": 2,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ciencias-naturales",
-      "grade": 11,
-      "country": "sv"
-    },
-    {
-      "id": "SV-CIE-11-2026-W02-celula-estructura-001-MASTERY-bundle-v17",
-      "statement": "Objeto de 6 kg acelera a 5 m/s². ¿Fuerza aplicada? (F=ma)",
-      "context": "Clase de ciencias en San Salvador estudiando celula estructura.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "30 N",
-          "is_correct": true,
-          "feedback": "¡Correcto!"
-        },
-        {
-          "letter": "B",
-          "text": "24 N",
-          "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
-        },
-        {
-          "letter": "C",
-          "text": "35 N",
-          "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
-        },
-        {
-          "letter": "D",
-          "text": "6 N",
-          "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "F = ma = 6×5 = 30 N.",
-      "difficulty": "10",
-      "images": [],
-      "tags": [],
-      "bloom": "Apply",
-      "expected_success": 0.8,
-      "bundle_id": "SV-CIE-11-2026-W02-celula-estructura-001-MASTERY-bundle",
-      "periodo": 2,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ciencias-naturales",
-      "grade": 11,
-      "country": "sv"
-    },
-    {
-      "id": "SV-CIE-11-2026-W02-celula-estructura-001-MASTERY-bundle-v18",
-      "statement": "¿Cuál es el órgano más grande del cuerpo humano?",
-      "context": "Clase de ciencias en San Miguel estudiando celula estructura.",
-      "options": [
-        {
-          "letter": "B",
-          "text": "La piel",
-          "is_correct": true,
-          "feedback": "¡Correcto!"
-        },
-        {
-          "letter": "A",
-          "text": "El hígado",
-          "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
-        },
-        {
-          "letter": "C",
-          "text": "El corazón",
-          "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
-        },
-        {
-          "letter": "D",
-          "text": "Los pulmones",
-          "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
-        }
-      ],
-      "correct_answer": "B",
-      "explanation": "La piel es el órgano más grande, cubriendo y protegiendo todo el cuerpo.",
-      "difficulty": "10",
-      "images": [],
-      "tags": [],
-      "bloom": "Remember",
-      "expected_success": 0.85,
-      "bundle_id": "SV-CIE-11-2026-W02-celula-estructura-001-MASTERY-bundle",
-      "periodo": 2,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ciencias-naturales",
-      "grade": 11,
-      "country": "sv"
-    },
-    {
-      "id": "SV-CIE-11-2026-W02-celula-estructura-001-MASTERY-bundle-v19",
-      "statement": "En un experimento, plantas con luz crecen más que sin luz. ¿Variable independiente?",
-      "context": "Clase de ciencias en San Miguel estudiando celula estructura.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "La exposición a la luz",
-          "is_correct": true,
-          "feedback": "¡Correcto!"
-        },
-        {
-          "letter": "B",
-          "text": "El crecimiento de las plantas",
-          "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
-        },
-        {
-          "letter": "C",
-          "text": "La temperatura ambiente",
-          "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
-        },
-        {
-          "letter": "D",
-          "text": "El tipo de planta",
-          "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "La variable independiente es la que manipula el investigador: la luz.",
-      "difficulty": "10",
+      "explanation": "Los cromosomas se tiñen porque el ADN se condensa en ellos: al dividirse la célula, cada célula hija recibe una copia completa de esa información.",
+      "difficulty": "5",
       "images": [],
       "tags": [],
       "bloom": "Analyze",
@@ -863,42 +683,222 @@
       "country": "sv"
     },
     {
-      "id": "SV-CIE-11-2026-W02-celula-estructura-001-MASTERY-bundle-v20",
-      "statement": "¿Cuál es la unidad básica de la vida?",
-      "context": "Clase de ciencias en San Salvador estudiando celula estructura.",
+      "id": "SV-CIE-11-2026-W02-celula-estructura-001-MASTERY-bundle-v16",
+      "statement": "¿Cuántas bacterias habrá después de 60 minutos?",
+      "context": "Un cultivo de bacterias se divide cada veinte minutos. Si al inicio hay 1 bacteria, ¿cuántas habrá después de una hora?",
       "options": [
         {
           "letter": "A",
-          "text": "La célula",
-          "is_correct": true,
-          "feedback": "¡Correcto!"
+          "text": "16 bacterias",
+          "is_correct": false,
+          "feedback": "Incorrecto. 2^4 = 16 correspondería a cuatro ciclos, es decir, 80 minutos de crecimiento."
         },
         {
           "letter": "B",
-          "text": "El átomo",
-          "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "text": "64 bacterias",
+          "is_correct": true,
+          "feedback": "Correcto. 60 minutos son tres ciclos de división, y 2^3 = 8 duplicaciones a partir de una bacteria dan 64."
         },
         {
           "letter": "C",
-          "text": "La molécula",
+          "text": "8 bacterias",
           "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "feedback": "Incorrecto. 2^3 = 8 es el número de ciclos, no el número de bacterias resultantes."
         },
         {
           "letter": "D",
-          "text": "El tejido",
+          "text": "1.000 bacterias",
           "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "feedback": "Incorrecto. Ese valor supera lo que permite la duplicación: 1 bacteria se convierte en 2 por cada 20 minutos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La división exponencial se calcula con 2 elevado al número de ciclos: 2^3 = 8 ciclos de duplicación a partir de 1 bacteria dan 64 en total.",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.75,
+      "bundle_id": "SV-CIE-11-2026-W02-celula-estructura-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "sv"
+    },
+    {
+      "id": "SV-CIE-11-2026-W02-celula-estructura-001-MASTERY-bundle-v17",
+      "statement": "¿Qué cambio en la célula de la hoja explica ese patrón de coloración?",
+      "context": "El agrónomo nota que las hojas de una planta de chile muestran áreas amarillas entre las venas, y un estudiante sugiere falta de magnesio.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El exceso de agua en el suelo provoca la pérdida de las vellosidades de la hoja",
+          "is_correct": false,
+          "feedback": "Incorrecto. El exceso de agua produce encharcamiento y pudrición de la raíz, no pérdida de vellosidades."
+        },
+        {
+          "letter": "B",
+          "text": "La presencia de más luz solar aumenta la concentración de pigmentos amarillos",
+          "is_correct": false,
+          "feedback": "Incorrecto. Más luz no aumenta los pigmentos amarillos; la clorofila es precisamente verde."
+        },
+        {
+          "letter": "C",
+          "text": "La baja concentración de un mineral reduce la síntesis de clorofila, y por eso la hoja pierde el color verde",
+          "is_correct": true,
+          "feedback": "Correcto. La falta de magnesio reduce la producción de clorofila y aparece la clorosis entre las venas."
+        },
+        {
+          "letter": "D",
+          "text": "La reducción del tallo impide que las sales minerales lleguen a la hoja",
+          "is_correct": false,
+          "feedback": "Incorrecto. Si las-sales no llegaran a la hoja, la falta de mineral no produciría áreas amarillas entre las venas."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El magnesio es un componente central de la molécula de clorofila; cuando falta, la hoja primero pierde el verde en los espacios interveinales, donde la deficiencia se hace visible.",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.7,
+      "bundle_id": "SV-CIE-11-2026-W02-celula-estructura-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "sv"
+    },
+    {
+      "id": "SV-CIE-11-2026-W02-celula-estructura-001-MASTERY-bundle-v18",
+      "statement": "¿Qué respuesta resuelve mejor la discusión?",
+      "context": "Dos estudiantes discuten si el núcleo es imprescindible para la vida celular. Ana dice que sí; Beto dice que una bacteria demuestra lo contrario.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Beto tiene razón: la bacteria es un ser vivo y no tiene núcleo envuelto por membrana",
+          "is_correct": true,
+          "feedback": "Correcto. Las bacterias son seres vivos sin núcleo delimitado por membrana, lo que prueba que no es indispensable para la vida."
+        },
+        {
+          "letter": "B",
+          "text": "Ana tiene razón: sin núcleo no existe la posibilidad de un sistema vivo con esa organización",
+          "is_correct": false,
+          "feedback": "Incorrecto. La existencia de bacterias contradice esa afirmación: la vida no requiere núcleo."
+        },
+        {
+          "letter": "C",
+          "text": "Ambos tienen razón: hay bacterias con núcleo y células sin él",
+          "is_correct": false,
+          "feedback": "Incorrecto. No existenn bacterias con núcleo: el término procariota significa justamente ausencia de núcleo envuelto."
+        },
+        {
+          "letter": "D",
+          "text": "Ninguno tiene razón: el núcleo solo almacena agua y sales minerales",
+          "is_correct": false,
+          "feedback": "Incorrecto. El núcleo guarda el ADN y controla las actividades celulares, no solo agua y sales."
         }
       ],
       "correct_answer": "A",
-      "explanation": "La célula es la unidad estructural y funcional básica de los seres vivos.",
-      "difficulty": "10",
+      "explanation": "Las células procariotas son vivas y funcionan sin núcleo, así que la envoltura nuclear es una característica de la organización eucariota, no un requisito universal de la vida.",
+      "difficulty": "6",
       "images": [],
       "tags": [],
-      "bloom": "Remember",
-      "expected_success": 0.85,
+      "bloom": "Evaluate",
+      "expected_success": 0.65,
+      "bundle_id": "SV-CIE-11-2026-W02-celula-estructura-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "sv"
+    },
+    {
+      "id": "SV-CIE-11-2026-W02-celula-estructura-001-MASTERY-bundle-v19",
+      "statement": "¿Qué esperaría observar en las tiras de papa al cabo de quince minutos?",
+      "context": "En la clase de Santa Ana, el maestro presenta una disolución de sal al 10 por ciento y pide a los alumnos que coloquenharvardering tiras de papa en ella.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El agua sale de las células y la tira se vuelve rígida y opaca",
+          "is_correct": true,
+          "feedback": "Correcto. El medio es hipertónico: sale agua por ósmosis, la vacuola se encoge y la tira queda firme."
+        },
+        {
+          "letter": "B",
+          "text": "El agua entra en las células y la tira se vuelve flexible y transparente",
+          "is_correct": false,
+          "feedback": "Incorrecto. Si el agua entrara, la vacuola se expandió y la tira se vería más turgente, no rígida."
+        },
+        {
+          "letter": "C",
+          "text": "Las células se rompen y la disolución se vuelve de color verde",
+          "is_correct": false,
+          "feedback": "Incorrecto. Nada en esta disolución produce color verde; el líquido es salado e incoloro."
+        },
+        {
+          "letter": "D",
+          "text": "No ocurre cambio alguno, porque la sal no atraviesa la membrana celular",
+          "is_correct": false,
+          "feedback": "Incorrecto. La sal no necesita atravesar la membrana: basta con que la concentración externa sea mayor para que salga agua."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Es el mismo principio de la plasmólisis: un medio con más soluto que la vacuola provoca salida de agua y la planta se deshidrata; un medio más diluido provocaría entrada de agua y turgencia.",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.75,
+      "bundle_id": "SV-CIE-11-2026-W02-celula-estructura-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "sv"
+    },
+    {
+      "id": "SV-CIE-11-2026-W02-celula-estructura-001-MASTERY-bundle-v20",
+      "statement": "¿Qué pigmento se acumula en esos vacuolos y qué propiedad química explica el cambio de color al variar el pH?",
+      "context": "En el laboratorio de Sonsonate, el equipo coloca lilios de Different color bajo el microscopio y nota que el color se concentra en los vacuolos de los pétalos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La clorofila, que se descompone al aumentar la luz y mostrar colores cálidos",
+          "is_correct": false,
+          "feedback": "Incorrecto. La clorofila es verde y se encuentra en los cloroplastos, no en los vacuolos de los pétalos."
+        },
+        {
+          "letter": "B",
+          "text": "El caroteno, que solo se encuentra en las raíces de la planta",
+          "is_correct": false,
+          "feedback": "Incorrecto. El caroteno da color naranja y se acumula en hojas y frutos, no en los vacuolos de los pétalos."
+        },
+        {
+          "letter": "C",
+          "text": "La celulosa, que refleja los colores del entorno y los repite en los pétalos",
+          "is_correct": false,
+          "feedback": "Incorrecto. La celulosa forma la pared celular y es incolora, no un pigmento."
+        },
+        {
+          "letter": "D",
+          "text": "La antociana, un pigmento cuyo color cambia según la acidez del medio",
+          "is_correct": true,
+          "feedback": "Correcto. Las antocianinas son pigmentos vacuolares sensibles al pH, por eso cambian de color con la acidez."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Las antocianinas cambian de rojo en medio ácido a azul o púrpura en medio básico; por eso algunas flores cambian de color al caer una lluvia ligeramente ácida.",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.7,
       "bundle_id": "SV-CIE-11-2026-W02-celula-estructura-001-MASTERY-bundle",
       "periodo": 2,
       "protocol_version": "5.2",

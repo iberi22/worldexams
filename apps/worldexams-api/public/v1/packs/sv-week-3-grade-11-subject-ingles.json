@@ -9,41 +9,41 @@
   "questions": [
     {
       "id": "SV-ING-11-2026-W03-past-simple-001-MASTERY-bundle-v1",
-      "statement": "Choose the correct option: 'I ___ reading a book right now.'",
-      "context": "English class in Soyapango, SV.",
+      "statement": "What is the past simple form of the verb \"arrive\" for the pronoun \"he\"?",
+      "context": "The teacher writes a timeline on the board: Monday, arrival, meeting, departure.",
       "options": [
         {
-          "letter": "B",
-          "text": "am",
-          "is_correct": true,
-          "feedback": "Correct!"
+          "letter": "A",
+          "text": "arrives",
+          "is_correct": false,
+          "feedback": "Wrong. \"Arrives\" is the third person singular of the present simple, not the past simple."
         },
         {
-          "letter": "A",
-          "text": "is",
+          "letter": "B",
+          "text": "arriving",
           "is_correct": false,
-          "feedback": "Incorrect. Review the concept."
+          "feedback": "Wrong. \"Arriving\" is the -ing form used in continuous tenses, not the past simple."
         },
         {
           "letter": "C",
-          "text": "are",
+          "text": "was arrived",
           "is_correct": false,
-          "feedback": "Incorrect. Review the concept."
+          "feedback": "Wrong. \"Was arrived\" is not used in English; the passive would be \"was arrived at\", but the active past simple is simply \"arrived\"."
         },
         {
           "letter": "D",
-          "text": "be",
-          "is_correct": false,
-          "feedback": "Incorrect. Review the concept."
+          "text": "arrived",
+          "is_correct": true,
+          "feedback": "Correct. The past simple of \"to arrive\" for he or she is \"arrived\", formed by adding -ed to the base form."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "Present continuous: I am + verb-ing.",
+      "correct_answer": "D",
+      "explanation": "Regular verbs form the past simple with -ed after the base form, while irregular verbs change their form entirely, as in \"go\" to \"went\".",
       "difficulty": "4",
       "images": [],
       "tags": [],
-      "bloom": "Apply",
-      "expected_success": 0.8,
+      "bloom": "Remember",
+      "expected_success": 0.85,
       "bundle_id": "SV-ING-11-2026-W03-past-simple-001-MASTERY-bundle",
       "periodo": 3,
       "protocol_version": "5.2",
@@ -54,36 +54,36 @@
     },
     {
       "id": "SV-ING-11-2026-W03-past-simple-001-MASTERY-bundle-v2",
-      "statement": "What does 'benevolent' mean?",
-      "context": "English class in Santa Ana, SV.",
+      "statement": "Which option completes the sentence correctly?",
+      "context": "Maria says: \"I ___ to San Salvador last Saturday with my cousin.\"",
       "options": [
         {
-          "letter": "C",
-          "text": "Kind and generous",
-          "is_correct": true,
-          "feedback": "Correct!"
-        },
-        {
           "letter": "A",
-          "text": "Mean and cruel",
-          "is_correct": false,
-          "feedback": "Incorrect. Review the concept."
+          "text": "went",
+          "is_correct": true,
+          "feedback": "Correct. The sentence talks about a finished action in the past, and \"go\" is irregular, so its past simple is \"went\"."
         },
         {
           "letter": "B",
-          "text": "Quick and fast",
+          "text": "go",
           "is_correct": false,
-          "feedback": "Incorrect. Review the concept."
+          "feedback": "Wrong. \"Go\" is the base form, which cannot follow the past auxiliary \"did\" or stand alone for a past action."
+        },
+        {
+          "letter": "C",
+          "text": "gone",
+          "is_correct": false,
+          "feedback": "Wrong. \"Gone\" is the past participle used after \"have\" or \"has\", not the past simple."
         },
         {
           "letter": "D",
-          "text": "Slow and lazy",
+          "text": "going",
           "is_correct": false,
-          "feedback": "Incorrect. Review the concept."
+          "feedback": "Wrong. \"Going\" is the -ing form and needs \"was\" or \"were\" before it."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "'Benevolent' means kind, generous, or charitable.",
+      "correct_answer": "A",
+      "explanation": "When the verb is irregular, only the middle form changes: go becomes went in the past simple and gone in the past participle.",
       "difficulty": "4",
       "images": [],
       "tags": [],
@@ -99,37 +99,82 @@
     },
     {
       "id": "SV-ING-11-2026-W03-past-simple-001-MASTERY-bundle-v3",
-      "statement": "Identify the main idea: 'The text describes how bees help pollinate flowers and produce honey.'",
-      "context": "English class in Mejicanos, SV.",
+      "statement": "What correction does the teacher need to make?",
+      "context": "A student writes: \"Yesterday I buyed a new backpack at the market.\"",
       "options": [
         {
-          "letter": "D",
-          "text": "Bees are important for pollination and honey",
-          "is_correct": true,
-          "feedback": "Correct!"
-        },
-        {
           "letter": "A",
-          "text": "Bees are dangerous insects",
+          "text": "\"Buyed\" is correct because all verbs add -ed",
           "is_correct": false,
-          "feedback": "Incorrect. Review the concept."
+          "feedback": "Wrong. Only regular verbs take -ed; irregular ones change form and \"buy\" is one of them."
         },
         {
           "letter": "B",
-          "text": "Honey is the only product bees make",
-          "is_correct": false,
-          "feedback": "Incorrect. Review the concept."
+          "text": "\"Buyed\" must be \"bought\", because \"buy\" is an irregular verb",
+          "is_correct": true,
+          "feedback": "Correct. \"Buy\" is irregular, so its past simple is \"bought\" and not \"buyed\"."
         },
         {
           "letter": "C",
-          "text": "Flowers don't need bees",
+          "text": "The word \"yesterday\" must be removed",
           "is_correct": false,
-          "feedback": "Incorrect. Review the concept."
+          "feedback": "Wrong. \"Yesterday\" is a correct marker of past time and is exactly what the sentence needs."
+        },
+        {
+          "letter": "D",
+          "text": "\"Buyed\" should be \"buys\" because the subject is \"I\"",
+          "is_correct": false,
+          "feedback": "Wrong. \"Buys\" belongs to the third person singular present simple, which does not match the past time marker."
         }
       ],
-      "correct_answer": "D",
-      "explanation": "The main idea summarizes the key points about bees: pollination and honey.",
-      "difficulty": "4",
+      "correct_answer": "B",
+      "explanation": "Irregular verbs such as buy, break and choose form the past simple without -ed, so the student must learn them as whole words.",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.75,
+      "bundle_id": "SV-ING-11-2026-W03-past-simple-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 11,
+      "country": "sv"
+    },
+    {
+      "id": "SV-ING-11-2026-W03-past-simple-001-MASTERY-bundle-v4",
+      "statement": "What is wrong with the sentence?",
+      "context": "The sentence reads: \"He didn't went to the party last night.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "\"Didn't\" should be \"doesn't\"",
+          "is_correct": false,
+          "feedback": "Wrong. \"Doesn't\" is present simple; the sentence has the past time marker \"last night\", so \"didn't\" is right."
+        },
+        {
+          "letter": "B",
+          "text": "After the auxiliary \"did\", the main verb must be in its base form",
+          "is_correct": true,
+          "feedback": "Correct. \"Didn't\" already carries the past tense, so the verb after it stays in the base form: \"didn't go\"."
+        },
+        {
+          "letter": "C",
+          "text": "\"Went\" should be \"gone\"",
+          "is_correct": false,
+          "feedback": "Wrong. \"Gone\" needs \"have\" or \"has\" before it and does not follow \"did\"."
+        },
+        {
+          "letter": "D",
+          "text": "Nothing is wrong; the sentence is correct",
+          "is_correct": false,
+          "feedback": "Wrong. Using a past form after \"did\" is a double marking of the tense and is incorrect in standard English."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "The auxiliary already carries the tense and the negative, so the main verb returns to the base form after \"did\", \"does\" and \"do\".",
+      "difficulty": "5",
       "images": [],
       "tags": [],
       "bloom": "Analyze",
@@ -143,37 +188,82 @@
       "country": "sv"
     },
     {
-      "id": "SV-ING-11-2026-W03-past-simple-001-MASTERY-bundle-v4",
-      "statement": "Which is the correct past form of 'go'?",
-      "context": "English class in San Miguel, SV.",
+      "id": "SV-ING-11-2026-W03-past-simple-001-MASTERY-bundle-v5",
+      "statement": "Which time connector best links the last completed action in that sequence?",
+      "context": "A student wants to describe a sequence of three past actions in a story.",
       "options": [
         {
-          "letter": "D",
-          "text": "went",
-          "is_correct": true,
-          "feedback": "Correct!"
-        },
-        {
           "letter": "A",
-          "text": "goed",
+          "text": "yet",
           "is_correct": false,
-          "feedback": "Incorrect. Review the concept."
+          "feedback": "Wrong. \"Yet\" is mainly used in questions and negatives, and it does not mark the next step of a past sequence."
         },
         {
           "letter": "B",
-          "text": "gone",
+          "text": "since",
           "is_correct": false,
-          "feedback": "Incorrect. Review the concept."
+          "feedback": "Wrong. \"Since\" marks a starting point in time, not the order of events in a past narrative."
         },
         {
           "letter": "C",
-          "text": "going",
+          "text": "then",
+          "is_correct": true,
+          "feedback": "Correct. \"Then\" introduces the next step in a sequence of past events and keeps the narration in the past simple."
+        },
+        {
+          "letter": "D",
+          "text": "while",
           "is_correct": false,
-          "feedback": "Incorrect. Review the concept."
+          "feedback": "Wrong. \"While\" introduces a contrast or a simultaneous action, not a successive step."
         }
       ],
-      "correct_answer": "D",
-      "explanation": "'Go' is an irregular verb: go → went (past simple).",
+      "correct_answer": "C",
+      "explanation": "In a past narrative, \"first\", \"then\", \"after that\" and \"finally\" mark the order of the events as they happened.",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.75,
+      "bundle_id": "SV-ING-11-2026-W03-past-simple-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 11,
+      "country": "sv"
+    },
+    {
+      "id": "SV-ING-11-2026-W03-past-simple-001-MASTERY-bundle-v6",
+      "statement": "What is the past simple of \"study\" and \"cry\"?",
+      "context": "The class reviews the spelling of past simple forms that end in a consonant plus y.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "studyed and cryed",
+          "is_correct": false,
+          "feedback": "Wrong. English does not keep the y when adding -ed after a consonant; the y must change to i."
+        },
+        {
+          "letter": "B",
+          "text": "studied and cryed",
+          "is_correct": false,
+          "feedback": "Wrong. The rule applies to both verbs, so the second form must also be \"cried\" with i."
+        },
+        {
+          "letter": "C",
+          "text": "studied and cried",
+          "is_correct": true,
+          "feedback": "Correct. With a consonant plus y the y changes to i before -ed, giving \"studied\" and \"cried\"."
+        },
+        {
+          "letter": "D",
+          "text": "studiyed and criyed",
+          "is_correct": false,
+          "feedback": "Wrong. No extra syllable is inserted; only the letter y changes to i before the -ed ending."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Spelling rules for the past simple: consonant plus y changes to i, as in study to studied, while vowel plus y just adds -ed, as in play to played.",
       "difficulty": "4",
       "images": [],
       "tags": [],
@@ -188,132 +278,42 @@
       "country": "sv"
     },
     {
-      "id": "SV-ING-11-2026-W03-past-simple-001-MASTERY-bundle-v5",
-      "statement": "Which sentence uses the present simple correctly?",
-      "context": "English class in San Salvador, SV.",
+      "id": "SV-ING-11-2026-W03-past-simple-001-MASTERY-bundle-v7",
+      "statement": "Which sentence uses the past simple correctly?",
+      "context": "A student must write about what happened during the summer holiday.",
       "options": [
         {
-          "letter": "B",
-          "text": "She goes to school every day.",
-          "is_correct": true,
-          "feedback": "Correct!"
+          "letter": "A",
+          "text": "We visit the beach and we swam in the ocean",
+          "is_correct": false,
+          "feedback": "Wrong. \"Visit\" is present simple, so the tense is inconsistent with the past time marker."
         },
         {
-          "letter": "A",
-          "text": "She go to school every day.",
+          "letter": "B",
+          "text": "We visited the beach and we swim in the ocean",
           "is_correct": false,
-          "feedback": "Incorrect. Review the concept."
+          "feedback": "Wrong. \"Swim\" is present simple and does not match the past action being narrated."
         },
         {
           "letter": "C",
-          "text": "She going to school every day.",
+          "text": "We will visit the beach and we swam in the ocean",
           "is_correct": false,
-          "feedback": "Incorrect. Review the concept."
+          "feedback": "Wrong. \"Will\" points to the future, and the holiday this sentence refers to is already over."
         },
         {
           "letter": "D",
-          "text": "She gone to school every day.",
-          "is_correct": false,
-          "feedback": "Incorrect. Review the concept."
-        }
-      ],
-      "correct_answer": "B",
-      "explanation": "Present simple: subject + verb(-s for he/she/it).",
-      "difficulty": "6",
-      "images": [],
-      "tags": [],
-      "bloom": "Remember",
-      "expected_success": 0.85,
-      "bundle_id": "SV-ING-11-2026-W03-past-simple-001-MASTERY-bundle",
-      "periodo": 3,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ingles",
-      "grade": 11,
-      "country": "sv"
-    },
-    {
-      "id": "SV-ING-11-2026-W03-past-simple-001-MASTERY-bundle-v6",
-      "statement": "Choose the correct option: 'I ___ reading a book right now.'",
-      "context": "English class in San Miguel, SV.",
-      "options": [
-        {
-          "letter": "B",
-          "text": "am",
+          "text": "We visited the beach and we swam in the ocean",
           "is_correct": true,
-          "feedback": "Correct!"
-        },
-        {
-          "letter": "A",
-          "text": "is",
-          "is_correct": false,
-          "feedback": "Incorrect. Review the concept."
-        },
-        {
-          "letter": "C",
-          "text": "are",
-          "is_correct": false,
-          "feedback": "Incorrect. Review the concept."
-        },
-        {
-          "letter": "D",
-          "text": "be",
-          "is_correct": false,
-          "feedback": "Incorrect. Review the concept."
+          "feedback": "Correct. Both \"visited\" and \"swam\" are past simple forms, so the whole sentence is in the past."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "Present continuous: I am + verb-ing.",
-      "difficulty": "6",
+      "correct_answer": "D",
+      "explanation": "When several actions in one sentence belong to the same past period, all of them take the past simple form.",
+      "difficulty": "5",
       "images": [],
       "tags": [],
       "bloom": "Apply",
-      "expected_success": 0.8,
-      "bundle_id": "SV-ING-11-2026-W03-past-simple-001-MASTERY-bundle",
-      "periodo": 3,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ingles",
-      "grade": 11,
-      "country": "sv"
-    },
-    {
-      "id": "SV-ING-11-2026-W03-past-simple-001-MASTERY-bundle-v7",
-      "statement": "What does 'benevolent' mean?",
-      "context": "English class in San Miguel, SV.",
-      "options": [
-        {
-          "letter": "B",
-          "text": "Kind and generous",
-          "is_correct": true,
-          "feedback": "Correct!"
-        },
-        {
-          "letter": "A",
-          "text": "Mean and cruel",
-          "is_correct": false,
-          "feedback": "Incorrect. Review the concept."
-        },
-        {
-          "letter": "C",
-          "text": "Quick and fast",
-          "is_correct": false,
-          "feedback": "Incorrect. Review the concept."
-        },
-        {
-          "letter": "D",
-          "text": "Slow and lazy",
-          "is_correct": false,
-          "feedback": "Incorrect. Review the concept."
-        }
-      ],
-      "correct_answer": "B",
-      "explanation": "'Benevolent' means kind, generous, or charitable.",
-      "difficulty": "6",
-      "images": [],
-      "tags": [],
-      "bloom": "Understand",
-      "expected_success": 0.8,
+      "expected_success": 0.75,
       "bundle_id": "SV-ING-11-2026-W03-past-simple-001-MASTERY-bundle",
       "periodo": 3,
       "protocol_version": "5.2",
@@ -324,37 +324,37 @@
     },
     {
       "id": "SV-ING-11-2026-W03-past-simple-001-MASTERY-bundle-v8",
-      "statement": "Identify the main idea: 'The text describes how bees help pollinate flowers and produce honey.'",
-      "context": "English class in Soyapango, SV.",
+      "statement": "What is the error in that sentence?",
+      "context": "The teacher writes: \"She wrote three emails and she was send them to her boss.\"",
       "options": [
         {
-          "letter": "C",
-          "text": "Bees are important for pollination and honey",
-          "is_correct": true,
-          "feedback": "Correct!"
-        },
-        {
           "letter": "A",
-          "text": "Bees are dangerous insects",
+          "text": "\"Was send\" is correct because the subject is singular",
           "is_correct": false,
-          "feedback": "Incorrect. Review the concept."
+          "feedback": "Wrong. The singular subject is right for \"was\", but the participle \"send\" is not a past participle."
         },
         {
           "letter": "B",
-          "text": "Honey is the only product bees make",
+          "text": "\"Wrote\" should be \"written\"",
           "is_correct": false,
-          "feedback": "Incorrect. Review the concept."
+          "feedback": "Wrong. \"Written\" is the participle and would need \"has\" or \"had\" before it."
+        },
+        {
+          "letter": "C",
+          "text": "\"Was send\" is wrong; the past passive needs \"were sent\"",
+          "is_correct": true,
+          "feedback": "Correct. In the past passive the auxiliary is \"were\" for plural subjects, and the participle is \"sent\"."
         },
         {
           "letter": "D",
-          "text": "Flowers don't need bees",
+          "text": "There is no error in the sentence",
           "is_correct": false,
-          "feedback": "Incorrect. Review the concept."
+          "feedback": "Wrong. \"Was send\" mixes the auxiliary \"was\" with a base form instead of a participle."
         }
       ],
       "correct_answer": "C",
-      "explanation": "The main idea summarizes the key points about bees: pollination and honey.",
-      "difficulty": "6",
+      "explanation": "In the past passive the pattern is \"was\" or \"were\" plus the past participle, and the participle of \"send\" is \"sent\".",
+      "difficulty": "5",
       "images": [],
       "tags": [],
       "bloom": "Analyze",
@@ -369,217 +369,37 @@
     },
     {
       "id": "SV-ING-11-2026-W03-past-simple-001-MASTERY-bundle-v9",
-      "statement": "Which is the correct past form of 'go'?",
-      "context": "English class in Soyapango, SV.",
+      "statement": "Which statement correctly distinguishes the two tenses?",
+      "context": "Two students disagree about the difference between the past simple and the present perfect.",
       "options": [
         {
-          "letter": "D",
-          "text": "went",
-          "is_correct": true,
-          "feedback": "Correct!"
-        },
-        {
           "letter": "A",
-          "text": "goed",
+          "text": "Both tenses refer to unfinished actions in the past",
           "is_correct": false,
-          "feedback": "Incorrect. Review the concept."
+          "feedback": "Wrong. The past simple always presents the action as finished and located in the past."
         },
         {
           "letter": "B",
-          "text": "gone",
+          "text": "The present perfect cannot be used with words of time",
           "is_correct": false,
-          "feedback": "Incorrect. Review the concept."
+          "feedback": "Wrong. The present perfect is frequently used with time expressions like \"today\", \"this week\" or \"already\"."
         },
         {
           "letter": "C",
-          "text": "going",
+          "text": "The past simple is only used with the verb \"to be\"",
           "is_correct": false,
-          "feedback": "Incorrect. Review the concept."
+          "feedback": "Wrong. The past simple covers regular and irregular action verbs as well as \"to be\"."
+        },
+        {
+          "letter": "D",
+          "text": "The past simple refers to a finished action at a definite past time; the present perfect links a past action to the present",
+          "is_correct": true,
+          "feedback": "Correct. A specific past time such as \"yesterday\" goes with the past simple, while \"already\" or \"this year\" go with the present perfect."
         }
       ],
       "correct_answer": "D",
-      "explanation": "'Go' is an irregular verb: go → went (past simple).",
-      "difficulty": "6",
-      "images": [],
-      "tags": [],
-      "bloom": "Remember",
-      "expected_success": 0.85,
-      "bundle_id": "SV-ING-11-2026-W03-past-simple-001-MASTERY-bundle",
-      "periodo": 3,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ingles",
-      "grade": 11,
-      "country": "sv"
-    },
-    {
-      "id": "SV-ING-11-2026-W03-past-simple-001-MASTERY-bundle-v10",
-      "statement": "Which sentence uses the present simple correctly?",
-      "context": "English class in San Salvador, SV.",
-      "options": [
-        {
-          "letter": "B",
-          "text": "She goes to school every day.",
-          "is_correct": true,
-          "feedback": "Correct!"
-        },
-        {
-          "letter": "A",
-          "text": "She go to school every day.",
-          "is_correct": false,
-          "feedback": "Incorrect. Review the concept."
-        },
-        {
-          "letter": "C",
-          "text": "She going to school every day.",
-          "is_correct": false,
-          "feedback": "Incorrect. Review the concept."
-        },
-        {
-          "letter": "D",
-          "text": "She gone to school every day.",
-          "is_correct": false,
-          "feedback": "Incorrect. Review the concept."
-        }
-      ],
-      "correct_answer": "B",
-      "explanation": "Present simple: subject + verb(-s for he/she/it).",
-      "difficulty": "6",
-      "images": [],
-      "tags": [],
-      "bloom": "Remember",
-      "expected_success": 0.85,
-      "bundle_id": "SV-ING-11-2026-W03-past-simple-001-MASTERY-bundle",
-      "periodo": 3,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ingles",
-      "grade": 11,
-      "country": "sv"
-    },
-    {
-      "id": "SV-ING-11-2026-W03-past-simple-001-MASTERY-bundle-v11",
-      "statement": "Choose the correct option: 'I ___ reading a book right now.'",
-      "context": "English class in Soyapango, SV.",
-      "options": [
-        {
-          "letter": "B",
-          "text": "am",
-          "is_correct": true,
-          "feedback": "Correct!"
-        },
-        {
-          "letter": "A",
-          "text": "is",
-          "is_correct": false,
-          "feedback": "Incorrect. Review the concept."
-        },
-        {
-          "letter": "C",
-          "text": "are",
-          "is_correct": false,
-          "feedback": "Incorrect. Review the concept."
-        },
-        {
-          "letter": "D",
-          "text": "be",
-          "is_correct": false,
-          "feedback": "Incorrect. Review the concept."
-        }
-      ],
-      "correct_answer": "B",
-      "explanation": "Present continuous: I am + verb-ing.",
-      "difficulty": "8",
-      "images": [],
-      "tags": [],
-      "bloom": "Apply",
-      "expected_success": 0.8,
-      "bundle_id": "SV-ING-11-2026-W03-past-simple-001-MASTERY-bundle",
-      "periodo": 3,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ingles",
-      "grade": 11,
-      "country": "sv"
-    },
-    {
-      "id": "SV-ING-11-2026-W03-past-simple-001-MASTERY-bundle-v12",
-      "statement": "What does 'benevolent' mean?",
-      "context": "English class in Mejicanos, SV.",
-      "options": [
-        {
-          "letter": "C",
-          "text": "Kind and generous",
-          "is_correct": true,
-          "feedback": "Correct!"
-        },
-        {
-          "letter": "A",
-          "text": "Mean and cruel",
-          "is_correct": false,
-          "feedback": "Incorrect. Review the concept."
-        },
-        {
-          "letter": "B",
-          "text": "Quick and fast",
-          "is_correct": false,
-          "feedback": "Incorrect. Review the concept."
-        },
-        {
-          "letter": "D",
-          "text": "Slow and lazy",
-          "is_correct": false,
-          "feedback": "Incorrect. Review the concept."
-        }
-      ],
-      "correct_answer": "C",
-      "explanation": "'Benevolent' means kind, generous, or charitable.",
-      "difficulty": "8",
-      "images": [],
-      "tags": [],
-      "bloom": "Understand",
-      "expected_success": 0.8,
-      "bundle_id": "SV-ING-11-2026-W03-past-simple-001-MASTERY-bundle",
-      "periodo": 3,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ingles",
-      "grade": 11,
-      "country": "sv"
-    },
-    {
-      "id": "SV-ING-11-2026-W03-past-simple-001-MASTERY-bundle-v13",
-      "statement": "Identify the main idea: 'The text describes how bees help pollinate flowers and produce honey.'",
-      "context": "English class in Mejicanos, SV.",
-      "options": [
-        {
-          "letter": "B",
-          "text": "Bees are important for pollination and honey",
-          "is_correct": true,
-          "feedback": "Correct!"
-        },
-        {
-          "letter": "A",
-          "text": "Bees are dangerous insects",
-          "is_correct": false,
-          "feedback": "Incorrect. Review the concept."
-        },
-        {
-          "letter": "C",
-          "text": "Honey is the only product bees make",
-          "is_correct": false,
-          "feedback": "Incorrect. Review the concept."
-        },
-        {
-          "letter": "D",
-          "text": "Flowers don't need bees",
-          "is_correct": false,
-          "feedback": "Incorrect. Review the concept."
-        }
-      ],
-      "correct_answer": "B",
-      "explanation": "The main idea summarizes the key points about bees: pollination and honey.",
-      "difficulty": "8",
+      "explanation": "The past simple needs a finished past moment, while the present perfect uses that past action to say something about now.",
+      "difficulty": "5",
       "images": [],
       "tags": [],
       "bloom": "Analyze",
@@ -593,42 +413,222 @@
       "country": "sv"
     },
     {
-      "id": "SV-ING-11-2026-W03-past-simple-001-MASTERY-bundle-v14",
-      "statement": "Which is the correct past form of 'go'?",
-      "context": "English class in Soyapango, SV.",
+      "id": "SV-ING-11-2026-W03-past-simple-001-MASTERY-bundle-v10",
+      "statement": "Which option makes the negative sentence correct?",
+      "context": "A student writes: \"She didn't went to school because she was sick.\"",
       "options": [
         {
-          "letter": "D",
-          "text": "went",
-          "is_correct": true,
-          "feedback": "Correct!"
-        },
-        {
           "letter": "A",
-          "text": "goed",
-          "is_correct": false,
-          "feedback": "Incorrect. Review the concept."
+          "text": "She didn't go to school because she was sick",
+          "is_correct": true,
+          "feedback": "Correct. After \"didn't\" the verb returns to its base form \"go\"."
         },
         {
           "letter": "B",
-          "text": "gone",
+          "text": "She didn't went to school because she was sick",
           "is_correct": false,
-          "feedback": "Incorrect. Review the concept."
+          "feedback": "Wrong. \"Went\" is the past form and cannot follow the negative auxiliary \"didn't\"."
         },
         {
           "letter": "C",
-          "text": "going",
+          "text": "She not didn't go to school because she was sick",
           "is_correct": false,
-          "feedback": "Incorrect. Review the concept."
+          "feedback": "Wrong. After \"did\" the negative must be formed with \"not\", and \"didn't\" already includes that negation."
+        },
+        {
+          "letter": "D",
+          "text": "She doesn't went to school because she was sick",
+          "is_correct": false,
+          "feedback": "Wrong. \"Doesn't\" is present simple and cannot be combined with the past form \"went\"."
         }
       ],
-      "correct_answer": "D",
-      "explanation": "'Go' is an irregular verb: go → went (past simple).",
-      "difficulty": "8",
+      "correct_answer": "A",
+      "explanation": "The negative past simple is built with \"did not\" or \"didn't\" followed by the base form of the main verb.",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.75,
+      "bundle_id": "SV-ING-11-2026-W03-past-simple-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 11,
+      "country": "sv"
+    },
+    {
+      "id": "SV-ING-11-2026-W03-past-simple-001-MASTERY-bundle-v11",
+      "statement": "What does the phrase \"By 2010\" signal in that passage?",
+      "context": "The reading passage says: \"In 1998, the company opened two factories. By 2010, it had opened twenty.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "A completed point in time by which the action was finished",
+          "is_correct": true,
+          "feedback": "Correct. \"By\" plus a past time marks the end of a period up to which the action had already happened."
+        },
+        {
+          "letter": "B",
+          "text": "A repeated habit in the past",
+          "is_correct": false,
+          "feedback": "Wrong. A repeated past habit would need \"used to\" or \"every year\", not \"by\"."
+        },
+        {
+          "letter": "C",
+          "text": "An action that is still happening now",
+          "is_correct": false,
+          "feedback": "Wrong. The action is presented as finished, since the twenty factories had already been opened."
+        },
+        {
+          "letter": "D",
+          "text": "A future event planned for 2010",
+          "is_correct": false,
+          "feedback": "Wrong. Everything in the passage is in the past; \"by 2010\" looks back, not forward."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Expressions such as \"by the end of 2010\" or \"by then\" mark the deadline before which an action was completed.",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.7,
+      "bundle_id": "SV-ING-11-2026-W03-past-simple-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 11,
+      "country": "sv"
+    },
+    {
+      "id": "SV-ING-11-2026-W03-past-simple-001-MASTERY-bundle-v12",
+      "statement": "Which sentence reports those actions in the past simple?",
+      "context": "A student wants to report a completed sequence of actions from a work shift.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "I check the order, I pack the boxes and I called the client",
+          "is_correct": false,
+          "feedback": "Wrong. \"Check\" and \"pack\" are present simple, so the sequence mixes tenses."
+        },
+        {
+          "letter": "B",
+          "text": "I checked the order, I packed the boxes and I called the client",
+          "is_correct": true,
+          "feedback": "Correct. All three verbs take the past simple, which is what a sequence of completed actions requires."
+        },
+        {
+          "letter": "C",
+          "text": "I am checking the order, I packed the boxes and I call the client",
+          "is_correct": false,
+          "feedback": "Wrong. The present continuous and the present simple do not belong in a report of completed actions."
+        },
+        {
+          "letter": "D",
+          "text": "I have checked the order, I pack the boxes and I called the client",
+          "is_correct": false,
+          "feedback": "Wrong. \"Have checked\" links to the present, while the rest of the sentence narrates the past."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "When a speaker reports what was done during a finished period, every action in the list takes the past simple.",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.75,
+      "bundle_id": "SV-ING-11-2026-W03-past-simple-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 11,
+      "country": "sv"
+    },
+    {
+      "id": "SV-ING-11-2026-W03-past-simple-001-MASTERY-bundle-v13",
+      "statement": "What is the past simple of the verb \"buy\"?",
+      "context": "The teacher shows a list of irregular verbs and asks the class to complete the past simple column.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "buyed",
+          "is_correct": false,
+          "feedback": "Wrong. Adding -ed is only for regular verbs; \"buy\" does not follow that pattern."
+        },
+        {
+          "letter": "B",
+          "text": "buy",
+          "is_correct": false,
+          "feedback": "Wrong. The base form also fails, since a finished past action needs a past form and not the infinitive."
+        },
+        {
+          "letter": "C",
+          "text": "bought",
+          "is_correct": true,
+          "feedback": "Correct. \"Buy\" is irregular and its past simple is \"bought\"."
+        },
+        {
+          "letter": "D",
+          "text": "buying",
+          "is_correct": false,
+          "feedback": "Wrong. \"Buying\" needs \"was\" or \"were\" before it and belongs to the continuous forms."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Common irregular verbs in the past simple include buy to bought, bring to brought, teach to taught and catch to caught.",
+      "difficulty": "5",
       "images": [],
       "tags": [],
       "bloom": "Remember",
       "expected_success": 0.85,
+      "bundle_id": "SV-ING-11-2026-W03-past-simple-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 11,
+      "country": "sv"
+    },
+    {
+      "id": "SV-ING-11-2026-W03-past-simple-001-MASTERY-bundle-v14",
+      "statement": "Why does the reporter use the past simple in both sentences?",
+      "context": "A newspaper report reads: \"The hurricane struck the coast at midnight. Thousands of families left their homes that night.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "To show that the hurricane is still happening",
+          "is_correct": false,
+          "feedback": "Wrong. The past simple presents the action as finished, not as ongoing."
+        },
+        {
+          "letter": "B",
+          "text": "To compare the two events in duration",
+          "is_correct": false,
+          "feedback": "Wrong. Comparing duration would need comparative forms such as \"longer\" or \"for two hours\"."
+        },
+        {
+          "letter": "C",
+          "text": "To express doubt about the events",
+          "is_correct": false,
+          "feedback": "Wrong. Doubt is expressed with modals or hedging, not by the choice of tense."
+        },
+        {
+          "letter": "D",
+          "text": "To report events that happened and are finished at a definite time",
+          "is_correct": true,
+          "feedback": "Correct. A news report about completed events uses the past simple to locate them in a closed past period."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "The past simple is the default tense for reporting completed news events with a closed time reference.",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.7,
       "bundle_id": "SV-ING-11-2026-W03-past-simple-001-MASTERY-bundle",
       "periodo": 3,
       "protocol_version": "5.2",
@@ -639,41 +639,41 @@
     },
     {
       "id": "SV-ING-11-2026-W03-past-simple-001-MASTERY-bundle-v15",
-      "statement": "Which sentence uses the present simple correctly?",
-      "context": "English class in San Salvador, SV.",
+      "statement": "Which opening sentence suits a plot summary best?",
+      "context": "A student must summarise a movie plot for a class presentation.",
       "options": [
         {
-          "letter": "B",
-          "text": "She goes to school every day.",
-          "is_correct": true,
-          "feedback": "Correct!"
+          "letter": "A",
+          "text": "The film is telling the story of a family that is moving to the coast",
+          "is_correct": false,
+          "feedback": "Wrong. The present continuous would suggest the story is happening now, which is not the case."
         },
         {
-          "letter": "A",
-          "text": "She go to school every day.",
-          "is_correct": false,
-          "feedback": "Incorrect. Review the concept."
+          "letter": "B",
+          "text": "The film tells the story of a family that moved to the coast and faced many problems",
+          "is_correct": true,
+          "feedback": "Correct. The past simple is the standard tense for narrating the events of a completed story."
         },
         {
           "letter": "C",
-          "text": "She going to school every day.",
+          "text": "The film has been telling the story of a family that moved to the coast",
           "is_correct": false,
-          "feedback": "Incorrect. Review the concept."
+          "feedback": "Wrong. The present perfect would link the story to the present, but a finished plot is normally narrated in the past."
         },
         {
           "letter": "D",
-          "text": "She gone to school every day.",
+          "text": "The film tells the story of a family that will move to the coast",
           "is_correct": false,
-          "feedback": "Incorrect. Review the concept."
+          "feedback": "Wrong. \"Will\" refers to the future, but the plot of a film has already been narrated."
         }
       ],
       "correct_answer": "B",
-      "explanation": "Present simple: subject + verb(-s for he/she/it).",
-      "difficulty": "8",
+      "explanation": "A completed narrative, whether real or fictional, is normally told in the past simple.",
+      "difficulty": "5",
       "images": [],
       "tags": [],
-      "bloom": "Remember",
-      "expected_success": 0.85,
+      "bloom": "Apply",
+      "expected_success": 0.75,
       "bundle_id": "SV-ING-11-2026-W03-past-simple-001-MASTERY-bundle",
       "periodo": 3,
       "protocol_version": "5.2",
@@ -684,41 +684,41 @@
     },
     {
       "id": "SV-ING-11-2026-W03-past-simple-001-MASTERY-bundle-v16",
-      "statement": "Choose the correct option: 'I ___ reading a book right now.'",
-      "context": "English class in Soyapango, SV.",
+      "statement": "What is the reason?",
+      "context": "The teacher asks why the student cannot say \"He have finished the report yesterday.\"",
       "options": [
         {
-          "letter": "C",
-          "text": "am",
-          "is_correct": true,
-          "feedback": "Correct!"
-        },
-        {
           "letter": "A",
-          "text": "is",
+          "text": "The present perfect is never used with \"yesterday\"",
           "is_correct": false,
-          "feedback": "Incorrect. Review the concept."
+          "feedback": "Wrong. The point is not that \"yesterday\" is forbidden, but that stating a finished past time forces the past simple."
         },
         {
           "letter": "B",
-          "text": "are",
+          "text": "A definite past time such as \"yesterday\" requires the past simple, not the present perfect",
+          "is_correct": true,
+          "feedback": "Correct. When the past time is stated, English uses the past simple and not the present perfect."
+        },
+        {
+          "letter": "C",
+          "text": "\"Have\" should be \"has\" because the subject is \"he\"",
           "is_correct": false,
-          "feedback": "Incorrect. Review the concept."
+          "feedback": "Wrong. The subject does agree with \"has\", but the real problem is the use of the present perfect."
         },
         {
           "letter": "D",
-          "text": "be",
+          "text": "The sentence is correct and only the spelling is wrong",
           "is_correct": false,
-          "feedback": "Incorrect. Review the concept."
+          "feedback": "Wrong. This is a grammar pattern problem, not an orthography problem."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "Present continuous: I am + verb-ing.",
-      "difficulty": "8",
+      "correct_answer": "B",
+      "explanation": "The present perfect is not used with finished past time expressions such as \"yesterday\", \"last week\" or \"in 2020\".",
+      "difficulty": "5",
       "images": [],
       "tags": [],
-      "bloom": "Apply",
-      "expected_success": 0.8,
+      "bloom": "Analyze",
+      "expected_success": 0.7,
       "bundle_id": "SV-ING-11-2026-W03-past-simple-001-MASTERY-bundle",
       "periodo": 3,
       "protocol_version": "5.2",
@@ -729,41 +729,41 @@
     },
     {
       "id": "SV-ING-11-2026-W03-past-simple-001-MASTERY-bundle-v17",
-      "statement": "What does 'benevolent' mean?",
-      "context": "English class in Mejicanos, SV.",
+      "statement": "Which correction should the student make?",
+      "context": "A student is asked to correct the sentence \"They was late for the exam.\"",
       "options": [
         {
-          "letter": "B",
-          "text": "Kind and generous",
-          "is_correct": true,
-          "feedback": "Correct!"
+          "letter": "A",
+          "text": "They was late for the exam",
+          "is_correct": false,
+          "feedback": "Wrong. \"Was\" is the singular past form and does not agree with the plural subject \"they\"."
         },
         {
-          "letter": "A",
-          "text": "Mean and cruel",
+          "letter": "B",
+          "text": "They are late for the exam",
           "is_correct": false,
-          "feedback": "Incorrect. Review the concept."
+          "feedback": "Wrong. \"Are\" is present simple, but the exam has already taken place."
         },
         {
           "letter": "C",
-          "text": "Quick and fast",
-          "is_correct": false,
-          "feedback": "Incorrect. Review the concept."
+          "text": "They were late for the exam",
+          "is_correct": true,
+          "feedback": "Correct. The subject \"they\" is plural, so the past simple of \"to be\" is \"were\"."
         },
         {
           "letter": "D",
-          "text": "Slow and lazy",
+          "text": "They will be late for the exam",
           "is_correct": false,
-          "feedback": "Incorrect. Review the concept."
+          "feedback": "Wrong. \"Will\" points to the future, but the exam has already taken place."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "'Benevolent' means kind, generous, or charitable.",
-      "difficulty": "10",
+      "correct_answer": "C",
+      "explanation": "The verb \"to be\" is irregular: in the past simple it is \"was\" for singular subjects and \"were\" for plural ones.",
+      "difficulty": "5",
       "images": [],
       "tags": [],
-      "bloom": "Understand",
-      "expected_success": 0.8,
+      "bloom": "Apply",
+      "expected_success": 0.75,
       "bundle_id": "SV-ING-11-2026-W03-past-simple-001-MASTERY-bundle",
       "periodo": 3,
       "protocol_version": "5.2",
@@ -774,37 +774,37 @@
     },
     {
       "id": "SV-ING-11-2026-W03-past-simple-001-MASTERY-bundle-v18",
-      "statement": "Identify the main idea: 'The text describes how bees help pollinate flowers and produce honey.'",
-      "context": "English class in Mejicanos, SV.",
+      "statement": "What do all of those expressions have in common?",
+      "context": "The teacher gives the class a list of time expressions: yesterday, last night, two days ago, in 2019.",
       "options": [
         {
-          "letter": "B",
-          "text": "Bees are important for pollination and honey",
+          "letter": "A",
+          "text": "They all point to a finished moment in the past, so they go with the past simple",
           "is_correct": true,
-          "feedback": "Correct!"
+          "feedback": "Correct. A finished past time reference requires the past simple, not the present perfect."
         },
         {
-          "letter": "A",
-          "text": "Bees are dangerous insects",
+          "letter": "B",
+          "text": "They all point to a moment that is still happening",
           "is_correct": false,
-          "feedback": "Incorrect. Review the concept."
+          "feedback": "Wrong. Every expression on the list refers to a time that has already ended."
         },
         {
           "letter": "C",
-          "text": "Honey is the only product bees make",
+          "text": "They can all be used with the present perfect",
           "is_correct": false,
-          "feedback": "Incorrect. Review the concept."
+          "feedback": "Wrong. A finished past time rules out the present perfect."
         },
         {
           "letter": "D",
-          "text": "Flowers don't need bees",
+          "text": "They all refer to future events",
           "is_correct": false,
-          "feedback": "Incorrect. Review the concept."
+          "feedback": "Wrong. None of these expressions points forward in time."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "The main idea summarizes the key points about bees: pollination and honey.",
-      "difficulty": "10",
+      "correct_answer": "A",
+      "explanation": "Finished time expressions such as \"yesterday\" or \"in 2019\" are incompatible with the present perfect, which needs an unfinished or unspecified past period.",
+      "difficulty": "5",
       "images": [],
       "tags": [],
       "bloom": "Analyze",
@@ -819,41 +819,41 @@
     },
     {
       "id": "SV-ING-11-2026-W03-past-simple-001-MASTERY-bundle-v19",
-      "statement": "Which is the correct past form of 'go'?",
-      "context": "English class in Soyapango, SV.",
+      "statement": "Which sentence mixes the past and the future correctly?",
+      "context": "A student is writing a short message about a weekend activity and wants to ask a friend to join next time.",
       "options": [
         {
           "letter": "A",
-          "text": "went",
+          "text": "We visited the market yesterday, so we can go again next Saturday",
           "is_correct": true,
-          "feedback": "Correct!"
+          "feedback": "Correct. The first clause reports a finished past action and the second uses \"can\" for the future possibility."
         },
         {
           "letter": "B",
-          "text": "goed",
+          "text": "We visited the market yesterday, so we can go yesterday",
           "is_correct": false,
-          "feedback": "Incorrect. Review the concept."
+          "feedback": "Wrong. \"Yesterday\" cannot be repeated as a future time; the second action needs a future expression."
         },
         {
           "letter": "C",
-          "text": "gone",
+          "text": "We visit the market yesterday, so we can go again next Saturday",
           "is_correct": false,
-          "feedback": "Incorrect. Review the concept."
+          "feedback": "Wrong. \"Visit\" is present simple, but \"yesterday\" requires a past form."
         },
         {
           "letter": "D",
-          "text": "going",
+          "text": "We visited the market yesterday, so we went again next Saturday",
           "is_correct": false,
-          "feedback": "Incorrect. Review the concept."
+          "feedback": "Wrong. \"Went again\" is past, but \"next Saturday\" is still in the future from the speaker's point of view."
         }
       ],
       "correct_answer": "A",
-      "explanation": "'Go' is an irregular verb: go → went (past simple).",
-      "difficulty": "10",
+      "explanation": "In a single sentence the tense follows the time reference of each clause, not the tense of the neighbouring clause.",
+      "difficulty": "5",
       "images": [],
       "tags": [],
-      "bloom": "Remember",
-      "expected_success": 0.85,
+      "bloom": "Apply",
+      "expected_success": 0.75,
       "bundle_id": "SV-ING-11-2026-W03-past-simple-001-MASTERY-bundle",
       "periodo": 3,
       "protocol_version": "5.2",
@@ -864,37 +864,37 @@
     },
     {
       "id": "SV-ING-11-2026-W03-past-simple-001-MASTERY-bundle-v20",
-      "statement": "Which sentence uses the present simple correctly?",
-      "context": "English class in Soyapango, SV.",
+      "statement": "Which verb follows that pattern?",
+      "context": "The class is building a list of verbs whose past simple ends in -d even though the base form does not.",
       "options": [
         {
-          "letter": "C",
-          "text": "She goes to school every day.",
-          "is_correct": true,
-          "feedback": "Correct!"
-        },
-        {
           "letter": "A",
-          "text": "She go to school every day.",
+          "text": "work",
           "is_correct": false,
-          "feedback": "Incorrect. Review the concept."
+          "feedback": "Wrong. \"Work\" is regular and takes -ed, giving \"worked\"."
         },
         {
           "letter": "B",
-          "text": "She going to school every day.",
+          "text": "play",
           "is_correct": false,
-          "feedback": "Incorrect. Review the concept."
+          "feedback": "Wrong. \"Play\" is regular and takes -ed, giving \"played\"."
+        },
+        {
+          "letter": "C",
+          "text": "open",
+          "is_correct": false,
+          "feedback": "Wrong. \"Open\" is regular and takes -ed, giving \"opened\"."
         },
         {
           "letter": "D",
-          "text": "She gone to school every day.",
-          "is_correct": false,
-          "feedback": "Incorrect. Review the concept."
+          "text": "send",
+          "is_correct": true,
+          "feedback": "Correct. \"Send\" ends in -d already, and its past simple is the single-syllable form \"sent\"."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "Present simple: subject + verb(-s for he/she/it).",
-      "difficulty": "10",
+      "correct_answer": "D",
+      "explanation": "Irregular verbs whose past simple does not take -ed include send to sent, make to made, tell to told and buy to bought.",
+      "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Remember",

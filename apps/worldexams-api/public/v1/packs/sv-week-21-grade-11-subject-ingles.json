@@ -4,41 +4,41 @@
     "subject": "ingles",
     "country": "sv",
     "pack_id": "sv-week-21-grade-11-subject-ingles",
-    "generated_at": "2026-07-28T22:52:17.141Z"
+    "generated_at": "2026-10-01T02:40:16.660Z"
   },
   "questions": [
     {
       "id": "SV-ING-11-2026-W21-collocations-001-MASTERY-bundle-v1",
-      "statement": "Choose the correct option: 'I ___ reading a book right now.'",
-      "context": "English class in Mejicanos, SV.",
+      "statement": "Choose the correct collocation: 'She decided to ____ the offer.'",
+      "context": "Practica de collocations, San Salvador.",
       "options": [
         {
-          "letter": "B",
-          "text": "am",
-          "is_correct": true,
-          "feedback": "Correct!"
+          "letter": "A",
+          "text": "refuse",
+          "is_correct": false,
+          "feedback": "'Refuse an offer' is possible but changes the meaning; the neutral verb is 'accept'."
         },
         {
-          "letter": "A",
-          "text": "is",
+          "letter": "B",
+          "text": "make",
           "is_correct": false,
-          "feedback": "Incorrect. Review the concept."
+          "feedback": "'Make an offer' is the collocation used from the side of the person who offers."
         },
         {
           "letter": "C",
-          "text": "are",
-          "is_correct": false,
-          "feedback": "Incorrect. Review the concept."
+          "text": "accept",
+          "is_correct": true,
+          "feedback": "'Accept an offer' is a fixed and natural collocation."
         },
         {
           "letter": "D",
-          "text": "be",
+          "text": "take",
           "is_correct": false,
-          "feedback": "Incorrect. Review the concept."
+          "feedback": "'Take an offer' is not a standard English collocation."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "Present continuous: I am + verb-ing.",
+      "correct_answer": "C",
+      "explanation": "'Accept an offer' es una combinacion fija y natural del ingles; las demas no encajan con 'offer' en este sentido.\n\n---",
       "difficulty": "4",
       "images": [],
       "tags": [],
@@ -54,40 +54,40 @@
     },
     {
       "id": "SV-ING-11-2026-W21-collocations-001-MASTERY-bundle-v2",
-      "statement": "What does 'benevolent' mean?",
-      "context": "English class in San Salvador, SV.",
+      "statement": "Which adjective and noun form a natural collocation?",
+      "context": "Collocations adjetivales, San Miguel.",
       "options": [
         {
           "letter": "A",
-          "text": "Kind and generous",
-          "is_correct": true,
-          "feedback": "Correct!"
+          "text": "a close enemy",
+          "is_correct": false,
+          "feedback": "'Close enemy' is not idiomatic; one says 'a sworn enemy'."
         },
         {
           "letter": "B",
-          "text": "Mean and cruel",
-          "is_correct": false,
-          "feedback": "Incorrect. Review the concept."
+          "text": "a close friend",
+          "is_correct": true,
+          "feedback": "'Close friend' is a fixed combination in English."
         },
         {
           "letter": "C",
-          "text": "Quick and fast",
+          "text": "an immediate friend",
           "is_correct": false,
-          "feedback": "Incorrect. Review the concept."
+          "feedback": "'Immediate' describes time or sequence, not friendship."
         },
         {
           "letter": "D",
-          "text": "Slow and lazy",
+          "text": "a near friend",
           "is_correct": false,
-          "feedback": "Incorrect. Review the concept."
+          "feedback": "'Near' refers to distance or time, not to closeness of a bond."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "'Benevolent' means kind, generous, or charitable.",
+      "correct_answer": "B",
+      "explanation": "'Close friend' es una combinacion fija del ingles; 'close enemy' no lo es: se dice 'bitter enemy' o 'sworn enemy'.\n\n---",
       "difficulty": "4",
       "images": [],
       "tags": [],
-      "bloom": "Understand",
+      "bloom": "Analyze",
       "expected_success": 0.8,
       "bundle_id": "SV-ING-11-2026-W21-collocations-001-MASTERY-bundle",
       "periodo": 21,
@@ -99,41 +99,41 @@
     },
     {
       "id": "SV-ING-11-2026-W21-collocations-001-MASTERY-bundle-v3",
-      "statement": "Identify the main idea: 'The text describes how bees help pollinate flowers and produce honey.'",
-      "context": "English class in Mejicanos, SV.",
+      "statement": "Complete: 'The teacher asked the students to ____ their homework carefully.'",
+      "context": "Verbo y sustantivo en collocations, San Salvador.",
       "options": [
         {
           "letter": "A",
-          "text": "Bees are important for pollination and honey",
-          "is_correct": true,
-          "feedback": "Correct!"
+          "text": "make",
+          "is_correct": false,
+          "feedback": "'Make' collocates with a meal or a decision, not with homework in this sense."
         },
         {
           "letter": "B",
-          "text": "Bees are dangerous insects",
+          "text": "write",
           "is_correct": false,
-          "feedback": "Incorrect. Review the concept."
+          "feedback": "'Write' takes 'an essay' or 'a report', not 'homework'."
         },
         {
           "letter": "C",
-          "text": "Honey is the only product bees make",
+          "text": "take",
           "is_correct": false,
-          "feedback": "Incorrect. Review the concept."
+          "feedback": "'Take' collocates with an exam or a medicine, not with homework."
         },
         {
           "letter": "D",
-          "text": "Flowers don't need bees",
-          "is_correct": false,
-          "feedback": "Incorrect. Review the concept."
+          "text": "do",
+          "is_correct": true,
+          "feedback": "'Do homework' is the standard verb-noun collocation."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The main idea summarizes the key points about bees: pollination and honey.",
+      "correct_answer": "D",
+      "explanation": "'Do one's homework' es la collocation estandar; los demas verbos no se combinan de forma natural con 'homework'.\n\n---",
       "difficulty": "4",
       "images": [],
       "tags": [],
-      "bloom": "Analyze",
-      "expected_success": 0.7,
+      "bloom": "Apply",
+      "expected_success": 0.8,
       "bundle_id": "SV-ING-11-2026-W21-collocations-001-MASTERY-bundle",
       "periodo": 21,
       "protocol_version": "5.2",
@@ -144,41 +144,41 @@
     },
     {
       "id": "SV-ING-11-2026-W21-collocations-001-MASTERY-bundle-v4",
-      "statement": "Which is the correct past form of 'go'?",
-      "context": "English class in San Miguel, SV.",
+      "statement": "Choose the best verb: 'We need to ____ a decision before Friday.'",
+      "context": "Collocations con 'decision', San Miguel.",
       "options": [
         {
-          "letter": "C",
-          "text": "went",
-          "is_correct": true,
-          "feedback": "Correct!"
-        },
-        {
           "letter": "A",
-          "text": "goed",
+          "text": "do",
           "is_correct": false,
-          "feedback": "Incorrect. Review the concept."
+          "feedback": "'Do' collocates with tasks, homework or business, not with a decision."
         },
         {
           "letter": "B",
-          "text": "gone",
+          "text": "make",
+          "is_correct": true,
+          "feedback": "'Make a decision' is the fixed collocation in standard English."
+        },
+        {
+          "letter": "C",
+          "text": "take",
           "is_correct": false,
-          "feedback": "Incorrect. Review the concept."
+          "feedback": "'Take a decision' appears in some legal registers but is not the common collocation."
         },
         {
           "letter": "D",
-          "text": "going",
+          "text": "give",
           "is_correct": false,
-          "feedback": "Incorrect. Review the concept."
+          "feedback": "'Give a decision' would suggest handing the decision over to someone else."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "'Go' is an irregular verb: go → went (past simple).",
+      "correct_answer": "B",
+      "explanation": "'Make a decision' es la combinacion natural del ingles; 'do a decision' no existe.\n\n---",
       "difficulty": "4",
       "images": [],
       "tags": [],
-      "bloom": "Remember",
-      "expected_success": 0.85,
+      "bloom": "Apply",
+      "expected_success": 0.8,
       "bundle_id": "SV-ING-11-2026-W21-collocations-001-MASTERY-bundle",
       "periodo": 21,
       "protocol_version": "5.2",
@@ -189,41 +189,41 @@
     },
     {
       "id": "SV-ING-11-2026-W21-collocations-001-MASTERY-bundle-v5",
-      "statement": "Which sentence uses the present simple correctly?",
-      "context": "English class in San Miguel, SV.",
+      "statement": "Which prepositional collocation is correct?",
+      "context": "Preposiciones y sustantivos, San Salvador.",
       "options": [
         {
           "letter": "A",
-          "text": "She goes to school every day.",
-          "is_correct": true,
-          "feedback": "Correct!"
+          "text": "She is responsible of the project.",
+          "is_correct": false,
+          "feedback": "'Responsible of' is not standard English; use 'for'."
         },
         {
           "letter": "B",
-          "text": "She go to school every day.",
+          "text": "She is responsible from the project.",
           "is_correct": false,
-          "feedback": "Incorrect. Review the concept."
+          "feedback": "'From' would suggest origin, not responsibility."
         },
         {
           "letter": "C",
-          "text": "She going to school every day.",
+          "text": "She is responsible to the project.",
           "is_correct": false,
-          "feedback": "Incorrect. Review the concept."
+          "feedback": "'Responsible to' takes a person, not a task."
         },
         {
           "letter": "D",
-          "text": "She gone to school every day.",
-          "is_correct": false,
-          "feedback": "Incorrect. Review the concept."
+          "text": "She is responsible for the project.",
+          "is_correct": true,
+          "feedback": "'Responsible for' is the fixed prepositional collocation."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "Present simple: subject + verb(-s for he/she/it).",
+      "correct_answer": "D",
+      "explanation": "En ingles se dice 'responsible for'; las demas preposiciones no forman parte de esa collocation.\n\n---",
       "difficulty": "6",
       "images": [],
       "tags": [],
-      "bloom": "Remember",
-      "expected_success": 0.85,
+      "bloom": "Analyze",
+      "expected_success": 0.8,
       "bundle_id": "SV-ING-11-2026-W21-collocations-001-MASTERY-bundle",
       "periodo": 21,
       "protocol_version": "5.2",
@@ -234,37 +234,37 @@
     },
     {
       "id": "SV-ING-11-2026-W21-collocations-001-MASTERY-bundle-v6",
-      "statement": "Choose the correct option: 'I ___ reading a book right now.'",
-      "context": "English class in Mejicanos, SV.",
+      "statement": "Choose the natural collocation: 'He is very ____ about arriving on time.'",
+      "context": "Adjetivo y preposicion, San Salvador.",
       "options": [
         {
-          "letter": "D",
-          "text": "am",
-          "is_correct": true,
-          "feedback": "Correct!"
-        },
-        {
           "letter": "A",
-          "text": "is",
-          "is_correct": false,
-          "feedback": "Incorrect. Review the concept."
+          "text": "concerned",
+          "is_correct": true,
+          "feedback": "'Concerned about' is the natural collocation with punctuality."
         },
         {
           "letter": "B",
-          "text": "are",
+          "text": "concerning",
           "is_correct": false,
-          "feedback": "Incorrect. Review the concept."
+          "feedback": "'Concerning' is a preposition meaning 'about' and cannot follow 'very'."
         },
         {
           "letter": "C",
-          "text": "be",
+          "text": "concern",
           "is_correct": false,
-          "feedback": "Incorrect. Review the concept."
+          "feedback": "'Concern' is a noun here and cannot follow 'very' in this pattern."
+        },
+        {
+          "letter": "D",
+          "text": "concernful",
+          "is_correct": false,
+          "feedback": "'Concernful' is not a standard English adjective."
         }
       ],
-      "correct_answer": "D",
-      "explanation": "Present continuous: I am + verb-ing.",
-      "difficulty": "6",
+      "correct_answer": "A",
+      "explanation": "La combinacion fija es 'concerned about', que expresa preocupacion o interes. Expresa worried about, pleased with o surprised at.\n\n---",
+      "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Apply",
@@ -279,217 +279,37 @@
     },
     {
       "id": "SV-ING-11-2026-W21-collocations-001-MASTERY-bundle-v7",
-      "statement": "What does 'benevolent' mean?",
-      "context": "English class in San Miguel, SV.",
-      "options": [
-        {
-          "letter": "C",
-          "text": "Kind and generous",
-          "is_correct": true,
-          "feedback": "Correct!"
-        },
-        {
-          "letter": "A",
-          "text": "Mean and cruel",
-          "is_correct": false,
-          "feedback": "Incorrect. Review the concept."
-        },
-        {
-          "letter": "B",
-          "text": "Quick and fast",
-          "is_correct": false,
-          "feedback": "Incorrect. Review the concept."
-        },
-        {
-          "letter": "D",
-          "text": "Slow and lazy",
-          "is_correct": false,
-          "feedback": "Incorrect. Review the concept."
-        }
-      ],
-      "correct_answer": "C",
-      "explanation": "'Benevolent' means kind, generous, or charitable.",
-      "difficulty": "6",
-      "images": [],
-      "tags": [],
-      "bloom": "Understand",
-      "expected_success": 0.8,
-      "bundle_id": "SV-ING-11-2026-W21-collocations-001-MASTERY-bundle",
-      "periodo": 21,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ingles",
-      "grade": 11,
-      "country": "sv"
-    },
-    {
-      "id": "SV-ING-11-2026-W21-collocations-001-MASTERY-bundle-v8",
-      "statement": "Identify the main idea: 'The text describes how bees help pollinate flowers and produce honey.'",
-      "context": "English class in San Salvador, SV.",
-      "options": [
-        {
-          "letter": "D",
-          "text": "Bees are important for pollination and honey",
-          "is_correct": true,
-          "feedback": "Correct!"
-        },
-        {
-          "letter": "A",
-          "text": "Bees are dangerous insects",
-          "is_correct": false,
-          "feedback": "Incorrect. Review the concept."
-        },
-        {
-          "letter": "B",
-          "text": "Honey is the only product bees make",
-          "is_correct": false,
-          "feedback": "Incorrect. Review the concept."
-        },
-        {
-          "letter": "C",
-          "text": "Flowers don't need bees",
-          "is_correct": false,
-          "feedback": "Incorrect. Review the concept."
-        }
-      ],
-      "correct_answer": "D",
-      "explanation": "The main idea summarizes the key points about bees: pollination and honey.",
-      "difficulty": "6",
-      "images": [],
-      "tags": [],
-      "bloom": "Analyze",
-      "expected_success": 0.7,
-      "bundle_id": "SV-ING-11-2026-W21-collocations-001-MASTERY-bundle",
-      "periodo": 21,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ingles",
-      "grade": 11,
-      "country": "sv"
-    },
-    {
-      "id": "SV-ING-11-2026-W21-collocations-001-MASTERY-bundle-v9",
-      "statement": "Which is the correct past form of 'go'?",
-      "context": "English class in San Salvador, SV.",
+      "statement": "Complete: 'The weather was so ____ that the match was cancelled.'",
+      "context": "Collocations con el clima, San Miguel.",
       "options": [
         {
           "letter": "A",
-          "text": "went",
-          "is_correct": true,
-          "feedback": "Correct!"
+          "text": "the rain was strong",
+          "is_correct": false,
+          "feedback": "'Strong rain' is not idiomatic; one says 'heavy rain' or 'torrential rain'."
         },
         {
           "letter": "B",
-          "text": "goed",
-          "is_correct": false,
-          "feedback": "Incorrect. Review the concept."
-        },
-        {
-          "letter": "C",
-          "text": "gone",
-          "is_correct": false,
-          "feedback": "Incorrect. Review the concept."
-        },
-        {
-          "letter": "D",
-          "text": "going",
-          "is_correct": false,
-          "feedback": "Incorrect. Review the concept."
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "'Go' is an irregular verb: go → went (past simple).",
-      "difficulty": "6",
-      "images": [],
-      "tags": [],
-      "bloom": "Remember",
-      "expected_success": 0.85,
-      "bundle_id": "SV-ING-11-2026-W21-collocations-001-MASTERY-bundle",
-      "periodo": 21,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ingles",
-      "grade": 11,
-      "country": "sv"
-    },
-    {
-      "id": "SV-ING-11-2026-W21-collocations-001-MASTERY-bundle-v10",
-      "statement": "Which sentence uses the present simple correctly?",
-      "context": "English class in Santa Ana, SV.",
-      "options": [
-        {
-          "letter": "C",
-          "text": "She goes to school every day.",
+          "text": "the rain was heavy",
           "is_correct": true,
-          "feedback": "Correct!"
-        },
-        {
-          "letter": "A",
-          "text": "She go to school every day.",
-          "is_correct": false,
-          "feedback": "Incorrect. Review the concept."
-        },
-        {
-          "letter": "B",
-          "text": "She going to school every day.",
-          "is_correct": false,
-          "feedback": "Incorrect. Review the concept."
-        },
-        {
-          "letter": "D",
-          "text": "She gone to school every day.",
-          "is_correct": false,
-          "feedback": "Incorrect. Review the concept."
-        }
-      ],
-      "correct_answer": "C",
-      "explanation": "Present simple: subject + verb(-s for he/she/it).",
-      "difficulty": "6",
-      "images": [],
-      "tags": [],
-      "bloom": "Remember",
-      "expected_success": 0.85,
-      "bundle_id": "SV-ING-11-2026-W21-collocations-001-MASTERY-bundle",
-      "periodo": 21,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ingles",
-      "grade": 11,
-      "country": "sv"
-    },
-    {
-      "id": "SV-ING-11-2026-W21-collocations-001-MASTERY-bundle-v11",
-      "statement": "Choose the correct option: 'I ___ reading a book right now.'",
-      "context": "English class in Soyapango, SV.",
-      "options": [
-        {
-          "letter": "D",
-          "text": "am",
-          "is_correct": true,
-          "feedback": "Correct!"
-        },
-        {
-          "letter": "A",
-          "text": "is",
-          "is_correct": false,
-          "feedback": "Incorrect. Review the concept."
-        },
-        {
-          "letter": "B",
-          "text": "are",
-          "is_correct": false,
-          "feedback": "Incorrect. Review the concept."
+          "feedback": "'Heavy rain' is the standard English collocation."
         },
         {
           "letter": "C",
-          "text": "be",
+          "text": "the rain was hard",
           "is_correct": false,
-          "feedback": "Incorrect. Review the concept."
+          "feedback": "'Hard rain' is informal and refers to droplets, not to intensity here."
+        },
+        {
+          "letter": "D",
+          "text": "the rain was big",
+          "is_correct": false,
+          "feedback": "'Big rain' is informal and does not fit a formal register."
         }
       ],
-      "correct_answer": "D",
-      "explanation": "Present continuous: I am + verb-ing.",
-      "difficulty": "8",
+      "correct_answer": "B",
+      "explanation": "'Heavy rain' es la combinacion natural del ingles; 'strong rain' no se usa. El adjetivo describe la intensidad de la precipitacion.\n\n---",
+      "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Apply",
@@ -503,41 +323,221 @@
       "country": "sv"
     },
     {
-      "id": "SV-ING-11-2026-W21-collocations-001-MASTERY-bundle-v12",
-      "statement": "What does 'benevolent' mean?",
-      "context": "English class in San Salvador, SV.",
+      "id": "SV-ING-11-2026-W21-collocations-001-MASTERY-bundle-v8",
+      "statement": "Which verb goes with the noun 'progress'?",
+      "context": "Collocaciones con sustantivos abstractos, San Salvador.",
       "options": [
         {
-          "letter": "C",
-          "text": "Kind and generous",
-          "is_correct": true,
-          "feedback": "Correct!"
-        },
-        {
           "letter": "A",
-          "text": "Mean and cruel",
+          "text": "do",
           "is_correct": false,
-          "feedback": "Incorrect. Review the concept."
+          "feedback": "'Do' does not collocate with 'progress' in standard English."
         },
         {
           "letter": "B",
-          "text": "Quick and fast",
+          "text": "take",
           "is_correct": false,
-          "feedback": "Incorrect. Review the concept."
+          "feedback": "'Take' collocates with a bath, a break or a decision."
+        },
+        {
+          "letter": "C",
+          "text": "make",
+          "is_correct": true,
+          "feedback": "'Make progress' is the fixed and standard combination."
         },
         {
           "letter": "D",
-          "text": "Slow and lazy",
+          "text": "get",
           "is_correct": false,
-          "feedback": "Incorrect. Review the concept."
+          "feedback": "'Get' would require an adjective: 'get progress' is not idiomatic."
         }
       ],
       "correct_answer": "C",
-      "explanation": "'Benevolent' means kind, generous, or charitable.",
-      "difficulty": "8",
+      "explanation": "'Make progress' es la collocation estandar del ingles; 'do progress' no existe. Tambien se dice 'make headway' con el mismo sentido.\n\n---",
+      "difficulty": "4",
       "images": [],
       "tags": [],
-      "bloom": "Understand",
+      "bloom": "Analyze",
+      "expected_success": 0.8,
+      "bundle_id": "SV-ING-11-2026-W21-collocations-001-MASTERY-bundle",
+      "periodo": 21,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 11,
+      "country": "sv"
+    },
+    {
+      "id": "SV-ING-11-2026-W21-collocations-001-MASTERY-bundle-v9",
+      "statement": "Choose the best adjective for the noun 'rain': 'We had ____ rain this year, so the reservoir is full.'",
+      "context": "Collocations con 'rain', San Miguel.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "abundant",
+          "is_correct": true,
+          "feedback": "'Abundant rain' is a natural collocation meaning plentiful rain."
+        },
+        {
+          "letter": "B",
+          "text": "abundante",
+          "is_correct": false,
+          "feedback": "'Abundante' is not a standard English adjective."
+        },
+        {
+          "letter": "C",
+          "text": "abundantly",
+          "is_correct": false,
+          "feedback": "An adverb cannot modify the noun 'rain' in this position."
+        },
+        {
+          "letter": "D",
+          "text": "abundancy",
+          "is_correct": false,
+          "feedback": "'Abundancy' is a noun and does not modify 'rain'."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "'Abundant rain' describe una cantidad grande de lluvia y combina natural con 'rain'.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.8,
+      "bundle_id": "SV-ING-11-2026-W21-collocations-001-MASTERY-bundle",
+      "periodo": 21,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 11,
+      "country": "sv"
+    },
+    {
+      "id": "SV-ING-11-2026-W21-collocations-001-MASTERY-bundle-v10",
+      "statement": "Complete the sentence: 'We are looking forward to ____ the festival next month.'",
+      "context": "Collocaciones con 'look forward to', San Salvador.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "celebrate",
+          "is_correct": false,
+          "feedback": "The base form is wrong after the preposition-like 'to' in 'look forward to'."
+        },
+        {
+          "letter": "B",
+          "text": "celebration",
+          "is_correct": false,
+          "feedback": "A noun would need no 'to' before it: 'look forward to the celebration'."
+        },
+        {
+          "letter": "C",
+          "text": "celebrated",
+          "is_correct": false,
+          "feedback": "'Celebrated' is a past participle and cannot follow 'to' here."
+        },
+        {
+          "letter": "D",
+          "text": "celebrating",
+          "is_correct": true,
+          "feedback": "'Look forward to' is always followed by a gerund or a noun."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Despues de 'look forward to' se usa un gerundio o un sustantivo; por eso corresponde 'celebrating'.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.8,
+      "bundle_id": "SV-ING-11-2026-W21-collocations-001-MASTERY-bundle",
+      "periodo": 21,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 11,
+      "country": "sv"
+    },
+    {
+      "id": "SV-ING-11-2026-W21-collocations-001-MASTERY-bundle-v11",
+      "statement": "Which phrase is the correct collocation?",
+      "context": "Evaluacion de collocations, San Salvador.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "She makes a research on climate change.",
+          "is_correct": false,
+          "feedback": "'Make a research' is not idiomatic; one says 'do research'."
+        },
+        {
+          "letter": "B",
+          "text": "She does a research about climate change.",
+          "is_correct": false,
+          "feedback": "'A research' is not standard; 'research' is uncountable in this sense."
+        },
+        {
+          "letter": "C",
+          "text": "She carries out research on climate change.",
+          "is_correct": true,
+          "feedback": "'Carry out research' is a standard collocation and 'research' is uncountable here."
+        },
+        {
+          "letter": "D",
+          "text": "She makes researches on climate change.",
+          "is_correct": false,
+          "feedback": "'Researches' as a countable plural is rare and 'make' is not its verb."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "'Carry out research' es una collocation estandar y 'research' funciona aqui como sustantivo incontable.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.8,
+      "bundle_id": "SV-ING-11-2026-W21-collocations-001-MASTERY-bundle",
+      "periodo": 21,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 11,
+      "country": "sv"
+    },
+    {
+      "id": "SV-ING-11-2026-W21-collocations-001-MASTERY-bundle-v12",
+      "statement": "Complete: 'The doctor recommended me to ____ more exercise.'",
+      "context": "Collocaciones con verbos de recomendacion, San Miguel.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "make",
+          "is_correct": false,
+          "feedback": "'Make exercise' is not a natural collocation in English."
+        },
+        {
+          "letter": "B",
+          "text": "give",
+          "is_correct": false,
+          "feedback": "'Give exercise' is not idiomatic in English."
+        },
+        {
+          "letter": "C",
+          "text": "take",
+          "is_correct": false,
+          "feedback": "'Take exercise' exists in British English but 'recommend me to take' is less natural than 'do'."
+        },
+        {
+          "letter": "D",
+          "text": "do",
+          "is_correct": true,
+          "feedback": "'Recommend somebody to do' is a standard recommendation pattern."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "El patron estandar es 'recommend somebody to do something' o 'recommend doing something'.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
       "expected_success": 0.8,
       "bundle_id": "SV-ING-11-2026-W21-collocations-001-MASTERY-bundle",
       "periodo": 21,
@@ -549,41 +549,41 @@
     },
     {
       "id": "SV-ING-11-2026-W21-collocations-001-MASTERY-bundle-v13",
-      "statement": "Identify the main idea: 'The text describes how bees help pollinate flowers and produce honey.'",
-      "context": "English class in Santa Ana, SV.",
+      "statement": "Choose the correct verb-noun collocation.",
+      "context": "Collocaciones de verbos y sustantivos, San Salvador.",
       "options": [
         {
-          "letter": "B",
-          "text": "Bees are important for pollination and honey",
+          "letter": "A",
+          "text": "pay attention",
           "is_correct": true,
-          "feedback": "Correct!"
+          "feedback": "'Pay attention' is a fixed collocation in English."
         },
         {
-          "letter": "A",
-          "text": "Bees are dangerous insects",
+          "letter": "B",
+          "text": "do attention",
           "is_correct": false,
-          "feedback": "Incorrect. Review the concept."
+          "feedback": "'Do attention' does not exist in English."
         },
         {
           "letter": "C",
-          "text": "Honey is the only product bees make",
+          "text": "make attention",
           "is_correct": false,
-          "feedback": "Incorrect. Review the concept."
+          "feedback": "'Make attention' is not idiomatic."
         },
         {
           "letter": "D",
-          "text": "Flowers don't need bees",
+          "text": "give attention",
           "is_correct": false,
-          "feedback": "Incorrect. Review the concept."
+          "feedback": "'Give attention to' takes a problem as its object, not the act of listening."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "The main idea summarizes the key points about bees: pollination and honey.",
-      "difficulty": "8",
+      "correct_answer": "A",
+      "explanation": "'Pay attention' es una collocation fija; el verbo 'pay' se combina con 'attention', 'a bill' y 'a price'.\n\n---",
+      "difficulty": "6",
       "images": [],
       "tags": [],
       "bloom": "Analyze",
-      "expected_success": 0.7,
+      "expected_success": 0.8,
       "bundle_id": "SV-ING-11-2026-W21-collocations-001-MASTERY-bundle",
       "periodo": 21,
       "protocol_version": "5.2",
@@ -594,41 +594,41 @@
     },
     {
       "id": "SV-ING-11-2026-W21-collocations-001-MASTERY-bundle-v14",
-      "statement": "Which is the correct past form of 'go'?",
-      "context": "English class in Mejicanos, SV.",
+      "statement": "What is the natural collocation with the adjective 'strong'?",
+      "context": "Adjetivos y sustantivos, San Salvador.",
       "options": [
         {
           "letter": "A",
-          "text": "went",
-          "is_correct": true,
-          "feedback": "Correct!"
+          "text": "strong water",
+          "is_correct": false,
+          "feedback": "'Strong water' is not a standard collocation."
         },
         {
           "letter": "B",
-          "text": "goed",
+          "text": "strong rain",
           "is_correct": false,
-          "feedback": "Incorrect. Review the concept."
+          "feedback": "'Strong rain' is not idiomatic; one says 'heavy rain'."
         },
         {
           "letter": "C",
-          "text": "gone",
+          "text": "strong food",
           "is_correct": false,
-          "feedback": "Incorrect. Review the concept."
+          "feedback": "'Strong food' is not a standard collocation in everyday English."
         },
         {
           "letter": "D",
-          "text": "going",
-          "is_correct": false,
-          "feedback": "Incorrect. Review the concept."
+          "text": "strong coffee",
+          "is_correct": true,
+          "feedback": "'Strong coffee' is a natural collocation describing a high caffeine content."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "'Go' is an irregular verb: go → went (past simple).",
-      "difficulty": "8",
+      "correct_answer": "D",
+      "explanation": "'Strong coffee', 'strong tea' y 'strong opinion' son combinaciones naturales; 'strong water' no lo es.\n\n---",
+      "difficulty": "6",
       "images": [],
       "tags": [],
-      "bloom": "Remember",
-      "expected_success": 0.85,
+      "bloom": "Analyze",
+      "expected_success": 0.8,
       "bundle_id": "SV-ING-11-2026-W21-collocations-001-MASTERY-bundle",
       "periodo": 21,
       "protocol_version": "5.2",
@@ -639,41 +639,41 @@
     },
     {
       "id": "SV-ING-11-2026-W21-collocations-001-MASTERY-bundle-v15",
-      "statement": "Which sentence uses the present simple correctly?",
-      "context": "English class in Santa Ana, SV.",
+      "statement": "Complete the sentence: 'She has a ____ for classical music.'",
+      "context": "Sustantivos y preposiciones, San Miguel.",
       "options": [
         {
-          "letter": "B",
-          "text": "She goes to school every day.",
+          "letter": "A",
+          "text": "passion",
           "is_correct": true,
-          "feedback": "Correct!"
+          "feedback": "'Have a passion for' is a fixed collocation meaning a strong love for something."
         },
         {
-          "letter": "A",
-          "text": "She go to school every day.",
+          "letter": "B",
+          "text": "passion to",
           "is_correct": false,
-          "feedback": "Incorrect. Review the concept."
+          "feedback": "'Passion to' is not correct; the preposition is 'for'."
         },
         {
           "letter": "C",
-          "text": "She going to school every day.",
+          "text": "passions of",
           "is_correct": false,
-          "feedback": "Incorrect. Review the concept."
+          "feedback": "'Of' would need a following noun: 'a passion of music' is wrong."
         },
         {
           "letter": "D",
-          "text": "She gone to school every day.",
+          "text": "passion at",
           "is_correct": false,
-          "feedback": "Incorrect. Review the concept."
+          "feedback": "'At' does not introduce the object of this collocation."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "Present simple: subject + verb(-s for he/she/it).",
-      "difficulty": "8",
+      "correct_answer": "A",
+      "explanation": "'Have a passion for' es una collocation natural; la preposicion debe ser 'for'. 'She has an affinity for art' funciona con el mismo sentido.\n\n---",
+      "difficulty": "4",
       "images": [],
       "tags": [],
-      "bloom": "Remember",
-      "expected_success": 0.85,
+      "bloom": "Apply",
+      "expected_success": 0.8,
       "bundle_id": "SV-ING-11-2026-W21-collocations-001-MASTERY-bundle",
       "periodo": 21,
       "protocol_version": "5.2",
@@ -684,37 +684,37 @@
     },
     {
       "id": "SV-ING-11-2026-W21-collocations-001-MASTERY-bundle-v16",
-      "statement": "Choose the correct option: 'I ___ reading a book right now.'",
-      "context": "English class in Soyapango, SV.",
+      "statement": "Choose the natural expression: 'The story is so ____ that I could not stop reading it.'",
+      "context": "Collocaciones con 'so ... that', San Salvador.",
       "options": [
         {
           "letter": "A",
-          "text": "am",
-          "is_correct": true,
-          "feedback": "Correct!"
+          "text": "excited",
+          "is_correct": false,
+          "feedback": "'Excited' describes the reader's feeling, not the quality of the story."
         },
         {
           "letter": "B",
-          "text": "is",
+          "text": "excitement",
           "is_correct": false,
-          "feedback": "Incorrect. Review the concept."
+          "feedback": "'Excitement' is a noun and cannot complete 'is so' without an adjective."
         },
         {
           "letter": "C",
-          "text": "are",
-          "is_correct": false,
-          "feedback": "Incorrect. Review the concept."
+          "text": "exciting",
+          "is_correct": true,
+          "feedback": "The story causes the excitement, so the adjective describing it is 'exciting'."
         },
         {
           "letter": "D",
-          "text": "be",
+          "text": "excitedly",
           "is_correct": false,
-          "feedback": "Incorrect. Review the concept."
+          "feedback": "'Excitedly' is an adverb and cannot follow the linking verb 'is'."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "Present continuous: I am + verb-ing.",
-      "difficulty": "8",
+      "correct_answer": "C",
+      "explanation": "'Exciting' describe lo que provoca emocion; 'excited' describe la emocion de la persona.\n\n---",
+      "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Apply",
@@ -729,40 +729,40 @@
     },
     {
       "id": "SV-ING-11-2026-W21-collocations-001-MASTERY-bundle-v17",
-      "statement": "What does 'benevolent' mean?",
-      "context": "English class in San Miguel, SV.",
+      "statement": "Which of these verb and particle combinations does not exist in English?",
+      "context": "Verbos frasales, San Miguel.",
       "options": [
         {
-          "letter": "B",
-          "text": "Kind and generous",
-          "is_correct": true,
-          "feedback": "Correct!"
+          "letter": "A",
+          "text": "turn down",
+          "is_correct": false,
+          "feedback": "'Turn down' is a real phrasal verb meaning to lower the volume or refuse."
         },
         {
-          "letter": "A",
-          "text": "Mean and cruel",
-          "is_correct": false,
-          "feedback": "Incorrect. Review the concept."
+          "letter": "B",
+          "text": "spend off",
+          "is_correct": true,
+          "feedback": "'Spend off' is not an English verb-particle combination."
         },
         {
           "letter": "C",
-          "text": "Quick and fast",
+          "text": "give up",
           "is_correct": false,
-          "feedback": "Incorrect. Review the concept."
+          "feedback": "'Give up' is a real phrasal verb meaning to stop trying."
         },
         {
           "letter": "D",
-          "text": "Slow and lazy",
+          "text": "look after",
           "is_correct": false,
-          "feedback": "Incorrect. Review the concept."
+          "feedback": "'Look after' is a real phrasal verb meaning to take care of."
         }
       ],
       "correct_answer": "B",
-      "explanation": "'Benevolent' means kind, generous, or charitable.",
-      "difficulty": "10",
+      "explanation": "'Turn down', 'give up' y 'look after' son phrasal verbs reales; 'spend off' no existe.\n\n---",
+      "difficulty": "6",
       "images": [],
       "tags": [],
-      "bloom": "Understand",
+      "bloom": "Analyze",
       "expected_success": 0.8,
       "bundle_id": "SV-ING-11-2026-W21-collocations-001-MASTERY-bundle",
       "periodo": 21,
@@ -774,41 +774,41 @@
     },
     {
       "id": "SV-ING-11-2026-W21-collocations-001-MASTERY-bundle-v18",
-      "statement": "Identify the main idea: 'The text describes how bees help pollinate flowers and produce honey.'",
-      "context": "English class in Santa Ana, SV.",
+      "statement": "Complete: 'The company had to ____ its production because of the strike.'",
+      "context": "Collocaciones de verbos de negocio, San Salvador.",
       "options": [
         {
-          "letter": "D",
-          "text": "Bees are important for pollination and honey",
-          "is_correct": true,
-          "feedback": "Correct!"
-        },
-        {
           "letter": "A",
-          "text": "Bees are dangerous insects",
-          "is_correct": false,
-          "feedback": "Incorrect. Review the concept."
+          "text": "cut back on",
+          "is_correct": true,
+          "feedback": "'Cut back on' is a natural collocation meaning to reduce the amount."
         },
         {
           "letter": "B",
-          "text": "Honey is the only product bees make",
+          "text": "cut off of",
           "is_correct": false,
-          "feedback": "Incorrect. Review the concept."
+          "feedback": "'Cut off' means to interrupt a relationship or a supply, not to reduce production."
         },
         {
           "letter": "C",
-          "text": "Flowers don't need bees",
+          "text": "cut down",
           "is_correct": false,
-          "feedback": "Incorrect. Review the concept."
+          "feedback": "'Cut down' normally collocates with trees."
+        },
+        {
+          "letter": "D",
+          "text": "cut away",
+          "is_correct": false,
+          "feedback": "'Cut away' describes removing material from a surface."
         }
       ],
-      "correct_answer": "D",
-      "explanation": "The main idea summarizes the key points about bees: pollination and honey.",
-      "difficulty": "10",
+      "correct_answer": "A",
+      "explanation": "'Cut back on' significa reducir la cantidad y es la combinacion natural con 'production'.\n\n---",
+      "difficulty": "6",
       "images": [],
       "tags": [],
-      "bloom": "Analyze",
-      "expected_success": 0.7,
+      "bloom": "Apply",
+      "expected_success": 0.8,
       "bundle_id": "SV-ING-11-2026-W21-collocations-001-MASTERY-bundle",
       "periodo": 21,
       "protocol_version": "5.2",
@@ -819,41 +819,41 @@
     },
     {
       "id": "SV-ING-11-2026-W21-collocations-001-MASTERY-bundle-v19",
-      "statement": "Which is the correct past form of 'go'?",
-      "context": "English class in Mejicanos, SV.",
+      "statement": "Which sentence uses natural collocations throughout?",
+      "context": "Revision final de collocations, San Salvador.",
       "options": [
         {
-          "letter": "B",
-          "text": "went",
-          "is_correct": true,
-          "feedback": "Correct!"
+          "letter": "A",
+          "text": "The committee will do a decision, get an agreement and arrive the deadline.",
+          "is_correct": false,
+          "feedback": "None of these three combinations is idiomatic in standard English."
         },
         {
-          "letter": "A",
-          "text": "goed",
-          "is_correct": false,
-          "feedback": "Incorrect. Review the concept."
+          "letter": "B",
+          "text": "The committee will take a decision, reach an agreement and meet the deadline.",
+          "is_correct": true,
+          "feedback": "All three verb-noun pairs are standard English collocations."
         },
         {
           "letter": "C",
-          "text": "gone",
+          "text": "The committee will make a decision, achieve an agreement and touch the deadline.",
           "is_correct": false,
-          "feedback": "Incorrect. Review the concept."
+          "feedback": "'Make a decision' is correct, but the other two pairs are not natural."
         },
         {
           "letter": "D",
-          "text": "going",
+          "text": "The committee will take a decision, reach an agreement and hit the deadline.",
           "is_correct": false,
-          "feedback": "Incorrect. Review the concept."
+          "feedback": "'Hit the deadline' exists informally, but 'meet the deadline' is the standard formal collocation."
         }
       ],
       "correct_answer": "B",
-      "explanation": "'Go' is an irregular verb: go → went (past simple).",
-      "difficulty": "10",
+      "explanation": "'Take a decision', 'reach an agreement' y 'meet a deadline' son las tres collocaciones estandar de la oracion.\n\n---",
+      "difficulty": "6",
       "images": [],
       "tags": [],
-      "bloom": "Remember",
-      "expected_success": 0.85,
+      "bloom": "Evaluate",
+      "expected_success": 0.8,
       "bundle_id": "SV-ING-11-2026-W21-collocations-001-MASTERY-bundle",
       "periodo": 21,
       "protocol_version": "5.2",
@@ -864,41 +864,41 @@
     },
     {
       "id": "SV-ING-11-2026-W21-collocations-001-MASTERY-bundle-v20",
-      "statement": "Which sentence uses the present simple correctly?",
-      "context": "English class in San Miguel, SV.",
+      "statement": "Choose the correct adverb: 'She completed the task ____.'",
+      "context": "Collocations con 'complete', San Miguel.",
       "options": [
         {
           "letter": "A",
-          "text": "She goes to school every day.",
-          "is_correct": true,
-          "feedback": "Correct!"
+          "text": "in time",
+          "is_correct": false,
+          "feedback": "'In time' means soon enough to be able to do something, not exactly by the deadline."
         },
         {
           "letter": "B",
-          "text": "She go to school every day.",
+          "text": "at time",
           "is_correct": false,
-          "feedback": "Incorrect. Review the concept."
+          "feedback": "'At time' requires a specific hour and is not idiomatic on its own."
         },
         {
           "letter": "C",
-          "text": "She going to school every day.",
-          "is_correct": false,
-          "feedback": "Incorrect. Review the concept."
+          "text": "on time",
+          "is_correct": true,
+          "feedback": "'On time' is the fixed collocation for meeting a deadline."
         },
         {
           "letter": "D",
-          "text": "She gone to school every day.",
+          "text": "with time",
           "is_correct": false,
-          "feedback": "Incorrect. Review the concept."
+          "feedback": "'With time' means 'as time passes' and does not express punctuality."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "Present simple: subject + verb(-s for he/she/it).",
-      "difficulty": "10",
+      "correct_answer": "C",
+      "explanation": "'On time' es la expresion fija para indicar que algo se hizo dentro del plazo. 'In time' se reserva para llegar con margen suficiente.\n\n---",
+      "difficulty": "6",
       "images": [],
       "tags": [],
-      "bloom": "Remember",
-      "expected_success": 0.85,
+      "bloom": "Apply",
+      "expected_success": 0.8,
       "bundle_id": "SV-ING-11-2026-W21-collocations-001-MASTERY-bundle",
       "periodo": 21,
       "protocol_version": "5.2",

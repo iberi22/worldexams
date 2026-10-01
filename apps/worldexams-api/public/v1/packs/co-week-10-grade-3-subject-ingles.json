@@ -9,41 +9,41 @@
   "questions": [
     {
       "id": "CO-ING-3-2026-W10-repaso-p2-001-MASTERY-bundle-v1",
-      "statement": "What is the English word for: \"A place where you live or stay on holiday.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Read: \"My name is Sofia. I am eight years old.\" Which question is Sofia's sentence answering?",
+      "context": "Repaso del primer periodo en el que los estudiantes revisan como se presenta a si mismos.",
       "options": [
         {
-          "letter": "C",
-          "text": "accommodation",
+          "letter": "D",
+          "text": "What is your name and how old are you?",
           "is_correct": true,
-          "feedback": "Correct! 'accommodation' matches the definition."
+          "feedback": "el texto da exactamente el nombre y la edad, que son los dos datos que pide esa pregunta."
         },
         {
           "letter": "A",
-          "text": "transportation",
+          "text": "Where do you live?",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "la pregunta pide el lugar de residencia y el texto no menciona ni ciudad ni direccion."
         },
         {
           "letter": "B",
-          "text": "entertainment",
+          "text": "What do you like to eat?",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "la pregunta pide una comida preferida y en la frase no aparece ningun alimento."
         },
         {
-          "letter": "D",
-          "text": "currency",
+          "letter": "C",
+          "text": "How do you get to school?",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "la pregunta pide el medio de transporte y el texto no habla de como llega a la escuela."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "The word 'accommodation' is used to describe a place where you live or stay on holiday. This is an important vocabulary word in English.\n---",
+      "correct_answer": "D",
+      "explanation": "En un ejercicio de repaso es clave revisar que cada dato del texto tenga una pregunta que lo pida. La frase de Sofia contiene nombre y edad, y solo la primera opcion reproduce esos dos elementos. Las demas opciones introducen informacion nueva que nunca aparece en el enunciado.",
       "difficulty": "4",
       "images": [],
       "tags": [],
-      "bloom": "Remember",
-      "icfes_type": "Lexico",
+      "bloom": "Understand",
+      "icfes_type": "Uso de la lengua",
       "expected_success": 0.8,
       "bundle_id": "CO-ING-3-2026-W10-repaso-p2-001-MASTERY-bundle",
       "periodo": 10,
@@ -55,41 +55,41 @@
     },
     {
       "id": "CO-ING-3-2026-W10-repaso-p2-001-MASTERY-bundle-v2",
-      "statement": "What is the English word for: \"A detailed plan or route of a journey.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Choose the correct answer: \"Good morning! ___ name is Luis.\"",
+      "context": "Taller de repaso donde los estudiantes completan dialogos del aula.",
       "options": [
         {
           "letter": "A",
-          "text": "itinerary",
-          "is_correct": true,
-          "feedback": "Correct! 'itinerary' matches the definition."
-        },
-        {
-          "letter": "B",
-          "text": "baggage",
+          "text": "She",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "C",
-          "text": "destination",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "she es un pronombre o articulo femenino y Luis es un nombre de hombre, asi que no concuerda."
         },
         {
           "letter": "D",
-          "text": "passport",
+          "text": "My",
+          "is_correct": true,
+          "feedback": "my es el posesivo que se usa para el nombre o algo propio, y el hablante se presenta a si mismo."
+        },
+        {
+          "letter": "B",
+          "text": "His",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "his indica posesion de un tercero, y aqui el sujeto esta hablando de si mismo, no de otra persona."
+        },
+        {
+          "letter": "C",
+          "text": "Me",
+          "is_correct": false,
+          "feedback": "me es un pronombre objeto y no puede ocupar el lugar de un posesivo delante del sustantivo name."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'itinerary' is used to describe a detailed plan or route of a journey. This is an important vocabulary word in English.\n---",
+      "correct_answer": "D",
+      "explanation": "El error mas comun es escoger la palabra por sonido parecido sin revisar su funcion gramatical. My siempre va delante de un sustantivo y se refiere a algo del hablante, mientras que his y her indican que ese sustantivo pertenece a una tercera persona y me funciona solo como objeto de una accion.",
       "difficulty": "4",
       "images": [],
       "tags": [],
-      "bloom": "Understand",
-      "icfes_type": "Lexico",
+      "bloom": "Apply",
+      "icfes_type": "Uso de la lengua",
       "expected_success": 0.8,
       "bundle_id": "CO-ING-3-2026-W10-repaso-p2-001-MASTERY-bundle",
       "periodo": 10,
@@ -101,41 +101,41 @@
     },
     {
       "id": "CO-ING-3-2026-W10-repaso-p2-001-MASTERY-bundle-v3",
-      "statement": "What is the English word for: \"The place to which someone or something is going or being sent.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Look at the picture: a T-shirt that is completely blue. Which colour is it?",
+      "context": "Ejercicio de repaso de los colores y la ropa durante la primera semana de clases.",
       "options": [
         {
           "letter": "A",
-          "text": "destination",
-          "is_correct": true,
-          "feedback": "Correct! 'destination' matches the definition."
-        },
-        {
-          "letter": "B",
-          "text": "departure",
+          "text": "green",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "green es el color de la mezcla de azul y amarillo, y el enunciado describe algo totalmente azul."
         },
         {
           "letter": "C",
-          "text": "arrival",
+          "text": "blue",
+          "is_correct": true,
+          "feedback": "blue es el nombre exacto del color que el enunciado describe y lo que muestra el dibujo."
+        },
+        {
+          "letter": "B",
+          "text": "yellow",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "yellow es el color del sol y de los canarios, y no corresponde a una camisa azul."
         },
         {
           "letter": "D",
-          "text": "journey",
+          "text": "white",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "white significa blanco y describe ausencia de color, justo lo contrario de lo que dice el enunciado."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'destination' is used to describe the place to which someone or something is going or being sent. This is an important vocabulary word in English.\n---",
-      "difficulty": "6",
+      "correct_answer": "C",
+      "explanation": "Esta pregunta de repaso es deliberadamente simple: comprueba que el estudiante reconoce un color apresentado en un contexto visual. Sirve como control rapido antes de pasar a preguntas de vocabulario mas exigente, donde el mismo color debe ser identificado dentro de una oracion.",
+      "difficulty": "4",
       "images": [],
       "tags": [],
-      "bloom": "Apply",
-      "icfes_type": "Lexico",
+      "bloom": "Understand",
+      "icfes_type": "Uso de la lengua",
       "expected_success": 0.8,
       "bundle_id": "CO-ING-3-2026-W10-repaso-p2-001-MASTERY-bundle",
       "periodo": 10,
@@ -147,42 +147,42 @@
     },
     {
       "id": "CO-ING-3-2026-W10-repaso-p2-001-MASTERY-bundle-v4",
-      "statement": "What is the English word for: \"Suitcases or other bags in which to pack personal belongings for traveling.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Count the objects: one pen, two pencils and three notebooks. How many things are there in total?",
+      "context": "Repaso de la numeracion de classroom objects al contar los utiles escolares.",
       "options": [
         {
-          "letter": "D",
-          "text": "luggage",
-          "is_correct": true,
-          "feedback": "Correct! 'luggage' matches the definition."
+          "letter": "B",
+          "text": "Five",
+          "is_correct": false,
+          "feedback": "cinco seria el resultado si solo se sumaran lapices y cuadernos, pero el enunciado tambien incluye el lapiz."
         },
         {
           "letter": "A",
-          "text": "ticket",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "B",
-          "text": "flight",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "text": "Six",
+          "is_correct": true,
+          "feedback": "1 + 2 + 3 = 6, y la suma de las tres cantidades da exactamente seis objetos."
         },
         {
           "letter": "C",
-          "text": "reservation",
+          "text": "Seven",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "siete seria el resultado si las cantidades fueran 2, 2 y 3, que no es lo que dice el enunciado."
+        },
+        {
+          "letter": "D",
+          "text": "Four",
+          "is_correct": false,
+          "feedback": "cuatro cuenta el numero de categorias de objetos, no la cantidad total de piezas."
         }
       ],
-      "correct_answer": "D",
-      "explanation": "The word 'luggage' is used to describe suitcases or other bags in which to pack personal belongings for traveling. This is an important vocabulary word in English.\n---",
-      "difficulty": "6",
+      "correct_answer": "A",
+      "explanation": "El ejercicio de repaso combina vocabulario y numeros en una sola tarea: primero se identifican los objetos y luego se opera con sus cantidades. La respuesta se comprueba sumando los tres grupos, un procedimiento que el estudiante puede repetir oralmente frente al grupo para justificar su eleccion.",
+      "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Apply",
-      "icfes_type": "Lexico",
-      "expected_success": 0.8,
+      "icfes_type": "Uso de la lengua",
+      "expected_success": 0.85,
       "bundle_id": "CO-ING-3-2026-W10-repaso-p2-001-MASTERY-bundle",
       "periodo": 10,
       "protocol_version": "5.2",
@@ -193,42 +193,42 @@
     },
     {
       "id": "CO-ING-3-2026-W10-repaso-p2-001-MASTERY-bundle-v5",
-      "statement": "What is the English word for: \"A traveler on a public or private conveyance other than the driver, pilot, or crew.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Read: \"This is my brother. He is six years old.\" Who is six years old?",
+      "context": "Revisión de las preguntas basicas sobre la familia en la unidad de repaso.",
       "options": [
         {
-          "letter": "D",
-          "text": "passenger",
-          "is_correct": true,
-          "feedback": "Correct! 'passenger' matches the definition."
-        },
-        {
-          "letter": "A",
-          "text": "pedestrian",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
           "letter": "B",
-          "text": "commuter",
+          "text": "The speaker",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "el enunciado no dice la edad del hablante, asi que no hay base para atribuirle los seis anos."
         },
         {
           "letter": "C",
-          "text": "tourist",
+          "text": "The sister",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "no aparece ninguna hermana en el texto; la unica familia mencionada es el hermano."
+        },
+        {
+          "letter": "A",
+          "text": "The brother",
+          "is_correct": true,
+          "feedback": "el texto dice que el hermano tiene seis anos, y el pronombre he confirma que se trata del varon."
+        },
+        {
+          "letter": "D",
+          "text": "The mother",
+          "is_correct": false,
+          "feedback": "la madre no se menciona en el texto, que solo habla del hermano del hablante."
         }
       ],
-      "correct_answer": "D",
-      "explanation": "The word 'passenger' is used to describe a traveler on a public or private conveyance other than the driver, pilot, or crew. This is an important vocabulary word in English.\n---",
-      "difficulty": "8",
+      "correct_answer": "A",
+      "explanation": "El pronombre he se usa para un varon y she para una mujer, de modo que la segunda frase del enunciado ya confirma que se trata de un hermano. Combinar el sustantivo del primer renglon con el pronombre del segundo es la estrategia basica para resolver preguntas de comprension de este tipo.",
+      "difficulty": "4",
       "images": [],
       "tags": [],
-      "bloom": "Analyze",
-      "icfes_type": "Lexico",
-      "expected_success": 0.8,
+      "bloom": "Understand",
+      "icfes_type": "Uso de la lengua",
+      "expected_success": 0.85,
       "bundle_id": "CO-ING-3-2026-W10-repaso-p2-001-MASTERY-bundle",
       "periodo": 10,
       "protocol_version": "5.2",
@@ -239,41 +239,41 @@
     },
     {
       "id": "CO-ING-3-2026-W10-repaso-p2-001-MASTERY-bundle-v6",
-      "statement": "What is the English word for: \"The place at a port, airport, or frontier where officials check incoming goods, travelers, or luggage.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Choose the correct word: \"There is ___ apple on the table.\"",
+      "context": "Actividad de repaso de articulos indefinidos con sustantivos contables.",
       "options": [
         {
-          "letter": "B",
-          "text": "customs",
-          "is_correct": true,
-          "feedback": "Correct! 'customs' matches the definition."
+          "letter": "A",
+          "text": "many",
+          "is_correct": false,
+          "feedback": "many se usa con sustantivos contables en plural, como many apples, y aqui el sustantivo esta en singular."
         },
         {
-          "letter": "A",
-          "text": "security",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "letter": "B",
+          "text": "an",
+          "is_correct": true,
+          "feedback": "an se coloca delante de un sustantivo singular que empieza por vocal, como apple."
         },
         {
           "letter": "C",
-          "text": "terminal",
+          "text": "a",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "a se usa con sustantivos singulares que empiezan por consonante, como book o table."
         },
         {
           "letter": "D",
-          "text": "gate",
+          "text": "much",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "much se emplea con sustantivos incontables, y una manzana es un objeto contable."
         }
       ],
       "correct_answer": "B",
-      "explanation": "The word 'customs' is used to describe the place at a port, airport, or frontier where officials check incoming goods, travelers, or luggage. This is an important vocabulary word in English.\n---",
-      "difficulty": "8",
+      "explanation": "El articulo se elige por dos criterios a la vez: si el sustantivo es contable y singular, y cual es su primera letra. apple empieza por vocal, por eso lleva an. Este es el punto que el repaso del primer periodo suele consolidar, porque los estudiantes translated el articulo del espanol sin consultar la letra inicial.",
+      "difficulty": "4",
       "images": [],
       "tags": [],
-      "bloom": "Analyze",
-      "icfes_type": "Lexico",
+      "bloom": "Apply",
+      "icfes_type": "Uso de la lengua",
       "expected_success": 0.8,
       "bundle_id": "CO-ING-3-2026-W10-repaso-p2-001-MASTERY-bundle",
       "periodo": 10,
@@ -285,41 +285,41 @@
     },
     {
       "id": "CO-ING-3-2026-W10-repaso-p2-001-MASTERY-bundle-v7",
-      "statement": "What is the English word for: \"A document provided by an airline during check-in, giving a passenger permission to board the airplane.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Choose the correct question: \"___ does your father work? At a hospital.\"",
+      "context": "Repaso de la pregunta con did a partir de una escena familiar del barrio.",
       "options": [
         {
-          "letter": "C",
-          "text": "boarding pass",
-          "is_correct": true,
-          "feedback": "Correct! 'boarding pass' matches the definition."
-        },
-        {
           "letter": "A",
-          "text": "visa",
+          "text": "Why",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "why pregunta por el motivo o la razon, y la respuesta At a hospital indica el lugar de trabajo."
         },
         {
           "letter": "B",
-          "text": "receipt",
+          "text": "Where",
+          "is_correct": true,
+          "feedback": "where pregunta por el lugar y At a hospital responde precisamente con la ubicacion del trabajo del padre."
+        },
+        {
+          "letter": "C",
+          "text": "What",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "what pregunta por el objeto o la profesion, y la respuesta no nombra ninguna profesion."
         },
         {
           "letter": "D",
-          "text": "brochure",
+          "text": "Who",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "who pregunta por una persona concreta, y la respuesta solo informa sobre el sitio donde trabaja."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "The word 'boarding pass' is used to describe a document provided by an airline during check-in, giving a passenger permission to board the airplane. This is an important vocabulary word in English.\n---",
-      "difficulty": "10",
+      "correct_answer": "B",
+      "explanation": "La palabra interrogativa se deduce del tipo de respuesta, no del tema. En el repaso del primer periodo se praclica esta associating: una respuesta que empieza con At a es una respuesta de lugar, y la pregunta que produce una respuesta de lugar es where. Este cruce pregunta-respuesta es el paso previo a los wh-questions mas complejos.",
+      "difficulty": "4",
       "images": [],
       "tags": [],
-      "bloom": "Evaluate",
-      "icfes_type": "Lexico",
+      "bloom": "Apply",
+      "icfes_type": "Uso de la lengua",
       "expected_success": 0.8,
       "bundle_id": "CO-ING-3-2026-W10-repaso-p2-001-MASTERY-bundle",
       "periodo": 10,
@@ -331,42 +331,42 @@
     },
     {
       "id": "CO-ING-3-2026-W10-repaso-p2-001-MASTERY-bundle-v8",
-      "statement": "What is the English word for: \"The activity of visiting places of interest in a particular location.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Read the dialogue: \"Good night, Mom.\" \"Good night! Sweet dreams.\" When do they say this?",
+      "context": "Prueba corta de repaso que recoge los contenidos de la unidad familiar y de la casa.",
       "options": [
         {
           "letter": "A",
-          "text": "sightseeing",
-          "is_correct": true,
-          "feedback": "Correct! 'sightseeing' matches the definition."
+          "text": "In the morning, when they get up",
+          "is_correct": false,
+          "feedback": "esa es la rutina de Good morning, y el dialogo usa la palabra night."
         },
         {
           "letter": "B",
-          "text": "shopping",
+          "text": "At school, before class starts",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "en la escuela se dice Hello o Hi al llegar, no Good night con Good night!."
         },
         {
           "letter": "C",
-          "text": "hiking",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "text": "At night, before going to sleep",
+          "is_correct": true,
+          "feedback": "Good night se usa al despedirse por la noche antes de dormir, y Sweet dreams lo confirma."
         },
         {
           "letter": "D",
-          "text": "camping",
+          "text": "At noon, before eating lunch",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "al mediodia no se dice Good night, porque todavia falta la mayor parte del dia."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'sightseeing' is used to describe the activity of visiting places of interest in a particular location. This is an important vocabulary word in English.",
-      "difficulty": "10",
+      "correct_answer": "C",
+      "explanation": "Reconocer el momento del dia a partir de unaformula fija es una estrategia de comprehension eficiente: no hace falta entender palabra por palabra cuando la expresion es predecible. Good night y Sweet dreams funcionan siempre como una unidad al final del dia.",
+      "difficulty": "4",
       "images": [],
       "tags": [],
-      "bloom": "Evaluate",
-      "icfes_type": "Lexico",
-      "expected_success": 0.8,
+      "bloom": "Understand",
+      "icfes_type": "Uso de la lengua",
+      "expected_success": 0.85,
       "bundle_id": "CO-ING-3-2026-W10-repaso-p2-001-MASTERY-bundle",
       "periodo": 10,
       "protocol_version": "5.2",

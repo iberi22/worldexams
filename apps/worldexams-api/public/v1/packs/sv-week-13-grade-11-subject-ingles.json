@@ -9,36 +9,36 @@
   "questions": [
     {
       "id": "SV-ING-11-2026-W13-reported-speech-001-MASTERY-bundle-v1",
-      "statement": "Choose the correct option: 'I ___ reading a book right now.'",
-      "context": "English class in Soyapango, SV.",
+      "statement": "Report the sentence in indirect speech: She said, 'I am tired.'",
+      "context": "Transformacion de directo a indirecto, San Salvador.",
       "options": [
         {
           "letter": "A",
-          "text": "am",
-          "is_correct": true,
-          "feedback": "Correct!"
+          "text": "She said that she is tired.",
+          "is_correct": false,
+          "feedback": "In reported speech the present simple becomes the past simple."
         },
         {
           "letter": "B",
-          "text": "is",
-          "is_correct": false,
-          "feedback": "Incorrect. Review the concept."
+          "text": "She said that she was tired.",
+          "is_correct": true,
+          "feedback": "Pronoun and tense shift: 'I' becomes 'she' and 'am' becomes 'was'."
         },
         {
           "letter": "C",
-          "text": "are",
+          "text": "She says that she was tired.",
           "is_correct": false,
-          "feedback": "Incorrect. Review the concept."
+          "feedback": "The reporting verb must be 'said' in the past to match the narrative tense."
         },
         {
           "letter": "D",
-          "text": "be",
+          "text": "She said that I was tired.",
           "is_correct": false,
-          "feedback": "Incorrect. Review the concept."
+          "feedback": "The pronoun refers to the reporter's 'I', which is wrong here."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "Present continuous: I am + verb-ing.",
+      "correct_answer": "B",
+      "explanation": "Al pasar a indirecto, el pronombre 'I' se cambia a 'she' y el verbo 'am' pasa a 'was': los tiempos retroceden una unidad.\n\n---",
       "difficulty": "4",
       "images": [],
       "tags": [],
@@ -54,216 +54,36 @@
     },
     {
       "id": "SV-ING-11-2026-W13-reported-speech-001-MASTERY-bundle-v2",
-      "statement": "What does 'benevolent' mean?",
-      "context": "English class in Soyapango, SV.",
+      "statement": "Choose the correct reported question: He asked me, 'Where do you live?'",
+      "context": "Preguntas en discurso indirecto, San Miguel.",
       "options": [
         {
-          "letter": "C",
-          "text": "Kind and generous",
-          "is_correct": true,
-          "feedback": "Correct!"
-        },
-        {
           "letter": "A",
-          "text": "Mean and cruel",
+          "text": "He asked me where did I live.",
           "is_correct": false,
-          "feedback": "Incorrect. Review the concept."
+          "feedback": "Question word order cannot remain in a reported question."
         },
         {
           "letter": "B",
-          "text": "Quick and fast",
+          "text": "He asked me where do I live.",
           "is_correct": false,
-          "feedback": "Incorrect. Review the concept."
+          "feedback": "'Do' stays in the present only if the reporting verb is present, which it is not."
         },
-        {
-          "letter": "D",
-          "text": "Slow and lazy",
-          "is_correct": false,
-          "feedback": "Incorrect. Review the concept."
-        }
-      ],
-      "correct_answer": "C",
-      "explanation": "'Benevolent' means kind, generous, or charitable.",
-      "difficulty": "4",
-      "images": [],
-      "tags": [],
-      "bloom": "Understand",
-      "expected_success": 0.8,
-      "bundle_id": "SV-ING-11-2026-W13-reported-speech-001-MASTERY-bundle",
-      "periodo": 13,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ingles",
-      "grade": 11,
-      "country": "sv"
-    },
-    {
-      "id": "SV-ING-11-2026-W13-reported-speech-001-MASTERY-bundle-v3",
-      "statement": "Identify the main idea: 'The text describes how bees help pollinate flowers and produce honey.'",
-      "context": "English class in Soyapango, SV.",
-      "options": [
         {
           "letter": "C",
-          "text": "Bees are important for pollination and honey",
-          "is_correct": true,
-          "feedback": "Correct!"
-        },
-        {
-          "letter": "A",
-          "text": "Bees are dangerous insects",
+          "text": "He asked me if where I lived.",
           "is_correct": false,
-          "feedback": "Incorrect. Review the concept."
-        },
-        {
-          "letter": "B",
-          "text": "Honey is the only product bees make",
-          "is_correct": false,
-          "feedback": "Incorrect. Review the concept."
+          "feedback": "'If' introduces yes/no questions, not questions with a wh-word."
         },
         {
           "letter": "D",
-          "text": "Flowers don't need bees",
-          "is_correct": false,
-          "feedback": "Incorrect. Review the concept."
-        }
-      ],
-      "correct_answer": "C",
-      "explanation": "The main idea summarizes the key points about bees: pollination and honey.",
-      "difficulty": "4",
-      "images": [],
-      "tags": [],
-      "bloom": "Analyze",
-      "expected_success": 0.7,
-      "bundle_id": "SV-ING-11-2026-W13-reported-speech-001-MASTERY-bundle",
-      "periodo": 13,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ingles",
-      "grade": 11,
-      "country": "sv"
-    },
-    {
-      "id": "SV-ING-11-2026-W13-reported-speech-001-MASTERY-bundle-v4",
-      "statement": "Which is the correct past form of 'go'?",
-      "context": "English class in San Miguel, SV.",
-      "options": [
-        {
-          "letter": "C",
-          "text": "went",
+          "text": "He asked me where I lived.",
           "is_correct": true,
-          "feedback": "Correct!"
-        },
-        {
-          "letter": "A",
-          "text": "goed",
-          "is_correct": false,
-          "feedback": "Incorrect. Review the concept."
-        },
-        {
-          "letter": "B",
-          "text": "gone",
-          "is_correct": false,
-          "feedback": "Incorrect. Review the concept."
-        },
-        {
-          "letter": "D",
-          "text": "going",
-          "is_correct": false,
-          "feedback": "Incorrect. Review the concept."
+          "feedback": "Direct questions become word-order statements with a backshifted verb."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "'Go' is an irregular verb: go → went (past simple).",
-      "difficulty": "4",
-      "images": [],
-      "tags": [],
-      "bloom": "Remember",
-      "expected_success": 0.85,
-      "bundle_id": "SV-ING-11-2026-W13-reported-speech-001-MASTERY-bundle",
-      "periodo": 13,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ingles",
-      "grade": 11,
-      "country": "sv"
-    },
-    {
-      "id": "SV-ING-11-2026-W13-reported-speech-001-MASTERY-bundle-v5",
-      "statement": "Which sentence uses the present simple correctly?",
-      "context": "English class in Soyapango, SV.",
-      "options": [
-        {
-          "letter": "C",
-          "text": "She goes to school every day.",
-          "is_correct": true,
-          "feedback": "Correct!"
-        },
-        {
-          "letter": "A",
-          "text": "She go to school every day.",
-          "is_correct": false,
-          "feedback": "Incorrect. Review the concept."
-        },
-        {
-          "letter": "B",
-          "text": "She going to school every day.",
-          "is_correct": false,
-          "feedback": "Incorrect. Review the concept."
-        },
-        {
-          "letter": "D",
-          "text": "She gone to school every day.",
-          "is_correct": false,
-          "feedback": "Incorrect. Review the concept."
-        }
-      ],
-      "correct_answer": "C",
-      "explanation": "Present simple: subject + verb(-s for he/she/it).",
-      "difficulty": "6",
-      "images": [],
-      "tags": [],
-      "bloom": "Remember",
-      "expected_success": 0.85,
-      "bundle_id": "SV-ING-11-2026-W13-reported-speech-001-MASTERY-bundle",
-      "periodo": 13,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ingles",
-      "grade": 11,
-      "country": "sv"
-    },
-    {
-      "id": "SV-ING-11-2026-W13-reported-speech-001-MASTERY-bundle-v6",
-      "statement": "Choose the correct option: 'I ___ reading a book right now.'",
-      "context": "English class in Santa Ana, SV.",
-      "options": [
-        {
-          "letter": "C",
-          "text": "am",
-          "is_correct": true,
-          "feedback": "Correct!"
-        },
-        {
-          "letter": "A",
-          "text": "is",
-          "is_correct": false,
-          "feedback": "Incorrect. Review the concept."
-        },
-        {
-          "letter": "B",
-          "text": "are",
-          "is_correct": false,
-          "feedback": "Incorrect. Review the concept."
-        },
-        {
-          "letter": "D",
-          "text": "be",
-          "is_correct": false,
-          "feedback": "Incorrect. Review the concept."
-        }
-      ],
-      "correct_answer": "C",
-      "explanation": "Present continuous: I am + verb-ing.",
+      "correct_answer": "D",
+      "explanation": "En una pregunta indirecta se usa el orden de afirmativo: el auxiliar no se invierte con el sujeto.\n\n---",
       "difficulty": "6",
       "images": [],
       "tags": [],
@@ -278,41 +98,221 @@
       "country": "sv"
     },
     {
-      "id": "SV-ING-11-2026-W13-reported-speech-001-MASTERY-bundle-v7",
-      "statement": "What does 'benevolent' mean?",
-      "context": "English class in San Miguel, SV.",
+      "id": "SV-ING-11-2026-W13-reported-speech-001-MASTERY-bundle-v3",
+      "statement": "Report this sentence: They said, 'We have finished the project.'",
+      "context": "Indirecto con presente perfecto, San Salvador.",
       "options": [
         {
           "letter": "A",
-          "text": "Kind and generous",
-          "is_correct": true,
-          "feedback": "Correct!"
+          "text": "They said that they have finished the project.",
+          "is_correct": false,
+          "feedback": "The tense has not been backshifted to the reporting past."
         },
         {
           "letter": "B",
-          "text": "Mean and cruel",
+          "text": "They said that we had finished the project.",
           "is_correct": false,
-          "feedback": "Incorrect. Review the concept."
+          "feedback": "The pronoun must refer to the same participants, so 'they' is correct."
         },
         {
           "letter": "C",
-          "text": "Quick and fast",
-          "is_correct": false,
-          "feedback": "Incorrect. Review the concept."
+          "text": "They said that they had finished the project.",
+          "is_correct": true,
+          "feedback": "Present perfect backshifts to the past perfect 'had finished'."
         },
         {
           "letter": "D",
-          "text": "Slow and lazy",
+          "text": "They said that they would finish the project.",
           "is_correct": false,
-          "feedback": "Incorrect. Review the concept."
+          "feedback": "That would be a future in the past, not a backshift of the present perfect."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "'Benevolent' means kind, generous, or charitable.",
+      "correct_answer": "C",
+      "explanation": "El presente perfecto 'have finished' retrocede a 'had finished' y el pronombre 'we' se conserva porque el sujeto es el mismo grupo.\n\n---",
       "difficulty": "6",
       "images": [],
       "tags": [],
-      "bloom": "Understand",
+      "bloom": "Apply",
+      "expected_success": 0.8,
+      "bundle_id": "SV-ING-11-2026-W13-reported-speech-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 11,
+      "country": "sv"
+    },
+    {
+      "id": "SV-ING-11-2026-W13-reported-speech-001-MASTERY-bundle-v4",
+      "statement": "Which backshift is correct? He said, 'I will call you tomorrow.'",
+      "context": "Will por would en indirecto, San Salvador.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "He said that he would call me the next day.",
+          "is_correct": true,
+          "feedback": "'Will' becomes 'would'; 'the next day' is the classic time backshift."
+        },
+        {
+          "letter": "B",
+          "text": "He said that he will call me tomorrow.",
+          "is_correct": false,
+          "feedback": "Neither the modal nor the time expression has been backshifted."
+        },
+        {
+          "letter": "C",
+          "text": "He said that he calls me the next day.",
+          "is_correct": false,
+          "feedback": "The reporting tense is past, so the verb must be backshifted too."
+        },
+        {
+          "letter": "D",
+          "text": "He said that he would have called me the next day.",
+          "is_correct": false,
+          "feedback": "The past perfect would imply an action completed before another past moment."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "'Will' se convierte en 'would' al pasar al discurso indirecto, y 'tomorrow' suele transformarse en 'the next day'.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.8,
+      "bundle_id": "SV-ING-11-2026-W13-reported-speech-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 11,
+      "country": "sv"
+    },
+    {
+      "id": "SV-ING-11-2026-W13-reported-speech-001-MASTERY-bundle-v5",
+      "statement": "Choose the correct reported statement: The teacher said, 'You must submit the report today.'",
+      "context": "Normas y obligaciones en indirecto, San Miguel.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "The teacher said that we must submit the report today.",
+          "is_correct": false,
+          "feedback": "Leaving the modal and the time expression unchanged misses the tense shift."
+        },
+        {
+          "letter": "B",
+          "text": "The teacher said that we must to submit the report that day.",
+          "is_correct": false,
+          "feedback": "A modal can never be followed by 'to' in this structure."
+        },
+        {
+          "letter": "C",
+          "text": "The teacher said that we should submit the report that day.",
+          "is_correct": false,
+          "feedback": "'Should' reports advice, not the obligation that was announced."
+        },
+        {
+          "letter": "D",
+          "text": "The teacher said that we had to submit the report that day.",
+          "is_correct": true,
+          "feedback": "'Must' is reported as 'had to' when the obligation came from an external rule."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Las obligaciones externas ('must') se reportan como 'had to', y el tiempo 'today' pasa a 'that day'.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.8,
+      "bundle_id": "SV-ING-11-2026-W13-reported-speech-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 11,
+      "country": "sv"
+    },
+    {
+      "id": "SV-ING-11-2026-W13-reported-speech-001-MASTERY-bundle-v6",
+      "statement": "Look at the sentence: 'She said that she is at home now.' What is wrong?",
+      "context": "Analisis de errores en indirecto, San Salvador.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Nothing is wrong; reported speech can keep the present tense.",
+          "is_correct": false,
+          "feedback": "The present can remain only in simultaneous-reporting cases, not in this narrative."
+        },
+        {
+          "letter": "B",
+          "text": "Only the pronoun 'she' is wrong.",
+          "is_correct": false,
+          "feedback": "The pronoun is correct because it refers to the subject of the reporting verb."
+        },
+        {
+          "letter": "C",
+          "text": "The verb should be 'was' and 'now' should become 'then'.",
+          "is_correct": true,
+          "feedback": "Both the tense backshift and the time expression must change in reported speech."
+        },
+        {
+          "letter": "D",
+          "text": "Only 'now' is wrong.",
+          "is_correct": false,
+          "feedback": "Both elements require modification; the verb backshift is mandatory."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El problema es doble: el verbo no retrocede a pasado y 'now' debe convertirse en 'then' cuando el contexto ya es pasado.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.8,
+      "bundle_id": "SV-ING-11-2026-W13-reported-speech-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 11,
+      "country": "sv"
+    },
+    {
+      "id": "SV-ING-11-2026-W13-reported-speech-001-MASTERY-bundle-v7",
+      "statement": "Report this sentence: The mechanic said, 'I can fix it tomorrow.'",
+      "context": "Discurso indirecto con verbos modales, San Salvador.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "The mechanic said that he can fix it tomorrow.",
+          "is_correct": false,
+          "feedback": "Neither the modal nor the time expression has been backshifted to the reporting past."
+        },
+        {
+          "letter": "B",
+          "text": "The mechanic says that he could fix it the next day.",
+          "is_correct": false,
+          "feedback": "The reporting verb must remain in the past for the backshift to make sense."
+        },
+        {
+          "letter": "C",
+          "text": "The mechanic said that he must fix it the next day.",
+          "is_correct": false,
+          "feedback": "'Must' would change the meaning from possibility to obligation."
+        },
+        {
+          "letter": "D",
+          "text": "The mechanic said that he could fix it the next day.",
+          "is_correct": true,
+          "feedback": "'Can' becomes 'could' and 'tomorrow' becomes 'the next day' in the reported clause."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "El modal 'can' conserva su significado de posibilidad en el discurso indirecto, porque no tiene forma de pasado; solo cambia el modo de la oracion.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
       "expected_success": 0.8,
       "bundle_id": "SV-ING-11-2026-W13-reported-speech-001-MASTERY-bundle",
       "periodo": 13,
@@ -324,41 +324,41 @@
     },
     {
       "id": "SV-ING-11-2026-W13-reported-speech-001-MASTERY-bundle-v8",
-      "statement": "Identify the main idea: 'The text describes how bees help pollinate flowers and produce honey.'",
-      "context": "English class in Mejicanos, SV.",
+      "statement": "Choose the correct report of a yes/no question. She asked me: 'Did you finish the homework?'",
+      "context": "Preguntas de si o no en indirecto, San Salvador.",
       "options": [
         {
-          "letter": "C",
-          "text": "Bees are important for pollination and honey",
-          "is_correct": true,
-          "feedback": "Correct!"
-        },
-        {
           "letter": "A",
-          "text": "Bees are dangerous insects",
+          "text": "She asked me if did I finish the homework.",
           "is_correct": false,
-          "feedback": "Incorrect. Review the concept."
+          "feedback": "The auxiliary must not be inverted in a reported question."
         },
         {
           "letter": "B",
-          "text": "Honey is the only product bees make",
+          "text": "She asked me if I had finished the homework.",
+          "is_correct": true,
+          "feedback": "'If' plus backshifted past perfect: standard reported yes/no question."
+        },
+        {
+          "letter": "C",
+          "text": "She asked me that I had finished the homework.",
           "is_correct": false,
-          "feedback": "Incorrect. Review the concept."
+          "feedback": "'That' introduces statements, not questions."
         },
         {
           "letter": "D",
-          "text": "Flowers don't need bees",
+          "text": "She asked me if I finished the homework.",
           "is_correct": false,
-          "feedback": "Incorrect. Review the concept."
+          "feedback": "'Finished' would be correct only with a present reporting verb."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "The main idea summarizes the key points about bees: pollination and honey.",
+      "correct_answer": "B",
+      "explanation": "Las preguntas de si o no se convierten con 'if' y el verbo se coloca antes del sujeto, en orden afirmativo.\n\n---",
       "difficulty": "6",
       "images": [],
       "tags": [],
-      "bloom": "Analyze",
-      "expected_success": 0.7,
+      "bloom": "Apply",
+      "expected_success": 0.8,
       "bundle_id": "SV-ING-11-2026-W13-reported-speech-001-MASTERY-bundle",
       "periodo": 13,
       "protocol_version": "5.2",
@@ -369,41 +369,41 @@
     },
     {
       "id": "SV-ING-11-2026-W13-reported-speech-001-MASTERY-bundle-v9",
-      "statement": "Which is the correct past form of 'go'?",
-      "context": "English class in Soyapango, SV.",
+      "statement": "Choose the correct reported sentence: The doctor said, 'You should rest for a week.'",
+      "context": "Consejo medico en indirecto, San Miguel.",
       "options": [
         {
           "letter": "A",
-          "text": "went",
+          "text": "The doctor said that I should rest for a week.",
           "is_correct": true,
-          "feedback": "Correct!"
+          "feedback": "'Should' has no past form and remains unchanged in reported speech."
         },
         {
           "letter": "B",
-          "text": "goed",
+          "text": "The doctor said that I should rest for a week ago.",
           "is_correct": false,
-          "feedback": "Incorrect. Review the concept."
+          "feedback": "'A week ago' would place the rest in the past, which contradicts the advice."
         },
         {
           "letter": "C",
-          "text": "gone",
+          "text": "The doctor said that I rested for a week.",
           "is_correct": false,
-          "feedback": "Incorrect. Review the concept."
+          "feedback": "Dropping the modal loses the advisory meaning of the original sentence."
         },
         {
           "letter": "D",
-          "text": "going",
+          "text": "The doctor said that I would rest for a week.",
           "is_correct": false,
-          "feedback": "Incorrect. Review the concept."
+          "feedback": "'Would' would report a future event, not advice given in the past."
         }
       ],
       "correct_answer": "A",
-      "explanation": "'Go' is an irregular verb: go → went (past simple).",
+      "explanation": "El consejo con 'should' se reporta con 'should' mas verbo base, porque 'should' no tiene forma de pasado.\n\n---",
       "difficulty": "6",
       "images": [],
       "tags": [],
-      "bloom": "Remember",
-      "expected_success": 0.85,
+      "bloom": "Apply",
+      "expected_success": 0.8,
       "bundle_id": "SV-ING-11-2026-W13-reported-speech-001-MASTERY-bundle",
       "periodo": 13,
       "protocol_version": "5.2",
@@ -414,41 +414,41 @@
     },
     {
       "id": "SV-ING-11-2026-W13-reported-speech-001-MASTERY-bundle-v10",
-      "statement": "Which sentence uses the present simple correctly?",
-      "context": "English class in Soyapango, SV.",
+      "statement": "What happens to the possessive in this report? She said, 'This is my book.'",
+      "context": "Pronombres posesivos en indirecto, San Salvador.",
       "options": [
         {
-          "letter": "C",
-          "text": "She goes to school every day.",
-          "is_correct": true,
-          "feedback": "Correct!"
-        },
-        {
           "letter": "A",
-          "text": "She go to school every day.",
-          "is_correct": false,
-          "feedback": "Incorrect. Review the concept."
+          "text": "It becomes 'her book' to keep the reference to the same person.",
+          "is_correct": true,
+          "feedback": "Reporting requires the possessive to shift so ownership stays the same."
         },
         {
           "letter": "B",
-          "text": "She going to school every day.",
+          "text": "It becomes 'my book' because the speaker takes ownership.",
           "is_correct": false,
-          "feedback": "Incorrect. Review the concept."
+          "feedback": "That would change the meaning: the book belongs to the woman, not to the reporter."
+        },
+        {
+          "letter": "C",
+          "text": "It becomes 'their book'.",
+          "is_correct": false,
+          "feedback": "The pronoun 'their' has no basis in the original sentence."
         },
         {
           "letter": "D",
-          "text": "She gone to school every day.",
+          "text": "The possessive disappears and only 'the book' remains.",
           "is_correct": false,
-          "feedback": "Incorrect. Review the concept."
+          "feedback": "Removing the possessive loses the ownership information entirely."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "Present simple: subject + verb(-s for he/she/it).",
+      "correct_answer": "A",
+      "explanation": "Los posesivos cambian para mantener el referente: 'my' se convierte en 'her' porque el Dueño es la mujer que hablo.\n\n---",
       "difficulty": "6",
       "images": [],
       "tags": [],
-      "bloom": "Remember",
-      "expected_success": 0.85,
+      "bloom": "Analyze",
+      "expected_success": 0.8,
       "bundle_id": "SV-ING-11-2026-W13-reported-speech-001-MASTERY-bundle",
       "periodo": 13,
       "protocol_version": "5.2",
@@ -459,37 +459,37 @@
     },
     {
       "id": "SV-ING-11-2026-W13-reported-speech-001-MASTERY-bundle-v11",
-      "statement": "Choose the correct option: 'I ___ reading a book right now.'",
-      "context": "English class in San Salvador, SV.",
+      "statement": "Report this question: He asked, 'What time does the meeting start?'",
+      "context": "Preguntas indirectas con wh-questions, San Salvador.",
       "options": [
         {
-          "letter": "B",
-          "text": "am",
-          "is_correct": true,
-          "feedback": "Correct!"
+          "letter": "A",
+          "text": "He asked what time did the meeting start.",
+          "is_correct": false,
+          "feedback": "Inverted question order cannot survive into the reported clause."
         },
         {
-          "letter": "A",
-          "text": "is",
+          "letter": "B",
+          "text": "He asked what time the meeting will start.",
           "is_correct": false,
-          "feedback": "Incorrect. Review the concept."
+          "feedback": "The tense must move to the past because the reporting verb is past."
         },
         {
           "letter": "C",
-          "text": "are",
-          "is_correct": false,
-          "feedback": "Incorrect. Review the concept."
+          "text": "He asked what time the meeting started.",
+          "is_correct": true,
+          "feedback": "Wh-word retained, auxiliary before the subject, tense backshifted."
         },
         {
           "letter": "D",
-          "text": "be",
+          "text": "He asked that what time the meeting started.",
           "is_correct": false,
-          "feedback": "Incorrect. Review the concept."
+          "feedback": "'That' cannot introduce a wh-question directly."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "Present continuous: I am + verb-ing.",
-      "difficulty": "8",
+      "correct_answer": "C",
+      "explanation": "La wh-word se conserva, el auxiliar retrocede y el orden se vuelve afirmativo: 'what time the meeting started'.\n\n---",
+      "difficulty": "6",
       "images": [],
       "tags": [],
       "bloom": "Apply",
@@ -504,37 +504,82 @@
     },
     {
       "id": "SV-ING-11-2026-W13-reported-speech-001-MASTERY-bundle-v12",
-      "statement": "What does 'benevolent' mean?",
-      "context": "English class in Mejicanos, SV.",
+      "statement": "Choose the correct sentence.",
+      "context": "Evaluacion de discurso indirecto, San Salvador.",
       "options": [
         {
-          "letter": "B",
-          "text": "Kind and generous",
-          "is_correct": true,
-          "feedback": "Correct!"
+          "letter": "A",
+          "text": "The manager told us that we will be notified by email.",
+          "is_correct": false,
+          "feedback": "No backshift was applied even though the reporting verb is past."
         },
         {
-          "letter": "A",
-          "text": "Mean and cruel",
+          "letter": "B",
+          "text": "The manager told us that we will notified by email.",
           "is_correct": false,
-          "feedback": "Incorrect. Review the concept."
+          "feedback": "Two errors: the passive is missing and the tense was not backshifted."
         },
         {
           "letter": "C",
-          "text": "Quick and fast",
+          "text": "The manager told that we would be notified by email.",
           "is_correct": false,
-          "feedback": "Incorrect. Review the concept."
+          "feedback": "The reported clause needs the subject 'we' explicitly retained."
         },
         {
           "letter": "D",
-          "text": "Slow and lazy",
+          "text": "The manager told us that we would be notified by email.",
+          "is_correct": true,
+          "feedback": "'Would be notified' correctly reports a future passive event."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "El discurso indirecto exige un verbo de reporte en pasado y un retroceso consistente de los tiempos verbales.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.8,
+      "bundle_id": "SV-ING-11-2026-W13-reported-speech-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 11,
+      "country": "sv"
+    },
+    {
+      "id": "SV-ING-11-2026-W13-reported-speech-001-MASTERY-bundle-v13",
+      "statement": "What does 'He told me that he had been waiting for an hour' tell us?",
+      "context": "Comprension del discurso indirecto, San Salvador.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "He waited for an hour and will wait more.",
           "is_correct": false,
-          "feedback": "Incorrect. Review the concept."
+          "feedback": "The sentence makes no claim about a future action."
+        },
+        {
+          "letter": "B",
+          "text": "He had already been waiting for an hour at that past moment.",
+          "is_correct": true,
+          "feedback": "Past perfect continuous shows the waiting started earlier and was still ongoing."
+        },
+        {
+          "letter": "C",
+          "text": "He is waiting for an hour now.",
+          "is_correct": false,
+          "feedback": "Present continuous is not what 'had been waiting' expresses."
+        },
+        {
+          "letter": "D",
+          "text": "He had waited for an hour before he started.",
+          "is_correct": false,
+          "feedback": "The continuous form stresses the ongoing activity, not a completed one."
         }
       ],
       "correct_answer": "B",
-      "explanation": "'Benevolent' means kind, generous, or charitable.",
-      "difficulty": "8",
+      "explanation": "'Had been waiting' es un pasado perfecto progresivo: la espera comenzo antes y se extendia hasta ese momento pasado.\n\n---",
+      "difficulty": "6",
       "images": [],
       "tags": [],
       "bloom": "Understand",
@@ -548,87 +593,42 @@
       "country": "sv"
     },
     {
-      "id": "SV-ING-11-2026-W13-reported-speech-001-MASTERY-bundle-v13",
-      "statement": "Identify the main idea: 'The text describes how bees help pollinate flowers and produce honey.'",
-      "context": "English class in Mejicanos, SV.",
-      "options": [
-        {
-          "letter": "B",
-          "text": "Bees are important for pollination and honey",
-          "is_correct": true,
-          "feedback": "Correct!"
-        },
-        {
-          "letter": "A",
-          "text": "Bees are dangerous insects",
-          "is_correct": false,
-          "feedback": "Incorrect. Review the concept."
-        },
-        {
-          "letter": "C",
-          "text": "Honey is the only product bees make",
-          "is_correct": false,
-          "feedback": "Incorrect. Review the concept."
-        },
-        {
-          "letter": "D",
-          "text": "Flowers don't need bees",
-          "is_correct": false,
-          "feedback": "Incorrect. Review the concept."
-        }
-      ],
-      "correct_answer": "B",
-      "explanation": "The main idea summarizes the key points about bees: pollination and honey.",
-      "difficulty": "8",
-      "images": [],
-      "tags": [],
-      "bloom": "Analyze",
-      "expected_success": 0.7,
-      "bundle_id": "SV-ING-11-2026-W13-reported-speech-001-MASTERY-bundle",
-      "periodo": 13,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ingles",
-      "grade": 11,
-      "country": "sv"
-    },
-    {
       "id": "SV-ING-11-2026-W13-reported-speech-001-MASTERY-bundle-v14",
-      "statement": "Which is the correct past form of 'go'?",
-      "context": "English class in San Miguel, SV.",
+      "statement": "Choose the correct reporting verb. 'Stop talking!', she said to me.",
+      "context": "Seleccion del verbo de reporte, San Salvador.",
       "options": [
         {
           "letter": "A",
-          "text": "went",
+          "text": "told",
           "is_correct": true,
-          "feedback": "Correct!"
+          "feedback": "'Told' plus object plus reported command is the correct pattern here."
         },
         {
           "letter": "B",
-          "text": "goed",
+          "text": "suggested",
           "is_correct": false,
-          "feedback": "Incorrect. Review the concept."
+          "feedback": "'Suggested' would require a proposal of options rather than a command."
         },
         {
           "letter": "C",
-          "text": "gone",
+          "text": "warned",
           "is_correct": false,
-          "feedback": "Incorrect. Review the concept."
+          "feedback": "'Warned' would imply the speaker anticipated a negative consequence."
         },
         {
           "letter": "D",
-          "text": "going",
+          "text": "ordered",
           "is_correct": false,
-          "feedback": "Incorrect. Review the concept."
+          "feedback": "'Ordered' usually requires an authority, such as the police or a judge."
         }
       ],
       "correct_answer": "A",
-      "explanation": "'Go' is an irregular verb: go → went (past simple).",
-      "difficulty": "8",
+      "explanation": "'Told' se usa para transmision de ordenes o mensajes; 'said' funciona con citas directas.\n\n---",
+      "difficulty": "4",
       "images": [],
       "tags": [],
-      "bloom": "Remember",
-      "expected_success": 0.85,
+      "bloom": "Analyze",
+      "expected_success": 0.8,
       "bundle_id": "SV-ING-11-2026-W13-reported-speech-001-MASTERY-bundle",
       "periodo": 13,
       "protocol_version": "5.2",
@@ -639,41 +639,41 @@
     },
     {
       "id": "SV-ING-11-2026-W13-reported-speech-001-MASTERY-bundle-v15",
-      "statement": "Which sentence uses the present simple correctly?",
-      "context": "English class in San Salvador, SV.",
+      "statement": "Choose the correct report of a command: He said to us, 'Wait here!'",
+      "context": "Ordenes en discurso indirecto, San Salvador.",
       "options": [
         {
-          "letter": "B",
-          "text": "She goes to school every day.",
-          "is_correct": true,
-          "feedback": "Correct!"
+          "letter": "A",
+          "text": "He told us waiting there.",
+          "is_correct": false,
+          "feedback": "A gerund cannot replace the to-infinitive after 'told somebody to do'."
         },
         {
-          "letter": "A",
-          "text": "She go to school every day.",
-          "is_correct": false,
-          "feedback": "Incorrect. Review the concept."
+          "letter": "B",
+          "text": "He told us to wait there.",
+          "is_correct": true,
+          "feedback": "'Told' plus object plus to-infinitive is the standard pattern for reporting commands."
         },
         {
           "letter": "C",
-          "text": "She going to school every day.",
+          "text": "He told us that we must wait there.",
           "is_correct": false,
-          "feedback": "Incorrect. Review the concept."
+          "feedback": "A that-clause with a modal is possible but less direct than the infinitive pattern."
         },
         {
           "letter": "D",
-          "text": "She gone to school every day.",
+          "text": "He told we to wait there.",
           "is_correct": false,
-          "feedback": "Incorrect. Review the concept."
+          "feedback": "'Told' requires an object pronoun: 'told us', not 'told we'."
         }
       ],
       "correct_answer": "B",
-      "explanation": "Present simple: subject + verb(-s for he/she/it).",
-      "difficulty": "8",
+      "explanation": "El imperativo se reporta con 'told us to wait', usando el infinitivo despues de 'to'.\n\n---",
+      "difficulty": "6",
       "images": [],
       "tags": [],
-      "bloom": "Remember",
-      "expected_success": 0.85,
+      "bloom": "Apply",
+      "expected_success": 0.8,
       "bundle_id": "SV-ING-11-2026-W13-reported-speech-001-MASTERY-bundle",
       "periodo": 13,
       "protocol_version": "5.2",
@@ -684,37 +684,37 @@
     },
     {
       "id": "SV-ING-11-2026-W13-reported-speech-001-MASTERY-bundle-v16",
-      "statement": "Choose the correct option: 'I ___ reading a book right now.'",
-      "context": "English class in Santa Ana, SV.",
+      "statement": "Choose the correct question in reported speech: 'Where are you going?' he asked.",
+      "context": "Preguntas indirectas con el verbo be, San Salvador.",
       "options": [
         {
-          "letter": "B",
-          "text": "am",
-          "is_correct": true,
-          "feedback": "Correct!"
+          "letter": "A",
+          "text": "He asked where are I going.",
+          "is_correct": false,
+          "feedback": "Auxiliary inversion is not allowed in a reported question."
         },
         {
-          "letter": "A",
-          "text": "is",
+          "letter": "B",
+          "text": "He asked where I am going.",
           "is_correct": false,
-          "feedback": "Incorrect. Review the concept."
+          "feedback": "No tense backshift was applied, although the reporting verb is 'asked'."
         },
         {
           "letter": "C",
-          "text": "are",
-          "is_correct": false,
-          "feedback": "Incorrect. Review the concept."
+          "text": "He asked where I was going.",
+          "is_correct": true,
+          "feedback": "Present 'are' becomes past 'was' in the reported question."
         },
         {
           "letter": "D",
-          "text": "be",
+          "text": "He asked where I were going.",
           "is_correct": false,
-          "feedback": "Incorrect. Review the concept."
+          "feedback": "'Were' does not agree with the first person singular 'I'; it would be 'was'."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "Present continuous: I am + verb-ing.",
-      "difficulty": "8",
+      "correct_answer": "C",
+      "explanation": "El verbo 'be' en presente se convierte en 'was' en el pasado simple dentro del discurso indirecto.\n\n---",
+      "difficulty": "6",
       "images": [],
       "tags": [],
       "bloom": "Apply",
@@ -729,37 +729,127 @@
     },
     {
       "id": "SV-ING-11-2026-W13-reported-speech-001-MASTERY-bundle-v17",
-      "statement": "What does 'benevolent' mean?",
-      "context": "English class in Santa Ana, SV.",
+      "statement": "Which sentence contains a report of the past perfect?",
+      "context": "Identificacion del pasado perfecto en indirecto, San Miguel.",
       "options": [
         {
-          "letter": "B",
-          "text": "Kind and generous",
-          "is_correct": true,
-          "feedback": "Correct!"
+          "letter": "A",
+          "text": "She said that she is going home.",
+          "is_correct": false,
+          "feedback": "Present continuous is not a past perfect form."
         },
         {
-          "letter": "A",
-          "text": "Mean and cruel",
-          "is_correct": false,
-          "feedback": "Incorrect. Review the concept."
+          "letter": "B",
+          "text": "She said that she had already gone home.",
+          "is_correct": true,
+          "feedback": "'Had gone' places the departure before another past moment."
         },
         {
           "letter": "C",
-          "text": "Quick and fast",
+          "text": "She said that she would go home.",
           "is_correct": false,
-          "feedback": "Incorrect. Review the concept."
+          "feedback": "That is a future in the past, not a past perfect."
         },
         {
           "letter": "D",
-          "text": "Slow and lazy",
+          "text": "She said that she goes home.",
           "is_correct": false,
-          "feedback": "Incorrect. Review the concept."
+          "feedback": "Present simple would need a present reporting verb."
         }
       ],
       "correct_answer": "B",
-      "explanation": "'Benevolent' means kind, generous, or charitable.",
-      "difficulty": "10",
+      "explanation": "'Had gone' es pasado perfecto: una accion pasada anterior a otra referencia temporal pasada.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.8,
+      "bundle_id": "SV-ING-11-2026-W13-reported-speech-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 11,
+      "country": "sv"
+    },
+    {
+      "id": "SV-ING-11-2026-W13-reported-speech-001-MASTERY-bundle-v18",
+      "statement": "Complete the text: 'The guide told the tourists that the museum ____ closed on Mondays.'",
+      "context": "Informacion reportada sobre horarios, San Salvador.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "was",
+          "is_correct": true,
+          "feedback": "'Is closed' backshifts to 'was closed' inside the reported clause."
+        },
+        {
+          "letter": "B",
+          "text": "is",
+          "is_correct": false,
+          "feedback": "No tense backshift was applied to the reported clause."
+        },
+        {
+          "letter": "C",
+          "text": "will be",
+          "is_correct": false,
+          "feedback": "'Will be' would report a future fact, not the museum's regular closing day."
+        },
+        {
+          "letter": "D",
+          "text": "has been",
+          "is_correct": false,
+          "feedback": "'Has been' would suggest the museum has remained closed since that Monday."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El verbo 'is closed' en presente se reporta como 'was closed' en pasado simple. El tiempo verbal del enunciado se conserva al reportarlo.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.8,
+      "bundle_id": "SV-ING-11-2026-W13-reported-speech-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 11,
+      "country": "sv"
+    },
+    {
+      "id": "SV-ING-11-2026-W13-reported-speech-001-MASTERY-bundle-v19",
+      "statement": "What is the main difference between direct and reported speech?",
+      "context": "Consolidacion del tema, San Salvador.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Only the pronouns change.",
+          "is_correct": false,
+          "feedback": "Tenses and question forms also change; pronouns are only part of the process."
+        },
+        {
+          "letter": "B",
+          "text": "Nothing changes except the punctuation.",
+          "is_correct": false,
+          "feedback": "Ignoring all these changes would leave the two forms identical."
+        },
+        {
+          "letter": "C",
+          "text": "The meaning always disappears in reported speech.",
+          "is_correct": false,
+          "feedback": "Reported speech preserves the meaning while changing the grammatical form."
+        },
+        {
+          "letter": "D",
+          "text": "Tenses, pronouns, questions and time expressions change.",
+          "is_correct": true,
+          "feedback": "Reported speech reformulates the same information from another point in time."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "En el discurso indirecto el contenido se conserva, pero cambian los tiempos verbales, los pronombres, las preguntas y las expresiones de tiempo.\n\n---",
+      "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Understand",
@@ -773,132 +863,42 @@
       "country": "sv"
     },
     {
-      "id": "SV-ING-11-2026-W13-reported-speech-001-MASTERY-bundle-v18",
-      "statement": "Identify the main idea: 'The text describes how bees help pollinate flowers and produce honey.'",
-      "context": "English class in San Salvador, SV.",
+      "id": "SV-ING-11-2026-W13-reported-speech-001-MASTERY-bundle-v20",
+      "statement": "Choose the best correction of this sentence: 'He said that he is very tired.'",
+      "context": "Correccion de concordancia temporal, San Miguel.",
       "options": [
         {
-          "letter": "C",
-          "text": "Bees are important for pollination and honey",
-          "is_correct": true,
-          "feedback": "Correct!"
-        },
-        {
           "letter": "A",
-          "text": "Bees are dangerous insects",
+          "text": "He said that he very tired.",
           "is_correct": false,
-          "feedback": "Incorrect. Review the concept."
+          "feedback": "Removing the verb entirely leaves an incomplete clause."
         },
         {
           "letter": "B",
-          "text": "Honey is the only product bees make",
+          "text": "He says that he is very tired.",
           "is_correct": false,
-          "feedback": "Incorrect. Review the concept."
+          "feedback": "Changing the reporting verb to the present is a rewrite, not a correction of the backshift."
+        },
+        {
+          "letter": "C",
+          "text": "He said that he was very tired.",
+          "is_correct": true,
+          "feedback": "The present simple in the reported clause must become the past simple."
         },
         {
           "letter": "D",
-          "text": "Flowers don't need bees",
+          "text": "He said that he has been very tired.",
           "is_correct": false,
-          "feedback": "Incorrect. Review the concept."
+          "feedback": "'Has been' implies a duration up to now, which the original does not express."
         }
       ],
       "correct_answer": "C",
-      "explanation": "The main idea summarizes the key points about bees: pollination and honey.",
-      "difficulty": "10",
+      "explanation": "Cuando el verbo de reporte esta en pasado ('said'), el contenido tambien retrocede: 'is' pasa a 'was'.\n\n---",
+      "difficulty": "4",
       "images": [],
       "tags": [],
-      "bloom": "Analyze",
-      "expected_success": 0.7,
-      "bundle_id": "SV-ING-11-2026-W13-reported-speech-001-MASTERY-bundle",
-      "periodo": 13,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ingles",
-      "grade": 11,
-      "country": "sv"
-    },
-    {
-      "id": "SV-ING-11-2026-W13-reported-speech-001-MASTERY-bundle-v19",
-      "statement": "Which is the correct past form of 'go'?",
-      "context": "English class in San Salvador, SV.",
-      "options": [
-        {
-          "letter": "B",
-          "text": "went",
-          "is_correct": true,
-          "feedback": "Correct!"
-        },
-        {
-          "letter": "A",
-          "text": "goed",
-          "is_correct": false,
-          "feedback": "Incorrect. Review the concept."
-        },
-        {
-          "letter": "C",
-          "text": "gone",
-          "is_correct": false,
-          "feedback": "Incorrect. Review the concept."
-        },
-        {
-          "letter": "D",
-          "text": "going",
-          "is_correct": false,
-          "feedback": "Incorrect. Review the concept."
-        }
-      ],
-      "correct_answer": "B",
-      "explanation": "'Go' is an irregular verb: go → went (past simple).",
-      "difficulty": "10",
-      "images": [],
-      "tags": [],
-      "bloom": "Remember",
-      "expected_success": 0.85,
-      "bundle_id": "SV-ING-11-2026-W13-reported-speech-001-MASTERY-bundle",
-      "periodo": 13,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ingles",
-      "grade": 11,
-      "country": "sv"
-    },
-    {
-      "id": "SV-ING-11-2026-W13-reported-speech-001-MASTERY-bundle-v20",
-      "statement": "Which sentence uses the present simple correctly?",
-      "context": "English class in Soyapango, SV.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "She goes to school every day.",
-          "is_correct": true,
-          "feedback": "Correct!"
-        },
-        {
-          "letter": "B",
-          "text": "She go to school every day.",
-          "is_correct": false,
-          "feedback": "Incorrect. Review the concept."
-        },
-        {
-          "letter": "C",
-          "text": "She going to school every day.",
-          "is_correct": false,
-          "feedback": "Incorrect. Review the concept."
-        },
-        {
-          "letter": "D",
-          "text": "She gone to school every day.",
-          "is_correct": false,
-          "feedback": "Incorrect. Review the concept."
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "Present simple: subject + verb(-s for he/she/it).",
-      "difficulty": "10",
-      "images": [],
-      "tags": [],
-      "bloom": "Remember",
-      "expected_success": 0.85,
+      "bloom": "Evaluate",
+      "expected_success": 0.8,
       "bundle_id": "SV-ING-11-2026-W13-reported-speech-001-MASTERY-bundle",
       "periodo": 13,
       "protocol_version": "5.2",

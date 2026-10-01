@@ -9,41 +9,41 @@
   "questions": [
     {
       "id": "CO-ING-3-2026-W34-sports-001-MASTERY-bundle-v1",
-      "statement": "What is the English word for: \"A place where you live or stay on holiday.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Which word names the sport where players kick a ball and try to score in a goal?",
+      "context": "Clase de ingles de tercer grado en la que los estudiantes ven la lista de deportes del colegio.",
       "options": [
         {
           "letter": "D",
-          "text": "accommodation",
+          "text": "soccer",
           "is_correct": true,
-          "feedback": "Correct! 'accommodation' matches the definition."
+          "feedback": "soccer es el deporte en el que se patea un balon y se busca anotar en una porteria."
         },
         {
           "letter": "A",
-          "text": "transportation",
+          "text": "basketball",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "en basketball el balon se introduce con las manos y la canasta esta en alto, no en una porteria."
         },
         {
           "letter": "B",
-          "text": "entertainment",
+          "text": "swimming",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "en natacion el jugador se desplaza en el agua y no existe ningun goal donde anotar."
         },
         {
           "letter": "C",
-          "text": "currency",
+          "text": "tennis",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "en tenis la pelota se golpea con una raqueta y el punto no se marca en una porteria."
         }
       ],
       "correct_answer": "D",
-      "explanation": "The word 'accommodation' is used to describe a place where you live or stay on holiday. This is an important vocabulary word in English.\n---",
+      "explanation": "Para distinguir deportes en ingles basta identificar dos rasgos: como se mueve el objeto y donde se marca el punto. Soccer tiene las dos caracteristicas del enunciado, patear y porteria, mientras que las demas opciones se descartan por el uso de las manos, el agua o la raqueta.",
       "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Remember",
-      "icfes_type": "Lexico",
+      "icfes_type": "Uso de la lengua",
       "expected_success": 0.8,
       "bundle_id": "CO-ING-3-2026-W34-sports-001-MASTERY-bundle",
       "periodo": 34,
@@ -55,41 +55,41 @@
     },
     {
       "id": "CO-ING-3-2026-W34-sports-001-MASTERY-bundle-v2",
-      "statement": "What is the English word for: \"A detailed plan or route of a journey.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Which sentence is correct?",
+      "context": "Ejercicio de emparejamiento de deportes con el lugar donde se practican.",
       "options": [
         {
-          "letter": "B",
-          "text": "itinerary",
-          "is_correct": true,
-          "feedback": "Correct! 'itinerary' matches the definition."
-        },
-        {
           "letter": "A",
-          "text": "baggage",
+          "text": "We swim in the swimming pool.",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "C",
-          "text": "destination",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "la frase es correcta, pero el enunciado ya dice que el estudiante juega soccer, y esta opcion cambia el deporte."
         },
         {
           "letter": "D",
-          "text": "passport",
+          "text": "We play basketball on the court.",
+          "is_correct": true,
+          "feedback": "basketball se juega en la cancha, y on the court es la combinacion que usan los estudiantes en ingles."
+        },
+        {
+          "letter": "B",
+          "text": "We play soccer in the swimming pool.",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "soccer se juega en un campo de futbol, no en una piscina, aunque las dos palabras sean reales."
+        },
+        {
+          "letter": "C",
+          "text": "We play tennis in the ring.",
+          "is_correct": false,
+          "feedback": "el tenis se juega en una cancha y con una raqueta; the ring no es ningun espacio de juego."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "The word 'itinerary' is used to describe a detailed plan or route of a journey. This is an important vocabulary word in English.\n---",
+      "correct_answer": "D",
+      "explanation": "Cada deporte tiene un espacio propio, y la combinacion correcta se memoriza como bloque: play soccer on the field, play basketball on the court, play tennis on the court, swim in the pool. Reconocer el espacio equivocado es tan importante como reconocer el nombre del deporte.",
       "difficulty": "4",
       "images": [],
       "tags": [],
-      "bloom": "Understand",
-      "icfes_type": "Lexico",
+      "bloom": "Apply",
+      "icfes_type": "Uso de la lengua",
       "expected_success": 0.8,
       "bundle_id": "CO-ING-3-2026-W34-sports-001-MASTERY-bundle",
       "periodo": 34,
@@ -101,41 +101,41 @@
     },
     {
       "id": "CO-ING-3-2026-W34-sports-001-MASTERY-bundle-v3",
-      "statement": "What is the English word for: \"The place to which someone or something is going or being sent.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Read: \"Ana likes swimming because she wants to be healthy.\" Why does Ana like swimming?",
+      "context": "Lectura de un texto sobre la clase de educacion fisica de los estudiantes.",
       "options": [
         {
-          "letter": "D",
-          "text": "destination",
-          "is_correct": true,
-          "feedback": "Correct! 'destination' matches the definition."
-        },
-        {
           "letter": "A",
-          "text": "departure",
+          "text": "Because she wants to win a race",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "el texto no menciona ninguna carrera ni querer ganar una competencia."
         },
         {
           "letter": "B",
-          "text": "arrival",
+          "text": "Because she likes the pool",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "el texto no habla de la piscina ni de que le guste el lugar donde nada."
         },
         {
           "letter": "C",
-          "text": "journey",
+          "text": "Because she wants to be healthy",
+          "is_correct": true,
+          "feedback": "la segunda parte del texto dice literalmente que ella quiere estar sana."
+        },
+        {
+          "letter": "D",
+          "text": "Because her friends swim with her",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "no se menciona a ningun amigo ni a la compania en el enunciado."
         }
       ],
-      "correct_answer": "D",
-      "explanation": "The word 'destination' is used to describe the place to which someone or something is going or being sent. This is an important vocabulary word in English.\n---",
-      "difficulty": "6",
+      "correct_answer": "C",
+      "explanation": "La palabra because introduce la razon y siempre enlaza con la segunda mitad de la oracion. Reconocer el conector causal permite responder preguntas de motivo sin inventar informacion que no aparece en el texto, que es el error tipico en comprension de grado tercero.",
+      "difficulty": "4",
       "images": [],
       "tags": [],
-      "bloom": "Apply",
-      "icfes_type": "Lexico",
+      "bloom": "Understand",
+      "icfes_type": "Uso de la lengua",
       "expected_success": 0.8,
       "bundle_id": "CO-ING-3-2026-W34-sports-001-MASTERY-bundle",
       "periodo": 34,
@@ -147,42 +147,42 @@
     },
     {
       "id": "CO-ING-3-2026-W34-sports-001-MASTERY-bundle-v4",
-      "statement": "What is the English word for: \"Suitcases or other bags in which to pack personal belongings for traveling.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Which question finds out about a team sport?",
+      "context": "Dialogo entre classmates sobre los deportes que hacen en el tiempo libre.",
       "options": [
         {
-          "letter": "D",
-          "text": "luggage",
-          "is_correct": true,
-          "feedback": "Correct! 'luggage' matches the definition."
+          "letter": "B",
+          "text": "Do you like ice cream?",
+          "is_correct": false,
+          "feedback": "la pregunta es sobre comida y no tiene relacion con los deportes ni con los equipos."
         },
         {
           "letter": "A",
-          "text": "ticket",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "B",
-          "text": "flight",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "text": "Do you play on a team?",
+          "is_correct": true,
+          "feedback": "on a team define un deporte de equipo, y esa pregunta identifica exactamente la caracteristica buscada."
         },
         {
           "letter": "C",
-          "text": "reservation",
+          "text": "Is your bedroom big?",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "la pregunta trata sobre la casa del estudiante y no sobre la practica deportiva."
+        },
+        {
+          "letter": "D",
+          "text": "How old is your brother?",
+          "is_correct": false,
+          "feedback": "esa pregunta pide la edad de un familiar y no permite saber nada sobre el deporte."
         }
       ],
-      "correct_answer": "D",
-      "explanation": "The word 'luggage' is used to describe suitcases or other bags in which to pack personal belongings for traveling. This is an important vocabulary word in English.\n---",
-      "difficulty": "6",
+      "correct_answer": "A",
+      "explanation": "Los deportes se clasifican en individuales y de equipo, y la diferencia se expresa con expresiones concretas como on a team o alone. Preguntar por esa caracteristica es la manera correcta de clasificar, mientras que las demas opciones cambian de tema y no ofrecen informacion util.",
+      "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Apply",
-      "icfes_type": "Lexico",
-      "expected_success": 0.8,
+      "icfes_type": "Uso de la lengua",
+      "expected_success": 0.85,
       "bundle_id": "CO-ING-3-2026-W34-sports-001-MASTERY-bundle",
       "periodo": 34,
       "protocol_version": "5.2",
@@ -193,41 +193,41 @@
     },
     {
       "id": "CO-ING-3-2026-W34-sports-001-MASTERY-bundle-v5",
-      "statement": "What is the English word for: \"A traveler on a public or private conveyance other than the driver, pilot, or crew.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "In soccer, players need this to kick the ball. What is it?",
+      "context": "Ejercicio de vocabulario sobre el equipo y el material de un deporte.",
       "options": [
         {
           "letter": "A",
-          "text": "passenger",
+          "text": "A ball",
           "is_correct": true,
-          "feedback": "Correct! 'passenger' matches the definition."
+          "feedback": "el balon es el objeto que se patea en el futbol, que es exactamente lo que pide el enunciado."
         },
         {
           "letter": "B",
-          "text": "pedestrian",
+          "text": "A racket",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "la raqueta se usa en tenis y en badmin, y no tiene ninguna funcion en el futbol."
         },
         {
           "letter": "C",
-          "text": "commuter",
+          "text": "A net",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "la red se coloca en la valla o en el campo, pero no es el objeto que el jugador golpea."
         },
         {
           "letter": "D",
-          "text": "tourist",
+          "text": "A bat",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "el bate pertenece a beisbol y a softball, deportes en los que se golpea con las manos."
         }
       ],
       "correct_answer": "A",
-      "explanation": "The word 'passenger' is used to describe a traveler on a public or private conveyance other than the driver, pilot, or crew. This is an important vocabulary word in English.\n---",
-      "difficulty": "8",
+      "explanation": "Agrupar el material por deporte ayuda a retener el vocabulario: racket for tennis, bat for baseball, ball for soccer and basketball, net for volleyball. Cuando el enunciado nombra una accion, el objeto que la corresponde identifica por si solo la opcion correcta.",
+      "difficulty": "4",
       "images": [],
       "tags": [],
-      "bloom": "Analyze",
-      "icfes_type": "Lexico",
+      "bloom": "Understand",
+      "icfes_type": "Uso de la lengua",
       "expected_success": 0.8,
       "bundle_id": "CO-ING-3-2026-W34-sports-001-MASTERY-bundle",
       "periodo": 34,
@@ -239,42 +239,42 @@
     },
     {
       "id": "CO-ING-3-2026-W34-sports-001-MASTERY-bundle-v6",
-      "statement": "What is the English word for: \"The place at a port, airport, or frontier where officials check incoming goods, travelers, or luggage.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Choose the correct word: \"Run to the wall and then ___ back to the line.\"",
+      "context": "Rutina de educacion fisica en la que el docente da instrucciones al grupo.",
       "options": [
         {
-          "letter": "C",
-          "text": "customs",
-          "is_correct": true,
-          "feedback": "Correct! 'customs' matches the definition."
-        },
-        {
           "letter": "A",
-          "text": "security",
+          "text": "comes",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "comes concuerda con un sujeto en tercera persona, y el enunciado se dirige a los estudiantes."
         },
         {
           "letter": "B",
-          "text": "terminal",
+          "text": "come",
+          "is_correct": true,
+          "feedback": "come es la forma del presente que concuerda con el grupo de estudiantes al que el docente se dirige."
+        },
+        {
+          "letter": "C",
+          "text": "coming",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "coming es la forma en -ing y necesita un verbo auxiliar delante, como is coming."
         },
         {
           "letter": "D",
-          "text": "gate",
+          "text": "to came",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "el verbo to come es irregular y su pasado es came, pero el enunciado esta en presente."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "The word 'customs' is used to describe the place at a port, airport, or frontier where officials check incoming goods, travelers, or luggage. This is an important vocabulary word in English.\n---",
-      "difficulty": "8",
+      "correct_answer": "B",
+      "explanation": "Las instrucciones de clase suelen dirigirse a un grupo, y ese grupo se trata como usted, por lo que el verbo aparece en la forma de you. Reconocer a quien se dirige la oracion evita el error de conjugar en tercera persona cuando en realidad se habla con varios estudiantes.",
+      "difficulty": "4",
       "images": [],
       "tags": [],
-      "bloom": "Analyze",
-      "icfes_type": "Lexico",
-      "expected_success": 0.8,
+      "bloom": "Apply",
+      "icfes_type": "Uso de la lengua",
+      "expected_success": 0.85,
       "bundle_id": "CO-ING-3-2026-W34-sports-001-MASTERY-bundle",
       "periodo": 34,
       "protocol_version": "5.2",
@@ -285,42 +285,42 @@
     },
     {
       "id": "CO-ING-3-2026-W34-sports-001-MASTERY-bundle-v7",
-      "statement": "What is the English word for: \"A document provided by an airline during check-in, giving a passenger permission to board the airplane.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Read: \"Playing sports helps children stay strong and makes them happy.\" What is the main benefit mentioned?",
+      "context": "Lectura de un articulo sobre los deportes mas practicados en la escuela.",
       "options": [
         {
-          "letter": "B",
-          "text": "boarding pass",
-          "is_correct": true,
-          "feedback": "Correct! 'boarding pass' matches the definition."
+          "letter": "A",
+          "text": "Getting good grades",
+          "is_correct": false,
+          "feedback": "el texto no menciona calificaciones ni el rendimiento escolar."
         },
         {
-          "letter": "A",
-          "text": "visa",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "letter": "B",
+          "text": "Staying strong and feeling happy",
+          "is_correct": true,
+          "feedback": "el texto nombra exactamente esos dos beneficios, fuerte y feliz."
         },
         {
           "letter": "C",
-          "text": "receipt",
+          "text": "Making new friends",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "no se habla de amistades ni de relaciones sociales en el texto."
         },
         {
           "letter": "D",
-          "text": "brochure",
+          "text": "Learning to swim fast",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "la natacion no aparece en el texto, que habla de los deportes en general."
         }
       ],
       "correct_answer": "B",
-      "explanation": "The word 'boarding pass' is used to describe a document provided by an airline during check-in, giving a passenger permission to board the airplane. This is an important vocabulary word in English.\n---",
-      "difficulty": "10",
+      "explanation": "La idea principal suele aparecer resumida al final del texto. Las tres opciones incorrectas introducen temas que el lector podria suponer por el contexto general del deporte, y por eso son distractores utiles: obligan a volver al texto para confirmar la informacion.",
+      "difficulty": "4",
       "images": [],
       "tags": [],
-      "bloom": "Evaluate",
-      "icfes_type": "Lexico",
-      "expected_success": 0.8,
+      "bloom": "Understand",
+      "icfes_type": "Uso de la lengua",
+      "expected_success": 0.85,
       "bundle_id": "CO-ING-3-2026-W34-sports-001-MASTERY-bundle",
       "periodo": 34,
       "protocol_version": "5.2",
@@ -331,41 +331,41 @@
     },
     {
       "id": "CO-ING-3-2026-W34-sports-001-MASTERY-bundle-v8",
-      "statement": "What is the English word for: \"The activity of visiting places of interest in a particular location.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Which answer is the best one for a student who plays soccer on Saturdays?",
+      "context": "Actividad final donde cada estudiante presenta el deporte que mas le gusta.",
       "options": [
         {
-          "letter": "C",
-          "text": "sightseeing",
-          "is_correct": true,
-          "feedback": "Correct! 'sightseeing' matches the definition."
-        },
-        {
           "letter": "A",
-          "text": "shopping",
+          "text": "I play basketball.",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "esa respuesta nombra un deporte distinto del que el enunciado asigna al estudiante."
         },
         {
           "letter": "B",
-          "text": "hiking",
+          "text": "I like sports very much.",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "esa frase muestra una opinion general y no identifica ningun deporte concreto."
         },
         {
           "letter": "D",
-          "text": "camping",
+          "text": "I go swimming on Mondays.",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "esa respuesta incluye un dia y un deporte que no coinciden con los sabados ni con el futbol."
+        },
+        {
+          "letter": "C",
+          "text": "I play soccer on Saturdays.",
+          "is_correct": true,
+          "feedback": "la respuesta repite el deporte y el dia del enunciado, que es la forma de presentar la informacion completa."
         }
       ],
       "correct_answer": "C",
-      "explanation": "The word 'sightseeing' is used to describe the activity of visiting places of interest in a particular location. This is an important vocabulary word in English.",
-      "difficulty": "10",
+      "explanation": "La oracion completa debe reunir las dos piezas de informacion del ejercicio: el deporte y el momento en que se practica. Una respuesta con opinion general es gramaticalmente correcta pero pierde los datos que la consigna pide, y por eso no es aceptable como respuesta final.",
+      "difficulty": "4",
       "images": [],
       "tags": [],
-      "bloom": "Evaluate",
-      "icfes_type": "Lexico",
+      "bloom": "Apply",
+      "icfes_type": "Uso de la lengua",
       "expected_success": 0.8,
       "bundle_id": "CO-ING-3-2026-W34-sports-001-MASTERY-bundle",
       "periodo": 34,

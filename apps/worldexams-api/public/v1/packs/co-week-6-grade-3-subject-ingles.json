@@ -9,41 +9,41 @@
   "questions": [
     {
       "id": "CO-ING-3-2026-W06-classroom-objects-001-MASTERY-bundle-v1",
-      "statement": "What is the English word for: \"A place where you live or stay on holiday.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Which word names the object you use to write your name on the paper?",
+      "context": "Primer dia de clases en el que cada estudiante identifica lo que hay sobre el escritorio.",
       "options": [
         {
-          "letter": "B",
-          "text": "accommodation",
+          "letter": "D",
+          "text": "pencil",
           "is_correct": true,
-          "feedback": "Correct! 'accommodation' matches the definition."
+          "feedback": "un lapiz se usa para escribir nombres y respuestas sobre el papel, que es lo que describe el enunciado."
         },
         {
           "letter": "A",
-          "text": "transportation",
+          "text": "eraser",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "el sacapuntas borra lo que ya esta escrito y no se usa para escribir el nombre por primera vez."
+        },
+        {
+          "letter": "B",
+          "text": "ruler",
+          "is_correct": false,
+          "feedback": "la regla mide segmentos y no escribe nada sobre el papel."
         },
         {
           "letter": "C",
-          "text": "entertainment",
+          "text": "sharpener",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "D",
-          "text": "currency",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "el portalapices afila el lapiz y no participa en el momento de escribir."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "The word 'accommodation' is used to describe a place where you live or stay on holiday. This is an important vocabulary word in English.\n---",
+      "correct_answer": "D",
+      "explanation": "Los utiles escolares se agrupan segun su funcion: escribir con pencil o pen, borrar con eraser, medir con ruler y afilar con sharpener. Cuando el enunciado describe una accion concreta, la palabra buscada es la que nombra esa accion.",
       "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Remember",
-      "icfes_type": "Lexico",
+      "icfes_type": "Uso de la lengua",
       "expected_success": 0.8,
       "bundle_id": "CO-ING-3-2026-W06-classroom-objects-001-MASTERY-bundle",
       "periodo": 6,
@@ -55,41 +55,41 @@
     },
     {
       "id": "CO-ING-3-2026-W06-classroom-objects-001-MASTERY-bundle-v2",
-      "statement": "What is the English word for: \"A detailed plan or route of a journey.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "The books are not on the desk. They are on the shelf. Which word describes where the books are?",
+      "context": "Actividad de descripcion del puesto del profesor mediante preguntas de ubicacion.",
       "options": [
         {
-          "letter": "C",
-          "text": "itinerary",
-          "is_correct": true,
-          "feedback": "Correct! 'itinerary' matches the definition."
-        },
-        {
           "letter": "A",
-          "text": "baggage",
+          "text": "on",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "B",
-          "text": "destination",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "on indicaria que los libros estan apoyados en una superficie, y el enunciado dice que estan en el estante."
         },
         {
           "letter": "D",
-          "text": "passport",
+          "text": "in",
+          "is_correct": true,
+          "feedback": "in describe estar dentro de un mueble como el estante, donde los libros quedan guardados."
+        },
+        {
+          "letter": "B",
+          "text": "under",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "under significaria que los libros estan por debajo del escritorio, y el texto los ubica en otro mueble."
+        },
+        {
+          "letter": "C",
+          "text": "between",
+          "is_correct": false,
+          "feedback": "between necesita dos objetos a los lados, y aqui solo se menciona el estante."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "The word 'itinerary' is used to describe a detailed plan or route of a journey. This is an important vocabulary word in English.\n---",
+      "correct_answer": "D",
+      "explanation": "Los muebles de almacenamiento como el estante, el cajon o el armario se describen con in porque el objeto queda dentro de un espacio cerrado. La distincion con on aparece cuando el objeto esta apoyado y visible sobre la superficie.",
       "difficulty": "4",
       "images": [],
       "tags": [],
-      "bloom": "Understand",
-      "icfes_type": "Lexico",
+      "bloom": "Apply",
+      "icfes_type": "Uso de la lengua",
       "expected_success": 0.8,
       "bundle_id": "CO-ING-3-2026-W06-classroom-objects-001-MASTERY-bundle",
       "periodo": 6,
@@ -101,41 +101,41 @@
     },
     {
       "id": "CO-ING-3-2026-W06-classroom-objects-001-MASTERY-bundle-v3",
-      "statement": "What is the English word for: \"The place to which someone or something is going or being sent.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Read: \"There is a big clock on the wall and many chairs in the room.\" What is on the wall?",
+      "context": "Lectura de un texto sobre lo que hay en un salon de clases.",
       "options": [
         {
-          "letter": "D",
-          "text": "destination",
+          "letter": "C",
+          "text": "The clock",
           "is_correct": true,
-          "feedback": "Correct! 'destination' matches the definition."
+          "feedback": "el texto dice literalmente que hay un reloj grande en la pared."
         },
         {
           "letter": "A",
-          "text": "departure",
+          "text": "The chairs",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "las sillas estan en la habitacion, no en la pared, segun la segunda parte del texto."
         },
         {
           "letter": "B",
-          "text": "arrival",
+          "text": "The board",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "el pizatron no aparece en el texto, que solo menciona el reloj y las sillas."
         },
         {
-          "letter": "C",
-          "text": "journey",
+          "letter": "D",
+          "text": "The door",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "la puerta tampoco se menciona en el enunciado."
         }
       ],
-      "correct_answer": "D",
-      "explanation": "The word 'destination' is used to describe the place to which someone or something is going or being sent. This is an important vocabulary word in English.\n---",
-      "difficulty": "6",
+      "correct_answer": "C",
+      "explanation": "Este ejercicio de lectura exige seguir la preposicion del texto: cuando el enunciado pregunta por un lugar, la respuesta es el sustantivo que va inmediatamente despues de on the wall. Es una practica eficaz paraGrath comprension de texto en grado tercero.",
+      "difficulty": "4",
       "images": [],
       "tags": [],
-      "bloom": "Apply",
-      "icfes_type": "Lexico",
+      "bloom": "Understand",
+      "icfes_type": "Uso de la lengua",
       "expected_success": 0.8,
       "bundle_id": "CO-ING-3-2026-W06-classroom-objects-001-MASTERY-bundle",
       "periodo": 6,
@@ -147,42 +147,42 @@
     },
     {
       "id": "CO-ING-3-2026-W06-classroom-objects-001-MASTERY-bundle-v4",
-      "statement": "What is the English word for: \"Suitcases or other bags in which to pack personal belongings for traveling.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Choose the correct sentence: \"Please pass me the ___, the object I use to draw lines and shapes.\"",
+      "context": "Ejercicio en el que el docente pide a un estudiante que le pase un objeto.",
       "options": [
         {
-          "letter": "D",
-          "text": "luggage",
-          "is_correct": true,
-          "feedback": "Correct! 'luggage' matches the definition."
-        },
-        {
           "letter": "A",
-          "text": "ticket",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "text": "ruler",
+          "is_correct": true,
+          "feedback": "la regla es el instrumento con el que se trazan lineas rectas y figuras geometricas en el cuaderno."
         },
         {
           "letter": "B",
-          "text": "flight",
+          "text": "pencil",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "el lapiz escribe, pero no sirve para trazar lineas rectas de medida exacta como las de la regla."
         },
         {
           "letter": "C",
-          "text": "reservation",
+          "text": "glue",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "el pegamento une papeles y no dibuja lineas ni figuras de ningun tipo."
+        },
+        {
+          "letter": "D",
+          "text": "scissors",
+          "is_correct": false,
+          "feedback": "las tijeras cortan materiales y su funcion no tiene relacion con dibujar trazos."
         }
       ],
-      "correct_answer": "D",
-      "explanation": "The word 'luggage' is used to describe suitcases or other bags in which to pack personal belongings for traveling. This is an important vocabulary word in English.\n---",
-      "difficulty": "6",
+      "correct_answer": "A",
+      "explanation": "La pista del enunciado es funcional: describe para que sirve el objeto antes de nombrarlo. Esa estrategia, definir por la funcion y luego escoger el sustantivo, es la que permite entender vocabulario nuevo sin depender de la traduccion palabra por palabra.",
+      "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Apply",
-      "icfes_type": "Lexico",
-      "expected_success": 0.8,
+      "icfes_type": "Uso de la lengua",
+      "expected_success": 0.85,
       "bundle_id": "CO-ING-3-2026-W06-classroom-objects-001-MASTERY-bundle",
       "periodo": 6,
       "protocol_version": "5.2",
@@ -193,41 +193,41 @@
     },
     {
       "id": "CO-ING-3-2026-W06-classroom-objects-001-MASTERY-bundle-v5",
-      "statement": "What is the English word for: \"A traveler on a public or private conveyance other than the driver, pilot, or crew.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "The teacher says: \"Put the ___ back in the drawer when you finish.\" Which word fits the sentence?",
+      "context": "Rutina de limpieza del aula al terminar la jornada escolar.",
       "options": [
         {
-          "letter": "A",
-          "text": "passenger",
-          "is_correct": true,
-          "feedback": "Correct! 'passenger' matches the definition."
+          "letter": "B",
+          "text": "book",
+          "is_correct": false,
+          "feedback": "los libros se guardan en el estante o en la mochila, no en un cajon, y el enunciado pide el cajon."
         },
         {
-          "letter": "B",
-          "text": "pedestrian",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "letter": "A",
+          "text": "scissors",
+          "is_correct": true,
+          "feedback": "las tijeras se guardan en un cajon o en un estuche para no dejarlas al alcance, y el enunciado menciona un cajon."
         },
         {
           "letter": "C",
-          "text": "commuter",
+          "text": "window",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "la ventana es parte del muro y no puede guardarse dentro de un mueble."
         },
         {
           "letter": "D",
-          "text": "tourist",
+          "text": "clock",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "el reloj esta fijo en la pared y no se guarda en ningun cajon."
         }
       ],
       "correct_answer": "A",
-      "explanation": "The word 'passenger' is used to describe a traveler on a public or private conveyance other than the driver, pilot, or crew. This is an important vocabulary word in English.\n---",
-      "difficulty": "8",
+      "explanation": "Cada objeto del aula tiene un lugar de almacenamiento que responde a su tamano y a su seguridad. Los objetos cortantes como las tijeras van en el cajon, los libros en el estante y los objetos fijos como el reloj y la ventana no se guardan.",
+      "difficulty": "4",
       "images": [],
       "tags": [],
-      "bloom": "Analyze",
-      "icfes_type": "Lexico",
+      "bloom": "Apply",
+      "icfes_type": "Uso de la lengua",
       "expected_success": 0.8,
       "bundle_id": "CO-ING-3-2026-W06-classroom-objects-001-MASTERY-bundle",
       "periodo": 6,
@@ -239,42 +239,42 @@
     },
     {
       "id": "CO-ING-3-2026-W06-classroom-objects-001-MASTERY-bundle-v6",
-      "statement": "What is the English word for: \"The place at a port, airport, or frontier where officials check incoming goods, travelers, or luggage.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Which group has only school supplies?",
+      "context": "Actividad de inventario de utiles para el inicio del periodo escolar.",
       "options": [
         {
           "letter": "A",
-          "text": "customs",
-          "is_correct": true,
-          "feedback": "Correct! 'customs' matches the definition."
+          "text": "A notebook, a computer and a book",
+          "is_correct": false,
+          "feedback": "la computadora es un aparato electronico y no es un util escolar de escritura."
         },
         {
           "letter": "B",
-          "text": "security",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "text": "A notebook, a pencil and a ruler",
+          "is_correct": true,
+          "feedback": "el cuaderno, el lapiz y la regla son los tres utiles escolares clasicos de la lista."
         },
         {
           "letter": "C",
-          "text": "terminal",
+          "text": "A bag, a chair and a door",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "la silla y la puerta son parte del mobiliario del salon y no objetos que el estudiante lleve."
         },
         {
           "letter": "D",
-          "text": "gate",
+          "text": "A pen, a ball and a bicycle",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "el balon y la bicicleta son objetos de juego o de transporte, no utiles escolares."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'customs' is used to describe the place at a port, airport, or frontier where officials check incoming goods, travelers, or luggage. This is an important vocabulary word in English.\n---",
-      "difficulty": "8",
+      "correct_answer": "B",
+      "explanation": "Distinguir utiles de mobiliario o de objetos de juego es una clasificacion basica que aparece en las pruebas. Los tres elementos correctos cumplen una funcion academica: escribir, dibujar lineas y organizar notas.",
+      "difficulty": "4",
       "images": [],
       "tags": [],
-      "bloom": "Analyze",
-      "icfes_type": "Lexico",
-      "expected_success": 0.8,
+      "bloom": "Understand",
+      "icfes_type": "Uso de la lengua",
+      "expected_success": 0.85,
       "bundle_id": "CO-ING-3-2026-W06-classroom-objects-001-MASTERY-bundle",
       "periodo": 6,
       "protocol_version": "5.2",
@@ -285,42 +285,42 @@
     },
     {
       "id": "CO-ING-3-2026-W06-classroom-objects-001-MASTERY-bundle-v7",
-      "statement": "What is the English word for: \"A document provided by an airline during check-in, giving a passenger permission to board the airplane.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Look at the picture: four pencils are inside the pencil case. What is the correct plural of \"pencil\" in English?",
+      "context": "Ejercicio de descripcion del material que un grupo de estudiantes traen de su casa.",
       "options": [
         {
           "letter": "A",
-          "text": "boarding pass",
-          "is_correct": true,
-          "feedback": "Correct! 'boarding pass' matches the definition."
-        },
-        {
-          "letter": "B",
-          "text": "visa",
+          "text": "pencilies",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "pencilies no existe en ingles; los sustantivos terminados en -l forman su plural con -s y no con -ies."
         },
         {
           "letter": "C",
-          "text": "receipt",
+          "text": "penciles",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "penciles tampoco es una palabra inglesa y refleja una terminacion propia del espanol."
         },
         {
           "letter": "D",
-          "text": "brochure",
+          "text": "pencilers",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "pencilers seria el plural de penciler, que es un lapiz automatico, y no de pencil."
+        },
+        {
+          "letter": "B",
+          "text": "pencils",
+          "is_correct": true,
+          "feedback": "el plural regular se forma anadiendo -s a la base, y pencil da pencils."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'boarding pass' is used to describe a document provided by an airline during check-in, giving a passenger permission to board the airplane. This is an important vocabulary word in English.\n---",
-      "difficulty": "10",
+      "correct_answer": "B",
+      "explanation": "El plural regular en ingles se construye anadiendo -s a la base, y los sustantivos que terminan en -l siguen esa misma regla. Conocer la base evita inventar terminaciones que suenan parecidas al espanol pero no existen en la lengua inglesa.",
+      "difficulty": "4",
       "images": [],
       "tags": [],
-      "bloom": "Evaluate",
-      "icfes_type": "Lexico",
-      "expected_success": 0.8,
+      "bloom": "Apply",
+      "icfes_type": "Uso de la lengua",
+      "expected_success": 0.85,
       "bundle_id": "CO-ING-3-2026-W06-classroom-objects-001-MASTERY-bundle",
       "periodo": 6,
       "protocol_version": "5.2",
@@ -331,41 +331,41 @@
     },
     {
       "id": "CO-ING-3-2026-W06-classroom-objects-001-MASTERY-bundle-v8",
-      "statement": "What is the English word for: \"The activity of visiting places of interest in a particular location.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Look at the sentence: \"I need a ___ because my pencil broke.\" Which object does the student need?",
+      "context": "Actividad de reflexion oral sobre los materiales usados en clase por el propio estudiante.",
       "options": [
         {
           "letter": "C",
-          "text": "sightseeing",
+          "text": "sharpener",
           "is_correct": true,
-          "feedback": "Correct! 'sightseeing' matches the definition."
+          "feedback": "cuando un lapiz se rompe o pierde la punta, lo que hace falta es el portalapices."
         },
         {
           "letter": "A",
-          "text": "shopping",
+          "text": "eraser",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "el sacapuntas no borra lo escrito, afila el grafito, que es exactamente lo que le falta al lapiz del enunciado."
         },
         {
           "letter": "B",
-          "text": "hiking",
+          "text": "backpack",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "la mochila sirve para cargar utiles, no para arreglar un lapiz que se rompio."
         },
         {
           "letter": "D",
-          "text": "camping",
+          "text": "notebook",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "el cuaderno recibe lo que se escribe y no repara el lapiz danado."
         }
       ],
       "correct_answer": "C",
-      "explanation": "The word 'sightseeing' is used to describe the activity of visiting places of interest in a particular location. This is an important vocabulary word in English.",
-      "difficulty": "10",
+      "explanation": "Comprender la relacion causa y efecto dentro del aula es una forma temprana de comprension pragmatica: el lapiz roto produce la necesidad de un afilador. El estudiante que identifica la consecuencia practica escolle el objeto correcto sin necesitar el diccionario.",
+      "difficulty": "4",
       "images": [],
       "tags": [],
-      "bloom": "Evaluate",
-      "icfes_type": "Lexico",
+      "bloom": "Understand",
+      "icfes_type": "Uso de la lengua",
       "expected_success": 0.8,
       "bundle_id": "CO-ING-3-2026-W06-classroom-objects-001-MASTERY-bundle",
       "periodo": 6,
