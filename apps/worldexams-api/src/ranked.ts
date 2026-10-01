@@ -340,7 +340,12 @@ export async function routeRanked(
             explanation: norm.explanation || "",
           });
         }
-        return { letter, text: opt.text };
+        // The client needs the feedback for every option, not just the correct
+        // one. The four-option feedback standard exists so the student learns
+        // why each distractor is wrong, and ranked was throwing three of the
+        // four away before they left the API. The answer key keeps the correct
+        // option's feedback, because that is the one the session grades with.
+        return { letter, text: opt.text, feedback: opt.feedback || "" };
       });
 
 
