@@ -33,12 +33,13 @@ Se evalúan las propiedades de las figuras planas, sus lados y vértices, y la s
 ¿Cuántos lados y cuántos vértices tiene un cuadrado?
 
 ### Opciones
-- [x] A) 4 lados y 4 vértices
-  <!-- feedback: Correcto. El cuadrado tiene 4 lados iguales y 4 esquinas porque cada lado se une con el siguiente en un vértice. -->
-- [ ] B) 3 lados y 3 vértices
+### Opciones
+- [ ] A) 3 lados y 3 vértices
   <!-- feedback: Incorrecto. 3 lados y 3 vértices corresponden al triángulo porque confundiste el cuadrado con otra figura. -->
-- [ ] C) 4 lados y 5 vértices
+- [ ] B) 4 lados y 5 vértices
   <!-- feedback: Incorrecto. Un cuadrado no tiene 5 esquinas porque cada uno de sus 4 lados aporta un vértice al cerrarse. -->
+- [x] C) 4 lados y 4 vértices
+  <!-- feedback: Correcto. El cuadrado tiene 4 lados iguales y 4 esquinas porque cada lado se une con el siguiente en un vértice. -->
 - [ ] D) 5 lados y 5 vértices
   <!-- feedback: Incorrecto. 5 lados y 5 vértices son del pentágono porque agregaste un lado que el cuadrado no tiene. -->
 
@@ -55,6 +56,7 @@ El cuadrado es una figura de 4 lados iguales y 4 vértices donde se unen los lad
 ### Enunciado
 ¿Qué característica describe correctamente al triángulo?
 
+### Opciones
 ### Opciones
 - [x] A) Tiene 3 lados rectos y 3 vértices
   <!-- feedback: Correcto. El triángulo se forma con 3 segmentos rectos porque al unirlos se crean exactamente 3 esquinas. -->
@@ -79,14 +81,15 @@ El triángulo se define por tener 3 lados rectos y 3 vértices. Es la figura pla
 ¿Cuántos lados iguales tiene el rectángulo y cuánto miden?
 
 ### Opciones
-- [x] A) 2 lados de 6 cm y 2 lados de 4 cm
-  <!-- feedback: Correcto. El rectángulo tiene 2 pares de lados iguales porque los opuestos miden lo mismo: 6 y 6, 4 y 4. -->
-- [ ] B) 4 lados de 6 cm
+### Opciones
+- [ ] A) 4 lados de 6 cm
   <!-- feedback: Incorrecto. 4 lados de 6 cm serían un cuadrado porque ignoraste que el ancho mide 4 cm. -->
-- [ ] C) 4 lados de 4 cm
+- [ ] B) 4 lados de 4 cm
   <!-- feedback: Incorrecto. 4 lados de 4 cm serían un cuadrado pequeño porque olvidaste que el largo mide 6 cm. -->
-- [ ] D) 3 lados de 6 cm y 1 lado de 4 cm
+- [ ] C) 3 lados de 6 cm y 1 lado de 4 cm
   <!-- feedback: Incorrecto. Los lados opuestos deben ser parejas porque con 3 y 1 la figura no cierra como rectángulo. -->
+- [x] D) 2 lados de 6 cm y 2 lados de 4 cm
+  <!-- feedback: Correcto. El rectángulo tiene 2 pares de lados iguales porque los opuestos miden lo mismo: 6 y 6, 4 y 4. -->
 
 ### Explicacion Pedagogica
 El rectángulo tiene 4 lados: los opuestos son iguales. Con largo 6 cm y ancho 4 cm hay 2 lados de 6 cm y 2 lados de 4 cm.
@@ -102,10 +105,11 @@ El rectángulo tiene 4 lados: los opuestos son iguales. Con largo 6 cm y ancho 4
 ¿Qué significa que las dos partes coincidan al doblar?
 
 ### Opciones
-- [x] A) Que la figura es simétrica y el doblez es su eje de simetría
-  <!-- feedback: Correcto. El doblez divide la figura en 2 mitades espejo porque cada punto de un lado corresponde al otro lado. -->
-- [ ] B) Que la figura es un cuadrado perfecto
+### Opciones
+- [ ] A) Que la figura es un cuadrado perfecto
   <!-- feedback: Incorrecto. Un corazón no tiene 4 lados iguales porque coincidir al doblar no lo convierte en cuadrado. -->
+- [x] B) Que la figura es simétrica y el doblez es su eje de simetría
+  <!-- feedback: Correcto. El doblez divide la figura en 2 mitades espejo porque cada punto de un lado corresponde al otro lado. -->
 - [ ] C) Que la figura tiene 4 vértices iguales
   <!-- feedback: Incorrecto. El corazón tiene curvas y no 4 esquinas porque confundiste simetría con número de vértices. -->
 - [ ] D) Que la figura no tiene ninguna simetría
@@ -125,14 +129,15 @@ Una figura es simétrica si al doblarla por una línea las dos partes coinciden.
 ¿Cuál de las tres figuras no tiene vértices?
 
 ### Opciones
-- [x] A) El círculo, porque está formado por una línea curva cerrada sin esquinas
-  <!-- feedback: Correcto. El círculo no tiene esquinas porque su borde curvo nunca forma un pico donde se unan segmentos. -->
-- [ ] B) El triángulo, porque tiene lados muy cortos
+### Opciones
+- [ ] A) El triángulo, porque tiene lados muy cortos
   <!-- feedback: Incorrecto. El triángulo tiene 3 vértices porque el largo de los lados no elimina las esquinas. -->
-- [ ] C) El rectángulo, porque sus lados son parejos
+- [ ] B) El rectángulo, porque sus lados son parejos
   <!-- feedback: Incorrecto. El rectángulo tiene 4 vértices porque tener lados parejos no quita las 4 esquinas. -->
-- [ ] D) Todas tienen vértices, porque toda figura plana tiene esquinas
+- [ ] C) Todas tienen vértices, porque toda figura plana tiene esquinas
   <!-- feedback: Incorrecto. El círculo es la excepción porque su borde curvo significa que no tiene ningún vértice. -->
+- [x] D) El círculo, porque está formado por una línea curva cerrada sin esquinas
+  <!-- feedback: Correcto. El círculo no tiene esquinas porque su borde curvo nunca forma un pico donde se unan segmentos. -->
 
 ### Explicacion Pedagogica
 Los vértices aparecen donde se unen segmentos rectos. El círculo usa una curva continua, así que no tiene vértices, mientras el triángulo tiene 3 y el rectángulo 4.
@@ -148,12 +153,13 @@ Los vértices aparecen donde se unen segmentos rectos. El círculo usa una curva
 ¿Cuál de las dos figuras tiene simetría y cuál no la tiene?
 
 ### Opciones
-- [x] A) Valeria, porque su línea pasa por la mitad y las 2 partes coinciden como espejo.
-  <!-- feedback: Correcto. La línea por la mitad crea 2 mitades iguales porque cada punto queda a la misma distancia del eje. -->
-- [ ] B) Daniela, porque cualquier línea que parte una figura crea simetría.
+### Opciones
+- [ ] A) Daniela, porque cualquier línea que parte una figura crea simetría.
   <!-- feedback: Incorrecto. Una línea corrida deja partes distintas porque la simetría exige mitades espejo exactas. -->
-- [ ] C) Valeria, porque el rectángulo siempre es simétrico sin importar la línea.
+- [ ] B) Valeria, porque el rectángulo siempre es simétrico sin importar la línea.
   <!-- feedback: Incorrecto. Una línea diagonal corrida no da espejo porque la posición del eje sí determina la simetría. -->
+- [x] C) Valeria, porque su línea pasa por la mitad y las 2 partes coinciden como espejo.
+  <!-- feedback: Correcto. La línea por la mitad crea 2 mitades iguales porque cada punto queda a la misma distancia del eje. -->
 - [ ] D) Ninguna, porque solo los círculos pueden ser simétricos.
   <!-- feedback: Incorrecto. Rectángulos y triángulos isósceles sí tienen ejes porque la simetría no es exclusiva del círculo. -->
 
@@ -170,6 +176,7 @@ Analizar exige comprobar si las partes coinciden. Solo la línea por la mitad ex
 ### Enunciado
 ¿Cuál figura tiene exactamente 5 vértices?
 
+### Opciones
 ### Opciones
 - [x] A) La figura de 5 lados iguales, porque cada lado aporta un vértice al cerrarse.
   <!-- feedback: Correcto. 5 lados forman 5 esquinas porque el pentágono cierra con un vértice por cada unión de lados. -->
@@ -194,10 +201,11 @@ El número de vértices coincide con el número de lados en figuras de lados rec
 ¿Cuál diseño conviene elegir y por qué?
 
 ### Opciones
-- [x] A) El diseño A, porque 6 x 4 = 24 ejes en total supera a los ejes de triángulos y rectángulos del B.
-  <!-- feedback: Correcto. Cada cuadrado aporta 4 ejes porque 6 x 4 = 24 supera la suma de ejes del diseño B. -->
-- [ ] B) El diseño B, porque tiene más tipos de figuras y más tipos significan más simetría.
+### Opciones
+- [ ] A) El diseño B, porque tiene más tipos de figuras y más tipos significan más simetría.
   <!-- feedback: Incorrecto. La variedad no suma ejes porque cada figura aporta sus ejes propios y el total del B es menor. -->
+- [x] B) El diseño A, porque 6 x 4 = 24 ejes en total supera a los ejes de triángulos y rectángulos del B.
+  <!-- feedback: Correcto. Cada cuadrado aporta 4 ejes porque 6 x 4 = 24 supera la suma de ejes del diseño B. -->
 - [ ] C) El diseño A, porque los cuadrados no tienen ejes pero se ven más bonitos.
   <!-- feedback: Incorrecto. Cada cuadrado tiene 4 ejes de simetría porque afirmar que no tienen ejes contradice la geometría. -->
 - [ ] D) Ambos son iguales, porque 6 piezas y 6 piezas siempre dan la misma simetría.

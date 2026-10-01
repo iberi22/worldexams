@@ -33,6 +33,7 @@ Se evalúa la comparación de decimales y el manejo de pesos colombianos en comp
 ¿Cuál producto es más barato?
 
 ### Opciones
+### Opciones
 - [x] A) La galleta, porque $1.800 es menor que $2.500 en la comparación de miles.
   <!-- feedback: Correcto. 1800 < 2500 porque al comparar los miles el 1 es menor que el 2. -->
 - [ ] B) El jugo, porque $2.500 tiene un número mayor y lo mayor es más barato.
@@ -56,12 +57,13 @@ Comparar precios es comparar números. $1.800 < $2.500 porque 1 mil es menos que
 ¿Cuál objeto es más largo?
 
 ### Opciones
-- [x] A) El lápiz, porque 12.5 equivale a 12.50 y 50 es mayor que 05 en las centésimas.
-  <!-- feedback: Correcto. 12.50 > 12.05 porque al igualar las cifras decimales se ve que 50 centésimas superan a 05. -->
-- [ ] B) El borrador, porque 12.05 tiene más cifras y más cifras significa más largo.
+### Opciones
+- [ ] A) El borrador, porque 12.05 tiene más cifras y más cifras significa más largo.
   <!-- feedback: Incorrecto. 12.05 es menor que 12.5 porque más cifras decimales no significa un número mayor. -->
-- [ ] C) Miden igual, porque los dos empiezan por 12.
+- [ ] B) Miden igual, porque los dos empiezan por 12.
   <!-- feedback: Incorrecto. 12.5 es distinto de 12.05 porque la parte decimal 5 décimas supera a 5 centésimas. -->
+- [x] C) El lápiz, porque 12.5 equivale a 12.50 y 50 es mayor que 05 en las centésimas.
+  <!-- feedback: Correcto. 12.50 > 12.05 porque al igualar las cifras decimales se ve que 50 centésimas superan a 05. -->
 - [ ] D) El borrador, porque 5 es menor que 05.
   <!-- feedback: Incorrecto. 5 décimas equivalen a 50 centésimas porque 0.5 es diez veces mayor que 0.05. -->
 
@@ -79,14 +81,15 @@ Para comparar decimales se igualan las cifras: 12.5 = 12.50. Como 50 > 05, el l�
 ¿Cuánto paga en total Lucía?
 
 ### Opciones
-- [x] A) $8.000
-  <!-- feedback: Correcto. 4200 + 3800 = 8000 porque se suman los dos valores de la compra. -->
-- [ ] B) $7.000
+### Opciones
+- [ ] A) $7.000
   <!-- feedback: Incorrecto. 4200 + 3800 = 8000 y no 7000 porque olvidaste llevar una unidad de mil en la suma. -->
-- [ ] C) $8.100
+- [ ] B) $8.100
   <!-- feedback: Incorrecto. 4200 + 3800 = 8000 y no 8100 porque agregaste 100 de más en la suma. -->
-- [ ] D) $1.000
+- [ ] C) $1.000
   <!-- feedback: Incorrecto. Restaste 4200 - 3200 sin sentido porque el problema pide sumar las dos compras. -->
+- [x] D) $8.000
+  <!-- feedback: Correcto. 4200 + 3800 = 8000 porque se suman los dos valores de la compra. -->
 
 ### Explicacion Pedagogica
 El total es la suma de las partes: $4.200 + $3.800 = $8.000. Se suma por posiciones: 200 + 800 = 1.000 y 4.000 + 3.000 = 7.000, total 8.000.
@@ -102,10 +105,11 @@ El total es la suma de las partes: $4.200 + $3.800 = $8.000. Se suma por posicio
 ¿Cuánto más cuesta el cono que la paleta?
 
 ### Opciones
-- [x] A) $750
-  <!-- feedback: Correcto. 3500 - 2750 = 750 porque la diferencia entre los dos precios es setecientos cincuenta pesos. -->
-- [ ] B) $1.750
+### Opciones
+- [ ] A) $1.750
   <!-- feedback: Incorrecto. 3500 - 2750 = 750 y no 1750 porque restaste mal las centenas de la operación. -->
+- [x] B) $750
+  <!-- feedback: Correcto. 3500 - 2750 = 750 porque la diferencia entre los dos precios es setecientos cincuenta pesos. -->
 - [ ] C) $6.250
   <!-- feedback: Incorrecto. Sumaste 3500 + 2750 = 6250 porque confundiste la diferencia con el total de la compra. -->
 - [ ] D) $250
@@ -125,14 +129,15 @@ La expresión cuánto más cuesta pide una resta: $3.500 - $2.750 = $750. La dif
 ¿Quién llegó primero, es decir, quién hizo el menor tiempo?
 
 ### Opciones
-- [x] A) Pedro, porque 12.40 es menor que 12.45 y que 12.54 al comparar las centésimas.
-  <!-- feedback: Correcto. 12.40 < 12.45 < 12.54 porque al comparar décimas y centésimas Pedro tiene el menor tiempo. -->
-- [ ] B) Sara, porque 12.54 tiene el número más grande y lo grande llega primero.
+### Opciones
+- [ ] A) Sara, porque 12.54 tiene el número más grande y lo grande llega primero.
   <!-- feedback: Incorrecto. 12.54 es el mayor tiempo porque en carreras gana el menor número, no el mayor. -->
-- [ ] C) Diego, porque 12.45 está en la mitad y la mitad siempre gana.
+- [ ] B) Diego, porque 12.45 está en la mitad y la mitad siempre gana.
   <!-- feedback: Incorrecto. 12.45 es mayor que 12.40 porque estar en la mitad del orden no significa ser el primero. -->
-- [ ] D) Pedro, porque 40 es mayor que 45.
+- [ ] C) Pedro, porque 40 es mayor que 45.
   <!-- feedback: Incorrecto. 40 es menor que 45 en las centésimas porque Pedro gana por tener el número menor, no el mayor. -->
+- [x] D) Pedro, porque 12.40 es menor que 12.45 y que 12.54 al comparar las centésimas.
+  <!-- feedback: Correcto. 12.40 < 12.45 < 12.54 porque al comparar décimas y centésimas Pedro tiene el menor tiempo. -->
 
 ### Explicacion Pedagogica
 En tiempos gana el menor. Se comparan décimas: todos tienen 4, luego centésimas: 0 < 5 < ... 12.40 < 12.45 < 12.54. Pedro es el primero.
@@ -147,6 +152,7 @@ En tiempos gana el menor. Se comparan décimas: todos tienen 4, luego centésima
 ### Enunciado
 ¿Cuál de los dos precios es mayor y por qué no basta con mirar el último dígito?
 
+### Opciones
 ### Opciones
 - [x] A) Don Luis, porque 5250 es mayor que 5205 al comparar las decenas dentro de los decimales.
   <!-- feedback: Correcto. 5250 > 5205 porque en la cifra de las decenas el 5 supera al 0 del otro precio. -->
@@ -171,12 +177,13 @@ Al comparar $5.250 y $5.205, las unidades de mil y centenas son iguales; la dife
 ¿Es correcta la afirmación del tendero?
 
 ### Opciones
-- [x] A) No, porque 2 x 2800 = 5600 y 5600 es mayor que 5000, así que faltan $600.
-  <!-- feedback: Correcto. 2 x 2800 = 5600 supera a 5000 porque el doble del precio excede el dinero disponible. -->
-- [ ] B) Sí, porque 2 + 2800 = 2802 y eso es menor que 5000.
+### Opciones
+- [ ] A) Sí, porque 2 + 2800 = 2802 y eso es menor que 5000.
   <!-- feedback: Incorrecto. 2 x 2800 = 5600 es el cálculo correcto porque sumar no halla el precio de 2 jugos. -->
-- [ ] C) Sí, porque 2 x 2800 = 4800 y sobran $200.
+- [ ] B) Sí, porque 2 x 2800 = 4800 y sobran $200.
   <!-- feedback: Incorrecto. 2 x 2800 = 5600 y no 4800 porque multiplicaste mal las unidades de mil. -->
+- [x] C) No, porque 2 x 2800 = 5600 y 5600 es mayor que 5000, así que faltan $600.
+  <!-- feedback: Correcto. 2 x 2800 = 5600 supera a 5000 porque el doble del precio excede el dinero disponible. -->
 - [ ] D) No, porque 2800 + 2800 = 4600 y faltan $400.
   <!-- feedback: Incorrecto. 2800 + 2800 = 5600 y no 4600 porque sumaste mal las centenas del precio. -->
 
@@ -194,10 +201,11 @@ Dos jugos cuestan 2 x $2.800 = $5.600. Como $5.600 > $5.000, no alcanza y faltan
 ¿Cuál opción deja más dinero sin gastar y cuánto deja?
 
 ### Opciones
-- [x] A) La opción B, porque 3200 x 2 + 2800 = 9200 y 10000 - 9200 = 800, mientras la A solo deja $300.
-  <!-- feedback: Correcto. 3200 x 2 + 2800 = 9200 y 10000 - 9200 = 800 porque la opción B gasta menos que los 9700 de la A. -->
-- [ ] B) Ninguna deja ahorro, porque 6500 + 3200 = 10700 supera los $10.000.
+### Opciones
+- [ ] A) Ninguna deja ahorro, porque 6500 + 3200 = 10700 supera los $10.000.
   <!-- feedback: Incorrecto. 6500 + 3200 = 9700 y no 10700 porque sumaste mal los miles de la opción A. -->
+- [x] B) La opción B, porque 3200 x 2 + 2800 = 9200 y 10000 - 9200 = 800, mientras la A solo deja $300.
+  <!-- feedback: Correcto. 3200 x 2 + 2800 = 9200 y 10000 - 9200 = 800 porque la opción B gasta menos que los 9700 de la A. -->
 - [ ] C) La opción A deja más, porque 6500 + 3200 = 9700 y 10000 - 9700 = 300 es mayor que 800.
   <!-- feedback: Incorrecto. 300 es menor que 800 porque comparaste al revés los ahorros de las dos opciones. -->
 - [ ] D) La A es mejor porque 9700 es mayor que 9200 y gastar más siempre es mejor.
