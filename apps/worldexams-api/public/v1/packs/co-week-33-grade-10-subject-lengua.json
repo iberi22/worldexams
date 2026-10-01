@@ -84,7 +84,7 @@
         }
       ],
       "correct_answer": "B",
-      "explanation": "Al resumir hay un orden: primero se conserva la estructura lógica del texto (planteamiento, desarrollo, cierre) y sus datosadobe; después se recortan repeticiones, digresiones y ejemplos secundarios. Quitar primero la evidencia deja un resumen sin base, aunque por su tamaño parezca más claro.",
+      "explanation": "Al resumir hay un orden: primero se conserva la estructura lógica del texto (planteamiento, desarrollo, cierre) y sus datos de apoyo; después se recortan repeticiones, digresiones y ejemplos secundarios. Quitar primero la evidencia deja un resumen sin base, aunque por su tamaño parezca más claro.",
       "difficulty": "4",
       "images": [],
       "tags": [],
@@ -148,7 +148,7 @@
     {
       "id": "CO-LEN-10-2026-W33-el-resumen-y-la-sintesis-textual-001-MASTERY-bundle-v4",
       "statement": "¿Cuál de los siguientes es el procedimiento correcto para construir el resumen de ese informe?",
-      "context": "En el Colegio Francisco de Paula Santander de Bucaramanga, un estudiante debe resumir un informe de dos páginas para la reunión de“My plan”.",
+      "context": "En el Colegio Francisco de Paula Santander de Bucaramanga, un estudiante debe resumir un informe de dos páginas para la reunión del plan de trabajo.",
       "options": [
         {
           "letter": "A",
@@ -440,7 +440,7 @@
         },
         {
           "letter": "C",
-          "text": "El exceso de concisión, que produce incomprensión en cualquier texto sin importar cómo se selev,[b]selected.",
+          "text": "El exceso de concisión, que produce incomprensión en cualquier texto sin importar cómo se selections.",
           "is_correct": false,
           "feedback": "Incorrecto. Ser conciso no es defectuoso por sí mismo: un resumen puede ser breve y comprensible. Aquí el daño está en una omisión concreta (la definición), no en la extensión."
         },
@@ -482,7 +482,7 @@
           "letter": "B",
           "text": "Omitir el reporte técnico, porque sus datos son difíciles de explicar en unas pocas líneas.",
           "is_correct": false,
-          "feedback": "Incorrecto. Descartar la fuente más incómoda por ENGINEERING de redacción empobrece la síntesis. Los datos se pueden condensar sin perderlos: lo que no cabe en pocas líneas se reduce, no se suprime."
+          "feedback": "Incorrecto. Descartar la fuente más incómoda por easiest de redacción empobrece la síntesis. Los datos se pueden condensar sin perderlos: lo que no cabe en pocas líneas se reduce, no se suprime."
         },
         {
           "letter": "C",
@@ -528,7 +528,7 @@
           "letter": "B",
           "text": "El evaluador tiene razón, siempre que la extensión se limite a una página, porque la brevedad es el criterio principal.",
           "is_correct": false,
-          "feedback": "Incorrecto. La extensión es un requisito secondary y no un criterio de calidad: una página puede estar vacía de contenido o saturada de datos sin jerarquizar. Lo que se mide es la recuperación del sentido."
+          "feedback": "Incorrecto. La extensión es un requisito secundario y no un criterio de calidad: una página puede estar vacía de contenido o saturada de datos sin jerarquizar. Lo que se mide es la recuperación del sentido."
         },
         {
           "letter": "C",
