@@ -55,9 +55,9 @@ El texto argumentativo busca persuadir al lector mediante razones. Su núcleo es
 Según el DBA, ¿qué diferencia separa a esa afirmación de una simple opinión?
 
 ### Opciones
-- [x] A) La afirmación es verificable con datos, mientras la opinión expresa una creencia personal sin comprobación. <!-- feedback: Correcto. La afirmación se puede verificar con datos, porque la opinión expresa una creencia personal y no admite comprobación objetiva. -->
-- [ ] B) La afirmación usa segunda persona y la opinión usa primera persona. <!-- feedback: Incorrecto. La persona gramatical no define el carácter del enunciado, porque tanto afirmaciones como opiniones pueden enunciarse en cualquier persona. -->
-- [ ] C) La afirmación es larga y la opinión es corta, porque toda opinión es breve. <!-- feedback: Incorrecto. La longitud no distingue una categoría de la otra, porque existen opiniones extensas y afirmaciones breves y el criterio es la verificabilidad. -->
+- [ ] A) La afirmación usa segunda persona y la opinión usa primera persona. <!-- feedback: Incorrecto. La persona gramatical no define el carácter del enunciado, porque tanto afirmaciones como opiniones pueden enunciarse en cualquier persona. -->
+- [ ] B) La afirmación es larga y la opinión es corta, porque toda opinión es breve. <!-- feedback: Incorrecto. La longitud no distingue una categoría de la otra, porque existen opiniones extensas y afirmaciones breves y el criterio es la verificabilidad. -->
+- [x] C) La afirmación es verificable con datos, mientras la opinión expresa una creencia personal sin comprobación. <!-- feedback: Correcto. La afirmación se puede verificar con datos, porque la opinión expresa una creencia personal y no admite comprobación objetiva. -->
 - [ ] D) La afirmación nombra al destinatario y la opinión no puede dirigirse a nadie. <!-- feedback: Incorrecto. El destinatario depende del contexto comunicativo, porque una opinión también puede dirigirse a una autoridad. -->
 
 ### Explicacion Pedagogica
@@ -74,8 +74,8 @@ Una afirmación es un enunciado que puede comprobarse mediante evidencia. Una op
 ¿Qué elemento de la plica determina a qué autoridad se dirige y con qué intención?
 
 ### Opciones
-- [x] A) El encabezado y la fórmula de salutación, que identifican destinatario y canal de comunicación. <!-- feedback: Correcto. El encabezado y la fórmula de salutación identifican al destinatario y el canal, porque sitúan el contexto comunicativo del escrito. -->
-- [ ] B) El tamaño de la letra del texto, porque una carta a un superior debe imprimirse en letra grande. <!-- feedback: Incorrecto. El formato tipográfico no determina destinatario ni intención, porque esos elementos se codifican en el encabezado y la salutación. -->
+- [ ] A) El tamaño de la letra del texto, porque una carta a un superior debe imprimirse en letra grande. <!-- feedback: Incorrecto. El formato tipográfico no determina destinatario ni intención, porque esos elementos se codifican en el encabezado y la salutación. -->
+- [x] B) El encabezado y la fórmula de salutación, que identifican destinatario y canal de comunicación. <!-- feedback: Correcto. El encabezado y la fórmula de salutación identifican al destinatario y el canal, porque sitúan el contexto comunicativo del escrito. -->
 - [ ] C) La cantidad de datos citados, porque el volumen de cifras señala a la autoridad competente. <!-- feedback: Incorrecto. La cantidad de evidencia apoya la petición, porque no define a qué autoridad se escribe ni cuál es el canal formal. -->
 - [ ] D) El color de la tinta, porque la escritura oficial exige un color institucional. <!-- feedback: Incorrecto. No existe tal codificación, porque el color de la tinta no comunica destinatario ni intención en una plica. -->
 
@@ -93,10 +93,10 @@ La plica es un texto argumentativo con una estructura formal que sitúa al autor
 ¿Qué función cumple el reconocimiento del presupuesto limitado?
 
 ### Opciones
-- [x] A) La del contraargumento, porque anticipa una objeción y la incorpora para fortalecer la petición. <!-- feedback: Correcto. Reconocer la restricción presupuestal funciona como contraargumento, porque anticipa la objeción y la incorpora para fortalecer la petición. -->
-- [ ] B) La de la evidencia, porque los datos presupuestales sustituyen los argumentos. <!-- feedback: Incorrecto. El dato presupuestal apoya el argumento, porque no lo sustituye y sigue haciendo falta una razón que conecte presupuesto y petición. -->
-- [ ] C) La de la conclusión, porque cierra la plica antes de la firma. <!-- feedback: Incorrecto. La conclusión cierra el cuerpo del texto, porque este reconocimiento está intermedio y cumple una función argumentativa. -->
-- [ ] D) La del saludo, porque introduce el tema dentro de la salutación formal. <!-- feedback: Incorrecto. La salutación es una fórmula fija de apertura, porque no contiene la objeción que pertenece al desarrollo argumentativo. -->
+- [ ] A) La de la evidencia, porque los datos presupuestales sustituyen los argumentos. <!-- feedback: Incorrecto. El dato presupuestal apoya el argumento, porque no lo sustituye y sigue haciendo falta una razón que conecte presupuesto y petición. -->
+- [ ] B) La de la conclusión, porque cierra la plica antes de la firma. <!-- feedback: Incorrecto. La conclusión cierra el cuerpo del texto, porque este reconocimiento está intermedio y cumple una función argumentativa. -->
+- [ ] C) La del saludo, porque introduce el tema dentro de la salutación formal. <!-- feedback: Incorrecto. La salutación es una fórmula fija de apertura, porque no contiene la objeción que pertenece al desarrollo argumentativo. -->
+- [x] D) La del contraargumento, porque anticipa una objeción y la incorpora para fortalecer la petición. <!-- feedback: Correcto. Reconocer la restricción presupuestal funciona como contraargumento, porque anticipa la objeción y la incorpora para fortalecer la petición. -->
 
 ### Explicacion Pedagogica
 El contraargumento da credibilidad al texto porque muestra que el autor conoce los límites del problema. Incorporarlo no debilita la postura: la vuelve más sólida y más persuasiva. Saber evalúa esta capacidad en ítems de análisis discursivo.
@@ -131,9 +131,9 @@ La evidencia solo cumple su función si es pertinente, es decir, si se relaciona
 ¿Qué función cumple ese párrafo final dentro de la estructura de la plica?
 
 ### Opciones
-- [x] A) La de la despedida y la firma, que formalizan el cierre del escrito y su responsable. <!-- feedback: Correcto. Ese párrafo cumple la despedida y la firma, porque formalizan el cierre del escrito y dan responsabilidad al autor. -->
-- [ ] B) La de la tesis, porque en la plica la postura se declara al final. <!-- feedback: Incorrecto. En la plica la postura suele enunciarse temprano, porque el cierre es formal y no argumentativo. -->
-- [ ] C) La del contraargumento, porque anticipa la respuesta negativa del destinatario. <!-- feedback: Incorrecto. El cierre no anticipa objeciones, porque su función es formal con la despedida, la firma, el lugar y la fecha. -->
+- [ ] A) La de la tesis, porque en la plica la postura se declara al final. <!-- feedback: Incorrecto. En la plica la postura suele enunciarse temprano, porque el cierre es formal y no argumentativo. -->
+- [ ] B) La del contraargumento, porque anticipa la respuesta negativa del destinatario. <!-- feedback: Incorrecto. El cierre no anticipa objeciones, porque su función es formal con la despedida, la firma, el lugar y la fecha. -->
+- [x] C) La de la despedida y la firma, que formalizan el cierre del escrito y su responsable. <!-- feedback: Correcto. Ese párrafo cumple la despedida y la firma, porque formalizan el cierre del escrito y dan responsabilidad al autor. -->
 - [ ] D) La de la evidencia, porque resume los datos más importantes del texto. <!-- feedback: Incorrecto. Un resumen de datos pertenece a la conclusión argumentativa, porque el cierre de la plica es una fórmula de cortesía. -->
 
 ### Explicacion Pedagogica
@@ -150,8 +150,8 @@ La plica tiene una estructura formal cerrada que incluye despedida, firma, lugar
 ¿Qué efecto argumentativo tiene ese orden?
 
 ### Opciones
-- [x] A) Refuerza la petición, porque la objeción queda incorporada y la propuesta se vuelve más difícil de rechazar. <!-- feedback: Correcto. Responder la objeción principal antes de pedir refuerza la petición, porque la propuesta llega ya depurada y con menos puntos débiles. -->
-- [ ] B) Debilita la petición, porque mencionar una objeción confirma que el problema es real. <!-- feedback: Incorrecto. Mencionar una objeción no confirma el problema ni debilita la postura, porque la resuelve y eso hace la propuesta más sólida. -->
+- [ ] A) Debilita la petición, porque mencionar una objeción confirma que el problema es real. <!-- feedback: Incorrecto. Mencionar una objeción no confirma el problema ni debilita la postura, porque la resuelve y eso hace la propuesta más sólida. -->
+- [x] B) Refuerza la petición, porque la objeción queda incorporada y la propuesta se vuelve más difícil de rechazar. <!-- feedback: Correcto. Responder la objeción principal antes de pedir refuerza la petición, porque la propuesta llega ya depurada y con menos puntos débiles. -->
 - [ ] C) Convierte la plica en un diálogo, porque el texto reproduce la voz del destinatario. <!-- feedback: Incorrecto. Reproducir una objeción no convierte el texto en diálogo, porque la plica sigue siendo un escrito monológico y unidireccional. -->
 - [ ] D) Alarga el texto sin aporte, porque toda objeción consume espacio sin función argumentativa. <!-- feedback: Incorrecto. La objeción cumple una función precisa, prevenir el rechazo, porque su inclusión es una ganancia argumentativa y no un gasto. -->
 
@@ -169,10 +169,10 @@ La secuencia discursiva importa tanto como el contenido de los argumentos. Prese
 Según la relación entre evidencia y conclusión, ¿qué falla en ese razonamiento?
 
 ### Opciones
-- [x] A) La evidencia no sostiene la conclusión: la ausencia de observación personal no equivale a la ausencia del hecho. <!-- feedback: Correcto. Hay un salto lógico inválido, porque no haber visto violencia no prueba que no exista y la observación es una muestra mínima. -->
-- [ ] B) La conclusión es válida, porque el personaje es testigo directo de la vida de la ciudad. <!-- feedback: Incorrecto. Ser testigo directo de una zona no equivale a evidencia exhaustiva, porque el personaje solo conoce lo que le ha ocurrido. -->
-- [ ] C) Faltan datos cuantitativos, porque toda afirmación exige cifras. <!-- feedback: Incorrecto. No toda afirmación exige cifras, porque lo que falla aquí es la validez del razonamiento y no el formato cuantitativo. -->
-- [ ] D) El razonamiento es inductivo y por eso falla, cuando en realidad es deductivo válido. <!-- feedback: Incorrecto. El problema no es el tipo de inferencia, porque una generalización sin base sigue siendo inválida sea inductiva o deductiva. -->
+- [ ] A) La conclusión es válida, porque el personaje es testigo directo de la vida de la ciudad. <!-- feedback: Incorrecto. Ser testigo directo de una zona no equivale a evidencia exhaustiva, porque el personaje solo conoce lo que le ha ocurrido. -->
+- [ ] B) Faltan datos cuantitativos, porque toda afirmación exige cifras. <!-- feedback: Incorrecto. No toda afirmación exige cifras, porque lo que falla aquí es la validez del razonamiento y no el formato cuantitativo. -->
+- [ ] C) El razonamiento es inductivo y por eso falla, cuando en realidad es deductivo válido. <!-- feedback: Incorrecto. El problema no es el tipo de inferencia, porque una generalización sin base sigue siendo inválida sea inductiva o deductiva. -->
+- [x] D) La evidencia no sostiene la conclusión: la ausencia de observación personal no equivale a la ausencia del hecho. <!-- feedback: Correcto. Hay un salto lógico inválido, porque no haber visto violencia no prueba que no exista y la observación es una muestra mínima. -->
 
 ### Explicacion Pedagogica
 Un razonamiento argumentativo exige que la evidencia tenga alcance suficiente para sostener la conclusión. La observación personal es una muestra mínima y no permite generalizar sobre toda la realidad. Detectar ese salto es una competencia evaluativa de alto nivel.
@@ -207,9 +207,9 @@ La evidencia no determina por sí sola la conclusión: quien la interpreta elige
 ¿Qué efecto pragmático tienen esas expresiones?
 
 ### Opciones
-- [x] A) Presentan la afirmación como un hecho indiscutible y reducen la disposición del lector a discutirla. <!-- feedback: Correcto. Esas fórmulas presentan el enunciado como indiscutible, porque reducen la disposición del lector a contrastarlo. -->
-- [ ] B) Aportan evidencia nueva, porque sustituyen los datos que el texto no incluye. <!-- feedback: Incorrecto. Esas fórmulas no aportan evidencia, porque son marcas discursivas que simulan certeza sin sostenerla con datos verificables. -->
-- [ ] C) Marcan una transición temporal, porque anuncian un cambio de etapa en el argumento. <!-- feedback: Incorrecto. Su función no es temporal, porque son recursos de modalización que presentan el grado de certeza del enunciador. -->
+- [ ] A) Aportan evidencia nueva, porque sustituyen los datos que el texto no incluye. <!-- feedback: Incorrecto. Esas fórmulas no aportan evidencia, porque son marcas discursivas que simulan certeza sin sostenerla con datos verificables. -->
+- [ ] B) Marcan una transición temporal, porque anuncian un cambio de etapa en el argumento. <!-- feedback: Incorrecto. Su función no es temporal, porque son recursos de modalización que presentan el grado de certeza del enunciador. -->
+- [x] C) Presentan la afirmación como un hecho indiscutible y reducen la disposición del lector a discutirla. <!-- feedback: Correcto. Esas fórmulas presentan el enunciado como indiscutible, porque reducen la disposición del lector a contrastarlo. -->
 - [ ] D) Reducen la extensión del texto, porque reemplazan varias frases por una expresión. <!-- feedback: Incorrecto. Aunque comprimir el enunciado en una fórmula es un efecto real, la pregunta pide el efecto porque evalúa la disposición del lector. -->
 
 ### Explicacion Pedagogica
@@ -226,8 +226,8 @@ Los recursos de modalización y las fórmulas de certeza comunican una posición
 ¿Qué juicio es más sólido sobre esa limitación?
 
 ### Opciones
-- [x] A) Es defendible porque uniforma el objetivo, pero reduce el margen de argumentación propia de cada autor. <!-- feedback: Correcto. El juicio pondera el beneficio y el costo, porque la uniformación asegura el objetivo y reduce el margen de argumentación personal. -->
-- [ ] B) Es siempre positiva, porque todos los textos con la misma tesis son necesariamente equivalentes. <!-- feedback: Incorrecto. Compartir tesis no implica equivalencia, porque la calidad sigue dependiendo de la evidencia y la coherencia de cada autor. -->
+- [ ] A) Es siempre positiva, porque todos los textos con la misma tesis son necesariamente equivalentes. <!-- feedback: Incorrecto. Compartir tesis no implica equivalencia, porque la calidad sigue dependiendo de la evidencia y la coherencia de cada autor. -->
+- [x] B) Es defendible porque uniforma el objetivo, pero reduce el margen de argumentación propia de cada autor. <!-- feedback: Correcto. El juicio pondera el beneficio y el costo, porque la uniformación asegura el objetivo y reduce el margen de argumentación personal. -->
 - [ ] C) Es siempre negativa, porque ninguna actividad puede evaluar a más de un estudiante a la vez. <!-- feedback: Incorrecto. Esa generalización es falsa, porque pueden evaluarse muchos textos y lo pertinente es valorar el efecto de la restricción. -->
 - [ ] D) Es irrelevante, porque el contenido de la tesis no altera la evaluación del proceso argumentativo. <!-- feedback: Incorrecto. El contenido sí influye en la evaluación, porque fija el punto de partida y condiciona qué evidencia resulta pertinente. -->
 
@@ -245,10 +245,10 @@ Evaluar una restricción didáctica exige pesar lo que aporta y lo que restringe
 ¿Qué razonamiento sostiene mejor esa comparación?
 
 ### Opciones
-- [x] A) Que el destinatario cambia el registro y la estrategia, porque la autoridad decide y el medio difunde. <!-- feedback: Correcto. El razonamiento compara destinatarios, porque ante la autoridad se solicita una decisión y ante el medio se busca difundir. -->
-- [ ] B) Que la plica al alcalde es mejor, porque tiene más autoridad que la dirigida al medio. <!-- feedback: Incorrecto. Esa comparación confunde el soporte institucional con la calidad, porque lo pertinente es el ajuste al destinatario. -->
-- [ ] C) Que las dos plicas son idénticas, porque el contenido de la petición es el mismo. <!-- feedback: Incorrecto. El contenido idéntico no implica textos idénticos, porque el registro y la estrategia cambian con el destinatario. -->
-- [ ] D) Que la plica al medio es mejor, porque en los medios todo se acepta sin filtro. <!-- feedback: Incorrecto. Esa conclusión supone que en los medios no hay filtro, porque sí los tienen y sus criterios editoriales condicionan el escrito. -->
+- [ ] A) Que la plica al alcalde es mejor, porque tiene más autoridad que la dirigida al medio. <!-- feedback: Incorrecto. Esa comparación confunde el soporte institucional con la calidad, porque lo pertinente es el ajuste al destinatario. -->
+- [ ] B) Que las dos plicas son idénticas, porque el contenido de la petición es el mismo. <!-- feedback: Incorrecto. El contenido idéntico no implica textos idénticos, porque el registro y la estrategia cambian con el destinatario. -->
+- [ ] C) Que la plica al medio es mejor, porque en los medios todo se acepta sin filtro. <!-- feedback: Incorrecto. Esa conclusión supone que en los medios no hay filtro, porque sí los tienen y sus criterios editoriales condicionan el escrito. -->
+- [x] D) Que el destinatario cambia el registro y la estrategia, porque la autoridad decide y el medio difunde. <!-- feedback: Correcto. El razonamiento compara destinatarios, porque ante la autoridad se solicita una decisión y ante el medio se busca difundir. -->
 
 ### Explicacion Pedagogica
 El análisis de la situación comunicativa explica por qué un mismo contenido produce textos distintos. Destinatatario, propósito y canal configuran el registro adecuado. Evaluar esa variación demuestra comprensión de la competencia comunicativa del DBA.

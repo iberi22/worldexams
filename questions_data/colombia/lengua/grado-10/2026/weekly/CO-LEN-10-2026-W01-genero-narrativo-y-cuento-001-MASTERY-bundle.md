@@ -55,9 +55,9 @@ La fábula es una narración breve que usa animales con rasgos humanos para exem
 ¿Cuál es la diferencia que mejor explica por qué la primera lectura se clasifica como relato y la segunda como cuento?
 
 ### Opciones
-- [x] A) El relato es más extenso y desarrolla varios episodios, mientras el cuento se concentra en una sola situación. <!-- feedback: Correcto. El "relato" sostiene una línea narrativa larga con varios episodios, mientras el "cuento" corresponde por su brevedad a una sola situación. -->
-- [ ] B) El relato usa únicamente segunda persona y el cuento usa únicamente tercera persona. <!-- feedback: Incorrecto. La "persona narrativa" es un recurso libre, porque un relato puede narrarse en primera, segunda o tercera sin dejar de ser relato. -->
-- [ ] C) Ambos son el mismo género porque cualquier narración de ficción es un relato. <!-- feedback: Incorrecto. Esa opción confunde la "categoría general" con la especie, porque cuento y relato se distinguen por extensión y densidad de hechos narrados. -->
+- [ ] A) El relato usa únicamente segunda persona y el cuento usa únicamente tercera persona. <!-- feedback: Incorrecto. La "persona narrativa" es un recurso libre, porque un relato puede narrarse en primera, segunda o tercera sin dejar de ser relato. -->
+- [ ] B) Ambos son el mismo género porque cualquier narración de ficción es un relato. <!-- feedback: Incorrecto. Esa opción confunde la "categoría general" con la especie, porque cuento y relato se distinguen por extensión y densidad de hechos narrados. -->
+- [x] C) El relato es más extenso y desarrolla varios episodios, mientras el cuento se concentra en una sola situación. <!-- feedback: Correcto. El "relato" sostiene una línea narrativa larga con varios episodios, mientras el "cuento" corresponde por su brevedad a una sola situación. -->
 - [ ] D) El relato solamente puede narrar época colonial y el cuento, únicamente época contemporánea. <!-- feedback: Incorrecto. La "época narrada" es un dato de la historia, porque no funciona como criterio de clasificación de género narrativo. -->
 
 ### Explicacion Pedagogica
@@ -74,8 +74,8 @@ El cuento se caracteriza por su concisión: condensa la acción en un núcleo ú
 Según la tradición folclórica colombiana, ¿a qué figura corresponde esa descripción?
 
 ### Opciones
-- [x] A) A la chimola, figura femenina del folclore del Caribe que separa o deshace las parejas. <!-- feedback: Correcto. La "chimola" pertenece al folclore de la Costa Caribe y su rasgo consiste justamente en separar a los miembros de una pareja. -->
-- [ ] B) Al duende de Sopó, criatura que protege los maices del campo. <!-- feedback: Incorrecto. El "duende de Sopó" pertenece al folclore de Boyacá y Cundinamarca y cumple la función de proteger las cosechas, porque no separa parejas. -->
+- [ ] A) Al duende de Sopó, criatura que protege los maices del campo. <!-- feedback: Incorrecto. El "duende de Sopó" pertenece al folclore de Boyacá y Cundinamarca y cumple la función de proteger las cosechas, porque no separa parejas. -->
+- [x] B) A la chimola, figura femenina del folclore del Caribe que separa o deshace las parejas. <!-- feedback: Correcto. La "chimola" pertenece al folclore de la Costa Caribe y su rasgo consiste justamente en separar a los miembros de una pareja. -->
 - [ ] C) Al Mohán, ser de los Llanos que aparece en las trampas del campo. <!-- feedback: Incorrecto. El "Mohán" circula en la tradición de los Llanos Orientales y se asocia a engaños del campo, porque su función no consiste en separar parejas. -->
 - [ ] D) A la Patasola, mito de la Sabana de Bogotá que ronda en las noches del centro. <!-- feedback: Incorrecto. La "Patasola" pertenece a la tradición de la Sabana de Bogotá y su rasgo consiste en el acecho nocturno, porque no desune parejas. -->
 
@@ -93,10 +93,10 @@ El folclore colombiano es regional: cada zona del país tiene figuras propias. R
 ¿Cuál secuencia representa correctamente el orden de la trama del relato descrito?
 
 ### Opciones
-- [x] A) Planteamiento del conflicto, nudo o clímax y desenlace. <!-- feedback: Correcto. La trama se organiza en "planteamiento", "nudo" y "desenlace", y ese es el orden que sigue la secuencia descrita. -->
-- [ ] B) Desenlace, planteamiento y nudo, porque la narración se cuenta desde el final. <!-- feedback: Incorrecto. Invertir ese orden rompe la "causalidad narrativa", porque el clímax genera el desenlace y no al revés. -->
-- [ ] C) Nudo, planteamiento y desenlace, porque el conflicto siempre se presenta primero. <!-- feedback: Incorrecto. El "planteamiento" presenta personajes y situación inicial, porque si el nudo se adelantara faltarían los datos del conflicto. -->
-- [ ] D) Planteamiento, desenlace y nudo, porque el desenlace explica lo ocurrido antes del conflicto. <!-- feedback: Incorrecto. El "desenlace" resuelve el conflicto ya planteado, porque no puede aparecer antes del nudo del que depende. -->
+- [ ] A) Desenlace, planteamiento y nudo, porque la narración se cuenta desde el final. <!-- feedback: Incorrecto. Invertir ese orden rompe la "causalidad narrativa", porque el clímax genera el desenlace y no al revés. -->
+- [ ] B) Nudo, planteamiento y desenlace, porque el conflicto siempre se presenta primero. <!-- feedback: Incorrecto. El "planteamiento" presenta personajes y situación inicial, porque si el nudo se adelantara faltarían los datos del conflicto. -->
+- [ ] C) Planteamiento, desenlace y nudo, porque el desenlace explica lo ocurrido antes del conflicto. <!-- feedback: Incorrecto. El "desenlace" resuelve el conflicto ya planteado, porque no puede aparecer antes del nudo del que depende. -->
+- [x] D) Planteamiento del conflicto, nudo o clímax y desenlace. <!-- feedback: Correcto. La trama se organiza en "planteamiento", "nudo" y "desenlace", y ese es el orden que sigue la secuencia descrita. -->
 
 ### Explicacion Pedagogica
 La trama tiene tres movimientos: planteamiento, nudo y desenlace. Identificarlos en un texto concreto es una habilidad de aplicación y no solo de memoria. Saber evalúa con frecuencia este tipo de ítems entregando un fragmento narrativo y cuatro secuencias posibles.
@@ -131,9 +131,9 @@ La persona narrativa determina el acceso del lector a la información. En la pri
 Según el enunciado, ¿qué dimensiones del relato están claramente marcadas?
 
 ### Opciones
-- [x] A) El tiempo, comprimido en un atardecer, y el espacio, delimitado a una calle del barrio. <!-- feedback: Correcto. Las dimensiones de "tiempo" y "espacio" están marcadas, porque el tiempo se reduce a un atardecer y el espacio a una calle del barrio. -->
-- [ ] B) El tiempo y el espacio, porque ambos se mencionan en la portada de la colección. <!-- feedback: Incorrecto. El "tiempo" y el "espacio" no son datos de portada, porque se deducen del enunciado según la duración y el lugar de los hechos. -->
-- [ ] C) Solo el tiempo, porque el espacio de la calle no cuenta como ambiente del relato. <!-- feedback: Incorrecto. La "calle" sí funciona como ambiente o espacio del relato, porque descartar ese dato equivoca la lectura del enunciado. -->
+- [ ] A) El tiempo y el espacio, porque ambos se mencionan en la portada de la colección. <!-- feedback: Incorrecto. El "tiempo" y el "espacio" no son datos de portada, porque se deducen del enunciado según la duración y el lugar de los hechos. -->
+- [ ] B) Solo el tiempo, porque el espacio de la calle no cuenta como ambiente del relato. <!-- feedback: Incorrecto. La "calle" sí funciona como ambiente o espacio del relato, porque descartar ese dato equivoca la lectura del enunciado. -->
+- [x] C) El tiempo, comprimido en un atardecer, y el espacio, delimitado a una calle del barrio. <!-- feedback: Correcto. Las dimensiones de "tiempo" y "espacio" están marcadas, porque el tiempo se reduce a un atardecer y el espacio a una calle del barrio. -->
 - [ ] D) Solo el espacio, porque el atardecer es una descripción del clima y no del tiempo. <!-- feedback: Incorrecto. El "atardecer" sí delimita el tiempo narrativo, porque el clima es un dato del ambiente y no su sustituto. -->
 
 ### Explicacion Pedagogica
@@ -150,8 +150,8 @@ Toda narración ficcional sitúa los hechos en un tiempo y en un espacio. Ambos 
 ¿De qué depende principalmente la diferencia entre ambas versiones?
 
 ### Opciones
-- [x] A) Del registro y de la función: la versión oral preserva la tradición comunitaria y la escrita la formaliza. <!-- feedback: Correcto. La diferencia proviene del "registro" y de la "función", porque la oral conserva la tradición comunitaria y la escrita la adapta a un formato formal. -->
-- [ ] B) Del número de personajes, porque las versiones escritas eliminan a los secundarios. <!-- feedback: Incorrecto. El "número de personajes" no es el criterio, porque la diferencia central consiste en el registro lingüístico y la función de cada versión. -->
+- [ ] A) Del número de personajes, porque las versiones escritas eliminan a los secundarios. <!-- feedback: Incorrecto. El "número de personajes" no es el criterio, porque la diferencia central consiste en el registro lingüístico y la función de cada versión. -->
+- [x] B) Del registro y de la función: la versión oral preserva la tradición comunitaria y la escrita la formaliza. <!-- feedback: Correcto. La diferencia proviene del "registro" y de la "función", porque la oral conserva la tradición comunitaria y la escrita la adapta a un formato formal. -->
 - [ ] C) De la extensión, porque toda versión escrita de un cuento es más corta que la oral. <!-- feedback: Incorrecto. La "extensión" no es el criterio diferencial, porque ambas versiones pueden tener igual longitud y aun así diferir por registro. -->
 - [ ] D) Del número de tesis, porque las versiones orales tienen más tesis argumentales. <!-- feedback: Incorrecto. La cantidad de "tesis argumentales" es un rasgo interno del relato, porque no explica la diferencia entre oralidad y escritura. -->
 
@@ -169,10 +169,10 @@ Un mismo relato cambia de significado según el medio y la intención de quien l
 ¿Qué afirmación describe mejor la relación entre los dos textos?
 
 ### Opciones
-- [x] A) Comparten una estructura fabular con variaciones culturales: cambian detalles, no la función básica. <!-- feedback: Correcto. Ambos textos comparten la "estructura fabular", porque lo que varía son detalles culturales y no la función básica del relato. -->
-- [ ] B) Son idénticos, porque ninguna versión añade un elemento nuevo al relato original. <!-- feedback: Incorrecto. Afirmar la "identidad absoluta" ignora las variaciones culturales de lenguaje y nombres propios de cada versión. -->
-- [ ] C) No tienen relación, porque uno pertenece a la tradición colombiana y el otro a la antigua tradición griega. <!-- feedback: Incorrecto. El "origen geográfico" no elimina el préstamo, porque las fábulas de ambas culturas se clasifican igual por su función argumental. -->
-- [ ] D) La relación es solo de género, porque el cuento colombiano no comparte tema con la fábula. <!-- feedback: Incorrecto. La relación no se limita al "género", porque ambos textos coinciden además en tema, trama y propósito de la enseñanza. -->
+- [ ] A) Son idénticos, porque ninguna versión añade un elemento nuevo al relato original. <!-- feedback: Incorrecto. Afirmar la "identidad absoluta" ignora las variaciones culturales de lenguaje y nombres propios de cada versión. -->
+- [ ] B) No tienen relación, porque uno pertenece a la tradición colombiana y el otro a la antigua tradición griega. <!-- feedback: Incorrecto. El "origen geográfico" no elimina el préstamo, porque las fábulas de ambas culturas se clasifican igual por su función argumental. -->
+- [ ] C) La relación es solo de género, porque el cuento colombiano no comparte tema con la fábula. <!-- feedback: Incorrecto. La relación no se limita al "género", porque ambos textos coinciden además en tema, trama y propósito de la enseñanza. -->
+- [x] D) Comparten una estructura fabular con variaciones culturales: cambian detalles, no la función básica. <!-- feedback: Correcto. Ambos textos comparten la "estructura fabular", porque lo que varía son detalles culturales y no la función básica del relato. -->
 
 ### Explicacion Pedagogica
 La competencia intertextual permite reconocer que los relatos viajan y se transforman entre culturas. Analizar qué se mantiene y qué cambia es el núcleo de esta pregunta, y es un ejercicio habitual en las pruebas Saber orientadas a lectura crítica.
@@ -207,9 +207,9 @@ La pragmática textual estudia cómo el formato comunica intención. Separar la 
 ¿Qué consecuencia tiene para el lector el cambio de punto de vista narrativo?
 
 ### Opciones
-- [x] A) Modifica lo que el lector sabe y en qué orden lo sabe, porque el narrador controla la información. <!-- feedback: Correcto. El "narrador" controla qué información llega y en qué momento, porque cambiar de punto de vista altera ese orden. -->
-- [ ] B) No altera nada, porque los hechos ocurren igual para todos los lectores. <!-- feedback: Incorrecto. Los hechos pueden ser los mismos, pero el "acceso a ellos" varía con el narrador y por eso sí cambia la información. -->
-- [ ] C) Solo cambia el ritmo de lectura, porque la extensión del texto permanece idéntica. <!-- feedback: Incorrecto. El efecto es de "información" y de confiabilidad, porque el lector sabe cosas distintas según quién narre. -->
+- [ ] A) No altera nada, porque los hechos ocurren igual para todos los lectores. <!-- feedback: Incorrecto. Los hechos pueden ser los mismos, pero el "acceso a ellos" varía con el narrador y por eso sí cambia la información. -->
+- [ ] B) Solo cambia el ritmo de lectura, porque la extensión del texto permanece idéntica. <!-- feedback: Incorrecto. El efecto es de "información" y de confiabilidad, porque el lector sabe cosas distintas según quién narre. -->
+- [x] C) Modifica lo que el lector sabe y en qué orden lo sabe, porque el narrador controla la información. <!-- feedback: Correcto. El "narrador" controla qué información llega y en qué momento, porque cambiar de punto de vista altera ese orden. -->
 - [ ] D) Elimina el conflicto, porque los dos puntos de vista neutralizan la tensión. <!-- feedback: Incorrecto. Multiplicar puntos de vista "no elimina" el conflicto, porque suele intensificarlo al aportar versiones distintas de lo ocurrido. -->
 
 ### Explicacion Pedagogica
@@ -226,8 +226,8 @@ El punto de vista es un mecanismo de control narrativo. Cuando cambia, el lector
 ¿Qué juicio es más sólido sobre esa reescritura?
 
 ### Opciones
-- [x] A) Mejora la comprensión y pierde identidad: gana en un sentido y pierde en otro, y el balance debe justificarse. <!-- feedback: Correcto. El juicio equilibrado pesa ambos efectos, porque la accesibilidad mejora y al mismo tiempo se pierde la identidad lingüística. -->
-- [ ] B) Es siempre positiva, porque la claridad es el único criterio válido de un texto literario. <!-- feedback: Incorrecto. Reducir la calidad literaria a la "claridad" es un error de criterio, porque la variedad dialectal también es valor del texto. -->
+- [ ] A) Es siempre positiva, porque la claridad es el único criterio válido de un texto literario. <!-- feedback: Incorrecto. Reducir la calidad literaria a la "claridad" es un error de criterio, porque la variedad dialectal también es valor del texto. -->
+- [x] B) Mejora la comprensión y pierde identidad: gana en un sentido y pierde en otro, y el balance debe justificarse. <!-- feedback: Correcto. El juicio equilibrado pesa ambos efectos, porque la accesibilidad mejora y al mismo tiempo se pierde la identidad lingüística. -->
 - [ ] C) Es siempre negativa, porque cualquier cambio de vocabulario daña la obra original. <!-- feedback: Incorrecto. Absolutizar el efecto negativo "también es un error", porque lo pertinente es valorar el cambio según sus efectos concretos. -->
 - [ ] D) Es irrelevante, porque la variación lingüística no afecta la comprensión del lector. <!-- feedback: Incorrecto. La "variación dialectal" influye en la comprensión y en la identidad del texto, porque su eliminación debe evaluarse. -->
 
@@ -245,10 +245,10 @@ Evaluar exige criterio explícito y balance de efectos. Un buen juicio detecta q
 ¿Qué razonamiento sostiene mejor esa recomendación?
 
 ### Opciones
-- [x] A) El cuento colombiano, porque conecta con la experiencia cultural local y permite analizar trama y personajes. <!-- feedback: Correcto. La recomendación se apoya en la "proximidad cultural", porque conectar con el público permite analizar trama y personajes en el foro. -->
-- [ ] B) La fábula de Esopo, porque al ser antigua garantiza que nadie la conoce y por eso será interesante. <!-- feedback: Incorrecto. Ese razonamiento es "circular", porque la antigüedad de un texto no garantiza interés para lectores actuales. -->
-- [ ] C) Cualquiera de las dos, porque en grado décimo todas las obras literarias tienen el mismo valor educativo. <!-- feedback: Incorrecto. La "igualdad valorativa" no es un razonamiento, porque un criterio debe considerar propósito, audiencia y habilidades. -->
-- [ ] D) Ninguna, porque la literatura debería evaluarse solo con criterios técnicos de redacción. <!-- feedback: Incorrecto. La literatura se evalúa por sus efectos "interpretativos y críticos", porque reducirla a la redacción es un error de propósito. -->
+- [ ] A) La fábula de Esopo, porque al ser antigua garantiza que nadie la conoce y por eso será interesante. <!-- feedback: Incorrecto. Ese razonamiento es "circular", porque la antigüedad de un texto no garantiza interés para lectores actuales. -->
+- [ ] B) Cualquiera de las dos, porque en grado décimo todas las obras literarias tienen el mismo valor educativo. <!-- feedback: Incorrecto. La "igualdad valorativa" no es un razonamiento, porque un criterio debe considerar propósito, audiencia y habilidades. -->
+- [ ] C) Ninguna, porque la literatura debería evaluarse solo con criterios técnicos de redacción. <!-- feedback: Incorrecto. La literatura se evalúa por sus efectos "interpretativos y críticos", porque reducirla a la redacción es un error de propósito. -->
+- [x] D) El cuento colombiano, porque conecta con la experiencia cultural local y permite analizar trama y personajes. <!-- feedback: Correcto. La recomendación se apoya en la "proximidad cultural", porque conectar con el público permite analizar trama y personajes en el foro. -->
 
 ### Explicacion Pedagogica
 Recomendar una obra exige sostener un criterio: público, propósito y habilidades que se desarrollan. El razonamiento más fuerte no es el que dice "me gustó", sino el que conecta la elección con un propósito comunicativo verificable. Esa es la diferencia entre una opinión y una valoración argumentada.

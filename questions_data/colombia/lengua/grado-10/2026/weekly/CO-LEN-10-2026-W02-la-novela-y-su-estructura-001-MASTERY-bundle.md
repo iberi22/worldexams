@@ -55,9 +55,9 @@ La novela se define por su extensión y por la construcción sostenida de una tr
 ¿Qué propiedad del narrador se identifica en ese fragmento?
 
 ### Opciones
-- [x] A) La omnisciencia, porque conoce hechos futuros y la vida interior de los personajes. <!-- feedback: Correcto. Conocer el futuro y la vida interior corresponde al narrador "omnisciente", porque domina la información total de la obra. -->
-- [ ] B) La objetividad, porque se limita a describir hechos sin añadir información. <!-- feedback: Incorrecto. La "objetividad" limita al narrador a hechos observables, porque saber lo que ocurrerá diez años después excede esa restricción. -->
-- [ ] C) La segunda persona, porque se dirige al lector con la palabra tú. <!-- feedback: Incorrecto. La "segunda persona" emplea "tú" y "usted", porque el fragmento describe al narrador desde su posición, no desde la del lector. -->
+- [ ] A) La objetividad, porque se limita a describir hechos sin añadir información. <!-- feedback: Incorrecto. La "objetividad" limita al narrador a hechos observables, porque saber lo que ocurrerá diez años después excede esa restricción. -->
+- [ ] B) La segunda persona, porque se dirige al lector con la palabra tú. <!-- feedback: Incorrecto. La "segunda persona" emplea "tú" y "usted", porque el fragmento describe al narrador desde su posición, no desde la del lector. -->
+- [x] C) La omnisciencia, porque conoce hechos futuros y la vida interior de los personajes. <!-- feedback: Correcto. Conocer el futuro y la vida interior corresponde al narrador "omnisciente", porque domina la información total de la obra. -->
 - [ ] D) El manejo del tiempo físico al tiempo narrativo, porque cuenta los hechos uno a uno. <!-- feedback: Incorrecto. Ese manejo del "tiempo narrativo" corresponde al narrador lineal, porque el elemento clave es el conocimiento del futuro. -->
 
 ### Explicacion Pedagogica
@@ -74,8 +74,8 @@ El narrador omnisciente es aquel que conoce más que sus personajes y que el lec
 Según el contexto, ¿qué condición hace que una novela pueda clasificarse como histórica?
 
 ### Opciones
-- [x] A) Que la trama se ubique en un pasado lejano y use datos documentales para reconstruirlo. <!-- feedback: Correcto. Ser "histórica" implica situar la trama en un pasado lejano y respaldarla con datos documentales que lo reconstruyen. -->
-- [ ] B) Que el autor haya nacido en el siglo pasado, porque solo entonces puede contarlo con rigor. <!-- feedback: Incorrecto. La condición no es la "fecha de nacimiento" del autor, porque lo definitorio es que la trama reconstruya un pasado documentado. -->
+- [ ] A) Que el autor haya nacido en el siglo pasado, porque solo entonces puede contarlo con rigor. <!-- feedback: Incorrecto. La condición no es la "fecha de nacimiento" del autor, porque lo definitorio es que la trama reconstruya un pasado documentado. -->
+- [x] B) Que la trama se ubique en un pasado lejano y use datos documentales para reconstruirlo. <!-- feedback: Correcto. Ser "histórica" implica situar la trama en un pasado lejano y respaldarla con datos documentales que lo reconstruyen. -->
 - [ ] C) Que esté escrita en pasado, porque cualquier uso del pretérito la convierte en histórica. <!-- feedback: Incorrecto. El "pretérito" aparece en cualquier narración, porque lo que define una novela histórica es la reconstrucción documental de una época. -->
 - [ ] D) Que incluya batallas como la de Waterloo, porque toda novela histórica narra combates. <!-- feedback: Incorrecto. Incluir "batallas" no es un criterio definitorio, porque una novela histórica puede tratar una época sin ningún combate. -->
 
@@ -93,10 +93,10 @@ La novela histórica reconstruye un período pasado con apoyo en fuentes documen
 Según el enunciado, ¿qué relación se establece entre el tiempo de los hechos y el tiempo de la narración?
 
 ### Opciones
-- [x] A) El tiempo de la narración es posterior al tiempo de los hechos, con un desfase de varios décadas. <!-- feedback: Correcto. Hay un "desfase" entre ambos tiempos, porque los hechos ocurren en 1932 y la testigo narra cuando ya tiene ochenta años. -->
-- [ ] B) El tiempo de la narración es simultáneo a los hechos, porque la testigo narra lo que ocurre en ese momento. <!-- feedback: Incorrecto. La "simultaneidad" es imposible, porque si la narración fuera de 1932 la testigo tendría la edad que tenía en ese año. -->
-- [ ] C) El tiempo de la narración es anterior a los hechos, porque la testigo anticipa lo que ocurrirá. <!-- feedback: Incorrecto. Ningún narrador cuenta desde el pasado hechos que "aún no ocurren", porque ese adelanto violaría la lógica temporal de la narración. -->
-- [ ] D) No hay relación entre ambos tiempos, porque cada uno se mide con una unidad distinta. <!-- feedback: Incorrecto. Los dos tiempos se miden con la "misma unidad", porque mantienen una relación de posterioridad y no son independientes. -->
+- [ ] A) El tiempo de la narración es simultáneo a los hechos, porque la testigo narra lo que ocurre en ese momento. <!-- feedback: Incorrecto. La "simultaneidad" es imposible, porque si la narración fuera de 1932 la testigo tendría la edad que tenía en ese año. -->
+- [ ] B) El tiempo de la narración es anterior a los hechos, porque la testigo anticipa lo que ocurrirá. <!-- feedback: Incorrecto. Ningún narrador cuenta desde el pasado hechos que "aún no ocurren", porque ese adelanto violaría la lógica temporal de la narración. -->
+- [ ] C) No hay relación entre ambos tiempos, porque cada uno se mide con una unidad distinta. <!-- feedback: Incorrecto. Los dos tiempos se miden con la "misma unidad", porque mantienen una relación de posterioridad y no son independientes. -->
+- [x] D) El tiempo de la narración es posterior al tiempo de los hechos, con un desfase de varios décadas. <!-- feedback: Correcto. Hay un "desfase" entre ambos tiempos, porque los hechos ocurren en 1932 y la testigo narra cuando ya tiene ochenta años. -->
 
 ### Explicacion Pedagogica
 La novela distingue entre el tiempo en que ocurren los hechos y el tiempo en que se narran. Cuando hay distancia entre ambos aparece un desfase que puede generar ironía, recuerdo o contraste. Reconocer esa relación temporal es esencial para interpretar la voz narrativa.
@@ -131,9 +131,9 @@ El narrador objetivo restringe la información a hechos verificables por los sen
 ¿A qué recurso de la estructura novelística corresponde esa apertura de capítulo?
 
 ### Opciones
-- [x] A) Al uso de un adelanto que anticipa el contenido del capítulo, es decir, una anticipación. <!-- feedback: Correcto. Abrir cada capítulo con un adelanto de lo que ocurre después es una "anticipación", recurso habitual de la estructura novelística. -->
-- [ ] B) A un epílogo, porque al final de la obra se resume lo ocurrido en los capítulos previos. <!-- feedback: Incorrecto. El "epílogo" cierra la obra después del desenlace, porque el recurso descrito aparece al inicio de cada capítulo y no al final. -->
-- [ ] C) A una digresión, porque el narrador se aparta del asunto central para distraer al lector. <!-- feedback: Incorrecto. Una "digresión" se aparta del tema central, porque el fragmento adelantado pertenece directamente a la trama del capítulo. -->
+- [ ] A) A un epílogo, porque al final de la obra se resume lo ocurrido en los capítulos previos. <!-- feedback: Incorrecto. El "epílogo" cierra la obra después del desenlace, porque el recurso descrito aparece al inicio de cada capítulo y no al final. -->
+- [ ] B) A una digresión, porque el narrador se aparta del asunto central para distraer al lector. <!-- feedback: Incorrecto. Una "digresión" se aparta del tema central, porque el fragmento adelantado pertenece directamente a la trama del capítulo. -->
+- [x] C) Al uso de un adelanto que anticipa el contenido del capítulo, es decir, una anticipación. <!-- feedback: Correcto. Abrir cada capítulo con un adelanto de lo que ocurre después es una "anticipación", recurso habitual de la estructura novelística. -->
 - [ ] D) A un comentario del autor, porque el narrador explica la intención de la obra. <!-- feedback: Incorrecto. No hay intervención del autor ni intención metaliteraria, porque el fragmento pertenece a la voz narrativa y anuncia hechos. -->
 
 ### Explicacion Pedagogica
@@ -150,8 +150,8 @@ La novela organiza su materia en capítulos y puede usar recursos como el adelan
 ¿Qué efecto produce esa estructura fragmentada en el lector?
 
 ### Opciones
-- [x] A) Genera un efecto de suspenso y de reconstrucción, porque la comprensión llega solo al final. <!-- feedback: Correcto. La estructura fragmentada produce "suspenso", porque la comprensión plena llega únicamente cuando los episodios convergen. -->
-- [ ] B) Elimina el conflicto, porque los personajes actúan en líneas narrativas independientes. <!-- feedback: Incorrecto. La pluralidad de líneas "no elimina" el conflicto, porque lo dispersa y lo vuelve más complejo al hacerlas converger. -->
+- [ ] A) Elimina el conflicto, porque los personajes actúan en líneas narrativas independientes. <!-- feedback: Incorrecto. La pluralidad de líneas "no elimina" el conflicto, porque lo dispersa y lo vuelve más complejo al hacerlas converger. -->
+- [x] B) Genera un efecto de suspenso y de reconstrucción, porque la comprensión llega solo al final. <!-- feedback: Correcto. La estructura fragmentada produce "suspenso", porque la comprensión plena llega únicamente cuando los episodios convergen. -->
 - [ ] C) Hace que la lectura sea lineal, porque el autor ordena los episodios por tiempo cronológico. <!-- feedback: Incorrecto. La fragmentación rompe justamente el "orden cronológico", porque si los episodios se presentaran por orden temporal no habría reconstrucción que hacer. -->
 - [ ] D) Reduce la ambigüedad, porque cada capítulo explica por sí mismo lo ocurrido. <!-- feedback: Incorrecto. La fragmentación aumenta la "ambigüedad", porque cada capítulo queda incompleto y el lector debe unir los fragmentos. -->
 
@@ -169,10 +169,10 @@ Una estructura no lineal obliga al lector a construir el significado. Esa operac
 ¿Qué propiedad del tiempo narrativo está en juego en ese ejercicio?
 
 ### Opciones
-- [x] A) La velocidad de la narración, que puede acelerar o detener el avance de los acontecimientos. <!-- feedback: Correcto. Lo que está en juego es la "velocidad de la narración", porque acelerar o detener el avance cambia la percepción del tiempo. -->
-- [ ] B) La fecha de publicación de la obra, que organiza los capítulos por año de impresión. <!-- feedback: Incorrecto. La "fecha de publicación" es un dato externo del libro, porque no explica cómo la narración gestiona el tiempo de los acontecimientos. -->
-- [ ] C) El número total de capítulos, que determina si la trama es larga o corta. <!-- feedback: Incorrecto. El "número de capítulos" mide extensión y no velocidad, porque dos novelas con igual número pueden tener ritmos muy distintos. -->
-- [ ] D) La cantidad de personajes, que incide en la rapidez con que avanza la trama. <!-- feedback: Incorrecto. La "cantidad de personajes" influye en la complejidad, porque la rapidez del tiempo depende del tratamiento del narrador. -->
+- [ ] A) La fecha de publicación de la obra, que organiza los capítulos por año de impresión. <!-- feedback: Incorrecto. La "fecha de publicación" es un dato externo del libro, porque no explica cómo la narración gestiona el tiempo de los acontecimientos. -->
+- [ ] B) El número total de capítulos, que determina si la trama es larga o corta. <!-- feedback: Incorrecto. El "número de capítulos" mide extensión y no velocidad, porque dos novelas con igual número pueden tener ritmos muy distintos. -->
+- [ ] C) La cantidad de personajes, que incide en la rapidez con que avanza la trama. <!-- feedback: Incorrecto. La "cantidad de personajes" influye en la complejidad, porque la rapidez del tiempo depende del tratamiento del narrador. -->
+- [x] D) La velocidad de la narración, que puede acelerar o detener el avance de los acontecimientos. <!-- feedback: Correcto. Lo que está en juego es la "velocidad de la narración", porque acelerar o detener el avance cambia la percepción del tiempo. -->
 
 ### Explicacion Pedagogica
 El tiempo narrativo no es homogéneo: puede acelerar o detenerse según lo que el narrador decida. Una escena de una sola tarde puede ocupar capítulos enteros, mientras que un año puede resumirse en una frase. Reconocer esa condición es clave para analizar la estructura.
@@ -207,9 +207,9 @@ Comparar dos versiones de una obra exige centrarse en las transformaciones del i
 Según el principio de cooperación, ¿qué es lo que el diseño comunica al lector?
 
 ### Opciones
-- [x] A) Que puede esperar una reconstrucción verosímil del pasado, es decir, un contrato de lectura con la obra. <!-- feedback: Correcto. Título y diseño funcionan como un "contrato de lectura", porque señalan qué tipo de texto espera el lector y con qué Attitude abordarlo. -->
-- [ ] B) Que la obra sea un documento histórico y no una ficción. <!-- feedback: Incorrecto. Ningún diseño convierte la novela en documento, porque el género "sigue siendo ficcional" aunque simule verosimilitud histórica. -->
-- [ ] C) Que el autor pretendió escribir una crónica periodística. <!-- feedback: Incorrecto. La apariencia histórica "no convierte" la obra en crónica, porque el género depende de la intención y del tratamiento, no de la portada. -->
+- [ ] A) Que la obra sea un documento histórico y no una ficción. <!-- feedback: Incorrecto. Ningún diseño convierte la novela en documento, porque el género "sigue siendo ficcional" aunque simule verosimilitud histórica. -->
+- [ ] B) Que el autor pretendió escribir una crónica periodística. <!-- feedback: Incorrecto. La apariencia histórica "no convierte" la obra en crónica, porque el género depende de la intención y del tratamiento, no de la portada. -->
+- [x] C) Que puede esperar una reconstrucción verosímil del pasado, es decir, un contrato de lectura con la obra. <!-- feedback: Correcto. Título y diseño funcionan como un "contrato de lectura", porque señalan qué tipo de texto espera el lector y con qué Attitude abordarlo. -->
 - [ ] D) Que el lector no necesita contexto histórico para comprender el texto. <!-- feedback: Incorrecto. El diseño señala lo contrario, porque prepara al lector para un texto que "exige contexto histórico" previo. -->
 
 ### Explicacion Pedagogica
@@ -226,8 +226,8 @@ La portada establece un contrato de lectura: sugiere qué tipo de texto el lecto
 ¿Qué juicio es más sólido sobre esa edición?
 
 ### Opciones
-- [x] A) Es defendible si aumenta la comprensión sin borrar la identidad, y debe justificarse con criterios explícitos. <!-- feedback: Correcto. El juicio pondera a la vez la accesibilidad y la identidad lingüística, porque exige un criterio explícito y verificable. -->
-- [ ] B) Es siempre positiva, porque normalizar el vocabulario mejora la calidad literaria. <!-- feedback: Incorrecto. Normalizar "no mejora" automáticamente la calidad literaria, porque ignora el valor del regionalismo como recurso estilístico. -->
+- [ ] A) Es siempre positiva, porque normalizar el vocabulario mejora la calidad literaria. <!-- feedback: Incorrecto. Normalizar "no mejora" automáticamente la calidad literaria, porque ignora el valor del regionalismo como recurso estilístico. -->
+- [x] B) Es defendible si aumenta la comprensión sin borrar la identidad, y debe justificarse con criterios explícitos. <!-- feedback: Correcto. El juicio pondera a la vez la accesibilidad y la identidad lingüística, porque exige un criterio explícito y verificable. -->
 - [ ] C) Es siempre negativa, porque el original representa mejor la época y sus autores. <!-- feedback: Incorrecto. Absolutizar la negativa también es un error de evaluación, porque lo pertinente es el balance de efectos y el criterio que se declare. -->
 - [ ] D) Es irrelevante, porque las normas de escritura no afectan la comprensión lectora. <!-- feedback: Incorrecto. Las normas ortográficas sí afectan la comprensión y el acceso al texto, porque su impacto debe evaluarse. -->
 
@@ -245,10 +245,10 @@ Evaluar una edición exige declarar un criterio y ponderar efectos opuestos. Una
 ¿Qué razonamiento sostiene mejor esa selección?
 
 ### Opciones
-- [x] A) La segunda, porque mantiene abierta la investigación y entrena el razonamiento inferencial del lector. <!-- feedback: Correcto. La opción se sostiene en un criterio pedagógico claro, porque el final abierto entrena el razonamiento inferencial del DBA. -->
-- [ ] B) La primera, porque todo caso debe resolverse para que el lector entienda la obra. <!-- feedback: Incorrecto. Suponer que todo caso debe resolverse impone un gusto personal, porque no hay base para pensar que el cierre satisface a todos. -->
-- [ ] C) Cualquiera, porque las dos novelas tienen igual valor educativo y no hay diferencia relevante. <!-- feedback: Incorrecto. La igualdad valorativa evita el razonamiento, porque la elección debe apoyarse en criterios verificables sobre habilidades. -->
-- [ ] D) Ninguna, porque las novelas policiales no contribuyen al desarrollo de la lectura crítica. <!-- feedback: Incorrecto. Esa afirmación contradice el DBA, porque la novela policial exige rastrear hipótesis y evaluar pistas para resolver el enigma. -->
+- [ ] A) La primera, porque todo caso debe resolverse para que el lector entienda la obra. <!-- feedback: Incorrecto. Suponer que todo caso debe resolverse impone un gusto personal, porque no hay base para pensar que el cierre satisface a todos. -->
+- [ ] B) Cualquiera, porque las dos novelas tienen igual valor educativo y no hay diferencia relevante. <!-- feedback: Incorrecto. La igualdad valorativa evita el razonamiento, porque la elección debe apoyarse en criterios verificables sobre habilidades. -->
+- [ ] C) Ninguna, porque las novelas policiales no contribuyen al desarrollo de la lectura crítica. <!-- feedback: Incorrecto. Esa afirmación contradice el DBA, porque la novela policial exige rastrear hipótesis y evaluar pistas para resolver el enigma. -->
+- [x] D) La segunda, porque mantiene abierta la investigación y entrena el razonamiento inferencial del lector. <!-- feedback: Correcto. La opción se sostiene en un criterio pedagógico claro, porque el final abierto entrena el razonamiento inferencial del DBA. -->
 
 ### Explicacion Pedagogica
 Seleccionar material para el plan de lectura exige un criterio educativo explícito y verificable. El razonamiento más fuerte conecta la elección con una competencia concreta del DBA. Una opinión personal, sin sustento curricular, no constituye una valoración ni una recomendación defendible.
