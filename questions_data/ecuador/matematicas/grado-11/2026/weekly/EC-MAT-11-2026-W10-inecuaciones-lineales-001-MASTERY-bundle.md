@@ -171,20 +171,20 @@ Al dividir por un número negativo ($-3$), el sentido de la desigualdad se invie
 **Expected_Success:** 0.70
 **Contexto:** En la ciudad de Guayaquil, un grupo de estudiantes de la Unidad Educativa Bernardo Valdivieso analizan un problema práctico de matemáticas.
 ### Enunciado
-¿Cuál es el intervalo de solución para la inecuación lineal $-3x \ge 12$?
+¿Cuál es el intervalo de solución para la inecuación lineal $5x \le -35$?
 
 ### Opciones
-- [x] A) $x \le -4$
-  <!-- feedback: Al dividir entre $-3$ la desigualdad se invierte y el 12 cambia de signo, por lo que $x \le -4$. -->
-- [ ] B) $x \ge -4$
-  <!-- feedback: Al dividir entre un número negativo la desigualdad cambia de sentido, por eso el resultado es $x \le -4$. -->
-- [ ] C) $x \le 4$
-  <!-- feedback: El resultado conserva el signo negativo del coeficiente: al dividir entre $-3$ se obtiene $-4$, no $+4$. -->
-- [ ] D) $x \ge 4$
-  <!-- feedback: El signo del 12 también debe cambiar al dividir entre $-3$: $-3x \ge 12$ equivale a $x \le -4$, no a un 4 positivo. -->
+- [ ] A) $x \ge -7$
+  <!-- feedback: Al dividir entre $-35$ la desigualdad se invierte porque el coeficiente era negativo, pero aquí el coeficiente 5 es positivo y el signo solo cambia en el $35$. -->
+- [ ] B) $x \ge 7$
+  <!-- feedback: El coeficiente de $x$ es positivo, así que el sentido de la desigualdad se conserva y el 7 queda negativo. -->
+- [x] C) $x \le -7$
+  <!-- feedback: Correcto. Al dividir entre 5, que es positivo, se conserva el sentido: $x \le -35 / 5 = -7$. -->
+- [ ] D) $x \le 7$
+  <!-- feedback: Al dividir $-35$ entre $5$ el resultado es $-7$ y no $+7$, porque los dos términos tienen signos opuestos. -->
 
 ### Explicacion Pedagogica
-Al dividir por un número negativo ($-3$), el sentido de la desigualdad se invierte: $x \le 12 / (-3) \Rightarrow x \le -4$.
+Como el coeficiente de $x$ es $5$, un número positivo, el sentido de la desigualdad se conserva al dividir. Se obtiene $x \le -35 / 5$, y como $35 / 5 = 7$, el resultado es $x \le -7$. La regla de inversión del signo solo se aplica cuando se divide entre un número negativo, y aquí no es el caso.
 
 ---
 
