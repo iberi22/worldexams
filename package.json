@@ -18,6 +18,7 @@
     "guard:changed": "node scripts/husky-guard.mjs --changed",
     "validate": "node scripts/validate-bundles-v52.mjs",
     "test:quality": "node scripts/test-feedback-gate.mjs && node scripts/test-clones.mjs && python3 scripts/test_rebalance.py",
+    "check:language": "node scripts/check-feedback-language.mjs",
     "audit:country-readiness": "node scripts/audit-country-readiness.mjs",
     "dev": "npm run dev:landing-worldexams",
     "dev:landing-worldexams": "npm run dev -w @worldexams/landing-worldexams",
