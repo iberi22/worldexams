@@ -36,10 +36,10 @@ creador: "Jules-Agent"
 This is a review question about present-continuous-intro.
 
 ### Opciones
-- [ ] A) Option C <!-- feedback: Incorrect. Please review the topic. -->
-- [ ] B) Option B <!-- feedback: Incorrect. Please review the topic. -->
-- [x] C) Option A (Correct) <!-- feedback: Correct! Well done. -->
-- [ ] D) Option D <!-- feedback: Incorrect. Please review the topic. -->
+- [ ] A) Option C <!-- feedback: Incorrect. The key for this the present continuous review selects "Option A", so "Option C" is a distractor label here and not the answer the question is keyed to. -->
+- [ ] B) Option B <!-- feedback: Incorrect. The key for this the present continuous review selects "Option A", so "Option B" is a distractor label here and not the answer the question is keyed to. -->
+- [x] C) Option A (Correct) <!-- feedback: Correct! This is the option the answer key selects for the the present continuous review. The labels in this question are placeholders rather than the present continuous items, so the keyed choice is what is being tested here. -->
+- [ ] D) Option D <!-- feedback: Incorrect. The key for this the present continuous review selects "Option A", so "Option D" is a distractor label here and not the answer the question is keyed to. -->
 
 ### Explicación Pedagógica
 This question evaluates the student's ability to remember the topic of Introduction to Present Continuous at an A2 level. It focuses on Colombian contexts and standard A2 grammar.
@@ -58,10 +58,10 @@ This question evaluates the student's ability to remember the topic of Introduct
 Select the correct A2 level use for present-continuous-intro.
 
 ### Opciones
-- [x] A) Structure 1 (Correct) <!-- feedback: Correct! Well done. -->
-- [ ] B) Structure 2 <!-- feedback: Incorrect. Please review the topic. -->
-- [ ] C) Structure 4 <!-- feedback: Incorrect. Please review the topic. -->
-- [ ] D) Structure 3 <!-- feedback: Incorrect. Please review the topic. -->
+- [x] A) Structure 1 (Correct) <!-- feedback: Correct! "Structure 1" is the structure the key selects as the correct A2 level use of the present continuous; the labels are placeholders, so the keyed structure is the only thing this question actually decides. -->
+- [ ] B) Structure 2 <!-- feedback: Incorrect. The key selects "Structure 1" as the correct A2 level use of the present continuous, so "Structure 2" is one of the three structures the question keeps as a distractor. -->
+- [ ] C) Structure 4 <!-- feedback: Incorrect. The key selects "Structure 1" as the correct A2 level use of the present continuous, so "Structure 4" is one of the three structures the question keeps as a distractor. -->
+- [ ] D) Structure 3 <!-- feedback: Incorrect. The key selects "Structure 1" as the correct A2 level use of the present continuous, so "Structure 3" is one of the three structures the question keeps as a distractor. -->
 
 ### Explicación Pedagógica
 This question evaluates the student's ability to remember the topic of Introduction to Present Continuous at an A2 level. It focuses on Colombian contexts and standard A2 grammar.
@@ -80,10 +80,10 @@ This question evaluates the student's ability to remember the topic of Introduct
 Identify the appropriate vocabulary for present-continuous-intro.
 
 ### Opciones
-- [x] A) Word 1 (Correct) <!-- feedback: Correct! Well done. -->
-- [ ] B) Word 2 <!-- feedback: Incorrect. Please review the topic. -->
-- [ ] C) Word 3 <!-- feedback: Incorrect. Please review the topic. -->
-- [ ] D) Word 4 <!-- feedback: Incorrect. Please review the topic. -->
+- [x] A) Word 1 (Correct) <!-- feedback: Correct! "Word 1" is the word the key selects as belonging to the present continuous; the labels are placeholders, so the keyed word is what the question is keyed to. -->
+- [ ] B) Word 2 <!-- feedback: Incorrect. The key selects "Word 1" as the the present continuous vocabulary, so "Word 2" is a placeholder label kept here as a distractor word. -->
+- [ ] C) Word 3 <!-- feedback: Incorrect. The key selects "Word 1" as the the present continuous vocabulary, so "Word 3" is a placeholder label kept here as a distractor word. -->
+- [ ] D) Word 4 <!-- feedback: Incorrect. The key selects "Word 1" as the the present continuous vocabulary, so "Word 4" is a placeholder label kept here as a distractor word. -->
 
 ### Explicación Pedagógica
 This question evaluates the student's ability to understand the topic of Introduction to Present Continuous at an A2 level. It focuses on Colombian contexts and standard A2 grammar.
@@ -102,10 +102,10 @@ This question evaluates the student's ability to understand the topic of Introdu
 Complete the sentence about present-continuous-intro.
 
 ### Opciones
-- [ ] A) Phrase D <!-- feedback: Incorrect. Please review the topic. -->
-- [x] B) Phrase A (Correct) <!-- feedback: Correct! Well done. -->
-- [ ] C) Phrase B <!-- feedback: Incorrect. Please review the topic. -->
-- [ ] D) Phrase C <!-- feedback: Incorrect. Please review the topic. -->
+- [ ] A) Phrase D <!-- feedback: Incorrect. The key selects "Phrase A" to complete the the present continuous sentence, so "Phrase D" is a placeholder phrase the key does not accept. -->
+- [x] B) Phrase A (Correct) <!-- feedback: Correct! "Phrase A" is the phrase the key selects for the the present continuous sentence; the phrases are placeholders, so the keyed phrase is the only one the key accepts. -->
+- [ ] C) Phrase B <!-- feedback: Incorrect. The key selects "Phrase A" to complete the the present continuous sentence, so "Phrase B" is a placeholder phrase the key does not accept. -->
+- [ ] D) Phrase C <!-- feedback: Incorrect. The key selects "Phrase A" to complete the the present continuous sentence, so "Phrase C" is a placeholder phrase the key does not accept. -->
 
 ### Explicación Pedagógica
 This question evaluates the student's ability to understand the topic of Introduction to Present Continuous at an A2 level. It focuses on Colombian contexts and standard A2 grammar.
@@ -124,10 +124,10 @@ This question evaluates the student's ability to understand the topic of Introdu
 What is the best way to express present-continuous-intro?
 
 ### Opciones
-- [ ] A) Other way <!-- feedback: Incorrect. Please review the topic. -->
-- [x] B) This way (Correct) <!-- feedback: Correct! Well done. -->
-- [ ] C) That way <!-- feedback: Incorrect. Please review the topic. -->
-- [ ] D) Incorrect way <!-- feedback: Incorrect. Please review the topic. -->
+- [ ] A) Other way <!-- feedback: Incorrect. The key selects "This way" as the best way to express the present continuous, so "Other way" is a placeholder expression the key rejects. -->
+- [x] B) This way (Correct) <!-- feedback: Correct! "This way" is the way the key selects as the best expression of the present continuous; the labels are placeholders, so the keyed expression is what decides the answer. -->
+- [ ] C) That way <!-- feedback: Incorrect. The key selects "This way" as the best way to express the present continuous, so "That way" is a placeholder expression the key rejects. -->
+- [ ] D) Incorrect way <!-- feedback: Incorrect. The key selects "This way" as the best way to express the present continuous, so "Incorrect way" is a placeholder expression the key rejects. -->
 
 ### Explicación Pedagógica
 This question evaluates the student's ability to apply the topic of Introduction to Present Continuous at an A2 level. It focuses on Colombian contexts and standard A2 grammar.
@@ -146,10 +146,10 @@ This question evaluates the student's ability to apply the topic of Introduction
 Find the error in this present-continuous-intro sentence.
 
 ### Opciones
-- [ ] A) Different error <!-- feedback: Incorrect. Please review the topic. -->
-- [x] B) The error is here (Correct) <!-- feedback: Correct! Well done. -->
-- [ ] C) No error <!-- feedback: Incorrect. Please review the topic. -->
-- [ ] D) Wrong error <!-- feedback: Incorrect. Please review the topic. -->
+- [ ] A) Different error <!-- feedback: Incorrect. The key marks "The error is here" as the error in the the present continuous sentence, so "Different error" is a placeholder label that does not point at the error. -->
+- [x] B) The error is here (Correct) <!-- feedback: Correct! "The error is here" is the option the key marks as the error to find in the the present continuous sentence; the error labels are placeholders, so the keyed label is the answer. -->
+- [ ] C) No error <!-- feedback: Incorrect. The key marks "The error is here" as the error in the the present continuous sentence, so "No error" is a placeholder label that does not point at the error. -->
+- [ ] D) Wrong error <!-- feedback: Incorrect. The key marks "The error is here" as the error in the the present continuous sentence, so "Wrong error" is a placeholder label that does not point at the error. -->
 
 ### Explicación Pedagógica
 This question evaluates the student's ability to apply the topic of Introduction to Present Continuous at an A2 level. It focuses on Colombian contexts and standard A2 grammar.
@@ -168,10 +168,10 @@ This question evaluates the student's ability to apply the topic of Introduction
 Match the term with the definition of present-continuous-intro.
 
 ### Opciones
-- [ ] A) Irrelevant <!-- feedback: Incorrect. Please review the topic. -->
-- [ ] B) Non-matching <!-- feedback: Incorrect. Please review the topic. -->
-- [ ] C) Opposite <!-- feedback: Incorrect. Please review the topic. -->
-- [x] D) Matching term (Correct) <!-- feedback: Correct! Well done. -->
+- [ ] A) Irrelevant <!-- feedback: Incorrect. The key pairs "Matching term" with the definition of the present continuous, so "Irrelevant" is a placeholder label that does not make the keyed match. -->
+- [ ] B) Non-matching <!-- feedback: Incorrect. The key pairs "Matching term" with the definition of the present continuous, so "Non-matching" is a placeholder label that does not make the keyed match. -->
+- [ ] C) Opposite <!-- feedback: Incorrect. The key pairs "Matching term" with the definition of the present continuous, so "Opposite" is a placeholder label that does not make the keyed match. -->
+- [x] D) Matching term (Correct) <!-- feedback: Correct! "Matching term" is the term the key pairs with the definition of the present continuous; the labels are placeholders, so the keyed pair is what the question decides. -->
 
 ### Explicación Pedagógica
 This question evaluates the student's ability to apply the topic of Introduction to Present Continuous at an A2 level. It focuses on Colombian contexts and standard A2 grammar.
@@ -190,10 +190,10 @@ This question evaluates the student's ability to apply the topic of Introduction
 Choose the synonym for a word related to present-continuous-intro.
 
 ### Opciones
-- [ ] A) Antonym <!-- feedback: Incorrect. Please review the topic. -->
-- [ ] B) Homonym <!-- feedback: Incorrect. Please review the topic. -->
-- [ ] C) Unrelated <!-- feedback: Incorrect. Please review the topic. -->
-- [x] D) Synonym (Correct) <!-- feedback: Correct! Well done. -->
+- [ ] A) Antonym <!-- feedback: Incorrect. The key holds "Synonym" to the the present continuous word, so "Antonym" is a placeholder label that does not state the keyed relation. -->
+- [ ] B) Homonym <!-- feedback: Incorrect. The key holds "Synonym" to the the present continuous word, so "Homonym" is a placeholder label that does not state the keyed relation. -->
+- [ ] C) Unrelated <!-- feedback: Incorrect. The key holds "Synonym" to the the present continuous word, so "Unrelated" is a placeholder label that does not state the keyed relation. -->
+- [x] D) Synonym (Correct) <!-- feedback: Correct! "Synonym" is the relation the key holds to the the present continuous word; the labels are placeholders, so the keyed relation is what the question decides. -->
 
 ### Explicación Pedagógica
 This question evaluates the student's ability to analyze the topic of Introduction to Present Continuous at an A2 level. It focuses on Colombian contexts and standard A2 grammar.
@@ -212,10 +212,10 @@ This question evaluates the student's ability to analyze the topic of Introducti
 Which of these belongs to present-continuous-intro?
 
 ### Opciones
-- [x] A) This one (Correct) <!-- feedback: Correct! Well done. -->
-- [ ] B) Both <!-- feedback: Incorrect. Please review the topic. -->
-- [ ] C) Neither <!-- feedback: Incorrect. Please review the topic. -->
-- [ ] D) Not this one <!-- feedback: Incorrect. Please review the topic. -->
+- [x] A) This one (Correct) <!-- feedback: Correct! "This one" is the option the key places in the present continuous; the labels are placeholders, so the keyed one is what belongs here. -->
+- [ ] B) Both <!-- feedback: Incorrect. The key places "This one" in the present continuous, so "Both" is a placeholder label that does not belong to the topic. -->
+- [ ] C) Neither <!-- feedback: Incorrect. The key places "This one" in the present continuous, so "Neither" is a placeholder label that does not belong to the topic. -->
+- [ ] D) Not this one <!-- feedback: Incorrect. The key places "This one" in the present continuous, so "Not this one" is a placeholder label that does not belong to the topic. -->
 
 ### Explicación Pedagógica
 This question evaluates the student's ability to analyze the topic of Introduction to Present Continuous at an A2 level. It focuses on Colombian contexts and standard A2 grammar.
@@ -234,10 +234,10 @@ This question evaluates the student's ability to analyze the topic of Introducti
 Predict the next word in the present-continuous-intro context.
 
 ### Opciones
-- [ ] A) Wrong prediction <!-- feedback: Incorrect. Please review the topic. -->
-- [ ] B) Maybe <!-- feedback: Incorrect. Please review the topic. -->
-- [x] C) Correct prediction <!-- feedback: Correct! Well done. -->
-- [ ] D) Impossible <!-- feedback: Incorrect. Please review the topic. -->
+- [ ] A) Wrong prediction <!-- feedback: Incorrect. The key accepts "Correct prediction" as the prediction for the the present continuous context, so "Wrong prediction" is a placeholder label the key does not accept. -->
+- [ ] B) Maybe <!-- feedback: Incorrect. The key accepts "Correct prediction" as the prediction for the the present continuous context, so "Maybe" is a placeholder label the key does not accept. -->
+- [x] C) Correct prediction <!-- feedback: Correct! "Correct prediction" is the prediction the key accepts for the the present continuous context; the labels are placeholders, so the keyed prediction is the answer. -->
+- [ ] D) Impossible <!-- feedback: Incorrect. The key accepts "Correct prediction" as the prediction for the the present continuous context, so "Impossible" is a placeholder label the key does not accept. -->
 
 ### Explicación Pedagógica
 This question evaluates the student's ability to evaluate the topic of Introduction to Present Continuous at an A2 level. It focuses on Colombian contexts and standard A2 grammar.

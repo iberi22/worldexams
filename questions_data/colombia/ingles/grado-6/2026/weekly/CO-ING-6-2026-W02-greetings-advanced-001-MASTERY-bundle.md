@@ -36,10 +36,10 @@ creador: "Jules-Agent"
 Choose the correct response to 'How are you?'
 
 ### Opciones
-- [x] A) I'm fine, thank you. <!-- feedback: Correct! Well done. -->
-- [ ] B) I'm from Bogota. <!-- feedback: Incorrect. Please review the topic. -->
-- [ ] C) My name is Carlos. <!-- feedback: Incorrect. Please review the topic. -->
-- [ ] D) I am 12 years old. <!-- feedback: Incorrect. Please review the topic. -->
+- [x] A) I'm fine, thank you. <!-- feedback: Correct! 'How are you?' asks how you feel, and 'I'm fine, thank you' reports the feeling and adds a polite 'thank you'. -->
+- [ ] B) I'm from Bogota. <!-- feedback: 'I'm from Bogota' answers 'Where are you from?', so it gives an origin instead of a feeling. -->
+- [ ] C) My name is Carlos. <!-- feedback: 'My name is Carlos' answers 'What is your name?', which is a different question from asking how you feel. -->
+- [ ] D) I am 12 years old. <!-- feedback: 'I am 12 years old' gives your age, so it answers 'How old are you?' and not 'How are you?'. -->
 
 ### Explicación Pedagógica
 This question evaluates the student's ability to remember the topic of Advanced Greetings and Introductions at an A2 level. It focuses on Colombian contexts and standard A2 grammar.
@@ -58,10 +58,10 @@ This question evaluates the student's ability to remember the topic of Advanced 
 What is a formal way to say goodbye?
 
 ### Opciones
-- [ ] A) Nice to meet you. <!-- feedback: Incorrect. Please review the topic. -->
-- [x] B) Have a nice day. <!-- feedback: Correct! Well done. -->
-- [ ] C) Good evening. <!-- feedback: Incorrect. Please review the topic. -->
-- [ ] D) What's up? <!-- feedback: Incorrect. Please review the topic. -->
+- [ ] A) Nice to meet you. <!-- feedback: 'Nice to meet you' is said at a first introduction, not when you are leaving. -->
+- [x] B) Have a nice day. <!-- feedback: Correct! 'Have a nice day' is a polite farewell that you use with people you do not know well. -->
+- [ ] C) Good evening. <!-- feedback: 'Good evening' is a greeting used on arrival, so it opens the conversation instead of closing it. -->
+- [ ] D) What's up? <!-- feedback: 'What's up?' is an informal question between close friends, far too casual to be a formal goodbye. -->
 
 ### Explicación Pedagógica
 This question evaluates the student's ability to remember the topic of Advanced Greetings and Introductions at an A2 level. It focuses on Colombian contexts and standard A2 grammar.
@@ -80,10 +80,10 @@ This question evaluates the student's ability to remember the topic of Advanced 
 Complete: 'Hi, ________ name is Maria.'
 
 ### Opciones
-- [x] A) my <!-- feedback: Correct! Well done. -->
-- [ ] B) I <!-- feedback: Incorrect. Please review the topic. -->
-- [ ] C) me <!-- feedback: Incorrect. Please review the topic. -->
-- [ ] D) your <!-- feedback: Incorrect. Please review the topic. -->
+- [x] A) my <!-- feedback: Correct! 'My' is the possessive adjective, and a possessive adjective goes directly before the noun 'name'. -->
+- [ ] B) I <!-- feedback: 'I' is a subject pronoun and it cannot modify the noun 'name' the way a possessive adjective does. -->
+- [ ] C) me <!-- feedback: 'me' is the object form used after a preposition or a verb, as in 'call me'; before a noun you need 'my'. -->
+- [ ] D) your <!-- feedback: 'your' points at the person you are speaking to, but Maria is introducing herself, so it must be 'my'. -->
 
 ### Explicación Pedagógica
 This question evaluates the student's ability to understand the topic of Advanced Greetings and Introductions at an A2 level. It focuses on Colombian contexts and standard A2 grammar.
@@ -102,10 +102,10 @@ This question evaluates the student's ability to understand the topic of Advance
 When you meet someone for the first time, you say:
 
 ### Opciones
-- [ ] A) See you later. <!-- feedback: Incorrect. Please review the topic. -->
-- [x] B) Nice to meet you. <!-- feedback: Correct! Well done. -->
-- [ ] C) Welcome. <!-- feedback: Incorrect. Please review the topic. -->
-- [ ] D) Good night. <!-- feedback: Incorrect. Please review the topic. -->
+- [ ] A) See you later. <!-- feedback: 'See you later' is a goodbye that assumes you already know the person. -->
+- [x] B) Nice to meet you. <!-- feedback: Correct! 'Nice to meet you' is the standard phrase for a first introduction, and the reply is 'Nice to meet you, too'. -->
+- [ ] C) Welcome. <!-- feedback: 'Welcome' is said when someone arrives at your home or your school, not at a first meeting. -->
+- [ ] D) Good night. <!-- feedback: 'Good night' is what you say before sleeping, so it has nothing to do with meeting someone. -->
 
 ### Explicación Pedagógica
 This question evaluates the student's ability to understand the topic of Advanced Greetings and Introductions at an A2 level. It focuses on Colombian contexts and standard A2 grammar.
@@ -124,10 +124,10 @@ This question evaluates the student's ability to understand the topic of Advance
 What time of day do you say 'Good morning'?
 
 ### Opciones
-- [ ] A) At midnight. <!-- feedback: Incorrect. Please review the topic. -->
-- [x] B) At 8:00 AM. <!-- feedback: Correct! Well done. -->
-- [ ] C) At 8:00 PM. <!-- feedback: Incorrect. Please review the topic. -->
-- [ ] D) In the afternoon. <!-- feedback: Incorrect. Please review the topic. -->
+- [ ] A) At midnight. <!-- feedback: Midnight is the start of the night, so you say 'Good night' and never 'Good morning'. -->
+- [x] B) At 8:00 AM. <!-- feedback: Correct! 'Good morning' is used in the morning, and 8:00 AM is in the morning. -->
+- [ ] C) At 8:00 PM. <!-- feedback: 8:00 PM is at night, when you say 'Good evening' or 'Good night' and not 'Good morning'. -->
+- [ ] D) In the afternoon. <!-- feedback: The afternoon is the time of 'Good afternoon'; 'Good morning' ends at midday. -->
 
 ### Explicación Pedagógica
 This question evaluates the student's ability to apply the topic of Advanced Greetings and Introductions at an A2 level. It focuses on Colombian contexts and standard A2 grammar.
@@ -146,10 +146,10 @@ This question evaluates the student's ability to apply the topic of Advanced Gre
 Response to 'Where are you from?'
 
 ### Opciones
-- [x] A) I'm from Medellin. <!-- feedback: Correct! Well done. -->
-- [ ] B) I'm a student. <!-- feedback: Incorrect. Please review the topic. -->
-- [ ] C) I'm happy. <!-- feedback: Incorrect. Please review the topic. -->
-- [ ] D) I'm 11. <!-- feedback: Incorrect. Please review the topic. -->
+- [x] A) I'm from Medellin. <!-- feedback: Correct! The question asks for a place of origin, and 'I'm from Medellin' names a city, so the pair matches. -->
+- [ ] B) I'm a student. <!-- feedback: 'I'm a student' tells what you do, not the place you come from. -->
+- [ ] C) I'm happy. <!-- feedback: 'I'm happy' tells how you feel, so it answers 'How are you?' instead of a question about origin. -->
+- [ ] D) I'm 11. <!-- feedback: 'I'm 11' gives your age, which answers 'How old are you?' and not a question about where you come from. -->
 
 ### Explicación Pedagógica
 This question evaluates the student's ability to apply the topic of Advanced Greetings and Introductions at an A2 level. It focuses on Colombian contexts and standard A2 grammar.
@@ -168,10 +168,10 @@ This question evaluates the student's ability to apply the topic of Advanced Gre
 Which is a formal greeting?
 
 ### Opciones
-- [ ] A) Hi there. <!-- feedback: Incorrect. Please review the topic. -->
-- [x] B) Good afternoon, sir. <!-- feedback: Correct! Well done. -->
-- [ ] C) What's going on? <!-- feedback: Incorrect. Please review the topic. -->
-- [ ] D) Hey! <!-- feedback: Incorrect. Please review the topic. -->
+- [ ] A) Hi there. <!-- feedback: 'Hi' is casual and 'there' is not a title, so the greeting stays informal. -->
+- [x] B) Good afternoon, sir. <!-- feedback: Correct! 'Good afternoon, sir' adds the polite title 'sir', and that title is what makes the greeting formal. -->
+- [ ] C) What's going on? <!-- feedback: 'What's going on?' is an informal question between friends and carries no polite title. -->
+- [ ] D) Hey! <!-- feedback: 'Hey' is a very informal word used with close friends, never with someone you must treat formally. -->
 
 ### Explicación Pedagógica
 This question evaluates the student's ability to apply the topic of Advanced Greetings and Introductions at an A2 level. It focuses on Colombian contexts and standard A2 grammar.
@@ -190,10 +190,10 @@ This question evaluates the student's ability to apply the topic of Advanced Gre
 Complete: '________ are you?' - 'I am ten years old.'
 
 ### Opciones
-- [x] A) How old <!-- feedback: Correct! Well done. -->
-- [ ] B) How <!-- feedback: Incorrect. Please review the topic. -->
-- [ ] C) What <!-- feedback: Incorrect. Please review the topic. -->
-- [ ] D) Who <!-- feedback: Incorrect. Please review the topic. -->
+- [x] A) How old <!-- feedback: Correct! 'How old' is the only form that can be followed by the answer 'I am ten years old'. -->
+- [ ] B) How <!-- feedback: 'How' asks about a manner, a state or a way; an age needs the adjective 'old' after it. -->
+- [ ] C) What <!-- feedback: 'What' asks for a thing or a name, so 'I am ten years old' would not answer it. -->
+- [ ] D) Who <!-- feedback: 'Who' asks for a person, so it would need an answer like 'I am Maria' and not an age. -->
 
 ### Explicación Pedagógica
 This question evaluates the student's ability to analyze the topic of Advanced Greetings and Introductions at an A2 level. It focuses on Colombian contexts and standard A2 grammar.
@@ -212,10 +212,10 @@ This question evaluates the student's ability to analyze the topic of Advanced G
 What is the response to 'Nice to meet you'?
 
 ### Opciones
-- [ ] A) Hello. <!-- feedback: Incorrect. Please review the topic. -->
-- [ ] B) I am fine. <!-- feedback: Incorrect. Please review the topic. -->
-- [ ] C) You're welcome. <!-- feedback: Incorrect. Please review the topic. -->
-- [x] D) Nice to meet you, too. <!-- feedback: Correct! Well done. -->
+- [ ] A) Hello. <!-- feedback: 'Hello' is a greeting that opens a conversation, but it does not answer an introduction. -->
+- [ ] B) I am fine. <!-- feedback: 'I am fine' answers 'How are you?', not a greeting of introduction. -->
+- [ ] C) You're welcome. <!-- feedback: 'You're welcome' is the answer to 'Thank you', so it belongs to a different exchange. -->
+- [x] D) Nice to meet you, too. <!-- feedback: Correct! The standard reply to 'Nice to meet you' is 'Nice to meet you, too', which returns the same phrase. -->
 
 ### Explicación Pedagógica
 This question evaluates the student's ability to analyze the topic of Advanced Greetings and Introductions at an A2 level. It focuses on Colombian contexts and standard A2 grammar.
@@ -234,10 +234,10 @@ This question evaluates the student's ability to analyze the topic of Advanced G
 A polite way to ask for a name is:
 
 ### Opciones
-- [x] A) What is your name? <!-- feedback: Correct! Well done. -->
-- [ ] B) Who are you? <!-- feedback: Incorrect. Please review the topic. -->
-- [ ] C) Give me your name. <!-- feedback: Incorrect. Please review the topic. -->
-- [ ] D) Name? <!-- feedback: Incorrect. Please review the topic. -->
+- [x] A) What is your name? <!-- feedback: Correct! 'What is your name?' uses the polite question word and the full verb form, which is what makes it a polite request. -->
+- [ ] B) Who are you? <!-- feedback: 'Who are you?' sounds blunt and can even sound accusing, so it is not the polite form. -->
+- [ ] C) Give me your name. <!-- feedback: 'Give me your name' is a command, and a command is not a polite way to ask. -->
+- [ ] D) Name? <!-- feedback: 'Name?' is a single word with no verb, which makes it very informal and can sound rude. -->
 
 ### Explicación Pedagógica
 This question evaluates the student's ability to evaluate the topic of Advanced Greetings and Introductions at an A2 level. It focuses on Colombian contexts and standard A2 grammar.

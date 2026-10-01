@@ -325,10 +325,10 @@ Para que el punto de corte sea (3,0), al sustituir $x=3$ en ambas ecuaciones, $y
 ¿Cuál es la edad actual de Pedro?
 
 ### Opciones
-- [ ] A) 35 años <!-- feedback: Revisar las condiciones de tiempo. -->
+- [ ] A) 35 años <!-- feedback: Si Pedro tuviera 35 años, hace 5 años tendría 30 y su hijo 10, y $30 = 3 \times 10$ sí se cumple. Pero en 7 años Pedro tendría 42 y su hijo 22, y $42 \neq 2 \times 22$: falla la condición del doble. -->
 - [x] B) 41 años <!-- feedback: Sean $P=41, H=17$. Hace 5: $36 = 3 \cdot 12$. En 7: $48 = 2 \cdot 24$. Cumple ambas. -->
-- [ ] C) 45 años <!-- feedback: No cumple con la relación de hace 5 años. -->
-- [ ] D) 38 años <!-- feedback: Error al plantear o resolver las ecuaciones de edades. -->
+- [ ] C) 45 años <!-- feedback: Con Pedro de 45 años, hace 5 años tendría 40, así que su hijo tendría $40 \div 3$, que no es una edad exacta. La relación del triple de hace 5 años ya no se cumple. -->
+- [ ] D) 38 años <!-- feedback: Si Pedro tuviera 38 años, hace 5 años tendría 33 y su hijo 11, y $33 = 3 \times 11$ sí se cumple. Pero en 7 años tendría 45 y su hijo 18, y $45 \neq 2 \times 18 = 36$: falla la condición del doble. -->
 
 ### Explicacion Pedagogica
 (1) $P-5 = 3(H-5) \Rightarrow P - 3H = -10$; (2) $P+7 = 2(H+7) \Rightarrow P - 2H = 7$. Restamos (1) de (2): $(P-2H) - (P-3H) = 7 - (-10) \Rightarrow H = 17$. Sustituimos en (2): $P - 2(17) = 7 \Rightarrow P = 34 + 7 = 41$.
