@@ -91,6 +91,19 @@ const VERDICT_PREFIX =
   /^\s*[¡!¿]?\s*(incorrecto|correcto|incorrecta|correcta|wrong|right|correct|incorrect)\s*[¡!¿.!?]*\s*[:\-–—]?\s*/i;
 const VAGUE_ONLY =
   /^\s*(revisa|revisar|consulta|observa|lee|vuelve a leer|intenta de nuevo|try again|practica|repasa|estudia)\b[\s\wáéíóúñ]{0,32}$/i;
+// English and Portuguese imperatives that tell the student to look again. The
+// Spanish list above left "Incorrect. Review the concept." and "Incorrect.
+// Please review the topic." passing, which is 3600 occurrences of feedback that
+// says nothing. Same instruction, same emptiness, in the other language.
+const VAGUE_EN =
+  /^\s*(please\s+|por favor\s+)?(review|revise|revisit|read again|go back|check|look again|practise|practice|try again|see again|consult|estudie|leia|releia|consulte)\b[\s\wáéíóúñ]{0,40}$/i;
+// Filler the generator emitted instead of a question. These are not weak
+// feedback, they are absent content: the option text is the label itself.
+const PLACEHOLDER_OPTION =
+  /^\s*opci[oó]n\s+[A-D]\s*(\(correcto\)|\(correct\))?\s*$/i;
+const PLACEHOLDER_STEM =
+  /^\s*this is a (review )?question about\b/i;
+const UNFILLED_TOKEN = /\{[a-z_]+\}/i;
 // A category label: the name of the tense, voice, mood, part of speech, semantic
 // relation or vocabulary register that an option belongs to. In language
 // courses this is the pedagogically correct answer to "why is this wrong?",
@@ -145,16 +158,12 @@ export function feedbackProblem(feedback) {
   if (/\b\d/.test(reason) && /\b(es|son|valen|equivale|significa|da|son)\b/i.test(reason)) return null;
   if (/\b\d+\s*(m|km|g|kg|cm|mm|mol|mols|L|l|ml|°C|°F|K|Pa|Hz|N|J|W|V|A|%|x)\b/.test(reason)) return null;
   if (VAGUE_ONLY.test(reason)) return 'feedback only tells the student to look again, it does not explain why';
-  // A short but specific reason is a reason. The character floor rejected
-  // "Missing 'to'", "2⁴ é 16", "Not mentioned" and "Error de signo", all of them
-  // correct explanations of 9 to 15 characters, while accepting "This is the
-  // wrong tense and you should review it" at 46. Length measures nothing about
-  // whether an explanation explains; only two things disqualify feedback, and
-  // both are checked above: a bare verdict with nothing after it, and an
-  // instruction to look again with no reason. Everything else is judged on
-  // whether it names the thing that is wrong, which a length test cannot do.
+  if (VAGUE_EN.test(reason)) return 'feedback only tells the student to look again, it does not explain why';
   if (SHORT_PRAISE.test(reason)) {
     return `feedback is praise without a reason, it does not explain why: "${reason}"`;
+  }
+  if (UNFILLED_TOKEN.test(raw)) {
+    return `feedback contains an unfilled template token: "${reason}"`;
   }
   return null;
 }

@@ -79,6 +79,15 @@ const cases = [
   { name: 'DEAD: correct option, verdict only', fb: DEAD_CORRECT, correct: true, expect: 'fail' },
   { name: 'DEAD: "try again"', fb: DEAD_TRY, correct: false, expect: 'fail' },
   { name: 'VAGUE: "revisa el concepto"', fb: VAGUE_REVISA, correct: false, expect: 'fail' },
+  // The three rules the Fable audit forced in. Every one of these strings exists
+  // in the merged corpus in the hundreds, and the gate passed all of them: the
+  // Spanish-only list let the English and Portuguese copies through, and nothing
+  // looked for an unfilled template token.
+  { name: 'EN vague: "Review the concept"', fb: 'Incorrect. Review the concept.', correct: false, expect: 'fail' },
+  { name: 'EN vague: "Please review the topic"', fb: 'Incorrect. Please review the topic.', correct: false, expect: 'fail' },
+  { name: 'PT vague: "Revise o conceito"', fb: 'Incorrecto. Revise o conceito.', correct: false, expect: 'fail' },
+  { name: 'unfilled template token {grammar}', fb: 'Incorrect. The use of {grammar} adds complexity.', correct: false, expect: 'fail' },
+  { name: 'praise alone: "Well done"', fb: 'Well done', correct: false, expect: 'fail' },
   ...REAL_GOOD.map(([name, fb]) => ({
     name: `real corpus, must be accepted: ${name}`,
     fb,
