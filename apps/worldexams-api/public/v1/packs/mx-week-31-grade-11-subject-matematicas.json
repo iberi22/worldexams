@@ -298,7 +298,7 @@
           "letter": "C",
           "text": "6",
           "is_correct": false,
-          "feedback": "Incorrecto. Revisa la resta de los índices."
+          "feedback": "Entre el tercero y el octavo hay cinco posiciones de diferencia, no seis, así que d = (38 - 13)/(8 - 3) = 25/5 = 5 y no 6."
         },
         {
           "letter": "D",
@@ -331,7 +331,7 @@
           "letter": "B",
           "text": "Año 9",
           "is_correct": false,
-          "feedback": "Incorrecto. Revisa el planteamiento de la resta."
+          "feedback": "Faltaría un año de depreciación: en el año 9 el valor es 18000 - 1200(9) = 7200, todavía por encima de 6000. Se llega a 6000 en el año 10."
         },
         {
           "letter": "A",
@@ -421,7 +421,7 @@
           "letter": "A",
           "text": "69",
           "is_correct": false,
-          "feedback": "Incorrecto. Revisa el signo de la diferencia común."
+          "feedback": "69 correspondería a multiplicar por 21 en lugar de por 20. Como el primer término ya ocupa la posición 1, el a₂₁ es -15 + (21 - 1)·4 = -15 + 80 = 65."
         },
         {
           "letter": "D",
@@ -556,7 +556,7 @@
           "letter": "A",
           "text": "55",
           "is_correct": false,
-          "feedback": "Incorrecto. Revisa el cálculo de la diferencia."
+          "feedback": "55 resulta de tomar a₁ = 0. En realidad d = (16 - 10)/(6 - 4) = 3 y a₁ = 10 - 3·3 = 1, de modo que a₂₀ = 1 + 19·3 = 58."
         },
         {
           "letter": "B",
@@ -838,7 +838,7 @@
           "letter": "B",
           "text": "65",
           "is_correct": false,
-          "feedback": "Incorrecto. Revisa el cálculo de S_9."
+          "feedback": "65 saldría de restar mal: S₁₀ = 320 y S₉ = 243 + 18 = 261, así que a₁₀ = 320 - 261 = 59."
         },
         {
           "letter": "D",
@@ -889,7 +889,7 @@
           "letter": "C",
           "text": "1",
           "is_correct": false,
-          "feedback": "Incorrecto. Revisa el sistema de ecuaciones."
+          "feedback": "El sistema da a₁ + d = 5 y a₁ + 4d = 14; restando, 3d = 9 y d = 3, luego a₁ = 5 - 3 = 2. El 1 corresponde a la diferencia d menos uno, no al primer término."
         }
       ],
       "correct_answer": "D",

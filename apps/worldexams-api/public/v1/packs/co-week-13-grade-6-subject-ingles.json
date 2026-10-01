@@ -9,42 +9,42 @@
   "questions": [
     {
       "id": "CO-ING-6-2026-W13-describing-people-physical-001-v1",
-      "statement": "This is a review question about describing-people-physical.",
-      "context": "Scenario about describing-people-physical in a Colombian school or city context.",
+      "statement": "Camila has long, straight brown hair. Which description matches her?",
+      "context": "Describing the hair of a classmate in Bogotá.",
       "options": [
         {
           "letter": "A",
-          "text": "Option A (Correct)",
-          "is_correct": true,
-          "feedback": "Correct! Well done."
+          "text": "She has short, curly black hair.",
+          "is_correct": false,
+          "feedback": "This says the opposite of the description: the hair is long rather than short, and straight rather than curly."
         },
         {
           "letter": "B",
-          "text": "Option C",
-          "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "text": "She has long, straight brown hair.",
+          "is_correct": true,
+          "feedback": "The three adjectives long, straight and brown together match every detail given about Camila's hair."
         },
         {
           "letter": "C",
-          "text": "Option B",
+          "text": "She has long, straight blonde hair.",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "The length and texture are right, but the colour given is brown and not blonde."
         },
         {
           "letter": "D",
-          "text": "Option D",
+          "text": "She has short, straight brown hair.",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "The colour is right, but the hair is long and not short, so one of the three details is wrong."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "This question evaluates the student's ability to remember the topic of Describing People: Physical Appearance at an A2 level. It focuses on Colombian contexts and standard A2 grammar.\n\n---",
-      "difficulty": "4",
+      "correct_answer": "B",
+      "explanation": "The correct answer is \"She has long, straight brown hair.\" Describing physical appearance at A2 means moving between two and three adjectives in a fixed order, length then texture then colour, and students who know the words often arrange them in the wrong order or drop one. Holding all three details at once is the skill the whole week builds, because the personality week that follows adds a different set of adjectives to describe the same person.",
+      "difficulty": "3",
       "images": [],
       "tags": [],
       "bloom": "Remember",
-      "icfes_type": "Reading Comprehension",
-      "expected_success": 0.75,
+      "icfes_type": "Lexical Knowledge",
+      "expected_success": 0.82,
       "bundle_id": "CO-ING-6-2026-W13-describing-people-physical-001-MASTERY-bundle",
       "periodo": 13,
       "protocol_version": "5.2",
@@ -55,42 +55,42 @@
     },
     {
       "id": "CO-ING-6-2026-W13-describing-people-physical-002-v1",
-      "statement": "Select the correct A2 level use for describing-people-physical.",
-      "context": "Scenario about describing-people-physical in a Colombian school or city context.",
+      "statement": "Which word names the part of the face you use to see?",
+      "context": "Naming a facial feature from a description.",
       "options": [
         {
           "letter": "A",
-          "text": "Structure 2",
+          "text": "ear",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "An ear is used for hearing, not for seeing, so it is the sense organ this definition does not describe."
         },
         {
           "letter": "B",
-          "text": "Structure 3",
+          "text": "nose",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "A nose is used for smelling and for breathing, so it is not the organ responsible for sight."
         },
         {
           "letter": "C",
-          "text": "Structure 1 (Correct)",
+          "text": "eye",
           "is_correct": true,
-          "feedback": "Correct! Well done."
+          "feedback": "An eye is the organ of sight, and the plural eyes is the pair that a person uses to see."
         },
         {
           "letter": "D",
-          "text": "Structure 4",
+          "text": "mouth",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "A mouth is used for eating and speaking, so it is not the part of the face connected with seeing."
         }
       ],
       "correct_answer": "C",
-      "explanation": "This question evaluates the student's ability to remember the topic of Describing People: Physical Appearance at an A2 level. It focuses on Colombian contexts and standard A2 grammar.\n\n---",
-      "difficulty": "4",
+      "explanation": "The correct answer is \"eye\". Face vocabulary is the first content the appearance week introduces, and students meet it most easily when each word is tied to the function it performs. That pairing is also what lets them build the sentence frame for the rest of the week, since knowing a feature by name is what makes it possible to say who has it.",
+      "difficulty": "3",
       "images": [],
       "tags": [],
       "bloom": "Remember",
-      "icfes_type": "Reading Comprehension",
-      "expected_success": 0.75,
+      "icfes_type": "Lexical Knowledge",
+      "expected_success": 0.8,
       "bundle_id": "CO-ING-6-2026-W13-describing-people-physical-001-MASTERY-bundle",
       "periodo": 13,
       "protocol_version": "5.2",
@@ -101,42 +101,42 @@
     },
     {
       "id": "CO-ING-6-2026-W13-describing-people-physical-003-v1",
-      "statement": "Identify the appropriate vocabulary for describing-people-physical.",
-      "context": "Scenario about describing-people-physical in a Colombian school or city context.",
+      "statement": "Read: \"Andrés is tall and thin. Juliana is short and a little bit strong.\" Who is taller?",
+      "context": "Reading two short descriptions of students in a class.",
       "options": [
         {
           "letter": "A",
-          "text": "Word 2",
+          "text": "Juliana",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "Juliana is described as short, so she cannot be the taller of the two."
         },
         {
           "letter": "B",
-          "text": "Word 3",
+          "text": "The text does not say.",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "The words tall and short are both used, so the text does give a clear comparison."
         },
         {
           "letter": "C",
-          "text": "Word 4",
+          "text": "Both are the same height.",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "One student is described as tall and the other as short, so the text states they differ."
         },
         {
           "letter": "D",
-          "text": "Word 1 (Correct)",
+          "text": "Andrés",
           "is_correct": true,
-          "feedback": "Correct! Well done."
+          "feedback": "Andrés is described as tall, which means he is taller than the student described as short."
         }
       ],
       "correct_answer": "D",
-      "explanation": "This question evaluates the student's ability to understand the topic of Describing People: Physical Appearance at an A2 level. It focuses on Colombian contexts and standard A2 grammar.\n\n---",
-      "difficulty": "6",
+      "explanation": "The correct answer is \"Andrés\". Two opposing adjectives in a short text create a comparison without any numbers, and recognising that tall and short are opposites is the whole reading task. Students who treat the adjectives as unrelated labels miss the contrast, so building the habit of pairing opposites is the transferable habit this item is really after.",
+      "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Understand",
       "icfes_type": "Reading Comprehension",
-      "expected_success": 0.75,
+      "expected_success": 0.78,
       "bundle_id": "CO-ING-6-2026-W13-describing-people-physical-001-MASTERY-bundle",
       "periodo": 13,
       "protocol_version": "5.2",
@@ -147,42 +147,42 @@
     },
     {
       "id": "CO-ING-6-2026-W13-describing-people-physical-004-v1",
-      "statement": "Complete the sentence about describing-people-physical.",
-      "context": "Scenario about describing-people-physical in a Colombian school or city context.",
+      "statement": "Which sentence describes a person's appearance correctly?",
+      "context": "Choosing the verb that fits a description of a person.",
       "options": [
         {
           "letter": "A",
-          "text": "Phrase A (Correct)",
+          "text": "She has long hair.",
           "is_correct": true,
-          "feedback": "Correct! Well done."
+          "feedback": "The subject she takes the third person singular of have, which is has, and the adjective long comes before the noun."
         },
         {
           "letter": "B",
-          "text": "Phrase D",
+          "text": "She have long hair.",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "The subject she is third person singular, so it takes has and not the plural have."
         },
         {
           "letter": "C",
-          "text": "Phrase B",
+          "text": "She haves long hair.",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "English does not add an -s to the verb have; the third person form is irregular and is simply has."
         },
         {
           "letter": "D",
-          "text": "Phrase C",
+          "text": "She to have long hair.",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "The bare infinitive have has no subject and no auxiliary attached to it, so it cannot form this sentence."
         }
       ],
       "correct_answer": "A",
-      "explanation": "This question evaluates the student's ability to understand the topic of Describing People: Physical Appearance at an A2 level. It focuses on Colombian contexts and standard A2 grammar.\n\n---",
-      "difficulty": "6",
+      "explanation": "The correct answer is \"She has long hair.\" Every description of a person needs a verb of appearance, and the third person singular of have is irregular, which is exactly where students who can say I have and we have fall over. Practising the frame she has and he has alongside the adjectives is what lets a student produce a full description instead of a bare list of features.",
+      "difficulty": "4",
       "images": [],
       "tags": [],
-      "bloom": "Understand",
-      "icfes_type": "Reading Comprehension",
-      "expected_success": 0.75,
+      "bloom": "Apply",
+      "icfes_type": "Grammatical Knowledge",
+      "expected_success": 0.76,
       "bundle_id": "CO-ING-6-2026-W13-describing-people-physical-001-MASTERY-bundle",
       "periodo": 13,
       "protocol_version": "5.2",
@@ -193,42 +193,42 @@
     },
     {
       "id": "CO-ING-6-2026-W13-describing-people-physical-005-v1",
-      "statement": "What is the best way to express describing-people-physical?",
-      "context": "Scenario about describing-people-physical in a Colombian school or city context.",
+      "statement": "Where does the adjective go in this description? \"Lucia has hair black.\" Which sentence is correct?",
+      "context": "Placing an adjective in the right position in a description.",
       "options": [
         {
           "letter": "A",
-          "text": "Other way",
-          "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "text": "Lucia has black hair.",
+          "is_correct": true,
+          "feedback": "In English the adjective comes before the noun it describes, so black goes in front of hair."
         },
         {
           "letter": "B",
-          "text": "This way (Correct)",
-          "is_correct": true,
-          "feedback": "Correct! Well done."
+          "text": "Lucia has hair black.",
+          "is_correct": false,
+          "feedback": "This is the Spanish word order, and in English the adjective has to stand in front of the noun."
         },
         {
           "letter": "C",
-          "text": "That way",
+          "text": "Lucia has black a hair.",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "An article cannot come between the adjective and the noun in English, and hair does not take an article here."
         },
         {
           "letter": "D",
-          "text": "Incorrect way",
+          "text": "Lucia has the black hair.",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "The definite article is not needed for a general description of hair, and it would make the phrase sound specific."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "This question evaluates the student's ability to apply the topic of Describing People: Physical Appearance at an A2 level. It focuses on Colombian contexts and standard A2 grammar.\n\n---",
-      "difficulty": "6",
+      "correct_answer": "A",
+      "explanation": "The correct answer is \"Lucia has black hair.\" Spanish puts the adjective after the noun and English puts it before, which is one of the most reliable differences between the two languages and one of the most persistent errors. Correcting a Spanish word order into English is a direct, visible piece of work that the student can check for themselves.",
+      "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Apply",
-      "icfes_type": "Reading Comprehension",
-      "expected_success": 0.75,
+      "icfes_type": "Grammatical Knowledge",
+      "expected_success": 0.74,
       "bundle_id": "CO-ING-6-2026-W13-describing-people-physical-001-MASTERY-bundle",
       "periodo": 13,
       "protocol_version": "5.2",
@@ -239,42 +239,42 @@
     },
     {
       "id": "CO-ING-6-2026-W13-describing-people-physical-006-v1",
-      "statement": "Find the error in this describing-people-physical sentence.",
-      "context": "Scenario about describing-people-physical in a Colombian school or city context.",
+      "statement": "Which word describes a person who is not fat and not thin?",
+      "context": "Describing a person's general build rather than one feature.",
       "options": [
         {
           "letter": "A",
-          "text": "Different error",
+          "text": "strong",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "Strong in this context describes having muscles or power, not the middle ground between fat and thin."
         },
         {
           "letter": "B",
-          "text": "Wrong error",
+          "text": "big",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "Big refers to overall size, and it does not express the middle ground between fat and thin."
         },
         {
           "letter": "C",
-          "text": "The error is here (Correct)",
-          "is_correct": true,
-          "feedback": "Correct! Well done."
+          "text": "thin",
+          "is_correct": false,
+          "feedback": "Thin is one of the two extremes the question is trying to avoid, not the middle position between them."
         },
         {
           "letter": "D",
-          "text": "No error",
-          "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "text": "average",
+          "is_correct": true,
+          "feedback": "Average describes a person of a middle build, sitting between fat and thin, which is what the definition asks for."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "This question evaluates the student's ability to apply the topic of Describing People: Physical Appearance at an A2 level. It focuses on Colombian contexts and standard A2 grammar.\n\n---",
-      "difficulty": "8",
+      "correct_answer": "D",
+      "explanation": "The correct answer is \"average\". A Grade 6 student needs a small set of build words that are actually opposites of one another, and the pairs tall and short, thin and strong, big and small are what make a description understandable to someone else. Choosing the middle term rather than either extreme forces the student to hold a scale in mind instead of memorising a single word per person.",
+      "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Apply",
-      "icfes_type": "Reading Comprehension",
-      "expected_success": 0.75,
+      "icfes_type": "Lexical Knowledge",
+      "expected_success": 0.72,
       "bundle_id": "CO-ING-6-2026-W13-describing-people-physical-001-MASTERY-bundle",
       "periodo": 13,
       "protocol_version": "5.2",
@@ -285,42 +285,42 @@
     },
     {
       "id": "CO-ING-6-2026-W13-describing-people-physical-007-v1",
-      "statement": "Match the term with the definition of describing-people-physical.",
-      "context": "Scenario about describing-people-physical in a Colombian school or city context.",
+      "statement": "You must describe your partner to another student without saying the name. Which description is clearest?",
+      "context": "Describing a classmate for a school partner activity.",
       "options": [
         {
           "letter": "A",
-          "text": "Opposite",
+          "text": "He is a person.",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "This identifies nobody at all, since it gives no feature that could distinguish one student from another."
         },
         {
           "letter": "B",
-          "text": "Non-matching",
-          "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "text": "He is a boy with black hair and he is my friend.",
+          "is_correct": true,
+          "feedback": "This names the two visible features and the relation, which gives the listener enough to identify the person."
         },
         {
           "letter": "C",
-          "text": "Matching term (Correct)",
-          "is_correct": true,
-          "feedback": "Correct! Well done."
+          "text": "He is nice and he is my friend.",
+          "is_correct": false,
+          "feedback": "Nice describes character rather than appearance, so the other student could not tell which classmate is meant from this alone."
         },
         {
           "letter": "D",
-          "text": "Irrelevant",
+          "text": "He is tall, he is short and he is average.",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "This lists three contradictory descriptions at once, so it communicates no clear picture of the partner."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "This question evaluates the student's ability to apply the topic of Describing People: Physical Appearance at an A2 level. It focuses on Colombian contexts and standard A2 grammar.\n\n---",
-      "difficulty": "8",
+      "correct_answer": "B",
+      "explanation": "The correct answer is \"He is a boy with black hair and he is my friend.\" A description has a purpose, and the purpose here is identification, which means two or three consistent visible features rather than a long list. Showing that adding more information can make a description worse is a genuinely analytical judgement, and it is the standard students reach when they later have to write a description for an exam.",
+      "difficulty": "5",
       "images": [],
       "tags": [],
       "bloom": "Apply",
-      "icfes_type": "Reading Comprehension",
-      "expected_success": 0.75,
+      "icfes_type": "Pragmatic Competence",
+      "expected_success": 0.7,
       "bundle_id": "CO-ING-6-2026-W13-describing-people-physical-001-MASTERY-bundle",
       "periodo": 13,
       "protocol_version": "5.2",
@@ -331,42 +331,42 @@
     },
     {
       "id": "CO-ING-6-2026-W13-describing-people-physical-008-v1",
-      "statement": "Choose the synonym for a word related to describing-people-physical.",
-      "context": "Scenario about describing-people-physical in a Colombian school or city context.",
+      "statement": "Read: \"Felipe has curly hair and wears glasses.\" Which statement about Felipe is true?",
+      "context": "Checking which description a short text actually supports.",
       "options": [
         {
           "letter": "A",
-          "text": "Synonym (Correct)",
+          "text": "Felipe has curly hair.",
           "is_correct": true,
-          "feedback": "Correct! Well done."
+          "feedback": "The text states that his hair is curly, and this repeats exactly what the text says."
         },
         {
           "letter": "B",
-          "text": "Homonym",
+          "text": "Felipe does not wear glasses.",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "The text says he wears glasses, so denying that contradicts the text directly."
         },
         {
           "letter": "C",
-          "text": "Unrelated",
+          "text": "Felipe has straight hair.",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "The text says his hair is curly, so describing it as straight contradicts the text directly."
         },
         {
           "letter": "D",
-          "text": "Antonym",
+          "text": "Felipe is bald.",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "The text says he has hair, and it says nothing at all about him being bald."
         }
       ],
       "correct_answer": "A",
-      "explanation": "This question evaluates the student's ability to analyze the topic of Describing People: Physical Appearance at an A2 level. It focuses on Colombian contexts and standard A2 grammar.\n\n---",
-      "difficulty": "8",
+      "explanation": "The correct answer is \"Felipe has curly hair.\" Two of the distractors are direct contradictions of the text and one invents a fact, so the item separates three different reading errors rather than testing recall alone. The skill being built is checking a statement against what a text actually supports, which is precisely what ICFES reading items ask for.",
+      "difficulty": "5",
       "images": [],
       "tags": [],
       "bloom": "Analyze",
       "icfes_type": "Reading Comprehension",
-      "expected_success": 0.75,
+      "expected_success": 0.68,
       "bundle_id": "CO-ING-6-2026-W13-describing-people-physical-001-MASTERY-bundle",
       "periodo": 13,
       "protocol_version": "5.2",
@@ -377,42 +377,42 @@
     },
     {
       "id": "CO-ING-6-2026-W13-describing-people-physical-009-v1",
-      "statement": "Which of these belongs to describing-people-physical?",
-      "context": "Scenario about describing-people-physical in a Colombian school or city context.",
+      "statement": "A student writes: \"My mother have short gray hair.\" What is the problem?",
+      "context": "Repairing a description that has been written with the wrong verb form.",
       "options": [
         {
           "letter": "A",
-          "text": "Both",
+          "text": "The adjective gray is in the wrong place.",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "Gray is correctly placed in front of the noun hair, so its position is not the fault here."
         },
         {
           "letter": "B",
-          "text": "Not this one",
+          "text": "The subject is plural, so have is correct.",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "My mother is a singular subject, so have is the form that does not agree with it."
         },
         {
           "letter": "C",
-          "text": "Neither",
+          "text": "The plural noun hair needs an s.",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "Hair is a mass noun in English and takes no plural -s, so the noun is not the problem."
         },
         {
           "letter": "D",
-          "text": "This one (Correct)",
+          "text": "The verb have does not agree with the subject.",
           "is_correct": true,
-          "feedback": "Correct! Well done."
+          "feedback": "My mother is third person singular, so the verb has to be has rather than the base form have."
         }
       ],
       "correct_answer": "D",
-      "explanation": "This question evaluates the student's ability to analyze the topic of Describing People: Physical Appearance at an A2 level. It focuses on Colombian contexts and standard A2 grammar.\n\n---",
-      "difficulty": "10",
+      "explanation": "The correct answer is \"The verb have does not agree with the subject.\" Error correction on a sentence where everything else is right isolates the single fault, and this one is about agreement rather than word order or vocabulary. The distractors name three plausible-looking problems that are all absent, which is the hardest and most useful kind of item at this level because the student must rule things out.",
+      "difficulty": "5",
       "images": [],
       "tags": [],
       "bloom": "Analyze",
-      "icfes_type": "Reading Comprehension",
-      "expected_success": 0.75,
+      "icfes_type": "Grammatical Knowledge",
+      "expected_success": 0.65,
       "bundle_id": "CO-ING-6-2026-W13-describing-people-physical-001-MASTERY-bundle",
       "periodo": 13,
       "protocol_version": "5.2",
@@ -423,42 +423,42 @@
     },
     {
       "id": "CO-ING-6-2026-W13-describing-people-physical-010-v1",
-      "statement": "Predict the next word in the describing-people-physical context.",
-      "context": "Scenario about describing-people-physical in a Colombian school or city context.",
+      "statement": "You have to describe one person in a group of six classmates. Which description would best identify your person?",
+      "context": "Choosing the most useful description of an unknown person from a group.",
       "options": [
         {
           "letter": "A",
-          "text": "Correct prediction",
-          "is_correct": true,
-          "feedback": "Correct! Well done."
+          "text": "He is happy.",
+          "is_correct": false,
+          "feedback": "Happiness cannot be seen from across a room, so this gives the listener nothing to use for identification."
         },
         {
           "letter": "B",
-          "text": "Maybe",
+          "text": "He is a student like the others.",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "Every person in the group is a student, so this description excludes nobody and identifies nobody."
         },
         {
           "letter": "C",
-          "text": "Wrong prediction",
-          "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "text": "He is the second tallest, with short black hair and glasses.",
+          "is_correct": true,
+          "feedback": "The position, the build, the hair and the glasses together narrow the group down to a single person."
         },
         {
           "letter": "D",
-          "text": "Impossible",
+          "text": "He is wearing a blue shirt.",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "A shirt can be changed during the day, so it is not a reliable feature for identifying a person."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "This question evaluates the student's ability to evaluate the topic of Describing People: Physical Appearance at an A2 level. It focuses on Colombian contexts and standard A2 grammar.\n\n---",
-      "difficulty": "10",
+      "correct_answer": "C",
+      "explanation": "The correct answer is \"He is the second tallest, with short black hair and glasses.\" Evaluating a description means judging which features actually distinguish one person from several, and that is a different skill from producing one. Permanent physical features beat temporary ones like clothing, and relative position among a group is often the fastest way to single someone out, which is exactly the reasoning a speaking assessment rewards.\n\n---",
+      "difficulty": "5",
       "images": [],
       "tags": [],
       "bloom": "Evaluate",
-      "icfes_type": "Reading Comprehension",
-      "expected_success": 0.75,
+      "icfes_type": "Pragmatic Competence",
+      "expected_success": 0.62,
       "bundle_id": "CO-ING-6-2026-W13-describing-people-physical-001-MASTERY-bundle",
       "periodo": 13,
       "protocol_version": "5.2",

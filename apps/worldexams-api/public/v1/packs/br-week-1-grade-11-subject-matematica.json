@@ -883,13 +883,13 @@
           "letter": "C",
           "text": "$X = 2Y$",
           "is_correct": false,
-          "feedback": "A relação correta é a igualdade."
+          "feedback": "Se X = Y, então X = 2Y só seria verdade se Y = 0, o que nunca acontece num conjunto não vazio."
         },
         {
           "letter": "D",
           "text": "$X = Y/2$",
           "is_correct": false,
-          "feedback": "A relação correta é a igualdade."
+          "feedback": "Se X = Y, então X = Y/2 só seria verdade se Y = 0, o que nunca acontece num conjunto não vazio."
         }
       ],
       "correct_answer": "B",

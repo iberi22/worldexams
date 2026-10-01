@@ -16,25 +16,25 @@
           "letter": "A",
           "text": "eating",
           "is_correct": false,
-          "feedback": "Esta opción usa el gerundio, que requiere un verbo auxiliar (como 'am') y no se usa para rutinas generales en presente simple."
+          "feedback": "'Eating' is an -ing form, which needs an auxiliary such as 'am', and a routine takes the simple present instead."
         },
         {
           "letter": "C",
           "text": "eat",
           "is_correct": true,
-          "feedback": "¡Correcto! Usamos el presente simple en infinitivo (sin 's') para la primera persona del singular (I) al hablar de rutinas."
+          "feedback": "The simple present in the bare infinitive, without the -s, is the form used with 'I' for routines."
         },
         {
           "letter": "B",
           "text": "eats",
           "is_correct": false,
-          "feedback": "Esta forma se usa para la tercera persona del singular (he, she, it), no para 'I'."
+          "feedback": "The -s form is used with he, she and it, not with the subject 'I'."
         },
         {
           "letter": "D",
           "text": "ate",
           "is_correct": false,
-          "feedback": "Este es el pasado simple del verbo 'eat', pero la oración describe una rutina presente (\"Every morning\")."
+          "feedback": "'Ate' is the simple past of 'eat', but the sentence describes a present routine ('Every morning')."
         }
       ],
       "correct_answer": "C",
@@ -61,25 +61,25 @@
           "letter": "B",
           "text": "has",
           "is_correct": false,
-          "feedback": "El presente simple indica hábito, pero la frase \"right now\" requiere una acción en progreso."
+          "feedback": "The simple present marks a habit, but 'right now' requires an action in progress."
         },
         {
           "letter": "C",
           "text": "having",
           "is_correct": false,
-          "feedback": "Falta el verbo auxiliar 'is' para formar el presente continuo correctamente."
+          "feedback": "The auxiliary 'is' is missing, so 'having' cannot form the present continuous here."
         },
         {
           "letter": "A",
           "text": "is having",
           "is_correct": true,
-          "feedback": "¡Excelente! El presente continuo se forma con 'is' + verbo con '-ing' para acciones que ocurren en el momento."
+          "feedback": "The present continuous is 'is' plus the -ing form, which is what is happening at this moment."
         },
         {
           "letter": "D",
           "text": "are having",
           "is_correct": false,
-          "feedback": "'Are' se usa con you, we y they, pero no con 'he'."
+          "feedback": "'Are' goes with you, we and they, but not with the singular 'he'."
         }
       ],
       "correct_answer": "A",
@@ -106,25 +106,25 @@
           "letter": "A",
           "text": "The water is falling very fast today.",
           "is_correct": false,
-          "feedback": "Aunque es gramaticalmente correcta, describe una situación específica de hoy, no necesariamente una verdad permanente."
+          "feedback": "It is grammatical, but it describes a specific situation today rather than a permanent truth."
         },
         {
           "letter": "D",
           "text": "Iguazu Falls attracts thousands of tourists every year.",
           "is_correct": true,
-          "feedback": "¡Muy bien! El presente simple se usa para hechos permanentes o verdades generales."
+          "feedback": "The simple present is the tense for permanent facts and general truths, which is what a waterfall attracting tourists every year describes."
         },
         {
           "letter": "B",
           "text": "The sun is shining in Misiones every day.",
           "is_correct": false,
-          "feedback": "El presente continuo no se usa para acciones que ocurren \"todos los días\" como una regla general."
+          "feedback": "The present continuous is not used for an action that happens 'every day' as a general rule."
         },
         {
           "letter": "C",
           "text": "Tourists visiting the park right now.",
           "is_correct": false,
-          "feedback": "A esta oración le falta el verbo auxiliar 'are' para ser un presente continuo correcto."
+          "feedback": "The sentence is missing the auxiliary 'are', so it is not a correct present continuous."
         }
       ],
       "correct_answer": "D",
@@ -151,25 +151,25 @@
           "letter": "A",
           "text": "study / visit",
           "is_correct": false,
-          "feedback": "La segunda parte de la oración describe una situación temporal (\"this week\"), por lo que requiere presente continuo."
+          "feedback": "The second clause is temporary ('this week'), so it requires the present continuous rather than the simple present."
         },
         {
           "letter": "B",
           "text": "am studying / am visiting",
           "is_correct": false,
-          "feedback": "La primera parte describe una rutina normal, por lo que debería estar en presente simple."
+          "feedback": "The first clause is a normal routine, so it should be in the simple present."
         },
         {
           "letter": "C",
           "text": "study / am visiting",
           "is_correct": true,
-          "feedback": "¡Correcto! Usás presente simple para lo habitual (\"normally\") y presente continuo para lo temporal (\"this week\")."
+          "feedback": "The simple present covers what is usual ('normally') and the present continuous covers what is temporary ('this week')."
         },
         {
           "letter": "D",
           "text": "studying / visiting",
           "is_correct": false,
-          "feedback": "Faltan los verbos auxiliares necesarios para formar los tiempos correctamente."
+          "feedback": "Both -ing forms are missing the auxiliary verbs needed to build the tenses."
         }
       ],
       "correct_answer": "C",
@@ -196,25 +196,25 @@
           "letter": "B",
           "text": "is taking / is passing",
           "is_correct": false,
-          "feedback": "El presente continuo haría que el relato suene muy lento para una acción rápida de fútbol."
+          "feedback": "The present continuous would make the sequence sound far too slow for quick football action."
         },
         {
           "letter": "A",
           "text": "takes / passes",
           "is_correct": true,
-          "feedback": "¡Exacto! El presente simple se usa en relatos deportivos para dar dinamismo a las acciones sucesivas."
+          "feedback": "Sporting commentary uses the simple present to give successive quick actions pace and energy."
         },
         {
           "letter": "C",
           "text": "take / pass",
           "is_correct": false,
-          "feedback": "Falta la 's' de la tercera persona del singular para el sujeto 'Messi'."
+          "feedback": "The third person singular needs the -s after the subject 'Messi', so 'take' is wrong."
         },
         {
           "letter": "D",
           "text": "taking / passing",
           "is_correct": false,
-          "feedback": "Estas formas solas no funcionan como verbos principales conjugados en la oración."
+          "feedback": "These -ing forms alone cannot function as the conjugated main verbs of the sentence."
         }
       ],
       "correct_answer": "A",
@@ -241,25 +241,25 @@
           "letter": "B",
           "text": "Do you listen to music now?",
           "is_correct": false,
-          "feedback": "\"Do you listen\" se usa para hábitos, no para preguntar qué está haciendo alguien en este momento."
+          "feedback": "'Do you listen' is used for habits, not for asking what someone is doing at this moment."
         },
         {
           "letter": "C",
           "text": "Are you listen to music?",
           "is_correct": false,
-          "feedback": "En el presente continuo, el verbo principal debe terminar en -ing."
+          "feedback": "In the present continuous the main verb must end in -ing, so 'listen' is wrong after 'are'."
         },
         {
           "letter": "A",
           "text": "Are you listening to music?",
           "is_correct": true,
-          "feedback": "¡Perfecto! La estructura para preguntas en presente continuo es: Am/Is/Are + sujeto + verbo-ing?"
+          "feedback": "The structure for a present continuous question is Am/Is/Are plus subject plus verb-ing."
         },
         {
           "letter": "D",
           "text": "Is you listening to music?",
           "is_correct": false,
-          "feedback": "El auxiliar 'Is' no concuerda con el pronombre 'you'."
+          "feedback": "The auxiliary 'Is' does not agree with the pronoun 'you'."
         }
       ],
       "correct_answer": "A",
@@ -286,25 +286,25 @@
           "letter": "A",
           "text": "I am knowing the history of La Plata very well.",
           "is_correct": false,
-          "feedback": "El verbo 'know' es estático; describe un estado mental y no suele usarse en continuo."
+          "feedback": "'Know' is a stative verb: it describes a state of mind and is not normally used in the continuous."
         },
         {
           "letter": "D",
           "text": "I know the history of La Plata very well.",
           "is_correct": true,
-          "feedback": "¡Muy bien! Los verbos de pensamiento o estado como 'know' se usan preferentemente en presente simple."
+          "feedback": "Verbs of thought or state such as 'know' are used in the simple present."
         },
         {
           "letter": "B",
           "text": "I am having a big house in the city center. (meaning possession)",
           "is_correct": false,
-          "feedback": "Cuando 'have' significa poseer, no se usa en la forma continua."
+          "feedback": "When 'have' means to possess, it does not take the continuous form."
         },
         {
           "letter": "C",
           "text": "This coffee is tasting great.",
           "is_correct": false,
-          "feedback": "Aunque se escucha a veces, 'taste' como percepción de estado suele ir en presente simple: \"tastes great\"."
+          "feedback": "As a state perception, 'taste' usually takes the simple present: 'tastes great'."
         }
       ],
       "correct_answer": "D",
@@ -331,25 +331,25 @@
           "letter": "A",
           "text": "I am going to the cinema tomorrow.",
           "is_correct": false,
-          "feedback": "Esto es una intención o plan personal, no un horario fijo oficial."
+          "feedback": "That is a personal intention or plan, not an official fixed timetable."
         },
         {
           "letter": "B",
           "text": "The bus to Mar del Plata leaves at 10 PM tonight.",
           "is_correct": true,
-          "feedback": "¡Exacto! Usamos el presente simple para transportes o eventos con horarios fijos, incluso si son en el futuro."
+          "feedback": "The simple present is used for transport and events with fixed timetables, even when they are in the future."
         },
         {
           "letter": "C",
           "text": "I will leave for Mar del Plata later.",
           "is_correct": false,
-          "feedback": "Esto es una decisión espontánea o predicción usando 'will', no el uso del presente simple para horarios."
+          "feedback": "That is a spontaneous decision or a prediction using 'will', not the simple present used for timetables."
         },
         {
           "letter": "D",
           "text": "The bus is leaving right now.",
           "is_correct": false,
-          "feedback": "Esto describe la acción que está pasando en este instante, no un horario programado a futuro."
+          "feedback": "That describes the action happening at this moment, not a scheduled future departure."
         }
       ],
       "correct_answer": "B",
@@ -376,25 +376,25 @@
           "letter": "A",
           "text": "There is no difference; both are about the present.",
           "is_correct": false,
-          "feedback": "Sí hay diferencia; el tiempo verbal cambia el sentido del verbo 'think'."
+          "feedback": "There is a difference, because the tense changes the meaning of the verb 'think'."
         },
         {
           "letter": "C",
           "text": "Sentence 1 is an opinion (state); sentence 2 is a mental process (action).",
           "is_correct": true,
-          "feedback": "¡Excelente análisis! 'Think' como opinión es estático, como proceso mental es una acción."
+          "feedback": "'Think' meaning an opinion is stative, while 'think about' as a mental process is an action."
         },
         {
           "letter": "B",
           "text": "Sentence 1 is a habit; sentence 2 is a permanent truth.",
           "is_correct": false,
-          "feedback": "Ninguna de las dos describe un hábito o una verdad universal en ese sentido."
+          "feedback": "Neither sentence describes a habit or a universal truth in that sense."
         },
         {
           "letter": "D",
           "text": "Sentence 1 is incorrect because 'think' should always be in continuous.",
           "is_correct": false,
-          "feedback": "Al contrario, 'think' como opinión suele ser simple."
+          "feedback": "On the contrary, 'think' meaning an opinion is normally in the simple present."
         }
       ],
       "correct_answer": "C",
@@ -421,25 +421,25 @@
           "letter": "B",
           "text": "A regular habit that happens every day.",
           "is_correct": false,
-          "feedback": "Si fuera un hábito neutral, se usaría presente simple: \"You always lose...\"."
+          "feedback": "A neutral daily habit would take the simple present, as in 'You always lose...'."
         },
         {
           "letter": "A",
           "text": "Annoyance or irritation about a repeated action.",
           "is_correct": true,
-          "feedback": "¡Correcto! El presente continuo con 'always' se usa para quejarse de algo que pasa con demasiada frecuencia."
+          "feedback": "The present continuous with 'always' is used to complain about something that happens too often."
         },
         {
           "letter": "C",
           "text": "A scheduled event in the future.",
           "is_correct": false,
-          "feedback": "No tiene nada que ver con horarios o calendarios."
+          "feedback": "There is no schedule or calendar involved; the sentence is about a repeated annoyance."
         },
         {
           "letter": "D",
           "text": "A compliment about the person's memory.",
           "is_correct": false,
-          "feedback": "Claramente es una crítica por perder la tarjeta de transporte."
+          "feedback": "Nothing here praises the listener's memory; the remark criticises them for losing the card."
         }
       ],
       "correct_answer": "A",
@@ -466,25 +466,25 @@
           "letter": "A",
           "text": "'grows' should be 'is growing' because it's happening now.",
           "is_correct": false,
-          "feedback": "'Grows' es correcto para una tendencia anual general."
+          "feedback": "'Grows' is correct for a general annual trend, so it does not need changing."
         },
         {
           "letter": "D",
           "text": "'are visit' should be 'are visiting'.",
           "is_correct": true,
-          "feedback": "¡Exacto! El presente continuo para tendencias actuales requiere el gerundio (-ing)."
+          "feedback": "A present continuous trend requires the -ing form, so 'are visit' must be 'are visiting'."
         },
         {
           "letter": "B",
           "text": "'every year' cannot be used with the Present Simple.",
           "is_correct": false,
-          "feedback": "Al revés, es una de las expresiones de tiempo más comunes para el presente simple."
+          "feedback": "On the contrary, 'every year' is one of the most common time expressions used with the simple present."
         },
         {
           "letter": "C",
           "text": "There are no errors in the paragraph.",
           "is_correct": false,
-          "feedback": "El error gramatical en 'are visit' es claro."
+          "feedback": "There is a clear grammatical error in 'are visit', so the paragraph is not error-free."
         }
       ],
       "correct_answer": "D",
@@ -511,25 +511,25 @@
           "letter": "B",
           "text": "Because they forgot the past tense rules.",
           "is_correct": false,
-          "feedback": "Es una elección estilística deliberada, no un error gramatical."
+          "feedback": "It is a deliberate stylistic choice, not a grammatical mistake."
         },
         {
           "letter": "C",
           "text": "To make the story feel distant and old.",
           "is_correct": false,
-          "feedback": "El presente suele acercar la acción al lector, no alejarla."
+          "feedback": "The present normally brings the action closer to the reader rather than pushing it away."
         },
         {
           "letter": "A",
           "text": "To create a sense of immediacy and make the reader feel part of the scene.",
           "is_correct": true,
-          "feedback": "¡Excelente! El presente narrativo hace que la historia se sienta más viva y urgente."
+          "feedback": "Narrative present makes the story feel more vivid and urgent."
         },
         {
           "letter": "D",
           "text": "Because English doesn't have enough past tenses.",
           "is_correct": false,
-          "feedback": "El inglés tiene muchos tiempos de pasado; el presente se usa por estilo."
+          "feedback": "English has many past tenses; the present is used here for style."
         }
       ],
       "correct_answer": "A",

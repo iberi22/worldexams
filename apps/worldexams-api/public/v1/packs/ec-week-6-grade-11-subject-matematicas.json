@@ -16,25 +16,25 @@
           "letter": "A",
           "text": "$4x^2 + 12x + 9$",
           "is_correct": true,
-          "feedback": "Correcto. ¡Excelente análisis!"
+          "feedback": "Es el cuadrado del binomio: $(2x)^2 + 2(2x)(3) + 3^2 = 4x^2 + 12x + 9$."
         },
         {
           "letter": "B",
           "text": "$4x^2 + 6x + 9$",
           "is_correct": false,
-          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+          "feedback": "El término medio debe ser $2(2x)(3)=12x$, no $6x$; se olvidó el factor 2 de la fórmula del cuadrado del binomio."
         },
         {
           "letter": "C",
           "text": "$2x^2 + 12x + 9$",
           "is_correct": false,
-          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+          "feedback": "Al elevar $(2x)^2$ el exponente 2 se aplica al coeficiente, y $(2x)^2 = 4x^2$, no $2x^2$."
         },
         {
           "letter": "D",
           "text": "$4x^2 + 9$",
           "is_correct": false,
-          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+          "feedback": "Falta el término lineal $2(2x)(3)=12x$; solo se desarrollan los dos cuadrados extremos."
         }
       ],
       "correct_answer": "A",
@@ -61,25 +61,25 @@
           "letter": "A",
           "text": "$4x^2 + 9$",
           "is_correct": false,
-          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+          "feedback": "Falta el término lineal $2(2x)(3)=12x$; solo se desarrollan los dos cuadrados extremos."
         },
         {
           "letter": "B",
           "text": "$4x^2 + 12x + 9$",
           "is_correct": true,
-          "feedback": "Correcto. ¡Excelente análisis!"
+          "feedback": "Es el cuadrado del binomio: $(2x)^2 + 2(2x)(3) + 3^2 = 4x^2 + 12x + 9$."
         },
         {
           "letter": "C",
           "text": "$4x^2 + 6x + 9$",
           "is_correct": false,
-          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+          "feedback": "El término medio debe ser $2(2x)(3)=12x$, no $6x$; se olvidó el factor 2 de la fórmula del cuadrado del binomio."
         },
         {
           "letter": "D",
           "text": "$2x^2 + 12x + 9$",
           "is_correct": false,
-          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+          "feedback": "Al elevar $(2x)^2$ el exponente 2 se aplica al coeficiente, y $(2x)^2 = 4x^2$, no $2x^2$."
         }
       ],
       "correct_answer": "B",
@@ -106,25 +106,25 @@
           "letter": "A",
           "text": "$2x^2 + 12x + 9$",
           "is_correct": false,
-          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+          "feedback": "Al elevar $(2x)^2$ el exponente 2 se aplica al coeficiente, y $(2x)^2 = 4x^2$, no $2x^2$."
         },
         {
           "letter": "B",
           "text": "$4x^2 + 12x + 9$",
           "is_correct": true,
-          "feedback": "Correcto. ¡Excelente análisis!"
+          "feedback": "Es el cuadrado del binomio: $(2x)^2 + 2(2x)(3) + 3^2 = 4x^2 + 12x + 9$."
         },
         {
           "letter": "C",
           "text": "$4x^2 + 6x + 9$",
           "is_correct": false,
-          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+          "feedback": "El término medio debe ser $2(2x)(3)=12x$, no $6x$; se olvidó el factor 2 de la fórmula del cuadrado del binomio."
         },
         {
           "letter": "D",
           "text": "$4x^2 + 9$",
           "is_correct": false,
-          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+          "feedback": "Falta el término lineal $2(2x)(3)=12x$; solo se desarrollan los dos cuadrados extremos."
         }
       ],
       "correct_answer": "B",
@@ -151,25 +151,25 @@
           "letter": "A",
           "text": "$2x^2 + 12x + 9$",
           "is_correct": false,
-          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+          "feedback": "Al elevar $(2x)^2$ el exponente 2 se aplica al coeficiente, y $(2x)^2 = 4x^2$, no $2x^2$."
         },
         {
           "letter": "B",
           "text": "$4x^2 + 6x + 9$",
           "is_correct": false,
-          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+          "feedback": "El término medio debe ser $2(2x)(3)=12x$, no $6x$; se olvidó el factor 2 de la fórmula del cuadrado del binomio."
         },
         {
           "letter": "C",
           "text": "$4x^2 + 9$",
           "is_correct": false,
-          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+          "feedback": "Falta el término lineal $2(2x)(3)=12x$; solo se desarrollan los dos cuadrados extremos."
         },
         {
           "letter": "D",
           "text": "$4x^2 + 12x + 9$",
           "is_correct": true,
-          "feedback": "Correcto. ¡Excelente análisis!"
+          "feedback": "Es el cuadrado del binomio: $(2x)^2 + 2(2x)(3) + 3^2 = 4x^2 + 12x + 9$."
         }
       ],
       "correct_answer": "D",
@@ -196,25 +196,25 @@
           "letter": "A",
           "text": "$9a^2 - 24ab - 16b^2$",
           "is_correct": false,
-          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+          "feedback": "Al desarrollar se restan los términos cruzados $2(3a)(4b)=24ab$, pero en una diferencia de cuadrados esos términos se cancelan."
         },
         {
           "letter": "B",
           "text": "$9a^2 + 16b^2$",
           "is_correct": false,
-          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+          "feedback": "Falta el signo menos: la diferencia de cuadrados resta, y el producto $(3a-4b)(3a+4b)$ no puede dar dos cuadrados positivos."
         },
         {
           "letter": "C",
           "text": "$9a^2 - 16b^2$",
           "is_correct": true,
-          "feedback": "Correcto. ¡Excelente análisis!"
+          "feedback": "Es una diferencia de cuadrados: $(3a)^2 - (4b)^2 = 9a^2 - 16b^2$."
         },
         {
           "letter": "D",
           "text": "$6a^2 - 8b^2$",
           "is_correct": false,
-          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+          "feedback": "Los coeficientes salen de elevar 3 y 4 al cuadrado, es decir 9 y 16, no de multiplicarlos por 2."
         }
       ],
       "correct_answer": "C",
@@ -241,25 +241,25 @@
           "letter": "A",
           "text": "$9a^2 - 24ab - 16b^2$",
           "is_correct": false,
-          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+          "feedback": "Al desarrollar se restan los términos cruzados $2(3a)(4b)=24ab$, pero en una diferencia de cuadrados esos términos se cancelan."
         },
         {
           "letter": "B",
           "text": "$9a^2 - 16b^2$",
           "is_correct": true,
-          "feedback": "Correcto. ¡Excelente análisis!"
+          "feedback": "Es una diferencia de cuadrados: $(3a)^2 - (4b)^2 = 9a^2 - 16b^2$."
         },
         {
           "letter": "C",
           "text": "$6a^2 - 8b^2$",
           "is_correct": false,
-          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+          "feedback": "Los coeficientes salen de elevar 3 y 4 al cuadrado, es decir 9 y 16, no de multiplicarlos por 2."
         },
         {
           "letter": "D",
           "text": "$9a^2 + 16b^2$",
           "is_correct": false,
-          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+          "feedback": "Falta el signo menos: la diferencia de cuadrados resta, y el producto $(3a-4b)(3a+4b)$ no puede dar dos cuadrados positivos."
         }
       ],
       "correct_answer": "B",
@@ -286,25 +286,25 @@
           "letter": "A",
           "text": "$6a^2 - 8b^2$",
           "is_correct": false,
-          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+          "feedback": "Los coeficientes salen de elevar 3 y 4 al cuadrado, es decir 9 y 16, no de multiplicarlos por 2."
         },
         {
           "letter": "B",
           "text": "$9a^2 - 24ab - 16b^2$",
           "is_correct": false,
-          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+          "feedback": "Al desarrollar se restan los términos cruzados $2(3a)(4b)=24ab$, pero en una diferencia de cuadrados esos términos se cancelan."
         },
         {
           "letter": "C",
           "text": "$9a^2 + 16b^2$",
           "is_correct": false,
-          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+          "feedback": "Falta el signo menos: la diferencia de cuadrados resta, y el producto $(3a-4b)(3a+4b)$ no puede dar dos cuadrados positivos."
         },
         {
           "letter": "D",
           "text": "$9a^2 - 16b^2$",
           "is_correct": true,
-          "feedback": "Correcto. ¡Excelente análisis!"
+          "feedback": "Es una diferencia de cuadrados: $(3a)^2 - (4b)^2 = 9a^2 - 16b^2$."
         }
       ],
       "correct_answer": "D",
@@ -331,25 +331,25 @@
           "letter": "A",
           "text": "$9a^2 - 16b^2$",
           "is_correct": true,
-          "feedback": "Correcto. ¡Excelente análisis!"
+          "feedback": "Es una diferencia de cuadrados: $(3a)^2 - (4b)^2 = 9a^2 - 16b^2$."
         },
         {
           "letter": "B",
           "text": "$9a^2 + 16b^2$",
           "is_correct": false,
-          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+          "feedback": "Falta el signo menos: la diferencia de cuadrados resta, y el producto $(3a-4b)(3a+4b)$ no puede dar dos cuadrados positivos."
         },
         {
           "letter": "C",
           "text": "$6a^2 - 8b^2$",
           "is_correct": false,
-          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+          "feedback": "Los coeficientes salen de elevar 3 y 4 al cuadrado, es decir 9 y 16, no de multiplicarlos por 2."
         },
         {
           "letter": "D",
           "text": "$9a^2 - 24ab - 16b^2$",
           "is_correct": false,
-          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+          "feedback": "Al desarrollar se restan los términos cruzados $2(3a)(4b)=24ab$, pero en una diferencia de cuadrados esos términos se cancelan."
         }
       ],
       "correct_answer": "A",
@@ -376,25 +376,25 @@
           "letter": "A",
           "text": "$6a^2 - 8b^2$",
           "is_correct": false,
-          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+          "feedback": "Los coeficientes salen de elevar 3 y 4 al cuadrado, es decir 9 y 16, no de multiplicarlos por 2."
         },
         {
           "letter": "B",
           "text": "$9a^2 - 24ab - 16b^2$",
           "is_correct": false,
-          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+          "feedback": "Al desarrollar se restan los términos cruzados $2(3a)(4b)=24ab$, pero en una diferencia de cuadrados esos términos se cancelan."
         },
         {
           "letter": "C",
           "text": "$9a^2 + 16b^2$",
           "is_correct": false,
-          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+          "feedback": "Falta el signo menos: la diferencia de cuadrados resta, y el producto $(3a-4b)(3a+4b)$ no puede dar dos cuadrados positivos."
         },
         {
           "letter": "D",
           "text": "$9a^2 - 16b^2$",
           "is_correct": true,
-          "feedback": "Correcto. ¡Excelente análisis!"
+          "feedback": "Es una diferencia de cuadrados: $(3a)^2 - (4b)^2 = 9a^2 - 16b^2$."
         }
       ],
       "correct_answer": "D",
@@ -421,25 +421,25 @@
           "letter": "A",
           "text": "$9a^2 - 24ab - 16b^2$",
           "is_correct": false,
-          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+          "feedback": "Al desarrollar se restan los términos cruzados $2(3a)(4b)=24ab$, pero en una diferencia de cuadrados esos términos se cancelan."
         },
         {
           "letter": "B",
           "text": "$9a^2 - 16b^2$",
           "is_correct": true,
-          "feedback": "Correcto. ¡Excelente análisis!"
+          "feedback": "Es una diferencia de cuadrados: $(3a)^2 - (4b)^2 = 9a^2 - 16b^2$."
         },
         {
           "letter": "C",
           "text": "$9a^2 + 16b^2$",
           "is_correct": false,
-          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+          "feedback": "Falta el signo menos: la diferencia de cuadrados resta, y el producto $(3a-4b)(3a+4b)$ no puede dar dos cuadrados positivos."
         },
         {
           "letter": "D",
           "text": "$6a^2 - 8b^2$",
           "is_correct": false,
-          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+          "feedback": "Los coeficientes salen de elevar 3 y 4 al cuadrado, es decir 9 y 16, no de multiplicarlos por 2."
         }
       ],
       "correct_answer": "B",
@@ -466,25 +466,25 @@
           "letter": "A",
           "text": "$x^3 - 2x^2 + 4x - 8$",
           "is_correct": false,
-          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+          "feedback": "Los coeficientes del cubo son 3, no 1: el término en $x^2$ vale $-3x^2\\cdot 2 = -6x^2$ y el término en $x$ vale $3x\\cdot 4 = 12x$."
         },
         {
           "letter": "B",
           "text": "$x^3 - 6x^2 - 12x - 8$",
           "is_correct": false,
-          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+          "feedback": "El término en $x$ cambia de signo: como el binomio es $(x-2)$ el signo del término lineal sigue el alterno y es $+12x$."
         },
         {
           "letter": "C",
           "text": "$x^3 - 8$",
           "is_correct": false,
-          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+          "feedback": "Se omitieron los términos intermedios; $(x-2)^3$ no es una diferencia de cubos sino un cubo completo con cuatro términos."
         },
         {
           "letter": "D",
           "text": "$x^3 - 6x^2 + 12x - 8$",
           "is_correct": true,
-          "feedback": "Correcto. ¡Excelente análisis!"
+          "feedback": "Es el cubo del binomio: $x^3 - 3x^2(2) + 3x(2^2) - 2^3 = x^3 - 6x^2 + 12x - 8$."
         }
       ],
       "correct_answer": "D",
@@ -511,25 +511,25 @@
           "letter": "A",
           "text": "$x^3 - 6x^2 - 12x - 8$",
           "is_correct": false,
-          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+          "feedback": "El término en $x$ cambia de signo: como el binomio es $(x-2)$ el signo del término lineal sigue el alterno y es $+12x$."
         },
         {
           "letter": "B",
           "text": "$x^3 - 8$",
           "is_correct": false,
-          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+          "feedback": "Se omitieron los términos intermedios; $(x-2)^3$ no es una diferencia de cubos sino un cubo completo con cuatro términos."
         },
         {
           "letter": "C",
           "text": "$x^3 - 6x^2 + 12x - 8$",
           "is_correct": true,
-          "feedback": "Correcto. ¡Excelente análisis!"
+          "feedback": "Es el cubo del binomio: $x^3 - 3x^2(2) + 3x(2^2) - 2^3 = x^3 - 6x^2 + 12x - 8$."
         },
         {
           "letter": "D",
           "text": "$x^3 - 2x^2 + 4x - 8$",
           "is_correct": false,
-          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+          "feedback": "Los coeficientes del cubo son 3, no 1: el término en $x^2$ vale $-3x^2\\cdot 2 = -6x^2$ y el término en $x$ vale $3x\\cdot 4 = 12x$."
         }
       ],
       "correct_answer": "C",
@@ -556,25 +556,25 @@
           "letter": "A",
           "text": "$x^3 - 6x^2 + 12x - 8$",
           "is_correct": true,
-          "feedback": "Correcto. ¡Excelente análisis!"
+          "feedback": "Es el cubo del binomio: $x^3 - 3x^2(2) + 3x(2^2) - 2^3 = x^3 - 6x^2 + 12x - 8$."
         },
         {
           "letter": "B",
           "text": "$x^3 - 6x^2 - 12x - 8$",
           "is_correct": false,
-          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+          "feedback": "El término en $x$ cambia de signo: como el binomio es $(x-2)$ el signo del término lineal sigue el alterno y es $+12x$."
         },
         {
           "letter": "C",
           "text": "$x^3 - 8$",
           "is_correct": false,
-          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+          "feedback": "Se omitieron los términos intermedios; $(x-2)^3$ no es una diferencia de cubos sino un cubo completo con cuatro términos."
         },
         {
           "letter": "D",
           "text": "$x^3 - 2x^2 + 4x - 8$",
           "is_correct": false,
-          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+          "feedback": "Los coeficientes del cubo son 3, no 1: el término en $x^2$ vale $-3x^2\\cdot 2 = -6x^2$ y el término en $x$ vale $3x\\cdot 4 = 12x$."
         }
       ],
       "correct_answer": "A",
@@ -601,25 +601,25 @@
           "letter": "A",
           "text": "$x^3 - 8$",
           "is_correct": false,
-          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+          "feedback": "Se omitieron los términos intermedios; $(x-2)^3$ no es una diferencia de cubos sino un cubo completo con cuatro términos."
         },
         {
           "letter": "B",
           "text": "$x^3 - 6x^2 - 12x - 8$",
           "is_correct": false,
-          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+          "feedback": "El término en $x$ cambia de signo: como el binomio es $(x-2)$ el signo del término lineal sigue el alterno y es $+12x$."
         },
         {
           "letter": "C",
           "text": "$x^3 - 6x^2 + 12x - 8$",
           "is_correct": true,
-          "feedback": "Correcto. ¡Excelente análisis!"
+          "feedback": "Es el cubo del binomio: $x^3 - 3x^2(2) + 3x(2^2) - 2^3 = x^3 - 6x^2 + 12x - 8$."
         },
         {
           "letter": "D",
           "text": "$x^3 - 2x^2 + 4x - 8$",
           "is_correct": false,
-          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+          "feedback": "Los coeficientes del cubo son 3, no 1: el término en $x^2$ vale $-3x^2\\cdot 2 = -6x^2$ y el término en $x$ vale $3x\\cdot 4 = 12x$."
         }
       ],
       "correct_answer": "C",
@@ -646,25 +646,25 @@
           "letter": "A",
           "text": "$x^3 - 2x^2 + 4x - 8$",
           "is_correct": false,
-          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+          "feedback": "Los coeficientes del cubo son 3, no 1: el término en $x^2$ vale $-3x^2\\cdot 2 = -6x^2$ y el término en $x$ vale $3x\\cdot 4 = 12x$."
         },
         {
           "letter": "B",
           "text": "$x^3 - 6x^2 - 12x - 8$",
           "is_correct": false,
-          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+          "feedback": "El término en $x$ cambia de signo: como el binomio es $(x-2)$ el signo del término lineal sigue el alterno y es $+12x$."
         },
         {
           "letter": "C",
           "text": "$x^3 - 6x^2 + 12x - 8$",
           "is_correct": true,
-          "feedback": "Correcto. ¡Excelente análisis!"
+          "feedback": "Es el cubo del binomio: $x^3 - 3x^2(2) + 3x(2^2) - 2^3 = x^3 - 6x^2 + 12x - 8$."
         },
         {
           "letter": "D",
           "text": "$x^3 - 8$",
           "is_correct": false,
-          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+          "feedback": "Se omitieron los términos intermedios; $(x-2)^3$ no es una diferencia de cubos sino un cubo completo con cuatro términos."
         }
       ],
       "correct_answer": "C",
@@ -691,25 +691,25 @@
           "letter": "A",
           "text": "$x^3 - 8$",
           "is_correct": false,
-          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+          "feedback": "Se omitieron los términos intermedios; $(x-2)^3$ no es una diferencia de cubos sino un cubo completo con cuatro términos."
         },
         {
           "letter": "B",
           "text": "$x^3 - 2x^2 + 4x - 8$",
           "is_correct": false,
-          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+          "feedback": "Los coeficientes del cubo son 3, no 1: el término en $x^2$ vale $-3x^2\\cdot 2 = -6x^2$ y el término en $x$ vale $3x\\cdot 4 = 12x$."
         },
         {
           "letter": "C",
           "text": "$x^3 - 6x^2 - 12x - 8$",
           "is_correct": false,
-          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+          "feedback": "El término en $x$ cambia de signo: como el binomio es $(x-2)$ el signo del término lineal sigue el alterno y es $+12x$."
         },
         {
           "letter": "D",
           "text": "$x^3 - 6x^2 + 12x - 8$",
           "is_correct": true,
-          "feedback": "Correcto. ¡Excelente análisis!"
+          "feedback": "Es el cubo del binomio: $x^3 - 3x^2(2) + 3x(2^2) - 2^3 = x^3 - 6x^2 + 12x - 8$."
         }
       ],
       "correct_answer": "D",
@@ -736,25 +736,25 @@
           "letter": "A",
           "text": "$x^3 - x + 1$",
           "is_correct": false,
-          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+          "feedback": "Al multiplicar término a término los términos en $x^2$ y en $x$ se cancelan, de modo que no pueden quedar restos como $-x$."
         },
         {
           "letter": "B",
           "text": "$x^3 + 2x^2 + 1$",
           "is_correct": false,
-          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+          "feedback": "El término en $x^2$ es $x^2 - x^2 = 0$, no $2x^2$; se descuidó la cancelación de los términos intermedios."
         },
         {
           "letter": "C",
           "text": "$x^3 - 1$",
           "is_correct": false,
-          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+          "feedback": "La diferencia de cubos sería $(x-1)(x^2 + x + 1)$; aquí el segundo factor es $x^2 - x + 1$, de modo que el resultado es $x^3 + 1$."
         },
         {
           "letter": "D",
           "text": "$x^3 + 1$",
           "is_correct": true,
-          "feedback": "Correcto. ¡Excelente análisis!"
+          "feedback": "Es la suma de cubos $(x+1)(x^2 - x + 1) = x^3 + 1$, que coincide con el producto de binomio y trinomio dados."
         }
       ],
       "correct_answer": "D",
@@ -781,25 +781,25 @@
           "letter": "A",
           "text": "$x^3 - 1$",
           "is_correct": false,
-          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+          "feedback": "La diferencia de cubos sería $(x-1)(x^2 + x + 1)$; aquí el segundo factor es $x^2 - x + 1$, de modo que el resultado es $x^3 + 1$."
         },
         {
           "letter": "B",
           "text": "$x^3 + 2x^2 + 1$",
           "is_correct": false,
-          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+          "feedback": "El término en $x^2$ es $x^2 - x^2 = 0$, no $2x^2$; se descuidó la cancelación de los términos intermedios."
         },
         {
           "letter": "C",
           "text": "$x^3 - x + 1$",
           "is_correct": false,
-          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+          "feedback": "Al multiplicar término a término los términos en $x^2$ y en $x$ se cancelan, de modo que no pueden quedar restos como $-x$."
         },
         {
           "letter": "D",
           "text": "$x^3 + 1$",
           "is_correct": true,
-          "feedback": "Correcto. ¡Excelente análisis!"
+          "feedback": "Es la suma de cubos $(x+1)(x^2 - x + 1) = x^3 + 1$, que coincide con el producto de binomio y trinomio dados."
         }
       ],
       "correct_answer": "D",
@@ -826,25 +826,25 @@
           "letter": "A",
           "text": "$x^3 - x + 1$",
           "is_correct": false,
-          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+          "feedback": "Al multiplicar término a término los términos en $x^2$ y en $x$ se cancelan, de modo que no pueden quedar restos como $-x$."
         },
         {
           "letter": "B",
           "text": "$x^3 - 1$",
           "is_correct": false,
-          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+          "feedback": "La diferencia de cubos sería $(x-1)(x^2 + x + 1)$; aquí el segundo factor es $x^2 - x + 1$, de modo que el resultado es $x^3 + 1$."
         },
         {
           "letter": "C",
           "text": "$x^3 + 2x^2 + 1$",
           "is_correct": false,
-          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+          "feedback": "El término en $x^2$ es $x^2 - x^2 = 0$, no $2x^2$; se descuidó la cancelación de los términos intermedios."
         },
         {
           "letter": "D",
           "text": "$x^3 + 1$",
           "is_correct": true,
-          "feedback": "Correcto. ¡Excelente análisis!"
+          "feedback": "Es la suma de cubos $(x+1)(x^2 - x + 1) = x^3 + 1$, que coincide con el producto de binomio y trinomio dados."
         }
       ],
       "correct_answer": "D",
@@ -871,25 +871,25 @@
           "letter": "A",
           "text": "$x^3 - 1$",
           "is_correct": false,
-          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+          "feedback": "La diferencia de cubos sería $(x-1)(x^2 + x + 1)$; aquí el segundo factor es $x^2 - x + 1$, de modo que el resultado es $x^3 + 1$."
         },
         {
           "letter": "B",
           "text": "$x^3 + 1$",
           "is_correct": true,
-          "feedback": "Correcto. ¡Excelente análisis!"
+          "feedback": "Es la suma de cubos $(x+1)(x^2 - x + 1) = x^3 + 1$, que coincide con el producto de binomio y trinomio dados."
         },
         {
           "letter": "C",
           "text": "$x^3 - x + 1$",
           "is_correct": false,
-          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+          "feedback": "Al multiplicar término a término los términos en $x^2$ y en $x$ se cancelan, de modo que no pueden quedar restos como $-x$."
         },
         {
           "letter": "D",
           "text": "$x^3 + 2x^2 + 1$",
           "is_correct": false,
-          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+          "feedback": "El término en $x^2$ es $x^2 - x^2 = 0$, no $2x^2$; se descuidó la cancelación de los términos intermedios."
         }
       ],
       "correct_answer": "B",

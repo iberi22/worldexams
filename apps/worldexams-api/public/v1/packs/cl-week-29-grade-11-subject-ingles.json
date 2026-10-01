@@ -61,25 +61,25 @@
           "letter": "A",
           "text": "regard",
           "is_correct": false,
-          "feedback": "Incorrect."
+          "feedback": "'Regard' is a noun here; the sentence needs a preposition to introduce the list of exceptions."
         },
         {
           "letter": "C",
           "text": "regardless of",
           "is_correct": true,
-          "feedback": "Correct. Prepositional phrase meaning 'without being affected by'."
+          "feedback": "'Regardless of' means 'without being affected by', which is what the sentence needs before the list."
         },
         {
           "letter": "B",
           "text": "regarding",
           "is_correct": false,
-          "feedback": "Incorrect. Means 'about'."
+          "feedback": "'Regarding' means 'about' or 'concerning', which does not express exception."
         },
         {
           "letter": "D",
           "text": "regardless",
           "is_correct": false,
-          "feedback": "Incorrect. Needs 'of' to connect to the following list."
+          "feedback": "'Regardless' cannot stand alone before a list; it requires 'of'."
         }
       ],
       "correct_answer": "C",
@@ -241,25 +241,25 @@
           "letter": "B",
           "text": "celebration",
           "is_correct": false,
-          "feedback": "Incorrect."
+          "feedback": "A celebration marks something joyful, whereas a violation is a harmful act."
         },
         {
           "letter": "A",
           "text": "violation",
           "is_correct": true,
-          "feedback": "Correct. An act that disregards or breaks a law or right."
+          "feedback": "A violation is an act that disregards or breaks a right, which is what the sentence describes."
         },
         {
           "letter": "C",
           "text": "validation",
           "is_correct": false,
-          "feedback": "Incorrect. To validate is to confirm."
+          "feedback": "To validate is to confirm something as correct, the opposite of disregarding it."
         },
         {
           "letter": "D",
           "text": "tradition",
           "is_correct": false,
-          "feedback": "Incorrect."
+          "feedback": "A tradition is a custom passed down, which has nothing to do with rights being ignored."
         }
       ],
       "correct_answer": "A",
@@ -286,25 +286,25 @@
           "letter": "A",
           "text": "are marginalizing",
           "is_correct": false,
-          "feedback": "Incorrect. Active voice."
+          "feedback": "'Are marginalizing' is active and would name the groups doing the excluding; here the groups are the ones being excluded."
         },
         {
           "letter": "C",
           "text": "are being marginalized",
           "is_correct": true,
-          "feedback": "Correct. Present continuous passive for an ongoing negative state."
+          "feedback": "The present continuous passive describes the exclusion as an ongoing negative state."
         },
         {
           "letter": "B",
           "text": "marginalized",
           "is_correct": false,
-          "feedback": "Incorrect. Past simple."
+          "feedback": "'Marginalized' alone has no auxiliary and cannot form a tense."
         },
         {
           "letter": "D",
           "text": "have marginalized",
           "is_correct": false,
-          "feedback": "Incorrect. Active voice."
+          "feedback": "'Have marginalized' is present perfect active and makes the groups the agents."
         }
       ],
       "correct_answer": "C",
@@ -331,25 +331,25 @@
           "letter": "A",
           "text": "Ignorance",
           "is_correct": false,
-          "feedback": "Incorrect."
+          "feedback": "Ignorance is a lack of knowledge, not a legal requirement."
         },
         {
           "letter": "B",
           "text": "Due process",
           "is_correct": true,
-          "feedback": "Correct. Fundamental principle of legal fairness."
+          "feedback": "Due process is the legal principle that the state must respect the rights owed to each person."
         },
         {
           "letter": "C",
           "text": "Random luck",
           "is_correct": false,
-          "feedback": "Incorrect. Law should be systematic."
+          "feedback": "Random luck has no place in law, which must work systematically."
         },
         {
           "letter": "D",
           "text": "Popularity",
           "is_correct": false,
-          "feedback": "Incorrect. Rights apply even if you are not popular."
+          "feedback": "Popularity is irrelevant: rights apply to everyone whether or not they are well liked."
         }
       ],
       "correct_answer": "B",
@@ -466,25 +466,25 @@
           "letter": "A",
           "text": "Vacation",
           "is_correct": false,
-          "feedback": "Incorrect."
+          "feedback": "A vacation is leisure travel, not protection granted by a state."
         },
         {
           "letter": "B",
           "text": "Asylum",
           "is_correct": true,
-          "feedback": "Correct. Specific term for state protection of refugees."
+          "feedback": "Asylum is the specific term for the protection a nation grants to a political refugee."
         },
         {
           "letter": "C",
           "text": "Employment",
           "is_correct": false,
-          "feedback": "Incorrect."
+          "feedback": "Employment is paid work, unrelated to protection granted by a country."
         },
         {
           "letter": "D",
           "text": "Tourism",
           "is_correct": false,
-          "feedback": "Incorrect."
+          "feedback": "Tourism is travel for pleasure, granted by nobody and protecting no one."
         }
       ],
       "correct_answer": "B",
@@ -691,25 +691,25 @@
           "letter": "A",
           "text": "Wealth",
           "is_correct": false,
-          "feedback": "Incorrect. Money-focused."
+          "feedback": "Wealth means money, but equality is about opportunity, not income."
         },
         {
           "letter": "C",
           "text": "Equality",
           "is_correct": true,
-          "feedback": "Correct. The state of being equal."
+          "feedback": "Equality is the state in which everyone has an equal chance to develop their talents."
         },
         {
           "letter": "B",
           "text": "Greed",
           "is_correct": false,
-          "feedback": "Incorrect. Selfish desire."
+          "feedback": "Greed is selfish desire for more, which works against equal opportunity."
         },
         {
           "letter": "D",
           "text": "Chaos",
           "is_correct": false,
-          "feedback": "Incorrect. Disorder."
+          "feedback": "Chaos is disorder; equality creates a predictable, fair framework."
         }
       ],
       "correct_answer": "C",

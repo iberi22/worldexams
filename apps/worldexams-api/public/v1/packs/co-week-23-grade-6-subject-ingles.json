@@ -16,25 +16,25 @@
           "letter": "A",
           "text": "doing",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "Incorrect. \"Doing\" is an -ing form, and an -ing form needs a helper such as \"is\" to stand in a sentence."
         },
         {
           "letter": "B",
           "text": "did",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "Incorrect. \"Did\" is the past tense, while \"every afternoon\" describes a habit in the present."
         },
         {
           "letter": "C",
           "text": "does",
           "is_correct": true,
-          "feedback": "Correct! Well done."
+          "feedback": "Correct! The subject Juan is third person singular, and in the present simple that subject takes \"does\"."
         },
         {
           "letter": "D",
           "text": "do",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "Incorrect. \"Do\" is the present simple form for \"I\", \"you\", \"we\" and \"they\", but not for a singular third person subject."
         }
       ],
       "correct_answer": "C",
@@ -62,25 +62,25 @@
           "letter": "A",
           "text": "goes",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "Incorrect. \"Goes\" is the third person singular form, and the subject of this sentence is \"I\"."
         },
         {
           "letter": "B",
           "text": "went",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "Incorrect. \"Went\" is the past tense, and the clock time describes this student's routine as it is today."
         },
         {
           "letter": "C",
           "text": "going",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "Incorrect. \"Going\" is an -ing form and it needs \"am\" or \"is\" in front of it to make a sentence."
         },
         {
           "letter": "D",
           "text": "go",
           "is_correct": true,
-          "feedback": "Correct! Well done."
+          "feedback": "Correct! The subject \"I\" always takes the base form in the present simple, so the verb is \"go\"."
         }
       ],
       "correct_answer": "D",
@@ -108,25 +108,25 @@
           "letter": "A",
           "text": "doesn't",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "Incorrect. \"Doesn't\" is the third person singular negative, and the subject \"they\" needs the plural form."
         },
         {
           "letter": "B",
           "text": "no",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "Incorrect. \"No\" is a determiner that goes before a noun, as in \"no vegetables\", and it is not a verb auxiliary."
         },
         {
           "letter": "C",
           "text": "not",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "Incorrect. \"Not\" is a word that comes after the auxiliary, so it cannot build the negative form on its own here."
         },
         {
           "letter": "D",
           "text": "don't",
           "is_correct": true,
-          "feedback": "Correct! Well done."
+          "feedback": "Correct! The subject \"they\" is plural, so the negative present simple is \"don't\" plus the base form \"like\"."
         }
       ],
       "correct_answer": "D",
@@ -154,25 +154,25 @@
           "letter": "A",
           "text": "Do",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "Incorrect. \"Do\" is the auxiliary used with \"you\", \"we\" and \"they\", and \"your sister\" is third person singular."
         },
         {
           "letter": "B",
           "text": "Is",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "Incorrect. \"Is\" is the auxiliary of the verb \"be\", and the sentence already supplies the subject \"your sister\"."
         },
         {
           "letter": "C",
           "text": "Does",
           "is_correct": true,
-          "feedback": "Correct! Well done."
+          "feedback": "Correct! In a present simple question the auxiliary \"does\" comes first and the main verb returns to the base form \"play\"."
         },
         {
           "letter": "D",
           "text": "Are",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "Incorrect. \"Are\" is used with \"you\", \"we\" and \"they\", and the subject here is \"your sister\"."
         }
       ],
       "correct_answer": "C",
@@ -200,25 +200,25 @@
           "letter": "A",
           "text": "brushed",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "Incorrect. \"Brushed\" is the past tense, and a daily routine after breakfast is expressed in the present."
         },
         {
           "letter": "B",
           "text": "brushes",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "Incorrect. \"Brushes\" is the third person singular form, and the subject of this sentence is \"I\"."
         },
         {
           "letter": "C",
           "text": "brush",
           "is_correct": true,
-          "feedback": "Correct! Well done."
+          "feedback": "Correct! The subject \"I\" takes the base form, so the present simple of this verb is \"brush\"."
         },
         {
           "letter": "D",
           "text": "brushing",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "Incorrect. \"Brushing\" is an -ing form and it needs \"am\" in front of it to make a sentence."
         }
       ],
       "correct_answer": "C",
@@ -246,25 +246,25 @@
           "letter": "A",
           "text": "does",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "Incorrect. \"Does\" is the third person singular auxiliary, and the subject of this question is \"you\"."
         },
         {
           "letter": "B",
           "text": "do",
           "is_correct": true,
-          "feedback": "Correct! Well done."
+          "feedback": "Correct! \"What time\" asks about a routine with \"you\" as the subject, so the auxiliary is the plural form \"do\"."
         },
         {
           "letter": "C",
           "text": "is",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "Incorrect. \"Is\" is the auxiliary of \"be\", and this question has the full verb \"wake up\" after the blank."
         },
         {
           "letter": "D",
           "text": "are",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "Incorrect. \"Are\" is the auxiliary of the verb \"be\", but the full verb \"wake up\" follows the blank."
         }
       ],
       "correct_answer": "B",
@@ -292,25 +292,25 @@
           "letter": "A",
           "text": "watching",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "Incorrect. \"Watching\" is an -ing form and it needs \"is\" in front of it to make a sentence."
         },
         {
           "letter": "B",
           "text": "watches",
           "is_correct": true,
-          "feedback": "Correct! Well done."
+          "feedback": "Correct! \"She\" is third person singular, so in the present simple the verb takes the -es form: \"watches\"."
         },
         {
           "letter": "C",
           "text": "watched",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "Incorrect. \"Watched\" is the past tense, and the sentence describes a habit that repeats every evening."
         },
         {
           "letter": "D",
           "text": "watch",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "Incorrect. \"Watch\" is the base form, which \"I\", \"you\", \"we\" and \"they\" take, but not the singular \"she\"."
         }
       ],
       "correct_answer": "B",
@@ -338,25 +338,25 @@
           "letter": "A",
           "text": "has",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "Incorrect. \"Has\" is the third person singular form, and the subject of this sentence is the plural \"we\"."
         },
         {
           "letter": "B",
           "text": "had",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "Incorrect. \"Had\" is the past tense, and the sentence describes the family's current evening routine."
         },
         {
           "letter": "C",
           "text": "have",
           "is_correct": true,
-          "feedback": "Correct! Well done."
+          "feedback": "Correct! The subject \"we\" is plural, so the present simple is the base form \"have\"."
         },
         {
           "letter": "D",
           "text": "having",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "Incorrect. \"Having\" is an -ing form and it needs \"are\" in front of it to make a sentence."
         }
       ],
       "correct_answer": "C",
@@ -384,25 +384,25 @@
           "letter": "A",
           "text": "goes",
           "is_correct": true,
-          "feedback": "Correct! Well done."
+          "feedback": "Correct! \"My father\" is third person singular, so the present simple takes the -es form \"goes\"."
         },
         {
           "letter": "B",
           "text": "gone",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "Incorrect. \"Gone\" is a past participle and it needs \"has\" or \"have\" in front of it to make a sentence."
         },
         {
           "letter": "C",
           "text": "going",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "Incorrect. \"Going\" is an -ing form and it needs \"is\" in front of it to make a sentence."
         },
         {
           "letter": "D",
           "text": "go",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "Incorrect. \"Go\" is the base form, which the plural subjects take, but \"my father\" is third person singular."
         }
       ],
       "correct_answer": "A",
@@ -430,25 +430,25 @@
           "letter": "A",
           "text": "sometimes",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "Incorrect. \"Sometimes\" means now and then, so it would still allow games on weekdays."
         },
         {
           "letter": "B",
           "text": "never",
           "is_correct": true,
-          "feedback": "Correct! Well done."
+          "feedback": "Correct! \"Never\" is the one frequency adverb that means \"not one time\", which matches a routine of no games on weekdays."
         },
         {
           "letter": "C",
           "text": "usually",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "Incorrect. \"Usually\" means most of the time, but here the sentence rules out any game on weekdays."
         },
         {
           "letter": "D",
           "text": "always",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "Incorrect. \"Always\" means every single time, and this sentence says the opposite happens on school days."
         }
       ],
       "correct_answer": "B",

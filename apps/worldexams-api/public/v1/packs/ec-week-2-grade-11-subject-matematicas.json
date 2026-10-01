@@ -16,25 +16,25 @@
           "letter": "A",
           "text": "Propiedad distributiva del producto respecto a la suma",
           "is_correct": true,
-          "feedback": "Correcto. ¡Excelente análisis!"
+          "feedback": "La igualdad reparte el producto exterior a cada sumando de la suma, que es exactamente lo que hace la propiedad distributiva $a\\cdot(b+c)=a\\cdot b+a\\cdot c$."
         },
         {
           "letter": "B",
           "text": "Propiedad conmutativa de la suma",
           "is_correct": false,
-          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+          "feedback": "La conmutativa solo dice que $b+c = c+b$; no reparte el producto, por lo que no explica la igualdad que se presenta."
         },
         {
           "letter": "C",
           "text": "Propiedad del elemento neutro",
           "is_correct": false,
-          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+          "feedback": "El elemento neutro de la suma es el 0 porque $a+0=a$; aquí no aparece ningún 0 que deje la suma intacta."
         },
         {
           "letter": "D",
           "text": "Propiedad asociativa del producto",
           "is_correct": false,
-          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+          "feedback": "La asociativa agrupa productos de tres factores como $(a\\cdot b)\\cdot c$; esta igualdad no agrupa nada, sino que reparte un producto sobre una suma."
         }
       ],
       "correct_answer": "A",
@@ -61,25 +61,25 @@
           "letter": "A",
           "text": "Propiedad conmutativa de la suma",
           "is_correct": false,
-          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+          "feedback": "La conmutativa solo dice que $b+c = c+b$; no reparte el producto, por lo que no explica la igualdad que se presenta."
         },
         {
           "letter": "B",
           "text": "Propiedad distributiva del producto respecto a la suma",
           "is_correct": true,
-          "feedback": "Correcto. ¡Excelente análisis!"
+          "feedback": "La igualdad reparte el producto exterior a cada sumando de la suma, que es exactamente lo que hace la propiedad distributiva $a\\cdot(b+c)=a\\cdot b+a\\cdot c$."
         },
         {
           "letter": "C",
           "text": "Propiedad asociativa del producto",
           "is_correct": false,
-          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+          "feedback": "La asociativa agrupa productos de tres factores como $(a\\cdot b)\\cdot c$; esta igualdad no agrupa nada, sino que reparte un producto sobre una suma."
         },
         {
           "letter": "D",
           "text": "Propiedad del elemento neutro",
           "is_correct": false,
-          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+          "feedback": "El elemento neutro de la suma es el 0 porque $a+0=a$; aquí no aparece ningún 0 que deje la suma intacta."
         }
       ],
       "correct_answer": "B",
@@ -106,25 +106,25 @@
           "letter": "A",
           "text": "Propiedad distributiva del producto respecto a la suma",
           "is_correct": true,
-          "feedback": "Correcto. ¡Excelente análisis!"
+          "feedback": "La igualdad reparte el producto exterior a cada sumando de la suma, que es exactamente lo que hace la propiedad distributiva $a\\cdot(b+c)=a\\cdot b+a\\cdot c$."
         },
         {
           "letter": "B",
           "text": "Propiedad del elemento neutro",
           "is_correct": false,
-          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+          "feedback": "El elemento neutro de la suma es el 0 porque $a+0=a$; aquí no aparece ningún 0 que deje la suma intacta."
         },
         {
           "letter": "C",
           "text": "Propiedad asociativa del producto",
           "is_correct": false,
-          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+          "feedback": "La asociativa agrupa productos de tres factores como $(a\\cdot b)\\cdot c$; esta igualdad no agrupa nada, sino que reparte un producto sobre una suma."
         },
         {
           "letter": "D",
           "text": "Propiedad conmutativa de la suma",
           "is_correct": false,
-          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+          "feedback": "La conmutativa solo dice que $b+c = c+b$; no reparte el producto, por lo que no explica la igualdad que se presenta."
         }
       ],
       "correct_answer": "A",
@@ -151,25 +151,25 @@
           "letter": "A",
           "text": "Propiedad distributiva del producto respecto a la suma",
           "is_correct": true,
-          "feedback": "Correcto. ¡Excelente análisis!"
+          "feedback": "La igualdad reparte el producto exterior a cada sumando de la suma, que es exactamente lo que hace la propiedad distributiva $a\\cdot(b+c)=a\\cdot b+a\\cdot c$."
         },
         {
           "letter": "B",
           "text": "Propiedad conmutativa de la suma",
           "is_correct": false,
-          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+          "feedback": "La conmutativa solo dice que $b+c = c+b$; no reparte el producto, por lo que no explica la igualdad que se presenta."
         },
         {
           "letter": "C",
           "text": "Propiedad del elemento neutro",
           "is_correct": false,
-          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+          "feedback": "El elemento neutro de la suma es el 0 porque $a+0=a$; aquí no aparece ningún 0 que deje la suma intacta."
         },
         {
           "letter": "D",
           "text": "Propiedad asociativa del producto",
           "is_correct": false,
-          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+          "feedback": "La asociativa agrupa productos de tres factores como $(a\\cdot b)\\cdot c$; esta igualdad no agrupa nada, sino que reparte un producto sobre una suma."
         }
       ],
       "correct_answer": "A",
@@ -196,25 +196,25 @@
           "letter": "A",
           "text": "Propiedad clausurativa de la multiplicación",
           "is_correct": false,
-          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+          "feedback": "La clausurativa dice que el producto de dos reales vuelve a ser un real; no afirma que multiplicar por 1 deje el número igual."
         },
         {
           "letter": "B",
           "text": "Existencia del elemento neutro multiplicativo",
           "is_correct": true,
-          "feedback": "Correcto. ¡Excelente análisis!"
+          "feedback": "El 1 es el neutro de la multiplicación porque $P\\cdot 1 = P$, de modo que el precio conserva su valor original."
         },
         {
           "letter": "C",
           "text": "Existencia del inverso multiplicativo",
           "is_correct": false,
-          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+          "feedback": "El inverso multiplicativo de $P$ es $1/P$ y sirve para dividir, no para conservar el valor de un número al multiplicarlo por 1."
         },
         {
           "letter": "D",
           "text": "Existencia del elemento opuesto o inverso aditivo",
           "is_correct": false,
-          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+          "feedback": "El opuesto aditivo es $-P$ porque $P+(-P)=0$; actúa sobre la suma, mientras que aquí se trata de una multiplicación."
         }
       ],
       "correct_answer": "B",
@@ -241,25 +241,25 @@
           "letter": "A",
           "text": "Existencia del elemento neutro multiplicativo",
           "is_correct": true,
-          "feedback": "Correcto. ¡Excelente análisis!"
+          "feedback": "El 1 es el neutro de la multiplicación porque $P\\cdot 1 = P$, de modo que el precio conserva su valor original."
         },
         {
           "letter": "B",
           "text": "Existencia del elemento opuesto o inverso aditivo",
           "is_correct": false,
-          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+          "feedback": "El opuesto aditivo es $-P$ porque $P+(-P)=0$; actúa sobre la suma, mientras que aquí se trata de una multiplicación."
         },
         {
           "letter": "C",
           "text": "Existencia del inverso multiplicativo",
           "is_correct": false,
-          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+          "feedback": "El inverso multiplicativo de $P$ es $1/P$ y sirve para dividir, no para conservar el valor de un número al multiplicarlo por 1."
         },
         {
           "letter": "D",
           "text": "Propiedad clausurativa de la multiplicación",
           "is_correct": false,
-          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+          "feedback": "La clausurativa dice que el producto de dos reales vuelve a ser un real; no afirma que multiplicar por 1 deje el número igual."
         }
       ],
       "correct_answer": "A",
@@ -286,25 +286,25 @@
           "letter": "A",
           "text": "Existencia del elemento neutro multiplicativo",
           "is_correct": true,
-          "feedback": "Correcto. ¡Excelente análisis!"
+          "feedback": "El 1 es el neutro de la multiplicación porque $P\\cdot 1 = P$, de modo que el precio conserva su valor original."
         },
         {
           "letter": "B",
           "text": "Existencia del elemento opuesto o inverso aditivo",
           "is_correct": false,
-          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+          "feedback": "El opuesto aditivo es $-P$ porque $P+(-P)=0$; actúa sobre la suma, mientras que aquí se trata de una multiplicación."
         },
         {
           "letter": "C",
           "text": "Existencia del inverso multiplicativo",
           "is_correct": false,
-          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+          "feedback": "El inverso multiplicativo de $P$ es $1/P$ y sirve para dividir, no para conservar el valor de un número al multiplicarlo por 1."
         },
         {
           "letter": "D",
           "text": "Propiedad clausurativa de la multiplicación",
           "is_correct": false,
-          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+          "feedback": "La clausurativa dice que el producto de dos reales vuelve a ser un real; no afirma que multiplicar por 1 deje el número igual."
         }
       ],
       "correct_answer": "A",
@@ -331,25 +331,25 @@
           "letter": "A",
           "text": "Existencia del elemento opuesto o inverso aditivo",
           "is_correct": false,
-          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+          "feedback": "El opuesto aditivo es $-P$ porque $P+(-P)=0$; actúa sobre la suma, mientras que aquí se trata de una multiplicación."
         },
         {
           "letter": "B",
           "text": "Existencia del elemento neutro multiplicativo",
           "is_correct": true,
-          "feedback": "Correcto. ¡Excelente análisis!"
+          "feedback": "El 1 es el neutro de la multiplicación porque $P\\cdot 1 = P$, de modo que el precio conserva su valor original."
         },
         {
           "letter": "C",
           "text": "Propiedad clausurativa de la multiplicación",
           "is_correct": false,
-          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+          "feedback": "La clausurativa dice que el producto de dos reales vuelve a ser un real; no afirma que multiplicar por 1 deje el número igual."
         },
         {
           "letter": "D",
           "text": "Existencia del inverso multiplicativo",
           "is_correct": false,
-          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+          "feedback": "El inverso multiplicativo de $P$ es $1/P$ y sirve para dividir, no para conservar el valor de un número al multiplicarlo por 1."
         }
       ],
       "correct_answer": "B",
@@ -376,25 +376,25 @@
           "letter": "A",
           "text": "Existencia del elemento neutro multiplicativo",
           "is_correct": true,
-          "feedback": "Correcto. ¡Excelente análisis!"
+          "feedback": "El 1 es el neutro de la multiplicación porque $P\\cdot 1 = P$, de modo que el precio conserva su valor original."
         },
         {
           "letter": "B",
           "text": "Existencia del elemento opuesto o inverso aditivo",
           "is_correct": false,
-          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+          "feedback": "El opuesto aditivo es $-P$ porque $P+(-P)=0$; actúa sobre la suma, mientras que aquí se trata de una multiplicación."
         },
         {
           "letter": "C",
           "text": "Propiedad clausurativa de la multiplicación",
           "is_correct": false,
-          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+          "feedback": "La clausurativa dice que el producto de dos reales vuelve a ser un real; no afirma que multiplicar por 1 deje el número igual."
         },
         {
           "letter": "D",
           "text": "Existencia del inverso multiplicativo",
           "is_correct": false,
-          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+          "feedback": "El inverso multiplicativo de $P$ es $1/P$ y sirve para dividir, no para conservar el valor de un número al multiplicarlo por 1."
         }
       ],
       "correct_answer": "A",
@@ -421,25 +421,25 @@
           "letter": "A",
           "text": "Existencia del inverso multiplicativo",
           "is_correct": false,
-          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+          "feedback": "El inverso multiplicativo de $P$ es $1/P$ y sirve para dividir, no para conservar el valor de un número al multiplicarlo por 1."
         },
         {
           "letter": "B",
           "text": "Existencia del elemento opuesto o inverso aditivo",
           "is_correct": false,
-          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+          "feedback": "El opuesto aditivo es $-P$ porque $P+(-P)=0$; actúa sobre la suma, mientras que aquí se trata de una multiplicación."
         },
         {
           "letter": "C",
           "text": "Propiedad clausurativa de la multiplicación",
           "is_correct": false,
-          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+          "feedback": "La clausurativa dice que el producto de dos reales vuelve a ser un real; no afirma que multiplicar por 1 deje el número igual."
         },
         {
           "letter": "D",
           "text": "Existencia del elemento neutro multiplicativo",
           "is_correct": true,
-          "feedback": "Correcto. ¡Excelente análisis!"
+          "feedback": "El 1 es el neutro de la multiplicación porque $P\\cdot 1 = P$, de modo que el precio conserva su valor original."
         }
       ],
       "correct_answer": "D",
@@ -466,25 +466,25 @@
           "letter": "A",
           "text": "Propiedad del inverso aditivo",
           "is_correct": false,
-          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+          "feedback": "El opuesto de un real sirve para resolver Restas y sumas; no dice nada sobre si el resultado de una operación sigue siendo real."
         },
         {
           "letter": "B",
           "text": "Propiedad reflexiva de la igualdad",
           "is_correct": false,
-          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+          "feedback": "La reflexiva solo afirma que todo número es igual a sí mismo; no interviene en la suma de los costos."
         },
         {
           "letter": "C",
           "text": "Propiedad distributiva únicamente",
           "is_correct": false,
-          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+          "feedback": "La distributiva permite abrir productos como $5x\\cdot 10$, pero por sí sola no asegura que el resultado pertenezca a los reales."
         },
         {
           "letter": "D",
           "text": "Propiedad clausurativa (o de cerradura) de la suma y multiplicación",
           "is_correct": true,
-          "feedback": "Correcto. ¡Excelente análisis!"
+          "feedback": "La clausurativa garantiza que la suma y el producto de dos números reales son números reales, que es lo que hace que el costo total siga siendo real."
         }
       ],
       "correct_answer": "D",
@@ -511,25 +511,25 @@
           "letter": "A",
           "text": "Propiedad reflexiva de la igualdad",
           "is_correct": false,
-          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+          "feedback": "La reflexiva solo afirma que todo número es igual a sí mismo; no interviene en la suma de los costos."
         },
         {
           "letter": "B",
           "text": "Propiedad clausurativa (o de cerradura) de la suma y multiplicación",
           "is_correct": true,
-          "feedback": "Correcto. ¡Excelente análisis!"
+          "feedback": "La clausurativa garantiza que la suma y el producto de dos números reales son números reales, que es lo que hace que el costo total siga siendo real."
         },
         {
           "letter": "C",
           "text": "Propiedad del inverso aditivo",
           "is_correct": false,
-          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+          "feedback": "El opuesto de un real sirve para resolver Restas y sumas; no dice nada sobre si el resultado de una operación sigue siendo real."
         },
         {
           "letter": "D",
           "text": "Propiedad distributiva únicamente",
           "is_correct": false,
-          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+          "feedback": "La distributiva permite abrir productos como $5x\\cdot 10$, pero por sí sola no asegura que el resultado pertenezca a los reales."
         }
       ],
       "correct_answer": "B",
@@ -556,25 +556,25 @@
           "letter": "A",
           "text": "Propiedad clausurativa (o de cerradura) de la suma y multiplicación",
           "is_correct": true,
-          "feedback": "Correcto. ¡Excelente análisis!"
+          "feedback": "La clausurativa garantiza que la suma y el producto de dos números reales son números reales, que es lo que hace que el costo total siga siendo real."
         },
         {
           "letter": "B",
           "text": "Propiedad distributiva únicamente",
           "is_correct": false,
-          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+          "feedback": "La distributiva permite abrir productos como $5x\\cdot 10$, pero por sí sola no asegura que el resultado pertenezca a los reales."
         },
         {
           "letter": "C",
           "text": "Propiedad del inverso aditivo",
           "is_correct": false,
-          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+          "feedback": "El opuesto de un real sirve para resolver Restas y sumas; no dice nada sobre si el resultado de una operación sigue siendo real."
         },
         {
           "letter": "D",
           "text": "Propiedad reflexiva de la igualdad",
           "is_correct": false,
-          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+          "feedback": "La reflexiva solo afirma que todo número es igual a sí mismo; no interviene en la suma de los costos."
         }
       ],
       "correct_answer": "A",
@@ -601,25 +601,25 @@
           "letter": "A",
           "text": "Propiedad reflexiva de la igualdad",
           "is_correct": false,
-          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+          "feedback": "La reflexiva solo afirma que todo número es igual a sí mismo; no interviene en la suma de los costos."
         },
         {
           "letter": "B",
           "text": "Propiedad distributiva únicamente",
           "is_correct": false,
-          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+          "feedback": "La distributiva permite abrir productos como $5x\\cdot 10$, pero por sí sola no asegura que el resultado pertenezca a los reales."
         },
         {
           "letter": "C",
           "text": "Propiedad clausurativa (o de cerradura) de la suma y multiplicación",
           "is_correct": true,
-          "feedback": "Correcto. ¡Excelente análisis!"
+          "feedback": "La clausurativa garantiza que la suma y el producto de dos números reales son números reales, que es lo que hace que el costo total siga siendo real."
         },
         {
           "letter": "D",
           "text": "Propiedad del inverso aditivo",
           "is_correct": false,
-          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+          "feedback": "El opuesto de un real sirve para resolver Restas y sumas; no dice nada sobre si el resultado de una operación sigue siendo real."
         }
       ],
       "correct_answer": "C",
@@ -646,25 +646,25 @@
           "letter": "A",
           "text": "Propiedad del inverso aditivo",
           "is_correct": false,
-          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+          "feedback": "El opuesto de un real sirve para resolver Restas y sumas; no dice nada sobre si el resultado de una operación sigue siendo real."
         },
         {
           "letter": "B",
           "text": "Propiedad distributiva únicamente",
           "is_correct": false,
-          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+          "feedback": "La distributiva permite abrir productos como $5x\\cdot 10$, pero por sí sola no asegura que el resultado pertenezca a los reales."
         },
         {
           "letter": "C",
           "text": "Propiedad clausurativa (o de cerradura) de la suma y multiplicación",
           "is_correct": true,
-          "feedback": "Correcto. ¡Excelente análisis!"
+          "feedback": "La clausurativa garantiza que la suma y el producto de dos números reales son números reales, que es lo que hace que el costo total siga siendo real."
         },
         {
           "letter": "D",
           "text": "Propiedad reflexiva de la igualdad",
           "is_correct": false,
-          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+          "feedback": "La reflexiva solo afirma que todo número es igual a sí mismo; no interviene en la suma de los costos."
         }
       ],
       "correct_answer": "C",
@@ -691,25 +691,25 @@
           "letter": "A",
           "text": "Propiedad distributiva únicamente",
           "is_correct": false,
-          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+          "feedback": "La distributiva permite abrir productos como $5x\\cdot 10$, pero por sí sola no asegura que el resultado pertenezca a los reales."
         },
         {
           "letter": "B",
           "text": "Propiedad reflexiva de la igualdad",
           "is_correct": false,
-          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+          "feedback": "La reflexiva solo afirma que todo número es igual a sí mismo; no interviene en la suma de los costos."
         },
         {
           "letter": "C",
           "text": "Propiedad clausurativa (o de cerradura) de la suma y multiplicación",
           "is_correct": true,
-          "feedback": "Correcto. ¡Excelente análisis!"
+          "feedback": "La clausurativa garantiza que la suma y el producto de dos números reales son números reales, que es lo que hace que el costo total siga siendo real."
         },
         {
           "letter": "D",
           "text": "Propiedad del inverso aditivo",
           "is_correct": false,
-          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+          "feedback": "El opuesto de un real sirve para resolver Restas y sumas; no dice nada sobre si el resultado de una operación sigue siendo real."
         }
       ],
       "correct_answer": "C",
@@ -736,25 +736,25 @@
           "letter": "A",
           "text": "Ninguno está en lo correcto.",
           "is_correct": false,
-          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+          "feedback": "La densidad de los reales sí es cierta, así que la persona que la menciona tiene razón y la respuesta no puede ser que nadie la tenga."
         },
         {
           "letter": "B",
           "text": "Solo Ana tiene la razón, debido a la propiedad de densidad de los números reales.",
           "is_correct": true,
-          "feedback": "Correcto. ¡Excelente análisis!"
+          "feedback": "Ana describe la densidad: entre dos reales cualesquiera existe otro real, y por eso entre 1 y 2 hay infinitos, no un número finito."
         },
         {
           "letter": "C",
           "text": "Solo Patricia tiene la razón.",
           "is_correct": false,
-          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+          "feedback": "Patricia afirma que entre 1 y 2 hay un número finito de reales, pero el intervalo contiene infinitos, así que esa afirmación es falsa."
         },
         {
           "letter": "D",
           "text": "Ambos están en lo correcto.",
           "is_correct": false,
-          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+          "feedback": "Las dos afirmaciones se contradicen: si entre 1 y 2 hay infinitos reales, entonces no puede haber solo un número finito de ellos."
         }
       ],
       "correct_answer": "B",
@@ -781,25 +781,25 @@
           "letter": "A",
           "text": "Ambos están en lo correcto.",
           "is_correct": false,
-          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+          "feedback": "Las dos afirmaciones se contradicen: si entre 1 y 2 hay infinitos reales, entonces no puede haber solo un número finito de ellos."
         },
         {
           "letter": "B",
           "text": "Ninguno está en lo correcto.",
           "is_correct": false,
-          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+          "feedback": "La densidad de los reales sí es cierta, así que la persona que la menciona tiene razón y la respuesta no puede ser que nadie la tenga."
         },
         {
           "letter": "C",
           "text": "Solo José tiene la razón, debido a la propiedad de densidad de los números reales.",
           "is_correct": true,
-          "feedback": "Correcto. ¡Excelente análisis!"
+          "feedback": "José describe la densidad: entre dos reales cualesquiera existe otro real, y por eso entre 1 y 2 hay infinitos, no un número finito."
         },
         {
           "letter": "D",
           "text": "Solo Patricia tiene la razón.",
           "is_correct": false,
-          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+          "feedback": "Patricia afirma que entre 1 y 2 hay un número finito de reales, pero el intervalo contiene infinitos, así que esa afirmación es falsa."
         }
       ],
       "correct_answer": "C",
@@ -826,25 +826,25 @@
           "letter": "A",
           "text": "Solo Lorena tiene la razón, debido a la propiedad de densidad de los números reales.",
           "is_correct": true,
-          "feedback": "Correcto. ¡Excelente análisis!"
+          "feedback": "Lorena describe la densidad: entre dos reales cualesquiera existe otro real, y por eso entre 1 y 2 hay infinitos, no un número finito."
         },
         {
           "letter": "B",
           "text": "Solo Fernando tiene la razón.",
           "is_correct": false,
-          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+          "feedback": "Fernando afirma que entre 1 y 2 hay un número finito de reales, pero el intervalo contiene infinitos, así que esa afirmación es falsa."
         },
         {
           "letter": "C",
           "text": "Ninguno está en lo correcto.",
           "is_correct": false,
-          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+          "feedback": "La densidad de los reales sí es cierta, así que la persona que la menciona tiene razón y la respuesta no puede ser que nadie la tenga."
         },
         {
           "letter": "D",
           "text": "Ambos están en lo correcto.",
           "is_correct": false,
-          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+          "feedback": "Las dos afirmaciones se contradicen: si entre 1 y 2 hay infinitos reales, entonces no puede haber solo un número finito de ellos."
         }
       ],
       "correct_answer": "A",
@@ -871,25 +871,25 @@
           "letter": "A",
           "text": "Ninguno está en lo correcto.",
           "is_correct": false,
-          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+          "feedback": "La densidad de los reales sí es cierta, así que la persona que la menciona tiene razón y la respuesta no puede ser que nadie la tenga."
         },
         {
           "letter": "B",
           "text": "Solo Luis tiene la razón.",
           "is_correct": false,
-          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+          "feedback": "Luis afirma que entre 1 y 2 hay un número finito de reales, pero el intervalo contiene infinitos, así que esa afirmación es falsa."
         },
         {
           "letter": "C",
           "text": "Solo Patricia tiene la razón, debido a la propiedad de densidad de los números reales.",
           "is_correct": true,
-          "feedback": "Correcto. ¡Excelente análisis!"
+          "feedback": "Patricia describe la densidad: entre dos reales cualesquiera existe otro real, y por eso entre 1 y 2 hay infinitos, no un número finito."
         },
         {
           "letter": "D",
           "text": "Ambos están en lo correcto.",
           "is_correct": false,
-          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+          "feedback": "Las dos afirmaciones se contradicen: si entre 1 y 2 hay infinitos reales, entonces no puede haber solo un número finito de ellos."
         }
       ],
       "correct_answer": "C",

@@ -286,25 +286,25 @@
           "letter": "A",
           "text": "are scrutinizing",
           "is_correct": false,
-          "feedback": "Incorrect. Active voice."
+          "feedback": "'Are scrutinizing' is active and would name the scrutinizers as the subject."
         },
         {
           "letter": "B",
           "text": "are being scrutinized",
           "is_correct": true,
-          "feedback": "Correct. Present continuous passive for an ongoing investigation."
+          "feedback": "The present continuous passive marks the scrutiny as an investigation still under way."
         },
         {
           "letter": "C",
           "text": "scrutinized",
           "is_correct": false,
-          "feedback": "Incorrect. Past simple."
+          "feedback": "'Scrutinized' alone has no auxiliary and cannot form a tense."
         },
         {
           "letter": "D",
           "text": "have scrutinized",
           "is_correct": false,
-          "feedback": "Incorrect. Active voice."
+          "feedback": "'Have scrutinized' is present perfect active and would name the investigating party."
         }
       ],
       "correct_answer": "B",
@@ -331,25 +331,25 @@
           "letter": "A",
           "text": "achievement",
           "is_correct": false,
-          "feedback": "Incorrect. Misconduct is negative."
+          "feedback": "An achievement is a positive result; the sentence is about wrongdoing being revealed."
         },
         {
           "letter": "B",
           "text": "misconduct",
           "is_correct": true,
-          "feedback": "Correct. Misconduct is unacceptable or improper behavior."
+          "feedback": "Misconduct is improper or unacceptable behaviour, which is what the whistleblowers expose."
         },
         {
           "letter": "C",
           "text": "transparency",
           "is_correct": false,
-          "feedback": "Incorrect. Misconduct is the thing being exposed."
+          "feedback": "Transparency is the quality of being open, not the wrongdoing itself."
         },
         {
           "letter": "D",
           "text": "efficiency",
           "is_correct": false,
-          "feedback": "Incorrect."
+          "feedback": "Efficiency is about working well and quickly, unrelated to corporate wrongdoing."
         }
       ],
       "correct_answer": "B",
@@ -376,25 +376,25 @@
           "letter": "A",
           "text": "don't",
           "is_correct": false,
-          "feedback": "Incorrect. Backshifted in reported speech."
+          "feedback": "'Don't' is the negative of 'do', but the rule here is 'should not', which backshifts to 'shouldn't'."
         },
         {
           "letter": "D",
           "text": "shouldn't",
           "is_correct": true,
-          "feedback": "Correct. Backshifted from 'should not' or expressing advice within the past statement."
+          "feedback": "In reported speech 'should not' backshifts to 'shouldn't', matching a code of ethics stated in the past."
         },
         {
           "letter": "B",
           "text": "won't",
           "is_correct": false,
-          "feedback": "Incorrect."
+          "feedback": "'Won't' expresses refusal or future, which is not what the code prohibits."
         },
         {
           "letter": "C",
           "text": "can't",
           "is_correct": false,
-          "feedback": "Incorrect."
+          "feedback": "'Can't' expresses inability, not a rule of conduct."
         }
       ],
       "correct_answer": "D",
@@ -601,25 +601,25 @@
           "letter": "A",
           "text": "if",
           "is_correct": false,
-          "feedback": "Incorrect. 'If it is necessary' would mean don't reveal if it *is* necessary."
+          "feedback": "'If' followed by a positive 'is necessary' would reverse the meaning: it would say do reveal when necessary."
         },
         {
           "letter": "B",
           "text": "unless",
           "is_correct": true,
-          "feedback": "Correct. 'Unless' means 'if not'."
+          "feedback": "'Unless' means 'if not', so the sources are revealed only when it is NOT necessary."
         },
         {
           "letter": "C",
           "text": "although",
           "is_correct": false,
-          "feedback": "Incorrect. Contrast."
+          "feedback": "'Although' introduces a contrast, which does not carry the condition of exception."
         },
         {
           "letter": "D",
           "text": "whether",
           "is_correct": false,
-          "feedback": "Incorrect. Choice."
+          "feedback": "'Whether' introduces a choice between alternatives, not the exception meant here."
         }
       ],
       "correct_answer": "B",
@@ -691,25 +691,25 @@
           "letter": "A",
           "text": "resolution",
           "is_correct": false,
-          "feedback": "Incorrect."
+          "feedback": "A resolution ends a dispute; here the issue is a clash of interests."
         },
         {
           "letter": "D",
           "text": "conflict",
           "is_correct": true,
-          "feedback": "Correct. Specific term for personal interest interfering with duty."
+          "feedback": "A conflict of interest is the term for personal involvement that could compromise impartiality."
         },
         {
           "letter": "B",
           "text": "success",
           "is_correct": false,
-          "feedback": "Incorrect."
+          "feedback": "Success means achieving a goal, which has no bearing on compromising objectivity."
         },
         {
           "letter": "C",
           "text": "agreement",
           "is_correct": false,
-          "feedback": "Incorrect."
+          "feedback": "Agreement means harmony, the opposite of a conflict."
         }
       ],
       "correct_answer": "D",
@@ -781,25 +781,25 @@
           "letter": "B",
           "text": "Greed",
           "is_correct": false,
-          "feedback": "Incorrect. Negative."
+          "feedback": "Greed is a selfish desire for more, which journalism rejects."
         },
         {
           "letter": "A",
           "text": "integrity",
           "is_correct": true,
-          "feedback": "Correct. The quality of being honest and having strong moral principles."
+          "feedback": "Integrity is the quality of being honest and holding firm moral principles, which is what the sentence describes."
         },
         {
           "letter": "C",
           "text": "Popularity",
           "is_correct": false,
-          "feedback": "Incorrect. Ratings-focused."
+          "feedback": "Popularity is audience approval, which journalism cannot put first."
         },
         {
           "letter": "D",
           "text": "Speed",
           "is_correct": false,
-          "feedback": "Incorrect. Often sacrifices accuracy."
+          "feedback": "Speed can even work against accuracy, so it is not what integrity means here."
         }
       ],
       "correct_answer": "A",
@@ -826,25 +826,25 @@
           "letter": "A",
           "text": "needs",
           "is_correct": false,
-          "feedback": "Incorrect. Backshifted in reported speech."
+          "feedback": "'Needs' is the present tense; in reported speech the verb backshifts to 'needed'."
         },
         {
           "letter": "B",
           "text": "needed",
           "is_correct": true,
-          "feedback": "Correct. Backshifted from 'needs' to 'needed' in reported speech."
+          "feedback": "In reported speech 'needs' backshifts to 'needed', matching the ombudsman's past argument."
         },
         {
           "letter": "C",
           "text": "has needed",
           "is_correct": false,
-          "feedback": "Incorrect."
+          "feedback": "'Has needed' is a present perfect form, which does not backshift this way."
         },
         {
           "letter": "D",
           "text": "will need",
           "is_correct": false,
-          "feedback": "Incorrect. Future."
+          "feedback": "'Will need' is future, but the argument was made in the past."
         }
       ],
       "correct_answer": "B",

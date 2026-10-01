@@ -9,42 +9,42 @@
   "questions": [
     {
       "id": "CO-ING-6-2026-W36-giving-directions-001-v1",
-      "statement": "This is a review question about giving-directions.",
-      "context": "Scenario about giving-directions in a Colombian school or city context.",
+      "statement": "You need to find the nearest pharmacy. Which question do you ask?",
+      "context": "Asking a stranger for directions in Bogotá.",
       "options": [
         {
           "letter": "A",
-          "text": "Option B",
+          "text": "Where is the pharmacy? Go now.",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "The first sentence is a correct request, but the added command is abrupt and inappropriate to a stranger."
         },
         {
           "letter": "B",
-          "text": "Option C",
+          "text": "Excuse me, what is the pharmacy?",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "What is asks for a definition rather than a location, so it would not get directions."
         },
         {
           "letter": "C",
-          "text": "Option A (Correct)",
+          "text": "Excuse me, where is the pharmacy?",
           "is_correct": true,
-          "feedback": "Correct! Well done."
+          "feedback": "Excuse me is the polite opener and where is asks for the location of a specific place."
         },
         {
           "letter": "D",
-          "text": "Option D",
+          "text": "How much is the pharmacy?",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "How much asks for a price, and a pharmacy is a place rather than something that is sold."
         }
       ],
       "correct_answer": "C",
-      "explanation": "This question evaluates the student's ability to remember the topic of Asking for and Giving Directions at an A2 level. It focuses on Colombian contexts and standard A2 grammar.\n\n---",
-      "difficulty": "4",
+      "explanation": "The correct answer is \"Excuse me, where is the pharmacy?\". Asking a stranger for directions has two parts, a polite opener and the question word that gets the information needed, and both have to be right. The distractors each get one of those parts wrong, and the abrupt version is included deliberately because a grammatically correct request can still be the wrong thing to say to someone you do not know.",
+      "difficulty": "3",
       "images": [],
       "tags": [],
       "bloom": "Remember",
-      "icfes_type": "Reading Comprehension",
-      "expected_success": 0.75,
+      "icfes_type": "Pragmatic Competence",
+      "expected_success": 0.82,
       "bundle_id": "CO-ING-6-2026-W36-giving-directions-001-MASTERY-bundle",
       "periodo": 36,
       "protocol_version": "5.2",
@@ -55,42 +55,42 @@
     },
     {
       "id": "CO-ING-6-2026-W36-giving-directions-002-v1",
-      "statement": "Select the correct A2 level use for giving-directions.",
-      "context": "Scenario about giving-directions in a Colombian school or city context.",
+      "statement": "Which sentence gives a correct instruction?",
+      "context": "Using the preposition on with a street name in directions.",
       "options": [
         {
           "letter": "A",
-          "text": "Structure 4",
-          "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "text": "Turn right on Seventh Street.",
+          "is_correct": true,
+          "feedback": "On is the preposition English uses for a street name, and it names the road the turn happens on."
         },
         {
           "letter": "B",
-          "text": "Structure 2",
+          "text": "Turn right in Seventh Street.",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "In would place the turn inside the street rather than on it, and streets take on rather than in."
         },
         {
           "letter": "C",
-          "text": "Structure 3",
+          "text": "Turn right at Seventh Street.",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "At names a point in general, and English uses on when a street or road is the reference."
         },
         {
           "letter": "D",
-          "text": "Structure 1 (Correct)",
-          "is_correct": true,
-          "feedback": "Correct! Well done."
+          "text": "Turn right of Seventh Street.",
+          "is_correct": false,
+          "feedback": "Of expresses a relationship between two nouns and is not the preposition for a street name here."
         }
       ],
-      "correct_answer": "D",
-      "explanation": "This question evaluates the student's ability to remember the topic of Asking for and Giving Directions at an A2 level. It focuses on Colombian contexts and standard A2 grammar.\n\n---",
-      "difficulty": "4",
+      "correct_answer": "A",
+      "explanation": "The correct answer is \"Turn right on Seventh Street\". Street names take on in English and students rarely get this wrong by accident, because no other preposition sounds right, so it is a high-confidence item placed where the harder instruction structures are already established. The three wrong prepositions are the ones a student reaches for without a rule to stop them.",
+      "difficulty": "3",
       "images": [],
       "tags": [],
       "bloom": "Remember",
-      "icfes_type": "Reading Comprehension",
-      "expected_success": 0.75,
+      "icfes_type": "Grammatical Knowledge",
+      "expected_success": 0.8,
       "bundle_id": "CO-ING-6-2026-W36-giving-directions-001-MASTERY-bundle",
       "periodo": 36,
       "protocol_version": "5.2",
@@ -101,42 +101,42 @@
     },
     {
       "id": "CO-ING-6-2026-W36-giving-directions-003-v1",
-      "statement": "Identify the appropriate vocabulary for giving-directions.",
-      "context": "Scenario about giving-directions in a Colombian school or city context.",
+      "statement": "Read: \"The bakery is next to the pharmacy, opposite the park.\" What is the bakery next to?",
+      "context": "Following a written direction from a short text.",
       "options": [
         {
           "letter": "A",
-          "text": "Word 1 (Correct)",
-          "is_correct": true,
-          "feedback": "Correct! Well done."
+          "text": "The park.",
+          "is_correct": false,
+          "feedback": "The bakery is opposite the park, which is a different relation from being next to something."
         },
         {
           "letter": "B",
-          "text": "Word 3",
+          "text": "The bus stop.",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "No bus stop appears in the text, and the two relations given are next to and opposite."
         },
         {
           "letter": "C",
-          "text": "Word 2",
+          "text": "The bank.",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "The bank is not mentioned in this text at all, so there is no support for that relationship."
         },
         {
           "letter": "D",
-          "text": "Word 4",
-          "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "text": "The pharmacy.",
+          "is_correct": true,
+          "feedback": "The text says the bakery is next to the pharmacy, so the two are the neighbouring buildings."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "This question evaluates the student's ability to understand the topic of Asking for and Giving Directions at an A2 level. It focuses on Colombian contexts and standard A2 grammar.\n\n---",
-      "difficulty": "6",
+      "correct_answer": "D",
+      "explanation": "The correct answer is \"The pharmacy\". The text gives two relations in one line, next to and opposite, and telling them apart is the whole reading task. Students who skim often swap them, so pausing to check which relation goes with which pair of places is the habit this item builds, and it is needed for every map or route question in the exam.",
+      "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Understand",
       "icfes_type": "Reading Comprehension",
-      "expected_success": 0.75,
+      "expected_success": 0.78,
       "bundle_id": "CO-ING-6-2026-W36-giving-directions-001-MASTERY-bundle",
       "periodo": 36,
       "protocol_version": "5.2",
@@ -147,42 +147,42 @@
     },
     {
       "id": "CO-ING-6-2026-W36-giving-directions-004-v1",
-      "statement": "Complete the sentence about giving-directions.",
-      "context": "Scenario about giving-directions in a Colombian school or city context.",
+      "statement": "Which sentence correctly gives a direction to somebody walking?",
+      "context": "Using the imperative to give a direction.",
       "options": [
         {
           "letter": "A",
-          "text": "Phrase C",
+          "text": "You turn left at the traffic light.",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "This is a statement about what somebody does rather than an instruction, so it would not direct a listener."
         },
         {
           "letter": "B",
-          "text": "Phrase D",
-          "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "text": "Turn left at the traffic light.",
+          "is_correct": true,
+          "feedback": "The imperative of turn takes the bare form, and at the traffic light names the point where the turn happens."
         },
         {
           "letter": "C",
-          "text": "Phrase A (Correct)",
-          "is_correct": true,
-          "feedback": "Correct! Well done."
+          "text": "Turning left at the traffic light.",
+          "is_correct": false,
+          "feedback": "The -ing form is not an instruction on its own, since it has no subject and no auxiliary."
         },
         {
           "letter": "D",
-          "text": "Phrase B",
+          "text": "To turn left at the traffic light.",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "The infinitive to turn is not an instruction in English, which uses the bare imperative form instead."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "This question evaluates the student's ability to understand the topic of Asking for and Giving Directions at an A2 level. It focuses on Colombian contexts and standard A2 grammar.\n\n---",
-      "difficulty": "6",
+      "correct_answer": "B",
+      "explanation": "The correct answer is \"Turn left at the traffic light\". Directions are given with the imperative, whose form in English is the bare verb, and students who ask for the subject produce a statement rather than a command. Practising the imperative separately from the preposition means the two elements of an instruction can both be right instead of one being lost.",
+      "difficulty": "4",
       "images": [],
       "tags": [],
-      "bloom": "Understand",
-      "icfes_type": "Reading Comprehension",
-      "expected_success": 0.75,
+      "bloom": "Apply",
+      "icfes_type": "Grammatical Knowledge",
+      "expected_success": 0.76,
       "bundle_id": "CO-ING-6-2026-W36-giving-directions-001-MASTERY-bundle",
       "periodo": 36,
       "protocol_version": "5.2",
@@ -193,42 +193,42 @@
     },
     {
       "id": "CO-ING-6-2026-W36-giving-directions-005-v1",
-      "statement": "What is the best way to express giving-directions?",
-      "context": "Scenario about giving-directions in a Colombian school or city context.",
+      "statement": "You move from the hotel to the museum without using any vehicle. Which verb describes this?",
+      "context": "Choosing the verb that names going from one place to another on foot.",
       "options": [
         {
           "letter": "A",
-          "text": "Other way",
-          "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "text": "walk",
+          "is_correct": true,
+          "feedback": "Walk is the verb for moving along on your own feet, which is what travelling between two places without a vehicle means."
         },
         {
           "letter": "B",
-          "text": "That way",
+          "text": "drive",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "Driving requires a vehicle, and the situation described rules any vehicle out."
         },
         {
           "letter": "C",
-          "text": "This way (Correct)",
-          "is_correct": true,
-          "feedback": "Correct! Well done."
+          "text": "fly",
+          "is_correct": false,
+          "feedback": "Flying is a long distance form of transport, and it is the opposite of travelling on foot here."
         },
         {
           "letter": "D",
-          "text": "Incorrect way",
+          "text": "ride",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "Riding goes with a bicycle, a horse or a bus, and no such vehicle is involved in this journey."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "This question evaluates the student's ability to apply the topic of Asking for and Giving Directions at an A2 level. It focuses on Colombian contexts and standard A2 grammar.\n\n---",
-      "difficulty": "6",
+      "correct_answer": "A",
+      "explanation": "The correct answer is \"walk\". The verbs of transport are a small set that students often mix up, and each one carries a clear picture of how the person is moving. A student who can choose the verb from the situation can both follow and give directions, which is what the next stage of this week's work requires.",
+      "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Apply",
-      "icfes_type": "Reading Comprehension",
-      "expected_success": 0.75,
+      "icfes_type": "Lexical Knowledge",
+      "expected_success": 0.74,
       "bundle_id": "CO-ING-6-2026-W36-giving-directions-001-MASTERY-bundle",
       "periodo": 36,
       "protocol_version": "5.2",
@@ -239,42 +239,42 @@
     },
     {
       "id": "CO-ING-6-2026-W36-giving-directions-006-v1",
-      "statement": "Find the error in this giving-directions sentence.",
-      "context": "Scenario about giving-directions in a Colombian school or city context.",
+      "statement": "A person says: \"Go straight ahead, then turn left at the corner. The school is on your right.\" Which place is on the right?",
+      "context": "Understanding a sequence of directions given in a short dialogue.",
       "options": [
         {
           "letter": "A",
-          "text": "The error is here (Correct)",
-          "is_correct": true,
-          "feedback": "Correct! Well done."
+          "text": "The corner.",
+          "is_correct": false,
+          "feedback": "The corner is the point where the turn happens, and it is on the left because the turn is a left turn."
         },
         {
           "letter": "B",
-          "text": "Different error",
+          "text": "The bank.",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "No bank is mentioned in the dialogue, so this cannot be identified from what was said."
         },
         {
           "letter": "C",
-          "text": "No error",
+          "text": "The pharmacy.",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "No pharmacy is mentioned anywhere in these directions."
         },
         {
           "letter": "D",
-          "text": "Wrong error",
-          "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "text": "The school.",
+          "is_correct": true,
+          "feedback": "The sentence states directly that the school is on your right, so that is the place named on that side."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "This question evaluates the student's ability to apply the topic of Asking for and Giving Directions at an A2 level. It focuses on Colombian contexts and standard A2 grammar.\n\n---",
-      "difficulty": "8",
+      "correct_answer": "D",
+      "explanation": "The correct answer is \"The school\". Three instructions arrive in sequence and the student has to keep track of the direction changes in order to follow the last one. The other two distractors are invented places, and the corner is a real one but on the wrong side, so the item separates memory of the content from understanding of the directions.",
+      "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Apply",
-      "icfes_type": "Reading Comprehension",
-      "expected_success": 0.75,
+      "icfes_type": "Pragmatic Competence",
+      "expected_success": 0.72,
       "bundle_id": "CO-ING-6-2026-W36-giving-directions-001-MASTERY-bundle",
       "periodo": 36,
       "protocol_version": "5.2",
@@ -285,42 +285,42 @@
     },
     {
       "id": "CO-ING-6-2026-W36-giving-directions-007-v1",
-      "statement": "Match the term with the definition of giving-directions.",
-      "context": "Scenario about giving-directions in a Colombian school or city context.",
+      "statement": "Which sentence says that the museum is between the bank and the library?",
+      "context": "Using the preposition between to describe a position on a street.",
       "options": [
         {
           "letter": "A",
-          "text": "Non-matching",
+          "text": "The museum is between the bank and the library to.",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "The extra to at the end has no function, and the phrase would be ungrammatical as written."
         },
         {
           "letter": "B",
-          "text": "Matching term (Correct)",
+          "text": "The museum is between the bank and the library.",
           "is_correct": true,
-          "feedback": "Correct! Well done."
+          "feedback": "Between takes two names joined by and, which is the pattern for naming a position in the middle of two places."
         },
         {
           "letter": "C",
-          "text": "Irrelevant",
+          "text": "The museum is between of the bank and the library.",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "Between does not take of before its two names, so the preposition appears wrongly here."
         },
         {
           "letter": "D",
-          "text": "Opposite",
+          "text": "The museum is between the bank or the library.",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "Between pairs two places with and rather than or, which would make the relationship uncertain."
         }
       ],
       "correct_answer": "B",
-      "explanation": "This question evaluates the student's ability to apply the topic of Asking for and Giving Directions at an A2 level. It focuses on Colombian contexts and standard A2 grammar.\n\n---",
-      "difficulty": "8",
+      "explanation": "The correct answer is \"The museum is between the bank and the library\". Between is a two-part preposition that names a position in the middle of something, and it needs two items joined by and. Students rarely get this wrong once it is practised, which makes it a reliable item, but the two-part pattern also explains related prepositions such as next to and opposite that the same week uses.",
+      "difficulty": "5",
       "images": [],
       "tags": [],
       "bloom": "Apply",
-      "icfes_type": "Reading Comprehension",
-      "expected_success": 0.75,
+      "icfes_type": "Grammatical Knowledge",
+      "expected_success": 0.7,
       "bundle_id": "CO-ING-6-2026-W36-giving-directions-001-MASTERY-bundle",
       "periodo": 36,
       "protocol_version": "5.2",
@@ -331,42 +331,42 @@
     },
     {
       "id": "CO-ING-6-2026-W36-giving-directions-008-v1",
-      "statement": "Choose the synonym for a word related to giving-directions.",
-      "context": "Scenario about giving-directions in a Colombian school or city context.",
+      "statement": "Read: \"Turn right on Fifth Avenue, and the bank is between the pharmacy and the post office.\" What is wrong?",
+      "context": "Finding the error in a set of written directions.",
       "options": [
         {
           "letter": "A",
-          "text": "Homonym",
-          "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "text": "The sentence has no error.",
+          "is_correct": true,
+          "feedback": "Both the preposition on the street name and the two-part between construction are used correctly here."
         },
         {
           "letter": "B",
-          "text": "Antonym",
+          "text": "A bank is not a place on a street.",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "A bank is an ordinary building on a street, so there is nothing implausible about the place named."
         },
         {
           "letter": "C",
-          "text": "Unrelated",
+          "text": "The preposition on before a street name is wrong.",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "On is the correct preposition for a street or avenue name, so the first instruction is fine."
         },
         {
           "letter": "D",
-          "text": "Synonym (Correct)",
-          "is_correct": true,
-          "feedback": "Correct! Well done."
+          "text": "The turn should be a left turn.",
+          "is_correct": false,
+          "feedback": "Nothing in the sentence indicates a direction that must be left rather than right, so this is not an error."
         }
       ],
-      "correct_answer": "D",
-      "explanation": "This question evaluates the student's ability to analyze the topic of Asking for and Giving Directions at an A2 level. It focuses on Colombian contexts and standard A2 grammar.\n\n---",
-      "difficulty": "8",
+      "correct_answer": "A",
+      "explanation": "The correct answer is \"The sentence has no error\". Both prepositions in the sentence are correct, and accepting a correct text is a real skill that students often lack because they assume a question must have something wrong in it. Each distractor names a defect that sounds plausible but is not present, so the item trains the student to verify rather than to hunt for a fault.",
+      "difficulty": "5",
       "images": [],
       "tags": [],
       "bloom": "Analyze",
       "icfes_type": "Reading Comprehension",
-      "expected_success": 0.75,
+      "expected_success": 0.68,
       "bundle_id": "CO-ING-6-2026-W36-giving-directions-001-MASTERY-bundle",
       "periodo": 36,
       "protocol_version": "5.2",
@@ -377,42 +377,42 @@
     },
     {
       "id": "CO-ING-6-2026-W36-giving-directions-009-v1",
-      "statement": "Which of these belongs to giving-directions?",
-      "context": "Scenario about giving-directions in a Colombian school or city context.",
+      "statement": "A student writes these directions: \"You turn right on the corner.\" What is the problem?",
+      "context": "Finding the error in a spoken direction.",
       "options": [
         {
           "letter": "A",
-          "text": "Neither",
+          "text": "On is the wrong preposition for a corner.",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "A corner is treated as a point in English and does take the preposition on, so that part is correct."
         },
         {
           "letter": "B",
-          "text": "Not this one",
+          "text": "A corner cannot be a place on a street.",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "Corners are ordinary features of streets and are named constantly when giving directions."
         },
         {
           "letter": "C",
-          "text": "Both",
+          "text": "The verb turn is in the wrong tense.",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "The imperative is not marked for tense in English, so the form turn is correct for a direction."
         },
         {
           "letter": "D",
-          "text": "This one (Correct)",
+          "text": "The sentence is a statement rather than an instruction.",
           "is_correct": true,
-          "feedback": "Correct! Well done."
+          "feedback": "Directions must use the imperative bare form, so the subject You turns the instruction into a statement about somebody else."
         }
       ],
       "correct_answer": "D",
-      "explanation": "This question evaluates the student's ability to analyze the topic of Asking for and Giving Directions at an A2 level. It focuses on Colombian contexts and standard A2 grammar.\n\n---",
-      "difficulty": "10",
+      "explanation": "The correct answer is \"The sentence is a statement rather than an instruction\". The preposition and the verb are both correct, and the only problem is the added subject that changes the meaning from a command to a description. Recognising that a sentence can be perfectly grammatical yet the wrong thing to say in a situation is the pragmatic awareness this week is building towards.",
+      "difficulty": "5",
       "images": [],
       "tags": [],
       "bloom": "Analyze",
-      "icfes_type": "Reading Comprehension",
-      "expected_success": 0.75,
+      "icfes_type": "Grammatical Knowledge",
+      "expected_success": 0.65,
       "bundle_id": "CO-ING-6-2026-W36-giving-directions-001-MASTERY-bundle",
       "periodo": 36,
       "protocol_version": "5.2",
@@ -423,42 +423,42 @@
     },
     {
       "id": "CO-ING-6-2026-W36-giving-directions-010-v1",
-      "statement": "Predict the next word in the giving-directions context.",
-      "context": "Scenario about giving-directions in a Colombian school or city context.",
+      "statement": "A visitor needs to reach the station. Which set of directions is most helpful?",
+      "context": "Deciding which set of directions is the clearest for a visitor.",
       "options": [
         {
           "letter": "A",
-          "text": "Maybe",
+          "text": "Turn, turn, turn, and then you will see it.",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "This says nothing about which way to turn or what to look for, so the visitor would still be lost."
         },
         {
           "letter": "B",
-          "text": "Impossible",
+          "text": "The station is very important and it is near something.",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "This gives no usable direction at all, since it names neither a turn nor a landmark."
         },
         {
           "letter": "C",
-          "text": "Wrong prediction",
-          "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "text": "Go straight ahead for two blocks, turn left at the bank, and the station is on your right next to the park.",
+          "is_correct": true,
+          "feedback": "This gives distance, a landmark to turn at and a final position, so the visitor can follow it without help."
         },
         {
           "letter": "D",
-          "text": "Correct prediction",
-          "is_correct": true,
-          "feedback": "Correct! Well done."
+          "text": "Everyone knows where the station is.",
+          "is_correct": false,
+          "feedback": "This dismisses the visitor's question rather than answering it, and offers no help at all."
         }
       ],
-      "correct_answer": "D",
-      "explanation": "This question evaluates the student's ability to evaluate the topic of Asking for and Giving Directions at an A2 level. It focuses on Colombian contexts and standard A2 grammar.\n\n---",
-      "difficulty": "10",
+      "correct_answer": "C",
+      "explanation": "The correct answer is the one with distance, a turn landmark and a final position. Good directions in any city depend on the same three things, and judging whether a set of instructions actually enables someone to get there is a real evaluative task rather than a grammar check. The three distractors each fail in a different way, by being vague, by being repetitive or by refusing to help, so choosing correctly means applying the criterion rather than guessing.\n\n---",
+      "difficulty": "5",
       "images": [],
       "tags": [],
       "bloom": "Evaluate",
-      "icfes_type": "Reading Comprehension",
-      "expected_success": 0.75,
+      "icfes_type": "Pragmatic Competence",
+      "expected_success": 0.62,
       "bundle_id": "CO-ING-6-2026-W36-giving-directions-001-MASTERY-bundle",
       "periodo": 36,
       "protocol_version": "5.2",

@@ -16,25 +16,25 @@
           "letter": "A",
           "text": "$x \\le 5$",
           "is_correct": false,
-          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+          "feedback": "El enunciado usa $<$, una desigualdad estricta, así que $x=5$ queda excluido; correspondería al signo $\\le$."
         },
         {
           "letter": "B",
           "text": "$x < 5$",
           "is_correct": true,
-          "feedback": "Correcto. ¡Excelente análisis!"
+          "feedback": "Restando 5 y dividiendo entre 2, que es positivo, se obtiene $x < 5$ sin cambiar el signo."
         },
         {
           "letter": "C",
           "text": "$x > 5$",
           "is_correct": false,
-          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+          "feedback": "Al dividir entre 2 la desigualdad conserva su sentido: se despeja $x < 5$, no mayor."
         },
         {
           "letter": "D",
           "text": "$x < 10$",
           "is_correct": false,
-          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+          "feedback": "Restando solo 5 a ambos lados queda $2x < 10$, y dividir entre 2 da $x < 5$."
         }
       ],
       "correct_answer": "B",
@@ -61,25 +61,25 @@
           "letter": "A",
           "text": "$x < 5$",
           "is_correct": true,
-          "feedback": "Correcto. ¡Excelente análisis!"
+          "feedback": "Restando 5 y dividiendo entre 2, que es positivo, se obtiene $x < 5$ sin cambiar el signo."
         },
         {
           "letter": "B",
           "text": "$x \\le 5$",
           "is_correct": false,
-          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+          "feedback": "El enunciado usa $<$, una desigualdad estricta, así que $x=5$ queda excluido; correspondería al signo $\\le$."
         },
         {
           "letter": "C",
           "text": "$x > 5$",
           "is_correct": false,
-          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+          "feedback": "Al dividir entre 2 la desigualdad conserva su sentido: se despeja $x < 5$, no mayor."
         },
         {
           "letter": "D",
           "text": "$x < 10$",
           "is_correct": false,
-          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+          "feedback": "Restando solo 5 a ambos lados queda $2x < 10$, y dividir entre 2 da $x < 5$."
         }
       ],
       "correct_answer": "A",
@@ -106,25 +106,25 @@
           "letter": "A",
           "text": "$x < 5$",
           "is_correct": true,
-          "feedback": "Correcto. ¡Excelente análisis!"
+          "feedback": "Restando 5 y dividiendo entre 2, que es positivo, se obtiene $x < 5$ sin cambiar el signo."
         },
         {
           "letter": "B",
           "text": "$x > 5$",
           "is_correct": false,
-          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+          "feedback": "Al dividir entre 2 la desigualdad conserva su sentido: se despeja $x < 5$, no mayor."
         },
         {
           "letter": "C",
           "text": "$x < 10$",
           "is_correct": false,
-          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+          "feedback": "Restando solo 5 a ambos lados queda $2x < 10$, y dividir entre 2 da $x < 5$."
         },
         {
           "letter": "D",
           "text": "$x \\le 5$",
           "is_correct": false,
-          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+          "feedback": "El enunciado usa $<$, una desigualdad estricta, así que $x=5$ queda excluido; correspondería al signo $\\le$."
         }
       ],
       "correct_answer": "A",
@@ -151,25 +151,25 @@
           "letter": "A",
           "text": "$x < 10$",
           "is_correct": false,
-          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+          "feedback": "Restando solo 5 a ambos lados queda $2x < 10$, y dividir entre 2 da $x < 5$."
         },
         {
           "letter": "B",
           "text": "$x \\le 5$",
           "is_correct": false,
-          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+          "feedback": "El enunciado usa $<$, una desigualdad estricta, así que $x=5$ queda excluido; correspondería al signo $\\le$."
         },
         {
           "letter": "C",
           "text": "$x < 5$",
           "is_correct": true,
-          "feedback": "Correcto. ¡Excelente análisis!"
+          "feedback": "Restando 5 y dividiendo entre 2, que es positivo, se obtiene $x < 5$ sin cambiar el signo."
         },
         {
           "letter": "D",
           "text": "$x > 5$",
           "is_correct": false,
-          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+          "feedback": "Al dividir entre 2 la desigualdad conserva su sentido: se despeja $x < 5$, no mayor."
         }
       ],
       "correct_answer": "C",
@@ -196,25 +196,25 @@
           "letter": "A",
           "text": "$x \\ge -4$",
           "is_correct": false,
-          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+          "feedback": "Al dividir entre un número negativo la desigualdad cambia de sentido, por eso el resultado es $x \\le -4$."
         },
         {
           "letter": "B",
           "text": "$x \\le -4$",
           "is_correct": true,
-          "feedback": "Correcto. ¡Excelente análisis!"
+          "feedback": "Al dividir entre $-3$ la desigualdad se invierte y el 12 cambia de signo, por lo que $x \\le -4$."
         },
         {
           "letter": "C",
           "text": "$x \\ge 4$",
           "is_correct": false,
-          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+          "feedback": "El signo del 12 también debe cambiar al dividir entre $-3$: $-3x \\ge 12$ equivale a $x \\le -4$, no a un 4 positivo."
         },
         {
           "letter": "D",
           "text": "$x \\le 4$",
           "is_correct": false,
-          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+          "feedback": "El resultado conserva el signo negativo del coeficiente: al dividir entre $-3$ se obtiene $-4$, no $+4$."
         }
       ],
       "correct_answer": "B",
@@ -241,25 +241,25 @@
           "letter": "A",
           "text": "$x \\le -4$",
           "is_correct": true,
-          "feedback": "Correcto. ¡Excelente análisis!"
+          "feedback": "Al dividir entre $-3$ la desigualdad se invierte y el 12 cambia de signo, por lo que $x \\le -4$."
         },
         {
           "letter": "B",
           "text": "$x \\ge -4$",
           "is_correct": false,
-          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+          "feedback": "Al dividir entre un número negativo la desigualdad cambia de sentido, por eso el resultado es $x \\le -4$."
         },
         {
           "letter": "C",
           "text": "$x \\le 4$",
           "is_correct": false,
-          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+          "feedback": "El resultado conserva el signo negativo del coeficiente: al dividir entre $-3$ se obtiene $-4$, no $+4$."
         },
         {
           "letter": "D",
           "text": "$x \\ge 4$",
           "is_correct": false,
-          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+          "feedback": "El signo del 12 también debe cambiar al dividir entre $-3$: $-3x \\ge 12$ equivale a $x \\le -4$, no a un 4 positivo."
         }
       ],
       "correct_answer": "A",
@@ -286,25 +286,25 @@
           "letter": "A",
           "text": "$x \\le -4$",
           "is_correct": true,
-          "feedback": "Correcto. ¡Excelente análisis!"
+          "feedback": "Al dividir entre $-3$ la desigualdad se invierte y el 12 cambia de signo, por lo que $x \\le -4$."
         },
         {
           "letter": "B",
           "text": "$x \\ge -4$",
           "is_correct": false,
-          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+          "feedback": "Al dividir entre un número negativo la desigualdad cambia de sentido, por eso el resultado es $x \\le -4$."
         },
         {
           "letter": "C",
           "text": "$x \\le 4$",
           "is_correct": false,
-          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+          "feedback": "El resultado conserva el signo negativo del coeficiente: al dividir entre $-3$ se obtiene $-4$, no $+4$."
         },
         {
           "letter": "D",
           "text": "$x \\ge 4$",
           "is_correct": false,
-          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+          "feedback": "El signo del 12 también debe cambiar al dividir entre $-3$: $-3x \\ge 12$ equivale a $x \\le -4$, no a un 4 positivo."
         }
       ],
       "correct_answer": "A",
@@ -331,25 +331,25 @@
           "letter": "A",
           "text": "$x \\le -4$",
           "is_correct": true,
-          "feedback": "Correcto. ¡Excelente análisis!"
+          "feedback": "Al dividir entre $-3$ la desigualdad se invierte y el 12 cambia de signo, por lo que $x \\le -4$."
         },
         {
           "letter": "B",
           "text": "$x \\ge 4$",
           "is_correct": false,
-          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+          "feedback": "El signo del 12 también debe cambiar al dividir entre $-3$: $-3x \\ge 12$ equivale a $x \\le -4$, no a un 4 positivo."
         },
         {
           "letter": "C",
           "text": "$x \\ge -4$",
           "is_correct": false,
-          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+          "feedback": "Al dividir entre un número negativo la desigualdad cambia de sentido, por eso el resultado es $x \\le -4$."
         },
         {
           "letter": "D",
           "text": "$x \\le 4$",
           "is_correct": false,
-          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+          "feedback": "El resultado conserva el signo negativo del coeficiente: al dividir entre $-3$ se obtiene $-4$, no $+4$."
         }
       ],
       "correct_answer": "A",
@@ -376,25 +376,25 @@
           "letter": "A",
           "text": "$x \\le 4$",
           "is_correct": false,
-          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+          "feedback": "El resultado conserva el signo negativo del coeficiente: al dividir entre $-3$ se obtiene $-4$, no $+4$."
         },
         {
           "letter": "B",
           "text": "$x \\le -4$",
           "is_correct": true,
-          "feedback": "Correcto. ¡Excelente análisis!"
+          "feedback": "Al dividir entre $-3$ la desigualdad se invierte y el 12 cambia de signo, por lo que $x \\le -4$."
         },
         {
           "letter": "C",
           "text": "$x \\ge -4$",
           "is_correct": false,
-          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+          "feedback": "Al dividir entre un número negativo la desigualdad cambia de sentido, por eso el resultado es $x \\le -4$."
         },
         {
           "letter": "D",
           "text": "$x \\ge 4$",
           "is_correct": false,
-          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+          "feedback": "El signo del 12 también debe cambiar al dividir entre $-3$: $-3x \\ge 12$ equivale a $x \\le -4$, no a un 4 positivo."
         }
       ],
       "correct_answer": "B",
@@ -421,25 +421,25 @@
           "letter": "A",
           "text": "$x \\le 4$",
           "is_correct": false,
-          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+          "feedback": "El resultado conserva el signo negativo del coeficiente: al dividir entre $-3$ se obtiene $-4$, no $+4$."
         },
         {
           "letter": "B",
           "text": "$x \\ge -4$",
           "is_correct": false,
-          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+          "feedback": "Al dividir entre un número negativo la desigualdad cambia de sentido, por eso el resultado es $x \\le -4$."
         },
         {
           "letter": "C",
           "text": "$x \\ge 4$",
           "is_correct": false,
-          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+          "feedback": "El signo del 12 también debe cambiar al dividir entre $-3$: $-3x \\ge 12$ equivale a $x \\le -4$, no a un 4 positivo."
         },
         {
           "letter": "D",
           "text": "$x \\le -4$",
           "is_correct": true,
-          "feedback": "Correcto. ¡Excelente análisis!"
+          "feedback": "Al dividir entre $-3$ la desigualdad se invierte y el 12 cambia de signo, por lo que $x \\le -4$."
         }
       ],
       "correct_answer": "D",
@@ -466,25 +466,25 @@
           "letter": "A",
           "text": "$2k + 5 < 25$",
           "is_correct": false,
-          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+          "feedback": "El cliente dispone de 25 dólares como máximo, y un máximo sí se alcanza, de modo que la desigualdad es $\\le$ y no $<$ estricta."
         },
         {
           "letter": "B",
           "text": "$2k + 5 \\ge 25$",
           "is_correct": false,
-          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+          "feedback": "El signo está invertido: alcanzarse el presupuesto significa que el costo es menor o igual a 25, no mayor o igual."
         },
         {
           "letter": "C",
           "text": "$2k + 5 \\le 25$",
           "is_correct": true,
-          "feedback": "Correcto. ¡Excelente análisis!"
+          "feedback": "La tarifa es $2k+5$ y el presupuesto es un máximo de 25, así que el costo no puede superar 25: $2k + 5 \\le 25$."
         },
         {
           "letter": "D",
           "text": "$5k + 2 \\le 25$",
           "is_correct": false,
-          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+          "feedback": "Se intercambiaron los coeficientes: 5 dólares es la tarifa fija y 2 dólares el precio por kilómetro, por eso los roles no se pueden cambiar."
         }
       ],
       "correct_answer": "C",
@@ -511,25 +511,25 @@
           "letter": "A",
           "text": "$5k + 2 \\le 25$",
           "is_correct": false,
-          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+          "feedback": "Se intercambiaron los coeficientes: 5 dólares es la tarifa fija y 2 dólares el precio por kilómetro, por eso los roles no se pueden cambiar."
         },
         {
           "letter": "B",
           "text": "$2k + 5 \\ge 25$",
           "is_correct": false,
-          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+          "feedback": "El signo está invertido: alcanzarse el presupuesto significa que el costo es menor o igual a 25, no mayor o igual."
         },
         {
           "letter": "C",
           "text": "$2k + 5 \\le 25$",
           "is_correct": true,
-          "feedback": "Correcto. ¡Excelente análisis!"
+          "feedback": "La tarifa es $2k+5$ y el presupuesto es un máximo de 25, así que el costo no puede superar 25: $2k + 5 \\le 25$."
         },
         {
           "letter": "D",
           "text": "$2k + 5 < 25$",
           "is_correct": false,
-          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+          "feedback": "El cliente dispone de 25 dólares como máximo, y un máximo sí se alcanza, de modo que la desigualdad es $\\le$ y no $<$ estricta."
         }
       ],
       "correct_answer": "C",
@@ -556,25 +556,25 @@
           "letter": "A",
           "text": "$5k + 2 \\le 25$",
           "is_correct": false,
-          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+          "feedback": "Se intercambiaron los coeficientes: 5 dólares es la tarifa fija y 2 dólares el precio por kilómetro, por eso los roles no se pueden cambiar."
         },
         {
           "letter": "B",
           "text": "$2k + 5 \\ge 25$",
           "is_correct": false,
-          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+          "feedback": "El signo está invertido: alcanzarse el presupuesto significa que el costo es menor o igual a 25, no mayor o igual."
         },
         {
           "letter": "C",
           "text": "$2k + 5 < 25$",
           "is_correct": false,
-          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+          "feedback": "El cliente dispone de 25 dólares como máximo, y un máximo sí se alcanza, de modo que la desigualdad es $\\le$ y no $<$ estricta."
         },
         {
           "letter": "D",
           "text": "$2k + 5 \\le 25$",
           "is_correct": true,
-          "feedback": "Correcto. ¡Excelente análisis!"
+          "feedback": "La tarifa es $2k+5$ y el presupuesto es un máximo de 25, así que el costo no puede superar 25: $2k + 5 \\le 25$."
         }
       ],
       "correct_answer": "D",
@@ -601,25 +601,25 @@
           "letter": "A",
           "text": "$2k + 5 < 25$",
           "is_correct": false,
-          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+          "feedback": "El cliente dispone de 25 dólares como máximo, y un máximo sí se alcanza, de modo que la desigualdad es $\\le$ y no $<$ estricta."
         },
         {
           "letter": "B",
           "text": "$5k + 2 \\le 25$",
           "is_correct": false,
-          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+          "feedback": "Se intercambiaron los coeficientes: 5 dólares es la tarifa fija y 2 dólares el precio por kilómetro, por eso los roles no se pueden cambiar."
         },
         {
           "letter": "C",
           "text": "$2k + 5 \\ge 25$",
           "is_correct": false,
-          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+          "feedback": "El signo está invertido: alcanzarse el presupuesto significa que el costo es menor o igual a 25, no mayor o igual."
         },
         {
           "letter": "D",
           "text": "$2k + 5 \\le 25$",
           "is_correct": true,
-          "feedback": "Correcto. ¡Excelente análisis!"
+          "feedback": "La tarifa es $2k+5$ y el presupuesto es un máximo de 25, así que el costo no puede superar 25: $2k + 5 \\le 25$."
         }
       ],
       "correct_answer": "D",
@@ -646,25 +646,25 @@
           "letter": "A",
           "text": "$2k + 5 < 25$",
           "is_correct": false,
-          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+          "feedback": "El cliente dispone de 25 dólares como máximo, y un máximo sí se alcanza, de modo que la desigualdad es $\\le$ y no $<$ estricta."
         },
         {
           "letter": "B",
           "text": "$2k + 5 \\le 25$",
           "is_correct": true,
-          "feedback": "Correcto. ¡Excelente análisis!"
+          "feedback": "La tarifa es $2k+5$ y el presupuesto es un máximo de 25, así que el costo no puede superar 25: $2k + 5 \\le 25$."
         },
         {
           "letter": "C",
           "text": "$5k + 2 \\le 25$",
           "is_correct": false,
-          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+          "feedback": "Se intercambiaron los coeficientes: 5 dólares es la tarifa fija y 2 dólares el precio por kilómetro, por eso los roles no se pueden cambiar."
         },
         {
           "letter": "D",
           "text": "$2k + 5 \\ge 25$",
           "is_correct": false,
-          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+          "feedback": "El signo está invertido: alcanzarse el presupuesto significa que el costo es menor o igual a 25, no mayor o igual."
         }
       ],
       "correct_answer": "B",
@@ -691,25 +691,25 @@
           "letter": "A",
           "text": "$2k + 5 < 25$",
           "is_correct": false,
-          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+          "feedback": "El cliente dispone de 25 dólares como máximo, y un máximo sí se alcanza, de modo que la desigualdad es $\\le$ y no $<$ estricta."
         },
         {
           "letter": "B",
           "text": "$5k + 2 \\le 25$",
           "is_correct": false,
-          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+          "feedback": "Se intercambiaron los coeficientes: 5 dólares es la tarifa fija y 2 dólares el precio por kilómetro, por eso los roles no se pueden cambiar."
         },
         {
           "letter": "C",
           "text": "$2k + 5 \\le 25$",
           "is_correct": true,
-          "feedback": "Correcto. ¡Excelente análisis!"
+          "feedback": "La tarifa es $2k+5$ y el presupuesto es un máximo de 25, así que el costo no puede superar 25: $2k + 5 \\le 25$."
         },
         {
           "letter": "D",
           "text": "$2k + 5 \\ge 25$",
           "is_correct": false,
-          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+          "feedback": "El signo está invertido: alcanzarse el presupuesto significa que el costo es menor o igual a 25, no mayor o igual."
         }
       ],
       "correct_answer": "C",
@@ -736,25 +736,25 @@
           "letter": "A",
           "text": "$-2 < x \\le 3$",
           "is_correct": true,
-          "feedback": "Correcto. ¡Excelente análisis!"
+          "feedback": "La doble inecuación se resuelve por partes: de $-1 < 2x+3$ sale $-4<2x$, es decir $-2<x$, y de $2x+3 \\le 9$ sale $2x \\le 6$, es decir $x \\le 3$."
         },
         {
           "letter": "B",
           "text": "$-4 < x \\le 6$",
           "is_correct": false,
-          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+          "feedback": "Son los valores de $2x+3$ después de despejar, no los de $x$; falta dividir entre 2 para llegar a $-2 < x \\le 3$."
         },
         {
           "letter": "C",
           "text": "$-2 \\le x < 3$",
           "is_correct": false,
-          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+          "feedback": "Los extremos quedaron intercambiados: el $-2$ es estricto porque el enunciado empieza con $<$, y el 3 admite el igual."
         },
         {
           "letter": "D",
           "text": "$-1 < x \\le 4$",
           "is_correct": false,
-          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+          "feedback": "No se despejó la constante: hay que restar 3 a cada miembro antes de dividir entre 2, y de ahí resulta $-2 < x \\le 3$."
         }
       ],
       "correct_answer": "A",
@@ -781,25 +781,25 @@
           "letter": "A",
           "text": "$-2 < x \\le 3$",
           "is_correct": true,
-          "feedback": "Correcto. ¡Excelente análisis!"
+          "feedback": "La doble inecuación se resuelve por partes: de $-1 < 2x+3$ sale $-4<2x$, es decir $-2<x$, y de $2x+3 \\le 9$ sale $2x \\le 6$, es decir $x \\le 3$."
         },
         {
           "letter": "B",
           "text": "$-2 \\le x < 3$",
           "is_correct": false,
-          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+          "feedback": "Los extremos quedaron intercambiados: el $-2$ es estricto porque el enunciado empieza con $<$, y el 3 admite el igual."
         },
         {
           "letter": "C",
           "text": "$-1 < x \\le 4$",
           "is_correct": false,
-          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+          "feedback": "No se despejó la constante: hay que restar 3 a cada miembro antes de dividir entre 2, y de ahí resulta $-2 < x \\le 3$."
         },
         {
           "letter": "D",
           "text": "$-4 < x \\le 6$",
           "is_correct": false,
-          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+          "feedback": "Son los valores de $2x+3$ después de despejar, no los de $x$; falta dividir entre 2 para llegar a $-2 < x \\le 3$."
         }
       ],
       "correct_answer": "A",
@@ -826,25 +826,25 @@
           "letter": "A",
           "text": "$-2 \\le x < 3$",
           "is_correct": false,
-          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+          "feedback": "Los extremos quedaron intercambiados: el $-2$ es estricto porque el enunciado empieza con $<$, y el 3 admite el igual."
         },
         {
           "letter": "B",
           "text": "$-1 < x \\le 4$",
           "is_correct": false,
-          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+          "feedback": "No se despejó la constante: hay que restar 3 a cada miembro antes de dividir entre 2, y de ahí resulta $-2 < x \\le 3$."
         },
         {
           "letter": "C",
           "text": "$-4 < x \\le 6$",
           "is_correct": false,
-          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+          "feedback": "Son los valores de $2x+3$ después de despejar, no los de $x$; falta dividir entre 2 para llegar a $-2 < x \\le 3$."
         },
         {
           "letter": "D",
           "text": "$-2 < x \\le 3$",
           "is_correct": true,
-          "feedback": "Correcto. ¡Excelente análisis!"
+          "feedback": "La doble inecuación se resuelve por partes: de $-1 < 2x+3$ sale $-4<2x$, es decir $-2<x$, y de $2x+3 \\le 9$ sale $2x \\le 6$, es decir $x \\le 3$."
         }
       ],
       "correct_answer": "D",
@@ -871,25 +871,25 @@
           "letter": "A",
           "text": "$-2 \\le x < 3$",
           "is_correct": false,
-          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+          "feedback": "Los extremos quedaron intercambiados: el $-2$ es estricto porque el enunciado empieza con $<$, y el 3 admite el igual."
         },
         {
           "letter": "B",
           "text": "$-4 < x \\le 6$",
           "is_correct": false,
-          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+          "feedback": "Son los valores de $2x+3$ después de despejar, no los de $x$; falta dividir entre 2 para llegar a $-2 < x \\le 3$."
         },
         {
           "letter": "C",
           "text": "$-2 < x \\le 3$",
           "is_correct": true,
-          "feedback": "Correcto. ¡Excelente análisis!"
+          "feedback": "La doble inecuación se resuelve por partes: de $-1 < 2x+3$ sale $-4<2x$, es decir $-2<x$, y de $2x+3 \\le 9$ sale $2x \\le 6$, es decir $x \\le 3$."
         },
         {
           "letter": "D",
           "text": "$-1 < x \\le 4$",
           "is_correct": false,
-          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+          "feedback": "No se despejó la constante: hay que restar 3 a cada miembro antes de dividir entre 2, y de ahí resulta $-2 < x \\le 3$."
         }
       ],
       "correct_answer": "C",

@@ -154,13 +154,13 @@
           "letter": "A",
           "text": "on",
           "is_correct": false,
-          "feedback": "Incorrect."
+          "feedback": "Incorrect. \"On the church and the school\" would place the park on top of two buildings, which is not the relationship described."
         },
         {
           "letter": "C",
           "text": "in",
           "is_correct": false,
-          "feedback": "Incorrect."
+          "feedback": "Incorrect. \"In\" describes the inside of one container or area, but here there are two separate places to compare."
         },
         {
           "letter": "B",
@@ -212,13 +212,13 @@
           "letter": "C",
           "text": "walk",
           "is_correct": false,
-          "feedback": "Incorrect."
+          "feedback": "Incorrect. \"Walk right\" is not how you give this instruction: a change of direction at a corner is always made with the verb \"turn\"."
         },
         {
           "letter": "D",
           "text": "stop",
           "is_correct": false,
-          "feedback": "Incorrect."
+          "feedback": "Incorrect. \"Stop right\" means something is already wrong and you should halt, not that you should change direction."
         }
       ],
       "correct_answer": "A",
@@ -384,7 +384,7 @@
           "letter": "A",
           "text": "The stranger and the bakery.",
           "is_correct": false,
-          "feedback": "Incorrect."
+          "feedback": "Incorrect. A stranger is a person, not a place, so the two of them cannot be described as located together."
         },
         {
           "letter": "B",

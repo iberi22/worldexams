@@ -286,7 +286,7 @@
           "letter": "A",
           "text": "is exploring",
           "is_correct": false,
-          "feedback": "Incorrect. Active voice."
+          "feedback": "'Is exploring' is active, so the subject would have to be the one doing the exploring, but the sentence makes the nature of consciousness the thing being explored."
         },
         {
           "letter": "D",
@@ -304,7 +304,7 @@
           "letter": "C",
           "text": "has explored",
           "is_correct": false,
-          "feedback": "Incorrect. Active voice."
+          "feedback": "'Has explored' is an active present perfect saying the exploring is already finished, which loses the 'still' that marks the question as open."
         }
       ],
       "correct_answer": "D",

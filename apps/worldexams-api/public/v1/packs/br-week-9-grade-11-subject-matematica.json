@@ -169,7 +169,7 @@
           "letter": "D",
           "text": "$S_n = n \\cdot r$",
           "is_correct": false,
-          "feedback": "Incorreto."
+          "feedback": "A fórmula da soma precisa do primeiro e do último termo e do fator 1/2. Esta expressão usa apenas a razão, que é justamente o que a soma dos n primeiros termos não depende sozinha."
         }
       ],
       "correct_answer": "B",
@@ -439,7 +439,7 @@
           "letter": "D",
           "text": "2",
           "is_correct": false,
-          "feedback": "Incorreto."
+          "feedback": "Com r = 2 a PA seria 5, 7, 9, 11 e o 5º termo seria 13, não 21."
         }
       ],
       "correct_answer": "C",
@@ -466,7 +466,7 @@
           "letter": "A",
           "text": "$a_1 = 3, r = 3$",
           "is_correct": false,
-          "feedback": "Incorreto."
+          "feedback": "O primeiro termo está certo, mas S_2 = 2^2 + 2·2 = 8 obriga a_2 = 8 - 3 = 5, logo r = 5 - 3 = 2 e não 3."
         },
         {
           "letter": "C",
@@ -601,7 +601,7 @@
           "letter": "B",
           "text": "5",
           "is_correct": false,
-          "feedback": "Incorreto."
+          "feedback": "Numa PA a soma de dois termos equidistantes dos extremos é constante: a_1 + a_9 = 2·a_5. Como a soma vale 20, a_5 = 10 e não 5."
         },
         {
           "letter": "A",
@@ -754,7 +754,7 @@
           "letter": "C",
           "text": "Somente para $x = 2$.",
           "is_correct": false,
-          "feedback": "Incorreto."
+          "feedback": "A razão é log(2x) - log(x) = log 2, que não depende de x. Qualquer x positivo, e não só x = 2, produz a mesma razão."
         }
       ],
       "correct_answer": "D",
@@ -844,7 +844,7 @@
           "letter": "D",
           "text": "12",
           "is_correct": false,
-          "feedback": "Incorreto."
+          "feedback": "A área de 24 com catetos em PA 3r e 4r dá 6r^2 = 24, logo r = 2. A hipotenusa é o terceiro termo da PG-like progressão, isto é 5r = 10, e não 12."
         }
       ],
       "correct_answer": "B",

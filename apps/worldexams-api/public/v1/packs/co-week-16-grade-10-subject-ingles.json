@@ -16,25 +16,25 @@
           "letter": "A",
           "text": "paid / would have",
           "is_correct": false,
-          "feedback": "Second Conditional."
+          "feedback": "'paid' in the if-clause would be the second conditional, which treats the French class as a present hypothetical rather than a past one."
         },
         {
           "letter": "C",
           "text": "had paid / would have",
           "is_correct": true,
-          "feedback": "Correct. Mixed Conditional (Past condition -> Present result)."
+          "feedback": "The condition is in the past ('three years ago'), so the if-clause takes the past perfect 'had paid', and the present result takes 'would have'."
         },
         {
           "letter": "B",
           "text": "had paid / would have had",
           "is_correct": false,
-          "feedback": "Third Conditional (Past result)."
+          "feedback": "'Would have had' would put the result in the past too, but the sentence ends in 'now', which is present."
         },
         {
           "letter": "D",
           "text": "paid / will have",
           "is_correct": false,
-          "feedback": "Incorrect."
+          "feedback": "'Will have' states a future certainty, and 'paid' ignores the past time reference."
         }
       ],
       "correct_answer": "C",
@@ -62,25 +62,25 @@
           "letter": "A",
           "text": "wasn't / would go",
           "is_correct": false,
-          "feedback": "Second Conditional."
+          "feedback": "'Wasn't / would go' is the second conditional: condition and result in the present, but the party is 'last night'."
         },
         {
           "letter": "D",
           "text": "weren't / would have gone",
           "is_correct": true,
-          "feedback": "Correct. Mixed Conditional (Present state -> Past hypothetical result)."
+          "feedback": "The shyness is a present state ('is so shy') and the party is past ('last night'), so the result must be 'would have gone'."
         },
         {
           "letter": "B",
           "text": "hadn't been / would have gone",
           "is_correct": false,
-          "feedback": "Third Conditional."
+          "feedback": "'Hadn't been' would put the condition in the past, but the sentence describes how he is now."
         },
         {
           "letter": "C",
           "text": "isn't / went",
           "is_correct": false,
-          "feedback": "Incorrect."
+          "feedback": "'Isn't' contradicts 'last night', and 'went' is plain past rather than a hypothetical."
         }
       ],
       "correct_answer": "D",
@@ -108,25 +108,25 @@
           "letter": "A",
           "text": "would take / spoke",
           "is_correct": false,
-          "feedback": "Second Conditional."
+          "feedback": "'Would take / spoke' is the second conditional: condition and result in the present, but the degree was taken in the past."
         },
         {
           "letter": "D",
           "text": "would have taken / spoke",
           "is_correct": true,
-          "feedback": "Correct. Mixed Conditional (Present state -> Past result)."
+          "feedback": "The condition mixes a past fact ('spoke', no past marker) with a present result ('would have taken'), which is the third-to-second mixed pattern."
         },
         {
           "letter": "B",
           "text": "would have taken / had spoken",
           "is_correct": false,
-          "feedback": "Third Conditional."
+          "feedback": "Both halves would then be past: 'had spoken' plus 'would have taken', which does not match the sentence's present result."
         },
         {
           "letter": "C",
           "text": "took / speak",
           "is_correct": false,
-          "feedback": "Incorrect."
+          "feedback": "'Took / speak' is ungrammatical: the second verb would need an infinitive marker."
         }
       ],
       "correct_answer": "D",
@@ -154,25 +154,25 @@
           "letter": "A",
           "text": "passed / would be",
           "is_correct": false,
-          "feedback": "Second Conditional."
+          "feedback": "'Passed / would be' is the second conditional, but the law was passed in 2010, a fixed past moment."
         },
         {
           "letter": "B",
           "text": "had passed / would be",
           "is_correct": true,
-          "feedback": "Correct. Past action -> Present result."
+          "feedback": "The passing of the law is a past fact and the present consequence is 'would be', which is the mixed conditional pattern."
         },
         {
           "letter": "C",
           "text": "had passed / would have been",
           "is_correct": false,
-          "feedback": "Third Conditional."
+          "feedback": "'Would have been' would place the result in the past as well, but 'today' is present."
         },
         {
           "letter": "D",
           "text": "passed / will be",
           "is_correct": false,
-          "feedback": "Incorrect."
+          "feedback": "'Will be' states a future certainty, and 'passed' ignores the past time reference."
         }
       ],
       "correct_answer": "B",
@@ -200,25 +200,25 @@
           "letter": "A",
           "text": "ate / wouldn't have",
           "is_correct": false,
-          "feedback": "Second Conditional."
+          "feedback": "'Ate / wouldn't have' is the second conditional, but the sentence refers to a past stretch of childhood."
         },
         {
           "letter": "D",
           "text": "had eaten / wouldn't have",
           "is_correct": true,
-          "feedback": "Correct. Past habit -> Present state."
+          "feedback": "The eating happened in the past ('had eaten') and the health problems are present now, so the result uses present 'wouldn't have'."
         },
         {
           "letter": "B",
           "text": "had eaten / wouldn't have had",
           "is_correct": false,
-          "feedback": "Third Conditional."
+          "feedback": "'Wouldn't have had' would put the health problems in the past too, but they persist now."
         },
         {
           "letter": "C",
           "text": "were eating / won't have",
           "is_correct": false,
-          "feedback": "Incorrect."
+          "feedback": "'Were eating' is progressive and cannot open an if-clause here, and 'won't have' is a future prediction."
         }
       ],
       "correct_answer": "D",
@@ -246,25 +246,25 @@
           "letter": "A",
           "text": "would be / bought",
           "is_correct": false,
-          "feedback": "Second Conditional."
+          "feedback": "'Would be / bought' is the second conditional, but the software was bought at a fixed point in the past."
         },
         {
           "letter": "D",
           "text": "would be / had bought",
           "is_correct": true,
-          "feedback": "Correct. Past action -> Present state of completion."
+          "feedback": "The purchase is a past fact ('had bought') and 'by now' looks at the present, so the result is 'would be finished'."
         },
         {
           "letter": "B",
           "text": "would have been / had bought",
           "is_correct": false,
-          "feedback": "Third Conditional."
+          "feedback": "'Would have been finished' would place the completion in the past, but 'by now' refers to the present."
         },
         {
           "letter": "C",
           "text": "will be / had bought",
           "is_correct": false,
-          "feedback": "Incorrect."
+          "feedback": "'Will be' predicts the future, but 'by now' refers to the present."
         }
       ],
       "correct_answer": "D",
@@ -292,25 +292,25 @@
           "letter": "A",
           "text": "wasn't born / wouldn't",
           "is_correct": false,
-          "feedback": "Second Conditional."
+          "feedback": "'Wasn't born / wouldn't' is the second conditional, treating both the birth and the result as present hypotheticals."
         },
         {
           "letter": "B",
           "text": "hadn't been born / wouldn't",
           "is_correct": true,
-          "feedback": "Correct. Past fact -> Present hypothetical."
+          "feedback": "The birth is a past fact, so the condition is 'hadn't been born', while the Spanish study would still be a present requirement."
         },
         {
           "letter": "C",
           "text": "am not born / won't",
           "is_correct": false,
-          "feedback": "Incorrect."
+          "feedback": "'Am not born' is present tense, which contradicts the past fact of having been born."
         },
         {
           "letter": "D",
           "text": "hadn't been born / wouldn't have",
           "is_correct": false,
-          "feedback": "Mixed but D is missing something."
+          "feedback": "'Wouldn't have had to' would describe a past obligation, but studying Spanish is a condition for the present."
         }
       ],
       "correct_answer": "B",
@@ -338,25 +338,25 @@
           "letter": "B",
           "text": "were / hadn't built",
           "is_correct": false,
-          "feedback": "Second Conditional."
+          "feedback": "'Were / hadn't built' mixes a past result with a second conditional form; 'would be' is needed for a present state."
         },
         {
           "letter": "A",
           "text": "would be / hadn't built",
           "is_correct": true,
-          "feedback": "Correct. Past action -> Present state."
+          "feedback": "Building the walls happened in the past ('hadn't built') and the flooding is a present state, so 'would be' completes the pattern."
         },
         {
           "letter": "C",
           "text": "would be / didn't build",
           "is_correct": false,
-          "feedback": "Second Conditional."
+          "feedback": "'Didn't build' is the second conditional, which ignores the past time reference 'last year'."
         },
         {
           "letter": "D",
           "text": "had been / hadn't built",
           "is_correct": false,
-          "feedback": "Incorrect."
+          "feedback": "'Had been' would put the flooding in the past, but 'already' refers to the present situation."
         }
       ],
       "correct_answer": "A",
@@ -384,25 +384,25 @@
           "letter": "A",
           "text": "knew / saved",
           "is_correct": false,
-          "feedback": "Second Conditional."
+          "feedback": "'Knew / saved' is the second conditional with no inversion, and it treats the outcome as present rather than past."
         },
         {
           "letter": "D",
           "text": "knew / would have saved",
           "is_correct": true,
-          "feedback": "Correct. Present knowledge (hypothetical) -> Past result."
+          "feedback": "The cure is a hypothetical present state, so the if-clause stays simple ('knew') and the lost lives, which are past, take 'would have saved'."
         },
         {
           "letter": "B",
           "text": "had known / would have saved",
           "is_correct": false,
-          "feedback": "Third Conditional."
+          "feedback": "'Had known' would put the knowledge in the past, but the sentence says 'if we knew' about the present."
         },
         {
           "letter": "C",
           "text": "know / would save",
           "is_correct": false,
-          "feedback": "Incorrect."
+          "feedback": "'Know' would need a past form, and 'would save' would place the saving in the present."
         }
       ],
       "correct_answer": "D",
@@ -430,25 +430,25 @@
           "letter": "B",
           "text": "been / wouldn't be",
           "is_correct": true,
-          "feedback": "Correct. Inversion (Had been) + would be. Mixed Conditional."
+          "feedback": "'Been / wouldn't be' combines the inversion 'Had been' with a present result 'wouldn't be', which is the mixed conditional the sentence needs."
         },
         {
           "letter": "A",
           "text": "was / wouldn't be",
           "is_correct": false,
-          "feedback": "Incorrect syntax."
+          "feedback": "'Was' cannot follow an inverted 'Had', because the inversion already places the auxiliary before the subject."
         },
         {
           "letter": "C",
           "text": "being / wasn't",
           "is_correct": false,
-          "feedback": "Incorrect."
+          "feedback": "'Being' is a participle and 'wasn't' would place the result in the past, contradicting 'today'."
         },
         {
           "letter": "D",
           "text": "been / wouldn't have been",
           "is_correct": false,
-          "feedback": "Third Conditional with inversion."
+          "feedback": "'Wouldn't have been' would put the tense relationship in the past, but the tension is present 'today'."
         }
       ],
       "correct_answer": "B",
@@ -476,25 +476,25 @@
           "letter": "A",
           "text": "is / designed",
           "is_correct": false,
-          "feedback": "Incorrect."
+          "feedback": "'Is / designed' gives no inversion, which a conditional opening requires."
         },
         {
           "letter": "C",
           "text": "would be / had designed",
           "is_correct": true,
-          "feedback": "Correct. Past action -> Present state."
+          "feedback": "The planning happened thirty years ago, so the if-clause is past perfect, and the present crowding takes 'would be'."
         },
         {
           "letter": "B",
           "text": "would have been / had designed",
           "is_correct": false,
-          "feedback": "Third Conditional."
+          "feedback": "'Would have been less crowded' would place the state in the past, but 'now' refers to the present."
         },
         {
           "letter": "D",
           "text": "was / had designed",
           "is_correct": false,
-          "feedback": "Incorrect."
+          "feedback": "'Was less crowded' states a past fact rather than a hypothetical result."
         }
       ],
       "correct_answer": "C",
@@ -522,25 +522,25 @@
           "letter": "A",
           "text": "Were / would be living",
           "is_correct": true,
-          "feedback": "Correct. Formal inversion (Were it not for) + Mixed Conditional result."
+          "feedback": "'Were it not for' is the formal inversion of 'If it were not', and the result clause takes the present 'would be living'."
         },
         {
           "letter": "B",
           "text": "If it was / live",
           "is_correct": false,
-          "feedback": "Incorrect."
+          "feedback": "'If it was' would be informal and 'live' lacks the modal needed for a hypothetical present."
         },
         {
           "letter": "C",
           "text": "Had / been living",
           "is_correct": false,
-          "feedback": "Incorrect syntax."
+          "feedback": "'Had been living' would place the result in the past, but 'right now' refers to the present."
         },
         {
           "letter": "D",
           "text": "Was / would live",
           "is_correct": false,
-          "feedback": "Incorrect syntax."
+          "feedback": "'Was' lacks the inverted conditional structure, and 'would live' omits the progressive the sentence needs."
         }
       ],
       "correct_answer": "A",

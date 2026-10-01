@@ -1237,7 +1237,7 @@
           "letter": "B",
           "text": "8",
           "is_correct": false,
-          "feedback": "Incorreto."
+          "feedback": "8 é o logaritmando. Depois de aplicar a propriedade da potência, o que se multiplica por 5 é log_2(8) = 3, e não o próprio 8."
         },
         {
           "letter": "C",
@@ -1474,7 +1474,7 @@
           "letter": "D",
           "text": "Reta $y = -x$",
           "is_correct": false,
-          "feedback": "Incorreto."
+          "feedback": "A reta y = -x é a simetria de funções uma da outra, como f(x) = -f(-x), e não a de duas funções inversas entre si."
         }
       ],
       "correct_answer": "C",
@@ -1642,7 +1642,7 @@
           "letter": "B",
           "text": "$e^{x^2} + 10^x$",
           "is_correct": false,
-          "feedback": "Incorreto."
+          "feedback": "Como 2 ln x = ln(x^2), o primeiro termo simplifica para e^(ln(x^2)) = x^2, e não para e^(x^2), que é outra expressão."
         },
         {
           "letter": "C",
@@ -1654,7 +1654,7 @@
           "letter": "D",
           "text": "$x^2 + \\log x$",
           "is_correct": false,
-          "feedback": "Incorreto."
+          "feedback": "No segundo termo vale a identidade a^(log_a b) = b, então 10^(log x) é o próprio x. Sobrar log x indica que a identidade não foi aplicada."
         }
       ],
       "correct_answer": "C",
@@ -1726,7 +1726,7 @@
           "letter": "A",
           "text": "32",
           "is_correct": false,
-          "feedback": "Incorreto."
+          "feedback": "A mudança de base para uma base comum faz o produto se cancelar em telescopia até log 32 / log 2 = log_2(32), e não até 32."
         },
         {
           "letter": "B",
@@ -1744,7 +1744,7 @@
           "letter": "D",
           "text": "1",
           "is_correct": false,
-          "feedback": "Incorreto."
+          "feedback": "Os fatores não se cancelam por completo: sobram log 32 e log 2, cuja razão é log_2(32) = 5. Um produto de fatores encadeados nunca dá 1 aqui."
         }
       ],
       "correct_answer": "B",

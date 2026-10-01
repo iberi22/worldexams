@@ -196,25 +196,25 @@
           "letter": "A",
           "text": "18",
           "is_correct": false,
-          "feedback": "Incorreto."
+          "feedback": "O 18 é o quinto termo: $3 \\cdot 2^4 = 48$ seria o sexto, e $18 = 3 \\cdot 6$ não corresponde a nenhuma potência de $q = 2$."
         },
         {
           "letter": "B",
           "text": "64",
           "is_correct": false,
-          "feedback": "Incorreto."
+          "feedback": "O 64 vem de $2^6$, mas o sexto termo é $a_1 \\cdot q^5$ a partir de $a_1 = 3$, não $2^6$ contados desde 1."
         },
         {
           "letter": "C",
           "text": "96",
           "is_correct": true,
-          "feedback": "a1=3, q=2. a6 = 3 * 2⁵ = 3 * 32 = 96."
+          "feedback": "Com $a_1 = 3$ e $q = 2$: $a_6 = 3 \\cdot 2^{5} = 3 \\cdot 32 = 96$."
         },
         {
           "letter": "D",
           "text": "192",
           "is_correct": false,
-          "feedback": "Este é o sétimo termo."
+          "feedback": "O 192 é o sétimo termo, pois $a_7 = 3 \\cdot 2^{6} = 192$."
         }
       ],
       "correct_answer": "C",
@@ -241,25 +241,25 @@
           "letter": "A",
           "text": "8 m",
           "is_correct": false,
-          "feedback": "Esta é a altura após o primeiro quique."
+          "feedback": "Os $8$ m são a altura após o primeiro quique: $10 \\times 0,8$."
         },
         {
           "letter": "B",
           "text": "6,4 m",
           "is_correct": false,
-          "feedback": "Esta é a altura após o segundo quique."
+          "feedback": "Os $6,4$ m são a altura após o segundo quique: $10 \\times 0,8^2$."
         },
         {
           "letter": "D",
           "text": "5,12 m",
           "is_correct": true,
-          "feedback": "a1=10, q=0,8. a_após_3 = 10 * 0,8³ = 10 * 0,512 = 5,12."
+          "feedback": "Com $a_1 = 10$ e $q = 0,8$: após o terceiro quique a altura é $10 \\times 0,8^3 = 10 \\times 0,512 = 5,12$ m."
         },
         {
           "letter": "C",
           "text": "4 m",
           "is_correct": false,
-          "feedback": "Incorreto."
+          "feedback": "Os $4$ m exigiriam uma razão de $0,4$ entre quiques, e não $0,8$."
         }
       ],
       "correct_answer": "D",
@@ -376,25 +376,25 @@
           "letter": "B",
           "text": "4",
           "is_correct": false,
-          "feedback": "Este seria o lado do terceiro quadrado."
+          "feedback": "O lado do terceiro quadrado seria $4$, mas a pergunta pede a área do quinto, que é $1$."
         },
         {
           "letter": "C",
           "text": "0,5",
           "is_correct": false,
-          "feedback": "Incorreto."
+          "feedback": "O $0,5$ não é a área de nenhum quadrado desta sequência, porque os lados são potências de $\\frac{1}{2}$ e as áreas são potências de $\\frac{1}{4}$."
         },
         {
           "letter": "A",
           "text": "1",
           "is_correct": true,
-          "feedback": "Lado 5º = 16 * (1/2)⁴ = 1. Área = 1² = 1."
+          "feedback": "O lado do quinto quadrado é $16 \\cdot (1/2)^4 = 1$, e a área é $1^2 = 1$."
         },
         {
           "letter": "D",
           "text": "0,25",
           "is_correct": false,
-          "feedback": "Incorreto."
+          "feedback": "O $0,25$ sería a área do sexto quadrado, con el lado $\\frac{1}{2}$; o quinto tem lado $1$."
         }
       ],
       "correct_answer": "A",
@@ -466,25 +466,25 @@
           "letter": "B",
           "text": "511",
           "is_correct": false,
-          "feedback": "Valor incorreto."
+          "feedback": "O 511 corresponde a $2^9 - 1$, ou seja, a soma de apenas $9$ termos."
         },
         {
           "letter": "A",
           "text": "1.023",
           "is_correct": true,
-          "feedback": "S10 = 1 * (2¹⁰ - 1) / (2 - 1) = 1024 - 1 = 1023."
+          "feedback": "$S_{10} = 1 \\cdot \\frac{2^{10} - 1}{2 - 1} = 1024 - 1 = 1023$."
         },
         {
           "letter": "C",
           "text": "1.024",
           "is_correct": false,
-          "feedback": "Este é o valor do 11º termo, não a soma dos 10 primeiros."
+          "feedback": "O 1024 é o $11^\\circ$ termo, $a_{11} = 2^{10}$; a soma dos $10$ primeiros es $1024 - 1$."
         },
         {
           "letter": "D",
           "text": "2.047",
           "is_correct": false,
-          "feedback": "Valor incorreto."
+          "feedback": "O 2047 corresponde a $2^{11} - 1$, que é a soma de $11$ termos."
         }
       ],
       "correct_answer": "A",
@@ -511,25 +511,25 @@
           "letter": "A",
           "text": "108",
           "is_correct": false,
-          "feedback": "Incorreto."
+          "feedback": "O 108 dobra o quarto termo, pero eso implicaría razón $2$, y $54 = 2 \\cdot q^3$ exige $q = 3$."
         },
         {
           "letter": "B",
           "text": "162",
           "is_correct": true,
-          "feedback": "a4 = a1 * q³ => 54 = 2 * q³ => 27 = q³ => q = 3. a5 = 54 * 3 = 162."
+          "feedback": "Como $54 = 2 \\cdot q^3$ se tiene $q^3 = 27$ y $q = 3$; el quinto término es $54 \\cdot 3 = 162$."
         },
         {
           "letter": "C",
           "text": "216",
           "is_correct": false,
-          "feedback": "Incorreto."
+          "feedback": "O 216 dobra o quinto término, o que daría razón $4$ y contradice $q = 3$."
         },
         {
           "letter": "D",
           "text": "150",
           "is_correct": false,
-          "feedback": "Incorreto."
+          "feedback": "O 150 exigiría razón $\\frac{150}{54} = \\frac{25}{9}$, que no es la de esta PG."
         }
       ],
       "correct_answer": "B",
@@ -556,25 +556,25 @@
           "letter": "B",
           "text": "$\\frac{3}{10}$",
           "is_correct": false,
-          "feedback": "Este é o decimal exato 0,3."
+          "feedback": "O $\\frac{3}{10}$ é o decimal exato $0,3$, e não a dízima $0,333...$."
         },
         {
           "letter": "A",
           "text": "$\\frac{1}{3}$",
           "is_correct": true,
-          "feedback": "a1=0,3, q=0,1. S = 0,3 / (1 - 0,1) = 0,3 / 0,9 = 3/9 = 1/3."
+          "feedback": "Escrevendo $0,3 + 0,03 + 0,003 + \\ldots$ como PG de $a_1 = 0,3$ e $q = 0,1$: $S = \\frac{0,3}{1 - 0,1} = \\frac{0,3}{0,9} = \\frac{1}{3}$."
         },
         {
           "letter": "C",
           "text": "$\\frac{3}{11}$",
           "is_correct": false,
-          "feedback": "Incorreto."
+          "feedback": "O $\\frac{3}{11}$ correspondería a $0,2727...$, e não a $0,333...$."
         },
         {
           "letter": "D",
           "text": "$\\frac{1}{9}$",
           "is_correct": false,
-          "feedback": "Este seria 0,111..."
+          "feedback": "O $\\frac{1}{9}$ é a dízima $0,111...$, que não é esta."
         }
       ],
       "correct_answer": "A",
@@ -601,25 +601,25 @@
           "letter": "A",
           "text": "50",
           "is_correct": false,
-          "feedback": "Incorreto."
+          "feedback": "O termo central é a raiz quadrada do produto dos extremos, não a metade dele."
         },
         {
           "letter": "C",
           "text": "10",
           "is_correct": true,
-          "feedback": "Pela propriedade, a1*a9 = a5² = 100. Logo a5 = 10."
+          "feedback": "Em uma PG de $9$ termos vale $a_1 a_9 = a_5^2$, logo $a_5^2 = 100$ e, sendo os termos positivos, $a_5 = 10$."
         },
         {
           "letter": "B",
           "text": "5",
           "is_correct": false,
-          "feedback": "Incorreto."
+          "feedback": "O $5$ exigiria $a_1 a_9 = 25$, que es el produto dado."
         },
         {
           "letter": "D",
           "text": "20",
           "is_correct": false,
-          "feedback": "Incorreto."
+          "feedback": "O $20$ exigiría $a_1 a_9 = 400$, pero el enunciado da $100$."
         }
       ],
       "correct_answer": "C",
@@ -646,25 +646,25 @@
           "letter": "B",
           "text": "25",
           "is_correct": false,
-          "feedback": "Se q=25, o segundo termo já seria 125."
+          "feedback": "Com $q = 25$ el cuarto término sería $5 \\cdot 25^3 = 78125$, muy por encima de $625$."
         },
         {
           "letter": "A",
           "text": "5",
           "is_correct": true,
-          "feedback": "625 = 5 * q³ => 125 = q³ => q = 5."
+          "feedback": "De $625 = 5 \\cdot q^3$ se obtiene $q^3 = 125$, es decir, $q = 5$."
         },
         {
           "letter": "C",
           "text": "4",
           "is_correct": false,
-          "feedback": "Se q=4, o quarto termo seria 5 * 64 = 320."
+          "feedback": "Con $q = 4$ el cuarto término sería $5 \\cdot 64 = 320$, y no $625$."
         },
         {
           "letter": "D",
           "text": "10",
           "is_correct": false,
-          "feedback": "Incorreto."
+          "feedback": "Con $q = 10$ el cuarto término sería $5 \\cdot 1000 = 5000$, muy superior a $625$."
         }
       ],
       "correct_answer": "A",
@@ -691,25 +691,25 @@
           "letter": "A",
           "text": "É uma PA de razão 10.",
           "is_correct": false,
-          "feedback": "Incorreto."
+          "feedback": "Una progresión aritmética exigiría diferencias constantes entre $a, b, c$, lo que no se deduce de la condición dada."
         },
         {
           "letter": "D",
           "text": "É uma PG.",
           "is_correct": true,
-          "feedback": "Em PA: 2 log b = log a + log c => log b² = log(ac) => b² = ac. Esta é a condição de PG."
+          "feedback": "Como $2\\log b = \\log a + \\log c$, resulta $\\log b^2 = \\log(ac)$ y por tanto $b^2 = ac$, que es la condición de una progresión geométrica."
         },
         {
           "letter": "B",
           "text": "É uma sequência constante.",
           "is_correct": false,
-          "feedback": "Somente se a razão da PA fosse zero."
+          "feedback": "La sucesión sólo sería constante si la diferencia de la PA fuera cero, y el enunciado no lo dice."
         },
         {
           "letter": "C",
           "text": "É uma sequência aleatória.",
           "is_correct": false,
-          "feedback": "Existe uma relação estrutural clara."
+          "feedback": "Sí existe una relación estructural: la igualdad de la PA de logaritmos fuerza una PG en los números."
         }
       ],
       "correct_answer": "D",
@@ -736,25 +736,25 @@
           "letter": "A",
           "text": "2",
           "is_correct": false,
-          "feedback": "Este seria o valor se todos os sinais fossem positivos."
+          "feedback": "El $2$ saldría de sumar sin alternar signos, pero la serie tiene razón negativa y converge a menos de $1$."
         },
         {
           "letter": "B",
           "text": "$\\frac{2}{3}$",
           "is_correct": true,
-          "feedback": "a1=1, q=-1/2. S = 1 / (1 - (-1/2)) = 1 / (3/2) = 2/3."
+          "feedback": "Con $a_1 = 1$ y $q = -\\frac{1}{2}$: $S = \\frac{1}{1 - (-\\frac{1}{2})} = \\frac{1}{3/2} = \\frac{2}{3}$."
         },
         {
           "letter": "C",
           "text": "$\\frac{1}{2}$",
           "is_correct": false,
-          "feedback": "Incorreto."
+          "feedback": "El $\\frac{1}{2}$ es sólo el primer término restado, no la suma de la serie infinita."
         },
         {
           "letter": "D",
           "text": "0",
           "is_correct": false,
-          "feedback": "Embora os termos alternem, a soma converge para um valor positivo."
+          "feedback": "Aunque los términos alternan, la serie es convergente y su suma es positiva: $\\frac{2}{3}$."
         }
       ],
       "correct_answer": "B",
@@ -826,25 +826,25 @@
           "letter": "A",
           "text": "6",
           "is_correct": false,
-          "feedback": "Este é o termo central."
+          "feedback": "El $6$ es el término central, no el mayor: los otros dos términos son menores que él."
         },
         {
           "letter": "B",
           "text": "12",
           "is_correct": false,
-          "feedback": "Incorreto."
+          "feedback": "Los otros términos son $4$ y $9$, y el mayor es $18$, no $12$."
         },
         {
           "letter": "C",
           "text": "18",
           "is_correct": true,
-          "feedback": "Termos: x/q, x, xq. Produto x³=216 => x=6. Soma: 6/q + 6 + 6q = 26 => 6/q + 6q = 20 => 3/q + 3q = 10 => 3q²-10q+3=0. Raízes 3 e 1/3. Termos: 2, 6, 18."
+          "feedback": "Los términos son $6/q$, $6$ y $6q$; el producto da $(6/q) cdot 6 cdot 6q = 216$, de donde el central es $6$, y la razón $q = 3$ hace que los términos sean $2$, $6$ y $18$, cuya suma es $26$. El mayor es $18$."
         },
         {
           "letter": "D",
           "text": "24",
           "is_correct": false,
-          "feedback": "Incorreto."
+          "feedback": "El $24$ no es ninguno de los tres términos: con razón $3$ los términos son $2$, $6$ y $18$."
         }
       ],
       "correct_answer": "C",
@@ -871,25 +871,25 @@
           "letter": "B",
           "text": "$S/2$",
           "is_correct": false,
-          "feedback": "Incorreto."
+          "feedback": "El $S/2$ correspondería a pintar la mitad del cuadrado, pero en cada paso sólo se pinta una cuarta parte del cuadrado restante."
         },
         {
           "letter": "C",
           "text": "$S$",
           "is_correct": false,
-          "feedback": "Nem toda a área será pintada, pois em cada etapa sobra uma parte significativa."
+          "feedback": "En cada etapa queda sin pintar una parte importante, así que la suma es menor que $S$."
         },
         {
           "letter": "A",
           "text": "$S/3$",
           "is_correct": true,
-          "feedback": "PG: a1=S/4, q=1/4. Soma = (S/4) / (1 - 1/4) = (S/4) / (3/4) = S/3."
+          "feedback": "Es una PG con $a_1 = \\frac{S}{4}$ y $q = \\frac{1}{4}$: la suma es $\\frac{S/4}{1 - 1/4} = \\frac{S/4}{3/4} = \\frac{S}{3}$."
         },
         {
           "letter": "D",
           "text": "$2S/3$",
           "is_correct": false,
-          "feedback": "Incorreto."
+          "feedback": "El $2S/3$ supera lo que se puede pintar, ya que siempre queda un resto sin pintar."
         }
       ],
       "correct_answer": "A",
@@ -1096,13 +1096,13 @@
           "letter": "A",
           "text": "18",
           "is_correct": false,
-          "feedback": "Incorreto."
+          "feedback": "18 corresponde a a_5 = 3 · 2^4. Para o sexto termo a potência é 2^5, e não 2^4."
         },
         {
           "letter": "B",
           "text": "64",
           "is_correct": false,
-          "feedback": "Incorreto."
+          "feedback": "64 é 2^6, ou seja, a potência da razão isolada. O termo é a_1 · q^5, e o primeiro termo 3 ainda precisa ser multiplicado."
         },
         {
           "letter": "C",
@@ -1159,7 +1159,7 @@
           "letter": "C",
           "text": "4 m",
           "is_correct": false,
-          "feedback": "Incorreto."
+          "feedback": "4 m exigiria uma razão de 0,8 aplicada quatro vezes, isto é 10 · 0,8^4. O terceiro quique corresponde a três multiplicações, 10 · 0,8^3."
         }
       ],
       "correct_answer": "D",
@@ -1282,7 +1282,7 @@
           "letter": "C",
           "text": "0,5",
           "is_correct": false,
-          "feedback": "Incorreto."
+          "feedback": "0,5 é o valor que o lado do quarto quadrado assume, não a área do quinto. A área exige elevar o lado ao quadrado."
         },
         {
           "letter": "B",
@@ -1294,7 +1294,7 @@
           "letter": "D",
           "text": "0,25",
           "is_correct": false,
-          "feedback": "Incorreto."
+          "feedback": "0,25 é o quadrado de 0,5, isto é a área do quarto quadrado. Como o lado do quinto é 1, a área é 1^2 = 1."
         }
       ],
       "correct_answer": "B",
@@ -1366,7 +1366,7 @@
           "letter": "B",
           "text": "511",
           "is_correct": false,
-          "feedback": "Valor incorreto."
+          "feedback": "511 = 2^9 - 1 é a soma dos 9 primeiros termos. Com n = 10 a fórmula dá 2^10 - 1 = 1023."
         },
         {
           "letter": "A",
@@ -1384,7 +1384,7 @@
           "letter": "D",
           "text": "2.047",
           "is_correct": false,
-          "feedback": "Valor incorreto."
+          "feedback": "2047 = 2^11 - 1 corresponde a 11 termos. Pedir a soma dos 10 primeiros exige o expoente 10, não 11."
         }
       ],
       "correct_answer": "A",
@@ -1411,7 +1411,7 @@
           "letter": "B",
           "text": "108",
           "is_correct": false,
-          "feedback": "Incorreto."
+          "feedback": "108 é o dobro de 54, o que corresponde a uma razão 2. Mas 54 = 2 · q^3 dá q^3 = 27 e portanto q = 3, não 2."
         },
         {
           "letter": "A",
@@ -1423,13 +1423,13 @@
           "letter": "C",
           "text": "216",
           "is_correct": false,
-          "feedback": "Incorreto."
+          "feedback": "216 é 54 · 4, isto é, 54 multiplicado por 2 duas vezes. Com q = 3 o quinto termo é 54 · 3 = 162."
         },
         {
           "letter": "D",
           "text": "150",
           "is_correct": false,
-          "feedback": "Incorreto."
+          "feedback": "150 vem de somar a diferença a 54 com uma razão 2, o que não é uma PG. Numa PG cada termo é o anterior multiplicado pela razão, e a razão aqui é 3."
         }
       ],
       "correct_answer": "A",
@@ -1468,7 +1468,7 @@
           "letter": "C",
           "text": "$\\frac{3}{11}$",
           "is_correct": false,
-          "feedback": "Incorreto."
+          "feedback": "3/11 é a fração geratriz da dízima 0,2727..., não da dízima de 3. Aqui a soma da PG infinita é 0,3 / 0,9 = 1/3."
         },
         {
           "letter": "D",
@@ -1501,7 +1501,7 @@
           "letter": "A",
           "text": "50",
           "is_correct": false,
-          "feedback": "Incorreto."
+          "feedback": "50 é a média de 0 e 100, mas a_1 · a_9 não tem a ver com uma média. A propriedade diz que esse produto é o quadrado do termo central, e a raiz de 100 é 10."
         },
         {
           "letter": "B",
@@ -1513,13 +1513,13 @@
           "letter": "C",
           "text": "5",
           "is_correct": false,
-          "feedback": "Incorreto."
+          "feedback": "5 é a raiz de 25, valor de outra conta. Como a_5^2 = 100, tem-se a_5 = 10, e não 5."
         },
         {
           "letter": "D",
           "text": "20",
           "is_correct": false,
-          "feedback": "Incorreto."
+          "feedback": "20 é o dobro de 10. A razão entre termos equidistantes é a própria razão q, então 10 e 20 não são simétricos em torno de a_5."
         }
       ],
       "correct_answer": "B",
@@ -1564,7 +1564,7 @@
           "letter": "C",
           "text": "10",
           "is_correct": false,
-          "feedback": "Incorreto."
+          "feedback": "10 vem de tomar a raiz de 100, mas 625/5 = 125 e a raiz cúbica de 125 é 5, não 10."
         }
       ],
       "correct_answer": "D",
@@ -1591,7 +1591,7 @@
           "letter": "A",
           "text": "É uma PA de razão 10.",
           "is_correct": false,
-          "feedback": "Incorreto."
+          "feedback": "A razão 10 é um valor numérico arbitrário: nada na definição de PA determina a base do logaritmo, e a condição obtida, b^2 = a · c, é a de uma PG."
         },
         {
           "letter": "C",
@@ -1648,7 +1648,7 @@
           "letter": "C",
           "text": "$\\frac{1}{2}$",
           "is_correct": false,
-          "feedback": "Incorreto."
+          "feedback": "1/2 é apenas o segundo termo da série. A soma infinita exige aplicar S = a_1 / (1 - q) com q = -1/2, o que dá 2/3."
         },
         {
           "letter": "D",
@@ -1732,7 +1732,7 @@
           "letter": "C",
           "text": "12",
           "is_correct": false,
-          "feedback": "Incorreto."
+          "feedback": "12 não satisfaz a soma nem o produto dados. Com produto 216 os termos são 2, 6 e 18, cuja soma é 26."
         },
         {
           "letter": "A",
@@ -1744,7 +1744,7 @@
           "letter": "D",
           "text": "24",
           "is_correct": false,
-          "feedback": "Incorreto."
+          "feedback": "24 ultrapassaria a própria soma, que é 26 e já inclui os outros dois termos positivos."
         }
       ],
       "correct_answer": "A",
@@ -1771,7 +1771,7 @@
           "letter": "A",
           "text": "$S/2$",
           "is_correct": false,
-          "feedback": "Incorreto."
+          "feedback": "S/2 é a soma de uma PG com a_1 = S/4 e q = 1/2. Aqui cada etapa pinta apenas um quarto do quadrado restante, então q = 1/4 e a soma é S/3."
         },
         {
           "letter": "C",
@@ -1789,7 +1789,7 @@
           "letter": "D",
           "text": "$2S/3$",
           "is_correct": false,
-          "feedback": "Incorreto."
+          "feedback": "2S/3 é maior que a própria área S, o que é impossível: só se pinta parte do quadrado original."
         }
       ],
       "correct_answer": "B",

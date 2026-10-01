@@ -9,42 +9,42 @@
   "questions": [
     {
       "id": "CO-ING-6-2026-W14-describing-people-personality-001-v1",
-      "statement": "This is a review question about describing-people-personality.",
-      "context": "Scenario about describing-people-personality in a Colombian school or city context.",
+      "statement": "Which adjective describes a person who is always ready to help other people?",
+      "context": "Choosing the adjective that describes a friendly classmate.",
       "options": [
         {
           "letter": "A",
-          "text": "Option D",
+          "text": "lazy",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "Lazy means unwilling to work or make an effort, which is the opposite of being ready to help."
         },
         {
           "letter": "B",
-          "text": "Option B",
-          "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "text": "helpful",
+          "is_correct": true,
+          "feedback": "Helpful means willing to assist other people, which is exactly the quality the definition describes."
         },
         {
           "letter": "C",
-          "text": "Option C",
+          "text": "shy",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "Shy means uncomfortable around other people, so it does not fit someone who readily helps others."
         },
         {
           "letter": "D",
-          "text": "Option A (Correct)",
-          "is_correct": true,
-          "feedback": "Correct! Well done."
+          "text": "angry",
+          "is_correct": false,
+          "feedback": "Angry means feeling strong displeasure, which has nothing to do with helping other people."
         }
       ],
-      "correct_answer": "D",
-      "explanation": "This question evaluates the student's ability to remember the topic of Describing People: Personality at an A2 level. It focuses on Colombian contexts and standard A2 grammar.\n\n---",
-      "difficulty": "4",
+      "correct_answer": "B",
+      "explanation": "The correct answer is \"helpful\". Personality adjectives at A2 are best learned by pairing each one with the behaviour it names, because the words are abstract and a bare list is soon forgotten. Doing it in the order kind, helpful, friendly, honest gives the student a small working set that covers most of what a Grade 6 class needs to say about the people around them.",
+      "difficulty": "3",
       "images": [],
       "tags": [],
       "bloom": "Remember",
-      "icfes_type": "Reading Comprehension",
-      "expected_success": 0.75,
+      "icfes_type": "Lexical Knowledge",
+      "expected_success": 0.82,
       "bundle_id": "CO-ING-6-2026-W14-describing-people-personality-001-MASTERY-bundle",
       "periodo": 14,
       "protocol_version": "5.2",
@@ -55,42 +55,42 @@
     },
     {
       "id": "CO-ING-6-2026-W14-describing-people-personality-002-v1",
-      "statement": "Select the correct A2 level use for describing-people-personality.",
-      "context": "Scenario about describing-people-personality in a Colombian school or city context.",
+      "statement": "Which word fits after the verb to be in this sentence: \"My teacher is ________.\"?",
+      "context": "Choosing the adjective form that comes after the verb to be.",
       "options": [
         {
           "letter": "A",
-          "text": "Structure 4",
+          "text": "patients",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "Patients is the plural of a noun for people receiving treatment, and it does not describe a teacher."
         },
         {
           "letter": "B",
-          "text": "Structure 3",
+          "text": "patience",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "Patience is the noun naming the quality, and a noun cannot fill the adjective slot after to be here."
         },
         {
           "letter": "C",
-          "text": "Structure 2",
+          "text": "patiently",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "Patiently is an adverb describing how an action is done, and it does not describe the teacher."
         },
         {
           "letter": "D",
-          "text": "Structure 1 (Correct)",
+          "text": "patient",
           "is_correct": true,
-          "feedback": "Correct! Well done."
+          "feedback": "Patient is an adjective, and an adjective goes after the linking verb to be in this pattern."
         }
       ],
       "correct_answer": "D",
-      "explanation": "This question evaluates the student's ability to remember the topic of Describing People: Personality at an A2 level. It focuses on Colombian contexts and standard A2 grammar.\n\n---",
-      "difficulty": "4",
+      "explanation": "The correct answer is \"patient\". The three distractors are the noun, the adverb and an unrelated plural, and telling them apart is the part of adjectives students most often skip. Knowing that a word describing a person goes in the adjective slot after to be is what lets a student write a description that actually says something, and it is the foundation for the person-versus-thing distinction that the exam rewards.",
+      "difficulty": "3",
       "images": [],
       "tags": [],
       "bloom": "Remember",
-      "icfes_type": "Reading Comprehension",
-      "expected_success": 0.75,
+      "icfes_type": "Grammatical Knowledge",
+      "expected_success": 0.8,
       "bundle_id": "CO-ING-6-2026-W14-describing-people-personality-001-MASTERY-bundle",
       "periodo": 14,
       "protocol_version": "5.2",
@@ -101,42 +101,42 @@
     },
     {
       "id": "CO-ING-6-2026-W14-describing-people-personality-003-v1",
-      "statement": "Identify the appropriate vocabulary for describing-people-personality.",
-      "context": "Scenario about describing-people-personality in a Colombian school or city context.",
+      "statement": "Read: \"Mateo is very honest. He always tells the truth, even when it is difficult.\" What kind of person is Mateo?",
+      "context": "Reading a short description of a friend's character.",
       "options": [
         {
           "letter": "A",
-          "text": "Word 4",
-          "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "text": "He is honest.",
+          "is_correct": true,
+          "feedback": "The text states directly that he is honest and explains it by saying he always tells the truth."
         },
         {
           "letter": "B",
-          "text": "Word 1 (Correct)",
-          "is_correct": true,
-          "feedback": "Correct! Well done."
+          "text": "He is dishonest.",
+          "is_correct": false,
+          "feedback": "The text says he is honest and always tells the truth, which is the opposite of dishonest."
         },
         {
           "letter": "C",
-          "text": "Word 2",
+          "text": "He is generous with money.",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "The text is about telling the truth, and it says nothing about money or generosity."
         },
         {
           "letter": "D",
-          "text": "Word 3",
+          "text": "He is afraid of difficult situations.",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "The text says he tells the truth even when it is difficult, which is the opposite of being afraid."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "This question evaluates the student's ability to understand the topic of Describing People: Personality at an A2 level. It focuses on Colombian contexts and standard A2 grammar.\n\n---",
-      "difficulty": "6",
+      "correct_answer": "A",
+      "explanation": "The correct answer is \"He is honest\". A personality word in a text is supported by the behaviour that explains it, and here that behaviour is always telling the truth. Linking an abstract adjective to its evidence in the text is the comprehension move that later questions about what a character is like depend on, and it is a step beyond simply spotting the adjective.",
+      "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Understand",
       "icfes_type": "Reading Comprehension",
-      "expected_success": 0.75,
+      "expected_success": 0.78,
       "bundle_id": "CO-ING-6-2026-W14-describing-people-personality-001-MASTERY-bundle",
       "periodo": 14,
       "protocol_version": "5.2",
@@ -147,42 +147,42 @@
     },
     {
       "id": "CO-ING-6-2026-W14-describing-people-personality-004-v1",
-      "statement": "Complete the sentence about describing-people-personality.",
-      "context": "Scenario about describing-people-personality in a Colombian school or city context.",
+      "statement": "A teacher asks: \"How would you describe your best friend?\" Which answer is most appropriate?",
+      "context": "Answering a teacher's question about a friend at school.",
       "options": [
         {
           "letter": "A",
-          "text": "Phrase C",
-          "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "text": "She is kind and she always helps me with my homework.",
+          "is_correct": true,
+          "feedback": "This names a personality quality and backs it up with what she actually does, which is what a description needs."
         },
         {
           "letter": "B",
-          "text": "Phrase B",
+          "text": "She is very good at maths.",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "Being good at a school subject is a skill rather than a personality quality, so it does not answer the question asked."
         },
         {
           "letter": "C",
-          "text": "Phrase A (Correct)",
-          "is_correct": true,
-          "feedback": "Correct! Well done."
+          "text": "She is my best friend.",
+          "is_correct": false,
+          "feedback": "This repeats the relationship instead of describing the character, and it adds no new information about her."
         },
         {
           "letter": "D",
-          "text": "Phrase D",
+          "text": "She is tall and she has long hair.",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "Tall and long hair describe appearance, and this week is about personality rather than physical description."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "This question evaluates the student's ability to understand the topic of Describing People: Personality at an A2 level. It focuses on Colombian contexts and standard A2 grammar.\n\n---",
-      "difficulty": "6",
+      "correct_answer": "A",
+      "explanation": "The correct answer is \"She is kind and she always helps me with my homework.\" The two most common wrong answers here, using a skill or using appearance, are both things students can say easily and both fail to address personality. Being clear about which kind of description a question is asking for is a listening skill that directly transfers to reading items, and it is worth more than knowing three more adjectives.",
+      "difficulty": "4",
       "images": [],
       "tags": [],
-      "bloom": "Understand",
-      "icfes_type": "Reading Comprehension",
-      "expected_success": 0.75,
+      "bloom": "Apply",
+      "icfes_type": "Pragmatic Competence",
+      "expected_success": 0.76,
       "bundle_id": "CO-ING-6-2026-W14-describing-people-personality-001-MASTERY-bundle",
       "periodo": 14,
       "protocol_version": "5.2",
@@ -193,42 +193,42 @@
     },
     {
       "id": "CO-ING-6-2026-W14-describing-people-personality-005-v1",
-      "statement": "What is the best way to express describing-people-personality?",
-      "context": "Scenario about describing-people-personality in a Colombian school or city context.",
+      "statement": "Which sentence is correct?",
+      "context": "Placing a personality adjective in a sentence about a classmate.",
       "options": [
         {
           "letter": "A",
-          "text": "Incorrect way",
+          "text": "Diego shy is a boy.",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "Placing the adjective before the verb breaks the sentence, since the verb to be has to come first here."
         },
         {
           "letter": "B",
-          "text": "That way",
+          "text": "Diego is a boy shy.",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "This puts the adjective after the noun, which is the Spanish order and is not used in English here."
         },
         {
           "letter": "C",
-          "text": "Other way",
-          "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "text": "Diego is a shy boy.",
+          "is_correct": true,
+          "feedback": "In English the order is the verb to be, then the article, then the adjective, and then the noun."
         },
         {
           "letter": "D",
-          "text": "This way (Correct)",
-          "is_correct": true,
-          "feedback": "Correct! Well done."
+          "text": "Diego is shy a boy.",
+          "is_correct": false,
+          "feedback": "The adjective cannot be followed by the article, since the article belongs immediately before the noun."
         }
       ],
-      "correct_answer": "D",
-      "explanation": "This question evaluates the student's ability to apply the topic of Describing People: Personality at an A2 level. It focuses on Colombian contexts and standard A2 grammar.\n\n---",
-      "difficulty": "6",
+      "correct_answer": "C",
+      "explanation": "The correct answer is \"Diego is a shy boy\". The adjective normally sits between the article and the noun, and Spanish speakers put it in the other position reliably. Practising the exact order makes the pattern automatic, and the three wrong versions each represent a different way of getting that order wrong rather than the same mistake twice.",
+      "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Apply",
-      "icfes_type": "Reading Comprehension",
-      "expected_success": 0.75,
+      "icfes_type": "Grammatical Knowledge",
+      "expected_success": 0.74,
       "bundle_id": "CO-ING-6-2026-W14-describing-people-personality-001-MASTERY-bundle",
       "periodo": 14,
       "protocol_version": "5.2",
@@ -239,42 +239,42 @@
     },
     {
       "id": "CO-ING-6-2026-W14-describing-people-personality-006-v1",
-      "statement": "Find the error in this describing-people-personality sentence.",
-      "context": "Scenario about describing-people-personality in a Colombian school or city context.",
+      "statement": "If a person is generous, which word describes the opposite quality?",
+      "context": "Choosing the word that is the opposite of a personality adjective.",
       "options": [
         {
           "letter": "A",
-          "text": "Wrong error",
+          "text": "quiet",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "Quiet describes how much somebody speaks and has nothing to do with giving or refusing to give."
         },
         {
           "letter": "B",
-          "text": "Different error",
+          "text": "kind",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "Kind also describes a generous attitude toward other people, so it points the same way rather than the opposite."
         },
         {
           "letter": "C",
-          "text": "The error is here (Correct)",
-          "is_correct": true,
-          "feedback": "Correct! Well done."
+          "text": "polite",
+          "is_correct": false,
+          "feedback": "Polite describes behaviour that respects other people, which is close to generous rather than its opposite."
         },
         {
           "letter": "D",
-          "text": "No error",
-          "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "text": "mean",
+          "is_correct": true,
+          "feedback": "Mean describes someone who is unwilling to give or share, which is the opposite of being generous."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "This question evaluates the student's ability to apply the topic of Describing People: Personality at an A2 level. It focuses on Colombian contexts and standard A2 grammar.\n\n---",
-      "difficulty": "8",
+      "correct_answer": "D",
+      "explanation": "The correct answer is \"mean\". Learning personality adjectives in opposite pairs is far more efficient than learning them one at a time, and generous and mean is the pair students meet first because it is the clearest. The three distractors are near-synonyms or an unrelated quality, which is exactly the confusion that appears when a student has met the words but never thought about which are opposites.",
+      "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Apply",
-      "icfes_type": "Reading Comprehension",
-      "expected_success": 0.75,
+      "icfes_type": "Lexical Knowledge",
+      "expected_success": 0.72,
       "bundle_id": "CO-ING-6-2026-W14-describing-people-personality-001-MASTERY-bundle",
       "periodo": 14,
       "protocol_version": "5.2",
@@ -285,42 +285,42 @@
     },
     {
       "id": "CO-ING-6-2026-W14-describing-people-personality-007-v1",
-      "statement": "Match the term with the definition of describing-people-personality.",
-      "context": "Scenario about describing-people-personality in a Colombian school or city context.",
+      "statement": "Complete the comparison: \"Tomás is ________ than his brother, because he always does his homework.\"",
+      "context": "Using the correct adjective ending in a comparison.",
       "options": [
         {
           "letter": "A",
-          "text": "Irrelevant",
+          "text": "responsabler",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "English does not add an -er ending to an adjective that already ends in a vowel and a consonant pattern like this."
         },
         {
           "letter": "B",
-          "text": "Opposite",
-          "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "text": "more responsible",
+          "is_correct": true,
+          "feedback": "A long adjective takes more in front of it in the comparative, so responsible becomes more responsible."
         },
         {
           "letter": "C",
-          "text": "Non-matching",
+          "text": "most responsible",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "Most forms the superlative for the definite best case, while this sentence compares two people."
         },
         {
           "letter": "D",
-          "text": "Matching term (Correct)",
-          "is_correct": true,
-          "feedback": "Correct! Well done."
+          "text": "more responsibility",
+          "is_correct": false,
+          "feedback": "Responsibility is the noun, and the comparison needs an adjective in front of the word than."
         }
       ],
-      "correct_answer": "D",
-      "explanation": "This question evaluates the student's ability to apply the topic of Describing People: Personality at an A2 level. It focuses on Colombian contexts and standard A2 grammar.\n\n---",
-      "difficulty": "8",
+      "correct_answer": "B",
+      "explanation": "The correct answer is \"more responsible\". Longer adjectives form the comparative with more rather than with an -er ending, and this is a rule Spanish speakers rarely need because most of their adjectives are short. A student who applies the -er rule too broadly produces forms that do not exist, so the item marks that boundary explicitly before the exam does.",
+      "difficulty": "5",
       "images": [],
       "tags": [],
       "bloom": "Apply",
-      "icfes_type": "Reading Comprehension",
-      "expected_success": 0.75,
+      "icfes_type": "Grammatical Knowledge",
+      "expected_success": 0.7,
       "bundle_id": "CO-ING-6-2026-W14-describing-people-personality-001-MASTERY-bundle",
       "periodo": 14,
       "protocol_version": "5.2",
@@ -331,42 +331,42 @@
     },
     {
       "id": "CO-ING-6-2026-W14-describing-people-personality-008-v1",
-      "statement": "Choose the synonym for a word related to describing-people-personality.",
-      "context": "Scenario about describing-people-personality in a Colombian school or city context.",
+      "statement": "Read: \"Laura is very shy, but her brother is quite sociable.\" What does the text say about Laura?",
+      "context": "Judging what a text says about two different people.",
       "options": [
         {
           "letter": "A",
-          "text": "Antonym",
+          "text": "Laura is sociable.",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "Sociable is the word used for her brother, and the but signals the contrast between them."
         },
         {
           "letter": "B",
-          "text": "Homonym",
+          "text": "Laura is neither shy nor sociable.",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "The text gives her one clear quality, so she is not without any personality description."
         },
         {
           "letter": "C",
-          "text": "Synonym (Correct)",
+          "text": "Laura is shy.",
           "is_correct": true,
-          "feedback": "Correct! Well done."
+          "feedback": "The text states directly that Laura is very shy, and the contrast marker but sets her against her brother."
         },
         {
           "letter": "D",
-          "text": "Unrelated",
+          "text": "Laura and her brother are the same.",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "The word but marks a difference between them, so the two are described in contrast rather than alike."
         }
       ],
       "correct_answer": "C",
-      "explanation": "This question evaluates the student's ability to analyze the topic of Describing People: Personality at an A2 level. It focuses on Colombian contexts and standard A2 grammar.\n\n---",
-      "difficulty": "8",
+      "explanation": "The correct answer is \"Laura is shy\". The conjunction but is the hinge of the sentence, and reading a contrast correctly means attributing each quality to the right person. Students frequently carry a quality across a contrast to the other subject, so the item targets the specific error of ignoring what but is doing rather than general reading difficulty.",
+      "difficulty": "5",
       "images": [],
       "tags": [],
       "bloom": "Analyze",
       "icfes_type": "Reading Comprehension",
-      "expected_success": 0.75,
+      "expected_success": 0.68,
       "bundle_id": "CO-ING-6-2026-W14-describing-people-personality-001-MASTERY-bundle",
       "periodo": 14,
       "protocol_version": "5.2",
@@ -377,42 +377,42 @@
     },
     {
       "id": "CO-ING-6-2026-W14-describing-people-personality-009-v1",
-      "statement": "Which of these belongs to describing-people-personality?",
-      "context": "Scenario about describing-people-personality in a Colombian school or city context.",
+      "statement": "A student writes: \"My friend is a happy person.\" The teacher says one word is the wrong part of speech. Which correction is right?",
+      "context": "Repairing a description where a noun has been used where an adjective belongs.",
       "options": [
         {
           "letter": "A",
-          "text": "Not this one",
-          "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "text": "My friend is a person who is happy.",
+          "is_correct": true,
+          "feedback": "Person is a noun and cannot be described directly, so the quality has to move into an adjective clause that uses it properly."
         },
         {
           "letter": "B",
-          "text": "Neither",
+          "text": "My friend is a happiness.",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "Happiness is the noun form of the quality, and a noun cannot describe a subject after the verb to be here."
         },
         {
           "letter": "C",
-          "text": "Both",
+          "text": "My friend is a happy.",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "The article a cannot stand alone without a noun after it, so the sentence would be left unfinished."
         },
         {
           "letter": "D",
-          "text": "This one (Correct)",
-          "is_correct": true,
-          "feedback": "Correct! Well done."
+          "text": "My friend are a happy person.",
+          "is_correct": false,
+          "feedback": "Changing is to are breaks agreement with the singular subject, and the adjective problem would still be there."
         }
       ],
-      "correct_answer": "D",
-      "explanation": "This question evaluates the student's ability to analyze the topic of Describing People: Personality at an A2 level. It focuses on Colombian contexts and standard A2 grammar.\n\n---",
-      "difficulty": "10",
+      "correct_answer": "A",
+      "explanation": "The correct answer is \"My friend is a person who is happy\". The underlying problem is that person is a noun being used where a description of character is needed, and the only option that fixes it moves the quality into a proper adjective clause. Diagnosing a part-of-speech fault and choosing the repair that addresses it, rather than the one that merely sounds different, is the highest-order work in this bundle.",
+      "difficulty": "5",
       "images": [],
       "tags": [],
       "bloom": "Analyze",
-      "icfes_type": "Reading Comprehension",
-      "expected_success": 0.75,
+      "icfes_type": "Grammatical Knowledge",
+      "expected_success": 0.65,
       "bundle_id": "CO-ING-6-2026-W14-describing-people-personality-001-MASTERY-bundle",
       "periodo": 14,
       "protocol_version": "5.2",
@@ -423,42 +423,42 @@
     },
     {
       "id": "CO-ING-6-2026-W14-describing-people-personality-010-v1",
-      "statement": "Predict the next word in the describing-people-personality context.",
-      "context": "Scenario about describing-people-personality in a Colombian school or city context.",
+      "statement": "You must describe a new classmate on the first day. Which description is most useful and appropriate?",
+      "context": "Choosing a fair description of a person from a short list of qualities.",
       "options": [
         {
           "letter": "A",
-          "text": "Maybe",
+          "text": "He is a person like the others in the class.",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "This describes nobody in particular, and it gives the listener nothing to remember the student by."
         },
         {
           "letter": "B",
-          "text": "Wrong prediction",
+          "text": "He is the worst person in the class.",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "A sweeping negative judgement about someone you have just met is neither supported by evidence nor appropriate to say."
         },
         {
           "letter": "C",
-          "text": "Correct prediction",
-          "is_correct": true,
-          "feedback": "Correct! Well done."
+          "text": "He is intelligent and lazy at the same time.",
+          "is_correct": false,
+          "feedback": "The two qualities contradict each other, so the description gives no clear picture of the person at all."
         },
         {
           "letter": "D",
-          "text": "Impossible",
-          "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "text": "He is a good student who works hard, and he is friendly to everyone in the class.",
+          "is_correct": true,
+          "feedback": "This combines a work habit and a treatment of others, both observable and both appropriate to say on a first day."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "This question evaluates the student's ability to evaluate the topic of Describing People: Personality at an A2 level. It focuses on Colombian contexts and standard A2 grammar.\n\n---",
-      "difficulty": "10",
+      "correct_answer": "D",
+      "explanation": "The correct answer is \"He is a good student who works hard, and he is friendly to everyone in the class\". Judging a description means weighing both usefulness and appropriateness, and an unsupported negative about a stranger fails the second test even though it is grammatical. That distinction between what can be said and what should be said is the evaluative skill the exam rewards when it asks students to choose the best response in a social situation.\n\n---",
+      "difficulty": "5",
       "images": [],
       "tags": [],
       "bloom": "Evaluate",
-      "icfes_type": "Reading Comprehension",
-      "expected_success": 0.75,
+      "icfes_type": "Pragmatic Competence",
+      "expected_success": 0.62,
       "bundle_id": "CO-ING-6-2026-W14-describing-people-personality-001-MASTERY-bundle",
       "periodo": 14,
       "protocol_version": "5.2",

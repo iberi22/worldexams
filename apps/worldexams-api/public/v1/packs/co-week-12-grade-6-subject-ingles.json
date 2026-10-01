@@ -9,42 +9,42 @@
   "questions": [
     {
       "id": "CO-ING-6-2026-W12-possessive-adjectives-001-v1",
-      "statement": "This is a review question about possessive-adjectives.",
-      "context": "Scenario about possessive-adjectives in a Colombian school or city context.",
+      "statement": "This is María's pencil. Which sentence says that?",
+      "context": "Pointing out who owns a classroom object.",
       "options": [
         {
           "letter": "A",
-          "text": "Option A (Correct)",
-          "is_correct": true,
-          "feedback": "Correct! Well done."
+          "text": "This is hers pencil.",
+          "is_correct": false,
+          "feedback": "Hers is a complete pronoun used on its own, and it cannot come before a noun the way this sentence needs."
         },
         {
           "letter": "B",
-          "text": "Option C",
+          "text": "This is she pencil.",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "She is the subject pronoun, which cannot modify a noun; the possessive form is her."
         },
         {
           "letter": "C",
-          "text": "Option D",
-          "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "text": "This is her pencil.",
+          "is_correct": true,
+          "feedback": "The possessive her links the object to the female owner María, and a pronoun may stand in for a name in English."
         },
         {
           "letter": "D",
-          "text": "Option B",
+          "text": "This is María's pencils.",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "A single pencil agrees with the singular name, so the plural pencils names more than one object."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "This question evaluates the student's ability to remember the topic of Possessive Adjectives at an A2 level. It focuses on Colombian contexts and standard A2 grammar.\n\n---",
-      "difficulty": "4",
+      "correct_answer": "C",
+      "explanation": "The correct answer is \"This is her pencil.\" The possessive adjectives are short forms that behave like an article in front of a noun, and the single most common error is reaching for the subject pronoun instead. Practising them in the classroom, where every object genuinely belongs to somebody, gives the forms a referent and makes the difference between her, hers and she a real distinction rather than a spelling exercise.",
+      "difficulty": "3",
       "images": [],
       "tags": [],
       "bloom": "Remember",
-      "icfes_type": "Reading Comprehension",
-      "expected_success": 0.75,
+      "icfes_type": "Lexical Knowledge",
+      "expected_success": 0.82,
       "bundle_id": "CO-ING-6-2026-W12-possessive-adjectives-001-MASTERY-bundle",
       "periodo": 12,
       "protocol_version": "5.2",
@@ -55,42 +55,42 @@
     },
     {
       "id": "CO-ING-6-2026-W12-possessive-adjectives-002-v1",
-      "statement": "Select the correct A2 level use for possessive-adjectives.",
-      "context": "Scenario about possessive-adjectives in a Colombian school or city context.",
+      "statement": "Complete the question: \"Whose bag is this?\" \"It is ________ bag. My name is Andrés.\"",
+      "context": "Completing a question about family members with a possessive.",
       "options": [
         {
           "letter": "A",
-          "text": "Structure 4",
-          "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "text": "my",
+          "is_correct": true,
+          "feedback": "My names the speaker's own bag, and Andrés is the one holding the bag and answering the question."
         },
         {
           "letter": "B",
-          "text": "Structure 1 (Correct)",
-          "is_correct": true,
-          "feedback": "Correct! Well done."
+          "text": "his",
+          "is_correct": false,
+          "feedback": "His names a male owner, but the speaker has just said the bag belongs to Andrés, who is the person answering."
         },
         {
           "letter": "C",
-          "text": "Structure 3",
+          "text": "your",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "Your names the listener's possession, but the bag belongs to the person answering, not to the one asking."
         },
         {
           "letter": "D",
-          "text": "Structure 2",
+          "text": "her",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "Her names a female owner, and the speaker who owns this bag has given a male name."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "This question evaluates the student's ability to remember the topic of Possessive Adjectives at an A2 level. It focuses on Colombian contexts and standard A2 grammar.\n\n---",
-      "difficulty": "4",
+      "correct_answer": "A",
+      "explanation": "The correct answer is \"my\". Possessive questions are a two-way exchange in English: the person answering names their own possession with my, which means the student has to track who is speaking rather than just supply a plausible word. The four distractors cover the other three persons, so the item tests reference rather than vocabulary size.",
+      "difficulty": "3",
       "images": [],
       "tags": [],
       "bloom": "Remember",
-      "icfes_type": "Reading Comprehension",
-      "expected_success": 0.75,
+      "icfes_type": "Grammatical Knowledge",
+      "expected_success": 0.8,
       "bundle_id": "CO-ING-6-2026-W12-possessive-adjectives-001-MASTERY-bundle",
       "periodo": 12,
       "protocol_version": "5.2",
@@ -101,42 +101,42 @@
     },
     {
       "id": "CO-ING-6-2026-W12-possessive-adjectives-003-v1",
-      "statement": "Identify the appropriate vocabulary for possessive-adjectives.",
-      "context": "Scenario about possessive-adjectives in a Colombian school or city context.",
+      "statement": "Read the labels: \"Sofía's jacket, Diego's ruler, Laura's pencil case\". Whose ruler is on the desk?",
+      "context": "Reading labels on objects left in a classroom.",
       "options": [
         {
           "letter": "A",
-          "text": "Word 4",
+          "text": "Sofía's",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "The jacket in the list belongs to Sofía, not the ruler, so the owner has been mixed up."
         },
         {
           "letter": "B",
-          "text": "Word 2",
+          "text": "Nobody's",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "Every object in the list carries a name, so there is no object here left without an owner."
         },
         {
           "letter": "C",
-          "text": "Word 1 (Correct)",
-          "is_correct": true,
-          "feedback": "Correct! Well done."
+          "text": "Laura's",
+          "is_correct": false,
+          "feedback": "The pencil case in the list belongs to Laura, which is a different object from the ruler."
         },
         {
           "letter": "D",
-          "text": "Word 3",
-          "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "text": "Diego's",
+          "is_correct": true,
+          "feedback": "The label pairs the ruler with Diego, and the possessive name before the apostrophe-s names the owner."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "This question evaluates the student's ability to understand the topic of Possessive Adjectives at an A2 level. It focuses on Colombian contexts and standard A2 grammar.\n\n---",
-      "difficulty": "6",
+      "correct_answer": "D",
+      "explanation": "The correct answer is \"Diego's\". A possessive name plus apostrophe-s is the first form Colombian students meet and it is easy to confuse with a plain plural when reading quickly. Binding each name to the object that follows it in a labelled list is the same operation students perform on a school timetable or a lost-property list, so the item carries a real classroom purpose.",
+      "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Understand",
       "icfes_type": "Reading Comprehension",
-      "expected_success": 0.75,
+      "expected_success": 0.78,
       "bundle_id": "CO-ING-6-2026-W12-possessive-adjectives-001-MASTERY-bundle",
       "periodo": 12,
       "protocol_version": "5.2",
@@ -147,42 +147,42 @@
     },
     {
       "id": "CO-ING-6-2026-W12-possessive-adjectives-004-v1",
-      "statement": "Complete the sentence about possessive-adjectives.",
-      "context": "Scenario about possessive-adjectives in a Colombian school or city context.",
+      "statement": "Complete the sentence: \"Diana and her brother live together. ________ room is small.\"",
+      "context": "Choosing the possessive that fits a sentence about a school group.",
       "options": [
         {
           "letter": "A",
-          "text": "Phrase A (Correct)",
-          "is_correct": true,
-          "feedback": "Correct! Well done."
+          "text": "They're",
+          "is_correct": false,
+          "feedback": "They're is the contraction of they are, and it cannot modify the noun room in this sentence."
         },
         {
           "letter": "B",
-          "text": "Phrase B",
-          "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "text": "Their",
+          "is_correct": true,
+          "feedback": "Their refers to more than one owner, and the room belongs to Diana together with her brother."
         },
         {
           "letter": "C",
-          "text": "Phrase D",
+          "text": "There",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "There is a word for a place that exists, and it does not express possession of the room."
         },
         {
           "letter": "D",
-          "text": "Phrase C",
+          "text": "Ours",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "Ours names the speaker and one or more others as owners of a single item, but the room here belongs to Diana and her brother without the speaker."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "This question evaluates the student's ability to understand the topic of Possessive Adjectives at an A2 level. It focuses on Colombian contexts and standard A2 grammar.\n\n---",
-      "difficulty": "6",
+      "correct_answer": "B",
+      "explanation": "The correct answer is \"Their\". Their is the form students miss most often because it is the only English possessive with no apostrophe and no letter s, which makes it look unlike the others. Putting it in a sentence about two people isolates that irregularity, and the two look-alike distractors catch exactly the confusion the form invites.",
+      "difficulty": "4",
       "images": [],
       "tags": [],
-      "bloom": "Understand",
-      "icfes_type": "Reading Comprehension",
-      "expected_success": 0.75,
+      "bloom": "Apply",
+      "icfes_type": "Grammatical Knowledge",
+      "expected_success": 0.76,
       "bundle_id": "CO-ING-6-2026-W12-possessive-adjectives-001-MASTERY-bundle",
       "periodo": 12,
       "protocol_version": "5.2",
@@ -193,42 +193,42 @@
     },
     {
       "id": "CO-ING-6-2026-W12-possessive-adjectives-005-v1",
-      "statement": "What is the best way to express possessive-adjectives?",
-      "context": "Scenario about possessive-adjectives in a Colombian school or city context.",
+      "statement": "Which sentence says the same as \"The keys that belong to my mother are on the table\"?",
+      "context": "Rewriting a sentence to use a possessive adjective instead of a prepositional phrase.",
       "options": [
         {
           "letter": "A",
-          "text": "Other way",
+          "text": "Mother's my keys are on the table.",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "The word order is inverted, so the possessive ends up in front of the owner instead of before the noun it modifies."
         },
         {
           "letter": "B",
-          "text": "This way (Correct)",
-          "is_correct": true,
-          "feedback": "Correct! Well done."
+          "text": "The keys of my mother are on the table.",
+          "is_correct": false,
+          "feedback": "The phrase of my mother identifies the owner in Spanish style, but English prefers the possessive form with the name."
         },
         {
           "letter": "C",
-          "text": "That way",
+          "text": "My mother keys are on the table.",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "The apostrophe-s that marks possession is missing, so the sentence does not attach the owner to the keys."
         },
         {
           "letter": "D",
-          "text": "Incorrect way",
-          "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "text": "My mother's keys are on the table.",
+          "is_correct": true,
+          "feedback": "A possessive name plus apostrophe-s attaches the owner to the noun and makes a shorter, more natural sentence."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "This question evaluates the student's ability to apply the topic of Possessive Adjectives at an A2 level. It focuses on Colombian contexts and standard A2 grammar.\n\n---",
-      "difficulty": "6",
+      "correct_answer": "D",
+      "explanation": "The correct answer is \"My mother's keys are on the table.\" English allows a noun plus apostrophe-s to do the work of a long phrase, and knowing when to use it is what makes a student's writing sound like English rather than translated Spanish. Comparing the two versions side by side shows the student that the shorter form is not a different meaning but a more direct way of saying the same thing.",
+      "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Apply",
-      "icfes_type": "Reading Comprehension",
-      "expected_success": 0.75,
+      "icfes_type": "Grammatical Knowledge",
+      "expected_success": 0.74,
       "bundle_id": "CO-ING-6-2026-W12-possessive-adjectives-001-MASTERY-bundle",
       "periodo": 12,
       "protocol_version": "5.2",
@@ -239,42 +239,42 @@
     },
     {
       "id": "CO-ING-6-2026-W12-possessive-adjectives-006-v1",
-      "statement": "Find the error in this possessive-adjectives sentence.",
-      "context": "Scenario about possessive-adjectives in a Colombian school or city context.",
+      "statement": "A teacher says: \"Is this your notebook?\" You want to say yes politely. Which reply is right?",
+      "context": "Responding to a teacher who has found a student's notebook.",
       "options": [
         {
           "letter": "A",
-          "text": "The error is here (Correct)",
-          "is_correct": true,
-          "feedback": "Correct! Well done."
+          "text": "Yes, it's me notebook.",
+          "is_correct": false,
+          "feedback": "The possessive of me is my, so this version uses the wrong form for the speaker's own possession."
         },
         {
           "letter": "B",
-          "text": "Different error",
-          "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "text": "Yes, it's my notebook.",
+          "is_correct": true,
+          "feedback": "My signals that the notebook belongs to the speaker, which is exactly what the question is checking."
         },
         {
           "letter": "C",
-          "text": "Wrong error",
+          "text": "Yes, it's myer's notebook.",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "The apostrophe belongs after the s in a name ending in s, and the whole string here is not a word."
         },
         {
           "letter": "D",
-          "text": "No error",
+          "text": "Yes, it's mine's notebook.",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "Mine already stands alone as a complete pronoun, and adding an s to it produces a form that does not exist."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "This question evaluates the student's ability to apply the topic of Possessive Adjectives at an A2 level. It focuses on Colombian contexts and standard A2 grammar.\n\n---",
-      "difficulty": "8",
+      "correct_answer": "B",
+      "explanation": "The correct answer is \"Yes, it's my notebook.\" A real exchange with a teacher puts the possessive under time pressure, which is where students who know the form but not the contract fall down. It also marks the boundary the students hit next week when descriptions of people begin: the difference between an adjective that needs a noun and a pronoun that does not.",
+      "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Apply",
-      "icfes_type": "Reading Comprehension",
-      "expected_success": 0.75,
+      "icfes_type": "Pragmatic Competence",
+      "expected_success": 0.72,
       "bundle_id": "CO-ING-6-2026-W12-possessive-adjectives-001-MASTERY-bundle",
       "periodo": 12,
       "protocol_version": "5.2",
@@ -285,42 +285,42 @@
     },
     {
       "id": "CO-ING-6-2026-W12-possessive-adjectives-007-v1",
-      "statement": "Match the term with the definition of possessive-adjectives.",
-      "context": "Scenario about possessive-adjectives in a Colombian school or city context.",
+      "statement": "Read: \"Carlos forgot his book, so Julián lent him his notebook.\" Whose notebook is it?",
+      "context": "Choosing between two possessives that both appear in one short text.",
       "options": [
         {
           "letter": "A",
-          "text": "Non-matching",
-          "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "text": "Julián's",
+          "is_correct": true,
+          "feedback": "The lender is Julián, so the notebook being lent is Julián's, and his in both places points to different people."
         },
         {
           "letter": "B",
-          "text": "Matching term (Correct)",
-          "is_correct": true,
-          "feedback": "Correct! Well done."
+          "text": "Carlos's",
+          "is_correct": false,
+          "feedback": "Carlos is the one who forgot his book, so the book is his and the notebook is not his."
         },
         {
           "letter": "C",
-          "text": "Opposite",
+          "text": "Nobody's",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "Julián owns the notebook and is simply lending it, so ownership does not change when an object is lent."
         },
         {
           "letter": "D",
-          "text": "Irrelevant",
+          "text": "Both of theirs",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "The sentence names two different possessors with two separate his pronouns, and there is no joint ownership to describe."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "This question evaluates the student's ability to apply the topic of Possessive Adjectives at an A2 level. It focuses on Colombian contexts and standard A2 grammar.\n\n---",
-      "difficulty": "8",
+      "correct_answer": "A",
+      "explanation": "The correct answer is \"Julián's\". A text that repeats the same pronoun for two different people is a classic comprehension trap, and it is also the fastest way to see whether a student has understood that a possessive points at a referent rather than at a class of people. This is the reading behind the possessive form, and it is what the family and description weeks of this period depend on.",
+      "difficulty": "5",
       "images": [],
       "tags": [],
       "bloom": "Apply",
-      "icfes_type": "Reading Comprehension",
-      "expected_success": 0.75,
+      "icfes_type": "Grammatical Knowledge",
+      "expected_success": 0.7,
       "bundle_id": "CO-ING-6-2026-W12-possessive-adjectives-001-MASTERY-bundle",
       "periodo": 12,
       "protocol_version": "5.2",
@@ -331,42 +331,42 @@
     },
     {
       "id": "CO-ING-6-2026-W12-possessive-adjectives-008-v1",
-      "statement": "Choose the synonym for a word related to possessive-adjectives.",
-      "context": "Scenario about possessive-adjectives in a Colombian school or city context.",
+      "statement": "Read: \"My uncle lives in Cali. His daughter is my cousin.\" What does the text tell us?",
+      "context": "Checking which facts about a family are stated in a short text.",
       "options": [
         {
           "letter": "A",
-          "text": "Unrelated",
+          "text": "The cousin lives in Cali.",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "The text says the uncle lives in Cali, and it never says where the cousin lives."
         },
         {
           "letter": "B",
-          "text": "Antonym",
+          "text": "The uncle is the father of the speaker.",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "The text calls him an uncle, which is the sibling of a parent, and it does not make him a father."
         },
         {
           "letter": "C",
-          "text": "Synonym (Correct)",
+          "text": "The cousin is the daughter of the uncle.",
           "is_correct": true,
-          "feedback": "Correct! Well done."
+          "feedback": "His daughter points back to the uncle and is named the speaker's cousin, so she is his child."
         },
         {
           "letter": "D",
-          "text": "Homonym",
+          "text": "The speaker lives in Cali.",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "The text places the uncle in Cali and says nothing at all about where the speaker lives."
         }
       ],
       "correct_answer": "C",
-      "explanation": "This question evaluates the student's ability to analyze the topic of Possessive Adjectives at an A2 level. It focuses on Colombian contexts and standard A2 grammar.\n\n---",
-      "difficulty": "8",
+      "explanation": "The correct answer is \"The cousin is the daughter of the uncle.\" Reading for what a text states and what it merely leaves out is the difference between comprehension and guessing, and a pronoun such as his forces the student to resolve the reference before the sentence means anything. Every distractor here is a plausible fact that the text never licenses, which is the most common failure mode in reading items at this level.",
+      "difficulty": "5",
       "images": [],
       "tags": [],
       "bloom": "Analyze",
       "icfes_type": "Reading Comprehension",
-      "expected_success": 0.75,
+      "expected_success": 0.68,
       "bundle_id": "CO-ING-6-2026-W12-possessive-adjectives-001-MASTERY-bundle",
       "periodo": 12,
       "protocol_version": "5.2",
@@ -377,42 +377,42 @@
     },
     {
       "id": "CO-ING-6-2026-W12-possessive-adjectives-009-v1",
-      "statement": "Which of these belongs to possessive-adjectives?",
-      "context": "Scenario about possessive-adjectives in a Colombian school or city context.",
+      "statement": "A student writes: \"The dog is my's.\" What is the problem?",
+      "context": "Finding the possessive that a sentence has used incorrectly.",
       "options": [
         {
           "letter": "A",
-          "text": "Not this one",
+          "text": "The word my cannot show possession.",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "My is a fully correct possessive adjective, so the problem lies in the extra letter added to it."
         },
         {
           "letter": "B",
-          "text": "Both",
-          "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "text": "My does not take an s at the end.",
+          "is_correct": true,
+          "feedback": "The apostrophe-s belongs to a name such as María's, but a possessive adjective like my is already complete and takes nothing."
         },
         {
           "letter": "C",
-          "text": "Neither",
+          "text": "Mine is the only correct possessive form.",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "Mine is one of four possesive pronouns, and my is a correct adjective form, so this is not the problem."
         },
         {
           "letter": "D",
-          "text": "This one (Correct)",
-          "is_correct": true,
-          "feedback": "Correct! Well done."
+          "text": "The dog cannot belong to a person.",
+          "is_correct": false,
+          "feedback": "Pets are routinely described as belonging to their owners, so the possession itself is perfectly ordinary."
         }
       ],
-      "correct_answer": "D",
-      "explanation": "This question evaluates the student's ability to analyze the topic of Possessive Adjectives at an A2 level. It focuses on Colombian contexts and standard A2 grammar.\n\n---",
-      "difficulty": "10",
+      "correct_answer": "B",
+      "explanation": "The correct answer is \"My does not take an s at the end.\" Students extend the apostrophe-s rule of names to the short forms, which produces forms that do not exist in English. Isolating that one overgeneralisation in a very short sentence shows the student exactly where the pattern stops, and it is the same distinction that keeps their written work free of invented possessives.",
+      "difficulty": "5",
       "images": [],
       "tags": [],
       "bloom": "Analyze",
-      "icfes_type": "Reading Comprehension",
-      "expected_success": 0.75,
+      "icfes_type": "Grammatical Knowledge",
+      "expected_success": 0.65,
       "bundle_id": "CO-ING-6-2026-W12-possessive-adjectives-001-MASTERY-bundle",
       "periodo": 12,
       "protocol_version": "5.2",
@@ -423,42 +423,42 @@
     },
     {
       "id": "CO-ING-6-2026-W12-possessive-adjectives-010-v1",
-      "statement": "Predict the next word in the possessive-adjectives context.",
-      "context": "Scenario about possessive-adjectives in a Colombian school or city context.",
+      "statement": "You want to introduce your friend Juliana to your teacher. Which sentence does this best?",
+      "context": "Choosing the clearest way to introduce a friend to a teacher.",
       "options": [
         {
           "letter": "A",
-          "text": "Impossible",
+          "text": "This is my friend, she.",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "She names a female person but is a pronoun, and a pronoun cannot stand where the full name belongs here."
         },
         {
           "letter": "B",
-          "text": "Correct prediction",
-          "is_correct": true,
-          "feedback": "Correct! Well done."
+          "text": "This is my friend of Juliana.",
+          "is_correct": false,
+          "feedback": "The phrase of Juliana would work for an object in Spanish, but English marks the name with a comma or a form like Juliana's."
         },
         {
           "letter": "C",
-          "text": "Wrong prediction",
+          "text": "This is me friend, Juliana.",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "The possessive of me is my, so this version names the speaker's own friend as though it were the speaker who was introduced."
         },
         {
           "letter": "D",
-          "text": "Maybe",
-          "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "text": "This is my friend, Juliana.",
+          "is_correct": true,
+          "feedback": "My attaches the introduction to the speaker and the name after the comma makes the friend identifiable."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "This question evaluates the student's ability to evaluate the topic of Possessive Adjectives at an A2 level. It focuses on Colombian contexts and standard A2 grammar.\n\n---",
-      "difficulty": "10",
+      "correct_answer": "D",
+      "explanation": "The correct answer is \"This is my friend, Juliana.\" Introducing someone is a set phrase that Grade 6 students will use many times, and the possessive does the work of naming who the friend belongs to. Choosing the version that a teacher would find natural rather than merely a grammatical string is the evaluative step the exam rewards, and the three distractors each break the sentence in one specific way.\n\n---",
+      "difficulty": "5",
       "images": [],
       "tags": [],
       "bloom": "Evaluate",
-      "icfes_type": "Reading Comprehension",
-      "expected_success": 0.75,
+      "icfes_type": "Pragmatic Competence",
+      "expected_success": 0.62,
       "bundle_id": "CO-ING-6-2026-W12-possessive-adjectives-001-MASTERY-bundle",
       "periodo": 12,
       "protocol_version": "5.2",

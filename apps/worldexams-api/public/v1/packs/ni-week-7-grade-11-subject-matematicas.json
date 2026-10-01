@@ -151,13 +151,13 @@
           "letter": "A",
           "text": "Seno",
           "is_correct": false,
-          "feedback": "Incorrecto. Es una función continua y suave para todo el dominio real."
+          "feedback": "El seno está definida y es continua en todo R, así que su gráfica no tiene asíntotas verticales de ningún tipo."
         },
         {
           "letter": "B",
           "text": "Coseno",
           "is_correct": false,
-          "feedback": "Incorrecto. Es una función continua y suave para todo el dominio real."
+          "feedback": "El coseno también es continua y suave en todo R: en los puntos donde vale cero, como 90 grados, la función sigue definida y vale cero."
         },
         {
           "letter": "D",

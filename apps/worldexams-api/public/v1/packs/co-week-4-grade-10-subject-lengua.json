@@ -1,0 +1,563 @@
+{
+  "metadata": {
+    "grade": 10,
+    "subject": "lengua",
+    "country": "co",
+    "pack_id": "co-week-4-grade-10-subject-lengua",
+    "generated_at": "2026-10-01T05:46:38.995Z"
+  },
+  "questions": [
+    {
+      "id": "CO-LEN-10-2026-W04-el-texto-argumentativo-y-la-plica-001-MASTERY-bundle-v1",
+      "statement": "¿Qué carácter tiene el texto descrito?",
+      "context": "En un colegio de Bogotá, un estudiante escribe que el consumo de azúcar debe reducirse en las comidas escolares y respalda esa afirmación con cifras del sector salud.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Argumentativo, porque sostiene una afirmación y la respalda con evidencia.",
+          "is_correct": true,
+          "feedback": "Correcto. El texto es argumentativo porque enuncia una \"afirmación\" y la sostiene con evidencia verificable."
+        },
+        {
+          "letter": "B",
+          "text": "Informativo, porque transmite cifras de salud sin propósito de convencer.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Presentar cifras \"no vuelve\" el texto informativo, porque aquí se usan para sostener una postura que es la función argumentativa."
+        },
+        {
+          "letter": "C",
+          "text": "Narrativo, porque relata las condiciones de las comidas escolares.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No hay trama, conflicto ni personajes, porque el texto no narra sino que defiende una postura sobre un hecho social."
+        },
+        {
+          "letter": "D",
+          "text": "Descriptivo, porque enumera características de las comidas escolares.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Describir sería limitarse a enumerar rasgos, porque aquí hay una afirmación que se defiende y eso caracteriza el texto argumentativo."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El texto argumentativo busca persuadir al lector mediante razones. Su núcleo es la afirmación, que debe sostenerse con evidencia y anticipar objeciones. Saber evalúa esta competencia con ítems donde el estudiante debe identificar la postura defendida.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Textual",
+      "expected_success": 0.9,
+      "bundle_id": "CO-LEN-10-2026-W04-el-texto-argumentativo-y-la-plica-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-10-2026-W04-el-texto-argumentativo-y-la-plica-001-MASTERY-bundle-v2",
+      "statement": "Según el DBA, ¿qué diferencia separa a esa afirmación de una simple opinión?",
+      "context": "En una plica dirigida a la alcaldía de Medellín, un estudiante afirma que \"el transporte público es el más usado por los estudiantes del municipio\" y luego entrega datos de movilidad.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La afirmación usa segunda persona y la opinión usa primera persona.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La persona gramatical no define el carácter del enunciado, porque tanto afirmaciones como opiniones pueden enunciarse en cualquier persona."
+        },
+        {
+          "letter": "B",
+          "text": "La afirmación es larga y la opinión es corta, porque toda opinión es breve.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La longitud no distingue una categoría de la otra, porque existen opiniones extensas y afirmaciones breves y el criterio es la verificabilidad."
+        },
+        {
+          "letter": "C",
+          "text": "La afirmación es verificable con datos, mientras la opinión expresa una creencia personal sin comprobación.",
+          "is_correct": true,
+          "feedback": "Correcto. La afirmación se puede verificar con datos, porque la opinión expresa una creencia personal y no admite comprobación objetiva."
+        },
+        {
+          "letter": "D",
+          "text": "La afirmación nombra al destinatario y la opinión no puede dirigirse a nadie.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El destinatario depende del contexto comunicativo, porque una opinión también puede dirigirse a una autoridad."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Una afirmación es un enunciado que puede comprobarse mediante evidencia. Una opinión expresa una valoración personal y no es falsable. Saber mide esta distinción con ítems donde el estudiante debe decidir si un enunciado es comprobable.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Semantico",
+      "expected_success": 0.88,
+      "bundle_id": "CO-LEN-10-2026-W04-el-texto-argumentativo-y-la-plica-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-10-2026-W04-el-texto-argumentativo-y-la-plica-001-MASTERY-bundle-v3",
+      "statement": "¿Qué elemento de la plica determina a qué autoridad se dirige y con qué intención?",
+      "context": "En Buenaventura, una estudiante escribe una plica dirigida al secretario de educación municipal y le pide ampliar el número de rutas de buses.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El tamaño de la letra del texto, porque una carta a un superior debe imprimirse en letra grande.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El formato tipográfico no determina destinatario ni intención, porque esos elementos se codifican en el encabezado y la salutación."
+        },
+        {
+          "letter": "B",
+          "text": "El encabezado y la fórmula de salutación, que identifican destinatario y canal de comunicación.",
+          "is_correct": true,
+          "feedback": "Correcto. El encabezado y la fórmula de salutación identifican al destinatario y el canal, porque sitúan el contexto comunicativo del escrito."
+        },
+        {
+          "letter": "C",
+          "text": "La cantidad de datos citados, porque el volumen de cifras señala a la autoridad competente.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La cantidad de evidencia apoya la petición, porque no define a qué autoridad se escribe ni cuál es el canal formal."
+        },
+        {
+          "letter": "D",
+          "text": "El color de la tinta, porque la escritura oficial exige un color institucional.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No existe tal codificación, porque el color de la tinta no comunica destinatario ni intención en una plica."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La plica es un texto argumentativo con una estructura formal que sitúa al autor y al destinatario. Encabezado, salutación y firma constituyen el armazón que hace posible la petición. Reconocer esa estructura es lo que distingue la plica de un ensayo libre.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Pragmatico",
+      "expected_success": 0.86,
+      "bundle_id": "CO-LEN-10-2026-W04-el-texto-argumentativo-y-la-plica-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-10-2026-W04-el-texto-argumentativo-y-la-plica-001-MASTERY-bundle-v4",
+      "statement": "¿Qué función cumple el reconocimiento del presupuesto limitado?",
+      "context": "En un colegio de Pereira, un estudiante redacta una plica en la que afirma que debe haber más bibliotecas y luego reconoce que el presupuesto municipal es limitado.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La de la evidencia, porque los datos presupuestales sustituyen los argumentos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El dato presupuestal apoya el argumento, porque no lo sustituye y sigue haciendo falta una razón que conecte presupuesto y petición."
+        },
+        {
+          "letter": "B",
+          "text": "La de la conclusión, porque cierra la plica antes de la firma.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La conclusión cierra el cuerpo del texto, porque este reconocimiento está intermedio y cumple una función argumentativa."
+        },
+        {
+          "letter": "C",
+          "text": "La del saludo, porque introduce el tema dentro de la salutación formal.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La salutación es una fórmula fija de apertura, porque no contiene la objeción que pertenece al desarrollo argumentativo."
+        },
+        {
+          "letter": "D",
+          "text": "La del contraargumento, porque anticipa una objeción y la incorpora para fortalecer la petición.",
+          "is_correct": true,
+          "feedback": "Correcto. Reconocer la restricción presupuestal funciona como contraargumento, porque anticipa la objeción y la incorpora para fortalecer la petición."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "El contraargumento da credibilidad al texto porque muestra que el autor conoce los límites del problema. Incorporarlo no debilita la postura: la vuelve más sólida y más persuasiva. Saber evalúa esta capacidad en ítems de análisis discursivo.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Discursivo",
+      "expected_success": 0.82,
+      "bundle_id": "CO-LEN-10-2026-W04-el-texto-argumentativo-y-la-plica-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-10-2026-W04-el-texto-argumentativo-y-la-plica-001-MASTERY-bundle-v5",
+      "statement": "Según la relación entre evidencia y tesis, ¿qué problema tiene ese texto?",
+      "context": "En una plica de Tunja, el estudiante coloca tres datos de movilidad en el segundo párrafo, pero ninguno se relaciona con la petición final que aparece en el último.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La evidencia no es pertinente, porque no sostiene la afirmación que el texto quiere hacer valer.",
+          "is_correct": true,
+          "feedback": "Correcto. La evidencia no cumple su función porque no es pertinente, ya que los datos no se conectan con la petición final del texto."
+        },
+        {
+          "letter": "B",
+          "text": "La evidencia es insuficiente, porque tres datos son pocos para sostener una petición.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El problema no es la cantidad sino la pertinencia, porque tres datos bien conectados sostienen mejor una petición."
+        },
+        {
+          "letter": "C",
+          "text": "La tesis está ausente, porque el autor nunca escribe una afirmación.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La tesis sí aparece en el último párrafo como petición, porque lo defectuoso es que los datos anteriores no la respaldan."
+        },
+        {
+          "letter": "D",
+          "text": "El texto es narrativo, porque la ausencia de datos lo convierte en relato.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La falta de datos pertinentes no cambia el género, porque el texto sigue siendo argumentativo al contener una petición sostenida."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La evidencia solo cumple su función si es pertinente, es decir, si se relaciona lógicamente con la afirmación. Acumular datos sin relación debilita el argumento y confunde al lector. Saber evalúa esta distinción con ítems donde se comparan datos relevantes y datos distractores.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Textual",
+      "expected_success": 0.8,
+      "bundle_id": "CO-LEN-10-2026-W04-el-texto-argumentativo-y-la-plica-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-10-2026-W04-el-texto-argumentativo-y-la-plica-001-MASTERY-bundle-v6",
+      "statement": "¿Qué función cumple ese párrafo final dentro de la estructura de la plica?",
+      "context": "En Cali, un equipo escribe una plica cuyo párrafo final reitera la petición, agradece la atención del destinatario y cierra con la firma y el lugar y la fecha.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La de la tesis, porque en la plica la postura se declara al final.",
+          "is_correct": false,
+          "feedback": "Incorrecto. En la plica la postura suele enunciarse temprano, porque el cierre es formal y no argumentativo."
+        },
+        {
+          "letter": "B",
+          "text": "La del contraargumento, porque anticipa la respuesta negativa del destinatario.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El cierre no anticipa objeciones, porque su función es formal con la despedida, la firma, el lugar y la fecha."
+        },
+        {
+          "letter": "C",
+          "text": "La de la despedida y la firma, que formalizan el cierre del escrito y su responsable.",
+          "is_correct": true,
+          "feedback": "Correcto. Ese párrafo cumple la despedida y la firma, porque formalizan el cierre del escrito y dan responsabilidad al autor."
+        },
+        {
+          "letter": "D",
+          "text": "La de la evidencia, porque resume los datos más importantes del texto.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Un resumen de datos pertenece a la conclusión argumentativa, porque el cierre de la plica es una fórmula de cortesía."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La plica tiene una estructura formal cerrada que incluye despedida, firma, lugar y fecha. Reconocer esos elementos permite distinguirla de un ensayo libre y evaluar correctamente su estructura. Saber reconoce la competencia comunicativa de ajustarse a un formato institucional.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Discursivo",
+      "expected_success": 0.78,
+      "bundle_id": "CO-LEN-10-2026-W04-el-texto-argumentativo-y-la-plica-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-10-2026-W04-el-texto-argumentativo-y-la-plica-001-MASTERY-bundle-v7",
+      "statement": "¿Qué efecto argumentativo tiene ese orden?",
+      "context": "En una plica de Bogotá, el estudiante ordena sus argumentos así: primero expone el problema, luego responde a la objeción más fuerte y al final presenta su petición con una solución que ya contempla esa objeción.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Debilita la petición, porque mencionar una objeción confirma que el problema es real.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Mencionar una objeción no confirma el problema ni debilita la postura, porque la resuelve y eso hace la propuesta más sólida."
+        },
+        {
+          "letter": "B",
+          "text": "Refuerza la petición, porque la objeción queda incorporada y la propuesta se vuelve más difícil de rechazar.",
+          "is_correct": true,
+          "feedback": "Correcto. Responder la objeción principal antes de pedir refuerza la petición, porque la propuesta llega ya depurada y con menos puntos débiles."
+        },
+        {
+          "letter": "C",
+          "text": "Convierte la plica en un diálogo, porque el texto reproduce la voz del destinatario.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Reproducir una objeción no convierte el texto en diálogo, porque la plica sigue siendo un escrito monológico y unidireccional."
+        },
+        {
+          "letter": "D",
+          "text": "Alarga el texto sin aporte, porque toda objeción consume espacio sin función argumentativa.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La objeción cumple una función precisa, prevenir el rechazo, porque su inclusión es una ganancia argumentativa y no un gasto."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La secuencia discursiva importa tanto como el contenido de los argumentos. Presentar la objeción antes de la petición permite responderla de manera integrada, y eso eleva la solidez del escrito. Analizar el orden argumentativo es una competencia discursiva avanzada.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Discursivo",
+      "expected_success": 0.7,
+      "bundle_id": "CO-LEN-10-2026-W04-el-texto-argumentativo-y-la-plica-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-10-2026-W04-el-texto-argumentativo-y-la-plica-001-MASTERY-bundle-v8",
+      "statement": "Según la relación entre evidencia y conclusión, ¿qué falla en ese razonamiento?",
+      "context": "En un foro de discusión de un colegio de Villavicencio, un personaje de una serie de televisión afirma que la violencia no existe en su ciudad porque él nunca la ha visto.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La conclusión es válida, porque el personaje es testigo directo de la vida de la ciudad.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ser testigo directo de una zona no equivale a evidencia exhaustiva, porque el personaje solo conoce lo que le ha ocurrido."
+        },
+        {
+          "letter": "B",
+          "text": "Faltan datos cuantitativos, porque toda afirmación exige cifras.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No toda afirmación exige cifras, porque lo que falla aquí es la validez del razonamiento y no el formato cuantitativo."
+        },
+        {
+          "letter": "C",
+          "text": "El razonamiento es inductivo y por eso falla, cuando en realidad es deductivo válido.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El problema no es el tipo de inferencia, porque una generalización sin base sigue siendo inválida sea inductiva o deductiva."
+        },
+        {
+          "letter": "D",
+          "text": "La evidencia no sostiene la conclusión: la ausencia de observación personal no equivale a la ausencia del hecho.",
+          "is_correct": true,
+          "feedback": "Correcto. Hay un salto lógico inválido, porque no haber visto violencia no prueba que no exista y la observación es una muestra mínima."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Un razonamiento argumentativo exige que la evidencia tenga alcance suficiente para sostener la conclusión. La observación personal es una muestra mínima y no permite generalizar sobre toda la realidad. Detectar ese salto es una competencia evaluativa de alto nivel.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Evaluativo",
+      "expected_success": 0.68,
+      "bundle_id": "CO-LEN-10-2026-W04-el-texto-argumentativo-y-la-plica-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-10-2026-W04-el-texto-argumentativo-y-la-plica-001-MASTERY-bundle-v9",
+      "statement": "¿Qué principio de la argumentación explica esa divergencia de lectura?",
+      "context": "En un grupo de Barranquilla, dos estudiantes citan el mismo informe de salud pública pero lo interpretan de forma opuesta para defender posiciones distintas sobre el estilo de las comidas escolares.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que la interpretación de la evidencia admite marcos distintos, y quien los controla orienta la conclusión.",
+          "is_correct": true,
+          "feedback": "Correcto. El mismo dato admite distintos \"marcos\" de interpretación, y el autor que controla ese marco orienta la conclusión extraída de la evidencia."
+        },
+        {
+          "letter": "B",
+          "text": "Que una de las dos citas es falsa, porque un informe no puede sostener dos lecturas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las dos citas pueden ser auténticas, porque la divergencia proviene del encuadre interpretativo y no de una falsificación."
+        },
+        {
+          "letter": "C",
+          "text": "Que el informe está mal escrito, porque la ambigüedad prueba siempre un defecto en la fuente.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La posibilidad de dos lecturas no prueba un defecto en la fuente, porque la ambigüedad interpretativa es normal en la argumentación."
+        },
+        {
+          "letter": "D",
+          "text": "Que el informe fue redactado por una institución parcialmente interesada en las dos conclusiones.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Atribuir intencionalidad a la fuente es una hipótesis sin sustento, porque el enunciado solo ofrece dos interpretaciones del mismo dato."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La evidencia no determina por sí sola la conclusión: quien la interpreta elige el marco que lo hace pertinente. Esa slantación de los intereses interpretativos distingue un uso crítico de los datos de uno dogmático.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Critico-Intertextual",
+      "expected_success": 0.66,
+      "bundle_id": "CO-LEN-10-2026-W04-el-texto-argumentativo-y-la-plica-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-10-2026-W04-el-texto-argumentativo-y-la-plica-001-MASTERY-bundle-v10",
+      "statement": "¿Qué efecto pragmático tienen esas expresiones?",
+      "context": "En una plica dirigida a la secretaría de salud, el autor usa expresiones como \"sin duda alguna\" y \"es evidente que\" para cerrar sus afirmaciones.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aportan evidencia nueva, porque sustituyen los datos que el texto no incluye.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esas fórmulas no aportan evidencia, porque son marcas discursivas que simulan certeza sin sostenerla con datos verificables."
+        },
+        {
+          "letter": "B",
+          "text": "Marcan una transición temporal, porque anuncian un cambio de etapa en el argumento.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Su función no es temporal, porque son recursos de modalización que presentan el grado de certeza del enunciador."
+        },
+        {
+          "letter": "C",
+          "text": "Presentan la afirmación como un hecho indiscutible y reducen la disposición del lector a discutirla.",
+          "is_correct": true,
+          "feedback": "Correcto. Esas fórmulas presentan el enunciado como indiscutible, porque reducen la disposición del lector a contrastarlo."
+        },
+        {
+          "letter": "D",
+          "text": "Reducen la extensión del texto, porque reemplazan varias frases por una expresión.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Aunque comprimir el enunciado en una fórmula es un efecto real, la pregunta pide el efecto porque evalúa la disposición del lector."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Los recursos de modalización y las fórmulas de certeza comunican una posición del enunciador frente a su propia afirmación. Presentarla como indiscutible busca cerrar la discusión, y eso tiene un efecto claro en la recepción del texto.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Pragmatico",
+      "expected_success": 0.64,
+      "bundle_id": "CO-LEN-10-2026-W04-el-texto-argumentativo-y-la-plica-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-10-2026-W04-el-texto-argumentativo-y-la-plica-001-MASTERY-bundle-v11",
+      "statement": "¿Qué juicio es más sólido sobre esa limitación?",
+      "context": "En un colegio de Armenia, un proyecto de grado décimo obliga a redactar plicas con el mismo contenido: todos deben defender la misma postura sobre el consumo de agua.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es siempre positiva, porque todos los textos con la misma tesis son necesariamente equivalentes.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Compartir tesis no implica equivalencia, porque la calidad sigue dependiendo de la evidencia y la coherencia de cada autor."
+        },
+        {
+          "letter": "B",
+          "text": "Es defendible porque uniforma el objetivo, pero reduce el margen de argumentación propia de cada autor.",
+          "is_correct": true,
+          "feedback": "Correcto. El juicio pondera el beneficio y el costo, porque la uniformación asegura el objetivo y reduce el margen de argumentación personal."
+        },
+        {
+          "letter": "C",
+          "text": "Es siempre negativa, porque ninguna actividad puede evaluar a más de un estudiante a la vez.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa generalización es falsa, porque pueden evaluarse muchos textos y lo pertinente es valorar el efecto de la restricción."
+        },
+        {
+          "letter": "D",
+          "text": "Es irrelevante, porque el contenido de la tesis no altera la evaluación del proceso argumentativo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El contenido sí influye en la evaluación, porque fija el punto de partida y condiciona qué evidencia resulta pertinente."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Evaluar una restricción didáctica exige pesar lo que aporta y lo que restringe. Fijar la postura garantiza que se practique la argumentación, pero limita la libertad argumentativa. El juicio sólido declara ese balance y lo justifica.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Evaluativo",
+      "expected_success": 0.55,
+      "bundle_id": "CO-LEN-10-2026-W04-el-texto-argumentativo-y-la-plica-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-10-2026-W04-el-texto-argumentativo-y-la-plica-001-MASTERY-bundle-v12",
+      "statement": "¿Qué razonamiento sostiene mejor esa comparación?",
+      "context": "En el colegio de Villavicencio, un comité de estudiantes de décimo compara dos plicas sobre la misma petición: una dirigida al alcalde y otra dirigida a un medio de comunicación.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que la plica al alcalde es mejor, porque tiene más autoridad que la dirigida al medio.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa comparación confunde el soporte institucional con la calidad, porque lo pertinente es el ajuste al destinatario."
+        },
+        {
+          "letter": "B",
+          "text": "Que las dos plicas son idénticas, porque el contenido de la petición es el mismo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El contenido idéntico no implica textos idénticos, porque el registro y la estrategia cambian con el destinatario."
+        },
+        {
+          "letter": "C",
+          "text": "Que la plica al medio es mejor, porque en los medios todo se acepta sin filtro.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa conclusión supone que en los medios no hay filtro, porque sí los tienen y sus criterios editoriales condicionan el escrito."
+        },
+        {
+          "letter": "D",
+          "text": "Que el destinatario cambia el registro y la estrategia, porque la autoridad decide y el medio difunde.",
+          "is_correct": true,
+          "feedback": "Correcto. El razonamiento compara destinatarios, porque ante la autoridad se solicita una decisión y ante el medio se busca difundir."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "El análisis de la situación comunicativa explica por qué un mismo contenido produce textos distintos. Destinatatario, propósito y canal configuran el registro adecuado. Evaluar esa variación demuestra comprensión de la competencia comunicativa del DBA.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Critico-Intertextual",
+      "expected_success": 0.52,
+      "bundle_id": "CO-LEN-10-2026-W04-el-texto-argumentativo-y-la-plica-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 10,
+      "country": "co"
+    }
+  ]
+}

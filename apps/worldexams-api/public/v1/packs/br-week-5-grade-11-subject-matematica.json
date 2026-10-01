@@ -529,7 +529,7 @@
           "letter": "C",
           "text": "$x < -3$",
           "is_correct": false,
-          "feedback": "Incorreto."
+          "feedback": "Para x = -3 tem-se (1/2)^(-3) = 8, que é maior que 1/8. Como a base é menor que 1, quanto maior x, menor o valor da potência."
         }
       ],
       "correct_answer": "D",
@@ -826,13 +826,13 @@
           "letter": "A",
           "text": "$x > 2$",
           "is_correct": false,
-          "feedback": "Esta é apenas uma parte da solução."
+          "feedback": "Este é apenas o trecho à direita de 2. O conjunto solução também inclui x < -3, porque a parábola de x^2 + x - 6 abre para cima e é positiva fora das raízes."
         },
         {
           "letter": "C",
           "text": "$x < -3$",
           "is_correct": false,
-          "feedback": "Esta é apenas uma parte da solução."
+          "feedback": "Este é apenas o trecho à esquerda de -3. Falta a parte x > 2, pelo mesmo motivo: a parábola é positiva nos dois intervalos externos."
         },
         {
           "letter": "B",

@@ -61,25 +61,25 @@
           "letter": "A",
           "text": "create",
           "is_correct": false,
-          "feedback": "Incorrect. Active voice."
+          "feedback": "'Create' would be active and would need the agents named; the sentence presents them as the beneficiaries."
         },
         {
           "letter": "D",
           "text": "were created",
           "is_correct": true,
-          "feedback": "Correct. Past simple passive for a completed historical action."
+          "feedback": "The past simple passive marks the parks as the result of a completed action, with no agent named."
         },
         {
           "letter": "B",
           "text": "have created",
           "is_correct": false,
-          "feedback": "Incorrect. Active voice."
+          "feedback": "'Have created' is present perfect active and implies the creation is still relevant, not a historical fact."
         },
         {
           "letter": "C",
           "text": "are created",
           "is_correct": false,
-          "feedback": "Incorrect. Present tense."
+          "feedback": "'Are created' would mean the parks are being made right now, but the action is historical."
         }
       ],
       "correct_answer": "D",
@@ -151,25 +151,25 @@
           "letter": "B",
           "text": "obligation",
           "is_correct": true,
-          "feedback": "Correct. An obligation is a duty or commitment."
+          "feedback": "An obligation is a duty or commitment, which is how ethics frames what is owed to future generations."
         },
         {
           "letter": "A",
           "text": "choice",
           "is_correct": false,
-          "feedback": "Incorrect. Ethics often frames this as a duty, not just a casual choice."
+          "feedback": "A choice is a free option with no duty attached, so it understates the ethical commitment."
         },
         {
           "letter": "C",
           "text": "refusal",
           "is_correct": false,
-          "feedback": "Incorrect. Negative."
+          "feedback": "A refusal means declining to act, the opposite of taking on an obligation."
         },
         {
           "letter": "D",
           "text": "accident",
           "is_correct": false,
-          "feedback": "Incorrect. It should be an intentional effort."
+          "feedback": "An accident is unintended, whereas leaving a healthy planet requires deliberate effort."
         }
       ],
       "correct_answer": "B",
@@ -286,25 +286,25 @@
           "letter": "A",
           "text": "are debating",
           "is_correct": false,
-          "feedback": "Incorrect. Active voice."
+          "feedback": "'Are debating' is active and would need the debaters as the subject; the rights are what is being discussed."
         },
         {
           "letter": "B",
           "text": "are being debated",
           "is_correct": true,
-          "feedback": "Correct. Present continuous passive for an ongoing trend."
+          "feedback": "The present continuous passive marks an ongoing trend: the debate is still happening."
         },
         {
           "letter": "C",
           "text": "debated",
           "is_correct": false,
-          "feedback": "Incorrect. Past simple."
+          "feedback": "'Debated' alone has no auxiliary and cannot form a tense."
         },
         {
           "letter": "D",
           "text": "have debated",
           "is_correct": false,
-          "feedback": "Incorrect. Active voice."
+          "feedback": "'Have debated' is present perfect active and would name the debaters."
         }
       ],
       "correct_answer": "B",
@@ -331,25 +331,25 @@
           "letter": "A",
           "text": "Ownership",
           "is_correct": false,
-          "feedback": "Incorrect. Stewardship is about care, not just possessing."
+          "feedback": "Ownership means possessing something; stewardship is about caring for it responsibly."
         },
         {
           "letter": "C",
           "text": "Stewardship",
           "is_correct": true,
-          "feedback": "Correct. The term for responsible management of nature."
+          "feedback": "Stewardship is the established term for the responsible management and protection of nature."
         },
         {
           "letter": "B",
           "text": "Exploitation",
           "is_correct": false,
-          "feedback": "Incorrect. The opposite of stewardship."
+          "feedback": "Exploitation means using resources for profit without care, the opposite of stewardship."
         },
         {
           "letter": "D",
           "text": "Neglect",
           "is_correct": false,
-          "feedback": "Incorrect. The opposite of stewardship."
+          "feedback": "Neglect means failing to care for something, also the opposite of the practice described."
         }
       ],
       "correct_answer": "C",
@@ -466,25 +466,25 @@
           "letter": "A",
           "text": "Physics",
           "is_correct": false,
-          "feedback": "Incorrect."
+          "feedback": "Physics studies matter, energy and forces, not the relations between living organisms."
         },
         {
           "letter": "C",
           "text": "Ecology",
           "is_correct": true,
-          "feedback": "Correct. Scientific study of ecosystems."
+          "feedback": "Ecology is the branch of biology that studies how organisms relate to each other and to their surroundings."
         },
         {
           "letter": "B",
           "text": "Anatomy",
           "is_correct": false,
-          "feedback": "Incorrect. Study of body structure."
+          "feedback": "Anatomy studies the structure of bodies, not ecological relations."
         },
         {
           "letter": "D",
           "text": "Chemistry",
           "is_correct": false,
-          "feedback": "Incorrect."
+          "feedback": "Chemistry studies substances and their reactions, not living communities."
         }
       ],
       "correct_answer": "C",
@@ -691,25 +691,25 @@
           "letter": "B",
           "text": "source",
           "is_correct": false,
-          "feedback": "Incorrect. A source releases carbon."
+          "feedback": "A source releases carbon into the atmosphere; a sink is defined by absorbing it."
         },
         {
           "letter": "A",
           "text": "sink",
           "is_correct": true,
-          "feedback": "Correct. A sink absorbs/stores carbon."
+          "feedback": "A sink is the term for a system that absorbs and stores carbon dioxide from the air."
         },
         {
           "letter": "C",
           "text": "waste",
           "is_correct": false,
-          "feedback": "Incorrect."
+          "feedback": "'Waste' describes material discarded, not a reservoir that takes in gas."
         },
         {
           "letter": "D",
           "text": "filter",
           "is_correct": false,
-          "feedback": "Incorrect. While it acts like a filter, 'sink' is the technical term."
+          "feedback": "'Filter' is a loose comparison; the technical term for an absorbing reservoir is 'sink'."
         }
       ],
       "correct_answer": "A",

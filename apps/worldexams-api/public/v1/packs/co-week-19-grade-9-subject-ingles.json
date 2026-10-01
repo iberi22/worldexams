@@ -264,7 +264,7 @@
           "letter": "D",
           "text": "wish / would do",
           "is_correct": false,
-          "feedback": "Incorrect."
+          "feedback": "'Would do' belongs to the second conditional, but the clause names a specific past moment, 'when it first started', which the past perfect is needed for."
         }
       ],
       "correct_answer": "A",
@@ -292,7 +292,7 @@
           "letter": "A",
           "text": "I wish I had a car to go to work.",
           "is_correct": false,
-          "feedback": "Incorrect. Personal desire for a different state."
+          "feedback": "This is a wish about the speaker's own life, so it states a personal desire rather than any annoyance at someone else's behaviour."
         },
         {
           "letter": "C",
@@ -310,7 +310,7 @@
           "letter": "D",
           "text": "If only I were taller.",
           "is_correct": false,
-          "feedback": "Incorrect. Personal desire for a different state."
+          "feedback": "This regrets something about the speaker's own appearance. The sentence needs a wish directed at another person, which is what makes it a complaint."
         }
       ],
       "correct_answer": "B",
@@ -338,7 +338,7 @@
           "letter": "A",
           "text": "wish / have",
           "is_correct": false,
-          "feedback": "Incorrect."
+          "feedback": "'Wish' with 'have' describes a situation you want but expect not to happen. Here the gala is expected to go well, which is what 'hope' is for."
         },
         {
           "letter": "B",
@@ -384,7 +384,7 @@
           "letter": "A",
           "text": "agree",
           "is_correct": false,
-          "feedback": "Incorrect."
+          "feedback": "'Agree' in the plain present says they already collaborate, which is exactly the situation the speaker is complaining about."
         },
         {
           "letter": "D",
@@ -402,7 +402,7 @@
           "letter": "C",
           "text": "were agreeing",
           "is_correct": false,
-          "feedback": "Incorrect."
+          "feedback": "'Were agreeing' is an odd progressive used for a temporary state; 'if only' takes the simple past 'agreed' to point at the behaviour they are not showing."
         }
       ],
       "correct_answer": "D",
@@ -522,7 +522,7 @@
           "letter": "A",
           "text": "hope / loved / wouldn't have",
           "is_correct": false,
-          "feedback": "Incorrect."
+          "feedback": "'Hope' fits positive futures, but the speech is about a situation the speaker regrets, which is what 'wish' expresses."
         },
         {
           "letter": "C",
@@ -534,13 +534,13 @@
           "letter": "B",
           "text": "wish / would love / didn't have",
           "is_correct": false,
-          "feedback": "Incorrect."
+          "feedback": "'Would love' states a preference and 'didn't have' describes the past as it was, so the pair argues the opposite of the intended regret."
         },
         {
           "letter": "D",
           "text": "hope / would love / wouldn't have",
           "is_correct": false,
-          "feedback": "Incorrect."
+          "feedback": "'Hope' is wrong for the same reason as A, and 'would love' gives a preference rather than the unreal past the second conditional needs."
         }
       ],
       "correct_answer": "C",

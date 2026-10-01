@@ -80,7 +80,7 @@
           "letter": "C",
           "text": "the some",
           "is_correct": false,
-          "feedback": "Incorrect structure."
+          "feedback": "Incorrect. The determiner and the pronoun cannot be stacked: \"the\" already fixes one particular apple, so the extra \"some\" makes the phrase ungrammatical."
         }
       ],
       "correct_answer": "D",
@@ -310,7 +310,7 @@
           "letter": "D",
           "text": "any",
           "is_correct": false,
-          "feedback": "Incorrect. Not used with \"How\" for this question type."
+          "feedback": "Incorrect. \"Any\" belongs to negative and interrogative contexts, so in this affirmative question for a countable plural it does not fit."
         }
       ],
       "correct_answer": "C",
@@ -350,7 +350,7 @@
           "letter": "C",
           "text": "many",
           "is_correct": false,
-          "feedback": "Incorrect. Money is uncountable."
+          "feedback": "Incorrect. \"Many\" counts separate items, but money is an uncountable noun, so it can only be measured with \"much\" or \"a little\"."
         },
         {
           "letter": "D",

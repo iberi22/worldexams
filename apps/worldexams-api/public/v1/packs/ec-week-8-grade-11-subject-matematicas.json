@@ -16,25 +16,25 @@
           "letter": "A",
           "text": "6",
           "is_correct": false,
-          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+          "feedback": "6 se obtiene al restar 5 en lugar de sumarlo, y $3x = 16 - 5 = 11$ no da un número entero al dividir entre 3."
         },
         {
           "letter": "B",
           "text": "8",
           "is_correct": false,
-          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+          "feedback": "8 se acerca al resultado pero no sale de los pasos correctos: $16 + 5 = 21$ y $21 / 3$ es exactamente 7."
         },
         {
           "letter": "C",
           "text": "5",
           "is_correct": false,
-          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+          "feedback": "5 es el término que se suma al otro lado de la igualdad; se olvidó dividir entre 3 después de despejar."
         },
         {
           "letter": "D",
           "text": "7",
           "is_correct": true,
-          "feedback": "Correcto. ¡Excelente análisis!"
+          "feedback": "Correcto. Se despeja la incógnita: $3x = 16 + 5 = 21$ y $x = 21 / 3 = 7$."
         }
       ],
       "correct_answer": "D",
@@ -61,25 +61,25 @@
           "letter": "A",
           "text": "8",
           "is_correct": false,
-          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+          "feedback": "8 se acerca al resultado pero no sale de los pasos correctos: $16 + 5 = 21$ y $21 / 3$ es exactamente 7."
         },
         {
           "letter": "B",
           "text": "5",
           "is_correct": false,
-          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+          "feedback": "5 es el término que se suma al otro lado de la igualdad; se olvidó dividir entre 3 después de despejar."
         },
         {
           "letter": "C",
           "text": "6",
           "is_correct": false,
-          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+          "feedback": "6 se obtiene al restar 5 en lugar de sumarlo, y $3x = 16 - 5 = 11$ no da un número entero al dividir entre 3."
         },
         {
           "letter": "D",
           "text": "7",
           "is_correct": true,
-          "feedback": "Correcto. ¡Excelente análisis!"
+          "feedback": "Correcto. Se despeja la incógnita: $3x = 16 + 5 = 21$ y $x = 21 / 3 = 7$."
         }
       ],
       "correct_answer": "D",
@@ -106,25 +106,25 @@
           "letter": "A",
           "text": "7",
           "is_correct": true,
-          "feedback": "Correcto. ¡Excelente análisis!"
+          "feedback": "Correcto. Se despeja la incógnita: $3x = 16 + 5 = 21$ y $x = 21 / 3 = 7$."
         },
         {
           "letter": "B",
           "text": "5",
           "is_correct": false,
-          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+          "feedback": "5 es el término que se suma al otro lado de la igualdad; se olvidó dividir entre 3 después de despejar."
         },
         {
           "letter": "C",
           "text": "8",
           "is_correct": false,
-          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+          "feedback": "8 se acerca al resultado pero no sale de los pasos correctos: $16 + 5 = 21$ y $21 / 3$ es exactamente 7."
         },
         {
           "letter": "D",
           "text": "6",
           "is_correct": false,
-          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+          "feedback": "6 se obtiene al restar 5 en lugar de sumarlo, y $3x = 16 - 5 = 11$ no da un número entero al dividir entre 3."
         }
       ],
       "correct_answer": "A",
@@ -151,25 +151,25 @@
           "letter": "A",
           "text": "8",
           "is_correct": false,
-          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+          "feedback": "8 se acerca al resultado pero no sale de los pasos correctos: $16 + 5 = 21$ y $21 / 3$ es exactamente 7."
         },
         {
           "letter": "B",
           "text": "6",
           "is_correct": false,
-          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+          "feedback": "6 se obtiene al restar 5 en lugar de sumarlo, y $3x = 16 - 5 = 11$ no da un número entero al dividir entre 3."
         },
         {
           "letter": "C",
           "text": "5",
           "is_correct": false,
-          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+          "feedback": "5 es el término que se suma al otro lado de la igualdad; se olvidó dividir entre 3 después de despejar."
         },
         {
           "letter": "D",
           "text": "7",
           "is_correct": true,
-          "feedback": "Correcto. ¡Excelente análisis!"
+          "feedback": "Correcto. Se despeja la incógnita: $3x = 16 + 5 = 21$ y $x = 21 / 3 = 7$."
         }
       ],
       "correct_answer": "D",
@@ -196,25 +196,25 @@
           "letter": "A",
           "text": "40",
           "is_correct": false,
-          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+          "feedback": "40 sale de despejar mal el término independiente: $120 - 50$ da $70$, y $70 / 2$ da $35$, no $40$."
         },
         {
           "letter": "B",
           "text": "35",
           "is_correct": true,
-          "feedback": "Correcto. ¡Excelente análisis!"
+          "feedback": "Correcto. Con $c = 2x + 50$ y presupuesto de $120$: $2x = 120 - 50 = 70$ y $x = 70 / 2 = 35$ artículos."
         },
         {
           "letter": "C",
           "text": "45",
           "is_correct": false,
-          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+          "feedback": "45 corresponde a repartir el presupuesto sin descontar los $50$ del costo fijo, que es el error típico en este modelo."
         },
         {
           "letter": "D",
           "text": "30",
           "is_correct": false,
-          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+          "feedback": "30 resulta de restar los $50$ y dividir el resto entre 2, pero la resta debe hacerse completa: $120 - 50 = 70$ y $70 / 2 = 35$."
         }
       ],
       "correct_answer": "B",
@@ -241,25 +241,25 @@
           "letter": "A",
           "text": "30",
           "is_correct": false,
-          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+          "feedback": "30 resulta de restar los $50$ y dividir el resto entre 2, pero la resta debe hacerse completa: $120 - 50 = 70$ y $70 / 2 = 35$."
         },
         {
           "letter": "B",
           "text": "40",
           "is_correct": false,
-          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+          "feedback": "40 sale de despejar mal el término independiente: $120 - 50$ da $70$, y $70 / 2$ da $35$, no $40$."
         },
         {
           "letter": "C",
           "text": "45",
           "is_correct": false,
-          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+          "feedback": "45 corresponde a repartir el presupuesto sin descontar los $50$ del costo fijo, que es el error típico en este modelo."
         },
         {
           "letter": "D",
           "text": "35",
           "is_correct": true,
-          "feedback": "Correcto. ¡Excelente análisis!"
+          "feedback": "Correcto. Con $c = 2x + 50$ y presupuesto de $120$: $2x = 120 - 50 = 70$ y $x = 70 / 2 = 35$ artículos."
         }
       ],
       "correct_answer": "D",
@@ -286,25 +286,25 @@
           "letter": "A",
           "text": "35",
           "is_correct": true,
-          "feedback": "Correcto. ¡Excelente análisis!"
+          "feedback": "Correcto. Con $c = 2x + 50$ y presupuesto de $120$: $2x = 120 - 50 = 70$ y $x = 70 / 2 = 35$ artículos."
         },
         {
           "letter": "B",
           "text": "30",
           "is_correct": false,
-          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+          "feedback": "30 resulta de restar los $50$ y dividir el resto entre 2, pero la resta debe hacerse completa: $120 - 50 = 70$ y $70 / 2 = 35$."
         },
         {
           "letter": "C",
           "text": "40",
           "is_correct": false,
-          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+          "feedback": "40 sale de despejar mal el término independiente: $120 - 50$ da $70$, y $70 / 2$ da $35$, no $40$."
         },
         {
           "letter": "D",
           "text": "45",
           "is_correct": false,
-          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+          "feedback": "45 corresponde a repartir el presupuesto sin descontar los $50$ del costo fijo, que es el error típico en este modelo."
         }
       ],
       "correct_answer": "A",
@@ -331,25 +331,25 @@
           "letter": "A",
           "text": "45",
           "is_correct": false,
-          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+          "feedback": "45 corresponde a repartir el presupuesto sin descontar los $50$ del costo fijo, que es el error típico en este modelo."
         },
         {
           "letter": "B",
           "text": "30",
           "is_correct": false,
-          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+          "feedback": "30 resulta de restar los $50$ y dividir el resto entre 2, pero la resta debe hacerse completa: $120 - 50 = 70$ y $70 / 2 = 35$."
         },
         {
           "letter": "C",
           "text": "40",
           "is_correct": false,
-          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+          "feedback": "40 sale de despejar mal el término independiente: $120 - 50$ da $70$, y $70 / 2$ da $35$, no $40$."
         },
         {
           "letter": "D",
           "text": "35",
           "is_correct": true,
-          "feedback": "Correcto. ¡Excelente análisis!"
+          "feedback": "Correcto. Con $c = 2x + 50$ y presupuesto de $120$: $2x = 120 - 50 = 70$ y $x = 70 / 2 = 35$ artículos."
         }
       ],
       "correct_answer": "D",
@@ -376,25 +376,25 @@
           "letter": "A",
           "text": "30",
           "is_correct": false,
-          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+          "feedback": "30 resulta de restar los $50$ y dividir el resto entre 2, pero la resta debe hacerse completa: $120 - 50 = 70$ y $70 / 2 = 35$."
         },
         {
           "letter": "B",
           "text": "35",
           "is_correct": true,
-          "feedback": "Correcto. ¡Excelente análisis!"
+          "feedback": "Correcto. Con $c = 2x + 50$ y presupuesto de $120$: $2x = 120 - 50 = 70$ y $x = 70 / 2 = 35$ artículos."
         },
         {
           "letter": "C",
           "text": "45",
           "is_correct": false,
-          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+          "feedback": "45 corresponde a repartir el presupuesto sin descontar los $50$ del costo fijo, que es el error típico en este modelo."
         },
         {
           "letter": "D",
           "text": "40",
           "is_correct": false,
-          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+          "feedback": "40 sale de despejar mal el término independiente: $120 - 50$ da $70$, y $70 / 2$ da $35$, no $40$."
         }
       ],
       "correct_answer": "B",
@@ -421,25 +421,25 @@
           "letter": "A",
           "text": "30",
           "is_correct": false,
-          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+          "feedback": "30 resulta de restar los $50$ y dividir el resto entre 2, pero la resta debe hacerse completa: $120 - 50 = 70$ y $70 / 2 = 35$."
         },
         {
           "letter": "B",
           "text": "35",
           "is_correct": true,
-          "feedback": "Correcto. ¡Excelente análisis!"
+          "feedback": "Correcto. Con $c = 2x + 50$ y presupuesto de $120$: $2x = 120 - 50 = 70$ y $x = 70 / 2 = 35$ artículos."
         },
         {
           "letter": "C",
           "text": "45",
           "is_correct": false,
-          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+          "feedback": "45 corresponde a repartir el presupuesto sin descontar los $50$ del costo fijo, que es el error típico en este modelo."
         },
         {
           "letter": "D",
           "text": "40",
           "is_correct": false,
-          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+          "feedback": "40 sale de despejar mal el término independiente: $120 - 50$ da $70$, y $70 / 2$ da $35$, no $40$."
         }
       ],
       "correct_answer": "B",
@@ -466,25 +466,25 @@
           "letter": "A",
           "text": "18",
           "is_correct": false,
-          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+          "feedback": "18 es solo la parte del lado derecho, la de $3x + 18$: falta sumar los $6$ que se restaban en el otro lado."
         },
         {
           "letter": "B",
           "text": "12",
           "is_correct": false,
-          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+          "feedback": "12 se obtiene al despejar mal el signo: al pasar los términos, $18 + 6 = 24$, y ese resultado no se divide entre 2."
         },
         {
           "letter": "C",
           "text": "24",
           "is_correct": true,
-          "feedback": "Correcto. ¡Excelente análisis!"
+          "feedback": "Correcto. Multiplicando toda la ecuación por 6: $4x - 6 = 3x + 18$, entonces $4x - 3x = 18 + 6$ y $x = 24$."
         },
         {
           "letter": "D",
           "text": "30",
           "is_correct": false,
-          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+          "feedback": "30 proviene de sumar $18 + 6$ y dividir entre 2, pero ese $2$ ya se había cancelado al multiplicar por 6."
         }
       ],
       "correct_answer": "C",
@@ -511,25 +511,25 @@
           "letter": "A",
           "text": "30",
           "is_correct": false,
-          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+          "feedback": "30 proviene de sumar $18 + 6$ y dividir entre 2, pero ese $2$ ya se había cancelado al multiplicar por 6."
         },
         {
           "letter": "B",
           "text": "12",
           "is_correct": false,
-          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+          "feedback": "12 se obtiene al despejar mal el signo: al pasar los términos, $18 + 6 = 24$, y ese resultado no se divide entre 2."
         },
         {
           "letter": "C",
           "text": "24",
           "is_correct": true,
-          "feedback": "Correcto. ¡Excelente análisis!"
+          "feedback": "Correcto. Multiplicando toda la ecuación por 6: $4x - 6 = 3x + 18$, entonces $4x - 3x = 18 + 6$ y $x = 24$."
         },
         {
           "letter": "D",
           "text": "18",
           "is_correct": false,
-          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+          "feedback": "18 es solo la parte del lado derecho, la de $3x + 18$: falta sumar los $6$ que se restaban en el otro lado."
         }
       ],
       "correct_answer": "C",
@@ -556,25 +556,25 @@
           "letter": "A",
           "text": "30",
           "is_correct": false,
-          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+          "feedback": "30 proviene de sumar $18 + 6$ y dividir entre 2, pero ese $2$ ya se había cancelado al multiplicar por 6."
         },
         {
           "letter": "B",
           "text": "12",
           "is_correct": false,
-          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+          "feedback": "12 se obtiene al despejar mal el signo: al pasar los términos, $18 + 6 = 24$, y ese resultado no se divide entre 2."
         },
         {
           "letter": "C",
           "text": "24",
           "is_correct": true,
-          "feedback": "Correcto. ¡Excelente análisis!"
+          "feedback": "Correcto. Multiplicando toda la ecuación por 6: $4x - 6 = 3x + 18$, entonces $4x - 3x = 18 + 6$ y $x = 24$."
         },
         {
           "letter": "D",
           "text": "18",
           "is_correct": false,
-          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+          "feedback": "18 es solo la parte del lado derecho, la de $3x + 18$: falta sumar los $6$ que se restaban en el otro lado."
         }
       ],
       "correct_answer": "C",
@@ -601,25 +601,25 @@
           "letter": "A",
           "text": "24",
           "is_correct": true,
-          "feedback": "Correcto. ¡Excelente análisis!"
+          "feedback": "Correcto. Multiplicando toda la ecuación por 6: $4x - 6 = 3x + 18$, entonces $4x - 3x = 18 + 6$ y $x = 24$."
         },
         {
           "letter": "B",
           "text": "18",
           "is_correct": false,
-          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+          "feedback": "18 es solo la parte del lado derecho, la de $3x + 18$: falta sumar los $6$ que se restaban en el otro lado."
         },
         {
           "letter": "C",
           "text": "30",
           "is_correct": false,
-          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+          "feedback": "30 proviene de sumar $18 + 6$ y dividir entre 2, pero ese $2$ ya se había cancelado al multiplicar por 6."
         },
         {
           "letter": "D",
           "text": "12",
           "is_correct": false,
-          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+          "feedback": "12 se obtiene al despejar mal el signo: al pasar los términos, $18 + 6 = 24$, y ese resultado no se divide entre 2."
         }
       ],
       "correct_answer": "A",
@@ -646,25 +646,25 @@
           "letter": "A",
           "text": "24",
           "is_correct": true,
-          "feedback": "Correcto. ¡Excelente análisis!"
+          "feedback": "Correcto. Multiplicando toda la ecuación por 6: $4x - 6 = 3x + 18$, entonces $4x - 3x = 18 + 6$ y $x = 24$."
         },
         {
           "letter": "B",
           "text": "12",
           "is_correct": false,
-          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+          "feedback": "12 se obtiene al despejar mal el signo: al pasar los términos, $18 + 6 = 24$, y ese resultado no se divide entre 2."
         },
         {
           "letter": "C",
           "text": "18",
           "is_correct": false,
-          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+          "feedback": "18 es solo la parte del lado derecho, la de $3x + 18$: falta sumar los $6$ que se restaban en el otro lado."
         },
         {
           "letter": "D",
           "text": "30",
           "is_correct": false,
-          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+          "feedback": "30 proviene de sumar $18 + 6$ y dividir entre 2, pero ese $2$ ya se había cancelado al multiplicar por 6."
         }
       ],
       "correct_answer": "A",
@@ -691,25 +691,25 @@
           "letter": "A",
           "text": "30",
           "is_correct": false,
-          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+          "feedback": "30 proviene de sumar $18 + 6$ y dividir entre 2, pero ese $2$ ya se había cancelado al multiplicar por 6."
         },
         {
           "letter": "B",
           "text": "24",
           "is_correct": true,
-          "feedback": "Correcto. ¡Excelente análisis!"
+          "feedback": "Correcto. Multiplicando toda la ecuación por 6: $4x - 6 = 3x + 18$, entonces $4x - 3x = 18 + 6$ y $x = 24$."
         },
         {
           "letter": "C",
           "text": "12",
           "is_correct": false,
-          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+          "feedback": "12 se obtiene al despejar mal el signo: al pasar los términos, $18 + 6 = 24$, y ese resultado no se divide entre 2."
         },
         {
           "letter": "D",
           "text": "18",
           "is_correct": false,
-          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+          "feedback": "18 es solo la parte del lado derecho, la de $3x + 18$: falta sumar los $6$ que se restaban en el otro lado."
         }
       ],
       "correct_answer": "B",
@@ -736,25 +736,25 @@
           "letter": "A",
           "text": "75 dólares",
           "is_correct": false,
-          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+          "feedback": "75 sería la mitad de 150, como si el dinero se repartiera por partes iguales y no en razón de dos a uno."
         },
         {
           "letter": "B",
           "text": "60 dólares",
           "is_correct": false,
-          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+          "feedback": "60 saldría de repartir $150$ en tres partes iguales, pero eso no respeta que una de las dos personas tiene el doble de la otra."
         },
         {
           "letter": "C",
           "text": "50 dólares",
           "is_correct": true,
-          "feedback": "Correcto. ¡Excelente análisis!"
+          "feedback": "Correcto. Si una parte es el doble de la otra, el total es $3x = 150$, de donde $x = 150 / 3 = 50$ dólares."
         },
         {
           "letter": "D",
           "text": "100 dólares",
           "is_correct": false,
-          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+          "feedback": "100 corresponde a las dos partes del total, no a la de la persona que recibe la menor cantidad."
         }
       ],
       "correct_answer": "C",
@@ -781,25 +781,25 @@
           "letter": "A",
           "text": "75 dólares",
           "is_correct": false,
-          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+          "feedback": "75 sería la mitad de 150, como si el dinero se repartiera por partes iguales y no en razón de dos a uno."
         },
         {
           "letter": "B",
           "text": "100 dólares",
           "is_correct": false,
-          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+          "feedback": "100 corresponde a las dos partes del total, no a la de la persona que recibe la menor cantidad."
         },
         {
           "letter": "C",
           "text": "60 dólares",
           "is_correct": false,
-          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+          "feedback": "60 saldría de repartir $150$ en tres partes iguales, pero eso no respeta que una de las dos personas tiene el doble de la otra."
         },
         {
           "letter": "D",
           "text": "50 dólares",
           "is_correct": true,
-          "feedback": "Correcto. ¡Excelente análisis!"
+          "feedback": "Correcto. Si una parte es el doble de la otra, el total es $3x = 150$, de donde $x = 150 / 3 = 50$ dólares."
         }
       ],
       "correct_answer": "D",
@@ -826,25 +826,25 @@
           "letter": "A",
           "text": "75 dólares",
           "is_correct": false,
-          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+          "feedback": "75 sería la mitad de 150, como si el dinero se repartiera por partes iguales y no en razón de dos a uno."
         },
         {
           "letter": "B",
           "text": "100 dólares",
           "is_correct": false,
-          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+          "feedback": "100 corresponde a las dos partes del total, no a la de la persona que recibe la menor cantidad."
         },
         {
           "letter": "C",
           "text": "50 dólares",
           "is_correct": true,
-          "feedback": "Correcto. ¡Excelente análisis!"
+          "feedback": "Correcto. Si una parte es el doble de la otra, el total es $3x = 150$, de donde $x = 150 / 3 = 50$ dólares."
         },
         {
           "letter": "D",
           "text": "60 dólares",
           "is_correct": false,
-          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+          "feedback": "60 saldría de repartir $150$ en tres partes iguales, pero eso no respeta que una de las dos personas tiene el doble de la otra."
         }
       ],
       "correct_answer": "C",
@@ -871,25 +871,25 @@
           "letter": "A",
           "text": "50 dólares",
           "is_correct": true,
-          "feedback": "Correcto. ¡Excelente análisis!"
+          "feedback": "Correcto. Si una parte es el doble de la otra, el total es $3x = 150$, de donde $x = 150 / 3 = 50$ dólares."
         },
         {
           "letter": "B",
           "text": "60 dólares",
           "is_correct": false,
-          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+          "feedback": "60 saldría de repartir $150$ en tres partes iguales, pero eso no respeta que una de las dos personas tiene el doble de la otra."
         },
         {
           "letter": "C",
           "text": "100 dólares",
           "is_correct": false,
-          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+          "feedback": "100 corresponde a las dos partes del total, no a la de la persona que recibe la menor cantidad."
         },
         {
           "letter": "D",
           "text": "75 dólares",
           "is_correct": false,
-          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+          "feedback": "75 sería la mitad de 150, como si el dinero se repartiera por partes iguales y no en razón de dos a uno."
         }
       ],
       "correct_answer": "A",

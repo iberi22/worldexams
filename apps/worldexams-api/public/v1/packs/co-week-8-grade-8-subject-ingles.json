@@ -172,7 +172,7 @@
           "letter": "D",
           "text": "as",
           "is_correct": false,
-          "feedback": "Incorrect."
+          "feedback": "Incorrect. \"As\" introduces a comparison or a reason, so \"as it rains\" would explain the plan instead of setting the condition for it."
         }
       ],
       "correct_answer": "B",
@@ -212,7 +212,7 @@
           "letter": "B",
           "text": "am",
           "is_correct": false,
-          "feedback": "Incorrect."
+          "feedback": "Incorrect. \"I am go to the park\" has no infinitive after \"am\", and the modal slot needs a modal verb or a bare infinitive."
         },
         {
           "letter": "C",
@@ -304,7 +304,7 @@
           "letter": "B",
           "text": "You pass the exam if you will study hard.",
           "is_correct": false,
-          "feedback": "Incorrect."
+          "feedback": "Incorrect. The present simple of the main clause is used, and \"will study\" in the \"if\" clause would state a fact about studying."
         },
         {
           "letter": "C",
@@ -338,7 +338,7 @@
           "letter": "A",
           "text": "There is no difference in meaning.",
           "is_correct": false,
-          "feedback": "Incorrect."
+          "feedback": "Incorrect. The two sentences differ: A states a rule that always holds, while B announces what will happen in one particular case."
         },
         {
           "letter": "B",
@@ -356,7 +356,7 @@
           "letter": "D",
           "text": "B is more polite than A.",
           "is_correct": false,
-          "feedback": "Incorrect."
+          "feedback": "Incorrect. Both are plain statements in the same neutral register, and politeness is not what distinguishes them."
         }
       ],
       "correct_answer": "B",
@@ -396,7 +396,7 @@
           "letter": "B",
           "text": "drinking",
           "is_correct": false,
-          "feedback": "Incorrect."
+          "feedback": "Incorrect. The slot is a full clause, not a participle, and \"If you feel dizzy, drinking some water\" has no finite verb of its own."
         },
         {
           "letter": "C",

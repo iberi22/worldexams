@@ -529,7 +529,7 @@
           "letter": "D",
           "text": "Porque el logaritmo de un negativo es siempre cero.",
           "is_correct": false,
-          "feedback": "Incorrecto."
+          "feedback": "El logaritmo no está definido para argumentos negativos, así que no hay ningún valor que devolver, y desde luego ninguno que sea cero."
         }
       ],
       "correct_answer": "A",
@@ -658,13 +658,13 @@
           "letter": "C",
           "text": "$\\log(ab)$",
           "is_correct": false,
-          "feedback": "No es una propiedad válida."
+          "feedback": "El cambio de base da (log b / log a)·(log a / log b) = 1 porque los factores se cancelan. Sumar los argumentos, como haría log(ab), no corresponde a ese producto."
         },
         {
           "letter": "D",
           "text": "$ab$",
           "is_correct": false,
-          "feedback": "No es una propiedad válida."
+          "feedback": "El mismo razonamiento lleva a 1, no al producto ab. Aquí lo que se cancela son los cocientes, no los números entre sí."
         }
       ],
       "correct_answer": "B",

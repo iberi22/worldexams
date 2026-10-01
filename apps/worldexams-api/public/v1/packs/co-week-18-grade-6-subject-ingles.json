@@ -9,42 +9,42 @@
   "questions": [
     {
       "id": "CO-ING-6-2026-W18-furniture-001-v1",
-      "statement": "This is a review question about furniture.",
-      "context": "Scenario about furniture in a Colombian school or city context.",
+      "statement": "What is the name of the piece of furniture that a person sleeps in?",
+      "context": "Naming the piece of furniture a person sleeps on.",
       "options": [
         {
           "letter": "A",
-          "text": "Option A (Correct)",
-          "is_correct": true,
-          "feedback": "Correct! Well done."
+          "text": "the table",
+          "is_correct": false,
+          "feedback": "A table is a flat surface for working or eating, and it is not where a person sleeps."
         },
         {
           "letter": "B",
-          "text": "Option B",
-          "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "text": "the bed",
+          "is_correct": true,
+          "feedback": "A bed is the piece of furniture designed for sleeping, which is exactly what the definition describes."
         },
         {
           "letter": "C",
-          "text": "Option C",
+          "text": "the chair",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "A chair is a seat for one person, and it is not designed for sleeping."
         },
         {
           "letter": "D",
-          "text": "Option D",
+          "text": "the wardrobe",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "A wardrobe is a cupboard for hanging clothes, so it stores garments rather than holding a sleeping person."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "This question evaluates the student's ability to remember the topic of Furniture and Appliances at an A2 level. It focuses on Colombian contexts and standard A2 grammar.\n\n---",
-      "difficulty": "4",
+      "correct_answer": "B",
+      "explanation": "The correct answer is \"the bed\". Furniture is the vocabulary of the space a family lives in, and pairing each item with its use is what makes the words usable. Colombian homes also have their own characteristic pieces such as the hamaca and the sala set, so the student can attach each English word to a real object rather than to a picture in a textbook.",
+      "difficulty": "3",
       "images": [],
       "tags": [],
       "bloom": "Remember",
-      "icfes_type": "Reading Comprehension",
-      "expected_success": 0.75,
+      "icfes_type": "Lexical Knowledge",
+      "expected_success": 0.82,
       "bundle_id": "CO-ING-6-2026-W18-furniture-001-MASTERY-bundle",
       "periodo": 18,
       "protocol_version": "5.2",
@@ -55,42 +55,42 @@
     },
     {
       "id": "CO-ING-6-2026-W18-furniture-002-v1",
-      "statement": "Select the correct A2 level use for furniture.",
-      "context": "Scenario about furniture in a Colombian school or city context.",
+      "statement": "Which sentence is correct?",
+      "context": "Using the indefinite article with a piece of furniture.",
       "options": [
         {
           "letter": "A",
-          "text": "Structure 4",
+          "text": "There is the sofa of living room.",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "The article is wrong for a first mention and the phrase of living room uses Spanish word order rather than English."
         },
         {
           "letter": "B",
-          "text": "Structure 3",
+          "text": "There is sofa in the living room.",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "A single countable object needs the article, so leaving it out leaves the sentence incomplete."
         },
         {
           "letter": "C",
-          "text": "Structure 1 (Correct)",
-          "is_correct": true,
-          "feedback": "Correct! Well done."
+          "text": "There is a sofas in the living room.",
+          "is_correct": false,
+          "feedback": "A single sofa takes the singular, and the plural -s would call for more than one sofa or the word sofas."
         },
         {
           "letter": "D",
-          "text": "Structure 2",
-          "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "text": "There is a sofa in the living room.",
+          "is_correct": true,
+          "feedback": "The first mention of a single object takes the indefinite article, and sofa begins with a consonant sound."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "This question evaluates the student's ability to remember the topic of Furniture and Appliances at an A2 level. It focuses on Colombian contexts and standard A2 grammar.\n\n---",
-      "difficulty": "4",
+      "correct_answer": "D",
+      "explanation": "The correct answer is \"There is a sofa in the living room\". Articles on furniture are a small but persistent source of error, since a first mention in English takes a and Spanish often leaves the article out or moves it. Settling the article at the same time as the noun means the student does not have to think about two things at once when they move on to describing a whole room.",
+      "difficulty": "3",
       "images": [],
       "tags": [],
       "bloom": "Remember",
-      "icfes_type": "Reading Comprehension",
-      "expected_success": 0.75,
+      "icfes_type": "Grammatical Knowledge",
+      "expected_success": 0.8,
       "bundle_id": "CO-ING-6-2026-W18-furniture-001-MASTERY-bundle",
       "periodo": 18,
       "protocol_version": "5.2",
@@ -101,42 +101,42 @@
     },
     {
       "id": "CO-ING-6-2026-W18-furniture-003-v1",
-      "statement": "Identify the appropriate vocabulary for furniture.",
-      "context": "Scenario about furniture in a Colombian school or city context.",
+      "statement": "Read: \"There is a fridge in the kitchen and a lamp next to the bed.\" Where is the lamp?",
+      "context": "Locating a piece of furniture from a short description of a room.",
       "options": [
         {
           "letter": "A",
-          "text": "Word 1 (Correct)",
+          "text": "Next to the bed.",
           "is_correct": true,
-          "feedback": "Correct! Well done."
+          "feedback": "The text states directly that the lamp is next to the bed, and next to expresses position beside another object."
         },
         {
           "letter": "B",
-          "text": "Word 4",
+          "text": "In the kitchen.",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "The kitchen is where the fridge is, and the text places the lamp somewhere else entirely."
         },
         {
           "letter": "C",
-          "text": "Word 2",
+          "text": "On the table.",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "The text never mentions a table in this description, so there is no support for that location."
         },
         {
           "letter": "D",
-          "text": "Word 3",
+          "text": "Under the window.",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "No window and no under appear in the text, so this location is invented rather than read."
         }
       ],
       "correct_answer": "A",
-      "explanation": "This question evaluates the student's ability to understand the topic of Furniture and Appliances at an A2 level. It focuses on Colombian contexts and standard A2 grammar.\n\n---",
-      "difficulty": "6",
+      "explanation": "The correct answer is \"Next to the bed\". A phrase such as next to describes a relation between two objects rather than a named place, and recognising that a description can locate something by its neighbour is a useful reading skill. The distractors include a real location from the text and two invented ones, so the student has to track which object each one belongs to.",
+      "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Understand",
       "icfes_type": "Reading Comprehension",
-      "expected_success": 0.75,
+      "expected_success": 0.78,
       "bundle_id": "CO-ING-6-2026-W18-furniture-001-MASTERY-bundle",
       "periodo": 18,
       "protocol_version": "5.2",
@@ -147,42 +147,42 @@
     },
     {
       "id": "CO-ING-6-2026-W18-furniture-004-v1",
-      "statement": "Complete the sentence about furniture.",
-      "context": "Scenario about furniture in a Colombian school or city context.",
+      "statement": "Which sentence correctly describes a dining table with six chairs around it?",
+      "context": "Using there are with a plural piece of furniture.",
       "options": [
         {
           "letter": "A",
-          "text": "Phrase B",
+          "text": "There are six chair around the table.",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "The noun stays singular, and after a number above one English requires the plural form chairs."
         },
         {
           "letter": "B",
-          "text": "Phrase C",
+          "text": "There is six chairs around the table.",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "The verb is singular while the subject is plural, so the two do not agree in this sentence."
         },
         {
           "letter": "C",
-          "text": "Phrase A (Correct)",
+          "text": "There are six chairs around the table.",
           "is_correct": true,
-          "feedback": "Correct! Well done."
+          "feedback": "The plural noun chairs takes the plural verb are, and around describes their position relative to the table."
         },
         {
           "letter": "D",
-          "text": "Phrase D",
+          "text": "There are six chairs around a table.",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "The article a is wrong here, because the table is a particular one already mentioned rather than an unspecified object."
         }
       ],
       "correct_answer": "C",
-      "explanation": "This question evaluates the student's ability to understand the topic of Furniture and Appliances at an A2 level. It focuses on Colombian contexts and standard A2 grammar.\n\n---",
-      "difficulty": "6",
+      "explanation": "The correct answer is \"There are six chairs around the table\". Three separate agreements have to hold at once, the verb with the plural subject, the noun with the number, and the article with what is already known, and each distractor breaks a different one of them. Sentences that require several agreements to be right at the same time are where A2 writing most often breaks down in Grade 6.",
+      "difficulty": "4",
       "images": [],
       "tags": [],
-      "bloom": "Understand",
-      "icfes_type": "Reading Comprehension",
-      "expected_success": 0.75,
+      "bloom": "Apply",
+      "icfes_type": "Grammatical Knowledge",
+      "expected_success": 0.76,
       "bundle_id": "CO-ING-6-2026-W18-furniture-001-MASTERY-bundle",
       "periodo": 18,
       "protocol_version": "5.2",
@@ -193,42 +193,42 @@
     },
     {
       "id": "CO-ING-6-2026-W18-furniture-005-v1",
-      "statement": "What is the best way to express furniture?",
-      "context": "Scenario about furniture in a Colombian school or city context.",
+      "statement": "Which of these is an appliance used in the kitchen?",
+      "context": "Distinguishing a household appliance from a piece of furniture.",
       "options": [
         {
           "letter": "A",
-          "text": "This way (Correct)",
+          "text": "the microwave",
           "is_correct": true,
-          "feedback": "Correct! Well done."
+          "feedback": "A microwave is an electrical appliance that heats food, which is what an appliance in the kitchen does."
         },
         {
           "letter": "B",
-          "text": "Incorrect way",
+          "text": "the bookshelf",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "A bookshelf is a piece of furniture for holding books, and it uses no electricity at all."
         },
         {
           "letter": "C",
-          "text": "Other way",
+          "text": "the coffee table",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "A coffee table is furniture for placing things in front of a sofa, not a device that processes food."
         },
         {
           "letter": "D",
-          "text": "That way",
+          "text": "the curtain",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "A curtain is a covering hung over a window, and it is neither furniture nor an electrical appliance."
         }
       ],
       "correct_answer": "A",
-      "explanation": "This question evaluates the student's ability to apply the topic of Furniture and Appliances at an A2 level. It focuses on Colombian contexts and standard A2 grammar.\n\n---",
-      "difficulty": "6",
+      "explanation": "The correct answer is \"the microwave\". The word appliance in English covers a specific family of powered devices, and students often extend it to any object in a home. Sorting household words into furniture, appliances and soft furnishings is a categorisation task that makes the vocabulary stick and that also supports the reading items in the exam, where a text usually describes a room in exactly these groups.",
+      "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Apply",
-      "icfes_type": "Reading Comprehension",
-      "expected_success": 0.75,
+      "icfes_type": "Lexical Knowledge",
+      "expected_success": 0.74,
       "bundle_id": "CO-ING-6-2026-W18-furniture-001-MASTERY-bundle",
       "periodo": 18,
       "protocol_version": "5.2",
@@ -239,42 +239,42 @@
     },
     {
       "id": "CO-ING-6-2026-W18-furniture-006-v1",
-      "statement": "Find the error in this furniture sentence.",
-      "context": "Scenario about furniture in a Colombian school or city context.",
+      "statement": "You are buying a bookcase and you want to know its price. What do you say?",
+      "context": "Asking a shop assistant about an item in a furniture store.",
       "options": [
         {
           "letter": "A",
-          "text": "No error",
+          "text": "What is this bookcase?",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "What asks for the name or nature of the thing rather than its cost, so it would not get a price."
         },
         {
           "letter": "B",
-          "text": "Wrong error",
+          "text": "How many is this bookcase?",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "How many asks for a number of items or things, and a price is not expressed as a count."
         },
         {
           "letter": "C",
-          "text": "Different error",
+          "text": "Where is this bookcase?",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "Where asks for a location, which tells the customer nothing about what they will have to pay."
         },
         {
           "letter": "D",
-          "text": "The error is here (Correct)",
+          "text": "How much is this bookcase?",
           "is_correct": true,
-          "feedback": "Correct! Well done."
+          "feedback": "How much asks for the price of a single item, which is exactly the information a customer needs."
         }
       ],
       "correct_answer": "D",
-      "explanation": "This question evaluates the student's ability to apply the topic of Furniture and Appliances at an A2 level. It focuses on Colombian contexts and standard A2 grammar.\n\n---",
-      "difficulty": "8",
+      "explanation": "The correct answer is \"How much is this bookcase?\" Buying something in English means knowing which question word buys the information you need, and how much for a price is the pair students meet in every shop in every English-speaking country. Getting this wrong in a real transaction is immediately obvious, which makes it a good item to practise producing rather than merely recognising.",
+      "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Apply",
-      "icfes_type": "Reading Comprehension",
-      "expected_success": 0.75,
+      "icfes_type": "Pragmatic Competence",
+      "expected_success": 0.72,
       "bundle_id": "CO-ING-6-2026-W18-furniture-001-MASTERY-bundle",
       "periodo": 18,
       "protocol_version": "5.2",
@@ -285,42 +285,42 @@
     },
     {
       "id": "CO-ING-6-2026-W18-furniture-007-v1",
-      "statement": "Match the term with the definition of furniture.",
-      "context": "Scenario about furniture in a Colombian school or city context.",
+      "statement": "Complete the sentence: \"This is ________ desk. I bought it for my office.\"",
+      "context": "Using a possessive to say who a piece of furniture belongs to.",
       "options": [
         {
           "letter": "A",
-          "text": "Opposite",
+          "text": "I",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "I is the subject pronoun, and a possessive is needed to show that the desk belongs to the speaker."
         },
         {
           "letter": "B",
-          "text": "Non-matching",
-          "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "text": "my",
+          "is_correct": true,
+          "feedback": "My names the speaker's own desk, and the speaker goes on to explain the reason for buying it."
         },
         {
           "letter": "C",
-          "text": "Matching term (Correct)",
-          "is_correct": true,
-          "feedback": "Correct! Well done."
+          "text": "me",
+          "is_correct": false,
+          "feedback": "Me is the object pronoun, and it cannot be placed in front of a noun to show ownership."
         },
         {
           "letter": "D",
-          "text": "Irrelevant",
+          "text": "mine is",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "Mine is a complete pronoun that stands on its own and cannot be joined to the noun desk in this way."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "This question evaluates the student's ability to apply the topic of Furniture and Appliances at an A2 level. It focuses on Colombian contexts and standard A2 grammar.\n\n---",
-      "difficulty": "8",
+      "correct_answer": "B",
+      "explanation": "The correct answer is \"my\". The four options are the four things students reach for when they need a possessive, and telling a possessive adjective from a subject pronoun, an object pronoun and a standalone pronoun is the core distinction. Furniture is a good context for it because ownership genuinely varies from item to item in a shared home, so the possessive carries real meaning rather than being decoration.",
+      "difficulty": "5",
       "images": [],
       "tags": [],
       "bloom": "Apply",
-      "icfes_type": "Reading Comprehension",
-      "expected_success": 0.75,
+      "icfes_type": "Grammatical Knowledge",
+      "expected_success": 0.7,
       "bundle_id": "CO-ING-6-2026-W18-furniture-001-MASTERY-bundle",
       "periodo": 18,
       "protocol_version": "5.2",
@@ -331,42 +331,42 @@
     },
     {
       "id": "CO-ING-6-2026-W18-furniture-008-v1",
-      "statement": "Choose the synonym for a word related to furniture.",
-      "context": "Scenario about furniture in a Colombian school or city context.",
+      "statement": "Read: \"The bedroom is small but comfortable. There is a bed, a small table and a lamp next to it.\" What can you say about the room?",
+      "context": "Identifying which description of a room is internally consistent.",
       "options": [
         {
           "letter": "A",
-          "text": "Antonym",
-          "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "text": "It is small and it contains a bed and a table.",
+          "is_correct": true,
+          "feedback": "The text describes the bedroom as small and then lists a bed and a small table among the objects it contains."
         },
         {
           "letter": "B",
-          "text": "Homonym",
+          "text": "It has more space than the kitchen.",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "The text compares the room only with being comfortable, and it says nothing about the kitchen."
         },
         {
           "letter": "C",
-          "text": "Synonym (Correct)",
-          "is_correct": true,
-          "feedback": "Correct! Well done."
+          "text": "It is a large room with many chairs.",
+          "is_correct": false,
+          "feedback": "The text calls the room small and mentions a bed and a table rather than a set of chairs."
         },
         {
           "letter": "D",
-          "text": "Unrelated",
+          "text": "It is used for cooking.",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "Cooking belongs to the kitchen, and this text describes a place for sleeping instead."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "This question evaluates the student's ability to analyze the topic of Furniture and Appliances at an A2 level. It focuses on Colombian contexts and standard A2 grammar.\n\n---",
-      "difficulty": "8",
+      "correct_answer": "A",
+      "explanation": "The correct answer is \"It is small and it contains a bed and a table\". Combining the evaluative adjective small with the list of objects is a two-part comprehension task, and the but in the text shows that small and comfortable are not in conflict, which is the point students most often miss. Keeping the two kinds of information from a description separate is what lets a student answer questions about a text without guessing.",
+      "difficulty": "5",
       "images": [],
       "tags": [],
       "bloom": "Analyze",
       "icfes_type": "Reading Comprehension",
-      "expected_success": 0.75,
+      "expected_success": 0.68,
       "bundle_id": "CO-ING-6-2026-W18-furniture-001-MASTERY-bundle",
       "periodo": 18,
       "protocol_version": "5.2",
@@ -377,42 +377,42 @@
     },
     {
       "id": "CO-ING-6-2026-W18-furniture-009-v1",
-      "statement": "Which of these belongs to furniture?",
-      "context": "Scenario about furniture in a Colombian school or city context.",
+      "statement": "A student writes: \"There is a two chairs in the dining room.\" What is the problem?",
+      "context": "Finding the error in a sentence about furniture.",
       "options": [
         {
           "letter": "A",
-          "text": "This one (Correct)",
-          "is_correct": true,
-          "feedback": "Correct! Well done."
+          "text": "The verb is in the wrong tense.",
+          "is_correct": false,
+          "feedback": "There is is the correct existential form and no tense change is called for by this sentence."
         },
         {
           "letter": "B",
-          "text": "Both",
+          "text": "The word chairs is a verb.",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "Chairs is a plural noun, and it is used correctly as the subject of the existential clause."
         },
         {
           "letter": "C",
-          "text": "Neither",
+          "text": "The article a should be removed.",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "The article is required before a counted noun, so removing it would make the sentence worse."
         },
         {
           "letter": "D",
-          "text": "Not this one",
-          "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "text": "The noun is singular after a number above one.",
+          "is_correct": true,
+          "feedback": "After the number two English requires the plural noun chairs, so the singular chair is the error."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "This question evaluates the student's ability to analyze the topic of Furniture and Appliances at an A2 level. It focuses on Colombian contexts and standard A2 grammar.\n\n---",
-      "difficulty": "10",
+      "correct_answer": "D",
+      "explanation": "The correct answer is \"The noun is singular after a number above one\". The sentence has the right existential structure, the right article and the right noun, and the single fault is the plural marking, which makes it a clean example of an error that is easy to locate and easy to repair. Being able to isolate one fault in an otherwise correct sentence is what lets a student fix their own writing.",
+      "difficulty": "5",
       "images": [],
       "tags": [],
       "bloom": "Analyze",
-      "icfes_type": "Reading Comprehension",
-      "expected_success": 0.75,
+      "icfes_type": "Grammatical Knowledge",
+      "expected_success": 0.65,
       "bundle_id": "CO-ING-6-2026-W18-furniture-001-MASTERY-bundle",
       "periodo": 18,
       "protocol_version": "5.2",
@@ -423,42 +423,42 @@
     },
     {
       "id": "CO-ING-6-2026-W18-furniture-010-v1",
-      "statement": "Predict the next word in the furniture context.",
-      "context": "Scenario about furniture in a Colombian school or city context.",
+      "statement": "You are writing a short description of your bedroom for a school project. Which description is best?",
+      "context": "Choosing the best description of a bedroom for a school project.",
       "options": [
         {
           "letter": "A",
-          "text": "Correct prediction",
-          "is_correct": true,
-          "feedback": "Correct! Well done."
+          "text": "My bedroom is very beautiful and my mother likes it.",
+          "is_correct": false,
+          "feedback": "This is an opinion about the room rather than a description of it, and it adds nothing the reader can picture."
         },
         {
           "letter": "B",
-          "text": "Wrong prediction",
+          "text": "My bedroom has furniture.",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "This names the category rather than any object, so a reader learns nothing about the room itself."
         },
         {
           "letter": "C",
-          "text": "Maybe",
-          "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "text": "My bedroom is small. There is a bed, a desk next to the window and a bookshelf full of books.",
+          "is_correct": true,
+          "feedback": "This gives the size, three specific objects and their position, which is the level of detail a description needs."
         },
         {
           "letter": "D",
-          "text": "Impossible",
+          "text": "There is a bed in my bedroom and there is a desk in my bedroom.",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "The repetition makes the sentences clumsy, and the description is far too short to convey the room."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "This question evaluates the student's ability to evaluate the topic of Furniture and Appliances at an A2 level. It focuses on Colombian contexts and standard A2 grammar.\n\n---",
-      "difficulty": "10",
+      "correct_answer": "C",
+      "explanation": "The correct answer is the one giving size, specific objects and their position. A description is judged by how well someone who cannot see it can picture the space, and that requires concrete detail in a sensible order rather than evaluation or repetition. This is the same criterion the exam applies when it asks for a description, so practising it here is directly transferable to the written work.\n\n---",
+      "difficulty": "5",
       "images": [],
       "tags": [],
       "bloom": "Evaluate",
-      "icfes_type": "Reading Comprehension",
-      "expected_success": 0.75,
+      "icfes_type": "Pragmatic Competence",
+      "expected_success": 0.62,
       "bundle_id": "CO-ING-6-2026-W18-furniture-001-MASTERY-bundle",
       "periodo": 18,
       "protocol_version": "5.2",

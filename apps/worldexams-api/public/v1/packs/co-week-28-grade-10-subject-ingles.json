@@ -16,25 +16,25 @@
           "letter": "A",
           "text": "did / had",
           "is_correct": false,
-          "feedback": "Incorrect."
+          "feedback": "'Did' does not invert with 'never' and 'had' cannot follow 'the students' in this structure."
         },
         {
           "letter": "D",
           "text": "have / had",
           "is_correct": true,
-          "feedback": "Correct inversion. Have (auxiliary) + subject + had (past participle)."
+          "feedback": "A negative fronted phrase ('Never') triggers inversion: the auxiliary 'have' precedes the subject, and 'had' is the past participle of 'have'."
         },
         {
           "letter": "B",
           "text": "have / have",
           "is_correct": false,
-          "feedback": "Incorrect tense."
+          "feedback": "The second blank needs the past participle 'had'; 'have' would leave the verb unfinished."
         },
         {
           "letter": "C",
           "text": "had / did",
           "is_correct": false,
-          "feedback": "Incorrect."
+          "feedback": "'Had' cannot open the inversion and 'did' would be left without a base verb."
         }
       ],
       "correct_answer": "D",
@@ -62,25 +62,25 @@
           "letter": "D",
           "text": "are",
           "is_correct": true,
-          "feedback": "Correct. Only + prepositional phrase + are (verb) + subject."
+          "feedback": "A fronted 'Only' phrase triggers subject-auxiliary inversion, giving 'are students allowed'."
         },
         {
           "letter": "A",
           "text": "do",
           "is_correct": false,
-          "feedback": "Incorrect auxiliary."
+          "feedback": "'Do' would need a base verb after it, and the sentence describes a state, not an action."
         },
         {
           "letter": "B",
           "text": "have",
           "is_correct": false,
-          "feedback": "Incorrect auxiliary."
+          "feedback": "'Have' would need a past participle, but the blank is followed by the subject directly."
         },
         {
           "letter": "C",
           "text": "will",
           "is_correct": false,
-          "feedback": "Incorrect auxiliary for this state."
+          "feedback": "'Will' would predict a future situation, while the sentence describes an existing restriction."
         }
       ],
       "correct_answer": "D",
@@ -108,25 +108,25 @@
           "letter": "B",
           "text": "does / has",
           "is_correct": false,
-          "feedback": "Incorrect. Needs base form after 'does'."
+          "feedback": "'Does' must be followed by the base form 'have', so 'has' is wrong after it."
         },
         {
           "letter": "A",
           "text": "does / have",
           "is_correct": true,
-          "feedback": "Correct inversion. Does + subject + base verb."
+          "feedback": "A fronted 'Rarely' triggers inversion: 'does' precedes the subject and the main verb reverts to the base form 'have'."
         },
         {
           "letter": "C",
           "text": "has / have",
           "is_correct": false,
-          "feedback": "Incorrect."
+          "feedback": "'Has' would leave no room for the base verb that inversion requires."
         },
         {
           "letter": "D",
           "text": "did / has",
           "is_correct": false,
-          "feedback": "Incorrect."
+          "feedback": "'Did' would need a past form, and 'has' would be ungrammatical after it."
         }
       ],
       "correct_answer": "A",
@@ -154,25 +154,25 @@
           "letter": "A",
           "text": "did / received",
           "is_correct": false,
-          "feedback": "Incorrect."
+          "feedback": "'Received' after 'did' would have to be the base form 'receive', and 'did' is the wrong auxiliary for a past perfect."
         },
         {
           "letter": "D",
           "text": "did / receive",
           "is_correct": true,
-          "feedback": "Correct inversion with 'Not until'."
+          "feedback": "'Not until' triggers inversion with 'did', and the main verb returns to the base form 'receive'."
         },
         {
           "letter": "B",
           "text": "had / received",
           "is_correct": false,
-          "feedback": "Also possible, but B is standard for a point in time."
+          "feedback": "A past perfect is possible here but 'had received' still leaves the clause uninverted."
         },
         {
           "letter": "C",
           "text": "has / received",
           "is_correct": false,
-          "feedback": "Incorrect tense."
+          "feedback": "'Has received' is present perfect, which cannot follow the fronted 'Not until' with inversion."
         }
       ],
       "correct_answer": "D",
@@ -200,25 +200,25 @@
           "letter": "A",
           "text": "they knew",
           "is_correct": false,
-          "feedback": "No inversion."
+          "feedback": "'they knew' leaves the clause in normal order, but a fronted 'Little' requires inversion."
         },
         {
           "letter": "D",
           "text": "did they know",
           "is_correct": true,
-          "feedback": "Correct inversion with 'Little'."
+          "feedback": "With a fronted 'Little' the subject 'they' follows the auxiliary 'did'."
         },
         {
           "letter": "B",
           "text": "they did know",
           "is_correct": false,
-          "feedback": "Incorrect."
+          "feedback": "'they did know' is emphatic but it is not the inversion a fronted negative requires."
         },
         {
           "letter": "C",
           "text": "had they known",
           "is_correct": false,
-          "feedback": "Possible, but B is common for unawareness."
+          "feedback": "'had they known' is the past perfect, which would place the unawareness in the past."
         }
       ],
       "correct_answer": "D",
@@ -246,25 +246,25 @@
           "letter": "B",
           "text": "did / rang",
           "is_correct": false,
-          "feedback": "Incorrect."
+          "feedback": "'Did / rang' would need the base form after 'did', and it loses the completion implied by 'no sooner'."
         },
         {
           "letter": "A",
           "text": "had / rung",
           "is_correct": true,
-          "feedback": "Correct 'No sooner... than' structure with Past Perfect inversion."
+          "feedback": "The 'No sooner... than' structure puts the event in the past perfect before 'than'."
         },
         {
           "letter": "C",
           "text": "have / rung",
           "is_correct": false,
-          "feedback": "Incorrect tense."
+          "feedback": "'Have rung' is the present perfect, which cannot precede 'than' in this completed-sequence structure."
         },
         {
           "letter": "D",
           "text": "were / ringing",
           "is_correct": false,
-          "feedback": "Incorrect."
+          "feedback": "'Were ringing' is progressive and does not express the completed action before 'than'."
         }
       ],
       "correct_answer": "A",
@@ -292,25 +292,25 @@
           "letter": "A",
           "text": "could / managed",
           "is_correct": false,
-          "feedback": "Incorrect."
+          "feedback": "'Could' after 'Only by' would need the base form, and 'managed' is not that base form."
         },
         {
           "letter": "D",
           "text": "did / manage",
           "is_correct": true,
-          "feedback": "Correct inversion with 'Only by'."
+          "feedback": "A fronted 'Only by' phrase triggers inversion: 'did the community manage', with the base verb after the subject."
         },
         {
           "letter": "B",
           "text": "they / managed",
           "is_correct": false,
-          "feedback": "No inversion."
+          "feedback": "'they managed' leaves the clause in normal order, but a fronted 'Only by' requires inversion."
         },
         {
           "letter": "C",
           "text": "had / manage",
           "is_correct": false,
-          "feedback": "Incorrect."
+          "feedback": "'Had' would require a past participle, and 'manage' is not a participle."
         }
       ],
       "correct_answer": "D",
@@ -338,25 +338,25 @@
           "letter": "A",
           "text": "are / -",
           "is_correct": false,
-          "feedback": "Possible, but B is more complete."
+          "feedback": "'Are / -' lacks the modal the sentence needs, and a bare hyphen cannot fill the second blank."
         },
         {
           "letter": "D",
           "text": "should / be allowed",
           "is_correct": true,
-          "feedback": "Correct. Modal inversion with 'Under no circumstances'."
+          "feedback": "'Under no circumstances' is a negative fronted phrase, so the modal 'should' precedes the subject and 'be allowed' follows."
         },
         {
           "letter": "B",
           "text": "they should / be",
           "is_correct": false,
-          "feedback": "No inversion."
+          "feedback": "'they should' leaves the clause uninverted, which a fronted negative requires."
         },
         {
           "letter": "C",
           "text": "must / -",
           "is_correct": false,
-          "feedback": "Incomplete."
+          "feedback": "'Must / -' is incomplete: the second blank needs the passive 'be allowed'."
         }
       ],
       "correct_answer": "D",
@@ -384,25 +384,25 @@
           "letter": "A",
           "text": "is / also",
           "is_correct": false,
-          "feedback": "Incorrect syntax for 'improve'."
+          "feedback": "'Is / also' cannot work with 'improve' as the second verb of the correlative structure."
         },
         {
           "letter": "D",
           "text": "does / also",
           "is_correct": true,
-          "feedback": "Correct 'Not only... but also' inversion with Present Simple."
+          "feedback": "In the 'Not only... but also' correlative, inversion puts 'does' before the subject and the base verb 'improve' after it."
         },
         {
           "letter": "B",
           "text": "did / also",
           "is_correct": false,
-          "feedback": "Possible, but B is general."
+          "feedback": "'Did' would need a past form, but the sentence is in the present simple."
         },
         {
           "letter": "C",
           "text": "has / also",
           "is_correct": false,
-          "feedback": "Incorrect."
+          "feedback": "'Has' would need a past participle, and 'improve' is not one."
         }
       ],
       "correct_answer": "D",
@@ -430,25 +430,25 @@
           "letter": "A",
           "text": "had / arrived",
           "is_correct": true,
-          "feedback": "Correct 'Hardly... when' structure with Past Perfect inversion."
+          "feedback": "'Had / arrived' places the arrival in the past perfect before 'when', which is what the structure requires."
         },
         {
           "letter": "B",
           "text": "did / arrive",
           "is_correct": false,
-          "feedback": "Possible, but A is standard for immediate sequence."
+          "feedback": "'Did arrive' is emphatic but does not mark the event as already completed at the moment 'when' arrives."
         },
         {
           "letter": "C",
           "text": "was / arriving",
           "is_correct": false,
-          "feedback": "Incorrect."
+          "feedback": "'Was arriving' is progressive and does not fit the completed event implied by 'when'."
         },
         {
           "letter": "D",
           "text": "has / arrived",
           "is_correct": false,
-          "feedback": "Incorrect tense."
+          "feedback": "'Has arrived' is present perfect, which cannot precede 'when' in this structure."
         }
       ],
       "correct_answer": "A",
@@ -476,25 +476,25 @@
           "letter": "A",
           "text": "is / being",
           "is_correct": false,
-          "feedback": "Possible, but B is more likely for general truth."
+          "feedback": "'Is / being' is not the passive needed here, and 'being' requires a following participle."
         },
         {
           "letter": "D",
           "text": "has / been",
           "is_correct": true,
-          "feedback": "Correct inversion with 'Seldom' in the Present Perfect Passive."
+          "feedback": "A fronted 'Seldom' triggers inversion, so 'has' precedes the subject and the passive 'been addressed' follows."
         },
         {
           "letter": "B",
           "text": "did / be",
           "is_correct": false,
-          "feedback": "Incorrect syntax."
+          "feedback": "'Did / be' is ungrammatical: 'be' cannot follow 'did' as a passive."
         },
         {
           "letter": "C",
           "text": "was / be",
           "is_correct": false,
-          "feedback": "Incorrect."
+          "feedback": "'Was / be' is ungrammatical for the same reason."
         }
       ],
       "correct_answer": "D",
@@ -522,25 +522,25 @@
           "letter": "C",
           "text": "can / -",
           "is_correct": true,
-          "feedback": "Correct inversion with 'Only if'."
+          "feedback": "A fronted 'Only if' clause triggers inversion, giving 'can we'."
         },
         {
           "letter": "A",
           "text": "we / can",
           "is_correct": false,
-          "feedback": "No inversion."
+          "feedback": "'we / can' leaves the clause in normal order, but a fronted conditional requires inversion."
         },
         {
           "letter": "B",
           "text": "will / be",
           "is_correct": false,
-          "feedback": "Possible, but A is more about ability/logic."
+          "feedback": "'will / be' would predict a future state, while the sentence describes a condition in the present."
         },
         {
           "letter": "D",
           "text": "did / -",
           "is_correct": false,
-          "feedback": "Incorrect."
+          "feedback": "'Did' would require a past form and would leave no room for the infinitive 'hope'."
         }
       ],
       "correct_answer": "C",
