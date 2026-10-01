@@ -2,7 +2,7 @@
 id: "CO-SOC-6-2026-W06-la-convivencia-y-los-derechos-humanos-001-MASTERY-bundle"
 country: "colombia"
 grado: 6
-asignatura: "ciencias-sociales"
+asignatura: "sociales-ciudadanas"
 tema: "la-convivencia-y-los-derechos-humanos"
 periodo: "weekly"
 week: "W06"

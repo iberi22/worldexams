@@ -2,7 +2,7 @@
 id: "CO-SOC-6-2026-W05-los-procesos-democraticos-001-MASTERY-bundle"
 country: "colombia"
 grado: 6
-asignatura: "ciencias-sociales"
+asignatura: "sociales-ciudadanas"
 tema: "los-procesos-democraticos"
 periodo: "weekly"
 week: "W05"

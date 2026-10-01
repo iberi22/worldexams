@@ -2,7 +2,7 @@
 id: "CO-SOC-6-2026-W04-la-divisa-y-el-comercio-001-MASTERY-bundle"
 country: "colombia"
 grado: 6
-asignatura: "ciencias-sociales"
+asignatura: "sociales-ciudadanas"
 tema: "la-divisa-y-el-comercio"
 periodo: "weekly"
 week: "W04"
