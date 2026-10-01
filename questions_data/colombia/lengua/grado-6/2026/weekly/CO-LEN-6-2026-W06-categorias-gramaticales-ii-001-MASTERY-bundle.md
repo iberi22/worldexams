@@ -102,7 +102,7 @@ Completa la oración con la preposición adecuada: "Los bailarines caminaron ___
 - [ ] A) Sin. <!-- feedback: Incorrecto. "Sin" indica carencia, no tiene sentido en el contexto de movimiento por una vía. -->
 - [ ] B) Bajo. <!-- feedback: Incorrecto. "Bajo" indica posición inferior, lo cual no es lógico para caminar por una calle. -->
 - [x] C) Por. <!-- feedback: Correcto. La preposición "por" indica el lugar a través del cual se realiza un movimiento. -->
-- [ ] D) Contra. <!-- feedback: Incorrecto. "Contra" indica oposición o choque, no es la adecuada para describir el trayecto de un desfile. -->
+- [ ] D) Contra. <!-- feedback: Incorrecto. 'Contra' expresa oposicion o choque con algo: se usaria si los bailarines avanzaran frente a un obstaculo. Aqui nadie se opone a nadie, solo se transita por un espacio. -->
 
 ### Explicacion Pedagogica
 La preposición "por" se utiliza frecuentemente para señalar el lugar o espacio a través del cual ocurre un desplazamiento o tránsito.

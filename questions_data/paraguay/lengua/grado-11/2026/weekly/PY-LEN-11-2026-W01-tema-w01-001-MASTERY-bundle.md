@@ -31,13 +31,13 @@ calibration: {difficulty_band: "D3-D10", expected_success: 0.65}
 **Contexto:** Clase de lenguaje en PY.
 
 ### Enunciado
-En una lectura: 'El sol brillaba mientras los pajaros cantaban'. ¿Que funcion cumple?
+En una lectura: 'El patio dormia bajo la luz palida del farol'. ¿Que funcion cumple?
 
 ### Opciones
-- [x] A) Crear una atmosfera o ambiente <!-- feedback: Correcto. La opción 'Crear una atmosfera o ambiente' responde perfectamente a la consigna del enunciado basándose en las reglas lingüísticas y textuales vigentes. -->
-- [ ] B) Presentar un argumento <!-- feedback: Incorrecto. La opción 'Presentar un argumento' no es la adecuada en este contexto ya que no cumple con el criterio solicitado o presenta una confusión teórica común. -->
-- [ ] C) Narrar una secuencia <!-- feedback: Incorrecto. La opción 'Narrar una secuencia' no es la adecuada en este contexto ya que no cumple con el criterio solicitado o presenta una confusión teórica común. -->
-- [ ] D) Describir un dialogo <!-- feedback: Incorrecto. La opción 'Describir un dialogo' no es la adecuada en este contexto ya que no cumple con el criterio solicitado o presenta una confusión teórica común. -->
+- [x] A) Evocar un clima con descripcion <!-- feedback: Correcto. La imagen del farol y la luz palida levantan un clima, y evocar el ambiente de una escena es exactamente lo que hace esta descripcion. -->
+- [ ] B) Relatar un dialogo entre dos personajes <!-- feedback: Incorrecto. No hay ni una palabra hablada ni alguien a quien escuchar: el patio aparece solo, de noche, y el fragmento no contiene ningun intercambio. -->
+- [ ] C) Defender una tesis sobre el barrio <!-- feedback: Incorrecto. Una tesis exige razones que sostengan una afirmacion general, y el fragmento se limita a mostrar un lugar en un momento dado. -->
+- [ ] D) Instruir al lector sobre como recorrer el patio <!-- feedback: Incorrecto. No hay ninguna recomendacion ni verbo en imperativo: el fragmento observa, no indica que debe hacerse ni como. -->
 
 ### Explicacion Pedagogica
 Las descripciones ayudan a crear la atmosfera en la narracion.
@@ -52,13 +52,13 @@ Las descripciones ayudan a crear la atmosfera en la narracion.
 **Contexto:** Clase de lenguaje en PY.
 
 ### Enunciado
-¿Cual es la funcion del lenguaje en: '¡Feliz cumpleanos!'?
+¿Cual es la funcion del lenguaje en: '¡Que gusto verte de nuevo!'?
 
 ### Opciones
-- [x] A) Funcion expresiva o emotiva <!-- feedback: Correcto. La opción 'Funcion expresiva o emotiva' responde perfectamente a la consigna del enunciado basándose en las reglas lingüísticas y textuales vigentes. -->
-- [ ] B) Funcion referencial <!-- feedback: Incorrecto. La opción 'Funcion referencial' no es la adecuada en este contexto ya que no cumple con el criterio solicitado o presenta una confusión teórica común. -->
-- [ ] C) Funcion apelativa <!-- feedback: Incorrecto. La opción 'Funcion apelativa' no es la adecuada en este contexto ya que no cumple con el criterio solicitado o presenta una confusión teórica común. -->
-- [ ] D) Funcion metalinguistica <!-- feedback: Incorrecto. La opción 'Funcion metalinguistica' no es la adecuada en este contexto ya que no cumple con el criterio solicitado o presenta una confusión teórica común. -->
+- [x] A) Funcion expresiva o emotiva <!-- feedback: Correcto. La frase expresa una sensacion de quien habla y no informa de nada comprobable; esa manifestacion de un estado de animo es la funcion expresiva. -->
+- [ ] B) Funcion referencial <!-- feedback: Incorrecto. Referencial seria trasmitir datos verificables sobre una persona, un lugar o un hecho, y aqui solo se comunica una emocion. -->
+- [ ] C) Funcion apelativa <!-- feedback: Incorrecto. La apelativa busca una reaccion del receptor, con tratamiento de tu o usted o con un ruego directo; esta exclamacion no pide respuesta a nadie. -->
+- [ ] D) Funcion fática <!-- feedback: Incorrecto. La fatica se limita a comprobar que el canal sigue abierto, con 'si' o 'hola'; aqui se comunica un contenido, no se prueba la comunicacion. -->
 
 ### Explicacion Pedagogica
 La funcion expresiva se centra en el emisor y expresa sentimientos.
@@ -73,13 +73,13 @@ La funcion expresiva se centra en el emisor y expresa sentimientos.
 **Contexto:** Clase de lenguaje en PY.
 
 ### Enunciado
-Identifica el conector: Pilar es hermosa, ____ su gente es acogedora.
+Identifica el conector: San Juan Bautista es hermosa, ____ su gente es acogedora.
 
 ### Opciones
-- [x] A) ademas <!-- feedback: Correcto. La opción 'ademas' responde perfectamente a la consigna del enunciado basándose en las reglas lingüísticas y textuales vigentes. -->
-- [ ] B) sin embargo <!-- feedback: Incorrecto. La opción 'sin embargo' no es la adecuada en este contexto ya que no cumple con el criterio solicitado o presenta una confusión teórica común. -->
-- [ ] C) por lo tanto <!-- feedback: Incorrecto. La opción 'por lo tanto' no es la adecuada en este contexto ya que no cumple con el criterio solicitado o presenta una confusión teórica común. -->
-- [ ] D) aunque <!-- feedback: Incorrecto. La opción 'aunque' no es la adecuada en este contexto ya que no cumple con el criterio solicitado o presenta una confusión teórica común. -->
+- [x] A) ademas <!-- feedback: Correcto. 'Ademas' es un conector aditivo: suma un rasgo nuevo sin contradecir lo expuesto antes. Aqui la hermosura de San Juan Bautista y la cordialidad de su gente son dos datos que se acumulan y ninguno anula al otro. -->
+- [ ] B) sin embargo <!-- feedback: Incorrecto. 'Sin embargo' es adversativo: introduce una idea que se opone a lo que se habia dicho. En esta oracion las dos proposiciones se refuerzan, porque la gente de San Juan Bautista no contradice a su ciudad, asi que una oposicion seria falsa. -->
+- [ ] C) por lo tanto <!-- feedback: Incorrecto. 'Por lo tanto' es conclusivo: la segunda proposicion deduce una consecuencia de la primera. Aqui no hay deduccion, sino dos caracteristicas de San Juan Bautista que se acumulan sin derivarse una de otra. -->
+- [ ] D) aunque <!-- feedback: Incorrecto. 'Aunque' introduce una concesion: lo que va detras se opone a lo esperado. La segunda proposicion no contradice la primera, la completa, asi que este conector tampoco corresponde. -->
 
 ### Explicacion Pedagogica
 El conector 'ademas' anade informacion.
@@ -97,10 +97,10 @@ El conector 'ademas' anade informacion.
 ¿Cual oracion esta correctamente escrita?
 
 ### Opciones
-- [x] A) Los estudiantes del Colegio Nacional Salto del Guaira estudian mucho. <!-- feedback: Correcto. La opción 'Los estudiantes del Colegio Nacional Salto del Guaira estudian mucho.' responde perfectamente a la consigna del enunciado basándose en las reglas lingüísticas y textuales vigentes. -->
-- [ ] B) Los estudiantes de la escuela estudian poco. <!-- feedback: Incorrecto. La opción 'Los estudiantes de la escuela estudian poco.' no es la adecuada en este contexto ya que no cumple con el criterio solicitado o presenta una confusión teórica común. -->
-- [ ] C) Los estudiantes del instituto no estudian nada. <!-- feedback: Incorrecto. La opción 'Los estudiantes del instituto no estudian nada.' no es la adecuada en este contexto ya que no cumple con el criterio solicitado o presenta una confusión teórica común. -->
-- [ ] D) Los estudiantes del instituto estudian mucho. <!-- feedback: Incorrecto. La opción 'Los estudiantes del instituto estudian mucho.' no es la adecuada en este contexto ya que no cumple con el criterio solicitado o presenta una confusión teórica común. -->
+- [x] A) Los estudiantes del Colegio Nacional Salto del Guaira estudian mucho. <!-- feedback: Correcto. Los nombres propios se escriben con mayuscula en cada componente y con la acentuacion que les corresponde: los topicos de Paraguay van con mayuscula y sin tilde, porque son llanas terminadas en 'a', 'o' e 'i'. -->
+- [ ] B) Los estudiantes de la escuela estudian poco. <!-- feedback: Incorrecto. La oracion esta bien redactada y con buena concordancia, pero 'la escuela' es un nombre comun que puede designar cualquier centro; el enunciado pide el nombre propio completo de la institucion, y aqui no aparece. -->
+- [ ] C) Los estudiantes del instituto no estudian nada. <!-- feedback: Incorrecto. 'El instituto' vuelve a sustituir el nombre propio por una denominacion generica. La negacion 'no estudian nada' es correcta, pero no aporta el dato que el enunciado evalua. -->
+- [ ] D) Los estudiantes del instituto estudian mucho. <!-- feedback: Incorrecto. Comparte con la correcta la concordancia y el verbo 'estudian mucho', y se diferencia en un solo punto decisivo: emplea 'el instituto', un nombre comun, en lugar del nombre oficial completo. -->
 
 ### Explicacion Pedagogica
 La opcion A sigue las normas ortograficas correctamente.
@@ -115,13 +115,13 @@ La opcion A sigue las normas ortograficas correctamente.
 **Contexto:** Clase de lenguaje en PY.
 
 ### Enunciado
-En la oracion 'El libro de poesia es fascinante'. ¿Que funcion cumple la subordinada?
+En la oracion 'La novela que leimos es un clasico'. ¿Que funcion cumple la subordinada?
 
 ### Opciones
-- [x] B) Adjetiva o de relativo <!-- feedback: Correcto. La opción 'Adjetiva o de relativo' responde perfectamente a la consigna del enunciado basándose en las reglas lingüísticas y textuales vigentes. -->
-- [ ] A) Sustantiva <!-- feedback: Incorrecto. La opción 'Sustantiva' no es la adecuada en este contexto ya que no cumple con el criterio solicitado o presenta una confusión teórica común. -->
-- [ ] C) Adverbial <!-- feedback: Incorrecto. La opción 'Adverbial' no es la adecuada en este contexto ya que no cumple con el criterio solicitado o presenta una confusión teórica común. -->
-- [ ] D) Coordinada copulativa <!-- feedback: Incorrecto. La opción 'Coordinada copulativa' no es la adecuada en este contexto ya que no cumple con el criterio solicitado o presenta una confusión teórica común. -->
+- [x] B) Adjetiva o de relativo <!-- feedback: Correcto. La subordinada ocupa el lugar de un adjetivo y califica al sustantivo, indicandolo que es de ese tipo. -->
+- [ ] A) Sustantiva <!-- feedback: Incorrecto. Seria sustantiva si ocupara el lugar de un sustantivo completo de la oracion. Aqui no ocupa ese lugar: se limita a calificar al sustantivo. -->
+- [ ] C) Adverbial <!-- feedback: Incorrecto. Seria adverbial si modificara al verbo respondiendo a cuando, por que o de que manera. Aqui no responde a nada de eso, sino que senala de que tipo es el sustantivo. -->
+- [ ] D) Coordinada copulativa <!-- feedback: Incorrecto. No hay coordinacion alguna: la copulativa une dos sujetos o dos verbos con 'y'. Esa subordinada depende de un sustantivo, de modo que no coordina con nada. -->
 
 ### Explicacion Pedagogica
 Las oraciones subordinadas adjetivas complementan a un nombre.
@@ -136,13 +136,13 @@ Las oraciones subordinadas adjetivas complementan a un nombre.
 **Contexto:** Clase de lenguaje en PY.
 
 ### Enunciado
-¿Cual de estas palabras lleva tilde segun las reglas de acentuacion?
+¿Cual de estas palabras esdrújulas esta escrita correctamente?
 
 ### Opciones
-- [x] A) examen <!-- feedback: Correcto. La opción 'examen' responde perfectamente a la consigna del enunciado basándose en las reglas lingüísticas y textuales vigentes. -->
-- [ ] B) sol <!-- feedback: Incorrecto. La opción 'sol' no es la adecuada en este contexto ya que no cumple con el criterio solicitado o presenta una confusión teórica común. -->
-- [ ] C) papel <!-- feedback: Incorrecto. La opción 'papel' no es la adecuada en este contexto ya que no cumple con el criterio solicitado o presenta una confusión teórica común. -->
-- [ ] D) jamas <!-- feedback: Incorrecto. La opción 'jamas' no es la adecuada en este contexto ya que no cumple con el criterio solicitado o presenta una confusión teórica común. -->
+- [x] A) página <!-- feedback: Correcto. 'Página' es esdrijula y toda esdrijula lleva tilde en la antepenultima silaba, de modo que la grafia con tilde sobre la 'a' es la correcta. -->
+- [ ] B) pagina <!-- feedback: Incorrecto. Las letras son las correctas pero le falta la tilde: toda esdrijula la lleva siempre, sobre la antepenultima silaba. -->
+- [ ] C) pàgina <!-- feedback: Incorrecto. La tilde esta en la vocal equivocada: la 'a' de 'pagina' es la antepenultima y es la que debe llevar el acento grafico. -->
+- [ ] D) pagína <!-- feedback: Incorrecto. El acento grafico cae sobre la 'i', que es la ultima vocal y no la antepenultima; por eso esa palabra no seria esdrijula acentuada. -->
 
 ### Explicacion Pedagogica
 Las palabras llanas terminadas en consonante distinta de n/s llevan tilde.
@@ -157,13 +157,13 @@ Las palabras llanas terminadas en consonante distinta de n/s llevan tilde.
 **Contexto:** Clase de lenguaje en PY.
 
 ### Enunciado
-¿Que figura literaria se emplea en 'tus ojos son dos luceros'?
+¿Que figura literaria se emplea en 'tu voz fue un rio de plata'?
 
 ### Opciones
-- [x] C) Metafora <!-- feedback: Correcto. La opción 'Metafora' responde perfectamente a la consigna del enunciado basándose en las reglas lingüísticas y textuales vigentes. -->
-- [ ] A) Comparacion <!-- feedback: Incorrecto. La opción 'Comparacion' no es la adecuada en este contexto ya que no cumple con el criterio solicitado o presenta una confusión teórica común. -->
-- [ ] B) Hiparbole <!-- feedback: Incorrecto. La opción 'Hiparbole' no es la adecuada en este contexto ya que no cumple con el criterio solicitado o presenta una confusión teórica común. -->
-- [ ] D) Personificacion <!-- feedback: Incorrecto. La opción 'Personificacion' no es la adecuada en este contexto ya que no cumple con el criterio solicitado o presenta una confusión teórica común. -->
+- [x] C) Metafora <!-- feedback: Correcto. La identificacion es directa y no hay nexo comparativo: un termino real se presenta como otro por semejanza, sin 'como' ni 'parecido a'. -->
+- [ ] A) Comparacion <!-- feedback: Incorrecto. Una comparacion necesita un nexo explicito ('como', 'parecido a', 'semejante a') que aqui no aparece; la imagen se establece por identificacion directa. -->
+- [ ] B) Hiparbole <!-- feedback: Incorrecto. No hay exageracion ni aumento del sentido para reforzar un efecto: la imagen se limita a aproximar dos cosas sin exceder lo verosimil. -->
+- [ ] D) Personificacion <!-- feedback: Incorrecto. No se atribuye accion, emocion ni voluntad a un elemento no humano; lo que se compara son partes de la persona, que siguen siendo suyas. -->
 
 ### Explicacion Pedagogica
 La metafora identifica un termino real con uno imaginario por su semejanza.
@@ -178,13 +178,13 @@ La metafora identifica un termino real con uno imaginario por su semejanza.
 **Contexto:** Clase de lenguaje en PY.
 
 ### Enunciado
-¿Cómo se escribe correctamente en plural la palabra 'examen' según las reglas de acentuación?
+¿Cómo se escribe correctamente en plural la palabra 'cancion' segun las reglas de acentuación?
 
 ### Opciones
-- [ ] A) examenes <!-- feedback: Incorrecto. La opción 'examenes' no es la adecuada en este contexto ya que no cumple con el criterio solicitado o presenta una confusión teórica común. -->
-- [x] C) exámenes <!-- feedback: Correcto. 'Exámenes' es una palabra esdrújula, por lo que siempre lleva tilde en la antepenúltima sílaba. -->
-- [ ] B) examénes <!-- feedback: Incorrecto. La opción 'examénes' no es la adecuada en este contexto ya que no cumple con el criterio solicitado o presenta una confusión teórica común. -->
-- [ ] D) examene's <!-- feedback: Incorrecto. La opción 'examene's' no es la adecuada en este contexto ya que no cumple con el criterio solicitado o presenta una confusión teórica común. -->
+- [x] A) canciones <!-- feedback: Correcto. 'Canción' es esdrijula en singular, pero al pasar a plural pierde una silaba y queda llana terminada en 's', que no lleva tilde. -->
+- [ ] B) canciónes <!-- feedback: Incorrecto. Una palabra terminada en 's' jamas es aguda ni esdrijula: la tilde sobra y la forma correcta es 'canciones'. -->
+- [ ] C) cancioens <!-- feedback: Incorrecto. El plural se forma anadiendo '-es' al sustantivo, no con un 'o' intercalado ni con una 'e' final: la palabra no existe. -->
+- [ ] D) canción's <!-- feedback: Incorrecto. El apostrofo es un signo de vocativo o tratamiento, no de acentuacion, y ademas sobra la tilde porque 'canciones' es llana. -->
 
 ### Explicacion Pedagogica
 Las palabras esdrújulas llevan tilde siempre, sin excepción, en la antepenúltima sílaba.
@@ -199,13 +199,13 @@ Las palabras esdrújulas llevan tilde siempre, sin excepción, en la antepenúlt
 **Contexto:** Clase de lenguaje en PY.
 
 ### Enunciado
-¿El 'Romance de la luna, luna' de Federico Garcia Lorca es un poema de tipo?
+¿El 'Romance de San Cristobal' de Mariano Roque Alonso es un poema de tipo?
 
 ### Opciones
-- [x] C) Narrativo-lirico con elementos del romance tradicional <!-- feedback: Correcto. La opción 'Narrativo-lirico con elementos del romance tradicional' responde perfectamente a la consigna del enunciado basándose en las reglas lingüísticas y textuales vigentes. -->
-- [ ] A) Exclusivamente dramatico <!-- feedback: Incorrecto. La opción 'Exclusivamente dramatico' no es la adecuada en este contexto ya que no cumple con el criterio solicitado o presenta una confusión teórica común. -->
-- [ ] B) Ensayo filosofico en verso <!-- feedback: Incorrecto. La opción 'Ensayo filosofico en verso' no es la adecuada en este contexto ya que no cumple con el criterio solicitado o presenta una confusión teórica común. -->
-- [ ] D) Poema epico clasico <!-- feedback: Incorrecto. La opción 'Poema epico clasico' no es la adecuada en este contexto ya que no cumple con el criterio solicitado o presenta una confusión teórica común. -->
+- [x] C) Narrativo-lirico con elementos del romance tradicional <!-- feedback: Correcto. El poema cuenta un suceso en el que aparece un nombre propio y conserva el ritmo versificado del romance tradicional, de modo que combina narracion y lirismo. -->
+- [ ] A) Exclusivamente dramatico <!-- feedback: Incorrecto. No hay personajes dialogando ni conflicto teatral: el suceso se narra en verso, no se representa ante un publico. -->
+- [ ] B) Poema epico clasico <!-- feedback: Incorrecto. Lo epico narra hazañas de grandes personajes en tono heroico, y aqui el poema canta un suceso breve de un tema tradicional. -->
+- [ ] D) Ensayo filosofico en verso <!-- feedback: Incorrecto. No desarrolla una reflexion argumentada sobre una idea; recupera un motivo del folclore y lo canta, no lo razona. -->
 
 ### Explicacion Pedagogica
 Lorca utiliza la estructura del romance tradicional para crear un poema narrativo-lirico.
@@ -223,10 +223,10 @@ Lorca utiliza la estructura del romance tradicional para crear un poema narrativ
 En el Colegio Nacional San Lorenzo de San Lorenzo, analizando un texto. ¿Cual es la idea principal?
 
 ### Opciones
-- [x] A) El agua es esencial para la vida y debe cuidarse <!-- feedback: Correcto. La opción 'El agua es esencial para la vida y debe cuidarse' responde perfectamente a la consigna del enunciado basándose en las reglas lingüísticas y textuales vigentes. -->
-- [ ] B) El agua solo se usa para beber <!-- feedback: Incorrecto. La opción 'El agua solo se usa para beber' no es la adecuada en este contexto ya que no cumple con el criterio solicitado o presenta una confusión teórica común. -->
-- [ ] C) El agua no es importante <!-- feedback: Incorrecto. La opción 'El agua no es importante' no es la adecuada en este contexto ya que no cumple con el criterio solicitado o presenta una confusión teórica común. -->
-- [ ] D) El agua es un recurso infinito <!-- feedback: Incorrecto. La opción 'El agua es un recurso infinito' no es la adecuada en este contexto ya que no cumple con el criterio solicitado o presenta una confusión teórica común. -->
+- [x] A) El agua es esencial para la vida y debe cuidarse <!-- feedback: Correcto. La idea principal sostiene que el agua es un recurso vital y que hay que cuidarla; las demas opciones recortan ese mensaje o lo contradicen. -->
+- [ ] B) El agua solo se usa para beber <!-- feedback: Incorrecto. Reduce el agua a un solo uso domestico. El texto la presenta como recurso vital para la vida en general, not unicamente como algo con que beber. -->
+- [ ] C) El agua no es importante <!-- feedback: Incorrecto. Contradice de frente al texto: si el agua careciera de importancia, no tendria sentido que el texto insistiera en su cuidado. Una idea principal entre las opciones no puede negar lo que el propio texto afirma. -->
+- [ ] D) El agua es un recurso infinito <!-- feedback: Incorrecto. Afirma que el agua es inagotable y con ello borra la necesidad de cuidarla, que es justamente la tesis que el texto sostiene. -->
 
 ### Explicacion Pedagogica
 El texto destaca la importancia del agua como recurso vital.
@@ -241,19 +241,17 @@ El texto destaca la importancia del agua como recurso vital.
 **Contexto:** Clase de lenguaje en PY.
 
 ### Enunciado
-En una lectura: 'El sol brillaba mientras los pajaros cantaban'. ¿Que funcion cumple?
+En la oración 'A pesar de la lluvia, salimos a pasear', ¿qué valor tiene la expresión resaltada?
 
 ### Opciones
-- [x] C) Crear una atmosfera o ambiente <!-- feedback: Correcto. La opción 'Crear una atmosfera o ambiente' responde perfectamente a la consigna del enunciado basándose en las reglas lingüísticas y textuales vigentes. -->
-- [ ] A) Presentar un argumento <!-- feedback: Incorrecto. La opción 'Presentar un argumento' no es la adecuada en este contexto ya que no cumple con el criterio solicitado o presenta una confusión teórica común. -->
-- [ ] B) Narrar una secuencia <!-- feedback: Incorrecto. La opción 'Narrar una secuencia' no es la adecuada en este contexto ya que no cumple con el criterio solicitado o presenta una confusión teórica común. -->
-- [ ] D) Describir un dialogo <!-- feedback: Incorrecto. La opción 'Describir un dialogo' no es la adecuada en este contexto ya que no cumple con el criterio solicitado o presenta una confusión teórica común. -->
+- [x] A) Concesiva, porque introduce un obstáculo que no impide la acción principal <!-- feedback: Correcto: la locución 'a pesar de' introduce un argumento que se opone a la conclusión 'salimos a pasear', por eso es concessiva. -->
+- [ ] B) Causal, porque explica la razón de la lluvia <!-- feedback: La causa de la lluvia no se explica aquí; lo que se marca es un obstáculo que contrasta con la acción principal. -->
+- [ ] C) Temporal, porque sitúa el hecho en el pasado <!-- feedback: Ninguna expresión del enunciado indica tiempo verbal, así que no es una relación temporal. -->
+- [ ] D) Final, porque indica el propósito de la salida <!-- feedback: El propósito aparecería con 'para' o 'con el fin de', no con una locución que señala oposición. -->
 
 ### Explicacion Pedagogica
+Las proposiciones adversativas y concessivas presentan un dato que se opone a lo esperado. En 'a pesar de la lluvia, salimos a pasear' queda claro que la lluvia no impidió la paseo, y por eso la relación es concessiva.## Explicacion Pedagogica
 Las descripciones ayudan a crear la atmosfera en la narracion.
-
----
-
 ## Question 12 [D7-D8]
 **ID:** PY-LEN-11-2026-W01-tema-w01-001-MASTERY-bundle-v12
 **Bloom:** Remember
@@ -262,19 +260,17 @@ Las descripciones ayudan a crear la atmosfera en la narracion.
 **Contexto:** Clase de lenguaje en PY.
 
 ### Enunciado
-¿Cual es la funcion del lenguaje en: '¡Feliz cumpleanos!'?
+¿Cuál de las siguientes oraciones usa correctamente la coma para separar un inciso explicativo?
 
 ### Opciones
-- [x] C) Funcion expresiva o emotiva <!-- feedback: Correcto. La opción 'Funcion expresiva o emotiva' responde perfectamente a la consigna del enunciado basándose en las reglas lingüísticas y textuales vigentes. -->
-- [ ] A) Funcion referencial <!-- feedback: Incorrecto. La opción 'Funcion referencial' no es la adecuada en este contexto ya que no cumple con el criterio solicitado o presenta una confusión teórica común. -->
-- [ ] B) Funcion apelativa <!-- feedback: Incorrecto. La opción 'Funcion apelativa' no es la adecuada en este contexto ya que no cumple con el criterio solicitado o presenta una confusión teórica común. -->
-- [ ] D) Funcion metalinguistica <!-- feedback: Incorrecto. La opción 'Funcion metalinguistica' no es la adecuada en este contexto ya que no cumple con el criterio solicitado o presenta una confusión teórica común. -->
+- [x] A) El libro, que fue comprado ayer, llegó a la biblioteca. <!-- feedback: Correcto: el inciso 'que fue comprado ayer' interrumpe al sujeto y las comas lo delimitan correctamente. -->
+- [ ] B) El libro que fue comprado ayer llegó a la biblioteca. <!-- feedback: Sin comas, 'que fue comprado ayer' puede leerse como parte del sujeto; si es un inciso debe delimitarse con comas. -->
+- [ ] C) El libro, que fue comprado ayer llegó a la biblioteca. <!-- feedback: Falta la coma de cierre: la que abre el inciso debe corresponderse con otra que lo termine. -->
+- [ ] D) El libro que, fue comprado ayer, llegó a la biblioteca. <!-- feedback: La coma se coloca después de 'comprado' en lugar de tras el relativo, lo que produce una pausa incorrecta. -->
 
 ### Explicacion Pedagogica
+Un inciso es un grupo de palabras que interrumpe la oración y puede eliminarse sin perder su sentido. Va entre dos comas que lo aíslan del resto.## Explicacion Pedagogica
 La funcion expresiva se centra en el emisor y expresa sentimientos.
-
----
-
 ## Question 13 [D7-D8]
 **ID:** PY-LEN-11-2026-W01-tema-w01-001-MASTERY-bundle-v13
 **Bloom:** Apply
@@ -286,10 +282,10 @@ La funcion expresiva se centra en el emisor y expresa sentimientos.
 Identifica el conector: Aregua es hermosa, ____ su gente es acogedora.
 
 ### Opciones
-- [x] C) ademas <!-- feedback: Correcto. La opción 'ademas' responde perfectamente a la consigna del enunciado basándose en las reglas lingüísticas y textuales vigentes. -->
-- [ ] A) sin embargo <!-- feedback: Incorrecto. La opción 'sin embargo' no es la adecuada en este contexto ya que no cumple con el criterio solicitado o presenta una confusión teórica común. -->
-- [ ] B) por lo tanto <!-- feedback: Incorrecto. La opción 'por lo tanto' no es la adecuada en este contexto ya que no cumple con el criterio solicitado o presenta una confusión teórica común. -->
-- [ ] D) aunque <!-- feedback: Incorrecto. La opción 'aunque' no es la adecuada en este contexto ya que no cumple con el criterio solicitado o presenta una confusión teórica común. -->
+- [x] C) ademas <!-- feedback: Correcto. 'Ademas' es un conector aditivo: suma un rasgo nuevo sin contradecir lo expuesto antes. Aqui la hermosura de Aregua y la cordialidad de su gente son dos datos que se acumulan y ninguno anula al otro. -->
+- [ ] A) sin embargo <!-- feedback: Incorrecto. 'Sin embargo' es adversativo: introduce una idea que se opone a lo que se habia dicho. En esta oracion las dos proposiciones se refuerzan, porque la gente de Aregua no contradice a su ciudad, asi que una oposicion seria falsa. -->
+- [ ] B) por lo tanto <!-- feedback: Incorrecto. 'Por lo tanto' es conclusivo: la segunda proposicion deduce una consecuencia de la primera. Aqui no hay deduccion, sino dos caracteristicas de Aregua que se acumulan sin derivarse una de otra. -->
+- [ ] D) aunque <!-- feedback: Incorrecto. 'Aunque' introduce una concesion: lo que va detras se opone a lo esperado. La segunda proposicion no contradice la primera, la completa, asi que este conector tampoco corresponde. -->
 
 ### Explicacion Pedagogica
 El conector 'ademas' anade informacion.
@@ -304,13 +300,13 @@ El conector 'ademas' anade informacion.
 **Contexto:** Clase de lenguaje en PY.
 
 ### Enunciado
-¿Cual oracion esta correctamente escrita?
+¿Cual oracion utiliza correctamente el nombre propio completo de la institucion educativa?
 
 ### Opciones
-- [x] A) Los estudiantes del Colegio Nacional Capata estudian mucho. <!-- feedback: Correcto. La opción 'Los estudiantes del Colegio Nacional Capata estudian mucho.' responde perfectamente a la consigna del enunciado basándose en las reglas lingüísticas y textuales vigentes. -->
-- [ ] B) Los estudiantes de la escuela estudian poco. <!-- feedback: Incorrecto. La opción 'Los estudiantes de la escuela estudian poco.' no es la adecuada en este contexto ya que no cumple con el criterio solicitado o presenta una confusión teórica común. -->
-- [ ] C) Los estudiantes del instituto no estudian nada. <!-- feedback: Incorrecto. La opción 'Los estudiantes del instituto no estudian nada.' no es la adecuada en este contexto ya que no cumple con el criterio solicitado o presenta una confusión teórica común. -->
-- [ ] D) Los estudiantes del instituto estudian mucho. <!-- feedback: Incorrecto. La opción 'Los estudiantes del instituto estudian mucho.' no es la adecuada en este contexto ya que no cumple con el criterio solicitado o presenta una confusión teórica común. -->
+- [x] A) Los estudiantes del Colegio Nacional Capata estudian mucho. <!-- feedback: Correcto. Los nombres propios se escriben con mayuscula en cada componente y con la acentuacion que les corresponde: los topicos de Paraguay van con mayuscula y sin tilde, porque son llanas terminadas en 'a', 'o' e 'i'. -->
+- [ ] B) Los estudiantes de la escuela estudian poco. <!-- feedback: Incorrecto. La oracion esta bien redactada y con buena concordancia, pero 'la escuela' es un nombre comun que puede designar cualquier centro; el enunciado pide el nombre propio completo de la institucion, y aqui no aparece. -->
+- [ ] C) Los estudiantes del instituto no estudian nada. <!-- feedback: Incorrecto. 'El instituto' vuelve a sustituir el nombre propio por una denominacion generica. La negacion 'no estudian nada' es correcta, pero no aporta el dato que el enunciado evalua. -->
+- [ ] D) Los estudiantes del instituto estudian mucho. <!-- feedback: Incorrecto. Comparte con la correcta la concordancia y el verbo 'estudian mucho', y se diferencia en un solo punto decisivo: emplea 'el instituto', un nombre comun, en lugar del nombre oficial completo. -->
 
 ### Explicacion Pedagogica
 La opcion A sigue las normas ortograficas correctamente.
@@ -325,13 +321,13 @@ La opcion A sigue las normas ortograficas correctamente.
 **Contexto:** Clase de lenguaje en PY.
 
 ### Enunciado
-En la oracion 'El libro azul es fascinante'. ¿Que funcion cumple la subordinada?
+En la oracion 'El cuaderno que compre es nuevo'. ¿Que funcion cumple la subordinada?
 
 ### Opciones
-- [x] A) Adjetiva o de relativo <!-- feedback: Correcto. La opción 'Adjetiva o de relativo' responde perfectamente a la consigna del enunciado basándose en las reglas lingüísticas y textuales vigentes. -->
-- [ ] B) Sustantiva <!-- feedback: Incorrecto. La opción 'Sustantiva' no es la adecuada en este contexto ya que no cumple con el criterio solicitado o presenta una confusión teórica común. -->
-- [ ] C) Adverbial <!-- feedback: Incorrecto. La opción 'Adverbial' no es la adecuada en este contexto ya que no cumple con el criterio solicitado o presenta una confusión teórica común. -->
-- [ ] D) Coordinada copulativa <!-- feedback: Incorrecto. La opción 'Coordinada copulativa' no es la adecuada en este contexto ya que no cumple con el criterio solicitado o presenta una confusión teórica común. -->
+- [x] A) Adjetiva o de relativo <!-- feedback: Correcto. La subordinada ocupa el lugar de un adjetivo y califica al sustantivo, indicandolo que es de ese tipo. -->
+- [ ] B) Sustantiva <!-- feedback: Incorrecto. Seria sustantiva si ocupara el lugar de un sustantivo completo de la oracion. Aqui no ocupa ese lugar: se limita a calificar al sustantivo. -->
+- [ ] C) Adverbial <!-- feedback: Incorrecto. Seria adverbial si modificara al verbo respondiendo a cuando, por que o de que manera. Aqui no responde a nada de eso, sino que senala de que tipo es el sustantivo. -->
+- [ ] D) Coordinada copulativa <!-- feedback: Incorrecto. No hay coordinacion alguna: la copulativa une dos sujetos o dos verbos con 'y'. Esa subordinada depende de un sustantivo, de modo que no coordina con nada. -->
 
 ### Explicacion Pedagogica
 Las oraciones subordinadas adjetivas complementan a un nombre.
@@ -346,13 +342,13 @@ Las oraciones subordinadas adjetivas complementan a un nombre.
 **Contexto:** Clase de lenguaje en PY.
 
 ### Enunciado
-¿Cual de estas palabras lleva tilde segun las reglas de acentuacion?
+¿Cual de estas palabras lleva tilde por ser esdrijula?
 
 ### Opciones
-- [x] D) arbol <!-- feedback: Correcto. La opción 'arbol' responde perfectamente a la consigna del enunciado basándose en las reglas lingüísticas y textuales vigentes. -->
-- [ ] A) casa <!-- feedback: Incorrecto. La opción 'casa' no es la adecuada en este contexto ya que no cumple con el criterio solicitado o presenta una confusión teórica común. -->
-- [ ] B) calor <!-- feedback: Incorrecto. La opción 'calor' no es la adecuada en este contexto ya que no cumple con el criterio solicitado o presenta una confusión teórica común. -->
-- [ ] C) pared <!-- feedback: Incorrecto. La opción 'pared' no es la adecuada en este contexto ya que no cumple con el criterio solicitado o presenta una confusión teórica común. -->
+- [x] A) lapiz <!-- feedback: Correcto. 'Lapiz' conserva tres silabas con el acento en la antepenultima, de modo que es esdrijula y lleva tilde siempre. -->
+- [ ] B) ciudad <!-- feedback: Incorrecto. 'Ciudad' es llana y terminada en 'd', que si lleva tilde, pero lo hace por la regla de las llanas, no por ser esdrijula. -->
+- [ ] C) joven <!-- feedback: Incorrecto. 'Joven' es llana y terminada en 'n', que nunca lleva tilde, y ademas tiene dos silabas, no tres. -->
+- [ ] D) examen <!-- feedback: Incorrecto. 'Examen' tambien es esdrijula y lleva tilde, pero la palabra pedida se presenta sin tilde en la opcion, de modo que la grafia es incorrecta. -->
 
 ### Explicacion Pedagogica
 Las palabras llanas terminadas en consonante distinta de n/s llevan tilde.
@@ -367,19 +363,17 @@ Las palabras llanas terminadas en consonante distinta de n/s llevan tilde.
 **Contexto:** Clase de lenguaje en PY.
 
 ### Enunciado
-¿Que figura literaria se emplea en 'tus ojos son dos luceros'?
+¿Cuál es la forma correcta de escribir un vocativo que dirige la palabra al profesor?
 
 ### Opciones
-- [x] C) Metafora <!-- feedback: Correcto. La opción 'Metafora' responde perfectamente a la consigna del enunciado basándose en las reglas lingüísticas y textuales vigentes. -->
-- [ ] A) Comparacion <!-- feedback: Incorrecto. La opción 'Comparacion' no es la adecuada en este contexto ya que no cumple con el criterio solicitado o presenta una confusión teórica común. -->
-- [ ] B) Hiparbole <!-- feedback: Incorrecto. La opción 'Hiparbole' no es la adecuada en este contexto ya que no cumple con el criterio solicitado o presenta una confusión teórica común. -->
-- [ ] D) Personificacion <!-- feedback: Incorrecto. La opción 'Personificacion' no es la adecuada en este contexto ya que no cumple con el criterio solicitado o presenta una confusión teórica común. -->
+- [x] A) Profésor, lea el texto por favor. <!-- feedback: Es la forma correcta: el vocativo 'profesor' no lleva tilde diacrítica porque no es una palabra llana terminada en vocal. -->
+- [ ] B) Prófesor, lea el texto por favor. <!-- feedback: La tilde diacrítica está errónea: los vocativos de dos sílabas llanas terminadas en vocal se escriben sin tilde. -->
+- [ ] C) Profesór, lea el texto por favor. <!-- feedback: El vocativo no es un sustantivo y por eso no lleva tilde diacrítica ni tilde de palabra llana. -->
+- [ ] D) Profesores, lean el texto por favor. <!-- feedback: El plural no exime de la regla: 'profesores' en vocativo sigue escribiéndose sin tilde diacrítica. -->
 
 ### Explicacion Pedagogica
+El vocativo no lleva tilde diacrítica en ningún caso, porque se dirige a la persona y no cumple la regla de las palabras llanas. El plural no cambia esa norma, de modo que 'profesores' se escribe igual.## Explicacion Pedagogica
 La metafora identifica un termino real con uno imaginario por su semejanza.
-
----
-
 ## Question 18 [D9-D10]
 **ID:** PY-LEN-11-2026-W01-tema-w01-001-MASTERY-bundle-v18
 **Bloom:** Apply
@@ -388,13 +382,13 @@ La metafora identifica un termino real con uno imaginario por su semejanza.
 **Contexto:** Clase de lenguaje en PY.
 
 ### Enunciado
-¿Cómo se escribe correctamente en plural la palabra 'árbol' según las reglas de acentuación?
+¿Cómo se escribe correctamente en plural la palabra 'lapiz' según las reglas de acentuación?
 
 ### Opciones
-- [ ] B) arboles <!-- feedback: Incorrecto. La opción 'arboles' no es la adecuada en este contexto ya que no cumple con el criterio solicitado o presenta una confusión teórica común. -->
-- [x] A) árboles <!-- feedback: Correcto. Al ser una palabra esdrújula, siempre debe llevar tilde. -->
-- [ ] C) arbolés <!-- feedback: Incorrecto. La opción 'arbolés' no es la adecuada en este contexto ya que no cumple con el criterio solicitado o presenta una confusión teórica común. -->
-- [ ] D) árbolé's <!-- feedback: Incorrecto. La opción 'árbolé's' no es la adecuada en este contexto ya que no cumple con el criterio solicitado o presenta una confusión teórica común. -->
+- [x] B) lapices <!-- feedback: Correcto. Al pasar a plural, 'lápiz' deja de ser esdrijulo y queda llana terminada en 's', que no lleva tilde. -->
+- [ ] A) lápices <!-- feedback: Incorrecto. La tilde sobra: al pasar a plural la palabra queda llana terminada en 's', y las llanas terminadas en 's' nunca llevan tilde. -->
+- [ ] C) lápíces <!-- feedback: Incorrecto. Una palabra terminada en 's' jamas es aguda: la tilde no puede caer sobre la 'i' final, de modo que esa escritura es imposible. -->
+- [ ] D) lápice's <!-- feedback: Incorrecto. El apostrofo es un signo de vocativo o tratamiento, no de acentuacion, y el plural de 'lápiz' se forma con '-es', sin ningun signo. -->
 
 ### Explicacion Pedagogica
 Las palabras esdrújulas llevan tilde siempre, sin excepción, en la antepenúltima sílaba.
@@ -409,19 +403,17 @@ Las palabras esdrújulas llevan tilde siempre, sin excepción, en la antepenúlt
 **Contexto:** Clase de lenguaje en PY.
 
 ### Enunciado
-¿El 'Romance de la luna, luna' de Federico Garcia Lorca es un poema de tipo?
+¿Qué tipo de relación establece el conector 'por eso' entre las dos proposiciones?
 
 ### Opciones
-- [x] B) Narrativo-lirico con elementos del romance tradicional <!-- feedback: Correcto. La opción 'Narrativo-lirico con elementos del romance tradicional' responde perfectamente a la consigna del enunciado basándose en las reglas lingüísticas y textuales vigentes. -->
-- [ ] A) Exclusivamente dramatico <!-- feedback: Incorrecto. La opción 'Exclusivamente dramatico' no es la adecuada en este contexto ya que no cumple con el criterio solicitado o presenta una confusión teórica común. -->
-- [ ] C) Ensayo filosofico en verso <!-- feedback: Incorrecto. La opción 'Ensayo filosofico en verso' no es la adecuada en este contexto ya que no cumple con el criterio solicitado o presenta una confusión teórica común. -->
-- [ ] D) Poema epico clasico <!-- feedback: Incorrecto. La opción 'Poema epico clasico' no es la adecuada en este contexto ya que no cumple con el criterio solicitado o presenta una confusión teórica común. -->
+- [x] A) Causal, porque la segunda proposición explica la causa de la primera <!-- feedback: Es correcto: 'por eso' introduce la consecuencia, y en este caso la lluvia es la causa de que no salieran. -->
+- [ ] B) Adversativa, porque se opone a lo expuesto antes <!-- feedback: Un conector adversativo como 'sin embargo' presentaría oposición; aquí hay consecuencia, no contraste. -->
+- [ ] C) Final, porque indica el propósito de la acción <!-- feedback: La finalidad se marcaría con 'para' o 'con el fin de', no con 'por eso'. -->
+- [ ] D) Condicional, porque expresa una hipótesis <!-- feedback: No hay hipótesis alguna: las dos proposiciones se presentan como hechos encadenados por causa y efecto. -->
 
 ### Explicacion Pedagogica
+Los conectores causales como 'porque', 'ya que' o 'por eso' enlazan dos proposiciones donde la segunda es la consecuencia de la primera, formando una oración compuesta.## Explicacion Pedagogica
 Lorca utiliza la estructura del romance tradicional para crear un poema narrativo-lirico.
-
----
-
 ## Question 20 [D9-D10]
 **ID:** PY-LEN-11-2026-W01-tema-w01-001-MASTERY-bundle-v20
 **Bloom:** Understand
@@ -433,10 +425,10 @@ Lorca utiliza la estructura del romance tradicional para crear un poema narrativ
 En el Colegio Nacional San Ignacio Guazu de San Ignacio, analizando un texto. ¿Cual es la idea principal?
 
 ### Opciones
-- [x] C) El agua es esencial para la vida y debe cuidarse <!-- feedback: Correcto. La opción 'El agua es esencial para la vida y debe cuidarse' responde perfectamente a la consigna del enunciado basándose en las reglas lingüísticas y textuales vigentes. -->
-- [ ] A) El agua solo se usa para beber <!-- feedback: Incorrecto. La opción 'El agua solo se usa para beber' no es la adecuada en este contexto ya que no cumple con el criterio solicitado o presenta una confusión teórica común. -->
-- [ ] B) El agua no es importante <!-- feedback: Incorrecto. La opción 'El agua no es importante' no es la adecuada en este contexto ya que no cumple con el criterio solicitado o presenta una confusión teórica común. -->
-- [ ] D) El agua es un recurso infinito <!-- feedback: Incorrecto. La opción 'El agua es un recurso infinito' no es la adecuada en este contexto ya que no cumple con el criterio solicitado o presenta una confusión teórica común. -->
+- [x] C) El agua es esencial para la vida y debe cuidarse <!-- feedback: Correcto. La idea principal sostiene que el agua es un recurso vital y que hay que cuidarla; las demas opciones recortan ese mensaje o lo contradicen. -->
+- [ ] A) El agua solo se usa para beber <!-- feedback: Incorrecto. Reduce el agua a un solo uso domestico. El texto la presenta como recurso vital para la vida en general, not unicamente como algo con que beber. -->
+- [ ] B) El agua no es importante <!-- feedback: Incorrecto. Contradice de frente al texto: si el agua careciera de importancia, no tendria sentido que el texto insistiera en su cuidado. Una idea principal entre las opciones no puede negar lo que el propio texto afirma. -->
+- [ ] D) El agua es un recurso infinito <!-- feedback: Incorrecto. Afirma que el agua es inagotable y con ello borra la necesidad de cuidarla, que es justamente la tesis que el texto sostiene. -->
 
 ### Explicacion Pedagogica
 El texto destaca la importancia del agua como recurso vital.
