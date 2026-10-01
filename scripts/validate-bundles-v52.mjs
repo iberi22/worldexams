@@ -78,6 +78,29 @@ function detectForeignScript(content) {
   return results;
 }
 
+// A model that has drifted mid-generation splices a fragment of another word
+// into the prose: "puedepril defender", "un relato depliedas voces", "msTZ",
+// "generarAIR", "bigER", "voseoGg", "weakhens", "tighta". The sentence keeps
+// its options, its feedbacks and its length, so every shape rule passes.
+//
+// The detectable shape is a lowercase run of letters immediately followed by an
+// uppercase run of two or more, with no space between them. Spanish and English
+// orthography never produces that inside a word, because a capital in the
+// middle of a token is either an acronym or a typo. Matching only inside a word
+// keeps "deployed" and "Study Two" out of it.
+const GLUED_TOKEN = /\b[a-z\u00C0-\u024F]{3,}[A-Z\u00C0-\u00DE]{2,}\b/g;
+
+function detectGluedTokens(content) {
+  const results = [];
+  content.split(/\r?\n/).forEach((line, i) => {
+    // Same reason as detectForeignScript: a /g regex carries lastIndex.
+    for (const m of line.matchAll(new RegExp(GLUED_TOKEN))) {
+      results.push({ line: i + 1, token: m[0] });
+    }
+  });
+  return results;
+}
+
 export function detectPlaceholder(content, fm, base) {
   if (/Pregunta de prueba \d+|Explicaci[oó]n detallada de la pregunta|Pregunta sobre\s+[\w\s-]+- Grado/i.test(content)) return true;
   // Option-text placeholders only when the WHOLE option text is the placeholder
@@ -419,6 +442,10 @@ export function validateFile(file, opts = { strictQuality: false, corpusHashMap:
   // occasional curly quote. Anything in the Cyrillic, CJK, Kana or Hangul
   // blocks is corruption, and a Spanish letter glued onto a Cyrillic one
   // ("voseoGg", "weakhens") is the same defect in a harder-to-see form.
+  for (const t of detectGluedTokens(content)) {
+    errors.push(`ERROR [glued-token] ${relative}:${t.line} token pegado: "${t.token}"`);
+  }
+
   for (const f of detectForeignScript(content)) {
     errors.push(
       `ERROR [foreign-script] ${relative}:${f.line} ${f.block}: "${f.sample}"`
