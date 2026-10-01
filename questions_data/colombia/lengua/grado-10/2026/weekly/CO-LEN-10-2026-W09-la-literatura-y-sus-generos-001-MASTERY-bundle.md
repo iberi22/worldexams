@@ -60,7 +60,7 @@ Los tres grandes géneros literarios son el lírico (poesía), el narrativo (pro
 - [x] B)  "Veinte poemas de amor y una canción desesperada" de Pablo Neruda
   <!-- feedback: Correcto. Esta obra es una colección de poemas, que pertenece al género lírico, caracterizado por la expresión de sentimientos. -->
 - [ ] C)  "La casa de los espíritus" de Isabel Allende
-  <!-- feedback: Incorrecto. Esta obra es una novela, que pertenece al género narrativo, no al lírico. -->
+  <!-- feedback: Incorrecto. El título y la ambientación histórica pueden hacer pensar en un texto mágico, pero la obra narra la saga de una familia con hechos, personajes y conflictos: eso la ubica en el género narrativo, no en el lírico. -->
 - [ ] D)  "Esperando a Godot" de Samuel Beckett
   <!-- feedback: Incorrecto. Esta obra es una obra de teatro, que pertenece al género dramático, no al lírico. -->
 
