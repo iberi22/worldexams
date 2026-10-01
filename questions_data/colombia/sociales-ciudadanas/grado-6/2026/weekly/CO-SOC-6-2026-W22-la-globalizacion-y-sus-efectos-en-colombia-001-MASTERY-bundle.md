@@ -33,14 +33,14 @@ Se evalúa la globalización, el comercio internacional y sus efectos económico
 ¿Qué es la globalización?
 
 ### Opciones
-- [x] A) La conexión creciente entre países mediante el comercio, la tecnología y la cultura
-  <!-- feedback: Correcto. Esa definición abarca productos, mensajes e ideas, porque el café local junto a frutas y juguetes extranjeros muestra el intercambio mundial. -->
-- [ ] B) Un juego de mesa que se vende solo en Colombia
+- [ ] A) Un juego de mesa que se vende solo en Colombia
   <!-- feedback: Incorrecto. Un juego local no conecta países, porque la globalización existe cuando bienes e ideas viajan entre naciones distintas. -->
-- [ ] C) Una fiesta que se celebra en un solo barrio
+- [ ] B) Una fiesta que se celebra en un solo barrio
   <!-- feedback: Incorrecto. La fiesta barrial une a vecinos cercanos, porque la globalización une a personas de países lejanos mediante intercambios. -->
-- [ ] D) El horario de un colegio de la ciudad
+- [ ] C) El horario de un colegio de la ciudad
   <!-- feedback: Incorrecto. El horario ordena las clases de un curso, porque la globalización ordena intercambios entre muchas naciones y no un plantel. -->
+- [x] D) La conexión creciente entre países mediante el comercio, la tecnología y la cultura
+  <!-- feedback: Correcto. Esa definición abarca productos, mensajes e ideas, porque el café local junto a frutas y juguetes extranjeros muestra el intercambio mundial. -->
 
 ### Explicacion Pedagogica
 La globalización es el proceso por el cual los países se conectan cada vez más a través del comercio de productos, la circulación de información y el intercambio cultural. Ver en un mismo estante productos de varios países es su señal más cotidiana. Comprenderla ayuda a entender por qué lo que pasa lejos también nos afecta.
@@ -56,10 +56,10 @@ La globalización es el proceso por el cual los países se conectan cada vez má
 ¿Qué es el comercio internacional?
 
 ### Opciones
-- [ ] A) Regalar cosas a los vecinos sin pedir nada a cambio
-  <!-- feedback: Incorrecto. Regalar es solidaridad sin pago, porque el comercio implica comprar y vender con un precio acordado entre las partes. -->
-- [x] B) La compra y venta de productos entre personas de distintos países
+- [x] A) La compra y venta de productos entre personas de distintos países
   <!-- feedback: Correcto. Esa definición exige cruzar fronteras, porque la mochila local se vende aquí y la camiseta llega desde Asia mediante importación. -->
+- [ ] B) Regalar cosas a los vecinos sin pedir nada a cambio
+  <!-- feedback: Incorrecto. Regalar es solidaridad sin pago, porque el comercio implica comprar y vender con un precio acordado entre las partes. -->
 - [ ] C) Guardar productos en la bodega sin venderlos nunca
   <!-- feedback: Incorrecto. Guardar sin vender es almacenar, porque el comercio existe solo cuando el producto pasa de vendedor a comprador. -->
 - [ ] D) Jugar con amigos en el parque del barrio
@@ -81,10 +81,10 @@ El comercio internacional es el intercambio de bienes y servicios entre países:
 ### Opciones
 - [ ] A) El café, porque se cultiva en el Valle del Cauca
   <!-- feedback: Incorrecto. Lo cultivado en la región es producción nacional, porque importado significa traído desde otro país y no cosechado aquí. -->
-- [x] B) El televisor, porque fue fabricado en otro país y traído a Colombia
-  <!-- feedback: Correcto. El origen define la categoría, porque un aparato hecho afuera y vendido aquí cruzó fronteras y por eso es importación. -->
-- [ ] C) Los dos son importados, porque ambos se compraron en una tienda
+- [ ] B) Los dos son importados, porque ambos se compraron en una tienda
   <!-- feedback: Incorrecto. El lugar de compra no define el origen, porque lo que cuenta es dónde se produjo: el café es nacional aunque se venda junto al televisor. -->
+- [x] C) El televisor, porque fue fabricado en otro país y traído a Colombia
+  <!-- feedback: Correcto. El origen define la categoría, porque un aparato hecho afuera y vendido aquí cruzó fronteras y por eso es importación. -->
 - [ ] D) Ninguno, porque todo lo que se vende en Cali es nacional
   <!-- feedback: Incorrecto. La ciudad de venta no borra el origen, porque un producto sigue siendo importado aunque se venda en una tienda caleña. -->
 
@@ -102,10 +102,10 @@ Para saber si algo es importado se pregunta dónde fue producido, no dónde se c
 ¿Cómo muestra ese encuentro un efecto cultural de la globalización?
 
 ### Opciones
-- [x] A) Muestra que la tecnología permite conocer y valorar culturas de otros países sin viajar
-  <!-- feedback: Correcto. El encuentro acerca músicas y ciudades lejanas, porque la conexión digital lleva ideas y costumbres de un país a otro en segundos. -->
-- [ ] B) Muestra que todos deben olvidar su propia música
+- [ ] A) Muestra que todos deben olvidar su propia música
   <!-- feedback: Incorrecto. Conocer al otro no exige olvidar lo propio, porque valorar el mariachi no borra el vallenato y enriquece a ambos. -->
+- [x] B) Muestra que la tecnología permite conocer y valorar culturas de otros países sin viajar
+  <!-- feedback: Correcto. El encuentro acerca músicas y ciudades lejanas, porque la conexión digital lleva ideas y costumbres de un país a otro en segundos. -->
 - [ ] C) Muestra que viajar ya no sirve para nada
   <!-- feedback: Incorrecto. La llamada acerca pero no reemplaza el viaje, porque conversar en línea es un primer contacto y no toda la experiencia cultural. -->
 - [ ] D) Muestra que solo un país tiene cultura valiosa
@@ -125,10 +125,10 @@ La globalización también es cultural: ideas, músicas y costumbres viajan por 
 ¿Qué desafío enfrenta la zapatería frente a los productos importados?
 
 ### Opciones
-- [ ] A) Ninguno, porque los clientes siempre compran lo más caro
-  <!-- feedback: Incorrecto. Muchos clientes miran primero el precio, porque un par barato atrae aunque dure menos y presiona al productor local. -->
-- [x] B) Competir con un precio más bajo aunque su calidad sea mejor, porque muchos compran por precio
+- [x] A) Competir con un precio más bajo aunque su calidad sea mejor, porque muchos compran por precio
   <!-- feedback: Correcto. El desafío es de precio y no de calidad, porque el importado barato se vende por economía aunque el nacional dure más tiempo. -->
+- [ ] B) Ninguno, porque los clientes siempre compran lo más caro
+  <!-- feedback: Incorrecto. Muchos clientes miran primero el precio, porque un par barato atrae aunque dure menos y presiona al productor local. -->
 - [ ] C) Cerrar para siempre sin intentar nada
   <!-- feedback: Incorrecto. Rendirse no es la única salida, porque mejorar el diseño, explicar la calidad y atender bien también atraen clientes. -->
 - [ ] D) Vender sus zapatos como si fueran importados
@@ -171,12 +171,12 @@ Cuando un país exporta, sus productores dependen también de los precios mundia
 ¿Qué conclusión se puede sacar sobre la identidad en la globalización?
 
 ### Opciones
-- [x] A) Que las culturas se mezclan, pero lo local sigue vivo cuando se celebra y se transmite
-  <!-- feedback: Correcto. La mezcla no borra automáticamente, porque ver series de afuera convive con celebrar el carnaval propio que mantiene la identidad. -->
-- [ ] B) Que la identidad local ya desapareció por completo
+- [ ] A) Que la identidad local ya desapareció por completo
   <!-- feedback: Incorrecto. El carnaval con música andina sigue celebrándose, porque mientras la comunidad practique sus fiestas lo local permanece vivo. -->
-- [ ] C) Que lo extranjero siempre es malo y debe prohibirse
+- [ ] B) Que lo extranjero siempre es malo y debe prohibirse
   <!-- feedback: Incorrecto. Conocer series y palabras de afuera enriquece, porque el problema no es lo extranjero sino olvidar lo propio por imitar sin criterio. -->
+- [x] C) Que las culturas se mezclan, pero lo local sigue vivo cuando se celebra y se transmite
+  <!-- feedback: Correcto. La mezcla no borra automáticamente, porque ver series de afuera convive con celebrar el carnaval propio que mantiene la identidad. -->
 - [ ] D) Que los jóvenes ya no tienen ninguna cultura
   <!-- feedback: Incorrecto. Los jóvenes viven una cultura mezclada, porque combinan lo global que ven con lo local que celebran en su ciudad. -->
 
@@ -196,12 +196,12 @@ La globalización mezcla culturas: llegan músicas, palabras y modas de afuera m
 ### Opciones
 - [ ] A) Solo daña al país porque todo lo importado es malo
   <!-- feedback: Incorrecto. Esa máquina mejora la producción local, porque generalizar que lo importado daña ignora que la tecnología eleva la calidad. -->
-- [x] B) Mejora la producción local y crea empleo técnico, porque combina tecnología externa con trabajo colombiano
-  <!-- feedback: Correcto. El efecto es de complemento, porque la máquina extranjera aumenta la capacidad y los técnicos locales ganan un empleo calificado. -->
-- [ ] C) Quita todo el trabajo a los colombianos
+- [ ] B) Quita todo el trabajo a los colombianos
   <!-- feedback: Incorrecto. La fábrica contrata técnicos de la región, porque la máquina necesita operadores y mantenimiento que generan empleo local. -->
-- [ ] D) No tiene ningún efecto en la economía de Pasto
+- [ ] C) No tiene ningún efecto en la economía de Pasto
   <!-- feedback: Incorrecto. Producir más y mejor sí afecta, porque aumenta la oferta de lácteos, el ingreso de trabajadores y los impuestos locales. -->
+- [x] D) Mejora la producción local y crea empleo técnico, porque combina tecnología externa con trabajo colombiano
+  <!-- feedback: Correcto. El efecto es de complemento, porque la máquina extranjera aumenta la capacidad y los técnicos locales ganan un empleo calificado. -->
 
 ### Explicacion Pedagogica
 No toda importación compite con lo nacional: algunas, como la maquinaria, potencian la producción interna. La fábrica de Pasto produce más y mejor gracias al equipo externo y emplea a técnicos locales. Distinguir entre importar para competir e importar para producir es clave para juzgar la globalización con matices.
@@ -219,12 +219,12 @@ No toda importación compite con lo nacional: algunas, como la maquinaria, poten
 ### Opciones
 - [ ] A) Los dulces importados, porque son más baratos y vienen de lejos
   <!-- feedback: Incorrecto. Lo barato sale caro para el ambiente y la región, porque el plástico contamina y el dinero se va en lugar de apoyar al productor local. -->
-- [x] B) Las frutas y bocadillos locales, porque apoyan a los productores y generan menos basura
-  <!-- feedback: Correcto. Esa compra une economía y ambiente, porque el dinero queda en el Cesar y los alimentos frescos dejan menos empaque plástico. -->
-- [ ] C) Las dos valen igual porque ambas alimentan
+- [ ] B) Las dos valen igual porque ambas alimentan
   <!-- feedback: Incorrecto. Alimentar no es el único criterio, porque una opción contamina y se lleva el dinero, y la otra sostiene empleo y cuida el entorno. -->
-- [ ] D) Ninguna, porque lo mejor es cerrar la cafetería
+- [ ] C) Ninguna, porque lo mejor es cerrar la cafetería
   <!-- feedback: Incorrecto. Cerrar quita un servicio necesario, porque la salida responsable es elegir el producto que beneficia a la comunidad y no eliminar el servicio. -->
+- [x] D) Las frutas y bocadillos locales, porque apoyan a los productores y generan menos basura
+  <!-- feedback: Correcto. Esa compra une economía y ambiente, porque el dinero queda en el Cesar y los alimentos frescos dejan menos empaque plástico. -->
 
 ### Explicacion Pedagogica
 Consumir también es decidir qué economía se apoya. Comprar local deja el ingreso en la región y suele generar menos empaque, mientras que importar lo más barato traslada el dinero y aumenta la basura. Evaluar la compra con criterios económicos y ambientales forma consumidores responsables en un mundo globalizado.

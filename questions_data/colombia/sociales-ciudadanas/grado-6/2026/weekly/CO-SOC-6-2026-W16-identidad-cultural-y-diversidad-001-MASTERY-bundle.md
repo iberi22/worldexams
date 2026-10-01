@@ -56,12 +56,12 @@ Colombia es un pais multicultural y plurietico, reconocido en la Constitucion de
 ¿Cual de los siguientes elementos es parte de la identidad cultural de una comunidad?
 
 ### Opciones
-- [x] A) La musica, la gastronomia, las fiestas y las tradiciones que se transmiten de generacion en generacion
-  <!-- feedback: Correcto. La identidad cultural incluye todos los elementos que distinguen a una comunidad: su musica, comida, fiestas, lengua, vestimenta y costumbres. -->
-- [ ] B) El idioma oficial del pais, que es el mismo para todas las comunidades
+- [ ] A) El idioma oficial del pais, que es el mismo para todas las comunidades
   <!-- feedback: Incorrecto. El idioma oficial es comun a todo el pais, pero la identidad cultural se expresa en las lenguas, musica y tradiciones especificas de cada comunidad. -->
-- [ ] C) La moneda que se usa en el pais, que es igual para todos los ciudadanos
+- [ ] B) La moneda que se usa en el pais, que es igual para todos los ciudadanos
   <!-- feedback: Incorrecto. La moneda es un elemento economico comun a todo el pais, no un rasgo cultural que distinga a una comunidad. -->
+- [x] C) La musica, la gastronomia, las fiestas y las tradiciones que se transmiten de generacion en generacion
+  <!-- feedback: Correcto. La identidad cultural incluye todos los elementos que distinguen a una comunidad: su musica, comida, fiestas, lengua, vestimenta y costumbres. -->
 - [ ] D) Las leyes del Estado, que son las mismas para todas las personas
   <!-- feedback: Incorrecto. Las leyes son normas juridicas que aplican a todos los ciudadanos; la identidad cultural se expresa en las tradiciones y costumbres, no en las leyes. -->
 
@@ -79,14 +79,14 @@ La identidad cultural es el conjunto de rasgos que distinguen a una comunidad y 
 ¿Cual de las siguientes opciones describe mejor la importancia de la gastronomia en la identidad cultural?
 
 ### Opciones
-- [x] A) La gastronomia es una expresion de la identidad cultural porque refleja los ingredientes, las tecnicas y las tradiciones de una comunidad
-  <!-- feedback: Correcto. La gastronomia es un elemento central de la identidad cultural; los platos tipicos reflejan la historia, los recursos naturales y las costumbres de cada region. -->
-- [ ] B) La gastronomia es solo una forma de alimentarse y no tiene relacion con la cultura
+- [ ] A) La gastronomia es solo una forma de alimentarse y no tiene relacion con la cultura
   <!-- feedback: Incorrecto. La gastronomia va mas alla de la alimentacion; es una expresion cultural que transmite historia, tradiciones y valores de una comunidad. -->
-- [ ] C) La gastronomia es igual en todas las regiones de Colombia
+- [ ] B) La gastronomia es igual en todas las regiones de Colombia
   <!-- feedback: Incorrecto. Cada region de Colombia tiene sus propios platos tipicos; la gastronomia varia segun los ingredientes y las tradiciones locales. -->
-- [ ] D) La gastronomia es un invento moderno que no tiene raices historicas
+- [ ] C) La gastronomia es un invento moderno que no tiene raices historicas
   <!-- feedback: Incorrecto. La gastronomia tiene profundas raices historicas; los platos tipicos se han transmitido durante generaciones y reflejan la historia de cada comunidad. -->
+- [x] D) La gastronomia es una expresion de la identidad cultural porque refleja los ingredientes, las tecnicas y las tradiciones de una comunidad
+  <!-- feedback: Correcto. La gastronomia es un elemento central de la identidad cultural; los platos tipicos reflejan la historia, los recursos naturales y las costumbres de cada region. -->
 
 ### Explicacion Pedagogica
 La gastronomia es una de las expresiones mas visibles de la identidad cultural. En Colombia, cada region tiene sus platos tipicos: el ajiaco en Bogota, el sancocho en el Valle, la bandeja paisa en Antioquia, el mote de queso en la costa Caribe, entre muchos otros. Estos platos reflejan los ingredientes disponibles en cada region, las tecnicas de cocina heredadas de los ancestros y las costumbres sociales (como las fiestas y reuniones familiares). La gastronomia es patrimonio cultural y un elemento de orgullo e identidad.
@@ -102,10 +102,10 @@ La gastronomia es una de las expresiones mas visibles de la identidad cultural. 
 ¿Cual de los siguientes ritmos musicales es originario de la region Caribe de Colombia?
 
 ### Opciones
-- [x] A) El vallenato, que nacio en la region del Cesar y La Guajira y se interpreta con acordeon, caja y guacharaca
-  <!-- feedback: Correcto. El vallenato es un ritmo tradicional de la region Caribe, especialmente de Valledupar y sus alrededores; es patrimonio cultural de Colombia. -->
-- [ ] B) El bambuco, que es originario de la region Andina
+- [ ] A) El bambuco, que es originario de la region Andina
   <!-- feedback: Incorrecto. El bambuco es un ritmo de la region Andina (Cundinamarca, Boyaca, Huila), no de la region Caribe. -->
+- [x] B) El vallenato, que nacio en la region del Cesar y La Guajira y se interpreta con acordeon, caja y guacharaca
+  <!-- feedback: Correcto. El vallenato es un ritmo tradicional de la region Caribe, especialmente de Valledupar y sus alrededores; es patrimonio cultural de Colombia. -->
 - [ ] C) El joropo, que es originario de la region de los Llanos Orientales
   <!-- feedback: Incorrecto. El joropo es el ritmo tipico de los Llanos Orientales, no de la region Caribe. -->
 - [ ] D) El currulao, que es originario de la region del Pacifico
@@ -125,14 +125,14 @@ La musica es un elemento fundamental de la identidad cultural de cada region de 
 ¿Cual es el significado del dia de la Afrocolombianidad en Colombia?
 
 ### Opciones
-- [x] A) Es una fecha para reconocer y celebrar las contribuciones de los afrocolombianos a la cultura, la historia y el desarrollo del pais
-  <!-- feedback: Correcto. El dia de la Afrocolombianidad (21 de mayo) reconoce la presencia, las luchas y las contribuciones de los afrocolombianos a la nacion. -->
-- [ ] B) Es una fecha para conmemorar la independencia de Colombia
+- [ ] A) Es una fecha para conmemorar la independencia de Colombia
   <!-- feedback: Incorrecto. La independencia de Colombia se conmemora el 20 de julio; el dia de la Afrocolombianidad es el 21 de mayo. -->
-- [ ] C) Es una fecha para celebrar la llegada de los españoles a America
+- [ ] B) Es una fecha para celebrar la llegada de los españoles a America
   <!-- feedback: Incorrecto. La llegada de los españoles se conmemora el 12 de octubre; el dia de la Afrocolombianidad celebra la cultura afrocolombiana. -->
-- [ ] D) Es una fecha para recordar la abolicion de la esclavitud en el mundo
+- [ ] C) Es una fecha para recordar la abolicion de la esclavitud en el mundo
   <!-- feedback: Incorrecto. Aunque la abolicion de la esclavitud es parte de la historia afrocolombiana, el dia de la Afrocolombianidad celebra la cultura y las contribuciones actuales de los afrocolombianos. -->
+- [x] D) Es una fecha para reconocer y celebrar las contribuciones de los afrocolombianos a la cultura, la historia y el desarrollo del pais
+  <!-- feedback: Correcto. El dia de la Afrocolombianidad (21 de mayo) reconoce la presencia, las luchas y las contribuciones de los afrocolombianos a la nacion. -->
 
 ### Explicacion Pedagogica
 El dia de la Afrocolombianidad se celebra el 21 de mayo, fecha que conmemora la abolicion de la esclavitud en Colombia (1851). Sin embargo, su significado va mas alla: es una fecha para reconocer la presencia, las luchas y las contribuciones de los afrocolombianos a la cultura, la musica, la gastronomia, la literatura y el desarrollo del pais. Es también una oportunidad para reflexionar sobre el racismo y la discriminacion que aun enfrentan las comunidades afrocolombianas y para comprometerse con la igualdad y el respeto.
@@ -171,12 +171,12 @@ Para los pueblos indigenas, la tierra (o territorio) tiene un significado que va
 ¿Cual es el impacto del mestizaje en la identidad cultural de Colombia?
 
 ### Opciones
-- [x] A) El mestizaje ha creado una identidad cultural rica y diversa, que combina elementos indigenas, africanos y europeos
-  <!-- feedback: Correcto. El mestizaje es un proceso historico que ha dado origen a una identidad cultural unica en Colombia, con influencias de las tres raices: indigena, africana y europea. -->
-- [ ] B) El mestizaje ha eliminado las culturas indigenas y africanas del pais
+- [ ] A) El mestizaje ha eliminado las culturas indigenas y africanas del pais
   <!-- feedback: Incorrecto. El mestizaje no ha eliminado las culturas indigenas y africanas; estas siguen vivas y son parte fundamental de la identidad colombiana. -->
-- [ ] C) El mestizaje ha creado una cultura homogenea sin diferencias regionales
+- [ ] B) El mestizaje ha creado una cultura homogenea sin diferencias regionales
   <!-- feedback: Incorrecto. El mestizaje no ha homogenizado la cultura colombiana; cada region tiene sus propias expresiones culturales, influenciadas por su historia y su entorno. -->
+- [x] C) El mestizaje ha creado una identidad cultural rica y diversa, que combina elementos indigenas, africanos y europeos
+  <!-- feedback: Correcto. El mestizaje es un proceso historico que ha dado origen a una identidad cultural unica en Colombia, con influencias de las tres raices: indigena, africana y europea. -->
 - [ ] D) El mestizaje es un fenomeno reciente que solo afecta a las ciudades grandes
   <!-- feedback: Incorrecto. El mestizaje es un proceso historico que se inicio hace siglos y afecta a todo el pais, no solo a las ciudades grandes. -->
 
@@ -194,10 +194,10 @@ El mestizaje es el proceso de mezcla entre diferentes grupos etnicos que se inic
 ¿Cual es la relacion entre la discriminacion y la desigualdad en Colombia?
 
 ### Opciones
-- [x] A) La discriminacion por raza o etnia perpetua la desigualdad porque limita el acceso a oportunidades de educacion, empleo y vivienda
-  <!-- feedback: Correcto. La discriminacion es una causa de desigualdad; cuando las personas son tratadas de forma diferente por su raza o etnia, se les niegan oportunidades que otros si tienen. -->
-- [ ] B) La discriminacion no tiene relacion con la desigualdad porque todos tienen las mismas oportunidades
+- [ ] A) La discriminacion no tiene relacion con la desigualdad porque todos tienen las mismas oportunidades
   <!-- feedback: Incorrecto. La discriminacion es una causa directa de desigualdad; las personas discriminadas enfrentan barreras que otros no tienen. -->
+- [x] B) La discriminacion por raza o etnia perpetua la desigualdad porque limita el acceso a oportunidades de educacion, empleo y vivienda
+  <!-- feedback: Correcto. La discriminacion es una causa de desigualdad; cuando las personas son tratadas de forma diferente por su raza o etnia, se les niegan oportunidades que otros si tienen. -->
 - [ ] C) La discriminacion solo afecta a las personas que viven en el campo
   <!-- feedback: Incorrecto. La discriminacion afecta a personas en todo el pais, tanto en el campo como en la ciudad; no es un fenomeno exclusivo del area rural. -->
 - [ ] D) La discriminacion es un problema del pasado que ya no existe en Colombia
@@ -240,12 +240,12 @@ La celebracion de fiestas tradicionales de diferentes grupos etnicos en el coleg
 ¿Por que es importante que el colegio tenga un "Mural de la Diversidad"?
 
 ### Opciones
-- [x] A) Porque visibiliza y valora la diversidad cultural del pais, promoviendo el respeto y la inclusion de todos los grupos etnicos
-  <!-- feedback: Correcto. Un mural de la diversidad es una forma de reconocer y valorar la presencia de todos los grupos etnicos, promoviendo el respeto y la inclusion en la comunidad educativa. -->
-- [ ] B) Porque permite que los estudiantes aprendan a pintar murales profesionales
+- [ ] A) Porque permite que los estudiantes aprendan a pintar murales profesionales
   <!-- feedback: Incorrecto. Aunque el arte es importante, el objetivo del mural no es enseñar tecnicas de pintura; es visibilizar y valorar la diversidad cultural. -->
-- [ ] C) Porque ayuda a los estudiantes a memorizar los nombres de los grupos etnicos
+- [ ] B) Porque ayuda a los estudiantes a memorizar los nombres de los grupos etnicos
   <!-- feedback: Incorrecto. El mural no es una herramienta de memorizacion; es un espacio de reconocimiento y celebracion de la diversidad cultural. -->
+- [x] C) Porque visibiliza y valora la diversidad cultural del pais, promoviendo el respeto y la inclusion de todos los grupos etnicos
+  <!-- feedback: Correcto. Un mural de la diversidad es una forma de reconocer y valorar la presencia de todos los grupos etnicos, promoviendo el respeto y la inclusion en la comunidad educativa. -->
 - [ ] D) Porque permite que el colegio gane premios de arte y decoracion
   <!-- feedback: Incorrecto. El mural no es para ganar premios; es una expresion de compromiso con la diversidad, la inclusion y el respeto por todas las culturas. -->
 

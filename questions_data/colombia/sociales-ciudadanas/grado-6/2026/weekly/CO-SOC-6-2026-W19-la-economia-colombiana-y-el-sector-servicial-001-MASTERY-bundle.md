@@ -58,10 +58,10 @@ La actividad económica es todo trabajo humano que produce bienes, como los alim
 ### Opciones
 - [ ] A) Cultivar el café en la finca de doña Marta
   <!-- feedback: Incorrecto. Cultivar pertenece al sector primario que extrae de la naturaleza, porque sembrar y cosechar obtienen el grano directamente de la tierra. -->
-- [ ] B) Tostar el café en la fábrica de don Pedro
-  <!-- feedback: Incorrecto. Tostar transforma el grano en un producto nuevo, porque esa transformación industrial corresponde al sector secundario y no a un servicio. -->
-- [x] C) Servir el café preparado a los clientes en la cafetería
+- [x] B) Servir el café preparado a los clientes en la cafetería
   <!-- feedback: Correcto. Servir es un servicio que atiende directamente al cliente, porque no extrae ni fabrica, sino que ofrece atención y preparación al momento. -->
+- [ ] C) Tostar el café en la fábrica de don Pedro
+  <!-- feedback: Incorrecto. Tostar transforma el grano en un producto nuevo, porque esa transformación industrial corresponde al sector secundario y no a un servicio. -->
 - [ ] D) Guardar las semillas de café en un frasco de vidrio
   <!-- feedback: Incorrecto. Guardar semillas es almacenar sin atender a nadie, porque el servicio existe solo cuando hay una atención directa a otra persona. -->
 
@@ -81,10 +81,10 @@ La economía se organiza en sectores: el primario extrae recursos de la naturale
 ### Opciones
 - [ ] A) El albañil, porque construye casas con cemento y ladrillos
   <!-- feedback: Incorrecto. Construir transforma materiales en edificios, porque esa transformación corresponde al sector secundario y no a la atención directa. -->
-- [x] B) La médica y la vendedora, porque atienden necesidades de salud y alimentación de las personas
-  <!-- feedback: Correcto. Ambas prestan atención directa al público, porque curar y vender al detal son servicios que satisfacen necesidades sin fabricar objetos. -->
-- [ ] C) Ninguno, porque los servicios solo existen en Bogotá
+- [ ] B) Ninguno, porque los servicios solo existen en Bogotá
   <!-- feedback: Incorrecto. Los servicios existen en todo el país, porque en cada barrio hay salud, comercio y transporte que atienden a la gente. -->
+- [x] C) La médica y la vendedora, porque atienden necesidades de salud y alimentación de las personas
+  <!-- feedback: Correcto. Ambas prestan atención directa al público, porque curar y vender al detal son servicios que satisfacen necesidades sin fabricar objetos. -->
 - [ ] D) Todos, porque cualquier trabajo con uniforme es un servicio
   <!-- feedback: Incorrecto. El uniforme no define el sector, porque lo que cuenta es si se extrae, se fabrica o se atiende, y no la ropa que se usa. -->
 
@@ -102,14 +102,14 @@ Para clasificar un oficio se pregunta qué hace: si extrae, si transforma o si a
 ¿Por qué esa situación afecta los derechos del menor?
 
 ### Opciones
-- [x] A) Porque el trabajo impide que estudie y descanse, que son derechos de la niñez
-  <!-- feedback: Correcto. Estudiar y descansar son derechos que protegen el desarrollo, porque un trabajo que quita el colegio y el sueño vulnera la infancia. -->
-- [ ] B) Porque todo trabajo es malo y nadie debería trabajar nunca
+- [ ] A) Porque todo trabajo es malo y nadie debería trabajar nunca
   <!-- feedback: Incorrecto. El trabajo digno sostiene a las familias, porque lo prohibido es que el trabajo de un menor le quite el estudio y afecte su salud. -->
-- [ ] C) Porque el taller debería pagarle más dinero para que valga la pena faltar
+- [ ] B) Porque el taller debería pagarle más dinero para que valga la pena faltar
   <!-- feedback: Incorrecto. Más dinero no devuelve las clases perdidas, porque el derecho a la educación no se compensa con un salario mayor. -->
-- [ ] D) Porque el joven debería trabajar más horas para aprender el oficio rápido
+- [ ] C) Porque el joven debería trabajar más horas para aprender el oficio rápido
   <!-- feedback: Incorrecto. Más horas aumentan el cansancio y la ausencia escolar, porque aprender un oficio no exige abandonar el colegio ni el descanso. -->
+- [x] D) Porque el trabajo impide que estudie y descanse, que son derechos de la niñez
+  <!-- feedback: Correcto. Estudiar y descansar son derechos que protegen el desarrollo, porque un trabajo que quita el colegio y el sueño vulnera la infancia. -->
 
 ### Explicacion Pedagogica
 La Constitución y las leyes protegen a los menores del trabajo que afecte su educación, su salud y su descanso. Ayudar en casa con tareas acordes a la edad es formativo, pero una jornada que impide asistir al colegio vulnera derechos. El caso enseña a distinguir entre colaborar y ser sometido a un trabajo inadecuado.
@@ -127,12 +127,12 @@ La Constitución y las leyes protegen a los menores del trabajo que afecte su ed
 ### Opciones
 - [ ] A) El que deja basura, porque el río se limpia solo
   <!-- feedback: Incorrecto. El río no se limpia solo de plásticos, porque la basura contamina el agua y daña a las familias que viven aguas abajo. -->
-- [x] B) El que cuida el agua y los árboles, porque permite disfrutar hoy sin agotar lo de mañana
-  <!-- feedback: Correcto. Cuidar el recurso garantiza su continuidad, porque usar sin destruir significa que otras personas también podrán disfrutar del parque. -->
-- [ ] C) Los dos valen igual, porque la naturaleza es infinita
+- [ ] B) Los dos valen igual, porque la naturaleza es infinita
   <!-- feedback: Incorrecto. La naturaleza no es infinita, porque el agua limpia y los bosques se agotan cuando se usan sin cuidado. -->
-- [ ] D) Ninguno, porque lo mejor es no salir nunca de la casa
+- [ ] C) Ninguno, porque lo mejor es no salir nunca de la casa
   <!-- feedback: Incorrecto. No salir evita el daño pero también el aprendizaje, porque disfrutar con respeto enseña a valorar y proteger la naturaleza. -->
+- [x] D) El que cuida el agua y los árboles, porque permite disfrutar hoy sin agotar lo de mañana
+  <!-- feedback: Correcto. Cuidar el recurso garantiza su continuidad, porque usar sin destruir significa que otras personas también podrán disfrutar del parque. -->
 
 ### Explicacion Pedagogica
 Los recursos naturales como el agua, los bosques y los suelos sostienen la economía y la vida. Usarlos responsablemente significa disfrutar sin agotarlos ni contaminarlos. El turismo y la recreación también son servicios económicos que dependen de una naturaleza sana.
@@ -150,10 +150,10 @@ Los recursos naturales como el agua, los bosques y los suelos sostienen la econo
 ### Opciones
 - [ ] A) La segunda es mejor porque paga más dinero en efectivo
   <!-- feedback: Incorrecto. Más efectivo sin contrato deja sin protección, porque sin afiliación a salud ni descanso el trabajador queda desamparado ante un accidente. -->
-- [x] B) La primera es trabajo digno y la segunda es precaria, porque la dignidad exige contrato, descanso y protección
-  <!-- feedback: Correcto. El análisis compara condiciones y no solo salario, porque un empleo digno garantiza derechos y el otro los desconoce aunque pague más. -->
-- [ ] C) Las dos son iguales porque ambas dan dinero
+- [ ] B) Las dos son iguales porque ambas dan dinero
   <!-- feedback: Incorrecto. El dinero no iguala las condiciones, porque un empleo con derechos protege la vida y otro sin derechos la deja en riesgo. -->
+- [x] C) La primera es trabajo digno y la segunda es precaria, porque la dignidad exige contrato, descanso y protección
+  <!-- feedback: Correcto. El análisis compara condiciones y no solo salario, porque un empleo digno garantiza derechos y el otro los desconoce aunque pague más. -->
 - [ ] D) La primera es mala porque exige cumplir un horario
   <!-- feedback: Incorrecto. El horario claro protege del exceso, porque saber cuándo se entra y se sale evita jornadas abusivas y permite descansar. -->
 
@@ -171,10 +171,10 @@ El trabajo digno se reconoce por el contrato, el salario justo, el descanso y la
 ¿Qué relación existe entre la tala total y el derrumbe?
 
 ### Opciones
-- [x] A) La tala quitó las raíces que sostenían el suelo y por eso la lluvia lo arrastró
-  <!-- feedback: Correcto. La relación es de causa y efecto ambiental, porque las raíces amarran la tierra y sin árboles el agua corre con fuerza y se lleva el suelo. -->
-- [ ] B) No hay relación, porque los derrumbes ocurren por mala suerte
+- [ ] A) No hay relación, porque los derrumbes ocurren por mala suerte
   <!-- feedback: Incorrecto. Atribuirlo a la suerte oculta la causa, porque quitar la cobertura vegetal deja el suelo expuesto y la lluvia lo erosiona con facilidad. -->
+- [x] B) La tala quitó las raíces que sostenían el suelo y por eso la lluvia lo arrastró
+  <!-- feedback: Correcto. La relación es de causa y efecto ambiental, porque las raíces amarran la tierra y sin árboles el agua corre con fuerza y se lleva el suelo. -->
 - [ ] C) La tala evitó el derrumbe, porque sin árboles hay menos peso en la ladera
   <!-- feedback: Incorrecto. Esa idea invierte la función del bosque, porque los árboles protegen con sus raíces y sin ellos la ladera queda más débil. -->
 - [ ] D) El derrumbe ocurrió porque la vía estaba mal pintada
@@ -194,10 +194,10 @@ Los bosques prestan un servicio ambiental: con sus raíces sostienen el suelo y 
 ¿Por qué el supermercado puede vender más barato que la tienda?
 
 ### Opciones
-- [ ] A) Porque la leche del supermercado es de mentiras
-  <!-- feedback: Incorrecto. El precio bajo no significa falsedad, porque la diferencia se explica por comprar en grandes cantidades y repartir los costos. -->
-- [x] B) Porque compra en grandes cantidades y reparte los costos de transporte entre muchos productos
+- [x] A) Porque compra en grandes cantidades y reparte los costos de transporte entre muchos productos
   <!-- feedback: Correcto. Comprar al por mayor reduce el costo por unidad, porque el mismo camión lleva miles de litros y cada litro carga una parte pequeña del flete. -->
+- [ ] B) Porque la leche del supermercado es de mentiras
+  <!-- feedback: Incorrecto. El precio bajo no significa falsedad, porque la diferencia se explica por comprar en grandes cantidades y repartir los costos. -->
 - [ ] C) Porque la tienda cobra de más por pereza
   <!-- feedback: Incorrecto. Culpar a la pereza ignora la escala, porque la tienda compra pocas unidades y cada una debe cubrir una parte mayor del transporte. -->
 - [ ] D) Porque el supermercado pierde dinero a propósito para quebrar a todos
@@ -217,10 +217,10 @@ El precio depende de los costos y de la escala. Quien compra y transporta en gra
 ¿Cuál proyecto es más conveniente para la comunidad a largo plazo?
 
 ### Opciones
-- [ ] A) La mina informal, porque da dinero rápido aunque contamine
-  <!-- feedback: Incorrecto. El dinero rápido se agota y deja el daño, porque un río contaminado enferma y quita el agua para beber y cultivar. -->
-- [x] B) La cooperativa de turismo, porque genera empleo cuidando el río que sostiene la vida
+- [x] A) La cooperativa de turismo, porque genera empleo cuidando el río que sostiene la vida
   <!-- feedback: Correcto. Esa opción une economía y ambiente, porque emplea a guías y hospedajes mientras conserva el agua limpia para el futuro. -->
+- [ ] B) La mina informal, porque da dinero rápido aunque contamine
+  <!-- feedback: Incorrecto. El dinero rápido se agota y deja el daño, porque un río contaminado enferma y quita el agua para beber y cultivar. -->
 - [ ] C) Ninguno, porque lo mejor es que nadie trabaje
   <!-- feedback: Incorrecto. No trabajar deja a las familias sin sustento, porque la solución no es frenar la economía sino elegir actividades que no destruyan. -->
 - [ ] D) Los dos valen lo mismo porque ambos dan empleo
@@ -240,10 +240,10 @@ Evaluar un proyecto exige mirar el empleo, el ingreso y el ambiente juntos. La m
 ¿Cuál es la decisión más responsable frente al trabajo y la formación?
 
 ### Opciones
-- [x] A) Combinar estudio y formación técnica, porque prepara para un trabajo digno y mejor pago
-  <!-- feedback: Correcto. Estudiar y formarse aumenta las opciones, porque un oficio técnico con escolaridad permite acceder a empleos con contrato y derechos. -->
-- [ ] B) Abandonar el estudio para trabajar ya, porque estudiar quita tiempo
+- [ ] A) Abandonar el estudio para trabajar ya, porque estudiar quita tiempo
   <!-- feedback: Incorrecto. Trabajar sin formación limita a empleos precarios, porque sin estudio se pierden las puertas a trabajos mejor pagos y protegidos. -->
+- [x] B) Combinar estudio y formación técnica, porque prepara para un trabajo digno y mejor pago
+  <!-- feedback: Correcto. Estudiar y formarse aumenta las opciones, porque un oficio técnico con escolaridad permite acceder a empleos con contrato y derechos. -->
 - [ ] C) No hacer nada, porque el Estado debe mantener a todos
   <!-- feedback: Incorrecto. El Estado protege derechos pero no sustituye el esfuerzo, porque formarse y trabajar es la vía para sostener la propia vida con dignidad. -->
 - [ ] D) Elegir el oficio que pague más hoy aunque no tenga contrato ni futuro

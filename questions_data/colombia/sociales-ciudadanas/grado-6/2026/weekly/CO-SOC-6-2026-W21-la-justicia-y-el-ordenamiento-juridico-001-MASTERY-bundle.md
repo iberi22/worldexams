@@ -33,10 +33,10 @@ Se evalúa la justicia, el ordenamiento jurídico y el acceso de los ciudadanos 
 ¿Qué es la Constitución de un país?
 
 ### Opciones
-- [x] A) La norma fundamental que organiza el Estado y reconoce los derechos de las personas
-  <!-- feedback: Correcto. La Constitución está por encima de las demás normas, porque define cómo se organiza el poder y qué derechos tiene cada ciudadano. -->
-- [ ] B) Un cuento que se lee en la biblioteca del colegio
+- [ ] A) Un cuento que se lee en la biblioteca del colegio
   <!-- feedback: Incorrecto. Un cuento entretiene con historias inventadas, porque la Constitución en cambio es una norma real que obliga a autoridades y ciudadanos. -->
+- [x] B) La norma fundamental que organiza el Estado y reconoce los derechos de las personas
+  <!-- feedback: Correcto. La Constitución está por encima de las demás normas, porque define cómo se organiza el poder y qué derechos tiene cada ciudadano. -->
 - [ ] C) Una lista de precios del mercado del barrio
   <!-- feedback: Incorrecto. La lista de precios orienta las compras del día, porque la Constitución orienta la vida del país al fijar derechos y deberes. -->
 - [ ] D) El horario de clases pegado en la puerta del salón
@@ -58,10 +58,10 @@ La Constitución es la norma de mayor jerarquía: organiza los poderes del Estad
 ### Opciones
 - [ ] A) Porque el balón era viejo y ya no servía
   <!-- feedback: Incorrecto. El valor del objeto no decide la justicia, porque quitar por la fuerza vulnera el derecho del otro aunque el objeto valga poco. -->
-- [x] B) Porque desconoce el derecho del otro y usa la fuerza en lugar de la razón
-  <!-- feedback: Correcto. La justicia exige respetar lo ajeno, porque arrebatar impone por la fuerza y niega que el compañero tiene derecho a sus cosas. -->
-- [ ] C) Porque los niños no pueden jugar en el parque
+- [ ] B) Porque los niños no pueden jugar en el parque
   <!-- feedback: Incorrecto. Los niños sí pueden jugar en el parque, porque el problema no es jugar sino quitar por la fuerza lo que es de otro. -->
+- [x] C) Porque desconoce el derecho del otro y usa la fuerza en lugar de la razón
+  <!-- feedback: Correcto. La justicia exige respetar lo ajeno, porque arrebatar impone por la fuerza y niega que el compañero tiene derecho a sus cosas. -->
 - [ ] D) Porque el balón debió dejarse abandonado para que nadie lo quisiera
   <!-- feedback: Incorrecto. Abandonar no enseña justicia, porque lo justo es cuidar lo propio y respetar lo ajeno cuando se comparte el juego. -->
 
@@ -81,12 +81,12 @@ La justicia consiste en dar a cada quien lo que le corresponde y respetar sus de
 ### Opciones
 - [ ] A) No hay relación, porque el colegio hace lo que quiere
   <!-- feedback: Incorrecto. El colegio no está por encima de la ley, porque su manual debe respetar los derechos que reconoce la Constitución. -->
-- [x] B) Ambos son conjuntos de normas que ordenan la vida en común y deben respetar los derechos
-  <!-- feedback: Correcto. La relación es de semejanza en pequeño, porque el manual ordena el colegio como las leyes ordenan el país, y los dos protegen la dignidad. -->
-- [ ] C) El manual reemplaza a la Constitución dentro del colegio
+- [ ] B) El manual reemplaza a la Constitución dentro del colegio
   <!-- feedback: Incorrecto. Ningún manual reemplaza la norma fundamental, porque si el manual vulnera derechos pierde validez frente a la Constitución. -->
-- [ ] D) El ordenamiento jurídico solo sirve para los adultos
+- [ ] C) El ordenamiento jurídico solo sirve para los adultos
   <!-- feedback: Incorrecto. Las leyes protegen también a los menores, porque los niños tienen derechos que el colegio y la familia deben garantizar. -->
+- [x] D) Ambos son conjuntos de normas que ordenan la vida en común y deben respetar los derechos
+  <!-- feedback: Correcto. La relación es de semejanza en pequeño, porque el manual ordena el colegio como las leyes ordenan el país, y los dos protegen la dignidad. -->
 
 ### Explicacion Pedagogica
 El ordenamiento jurídico es el conjunto de normas que ordenan un país, con la Constitución en la cúspide. El manual de convivencia es su reflejo en el colegio: fija reglas, procedimientos y correcciones. Ambos buscan lo mismo, que la vida en común sea justa y que nadie sea sancionado sin ser escuchado.
@@ -127,10 +127,10 @@ El derecho de petición permite a todo ciudadano presentar solicitudes respetuos
 ### Opciones
 - [ ] A) Porque gana el amigo de la profesora
   <!-- feedback: Incorrecto. Si gana por amistad no hay democracia, porque lo democrático es que gane quien obtenga más votos libres de los estudiantes. -->
-- [x] B) Porque todos votan libremente y los votos se cuentan delante de todos
-  <!-- feedback: Correcto. El voto libre y el conteo público garantizan transparencia, porque cada estudiante elige sin presión y verifica el resultado. -->
-- [ ] C) Porque votar es obligatorio aunque no se conozca a los candidatos
+- [ ] B) Porque votar es obligatorio aunque no se conozca a los candidatos
   <!-- feedback: Incorrecto. Votar sin conocer no es participar, porque la democracia pide informarse sobre las propuestas antes de elegir. -->
+- [x] C) Porque todos votan libremente y los votos se cuentan delante de todos
+  <!-- feedback: Correcto. El voto libre y el conteo público garantizan transparencia, porque cada estudiante elige sin presión y verifica el resultado. -->
 - [ ] D) Porque el que pierde queda castigado sin participar más
   <!-- feedback: Incorrecto. Castigar al que pierde niega la pluralidad, porque en democracia quien pierde sigue teniendo voz y puede volver a participar. -->
 
@@ -148,10 +148,10 @@ La democracia se practica con voto libre, secreto e igual, y con conteo transpar
 ¿Por qué es importante que el caso lo revise una autoridad y no el tendero?
 
 ### Opciones
-- [ ] A) Porque el tendero siempre tiene la razón
-  <!-- feedback: Incorrecto. Nadie es juez de su propio caso, porque quien acusa no puede al mismo tiempo decidir el castigo sin escuchar al otro. -->
-- [x] B) Porque solo una autoridad imparcial escucha a ambas partes y aplica la norma con garantías
+- [x] A) Porque solo una autoridad imparcial escucha a ambas partes y aplica la norma con garantías
   <!-- feedback: Correcto. La imparcialidad protege al menor, porque la autoridad escucha la versión del niño, verifica pruebas y decide conforme a la ley. -->
+- [ ] B) Porque el tendero siempre tiene la razón
+  <!-- feedback: Incorrecto. Nadie es juez de su propio caso, porque quien acusa no puede al mismo tiempo decidir el castigo sin escuchar al otro. -->
 - [ ] C) Porque así el castigo será más fuerte y dará más miedo
   <!-- feedback: Incorrecto. Más dureza no es más justicia, porque sancionar sin escuchar vulnera el derecho a la defensa aunque asuste a otros. -->
 - [ ] D) Porque los niños no tienen derechos y necesitan que otros decidan
@@ -171,14 +171,14 @@ La justicia exige un tercero imparcial que escuche, verifique pruebas y aplique 
 ¿Qué análisis muestra el valor de la audiencia pública en este caso?
 
 ### Opciones
-- [x] A) Que permite a los afectados dar razones antes de que se decida sobre un bien común
-  <!-- feedback: Correcto. La audiencia realiza la participación, porque escuchar a los vecinos aporta datos sobre el uso del parque que los concejales no conocen. -->
-- [ ] B) Que solo sirve para aplaudir la decisión ya tomada
+- [ ] A) Que solo sirve para aplaudir la decisión ya tomada
   <!-- feedback: Incorrecto. Aplaudir no es participar, porque la audiencia vale cuando los argumentos ciudadanos pueden cambiar o mejorar la decisión. -->
-- [ ] C) Que reemplaza la votación de los concejales
+- [ ] B) Que reemplaza la votación de los concejales
   <!-- feedback: Incorrecto. La audiencia no vota ni decide, porque su función es informar la decisión que luego toman los elegidos con más elementos. -->
-- [ ] D) Que retrasa todo y por eso debería eliminarse
+- [ ] C) Que retrasa todo y por eso debería eliminarse
   <!-- feedback: Incorrecto. Escuchar toma tiempo pero evita errores, porque decidir sin oír a los afectados produce obras rechazadas y conflictos mayores. -->
+- [x] D) Que permite a los afectados dar razones antes de que se decida sobre un bien común
+  <!-- feedback: Correcto. La audiencia realiza la participación, porque escuchar a los vecinos aporta datos sobre el uso del parque que los concejales no conocen. -->
 
 ### Explicacion Pedagogica
 Las decisiones sobre bienes comunes ganan legitimidad cuando quienes se verán afectados pueden opinar antes. La audiencia pública es un mecanismo de democracia participativa: no sustituye a las autoridades, pero las obliga a decidir informadas y a explicar sus razones.
@@ -219,10 +219,10 @@ Ser ciudadano incluye responder por los propios actos y reparar los daños causa
 ### Opciones
 - [ ] A) Que la imponga la rectoría sin consultar a nadie
   <!-- feedback: Incorrecto. Imponer sin consultar puede ser rápido pero no legítimo, porque una norma que nadie discutió se cumple por miedo y no por acuerdo. -->
-- [ ] B) Que la decida el curso más fuerte por ser mayoría física
-  <!-- feedback: Incorrecto. La fuerza no es legitimidad, porque imponer por número o tamaño excluye a los demás y genera rechazo hacia la norma. -->
-- [x] C) Que se construya con propuestas de todos y se apruebe por votación transparente
+- [x] B) Que se construya con propuestas de todos y se apruebe por votación transparente
   <!-- feedback: Correcto. Participar legitima la norma, porque cuando todos proponen y votan, la regla se siente propia y se cumple por convicción. -->
+- [ ] C) Que la decida el curso más fuerte por ser mayoría física
+  <!-- feedback: Incorrecto. La fuerza no es legitimidad, porque imponer por número o tamaño excluye a los demás y genera rechazo hacia la norma. -->
 - [ ] D) Que no haya ninguna norma para que cada uno haga lo que quiera
   <!-- feedback: Incorrecto. Sin norma reina el desorden, porque la ausencia de reglas deja que gane el más fuerte y nadie puede usar la cancha en paz. -->
 
@@ -240,12 +240,12 @@ Una norma es legítima cuando nace de la participación y se aprueba con procedi
 ¿Cuál salida realiza mejor el acceso a la justicia?
 
 ### Opciones
-- [x] A) Acudir a la inspección de policía con pruebas y testigos para que decida conforme a la norma
-  <!-- feedback: Correcto. Esa vía usa la institución creada para resolver, porque presentar pruebas y pedir una decisión legal protege derechos sin violencia. -->
-- [ ] B) Pelear a golpes con el vecino hasta que quite el muro
+- [ ] A) Pelear a golpes con el vecino hasta que quite el muro
   <!-- feedback: Incorrecto. Golpear es tomarse la justicia por mano propia, porque la violencia genera lesiones y un nuevo conflicto en lugar de una solución legal. -->
-- [ ] C) Pagar para tumbar el muro de noche a escondidas
+- [ ] B) Pagar para tumbar el muro de noche a escondidas
   <!-- feedback: Incorrecto. Dañar a escondidas es una venganza ilegal, porque destruye un bien y convierte a quien reclama en infractor de la norma. -->
+- [x] C) Acudir a la inspección de policía con pruebas y testigos para que decida conforme a la norma
+  <!-- feedback: Correcto. Esa vía usa la institución creada para resolver, porque presentar pruebas y pedir una decisión legal protege derechos sin violencia. -->
 - [ ] D) Resignarse y no hacer nada para evitar problemas
   <!-- feedback: Incorrecto. Resignarse deja el abuso sin control, porque acceder a la justicia significa activar las instancias que existen para proteger. -->
 
