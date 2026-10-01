@@ -378,6 +378,15 @@ async function fetchPublicQuestions(request: Request, env: Env) {
   const pageSize = isNaN(limitParam) ? 20 : Math.max(1, Math.min(20, limitParam))
   const periodRaw = url.searchParams.get("period")
   const period = periodRaw ? parseInt(periodRaw, 10) : undefined
+  // An explicit ?week= pins the query to that week instead of the current one.
+  // Without it every caller got getCurrentWeek(), which is why asking for
+  // week 5, 12 or 20 all returned the same pack.
+  const weekRaw = url.searchParams.get("week")
+  const weekParam = weekRaw === null ? undefined : parseInt(weekRaw, 10)
+  const requestedWeek =
+    weekParam !== undefined && Number.isInteger(weekParam) && weekParam >= 1 && weekParam <= 52
+      ? weekParam
+      : undefined
 
   // Legacy pagination stays the default until the client migrates (WAVE-16.17);
   // sampling is opt-in with mode=sample.
@@ -393,7 +402,9 @@ async function fetchPublicQuestions(request: Request, env: Env) {
   const subjectAliases = getSubjectPackAliases(subject)
   const countryPrefixes = getCountryPackPrefixes(country)
 
-  let weekCandidates: number[] = [getCurrentWeek(), 1]
+  let weekCandidates: number[] = requestedWeek
+    ? [requestedWeek, getCurrentWeek(), 1]
+    : [getCurrentWeek(), 1]
   if (period && period >= 1 && period <= 4) {
     const periodWeeks: number[] = []
     const startWeek = (period - 1) * 10 + 1
@@ -458,6 +469,7 @@ async function fetchPublicQuestions(request: Request, env: Env) {
           mode: "sample",
           period_pool_size: total_available,
           period_cap: 100,
+          requested_week: requestedWeek ?? null,
           seed,
           returned: questions.length,
         },
@@ -490,6 +502,7 @@ async function fetchPublicQuestions(request: Request, env: Env) {
           filtered_out: deduped.duplicateCount,
           source: "worker-assets",
           pack_path: loadedPaths.join(", "),
+          requested_week: requestedWeek ?? null,
           total_available,
           page_size: pageSize,
           total_pages,
