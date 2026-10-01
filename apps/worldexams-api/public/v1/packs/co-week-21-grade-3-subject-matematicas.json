@@ -1,0 +1,379 @@
+{
+  "metadata": {
+    "grade": 3,
+    "subject": "matematicas",
+    "country": "co",
+    "pack_id": "co-week-21-grade-3-subject-matematicas",
+    "generated_at": "2026-10-01T06:22:10.392Z"
+  },
+  "questions": [
+    {
+      "id": "CO-MAT-3-2026-W21-patrones-y-regularidades-001-MASTERY-bundle-v1",
+      "statement": "¿Qué número sigue en la secuencia 2, 4, 6, 8?",
+      "context": "En un colegio de Bogotá los niños aplauden siguiendo la secuencia 2, 4, 6, 8 para aprender a contar de dos en dos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "9",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sumaste 8 + 1 = 9 porque usaste razón 1 y la secuencia crece de 2 en 2."
+        },
+        {
+          "letter": "B",
+          "text": "10",
+          "is_correct": true,
+          "feedback": "Correcto. 8 + 2 = 10 porque la secuencia crece de 2 en 2 sumando siempre la misma razón."
+        },
+        {
+          "letter": "C",
+          "text": "12",
+          "is_correct": false,
+          "feedback": "Incorrecto. Calculaste 8 + 4 = 12 porque agregaste 4 en vez de mantener la razón de 2."
+        },
+        {
+          "letter": "D",
+          "text": "7",
+          "is_correct": false,
+          "feedback": "Incorrecto. Elegiste un número menor que 8 porque la secuencia crece y el siguiente debe ser mayor."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Un patrón numérico repite la misma razón. Aquí la razón es +2: 2, 4, 6, 8, 10. Cada término suma 2 al anterior.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Variacional",
+      "expected_success": 0.85,
+      "bundle_id": "CO-MAT-3-2026-W21-patrones-y-regularidades-001-MASTERY-bundle",
+      "periodo": 21,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-3-2026-W21-patrones-y-regularidades-001-MASTERY-bundle-v2",
+      "statement": "Si el collar empieza con rojo, ¿de qué color es la sexta pepa?",
+      "context": "En Medellín se arma un collar con pepas de colores siguiendo el patrón rojo, azul, rojo, azul para una fiesta.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Rojo, porque todas las pepas del collar son rojas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El collar alterna 2 colores porque ignoraste que las posiciones pares llevan azul."
+        },
+        {
+          "letter": "B",
+          "text": "Verde, porque después del azul siempre sigue el verde.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El patrón solo usa rojo y azul porque inventaste un tercer color que no existe."
+        },
+        {
+          "letter": "C",
+          "text": "Azul, porque las posiciones pares siempre son azules en el patrón de 2.",
+          "is_correct": true,
+          "feedback": "Correcto. El patrón rojo-azul se repite cada 2 porque las posiciones 2, 4 y 6 corresponden al azul."
+        },
+        {
+          "letter": "D",
+          "text": "Azul, porque la sexta pepa es la última y la última es roja.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La sexta posición es par y lleva azul porque confundiste la posición par con la impar."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El patrón de 2 se repite: posiciones impares (1, 3, 5) rojo y pares (2, 4, 6) azul. La sexta es par, así que es azul.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Variacional",
+      "expected_success": 0.83,
+      "bundle_id": "CO-MAT-3-2026-W21-patrones-y-regularidades-001-MASTERY-bundle",
+      "periodo": 21,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-3-2026-W21-patrones-y-regularidades-001-MASTERY-bundle-v3",
+      "statement": "¿Cuántas cajas habrá en el cuarto nivel si el patrón continúa?",
+      "context": "En Cali se apilan cajas en una bodega: en el primer nivel hay 5, en el segundo hay 8, en el tercero hay 11.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "13",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sumaste 11 + 2 = 13 porque usaste razón 2 y el patrón crece de 3 en 3."
+        },
+        {
+          "letter": "B",
+          "text": "16",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sumaste 11 + 5 = 16 porque repetiste el primer término en vez de la razón de 3."
+        },
+        {
+          "letter": "C",
+          "text": "12",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sumaste 11 + 1 = 12 porque agregaste 1 y la diferencia entre niveles es de 3 cajas."
+        },
+        {
+          "letter": "D",
+          "text": "14",
+          "is_correct": true,
+          "feedback": "Correcto. 11 + 3 = 14 cajas porque la razón del patrón es sumar 3 en cada nivel."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "La diferencia entre niveles es 8 - 5 = 3 y 11 - 8 = 3. La razón es +3, así que el cuarto nivel tiene 11 + 3 = 14 cajas.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Variacional",
+      "expected_success": 0.75,
+      "bundle_id": "CO-MAT-3-2026-W21-patrones-y-regularidades-001-MASTERY-bundle",
+      "periodo": 21,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-3-2026-W21-patrones-y-regularidades-001-MASTERY-bundle-v4",
+      "statement": "¿Cuántos palitos se necesitan para 4 triángulos pegados en fila?",
+      "context": "En Pasto una secuencia de figuras usa palitos: con 1 triángulo se usan 3 palitos, con 2 triángulos pegados se usan 5, con 3 se usan 7.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "9",
+          "is_correct": true,
+          "feedback": "Correcto. 7 + 2 = 9 palitos porque cada triángulo nuevo comparte 1 lado y solo agrega 2 palitos."
+        },
+        {
+          "letter": "B",
+          "text": "12",
+          "is_correct": false,
+          "feedback": "Incorrecto. Calculaste 4 x 3 = 12 porque contaste triángulos sueltos y olvidaste los lados compartidos."
+        },
+        {
+          "letter": "C",
+          "text": "10",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sumaste 7 + 3 = 10 porque agregaste un triángulo completo sin descontar el lado pegado."
+        },
+        {
+          "letter": "D",
+          "text": "8",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sumaste 7 + 1 = 8 porque solo agregaste 1 palito y cada triángulo nuevo aporta 2."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El patrón es 3, 5, 7 con razón +2 porque cada triángulo pegado comparte un lado. El cuarto tiene 7 + 2 = 9 palitos.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Algebraico",
+      "expected_success": 0.73,
+      "bundle_id": "CO-MAT-3-2026-W21-patrones-y-regularidades-001-MASTERY-bundle",
+      "periodo": 21,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-3-2026-W21-patrones-y-regularidades-001-MASTERY-bundle-v5",
+      "statement": "¿Cuántos bombillos se encenderán en el siguiente paso?",
+      "context": "En Barranquilla los faroles de una calle se encienden en secuencias de 100, 90, 80, 70 bombillos encendidos por ahorro de energía.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "65",
+          "is_correct": false,
+          "feedback": "Incorrecto. Restaste 70 - 5 = 65 porque usaste razón 5 y la secuencia baja de 10 en 10."
+        },
+        {
+          "letter": "B",
+          "text": "80",
+          "is_correct": false,
+          "feedback": "Incorrecto. Elegiste un término anterior porque la secuencia decrece y el siguiente debe ser menor que 70."
+        },
+        {
+          "letter": "C",
+          "text": "60",
+          "is_correct": true,
+          "feedback": "Correcto. 70 - 10 = 60 bombillos porque la secuencia decrece con razón de menos 10."
+        },
+        {
+          "letter": "D",
+          "text": "50",
+          "is_correct": false,
+          "feedback": "Incorrecto. Restaste 70 - 20 = 50 porque duplicaste la razón que es de solo 10 bombillos."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Los patrones también pueden decrecer. Aquí la razón es -10: 100, 90, 80, 70, 60. Cada paso quita 10 bombillos.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Variacional",
+      "expected_success": 0.7,
+      "bundle_id": "CO-MAT-3-2026-W21-patrones-y-regularidades-001-MASTERY-bundle",
+      "periodo": 21,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-3-2026-W21-patrones-y-regularidades-001-MASTERY-bundle-v6",
+      "statement": "¿Cuál es la razón de la secuencia y por qué no es 10?",
+      "context": "En Tunja Felipe dice que la secuencia 5, 10, 15, 20 crece de 5 en 5. Carolina dice que crece de 10 en 10 porque 5 + 10 = 15.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Felipe, porque 10 - 5 = 5 y 15 - 10 = 5 confirman la razón constante de 5.",
+          "is_correct": true,
+          "feedback": "Correcto. 20 - 15 = 5 también da 5 porque las 3 diferencias iguales confirman la razón de 5."
+        },
+        {
+          "letter": "B",
+          "text": "Carolina, porque 5 + 10 = 15 muestra un salto de 10.",
+          "is_correct": false,
+          "feedback": "Incorrecto. 15 - 10 = 5 y no 10 porque tomó dos pasos juntos en vez de la diferencia entre vecinos."
+        },
+        {
+          "letter": "C",
+          "text": "Felipe, porque todos los números terminan en 5 o en 0.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Terminar en 5 o 0 no define la razón porque la prueba real es que 10 - 5 = 5."
+        },
+        {
+          "letter": "D",
+          "text": "Ninguno, porque la secuencia no tiene ningún patrón.",
+          "is_correct": false,
+          "feedback": "Incorrecto. 5, 10, 15, 20 sí tiene patrón porque cada término suma 5 al anterior de forma constante."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Analizar exige restar vecinos: 10 - 5 = 5, 15 - 10 = 5, 20 - 15 = 5. La razón constante es +5, así que Felipe tiene razón y Carolina juntó dos saltos.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Razonamiento",
+      "expected_success": 0.62,
+      "bundle_id": "CO-MAT-3-2026-W21-patrones-y-regularidades-001-MASTERY-bundle",
+      "periodo": 21,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-3-2026-W21-patrones-y-regularidades-001-MASTERY-bundle-v7",
+      "statement": "¿El patrón propuesto es regular y cuál es su error?",
+      "context": "En Neiva se propone el patrón de figuras círculo, cuadrado, círculo, triángulo, círculo, cuadrado para una cenefa del salón.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Sí es regular, porque tiene 6 figuras y 6 siempre es un patrón.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Tener 6 figuras no crea regularidad porque el orden círculo-cuadrado-triángulo no repite la misma unidad."
+        },
+        {
+          "letter": "B",
+          "text": "Sí es regular, porque el círculo aparece 3 veces y eso basta.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Repetir 1 figura no ordena la cenefa porque el patrón exige que toda la unidad se repita igual."
+        },
+        {
+          "letter": "C",
+          "text": "No es regular, porque los patrones solo pueden usar números.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las figuras sí forman patrones porque círculo-cuadrado-círculo-cuadrado sería regular con figuras."
+        },
+        {
+          "letter": "D",
+          "text": "No es regular, porque la unidad círculo-cuadrado se rompe al meter un triángulo en la mitad.",
+          "is_correct": true,
+          "feedback": "Correcto. El orden círculo-cuadrado-triángulo no se repite igual porque la unidad cambia y deja de ser periódica."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Un patrón geométrico es regular si una unidad se repite igual. Aquí la unidad cambia con el triángulo intercalado, así que no hay repetición constante y el patrón se rompe.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Formulacion",
+      "expected_success": 0.6,
+      "bundle_id": "CO-MAT-3-2026-W21-patrones-y-regularidades-001-MASTERY-bundle",
+      "periodo": 21,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-3-2026-W21-patrones-y-regularidades-001-MASTERY-bundle-v8",
+      "statement": "¿Cuál plan junta más dinero en total y cuánto junta?",
+      "context": "En Valledupar se ahorra para una salida: plan A guarda 20, 30, 40, 50 pesos por semana. Plan B guarda 25, 35, 45, 55 pesos por semana. La meta es juntar más en 4 semanas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El plan A, porque 20 + 30 + 40 + 50 = 120 supera al plan B.",
+          "is_correct": false,
+          "feedback": "Incorrecto. 20 + 30 + 40 + 50 = 140 y no 120 porque sumaste mal y además 140 es menor que 160."
+        },
+        {
+          "letter": "B",
+          "text": "El plan B, porque 25 + 35 + 45 + 55 = 160 supera a los 140 del plan A.",
+          "is_correct": true,
+          "feedback": "Correcto. 20 + 30 + 40 + 50 = 140 es menor que 160 porque cada semana el plan B guarda 5 más."
+        },
+        {
+          "letter": "C",
+          "text": "Ambos juntan lo mismo, porque los dos crecen de 10 en 10.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Tener la misma razón no iguala los totales porque el plan B empieza en 25 y siempre va 5 arriba."
+        },
+        {
+          "letter": "D",
+          "text": "El plan B, porque 55 es mayor que 50 y el último dato decide todo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Comparar solo el último dato no suma el total porque la decisión exige 160 contra 140 completos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Evaluar exige sumar cada plan: A = 20 + 30 + 40 + 50 = 140. B = 25 + 35 + 45 + 55 = 160. El plan B junta más ($160) porque cada semana aporta $5 más con la misma razón de +10.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Modelacion",
+      "expected_success": 0.55,
+      "bundle_id": "CO-MAT-3-2026-W21-patrones-y-regularidades-001-MASTERY-bundle",
+      "periodo": 21,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 3,
+      "country": "co"
+    }
+  ]
+}

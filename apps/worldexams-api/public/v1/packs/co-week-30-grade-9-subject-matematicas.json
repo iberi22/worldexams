@@ -80,7 +80,7 @@
           "letter": "C",
           "text": "La gráfica se desplaza 3 unidades hacia abajo",
           "is_correct": false,
-          "feedback": "Incorrecto. El desplazamiento vertical se escribe fuera de la función."
+          "feedback": "Incorrecto. Bajar la gráfica exige restar 3 fuera de la función, es decir, $y = f(x) - 3$."
         }
       ],
       "correct_answer": "D",
@@ -310,7 +310,7 @@
           "letter": "D",
           "text": "La segunda es la primera desplazada 5 unidades hacia abajo",
           "is_correct": false,
-          "feedback": "Incorrecto. El desplazamiento vertical se escribe fuera del cuadrado."
+          "feedback": "Incorrecto. Para bajar la parábola hay que restar 5 fuera del cuadrado: $y = (x + 5)^2 - 5$."
         }
       ],
       "correct_answer": "C",

@@ -1,0 +1,379 @@
+{
+  "metadata": {
+    "grade": 3,
+    "subject": "matematicas",
+    "country": "co",
+    "pack_id": "co-week-19-grade-3-subject-matematicas",
+    "generated_at": "2026-10-01T06:22:10.392Z"
+  },
+  "questions": [
+    {
+      "id": "CO-MAT-3-2026-W19-angulos-y-simetria-001-MASTERY-bundle-v1",
+      "statement": "¿Qué es un ángulo?",
+      "context": "En un salón de Bogotá la profesora muestra la esquina de una mesa donde se unen dos bordes en punta.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La abertura que se forma donde se unen dos líneas en un punto",
+          "is_correct": true,
+          "feedback": "Correcto. El ángulo mide la abertura entre 2 líneas porque al unirse en el vértice dejan un espacio que se abre."
+        },
+        {
+          "letter": "B",
+          "text": "Una línea curva cerrada sin esquinas",
+          "is_correct": false,
+          "feedback": "Incorrecto. La línea curva cerrada es el círculo porque el ángulo necesita 2 líneas unidas en un punto."
+        },
+        {
+          "letter": "C",
+          "text": "Una figura con 4 lados iguales",
+          "is_correct": false,
+          "feedback": "Incorrecto. 4 lados iguales son del cuadrado porque el ángulo es solo la abertura y no la figura completa."
+        },
+        {
+          "letter": "D",
+          "text": "Un punto solo sin ninguna línea",
+          "is_correct": false,
+          "feedback": "Incorrecto. Un punto solo no forma abertura porque hacen falta 2 líneas que se unan para crear el ángulo."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El ángulo es la abertura entre dos líneas que se unen en un punto llamado vértice. La esquina de la mesa es un ejemplo de ángulo.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Geometrico",
+      "expected_success": 0.85,
+      "bundle_id": "CO-MAT-3-2026-W19-angulos-y-simetria-001-MASTERY-bundle",
+      "periodo": 19,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-3-2026-W19-angulos-y-simetria-001-MASTERY-bundle-v2",
+      "statement": "¿Cuál abertura es un ángulo recto?",
+      "context": "En Medellín los niños comparan la esquina de un cuaderno con la punta de un lápiz bien afilado.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La punta del lápiz, porque es muy cerrada y puntiaguda",
+          "is_correct": false,
+          "feedback": "Incorrecto. La punta cerrada es un ángulo agudo porque es menor que la abertura en L del ángulo recto."
+        },
+        {
+          "letter": "B",
+          "text": "La esquina del cuaderno, porque forma una abertura en forma de L perfecta",
+          "is_correct": true,
+          "feedback": "Correcto. La esquina del cuaderno forma 90 grados porque sus bordes se cruzan como una L exacta."
+        },
+        {
+          "letter": "C",
+          "text": "Una puerta muy abierta de par en par",
+          "is_correct": false,
+          "feedback": "Incorrecto. La puerta muy abierta supera la L porque forma un ángulo obtuso mayor que el recto."
+        },
+        {
+          "letter": "D",
+          "text": "Una línea completamente derecha sin doblez",
+          "is_correct": false,
+          "feedback": "Incorrecto. La línea sin doblez no forma esquina porque el ángulo recto necesita 2 bordes en L."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El ángulo recto es la abertura en forma de L, como la esquina del cuaderno. El agudo es más cerrado y el obtuso es más abierto que la L.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Geometrico",
+      "expected_success": 0.83,
+      "bundle_id": "CO-MAT-3-2026-W19-angulos-y-simetria-001-MASTERY-bundle",
+      "periodo": 19,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-3-2026-W19-angulos-y-simetria-001-MASTERY-bundle-v3",
+      "statement": "¿Cómo se llama la esquina más cerrada que la L?",
+      "context": "En un taller de Cali se recortan tres esquinas para un móvil: una en forma de L, una más cerrada que la L y una más abierta que la L.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Ángulo recto",
+          "is_correct": false,
+          "feedback": "Incorrecto. El recto es justo la L porque la esquina cerrada es menor y no igual a 90 grados."
+        },
+        {
+          "letter": "B",
+          "text": "Ángulo obtuso",
+          "is_correct": false,
+          "feedback": "Incorrecto. El obtuso es más abierto que la L porque confundiste la esquina cerrada con la abierta."
+        },
+        {
+          "letter": "C",
+          "text": "Ángulo agudo",
+          "is_correct": true,
+          "feedback": "Correcto. El agudo es menor que el recto porque su abertura más cerrada equivale a menos de 90 grados."
+        },
+        {
+          "letter": "D",
+          "text": "Ángulo plano",
+          "is_correct": false,
+          "feedback": "Incorrecto. El plano es una línea estirada porque la esquina cerrada sí forma pico y no una recta."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Comparando con la L: más cerrado es agudo, igual a la L es recto y más abierto es obtuso. La esquina cerrada es aguda.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Geometrico",
+      "expected_success": 0.75,
+      "bundle_id": "CO-MAT-3-2026-W19-angulos-y-simetria-001-MASTERY-bundle",
+      "periodo": 19,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-3-2026-W19-angulos-y-simetria-001-MASTERY-bundle-v4",
+      "statement": "¿Qué ángulo forman las manecillas a las 3 en punto?",
+      "context": "En un reloj de pared en Pasto las manecillas marcan las 3 en punto: una apunta al 12 y la otra al 3.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Un ángulo agudo",
+          "is_correct": false,
+          "feedback": "Incorrecto. El agudo es más cerrado que la L porque a las 3 en punto la abertura es justo de 90 grados."
+        },
+        {
+          "letter": "B",
+          "text": "Un ángulo obtuso",
+          "is_correct": false,
+          "feedback": "Incorrecto. El obtuso es más abierto que la L porque a las 3 en punto no hay abertura mayor a 90 grados."
+        },
+        {
+          "letter": "C",
+          "text": "Ningún ángulo, porque el reloj es redondo",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las manecillas sí forman abertura porque ser redondo el borde no impide el ángulo del centro."
+        },
+        {
+          "letter": "D",
+          "text": "Un ángulo recto",
+          "is_correct": true,
+          "feedback": "Correcto. Las manecillas forman una L perfecta porque del 12 al 3 hay un cuarto de vuelta que equivale a 90 grados."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "A las 3 en punto las manecillas forman un cuarto de vuelta, que es la L del ángulo recto de 90 grados.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Razonamiento",
+      "expected_success": 0.73,
+      "bundle_id": "CO-MAT-3-2026-W19-angulos-y-simetria-001-MASTERY-bundle",
+      "periodo": 19,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-3-2026-W19-angulos-y-simetria-001-MASTERY-bundle-v5",
+      "statement": "¿Qué relación tienen los ángulos de las dos alas?",
+      "context": "En Barranquilla una mariposa de papel se dobla por la mitad y sus dos alas coinciden. En cada ala se marca un ángulo igual al del otro lado.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Son distintos, porque cada ala está de un lado diferente",
+          "is_correct": false,
+          "feedback": "Incorrecto. Estar en lados distintos no cambia el tamaño porque el espejo conserva la abertura del ángulo."
+        },
+        {
+          "letter": "B",
+          "text": "Uno es recto y el otro es agudo, porque se complementan",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los ángulos espejo miden lo mismo porque la simetría no convierte un recto en agudo."
+        },
+        {
+          "letter": "C",
+          "text": "No tienen relación, porque la simetría solo afecta colores",
+          "is_correct": false,
+          "feedback": "Incorrecto. La simetría conserva formas y medidas porque refleja toda la figura y no solo los colores."
+        },
+        {
+          "letter": "D",
+          "text": "Son iguales, porque el doblez es un eje de simetría que refleja cada punto",
+          "is_correct": true,
+          "feedback": "Correcto. Las alas coinciden al doblar porque el eje de simetría produce ángulos espejo del mismo tamaño."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "En una figura simétrica, cada parte es el espejo de la otra. Los ángulos correspondientes miden lo mismo porque el reflejo conserva la abertura.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Geometrico",
+      "expected_success": 0.7,
+      "bundle_id": "CO-MAT-3-2026-W19-angulos-y-simetria-001-MASTERY-bundle",
+      "periodo": 19,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-3-2026-W19-angulos-y-simetria-001-MASTERY-bundle-v6",
+      "statement": "¿Cómo se compara el ángulo obtuso con el ángulo recto?",
+      "context": "En Tunja Martín dice que un ángulo obtuso es mayor que un recto. Paula dice que un obtuso es menor que un recto porque la palabra suena a pequeño.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Paula, porque la palabra obtuso suena a objeto pequeño.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El nombre no define el tamaño porque el obtuso mide más de 90 grados aunque suene a pequeño."
+        },
+        {
+          "letter": "B",
+          "text": "Martín, porque el obtuso es igual a la L pero con otro nombre.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El igual a la L es el recto porque el obtuso es mayor y no equivalente a 90 grados."
+        },
+        {
+          "letter": "C",
+          "text": "Martín, porque el obtuso es más abierto que la L y supera los 90 grados.",
+          "is_correct": true,
+          "feedback": "Correcto. El obtuso supera a 90 grados porque su abertura mayor que la L lo hace más grande que el recto."
+        },
+        {
+          "letter": "D",
+          "text": "Ninguno, porque los ángulos no se pueden comparar entre sí.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los ángulos sí se comparan por su abertura porque 90 grados es la referencia que los ordena."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El orden por abertura es: agudo < recto < obtuso. El obtuso supera los 90 grados, así que Martín tiene razón y el sonido de la palabra no define la medida.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Razonamiento",
+      "expected_success": 0.62,
+      "bundle_id": "CO-MAT-3-2026-W19-angulos-y-simetria-001-MASTERY-bundle",
+      "periodo": 19,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-3-2026-W19-angulos-y-simetria-001-MASTERY-bundle-v7",
+      "statement": "¿Es correcta la respuesta del niño?",
+      "context": "En Neiva la profesora dibuja un triángulo rectángulo y pregunta cuántos ángulos rectos tiene. Un niño responde que tiene 2 ángulos rectos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Sí, porque el triángulo tiene 3 lados y cada lado da un recto.",
+          "is_correct": false,
+          "feedback": "Incorrecto. 3 lados no significan 3 rectos porque el triángulo rectángulo solo tiene 1 ángulo de 90 grados."
+        },
+        {
+          "letter": "B",
+          "text": "No, porque el triángulo rectángulo tiene 1 recto y 2 agudos que suman la abertura restante.",
+          "is_correct": true,
+          "feedback": "Correcto. 1 recto + 2 agudos es lo correcto porque con 2 rectos la figura no podría cerrarse en 3 lados."
+        },
+        {
+          "letter": "C",
+          "text": "Sí, porque rectángulo significa que tiene 2 ángulos rectos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Rectángulo en el nombre indica 1 ángulo recto porque con 2 rectos se formaría un cuadrilátero."
+        },
+        {
+          "letter": "D",
+          "text": "No, porque el triángulo rectángulo no tiene ningún ángulo recto.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El triángulo rectángulo sí tiene 1 ángulo de 90 grados porque esa es justo su característica principal."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Un triángulo solo puede tener un ángulo recto; los otros dos son agudos. Con dos rectos los lados quedarían paralelos y la figura no cerraría.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Formulacion",
+      "expected_success": 0.6,
+      "bundle_id": "CO-MAT-3-2026-W19-angulos-y-simetria-001-MASTERY-bundle",
+      "periodo": 19,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-3-2026-W19-angulos-y-simetria-001-MASTERY-bundle-v8",
+      "statement": "¿Cuál cometa debe elegirse y por qué ninguna cumple todo lo pedido?",
+      "context": "En Cartagena se diseñan dos cometas simétricas: la cometa A tiene 2 ángulos agudos y 2 obtusos, la cometa B tiene 4 ángulos rectos. El jurado elegirá la que tenga ángulos de los tres tipos para mostrar variedad.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Ninguna cumple todo, porque la A no tiene rectos y la B no tiene agudos ni obtusos para la variedad.",
+          "is_correct": true,
+          "feedback": "Correcto. La A tiene 0 rectos y la B tiene 0 agudos porque a cada diseño le falta un tipo de ángulo pedido."
+        },
+        {
+          "letter": "B",
+          "text": "La cometa A cumple todo, porque 2 + 2 = 4 ángulos y eso incluye al recto.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Tener 4 ángulos no significa tener los 3 tipos porque a la A le falta el ángulo recto."
+        },
+        {
+          "letter": "C",
+          "text": "La cometa B cumple todo, porque 4 rectos equivalen a agudos y obtusos juntos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. 4 rectos son solo 1 tipo porque un recto no equivale a un agudo ni a un obtuso."
+        },
+        {
+          "letter": "D",
+          "text": "Ambas cumplen todo, porque toda cometa simétrica tiene los tres tipos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La simetría no crea tipos de ángulos porque cada diseño tiene los ángulos que se construyeron y nada más."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Evaluar exige verificar los tres tipos en cada diseño: A tiene agudos y obtusos pero 0 rectos; B tiene 4 rectos pero 0 agudos y 0 obtusos. Ninguna reúne los tres tipos a la vez.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Modelacion",
+      "expected_success": 0.55,
+      "bundle_id": "CO-MAT-3-2026-W19-angulos-y-simetria-001-MASTERY-bundle",
+      "periodo": 19,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 3,
+      "country": "co"
+    }
+  ]
+}

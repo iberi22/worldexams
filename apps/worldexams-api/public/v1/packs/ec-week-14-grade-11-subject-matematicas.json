@@ -472,7 +472,7 @@
           "letter": "B",
           "text": "$f(x)$ es derivable en $(a, b)$.",
           "is_correct": false,
-          "feedback": "Incorrecto. Es un requisito fundamental."
+          "feedback": "Incorrecto. Rolle necesita la existencia de la derivada en todo el intervalo abierto."
         },
         {
           "letter": "C",

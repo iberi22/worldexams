@@ -691,7 +691,7 @@
           "letter": "A",
           "text": "work - worked",
           "is_correct": false,
-          "feedback": "That is a regular verb with the -ed participle."
+          "feedback": "\"Work\" is regular: it never changes before -ed, so its participle is simply \"worked\"."
         },
         {
           "letter": "B",
@@ -703,13 +703,13 @@
           "letter": "C",
           "text": "open - opened",
           "is_correct": false,
-          "feedback": "That is a regular verb with the -ed participle."
+          "feedback": "\"Open\" keeps its final -en unchanged and simply adds -d, giving \"opened\"."
         },
         {
           "letter": "D",
           "text": "walk - walked",
           "is_correct": false,
-          "feedback": "That is a regular verb with the -ed participle."
+          "feedback": "\"Walk\" already ends in -k and only takes -ed, so \"walked\" is not an irregular participle."
         }
       ],
       "correct_answer": "B",

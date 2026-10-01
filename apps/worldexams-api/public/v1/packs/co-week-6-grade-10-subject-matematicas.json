@@ -448,7 +448,7 @@
           "letter": "C",
           "text": "Solo $k = -3$",
           "is_correct": false,
-          "feedback": "Incorrecto. La ecuación cuadrática tiene dos soluciones."
+          "feedback": "Incorrecto. Al despejar $(k-1)^2 = 16$ se obtienen $k-1 = 4$ y $k-1 = -4$, es decir $k = 5$ y $k = -3$."
         }
       ],
       "correct_answer": "D",
