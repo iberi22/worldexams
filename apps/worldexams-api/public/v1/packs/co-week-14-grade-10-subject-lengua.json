@@ -1,0 +1,563 @@
+{
+  "metadata": {
+    "grade": 10,
+    "subject": "lengua",
+    "country": "co",
+    "pack_id": "co-week-14-grade-10-subject-lengua",
+    "generated_at": "2026-10-01T15:43:08.431Z"
+  },
+  "questions": [
+    {
+      "id": "CO-LEN-10-2026-W14-la-construccion-del-sabio-001-MASTERY-bundle-v1",
+      "statement": "¿Qué es la figura del sabio dentro de una obra?",
+      "context": "En una unidad sobre eloquencia y autoridad en el texto, el profesor de Bogotá pide que el grupo identifique a quién reconoce el texto como fuente de saber.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El personaje o la voz a la que el texto reconoce como fuente de conocimiento y autoridad",
+          "is_correct": true,
+          "feedback": "Correcto. La figura del sabio es la posición desde la que el texto autoriza un conocimiento, y por eso puede aparecer como personaje, narrador o voz citada."
+        },
+        {
+          "letter": "B",
+          "text": "El personaje más viejo de la obra, porque la edad equivale a experiencia",
+          "is_correct": false,
+          "feedback": "Incorrecto. La edad por sí sola no construye un sabio: lo que autoriza el conocimiento es la forma en que el texto presenta lo que esa voz dice."
+        },
+        {
+          "letter": "C",
+          "text": "El personaje que cuenta más historias, porque la cantidad de relatos equivale a sabiduría",
+          "is_correct": false,
+          "feedback": "Incorrecto. Contar historias no equivale a tener autoridad; el texto puede presentar a un narrador charlatan que solo acumula relatos sin sostener ninguna idea."
+        },
+        {
+          "letter": "D",
+          "text": "El autor de la obra, que aparece en persona a explicar su propio pensamiento",
+          "is_correct": false,
+          "feedback": "Incorrecto. El autor no suele aparecer como personaje en su obra: la voz que autoriza el texto es una figura construida dentro de él, no el autor real."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Un texto necesita fundar en algún lugar la autoridad de lo que afirma. Esa figura del sabio puede ser un personaje respetado, un narrador que aporta experiencia o una voz de la tradición que el texto cita como criterio. Reconocerla es el primer paso del análisis crítico, porque permite preguntar quién habla, con qué credenciales y por qué se le escucha dentro de la obra.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Textual",
+      "expected_success": 0.9,
+      "bundle_id": "CO-LEN-10-2026-W14-la-construccion-del-sabio-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-10-2026-W14-la-construccion-del-sabio-001-MASTERY-bundle-v2",
+      "statement": "En el uso del término, ¿cuál es la diferencia entre el sabio y el erudito?",
+      "context": "En una clase de Tunja, la profesora explica que el saber y el conocimiento no son la misma cosa dentro del discurso.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "No hay diferencia: las dos palabras significan que alguien sabe mucho",
+          "is_correct": false,
+          "feedback": "Incorrecto. Si las dos palabras significaran lo mismo, una de las dos sobraría. La erudición es acumulación de conocimiento y la sabiduría incluye el criterio para usarlo."
+        },
+        {
+          "letter": "B",
+          "text": "El erudito acumula conocimiento y el sabio lo aplica con criterio para resolver lo que se le pregunta",
+          "is_correct": true,
+          "feedback": "Correcto. La erudición es un fondo de datos y la sabiduría implica.Selectividad: saber qué sirve y qué no en cada situación."
+        },
+        {
+          "letter": "C",
+          "text": "El sabio es el que sabe mucho y el erudito es el que sabe poco, pero mejor informado",
+          "is_correct": false,
+          "feedback": "Incorrecto. La relación es al revés de lo que propone la opción: el erudito acumula conocimiento y el sabio lo pone al servicio de un propósito o de un criterio."
+        },
+        {
+          "letter": "D",
+          "text": "El sabio es el que escribe libros y el erudito es el que los lee con atención",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa distinción es de oficio y no de saber: un erudito puede escribir y un sabio puede no hacerlo nunca, porque ninguno de los dos hechos define la categoría."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Saber y erudición no son sinónimos dentro de un texto. La erudición es un depósito de información, y el sabio se reconoce por el criterio con que la usa: distingue lo relevante de lo superfluo y sabe decir cuándo no sabe. Esa diferencia es la que permite analizar en una obra a quién se le concede autoridad, porque no basta con que una voz afirme mucho: tiene además que acertar cuando el relato la pone a prueba.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Semantico",
+      "expected_success": 0.88,
+      "bundle_id": "CO-LEN-10-2026-W14-la-construccion-del-sabio-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-10-2026-W14-la-construccion-del-sabio-001-MASTERY-bundle-v3",
+      "statement": "¿Qué recursos usa el texto para construir esa autoridad?",
+      "context": "En un análisis de un cuento de Bucaramanga, el profesor pide que describan cómo el texto convince al lector de que quien habla merece ser creído.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El tono seguro, la experiencia que declara y la precisión con que responde a lo que se le pregunta",
+          "is_correct": true,
+          "feedback": "Correcto. Son tres recursos sumados los que convencen: seguridad en el tono, experiencia asumida y capacidad de responder con precisión."
+        },
+        {
+          "letter": "B",
+          "text": "La cantidad de datos que la voz acumula, porque más información equivale a más autoridad",
+          "is_correct": false,
+          "feedback": "Incorrecto. Acumular datos no garantiza autoridad: quien recita cifras sin criterio puede sonar autorizado y seguir siendo incomprensible para el lector."
+        },
+        {
+          "letter": "C",
+          "text": "El hecho de que esa voz aparezca en las últimas páginas, porque el final le da la razón",
+          "is_correct": false,
+          "feedback": "Incorrecto. Aparecer al final no concede autoridad por sí mismo; una afirmación sigue siendo más o menos plausible según lo que sostiene, no según su posición."
+        },
+        {
+          "letter": "D",
+          "text": "La ausencia de datos, porque lo que no se dice no puede ser errado",
+          "is_correct": false,
+          "feedback": "Incorrecto. Callar no equivale a acertar, y además el silencio también se interpreta: el lector construye una expectativa que luego puede romperse."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La autoridad de una voz dentro de un texto se construye con recursos lenguaje. El tono seguro enuncia seguridad, la experiencia declarada conecta lo que dice con lo que ha vivido y la precisión demuestra que puede sostener una afirmación. Ninguno de estos recursos basta por separado, y por eso un análisis puede preguntarse si la autoridad construida por la voz se sostiene cuando el relato la pone a prueba o si se desploma.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Discursivo",
+      "expected_success": 0.86,
+      "bundle_id": "CO-LEN-10-2026-W14-la-construccion-del-sabio-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-10-2026-W14-la-construccion-del-sabio-001-MASTERY-bundle-v4",
+      "statement": "¿Qué afirmación sostiene esa frase dentro de la tradición en la que aparece?",
+      "context": "En clase de Humanidades en Bogotá, se proyecta una imagen de Platón con la frase \"Solo sé que no sé\" y el profesor pregunta por su sentido.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que el conocimiento es imposible de alcanzar para cualquiera, de modo que nadie puede opinar",
+          "is_correct": false,
+          "feedback": "Incorrecto. La frase no lleva al silencio: sostiene que se puede saber, y por esodialogar. El punto no es que no haya conocimiento, sino conocer hasta dónde llega el propio."
+        },
+        {
+          "letter": "B",
+          "text": "Que quien reconoce su propia ignorancia ya sabe más que quien cree saberlo todo",
+          "is_correct": false,
+          "feedback": "Incorrecto. La tradición no premia al ignorante por modesto: premia a quien puede sostener una afirmación y, a la vez, medir su propio límite."
+        },
+        {
+          "letter": "C",
+          "text": "Que reconocer el límite de lo que uno sabe es la base desde la que se puede buscar el conocimiento",
+          "is_correct": true,
+          "feedback": "Correcto. La frase plantea la ignorancia como punto de partida y no como veredicto, porque solo quien mide su límite puede seguir preguntar."
+        },
+        {
+          "letter": "D",
+          "text": "Que el conocimiento se alcanza solo con la experiencia propia, sin ninguna conversación con otros",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa frase pertenece a un diálogo en el que el conocimiento se construye conversando, no de manera aislada ni solo con la experiencia propia."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Reconocer la propia ignorancia no es una Humildad decorativa, es una posición sobre el conocimiento. Si nadie puede decir qué es lo que todavía no sabe, no hay pregunta que formular y no hay aprendizaje posible. Por eso la afirmación es tan productiva en el pensamiento antiguo y en la tradición que de ella viene: coloca la duda como motor de la búsqueda y no como resignation.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Semantico",
+      "expected_success": 0.84,
+      "bundle_id": "CO-LEN-10-2026-W14-la-construccion-del-sabio-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-10-2026-W14-la-construccion-del-sabio-001-MASTERY-bundle-v5",
+      "statement": "¿Qué procedimiento de autoridad está construyendo esa frase?",
+      "context": "En un fragmento de ensayo en Cali, una voz afirma que ese es el único punto del que se puede decir con verdad que nadie sabe.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Una sjovedad de autoridad, porque se presenta como alguien que conoce el límite de lo que se puede saber",
+          "is_correct": true,
+          "feedback": "Correcto. Quien puede nombrar ese límite es apresentado como alguien que sabe hasta dónde llega el conocimiento, y eso le da autoridad sindogmatismo."
+        },
+        {
+          "letter": "B",
+          "text": "Una afirmación de superioridad, porque quien señala laignorancia de todos se coloca por encima de ellos",
+          "is_correct": false,
+          "feedback": "Incorrecto. Señalar lo que otros no saben sería una muestra de superioridad; pero aquí la voz se incluye en esa ignorancia y por eso no se coloca por encima."
+        },
+        {
+          "letter": "C",
+          "text": "Una después directo de la autoridad, porque la frase llega al final del párrafo y cierra el discurso",
+          "is_correct": false,
+          "feedback": "Incorrecto. La posición de la frase no es lo que construye la autoridad: lo que la sostiene es que el límite que enuncia se aplica también a quien enuncia."
+        },
+        {
+          "letter": "D",
+          "text": "Una citación de una autoridad externa, porque la frase se apoya en la autoridad de la tradición",
+          "is_correct": false,
+          "feedback": "Incorrecto. La frase no cita a nadie: se enuncia en primera persona del conocimiento y no se apoya en ninguna autoridad ajena."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Reconocer un límite es una forma de construir autoridad. Una voz que dice hasta dónde no se puede saber en un asunto demuestra un conocimiento del terreno que ninguna voz que afirma todo podría exhibir. Por eso un buen análisis no pregunta solo qué dice la figura del sabio, sino qué límite declara: ese límite es parte del personaje y también de la manera en que el texto convence al lector.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Textual",
+      "expected_success": 0.82,
+      "bundle_id": "CO-LEN-10-2026-W14-la-construccion-del-sabio-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-10-2026-W14-la-construccion-del-sabio-001-MASTERY-bundle-v6",
+      "statement": "¿Qué revela ese contraste sobre quién posee el conocimiento dentro de la obra?",
+      "context": "En un taller de lectura de Pereira, un grupo analiza una novela en la que el narrador escribe con soltura mientras el protagonista no sabe leer ni escribir y dicta sus cartas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que el protagonista no sabe nada, porque no puede hacer lo que el narrador sí hace",
+          "is_correct": false,
+          "feedback": "Incorrecto. Saber escribir es solo una forma de conocimiento: el protagonista conoce su situación, y esa competencia aparece en la obra aunque no sepa leer."
+        },
+        {
+          "letter": "B",
+          "text": "Que el narrador es un personaje con muy poca información, porque no participa en la acción",
+          "is_correct": false,
+          "feedback": "Incorrecto. No participar en la acción no equivale a saber poco: al contrario, esa distancia le permite conocer cosas que los personajes no pueden ver."
+        },
+        {
+          "letter": "C",
+          "text": "Que el acceso a la palabra escrita está en manos de quien tiene formación, y eso reparte el saber dentro de la obra",
+          "is_correct": true,
+          "feedback": "Correcto. El contraste muestra que en la obra el conocimiento no se reparte por igual, y que la voz capaz de escribir es la que puede dejar constancia de lo que otros dicen."
+        },
+        {
+          "letter": "D",
+          "text": "Que la novela no tiene trama, porque dos personajes con distinto nivel educativo no pueden interactuar",
+          "is_correct": false,
+          "feedback": "Incorrecto. La diferencia de formación no impide la interacción: al contrario, genera el conflicto entre el que habla y el que escribe."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El contraste entre quien habla y quien escribe distribuye el conocimiento dentro de la obra. Un personaje que dicta y otro que pone por escrito viven la misma historia desde capacidades distintas, y esa asimetría tiene consecuencias: lo que se dice puede perderse y lo que se escribe queda fijado. Por eso el detalle no es un adorno, es la evidencia de una estructura de poder dentro del relato.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Discursivo",
+      "expected_success": 0.8,
+      "bundle_id": "CO-LEN-10-2026-W14-la-construccion-del-sabio-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-10-2026-W14-la-construccion-del-sabio-001-MASTERY-bundle-v7",
+      "statement": "¿Qué lo identifica como tal?",
+      "context": "En una clase de Bogotá, la profesora pide que describan cómo se reconoce al sabio dentro de un relato, sin atender a su edad ni a su apariencia.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La seguridad con que habla, porque el tono convincente es la prueba de su autoridad",
+          "is_correct": false,
+          "feedback": "Incorrecto. El tono convincente puede usarlo cualquiera, incluido alguien que no sabe; por eso no basta como prueba y hay que atender a lo que esa voz sostiene."
+        },
+        {
+          "letter": "B",
+          "text": "Cómo sostiene lo que afirma, por ejemplo con argumentos o con la experiencia que declara",
+          "is_correct": true,
+          "feedback": "Correcto. Es la forma en que la voz responde lo que se le pregunta lo que construye el reconocimiento, no su cargo ni su tono."
+        },
+        {
+          "letter": "C",
+          "text": "La cantidad de libros que posee, porque el biblioteca es el fundamento del saber",
+          "is_correct": false,
+          "feedback": "Incorrecto. Tener muchos libros no garantiza criterio: el volumen de una colección no dice nada sobre la capacidad de usarlo, y menos dentro de un relato."
+        },
+        {
+          "letter": "D",
+          "text": "El cargo que ocupa, porque solo las posiciones altas merecen ser escuchadas",
+          "is_correct": false,
+          "feedback": "Incorrecto. El cargo da autoridad externa, no autoridad narrativa: un texto puede dar autoridad a una voz sin cargo y dejarla en un lugar desde el que su criterio pese."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "En el relato la autoridad del sabio es una construcción del texto, y por eso hay que poder nombrarla. La posición social puede dar autoridad externa, pero en la obra lo que convence al lector es el procedimiento de la voz: si responde con argumentos, si invoca lo que le ha ocurrido y si admite lo que no sabe. Un análisis preciso señala esos recursos y no se queda en descripciones tranquilizadoras del personaje.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Semantico",
+      "expected_success": 0.78,
+      "bundle_id": "CO-LEN-10-2026-W14-la-construccion-del-sabio-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-10-2026-W14-la-construccion-del-sabio-001-MASTERY-bundle-v8",
+      "statement": "¿Qué efecto pragmático tiene esa respuesta?",
+      "context": "En un campus de Bogotá, un conferencista responde a una pregunta que no domina y dice que esa pregunta excede lo que él puede responder.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Resta autoridad al conferencista, porque el público espera que responda todo",
+          "is_correct": false,
+          "feedback": "Incorrecto. Reconocer el límite de un saber no resta autoridad: la obliga a que su autoridad se sostenga en lo que realmente sabe y no en una promesa total."
+        },
+        {
+          "letter": "B",
+          "text": "Mantiene intacta su autoridad, porque no dijo nada que se pueda corregir",
+          "is_correct": false,
+          "feedback": "Incorrecto. La autoridad no se sostiene en callar, sino en responder bien: evasar una pregunta no protege el criterio, solo oculta una limitación."
+        },
+        {
+          "letter": "C",
+          "text": "Deja al público en la oscuridad, porque el límite no sirve de nada para quien escucha",
+          "is_correct": false,
+          "feedback": "Incorrecto. El límite del orador sí sirve: le indica a quien escucha hasta dónde puede confiar en lo que ese orador afirma, y eso ordena la recepción."
+        },
+        {
+          "letter": "D",
+          "text": "Ordena la recepción, porque señala hasta dónde el orador puede sostener lo que dice",
+          "is_correct": true,
+          "feedback": "Correcto. El límite declarado funciona como un mapa de la autoridad disponible, y permite al público evaluar el resto de sus afirmaciones con un criterio."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "La pragmática estudia cómo un enunciado produce efectos en quien lo recibe. Un \"no sabría responder a eso\" no es una vacío retórico: acota el alcance de lo que el orador puede sostener y modifica la confianza del público en el resto de su discurso. Por eso el análisis de la autoridad del sabio debe incluir los momentos en que esa autoridad se declara incompleta, porque ahí es donde se ve mejor su verdadera medida.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Pragmatico",
+      "expected_success": 0.76,
+      "bundle_id": "CO-LEN-10-2026-W14-la-construccion-del-sabio-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-10-2026-W14-la-construccion-del-sabio-001-MASTERY-bundle-v9",
+      "statement": "¿Qué lectura de ese cierre es más sólida?",
+      "context": "En un seminario de Bogotá, la profesora lee el final de una novela en la que el personaje que todo el texto présentó como sabio reconoce que estaba equivocado desde el principio.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La obra se contradice y por eso falla, porque el sabio no puede equivocarse",
+          "is_correct": false,
+          "feedback": "Incorrecto. Un personaje que se rectifica no convierte la obra en fallida: por el contrario, muestra que la autoridad construida era una construcción y no una verdad."
+        },
+        {
+          "letter": "B",
+          "text": "El autorqviro cambió de opinión a última hora, porque el cierre no concuerda con lo anterior",
+          "is_correct": false,
+          "feedback": "Incorrecto. No hay nada en el texto que permita atribuir ese giro a un cambio del autor; lo que hace el relato es poner a prueba a su propia voz."
+        },
+        {
+          "letter": "C",
+          "text": "La rectificación resuelve el conflicto de una forma cómoda, porque el personaje admite su error",
+          "is_correct": false,
+          "feedback": "Incorrecto. La comodidad no está en el relato: el error admite el personaje se convierte en un problema para todos los que vivieron bajo su autoridad."
+        },
+        {
+          "letter": "D",
+          "text": "El relato desmonta la autoridad que había construido, porque se muestra que era criterio y no certeza",
+          "is_correct": true,
+          "feedback": "Correcto. La obra cierra mostrando el límite del personaje, y con él desmonta la jerarquía que todo el relato había sostenido."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Un cierre que rectifica cambia por completo la lectura de todo el relato anterior. Si la voz que la obra presentó como fuente de criterio termina reconociendo su error, el lector debe releer las escenas anteriores como la construcción de una autoridad y no como la comunicación de una verdad. Ese desmonte es uno de los recursos más potentes del relato, porque enseña que el saber de una persona siempre está historiado y puede revisarse.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Evaluativo",
+      "expected_success": 0.74,
+      "bundle_id": "CO-LEN-10-2026-W14-la-construccion-del-sabio-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-10-2026-W14-la-construccion-del-sabio-001-MASTERY-bundle-v10",
+      "statement": "¿Qué inferencia sobre su autoridad se sostiene mejor?",
+      "context": "En un taller de análisis en Cartagena, los estudiantes leen un fragmento de una novela Haitian sobre un personaje que siempre responde a las preguntas con frases hechas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que el personaje domina el tema, porque tiene respuestas preparadas para cualquier situación",
+          "is_correct": false,
+          "feedback": "Incorrecto. Tener respuestas preparadas no demuestra dominio del tema: puede ser la estrategia de quien evita improvisar y no sabe qué hacer ante lo que no puede responder."
+        },
+        {
+          "letter": "B",
+          "text": "Que el personaje miente en todo lo que dice, porque ninguna de sus frases es propia",
+          "is_correct": false,
+          "feedback": "Incorrecto. El texto no permite concluir una mentira permanente; lo que muestra es una desconfianza del personaje ante cualquier situación no prevista."
+        },
+        {
+          "letter": "C",
+          "text": "Que la autoridad del personaje está hecha de frases Repetidas, no de criterio propio",
+          "is_correct": true,
+          "feedback": "Correcto. Como repite respuestas, su autoridad se apoya en la fuerza de la fórmula y no en un criterio que pueda sostener ante lo imprevisto."
+        },
+        {
+          "letter": "D",
+          "text": "Que el personaje no entiende nada, porque su hablar no se ajusta a la situación",
+          "is_correct": false,
+          "feedback": "Incorrecto. Un personaje puede entender bien la situación y aun así recurrir a fórmulas; el texto no dice que su comprensión sea nula."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Un personaje que responde siempre igual muestra un tipo de autoridad sostenida por la fórmula. Su credibilidad no proviene de un criterio, sino de la seguridad del sonido, y esa seguridad se revela cuando la situación exige improvisar. Por eso el análisis de esa figura debe fijarse no en lo que dice, sino en la distancia entre su fórmula y lo que cada escena le exige.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Competencia Lectora (Inferencial)",
+      "expected_success": 0.72,
+      "bundle_id": "CO-LEN-10-2026-W14-la-construccion-del-sabio-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-10-2026-W14-la-construccion-del-sabio-001-MASTERY-bundle-v11",
+      "statement": "Frente a un texto que afirma con seguridad y a un texto que admite lo que ignora, ¿qué juicio es correcto?",
+      "context": "En un seminario de literatura en Bucaramanga, dos grupos discuten si la autoridad del saber tiene la misma forma en dos textos muy distintos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Solo el primer texto construye autoridad, porque la duda debilita toda afirmación ante el lector",
+          "is_correct": false,
+          "feedback": "Incorrecto. Un texto puede construir autoridad sobre la base de declarar sus límites, y esa honestidad le da un criterio más sólido frente al lector."
+        },
+        {
+          "letter": "B",
+          "text": "Los dos textos construyen autoridad, solo que de manera distinta y con efectos distintos en la recepción",
+          "is_correct": true,
+          "feedback": "Correcto. La afirmación sostenida y el reconocimiento del límite son dos formas de construir autoridad, y cada una produce un efecto distinto en quien lee."
+        },
+        {
+          "letter": "C",
+          "text": "El segundo texto no construye autoridad, porque sus vacilaciones contradicen la seriedad de su contenido",
+          "is_correct": false,
+          "feedback": "Incorrecto. Reconocer lo que no se sabe no contradice la seriedad del contenido, y esa es precisamente una forma de autoridad duradera."
+        },
+        {
+          "letter": "D",
+          "text": "Ninguno de los dos textos construye autoridad, porque la autoridad solo existe fuera de las obras",
+          "is_correct": false,
+          "feedback": "Incorrecto. La autoridad en un texto es algo que se construye dentro de él, y ambos textos lo hacen de manera explícita y comprobable."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Comparar dos textos exige tratar la autoridad como un procedimiento y no como un rasgo que se tiene o no se tiene. Un texto que afirma con seguridad apela a la certeza, y uno que declara su ignorancia apela a la honestidad; ambos recursos pueden sostener la confianza del lector y también pueden fallar. Lo que cambia entre ellos es el efecto: la certeza invita a obedecer y el reconocimiento del límite invita a pensar.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Critico-Intertextual",
+      "expected_success": 0.68,
+      "bundle_id": "CO-LEN-10-2026-W14-la-construccion-del-sabio-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-10-2026-W14-la-construccion-del-sabio-001-MASTERY-bundle-v12",
+      "statement": "¿Cuál es la respuesta mejor fundada para rebatir esa afirmación?",
+      "context": "En un club de lectura de Medellín, un participante afirma que el sabio es el que nunca se equivoca.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "\"El sabio nunca se equivoca, porque el saber consiste en acertar siempre\"",
+          "is_correct": false,
+          "feedback": "Incorrecto. La respuesta repite la afirmación inicial sin sustained razonamiento, y de ese modo no aporta ningún elemento que permita revisarla."
+        },
+        {
+          "letter": "B",
+          "text": "\"Ningún texto presenta a alguien que sepa todo, así que esa figura no existe\"",
+          "is_correct": false,
+          "feedback": "Incorrecto. El texto no dice que la figura no exista, sino que esa figura se construye con un criterio, no con una certeza absoluta."
+        },
+        {
+          "letter": "C",
+          "text": "\"La antigüedad de una figura no demuestra que acierte, solo que lleva más tiempo\"",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa observación es cierta, pero no ataca la afirmación: el participante no habló de la antigüedad, sino de no equivocarse nunca."
+        },
+        {
+          "letter": "D",
+          "text": "\"El sabio se reconoce por el criterio con que sostiene lo que dice, no por acertar siempre\"",
+          "is_correct": true,
+          "feedback": "Correcto. Esta respuesta sustituye la definición: la autoridad de un personaje depende del criterio con que responde y también de cómo admite lo que no sabe."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "La figura del sabio no se sostiene en la infalibilidad, sino en el criterio. Un texto puede presentar a alguien que se equivoca y que, al hacerlo, pierda autoridad; y puede presentar a alguien que duda y que, al hacerlo, parezca más confiable. Por eso el análisis debe preguntar cómo se construye esa autoridad y no dar por sentado que la posición de sabio equivale a una infalibilidad que ningún texto concede.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Pragmatico",
+      "expected_success": 0.62,
+      "bundle_id": "CO-LEN-10-2026-W14-la-construccion-del-sabio-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 10,
+      "country": "co"
+    }
+  ]
+}

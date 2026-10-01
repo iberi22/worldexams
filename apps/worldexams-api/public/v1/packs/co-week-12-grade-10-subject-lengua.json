@@ -1,0 +1,563 @@
+{
+  "metadata": {
+    "grade": 10,
+    "subject": "lengua",
+    "country": "co",
+    "pack_id": "co-week-12-grade-10-subject-lengua",
+    "generated_at": "2026-10-01T15:43:08.431Z"
+  },
+  "questions": [
+    {
+      "id": "CO-LEN-10-2026-W12-la-novela-y-su-estructura-001-MASTERY-bundle-v1",
+      "statement": "¿Qué elementos configuran la estructura de una novela?",
+      "context": "En un taller de lectura en Bogotá, la profesora reparte una ficha para que el grupo identifique las partes que sostienen una novela.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El narrador, los personajes, el espacio, el tiempo y los hechos narrados",
+          "is_correct": true,
+          "feedback": "Correcto. Esos son los elementos del relato novelesco: quién cuenta, quién actúa, dónde, cuándo y qué ocurre, y todos ellos se organizan para formar la trama."
+        },
+        {
+          "letter": "B",
+          "text": "El título, la editorial, el año de publicación y el precio de la edición",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esos datos pertenecen a la edición y al material de la obra, no al relato: el título puede incluso cambiar sin que cambie la historia."
+        },
+        {
+          "letter": "C",
+          "text": "La biografía del autor, su ciudad natal, los premios que recibió y sus traducciones",
+          "is_correct": false,
+          "feedback": "Incorrecto. La biografía y los premios son datos del contexto del autor, útiles para leer la obra, pero no forman parte de su estructura narrativa."
+        },
+        {
+          "letter": "D",
+          "text": "La cantidad de capítulos, la extensión de cada uno y la tipografía usada",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esos son datos de la forma y de la presentación del libro; la estructura de la novela se construye con narrador, personajes, espacio, tiempo y hechos."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La estructura novelesca se construye con cinco elementos que se relacionan entre sí: el narrador, los personajes, el espacio, el tiempo y los hechos narrados. Los datos de edición, como el título o la portada, y los datos biográficos del autor pertenecen a otros niveles de análisis: los primeros son materiales y los segundos son contextuales. Ninguno de esos dos grupos participa en la organización interna de la historia.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Textual",
+      "expected_success": 0.9,
+      "bundle_id": "CO-LEN-10-2026-W12-la-novela-y-su-estructura-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-10-2026-W12-la-novela-y-su-estructura-001-MASTERY-bundle-v2",
+      "statement": "¿Cuál es la diferencia entre un personaje plano y uno redondeado?",
+      "context": "En una clase de Bogotá, la profesora explica la diferencia entre un personaje que solo tiene un rasgo y otro que se transforma.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El plano es el que más cambia a lo largo de la obra, mientras el redondeado permanece igual",
+          "is_correct": false,
+          "feedback": "Incorrecto. La relación está invertida: el personaje redondeado es el que puede cambiar y definirse por varios rasgos; el plano conserva siempre el mismo rasgo."
+        },
+        {
+          "letter": "B",
+          "text": "Los dos términos son sinónimos y designan al personaje que no desarrolla su vida interior",
+          "is_correct": false,
+          "feedback": "Incorrecto. No son sinónimos: si ambos designaran lo mismo no habría dos categorías. El redondeado posee vida interior y puede evolucionar; el plano se define por un solo rasgo."
+        },
+        {
+          "letter": "C",
+          "text": "El redondeado se define por varios rasgos y puede cambiar; el plano se reduce a un solo rasgo fijo",
+          "is_correct": true,
+          "feedback": "Correcto. Esa es la distinción: el personaje redondeado tiene una existencia propia y admite matices, mientras el plano funciona con un rasgo único, sin desarrollo."
+        },
+        {
+          "letter": "D",
+          "text": "El redondeado es el que el narrador describe con adjetivos y el plano es el que solo actúa",
+          "is_correct": false,
+          "feedback": "Incorrecto. La condición no depende de si el narrador lo describe con adjetivos, sino de si el personaje tiene o no vida interior y posibilidad de cambio."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Estas dos categorías sirven para medir cuánto existe un personaje dentro de la obra. El redondeado se reconoce porque el texto le concede varios rasgos, contrastes y capacidad de transformarse, de modo que el lector anticipa decisiones suyas. El plano cumple una función útil en la trama: puede reducirse a un rasgo único, sostenido por un detalle, y eso no lo convierte en un personaje incompleto, sino en un personaje de otra categoría.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Semantico",
+      "expected_success": 0.88,
+      "bundle_id": "CO-LEN-10-2026-W12-la-novela-y-su-estructura-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-10-2026-W12-la-novela-y-su-estructura-001-MASTERY-bundle-v3",
+      "statement": "¿Qué es el antagonista?",
+      "context": "En un club de lectura de Medellín, un grupo discute qué personaje se opone al héroe en la novela que están leyendo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El personaje que aparece con mayor frecuencia a lo largo de la obra",
+          "is_correct": false,
+          "feedback": "Incorrecto. La frecuencia de aparición no define a nadie: un antagonista puede tener pocas escenas y un personaje secundario puede aparecer en casi todas."
+        },
+        {
+          "letter": "B",
+          "text": "La fuerza que se opone a la voluntad del protagonista y pone en marcha el conflicto",
+          "is_correct": true,
+          "feedback": "Correcto. El antagonista es aquello que obstaculiza el objetivo del protagonista, y esa oposición es la que genera el conflicto central de la trama."
+        },
+        {
+          "letter": "C",
+          "text": "El narrador en primera persona que narra la historia desde su propia experiencia",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa descripción corresponde al narrador testigo o protagonista, que es una posición dentro del relato y no el conjunto de fuerzas que se oponen al héroe."
+        },
+        {
+          "letter": "D",
+          "text": "El personaje que muere al final de la novela",
+          "is_correct": false,
+          "feedback": "Incorrecto. La muerte de un personaje es un hecho menor de la trama; no es la razón por la que se lo considera antagonista, salvo en novelas donde esa muerte resuelve el conflicto."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El antagonista es la fuerza que se opone a lo que el protagonista quiere, y por eso es el motor del conflicto. Puede ser una persona, un grupo social, un conjunto de circunstancias o incluso una idea propia del personaje. Lo que lo caracteriza no es la cantidad de escenas ni su desenlace, sino la función narrativa que cumple: sin oposición no hay trama, porque no habría nada que resolver.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Textual",
+      "expected_success": 0.86,
+      "bundle_id": "CO-LEN-10-2026-W12-la-novela-y-su-estructura-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-10-2026-W12-la-novela-y-su-estructura-001-MASTERY-bundle-v4",
+      "statement": "¿Qué es el tema de una obra?",
+      "context": "En una clase de Bucaramanga, la profesora pide que el grupo separe la idea central de una novela del conjunto de hechos que la sostienen.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El resumen ordenado de los hechos contados, uno detrás de otro",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese resumen es el argumento: la secuencia de hechos. El tema es la idea que el conjunto de hechos construye y sostiene a lo largo de la obra."
+        },
+        {
+          "letter": "B",
+          "text": "El tipo de narrador que cuenta la historia, sea testigo, protagonista o testigo implícito",
+          "is_correct": false,
+          "feedback": "Incorrecto. La identidad del narrador es parte de la voz narrativa y del estilo de la obra; el tema es el contenido de ideas que la obra propone."
+        },
+        {
+          "letter": "D",
+          "text": "La afirmación o idea sobre la vida que los hechos y el desenlace sostienen en la obra",
+          "is_correct": true,
+          "feedback": "Correcto. El tema es la idea central que la obra enuncia por medio de los hechos: no se declara aparte, se deduce del desarrollo de la trama y de su desenlace."
+        },
+        {
+          "letter": "C",
+          "text": "El conjunto de personajes que acompañan al protagonista durante la historia",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese conjunto es el reparto de la obra. El tema es una afirmación, no un grupo de personajes, aunque los personajes ayuden a volverla visible."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "El tema responde a la pregunta sobre qué afirma la obra, mientras el argumento responde a qué ocurre. Ambos están relacionados, porque una idea solo se vuelve tema cuando los hechos y el desenlace la sostienen; si la novela dice una cosa y cuenta otra, el lector detecta la distancia y puede hablar de un tema irónico. Distinguir ambos permite pasar de seguir la historia a analizar lo que el autor quiere afirmar con ella.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Discursivo",
+      "expected_success": 0.84,
+      "bundle_id": "CO-LEN-10-2026-W12-la-novela-y-su-estructura-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-10-2026-W12-la-novela-y-su-estructura-001-MASTERY-bundle-v5",
+      "statement": "¿Qué efecto produce esa distribución del relato?",
+      "context": "En Cartagena, una alumna lee un fragmento donde el narrador dedica ocho páginas a una sola conversación y resume veinte años en dos líneas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La obra avanza más despacio durante los veinte años, porque el narrador los cuenta con detalle",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los veinte años ocupan dos líneas, de modo que el relato los avanza con rapidez; el detalle está en la conversación, no en ese periodo largo."
+        },
+        {
+          "letter": "B",
+          "text": "Contraste de duración, porque alarga el momento decisivo y comprime lo accesorio",
+          "is_correct": true,
+          "feedback": "Correcto. La diferencia entre ocho páginas y dos líneas construye una jerarquía: el autor señala con el espacio cuál episodio exige la atención del lector y cuál es secundario."
+        },
+        {
+          "letter": "C",
+          "text": "La ruptura de la trama, porque el narrador detiene la acción para mostrar una conversación",
+          "is_correct": false,
+          "feedback": "Incorrecto. Detenerse en una escena es un recurso habitual y no rompe la trama: al contrario, esa escena es la que explica el conflicto que el resumen deja en segundo plano."
+        },
+        {
+          "letter": "D",
+          "text": "La pérdida de información sobre los veinte años, porque el lector nunca los va a conocer",
+          "is_correct": false,
+          "feedback": "Incorrecto. El resumen sí informa al lector de esos años: los condensa. Lo que se sacrifica es el detalle, no el conocimiento de lo que ocurrió."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "LaNovela Organiza sus escenas con un principio de contraste. Cuando un episodio breve ocupa muchas líneas y un periodo largo se reduce a un par de líneas, el relato expresa jerarquía, no desorden. Ese trabajo con el ritmo es lo que permite que una novela de muchas páginas no se vuelva lenta, porque el autor reserva la lentitud para lo que quiere que el lector convierta en experiencia.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Discursivo",
+      "expected_success": 0.82,
+      "bundle_id": "CO-LEN-10-2026-W12-la-novela-y-su-estructura-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-10-2026-W12-la-novela-y-su-estructura-001-MASTERY-bundle-v6",
+      "statement": "¿Qué procedimiento narrativo comparten esas dos novelas?",
+      "context": "En un seminario de Cali, los estudiantes comparan \"Pedro Páramo\" con \"Cien años de soledad\" y.signal observan que en las dos obras los muertos siguen actuando.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Una coincidencia de tema, porque las dos obras hablan de la muerte",
+          "is_correct": false,
+          "feedback": "Incorrecto. Hablar de la muerte no es un procedimiento: es un contenido. Lo específico de ambas obras es que los muertos vuelven a formar parte de la acción y de la voz de los vivos."
+        },
+        {
+          "letter": "B",
+          "text": "Una semejanza de estilo, porque los dos autores escriben con frases largas y descripciones detalladas",
+          "is_correct": false,
+          "feedback": "Incorrecto. La longitud de las frases es un rasgo de estilo, no un procedimiento narrativo, y no explica por qué los muertos intervienen en la historia."
+        },
+        {
+          "letter": "C",
+          "text": "Una coincidencia de país, porque las dos historias transcurren en territorio colombiano",
+          "is_correct": false,
+          "feedback": "Incorrecto. La historia de \"Pedro Páramo\" no transcurre en Colombia sino en México, de modo que esa coincidencia no existe y no puede ser el procedimiento compartido."
+        },
+        {
+          "letter": "D",
+          "text": "Una superposición, porque los muertos siguen pesando sobre los vivos a través de quienes los recuerdan",
+          "is_correct": true,
+          "feedback": "Correcto. En las dos obras el pasado no queda cerrado: los muertos reaparecen en la memoria, en la voz o en la conducta de los vivos, y esa superposición es el recurso común."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Comparar dos textos exige separar lo que comparten en el contenido de lo que comparten en el procedimiento. Que dos obras hablen de la muerte no basta para considerarlas semejantes; lo relevante es el modo en que esa muerte se inscribe en el relato. Cuando los muertos vuelven a incidir en la acción, en la memoria o en la voz de los personajes, se revela un procedimiento narrativo, y ese procedimiento es lo que un buen lector debe nombrar.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Critico-Intertextual",
+      "expected_success": 0.78,
+      "bundle_id": "CO-LEN-10-2026-W12-la-novela-y-su-estructura-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-10-2026-W12-la-novela-y-su-estructura-001-MASTERY-bundle-v7",
+      "statement": "¿Qué resuelve exactamente el desenlace de una novela?",
+      "context": "En un taller de escritura de Pereira, la alumna llega con el último capítulo de su novela y pregunta si debe cerrar también el conflicto de su hermano menor.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El conflicto principal planteado al comienzo, aunque pueden quedar abiertos conflictos secundarios",
+          "is_correct": true,
+          "feedback": "Correcto. El desenlace cierra la línea de tensión central que la obra abrió, y no está obligado a cerrar todas: dejar un conflicto menor abierto es una decisión válida."
+        },
+        {
+          "letter": "B",
+          "text": "Todos los conflictos secundarios que el autor abrió a lo largo de la obra",
+          "is_correct": false,
+          "feedback": "Incorrecto. El desenlace resuelve el conflicto principal, no todo lo que quedó abierto en el camino; los conflictos secundarios no tienen por qué resolverse."
+        },
+        {
+          "letter": "C",
+          "text": "La explicación de la historia hacia atrás, para que el lector conozca los antecedentes",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa explicación corresponde a la exposición o a los antecedentes del relato, que aparecen antes; el desenlace ocurre al final y se ocupa del conflicto."
+        },
+        {
+          "letter": "D",
+          "text": "La escena más larga de la obra, porque el autor quiere ralentizar el ritmo de lectura",
+          "is_correct": false,
+          "feedback": "Incorrecto. Un desenlace no tiene por qué ser largo: puede ocupar un solo párrafo. Lo que lo define no es su extensión sino el hecho de que cierra el conflicto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El desenlace es la parte de la trama donde la tensión principal encuentra salida. Puede adoptar formas muy distintas, como una resolución favorable, una derrota o un personaje que cambia de opinión, y ninguna de esas formas es obligatoria. Lo que sí es obligatorio es que la obra resuelva el conflicto que ella misma abrió, porque una novela sin desenlace deja al lector sin respuesta a la pregunta que la historia le planteó.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Semantico",
+      "expected_success": 0.76,
+      "bundle_id": "CO-LEN-10-2026-W12-la-novela-y-su-estructura-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-10-2026-W12-la-novela-y-su-estructura-001-MASTERY-bundle-v8",
+      "statement": "¿Qué cambia para el lector?",
+      "context": "En una clase de Bogotá, dos versiones de la misma novela narran un|party el mismo asunto: una desde un narrador que sabe todo y otra desde uno que solo ve lo que ocurre frente a él.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El número de personajes, porque el narrador limitado deja de conocer a los secundarios",
+          "is_correct": false,
+          "feedback": "Incorrecto. El cambio de narrator no elimina personajes: modifica lo que el lector puede saber de ellos, pero el conjunto de personajes sigue presente en la obra."
+        },
+        {
+          "letter": "B",
+          "text": "La época en que ocurre la historia, porque el narrador pierde la memoria de lo anterior",
+          "is_correct": false,
+          "feedback": "Incorrecto. Saber menos no reescribe la cronología de los hechos: la historia sigue ubicándose en el mismo tiempo, solo cambia cuánto de ella se le cuenta al lector."
+        },
+        {
+          "letter": "C",
+          "text": "El acceso a la realidad, porque el lector pasa de recibir un saber total a trabajar con información limitada",
+          "is_correct": true,
+          "feedback": "Correcto. Cambiar de narrador cambia lo que el lector sabe y cuándo lo sabe, y por eso altera la manera de seguir la trama y de participar en ella."
+        },
+        {
+          "letter": "D",
+          "text": "Nada de eso, porque en los dos casos la historia contada es exactamente la misma",
+          "is_correct": false,
+          "feedback": "Incorrecto. La historia es la misma, pero la reconstrucción que se entrega al lector no lo es: el narrador limitado deja fuera lo que no puede ver."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La voz narrativa no es solo un medio para contar: es una frontera del conocimiento. Un narrador que sabe todo permite anticipar y comparar, mientras que uno que ve lo mismo que sus personajes obliga al lector a interpretar señales, silencios y sospechas. Por eso cambiar de narrador en una misma historia produce efectos distintos, y esa es una decisión de estructura, no un simple cambio de estilo.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Pragmatico",
+      "expected_success": 0.74,
+      "bundle_id": "CO-LEN-10-2026-W12-la-novela-y-su-estructura-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-10-2026-W12-la-novela-y-su-estructura-001-MASTERY-bundle-v9",
+      "statement": "¿Qué juicio sobre esa obra está mejor fundado?",
+      "context": "En un círculo de lectura de Medellín, una alumna presenta una novela de quinientas páginas con muchos personajes y sin ningún conflicto central, solo descripciones de un pueblo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es un género nuevo que reemplaza el argumento por la ambientación del lugar",
+          "is_correct": false,
+          "feedback": "Incorrecto. No existe un género que se defina por suprimir el argumento; una novela sin conflicto es una novela sin trama, y la descripción del lugar no ocupa ese lugar."
+        },
+        {
+          "letter": "B",
+          "text": "Es mejor que las demás novelas, porque el autor se concentró en el paisaje y no en los apuntes triviales",
+          "is_correct": false,
+          "feedback": "Incorrecto. La descripción del paisaje no convierte por sí sola una obra en mejor: sin conflicto no hay trama que sostener el peso de esas páginas."
+        },
+        {
+          "letter": "C",
+          "text": "Tiene material abundante, pero sin conflicto no hay trama: lo que reúne no configura una novela",
+          "is_correct": true,
+          "feedback": "Correcto. La descripción, los personajes y el paisaje son materia narrativa; lo que los articula en una obra es el conflicto, y sin él el conjunto queda disperso."
+        },
+        {
+          "letter": "D",
+          "text": "Es un texto de no ficción, porque no inventa ningún hecho ni ninguna acción",
+          "is_correct": false,
+          "feedback": "Incorrecto. La no ficción no se define por la ausencia de trama ni por no inventar acciones; es un género periodístico o documental con otros criterios."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Un juicio analítico sobre una novela debe apoyarse en sus elementos constitutivos. Si hay muchos personajes y mucha descripción pero ninguna oposición que resolver, lo que se tiene es materia narrativa sin organización. La trama nace del conflicto, y sin él el lector no tiene una pregunta que resolver, de modo que la obra pierde el eje que la sostenía, por más interesante que sea su mundo.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Evaluativo",
+      "expected_success": 0.72,
+      "bundle_id": "CO-LEN-10-2026-W12-la-novela-y-su-estructura-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-10-2026-W12-la-novela-y-su-estructura-001-MASTERY-bundle-v10",
+      "statement": "El texto dice: \"Doña Elvira dejó un sobre cerrado sobre la mesa antes de irse y nunca volvió por él\". ¿Qué inferencia se sostiene mejor?",
+      "context": "En un taller de análisis de Tunja, los estudiantes leen un fragmento de una novela ambientada en el Chocó.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El sobre quedó vacío, porque el narrador no menciona su contenido",
+          "is_correct": false,
+          "feedback": "Incorrecto. El silencio del narrador sobre el contenido no prueba que el sobre esté vacío; el dato que se da es que estaba cerrado, y una inferencia debe sostenerse en eso."
+        },
+        {
+          "letter": "B",
+          "text": "El sobre probablemente guarda algo que ella prefirió no dejar descubierto ante los demás",
+          "is_correct": true,
+          "feedback": "Correcto. Que fuera cerrado y que quedara atrás al irse permite inferir una voluntad de reserva, y esa inferencia respeta lo que el texto dice y lo que no dice."
+        },
+        {
+          "letter": "C",
+          "text": "Doña Elvira había escrito a la policía, porque el fragmento menciona a un detective",
+          "is_correct": false,
+          "feedback": "Incorrecto. El fragmento no menciona ningún detective ni ninguna denuncia, de modo que esa conclusión no tiene apoyo en el texto que se está analizando."
+        },
+        {
+          "letter": "D",
+          "text": "El narrador sabe qué hay dentro del sobre, porque lo describe como cerrado",
+          "is_correct": false,
+          "feedback": "Incorrecto. Describir un objeto como cerrado dice cómo se ve, no qué contiene; esa diferencia entre forma y contenido es precisamente la que la inferencia debe respetar."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Inferir es proponer una conclusión que el texto permite pero no afirma. El fragmento ofrece tres datos: el sobre estaba cerrado, Doña Elvira lo dejó al irse y nunca volvió por él. Con esos datos se sostiene la hipótesis de que quería algo reservado; no se sostiene que estuviera vacío, ni que hubiera una denuncia, ni que el narrador conociera el contenido. Reconocer el límite de la evidencia es la base de la lectura inferencial.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Competencia Lectora (Inferencial)",
+      "expected_success": 0.7,
+      "bundle_id": "CO-LEN-10-2026-W12-la-novela-y-su-estructura-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-10-2026-W12-la-novela-y-su-estructura-001-MASTERY-bundle-v11",
+      "statement": "¿Qué juicio corrige esa afirmación?",
+      "context": "En un seminario de literatura en Bucaramanga, un participante afirma que \"Pedro Páramo\" y \"Cien años de soledad\" son la misma obra porque las dos hablan de una familia que se repite.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "\"La comparación sirve si se precisa lo que se repite: el procedimiento de la familia que se renombra, no la historia\"",
+          "is_correct": true,
+          "feedback": "Correcto. La comparación es útil en el nivel del procedimiento, porque ambas obras organizan su trama con la repetición de nombres y generaciones, y no en el del argumento."
+        },
+        {
+          "letter": "B",
+          "text": "\"El participante tiene razón en todo, porque las dos obras narran literalmente la misma historia\"",
+          "is_correct": false,
+          "feedback": "Incorrecto. Narran historias distintas, con países, épocas y personajes diferentes; lo que se repite es un procedimiento de construcción, no el argumento de la obra."
+        },
+        {
+          "letter": "C",
+          "text": "\"La comparación no sirve de nada, porque comparar dos obras está prohibido\"",
+          "is_correct": false,
+          "feedback": "Incorrecto. Comparar textos es una práctica habitual del análisis literario; lo que no puede hacerse es comparar obras sin precisar en qué nivel se comparan."
+        },
+        {
+          "letter": "D",
+          "text": "\"Son novelas distintas, así que no hay nada comparable entre las dos\"",
+          "is_correct": false,
+          "feedback": "Incorrecto. Que sean obras distintas no impide compartir procedimientos: precisamente las comparaciones útiles aparecen entre obras que resuelven problemas narrativos distintos."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Un buen juicio comparativo precisa el nivel de la comparación. Dos novelas pueden compartir un procedimiento, como la repetición de nombres y generaciones que estructura ambas familias, y seguir siendo obras completamente distintas en argumento, época y país. Nombrar con exactitud qué se repite es lo que convierte una observación suelta en un análisis intertextual sólido.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Critico-Intertextual",
+      "expected_success": 0.68,
+      "bundle_id": "CO-LEN-10-2026-W12-la-novela-y-su-estructura-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-10-2026-W12-la-novela-y-su-estructura-001-MASTERY-bundle-v12",
+      "statement": "¿Cuál es la respuesta mejor fundada para rebatir esa afirmación?",
+      "context": "En un club de lectura de Barranquilla, un participante afirma que en una novela el final es siempre la parte más importante.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "\"El final es la parte más importante porque es la última que se escribe\"",
+          "is_correct": false,
+          "feedback": "Incorrecto. El orden de escritura no determina el valor de una sección de la obra, y la afirmación tampoco se ocupa de eso: se ocupa del peso que tiene el final."
+        },
+        {
+          "letter": "B",
+          "text": "\"El final no importa, porque el lector puede inventar su propio desenlace\"",
+          "is_correct": false,
+          "feedback": "Incorrecto. El lector no resuelve la historia por su cuenta: el desenlace está dado en el texto, de modo que la respuesta no ataca la afirmación del participante."
+        },
+        {
+          "letter": "C",
+          "text": "\"Los finales pesan más en otros géneros, porque en las novelas el lector los olvida pronto\"",
+          "is_correct": false,
+          "feedback": "Incorrecto. La comparación entre géneros no responde la afirmación, que se refiere al peso del final dentro de una novela concreta y a su relación con el resto."
+        },
+        {
+          "letter": "D",
+          "text": "\"El final cierra el conflicto, pero su valor depende de cómo lo preparó el relato y no puede juzgarse aislado\"",
+          "is_correct": true,
+          "feedback": "Correcto. Esta respuesta fundamenta su desacuerdo: el desenlace hereda sentido de todo lo que el relato construyó antes, y por eso valorarlo exige leer la obra completa."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "La sección final de una novela no se puede evaluar como una pieza suelta, porque su sentido depende de lo que el relato construyó antes. Un desenlace que contradice todo lo narrated pierde fuerza, y uno que resuelve lo prometido resulta coherente. Por eso la lectura del final es necesariamente retrospectiva: el lector vuelve sobre el camino recorrido y solo entonces puede valorar el cierre de la obra.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Pragmatico",
+      "expected_success": 0.62,
+      "bundle_id": "CO-LEN-10-2026-W12-la-novela-y-su-estructura-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 10,
+      "country": "co"
+    }
+  ]
+}

@@ -1,0 +1,563 @@
+{
+  "metadata": {
+    "grade": 10,
+    "subject": "lengua",
+    "country": "co",
+    "pack_id": "co-week-18-grade-10-subject-lengua",
+    "generated_at": "2026-10-01T15:43:08.432Z"
+  },
+  "questions": [
+    {
+      "id": "CO-LEN-10-2026-W18-el-texto-argumentativo-y-la-tematica-001-MASTERY-bundle-v1",
+      "statement": "¿Qué característica identifica a un texto argumentativo?",
+      "context": "En un salón de Bogotá, la profesora pide que el grupo separe las frases de un texto periodístico según lo que hacen.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Presenta una postura y la sostiene con razones y evidencia para convencer al lector",
+          "is_correct": true,
+          "feedback": "Correcto. La combinación de tesis, argumentos y evidencia es lo que define al texto argumentativo y lo que lo diferencia de un relato."
+        },
+        {
+          "letter": "B",
+          "text": "Narra hechos en orden cronológico y termina con una moraleja",
+          "is_correct": false,
+          "feedback": "Incorrecto. La narración cronológica con moraleja pertenece al texto narrativo, no al argumentativo, que no necesita narrar en orden los acontecimientos."
+        },
+        {
+          "letter": "C",
+          "text": "Enumera datos sin tomar posición, porque la objetividad exige callar",
+          "is_correct": false,
+          "feedback": "Incorrecto. Un texto puede presentar datos con neutralidad, pero esa ausencia de postura describe un texto informativo, no uno argumentativo."
+        },
+        {
+          "letter": "D",
+          "text": "Usa lenguaje poético para exaltar un valor, porque la emoción persuade mejor",
+          "is_correct": false,
+          "feedback": "Incorrecto. La exaltación del valor con recursos poéticos pertenece al texto lyric, y ahí la emoción sustituye a la razón."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El texto argumentativo se define por una intención: sostener una postura y convencer. Esa intención se materializa en una tesis, en argumentos que la apoyan y en evidencia que los respalda. La forma del texto cambia según el género, pero el núcleo no: sin una posición que defender, el texto es informativo, narrativo o descriptivo, no argumentativo.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Textual",
+      "expected_success": 0.9,
+      "bundle_id": "CO-LEN-10-2026-W18-el-texto-argumentativo-y-la-tematica-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-10-2026-W18-el-texto-argumentativo-y-la-tematica-001-MASTERY-bundle-v2",
+      "statement": "\"En el transporte público de Medellín se debe invertir en buses eléctricos.\" ¿Qué elemento contiene el enunciado?",
+      "context": "En Medellín, el profesor muestra dos enunciados sobre el mismo asunto y pide que el grupo los ordene por su postura.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Una evidencia, porque cita un dato numérico que respalda una posición",
+          "is_correct": false,
+          "feedback": "Incorrecto. El enunciado no aporta ningún dato: enuncia una posición sobre lo que se debe hacer."
+        },
+        {
+          "letter": "B",
+          "text": "Una tesis, porque expresa la postura que el texto defenderá",
+          "is_correct": true,
+          "feedback": "Correcto. La frase afirma lo que se debe hacer y por eso funciona como tesis, el enunciado que el resto del texto tendrá que sostener."
+        },
+        {
+          "letter": "C",
+          "text": "Un contraargumento, porque se opone a la postura contraria",
+          "is_correct": false,
+          "feedback": "Incorrecto. El enunciado no menciona ni rebate ninguna postura contraria, de modo que no hay contraargumento en él."
+        },
+        {
+          "letter": "D",
+          "text": "Una conclusión, porque cierra el texto y recoge lo demostrado",
+          "is_correct": false,
+          "feedback": "Incorrecto. Un enunciado inicial no cierra nada: la conclusión llega al final, después de los argumentos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La tesis es el enunciado que expresa la postura que se quiere convencer. Puede aparecer al principio, cuando el texto anuncia su postura, o al final, cuando el lector llega a ella después del recorrido. Reconocer cuál de los dos casos es el que se presenta ayuda a ordenar el resto del texto, porque cada argumento existe para sostener esa afirmación.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Semantico",
+      "expected_success": 0.88,
+      "bundle_id": "CO-LEN-10-2026-W18-el-texto-argumentativo-y-la-tematica-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-10-2026-W18-el-texto-argumentativo-y-la-tematica-001-MASTERY-bundle-v3",
+      "statement": "¿Cuál de estos enunciados es una tesis y no un dato?",
+      "context": "En Cali, el grupo lee dos afirmaciones sobre la misma Phenomenon para identificar cuál sostiene una postura.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "\"En 2025 se movieron 1.400 millones de pasajeros por el sistema de transporte.\"",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese enunciado es un dato: informa una cifra y no toma posición sobre nada."
+        },
+        {
+          "letter": "B",
+          "text": "\"Las cifras del transporte en la ciudad.\"",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese fragmento solo anuncia un asunto y no afirma nada: es un título, no una tesis."
+        },
+        {
+          "letter": "C",
+          "text": "\"El aumento del transporte privado disminuye la calidad del aire en las ciudades.\"",
+          "is_correct": true,
+          "feedback": "Correcto. La afirmación sostiene una postura sobre un hecho y por eso funciona como tesis, y no como simple descripción."
+        },
+        {
+          "letter": "D",
+          "text": "\"Según el informe del observatorio.\"",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese fragmento nombra una fuente y no enuncia ninguna postura, así que no puede ser una tesis."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Un dato informa una medición y se limita a describir; una tesis afirma algo del mundo y además toma posición sobre cómo debe entenderse. La diferencia se nota al preguntar qué cambiaría si la frase fuera falsa: si al contradecirla se cae la descripción, era un dato, y si se cae el punto de vista del autor, era una tesis. Esa prueba es la más rápida para distinguir los dos casos.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Textual",
+      "expected_success": 0.86,
+      "bundle_id": "CO-LEN-10-2026-W18-el-texto-argumentativo-y-la-tematica-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-10-2026-W18-el-texto-argumentativo-y-la-tematica-001-MASTERY-bundle-v4",
+      "statement": "Una tesis afirma que la lectura en voz alta mejora la comprensión. ¿Cuál opción apoya la tesis con evidencia?",
+      "context": "En un taller de escritura de Barranquilla, el grupo redacta un párrafo que necesita supporting con un dato y con un ejemplo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "\"Es una actividad que a todos nos gusta desde la infancia.\"",
+          "is_correct": false,
+          "feedback": "Incorrecto. La frase expresa una preferencia y no aporta ningún dato verificable que respalde la afirmación sobre la comprensión."
+        },
+        {
+          "letter": "B",
+          "text": "\"Los profesores de lenguaje deberían recomendarla siempre.\"",
+          "is_correct": false,
+          "feedback": "Incorrecto. La frase expresa una recomendación y no un dato, de modo que no puede sostenerse ni refutarse con mediciones."
+        },
+        {
+          "letter": "C",
+          "text": "\"En pruebas aplicadas a estudiantes de grado diez, quienes leyeron en voz alta Recordaron un treinta por ciento más de datos.\"",
+          "is_correct": true,
+          "feedback": "Correcto. La opción aporta un dato verificable, con población y resultado concreto, y eso convierte una opinión en evidencia."
+        },
+        {
+          "letter": "D",
+          "text": "\"Leer en voz alta es mejor que leer en silencio, sin ninguna duda.\"",
+          "is_correct": false,
+          "feedback": "Incorrecto. La frase repite la tesis con otras palabras y no añade ningún dato que la respalde."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Una evidencia es un dato que el lector puede verificar: dice quién se observó, en qué condiciones y con qué resultado. Cuando un argumento solo se apoya en lo que parece o en lo que se prefiere, el lector no tiene forma de comprobarlo, y la tesis queda como una opinión. Exigir el dato, con su contexto y su cifra, es el primer filtro para juzgar la solidez de un texto argumentativo.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Discursivo",
+      "expected_success": 0.82,
+      "bundle_id": "CO-LEN-10-2026-W18-el-texto-argumentativo-y-la-tematica-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-10-2026-W18-el-texto-argumentativo-y-la-tematica-001-MASTERY-bundle-v5",
+      "statement": "Un texto invita a los estudiantes a usar la bicicleta. ¿Qué frase satisface mejor el requisito de la situación comunicativa?",
+      "context": "En Bogotá, un student's committee escribe un texto para dos públicos distintos sobre el uso del transporte público.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "\"Los trayectos de menos de cinco kilómetros en Bogotá pueden recorrerse en bicicleta sin esfuerzo.\"",
+          "is_correct": true,
+          "feedback": "Correcto. La frase da una razón concreta y verificable para un destinatario que ya conoce la ciudad y puede calcular su propio trayecto."
+        },
+        {
+          "letter": "B",
+          "text": "\"Sean bienvenidos a esta sección sobre mobilidade.\"",
+          "is_correct": false,
+          "feedback": "Incorrecto. La frase solo anuncia el tema y no aporta ningún motivo que invite a cambiar de comportamiento."
+        },
+        {
+          "letter": "C",
+          "text": "\"Como ya saben, aquí se habla de bicicletas.\"",
+          "is_correct": false,
+          "feedback": "Incorrecto. La frase da por supuesto lo que debe enseñar y no entrega ninguna razón que motive la conducta propuesta."
+        },
+        {
+          "letter": "D",
+          "text": "\"Los ciclistas del mundo se mueven en dos ruedas.\"",
+          "is_correct": false,
+          "feedback": "Incorrecto. La frase es una afirmación general sin relación con Bogotá y sin ninguna razón que sirva para convencer al destinatario."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Un texto argumentativo cumple su función cuando adapta su contenido a la situación comunicativa: quién escribe, para quién y con qué propósito. El mismo motivo puede funcionar ante unindingentation uno público y fracasar ante otro, porque cambia lo que se sabe y lo que se busca. Revisar esos tres elementos antes de escribir evita el error más común, que es producir un texto correcto y Dirac no convincente.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Pragmatico",
+      "expected_success": 0.82,
+      "bundle_id": "CO-LEN-10-2026-W18-el-texto-argumentativo-y-la-tematica-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-10-2026-W18-el-texto-argumentativo-y-la-tematica-001-MASTERY-bundle-v6",
+      "statement": "\"Las regiones andinas del país dependen del agua, y muchas comunidades de zonas áridas no reciben agua continua.\" ¿Cuál es la síntesis correcta?",
+      "context": "En un ejercicio de Medellín, la profesora escribe dos síntesis posibles a partir de las mismas premisas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "\"Hay regiones que dependen del agua y otras que no.\"",
+          "is_correct": false,
+          "feedback": "Incorrecto. La frase invierte lo que las premisas dicen, porque ambas sostienen que hay dependencia del agua en las regiones señaladas."
+        },
+        {
+          "letter": "B",
+          "text": "\"La gestión del agua es un asunto que affecta a zonas con y sin agua abundante.\"",
+          "is_correct": true,
+          "feedback": "Correcto. La síntesis combina las dos premisas en una afirmación más general que las contiene y que explica la relación entre ellas."
+        },
+        {
+          "letter": "C",
+          "text": "\"Las comunidades que reciben agua continua no dependen de ella.\"",
+          "is_correct": false,
+          "feedback": "Incorrecto. La frase contradice las premisas, porque la dependencia del agua está justamente donde el recurso es escaso."
+        },
+        {
+          "letter": "D",
+          "text": "\"El agua no es un tema importante para el país.\"",
+          "is_correct": false,
+          "feedback": "Incorrecto. La síntesis no puede contradecir las premisas, y aquí la conversión hace exactamente eso: niega la importancia que ellas tensor."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La síntesis no es una repetición: es una afirmación más general que las premisas, que se sigue de ellas y las contiene sin contradecirlas. Para comprobarla, basta preguntarse si la síntesis podría ser falsa mientras todas las premisas fueran verdaderas; si es posible, la síntesis es incorrecta. Esa prueba es la que separa una conclusión legítima de una frase que parece profunda pero no se sostiene.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Semantico",
+      "expected_success": 0.8,
+      "bundle_id": "CO-LEN-10-2026-W18-el-texto-argumentativo-y-la-tematica-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-10-2026-W18-el-texto-argumentativo-y-la-tematica-001-MASTERY-bundle-v7",
+      "statement": "\"Quien dice que los buses sobran habla sin conocer la ciudad.\" ¿Qué problema tiene el argumento?",
+      "context": "En un taller de edición en Cali, el grupo revisa un artículo de opinión sobre el transporte en el que el autor descalifica a quien discrepa.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "No incluye cifras, y todo argumento necesita al menos un dato numérico",
+          "is_correct": false,
+          "feedback": "Incorrecto. Un argumento puede apoyarse en razones y ejemplos sin cifras; lo que falla aquí es el modo de refute la postura contraria."
+        },
+        {
+          "letter": "B",
+          "text": "Es muy corto, y los textos argumentativos deben tener al menos cuatro párrafos",
+          "is_correct": false,
+          "feedback": "Incorrecto. La longitud no es un criterio de validez argumentativa, y el defecto del enunciado está en su contenido."
+        },
+        {
+          "letter": "C",
+          "text": "Ataca a la persona que discrepa en lugar de atacar la razón que expone",
+          "is_correct": true,
+          "feedback": "Correcto. El enunciado descalifica a un interlocutor por sus supuestos antecedentes y no examina si su razón tiene fundamento."
+        },
+        {
+          "letter": "D",
+          "text": "Usa segunda persona, y ese tratamiento verbal impide una discusión respetuosa",
+          "is_correct": false,
+          "feedback": "Incorrecto. El tratamiento es un recurso del registro y no la causa del fallo; el problema es que se descarta la discusión del argumento."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Cuando un texto deja de examinar las razones del adversario y pasa a examinar quién es, comete una falacia de ataque personal. El recurso resulta eficaz para ridiculizar, pero destruye la posibilidad de que el lector valore la fuerza de la razón contraria. Reconocer ese movimiento es lo que permite responder con una objeción y no con una descalificación.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Discursivo",
+      "expected_success": 0.76,
+      "bundle_id": "CO-LEN-10-2026-W18-el-texto-argumentativo-y-la-tematica-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-10-2026-W18-el-texto-argumentativo-y-la-tematica-001-MASTERY-bundle-v8",
+      "statement": "\"Un país tiene dos caminos: modernizar su infraestructura o quedarse atrás en la pobreza.\" ¿Qué inferencia describe mejor la estructura del texto?",
+      "context": "En un seminario de Bogotá, el grupo encuentra un texto que ofrece solo dos salidas posibles para un problema social.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El texto propone una ruta intermedia que el lector no está viendo",
+          "is_correct": false,
+          "feedback": "Incorrecto. La estructura no ofrece ninguna tercera posibilidad, de modo que no hay ruta intermedia que recuperar."
+        },
+        {
+          "letter": "B",
+          "text": "El texto plantea una falsa disyuntiva, porque reduce la situación a solo dos opciones",
+          "is_correct": true,
+          "feedback": "Correcto. Presentar dos salidas como las únicas posibles descarta opciones reales, y eso es exactamente una falsa disyuntiva."
+        },
+        {
+          "letter": "C",
+          "text": "El texto es neutral, porque presenta las dos partes en el mismo número de palabras",
+          "is_correct": false,
+          "feedback": "Incorrecto. Simetria de extensión no equivale a neutralidad: la propia construcción de las dos salidas introduce un sesgo a favor de una."
+        },
+        {
+          "letter": "D",
+          "text": "El texto refute la modernización, porque la presenta como un riesgo",
+          "is_correct": false,
+          "feedback": "Incorrecto. El enunciado no rechaza la opción que menciona, solo la usa como contrapeso para favorecer la que recomienda."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Una falsa disyuntiva aparece cuando un texto presenta dos alternativas como si fueran las únicas posibles. El efecto es real: quien acepta la estructura ya aceptó, sin decirlo, que todo lo demás no existe. Por eso un lector crítico tiene que preguntar siempre cuántas opciones se han dejado fuera, porque una lista de dos puede ocultar decisiones muy distintas entre sí.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Competencia Lectora (Inferencial)",
+      "expected_success": 0.75,
+      "bundle_id": "CO-LEN-10-2026-W18-el-texto-argumentativo-y-la-tematica-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-10-2026-W18-el-texto-argumentativo-y-la-tematica-001-MASTERY-bundle-v9",
+      "statement": "Un crítico afirma que el tema de una novela es la violencia en el campo. ¿Cuál es la diferencia entre esa afirmación y una tesis?",
+      "context": "En un proyecto de lectura de Barranquilla, el grupo compara el tema de una obra con la tesis que un crítico le atribuye.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La primera nombra una cuestión que la obra explora, sin tomar posición sobre cómo debe verse",
+          "is_correct": true,
+          "feedback": "Correcto. El tema es la materia que la obra examina; no incluye ninguna valorización, mientras que la tesis sí sostiene una posición."
+        },
+        {
+          "letter": "B",
+          "text": "La primera es una tesis, porque afirma un contenido que el lector puede aceptar o rechazar",
+          "is_correct": false,
+          "feedback": "Incorrecto. Nombrar el contenido de una obra no equivale a defender una postura: el tema no dice cómo hay que entender ese contenido."
+        },
+        {
+          "letter": "C",
+          "text": "Son lo mismo, porque cualquier afirmación sobre una obra es una tesis",
+          "is_correct": false,
+          "feedback": "Incorrecto. Confundir tema con tesis borra la diferencia entre describir una obra y tomar partido sobre ella."
+        },
+        {
+          "letter": "D",
+          "text": "La diferencia es de extensión, porque los temas son cortos y las tesis largas",
+          "is_correct": false,
+          "feedback": "Incorrecto. La diferencia no está en el número de palabras, sino en la presencia o ausencia de una postura defendida."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El tema responde a la pregunta de qué trata la obra; la tesis responde a la pregunta de qué piensa el autor o el crítico sobre ese tratamiento. El primero abre una materia y el segundo toma posición sobre ella. Mantener los dos conceptos separados permite evaluar el juicio de un crítico sin confundirse con la simple descripción de su contenido.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Semantico",
+      "expected_success": 0.74,
+      "bundle_id": "CO-LEN-10-2026-W18-el-texto-argumentativo-y-la-tematica-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-10-2026-W18-el-texto-argumentativo-y-la-tematica-001-MASTERY-bundle-v10",
+      "statement": "Un texto dice: \"Nuestras ciudades están llenas de rateros porque este presidente tolera el robo en lugar de endurecer las leyes.\" ¿Cómo debe evaluarse el argumento?",
+      "context": "En un taller de Medellín, el grupo debe evaluar un texto que usa la calidad de un líder para descalificar sus políticas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es válido, porque la tesis y la consecuencia se encadenan de manera lógica",
+          "is_correct": false,
+          "feedback": "Incorrecto. El enlace es lógico en apariencia, pero se apoya en una generalización sin evidencia y en una acusación que no se demuestra."
+        },
+        {
+          "letter": "B",
+          "text": "Es válido, porque elUNTEM permetes introduces una causa clara y comprobable",
+          "is_correct": false,
+          "feedback": "Incorrecto. La causa invocada no se comprueba en el texto, de modo que el encadenamiento es solo aparente."
+        },
+        {
+          "letter": "C",
+          "text": "Es inválido, porque la tesis y la consecuencia se contradicen entre sí",
+          "is_correct": false,
+          "feedback": "Incorrecto. No hay contradicción interna: el problema del argumento es la calidad de la evidencia y el recurso retórico, no una tesis opuesta."
+        },
+        {
+          "letter": "D",
+          "text": "Es poco sólido, porque apoya una generalización con una acusación personal sin pruebas",
+          "is_correct": true,
+          "feedback": "Correcto. El recurso retórico da la impresión de causa, pero en realidad sustituye la evidencia por una acusación que el texto no demuestra."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Un argumento es sólido cuando la evidencia que presenta sostiene de verdad la conclusión que se quiere. Aquí la conclusión es general, pero el apoyo es una acusación concreta que el texto no demuestra, y ese desajuste debilita todo el razonamiento. Detectar el desajuste entre el alcance de la afirmación y el alcance del apoyo es una de las tareas centrales de la lectura crítica.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Evaluativo",
+      "expected_success": 0.72,
+      "bundle_id": "CO-LEN-10-2026-W18-el-texto-argumentativo-y-la-tematica-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-10-2026-W18-el-texto-argumentativo-y-la-tematica-001-MASTERY-bundle-v11",
+      "statement": "Un autor apoya su tesis en un estudio publicado por una universidad reconocida; otro en la experiencia diaria de los TAXIstas. ¿Qué evaluación es más precisa?",
+      "context": "En un seminario de Bogotá, dos autores debaten sobre el transporte de la ciudad y el grupo compara sus estrategias.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La segunda es más débil, porque las fuentes académicas siempre valen más que la experiencia",
+          "is_correct": false,
+          "feedback": "Incorrecto. El valor de una evidencia depende del alcance de la tesis y de si la fuente mide lo que dice medir."
+        },
+        {
+          "letter": "B",
+          "text": "La primera es más débil, porque los estudios académicos nunca consideran lo que vive la gente",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los estudios pueden considerar esas experiencias si están bien diseñados; el problema sería el método, no la condición del tema."
+        },
+        {
+          "letter": "C",
+          "text": "Ambas son igualmente sólidas, porque las dos fuentes son legítimas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Que las dos fuentes sean legítimas no las hace igualmente adecuadas: hay que ver si cada una mide lo que la tesis requiere."
+        },
+        {
+          "letter": "D",
+          "text": "Ambas pueden ser sólidas, si cada una mide lo que la tesis necesita sostener",
+          "is_correct": true,
+          "feedback": "Correcto. La valoración depende de la correspondencia entre lo que la evidencia mide y lo que la tesis afirma, no del prestigio de la fuente."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Evaluar una evidencia exige preguntar si lo que midió coincide con lo que el argumento necesita demostrar. Un estudio académico puede no decir nada sobre un problema si su población no corresponde, y un testimonio de experiencia puede ser sólido si describe con precisión lo que la tesis afirma. El criterio es la correspondencia entre la pregunta y el dato, no el prestigio de quien lo firma.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Competencia Lectora (Crítica)",
+      "expected_success": 0.72,
+      "bundle_id": "CO-LEN-10-2026-W18-el-texto-argumentativo-y-la-tematica-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-10-2026-W18-el-texto-argumentativo-y-la-tematica-001-MASTERY-bundle-v12",
+      "statement": "Un mismo texto argumentativo se va a publicar en un periódico y a leer en una reunión con los vecinos. ¿Qué debe cambiar?",
+      "context": "En Cali, el grupo prepara un texto para presentar en el concejo distrital y para publicar en un medio digital.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La tesis, porque cada medio exige una postura distinta sobre el mismo asunto",
+          "is_correct": false,
+          "feedback": "Incorrecto. La postura no depende del medio: lo que cambia es cómo se presenta y se ajusta el texto, no la conclusión que se defiende."
+        },
+        {
+          "letter": "B",
+          "text": "Nada, porque los dos formatos son públicos y comparten la misma audiencia",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los formatos piden códigos distintos y las audiencias no se superponen por completo."
+        },
+        {
+          "letter": "C",
+          "text": "Solo el título, porque es el único elemento que el lector encuentra primero",
+          "is_correct": false,
+          "feedback": "Incorrecto. El título importa, pero el registro, la longitud y el uso de datos también deben ajustarse al medio."
+        },
+        {
+          "letter": "D",
+          "text": "El registro y la extensión, porque cada medio tiene sus convenciones de lectura",
+          "is_correct": true,
+          "feedback": "Correcto. El texto conserva su tesis y sus razones, pero cambia de extensión y de registro para acomodarse a cada formato."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "El texto argumentativo no pierde su tesis al cambiar de formato: lo que se ajusta es la presentación. Un medio impreso admite una extensión larga y un tono más formal; una reunión vecinal pide frases breves y un registro cercano; una publicación digital pide brevedad y claridad inmediata. Reconocer que el contenido se conserva y el código se transforma evita dos errores: argumentar distinto en cada lugar y descuidar el formato.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Pragmatico",
+      "expected_success": 0.74,
+      "bundle_id": "CO-LEN-10-2026-W18-el-texto-argumentativo-y-la-tematica-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 10,
+      "country": "co"
+    }
+  ]
+}

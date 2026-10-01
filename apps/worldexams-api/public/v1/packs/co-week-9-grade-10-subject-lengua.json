@@ -1,0 +1,563 @@
+{
+  "metadata": {
+    "grade": 10,
+    "subject": "lengua",
+    "country": "co",
+    "pack_id": "co-week-9-grade-10-subject-lengua",
+    "generated_at": "2026-10-01T15:43:08.430Z"
+  },
+  "questions": [
+    {
+      "id": "CO-LEN-10-2026-W09-la-literatura-y-sus-generos-001-MASTERY-bundle-v1",
+      "statement": "¿Cuál de los siguientes NO es uno de los tres grandes géneros literarios?",
+      "context": "En una clase de literatura en Bogotá, el profesor explica que la literatura se divide en tres grandes géneros.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Expositivo",
+          "is_correct": true,
+          "feedback": "Correcto. El género expositivo no es uno de los tres grandes géneros literarios; los tres son lírico, narrativo y dramático."
+        },
+        {
+          "letter": "B",
+          "text": "Lírico",
+          "is_correct": false,
+          "feedback": "Incorrecto. El género lírico es uno de los tres grandes géneros literarios, junto con el narrativo y el dramático."
+        },
+        {
+          "letter": "C",
+          "text": "Narrativo",
+          "is_correct": false,
+          "feedback": "Incorrecto. El género narrativo es uno de los tres grandes géneros literarios, junto con el lírico y el dramático."
+        },
+        {
+          "letter": "D",
+          "text": "Dramático",
+          "is_correct": false,
+          "feedback": "Incorrecto. El género dramático es uno de los tres grandes géneros literarios, junto con el lírico y el narrativo."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Los tres grandes géneros literarios son el lírico (poesía), el narrativo (prosa que cuenta historias) y el dramático (teatro). Esta clasificación proviene de la Poética de Aristóteles y sigue siendo fundamental en el estudio de la literatura. Cada género tiene características, recursos y formas específicas que lo distinguen de los demás.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Textual",
+      "expected_success": 0.9,
+      "bundle_id": "CO-LEN-10-2026-W09-la-literatura-y-sus-generos-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-10-2026-W09-la-literatura-y-sus-generos-001-MASTERY-bundle-v2",
+      "statement": "¿Cuál de los siguientes textos pertenece al género lírico?",
+      "context": "En una tertulia literaria en Medellín, Doña Carmen explica que el género lírico se caracteriza por la expresión de sentimientos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "\"El coronel no tiene quien le escriba\" de Gabriel García Márquez",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta obra es una novela, que pertenece al género narrativo, no al lírico."
+        },
+        {
+          "letter": "B",
+          "text": "\"Veinte poemas de amor y una canción desesperada\" de Pablo Neruda",
+          "is_correct": true,
+          "feedback": "Correcto. Esta obra es una colección de poemas, que pertenece al género lírico, caracterizado por la expresión de sentimientos."
+        },
+        {
+          "letter": "C",
+          "text": "\"La casa de los espíritus\" de Isabel Allende",
+          "is_correct": false,
+          "feedback": "Incorrecto. El título y la ambientación histórica pueden hacer pensar en un texto mágico, pero la obra narra la saga de una familia con hechos, personajes y conflictos: eso la ubica en el género narrativo, no en el lírico."
+        },
+        {
+          "letter": "D",
+          "text": "\"Esperando a Godot\" de Samuel Beckett",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta obra es una obra de teatro, que pertenece al género dramático, no al lírico."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El género lírico se caracteriza por la expresión de sentimientos, emociones y subjetividad del autor. Sus formas más comunes son el poema, la oda, la elegía, la égloga y la canción. A diferencia del género narrativo, que cuenta historias, y del dramático, que representa acciones, el lírico se centra en la voz interior del poeta.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Semantico",
+      "expected_success": 0.88,
+      "bundle_id": "CO-LEN-10-2026-W09-la-literatura-y-sus-generos-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-10-2026-W09-la-literatura-y-sus-generos-001-MASTERY-bundle-v3",
+      "statement": "¿Cuál de las siguientes es una característica del género dramático?",
+      "context": "En un taller de teatro en Cali, la profesora explica que el género dramático se caracteriza por la representación de acciones.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La narración en primera persona",
+          "is_correct": false,
+          "feedback": "Incorrecto. La narración en primera persona es característica del género narrativo, no del dramático."
+        },
+        {
+          "letter": "B",
+          "text": "La expresión de sentimientos del autor",
+          "is_correct": false,
+          "feedback": "Incorrecto. La expresión de sentimientos es característica del género lírico, no del dramático."
+        },
+        {
+          "letter": "C",
+          "text": "La representación de acciones mediante diálogos",
+          "is_correct": true,
+          "feedback": "Correcto. El género dramático representa acciones mediante diálogos entre personajes, sin narrador que cuente la historia."
+        },
+        {
+          "letter": "D",
+          "text": "La descripción detallada de paisajes",
+          "is_correct": false,
+          "feedback": "Incorrecto. La descripción de paisajes es característica del género narrativo, no del dramático."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El género dramático se caracteriza por la representación de acciones mediante diálogos entre personajes, sin un narrador que cuente la historia. Sus formas más comunes son la tragedia, la comedia y el drama. A diferencia del género narrativo, que tiene un narrador, y del lírico, que expresa sentimientos, el dramático muestra la acción directamente a través de los personajes.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Discursivo",
+      "expected_success": 0.86,
+      "bundle_id": "CO-LEN-10-2026-W09-la-literatura-y-sus-generos-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-10-2026-W09-la-literatura-y-sus-generos-001-MASTERY-bundle-v4",
+      "statement": "Si el texto está escrito en verso y expresa sentimientos personales, ¿a qué género literario pertenece?",
+      "context": "En una clase de literatura en Barranquilla, el profesor presenta un texto donde un personaje reflexiona sobre la vida.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Narrativo",
+          "is_correct": false,
+          "feedback": "Incorrecto. El género narrativo cuenta historias en prosa; este texto está en verso y expresa sentimientos, lo que corresponde al lírico."
+        },
+        {
+          "letter": "B",
+          "text": "Dramático",
+          "is_correct": false,
+          "feedback": "Incorrecto. El género dramático representa acciones mediante diálogos; este texto expresa sentimientos personales, no representa acciones."
+        },
+        {
+          "letter": "C",
+          "text": "Expositivo",
+          "is_correct": false,
+          "feedback": "Incorrecto. El género expositivo informa o explica temas; este texto expresa sentimientos personales, no informa."
+        },
+        {
+          "letter": "D",
+          "text": "Lírico",
+          "is_correct": true,
+          "feedback": "Correcto. El género lírico se caracteriza por la expresión de sentimientos en verso; este texto cumple ambas características."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Para identificar el género literario de un texto, es necesario analizar su forma (verso o prosa), su contenido (historia, sentimientos o acción) y su propósito (contar, expresar o representar). En este caso, el texto está en verso y expresa sentimientos personales, lo que lo clasifica como género lírico, independientemente de que tenga un personaje que reflexiona.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Pragmatico",
+      "expected_success": 0.82,
+      "bundle_id": "CO-LEN-10-2026-W09-la-literatura-y-sus-generos-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-10-2026-W09-la-literatura-y-sus-generos-001-MASTERY-bundle-v5",
+      "statement": "¿Qué tipo de relación intertextual se está estableciendo entre estas dos obras?",
+      "context": "En un análisis literario en Manizales, el profesor compara \"Cien años de soledad\" con \"La Odisea\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Alusión",
+          "is_correct": true,
+          "feedback": "Correcto. La alusión es una referencia indirecta a otra obra; el profesor establece un paralelismo entre las dos obras, lo que es una alusión."
+        },
+        {
+          "letter": "B",
+          "text": "Parodia",
+          "is_correct": false,
+          "feedback": "Incorrecto. La parodia imita una obra con intención crítica o humorística; aquí no hay imitación ni crítica, hay un paralelismo temático."
+        },
+        {
+          "letter": "C",
+          "text": "Cita textual",
+          "is_correct": false,
+          "feedback": "Incorrecto. La cita textual reproduce las palabras exactas de otra obra; aquí no hay reproducción de palabras, hay un paralelismo temático."
+        },
+        {
+          "letter": "D",
+          "text": "Plagio",
+          "is_correct": false,
+          "feedback": "Incorrecto. El plagio copia una obra ajena y la presenta como propia; aquí no hay copia, hay un análisis comparativo."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La alusión es una referencia indirecta a otra obra, autor o situación. En el análisis literario, las alusiones permiten establecer paralelismos, contrastes y conexiones entre obras de diferentes épocas y culturas. En este caso, el profesor alude a \"La Odisea\" para enriquecer la comprensión de \"Cien años de soledad\" a través del paralelismo temático.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Critico-Intertextual",
+      "expected_success": 0.8,
+      "bundle_id": "CO-LEN-10-2026-W09-la-literatura-y-sus-generos-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-10-2026-W09-la-literatura-y-sus-generos-001-MASTERY-bundle-v6",
+      "statement": "¿Cuál de las siguientes respuestas sería la más adecuada para contraargumentar?",
+      "context": "En un debate sobre literatura en Bucaramanga, un estudiante dice: \"La novela es mejor que el cuento porque es más larga\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "\"Tienes razón, la novela es siempre mejor.\"",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta respuesta acepta la afirmación sin cuestionarla, lo que no es un contraargumento válido."
+        },
+        {
+          "letter": "B",
+          "text": "\"El cuento tiene su propio valor artístico; su brevedad exige precisión y concentración, como en los cuentos de Borges.\"",
+          "is_correct": true,
+          "feedback": "Correcto. Esta respuesta ofrece un contraargumento válido al mostrar una ventaja del cuento: su precisión y concentración, con un ejemplo concreto."
+        },
+        {
+          "letter": "C",
+          "text": "\"No estoy de acuerdo contigo en nada.\"",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta respuesta es vaga y no ofrece razones para refutar la afirmación; un contraargumento necesita evidencia y razonamiento."
+        },
+        {
+          "letter": "D",
+          "text": "\"Yo prefiero el teatro porque es más visual.\"",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta respuesta cambia de tema y no refuta la afirmación sobre la novela; además, no explica por qué es mejor."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Un contraargumento válido debe ofrecer razones objetivas que refuten la afirmación original. En este caso, la respuesta más adecuada muestra una ventaja del cuento: su brevedad exige precisión y concentración, lo que es un valor artístico en sí mismo. El ejemplo de los cuentos de Borges refuerza el argumento con evidencia concreta.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Evaluativo",
+      "expected_success": 0.78,
+      "bundle_id": "CO-LEN-10-2026-W09-la-literatura-y-sus-generos-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-10-2026-W09-la-literatura-y-sus-generos-001-MASTERY-bundle-v7",
+      "statement": "¿Qué tipo de narrador está utilizando el autor en este cuento?",
+      "context": "En un cuento de Bogotá, el narrador describe detalladamente los pensamientos y sentimientos del protagonista.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Narrador objetivo",
+          "is_correct": false,
+          "feedback": "Incorrecto. El narrador objetivo solo describe lo que ve y oye; aquí accede a los pensamientos y sentimientos del protagonista."
+        },
+        {
+          "letter": "B",
+          "text": "Narrador testigo",
+          "is_correct": false,
+          "feedback": "Incorrecto. El narrador testigo observa desde fuera; aquí accede a los pensamientos del protagonista, lo que indica un narrador omnisciente."
+        },
+        {
+          "letter": "C",
+          "text": "Narrador omnisciente",
+          "is_correct": true,
+          "feedback": "Correcto. El narrador omnisciente conoce los pensamientos y sentimientos de los personajes; aquí accede a la interioridad del protagonista."
+        },
+        {
+          "letter": "D",
+          "text": "Narrador protagonista",
+          "is_correct": false,
+          "feedback": "Incorrecto. El narrador protagonista cuenta en primera persona desde su propia perspectiva; aquí el narrador es externo y conoce al protagonista."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El narrador omnisciente es aquel que conoce absolutamente todo: los pensamientos, sentimientos y acciones de todos los personajes, así como eventos pasados y futuros. En el ejemplo, el narrador accede a la interioridad del protagonista, lo que indica un narrador omnisciente. Este tipo de narrador es común en la novela clásica y en el cuento literario.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Textual",
+      "expected_success": 0.75,
+      "bundle_id": "CO-LEN-10-2026-W09-la-literatura-y-sus-generos-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-10-2026-W09-la-literatura-y-sus-generos-001-MASTERY-bundle-v8",
+      "statement": "¿Qué efecto produce el uso de metáforas y símbolos en la novela?",
+      "context": "En una novela de Cali, el autor utiliza un lenguaje cargado de metáforas y símbolos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Simplificación del lenguaje",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las metáforas y símbolos enriquecen el lenguaje, no lo simplifican; añaden capas de significado."
+        },
+        {
+          "letter": "B",
+          "text": "Objetividad en la narración",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las metáforas y símbolos subjetivan la narración, porque filtran la realidad a través de la imaginación del autor."
+        },
+        {
+          "letter": "C",
+          "text": "Distanciamiento emocional del lector",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las metáforas y símbolos acercan emocionalmente al lector, porque apelan a la imaginación y a la sensibilidad."
+        },
+        {
+          "letter": "D",
+          "text": "Enriquecimiento del lenguaje y profundidad temática",
+          "is_correct": true,
+          "feedback": "Correcto. Las metáforas y símbolos enriquecen el lenguaje al añadir capas de significado y profundidad temática a la narración."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Las metáforas y símbolos son recursos literarios que enriquecen el lenguaje al añadir capas de significado y profundidad temática. La metáfora sustituye un término por otro por semejanza, mientras que el símbolo representa una idea abstracta a través de un objeto concreto. Estos recursos apelan a la imaginación y a la sensibilidad del lector, generando una experiencia estética más profunda.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Semantico",
+      "expected_success": 0.73,
+      "bundle_id": "CO-LEN-10-2026-W09-la-literatura-y-sus-generos-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-10-2026-W09-la-literatura-y-sus-generos-001-MASTERY-bundle-v9",
+      "statement": "¿Qué recurso literario está utilizando el autor en este poema?",
+      "context": "En un poema de Pasto, el autor utiliza la repetición de palabras para enfatizar una idea.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Anáfora",
+          "is_correct": true,
+          "feedback": "Correcto. La anáfora es la repetición de una palabra o frase al inicio de versos o estrofas; el autor usa la repetición para enfatizar una idea."
+        },
+        {
+          "letter": "B",
+          "text": "Metáfora",
+          "is_correct": false,
+          "feedback": "Incorrecto. La metáfora sustituye un término por otro por semejanza; aquí no hay sustitución, hay repetición de palabras."
+        },
+        {
+          "letter": "C",
+          "text": "Hipérbole",
+          "is_correct": false,
+          "feedback": "Incorrecto. La hipérbole es una exageración intencional; aquí no hay exageración, hay repetición de palabras."
+        },
+        {
+          "letter": "D",
+          "text": "Ironía",
+          "is_correct": false,
+          "feedback": "Incorrecto. La ironía dice lo contrario de lo que se piensa; aquí no hay contradicción, hay repetición para enfatizar."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La anáfora es un recurso literario que consiste en la repetición de una palabra o frase al inicio de versos, estrofas o párrafos. Su función es enfatizar una idea, crear ritmo y dar fuerza emocional al texto. Es un recurso muy común en la poesía, pero también se usa en la prosa literaria y en los discursos oratorios.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Discursivo",
+      "expected_success": 0.71,
+      "bundle_id": "CO-LEN-10-2026-W09-la-literatura-y-sus-generos-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-10-2026-W09-la-literatura-y-sus-generos-001-MASTERY-bundle-v10",
+      "statement": "¿Qué función cumplen las referencias a la mitología griega en la novela?",
+      "context": "En una novela de Cartagena, el autor incluye referencias a la mitología griega.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Simplificar la trama narrativa",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las referencias mitológicas no simplifican la trama; al contrario, la enriquecen al añadir capas de significado."
+        },
+        {
+          "letter": "B",
+          "text": "Enriquecer la obra con simbolismo y universalidad",
+          "is_correct": true,
+          "feedback": "Correcto. Las referencias mitológicas enriquecen la obra al conectarla con arquetipos universales y añadir capas de simbolismo."
+        },
+        {
+          "letter": "C",
+          "text": "Objetivar la narración",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las referencias mitológicas no objetivan la narración; al contrario, la enriquecen con simbolismo y profundidad."
+        },
+        {
+          "letter": "D",
+          "text": "Distanciar al lector de la historia",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las referencias mitológicas no distancían al lector; al contrario, lo conectan con temas universales y atemporales."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Las referencias a la mitología griega en una novela enriquecen la obra al conectarla con arquetipos universales y añadir capas de simbolismo. La mitología ofrece modelos de personajes, conflictos y situaciones que resuenan a través de los siglos, permitiendo al autor explorar temas humanos fundamentales como el amor, la muerte, el poder y la traición.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Critico-Intertextual",
+      "expected_success": 0.69,
+      "bundle_id": "CO-LEN-10-2026-W09-la-literatura-y-sus-generos-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-10-2026-W09-la-literatura-y-sus-generos-001-MASTERY-bundle-v11",
+      "statement": "¿Cuál de las siguientes afirmaciones sobre la función de la literatura es más acertada?",
+      "context": "En un taller de literatura en Armenia, la profesora explica que la literatura cumple una función estética y social.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La literatura solo tiene una función estética.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La literatura no solo tiene función estética; también cumple funciones sociales, culturales y educativas."
+        },
+        {
+          "letter": "B",
+          "text": "La literatura solo tiene una función social.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La literatura no solo tiene función social; también cumple funciones estéticas, culturales y educativas."
+        },
+        {
+          "letter": "C",
+          "text": "La literatura cumple funciones estéticas, sociales y culturales.",
+          "is_correct": true,
+          "feedback": "Correcto. La literatura cumple múltiples funciones: estética (belleza), social (reflejo de la sociedad), cultural (preservación de la tradición) y educativa."
+        },
+        {
+          "letter": "D",
+          "text": "La literatura no tiene ninguna función específica.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La literatura tiene múltiples funciones; decir que no tiene ninguna es ignorar su impacto en la sociedad y la cultura."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La literatura cumple múltiples funciones: estética (crea belleza con las palabras), social (refleja y critica la sociedad), cultural (preserva y transmite la tradición) y educativa (enseña valores y conocimientos). Estas funciones no son excluyentes; una misma obra puede cumplir varias funciones simultáneamente, dependiendo del contexto y de la interpretación del lector.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Pragmatico",
+      "expected_success": 0.65,
+      "bundle_id": "CO-LEN-10-2026-W09-la-literatura-y-sus-generos-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-10-2026-W09-la-literatura-y-sus-generos-001-MASTERY-bundle-v12",
+      "statement": "¿Cuál de las siguientes respuestas sería la más adecuada para contraargumentar?",
+      "context": "En una discusión sobre literatura en Pereira, un estudiante dice: \"La literatura no sirve para nada, es solo entretenimiento\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "\"Tienes razón, la literatura es solo entretenimiento.\"",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta respuesta acepta la afirmación sin cuestionarla, lo que no es un contraargumento válido."
+        },
+        {
+          "letter": "B",
+          "text": "\"No estoy de acuerdo contigo en nada.\"",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta respuesta es vaga y no ofrece razones para refutar la afirmación; un contraargumento necesita evidencia y razonamiento."
+        },
+        {
+          "letter": "C",
+          "text": "\"Yo leo solo por obligación, no por gusto.\"",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta respuesta es anecdótica y no refuta la afirmación; además, no explica por qué la literatura es valiosa."
+        },
+        {
+          "letter": "D",
+          "text": "\"La literatura también educa, preserva la cultura y nos ayuda a entender la condición humana, como muestran las obras de García Márquez.\"",
+          "is_correct": true,
+          "feedback": "Correcto. Esta respuesta ofrece un contraargumento válido al mostrar funciones de la literatura más allá del entretenimiento, con un ejemplo concreto."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Un contraargumento válido debe ofrecer razones objetivas que refuten la afirmación original. En este caso, la respuesta más adecuada muestra funciones de la literatura más allá del entretenimiento: educa, preserva la cultura y ayuda a entender la condición humana. El ejemplo de las obras de García Márquez refuerza el argumento con evidencia concreta.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Evaluativo",
+      "expected_success": 0.62,
+      "bundle_id": "CO-LEN-10-2026-W09-la-literatura-y-sus-generos-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 10,
+      "country": "co"
+    }
+  ]
+}

@@ -1,0 +1,563 @@
+{
+  "metadata": {
+    "grade": 10,
+    "subject": "lengua",
+    "country": "co",
+    "pack_id": "co-week-8-grade-10-subject-lengua",
+    "generated_at": "2026-10-01T15:43:08.429Z"
+  },
+  "questions": [
+    {
+      "id": "CO-LEN-10-2026-W08-la-perspectiva-y-el-punto-de-vista-001-MASTERY-bundle-v1",
+      "statement": "¿Cuál de los siguientes tipos de narrador cuenta la historia en tercera persona?",
+      "context": "En una clase de literatura en Bogotá, el profesor explica que el narrador es la voz que cuenta la historia.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Narrador omnisciente",
+          "is_correct": true,
+          "feedback": "Correcto. El narrador omnisciente cuenta la historia en tercera persona y conoce los pensamientos de todos los personajes."
+        },
+        {
+          "letter": "B",
+          "text": "Narrador protagonista",
+          "is_correct": false,
+          "feedback": "Incorrecto. El narrador protagonista cuenta la historia en primera persona, porque es parte de los eventos."
+        },
+        {
+          "letter": "C",
+          "text": "Narrador testigo",
+          "is_correct": false,
+          "feedback": "Incorrecto. El narrador testigo cuenta la historia en primera persona, porque observa los eventos desde fuera."
+        },
+        {
+          "letter": "D",
+          "text": "Narrador personaje",
+          "is_correct": false,
+          "feedback": "Incorrecto. El narrador personaje cuenta la historia en primera persona, porque es un personaje de la historia."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El narrador omnisciente es aquel que cuenta la historia en tercera persona (\"él\", \"ella\", \"ellos\") y conoce absolutamente todo: los pensamientos, sentimientos y acciones de todos los personajes, así como eventos pasados y futuros. Es el narrador más común en la novela clásica, como en \"Cien años de soledad\" de Gabriel García Márquez.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Textual",
+      "expected_success": 0.9,
+      "bundle_id": "CO-LEN-10-2026-W08-la-perspectiva-y-el-punto-de-vista-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-10-2026-W08-la-perspectiva-y-el-punto-de-vista-001-MASTERY-bundle-v2",
+      "statement": "¿Cuál de las siguientes opciones describe mejor el punto de vista en un texto narrativo?",
+      "context": "En una tertulia literaria en Medellín, Doña Carmen explica que el punto de vista es la perspectiva desde la que se cuenta la historia.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El lugar donde ocurre la historia",
+          "is_correct": false,
+          "feedback": "Incorrecto. El lugar donde ocurre la historia es el espacio narrativo, no el punto de vista."
+        },
+        {
+          "letter": "B",
+          "text": "La perspectiva desde la que se cuenta la historia",
+          "is_correct": true,
+          "feedback": "Correcto. El punto de vista es la perspectiva, el ángulo o la posición desde la que el narrador cuenta los eventos."
+        },
+        {
+          "letter": "C",
+          "text": "El tiempo en que transcurre la historia",
+          "is_correct": false,
+          "feedback": "Incorrecto. El tiempo en que transcurre la historia es el tiempo narrativo, no el punto de vista."
+        },
+        {
+          "letter": "D",
+          "text": "El tema central de la historia",
+          "is_correct": false,
+          "feedback": "Incorrecto. El tema central es el asunto principal de la historia, no el punto de vista."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El punto de vista narrativo es la perspectiva, el ángulo o la posición desde la que el narrador cuenta los eventos. Determina qué información recibe el lector, qué pensamientos de los personajes se conocen y qué tan cerca o lejos está el narrador de los hechos. Los principales puntos de vista son primera persona (protagonista o testigo), segunda persona y tercera persona (omnisciente u objetivo).",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Semantico",
+      "expected_success": 0.88,
+      "bundle_id": "CO-LEN-10-2026-W08-la-perspectiva-y-el-punto-de-vista-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-10-2026-W08-la-perspectiva-y-el-punto-de-vista-001-MASTERY-bundle-v3",
+      "statement": "¿Cuál de las siguientes es una característica del narrador objetivo?",
+      "context": "En un taller de escritura en Cali, la profesora explica que el narrador objetivo es como una cámara.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Conoce los pensamientos de todos los personajes",
+          "is_correct": false,
+          "feedback": "Incorrecto. El narrador objetivo no conoce los pensamientos de los personajes; solo describe lo que ve y oye, como una cámara."
+        },
+        {
+          "letter": "B",
+          "text": "Cuenta la historia en primera persona",
+          "is_correct": false,
+          "feedback": "Incorrecto. El narrador objetivo cuenta la historia en tercera persona, no en primera persona."
+        },
+        {
+          "letter": "C",
+          "text": "Solo describe lo que ve y oye, sin acceder a los pensamientos",
+          "is_correct": true,
+          "feedback": "Correcto. El narrador objetivo solo describe acciones, diálogos y escenarios, sin acceder a los pensamientos ni sentimientos de los personajes."
+        },
+        {
+          "letter": "D",
+          "text": "Emite juicios de valor sobre los personajes",
+          "is_correct": false,
+          "feedback": "Incorrecto. El narrador objetivo no emite juicios de valor; se limita a describir los hechos de manera neutral."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El narrador objetivo, también llamado narrador cámara, es aquel que cuenta la historia en tercera persona pero solo describe lo que puede ver y oír, como una cámara de cine. No accede a los pensamientos ni sentimientos de los personajes y no emite juicios de valor. Este tipo de narrador es común en el realismo y en la literatura contemporánea.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Discursivo",
+      "expected_success": 0.86,
+      "bundle_id": "CO-LEN-10-2026-W08-la-perspectiva-y-el-punto-de-vista-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-10-2026-W08-la-perspectiva-y-el-punto-de-vista-001-MASTERY-bundle-v4",
+      "statement": "¿Qué tipo de narrador está utilizando el detective en esta novela?",
+      "context": "En una novela policíaca en Barranquilla, el detective cuenta la historia desde su propia perspectiva.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Narrador omnisciente",
+          "is_correct": false,
+          "feedback": "Incorrecto. El narrador omnisciente conoce los pensamientos de todos los personajes; aquí el detective solo conoce su propia perspectiva."
+        },
+        {
+          "letter": "B",
+          "text": "Narrador objetivo",
+          "is_correct": false,
+          "feedback": "Incorrecto. El narrador objetivo no accede a los pensamientos de nadie; aquí el detective cuenta desde su propia perspectiva."
+        },
+        {
+          "letter": "C",
+          "text": "Narrador testigo",
+          "is_correct": false,
+          "feedback": "Incorrecto. El narrador testigo observa los eventos desde fuera; aquí el detective es el protagonista, no un observador."
+        },
+        {
+          "letter": "D",
+          "text": "Narrador protagonista",
+          "is_correct": true,
+          "feedback": "Correcto. El narrador protagonista cuenta la historia en primera persona desde su propia perspectiva, como el detective que narra su investigación."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "El narrador protagonista es aquel que cuenta la historia en primera persona (\"yo\") y es el personaje principal. En la novela policíaca, es común que el detective o investigador sea el narrador protagonista, porque permite al lector seguir la investigación desde la perspectiva del investigador y descubrir las pistas al mismo tiempo que él.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Pragmatico",
+      "expected_success": 0.82,
+      "bundle_id": "CO-LEN-10-2026-W08-la-perspectiva-y-el-punto-de-vista-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-10-2026-W08-la-perspectiva-y-el-punto-de-vista-001-MASTERY-bundle-v5",
+      "statement": "¿Qué efecto produce el uso de la primera persona en este cuento?",
+      "context": "En un cuento de Manizales, el narrador dice: \"Yo no sabía que mi amigo me traicionaría\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Cercanía emocional entre el lector y el narrador",
+          "is_correct": true,
+          "feedback": "Correcto. La primera persona permite al lector conocer los pensamientos y sentimientos del narrador, lo que genera cercanía emocional."
+        },
+        {
+          "letter": "B",
+          "text": "Distancia emocional entre el lector y la historia",
+          "is_correct": false,
+          "feedback": "Incorrecto. La primera persona acerca al lector a la historia, porque el narrador comparte sus pensamientos y sentimientos."
+        },
+        {
+          "letter": "C",
+          "text": "Objetividad en la narración de los eventos",
+          "is_correct": false,
+          "feedback": "Incorrecto. La primera persona subjetiva la narración, porque el narrador filtra los eventos a través de su perspectiva."
+        },
+        {
+          "letter": "D",
+          "text": "Conocimiento total de los pensamientos de todos los personajes",
+          "is_correct": false,
+          "feedback": "Incorrecto. La primera persona limita el conocimiento a la perspectiva del narrador, no permite conocer a todos los personajes."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El uso de la primera persona en la narración genera cercanía emocional entre el lector y el narrador, porque el lector accede directamente a los pensamientos, sentimientos y percepciones del narrador. Esta técnica es común en la literatura contemporánea y en la novela psicológica, donde el foco está en la experiencia subjetiva del personaje.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Critico-Intertextual",
+      "expected_success": 0.8,
+      "bundle_id": "CO-LEN-10-2026-W08-la-perspectiva-y-el-punto-de-vista-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-10-2026-W08-la-perspectiva-y-el-punto-de-vista-001-MASTERY-bundle-v6",
+      "statement": "¿Qué efecto produce este cambio de perspectiva en la novela?",
+      "context": "En una novela de Bucaramanga, el narrador cambia de primera a tercera persona en diferentes capítulos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Confusión en el lector sobre quién cuenta la historia",
+          "is_correct": false,
+          "feedback": "Incorrecto. El cambio de perspectiva no necesariamente confunde al lector; puede ser una técnica deliberada para mostrar diferentes puntos de vista."
+        },
+        {
+          "letter": "B",
+          "text": "Multiplicidad de voces y perspectivas en la historia",
+          "is_correct": true,
+          "feedback": "Correcto. El cambio de perspectiva permite mostrar diferentes puntos de vista, lo que enriquece la narración y da voz a varios personajes."
+        },
+        {
+          "letter": "C",
+          "text": "Uniformidad en la narración de los eventos",
+          "is_correct": false,
+          "feedback": "Incorrecto. El cambio de perspectiva no produce uniformidad; al contrario, muestra diferentes puntos de vista."
+        },
+        {
+          "letter": "D",
+          "text": "Simplificación de la trama narrativa",
+          "is_correct": false,
+          "feedback": "Incorrecto. El cambio de perspectiva no simplifica la trama; al contrario, la complejiza al mostrar diferentes ángulos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El cambio de perspectiva en una novela es una técnica narrativa que permite mostrar diferentes puntos de vista, enriquecer la trama y dar voz a varios personajes. Esta técnica es común en la novela contemporánea, donde se busca representar la complejidad de la realidad desde múltiples ángulos. El lector debe estar atento a los cambios de perspectiva para entender la historia completa.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Evaluativo",
+      "expected_success": 0.78,
+      "bundle_id": "CO-LEN-10-2026-W08-la-perspectiva-y-el-punto-de-vista-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-10-2026-W08-la-perspectiva-y-el-punto-de-vista-001-MASTERY-bundle-v7",
+      "statement": "¿Qué tipo de narrador está utilizando el autor en este cuento?",
+      "context": "En un cuento de Bogotá, el narrador dice: \"Ella no sabía que yo la observaba desde la ventana\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Narrador omnisciente",
+          "is_correct": false,
+          "feedback": "Incorrecto. El narrador omnisciente conoce los pensamientos de todos los personajes; aquí el narrador solo conoce su propia perspectiva."
+        },
+        {
+          "letter": "B",
+          "text": "Narrador protagonista",
+          "is_correct": false,
+          "feedback": "Incorrecto. El narrador protagonista es el personaje principal; aquí el narrador observa a otro personaje desde fuera."
+        },
+        {
+          "letter": "C",
+          "text": "Narrador testigo",
+          "is_correct": true,
+          "feedback": "Correcto. El narrador testigo observa los eventos desde fuera y cuenta en primera persona, pero no es el protagonista."
+        },
+        {
+          "letter": "D",
+          "text": "Narrador objetivo",
+          "is_correct": false,
+          "feedback": "Incorrecto. El narrador objetivo no accede a los pensamientos de nadie; aquí el narrador comparte su perspectiva y sus observaciones."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El narrador testigo es aquel que cuenta la historia en primera persona (\"yo\") pero no es el protagonista, sino un observador de los eventos. Este tipo de narrador es común en la literatura contemporánea, donde se busca una perspectiva cercana pero no protagónica. El narrador testigo puede compartir sus percepciones, opiniones y sentimientos, pero no conoce los pensamientos de los demás personajes.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Textual",
+      "expected_success": 0.75,
+      "bundle_id": "CO-LEN-10-2026-W08-la-perspectiva-y-el-punto-de-vista-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-10-2026-W08-la-perspectiva-y-el-punto-de-vista-001-MASTERY-bundle-v8",
+      "statement": "¿Qué efecto produce el contraste entre \"todos pensaban\" y \"yo sabía\" en esta frase?",
+      "context": "En una novela de Cali, el narrador dice: \"Todos pensaban que él era culpable, pero yo sabía la verdad\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Uniformidad en la perspectiva del narrador",
+          "is_correct": false,
+          "feedback": "Incorrecto. El contraste muestra que el narrador tiene una perspectiva diferente a la de los demás, no uniformidad."
+        },
+        {
+          "letter": "B",
+          "text": "Objetividad en la narración de los eventos",
+          "is_correct": false,
+          "feedback": "Incorrecto. El contraste subjetiva la narración, porque el narrador afirma que solo él conoce la verdad."
+        },
+        {
+          "letter": "C",
+          "text": "Conocimiento total de los pensamientos de todos los personajes",
+          "is_correct": false,
+          "feedback": "Incorrecto. El narrador no conoce los pensamientos de todos; solo afirma que su perspectiva es diferente a la de los demás."
+        },
+        {
+          "letter": "D",
+          "text": "Subjetividad y distancia crítica del narrador",
+          "is_correct": true,
+          "feedback": "Correcto. El contraste muestra que el narrador tiene una perspectiva subjetiva y una distancia crítica respecto a la opinión general."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "El contraste entre la opinión general (\"todos pensaban\") y la perspectiva del narrador (\"yo sabía\") produce subjetividad y distancia crítica. El narrador se posiciona como alguien que ve más allá de la opinión común, lo que genera intriga en el lector y lo invita a cuestionar las apariencias. Esta técnica es común en la novela psicológica y en el relato policial.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Semantico",
+      "expected_success": 0.73,
+      "bundle_id": "CO-LEN-10-2026-W08-la-perspectiva-y-el-punto-de-vista-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-10-2026-W08-la-perspectiva-y-el-punto-de-vista-001-MASTERY-bundle-v9",
+      "statement": "¿Qué recurso narrativo está utilizando el narrador en esta frase?",
+      "context": "En un cuento de Pasto, el narrador dice: \"Si yo fuera él, habría actuado de otra manera\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Identificación con el personaje",
+          "is_correct": true,
+          "feedback": "Correcto. El narrador se identifica con el personaje al imaginar cómo actuaría en su lugar, lo que muestra empatía y comprensión."
+        },
+        {
+          "letter": "B",
+          "text": "Flashback",
+          "is_correct": false,
+          "feedback": "Incorrecto. El flashback es una retrospección en el tiempo; aquí no hay retrospección, hay una hipótesis sobre cómo actuaría el narrador."
+        },
+        {
+          "letter": "C",
+          "text": "Flashforward",
+          "is_correct": false,
+          "feedback": "Incorrecto. El flashforward es una proyección al futuro; aquí no hay proyección, hay una hipótesis sobre cómo actuaría el narrador."
+        },
+        {
+          "letter": "D",
+          "text": "Distanciamiento del personaje",
+          "is_correct": false,
+          "feedback": "Incorrecto. El narrador no se distancia del personaje; al contrario, se identifica con él al imaginar cómo actuaría."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La identificación con el personaje es un recurso narrativo donde el narrador se pone en el lugar del personaje y imagina cómo actuaría en su situación. Este recurso muestra empatía, comprensión y cercanía emocional con el personaje. A diferencia del distanciamiento, que crea objetividad, la identificación subjetiva la narración y la hace más íntima.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Discursivo",
+      "expected_success": 0.71,
+      "bundle_id": "CO-LEN-10-2026-W08-la-perspectiva-y-el-punto-de-vista-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-10-2026-W08-la-perspectiva-y-el-punto-de-vista-001-MASTERY-bundle-v10",
+      "statement": "¿Qué función cumple la cita de la madre en la narración?",
+      "context": "En una novela de Cartagena, el narrador dice: \"Como decía mi madre, 'la verdad siempre sale a la luz'\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Distanciar al narrador de la historia",
+          "is_correct": false,
+          "feedback": "Incorrecto. La cita no distancía al narrador; al contrario, lo conecta con su pasado y con su madre."
+        },
+        {
+          "letter": "B",
+          "text": "Enraizar la historia en una tradición oral",
+          "is_correct": true,
+          "feedback": "Correcto. La cita de la madre enraíza la historia en una tradición oral, conectando la narración con la sabiduría popular y familiar."
+        },
+        {
+          "letter": "C",
+          "text": "Objetivar la narración",
+          "is_correct": false,
+          "feedback": "Incorrecto. La cita no objetiva la narración; al contrario, la subjetiva al incluir la voz y la sabiduría de la madre."
+        },
+        {
+          "letter": "D",
+          "text": "Simplificar la trama narrativa",
+          "is_correct": false,
+          "feedback": "Incorrecto. La cita no simplifica la trama; al contrario, la enriquece al añadir una capa de significado cultural y familiar."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La cita de la madre en la narración enraíza la historia en una tradición oral, conectando la narración con la sabiduría popular y familiar. Este recurso es común en la literatura latinoamericana, donde la voz de los ancestros y la tradición oral juegan un papel fundamental. La cita añade profundidad cultural y emocional a la historia.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Critico-Intertextual",
+      "expected_success": 0.69,
+      "bundle_id": "CO-LEN-10-2026-W08-la-perspectiva-y-el-punto-de-vista-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-10-2026-W08-la-perspectiva-y-el-punto-de-vista-001-MASTERY-bundle-v11",
+      "statement": "¿Cuál de las siguientes afirmaciones sobre el punto de vista es más acertada?",
+      "context": "En un taller de escritura en Armenia, la profesora explica que el punto de vista influye en cómo el lector interpreta la historia.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El punto de vista no influye en la interpretación del lector.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El punto de vista determina qué información recibe el lector y cómo interpreta los eventos, por eso influye directamente."
+        },
+        {
+          "letter": "B",
+          "text": "El punto de vista solo influye en la longitud de la historia.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El punto de vista no influye en la longitud; influye en la perspectiva, la información y la interpretación."
+        },
+        {
+          "letter": "C",
+          "text": "El punto de vista determina qué información recibe el lector y cómo interpreta los eventos.",
+          "is_correct": true,
+          "feedback": "Correcto. El punto de vista filtra la información que recibe el lector y determina su interpretación de los eventos y personajes."
+        },
+        {
+          "letter": "D",
+          "text": "El punto de vista solo influye en el ritmo de la narración.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El punto de vista no influye en el ritmo; influye en la perspectiva, la información y la interpretación."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El punto de vista narrativo es fundamental en la interpretación de una historia, porque determina qué información recibe el lector, qué pensamientos de los personajes se conocen y qué tan cerca o lejos está el narrador de los hechos. Un cambio de punto de vista puede transformar completamente la interpretación de la misma historia, por eso es una herramienta narrativa poderosa.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Pragmatico",
+      "expected_success": 0.65,
+      "bundle_id": "CO-LEN-10-2026-W08-la-perspectiva-y-el-punto-de-vista-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-10-2026-W08-la-perspectiva-y-el-punto-de-vista-001-MASTERY-bundle-v12",
+      "statement": "¿Cuál de las siguientes respuestas sería la más adecuada para contraargumentar?",
+      "context": "En una discusión sobre literatura en Pereira, un estudiante dice: \"El narrador omnisciente es mejor que el narrador protagonista porque sabe todo\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "\"Tienes razón, el narrador omnisciente es siempre mejor.\"",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta respuesta acepta la afirmación sin cuestionarla, lo que no es un contraargumento válido."
+        },
+        {
+          "letter": "B",
+          "text": "\"No estoy de acuerdo contigo en nada.\"",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta respuesta es vaga y no ofrece razones para refutar la afirmación; un contraargumento necesita evidencia y razonamiento."
+        },
+        {
+          "letter": "C",
+          "text": "\"Yo prefiero el narrador objetivo porque es más neutral.\"",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta respuesta cambia de tema y no refuta la afirmación sobre el narrador omnisciente; además, no explica por qué es mejor."
+        },
+        {
+          "letter": "D",
+          "text": "\"El narrador protagonista genera más cercanía emocional y permite al lector descubrir la historia junto al personaje.\"",
+          "is_correct": true,
+          "feedback": "Correcto. Esta respuesta ofrece un contraargumento válido al mostrar una ventaja del narrador protagonista: la cercanía emocional y el descubrimiento compartido."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Un contraargumento válido debe ofrecer razones objetivas que refuten la afirmación original. En este caso, la respuesta más adecuada muestra una ventaja del narrador protagonista: genera más cercanía emocional y permite al lector descubrir la historia junto al personaje. Esto demuestra que no hay un tipo de narrador \"mejor\" en términos absolutos, sino que cada uno tiene ventajas según el efecto que se busca.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Evaluativo",
+      "expected_success": 0.62,
+      "bundle_id": "CO-LEN-10-2026-W08-la-perspectiva-y-el-punto-de-vista-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 10,
+      "country": "co"
+    }
+  ]
+}

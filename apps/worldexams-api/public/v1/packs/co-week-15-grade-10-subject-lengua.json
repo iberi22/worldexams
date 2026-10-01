@@ -1,0 +1,563 @@
+{
+  "metadata": {
+    "grade": 10,
+    "subject": "lengua",
+    "country": "co",
+    "pack_id": "co-week-15-grade-10-subject-lengua",
+    "generated_at": "2026-10-01T15:43:08.431Z"
+  },
+  "questions": [
+    {
+      "id": "CO-LEN-10-2026-W15-la-literatura-y-los-medios-001-MASTERY-bundle-v1",
+      "statement": "¿Qué caracteriza a los medios de comunicación masivos?",
+      "context": "En una clase de Bogotá, el profesor introduce la unidad final comparando un libro, una serie de televisión y un podcast.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que permiten circular contenidos a un público amplio y dispersed en el tiempo y el espacio",
+          "is_correct": true,
+          "feedback": "Correcto. La circulación amplia es lo que define a estos medios: un mismo contenido puede alcanzar a millones de personas en lugares distintos."
+        },
+        {
+          "letter": "B",
+          "text": "Que solo transmiten información verificada por Computational fuentes, porque deben serundirected",
+          "is_correct": false,
+          "feedback": "Incorrecto. Verificar la información no es una condición del medio: los medios masivos también difunden versiones sin comprobar, y esa es una de sus limitaciones."
+        },
+        {
+          "letter": "C",
+          "text": "Que su contenido desaparece al terminar la emisión, porque existe solo mientras se transmite",
+          "is_correct": false,
+          "feedback": "Incorrecto. La radio y los periódicos muestran que los contenidos pueden conservarse y reemitirse después de su primera transmisión."
+        },
+        {
+          "letter": "D",
+          "text": "Que obligan al público a leer, porque el acceso al contenido siempre es escrito",
+          "is_correct": false,
+          "feedback": "Incorrecto. Existen medios sonoros y audiovisualess, y la radio o la televisión no requieren que el público lea para acceder a su contenido."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Los medios masivos se distinguen por la escala y por la simultaneidad con que llegan a un público numeroso y disperso. Esa circulación les permite difundir una misma versión de un hecho a millones de personas, y por eso son hoy el principal lugar donde se discute lo público. Esa misma característica trae un problema: amplifican tanto lo bien informado como lo falso, de modo que el lector crítico necesita distinguir la fuente.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Textual",
+      "expected_success": 0.9,
+      "bundle_id": "CO-LEN-10-2026-W15-la-literatura-y-los-medios-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-10-2026-W15-la-literatura-y-los-medios-001-MASTERY-bundle-v2",
+      "statement": "¿Cuál es la diferencia entre una adaptación y una traducción?",
+      "context": "En una clase de Medellín, la profesora contrasta la versión impresa de una novela con la adaptación que se hizo para televisión.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "No hay diferencia: las dos consisten en pasar una obra de un soporte a otro",
+          "is_correct": false,
+          "feedback": "Incorrecto. Una traducción cambia de lengua, y una adaptación cambia de soporte o de formato manteniendo la misma lengua. Son operaciones distintas."
+        },
+        {
+          "letter": "B",
+          "text": "La adaptación cambia de lengua y la traducción cambia de soporte",
+          "is_correct": false,
+          "feedback": "Incorrecto. Está al revés de lo que realmente ocurre: la traducción cambia de lengua y la adaptación conserva la lengua y cambia el formato."
+        },
+        {
+          "letter": "C",
+          "text": "La traducción cambia de lengua y la adaptación conserva la lengua cambiando el formato",
+          "is_correct": true,
+          "feedback": "Correcto. La traducción lleva el texto a otra lengua y la adaptación lo lleva a otro formato, como el cine, la serie o la historieta."
+        },
+        {
+          "letter": "D",
+          "text": "La adaptación solo existe para novelas, porque los demás textos no pueden adaptarse",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se adaptan también el cuento, el drama y el poesía, porque la adaptación es un procedimiento que depende del formato y no del género."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Traducir y adaptar son operaciones distintas que suelen confundirse. Traducir es llevar un texto a otra lengua, y adaptar es darle otra forma, como una escena, una historieta o una serie de capítulos. Ambas pueden alterar el original, pero por razones diferentes, de modo que quien compara dos versiones debe preguntar primero si lo que cambió fue la lengua o el soporte.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Semantico",
+      "expected_success": 0.88,
+      "bundle_id": "CO-LEN-10-2026-W15-la-literatura-y-los-medios-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-10-2026-W15-la-literatura-y-los-medios-001-MASTERY-bundle-v3",
+      "statement": "¿Qué distingue al género periodístico de una crónica de una noticia?",
+      "context": "En un taller de Cali, el grupo analiza un periodical de la ciudad y encuentra varios tipos de texto en la misma página.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La noticia informa de un hecho reciente y la crónica observa un proceso con contexto",
+          "is_correct": true,
+          "feedback": "Correcto. La noticia responde al qué, cuándo y dónde de un suceso, mientras la crónica acompaña un hecho o un proceso y explica su contexto."
+        },
+        {
+          "letter": "B",
+          "text": "La crónica se escribe en pasado y la noticia en presente",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los dos us pueden narrar en pasado o en presente; lo que los distingue es la relación con la fuente y con el estilo."
+        },
+        {
+          "letter": "C",
+          "text": "El género periodístico solo trabaja con datos y la crónica se apoya en Interpretationes",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las dos especies pueden contener datos e interpretación; la noticia prioriza el hecho y la crónica lo contextualiza."
+        },
+        {
+          "letter": "D",
+          "text": "La noticia busca impacto inmediato y la crónica se ocupa solo del pasado",
+          "is_correct": false,
+          "feedback": "Incorrecto. La noticia informa sobre algo reciente, mientras la crónica observa un proceso a lo largo del tiempo, de modo que ninguna se reduce a un contenido."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La noticia y la crónica pertenecen al periodismo escrito y se distinguen por su relación con el tiempo y la fuente. La noticia informa de un hecho reciente y responde a preguntas concretas. La crónica sigue un proceso y lo explica desde la experiencia de quien observa, por lo que admite un tono más personal. Reconocer la diferencia es lo que permite analizar cómo un mismo medicamento changes según el género en que aparece.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Discursivo",
+      "expected_success": 0.86,
+      "bundle_id": "CO-LEN-10-2026-W15-la-literatura-y-los-medios-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-10-2026-W15-la-literatura-y-los-medios-001-MASTERY-bundle-v4",
+      "statement": "¿Qué conviene analizar del titular?",
+      "context": "En una clase de Tunja, la profesora muestra dos versiones del titular de una misma noticia sobre un evento en el Magdalena.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Cómo presenta la información, porque la forma del titular orienta la reacción del lector",
+          "is_correct": true,
+          "feedback": "Correcto. Un mismo hecho puede titularse de manera neutra o cargada de intención, y esa elección decide qué espera el lector de la noticia."
+        },
+        {
+          "letter": "B",
+          "text": "Su longitud, porque un titular corto siempre informa mejor que uno largo",
+          "is_correct": false,
+          "feedback": "Incorrecto. La longitud no determina la calidad de un titular: lo que informa bien es la precisión, y un titular largo puede ser más exacto que uno breve."
+        },
+        {
+          "letter": "C",
+          "text": "El nombre del medio, porque el medio decide el contenido del titular",
+          "is_correct": false,
+          "feedback": "Incorrecto. El medio tiene una línea editorial, pero el titular se escribe para un hecho concreto; su efecto se analiza en el texto mismo, no en la cabecera."
+        },
+        {
+          "letter": "D",
+          "text": "El color con que aparece en la página, porque el diseño altera el contenido del mensaje",
+          "is_correct": false,
+          "feedback": "Incorrecto. El diseño puede influir en la atención, pero el contenido del mensaje está en las palabras del titular y en cómo presentan el hecho."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El titular es la primera frase que el lector encuentra, y por eso orienta su reacción antes de que lea la noticia. Presentar un hecho con una palabra neutral o con una palabra cargada produce efectos distintos sobre la opinión del público. Analizar un titular consiste entonces en preguntar qué información da, qué omite y qué expectativa despierta en quien solo va a leer el encabezado.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Pragmatico",
+      "expected_success": 0.84,
+      "bundle_id": "CO-LEN-10-2026-W15-la-literatura-y-los-medios-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-10-2026-W15-la-literatura-y-los-medios-001-MASTERY-bundle-v5",
+      "statement": "¿Qué cambia cuando un relato pasa de un formato a otro?",
+      "context": "En un taller de Bogotá, dos grupos analizan cómo una misma leyenda urbana se cuenta en una serie de capítulos y en un libro.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Nada importante, porque el relato es el mismo y solo se cambia el soporte",
+          "is_correct": false,
+          "feedback": "Incorrecto. La forma impone condiciones al relato: la duración de cada episodio, la cantidad de personajes y el ritmo dependen del formato."
+        },
+        {
+          "letter": "B",
+          "text": "El ritmo y el reparto, porque el formato obliga a estirar o comprimir escenas y personajes",
+          "is_correct": true,
+          "feedback": "Correcto. Una serie reparte el relato en episodios y tiene que sostener la atención capítulo a capítulo, mientras el libro puede detenerse donde quiera."
+        },
+        {
+          "letter": "C",
+          "text": "El lenguaje, porque cada formato obliga a escribir en un idioma distinto",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los formatos no cambian la lengua: cambian la estructura y el ritmo, y el idioma es otra cuestión, ajena a esa adaptación."
+        },
+        {
+          "letter": "D",
+          "text": "El número de personajes, porque en pantalla siempre caben menos que en un libro",
+          "is_correct": false,
+          "feedback": "Incorrecto. En pantalla caben tantos personajes como el relato necesite; lo que cambia es cómo se presenta cada uno, no un tope fijo de cantidad."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Adaptar un relato a otro formato es una decisión de estructura. En una serie, cada capítulo debe sostener por sí mismo un interesse y dejar un punto abierto, así que los relatos que en un libro se desarrollan despacio se vuelven acciones visibles. Reconocer que el ritmo y el reparto cambian es lo que permite explicar por qué un relato adaptado puede resultar distinto del original aunque la historia sea la misma.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Discursivo",
+      "expected_success": 0.82,
+      "bundle_id": "CO-LEN-10-2026-W15-la-literatura-y-los-medios-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-10-2026-W15-la-literatura-y-los-medios-001-MASTERY-bundle-v6",
+      "statement": "¿Qué relación se establece entre el anuncio y la novela?",
+      "context": "En una clase de Bucaramanga, el grupo analiza un anuncio que reproduce una frase completa de una novela colombiana.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Una parodia, porque el anuncio se burla de la novela que copia",
+          "is_correct": false,
+          "feedback": "Incorrecto. No hay burla en el anuncio: la frase se usa para_Create_Kapitalitatively algo nuevo, y una parodia necesitaría el propósito de ridiculizar."
+        },
+        {
+          "letter": "B",
+          "text": "Una cita textual, porque el anuncio reproduce las palabras exactas de la obra",
+          "is_correct": true,
+          "feedback": "Correcto. Reproducir la frase exacta de la novela es una cita textual, y esa copia crea una relación intertextual directa entre los dos textos."
+        },
+        {
+          "letter": "C",
+          "text": "Un plagio, porque el anuncio usa la obra sin pagarle derechos al autor",
+          "is_correct": false,
+          "feedback": "Incorrecto. La copia sin permiso es un asunto legal, no una categoría de relación entre textos; el plagio se define por la Fraud del autor, no por el soporte."
+        },
+        {
+          "letter": "D",
+          "text": "Una evocación sin relación, porque la frase no altera el sentido que tenía en la novela",
+          "is_correct": false,
+          "feedback": "Incorrecto. Al cambiar de contexto la frase cambia de función: en el anuncio deja de ser una reflexión literaria y se vuelve un argumento de venta."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Las relaciones intertextuales se distinguen por su procedimiento y no por el parecido de las palabras. Una cita reproduce el texto tal cual, mientras la parodia lo imita con propósito crítico, y la evocación solo sugiere algo sin copiar. En un anuncio, la frase de la novela cambia de función y se vuelve argumento, de modo que el mismo palabras dice otra cosa en el contexto publicitario.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Critico-Intertextual",
+      "expected_success": 0.8,
+      "bundle_id": "CO-LEN-10-2026-W15-la-literatura-y-los-medios-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-10-2026-W15-la-literatura-y-los-medios-001-MASTERY-bundle-v7",
+      "statement": "¿Qué distingue esa forma de relato de una crónica escrita?",
+      "context": "En un taller de Pereira, el profesor pide que describan cómo funciona el relato de una experiencia compartida en redes sociales.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que no tiene ninguna diferencia, porque ambas cuentan hechos del pasado",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los dos relatos cuentan hechos del pasado, pero lo que los distingue es la función del autor y la clase de distancia que se construye con el lector."
+        },
+        {
+          "letter": "B",
+          "text": "Que aparece en un libro, porque las redes sociales solo publican libros completos",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las redes sociales no publican libros completos: publican notas breves, y ese soporte es precisamente la diferencia que se está preguntando."
+        },
+        {
+          "letter": "C",
+          "text": "Que no tiene autor identificable, porque cualquiera puede publicar y por eso nadie es responsable",
+          "is_correct": false,
+          "feedback": "Incorrecto. Que cualquiera pueda publicar no elimina la autoría del relato que alguien concreto firma, y eso sigue siendo verificable."
+        },
+        {
+          "letter": "D",
+          "text": "Que se escribe desde la experiencia personal y busca una cercanía inmediata con quien la lee",
+          "is_correct": true,
+          "feedback": "Correcto. El relato en red se construye en primera persona y con un tono cercano, porque su efecto depende de la sensación deximity que produce."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "El relato que circula en redes sociales tiene una dinámica propia. Se escribe en primera persona, con un tono coloquial, y su valor está en la sensación de cercanía que produce: quien lee siente que la cosa le pasa a él también. Esa inmediatez es sugebühr fortaleza y su riesgo, porque un relato pensado para la cercanía con el lector puede descuidar los datos comprobables que un género periodístico exige.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Semantico",
+      "expected_success": 0.78,
+      "bundle_id": "CO-LEN-10-2026-W15-la-literatura-y-los-medios-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-10-2026-W15-la-literatura-y-los-medios-001-MASTERY-bundle-v8",
+      "statement": "¿Qué efecto tiene esa coexistencia sobre el relato?",
+      "context": "En una clase de Barranquilla, el profesor muestra que una serie de televisión tiene una versión escrita y que una parte del público sigue el relato en ambos formatos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Debilita la historia, porque el público se confunde al ver la misma historia dos veces",
+          "is_correct": false,
+          "feedback": "Incorrecto. La coexistencia no confunde al público: le permite elegir el formato y, además, ampliar los momentos que en el otro formato quedaron resumidos."
+        },
+        {
+          "letter": "B",
+          "text": "Permite que el público participe, porque puede intervenir en el relato entre un formato y otro",
+          "is_correct": true,
+          "feedback": "Correcto. Ese contacto entre formatos es lo que hoy se llama transmedialidad, y convierte al público en parte activa de la historia."
+        },
+        {
+          "letter": "C",
+          "text": "Elimina al lector, porque ya no hace falta leer porque la serie cuenta lo mismo",
+          "is_correct": false,
+          "feedback": "Incorrecto. Seguir un relato en dos formatos no elimina la lectura, la amplía, y cada formato destaca elementos que el otro calla."
+        },
+        {
+          "letter": "D",
+          "text": "Reduce el coste de producción, porque la versión escrita reemplaza a la audiovisual",
+          "is_correct": false,
+          "feedback": "Incorrecto. La coexistencia no reduce costes: la versión escrita exige un trabajo adicional, y su función no es sustituir a la audiovisual."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Hoy un mismo relato puede habitar en varios formatos a la vez, y esa cohabitación es lo que se llama transmedialidad. El público no solo recibe: comenta, vota, escribe y puede modificar lo que viene después. Analizar este fenómeno exige distinguir la fuente del relato, que sigue siendo una, del lugar desde donde cada persona lo vive, que puede ser la pantalla o el papel.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Pragmatico",
+      "expected_success": 0.76,
+      "bundle_id": "CO-LEN-10-2026-W15-la-literatura-y-los-medios-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-10-2026-W15-la-literatura-y-los-medios-001-MASTERY-bundle-v9",
+      "statement": "¿Qué explica mejor las diferencias entre las versiones?",
+      "context": "En un seminario de Cartagena, se analiza un periodo en el que un mismo caso de corrupción es contado de manera distinta por varios canales de noticias.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que cada medio se inventa su propia versión, porque no existe un hecho único detrás",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las versiones difieren, pero el hecho del que hablan es el mismo; lo que cambia es la manera de contarlo."
+        },
+        {
+          "letter": "B",
+          "text": "Que los canales se copian entre sí, de modo que solo hay un relato",
+          "is_correct": false,
+          "feedback": "Incorrecto. La copia entre canales podría ocurrir, pero no explica por qué las versiones difieren entre sí, que es lo que la pregunta pide."
+        },
+        {
+          "letter": "C",
+          "text": "Que cada medio elige qué datos destacar y en qué orden presentarlos",
+          "is_correct": true,
+          "feedback": "Correcto. Cada medio construye su relato con una selección de datos y con un orden, y esa bet deliberada produce versiones distintas."
+        },
+        {
+          "letter": "D",
+          "text": "Que los hechos cambian según el canal, porque no hay una investigación común",
+          "is_correct": false,
+          "feedback": "Incorrecto. El hecho no cambia por el canal: lo que cambia es el enfoque, y esa es una diferencia de relato y no de realidad."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Comparar versiones periodísticas del mismo hecho es un ejercicio de análisis del relato. Cada medio selecciona unos datos, deja otros fuera y elige un orden, y esa bet deliberada produce lecturas distintas del mismo suceso. Por eso un lector informado no busca la versión más rotunda, sino la que declara sus fuentes y permite reconstruir lo que falta.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Discursivo",
+      "expected_success": 0.74,
+      "bundle_id": "CO-LEN-10-2026-W15-la-literatura-y-los-medios-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-10-2026-W15-la-literatura-y-los-medios-001-MASTERY-bundle-v10",
+      "statement": "¿Qué inferencia sobre la posición del autor se sostiene mejor?",
+      "context": "En un taller de Medellín, el grupo lee una columna de opinión sobre una serie de televisiónaquebec y nota que su autor praises el personaje secundario por encima del protagonista.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que el autor no ha visto la serie, porque su preference por un personaje no corresponde al relato",
+          "is_correct": false,
+          "feedback": "Incorrecto. Que el personaje destacado no sea el protagonista es una posición, no una falta de visión, y nada en el texto indica que el autor no lo haya visto."
+        },
+        {
+          "letter": "B",
+          "text": "Que el autor copia lo que dicen otros críticos de la serie",
+          "is_correct": false,
+          "feedback": "Incorrecto. Nada permite concluir que el autor copie a otros críticos; la columna presenta una posición propia y argumentada."
+        },
+        {
+          "letter": "C",
+          "text": "Que el autor está en contra de la serie, porque solo señala defectos del relato",
+          "is_correct": false,
+          "feedback": "Incorrecto. El texto destaca a un personaje con Lifetime palabras, lo que indica una propuesta de lectura y no una inexplicable queja contra la obra."
+        },
+        {
+          "letter": "D",
+          "text": "Que el autor propone una lectura de la serie en la que el personaje secundario explica lo que la historia cuenta",
+          "is_correct": true,
+          "feedback": "Correcto. Poner un personaje secundario en el centro es una manera de proponer dónde está el sentido de la obra, y el lector puede aceptar esa lectura o discutirla."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Un texto de opinión sobre una obra revela la posición de quien escribe a través de sus elecciones. Poner en el centro a un personaje secundario es una manera de proponer dónde está el sentido de la historia, y esa propuesta se puede discutir con argumentos. Reconocer ese movimiento es lo que permite usar una columna como fuente de criterio y no como simple expresión de una opinión.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Competencia Lectora (Inferencial)",
+      "expected_success": 0.72,
+      "bundle_id": "CO-LEN-10-2026-W15-la-literatura-y-los-medios-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-10-2026-W15-la-literatura-y-los-medios-001-MASTERY-bundle-v11",
+      "statement": "¿Qué juicio está mejor fundado?",
+      "context": "En un seminario de Bucaramanga, los estudiantes discuten si una versión audiovisual puede enseñar mejor una novela que su versión escrita.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La versión audiovisual es siempre mejor, porque los lectores necesitan ver los hechos, no leerlos",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ninguna versión es siempre mejor: cada una favorece ciertas cosas y sacrifica otras, y esa comparación absoluta ignora el costo de cada formato."
+        },
+        {
+          "letter": "B",
+          "text": "La versión escrita es siempre mejor, porque solo ella conserva el lenguaje del autor",
+          "is_correct": false,
+          "feedback": "Incorrecto. La versión escrita conserva el lenguaje, pero eso no la hace superior en todo: la audiovisual puede mostrar aquí lo que el texto deja en la ambigüedad."
+        },
+        {
+          "letter": "C",
+          "text": "Ambas versiones enseñan cosas distintas, porque cada formato resuelve de otro modo lo que el relato expresa",
+          "is_correct": true,
+          "feedback": "Correcto. La adaptación resuelve los mismos elementos con otros recursos, y por eso ilumina cosas que el texto calla y deja otras en la sombra."
+        },
+        {
+          "letter": "D",
+          "text": "La comparación no tiene sentido, porque un relato deja de ser literatura cuando se adapta",
+          "is_correct": false,
+          "feedback": "Incorrecto. Adaptar un relato no lo saca de la literatura: el debate sobre qué versión enseña mejor se sostiene precisamente porque las dos siguen siendo obras."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Comparar dos versiones de una obra exige considerar qué gana y qué pierde cada una. La versión escrita conserva la prosa, los matices y el ritmo interno del relato. La audiovisual resuelve con imagen, actuación y música lo que el texto deja en la ambigüedad, y por eso puede mostrar algo que la lectura deja abierto. El mejor juicio no elige un ganador, sino que precisa qué se enseña mejor en cada versión.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Evaluativo",
+      "expected_success": 0.68,
+      "bundle_id": "CO-LEN-10-2026-W15-la-literatura-y-los-medios-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-10-2026-W15-la-literatura-y-los-medios-001-MASTERY-bundle-v12",
+      "statement": "¿Sobre qué conviene concentrar la comparación?",
+      "context": "En una clase de Bogotá, la profesora pide que el grupo prepare una comparación entre una novela colombiana y la serie de televisión que adapts es adaptó.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Sobre el número de escenas, porque el que tiene más escenas es la versión más completa",
+          "is_correct": false,
+          "feedback": "Incorrecto. El número de escenas no mide la calidad de una versión: la completitud depende de qué se conserva y de qué se sacrifica del relato original."
+        },
+        {
+          "letter": "B",
+          "text": "Sobre los actores, porque el trabajo interpretativo explica por qué una versión es mejor",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las interpretaciones importan, pero no explican por sí solas la relación entre las dos obras; la comparación tiene que ver con el relato."
+        },
+        {
+          "letter": "C",
+          "text": "Sobre los premios que recibió cada versión, porque el reconocimiento externo resuelve la comparación",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los premios no resuelven nada: son juicios de valor sobre un conjunto de obras, no sobre la relación entre dos versiones del mismo relato."
+        },
+        {
+          "letter": "D",
+          "text": "Sobre qué elementos del relato original se conservan, se transforman o se eliminan en la adaptación",
+          "is_correct": true,
+          "feedback": "Correcto. Ese es el núcleo de la comparación: el destino de cada elemento del relato en la nueva versión y las razones de esos cambios."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Una comparación entre una obra y su adaptación tiene un centro claro: el destino de cada elemento del relato original. Preguntar qué se conserva, qué se transforma y qué se elimina permite explicar las dos versiones con un mismo vocabulario y, sobre todo, entender que la adaptación elige. Elegir significa dejar algo afuera, y esa decisión es lo que un buen análisis debe poner a la luz.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Critico-Intertextual",
+      "expected_success": 0.62,
+      "bundle_id": "CO-LEN-10-2026-W15-la-literatura-y-los-medios-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 10,
+      "country": "co"
+    }
+  ]
+}

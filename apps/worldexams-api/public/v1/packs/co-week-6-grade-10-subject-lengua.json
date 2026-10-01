@@ -1,0 +1,563 @@
+{
+  "metadata": {
+    "grade": 10,
+    "subject": "lengua",
+    "country": "co",
+    "pack_id": "co-week-6-grade-10-subject-lengua",
+    "generated_at": "2026-10-01T15:43:08.429Z"
+  },
+  "questions": [
+    {
+      "id": "CO-LEN-10-2026-W06-el-lenguaje-y-la-comunicacion-001-MASTERY-bundle-v1",
+      "statement": "Según la teoría de la comunicación, ¿cuál de los siguientes elementos es el que transmite el mensaje del emisor al receptor?",
+      "context": "En una plaza de mercado de Bogotá, Doña Carmen le dice a su nieto: \"El lenguaje nos permite compartir lo que pensamos y sentimos con los demás.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El canal",
+          "is_correct": true,
+          "feedback": "Correcto. El canal es el medio físico por el cual viaja el mensaje desde el emisor hasta el receptor, como la voz en una conversación oral."
+        },
+        {
+          "letter": "B",
+          "text": "El código",
+          "is_correct": false,
+          "feedback": "Incorrecto. El código es el sistema de signos compartidos (como el español) que se usa para construir el mensaje, no el medio por el que viaja."
+        },
+        {
+          "letter": "C",
+          "text": "El referente",
+          "is_correct": false,
+          "feedback": "Incorrecto. El referente es la realidad o tema del que se habla en el mensaje, no el elemento que transporta el mensaje entre interlocutores."
+        },
+        {
+          "letter": "D",
+          "text": "El ruido",
+          "is_correct": false,
+          "feedback": "Incorrecto. El ruido es cualquier interferencia que dificulta la comunicación, como el sonido de los carros en la plaza, no el medio de transmisión."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "En el modelo de comunicación de Shannon y Weaver, el canal es el soporte físico que lleva el mensaje del emisor al receptor. En la comunicación oral cara a cara, el canal es el aire que transporta las ondas sonoras de la voz. Sin canal, el mensaje no llega a su destino, por eso es un elemento indispensable del proceso comunicativo.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Textual",
+      "expected_success": 0.9,
+      "bundle_id": "CO-LEN-10-2026-W06-el-lenguaje-y-la-comunicacion-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-10-2026-W06-el-lenguaje-y-la-comunicacion-001-MASTERY-bundle-v2",
+      "statement": "¿Cuál de los siguientes enunciados ejemplifica mejor la función apelativa o conativa del lenguaje?",
+      "context": "En una clase de lengua en Medellín, el profesor explica que la función apelativa del lenguaje busca influir en el receptor.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "\"El agua hierve a 100 grados Celsius a nivel del mar.\"",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este enunciado informa sobre un hecho científico, lo que corresponde a la función representativa, no a la apelativa que busca influir en el receptor."
+        },
+        {
+          "letter": "B",
+          "text": "\"Por favor, cierra la puerta cuando salgas.\"",
+          "is_correct": true,
+          "feedback": "Correcto. Este enunciado busca que el receptor realice una acción (cerrar la puerta), lo que define la función apelativa o conativa del lenguaje."
+        },
+        {
+          "letter": "C",
+          "text": "\"Qué día tan hermoso estamos teniendo hoy.\"",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este enunciado expresa un sentimiento del hablante, lo que corresponde a la función expresiva o emotiva, no a la apelativa."
+        },
+        {
+          "letter": "D",
+          "text": "\"La capital de Colombia es Bogotá.\"",
+          "is_correct": false,
+          "feedback": "Incorrecto. Este enunciado transmite un dato informativo, lo que corresponde a la función representativa, no a la apelativa que busca influir en el receptor."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La función apelativa o conativa del lenguaje, identificada por Roman Jakobson, se centra en el receptor. Su objetivo es provocar una reacción, una acción o un cambio de actitud en quien recibe el mensaje. Los imperativos, las peticiones y las órdenes son los recursos lingüísticos más comunes de esta función.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Semantico",
+      "expected_success": 0.88,
+      "bundle_id": "CO-LEN-10-2026-W06-el-lenguaje-y-la-comunicacion-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-10-2026-W06-el-lenguaje-y-la-comunicacion-001-MASTERY-bundle-v3",
+      "statement": "¿Cuál de los siguientes factores NO forma parte del contexto situacional de la comunicación?",
+      "context": "En un taller de escritura en Cali, la profesora explica que el contexto situacional determina cómo nos comunicamos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El lugar donde ocurre la comunicación",
+          "is_correct": false,
+          "feedback": "Incorrecto. El lugar físico donde ocurre la comunicación (una oficina, una plaza, un aula) es parte del contexto situacional."
+        },
+        {
+          "letter": "B",
+          "text": "El momento histórico en que se comunican",
+          "is_correct": false,
+          "feedback": "Incorrecto. El momento histórico (época, acontecimientos del país) es parte del contexto situacional porque influye en el contenido y la forma del mensaje."
+        },
+        {
+          "letter": "C",
+          "text": "La edad del idioma que se habla",
+          "is_correct": true,
+          "feedback": "Correcto. La edad del idioma no influye en cómo se desarrolla una situación comunicativa específica; el contexto situacional depende de factores como lugar, momento y participantes."
+        },
+        {
+          "letter": "D",
+          "text": "La relación entre los interlocutores",
+          "is_correct": false,
+          "feedback": "Incorrecto. La relación entre los interlocutores (padre-hijo, jefe-empleado, amigos) es parte del contexto situacional porque determina el registro y el tono."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El contexto situacional es el conjunto de circunstancias que rodean un acto de comunicación: el lugar físico, el momento histórico, la relación entre los interlocutores, el propósito del intercambio y el canal utilizado. Estos elementos determinan el registro del lenguaje (formal o informal) y las decisiones que toma el hablante al construir su mensaje.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Discursivo",
+      "expected_success": 0.86,
+      "bundle_id": "CO-LEN-10-2026-W06-el-lenguaje-y-la-comunicacion-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-10-2026-W06-el-lenguaje-y-la-comunicacion-001-MASTERY-bundle-v4",
+      "statement": "Si un vecino responde: \"Tiene toda la razón, Don Roberto, y por eso debemos actuar\", ¿qué tipo de acto de habla está realizando?",
+      "context": "En una reunión de vecinos en Barranquilla, Don Roberto dice: \"El ruido de la construcción está afectando la salud de todos.\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Asertivo",
+          "is_correct": false,
+          "feedback": "Incorrecto. El acto asertivo solo afirma o describe un hecho; aquí el vecino no solo afirma, sino que se compromete a una acción futura."
+        },
+        {
+          "letter": "B",
+          "text": "Declarativo",
+          "is_correct": false,
+          "feedback": "Incorrecto. El acto declarativo cambia la realidad al enunciarlo (como \"los declaro esposos\"); aquí no se transforma ninguna situación con las palabras."
+        },
+        {
+          "letter": "C",
+          "text": "Expresivo",
+          "is_correct": false,
+          "feedback": "Incorrecto. El acto expresivo manifiesta un estado emocional (como \"lo siento mucho\"); aquí el vecino no expresa un sentimiento, sino que se compromete a actuar."
+        },
+        {
+          "letter": "D",
+          "text": "Comisivo",
+          "is_correct": true,
+          "feedback": "Correcto. El acto comisivo compromete al hablante a realizar una acción futura; el vecino se compromete a actuar contra el ruido, lo que define este tipo de acto."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "John Austin y John Searle clasificaron los actos de habla según su propósito. El acto comisivo compromete al hablante a realizar una acción futura: prometer, jurar, ofrecer o comprometerse. En el ejemplo, el vecino no solo está de acuerdo, sino que asume la obligación de actuar, lo que define un acto comisivo.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Pragmatico",
+      "expected_success": 0.82,
+      "bundle_id": "CO-LEN-10-2026-W06-el-lenguaje-y-la-comunicacion-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-10-2026-W06-el-lenguaje-y-la-comunicacion-001-MASTERY-bundle-v5",
+      "statement": "¿Qué recurso intertextual se está utilizando cuando el artículo cita las palabras exactas del alcalde?",
+      "context": "En un periódico de Manizales, un artículo de opinión cita al alcalde diciendo: \"La educación es la base del desarrollo\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Cita textual",
+          "is_correct": true,
+          "feedback": "Correcto. La cita textual reproduce las palabras exactas de otro autor entre comillas o con formato especial; el artículo reproduce literalmente lo dicho por el alcalde."
+        },
+        {
+          "letter": "B",
+          "text": "Paráfrasis",
+          "is_correct": false,
+          "feedback": "Incorrecto. La paráfrasis reproduce el contenido con palabras propias del autor; aquí se cita textualmente al alcalde, no se parafrasea."
+        },
+        {
+          "letter": "C",
+          "text": "Alusión",
+          "is_correct": false,
+          "feedback": "Incorrecto. La alusión es una referencia indirecta a una persona, obra o situación; aquí se cita directamente al alcalde, no se alude indirectamente."
+        },
+        {
+          "letter": "D",
+          "text": "Intertextualidad",
+          "is_correct": false,
+          "feedback": "Incorrecto. La intertextualidad es el fenómeno general de relación entre textos; aquí se está usando un recurso específico dentro de ese fenómeno."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La cita textual es un recurso intertextual que reproduce las palabras exactas de otro autor, generalmente entre comillas o con un formato especial (cursiva, sangría). Sirve para dar autoridad al discurso, mostrar la fuente original o contrastar ideas. A diferencia de la paráfrasis, que reelabora el contenido con palabras propias, la cita textual preserva la formulación original.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Critico-Intertextual",
+      "expected_success": 0.8,
+      "bundle_id": "CO-LEN-10-2026-W06-el-lenguaje-y-la-comunicacion-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-10-2026-W06-el-lenguaje-y-la-comunicacion-001-MASTERY-bundle-v6",
+      "statement": "¿Qué tipo de falacia argumentativa está cometiendo el participante?",
+      "context": "En un debate estudiantil en Bucaramanga, un participante dice: \"Mi oponente está equivocado porque nunca ha vivido en el campo\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Falacia del hombre de paja",
+          "is_correct": false,
+          "feedback": "Incorrecto. La falacia del hombre de paja distorsiona el argumento del oponente para atacarlo más fácilmente; aquí no se distorsiona ningún argumento, se ataca a la persona."
+        },
+        {
+          "letter": "B",
+          "text": "Falacia ad hominem",
+          "is_correct": true,
+          "feedback": "Correcto. La falacia ad hominem ataca a la persona en lugar de sus argumentos; el participante descalifica a su oponente por su experiencia personal, no por sus ideas."
+        },
+        {
+          "letter": "C",
+          "text": "Falacia de la pendiente resbaladiza",
+          "is_correct": false,
+          "feedback": "Incorrecto. La falacia de la pendiente resbaladiza afirma que un evento llevará inevitablemente a consecuencias extremas; aquí no se predicen consecuencias, se descalifica al oponente."
+        },
+        {
+          "letter": "D",
+          "text": "Falacia de la falsa dicotomía",
+          "is_correct": false,
+          "feedback": "Incorrecto. La falacia de la falsa dicotomía presenta solo dos opciones cuando existen más; aquí no se limitan las opciones, se ataca la experiencia del oponente."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La falacia ad hominem (contra la persona) consiste en descalificar al oponente atacando sus características personales, su origen, su experiencia o su carácter, en lugar de refutar sus argumentos. Es una falacia porque la validez de un argumento depende de su estructura lógica, no de quién lo formula.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Evaluativo",
+      "expected_success": 0.78,
+      "bundle_id": "CO-LEN-10-2026-W06-el-lenguaje-y-la-comunicacion-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-10-2026-W06-el-lenguaje-y-la-comunicacion-001-MASTERY-bundle-v7",
+      "statement": "¿Qué tipo de texto es esta carta según su función comunicativa?",
+      "context": "En una carta formal enviada a una empresa en Bogotá, el remitente escribe: \"Me dirijo a ustedes con el fin de solicitar información sobre sus servicios\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Texto narrativo",
+          "is_correct": false,
+          "feedback": "Incorrecto. El texto narra eventos o historias; esta carta no cuenta una historia, sino que solicita información, lo que corresponde a otro tipo de texto."
+        },
+        {
+          "letter": "B",
+          "text": "Texto descriptivo",
+          "is_correct": false,
+          "feedback": "Incorrecto. El texto describe personas, lugares o cosas; esta carta no describe nada, sino que tiene un propósito comunicativo de solicitud."
+        },
+        {
+          "letter": "C",
+          "text": "Texto argumentativo",
+          "is_correct": true,
+          "feedback": "Correcto. El texto argumentativo busca convencer o solicitar algo; esta carta tiene un propósito de solicitud formal, lo que la clasifica como texto argumentativo o expositivo con fin práctico."
+        },
+        {
+          "letter": "D",
+          "text": "Texto poético",
+          "is_correct": false,
+          "feedback": "Incorrecto. El texto poético busca crear belleza o expresar emociones con recursos literarios; esta carta es formal y práctica, no poética."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Los textos se clasifican según su función comunicativa. La carta formal de solicitud es un texto expositivo-argumentativo con un propósito práctico: obtener información o gestionar un trámite. Su estructura incluye encabezado, saludo, cuerpo con la solicitud, despedida y firma. A diferencia de los textos literarios, su lenguaje es claro, directo y sin ambigüedades.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Textual",
+      "expected_success": 0.75,
+      "bundle_id": "CO-LEN-10-2026-W06-el-lenguaje-y-la-comunicacion-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-10-2026-W06-el-lenguaje-y-la-comunicacion-001-MASTERY-bundle-v8",
+      "statement": "¿Qué figura retórica se está utilizando en este anuncio publicitario?",
+      "context": "En un anuncio publicitario de una empresa de Cali, se lee: \"Nuestro producto es tan bueno que todos lo quieren\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Metáfora",
+          "is_correct": false,
+          "feedback": "Incorrecto. La metáfora sustituye un término por otro por semejanza; aquí no se sustituye nada, se exagera la calidad del producto."
+        },
+        {
+          "letter": "B",
+          "text": "Ironía",
+          "is_correct": false,
+          "feedback": "Incorrecto. La ironía dice lo contrario de lo que se piensa; aquí el anuncio afirma directamente que el producto es bueno, no dice lo contrario."
+        },
+        {
+          "letter": "C",
+          "text": "Personificación",
+          "is_correct": false,
+          "feedback": "Incorrecto. La personificación atribuye cualidades humanas a objetos; aquí no se atribuyen cualidades humanas al producto, se exagera su popularidad."
+        },
+        {
+          "letter": "D",
+          "text": "Hipérbole",
+          "is_correct": true,
+          "feedback": "Correcto. La hipérbole es una exageración intencional; el anuncio exagera al decir que \"todos lo quieren\", lo que es una figura retórica de exageración."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "La hipérbole es una figura retórica que consiste en exagerar intencionalmente una cualidad, situación o cantidad para enfatizar un mensaje. En la publicidad, la hipérbole es muy común porque busca captar la atención del consumidor y crear una imagen positiva del producto. Sin embargo, debe usarse con cuidado para no caer en la falsedad publicitaria.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Semantico",
+      "expected_success": 0.73,
+      "bundle_id": "CO-LEN-10-2026-W06-el-lenguaje-y-la-comunicacion-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-10-2026-W06-el-lenguaje-y-la-comunicacion-001-MASTERY-bundle-v9",
+      "statement": "¿Qué tipo de pregunta está formulando el periodista según su estructura?",
+      "context": "En una entrevista radial en Pasto, el periodista pregunta: \"¿Cómo se siente usted con los resultados de la encuesta?\"",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Pregunta abierta",
+          "is_correct": true,
+          "feedback": "Correcto. La pregunta abierta admite respuestas amplias y personales; el periodista pregunta por los sentimientos del entrevistado, lo que permite una respuesta extensa."
+        },
+        {
+          "letter": "B",
+          "text": "Pregunta cerrada",
+          "is_correct": false,
+          "feedback": "Incorrecto. La pregunta cerrada admite respuestas breves como sí o no; esta pregunta admite una respuesta amplia y personal, no es cerrada."
+        },
+        {
+          "letter": "C",
+          "text": "Pregunta múltiple",
+          "is_correct": false,
+          "feedback": "Incorrecto. La pregunta múltiple ofrece varias opciones de respuesta; aquí no se ofrecen opciones, se pregunta directamente por los sentimientos."
+        },
+        {
+          "letter": "D",
+          "text": "Pregunta retórica",
+          "is_correct": false,
+          "feedback": "Incorrecto. La pregunta retórica no espera respuesta, se usa para enfatizar; aquí el periodista espera una respuesta del entrevistado, no es retórica."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Las preguntas abiertas permiten al entrevistado expresarse libremente, dar opiniones, sentimientos y explicaciones detalladas. Son fundamentales en las entrevistas periodísticas porque generan información rica y matizada. A diferencia de las preguntas cerradas, que limitan la respuesta a opciones específicas, las abiertas fomentan el diálogo y la profundización en los temas.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Discursivo",
+      "expected_success": 0.71,
+      "bundle_id": "CO-LEN-10-2026-W06-el-lenguaje-y-la-comunicacion-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-10-2026-W06-el-lenguaje-y-la-comunicacion-001-MASTERY-bundle-v10",
+      "statement": "¿Qué función cumple la cita de Borges en el ensayo sobre García Márquez?",
+      "context": "En un ensayo literario sobre García Márquez, el autor escribe: \"Como dijo Borges, 'la literatura es un sueño dirigido'\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Demostrar conocimiento enciclopédico",
+          "is_correct": false,
+          "feedback": "Incorrecto. Aunque muestra conocimiento, la función principal de la cita no es demostrar erudición, sino apoyar el argumento del ensayista."
+        },
+        {
+          "letter": "B",
+          "text": "Apoyar el argumento del autor",
+          "is_correct": true,
+          "feedback": "Correcto. La cita de Borges se usa para respaldar la idea del ensayista sobre la literatura; la cita de un autor reconocido da fuerza al argumento propio."
+        },
+        {
+          "letter": "C",
+          "text": "Criticar la obra de García Márquez",
+          "is_correct": false,
+          "feedback": "Incorrecto. La cita no critica a García Márquez, sino que ofrece una reflexión general sobre la literatura que el ensayista aplica al caso."
+        },
+        {
+          "letter": "D",
+          "text": "Introducir un tema nuevo",
+          "is_correct": false,
+          "feedback": "Incorrecto. La cita no introduce un tema nuevo, sino que refuerza el tema que se está desarrollando sobre la literatura como sueño."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Las citas de autoridades en un ensayo cumplen una función argumentativa: respaldan las ideas del autor con el prestigio de otro pensador. En este caso, la cita de Borges sobre la literatura como \"sueño dirigido\" apoya la reflexión del ensayista sobre la obra de García Márquez. La cita debe ser relevante, estar bien integrada al texto y ser correctamente atribuida.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Critico-Intertextual",
+      "expected_success": 0.69,
+      "bundle_id": "CO-LEN-10-2026-W06-el-lenguaje-y-la-comunicacion-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-10-2026-W06-el-lenguaje-y-la-comunicacion-001-MASTERY-bundle-v11",
+      "statement": "¿Cuál de las siguientes respuestas sería la más adecuada para contraargumentar la afirmación del joven?",
+      "context": "En una discusión sobre redes sociales en Cartagena, un joven dice: \"Las redes sociales son malas porque solo publican cosas negativas\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "\"Tienes razón, las redes sociales son una pérdida de tiempo.\"",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta respuesta acepta la afirmación sin cuestionarla, lo que no es un contraargumento válido."
+        },
+        {
+          "letter": "B",
+          "text": "\"No estoy de acuerdo contigo en nada.\"",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta respuesta es vaga y no ofrece razones para refutar la afirmación; un contraargumento necesita evidencia y razonamiento."
+        },
+        {
+          "letter": "C",
+          "text": "\"Las redes sociales también se usan para educar, informar y conectar personas; el problema es cómo las usamos.\"",
+          "is_correct": true,
+          "feedback": "Correcto. Esta respuesta ofrece un contraargumento válido al mostrar usos positivos de las redes sociales y redirigir la responsabilidad al usuario, no a la herramienta."
+        },
+        {
+          "letter": "D",
+          "text": "\"Yo uso las redes sociales todos los días y no me afecta.\"",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta respuesta es anecdótica y no refuta la afirmación general; un contraargumento necesita razones objetivas, no experiencias personales."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Un contraargumento válido debe ofrecer razones objetivas que refuten la afirmación original. En este caso, la respuesta más adecuada reconoce que las redes sociales tienen usos positivos (educación, información, conexión) y que el problema está en el uso que se les da, no en la herramienta en sí. Esto demuestra pensamiento crítico y capacidad de argumentación.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Pragmatico",
+      "expected_success": 0.65,
+      "bundle_id": "CO-LEN-10-2026-W06-el-lenguaje-y-la-comunicacion-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-10-2026-W06-el-lenguaje-y-la-comunicacion-001-MASTERY-bundle-v12",
+      "statement": "¿Cuál de las siguientes situaciones ejemplifica mejor la comunicación asertiva?",
+      "context": "En un taller de comunicación asertiva en Armenia, la facilitadora explica que la comunicación asertiva evita la agresividad y la pasividad.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "\"Nunca me escuchas, siempre hablas tú.\"",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta frase es agresiva porque acusa a la otra persona y usa generalizaciones como \"nunca\" y \"siempre\", lo que genera conflicto."
+        },
+        {
+          "letter": "B",
+          "text": "\"Está bien, haz lo que quieras, no me importa.\"",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta frase es pasiva porque cede ante la otra persona sin expresar la propia opinión o necesidad, lo que genera frustración."
+        },
+        {
+          "letter": "C",
+          "text": "\"Eres un egoísta que solo piensa en ti.\"",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta frase es agresiva porque insulta a la otra persona y la etiqueta negativamente, lo que destruye la comunicación."
+        },
+        {
+          "letter": "D",
+          "text": "\"Me siento ignorado cuando no me escuchas, ¿podemos hablar de esto?\"",
+          "is_correct": true,
+          "feedback": "Correcto. Esta frase expresa un sentimiento personal sin atacar al otro, usa la primera persona y propone una solución, lo que define la comunicación asertiva."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "La comunicación asertiva consiste en expresar pensamientos, sentimientos y necesidades de manera clara, respetuosa y directa. Se caracteriza por usar la primera persona (\"me siento\", \"necesito\"), evitar generalizaciones (\"siempre\", \"nunca\"), no atacar al interlocutor y proponer soluciones. Es el equilibrio entre la agresividad (imponer) y la pasividad (ceder).",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Evaluativo",
+      "expected_success": 0.62,
+      "bundle_id": "CO-LEN-10-2026-W06-el-lenguaje-y-la-comunicacion-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 10,
+      "country": "co"
+    }
+  ]
+}
