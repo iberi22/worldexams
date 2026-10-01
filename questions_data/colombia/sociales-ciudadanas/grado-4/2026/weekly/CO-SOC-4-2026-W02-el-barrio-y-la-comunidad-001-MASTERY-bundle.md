@@ -57,13 +57,13 @@ Cuando contamos dónde está algo usamos referencias espaciales: al lado, cerca,
 ¿Qué es la comunidad de un barrio?
 
 ### Opciones
-- [x] A) El grupo de personas que viven cerca y se ayudan para resolver los asuntos del barrio
+- [x] D) El grupo de personas que viven cerca y se ayudan para resolver los asuntos del barrio
   <!-- feedback: Correcto. La comunidad son las personas que viven cerca y se apoyan, y por eso pueden organizarse para tener un parque limpio o una escuela segura. -->
-- [ ] B) Los carros que pasan por la calle
+- [ ] A) Los carros que pasan por la calle
   <!-- feedback: Incorrecto. Los carros son objetos que transitan, no personas: la comunidad está formada por gente que vive, conversa y se organiza en el barrio. -->
-- [ ] C) Los árboles del parque
+- [ ] B) Los árboles del parque
   <!-- feedback: Incorrecto. Los árboles son parte del paisaje y son valiosos, pero una comunidad necesita personas que decidan qué se hace, porque son ellas las que resuelven los problemas. -->
-- [ ] D) Solamente los edificios del centro del barrio
+- [ ] C) Solamente los edificios del centro del barrio
   <!-- feedback: Incorrecto. Limitar la comunidad a los edificios deja afuera a las familias que viven en casas y apartamentos: la comunidad incluye a todos los que viven allí. -->
 
 ### Explicacion Pedagogica
@@ -80,13 +80,13 @@ La comunidad es el conjunto de personas que viven en un mismo lugar y comparten 
 Si la señora Olga va caminando al colegio, ¿qué ruta debe seguir?
 
 ### Opciones
-- [x] A) Salir de su casa, pasar por la panadería, pasar por el parque y llegar al colegio
+- [x] D) Salir de su casa, pasar por la panadería, pasar por el parque y llegar al colegio
   <!-- feedback: Correcto. La ruta respeta el orden de los lugares del enunciado: primero la panadería, después el parque y al final el colegio, que queda más lejos. -->
-- [ ] B) Salir de su casa y caminar cuatro cuadras sin pasar por ningún lugar
+- [ ] A) Salir de su casa y caminar cuatro cuadras sin pasar por ningún lugar
   <!-- feedback: Incorrecto. Contaste bien las cuatro cuadras, pero el enunciado ubica otros dos lugares en el camino: ignorarlos te hace perder las referencias de la ruta. -->
-- [ ] C) Pasar por la panadería, saltarse el parque y llegar directo al colegio
+- [ ] B) Pasar por la panadería, saltarse el parque y llegar directo al colegio
   <!-- feedback: Incorrecto. El parque está a dos cuadras y no hay ninguna razón para saltárselo: dejarlo de lado significa no respetar la descripción del recorrido. -->
-- [ ] D) El colegio está al lado de la casa, como la panadería
+- [ ] C) El colegio está al lado de la casa, como la panadería
   <!-- feedback: Incorrecto. Confundiste dos distancias: la panadería está al lado, o sea muy cerca, mientras que el colegio está a cuatro cuadras, mucho más lejos. -->
 
 ### Explicacion Pedagogica
@@ -103,11 +103,11 @@ Para describir un recorrido hay que ordenar los lugares según lo cerca que est�
 ¿Cuánto dinero falta para completar la meta de los $30.000?
 
 ### Opciones
-- [x] A) $5.000, porque $30.000 - $25.000 = $5.000
+- [x] C) $5.000, porque $30.000 - $25.000 = $5.000
   <!-- feedback: Correcto. Primero se suman los aportes: $8.000 + $7.000 + $10.000 = $25.000, y luego a la meta se le resta: $30.000 - $25.000 = $5.000. -->
-- [ ] B) $15.000, porque $8.000 + $7.000 = $15.000 y ese es el total reunido
+- [ ] A) $15.000, porque $8.000 + $7.000 = $15.000 y ese es el total reunido
   <!-- feedback: Incorrecto. Solo sumaste dos aportes: también está el aporte de $10.000, así que el total real es $25.000 y lo que falta son $5.000. -->
-- [ ] C) $12.000, porque $30.000 - $18.000 = $12.000
+- [ ] B) $12.000, porque $30.000 - $18.000 = $12.000
   <!-- feedback: Incorrecto. Dejaste por fuera el aporte de $7.000 de don Emilio: por eso tu cuenta queda $7.000 más alta de lo que es en realidad. -->
 - [ ] D) Cero pesos, porque $25.000 ya cumple la meta de $30.000
   <!-- feedback: Incorrecto. $25.000 no completa una meta de $30.000: todavía falta reunir $5.000 entre los vecinos para poder pintar el mural. -->
@@ -126,13 +126,13 @@ Cuando una comunidad reúne dinero, primero suma lo que aporta cada persona y de
 ¿Qué pueden hacer los dos grupos para resolver bien este desacuerdo?
 
 ### Opciones
-- [x] A) Reunirse a escuchar los argumentos de cada grupo y buscar un lugar para el parqueadero que no afecte el juego
+- [x] D) Reunirse a escuchar los argumentos de cada grupo y buscar un lugar para el parqueadero que no afecte el juego
   <!-- feedback: Correcto. Un desacuerdo se resuelve con diálogo: escuchar a los dos lados y buscar una ubicación que sirva a ambos es la vía de la convivencia pacífica. -->
-- [ ] B) Los vecinos que están en contra deben ganar por mayoría, porque su opinión cuenta más
+- [ ] A) Los vecinos que están en contra deben ganar por mayoría, porque su opinión cuenta más
   <!-- feedback: Incorrecto. No hay opiniones que valgan más que otras: ganar por mayoría deja fuera a los niños, y la convivencia exige que todos los grupos participen. -->
-- [ ] C) Mejor no hablar del tema hasta que una de las dos partes se canse de insistir
+- [ ] B) Mejor no hablar del tema hasta que una de las dos partes se canse de insistir
   <!-- feedback: Incorrecto. Guardarse el tema no resuelve nada: mientras nadie habla, el desacuerdo sigue creciendo y el espacio sigue en disputa. -->
-- [ ] D) Que la administración del barrio decida por fuera, sin consultar a los vecinos
+- [ ] C) Que la administración del barrio decida por fuera, sin consultar a los vecinos
   <!-- feedback: Incorrecto. Decidir sin consultar quita la participación: la comunidad pierde la oportunidad de construir la solución que puede cumplir. -->
 
 ### Explicacion Pedagogica
@@ -149,11 +149,11 @@ Cuando dos grupos quieren cosas diferentes, la convivencia pacífica pide buscar
 ¿Qué muestra mejor por qué ese barrio es una comunidad fuerte?
 
 ### Opciones
-- [x] A) Que las diferencias se usan para aprender unos de otros y no para excluir a nadie
+- [x] C) Que las diferencias se usan para aprender unos de otros y no para excluir a nadie
   <!-- feedback: Correcto. Las diferencias enriquecen la comunidad: cuando se aprende de las culturas que llegan, el barrio se vuelve más rico en vez de dividido. -->
-- [ ] B) Que todos deben pensar igual para que la comunidad pueda funcionar bien
+- [ ] A) Que todos deben pensar igual para que la comunidad pueda funcionar bien
   <!-- feedback: Incorrecto. Una comunidad no exige pensar igual: acepta la diversidad porque justamente las diferencias aportan ideas nuevas y formas distintas de ver las cosas. -->
-- [ ] C) Que las diferencias producen problemas y por eso conviene esconderlas
+- [ ] B) Que las diferencias producen problemas y por eso conviene esconderlas
   <!-- feedback: Incorrecto. Esconder a quien es diferente aumenta la desigualdad: lo que divide no es la diferencia en sí, sino el rechazo hacia quien la tiene. -->
 - [ ] D) Que solo importa el lugar donde nació cada persona
   <!-- feedback: Incorrecto. El origen no define el valor de nadie: en el barrio todos son vecinos con los mismos derechos y las mismas responsabilidades. -->
@@ -195,13 +195,13 @@ Participar como ciudadano no es solo marchar ni votar una vez: también es dialo
 ¿Cuál de estas formas de actuar respeta mejor a los dos grupos y construye una convivencia pacífica?
 
 ### Opciones
-- [x] A) Reunir a los dos grupos, escuchar qué necesita cada uno y buscar un acuerdo que sirva para ambos
+- [x] D) Reunir a los dos grupos, escuchar qué necesita cada uno y buscar un acuerdo que sirva para ambos
   <!-- feedback: Correcto. Escuchar y negociar un acuerdo cumple con el principio de que toda decisión que afecta a la comunidad debe consultarla. -->
-- [ ] B) Construir la cancha primero y después, si sobra espacio, poner la biblioteca
+- [ ] A) Construir la cancha primero y después, si sobra espacio, poner la biblioteca
   <!-- feedback: Incorrecto. Decidir primero y consultar después cambia el orden justo: la comunidad debe participar antes de que la obra se empiece. -->
-- [ ] C) Que los jóvenes cedan sin preguntar, porque son menos organizados que los vecinos
+- [ ] B) Que los jóvenes cedan sin preguntar, porque son menos organizados que los vecinos
   <!-- feedback: Incorrecto. Cedir sin preguntar tampoco es un acuerdo: en ese caso se está quitando la voz a un grupo de la comunidad de la manera más fácil. -->
-- [ ] D) Dejar la cancha y la biblioteca sin construir hasta que el conflicto se olvide
+- [ ] C) Dejar la cancha y la biblioteca sin construir hasta que el conflicto se olvide
   <!-- feedback: Incorrecto. Dejar todo sin hacer mantiene el abandono del espacio y agrava la convivencia, porque no resuelve el problema de fondo. -->
 
 ### Explicacion Pedagogica

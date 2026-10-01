@@ -34,11 +34,11 @@ Estas ocho preguntas evaluan qué son los recursos naturales, por qué hay que c
 ¿Qué son los recursos naturales?
 
 ### Opciones
-- [x] A) Son las partes de la naturaleza que nos sirven, como el agua, el aire, los árboles y el suelo
+- [x] C) Son las partes de la naturaleza que nos sirven, como el agua, el aire, los árboles y el suelo
   <!-- feedback: Correcto. Los recursos naturales son los elementos de la naturaleza que usamos para vivir, y por eso tenemos la obligación de cuidarlos. -->
-- [ ] B) Son solamente los árboles del parque
+- [ ] A) Son solamente los árboles del parque
   <!-- feedback: Incorrecto. Los árboles son un recurso natural, pero hay muchos más: el agua, el aire, el suelo y los animales también lo son. -->
-- [ ] C) Son las casas que hay en el barrio
+- [ ] B) Son las casas que hay en el barrio
   <!-- feedback: Incorrecto. Las casas las construyen las personas, así que no son recursos naturales: un recurso natural viene de la naturaleza. -->
 - [ ] D) Son los carros que pasan por la calle
   <!-- feedback: Incorrecto. Los carros son objetos fabricados por el hombre: los recursos naturales son solo los que vienen de la naturaleza. -->
@@ -80,9 +80,9 @@ El agua es un recurso que puede volver a su origen con la lluvia, pero no se rep
 ¿Qué de estas acciones cuida mejor el entorno de esa cuadra?
 
 ### Opciones
-- [x] A) Recoger la basura, sembrar otro árbol y avisar al municipio para que corte el árbol con seguridad
+- [x] B) Recoger la basura, sembrar otro árbol y avisar al municipio para que corte el árbol con seguridad
   <!-- feedback: Correcto. Las tres acciones juntas resuelven el problema: limpiar, replantar y pedir ayuda oficial evita que alguien se lastime. -->
-- [ ] B) Quemar la basura ahí mismo
+- [ ] A) Quemar la basura ahí mismo
   <!-- feedback: Incorrecto. Quemar la basura daña lo que respira el aire de la cuadra, y además produce humo peligroso para la salud. -->
 - [ ] C) Dejar la basura ahí, porque la lluvia se la va a llevar
   <!-- feedback: Incorrecto. La basura no se desaparece sola: el agua la mueve y la lleva al río, donde termina contaminando más lugares. -->
@@ -103,11 +103,11 @@ Cuando una lluvia deja un desastre en una calle, hay tareas para todos: los veci
 Si los 120 estudiantes llevan al colegio una botella reutilizable y la usan todos los días, ¿qué resultado se espera?
 
 ### Opciones
-- [x] A) Que se usen menos botellas de plástico, porque cada botella reutilizable evita gastar una de plástico
+- [x] C) Que se usen menos botellas de plástico, porque cada botella reutilizable evita gastar una de plástico
   <!-- feedback: Correcto. Cada botella reutilizable que se usa es una botella de plástico que no se gasta, y por eso baja la basura que va al relleno sanitario. -->
-- [ ] B) Que se usen igual las 1.000 botellas, pero de otro color
+- [ ] A) Que se usen igual las 1.000 botellas, pero de otro color
   <!-- feedback: Incorrecto. Cambiar el color no ahorra nada: lo que reduce la basura es justamente no gastar la botella de plástico de un solo uso. -->
-- [ ] C) Que el colegio gaste menos en otras cosas
+- [ ] B) Que el colegio gaste menos en otras cosas
   <!-- feedback: Incorrecto. La pregunta es sobre las botellas: si se usan las reutilizables, dejan de gastarse las de plástico, no otras cosas del presupuesto. -->
 - [ ] D) Que las botellas desaparecen
   <!-- feedback: Incorrecto. Las botellas no desaparecen: se dejan de gastar. Lo que baja es la cantidad de basura que llega al relleno sanitario. -->
@@ -126,9 +126,9 @@ Usar una botella reutilizable es una forma sencilla de cuidar el entorno. Cada b
 ¿Qué muestra mejor por qué ese río es un bien común?
 
 ### Opciones
-- [x] A) Que no pertenece a una sola persona, así que cuidarlo es responsabilidad de todos los que lo usan
+- [x] B) Que no pertenece a una sola persona, así que cuidarlo es responsabilidad de todos los que lo usan
   <!-- feedback: Correcto. Un bien común pertenece a toda la comunidad, por eso el cuidado del río se reparte entre todos y no puede quedar en unas pocas manos. -->
-- [ ] B) Que pertenece a la persona que tiene la casa más grande de la cuadra
+- [ ] A) Que pertenece a la persona que tiene la casa más grande de la cuadra
   <!-- feedback: Incorrecto. El tamaño de una casa no da derechos sobre un río: el agua pertenece a todos los que viven en la cuenca, no a un dueño único. -->
 - [ ] C) Que solo lo usa la familia que vive más cerca del río
   <!-- feedback: Incorrecto. La cercanía no convierte a nadie en dueño: el río sirve a muchas familias y por eso todos lo necesitan en buen estado. -->
@@ -149,11 +149,11 @@ Un bien común es algo que pertenece a la comunidad y que se usa entre todos, co
 ¿Por qué es un error dejar la bolsa en la calle si "total la recoge alguien"?
 
 ### Opciones
-- [x] A) Porque pasar la basura a otro es traspasar el problema, y al final termina en el río o en el relleno sanitario
+- [x] C) Porque pasar la basura a otro es traspasar el problema, y al final termina en el río o en el relleno sanitario
   <!-- feedback: Correcto. Cambiar de lugar la basura no la desaparece: la basura siempre acaba en algún sitio, y ese lugar le paga el costo a toda la ciudad. -->
-- [ ] B) Porque la basura no existe
+- [ ] A) Porque la basura no existe
   <!-- feedback: Incorrecto. La basura sí existe y se produce todos los días: lo que se puede cambiar es si se recoge bien o si se deja tirada en la calle. -->
-- [ ] C) Porque el concepto de basurero no es real
+- [ ] B) Porque el concepto de basurero no es real
   <!-- feedback: Incorrecto. Los contenedores y los camiones de la basura sí existen y funcionan: lo que falla es que las familias dejen la bolsa donde no se recoge, no que el relleno sanitario reciba la basura. -->
 - [ ] D) Porque el camión de la basura es muy viejo
   <!-- feedback: Incorrecto. La edad del vehículo no tiene nada que ver: el problema real es dejar la basura en la acera en un día que no pasa el camión. -->
@@ -172,11 +172,11 @@ Decir "total la recoge alguien" describe una forma de pensar que deja el problem
 ¿Qué respuesta muestra mejor el cuidado del entorno?
 
 ### Opciones
-- [x] A) Cada familia hace un cambio pequeño pero constante, porque muchos cambios juntos sí cambian el consumo
+- [x] C) Cada familia hace un cambio pequeño pero constante, porque muchos cambios juntos sí cambian el consumo
   <!-- feedback: Correcto. No hay un cambio solo que salve el agua, pero sí el ahorro de muchas familias: por eso cada acción pequeña cuenta y se vuelve grande. -->
-- [ ] B) Nada se puede hacer, porque el agua es un recurso de todos
+- [ ] A) Nada se puede hacer, porque el agua es un recurso de todos
   <!-- feedback: Incorrecto. Que el agua sea de todos significa que todos pueden cuidarla: ese mismo argumento justifica el ahorro y no la indiferencia. -->
-- [ ] C) Solo el gobierno puede cambiar la situación con el agua
+- [ ] B) Solo el gobierno puede cambiar la situación con el agua
   <!-- feedback: Incorrecto. El gobierno ayuda con obras grandes, pero el ahorro diario depende de cada casa: dejar de hacer algo en casa no resuelve el problema. -->
 - [ ] D) Esperar a que otras familias cambien primero
   <!-- feedback: Incorrecto. Esperar a que otros cambien no sirve porque nadie empieza: el ahorro empieza con la familia que decide hacerlo en su propia casa. -->
