@@ -189,7 +189,7 @@ La diferencia entre una queja y una reseña crítica está en el apoyo: la prime
 - [x] D) La sinopsis encadena hechos con conectores de tiempo y la reseña enlaza razones con conectores de causa y consecuencia. <!-- feedback: Es la opción correcta: el tipo de relación que se establece entre las oraciones es lo que define la operación de cada texto. -->
 
 ### Explicacion Pedagogica
-La estructura de las oraciones revela la lógica interna de cada texto. En la sinopsis, las oraciones se enlazan con relaciones de tiempo y secuencia porque lo que se recounts es una sucesión de hechos narrados. En la reseña, predominan las relaciones de causa y consecuencia porque lo que se construye es un juicio. Observar qué conectores y qué relaciones se repiten en un párrafo es una herramienta precisa para identificar la operación discursiva de un texto.
+La estructura de las oraciones revela la lógica interna de cada texto. En la sinopsis, las oraciones se enlazan con relaciones de tiempo y secuencia porque lo que se narra es una sucesión de hechos narrados. En la reseña, predominan las relaciones de causa y consecuencia porque lo que se construye es un juicio. Observar qué conectores y qué relaciones se repiten en un párrafo es una herramienta precisa para identificar la operación discursiva de un texto.
 
 ---
 

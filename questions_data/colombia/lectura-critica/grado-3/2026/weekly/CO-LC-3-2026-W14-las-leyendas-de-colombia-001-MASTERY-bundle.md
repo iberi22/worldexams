@@ -170,7 +170,7 @@ Aplicar la estructura de la leyenda significa buscar un punto de partida verific
   <!-- feedback: Incorrecto. La ficha no dice que los narradores se equivocan, porque el cambio se explica por la transmisión oral. -->
 - [x] B) Porque la explicación popular es la parte que la gente modifica, mientras que el lugar y el hecho real se conservan
   <!-- feedback: Correcto. La ficha muestra que el relato se apoya en un hecho fijo y en la parte imaginada que se transforma con los años. -->
-- [ ] C) Porque cada narrator usa un lenguaje diferente y por eso los hechos cambian
+- [ ] C) Porque cada narrador usa un lenguaje diferente y por eso los hechos cambian
   <!-- feedback: Incorrecto. El cambio de lenguaje no cambia los hechos, y la ficha separa el hecho real de la explicación popular. -->
 - [ ] D) Porque las leyendas deben ser distintas entre un pueblo y otro para no repetirse
   <!-- feedback: Incorrecto. La ficha no establece esa regla, porque explica el cambio a partir de la transmisión de boca en boca. -->
