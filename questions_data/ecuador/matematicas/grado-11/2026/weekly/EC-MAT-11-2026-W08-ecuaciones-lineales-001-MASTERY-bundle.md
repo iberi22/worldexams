@@ -243,20 +243,20 @@ Establecemos $2x + 50 = 120 \Rightarrow 2x = 70 \Rightarrow x = 35$.
 **Expected_Success:** 0.60
 **Contexto:** En la ciudad de Manta, un grupo de estudiantes de la Colegio Nacional Mejía analizan un problema práctico de matemáticas.
 ### Enunciado
-En un negocio local de Cuenca, el costo total se modela por $C = 2x + 50$, donde $x$ es el número de artículos producidos. Si el presupuesto asignado es de $120$ dólares, ¿cuántos artículos se pueden producir?
+En una cooperativa de Manta, el costo total de un tractor agrícola se modela por $C = 5x + 80$, donde $x$ es el número de tractores producidos. Si el presupuesto asignado es de $430$ dólares, ¿cuántos tractores se pueden producir?
 
 ### Opciones
-- [ ] A) 30
-  <!-- feedback: 30 resulta de restar los $50$ y dividir el resto entre 2, pero la resta debe hacerse completa: $120 - 50 = 70$ y $70 / 2 = 35$. -->
-- [x] B) 35
-  <!-- feedback: Correcto. Con $c = 2x + 50$ y presupuesto de $120$: $2x = 120 - 50 = 70$ y $x = 70 / 2 = 35$ artículos. -->
-- [ ] C) 45
-  <!-- feedback: 45 corresponde a repartir el presupuesto sin descontar los $50$ del costo fijo, que es el error típico en este modelo. -->
-- [ ] D) 40
-  <!-- feedback: 40 sale de despejar mal el término independiente: $120 - 50$ da $70$, y $70 / 2$ da $35$, no $40$. -->
+- [ ] A) 86
+  <!-- feedback: Con $5x = 430 - 80 = 350$ se obtiene $x = 70$; el 86 saldría de dividir los $430$ sin descontar el costo fijo. -->
+- [x] B) 70
+  <!-- feedback: Correcto. Con $5x = 430 - 80 = 350$ y $350 / 5 = 70$ se chega exactamente a $x = 70$ módulos. -->
+- [ ] C) 350
+  <!-- feedback: 350 es el valor de $5x$ una vez despejado el costo fijo, todavía no el número de tractores; falta dividir entre 5. -->
+- [ ] D) 75
+  <!-- feedback: 75 corresponde a un costo fijo de $55$ en el modelo, pero aquí el término independiente es $80$ y por eso el resultado es $70$. -->
 
 ### Explicacion Pedagogica
-Establecemos $2x + 50 = 120 \Rightarrow 2x = 70 \Rightarrow x = 35$.
+Igualando el modelo con el presupuesto, $5x + 80 = 430 \Rightarrow 5x = 350 \Rightarrow x = 350 / 5 = 70$ módulos. El orden importa: primero se despeja el costo fijo y después se divide entre el coeficiente de $x$, que es el costo unitario.
 
 ---
 

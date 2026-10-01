@@ -57,20 +57,20 @@ This question tests advanced vocabulary (verbs of change and impact) suitable fo
 **Contexto:** Discussing future cities in Pereira.
 
 ### Enunciado
-In the context of future cities, which word best completes the following sentence: 'The government's failure to address the issue has only served to __________ the social divide'?
+In the context of future cities, which word best completes the following sentence: 'Building motorways through the centre to move cars faster __________ the very neighbourhoods the plan was meant to serve'?
 
 ### Opciones
-- [x] D) exacerbate
-  <!-- feedback: Correct. 'Exacerbate' means to make a problem or bad situation worse, which fits perfectly here. -->
-- [ ] A) alleviate
-  <!-- feedback: Incorrect. 'Alleviate' means to make something less severe, which is the opposite of what's needed. -->
-- [ ] B) mitigate
-  <!-- feedback: Incorrect. 'Mitigate' means to make something less severe, which doesn't fit the negative consequence implied. -->
-- [ ] C) facilitate
-  <!-- feedback: Incorrect. 'Facilitate' means to make an action or process easy or easier, which is not appropriate for a social divide. -->
+- [x] A) deprives
+  <!-- feedback: 'Deprive' means to prevent from having or receiving, and the sentence describes the residents losing access to what the scheme was supposed to give them. -->
+- [ ] B) deceive
+  <!-- feedback: 'Deceive' means to mislead, and the clause is about losing a neighbourhood amenity rather than being misled about a fact. -->
+- [ ] C) depicts
+  <!-- feedback: 'Depict' means to portray, and the sentence reports an effect on the people living there rather than a description in words or images. -->
+- [ ] D) deposit
+  <!-- feedback: 'Deposit' means to place or leave a layer, and the clause concerns an absence rather than anything being laid down. -->
 
-### Explicacion Pedagogica
-This question tests advanced vocabulary (verbs of change and impact) suitable for C1+ level.
+### Explicación Pedagógica
+The clause 'the very neighbourhoods the plan was meant to serve' sets up a reversal: the beneficiaries end up with less. A verb of taking something away, such as 'deprives', names that loss, whereas the distractors describe being misled, being portrayed or something being deposited.
 
 ---
 
@@ -82,20 +82,20 @@ This question tests advanced vocabulary (verbs of change and impact) suitable fo
 **Contexto:** Discussing future cities in Barranquilla.
 
 ### Enunciado
-In the context of future cities, which word best completes the following sentence: 'The government's failure to address the issue has only served to __________ the social divide'?
+In the context of future cities, which word best completes the following sentence: 'A sensor network that records every journey can __________ the point at which a trip stops being anyone's private business'?
 
 ### Opciones
-- [x] A) exacerbate
-  <!-- feedback: Correct. 'Exacerbate' means to make a problem or bad situation worse, which fits perfectly here. -->
-- [ ] B) alleviate
-  <!-- feedback: Incorrect. 'Alleviate' means to make something less severe, which is the opposite of what's needed. -->
-- [ ] C) mitigate
-  <!-- feedback: Incorrect. 'Mitigate' means to make something less severe, which doesn't fit the negative consequence implied. -->
-- [ ] D) facilitate
-  <!-- feedback: Incorrect. 'Facilitate' means to make an action or process easy or easier, which is not appropriate for a social divide. -->
+- [x] A) obscures
+  <!-- feedback: 'Obscure' means to make unclear, and the sentence states the point at which privacy disappears, which is the loss of distinction described here. -->
+- [ ] B) obeys
+  <!-- feedback: 'Obey' means to comply with a rule or order, and the clause is about the point of no return rather than compliance. -->
+- [ ] C) occludes
+  <!-- feedback: 'Occlude' means to block from view, and the sentence is about the loss of privacy rather than anything physically hidden from sight. -->
+- [ ] D) occupies
+  <!-- feedback: 'Occupy' means to take up space or time, and the clause identifies a threshold rather than describing anything being filled. -->
 
-### Explicacion Pedagogica
-This question tests advanced vocabulary (verbs of change and impact) suitable for C1+ level.
+### Explicación Pedagógica
+The phrase 'stopping being anyone's private business' names a loss of distinction between private and observable. A verb of rendering something unclear, such as 'obscures', captures that, whereas the other options describe compliance, physical blocking or the act of filling space.
 
 ---
 
@@ -107,22 +107,20 @@ This question tests advanced vocabulary (verbs of change and impact) suitable fo
 **Contexto:** Discussing future cities in Cali.
 
 ### Enunciado
-In the context of future cities, which word best completes the following sentence: 'The government's failure to address the issue has only served to __________ the social divide'?
+Which term names the physical systems and facilities, such as water pipes, roads, and electricity networks, that support life in a future city?
 
 ### Opciones
-- [x] D) exacerbate
-  <!-- feedback: Correct. 'Exacerbate' means to make a problem or bad situation worse, which fits perfectly here. -->
-- [ ] A) alleviate
-  <!-- feedback: Incorrect. 'Alleviate' means to make something less severe, which is the opposite of what's needed. -->
-- [ ] B) mitigate
-  <!-- feedback: Incorrect. 'Mitigate' means to make something less severe, which doesn't fit the negative consequence implied. -->
-- [ ] C) facilitate
-  <!-- feedback: Incorrect. 'Facilitate' means to make an action or process easy or easier, which is not appropriate for a social divide. -->
+- [ ] A) Population.
+  <!-- feedback: 'Population' refers to the people living in an area, not the pipes, roads, or networks serving them. -->
+- [ ] B) Forecast.
+  <!-- feedback: A 'forecast' is a prediction about future conditions, not a city's physical systems. -->
+- [x] C) Infrastructure.
+  <!-- feedback: 'Infrastructure' refers to the basic physical systems and facilities that allow a city to function. -->
+- [ ] D) Legislation.
+  <!-- feedback: 'Legislation' refers to laws; it does not name the physical facilities listed in the question. -->
 
 ### Explicacion Pedagogica
-This question tests advanced vocabulary (verbs of change and impact) suitable for C1+ level.
-
----
+'Infrastructure' is the collective term for essential physical systems such as transport, water, and electricity networks.
 
 ## Question 5 [D5-D6]
 **ID:** CO-ING-11-2026-W37-future-cities-001-MASTERY-bundle-v5
@@ -157,22 +155,20 @@ This question requires inferential reading skills to understand how complex stru
 **Contexto:** Discussing future cities in Cali.
 
 ### Enunciado
-According to a recent report on future cities in Cali, what is implied about the role of Prediction & Probability in shaping public opinion?
+A fictional planning model for Cali estimates a 70% chance that bus journey times will fall if dedicated lanes are introduced. Which sentence communicates this prediction accurately?
 
 ### Opciones
-- [x] B) It serves as a critical tool for nuanced communication.
-  <!-- feedback: Correct. Prediction and probability is the point here: the pair separates certainty from likelihood: "Traffic will exceed capacity" against "Traffic is likely to exceed capacity", so the forecast arrives with a confidence level attached, which is what makes it usable for planning. Reading that implication is what the question asks. -->
-- [ ] A) It is largely irrelevant to the general public.
-  <!-- feedback: This calls the device irrelevant, but the report treats that confidence level as central to public discussion, so calling it irrelevant contradicts the text. -->
-- [ ] C) It simplifies complex socio-political messages.
-  <!-- feedback: This claims the device makes the claim plainer, whereas the modal adds a degree of certainty to the forecast rather than making the message simpler. -->
-- [ ] D) It is only used by academic elites in {city}.
-  <!-- feedback: This restricts the device to specialists in a single city, but the report shows this usage across media and discourse, not as jargon owned by one city's planners. -->
+- [x] A) Bus journeys are likely to become shorter if the dedicated lanes are introduced.
+  <!-- feedback: 'Likely' expresses an outcome that is more probable than not while preserving the condition and the model's uncertainty. -->
+- [ ] B) Bus journeys are guaranteed to become shorter, whatever the city does.
+  <!-- feedback: A 70% estimate is not a guarantee, and the prediction depends on introducing the dedicated lanes. -->
+- [ ] C) Bus journeys cannot become shorter after the dedicated lanes are introduced.
+  <!-- feedback: 'Cannot' expresses impossibility, which contradicts the model's estimated 70% chance of shorter journeys. -->
+- [ ] D) Bus journeys have already become shorter because the lanes were introduced.
+  <!-- feedback: The model predicts a conditional future outcome; it does not report a completed change or confirm that the lanes exist. -->
 
 ### Explicacion Pedagogica
-This question requires inferential reading skills to understand how complex structures convey deeper meaning.
-
----
+'Likely' appropriately communicates a 70% probability without presenting the predicted outcome as certain or already achieved.
 
 ## Question 7 [D5-D6]
 **ID:** CO-ING-11-2026-W37-future-cities-001-MASTERY-bundle-v7
@@ -307,20 +303,20 @@ This evaluates mastery of advanced inversion structures, a key component of C1+ 
 **Contexto:** Discussing future cities in Pereira.
 
 ### Enunciado
-Complete the following sentence about future cities: 'Hardly __________ the new policy been implemented when the first results started to show.' (Topic: Prediction & Probability)
+Complete the following sentence about future cities: 'Not until the tram line reached the outer estates __________ the commute stop being decided by car alone.' (Topic: 'not until' with an inverted clause)
 
 ### Opciones
-- [x] B) had
-  <!-- feedback: Correct. 'Hardly had...' is a classic C1 inversion structure used for sequential events. -->
-- [ ] A) has
-  <!-- feedback: Incorrect. The sentence refers to a past sequence, requiring the past perfect in inversion. -->
+- [ ] A) had
+  <!-- feedback: 'Not until' inverts the main clause, placing the auxiliary before the subject 'the commute'. 'Had the commute stopped' would leave the subject first, which the pattern forbids. -->
+- [x] B) did
+  <!-- feedback: 'Not until the tram line reached did the commute stop being decided by car alone'. The auxiliary is fronted to invert the clause. -->
 - [ ] C) was
-  <!-- feedback: Incorrect. 'Was' does not fit the past perfect structure required by 'Hardly'. -->
-- [ ] D) did
-  <!-- feedback: Incorrect. 'Did' would require the base form of the verb, not the past participle 'been'. -->
+  <!-- feedback: 'Was' would suggest a passive or a singular subject. The subject is singular but the verb is active, so a passive reading is not available. -->
+- [ ] D) do
+  <!-- feedback: 'Do' is present tense and cannot invert a past sequence in which the tram line had already reached the estates. -->
 
-### Explicacion Pedagogica
-This evaluates mastery of advanced inversion structures, a key component of C1+ proficiency.
+### Explicación Pedagógica
+Inversion with 'not until' frontes the auxiliary so that the subject follows the verb. The auxiliary 'did' carries the tense of the main clause while the subject is delayed. Selecting a perfect or passive auxiliary would state a relation of time or voice that the sentence does not express.
 
 ---
 
@@ -332,20 +328,20 @@ This evaluates mastery of advanced inversion structures, a key component of C1+ 
 **Contexto:** Discussing future cities in Medellín.
 
 ### Enunciado
-Complete the following sentence about future cities: 'Hardly __________ the new policy been implemented when the first results started to show.' (Topic: Prediction & Probability)
+Complete the following sentence about future cities: 'Rarely __________ a street designed for cars in the 1960s cope with the volumes a pedestrian city now produces.' (Topic: inversion with 'rarely' and a singular subject)
 
 ### Opciones
-- [x] D) had
-  <!-- feedback: Correct. 'Hardly had...' is a classic C1 inversion structure used for sequential events. -->
-- [ ] A) has
-  <!-- feedback: Incorrect. The sentence refers to a past sequence, requiring the past perfect in inversion. -->
-- [ ] B) was
-  <!-- feedback: Incorrect. 'Was' does not fit the past perfect structure required by 'Hardly'. -->
-- [ ] C) did
-  <!-- feedback: Incorrect. 'Did' would require the base form of the verb, not the past participle 'been'. -->
+- [ ] A) do
+  <!-- feedback: 'Do' agrees with plural subjects, and 'a street' is singular, so the base form with 'does' is required. -->
+- [x] B) does
+  <!-- feedback: 'Rarely does a street cope'. With a singular subject the inversion uses 'does', and the main verb reverts to the base form 'cope'. -->
+- [ ] C) have
+  <!-- feedback: 'Have' would give the perfect aspect, but the bare inversion with 'rarely' and a singular subject takes 'does' before the base form. -->
+- [ ] D) are
+  <!-- feedback: 'Are' cannot invert with a singular subject and would require a plural or a collection for agreement. -->
 
-### Explicacion Pedagogica
-This evaluates mastery of advanced inversion structures, a key component of C1+ proficiency.
+### Explicación Pedagógica
+Negative adverbials such as 'rarely', 'seldom' and 'never' trigger subject-auxiliary inversion. When the subject is third person singular, as 'a street' is, the auxiliary is 'does' and the following verb loses its inflection. Using 'do' is the frequent error because the plural pattern dominates in the language.
 
 ---
 
@@ -357,22 +353,20 @@ This evaluates mastery of advanced inversion structures, a key component of C1+ 
 **Contexto:** Discussing future cities in Bogotá.
 
 ### Enunciado
-Complete the following sentence about future cities: 'Hardly __________ the new policy been implemented when the first results started to show.' (Topic: Prediction & Probability)
+A fictional urban report states, 'Unless Medellín expands affordable housing near transit stations, lower-income residents may be pushed farther from reliable transport.' Which interpretation preserves both the condition and the degree of certainty?
 
 ### Opciones
-- [x] A) had
-  <!-- feedback: Correct. 'Hardly had...' is a classic C1 inversion structure used for sequential events. -->
-- [ ] B) has
-  <!-- feedback: Incorrect. The sentence refers to a past sequence, requiring the past perfect in inversion. -->
-- [ ] C) was
-  <!-- feedback: Incorrect. 'Was' does not fit the past perfect structure required by 'Hardly'. -->
-- [ ] D) did
-  <!-- feedback: Incorrect. 'Did' would require the base form of the verb, not the past participle 'been'. -->
+- [x] A) If affordable housing near stations is not expanded, displacement farther from reliable transport is possible.
+  <!-- feedback: 'Unless' means 'if not', and 'may' expresses possibility rather than certainty; this paraphrase preserves both meanings. -->
+- [ ] B) If affordable housing near stations is expanded, displacement farther from reliable transport is certain.
+  <!-- feedback: This reverses the stated condition and replaces the possibility expressed by 'may' with certainty. -->
+- [ ] C) Residents have already been displaced because affordable housing was expanded.
+  <!-- feedback: The report describes a possible future consequence, not an event already completed, and it does not blame housing expansion. -->
+- [ ] D) Without housing expansion, residents will definitely remain close to reliable transport.
+  <!-- feedback: This predicts the opposite outcome and adds certainty, whereas the report warns of possible displacement. -->
 
 ### Explicacion Pedagogica
-This evaluates mastery of advanced inversion structures, a key component of C1+ proficiency.
-
----
+'Unless' introduces a negative condition equivalent to 'if not'. The modal 'may' marks displacement as a possible consequence rather than an inevitable one.
 
 ## Question 15 [D7-D8]
 **ID:** CO-ING-11-2026-W37-future-cities-001-MASTERY-bundle-v15
@@ -382,20 +376,20 @@ This evaluates mastery of advanced inversion structures, a key component of C1+ 
 **Contexto:** Discussing future cities in Cartagena.
 
 ### Enunciado
-Complete the following sentence about future cities: 'Hardly __________ the new policy been implemented when the first results started to show.' (Topic: Prediction & Probability)
+Complete the following sentence about future cities: 'No sooner __________ the first cycle lane open than traffic displaced from the road appeared in the side streets.' (Topic: 'no sooner ... than' inversion)
 
 ### Opciones
-- [x] B) had
-  <!-- feedback: Correct. 'Hardly had...' is a classic C1 inversion structure used for sequential events. -->
-- [ ] A) has
-  <!-- feedback: Incorrect. The sentence refers to a past sequence, requiring the past perfect in inversion. -->
-- [ ] C) was
-  <!-- feedback: Incorrect. 'Was' does not fit the past perfect structure required by 'Hardly'. -->
-- [ ] D) did
-  <!-- feedback: Incorrect. 'Did' would require the base form of the verb, not the past participle 'been'. -->
+- [x] A) had
+  <!-- feedback: 'No sooner had the cycle lane opened than traffic appeared'. The structure pairs a completed past action with the immediate consequence that followed it. -->
+- [ ] B) did
+  <!-- feedback: 'Did' with a bare infinitive would need 'no sooner had'; the participle 'opened' shows that the perfect auxiliary is required rather than the do-form. -->
+- [ ] C) has
+  <!-- feedback: 'Has' would give the present perfect and place the action in unfinished time, whereas 'no sooner ... than' needs a bounded past sequence. -->
+- [ ] D) was
+  <!-- feedback: 'Was' cannot combine with a past participle in this active construction, and the clause clearly states that the lane was opened. -->
 
-### Explicacion Pedagogica
-This evaluates mastery of advanced inversion structures, a key component of C1+ proficiency.
+### Explicación Pedagógica
+The correlative pair 'no sooner ... than' obliges the perfect auxiliary before the participle, so the first clause reads 'had the cycle lane opened'. The second clause then arrives with 'than', marking the consequence that followed immediately. Choosing a present perfect or a simple do-inversion breaks the bounded past sequence the pattern requires.
 
 ---
 
@@ -407,20 +401,20 @@ This evaluates mastery of advanced inversion structures, a key component of C1+ 
 **Contexto:** Discussing future cities in Cali.
 
 ### Enunciado
-Complete the following sentence about future cities: 'Hardly __________ the new policy been implemented when the first results started to show.' (Topic: Prediction & Probability)
+Complete the following sentence about future cities: 'Under no circumstances __________ a planning authority approve a tower whose shadow falls across an entire school yard.' (Topic: inversion with a negative adverbial and a modal verb)
 
 ### Opciones
-- [x] B) had
-  <!-- feedback: Correct. 'Hardly had...' is a classic C1 inversion structure used for sequential events. -->
-- [ ] A) has
-  <!-- feedback: Incorrect. The sentence refers to a past sequence, requiring the past perfect in inversion. -->
-- [ ] C) was
-  <!-- feedback: Incorrect. 'Was' does not fit the past perfect structure required by 'Hardly'. -->
-- [ ] D) did
-  <!-- feedback: Incorrect. 'Did' would require the base form of the verb, not the past participle 'been'. -->
+- [x] A) should
+  <!-- feedback: 'Under no circumstances should a planning authority approve'. A modal inverts exactly as the auxiliary of an ordinary verb does, so fronting 'should' produces the emphatic reading. -->
+- [ ] B) must
+  <!-- feedback: 'Must' states obligation, and in this negated frame the modal that carries the contrast is 'should'; 'must' would change what the sentence claims. -->
+- [ ] C) would
+  <!-- feedback: 'Would' belongs to the conditional or the reporting sequence here, not to the emphatic inversion the negative adverbial demands. -->
+- [ ] D) ought
+  <!-- feedback: 'Ought' takes 'to' plus an infinitive, so it could not fill the gap directly after the negative adverbial in this construction. -->
 
-### Explicacion Pedagogica
-This evaluates mastery of advanced inversion structures, a key component of C1+ proficiency.
+### Explicación Pedagógica
+Negative adverbials such as 'under no circumstances' and 'in no way' trigger inversion of the first auxiliary, and modals invert in exactly the same way. Fronting 'should' ahead of the subject produces the emphatic reading. A modal of obligation would state a different claim, and 'ought' cannot occupy the position without 'to' plus an infinitive.
 
 ---
 

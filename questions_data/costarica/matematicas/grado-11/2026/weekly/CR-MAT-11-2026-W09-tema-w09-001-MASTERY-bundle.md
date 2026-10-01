@@ -326,20 +326,20 @@ Para resolver el sistema por igualación, igualamos las dos expresiones para $y$
 **Contexto:** En Cartago, Andrey está investigando un problema matemático aplicado al contexto costarricense.
 
 ### Enunciado
-Considere la ecuación de una circunferencia en el plano cartesiano dada por $x^2 + y^2 = 25$ e interséquela con la recta horizontal $y = 3$. ¿Cuáles son los puntos de intersección?
+Considere la ecuación de una circunferencia en el plano cartesiano dada por $x^2 + y^2 = 49$ e interséquela con la recta vertical $x = 5$. ¿Cuáles son los puntos de intersección?
 
 ### Opciones
-- [ ] A) (-3, 4) y (3, 4)
-  <!-- feedback: Explicación de distractor: Se intercambian los valores de las variables $x$ e $y$ de manera equivocada al formular los pares ordenados. -->
-- [ ] B) (0, 5) y (0, -5)
-  <!-- feedback: Explicación de distractor: Se asume que la parábola y la recta se cortan sin verificar algebraicamente la existencia de raíces reales en la ecuación resultante. -->
-- [x] C) (-4, 3) y (4, 3)
-  <!-- feedback: Explicación detallada: Opción correcta porque cumple simultáneamente con ambas ecuaciones del sistema no lineal de forma analítica. -->
-- [ ] D) (-5, 3) y (5, 3)
-  <!-- feedback: Explicación de distractor: Error básico al calcular la raíz cuadrada de la constante de la ecuación de la circunferencia. -->
+- [ ] A) $(5,\ 7)$
+  <!-- feedback: Con $x = 5$ la ecuación exige $25 + y^2 = 49$, de donde $y = \pm 2\sqrt{6}$; el 7 es el radio, no una ordenada válida. -->
+- [ ] B) $(0,\ 5)$
+  <!-- feedback: La abscisa queda fijada en 5 por la recta $x = 5$, de modo que ningún punto del corte puede tener $x = 0$. -->
+- [x] C) $(5,\ 2\sqrt{6})$
+  <!-- feedback: Correcto. De $25 + y^2 = 49$ se tiene $y^2 = 24$, luego $y = \pm 2\sqrt{6}$, y la abscisa sigue siendo 5 por la recta. -->
+- [ ] D) $(2\sqrt{6},\ 5)$
+  <!-- feedback: Se han intercambiado las coordenadas: el valor $2\sqrt{6}$ corresponde a la ordenada y el 5 a la abscisa que impone la recta. -->
 
-### Explicacion Pedagogica
-Sustituimos la recta $y = 3$ en la ecuación de la circunferencia $x^2 + y^2 = 25$: $x^2 + 3^2 = 25 \Rightarrow x^2 + 9 = 25 \Rightarrow x^2 = 16 \Rightarrow x = \pm 4$. Esto nos genera dos puntos de intersección reales en el plano cartesiano, cuyos valores de abscisa son $x = -4$ y $x = 4$, asociados al mismo valor de ordenada $y = 3$. Por lo tanto, los puntos son $(-4, 3)$ y $(4, 3)$.
+### Explicación Pedagógica
+La intersección con una recta vertical se obtiene sustituyendo el valor fijado de $x$: $5^2 + y^2 = 49 \Rightarrow y^2 = 24 \Rightarrow y = \pm 2\sqrt{6}$, que vale unos $\pm 4{,}90$. Como la abscisa permanece en 5, los dos puntos son $(5,\ 2\sqrt{6})$ y $(5,\ -2\sqrt{6})$, y ambos verifican $25 + 24 = 49$.
 
 ---
 ## Question 14 [D8]
@@ -350,20 +350,20 @@ Sustituimos la recta $y = 3$ en la ecuación de la circunferencia $x^2 + y^2 = 2
 **Contexto:** En Heredia, María está investigando un problema matemático aplicado al contexto costarricense.
 
 ### Enunciado
-Determine la cantidad de puntos de intersección reales que existen entre la parábola de ecuación $y = x^2 + 5$ y la recta horizontal $y = 2$.
+Determine la cantidad de puntos de intersección reales que existen entre la circunferencia $x^2 + y^2 = 16$ y la recta horizontal $y = 6$.
 
 ### Opciones
 - [ ] A) Tienen exactamente un punto de intersección
-  <!-- feedback: Explicación de distractor: Se intercambian los valores de las variables $x$ e $y$ de manera equivocada al formular los pares ordenados. -->
-- [ ] B) Tienen exactamente dos puntos de intersección
-  <!-- feedback: Explicación de distractor: Se asume que la parábola y la recta se cortan sin verificar algebraicamente la existencia de raíces reales en la ecuación resultante. -->
-- [ ] C) Tienen infinitos puntos de intersección
-  <!-- feedback: Explicación de distractor: Error básico al calcular la raíz cuadrada de la constante de la ecuación de la circunferencia. -->
-- [x] D) No tienen puntos de intersección en los números reales
-  <!-- feedback: Explicación detallada: Opción correcta porque cumple simultáneamente con ambas ecuaciones del sistema no lineal de forma analítica. -->
+  <!-- feedback: Habría un punto único si la abscisa calculada fuera nula; aquí $x^2 = -20$ no da ninguna solución real. -->
+- [ ] B) Tienen exactamente tres puntos de intersección
+  <!-- feedback: Una recta corta a una circunferencia en un máximo de dos puntos, de modo que tres es imposible. -->
+- [x] C) No tienen puntos de intersección en los números reales
+  <!-- feedback: Correcto. Al sustituir, $x^2 = 16 - 36 = -20$, y el cuadrado de un real nunca es negativo. -->
+- [ ] D) Tienen exactamente dos puntos de intersección
+  <!-- feedback: Dos puntos exigiría que existieran races reales en $x$, y en este caso no existe ninguna. -->
 
-### Explicacion Pedagogica
-Igualamos las dos ecuaciones para hallar las abscisas de los puntos de intersección: $x^2 + 5 = 2 \Rightarrow x^2 = -3$. Dado que ningún número real elevado al cuadrado resulta en un valor negativo ($x^2 \geq 0$ para todo $x \in \mathbb{R}$), esta ecuación no posee soluciones reales. Por lo tanto, la parábola y la recta horizontal no tienen ningún punto de intersección en el plano real.
+### Explicación Pedagógica
+Sustituimos $y = 6$ en la ecuación de la circunferencia: $x^2 + 36 = 16 \Rightarrow x^2 = -20$. Como $x^2 \geq 0$ para todo $x \in \mathbb{R}$, la ecuación no tiene soluciones reales. Geométricamente la recta está a distancia 6 del centro y el radio es solo 4, por lo que queda completamente fuera del círculo.
 
 ---
 ## Question 15 [D8]
@@ -375,21 +375,21 @@ Igualamos las dos ecuaciones para hallar las abscisas de los puntos de intersecc
 
 ### Enunciado
 Resuelva el sistema de ecuaciones no lineales:
-$$\begin{cases} y = x^2 \\ y = x + 2 \end{cases}$$
+$$\begin{cases} y = x^2 - 4x \\ y = 2 \end{cases}$$
 ¿Cuál de los siguientes pares ordenados representa una solución real del sistema?
 
 ### Opciones
-- [x] A) (2, 4)
-  <!-- feedback: Explicación detallada: Opción correcta porque cumple simultáneamente con ambas ecuaciones del sistema no lineal de forma analítica. -->
-- [ ] B) (1, 1)
-  <!-- feedback: Explicación de distractor: Se intercambian los valores de las variables $x$ e $y$ de manera equivocada al formular los pares ordenados. -->
-- [ ] C) (0, 2)
-  <!-- feedback: Explicación de distractor: Se asume que la parábola y la recta se cortan sin verificar algebraicamente la existencia de raíces reales en la ecuación resultante. -->
-- [ ] D) (3, 9)
-  <!-- feedback: Explicación de distractor: Error básico al calcular la raíz cuadrada de la constante de la ecuación de la circunferencia. -->
+- [ ] A) $(-1,\ 2)$
+  <!-- feedback: Con $x = -1$ la primera ecuación da $1 + 4 = 5$, y $5$ no es el $2$ que fija el sistema. -->
+- [ ] B) $(0,\ 2)$
+  <!-- feedback: Con $x = 0$ se obtiene $y = 0$ en la primera ecuación, y $0$ no es $2$. -->
+- [x] C) $(2 + \sqrt{6},\ 2)$
+  <!-- feedback: Correcto. Sustituyendo en $x^2 - 4x = 2$ se obtiene $x = 2 \pm \sqrt{6}$, y en ambos casos $y = 2$ como exige el sistema. -->
+- [ ] D) $(4,\ 2)$
+  <!-- feedback: Con $x = 4$ la primera ecuación da $16 - 16 = 0$, y $0$ no coincide con el $2$ del par. -->
 
-### Explicacion Pedagogica
-Para resolver el sistema por igualación, igualamos las dos expresiones para $y$: $x^2 = x + 2 \Rightarrow x^2 - x - 2 = 0$. Factorizando la ecuación cuadrática obtenida: $(x - 2)(x + 1) = 0$. Esto nos proporciona dos posibles coordenadas $x$: $x = 2 \Rightarrow y = 2+2=4$ (punto $(2,4)$), y $x = -1 \Rightarrow y = -1+2=1$ (punto $(-1,1)$). Por lo tanto, el punto $(2, 4)$ representa una solución válida para el sistema.
+### Explicación Pedagógica
+El sistema obliga a que $y$ valga 2, de modo que se igualan las dos expresiones: $x^2 - 4x = 2 \Rightarrow x^2 - 4x - 2 = 0$. Con la fórmula cuadrática se obtiene $x = \frac{4 \pm \sqrt{16 + 8}}{2} = 2 \pm \sqrt{6}$, y en los dos casos $y = 2$. Por tanto las soluciones reales son $(2 + \sqrt{6}, 2)$ y $(2 - \sqrt{6}, 2)$, y ninguna de las parejas enteras propuestas cumple el sistema.
 
 ---
 ## Question 16 [D8]
@@ -400,20 +400,20 @@ Para resolver el sistema por igualación, igualamos las dos expresiones para $y$
 **Contexto:** En Puntarenas, Ana está investigando un problema matemático aplicado al contexto costarricense.
 
 ### Enunciado
-Considere la ecuación de una circunferencia en el plano cartesiano dada por $x^2 + y^2 = 25$ e interséquela con la recta horizontal $y = 3$. ¿Cuáles son los puntos de intersección?
+Considere la ecuación de una circunferencia en el plano cartesiano dada por $x^2 + y^2 = 100$ e interséquela con la recta horizontal $y = 6$. ¿Cuáles son los puntos de intersección?
 
 ### Opciones
-- [ ] A) (-3, 4) y (3, 4)
-  <!-- feedback: Explicación de distractor: Se intercambian los valores de las variables $x$ e $y$ de manera equivocada al formular los pares ordenados. -->
-- [x] B) (-4, 3) y (4, 3)
-  <!-- feedback: Explicación detallada: Opción correcta porque cumple simultáneamente con ambas ecuaciones del sistema no lineal de forma analítica. -->
-- [ ] C) (0, 5) y (0, -5)
-  <!-- feedback: Explicación de distractor: Se asume que la parábola y la recta se cortan sin verificar algebraicamente la existencia de raíces reales en la ecuación resultante. -->
-- [ ] D) (-5, 3) y (5, 3)
-  <!-- feedback: Explicación de distractor: Error básico al calcular la raíz cuadrada de la constante de la ecuación de la circunferencia. -->
+- [ ] A) $(-6,\ 8)$
+  <!-- feedback: La abscisa debe ser $\pm 8$ cuando $y = 6$, de modo que un $-6$ en la primera posición no cumple la ecuación. -->
+- [ ] B) $(0,\ 10)$
+  <!-- feedback: Ese es el punto donde la circunferencia corta el eje $x$, no el corte con la recta $y = 6$. -->
+- [x] C) $(-8,\ 6)$
+  <!-- feedback: Correcto. Sustituyendo $y = 6$ se tiene $x^2 = 100 - 36 = 64$, de donde $x = \pm 8$ y la ordenada queda fijada en 6. -->
+- [ ] D) $(10,\ 6)$
+  <!-- feedback: El 10 es el radio; con $x = 10$ se tendría $100 + 36 = 136 \neq 100$, de modo que el punto no pertenece a la circunferencia. -->
 
-### Explicacion Pedagogica
-Sustituimos la recta $y = 3$ en la ecuación de la circunferencia $x^2 + y^2 = 25$: $x^2 + 3^2 = 25 \Rightarrow x^2 + 9 = 25 \Rightarrow x^2 = 16 \Rightarrow x = \pm 4$. Esto nos genera dos puntos de intersección reales en el plano cartesiano, cuyos valores de abscisa son $x = -4$ y $x = 4$, asociados al mismo valor de ordenada $y = 3$. Por lo tanto, los puntos son $(-4, 3)$ y $(4, 3)$.
+### Explicación Pedagógica
+Al intersecar con una recta horizontal se sustituye $y = 6$: $x^2 + 36 = 100 \Rightarrow x^2 = 64 \Rightarrow x = \pm 8$. Los dos puntos de corte son $(8, 6)$ y $(-8, 6)$, y se comprueban sustituyendo en la circunferencia: $64 + 36 = 100$ en ambos casos.
 
 ---
 ## Question 17 [D9]
@@ -424,20 +424,20 @@ Sustituimos la recta $y = 3$ en la ecuación de la circunferencia $x^2 + y^2 = 2
 **Contexto:** En Limón, Sofía está investigando un problema matemático aplicado al contexto costarricense.
 
 ### Enunciado
-Determine la cantidad de puntos de intersección reales que existen entre la parábola de ecuación $y = x^2 + 5$ y la recta horizontal $y = 2$.
+Determine la cantidad de puntos de intersección reales que existen entre la parábola de ecuación $y = x^2 - 9$ y la recta horizontal $y = 1$.
 
 ### Opciones
 - [ ] A) Tienen exactamente un punto de intersección
-  <!-- feedback: Explicación de distractor: Se intercambian los valores de las variables $x$ e $y$ de manera equivocada al formular los pares ordenados. -->
-- [ ] B) Tienen exactamente dos puntos de intersección
-  <!-- feedback: Explicación de distractor: Se asume que la parábola y la recta se cortan sin verificar algebraicamente la existencia de raíces reales en la ecuación resultante. -->
-- [x] C) No tienen puntos de intersección en los números reales
-  <!-- feedback: Explicación detallada: Opción correcta porque cumple simultáneamente con ambas ecuaciones del sistema no lineal de forma analítica. -->
-- [ ] D) Tienen infinitos puntos de intersección
-  <!-- feedback: Explicación de distractor: Error básico al calcular la raíz cuadrada de la constante de la ecuación de la circunferencia. -->
+  <!-- feedback: Habría un solo punto si la recta pasara por el vértice, como ocurre con $y = -9$, no con $y = 1$. -->
+- [x] B) Tienen exactamente dos puntos de intersección
+  <!-- feedback: Correcto. De $x^2 - 9 = 1$ sale $x^2 = 10$ y $x = \pm \sqrt{10}$, dos valores reales distintos. -->
+- [ ] C) Tienen infinitos puntos de intersección
+  <!-- feedback: Para que hubiera infinitos puntos las dos gráficas deberían coincidir, y una parábola nunca es una recta. -->
+- [ ] D) No tienen puntos de intersección en los números reales
+  <!-- feedback: El valor $x^2 = 10$ es positivo, de modo que sí existen soluciones reales y por tanto hay intersección. -->
 
-### Explicacion Pedagogica
-Igualamos las dos ecuaciones para hallar las abscisas de los puntos de intersección: $x^2 + 5 = 2 \Rightarrow x^2 = -3$. Dado que ningún número real elevado al cuadrado resulta en un valor negativo ($x^2 \geq 0$ para todo $x \in \mathbb{R}$), esta ecuación no posee soluciones reales. Por lo tanto, la parábola y la recta horizontal no tienen ningún punto de intersección en el plano real.
+### Explicación Pedagógica
+Igualamos las dos expresiones de $y$: $x^2 - 9 = 1 \Rightarrow x^2 = 10 \Rightarrow x = \pm \sqrt{10}$. Como ambos valores son reales, existen exactamente dos puntos de intersección, que son $(\sqrt{10}, 1)$ y $(-\sqrt{10}, 1)$. Si la recta hubiera sido $y = -9$, el valor de $x$ sería $0$ y habría un único punto de corte.
 
 ---
 ## Question 18 [D9]
@@ -449,21 +449,21 @@ Igualamos las dos ecuaciones para hallar las abscisas de los puntos de intersecc
 
 ### Enunciado
 Resuelva el sistema de ecuaciones no lineales:
-$$\begin{cases} y = x^2 \\ y = x + 2 \end{cases}$$
+$$\begin{cases} y = x^2 - 6 \\ y = 4x \end{cases}$$
 ¿Cuál de los siguientes pares ordenados representa una solución real del sistema?
 
 ### Opciones
-- [ ] A) (1, 1)
-  <!-- feedback: Explicación de distractor: Se intercambian los valores de las variables $x$ e $y$ de manera equivocada al formular los pares ordenados. -->
-- [ ] B) (0, 2)
-  <!-- feedback: Explicación de distractor: Se asume que la parábola y la recta se cortan sin verificar algebraicamente la existencia de raíces reales en la ecuación resultante. -->
-- [ ] C) (3, 9)
-  <!-- feedback: Explicación de distractor: Error básico al calcular la raíz cuadrada de la constante de la ecuación de la circunferencia. -->
-- [x] D) (2, 4)
-  <!-- feedback: Explicación detallada: Opción correcta porque cumple simultáneamente con ambas ecuaciones del sistema no lineal de forma analítica. -->
+- [ ] A) $(3,\ 3)$
+  <!-- feedback: Aunque $3^2 - 6 = 3$ cumple la primera ecuación, la segunda exigiría $4 \cdot 3 = 12$, y no $3$. -->
+- [ ] B) $(2,\ 8)$
+  <!-- feedback: Con $x = 2$ la primera ecuación da $4 - 6 = -2$, y $-2$ no es $8$ ni coincide con $4x = 8$. -->
+- [x] C) $(2 + \sqrt{10},\ 8 + 4\sqrt{10})$
+  <!-- feedback: Correcto. La igualdad $x^2 - 6 = 4x$ da $x = 2 \pm \sqrt{10}$, y tomando $y = 4x$ se obtiene el par indicado. -->
+- [ ] D) $(0,\ 6)$
+  <!-- feedback: Con $x = 0$ la primera ecuación da $y = -6$, que no coincide con el $6$ propuesto ni con $4x = 0$. -->
 
-### Explicacion Pedagogica
-Para resolver el sistema por igualación, igualamos las dos expresiones para $y$: $x^2 = x + 2 \Rightarrow x^2 - x - 2 = 0$. Factorizando la ecuación cuadrática obtenida: $(x - 2)(x + 1) = 0$. Esto nos proporciona dos posibles coordenadas $x$: $x = 2 \Rightarrow y = 2+2=4$ (punto $(2,4)$), y $x = -1 \Rightarrow y = -1+2=1$ (punto $(-1,1)$). Por lo tanto, el punto $(2, 4)$ representa una solución válida para el sistema.
+### Explicación Pedagógica
+Igualando las dos expresiones de $y$ se obtiene $x^2 - 6 = 4x \Rightarrow x^2 - 4x - 6 = 0$. Con la fórmula cuadrática, $x = \frac{4 \pm \sqrt{16 + 24}}{2} = 2 \pm \sqrt{10}$, y en cada caso $y = 4x$. Por eso las soluciones reales son $(2 + \sqrt{10},\, 8 + 4\sqrt{10})$ y $(2 - \sqrt{10},\, 8 - 4\sqrt{10})$.
 
 ---
 ## Question 19 [D10]
@@ -474,20 +474,20 @@ Para resolver el sistema por igualación, igualamos las dos expresiones para $y$
 **Contexto:** En Pérez Zeledón, Elena está investigando un problema matemático aplicado al contexto costarricense.
 
 ### Enunciado
-Considere la ecuación de una circunferencia en el plano cartesiano dada por $x^2 + y^2 = 25$ e interséquela con la recta horizontal $y = 3$. ¿Cuáles son los puntos de intersección?
+Considere la ecuación de una circunferencia en el plano cartesiano dada por $x^2 + y^2 = 36$ e interséquela con la recta horizontal $y = 10$. ¿Cuáles son los puntos de intersección?
 
 ### Opciones
-- [x] A) (-4, 3) y (4, 3)
-  <!-- feedback: Explicación detallada: Opción correcta porque cumple simultáneamente con ambas ecuaciones del sistema no lineal de forma analítica. -->
-- [ ] B) (-3, 4) y (3, 4)
-  <!-- feedback: Explicación de distractor: Se intercambian los valores de las variables $x$ e $y$ de manera equivocada al formular los pares ordenados. -->
-- [ ] C) (0, 5) y (0, -5)
-  <!-- feedback: Explicación de distractor: Se asume que la parábola y la recta se cortan sin verificar algebraicamente la existencia de raíces reales en la ecuación resultante. -->
-- [ ] D) (-5, 3) y (5, 3)
-  <!-- feedback: Explicación de distractor: Error básico al calcular la raíz cuadrada de la constante de la ecuación de la circunferencia. -->
+- [ ] A) $(6,\ 10)$
+  <!-- feedback: Con $x = 6$ se tendría $36 + 100 = 136 \neq 36$, de modo que el punto no pertenece a la circunferencia. -->
+- [ ] B) $(8,\ 10)$
+  <!-- feedback: Aunque $64 + 100 = 164$ no da 36, el radio es 6 y por eso ninguna abscisa mayor que 6 puede servir. -->
+- [x] C) No hay puntos de intersección en el plano real
+  <!-- feedback: Correcto. Sustituyendo, $x^2 = 36 - 100 = -64$, y el cuadrado de un real nunca puede ser negativo. -->
+- [ ] D) $(6,\ 0)$
+  <!-- feedback: Con $y = 0$ los puntos son $(6, 0)$ y $(-6, 0)$, pero ninguno pertenece a la recta $y = 10$. -->
 
-### Explicacion Pedagogica
-Sustituimos la recta $y = 3$ en la ecuación de la circunferencia $x^2 + y^2 = 25$: $x^2 + 3^2 = 25 \Rightarrow x^2 + 9 = 25 \Rightarrow x^2 = 16 \Rightarrow x = \pm 4$. Esto nos genera dos puntos de intersección reales en el plano cartesiano, cuyos valores de abscisa son $x = -4$ y $x = 4$, asociados al mismo valor de ordenada $y = 3$. Por lo tanto, los puntos son $(-4, 3)$ y $(4, 3)$.
+### Explicación Pedagógica
+Al sustituir $y = 10$ en $x^2 + y^2 = 36$ se obtiene $x^2 + 100 = 36 \Rightarrow x^2 = -64$. Como $x^2 \geq 0$ para todo real $x$, no hay soluciones reales y por tanto ningún punto de corte. Geométricamente la recta está a distancia 10 del centro mientras que el radio es solo 6, de modo que nunca alcanza la circunferencia.
 
 ---
 ## Question 20 [D10]
@@ -498,19 +498,19 @@ Sustituimos la recta $y = 3$ en la ecuación de la circunferencia $x^2 + y^2 = 2
 **Contexto:** En Escazú, Javier está investigando un problema matemático aplicado al contexto costarricense.
 
 ### Enunciado
-Determine la cantidad de puntos de intersección reales que existen entre la parábola de ecuación $y = x^2 + 5$ y la recta horizontal $y = 2$.
+Determine la cantidad de puntos de intersección reales que existen entre la parábola de ecuación $y = x^2 + 16$ y la recta horizontal $y = 4$.
 
 ### Opciones
-- [ ] A) Tienen exactamente un punto de intersección
-  <!-- feedback: Explicación de distractor: Se intercambian los valores de las variables $x$ e $y$ de manera equivocada al formular los pares ordenados. -->
-- [x] B) No tienen puntos de intersección en los números reales
-  <!-- feedback: Explicación detallada: Opción correcta porque cumple simultáneamente con ambas ecuaciones del sistema no lineal de forma analítica. -->
+- [x] A) No tienen puntos de intersección en los números reales
+  <!-- feedback: Correcto. De $x^2 + 16 = 4$ sale $x^2 = -12$, y no existe real cuyo cuadrado sea negativo. -->
+- [ ] B) Tienen exactamente un punto de intersección
+  <!-- feedback: Habría un punto único si $x^2 = 0$, es decir si la recta fuera $y = 16$, el valor mínimo de la parábola. -->
 - [ ] C) Tienen exactamente dos puntos de intersección
-  <!-- feedback: Explicación de distractor: Se asume que la parábola y la recta se cortan sin verificar algebraicamente la existencia de raíces reales en la ecuación resultante. -->
+  <!-- feedback: Dos puntos aparecerían si el lado derecho fuera mayor que 16, pero aquí $4 < 16$ y la recta queda bajo el vértice. -->
 - [ ] D) Tienen infinitos puntos de intersección
-  <!-- feedback: Explicación de distractor: Error básico al calcular la raíz cuadrada de la constante de la ecuación de la circunferencia. -->
+  <!-- feedback: Para que hubiera infinitos puntos las dos gráficas deberían ser la misma curva, y eso es imposible con una parábola y una recta. -->
 
-### Explicacion Pedagogica
-Igualamos las dos ecuaciones para hallar las abscisas de los puntos de intersección: $x^2 + 5 = 2 \Rightarrow x^2 = -3$. Dado que ningún número real elevado al cuadrado resulta en un valor negativo ($x^2 \geq 0$ para todo $x \in \mathbb{R}$), esta ecuación no posee soluciones reales. Por lo tanto, la parábola y la recta horizontal no tienen ningún punto de intersección en el plano real.
+### Explicación Pedagógica
+Igualamos las expresiones: $x^2 + 16 = 4 \Rightarrow x^2 = -12$. Puesto que el cuadrado de cualquier número real es no negativo, la ecuación no tiene solución real. Gráficamente, la parábola $y = x^2 + 16$ tiene su vértice en $(0, 16)$ y toda su gráfica queda por encima de la recta $y = 4$, de modo que no hay intersección alguna.
 
 ---

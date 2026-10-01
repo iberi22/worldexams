@@ -318,20 +318,20 @@ Para calcular la población de bacterias al cabo de 3 horas, evaluamos el modelo
 **Contexto:** En Limón, Ana está investigando un problema matemático aplicado al contexto costarricense.
 
 ### Enunciado
-Sea la función exponencial $f(x) = 3^x$. ¿Cuál es el punto de intersección de la gráfica de $f$ con el eje de las ordenadas (eje $y$)?
+Sea la función exponencial $f(x) = 5^x$. ¿Cuál es el límite de $f(x)$ cuando $x$ tiende a menos infinito?
 
 ### Opciones
-- [x] A) (0, 1)
-  <!-- feedback: Explicación detallada: Es correcto ya que se aplica la ley exponencial de crecimiento o las características formales de la función exponencial. -->
-- [ ] B) (1, 0)
-  <!-- feedback: Explicación de distractor: Se asume erróneamente un crecimiento lineal multiplicando directamente el exponente por la base. -->
-- [ ] C) (0, 3)
-  <!-- feedback: Explicación de distractor: Se confunde la intersección con el eje y con la intersección con el eje x o con valores de la base. -->
-- [ ] D) (0, 0)
-  <!-- feedback: Explicación de distractor: Se aplica incorrectamente la definición de monotonía para bases menores que 1. -->
+- [x] A) $\lim_{x \to -\infty} 5^x = 0$
+  <!-- feedback: Correcto. Como la base es mayor que 1, al tomar exponentes cada vez más negativos el valor se acerca a cero sin llegar nunca a alcanzarlo. -->
+- [ ] B) $\lim_{x \to -\infty} 5^x = 1$
+  <!-- feedback: Ese es el valor de $f(0) = 5^0 = 1$, es decir el punto donde la curva corta el eje $y$, no el límite en el infinito negativo. -->
+- [ ] C) $\lim_{x \to -\infty} 5^x = -\infty$
+  <!-- feedback: Una potencia de base positiva nunca da valores negativos, así que el resultado no puede ser $-\infty$. -->
+- [ ] D) $\lim_{x \to -\infty} 5^x = 5$
+  <!-- feedback: El 5 es la base; el límite se obtiene de los exponentes, no del valor de la base en sí. -->
 
-### Explicacion Pedagogica
-Para encontrar el punto de intersección con el eje $y$, se debe evaluar la función exponencial en el punto de abscisa $x = 0$: $f(0) = 3^0 = 1$. Por lo tanto, la gráfica de la función exponencial interseca al eje $y$ en el punto $(0, 1)$, independientemente del valor concreto de la base $b > 0$.
+### Explicación Pedagógica
+Para $x$ muy negativo, escribir $5^x = \dfrac{1}{5^{-x}}$ muestra que el denominador crece sin cota y el cociente se acerca a $0^+$. La asíntota horizontal de toda función exponencial de base mayor que $1$ es la recta $y = 0$, y por eso el límite en $-\infty$ vale $0$.
 
 ---
 ## Question 14 [D8]
@@ -342,20 +342,20 @@ Para encontrar el punto de intersección con el eje $y$, se debe evaluar la func
 **Contexto:** En San Carlos, Sofía está investigando un problema matemático aplicado al contexto costarricense.
 
 ### Enunciado
-Considere la función exponencial con criterio $f(x) = \left(\frac{1}{3}\right)^x$. ¿Cuál de las siguientes afirmaciones describe correctamente su comportamiento?
+Considere la función exponencial $f(x) = 3^x$. ¿Cuál es la asíntota horizontal de su gráfica?
 
 ### Opciones
-- [ ] A) Es estrictamente creciente en todo su dominio
-  <!-- feedback: Explicación de distractor: Se asume erróneamente un crecimiento lineal multiplicando directamente el exponente por la base. -->
-- [x] B) Es estrictamente decreciente en todo su dominio
-  <!-- feedback: Explicación detallada: Es correcto ya que se aplica la ley exponencial de crecimiento o las características formales de la función exponencial. -->
-- [ ] C) Tiene una asíntota vertical en el eje y
-  <!-- feedback: Explicación de distractor: Se confunde la intersección con el eje y con la intersección con el eje x o con valores de la base. -->
-- [ ] D) Interseca al eje x en el punto (1, 0)
-  <!-- feedback: Explicación de distractor: Se aplica incorrectamente la definición de monotonía para bases menores que 1. -->
+- [x] A) $y = 0$
+  <!-- feedback: Correcto. La curva se acerca al eje $x$ por arriba tanto por la derecha como por la izquierda, sin tocarlo jamás. -->
+- [ ] B) $y = 1$
+  <!-- feedback: $y = 1$ no es una asíntota porque la función la alcanza exactamente en $x = 0$, donde $f(0) = 3^0 = 1$. -->
+- [ ] C) $y = 3$
+  <!-- feedback: El 3 es la base de la función, no una recta a la que la curva se acerque asintóticamente. -->
+- [ ] D) $y = x$
+  <!-- feedback: Una asíntota horizontal debe ser una recta con ecuación $y = c$; la recta $y = x$ es oblicua y además no se verifica. -->
 
-### Explicacion Pedagogica
-La base de la función exponencial $f(x) = \left(\frac{1}{3}\right)^x$ es $\frac{1}{3}$. Como $3 > 1$, se cumple rigurosamente que $0 < \frac{1}{3} < 1$. De acuerdo con las propiedades de la función exponencial, cuando la base $a$ cumple la relación $0 < a < 1$, la función es estrictamente decreciente en todo su dominio real $\mathbb{R}$.
+### Explicación Pedagógica
+La asíntota horizontal de $f(x) = b^x$ con $b > 1$ se localiza mirando los dos extremos: cuando $x \to +\infty$ la función crece sin límite, y cuando $x \to -\infty$ se acerca a $0$. La única recta horizontal a la que se aproxima la gráfica sin alcanzarla es, por tanto, $y = 0$.
 
 ---
 ## Question 15 [D8]
@@ -390,20 +390,20 @@ Para calcular la población de bacterias al cabo de 3 horas, evaluamos el modelo
 **Contexto:** En Escazú, Elena está investigando un problema matemático aplicado al contexto costarricense.
 
 ### Enunciado
-Sea la función exponencial $f(x) = 3^x$. ¿Cuál es el punto de intersección de la gráfica de $f$ con el eje de las ordenadas (eje $y$)?
+Sea la función exponencial $f(x) = 7^x$. ¿Cuál es el valor exacto de $f(-2)$?
 
 ### Opciones
-- [ ] A) (1, 0)
-  <!-- feedback: Explicación de distractor: Se asume erróneamente un crecimiento lineal multiplicando directamente el exponente por la base. -->
-- [ ] B) (0, 3)
-  <!-- feedback: Explicación de distractor: Se confunde la intersección con el eje y con la intersección con el eje x o con valores de la base. -->
-- [ ] C) (0, 0)
-  <!-- feedback: Explicación de distractor: Se aplica incorrectamente la definición de monotonía para bases menores que 1. -->
-- [x] D) (0, 1)
-  <!-- feedback: Explicación detallada: Es correcto ya que se aplica la ley exponencial de crecimiento o las características formales de la función exponencial. -->
+- [x] A) $\dfrac{1}{49}$
+  <!-- feedback: Correcto. Como $7^{-2} = \dfrac{1}{7^2} = \dfrac{1}{49}$, el exponente negativo equivale a dividir. -->
+- [ ] B) $49$
+  <!-- feedback: $49 = 7^2$ corresponde al exponente positivo; el signo negativo del exponente obliga a invertir. -->
+- [ ] C) $-14$
+  <!-- feedback: Elevar la base al cuadrado no produce un resultado negativo, y menos aún multiplicándola por el exponente. -->
+- [ ] D) $\dfrac{1}{7}$
+  <!-- feedback: $\dfrac{1}{7} = 7^{-1}$ corresponde a un exponente de $-1$, y el enunciado pide el de $-2$. -->
 
-### Explicacion Pedagogica
-Para encontrar el punto de intersección con el eje $y$, se debe evaluar la función exponencial en el punto de abscisa $x = 0$: $f(0) = 3^0 = 1$. Por lo tanto, la gráfica de la función exponencial interseca al eje $y$ en el punto $(0, 1)$, independientemente del valor concreto de la base $b > 0$.
+### Explicación Pedagógica
+Un exponente negativo se interpreta como el recíproco de la potencia de valor absoluto: $7^{-2} = \dfrac{1}{7^{2}} = \dfrac{1}{49}$. La regla general es $b^{-n} = \dfrac{1}{b^{n}}$, de modo que el resultado siempre es positivo y menor que $1$ cuando la base es mayor que $1$.
 
 ---
 ## Question 17 [D9]
@@ -414,20 +414,20 @@ Para encontrar el punto de intersección con el eje $y$, se debe evaluar la func
 **Contexto:** En San José, Javier está investigando un problema matemático aplicado al contexto costarricense.
 
 ### Enunciado
-Considere la función exponencial con criterio $f(x) = \left(\frac{1}{3}\right)^x$. ¿Cuál de las siguientes afirmaciones describe correctamente su comportamiento?
+Considere la función exponencial $f(x) = \left(\dfrac{1}{5}\right)^x$. ¿Cuál es el valor exacto de $f(2)$?
 
 ### Opciones
-- [x] A) Es estrictamente decreciente en todo su dominio
-  <!-- feedback: Explicación detallada: Es correcto ya que se aplica la ley exponencial de crecimiento o las características formales de la función exponencial. -->
-- [ ] B) Es estrictamente creciente en todo su dominio
-  <!-- feedback: Explicación de distractor: Se asume erróneamente un crecimiento lineal multiplicando directamente el exponente por la base. -->
-- [ ] C) Tiene una asíntota vertical en el eje y
-  <!-- feedback: Explicación de distractor: Se confunde la intersección con el eje y con la intersección con el eje x o con valores de la base. -->
-- [ ] D) Interseca al eje x en el punto (1, 0)
-  <!-- feedback: Explicación de distractor: Se aplica incorrectamente la definición de monotonía para bases menores que 1. -->
+- [x] A) $\dfrac{1}{25}$
+  <!-- feedback: Correcto. Como $\left(\dfrac{1}{5}\right)^{2} = \dfrac{1^{2}}{5^{2}} = \dfrac{1}{25}$, el cuadrado de una fracción es el cuadrado del numerador sobre el del denominador. -->
+- [ ] B) $25$
+  <!-- feedback: $25 = 5^2$ es el inverso del resultado; al elevar una fracción menor que uno al cuadrado el resultado también es menor que uno. -->
+- [ ] C) $\dfrac{2}{5}$
+  <!-- feedback: Se ha tratado el exponente como si multiplicara al numerador y al denominador por separado, en lugar de elevar ambos al cuadrado. -->
+- [ ] D) $\dfrac{5}{2}$
+  <!-- feedback: $\dfrac{5}{2}$ es solo el recíproco de $\dfrac{2}{5}$ y no tiene relación con el exponente pedido. -->
 
-### Explicacion Pedagogica
-La base de la función exponencial $f(x) = \left(\frac{1}{3}\right)^x$ es $\frac{1}{3}$. Como $3 > 1$, se cumple rigurosamente que $0 < \frac{1}{3} < 1$. De acuerdo con las propiedades de la función exponencial, cuando la base $a$ cumple la relación $0 < a < 1$, la función es estrictamente decreciente en todo su dominio real $\mathbb{R}$.
+### Explicación Pedagógica
+Para elevar una fracción a un exponente entero se elevan por separado el numerador y el denominador: $\left(\dfrac{1}{5}\right)^{2} = \dfrac{1^{2}}{5^{2}} = \dfrac{1}{25}$. Como la base es una fracción menor que uno, cualquier exponente positivo produce un resultado entre $0$ y $1$, y aquí el resultado es $\dfrac{1}{25}$.
 
 ---
 ## Question 18 [D9]
@@ -462,20 +462,20 @@ Para calcular la población de bacterias al cabo de 3 horas, evaluamos el modelo
 **Contexto:** En Cartago, Esteban está investigando un problema matemático aplicado al contexto costarricense.
 
 ### Enunciado
-Sea la función exponencial $f(x) = 3^x$. ¿Cuál es el punto de intersección de la gráfica de $f$ con el eje de las ordenadas (eje $y$)?
+Sea la función exponencial $f(x) = 10^x$. ¿Cuál de las siguientes igualdades es verdadera?
 
 ### Opciones
-- [ ] A) (1, 0)
-  <!-- feedback: Explicación de distractor: Se asume erróneamente un crecimiento lineal multiplicando directamente el exponente por la base. -->
-- [ ] B) (0, 3)
-  <!-- feedback: Explicación de distractor: Se confunde la intersección con el eje y con la intersección con el eje x o con valores de la base. -->
-- [x] C) (0, 1)
-  <!-- feedback: Explicación detallada: Es correcto ya que se aplica la ley exponencial de crecimiento o las características formales de la función exponencial. -->
-- [ ] D) (0, 0)
-  <!-- feedback: Explicación de distractor: Se aplica incorrectamente la definición de monotonía para bases menores que 1. -->
+- [x] A) $f(3) = 1000$
+  <!-- feedback: Correcto. Con $x = 3$ se tiene $10^3 = 1000$, que es un uno seguido de tres ceros. -->
+- [ ] B) $f(3) = 300$
+  <!-- feedback: Multiplicar la base por el exponente no es una operación válida: los exponentes no se suman ni se multiplican así. -->
+- [ ] C) $f(3) = 3$
+  <!-- feedback: Ese es el exponente, es decir la entrada de la función, no el valor de salida. -->
+- [ ] D) $f(3) = 0{,}001$
+  <!-- feedback: $0{,}001 = 10^{-3}$ corresponde a evaluar la función en $x = -3$, no en $x = 3$. -->
 
-### Explicacion Pedagogica
-Para encontrar el punto de intersección con el eje $y$, se debe evaluar la función exponencial en el punto de abscisa $x = 0$: $f(0) = 3^0 = 1$. Por lo tanto, la gráfica de la función exponencial interseca al eje $y$ en el punto $(0, 1)$, independientemente del valor concreto de la base $b > 0$.
+### Explicación Pedagógica
+La notación $10^3$ es una potenciación: la base $10$ se multiplica por sí misma tres veces y da $1000$. Conviene no confundir $10^3$ con el producto $10 \cdot 3 = 30$ ni con el mismo exponente $3$, porque en una potencia el exponente indica cuántas veces se repite la multiplicación.
 
 ---
 ## Question 20 [D10]
@@ -486,19 +486,19 @@ Para encontrar el punto de intersección con el eje $y$, se debe evaluar la func
 **Contexto:** En Heredia, Gabriel está investigando un problema matemático aplicado al contexto costarricense.
 
 ### Enunciado
-Considere la función exponencial con criterio $f(x) = \left(\frac{1}{3}\right)^x$. ¿Cuál de las siguientes afirmaciones describe correctamente su comportamiento?
+Considere la función exponencial $f(x) = \left(\dfrac{1}{4}\right)^x$. ¿Cuál es el valor exacto de $f(-1)$?
 
 ### Opciones
-- [ ] A) Es estrictamente creciente en todo su dominio
-  <!-- feedback: Explicación de distractor: Se asume erróneamente un crecimiento lineal multiplicando directamente el exponente por la base. -->
-- [ ] B) Tiene una asíntota vertical en el eje y
-  <!-- feedback: Explicación de distractor: Se confunde la intersección con el eje y con la intersección con el eje x o con valores de la base. -->
-- [ ] C) Interseca al eje x en el punto (1, 0)
-  <!-- feedback: Explicación de distractor: Se aplica incorrectamente la definición de monotonía para bases menores que 1. -->
-- [x] D) Es estrictamente decreciente en todo su dominio
-  <!-- feedback: Explicación detallada: Es correcto ya que se aplica la ley exponencial de crecimiento o las características formales de la función exponencial. -->
+- [x] A) $4$
+  <!-- feedback: Correcto. Un exponente negativo invierte el sentido: $\left(\dfrac{1}{4}\right)^{-1}$ es el recíproco de $\dfrac{1}{4}$, y ese recíproco es $4$. -->
+- [ ] B) $\dfrac{1}{4}$
+  <!-- feedback: Ese es $f(1)$ con exponente positivo; el signo negativo del exponente es justamente lo que invierte el resultado. -->
+- [ ] C) $-\dfrac{1}{4}$
+  <!-- feedback: La base es positiva, así que ninguna potencia de ella puede dar un valor negativo. -->
+- [ ] D) $16$
+  <!-- feedback: $16 = 4^2$ corresponde a elevar $4$ al cuadrado, y no a tomar el recíproco de $\dfrac{1}{4}$. -->
 
-### Explicacion Pedagogica
-La base de la función exponencial $f(x) = \left(\frac{1}{3}\right)^x$ es $\frac{1}{3}$. Como $3 > 1$, se cumple rigurosamente que $0 < \frac{1}{3} < 1$. De acuerdo con las propiedades de la función exponencial, cuando la base $a$ cumple la relación $0 < a < 1$, la función es estrictamente decreciente en todo su dominio real $\mathbb{R}$.
+### Explicación Pedagógica
+Como $\left(\dfrac{1}{4}\right)^{-1} = \dfrac{1}{\left(\dfrac{1}{4}\right)^{1}} = \dfrac{1}{\frac{1}{4}} = 4$, el exponente negativo equivale a dividir por la base en lugar de multiplicar. Por eso $f(-1)$ da $4$, que es justamente el valor recíproco del de $f(1)$.
 
 ---
