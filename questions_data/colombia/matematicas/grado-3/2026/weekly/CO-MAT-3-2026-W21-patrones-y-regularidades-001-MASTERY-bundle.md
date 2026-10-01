@@ -33,10 +33,11 @@ Se evalúan patrones numéricos y geométricos, su crecimiento y su razón en se
 ¿Qué número sigue en la secuencia 2, 4, 6, 8?
 
 ### Opciones
-- [x] A) 10
-  <!-- feedback: Correcto. 8 + 2 = 10 porque la secuencia crece de 2 en 2 sumando siempre la misma razón. -->
-- [ ] B) 9
+### Opciones
+- [ ] A) 9
   <!-- feedback: Incorrecto. Sumaste 8 + 1 = 9 porque usaste razón 1 y la secuencia crece de 2 en 2. -->
+- [x] B) 10
+  <!-- feedback: Correcto. 8 + 2 = 10 porque la secuencia crece de 2 en 2 sumando siempre la misma razón. -->
 - [ ] C) 12
   <!-- feedback: Incorrecto. Calculaste 8 + 4 = 12 porque agregaste 4 en vez de mantener la razón de 2. -->
 - [ ] D) 7
@@ -56,12 +57,13 @@ Un patrón numérico repite la misma razón. Aquí la razón es +2: 2, 4, 6, 8, 
 Si el collar empieza con rojo, ¿de qué color es la sexta pepa?
 
 ### Opciones
-- [x] A) Azul, porque las posiciones pares siempre son azules en el patrón de 2.
-  <!-- feedback: Correcto. El patrón rojo-azul se repite cada 2 porque las posiciones 2, 4 y 6 corresponden al azul. -->
-- [ ] B) Rojo, porque todas las pepas del collar son rojas.
+### Opciones
+- [ ] A) Rojo, porque todas las pepas del collar son rojas.
   <!-- feedback: Incorrecto. El collar alterna 2 colores porque ignoraste que las posiciones pares llevan azul. -->
-- [ ] C) Verde, porque después del azul siempre sigue el verde.
+- [ ] B) Verde, porque después del azul siempre sigue el verde.
   <!-- feedback: Incorrecto. El patrón solo usa rojo y azul porque inventaste un tercer color que no existe. -->
+- [x] C) Azul, porque las posiciones pares siempre son azules en el patrón de 2.
+  <!-- feedback: Correcto. El patrón rojo-azul se repite cada 2 porque las posiciones 2, 4 y 6 corresponden al azul. -->
 - [ ] D) Azul, porque la sexta pepa es la última y la última es roja.
   <!-- feedback: Incorrecto. La sexta posición es par y lleva azul porque confundiste la posición par con la impar. -->
 
@@ -79,14 +81,15 @@ El patrón de 2 se repite: posiciones impares (1, 3, 5) rojo y pares (2, 4, 6) a
 ¿Cuántas cajas habrá en el cuarto nivel si el patrón continúa?
 
 ### Opciones
-- [x] A) 14
-  <!-- feedback: Correcto. 11 + 3 = 14 cajas porque la razón del patrón es sumar 3 en cada nivel. -->
-- [ ] B) 13
+### Opciones
+- [ ] A) 13
   <!-- feedback: Incorrecto. Sumaste 11 + 2 = 13 porque usaste razón 2 y el patrón crece de 3 en 3. -->
-- [ ] C) 16
+- [ ] B) 16
   <!-- feedback: Incorrecto. Sumaste 11 + 5 = 16 porque repetiste el primer término en vez de la razón de 3. -->
-- [ ] D) 12
+- [ ] C) 12
   <!-- feedback: Incorrecto. Sumaste 11 + 1 = 12 porque agregaste 1 y la diferencia entre niveles es de 3 cajas. -->
+- [x] D) 14
+  <!-- feedback: Correcto. 11 + 3 = 14 cajas porque la razón del patrón es sumar 3 en cada nivel. -->
 
 ### Explicacion Pedagogica
 La diferencia entre niveles es 8 - 5 = 3 y 11 - 8 = 3. La razón es +3, así que el cuarto nivel tiene 11 + 3 = 14 cajas.
@@ -101,6 +104,7 @@ La diferencia entre niveles es 8 - 5 = 3 y 11 - 8 = 3. La razón es +3, así que
 ### Enunciado
 ¿Cuántos palitos se necesitan para 4 triángulos pegados en fila?
 
+### Opciones
 ### Opciones
 - [x] A) 9
   <!-- feedback: Correcto. 7 + 2 = 9 palitos porque cada triángulo nuevo comparte 1 lado y solo agrega 2 palitos. -->
@@ -125,12 +129,13 @@ El patrón es 3, 5, 7 con razón +2 porque cada triángulo pegado comparte un la
 ¿Cuántos bombillos se encenderán en el siguiente paso?
 
 ### Opciones
-- [x] A) 60
-  <!-- feedback: Correcto. 70 - 10 = 60 bombillos porque la secuencia decrece con razón de menos 10. -->
-- [ ] B) 65
+### Opciones
+- [ ] A) 65
   <!-- feedback: Incorrecto. Restaste 70 - 5 = 65 porque usaste razón 5 y la secuencia baja de 10 en 10. -->
-- [ ] C) 80
+- [ ] B) 80
   <!-- feedback: Incorrecto. Elegiste un término anterior porque la secuencia decrece y el siguiente debe ser menor que 70. -->
+- [x] C) 60
+  <!-- feedback: Correcto. 70 - 10 = 60 bombillos porque la secuencia decrece con razón de menos 10. -->
 - [ ] D) 50
   <!-- feedback: Incorrecto. Restaste 70 - 20 = 50 porque duplicaste la razón que es de solo 10 bombillos. -->
 
@@ -147,6 +152,7 @@ Los patrones también pueden decrecer. Aquí la razón es -10: 100, 90, 80, 70, 
 ### Enunciado
 ¿Cuál es la razón de la secuencia y por qué no es 10?
 
+### Opciones
 ### Opciones
 - [x] A) Felipe, porque 10 - 5 = 5 y 15 - 10 = 5 confirman la razón constante de 5.
   <!-- feedback: Correcto. 20 - 15 = 5 también da 5 porque las 3 diferencias iguales confirman la razón de 5. -->
@@ -171,14 +177,15 @@ Analizar exige restar vecinos: 10 - 5 = 5, 15 - 10 = 5, 20 - 15 = 5. La razón c
 ¿El patrón propuesto es regular y cuál es su error?
 
 ### Opciones
-- [x] A) No es regular, porque la unidad círculo-cuadrado se rompe al meter un triángulo en la mitad.
-  <!-- feedback: Correcto. El orden círculo-cuadrado-triángulo no se repite igual porque la unidad cambia y deja de ser periódica. -->
-- [ ] B) Sí es regular, porque tiene 6 figuras y 6 siempre es un patrón.
+### Opciones
+- [ ] A) Sí es regular, porque tiene 6 figuras y 6 siempre es un patrón.
   <!-- feedback: Incorrecto. Tener 6 figuras no crea regularidad porque el orden círculo-cuadrado-triángulo no repite la misma unidad. -->
-- [ ] C) Sí es regular, porque el círculo aparece 3 veces y eso basta.
+- [ ] B) Sí es regular, porque el círculo aparece 3 veces y eso basta.
   <!-- feedback: Incorrecto. Repetir 1 figura no ordena la cenefa porque el patrón exige que toda la unidad se repita igual. -->
-- [ ] D) No es regular, porque los patrones solo pueden usar números.
+- [ ] C) No es regular, porque los patrones solo pueden usar números.
   <!-- feedback: Incorrecto. Las figuras sí forman patrones porque círculo-cuadrado-círculo-cuadrado sería regular con figuras. -->
+- [x] D) No es regular, porque la unidad círculo-cuadrado se rompe al meter un triángulo en la mitad.
+  <!-- feedback: Correcto. El orden círculo-cuadrado-triángulo no se repite igual porque la unidad cambia y deja de ser periódica. -->
 
 ### Explicacion Pedagogica
 Un patrón geométrico es regular si una unidad se repite igual. Aquí la unidad cambia con el triángulo intercalado, así que no hay repetición constante y el patrón se rompe.
@@ -194,10 +201,11 @@ Un patrón geométrico es regular si una unidad se repite igual. Aquí la unidad
 ¿Cuál plan junta más dinero en total y cuánto junta?
 
 ### Opciones
-- [x] A) El plan B, porque 25 + 35 + 45 + 55 = 160 supera a los 140 del plan A.
-  <!-- feedback: Correcto. 20 + 30 + 40 + 50 = 140 es menor que 160 porque cada semana el plan B guarda 5 más. -->
-- [ ] B) El plan A, porque 20 + 30 + 40 + 50 = 120 supera al plan B.
+### Opciones
+- [ ] A) El plan A, porque 20 + 30 + 40 + 50 = 120 supera al plan B.
   <!-- feedback: Incorrecto. 20 + 30 + 40 + 50 = 140 y no 120 porque sumaste mal y además 140 es menor que 160. -->
+- [x] B) El plan B, porque 25 + 35 + 45 + 55 = 160 supera a los 140 del plan A.
+  <!-- feedback: Correcto. 20 + 30 + 40 + 50 = 140 es menor que 160 porque cada semana el plan B guarda 5 más. -->
 - [ ] C) Ambos juntan lo mismo, porque los dos crecen de 10 en 10.
   <!-- feedback: Incorrecto. Tener la misma razón no iguala los totales porque el plan B empieza en 25 y siempre va 5 arriba. -->
 - [ ] D) El plan B, porque 55 es mayor que 50 y el último dato decide todo.
