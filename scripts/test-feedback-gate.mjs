@@ -491,6 +491,130 @@ Explicacion pedagogica con suficiente detalle para superar las validaciones de c
       return `${LABEL_FM}\n\n${questions.join('\n\n')}`;
     },
   },
+  {
+    // Regression: the hash used to ignore the contexto, so two questions whose
+    // data lived only in the contexto were rejected as duplicates of each other.
+    name: 'same stem+options but different contexto is accepted',
+    expect: 'accept',
+    hit: null,
+    buildContent: () => {
+      const build = (n, contexto) => `## Question ${n} [D5-D6]
+**ID:** ${ID}-v${n}
+**Bloom:** Apply
+**ICFES:** Numerico
+**Expected_Success:** 0.80
+**Contexto:** ${contexto}
+
+### Enunciado
+%Cuantos animales tiene el granjero en total?
+
+### Opciones
+- [x] A) 5
+  <!-- feedback: Correcto. La suma de los animales del contexto da 5. -->
+- [ ] B) 4
+  <!-- feedback: Incorrecto.olvidaste sumar una de las dos cantidades del contexto. -->
+- [ ] C) 6
+  <!-- feedback: Incorrecto. agregaste un animal de mas al total del contexto. -->
+- [ ] D) 1
+  <!-- feedback: Incorrecto. restaste en lugar de sumar los animales del contexto. -->
+
+### Explicacion Pedagogica
+La suma de los animales del contexto da el total que pide la pregunta.`;
+      const fillers = [3, 4, 5, 6, 7, 8, 9, 10].map((n) => `## Question ${n} [D5-D6]
+**ID:** ${ID}-v${n}
+**Bloom:** Apply
+**ICFES:** Numerico
+**Expected_Success:** 0.80
+**Contexto:** Contexto de relleno numero ${n} para completar el bundle.
+
+### Enunciado
+Enunciado de relleno numero ${n} para completar el bundle.
+
+### Opciones
+- [x] A) Respuesta de relleno ${n}
+  <!-- feedback: Correcto. La respuesta de relleno ${n} es la que corresponde a este enunciado. -->
+- [ ] B) Distractor de relleno ${n} uno
+  <!-- feedback: Incorrecto. este distractor no corresponde al enunciado de relleno ${n}. -->
+- [ ] C) Distractor de relleno ${n} dos
+  <!-- feedback: Incorrecto. esta opcion no responde a lo que pide el enunciado ${n}. -->
+- [ ] D) Distractor de relleno ${n} tres
+  <!-- feedback: Incorrecto. esta ultima opcion tampoco corresponde al enunciado ${n}. -->
+
+### Explicacion Pedagogica
+Explicacion pedagogica con suficiente detalle para superar las validaciones de calidad del gate.`);
+      return `${LABEL_FM}\n\n${[build(1, 'El granjero tiene 3 vacas y 2 ovejas.'), build(2, 'El granjero tiene 3 vacas y 3 ovejas.'), ...fillers].join('\n\n')}`;
+    },
+  },
+  {
+    // Regression: join('|') was ambiguous, so a literal pipe inside a stem or an
+    // option could be moved across the boundary and produce the same key.
+    name: 'pipe inside a stem is not a duplicate of a moved pipe',
+    expect: 'accept',
+    hit: null,
+    buildContent: () => {
+      const opts = (a, b) => `- [x] A) ${a}
+  <!-- feedback: Correcto. ${a} es la opcion correcta en este caso. -->
+- [ ] B) ${b}
+  <!-- feedback: Incorrecto. ${b} no corresponde a lo que pide la pregunta. -->
+- [ ] C) otra opcion distinta para esta pregunta
+  <!-- feedback: Incorrecto. esta opcion no responde a lo que pide el enunciado. -->
+- [ ] D) una ultima opcion mas para cerrar las cuatro
+  <!-- feedback: Incorrecto. esta opcion tampoco corresponde a la pregunta. -->`;
+      const one = `## Question 1 [D5-D6]
+**ID:** ${ID}-v1
+**Bloom:** Apply
+**ICFES:** Numerico
+**Expected_Success:** 0.80
+**Contexto:** Contexto de prueba en Bogota.
+
+### Enunciado
+Calcula a|b para el caso uno.
+
+### Opciones
+${opts('valor inicial', 'valor final')}
+
+### Explicacion Pedagogica
+La operacion con el separador vertical se explica en detalle para superar la validacion de calidad.`;
+      const two = `## Question 2 [D5-D6]
+**ID:** ${ID}-v2
+**Bloom:** Apply
+**ICFES:** Numerico
+**Expected_Success:** 0.80
+**Contexto:** Contexto de prueba en Bogota.
+
+### Enunciado
+Calcula a para el caso b.
+
+### Opciones
+${opts('valor inicial|b', 'valor final')}
+
+### Explicacion Pedagogica
+La operacion con el separador vertical se explica en detalle para superar la validacion de calidad.`;
+      const fillers = [3, 4, 5, 6, 7, 8, 9, 10].map((n) => `## Question ${n} [D5-D6]
+**ID:** ${ID}-v${n}
+**Bloom:** Apply
+**ICFES:** Numerico
+**Expected_Success:** 0.80
+**Contexto:** Contexto de relleno numero ${n} para completar el bundle.
+
+### Enunciado
+Enunciado de relleno numero ${n} para completar el bundle.
+
+### Opciones
+- [x] A) Respuesta de relleno ${n}
+  <!-- feedback: Correcto. La respuesta de relleno ${n} es la que corresponde a este enunciado. -->
+- [ ] B) Distractor de relleno ${n} uno
+  <!-- feedback: Incorrecto. este distractor no corresponde al enunciado de relleno ${n}. -->
+- [ ] C) Distractor de relleno ${n} dos
+  <!-- feedback: Incorrecto. esta opcion no responde a lo que pide el enunciado ${n}. -->
+- [ ] D) Distractor de relleno ${n} tres
+  <!-- feedback: Incorrecto. esta ultima opcion tampoco corresponde al enunciado ${n}. -->
+
+### Explicacion Pedagogica
+Explicacion pedagogica con suficiente detalle para superar las validaciones de calidad del gate.`);
+      return `${LABEL_FM}\n\n${[one, two, ...fillers].join('\n\n')}`;
+    },
+  },
 ];
 
 try {
