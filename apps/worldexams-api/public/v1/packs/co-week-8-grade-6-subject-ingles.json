@@ -16,25 +16,25 @@
           "letter": "A",
           "text": "I'm fine, thank you.",
           "is_correct": true,
-          "feedback": "Correct! Well done."
+          "feedback": "Correct! \"How are you?\" asks about the state of the person, so the answer has to say how the person is."
         },
         {
           "letter": "B",
           "text": "My name is Carlos.",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "Incorrect. That answers \"What is your name?\", which asks about identity and not about how someone is."
         },
         {
           "letter": "C",
           "text": "I'm from Bogota.",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "Incorrect. That answers \"Where are you from?\", a question about place and not about a person's state."
         },
         {
           "letter": "D",
           "text": "I am 12 years old.",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "Incorrect. That answers \"How old are you?\", a question about age and not about how someone is."
         }
       ],
       "correct_answer": "A",
@@ -62,25 +62,25 @@
           "letter": "A",
           "text": "Good evening.",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "Incorrect. \"Good evening\" is a greeting used when you meet someone, and it carries no idea of leaving."
         },
         {
           "letter": "B",
           "text": "Nice to meet you.",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "Incorrect. It is said at the moment of an introduction and refers to the meeting, not to a farewell."
         },
         {
           "letter": "C",
           "text": "What's up?",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "Incorrect. It is an informal question about how someone is, so it is the wrong register for a formal goodbye."
         },
         {
           "letter": "D",
           "text": "Have a nice day.",
           "is_correct": true,
-          "feedback": "Correct! Well done."
+          "feedback": "Correct! It is a polite wish for the rest of the person's day and it works as a complete, formal farewell."
         }
       ],
       "correct_answer": "D",
@@ -108,25 +108,25 @@
           "letter": "A",
           "text": "your",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "Incorrect. \"Your\" is a possessive adjective that must come before a noun, and here a verb follows the blank."
         },
         {
           "letter": "B",
           "text": "I",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "Incorrect. The subject \"I\" cannot stand between the greeting and the verb \"is\" in this structure."
         },
         {
           "letter": "C",
           "text": "me",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "Incorrect. \"Me\" is an object pronoun, and here the name belongs to the subject Maria."
         },
         {
           "letter": "D",
           "text": "my",
           "is_correct": true,
-          "feedback": "Correct! Well done."
+          "feedback": "Correct! \"My\" is the possessive adjective that goes directly in front of the noun \"name\"."
         }
       ],
       "correct_answer": "D",
@@ -154,25 +154,25 @@
           "letter": "A",
           "text": "Nice to meet you.",
           "is_correct": true,
-          "feedback": "Correct! Well done."
+          "feedback": "Correct! It is the standard polite phrase for a first meeting, saying you are pleased to know the person."
         },
         {
           "letter": "B",
           "text": "Good night.",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "Incorrect. That is said late in the evening when leaving or going to sleep, not at a first meeting."
         },
         {
           "letter": "C",
           "text": "See you later.",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "Incorrect. That is said to someone you already know, because it assumes a previous arrangement to meet again."
         },
         {
           "letter": "D",
           "text": "Welcome.",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "Incorrect. That is said when receiving a guest at a home or a venue, so it does not fit a first meeting."
         }
       ],
       "correct_answer": "A",
@@ -200,25 +200,25 @@
           "letter": "A",
           "text": "In the afternoon.",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "Incorrect. The afternoon runs from about noon to six, and the greeting for that time is \"Good afternoon\"."
         },
         {
           "letter": "B",
           "text": "At 8:00 PM.",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "Incorrect. Eight at night is after the evening greeting, so the correct phrase there is \"Good evening\"."
         },
         {
           "letter": "C",
           "text": "At midnight.",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "Incorrect. Midnight is the start of the next day, and the greeting at that hour is \"Good night\"."
         },
         {
           "letter": "D",
           "text": "At 8:00 AM.",
           "is_correct": true,
-          "feedback": "Correct! Well done."
+          "feedback": "Correct! \"Morning\" covers the time from dawn until about noon, and eight in the morning falls inside it."
         }
       ],
       "correct_answer": "D",
@@ -246,25 +246,25 @@
           "letter": "A",
           "text": "I'm from Medellin.",
           "is_correct": true,
-          "feedback": "Correct! Well done."
+          "feedback": "Correct! \"I'm from\" is the structure that answers a question about where a person comes from."
         },
         {
           "letter": "B",
           "text": "I'm 11.",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "Incorrect. That answers a question about age, and a question about origin needs the name of a place."
         },
         {
           "letter": "C",
           "text": "I'm a student.",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "Incorrect. That answers \"What do you do?\", a question about occupation and not about origin."
         },
         {
           "letter": "D",
           "text": "I'm happy.",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "Incorrect. That answers \"How are you?\", a question about a state or a feeling and not about origin."
         }
       ],
       "correct_answer": "A",
@@ -292,25 +292,25 @@
           "letter": "A",
           "text": "Hey!",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "Incorrect. \"Hey\" is an informal interjection, so it does not suit a formal situation with an adult or a stranger."
         },
         {
           "letter": "B",
           "text": "What's going on?",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "Incorrect. It is an informal question that opens a conversation, so it is not itself a greeting."
         },
         {
           "letter": "C",
           "text": "Good afternoon, sir.",
           "is_correct": true,
-          "feedback": "Correct! Well done."
+          "feedback": "Correct! It is the full time-of-day greeting plus the polite title \"sir\", which is what formality requires."
         },
         {
           "letter": "D",
           "text": "Hi there.",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "Incorrect. \"Hi\" is casual and \"there\" is a filler here, so the register is far too informal."
         }
       ],
       "correct_answer": "C",
@@ -338,25 +338,25 @@
           "letter": "A",
           "text": "What",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "Incorrect. \"What are you?\" asks about a person's identity, and its answer would be a name and not an age."
         },
         {
           "letter": "B",
           "text": "How",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "Incorrect. \"How are you?\" asks about the state of the person, and its answer is \"I'm fine\", not an age."
         },
         {
           "letter": "C",
           "text": "How old",
           "is_correct": true,
-          "feedback": "Correct! Well done."
+          "feedback": "Correct! \"How old\" is the fixed question phrase for asking someone's age, and the answer gives a number of years."
         },
         {
           "letter": "D",
           "text": "Who",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "Incorrect. \"Who\" asks for a name or a person, so it would identify someone instead of stating an age."
         }
       ],
       "correct_answer": "C",
@@ -384,25 +384,25 @@
           "letter": "A",
           "text": "Nice to meet you, too.",
           "is_correct": true,
-          "feedback": "Correct! Well done."
+          "feedback": "Correct! The standard reply repeats the phrase and adds \"too\" to return the same politeness."
         },
         {
           "letter": "B",
           "text": "I am fine.",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "Incorrect. That answers \"How are you?\", so it is a reply to a different question."
         },
         {
           "letter": "C",
           "text": "Hello.",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "Incorrect. \"Hello\" is a greeting, and at this point in the conversation the greeting has already happened."
         },
         {
           "letter": "D",
           "text": "You're welcome.",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "Incorrect. That answers \"Thank you\", so it replies to a compliment and not to an introduction."
         }
       ],
       "correct_answer": "A",
@@ -430,25 +430,25 @@
           "letter": "A",
           "text": "Give me your name.",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "Incorrect. It is a direct order and it sounds aggressive, which is the opposite of a polite request."
         },
         {
           "letter": "B",
           "text": "What is your name?",
           "is_correct": true,
-          "feedback": "Correct! Well done."
+          "feedback": "Correct! It uses a polite question form with \"is\" and no imperative, which is the standard way to ask."
         },
         {
           "letter": "C",
           "text": "Who are you?",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "Incorrect. It can sound like an accusation, so it is not the polite way to ask someone's name."
         },
         {
           "letter": "D",
           "text": "Name?",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "Incorrect. A one-word question is too blunt, and it does not tell the person politely what is being asked for."
         }
       ],
       "correct_answer": "B",

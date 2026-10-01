@@ -214,7 +214,7 @@
           "letter": "D",
           "text": "9",
           "is_correct": false,
-          "feedback": "Incorrecto. Revise la resta final."
+          "feedback": "a₅ = 25 - 5 + 1 = 21 y a₄ = 16 - 4 + 1 = 13. La diferencia es 21 - 13 = 8, y 9 no aparece en ninguna de las dos restas."
         }
       ],
       "correct_answer": "B",
@@ -439,7 +439,7 @@
           "letter": "D",
           "text": "22 años",
           "is_correct": false,
-          "feedback": "Incorrecto. Revise el cálculo en la fórmula de la suma."
+          "feedback": "Con 22 como mayor, la progresión sería 12, 46/3, 58/3, 22 y su suma no daría 72. La fórmula de la suma exige 72 = (12 + a₄)·4/2, de donde a₄ = 24."
         }
       ],
       "correct_answer": "B",
@@ -664,7 +664,7 @@
           "letter": "D",
           "text": "4.5",
           "is_correct": false,
-          "feedback": "Incorrecto. Revise la definición de media armónica."
+          "feedback": "En una progresión armónica los recíprocos forman PA: 2/x = 1/2 + 1/6 = 2/3, de donde x = 3. El 4,5 no cumple esa condición de reciprocidad."
         }
       ],
       "correct_answer": "A",

@@ -16,25 +16,25 @@
           "letter": "A",
           "text": "wake up",
           "is_correct": true,
-          "feedback": "Correct!"
+          "feedback": "Correct! 'wake up' is what you do at 6:00 AM, because your body rests during the night and the day has to start."
         },
         {
           "letter": "B",
           "text": "go to sleep",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "'go to sleep' belongs to the night, so it contradicts 'every morning' at 6:00 AM."
         },
         {
           "letter": "C",
           "text": "watch TV",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "'watch TV' is a relaxing activity of the evening, not the first thing you do after waking up."
         },
         {
           "letter": "D",
           "text": "play football",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "'play football' is a sport you practise, usually after school, and not your waking routine."
         }
       ],
       "correct_answer": "A",
@@ -62,25 +62,25 @@
           "letter": "A",
           "text": "dry",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "You dry your hair or your hands, never your teeth; the verb for teeth is 'brush'."
         },
         {
           "letter": "B",
           "text": "brush",
           "is_correct": true,
-          "feedback": "Correct!"
+          "feedback": "Correct! You brush your teeth with a toothbrush to clean them once you have eaten."
         },
         {
           "letter": "C",
           "text": "wash",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "'wash' goes with hands, face or dishes; after a meal the specific verb for teeth is 'brush'."
         },
         {
           "letter": "D",
           "text": "comb",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "'comb' is used for hair, while the teeth are cleaned with a toothbrush."
         }
       ],
       "correct_answer": "B",
@@ -108,25 +108,25 @@
           "letter": "A",
           "text": "do",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "'do' goes with tasks such as homework or the dishes; a shower is 'take a shower' in English."
         },
         {
           "letter": "B",
           "text": "give",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "'give' appears in 'give someone a shower'; the one who washes themselves takes a shower."
         },
         {
           "letter": "C",
           "text": "take",
           "is_correct": true,
-          "feedback": "Correct!"
+          "feedback": "Correct! In English you 'take a shower', never 'do a shower'."
         },
         {
           "letter": "D",
           "text": "make",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "'make' is used for things you build, such as a bed or a decision, not for washing yourself."
         }
       ],
       "correct_answer": "C",
@@ -154,25 +154,25 @@
           "letter": "A",
           "text": "wash",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "You wash your hair with water and shampoo, but the sentence says 'with a brush', which is for combing."
         },
         {
           "letter": "B",
           "text": "cut",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "Cutting hair needs scissors, and the sentence gives you a brush, so 'cut' does not fit."
         },
         {
           "letter": "C",
           "text": "paint",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "You paint a wall or a picture, never your hair; the brush here is a hairbrush."
         },
         {
           "letter": "D",
           "text": "comb",
           "is_correct": true,
-          "feedback": "Correct!"
+          "feedback": "Correct! A brush is the tool you use to comb your hair, so the sentence is complete with 'comb'."
         }
       ],
       "correct_answer": "D",
@@ -200,25 +200,25 @@
           "letter": "A",
           "text": "make",
           "is_correct": true,
-          "feedback": "Correct!"
+          "feedback": "Correct! 'make your bed' is the fixed expression for straightening the sheets and pillows when you get up."
         },
         {
           "letter": "B",
           "text": "buy",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "You buy a bed in a shop, but you do not buy it again every morning before school."
         },
         {
           "letter": "C",
           "text": "sell",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "Selling is what someone else does to you, whereas you tidy your own bed before leaving."
         },
         {
           "letter": "D",
           "text": "break",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "'break' would damage the bed, the opposite of preparing it so you can sleep in it."
         }
       ],
       "correct_answer": "A",
@@ -246,25 +246,25 @@
           "letter": "A",
           "text": "go",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "'go' needs a place or a person, as in 'go to school'; you never 'go breakfast'."
         },
         {
           "letter": "B",
           "text": "have",
           "is_correct": true,
-          "feedback": "Correct!"
+          "feedback": "Correct! In English you 'have breakfast', the standard phrase for the morning meal."
         },
         {
           "letter": "C",
           "text": "take",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "'take' goes with 'take a shower' or 'take a bus', and meals use 'have' or 'eat'."
         },
         {
           "letter": "D",
           "text": "do",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "'do' is used for tasks such as homework or the dishes, not for eating."
         }
       ],
       "correct_answer": "B",
@@ -292,25 +292,25 @@
           "letter": "A",
           "text": "wash",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "Washing is what you do in the laundry later; in the morning you put your clothes on."
         },
         {
           "letter": "B",
           "text": "iron",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "Ironing is pressing out the creases after washing, not the act of dressing yourself."
         },
         {
           "letter": "C",
           "text": "put on",
           "is_correct": true,
-          "feedback": "Correct!"
+          "feedback": "Correct! 'put on' is the phrasal verb for getting dressed in a piece of clothing."
         },
         {
           "letter": "D",
           "text": "take off",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "'take off' is the opposite of 'put on', because it means to remove a piece of clothing."
         }
       ],
       "correct_answer": "C",
@@ -338,25 +338,25 @@
           "letter": "A",
           "text": "come",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "'come' points towards the speaker, as in 'come home'; travelling to school is 'go'."
         },
         {
           "letter": "B",
           "text": "stay",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "'stay' means to remain in one place, which is the opposite of travelling to school."
         },
         {
           "letter": "C",
           "text": "run",
           "is_correct": false,
-          "feedback": "No."
+          "feedback": "You can run to school, but the sentence says 'by bus', which is a vehicle and not your own legs."
         },
         {
           "letter": "D",
           "text": "go",
           "is_correct": true,
-          "feedback": "Correct!"
+          "feedback": "Correct! 'go' is the verb of movement, and 'by bus' tells you how you travel there."
         }
       ],
       "correct_answer": "D",

@@ -16,25 +16,25 @@
           "letter": "B",
           "text": "Fotosíntesis",
           "is_correct": true,
-          "feedback": "¡Correcto!"
+          "feedback": "Correcto. La fotosíntesis usa la energía de la luz solar para fabricar glucosa, es decir, convierte energía luminosa en energía química."
         },
         {
           "letter": "A",
           "text": "Respiración celular",
           "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "feedback": "La respiración celular libera energía a partir de la glucosa; consume oxígeno y no utiliza la luz solar, al contrario que la fotosíntesis."
         },
         {
           "letter": "C",
           "text": "Fermentación",
           "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "feedback": "La fermentación es una vía anaeróbica de las levaduras y las bacterias, sin participación de la luz."
         },
         {
           "letter": "D",
           "text": "Digestión",
           "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "feedback": "La digestión descompone los alimentos en el tubo digestivo; es un proceso del organismo, no una transformación de luz en energía química."
         }
       ],
       "correct_answer": "B",
@@ -61,25 +61,25 @@
           "letter": "D",
           "text": "21 N",
           "is_correct": true,
-          "feedback": "¡Correcto!"
+          "feedback": "Correcto. Por la segunda ley de Newton, $F = m \\cdot a = 7\\,\\text{kg} \\times 3\\,\\text{m/s}^2 = 21\\,\\text{N}$."
         },
         {
           "letter": "A",
           "text": "14 N",
           "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "feedback": "Multiplicaste la masa por dos, $7 \\times 2 = 14$, en vez de por la aceleración de $3\\,\\text{m/s}^2$. Con $m = 7\\,\\text{kg}$ y $a = 3\\,\\text{m/s}^2$, la fuerza es $F = 7 \\cdot 3 = 21\\,\\text{N}$."
         },
         {
           "letter": "B",
           "text": "24 N",
           "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "feedback": "Multiplicaste $8 \\times 3$, pero la masa del enunciado es $7\\,\\text{kg}$, no $8$. Con $m = 7\\,\\text{kg}$ y $a = 3\\,\\text{m/s}^2$, la fuerza es $F = 7 \\cdot 3 = 21\\,\\text{N}$."
         },
         {
           "letter": "C",
           "text": "7 N",
           "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "feedback": "Ese número es solo la masa del objeto; falta multiplicarla por la aceleración de $3\\,\\text{m/s}^2$. Con $m = 7\\,\\text{kg}$ y $a = 3\\,\\text{m/s}^2$, la fuerza es $F = 7 \\cdot 3 = 21\\,\\text{N}$."
         }
       ],
       "correct_answer": "D",
@@ -106,25 +106,25 @@
           "letter": "C",
           "text": "La piel",
           "is_correct": true,
-          "feedback": "¡Correcto!"
+          "feedback": "Correcto. La piel envuelve todo el cuerpo y es el órgano de mayor tamaño y peso del organismo humano."
         },
         {
           "letter": "A",
           "text": "El hígado",
           "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "feedback": "El hígado es la glándula más grande del cuerpo, pero es un órgano interno; la piel lo supera en tamaño y superficie."
         },
         {
           "letter": "B",
           "text": "El corazón",
           "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "feedback": "El corazón es la bomba de la sangre y ocupa mucho menos espacio que la piel, que cubre la superficie completa."
         },
         {
           "letter": "D",
           "text": "Los pulmones",
           "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "feedback": "Los pulmones son los órganos del aparato respiratorio y su superficie interna combinada no alcanza la de la piel."
         }
       ],
       "correct_answer": "C",
@@ -151,25 +151,25 @@
           "letter": "B",
           "text": "La exposición a la luz",
           "is_correct": true,
-          "feedback": "¡Correcto!"
+          "feedback": "Correcto. La variable independiente es la que el investigador cambia a propósito para medir su efecto; aquí se varía la exposición a la luz."
         },
         {
           "letter": "A",
           "text": "El crecimiento de las plantas",
           "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "feedback": "El crecimiento es la variable dependiente: es la respuesta que se mide, y depende de la luz que se modifica."
         },
         {
           "letter": "C",
           "text": "La temperatura ambiente",
           "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "feedback": "La temperatura es un factor externo que debe mantenerse constante para no interferir; la que se cambia a propósito es la luz."
         },
         {
           "letter": "D",
           "text": "El tipo de planta",
           "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "feedback": "El tipo de planta también se mantiene constante como factor controlado; la variable que el investigador modifica es la exposición a la luz."
         }
       ],
       "correct_answer": "B",
@@ -196,25 +196,25 @@
           "letter": "C",
           "text": "La célula",
           "is_correct": true,
-          "feedback": "¡Correcto!"
+          "feedback": "Correcto. Toda forma de vida se compone de células, y la célula es la unidad estructural y funcional de los seres vivos."
         },
         {
           "letter": "A",
           "text": "El átomo",
           "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "feedback": "El átomo es la unidad de la materia en química, y por sí solo no es una unidad de la vida."
         },
         {
           "letter": "B",
           "text": "La molécula",
           "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "feedback": "Una molécula es un conjunto de átomos; la vida no se organiza en moléculas sino en células."
         },
         {
           "letter": "D",
           "text": "El tejido",
           "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "feedback": "El tejido es un conjunto de células con la misma función; la célula es el nivel anterior, no el posterior."
         }
       ],
       "correct_answer": "C",
@@ -241,25 +241,25 @@
           "letter": "A",
           "text": "Fotosíntesis",
           "is_correct": true,
-          "feedback": "¡Correcto!"
+          "feedback": "Correcto. La fotosíntesis usa la energía de la luz solar para fabricar glucosa, es decir, convierte energía luminosa en energía química."
         },
         {
           "letter": "B",
           "text": "Respiración celular",
           "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "feedback": "La respiración celular libera energía a partir de la glucosa; consume oxígeno y no utiliza la luz solar, al contrario que la fotosíntesis."
         },
         {
           "letter": "C",
           "text": "Fermentación",
           "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "feedback": "La fermentación es una vía anaeróbica de las levaduras y las bacterias, sin participación de la luz."
         },
         {
           "letter": "D",
           "text": "Digestión",
           "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "feedback": "La digestión descompone los alimentos en el tubo digestivo; es un proceso del organismo, no una transformación de luz en energía química."
         }
       ],
       "correct_answer": "A",
@@ -286,25 +286,25 @@
           "letter": "D",
           "text": "12 N",
           "is_correct": true,
-          "feedback": "¡Correcto!"
+          "feedback": "Correcto. Por la segunda ley de Newton, $F = m \\cdot a = 3\\,\\text{kg} \\times 4\\,\\text{m/s}^2 = 12\\,\\text{N}$."
         },
         {
           "letter": "A",
           "text": "9 N",
           "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "feedback": "Multiplicaste la masa por sí misma, $3 \\times 3 = 9$, en vez de por la aceleración. Con $m = 3\\,\\text{kg}$ y $a = 4\\,\\text{m/s}^2$, la fuerza es $F = 3 \\cdot 4 = 12\\,\\text{N}$."
         },
         {
           "letter": "B",
           "text": "16 N",
           "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "feedback": "Elevaste la aceleración al cuadrado, $4 \\times 4 = 16$; el primer factor de $F$ es la masa, no la aceleración. Con $m = 3\\,\\text{kg}$ y $a = 4\\,\\text{m/s}^2$, la fuerza es $F = 3 \\cdot 4 = 12\\,\\text{N}$."
         },
         {
           "letter": "C",
           "text": "3 N",
           "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "feedback": "Ese número es solo la masa del objeto; falta multiplicarla por la aceleración de $4\\,\\text{m/s}^2$. Con $m = 3\\,\\text{kg}$ y $a = 4\\,\\text{m/s}^2$, la fuerza es $F = 3 \\cdot 4 = 12\\,\\text{N}$."
         }
       ],
       "correct_answer": "D",
@@ -331,25 +331,25 @@
           "letter": "A",
           "text": "La piel",
           "is_correct": true,
-          "feedback": "¡Correcto!"
+          "feedback": "Correcto. La piel envuelve todo el cuerpo y es el órgano de mayor tamaño y peso del organismo humano."
         },
         {
           "letter": "B",
           "text": "El hígado",
           "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "feedback": "El hígado es la glándula más grande del cuerpo, pero es un órgano interno; la piel lo supera en tamaño y superficie."
         },
         {
           "letter": "C",
           "text": "El corazón",
           "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "feedback": "El corazón es la bomba de la sangre y ocupa mucho menos espacio que la piel, que cubre la superficie completa."
         },
         {
           "letter": "D",
           "text": "Los pulmones",
           "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "feedback": "Los pulmones son los órganos del aparato respiratorio y su superficie interna combinada no alcanza la de la piel."
         }
       ],
       "correct_answer": "A",
@@ -376,25 +376,25 @@
           "letter": "D",
           "text": "La exposición a la luz",
           "is_correct": true,
-          "feedback": "¡Correcto!"
+          "feedback": "Correcto. La variable independiente es la que el investigador cambia a propósito para medir su efecto; aquí se varía la exposición a la luz."
         },
         {
           "letter": "A",
           "text": "El crecimiento de las plantas",
           "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "feedback": "El crecimiento es la variable dependiente: es la respuesta que se mide, y depende de la luz que se modifica."
         },
         {
           "letter": "B",
           "text": "La temperatura ambiente",
           "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "feedback": "La temperatura es un factor externo que debe mantenerse constante para no interferir; la que se cambia a propósito es la luz."
         },
         {
           "letter": "C",
           "text": "El tipo de planta",
           "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "feedback": "El tipo de planta también se mantiene constante como factor controlado; la variable que el investigador modifica es la exposición a la luz."
         }
       ],
       "correct_answer": "D",
@@ -421,25 +421,25 @@
           "letter": "D",
           "text": "La célula",
           "is_correct": true,
-          "feedback": "¡Correcto!"
+          "feedback": "Correcto. Toda forma de vida se compone de células, y la célula es la unidad estructural y funcional de los seres vivos."
         },
         {
           "letter": "A",
           "text": "El átomo",
           "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "feedback": "El átomo es la unidad de la materia en química, y por sí solo no es una unidad de la vida."
         },
         {
           "letter": "B",
           "text": "La molécula",
           "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "feedback": "Una molécula es un conjunto de átomos; la vida no se organiza en moléculas sino en células."
         },
         {
           "letter": "C",
           "text": "El tejido",
           "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "feedback": "El tejido es un conjunto de células con la misma función; la célula es el nivel anterior, no el posterior."
         }
       ],
       "correct_answer": "D",
@@ -466,25 +466,25 @@
           "letter": "D",
           "text": "Fotosíntesis",
           "is_correct": true,
-          "feedback": "¡Correcto!"
+          "feedback": "Correcto. La fotosíntesis usa la energía de la luz solar para fabricar glucosa, es decir, convierte energía luminosa en energía química."
         },
         {
           "letter": "A",
           "text": "Respiración celular",
           "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "feedback": "La respiración celular libera energía a partir de la glucosa; consume oxígeno y no utiliza la luz solar, al contrario que la fotosíntesis."
         },
         {
           "letter": "B",
           "text": "Fermentación",
           "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "feedback": "La fermentación es una vía anaeróbica de las levaduras y las bacterias, sin participación de la luz."
         },
         {
           "letter": "C",
           "text": "Digestión",
           "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "feedback": "La digestión descompone los alimentos en el tubo digestivo; es un proceso del organismo, no una transformación de luz en energía química."
         }
       ],
       "correct_answer": "D",
@@ -511,25 +511,25 @@
           "letter": "D",
           "text": "15 N",
           "is_correct": true,
-          "feedback": "¡Correcto!"
+          "feedback": "Correcto. Por la segunda ley de Newton, $F = m \\cdot a = 3\\,\\text{kg} \\times 5\\,\\text{m/s}^2 = 15\\,\\text{N}$."
         },
         {
           "letter": "A",
           "text": "12 N",
           "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "feedback": "Restaste la masa al producto, $15 - 3 = 12$, pero $F = m \\cdot a$ es un producto, no una resta. Con $m = 3\\,\\text{kg}$ y $a = 5\\,\\text{m/s}^2$, la fuerza es $F = 3 \\cdot 5 = 15\\,\\text{N}$."
         },
         {
           "letter": "B",
           "text": "20 N",
           "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "feedback": "Añadiste la aceleración al producto, $15 + 5 = 20$, cuando lo correcto es multiplicar masa por aceleración. Con $m = 3\\,\\text{kg}$ y $a = 5\\,\\text{m/s}^2$, la fuerza es $F = 3 \\cdot 5 = 15\\,\\text{N}$."
         },
         {
           "letter": "C",
           "text": "3 N",
           "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "feedback": "Ese número es solo la masa del objeto; falta multiplicarla por la aceleración de $5\\,\\text{m/s}^2$. Con $m = 3\\,\\text{kg}$ y $a = 5\\,\\text{m/s}^2$, la fuerza es $F = 3 \\cdot 5 = 15\\,\\text{N}$."
         }
       ],
       "correct_answer": "D",
@@ -556,25 +556,25 @@
           "letter": "D",
           "text": "La piel",
           "is_correct": true,
-          "feedback": "¡Correcto!"
+          "feedback": "Correcto. La piel envuelve todo el cuerpo y es el órgano de mayor tamaño y peso del organismo humano."
         },
         {
           "letter": "A",
           "text": "El hígado",
           "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "feedback": "El hígado es la glándula más grande del cuerpo, pero es un órgano interno; la piel lo supera en tamaño y superficie."
         },
         {
           "letter": "B",
           "text": "El corazón",
           "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "feedback": "El corazón es la bomba de la sangre y ocupa mucho menos espacio que la piel, que cubre la superficie completa."
         },
         {
           "letter": "C",
           "text": "Los pulmones",
           "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "feedback": "Los pulmones son los órganos del aparato respiratorio y su superficie interna combinada no alcanza la de la piel."
         }
       ],
       "correct_answer": "D",
@@ -601,25 +601,25 @@
           "letter": "A",
           "text": "La exposición a la luz",
           "is_correct": true,
-          "feedback": "¡Correcto!"
+          "feedback": "Correcto. La variable independiente es la que el investigador cambia a propósito para medir su efecto; aquí se varía la exposición a la luz."
         },
         {
           "letter": "B",
           "text": "El crecimiento de las plantas",
           "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "feedback": "El crecimiento es la variable dependiente: es la respuesta que se mide, y depende de la luz que se modifica."
         },
         {
           "letter": "C",
           "text": "La temperatura ambiente",
           "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "feedback": "La temperatura es un factor externo que debe mantenerse constante para no interferir; la que se cambia a propósito es la luz."
         },
         {
           "letter": "D",
           "text": "El tipo de planta",
           "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "feedback": "El tipo de planta también se mantiene constante como factor controlado; la variable que el investigador modifica es la exposición a la luz."
         }
       ],
       "correct_answer": "A",
@@ -646,25 +646,25 @@
           "letter": "D",
           "text": "La célula",
           "is_correct": true,
-          "feedback": "¡Correcto!"
+          "feedback": "Correcto. Toda forma de vida se compone de células, y la célula es la unidad estructural y funcional de los seres vivos."
         },
         {
           "letter": "A",
           "text": "El átomo",
           "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "feedback": "El átomo es la unidad de la materia en química, y por sí solo no es una unidad de la vida."
         },
         {
           "letter": "B",
           "text": "La molécula",
           "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "feedback": "Una molécula es un conjunto de átomos; la vida no se organiza en moléculas sino en células."
         },
         {
           "letter": "C",
           "text": "El tejido",
           "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "feedback": "El tejido es un conjunto de células con la misma función; la célula es el nivel anterior, no el posterior."
         }
       ],
       "correct_answer": "D",
@@ -691,25 +691,25 @@
           "letter": "D",
           "text": "Fotosíntesis",
           "is_correct": true,
-          "feedback": "¡Correcto!"
+          "feedback": "Correcto. La fotosíntesis usa la energía de la luz solar para fabricar glucosa, es decir, convierte energía luminosa en energía química."
         },
         {
           "letter": "A",
           "text": "Respiración celular",
           "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "feedback": "La respiración celular libera energía a partir de la glucosa; consume oxígeno y no utiliza la luz solar, al contrario que la fotosíntesis."
         },
         {
           "letter": "B",
           "text": "Fermentación",
           "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "feedback": "La fermentación es una vía anaeróbica de las levaduras y las bacterias, sin participación de la luz."
         },
         {
           "letter": "C",
           "text": "Digestión",
           "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "feedback": "La digestión descompone los alimentos en el tubo digestivo; es un proceso del organismo, no una transformación de luz en energía química."
         }
       ],
       "correct_answer": "D",
@@ -736,25 +736,25 @@
           "letter": "A",
           "text": "15 N",
           "is_correct": true,
-          "feedback": "¡Correcto!"
+          "feedback": "Correcto. Por la segunda ley de Newton, $F = m \\cdot a = 3\\,\\text{kg} \\times 5\\,\\text{m/s}^2 = 15\\,\\text{N}$."
         },
         {
           "letter": "B",
           "text": "12 N",
           "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "feedback": "Restaste la masa al producto, $15 - 3 = 12$, pero $F = m \\cdot a$ es un producto, no una resta. Con $m = 3\\,\\text{kg}$ y $a = 5\\,\\text{m/s}^2$, la fuerza es $F = 3 \\cdot 5 = 15\\,\\text{N}$."
         },
         {
           "letter": "C",
           "text": "20 N",
           "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "feedback": "Añadiste la aceleración al producto, $15 + 5 = 20$, cuando lo correcto es multiplicar masa por aceleración. Con $m = 3\\,\\text{kg}$ y $a = 5\\,\\text{m/s}^2$, la fuerza es $F = 3 \\cdot 5 = 15\\,\\text{N}$."
         },
         {
           "letter": "D",
           "text": "3 N",
           "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "feedback": "Ese número es solo la masa del objeto; falta multiplicarla por la aceleración de $5\\,\\text{m/s}^2$. Con $m = 3\\,\\text{kg}$ y $a = 5\\,\\text{m/s}^2$, la fuerza es $F = 3 \\cdot 5 = 15\\,\\text{N}$."
         }
       ],
       "correct_answer": "A",
@@ -781,25 +781,25 @@
           "letter": "C",
           "text": "La piel",
           "is_correct": true,
-          "feedback": "¡Correcto!"
+          "feedback": "Correcto. La piel envuelve todo el cuerpo y es el órgano de mayor tamaño y peso del organismo humano."
         },
         {
           "letter": "A",
           "text": "El hígado",
           "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "feedback": "El hígado es la glándula más grande del cuerpo, pero es un órgano interno; la piel lo supera en tamaño y superficie."
         },
         {
           "letter": "B",
           "text": "El corazón",
           "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "feedback": "El corazón es la bomba de la sangre y ocupa mucho menos espacio que la piel, que cubre la superficie completa."
         },
         {
           "letter": "D",
           "text": "Los pulmones",
           "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "feedback": "Los pulmones son los órganos del aparato respiratorio y su superficie interna combinada no alcanza la de la piel."
         }
       ],
       "correct_answer": "C",
@@ -826,25 +826,25 @@
           "letter": "A",
           "text": "La exposición a la luz",
           "is_correct": true,
-          "feedback": "¡Correcto!"
+          "feedback": "Correcto. La variable independiente es la que el investigador cambia a propósito para medir su efecto; aquí se varía la exposición a la luz."
         },
         {
           "letter": "B",
           "text": "El crecimiento de las plantas",
           "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "feedback": "El crecimiento es la variable dependiente: es la respuesta que se mide, y depende de la luz que se modifica."
         },
         {
           "letter": "C",
           "text": "La temperatura ambiente",
           "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "feedback": "La temperatura es un factor externo que debe mantenerse constante para no interferir; la que se cambia a propósito es la luz."
         },
         {
           "letter": "D",
           "text": "El tipo de planta",
           "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "feedback": "El tipo de planta también se mantiene constante como factor controlado; la variable que el investigador modifica es la exposición a la luz."
         }
       ],
       "correct_answer": "A",
@@ -871,25 +871,25 @@
           "letter": "D",
           "text": "La célula",
           "is_correct": true,
-          "feedback": "¡Correcto!"
+          "feedback": "Correcto. Toda forma de vida se compone de células, y la célula es la unidad estructural y funcional de los seres vivos."
         },
         {
           "letter": "A",
           "text": "El átomo",
           "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "feedback": "El átomo es la unidad de la materia en química, y por sí solo no es una unidad de la vida."
         },
         {
           "letter": "B",
           "text": "La molécula",
           "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "feedback": "Una molécula es un conjunto de átomos; la vida no se organiza en moléculas sino en células."
         },
         {
           "letter": "C",
           "text": "El tejido",
           "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "feedback": "El tejido es un conjunto de células con la misma función; la célula es el nivel anterior, no el posterior."
         }
       ],
       "correct_answer": "D",

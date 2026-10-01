@@ -691,7 +691,7 @@
           "letter": "A",
           "text": "35 años",
           "is_correct": false,
-          "feedback": "Revisar las condiciones de tiempo."
+          "feedback": "Si Pedro tuviera 35 años, hace 5 años tendría 30 y su hijo 10, y $30 = 3 \\times 10$ sí se cumple. Pero en 7 años Pedro tendría 42 y su hijo 22, y $42 \\neq 2 \\times 22$: falla la condición del doble."
         },
         {
           "letter": "C",
@@ -703,13 +703,13 @@
           "letter": "B",
           "text": "45 años",
           "is_correct": false,
-          "feedback": "No cumple con la relación de hace 5 años."
+          "feedback": "Con Pedro de 45 años, hace 5 años tendría 40, así que su hijo tendría $40 \\div 3$, que no es una edad exacta. La relación del triple de hace 5 años ya no se cumple."
         },
         {
           "letter": "D",
           "text": "38 años",
           "is_correct": false,
-          "feedback": "Error al plantear o resolver las ecuaciones de edades."
+          "feedback": "Si Pedro tuviera 38 años, hace 5 años tendría 33 y su hijo 11, y $33 = 3 \\times 11$ sí se cumple. Pero en 7 años tendría 45 y su hijo 18, y $45 \\neq 2 \\times 18 = 36$: falla la condición del doble."
         }
       ],
       "correct_answer": "C",
@@ -1591,7 +1591,7 @@
           "letter": "A",
           "text": "35 años",
           "is_correct": false,
-          "feedback": "Revisar las condiciones de tiempo."
+          "feedback": "Si Pedro tuviera 35 años, hace 5 años tendría 30 y su hijo 10, y $30 = 3 \\times 10$ sí se cumple. Pero en 7 años Pedro tendría 42 y su hijo 22, y $42 \\neq 2 \\times 22$: falla la condición del doble."
         },
         {
           "letter": "B",
@@ -1603,13 +1603,13 @@
           "letter": "C",
           "text": "45 años",
           "is_correct": false,
-          "feedback": "No cumple con la relación de hace 5 años."
+          "feedback": "Con Pedro de 45 años, hace 5 años tendría 40, así que su hijo tendría $40 \\div 3$, que no es una edad exacta. La relación del triple de hace 5 años ya no se cumple."
         },
         {
           "letter": "D",
           "text": "38 años",
           "is_correct": false,
-          "feedback": "Error al plantear o resolver las ecuaciones de edades."
+          "feedback": "Si Pedro tuviera 38 años, hace 5 años tendría 33 y su hijo 11, y $33 = 3 \\times 11$ sí se cumple. Pero en 7 años tendría 45 y su hijo 18, y $45 \\neq 2 \\times 18 = 36$: falla la condición del doble."
         }
       ],
       "correct_answer": "B",

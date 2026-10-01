@@ -108,25 +108,25 @@
           "letter": "B",
           "text": "for",
           "is_correct": false,
-          "feedback": "Incorrect."
+          "feedback": "'Written for' would mean the novel was made on behalf of someone; the sentence needs the agent of the writing."
         },
         {
           "letter": "C",
           "text": "from",
           "is_correct": false,
-          "feedback": "Incorrect."
+          "feedback": "'Written from' would mean the novel was adapted from a source, which is not stated."
         },
         {
           "letter": "A",
           "text": "by",
           "is_correct": true,
-          "feedback": "Correct! We use \"by\" to introduce the person who performed the action in passive voice."
+          "feedback": "In the passive, 'by' introduces the agent, the person who did the writing."
         },
         {
           "letter": "D",
           "text": "with",
           "is_correct": false,
-          "feedback": "Incorrect."
+          "feedback": "'Written with' would mean the novel was produced using something, not who wrote it."
         }
       ],
       "correct_answer": "A",
@@ -154,25 +154,25 @@
           "letter": "A",
           "text": "make",
           "is_correct": false,
-          "feedback": "Incorrect."
+          "feedback": "'Make' is the active form and would need the makers as the subject."
         },
         {
           "letter": "B",
           "text": "are made",
           "is_correct": false,
-          "feedback": "Incorrect. Smartphone is singular."
+          "feedback": "'Are made' would need a plural subject, but 'every smartphone' is singular."
         },
         {
           "letter": "D",
           "text": "is made",
           "is_correct": true,
-          "feedback": "Correct! Present passive for a general fact about an object."
+          "feedback": "The subject 'every smartphone' is singular, so the present passive takes 'is made'."
         },
         {
           "letter": "C",
           "text": "made",
           "is_correct": false,
-          "feedback": "Incorrect."
+          "feedback": "'Made' alone has no auxiliary, so it cannot complete the verb phrase."
         }
       ],
       "correct_answer": "D",
@@ -200,25 +200,25 @@
           "letter": "B",
           "text": "is cleaned",
           "is_correct": false,
-          "feedback": "Incorrect. \"Windows\" is plural."
+          "feedback": "'Is cleaned' would be correct only with a singular subject, and 'the windows' is plural."
         },
         {
           "letter": "A",
           "text": "are cleaned",
           "is_correct": true,
-          "feedback": "Correct! Plural subject in present passive."
+          "feedback": "'The windows' is plural and the original is in the present, so the passive is 'are cleaned'."
         },
         {
           "letter": "C",
           "text": "were cleaned",
           "is_correct": false,
-          "feedback": "Incorrect. The original sentence is in present."
+          "feedback": "'Were cleaned' would mean the cleaning happened in the past, but the active sentence is in the present."
         },
         {
           "letter": "D",
           "text": "clean",
           "is_correct": false,
-          "feedback": "Incorrect."
+          "feedback": "'Clean' is the active verb and would need 'they' as the subject."
         }
       ],
       "correct_answer": "A",
@@ -338,25 +338,25 @@
           "letter": "A",
           "text": "Because the bike is the person doing the action.",
           "is_correct": false,
-          "feedback": "Incorrect."
+          "feedback": "The bike is the thing stolen, not the person doing the action."
         },
         {
           "letter": "B",
           "text": "Because we don't know who performed the action.",
           "is_correct": true,
-          "feedback": "Correct! Passive voice is useful when the agent is unknown."
+          "feedback": "The passive is used here precisely because the thief is unknown or unimportant to the story."
         },
         {
           "letter": "C",
           "text": "To make the sentence sound more polite.",
           "is_correct": false,
-          "feedback": "Incorrect."
+          "feedback": "Politeness is not the reason; the sentence reports a theft, and the passive keeps attention on the victim."
         },
         {
           "letter": "D",
           "text": "Because it's a happy event.",
           "is_correct": false,
-          "feedback": "Incorrect."
+          "feedback": "Having your bike stolen is not a happy event, so the choice has nothing to do with tone."
         }
       ],
       "correct_answer": "B",
@@ -384,25 +384,25 @@
           "letter": "B",
           "text": "Did / filmed",
           "is_correct": false,
-          "feedback": "Incorrect. Active structure."
+          "feedback": "'Did... filmed' mixes the auxiliary 'did' with a past participle, which is an active question and also wrong in form."
         },
         {
           "letter": "A",
           "text": "Was / filmed",
           "is_correct": true,
-          "feedback": "Correct! Question structure: Was/Were + subject + past participle."
+          "feedback": "A passive yes/no question is formed with 'Was/Were' plus the subject plus the past participle."
         },
         {
           "letter": "C",
           "text": "Were / film",
           "is_correct": false,
-          "feedback": "Incorrect."
+          "feedback": "'Were' would need a plural subject, and 'film' must be the past participle 'filmed'."
         },
         {
           "letter": "D",
           "text": "Is / filming",
           "is_correct": false,
-          "feedback": "Incorrect. Present continuous."
+          "feedback": "'Is filming' is the present continuous, and the question is about a completed production."
         }
       ],
       "correct_answer": "A",
@@ -430,25 +430,25 @@
           "letter": "A",
           "text": "were analyzed",
           "is_correct": false,
-          "feedback": "Incorrect. Plural subject, correct participle."
+          "feedback": "'Were analyzed' is correct: 'the results' is plural and 'analyzed' is the right participle."
         },
         {
           "letter": "D",
           "text": "was wrote",
           "is_correct": true,
-          "feedback": "Correct! Error found. The past participle of \"write\" is \"written\", not \"wrote\"."
+          "feedback": "The passive needs the past participle, and the past participle of 'write' is 'written', not 'wrote'."
         },
         {
           "letter": "B",
           "text": "it was presented",
           "is_correct": false,
-          "feedback": "Incorrect. Correct passive form."
+          "feedback": "'It was presented' is the correct passive form with 'presented' as the past participle."
         },
         {
           "letter": "C",
           "text": "last Tuesday",
           "is_correct": false,
-          "feedback": "Incorrect."
+          "feedback": "'Last Tuesday' is a correct time expression and belongs at the end of the sentence."
         }
       ],
       "correct_answer": "D",
@@ -476,25 +476,25 @@
           "letter": "A",
           "text": "Someone robbed the local bank this morning.",
           "is_correct": false,
-          "feedback": "Incorrect. Too direct and focuses on an unknown \"someone\"."
+          "feedback": "Naming 'someone' as the doer is exactly what a formal report avoids, because the agent is not yet established."
         },
         {
           "letter": "C",
           "text": "The local bank was robbed early this morning; the suspects are still at large.",
           "is_correct": true,
-          "feedback": "Correct! Passive voice provides a more formal and objective tone."
+          "feedback": "The passive foregrounds the bank and the event while keeping the suspects unnamed, which is the neutral register of a news report."
         },
         {
           "letter": "B",
           "text": "A bank was being broken by some guys.",
           "is_correct": false,
-          "feedback": "Incorrect. Awkward grammar."
+          "feedback": "'A bank was being broken by some guys' is clumsy, and 'guys' is far too informal for a report."
         },
         {
           "letter": "D",
           "text": "The bank has been gone by thieves.",
           "is_correct": false,
-          "feedback": "Incorrect. Illogical."
+          "feedback": "'The bank has been gone by thieves' is illogical, since thieves remove things from a place rather than taking the place away."
         }
       ],
       "correct_answer": "C",

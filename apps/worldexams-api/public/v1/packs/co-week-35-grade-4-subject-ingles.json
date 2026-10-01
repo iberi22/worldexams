@@ -114,7 +114,7 @@
           "letter": "B",
           "text": "swimming",
           "is_correct": false,
-          "feedback": "Swimming takes place in water and needs no racket."
+          "feedback": "Swimming takes place in water and there is no racket or ball anywhere in it, so the two clues do not fit this sport."
         },
         {
           "letter": "C",
@@ -258,7 +258,7 @@
           "letter": "C",
           "text": "swimming",
           "is_correct": false,
-          "feedback": "Swimming happens in water and needs no bicycle."
+          "feedback": "Swimming happens in water, while the bicycle named in the sentence is what you ride on land."
         },
         {
           "letter": "D",

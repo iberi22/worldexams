@@ -9,42 +9,42 @@
   "questions": [
     {
       "id": "CO-ING-6-2026-W05-numbers-colors-001-v1",
-      "statement": "This is a review question about numbers-colors.",
-      "context": "Scenario about numbers-colors in a Colombian school or city context.",
+      "statement": "What number is \"cuarenta y siete\"?",
+      "context": "Reading a number written out in words on a classroom poster in Bogotá.",
       "options": [
         {
           "letter": "A",
-          "text": "Option D",
+          "text": "74",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "This option reverses the two parts of the name; in \"cuarenta y siete\" the tens come first, so the answer cannot be read from right to left."
         },
         {
           "letter": "B",
-          "text": "Option A (Correct)",
+          "text": "47",
           "is_correct": true,
-          "feedback": "Correct! Well done."
+          "feedback": "\"Cuarenta\" is 40 and \"siete\" is 7, and the smaller part follows the \"y\", so the name is read as 40 plus 7."
         },
         {
           "letter": "C",
-          "text": "Option C",
+          "text": "40",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "\"Cuarenta\" is only the first half of the name; the \"y siete\" that comes after adds 7 more, so the number must be bigger than 40."
         },
         {
           "letter": "D",
-          "text": "Option B",
+          "text": "17",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "17 is the single word \"diecisiete\", whereas the phrase you are reading is \"cuarenta y siete\", which is 40 plus 7."
         }
       ],
       "correct_answer": "B",
-      "explanation": "This question evaluates the student's ability to remember the topic of Numbers (1-100) and Colors at an A2 level. It focuses on Colombian contexts and standard A2 grammar.\n\n---",
-      "difficulty": "4",
+      "explanation": "Grade 6 Colombian students cover the numbers from 1 to 100 in the first period, and the \"y\" between the tens and the units is a persistent source of error because Spanish puts the smaller part after the conjunction too but the tens carry more weight. Working with numbers written in words, not only as digits, builds the decoding skill that the telling-time and how-many weeks depend on later in the year.\n\n---",
+      "difficulty": "3",
       "images": [],
       "tags": [],
       "bloom": "Remember",
-      "icfes_type": "Reading Comprehension",
-      "expected_success": 0.75,
+      "icfes_type": "Lexical Knowledge",
+      "expected_success": 0.82,
       "bundle_id": "CO-ING-6-2026-W05-numbers-colors-001-MASTERY-bundle",
       "periodo": 5,
       "protocol_version": "5.2",
@@ -55,42 +55,42 @@
     },
     {
       "id": "CO-ING-6-2026-W05-numbers-colors-002-v1",
-      "statement": "Select the correct A2 level use for numbers-colors.",
-      "context": "Scenario about numbers-colors in a Colombian school or city context.",
+      "statement": "In the art room, Maya mixes blue and yellow paint together. What colour does she get?",
+      "context": "An art class in which the students mix their own paint.",
       "options": [
         {
           "letter": "A",
-          "text": "Structure 1 (Correct)",
-          "is_correct": true,
-          "feedback": "Correct! Well done."
+          "text": "purple",
+          "is_correct": false,
+          "feedback": "Purple is the result of mixing red with blue, so it needs red rather than yellow to appear."
         },
         {
           "letter": "B",
-          "text": "Structure 4",
-          "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "text": "green",
+          "is_correct": true,
+          "feedback": "Blue and yellow are the two colours in this pair, and blended together they produce green, the colour of leaves and grass."
         },
         {
           "letter": "C",
-          "text": "Structure 3",
+          "text": "orange",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "Orange comes from red mixed with yellow, so yellow is right but the other colour in the pair is wrong."
         },
         {
           "letter": "D",
-          "text": "Structure 2",
+          "text": "pink",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "Pink is made by adding a lot of white to red, so neither blue nor yellow belongs in that mix."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "This question evaluates the student's ability to remember the topic of Numbers (1-100) and Colors at an A2 level. It focuses on Colombian contexts and standard A2 grammar.\n\n---",
-      "difficulty": "4",
+      "correct_answer": "B",
+      "explanation": "Colour mixing lets Grade 6 students learn colour words in a meaningful context instead of as an isolated list, which is what the first period's vocabulary work is for. The three distractors are the other mixes students most often confuse at this level, so choosing correctly means holding the whole pair in mind rather than recognising a single word on its own.\n\n---",
+      "difficulty": "3",
       "images": [],
       "tags": [],
       "bloom": "Remember",
-      "icfes_type": "Reading Comprehension",
-      "expected_success": 0.75,
+      "icfes_type": "Lexical Knowledge",
+      "expected_success": 0.8,
       "bundle_id": "CO-ING-6-2026-W05-numbers-colors-001-MASTERY-bundle",
       "periodo": 5,
       "protocol_version": "5.2",
@@ -101,42 +101,42 @@
     },
     {
       "id": "CO-ING-6-2026-W05-numbers-colors-003-v1",
-      "statement": "Identify the appropriate vocabulary for numbers-colors.",
-      "context": "Scenario about numbers-colors in a Colombian school or city context.",
+      "statement": "A snack at the school canteen costs $1.500. How do you say that price in English?",
+      "context": "The price of a snack in the school canteen, written the Colombian way with a point for thousands.",
       "options": [
         {
           "letter": "A",
-          "text": "Word 2",
+          "text": "one hundred and fifty",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "This is the number 150 on its own, and it is still missing the thousand that the leading 1 in $1.500 represents."
         },
         {
           "letter": "B",
-          "text": "Word 1 (Correct)",
-          "is_correct": true,
-          "feedback": "Correct! Well done."
+          "text": "one thousand fifty",
+          "is_correct": false,
+          "feedback": "This would be $1.050, because it places the fifty in the tens and units instead of in the hundreds place that the 5 occupies here."
         },
         {
           "letter": "C",
-          "text": "Word 4",
-          "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "text": "one thousand five hundred",
+          "is_correct": true,
+          "feedback": "The point in $1.500 separates the thousands, so the number is 1.000 (one thousand) plus 500 (five hundred), and both parts are named out loud."
         },
         {
           "letter": "D",
-          "text": "Word 3",
+          "text": "one thousand and five",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "This would be 1.005, because \"and\" introduces the units only; the 5 in $1.500 is worth five hundred, not five."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "This question evaluates the student's ability to understand the topic of Numbers (1-100) and Colors at an A2 level. It focuses on Colombian contexts and standard A2 grammar.\n\n---",
-      "difficulty": "6",
+      "correct_answer": "C",
+      "explanation": "Colombian students read a point as a thousands separator while English uses a comma, so the same written figure has to be re-read in a second way. Handling a real canteen price forces attention to place value rather than to a memorised list, and the same skill carries straight over to the prices and telephone numbers of the later weeks.\n\n---",
+      "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Understand",
-      "icfes_type": "Reading Comprehension",
-      "expected_success": 0.75,
+      "icfes_type": "Lexical Knowledge",
+      "expected_success": 0.78,
       "bundle_id": "CO-ING-6-2026-W05-numbers-colors-001-MASTERY-bundle",
       "periodo": 5,
       "protocol_version": "5.2",
@@ -147,42 +147,42 @@
     },
     {
       "id": "CO-ING-6-2026-W05-numbers-colors-004-v1",
-      "statement": "Complete the sentence about numbers-colors.",
-      "context": "Scenario about numbers-colors in a Colombian school or city context.",
+      "statement": "You want to say that you have 20 pencils. Which sentence is correct?",
+      "context": "A student counting the pencils left in a classroom after class.",
       "options": [
         {
           "letter": "A",
-          "text": "Phrase D",
-          "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "text": "I have twenty pencils.",
+          "is_correct": true,
+          "feedback": "After a number above one the noun takes the plural, and \"twenty\" is already a plural number, so \"twenty pencils\" is the correct pair."
         },
         {
           "letter": "B",
-          "text": "Phrase B",
+          "text": "I have twenty pencil.",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "\"Twenty\" is a plural number, so the noun has to be plural too; English does not keep the noun singular after it."
         },
         {
           "letter": "C",
-          "text": "Phrase A (Correct)",
-          "is_correct": true,
-          "feedback": "Correct! Well done."
+          "text": "I have a pencil.",
+          "is_correct": false,
+          "feedback": "The article \"a\" marks a single item, so this sentence says nothing at all about a number of 20."
         },
         {
           "letter": "D",
-          "text": "Phrase C",
+          "text": "I have pencils twenty.",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "In English the number comes before the noun and the plural -s belongs on the noun, so both the order and the -s are wrong here."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "This question evaluates the student's ability to understand the topic of Numbers (1-100) and Colors at an A2 level. It focuses on Colombian contexts and standard A2 grammar.\n\n---",
-      "difficulty": "6",
+      "correct_answer": "A",
+      "explanation": "Numbers do not travel alone in English: they decide the form of the noun that follows, and Spanish speakers often leave the noun singular because the number already carries the plural idea. Isolating that rule with a classroom object students handle every day keeps the grammar work attached to something concrete instead of abstract.\n\n---",
+      "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Understand",
-      "icfes_type": "Reading Comprehension",
-      "expected_success": 0.75,
+      "icfes_type": "Grammatical Knowledge",
+      "expected_success": 0.76,
       "bundle_id": "CO-ING-6-2026-W05-numbers-colors-001-MASTERY-bundle",
       "periodo": 5,
       "protocol_version": "5.2",
@@ -193,42 +193,42 @@
     },
     {
       "id": "CO-ING-6-2026-W05-numbers-colors-005-v1",
-      "statement": "What is the best way to express numbers-colors?",
-      "context": "Scenario about numbers-colors in a Colombian school or city context.",
+      "statement": "You are at a paint shop and you want the colour of a ripe banana. Which request do you make?",
+      "context": "A student buying paint at a shop in Bogotá.",
       "options": [
         {
           "letter": "A",
-          "text": "Incorrect way",
+          "text": "Do you have a yellow?",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "\"A\" expects a countable noun after it, and a colour word on its own does not complete that phrase in a shop."
         },
         {
           "letter": "B",
-          "text": "This way (Correct)",
-          "is_correct": true,
-          "feedback": "Correct! Well done."
+          "text": "Do you have yellows?",
+          "is_correct": false,
+          "feedback": "The plural -s would ask for several different shades of yellow, which is not what you want when you name one colour."
         },
         {
           "letter": "C",
-          "text": "Other way",
+          "text": "Do you have a yellowing?",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "\"Yellowing\" is a different word that means becoming yellow, so it names a process rather than the colour itself."
         },
         {
           "letter": "D",
-          "text": "That way",
-          "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "text": "Do you have any yellow?",
+          "is_correct": true,
+          "feedback": "Colour words work like uncountable nouns in English, so you ask with \"any\" and leave the colour without an article and without a plural -s."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "This question evaluates the student's ability to apply the topic of Numbers (1-100) and Colors at an A2 level. It focuses on Colombian contexts and standard A2 grammar.\n\n---",
-      "difficulty": "6",
+      "correct_answer": "D",
+      "explanation": "Asking for something in a real shop is the kind of task Grade 6 students are expected to manage by the end of the first period, and colour words behave differently from object nouns in English. Recognising that difference stops a whole class of mistakes at the source, and the same skill is reused in the shopping contexts of the third period.\n\n---",
+      "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Apply",
-      "icfes_type": "Reading Comprehension",
-      "expected_success": 0.75,
+      "icfes_type": "Pragmatic Competence",
+      "expected_success": 0.74,
       "bundle_id": "CO-ING-6-2026-W05-numbers-colors-001-MASTERY-bundle",
       "periodo": 5,
       "protocol_version": "5.2",
@@ -239,42 +239,42 @@
     },
     {
       "id": "CO-ING-6-2026-W05-numbers-colors-006-v1",
-      "statement": "Find the error in this numbers-colors sentence.",
-      "context": "Scenario about numbers-colors in a Colombian school or city context.",
+      "statement": "A course has 30 students. 12 of them are girls. How many boys are in the course?",
+      "context": "Counting the students of one course in a Colombian school.",
       "options": [
         {
           "letter": "A",
-          "text": "Different error",
+          "text": "42",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "This adds 30 and 12 to reach 42, but the two groups together make up only the 30 students, so adding counts one group twice."
         },
         {
           "letter": "B",
-          "text": "No error",
+          "text": "22",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "Subtracting 12 from 30 gives 18, not 22; the 12 has to come off the total before the remainder can be named."
         },
         {
           "letter": "C",
-          "text": "Wrong error",
+          "text": "12",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "12 is the size of the group being removed, so it is the number you take away rather than the number you are left with."
         },
         {
           "letter": "D",
-          "text": "The error is here (Correct)",
+          "text": "18",
           "is_correct": true,
-          "feedback": "Correct! Well done."
+          "feedback": "30 minus 12 gives the 18 students who are not girls, and in this course those 18 are the boys."
         }
       ],
       "correct_answer": "D",
-      "explanation": "This question evaluates the student's ability to apply the topic of Numbers (1-100) and Colors at an A2 level. It focuses on Colombian contexts and standard A2 grammar.\n\n---",
-      "difficulty": "8",
+      "explanation": "Working out how many of a total are left over is the everyday arithmetic that attendance, group work and inventory all require, and this is the first week in which numbers are used to answer a question rather than simply to be read. Framing it in a real class of 30 students makes the operation meaningful and gives the student a reason to check the result.\n\n---",
+      "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Apply",
       "icfes_type": "Reading Comprehension",
-      "expected_success": 0.75,
+      "expected_success": 0.72,
       "bundle_id": "CO-ING-6-2026-W05-numbers-colors-001-MASTERY-bundle",
       "periodo": 5,
       "protocol_version": "5.2",
@@ -285,42 +285,42 @@
     },
     {
       "id": "CO-ING-6-2026-W05-numbers-colors-007-v1",
-      "statement": "Match the term with the definition of numbers-colors.",
-      "context": "Scenario about numbers-colors in a Colombian school or city context.",
+      "statement": "Complete the sentence: \"There are three ________ in the picture: a red one, a blue one and a green one.\"",
+      "context": "Describing the objects in a simple drawing made in class.",
       "options": [
         {
           "letter": "A",
-          "text": "Irrelevant",
+          "text": "ball",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "\"Ball\" is singular, and a singular noun cannot follow the number \"three\", which always requires a plural."
         },
         {
           "letter": "B",
-          "text": "Opposite",
+          "text": "ball's",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "An apostrophe-s shows possession, as in \"the ball's colour\", and it is not the way English forms a plural."
         },
         {
           "letter": "C",
-          "text": "Non-matching",
-          "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "text": "balls",
+          "is_correct": true,
+          "feedback": "After \"three\" English uses a plural noun, and the plural of \"ball\" is \"balls\" with a single -s."
         },
         {
           "letter": "D",
-          "text": "Matching term (Correct)",
-          "is_correct": true,
-          "feedback": "Correct! Well done."
+          "text": "a balls",
+          "is_correct": false,
+          "feedback": "The article \"a\" belongs with a singular noun, and \"three\" already carries the plural information, so the article is not needed."
         }
       ],
-      "correct_answer": "D",
-      "explanation": "This question evaluates the student's ability to apply the topic of Numbers (1-100) and Colors at an A2 level. It focuses on Colombian contexts and standard A2 grammar.\n\n---",
-      "difficulty": "8",
+      "correct_answer": "C",
+      "explanation": "Counting sentences of this shape open the work on plurals that the whole course keeps building on, and the three distractors map onto the three separate errors students make: omitting the plural, using the wrong plural marker and adding an unnecessary article. Each has to be dismissed for its own reason, so the item cannot be answered by pattern alone.\n\n---",
+      "difficulty": "5",
       "images": [],
       "tags": [],
       "bloom": "Apply",
-      "icfes_type": "Reading Comprehension",
-      "expected_success": 0.75,
+      "icfes_type": "Grammatical Knowledge",
+      "expected_success": 0.7,
       "bundle_id": "CO-ING-6-2026-W05-numbers-colors-001-MASTERY-bundle",
       "periodo": 5,
       "protocol_version": "5.2",
@@ -331,42 +331,42 @@
     },
     {
       "id": "CO-ING-6-2026-W05-numbers-colors-008-v1",
-      "statement": "Choose the synonym for a word related to numbers-colors.",
-      "context": "Scenario about numbers-colors in a Colombian school or city context.",
+      "statement": "Forty students were asked for their favourite colour: 15 chose blue, 12 chose green, 8 chose red and 5 chose another colour. Which colour is the most popular?",
+      "context": "A survey of favourite colours carried out by a Grade 6 class.",
       "options": [
         {
           "letter": "A",
-          "text": "Synonym (Correct)",
-          "is_correct": true,
-          "feedback": "Correct! Well done."
+          "text": "green",
+          "is_correct": false,
+          "feedback": "Green came second with 12 students, which is three fewer than the 15 who chose blue."
         },
         {
           "letter": "B",
-          "text": "Homonym",
-          "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "text": "blue",
+          "is_correct": true,
+          "feedback": "Blue was chosen by 15 students, more than green with 12, red with 8 and the other colours with 5."
         },
         {
           "letter": "C",
-          "text": "Antonym",
+          "text": "red",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "Red was chosen by 8 students, which is well under half of the 15 who chose blue."
         },
         {
           "letter": "D",
-          "text": "Unrelated",
+          "text": "another colour",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "The remaining group is the smallest one with 5 students, so it cannot be the most popular choice."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "This question evaluates the student's ability to analyze the topic of Numbers (1-100) and Colors at an A2 level. It focuses on Colombian contexts and standard A2 grammar.\n\n---",
-      "difficulty": "8",
+      "correct_answer": "B",
+      "explanation": "Reading a simple data set and ranking the values is the comprehension move that ICFES-style items reward, and running the survey in the format Grade 6 students actually use in class makes the numbers meaningful. The item also forces a comparison across four values instead of a single lookup, which is the difference between reading a graph and using one.\n\n---",
+      "difficulty": "5",
       "images": [],
       "tags": [],
       "bloom": "Analyze",
       "icfes_type": "Reading Comprehension",
-      "expected_success": 0.75,
+      "expected_success": 0.67,
       "bundle_id": "CO-ING-6-2026-W05-numbers-colors-001-MASTERY-bundle",
       "periodo": 5,
       "protocol_version": "5.2",
@@ -377,42 +377,42 @@
     },
     {
       "id": "CO-ING-6-2026-W05-numbers-colors-009-v1",
-      "statement": "Which of these belongs to numbers-colors?",
-      "context": "Scenario about numbers-colors in a Colombian school or city context.",
+      "statement": "Four students must write in words the numbers 917, 52, 84 and 72. Which student wrote the number name correctly?",
+      "context": "Four students writing number names in words for a class exercise.",
       "options": [
         {
           "letter": "A",
-          "text": "This one (Correct)",
+          "text": "Student 1: \"cincuenta y dos\"",
           "is_correct": true,
-          "feedback": "Correct! Well done."
+          "feedback": "\"Cincuenta\" is 50 and \"dos\" is 2, so this name is written correctly for the number 52 the student was asked for."
         },
         {
           "letter": "B",
-          "text": "Both",
+          "text": "Student 2: \"nineteen diez y siete\"",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "For 917 the hundreds name has to come first, so the correct name is \"novecientos diecisiete\"; this one places the hundreds digit at the end."
         },
         {
           "letter": "C",
-          "text": "Not this one",
+          "text": "Student 3: \"setenta y dos\"",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "\"Setenta\" is 70 and \"dos\" is 2, so this name is written correctly for the number 72 the student was asked for."
         },
         {
           "letter": "D",
-          "text": "Neither",
+          "text": "Student 4: \"ochenta y cuatro\"",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "\"Ochenta\" is 80 and \"cuatro\" is 4, so this name is written correctly for the number 84 the student was asked for."
         }
       ],
       "correct_answer": "A",
-      "explanation": "This question evaluates the student's ability to analyze the topic of Numbers (1-100) and Colors at an A2 level. It focuses on Colombian contexts and standard A2 grammar.\n\n---",
-      "difficulty": "10",
+      "explanation": "Writing numbers in words is where the structure of a number becomes visible, and errors in the hundreds place survive for years if nobody checks them. Analysing four written names and isolating the single faulty one forces the student to hold the place-value structure of a number in mind, which is the same structure the telling-time and how-many weeks depend on.\n\n---",
+      "difficulty": "5",
       "images": [],
       "tags": [],
       "bloom": "Analyze",
-      "icfes_type": "Reading Comprehension",
-      "expected_success": 0.75,
+      "icfes_type": "Lexical Knowledge",
+      "expected_success": 0.64,
       "bundle_id": "CO-ING-6-2026-W05-numbers-colors-001-MASTERY-bundle",
       "periodo": 5,
       "protocol_version": "5.2",
@@ -423,42 +423,42 @@
     },
     {
       "id": "CO-ING-6-2026-W05-numbers-colors-010-v1",
-      "statement": "Predict the next word in the numbers-colors context.",
-      "context": "Scenario about numbers-colors in a Colombian school or city context.",
+      "statement": "You need 8 notebooks for the term. The shop sells packs of 3 and packs of 5. Which combination should you buy to have enough and waste the least?",
+      "context": "Deciding how many packs of notebooks to buy for a school term.",
       "options": [
         {
           "letter": "A",
-          "text": "Wrong prediction",
+          "text": "three packs of 3",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "Three packs of 3 give 9 notebooks, one more than the 8 you need, so you pay for a notebook you will never use."
         },
         {
           "letter": "B",
-          "text": "Correct prediction",
-          "is_correct": true,
-          "feedback": "Correct! Well done."
+          "text": "one pack of 5",
+          "is_correct": false,
+          "feedback": "A single pack of 5 covers only 5 of the 8 notebooks you need, so you would still be 3 short."
         },
         {
           "letter": "C",
-          "text": "Maybe",
-          "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "text": "one pack of 3 and one pack of 5",
+          "is_correct": true,
+          "feedback": "One pack of 3 plus one pack of 5 is 3 + 5 = 8, which is exactly the number of notebooks you need with nothing left over."
         },
         {
           "letter": "D",
-          "text": "Impossible",
+          "text": "two packs of 5",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "Two packs of 5 give 10 notebooks, two more than you need, so you pay for two notebooks you will never use."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "This question evaluates the student's ability to evaluate the topic of Numbers (1-100) and Colors at an A2 level. It focuses on Colombian contexts and standard A2 grammar.\n\n---",
-      "difficulty": "10",
+      "correct_answer": "C",
+      "explanation": "Choosing a quantity that reaches a target exactly is a genuine decision rather than a calculation performed on demand, and it asks the student to judge which of four workable answers is the best one. That reasoning is what separates a student who can do sums from one who can decide with a sum, and it uses only the number range covered in this week.\n\n---",
+      "difficulty": "5",
       "images": [],
       "tags": [],
       "bloom": "Evaluate",
-      "icfes_type": "Reading Comprehension",
-      "expected_success": 0.75,
+      "icfes_type": "Pragmatic Competence",
+      "expected_success": 0.6,
       "bundle_id": "CO-ING-6-2026-W05-numbers-colors-001-MASTERY-bundle",
       "periodo": 5,
       "protocol_version": "5.2",

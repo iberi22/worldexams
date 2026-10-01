@@ -16,25 +16,25 @@
           "letter": "C",
           "text": "accommodation",
           "is_correct": true,
-          "feedback": "Correct! 'accommodation' matches the definition."
+          "feedback": "'accommodation' is the word for a place where you live or stay, including on holiday."
         },
         {
           "letter": "A",
           "text": "transportation",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "'transportation' means the way you travel, such as buses or planes, not where you stay."
         },
         {
           "letter": "B",
           "text": "entertainment",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "'entertainment' is the activity of enjoying shows, films or games, not a place to live."
         },
         {
           "letter": "D",
           "text": "currency",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "'currency' is the money of a country, such as the colon; a place to stay is not money."
         }
       ],
       "correct_answer": "C",
@@ -61,25 +61,25 @@
           "letter": "B",
           "text": "itinerary",
           "is_correct": true,
-          "feedback": "Correct! 'itinerary' matches the definition."
+          "feedback": "'itinerary' is a detailed plan of a journey, listing the route and the stops along the way."
         },
         {
           "letter": "A",
           "text": "baggage",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "'baggage' is the suitcases and bags you travel with, not the plan of the trip."
         },
         {
           "letter": "C",
           "text": "destination",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "'destination' is only the place you are going to; the plan of the route is the itinerary."
         },
         {
           "letter": "D",
           "text": "passport",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "'passport' is the travel document you show at the border, not the plan of a journey."
         }
       ],
       "correct_answer": "B",
@@ -106,25 +106,25 @@
           "letter": "A",
           "text": "destination",
           "is_correct": true,
-          "feedback": "Correct! 'destination' matches the definition."
+          "feedback": "'destination' names the place a person or thing is going or being sent to."
         },
         {
           "letter": "B",
           "text": "departure",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "'departure' is the action of leaving, not the place you leave for."
         },
         {
           "letter": "C",
           "text": "arrival",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "'arrival' is the moment of reaching a place, not the place itself."
         },
         {
           "letter": "D",
           "text": "journey",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "'journey' is the whole trip from one place to another, not the place at the end of it."
         }
       ],
       "correct_answer": "A",
@@ -151,25 +151,25 @@
           "letter": "A",
           "text": "luggage",
           "is_correct": true,
-          "feedback": "Correct! 'luggage' matches the definition."
+          "feedback": "'luggage' is the collective word for the suitcases and bags you pack for a trip."
         },
         {
           "letter": "B",
           "text": "ticket",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "'ticket' is the document you buy that admits you to the journey."
         },
         {
           "letter": "C",
           "text": "flight",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "'flight' is the plane or the scheduled trip itself, not the bags you carry."
         },
         {
           "letter": "D",
           "text": "reservation",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "'reservation' is the booking you hold for a seat or a room."
         }
       ],
       "correct_answer": "A",
@@ -196,25 +196,25 @@
           "letter": "A",
           "text": "passenger",
           "is_correct": true,
-          "feedback": "Correct! 'passenger' matches the definition."
+          "feedback": "'passenger' is anyone travelling on a vehicle who is not the driver, the pilot or the crew."
         },
         {
           "letter": "B",
           "text": "pedestrian",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "'pedestrian' is a person who travels on foot, not on a bus, a train or a plane."
         },
         {
           "letter": "C",
           "text": "commuter",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "'commuter' is someone who travels regularly between home and work, a narrower idea than passenger."
         },
         {
           "letter": "D",
           "text": "tourist",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "'tourist' is defined by travelling for pleasure and may also be the driver of a rented car; 'passenger' covers every rider who is not crew."
         }
       ],
       "correct_answer": "A",
@@ -241,25 +241,25 @@
           "letter": "D",
           "text": "customs",
           "is_correct": true,
-          "feedback": "Correct! 'customs' matches the definition."
+          "feedback": "'customs' is the office where officials check the goods, the luggage and the travellers entering a country."
         },
         {
           "letter": "A",
           "text": "security",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "'security' refers to the staff and the measures that keep the airport safe, not to the goods check."
         },
         {
           "letter": "B",
           "text": "terminal",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "'terminal' is the building where you wait for and board your flight."
         },
         {
           "letter": "C",
           "text": "gate",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "'gate' is the door you board the plane through, not the place where officials check luggage."
         }
       ],
       "correct_answer": "D",
@@ -286,25 +286,25 @@
           "letter": "C",
           "text": "boarding pass",
           "is_correct": true,
-          "feedback": "Correct! 'boarding pass' matches the definition."
+          "feedback": "'boarding pass' is the slip the airline hands over at check-in that lets you board the plane."
         },
         {
           "letter": "A",
           "text": "visa",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "'visa' is the official permission to enter and stay in a foreign country."
         },
         {
           "letter": "B",
           "text": "receipt",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "'receipt' is the proof of payment for the ticket, not the document that lets you board."
         },
         {
           "letter": "D",
           "text": "brochure",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "'brochure' is a small booklet with tourist information, not a travel document."
         }
       ],
       "correct_answer": "C",
@@ -331,25 +331,25 @@
           "letter": "C",
           "text": "sightseeing",
           "is_correct": true,
-          "feedback": "Correct! 'sightseeing' matches the definition."
+          "feedback": "'sightseeing' is visiting the places of interest of a location in order to look at them."
         },
         {
           "letter": "A",
           "text": "shopping",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "'shopping' is buying things, which is a different activity from visiting sights."
         },
         {
           "letter": "B",
           "text": "hiking",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "'hiking' is walking in the countryside along a trail, usually for exercise."
         },
         {
           "letter": "D",
           "text": "camping",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "'camping' means spending the night outdoors in a tent."
         }
       ],
       "correct_answer": "C",
@@ -376,25 +376,25 @@
           "letter": "B",
           "text": "souvenir",
           "is_correct": true,
-          "feedback": "Correct! 'souvenir' matches the definition."
+          "feedback": "'souvenir' is an object kept because it reminds you of a person, a place or an event."
         },
         {
           "letter": "A",
           "text": "gift",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "'gift' is anything given to someone else; a souvenir is kept by the buyer as a reminder."
         },
         {
           "letter": "C",
           "text": "award",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "'award' is a distinction given for a merit or an achievement."
         },
         {
           "letter": "D",
           "text": "prize",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "'prize' is what is won in a competition, not an object bought to remember a trip."
         }
       ],
       "correct_answer": "B",
@@ -421,25 +421,25 @@
           "letter": "C",
           "text": "delay",
           "is_correct": true,
-          "feedback": "Correct! 'delay' matches the definition."
+          "feedback": "'delay' is the extra period of time by which something becomes late or is postponed."
         },
         {
           "letter": "A",
           "text": "cancellation",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "'cancellation' ends the booking or the trip altogether rather than pushing it back."
         },
         {
           "letter": "B",
           "text": "departure",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "'departure' is the time a vehicle is scheduled to leave, not a postponement."
         },
         {
           "letter": "D",
           "text": "arrival",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "'arrival' is the moment you reach the destination, not the waiting time."
         }
       ],
       "correct_answer": "C",
@@ -466,25 +466,25 @@
           "letter": "A",
           "text": "check-in",
           "is_correct": true,
-          "feedback": "Correct! 'check-in' matches the definition."
+          "feedback": "'check-in' is reporting your presence at the airport or the hotel and registering."
         },
         {
           "letter": "B",
           "text": "check-out",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "'check-out' is the opposite moment: leaving the hotel and settling the bill."
         },
         {
           "letter": "C",
           "text": "booking",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "'booking' is reserving the room or the seat in advance, which happens before you arrive."
         },
         {
           "letter": "D",
           "text": "reservation",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "'reservation' is the record of that booking, not the act of reporting your presence."
         }
       ],
       "correct_answer": "A",
@@ -511,25 +511,25 @@
           "letter": "C",
           "text": "layover",
           "is_correct": true,
-          "feedback": "Correct! 'layover' matches the definition."
+          "feedback": "'layover' is the rest or the waiting period between two stages of a journey."
         },
         {
           "letter": "A",
           "text": "stopover",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "'stopover' is a break in a journey during which you leave the vehicle, often overnight."
         },
         {
           "letter": "B",
           "text": "transfer",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "'transfer' is the change from one vehicle or flight to another, the act rather than the waiting time."
         },
         {
           "letter": "D",
           "text": "transit",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "'transit' means passage through a place or the system that carries people, not the pause itself."
         }
       ],
       "correct_answer": "C",
@@ -556,25 +556,25 @@
           "letter": "A",
           "text": "currency",
           "is_correct": true,
-          "feedback": "Correct! 'currency' matches the definition."
+          "feedback": "'currency' is the whole money system in general use in a particular country."
         },
         {
           "letter": "B",
           "text": "coin",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "'coin' is a single round piece of metal money, only one part of a currency."
         },
         {
           "letter": "C",
           "text": "banknote",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "'banknote' is a paper note, again only one part of a country's money system."
         },
         {
           "letter": "D",
           "text": "cash",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "'cash' is money in coins and notes seen as a form of payment, not the system a country has."
         }
       ],
       "correct_answer": "A",
@@ -601,25 +601,25 @@
           "letter": "C",
           "text": "guidebook",
           "is_correct": true,
-          "feedback": "Correct! 'guidebook' matches the definition."
+          "feedback": "'guidebook' is a book of information about a place written for the use of visitors."
         },
         {
           "letter": "A",
           "text": "map",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "'map' is a drawing of the area, not a book of information."
         },
         {
           "letter": "B",
           "text": "dictionary",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "'dictionary' explains the words of a language, not the places of a region."
         },
         {
           "letter": "D",
           "text": "encyclopedia",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "'encyclopedia' covers all branches of knowledge, not one destination for tourists."
         }
       ],
       "correct_answer": "C",
@@ -646,25 +646,25 @@
           "letter": "B",
           "text": "backpack",
           "is_correct": true,
-          "feedback": "Correct! 'backpack' matches the definition."
+          "feedback": "'backpack' has shoulder straps and is carried on the back."
         },
         {
           "letter": "A",
           "text": "suitcase",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "'suitcase' is a case with a handle that is pulled along, not one worn on the back."
         },
         {
           "letter": "C",
           "text": "briefcase",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "'briefcase' is a flat case for documents that you carry by hand at work."
         },
         {
           "letter": "D",
           "text": "handbag",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "'handbag' is a small bag held in the hand, usually for personal items."
         }
       ],
       "correct_answer": "B",
@@ -691,25 +691,25 @@
           "letter": "D",
           "text": "overseas",
           "is_correct": true,
-          "feedback": "Correct! 'overseas' matches the definition."
+          "feedback": "'overseas' means in or to a foreign country, especially one across the sea."
         },
         {
           "letter": "A",
           "text": "domestic",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "'domestic' means inside the same country, which is the opposite of overseas."
         },
         {
           "letter": "B",
           "text": "local",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "'local' means belonging to a small area nearby, not to a foreign country."
         },
         {
           "letter": "C",
           "text": "national",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "'national' means concerning the whole nation and says nothing about being abroad."
         }
       ],
       "correct_answer": "D",
@@ -736,25 +736,25 @@
           "letter": "C",
           "text": "budget",
           "is_correct": true,
-          "feedback": "Correct! 'budget' matches the definition."
+          "feedback": "'budget' is an estimate of income and expenditure planned for a set period."
         },
         {
           "letter": "A",
           "text": "expense",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "'expense' is a single amount of money that is spent, not the plan for a whole period."
         },
         {
           "letter": "B",
           "text": "cost",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "'cost' is what one item or one service costs, again not an estimate for a period."
         },
         {
           "letter": "D",
           "text": "price",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "'price' is the sum a customer pays for one product; a budget covers income and spending together."
         }
       ],
       "correct_answer": "C",
@@ -781,25 +781,25 @@
           "letter": "C",
           "text": "insurance",
           "is_correct": true,
-          "feedback": "Correct! 'insurance' matches the definition."
+          "feedback": "'insurance' is the arrangement in which a company pays compensation for a loss in exchange for a premium."
         },
         {
           "letter": "A",
           "text": "warranty",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "'warranty' is the maker's promise to repair or replace a faulty product, normally free of charge."
         },
         {
           "letter": "B",
           "text": "guarantee",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "'guarantee' is a general promise of quality and does not involve paying a premium."
         },
         {
           "letter": "D",
           "text": "policy",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "'policy' is the written document that states what an insurance contract covers."
         }
       ],
       "correct_answer": "C",
@@ -826,25 +826,25 @@
           "letter": "A",
           "text": "vaccination",
           "is_correct": true,
-          "feedback": "Correct! 'vaccination' matches the definition."
+          "feedback": "'vaccination' is the treatment with a vaccine that makes the body immune to a disease."
         },
         {
           "letter": "B",
           "text": "medication",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "'medication' is a drug taken to treat an illness, not to prevent one."
         },
         {
           "letter": "C",
           "text": "prescription",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "'prescription' is the written order that authorises a medicine, not the treatment itself."
         },
         {
           "letter": "D",
           "text": "infection",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "'infection' is the disease itself, the opposite of the protection a vaccination gives."
         }
       ],
       "correct_answer": "A",
@@ -871,25 +871,25 @@
           "letter": "A",
           "text": "jet lag",
           "is_correct": true,
-          "feedback": "Correct! 'jet lag' matches the definition."
+          "feedback": "'jet lag' is the tiredness and the disturbed sleep caused by crossing several time zones on a flight."
         },
         {
           "letter": "B",
           "text": "fatigue",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "'fatigue' is tiredness that can come from any long effort, not specifically from a flight."
         },
         {
           "letter": "C",
           "text": "exhaustion",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "'exhaustion' is the extreme form of tiredness after hard work or a lack of sleep."
         },
         {
           "letter": "D",
           "text": "insomnia",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "'insomnia' is the inability to fall asleep, which has many causes besides travel."
         }
       ],
       "correct_answer": "A",

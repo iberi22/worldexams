@@ -691,7 +691,7 @@
           "letter": "A",
           "text": "La integral de una suma de funciones es la suma de sus integrales.",
           "is_correct": false,
-          "feedback": "Propiedad verdadera de linealidad."
+          "feedback": "Sí es verdadera: la integral de una suma es la suma de las integrales, es la propiedad de linealidad, que por eso no es la afirmación falsa."
         },
         {
           "letter": "B",
@@ -703,7 +703,7 @@
           "letter": "C",
           "text": "Las constantes multiplicativas pueden salir fuera del símbolo de la integral.",
           "is_correct": false,
-          "feedback": "Propiedad verdadera de linealidad."
+          "feedback": "Sí es verdadera: si c es una constante, ∫c·f = c·∫f. Es la propiedad de constante multiplicativa, no la afirmación falsa."
         },
         {
           "letter": "D",

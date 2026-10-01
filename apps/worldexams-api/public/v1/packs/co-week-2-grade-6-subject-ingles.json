@@ -16,25 +16,25 @@
           "letter": "A",
           "text": "I'm fine, thank you.",
           "is_correct": true,
-          "feedback": "Correct! Well done."
+          "feedback": "Correct! 'How are you?' asks how you feel, and 'I'm fine, thank you' reports the feeling and adds a polite 'thank you'."
         },
         {
           "letter": "B",
           "text": "I'm from Bogota.",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "'I'm from Bogota' answers 'Where are you from?', so it gives an origin instead of a feeling."
         },
         {
           "letter": "C",
           "text": "My name is Carlos.",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "'My name is Carlos' answers 'What is your name?', which is a different question from asking how you feel."
         },
         {
           "letter": "D",
           "text": "I am 12 years old.",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "'I am 12 years old' gives your age, so it answers 'How old are you?' and not 'How are you?'."
         }
       ],
       "correct_answer": "A",
@@ -62,25 +62,25 @@
           "letter": "A",
           "text": "Nice to meet you.",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "'Nice to meet you' is said at a first introduction, not when you are leaving."
         },
         {
           "letter": "B",
           "text": "Have a nice day.",
           "is_correct": true,
-          "feedback": "Correct! Well done."
+          "feedback": "Correct! 'Have a nice day' is a polite farewell that you use with people you do not know well."
         },
         {
           "letter": "C",
           "text": "Good evening.",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "'Good evening' is a greeting used on arrival, so it opens the conversation instead of closing it."
         },
         {
           "letter": "D",
           "text": "What's up?",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "'What's up?' is an informal question between close friends, far too casual to be a formal goodbye."
         }
       ],
       "correct_answer": "B",
@@ -108,25 +108,25 @@
           "letter": "A",
           "text": "my",
           "is_correct": true,
-          "feedback": "Correct! Well done."
+          "feedback": "Correct! 'My' is the possessive adjective, and a possessive adjective goes directly before the noun 'name'."
         },
         {
           "letter": "B",
           "text": "I",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "'I' is a subject pronoun and it cannot modify the noun 'name' the way a possessive adjective does."
         },
         {
           "letter": "C",
           "text": "me",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "'me' is the object form used after a preposition or a verb, as in 'call me'; before a noun you need 'my'."
         },
         {
           "letter": "D",
           "text": "your",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "'your' points at the person you are speaking to, but Maria is introducing herself, so it must be 'my'."
         }
       ],
       "correct_answer": "A",
@@ -154,25 +154,25 @@
           "letter": "A",
           "text": "See you later.",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "'See you later' is a goodbye that assumes you already know the person."
         },
         {
           "letter": "B",
           "text": "Nice to meet you.",
           "is_correct": true,
-          "feedback": "Correct! Well done."
+          "feedback": "Correct! 'Nice to meet you' is the standard phrase for a first introduction, and the reply is 'Nice to meet you, too'."
         },
         {
           "letter": "C",
           "text": "Welcome.",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "'Welcome' is said when someone arrives at your home or your school, not at a first meeting."
         },
         {
           "letter": "D",
           "text": "Good night.",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "'Good night' is what you say before sleeping, so it has nothing to do with meeting someone."
         }
       ],
       "correct_answer": "B",
@@ -200,25 +200,25 @@
           "letter": "A",
           "text": "At midnight.",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "Midnight is the start of the night, so you say 'Good night' and never 'Good morning'."
         },
         {
           "letter": "B",
           "text": "At 8:00 AM.",
           "is_correct": true,
-          "feedback": "Correct! Well done."
+          "feedback": "Correct! 'Good morning' is used in the morning, and 8:00 AM is in the morning."
         },
         {
           "letter": "C",
           "text": "At 8:00 PM.",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "8:00 PM is at night, when you say 'Good evening' or 'Good night' and not 'Good morning'."
         },
         {
           "letter": "D",
           "text": "In the afternoon.",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "The afternoon is the time of 'Good afternoon'; 'Good morning' ends at midday."
         }
       ],
       "correct_answer": "B",
@@ -246,25 +246,25 @@
           "letter": "A",
           "text": "I'm from Medellin.",
           "is_correct": true,
-          "feedback": "Correct! Well done."
+          "feedback": "Correct! The question asks for a place of origin, and 'I'm from Medellin' names a city, so the pair matches."
         },
         {
           "letter": "B",
           "text": "I'm a student.",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "'I'm a student' tells what you do, not the place you come from."
         },
         {
           "letter": "C",
           "text": "I'm happy.",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "'I'm happy' tells how you feel, so it answers 'How are you?' instead of a question about origin."
         },
         {
           "letter": "D",
           "text": "I'm 11.",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "'I'm 11' gives your age, which answers 'How old are you?' and not a question about where you come from."
         }
       ],
       "correct_answer": "A",
@@ -292,25 +292,25 @@
           "letter": "A",
           "text": "Hi there.",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "'Hi' is casual and 'there' is not a title, so the greeting stays informal."
         },
         {
           "letter": "B",
           "text": "Good afternoon, sir.",
           "is_correct": true,
-          "feedback": "Correct! Well done."
+          "feedback": "Correct! 'Good afternoon, sir' adds the polite title 'sir', and that title is what makes the greeting formal."
         },
         {
           "letter": "C",
           "text": "What's going on?",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "'What's going on?' is an informal question between friends and carries no polite title."
         },
         {
           "letter": "D",
           "text": "Hey!",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "'Hey' is a very informal word used with close friends, never with someone you must treat formally."
         }
       ],
       "correct_answer": "B",
@@ -338,25 +338,25 @@
           "letter": "A",
           "text": "How old",
           "is_correct": true,
-          "feedback": "Correct! Well done."
+          "feedback": "Correct! 'How old' is the only form that can be followed by the answer 'I am ten years old'."
         },
         {
           "letter": "B",
           "text": "How",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "'How' asks about a manner, a state or a way; an age needs the adjective 'old' after it."
         },
         {
           "letter": "C",
           "text": "What",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "'What' asks for a thing or a name, so 'I am ten years old' would not answer it."
         },
         {
           "letter": "D",
           "text": "Who",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "'Who' asks for a person, so it would need an answer like 'I am Maria' and not an age."
         }
       ],
       "correct_answer": "A",
@@ -384,25 +384,25 @@
           "letter": "A",
           "text": "Hello.",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "'Hello' is a greeting that opens a conversation, but it does not answer an introduction."
         },
         {
           "letter": "B",
           "text": "I am fine.",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "'I am fine' answers 'How are you?', not a greeting of introduction."
         },
         {
           "letter": "C",
           "text": "You're welcome.",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "'You're welcome' is the answer to 'Thank you', so it belongs to a different exchange."
         },
         {
           "letter": "D",
           "text": "Nice to meet you, too.",
           "is_correct": true,
-          "feedback": "Correct! Well done."
+          "feedback": "Correct! The standard reply to 'Nice to meet you' is 'Nice to meet you, too', which returns the same phrase."
         }
       ],
       "correct_answer": "D",
@@ -430,25 +430,25 @@
           "letter": "A",
           "text": "What is your name?",
           "is_correct": true,
-          "feedback": "Correct! Well done."
+          "feedback": "Correct! 'What is your name?' uses the polite question word and the full verb form, which is what makes it a polite request."
         },
         {
           "letter": "B",
           "text": "Who are you?",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "'Who are you?' sounds blunt and can even sound accusing, so it is not the polite form."
         },
         {
           "letter": "C",
           "text": "Give me your name.",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "'Give me your name' is a command, and a command is not a polite way to ask."
         },
         {
           "letter": "D",
           "text": "Name?",
           "is_correct": false,
-          "feedback": "Incorrect. Please review the topic."
+          "feedback": "'Name?' is a single word with no verb, which makes it very informal and can sound rude."
         }
       ],
       "correct_answer": "A",

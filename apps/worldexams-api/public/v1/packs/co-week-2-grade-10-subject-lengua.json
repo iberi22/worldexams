@@ -1,0 +1,563 @@
+{
+  "metadata": {
+    "grade": 10,
+    "subject": "lengua",
+    "country": "co",
+    "pack_id": "co-week-2-grade-10-subject-lengua",
+    "generated_at": "2026-10-01T05:46:38.994Z"
+  },
+  "questions": [
+    {
+      "id": "CO-LEN-10-2026-W02-la-novela-y-su-estructura-001-MASTERY-bundle-v1",
+      "statement": "¿Qué rasgo del texto descrito corresponde al género novela?",
+      "context": "En una lectura de Cartagena, un grupo de grado décimo describe una obra de doscientas páginas dividida en capítulos, con varios personajes y una trama que cubre diez años de la vida de una familia.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La extensión amplia, con varios personajes y una trama sostenida a lo largo de capítulos.",
+          "is_correct": true,
+          "feedback": "Correcto. La \"extensión amplia\" y la trama sostenida en capítulos definen la novela, porque ese es el rasgo que la separa de los géneros breves."
+        },
+        {
+          "letter": "B",
+          "text": "La presencia de una moraleja explícita al final de cada capítulo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La \"moraleja explícita\" es propia de la fábula, porque la novela desarrolla la trama sin cerrar cada capítulo con una enseñanza."
+        },
+        {
+          "letter": "C",
+          "text": "El uso exclusivo de animales con rasgos humanos como protagonistas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La \"animalización\" de personajes es un rasgo de la fábula, porque la novela usa personas reales o inventadas como protagonistas."
+        },
+        {
+          "letter": "D",
+          "text": "La HIPAA lyrical del relato en verso, con rima y métrica regular.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El \"verso\" con rima y métrica pertenece al género lírico, porque la novela se escribe en prosa y no en poesía."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La novela se define por su extensión y por la construcción sostenida de una trama con varios personajes. Su arquitectura permite desarrollar conflictos complejos a lo largo de capítulos sucesivos. Reconocer esos rasgos evita confundirla con géneros breves como el cuento o la fábula.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Textual",
+      "expected_success": 0.9,
+      "bundle_id": "CO-LEN-10-2026-W02-la-novela-y-su-estructura-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-10-2026-W02-la-novela-y-su-estructura-001-MASTERY-bundle-v2",
+      "statement": "¿Qué propiedad del narrador se identifica en ese fragmento?",
+      "context": "Una novela de la región bumanguuesa presenta, en el primer capítulo, a un narrador que ya sabe lo que ocurrerá diez años después.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La objetividad, porque se limita a describir hechos sin añadir información.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La \"objetividad\" limita al narrador a hechos observables, porque saber lo que ocurrerá diez años después excede esa restricción."
+        },
+        {
+          "letter": "B",
+          "text": "La segunda persona, porque se dirige al lector con la palabra tú.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La \"segunda persona\" emplea \"tú\" y \"usted\", porque el fragmento describe al narrador desde su posición, no desde la del lector."
+        },
+        {
+          "letter": "C",
+          "text": "La omnisciencia, porque conoce hechos futuros y la vida interior de los personajes.",
+          "is_correct": true,
+          "feedback": "Correcto. Conocer el futuro y la vida interior corresponde al narrador \"omnisciente\", porque domina la información total de la obra."
+        },
+        {
+          "letter": "D",
+          "text": "El manejo del tiempo físico al tiempo narrativo, porque cuenta los hechos uno a uno.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese manejo del \"tiempo narrativo\" corresponde al narrador lineal, porque el elemento clave es el conocimiento del futuro."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El narrador omnisciente es aquel que conoce más que sus personajes y que el lector. Puede anticipar hechos y acceder a la conciencia de varios personajes. Esa propiedad define la voz narrativa y condiciona lo que el lector puede esperar de la obra.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Semantico",
+      "expected_success": 0.88,
+      "bundle_id": "CO-LEN-10-2026-W02-la-novela-y-su-estructura-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-10-2026-W02-la-novela-y-su-estructura-001-MASTERY-bundle-v3",
+      "statement": "Según el contexto, ¿qué condición hace que una novela pueda clasificarse como histórica?",
+      "context": "En un colegio de Bogotá, la biblioteca de grado décimo exhibe una obra de Ricardo Gulli junto a un texto histórico sobre la Colombia del siglo XIX.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que el autor haya nacido en el siglo pasado, porque solo entonces puede contarlo con rigor.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La condición no es la \"fecha de nacimiento\" del autor, porque lo definitorio es que la trama reconstruya un pasado documentado."
+        },
+        {
+          "letter": "B",
+          "text": "Que la trama se ubique en un pasado lejano y use datos documentales para reconstruirlo.",
+          "is_correct": true,
+          "feedback": "Correcto. Ser \"histórica\" implica situar la trama en un pasado lejano y respaldarla con datos documentales que lo reconstruyen."
+        },
+        {
+          "letter": "C",
+          "text": "Que esté escrita en pasado, porque cualquier uso del pretérito la convierte en histórica.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El \"pretérito\" aparece en cualquier narración, porque lo que define una novela histórica es la reconstrucción documental de una época."
+        },
+        {
+          "letter": "D",
+          "text": "Que incluya batallas como la de Waterloo, porque toda novela histórica narra combates.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Incluir \"batallas\" no es un criterio definitorio, porque una novela histórica puede tratar una época sin ningún combate."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La novela histórica reconstruye un período pasado con apoyo en fuentes documentales. El criterio es de contenido y de anclaje histórico, no de estilo, de autor ni de tema narrativo. Saber evalúa esta distinción con obras concretas del plan de lectura.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Critico-Intertextual",
+      "expected_success": 0.86,
+      "bundle_id": "CO-LEN-10-2026-W02-la-novela-y-su-estructura-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-10-2026-W02-la-novela-y-su-estructura-001-MASTERY-bundle-v4",
+      "statement": "Según el enunciado, ¿qué relación se establece entre el tiempo de los hechos y el tiempo de la narración?",
+      "context": "En Pereira, una novelista describe un hecho ocurrido en 1932, pero lo cuenta desde el punto de vista de una testigo que ya tiene ochenta años en el momento de la narración.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El tiempo de la narración es simultáneo a los hechos, porque la testigo narra lo que ocurre en ese momento.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La \"simultaneidad\" es imposible, porque si la narración fuera de 1932 la testigo tendría la edad que tenía en ese año."
+        },
+        {
+          "letter": "B",
+          "text": "El tiempo de la narración es anterior a los hechos, porque la testigo anticipa lo que ocurrirá.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ningún narrador cuenta desde el pasado hechos que \"aún no ocurren\", porque ese adelanto violaría la lógica temporal de la narración."
+        },
+        {
+          "letter": "C",
+          "text": "No hay relación entre ambos tiempos, porque cada uno se mide con una unidad distinta.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los dos tiempos se miden con la \"misma unidad\", porque mantienen una relación de posterioridad y no son independientes."
+        },
+        {
+          "letter": "D",
+          "text": "El tiempo de la narración es posterior al tiempo de los hechos, con un desfase de varios décadas.",
+          "is_correct": true,
+          "feedback": "Correcto. Hay un \"desfase\" entre ambos tiempos, porque los hechos ocurren en 1932 y la testigo narra cuando ya tiene ochenta años."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "La novela distingue entre el tiempo en que ocurren los hechos y el tiempo en que se narran. Cuando hay distancia entre ambos aparece un desfase que puede generar ironía, recuerdo o contraste. Reconocer esa relación temporal es esencial para interpretar la voz narrativa.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Discursivo",
+      "expected_success": 0.82,
+      "bundle_id": "CO-LEN-10-2026-W02-la-novela-y-su-estructura-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-10-2026-W02-la-novela-y-su-estructura-001-MASTERY-bundle-v5",
+      "statement": "¿Qué consecuencia tiene para la investigación del lector esa restricción del narrador?",
+      "context": "Un grupo de Barranquilla trabaja con una novela policial en la que el narrador describe solo lo que ven y oyen los personajes, sin comentar sus pensamientos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El lector conoce menos información que los personajes y debe inferir el crimen a partir de datos observables.",
+          "is_correct": true,
+          "feedback": "Correcto. Al limitarse a hechos observables, el narrador hace que el lector tenga \"menos información\", porque debe inferir el crimen a partir de los datos que sí entrega."
+        },
+        {
+          "letter": "B",
+          "text": "El lector conoce todo desde el inicio, porque el narrador objetivo anticipa el desenlace.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El \"narrador objetivo\" no anticipa nada, porque si el lector supiera el desenlace desde el inicio no habría investigación que hacer."
+        },
+        {
+          "letter": "C",
+          "text": "El lector sigue el mismo ritmo que el detective, porque la información se entrega de forma ordenada.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese orden en la entrega de datos es propio del narrador omnisciente, porque el objetivo no garantiza secuencia ordenada."
+        },
+        {
+          "letter": "D",
+          "text": "La investigación se vuelve imposible, porque sin pensamientos no hay pistas ni razonamiento.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los datos observables siguen siendo \"pistas válidas\", porque la restricción no elimina el razonamiento sino que desplaza el peso de la evidencia."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El narrador objetivo restringe la información a hechos verificables por los sentidos. En la novela policial esto genera tensión, porque el lector dispone de menos datos que el investigador. Esa limitación es deliberada y forma parte de la estrategia del género.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Discursivo",
+      "expected_success": 0.8,
+      "bundle_id": "CO-LEN-10-2026-W02-la-novela-y-su-estructura-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-10-2026-W02-la-novela-y-su-estructura-001-MASTERY-bundle-v6",
+      "statement": "¿A qué recurso de la estructura novelística corresponde esa apertura de capítulo?",
+      "context": "Una novela de José María Vargas Vila que se lee en grado décimo abre cada uno de sus treinta capítulos con un fragmento breve que resume lo que viene después.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "A un epílogo, porque al final de la obra se resume lo ocurrido en los capítulos previos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El \"epílogo\" cierra la obra después del desenlace, porque el recurso descrito aparece al inicio de cada capítulo y no al final."
+        },
+        {
+          "letter": "B",
+          "text": "A una digresión, porque el narrador se aparta del asunto central para distraer al lector.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Una \"digresión\" se aparta del tema central, porque el fragmento adelantado pertenece directamente a la trama del capítulo."
+        },
+        {
+          "letter": "C",
+          "text": "Al uso de un adelanto que anticipa el contenido del capítulo, es decir, una anticipación.",
+          "is_correct": true,
+          "feedback": "Correcto. Abrir cada capítulo con un adelanto de lo que ocurre después es una \"anticipación\", recurso habitual de la estructura novelística."
+        },
+        {
+          "letter": "D",
+          "text": "A un comentario del autor, porque el narrador explica la intención de la obra.",
+          "is_correct": false,
+          "feedback": "Incorrecto. No hay intervención del autor ni intención metaliteraria, porque el fragmento pertenece a la voz narrativa y anuncia hechos."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La novela organiza su materia en capítulos y puede usar recursos como el adelanto o anticipación. Estos recursos guían la expectativa del lector y producen efectos de expectativa o sorpresa. Reconocerlos permite entender cómo se construye la arquitectura de la obra.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Textual",
+      "expected_success": 0.78,
+      "bundle_id": "CO-LEN-10-2026-W02-la-novela-y-su-estructura-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-10-2026-W02-la-novela-y-su-estructura-001-MASTERY-bundle-v7",
+      "statement": "¿Qué efecto produce esa estructura fragmentada en el lector?",
+      "context": "En una novela de García Márquez leída por estudiantes de Medellín, los primeros capítulos recounts dos hechos sin nexos claros, y el sentido general aparece meses después, cuando las líneas convergen.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Elimina el conflicto, porque los personajes actúan en líneas narrativas independientes.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La pluralidad de líneas \"no elimina\" el conflicto, porque lo dispersa y lo vuelve más complejo al hacerlas converger."
+        },
+        {
+          "letter": "B",
+          "text": "Genera un efecto de suspenso y de reconstrucción, porque la comprensión llega solo al final.",
+          "is_correct": true,
+          "feedback": "Correcto. La estructura fragmentada produce \"suspenso\", porque la comprensión plena llega únicamente cuando los episodios convergen."
+        },
+        {
+          "letter": "C",
+          "text": "Hace que la lectura sea lineal, porque el autor ordena los episodios por tiempo cronológico.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La fragmentación rompe justamente el \"orden cronológico\", porque si los episodios se presentaran por orden temporal no habría reconstrucción que hacer."
+        },
+        {
+          "letter": "D",
+          "text": "Reduce la ambigüedad, porque cada capítulo explica por sí mismo lo ocurrido.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La fragmentación aumenta la \"ambigüedad\", porque cada capítulo queda incompleto y el lector debe unir los fragmentos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Una estructura no lineal obliga al lector a construir el significado. Esa operación mental genera suspenso y recompensa la lectura atenta. Analizar cómo se articula el conjunto es una competencia discursiva que Saber evalúa con fragmentos de obras.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Discursivo",
+      "expected_success": 0.7,
+      "bundle_id": "CO-LEN-10-2026-W02-la-novela-y-su-estructura-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-10-2026-W02-la-novela-y-su-estructura-001-MASTERY-bundle-v8",
+      "statement": "¿Qué propiedad del tiempo narrativo está en juego en ese ejercicio?",
+      "context": "En el colegio de Cúcuta, un comparador pide a sus estudiantes que señalen qué capítulos de una novela aceleran el tiempo y cuáles lo detienen.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La fecha de publicación de la obra, que organiza los capítulos por año de impresión.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La \"fecha de publicación\" es un dato externo del libro, porque no explica cómo la narración gestiona el tiempo de los acontecimientos."
+        },
+        {
+          "letter": "B",
+          "text": "El número total de capítulos, que determina si la trama es larga o corta.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El \"número de capítulos\" mide extensión y no velocidad, porque dos novelas con igual número pueden tener ritmos muy distintos."
+        },
+        {
+          "letter": "C",
+          "text": "La cantidad de personajes, que incide en la rapidez con que avanza la trama.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La \"cantidad de personajes\" influye en la complejidad, porque la rapidez del tiempo depende del tratamiento del narrador."
+        },
+        {
+          "letter": "D",
+          "text": "La velocidad de la narración, que puede acelerar o detener el avance de los acontecimientos.",
+          "is_correct": true,
+          "feedback": "Correcto. Lo que está en juego es la \"velocidad de la narración\", porque acelerar o detener el avance cambia la percepción del tiempo."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "El tiempo narrativo no es homogéneo: puede acelerar o detenerse según lo que el narrador decida. Una escena de una sola tarde puede ocupar capítulos enteros, mientras que un año puede resumirse en una frase. Reconocer esa condición es clave para analizar la estructura.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Semantico",
+      "expected_success": 0.68,
+      "bundle_id": "CO-LEN-10-2026-W02-la-novela-y-su-estructura-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-10-2026-W02-la-novela-y-su-estructura-001-MASTERY-bundle-v9",
+      "statement": "¿Sobre qué conviene concentrar el análisis de esa comparación?",
+      "context": "En un grupo de Manizales, dos estudiantes comparan dos versiones de la misma novela: una de autor colombiano y otra traducida del inglés por un traductor profesional.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Sobre las decisiones del traductor: qué se domestica, qué se conserva y qué se pierde en el traspaso idiomático.",
+          "is_correct": true,
+          "feedback": "Correcto. El eje del análisis son las \"decisiones del traductor\", porque la traducción siempre implica una negociación idiomática y no es un calco."
+        },
+        {
+          "letter": "B",
+          "text": "Sobre la cantidad de páginas, porque la extensión revela si la traducción fue fiel al original.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La \"extensión\" puede cambiar por razones idiomáticas o de formato, porque no es un indicio fiable de fidelidad al original."
+        },
+        {
+          "letter": "C",
+          "text": "Sobre el nombre del traductor, porque su prestigio garantiza la calidad de la versión.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El \"prestigio personal\" no es un criterio de análisis, porque lo pertinente son las decisiones concretas de traducción y sus efectos."
+        },
+        {
+          "letter": "D",
+          "text": "Sobre el precio de la edición, porque el costo determina la calidad de la versión impresa.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El \"precio comercial\" no es un criterio de análisis textual, porque la comparación debe apoyarse en evidencia interna de la versión."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Comparar dos versiones de una obra exige centrarse en las transformaciones del idioma y sus efectos en el sentido. La traducción no es un calco: resuelve problemas que el idioma original no tenía. Analizar esas soluciones revela la competencia intertextual de nivel superior.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Critico-Intertextual",
+      "expected_success": 0.66,
+      "bundle_id": "CO-LEN-10-2026-W02-la-novela-y-su-estructura-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-10-2026-W02-la-novela-y-su-estructura-001-MASTERY-bundle-v10",
+      "statement": "Según el principio de cooperación, ¿qué es lo que el diseño comunica al lector?",
+      "context": "En una librería de Bogotá, la cubierta de una novela histórica anuncia mediante su título y su diseño gráfico que se trata de una reconstrucción del pasado.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que la obra sea un documento histórico y no una ficción.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ningún diseño convierte la novela en documento, porque el género \"sigue siendo ficcional\" aunque simule verosimilitud histórica."
+        },
+        {
+          "letter": "B",
+          "text": "Que el autor pretendió escribir una crónica periodística.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La apariencia histórica \"no convierte\" la obra en crónica, porque el género depende de la intención y del tratamiento, no de la portada."
+        },
+        {
+          "letter": "C",
+          "text": "Que puede esperar una reconstrucción verosímil del pasado, es decir, un contrato de lectura con la obra.",
+          "is_correct": true,
+          "feedback": "Correcto. Título y diseño funcionan como un \"contrato de lectura\", porque señalan qué tipo de texto espera el lector y con qué Attitude abordarlo."
+        },
+        {
+          "letter": "D",
+          "text": "Que el lector no necesita contexto histórico para comprender el texto.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El diseño señala lo contrario, porque prepara al lector para un texto que \"exige contexto histórico\" previo."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La portada establece un contrato de lectura: sugiere qué tipo de texto el lector undersigned encontrar y con qué expectativas debe abordarlo. Aplicar el principio de cooperación implica leer esos signos como información sobre el género y el propósito de la obra.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Pragmatico",
+      "expected_success": 0.64,
+      "bundle_id": "CO-LEN-10-2026-W02-la-novela-y-su-estructura-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-10-2026-W02-la-novela-y-su-estructura-001-MASTERY-bundle-v11",
+      "statement": "¿Qué juicio es más sólido sobre esa edición?",
+      "context": "En un colegio de Aguachenta, una obra clásica de la literatura nacional fue editada en una versión que elimina el regionalismo, antes corregido como error.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es siempre positiva, porque normalizar el vocabulario mejora la calidad literaria.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Normalizar \"no mejora\" automáticamente la calidad literaria, porque ignora el valor del regionalismo como recurso estilístico."
+        },
+        {
+          "letter": "B",
+          "text": "Es defendible si aumenta la comprensión sin borrar la identidad, y debe justificarse con criterios explícitos.",
+          "is_correct": true,
+          "feedback": "Correcto. El juicio pondera a la vez la accesibilidad y la identidad lingüística, porque exige un criterio explícito y verificable."
+        },
+        {
+          "letter": "C",
+          "text": "Es siempre negativa, porque el original representa mejor la época y sus autores.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Absolutizar la negativa también es un error de evaluación, porque lo pertinente es el balance de efectos y el criterio que se declare."
+        },
+        {
+          "letter": "D",
+          "text": "Es irrelevante, porque las normas de escritura no afectan la comprensión lectora.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las normas ortográficas sí afectan la comprensión y el acceso al texto, porque su impacto debe evaluarse."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Evaluar una edición exige declarar un criterio y ponderar efectos opuestos. Una edición puede facilitar el acceso y al mismo tiempo borrar rasgos que dan identidad a la obra. El juicio sólido reconoce ambos efectos y explicita por qué privilegia uno sobre el otro.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Evaluativo",
+      "expected_success": 0.55,
+      "bundle_id": "CO-LEN-10-2026-W02-la-novela-y-su-estructura-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 10,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-10-2026-W02-la-novela-y-su-estructura-001-MASTERY-bundle-v12",
+      "statement": "¿Qué razonamiento sostiene mejor esa selección?",
+      "context": "En Cúcuta, un comité de estudiantes debe decidir qué novela policial incluir en el plan de lectura de grado décimo, entre una en la que el detective resuelve el caso y otra que deja el misterio abierto.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La primera, porque todo caso debe resolverse para que el lector entienda la obra.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Suponer que todo caso debe resolverse impone un gusto personal, porque no hay base para pensar que el cierre satisface a todos."
+        },
+        {
+          "letter": "B",
+          "text": "Cualquiera, porque las dos novelas tienen igual valor educativo y no hay diferencia relevante.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La igualdad valorativa evita el razonamiento, porque la elección debe apoyarse en criterios verificables sobre habilidades."
+        },
+        {
+          "letter": "C",
+          "text": "Ninguna, porque las novelas policiales no contribuyen al desarrollo de la lectura crítica.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa afirmación contradice el DBA, porque la novela policial exige rastrear hipótesis y evaluar pistas para resolver el enigma."
+        },
+        {
+          "letter": "D",
+          "text": "La segunda, porque mantiene abierta la investigación y entrena el razonamiento inferencial del lector.",
+          "is_correct": true,
+          "feedback": "Correcto. La opción se sostiene en un criterio pedagógico claro, porque el final abierto entrena el razonamiento inferencial del DBA."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Seleccionar material para el plan de lectura exige un criterio educativo explícito y verificable. El razonamiento más fuerte conecta la elección con una competencia concreta del DBA. Una opinión personal, sin sustento curricular, no constituye una valoración ni una recomendación defendible.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Evaluativo",
+      "expected_success": 0.52,
+      "bundle_id": "CO-LEN-10-2026-W02-la-novela-y-su-estructura-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 10,
+      "country": "co"
+    }
+  ]
+}

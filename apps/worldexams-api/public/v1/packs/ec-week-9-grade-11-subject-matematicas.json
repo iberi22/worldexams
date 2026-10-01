@@ -16,25 +16,25 @@
           "letter": "A",
           "text": "$x = 6, y = 4$",
           "is_correct": false,
-          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+          "feedback": "La suma $x + y = 10$ sí se cumple, pero $x - y = 2$ y la ecuación pide $4$. Los dos valores no satisfacen el sistema completo."
         },
         {
           "letter": "B",
           "text": "$x = 5, y = 5$",
           "is_correct": false,
-          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+          "feedback": "Con $x = 5$ y $y = 5$ la resta da $x - y = 0$, y la segunda ecuación exige $4$. Solo cumples la primera."
         },
         {
           "letter": "C",
           "text": "$x = 8, y = 2$",
           "is_correct": false,
-          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+          "feedback": "La suma da $10$, pero $x - y = 6$, y la segunda ecuación pide $4$. Cada valor debe comprobarse en las dos ecuaciones."
         },
         {
           "letter": "D",
           "text": "$x = 7, y = 3$",
           "is_correct": true,
-          "feedback": "Correcto. ¡Excelente análisis!"
+          "feedback": "Correcto. Al sumar las dos ecuaciones desaparece la $y$: $2x = 14$, de donde $x = 7$, y de $x + y = 10$ sale $y = 3$."
         }
       ],
       "correct_answer": "D",
@@ -61,25 +61,25 @@
           "letter": "A",
           "text": "$x = 7, y = 3$",
           "is_correct": true,
-          "feedback": "Correcto. ¡Excelente análisis!"
+          "feedback": "Correcto. Al sumar las dos ecuaciones desaparece la $y$: $2x = 14$, de donde $x = 7$, y de $x + y = 10$ sale $y = 3$."
         },
         {
           "letter": "B",
           "text": "$x = 8, y = 2$",
           "is_correct": false,
-          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+          "feedback": "La suma da $10$, pero $x - y = 6$, y la segunda ecuación pide $4$. Cada valor debe comprobarse en las dos ecuaciones."
         },
         {
           "letter": "C",
           "text": "$x = 5, y = 5$",
           "is_correct": false,
-          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+          "feedback": "Con $x = 5$ y $y = 5$ la resta da $x - y = 0$, y la segunda ecuación exige $4$. Solo cumples la primera."
         },
         {
           "letter": "D",
           "text": "$x = 6, y = 4$",
           "is_correct": false,
-          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+          "feedback": "La suma $x + y = 10$ sí se cumple, pero $x - y = 2$ y la ecuación pide $4$. Los dos valores no satisfacen el sistema completo."
         }
       ],
       "correct_answer": "A",
@@ -106,25 +106,25 @@
           "letter": "A",
           "text": "$x = 5, y = 5$",
           "is_correct": false,
-          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+          "feedback": "Con $x = 5$ y $y = 5$ la resta da $x - y = 0$, y la segunda ecuación exige $4$. Solo cumples la primera."
         },
         {
           "letter": "B",
           "text": "$x = 6, y = 4$",
           "is_correct": false,
-          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+          "feedback": "La suma $x + y = 10$ sí se cumple, pero $x - y = 2$ y la ecuación pide $4$. Los dos valores no satisfacen el sistema completo."
         },
         {
           "letter": "C",
           "text": "$x = 8, y = 2$",
           "is_correct": false,
-          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+          "feedback": "La suma da $10$, pero $x - y = 6$, y la segunda ecuación pide $4$. Cada valor debe comprobarse en las dos ecuaciones."
         },
         {
           "letter": "D",
           "text": "$x = 7, y = 3$",
           "is_correct": true,
-          "feedback": "Correcto. ¡Excelente análisis!"
+          "feedback": "Correcto. Al sumar las dos ecuaciones desaparece la $y$: $2x = 14$, de donde $x = 7$, y de $x + y = 10$ sale $y = 3$."
         }
       ],
       "correct_answer": "D",
@@ -151,25 +151,25 @@
           "letter": "A",
           "text": "$x = 7, y = 3$",
           "is_correct": true,
-          "feedback": "Correcto. ¡Excelente análisis!"
+          "feedback": "Correcto. Al sumar las dos ecuaciones desaparece la $y$: $2x = 14$, de donde $x = 7$, y de $x + y = 10$ sale $y = 3$."
         },
         {
           "letter": "B",
           "text": "$x = 6, y = 4$",
           "is_correct": false,
-          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+          "feedback": "La suma $x + y = 10$ sí se cumple, pero $x - y = 2$ y la ecuación pide $4$. Los dos valores no satisfacen el sistema completo."
         },
         {
           "letter": "C",
           "text": "$x = 5, y = 5$",
           "is_correct": false,
-          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+          "feedback": "Con $x = 5$ y $y = 5$ la resta da $x - y = 0$, y la segunda ecuación exige $4$. Solo cumples la primera."
         },
         {
           "letter": "D",
           "text": "$x = 8, y = 2$",
           "is_correct": false,
-          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+          "feedback": "La suma da $10$, pero $x - y = 6$, y la segunda ecuación pide $4$. Cada valor debe comprobarse en las dos ecuaciones."
         }
       ],
       "correct_answer": "A",
@@ -196,25 +196,25 @@
           "letter": "A",
           "text": "15 habitaciones dobles",
           "is_correct": false,
-          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+          "feedback": "Con 15 dobles quedarían 5 sencillas y se contarían $15\\cdot 2 + 5 = 35$ camas, más de las 30 del enunciado."
         },
         {
           "letter": "B",
           "text": "12 habitaciones dobles",
           "is_correct": false,
-          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+          "feedback": "Con 12 dobles quedarían $20 - 12 = 8$ sencillas y el total de camas sería $12\\cdot 2 + 8 = 32$, pero el enunciado dice 30 camas."
         },
         {
           "letter": "C",
           "text": "8 habitaciones dobles",
           "is_correct": false,
-          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+          "feedback": "Con 8 dobles quedarían 12 sencillas y se contarían $8\\cdot 2 + 12 = 28$ camas, menos de las 30 del enunciado."
         },
         {
           "letter": "D",
           "text": "10 habitaciones dobles",
           "is_correct": true,
-          "feedback": "Correcto. ¡Excelente análisis!"
+          "feedback": "Correcto. Si $d$ son las dobles y $s$ las sencillas, $d + s = 20$ y $2d + s = 30$; al restar ambas ecuaciones, $d = 10$."
         }
       ],
       "correct_answer": "D",
@@ -241,25 +241,25 @@
           "letter": "A",
           "text": "10 habitaciones dobles",
           "is_correct": true,
-          "feedback": "Correcto. ¡Excelente análisis!"
+          "feedback": "Correcto. Si $d$ son las dobles y $s$ las sencillas, $d + s = 20$ y $2d + s = 30$; al restar ambas ecuaciones, $d = 10$."
         },
         {
           "letter": "B",
           "text": "15 habitaciones dobles",
           "is_correct": false,
-          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+          "feedback": "Con 15 dobles quedarían 5 sencillas y se contarían $15\\cdot 2 + 5 = 35$ camas, más de las 30 del enunciado."
         },
         {
           "letter": "C",
           "text": "12 habitaciones dobles",
           "is_correct": false,
-          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+          "feedback": "Con 12 dobles quedarían $20 - 12 = 8$ sencillas y el total de camas sería $12\\cdot 2 + 8 = 32$, pero el enunciado dice 30 camas."
         },
         {
           "letter": "D",
           "text": "8 habitaciones dobles",
           "is_correct": false,
-          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+          "feedback": "Con 8 dobles quedarían 12 sencillas y se contarían $8\\cdot 2 + 12 = 28$ camas, menos de las 30 del enunciado."
         }
       ],
       "correct_answer": "A",
@@ -286,25 +286,25 @@
           "letter": "A",
           "text": "12 habitaciones dobles",
           "is_correct": false,
-          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+          "feedback": "Con 12 dobles quedarían $20 - 12 = 8$ sencillas y el total de camas sería $12\\cdot 2 + 8 = 32$, pero el enunciado dice 30 camas."
         },
         {
           "letter": "B",
           "text": "15 habitaciones dobles",
           "is_correct": false,
-          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+          "feedback": "Con 15 dobles quedarían 5 sencillas y se contarían $15\\cdot 2 + 5 = 35$ camas, más de las 30 del enunciado."
         },
         {
           "letter": "C",
           "text": "10 habitaciones dobles",
           "is_correct": true,
-          "feedback": "Correcto. ¡Excelente análisis!"
+          "feedback": "Correcto. Si $d$ son las dobles y $s$ las sencillas, $d + s = 20$ y $2d + s = 30$; al restar ambas ecuaciones, $d = 10$."
         },
         {
           "letter": "D",
           "text": "8 habitaciones dobles",
           "is_correct": false,
-          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+          "feedback": "Con 8 dobles quedarían 12 sencillas y se contarían $8\\cdot 2 + 12 = 28$ camas, menos de las 30 del enunciado."
         }
       ],
       "correct_answer": "C",
@@ -331,25 +331,25 @@
           "letter": "A",
           "text": "12 habitaciones dobles",
           "is_correct": false,
-          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+          "feedback": "Con 12 dobles quedarían $20 - 12 = 8$ sencillas y el total de camas sería $12\\cdot 2 + 8 = 32$, pero el enunciado dice 30 camas."
         },
         {
           "letter": "B",
           "text": "10 habitaciones dobles",
           "is_correct": true,
-          "feedback": "Correcto. ¡Excelente análisis!"
+          "feedback": "Correcto. Si $d$ son las dobles y $s$ las sencillas, $d + s = 20$ y $2d + s = 30$; al restar ambas ecuaciones, $d = 10$."
         },
         {
           "letter": "C",
           "text": "15 habitaciones dobles",
           "is_correct": false,
-          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+          "feedback": "Con 15 dobles quedarían 5 sencillas y se contarían $15\\cdot 2 + 5 = 35$ camas, más de las 30 del enunciado."
         },
         {
           "letter": "D",
           "text": "8 habitaciones dobles",
           "is_correct": false,
-          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+          "feedback": "Con 8 dobles quedarían 12 sencillas y se contarían $8\\cdot 2 + 12 = 28$ camas, menos de las 30 del enunciado."
         }
       ],
       "correct_answer": "B",
@@ -376,25 +376,25 @@
           "letter": "A",
           "text": "8 habitaciones dobles",
           "is_correct": false,
-          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+          "feedback": "Con 8 dobles quedarían 12 sencillas y se contarían $8\\cdot 2 + 12 = 28$ camas, menos de las 30 del enunciado."
         },
         {
           "letter": "B",
           "text": "12 habitaciones dobles",
           "is_correct": false,
-          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+          "feedback": "Con 12 dobles quedarían $20 - 12 = 8$ sencillas y el total de camas sería $12\\cdot 2 + 8 = 32$, pero el enunciado dice 30 camas."
         },
         {
           "letter": "C",
           "text": "15 habitaciones dobles",
           "is_correct": false,
-          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+          "feedback": "Con 15 dobles quedarían 5 sencillas y se contarían $15\\cdot 2 + 5 = 35$ camas, más de las 30 del enunciado."
         },
         {
           "letter": "D",
           "text": "10 habitaciones dobles",
           "is_correct": true,
-          "feedback": "Correcto. ¡Excelente análisis!"
+          "feedback": "Correcto. Si $d$ son las dobles y $s$ las sencillas, $d + s = 20$ y $2d + s = 30$; al restar ambas ecuaciones, $d = 10$."
         }
       ],
       "correct_answer": "D",
@@ -421,25 +421,25 @@
           "letter": "A",
           "text": "8 habitaciones dobles",
           "is_correct": false,
-          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+          "feedback": "Con 8 dobles quedarían 12 sencillas y se contarían $8\\cdot 2 + 12 = 28$ camas, menos de las 30 del enunciado."
         },
         {
           "letter": "B",
           "text": "10 habitaciones dobles",
           "is_correct": true,
-          "feedback": "Correcto. ¡Excelente análisis!"
+          "feedback": "Correcto. Si $d$ son las dobles y $s$ las sencillas, $d + s = 20$ y $2d + s = 30$; al restar ambas ecuaciones, $d = 10$."
         },
         {
           "letter": "C",
           "text": "15 habitaciones dobles",
           "is_correct": false,
-          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+          "feedback": "Con 15 dobles quedarían 5 sencillas y se contarían $15\\cdot 2 + 5 = 35$ camas, más de las 30 del enunciado."
         },
         {
           "letter": "D",
           "text": "12 habitaciones dobles",
           "is_correct": false,
-          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+          "feedback": "Con 12 dobles quedarían $20 - 12 = 8$ sencillas y el total de camas sería $12\\cdot 2 + 8 = 32$, pero el enunciado dice 30 camas."
         }
       ],
       "correct_answer": "B",
@@ -466,25 +466,25 @@
           "letter": "A",
           "text": "$x = 2, y = 3$",
           "is_correct": false,
-          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+          "feedback": "Al comprobar en la primera ecuación se obtiene $2(2) + 3(3) = 4 + 9 = 13$, y el lado derecho es $12$; por eso el par no sirve."
         },
         {
           "letter": "B",
           "text": "$x = 4, y = 1$",
           "is_correct": false,
-          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+          "feedback": "Al comprobar: $2(4) + 3(1) = 11$ en la primera, y $3(4) - 1 = 11$ en la segunda. Ninguna de las dos da $12$ y $7$."
         },
         {
           "letter": "C",
           "text": "$x = 1, y = 5$",
           "is_correct": false,
-          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+          "feedback": "Al comprobar en la primera: $2(1) + 3(5) = 2 + 15 = 17$, y el lado derecho es $12$; ese par no resuelve el sistema."
         },
         {
           "letter": "D",
           "text": "$x = 3, y = 2$",
           "is_correct": true,
-          "feedback": "Correcto. ¡Excelente análisis!"
+          "feedback": "Correcto. De $3x - y = 7$ sale $y = 3x - 7$; al sustituir, $2x + 3(3x - 7) = 12$, o sea $11x = 33$, y entonces $x = 3$ e $y = 2$."
         }
       ],
       "correct_answer": "D",
@@ -511,25 +511,25 @@
           "letter": "A",
           "text": "$x = 2, y = 3$",
           "is_correct": false,
-          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+          "feedback": "Al comprobar en la primera ecuación se obtiene $2(2) + 3(3) = 4 + 9 = 13$, y el lado derecho es $12$; por eso el par no sirve."
         },
         {
           "letter": "B",
           "text": "$x = 4, y = 1$",
           "is_correct": false,
-          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+          "feedback": "Al comprobar: $2(4) + 3(1) = 11$ en la primera, y $3(4) - 1 = 11$ en la segunda. Ninguna de las dos da $12$ y $7$."
         },
         {
           "letter": "C",
           "text": "$x = 3, y = 2$",
           "is_correct": true,
-          "feedback": "Correcto. ¡Excelente análisis!"
+          "feedback": "Correcto. De $3x - y = 7$ sale $y = 3x - 7$; al sustituir, $2x + 3(3x - 7) = 12$, o sea $11x = 33$, y entonces $x = 3$ e $y = 2$."
         },
         {
           "letter": "D",
           "text": "$x = 1, y = 5$",
           "is_correct": false,
-          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+          "feedback": "Al comprobar en la primera: $2(1) + 3(5) = 2 + 15 = 17$, y el lado derecho es $12$; ese par no resuelve el sistema."
         }
       ],
       "correct_answer": "C",
@@ -556,25 +556,25 @@
           "letter": "A",
           "text": "$x = 1, y = 5$",
           "is_correct": false,
-          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+          "feedback": "Al comprobar en la primera: $2(1) + 3(5) = 2 + 15 = 17$, y el lado derecho es $12$; ese par no resuelve el sistema."
         },
         {
           "letter": "B",
           "text": "$x = 4, y = 1$",
           "is_correct": false,
-          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+          "feedback": "Al comprobar: $2(4) + 3(1) = 11$ en la primera, y $3(4) - 1 = 11$ en la segunda. Ninguna de las dos da $12$ y $7$."
         },
         {
           "letter": "C",
           "text": "$x = 3, y = 2$",
           "is_correct": true,
-          "feedback": "Correcto. ¡Excelente análisis!"
+          "feedback": "Correcto. De $3x - y = 7$ sale $y = 3x - 7$; al sustituir, $2x + 3(3x - 7) = 12$, o sea $11x = 33$, y entonces $x = 3$ e $y = 2$."
         },
         {
           "letter": "D",
           "text": "$x = 2, y = 3$",
           "is_correct": false,
-          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+          "feedback": "Al comprobar en la primera ecuación se obtiene $2(2) + 3(3) = 4 + 9 = 13$, y el lado derecho es $12$; por eso el par no sirve."
         }
       ],
       "correct_answer": "C",
@@ -601,25 +601,25 @@
           "letter": "A",
           "text": "$x = 4, y = 1$",
           "is_correct": false,
-          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+          "feedback": "Al comprobar: $2(4) + 3(1) = 11$ en la primera, y $3(4) - 1 = 11$ en la segunda. Ninguna de las dos da $12$ y $7$."
         },
         {
           "letter": "B",
           "text": "$x = 2, y = 3$",
           "is_correct": false,
-          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+          "feedback": "Al comprobar en la primera ecuación se obtiene $2(2) + 3(3) = 4 + 9 = 13$, y el lado derecho es $12$; por eso el par no sirve."
         },
         {
           "letter": "C",
           "text": "$x = 3, y = 2$",
           "is_correct": true,
-          "feedback": "Correcto. ¡Excelente análisis!"
+          "feedback": "Correcto. De $3x - y = 7$ sale $y = 3x - 7$; al sustituir, $2x + 3(3x - 7) = 12$, o sea $11x = 33$, y entonces $x = 3$ e $y = 2$."
         },
         {
           "letter": "D",
           "text": "$x = 1, y = 5$",
           "is_correct": false,
-          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+          "feedback": "Al comprobar en la primera: $2(1) + 3(5) = 2 + 15 = 17$, y el lado derecho es $12$; ese par no resuelve el sistema."
         }
       ],
       "correct_answer": "C",
@@ -646,25 +646,25 @@
           "letter": "A",
           "text": "$x = 4, y = 1$",
           "is_correct": false,
-          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+          "feedback": "Al comprobar: $2(4) + 3(1) = 11$ en la primera, y $3(4) - 1 = 11$ en la segunda. Ninguna de las dos da $12$ y $7$."
         },
         {
           "letter": "B",
           "text": "$x = 3, y = 2$",
           "is_correct": true,
-          "feedback": "Correcto. ¡Excelente análisis!"
+          "feedback": "Correcto. De $3x - y = 7$ sale $y = 3x - 7$; al sustituir, $2x + 3(3x - 7) = 12$, o sea $11x = 33$, y entonces $x = 3$ e $y = 2$."
         },
         {
           "letter": "C",
           "text": "$x = 2, y = 3$",
           "is_correct": false,
-          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+          "feedback": "Al comprobar en la primera ecuación se obtiene $2(2) + 3(3) = 4 + 9 = 13$, y el lado derecho es $12$; por eso el par no sirve."
         },
         {
           "letter": "D",
           "text": "$x = 1, y = 5$",
           "is_correct": false,
-          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+          "feedback": "Al comprobar en la primera: $2(1) + 3(5) = 2 + 15 = 17$, y el lado derecho es $12$; ese par no resuelve el sistema."
         }
       ],
       "correct_answer": "B",
@@ -691,25 +691,25 @@
           "letter": "A",
           "text": "$x = 4, y = 1$",
           "is_correct": false,
-          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+          "feedback": "Al comprobar: $2(4) + 3(1) = 11$ en la primera, y $3(4) - 1 = 11$ en la segunda. Ninguna de las dos da $12$ y $7$."
         },
         {
           "letter": "B",
           "text": "$x = 3, y = 2$",
           "is_correct": true,
-          "feedback": "Correcto. ¡Excelente análisis!"
+          "feedback": "Correcto. De $3x - y = 7$ sale $y = 3x - 7$; al sustituir, $2x + 3(3x - 7) = 12$, o sea $11x = 33$, y entonces $x = 3$ e $y = 2$."
         },
         {
           "letter": "C",
           "text": "$x = 2, y = 3$",
           "is_correct": false,
-          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+          "feedback": "Al comprobar en la primera ecuación se obtiene $2(2) + 3(3) = 4 + 9 = 13$, y el lado derecho es $12$; por eso el par no sirve."
         },
         {
           "letter": "D",
           "text": "$x = 1, y = 5$",
           "is_correct": false,
-          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+          "feedback": "Al comprobar en la primera: $2(1) + 3(5) = 2 + 15 = 17$, y el lado derecho es $12$; ese par no resuelve el sistema."
         }
       ],
       "correct_answer": "B",
@@ -736,25 +736,25 @@
           "letter": "A",
           "text": "Las dos rectas coinciden en todos sus puntos.",
           "is_correct": false,
-          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+          "feedback": "Si las rectas coinciden hay infinitas soluciones, una por cada punto de la recta, y por tanto el sistema sí tiene solución."
         },
         {
           "letter": "B",
           "text": "Las dos rectas se cruzan exactamente en el origen.",
           "is_correct": false,
-          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+          "feedback": "Si se cruzan en el origen, ese punto $(0,0)$ satisface ambas ecuaciones y el sistema tiene una única solución."
         },
         {
           "letter": "C",
           "text": "Las dos rectas son perpendiculares.",
           "is_correct": false,
-          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+          "feedback": "Dos rectas perpendiculares siempre se cortan en un punto, de modo que ese sistema tiene una solución, no ninguna."
         },
         {
           "letter": "D",
           "text": "Las dos rectas representadas son paralelas y no se intersecan.",
           "is_correct": true,
-          "feedback": "Correcto. ¡Excelente análisis!"
+          "feedback": "Correcto. Dos rectas paralelas y distintas nunca se cortan, así que no existe punto que satisfaga las dos ecuaciones y el sistema es incompatible."
         }
       ],
       "correct_answer": "D",
@@ -781,25 +781,25 @@
           "letter": "A",
           "text": "Las dos rectas coinciden en todos sus puntos.",
           "is_correct": false,
-          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+          "feedback": "Si las rectas coinciden hay infinitas soluciones, una por cada punto de la recta, y por tanto el sistema sí tiene solución."
         },
         {
           "letter": "B",
           "text": "Las dos rectas son perpendiculares.",
           "is_correct": false,
-          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+          "feedback": "Dos rectas perpendiculares siempre se cortan en un punto, de modo que ese sistema tiene una solución, no ninguna."
         },
         {
           "letter": "C",
           "text": "Las dos rectas se cruzan exactamente en el origen.",
           "is_correct": false,
-          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+          "feedback": "Si se cruzan en el origen, ese punto $(0,0)$ satisface ambas ecuaciones y el sistema tiene una única solución."
         },
         {
           "letter": "D",
           "text": "Las dos rectas representadas son paralelas y no se intersecan.",
           "is_correct": true,
-          "feedback": "Correcto. ¡Excelente análisis!"
+          "feedback": "Correcto. Dos rectas paralelas y distintas nunca se cortan, así que no existe punto que satisfaga las dos ecuaciones y el sistema es incompatible."
         }
       ],
       "correct_answer": "D",
@@ -826,25 +826,25 @@
           "letter": "A",
           "text": "Las dos rectas coinciden en todos sus puntos.",
           "is_correct": false,
-          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+          "feedback": "Si las rectas coinciden hay infinitas soluciones, una por cada punto de la recta, y por tanto el sistema sí tiene solución."
         },
         {
           "letter": "B",
           "text": "Las dos rectas representadas son paralelas y no se intersecan.",
           "is_correct": true,
-          "feedback": "Correcto. ¡Excelente análisis!"
+          "feedback": "Correcto. Dos rectas paralelas y distintas nunca se cortan, así que no existe punto que satisfaga las dos ecuaciones y el sistema es incompatible."
         },
         {
           "letter": "C",
           "text": "Las dos rectas se cruzan exactamente en el origen.",
           "is_correct": false,
-          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+          "feedback": "Si se cruzan en el origen, ese punto $(0,0)$ satisface ambas ecuaciones y el sistema tiene una única solución."
         },
         {
           "letter": "D",
           "text": "Las dos rectas son perpendiculares.",
           "is_correct": false,
-          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+          "feedback": "Dos rectas perpendiculares siempre se cortan en un punto, de modo que ese sistema tiene una solución, no ninguna."
         }
       ],
       "correct_answer": "B",
@@ -871,25 +871,25 @@
           "letter": "A",
           "text": "Las dos rectas representadas son paralelas y no se intersecan.",
           "is_correct": true,
-          "feedback": "Correcto. ¡Excelente análisis!"
+          "feedback": "Correcto. Dos rectas paralelas y distintas nunca se cortan, así que no existe punto que satisfaga las dos ecuaciones y el sistema es incompatible."
         },
         {
           "letter": "B",
           "text": "Las dos rectas son perpendiculares.",
           "is_correct": false,
-          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+          "feedback": "Dos rectas perpendiculares siempre se cortan en un punto, de modo que ese sistema tiene una solución, no ninguna."
         },
         {
           "letter": "C",
           "text": "Las dos rectas coinciden en todos sus puntos.",
           "is_correct": false,
-          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+          "feedback": "Si las rectas coinciden hay infinitas soluciones, una por cada punto de la recta, y por tanto el sistema sí tiene solución."
         },
         {
           "letter": "D",
           "text": "Las dos rectas se cruzan exactamente en el origen.",
           "is_correct": false,
-          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+          "feedback": "Si se cruzan en el origen, ese punto $(0,0)$ satisface ambas ecuaciones y el sistema tiene una única solución."
         }
       ],
       "correct_answer": "A",

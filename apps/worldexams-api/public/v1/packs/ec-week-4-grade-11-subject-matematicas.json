@@ -16,25 +16,25 @@
           "letter": "A",
           "text": "6",
           "is_correct": false,
-          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+          "feedback": "6 corresponde a $2^6 = 64$, no a 32; el exponente buscado es el que reproduce exactamente 32."
         },
         {
           "letter": "B",
           "text": "4",
           "is_correct": false,
-          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+          "feedback": "4 corresponde a $2^4 = 16$, de modo que ese es el resultado de $\\log_2(16)$, no el de $\\log_2(32)$."
         },
         {
           "letter": "C",
           "text": "5",
           "is_correct": true,
-          "feedback": "Correcto. ¡Excelente análisis!"
+          "feedback": "Correcto. Como $2^5 = 32$, por definición de logaritmo el resultado es 5."
         },
         {
           "letter": "D",
           "text": "16",
           "is_correct": false,
-          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+          "feedback": "16 es el valor del argumento, no el exponente: se busca el exponente $x$ tal que $2^x = 32$."
         }
       ],
       "correct_answer": "C",
@@ -61,25 +61,25 @@
           "letter": "A",
           "text": "4",
           "is_correct": false,
-          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+          "feedback": "4 corresponde a $2^4 = 16$, de modo que ese es el resultado de $\\log_2(16)$, no el de $\\log_2(32)$."
         },
         {
           "letter": "B",
           "text": "6",
           "is_correct": false,
-          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+          "feedback": "6 corresponde a $2^6 = 64$, no a 32; el exponente buscado es el que reproduce exactamente 32."
         },
         {
           "letter": "C",
           "text": "5",
           "is_correct": true,
-          "feedback": "Correcto. ¡Excelente análisis!"
+          "feedback": "Correcto. Como $2^5 = 32$, por definición de logaritmo el resultado es 5."
         },
         {
           "letter": "D",
           "text": "16",
           "is_correct": false,
-          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+          "feedback": "16 es el valor del argumento, no el exponente: se busca el exponente $x$ tal que $2^x = 32$."
         }
       ],
       "correct_answer": "C",
@@ -106,25 +106,25 @@
           "letter": "A",
           "text": "4",
           "is_correct": false,
-          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+          "feedback": "4 corresponde a $2^4 = 16$, de modo que ese es el resultado de $\\log_2(16)$, no el de $\\log_2(32)$."
         },
         {
           "letter": "B",
           "text": "16",
           "is_correct": false,
-          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+          "feedback": "16 es el valor del argumento, no el exponente: se busca el exponente $x$ tal que $2^x = 32$."
         },
         {
           "letter": "C",
           "text": "5",
           "is_correct": true,
-          "feedback": "Correcto. ¡Excelente análisis!"
+          "feedback": "Correcto. Como $2^5 = 32$, por definición de logaritmo el resultado es 5."
         },
         {
           "letter": "D",
           "text": "6",
           "is_correct": false,
-          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+          "feedback": "6 corresponde a $2^6 = 64$, no a 32; el exponente buscado es el que reproduce exactamente 32."
         }
       ],
       "correct_answer": "C",
@@ -151,25 +151,25 @@
           "letter": "A",
           "text": "4",
           "is_correct": false,
-          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+          "feedback": "4 corresponde a $2^4 = 16$, de modo que ese es el resultado de $\\log_2(16)$, no el de $\\log_2(32)$."
         },
         {
           "letter": "B",
           "text": "5",
           "is_correct": true,
-          "feedback": "Correcto. ¡Excelente análisis!"
+          "feedback": "Correcto. Como $2^5 = 32$, por definición de logaritmo el resultado es 5."
         },
         {
           "letter": "C",
           "text": "16",
           "is_correct": false,
-          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+          "feedback": "16 es el valor del argumento, no el exponente: se busca el exponente $x$ tal que $2^x = 32$."
         },
         {
           "letter": "D",
           "text": "6",
           "is_correct": false,
-          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+          "feedback": "6 corresponde a $2^6 = 64$, no a 32; el exponente buscado es el que reproduce exactamente 32."
         }
       ],
       "correct_answer": "B",
@@ -196,25 +196,25 @@
           "letter": "A",
           "text": "$\\log\\left(\\frac{x \\cdot z}{y}\\right)$",
           "is_correct": false,
-          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+          "feedback": "Aquí el signo está invertido: el término que se resta es el de $z$, así que $z$ va en el denominador y no en el numerador."
         },
         {
           "letter": "B",
           "text": "$\\log\\left(\\frac{x \\cdot y}{z}\\right)$",
           "is_correct": true,
-          "feedback": "Correcto. ¡Excelente análisis!"
+          "feedback": "Correcto. Al sumar logaritmos se multiplican los argumentos y al restar se divide, por eso queda $\\log\\left(\\frac{x \\cdot y}{z}\\right)$."
         },
         {
           "letter": "C",
           "text": "$\\log\\left(\\frac{x + y}{z}\\right)$",
           "is_correct": false,
-          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+          "feedback": "La suma de logaritmos multiplica los argumentos; $x + y$ solo valdría si antes se calculara esa suma, y eso no se pide."
         },
         {
           "letter": "D",
           "text": "$\\log(x + y - z)$",
           "is_correct": false,
-          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+          "feedback": "Aquí se suman y restan los argumentos, lo cual no es una propiedad de los logaritmos; solo se suman y restan los propios logaritmos."
         }
       ],
       "correct_answer": "B",
@@ -241,25 +241,25 @@
           "letter": "A",
           "text": "$\\log\\left(\\frac{x \\cdot z}{y}\\right)$",
           "is_correct": false,
-          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+          "feedback": "Aquí el signo está invertido: el término que se resta es el de $z$, así que $z$ va en el denominador y no en el numerador."
         },
         {
           "letter": "B",
           "text": "$\\log\\left(\\frac{x \\cdot y}{z}\\right)$",
           "is_correct": true,
-          "feedback": "Correcto. ¡Excelente análisis!"
+          "feedback": "Correcto. Al sumar logaritmos se multiplican los argumentos y al restar se divide, por eso queda $\\log\\left(\\frac{x \\cdot y}{z}\\right)$."
         },
         {
           "letter": "C",
           "text": "$\\log(x + y - z)$",
           "is_correct": false,
-          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+          "feedback": "Aquí se suman y restan los argumentos, lo cual no es una propiedad de los logaritmos; solo se suman y restan los propios logaritmos."
         },
         {
           "letter": "D",
           "text": "$\\log\\left(\\frac{x + y}{z}\\right)$",
           "is_correct": false,
-          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+          "feedback": "La suma de logaritmos multiplica los argumentos; $x + y$ solo valdría si antes se calculara esa suma, y eso no se pide."
         }
       ],
       "correct_answer": "B",
@@ -286,25 +286,25 @@
           "letter": "A",
           "text": "$\\log\\left(\\frac{x \\cdot y}{z}\\right)$",
           "is_correct": true,
-          "feedback": "Correcto. ¡Excelente análisis!"
+          "feedback": "Correcto. Al sumar logaritmos se multiplican los argumentos y al restar se divide, por eso queda $\\log\\left(\\frac{x \\cdot y}{z}\\right)$."
         },
         {
           "letter": "B",
           "text": "$\\log(x + y - z)$",
           "is_correct": false,
-          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+          "feedback": "Aquí se suman y restan los argumentos, lo cual no es una propiedad de los logaritmos; solo se suman y restan los propios logaritmos."
         },
         {
           "letter": "C",
           "text": "$\\log\\left(\\frac{x \\cdot z}{y}\\right)$",
           "is_correct": false,
-          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+          "feedback": "Aquí el signo está invertido: el término que se resta es el de $z$, así que $z$ va en el denominador y no en el numerador."
         },
         {
           "letter": "D",
           "text": "$\\log\\left(\\frac{x + y}{z}\\right)$",
           "is_correct": false,
-          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+          "feedback": "La suma de logaritmos multiplica los argumentos; $x + y$ solo valdría si antes se calculara esa suma, y eso no se pide."
         }
       ],
       "correct_answer": "A",
@@ -331,25 +331,25 @@
           "letter": "A",
           "text": "$\\log\\left(\\frac{x \\cdot z}{y}\\right)$",
           "is_correct": false,
-          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+          "feedback": "Aquí el signo está invertido: el término que se resta es el de $z$, así que $z$ va en el denominador y no en el numerador."
         },
         {
           "letter": "B",
           "text": "$\\log(x + y - z)$",
           "is_correct": false,
-          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+          "feedback": "Aquí se suman y restan los argumentos, lo cual no es una propiedad de los logaritmos; solo se suman y restan los propios logaritmos."
         },
         {
           "letter": "C",
           "text": "$\\log\\left(\\frac{x + y}{z}\\right)$",
           "is_correct": false,
-          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+          "feedback": "La suma de logaritmos multiplica los argumentos; $x + y$ solo valdría si antes se calculara esa suma, y eso no se pide."
         },
         {
           "letter": "D",
           "text": "$\\log\\left(\\frac{x \\cdot y}{z}\\right)$",
           "is_correct": true,
-          "feedback": "Correcto. ¡Excelente análisis!"
+          "feedback": "Correcto. Al sumar logaritmos se multiplican los argumentos y al restar se divide, por eso queda $\\log\\left(\\frac{x \\cdot y}{z}\\right)$."
         }
       ],
       "correct_answer": "D",
@@ -376,25 +376,25 @@
           "letter": "A",
           "text": "$\\log\\left(\\frac{x + y}{z}\\right)$",
           "is_correct": false,
-          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+          "feedback": "La suma de logaritmos multiplica los argumentos; $x + y$ solo valdría si antes se calculara esa suma, y eso no se pide."
         },
         {
           "letter": "B",
           "text": "$\\log(x + y - z)$",
           "is_correct": false,
-          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+          "feedback": "Aquí se suman y restan los argumentos, lo cual no es una propiedad de los logaritmos; solo se suman y restan los propios logaritmos."
         },
         {
           "letter": "C",
           "text": "$\\log\\left(\\frac{x \\cdot z}{y}\\right)$",
           "is_correct": false,
-          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+          "feedback": "Aquí el signo está invertido: el término que se resta es el de $z$, así que $z$ va en el denominador y no en el numerador."
         },
         {
           "letter": "D",
           "text": "$\\log\\left(\\frac{x \\cdot y}{z}\\right)$",
           "is_correct": true,
-          "feedback": "Correcto. ¡Excelente análisis!"
+          "feedback": "Correcto. Al sumar logaritmos se multiplican los argumentos y al restar se divide, por eso queda $\\log\\left(\\frac{x \\cdot y}{z}\\right)$."
         }
       ],
       "correct_answer": "D",
@@ -421,25 +421,25 @@
           "letter": "A",
           "text": "$\\log(x + y - z)$",
           "is_correct": false,
-          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+          "feedback": "Aquí se suman y restan los argumentos, lo cual no es una propiedad de los logaritmos; solo se suman y restan los propios logaritmos."
         },
         {
           "letter": "B",
           "text": "$\\log\\left(\\frac{x \\cdot z}{y}\\right)$",
           "is_correct": false,
-          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+          "feedback": "Aquí el signo está invertido: el término que se resta es el de $z$, así que $z$ va en el denominador y no en el numerador."
         },
         {
           "letter": "C",
           "text": "$\\log\\left(\\frac{x + y}{z}\\right)$",
           "is_correct": false,
-          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+          "feedback": "La suma de logaritmos multiplica los argumentos; $x + y$ solo valdría si antes se calculara esa suma, y eso no se pide."
         },
         {
           "letter": "D",
           "text": "$\\log\\left(\\frac{x \\cdot y}{z}\\right)$",
           "is_correct": true,
-          "feedback": "Correcto. ¡Excelente análisis!"
+          "feedback": "Correcto. Al sumar logaritmos se multiplican los argumentos y al restar se divide, por eso queda $\\log\\left(\\frac{x \\cdot y}{z}\\right)$."
         }
       ],
       "correct_answer": "D",
@@ -466,25 +466,25 @@
           "letter": "A",
           "text": "8",
           "is_correct": false,
-          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+          "feedback": "8 saldría de restar 1 en lugar de 2, o de no descontar bien el 2 del resultado; el despeje da $x = 9 - 2$."
         },
         {
           "letter": "B",
           "text": "7",
           "is_correct": true,
-          "feedback": "Correcto. ¡Excelente análisis!"
+          "feedback": "Correcto. $\\log_3(x+2)=2$ implica $x+2 = 3^2 = 9$, de donde $x = 9 - 2 = 7$."
         },
         {
           "letter": "C",
           "text": "4",
           "is_correct": false,
-          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+          "feedback": "4 corresponde a $3^4 = 81$, un exponente equivocado, porque la ecuación pide el exponente 2."
         },
         {
           "letter": "D",
           "text": "9",
           "is_correct": false,
-          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+          "feedback": "9 es el valor de $x+2$ todavía sin despejar; hay que restar 2 para obtener $x = 7$."
         }
       ],
       "correct_answer": "B",
@@ -511,25 +511,25 @@
           "letter": "A",
           "text": "8",
           "is_correct": false,
-          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+          "feedback": "8 saldría de restar 1 en lugar de 2, o de no descontar bien el 2 del resultado; el despeje da $x = 9 - 2$."
         },
         {
           "letter": "B",
           "text": "4",
           "is_correct": false,
-          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+          "feedback": "4 corresponde a $3^4 = 81$, un exponente equivocado, porque la ecuación pide el exponente 2."
         },
         {
           "letter": "C",
           "text": "9",
           "is_correct": false,
-          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+          "feedback": "9 es el valor de $x+2$ todavía sin despejar; hay que restar 2 para obtener $x = 7$."
         },
         {
           "letter": "D",
           "text": "7",
           "is_correct": true,
-          "feedback": "Correcto. ¡Excelente análisis!"
+          "feedback": "Correcto. $\\log_3(x+2)=2$ implica $x+2 = 3^2 = 9$, de donde $x = 9 - 2 = 7$."
         }
       ],
       "correct_answer": "D",
@@ -556,25 +556,25 @@
           "letter": "A",
           "text": "9",
           "is_correct": false,
-          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+          "feedback": "9 es el valor de $x+2$ todavía sin despejar; hay que restar 2 para obtener $x = 7$."
         },
         {
           "letter": "B",
           "text": "7",
           "is_correct": true,
-          "feedback": "Correcto. ¡Excelente análisis!"
+          "feedback": "Correcto. $\\log_3(x+2)=2$ implica $x+2 = 3^2 = 9$, de donde $x = 9 - 2 = 7$."
         },
         {
           "letter": "C",
           "text": "8",
           "is_correct": false,
-          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+          "feedback": "8 saldría de restar 1 en lugar de 2, o de no descontar bien el 2 del resultado; el despeje da $x = 9 - 2$."
         },
         {
           "letter": "D",
           "text": "4",
           "is_correct": false,
-          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+          "feedback": "4 corresponde a $3^4 = 81$, un exponente equivocado, porque la ecuación pide el exponente 2."
         }
       ],
       "correct_answer": "B",
@@ -601,25 +601,25 @@
           "letter": "A",
           "text": "7",
           "is_correct": true,
-          "feedback": "Correcto. ¡Excelente análisis!"
+          "feedback": "Correcto. $\\log_3(x+2)=2$ implica $x+2 = 3^2 = 9$, de donde $x = 9 - 2 = 7$."
         },
         {
           "letter": "B",
           "text": "4",
           "is_correct": false,
-          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+          "feedback": "4 corresponde a $3^4 = 81$, un exponente equivocado, porque la ecuación pide el exponente 2."
         },
         {
           "letter": "C",
           "text": "8",
           "is_correct": false,
-          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+          "feedback": "8 saldría de restar 1 en lugar de 2, o de no descontar bien el 2 del resultado; el despeje da $x = 9 - 2$."
         },
         {
           "letter": "D",
           "text": "9",
           "is_correct": false,
-          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+          "feedback": "9 es el valor de $x+2$ todavía sin despejar; hay que restar 2 para obtener $x = 7$."
         }
       ],
       "correct_answer": "A",
@@ -646,25 +646,25 @@
           "letter": "A",
           "text": "8",
           "is_correct": false,
-          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+          "feedback": "8 saldría de restar 1 en lugar de 2, o de no descontar bien el 2 del resultado; el despeje da $x = 9 - 2$."
         },
         {
           "letter": "B",
           "text": "4",
           "is_correct": false,
-          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+          "feedback": "4 corresponde a $3^4 = 81$, un exponente equivocado, porque la ecuación pide el exponente 2."
         },
         {
           "letter": "C",
           "text": "9",
           "is_correct": false,
-          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+          "feedback": "9 es el valor de $x+2$ todavía sin despejar; hay que restar 2 para obtener $x = 7$."
         },
         {
           "letter": "D",
           "text": "7",
           "is_correct": true,
-          "feedback": "Correcto. ¡Excelente análisis!"
+          "feedback": "Correcto. $\\log_3(x+2)=2$ implica $x+2 = 3^2 = 9$, de donde $x = 9 - 2 = 7$."
         }
       ],
       "correct_answer": "D",
@@ -691,25 +691,25 @@
           "letter": "A",
           "text": "7",
           "is_correct": true,
-          "feedback": "Correcto. ¡Excelente análisis!"
+          "feedback": "Correcto. $\\log_3(x+2)=2$ implica $x+2 = 3^2 = 9$, de donde $x = 9 - 2 = 7$."
         },
         {
           "letter": "B",
           "text": "9",
           "is_correct": false,
-          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+          "feedback": "9 es el valor de $x+2$ todavía sin despejar; hay que restar 2 para obtener $x = 7$."
         },
         {
           "letter": "C",
           "text": "4",
           "is_correct": false,
-          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+          "feedback": "4 corresponde a $3^4 = 81$, un exponente equivocado, porque la ecuación pide el exponente 2."
         },
         {
           "letter": "D",
           "text": "8",
           "is_correct": false,
-          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+          "feedback": "8 saldría de restar 1 en lugar de 2, o de no descontar bien el 2 del resultado; el despeje da $x = 9 - 2$."
         }
       ],
       "correct_answer": "A",
@@ -736,25 +736,25 @@
           "letter": "A",
           "text": "0.96",
           "is_correct": false,
-          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+          "feedback": "0.96 es $2 \\times 0.48$, como si 12 fuera $3^2$; en realidad $12 = 2^2 \\cdot 3$ y el 2 aporta $0.3$ dos veces."
         },
         {
           "letter": "B",
           "text": "1.20",
           "is_correct": false,
-          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+          "feedback": "1.20 sería $4 \\times 0.3$, como si 12 fuera $2^4$; el exponente de 2 en 12 es 2 y no 4."
         },
         {
           "letter": "C",
           "text": "1.08",
           "is_correct": true,
-          "feedback": "Correcto. ¡Excelente análisis!"
+          "feedback": "Correcto. Como $12 = 2^2 \\cdot 3$, se aplica la propiedad del producto: $2(0.3) + 0.48 = 1.08$."
         },
         {
           "letter": "D",
           "text": "0.78",
           "is_correct": false,
-          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+          "feedback": "0.78 sale de sumar $0.3 + 0.48$, como si 12 fuera $2 \\cdot 3$; pero 12 es $2^2 \\cdot 3$, de modo que el 2 se cuenta dos veces."
         }
       ],
       "correct_answer": "C",
@@ -781,25 +781,25 @@
           "letter": "A",
           "text": "0.78",
           "is_correct": false,
-          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+          "feedback": "0.78 sale de sumar $0.3 + 0.48$, como si 12 fuera $2 \\cdot 3$; pero 12 es $2^2 \\cdot 3$, de modo que el 2 se cuenta dos veces."
         },
         {
           "letter": "B",
           "text": "0.96",
           "is_correct": false,
-          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+          "feedback": "0.96 es $2 \\times 0.48$, como si 12 fuera $3^2$; en realidad $12 = 2^2 \\cdot 3$ y el 2 aporta $0.3$ dos veces."
         },
         {
           "letter": "C",
           "text": "1.08",
           "is_correct": true,
-          "feedback": "Correcto. ¡Excelente análisis!"
+          "feedback": "Correcto. Como $12 = 2^2 \\cdot 3$, se aplica la propiedad del producto: $2(0.3) + 0.48 = 1.08$."
         },
         {
           "letter": "D",
           "text": "1.20",
           "is_correct": false,
-          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+          "feedback": "1.20 sería $4 \\times 0.3$, como si 12 fuera $2^4$; el exponente de 2 en 12 es 2 y no 4."
         }
       ],
       "correct_answer": "C",
@@ -826,25 +826,25 @@
           "letter": "A",
           "text": "1.20",
           "is_correct": false,
-          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+          "feedback": "1.20 sería $4 \\times 0.3$, como si 12 fuera $2^4$; el exponente de 2 en 12 es 2 y no 4."
         },
         {
           "letter": "B",
           "text": "1.08",
           "is_correct": true,
-          "feedback": "Correcto. ¡Excelente análisis!"
+          "feedback": "Correcto. Como $12 = 2^2 \\cdot 3$, se aplica la propiedad del producto: $2(0.3) + 0.48 = 1.08$."
         },
         {
           "letter": "C",
           "text": "0.78",
           "is_correct": false,
-          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+          "feedback": "0.78 sale de sumar $0.3 + 0.48$, como si 12 fuera $2 \\cdot 3$; pero 12 es $2^2 \\cdot 3$, de modo que el 2 se cuenta dos veces."
         },
         {
           "letter": "D",
           "text": "0.96",
           "is_correct": false,
-          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+          "feedback": "0.96 es $2 \\times 0.48$, como si 12 fuera $3^2$; en realidad $12 = 2^2 \\cdot 3$ y el 2 aporta $0.3$ dos veces."
         }
       ],
       "correct_answer": "B",
@@ -871,25 +871,25 @@
           "letter": "A",
           "text": "1.08",
           "is_correct": true,
-          "feedback": "Correcto. ¡Excelente análisis!"
+          "feedback": "Correcto. Como $12 = 2^2 \\cdot 3$, se aplica la propiedad del producto: $2(0.3) + 0.48 = 1.08$."
         },
         {
           "letter": "B",
           "text": "1.20",
           "is_correct": false,
-          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+          "feedback": "1.20 sería $4 \\times 0.3$, como si 12 fuera $2^4$; el exponente de 2 en 12 es 2 y no 4."
         },
         {
           "letter": "C",
           "text": "0.96",
           "is_correct": false,
-          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+          "feedback": "0.96 es $2 \\times 0.48$, como si 12 fuera $3^2$; en realidad $12 = 2^2 \\cdot 3$ y el 2 aporta $0.3$ dos veces."
         },
         {
           "letter": "D",
           "text": "0.78",
           "is_correct": false,
-          "feedback": "Incorrecto. Por favor, revisa el procedimiento paso a paso."
+          "feedback": "0.78 sale de sumar $0.3 + 0.48$, como si 12 fuera $2 \\cdot 3$; pero 12 es $2^2 \\cdot 3$, de modo que el 2 se cuenta dos veces."
         }
       ],
       "correct_answer": "A",

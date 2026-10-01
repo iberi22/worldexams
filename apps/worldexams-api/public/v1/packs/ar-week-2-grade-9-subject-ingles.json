@@ -16,25 +16,25 @@
           "letter": "B",
           "text": "goed",
           "is_correct": false,
-          "feedback": "'Go' es un verbo irregular, no se le agrega '-ed' para formar el pasado."
+          "feedback": "'Go' is an irregular verb, so the past is not built by adding '-ed' to the base form."
         },
         {
           "letter": "A",
           "text": "went",
           "is_correct": true,
-          "feedback": "¡Correcto! 'Went' es la forma irregular de pasado del verbo 'go'."
+          "feedback": "Correct. 'Went' is the irregular past simple of 'go', and the sentence needs a single past-tense verb."
         },
         {
           "letter": "C",
           "text": "gone",
           "is_correct": false,
-          "feedback": "'Gone' es el participio pasado, se usa con verbos auxiliares como 'have', no solo para el pasado simple."
+          "feedback": "'Gone' is the past participle, which is used with an auxiliary such as 'have gone', not on its own in the past simple."
         },
         {
           "letter": "D",
           "text": "was go",
           "is_correct": false,
-          "feedback": "No usamos 'was' junto a la forma base del verbo para el pasado simple."
+          "feedback": "The past simple does not use 'was' with the base form of the verb; that would be the passive or a progressive."
         }
       ],
       "correct_answer": "A",
@@ -61,25 +61,25 @@
           "letter": "A",
           "text": "were eating",
           "is_correct": false,
-          "feedback": "'Were' se usa para sujetos plurales o 'you', pero Valentina es 'she'."
+          "feedback": "'Were' goes with plural subjects or 'you', but Valentina is 'she', so it takes 'was'."
         },
         {
           "letter": "D",
           "text": "was eating",
           "is_correct": true,
-          "feedback": "¡Muy bien! El pasado continuo para 'she' se forma con 'was' + verbo con -ing."
+          "feedback": "Correct. The past continuous for 'she' is 'was' plus the verb in -ing, and 'at 5 PM yesterday' marks a moment in the past."
         },
         {
           "letter": "B",
           "text": "ate",
           "is_correct": false,
-          "feedback": "'Ate' es pasado simple; describe una acción terminada, no una acción en progreso en un momento específico."
+          "feedback": "'Ate' is past simple and describes a finished action, not an action in progress at a specific past moment."
         },
         {
           "letter": "C",
           "text": "is eating",
           "is_correct": false,
-          "feedback": "'Is eating' es presente continuo, pero la oración habla de ayer (\"yesterday\")."
+          "feedback": "'Is eating' is present continuous, but the sentence is set in the past with 'yesterday'."
         }
       ],
       "correct_answer": "D",
@@ -106,25 +106,25 @@
           "letter": "D",
           "text": "We were watching the Superclásico when the lights went out.",
           "is_correct": true,
-          "feedback": "¡Correcto! Usamos el continuo para la acción larga que estaba pasando y el simple para la interrupción."
+          "feedback": "Correct. The past continuous gives the long background action that was under way ('we were watching') and the past simple gives the short interruption that cut it short ('the lights went out')."
         },
         {
           "letter": "A",
           "text": "We watched the Superclásico when the lights were going out.",
           "is_correct": false,
-          "feedback": "La interrupción (el corte de luz) suele ser una acción corta en pasado simple."
+          "feedback": "Here the longer background action 'we watched' is in past simple and the interruption 'were going out' is in past continuous, which reverses the usual roles."
         },
         {
           "letter": "B",
           "text": "We were watching the Superclásico when the lights were going out.",
           "is_correct": false,
-          "feedback": "No suena natural usar continuo para ambas acciones en este contexto de interrupción."
+          "feedback": "Using the continuous for both the watching and the interruption is unnatural; the short interruption belongs in past simple."
         },
         {
           "letter": "C",
           "text": "We watched the Superclásico when the lights went out.",
           "is_correct": false,
-          "feedback": "Aunque es posible, no enfatiza que la acción de ver el partido estaba en progreso."
+          "feedback": "This is grammatical but it loses the background: 'watched' in past simple does not show the match was already under way."
         }
       ],
       "correct_answer": "D",
@@ -151,25 +151,25 @@
           "letter": "A",
           "text": "walked / saw",
           "is_correct": false,
-          "feedback": "'While' suele introducir una acción larga en progreso, por lo que pide pasado continuo."
+          "feedback": "'While' introduces a long action already in progress, which takes the past continuous, not the past simple."
         },
         {
           "letter": "D",
           "text": "was walking / saw",
           "is_correct": true,
-          "feedback": "¡Exacto! Caminar es la acción larga (proceso) y ver al bailarín es la acción corta (punto)."
+          "feedback": "Correct. Walking is the long background action in past continuous and seeing the dancer is the short interrupting action in past simple."
         },
         {
           "letter": "B",
           "text": "am walking / see",
           "is_correct": false,
-          "feedback": "Estos verbos están en presente, pero el contexto es de un relato pasado."
+          "feedback": "Both verbs are in the present, but the context is a past narrative."
         },
         {
           "letter": "C",
           "text": "was walking / was seeing",
           "is_correct": false,
-          "feedback": "'See' es un verbo de percepción que no suele usarse en la forma continua en este sentido."
+          "feedback": "'See' is a perception verb and is not normally used in the continuous in this sense."
         }
       ],
       "correct_answer": "D",
@@ -196,25 +196,25 @@
           "letter": "B",
           "text": "traveled / was",
           "is_correct": false,
-          "feedback": "Suena más natural usar el continuo para explicar qué estabas haciendo en ese momento."
+          "feedback": "Past simple 'traveled' does not convey what you were in the middle of doing at that moment; the continuous is more natural here."
         },
         {
           "letter": "A",
           "text": "was traveling / was",
           "is_correct": true,
-          "feedback": "¡Correcto! Estabas en el proceso de viajar y el estado del subte era ruidoso."
+          "feedback": "Correct. You were in the process of travelling, which takes 'was' plus -ing, and the state of the subway was noisy."
         },
         {
           "letter": "C",
           "text": "traveling / being",
           "is_correct": false,
-          "feedback": "Faltan los verbos auxiliares para que la oración tenga sentido gramatical."
+          "feedback": "'Traveling' and 'being' are missing the auxiliary verbs, so the sentence has no grammatical structure."
         },
         {
           "letter": "D",
           "text": "was travel / was",
           "is_correct": false,
-          "feedback": "Después de 'was' necesitás el gerundio (-ing) para formar el pasado continuo."
+          "feedback": "After 'was' the verb needs the -ing form; 'was travel' is not a form of the verb at all."
         }
       ],
       "correct_answer": "A",
@@ -241,25 +241,25 @@
           "letter": "A",
           "text": "they were doing",
           "is_correct": false,
-          "feedback": "En las preguntas, el verbo auxiliar 'were' debe ir antes del sujeto."
+          "feedback": "In a question the auxiliary 'were' has to come before the subject, not after it."
         },
         {
           "letter": "C",
           "text": "were they doing",
           "is_correct": true,
-          "feedback": "¡Perfecto! La estructura es: Word + were/was + sujeto + verbo-ing?"
+          "feedback": "Correct. The structure is word order plus 'were' plus subject plus verb-ing, giving 'were they doing'."
         },
         {
           "letter": "B",
           "text": "did they do",
           "is_correct": false,
-          "feedback": "Esto preguntaría qué hicieron después, no qué estaban haciendo en ese momento."
+          "feedback": "'Did they do' would ask what they did at some point, not what they were in the middle of doing."
         },
         {
           "letter": "D",
           "text": "they did",
           "is_correct": false,
-          "feedback": "Falta el auxiliar 'did' para una pregunta en pasado simple, y no es el tiempo continuo solicitado."
+          "feedback": "'They did' is missing the auxiliary for a past simple question and does not form the continuous at all."
         }
       ],
       "correct_answer": "C",
@@ -286,25 +286,25 @@
           "letter": "B",
           "text": "While Martina worked, Facundo was making coffee.",
           "is_correct": false,
-          "feedback": "Aunque se entiende, es mejor usar continuo en ambos para enfatizar la simultaneidad de procesos."
+          "feedback": "'Worked' in past simple is understandable, but it is better to use the continuous for both actions to stress that two processes overlapped."
         },
         {
           "letter": "A",
           "text": "While Martina was working, Facundo was making coffee.",
           "is_correct": true,
-          "feedback": "¡Muy bien! Ambas eran acciones en progreso al mismo tiempo."
+          "feedback": "Correct. Both actions were in progress at the same time, which is exactly what past continuous for both expresses."
         },
         {
           "letter": "C",
           "text": "Martina was working while Facundo made coffee.",
           "is_correct": false,
-          "feedback": "El uso del pasado simple en 'made' corta la idea de proceso simultáneo largo."
+          "feedback": "'Made' in past simple cuts the idea of two long simultaneous processes."
         },
         {
           "letter": "D",
           "text": "Martina was work while Facundo was make coffee.",
           "is_correct": false,
-          "feedback": "Faltan las terminaciones '-ing' en ambos verbos principales."
+          "feedback": "Both main verbs lack the -ing endings, so the continuous is not formed at all."
         }
       ],
       "correct_answer": "A",
@@ -331,25 +331,25 @@
           "letter": "A",
           "text": "We arrived at the hotel first, and then it started to rain.",
           "is_correct": false,
-          "feedback": "Si la lluvia empezó después, usaríamos pasado simple: \"it rained\"."
+          "feedback": "If the rain began after the arrival, past simple would be used instead: 'when we arrived at the hotel, it rained'."
         },
         {
           "letter": "B",
           "text": "It was already raining before we arrived.",
           "is_correct": true,
-          "feedback": "¡Exacto! El pasado continuo indica que la lluvia era una situación previa que seguía ocurriendo."
+          "feedback": "Correct. The past continuous shows the rain was already going on as the background situation before the arrival."
         },
         {
           "letter": "C",
           "text": "Both actions started exactly at the same millisecond.",
           "is_correct": false,
-          "feedback": "El lenguaje no suele ser tan preciso, pero el continuo claramente indica un trasfondo previo."
+          "feedback": "The wording is odd, and in any case the continuous clearly marks the rain as a situation that had already started."
         },
         {
           "letter": "D",
           "text": "The sentence is incorrect; you cannot use 'when' with Past Continuous.",
           "is_correct": false,
-          "feedback": "Es totalmente correcto usar 'when' para introducir el momento en que se percibe una acción continua."
+          "feedback": "There is nothing wrong with the sentence: 'when' is routinely used with a past continuous clause."
         }
       ],
       "correct_answer": "B",
@@ -376,25 +376,25 @@
           "letter": "A",
           "text": "I was looking for my keys when I found them in my pocket.",
           "is_correct": false,
-          "feedback": "Esto describe una interrupción, no una secuencia de pasos."
+          "feedback": "This describes a long action interrupted by a short one, not a list of steps completed one after the other."
         },
         {
           "letter": "D",
           "text": "I looked for my keys, found them in my pocket, and opened the door.",
           "is_correct": true,
-          "feedback": "¡Correcto! El pasado simple se usa para una lista de acciones que ocurrieron en orden sucesivo."
+          "feedback": "Correct. Past simple is used for a series of completed actions happening in successive order."
         },
         {
           "letter": "B",
           "text": "I was looking for my keys and finding them in my pocket.",
           "is_correct": false,
-          "feedback": "No tiene mucho sentido usar continuo para el momento puntual de encontrar algo."
+          "feedback": "It makes little sense to use the continuous for the precise moment of finding something."
         },
         {
           "letter": "C",
           "text": "While I looked for my keys, I was finding them.",
           "is_correct": false,
-          "feedback": "Gramaticalmente extraño y no describe una secuencia lógica de eventos terminados."
+          "feedback": "This is awkward and it does not describe a logical sequence of finished events."
         }
       ],
       "correct_answer": "D",
@@ -421,25 +421,25 @@
           "letter": "A",
           "text": "The wind blew. The snow fell. We walked to the cabin.",
           "is_correct": false,
-          "feedback": "Es gramaticalmente correcto pero suena a una lista seca de hechos, no a una ambientación."
+          "feedback": "It is grammatically correct, but it reads like a dry list of facts rather than creating atmosphere."
         },
         {
           "letter": "C",
           "text": "The wind was blowing and the snow was falling. We were walking slowly to the cabin.",
           "is_correct": true,
-          "feedback": "¡Excelente! El pasado continuo es ideal para describir el trasfondo o la atmósfera de una escena."
+          "feedback": "Correct. Past continuous is ideal for setting the background or atmosphere of a scene, as it paints the ongoing situation rather than single completed events."
         },
         {
           "letter": "B",
           "text": "The wind blows and the snow falls. We walk to the cabin.",
           "is_correct": false,
-          "feedback": "Esto está en presente, lo que cambia el tiempo de la narración por completo."
+          "feedback": "This is in the present tense, which moves the narration to a different time altogether."
         },
         {
           "letter": "D",
           "text": "The wind did blow and the snow did fall.",
           "is_correct": false,
-          "feedback": "El uso de 'did' en afirmativo es enfático y no sirve para crear atmósfera de fondo."
+          "feedback": "Using emphatic 'did' in an affirmative statement does not create background atmosphere."
         }
       ],
       "correct_answer": "C",
@@ -466,25 +466,25 @@
           "letter": "A",
           "text": "We were traveling through the pampas. (British/International spelling)",
           "is_correct": false,
-          "feedback": "Es correcto; la doble 'l' es común en inglés británico/internacional."
+          "feedback": "This is correct; the double 'l' is standard in British and international spelling of 'travelling'."
         },
         {
           "letter": "C",
           "text": "They were sitting on the grass.",
           "is_correct": false,
-          "feedback": "Es correcto; duplicamos la consonante en verbos cortos de una sílaba (con-voc-con)."
+          "feedback": "This is correct; the consonant is doubled in short one-syllable verbs ending in a single consonant, as in sit -> sitting."
         },
         {
           "letter": "B",
           "text": "She was writeing a letter to her cousin in Salta.",
           "is_correct": true,
-          "feedback": "¡Error! Cuando un verbo termina en 'e' muda (como write), se quita la 'e' antes de poner -ing."
+          "feedback": "Correct. This one has the error: when a verb ends in a silent 'e', the 'e' is dropped before adding -ing, so 'write' becomes 'writing', not 'writeing'."
         },
         {
           "letter": "D",
           "text": "It was beginning to get dark.",
           "is_correct": false,
-          "feedback": "Es correcto; duplicamos la 'n' porque la última sílaba es la que suena fuerte (acentuada)."
+          "feedback": "This is correct; the 'n' is doubled because the final syllable is the stressed one, as in begin -> beginning."
         }
       ],
       "correct_answer": "B",
@@ -511,25 +511,25 @@
           "letter": "C",
           "text": "Yes, because 'have a great time' is an experience/action, not just possession.",
           "is_correct": true,
-          "feedback": "¡Correcto! Aunque 'have' de poseer no va en continuo, 'have a time/party/shower' sí puede."
+          "feedback": "'Have' as possession is a stative verb and does not go into the continuous, but 'have a great time' is an activity expression and can."
         },
         {
           "letter": "B",
           "text": "No, because 'have' is a stative verb and can never have -ing.",
           "is_correct": false,
-          "feedback": "Incorrecto; 'have' cambia según si es posesión o si es parte de una expresión de acción."
+          "feedback": "This is wrong: 'have' behaves differently depending on whether it means possession or is part of an activity phrase."
         },
         {
           "letter": "A",
           "text": "No, it should be \"I had been having a great time\".",
           "is_correct": false,
-          "feedback": "Eso sería pasado perfecto continuo, demasiado complejo y no necesario para este contexto."
+          "feedback": "'I had been having a great time' is the past perfect continuous, which is far too complex and unnecessary here."
         },
         {
           "letter": "D",
           "text": "Yes, but only if the party is still happening now.",
           "is_correct": false,
-          "feedback": "No, porque el contexto de 'when you called' ya marca que es una situación pasada."
+          "feedback": "The phrase 'when you called' already marks the situation as past, so the party does not need to still be happening."
         }
       ],
       "correct_answer": "C",

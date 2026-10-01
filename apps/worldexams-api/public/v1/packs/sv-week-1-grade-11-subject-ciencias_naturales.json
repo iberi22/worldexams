@@ -16,25 +16,25 @@
           "letter": "D",
           "text": "Fotosíntesis",
           "is_correct": true,
-          "feedback": "¡Correcto!"
+          "feedback": "Correcto: en la fotosíntesis las plantas captan la energía de la luz y la almacenan como energía química en la glucosa."
         },
         {
           "letter": "A",
           "text": "Respiración celular",
           "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "feedback": "la respiración celular libera energía química a partir de la glucosa; no convierte la luz en energía química."
         },
         {
           "letter": "B",
           "text": "Fermentación",
           "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "feedback": "la fermentación es una vía anaeróbica para obtener energía de los azúcares y no utiliza la luz."
         },
         {
           "letter": "C",
           "text": "Digestión",
           "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "feedback": "la digestión descompone los alimentos para absorberlos; no es un proceso que aproveche la luz."
         }
       ],
       "correct_answer": "D",
@@ -61,25 +61,25 @@
           "letter": "C",
           "text": "6 N",
           "is_correct": true,
-          "feedback": "¡Correcto!"
+          "feedback": "Correcto: con $F = ma$ se obtiene $F = 2 \\times 3 = 6\\ N$, que es la fuerza aplicada."
         },
         {
           "letter": "A",
           "text": "4 N",
           "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "feedback": "Incorrecto: al aplicar $F = ma$ la fuerza es $2 \\times 3 = 6\\ N$; el valor 4 N correspondería a otra masa o a otra aceleración."
         },
         {
           "letter": "B",
           "text": "9 N",
           "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "feedback": "Incorrecto: al aplicar $F = ma$ la fuerza es $2 \\times 3 = 6\\ N$; el valor 9 N correspondería a otra masa o a otra aceleración."
         },
         {
           "letter": "D",
           "text": "2 N",
           "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "feedback": "Incorrecto: al aplicar $F = ma$ la fuerza es $2 \\times 3 = 6\\ N$; el valor 2 N correspondería a otra masa o a otra aceleración."
         }
       ],
       "correct_answer": "C",
@@ -106,25 +106,25 @@
           "letter": "A",
           "text": "La piel",
           "is_correct": true,
-          "feedback": "¡Correcto!"
+          "feedback": "Correcto: la piel es el órgano más grande del cuerpo humano, formado por la epidermis y la dermis."
         },
         {
           "letter": "B",
           "text": "El hígado",
           "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "feedback": "el hígado es la glándula más grande del cuerpo, pero su masa es mucho menor que la de la piel."
         },
         {
           "letter": "C",
           "text": "El corazón",
           "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "feedback": "el corazón bombea la sangre, pero es un órgano pequeño comparado con la piel."
         },
         {
           "letter": "D",
           "text": "Los pulmones",
           "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "feedback": "los pulmones son órganos pares de la respiración y su superficie es menor que la de la piel."
         }
       ],
       "correct_answer": "A",
@@ -151,25 +151,25 @@
           "letter": "C",
           "text": "La exposición a la luz",
           "is_correct": true,
-          "feedback": "¡Correcto!"
+          "feedback": "Correcto: la exposición a la luz es la variable que el investigador modifica de forma deliberada."
         },
         {
           "letter": "A",
           "text": "El crecimiento de las plantas",
           "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "feedback": "el crecimiento es lo que se mide para comprobar el efecto, por eso es la variable dependiente."
         },
         {
           "letter": "B",
           "text": "La temperatura ambiente",
           "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "feedback": "si la temperatura se mantiene igual en los dos grupos, no es la variable que se modifica."
         },
         {
           "letter": "D",
           "text": "El tipo de planta",
           "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "feedback": "se usa el mismo tipo de planta en los dos grupos; lo que cambia de un grupo a otro es la luz."
         }
       ],
       "correct_answer": "C",
@@ -196,25 +196,25 @@
           "letter": "C",
           "text": "La célula",
           "is_correct": true,
-          "feedback": "¡Correcto!"
+          "feedback": "Correcto: la célula es la unidad estructural y funcional básica de todos los seres vivos."
         },
         {
           "letter": "A",
           "text": "El átomo",
           "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "feedback": "el átomo es la unidad básica de la materia, no de la vida."
         },
         {
           "letter": "B",
           "text": "La molécula",
           "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "feedback": "una molécula es un conjunto de átomos; la estructura mínima de un ser vivo es la célula."
         },
         {
           "letter": "D",
           "text": "El tejido",
           "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "feedback": "el tejido es un conjunto de células del mismo tipo, un nivel por encima de la célula."
         }
       ],
       "correct_answer": "C",
@@ -241,25 +241,25 @@
           "letter": "D",
           "text": "Fotosíntesis",
           "is_correct": true,
-          "feedback": "¡Correcto!"
+          "feedback": "Correcto: en la fotosíntesis las plantas captan la energía de la luz y la almacenan como energía química en la glucosa."
         },
         {
           "letter": "A",
           "text": "Respiración celular",
           "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "feedback": "la respiración celular libera energía química a partir de la glucosa; no convierte la luz en energía química."
         },
         {
           "letter": "B",
           "text": "Fermentación",
           "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "feedback": "la fermentación es una vía anaeróbica para obtener energía de los azúcares y no utiliza la luz."
         },
         {
           "letter": "C",
           "text": "Digestión",
           "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "feedback": "la digestión descompone los alimentos para absorberlos; no es un proceso que aproveche la luz."
         }
       ],
       "correct_answer": "D",
@@ -286,25 +286,25 @@
           "letter": "B",
           "text": "24 N",
           "is_correct": true,
-          "feedback": "¡Correcto!"
+          "feedback": "Correcto: con $F = ma$ se obtiene $F = 8 \\times 3 = 24\\ N$, que es la fuerza aplicada."
         },
         {
           "letter": "A",
           "text": "16 N",
           "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "feedback": "Incorrecto: al aplicar $F = ma$ la fuerza es $8 \\times 3 = 24\\ N$; el valor 16 N correspondería a otra masa o a otra aceleración."
         },
         {
           "letter": "C",
           "text": "27 N",
           "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "feedback": "Incorrecto: al aplicar $F = ma$ la fuerza es $8 \\times 3 = 24\\ N$; el valor 27 N correspondería a otra masa o a otra aceleración."
         },
         {
           "letter": "D",
           "text": "8 N",
           "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "feedback": "Incorrecto: al aplicar $F = ma$ la fuerza es $8 \\times 3 = 24\\ N$; el valor 8 N correspondería a otra masa o a otra aceleración."
         }
       ],
       "correct_answer": "B",
@@ -331,25 +331,25 @@
           "letter": "C",
           "text": "La piel",
           "is_correct": true,
-          "feedback": "¡Correcto!"
+          "feedback": "Correcto: la piel es el órgano más grande del cuerpo humano, formado por la epidermis y la dermis."
         },
         {
           "letter": "A",
           "text": "El hígado",
           "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "feedback": "el hígado es la glándula más grande del cuerpo, pero su masa es mucho menor que la de la piel."
         },
         {
           "letter": "B",
           "text": "El corazón",
           "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "feedback": "el corazón bombea la sangre, pero es un órgano pequeño comparado con la piel."
         },
         {
           "letter": "D",
           "text": "Los pulmones",
           "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "feedback": "los pulmones son órganos pares de la respiración y su superficie es menor que la de la piel."
         }
       ],
       "correct_answer": "C",
@@ -376,25 +376,25 @@
           "letter": "D",
           "text": "La exposición a la luz",
           "is_correct": true,
-          "feedback": "¡Correcto!"
+          "feedback": "Correcto: la exposición a la luz es la variable que el investigador modifica de forma deliberada."
         },
         {
           "letter": "A",
           "text": "El crecimiento de las plantas",
           "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "feedback": "el crecimiento es lo que se mide para comprobar el efecto, por eso es la variable dependiente."
         },
         {
           "letter": "B",
           "text": "La temperatura ambiente",
           "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "feedback": "si la temperatura se mantiene igual en los dos grupos, no es la variable que se modifica."
         },
         {
           "letter": "C",
           "text": "El tipo de planta",
           "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "feedback": "se usa el mismo tipo de planta en los dos grupos; lo que cambia de un grupo a otro es la luz."
         }
       ],
       "correct_answer": "D",
@@ -421,25 +421,25 @@
           "letter": "B",
           "text": "La célula",
           "is_correct": true,
-          "feedback": "¡Correcto!"
+          "feedback": "Correcto: la célula es la unidad estructural y funcional básica de todos los seres vivos."
         },
         {
           "letter": "A",
           "text": "El átomo",
           "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "feedback": "el átomo es la unidad básica de la materia, no de la vida."
         },
         {
           "letter": "C",
           "text": "La molécula",
           "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "feedback": "una molécula es un conjunto de átomos; la estructura mínima de un ser vivo es la célula."
         },
         {
           "letter": "D",
           "text": "El tejido",
           "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "feedback": "el tejido es un conjunto de células del mismo tipo, un nivel por encima de la célula."
         }
       ],
       "correct_answer": "B",
@@ -466,25 +466,25 @@
           "letter": "B",
           "text": "Fotosíntesis",
           "is_correct": true,
-          "feedback": "¡Correcto!"
+          "feedback": "Correcto: en la fotosíntesis las plantas captan la energía de la luz y la almacenan como energía química en la glucosa."
         },
         {
           "letter": "A",
           "text": "Respiración celular",
           "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "feedback": "la respiración celular libera energía química a partir de la glucosa; no convierte la luz en energía química."
         },
         {
           "letter": "C",
           "text": "Fermentación",
           "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "feedback": "la fermentación es una vía anaeróbica para obtener energía de los azúcares y no utiliza la luz."
         },
         {
           "letter": "D",
           "text": "Digestión",
           "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "feedback": "la digestión descompone los alimentos para absorberlos; no es un proceso que aproveche la luz."
         }
       ],
       "correct_answer": "B",
@@ -511,25 +511,25 @@
           "letter": "B",
           "text": "15 N",
           "is_correct": true,
-          "feedback": "¡Correcto!"
+          "feedback": "Correcto: con $F = ma$ se obtiene $F = 3 \\times 5 = 15\\ N$, que es la fuerza aplicada."
         },
         {
           "letter": "A",
           "text": "12 N",
           "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "feedback": "Incorrecto: al aplicar $F = ma$ la fuerza es $3 \\times 5 = 15\\ N$; el valor 12 N correspondería a otra masa o a otra aceleración."
         },
         {
           "letter": "C",
           "text": "20 N",
           "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "feedback": "Incorrecto: al aplicar $F = ma$ la fuerza es $3 \\times 5 = 15\\ N$; el valor 20 N correspondería a otra masa o a otra aceleración."
         },
         {
           "letter": "D",
           "text": "3 N",
           "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "feedback": "Incorrecto: al aplicar $F = ma$ la fuerza es $3 \\times 5 = 15\\ N$; el valor 3 N correspondería a otra masa o a otra aceleración."
         }
       ],
       "correct_answer": "B",
@@ -556,25 +556,25 @@
           "letter": "A",
           "text": "La piel",
           "is_correct": true,
-          "feedback": "¡Correcto!"
+          "feedback": "Correcto: la piel es el órgano más grande del cuerpo humano, formado por la epidermis y la dermis."
         },
         {
           "letter": "B",
           "text": "El hígado",
           "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "feedback": "el hígado es la glándula más grande del cuerpo, pero su masa es mucho menor que la de la piel."
         },
         {
           "letter": "C",
           "text": "El corazón",
           "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "feedback": "el corazón bombea la sangre, pero es un órgano pequeño comparado con la piel."
         },
         {
           "letter": "D",
           "text": "Los pulmones",
           "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "feedback": "los pulmones son órganos pares de la respiración y su superficie es menor que la de la piel."
         }
       ],
       "correct_answer": "A",
@@ -601,25 +601,25 @@
           "letter": "B",
           "text": "La exposición a la luz",
           "is_correct": true,
-          "feedback": "¡Correcto!"
+          "feedback": "Correcto: la exposición a la luz es la variable que el investigador modifica de forma deliberada."
         },
         {
           "letter": "A",
           "text": "El crecimiento de las plantas",
           "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "feedback": "el crecimiento es lo que se mide para comprobar el efecto, por eso es la variable dependiente."
         },
         {
           "letter": "C",
           "text": "La temperatura ambiente",
           "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "feedback": "si la temperatura se mantiene igual en los dos grupos, no es la variable que se modifica."
         },
         {
           "letter": "D",
           "text": "El tipo de planta",
           "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "feedback": "se usa el mismo tipo de planta en los dos grupos; lo que cambia de un grupo a otro es la luz."
         }
       ],
       "correct_answer": "B",
@@ -646,25 +646,25 @@
           "letter": "D",
           "text": "La célula",
           "is_correct": true,
-          "feedback": "¡Correcto!"
+          "feedback": "Correcto: la célula es la unidad estructural y funcional básica de todos los seres vivos."
         },
         {
           "letter": "A",
           "text": "El átomo",
           "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "feedback": "el átomo es la unidad básica de la materia, no de la vida."
         },
         {
           "letter": "B",
           "text": "La molécula",
           "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "feedback": "una molécula es un conjunto de átomos; la estructura mínima de un ser vivo es la célula."
         },
         {
           "letter": "C",
           "text": "El tejido",
           "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "feedback": "el tejido es un conjunto de células del mismo tipo, un nivel por encima de la célula."
         }
       ],
       "correct_answer": "D",
@@ -691,25 +691,25 @@
           "letter": "B",
           "text": "Fotosíntesis",
           "is_correct": true,
-          "feedback": "¡Correcto!"
+          "feedback": "Correcto: en la fotosíntesis las plantas captan la energía de la luz y la almacenan como energía química en la glucosa."
         },
         {
           "letter": "A",
           "text": "Respiración celular",
           "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "feedback": "la respiración celular libera energía química a partir de la glucosa; no convierte la luz en energía química."
         },
         {
           "letter": "C",
           "text": "Fermentación",
           "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "feedback": "la fermentación es una vía anaeróbica para obtener energía de los azúcares y no utiliza la luz."
         },
         {
           "letter": "D",
           "text": "Digestión",
           "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "feedback": "la digestión descompone los alimentos para absorberlos; no es un proceso que aproveche la luz."
         }
       ],
       "correct_answer": "B",
@@ -736,25 +736,25 @@
           "letter": "D",
           "text": "24 N",
           "is_correct": true,
-          "feedback": "¡Correcto!"
+          "feedback": "Correcto: con $F = ma$ se obtiene $F = 8 \\times 3 = 24\\ N$, que es la fuerza aplicada."
         },
         {
           "letter": "A",
           "text": "16 N",
           "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "feedback": "Incorrecto: al aplicar $F = ma$ la fuerza es $8 \\times 3 = 24\\ N$; el valor 16 N correspondería a otra masa o a otra aceleración."
         },
         {
           "letter": "B",
           "text": "27 N",
           "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "feedback": "Incorrecto: al aplicar $F = ma$ la fuerza es $8 \\times 3 = 24\\ N$; el valor 27 N correspondería a otra masa o a otra aceleración."
         },
         {
           "letter": "C",
           "text": "8 N",
           "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "feedback": "Incorrecto: al aplicar $F = ma$ la fuerza es $8 \\times 3 = 24\\ N$; el valor 8 N correspondería a otra masa o a otra aceleración."
         }
       ],
       "correct_answer": "D",
@@ -781,25 +781,25 @@
           "letter": "A",
           "text": "La piel",
           "is_correct": true,
-          "feedback": "¡Correcto!"
+          "feedback": "Correcto: la piel es el órgano más grande del cuerpo humano, formado por la epidermis y la dermis."
         },
         {
           "letter": "B",
           "text": "El hígado",
           "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "feedback": "el hígado es la glándula más grande del cuerpo, pero su masa es mucho menor que la de la piel."
         },
         {
           "letter": "C",
           "text": "El corazón",
           "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "feedback": "el corazón bombea la sangre, pero es un órgano pequeño comparado con la piel."
         },
         {
           "letter": "D",
           "text": "Los pulmones",
           "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "feedback": "los pulmones son órganos pares de la respiración y su superficie es menor que la de la piel."
         }
       ],
       "correct_answer": "A",
@@ -826,25 +826,25 @@
           "letter": "D",
           "text": "La exposición a la luz",
           "is_correct": true,
-          "feedback": "¡Correcto!"
+          "feedback": "Correcto: la exposición a la luz es la variable que el investigador modifica de forma deliberada."
         },
         {
           "letter": "A",
           "text": "El crecimiento de las plantas",
           "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "feedback": "el crecimiento es lo que se mide para comprobar el efecto, por eso es la variable dependiente."
         },
         {
           "letter": "B",
           "text": "La temperatura ambiente",
           "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "feedback": "si la temperatura se mantiene igual en los dos grupos, no es la variable que se modifica."
         },
         {
           "letter": "C",
           "text": "El tipo de planta",
           "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "feedback": "se usa el mismo tipo de planta en los dos grupos; lo que cambia de un grupo a otro es la luz."
         }
       ],
       "correct_answer": "D",
@@ -871,25 +871,25 @@
           "letter": "A",
           "text": "La célula",
           "is_correct": true,
-          "feedback": "¡Correcto!"
+          "feedback": "Correcto: la célula es la unidad estructural y funcional básica de todos los seres vivos."
         },
         {
           "letter": "B",
           "text": "El átomo",
           "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "feedback": "el átomo es la unidad básica de la materia, no de la vida."
         },
         {
           "letter": "C",
           "text": "La molécula",
           "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "feedback": "una molécula es un conjunto de átomos; la estructura mínima de un ser vivo es la célula."
         },
         {
           "letter": "D",
           "text": "El tejido",
           "is_correct": false,
-          "feedback": "Incorrecto. Revisa el concepto."
+          "feedback": "el tejido es un conjunto de células del mismo tipo, un nivel por encima de la célula."
         }
       ],
       "correct_answer": "A",

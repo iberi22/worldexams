@@ -16,25 +16,25 @@
           "letter": "A",
           "text": "Hear",
           "is_correct": false,
-          "feedback": "Incorrect form."
+          "feedback": "'Hear' is the base form and cannot open a reduced adverbial clause on its own."
         },
         {
           "letter": "D",
           "text": "Hearing",
           "is_correct": true,
-          "feedback": "Correct present participle clause (Hearing = After they heard)."
+          "feedback": "'Hearing' is the present participle, giving the temporal meaning 'after they heard'."
         },
         {
           "letter": "B",
           "text": "Heard",
           "is_correct": false,
-          "feedback": "Past participle suggests a passive meaning."
+          "feedback": "'Heard' is a past participle and would suggest a passive meaning that the sentence does not have."
         },
         {
           "letter": "C",
           "text": "To hear",
           "is_correct": false,
-          "feedback": "Incorrect."
+          "feedback": "'To hear' expresses purpose, but the clause here states the cause of the fans rushing to buy tickets."
         }
       ],
       "correct_answer": "D",
@@ -62,25 +62,25 @@
           "letter": "A",
           "text": "Inspiring",
           "is_correct": false,
-          "feedback": "Present participle implies the film is doing the inspiring (active)."
+          "feedback": "'Inspiring' would make the film the thing doing the inspiring, which contradicts the passive reading."
         },
         {
           "letter": "D",
           "text": "Inspired",
           "is_correct": true,
-          "feedback": "Correct past participle clause (Inspired = Because it was inspired)."
+          "feedback": "'Inspired' is a past participle giving the passive reason 'because it was inspired'."
         },
         {
           "letter": "B",
           "text": "Inspire",
           "is_correct": false,
-          "feedback": "Incorrect form."
+          "feedback": "'Inspire' is the base form and cannot stand as a reduced clause before the subject."
         },
         {
           "letter": "C",
           "text": "Having inspired",
           "is_correct": false,
-          "feedback": "Active perfect participle."
+          "feedback": "'Having inspired' is active and perfect, which would mean the film inspired something itself."
         }
       ],
       "correct_answer": "D",
@@ -108,25 +108,25 @@
           "letter": "A",
           "text": "Spent",
           "is_correct": false,
-          "feedback": "Incorrect."
+          "feedback": "'Spent' is a past participle used passively, but nobody spent the actor's hours."
         },
         {
           "letter": "D",
           "text": "Having spent",
           "is_correct": true,
-          "feedback": "Correct perfect participle clause (Having spent = After he had spent)."
+          "feedback": "'Having spent' is the perfect participle: the practice was finished before the audition."
         },
         {
           "letter": "B",
           "text": "Spending",
           "is_correct": false,
-          "feedback": "Correct but B shows the sequence better."
+          "feedback": "'Spending' keeps the action simultaneous with the confidence, whereas the sequence is already complete."
         },
         {
           "letter": "C",
           "text": "To spend",
           "is_correct": false,
-          "feedback": "Incorrect."
+          "feedback": "'To spend' expresses purpose, but the clause states the cause of the confidence."
         }
       ],
       "correct_answer": "D",
@@ -154,25 +154,25 @@
           "letter": "A",
           "text": "offered",
           "is_correct": false,
-          "feedback": "Passive meaning (incorrect here)."
+          "feedback": "'Offered' is a past participle and would make the recommendations the thing receiving the offer."
         },
         {
           "letter": "B",
           "text": "offering",
           "is_correct": true,
-          "feedback": "Correct present participle clause (offering = which offer)."
+          "feedback": "'Offering' is the present participle giving the non-restrictive relative meaning 'which offer'."
         },
         {
           "letter": "C",
           "text": "having offered",
           "is_correct": false,
-          "feedback": "Suggests the offering happened earlier and stopped."
+          "feedback": "'Having offered' would mean the offering was completed and stopped before the change in habits."
         },
         {
           "letter": "D",
           "text": "to offer",
           "is_correct": false,
-          "feedback": "Incorrect."
+          "feedback": "'To offer' is an infinitive and cannot modify the subject before the comma."
         }
       ],
       "correct_answer": "B",
@@ -200,25 +200,25 @@
           "letter": "B",
           "text": "Surrounding",
           "is_correct": false,
-          "feedback": "Active meaning."
+          "feedback": "'Surrounding' is active and would make the mountains the ones doing the surrounding."
         },
         {
           "letter": "A",
           "text": "Surrounded",
           "is_correct": true,
-          "feedback": "Correct past participle clause (passive state)."
+          "feedback": "'Surrounded' is a past participle giving the passive state of being enclosed by mountains."
         },
         {
           "letter": "C",
           "text": "Having surrounded",
           "is_correct": false,
-          "feedback": "Incorrect."
+          "feedback": "'Having surrounded' is active, but the mountains are not doing the surrounding here."
         },
         {
           "letter": "D",
           "text": "Being surround",
           "is_correct": false,
-          "feedback": "Incorrect."
+          "feedback": "'Being surround' is not a valid form; the participle would be 'being surrounded'."
         }
       ],
       "correct_answer": "A",
@@ -246,25 +246,25 @@
           "letter": "A",
           "text": "Noted",
           "is_correct": false,
-          "feedback": "Passive meaning."
+          "feedback": "'Noted' is a past participle and would make the producers the ones being noted."
         },
         {
           "letter": "C",
           "text": "Realizing",
           "is_correct": true,
-          "feedback": "Correct present participle clause showing the reason."
+          "feedback": "'Realizing' is the present participle giving the reason for the decision."
         },
         {
           "letter": "B",
           "text": "To realize",
           "is_correct": false,
-          "feedback": "Incorrect."
+          "feedback": "'To realize' is an infinitive and cannot modify the subject before the comma."
         },
         {
           "letter": "D",
           "text": "Having realized",
           "is_correct": false,
-          "feedback": "Also correct, emphasizing the completion of the realization."
+          "feedback": "'Having realized' stresses completion of the realising, which is more than the sentence claims."
         }
       ],
       "correct_answer": "C",
@@ -292,25 +292,25 @@
           "letter": "A",
           "text": "knowing",
           "is_correct": false,
-          "feedback": "Active meaning."
+          "feedback": "'Knowing' is active and would make the director the one who knows his techniques."
         },
         {
           "letter": "C",
           "text": "known",
           "is_correct": true,
-          "feedback": "Correct past participle clause (known = who is known)."
+          "feedback": "'Known' is a past participle giving the reduced relative 'who is known for'."
         },
         {
           "letter": "B",
           "text": "has known",
           "is_correct": false,
-          "feedback": "Incorrect."
+          "feedback": "'Has known' is a tense form and cannot serve as a reduced relative clause here."
         },
         {
           "letter": "D",
           "text": "to be known",
           "is_correct": false,
-          "feedback": "Incorrect."
+          "feedback": "'To be known' is an infinitive and would need a subject of its own."
         }
       ],
       "correct_answer": "C",
@@ -338,25 +338,25 @@
           "letter": "A",
           "text": "Discovered",
           "is_correct": false,
-          "feedback": "Possible, but B is more active. Wait, B is 'Discovering'."
+          "feedback": "'Discovered' is a past participle and would suggest the singer did the discovering."
         },
         {
           "letter": "D",
           "text": "Having been discovered",
           "is_correct": true,
-          "feedback": "Correct perfect passive participle (Having been discovered = After she had been discovered)."
+          "feedback": "'Having been discovered' is the perfect passive participle: she had already been discovered when fame came."
         },
         {
           "letter": "B",
           "text": "Discovering",
           "is_correct": false,
-          "feedback": "Active meaning."
+          "feedback": "'Discovering' is active and would make the singer the one discovering."
         },
         {
           "letter": "C",
           "text": "To be discovered",
           "is_correct": false,
-          "feedback": "Incorrect."
+          "feedback": "'To be discovered' is an infinitive and cannot open this reduced clause."
         }
       ],
       "correct_answer": "D",
@@ -384,25 +384,25 @@
           "letter": "A",
           "text": "Seen",
           "is_correct": false,
-          "feedback": "Incorrect."
+          "feedback": "'Seen' alone has no auxiliary to complete the participle."
         },
         {
           "letter": "C",
           "text": "Seeing",
           "is_correct": true,
-          "feedback": "Correct present participle clause (Seeing = Since they see)."
+          "feedback": "'Seeing' is the present participle giving the reason: 'since they see the risk'."
         },
         {
           "letter": "B",
           "text": "By seeing",
           "is_correct": false,
-          "feedback": "'By' usually shows method, not just reason."
+          "feedback": "'By seeing' usually expresses method, but the clause states a reason."
         },
         {
           "letter": "D",
           "text": "Having seen",
           "is_correct": false,
-          "feedback": "Also possible, but B is standard for a current situation."
+          "feedback": "'Having seen' would place the perception in the past, while the risk is a current one."
         }
       ],
       "correct_answer": "C",
@@ -430,25 +430,25 @@
           "letter": "D",
           "text": "Stored",
           "is_correct": true,
-          "feedback": "Correct past participle clause (Stored = Because they are stored)."
+          "feedback": "'Stored' is a past participle giving the passive reason 'because they are stored'."
         },
         {
           "letter": "A",
           "text": "Storing",
           "is_correct": false,
-          "feedback": "Active meaning."
+          "feedback": "'Storing' is active and would make the reels the ones doing the storing."
         },
         {
           "letter": "B",
           "text": "Having stored",
           "is_correct": false,
-          "feedback": "Active perfect participle."
+          "feedback": "'Having stored' is active perfect, which would mean the reels stored something."
         },
         {
           "letter": "C",
           "text": "To store",
           "is_correct": false,
-          "feedback": "Incorrect."
+          "feedback": "'To store' is an infinitive and cannot modify the subject before the comma."
         }
       ],
       "correct_answer": "D",
@@ -476,25 +476,25 @@
           "letter": "A",
           "text": "Writing",
           "is_correct": false,
-          "feedback": "Active meaning."
+          "feedback": "'Writing' is active and would make the script the thing doing the writing."
         },
         {
           "letter": "B",
           "text": "Written",
           "is_correct": false,
-          "feedback": "Correct but B is more sequential."
+          "feedback": "'Written' would work as a passive participle, but 'having been rewritten' states that the rewriting was completed first."
         },
         {
           "letter": "D",
           "text": "Having been rewritten",
           "is_correct": true,
-          "feedback": "Correct perfect passive participle."
+          "feedback": "'Having been rewritten' is the perfect passive participle: the rewrites were finished before the script was ready."
         },
         {
           "letter": "C",
           "text": "To be rewritten",
           "is_correct": false,
-          "feedback": "Incorrect."
+          "feedback": "'To be rewritten' is an infinitive and cannot open this reduced clause."
         }
       ],
       "correct_answer": "D",
@@ -522,25 +522,25 @@
           "letter": "C",
           "text": "Viewed / examined",
           "is_correct": true,
-          "feedback": "Correct dual past participle clauses."
+          "feedback": "Both halves need a past participle: the effects 'viewed' and 'examined' give the passive of each perspective."
         },
         {
           "letter": "A",
           "text": "Viewing / examining",
           "is_correct": false,
-          "feedback": "Active meaning."
+          "feedback": "'Viewing' is active, but the effects are the ones being looked at, not the viewers."
         },
         {
           "letter": "B",
           "text": "To view / to examine",
           "is_correct": false,
-          "feedback": "Incorrect."
+          "feedback": "'To view' is an infinitive and cannot modify the subject before the comma."
         },
         {
           "letter": "D",
           "text": "Having viewed / having examined",
           "is_correct": false,
-          "feedback": "Incorrect syntax for this context."
+          "feedback": "'Having viewed' is active and would make the effects the ones doing the viewing."
         }
       ],
       "correct_answer": "C",

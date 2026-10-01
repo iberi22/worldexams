@@ -16,25 +16,25 @@
           "letter": "B",
           "text": "am",
           "is_correct": true,
-          "feedback": "Correct!"
+          "feedback": "'I' always takes the verb 'am' in the present continuous, so the sentence needs 'am reading'."
         },
         {
           "letter": "A",
           "text": "is",
           "is_correct": false,
-          "feedback": "Incorrect. Review the concept."
+          "feedback": "'is' goes with a third-person singular subject such as 'he' or 'she'; the subject here is 'I'."
         },
         {
           "letter": "C",
           "text": "are",
           "is_correct": false,
-          "feedback": "Incorrect. Review the concept."
+          "feedback": "'are' is used with 'you', 'we' and 'they', never with the singular 'I'."
         },
         {
           "letter": "D",
           "text": "be",
           "is_correct": false,
-          "feedback": "Incorrect. Review the concept."
+          "feedback": "After the pronoun 'I' the verb is already conjugated, so the bare infinitive 'be' does not fit."
         }
       ],
       "correct_answer": "B",
@@ -61,25 +61,25 @@
           "letter": "B",
           "text": "Kind and generous",
           "is_correct": true,
-          "feedback": "Correct!"
+          "feedback": "'Benevolent' describes a person who is kind and ready to give help to others."
         },
         {
           "letter": "A",
           "text": "Mean and cruel",
           "is_correct": false,
-          "feedback": "Incorrect. Review the concept."
+          "feedback": "That is the opposite of benevolent, whose root means well-wishing."
         },
         {
           "letter": "C",
           "text": "Quick and fast",
           "is_correct": false,
-          "feedback": "Incorrect. Review the concept."
+          "feedback": "Those describe speed; benevolent refers to character and generosity."
         },
         {
           "letter": "D",
           "text": "Slow and lazy",
           "is_correct": false,
-          "feedback": "Incorrect. Review the concept."
+          "feedback": "Those describe laziness, the opposite of a generous attitude towards others."
         }
       ],
       "correct_answer": "B",
@@ -106,25 +106,25 @@
           "letter": "C",
           "text": "Bees are important for pollination and honey",
           "is_correct": true,
-          "feedback": "Correct!"
+          "feedback": "The text names exactly two things bees do: pollinating flowers and making honey."
         },
         {
           "letter": "A",
           "text": "Bees are dangerous insects",
           "is_correct": false,
-          "feedback": "Incorrect. Review the concept."
+          "feedback": "Nothing in the text says bees are dangerous; it describes useful work they do."
         },
         {
           "letter": "B",
           "text": "Honey is the only product bees make",
           "is_correct": false,
-          "feedback": "Incorrect. Review the concept."
+          "feedback": "The text gives pollination as another thing bees do, so honey is not the only product."
         },
         {
           "letter": "D",
           "text": "Flowers don't need bees",
           "is_correct": false,
-          "feedback": "Incorrect. Review the concept."
+          "feedback": "The text says bees help pollinate flowers, so flowers do rely on them."
         }
       ],
       "correct_answer": "C",
@@ -151,25 +151,25 @@
           "letter": "C",
           "text": "went",
           "is_correct": true,
-          "feedback": "Correct!"
+          "feedback": "'Went' is the irregular past simple of 'go'."
         },
         {
           "letter": "A",
           "text": "goed",
           "is_correct": false,
-          "feedback": "Incorrect. Review the concept."
+          "feedback": "English does not add -ed to spell the past of 'go'; the past form is irregular."
         },
         {
           "letter": "B",
           "text": "gone",
           "is_correct": false,
-          "feedback": "Incorrect. Review the concept."
+          "feedback": "'Gone' is the past participle used after 'have', not the past simple."
         },
         {
           "letter": "D",
           "text": "going",
           "is_correct": false,
-          "feedback": "Incorrect. Review the concept."
+          "feedback": "'Going' is the -ing form, used with 'is' or 'are', not the past simple."
         }
       ],
       "correct_answer": "C",
@@ -196,25 +196,25 @@
           "letter": "A",
           "text": "She goes to school every day.",
           "is_correct": true,
-          "feedback": "Correct!"
+          "feedback": "The third person singular of 'go' takes -s, and 'every day' asks for the present simple."
         },
         {
           "letter": "B",
           "text": "She go to school every day.",
           "is_correct": false,
-          "feedback": "Incorrect. Review the concept."
+          "feedback": "After 'she' the verb needs the -s form; writing 'go' is the classic subject-verb agreement error."
         },
         {
           "letter": "C",
           "text": "She going to school every day.",
           "is_correct": false,
-          "feedback": "Incorrect. Review the concept."
+          "feedback": "That is the -ing form, which needs 'is' or 'are' before it; the sentence shown is missing that auxiliary."
         },
         {
           "letter": "D",
           "text": "She gone to school every day.",
           "is_correct": false,
-          "feedback": "Incorrect. Review the concept."
+          "feedback": "'Gone' is a participle and needs 'has' or 'have'; it cannot stand alone after the subject."
         }
       ],
       "correct_answer": "A",
@@ -241,25 +241,25 @@
           "letter": "C",
           "text": "am",
           "is_correct": true,
-          "feedback": "Correct!"
+          "feedback": "'I' always takes the verb 'am' in the present continuous, so the sentence needs 'am reading'."
         },
         {
           "letter": "A",
           "text": "is",
           "is_correct": false,
-          "feedback": "Incorrect. Review the concept."
+          "feedback": "'is' goes with a third-person singular subject such as 'he' or 'she'; the subject here is 'I'."
         },
         {
           "letter": "B",
           "text": "are",
           "is_correct": false,
-          "feedback": "Incorrect. Review the concept."
+          "feedback": "'are' is used with 'you', 'we' and 'they', never with the singular 'I'."
         },
         {
           "letter": "D",
           "text": "be",
           "is_correct": false,
-          "feedback": "Incorrect. Review the concept."
+          "feedback": "After the pronoun 'I' the verb is already conjugated, so the bare infinitive 'be' does not fit."
         }
       ],
       "correct_answer": "C",
@@ -286,25 +286,25 @@
           "letter": "C",
           "text": "Kind and generous",
           "is_correct": true,
-          "feedback": "Correct!"
+          "feedback": "'Benevolent' describes a person who is kind and ready to give help to others."
         },
         {
           "letter": "A",
           "text": "Mean and cruel",
           "is_correct": false,
-          "feedback": "Incorrect. Review the concept."
+          "feedback": "That is the opposite of benevolent, whose root means well-wishing."
         },
         {
           "letter": "B",
           "text": "Quick and fast",
           "is_correct": false,
-          "feedback": "Incorrect. Review the concept."
+          "feedback": "Those describe speed; benevolent refers to character and generosity."
         },
         {
           "letter": "D",
           "text": "Slow and lazy",
           "is_correct": false,
-          "feedback": "Incorrect. Review the concept."
+          "feedback": "Those describe laziness, the opposite of a generous attitude towards others."
         }
       ],
       "correct_answer": "C",
@@ -331,25 +331,25 @@
           "letter": "D",
           "text": "Bees are important for pollination and honey",
           "is_correct": true,
-          "feedback": "Correct!"
+          "feedback": "The text names exactly two things bees do: pollinating flowers and making honey."
         },
         {
           "letter": "A",
           "text": "Bees are dangerous insects",
           "is_correct": false,
-          "feedback": "Incorrect. Review the concept."
+          "feedback": "Nothing in the text says bees are dangerous; it describes useful work they do."
         },
         {
           "letter": "B",
           "text": "Honey is the only product bees make",
           "is_correct": false,
-          "feedback": "Incorrect. Review the concept."
+          "feedback": "The text gives pollination as another thing bees do, so honey is not the only product."
         },
         {
           "letter": "C",
           "text": "Flowers don't need bees",
           "is_correct": false,
-          "feedback": "Incorrect. Review the concept."
+          "feedback": "The text says bees help pollinate flowers, so flowers do rely on them."
         }
       ],
       "correct_answer": "D",
@@ -376,25 +376,25 @@
           "letter": "A",
           "text": "went",
           "is_correct": true,
-          "feedback": "Correct!"
+          "feedback": "'Went' is the irregular past simple of 'go'."
         },
         {
           "letter": "B",
           "text": "goed",
           "is_correct": false,
-          "feedback": "Incorrect. Review the concept."
+          "feedback": "English does not add -ed to spell the past of 'go'; the past form is irregular."
         },
         {
           "letter": "C",
           "text": "gone",
           "is_correct": false,
-          "feedback": "Incorrect. Review the concept."
+          "feedback": "'Gone' is the past participle used after 'have', not the past simple."
         },
         {
           "letter": "D",
           "text": "going",
           "is_correct": false,
-          "feedback": "Incorrect. Review the concept."
+          "feedback": "'Going' is the -ing form, used with 'is' or 'are', not the past simple."
         }
       ],
       "correct_answer": "A",
@@ -421,25 +421,25 @@
           "letter": "B",
           "text": "She goes to school every day.",
           "is_correct": true,
-          "feedback": "Correct!"
+          "feedback": "The third person singular of 'go' takes -s, and 'every day' asks for the present simple."
         },
         {
           "letter": "A",
           "text": "She go to school every day.",
           "is_correct": false,
-          "feedback": "Incorrect. Review the concept."
+          "feedback": "After 'she' the verb needs the -s form; writing 'go' is the classic subject-verb agreement error."
         },
         {
           "letter": "C",
           "text": "She going to school every day.",
           "is_correct": false,
-          "feedback": "Incorrect. Review the concept."
+          "feedback": "That is the -ing form, which needs 'is' or 'are' before it; the sentence shown is missing that auxiliary."
         },
         {
           "letter": "D",
           "text": "She gone to school every day.",
           "is_correct": false,
-          "feedback": "Incorrect. Review the concept."
+          "feedback": "'Gone' is a participle and needs 'has' or 'have'; it cannot stand alone after the subject."
         }
       ],
       "correct_answer": "B",
@@ -466,25 +466,25 @@
           "letter": "C",
           "text": "am",
           "is_correct": true,
-          "feedback": "Correct!"
+          "feedback": "'I' always takes the verb 'am' in the present continuous, so the sentence needs 'am reading'."
         },
         {
           "letter": "A",
           "text": "is",
           "is_correct": false,
-          "feedback": "Incorrect. Review the concept."
+          "feedback": "'is' goes with a third-person singular subject such as 'he' or 'she'; the subject here is 'I'."
         },
         {
           "letter": "B",
           "text": "are",
           "is_correct": false,
-          "feedback": "Incorrect. Review the concept."
+          "feedback": "'are' is used with 'you', 'we' and 'they', never with the singular 'I'."
         },
         {
           "letter": "D",
           "text": "be",
           "is_correct": false,
-          "feedback": "Incorrect. Review the concept."
+          "feedback": "After the pronoun 'I' the verb is already conjugated, so the bare infinitive 'be' does not fit."
         }
       ],
       "correct_answer": "C",
@@ -511,25 +511,25 @@
           "letter": "D",
           "text": "Kind and generous",
           "is_correct": true,
-          "feedback": "Correct!"
+          "feedback": "'Benevolent' describes a person who is kind and ready to give help to others."
         },
         {
           "letter": "A",
           "text": "Mean and cruel",
           "is_correct": false,
-          "feedback": "Incorrect. Review the concept."
+          "feedback": "That is the opposite of benevolent, whose root means well-wishing."
         },
         {
           "letter": "B",
           "text": "Quick and fast",
           "is_correct": false,
-          "feedback": "Incorrect. Review the concept."
+          "feedback": "Those describe speed; benevolent refers to character and generosity."
         },
         {
           "letter": "C",
           "text": "Slow and lazy",
           "is_correct": false,
-          "feedback": "Incorrect. Review the concept."
+          "feedback": "Those describe laziness, the opposite of a generous attitude towards others."
         }
       ],
       "correct_answer": "D",
@@ -556,25 +556,25 @@
           "letter": "B",
           "text": "Bees are important for pollination and honey",
           "is_correct": true,
-          "feedback": "Correct!"
+          "feedback": "The text names exactly two things bees do: pollinating flowers and making honey."
         },
         {
           "letter": "A",
           "text": "Bees are dangerous insects",
           "is_correct": false,
-          "feedback": "Incorrect. Review the concept."
+          "feedback": "Nothing in the text says bees are dangerous; it describes useful work they do."
         },
         {
           "letter": "C",
           "text": "Honey is the only product bees make",
           "is_correct": false,
-          "feedback": "Incorrect. Review the concept."
+          "feedback": "The text gives pollination as another thing bees do, so honey is not the only product."
         },
         {
           "letter": "D",
           "text": "Flowers don't need bees",
           "is_correct": false,
-          "feedback": "Incorrect. Review the concept."
+          "feedback": "The text says bees help pollinate flowers, so flowers do rely on them."
         }
       ],
       "correct_answer": "B",
@@ -601,25 +601,25 @@
           "letter": "B",
           "text": "went",
           "is_correct": true,
-          "feedback": "Correct!"
+          "feedback": "'Went' is the irregular past simple of 'go'."
         },
         {
           "letter": "A",
           "text": "goed",
           "is_correct": false,
-          "feedback": "Incorrect. Review the concept."
+          "feedback": "English does not add -ed to spell the past of 'go'; the past form is irregular."
         },
         {
           "letter": "C",
           "text": "gone",
           "is_correct": false,
-          "feedback": "Incorrect. Review the concept."
+          "feedback": "'Gone' is the past participle used after 'have', not the past simple."
         },
         {
           "letter": "D",
           "text": "going",
           "is_correct": false,
-          "feedback": "Incorrect. Review the concept."
+          "feedback": "'Going' is the -ing form, used with 'is' or 'are', not the past simple."
         }
       ],
       "correct_answer": "B",
@@ -646,25 +646,25 @@
           "letter": "C",
           "text": "She goes to school every day.",
           "is_correct": true,
-          "feedback": "Correct!"
+          "feedback": "The third person singular of 'go' takes -s, and 'every day' asks for the present simple."
         },
         {
           "letter": "A",
           "text": "She go to school every day.",
           "is_correct": false,
-          "feedback": "Incorrect. Review the concept."
+          "feedback": "After 'she' the verb needs the -s form; writing 'go' is the classic subject-verb agreement error."
         },
         {
           "letter": "B",
           "text": "She going to school every day.",
           "is_correct": false,
-          "feedback": "Incorrect. Review the concept."
+          "feedback": "That is the -ing form, which needs 'is' or 'are' before it; the sentence shown is missing that auxiliary."
         },
         {
           "letter": "D",
           "text": "She gone to school every day.",
           "is_correct": false,
-          "feedback": "Incorrect. Review the concept."
+          "feedback": "'Gone' is a participle and needs 'has' or 'have'; it cannot stand alone after the subject."
         }
       ],
       "correct_answer": "C",
@@ -691,25 +691,25 @@
           "letter": "A",
           "text": "am",
           "is_correct": true,
-          "feedback": "Correct!"
+          "feedback": "'I' always takes the verb 'am' in the present continuous, so the sentence needs 'am reading'."
         },
         {
           "letter": "B",
           "text": "is",
           "is_correct": false,
-          "feedback": "Incorrect. Review the concept."
+          "feedback": "'is' goes with a third-person singular subject such as 'he' or 'she'; the subject here is 'I'."
         },
         {
           "letter": "C",
           "text": "are",
           "is_correct": false,
-          "feedback": "Incorrect. Review the concept."
+          "feedback": "'are' is used with 'you', 'we' and 'they', never with the singular 'I'."
         },
         {
           "letter": "D",
           "text": "be",
           "is_correct": false,
-          "feedback": "Incorrect. Review the concept."
+          "feedback": "After the pronoun 'I' the verb is already conjugated, so the bare infinitive 'be' does not fit."
         }
       ],
       "correct_answer": "A",
@@ -736,25 +736,25 @@
           "letter": "D",
           "text": "Kind and generous",
           "is_correct": true,
-          "feedback": "Correct!"
+          "feedback": "'Benevolent' describes a person who is kind and ready to give help to others."
         },
         {
           "letter": "A",
           "text": "Mean and cruel",
           "is_correct": false,
-          "feedback": "Incorrect. Review the concept."
+          "feedback": "That is the opposite of benevolent, whose root means well-wishing."
         },
         {
           "letter": "B",
           "text": "Quick and fast",
           "is_correct": false,
-          "feedback": "Incorrect. Review the concept."
+          "feedback": "Those describe speed; benevolent refers to character and generosity."
         },
         {
           "letter": "C",
           "text": "Slow and lazy",
           "is_correct": false,
-          "feedback": "Incorrect. Review the concept."
+          "feedback": "Those describe laziness, the opposite of a generous attitude towards others."
         }
       ],
       "correct_answer": "D",
@@ -781,25 +781,25 @@
           "letter": "B",
           "text": "Bees are important for pollination and honey",
           "is_correct": true,
-          "feedback": "Correct!"
+          "feedback": "The text names exactly two things bees do: pollinating flowers and making honey."
         },
         {
           "letter": "A",
           "text": "Bees are dangerous insects",
           "is_correct": false,
-          "feedback": "Incorrect. Review the concept."
+          "feedback": "Nothing in the text says bees are dangerous; it describes useful work they do."
         },
         {
           "letter": "C",
           "text": "Honey is the only product bees make",
           "is_correct": false,
-          "feedback": "Incorrect. Review the concept."
+          "feedback": "The text gives pollination as another thing bees do, so honey is not the only product."
         },
         {
           "letter": "D",
           "text": "Flowers don't need bees",
           "is_correct": false,
-          "feedback": "Incorrect. Review the concept."
+          "feedback": "The text says bees help pollinate flowers, so flowers do rely on them."
         }
       ],
       "correct_answer": "B",
@@ -826,25 +826,25 @@
           "letter": "A",
           "text": "went",
           "is_correct": true,
-          "feedback": "Correct!"
+          "feedback": "'Went' is the irregular past simple of 'go'."
         },
         {
           "letter": "B",
           "text": "goed",
           "is_correct": false,
-          "feedback": "Incorrect. Review the concept."
+          "feedback": "English does not add -ed to spell the past of 'go'; the past form is irregular."
         },
         {
           "letter": "C",
           "text": "gone",
           "is_correct": false,
-          "feedback": "Incorrect. Review the concept."
+          "feedback": "'Gone' is the past participle used after 'have', not the past simple."
         },
         {
           "letter": "D",
           "text": "going",
           "is_correct": false,
-          "feedback": "Incorrect. Review the concept."
+          "feedback": "'Going' is the -ing form, used with 'is' or 'are', not the past simple."
         }
       ],
       "correct_answer": "A",
@@ -871,25 +871,25 @@
           "letter": "A",
           "text": "She goes to school every day.",
           "is_correct": true,
-          "feedback": "Correct!"
+          "feedback": "The third person singular of 'go' takes -s, and 'every day' asks for the present simple."
         },
         {
           "letter": "B",
           "text": "She go to school every day.",
           "is_correct": false,
-          "feedback": "Incorrect. Review the concept."
+          "feedback": "After 'she' the verb needs the -s form; writing 'go' is the classic subject-verb agreement error."
         },
         {
           "letter": "C",
           "text": "She going to school every day.",
           "is_correct": false,
-          "feedback": "Incorrect. Review the concept."
+          "feedback": "That is the -ing form, which needs 'is' or 'are' before it; the sentence shown is missing that auxiliary."
         },
         {
           "letter": "D",
           "text": "She gone to school every day.",
           "is_correct": false,
-          "feedback": "Incorrect. Review the concept."
+          "feedback": "'Gone' is a participle and needs 'has' or 'have'; it cannot stand alone after the subject."
         }
       ],
       "correct_answer": "A",
