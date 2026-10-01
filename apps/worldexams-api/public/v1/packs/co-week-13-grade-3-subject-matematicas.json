@@ -1,0 +1,379 @@
+{
+  "metadata": {
+    "grade": 3,
+    "subject": "matematicas",
+    "country": "co",
+    "pack_id": "co-week-13-grade-3-subject-matematicas",
+    "generated_at": "2026-10-01T06:22:10.390Z"
+  },
+  "questions": [
+    {
+      "id": "CO-MAT-3-2026-W13-multiplicacion-y-problemas-001-MASTERY-bundle-v1",
+      "statement": "¿Cuántos panes hay en total en las 4 bandejas?",
+      "context": "En una panadería del barrio La Candelaria en Bogotá se empacan 4 bandejas con 6 panes cada una.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "10",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sumaste 4 + 6 = 10 porque confundiste la suma de los datos con la multiplicación de grupos iguales."
+        },
+        {
+          "letter": "B",
+          "text": "24",
+          "is_correct": true,
+          "feedback": "Correcto. 4 x 6 = 24 panes porque cada una de las 4 bandejas aporta 6 panes iguales."
+        },
+        {
+          "letter": "C",
+          "text": "18",
+          "is_correct": false,
+          "feedback": "Incorrecto. Calculaste 3 x 6 = 18 porque olvidaste contar una de las 4 bandejas del problema."
+        },
+        {
+          "letter": "D",
+          "text": "28",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sumaste 4 + 24 sin sentido porque combinaste el número de bandejas con un total inventado."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La multiplicación resume la suma de grupos iguales. Aquí hay 4 grupos de 6: 6 + 6 + 6 + 6 = 24, lo que equivale a 4 x 6 = 24 panes.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Numerico",
+      "expected_success": 0.85,
+      "bundle_id": "CO-MAT-3-2026-W13-multiplicacion-y-problemas-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-3-2026-W13-multiplicacion-y-problemas-001-MASTERY-bundle-v2",
+      "statement": "¿Qué multiplicación permite hallar el número total de pupitres?",
+      "context": "En el salón de clase de un colegio en Medellín hay 5 filas de pupitres con 7 pupitres en cada fila.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "5 + 7 = 12",
+          "is_correct": false,
+          "feedback": "Incorrecto. Calculaste 5 + 7 = 12 porque sumaste filas y pupitres en vez de multiplicar grupos iguales."
+        },
+        {
+          "letter": "B",
+          "text": "7 - 5 = 2",
+          "is_correct": false,
+          "feedback": "Incorrecto. Restaste 7 - 5 = 2 porque confundiste el problema de grupos iguales con una diferencia."
+        },
+        {
+          "letter": "C",
+          "text": "5 x 7 = 35",
+          "is_correct": true,
+          "feedback": "Correcto. 5 x 7 = 35 porque hay 5 filas y cada fila equivale a un grupo de 7 pupitres."
+        },
+        {
+          "letter": "D",
+          "text": "5 x 5 = 25",
+          "is_correct": false,
+          "feedback": "Incorrecto. Calculaste 5 x 5 = 25 porque repetiste el número de filas e ignoraste que cada fila tiene 7 pupitres."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Cuando los grupos tienen el mismo tamaño, el total se halla con una multiplicación: número de grupos por tamaño de cada grupo. Aquí 5 filas de 7 dan 5 x 7 = 35 pupitres.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Numerico",
+      "expected_success": 0.83,
+      "bundle_id": "CO-MAT-3-2026-W13-multiplicacion-y-problemas-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-3-2026-W13-multiplicacion-y-problemas-001-MASTERY-bundle-v3",
+      "statement": "¿Cuántos mangos vendió en total doña Marta?",
+      "context": "Doña Marta vende bolsas de mangos en un puesto del mercado de Bazurto en Cartagena. Cada bolsa trae 8 mangos y hoy vendió 6 bolsas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "14",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sumaste 6 + 8 = 14 porque confundiste la suma de los datos con la multiplicación de 6 grupos de 8."
+        },
+        {
+          "letter": "B",
+          "text": "42",
+          "is_correct": false,
+          "feedback": "Incorrecto. Calculaste 6 x 7 = 42 porque restaste un mango a cada bolsa y cada grupo quedó mal contado."
+        },
+        {
+          "letter": "C",
+          "text": "40",
+          "is_correct": false,
+          "feedback": "Incorrecto. Calculaste 5 x 8 = 40 porque olvidaste una de las 6 bolsas vendidas en el mercado."
+        },
+        {
+          "letter": "D",
+          "text": "48",
+          "is_correct": true,
+          "feedback": "Correcto. 6 x 8 = 48 mangos porque cada una de las 6 bolsas contiene 8 mangos."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Se multiplica el número de bolsas por los mangos de cada bolsa: 6 x 8 = 48. Se puede comprobar sumando 8 seis veces: 8 + 8 + 8 + 8 + 8 + 8 = 48.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Resolucion",
+      "expected_success": 0.75,
+      "bundle_id": "CO-MAT-3-2026-W13-multiplicacion-y-problemas-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-3-2026-W13-multiplicacion-y-problemas-001-MASTERY-bundle-v4",
+      "statement": "¿Cuántas galletas compró Santiago?",
+      "context": "En una tienda de barrio en Cali se arman paquetes de galletas con 9 galletas cada uno. Santiago compra 3 paquetes para su familia.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "27",
+          "is_correct": true,
+          "feedback": "Correcto. 3 x 9 = 27 galletas porque son 3 paquetes y cada paquete equivale a 9 galletas."
+        },
+        {
+          "letter": "B",
+          "text": "12",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sumaste 3 + 9 = 12 porque confundiste el total de grupos iguales con una suma simple."
+        },
+        {
+          "letter": "C",
+          "text": "18",
+          "is_correct": false,
+          "feedback": "Incorrecto. Calculaste 2 x 9 = 18 porque contaste solo 2 paquetes y olvidaste el tercer paquete."
+        },
+        {
+          "letter": "D",
+          "text": "36",
+          "is_correct": false,
+          "feedback": "Incorrecto. Calculaste 4 x 9 = 36 porque agregaste un paquete de más que Santiago no compró."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Tres grupos iguales de 9 se resuelven con 3 x 9 = 27. La suma repetida 9 + 9 + 9 = 27 confirma el resultado.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Numerico",
+      "expected_success": 0.73,
+      "bundle_id": "CO-MAT-3-2026-W13-multiplicacion-y-problemas-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-3-2026-W13-multiplicacion-y-problemas-001-MASTERY-bundle-v5",
+      "statement": "Si cada árbol cuesta $2.500, ¿cuánto cuestan en total los árboles de las 7 hileras?",
+      "context": "En un parque de Pereira se sembrarán 7 hileras de árboles con 4 árboles en cada hilera para dar sombra.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$70.000",
+          "is_correct": true,
+          "feedback": "Correcto. 7 x 4 = 28 árboles y 28 x 2500 = 70000 porque primero se halla el total y luego se multiplica por el precio."
+        },
+        {
+          "letter": "B",
+          "text": "$17.500",
+          "is_correct": false,
+          "feedback": "Incorrecto. Calculaste 7 x 2500 = 17500 porque multiplicaste solo las hileras por el precio y olvidaste los 4 árboles de cada hilera."
+        },
+        {
+          "letter": "C",
+          "text": "$10.000",
+          "is_correct": false,
+          "feedback": "Incorrecto. Calculaste 4 x 2500 = 10000 porque solo hallaste el precio de una hilera y no de las 7 hileras."
+        },
+        {
+          "letter": "D",
+          "text": "$27.500",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sumaste 25000 + 2500 sin orden porque mezclaste cantidades sin multiplicar 28 x 2500 correctamente."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Primero se halla el número de árboles: 7 x 4 = 28. Luego el costo: 28 x $2.500 = $70.000. Es un problema de dos multiplicaciones encadenadas con pesos colombianos.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Razonamiento",
+      "expected_success": 0.7,
+      "bundle_id": "CO-MAT-3-2026-W13-multiplicacion-y-problemas-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-3-2026-W13-multiplicacion-y-problemas-001-MASTERY-bundle-v6",
+      "statement": "¿Quién aplicó bien la operación y qué error cometieron los demás?",
+      "context": "Tres estudiantes de Popayán resolvieron el mismo problema: una caja trae 6 jugos y se compraron 5 cajas. Laura dice que son 30, Andrés dice que son 11 y Camila dice que son 25.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Andrés, porque 5 + 6 = 11 reúne los dos números del problema.",
+          "is_correct": false,
+          "feedback": "Incorrecto. 5 + 6 = 11 es falso porque sumar los datos no equivale a juntar 5 grupos de 6 jugos."
+        },
+        {
+          "letter": "B",
+          "text": "Camila, porque 5 x 5 = 25 usa el número de cajas dos veces.",
+          "is_correct": false,
+          "feedback": "Incorrecto. 5 x 5 = 25 es falso porque Camila repitió el 5 y olvidó que cada caja trae 6 jugos, no 5."
+        },
+        {
+          "letter": "C",
+          "text": "Ninguno, porque 5 x 6 = 35 según la tabla del 5.",
+          "is_correct": false,
+          "feedback": "Incorrecto. 5 x 6 = 30 y no 35 porque confundiste el resultado con 5 x 7 = 35 de la tabla."
+        },
+        {
+          "letter": "D",
+          "text": "Laura, porque 5 x 6 = 30 corresponde a 5 grupos iguales de 6 jugos.",
+          "is_correct": true,
+          "feedback": "Correcto. 5 x 6 = 30 es correcto porque el problema pide 5 grupos iguales de 6 y Laura aplicó la multiplicación."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "El análisis compara procedimientos: solo la multiplicación de grupos iguales resuelve el problema. 5 cajas de 6 jugos es 5 x 6 = 30. Sumar los datos o cambiar un factor produce errores que se detectan revisando el significado de cada número.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Razonamiento",
+      "expected_success": 0.62,
+      "bundle_id": "CO-MAT-3-2026-W13-multiplicacion-y-problemas-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-3-2026-W13-multiplicacion-y-problemas-001-MASTERY-bundle-v7",
+      "statement": "¿Es correcta la afirmación del profesor?",
+      "context": "En un colegio de Neiva hay 8 mesas en la biblioteca y en cada mesa caben 6 estudiantes. El profesor afirma que con 50 sillas alcanza para todos los puestos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Sí, porque 8 + 6 = 14 y 14 es menor que 50.",
+          "is_correct": false,
+          "feedback": "Incorrecto. 8 + 6 = 14 es falso como total porque sumaste mesas y puestos en vez de multiplicar 8 x 6."
+        },
+        {
+          "letter": "B",
+          "text": "Sí, porque 8 x 6 = 48 y 48 es mayor que 50.",
+          "is_correct": false,
+          "feedback": "Incorrecto. 48 es menor que 50 y no mayor porque comparaste al revés los dos números del problema."
+        },
+        {
+          "letter": "C",
+          "text": "No, porque 8 x 6 = 48 puestos y 48 es menor que 50, así que sobran 2 sillas.",
+          "is_correct": true,
+          "feedback": "Correcto. 8 x 6 = 48 y 50 - 48 = 2 porque el total de puestos es menor que las sillas disponibles."
+        },
+        {
+          "letter": "D",
+          "text": "No, porque 8 x 7 = 56 y faltan 6 sillas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Cada mesa tiene 6 puestos y no 7 porque cambiaste el dato y 8 x 7 = 56 no corresponde al problema."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Se calcula la capacidad real: 8 x 6 = 48 puestos. Luego se compara con 50 sillas: 48 < 50, así que sí alcanza y sobran 2. El error está en comparar mal o en usar un factor equivocado.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Formulacion",
+      "expected_success": 0.6,
+      "bundle_id": "CO-MAT-3-2026-W13-multiplicacion-y-problemas-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-3-2026-W13-multiplicacion-y-problemas-001-MASTERY-bundle-v8",
+      "statement": "¿Cuál es la mejor decisión con los $20.000 disponibles?",
+      "context": "Una mamá en Valledupar tiene $20.000 para comprar cuadernos de $4.500 cada uno para sus dos hijos. El vendedor le propone dos opciones: llevar 4 cuadernos con descuento y pagar $18.000 en total, o llevar 5 cuadernos pagando el precio normal.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Llevar los 5 cuadernos al precio normal, porque 5 x 4500 = 20000 justo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. 5 x 4500 = 22500 y no 20000 porque multiplicaste mal y la cuenta supera el dinero disponible."
+        },
+        {
+          "letter": "B",
+          "text": "Llevar los 4 cuadernos por $18.000, porque 4 x 4500 = 18000 y le quedan $2.000, mientras 5 cuadernos costarían $22.500.",
+          "is_correct": true,
+          "feedback": "Correcto. 5 x 4500 = 22500 supera los 20000 porque la segunda opción excede el dinero disponible y la primera sí alcanza."
+        },
+        {
+          "letter": "C",
+          "text": "Llevar 4 cuadernos al precio normal, porque 4 + 4500 = 4504 es muy barato.",
+          "is_correct": false,
+          "feedback": "Incorrecto. 4 x 4500 = 18000 y no 4504 porque sumaste en vez de multiplicar el precio por la cantidad."
+        },
+        {
+          "letter": "D",
+          "text": "No comprar nada, porque 2 x 4500 = 9000 ya supera los $20.000.",
+          "is_correct": false,
+          "feedback": "Incorrecto. 2 x 4500 = 9000 es menor que 20000 porque comparaste al revés y sí hay dinero suficiente."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Evaluar exige comparar las dos opciones con el límite de dinero. Opción 1: $18.000, queda $2.000. Opción 2: 5 x $4.500 = $22.500, que supera los $20.000. Por eso la mejor decisión es la primera, pues respeta el presupuesto y cubre la necesidad.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Modelacion",
+      "expected_success": 0.55,
+      "bundle_id": "CO-MAT-3-2026-W13-multiplicacion-y-problemas-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 3,
+      "country": "co"
+    }
+  ]
+}

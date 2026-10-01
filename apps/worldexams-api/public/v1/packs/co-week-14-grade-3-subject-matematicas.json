@@ -1,0 +1,379 @@
+{
+  "metadata": {
+    "grade": 3,
+    "subject": "matematicas",
+    "country": "co",
+    "pack_id": "co-week-14-grade-3-subject-matematicas",
+    "generated_at": "2026-10-01T06:22:10.390Z"
+  },
+  "questions": [
+    {
+      "id": "CO-MAT-3-2026-W14-division-en-la-vida-diaria-001-MASTERY-bundle-v1",
+      "statement": "¿Cuántos bananos le corresponden a cada hijo?",
+      "context": "En una tienda de barrio en Barranquilla la mamá de Juan compra 12 bananos para repartir en partes iguales entre sus 3 hijos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "9",
+          "is_correct": false,
+          "feedback": "Incorrecto. Calculaste 12 - 3 = 9 porque restaste en vez de repartir 12 ÷ 3 en partes iguales."
+        },
+        {
+          "letter": "B",
+          "text": "15",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sumaste 12 + 3 = 15 porque confundiste el reparto equitativo con una suma de datos."
+        },
+        {
+          "letter": "C",
+          "text": "4",
+          "is_correct": true,
+          "feedback": "Correcto. 12 ÷ 3 = 4 porque repartir 12 en 3 grupos iguales significa que cada grupo recibe 4."
+        },
+        {
+          "letter": "D",
+          "text": "6",
+          "is_correct": false,
+          "feedback": "Incorrecto. Calculaste 12 ÷ 2 = 6 porque repartiste entre 2 hijos y olvidaste que son 3 hijos."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Dividir es repartir en partes iguales. 12 bananos entre 3 hijos es 12 ÷ 3 = 4. Se comprueba con 3 x 4 = 12.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Numerico",
+      "expected_success": 0.85,
+      "bundle_id": "CO-MAT-3-2026-W14-division-en-la-vida-diaria-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-3-2026-W14-division-en-la-vida-diaria-001-MASTERY-bundle-v2",
+      "statement": "¿Qué división permite hallar cuántos colores recibe cada mesa?",
+      "context": "En un salón de Pasto hay 20 colores que la profesora quiere repartir en partes iguales entre 4 mesas de trabajo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "20 - 4 = 16",
+          "is_correct": false,
+          "feedback": "Incorrecto. 20 - 4 = 16 no reparte porque la resta quita solo una vez y no forma 4 grupos iguales."
+        },
+        {
+          "letter": "B",
+          "text": "20 + 4 = 24",
+          "is_correct": false,
+          "feedback": "Incorrecto. 20 + 4 = 24 junta cantidades porque confundiste el reparto con una suma que aumenta el total."
+        },
+        {
+          "letter": "C",
+          "text": "20 ÷ 5 = 4",
+          "is_correct": false,
+          "feedback": "Incorrecto. El divisor es 4 mesas y no 5 porque cambiaste el número de grupos del reparto."
+        },
+        {
+          "letter": "D",
+          "text": "20 ÷ 4 = 5",
+          "is_correct": true,
+          "feedback": "Correcto. 20 ÷ 4 = 5 porque se reparte el total de 20 entre las 4 mesas en partes iguales."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "El dividendo es lo que se reparte (20 colores) y el divisor es el número de grupos (4 mesas). La división 20 ÷ 4 = 5 indica 5 colores por mesa.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Numerico",
+      "expected_success": 0.83,
+      "bundle_id": "CO-MAT-3-2026-W14-division-en-la-vida-diaria-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-3-2026-W14-division-en-la-vida-diaria-001-MASTERY-bundle-v3",
+      "statement": "¿Cuántas bolsas puede armar don Pedro?",
+      "context": "Don Pedro vende naranjas en la plaza de mercado de Montería. Tiene 30 naranjas y las empaca en bolsas de 6 naranjas para venderlas a $3.000 cada bolsa.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "5",
+          "is_correct": true,
+          "feedback": "Correcto. 30 ÷ 6 = 5 bolsas porque cada grupo de 6 naranjas forma una bolsa completa."
+        },
+        {
+          "letter": "B",
+          "text": "24",
+          "is_correct": false,
+          "feedback": "Incorrecto. Calculaste 30 - 6 = 24 porque restaste una sola bolsa en vez de formar grupos de 6."
+        },
+        {
+          "letter": "C",
+          "text": "6",
+          "is_correct": false,
+          "feedback": "Incorrecto. Elegiste el tamaño de la bolsa porque confundiste el divisor 6 con el cociente del reparto."
+        },
+        {
+          "letter": "D",
+          "text": "36",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sumaste 30 + 6 = 36 porque juntaste los datos en vez de dividir 30 ÷ 6."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Agrupar de 6 en 6 es dividir: 30 ÷ 6 = 5. Se verifica con 5 x 6 = 30 naranjas en total.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Resolucion",
+      "expected_success": 0.75,
+      "bundle_id": "CO-MAT-3-2026-W14-division-en-la-vida-diaria-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-3-2026-W14-division-en-la-vida-diaria-001-MASTERY-bundle-v4",
+      "statement": "¿Cuántas arepas come cada persona?",
+      "context": "En una familia de Bucaramanga hay 5 personas y compraron una bandeja con 25 arepas para el desayuno, repartidas en partes iguales.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "20",
+          "is_correct": false,
+          "feedback": "Incorrecto. Calculaste 25 - 5 = 20 porque restaste una vez en vez de repartir 25 ÷ 5."
+        },
+        {
+          "letter": "B",
+          "text": "5",
+          "is_correct": true,
+          "feedback": "Correcto. 25 ÷ 5 = 5 arepas porque el total se reparte equitativamente entre las 5 personas."
+        },
+        {
+          "letter": "C",
+          "text": "4",
+          "is_correct": false,
+          "feedback": "Incorrecto. Calculaste 20 ÷ 5 = 4 porque cambiaste el total de 25 a 20 sin razón."
+        },
+        {
+          "letter": "D",
+          "text": "30",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sumaste 25 + 5 = 30 porque confundiste el reparto equitativo con agregar cantidades."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Repartir 25 arepas entre 5 personas es 25 ÷ 5 = 5. La prueba es 5 x 5 = 25 arepas totales.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Numerico",
+      "expected_success": 0.73,
+      "bundle_id": "CO-MAT-3-2026-W14-division-en-la-vida-diaria-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-3-2026-W14-division-en-la-vida-diaria-001-MASTERY-bundle-v5",
+      "statement": "¿Cuántos cuadernos recibe cada curso?",
+      "context": "En un colegio de Villavicencio llegaron 42 cuadernos para repartir en partes iguales entre 6 cursos de grado tercero.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "36",
+          "is_correct": false,
+          "feedback": "Incorrecto. Calculaste 42 - 6 = 36 porque solo quitaste un grupo en vez de dividir 42 ÷ 6."
+        },
+        {
+          "letter": "B",
+          "text": "7",
+          "is_correct": true,
+          "feedback": "Correcto. 42 ÷ 6 = 7 cuadernos porque 6 x 7 = 42 confirma el reparto exacto."
+        },
+        {
+          "letter": "C",
+          "text": "6",
+          "is_correct": false,
+          "feedback": "Incorrecto. Elegiste el número de cursos porque confundiste el divisor 6 con la cantidad que recibe cada curso."
+        },
+        {
+          "letter": "D",
+          "text": "8",
+          "is_correct": false,
+          "feedback": "Incorrecto. Calculaste 48 ÷ 6 = 8 porque cambiaste el total de 42 a 48 que no corresponde."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Dividir 42 entre 6 da 7, pues 6 grupos de 7 completan 42. Es un reparto exacto sin sobrantes.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Razonamiento",
+      "expected_success": 0.7,
+      "bundle_id": "CO-MAT-3-2026-W14-division-en-la-vida-diaria-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-3-2026-W14-division-en-la-vida-diaria-001-MASTERY-bundle-v6",
+      "statement": "¿Cuántos dulces le tocan a cada primo y cuál es el error de Sofía?",
+      "context": "Dos hermanos en Manizales discuten cómo repartir 28 dulces entre 4 primos. Felipe dice que tocan de a 7 porque 4 x 7 = 28. Sofía dice que tocan de a 6 porque 28 - 4 = 24 y luego reparte.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Sofía, porque 28 - 4 = 24 es el primer paso del reparto.",
+          "is_correct": false,
+          "feedback": "Incorrecto. 28 - 4 = 24 no reparte porque restar una vez no equivale a formar 4 grupos iguales."
+        },
+        {
+          "letter": "B",
+          "text": "Felipe, porque 28 ÷ 7 = 4 significa que sobran 4 dulces.",
+          "is_correct": false,
+          "feedback": "Incorrecto. 28 ÷ 4 = 7 no deja sobrante porque interpretaste el cociente como residuo del reparto."
+        },
+        {
+          "letter": "C",
+          "text": "Felipe, porque 28 ÷ 4 = 7 y se comprueba con 4 x 7 = 28 dulces totales.",
+          "is_correct": true,
+          "feedback": "Correcto. 28 ÷ 4 = 7 es correcto porque la multiplicación inversa 4 x 7 = 28 confirma el reparto."
+        },
+        {
+          "letter": "D",
+          "text": "Sofía, porque 28 ÷ 4 = 6 con residuo de 4.",
+          "is_correct": false,
+          "feedback": "Incorrecto. 4 x 6 = 24 y no 28 porque con 6 por grupo faltarían 4 dulces para completar el total."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Analizar exige verificar con la operación inversa. Solo 28 ÷ 4 = 7 cumple que 4 x 7 = 28. Restar una vez no reparte y cambiar el cociente rompe la igualdad.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Razonamiento",
+      "expected_success": 0.62,
+      "bundle_id": "CO-MAT-3-2026-W14-division-en-la-vida-diaria-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-3-2026-W14-division-en-la-vida-diaria-001-MASTERY-bundle-v7",
+      "statement": "¿Es correcta la afirmación del ayudante?",
+      "context": "En una panadería de Pereira hay 36 panes para empacar en bolsas de 9 panes. El ayudante dice que salen 3 bolsas porque 36 - 9 = 27 y luego cuenta algo más.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Sí, porque 36 - 9 = 27 y 27 es múltiplo de 9.",
+          "is_correct": false,
+          "feedback": "Incorrecto. 36 - 9 = 27 solo quita una bolsa porque restar una vez no equivale a dividir 36 ÷ 9."
+        },
+        {
+          "letter": "B",
+          "text": "Sí, porque 36 ÷ 12 = 3 usa un divisor mayor.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El divisor es 9 panes por bolsa y no 12 porque cambiaste el tamaño del grupo."
+        },
+        {
+          "letter": "C",
+          "text": "No, porque 36 ÷ 9 = 5 con residuo de 1.",
+          "is_correct": false,
+          "feedback": "Incorrecto. 5 x 9 = 45 supera 36 porque con 5 bolsas harían falta 9 panes más."
+        },
+        {
+          "letter": "D",
+          "text": "No, porque 36 ÷ 9 = 4 bolsas y 4 x 9 = 36 comprueba el total.",
+          "is_correct": true,
+          "feedback": "Correcto. 36 ÷ 9 = 4 es lo correcto porque 4 grupos de 9 completan los 36 panes sin sobrar."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "El ayudante confundió restar una vez con dividir. La división agrupa repetidamente: 36 ÷ 9 = 4 bolsas, verificado con 4 x 9 = 36.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Formulacion",
+      "expected_success": 0.6,
+      "bundle_id": "CO-MAT-3-2026-W14-division-en-la-vida-diaria-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-3-2026-W14-division-en-la-vida-diaria-001-MASTERY-bundle-v8",
+      "statement": "¿Cuál plan aprovecha mejor los vasos sin que falte ninguno?",
+      "context": "Para una fiesta en Sincelejo se tienen 50 vasos de jugo y 6 mesas. La organizadora propone dos planes: plan A, repartir 8 vasos por mesa y guardar 2; plan B, repartir 7 vasos por mesa y guardar el resto.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El plan A, porque 6 x 8 = 48 y 50 - 48 = 2, así se sirven más vasos por mesa.",
+          "is_correct": true,
+          "feedback": "Correcto. 6 x 8 = 48 deja resto 2 porque es el reparto más grande posible sin superar los 50 vasos."
+        },
+        {
+          "letter": "B",
+          "text": "El plan B, porque 6 x 7 = 35 y sobran más vasos guardados.",
+          "is_correct": false,
+          "feedback": "Incorrecto. 6 x 7 = 42 y no 35 porque multiplicaste mal y además guardar más significa servir menos."
+        },
+        {
+          "letter": "C",
+          "text": "El plan A, porque 50 ÷ 6 = 8 y no sobra nada.",
+          "is_correct": false,
+          "feedback": "Incorrecto. 50 ÷ 6 = 8 con resto 2 porque la división no es exacta y sí sobran 2 vasos."
+        },
+        {
+          "letter": "D",
+          "text": "Ambos son iguales, porque 8 y 7 son parecidos y el resto no importa.",
+          "is_correct": false,
+          "feedback": "Incorrecto. 48 es mayor que 42 porque con 8 por mesa se sirven 6 vasos más que con 7 por mesa."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Evaluar implica comparar cociente y residuo. 50 ÷ 6 = 8 con residuo 2 es el reparto máximo. El plan B da 6 x 7 = 42 y guarda 8, desperdicia capacidad de las mesas. Por eso el plan A es mejor.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Modelacion",
+      "expected_success": 0.55,
+      "bundle_id": "CO-MAT-3-2026-W14-division-en-la-vida-diaria-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 3,
+      "country": "co"
+    }
+  ]
+}
