@@ -128,7 +128,7 @@ La no discriminacion es un principio transversal de toda la Carta Internacional.
   <!-- feedback: Incorrecto. La libertad de circulacion no es el instrumento pertinente, porque el problema es la amenaza de un companero. -->
 - [ ] B) El derecho a la propiedad, porque el estudiante debe recuperar sus objetos personales.
   <!-- feedback: Incorrecto. El asunto no es la propiedad de objetos, sino la seguridad y la no violencia. -->
-- [x] B) El derecho a la vida y a la integridad personal, porque una amenaza constituye una vulneracion grave.
+- [x] C) El derecho a la vida y a la integridad personal, porque una amenaza constituye una vulneracion grave.
   <!-- feedback: Correcto. La Carta protege la vida y la integridad de toda persona, y una amenaza vulnera ese derecho. -->
 - [ ] D) El derecho a la educación, porque el estudiante podria dejar de asistir a clases.
   <!-- feedback: Incorrecto. La educación esta relacionada, pero el instrumento que protege frente a una amenaza directa es la integridad personal. -->
