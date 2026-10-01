@@ -186,10 +186,13 @@ Ademas, si borras un bundle, debes regenerar los packs con:
 
 ```bash
 cd saberparatodos && node scripts/generate-static-packs.js --all-weekly --changed-only
+cd .. && node apps/worldexams-api/scripts/build-pack-manifest.mjs
 ```
 
 porque los packs son artefactos derivados: si no se regeneran, las preguntas del bundle
-borrado siguen sirviéndose por el API aunque el `.md` ya no exista.
+borrado siguen sirviéndose por el API aunque el `.md` ya no exista. Y porque los packs
+tambien son invisibles para el worker si faltan en `_manifest.json` (ver
+[Static Pack Publication](#static-pack-publication)).
 
 ## Difficulty And Bloom
 
@@ -333,12 +336,44 @@ Decision arquitectonica:
 - No editar packs JSON manualmente para corregir contenido. Corregir primero el `.md`, validar, y regenerar packs.
 - El conversor debe preservar texto, respuesta correcta y feedback de cada opcion aunque el feedback HTML este en la linea siguiente a la opcion.
 
-Comandos canonicos despues de integrar bundles:
+Comandos canonicos despues de integrar bundles (SON TRES, en este orden):
 
 ```bash
+# 1. Regenerar los packs derivados desde el markdown
 cd saberparatodos
 node scripts/generate-static-packs.js --all-weekly --changed-only
+
+# 2. Reconstruir el indice que usa el worker para resolver packs
+cd ..
+node apps/worldexams-api/scripts/build-pack-manifest.mjs
+
+# 3. Commitear AMBOS artefactos (packs + _manifest.json) en el mismo push
 ```
+
+### El paso 2 no es opcional: sin `_manifest.json`, los packs dan 404
+
+Desde #1508 el worker NO prueba combinaciones de alias/prefijo para localizar un
+pack: lee `apps/worldexams-api/public/v1/packs/_manifest.json` en una sola lectura
+de asset, porque las combinaciones excedian el limite de subrequests de Cloudflare
+Workers. Consecuencia medida: **un pack que existe en disco y esta desplegado pero
+falta en el manifiesto devuelve 404**, aunque el deploy salga en verde.
+
+El generador de packs **nunca escribe el manifiesto**: es un paso aparte. Por eso
+`generate-static-packs.js` por si solo no publica nada, y por eso el despliegue de
+los batches anteriores tambien estaba incompleto (el 2026-10-01 el manifiesto tenia
+4.831 entradas contra 4.897 packs reales, 66 packs invisibles mas los recien anadidos).
+
+Verificacion (debe ejecutarse tras regenerar):
+
+```bash
+node apps/worldexams-api/scripts/build-pack-manifest.mjs --check   # falla si esta stale
+curl -s -o /dev/null -w "%{http_code}\n" https://api.saberparatodos.space/v1/packs/co-week-23-grade-3-subject-matematicas.json
+```
+
+`deploy-production.yml` ejecuta el paso 2 antes de `wrangler deploy`, asi que
+produccion nunca queda stale aunque se olvide el commit. La copia commiteada en
+git si importa para `deploy-preview.yml` y para cualquier lectura local del worker.
+El script excluye `metadata.json` y `current.json` del indice: no son packs.
 
 Verificaciones minimas:
 
